@@ -141,14 +141,19 @@ class Conjunction(JunctorCondition):
             return Truth()
         if len(result_parts) == 1:
             return result_parts[0]
-        # Simplify contradictions
-        atoms = set()
+        # Simplify contraditions
+        atoms = set() # set for tracking binary facts
+        observed_values = defaultdict(set) # var -> set dict for tracking FDR variables
         for part in result_parts:
-            if not is_atomic(part):
-                continue
-            if part.negate() in atoms:
-                return Falsity()
-            atoms.add(part)
+            if is_atomic(part):
+                if part.negate() in atoms:
+                    return Falsity()
+                atoms.add(part)
+            elif is_varval(part):
+                observed_values[part.var].add(part.val)
+                # Check if multiple values are in the set
+                if len(observed_values[part.var]) >= 2:
+                    return Falsity()
         # Simplify redundancies
         result_parts = list(set(result_parts))
         return Conjunction(result_parts)
