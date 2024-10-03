@@ -11,15 +11,22 @@ from scoping.merging import merge
 
 
 def filter_causal_links(
-    facts: FactSet, init: list[VarValPair], actions: set[VarValAction]
+    facts: FactSet,
+    init: list[VarValPair],
+    actions: set[VarValAction],
+    variables_only: bool = False,
 ) -> FactSet:
     """Remove any facts from `facts` that are present in the initial state `init` and
     unthreatened by any of the `actions`."""
     affected_facts = FactSet()
     for a in actions:
         affected_facts.add(a.effects)
+
+    def benign_sets(val):
+        return [set()] if variables_only else [set(), set([val])]
+
     unthreatened_init_facts = [
-        (var, val) for (var, val) in init if affected_facts[var] in [set(), set([val])]
+        (var, val) for (var, val) in init if affected_facts[var] in benign_sets(val)
     ]
     unthreatened_init_facts = FactSet(unthreatened_init_facts)
     relevant_facts = FactSet()
@@ -91,9 +98,13 @@ def goal_relevance_step(
     variables_only: bool = False,
 ) -> Tuple[FactSet, list[VarValAction]]:
     if enable_causal_links:
-        filtered_facts = filter_causal_links(facts, init, relevant_actions)
+        filtered_facts = filter_causal_links(
+            facts, init, relevant_actions, variables_only=variables_only
+        )
     else:
         filtered_facts = facts
+    if variables_only:
+        coarsen_facts_to_variables(filtered_facts, domains)
     relevant_actions = get_goal_relevant_actions(filtered_facts, actions)
     relevant_facts = get_goal_relevant_facts(
         domains,
@@ -102,9 +113,6 @@ def goal_relevance_step(
         enable_merging=enable_merging,
     )
     relevant_facts.union(filtered_facts)
-
-    if variables_only:
-        coarsen_facts_to_variables(relevant_facts, domains)
 
     return relevant_facts, relevant_actions
 

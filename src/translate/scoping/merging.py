@@ -53,18 +53,18 @@ def merge(
         h = a.effect_hash(relevant_variables)
         assert h == h0, "Attempted to merge skills with different effects/costs"
 
-    # # TODO: Is merging only useful if at least one variable spans its whole domain?
-    # precond_facts = FactSet()
-    # for a in actions:
-    #     precond_facts.union(get_precondition_facts(a, variable_domains))
-    # if not any(values == variable_domains[var] for var, values in precond_facts):
-    #     return precond_facts
+    # Merging only helps if at least one variable spans its whole domain
+    precond_facts = FactSet()
+    for a in actions:
+        precond_facts.union(get_precondition_facts(a, variable_domains))
+    if not any(values == variable_domains[var] for var, values in precond_facts):
+        return precond_facts
 
-    # collect the precondition variables
+    # Collect the precondition variables
     precond_vars_by_action = [set([var for var, _ in a.precondition]) for a in actions]
     all_precond_vars = set().union(*precond_vars_by_action)
 
-    # build the set of satisfying partial states for the merged action
+    # Build the set of satisfying partial states for the merged action
     satisfying_partial_states = set()
     for action, precond_vars in zip(actions, precond_vars_by_action):
         dont_care_vars = all_precond_vars.difference(precond_vars)
