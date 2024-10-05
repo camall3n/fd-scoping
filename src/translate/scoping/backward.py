@@ -4,8 +4,8 @@
 # %%
 from typing import Any, Tuple
 
-from pddl.actions import VarValAction
 from sas_tasks import SASTask, VarValPair
+from scoping.actions import VarValAction
 from scoping.factset import FactSet
 from scoping.merging import merge
 from scoping.task import ScopingTask

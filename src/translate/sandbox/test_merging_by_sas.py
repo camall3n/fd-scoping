@@ -8,7 +8,7 @@ import sys
 import pddl_parser
 
 from sas_tasks import VarValPair
-from pddl.actions import VarValAction
+from scoping.actions import VarValAction
 from scoping.merging import merge
 
 import options

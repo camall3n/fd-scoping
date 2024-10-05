@@ -3,8 +3,9 @@ from typing import Any
 
 from normalize import convert_to_DNF
 from pddl.conditions import Condition, Disjunction, Conjunction
-from pddl.actions import Action, PropositionalAction, VarValAction
+from pddl.actions import Action, PropositionalAction
 from sas_tasks import VarValPair
+from scoping.actions import VarValAction
 from scoping.factset import FactSet
 
 

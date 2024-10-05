@@ -1,8 +1,8 @@
 #!%cd ~/dev/downward/src/translate
 #
+from scoping.actions import VarValAction
 from scoping.backward import compute_goal_relevance
 from scoping.factset import FactSet
-from pddl.actions import VarValAction
 from scoping.task import ScopingTask
 
 

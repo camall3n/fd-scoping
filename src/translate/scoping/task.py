@@ -1,8 +1,7 @@
 from dataclasses import dataclass
 
 import sas_tasks as fd
-from pddl.actions import VarValAction
-
+from scoping.actions import VarValAction
 from scoping.factset import FactSet, VarValPair
 
 
