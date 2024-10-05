@@ -8,6 +8,7 @@ from pddl.actions import VarValAction
 from sas_tasks import SASTask, VarValPair
 from scoping.factset import FactSet
 from scoping.merging import merge
+from scoping.task import ScopingTask
 
 
 def filter_causal_links(
@@ -118,35 +119,30 @@ def goal_relevance_step(
 
 
 def compute_goal_relevance(
-    sas_task: SASTask,
+    scoping_task: ScopingTask,
     enable_merging: bool = False,
     enable_causal_links: bool = False,
     variables_only: bool = False,
 ) -> Tuple[FactSet, list[VarValAction]]:
-    domains = FactSet(
-        {i: set(range(r)) for i, r in enumerate(sas_task.variables.ranges)}
-    )
-    init = list(enumerate(sas_task.init.values))
-    actions = [VarValAction.from_sas(op) for op in sas_task.operators]
-    relevant_facts = FactSet(sas_task.goal.pairs)
+    relevant_facts = FactSet(scoping_task.goal)
     if variables_only:
-        coarsen_facts_to_variables(relevant_facts, domains)
+        coarsen_facts_to_variables(relevant_facts, scoping_task.domains)
     relevant_actions = []
     prev_facts = None
     prev_actions = []
     while relevant_facts != prev_facts or len(relevant_actions) != len(prev_actions):
         prev_facts, prev_actions = relevant_facts, relevant_actions
         relevant_facts, relevant_actions = goal_relevance_step(
-            domains,
+            scoping_task.domains,
             relevant_facts,
-            init,
-            actions,
+            scoping_task.init,
+            scoping_task.actions,
             relevant_actions,
             enable_merging,
             enable_causal_links,
             variables_only=variables_only,
         )
-
+    relevant_facts.add(scoping_task.init)
     return relevant_facts, relevant_actions
 
 

@@ -3,40 +3,7 @@
 from scoping.backward import compute_goal_relevance
 from scoping.factset import FactSet
 from pddl.actions import VarValAction
-import sas_tasks as fd
-
-
-def make_sas_task(
-    domains: FactSet,
-    actions: list[VarValAction],
-    init: list[fd.VarValPair],
-    goal: list[fd.VarValPair],
-) -> fd.SASTask:
-    var_index = {var: i for i, var in enumerate(sorted(domains.variables))}
-    sas_task = fd.SASTask(
-        variables=fd.SASVariables(
-            ranges=[len(domains[var]) for var in sorted(domains.variables)],
-            axiom_layers=[-1 for _ in domains.variables],
-            value_names=[sorted(list(values)) for _, values in domains],
-        ),
-        mutexes=[
-            fd.SASMutexGroup(facts=[(var, i) for var, vals in domains for i in vals])
-        ],
-        init=fd.SASInit(values=[val for _, val in sorted(init)]),
-        goal=fd.SASGoal([(var_index[var], val) for var, val in goal]),
-        operators=[
-            fd.SASOperator(
-                name=a.name,
-                prevail=[(var_index[var], val) for var, val in a.prevail],
-                pre_post=[(var_index[var], *etc) for var, *etc in a.pre_post],
-                cost=a.cost,
-            )
-            for a in actions
-        ],
-        axioms=[],
-        metric=False,
-    )
-    return sas_task
+from scoping.task import ScopingTask
 
 
 def make_vanilla_task(
@@ -63,13 +30,7 @@ def make_vanilla_task(
         ("x", 1),
     ],
 ):
-    info = {
-        "domains": domains,
-        "actions": actions,
-        "init": init,
-        "goal": goal,
-    }
-    return make_sas_task(**info), info
+    return ScopingTask(domains, init, goal, actions)
 
 
 def make_merge_task(
@@ -96,21 +57,17 @@ def make_merge_task(
         ("z", 1),
     ],
 ):
-    info = {
-        "domains": domains,
-        "actions": actions,
-        "init": init,
-        "goal": goal,
-    }
-    return make_sas_task(**info), info
+    return ScopingTask(domains, init, goal, actions)
 
 
 def translate_results(
     relevant_facts: FactSet,
     relevant_actions: list[VarValAction],
-    info: dict[FactSet, list[VarValAction], list[fd.VarValPair]],
+    scoping_task: ScopingTask,
 ):
-    var_at_index = {i: var for i, var in enumerate(sorted(info["domains"].variables))}
+    var_at_index = {
+        i: var for i, var in enumerate(sorted(scoping_task.domains.variables))
+    }
     translated_facts = FactSet(
         {var_at_index[i]: values for i, values in relevant_facts}
     )
@@ -127,94 +84,76 @@ def translate_results(
 
 
 def test_vanilla_values_single():
-    sas_task, info = make_vanilla_task()
-    relevant_facts, relevant_actions = translate_results(
-        *compute_goal_relevance(
-            sas_task,
-            enable_merging=False,
-            enable_causal_links=False,
-            variables_only=False,
-        ),
-        info,
+    scoping_task = make_vanilla_task()
+    relevant_facts, relevant_actions = compute_goal_relevance(
+        scoping_task,
+        enable_merging=False,
+        enable_causal_links=False,
+        variables_only=False,
     )
 
-    assert relevant_facts == FactSet({"x": {0, 1}})
+    assert relevant_facts == FactSet({"x": {0, 1}, "y": {0}, "z": {0}})
     assert sorted([a.name for a in relevant_actions]) == ["a1"]
 
 
 def test_vanilla_variables_single():
-    sas_task, info = make_vanilla_task()
-    relevant_facts, relevant_actions = translate_results(
-        *compute_goal_relevance(
-            sas_task,
-            enable_merging=False,
-            enable_causal_links=False,
-            variables_only=True,
-        ),
-        info,
+    scoping_task = make_vanilla_task()
+    relevant_facts, relevant_actions = compute_goal_relevance(
+        scoping_task,
+        enable_merging=False,
+        enable_causal_links=False,
+        variables_only=True,
     )
 
-    assert relevant_facts == FactSet({"x": {0, 1, 2}, "y": {0, 1}})
+    assert relevant_facts == FactSet({"x": {0, 1, 2}, "y": {0, 1}, "z": {0}})
     assert sorted([a.name for a in relevant_actions]) == ["a1", "a2", "b1"]
 
 
 def test_vanilla_values_chain():
-    sas_task, info = make_vanilla_task(goal=[("z", 1)])
-    relevant_facts, relevant_actions = translate_results(
-        *compute_goal_relevance(
-            sas_task,
-            enable_merging=False,
-            enable_causal_links=False,
-            variables_only=False,
-        ),
-        info,
+    scoping_task = make_vanilla_task(goal=[("z", 1)])
+    relevant_facts, relevant_actions = compute_goal_relevance(
+        scoping_task,
+        enable_merging=False,
+        enable_causal_links=False,
+        variables_only=False,
     )
 
-    assert relevant_facts == FactSet({"x": {0, 1}, "y": {1}, "z": {1}})
+    assert relevant_facts == FactSet({"x": {0, 1}, "y": {0, 1}, "z": {0, 1}})
     assert sorted([a.name for a in relevant_actions]) == ["a1", "a2", "a3"]
 
 
 def test_vanilla_variables_chain():
-    sas_task, info = make_vanilla_task(goal=[("z", 1)])
-    relevant_facts, relevant_actions = translate_results(
-        *compute_goal_relevance(
-            sas_task,
-            enable_merging=False,
-            enable_causal_links=False,
-            variables_only=True,
-        ),
-        info,
+    scoping_task = make_vanilla_task(goal=[("z", 1)])
+    relevant_facts, relevant_actions = compute_goal_relevance(
+        scoping_task,
+        enable_merging=False,
+        enable_causal_links=False,
+        variables_only=True,
     )
 
-    assert relevant_facts == info["domains"]
+    assert relevant_facts == scoping_task.domains
     assert sorted([a.name for a in relevant_actions]) == ["a1", "a2", "a3", "b1", "b2"]
 
 
 def test_merge_values():
-    sas_task, info = make_merge_task()
-    merging_facts, merging_actions = translate_results(
-        *compute_goal_relevance(
-            sas_task,
-            enable_merging=True,
-            enable_causal_links=False,
-            variables_only=False,
-        ),
-        info,
+    scoping_task = make_merge_task()
+    merging_facts, merging_actions = compute_goal_relevance(
+        scoping_task,
+        enable_merging=True,
+        enable_causal_links=False,
+        variables_only=False,
     )
 
-    nonmerging_facts, nonmerging_actions = translate_results(
-        *compute_goal_relevance(
-            sas_task,
-            enable_merging=False,
-            enable_causal_links=False,
-            variables_only=False,
-        ),
-        info,
+    nonmerging_facts, nonmerging_actions = compute_goal_relevance(
+        scoping_task,
+        enable_merging=False,
+        enable_causal_links=False,
+        variables_only=False,
     )
 
-    assert merging_facts == FactSet({"z": {1}})
+    assert merging_facts == FactSet({"x": {0}, "y": {0}, "z": {1, 0}})
     assert sorted([a.name for a in merging_actions]) == ["a3", "a4"]
-    assert nonmerging_facts == FactSet({"x": {0, 1}, "y": {0, 1}, "z": {1}})
+    assert nonmerging_facts == FactSet({"x": {0, 1}, "y": {0, 1}, "z": {1, 0}})
     assert sorted([a.name for a in nonmerging_actions]) == ["a1", "a2", "a3", "a4"]
 
 
@@ -240,35 +179,23 @@ def make_merge_multi_task(
         ("z", 1),
     ],
 ):
-    info = {
-        "domains": domains,
-        "actions": actions,
-        "init": init,
-        "goal": goal,
-    }
-    return make_sas_task(**info), info
+    return ScopingTask(domains, init, goal, actions)
 
 
 def test_merge_multi():
-    sas_task, info = make_merge_multi_task()
-    merging_facts, merging_actions = translate_results(
-        *compute_goal_relevance(
-            sas_task,
-            enable_merging=True,
-            enable_causal_links=False,
-            variables_only=False,
-        ),
-        info,
+    scoping_task = make_merge_multi_task()
+    merging_facts, merging_actions = compute_goal_relevance(
+        scoping_task,
+        enable_merging=True,
+        enable_causal_links=False,
+        variables_only=False,
     )
 
-    nonmerging_facts, nonmerging_actions = translate_results(
-        *compute_goal_relevance(
-            sas_task,
-            enable_merging=False,
-            enable_causal_links=False,
-            variables_only=False,
-        ),
-        info,
+    nonmerging_facts, nonmerging_actions = compute_goal_relevance(
+        scoping_task,
+        enable_merging=False,
+        enable_causal_links=False,
+        variables_only=False,
     )
 
     assert merging_facts == FactSet({"z": {1}})
@@ -278,18 +205,15 @@ def test_merge_multi():
 
 
 def test_causal_links_variables():
-    sas_task, info = make_vanilla_task(
+    scoping_task = make_vanilla_task(
         init=[("x", 1), ("y", 0), ("z", 0)],
         goal=[("z", 1)],
     )
-    relevant_facts, relevant_actions = translate_results(
-        *compute_goal_relevance(
-            sas_task,
-            enable_merging=False,
-            enable_causal_links=True,
-            variables_only=True,
-        ),
-        info,
+    relevant_facts, relevant_actions = compute_goal_relevance(
+        scoping_task,
+        enable_merging=False,
+        enable_causal_links=True,
+        variables_only=True,
     )
 
     assert relevant_facts == FactSet({"x": {1}, "y": {0, 1}, "z": {0, 1, 2}})
@@ -297,21 +221,18 @@ def test_causal_links_variables():
 
 
 def test_causal_links_values():
-    sas_task, info = make_vanilla_task(
+    scoping_task = make_vanilla_task(
         init=[("x", 0), ("y", 1), ("z", 0)],
         goal=[("z", 1)],
     )
-    relevant_facts, relevant_actions = translate_results(
-        *compute_goal_relevance(
-            sas_task,
-            enable_merging=False,
-            enable_causal_links=True,
-            variables_only=False,
-        ),
-        info,
+    relevant_facts, relevant_actions = compute_goal_relevance(
+        scoping_task,
+        enable_merging=False,
+        enable_causal_links=True,
+        variables_only=False,
     )
 
-    assert relevant_facts == FactSet({"y": {1}, "z": {1}})
+    assert relevant_facts == FactSet({"x": {0}, "y": {1}, "z": {0, 1}})
     assert sorted([a.name for a in relevant_actions]) == ["a3"]
 
 

@@ -79,7 +79,7 @@ class FactSet:
             var = other_facts_or_var
             self.facts[var] = self.facts[var].union(values)
 
-    def __contains__(self, item) -> bool:
+    def __contains__(self, item: VarValPair | FactSet) -> bool:
         """Check if a (var, val) pair is an element of the FactSet, or if another
         FactSet is a subset of this one"""
         if isinstance(item, FactSet):
