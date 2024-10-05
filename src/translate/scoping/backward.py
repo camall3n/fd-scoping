@@ -21,7 +21,7 @@ def filter_causal_links(
     unthreatened by any of the `actions`."""
     affected_facts = FactSet()
     for a in actions:
-        affected_facts.add(a.effects)
+        affected_facts.add(a.effect)
 
     def benign_sets(val):
         return [set()] if variables_only else [set(), set([val])]
@@ -43,7 +43,7 @@ def get_goal_relevant_actions(
 ) -> list[VarValAction]:
     """Find all actions that achieve at least one fact in `facts`."""
     # The same action may achieve multiple facts, so we de-duplicate with a set
-    return list(set([a for a in actions for fact in a.effects if fact in facts]))
+    return list(set([a for a in actions for fact in a.effect if fact in facts]))
 
 
 def partition_actions(

@@ -1,9 +1,9 @@
 from dataclasses import dataclass
 
 import sas_tasks as fd
+from pddl.actions import VarValAction
 
 from scoping.factset import FactSet, VarValPair
-from pddl.actions import VarValAction
 
 
 @dataclass
@@ -72,10 +72,10 @@ class ScopingTask:
             else [
                 fd.SASAxiom(
                     condition=[(var_index[var], val) for var, val in ax.precondition],
-                    effect=(var_index[ax.effects[0][0]], ax.effects[0][1]),
+                    effect=(var_index[ax.effect[0][0]], ax.effect[0][1]),
                 )
                 for ax in self.axioms
-                if ax.effects
+                if ax.effect
             ]
         )
         metric = self.metric

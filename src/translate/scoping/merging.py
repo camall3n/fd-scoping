@@ -4,8 +4,8 @@ from typing import Any
 from normalize import convert_to_DNF
 from pddl.conditions import Condition, Disjunction, Conjunction
 from pddl.actions import Action, PropositionalAction, VarValAction
-from scoping.factset import FactSet
 from sas_tasks import VarValPair
+from scoping.factset import FactSet
 
 
 def get_precondition_facts(action: VarValAction, variable_domains: FactSet) -> FactSet:

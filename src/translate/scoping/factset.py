@@ -1,8 +1,8 @@
 from __future__ import annotations
 from collections import defaultdict
-from typing import Any, Iterable, Optional, overload, Union
+from typing import Any, Iterable, Optional, overload, Tuple, Union
 
-from sas_tasks import VarValPair
+VarValPair = Tuple[int, int]
 
 
 class FactSet:

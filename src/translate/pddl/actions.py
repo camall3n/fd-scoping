@@ -1,12 +1,12 @@
 import copy
 from typing import Any, List, Optional, Tuple
 
-from . import conditions
-from .conditions import Condition, Literal
+from pddl import conditions
+from pddl.conditions import Condition, Literal
+from pddl.effects import Effect
+from pddl.f_expression import Increase
+from pddl.pddl_types import TypedObject
 from sas_tasks import SASOperator, VarValPair
-from .effects import Effect
-from .f_expression import Increase
-from .pddl_types import TypedObject
 from scoping.factset import FactSet
 
 
@@ -191,7 +191,7 @@ class VarValAction:
     ):
         self.name = name
         self.precondition = precondition
-        self.effects = effect
+        self.effect = effect
         self.cost = cost
 
     @classmethod
@@ -210,7 +210,7 @@ class VarValAction:
 
     @property
     def prevail(self) -> list[VarValPair]:
-        effect_facts = FactSet(self.effects)
+        effect_facts = FactSet(self.effect)
 
         def is_prevail(var_val: VarValPair):
             if var_val not in self.precondition:
@@ -238,7 +238,7 @@ class VarValAction:
 
         return [
             (var, get_precond(var), val, [])
-            for var, val in self.effects
+            for var, val in self.effect
             if (var, val) not in prevails
         ]
 
@@ -247,31 +247,31 @@ class VarValAction:
             return False
         if self.precondition != other.precondition:
             return False
-        if self.effects != other.effects:
+        if self.effect != other.effects:
             return False
         if self.cost != other.cost:
             return False
         return True
 
     def __repr__(self):
-        return f"VarValAction({self.name}, pre={self.precondition}, eff={self.effects})"
+        return f"VarValAction({self.name}, pre={self.precondition}, eff={self.effect})"
 
     def __hash__(self) -> int:
         return hash(
-            (self.name, tuple(self.precondition), tuple(self.effects), self.cost)
+            (self.name, tuple(self.precondition), tuple(self.effect), self.cost)
         )
 
     def effect_hash(
         self, relevant_variables: List[Any]
     ) -> Tuple[List[VarValPair], int]:
         return tuple(
-            [(var, val) for (var, val) in self.effects if var in relevant_variables]
+            [(var, val) for (var, val) in self.effect if var in relevant_variables]
         ), self.cost
 
     def dump(self):
         print(self.name)
         for fact in self.precondition:
             print(f"PRE: {fact}")
-        for fact in self.effects:
+        for fact in self.effect:
             print(f"EFF: {fact}")
         print("cost:", self.cost)
