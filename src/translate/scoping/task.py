@@ -1,4 +1,4 @@
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 
 import sas_tasks as fd
 from scoping.actions import VarValAction
@@ -11,8 +11,8 @@ class ScopingTask:
     init: list[VarValPair]
     goal: list[VarValPair]
     actions: list[VarValAction]
-    mutexes: list[list[VarValPair]] = None
-    axioms: list[VarValAction] = None
+    mutexes: list[list[VarValPair]] = field(default_factory=list)
+    axioms: list[VarValAction] = field(default_factory=list)
     metric: bool = False
 
     def from_sas(sas_task: fd.SASTask) -> "ScopingTask":
@@ -88,3 +88,24 @@ class ScopingTask:
             metric=metric,
         )
         return sas_task
+
+    def __eq__(self, other: "ScopingTask") -> bool:
+        if self.domains != other.domains:
+            return False
+        if sorted(self.init) != sorted(other.init):
+            return False
+        if sorted(self.goal) != sorted(other.goal):
+            return False
+        if len(self.actions) != len(other.actions):
+            return False
+        if len(self.mutexes) != len(other.mutexes):
+            return False
+        if self.metric != other.metric:
+            return False
+        for a, b in zip(self.actions, other.actions):
+            if a != b:
+                return False
+        for a, b in zip(self.mutexes, other.mutexes):
+            if sorted(a) != sorted(b):
+                return False
+        return True

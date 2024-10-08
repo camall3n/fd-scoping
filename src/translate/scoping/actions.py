@@ -65,12 +65,12 @@ class VarValAction:
             if (var, val) not in prevails
         ]
 
-    def __eq__(self, other: object) -> bool:
+    def __eq__(self, other: "VarValAction") -> bool:
         if self.name != other.name:
             return False
         if self.precondition != other.precondition:
             return False
-        if self.effect != other.effects:
+        if self.effect != other.effect:
             return False
         if self.cost != other.cost:
             return False

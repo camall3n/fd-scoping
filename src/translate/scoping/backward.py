@@ -15,7 +15,7 @@ def filter_causal_links(
     facts: FactSet,
     init: list[VarValPair],
     actions: set[VarValAction],
-    variables_only: bool = False,
+    enable_fact_based: bool = False,
 ) -> FactSet:
     """Remove any facts from `facts` that are present in the initial state `init` and
     unthreatened by any of the `actions`."""
@@ -24,7 +24,7 @@ def filter_causal_links(
         affected_facts.add(a.effect)
 
     def benign_sets(val):
-        return [set()] if variables_only else [set(), set([val])]
+        return [set(), set([val])] if enable_fact_based else [set()]
 
     unthreatened_init_facts = [
         (var, val) for (var, val) in init if affected_facts[var] in benign_sets(val)
@@ -96,15 +96,15 @@ def goal_relevance_step(
     relevant_actions: list[VarValAction],
     enable_merging: bool = False,
     enable_causal_links: bool = False,
-    variables_only: bool = False,
+    enable_fact_based: bool = False,
 ) -> Tuple[FactSet, list[VarValAction]]:
     if enable_causal_links:
         filtered_facts = filter_causal_links(
-            facts, init, relevant_actions, variables_only=variables_only
+            facts, init, relevant_actions, enable_fact_based=enable_fact_based
         )
     else:
         filtered_facts = facts
-    if variables_only:
+    if not enable_fact_based:
         coarsen_facts_to_variables(filtered_facts, domains)
     relevant_actions = get_goal_relevant_actions(filtered_facts, actions)
     relevant_facts = get_goal_relevant_facts(
@@ -122,10 +122,10 @@ def compute_goal_relevance(
     scoping_task: ScopingTask,
     enable_merging: bool = False,
     enable_causal_links: bool = False,
-    variables_only: bool = False,
+    enable_fact_based: bool = False,
 ) -> Tuple[FactSet, list[VarValAction]]:
     relevant_facts = FactSet(scoping_task.goal)
-    if variables_only:
+    if not enable_fact_based:
         coarsen_facts_to_variables(relevant_facts, scoping_task.domains)
     relevant_actions = []
     prev_facts = None
@@ -140,7 +140,7 @@ def compute_goal_relevance(
             relevant_actions,
             enable_merging,
             enable_causal_links,
-            variables_only=variables_only,
+            enable_fact_based=enable_fact_based,
         )
     relevant_facts.add(scoping_task.init)
     return relevant_facts, relevant_actions
