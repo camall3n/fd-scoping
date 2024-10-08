@@ -25,9 +25,9 @@ def make_task(
         VarValAction("d", [("w", 0)], [("x", 1)], 1),
         VarValAction("e", [("x", 1), ("y", 0)], [("z", 2)], 1),
         VarValAction("f", [("x", 0), ("y", 0)], [("z", 2)], 1),
-        VarValAction("g", [("v", 0)], [("y", 0)], 1),
-        VarValAction("h", [("x", 0)], [("z", 1)], 1),
-        VarValAction("i", [], [("v", 0)], 1),
+        VarValAction("g", [], [("v", 0)], 1),
+        VarValAction("h", [("v", 0)], [("y", 0)], 1),
+        VarValAction("i", [("x", 0)], [("z", 1)], 1),
     ],
     init=[
         ("v", 0),
@@ -58,7 +58,7 @@ def test_values():
     assert scoped_task.domains == FactSet(
         {"w": {0, 1}, "x": {0, 1}, "y": {0, 1}, "z": {0, 2}}
     )
-    assert sorted(a.name for a in scoped_task.actions) == list("abcdefgi")
+    assert sorted(a.name for a in scoped_task.actions) == list("abcdefgh")
 
 
 def test_merge():
@@ -76,7 +76,7 @@ def test_cl():
     assert scoped_task.domains == FactSet(
         {"w": {0, 1}, "x": {0, 1}, "y": {0, 1}, "z": {0, 1, 2}}
     )
-    assert sorted(a.name for a in scoped_task.actions) == list("abcdefgh")
+    assert sorted(a.name for a in scoped_task.actions) == list("abcdefhi")
 
 
 def test_cl_values():
@@ -96,7 +96,7 @@ def test_merge_values():
     assert scoped_task.domains == FactSet(
         {"w": {0, 1}, "x": {0, 1}, "y": {0, 1}, "z": {0, 2}}
     )
-    assert sorted(a.name for a in scoped_task.actions) == list("bcdefgi")
+    assert sorted(a.name for a in scoped_task.actions) == list("bcdefgh")
 
 
 def test_cl_merge():
@@ -106,7 +106,7 @@ def test_cl_merge():
     assert scoped_task.domains == FactSet(
         {"w": {0, 1}, "x": {0, 1}, "y": {0, 1}, "z": {0, 1, 2}}
     )
-    assert sorted(a.name for a in scoped_task.actions) == list("bcdefgh")
+    assert sorted(a.name for a in scoped_task.actions) == list("bcdefhi")
 
 
 def test_cl_merge_values():
@@ -145,12 +145,12 @@ def test_loop():
 
 # %%
 test_none()  # abcdefghi
-test_values()  # abcdefgi
+test_values()  # abcdefgh
 test_merge()  # bcdefghi
-test_merge_values()  # bcdefgi
-test_cl()  # abcdefgh
-test_cl_values()  # abcdef
-test_cl_merge()  # bcdefgh
+test_merge_values()  # abcdefhi
+test_cl()  # abcdef
+test_cl_values()  # bcdefgh
+test_cl_merge()  # bcdefhi
 test_cl_merge_values()  # bcdef
 
 test_forward_none()  # abdefghi
