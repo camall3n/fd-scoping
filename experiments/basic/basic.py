@@ -7,6 +7,8 @@ import os
 from lab.environments import LocalEnvironment
 # from lab.reports import Attribute, geometric_mean
 # from downward.reports.compare import ComparativeReport
+
+from parser import SaSParser
 import common_setup
 from common_setup import IssueConfig, IssueExperiment
 
@@ -18,7 +20,7 @@ BUILDS = ["release"]
 
 CONFIG_NICKS = []
 
-CONFIG_NICKS.append(('basic', ["--translate-options", '--keep-unimportant-variables']))
+CONFIG_NICKS.append(('basic', ["--translate-options", '--keep-unimportant-variables', "--search-options"]))
 
 CONFIGS = [
     IssueConfig(
@@ -32,7 +34,7 @@ CONFIGS = [
 
 SUITE = common_setup.DEFAULT_OPTIMAL_SUITE
 
-SUITE = ["gripper"]
+# SUITE = ["gripper"]
 
 ENVIRONMENT = LocalEnvironment(processes=48)
 
@@ -52,13 +54,13 @@ exp.add_parser(exp.EXITCODE_PARSER)
 exp.add_parser(exp.TRANSLATOR_PARSER)
 exp.add_parser(exp.SINGLE_SEARCH_PARSER)
 exp.add_parser(exp.PLANNER_PARSER)
+exp.add_parser(SaSParser())
 
 exp.add_step('build', exp.build)
 exp.add_step('start', exp.start_runs)
 exp.add_step("parse", exp.parse)
 
 exp.add_fetcher(name='fetch')
-
 
 attributes = IssueExperiment.DEFAULT_TABLE_ATTRIBUTES
 # exp.add_comparison_table_step(attributes=attributes)
