@@ -18,7 +18,7 @@ BUILDS = ["release"]
 
 CONFIG_NICKS = []
 
-CONFIG_NICKS.append(('basic', ["--translate-options", '--translate', '--keep-unimportant-variables']))
+CONFIG_NICKS.append(('basic', ["--translate-options", '--keep-unimportant-variables']))
 
 CONFIGS = [
     IssueConfig(
@@ -32,6 +32,7 @@ CONFIGS = [
 
 SUITE = common_setup.DEFAULT_OPTIMAL_SUITE
 
+SUITE = ["gripper"]
 
 ENVIRONMENT = LocalEnvironment(processes=48)
 
