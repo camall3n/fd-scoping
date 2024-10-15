@@ -19,8 +19,9 @@ def sas_name(content, props):
     path = os.path.join(repo,benchmarks,"basic",domain)
     os.makedirs(path, exist_ok=True)
     props["sas_name"] = os.path.join(path, problem)
-    shutil.copyfile("output.sas", props["sas_name"])
-
+    fname = os.path.join("data", data["experiment_name"], data["run_dir"], "output.sas")
+    if os.path.exists(fname):
+        shutil.copyfile(fname, props["sas_name"])
 
 class SaSParser(Parser):
     def __init__(self):
