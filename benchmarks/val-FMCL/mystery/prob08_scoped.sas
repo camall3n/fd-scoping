@@ -1,0 +1,26786 @@
+begin_version
+3
+end_version
+begin_metric
+0
+end_metric
+27
+begin_variable
+var0
+-1
+2
+1
+2
+end_variable
+begin_variable
+var1
+-1
+2
+1
+2
+end_variable
+begin_variable
+var2
+-1
+2
+1
+2
+end_variable
+begin_variable
+var3
+-1
+3
+1
+2
+3
+end_variable
+begin_variable
+var4
+-1
+3
+1
+2
+3
+end_variable
+begin_variable
+var5
+-1
+17
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+end_variable
+begin_variable
+var6
+-1
+3
+1
+2
+3
+end_variable
+begin_variable
+var7
+-1
+17
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+end_variable
+begin_variable
+var8
+-1
+17
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+end_variable
+begin_variable
+var9
+-1
+3
+1
+2
+3
+end_variable
+begin_variable
+var10
+-1
+17
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+end_variable
+begin_variable
+var11
+-1
+17
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+end_variable
+begin_variable
+var12
+-1
+4
+1
+2
+3
+4
+end_variable
+begin_variable
+var13
+-1
+4
+0
+1
+2
+3
+end_variable
+begin_variable
+var14
+-1
+4
+0
+1
+2
+3
+end_variable
+begin_variable
+var15
+-1
+4
+0
+1
+2
+3
+end_variable
+begin_variable
+var16
+-1
+4
+0
+1
+2
+3
+end_variable
+begin_variable
+var17
+-1
+4
+0
+1
+2
+3
+end_variable
+begin_variable
+var18
+-1
+26
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+end_variable
+begin_variable
+var19
+-1
+26
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+end_variable
+begin_variable
+var20
+-1
+4
+0
+1
+2
+3
+end_variable
+begin_variable
+var21
+-1
+4
+0
+1
+2
+3
+end_variable
+begin_variable
+var22
+-1
+26
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+end_variable
+begin_variable
+var23
+-1
+26
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+end_variable
+begin_variable
+var24
+-1
+4
+0
+1
+2
+3
+end_variable
+begin_variable
+var25
+-1
+4
+0
+1
+2
+3
+end_variable
+begin_variable
+var26
+-1
+26
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+end_variable
+0
+begin_state
+2
+2
+2
+1
+1
+12
+1
+13
+2
+1
+7
+16
+4
+3
+2
+2
+3
+3
+1
+1
+1
+3
+6
+7
+1
+1
+6
+end_state
+begin_goal
+1
+26 16
+end_goal
+2980
+begin_operator
+feast aesthetics baguette tomato bavaria goias
+1
+3 2
+1
+0 5 1 13
+1
+end_operator
+begin_operator
+feast aesthetics baguette tomato goias pennsylvania
+0
+2
+0 3 3 2
+0 5 1 13
+1
+end_operator
+begin_operator
+feast aesthetics baguette tomato pennsylvania bosnia
+0
+2
+0 3 1 3
+0 5 1 13
+1
+end_operator
+begin_operator
+feast aesthetics baguette turkey bavaria goias
+1
+3 2
+1
+0 5 1 15
+1
+end_operator
+begin_operator
+feast aesthetics baguette turkey goias pennsylvania
+0
+2
+0 3 3 2
+0 5 1 15
+1
+end_operator
+begin_operator
+feast aesthetics baguette turkey pennsylvania bosnia
+0
+2
+0 3 1 3
+0 5 1 15
+1
+end_operator
+begin_operator
+feast aesthetics cantelope arugula bavaria goias
+1
+0 1
+1
+0 5 2 0
+1
+end_operator
+begin_operator
+feast aesthetics cantelope arugula goias pennsylvania
+0
+2
+0 0 2 1
+0 5 2 0
+1
+end_operator
+begin_operator
+feast aesthetics cantelope pork bavaria goias
+1
+0 1
+1
+0 5 2 10
+1
+end_operator
+begin_operator
+feast aesthetics cantelope pork goias pennsylvania
+0
+2
+0 0 2 1
+0 5 2 10
+1
+end_operator
+begin_operator
+feast aesthetics flounder lobster bavaria goias
+0
+1
+0 5 3 5
+1
+end_operator
+begin_operator
+feast aesthetics flounder wonderbread bavaria goias
+0
+1
+0 5 3 16
+1
+end_operator
+begin_operator
+feast aesthetics lobster flounder bavaria goias
+0
+1
+0 5 5 3
+1
+end_operator
+begin_operator
+feast aesthetics lobster pork bavaria goias
+0
+1
+0 5 5 10
+1
+end_operator
+begin_operator
+feast aesthetics okra hotdog bavaria goias
+1
+9 2
+1
+0 5 7 4
+1
+end_operator
+begin_operator
+feast aesthetics okra hotdog goias pennsylvania
+0
+2
+0 5 7 4
+0 9 3 2
+1
+end_operator
+begin_operator
+feast aesthetics okra hotdog pennsylvania bosnia
+0
+2
+0 5 7 4
+0 9 1 3
+1
+end_operator
+begin_operator
+feast aesthetics okra tuna bavaria goias
+1
+9 2
+1
+0 5 7 14
+1
+end_operator
+begin_operator
+feast aesthetics okra tuna goias pennsylvania
+0
+2
+0 5 7 14
+0 9 3 2
+1
+end_operator
+begin_operator
+feast aesthetics okra tuna pennsylvania bosnia
+0
+2
+0 5 7 14
+0 9 1 3
+1
+end_operator
+begin_operator
+feast aesthetics okra wonderbread bavaria goias
+1
+9 2
+1
+0 5 7 16
+1
+end_operator
+begin_operator
+feast aesthetics okra wonderbread goias pennsylvania
+0
+2
+0 5 7 16
+0 9 3 2
+1
+end_operator
+begin_operator
+feast aesthetics okra wonderbread pennsylvania bosnia
+0
+2
+0 5 7 16
+0 9 1 3
+1
+end_operator
+begin_operator
+feast aesthetics pepper pistachio bavaria goias
+0
+1
+0 5 8 9
+1
+end_operator
+begin_operator
+feast aesthetics pepper turkey bavaria goias
+0
+1
+0 5 8 15
+1
+end_operator
+begin_operator
+feast aesthetics pistachio arugula bavaria goias
+1
+1 1
+1
+0 5 9 0
+1
+end_operator
+begin_operator
+feast aesthetics pistachio arugula goias pennsylvania
+0
+2
+0 1 2 1
+0 5 9 0
+1
+end_operator
+begin_operator
+feast aesthetics pistachio pepper bavaria goias
+1
+1 1
+1
+0 5 9 8
+1
+end_operator
+begin_operator
+feast aesthetics pistachio pepper goias pennsylvania
+0
+2
+0 1 2 1
+0 5 9 8
+1
+end_operator
+begin_operator
+feast aesthetics pork cantelope bavaria goias
+1
+4 2
+1
+0 5 10 2
+1
+end_operator
+begin_operator
+feast aesthetics pork cantelope goias pennsylvania
+0
+2
+0 4 3 2
+0 5 10 2
+1
+end_operator
+begin_operator
+feast aesthetics pork cantelope pennsylvania bosnia
+0
+2
+0 4 1 3
+0 5 10 2
+1
+end_operator
+begin_operator
+feast aesthetics pork lobster bavaria goias
+1
+4 2
+1
+0 5 10 5
+1
+end_operator
+begin_operator
+feast aesthetics pork lobster goias pennsylvania
+0
+2
+0 4 3 2
+0 5 10 5
+1
+end_operator
+begin_operator
+feast aesthetics pork lobster pennsylvania bosnia
+0
+2
+0 4 1 3
+0 5 10 5
+1
+end_operator
+begin_operator
+feast aesthetics scallop tomato bavaria goias
+1
+2 1
+1
+0 5 12 13
+1
+end_operator
+begin_operator
+feast aesthetics scallop tomato goias pennsylvania
+0
+2
+0 2 2 1
+0 5 12 13
+1
+end_operator
+begin_operator
+feast aesthetics scallop wonderbread bavaria goias
+1
+2 1
+1
+0 5 12 16
+1
+end_operator
+begin_operator
+feast aesthetics scallop wonderbread goias pennsylvania
+0
+2
+0 2 2 1
+0 5 12 16
+1
+end_operator
+begin_operator
+feast aesthetics tomato baguette bavaria goias
+1
+6 2
+1
+0 5 13 1
+1
+end_operator
+begin_operator
+feast aesthetics tomato baguette goias pennsylvania
+0
+2
+0 5 13 1
+0 6 3 2
+1
+end_operator
+begin_operator
+feast aesthetics tomato baguette pennsylvania bosnia
+0
+2
+0 5 13 1
+0 6 1 3
+1
+end_operator
+begin_operator
+feast aesthetics tomato scallop bavaria goias
+1
+6 2
+1
+0 5 13 12
+1
+end_operator
+begin_operator
+feast aesthetics tomato scallop goias pennsylvania
+0
+2
+0 5 13 12
+0 6 3 2
+1
+end_operator
+begin_operator
+feast aesthetics tomato scallop pennsylvania bosnia
+0
+2
+0 5 13 12
+0 6 1 3
+1
+end_operator
+begin_operator
+feast aesthetics tuna muffin bavaria goias
+1
+12 2
+1
+0 5 14 6
+1
+end_operator
+begin_operator
+feast aesthetics tuna muffin bosnia surrey
+0
+2
+0 5 14 6
+0 12 4 1
+1
+end_operator
+begin_operator
+feast aesthetics tuna muffin goias pennsylvania
+0
+2
+0 5 14 6
+0 12 3 2
+1
+end_operator
+begin_operator
+feast aesthetics tuna muffin pennsylvania bosnia
+0
+2
+0 5 14 6
+0 12 1 3
+1
+end_operator
+begin_operator
+feast aesthetics tuna okra bavaria goias
+1
+12 2
+1
+0 5 14 7
+1
+end_operator
+begin_operator
+feast aesthetics tuna okra bosnia surrey
+0
+2
+0 5 14 7
+0 12 4 1
+1
+end_operator
+begin_operator
+feast aesthetics tuna okra goias pennsylvania
+0
+2
+0 5 14 7
+0 12 3 2
+1
+end_operator
+begin_operator
+feast aesthetics tuna okra pennsylvania bosnia
+0
+2
+0 5 14 7
+0 12 1 3
+1
+end_operator
+begin_operator
+feast aesthetics tuna rice bavaria goias
+1
+12 2
+1
+0 5 14 11
+1
+end_operator
+begin_operator
+feast aesthetics tuna rice bosnia surrey
+0
+2
+0 5 14 11
+0 12 4 1
+1
+end_operator
+begin_operator
+feast aesthetics tuna rice goias pennsylvania
+0
+2
+0 5 14 11
+0 12 3 2
+1
+end_operator
+begin_operator
+feast aesthetics tuna rice pennsylvania bosnia
+0
+2
+0 5 14 11
+0 12 1 3
+1
+end_operator
+begin_operator
+feast aesthetics turkey baguette bavaria goias
+0
+1
+0 5 15 1
+1
+end_operator
+begin_operator
+feast aesthetics turkey pepper bavaria goias
+0
+1
+0 5 15 8
+1
+end_operator
+begin_operator
+feast aesthetics wonderbread flounder bavaria goias
+0
+1
+0 5 16 3
+1
+end_operator
+begin_operator
+feast aesthetics wonderbread okra bavaria goias
+0
+1
+0 5 16 7
+1
+end_operator
+begin_operator
+feast aesthetics wonderbread scallop bavaria goias
+0
+1
+0 5 16 12
+1
+end_operator
+begin_operator
+feast excitement baguette tomato bavaria goias
+1
+3 2
+1
+0 7 1 13
+1
+end_operator
+begin_operator
+feast excitement baguette tomato goias pennsylvania
+0
+2
+0 3 3 2
+0 7 1 13
+1
+end_operator
+begin_operator
+feast excitement baguette tomato pennsylvania bosnia
+0
+2
+0 3 1 3
+0 7 1 13
+1
+end_operator
+begin_operator
+feast excitement baguette turkey bavaria goias
+1
+3 2
+1
+0 7 1 15
+1
+end_operator
+begin_operator
+feast excitement baguette turkey goias pennsylvania
+0
+2
+0 3 3 2
+0 7 1 15
+1
+end_operator
+begin_operator
+feast excitement baguette turkey pennsylvania bosnia
+0
+2
+0 3 1 3
+0 7 1 15
+1
+end_operator
+begin_operator
+feast excitement cantelope arugula bavaria goias
+1
+0 1
+1
+0 7 2 0
+1
+end_operator
+begin_operator
+feast excitement cantelope arugula goias pennsylvania
+0
+2
+0 0 2 1
+0 7 2 0
+1
+end_operator
+begin_operator
+feast excitement cantelope pork bavaria goias
+1
+0 1
+1
+0 7 2 10
+1
+end_operator
+begin_operator
+feast excitement cantelope pork goias pennsylvania
+0
+2
+0 0 2 1
+0 7 2 10
+1
+end_operator
+begin_operator
+feast excitement flounder lobster bavaria goias
+0
+1
+0 7 3 5
+1
+end_operator
+begin_operator
+feast excitement flounder wonderbread bavaria goias
+0
+1
+0 7 3 16
+1
+end_operator
+begin_operator
+feast excitement lobster flounder bavaria goias
+0
+1
+0 7 5 3
+1
+end_operator
+begin_operator
+feast excitement lobster pork bavaria goias
+0
+1
+0 7 5 10
+1
+end_operator
+begin_operator
+feast excitement okra hotdog bavaria goias
+1
+9 2
+1
+0 7 7 4
+1
+end_operator
+begin_operator
+feast excitement okra hotdog goias pennsylvania
+0
+2
+0 7 7 4
+0 9 3 2
+1
+end_operator
+begin_operator
+feast excitement okra hotdog pennsylvania bosnia
+0
+2
+0 7 7 4
+0 9 1 3
+1
+end_operator
+begin_operator
+feast excitement okra tuna bavaria goias
+1
+9 2
+1
+0 7 7 14
+1
+end_operator
+begin_operator
+feast excitement okra tuna goias pennsylvania
+0
+2
+0 7 7 14
+0 9 3 2
+1
+end_operator
+begin_operator
+feast excitement okra tuna pennsylvania bosnia
+0
+2
+0 7 7 14
+0 9 1 3
+1
+end_operator
+begin_operator
+feast excitement okra wonderbread bavaria goias
+1
+9 2
+1
+0 7 7 16
+1
+end_operator
+begin_operator
+feast excitement okra wonderbread goias pennsylvania
+0
+2
+0 7 7 16
+0 9 3 2
+1
+end_operator
+begin_operator
+feast excitement okra wonderbread pennsylvania bosnia
+0
+2
+0 7 7 16
+0 9 1 3
+1
+end_operator
+begin_operator
+feast excitement pepper pistachio bavaria goias
+0
+1
+0 7 8 9
+1
+end_operator
+begin_operator
+feast excitement pepper turkey bavaria goias
+0
+1
+0 7 8 15
+1
+end_operator
+begin_operator
+feast excitement pistachio arugula bavaria goias
+1
+1 1
+1
+0 7 9 0
+1
+end_operator
+begin_operator
+feast excitement pistachio arugula goias pennsylvania
+0
+2
+0 1 2 1
+0 7 9 0
+1
+end_operator
+begin_operator
+feast excitement pistachio pepper bavaria goias
+1
+1 1
+1
+0 7 9 8
+1
+end_operator
+begin_operator
+feast excitement pistachio pepper goias pennsylvania
+0
+2
+0 1 2 1
+0 7 9 8
+1
+end_operator
+begin_operator
+feast excitement pork cantelope bavaria goias
+1
+4 2
+1
+0 7 10 2
+1
+end_operator
+begin_operator
+feast excitement pork cantelope goias pennsylvania
+0
+2
+0 4 3 2
+0 7 10 2
+1
+end_operator
+begin_operator
+feast excitement pork cantelope pennsylvania bosnia
+0
+2
+0 4 1 3
+0 7 10 2
+1
+end_operator
+begin_operator
+feast excitement pork lobster bavaria goias
+1
+4 2
+1
+0 7 10 5
+1
+end_operator
+begin_operator
+feast excitement pork lobster goias pennsylvania
+0
+2
+0 4 3 2
+0 7 10 5
+1
+end_operator
+begin_operator
+feast excitement pork lobster pennsylvania bosnia
+0
+2
+0 4 1 3
+0 7 10 5
+1
+end_operator
+begin_operator
+feast excitement scallop tomato bavaria goias
+1
+2 1
+1
+0 7 12 13
+1
+end_operator
+begin_operator
+feast excitement scallop tomato goias pennsylvania
+0
+2
+0 2 2 1
+0 7 12 13
+1
+end_operator
+begin_operator
+feast excitement scallop wonderbread bavaria goias
+1
+2 1
+1
+0 7 12 16
+1
+end_operator
+begin_operator
+feast excitement scallop wonderbread goias pennsylvania
+0
+2
+0 2 2 1
+0 7 12 16
+1
+end_operator
+begin_operator
+feast excitement tomato baguette bavaria goias
+1
+6 2
+1
+0 7 13 1
+1
+end_operator
+begin_operator
+feast excitement tomato baguette goias pennsylvania
+0
+2
+0 6 3 2
+0 7 13 1
+1
+end_operator
+begin_operator
+feast excitement tomato baguette pennsylvania bosnia
+0
+2
+0 6 1 3
+0 7 13 1
+1
+end_operator
+begin_operator
+feast excitement tomato scallop bavaria goias
+1
+6 2
+1
+0 7 13 12
+1
+end_operator
+begin_operator
+feast excitement tomato scallop goias pennsylvania
+0
+2
+0 6 3 2
+0 7 13 12
+1
+end_operator
+begin_operator
+feast excitement tomato scallop pennsylvania bosnia
+0
+2
+0 6 1 3
+0 7 13 12
+1
+end_operator
+begin_operator
+feast excitement tuna muffin bavaria goias
+1
+12 2
+1
+0 7 14 6
+1
+end_operator
+begin_operator
+feast excitement tuna muffin bosnia surrey
+0
+2
+0 7 14 6
+0 12 4 1
+1
+end_operator
+begin_operator
+feast excitement tuna muffin goias pennsylvania
+0
+2
+0 7 14 6
+0 12 3 2
+1
+end_operator
+begin_operator
+feast excitement tuna muffin pennsylvania bosnia
+0
+2
+0 7 14 6
+0 12 1 3
+1
+end_operator
+begin_operator
+feast excitement tuna okra bavaria goias
+1
+12 2
+1
+0 7 14 7
+1
+end_operator
+begin_operator
+feast excitement tuna okra bosnia surrey
+0
+2
+0 7 14 7
+0 12 4 1
+1
+end_operator
+begin_operator
+feast excitement tuna okra goias pennsylvania
+0
+2
+0 7 14 7
+0 12 3 2
+1
+end_operator
+begin_operator
+feast excitement tuna okra pennsylvania bosnia
+0
+2
+0 7 14 7
+0 12 1 3
+1
+end_operator
+begin_operator
+feast excitement tuna rice bavaria goias
+1
+12 2
+1
+0 7 14 11
+1
+end_operator
+begin_operator
+feast excitement tuna rice bosnia surrey
+0
+2
+0 7 14 11
+0 12 4 1
+1
+end_operator
+begin_operator
+feast excitement tuna rice goias pennsylvania
+0
+2
+0 7 14 11
+0 12 3 2
+1
+end_operator
+begin_operator
+feast excitement tuna rice pennsylvania bosnia
+0
+2
+0 7 14 11
+0 12 1 3
+1
+end_operator
+begin_operator
+feast excitement turkey baguette bavaria goias
+0
+1
+0 7 15 1
+1
+end_operator
+begin_operator
+feast excitement turkey pepper bavaria goias
+0
+1
+0 7 15 8
+1
+end_operator
+begin_operator
+feast excitement wonderbread flounder bavaria goias
+0
+1
+0 7 16 3
+1
+end_operator
+begin_operator
+feast excitement wonderbread okra bavaria goias
+0
+1
+0 7 16 7
+1
+end_operator
+begin_operator
+feast excitement wonderbread scallop bavaria goias
+0
+1
+0 7 16 12
+1
+end_operator
+begin_operator
+feast learning baguette tomato bavaria goias
+1
+3 2
+1
+0 8 1 13
+1
+end_operator
+begin_operator
+feast learning baguette tomato goias pennsylvania
+0
+2
+0 3 3 2
+0 8 1 13
+1
+end_operator
+begin_operator
+feast learning baguette tomato pennsylvania bosnia
+0
+2
+0 3 1 3
+0 8 1 13
+1
+end_operator
+begin_operator
+feast learning baguette turkey bavaria goias
+1
+3 2
+1
+0 8 1 15
+1
+end_operator
+begin_operator
+feast learning baguette turkey goias pennsylvania
+0
+2
+0 3 3 2
+0 8 1 15
+1
+end_operator
+begin_operator
+feast learning baguette turkey pennsylvania bosnia
+0
+2
+0 3 1 3
+0 8 1 15
+1
+end_operator
+begin_operator
+feast learning cantelope arugula bavaria goias
+1
+0 1
+1
+0 8 2 0
+1
+end_operator
+begin_operator
+feast learning cantelope arugula goias pennsylvania
+0
+2
+0 0 2 1
+0 8 2 0
+1
+end_operator
+begin_operator
+feast learning cantelope pork bavaria goias
+1
+0 1
+1
+0 8 2 10
+1
+end_operator
+begin_operator
+feast learning cantelope pork goias pennsylvania
+0
+2
+0 0 2 1
+0 8 2 10
+1
+end_operator
+begin_operator
+feast learning flounder lobster bavaria goias
+0
+1
+0 8 3 5
+1
+end_operator
+begin_operator
+feast learning flounder wonderbread bavaria goias
+0
+1
+0 8 3 16
+1
+end_operator
+begin_operator
+feast learning lobster flounder bavaria goias
+0
+1
+0 8 5 3
+1
+end_operator
+begin_operator
+feast learning lobster pork bavaria goias
+0
+1
+0 8 5 10
+1
+end_operator
+begin_operator
+feast learning okra hotdog bavaria goias
+1
+9 2
+1
+0 8 7 4
+1
+end_operator
+begin_operator
+feast learning okra hotdog goias pennsylvania
+0
+2
+0 8 7 4
+0 9 3 2
+1
+end_operator
+begin_operator
+feast learning okra hotdog pennsylvania bosnia
+0
+2
+0 8 7 4
+0 9 1 3
+1
+end_operator
+begin_operator
+feast learning okra tuna bavaria goias
+1
+9 2
+1
+0 8 7 14
+1
+end_operator
+begin_operator
+feast learning okra tuna goias pennsylvania
+0
+2
+0 8 7 14
+0 9 3 2
+1
+end_operator
+begin_operator
+feast learning okra tuna pennsylvania bosnia
+0
+2
+0 8 7 14
+0 9 1 3
+1
+end_operator
+begin_operator
+feast learning okra wonderbread bavaria goias
+1
+9 2
+1
+0 8 7 16
+1
+end_operator
+begin_operator
+feast learning okra wonderbread goias pennsylvania
+0
+2
+0 8 7 16
+0 9 3 2
+1
+end_operator
+begin_operator
+feast learning okra wonderbread pennsylvania bosnia
+0
+2
+0 8 7 16
+0 9 1 3
+1
+end_operator
+begin_operator
+feast learning pepper pistachio bavaria goias
+0
+1
+0 8 8 9
+1
+end_operator
+begin_operator
+feast learning pepper turkey bavaria goias
+0
+1
+0 8 8 15
+1
+end_operator
+begin_operator
+feast learning pistachio arugula bavaria goias
+1
+1 1
+1
+0 8 9 0
+1
+end_operator
+begin_operator
+feast learning pistachio arugula goias pennsylvania
+0
+2
+0 1 2 1
+0 8 9 0
+1
+end_operator
+begin_operator
+feast learning pistachio pepper bavaria goias
+1
+1 1
+1
+0 8 9 8
+1
+end_operator
+begin_operator
+feast learning pistachio pepper goias pennsylvania
+0
+2
+0 1 2 1
+0 8 9 8
+1
+end_operator
+begin_operator
+feast learning pork cantelope bavaria goias
+1
+4 2
+1
+0 8 10 2
+1
+end_operator
+begin_operator
+feast learning pork cantelope goias pennsylvania
+0
+2
+0 4 3 2
+0 8 10 2
+1
+end_operator
+begin_operator
+feast learning pork cantelope pennsylvania bosnia
+0
+2
+0 4 1 3
+0 8 10 2
+1
+end_operator
+begin_operator
+feast learning pork lobster bavaria goias
+1
+4 2
+1
+0 8 10 5
+1
+end_operator
+begin_operator
+feast learning pork lobster goias pennsylvania
+0
+2
+0 4 3 2
+0 8 10 5
+1
+end_operator
+begin_operator
+feast learning pork lobster pennsylvania bosnia
+0
+2
+0 4 1 3
+0 8 10 5
+1
+end_operator
+begin_operator
+feast learning scallop tomato bavaria goias
+1
+2 1
+1
+0 8 12 13
+1
+end_operator
+begin_operator
+feast learning scallop tomato goias pennsylvania
+0
+2
+0 2 2 1
+0 8 12 13
+1
+end_operator
+begin_operator
+feast learning scallop wonderbread bavaria goias
+1
+2 1
+1
+0 8 12 16
+1
+end_operator
+begin_operator
+feast learning scallop wonderbread goias pennsylvania
+0
+2
+0 2 2 1
+0 8 12 16
+1
+end_operator
+begin_operator
+feast learning tomato baguette bavaria goias
+1
+6 2
+1
+0 8 13 1
+1
+end_operator
+begin_operator
+feast learning tomato baguette goias pennsylvania
+0
+2
+0 6 3 2
+0 8 13 1
+1
+end_operator
+begin_operator
+feast learning tomato baguette pennsylvania bosnia
+0
+2
+0 6 1 3
+0 8 13 1
+1
+end_operator
+begin_operator
+feast learning tomato scallop bavaria goias
+1
+6 2
+1
+0 8 13 12
+1
+end_operator
+begin_operator
+feast learning tomato scallop goias pennsylvania
+0
+2
+0 6 3 2
+0 8 13 12
+1
+end_operator
+begin_operator
+feast learning tomato scallop pennsylvania bosnia
+0
+2
+0 6 1 3
+0 8 13 12
+1
+end_operator
+begin_operator
+feast learning tuna muffin bavaria goias
+1
+12 2
+1
+0 8 14 6
+1
+end_operator
+begin_operator
+feast learning tuna muffin bosnia surrey
+0
+2
+0 8 14 6
+0 12 4 1
+1
+end_operator
+begin_operator
+feast learning tuna muffin goias pennsylvania
+0
+2
+0 8 14 6
+0 12 3 2
+1
+end_operator
+begin_operator
+feast learning tuna muffin pennsylvania bosnia
+0
+2
+0 8 14 6
+0 12 1 3
+1
+end_operator
+begin_operator
+feast learning tuna okra bavaria goias
+1
+12 2
+1
+0 8 14 7
+1
+end_operator
+begin_operator
+feast learning tuna okra bosnia surrey
+0
+2
+0 8 14 7
+0 12 4 1
+1
+end_operator
+begin_operator
+feast learning tuna okra goias pennsylvania
+0
+2
+0 8 14 7
+0 12 3 2
+1
+end_operator
+begin_operator
+feast learning tuna okra pennsylvania bosnia
+0
+2
+0 8 14 7
+0 12 1 3
+1
+end_operator
+begin_operator
+feast learning tuna rice bavaria goias
+1
+12 2
+1
+0 8 14 11
+1
+end_operator
+begin_operator
+feast learning tuna rice bosnia surrey
+0
+2
+0 8 14 11
+0 12 4 1
+1
+end_operator
+begin_operator
+feast learning tuna rice goias pennsylvania
+0
+2
+0 8 14 11
+0 12 3 2
+1
+end_operator
+begin_operator
+feast learning tuna rice pennsylvania bosnia
+0
+2
+0 8 14 11
+0 12 1 3
+1
+end_operator
+begin_operator
+feast learning turkey baguette bavaria goias
+0
+1
+0 8 15 1
+1
+end_operator
+begin_operator
+feast learning turkey pepper bavaria goias
+0
+1
+0 8 15 8
+1
+end_operator
+begin_operator
+feast learning wonderbread flounder bavaria goias
+0
+1
+0 8 16 3
+1
+end_operator
+begin_operator
+feast learning wonderbread okra bavaria goias
+0
+1
+0 8 16 7
+1
+end_operator
+begin_operator
+feast learning wonderbread scallop bavaria goias
+0
+1
+0 8 16 12
+1
+end_operator
+begin_operator
+feast love baguette tomato bavaria goias
+1
+3 2
+1
+0 10 1 13
+1
+end_operator
+begin_operator
+feast love baguette tomato goias pennsylvania
+0
+2
+0 3 3 2
+0 10 1 13
+1
+end_operator
+begin_operator
+feast love baguette tomato pennsylvania bosnia
+0
+2
+0 3 1 3
+0 10 1 13
+1
+end_operator
+begin_operator
+feast love baguette turkey bavaria goias
+1
+3 2
+1
+0 10 1 15
+1
+end_operator
+begin_operator
+feast love baguette turkey goias pennsylvania
+0
+2
+0 3 3 2
+0 10 1 15
+1
+end_operator
+begin_operator
+feast love baguette turkey pennsylvania bosnia
+0
+2
+0 3 1 3
+0 10 1 15
+1
+end_operator
+begin_operator
+feast love cantelope arugula bavaria goias
+1
+0 1
+1
+0 10 2 0
+1
+end_operator
+begin_operator
+feast love cantelope arugula goias pennsylvania
+0
+2
+0 0 2 1
+0 10 2 0
+1
+end_operator
+begin_operator
+feast love cantelope pork bavaria goias
+1
+0 1
+1
+0 10 2 10
+1
+end_operator
+begin_operator
+feast love cantelope pork goias pennsylvania
+0
+2
+0 0 2 1
+0 10 2 10
+1
+end_operator
+begin_operator
+feast love flounder lobster bavaria goias
+0
+1
+0 10 3 5
+1
+end_operator
+begin_operator
+feast love flounder wonderbread bavaria goias
+0
+1
+0 10 3 16
+1
+end_operator
+begin_operator
+feast love lobster flounder bavaria goias
+0
+1
+0 10 5 3
+1
+end_operator
+begin_operator
+feast love lobster pork bavaria goias
+0
+1
+0 10 5 10
+1
+end_operator
+begin_operator
+feast love okra hotdog bavaria goias
+1
+9 2
+1
+0 10 7 4
+1
+end_operator
+begin_operator
+feast love okra hotdog goias pennsylvania
+0
+2
+0 9 3 2
+0 10 7 4
+1
+end_operator
+begin_operator
+feast love okra hotdog pennsylvania bosnia
+0
+2
+0 9 1 3
+0 10 7 4
+1
+end_operator
+begin_operator
+feast love okra tuna bavaria goias
+1
+9 2
+1
+0 10 7 14
+1
+end_operator
+begin_operator
+feast love okra tuna goias pennsylvania
+0
+2
+0 9 3 2
+0 10 7 14
+1
+end_operator
+begin_operator
+feast love okra tuna pennsylvania bosnia
+0
+2
+0 9 1 3
+0 10 7 14
+1
+end_operator
+begin_operator
+feast love okra wonderbread bavaria goias
+1
+9 2
+1
+0 10 7 16
+1
+end_operator
+begin_operator
+feast love okra wonderbread goias pennsylvania
+0
+2
+0 9 3 2
+0 10 7 16
+1
+end_operator
+begin_operator
+feast love okra wonderbread pennsylvania bosnia
+0
+2
+0 9 1 3
+0 10 7 16
+1
+end_operator
+begin_operator
+feast love pepper pistachio bavaria goias
+0
+1
+0 10 8 9
+1
+end_operator
+begin_operator
+feast love pepper turkey bavaria goias
+0
+1
+0 10 8 15
+1
+end_operator
+begin_operator
+feast love pistachio arugula bavaria goias
+1
+1 1
+1
+0 10 9 0
+1
+end_operator
+begin_operator
+feast love pistachio arugula goias pennsylvania
+0
+2
+0 1 2 1
+0 10 9 0
+1
+end_operator
+begin_operator
+feast love pistachio pepper bavaria goias
+1
+1 1
+1
+0 10 9 8
+1
+end_operator
+begin_operator
+feast love pistachio pepper goias pennsylvania
+0
+2
+0 1 2 1
+0 10 9 8
+1
+end_operator
+begin_operator
+feast love pork cantelope bavaria goias
+1
+4 2
+1
+0 10 10 2
+1
+end_operator
+begin_operator
+feast love pork cantelope goias pennsylvania
+0
+2
+0 4 3 2
+0 10 10 2
+1
+end_operator
+begin_operator
+feast love pork cantelope pennsylvania bosnia
+0
+2
+0 4 1 3
+0 10 10 2
+1
+end_operator
+begin_operator
+feast love pork lobster bavaria goias
+1
+4 2
+1
+0 10 10 5
+1
+end_operator
+begin_operator
+feast love pork lobster goias pennsylvania
+0
+2
+0 4 3 2
+0 10 10 5
+1
+end_operator
+begin_operator
+feast love pork lobster pennsylvania bosnia
+0
+2
+0 4 1 3
+0 10 10 5
+1
+end_operator
+begin_operator
+feast love scallop tomato bavaria goias
+1
+2 1
+1
+0 10 12 13
+1
+end_operator
+begin_operator
+feast love scallop tomato goias pennsylvania
+0
+2
+0 2 2 1
+0 10 12 13
+1
+end_operator
+begin_operator
+feast love scallop wonderbread bavaria goias
+1
+2 1
+1
+0 10 12 16
+1
+end_operator
+begin_operator
+feast love scallop wonderbread goias pennsylvania
+0
+2
+0 2 2 1
+0 10 12 16
+1
+end_operator
+begin_operator
+feast love tomato baguette bavaria goias
+1
+6 2
+1
+0 10 13 1
+1
+end_operator
+begin_operator
+feast love tomato baguette goias pennsylvania
+0
+2
+0 6 3 2
+0 10 13 1
+1
+end_operator
+begin_operator
+feast love tomato baguette pennsylvania bosnia
+0
+2
+0 6 1 3
+0 10 13 1
+1
+end_operator
+begin_operator
+feast love tomato scallop bavaria goias
+1
+6 2
+1
+0 10 13 12
+1
+end_operator
+begin_operator
+feast love tomato scallop goias pennsylvania
+0
+2
+0 6 3 2
+0 10 13 12
+1
+end_operator
+begin_operator
+feast love tomato scallop pennsylvania bosnia
+0
+2
+0 6 1 3
+0 10 13 12
+1
+end_operator
+begin_operator
+feast love tuna muffin bavaria goias
+1
+12 2
+1
+0 10 14 6
+1
+end_operator
+begin_operator
+feast love tuna muffin bosnia surrey
+0
+2
+0 10 14 6
+0 12 4 1
+1
+end_operator
+begin_operator
+feast love tuna muffin goias pennsylvania
+0
+2
+0 10 14 6
+0 12 3 2
+1
+end_operator
+begin_operator
+feast love tuna muffin pennsylvania bosnia
+0
+2
+0 10 14 6
+0 12 1 3
+1
+end_operator
+begin_operator
+feast love tuna okra bavaria goias
+1
+12 2
+1
+0 10 14 7
+1
+end_operator
+begin_operator
+feast love tuna okra bosnia surrey
+0
+2
+0 10 14 7
+0 12 4 1
+1
+end_operator
+begin_operator
+feast love tuna okra goias pennsylvania
+0
+2
+0 10 14 7
+0 12 3 2
+1
+end_operator
+begin_operator
+feast love tuna okra pennsylvania bosnia
+0
+2
+0 10 14 7
+0 12 1 3
+1
+end_operator
+begin_operator
+feast love tuna rice bavaria goias
+1
+12 2
+1
+0 10 14 11
+1
+end_operator
+begin_operator
+feast love tuna rice bosnia surrey
+0
+2
+0 10 14 11
+0 12 4 1
+1
+end_operator
+begin_operator
+feast love tuna rice goias pennsylvania
+0
+2
+0 10 14 11
+0 12 3 2
+1
+end_operator
+begin_operator
+feast love tuna rice pennsylvania bosnia
+0
+2
+0 10 14 11
+0 12 1 3
+1
+end_operator
+begin_operator
+feast love turkey baguette bavaria goias
+0
+1
+0 10 15 1
+1
+end_operator
+begin_operator
+feast love turkey pepper bavaria goias
+0
+1
+0 10 15 8
+1
+end_operator
+begin_operator
+feast love wonderbread flounder bavaria goias
+0
+1
+0 10 16 3
+1
+end_operator
+begin_operator
+feast love wonderbread okra bavaria goias
+0
+1
+0 10 16 7
+1
+end_operator
+begin_operator
+feast love wonderbread scallop bavaria goias
+0
+1
+0 10 16 12
+1
+end_operator
+begin_operator
+feast rest baguette tomato bavaria goias
+1
+3 2
+1
+0 11 1 13
+1
+end_operator
+begin_operator
+feast rest baguette tomato goias pennsylvania
+0
+2
+0 3 3 2
+0 11 1 13
+1
+end_operator
+begin_operator
+feast rest baguette tomato pennsylvania bosnia
+0
+2
+0 3 1 3
+0 11 1 13
+1
+end_operator
+begin_operator
+feast rest baguette turkey bavaria goias
+1
+3 2
+1
+0 11 1 15
+1
+end_operator
+begin_operator
+feast rest baguette turkey goias pennsylvania
+0
+2
+0 3 3 2
+0 11 1 15
+1
+end_operator
+begin_operator
+feast rest baguette turkey pennsylvania bosnia
+0
+2
+0 3 1 3
+0 11 1 15
+1
+end_operator
+begin_operator
+feast rest cantelope arugula bavaria goias
+1
+0 1
+1
+0 11 2 0
+1
+end_operator
+begin_operator
+feast rest cantelope arugula goias pennsylvania
+0
+2
+0 0 2 1
+0 11 2 0
+1
+end_operator
+begin_operator
+feast rest cantelope pork bavaria goias
+1
+0 1
+1
+0 11 2 10
+1
+end_operator
+begin_operator
+feast rest cantelope pork goias pennsylvania
+0
+2
+0 0 2 1
+0 11 2 10
+1
+end_operator
+begin_operator
+feast rest flounder lobster bavaria goias
+0
+1
+0 11 3 5
+1
+end_operator
+begin_operator
+feast rest flounder wonderbread bavaria goias
+0
+1
+0 11 3 16
+1
+end_operator
+begin_operator
+feast rest lobster flounder bavaria goias
+0
+1
+0 11 5 3
+1
+end_operator
+begin_operator
+feast rest lobster pork bavaria goias
+0
+1
+0 11 5 10
+1
+end_operator
+begin_operator
+feast rest okra hotdog bavaria goias
+1
+9 2
+1
+0 11 7 4
+1
+end_operator
+begin_operator
+feast rest okra hotdog goias pennsylvania
+0
+2
+0 9 3 2
+0 11 7 4
+1
+end_operator
+begin_operator
+feast rest okra hotdog pennsylvania bosnia
+0
+2
+0 9 1 3
+0 11 7 4
+1
+end_operator
+begin_operator
+feast rest okra tuna bavaria goias
+1
+9 2
+1
+0 11 7 14
+1
+end_operator
+begin_operator
+feast rest okra tuna goias pennsylvania
+0
+2
+0 9 3 2
+0 11 7 14
+1
+end_operator
+begin_operator
+feast rest okra tuna pennsylvania bosnia
+0
+2
+0 9 1 3
+0 11 7 14
+1
+end_operator
+begin_operator
+feast rest okra wonderbread bavaria goias
+1
+9 2
+1
+0 11 7 16
+1
+end_operator
+begin_operator
+feast rest okra wonderbread goias pennsylvania
+0
+2
+0 9 3 2
+0 11 7 16
+1
+end_operator
+begin_operator
+feast rest okra wonderbread pennsylvania bosnia
+0
+2
+0 9 1 3
+0 11 7 16
+1
+end_operator
+begin_operator
+feast rest pepper pistachio bavaria goias
+0
+1
+0 11 8 9
+1
+end_operator
+begin_operator
+feast rest pepper turkey bavaria goias
+0
+1
+0 11 8 15
+1
+end_operator
+begin_operator
+feast rest pistachio arugula bavaria goias
+1
+1 1
+1
+0 11 9 0
+1
+end_operator
+begin_operator
+feast rest pistachio arugula goias pennsylvania
+0
+2
+0 1 2 1
+0 11 9 0
+1
+end_operator
+begin_operator
+feast rest pistachio pepper bavaria goias
+1
+1 1
+1
+0 11 9 8
+1
+end_operator
+begin_operator
+feast rest pistachio pepper goias pennsylvania
+0
+2
+0 1 2 1
+0 11 9 8
+1
+end_operator
+begin_operator
+feast rest pork cantelope bavaria goias
+1
+4 2
+1
+0 11 10 2
+1
+end_operator
+begin_operator
+feast rest pork cantelope goias pennsylvania
+0
+2
+0 4 3 2
+0 11 10 2
+1
+end_operator
+begin_operator
+feast rest pork cantelope pennsylvania bosnia
+0
+2
+0 4 1 3
+0 11 10 2
+1
+end_operator
+begin_operator
+feast rest pork lobster bavaria goias
+1
+4 2
+1
+0 11 10 5
+1
+end_operator
+begin_operator
+feast rest pork lobster goias pennsylvania
+0
+2
+0 4 3 2
+0 11 10 5
+1
+end_operator
+begin_operator
+feast rest pork lobster pennsylvania bosnia
+0
+2
+0 4 1 3
+0 11 10 5
+1
+end_operator
+begin_operator
+feast rest scallop tomato bavaria goias
+1
+2 1
+1
+0 11 12 13
+1
+end_operator
+begin_operator
+feast rest scallop tomato goias pennsylvania
+0
+2
+0 2 2 1
+0 11 12 13
+1
+end_operator
+begin_operator
+feast rest scallop wonderbread bavaria goias
+1
+2 1
+1
+0 11 12 16
+1
+end_operator
+begin_operator
+feast rest scallop wonderbread goias pennsylvania
+0
+2
+0 2 2 1
+0 11 12 16
+1
+end_operator
+begin_operator
+feast rest tomato baguette bavaria goias
+1
+6 2
+1
+0 11 13 1
+1
+end_operator
+begin_operator
+feast rest tomato baguette goias pennsylvania
+0
+2
+0 6 3 2
+0 11 13 1
+1
+end_operator
+begin_operator
+feast rest tomato baguette pennsylvania bosnia
+0
+2
+0 6 1 3
+0 11 13 1
+1
+end_operator
+begin_operator
+feast rest tomato scallop bavaria goias
+1
+6 2
+1
+0 11 13 12
+1
+end_operator
+begin_operator
+feast rest tomato scallop goias pennsylvania
+0
+2
+0 6 3 2
+0 11 13 12
+1
+end_operator
+begin_operator
+feast rest tomato scallop pennsylvania bosnia
+0
+2
+0 6 1 3
+0 11 13 12
+1
+end_operator
+begin_operator
+feast rest tuna muffin bavaria goias
+1
+12 2
+1
+0 11 14 6
+1
+end_operator
+begin_operator
+feast rest tuna muffin bosnia surrey
+0
+2
+0 11 14 6
+0 12 4 1
+1
+end_operator
+begin_operator
+feast rest tuna muffin goias pennsylvania
+0
+2
+0 11 14 6
+0 12 3 2
+1
+end_operator
+begin_operator
+feast rest tuna muffin pennsylvania bosnia
+0
+2
+0 11 14 6
+0 12 1 3
+1
+end_operator
+begin_operator
+feast rest tuna okra bavaria goias
+1
+12 2
+1
+0 11 14 7
+1
+end_operator
+begin_operator
+feast rest tuna okra bosnia surrey
+0
+2
+0 11 14 7
+0 12 4 1
+1
+end_operator
+begin_operator
+feast rest tuna okra goias pennsylvania
+0
+2
+0 11 14 7
+0 12 3 2
+1
+end_operator
+begin_operator
+feast rest tuna okra pennsylvania bosnia
+0
+2
+0 11 14 7
+0 12 1 3
+1
+end_operator
+begin_operator
+feast rest tuna rice bavaria goias
+1
+12 2
+1
+0 11 14 11
+1
+end_operator
+begin_operator
+feast rest tuna rice bosnia surrey
+0
+2
+0 11 14 11
+0 12 4 1
+1
+end_operator
+begin_operator
+feast rest tuna rice goias pennsylvania
+0
+2
+0 11 14 11
+0 12 3 2
+1
+end_operator
+begin_operator
+feast rest tuna rice pennsylvania bosnia
+0
+2
+0 11 14 11
+0 12 1 3
+1
+end_operator
+begin_operator
+feast rest turkey baguette bavaria goias
+0
+1
+0 11 15 1
+1
+end_operator
+begin_operator
+feast rest turkey pepper bavaria goias
+0
+1
+0 11 15 8
+1
+end_operator
+begin_operator
+feast rest wonderbread flounder bavaria goias
+0
+1
+0 11 16 3
+1
+end_operator
+begin_operator
+feast rest wonderbread okra bavaria goias
+0
+1
+0 11 16 7
+1
+end_operator
+begin_operator
+feast rest wonderbread scallop bavaria goias
+0
+1
+0 11 16 12
+1
+end_operator
+begin_operator
+overcome abrasion achievement rice earth uranus
+0
+2
+0 13 2 0
+0 18 11 17
+1
+end_operator
+begin_operator
+overcome abrasion achievement rice uranus vulcan
+0
+2
+0 13 3 2
+0 18 11 17
+1
+end_operator
+begin_operator
+overcome abrasion achievement rice vulcan jupiter
+0
+2
+0 13 1 3
+0 18 11 17
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics arugula earth uranus
+1
+5 0
+2
+0 17 2 0
+0 18 0 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics arugula uranus vulcan
+1
+5 0
+2
+0 17 3 2
+0 18 0 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics arugula vulcan jupiter
+1
+5 0
+2
+0 17 1 3
+0 18 0 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics baguette earth uranus
+1
+5 1
+2
+0 17 2 0
+0 18 1 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics baguette uranus vulcan
+1
+5 1
+2
+0 17 3 2
+0 18 1 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics baguette vulcan jupiter
+1
+5 1
+2
+0 17 1 3
+0 18 1 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics cantelope earth uranus
+1
+5 2
+2
+0 17 2 0
+0 18 2 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics cantelope uranus vulcan
+1
+5 2
+2
+0 17 3 2
+0 18 2 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics cantelope vulcan jupiter
+1
+5 2
+2
+0 17 1 3
+0 18 2 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics flounder earth uranus
+1
+5 3
+2
+0 17 2 0
+0 18 3 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics flounder uranus vulcan
+1
+5 3
+2
+0 17 3 2
+0 18 3 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics flounder vulcan jupiter
+1
+5 3
+2
+0 17 1 3
+0 18 3 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics hotdog earth uranus
+1
+5 4
+2
+0 17 2 0
+0 18 4 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics hotdog uranus vulcan
+1
+5 4
+2
+0 17 3 2
+0 18 4 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics hotdog vulcan jupiter
+1
+5 4
+2
+0 17 1 3
+0 18 4 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics lobster earth uranus
+1
+5 5
+2
+0 17 2 0
+0 18 5 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics lobster uranus vulcan
+1
+5 5
+2
+0 17 3 2
+0 18 5 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics lobster vulcan jupiter
+1
+5 5
+2
+0 17 1 3
+0 18 5 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics muffin earth uranus
+1
+5 6
+2
+0 17 2 0
+0 18 6 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics muffin uranus vulcan
+1
+5 6
+2
+0 17 3 2
+0 18 6 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics muffin vulcan jupiter
+1
+5 6
+2
+0 17 1 3
+0 18 6 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics okra earth uranus
+1
+5 7
+2
+0 17 2 0
+0 18 7 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics okra uranus vulcan
+1
+5 7
+2
+0 17 3 2
+0 18 7 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics okra vulcan jupiter
+1
+5 7
+2
+0 17 1 3
+0 18 7 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics pepper earth uranus
+1
+5 8
+2
+0 17 2 0
+0 18 8 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics pepper uranus vulcan
+1
+5 8
+2
+0 17 3 2
+0 18 8 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics pepper vulcan jupiter
+1
+5 8
+2
+0 17 1 3
+0 18 8 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics pistachio earth uranus
+1
+5 9
+2
+0 17 2 0
+0 18 9 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics pistachio uranus vulcan
+1
+5 9
+2
+0 17 3 2
+0 18 9 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics pistachio vulcan jupiter
+1
+5 9
+2
+0 17 1 3
+0 18 9 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics pork earth uranus
+1
+5 10
+2
+0 17 2 0
+0 18 10 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics pork uranus vulcan
+1
+5 10
+2
+0 17 3 2
+0 18 10 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics pork vulcan jupiter
+1
+5 10
+2
+0 17 1 3
+0 18 10 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics rice earth uranus
+1
+5 11
+2
+0 17 2 0
+0 18 11 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics rice uranus vulcan
+1
+5 11
+2
+0 17 3 2
+0 18 11 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics rice vulcan jupiter
+1
+5 11
+2
+0 17 1 3
+0 18 11 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics scallop earth uranus
+1
+5 12
+2
+0 17 2 0
+0 18 12 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics scallop uranus vulcan
+1
+5 12
+2
+0 17 3 2
+0 18 12 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics scallop vulcan jupiter
+1
+5 12
+2
+0 17 1 3
+0 18 12 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics tomato earth uranus
+1
+5 13
+2
+0 17 2 0
+0 18 13 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics tomato uranus vulcan
+1
+5 13
+2
+0 17 3 2
+0 18 13 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics tomato vulcan jupiter
+1
+5 13
+2
+0 17 1 3
+0 18 13 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics tuna earth uranus
+1
+5 14
+2
+0 17 2 0
+0 18 14 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics tuna uranus vulcan
+1
+5 14
+2
+0 17 3 2
+0 18 14 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics tuna vulcan jupiter
+1
+5 14
+2
+0 17 1 3
+0 18 14 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics turkey earth uranus
+1
+5 15
+2
+0 17 2 0
+0 18 15 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics turkey uranus vulcan
+1
+5 15
+2
+0 17 3 2
+0 18 15 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics turkey vulcan jupiter
+1
+5 15
+2
+0 17 1 3
+0 18 15 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics wonderbread earth uranus
+1
+5 16
+2
+0 17 2 0
+0 18 16 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics wonderbread uranus vulcan
+1
+5 16
+2
+0 17 3 2
+0 18 16 18
+1
+end_operator
+begin_operator
+overcome abrasion aesthetics wonderbread vulcan jupiter
+1
+5 16
+2
+0 17 1 3
+0 18 16 18
+1
+end_operator
+begin_operator
+overcome abrasion excitement arugula earth uranus
+1
+7 0
+2
+0 18 0 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome abrasion excitement arugula uranus vulcan
+1
+7 0
+2
+0 18 0 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome abrasion excitement arugula vulcan jupiter
+1
+7 0
+2
+0 18 0 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome abrasion excitement baguette earth uranus
+1
+7 1
+2
+0 18 1 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome abrasion excitement baguette uranus vulcan
+1
+7 1
+2
+0 18 1 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome abrasion excitement baguette vulcan jupiter
+1
+7 1
+2
+0 18 1 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome abrasion excitement cantelope earth uranus
+1
+7 2
+2
+0 18 2 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome abrasion excitement cantelope uranus vulcan
+1
+7 2
+2
+0 18 2 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome abrasion excitement cantelope vulcan jupiter
+1
+7 2
+2
+0 18 2 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome abrasion excitement flounder earth uranus
+1
+7 3
+2
+0 18 3 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome abrasion excitement flounder uranus vulcan
+1
+7 3
+2
+0 18 3 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome abrasion excitement flounder vulcan jupiter
+1
+7 3
+2
+0 18 3 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome abrasion excitement hotdog earth uranus
+1
+7 4
+2
+0 18 4 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome abrasion excitement hotdog uranus vulcan
+1
+7 4
+2
+0 18 4 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome abrasion excitement hotdog vulcan jupiter
+1
+7 4
+2
+0 18 4 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome abrasion excitement lobster earth uranus
+1
+7 5
+2
+0 18 5 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome abrasion excitement lobster uranus vulcan
+1
+7 5
+2
+0 18 5 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome abrasion excitement lobster vulcan jupiter
+1
+7 5
+2
+0 18 5 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome abrasion excitement muffin earth uranus
+1
+7 6
+2
+0 18 6 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome abrasion excitement muffin uranus vulcan
+1
+7 6
+2
+0 18 6 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome abrasion excitement muffin vulcan jupiter
+1
+7 6
+2
+0 18 6 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome abrasion excitement okra earth uranus
+1
+7 7
+2
+0 18 7 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome abrasion excitement okra uranus vulcan
+1
+7 7
+2
+0 18 7 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome abrasion excitement okra vulcan jupiter
+1
+7 7
+2
+0 18 7 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome abrasion excitement pepper earth uranus
+1
+7 8
+2
+0 18 8 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome abrasion excitement pepper uranus vulcan
+1
+7 8
+2
+0 18 8 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome abrasion excitement pepper vulcan jupiter
+1
+7 8
+2
+0 18 8 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome abrasion excitement pistachio earth uranus
+1
+7 9
+2
+0 18 9 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome abrasion excitement pistachio uranus vulcan
+1
+7 9
+2
+0 18 9 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome abrasion excitement pistachio vulcan jupiter
+1
+7 9
+2
+0 18 9 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome abrasion excitement pork earth uranus
+1
+7 10
+2
+0 18 10 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome abrasion excitement pork uranus vulcan
+1
+7 10
+2
+0 18 10 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome abrasion excitement pork vulcan jupiter
+1
+7 10
+2
+0 18 10 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome abrasion excitement rice earth uranus
+1
+7 11
+2
+0 18 11 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome abrasion excitement rice uranus vulcan
+1
+7 11
+2
+0 18 11 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome abrasion excitement rice vulcan jupiter
+1
+7 11
+2
+0 18 11 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome abrasion excitement scallop earth uranus
+1
+7 12
+2
+0 18 12 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome abrasion excitement scallop uranus vulcan
+1
+7 12
+2
+0 18 12 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome abrasion excitement scallop vulcan jupiter
+1
+7 12
+2
+0 18 12 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome abrasion excitement tomato earth uranus
+1
+7 13
+2
+0 18 13 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome abrasion excitement tomato uranus vulcan
+1
+7 13
+2
+0 18 13 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome abrasion excitement tomato vulcan jupiter
+1
+7 13
+2
+0 18 13 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome abrasion excitement tuna earth uranus
+1
+7 14
+2
+0 18 14 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome abrasion excitement tuna uranus vulcan
+1
+7 14
+2
+0 18 14 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome abrasion excitement tuna vulcan jupiter
+1
+7 14
+2
+0 18 14 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome abrasion excitement turkey earth uranus
+1
+7 15
+2
+0 18 15 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome abrasion excitement turkey uranus vulcan
+1
+7 15
+2
+0 18 15 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome abrasion excitement turkey vulcan jupiter
+1
+7 15
+2
+0 18 15 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome abrasion excitement wonderbread earth uranus
+1
+7 16
+2
+0 18 16 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome abrasion excitement wonderbread uranus vulcan
+1
+7 16
+2
+0 18 16 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome abrasion excitement wonderbread vulcan jupiter
+1
+7 16
+2
+0 18 16 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome abrasion learning arugula earth uranus
+1
+8 0
+2
+0 18 0 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome abrasion learning arugula uranus vulcan
+1
+8 0
+2
+0 18 0 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome abrasion learning arugula vulcan jupiter
+1
+8 0
+2
+0 18 0 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome abrasion learning baguette earth uranus
+1
+8 1
+2
+0 18 1 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome abrasion learning baguette uranus vulcan
+1
+8 1
+2
+0 18 1 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome abrasion learning baguette vulcan jupiter
+1
+8 1
+2
+0 18 1 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome abrasion learning cantelope earth uranus
+1
+8 2
+2
+0 18 2 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome abrasion learning cantelope uranus vulcan
+1
+8 2
+2
+0 18 2 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome abrasion learning cantelope vulcan jupiter
+1
+8 2
+2
+0 18 2 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome abrasion learning flounder earth uranus
+1
+8 3
+2
+0 18 3 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome abrasion learning flounder uranus vulcan
+1
+8 3
+2
+0 18 3 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome abrasion learning flounder vulcan jupiter
+1
+8 3
+2
+0 18 3 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome abrasion learning hotdog earth uranus
+1
+8 4
+2
+0 18 4 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome abrasion learning hotdog uranus vulcan
+1
+8 4
+2
+0 18 4 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome abrasion learning hotdog vulcan jupiter
+1
+8 4
+2
+0 18 4 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome abrasion learning lobster earth uranus
+1
+8 5
+2
+0 18 5 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome abrasion learning lobster uranus vulcan
+1
+8 5
+2
+0 18 5 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome abrasion learning lobster vulcan jupiter
+1
+8 5
+2
+0 18 5 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome abrasion learning muffin earth uranus
+1
+8 6
+2
+0 18 6 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome abrasion learning muffin uranus vulcan
+1
+8 6
+2
+0 18 6 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome abrasion learning muffin vulcan jupiter
+1
+8 6
+2
+0 18 6 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome abrasion learning okra earth uranus
+1
+8 7
+2
+0 18 7 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome abrasion learning okra uranus vulcan
+1
+8 7
+2
+0 18 7 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome abrasion learning okra vulcan jupiter
+1
+8 7
+2
+0 18 7 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome abrasion learning pepper earth uranus
+1
+8 8
+2
+0 18 8 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome abrasion learning pepper uranus vulcan
+1
+8 8
+2
+0 18 8 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome abrasion learning pepper vulcan jupiter
+1
+8 8
+2
+0 18 8 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome abrasion learning pistachio earth uranus
+1
+8 9
+2
+0 18 9 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome abrasion learning pistachio uranus vulcan
+1
+8 9
+2
+0 18 9 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome abrasion learning pistachio vulcan jupiter
+1
+8 9
+2
+0 18 9 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome abrasion learning pork earth uranus
+1
+8 10
+2
+0 18 10 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome abrasion learning pork uranus vulcan
+1
+8 10
+2
+0 18 10 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome abrasion learning pork vulcan jupiter
+1
+8 10
+2
+0 18 10 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome abrasion learning rice earth uranus
+1
+8 11
+2
+0 18 11 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome abrasion learning rice uranus vulcan
+1
+8 11
+2
+0 18 11 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome abrasion learning rice vulcan jupiter
+1
+8 11
+2
+0 18 11 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome abrasion learning scallop earth uranus
+1
+8 12
+2
+0 18 12 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome abrasion learning scallop uranus vulcan
+1
+8 12
+2
+0 18 12 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome abrasion learning scallop vulcan jupiter
+1
+8 12
+2
+0 18 12 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome abrasion learning tomato earth uranus
+1
+8 13
+2
+0 18 13 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome abrasion learning tomato uranus vulcan
+1
+8 13
+2
+0 18 13 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome abrasion learning tomato vulcan jupiter
+1
+8 13
+2
+0 18 13 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome abrasion learning tuna earth uranus
+1
+8 14
+2
+0 18 14 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome abrasion learning tuna uranus vulcan
+1
+8 14
+2
+0 18 14 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome abrasion learning tuna vulcan jupiter
+1
+8 14
+2
+0 18 14 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome abrasion learning turkey earth uranus
+1
+8 15
+2
+0 18 15 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome abrasion learning turkey uranus vulcan
+1
+8 15
+2
+0 18 15 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome abrasion learning turkey vulcan jupiter
+1
+8 15
+2
+0 18 15 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome abrasion learning wonderbread earth uranus
+1
+8 16
+2
+0 18 16 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome abrasion learning wonderbread uranus vulcan
+1
+8 16
+2
+0 18 16 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome abrasion learning wonderbread vulcan jupiter
+1
+8 16
+2
+0 18 16 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome abrasion love arugula earth uranus
+1
+10 0
+2
+0 18 0 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome abrasion love arugula uranus vulcan
+1
+10 0
+2
+0 18 0 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome abrasion love arugula vulcan jupiter
+1
+10 0
+2
+0 18 0 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome abrasion love baguette earth uranus
+1
+10 1
+2
+0 18 1 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome abrasion love baguette uranus vulcan
+1
+10 1
+2
+0 18 1 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome abrasion love baguette vulcan jupiter
+1
+10 1
+2
+0 18 1 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome abrasion love cantelope earth uranus
+1
+10 2
+2
+0 18 2 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome abrasion love cantelope uranus vulcan
+1
+10 2
+2
+0 18 2 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome abrasion love cantelope vulcan jupiter
+1
+10 2
+2
+0 18 2 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome abrasion love flounder earth uranus
+1
+10 3
+2
+0 18 3 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome abrasion love flounder uranus vulcan
+1
+10 3
+2
+0 18 3 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome abrasion love flounder vulcan jupiter
+1
+10 3
+2
+0 18 3 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome abrasion love hotdog earth uranus
+1
+10 4
+2
+0 18 4 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome abrasion love hotdog uranus vulcan
+1
+10 4
+2
+0 18 4 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome abrasion love hotdog vulcan jupiter
+1
+10 4
+2
+0 18 4 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome abrasion love lobster earth uranus
+1
+10 5
+2
+0 18 5 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome abrasion love lobster uranus vulcan
+1
+10 5
+2
+0 18 5 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome abrasion love lobster vulcan jupiter
+1
+10 5
+2
+0 18 5 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome abrasion love muffin earth uranus
+1
+10 6
+2
+0 18 6 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome abrasion love muffin uranus vulcan
+1
+10 6
+2
+0 18 6 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome abrasion love muffin vulcan jupiter
+1
+10 6
+2
+0 18 6 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome abrasion love okra earth uranus
+1
+10 7
+2
+0 18 7 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome abrasion love okra uranus vulcan
+1
+10 7
+2
+0 18 7 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome abrasion love okra vulcan jupiter
+1
+10 7
+2
+0 18 7 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome abrasion love pepper earth uranus
+1
+10 8
+2
+0 18 8 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome abrasion love pepper uranus vulcan
+1
+10 8
+2
+0 18 8 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome abrasion love pepper vulcan jupiter
+1
+10 8
+2
+0 18 8 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome abrasion love pistachio earth uranus
+1
+10 9
+2
+0 18 9 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome abrasion love pistachio uranus vulcan
+1
+10 9
+2
+0 18 9 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome abrasion love pistachio vulcan jupiter
+1
+10 9
+2
+0 18 9 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome abrasion love pork earth uranus
+1
+10 10
+2
+0 18 10 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome abrasion love pork uranus vulcan
+1
+10 10
+2
+0 18 10 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome abrasion love pork vulcan jupiter
+1
+10 10
+2
+0 18 10 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome abrasion love rice earth uranus
+1
+10 11
+2
+0 18 11 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome abrasion love rice uranus vulcan
+1
+10 11
+2
+0 18 11 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome abrasion love rice vulcan jupiter
+1
+10 11
+2
+0 18 11 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome abrasion love scallop earth uranus
+1
+10 12
+2
+0 18 12 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome abrasion love scallop uranus vulcan
+1
+10 12
+2
+0 18 12 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome abrasion love scallop vulcan jupiter
+1
+10 12
+2
+0 18 12 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome abrasion love tomato earth uranus
+1
+10 13
+2
+0 18 13 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome abrasion love tomato uranus vulcan
+1
+10 13
+2
+0 18 13 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome abrasion love tomato vulcan jupiter
+1
+10 13
+2
+0 18 13 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome abrasion love tuna earth uranus
+1
+10 14
+2
+0 18 14 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome abrasion love tuna uranus vulcan
+1
+10 14
+2
+0 18 14 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome abrasion love tuna vulcan jupiter
+1
+10 14
+2
+0 18 14 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome abrasion love turkey earth uranus
+1
+10 15
+2
+0 18 15 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome abrasion love turkey uranus vulcan
+1
+10 15
+2
+0 18 15 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome abrasion love turkey vulcan jupiter
+1
+10 15
+2
+0 18 15 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome abrasion love wonderbread earth uranus
+1
+10 16
+2
+0 18 16 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome abrasion love wonderbread uranus vulcan
+1
+10 16
+2
+0 18 16 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome abrasion love wonderbread vulcan jupiter
+1
+10 16
+2
+0 18 16 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome abrasion lubricity arugula earth uranus
+0
+2
+0 14 2 0
+0 18 0 22
+1
+end_operator
+begin_operator
+overcome abrasion lubricity arugula uranus vulcan
+0
+2
+0 14 3 2
+0 18 0 22
+1
+end_operator
+begin_operator
+overcome abrasion lubricity arugula vulcan jupiter
+0
+2
+0 14 1 3
+0 18 0 22
+1
+end_operator
+begin_operator
+overcome abrasion rest arugula earth uranus
+1
+11 0
+2
+0 18 0 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome abrasion rest arugula uranus vulcan
+1
+11 0
+2
+0 18 0 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome abrasion rest arugula vulcan jupiter
+1
+11 0
+2
+0 18 0 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome abrasion rest baguette earth uranus
+1
+11 1
+2
+0 18 1 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome abrasion rest baguette uranus vulcan
+1
+11 1
+2
+0 18 1 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome abrasion rest baguette vulcan jupiter
+1
+11 1
+2
+0 18 1 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome abrasion rest cantelope earth uranus
+1
+11 2
+2
+0 18 2 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome abrasion rest cantelope uranus vulcan
+1
+11 2
+2
+0 18 2 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome abrasion rest cantelope vulcan jupiter
+1
+11 2
+2
+0 18 2 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome abrasion rest flounder earth uranus
+1
+11 3
+2
+0 18 3 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome abrasion rest flounder uranus vulcan
+1
+11 3
+2
+0 18 3 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome abrasion rest flounder vulcan jupiter
+1
+11 3
+2
+0 18 3 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome abrasion rest hotdog earth uranus
+1
+11 4
+2
+0 18 4 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome abrasion rest hotdog uranus vulcan
+1
+11 4
+2
+0 18 4 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome abrasion rest hotdog vulcan jupiter
+1
+11 4
+2
+0 18 4 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome abrasion rest lobster earth uranus
+1
+11 5
+2
+0 18 5 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome abrasion rest lobster uranus vulcan
+1
+11 5
+2
+0 18 5 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome abrasion rest lobster vulcan jupiter
+1
+11 5
+2
+0 18 5 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome abrasion rest muffin earth uranus
+1
+11 6
+2
+0 18 6 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome abrasion rest muffin uranus vulcan
+1
+11 6
+2
+0 18 6 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome abrasion rest muffin vulcan jupiter
+1
+11 6
+2
+0 18 6 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome abrasion rest okra earth uranus
+1
+11 7
+2
+0 18 7 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome abrasion rest okra uranus vulcan
+1
+11 7
+2
+0 18 7 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome abrasion rest okra vulcan jupiter
+1
+11 7
+2
+0 18 7 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome abrasion rest pepper earth uranus
+1
+11 8
+2
+0 18 8 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome abrasion rest pepper uranus vulcan
+1
+11 8
+2
+0 18 8 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome abrasion rest pepper vulcan jupiter
+1
+11 8
+2
+0 18 8 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome abrasion rest pistachio earth uranus
+1
+11 9
+2
+0 18 9 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome abrasion rest pistachio uranus vulcan
+1
+11 9
+2
+0 18 9 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome abrasion rest pistachio vulcan jupiter
+1
+11 9
+2
+0 18 9 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome abrasion rest pork earth uranus
+1
+11 10
+2
+0 18 10 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome abrasion rest pork uranus vulcan
+1
+11 10
+2
+0 18 10 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome abrasion rest pork vulcan jupiter
+1
+11 10
+2
+0 18 10 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome abrasion rest rice earth uranus
+1
+11 11
+2
+0 18 11 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome abrasion rest rice uranus vulcan
+1
+11 11
+2
+0 18 11 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome abrasion rest rice vulcan jupiter
+1
+11 11
+2
+0 18 11 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome abrasion rest scallop earth uranus
+1
+11 12
+2
+0 18 12 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome abrasion rest scallop uranus vulcan
+1
+11 12
+2
+0 18 12 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome abrasion rest scallop vulcan jupiter
+1
+11 12
+2
+0 18 12 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome abrasion rest tomato earth uranus
+1
+11 13
+2
+0 18 13 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome abrasion rest tomato uranus vulcan
+1
+11 13
+2
+0 18 13 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome abrasion rest tomato vulcan jupiter
+1
+11 13
+2
+0 18 13 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome abrasion rest tuna earth uranus
+1
+11 14
+2
+0 18 14 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome abrasion rest tuna uranus vulcan
+1
+11 14
+2
+0 18 14 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome abrasion rest tuna vulcan jupiter
+1
+11 14
+2
+0 18 14 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome abrasion rest turkey earth uranus
+1
+11 15
+2
+0 18 15 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome abrasion rest turkey uranus vulcan
+1
+11 15
+2
+0 18 15 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome abrasion rest turkey vulcan jupiter
+1
+11 15
+2
+0 18 15 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome abrasion rest wonderbread earth uranus
+1
+11 16
+2
+0 18 16 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome abrasion rest wonderbread uranus vulcan
+1
+11 16
+2
+0 18 16 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome abrasion rest wonderbread vulcan jupiter
+1
+11 16
+2
+0 18 16 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome abrasion stimulation muffin earth uranus
+0
+2
+0 15 2 0
+0 18 6 24
+1
+end_operator
+begin_operator
+overcome abrasion stimulation muffin uranus vulcan
+0
+2
+0 15 3 2
+0 18 6 24
+1
+end_operator
+begin_operator
+overcome abrasion stimulation muffin vulcan jupiter
+0
+2
+0 15 1 3
+0 18 6 24
+1
+end_operator
+begin_operator
+overcome abrasion triumph hotdog earth uranus
+0
+2
+0 16 2 0
+0 18 4 25
+1
+end_operator
+begin_operator
+overcome abrasion triumph hotdog uranus vulcan
+0
+2
+0 16 3 2
+0 18 4 25
+1
+end_operator
+begin_operator
+overcome abrasion triumph hotdog vulcan jupiter
+0
+2
+0 16 1 3
+0 18 4 25
+1
+end_operator
+begin_operator
+overcome anger achievement rice earth uranus
+0
+2
+0 13 2 0
+0 19 11 17
+1
+end_operator
+begin_operator
+overcome anger achievement rice uranus vulcan
+0
+2
+0 13 3 2
+0 19 11 17
+1
+end_operator
+begin_operator
+overcome anger achievement rice vulcan jupiter
+0
+2
+0 13 1 3
+0 19 11 17
+1
+end_operator
+begin_operator
+overcome anger aesthetics arugula earth uranus
+1
+5 0
+2
+0 17 2 0
+0 19 0 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics arugula uranus vulcan
+1
+5 0
+2
+0 17 3 2
+0 19 0 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics arugula vulcan jupiter
+1
+5 0
+2
+0 17 1 3
+0 19 0 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics baguette earth uranus
+1
+5 1
+2
+0 17 2 0
+0 19 1 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics baguette uranus vulcan
+1
+5 1
+2
+0 17 3 2
+0 19 1 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics baguette vulcan jupiter
+1
+5 1
+2
+0 17 1 3
+0 19 1 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics cantelope earth uranus
+1
+5 2
+2
+0 17 2 0
+0 19 2 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics cantelope uranus vulcan
+1
+5 2
+2
+0 17 3 2
+0 19 2 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics cantelope vulcan jupiter
+1
+5 2
+2
+0 17 1 3
+0 19 2 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics flounder earth uranus
+1
+5 3
+2
+0 17 2 0
+0 19 3 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics flounder uranus vulcan
+1
+5 3
+2
+0 17 3 2
+0 19 3 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics flounder vulcan jupiter
+1
+5 3
+2
+0 17 1 3
+0 19 3 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics hotdog earth uranus
+1
+5 4
+2
+0 17 2 0
+0 19 4 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics hotdog uranus vulcan
+1
+5 4
+2
+0 17 3 2
+0 19 4 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics hotdog vulcan jupiter
+1
+5 4
+2
+0 17 1 3
+0 19 4 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics lobster earth uranus
+1
+5 5
+2
+0 17 2 0
+0 19 5 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics lobster uranus vulcan
+1
+5 5
+2
+0 17 3 2
+0 19 5 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics lobster vulcan jupiter
+1
+5 5
+2
+0 17 1 3
+0 19 5 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics muffin earth uranus
+1
+5 6
+2
+0 17 2 0
+0 19 6 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics muffin uranus vulcan
+1
+5 6
+2
+0 17 3 2
+0 19 6 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics muffin vulcan jupiter
+1
+5 6
+2
+0 17 1 3
+0 19 6 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics okra earth uranus
+1
+5 7
+2
+0 17 2 0
+0 19 7 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics okra uranus vulcan
+1
+5 7
+2
+0 17 3 2
+0 19 7 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics okra vulcan jupiter
+1
+5 7
+2
+0 17 1 3
+0 19 7 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics pepper earth uranus
+1
+5 8
+2
+0 17 2 0
+0 19 8 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics pepper uranus vulcan
+1
+5 8
+2
+0 17 3 2
+0 19 8 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics pepper vulcan jupiter
+1
+5 8
+2
+0 17 1 3
+0 19 8 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics pistachio earth uranus
+1
+5 9
+2
+0 17 2 0
+0 19 9 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics pistachio uranus vulcan
+1
+5 9
+2
+0 17 3 2
+0 19 9 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics pistachio vulcan jupiter
+1
+5 9
+2
+0 17 1 3
+0 19 9 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics pork earth uranus
+1
+5 10
+2
+0 17 2 0
+0 19 10 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics pork uranus vulcan
+1
+5 10
+2
+0 17 3 2
+0 19 10 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics pork vulcan jupiter
+1
+5 10
+2
+0 17 1 3
+0 19 10 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics rice earth uranus
+1
+5 11
+2
+0 17 2 0
+0 19 11 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics rice uranus vulcan
+1
+5 11
+2
+0 17 3 2
+0 19 11 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics rice vulcan jupiter
+1
+5 11
+2
+0 17 1 3
+0 19 11 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics scallop earth uranus
+1
+5 12
+2
+0 17 2 0
+0 19 12 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics scallop uranus vulcan
+1
+5 12
+2
+0 17 3 2
+0 19 12 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics scallop vulcan jupiter
+1
+5 12
+2
+0 17 1 3
+0 19 12 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics tomato earth uranus
+1
+5 13
+2
+0 17 2 0
+0 19 13 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics tomato uranus vulcan
+1
+5 13
+2
+0 17 3 2
+0 19 13 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics tomato vulcan jupiter
+1
+5 13
+2
+0 17 1 3
+0 19 13 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics tuna earth uranus
+1
+5 14
+2
+0 17 2 0
+0 19 14 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics tuna uranus vulcan
+1
+5 14
+2
+0 17 3 2
+0 19 14 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics tuna vulcan jupiter
+1
+5 14
+2
+0 17 1 3
+0 19 14 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics turkey earth uranus
+1
+5 15
+2
+0 17 2 0
+0 19 15 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics turkey uranus vulcan
+1
+5 15
+2
+0 17 3 2
+0 19 15 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics turkey vulcan jupiter
+1
+5 15
+2
+0 17 1 3
+0 19 15 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics wonderbread earth uranus
+1
+5 16
+2
+0 17 2 0
+0 19 16 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics wonderbread uranus vulcan
+1
+5 16
+2
+0 17 3 2
+0 19 16 18
+1
+end_operator
+begin_operator
+overcome anger aesthetics wonderbread vulcan jupiter
+1
+5 16
+2
+0 17 1 3
+0 19 16 18
+1
+end_operator
+begin_operator
+overcome anger excitement arugula earth uranus
+1
+7 0
+2
+0 19 0 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome anger excitement arugula uranus vulcan
+1
+7 0
+2
+0 19 0 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome anger excitement arugula vulcan jupiter
+1
+7 0
+2
+0 19 0 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome anger excitement baguette earth uranus
+1
+7 1
+2
+0 19 1 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome anger excitement baguette uranus vulcan
+1
+7 1
+2
+0 19 1 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome anger excitement baguette vulcan jupiter
+1
+7 1
+2
+0 19 1 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome anger excitement cantelope earth uranus
+1
+7 2
+2
+0 19 2 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome anger excitement cantelope uranus vulcan
+1
+7 2
+2
+0 19 2 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome anger excitement cantelope vulcan jupiter
+1
+7 2
+2
+0 19 2 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome anger excitement flounder earth uranus
+1
+7 3
+2
+0 19 3 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome anger excitement flounder uranus vulcan
+1
+7 3
+2
+0 19 3 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome anger excitement flounder vulcan jupiter
+1
+7 3
+2
+0 19 3 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome anger excitement hotdog earth uranus
+1
+7 4
+2
+0 19 4 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome anger excitement hotdog uranus vulcan
+1
+7 4
+2
+0 19 4 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome anger excitement hotdog vulcan jupiter
+1
+7 4
+2
+0 19 4 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome anger excitement lobster earth uranus
+1
+7 5
+2
+0 19 5 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome anger excitement lobster uranus vulcan
+1
+7 5
+2
+0 19 5 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome anger excitement lobster vulcan jupiter
+1
+7 5
+2
+0 19 5 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome anger excitement muffin earth uranus
+1
+7 6
+2
+0 19 6 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome anger excitement muffin uranus vulcan
+1
+7 6
+2
+0 19 6 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome anger excitement muffin vulcan jupiter
+1
+7 6
+2
+0 19 6 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome anger excitement okra earth uranus
+1
+7 7
+2
+0 19 7 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome anger excitement okra uranus vulcan
+1
+7 7
+2
+0 19 7 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome anger excitement okra vulcan jupiter
+1
+7 7
+2
+0 19 7 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome anger excitement pepper earth uranus
+1
+7 8
+2
+0 19 8 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome anger excitement pepper uranus vulcan
+1
+7 8
+2
+0 19 8 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome anger excitement pepper vulcan jupiter
+1
+7 8
+2
+0 19 8 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome anger excitement pistachio earth uranus
+1
+7 9
+2
+0 19 9 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome anger excitement pistachio uranus vulcan
+1
+7 9
+2
+0 19 9 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome anger excitement pistachio vulcan jupiter
+1
+7 9
+2
+0 19 9 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome anger excitement pork earth uranus
+1
+7 10
+2
+0 19 10 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome anger excitement pork uranus vulcan
+1
+7 10
+2
+0 19 10 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome anger excitement pork vulcan jupiter
+1
+7 10
+2
+0 19 10 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome anger excitement rice earth uranus
+1
+7 11
+2
+0 19 11 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome anger excitement rice uranus vulcan
+1
+7 11
+2
+0 19 11 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome anger excitement rice vulcan jupiter
+1
+7 11
+2
+0 19 11 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome anger excitement scallop earth uranus
+1
+7 12
+2
+0 19 12 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome anger excitement scallop uranus vulcan
+1
+7 12
+2
+0 19 12 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome anger excitement scallop vulcan jupiter
+1
+7 12
+2
+0 19 12 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome anger excitement tomato earth uranus
+1
+7 13
+2
+0 19 13 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome anger excitement tomato uranus vulcan
+1
+7 13
+2
+0 19 13 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome anger excitement tomato vulcan jupiter
+1
+7 13
+2
+0 19 13 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome anger excitement tuna earth uranus
+1
+7 14
+2
+0 19 14 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome anger excitement tuna uranus vulcan
+1
+7 14
+2
+0 19 14 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome anger excitement tuna vulcan jupiter
+1
+7 14
+2
+0 19 14 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome anger excitement turkey earth uranus
+1
+7 15
+2
+0 19 15 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome anger excitement turkey uranus vulcan
+1
+7 15
+2
+0 19 15 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome anger excitement turkey vulcan jupiter
+1
+7 15
+2
+0 19 15 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome anger excitement wonderbread earth uranus
+1
+7 16
+2
+0 19 16 19
+0 20 2 0
+1
+end_operator
+begin_operator
+overcome anger excitement wonderbread uranus vulcan
+1
+7 16
+2
+0 19 16 19
+0 20 3 2
+1
+end_operator
+begin_operator
+overcome anger excitement wonderbread vulcan jupiter
+1
+7 16
+2
+0 19 16 19
+0 20 1 3
+1
+end_operator
+begin_operator
+overcome anger learning arugula earth uranus
+1
+8 0
+2
+0 19 0 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome anger learning arugula uranus vulcan
+1
+8 0
+2
+0 19 0 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome anger learning arugula vulcan jupiter
+1
+8 0
+2
+0 19 0 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome anger learning baguette earth uranus
+1
+8 1
+2
+0 19 1 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome anger learning baguette uranus vulcan
+1
+8 1
+2
+0 19 1 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome anger learning baguette vulcan jupiter
+1
+8 1
+2
+0 19 1 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome anger learning cantelope earth uranus
+1
+8 2
+2
+0 19 2 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome anger learning cantelope uranus vulcan
+1
+8 2
+2
+0 19 2 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome anger learning cantelope vulcan jupiter
+1
+8 2
+2
+0 19 2 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome anger learning flounder earth uranus
+1
+8 3
+2
+0 19 3 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome anger learning flounder uranus vulcan
+1
+8 3
+2
+0 19 3 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome anger learning flounder vulcan jupiter
+1
+8 3
+2
+0 19 3 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome anger learning hotdog earth uranus
+1
+8 4
+2
+0 19 4 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome anger learning hotdog uranus vulcan
+1
+8 4
+2
+0 19 4 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome anger learning hotdog vulcan jupiter
+1
+8 4
+2
+0 19 4 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome anger learning lobster earth uranus
+1
+8 5
+2
+0 19 5 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome anger learning lobster uranus vulcan
+1
+8 5
+2
+0 19 5 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome anger learning lobster vulcan jupiter
+1
+8 5
+2
+0 19 5 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome anger learning muffin earth uranus
+1
+8 6
+2
+0 19 6 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome anger learning muffin uranus vulcan
+1
+8 6
+2
+0 19 6 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome anger learning muffin vulcan jupiter
+1
+8 6
+2
+0 19 6 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome anger learning okra earth uranus
+1
+8 7
+2
+0 19 7 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome anger learning okra uranus vulcan
+1
+8 7
+2
+0 19 7 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome anger learning okra vulcan jupiter
+1
+8 7
+2
+0 19 7 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome anger learning pepper earth uranus
+1
+8 8
+2
+0 19 8 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome anger learning pepper uranus vulcan
+1
+8 8
+2
+0 19 8 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome anger learning pepper vulcan jupiter
+1
+8 8
+2
+0 19 8 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome anger learning pistachio earth uranus
+1
+8 9
+2
+0 19 9 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome anger learning pistachio uranus vulcan
+1
+8 9
+2
+0 19 9 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome anger learning pistachio vulcan jupiter
+1
+8 9
+2
+0 19 9 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome anger learning pork earth uranus
+1
+8 10
+2
+0 19 10 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome anger learning pork uranus vulcan
+1
+8 10
+2
+0 19 10 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome anger learning pork vulcan jupiter
+1
+8 10
+2
+0 19 10 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome anger learning rice earth uranus
+1
+8 11
+2
+0 19 11 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome anger learning rice uranus vulcan
+1
+8 11
+2
+0 19 11 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome anger learning rice vulcan jupiter
+1
+8 11
+2
+0 19 11 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome anger learning scallop earth uranus
+1
+8 12
+2
+0 19 12 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome anger learning scallop uranus vulcan
+1
+8 12
+2
+0 19 12 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome anger learning scallop vulcan jupiter
+1
+8 12
+2
+0 19 12 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome anger learning tomato earth uranus
+1
+8 13
+2
+0 19 13 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome anger learning tomato uranus vulcan
+1
+8 13
+2
+0 19 13 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome anger learning tomato vulcan jupiter
+1
+8 13
+2
+0 19 13 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome anger learning tuna earth uranus
+1
+8 14
+2
+0 19 14 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome anger learning tuna uranus vulcan
+1
+8 14
+2
+0 19 14 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome anger learning tuna vulcan jupiter
+1
+8 14
+2
+0 19 14 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome anger learning turkey earth uranus
+1
+8 15
+2
+0 19 15 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome anger learning turkey uranus vulcan
+1
+8 15
+2
+0 19 15 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome anger learning turkey vulcan jupiter
+1
+8 15
+2
+0 19 15 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome anger learning wonderbread earth uranus
+1
+8 16
+2
+0 19 16 20
+0 21 2 0
+1
+end_operator
+begin_operator
+overcome anger learning wonderbread uranus vulcan
+1
+8 16
+2
+0 19 16 20
+0 21 3 2
+1
+end_operator
+begin_operator
+overcome anger learning wonderbread vulcan jupiter
+1
+8 16
+2
+0 19 16 20
+0 21 1 3
+1
+end_operator
+begin_operator
+overcome anger love arugula earth uranus
+1
+10 0
+2
+0 19 0 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome anger love arugula uranus vulcan
+1
+10 0
+2
+0 19 0 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome anger love arugula vulcan jupiter
+1
+10 0
+2
+0 19 0 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome anger love baguette earth uranus
+1
+10 1
+2
+0 19 1 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome anger love baguette uranus vulcan
+1
+10 1
+2
+0 19 1 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome anger love baguette vulcan jupiter
+1
+10 1
+2
+0 19 1 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome anger love cantelope earth uranus
+1
+10 2
+2
+0 19 2 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome anger love cantelope uranus vulcan
+1
+10 2
+2
+0 19 2 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome anger love cantelope vulcan jupiter
+1
+10 2
+2
+0 19 2 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome anger love flounder earth uranus
+1
+10 3
+2
+0 19 3 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome anger love flounder uranus vulcan
+1
+10 3
+2
+0 19 3 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome anger love flounder vulcan jupiter
+1
+10 3
+2
+0 19 3 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome anger love hotdog earth uranus
+1
+10 4
+2
+0 19 4 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome anger love hotdog uranus vulcan
+1
+10 4
+2
+0 19 4 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome anger love hotdog vulcan jupiter
+1
+10 4
+2
+0 19 4 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome anger love lobster earth uranus
+1
+10 5
+2
+0 19 5 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome anger love lobster uranus vulcan
+1
+10 5
+2
+0 19 5 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome anger love lobster vulcan jupiter
+1
+10 5
+2
+0 19 5 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome anger love muffin earth uranus
+1
+10 6
+2
+0 19 6 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome anger love muffin uranus vulcan
+1
+10 6
+2
+0 19 6 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome anger love muffin vulcan jupiter
+1
+10 6
+2
+0 19 6 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome anger love okra earth uranus
+1
+10 7
+2
+0 19 7 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome anger love okra uranus vulcan
+1
+10 7
+2
+0 19 7 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome anger love okra vulcan jupiter
+1
+10 7
+2
+0 19 7 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome anger love pepper earth uranus
+1
+10 8
+2
+0 19 8 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome anger love pepper uranus vulcan
+1
+10 8
+2
+0 19 8 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome anger love pepper vulcan jupiter
+1
+10 8
+2
+0 19 8 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome anger love pistachio earth uranus
+1
+10 9
+2
+0 19 9 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome anger love pistachio uranus vulcan
+1
+10 9
+2
+0 19 9 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome anger love pistachio vulcan jupiter
+1
+10 9
+2
+0 19 9 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome anger love pork earth uranus
+1
+10 10
+2
+0 19 10 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome anger love pork uranus vulcan
+1
+10 10
+2
+0 19 10 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome anger love pork vulcan jupiter
+1
+10 10
+2
+0 19 10 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome anger love rice earth uranus
+1
+10 11
+2
+0 19 11 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome anger love rice uranus vulcan
+1
+10 11
+2
+0 19 11 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome anger love rice vulcan jupiter
+1
+10 11
+2
+0 19 11 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome anger love scallop earth uranus
+1
+10 12
+2
+0 19 12 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome anger love scallop uranus vulcan
+1
+10 12
+2
+0 19 12 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome anger love scallop vulcan jupiter
+1
+10 12
+2
+0 19 12 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome anger love tomato earth uranus
+1
+10 13
+2
+0 19 13 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome anger love tomato uranus vulcan
+1
+10 13
+2
+0 19 13 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome anger love tomato vulcan jupiter
+1
+10 13
+2
+0 19 13 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome anger love tuna earth uranus
+1
+10 14
+2
+0 19 14 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome anger love tuna uranus vulcan
+1
+10 14
+2
+0 19 14 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome anger love tuna vulcan jupiter
+1
+10 14
+2
+0 19 14 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome anger love turkey earth uranus
+1
+10 15
+2
+0 19 15 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome anger love turkey uranus vulcan
+1
+10 15
+2
+0 19 15 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome anger love turkey vulcan jupiter
+1
+10 15
+2
+0 19 15 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome anger love wonderbread earth uranus
+1
+10 16
+2
+0 19 16 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome anger love wonderbread uranus vulcan
+1
+10 16
+2
+0 19 16 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome anger love wonderbread vulcan jupiter
+1
+10 16
+2
+0 19 16 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome anger lubricity arugula earth uranus
+0
+2
+0 14 2 0
+0 19 0 22
+1
+end_operator
+begin_operator
+overcome anger lubricity arugula uranus vulcan
+0
+2
+0 14 3 2
+0 19 0 22
+1
+end_operator
+begin_operator
+overcome anger lubricity arugula vulcan jupiter
+0
+2
+0 14 1 3
+0 19 0 22
+1
+end_operator
+begin_operator
+overcome anger rest arugula earth uranus
+1
+11 0
+2
+0 19 0 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome anger rest arugula uranus vulcan
+1
+11 0
+2
+0 19 0 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome anger rest arugula vulcan jupiter
+1
+11 0
+2
+0 19 0 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome anger rest baguette earth uranus
+1
+11 1
+2
+0 19 1 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome anger rest baguette uranus vulcan
+1
+11 1
+2
+0 19 1 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome anger rest baguette vulcan jupiter
+1
+11 1
+2
+0 19 1 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome anger rest cantelope earth uranus
+1
+11 2
+2
+0 19 2 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome anger rest cantelope uranus vulcan
+1
+11 2
+2
+0 19 2 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome anger rest cantelope vulcan jupiter
+1
+11 2
+2
+0 19 2 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome anger rest flounder earth uranus
+1
+11 3
+2
+0 19 3 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome anger rest flounder uranus vulcan
+1
+11 3
+2
+0 19 3 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome anger rest flounder vulcan jupiter
+1
+11 3
+2
+0 19 3 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome anger rest hotdog earth uranus
+1
+11 4
+2
+0 19 4 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome anger rest hotdog uranus vulcan
+1
+11 4
+2
+0 19 4 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome anger rest hotdog vulcan jupiter
+1
+11 4
+2
+0 19 4 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome anger rest lobster earth uranus
+1
+11 5
+2
+0 19 5 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome anger rest lobster uranus vulcan
+1
+11 5
+2
+0 19 5 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome anger rest lobster vulcan jupiter
+1
+11 5
+2
+0 19 5 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome anger rest muffin earth uranus
+1
+11 6
+2
+0 19 6 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome anger rest muffin uranus vulcan
+1
+11 6
+2
+0 19 6 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome anger rest muffin vulcan jupiter
+1
+11 6
+2
+0 19 6 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome anger rest okra earth uranus
+1
+11 7
+2
+0 19 7 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome anger rest okra uranus vulcan
+1
+11 7
+2
+0 19 7 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome anger rest okra vulcan jupiter
+1
+11 7
+2
+0 19 7 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome anger rest pepper earth uranus
+1
+11 8
+2
+0 19 8 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome anger rest pepper uranus vulcan
+1
+11 8
+2
+0 19 8 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome anger rest pepper vulcan jupiter
+1
+11 8
+2
+0 19 8 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome anger rest pistachio earth uranus
+1
+11 9
+2
+0 19 9 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome anger rest pistachio uranus vulcan
+1
+11 9
+2
+0 19 9 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome anger rest pistachio vulcan jupiter
+1
+11 9
+2
+0 19 9 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome anger rest pork earth uranus
+1
+11 10
+2
+0 19 10 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome anger rest pork uranus vulcan
+1
+11 10
+2
+0 19 10 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome anger rest pork vulcan jupiter
+1
+11 10
+2
+0 19 10 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome anger rest rice earth uranus
+1
+11 11
+2
+0 19 11 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome anger rest rice uranus vulcan
+1
+11 11
+2
+0 19 11 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome anger rest rice vulcan jupiter
+1
+11 11
+2
+0 19 11 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome anger rest scallop earth uranus
+1
+11 12
+2
+0 19 12 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome anger rest scallop uranus vulcan
+1
+11 12
+2
+0 19 12 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome anger rest scallop vulcan jupiter
+1
+11 12
+2
+0 19 12 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome anger rest tomato earth uranus
+1
+11 13
+2
+0 19 13 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome anger rest tomato uranus vulcan
+1
+11 13
+2
+0 19 13 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome anger rest tomato vulcan jupiter
+1
+11 13
+2
+0 19 13 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome anger rest tuna earth uranus
+1
+11 14
+2
+0 19 14 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome anger rest tuna uranus vulcan
+1
+11 14
+2
+0 19 14 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome anger rest tuna vulcan jupiter
+1
+11 14
+2
+0 19 14 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome anger rest turkey earth uranus
+1
+11 15
+2
+0 19 15 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome anger rest turkey uranus vulcan
+1
+11 15
+2
+0 19 15 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome anger rest turkey vulcan jupiter
+1
+11 15
+2
+0 19 15 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome anger rest wonderbread earth uranus
+1
+11 16
+2
+0 19 16 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome anger rest wonderbread uranus vulcan
+1
+11 16
+2
+0 19 16 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome anger rest wonderbread vulcan jupiter
+1
+11 16
+2
+0 19 16 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome anger stimulation muffin earth uranus
+0
+2
+0 15 2 0
+0 19 6 24
+1
+end_operator
+begin_operator
+overcome anger stimulation muffin uranus vulcan
+0
+2
+0 15 3 2
+0 19 6 24
+1
+end_operator
+begin_operator
+overcome anger stimulation muffin vulcan jupiter
+0
+2
+0 15 1 3
+0 19 6 24
+1
+end_operator
+begin_operator
+overcome anger triumph hotdog earth uranus
+0
+2
+0 16 2 0
+0 19 4 25
+1
+end_operator
+begin_operator
+overcome anger triumph hotdog uranus vulcan
+0
+2
+0 16 3 2
+0 19 4 25
+1
+end_operator
+begin_operator
+overcome anger triumph hotdog vulcan jupiter
+0
+2
+0 16 1 3
+0 19 4 25
+1
+end_operator
+begin_operator
+overcome anxiety achievement rice earth uranus
+0
+2
+0 13 2 0
+0 26 11 17
+1
+end_operator
+begin_operator
+overcome anxiety achievement rice uranus vulcan
+0
+2
+0 13 3 2
+0 26 11 17
+1
+end_operator
+begin_operator
+overcome anxiety achievement rice vulcan jupiter
+0
+2
+0 13 1 3
+0 26 11 17
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics arugula earth uranus
+1
+5 0
+2
+0 17 2 0
+0 26 0 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics arugula uranus vulcan
+1
+5 0
+2
+0 17 3 2
+0 26 0 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics arugula vulcan jupiter
+1
+5 0
+2
+0 17 1 3
+0 26 0 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics baguette earth uranus
+1
+5 1
+2
+0 17 2 0
+0 26 1 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics baguette uranus vulcan
+1
+5 1
+2
+0 17 3 2
+0 26 1 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics baguette vulcan jupiter
+1
+5 1
+2
+0 17 1 3
+0 26 1 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics cantelope earth uranus
+1
+5 2
+2
+0 17 2 0
+0 26 2 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics cantelope uranus vulcan
+1
+5 2
+2
+0 17 3 2
+0 26 2 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics cantelope vulcan jupiter
+1
+5 2
+2
+0 17 1 3
+0 26 2 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics flounder earth uranus
+1
+5 3
+2
+0 17 2 0
+0 26 3 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics flounder uranus vulcan
+1
+5 3
+2
+0 17 3 2
+0 26 3 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics flounder vulcan jupiter
+1
+5 3
+2
+0 17 1 3
+0 26 3 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics hotdog earth uranus
+1
+5 4
+2
+0 17 2 0
+0 26 4 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics hotdog uranus vulcan
+1
+5 4
+2
+0 17 3 2
+0 26 4 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics hotdog vulcan jupiter
+1
+5 4
+2
+0 17 1 3
+0 26 4 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics lobster earth uranus
+1
+5 5
+2
+0 17 2 0
+0 26 5 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics lobster uranus vulcan
+1
+5 5
+2
+0 17 3 2
+0 26 5 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics lobster vulcan jupiter
+1
+5 5
+2
+0 17 1 3
+0 26 5 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics muffin earth uranus
+1
+5 6
+2
+0 17 2 0
+0 26 6 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics muffin uranus vulcan
+1
+5 6
+2
+0 17 3 2
+0 26 6 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics muffin vulcan jupiter
+1
+5 6
+2
+0 17 1 3
+0 26 6 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics okra earth uranus
+1
+5 7
+2
+0 17 2 0
+0 26 7 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics okra uranus vulcan
+1
+5 7
+2
+0 17 3 2
+0 26 7 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics okra vulcan jupiter
+1
+5 7
+2
+0 17 1 3
+0 26 7 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics pepper earth uranus
+1
+5 8
+2
+0 17 2 0
+0 26 8 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics pepper uranus vulcan
+1
+5 8
+2
+0 17 3 2
+0 26 8 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics pepper vulcan jupiter
+1
+5 8
+2
+0 17 1 3
+0 26 8 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics pistachio earth uranus
+1
+5 9
+2
+0 17 2 0
+0 26 9 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics pistachio uranus vulcan
+1
+5 9
+2
+0 17 3 2
+0 26 9 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics pistachio vulcan jupiter
+1
+5 9
+2
+0 17 1 3
+0 26 9 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics pork earth uranus
+1
+5 10
+2
+0 17 2 0
+0 26 10 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics pork uranus vulcan
+1
+5 10
+2
+0 17 3 2
+0 26 10 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics pork vulcan jupiter
+1
+5 10
+2
+0 17 1 3
+0 26 10 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics rice earth uranus
+1
+5 11
+2
+0 17 2 0
+0 26 11 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics rice uranus vulcan
+1
+5 11
+2
+0 17 3 2
+0 26 11 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics rice vulcan jupiter
+1
+5 11
+2
+0 17 1 3
+0 26 11 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics scallop earth uranus
+1
+5 12
+2
+0 17 2 0
+0 26 12 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics scallop uranus vulcan
+1
+5 12
+2
+0 17 3 2
+0 26 12 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics scallop vulcan jupiter
+1
+5 12
+2
+0 17 1 3
+0 26 12 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics tomato earth uranus
+1
+5 13
+2
+0 17 2 0
+0 26 13 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics tomato uranus vulcan
+1
+5 13
+2
+0 17 3 2
+0 26 13 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics tomato vulcan jupiter
+1
+5 13
+2
+0 17 1 3
+0 26 13 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics tuna earth uranus
+1
+5 14
+2
+0 17 2 0
+0 26 14 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics tuna uranus vulcan
+1
+5 14
+2
+0 17 3 2
+0 26 14 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics tuna vulcan jupiter
+1
+5 14
+2
+0 17 1 3
+0 26 14 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics turkey earth uranus
+1
+5 15
+2
+0 17 2 0
+0 26 15 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics turkey uranus vulcan
+1
+5 15
+2
+0 17 3 2
+0 26 15 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics turkey vulcan jupiter
+1
+5 15
+2
+0 17 1 3
+0 26 15 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics wonderbread earth uranus
+1
+5 16
+2
+0 17 2 0
+0 26 16 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics wonderbread uranus vulcan
+1
+5 16
+2
+0 17 3 2
+0 26 16 18
+1
+end_operator
+begin_operator
+overcome anxiety aesthetics wonderbread vulcan jupiter
+1
+5 16
+2
+0 17 1 3
+0 26 16 18
+1
+end_operator
+begin_operator
+overcome anxiety excitement arugula earth uranus
+1
+7 0
+2
+0 20 2 0
+0 26 0 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement arugula uranus vulcan
+1
+7 0
+2
+0 20 3 2
+0 26 0 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement arugula vulcan jupiter
+1
+7 0
+2
+0 20 1 3
+0 26 0 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement baguette earth uranus
+1
+7 1
+2
+0 20 2 0
+0 26 1 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement baguette uranus vulcan
+1
+7 1
+2
+0 20 3 2
+0 26 1 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement baguette vulcan jupiter
+1
+7 1
+2
+0 20 1 3
+0 26 1 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement cantelope earth uranus
+1
+7 2
+2
+0 20 2 0
+0 26 2 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement cantelope uranus vulcan
+1
+7 2
+2
+0 20 3 2
+0 26 2 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement cantelope vulcan jupiter
+1
+7 2
+2
+0 20 1 3
+0 26 2 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement flounder earth uranus
+1
+7 3
+2
+0 20 2 0
+0 26 3 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement flounder uranus vulcan
+1
+7 3
+2
+0 20 3 2
+0 26 3 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement flounder vulcan jupiter
+1
+7 3
+2
+0 20 1 3
+0 26 3 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement hotdog earth uranus
+1
+7 4
+2
+0 20 2 0
+0 26 4 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement hotdog uranus vulcan
+1
+7 4
+2
+0 20 3 2
+0 26 4 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement hotdog vulcan jupiter
+1
+7 4
+2
+0 20 1 3
+0 26 4 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement lobster earth uranus
+1
+7 5
+2
+0 20 2 0
+0 26 5 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement lobster uranus vulcan
+1
+7 5
+2
+0 20 3 2
+0 26 5 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement lobster vulcan jupiter
+1
+7 5
+2
+0 20 1 3
+0 26 5 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement muffin earth uranus
+1
+7 6
+2
+0 20 2 0
+0 26 6 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement muffin uranus vulcan
+1
+7 6
+2
+0 20 3 2
+0 26 6 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement muffin vulcan jupiter
+1
+7 6
+2
+0 20 1 3
+0 26 6 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement okra earth uranus
+1
+7 7
+2
+0 20 2 0
+0 26 7 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement okra uranus vulcan
+1
+7 7
+2
+0 20 3 2
+0 26 7 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement okra vulcan jupiter
+1
+7 7
+2
+0 20 1 3
+0 26 7 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement pepper earth uranus
+1
+7 8
+2
+0 20 2 0
+0 26 8 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement pepper uranus vulcan
+1
+7 8
+2
+0 20 3 2
+0 26 8 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement pepper vulcan jupiter
+1
+7 8
+2
+0 20 1 3
+0 26 8 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement pistachio earth uranus
+1
+7 9
+2
+0 20 2 0
+0 26 9 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement pistachio uranus vulcan
+1
+7 9
+2
+0 20 3 2
+0 26 9 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement pistachio vulcan jupiter
+1
+7 9
+2
+0 20 1 3
+0 26 9 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement pork earth uranus
+1
+7 10
+2
+0 20 2 0
+0 26 10 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement pork uranus vulcan
+1
+7 10
+2
+0 20 3 2
+0 26 10 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement pork vulcan jupiter
+1
+7 10
+2
+0 20 1 3
+0 26 10 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement rice earth uranus
+1
+7 11
+2
+0 20 2 0
+0 26 11 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement rice uranus vulcan
+1
+7 11
+2
+0 20 3 2
+0 26 11 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement rice vulcan jupiter
+1
+7 11
+2
+0 20 1 3
+0 26 11 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement scallop earth uranus
+1
+7 12
+2
+0 20 2 0
+0 26 12 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement scallop uranus vulcan
+1
+7 12
+2
+0 20 3 2
+0 26 12 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement scallop vulcan jupiter
+1
+7 12
+2
+0 20 1 3
+0 26 12 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement tomato earth uranus
+1
+7 13
+2
+0 20 2 0
+0 26 13 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement tomato uranus vulcan
+1
+7 13
+2
+0 20 3 2
+0 26 13 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement tomato vulcan jupiter
+1
+7 13
+2
+0 20 1 3
+0 26 13 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement tuna earth uranus
+1
+7 14
+2
+0 20 2 0
+0 26 14 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement tuna uranus vulcan
+1
+7 14
+2
+0 20 3 2
+0 26 14 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement tuna vulcan jupiter
+1
+7 14
+2
+0 20 1 3
+0 26 14 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement turkey earth uranus
+1
+7 15
+2
+0 20 2 0
+0 26 15 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement turkey uranus vulcan
+1
+7 15
+2
+0 20 3 2
+0 26 15 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement turkey vulcan jupiter
+1
+7 15
+2
+0 20 1 3
+0 26 15 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement wonderbread earth uranus
+1
+7 16
+2
+0 20 2 0
+0 26 16 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement wonderbread uranus vulcan
+1
+7 16
+2
+0 20 3 2
+0 26 16 19
+1
+end_operator
+begin_operator
+overcome anxiety excitement wonderbread vulcan jupiter
+1
+7 16
+2
+0 20 1 3
+0 26 16 19
+1
+end_operator
+begin_operator
+overcome anxiety learning arugula earth uranus
+1
+8 0
+2
+0 21 2 0
+0 26 0 20
+1
+end_operator
+begin_operator
+overcome anxiety learning arugula uranus vulcan
+1
+8 0
+2
+0 21 3 2
+0 26 0 20
+1
+end_operator
+begin_operator
+overcome anxiety learning arugula vulcan jupiter
+1
+8 0
+2
+0 21 1 3
+0 26 0 20
+1
+end_operator
+begin_operator
+overcome anxiety learning baguette earth uranus
+1
+8 1
+2
+0 21 2 0
+0 26 1 20
+1
+end_operator
+begin_operator
+overcome anxiety learning baguette uranus vulcan
+1
+8 1
+2
+0 21 3 2
+0 26 1 20
+1
+end_operator
+begin_operator
+overcome anxiety learning baguette vulcan jupiter
+1
+8 1
+2
+0 21 1 3
+0 26 1 20
+1
+end_operator
+begin_operator
+overcome anxiety learning cantelope earth uranus
+1
+8 2
+2
+0 21 2 0
+0 26 2 20
+1
+end_operator
+begin_operator
+overcome anxiety learning cantelope uranus vulcan
+1
+8 2
+2
+0 21 3 2
+0 26 2 20
+1
+end_operator
+begin_operator
+overcome anxiety learning cantelope vulcan jupiter
+1
+8 2
+2
+0 21 1 3
+0 26 2 20
+1
+end_operator
+begin_operator
+overcome anxiety learning flounder earth uranus
+1
+8 3
+2
+0 21 2 0
+0 26 3 20
+1
+end_operator
+begin_operator
+overcome anxiety learning flounder uranus vulcan
+1
+8 3
+2
+0 21 3 2
+0 26 3 20
+1
+end_operator
+begin_operator
+overcome anxiety learning flounder vulcan jupiter
+1
+8 3
+2
+0 21 1 3
+0 26 3 20
+1
+end_operator
+begin_operator
+overcome anxiety learning hotdog earth uranus
+1
+8 4
+2
+0 21 2 0
+0 26 4 20
+1
+end_operator
+begin_operator
+overcome anxiety learning hotdog uranus vulcan
+1
+8 4
+2
+0 21 3 2
+0 26 4 20
+1
+end_operator
+begin_operator
+overcome anxiety learning hotdog vulcan jupiter
+1
+8 4
+2
+0 21 1 3
+0 26 4 20
+1
+end_operator
+begin_operator
+overcome anxiety learning lobster earth uranus
+1
+8 5
+2
+0 21 2 0
+0 26 5 20
+1
+end_operator
+begin_operator
+overcome anxiety learning lobster uranus vulcan
+1
+8 5
+2
+0 21 3 2
+0 26 5 20
+1
+end_operator
+begin_operator
+overcome anxiety learning lobster vulcan jupiter
+1
+8 5
+2
+0 21 1 3
+0 26 5 20
+1
+end_operator
+begin_operator
+overcome anxiety learning muffin earth uranus
+1
+8 6
+2
+0 21 2 0
+0 26 6 20
+1
+end_operator
+begin_operator
+overcome anxiety learning muffin uranus vulcan
+1
+8 6
+2
+0 21 3 2
+0 26 6 20
+1
+end_operator
+begin_operator
+overcome anxiety learning muffin vulcan jupiter
+1
+8 6
+2
+0 21 1 3
+0 26 6 20
+1
+end_operator
+begin_operator
+overcome anxiety learning okra earth uranus
+1
+8 7
+2
+0 21 2 0
+0 26 7 20
+1
+end_operator
+begin_operator
+overcome anxiety learning okra uranus vulcan
+1
+8 7
+2
+0 21 3 2
+0 26 7 20
+1
+end_operator
+begin_operator
+overcome anxiety learning okra vulcan jupiter
+1
+8 7
+2
+0 21 1 3
+0 26 7 20
+1
+end_operator
+begin_operator
+overcome anxiety learning pepper earth uranus
+1
+8 8
+2
+0 21 2 0
+0 26 8 20
+1
+end_operator
+begin_operator
+overcome anxiety learning pepper uranus vulcan
+1
+8 8
+2
+0 21 3 2
+0 26 8 20
+1
+end_operator
+begin_operator
+overcome anxiety learning pepper vulcan jupiter
+1
+8 8
+2
+0 21 1 3
+0 26 8 20
+1
+end_operator
+begin_operator
+overcome anxiety learning pistachio earth uranus
+1
+8 9
+2
+0 21 2 0
+0 26 9 20
+1
+end_operator
+begin_operator
+overcome anxiety learning pistachio uranus vulcan
+1
+8 9
+2
+0 21 3 2
+0 26 9 20
+1
+end_operator
+begin_operator
+overcome anxiety learning pistachio vulcan jupiter
+1
+8 9
+2
+0 21 1 3
+0 26 9 20
+1
+end_operator
+begin_operator
+overcome anxiety learning pork earth uranus
+1
+8 10
+2
+0 21 2 0
+0 26 10 20
+1
+end_operator
+begin_operator
+overcome anxiety learning pork uranus vulcan
+1
+8 10
+2
+0 21 3 2
+0 26 10 20
+1
+end_operator
+begin_operator
+overcome anxiety learning pork vulcan jupiter
+1
+8 10
+2
+0 21 1 3
+0 26 10 20
+1
+end_operator
+begin_operator
+overcome anxiety learning rice earth uranus
+1
+8 11
+2
+0 21 2 0
+0 26 11 20
+1
+end_operator
+begin_operator
+overcome anxiety learning rice uranus vulcan
+1
+8 11
+2
+0 21 3 2
+0 26 11 20
+1
+end_operator
+begin_operator
+overcome anxiety learning rice vulcan jupiter
+1
+8 11
+2
+0 21 1 3
+0 26 11 20
+1
+end_operator
+begin_operator
+overcome anxiety learning scallop earth uranus
+1
+8 12
+2
+0 21 2 0
+0 26 12 20
+1
+end_operator
+begin_operator
+overcome anxiety learning scallop uranus vulcan
+1
+8 12
+2
+0 21 3 2
+0 26 12 20
+1
+end_operator
+begin_operator
+overcome anxiety learning scallop vulcan jupiter
+1
+8 12
+2
+0 21 1 3
+0 26 12 20
+1
+end_operator
+begin_operator
+overcome anxiety learning tomato earth uranus
+1
+8 13
+2
+0 21 2 0
+0 26 13 20
+1
+end_operator
+begin_operator
+overcome anxiety learning tomato uranus vulcan
+1
+8 13
+2
+0 21 3 2
+0 26 13 20
+1
+end_operator
+begin_operator
+overcome anxiety learning tomato vulcan jupiter
+1
+8 13
+2
+0 21 1 3
+0 26 13 20
+1
+end_operator
+begin_operator
+overcome anxiety learning tuna earth uranus
+1
+8 14
+2
+0 21 2 0
+0 26 14 20
+1
+end_operator
+begin_operator
+overcome anxiety learning tuna uranus vulcan
+1
+8 14
+2
+0 21 3 2
+0 26 14 20
+1
+end_operator
+begin_operator
+overcome anxiety learning tuna vulcan jupiter
+1
+8 14
+2
+0 21 1 3
+0 26 14 20
+1
+end_operator
+begin_operator
+overcome anxiety learning turkey earth uranus
+1
+8 15
+2
+0 21 2 0
+0 26 15 20
+1
+end_operator
+begin_operator
+overcome anxiety learning turkey uranus vulcan
+1
+8 15
+2
+0 21 3 2
+0 26 15 20
+1
+end_operator
+begin_operator
+overcome anxiety learning turkey vulcan jupiter
+1
+8 15
+2
+0 21 1 3
+0 26 15 20
+1
+end_operator
+begin_operator
+overcome anxiety learning wonderbread earth uranus
+1
+8 16
+2
+0 21 2 0
+0 26 16 20
+1
+end_operator
+begin_operator
+overcome anxiety learning wonderbread uranus vulcan
+1
+8 16
+2
+0 21 3 2
+0 26 16 20
+1
+end_operator
+begin_operator
+overcome anxiety learning wonderbread vulcan jupiter
+1
+8 16
+2
+0 21 1 3
+0 26 16 20
+1
+end_operator
+begin_operator
+overcome anxiety love arugula earth uranus
+1
+10 0
+2
+0 24 2 0
+0 26 0 21
+1
+end_operator
+begin_operator
+overcome anxiety love arugula uranus vulcan
+1
+10 0
+2
+0 24 3 2
+0 26 0 21
+1
+end_operator
+begin_operator
+overcome anxiety love arugula vulcan jupiter
+1
+10 0
+2
+0 24 1 3
+0 26 0 21
+1
+end_operator
+begin_operator
+overcome anxiety love baguette earth uranus
+1
+10 1
+2
+0 24 2 0
+0 26 1 21
+1
+end_operator
+begin_operator
+overcome anxiety love baguette uranus vulcan
+1
+10 1
+2
+0 24 3 2
+0 26 1 21
+1
+end_operator
+begin_operator
+overcome anxiety love baguette vulcan jupiter
+1
+10 1
+2
+0 24 1 3
+0 26 1 21
+1
+end_operator
+begin_operator
+overcome anxiety love cantelope earth uranus
+1
+10 2
+2
+0 24 2 0
+0 26 2 21
+1
+end_operator
+begin_operator
+overcome anxiety love cantelope uranus vulcan
+1
+10 2
+2
+0 24 3 2
+0 26 2 21
+1
+end_operator
+begin_operator
+overcome anxiety love cantelope vulcan jupiter
+1
+10 2
+2
+0 24 1 3
+0 26 2 21
+1
+end_operator
+begin_operator
+overcome anxiety love flounder earth uranus
+1
+10 3
+2
+0 24 2 0
+0 26 3 21
+1
+end_operator
+begin_operator
+overcome anxiety love flounder uranus vulcan
+1
+10 3
+2
+0 24 3 2
+0 26 3 21
+1
+end_operator
+begin_operator
+overcome anxiety love flounder vulcan jupiter
+1
+10 3
+2
+0 24 1 3
+0 26 3 21
+1
+end_operator
+begin_operator
+overcome anxiety love hotdog earth uranus
+1
+10 4
+2
+0 24 2 0
+0 26 4 21
+1
+end_operator
+begin_operator
+overcome anxiety love hotdog uranus vulcan
+1
+10 4
+2
+0 24 3 2
+0 26 4 21
+1
+end_operator
+begin_operator
+overcome anxiety love hotdog vulcan jupiter
+1
+10 4
+2
+0 24 1 3
+0 26 4 21
+1
+end_operator
+begin_operator
+overcome anxiety love lobster earth uranus
+1
+10 5
+2
+0 24 2 0
+0 26 5 21
+1
+end_operator
+begin_operator
+overcome anxiety love lobster uranus vulcan
+1
+10 5
+2
+0 24 3 2
+0 26 5 21
+1
+end_operator
+begin_operator
+overcome anxiety love lobster vulcan jupiter
+1
+10 5
+2
+0 24 1 3
+0 26 5 21
+1
+end_operator
+begin_operator
+overcome anxiety love muffin earth uranus
+1
+10 6
+2
+0 24 2 0
+0 26 6 21
+1
+end_operator
+begin_operator
+overcome anxiety love muffin uranus vulcan
+1
+10 6
+2
+0 24 3 2
+0 26 6 21
+1
+end_operator
+begin_operator
+overcome anxiety love muffin vulcan jupiter
+1
+10 6
+2
+0 24 1 3
+0 26 6 21
+1
+end_operator
+begin_operator
+overcome anxiety love okra earth uranus
+1
+10 7
+2
+0 24 2 0
+0 26 7 21
+1
+end_operator
+begin_operator
+overcome anxiety love okra uranus vulcan
+1
+10 7
+2
+0 24 3 2
+0 26 7 21
+1
+end_operator
+begin_operator
+overcome anxiety love okra vulcan jupiter
+1
+10 7
+2
+0 24 1 3
+0 26 7 21
+1
+end_operator
+begin_operator
+overcome anxiety love pepper earth uranus
+1
+10 8
+2
+0 24 2 0
+0 26 8 21
+1
+end_operator
+begin_operator
+overcome anxiety love pepper uranus vulcan
+1
+10 8
+2
+0 24 3 2
+0 26 8 21
+1
+end_operator
+begin_operator
+overcome anxiety love pepper vulcan jupiter
+1
+10 8
+2
+0 24 1 3
+0 26 8 21
+1
+end_operator
+begin_operator
+overcome anxiety love pistachio earth uranus
+1
+10 9
+2
+0 24 2 0
+0 26 9 21
+1
+end_operator
+begin_operator
+overcome anxiety love pistachio uranus vulcan
+1
+10 9
+2
+0 24 3 2
+0 26 9 21
+1
+end_operator
+begin_operator
+overcome anxiety love pistachio vulcan jupiter
+1
+10 9
+2
+0 24 1 3
+0 26 9 21
+1
+end_operator
+begin_operator
+overcome anxiety love pork earth uranus
+1
+10 10
+2
+0 24 2 0
+0 26 10 21
+1
+end_operator
+begin_operator
+overcome anxiety love pork uranus vulcan
+1
+10 10
+2
+0 24 3 2
+0 26 10 21
+1
+end_operator
+begin_operator
+overcome anxiety love pork vulcan jupiter
+1
+10 10
+2
+0 24 1 3
+0 26 10 21
+1
+end_operator
+begin_operator
+overcome anxiety love rice earth uranus
+1
+10 11
+2
+0 24 2 0
+0 26 11 21
+1
+end_operator
+begin_operator
+overcome anxiety love rice uranus vulcan
+1
+10 11
+2
+0 24 3 2
+0 26 11 21
+1
+end_operator
+begin_operator
+overcome anxiety love rice vulcan jupiter
+1
+10 11
+2
+0 24 1 3
+0 26 11 21
+1
+end_operator
+begin_operator
+overcome anxiety love scallop earth uranus
+1
+10 12
+2
+0 24 2 0
+0 26 12 21
+1
+end_operator
+begin_operator
+overcome anxiety love scallop uranus vulcan
+1
+10 12
+2
+0 24 3 2
+0 26 12 21
+1
+end_operator
+begin_operator
+overcome anxiety love scallop vulcan jupiter
+1
+10 12
+2
+0 24 1 3
+0 26 12 21
+1
+end_operator
+begin_operator
+overcome anxiety love tomato earth uranus
+1
+10 13
+2
+0 24 2 0
+0 26 13 21
+1
+end_operator
+begin_operator
+overcome anxiety love tomato uranus vulcan
+1
+10 13
+2
+0 24 3 2
+0 26 13 21
+1
+end_operator
+begin_operator
+overcome anxiety love tomato vulcan jupiter
+1
+10 13
+2
+0 24 1 3
+0 26 13 21
+1
+end_operator
+begin_operator
+overcome anxiety love tuna earth uranus
+1
+10 14
+2
+0 24 2 0
+0 26 14 21
+1
+end_operator
+begin_operator
+overcome anxiety love tuna uranus vulcan
+1
+10 14
+2
+0 24 3 2
+0 26 14 21
+1
+end_operator
+begin_operator
+overcome anxiety love tuna vulcan jupiter
+1
+10 14
+2
+0 24 1 3
+0 26 14 21
+1
+end_operator
+begin_operator
+overcome anxiety love turkey earth uranus
+1
+10 15
+2
+0 24 2 0
+0 26 15 21
+1
+end_operator
+begin_operator
+overcome anxiety love turkey uranus vulcan
+1
+10 15
+2
+0 24 3 2
+0 26 15 21
+1
+end_operator
+begin_operator
+overcome anxiety love turkey vulcan jupiter
+1
+10 15
+2
+0 24 1 3
+0 26 15 21
+1
+end_operator
+begin_operator
+overcome anxiety love wonderbread earth uranus
+1
+10 16
+2
+0 24 2 0
+0 26 16 21
+1
+end_operator
+begin_operator
+overcome anxiety love wonderbread uranus vulcan
+1
+10 16
+2
+0 24 3 2
+0 26 16 21
+1
+end_operator
+begin_operator
+overcome anxiety love wonderbread vulcan jupiter
+1
+10 16
+2
+0 24 1 3
+0 26 16 21
+1
+end_operator
+begin_operator
+overcome anxiety lubricity arugula earth uranus
+0
+2
+0 14 2 0
+0 26 0 22
+1
+end_operator
+begin_operator
+overcome anxiety lubricity arugula uranus vulcan
+0
+2
+0 14 3 2
+0 26 0 22
+1
+end_operator
+begin_operator
+overcome anxiety lubricity arugula vulcan jupiter
+0
+2
+0 14 1 3
+0 26 0 22
+1
+end_operator
+begin_operator
+overcome anxiety rest arugula earth uranus
+1
+11 0
+2
+0 25 2 0
+0 26 0 23
+1
+end_operator
+begin_operator
+overcome anxiety rest arugula uranus vulcan
+1
+11 0
+2
+0 25 3 2
+0 26 0 23
+1
+end_operator
+begin_operator
+overcome anxiety rest arugula vulcan jupiter
+1
+11 0
+2
+0 25 1 3
+0 26 0 23
+1
+end_operator
+begin_operator
+overcome anxiety rest baguette earth uranus
+1
+11 1
+2
+0 25 2 0
+0 26 1 23
+1
+end_operator
+begin_operator
+overcome anxiety rest baguette uranus vulcan
+1
+11 1
+2
+0 25 3 2
+0 26 1 23
+1
+end_operator
+begin_operator
+overcome anxiety rest baguette vulcan jupiter
+1
+11 1
+2
+0 25 1 3
+0 26 1 23
+1
+end_operator
+begin_operator
+overcome anxiety rest cantelope earth uranus
+1
+11 2
+2
+0 25 2 0
+0 26 2 23
+1
+end_operator
+begin_operator
+overcome anxiety rest cantelope uranus vulcan
+1
+11 2
+2
+0 25 3 2
+0 26 2 23
+1
+end_operator
+begin_operator
+overcome anxiety rest cantelope vulcan jupiter
+1
+11 2
+2
+0 25 1 3
+0 26 2 23
+1
+end_operator
+begin_operator
+overcome anxiety rest flounder earth uranus
+1
+11 3
+2
+0 25 2 0
+0 26 3 23
+1
+end_operator
+begin_operator
+overcome anxiety rest flounder uranus vulcan
+1
+11 3
+2
+0 25 3 2
+0 26 3 23
+1
+end_operator
+begin_operator
+overcome anxiety rest flounder vulcan jupiter
+1
+11 3
+2
+0 25 1 3
+0 26 3 23
+1
+end_operator
+begin_operator
+overcome anxiety rest hotdog earth uranus
+1
+11 4
+2
+0 25 2 0
+0 26 4 23
+1
+end_operator
+begin_operator
+overcome anxiety rest hotdog uranus vulcan
+1
+11 4
+2
+0 25 3 2
+0 26 4 23
+1
+end_operator
+begin_operator
+overcome anxiety rest hotdog vulcan jupiter
+1
+11 4
+2
+0 25 1 3
+0 26 4 23
+1
+end_operator
+begin_operator
+overcome anxiety rest lobster earth uranus
+1
+11 5
+2
+0 25 2 0
+0 26 5 23
+1
+end_operator
+begin_operator
+overcome anxiety rest lobster uranus vulcan
+1
+11 5
+2
+0 25 3 2
+0 26 5 23
+1
+end_operator
+begin_operator
+overcome anxiety rest lobster vulcan jupiter
+1
+11 5
+2
+0 25 1 3
+0 26 5 23
+1
+end_operator
+begin_operator
+overcome anxiety rest muffin earth uranus
+1
+11 6
+2
+0 25 2 0
+0 26 6 23
+1
+end_operator
+begin_operator
+overcome anxiety rest muffin uranus vulcan
+1
+11 6
+2
+0 25 3 2
+0 26 6 23
+1
+end_operator
+begin_operator
+overcome anxiety rest muffin vulcan jupiter
+1
+11 6
+2
+0 25 1 3
+0 26 6 23
+1
+end_operator
+begin_operator
+overcome anxiety rest okra earth uranus
+1
+11 7
+2
+0 25 2 0
+0 26 7 23
+1
+end_operator
+begin_operator
+overcome anxiety rest okra uranus vulcan
+1
+11 7
+2
+0 25 3 2
+0 26 7 23
+1
+end_operator
+begin_operator
+overcome anxiety rest okra vulcan jupiter
+1
+11 7
+2
+0 25 1 3
+0 26 7 23
+1
+end_operator
+begin_operator
+overcome anxiety rest pepper earth uranus
+1
+11 8
+2
+0 25 2 0
+0 26 8 23
+1
+end_operator
+begin_operator
+overcome anxiety rest pepper uranus vulcan
+1
+11 8
+2
+0 25 3 2
+0 26 8 23
+1
+end_operator
+begin_operator
+overcome anxiety rest pepper vulcan jupiter
+1
+11 8
+2
+0 25 1 3
+0 26 8 23
+1
+end_operator
+begin_operator
+overcome anxiety rest pistachio earth uranus
+1
+11 9
+2
+0 25 2 0
+0 26 9 23
+1
+end_operator
+begin_operator
+overcome anxiety rest pistachio uranus vulcan
+1
+11 9
+2
+0 25 3 2
+0 26 9 23
+1
+end_operator
+begin_operator
+overcome anxiety rest pistachio vulcan jupiter
+1
+11 9
+2
+0 25 1 3
+0 26 9 23
+1
+end_operator
+begin_operator
+overcome anxiety rest pork earth uranus
+1
+11 10
+2
+0 25 2 0
+0 26 10 23
+1
+end_operator
+begin_operator
+overcome anxiety rest pork uranus vulcan
+1
+11 10
+2
+0 25 3 2
+0 26 10 23
+1
+end_operator
+begin_operator
+overcome anxiety rest pork vulcan jupiter
+1
+11 10
+2
+0 25 1 3
+0 26 10 23
+1
+end_operator
+begin_operator
+overcome anxiety rest rice earth uranus
+1
+11 11
+2
+0 25 2 0
+0 26 11 23
+1
+end_operator
+begin_operator
+overcome anxiety rest rice uranus vulcan
+1
+11 11
+2
+0 25 3 2
+0 26 11 23
+1
+end_operator
+begin_operator
+overcome anxiety rest rice vulcan jupiter
+1
+11 11
+2
+0 25 1 3
+0 26 11 23
+1
+end_operator
+begin_operator
+overcome anxiety rest scallop earth uranus
+1
+11 12
+2
+0 25 2 0
+0 26 12 23
+1
+end_operator
+begin_operator
+overcome anxiety rest scallop uranus vulcan
+1
+11 12
+2
+0 25 3 2
+0 26 12 23
+1
+end_operator
+begin_operator
+overcome anxiety rest scallop vulcan jupiter
+1
+11 12
+2
+0 25 1 3
+0 26 12 23
+1
+end_operator
+begin_operator
+overcome anxiety rest tomato earth uranus
+1
+11 13
+2
+0 25 2 0
+0 26 13 23
+1
+end_operator
+begin_operator
+overcome anxiety rest tomato uranus vulcan
+1
+11 13
+2
+0 25 3 2
+0 26 13 23
+1
+end_operator
+begin_operator
+overcome anxiety rest tomato vulcan jupiter
+1
+11 13
+2
+0 25 1 3
+0 26 13 23
+1
+end_operator
+begin_operator
+overcome anxiety rest tuna earth uranus
+1
+11 14
+2
+0 25 2 0
+0 26 14 23
+1
+end_operator
+begin_operator
+overcome anxiety rest tuna uranus vulcan
+1
+11 14
+2
+0 25 3 2
+0 26 14 23
+1
+end_operator
+begin_operator
+overcome anxiety rest tuna vulcan jupiter
+1
+11 14
+2
+0 25 1 3
+0 26 14 23
+1
+end_operator
+begin_operator
+overcome anxiety rest turkey earth uranus
+1
+11 15
+2
+0 25 2 0
+0 26 15 23
+1
+end_operator
+begin_operator
+overcome anxiety rest turkey uranus vulcan
+1
+11 15
+2
+0 25 3 2
+0 26 15 23
+1
+end_operator
+begin_operator
+overcome anxiety rest turkey vulcan jupiter
+1
+11 15
+2
+0 25 1 3
+0 26 15 23
+1
+end_operator
+begin_operator
+overcome anxiety rest wonderbread earth uranus
+1
+11 16
+2
+0 25 2 0
+0 26 16 23
+1
+end_operator
+begin_operator
+overcome anxiety rest wonderbread uranus vulcan
+1
+11 16
+2
+0 25 3 2
+0 26 16 23
+1
+end_operator
+begin_operator
+overcome anxiety rest wonderbread vulcan jupiter
+1
+11 16
+2
+0 25 1 3
+0 26 16 23
+1
+end_operator
+begin_operator
+overcome anxiety stimulation muffin earth uranus
+0
+2
+0 15 2 0
+0 26 6 24
+1
+end_operator
+begin_operator
+overcome anxiety stimulation muffin uranus vulcan
+0
+2
+0 15 3 2
+0 26 6 24
+1
+end_operator
+begin_operator
+overcome anxiety stimulation muffin vulcan jupiter
+0
+2
+0 15 1 3
+0 26 6 24
+1
+end_operator
+begin_operator
+overcome anxiety triumph hotdog earth uranus
+0
+2
+0 16 2 0
+0 26 4 25
+1
+end_operator
+begin_operator
+overcome anxiety triumph hotdog uranus vulcan
+0
+2
+0 16 3 2
+0 26 4 25
+1
+end_operator
+begin_operator
+overcome anxiety triumph hotdog vulcan jupiter
+0
+2
+0 16 1 3
+0 26 4 25
+1
+end_operator
+begin_operator
+overcome hangover achievement rice earth uranus
+0
+2
+0 13 2 0
+0 22 11 17
+1
+end_operator
+begin_operator
+overcome hangover achievement rice uranus vulcan
+0
+2
+0 13 3 2
+0 22 11 17
+1
+end_operator
+begin_operator
+overcome hangover achievement rice vulcan jupiter
+0
+2
+0 13 1 3
+0 22 11 17
+1
+end_operator
+begin_operator
+overcome hangover aesthetics arugula earth uranus
+1
+5 0
+2
+0 17 2 0
+0 22 0 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics arugula uranus vulcan
+1
+5 0
+2
+0 17 3 2
+0 22 0 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics arugula vulcan jupiter
+1
+5 0
+2
+0 17 1 3
+0 22 0 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics baguette earth uranus
+1
+5 1
+2
+0 17 2 0
+0 22 1 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics baguette uranus vulcan
+1
+5 1
+2
+0 17 3 2
+0 22 1 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics baguette vulcan jupiter
+1
+5 1
+2
+0 17 1 3
+0 22 1 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics cantelope earth uranus
+1
+5 2
+2
+0 17 2 0
+0 22 2 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics cantelope uranus vulcan
+1
+5 2
+2
+0 17 3 2
+0 22 2 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics cantelope vulcan jupiter
+1
+5 2
+2
+0 17 1 3
+0 22 2 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics flounder earth uranus
+1
+5 3
+2
+0 17 2 0
+0 22 3 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics flounder uranus vulcan
+1
+5 3
+2
+0 17 3 2
+0 22 3 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics flounder vulcan jupiter
+1
+5 3
+2
+0 17 1 3
+0 22 3 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics hotdog earth uranus
+1
+5 4
+2
+0 17 2 0
+0 22 4 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics hotdog uranus vulcan
+1
+5 4
+2
+0 17 3 2
+0 22 4 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics hotdog vulcan jupiter
+1
+5 4
+2
+0 17 1 3
+0 22 4 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics lobster earth uranus
+1
+5 5
+2
+0 17 2 0
+0 22 5 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics lobster uranus vulcan
+1
+5 5
+2
+0 17 3 2
+0 22 5 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics lobster vulcan jupiter
+1
+5 5
+2
+0 17 1 3
+0 22 5 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics muffin earth uranus
+1
+5 6
+2
+0 17 2 0
+0 22 6 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics muffin uranus vulcan
+1
+5 6
+2
+0 17 3 2
+0 22 6 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics muffin vulcan jupiter
+1
+5 6
+2
+0 17 1 3
+0 22 6 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics okra earth uranus
+1
+5 7
+2
+0 17 2 0
+0 22 7 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics okra uranus vulcan
+1
+5 7
+2
+0 17 3 2
+0 22 7 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics okra vulcan jupiter
+1
+5 7
+2
+0 17 1 3
+0 22 7 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics pepper earth uranus
+1
+5 8
+2
+0 17 2 0
+0 22 8 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics pepper uranus vulcan
+1
+5 8
+2
+0 17 3 2
+0 22 8 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics pepper vulcan jupiter
+1
+5 8
+2
+0 17 1 3
+0 22 8 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics pistachio earth uranus
+1
+5 9
+2
+0 17 2 0
+0 22 9 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics pistachio uranus vulcan
+1
+5 9
+2
+0 17 3 2
+0 22 9 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics pistachio vulcan jupiter
+1
+5 9
+2
+0 17 1 3
+0 22 9 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics pork earth uranus
+1
+5 10
+2
+0 17 2 0
+0 22 10 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics pork uranus vulcan
+1
+5 10
+2
+0 17 3 2
+0 22 10 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics pork vulcan jupiter
+1
+5 10
+2
+0 17 1 3
+0 22 10 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics rice earth uranus
+1
+5 11
+2
+0 17 2 0
+0 22 11 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics rice uranus vulcan
+1
+5 11
+2
+0 17 3 2
+0 22 11 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics rice vulcan jupiter
+1
+5 11
+2
+0 17 1 3
+0 22 11 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics scallop earth uranus
+1
+5 12
+2
+0 17 2 0
+0 22 12 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics scallop uranus vulcan
+1
+5 12
+2
+0 17 3 2
+0 22 12 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics scallop vulcan jupiter
+1
+5 12
+2
+0 17 1 3
+0 22 12 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics tomato earth uranus
+1
+5 13
+2
+0 17 2 0
+0 22 13 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics tomato uranus vulcan
+1
+5 13
+2
+0 17 3 2
+0 22 13 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics tomato vulcan jupiter
+1
+5 13
+2
+0 17 1 3
+0 22 13 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics tuna earth uranus
+1
+5 14
+2
+0 17 2 0
+0 22 14 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics tuna uranus vulcan
+1
+5 14
+2
+0 17 3 2
+0 22 14 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics tuna vulcan jupiter
+1
+5 14
+2
+0 17 1 3
+0 22 14 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics turkey earth uranus
+1
+5 15
+2
+0 17 2 0
+0 22 15 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics turkey uranus vulcan
+1
+5 15
+2
+0 17 3 2
+0 22 15 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics turkey vulcan jupiter
+1
+5 15
+2
+0 17 1 3
+0 22 15 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics wonderbread earth uranus
+1
+5 16
+2
+0 17 2 0
+0 22 16 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics wonderbread uranus vulcan
+1
+5 16
+2
+0 17 3 2
+0 22 16 18
+1
+end_operator
+begin_operator
+overcome hangover aesthetics wonderbread vulcan jupiter
+1
+5 16
+2
+0 17 1 3
+0 22 16 18
+1
+end_operator
+begin_operator
+overcome hangover excitement arugula earth uranus
+1
+7 0
+2
+0 20 2 0
+0 22 0 19
+1
+end_operator
+begin_operator
+overcome hangover excitement arugula uranus vulcan
+1
+7 0
+2
+0 20 3 2
+0 22 0 19
+1
+end_operator
+begin_operator
+overcome hangover excitement arugula vulcan jupiter
+1
+7 0
+2
+0 20 1 3
+0 22 0 19
+1
+end_operator
+begin_operator
+overcome hangover excitement baguette earth uranus
+1
+7 1
+2
+0 20 2 0
+0 22 1 19
+1
+end_operator
+begin_operator
+overcome hangover excitement baguette uranus vulcan
+1
+7 1
+2
+0 20 3 2
+0 22 1 19
+1
+end_operator
+begin_operator
+overcome hangover excitement baguette vulcan jupiter
+1
+7 1
+2
+0 20 1 3
+0 22 1 19
+1
+end_operator
+begin_operator
+overcome hangover excitement cantelope earth uranus
+1
+7 2
+2
+0 20 2 0
+0 22 2 19
+1
+end_operator
+begin_operator
+overcome hangover excitement cantelope uranus vulcan
+1
+7 2
+2
+0 20 3 2
+0 22 2 19
+1
+end_operator
+begin_operator
+overcome hangover excitement cantelope vulcan jupiter
+1
+7 2
+2
+0 20 1 3
+0 22 2 19
+1
+end_operator
+begin_operator
+overcome hangover excitement flounder earth uranus
+1
+7 3
+2
+0 20 2 0
+0 22 3 19
+1
+end_operator
+begin_operator
+overcome hangover excitement flounder uranus vulcan
+1
+7 3
+2
+0 20 3 2
+0 22 3 19
+1
+end_operator
+begin_operator
+overcome hangover excitement flounder vulcan jupiter
+1
+7 3
+2
+0 20 1 3
+0 22 3 19
+1
+end_operator
+begin_operator
+overcome hangover excitement hotdog earth uranus
+1
+7 4
+2
+0 20 2 0
+0 22 4 19
+1
+end_operator
+begin_operator
+overcome hangover excitement hotdog uranus vulcan
+1
+7 4
+2
+0 20 3 2
+0 22 4 19
+1
+end_operator
+begin_operator
+overcome hangover excitement hotdog vulcan jupiter
+1
+7 4
+2
+0 20 1 3
+0 22 4 19
+1
+end_operator
+begin_operator
+overcome hangover excitement lobster earth uranus
+1
+7 5
+2
+0 20 2 0
+0 22 5 19
+1
+end_operator
+begin_operator
+overcome hangover excitement lobster uranus vulcan
+1
+7 5
+2
+0 20 3 2
+0 22 5 19
+1
+end_operator
+begin_operator
+overcome hangover excitement lobster vulcan jupiter
+1
+7 5
+2
+0 20 1 3
+0 22 5 19
+1
+end_operator
+begin_operator
+overcome hangover excitement muffin earth uranus
+1
+7 6
+2
+0 20 2 0
+0 22 6 19
+1
+end_operator
+begin_operator
+overcome hangover excitement muffin uranus vulcan
+1
+7 6
+2
+0 20 3 2
+0 22 6 19
+1
+end_operator
+begin_operator
+overcome hangover excitement muffin vulcan jupiter
+1
+7 6
+2
+0 20 1 3
+0 22 6 19
+1
+end_operator
+begin_operator
+overcome hangover excitement okra earth uranus
+1
+7 7
+2
+0 20 2 0
+0 22 7 19
+1
+end_operator
+begin_operator
+overcome hangover excitement okra uranus vulcan
+1
+7 7
+2
+0 20 3 2
+0 22 7 19
+1
+end_operator
+begin_operator
+overcome hangover excitement okra vulcan jupiter
+1
+7 7
+2
+0 20 1 3
+0 22 7 19
+1
+end_operator
+begin_operator
+overcome hangover excitement pepper earth uranus
+1
+7 8
+2
+0 20 2 0
+0 22 8 19
+1
+end_operator
+begin_operator
+overcome hangover excitement pepper uranus vulcan
+1
+7 8
+2
+0 20 3 2
+0 22 8 19
+1
+end_operator
+begin_operator
+overcome hangover excitement pepper vulcan jupiter
+1
+7 8
+2
+0 20 1 3
+0 22 8 19
+1
+end_operator
+begin_operator
+overcome hangover excitement pistachio earth uranus
+1
+7 9
+2
+0 20 2 0
+0 22 9 19
+1
+end_operator
+begin_operator
+overcome hangover excitement pistachio uranus vulcan
+1
+7 9
+2
+0 20 3 2
+0 22 9 19
+1
+end_operator
+begin_operator
+overcome hangover excitement pistachio vulcan jupiter
+1
+7 9
+2
+0 20 1 3
+0 22 9 19
+1
+end_operator
+begin_operator
+overcome hangover excitement pork earth uranus
+1
+7 10
+2
+0 20 2 0
+0 22 10 19
+1
+end_operator
+begin_operator
+overcome hangover excitement pork uranus vulcan
+1
+7 10
+2
+0 20 3 2
+0 22 10 19
+1
+end_operator
+begin_operator
+overcome hangover excitement pork vulcan jupiter
+1
+7 10
+2
+0 20 1 3
+0 22 10 19
+1
+end_operator
+begin_operator
+overcome hangover excitement rice earth uranus
+1
+7 11
+2
+0 20 2 0
+0 22 11 19
+1
+end_operator
+begin_operator
+overcome hangover excitement rice uranus vulcan
+1
+7 11
+2
+0 20 3 2
+0 22 11 19
+1
+end_operator
+begin_operator
+overcome hangover excitement rice vulcan jupiter
+1
+7 11
+2
+0 20 1 3
+0 22 11 19
+1
+end_operator
+begin_operator
+overcome hangover excitement scallop earth uranus
+1
+7 12
+2
+0 20 2 0
+0 22 12 19
+1
+end_operator
+begin_operator
+overcome hangover excitement scallop uranus vulcan
+1
+7 12
+2
+0 20 3 2
+0 22 12 19
+1
+end_operator
+begin_operator
+overcome hangover excitement scallop vulcan jupiter
+1
+7 12
+2
+0 20 1 3
+0 22 12 19
+1
+end_operator
+begin_operator
+overcome hangover excitement tomato earth uranus
+1
+7 13
+2
+0 20 2 0
+0 22 13 19
+1
+end_operator
+begin_operator
+overcome hangover excitement tomato uranus vulcan
+1
+7 13
+2
+0 20 3 2
+0 22 13 19
+1
+end_operator
+begin_operator
+overcome hangover excitement tomato vulcan jupiter
+1
+7 13
+2
+0 20 1 3
+0 22 13 19
+1
+end_operator
+begin_operator
+overcome hangover excitement tuna earth uranus
+1
+7 14
+2
+0 20 2 0
+0 22 14 19
+1
+end_operator
+begin_operator
+overcome hangover excitement tuna uranus vulcan
+1
+7 14
+2
+0 20 3 2
+0 22 14 19
+1
+end_operator
+begin_operator
+overcome hangover excitement tuna vulcan jupiter
+1
+7 14
+2
+0 20 1 3
+0 22 14 19
+1
+end_operator
+begin_operator
+overcome hangover excitement turkey earth uranus
+1
+7 15
+2
+0 20 2 0
+0 22 15 19
+1
+end_operator
+begin_operator
+overcome hangover excitement turkey uranus vulcan
+1
+7 15
+2
+0 20 3 2
+0 22 15 19
+1
+end_operator
+begin_operator
+overcome hangover excitement turkey vulcan jupiter
+1
+7 15
+2
+0 20 1 3
+0 22 15 19
+1
+end_operator
+begin_operator
+overcome hangover excitement wonderbread earth uranus
+1
+7 16
+2
+0 20 2 0
+0 22 16 19
+1
+end_operator
+begin_operator
+overcome hangover excitement wonderbread uranus vulcan
+1
+7 16
+2
+0 20 3 2
+0 22 16 19
+1
+end_operator
+begin_operator
+overcome hangover excitement wonderbread vulcan jupiter
+1
+7 16
+2
+0 20 1 3
+0 22 16 19
+1
+end_operator
+begin_operator
+overcome hangover learning arugula earth uranus
+1
+8 0
+2
+0 21 2 0
+0 22 0 20
+1
+end_operator
+begin_operator
+overcome hangover learning arugula uranus vulcan
+1
+8 0
+2
+0 21 3 2
+0 22 0 20
+1
+end_operator
+begin_operator
+overcome hangover learning arugula vulcan jupiter
+1
+8 0
+2
+0 21 1 3
+0 22 0 20
+1
+end_operator
+begin_operator
+overcome hangover learning baguette earth uranus
+1
+8 1
+2
+0 21 2 0
+0 22 1 20
+1
+end_operator
+begin_operator
+overcome hangover learning baguette uranus vulcan
+1
+8 1
+2
+0 21 3 2
+0 22 1 20
+1
+end_operator
+begin_operator
+overcome hangover learning baguette vulcan jupiter
+1
+8 1
+2
+0 21 1 3
+0 22 1 20
+1
+end_operator
+begin_operator
+overcome hangover learning cantelope earth uranus
+1
+8 2
+2
+0 21 2 0
+0 22 2 20
+1
+end_operator
+begin_operator
+overcome hangover learning cantelope uranus vulcan
+1
+8 2
+2
+0 21 3 2
+0 22 2 20
+1
+end_operator
+begin_operator
+overcome hangover learning cantelope vulcan jupiter
+1
+8 2
+2
+0 21 1 3
+0 22 2 20
+1
+end_operator
+begin_operator
+overcome hangover learning flounder earth uranus
+1
+8 3
+2
+0 21 2 0
+0 22 3 20
+1
+end_operator
+begin_operator
+overcome hangover learning flounder uranus vulcan
+1
+8 3
+2
+0 21 3 2
+0 22 3 20
+1
+end_operator
+begin_operator
+overcome hangover learning flounder vulcan jupiter
+1
+8 3
+2
+0 21 1 3
+0 22 3 20
+1
+end_operator
+begin_operator
+overcome hangover learning hotdog earth uranus
+1
+8 4
+2
+0 21 2 0
+0 22 4 20
+1
+end_operator
+begin_operator
+overcome hangover learning hotdog uranus vulcan
+1
+8 4
+2
+0 21 3 2
+0 22 4 20
+1
+end_operator
+begin_operator
+overcome hangover learning hotdog vulcan jupiter
+1
+8 4
+2
+0 21 1 3
+0 22 4 20
+1
+end_operator
+begin_operator
+overcome hangover learning lobster earth uranus
+1
+8 5
+2
+0 21 2 0
+0 22 5 20
+1
+end_operator
+begin_operator
+overcome hangover learning lobster uranus vulcan
+1
+8 5
+2
+0 21 3 2
+0 22 5 20
+1
+end_operator
+begin_operator
+overcome hangover learning lobster vulcan jupiter
+1
+8 5
+2
+0 21 1 3
+0 22 5 20
+1
+end_operator
+begin_operator
+overcome hangover learning muffin earth uranus
+1
+8 6
+2
+0 21 2 0
+0 22 6 20
+1
+end_operator
+begin_operator
+overcome hangover learning muffin uranus vulcan
+1
+8 6
+2
+0 21 3 2
+0 22 6 20
+1
+end_operator
+begin_operator
+overcome hangover learning muffin vulcan jupiter
+1
+8 6
+2
+0 21 1 3
+0 22 6 20
+1
+end_operator
+begin_operator
+overcome hangover learning okra earth uranus
+1
+8 7
+2
+0 21 2 0
+0 22 7 20
+1
+end_operator
+begin_operator
+overcome hangover learning okra uranus vulcan
+1
+8 7
+2
+0 21 3 2
+0 22 7 20
+1
+end_operator
+begin_operator
+overcome hangover learning okra vulcan jupiter
+1
+8 7
+2
+0 21 1 3
+0 22 7 20
+1
+end_operator
+begin_operator
+overcome hangover learning pepper earth uranus
+1
+8 8
+2
+0 21 2 0
+0 22 8 20
+1
+end_operator
+begin_operator
+overcome hangover learning pepper uranus vulcan
+1
+8 8
+2
+0 21 3 2
+0 22 8 20
+1
+end_operator
+begin_operator
+overcome hangover learning pepper vulcan jupiter
+1
+8 8
+2
+0 21 1 3
+0 22 8 20
+1
+end_operator
+begin_operator
+overcome hangover learning pistachio earth uranus
+1
+8 9
+2
+0 21 2 0
+0 22 9 20
+1
+end_operator
+begin_operator
+overcome hangover learning pistachio uranus vulcan
+1
+8 9
+2
+0 21 3 2
+0 22 9 20
+1
+end_operator
+begin_operator
+overcome hangover learning pistachio vulcan jupiter
+1
+8 9
+2
+0 21 1 3
+0 22 9 20
+1
+end_operator
+begin_operator
+overcome hangover learning pork earth uranus
+1
+8 10
+2
+0 21 2 0
+0 22 10 20
+1
+end_operator
+begin_operator
+overcome hangover learning pork uranus vulcan
+1
+8 10
+2
+0 21 3 2
+0 22 10 20
+1
+end_operator
+begin_operator
+overcome hangover learning pork vulcan jupiter
+1
+8 10
+2
+0 21 1 3
+0 22 10 20
+1
+end_operator
+begin_operator
+overcome hangover learning rice earth uranus
+1
+8 11
+2
+0 21 2 0
+0 22 11 20
+1
+end_operator
+begin_operator
+overcome hangover learning rice uranus vulcan
+1
+8 11
+2
+0 21 3 2
+0 22 11 20
+1
+end_operator
+begin_operator
+overcome hangover learning rice vulcan jupiter
+1
+8 11
+2
+0 21 1 3
+0 22 11 20
+1
+end_operator
+begin_operator
+overcome hangover learning scallop earth uranus
+1
+8 12
+2
+0 21 2 0
+0 22 12 20
+1
+end_operator
+begin_operator
+overcome hangover learning scallop uranus vulcan
+1
+8 12
+2
+0 21 3 2
+0 22 12 20
+1
+end_operator
+begin_operator
+overcome hangover learning scallop vulcan jupiter
+1
+8 12
+2
+0 21 1 3
+0 22 12 20
+1
+end_operator
+begin_operator
+overcome hangover learning tomato earth uranus
+1
+8 13
+2
+0 21 2 0
+0 22 13 20
+1
+end_operator
+begin_operator
+overcome hangover learning tomato uranus vulcan
+1
+8 13
+2
+0 21 3 2
+0 22 13 20
+1
+end_operator
+begin_operator
+overcome hangover learning tomato vulcan jupiter
+1
+8 13
+2
+0 21 1 3
+0 22 13 20
+1
+end_operator
+begin_operator
+overcome hangover learning tuna earth uranus
+1
+8 14
+2
+0 21 2 0
+0 22 14 20
+1
+end_operator
+begin_operator
+overcome hangover learning tuna uranus vulcan
+1
+8 14
+2
+0 21 3 2
+0 22 14 20
+1
+end_operator
+begin_operator
+overcome hangover learning tuna vulcan jupiter
+1
+8 14
+2
+0 21 1 3
+0 22 14 20
+1
+end_operator
+begin_operator
+overcome hangover learning turkey earth uranus
+1
+8 15
+2
+0 21 2 0
+0 22 15 20
+1
+end_operator
+begin_operator
+overcome hangover learning turkey uranus vulcan
+1
+8 15
+2
+0 21 3 2
+0 22 15 20
+1
+end_operator
+begin_operator
+overcome hangover learning turkey vulcan jupiter
+1
+8 15
+2
+0 21 1 3
+0 22 15 20
+1
+end_operator
+begin_operator
+overcome hangover learning wonderbread earth uranus
+1
+8 16
+2
+0 21 2 0
+0 22 16 20
+1
+end_operator
+begin_operator
+overcome hangover learning wonderbread uranus vulcan
+1
+8 16
+2
+0 21 3 2
+0 22 16 20
+1
+end_operator
+begin_operator
+overcome hangover learning wonderbread vulcan jupiter
+1
+8 16
+2
+0 21 1 3
+0 22 16 20
+1
+end_operator
+begin_operator
+overcome hangover love arugula earth uranus
+1
+10 0
+2
+0 22 0 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome hangover love arugula uranus vulcan
+1
+10 0
+2
+0 22 0 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome hangover love arugula vulcan jupiter
+1
+10 0
+2
+0 22 0 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome hangover love baguette earth uranus
+1
+10 1
+2
+0 22 1 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome hangover love baguette uranus vulcan
+1
+10 1
+2
+0 22 1 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome hangover love baguette vulcan jupiter
+1
+10 1
+2
+0 22 1 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome hangover love cantelope earth uranus
+1
+10 2
+2
+0 22 2 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome hangover love cantelope uranus vulcan
+1
+10 2
+2
+0 22 2 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome hangover love cantelope vulcan jupiter
+1
+10 2
+2
+0 22 2 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome hangover love flounder earth uranus
+1
+10 3
+2
+0 22 3 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome hangover love flounder uranus vulcan
+1
+10 3
+2
+0 22 3 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome hangover love flounder vulcan jupiter
+1
+10 3
+2
+0 22 3 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome hangover love hotdog earth uranus
+1
+10 4
+2
+0 22 4 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome hangover love hotdog uranus vulcan
+1
+10 4
+2
+0 22 4 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome hangover love hotdog vulcan jupiter
+1
+10 4
+2
+0 22 4 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome hangover love lobster earth uranus
+1
+10 5
+2
+0 22 5 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome hangover love lobster uranus vulcan
+1
+10 5
+2
+0 22 5 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome hangover love lobster vulcan jupiter
+1
+10 5
+2
+0 22 5 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome hangover love muffin earth uranus
+1
+10 6
+2
+0 22 6 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome hangover love muffin uranus vulcan
+1
+10 6
+2
+0 22 6 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome hangover love muffin vulcan jupiter
+1
+10 6
+2
+0 22 6 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome hangover love okra earth uranus
+1
+10 7
+2
+0 22 7 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome hangover love okra uranus vulcan
+1
+10 7
+2
+0 22 7 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome hangover love okra vulcan jupiter
+1
+10 7
+2
+0 22 7 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome hangover love pepper earth uranus
+1
+10 8
+2
+0 22 8 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome hangover love pepper uranus vulcan
+1
+10 8
+2
+0 22 8 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome hangover love pepper vulcan jupiter
+1
+10 8
+2
+0 22 8 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome hangover love pistachio earth uranus
+1
+10 9
+2
+0 22 9 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome hangover love pistachio uranus vulcan
+1
+10 9
+2
+0 22 9 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome hangover love pistachio vulcan jupiter
+1
+10 9
+2
+0 22 9 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome hangover love pork earth uranus
+1
+10 10
+2
+0 22 10 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome hangover love pork uranus vulcan
+1
+10 10
+2
+0 22 10 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome hangover love pork vulcan jupiter
+1
+10 10
+2
+0 22 10 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome hangover love rice earth uranus
+1
+10 11
+2
+0 22 11 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome hangover love rice uranus vulcan
+1
+10 11
+2
+0 22 11 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome hangover love rice vulcan jupiter
+1
+10 11
+2
+0 22 11 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome hangover love scallop earth uranus
+1
+10 12
+2
+0 22 12 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome hangover love scallop uranus vulcan
+1
+10 12
+2
+0 22 12 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome hangover love scallop vulcan jupiter
+1
+10 12
+2
+0 22 12 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome hangover love tomato earth uranus
+1
+10 13
+2
+0 22 13 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome hangover love tomato uranus vulcan
+1
+10 13
+2
+0 22 13 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome hangover love tomato vulcan jupiter
+1
+10 13
+2
+0 22 13 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome hangover love tuna earth uranus
+1
+10 14
+2
+0 22 14 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome hangover love tuna uranus vulcan
+1
+10 14
+2
+0 22 14 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome hangover love tuna vulcan jupiter
+1
+10 14
+2
+0 22 14 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome hangover love turkey earth uranus
+1
+10 15
+2
+0 22 15 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome hangover love turkey uranus vulcan
+1
+10 15
+2
+0 22 15 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome hangover love turkey vulcan jupiter
+1
+10 15
+2
+0 22 15 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome hangover love wonderbread earth uranus
+1
+10 16
+2
+0 22 16 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome hangover love wonderbread uranus vulcan
+1
+10 16
+2
+0 22 16 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome hangover love wonderbread vulcan jupiter
+1
+10 16
+2
+0 22 16 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome hangover lubricity arugula earth uranus
+0
+2
+0 14 2 0
+0 22 0 22
+1
+end_operator
+begin_operator
+overcome hangover lubricity arugula uranus vulcan
+0
+2
+0 14 3 2
+0 22 0 22
+1
+end_operator
+begin_operator
+overcome hangover lubricity arugula vulcan jupiter
+0
+2
+0 14 1 3
+0 22 0 22
+1
+end_operator
+begin_operator
+overcome hangover rest arugula earth uranus
+1
+11 0
+2
+0 22 0 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome hangover rest arugula uranus vulcan
+1
+11 0
+2
+0 22 0 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome hangover rest arugula vulcan jupiter
+1
+11 0
+2
+0 22 0 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome hangover rest baguette earth uranus
+1
+11 1
+2
+0 22 1 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome hangover rest baguette uranus vulcan
+1
+11 1
+2
+0 22 1 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome hangover rest baguette vulcan jupiter
+1
+11 1
+2
+0 22 1 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome hangover rest cantelope earth uranus
+1
+11 2
+2
+0 22 2 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome hangover rest cantelope uranus vulcan
+1
+11 2
+2
+0 22 2 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome hangover rest cantelope vulcan jupiter
+1
+11 2
+2
+0 22 2 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome hangover rest flounder earth uranus
+1
+11 3
+2
+0 22 3 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome hangover rest flounder uranus vulcan
+1
+11 3
+2
+0 22 3 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome hangover rest flounder vulcan jupiter
+1
+11 3
+2
+0 22 3 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome hangover rest hotdog earth uranus
+1
+11 4
+2
+0 22 4 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome hangover rest hotdog uranus vulcan
+1
+11 4
+2
+0 22 4 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome hangover rest hotdog vulcan jupiter
+1
+11 4
+2
+0 22 4 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome hangover rest lobster earth uranus
+1
+11 5
+2
+0 22 5 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome hangover rest lobster uranus vulcan
+1
+11 5
+2
+0 22 5 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome hangover rest lobster vulcan jupiter
+1
+11 5
+2
+0 22 5 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome hangover rest muffin earth uranus
+1
+11 6
+2
+0 22 6 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome hangover rest muffin uranus vulcan
+1
+11 6
+2
+0 22 6 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome hangover rest muffin vulcan jupiter
+1
+11 6
+2
+0 22 6 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome hangover rest okra earth uranus
+1
+11 7
+2
+0 22 7 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome hangover rest okra uranus vulcan
+1
+11 7
+2
+0 22 7 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome hangover rest okra vulcan jupiter
+1
+11 7
+2
+0 22 7 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome hangover rest pepper earth uranus
+1
+11 8
+2
+0 22 8 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome hangover rest pepper uranus vulcan
+1
+11 8
+2
+0 22 8 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome hangover rest pepper vulcan jupiter
+1
+11 8
+2
+0 22 8 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome hangover rest pistachio earth uranus
+1
+11 9
+2
+0 22 9 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome hangover rest pistachio uranus vulcan
+1
+11 9
+2
+0 22 9 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome hangover rest pistachio vulcan jupiter
+1
+11 9
+2
+0 22 9 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome hangover rest pork earth uranus
+1
+11 10
+2
+0 22 10 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome hangover rest pork uranus vulcan
+1
+11 10
+2
+0 22 10 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome hangover rest pork vulcan jupiter
+1
+11 10
+2
+0 22 10 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome hangover rest rice earth uranus
+1
+11 11
+2
+0 22 11 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome hangover rest rice uranus vulcan
+1
+11 11
+2
+0 22 11 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome hangover rest rice vulcan jupiter
+1
+11 11
+2
+0 22 11 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome hangover rest scallop earth uranus
+1
+11 12
+2
+0 22 12 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome hangover rest scallop uranus vulcan
+1
+11 12
+2
+0 22 12 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome hangover rest scallop vulcan jupiter
+1
+11 12
+2
+0 22 12 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome hangover rest tomato earth uranus
+1
+11 13
+2
+0 22 13 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome hangover rest tomato uranus vulcan
+1
+11 13
+2
+0 22 13 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome hangover rest tomato vulcan jupiter
+1
+11 13
+2
+0 22 13 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome hangover rest tuna earth uranus
+1
+11 14
+2
+0 22 14 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome hangover rest tuna uranus vulcan
+1
+11 14
+2
+0 22 14 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome hangover rest tuna vulcan jupiter
+1
+11 14
+2
+0 22 14 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome hangover rest turkey earth uranus
+1
+11 15
+2
+0 22 15 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome hangover rest turkey uranus vulcan
+1
+11 15
+2
+0 22 15 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome hangover rest turkey vulcan jupiter
+1
+11 15
+2
+0 22 15 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome hangover rest wonderbread earth uranus
+1
+11 16
+2
+0 22 16 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome hangover rest wonderbread uranus vulcan
+1
+11 16
+2
+0 22 16 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome hangover rest wonderbread vulcan jupiter
+1
+11 16
+2
+0 22 16 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome hangover stimulation muffin earth uranus
+0
+2
+0 15 2 0
+0 22 6 24
+1
+end_operator
+begin_operator
+overcome hangover stimulation muffin uranus vulcan
+0
+2
+0 15 3 2
+0 22 6 24
+1
+end_operator
+begin_operator
+overcome hangover stimulation muffin vulcan jupiter
+0
+2
+0 15 1 3
+0 22 6 24
+1
+end_operator
+begin_operator
+overcome hangover triumph hotdog earth uranus
+0
+2
+0 16 2 0
+0 22 4 25
+1
+end_operator
+begin_operator
+overcome hangover triumph hotdog uranus vulcan
+0
+2
+0 16 3 2
+0 22 4 25
+1
+end_operator
+begin_operator
+overcome hangover triumph hotdog vulcan jupiter
+0
+2
+0 16 1 3
+0 22 4 25
+1
+end_operator
+begin_operator
+overcome sciatica achievement rice earth uranus
+0
+2
+0 13 2 0
+0 23 11 17
+1
+end_operator
+begin_operator
+overcome sciatica achievement rice uranus vulcan
+0
+2
+0 13 3 2
+0 23 11 17
+1
+end_operator
+begin_operator
+overcome sciatica achievement rice vulcan jupiter
+0
+2
+0 13 1 3
+0 23 11 17
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics arugula earth uranus
+1
+5 0
+2
+0 17 2 0
+0 23 0 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics arugula uranus vulcan
+1
+5 0
+2
+0 17 3 2
+0 23 0 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics arugula vulcan jupiter
+1
+5 0
+2
+0 17 1 3
+0 23 0 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics baguette earth uranus
+1
+5 1
+2
+0 17 2 0
+0 23 1 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics baguette uranus vulcan
+1
+5 1
+2
+0 17 3 2
+0 23 1 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics baguette vulcan jupiter
+1
+5 1
+2
+0 17 1 3
+0 23 1 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics cantelope earth uranus
+1
+5 2
+2
+0 17 2 0
+0 23 2 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics cantelope uranus vulcan
+1
+5 2
+2
+0 17 3 2
+0 23 2 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics cantelope vulcan jupiter
+1
+5 2
+2
+0 17 1 3
+0 23 2 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics flounder earth uranus
+1
+5 3
+2
+0 17 2 0
+0 23 3 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics flounder uranus vulcan
+1
+5 3
+2
+0 17 3 2
+0 23 3 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics flounder vulcan jupiter
+1
+5 3
+2
+0 17 1 3
+0 23 3 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics hotdog earth uranus
+1
+5 4
+2
+0 17 2 0
+0 23 4 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics hotdog uranus vulcan
+1
+5 4
+2
+0 17 3 2
+0 23 4 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics hotdog vulcan jupiter
+1
+5 4
+2
+0 17 1 3
+0 23 4 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics lobster earth uranus
+1
+5 5
+2
+0 17 2 0
+0 23 5 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics lobster uranus vulcan
+1
+5 5
+2
+0 17 3 2
+0 23 5 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics lobster vulcan jupiter
+1
+5 5
+2
+0 17 1 3
+0 23 5 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics muffin earth uranus
+1
+5 6
+2
+0 17 2 0
+0 23 6 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics muffin uranus vulcan
+1
+5 6
+2
+0 17 3 2
+0 23 6 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics muffin vulcan jupiter
+1
+5 6
+2
+0 17 1 3
+0 23 6 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics okra earth uranus
+1
+5 7
+2
+0 17 2 0
+0 23 7 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics okra uranus vulcan
+1
+5 7
+2
+0 17 3 2
+0 23 7 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics okra vulcan jupiter
+1
+5 7
+2
+0 17 1 3
+0 23 7 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics pepper earth uranus
+1
+5 8
+2
+0 17 2 0
+0 23 8 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics pepper uranus vulcan
+1
+5 8
+2
+0 17 3 2
+0 23 8 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics pepper vulcan jupiter
+1
+5 8
+2
+0 17 1 3
+0 23 8 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics pistachio earth uranus
+1
+5 9
+2
+0 17 2 0
+0 23 9 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics pistachio uranus vulcan
+1
+5 9
+2
+0 17 3 2
+0 23 9 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics pistachio vulcan jupiter
+1
+5 9
+2
+0 17 1 3
+0 23 9 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics pork earth uranus
+1
+5 10
+2
+0 17 2 0
+0 23 10 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics pork uranus vulcan
+1
+5 10
+2
+0 17 3 2
+0 23 10 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics pork vulcan jupiter
+1
+5 10
+2
+0 17 1 3
+0 23 10 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics rice earth uranus
+1
+5 11
+2
+0 17 2 0
+0 23 11 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics rice uranus vulcan
+1
+5 11
+2
+0 17 3 2
+0 23 11 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics rice vulcan jupiter
+1
+5 11
+2
+0 17 1 3
+0 23 11 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics scallop earth uranus
+1
+5 12
+2
+0 17 2 0
+0 23 12 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics scallop uranus vulcan
+1
+5 12
+2
+0 17 3 2
+0 23 12 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics scallop vulcan jupiter
+1
+5 12
+2
+0 17 1 3
+0 23 12 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics tomato earth uranus
+1
+5 13
+2
+0 17 2 0
+0 23 13 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics tomato uranus vulcan
+1
+5 13
+2
+0 17 3 2
+0 23 13 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics tomato vulcan jupiter
+1
+5 13
+2
+0 17 1 3
+0 23 13 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics tuna earth uranus
+1
+5 14
+2
+0 17 2 0
+0 23 14 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics tuna uranus vulcan
+1
+5 14
+2
+0 17 3 2
+0 23 14 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics tuna vulcan jupiter
+1
+5 14
+2
+0 17 1 3
+0 23 14 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics turkey earth uranus
+1
+5 15
+2
+0 17 2 0
+0 23 15 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics turkey uranus vulcan
+1
+5 15
+2
+0 17 3 2
+0 23 15 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics turkey vulcan jupiter
+1
+5 15
+2
+0 17 1 3
+0 23 15 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics wonderbread earth uranus
+1
+5 16
+2
+0 17 2 0
+0 23 16 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics wonderbread uranus vulcan
+1
+5 16
+2
+0 17 3 2
+0 23 16 18
+1
+end_operator
+begin_operator
+overcome sciatica aesthetics wonderbread vulcan jupiter
+1
+5 16
+2
+0 17 1 3
+0 23 16 18
+1
+end_operator
+begin_operator
+overcome sciatica excitement arugula earth uranus
+1
+7 0
+2
+0 20 2 0
+0 23 0 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement arugula uranus vulcan
+1
+7 0
+2
+0 20 3 2
+0 23 0 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement arugula vulcan jupiter
+1
+7 0
+2
+0 20 1 3
+0 23 0 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement baguette earth uranus
+1
+7 1
+2
+0 20 2 0
+0 23 1 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement baguette uranus vulcan
+1
+7 1
+2
+0 20 3 2
+0 23 1 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement baguette vulcan jupiter
+1
+7 1
+2
+0 20 1 3
+0 23 1 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement cantelope earth uranus
+1
+7 2
+2
+0 20 2 0
+0 23 2 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement cantelope uranus vulcan
+1
+7 2
+2
+0 20 3 2
+0 23 2 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement cantelope vulcan jupiter
+1
+7 2
+2
+0 20 1 3
+0 23 2 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement flounder earth uranus
+1
+7 3
+2
+0 20 2 0
+0 23 3 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement flounder uranus vulcan
+1
+7 3
+2
+0 20 3 2
+0 23 3 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement flounder vulcan jupiter
+1
+7 3
+2
+0 20 1 3
+0 23 3 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement hotdog earth uranus
+1
+7 4
+2
+0 20 2 0
+0 23 4 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement hotdog uranus vulcan
+1
+7 4
+2
+0 20 3 2
+0 23 4 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement hotdog vulcan jupiter
+1
+7 4
+2
+0 20 1 3
+0 23 4 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement lobster earth uranus
+1
+7 5
+2
+0 20 2 0
+0 23 5 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement lobster uranus vulcan
+1
+7 5
+2
+0 20 3 2
+0 23 5 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement lobster vulcan jupiter
+1
+7 5
+2
+0 20 1 3
+0 23 5 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement muffin earth uranus
+1
+7 6
+2
+0 20 2 0
+0 23 6 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement muffin uranus vulcan
+1
+7 6
+2
+0 20 3 2
+0 23 6 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement muffin vulcan jupiter
+1
+7 6
+2
+0 20 1 3
+0 23 6 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement okra earth uranus
+1
+7 7
+2
+0 20 2 0
+0 23 7 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement okra uranus vulcan
+1
+7 7
+2
+0 20 3 2
+0 23 7 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement okra vulcan jupiter
+1
+7 7
+2
+0 20 1 3
+0 23 7 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement pepper earth uranus
+1
+7 8
+2
+0 20 2 0
+0 23 8 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement pepper uranus vulcan
+1
+7 8
+2
+0 20 3 2
+0 23 8 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement pepper vulcan jupiter
+1
+7 8
+2
+0 20 1 3
+0 23 8 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement pistachio earth uranus
+1
+7 9
+2
+0 20 2 0
+0 23 9 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement pistachio uranus vulcan
+1
+7 9
+2
+0 20 3 2
+0 23 9 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement pistachio vulcan jupiter
+1
+7 9
+2
+0 20 1 3
+0 23 9 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement pork earth uranus
+1
+7 10
+2
+0 20 2 0
+0 23 10 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement pork uranus vulcan
+1
+7 10
+2
+0 20 3 2
+0 23 10 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement pork vulcan jupiter
+1
+7 10
+2
+0 20 1 3
+0 23 10 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement rice earth uranus
+1
+7 11
+2
+0 20 2 0
+0 23 11 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement rice uranus vulcan
+1
+7 11
+2
+0 20 3 2
+0 23 11 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement rice vulcan jupiter
+1
+7 11
+2
+0 20 1 3
+0 23 11 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement scallop earth uranus
+1
+7 12
+2
+0 20 2 0
+0 23 12 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement scallop uranus vulcan
+1
+7 12
+2
+0 20 3 2
+0 23 12 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement scallop vulcan jupiter
+1
+7 12
+2
+0 20 1 3
+0 23 12 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement tomato earth uranus
+1
+7 13
+2
+0 20 2 0
+0 23 13 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement tomato uranus vulcan
+1
+7 13
+2
+0 20 3 2
+0 23 13 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement tomato vulcan jupiter
+1
+7 13
+2
+0 20 1 3
+0 23 13 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement tuna earth uranus
+1
+7 14
+2
+0 20 2 0
+0 23 14 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement tuna uranus vulcan
+1
+7 14
+2
+0 20 3 2
+0 23 14 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement tuna vulcan jupiter
+1
+7 14
+2
+0 20 1 3
+0 23 14 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement turkey earth uranus
+1
+7 15
+2
+0 20 2 0
+0 23 15 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement turkey uranus vulcan
+1
+7 15
+2
+0 20 3 2
+0 23 15 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement turkey vulcan jupiter
+1
+7 15
+2
+0 20 1 3
+0 23 15 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement wonderbread earth uranus
+1
+7 16
+2
+0 20 2 0
+0 23 16 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement wonderbread uranus vulcan
+1
+7 16
+2
+0 20 3 2
+0 23 16 19
+1
+end_operator
+begin_operator
+overcome sciatica excitement wonderbread vulcan jupiter
+1
+7 16
+2
+0 20 1 3
+0 23 16 19
+1
+end_operator
+begin_operator
+overcome sciatica learning arugula earth uranus
+1
+8 0
+2
+0 21 2 0
+0 23 0 20
+1
+end_operator
+begin_operator
+overcome sciatica learning arugula uranus vulcan
+1
+8 0
+2
+0 21 3 2
+0 23 0 20
+1
+end_operator
+begin_operator
+overcome sciatica learning arugula vulcan jupiter
+1
+8 0
+2
+0 21 1 3
+0 23 0 20
+1
+end_operator
+begin_operator
+overcome sciatica learning baguette earth uranus
+1
+8 1
+2
+0 21 2 0
+0 23 1 20
+1
+end_operator
+begin_operator
+overcome sciatica learning baguette uranus vulcan
+1
+8 1
+2
+0 21 3 2
+0 23 1 20
+1
+end_operator
+begin_operator
+overcome sciatica learning baguette vulcan jupiter
+1
+8 1
+2
+0 21 1 3
+0 23 1 20
+1
+end_operator
+begin_operator
+overcome sciatica learning cantelope earth uranus
+1
+8 2
+2
+0 21 2 0
+0 23 2 20
+1
+end_operator
+begin_operator
+overcome sciatica learning cantelope uranus vulcan
+1
+8 2
+2
+0 21 3 2
+0 23 2 20
+1
+end_operator
+begin_operator
+overcome sciatica learning cantelope vulcan jupiter
+1
+8 2
+2
+0 21 1 3
+0 23 2 20
+1
+end_operator
+begin_operator
+overcome sciatica learning flounder earth uranus
+1
+8 3
+2
+0 21 2 0
+0 23 3 20
+1
+end_operator
+begin_operator
+overcome sciatica learning flounder uranus vulcan
+1
+8 3
+2
+0 21 3 2
+0 23 3 20
+1
+end_operator
+begin_operator
+overcome sciatica learning flounder vulcan jupiter
+1
+8 3
+2
+0 21 1 3
+0 23 3 20
+1
+end_operator
+begin_operator
+overcome sciatica learning hotdog earth uranus
+1
+8 4
+2
+0 21 2 0
+0 23 4 20
+1
+end_operator
+begin_operator
+overcome sciatica learning hotdog uranus vulcan
+1
+8 4
+2
+0 21 3 2
+0 23 4 20
+1
+end_operator
+begin_operator
+overcome sciatica learning hotdog vulcan jupiter
+1
+8 4
+2
+0 21 1 3
+0 23 4 20
+1
+end_operator
+begin_operator
+overcome sciatica learning lobster earth uranus
+1
+8 5
+2
+0 21 2 0
+0 23 5 20
+1
+end_operator
+begin_operator
+overcome sciatica learning lobster uranus vulcan
+1
+8 5
+2
+0 21 3 2
+0 23 5 20
+1
+end_operator
+begin_operator
+overcome sciatica learning lobster vulcan jupiter
+1
+8 5
+2
+0 21 1 3
+0 23 5 20
+1
+end_operator
+begin_operator
+overcome sciatica learning muffin earth uranus
+1
+8 6
+2
+0 21 2 0
+0 23 6 20
+1
+end_operator
+begin_operator
+overcome sciatica learning muffin uranus vulcan
+1
+8 6
+2
+0 21 3 2
+0 23 6 20
+1
+end_operator
+begin_operator
+overcome sciatica learning muffin vulcan jupiter
+1
+8 6
+2
+0 21 1 3
+0 23 6 20
+1
+end_operator
+begin_operator
+overcome sciatica learning okra earth uranus
+1
+8 7
+2
+0 21 2 0
+0 23 7 20
+1
+end_operator
+begin_operator
+overcome sciatica learning okra uranus vulcan
+1
+8 7
+2
+0 21 3 2
+0 23 7 20
+1
+end_operator
+begin_operator
+overcome sciatica learning okra vulcan jupiter
+1
+8 7
+2
+0 21 1 3
+0 23 7 20
+1
+end_operator
+begin_operator
+overcome sciatica learning pepper earth uranus
+1
+8 8
+2
+0 21 2 0
+0 23 8 20
+1
+end_operator
+begin_operator
+overcome sciatica learning pepper uranus vulcan
+1
+8 8
+2
+0 21 3 2
+0 23 8 20
+1
+end_operator
+begin_operator
+overcome sciatica learning pepper vulcan jupiter
+1
+8 8
+2
+0 21 1 3
+0 23 8 20
+1
+end_operator
+begin_operator
+overcome sciatica learning pistachio earth uranus
+1
+8 9
+2
+0 21 2 0
+0 23 9 20
+1
+end_operator
+begin_operator
+overcome sciatica learning pistachio uranus vulcan
+1
+8 9
+2
+0 21 3 2
+0 23 9 20
+1
+end_operator
+begin_operator
+overcome sciatica learning pistachio vulcan jupiter
+1
+8 9
+2
+0 21 1 3
+0 23 9 20
+1
+end_operator
+begin_operator
+overcome sciatica learning pork earth uranus
+1
+8 10
+2
+0 21 2 0
+0 23 10 20
+1
+end_operator
+begin_operator
+overcome sciatica learning pork uranus vulcan
+1
+8 10
+2
+0 21 3 2
+0 23 10 20
+1
+end_operator
+begin_operator
+overcome sciatica learning pork vulcan jupiter
+1
+8 10
+2
+0 21 1 3
+0 23 10 20
+1
+end_operator
+begin_operator
+overcome sciatica learning rice earth uranus
+1
+8 11
+2
+0 21 2 0
+0 23 11 20
+1
+end_operator
+begin_operator
+overcome sciatica learning rice uranus vulcan
+1
+8 11
+2
+0 21 3 2
+0 23 11 20
+1
+end_operator
+begin_operator
+overcome sciatica learning rice vulcan jupiter
+1
+8 11
+2
+0 21 1 3
+0 23 11 20
+1
+end_operator
+begin_operator
+overcome sciatica learning scallop earth uranus
+1
+8 12
+2
+0 21 2 0
+0 23 12 20
+1
+end_operator
+begin_operator
+overcome sciatica learning scallop uranus vulcan
+1
+8 12
+2
+0 21 3 2
+0 23 12 20
+1
+end_operator
+begin_operator
+overcome sciatica learning scallop vulcan jupiter
+1
+8 12
+2
+0 21 1 3
+0 23 12 20
+1
+end_operator
+begin_operator
+overcome sciatica learning tomato earth uranus
+1
+8 13
+2
+0 21 2 0
+0 23 13 20
+1
+end_operator
+begin_operator
+overcome sciatica learning tomato uranus vulcan
+1
+8 13
+2
+0 21 3 2
+0 23 13 20
+1
+end_operator
+begin_operator
+overcome sciatica learning tomato vulcan jupiter
+1
+8 13
+2
+0 21 1 3
+0 23 13 20
+1
+end_operator
+begin_operator
+overcome sciatica learning tuna earth uranus
+1
+8 14
+2
+0 21 2 0
+0 23 14 20
+1
+end_operator
+begin_operator
+overcome sciatica learning tuna uranus vulcan
+1
+8 14
+2
+0 21 3 2
+0 23 14 20
+1
+end_operator
+begin_operator
+overcome sciatica learning tuna vulcan jupiter
+1
+8 14
+2
+0 21 1 3
+0 23 14 20
+1
+end_operator
+begin_operator
+overcome sciatica learning turkey earth uranus
+1
+8 15
+2
+0 21 2 0
+0 23 15 20
+1
+end_operator
+begin_operator
+overcome sciatica learning turkey uranus vulcan
+1
+8 15
+2
+0 21 3 2
+0 23 15 20
+1
+end_operator
+begin_operator
+overcome sciatica learning turkey vulcan jupiter
+1
+8 15
+2
+0 21 1 3
+0 23 15 20
+1
+end_operator
+begin_operator
+overcome sciatica learning wonderbread earth uranus
+1
+8 16
+2
+0 21 2 0
+0 23 16 20
+1
+end_operator
+begin_operator
+overcome sciatica learning wonderbread uranus vulcan
+1
+8 16
+2
+0 21 3 2
+0 23 16 20
+1
+end_operator
+begin_operator
+overcome sciatica learning wonderbread vulcan jupiter
+1
+8 16
+2
+0 21 1 3
+0 23 16 20
+1
+end_operator
+begin_operator
+overcome sciatica love arugula earth uranus
+1
+10 0
+2
+0 23 0 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome sciatica love arugula uranus vulcan
+1
+10 0
+2
+0 23 0 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome sciatica love arugula vulcan jupiter
+1
+10 0
+2
+0 23 0 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome sciatica love baguette earth uranus
+1
+10 1
+2
+0 23 1 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome sciatica love baguette uranus vulcan
+1
+10 1
+2
+0 23 1 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome sciatica love baguette vulcan jupiter
+1
+10 1
+2
+0 23 1 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome sciatica love cantelope earth uranus
+1
+10 2
+2
+0 23 2 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome sciatica love cantelope uranus vulcan
+1
+10 2
+2
+0 23 2 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome sciatica love cantelope vulcan jupiter
+1
+10 2
+2
+0 23 2 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome sciatica love flounder earth uranus
+1
+10 3
+2
+0 23 3 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome sciatica love flounder uranus vulcan
+1
+10 3
+2
+0 23 3 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome sciatica love flounder vulcan jupiter
+1
+10 3
+2
+0 23 3 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome sciatica love hotdog earth uranus
+1
+10 4
+2
+0 23 4 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome sciatica love hotdog uranus vulcan
+1
+10 4
+2
+0 23 4 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome sciatica love hotdog vulcan jupiter
+1
+10 4
+2
+0 23 4 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome sciatica love lobster earth uranus
+1
+10 5
+2
+0 23 5 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome sciatica love lobster uranus vulcan
+1
+10 5
+2
+0 23 5 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome sciatica love lobster vulcan jupiter
+1
+10 5
+2
+0 23 5 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome sciatica love muffin earth uranus
+1
+10 6
+2
+0 23 6 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome sciatica love muffin uranus vulcan
+1
+10 6
+2
+0 23 6 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome sciatica love muffin vulcan jupiter
+1
+10 6
+2
+0 23 6 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome sciatica love okra earth uranus
+1
+10 7
+2
+0 23 7 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome sciatica love okra uranus vulcan
+1
+10 7
+2
+0 23 7 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome sciatica love okra vulcan jupiter
+1
+10 7
+2
+0 23 7 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome sciatica love pepper earth uranus
+1
+10 8
+2
+0 23 8 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome sciatica love pepper uranus vulcan
+1
+10 8
+2
+0 23 8 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome sciatica love pepper vulcan jupiter
+1
+10 8
+2
+0 23 8 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome sciatica love pistachio earth uranus
+1
+10 9
+2
+0 23 9 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome sciatica love pistachio uranus vulcan
+1
+10 9
+2
+0 23 9 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome sciatica love pistachio vulcan jupiter
+1
+10 9
+2
+0 23 9 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome sciatica love pork earth uranus
+1
+10 10
+2
+0 23 10 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome sciatica love pork uranus vulcan
+1
+10 10
+2
+0 23 10 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome sciatica love pork vulcan jupiter
+1
+10 10
+2
+0 23 10 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome sciatica love rice earth uranus
+1
+10 11
+2
+0 23 11 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome sciatica love rice uranus vulcan
+1
+10 11
+2
+0 23 11 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome sciatica love rice vulcan jupiter
+1
+10 11
+2
+0 23 11 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome sciatica love scallop earth uranus
+1
+10 12
+2
+0 23 12 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome sciatica love scallop uranus vulcan
+1
+10 12
+2
+0 23 12 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome sciatica love scallop vulcan jupiter
+1
+10 12
+2
+0 23 12 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome sciatica love tomato earth uranus
+1
+10 13
+2
+0 23 13 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome sciatica love tomato uranus vulcan
+1
+10 13
+2
+0 23 13 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome sciatica love tomato vulcan jupiter
+1
+10 13
+2
+0 23 13 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome sciatica love tuna earth uranus
+1
+10 14
+2
+0 23 14 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome sciatica love tuna uranus vulcan
+1
+10 14
+2
+0 23 14 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome sciatica love tuna vulcan jupiter
+1
+10 14
+2
+0 23 14 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome sciatica love turkey earth uranus
+1
+10 15
+2
+0 23 15 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome sciatica love turkey uranus vulcan
+1
+10 15
+2
+0 23 15 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome sciatica love turkey vulcan jupiter
+1
+10 15
+2
+0 23 15 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome sciatica love wonderbread earth uranus
+1
+10 16
+2
+0 23 16 21
+0 24 2 0
+1
+end_operator
+begin_operator
+overcome sciatica love wonderbread uranus vulcan
+1
+10 16
+2
+0 23 16 21
+0 24 3 2
+1
+end_operator
+begin_operator
+overcome sciatica love wonderbread vulcan jupiter
+1
+10 16
+2
+0 23 16 21
+0 24 1 3
+1
+end_operator
+begin_operator
+overcome sciatica lubricity arugula earth uranus
+0
+2
+0 14 2 0
+0 23 0 22
+1
+end_operator
+begin_operator
+overcome sciatica lubricity arugula uranus vulcan
+0
+2
+0 14 3 2
+0 23 0 22
+1
+end_operator
+begin_operator
+overcome sciatica lubricity arugula vulcan jupiter
+0
+2
+0 14 1 3
+0 23 0 22
+1
+end_operator
+begin_operator
+overcome sciatica rest arugula earth uranus
+1
+11 0
+2
+0 23 0 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome sciatica rest arugula uranus vulcan
+1
+11 0
+2
+0 23 0 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome sciatica rest arugula vulcan jupiter
+1
+11 0
+2
+0 23 0 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome sciatica rest baguette earth uranus
+1
+11 1
+2
+0 23 1 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome sciatica rest baguette uranus vulcan
+1
+11 1
+2
+0 23 1 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome sciatica rest baguette vulcan jupiter
+1
+11 1
+2
+0 23 1 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome sciatica rest cantelope earth uranus
+1
+11 2
+2
+0 23 2 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome sciatica rest cantelope uranus vulcan
+1
+11 2
+2
+0 23 2 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome sciatica rest cantelope vulcan jupiter
+1
+11 2
+2
+0 23 2 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome sciatica rest flounder earth uranus
+1
+11 3
+2
+0 23 3 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome sciatica rest flounder uranus vulcan
+1
+11 3
+2
+0 23 3 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome sciatica rest flounder vulcan jupiter
+1
+11 3
+2
+0 23 3 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome sciatica rest hotdog earth uranus
+1
+11 4
+2
+0 23 4 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome sciatica rest hotdog uranus vulcan
+1
+11 4
+2
+0 23 4 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome sciatica rest hotdog vulcan jupiter
+1
+11 4
+2
+0 23 4 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome sciatica rest lobster earth uranus
+1
+11 5
+2
+0 23 5 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome sciatica rest lobster uranus vulcan
+1
+11 5
+2
+0 23 5 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome sciatica rest lobster vulcan jupiter
+1
+11 5
+2
+0 23 5 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome sciatica rest muffin earth uranus
+1
+11 6
+2
+0 23 6 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome sciatica rest muffin uranus vulcan
+1
+11 6
+2
+0 23 6 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome sciatica rest muffin vulcan jupiter
+1
+11 6
+2
+0 23 6 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome sciatica rest okra earth uranus
+1
+11 7
+2
+0 23 7 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome sciatica rest okra uranus vulcan
+1
+11 7
+2
+0 23 7 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome sciatica rest okra vulcan jupiter
+1
+11 7
+2
+0 23 7 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome sciatica rest pepper earth uranus
+1
+11 8
+2
+0 23 8 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome sciatica rest pepper uranus vulcan
+1
+11 8
+2
+0 23 8 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome sciatica rest pepper vulcan jupiter
+1
+11 8
+2
+0 23 8 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome sciatica rest pistachio earth uranus
+1
+11 9
+2
+0 23 9 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome sciatica rest pistachio uranus vulcan
+1
+11 9
+2
+0 23 9 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome sciatica rest pistachio vulcan jupiter
+1
+11 9
+2
+0 23 9 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome sciatica rest pork earth uranus
+1
+11 10
+2
+0 23 10 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome sciatica rest pork uranus vulcan
+1
+11 10
+2
+0 23 10 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome sciatica rest pork vulcan jupiter
+1
+11 10
+2
+0 23 10 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome sciatica rest rice earth uranus
+1
+11 11
+2
+0 23 11 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome sciatica rest rice uranus vulcan
+1
+11 11
+2
+0 23 11 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome sciatica rest rice vulcan jupiter
+1
+11 11
+2
+0 23 11 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome sciatica rest scallop earth uranus
+1
+11 12
+2
+0 23 12 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome sciatica rest scallop uranus vulcan
+1
+11 12
+2
+0 23 12 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome sciatica rest scallop vulcan jupiter
+1
+11 12
+2
+0 23 12 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome sciatica rest tomato earth uranus
+1
+11 13
+2
+0 23 13 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome sciatica rest tomato uranus vulcan
+1
+11 13
+2
+0 23 13 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome sciatica rest tomato vulcan jupiter
+1
+11 13
+2
+0 23 13 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome sciatica rest tuna earth uranus
+1
+11 14
+2
+0 23 14 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome sciatica rest tuna uranus vulcan
+1
+11 14
+2
+0 23 14 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome sciatica rest tuna vulcan jupiter
+1
+11 14
+2
+0 23 14 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome sciatica rest turkey earth uranus
+1
+11 15
+2
+0 23 15 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome sciatica rest turkey uranus vulcan
+1
+11 15
+2
+0 23 15 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome sciatica rest turkey vulcan jupiter
+1
+11 15
+2
+0 23 15 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome sciatica rest wonderbread earth uranus
+1
+11 16
+2
+0 23 16 23
+0 25 2 0
+1
+end_operator
+begin_operator
+overcome sciatica rest wonderbread uranus vulcan
+1
+11 16
+2
+0 23 16 23
+0 25 3 2
+1
+end_operator
+begin_operator
+overcome sciatica rest wonderbread vulcan jupiter
+1
+11 16
+2
+0 23 16 23
+0 25 1 3
+1
+end_operator
+begin_operator
+overcome sciatica stimulation muffin earth uranus
+0
+2
+0 15 2 0
+0 23 6 24
+1
+end_operator
+begin_operator
+overcome sciatica stimulation muffin uranus vulcan
+0
+2
+0 15 3 2
+0 23 6 24
+1
+end_operator
+begin_operator
+overcome sciatica stimulation muffin vulcan jupiter
+0
+2
+0 15 1 3
+0 23 6 24
+1
+end_operator
+begin_operator
+overcome sciatica triumph hotdog earth uranus
+0
+2
+0 16 2 0
+0 23 4 25
+1
+end_operator
+begin_operator
+overcome sciatica triumph hotdog uranus vulcan
+0
+2
+0 16 3 2
+0 23 4 25
+1
+end_operator
+begin_operator
+overcome sciatica triumph hotdog vulcan jupiter
+0
+2
+0 16 1 3
+0 23 4 25
+1
+end_operator
+begin_operator
+succumb abrasion achievement rice earth uranus
+0
+2
+0 13 0 2
+0 18 17 11
+1
+end_operator
+begin_operator
+succumb abrasion achievement rice uranus vulcan
+0
+2
+0 13 2 3
+0 18 17 11
+1
+end_operator
+begin_operator
+succumb abrasion achievement rice vulcan jupiter
+0
+2
+0 13 3 1
+0 18 17 11
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics arugula earth uranus
+1
+5 0
+2
+0 17 0 2
+0 18 18 0
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics arugula uranus vulcan
+1
+5 0
+2
+0 17 2 3
+0 18 18 0
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics arugula vulcan jupiter
+1
+5 0
+2
+0 17 3 1
+0 18 18 0
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics baguette earth uranus
+1
+5 1
+2
+0 17 0 2
+0 18 18 1
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics baguette uranus vulcan
+1
+5 1
+2
+0 17 2 3
+0 18 18 1
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics baguette vulcan jupiter
+1
+5 1
+2
+0 17 3 1
+0 18 18 1
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics cantelope earth uranus
+1
+5 2
+2
+0 17 0 2
+0 18 18 2
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics cantelope uranus vulcan
+1
+5 2
+2
+0 17 2 3
+0 18 18 2
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics cantelope vulcan jupiter
+1
+5 2
+2
+0 17 3 1
+0 18 18 2
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics flounder earth uranus
+1
+5 3
+2
+0 17 0 2
+0 18 18 3
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics flounder uranus vulcan
+1
+5 3
+2
+0 17 2 3
+0 18 18 3
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics flounder vulcan jupiter
+1
+5 3
+2
+0 17 3 1
+0 18 18 3
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics hotdog earth uranus
+1
+5 4
+2
+0 17 0 2
+0 18 18 4
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics hotdog uranus vulcan
+1
+5 4
+2
+0 17 2 3
+0 18 18 4
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics hotdog vulcan jupiter
+1
+5 4
+2
+0 17 3 1
+0 18 18 4
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics lobster earth uranus
+1
+5 5
+2
+0 17 0 2
+0 18 18 5
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics lobster uranus vulcan
+1
+5 5
+2
+0 17 2 3
+0 18 18 5
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics lobster vulcan jupiter
+1
+5 5
+2
+0 17 3 1
+0 18 18 5
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics muffin earth uranus
+1
+5 6
+2
+0 17 0 2
+0 18 18 6
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics muffin uranus vulcan
+1
+5 6
+2
+0 17 2 3
+0 18 18 6
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics muffin vulcan jupiter
+1
+5 6
+2
+0 17 3 1
+0 18 18 6
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics okra earth uranus
+1
+5 7
+2
+0 17 0 2
+0 18 18 7
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics okra uranus vulcan
+1
+5 7
+2
+0 17 2 3
+0 18 18 7
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics okra vulcan jupiter
+1
+5 7
+2
+0 17 3 1
+0 18 18 7
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics pepper earth uranus
+1
+5 8
+2
+0 17 0 2
+0 18 18 8
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics pepper uranus vulcan
+1
+5 8
+2
+0 17 2 3
+0 18 18 8
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics pepper vulcan jupiter
+1
+5 8
+2
+0 17 3 1
+0 18 18 8
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics pistachio earth uranus
+1
+5 9
+2
+0 17 0 2
+0 18 18 9
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics pistachio uranus vulcan
+1
+5 9
+2
+0 17 2 3
+0 18 18 9
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics pistachio vulcan jupiter
+1
+5 9
+2
+0 17 3 1
+0 18 18 9
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics pork earth uranus
+1
+5 10
+2
+0 17 0 2
+0 18 18 10
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics pork uranus vulcan
+1
+5 10
+2
+0 17 2 3
+0 18 18 10
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics pork vulcan jupiter
+1
+5 10
+2
+0 17 3 1
+0 18 18 10
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics rice earth uranus
+1
+5 11
+2
+0 17 0 2
+0 18 18 11
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics rice uranus vulcan
+1
+5 11
+2
+0 17 2 3
+0 18 18 11
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics rice vulcan jupiter
+1
+5 11
+2
+0 17 3 1
+0 18 18 11
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics scallop earth uranus
+1
+5 12
+2
+0 17 0 2
+0 18 18 12
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics scallop uranus vulcan
+1
+5 12
+2
+0 17 2 3
+0 18 18 12
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics scallop vulcan jupiter
+1
+5 12
+2
+0 17 3 1
+0 18 18 12
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics tomato earth uranus
+1
+5 13
+2
+0 17 0 2
+0 18 18 13
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics tomato uranus vulcan
+1
+5 13
+2
+0 17 2 3
+0 18 18 13
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics tomato vulcan jupiter
+1
+5 13
+2
+0 17 3 1
+0 18 18 13
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics tuna earth uranus
+1
+5 14
+2
+0 17 0 2
+0 18 18 14
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics tuna uranus vulcan
+1
+5 14
+2
+0 17 2 3
+0 18 18 14
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics tuna vulcan jupiter
+1
+5 14
+2
+0 17 3 1
+0 18 18 14
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics turkey earth uranus
+1
+5 15
+2
+0 17 0 2
+0 18 18 15
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics turkey uranus vulcan
+1
+5 15
+2
+0 17 2 3
+0 18 18 15
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics turkey vulcan jupiter
+1
+5 15
+2
+0 17 3 1
+0 18 18 15
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics wonderbread earth uranus
+1
+5 16
+2
+0 17 0 2
+0 18 18 16
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics wonderbread uranus vulcan
+1
+5 16
+2
+0 17 2 3
+0 18 18 16
+1
+end_operator
+begin_operator
+succumb abrasion aesthetics wonderbread vulcan jupiter
+1
+5 16
+2
+0 17 3 1
+0 18 18 16
+1
+end_operator
+begin_operator
+succumb abrasion excitement arugula earth uranus
+1
+7 0
+2
+0 18 19 0
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb abrasion excitement arugula uranus vulcan
+1
+7 0
+2
+0 18 19 0
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb abrasion excitement arugula vulcan jupiter
+1
+7 0
+2
+0 18 19 0
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb abrasion excitement baguette earth uranus
+1
+7 1
+2
+0 18 19 1
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb abrasion excitement baguette uranus vulcan
+1
+7 1
+2
+0 18 19 1
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb abrasion excitement baguette vulcan jupiter
+1
+7 1
+2
+0 18 19 1
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb abrasion excitement cantelope earth uranus
+1
+7 2
+2
+0 18 19 2
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb abrasion excitement cantelope uranus vulcan
+1
+7 2
+2
+0 18 19 2
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb abrasion excitement cantelope vulcan jupiter
+1
+7 2
+2
+0 18 19 2
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb abrasion excitement flounder earth uranus
+1
+7 3
+2
+0 18 19 3
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb abrasion excitement flounder uranus vulcan
+1
+7 3
+2
+0 18 19 3
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb abrasion excitement flounder vulcan jupiter
+1
+7 3
+2
+0 18 19 3
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb abrasion excitement hotdog earth uranus
+1
+7 4
+2
+0 18 19 4
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb abrasion excitement hotdog uranus vulcan
+1
+7 4
+2
+0 18 19 4
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb abrasion excitement hotdog vulcan jupiter
+1
+7 4
+2
+0 18 19 4
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb abrasion excitement lobster earth uranus
+1
+7 5
+2
+0 18 19 5
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb abrasion excitement lobster uranus vulcan
+1
+7 5
+2
+0 18 19 5
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb abrasion excitement lobster vulcan jupiter
+1
+7 5
+2
+0 18 19 5
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb abrasion excitement muffin earth uranus
+1
+7 6
+2
+0 18 19 6
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb abrasion excitement muffin uranus vulcan
+1
+7 6
+2
+0 18 19 6
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb abrasion excitement muffin vulcan jupiter
+1
+7 6
+2
+0 18 19 6
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb abrasion excitement okra earth uranus
+1
+7 7
+2
+0 18 19 7
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb abrasion excitement okra uranus vulcan
+1
+7 7
+2
+0 18 19 7
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb abrasion excitement okra vulcan jupiter
+1
+7 7
+2
+0 18 19 7
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb abrasion excitement pepper earth uranus
+1
+7 8
+2
+0 18 19 8
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb abrasion excitement pepper uranus vulcan
+1
+7 8
+2
+0 18 19 8
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb abrasion excitement pepper vulcan jupiter
+1
+7 8
+2
+0 18 19 8
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb abrasion excitement pistachio earth uranus
+1
+7 9
+2
+0 18 19 9
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb abrasion excitement pistachio uranus vulcan
+1
+7 9
+2
+0 18 19 9
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb abrasion excitement pistachio vulcan jupiter
+1
+7 9
+2
+0 18 19 9
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb abrasion excitement pork earth uranus
+1
+7 10
+2
+0 18 19 10
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb abrasion excitement pork uranus vulcan
+1
+7 10
+2
+0 18 19 10
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb abrasion excitement pork vulcan jupiter
+1
+7 10
+2
+0 18 19 10
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb abrasion excitement rice earth uranus
+1
+7 11
+2
+0 18 19 11
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb abrasion excitement rice uranus vulcan
+1
+7 11
+2
+0 18 19 11
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb abrasion excitement rice vulcan jupiter
+1
+7 11
+2
+0 18 19 11
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb abrasion excitement scallop earth uranus
+1
+7 12
+2
+0 18 19 12
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb abrasion excitement scallop uranus vulcan
+1
+7 12
+2
+0 18 19 12
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb abrasion excitement scallop vulcan jupiter
+1
+7 12
+2
+0 18 19 12
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb abrasion excitement tomato earth uranus
+1
+7 13
+2
+0 18 19 13
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb abrasion excitement tomato uranus vulcan
+1
+7 13
+2
+0 18 19 13
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb abrasion excitement tomato vulcan jupiter
+1
+7 13
+2
+0 18 19 13
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb abrasion excitement tuna earth uranus
+1
+7 14
+2
+0 18 19 14
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb abrasion excitement tuna uranus vulcan
+1
+7 14
+2
+0 18 19 14
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb abrasion excitement tuna vulcan jupiter
+1
+7 14
+2
+0 18 19 14
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb abrasion excitement turkey earth uranus
+1
+7 15
+2
+0 18 19 15
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb abrasion excitement turkey uranus vulcan
+1
+7 15
+2
+0 18 19 15
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb abrasion excitement turkey vulcan jupiter
+1
+7 15
+2
+0 18 19 15
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb abrasion excitement wonderbread earth uranus
+1
+7 16
+2
+0 18 19 16
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb abrasion excitement wonderbread uranus vulcan
+1
+7 16
+2
+0 18 19 16
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb abrasion excitement wonderbread vulcan jupiter
+1
+7 16
+2
+0 18 19 16
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb abrasion learning arugula earth uranus
+1
+8 0
+2
+0 18 20 0
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb abrasion learning arugula uranus vulcan
+1
+8 0
+2
+0 18 20 0
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb abrasion learning arugula vulcan jupiter
+1
+8 0
+2
+0 18 20 0
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb abrasion learning baguette earth uranus
+1
+8 1
+2
+0 18 20 1
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb abrasion learning baguette uranus vulcan
+1
+8 1
+2
+0 18 20 1
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb abrasion learning baguette vulcan jupiter
+1
+8 1
+2
+0 18 20 1
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb abrasion learning cantelope earth uranus
+1
+8 2
+2
+0 18 20 2
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb abrasion learning cantelope uranus vulcan
+1
+8 2
+2
+0 18 20 2
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb abrasion learning cantelope vulcan jupiter
+1
+8 2
+2
+0 18 20 2
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb abrasion learning flounder earth uranus
+1
+8 3
+2
+0 18 20 3
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb abrasion learning flounder uranus vulcan
+1
+8 3
+2
+0 18 20 3
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb abrasion learning flounder vulcan jupiter
+1
+8 3
+2
+0 18 20 3
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb abrasion learning hotdog earth uranus
+1
+8 4
+2
+0 18 20 4
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb abrasion learning hotdog uranus vulcan
+1
+8 4
+2
+0 18 20 4
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb abrasion learning hotdog vulcan jupiter
+1
+8 4
+2
+0 18 20 4
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb abrasion learning lobster earth uranus
+1
+8 5
+2
+0 18 20 5
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb abrasion learning lobster uranus vulcan
+1
+8 5
+2
+0 18 20 5
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb abrasion learning lobster vulcan jupiter
+1
+8 5
+2
+0 18 20 5
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb abrasion learning muffin earth uranus
+1
+8 6
+2
+0 18 20 6
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb abrasion learning muffin uranus vulcan
+1
+8 6
+2
+0 18 20 6
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb abrasion learning muffin vulcan jupiter
+1
+8 6
+2
+0 18 20 6
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb abrasion learning okra earth uranus
+1
+8 7
+2
+0 18 20 7
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb abrasion learning okra uranus vulcan
+1
+8 7
+2
+0 18 20 7
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb abrasion learning okra vulcan jupiter
+1
+8 7
+2
+0 18 20 7
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb abrasion learning pepper earth uranus
+1
+8 8
+2
+0 18 20 8
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb abrasion learning pepper uranus vulcan
+1
+8 8
+2
+0 18 20 8
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb abrasion learning pepper vulcan jupiter
+1
+8 8
+2
+0 18 20 8
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb abrasion learning pistachio earth uranus
+1
+8 9
+2
+0 18 20 9
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb abrasion learning pistachio uranus vulcan
+1
+8 9
+2
+0 18 20 9
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb abrasion learning pistachio vulcan jupiter
+1
+8 9
+2
+0 18 20 9
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb abrasion learning pork earth uranus
+1
+8 10
+2
+0 18 20 10
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb abrasion learning pork uranus vulcan
+1
+8 10
+2
+0 18 20 10
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb abrasion learning pork vulcan jupiter
+1
+8 10
+2
+0 18 20 10
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb abrasion learning rice earth uranus
+1
+8 11
+2
+0 18 20 11
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb abrasion learning rice uranus vulcan
+1
+8 11
+2
+0 18 20 11
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb abrasion learning rice vulcan jupiter
+1
+8 11
+2
+0 18 20 11
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb abrasion learning scallop earth uranus
+1
+8 12
+2
+0 18 20 12
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb abrasion learning scallop uranus vulcan
+1
+8 12
+2
+0 18 20 12
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb abrasion learning scallop vulcan jupiter
+1
+8 12
+2
+0 18 20 12
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb abrasion learning tomato earth uranus
+1
+8 13
+2
+0 18 20 13
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb abrasion learning tomato uranus vulcan
+1
+8 13
+2
+0 18 20 13
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb abrasion learning tomato vulcan jupiter
+1
+8 13
+2
+0 18 20 13
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb abrasion learning tuna earth uranus
+1
+8 14
+2
+0 18 20 14
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb abrasion learning tuna uranus vulcan
+1
+8 14
+2
+0 18 20 14
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb abrasion learning tuna vulcan jupiter
+1
+8 14
+2
+0 18 20 14
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb abrasion learning turkey earth uranus
+1
+8 15
+2
+0 18 20 15
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb abrasion learning turkey uranus vulcan
+1
+8 15
+2
+0 18 20 15
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb abrasion learning turkey vulcan jupiter
+1
+8 15
+2
+0 18 20 15
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb abrasion learning wonderbread earth uranus
+1
+8 16
+2
+0 18 20 16
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb abrasion learning wonderbread uranus vulcan
+1
+8 16
+2
+0 18 20 16
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb abrasion learning wonderbread vulcan jupiter
+1
+8 16
+2
+0 18 20 16
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb abrasion love arugula earth uranus
+1
+10 0
+2
+0 18 21 0
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb abrasion love arugula uranus vulcan
+1
+10 0
+2
+0 18 21 0
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb abrasion love arugula vulcan jupiter
+1
+10 0
+2
+0 18 21 0
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb abrasion love baguette earth uranus
+1
+10 1
+2
+0 18 21 1
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb abrasion love baguette uranus vulcan
+1
+10 1
+2
+0 18 21 1
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb abrasion love baguette vulcan jupiter
+1
+10 1
+2
+0 18 21 1
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb abrasion love cantelope earth uranus
+1
+10 2
+2
+0 18 21 2
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb abrasion love cantelope uranus vulcan
+1
+10 2
+2
+0 18 21 2
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb abrasion love cantelope vulcan jupiter
+1
+10 2
+2
+0 18 21 2
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb abrasion love flounder earth uranus
+1
+10 3
+2
+0 18 21 3
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb abrasion love flounder uranus vulcan
+1
+10 3
+2
+0 18 21 3
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb abrasion love flounder vulcan jupiter
+1
+10 3
+2
+0 18 21 3
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb abrasion love hotdog earth uranus
+1
+10 4
+2
+0 18 21 4
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb abrasion love hotdog uranus vulcan
+1
+10 4
+2
+0 18 21 4
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb abrasion love hotdog vulcan jupiter
+1
+10 4
+2
+0 18 21 4
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb abrasion love lobster earth uranus
+1
+10 5
+2
+0 18 21 5
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb abrasion love lobster uranus vulcan
+1
+10 5
+2
+0 18 21 5
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb abrasion love lobster vulcan jupiter
+1
+10 5
+2
+0 18 21 5
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb abrasion love muffin earth uranus
+1
+10 6
+2
+0 18 21 6
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb abrasion love muffin uranus vulcan
+1
+10 6
+2
+0 18 21 6
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb abrasion love muffin vulcan jupiter
+1
+10 6
+2
+0 18 21 6
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb abrasion love okra earth uranus
+1
+10 7
+2
+0 18 21 7
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb abrasion love okra uranus vulcan
+1
+10 7
+2
+0 18 21 7
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb abrasion love okra vulcan jupiter
+1
+10 7
+2
+0 18 21 7
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb abrasion love pepper earth uranus
+1
+10 8
+2
+0 18 21 8
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb abrasion love pepper uranus vulcan
+1
+10 8
+2
+0 18 21 8
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb abrasion love pepper vulcan jupiter
+1
+10 8
+2
+0 18 21 8
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb abrasion love pistachio earth uranus
+1
+10 9
+2
+0 18 21 9
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb abrasion love pistachio uranus vulcan
+1
+10 9
+2
+0 18 21 9
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb abrasion love pistachio vulcan jupiter
+1
+10 9
+2
+0 18 21 9
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb abrasion love pork earth uranus
+1
+10 10
+2
+0 18 21 10
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb abrasion love pork uranus vulcan
+1
+10 10
+2
+0 18 21 10
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb abrasion love pork vulcan jupiter
+1
+10 10
+2
+0 18 21 10
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb abrasion love rice earth uranus
+1
+10 11
+2
+0 18 21 11
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb abrasion love rice uranus vulcan
+1
+10 11
+2
+0 18 21 11
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb abrasion love rice vulcan jupiter
+1
+10 11
+2
+0 18 21 11
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb abrasion love scallop earth uranus
+1
+10 12
+2
+0 18 21 12
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb abrasion love scallop uranus vulcan
+1
+10 12
+2
+0 18 21 12
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb abrasion love scallop vulcan jupiter
+1
+10 12
+2
+0 18 21 12
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb abrasion love tomato earth uranus
+1
+10 13
+2
+0 18 21 13
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb abrasion love tomato uranus vulcan
+1
+10 13
+2
+0 18 21 13
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb abrasion love tomato vulcan jupiter
+1
+10 13
+2
+0 18 21 13
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb abrasion love tuna earth uranus
+1
+10 14
+2
+0 18 21 14
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb abrasion love tuna uranus vulcan
+1
+10 14
+2
+0 18 21 14
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb abrasion love tuna vulcan jupiter
+1
+10 14
+2
+0 18 21 14
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb abrasion love turkey earth uranus
+1
+10 15
+2
+0 18 21 15
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb abrasion love turkey uranus vulcan
+1
+10 15
+2
+0 18 21 15
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb abrasion love turkey vulcan jupiter
+1
+10 15
+2
+0 18 21 15
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb abrasion love wonderbread earth uranus
+1
+10 16
+2
+0 18 21 16
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb abrasion love wonderbread uranus vulcan
+1
+10 16
+2
+0 18 21 16
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb abrasion love wonderbread vulcan jupiter
+1
+10 16
+2
+0 18 21 16
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb abrasion lubricity arugula earth uranus
+0
+2
+0 14 0 2
+0 18 22 0
+1
+end_operator
+begin_operator
+succumb abrasion lubricity arugula uranus vulcan
+0
+2
+0 14 2 3
+0 18 22 0
+1
+end_operator
+begin_operator
+succumb abrasion lubricity arugula vulcan jupiter
+0
+2
+0 14 3 1
+0 18 22 0
+1
+end_operator
+begin_operator
+succumb abrasion rest arugula earth uranus
+1
+11 0
+2
+0 18 23 0
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb abrasion rest arugula uranus vulcan
+1
+11 0
+2
+0 18 23 0
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb abrasion rest arugula vulcan jupiter
+1
+11 0
+2
+0 18 23 0
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb abrasion rest baguette earth uranus
+1
+11 1
+2
+0 18 23 1
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb abrasion rest baguette uranus vulcan
+1
+11 1
+2
+0 18 23 1
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb abrasion rest baguette vulcan jupiter
+1
+11 1
+2
+0 18 23 1
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb abrasion rest cantelope earth uranus
+1
+11 2
+2
+0 18 23 2
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb abrasion rest cantelope uranus vulcan
+1
+11 2
+2
+0 18 23 2
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb abrasion rest cantelope vulcan jupiter
+1
+11 2
+2
+0 18 23 2
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb abrasion rest flounder earth uranus
+1
+11 3
+2
+0 18 23 3
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb abrasion rest flounder uranus vulcan
+1
+11 3
+2
+0 18 23 3
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb abrasion rest flounder vulcan jupiter
+1
+11 3
+2
+0 18 23 3
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb abrasion rest hotdog earth uranus
+1
+11 4
+2
+0 18 23 4
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb abrasion rest hotdog uranus vulcan
+1
+11 4
+2
+0 18 23 4
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb abrasion rest hotdog vulcan jupiter
+1
+11 4
+2
+0 18 23 4
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb abrasion rest lobster earth uranus
+1
+11 5
+2
+0 18 23 5
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb abrasion rest lobster uranus vulcan
+1
+11 5
+2
+0 18 23 5
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb abrasion rest lobster vulcan jupiter
+1
+11 5
+2
+0 18 23 5
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb abrasion rest muffin earth uranus
+1
+11 6
+2
+0 18 23 6
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb abrasion rest muffin uranus vulcan
+1
+11 6
+2
+0 18 23 6
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb abrasion rest muffin vulcan jupiter
+1
+11 6
+2
+0 18 23 6
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb abrasion rest okra earth uranus
+1
+11 7
+2
+0 18 23 7
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb abrasion rest okra uranus vulcan
+1
+11 7
+2
+0 18 23 7
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb abrasion rest okra vulcan jupiter
+1
+11 7
+2
+0 18 23 7
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb abrasion rest pepper earth uranus
+1
+11 8
+2
+0 18 23 8
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb abrasion rest pepper uranus vulcan
+1
+11 8
+2
+0 18 23 8
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb abrasion rest pepper vulcan jupiter
+1
+11 8
+2
+0 18 23 8
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb abrasion rest pistachio earth uranus
+1
+11 9
+2
+0 18 23 9
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb abrasion rest pistachio uranus vulcan
+1
+11 9
+2
+0 18 23 9
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb abrasion rest pistachio vulcan jupiter
+1
+11 9
+2
+0 18 23 9
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb abrasion rest pork earth uranus
+1
+11 10
+2
+0 18 23 10
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb abrasion rest pork uranus vulcan
+1
+11 10
+2
+0 18 23 10
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb abrasion rest pork vulcan jupiter
+1
+11 10
+2
+0 18 23 10
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb abrasion rest rice earth uranus
+1
+11 11
+2
+0 18 23 11
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb abrasion rest rice uranus vulcan
+1
+11 11
+2
+0 18 23 11
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb abrasion rest rice vulcan jupiter
+1
+11 11
+2
+0 18 23 11
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb abrasion rest scallop earth uranus
+1
+11 12
+2
+0 18 23 12
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb abrasion rest scallop uranus vulcan
+1
+11 12
+2
+0 18 23 12
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb abrasion rest scallop vulcan jupiter
+1
+11 12
+2
+0 18 23 12
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb abrasion rest tomato earth uranus
+1
+11 13
+2
+0 18 23 13
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb abrasion rest tomato uranus vulcan
+1
+11 13
+2
+0 18 23 13
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb abrasion rest tomato vulcan jupiter
+1
+11 13
+2
+0 18 23 13
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb abrasion rest tuna earth uranus
+1
+11 14
+2
+0 18 23 14
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb abrasion rest tuna uranus vulcan
+1
+11 14
+2
+0 18 23 14
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb abrasion rest tuna vulcan jupiter
+1
+11 14
+2
+0 18 23 14
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb abrasion rest turkey earth uranus
+1
+11 15
+2
+0 18 23 15
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb abrasion rest turkey uranus vulcan
+1
+11 15
+2
+0 18 23 15
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb abrasion rest turkey vulcan jupiter
+1
+11 15
+2
+0 18 23 15
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb abrasion rest wonderbread earth uranus
+1
+11 16
+2
+0 18 23 16
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb abrasion rest wonderbread uranus vulcan
+1
+11 16
+2
+0 18 23 16
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb abrasion rest wonderbread vulcan jupiter
+1
+11 16
+2
+0 18 23 16
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb abrasion stimulation muffin earth uranus
+0
+2
+0 15 0 2
+0 18 24 6
+1
+end_operator
+begin_operator
+succumb abrasion stimulation muffin uranus vulcan
+0
+2
+0 15 2 3
+0 18 24 6
+1
+end_operator
+begin_operator
+succumb abrasion stimulation muffin vulcan jupiter
+0
+2
+0 15 3 1
+0 18 24 6
+1
+end_operator
+begin_operator
+succumb abrasion triumph hotdog earth uranus
+0
+2
+0 16 0 2
+0 18 25 4
+1
+end_operator
+begin_operator
+succumb abrasion triumph hotdog uranus vulcan
+0
+2
+0 16 2 3
+0 18 25 4
+1
+end_operator
+begin_operator
+succumb abrasion triumph hotdog vulcan jupiter
+0
+2
+0 16 3 1
+0 18 25 4
+1
+end_operator
+begin_operator
+succumb anger achievement rice earth uranus
+0
+2
+0 13 0 2
+0 19 17 11
+1
+end_operator
+begin_operator
+succumb anger achievement rice uranus vulcan
+0
+2
+0 13 2 3
+0 19 17 11
+1
+end_operator
+begin_operator
+succumb anger achievement rice vulcan jupiter
+0
+2
+0 13 3 1
+0 19 17 11
+1
+end_operator
+begin_operator
+succumb anger aesthetics arugula earth uranus
+1
+5 0
+2
+0 17 0 2
+0 19 18 0
+1
+end_operator
+begin_operator
+succumb anger aesthetics arugula uranus vulcan
+1
+5 0
+2
+0 17 2 3
+0 19 18 0
+1
+end_operator
+begin_operator
+succumb anger aesthetics arugula vulcan jupiter
+1
+5 0
+2
+0 17 3 1
+0 19 18 0
+1
+end_operator
+begin_operator
+succumb anger aesthetics baguette earth uranus
+1
+5 1
+2
+0 17 0 2
+0 19 18 1
+1
+end_operator
+begin_operator
+succumb anger aesthetics baguette uranus vulcan
+1
+5 1
+2
+0 17 2 3
+0 19 18 1
+1
+end_operator
+begin_operator
+succumb anger aesthetics baguette vulcan jupiter
+1
+5 1
+2
+0 17 3 1
+0 19 18 1
+1
+end_operator
+begin_operator
+succumb anger aesthetics cantelope earth uranus
+1
+5 2
+2
+0 17 0 2
+0 19 18 2
+1
+end_operator
+begin_operator
+succumb anger aesthetics cantelope uranus vulcan
+1
+5 2
+2
+0 17 2 3
+0 19 18 2
+1
+end_operator
+begin_operator
+succumb anger aesthetics cantelope vulcan jupiter
+1
+5 2
+2
+0 17 3 1
+0 19 18 2
+1
+end_operator
+begin_operator
+succumb anger aesthetics flounder earth uranus
+1
+5 3
+2
+0 17 0 2
+0 19 18 3
+1
+end_operator
+begin_operator
+succumb anger aesthetics flounder uranus vulcan
+1
+5 3
+2
+0 17 2 3
+0 19 18 3
+1
+end_operator
+begin_operator
+succumb anger aesthetics flounder vulcan jupiter
+1
+5 3
+2
+0 17 3 1
+0 19 18 3
+1
+end_operator
+begin_operator
+succumb anger aesthetics hotdog earth uranus
+1
+5 4
+2
+0 17 0 2
+0 19 18 4
+1
+end_operator
+begin_operator
+succumb anger aesthetics hotdog uranus vulcan
+1
+5 4
+2
+0 17 2 3
+0 19 18 4
+1
+end_operator
+begin_operator
+succumb anger aesthetics hotdog vulcan jupiter
+1
+5 4
+2
+0 17 3 1
+0 19 18 4
+1
+end_operator
+begin_operator
+succumb anger aesthetics lobster earth uranus
+1
+5 5
+2
+0 17 0 2
+0 19 18 5
+1
+end_operator
+begin_operator
+succumb anger aesthetics lobster uranus vulcan
+1
+5 5
+2
+0 17 2 3
+0 19 18 5
+1
+end_operator
+begin_operator
+succumb anger aesthetics lobster vulcan jupiter
+1
+5 5
+2
+0 17 3 1
+0 19 18 5
+1
+end_operator
+begin_operator
+succumb anger aesthetics muffin earth uranus
+1
+5 6
+2
+0 17 0 2
+0 19 18 6
+1
+end_operator
+begin_operator
+succumb anger aesthetics muffin uranus vulcan
+1
+5 6
+2
+0 17 2 3
+0 19 18 6
+1
+end_operator
+begin_operator
+succumb anger aesthetics muffin vulcan jupiter
+1
+5 6
+2
+0 17 3 1
+0 19 18 6
+1
+end_operator
+begin_operator
+succumb anger aesthetics okra earth uranus
+1
+5 7
+2
+0 17 0 2
+0 19 18 7
+1
+end_operator
+begin_operator
+succumb anger aesthetics okra uranus vulcan
+1
+5 7
+2
+0 17 2 3
+0 19 18 7
+1
+end_operator
+begin_operator
+succumb anger aesthetics okra vulcan jupiter
+1
+5 7
+2
+0 17 3 1
+0 19 18 7
+1
+end_operator
+begin_operator
+succumb anger aesthetics pepper earth uranus
+1
+5 8
+2
+0 17 0 2
+0 19 18 8
+1
+end_operator
+begin_operator
+succumb anger aesthetics pepper uranus vulcan
+1
+5 8
+2
+0 17 2 3
+0 19 18 8
+1
+end_operator
+begin_operator
+succumb anger aesthetics pepper vulcan jupiter
+1
+5 8
+2
+0 17 3 1
+0 19 18 8
+1
+end_operator
+begin_operator
+succumb anger aesthetics pistachio earth uranus
+1
+5 9
+2
+0 17 0 2
+0 19 18 9
+1
+end_operator
+begin_operator
+succumb anger aesthetics pistachio uranus vulcan
+1
+5 9
+2
+0 17 2 3
+0 19 18 9
+1
+end_operator
+begin_operator
+succumb anger aesthetics pistachio vulcan jupiter
+1
+5 9
+2
+0 17 3 1
+0 19 18 9
+1
+end_operator
+begin_operator
+succumb anger aesthetics pork earth uranus
+1
+5 10
+2
+0 17 0 2
+0 19 18 10
+1
+end_operator
+begin_operator
+succumb anger aesthetics pork uranus vulcan
+1
+5 10
+2
+0 17 2 3
+0 19 18 10
+1
+end_operator
+begin_operator
+succumb anger aesthetics pork vulcan jupiter
+1
+5 10
+2
+0 17 3 1
+0 19 18 10
+1
+end_operator
+begin_operator
+succumb anger aesthetics rice earth uranus
+1
+5 11
+2
+0 17 0 2
+0 19 18 11
+1
+end_operator
+begin_operator
+succumb anger aesthetics rice uranus vulcan
+1
+5 11
+2
+0 17 2 3
+0 19 18 11
+1
+end_operator
+begin_operator
+succumb anger aesthetics rice vulcan jupiter
+1
+5 11
+2
+0 17 3 1
+0 19 18 11
+1
+end_operator
+begin_operator
+succumb anger aesthetics scallop earth uranus
+1
+5 12
+2
+0 17 0 2
+0 19 18 12
+1
+end_operator
+begin_operator
+succumb anger aesthetics scallop uranus vulcan
+1
+5 12
+2
+0 17 2 3
+0 19 18 12
+1
+end_operator
+begin_operator
+succumb anger aesthetics scallop vulcan jupiter
+1
+5 12
+2
+0 17 3 1
+0 19 18 12
+1
+end_operator
+begin_operator
+succumb anger aesthetics tomato earth uranus
+1
+5 13
+2
+0 17 0 2
+0 19 18 13
+1
+end_operator
+begin_operator
+succumb anger aesthetics tomato uranus vulcan
+1
+5 13
+2
+0 17 2 3
+0 19 18 13
+1
+end_operator
+begin_operator
+succumb anger aesthetics tomato vulcan jupiter
+1
+5 13
+2
+0 17 3 1
+0 19 18 13
+1
+end_operator
+begin_operator
+succumb anger aesthetics tuna earth uranus
+1
+5 14
+2
+0 17 0 2
+0 19 18 14
+1
+end_operator
+begin_operator
+succumb anger aesthetics tuna uranus vulcan
+1
+5 14
+2
+0 17 2 3
+0 19 18 14
+1
+end_operator
+begin_operator
+succumb anger aesthetics tuna vulcan jupiter
+1
+5 14
+2
+0 17 3 1
+0 19 18 14
+1
+end_operator
+begin_operator
+succumb anger aesthetics turkey earth uranus
+1
+5 15
+2
+0 17 0 2
+0 19 18 15
+1
+end_operator
+begin_operator
+succumb anger aesthetics turkey uranus vulcan
+1
+5 15
+2
+0 17 2 3
+0 19 18 15
+1
+end_operator
+begin_operator
+succumb anger aesthetics turkey vulcan jupiter
+1
+5 15
+2
+0 17 3 1
+0 19 18 15
+1
+end_operator
+begin_operator
+succumb anger aesthetics wonderbread earth uranus
+1
+5 16
+2
+0 17 0 2
+0 19 18 16
+1
+end_operator
+begin_operator
+succumb anger aesthetics wonderbread uranus vulcan
+1
+5 16
+2
+0 17 2 3
+0 19 18 16
+1
+end_operator
+begin_operator
+succumb anger aesthetics wonderbread vulcan jupiter
+1
+5 16
+2
+0 17 3 1
+0 19 18 16
+1
+end_operator
+begin_operator
+succumb anger excitement arugula earth uranus
+1
+7 0
+2
+0 19 19 0
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb anger excitement arugula uranus vulcan
+1
+7 0
+2
+0 19 19 0
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb anger excitement arugula vulcan jupiter
+1
+7 0
+2
+0 19 19 0
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb anger excitement baguette earth uranus
+1
+7 1
+2
+0 19 19 1
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb anger excitement baguette uranus vulcan
+1
+7 1
+2
+0 19 19 1
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb anger excitement baguette vulcan jupiter
+1
+7 1
+2
+0 19 19 1
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb anger excitement cantelope earth uranus
+1
+7 2
+2
+0 19 19 2
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb anger excitement cantelope uranus vulcan
+1
+7 2
+2
+0 19 19 2
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb anger excitement cantelope vulcan jupiter
+1
+7 2
+2
+0 19 19 2
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb anger excitement flounder earth uranus
+1
+7 3
+2
+0 19 19 3
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb anger excitement flounder uranus vulcan
+1
+7 3
+2
+0 19 19 3
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb anger excitement flounder vulcan jupiter
+1
+7 3
+2
+0 19 19 3
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb anger excitement hotdog earth uranus
+1
+7 4
+2
+0 19 19 4
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb anger excitement hotdog uranus vulcan
+1
+7 4
+2
+0 19 19 4
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb anger excitement hotdog vulcan jupiter
+1
+7 4
+2
+0 19 19 4
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb anger excitement lobster earth uranus
+1
+7 5
+2
+0 19 19 5
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb anger excitement lobster uranus vulcan
+1
+7 5
+2
+0 19 19 5
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb anger excitement lobster vulcan jupiter
+1
+7 5
+2
+0 19 19 5
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb anger excitement muffin earth uranus
+1
+7 6
+2
+0 19 19 6
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb anger excitement muffin uranus vulcan
+1
+7 6
+2
+0 19 19 6
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb anger excitement muffin vulcan jupiter
+1
+7 6
+2
+0 19 19 6
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb anger excitement okra earth uranus
+1
+7 7
+2
+0 19 19 7
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb anger excitement okra uranus vulcan
+1
+7 7
+2
+0 19 19 7
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb anger excitement okra vulcan jupiter
+1
+7 7
+2
+0 19 19 7
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb anger excitement pepper earth uranus
+1
+7 8
+2
+0 19 19 8
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb anger excitement pepper uranus vulcan
+1
+7 8
+2
+0 19 19 8
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb anger excitement pepper vulcan jupiter
+1
+7 8
+2
+0 19 19 8
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb anger excitement pistachio earth uranus
+1
+7 9
+2
+0 19 19 9
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb anger excitement pistachio uranus vulcan
+1
+7 9
+2
+0 19 19 9
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb anger excitement pistachio vulcan jupiter
+1
+7 9
+2
+0 19 19 9
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb anger excitement pork earth uranus
+1
+7 10
+2
+0 19 19 10
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb anger excitement pork uranus vulcan
+1
+7 10
+2
+0 19 19 10
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb anger excitement pork vulcan jupiter
+1
+7 10
+2
+0 19 19 10
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb anger excitement rice earth uranus
+1
+7 11
+2
+0 19 19 11
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb anger excitement rice uranus vulcan
+1
+7 11
+2
+0 19 19 11
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb anger excitement rice vulcan jupiter
+1
+7 11
+2
+0 19 19 11
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb anger excitement scallop earth uranus
+1
+7 12
+2
+0 19 19 12
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb anger excitement scallop uranus vulcan
+1
+7 12
+2
+0 19 19 12
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb anger excitement scallop vulcan jupiter
+1
+7 12
+2
+0 19 19 12
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb anger excitement tomato earth uranus
+1
+7 13
+2
+0 19 19 13
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb anger excitement tomato uranus vulcan
+1
+7 13
+2
+0 19 19 13
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb anger excitement tomato vulcan jupiter
+1
+7 13
+2
+0 19 19 13
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb anger excitement tuna earth uranus
+1
+7 14
+2
+0 19 19 14
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb anger excitement tuna uranus vulcan
+1
+7 14
+2
+0 19 19 14
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb anger excitement tuna vulcan jupiter
+1
+7 14
+2
+0 19 19 14
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb anger excitement turkey earth uranus
+1
+7 15
+2
+0 19 19 15
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb anger excitement turkey uranus vulcan
+1
+7 15
+2
+0 19 19 15
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb anger excitement turkey vulcan jupiter
+1
+7 15
+2
+0 19 19 15
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb anger excitement wonderbread earth uranus
+1
+7 16
+2
+0 19 19 16
+0 20 0 2
+1
+end_operator
+begin_operator
+succumb anger excitement wonderbread uranus vulcan
+1
+7 16
+2
+0 19 19 16
+0 20 2 3
+1
+end_operator
+begin_operator
+succumb anger excitement wonderbread vulcan jupiter
+1
+7 16
+2
+0 19 19 16
+0 20 3 1
+1
+end_operator
+begin_operator
+succumb anger learning arugula earth uranus
+1
+8 0
+2
+0 19 20 0
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb anger learning arugula uranus vulcan
+1
+8 0
+2
+0 19 20 0
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb anger learning arugula vulcan jupiter
+1
+8 0
+2
+0 19 20 0
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb anger learning baguette earth uranus
+1
+8 1
+2
+0 19 20 1
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb anger learning baguette uranus vulcan
+1
+8 1
+2
+0 19 20 1
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb anger learning baguette vulcan jupiter
+1
+8 1
+2
+0 19 20 1
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb anger learning cantelope earth uranus
+1
+8 2
+2
+0 19 20 2
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb anger learning cantelope uranus vulcan
+1
+8 2
+2
+0 19 20 2
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb anger learning cantelope vulcan jupiter
+1
+8 2
+2
+0 19 20 2
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb anger learning flounder earth uranus
+1
+8 3
+2
+0 19 20 3
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb anger learning flounder uranus vulcan
+1
+8 3
+2
+0 19 20 3
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb anger learning flounder vulcan jupiter
+1
+8 3
+2
+0 19 20 3
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb anger learning hotdog earth uranus
+1
+8 4
+2
+0 19 20 4
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb anger learning hotdog uranus vulcan
+1
+8 4
+2
+0 19 20 4
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb anger learning hotdog vulcan jupiter
+1
+8 4
+2
+0 19 20 4
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb anger learning lobster earth uranus
+1
+8 5
+2
+0 19 20 5
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb anger learning lobster uranus vulcan
+1
+8 5
+2
+0 19 20 5
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb anger learning lobster vulcan jupiter
+1
+8 5
+2
+0 19 20 5
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb anger learning muffin earth uranus
+1
+8 6
+2
+0 19 20 6
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb anger learning muffin uranus vulcan
+1
+8 6
+2
+0 19 20 6
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb anger learning muffin vulcan jupiter
+1
+8 6
+2
+0 19 20 6
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb anger learning okra earth uranus
+1
+8 7
+2
+0 19 20 7
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb anger learning okra uranus vulcan
+1
+8 7
+2
+0 19 20 7
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb anger learning okra vulcan jupiter
+1
+8 7
+2
+0 19 20 7
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb anger learning pepper earth uranus
+1
+8 8
+2
+0 19 20 8
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb anger learning pepper uranus vulcan
+1
+8 8
+2
+0 19 20 8
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb anger learning pepper vulcan jupiter
+1
+8 8
+2
+0 19 20 8
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb anger learning pistachio earth uranus
+1
+8 9
+2
+0 19 20 9
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb anger learning pistachio uranus vulcan
+1
+8 9
+2
+0 19 20 9
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb anger learning pistachio vulcan jupiter
+1
+8 9
+2
+0 19 20 9
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb anger learning pork earth uranus
+1
+8 10
+2
+0 19 20 10
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb anger learning pork uranus vulcan
+1
+8 10
+2
+0 19 20 10
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb anger learning pork vulcan jupiter
+1
+8 10
+2
+0 19 20 10
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb anger learning rice earth uranus
+1
+8 11
+2
+0 19 20 11
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb anger learning rice uranus vulcan
+1
+8 11
+2
+0 19 20 11
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb anger learning rice vulcan jupiter
+1
+8 11
+2
+0 19 20 11
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb anger learning scallop earth uranus
+1
+8 12
+2
+0 19 20 12
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb anger learning scallop uranus vulcan
+1
+8 12
+2
+0 19 20 12
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb anger learning scallop vulcan jupiter
+1
+8 12
+2
+0 19 20 12
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb anger learning tomato earth uranus
+1
+8 13
+2
+0 19 20 13
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb anger learning tomato uranus vulcan
+1
+8 13
+2
+0 19 20 13
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb anger learning tomato vulcan jupiter
+1
+8 13
+2
+0 19 20 13
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb anger learning tuna earth uranus
+1
+8 14
+2
+0 19 20 14
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb anger learning tuna uranus vulcan
+1
+8 14
+2
+0 19 20 14
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb anger learning tuna vulcan jupiter
+1
+8 14
+2
+0 19 20 14
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb anger learning turkey earth uranus
+1
+8 15
+2
+0 19 20 15
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb anger learning turkey uranus vulcan
+1
+8 15
+2
+0 19 20 15
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb anger learning turkey vulcan jupiter
+1
+8 15
+2
+0 19 20 15
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb anger learning wonderbread earth uranus
+1
+8 16
+2
+0 19 20 16
+0 21 0 2
+1
+end_operator
+begin_operator
+succumb anger learning wonderbread uranus vulcan
+1
+8 16
+2
+0 19 20 16
+0 21 2 3
+1
+end_operator
+begin_operator
+succumb anger learning wonderbread vulcan jupiter
+1
+8 16
+2
+0 19 20 16
+0 21 3 1
+1
+end_operator
+begin_operator
+succumb anger love arugula earth uranus
+1
+10 0
+2
+0 19 21 0
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb anger love arugula uranus vulcan
+1
+10 0
+2
+0 19 21 0
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb anger love arugula vulcan jupiter
+1
+10 0
+2
+0 19 21 0
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb anger love baguette earth uranus
+1
+10 1
+2
+0 19 21 1
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb anger love baguette uranus vulcan
+1
+10 1
+2
+0 19 21 1
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb anger love baguette vulcan jupiter
+1
+10 1
+2
+0 19 21 1
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb anger love cantelope earth uranus
+1
+10 2
+2
+0 19 21 2
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb anger love cantelope uranus vulcan
+1
+10 2
+2
+0 19 21 2
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb anger love cantelope vulcan jupiter
+1
+10 2
+2
+0 19 21 2
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb anger love flounder earth uranus
+1
+10 3
+2
+0 19 21 3
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb anger love flounder uranus vulcan
+1
+10 3
+2
+0 19 21 3
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb anger love flounder vulcan jupiter
+1
+10 3
+2
+0 19 21 3
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb anger love hotdog earth uranus
+1
+10 4
+2
+0 19 21 4
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb anger love hotdog uranus vulcan
+1
+10 4
+2
+0 19 21 4
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb anger love hotdog vulcan jupiter
+1
+10 4
+2
+0 19 21 4
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb anger love lobster earth uranus
+1
+10 5
+2
+0 19 21 5
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb anger love lobster uranus vulcan
+1
+10 5
+2
+0 19 21 5
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb anger love lobster vulcan jupiter
+1
+10 5
+2
+0 19 21 5
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb anger love muffin earth uranus
+1
+10 6
+2
+0 19 21 6
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb anger love muffin uranus vulcan
+1
+10 6
+2
+0 19 21 6
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb anger love muffin vulcan jupiter
+1
+10 6
+2
+0 19 21 6
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb anger love okra earth uranus
+1
+10 7
+2
+0 19 21 7
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb anger love okra uranus vulcan
+1
+10 7
+2
+0 19 21 7
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb anger love okra vulcan jupiter
+1
+10 7
+2
+0 19 21 7
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb anger love pepper earth uranus
+1
+10 8
+2
+0 19 21 8
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb anger love pepper uranus vulcan
+1
+10 8
+2
+0 19 21 8
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb anger love pepper vulcan jupiter
+1
+10 8
+2
+0 19 21 8
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb anger love pistachio earth uranus
+1
+10 9
+2
+0 19 21 9
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb anger love pistachio uranus vulcan
+1
+10 9
+2
+0 19 21 9
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb anger love pistachio vulcan jupiter
+1
+10 9
+2
+0 19 21 9
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb anger love pork earth uranus
+1
+10 10
+2
+0 19 21 10
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb anger love pork uranus vulcan
+1
+10 10
+2
+0 19 21 10
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb anger love pork vulcan jupiter
+1
+10 10
+2
+0 19 21 10
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb anger love rice earth uranus
+1
+10 11
+2
+0 19 21 11
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb anger love rice uranus vulcan
+1
+10 11
+2
+0 19 21 11
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb anger love rice vulcan jupiter
+1
+10 11
+2
+0 19 21 11
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb anger love scallop earth uranus
+1
+10 12
+2
+0 19 21 12
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb anger love scallop uranus vulcan
+1
+10 12
+2
+0 19 21 12
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb anger love scallop vulcan jupiter
+1
+10 12
+2
+0 19 21 12
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb anger love tomato earth uranus
+1
+10 13
+2
+0 19 21 13
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb anger love tomato uranus vulcan
+1
+10 13
+2
+0 19 21 13
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb anger love tomato vulcan jupiter
+1
+10 13
+2
+0 19 21 13
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb anger love tuna earth uranus
+1
+10 14
+2
+0 19 21 14
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb anger love tuna uranus vulcan
+1
+10 14
+2
+0 19 21 14
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb anger love tuna vulcan jupiter
+1
+10 14
+2
+0 19 21 14
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb anger love turkey earth uranus
+1
+10 15
+2
+0 19 21 15
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb anger love turkey uranus vulcan
+1
+10 15
+2
+0 19 21 15
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb anger love turkey vulcan jupiter
+1
+10 15
+2
+0 19 21 15
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb anger love wonderbread earth uranus
+1
+10 16
+2
+0 19 21 16
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb anger love wonderbread uranus vulcan
+1
+10 16
+2
+0 19 21 16
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb anger love wonderbread vulcan jupiter
+1
+10 16
+2
+0 19 21 16
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb anger lubricity arugula earth uranus
+0
+2
+0 14 0 2
+0 19 22 0
+1
+end_operator
+begin_operator
+succumb anger lubricity arugula uranus vulcan
+0
+2
+0 14 2 3
+0 19 22 0
+1
+end_operator
+begin_operator
+succumb anger lubricity arugula vulcan jupiter
+0
+2
+0 14 3 1
+0 19 22 0
+1
+end_operator
+begin_operator
+succumb anger rest arugula earth uranus
+1
+11 0
+2
+0 19 23 0
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb anger rest arugula uranus vulcan
+1
+11 0
+2
+0 19 23 0
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb anger rest arugula vulcan jupiter
+1
+11 0
+2
+0 19 23 0
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb anger rest baguette earth uranus
+1
+11 1
+2
+0 19 23 1
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb anger rest baguette uranus vulcan
+1
+11 1
+2
+0 19 23 1
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb anger rest baguette vulcan jupiter
+1
+11 1
+2
+0 19 23 1
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb anger rest cantelope earth uranus
+1
+11 2
+2
+0 19 23 2
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb anger rest cantelope uranus vulcan
+1
+11 2
+2
+0 19 23 2
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb anger rest cantelope vulcan jupiter
+1
+11 2
+2
+0 19 23 2
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb anger rest flounder earth uranus
+1
+11 3
+2
+0 19 23 3
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb anger rest flounder uranus vulcan
+1
+11 3
+2
+0 19 23 3
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb anger rest flounder vulcan jupiter
+1
+11 3
+2
+0 19 23 3
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb anger rest hotdog earth uranus
+1
+11 4
+2
+0 19 23 4
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb anger rest hotdog uranus vulcan
+1
+11 4
+2
+0 19 23 4
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb anger rest hotdog vulcan jupiter
+1
+11 4
+2
+0 19 23 4
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb anger rest lobster earth uranus
+1
+11 5
+2
+0 19 23 5
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb anger rest lobster uranus vulcan
+1
+11 5
+2
+0 19 23 5
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb anger rest lobster vulcan jupiter
+1
+11 5
+2
+0 19 23 5
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb anger rest muffin earth uranus
+1
+11 6
+2
+0 19 23 6
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb anger rest muffin uranus vulcan
+1
+11 6
+2
+0 19 23 6
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb anger rest muffin vulcan jupiter
+1
+11 6
+2
+0 19 23 6
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb anger rest okra earth uranus
+1
+11 7
+2
+0 19 23 7
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb anger rest okra uranus vulcan
+1
+11 7
+2
+0 19 23 7
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb anger rest okra vulcan jupiter
+1
+11 7
+2
+0 19 23 7
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb anger rest pepper earth uranus
+1
+11 8
+2
+0 19 23 8
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb anger rest pepper uranus vulcan
+1
+11 8
+2
+0 19 23 8
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb anger rest pepper vulcan jupiter
+1
+11 8
+2
+0 19 23 8
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb anger rest pistachio earth uranus
+1
+11 9
+2
+0 19 23 9
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb anger rest pistachio uranus vulcan
+1
+11 9
+2
+0 19 23 9
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb anger rest pistachio vulcan jupiter
+1
+11 9
+2
+0 19 23 9
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb anger rest pork earth uranus
+1
+11 10
+2
+0 19 23 10
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb anger rest pork uranus vulcan
+1
+11 10
+2
+0 19 23 10
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb anger rest pork vulcan jupiter
+1
+11 10
+2
+0 19 23 10
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb anger rest rice earth uranus
+1
+11 11
+2
+0 19 23 11
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb anger rest rice uranus vulcan
+1
+11 11
+2
+0 19 23 11
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb anger rest rice vulcan jupiter
+1
+11 11
+2
+0 19 23 11
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb anger rest scallop earth uranus
+1
+11 12
+2
+0 19 23 12
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb anger rest scallop uranus vulcan
+1
+11 12
+2
+0 19 23 12
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb anger rest scallop vulcan jupiter
+1
+11 12
+2
+0 19 23 12
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb anger rest tomato earth uranus
+1
+11 13
+2
+0 19 23 13
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb anger rest tomato uranus vulcan
+1
+11 13
+2
+0 19 23 13
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb anger rest tomato vulcan jupiter
+1
+11 13
+2
+0 19 23 13
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb anger rest tuna earth uranus
+1
+11 14
+2
+0 19 23 14
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb anger rest tuna uranus vulcan
+1
+11 14
+2
+0 19 23 14
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb anger rest tuna vulcan jupiter
+1
+11 14
+2
+0 19 23 14
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb anger rest turkey earth uranus
+1
+11 15
+2
+0 19 23 15
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb anger rest turkey uranus vulcan
+1
+11 15
+2
+0 19 23 15
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb anger rest turkey vulcan jupiter
+1
+11 15
+2
+0 19 23 15
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb anger rest wonderbread earth uranus
+1
+11 16
+2
+0 19 23 16
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb anger rest wonderbread uranus vulcan
+1
+11 16
+2
+0 19 23 16
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb anger rest wonderbread vulcan jupiter
+1
+11 16
+2
+0 19 23 16
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb anger stimulation muffin earth uranus
+0
+2
+0 15 0 2
+0 19 24 6
+1
+end_operator
+begin_operator
+succumb anger stimulation muffin uranus vulcan
+0
+2
+0 15 2 3
+0 19 24 6
+1
+end_operator
+begin_operator
+succumb anger stimulation muffin vulcan jupiter
+0
+2
+0 15 3 1
+0 19 24 6
+1
+end_operator
+begin_operator
+succumb anger triumph hotdog earth uranus
+0
+2
+0 16 0 2
+0 19 25 4
+1
+end_operator
+begin_operator
+succumb anger triumph hotdog uranus vulcan
+0
+2
+0 16 2 3
+0 19 25 4
+1
+end_operator
+begin_operator
+succumb anger triumph hotdog vulcan jupiter
+0
+2
+0 16 3 1
+0 19 25 4
+1
+end_operator
+begin_operator
+succumb anxiety achievement rice earth uranus
+0
+2
+0 13 0 2
+0 26 17 11
+1
+end_operator
+begin_operator
+succumb anxiety achievement rice uranus vulcan
+0
+2
+0 13 2 3
+0 26 17 11
+1
+end_operator
+begin_operator
+succumb anxiety achievement rice vulcan jupiter
+0
+2
+0 13 3 1
+0 26 17 11
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics arugula earth uranus
+1
+5 0
+2
+0 17 0 2
+0 26 18 0
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics arugula uranus vulcan
+1
+5 0
+2
+0 17 2 3
+0 26 18 0
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics arugula vulcan jupiter
+1
+5 0
+2
+0 17 3 1
+0 26 18 0
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics baguette earth uranus
+1
+5 1
+2
+0 17 0 2
+0 26 18 1
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics baguette uranus vulcan
+1
+5 1
+2
+0 17 2 3
+0 26 18 1
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics baguette vulcan jupiter
+1
+5 1
+2
+0 17 3 1
+0 26 18 1
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics cantelope earth uranus
+1
+5 2
+2
+0 17 0 2
+0 26 18 2
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics cantelope uranus vulcan
+1
+5 2
+2
+0 17 2 3
+0 26 18 2
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics cantelope vulcan jupiter
+1
+5 2
+2
+0 17 3 1
+0 26 18 2
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics flounder earth uranus
+1
+5 3
+2
+0 17 0 2
+0 26 18 3
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics flounder uranus vulcan
+1
+5 3
+2
+0 17 2 3
+0 26 18 3
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics flounder vulcan jupiter
+1
+5 3
+2
+0 17 3 1
+0 26 18 3
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics hotdog earth uranus
+1
+5 4
+2
+0 17 0 2
+0 26 18 4
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics hotdog uranus vulcan
+1
+5 4
+2
+0 17 2 3
+0 26 18 4
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics hotdog vulcan jupiter
+1
+5 4
+2
+0 17 3 1
+0 26 18 4
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics lobster earth uranus
+1
+5 5
+2
+0 17 0 2
+0 26 18 5
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics lobster uranus vulcan
+1
+5 5
+2
+0 17 2 3
+0 26 18 5
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics lobster vulcan jupiter
+1
+5 5
+2
+0 17 3 1
+0 26 18 5
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics muffin earth uranus
+1
+5 6
+2
+0 17 0 2
+0 26 18 6
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics muffin uranus vulcan
+1
+5 6
+2
+0 17 2 3
+0 26 18 6
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics muffin vulcan jupiter
+1
+5 6
+2
+0 17 3 1
+0 26 18 6
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics okra earth uranus
+1
+5 7
+2
+0 17 0 2
+0 26 18 7
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics okra uranus vulcan
+1
+5 7
+2
+0 17 2 3
+0 26 18 7
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics okra vulcan jupiter
+1
+5 7
+2
+0 17 3 1
+0 26 18 7
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics pepper earth uranus
+1
+5 8
+2
+0 17 0 2
+0 26 18 8
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics pepper uranus vulcan
+1
+5 8
+2
+0 17 2 3
+0 26 18 8
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics pepper vulcan jupiter
+1
+5 8
+2
+0 17 3 1
+0 26 18 8
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics pistachio earth uranus
+1
+5 9
+2
+0 17 0 2
+0 26 18 9
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics pistachio uranus vulcan
+1
+5 9
+2
+0 17 2 3
+0 26 18 9
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics pistachio vulcan jupiter
+1
+5 9
+2
+0 17 3 1
+0 26 18 9
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics pork earth uranus
+1
+5 10
+2
+0 17 0 2
+0 26 18 10
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics pork uranus vulcan
+1
+5 10
+2
+0 17 2 3
+0 26 18 10
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics pork vulcan jupiter
+1
+5 10
+2
+0 17 3 1
+0 26 18 10
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics rice earth uranus
+1
+5 11
+2
+0 17 0 2
+0 26 18 11
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics rice uranus vulcan
+1
+5 11
+2
+0 17 2 3
+0 26 18 11
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics rice vulcan jupiter
+1
+5 11
+2
+0 17 3 1
+0 26 18 11
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics scallop earth uranus
+1
+5 12
+2
+0 17 0 2
+0 26 18 12
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics scallop uranus vulcan
+1
+5 12
+2
+0 17 2 3
+0 26 18 12
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics scallop vulcan jupiter
+1
+5 12
+2
+0 17 3 1
+0 26 18 12
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics tomato earth uranus
+1
+5 13
+2
+0 17 0 2
+0 26 18 13
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics tomato uranus vulcan
+1
+5 13
+2
+0 17 2 3
+0 26 18 13
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics tomato vulcan jupiter
+1
+5 13
+2
+0 17 3 1
+0 26 18 13
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics tuna earth uranus
+1
+5 14
+2
+0 17 0 2
+0 26 18 14
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics tuna uranus vulcan
+1
+5 14
+2
+0 17 2 3
+0 26 18 14
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics tuna vulcan jupiter
+1
+5 14
+2
+0 17 3 1
+0 26 18 14
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics turkey earth uranus
+1
+5 15
+2
+0 17 0 2
+0 26 18 15
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics turkey uranus vulcan
+1
+5 15
+2
+0 17 2 3
+0 26 18 15
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics turkey vulcan jupiter
+1
+5 15
+2
+0 17 3 1
+0 26 18 15
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics wonderbread earth uranus
+1
+5 16
+2
+0 17 0 2
+0 26 18 16
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics wonderbread uranus vulcan
+1
+5 16
+2
+0 17 2 3
+0 26 18 16
+1
+end_operator
+begin_operator
+succumb anxiety aesthetics wonderbread vulcan jupiter
+1
+5 16
+2
+0 17 3 1
+0 26 18 16
+1
+end_operator
+begin_operator
+succumb anxiety excitement arugula earth uranus
+1
+7 0
+2
+0 20 0 2
+0 26 19 0
+1
+end_operator
+begin_operator
+succumb anxiety excitement arugula uranus vulcan
+1
+7 0
+2
+0 20 2 3
+0 26 19 0
+1
+end_operator
+begin_operator
+succumb anxiety excitement arugula vulcan jupiter
+1
+7 0
+2
+0 20 3 1
+0 26 19 0
+1
+end_operator
+begin_operator
+succumb anxiety excitement baguette earth uranus
+1
+7 1
+2
+0 20 0 2
+0 26 19 1
+1
+end_operator
+begin_operator
+succumb anxiety excitement baguette uranus vulcan
+1
+7 1
+2
+0 20 2 3
+0 26 19 1
+1
+end_operator
+begin_operator
+succumb anxiety excitement baguette vulcan jupiter
+1
+7 1
+2
+0 20 3 1
+0 26 19 1
+1
+end_operator
+begin_operator
+succumb anxiety excitement cantelope earth uranus
+1
+7 2
+2
+0 20 0 2
+0 26 19 2
+1
+end_operator
+begin_operator
+succumb anxiety excitement cantelope uranus vulcan
+1
+7 2
+2
+0 20 2 3
+0 26 19 2
+1
+end_operator
+begin_operator
+succumb anxiety excitement cantelope vulcan jupiter
+1
+7 2
+2
+0 20 3 1
+0 26 19 2
+1
+end_operator
+begin_operator
+succumb anxiety excitement flounder earth uranus
+1
+7 3
+2
+0 20 0 2
+0 26 19 3
+1
+end_operator
+begin_operator
+succumb anxiety excitement flounder uranus vulcan
+1
+7 3
+2
+0 20 2 3
+0 26 19 3
+1
+end_operator
+begin_operator
+succumb anxiety excitement flounder vulcan jupiter
+1
+7 3
+2
+0 20 3 1
+0 26 19 3
+1
+end_operator
+begin_operator
+succumb anxiety excitement hotdog earth uranus
+1
+7 4
+2
+0 20 0 2
+0 26 19 4
+1
+end_operator
+begin_operator
+succumb anxiety excitement hotdog uranus vulcan
+1
+7 4
+2
+0 20 2 3
+0 26 19 4
+1
+end_operator
+begin_operator
+succumb anxiety excitement hotdog vulcan jupiter
+1
+7 4
+2
+0 20 3 1
+0 26 19 4
+1
+end_operator
+begin_operator
+succumb anxiety excitement lobster earth uranus
+1
+7 5
+2
+0 20 0 2
+0 26 19 5
+1
+end_operator
+begin_operator
+succumb anxiety excitement lobster uranus vulcan
+1
+7 5
+2
+0 20 2 3
+0 26 19 5
+1
+end_operator
+begin_operator
+succumb anxiety excitement lobster vulcan jupiter
+1
+7 5
+2
+0 20 3 1
+0 26 19 5
+1
+end_operator
+begin_operator
+succumb anxiety excitement muffin earth uranus
+1
+7 6
+2
+0 20 0 2
+0 26 19 6
+1
+end_operator
+begin_operator
+succumb anxiety excitement muffin uranus vulcan
+1
+7 6
+2
+0 20 2 3
+0 26 19 6
+1
+end_operator
+begin_operator
+succumb anxiety excitement muffin vulcan jupiter
+1
+7 6
+2
+0 20 3 1
+0 26 19 6
+1
+end_operator
+begin_operator
+succumb anxiety excitement okra earth uranus
+1
+7 7
+2
+0 20 0 2
+0 26 19 7
+1
+end_operator
+begin_operator
+succumb anxiety excitement okra uranus vulcan
+1
+7 7
+2
+0 20 2 3
+0 26 19 7
+1
+end_operator
+begin_operator
+succumb anxiety excitement okra vulcan jupiter
+1
+7 7
+2
+0 20 3 1
+0 26 19 7
+1
+end_operator
+begin_operator
+succumb anxiety excitement pepper earth uranus
+1
+7 8
+2
+0 20 0 2
+0 26 19 8
+1
+end_operator
+begin_operator
+succumb anxiety excitement pepper uranus vulcan
+1
+7 8
+2
+0 20 2 3
+0 26 19 8
+1
+end_operator
+begin_operator
+succumb anxiety excitement pepper vulcan jupiter
+1
+7 8
+2
+0 20 3 1
+0 26 19 8
+1
+end_operator
+begin_operator
+succumb anxiety excitement pistachio earth uranus
+1
+7 9
+2
+0 20 0 2
+0 26 19 9
+1
+end_operator
+begin_operator
+succumb anxiety excitement pistachio uranus vulcan
+1
+7 9
+2
+0 20 2 3
+0 26 19 9
+1
+end_operator
+begin_operator
+succumb anxiety excitement pistachio vulcan jupiter
+1
+7 9
+2
+0 20 3 1
+0 26 19 9
+1
+end_operator
+begin_operator
+succumb anxiety excitement pork earth uranus
+1
+7 10
+2
+0 20 0 2
+0 26 19 10
+1
+end_operator
+begin_operator
+succumb anxiety excitement pork uranus vulcan
+1
+7 10
+2
+0 20 2 3
+0 26 19 10
+1
+end_operator
+begin_operator
+succumb anxiety excitement pork vulcan jupiter
+1
+7 10
+2
+0 20 3 1
+0 26 19 10
+1
+end_operator
+begin_operator
+succumb anxiety excitement rice earth uranus
+1
+7 11
+2
+0 20 0 2
+0 26 19 11
+1
+end_operator
+begin_operator
+succumb anxiety excitement rice uranus vulcan
+1
+7 11
+2
+0 20 2 3
+0 26 19 11
+1
+end_operator
+begin_operator
+succumb anxiety excitement rice vulcan jupiter
+1
+7 11
+2
+0 20 3 1
+0 26 19 11
+1
+end_operator
+begin_operator
+succumb anxiety excitement scallop earth uranus
+1
+7 12
+2
+0 20 0 2
+0 26 19 12
+1
+end_operator
+begin_operator
+succumb anxiety excitement scallop uranus vulcan
+1
+7 12
+2
+0 20 2 3
+0 26 19 12
+1
+end_operator
+begin_operator
+succumb anxiety excitement scallop vulcan jupiter
+1
+7 12
+2
+0 20 3 1
+0 26 19 12
+1
+end_operator
+begin_operator
+succumb anxiety excitement tomato earth uranus
+1
+7 13
+2
+0 20 0 2
+0 26 19 13
+1
+end_operator
+begin_operator
+succumb anxiety excitement tomato uranus vulcan
+1
+7 13
+2
+0 20 2 3
+0 26 19 13
+1
+end_operator
+begin_operator
+succumb anxiety excitement tomato vulcan jupiter
+1
+7 13
+2
+0 20 3 1
+0 26 19 13
+1
+end_operator
+begin_operator
+succumb anxiety excitement tuna earth uranus
+1
+7 14
+2
+0 20 0 2
+0 26 19 14
+1
+end_operator
+begin_operator
+succumb anxiety excitement tuna uranus vulcan
+1
+7 14
+2
+0 20 2 3
+0 26 19 14
+1
+end_operator
+begin_operator
+succumb anxiety excitement tuna vulcan jupiter
+1
+7 14
+2
+0 20 3 1
+0 26 19 14
+1
+end_operator
+begin_operator
+succumb anxiety excitement turkey earth uranus
+1
+7 15
+2
+0 20 0 2
+0 26 19 15
+1
+end_operator
+begin_operator
+succumb anxiety excitement turkey uranus vulcan
+1
+7 15
+2
+0 20 2 3
+0 26 19 15
+1
+end_operator
+begin_operator
+succumb anxiety excitement turkey vulcan jupiter
+1
+7 15
+2
+0 20 3 1
+0 26 19 15
+1
+end_operator
+begin_operator
+succumb anxiety excitement wonderbread earth uranus
+1
+7 16
+2
+0 20 0 2
+0 26 19 16
+1
+end_operator
+begin_operator
+succumb anxiety excitement wonderbread uranus vulcan
+1
+7 16
+2
+0 20 2 3
+0 26 19 16
+1
+end_operator
+begin_operator
+succumb anxiety excitement wonderbread vulcan jupiter
+1
+7 16
+2
+0 20 3 1
+0 26 19 16
+1
+end_operator
+begin_operator
+succumb anxiety learning arugula earth uranus
+1
+8 0
+2
+0 21 0 2
+0 26 20 0
+1
+end_operator
+begin_operator
+succumb anxiety learning arugula uranus vulcan
+1
+8 0
+2
+0 21 2 3
+0 26 20 0
+1
+end_operator
+begin_operator
+succumb anxiety learning arugula vulcan jupiter
+1
+8 0
+2
+0 21 3 1
+0 26 20 0
+1
+end_operator
+begin_operator
+succumb anxiety learning baguette earth uranus
+1
+8 1
+2
+0 21 0 2
+0 26 20 1
+1
+end_operator
+begin_operator
+succumb anxiety learning baguette uranus vulcan
+1
+8 1
+2
+0 21 2 3
+0 26 20 1
+1
+end_operator
+begin_operator
+succumb anxiety learning baguette vulcan jupiter
+1
+8 1
+2
+0 21 3 1
+0 26 20 1
+1
+end_operator
+begin_operator
+succumb anxiety learning cantelope earth uranus
+1
+8 2
+2
+0 21 0 2
+0 26 20 2
+1
+end_operator
+begin_operator
+succumb anxiety learning cantelope uranus vulcan
+1
+8 2
+2
+0 21 2 3
+0 26 20 2
+1
+end_operator
+begin_operator
+succumb anxiety learning cantelope vulcan jupiter
+1
+8 2
+2
+0 21 3 1
+0 26 20 2
+1
+end_operator
+begin_operator
+succumb anxiety learning flounder earth uranus
+1
+8 3
+2
+0 21 0 2
+0 26 20 3
+1
+end_operator
+begin_operator
+succumb anxiety learning flounder uranus vulcan
+1
+8 3
+2
+0 21 2 3
+0 26 20 3
+1
+end_operator
+begin_operator
+succumb anxiety learning flounder vulcan jupiter
+1
+8 3
+2
+0 21 3 1
+0 26 20 3
+1
+end_operator
+begin_operator
+succumb anxiety learning hotdog earth uranus
+1
+8 4
+2
+0 21 0 2
+0 26 20 4
+1
+end_operator
+begin_operator
+succumb anxiety learning hotdog uranus vulcan
+1
+8 4
+2
+0 21 2 3
+0 26 20 4
+1
+end_operator
+begin_operator
+succumb anxiety learning hotdog vulcan jupiter
+1
+8 4
+2
+0 21 3 1
+0 26 20 4
+1
+end_operator
+begin_operator
+succumb anxiety learning lobster earth uranus
+1
+8 5
+2
+0 21 0 2
+0 26 20 5
+1
+end_operator
+begin_operator
+succumb anxiety learning lobster uranus vulcan
+1
+8 5
+2
+0 21 2 3
+0 26 20 5
+1
+end_operator
+begin_operator
+succumb anxiety learning lobster vulcan jupiter
+1
+8 5
+2
+0 21 3 1
+0 26 20 5
+1
+end_operator
+begin_operator
+succumb anxiety learning muffin earth uranus
+1
+8 6
+2
+0 21 0 2
+0 26 20 6
+1
+end_operator
+begin_operator
+succumb anxiety learning muffin uranus vulcan
+1
+8 6
+2
+0 21 2 3
+0 26 20 6
+1
+end_operator
+begin_operator
+succumb anxiety learning muffin vulcan jupiter
+1
+8 6
+2
+0 21 3 1
+0 26 20 6
+1
+end_operator
+begin_operator
+succumb anxiety learning okra earth uranus
+1
+8 7
+2
+0 21 0 2
+0 26 20 7
+1
+end_operator
+begin_operator
+succumb anxiety learning okra uranus vulcan
+1
+8 7
+2
+0 21 2 3
+0 26 20 7
+1
+end_operator
+begin_operator
+succumb anxiety learning okra vulcan jupiter
+1
+8 7
+2
+0 21 3 1
+0 26 20 7
+1
+end_operator
+begin_operator
+succumb anxiety learning pepper earth uranus
+1
+8 8
+2
+0 21 0 2
+0 26 20 8
+1
+end_operator
+begin_operator
+succumb anxiety learning pepper uranus vulcan
+1
+8 8
+2
+0 21 2 3
+0 26 20 8
+1
+end_operator
+begin_operator
+succumb anxiety learning pepper vulcan jupiter
+1
+8 8
+2
+0 21 3 1
+0 26 20 8
+1
+end_operator
+begin_operator
+succumb anxiety learning pistachio earth uranus
+1
+8 9
+2
+0 21 0 2
+0 26 20 9
+1
+end_operator
+begin_operator
+succumb anxiety learning pistachio uranus vulcan
+1
+8 9
+2
+0 21 2 3
+0 26 20 9
+1
+end_operator
+begin_operator
+succumb anxiety learning pistachio vulcan jupiter
+1
+8 9
+2
+0 21 3 1
+0 26 20 9
+1
+end_operator
+begin_operator
+succumb anxiety learning pork earth uranus
+1
+8 10
+2
+0 21 0 2
+0 26 20 10
+1
+end_operator
+begin_operator
+succumb anxiety learning pork uranus vulcan
+1
+8 10
+2
+0 21 2 3
+0 26 20 10
+1
+end_operator
+begin_operator
+succumb anxiety learning pork vulcan jupiter
+1
+8 10
+2
+0 21 3 1
+0 26 20 10
+1
+end_operator
+begin_operator
+succumb anxiety learning rice earth uranus
+1
+8 11
+2
+0 21 0 2
+0 26 20 11
+1
+end_operator
+begin_operator
+succumb anxiety learning rice uranus vulcan
+1
+8 11
+2
+0 21 2 3
+0 26 20 11
+1
+end_operator
+begin_operator
+succumb anxiety learning rice vulcan jupiter
+1
+8 11
+2
+0 21 3 1
+0 26 20 11
+1
+end_operator
+begin_operator
+succumb anxiety learning scallop earth uranus
+1
+8 12
+2
+0 21 0 2
+0 26 20 12
+1
+end_operator
+begin_operator
+succumb anxiety learning scallop uranus vulcan
+1
+8 12
+2
+0 21 2 3
+0 26 20 12
+1
+end_operator
+begin_operator
+succumb anxiety learning scallop vulcan jupiter
+1
+8 12
+2
+0 21 3 1
+0 26 20 12
+1
+end_operator
+begin_operator
+succumb anxiety learning tomato earth uranus
+1
+8 13
+2
+0 21 0 2
+0 26 20 13
+1
+end_operator
+begin_operator
+succumb anxiety learning tomato uranus vulcan
+1
+8 13
+2
+0 21 2 3
+0 26 20 13
+1
+end_operator
+begin_operator
+succumb anxiety learning tomato vulcan jupiter
+1
+8 13
+2
+0 21 3 1
+0 26 20 13
+1
+end_operator
+begin_operator
+succumb anxiety learning tuna earth uranus
+1
+8 14
+2
+0 21 0 2
+0 26 20 14
+1
+end_operator
+begin_operator
+succumb anxiety learning tuna uranus vulcan
+1
+8 14
+2
+0 21 2 3
+0 26 20 14
+1
+end_operator
+begin_operator
+succumb anxiety learning tuna vulcan jupiter
+1
+8 14
+2
+0 21 3 1
+0 26 20 14
+1
+end_operator
+begin_operator
+succumb anxiety learning turkey earth uranus
+1
+8 15
+2
+0 21 0 2
+0 26 20 15
+1
+end_operator
+begin_operator
+succumb anxiety learning turkey uranus vulcan
+1
+8 15
+2
+0 21 2 3
+0 26 20 15
+1
+end_operator
+begin_operator
+succumb anxiety learning turkey vulcan jupiter
+1
+8 15
+2
+0 21 3 1
+0 26 20 15
+1
+end_operator
+begin_operator
+succumb anxiety learning wonderbread earth uranus
+1
+8 16
+2
+0 21 0 2
+0 26 20 16
+1
+end_operator
+begin_operator
+succumb anxiety learning wonderbread uranus vulcan
+1
+8 16
+2
+0 21 2 3
+0 26 20 16
+1
+end_operator
+begin_operator
+succumb anxiety learning wonderbread vulcan jupiter
+1
+8 16
+2
+0 21 3 1
+0 26 20 16
+1
+end_operator
+begin_operator
+succumb anxiety love arugula earth uranus
+1
+10 0
+2
+0 24 0 2
+0 26 21 0
+1
+end_operator
+begin_operator
+succumb anxiety love arugula uranus vulcan
+1
+10 0
+2
+0 24 2 3
+0 26 21 0
+1
+end_operator
+begin_operator
+succumb anxiety love arugula vulcan jupiter
+1
+10 0
+2
+0 24 3 1
+0 26 21 0
+1
+end_operator
+begin_operator
+succumb anxiety love baguette earth uranus
+1
+10 1
+2
+0 24 0 2
+0 26 21 1
+1
+end_operator
+begin_operator
+succumb anxiety love baguette uranus vulcan
+1
+10 1
+2
+0 24 2 3
+0 26 21 1
+1
+end_operator
+begin_operator
+succumb anxiety love baguette vulcan jupiter
+1
+10 1
+2
+0 24 3 1
+0 26 21 1
+1
+end_operator
+begin_operator
+succumb anxiety love cantelope earth uranus
+1
+10 2
+2
+0 24 0 2
+0 26 21 2
+1
+end_operator
+begin_operator
+succumb anxiety love cantelope uranus vulcan
+1
+10 2
+2
+0 24 2 3
+0 26 21 2
+1
+end_operator
+begin_operator
+succumb anxiety love cantelope vulcan jupiter
+1
+10 2
+2
+0 24 3 1
+0 26 21 2
+1
+end_operator
+begin_operator
+succumb anxiety love flounder earth uranus
+1
+10 3
+2
+0 24 0 2
+0 26 21 3
+1
+end_operator
+begin_operator
+succumb anxiety love flounder uranus vulcan
+1
+10 3
+2
+0 24 2 3
+0 26 21 3
+1
+end_operator
+begin_operator
+succumb anxiety love flounder vulcan jupiter
+1
+10 3
+2
+0 24 3 1
+0 26 21 3
+1
+end_operator
+begin_operator
+succumb anxiety love hotdog earth uranus
+1
+10 4
+2
+0 24 0 2
+0 26 21 4
+1
+end_operator
+begin_operator
+succumb anxiety love hotdog uranus vulcan
+1
+10 4
+2
+0 24 2 3
+0 26 21 4
+1
+end_operator
+begin_operator
+succumb anxiety love hotdog vulcan jupiter
+1
+10 4
+2
+0 24 3 1
+0 26 21 4
+1
+end_operator
+begin_operator
+succumb anxiety love lobster earth uranus
+1
+10 5
+2
+0 24 0 2
+0 26 21 5
+1
+end_operator
+begin_operator
+succumb anxiety love lobster uranus vulcan
+1
+10 5
+2
+0 24 2 3
+0 26 21 5
+1
+end_operator
+begin_operator
+succumb anxiety love lobster vulcan jupiter
+1
+10 5
+2
+0 24 3 1
+0 26 21 5
+1
+end_operator
+begin_operator
+succumb anxiety love muffin earth uranus
+1
+10 6
+2
+0 24 0 2
+0 26 21 6
+1
+end_operator
+begin_operator
+succumb anxiety love muffin uranus vulcan
+1
+10 6
+2
+0 24 2 3
+0 26 21 6
+1
+end_operator
+begin_operator
+succumb anxiety love muffin vulcan jupiter
+1
+10 6
+2
+0 24 3 1
+0 26 21 6
+1
+end_operator
+begin_operator
+succumb anxiety love okra earth uranus
+1
+10 7
+2
+0 24 0 2
+0 26 21 7
+1
+end_operator
+begin_operator
+succumb anxiety love okra uranus vulcan
+1
+10 7
+2
+0 24 2 3
+0 26 21 7
+1
+end_operator
+begin_operator
+succumb anxiety love okra vulcan jupiter
+1
+10 7
+2
+0 24 3 1
+0 26 21 7
+1
+end_operator
+begin_operator
+succumb anxiety love pepper earth uranus
+1
+10 8
+2
+0 24 0 2
+0 26 21 8
+1
+end_operator
+begin_operator
+succumb anxiety love pepper uranus vulcan
+1
+10 8
+2
+0 24 2 3
+0 26 21 8
+1
+end_operator
+begin_operator
+succumb anxiety love pepper vulcan jupiter
+1
+10 8
+2
+0 24 3 1
+0 26 21 8
+1
+end_operator
+begin_operator
+succumb anxiety love pistachio earth uranus
+1
+10 9
+2
+0 24 0 2
+0 26 21 9
+1
+end_operator
+begin_operator
+succumb anxiety love pistachio uranus vulcan
+1
+10 9
+2
+0 24 2 3
+0 26 21 9
+1
+end_operator
+begin_operator
+succumb anxiety love pistachio vulcan jupiter
+1
+10 9
+2
+0 24 3 1
+0 26 21 9
+1
+end_operator
+begin_operator
+succumb anxiety love pork earth uranus
+1
+10 10
+2
+0 24 0 2
+0 26 21 10
+1
+end_operator
+begin_operator
+succumb anxiety love pork uranus vulcan
+1
+10 10
+2
+0 24 2 3
+0 26 21 10
+1
+end_operator
+begin_operator
+succumb anxiety love pork vulcan jupiter
+1
+10 10
+2
+0 24 3 1
+0 26 21 10
+1
+end_operator
+begin_operator
+succumb anxiety love rice earth uranus
+1
+10 11
+2
+0 24 0 2
+0 26 21 11
+1
+end_operator
+begin_operator
+succumb anxiety love rice uranus vulcan
+1
+10 11
+2
+0 24 2 3
+0 26 21 11
+1
+end_operator
+begin_operator
+succumb anxiety love rice vulcan jupiter
+1
+10 11
+2
+0 24 3 1
+0 26 21 11
+1
+end_operator
+begin_operator
+succumb anxiety love scallop earth uranus
+1
+10 12
+2
+0 24 0 2
+0 26 21 12
+1
+end_operator
+begin_operator
+succumb anxiety love scallop uranus vulcan
+1
+10 12
+2
+0 24 2 3
+0 26 21 12
+1
+end_operator
+begin_operator
+succumb anxiety love scallop vulcan jupiter
+1
+10 12
+2
+0 24 3 1
+0 26 21 12
+1
+end_operator
+begin_operator
+succumb anxiety love tomato earth uranus
+1
+10 13
+2
+0 24 0 2
+0 26 21 13
+1
+end_operator
+begin_operator
+succumb anxiety love tomato uranus vulcan
+1
+10 13
+2
+0 24 2 3
+0 26 21 13
+1
+end_operator
+begin_operator
+succumb anxiety love tomato vulcan jupiter
+1
+10 13
+2
+0 24 3 1
+0 26 21 13
+1
+end_operator
+begin_operator
+succumb anxiety love tuna earth uranus
+1
+10 14
+2
+0 24 0 2
+0 26 21 14
+1
+end_operator
+begin_operator
+succumb anxiety love tuna uranus vulcan
+1
+10 14
+2
+0 24 2 3
+0 26 21 14
+1
+end_operator
+begin_operator
+succumb anxiety love tuna vulcan jupiter
+1
+10 14
+2
+0 24 3 1
+0 26 21 14
+1
+end_operator
+begin_operator
+succumb anxiety love turkey earth uranus
+1
+10 15
+2
+0 24 0 2
+0 26 21 15
+1
+end_operator
+begin_operator
+succumb anxiety love turkey uranus vulcan
+1
+10 15
+2
+0 24 2 3
+0 26 21 15
+1
+end_operator
+begin_operator
+succumb anxiety love turkey vulcan jupiter
+1
+10 15
+2
+0 24 3 1
+0 26 21 15
+1
+end_operator
+begin_operator
+succumb anxiety love wonderbread earth uranus
+1
+10 16
+2
+0 24 0 2
+0 26 21 16
+1
+end_operator
+begin_operator
+succumb anxiety love wonderbread uranus vulcan
+1
+10 16
+2
+0 24 2 3
+0 26 21 16
+1
+end_operator
+begin_operator
+succumb anxiety love wonderbread vulcan jupiter
+1
+10 16
+2
+0 24 3 1
+0 26 21 16
+1
+end_operator
+begin_operator
+succumb anxiety lubricity arugula earth uranus
+0
+2
+0 14 0 2
+0 26 22 0
+1
+end_operator
+begin_operator
+succumb anxiety lubricity arugula uranus vulcan
+0
+2
+0 14 2 3
+0 26 22 0
+1
+end_operator
+begin_operator
+succumb anxiety lubricity arugula vulcan jupiter
+0
+2
+0 14 3 1
+0 26 22 0
+1
+end_operator
+begin_operator
+succumb anxiety rest arugula earth uranus
+1
+11 0
+2
+0 25 0 2
+0 26 23 0
+1
+end_operator
+begin_operator
+succumb anxiety rest arugula uranus vulcan
+1
+11 0
+2
+0 25 2 3
+0 26 23 0
+1
+end_operator
+begin_operator
+succumb anxiety rest arugula vulcan jupiter
+1
+11 0
+2
+0 25 3 1
+0 26 23 0
+1
+end_operator
+begin_operator
+succumb anxiety rest baguette earth uranus
+1
+11 1
+2
+0 25 0 2
+0 26 23 1
+1
+end_operator
+begin_operator
+succumb anxiety rest baguette uranus vulcan
+1
+11 1
+2
+0 25 2 3
+0 26 23 1
+1
+end_operator
+begin_operator
+succumb anxiety rest baguette vulcan jupiter
+1
+11 1
+2
+0 25 3 1
+0 26 23 1
+1
+end_operator
+begin_operator
+succumb anxiety rest cantelope earth uranus
+1
+11 2
+2
+0 25 0 2
+0 26 23 2
+1
+end_operator
+begin_operator
+succumb anxiety rest cantelope uranus vulcan
+1
+11 2
+2
+0 25 2 3
+0 26 23 2
+1
+end_operator
+begin_operator
+succumb anxiety rest cantelope vulcan jupiter
+1
+11 2
+2
+0 25 3 1
+0 26 23 2
+1
+end_operator
+begin_operator
+succumb anxiety rest flounder earth uranus
+1
+11 3
+2
+0 25 0 2
+0 26 23 3
+1
+end_operator
+begin_operator
+succumb anxiety rest flounder uranus vulcan
+1
+11 3
+2
+0 25 2 3
+0 26 23 3
+1
+end_operator
+begin_operator
+succumb anxiety rest flounder vulcan jupiter
+1
+11 3
+2
+0 25 3 1
+0 26 23 3
+1
+end_operator
+begin_operator
+succumb anxiety rest hotdog earth uranus
+1
+11 4
+2
+0 25 0 2
+0 26 23 4
+1
+end_operator
+begin_operator
+succumb anxiety rest hotdog uranus vulcan
+1
+11 4
+2
+0 25 2 3
+0 26 23 4
+1
+end_operator
+begin_operator
+succumb anxiety rest hotdog vulcan jupiter
+1
+11 4
+2
+0 25 3 1
+0 26 23 4
+1
+end_operator
+begin_operator
+succumb anxiety rest lobster earth uranus
+1
+11 5
+2
+0 25 0 2
+0 26 23 5
+1
+end_operator
+begin_operator
+succumb anxiety rest lobster uranus vulcan
+1
+11 5
+2
+0 25 2 3
+0 26 23 5
+1
+end_operator
+begin_operator
+succumb anxiety rest lobster vulcan jupiter
+1
+11 5
+2
+0 25 3 1
+0 26 23 5
+1
+end_operator
+begin_operator
+succumb anxiety rest muffin earth uranus
+1
+11 6
+2
+0 25 0 2
+0 26 23 6
+1
+end_operator
+begin_operator
+succumb anxiety rest muffin uranus vulcan
+1
+11 6
+2
+0 25 2 3
+0 26 23 6
+1
+end_operator
+begin_operator
+succumb anxiety rest muffin vulcan jupiter
+1
+11 6
+2
+0 25 3 1
+0 26 23 6
+1
+end_operator
+begin_operator
+succumb anxiety rest okra earth uranus
+1
+11 7
+2
+0 25 0 2
+0 26 23 7
+1
+end_operator
+begin_operator
+succumb anxiety rest okra uranus vulcan
+1
+11 7
+2
+0 25 2 3
+0 26 23 7
+1
+end_operator
+begin_operator
+succumb anxiety rest okra vulcan jupiter
+1
+11 7
+2
+0 25 3 1
+0 26 23 7
+1
+end_operator
+begin_operator
+succumb anxiety rest pepper earth uranus
+1
+11 8
+2
+0 25 0 2
+0 26 23 8
+1
+end_operator
+begin_operator
+succumb anxiety rest pepper uranus vulcan
+1
+11 8
+2
+0 25 2 3
+0 26 23 8
+1
+end_operator
+begin_operator
+succumb anxiety rest pepper vulcan jupiter
+1
+11 8
+2
+0 25 3 1
+0 26 23 8
+1
+end_operator
+begin_operator
+succumb anxiety rest pistachio earth uranus
+1
+11 9
+2
+0 25 0 2
+0 26 23 9
+1
+end_operator
+begin_operator
+succumb anxiety rest pistachio uranus vulcan
+1
+11 9
+2
+0 25 2 3
+0 26 23 9
+1
+end_operator
+begin_operator
+succumb anxiety rest pistachio vulcan jupiter
+1
+11 9
+2
+0 25 3 1
+0 26 23 9
+1
+end_operator
+begin_operator
+succumb anxiety rest pork earth uranus
+1
+11 10
+2
+0 25 0 2
+0 26 23 10
+1
+end_operator
+begin_operator
+succumb anxiety rest pork uranus vulcan
+1
+11 10
+2
+0 25 2 3
+0 26 23 10
+1
+end_operator
+begin_operator
+succumb anxiety rest pork vulcan jupiter
+1
+11 10
+2
+0 25 3 1
+0 26 23 10
+1
+end_operator
+begin_operator
+succumb anxiety rest rice earth uranus
+1
+11 11
+2
+0 25 0 2
+0 26 23 11
+1
+end_operator
+begin_operator
+succumb anxiety rest rice uranus vulcan
+1
+11 11
+2
+0 25 2 3
+0 26 23 11
+1
+end_operator
+begin_operator
+succumb anxiety rest rice vulcan jupiter
+1
+11 11
+2
+0 25 3 1
+0 26 23 11
+1
+end_operator
+begin_operator
+succumb anxiety rest scallop earth uranus
+1
+11 12
+2
+0 25 0 2
+0 26 23 12
+1
+end_operator
+begin_operator
+succumb anxiety rest scallop uranus vulcan
+1
+11 12
+2
+0 25 2 3
+0 26 23 12
+1
+end_operator
+begin_operator
+succumb anxiety rest scallop vulcan jupiter
+1
+11 12
+2
+0 25 3 1
+0 26 23 12
+1
+end_operator
+begin_operator
+succumb anxiety rest tomato earth uranus
+1
+11 13
+2
+0 25 0 2
+0 26 23 13
+1
+end_operator
+begin_operator
+succumb anxiety rest tomato uranus vulcan
+1
+11 13
+2
+0 25 2 3
+0 26 23 13
+1
+end_operator
+begin_operator
+succumb anxiety rest tomato vulcan jupiter
+1
+11 13
+2
+0 25 3 1
+0 26 23 13
+1
+end_operator
+begin_operator
+succumb anxiety rest tuna earth uranus
+1
+11 14
+2
+0 25 0 2
+0 26 23 14
+1
+end_operator
+begin_operator
+succumb anxiety rest tuna uranus vulcan
+1
+11 14
+2
+0 25 2 3
+0 26 23 14
+1
+end_operator
+begin_operator
+succumb anxiety rest tuna vulcan jupiter
+1
+11 14
+2
+0 25 3 1
+0 26 23 14
+1
+end_operator
+begin_operator
+succumb anxiety rest turkey earth uranus
+1
+11 15
+2
+0 25 0 2
+0 26 23 15
+1
+end_operator
+begin_operator
+succumb anxiety rest turkey uranus vulcan
+1
+11 15
+2
+0 25 2 3
+0 26 23 15
+1
+end_operator
+begin_operator
+succumb anxiety rest turkey vulcan jupiter
+1
+11 15
+2
+0 25 3 1
+0 26 23 15
+1
+end_operator
+begin_operator
+succumb anxiety rest wonderbread earth uranus
+1
+11 16
+2
+0 25 0 2
+0 26 23 16
+1
+end_operator
+begin_operator
+succumb anxiety rest wonderbread uranus vulcan
+1
+11 16
+2
+0 25 2 3
+0 26 23 16
+1
+end_operator
+begin_operator
+succumb anxiety rest wonderbread vulcan jupiter
+1
+11 16
+2
+0 25 3 1
+0 26 23 16
+1
+end_operator
+begin_operator
+succumb anxiety stimulation muffin earth uranus
+0
+2
+0 15 0 2
+0 26 24 6
+1
+end_operator
+begin_operator
+succumb anxiety stimulation muffin uranus vulcan
+0
+2
+0 15 2 3
+0 26 24 6
+1
+end_operator
+begin_operator
+succumb anxiety stimulation muffin vulcan jupiter
+0
+2
+0 15 3 1
+0 26 24 6
+1
+end_operator
+begin_operator
+succumb anxiety triumph hotdog earth uranus
+0
+2
+0 16 0 2
+0 26 25 4
+1
+end_operator
+begin_operator
+succumb anxiety triumph hotdog uranus vulcan
+0
+2
+0 16 2 3
+0 26 25 4
+1
+end_operator
+begin_operator
+succumb anxiety triumph hotdog vulcan jupiter
+0
+2
+0 16 3 1
+0 26 25 4
+1
+end_operator
+begin_operator
+succumb hangover achievement rice earth uranus
+0
+2
+0 13 0 2
+0 22 17 11
+1
+end_operator
+begin_operator
+succumb hangover achievement rice uranus vulcan
+0
+2
+0 13 2 3
+0 22 17 11
+1
+end_operator
+begin_operator
+succumb hangover achievement rice vulcan jupiter
+0
+2
+0 13 3 1
+0 22 17 11
+1
+end_operator
+begin_operator
+succumb hangover aesthetics arugula earth uranus
+1
+5 0
+2
+0 17 0 2
+0 22 18 0
+1
+end_operator
+begin_operator
+succumb hangover aesthetics arugula uranus vulcan
+1
+5 0
+2
+0 17 2 3
+0 22 18 0
+1
+end_operator
+begin_operator
+succumb hangover aesthetics arugula vulcan jupiter
+1
+5 0
+2
+0 17 3 1
+0 22 18 0
+1
+end_operator
+begin_operator
+succumb hangover aesthetics baguette earth uranus
+1
+5 1
+2
+0 17 0 2
+0 22 18 1
+1
+end_operator
+begin_operator
+succumb hangover aesthetics baguette uranus vulcan
+1
+5 1
+2
+0 17 2 3
+0 22 18 1
+1
+end_operator
+begin_operator
+succumb hangover aesthetics baguette vulcan jupiter
+1
+5 1
+2
+0 17 3 1
+0 22 18 1
+1
+end_operator
+begin_operator
+succumb hangover aesthetics cantelope earth uranus
+1
+5 2
+2
+0 17 0 2
+0 22 18 2
+1
+end_operator
+begin_operator
+succumb hangover aesthetics cantelope uranus vulcan
+1
+5 2
+2
+0 17 2 3
+0 22 18 2
+1
+end_operator
+begin_operator
+succumb hangover aesthetics cantelope vulcan jupiter
+1
+5 2
+2
+0 17 3 1
+0 22 18 2
+1
+end_operator
+begin_operator
+succumb hangover aesthetics flounder earth uranus
+1
+5 3
+2
+0 17 0 2
+0 22 18 3
+1
+end_operator
+begin_operator
+succumb hangover aesthetics flounder uranus vulcan
+1
+5 3
+2
+0 17 2 3
+0 22 18 3
+1
+end_operator
+begin_operator
+succumb hangover aesthetics flounder vulcan jupiter
+1
+5 3
+2
+0 17 3 1
+0 22 18 3
+1
+end_operator
+begin_operator
+succumb hangover aesthetics hotdog earth uranus
+1
+5 4
+2
+0 17 0 2
+0 22 18 4
+1
+end_operator
+begin_operator
+succumb hangover aesthetics hotdog uranus vulcan
+1
+5 4
+2
+0 17 2 3
+0 22 18 4
+1
+end_operator
+begin_operator
+succumb hangover aesthetics hotdog vulcan jupiter
+1
+5 4
+2
+0 17 3 1
+0 22 18 4
+1
+end_operator
+begin_operator
+succumb hangover aesthetics lobster earth uranus
+1
+5 5
+2
+0 17 0 2
+0 22 18 5
+1
+end_operator
+begin_operator
+succumb hangover aesthetics lobster uranus vulcan
+1
+5 5
+2
+0 17 2 3
+0 22 18 5
+1
+end_operator
+begin_operator
+succumb hangover aesthetics lobster vulcan jupiter
+1
+5 5
+2
+0 17 3 1
+0 22 18 5
+1
+end_operator
+begin_operator
+succumb hangover aesthetics muffin earth uranus
+1
+5 6
+2
+0 17 0 2
+0 22 18 6
+1
+end_operator
+begin_operator
+succumb hangover aesthetics muffin uranus vulcan
+1
+5 6
+2
+0 17 2 3
+0 22 18 6
+1
+end_operator
+begin_operator
+succumb hangover aesthetics muffin vulcan jupiter
+1
+5 6
+2
+0 17 3 1
+0 22 18 6
+1
+end_operator
+begin_operator
+succumb hangover aesthetics okra earth uranus
+1
+5 7
+2
+0 17 0 2
+0 22 18 7
+1
+end_operator
+begin_operator
+succumb hangover aesthetics okra uranus vulcan
+1
+5 7
+2
+0 17 2 3
+0 22 18 7
+1
+end_operator
+begin_operator
+succumb hangover aesthetics okra vulcan jupiter
+1
+5 7
+2
+0 17 3 1
+0 22 18 7
+1
+end_operator
+begin_operator
+succumb hangover aesthetics pepper earth uranus
+1
+5 8
+2
+0 17 0 2
+0 22 18 8
+1
+end_operator
+begin_operator
+succumb hangover aesthetics pepper uranus vulcan
+1
+5 8
+2
+0 17 2 3
+0 22 18 8
+1
+end_operator
+begin_operator
+succumb hangover aesthetics pepper vulcan jupiter
+1
+5 8
+2
+0 17 3 1
+0 22 18 8
+1
+end_operator
+begin_operator
+succumb hangover aesthetics pistachio earth uranus
+1
+5 9
+2
+0 17 0 2
+0 22 18 9
+1
+end_operator
+begin_operator
+succumb hangover aesthetics pistachio uranus vulcan
+1
+5 9
+2
+0 17 2 3
+0 22 18 9
+1
+end_operator
+begin_operator
+succumb hangover aesthetics pistachio vulcan jupiter
+1
+5 9
+2
+0 17 3 1
+0 22 18 9
+1
+end_operator
+begin_operator
+succumb hangover aesthetics pork earth uranus
+1
+5 10
+2
+0 17 0 2
+0 22 18 10
+1
+end_operator
+begin_operator
+succumb hangover aesthetics pork uranus vulcan
+1
+5 10
+2
+0 17 2 3
+0 22 18 10
+1
+end_operator
+begin_operator
+succumb hangover aesthetics pork vulcan jupiter
+1
+5 10
+2
+0 17 3 1
+0 22 18 10
+1
+end_operator
+begin_operator
+succumb hangover aesthetics rice earth uranus
+1
+5 11
+2
+0 17 0 2
+0 22 18 11
+1
+end_operator
+begin_operator
+succumb hangover aesthetics rice uranus vulcan
+1
+5 11
+2
+0 17 2 3
+0 22 18 11
+1
+end_operator
+begin_operator
+succumb hangover aesthetics rice vulcan jupiter
+1
+5 11
+2
+0 17 3 1
+0 22 18 11
+1
+end_operator
+begin_operator
+succumb hangover aesthetics scallop earth uranus
+1
+5 12
+2
+0 17 0 2
+0 22 18 12
+1
+end_operator
+begin_operator
+succumb hangover aesthetics scallop uranus vulcan
+1
+5 12
+2
+0 17 2 3
+0 22 18 12
+1
+end_operator
+begin_operator
+succumb hangover aesthetics scallop vulcan jupiter
+1
+5 12
+2
+0 17 3 1
+0 22 18 12
+1
+end_operator
+begin_operator
+succumb hangover aesthetics tomato earth uranus
+1
+5 13
+2
+0 17 0 2
+0 22 18 13
+1
+end_operator
+begin_operator
+succumb hangover aesthetics tomato uranus vulcan
+1
+5 13
+2
+0 17 2 3
+0 22 18 13
+1
+end_operator
+begin_operator
+succumb hangover aesthetics tomato vulcan jupiter
+1
+5 13
+2
+0 17 3 1
+0 22 18 13
+1
+end_operator
+begin_operator
+succumb hangover aesthetics tuna earth uranus
+1
+5 14
+2
+0 17 0 2
+0 22 18 14
+1
+end_operator
+begin_operator
+succumb hangover aesthetics tuna uranus vulcan
+1
+5 14
+2
+0 17 2 3
+0 22 18 14
+1
+end_operator
+begin_operator
+succumb hangover aesthetics tuna vulcan jupiter
+1
+5 14
+2
+0 17 3 1
+0 22 18 14
+1
+end_operator
+begin_operator
+succumb hangover aesthetics turkey earth uranus
+1
+5 15
+2
+0 17 0 2
+0 22 18 15
+1
+end_operator
+begin_operator
+succumb hangover aesthetics turkey uranus vulcan
+1
+5 15
+2
+0 17 2 3
+0 22 18 15
+1
+end_operator
+begin_operator
+succumb hangover aesthetics turkey vulcan jupiter
+1
+5 15
+2
+0 17 3 1
+0 22 18 15
+1
+end_operator
+begin_operator
+succumb hangover aesthetics wonderbread earth uranus
+1
+5 16
+2
+0 17 0 2
+0 22 18 16
+1
+end_operator
+begin_operator
+succumb hangover aesthetics wonderbread uranus vulcan
+1
+5 16
+2
+0 17 2 3
+0 22 18 16
+1
+end_operator
+begin_operator
+succumb hangover aesthetics wonderbread vulcan jupiter
+1
+5 16
+2
+0 17 3 1
+0 22 18 16
+1
+end_operator
+begin_operator
+succumb hangover excitement arugula earth uranus
+1
+7 0
+2
+0 20 0 2
+0 22 19 0
+1
+end_operator
+begin_operator
+succumb hangover excitement arugula uranus vulcan
+1
+7 0
+2
+0 20 2 3
+0 22 19 0
+1
+end_operator
+begin_operator
+succumb hangover excitement arugula vulcan jupiter
+1
+7 0
+2
+0 20 3 1
+0 22 19 0
+1
+end_operator
+begin_operator
+succumb hangover excitement baguette earth uranus
+1
+7 1
+2
+0 20 0 2
+0 22 19 1
+1
+end_operator
+begin_operator
+succumb hangover excitement baguette uranus vulcan
+1
+7 1
+2
+0 20 2 3
+0 22 19 1
+1
+end_operator
+begin_operator
+succumb hangover excitement baguette vulcan jupiter
+1
+7 1
+2
+0 20 3 1
+0 22 19 1
+1
+end_operator
+begin_operator
+succumb hangover excitement cantelope earth uranus
+1
+7 2
+2
+0 20 0 2
+0 22 19 2
+1
+end_operator
+begin_operator
+succumb hangover excitement cantelope uranus vulcan
+1
+7 2
+2
+0 20 2 3
+0 22 19 2
+1
+end_operator
+begin_operator
+succumb hangover excitement cantelope vulcan jupiter
+1
+7 2
+2
+0 20 3 1
+0 22 19 2
+1
+end_operator
+begin_operator
+succumb hangover excitement flounder earth uranus
+1
+7 3
+2
+0 20 0 2
+0 22 19 3
+1
+end_operator
+begin_operator
+succumb hangover excitement flounder uranus vulcan
+1
+7 3
+2
+0 20 2 3
+0 22 19 3
+1
+end_operator
+begin_operator
+succumb hangover excitement flounder vulcan jupiter
+1
+7 3
+2
+0 20 3 1
+0 22 19 3
+1
+end_operator
+begin_operator
+succumb hangover excitement hotdog earth uranus
+1
+7 4
+2
+0 20 0 2
+0 22 19 4
+1
+end_operator
+begin_operator
+succumb hangover excitement hotdog uranus vulcan
+1
+7 4
+2
+0 20 2 3
+0 22 19 4
+1
+end_operator
+begin_operator
+succumb hangover excitement hotdog vulcan jupiter
+1
+7 4
+2
+0 20 3 1
+0 22 19 4
+1
+end_operator
+begin_operator
+succumb hangover excitement lobster earth uranus
+1
+7 5
+2
+0 20 0 2
+0 22 19 5
+1
+end_operator
+begin_operator
+succumb hangover excitement lobster uranus vulcan
+1
+7 5
+2
+0 20 2 3
+0 22 19 5
+1
+end_operator
+begin_operator
+succumb hangover excitement lobster vulcan jupiter
+1
+7 5
+2
+0 20 3 1
+0 22 19 5
+1
+end_operator
+begin_operator
+succumb hangover excitement muffin earth uranus
+1
+7 6
+2
+0 20 0 2
+0 22 19 6
+1
+end_operator
+begin_operator
+succumb hangover excitement muffin uranus vulcan
+1
+7 6
+2
+0 20 2 3
+0 22 19 6
+1
+end_operator
+begin_operator
+succumb hangover excitement muffin vulcan jupiter
+1
+7 6
+2
+0 20 3 1
+0 22 19 6
+1
+end_operator
+begin_operator
+succumb hangover excitement okra earth uranus
+1
+7 7
+2
+0 20 0 2
+0 22 19 7
+1
+end_operator
+begin_operator
+succumb hangover excitement okra uranus vulcan
+1
+7 7
+2
+0 20 2 3
+0 22 19 7
+1
+end_operator
+begin_operator
+succumb hangover excitement okra vulcan jupiter
+1
+7 7
+2
+0 20 3 1
+0 22 19 7
+1
+end_operator
+begin_operator
+succumb hangover excitement pepper earth uranus
+1
+7 8
+2
+0 20 0 2
+0 22 19 8
+1
+end_operator
+begin_operator
+succumb hangover excitement pepper uranus vulcan
+1
+7 8
+2
+0 20 2 3
+0 22 19 8
+1
+end_operator
+begin_operator
+succumb hangover excitement pepper vulcan jupiter
+1
+7 8
+2
+0 20 3 1
+0 22 19 8
+1
+end_operator
+begin_operator
+succumb hangover excitement pistachio earth uranus
+1
+7 9
+2
+0 20 0 2
+0 22 19 9
+1
+end_operator
+begin_operator
+succumb hangover excitement pistachio uranus vulcan
+1
+7 9
+2
+0 20 2 3
+0 22 19 9
+1
+end_operator
+begin_operator
+succumb hangover excitement pistachio vulcan jupiter
+1
+7 9
+2
+0 20 3 1
+0 22 19 9
+1
+end_operator
+begin_operator
+succumb hangover excitement pork earth uranus
+1
+7 10
+2
+0 20 0 2
+0 22 19 10
+1
+end_operator
+begin_operator
+succumb hangover excitement pork uranus vulcan
+1
+7 10
+2
+0 20 2 3
+0 22 19 10
+1
+end_operator
+begin_operator
+succumb hangover excitement pork vulcan jupiter
+1
+7 10
+2
+0 20 3 1
+0 22 19 10
+1
+end_operator
+begin_operator
+succumb hangover excitement rice earth uranus
+1
+7 11
+2
+0 20 0 2
+0 22 19 11
+1
+end_operator
+begin_operator
+succumb hangover excitement rice uranus vulcan
+1
+7 11
+2
+0 20 2 3
+0 22 19 11
+1
+end_operator
+begin_operator
+succumb hangover excitement rice vulcan jupiter
+1
+7 11
+2
+0 20 3 1
+0 22 19 11
+1
+end_operator
+begin_operator
+succumb hangover excitement scallop earth uranus
+1
+7 12
+2
+0 20 0 2
+0 22 19 12
+1
+end_operator
+begin_operator
+succumb hangover excitement scallop uranus vulcan
+1
+7 12
+2
+0 20 2 3
+0 22 19 12
+1
+end_operator
+begin_operator
+succumb hangover excitement scallop vulcan jupiter
+1
+7 12
+2
+0 20 3 1
+0 22 19 12
+1
+end_operator
+begin_operator
+succumb hangover excitement tomato earth uranus
+1
+7 13
+2
+0 20 0 2
+0 22 19 13
+1
+end_operator
+begin_operator
+succumb hangover excitement tomato uranus vulcan
+1
+7 13
+2
+0 20 2 3
+0 22 19 13
+1
+end_operator
+begin_operator
+succumb hangover excitement tomato vulcan jupiter
+1
+7 13
+2
+0 20 3 1
+0 22 19 13
+1
+end_operator
+begin_operator
+succumb hangover excitement tuna earth uranus
+1
+7 14
+2
+0 20 0 2
+0 22 19 14
+1
+end_operator
+begin_operator
+succumb hangover excitement tuna uranus vulcan
+1
+7 14
+2
+0 20 2 3
+0 22 19 14
+1
+end_operator
+begin_operator
+succumb hangover excitement tuna vulcan jupiter
+1
+7 14
+2
+0 20 3 1
+0 22 19 14
+1
+end_operator
+begin_operator
+succumb hangover excitement turkey earth uranus
+1
+7 15
+2
+0 20 0 2
+0 22 19 15
+1
+end_operator
+begin_operator
+succumb hangover excitement turkey uranus vulcan
+1
+7 15
+2
+0 20 2 3
+0 22 19 15
+1
+end_operator
+begin_operator
+succumb hangover excitement turkey vulcan jupiter
+1
+7 15
+2
+0 20 3 1
+0 22 19 15
+1
+end_operator
+begin_operator
+succumb hangover excitement wonderbread earth uranus
+1
+7 16
+2
+0 20 0 2
+0 22 19 16
+1
+end_operator
+begin_operator
+succumb hangover excitement wonderbread uranus vulcan
+1
+7 16
+2
+0 20 2 3
+0 22 19 16
+1
+end_operator
+begin_operator
+succumb hangover excitement wonderbread vulcan jupiter
+1
+7 16
+2
+0 20 3 1
+0 22 19 16
+1
+end_operator
+begin_operator
+succumb hangover learning arugula earth uranus
+1
+8 0
+2
+0 21 0 2
+0 22 20 0
+1
+end_operator
+begin_operator
+succumb hangover learning arugula uranus vulcan
+1
+8 0
+2
+0 21 2 3
+0 22 20 0
+1
+end_operator
+begin_operator
+succumb hangover learning arugula vulcan jupiter
+1
+8 0
+2
+0 21 3 1
+0 22 20 0
+1
+end_operator
+begin_operator
+succumb hangover learning baguette earth uranus
+1
+8 1
+2
+0 21 0 2
+0 22 20 1
+1
+end_operator
+begin_operator
+succumb hangover learning baguette uranus vulcan
+1
+8 1
+2
+0 21 2 3
+0 22 20 1
+1
+end_operator
+begin_operator
+succumb hangover learning baguette vulcan jupiter
+1
+8 1
+2
+0 21 3 1
+0 22 20 1
+1
+end_operator
+begin_operator
+succumb hangover learning cantelope earth uranus
+1
+8 2
+2
+0 21 0 2
+0 22 20 2
+1
+end_operator
+begin_operator
+succumb hangover learning cantelope uranus vulcan
+1
+8 2
+2
+0 21 2 3
+0 22 20 2
+1
+end_operator
+begin_operator
+succumb hangover learning cantelope vulcan jupiter
+1
+8 2
+2
+0 21 3 1
+0 22 20 2
+1
+end_operator
+begin_operator
+succumb hangover learning flounder earth uranus
+1
+8 3
+2
+0 21 0 2
+0 22 20 3
+1
+end_operator
+begin_operator
+succumb hangover learning flounder uranus vulcan
+1
+8 3
+2
+0 21 2 3
+0 22 20 3
+1
+end_operator
+begin_operator
+succumb hangover learning flounder vulcan jupiter
+1
+8 3
+2
+0 21 3 1
+0 22 20 3
+1
+end_operator
+begin_operator
+succumb hangover learning hotdog earth uranus
+1
+8 4
+2
+0 21 0 2
+0 22 20 4
+1
+end_operator
+begin_operator
+succumb hangover learning hotdog uranus vulcan
+1
+8 4
+2
+0 21 2 3
+0 22 20 4
+1
+end_operator
+begin_operator
+succumb hangover learning hotdog vulcan jupiter
+1
+8 4
+2
+0 21 3 1
+0 22 20 4
+1
+end_operator
+begin_operator
+succumb hangover learning lobster earth uranus
+1
+8 5
+2
+0 21 0 2
+0 22 20 5
+1
+end_operator
+begin_operator
+succumb hangover learning lobster uranus vulcan
+1
+8 5
+2
+0 21 2 3
+0 22 20 5
+1
+end_operator
+begin_operator
+succumb hangover learning lobster vulcan jupiter
+1
+8 5
+2
+0 21 3 1
+0 22 20 5
+1
+end_operator
+begin_operator
+succumb hangover learning muffin earth uranus
+1
+8 6
+2
+0 21 0 2
+0 22 20 6
+1
+end_operator
+begin_operator
+succumb hangover learning muffin uranus vulcan
+1
+8 6
+2
+0 21 2 3
+0 22 20 6
+1
+end_operator
+begin_operator
+succumb hangover learning muffin vulcan jupiter
+1
+8 6
+2
+0 21 3 1
+0 22 20 6
+1
+end_operator
+begin_operator
+succumb hangover learning okra earth uranus
+1
+8 7
+2
+0 21 0 2
+0 22 20 7
+1
+end_operator
+begin_operator
+succumb hangover learning okra uranus vulcan
+1
+8 7
+2
+0 21 2 3
+0 22 20 7
+1
+end_operator
+begin_operator
+succumb hangover learning okra vulcan jupiter
+1
+8 7
+2
+0 21 3 1
+0 22 20 7
+1
+end_operator
+begin_operator
+succumb hangover learning pepper earth uranus
+1
+8 8
+2
+0 21 0 2
+0 22 20 8
+1
+end_operator
+begin_operator
+succumb hangover learning pepper uranus vulcan
+1
+8 8
+2
+0 21 2 3
+0 22 20 8
+1
+end_operator
+begin_operator
+succumb hangover learning pepper vulcan jupiter
+1
+8 8
+2
+0 21 3 1
+0 22 20 8
+1
+end_operator
+begin_operator
+succumb hangover learning pistachio earth uranus
+1
+8 9
+2
+0 21 0 2
+0 22 20 9
+1
+end_operator
+begin_operator
+succumb hangover learning pistachio uranus vulcan
+1
+8 9
+2
+0 21 2 3
+0 22 20 9
+1
+end_operator
+begin_operator
+succumb hangover learning pistachio vulcan jupiter
+1
+8 9
+2
+0 21 3 1
+0 22 20 9
+1
+end_operator
+begin_operator
+succumb hangover learning pork earth uranus
+1
+8 10
+2
+0 21 0 2
+0 22 20 10
+1
+end_operator
+begin_operator
+succumb hangover learning pork uranus vulcan
+1
+8 10
+2
+0 21 2 3
+0 22 20 10
+1
+end_operator
+begin_operator
+succumb hangover learning pork vulcan jupiter
+1
+8 10
+2
+0 21 3 1
+0 22 20 10
+1
+end_operator
+begin_operator
+succumb hangover learning rice earth uranus
+1
+8 11
+2
+0 21 0 2
+0 22 20 11
+1
+end_operator
+begin_operator
+succumb hangover learning rice uranus vulcan
+1
+8 11
+2
+0 21 2 3
+0 22 20 11
+1
+end_operator
+begin_operator
+succumb hangover learning rice vulcan jupiter
+1
+8 11
+2
+0 21 3 1
+0 22 20 11
+1
+end_operator
+begin_operator
+succumb hangover learning scallop earth uranus
+1
+8 12
+2
+0 21 0 2
+0 22 20 12
+1
+end_operator
+begin_operator
+succumb hangover learning scallop uranus vulcan
+1
+8 12
+2
+0 21 2 3
+0 22 20 12
+1
+end_operator
+begin_operator
+succumb hangover learning scallop vulcan jupiter
+1
+8 12
+2
+0 21 3 1
+0 22 20 12
+1
+end_operator
+begin_operator
+succumb hangover learning tomato earth uranus
+1
+8 13
+2
+0 21 0 2
+0 22 20 13
+1
+end_operator
+begin_operator
+succumb hangover learning tomato uranus vulcan
+1
+8 13
+2
+0 21 2 3
+0 22 20 13
+1
+end_operator
+begin_operator
+succumb hangover learning tomato vulcan jupiter
+1
+8 13
+2
+0 21 3 1
+0 22 20 13
+1
+end_operator
+begin_operator
+succumb hangover learning tuna earth uranus
+1
+8 14
+2
+0 21 0 2
+0 22 20 14
+1
+end_operator
+begin_operator
+succumb hangover learning tuna uranus vulcan
+1
+8 14
+2
+0 21 2 3
+0 22 20 14
+1
+end_operator
+begin_operator
+succumb hangover learning tuna vulcan jupiter
+1
+8 14
+2
+0 21 3 1
+0 22 20 14
+1
+end_operator
+begin_operator
+succumb hangover learning turkey earth uranus
+1
+8 15
+2
+0 21 0 2
+0 22 20 15
+1
+end_operator
+begin_operator
+succumb hangover learning turkey uranus vulcan
+1
+8 15
+2
+0 21 2 3
+0 22 20 15
+1
+end_operator
+begin_operator
+succumb hangover learning turkey vulcan jupiter
+1
+8 15
+2
+0 21 3 1
+0 22 20 15
+1
+end_operator
+begin_operator
+succumb hangover learning wonderbread earth uranus
+1
+8 16
+2
+0 21 0 2
+0 22 20 16
+1
+end_operator
+begin_operator
+succumb hangover learning wonderbread uranus vulcan
+1
+8 16
+2
+0 21 2 3
+0 22 20 16
+1
+end_operator
+begin_operator
+succumb hangover learning wonderbread vulcan jupiter
+1
+8 16
+2
+0 21 3 1
+0 22 20 16
+1
+end_operator
+begin_operator
+succumb hangover love arugula earth uranus
+1
+10 0
+2
+0 22 21 0
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb hangover love arugula uranus vulcan
+1
+10 0
+2
+0 22 21 0
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb hangover love arugula vulcan jupiter
+1
+10 0
+2
+0 22 21 0
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb hangover love baguette earth uranus
+1
+10 1
+2
+0 22 21 1
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb hangover love baguette uranus vulcan
+1
+10 1
+2
+0 22 21 1
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb hangover love baguette vulcan jupiter
+1
+10 1
+2
+0 22 21 1
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb hangover love cantelope earth uranus
+1
+10 2
+2
+0 22 21 2
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb hangover love cantelope uranus vulcan
+1
+10 2
+2
+0 22 21 2
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb hangover love cantelope vulcan jupiter
+1
+10 2
+2
+0 22 21 2
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb hangover love flounder earth uranus
+1
+10 3
+2
+0 22 21 3
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb hangover love flounder uranus vulcan
+1
+10 3
+2
+0 22 21 3
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb hangover love flounder vulcan jupiter
+1
+10 3
+2
+0 22 21 3
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb hangover love hotdog earth uranus
+1
+10 4
+2
+0 22 21 4
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb hangover love hotdog uranus vulcan
+1
+10 4
+2
+0 22 21 4
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb hangover love hotdog vulcan jupiter
+1
+10 4
+2
+0 22 21 4
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb hangover love lobster earth uranus
+1
+10 5
+2
+0 22 21 5
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb hangover love lobster uranus vulcan
+1
+10 5
+2
+0 22 21 5
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb hangover love lobster vulcan jupiter
+1
+10 5
+2
+0 22 21 5
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb hangover love muffin earth uranus
+1
+10 6
+2
+0 22 21 6
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb hangover love muffin uranus vulcan
+1
+10 6
+2
+0 22 21 6
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb hangover love muffin vulcan jupiter
+1
+10 6
+2
+0 22 21 6
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb hangover love okra earth uranus
+1
+10 7
+2
+0 22 21 7
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb hangover love okra uranus vulcan
+1
+10 7
+2
+0 22 21 7
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb hangover love okra vulcan jupiter
+1
+10 7
+2
+0 22 21 7
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb hangover love pepper earth uranus
+1
+10 8
+2
+0 22 21 8
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb hangover love pepper uranus vulcan
+1
+10 8
+2
+0 22 21 8
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb hangover love pepper vulcan jupiter
+1
+10 8
+2
+0 22 21 8
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb hangover love pistachio earth uranus
+1
+10 9
+2
+0 22 21 9
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb hangover love pistachio uranus vulcan
+1
+10 9
+2
+0 22 21 9
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb hangover love pistachio vulcan jupiter
+1
+10 9
+2
+0 22 21 9
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb hangover love pork earth uranus
+1
+10 10
+2
+0 22 21 10
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb hangover love pork uranus vulcan
+1
+10 10
+2
+0 22 21 10
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb hangover love pork vulcan jupiter
+1
+10 10
+2
+0 22 21 10
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb hangover love rice earth uranus
+1
+10 11
+2
+0 22 21 11
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb hangover love rice uranus vulcan
+1
+10 11
+2
+0 22 21 11
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb hangover love rice vulcan jupiter
+1
+10 11
+2
+0 22 21 11
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb hangover love scallop earth uranus
+1
+10 12
+2
+0 22 21 12
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb hangover love scallop uranus vulcan
+1
+10 12
+2
+0 22 21 12
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb hangover love scallop vulcan jupiter
+1
+10 12
+2
+0 22 21 12
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb hangover love tomato earth uranus
+1
+10 13
+2
+0 22 21 13
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb hangover love tomato uranus vulcan
+1
+10 13
+2
+0 22 21 13
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb hangover love tomato vulcan jupiter
+1
+10 13
+2
+0 22 21 13
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb hangover love tuna earth uranus
+1
+10 14
+2
+0 22 21 14
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb hangover love tuna uranus vulcan
+1
+10 14
+2
+0 22 21 14
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb hangover love tuna vulcan jupiter
+1
+10 14
+2
+0 22 21 14
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb hangover love turkey earth uranus
+1
+10 15
+2
+0 22 21 15
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb hangover love turkey uranus vulcan
+1
+10 15
+2
+0 22 21 15
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb hangover love turkey vulcan jupiter
+1
+10 15
+2
+0 22 21 15
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb hangover love wonderbread earth uranus
+1
+10 16
+2
+0 22 21 16
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb hangover love wonderbread uranus vulcan
+1
+10 16
+2
+0 22 21 16
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb hangover love wonderbread vulcan jupiter
+1
+10 16
+2
+0 22 21 16
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb hangover lubricity arugula earth uranus
+0
+2
+0 14 0 2
+0 22 22 0
+1
+end_operator
+begin_operator
+succumb hangover lubricity arugula uranus vulcan
+0
+2
+0 14 2 3
+0 22 22 0
+1
+end_operator
+begin_operator
+succumb hangover lubricity arugula vulcan jupiter
+0
+2
+0 14 3 1
+0 22 22 0
+1
+end_operator
+begin_operator
+succumb hangover rest arugula earth uranus
+1
+11 0
+2
+0 22 23 0
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb hangover rest arugula uranus vulcan
+1
+11 0
+2
+0 22 23 0
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb hangover rest arugula vulcan jupiter
+1
+11 0
+2
+0 22 23 0
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb hangover rest baguette earth uranus
+1
+11 1
+2
+0 22 23 1
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb hangover rest baguette uranus vulcan
+1
+11 1
+2
+0 22 23 1
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb hangover rest baguette vulcan jupiter
+1
+11 1
+2
+0 22 23 1
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb hangover rest cantelope earth uranus
+1
+11 2
+2
+0 22 23 2
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb hangover rest cantelope uranus vulcan
+1
+11 2
+2
+0 22 23 2
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb hangover rest cantelope vulcan jupiter
+1
+11 2
+2
+0 22 23 2
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb hangover rest flounder earth uranus
+1
+11 3
+2
+0 22 23 3
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb hangover rest flounder uranus vulcan
+1
+11 3
+2
+0 22 23 3
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb hangover rest flounder vulcan jupiter
+1
+11 3
+2
+0 22 23 3
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb hangover rest hotdog earth uranus
+1
+11 4
+2
+0 22 23 4
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb hangover rest hotdog uranus vulcan
+1
+11 4
+2
+0 22 23 4
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb hangover rest hotdog vulcan jupiter
+1
+11 4
+2
+0 22 23 4
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb hangover rest lobster earth uranus
+1
+11 5
+2
+0 22 23 5
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb hangover rest lobster uranus vulcan
+1
+11 5
+2
+0 22 23 5
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb hangover rest lobster vulcan jupiter
+1
+11 5
+2
+0 22 23 5
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb hangover rest muffin earth uranus
+1
+11 6
+2
+0 22 23 6
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb hangover rest muffin uranus vulcan
+1
+11 6
+2
+0 22 23 6
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb hangover rest muffin vulcan jupiter
+1
+11 6
+2
+0 22 23 6
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb hangover rest okra earth uranus
+1
+11 7
+2
+0 22 23 7
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb hangover rest okra uranus vulcan
+1
+11 7
+2
+0 22 23 7
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb hangover rest okra vulcan jupiter
+1
+11 7
+2
+0 22 23 7
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb hangover rest pepper earth uranus
+1
+11 8
+2
+0 22 23 8
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb hangover rest pepper uranus vulcan
+1
+11 8
+2
+0 22 23 8
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb hangover rest pepper vulcan jupiter
+1
+11 8
+2
+0 22 23 8
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb hangover rest pistachio earth uranus
+1
+11 9
+2
+0 22 23 9
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb hangover rest pistachio uranus vulcan
+1
+11 9
+2
+0 22 23 9
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb hangover rest pistachio vulcan jupiter
+1
+11 9
+2
+0 22 23 9
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb hangover rest pork earth uranus
+1
+11 10
+2
+0 22 23 10
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb hangover rest pork uranus vulcan
+1
+11 10
+2
+0 22 23 10
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb hangover rest pork vulcan jupiter
+1
+11 10
+2
+0 22 23 10
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb hangover rest rice earth uranus
+1
+11 11
+2
+0 22 23 11
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb hangover rest rice uranus vulcan
+1
+11 11
+2
+0 22 23 11
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb hangover rest rice vulcan jupiter
+1
+11 11
+2
+0 22 23 11
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb hangover rest scallop earth uranus
+1
+11 12
+2
+0 22 23 12
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb hangover rest scallop uranus vulcan
+1
+11 12
+2
+0 22 23 12
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb hangover rest scallop vulcan jupiter
+1
+11 12
+2
+0 22 23 12
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb hangover rest tomato earth uranus
+1
+11 13
+2
+0 22 23 13
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb hangover rest tomato uranus vulcan
+1
+11 13
+2
+0 22 23 13
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb hangover rest tomato vulcan jupiter
+1
+11 13
+2
+0 22 23 13
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb hangover rest tuna earth uranus
+1
+11 14
+2
+0 22 23 14
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb hangover rest tuna uranus vulcan
+1
+11 14
+2
+0 22 23 14
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb hangover rest tuna vulcan jupiter
+1
+11 14
+2
+0 22 23 14
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb hangover rest turkey earth uranus
+1
+11 15
+2
+0 22 23 15
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb hangover rest turkey uranus vulcan
+1
+11 15
+2
+0 22 23 15
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb hangover rest turkey vulcan jupiter
+1
+11 15
+2
+0 22 23 15
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb hangover rest wonderbread earth uranus
+1
+11 16
+2
+0 22 23 16
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb hangover rest wonderbread uranus vulcan
+1
+11 16
+2
+0 22 23 16
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb hangover rest wonderbread vulcan jupiter
+1
+11 16
+2
+0 22 23 16
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb hangover stimulation muffin earth uranus
+0
+2
+0 15 0 2
+0 22 24 6
+1
+end_operator
+begin_operator
+succumb hangover stimulation muffin uranus vulcan
+0
+2
+0 15 2 3
+0 22 24 6
+1
+end_operator
+begin_operator
+succumb hangover stimulation muffin vulcan jupiter
+0
+2
+0 15 3 1
+0 22 24 6
+1
+end_operator
+begin_operator
+succumb hangover triumph hotdog earth uranus
+0
+2
+0 16 0 2
+0 22 25 4
+1
+end_operator
+begin_operator
+succumb hangover triumph hotdog uranus vulcan
+0
+2
+0 16 2 3
+0 22 25 4
+1
+end_operator
+begin_operator
+succumb hangover triumph hotdog vulcan jupiter
+0
+2
+0 16 3 1
+0 22 25 4
+1
+end_operator
+begin_operator
+succumb sciatica achievement rice earth uranus
+0
+2
+0 13 0 2
+0 23 17 11
+1
+end_operator
+begin_operator
+succumb sciatica achievement rice uranus vulcan
+0
+2
+0 13 2 3
+0 23 17 11
+1
+end_operator
+begin_operator
+succumb sciatica achievement rice vulcan jupiter
+0
+2
+0 13 3 1
+0 23 17 11
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics arugula earth uranus
+1
+5 0
+2
+0 17 0 2
+0 23 18 0
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics arugula uranus vulcan
+1
+5 0
+2
+0 17 2 3
+0 23 18 0
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics arugula vulcan jupiter
+1
+5 0
+2
+0 17 3 1
+0 23 18 0
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics baguette earth uranus
+1
+5 1
+2
+0 17 0 2
+0 23 18 1
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics baguette uranus vulcan
+1
+5 1
+2
+0 17 2 3
+0 23 18 1
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics baguette vulcan jupiter
+1
+5 1
+2
+0 17 3 1
+0 23 18 1
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics cantelope earth uranus
+1
+5 2
+2
+0 17 0 2
+0 23 18 2
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics cantelope uranus vulcan
+1
+5 2
+2
+0 17 2 3
+0 23 18 2
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics cantelope vulcan jupiter
+1
+5 2
+2
+0 17 3 1
+0 23 18 2
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics flounder earth uranus
+1
+5 3
+2
+0 17 0 2
+0 23 18 3
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics flounder uranus vulcan
+1
+5 3
+2
+0 17 2 3
+0 23 18 3
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics flounder vulcan jupiter
+1
+5 3
+2
+0 17 3 1
+0 23 18 3
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics hotdog earth uranus
+1
+5 4
+2
+0 17 0 2
+0 23 18 4
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics hotdog uranus vulcan
+1
+5 4
+2
+0 17 2 3
+0 23 18 4
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics hotdog vulcan jupiter
+1
+5 4
+2
+0 17 3 1
+0 23 18 4
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics lobster earth uranus
+1
+5 5
+2
+0 17 0 2
+0 23 18 5
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics lobster uranus vulcan
+1
+5 5
+2
+0 17 2 3
+0 23 18 5
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics lobster vulcan jupiter
+1
+5 5
+2
+0 17 3 1
+0 23 18 5
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics muffin earth uranus
+1
+5 6
+2
+0 17 0 2
+0 23 18 6
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics muffin uranus vulcan
+1
+5 6
+2
+0 17 2 3
+0 23 18 6
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics muffin vulcan jupiter
+1
+5 6
+2
+0 17 3 1
+0 23 18 6
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics okra earth uranus
+1
+5 7
+2
+0 17 0 2
+0 23 18 7
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics okra uranus vulcan
+1
+5 7
+2
+0 17 2 3
+0 23 18 7
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics okra vulcan jupiter
+1
+5 7
+2
+0 17 3 1
+0 23 18 7
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics pepper earth uranus
+1
+5 8
+2
+0 17 0 2
+0 23 18 8
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics pepper uranus vulcan
+1
+5 8
+2
+0 17 2 3
+0 23 18 8
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics pepper vulcan jupiter
+1
+5 8
+2
+0 17 3 1
+0 23 18 8
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics pistachio earth uranus
+1
+5 9
+2
+0 17 0 2
+0 23 18 9
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics pistachio uranus vulcan
+1
+5 9
+2
+0 17 2 3
+0 23 18 9
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics pistachio vulcan jupiter
+1
+5 9
+2
+0 17 3 1
+0 23 18 9
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics pork earth uranus
+1
+5 10
+2
+0 17 0 2
+0 23 18 10
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics pork uranus vulcan
+1
+5 10
+2
+0 17 2 3
+0 23 18 10
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics pork vulcan jupiter
+1
+5 10
+2
+0 17 3 1
+0 23 18 10
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics rice earth uranus
+1
+5 11
+2
+0 17 0 2
+0 23 18 11
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics rice uranus vulcan
+1
+5 11
+2
+0 17 2 3
+0 23 18 11
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics rice vulcan jupiter
+1
+5 11
+2
+0 17 3 1
+0 23 18 11
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics scallop earth uranus
+1
+5 12
+2
+0 17 0 2
+0 23 18 12
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics scallop uranus vulcan
+1
+5 12
+2
+0 17 2 3
+0 23 18 12
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics scallop vulcan jupiter
+1
+5 12
+2
+0 17 3 1
+0 23 18 12
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics tomato earth uranus
+1
+5 13
+2
+0 17 0 2
+0 23 18 13
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics tomato uranus vulcan
+1
+5 13
+2
+0 17 2 3
+0 23 18 13
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics tomato vulcan jupiter
+1
+5 13
+2
+0 17 3 1
+0 23 18 13
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics tuna earth uranus
+1
+5 14
+2
+0 17 0 2
+0 23 18 14
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics tuna uranus vulcan
+1
+5 14
+2
+0 17 2 3
+0 23 18 14
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics tuna vulcan jupiter
+1
+5 14
+2
+0 17 3 1
+0 23 18 14
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics turkey earth uranus
+1
+5 15
+2
+0 17 0 2
+0 23 18 15
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics turkey uranus vulcan
+1
+5 15
+2
+0 17 2 3
+0 23 18 15
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics turkey vulcan jupiter
+1
+5 15
+2
+0 17 3 1
+0 23 18 15
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics wonderbread earth uranus
+1
+5 16
+2
+0 17 0 2
+0 23 18 16
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics wonderbread uranus vulcan
+1
+5 16
+2
+0 17 2 3
+0 23 18 16
+1
+end_operator
+begin_operator
+succumb sciatica aesthetics wonderbread vulcan jupiter
+1
+5 16
+2
+0 17 3 1
+0 23 18 16
+1
+end_operator
+begin_operator
+succumb sciatica excitement arugula earth uranus
+1
+7 0
+2
+0 20 0 2
+0 23 19 0
+1
+end_operator
+begin_operator
+succumb sciatica excitement arugula uranus vulcan
+1
+7 0
+2
+0 20 2 3
+0 23 19 0
+1
+end_operator
+begin_operator
+succumb sciatica excitement arugula vulcan jupiter
+1
+7 0
+2
+0 20 3 1
+0 23 19 0
+1
+end_operator
+begin_operator
+succumb sciatica excitement baguette earth uranus
+1
+7 1
+2
+0 20 0 2
+0 23 19 1
+1
+end_operator
+begin_operator
+succumb sciatica excitement baguette uranus vulcan
+1
+7 1
+2
+0 20 2 3
+0 23 19 1
+1
+end_operator
+begin_operator
+succumb sciatica excitement baguette vulcan jupiter
+1
+7 1
+2
+0 20 3 1
+0 23 19 1
+1
+end_operator
+begin_operator
+succumb sciatica excitement cantelope earth uranus
+1
+7 2
+2
+0 20 0 2
+0 23 19 2
+1
+end_operator
+begin_operator
+succumb sciatica excitement cantelope uranus vulcan
+1
+7 2
+2
+0 20 2 3
+0 23 19 2
+1
+end_operator
+begin_operator
+succumb sciatica excitement cantelope vulcan jupiter
+1
+7 2
+2
+0 20 3 1
+0 23 19 2
+1
+end_operator
+begin_operator
+succumb sciatica excitement flounder earth uranus
+1
+7 3
+2
+0 20 0 2
+0 23 19 3
+1
+end_operator
+begin_operator
+succumb sciatica excitement flounder uranus vulcan
+1
+7 3
+2
+0 20 2 3
+0 23 19 3
+1
+end_operator
+begin_operator
+succumb sciatica excitement flounder vulcan jupiter
+1
+7 3
+2
+0 20 3 1
+0 23 19 3
+1
+end_operator
+begin_operator
+succumb sciatica excitement hotdog earth uranus
+1
+7 4
+2
+0 20 0 2
+0 23 19 4
+1
+end_operator
+begin_operator
+succumb sciatica excitement hotdog uranus vulcan
+1
+7 4
+2
+0 20 2 3
+0 23 19 4
+1
+end_operator
+begin_operator
+succumb sciatica excitement hotdog vulcan jupiter
+1
+7 4
+2
+0 20 3 1
+0 23 19 4
+1
+end_operator
+begin_operator
+succumb sciatica excitement lobster earth uranus
+1
+7 5
+2
+0 20 0 2
+0 23 19 5
+1
+end_operator
+begin_operator
+succumb sciatica excitement lobster uranus vulcan
+1
+7 5
+2
+0 20 2 3
+0 23 19 5
+1
+end_operator
+begin_operator
+succumb sciatica excitement lobster vulcan jupiter
+1
+7 5
+2
+0 20 3 1
+0 23 19 5
+1
+end_operator
+begin_operator
+succumb sciatica excitement muffin earth uranus
+1
+7 6
+2
+0 20 0 2
+0 23 19 6
+1
+end_operator
+begin_operator
+succumb sciatica excitement muffin uranus vulcan
+1
+7 6
+2
+0 20 2 3
+0 23 19 6
+1
+end_operator
+begin_operator
+succumb sciatica excitement muffin vulcan jupiter
+1
+7 6
+2
+0 20 3 1
+0 23 19 6
+1
+end_operator
+begin_operator
+succumb sciatica excitement okra earth uranus
+1
+7 7
+2
+0 20 0 2
+0 23 19 7
+1
+end_operator
+begin_operator
+succumb sciatica excitement okra uranus vulcan
+1
+7 7
+2
+0 20 2 3
+0 23 19 7
+1
+end_operator
+begin_operator
+succumb sciatica excitement okra vulcan jupiter
+1
+7 7
+2
+0 20 3 1
+0 23 19 7
+1
+end_operator
+begin_operator
+succumb sciatica excitement pepper earth uranus
+1
+7 8
+2
+0 20 0 2
+0 23 19 8
+1
+end_operator
+begin_operator
+succumb sciatica excitement pepper uranus vulcan
+1
+7 8
+2
+0 20 2 3
+0 23 19 8
+1
+end_operator
+begin_operator
+succumb sciatica excitement pepper vulcan jupiter
+1
+7 8
+2
+0 20 3 1
+0 23 19 8
+1
+end_operator
+begin_operator
+succumb sciatica excitement pistachio earth uranus
+1
+7 9
+2
+0 20 0 2
+0 23 19 9
+1
+end_operator
+begin_operator
+succumb sciatica excitement pistachio uranus vulcan
+1
+7 9
+2
+0 20 2 3
+0 23 19 9
+1
+end_operator
+begin_operator
+succumb sciatica excitement pistachio vulcan jupiter
+1
+7 9
+2
+0 20 3 1
+0 23 19 9
+1
+end_operator
+begin_operator
+succumb sciatica excitement pork earth uranus
+1
+7 10
+2
+0 20 0 2
+0 23 19 10
+1
+end_operator
+begin_operator
+succumb sciatica excitement pork uranus vulcan
+1
+7 10
+2
+0 20 2 3
+0 23 19 10
+1
+end_operator
+begin_operator
+succumb sciatica excitement pork vulcan jupiter
+1
+7 10
+2
+0 20 3 1
+0 23 19 10
+1
+end_operator
+begin_operator
+succumb sciatica excitement rice earth uranus
+1
+7 11
+2
+0 20 0 2
+0 23 19 11
+1
+end_operator
+begin_operator
+succumb sciatica excitement rice uranus vulcan
+1
+7 11
+2
+0 20 2 3
+0 23 19 11
+1
+end_operator
+begin_operator
+succumb sciatica excitement rice vulcan jupiter
+1
+7 11
+2
+0 20 3 1
+0 23 19 11
+1
+end_operator
+begin_operator
+succumb sciatica excitement scallop earth uranus
+1
+7 12
+2
+0 20 0 2
+0 23 19 12
+1
+end_operator
+begin_operator
+succumb sciatica excitement scallop uranus vulcan
+1
+7 12
+2
+0 20 2 3
+0 23 19 12
+1
+end_operator
+begin_operator
+succumb sciatica excitement scallop vulcan jupiter
+1
+7 12
+2
+0 20 3 1
+0 23 19 12
+1
+end_operator
+begin_operator
+succumb sciatica excitement tomato earth uranus
+1
+7 13
+2
+0 20 0 2
+0 23 19 13
+1
+end_operator
+begin_operator
+succumb sciatica excitement tomato uranus vulcan
+1
+7 13
+2
+0 20 2 3
+0 23 19 13
+1
+end_operator
+begin_operator
+succumb sciatica excitement tomato vulcan jupiter
+1
+7 13
+2
+0 20 3 1
+0 23 19 13
+1
+end_operator
+begin_operator
+succumb sciatica excitement tuna earth uranus
+1
+7 14
+2
+0 20 0 2
+0 23 19 14
+1
+end_operator
+begin_operator
+succumb sciatica excitement tuna uranus vulcan
+1
+7 14
+2
+0 20 2 3
+0 23 19 14
+1
+end_operator
+begin_operator
+succumb sciatica excitement tuna vulcan jupiter
+1
+7 14
+2
+0 20 3 1
+0 23 19 14
+1
+end_operator
+begin_operator
+succumb sciatica excitement turkey earth uranus
+1
+7 15
+2
+0 20 0 2
+0 23 19 15
+1
+end_operator
+begin_operator
+succumb sciatica excitement turkey uranus vulcan
+1
+7 15
+2
+0 20 2 3
+0 23 19 15
+1
+end_operator
+begin_operator
+succumb sciatica excitement turkey vulcan jupiter
+1
+7 15
+2
+0 20 3 1
+0 23 19 15
+1
+end_operator
+begin_operator
+succumb sciatica excitement wonderbread earth uranus
+1
+7 16
+2
+0 20 0 2
+0 23 19 16
+1
+end_operator
+begin_operator
+succumb sciatica excitement wonderbread uranus vulcan
+1
+7 16
+2
+0 20 2 3
+0 23 19 16
+1
+end_operator
+begin_operator
+succumb sciatica excitement wonderbread vulcan jupiter
+1
+7 16
+2
+0 20 3 1
+0 23 19 16
+1
+end_operator
+begin_operator
+succumb sciatica learning arugula earth uranus
+1
+8 0
+2
+0 21 0 2
+0 23 20 0
+1
+end_operator
+begin_operator
+succumb sciatica learning arugula uranus vulcan
+1
+8 0
+2
+0 21 2 3
+0 23 20 0
+1
+end_operator
+begin_operator
+succumb sciatica learning arugula vulcan jupiter
+1
+8 0
+2
+0 21 3 1
+0 23 20 0
+1
+end_operator
+begin_operator
+succumb sciatica learning baguette earth uranus
+1
+8 1
+2
+0 21 0 2
+0 23 20 1
+1
+end_operator
+begin_operator
+succumb sciatica learning baguette uranus vulcan
+1
+8 1
+2
+0 21 2 3
+0 23 20 1
+1
+end_operator
+begin_operator
+succumb sciatica learning baguette vulcan jupiter
+1
+8 1
+2
+0 21 3 1
+0 23 20 1
+1
+end_operator
+begin_operator
+succumb sciatica learning cantelope earth uranus
+1
+8 2
+2
+0 21 0 2
+0 23 20 2
+1
+end_operator
+begin_operator
+succumb sciatica learning cantelope uranus vulcan
+1
+8 2
+2
+0 21 2 3
+0 23 20 2
+1
+end_operator
+begin_operator
+succumb sciatica learning cantelope vulcan jupiter
+1
+8 2
+2
+0 21 3 1
+0 23 20 2
+1
+end_operator
+begin_operator
+succumb sciatica learning flounder earth uranus
+1
+8 3
+2
+0 21 0 2
+0 23 20 3
+1
+end_operator
+begin_operator
+succumb sciatica learning flounder uranus vulcan
+1
+8 3
+2
+0 21 2 3
+0 23 20 3
+1
+end_operator
+begin_operator
+succumb sciatica learning flounder vulcan jupiter
+1
+8 3
+2
+0 21 3 1
+0 23 20 3
+1
+end_operator
+begin_operator
+succumb sciatica learning hotdog earth uranus
+1
+8 4
+2
+0 21 0 2
+0 23 20 4
+1
+end_operator
+begin_operator
+succumb sciatica learning hotdog uranus vulcan
+1
+8 4
+2
+0 21 2 3
+0 23 20 4
+1
+end_operator
+begin_operator
+succumb sciatica learning hotdog vulcan jupiter
+1
+8 4
+2
+0 21 3 1
+0 23 20 4
+1
+end_operator
+begin_operator
+succumb sciatica learning lobster earth uranus
+1
+8 5
+2
+0 21 0 2
+0 23 20 5
+1
+end_operator
+begin_operator
+succumb sciatica learning lobster uranus vulcan
+1
+8 5
+2
+0 21 2 3
+0 23 20 5
+1
+end_operator
+begin_operator
+succumb sciatica learning lobster vulcan jupiter
+1
+8 5
+2
+0 21 3 1
+0 23 20 5
+1
+end_operator
+begin_operator
+succumb sciatica learning muffin earth uranus
+1
+8 6
+2
+0 21 0 2
+0 23 20 6
+1
+end_operator
+begin_operator
+succumb sciatica learning muffin uranus vulcan
+1
+8 6
+2
+0 21 2 3
+0 23 20 6
+1
+end_operator
+begin_operator
+succumb sciatica learning muffin vulcan jupiter
+1
+8 6
+2
+0 21 3 1
+0 23 20 6
+1
+end_operator
+begin_operator
+succumb sciatica learning okra earth uranus
+1
+8 7
+2
+0 21 0 2
+0 23 20 7
+1
+end_operator
+begin_operator
+succumb sciatica learning okra uranus vulcan
+1
+8 7
+2
+0 21 2 3
+0 23 20 7
+1
+end_operator
+begin_operator
+succumb sciatica learning okra vulcan jupiter
+1
+8 7
+2
+0 21 3 1
+0 23 20 7
+1
+end_operator
+begin_operator
+succumb sciatica learning pepper earth uranus
+1
+8 8
+2
+0 21 0 2
+0 23 20 8
+1
+end_operator
+begin_operator
+succumb sciatica learning pepper uranus vulcan
+1
+8 8
+2
+0 21 2 3
+0 23 20 8
+1
+end_operator
+begin_operator
+succumb sciatica learning pepper vulcan jupiter
+1
+8 8
+2
+0 21 3 1
+0 23 20 8
+1
+end_operator
+begin_operator
+succumb sciatica learning pistachio earth uranus
+1
+8 9
+2
+0 21 0 2
+0 23 20 9
+1
+end_operator
+begin_operator
+succumb sciatica learning pistachio uranus vulcan
+1
+8 9
+2
+0 21 2 3
+0 23 20 9
+1
+end_operator
+begin_operator
+succumb sciatica learning pistachio vulcan jupiter
+1
+8 9
+2
+0 21 3 1
+0 23 20 9
+1
+end_operator
+begin_operator
+succumb sciatica learning pork earth uranus
+1
+8 10
+2
+0 21 0 2
+0 23 20 10
+1
+end_operator
+begin_operator
+succumb sciatica learning pork uranus vulcan
+1
+8 10
+2
+0 21 2 3
+0 23 20 10
+1
+end_operator
+begin_operator
+succumb sciatica learning pork vulcan jupiter
+1
+8 10
+2
+0 21 3 1
+0 23 20 10
+1
+end_operator
+begin_operator
+succumb sciatica learning rice earth uranus
+1
+8 11
+2
+0 21 0 2
+0 23 20 11
+1
+end_operator
+begin_operator
+succumb sciatica learning rice uranus vulcan
+1
+8 11
+2
+0 21 2 3
+0 23 20 11
+1
+end_operator
+begin_operator
+succumb sciatica learning rice vulcan jupiter
+1
+8 11
+2
+0 21 3 1
+0 23 20 11
+1
+end_operator
+begin_operator
+succumb sciatica learning scallop earth uranus
+1
+8 12
+2
+0 21 0 2
+0 23 20 12
+1
+end_operator
+begin_operator
+succumb sciatica learning scallop uranus vulcan
+1
+8 12
+2
+0 21 2 3
+0 23 20 12
+1
+end_operator
+begin_operator
+succumb sciatica learning scallop vulcan jupiter
+1
+8 12
+2
+0 21 3 1
+0 23 20 12
+1
+end_operator
+begin_operator
+succumb sciatica learning tomato earth uranus
+1
+8 13
+2
+0 21 0 2
+0 23 20 13
+1
+end_operator
+begin_operator
+succumb sciatica learning tomato uranus vulcan
+1
+8 13
+2
+0 21 2 3
+0 23 20 13
+1
+end_operator
+begin_operator
+succumb sciatica learning tomato vulcan jupiter
+1
+8 13
+2
+0 21 3 1
+0 23 20 13
+1
+end_operator
+begin_operator
+succumb sciatica learning tuna earth uranus
+1
+8 14
+2
+0 21 0 2
+0 23 20 14
+1
+end_operator
+begin_operator
+succumb sciatica learning tuna uranus vulcan
+1
+8 14
+2
+0 21 2 3
+0 23 20 14
+1
+end_operator
+begin_operator
+succumb sciatica learning tuna vulcan jupiter
+1
+8 14
+2
+0 21 3 1
+0 23 20 14
+1
+end_operator
+begin_operator
+succumb sciatica learning turkey earth uranus
+1
+8 15
+2
+0 21 0 2
+0 23 20 15
+1
+end_operator
+begin_operator
+succumb sciatica learning turkey uranus vulcan
+1
+8 15
+2
+0 21 2 3
+0 23 20 15
+1
+end_operator
+begin_operator
+succumb sciatica learning turkey vulcan jupiter
+1
+8 15
+2
+0 21 3 1
+0 23 20 15
+1
+end_operator
+begin_operator
+succumb sciatica learning wonderbread earth uranus
+1
+8 16
+2
+0 21 0 2
+0 23 20 16
+1
+end_operator
+begin_operator
+succumb sciatica learning wonderbread uranus vulcan
+1
+8 16
+2
+0 21 2 3
+0 23 20 16
+1
+end_operator
+begin_operator
+succumb sciatica learning wonderbread vulcan jupiter
+1
+8 16
+2
+0 21 3 1
+0 23 20 16
+1
+end_operator
+begin_operator
+succumb sciatica love arugula earth uranus
+1
+10 0
+2
+0 23 21 0
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb sciatica love arugula uranus vulcan
+1
+10 0
+2
+0 23 21 0
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb sciatica love arugula vulcan jupiter
+1
+10 0
+2
+0 23 21 0
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb sciatica love baguette earth uranus
+1
+10 1
+2
+0 23 21 1
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb sciatica love baguette uranus vulcan
+1
+10 1
+2
+0 23 21 1
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb sciatica love baguette vulcan jupiter
+1
+10 1
+2
+0 23 21 1
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb sciatica love cantelope earth uranus
+1
+10 2
+2
+0 23 21 2
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb sciatica love cantelope uranus vulcan
+1
+10 2
+2
+0 23 21 2
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb sciatica love cantelope vulcan jupiter
+1
+10 2
+2
+0 23 21 2
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb sciatica love flounder earth uranus
+1
+10 3
+2
+0 23 21 3
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb sciatica love flounder uranus vulcan
+1
+10 3
+2
+0 23 21 3
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb sciatica love flounder vulcan jupiter
+1
+10 3
+2
+0 23 21 3
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb sciatica love hotdog earth uranus
+1
+10 4
+2
+0 23 21 4
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb sciatica love hotdog uranus vulcan
+1
+10 4
+2
+0 23 21 4
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb sciatica love hotdog vulcan jupiter
+1
+10 4
+2
+0 23 21 4
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb sciatica love lobster earth uranus
+1
+10 5
+2
+0 23 21 5
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb sciatica love lobster uranus vulcan
+1
+10 5
+2
+0 23 21 5
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb sciatica love lobster vulcan jupiter
+1
+10 5
+2
+0 23 21 5
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb sciatica love muffin earth uranus
+1
+10 6
+2
+0 23 21 6
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb sciatica love muffin uranus vulcan
+1
+10 6
+2
+0 23 21 6
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb sciatica love muffin vulcan jupiter
+1
+10 6
+2
+0 23 21 6
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb sciatica love okra earth uranus
+1
+10 7
+2
+0 23 21 7
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb sciatica love okra uranus vulcan
+1
+10 7
+2
+0 23 21 7
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb sciatica love okra vulcan jupiter
+1
+10 7
+2
+0 23 21 7
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb sciatica love pepper earth uranus
+1
+10 8
+2
+0 23 21 8
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb sciatica love pepper uranus vulcan
+1
+10 8
+2
+0 23 21 8
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb sciatica love pepper vulcan jupiter
+1
+10 8
+2
+0 23 21 8
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb sciatica love pistachio earth uranus
+1
+10 9
+2
+0 23 21 9
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb sciatica love pistachio uranus vulcan
+1
+10 9
+2
+0 23 21 9
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb sciatica love pistachio vulcan jupiter
+1
+10 9
+2
+0 23 21 9
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb sciatica love pork earth uranus
+1
+10 10
+2
+0 23 21 10
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb sciatica love pork uranus vulcan
+1
+10 10
+2
+0 23 21 10
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb sciatica love pork vulcan jupiter
+1
+10 10
+2
+0 23 21 10
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb sciatica love rice earth uranus
+1
+10 11
+2
+0 23 21 11
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb sciatica love rice uranus vulcan
+1
+10 11
+2
+0 23 21 11
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb sciatica love rice vulcan jupiter
+1
+10 11
+2
+0 23 21 11
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb sciatica love scallop earth uranus
+1
+10 12
+2
+0 23 21 12
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb sciatica love scallop uranus vulcan
+1
+10 12
+2
+0 23 21 12
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb sciatica love scallop vulcan jupiter
+1
+10 12
+2
+0 23 21 12
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb sciatica love tomato earth uranus
+1
+10 13
+2
+0 23 21 13
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb sciatica love tomato uranus vulcan
+1
+10 13
+2
+0 23 21 13
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb sciatica love tomato vulcan jupiter
+1
+10 13
+2
+0 23 21 13
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb sciatica love tuna earth uranus
+1
+10 14
+2
+0 23 21 14
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb sciatica love tuna uranus vulcan
+1
+10 14
+2
+0 23 21 14
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb sciatica love tuna vulcan jupiter
+1
+10 14
+2
+0 23 21 14
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb sciatica love turkey earth uranus
+1
+10 15
+2
+0 23 21 15
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb sciatica love turkey uranus vulcan
+1
+10 15
+2
+0 23 21 15
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb sciatica love turkey vulcan jupiter
+1
+10 15
+2
+0 23 21 15
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb sciatica love wonderbread earth uranus
+1
+10 16
+2
+0 23 21 16
+0 24 0 2
+1
+end_operator
+begin_operator
+succumb sciatica love wonderbread uranus vulcan
+1
+10 16
+2
+0 23 21 16
+0 24 2 3
+1
+end_operator
+begin_operator
+succumb sciatica love wonderbread vulcan jupiter
+1
+10 16
+2
+0 23 21 16
+0 24 3 1
+1
+end_operator
+begin_operator
+succumb sciatica lubricity arugula earth uranus
+0
+2
+0 14 0 2
+0 23 22 0
+1
+end_operator
+begin_operator
+succumb sciatica lubricity arugula uranus vulcan
+0
+2
+0 14 2 3
+0 23 22 0
+1
+end_operator
+begin_operator
+succumb sciatica lubricity arugula vulcan jupiter
+0
+2
+0 14 3 1
+0 23 22 0
+1
+end_operator
+begin_operator
+succumb sciatica rest arugula earth uranus
+1
+11 0
+2
+0 23 23 0
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb sciatica rest arugula uranus vulcan
+1
+11 0
+2
+0 23 23 0
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb sciatica rest arugula vulcan jupiter
+1
+11 0
+2
+0 23 23 0
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb sciatica rest baguette earth uranus
+1
+11 1
+2
+0 23 23 1
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb sciatica rest baguette uranus vulcan
+1
+11 1
+2
+0 23 23 1
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb sciatica rest baguette vulcan jupiter
+1
+11 1
+2
+0 23 23 1
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb sciatica rest cantelope earth uranus
+1
+11 2
+2
+0 23 23 2
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb sciatica rest cantelope uranus vulcan
+1
+11 2
+2
+0 23 23 2
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb sciatica rest cantelope vulcan jupiter
+1
+11 2
+2
+0 23 23 2
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb sciatica rest flounder earth uranus
+1
+11 3
+2
+0 23 23 3
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb sciatica rest flounder uranus vulcan
+1
+11 3
+2
+0 23 23 3
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb sciatica rest flounder vulcan jupiter
+1
+11 3
+2
+0 23 23 3
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb sciatica rest hotdog earth uranus
+1
+11 4
+2
+0 23 23 4
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb sciatica rest hotdog uranus vulcan
+1
+11 4
+2
+0 23 23 4
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb sciatica rest hotdog vulcan jupiter
+1
+11 4
+2
+0 23 23 4
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb sciatica rest lobster earth uranus
+1
+11 5
+2
+0 23 23 5
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb sciatica rest lobster uranus vulcan
+1
+11 5
+2
+0 23 23 5
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb sciatica rest lobster vulcan jupiter
+1
+11 5
+2
+0 23 23 5
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb sciatica rest muffin earth uranus
+1
+11 6
+2
+0 23 23 6
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb sciatica rest muffin uranus vulcan
+1
+11 6
+2
+0 23 23 6
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb sciatica rest muffin vulcan jupiter
+1
+11 6
+2
+0 23 23 6
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb sciatica rest okra earth uranus
+1
+11 7
+2
+0 23 23 7
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb sciatica rest okra uranus vulcan
+1
+11 7
+2
+0 23 23 7
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb sciatica rest okra vulcan jupiter
+1
+11 7
+2
+0 23 23 7
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb sciatica rest pepper earth uranus
+1
+11 8
+2
+0 23 23 8
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb sciatica rest pepper uranus vulcan
+1
+11 8
+2
+0 23 23 8
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb sciatica rest pepper vulcan jupiter
+1
+11 8
+2
+0 23 23 8
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb sciatica rest pistachio earth uranus
+1
+11 9
+2
+0 23 23 9
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb sciatica rest pistachio uranus vulcan
+1
+11 9
+2
+0 23 23 9
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb sciatica rest pistachio vulcan jupiter
+1
+11 9
+2
+0 23 23 9
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb sciatica rest pork earth uranus
+1
+11 10
+2
+0 23 23 10
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb sciatica rest pork uranus vulcan
+1
+11 10
+2
+0 23 23 10
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb sciatica rest pork vulcan jupiter
+1
+11 10
+2
+0 23 23 10
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb sciatica rest rice earth uranus
+1
+11 11
+2
+0 23 23 11
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb sciatica rest rice uranus vulcan
+1
+11 11
+2
+0 23 23 11
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb sciatica rest rice vulcan jupiter
+1
+11 11
+2
+0 23 23 11
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb sciatica rest scallop earth uranus
+1
+11 12
+2
+0 23 23 12
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb sciatica rest scallop uranus vulcan
+1
+11 12
+2
+0 23 23 12
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb sciatica rest scallop vulcan jupiter
+1
+11 12
+2
+0 23 23 12
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb sciatica rest tomato earth uranus
+1
+11 13
+2
+0 23 23 13
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb sciatica rest tomato uranus vulcan
+1
+11 13
+2
+0 23 23 13
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb sciatica rest tomato vulcan jupiter
+1
+11 13
+2
+0 23 23 13
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb sciatica rest tuna earth uranus
+1
+11 14
+2
+0 23 23 14
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb sciatica rest tuna uranus vulcan
+1
+11 14
+2
+0 23 23 14
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb sciatica rest tuna vulcan jupiter
+1
+11 14
+2
+0 23 23 14
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb sciatica rest turkey earth uranus
+1
+11 15
+2
+0 23 23 15
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb sciatica rest turkey uranus vulcan
+1
+11 15
+2
+0 23 23 15
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb sciatica rest turkey vulcan jupiter
+1
+11 15
+2
+0 23 23 15
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb sciatica rest wonderbread earth uranus
+1
+11 16
+2
+0 23 23 16
+0 25 0 2
+1
+end_operator
+begin_operator
+succumb sciatica rest wonderbread uranus vulcan
+1
+11 16
+2
+0 23 23 16
+0 25 2 3
+1
+end_operator
+begin_operator
+succumb sciatica rest wonderbread vulcan jupiter
+1
+11 16
+2
+0 23 23 16
+0 25 3 1
+1
+end_operator
+begin_operator
+succumb sciatica stimulation muffin earth uranus
+0
+2
+0 15 0 2
+0 23 24 6
+1
+end_operator
+begin_operator
+succumb sciatica stimulation muffin uranus vulcan
+0
+2
+0 15 2 3
+0 23 24 6
+1
+end_operator
+begin_operator
+succumb sciatica stimulation muffin vulcan jupiter
+0
+2
+0 15 3 1
+0 23 24 6
+1
+end_operator
+begin_operator
+succumb sciatica triumph hotdog earth uranus
+0
+2
+0 16 0 2
+0 23 25 4
+1
+end_operator
+begin_operator
+succumb sciatica triumph hotdog uranus vulcan
+0
+2
+0 16 2 3
+0 23 25 4
+1
+end_operator
+begin_operator
+succumb sciatica triumph hotdog vulcan jupiter
+0
+2
+0 16 3 1
+0 23 25 4
+1
+end_operator
+0

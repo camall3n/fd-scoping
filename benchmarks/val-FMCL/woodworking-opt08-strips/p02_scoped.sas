@@ -1,0 +1,3117 @@
+begin_version
+3
+end_version
+begin_metric
+0
+end_metric
+22
+begin_variable
+var0
+-1
+2
+0
+1
+end_variable
+begin_variable
+var1
+-1
+4
+0
+1
+2
+3
+end_variable
+begin_variable
+var2
+-1
+2
+0
+1
+end_variable
+begin_variable
+var3
+-1
+2
+0
+1
+end_variable
+begin_variable
+var4
+-1
+2
+0
+1
+end_variable
+begin_variable
+var5
+-1
+2
+0
+1
+end_variable
+begin_variable
+var6
+-1
+2
+0
+1
+end_variable
+begin_variable
+var7
+-1
+3
+0
+1
+2
+end_variable
+begin_variable
+var8
+-1
+4
+0
+1
+2
+3
+end_variable
+begin_variable
+var9
+-1
+2
+0
+1
+end_variable
+begin_variable
+var10
+-1
+2
+0
+1
+end_variable
+begin_variable
+var11
+-1
+2
+0
+1
+end_variable
+begin_variable
+var12
+-1
+3
+0
+1
+2
+end_variable
+begin_variable
+var13
+-1
+4
+0
+1
+2
+3
+end_variable
+begin_variable
+var14
+-1
+2
+0
+1
+end_variable
+begin_variable
+var15
+-1
+2
+0
+1
+end_variable
+begin_variable
+var16
+-1
+4
+0
+1
+2
+3
+end_variable
+begin_variable
+var17
+-1
+5
+0
+1
+2
+3
+4
+end_variable
+begin_variable
+var18
+-1
+2
+0
+1
+end_variable
+begin_variable
+var19
+-1
+2
+0
+1
+end_variable
+begin_variable
+var20
+-1
+2
+0
+1
+end_variable
+begin_variable
+var21
+-1
+2
+0
+1
+end_variable
+3
+begin_mutex_group
+2
+17 4
+19 0
+end_mutex_group
+begin_mutex_group
+4
+16 0
+16 1
+16 2
+17 4
+end_mutex_group
+begin_mutex_group
+2
+17 4
+21 0
+end_mutex_group
+begin_state
+0
+1
+1
+1
+1
+1
+1
+0
+0
+1
+1
+1
+0
+3
+0
+1
+3
+4
+1
+1
+1
+1
+end_state
+begin_goal
+11
+3 0
+4 0
+7 2
+8 3
+9 0
+11 0
+12 1
+13 1
+19 0
+20 0
+21 0
+end_goal
+300
+begin_operator
+cut-board-large b0 p3 highspeed-saw0 beech rough s5 s3 s4 s2
+1
+14 1
+5
+0 16 -1 0
+0 17 4 2
+0 18 -1 0
+0 19 -1 0
+0 21 -1 0
+10
+end_operator
+begin_operator
+do-glaze p0 glazer0 mauve
+0
+2
+0 11 -1 0
+0 13 2 1
+15
+end_operator
+begin_operator
+do-glaze p0 glazer0 white
+0
+2
+0 10 -1 0
+0 13 2 1
+15
+end_operator
+begin_operator
+do-glaze p1 glazer0 mauve
+0
+3
+0 5 -1 0
+0 8 2 1
+0 9 -1 1
+20
+end_operator
+begin_operator
+do-glaze p1 glazer0 white
+0
+3
+0 6 -1 0
+0 8 2 1
+0 9 -1 1
+20
+end_operator
+begin_operator
+do-glaze p2 glazer0 mauve
+0
+3
+0 1 2 1
+0 2 -1 1
+0 3 -1 0
+10
+end_operator
+begin_operator
+do-glaze p2 glazer0 white
+0
+3
+0 0 -1 0
+0 1 2 1
+0 2 -1 1
+10
+end_operator
+begin_operator
+do-glaze p3 glazer0 mauve
+1
+19 0
+3
+0 15 -1 0
+0 17 2 1
+0 18 -1 1
+20
+end_operator
+begin_operator
+do-glaze p3 glazer0 white
+1
+19 0
+3
+0 17 2 1
+0 18 -1 1
+0 20 -1 0
+20
+end_operator
+begin_operator
+do-grind p0 grinder0 smooth mauve colourfragments untreated
+0
+3
+0 11 0 1
+0 12 1 2
+0 13 0 2
+30
+end_operator
+begin_operator
+do-grind p0 grinder0 smooth mauve glazed untreated
+0
+3
+0 11 0 1
+0 12 1 2
+0 13 1 2
+30
+end_operator
+begin_operator
+do-grind p0 grinder0 smooth mauve untreated untreated
+1
+13 2
+2
+0 11 0 1
+0 12 1 2
+30
+end_operator
+begin_operator
+do-grind p0 grinder0 smooth mauve varnished colourfragments
+0
+3
+0 11 0 1
+0 12 1 2
+0 13 3 0
+30
+end_operator
+begin_operator
+do-grind p0 grinder0 smooth natural colourfragments untreated
+0
+2
+0 12 1 2
+0 13 0 2
+30
+end_operator
+begin_operator
+do-grind p0 grinder0 smooth natural glazed untreated
+0
+2
+0 12 1 2
+0 13 1 2
+30
+end_operator
+begin_operator
+do-grind p0 grinder0 smooth natural untreated untreated
+1
+13 2
+1
+0 12 1 2
+30
+end_operator
+begin_operator
+do-grind p0 grinder0 smooth natural varnished colourfragments
+0
+2
+0 12 1 2
+0 13 3 0
+30
+end_operator
+begin_operator
+do-grind p0 grinder0 smooth white colourfragments untreated
+0
+3
+0 10 0 1
+0 12 1 2
+0 13 0 2
+30
+end_operator
+begin_operator
+do-grind p0 grinder0 smooth white glazed untreated
+0
+3
+0 10 0 1
+0 12 1 2
+0 13 1 2
+30
+end_operator
+begin_operator
+do-grind p0 grinder0 smooth white untreated untreated
+1
+13 2
+2
+0 10 0 1
+0 12 1 2
+30
+end_operator
+begin_operator
+do-grind p0 grinder0 smooth white varnished colourfragments
+0
+3
+0 10 0 1
+0 12 1 2
+0 13 3 0
+30
+end_operator
+begin_operator
+do-grind p0 grinder0 verysmooth mauve colourfragments untreated
+1
+12 2
+2
+0 11 0 1
+0 13 0 2
+30
+end_operator
+begin_operator
+do-grind p0 grinder0 verysmooth mauve glazed untreated
+1
+12 2
+2
+0 11 0 1
+0 13 1 2
+30
+end_operator
+begin_operator
+do-grind p0 grinder0 verysmooth mauve untreated untreated
+2
+12 2
+13 2
+1
+0 11 0 1
+30
+end_operator
+begin_operator
+do-grind p0 grinder0 verysmooth mauve varnished colourfragments
+1
+12 2
+2
+0 11 0 1
+0 13 3 0
+30
+end_operator
+begin_operator
+do-grind p0 grinder0 verysmooth natural colourfragments untreated
+1
+12 2
+1
+0 13 0 2
+30
+end_operator
+begin_operator
+do-grind p0 grinder0 verysmooth natural glazed untreated
+1
+12 2
+1
+0 13 1 2
+30
+end_operator
+begin_operator
+do-grind p0 grinder0 verysmooth natural varnished colourfragments
+1
+12 2
+1
+0 13 3 0
+30
+end_operator
+begin_operator
+do-grind p0 grinder0 verysmooth white colourfragments untreated
+1
+12 2
+2
+0 10 0 1
+0 13 0 2
+30
+end_operator
+begin_operator
+do-grind p0 grinder0 verysmooth white glazed untreated
+1
+12 2
+2
+0 10 0 1
+0 13 1 2
+30
+end_operator
+begin_operator
+do-grind p0 grinder0 verysmooth white untreated untreated
+2
+12 2
+13 2
+1
+0 10 0 1
+30
+end_operator
+begin_operator
+do-grind p0 grinder0 verysmooth white varnished colourfragments
+1
+12 2
+2
+0 10 0 1
+0 13 3 0
+30
+end_operator
+begin_operator
+do-grind p1 grinder0 smooth green colourfragments untreated
+0
+3
+0 7 1 2
+0 8 0 2
+0 9 -1 0
+45
+end_operator
+begin_operator
+do-grind p1 grinder0 smooth green glazed untreated
+0
+3
+0 7 1 2
+0 8 1 2
+0 9 -1 0
+45
+end_operator
+begin_operator
+do-grind p1 grinder0 smooth green untreated untreated
+1
+8 2
+2
+0 7 1 2
+0 9 -1 0
+45
+end_operator
+begin_operator
+do-grind p1 grinder0 smooth green varnished colourfragments
+0
+3
+0 7 1 2
+0 8 3 0
+0 9 -1 0
+45
+end_operator
+begin_operator
+do-grind p1 grinder0 smooth mauve colourfragments untreated
+0
+4
+0 5 0 1
+0 7 1 2
+0 8 0 2
+0 9 -1 0
+45
+end_operator
+begin_operator
+do-grind p1 grinder0 smooth mauve glazed untreated
+0
+4
+0 5 0 1
+0 7 1 2
+0 8 1 2
+0 9 -1 0
+45
+end_operator
+begin_operator
+do-grind p1 grinder0 smooth mauve untreated untreated
+1
+8 2
+3
+0 5 0 1
+0 7 1 2
+0 9 -1 0
+45
+end_operator
+begin_operator
+do-grind p1 grinder0 smooth mauve varnished colourfragments
+0
+4
+0 5 0 1
+0 7 1 2
+0 8 3 0
+0 9 -1 0
+45
+end_operator
+begin_operator
+do-grind p1 grinder0 smooth natural colourfragments untreated
+1
+9 0
+2
+0 7 1 2
+0 8 0 2
+45
+end_operator
+begin_operator
+do-grind p1 grinder0 smooth natural glazed untreated
+1
+9 0
+2
+0 7 1 2
+0 8 1 2
+45
+end_operator
+begin_operator
+do-grind p1 grinder0 smooth natural untreated untreated
+2
+8 2
+9 0
+1
+0 7 1 2
+45
+end_operator
+begin_operator
+do-grind p1 grinder0 smooth natural varnished colourfragments
+1
+9 0
+2
+0 7 1 2
+0 8 3 0
+45
+end_operator
+begin_operator
+do-grind p1 grinder0 smooth white colourfragments untreated
+0
+4
+0 6 0 1
+0 7 1 2
+0 8 0 2
+0 9 -1 0
+45
+end_operator
+begin_operator
+do-grind p1 grinder0 smooth white glazed untreated
+0
+4
+0 6 0 1
+0 7 1 2
+0 8 1 2
+0 9 -1 0
+45
+end_operator
+begin_operator
+do-grind p1 grinder0 smooth white untreated untreated
+1
+8 2
+3
+0 6 0 1
+0 7 1 2
+0 9 -1 0
+45
+end_operator
+begin_operator
+do-grind p1 grinder0 smooth white varnished colourfragments
+0
+4
+0 6 0 1
+0 7 1 2
+0 8 3 0
+0 9 -1 0
+45
+end_operator
+begin_operator
+do-grind p1 grinder0 verysmooth green colourfragments untreated
+1
+7 2
+2
+0 8 0 2
+0 9 -1 0
+45
+end_operator
+begin_operator
+do-grind p1 grinder0 verysmooth green glazed untreated
+1
+7 2
+2
+0 8 1 2
+0 9 -1 0
+45
+end_operator
+begin_operator
+do-grind p1 grinder0 verysmooth green untreated untreated
+2
+7 2
+8 2
+1
+0 9 -1 0
+45
+end_operator
+begin_operator
+do-grind p1 grinder0 verysmooth green varnished colourfragments
+1
+7 2
+2
+0 8 3 0
+0 9 -1 0
+45
+end_operator
+begin_operator
+do-grind p1 grinder0 verysmooth mauve colourfragments untreated
+1
+7 2
+3
+0 5 0 1
+0 8 0 2
+0 9 -1 0
+45
+end_operator
+begin_operator
+do-grind p1 grinder0 verysmooth mauve glazed untreated
+1
+7 2
+3
+0 5 0 1
+0 8 1 2
+0 9 -1 0
+45
+end_operator
+begin_operator
+do-grind p1 grinder0 verysmooth mauve untreated untreated
+2
+7 2
+8 2
+2
+0 5 0 1
+0 9 -1 0
+45
+end_operator
+begin_operator
+do-grind p1 grinder0 verysmooth mauve varnished colourfragments
+1
+7 2
+3
+0 5 0 1
+0 8 3 0
+0 9 -1 0
+45
+end_operator
+begin_operator
+do-grind p1 grinder0 verysmooth natural colourfragments untreated
+2
+7 2
+9 0
+1
+0 8 0 2
+45
+end_operator
+begin_operator
+do-grind p1 grinder0 verysmooth natural glazed untreated
+2
+7 2
+9 0
+1
+0 8 1 2
+45
+end_operator
+begin_operator
+do-grind p1 grinder0 verysmooth natural varnished colourfragments
+2
+7 2
+9 0
+1
+0 8 3 0
+45
+end_operator
+begin_operator
+do-grind p1 grinder0 verysmooth white colourfragments untreated
+1
+7 2
+3
+0 6 0 1
+0 8 0 2
+0 9 -1 0
+45
+end_operator
+begin_operator
+do-grind p1 grinder0 verysmooth white glazed untreated
+1
+7 2
+3
+0 6 0 1
+0 8 1 2
+0 9 -1 0
+45
+end_operator
+begin_operator
+do-grind p1 grinder0 verysmooth white untreated untreated
+2
+7 2
+8 2
+2
+0 6 0 1
+0 9 -1 0
+45
+end_operator
+begin_operator
+do-grind p1 grinder0 verysmooth white varnished colourfragments
+1
+7 2
+3
+0 6 0 1
+0 8 3 0
+0 9 -1 0
+45
+end_operator
+begin_operator
+do-grind p2 grinder0 smooth mauve colourfragments untreated
+0
+4
+0 1 0 2
+0 2 -1 0
+0 3 0 1
+0 4 0 1
+15
+end_operator
+begin_operator
+do-grind p2 grinder0 smooth mauve glazed untreated
+0
+4
+0 1 1 2
+0 2 -1 0
+0 3 0 1
+0 4 0 1
+15
+end_operator
+begin_operator
+do-grind p2 grinder0 smooth mauve untreated untreated
+1
+1 2
+3
+0 2 -1 0
+0 3 0 1
+0 4 0 1
+15
+end_operator
+begin_operator
+do-grind p2 grinder0 smooth mauve varnished colourfragments
+0
+4
+0 1 3 0
+0 2 -1 0
+0 3 0 1
+0 4 0 1
+15
+end_operator
+begin_operator
+do-grind p2 grinder0 smooth natural colourfragments untreated
+1
+2 0
+2
+0 1 0 2
+0 4 0 1
+15
+end_operator
+begin_operator
+do-grind p2 grinder0 smooth natural glazed untreated
+1
+2 0
+2
+0 1 1 2
+0 4 0 1
+15
+end_operator
+begin_operator
+do-grind p2 grinder0 smooth natural untreated untreated
+2
+1 2
+2 0
+1
+0 4 0 1
+15
+end_operator
+begin_operator
+do-grind p2 grinder0 smooth natural varnished colourfragments
+1
+2 0
+2
+0 1 3 0
+0 4 0 1
+15
+end_operator
+begin_operator
+do-grind p2 grinder0 smooth white colourfragments untreated
+0
+4
+0 0 0 1
+0 1 0 2
+0 2 -1 0
+0 4 0 1
+15
+end_operator
+begin_operator
+do-grind p2 grinder0 smooth white glazed untreated
+0
+4
+0 0 0 1
+0 1 1 2
+0 2 -1 0
+0 4 0 1
+15
+end_operator
+begin_operator
+do-grind p2 grinder0 smooth white untreated untreated
+1
+1 2
+3
+0 0 0 1
+0 2 -1 0
+0 4 0 1
+15
+end_operator
+begin_operator
+do-grind p2 grinder0 smooth white varnished colourfragments
+0
+4
+0 0 0 1
+0 1 3 0
+0 2 -1 0
+0 4 0 1
+15
+end_operator
+begin_operator
+do-grind p2 grinder0 verysmooth mauve colourfragments untreated
+1
+4 1
+3
+0 1 0 2
+0 2 -1 0
+0 3 0 1
+15
+end_operator
+begin_operator
+do-grind p2 grinder0 verysmooth mauve glazed untreated
+1
+4 1
+3
+0 1 1 2
+0 2 -1 0
+0 3 0 1
+15
+end_operator
+begin_operator
+do-grind p2 grinder0 verysmooth mauve untreated untreated
+2
+1 2
+4 1
+2
+0 2 -1 0
+0 3 0 1
+15
+end_operator
+begin_operator
+do-grind p2 grinder0 verysmooth mauve varnished colourfragments
+1
+4 1
+3
+0 1 3 0
+0 2 -1 0
+0 3 0 1
+15
+end_operator
+begin_operator
+do-grind p2 grinder0 verysmooth natural colourfragments untreated
+2
+2 0
+4 1
+1
+0 1 0 2
+15
+end_operator
+begin_operator
+do-grind p2 grinder0 verysmooth natural glazed untreated
+2
+2 0
+4 1
+1
+0 1 1 2
+15
+end_operator
+begin_operator
+do-grind p2 grinder0 verysmooth natural varnished colourfragments
+2
+2 0
+4 1
+1
+0 1 3 0
+15
+end_operator
+begin_operator
+do-grind p2 grinder0 verysmooth white colourfragments untreated
+1
+4 1
+3
+0 0 0 1
+0 1 0 2
+0 2 -1 0
+15
+end_operator
+begin_operator
+do-grind p2 grinder0 verysmooth white glazed untreated
+1
+4 1
+3
+0 0 0 1
+0 1 1 2
+0 2 -1 0
+15
+end_operator
+begin_operator
+do-grind p2 grinder0 verysmooth white untreated untreated
+2
+1 2
+4 1
+2
+0 0 0 1
+0 2 -1 0
+15
+end_operator
+begin_operator
+do-grind p2 grinder0 verysmooth white varnished colourfragments
+1
+4 1
+3
+0 0 0 1
+0 1 3 0
+0 2 -1 0
+15
+end_operator
+begin_operator
+do-grind p3 grinder0 smooth mauve colourfragments untreated
+1
+19 0
+4
+0 15 0 1
+0 16 1 2
+0 17 0 2
+0 18 -1 0
+45
+end_operator
+begin_operator
+do-grind p3 grinder0 smooth mauve glazed untreated
+1
+19 0
+4
+0 15 0 1
+0 16 1 2
+0 17 1 2
+0 18 -1 0
+45
+end_operator
+begin_operator
+do-grind p3 grinder0 smooth mauve untreated untreated
+2
+17 2
+19 0
+3
+0 15 0 1
+0 16 1 2
+0 18 -1 0
+45
+end_operator
+begin_operator
+do-grind p3 grinder0 smooth mauve varnished colourfragments
+1
+19 0
+4
+0 15 0 1
+0 16 1 2
+0 17 3 0
+0 18 -1 0
+45
+end_operator
+begin_operator
+do-grind p3 grinder0 smooth natural colourfragments untreated
+2
+18 0
+19 0
+2
+0 16 1 2
+0 17 0 2
+45
+end_operator
+begin_operator
+do-grind p3 grinder0 smooth natural glazed untreated
+2
+18 0
+19 0
+2
+0 16 1 2
+0 17 1 2
+45
+end_operator
+begin_operator
+do-grind p3 grinder0 smooth natural untreated untreated
+3
+17 2
+18 0
+19 0
+1
+0 16 1 2
+45
+end_operator
+begin_operator
+do-grind p3 grinder0 smooth natural varnished colourfragments
+2
+18 0
+19 0
+2
+0 16 1 2
+0 17 3 0
+45
+end_operator
+begin_operator
+do-grind p3 grinder0 smooth white colourfragments untreated
+1
+19 0
+4
+0 16 1 2
+0 17 0 2
+0 18 -1 0
+0 20 0 1
+45
+end_operator
+begin_operator
+do-grind p3 grinder0 smooth white glazed untreated
+1
+19 0
+4
+0 16 1 2
+0 17 1 2
+0 18 -1 0
+0 20 0 1
+45
+end_operator
+begin_operator
+do-grind p3 grinder0 smooth white untreated untreated
+2
+17 2
+19 0
+3
+0 16 1 2
+0 18 -1 0
+0 20 0 1
+45
+end_operator
+begin_operator
+do-grind p3 grinder0 smooth white varnished colourfragments
+1
+19 0
+4
+0 16 1 2
+0 17 3 0
+0 18 -1 0
+0 20 0 1
+45
+end_operator
+begin_operator
+do-grind p3 grinder0 verysmooth mauve colourfragments untreated
+2
+16 2
+19 0
+3
+0 15 0 1
+0 17 0 2
+0 18 -1 0
+45
+end_operator
+begin_operator
+do-grind p3 grinder0 verysmooth mauve glazed untreated
+2
+16 2
+19 0
+3
+0 15 0 1
+0 17 1 2
+0 18 -1 0
+45
+end_operator
+begin_operator
+do-grind p3 grinder0 verysmooth mauve untreated untreated
+3
+16 2
+17 2
+19 0
+2
+0 15 0 1
+0 18 -1 0
+45
+end_operator
+begin_operator
+do-grind p3 grinder0 verysmooth mauve varnished colourfragments
+2
+16 2
+19 0
+3
+0 15 0 1
+0 17 3 0
+0 18 -1 0
+45
+end_operator
+begin_operator
+do-grind p3 grinder0 verysmooth natural colourfragments untreated
+3
+16 2
+18 0
+19 0
+1
+0 17 0 2
+45
+end_operator
+begin_operator
+do-grind p3 grinder0 verysmooth natural glazed untreated
+3
+16 2
+18 0
+19 0
+1
+0 17 1 2
+45
+end_operator
+begin_operator
+do-grind p3 grinder0 verysmooth natural varnished colourfragments
+3
+16 2
+18 0
+19 0
+1
+0 17 3 0
+45
+end_operator
+begin_operator
+do-grind p3 grinder0 verysmooth white colourfragments untreated
+2
+16 2
+19 0
+3
+0 17 0 2
+0 18 -1 0
+0 20 0 1
+45
+end_operator
+begin_operator
+do-grind p3 grinder0 verysmooth white glazed untreated
+2
+16 2
+19 0
+3
+0 17 1 2
+0 18 -1 0
+0 20 0 1
+45
+end_operator
+begin_operator
+do-grind p3 grinder0 verysmooth white untreated untreated
+3
+16 2
+17 2
+19 0
+2
+0 18 -1 0
+0 20 0 1
+45
+end_operator
+begin_operator
+do-grind p3 grinder0 verysmooth white varnished colourfragments
+2
+16 2
+19 0
+3
+0 17 3 0
+0 18 -1 0
+0 20 0 1
+45
+end_operator
+begin_operator
+do-immersion-varnish p0 immersion-varnisher0 mauve smooth
+1
+12 1
+2
+0 11 -1 0
+0 13 2 3
+10
+end_operator
+begin_operator
+do-immersion-varnish p0 immersion-varnisher0 mauve verysmooth
+1
+12 2
+2
+0 11 -1 0
+0 13 2 3
+10
+end_operator
+begin_operator
+do-immersion-varnish p0 immersion-varnisher0 natural smooth
+1
+12 1
+1
+0 13 2 3
+10
+end_operator
+begin_operator
+do-immersion-varnish p0 immersion-varnisher0 natural verysmooth
+1
+12 2
+1
+0 13 2 3
+10
+end_operator
+begin_operator
+do-immersion-varnish p0 immersion-varnisher0 white smooth
+1
+12 1
+2
+0 10 -1 0
+0 13 2 3
+10
+end_operator
+begin_operator
+do-immersion-varnish p0 immersion-varnisher0 white verysmooth
+1
+12 2
+2
+0 10 -1 0
+0 13 2 3
+10
+end_operator
+begin_operator
+do-immersion-varnish p1 immersion-varnisher0 mauve smooth
+1
+7 1
+3
+0 5 -1 0
+0 8 2 3
+0 9 -1 1
+10
+end_operator
+begin_operator
+do-immersion-varnish p1 immersion-varnisher0 mauve verysmooth
+1
+7 2
+3
+0 5 -1 0
+0 8 2 3
+0 9 -1 1
+10
+end_operator
+begin_operator
+do-immersion-varnish p1 immersion-varnisher0 natural smooth
+1
+7 1
+2
+0 8 2 3
+0 9 -1 0
+10
+end_operator
+begin_operator
+do-immersion-varnish p1 immersion-varnisher0 natural verysmooth
+1
+7 2
+2
+0 8 2 3
+0 9 -1 0
+10
+end_operator
+begin_operator
+do-immersion-varnish p1 immersion-varnisher0 white smooth
+1
+7 1
+3
+0 6 -1 0
+0 8 2 3
+0 9 -1 1
+10
+end_operator
+begin_operator
+do-immersion-varnish p1 immersion-varnisher0 white verysmooth
+1
+7 2
+3
+0 6 -1 0
+0 8 2 3
+0 9 -1 1
+10
+end_operator
+begin_operator
+do-immersion-varnish p2 immersion-varnisher0 mauve smooth
+1
+4 0
+3
+0 1 2 3
+0 2 -1 1
+0 3 -1 0
+10
+end_operator
+begin_operator
+do-immersion-varnish p2 immersion-varnisher0 mauve verysmooth
+1
+4 1
+3
+0 1 2 3
+0 2 -1 1
+0 3 -1 0
+10
+end_operator
+begin_operator
+do-immersion-varnish p2 immersion-varnisher0 natural smooth
+1
+4 0
+2
+0 1 2 3
+0 2 -1 0
+10
+end_operator
+begin_operator
+do-immersion-varnish p2 immersion-varnisher0 natural verysmooth
+1
+4 1
+2
+0 1 2 3
+0 2 -1 0
+10
+end_operator
+begin_operator
+do-immersion-varnish p2 immersion-varnisher0 white smooth
+1
+4 0
+3
+0 0 -1 0
+0 1 2 3
+0 2 -1 1
+10
+end_operator
+begin_operator
+do-immersion-varnish p2 immersion-varnisher0 white verysmooth
+1
+4 1
+3
+0 0 -1 0
+0 1 2 3
+0 2 -1 1
+10
+end_operator
+begin_operator
+do-immersion-varnish p3 immersion-varnisher0 mauve smooth
+2
+16 1
+19 0
+3
+0 15 -1 0
+0 17 2 3
+0 18 -1 1
+10
+end_operator
+begin_operator
+do-immersion-varnish p3 immersion-varnisher0 mauve verysmooth
+2
+16 2
+19 0
+3
+0 15 -1 0
+0 17 2 3
+0 18 -1 1
+10
+end_operator
+begin_operator
+do-immersion-varnish p3 immersion-varnisher0 natural smooth
+2
+16 1
+19 0
+2
+0 17 2 3
+0 18 -1 0
+10
+end_operator
+begin_operator
+do-immersion-varnish p3 immersion-varnisher0 natural verysmooth
+2
+16 2
+19 0
+2
+0 17 2 3
+0 18 -1 0
+10
+end_operator
+begin_operator
+do-immersion-varnish p3 immersion-varnisher0 white smooth
+2
+16 1
+19 0
+3
+0 17 2 3
+0 18 -1 1
+0 20 -1 0
+10
+end_operator
+begin_operator
+do-immersion-varnish p3 immersion-varnisher0 white verysmooth
+2
+16 2
+19 0
+3
+0 17 2 3
+0 18 -1 1
+0 20 -1 0
+10
+end_operator
+begin_operator
+do-plane p0 planer0 rough mauve colourfragments
+0
+3
+0 11 0 1
+0 12 0 1
+0 13 0 2
+20
+end_operator
+begin_operator
+do-plane p0 planer0 rough mauve glazed
+0
+3
+0 11 0 1
+0 12 0 1
+0 13 1 2
+20
+end_operator
+begin_operator
+do-plane p0 planer0 rough mauve untreated
+1
+13 2
+2
+0 11 0 1
+0 12 0 1
+20
+end_operator
+begin_operator
+do-plane p0 planer0 rough mauve varnished
+0
+3
+0 11 0 1
+0 12 0 1
+0 13 3 2
+20
+end_operator
+begin_operator
+do-plane p0 planer0 rough natural colourfragments
+0
+2
+0 12 0 1
+0 13 0 2
+20
+end_operator
+begin_operator
+do-plane p0 planer0 rough natural glazed
+0
+2
+0 12 0 1
+0 13 1 2
+20
+end_operator
+begin_operator
+do-plane p0 planer0 rough natural untreated
+1
+13 2
+1
+0 12 0 1
+20
+end_operator
+begin_operator
+do-plane p0 planer0 rough natural varnished
+0
+2
+0 12 0 1
+0 13 3 2
+20
+end_operator
+begin_operator
+do-plane p0 planer0 rough white colourfragments
+0
+3
+0 10 0 1
+0 12 0 1
+0 13 0 2
+20
+end_operator
+begin_operator
+do-plane p0 planer0 rough white glazed
+0
+3
+0 10 0 1
+0 12 0 1
+0 13 1 2
+20
+end_operator
+begin_operator
+do-plane p0 planer0 rough white untreated
+1
+13 2
+2
+0 10 0 1
+0 12 0 1
+20
+end_operator
+begin_operator
+do-plane p0 planer0 rough white varnished
+0
+3
+0 10 0 1
+0 12 0 1
+0 13 3 2
+20
+end_operator
+begin_operator
+do-plane p0 planer0 smooth mauve colourfragments
+1
+12 1
+2
+0 11 0 1
+0 13 0 2
+20
+end_operator
+begin_operator
+do-plane p0 planer0 smooth mauve glazed
+1
+12 1
+2
+0 11 0 1
+0 13 1 2
+20
+end_operator
+begin_operator
+do-plane p0 planer0 smooth mauve untreated
+2
+12 1
+13 2
+1
+0 11 0 1
+20
+end_operator
+begin_operator
+do-plane p0 planer0 smooth mauve varnished
+1
+12 1
+2
+0 11 0 1
+0 13 3 2
+20
+end_operator
+begin_operator
+do-plane p0 planer0 smooth natural colourfragments
+1
+12 1
+1
+0 13 0 2
+20
+end_operator
+begin_operator
+do-plane p0 planer0 smooth natural glazed
+1
+12 1
+1
+0 13 1 2
+20
+end_operator
+begin_operator
+do-plane p0 planer0 smooth natural varnished
+1
+12 1
+1
+0 13 3 2
+20
+end_operator
+begin_operator
+do-plane p0 planer0 smooth white colourfragments
+1
+12 1
+2
+0 10 0 1
+0 13 0 2
+20
+end_operator
+begin_operator
+do-plane p0 planer0 smooth white glazed
+1
+12 1
+2
+0 10 0 1
+0 13 1 2
+20
+end_operator
+begin_operator
+do-plane p0 planer0 smooth white untreated
+2
+12 1
+13 2
+1
+0 10 0 1
+20
+end_operator
+begin_operator
+do-plane p0 planer0 smooth white varnished
+1
+12 1
+2
+0 10 0 1
+0 13 3 2
+20
+end_operator
+begin_operator
+do-plane p0 planer0 verysmooth mauve colourfragments
+0
+3
+0 11 0 1
+0 12 2 1
+0 13 0 2
+20
+end_operator
+begin_operator
+do-plane p0 planer0 verysmooth mauve glazed
+0
+3
+0 11 0 1
+0 12 2 1
+0 13 1 2
+20
+end_operator
+begin_operator
+do-plane p0 planer0 verysmooth mauve untreated
+1
+13 2
+2
+0 11 0 1
+0 12 2 1
+20
+end_operator
+begin_operator
+do-plane p0 planer0 verysmooth mauve varnished
+0
+3
+0 11 0 1
+0 12 2 1
+0 13 3 2
+20
+end_operator
+begin_operator
+do-plane p0 planer0 verysmooth natural colourfragments
+0
+2
+0 12 2 1
+0 13 0 2
+20
+end_operator
+begin_operator
+do-plane p0 planer0 verysmooth natural glazed
+0
+2
+0 12 2 1
+0 13 1 2
+20
+end_operator
+begin_operator
+do-plane p0 planer0 verysmooth natural untreated
+1
+13 2
+1
+0 12 2 1
+20
+end_operator
+begin_operator
+do-plane p0 planer0 verysmooth natural varnished
+0
+2
+0 12 2 1
+0 13 3 2
+20
+end_operator
+begin_operator
+do-plane p0 planer0 verysmooth white colourfragments
+0
+3
+0 10 0 1
+0 12 2 1
+0 13 0 2
+20
+end_operator
+begin_operator
+do-plane p0 planer0 verysmooth white glazed
+0
+3
+0 10 0 1
+0 12 2 1
+0 13 1 2
+20
+end_operator
+begin_operator
+do-plane p0 planer0 verysmooth white untreated
+1
+13 2
+2
+0 10 0 1
+0 12 2 1
+20
+end_operator
+begin_operator
+do-plane p0 planer0 verysmooth white varnished
+0
+3
+0 10 0 1
+0 12 2 1
+0 13 3 2
+20
+end_operator
+begin_operator
+do-plane p1 planer0 rough green colourfragments
+0
+3
+0 7 0 1
+0 8 0 2
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 rough green glazed
+0
+3
+0 7 0 1
+0 8 1 2
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 rough green untreated
+1
+8 2
+2
+0 7 0 1
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 rough green varnished
+0
+3
+0 7 0 1
+0 8 3 2
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 rough mauve colourfragments
+0
+4
+0 5 0 1
+0 7 0 1
+0 8 0 2
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 rough mauve glazed
+0
+4
+0 5 0 1
+0 7 0 1
+0 8 1 2
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 rough mauve untreated
+1
+8 2
+3
+0 5 0 1
+0 7 0 1
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 rough mauve varnished
+0
+4
+0 5 0 1
+0 7 0 1
+0 8 3 2
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 rough natural colourfragments
+1
+9 0
+2
+0 7 0 1
+0 8 0 2
+30
+end_operator
+begin_operator
+do-plane p1 planer0 rough natural glazed
+1
+9 0
+2
+0 7 0 1
+0 8 1 2
+30
+end_operator
+begin_operator
+do-plane p1 planer0 rough natural untreated
+2
+8 2
+9 0
+1
+0 7 0 1
+30
+end_operator
+begin_operator
+do-plane p1 planer0 rough natural varnished
+1
+9 0
+2
+0 7 0 1
+0 8 3 2
+30
+end_operator
+begin_operator
+do-plane p1 planer0 rough white colourfragments
+0
+4
+0 6 0 1
+0 7 0 1
+0 8 0 2
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 rough white glazed
+0
+4
+0 6 0 1
+0 7 0 1
+0 8 1 2
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 rough white untreated
+1
+8 2
+3
+0 6 0 1
+0 7 0 1
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 rough white varnished
+0
+4
+0 6 0 1
+0 7 0 1
+0 8 3 2
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 smooth green colourfragments
+1
+7 1
+2
+0 8 0 2
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 smooth green glazed
+1
+7 1
+2
+0 8 1 2
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 smooth green untreated
+2
+7 1
+8 2
+1
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 smooth green varnished
+1
+7 1
+2
+0 8 3 2
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 smooth mauve colourfragments
+1
+7 1
+3
+0 5 0 1
+0 8 0 2
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 smooth mauve glazed
+1
+7 1
+3
+0 5 0 1
+0 8 1 2
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 smooth mauve untreated
+2
+7 1
+8 2
+2
+0 5 0 1
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 smooth mauve varnished
+1
+7 1
+3
+0 5 0 1
+0 8 3 2
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 smooth natural colourfragments
+2
+7 1
+9 0
+1
+0 8 0 2
+30
+end_operator
+begin_operator
+do-plane p1 planer0 smooth natural glazed
+2
+7 1
+9 0
+1
+0 8 1 2
+30
+end_operator
+begin_operator
+do-plane p1 planer0 smooth natural varnished
+2
+7 1
+9 0
+1
+0 8 3 2
+30
+end_operator
+begin_operator
+do-plane p1 planer0 smooth white colourfragments
+1
+7 1
+3
+0 6 0 1
+0 8 0 2
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 smooth white glazed
+1
+7 1
+3
+0 6 0 1
+0 8 1 2
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 smooth white untreated
+2
+7 1
+8 2
+2
+0 6 0 1
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 smooth white varnished
+1
+7 1
+3
+0 6 0 1
+0 8 3 2
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 verysmooth green colourfragments
+0
+3
+0 7 2 1
+0 8 0 2
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 verysmooth green glazed
+0
+3
+0 7 2 1
+0 8 1 2
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 verysmooth green untreated
+1
+8 2
+2
+0 7 2 1
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 verysmooth green varnished
+0
+3
+0 7 2 1
+0 8 3 2
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 verysmooth mauve colourfragments
+0
+4
+0 5 0 1
+0 7 2 1
+0 8 0 2
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 verysmooth mauve glazed
+0
+4
+0 5 0 1
+0 7 2 1
+0 8 1 2
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 verysmooth mauve untreated
+1
+8 2
+3
+0 5 0 1
+0 7 2 1
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 verysmooth mauve varnished
+0
+4
+0 5 0 1
+0 7 2 1
+0 8 3 2
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 verysmooth natural colourfragments
+1
+9 0
+2
+0 7 2 1
+0 8 0 2
+30
+end_operator
+begin_operator
+do-plane p1 planer0 verysmooth natural glazed
+1
+9 0
+2
+0 7 2 1
+0 8 1 2
+30
+end_operator
+begin_operator
+do-plane p1 planer0 verysmooth natural untreated
+2
+8 2
+9 0
+1
+0 7 2 1
+30
+end_operator
+begin_operator
+do-plane p1 planer0 verysmooth natural varnished
+1
+9 0
+2
+0 7 2 1
+0 8 3 2
+30
+end_operator
+begin_operator
+do-plane p1 planer0 verysmooth white colourfragments
+0
+4
+0 6 0 1
+0 7 2 1
+0 8 0 2
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 verysmooth white glazed
+0
+4
+0 6 0 1
+0 7 2 1
+0 8 1 2
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 verysmooth white untreated
+1
+8 2
+3
+0 6 0 1
+0 7 2 1
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p1 planer0 verysmooth white varnished
+0
+4
+0 6 0 1
+0 7 2 1
+0 8 3 2
+0 9 -1 0
+30
+end_operator
+begin_operator
+do-plane p2 planer0 smooth mauve colourfragments
+1
+4 0
+3
+0 1 0 2
+0 2 -1 0
+0 3 0 1
+10
+end_operator
+begin_operator
+do-plane p2 planer0 smooth mauve glazed
+1
+4 0
+3
+0 1 1 2
+0 2 -1 0
+0 3 0 1
+10
+end_operator
+begin_operator
+do-plane p2 planer0 smooth mauve untreated
+2
+1 2
+4 0
+2
+0 2 -1 0
+0 3 0 1
+10
+end_operator
+begin_operator
+do-plane p2 planer0 smooth mauve varnished
+1
+4 0
+3
+0 1 3 2
+0 2 -1 0
+0 3 0 1
+10
+end_operator
+begin_operator
+do-plane p2 planer0 smooth natural colourfragments
+2
+2 0
+4 0
+1
+0 1 0 2
+10
+end_operator
+begin_operator
+do-plane p2 planer0 smooth natural glazed
+2
+2 0
+4 0
+1
+0 1 1 2
+10
+end_operator
+begin_operator
+do-plane p2 planer0 smooth natural varnished
+2
+2 0
+4 0
+1
+0 1 3 2
+10
+end_operator
+begin_operator
+do-plane p2 planer0 smooth white colourfragments
+1
+4 0
+3
+0 0 0 1
+0 1 0 2
+0 2 -1 0
+10
+end_operator
+begin_operator
+do-plane p2 planer0 smooth white glazed
+1
+4 0
+3
+0 0 0 1
+0 1 1 2
+0 2 -1 0
+10
+end_operator
+begin_operator
+do-plane p2 planer0 smooth white untreated
+2
+1 2
+4 0
+2
+0 0 0 1
+0 2 -1 0
+10
+end_operator
+begin_operator
+do-plane p2 planer0 smooth white varnished
+1
+4 0
+3
+0 0 0 1
+0 1 3 2
+0 2 -1 0
+10
+end_operator
+begin_operator
+do-plane p2 planer0 verysmooth mauve colourfragments
+0
+4
+0 1 0 2
+0 2 -1 0
+0 3 0 1
+0 4 1 0
+10
+end_operator
+begin_operator
+do-plane p2 planer0 verysmooth mauve glazed
+0
+4
+0 1 1 2
+0 2 -1 0
+0 3 0 1
+0 4 1 0
+10
+end_operator
+begin_operator
+do-plane p2 planer0 verysmooth mauve untreated
+1
+1 2
+3
+0 2 -1 0
+0 3 0 1
+0 4 1 0
+10
+end_operator
+begin_operator
+do-plane p2 planer0 verysmooth mauve varnished
+0
+4
+0 1 3 2
+0 2 -1 0
+0 3 0 1
+0 4 1 0
+10
+end_operator
+begin_operator
+do-plane p2 planer0 verysmooth natural colourfragments
+1
+2 0
+2
+0 1 0 2
+0 4 1 0
+10
+end_operator
+begin_operator
+do-plane p2 planer0 verysmooth natural glazed
+1
+2 0
+2
+0 1 1 2
+0 4 1 0
+10
+end_operator
+begin_operator
+do-plane p2 planer0 verysmooth natural untreated
+2
+1 2
+2 0
+1
+0 4 1 0
+10
+end_operator
+begin_operator
+do-plane p2 planer0 verysmooth natural varnished
+1
+2 0
+2
+0 1 3 2
+0 4 1 0
+10
+end_operator
+begin_operator
+do-plane p2 planer0 verysmooth white colourfragments
+0
+4
+0 0 0 1
+0 1 0 2
+0 2 -1 0
+0 4 1 0
+10
+end_operator
+begin_operator
+do-plane p2 planer0 verysmooth white glazed
+0
+4
+0 0 0 1
+0 1 1 2
+0 2 -1 0
+0 4 1 0
+10
+end_operator
+begin_operator
+do-plane p2 planer0 verysmooth white untreated
+1
+1 2
+3
+0 0 0 1
+0 2 -1 0
+0 4 1 0
+10
+end_operator
+begin_operator
+do-plane p2 planer0 verysmooth white varnished
+0
+4
+0 0 0 1
+0 1 3 2
+0 2 -1 0
+0 4 1 0
+10
+end_operator
+begin_operator
+do-plane p3 planer0 rough mauve colourfragments
+1
+19 0
+4
+0 15 0 1
+0 16 0 1
+0 17 0 2
+0 18 -1 0
+30
+end_operator
+begin_operator
+do-plane p3 planer0 rough mauve glazed
+1
+19 0
+4
+0 15 0 1
+0 16 0 1
+0 17 1 2
+0 18 -1 0
+30
+end_operator
+begin_operator
+do-plane p3 planer0 rough mauve untreated
+2
+17 2
+19 0
+3
+0 15 0 1
+0 16 0 1
+0 18 -1 0
+30
+end_operator
+begin_operator
+do-plane p3 planer0 rough mauve varnished
+1
+19 0
+4
+0 15 0 1
+0 16 0 1
+0 17 3 2
+0 18 -1 0
+30
+end_operator
+begin_operator
+do-plane p3 planer0 rough natural colourfragments
+2
+18 0
+19 0
+2
+0 16 0 1
+0 17 0 2
+30
+end_operator
+begin_operator
+do-plane p3 planer0 rough natural glazed
+2
+18 0
+19 0
+2
+0 16 0 1
+0 17 1 2
+30
+end_operator
+begin_operator
+do-plane p3 planer0 rough natural untreated
+3
+17 2
+18 0
+19 0
+1
+0 16 0 1
+30
+end_operator
+begin_operator
+do-plane p3 planer0 rough natural varnished
+2
+18 0
+19 0
+2
+0 16 0 1
+0 17 3 2
+30
+end_operator
+begin_operator
+do-plane p3 planer0 rough white colourfragments
+1
+19 0
+4
+0 16 0 1
+0 17 0 2
+0 18 -1 0
+0 20 0 1
+30
+end_operator
+begin_operator
+do-plane p3 planer0 rough white glazed
+1
+19 0
+4
+0 16 0 1
+0 17 1 2
+0 18 -1 0
+0 20 0 1
+30
+end_operator
+begin_operator
+do-plane p3 planer0 rough white untreated
+2
+17 2
+19 0
+3
+0 16 0 1
+0 18 -1 0
+0 20 0 1
+30
+end_operator
+begin_operator
+do-plane p3 planer0 rough white varnished
+1
+19 0
+4
+0 16 0 1
+0 17 3 2
+0 18 -1 0
+0 20 0 1
+30
+end_operator
+begin_operator
+do-plane p3 planer0 smooth mauve colourfragments
+2
+16 1
+19 0
+3
+0 15 0 1
+0 17 0 2
+0 18 -1 0
+30
+end_operator
+begin_operator
+do-plane p3 planer0 smooth mauve glazed
+2
+16 1
+19 0
+3
+0 15 0 1
+0 17 1 2
+0 18 -1 0
+30
+end_operator
+begin_operator
+do-plane p3 planer0 smooth mauve untreated
+3
+16 1
+17 2
+19 0
+2
+0 15 0 1
+0 18 -1 0
+30
+end_operator
+begin_operator
+do-plane p3 planer0 smooth mauve varnished
+2
+16 1
+19 0
+3
+0 15 0 1
+0 17 3 2
+0 18 -1 0
+30
+end_operator
+begin_operator
+do-plane p3 planer0 smooth natural colourfragments
+3
+16 1
+18 0
+19 0
+1
+0 17 0 2
+30
+end_operator
+begin_operator
+do-plane p3 planer0 smooth natural glazed
+3
+16 1
+18 0
+19 0
+1
+0 17 1 2
+30
+end_operator
+begin_operator
+do-plane p3 planer0 smooth natural varnished
+3
+16 1
+18 0
+19 0
+1
+0 17 3 2
+30
+end_operator
+begin_operator
+do-plane p3 planer0 smooth white colourfragments
+2
+16 1
+19 0
+3
+0 17 0 2
+0 18 -1 0
+0 20 0 1
+30
+end_operator
+begin_operator
+do-plane p3 planer0 smooth white glazed
+2
+16 1
+19 0
+3
+0 17 1 2
+0 18 -1 0
+0 20 0 1
+30
+end_operator
+begin_operator
+do-plane p3 planer0 smooth white untreated
+3
+16 1
+17 2
+19 0
+2
+0 18 -1 0
+0 20 0 1
+30
+end_operator
+begin_operator
+do-plane p3 planer0 smooth white varnished
+2
+16 1
+19 0
+3
+0 17 3 2
+0 18 -1 0
+0 20 0 1
+30
+end_operator
+begin_operator
+do-plane p3 planer0 verysmooth mauve colourfragments
+1
+19 0
+4
+0 15 0 1
+0 16 2 1
+0 17 0 2
+0 18 -1 0
+30
+end_operator
+begin_operator
+do-plane p3 planer0 verysmooth mauve glazed
+1
+19 0
+4
+0 15 0 1
+0 16 2 1
+0 17 1 2
+0 18 -1 0
+30
+end_operator
+begin_operator
+do-plane p3 planer0 verysmooth mauve untreated
+2
+17 2
+19 0
+3
+0 15 0 1
+0 16 2 1
+0 18 -1 0
+30
+end_operator
+begin_operator
+do-plane p3 planer0 verysmooth mauve varnished
+1
+19 0
+4
+0 15 0 1
+0 16 2 1
+0 17 3 2
+0 18 -1 0
+30
+end_operator
+begin_operator
+do-plane p3 planer0 verysmooth natural colourfragments
+2
+18 0
+19 0
+2
+0 16 2 1
+0 17 0 2
+30
+end_operator
+begin_operator
+do-plane p3 planer0 verysmooth natural glazed
+2
+18 0
+19 0
+2
+0 16 2 1
+0 17 1 2
+30
+end_operator
+begin_operator
+do-plane p3 planer0 verysmooth natural untreated
+3
+17 2
+18 0
+19 0
+1
+0 16 2 1
+30
+end_operator
+begin_operator
+do-plane p3 planer0 verysmooth natural varnished
+2
+18 0
+19 0
+2
+0 16 2 1
+0 17 3 2
+30
+end_operator
+begin_operator
+do-plane p3 planer0 verysmooth white colourfragments
+1
+19 0
+4
+0 16 2 1
+0 17 0 2
+0 18 -1 0
+0 20 0 1
+30
+end_operator
+begin_operator
+do-plane p3 planer0 verysmooth white glazed
+1
+19 0
+4
+0 16 2 1
+0 17 1 2
+0 18 -1 0
+0 20 0 1
+30
+end_operator
+begin_operator
+do-plane p3 planer0 verysmooth white untreated
+2
+17 2
+19 0
+3
+0 16 2 1
+0 18 -1 0
+0 20 0 1
+30
+end_operator
+begin_operator
+do-plane p3 planer0 verysmooth white varnished
+1
+19 0
+4
+0 16 2 1
+0 17 3 2
+0 18 -1 0
+0 20 0 1
+30
+end_operator
+begin_operator
+do-saw-large b0 p3 saw0 beech rough s5 s3 s4 s2
+0
+5
+0 16 -1 0
+0 17 4 2
+0 18 -1 0
+0 19 -1 0
+0 21 -1 0
+30
+end_operator
+begin_operator
+do-spray-varnish p0 spray-varnisher0 mauve smooth
+1
+12 1
+2
+0 11 -1 0
+0 13 2 3
+10
+end_operator
+begin_operator
+do-spray-varnish p0 spray-varnisher0 mauve verysmooth
+1
+12 2
+2
+0 11 -1 0
+0 13 2 3
+10
+end_operator
+begin_operator
+do-spray-varnish p0 spray-varnisher0 natural smooth
+1
+12 1
+1
+0 13 2 3
+10
+end_operator
+begin_operator
+do-spray-varnish p0 spray-varnisher0 natural verysmooth
+1
+12 2
+1
+0 13 2 3
+10
+end_operator
+begin_operator
+do-spray-varnish p0 spray-varnisher0 white smooth
+1
+12 1
+2
+0 10 -1 0
+0 13 2 3
+10
+end_operator
+begin_operator
+do-spray-varnish p0 spray-varnisher0 white verysmooth
+1
+12 2
+2
+0 10 -1 0
+0 13 2 3
+10
+end_operator
+begin_operator
+do-spray-varnish p1 spray-varnisher0 mauve smooth
+1
+7 1
+3
+0 5 -1 0
+0 8 2 3
+0 9 -1 1
+15
+end_operator
+begin_operator
+do-spray-varnish p1 spray-varnisher0 mauve verysmooth
+1
+7 2
+3
+0 5 -1 0
+0 8 2 3
+0 9 -1 1
+15
+end_operator
+begin_operator
+do-spray-varnish p1 spray-varnisher0 natural smooth
+1
+7 1
+2
+0 8 2 3
+0 9 -1 0
+15
+end_operator
+begin_operator
+do-spray-varnish p1 spray-varnisher0 natural verysmooth
+1
+7 2
+2
+0 8 2 3
+0 9 -1 0
+15
+end_operator
+begin_operator
+do-spray-varnish p1 spray-varnisher0 white smooth
+1
+7 1
+3
+0 6 -1 0
+0 8 2 3
+0 9 -1 1
+15
+end_operator
+begin_operator
+do-spray-varnish p1 spray-varnisher0 white verysmooth
+1
+7 2
+3
+0 6 -1 0
+0 8 2 3
+0 9 -1 1
+15
+end_operator
+begin_operator
+do-spray-varnish p2 spray-varnisher0 mauve smooth
+1
+4 0
+3
+0 1 2 3
+0 2 -1 1
+0 3 -1 0
+5
+end_operator
+begin_operator
+do-spray-varnish p2 spray-varnisher0 mauve verysmooth
+1
+4 1
+3
+0 1 2 3
+0 2 -1 1
+0 3 -1 0
+5
+end_operator
+begin_operator
+do-spray-varnish p2 spray-varnisher0 natural smooth
+1
+4 0
+2
+0 1 2 3
+0 2 -1 0
+5
+end_operator
+begin_operator
+do-spray-varnish p2 spray-varnisher0 natural verysmooth
+1
+4 1
+2
+0 1 2 3
+0 2 -1 0
+5
+end_operator
+begin_operator
+do-spray-varnish p2 spray-varnisher0 white smooth
+1
+4 0
+3
+0 0 -1 0
+0 1 2 3
+0 2 -1 1
+5
+end_operator
+begin_operator
+do-spray-varnish p2 spray-varnisher0 white verysmooth
+1
+4 1
+3
+0 0 -1 0
+0 1 2 3
+0 2 -1 1
+5
+end_operator
+begin_operator
+do-spray-varnish p3 spray-varnisher0 mauve smooth
+2
+16 1
+19 0
+3
+0 15 -1 0
+0 17 2 3
+0 18 -1 1
+15
+end_operator
+begin_operator
+do-spray-varnish p3 spray-varnisher0 mauve verysmooth
+2
+16 2
+19 0
+3
+0 15 -1 0
+0 17 2 3
+0 18 -1 1
+15
+end_operator
+begin_operator
+do-spray-varnish p3 spray-varnisher0 natural smooth
+2
+16 1
+19 0
+2
+0 17 2 3
+0 18 -1 0
+15
+end_operator
+begin_operator
+do-spray-varnish p3 spray-varnisher0 natural verysmooth
+2
+16 2
+19 0
+2
+0 17 2 3
+0 18 -1 0
+15
+end_operator
+begin_operator
+do-spray-varnish p3 spray-varnisher0 white smooth
+2
+16 1
+19 0
+3
+0 17 2 3
+0 18 -1 1
+0 20 -1 0
+15
+end_operator
+begin_operator
+do-spray-varnish p3 spray-varnisher0 white verysmooth
+2
+16 2
+19 0
+3
+0 17 2 3
+0 18 -1 1
+0 20 -1 0
+15
+end_operator
+begin_operator
+load-highspeed-saw b0 highspeed-saw0
+0
+1
+0 14 0 1
+30
+end_operator
+begin_operator
+unload-highspeed-saw b0 highspeed-saw0
+0
+1
+0 14 1 0
+10
+end_operator
+0
