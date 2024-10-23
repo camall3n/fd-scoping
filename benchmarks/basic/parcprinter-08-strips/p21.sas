@@ -159,8 +159,8 @@ fe1-feed-letter sheet1
 1
 7 0
 2
-0 10 7 0
 0 9 -1 0
+0 10 7 0
 224
 end_operator
 begin_operator
@@ -168,8 +168,8 @@ fe1-feedmsi-letter sheet1
 1
 7 0
 2
-0 10 7 0
 0 9 -1 0
+0 10 7 0
 125
 end_operator
 begin_operator
@@ -240,14 +240,14 @@ begin_operator
 initialize 
 0
 8
-0 7 -1 0
-0 6 -1 0
-0 5 -1 0
-0 4 -1 0
-0 3 -1 0
-0 2 -1 0
-0 1 -1 0
 0 0 0 1
+0 1 -1 0
+0 2 -1 0
+0 3 -1 0
+0 4 -1 0
+0 5 -1 0
+0 6 -1 0
+0 7 -1 0
 0
 end_operator
 begin_operator
@@ -263,8 +263,8 @@ lc1-invertfromime-letter sheet1 back front
 1
 5 0
 3
-0 10 4 5
 0 9 0 1
+0 10 4 5
 0 12 -1 0
 9999
 end_operator
@@ -273,8 +273,8 @@ lc1-invertfromime-letter sheet1 front back
 1
 5 0
 3
-0 10 4 5
 0 9 -1 0
+0 10 4 5
 0 12 0 1
 9999
 end_operator
@@ -283,8 +283,8 @@ lc1-inverttoime-letter sheet1 back front
 1
 5 0
 3
-0 10 3 6
 0 9 0 1
+0 10 3 6
 0 12 -1 0
 9999
 end_operator
@@ -293,8 +293,8 @@ lc1-inverttoime-letter sheet1 front back
 1
 5 0
 3
-0 10 3 6
 0 9 -1 0
+0 10 3 6
 0 12 0 1
 9999
 end_operator
@@ -312,9 +312,9 @@ lime-simplexmono-letter sheet1 back image-1
 4 0
 9 0
 3
-0 15 -1 0
 0 10 6 4
 0 11 0 1
+0 15 -1 0
 212790
 end_operator
 begin_operator
@@ -323,9 +323,9 @@ lime-simplexmono-letter sheet1 front image-1
 4 0
 12 0
 3
-0 14 -1 0
-0 10 6 4
 0 8 0 1
+0 10 6 4
+0 14 -1 0
 212790
 end_operator
 begin_operator
@@ -350,8 +350,8 @@ uc1-invertfromime-letter sheet1 back front
 1
 2 0
 3
-0 10 11 2
 0 9 0 1
+0 10 11 2
 0 12 -1 0
 8000
 end_operator
@@ -360,8 +360,8 @@ uc1-invertfromime-letter sheet1 front back
 1
 2 0
 3
-0 10 11 2
 0 9 -1 0
+0 10 11 2
 0 12 0 1
 8000
 end_operator
@@ -370,8 +370,8 @@ uc1-inverttoime-letter sheet1 back front
 1
 2 0
 3
-0 10 9 10
 0 9 0 1
+0 10 9 10
 0 12 -1 0
 8000
 end_operator
@@ -380,8 +380,8 @@ uc1-inverttoime-letter sheet1 front back
 1
 2 0
 3
-0 10 9 10
 0 9 -1 0
+0 10 9 10
 0 12 0 1
 8000
 end_operator
@@ -399,9 +399,9 @@ uime-simplex-letter sheet1 back image-1
 1 0
 9 0
 3
-0 15 -1 0
 0 10 10 11
 0 11 0 1
+0 15 -1 0
 127790
 end_operator
 begin_operator
@@ -410,9 +410,9 @@ uime-simplex-letter sheet1 front image-1
 1 0
 12 0
 3
-0 14 -1 0
-0 10 10 11
 0 8 0 1
+0 10 10 11
+0 14 -1 0
 127790
 end_operator
 0

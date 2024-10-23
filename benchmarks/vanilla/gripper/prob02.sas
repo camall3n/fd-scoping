@@ -9,80 +9,80 @@ begin_variable
 var0
 -1
 2
-0
-1
+Atom at-robby(rooma)
+Atom at-robby(roomb)
 end_variable
 begin_variable
 var1
 -1
 7
-0
-1
-2
-3
-4
-5
-6
+Atom carry(ball1, left)
+Atom carry(ball2, left)
+Atom carry(ball3, left)
+Atom carry(ball4, left)
+Atom carry(ball5, left)
+Atom carry(ball6, left)
+Atom free(left)
 end_variable
 begin_variable
 var2
 -1
 7
-0
-1
-2
-3
-4
-5
-6
+Atom carry(ball1, right)
+Atom carry(ball2, right)
+Atom carry(ball3, right)
+Atom carry(ball4, right)
+Atom carry(ball5, right)
+Atom carry(ball6, right)
+Atom free(right)
 end_variable
 begin_variable
 var3
 -1
 3
-0
-1
-2
+Atom at(ball1, rooma)
+Atom at(ball1, roomb)
+<none of those>
 end_variable
 begin_variable
 var4
 -1
 3
-0
-1
-2
+Atom at(ball2, rooma)
+Atom at(ball2, roomb)
+<none of those>
 end_variable
 begin_variable
 var5
 -1
 3
-0
-1
-2
+Atom at(ball3, rooma)
+Atom at(ball3, roomb)
+<none of those>
 end_variable
 begin_variable
 var6
 -1
 3
-0
-1
-2
+Atom at(ball4, rooma)
+Atom at(ball4, roomb)
+<none of those>
 end_variable
 begin_variable
 var7
 -1
 3
-0
-1
-2
+Atom at(ball5, rooma)
+Atom at(ball5, roomb)
+<none of those>
 end_variable
 begin_variable
 var8
 -1
 3
-0
-1
-2
+Atom at(ball6, rooma)
+Atom at(ball6, roomb)
+<none of those>
 end_variable
 6
 begin_mutex_group

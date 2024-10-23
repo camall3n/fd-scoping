@@ -17548,8 +17548,8 @@ overcome abrasion excitement arugula jupiter neptune
 1
 0 0
 2
-0 14 0 8
 0 12 1 0
+0 14 0 8
 1
 end_operator
 begin_operator
@@ -17557,8 +17557,8 @@ overcome abrasion excitement arugula pluto jupiter
 1
 0 0
 2
-0 14 0 8
 0 12 0 2
+0 14 0 8
 1
 end_operator
 begin_operator
@@ -17566,8 +17566,8 @@ overcome abrasion excitement broccoli jupiter neptune
 1
 0 1
 2
-0 14 1 8
 0 12 1 0
+0 14 1 8
 1
 end_operator
 begin_operator
@@ -17575,8 +17575,8 @@ overcome abrasion excitement broccoli pluto jupiter
 1
 0 1
 2
-0 14 1 8
 0 12 0 2
+0 14 1 8
 1
 end_operator
 begin_operator
@@ -17584,8 +17584,8 @@ overcome abrasion excitement hotdog jupiter neptune
 1
 0 2
 2
-0 14 2 8
 0 12 1 0
+0 14 2 8
 1
 end_operator
 begin_operator
@@ -17593,8 +17593,8 @@ overcome abrasion excitement hotdog pluto jupiter
 1
 0 2
 2
-0 14 2 8
 0 12 0 2
+0 14 2 8
 1
 end_operator
 begin_operator
@@ -17602,8 +17602,8 @@ overcome abrasion excitement kale jupiter neptune
 1
 0 3
 2
-0 14 3 8
 0 12 1 0
+0 14 3 8
 1
 end_operator
 begin_operator
@@ -17611,8 +17611,8 @@ overcome abrasion excitement kale pluto jupiter
 1
 0 3
 2
-0 14 3 8
 0 12 0 2
+0 14 3 8
 1
 end_operator
 begin_operator
@@ -17620,8 +17620,8 @@ overcome abrasion excitement lettuce jupiter neptune
 1
 0 4
 2
-0 14 4 8
 0 12 1 0
+0 14 4 8
 1
 end_operator
 begin_operator
@@ -17629,8 +17629,8 @@ overcome abrasion excitement lettuce pluto jupiter
 1
 0 4
 2
-0 14 4 8
 0 12 0 2
+0 14 4 8
 1
 end_operator
 begin_operator
@@ -17638,8 +17638,8 @@ overcome abrasion excitement pork jupiter neptune
 1
 0 5
 2
-0 14 5 8
 0 12 1 0
+0 14 5 8
 1
 end_operator
 begin_operator
@@ -17647,8 +17647,8 @@ overcome abrasion excitement pork pluto jupiter
 1
 0 5
 2
-0 14 5 8
 0 12 0 2
+0 14 5 8
 1
 end_operator
 begin_operator
@@ -17656,8 +17656,8 @@ overcome abrasion excitement turkey jupiter neptune
 1
 0 6
 2
-0 14 6 8
 0 12 1 0
+0 14 6 8
 1
 end_operator
 begin_operator
@@ -17665,8 +17665,8 @@ overcome abrasion excitement turkey pluto jupiter
 1
 0 6
 2
-0 14 6 8
 0 12 0 2
+0 14 6 8
 1
 end_operator
 begin_operator
@@ -17674,8 +17674,8 @@ overcome abrasion excitement wurst jupiter neptune
 1
 0 7
 2
-0 14 7 8
 0 12 1 0
+0 14 7 8
 1
 end_operator
 begin_operator
@@ -17683,8 +17683,8 @@ overcome abrasion excitement wurst pluto jupiter
 1
 0 7
 2
-0 14 7 8
 0 12 0 2
+0 14 7 8
 1
 end_operator
 begin_operator
@@ -17692,8 +17692,8 @@ overcome abrasion intoxication arugula jupiter neptune
 1
 1 0
 2
-0 14 0 9
 0 13 1 0
+0 14 0 9
 1
 end_operator
 begin_operator
@@ -17701,8 +17701,8 @@ overcome abrasion intoxication arugula pluto jupiter
 1
 1 0
 2
-0 14 0 9
 0 13 0 2
+0 14 0 9
 1
 end_operator
 begin_operator
@@ -17710,8 +17710,8 @@ overcome abrasion intoxication broccoli jupiter neptune
 1
 1 1
 2
-0 14 1 9
 0 13 1 0
+0 14 1 9
 1
 end_operator
 begin_operator
@@ -17719,8 +17719,8 @@ overcome abrasion intoxication broccoli pluto jupiter
 1
 1 1
 2
-0 14 1 9
 0 13 0 2
+0 14 1 9
 1
 end_operator
 begin_operator
@@ -17728,8 +17728,8 @@ overcome abrasion intoxication hotdog jupiter neptune
 1
 1 2
 2
-0 14 2 9
 0 13 1 0
+0 14 2 9
 1
 end_operator
 begin_operator
@@ -17737,8 +17737,8 @@ overcome abrasion intoxication hotdog pluto jupiter
 1
 1 2
 2
-0 14 2 9
 0 13 0 2
+0 14 2 9
 1
 end_operator
 begin_operator
@@ -17746,8 +17746,8 @@ overcome abrasion intoxication kale jupiter neptune
 1
 1 3
 2
-0 14 3 9
 0 13 1 0
+0 14 3 9
 1
 end_operator
 begin_operator
@@ -17755,8 +17755,8 @@ overcome abrasion intoxication kale pluto jupiter
 1
 1 3
 2
-0 14 3 9
 0 13 0 2
+0 14 3 9
 1
 end_operator
 begin_operator
@@ -17764,8 +17764,8 @@ overcome abrasion intoxication lettuce jupiter neptune
 1
 1 4
 2
-0 14 4 9
 0 13 1 0
+0 14 4 9
 1
 end_operator
 begin_operator
@@ -17773,8 +17773,8 @@ overcome abrasion intoxication lettuce pluto jupiter
 1
 1 4
 2
-0 14 4 9
 0 13 0 2
+0 14 4 9
 1
 end_operator
 begin_operator
@@ -17782,8 +17782,8 @@ overcome abrasion intoxication pork jupiter neptune
 1
 1 5
 2
-0 14 5 9
 0 13 1 0
+0 14 5 9
 1
 end_operator
 begin_operator
@@ -17791,8 +17791,8 @@ overcome abrasion intoxication pork pluto jupiter
 1
 1 5
 2
-0 14 5 9
 0 13 0 2
+0 14 5 9
 1
 end_operator
 begin_operator
@@ -17800,8 +17800,8 @@ overcome abrasion intoxication turkey jupiter neptune
 1
 1 6
 2
-0 14 6 9
 0 13 1 0
+0 14 6 9
 1
 end_operator
 begin_operator
@@ -17809,8 +17809,8 @@ overcome abrasion intoxication turkey pluto jupiter
 1
 1 6
 2
-0 14 6 9
 0 13 0 2
+0 14 6 9
 1
 end_operator
 begin_operator
@@ -17818,8 +17818,8 @@ overcome abrasion intoxication wurst jupiter neptune
 1
 1 7
 2
-0 14 7 9
 0 13 1 0
+0 14 7 9
 1
 end_operator
 begin_operator
@@ -17827,8 +17827,8 @@ overcome abrasion intoxication wurst pluto jupiter
 1
 1 7
 2
-0 14 7 9
 0 13 0 2
+0 14 7 9
 1
 end_operator
 begin_operator
@@ -18124,8 +18124,8 @@ overcome anger excitement arugula jupiter neptune
 1
 0 0
 2
-0 18 0 8
 0 12 1 0
+0 18 0 8
 1
 end_operator
 begin_operator
@@ -18133,8 +18133,8 @@ overcome anger excitement arugula pluto jupiter
 1
 0 0
 2
-0 18 0 8
 0 12 0 2
+0 18 0 8
 1
 end_operator
 begin_operator
@@ -18142,8 +18142,8 @@ overcome anger excitement broccoli jupiter neptune
 1
 0 1
 2
-0 18 1 8
 0 12 1 0
+0 18 1 8
 1
 end_operator
 begin_operator
@@ -18151,8 +18151,8 @@ overcome anger excitement broccoli pluto jupiter
 1
 0 1
 2
-0 18 1 8
 0 12 0 2
+0 18 1 8
 1
 end_operator
 begin_operator
@@ -18160,8 +18160,8 @@ overcome anger excitement hotdog jupiter neptune
 1
 0 2
 2
-0 18 2 8
 0 12 1 0
+0 18 2 8
 1
 end_operator
 begin_operator
@@ -18169,8 +18169,8 @@ overcome anger excitement hotdog pluto jupiter
 1
 0 2
 2
-0 18 2 8
 0 12 0 2
+0 18 2 8
 1
 end_operator
 begin_operator
@@ -18178,8 +18178,8 @@ overcome anger excitement kale jupiter neptune
 1
 0 3
 2
-0 18 3 8
 0 12 1 0
+0 18 3 8
 1
 end_operator
 begin_operator
@@ -18187,8 +18187,8 @@ overcome anger excitement kale pluto jupiter
 1
 0 3
 2
-0 18 3 8
 0 12 0 2
+0 18 3 8
 1
 end_operator
 begin_operator
@@ -18196,8 +18196,8 @@ overcome anger excitement lettuce jupiter neptune
 1
 0 4
 2
-0 18 4 8
 0 12 1 0
+0 18 4 8
 1
 end_operator
 begin_operator
@@ -18205,8 +18205,8 @@ overcome anger excitement lettuce pluto jupiter
 1
 0 4
 2
-0 18 4 8
 0 12 0 2
+0 18 4 8
 1
 end_operator
 begin_operator
@@ -18214,8 +18214,8 @@ overcome anger excitement pork jupiter neptune
 1
 0 5
 2
-0 18 5 8
 0 12 1 0
+0 18 5 8
 1
 end_operator
 begin_operator
@@ -18223,8 +18223,8 @@ overcome anger excitement pork pluto jupiter
 1
 0 5
 2
-0 18 5 8
 0 12 0 2
+0 18 5 8
 1
 end_operator
 begin_operator
@@ -18232,8 +18232,8 @@ overcome anger excitement turkey jupiter neptune
 1
 0 6
 2
-0 18 6 8
 0 12 1 0
+0 18 6 8
 1
 end_operator
 begin_operator
@@ -18241,8 +18241,8 @@ overcome anger excitement turkey pluto jupiter
 1
 0 6
 2
-0 18 6 8
 0 12 0 2
+0 18 6 8
 1
 end_operator
 begin_operator
@@ -18250,8 +18250,8 @@ overcome anger excitement wurst jupiter neptune
 1
 0 7
 2
-0 18 7 8
 0 12 1 0
+0 18 7 8
 1
 end_operator
 begin_operator
@@ -18259,8 +18259,8 @@ overcome anger excitement wurst pluto jupiter
 1
 0 7
 2
-0 18 7 8
 0 12 0 2
+0 18 7 8
 1
 end_operator
 begin_operator
@@ -18268,8 +18268,8 @@ overcome anger intoxication arugula jupiter neptune
 1
 1 0
 2
-0 18 0 9
 0 13 1 0
+0 18 0 9
 1
 end_operator
 begin_operator
@@ -18277,8 +18277,8 @@ overcome anger intoxication arugula pluto jupiter
 1
 1 0
 2
-0 18 0 9
 0 13 0 2
+0 18 0 9
 1
 end_operator
 begin_operator
@@ -18286,8 +18286,8 @@ overcome anger intoxication broccoli jupiter neptune
 1
 1 1
 2
-0 18 1 9
 0 13 1 0
+0 18 1 9
 1
 end_operator
 begin_operator
@@ -18295,8 +18295,8 @@ overcome anger intoxication broccoli pluto jupiter
 1
 1 1
 2
-0 18 1 9
 0 13 0 2
+0 18 1 9
 1
 end_operator
 begin_operator
@@ -18304,8 +18304,8 @@ overcome anger intoxication hotdog jupiter neptune
 1
 1 2
 2
-0 18 2 9
 0 13 1 0
+0 18 2 9
 1
 end_operator
 begin_operator
@@ -18313,8 +18313,8 @@ overcome anger intoxication hotdog pluto jupiter
 1
 1 2
 2
-0 18 2 9
 0 13 0 2
+0 18 2 9
 1
 end_operator
 begin_operator
@@ -18322,8 +18322,8 @@ overcome anger intoxication kale jupiter neptune
 1
 1 3
 2
-0 18 3 9
 0 13 1 0
+0 18 3 9
 1
 end_operator
 begin_operator
@@ -18331,8 +18331,8 @@ overcome anger intoxication kale pluto jupiter
 1
 1 3
 2
-0 18 3 9
 0 13 0 2
+0 18 3 9
 1
 end_operator
 begin_operator
@@ -18340,8 +18340,8 @@ overcome anger intoxication lettuce jupiter neptune
 1
 1 4
 2
-0 18 4 9
 0 13 1 0
+0 18 4 9
 1
 end_operator
 begin_operator
@@ -18349,8 +18349,8 @@ overcome anger intoxication lettuce pluto jupiter
 1
 1 4
 2
-0 18 4 9
 0 13 0 2
+0 18 4 9
 1
 end_operator
 begin_operator
@@ -18358,8 +18358,8 @@ overcome anger intoxication pork jupiter neptune
 1
 1 5
 2
-0 18 5 9
 0 13 1 0
+0 18 5 9
 1
 end_operator
 begin_operator
@@ -18367,8 +18367,8 @@ overcome anger intoxication pork pluto jupiter
 1
 1 5
 2
-0 18 5 9
 0 13 0 2
+0 18 5 9
 1
 end_operator
 begin_operator
@@ -18376,8 +18376,8 @@ overcome anger intoxication turkey jupiter neptune
 1
 1 6
 2
-0 18 6 9
 0 13 1 0
+0 18 6 9
 1
 end_operator
 begin_operator
@@ -18385,8 +18385,8 @@ overcome anger intoxication turkey pluto jupiter
 1
 1 6
 2
-0 18 6 9
 0 13 0 2
+0 18 6 9
 1
 end_operator
 begin_operator
@@ -18394,8 +18394,8 @@ overcome anger intoxication wurst jupiter neptune
 1
 1 7
 2
-0 18 7 9
 0 13 1 0
+0 18 7 9
 1
 end_operator
 begin_operator
@@ -18403,8 +18403,8 @@ overcome anger intoxication wurst pluto jupiter
 1
 1 7
 2
-0 18 7 9
 0 13 0 2
+0 18 7 9
 1
 end_operator
 begin_operator
@@ -18412,8 +18412,8 @@ overcome anger love arugula jupiter neptune
 1
 2 0
 2
-0 18 0 10
 0 16 1 0
+0 18 0 10
 1
 end_operator
 begin_operator
@@ -18421,8 +18421,8 @@ overcome anger love arugula pluto jupiter
 1
 2 0
 2
-0 18 0 10
 0 16 0 2
+0 18 0 10
 1
 end_operator
 begin_operator
@@ -18430,8 +18430,8 @@ overcome anger love broccoli jupiter neptune
 1
 2 1
 2
-0 18 1 10
 0 16 1 0
+0 18 1 10
 1
 end_operator
 begin_operator
@@ -18439,8 +18439,8 @@ overcome anger love broccoli pluto jupiter
 1
 2 1
 2
-0 18 1 10
 0 16 0 2
+0 18 1 10
 1
 end_operator
 begin_operator
@@ -18448,8 +18448,8 @@ overcome anger love hotdog jupiter neptune
 1
 2 2
 2
-0 18 2 10
 0 16 1 0
+0 18 2 10
 1
 end_operator
 begin_operator
@@ -18457,8 +18457,8 @@ overcome anger love hotdog pluto jupiter
 1
 2 2
 2
-0 18 2 10
 0 16 0 2
+0 18 2 10
 1
 end_operator
 begin_operator
@@ -18466,8 +18466,8 @@ overcome anger love kale jupiter neptune
 1
 2 3
 2
-0 18 3 10
 0 16 1 0
+0 18 3 10
 1
 end_operator
 begin_operator
@@ -18475,8 +18475,8 @@ overcome anger love kale pluto jupiter
 1
 2 3
 2
-0 18 3 10
 0 16 0 2
+0 18 3 10
 1
 end_operator
 begin_operator
@@ -18484,8 +18484,8 @@ overcome anger love lettuce jupiter neptune
 1
 2 4
 2
-0 18 4 10
 0 16 1 0
+0 18 4 10
 1
 end_operator
 begin_operator
@@ -18493,8 +18493,8 @@ overcome anger love lettuce pluto jupiter
 1
 2 4
 2
-0 18 4 10
 0 16 0 2
+0 18 4 10
 1
 end_operator
 begin_operator
@@ -18502,8 +18502,8 @@ overcome anger love pork jupiter neptune
 1
 2 5
 2
-0 18 5 10
 0 16 1 0
+0 18 5 10
 1
 end_operator
 begin_operator
@@ -18511,8 +18511,8 @@ overcome anger love pork pluto jupiter
 1
 2 5
 2
-0 18 5 10
 0 16 0 2
+0 18 5 10
 1
 end_operator
 begin_operator
@@ -18520,8 +18520,8 @@ overcome anger love turkey jupiter neptune
 1
 2 6
 2
-0 18 6 10
 0 16 1 0
+0 18 6 10
 1
 end_operator
 begin_operator
@@ -18529,8 +18529,8 @@ overcome anger love turkey pluto jupiter
 1
 2 6
 2
-0 18 6 10
 0 16 0 2
+0 18 6 10
 1
 end_operator
 begin_operator
@@ -18538,8 +18538,8 @@ overcome anger love wurst jupiter neptune
 1
 2 7
 2
-0 18 7 10
 0 16 1 0
+0 18 7 10
 1
 end_operator
 begin_operator
@@ -18547,8 +18547,8 @@ overcome anger love wurst pluto jupiter
 1
 2 7
 2
-0 18 7 10
 0 16 0 2
+0 18 7 10
 1
 end_operator
 begin_operator
@@ -18556,8 +18556,8 @@ overcome anger rest arugula jupiter neptune
 1
 3 0
 2
-0 18 0 11
 0 17 1 0
+0 18 0 11
 1
 end_operator
 begin_operator
@@ -18565,8 +18565,8 @@ overcome anger rest arugula pluto jupiter
 1
 3 0
 2
-0 18 0 11
 0 17 0 2
+0 18 0 11
 1
 end_operator
 begin_operator
@@ -18574,8 +18574,8 @@ overcome anger rest broccoli jupiter neptune
 1
 3 1
 2
-0 18 1 11
 0 17 1 0
+0 18 1 11
 1
 end_operator
 begin_operator
@@ -18583,8 +18583,8 @@ overcome anger rest broccoli pluto jupiter
 1
 3 1
 2
-0 18 1 11
 0 17 0 2
+0 18 1 11
 1
 end_operator
 begin_operator
@@ -18592,8 +18592,8 @@ overcome anger rest hotdog jupiter neptune
 1
 3 2
 2
-0 18 2 11
 0 17 1 0
+0 18 2 11
 1
 end_operator
 begin_operator
@@ -18601,8 +18601,8 @@ overcome anger rest hotdog pluto jupiter
 1
 3 2
 2
-0 18 2 11
 0 17 0 2
+0 18 2 11
 1
 end_operator
 begin_operator
@@ -18610,8 +18610,8 @@ overcome anger rest kale jupiter neptune
 1
 3 3
 2
-0 18 3 11
 0 17 1 0
+0 18 3 11
 1
 end_operator
 begin_operator
@@ -18619,8 +18619,8 @@ overcome anger rest kale pluto jupiter
 1
 3 3
 2
-0 18 3 11
 0 17 0 2
+0 18 3 11
 1
 end_operator
 begin_operator
@@ -18628,8 +18628,8 @@ overcome anger rest lettuce jupiter neptune
 1
 3 4
 2
-0 18 4 11
 0 17 1 0
+0 18 4 11
 1
 end_operator
 begin_operator
@@ -18637,8 +18637,8 @@ overcome anger rest lettuce pluto jupiter
 1
 3 4
 2
-0 18 4 11
 0 17 0 2
+0 18 4 11
 1
 end_operator
 begin_operator
@@ -18646,8 +18646,8 @@ overcome anger rest pork jupiter neptune
 1
 3 5
 2
-0 18 5 11
 0 17 1 0
+0 18 5 11
 1
 end_operator
 begin_operator
@@ -18655,8 +18655,8 @@ overcome anger rest pork pluto jupiter
 1
 3 5
 2
-0 18 5 11
 0 17 0 2
+0 18 5 11
 1
 end_operator
 begin_operator
@@ -18664,8 +18664,8 @@ overcome anger rest turkey jupiter neptune
 1
 3 6
 2
-0 18 6 11
 0 17 1 0
+0 18 6 11
 1
 end_operator
 begin_operator
@@ -18673,8 +18673,8 @@ overcome anger rest turkey pluto jupiter
 1
 3 6
 2
-0 18 6 11
 0 17 0 2
+0 18 6 11
 1
 end_operator
 begin_operator
@@ -18682,8 +18682,8 @@ overcome anger rest wurst jupiter neptune
 1
 3 7
 2
-0 18 7 11
 0 17 1 0
+0 18 7 11
 1
 end_operator
 begin_operator
@@ -18691,8 +18691,8 @@ overcome anger rest wurst pluto jupiter
 1
 3 7
 2
-0 18 7 11
 0 17 0 2
+0 18 7 11
 1
 end_operator
 begin_operator
@@ -18700,8 +18700,8 @@ overcome grief excitement arugula jupiter neptune
 1
 0 0
 2
-0 15 0 8
 0 12 1 0
+0 15 0 8
 1
 end_operator
 begin_operator
@@ -18709,8 +18709,8 @@ overcome grief excitement arugula pluto jupiter
 1
 0 0
 2
-0 15 0 8
 0 12 0 2
+0 15 0 8
 1
 end_operator
 begin_operator
@@ -18718,8 +18718,8 @@ overcome grief excitement broccoli jupiter neptune
 1
 0 1
 2
-0 15 1 8
 0 12 1 0
+0 15 1 8
 1
 end_operator
 begin_operator
@@ -18727,8 +18727,8 @@ overcome grief excitement broccoli pluto jupiter
 1
 0 1
 2
-0 15 1 8
 0 12 0 2
+0 15 1 8
 1
 end_operator
 begin_operator
@@ -18736,8 +18736,8 @@ overcome grief excitement hotdog jupiter neptune
 1
 0 2
 2
-0 15 2 8
 0 12 1 0
+0 15 2 8
 1
 end_operator
 begin_operator
@@ -18745,8 +18745,8 @@ overcome grief excitement hotdog pluto jupiter
 1
 0 2
 2
-0 15 2 8
 0 12 0 2
+0 15 2 8
 1
 end_operator
 begin_operator
@@ -18754,8 +18754,8 @@ overcome grief excitement kale jupiter neptune
 1
 0 3
 2
-0 15 3 8
 0 12 1 0
+0 15 3 8
 1
 end_operator
 begin_operator
@@ -18763,8 +18763,8 @@ overcome grief excitement kale pluto jupiter
 1
 0 3
 2
-0 15 3 8
 0 12 0 2
+0 15 3 8
 1
 end_operator
 begin_operator
@@ -18772,8 +18772,8 @@ overcome grief excitement lettuce jupiter neptune
 1
 0 4
 2
-0 15 4 8
 0 12 1 0
+0 15 4 8
 1
 end_operator
 begin_operator
@@ -18781,8 +18781,8 @@ overcome grief excitement lettuce pluto jupiter
 1
 0 4
 2
-0 15 4 8
 0 12 0 2
+0 15 4 8
 1
 end_operator
 begin_operator
@@ -18790,8 +18790,8 @@ overcome grief excitement pork jupiter neptune
 1
 0 5
 2
-0 15 5 8
 0 12 1 0
+0 15 5 8
 1
 end_operator
 begin_operator
@@ -18799,8 +18799,8 @@ overcome grief excitement pork pluto jupiter
 1
 0 5
 2
-0 15 5 8
 0 12 0 2
+0 15 5 8
 1
 end_operator
 begin_operator
@@ -18808,8 +18808,8 @@ overcome grief excitement turkey jupiter neptune
 1
 0 6
 2
-0 15 6 8
 0 12 1 0
+0 15 6 8
 1
 end_operator
 begin_operator
@@ -18817,8 +18817,8 @@ overcome grief excitement turkey pluto jupiter
 1
 0 6
 2
-0 15 6 8
 0 12 0 2
+0 15 6 8
 1
 end_operator
 begin_operator
@@ -18826,8 +18826,8 @@ overcome grief excitement wurst jupiter neptune
 1
 0 7
 2
-0 15 7 8
 0 12 1 0
+0 15 7 8
 1
 end_operator
 begin_operator
@@ -18835,8 +18835,8 @@ overcome grief excitement wurst pluto jupiter
 1
 0 7
 2
-0 15 7 8
 0 12 0 2
+0 15 7 8
 1
 end_operator
 begin_operator
@@ -18844,8 +18844,8 @@ overcome grief intoxication arugula jupiter neptune
 1
 1 0
 2
-0 15 0 9
 0 13 1 0
+0 15 0 9
 1
 end_operator
 begin_operator
@@ -18853,8 +18853,8 @@ overcome grief intoxication arugula pluto jupiter
 1
 1 0
 2
-0 15 0 9
 0 13 0 2
+0 15 0 9
 1
 end_operator
 begin_operator
@@ -18862,8 +18862,8 @@ overcome grief intoxication broccoli jupiter neptune
 1
 1 1
 2
-0 15 1 9
 0 13 1 0
+0 15 1 9
 1
 end_operator
 begin_operator
@@ -18871,8 +18871,8 @@ overcome grief intoxication broccoli pluto jupiter
 1
 1 1
 2
-0 15 1 9
 0 13 0 2
+0 15 1 9
 1
 end_operator
 begin_operator
@@ -18880,8 +18880,8 @@ overcome grief intoxication hotdog jupiter neptune
 1
 1 2
 2
-0 15 2 9
 0 13 1 0
+0 15 2 9
 1
 end_operator
 begin_operator
@@ -18889,8 +18889,8 @@ overcome grief intoxication hotdog pluto jupiter
 1
 1 2
 2
-0 15 2 9
 0 13 0 2
+0 15 2 9
 1
 end_operator
 begin_operator
@@ -18898,8 +18898,8 @@ overcome grief intoxication kale jupiter neptune
 1
 1 3
 2
-0 15 3 9
 0 13 1 0
+0 15 3 9
 1
 end_operator
 begin_operator
@@ -18907,8 +18907,8 @@ overcome grief intoxication kale pluto jupiter
 1
 1 3
 2
-0 15 3 9
 0 13 0 2
+0 15 3 9
 1
 end_operator
 begin_operator
@@ -18916,8 +18916,8 @@ overcome grief intoxication lettuce jupiter neptune
 1
 1 4
 2
-0 15 4 9
 0 13 1 0
+0 15 4 9
 1
 end_operator
 begin_operator
@@ -18925,8 +18925,8 @@ overcome grief intoxication lettuce pluto jupiter
 1
 1 4
 2
-0 15 4 9
 0 13 0 2
+0 15 4 9
 1
 end_operator
 begin_operator
@@ -18934,8 +18934,8 @@ overcome grief intoxication pork jupiter neptune
 1
 1 5
 2
-0 15 5 9
 0 13 1 0
+0 15 5 9
 1
 end_operator
 begin_operator
@@ -18943,8 +18943,8 @@ overcome grief intoxication pork pluto jupiter
 1
 1 5
 2
-0 15 5 9
 0 13 0 2
+0 15 5 9
 1
 end_operator
 begin_operator
@@ -18952,8 +18952,8 @@ overcome grief intoxication turkey jupiter neptune
 1
 1 6
 2
-0 15 6 9
 0 13 1 0
+0 15 6 9
 1
 end_operator
 begin_operator
@@ -18961,8 +18961,8 @@ overcome grief intoxication turkey pluto jupiter
 1
 1 6
 2
-0 15 6 9
 0 13 0 2
+0 15 6 9
 1
 end_operator
 begin_operator
@@ -18970,8 +18970,8 @@ overcome grief intoxication wurst jupiter neptune
 1
 1 7
 2
-0 15 7 9
 0 13 1 0
+0 15 7 9
 1
 end_operator
 begin_operator
@@ -18979,8 +18979,8 @@ overcome grief intoxication wurst pluto jupiter
 1
 1 7
 2
-0 15 7 9
 0 13 0 2
+0 15 7 9
 1
 end_operator
 begin_operator
@@ -19276,8 +19276,8 @@ succumb abrasion excitement arugula jupiter neptune
 1
 0 0
 2
-0 14 8 0
 0 12 0 1
+0 14 8 0
 1
 end_operator
 begin_operator
@@ -19285,8 +19285,8 @@ succumb abrasion excitement arugula pluto jupiter
 1
 0 0
 2
-0 14 8 0
 0 12 2 0
+0 14 8 0
 1
 end_operator
 begin_operator
@@ -19294,8 +19294,8 @@ succumb abrasion excitement broccoli jupiter neptune
 1
 0 1
 2
-0 14 8 1
 0 12 0 1
+0 14 8 1
 1
 end_operator
 begin_operator
@@ -19303,8 +19303,8 @@ succumb abrasion excitement broccoli pluto jupiter
 1
 0 1
 2
-0 14 8 1
 0 12 2 0
+0 14 8 1
 1
 end_operator
 begin_operator
@@ -19312,8 +19312,8 @@ succumb abrasion excitement hotdog jupiter neptune
 1
 0 2
 2
-0 14 8 2
 0 12 0 1
+0 14 8 2
 1
 end_operator
 begin_operator
@@ -19321,8 +19321,8 @@ succumb abrasion excitement hotdog pluto jupiter
 1
 0 2
 2
-0 14 8 2
 0 12 2 0
+0 14 8 2
 1
 end_operator
 begin_operator
@@ -19330,8 +19330,8 @@ succumb abrasion excitement kale jupiter neptune
 1
 0 3
 2
-0 14 8 3
 0 12 0 1
+0 14 8 3
 1
 end_operator
 begin_operator
@@ -19339,8 +19339,8 @@ succumb abrasion excitement kale pluto jupiter
 1
 0 3
 2
-0 14 8 3
 0 12 2 0
+0 14 8 3
 1
 end_operator
 begin_operator
@@ -19348,8 +19348,8 @@ succumb abrasion excitement lettuce jupiter neptune
 1
 0 4
 2
-0 14 8 4
 0 12 0 1
+0 14 8 4
 1
 end_operator
 begin_operator
@@ -19357,8 +19357,8 @@ succumb abrasion excitement lettuce pluto jupiter
 1
 0 4
 2
-0 14 8 4
 0 12 2 0
+0 14 8 4
 1
 end_operator
 begin_operator
@@ -19366,8 +19366,8 @@ succumb abrasion excitement pork jupiter neptune
 1
 0 5
 2
-0 14 8 5
 0 12 0 1
+0 14 8 5
 1
 end_operator
 begin_operator
@@ -19375,8 +19375,8 @@ succumb abrasion excitement pork pluto jupiter
 1
 0 5
 2
-0 14 8 5
 0 12 2 0
+0 14 8 5
 1
 end_operator
 begin_operator
@@ -19384,8 +19384,8 @@ succumb abrasion excitement turkey jupiter neptune
 1
 0 6
 2
-0 14 8 6
 0 12 0 1
+0 14 8 6
 1
 end_operator
 begin_operator
@@ -19393,8 +19393,8 @@ succumb abrasion excitement turkey pluto jupiter
 1
 0 6
 2
-0 14 8 6
 0 12 2 0
+0 14 8 6
 1
 end_operator
 begin_operator
@@ -19402,8 +19402,8 @@ succumb abrasion excitement wurst jupiter neptune
 1
 0 7
 2
-0 14 8 7
 0 12 0 1
+0 14 8 7
 1
 end_operator
 begin_operator
@@ -19411,8 +19411,8 @@ succumb abrasion excitement wurst pluto jupiter
 1
 0 7
 2
-0 14 8 7
 0 12 2 0
+0 14 8 7
 1
 end_operator
 begin_operator
@@ -19420,8 +19420,8 @@ succumb abrasion intoxication arugula jupiter neptune
 1
 1 0
 2
-0 14 9 0
 0 13 0 1
+0 14 9 0
 1
 end_operator
 begin_operator
@@ -19429,8 +19429,8 @@ succumb abrasion intoxication arugula pluto jupiter
 1
 1 0
 2
-0 14 9 0
 0 13 2 0
+0 14 9 0
 1
 end_operator
 begin_operator
@@ -19438,8 +19438,8 @@ succumb abrasion intoxication broccoli jupiter neptune
 1
 1 1
 2
-0 14 9 1
 0 13 0 1
+0 14 9 1
 1
 end_operator
 begin_operator
@@ -19447,8 +19447,8 @@ succumb abrasion intoxication broccoli pluto jupiter
 1
 1 1
 2
-0 14 9 1
 0 13 2 0
+0 14 9 1
 1
 end_operator
 begin_operator
@@ -19456,8 +19456,8 @@ succumb abrasion intoxication hotdog jupiter neptune
 1
 1 2
 2
-0 14 9 2
 0 13 0 1
+0 14 9 2
 1
 end_operator
 begin_operator
@@ -19465,8 +19465,8 @@ succumb abrasion intoxication hotdog pluto jupiter
 1
 1 2
 2
-0 14 9 2
 0 13 2 0
+0 14 9 2
 1
 end_operator
 begin_operator
@@ -19474,8 +19474,8 @@ succumb abrasion intoxication kale jupiter neptune
 1
 1 3
 2
-0 14 9 3
 0 13 0 1
+0 14 9 3
 1
 end_operator
 begin_operator
@@ -19483,8 +19483,8 @@ succumb abrasion intoxication kale pluto jupiter
 1
 1 3
 2
-0 14 9 3
 0 13 2 0
+0 14 9 3
 1
 end_operator
 begin_operator
@@ -19492,8 +19492,8 @@ succumb abrasion intoxication lettuce jupiter neptune
 1
 1 4
 2
-0 14 9 4
 0 13 0 1
+0 14 9 4
 1
 end_operator
 begin_operator
@@ -19501,8 +19501,8 @@ succumb abrasion intoxication lettuce pluto jupiter
 1
 1 4
 2
-0 14 9 4
 0 13 2 0
+0 14 9 4
 1
 end_operator
 begin_operator
@@ -19510,8 +19510,8 @@ succumb abrasion intoxication pork jupiter neptune
 1
 1 5
 2
-0 14 9 5
 0 13 0 1
+0 14 9 5
 1
 end_operator
 begin_operator
@@ -19519,8 +19519,8 @@ succumb abrasion intoxication pork pluto jupiter
 1
 1 5
 2
-0 14 9 5
 0 13 2 0
+0 14 9 5
 1
 end_operator
 begin_operator
@@ -19528,8 +19528,8 @@ succumb abrasion intoxication turkey jupiter neptune
 1
 1 6
 2
-0 14 9 6
 0 13 0 1
+0 14 9 6
 1
 end_operator
 begin_operator
@@ -19537,8 +19537,8 @@ succumb abrasion intoxication turkey pluto jupiter
 1
 1 6
 2
-0 14 9 6
 0 13 2 0
+0 14 9 6
 1
 end_operator
 begin_operator
@@ -19546,8 +19546,8 @@ succumb abrasion intoxication wurst jupiter neptune
 1
 1 7
 2
-0 14 9 7
 0 13 0 1
+0 14 9 7
 1
 end_operator
 begin_operator
@@ -19555,8 +19555,8 @@ succumb abrasion intoxication wurst pluto jupiter
 1
 1 7
 2
-0 14 9 7
 0 13 2 0
+0 14 9 7
 1
 end_operator
 begin_operator
@@ -19852,8 +19852,8 @@ succumb anger excitement arugula jupiter neptune
 1
 0 0
 2
-0 18 8 0
 0 12 0 1
+0 18 8 0
 1
 end_operator
 begin_operator
@@ -19861,8 +19861,8 @@ succumb anger excitement arugula pluto jupiter
 1
 0 0
 2
-0 18 8 0
 0 12 2 0
+0 18 8 0
 1
 end_operator
 begin_operator
@@ -19870,8 +19870,8 @@ succumb anger excitement broccoli jupiter neptune
 1
 0 1
 2
-0 18 8 1
 0 12 0 1
+0 18 8 1
 1
 end_operator
 begin_operator
@@ -19879,8 +19879,8 @@ succumb anger excitement broccoli pluto jupiter
 1
 0 1
 2
-0 18 8 1
 0 12 2 0
+0 18 8 1
 1
 end_operator
 begin_operator
@@ -19888,8 +19888,8 @@ succumb anger excitement hotdog jupiter neptune
 1
 0 2
 2
-0 18 8 2
 0 12 0 1
+0 18 8 2
 1
 end_operator
 begin_operator
@@ -19897,8 +19897,8 @@ succumb anger excitement hotdog pluto jupiter
 1
 0 2
 2
-0 18 8 2
 0 12 2 0
+0 18 8 2
 1
 end_operator
 begin_operator
@@ -19906,8 +19906,8 @@ succumb anger excitement kale jupiter neptune
 1
 0 3
 2
-0 18 8 3
 0 12 0 1
+0 18 8 3
 1
 end_operator
 begin_operator
@@ -19915,8 +19915,8 @@ succumb anger excitement kale pluto jupiter
 1
 0 3
 2
-0 18 8 3
 0 12 2 0
+0 18 8 3
 1
 end_operator
 begin_operator
@@ -19924,8 +19924,8 @@ succumb anger excitement lettuce jupiter neptune
 1
 0 4
 2
-0 18 8 4
 0 12 0 1
+0 18 8 4
 1
 end_operator
 begin_operator
@@ -19933,8 +19933,8 @@ succumb anger excitement lettuce pluto jupiter
 1
 0 4
 2
-0 18 8 4
 0 12 2 0
+0 18 8 4
 1
 end_operator
 begin_operator
@@ -19942,8 +19942,8 @@ succumb anger excitement pork jupiter neptune
 1
 0 5
 2
-0 18 8 5
 0 12 0 1
+0 18 8 5
 1
 end_operator
 begin_operator
@@ -19951,8 +19951,8 @@ succumb anger excitement pork pluto jupiter
 1
 0 5
 2
-0 18 8 5
 0 12 2 0
+0 18 8 5
 1
 end_operator
 begin_operator
@@ -19960,8 +19960,8 @@ succumb anger excitement turkey jupiter neptune
 1
 0 6
 2
-0 18 8 6
 0 12 0 1
+0 18 8 6
 1
 end_operator
 begin_operator
@@ -19969,8 +19969,8 @@ succumb anger excitement turkey pluto jupiter
 1
 0 6
 2
-0 18 8 6
 0 12 2 0
+0 18 8 6
 1
 end_operator
 begin_operator
@@ -19978,8 +19978,8 @@ succumb anger excitement wurst jupiter neptune
 1
 0 7
 2
-0 18 8 7
 0 12 0 1
+0 18 8 7
 1
 end_operator
 begin_operator
@@ -19987,8 +19987,8 @@ succumb anger excitement wurst pluto jupiter
 1
 0 7
 2
-0 18 8 7
 0 12 2 0
+0 18 8 7
 1
 end_operator
 begin_operator
@@ -19996,8 +19996,8 @@ succumb anger intoxication arugula jupiter neptune
 1
 1 0
 2
-0 18 9 0
 0 13 0 1
+0 18 9 0
 1
 end_operator
 begin_operator
@@ -20005,8 +20005,8 @@ succumb anger intoxication arugula pluto jupiter
 1
 1 0
 2
-0 18 9 0
 0 13 2 0
+0 18 9 0
 1
 end_operator
 begin_operator
@@ -20014,8 +20014,8 @@ succumb anger intoxication broccoli jupiter neptune
 1
 1 1
 2
-0 18 9 1
 0 13 0 1
+0 18 9 1
 1
 end_operator
 begin_operator
@@ -20023,8 +20023,8 @@ succumb anger intoxication broccoli pluto jupiter
 1
 1 1
 2
-0 18 9 1
 0 13 2 0
+0 18 9 1
 1
 end_operator
 begin_operator
@@ -20032,8 +20032,8 @@ succumb anger intoxication hotdog jupiter neptune
 1
 1 2
 2
-0 18 9 2
 0 13 0 1
+0 18 9 2
 1
 end_operator
 begin_operator
@@ -20041,8 +20041,8 @@ succumb anger intoxication hotdog pluto jupiter
 1
 1 2
 2
-0 18 9 2
 0 13 2 0
+0 18 9 2
 1
 end_operator
 begin_operator
@@ -20050,8 +20050,8 @@ succumb anger intoxication kale jupiter neptune
 1
 1 3
 2
-0 18 9 3
 0 13 0 1
+0 18 9 3
 1
 end_operator
 begin_operator
@@ -20059,8 +20059,8 @@ succumb anger intoxication kale pluto jupiter
 1
 1 3
 2
-0 18 9 3
 0 13 2 0
+0 18 9 3
 1
 end_operator
 begin_operator
@@ -20068,8 +20068,8 @@ succumb anger intoxication lettuce jupiter neptune
 1
 1 4
 2
-0 18 9 4
 0 13 0 1
+0 18 9 4
 1
 end_operator
 begin_operator
@@ -20077,8 +20077,8 @@ succumb anger intoxication lettuce pluto jupiter
 1
 1 4
 2
-0 18 9 4
 0 13 2 0
+0 18 9 4
 1
 end_operator
 begin_operator
@@ -20086,8 +20086,8 @@ succumb anger intoxication pork jupiter neptune
 1
 1 5
 2
-0 18 9 5
 0 13 0 1
+0 18 9 5
 1
 end_operator
 begin_operator
@@ -20095,8 +20095,8 @@ succumb anger intoxication pork pluto jupiter
 1
 1 5
 2
-0 18 9 5
 0 13 2 0
+0 18 9 5
 1
 end_operator
 begin_operator
@@ -20104,8 +20104,8 @@ succumb anger intoxication turkey jupiter neptune
 1
 1 6
 2
-0 18 9 6
 0 13 0 1
+0 18 9 6
 1
 end_operator
 begin_operator
@@ -20113,8 +20113,8 @@ succumb anger intoxication turkey pluto jupiter
 1
 1 6
 2
-0 18 9 6
 0 13 2 0
+0 18 9 6
 1
 end_operator
 begin_operator
@@ -20122,8 +20122,8 @@ succumb anger intoxication wurst jupiter neptune
 1
 1 7
 2
-0 18 9 7
 0 13 0 1
+0 18 9 7
 1
 end_operator
 begin_operator
@@ -20131,8 +20131,8 @@ succumb anger intoxication wurst pluto jupiter
 1
 1 7
 2
-0 18 9 7
 0 13 2 0
+0 18 9 7
 1
 end_operator
 begin_operator
@@ -20140,8 +20140,8 @@ succumb anger love arugula jupiter neptune
 1
 2 0
 2
-0 18 10 0
 0 16 0 1
+0 18 10 0
 1
 end_operator
 begin_operator
@@ -20149,8 +20149,8 @@ succumb anger love arugula pluto jupiter
 1
 2 0
 2
-0 18 10 0
 0 16 2 0
+0 18 10 0
 1
 end_operator
 begin_operator
@@ -20158,8 +20158,8 @@ succumb anger love broccoli jupiter neptune
 1
 2 1
 2
-0 18 10 1
 0 16 0 1
+0 18 10 1
 1
 end_operator
 begin_operator
@@ -20167,8 +20167,8 @@ succumb anger love broccoli pluto jupiter
 1
 2 1
 2
-0 18 10 1
 0 16 2 0
+0 18 10 1
 1
 end_operator
 begin_operator
@@ -20176,8 +20176,8 @@ succumb anger love hotdog jupiter neptune
 1
 2 2
 2
-0 18 10 2
 0 16 0 1
+0 18 10 2
 1
 end_operator
 begin_operator
@@ -20185,8 +20185,8 @@ succumb anger love hotdog pluto jupiter
 1
 2 2
 2
-0 18 10 2
 0 16 2 0
+0 18 10 2
 1
 end_operator
 begin_operator
@@ -20194,8 +20194,8 @@ succumb anger love kale jupiter neptune
 1
 2 3
 2
-0 18 10 3
 0 16 0 1
+0 18 10 3
 1
 end_operator
 begin_operator
@@ -20203,8 +20203,8 @@ succumb anger love kale pluto jupiter
 1
 2 3
 2
-0 18 10 3
 0 16 2 0
+0 18 10 3
 1
 end_operator
 begin_operator
@@ -20212,8 +20212,8 @@ succumb anger love lettuce jupiter neptune
 1
 2 4
 2
-0 18 10 4
 0 16 0 1
+0 18 10 4
 1
 end_operator
 begin_operator
@@ -20221,8 +20221,8 @@ succumb anger love lettuce pluto jupiter
 1
 2 4
 2
-0 18 10 4
 0 16 2 0
+0 18 10 4
 1
 end_operator
 begin_operator
@@ -20230,8 +20230,8 @@ succumb anger love pork jupiter neptune
 1
 2 5
 2
-0 18 10 5
 0 16 0 1
+0 18 10 5
 1
 end_operator
 begin_operator
@@ -20239,8 +20239,8 @@ succumb anger love pork pluto jupiter
 1
 2 5
 2
-0 18 10 5
 0 16 2 0
+0 18 10 5
 1
 end_operator
 begin_operator
@@ -20248,8 +20248,8 @@ succumb anger love turkey jupiter neptune
 1
 2 6
 2
-0 18 10 6
 0 16 0 1
+0 18 10 6
 1
 end_operator
 begin_operator
@@ -20257,8 +20257,8 @@ succumb anger love turkey pluto jupiter
 1
 2 6
 2
-0 18 10 6
 0 16 2 0
+0 18 10 6
 1
 end_operator
 begin_operator
@@ -20266,8 +20266,8 @@ succumb anger love wurst jupiter neptune
 1
 2 7
 2
-0 18 10 7
 0 16 0 1
+0 18 10 7
 1
 end_operator
 begin_operator
@@ -20275,8 +20275,8 @@ succumb anger love wurst pluto jupiter
 1
 2 7
 2
-0 18 10 7
 0 16 2 0
+0 18 10 7
 1
 end_operator
 begin_operator
@@ -20284,8 +20284,8 @@ succumb anger rest arugula jupiter neptune
 1
 3 0
 2
-0 18 11 0
 0 17 0 1
+0 18 11 0
 1
 end_operator
 begin_operator
@@ -20293,8 +20293,8 @@ succumb anger rest arugula pluto jupiter
 1
 3 0
 2
-0 18 11 0
 0 17 2 0
+0 18 11 0
 1
 end_operator
 begin_operator
@@ -20302,8 +20302,8 @@ succumb anger rest broccoli jupiter neptune
 1
 3 1
 2
-0 18 11 1
 0 17 0 1
+0 18 11 1
 1
 end_operator
 begin_operator
@@ -20311,8 +20311,8 @@ succumb anger rest broccoli pluto jupiter
 1
 3 1
 2
-0 18 11 1
 0 17 2 0
+0 18 11 1
 1
 end_operator
 begin_operator
@@ -20320,8 +20320,8 @@ succumb anger rest hotdog jupiter neptune
 1
 3 2
 2
-0 18 11 2
 0 17 0 1
+0 18 11 2
 1
 end_operator
 begin_operator
@@ -20329,8 +20329,8 @@ succumb anger rest hotdog pluto jupiter
 1
 3 2
 2
-0 18 11 2
 0 17 2 0
+0 18 11 2
 1
 end_operator
 begin_operator
@@ -20338,8 +20338,8 @@ succumb anger rest kale jupiter neptune
 1
 3 3
 2
-0 18 11 3
 0 17 0 1
+0 18 11 3
 1
 end_operator
 begin_operator
@@ -20347,8 +20347,8 @@ succumb anger rest kale pluto jupiter
 1
 3 3
 2
-0 18 11 3
 0 17 2 0
+0 18 11 3
 1
 end_operator
 begin_operator
@@ -20356,8 +20356,8 @@ succumb anger rest lettuce jupiter neptune
 1
 3 4
 2
-0 18 11 4
 0 17 0 1
+0 18 11 4
 1
 end_operator
 begin_operator
@@ -20365,8 +20365,8 @@ succumb anger rest lettuce pluto jupiter
 1
 3 4
 2
-0 18 11 4
 0 17 2 0
+0 18 11 4
 1
 end_operator
 begin_operator
@@ -20374,8 +20374,8 @@ succumb anger rest pork jupiter neptune
 1
 3 5
 2
-0 18 11 5
 0 17 0 1
+0 18 11 5
 1
 end_operator
 begin_operator
@@ -20383,8 +20383,8 @@ succumb anger rest pork pluto jupiter
 1
 3 5
 2
-0 18 11 5
 0 17 2 0
+0 18 11 5
 1
 end_operator
 begin_operator
@@ -20392,8 +20392,8 @@ succumb anger rest turkey jupiter neptune
 1
 3 6
 2
-0 18 11 6
 0 17 0 1
+0 18 11 6
 1
 end_operator
 begin_operator
@@ -20401,8 +20401,8 @@ succumb anger rest turkey pluto jupiter
 1
 3 6
 2
-0 18 11 6
 0 17 2 0
+0 18 11 6
 1
 end_operator
 begin_operator
@@ -20410,8 +20410,8 @@ succumb anger rest wurst jupiter neptune
 1
 3 7
 2
-0 18 11 7
 0 17 0 1
+0 18 11 7
 1
 end_operator
 begin_operator
@@ -20419,8 +20419,8 @@ succumb anger rest wurst pluto jupiter
 1
 3 7
 2
-0 18 11 7
 0 17 2 0
+0 18 11 7
 1
 end_operator
 begin_operator
@@ -20428,8 +20428,8 @@ succumb grief excitement arugula jupiter neptune
 1
 0 0
 2
-0 15 8 0
 0 12 0 1
+0 15 8 0
 1
 end_operator
 begin_operator
@@ -20437,8 +20437,8 @@ succumb grief excitement arugula pluto jupiter
 1
 0 0
 2
-0 15 8 0
 0 12 2 0
+0 15 8 0
 1
 end_operator
 begin_operator
@@ -20446,8 +20446,8 @@ succumb grief excitement broccoli jupiter neptune
 1
 0 1
 2
-0 15 8 1
 0 12 0 1
+0 15 8 1
 1
 end_operator
 begin_operator
@@ -20455,8 +20455,8 @@ succumb grief excitement broccoli pluto jupiter
 1
 0 1
 2
-0 15 8 1
 0 12 2 0
+0 15 8 1
 1
 end_operator
 begin_operator
@@ -20464,8 +20464,8 @@ succumb grief excitement hotdog jupiter neptune
 1
 0 2
 2
-0 15 8 2
 0 12 0 1
+0 15 8 2
 1
 end_operator
 begin_operator
@@ -20473,8 +20473,8 @@ succumb grief excitement hotdog pluto jupiter
 1
 0 2
 2
-0 15 8 2
 0 12 2 0
+0 15 8 2
 1
 end_operator
 begin_operator
@@ -20482,8 +20482,8 @@ succumb grief excitement kale jupiter neptune
 1
 0 3
 2
-0 15 8 3
 0 12 0 1
+0 15 8 3
 1
 end_operator
 begin_operator
@@ -20491,8 +20491,8 @@ succumb grief excitement kale pluto jupiter
 1
 0 3
 2
-0 15 8 3
 0 12 2 0
+0 15 8 3
 1
 end_operator
 begin_operator
@@ -20500,8 +20500,8 @@ succumb grief excitement lettuce jupiter neptune
 1
 0 4
 2
-0 15 8 4
 0 12 0 1
+0 15 8 4
 1
 end_operator
 begin_operator
@@ -20509,8 +20509,8 @@ succumb grief excitement lettuce pluto jupiter
 1
 0 4
 2
-0 15 8 4
 0 12 2 0
+0 15 8 4
 1
 end_operator
 begin_operator
@@ -20518,8 +20518,8 @@ succumb grief excitement pork jupiter neptune
 1
 0 5
 2
-0 15 8 5
 0 12 0 1
+0 15 8 5
 1
 end_operator
 begin_operator
@@ -20527,8 +20527,8 @@ succumb grief excitement pork pluto jupiter
 1
 0 5
 2
-0 15 8 5
 0 12 2 0
+0 15 8 5
 1
 end_operator
 begin_operator
@@ -20536,8 +20536,8 @@ succumb grief excitement turkey jupiter neptune
 1
 0 6
 2
-0 15 8 6
 0 12 0 1
+0 15 8 6
 1
 end_operator
 begin_operator
@@ -20545,8 +20545,8 @@ succumb grief excitement turkey pluto jupiter
 1
 0 6
 2
-0 15 8 6
 0 12 2 0
+0 15 8 6
 1
 end_operator
 begin_operator
@@ -20554,8 +20554,8 @@ succumb grief excitement wurst jupiter neptune
 1
 0 7
 2
-0 15 8 7
 0 12 0 1
+0 15 8 7
 1
 end_operator
 begin_operator
@@ -20563,8 +20563,8 @@ succumb grief excitement wurst pluto jupiter
 1
 0 7
 2
-0 15 8 7
 0 12 2 0
+0 15 8 7
 1
 end_operator
 begin_operator
@@ -20572,8 +20572,8 @@ succumb grief intoxication arugula jupiter neptune
 1
 1 0
 2
-0 15 9 0
 0 13 0 1
+0 15 9 0
 1
 end_operator
 begin_operator
@@ -20581,8 +20581,8 @@ succumb grief intoxication arugula pluto jupiter
 1
 1 0
 2
-0 15 9 0
 0 13 2 0
+0 15 9 0
 1
 end_operator
 begin_operator
@@ -20590,8 +20590,8 @@ succumb grief intoxication broccoli jupiter neptune
 1
 1 1
 2
-0 15 9 1
 0 13 0 1
+0 15 9 1
 1
 end_operator
 begin_operator
@@ -20599,8 +20599,8 @@ succumb grief intoxication broccoli pluto jupiter
 1
 1 1
 2
-0 15 9 1
 0 13 2 0
+0 15 9 1
 1
 end_operator
 begin_operator
@@ -20608,8 +20608,8 @@ succumb grief intoxication hotdog jupiter neptune
 1
 1 2
 2
-0 15 9 2
 0 13 0 1
+0 15 9 2
 1
 end_operator
 begin_operator
@@ -20617,8 +20617,8 @@ succumb grief intoxication hotdog pluto jupiter
 1
 1 2
 2
-0 15 9 2
 0 13 2 0
+0 15 9 2
 1
 end_operator
 begin_operator
@@ -20626,8 +20626,8 @@ succumb grief intoxication kale jupiter neptune
 1
 1 3
 2
-0 15 9 3
 0 13 0 1
+0 15 9 3
 1
 end_operator
 begin_operator
@@ -20635,8 +20635,8 @@ succumb grief intoxication kale pluto jupiter
 1
 1 3
 2
-0 15 9 3
 0 13 2 0
+0 15 9 3
 1
 end_operator
 begin_operator
@@ -20644,8 +20644,8 @@ succumb grief intoxication lettuce jupiter neptune
 1
 1 4
 2
-0 15 9 4
 0 13 0 1
+0 15 9 4
 1
 end_operator
 begin_operator
@@ -20653,8 +20653,8 @@ succumb grief intoxication lettuce pluto jupiter
 1
 1 4
 2
-0 15 9 4
 0 13 2 0
+0 15 9 4
 1
 end_operator
 begin_operator
@@ -20662,8 +20662,8 @@ succumb grief intoxication pork jupiter neptune
 1
 1 5
 2
-0 15 9 5
 0 13 0 1
+0 15 9 5
 1
 end_operator
 begin_operator
@@ -20671,8 +20671,8 @@ succumb grief intoxication pork pluto jupiter
 1
 1 5
 2
-0 15 9 5
 0 13 2 0
+0 15 9 5
 1
 end_operator
 begin_operator
@@ -20680,8 +20680,8 @@ succumb grief intoxication turkey jupiter neptune
 1
 1 6
 2
-0 15 9 6
 0 13 0 1
+0 15 9 6
 1
 end_operator
 begin_operator
@@ -20689,8 +20689,8 @@ succumb grief intoxication turkey pluto jupiter
 1
 1 6
 2
-0 15 9 6
 0 13 2 0
+0 15 9 6
 1
 end_operator
 begin_operator
@@ -20698,8 +20698,8 @@ succumb grief intoxication wurst jupiter neptune
 1
 1 7
 2
-0 15 9 7
 0 13 0 1
+0 15 9 7
 1
 end_operator
 begin_operator
@@ -20707,8 +20707,8 @@ succumb grief intoxication wurst pluto jupiter
 1
 1 7
 2
-0 15 9 7
 0 13 2 0
+0 15 9 7
 1
 end_operator
 begin_operator

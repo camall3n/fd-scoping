@@ -9,155 +9,155 @@ begin_variable
 var0
 -1
 2
-0
-1
+Atom doublebond(o7, c17)
+NegatedAtom doublebond(o7, c17)
 end_variable
 begin_variable
 var1
 -1
 2
-0
-1
+Atom bond(c17, h16)
+NegatedAtom bond(c17, h16)
 end_variable
 begin_variable
 var2
 -1
 2
-0
-1
+Atom bond(c17, h17)
+NegatedAtom bond(c17, h17)
 end_variable
 begin_variable
 var3
 -1
 2
-0
-1
+Atom bond(c17, h18)
+NegatedAtom bond(c17, h18)
 end_variable
 begin_variable
 var4
 -1
 2
-0
-1
+Atom bond(h15, al1)
+NegatedAtom bond(h15, al1)
 end_variable
 begin_variable
 var5
 -1
 2
-0
-1
+Atom bond(h16, al1)
+NegatedAtom bond(h16, al1)
 end_variable
 begin_variable
 var6
 -1
 2
-0
-1
+Atom bond(h17, al1)
+NegatedAtom bond(h17, al1)
 end_variable
 begin_variable
 var7
 -1
 2
-0
-1
+Atom bond(h18, al1)
+NegatedAtom bond(h18, al1)
 end_variable
 begin_variable
 var8
 -1
 2
-0
-1
+Atom bond(h16, c17)
+NegatedAtom bond(h16, c17)
 end_variable
 begin_variable
 var9
 -1
 2
-0
-1
+Atom bond(h17, c17)
+NegatedAtom bond(h17, c17)
 end_variable
 begin_variable
 var10
 -1
 2
-0
-1
+Atom bond(h18, c17)
+NegatedAtom bond(h18, c17)
 end_variable
 begin_variable
 var11
 -1
 2
-0
-1
+Atom bond(n1, h51)
+NegatedAtom bond(n1, h51)
 end_variable
 begin_variable
 var12
 -1
 2
-0
-1
+Atom bond(h50, o7)
+NegatedAtom bond(h50, o7)
 end_variable
 begin_variable
 var13
 -1
 2
-0
-1
+Atom bond(h51, o7)
+NegatedAtom bond(h51, o7)
 end_variable
 begin_variable
 var14
 -1
 2
-0
-1
+Atom doublebond(c17, n1)
+NegatedAtom doublebond(c17, n1)
 end_variable
 begin_variable
 var15
 -1
 2
-0
-1
+Atom bond(h51, n1)
+NegatedAtom bond(h51, n1)
 end_variable
 begin_variable
 var16
 -1
 2
-0
-1
+Atom bond(c17, h15)
+NegatedAtom bond(c17, h15)
 end_variable
 begin_variable
 var17
 -1
 2
-0
-1
+Atom bond(n1, c17)
+NegatedAtom bond(n1, c17)
 end_variable
 begin_variable
 var18
 -1
 2
-0
-1
+Atom bond(h15, c17)
+NegatedAtom bond(h15, c17)
 end_variable
 begin_variable
 var19
 -1
 2
-0
-1
+Atom bond(c17, n1)
+NegatedAtom bond(c17, n1)
 end_variable
 begin_variable
 var20
 -1
 2
-0
-1
+Atom bond(n1, h50)
+NegatedAtom bond(n1, h50)
 end_variable
 begin_variable
 var21
 -1
 2
-0
-1
+Atom bond(h50, n1)
+NegatedAtom bond(h50, n1)
 end_variable
 0
 begin_state

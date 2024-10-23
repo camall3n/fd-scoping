@@ -50987,8 +50987,8 @@ overcome boils love guava mars uranus
 1
 0 0
 2
-0 17 0 7
 0 14 3 1
+0 17 0 7
 1
 end_operator
 begin_operator
@@ -50996,8 +50996,8 @@ overcome boils love guava mercury mars
 1
 0 0
 2
-0 17 0 7
 0 14 1 2
+0 17 0 7
 1
 end_operator
 begin_operator
@@ -51005,8 +51005,8 @@ overcome boils love guava uranus earth
 1
 0 0
 2
-0 17 0 7
 0 14 0 3
+0 17 0 7
 1
 end_operator
 begin_operator
@@ -51014,8 +51014,8 @@ overcome boils love muffin mars uranus
 1
 0 1
 2
-0 17 1 7
 0 14 3 1
+0 17 1 7
 1
 end_operator
 begin_operator
@@ -51023,8 +51023,8 @@ overcome boils love muffin mercury mars
 1
 0 1
 2
-0 17 1 7
 0 14 1 2
+0 17 1 7
 1
 end_operator
 begin_operator
@@ -51032,8 +51032,8 @@ overcome boils love muffin uranus earth
 1
 0 1
 2
-0 17 1 7
 0 14 0 3
+0 17 1 7
 1
 end_operator
 begin_operator
@@ -51041,8 +51041,8 @@ overcome boils love onion mars uranus
 1
 0 2
 2
-0 17 2 7
 0 14 3 1
+0 17 2 7
 1
 end_operator
 begin_operator
@@ -51050,8 +51050,8 @@ overcome boils love onion mercury mars
 1
 0 2
 2
-0 17 2 7
 0 14 1 2
+0 17 2 7
 1
 end_operator
 begin_operator
@@ -51059,8 +51059,8 @@ overcome boils love onion uranus earth
 1
 0 2
 2
-0 17 2 7
 0 14 0 3
+0 17 2 7
 1
 end_operator
 begin_operator
@@ -51068,8 +51068,8 @@ overcome boils love popover mars uranus
 1
 0 3
 2
-0 17 3 7
 0 14 3 1
+0 17 3 7
 1
 end_operator
 begin_operator
@@ -51077,8 +51077,8 @@ overcome boils love popover mercury mars
 1
 0 3
 2
-0 17 3 7
 0 14 1 2
+0 17 3 7
 1
 end_operator
 begin_operator
@@ -51086,8 +51086,8 @@ overcome boils love popover uranus earth
 1
 0 3
 2
-0 17 3 7
 0 14 0 3
+0 17 3 7
 1
 end_operator
 begin_operator
@@ -51095,8 +51095,8 @@ overcome boils love pork mars uranus
 1
 0 4
 2
-0 17 4 7
 0 14 3 1
+0 17 4 7
 1
 end_operator
 begin_operator
@@ -51104,8 +51104,8 @@ overcome boils love pork mercury mars
 1
 0 4
 2
-0 17 4 7
 0 14 1 2
+0 17 4 7
 1
 end_operator
 begin_operator
@@ -51113,8 +51113,8 @@ overcome boils love pork uranus earth
 1
 0 4
 2
-0 17 4 7
 0 14 0 3
+0 17 4 7
 1
 end_operator
 begin_operator
@@ -51122,8 +51122,8 @@ overcome boils love scallion mars uranus
 1
 0 5
 2
-0 17 5 7
 0 14 3 1
+0 17 5 7
 1
 end_operator
 begin_operator
@@ -51131,8 +51131,8 @@ overcome boils love scallion mercury mars
 1
 0 5
 2
-0 17 5 7
 0 14 1 2
+0 17 5 7
 1
 end_operator
 begin_operator
@@ -51140,8 +51140,8 @@ overcome boils love scallion uranus earth
 1
 0 5
 2
-0 17 5 7
 0 14 0 3
+0 17 5 7
 1
 end_operator
 begin_operator
@@ -51149,8 +51149,8 @@ overcome boils love wurst mars uranus
 1
 0 6
 2
-0 17 6 7
 0 14 3 1
+0 17 6 7
 1
 end_operator
 begin_operator
@@ -51158,8 +51158,8 @@ overcome boils love wurst mercury mars
 1
 0 6
 2
-0 17 6 7
 0 14 1 2
+0 17 6 7
 1
 end_operator
 begin_operator
@@ -51167,8 +51167,8 @@ overcome boils love wurst uranus earth
 1
 0 6
 2
-0 17 6 7
 0 14 0 3
+0 17 6 7
 1
 end_operator
 begin_operator
@@ -51176,8 +51176,8 @@ overcome boils satisfaction guava mars uranus
 1
 1 0
 2
-0 17 0 8
 0 15 3 1
+0 17 0 8
 1
 end_operator
 begin_operator
@@ -51185,8 +51185,8 @@ overcome boils satisfaction guava mercury mars
 1
 1 0
 2
-0 17 0 8
 0 15 1 2
+0 17 0 8
 1
 end_operator
 begin_operator
@@ -51194,8 +51194,8 @@ overcome boils satisfaction guava uranus earth
 1
 1 0
 2
-0 17 0 8
 0 15 0 3
+0 17 0 8
 1
 end_operator
 begin_operator
@@ -51203,8 +51203,8 @@ overcome boils satisfaction muffin mars uranus
 1
 1 1
 2
-0 17 1 8
 0 15 3 1
+0 17 1 8
 1
 end_operator
 begin_operator
@@ -51212,8 +51212,8 @@ overcome boils satisfaction muffin mercury mars
 1
 1 1
 2
-0 17 1 8
 0 15 1 2
+0 17 1 8
 1
 end_operator
 begin_operator
@@ -51221,8 +51221,8 @@ overcome boils satisfaction muffin uranus earth
 1
 1 1
 2
-0 17 1 8
 0 15 0 3
+0 17 1 8
 1
 end_operator
 begin_operator
@@ -51230,8 +51230,8 @@ overcome boils satisfaction onion mars uranus
 1
 1 2
 2
-0 17 2 8
 0 15 3 1
+0 17 2 8
 1
 end_operator
 begin_operator
@@ -51239,8 +51239,8 @@ overcome boils satisfaction onion mercury mars
 1
 1 2
 2
-0 17 2 8
 0 15 1 2
+0 17 2 8
 1
 end_operator
 begin_operator
@@ -51248,8 +51248,8 @@ overcome boils satisfaction onion uranus earth
 1
 1 2
 2
-0 17 2 8
 0 15 0 3
+0 17 2 8
 1
 end_operator
 begin_operator
@@ -51257,8 +51257,8 @@ overcome boils satisfaction popover mars uranus
 1
 1 3
 2
-0 17 3 8
 0 15 3 1
+0 17 3 8
 1
 end_operator
 begin_operator
@@ -51266,8 +51266,8 @@ overcome boils satisfaction popover mercury mars
 1
 1 3
 2
-0 17 3 8
 0 15 1 2
+0 17 3 8
 1
 end_operator
 begin_operator
@@ -51275,8 +51275,8 @@ overcome boils satisfaction popover uranus earth
 1
 1 3
 2
-0 17 3 8
 0 15 0 3
+0 17 3 8
 1
 end_operator
 begin_operator
@@ -51284,8 +51284,8 @@ overcome boils satisfaction pork mars uranus
 1
 1 4
 2
-0 17 4 8
 0 15 3 1
+0 17 4 8
 1
 end_operator
 begin_operator
@@ -51293,8 +51293,8 @@ overcome boils satisfaction pork mercury mars
 1
 1 4
 2
-0 17 4 8
 0 15 1 2
+0 17 4 8
 1
 end_operator
 begin_operator
@@ -51302,8 +51302,8 @@ overcome boils satisfaction pork uranus earth
 1
 1 4
 2
-0 17 4 8
 0 15 0 3
+0 17 4 8
 1
 end_operator
 begin_operator
@@ -51311,8 +51311,8 @@ overcome boils satisfaction scallion mars uranus
 1
 1 5
 2
-0 17 5 8
 0 15 3 1
+0 17 5 8
 1
 end_operator
 begin_operator
@@ -51320,8 +51320,8 @@ overcome boils satisfaction scallion mercury mars
 1
 1 5
 2
-0 17 5 8
 0 15 1 2
+0 17 5 8
 1
 end_operator
 begin_operator
@@ -51329,8 +51329,8 @@ overcome boils satisfaction scallion uranus earth
 1
 1 5
 2
-0 17 5 8
 0 15 0 3
+0 17 5 8
 1
 end_operator
 begin_operator
@@ -51338,8 +51338,8 @@ overcome boils satisfaction wurst mars uranus
 1
 1 6
 2
-0 17 6 8
 0 15 3 1
+0 17 6 8
 1
 end_operator
 begin_operator
@@ -51347,8 +51347,8 @@ overcome boils satisfaction wurst mercury mars
 1
 1 6
 2
-0 17 6 8
 0 15 1 2
+0 17 6 8
 1
 end_operator
 begin_operator
@@ -51356,8 +51356,8 @@ overcome boils satisfaction wurst uranus earth
 1
 1 6
 2
-0 17 6 8
 0 15 0 3
+0 17 6 8
 1
 end_operator
 begin_operator
@@ -51365,8 +51365,8 @@ overcome boils triumph guava mars uranus
 1
 2 0
 2
-0 17 0 9
 0 16 3 1
+0 17 0 9
 1
 end_operator
 begin_operator
@@ -51374,8 +51374,8 @@ overcome boils triumph guava mercury mars
 1
 2 0
 2
-0 17 0 9
 0 16 1 2
+0 17 0 9
 1
 end_operator
 begin_operator
@@ -51383,8 +51383,8 @@ overcome boils triumph guava uranus earth
 1
 2 0
 2
-0 17 0 9
 0 16 0 3
+0 17 0 9
 1
 end_operator
 begin_operator
@@ -51392,8 +51392,8 @@ overcome boils triumph muffin mars uranus
 1
 2 1
 2
-0 17 1 9
 0 16 3 1
+0 17 1 9
 1
 end_operator
 begin_operator
@@ -51401,8 +51401,8 @@ overcome boils triumph muffin mercury mars
 1
 2 1
 2
-0 17 1 9
 0 16 1 2
+0 17 1 9
 1
 end_operator
 begin_operator
@@ -51410,8 +51410,8 @@ overcome boils triumph muffin uranus earth
 1
 2 1
 2
-0 17 1 9
 0 16 0 3
+0 17 1 9
 1
 end_operator
 begin_operator
@@ -51419,8 +51419,8 @@ overcome boils triumph onion mars uranus
 1
 2 2
 2
-0 17 2 9
 0 16 3 1
+0 17 2 9
 1
 end_operator
 begin_operator
@@ -51428,8 +51428,8 @@ overcome boils triumph onion mercury mars
 1
 2 2
 2
-0 17 2 9
 0 16 1 2
+0 17 2 9
 1
 end_operator
 begin_operator
@@ -51437,8 +51437,8 @@ overcome boils triumph onion uranus earth
 1
 2 2
 2
-0 17 2 9
 0 16 0 3
+0 17 2 9
 1
 end_operator
 begin_operator
@@ -51446,8 +51446,8 @@ overcome boils triumph popover mars uranus
 1
 2 3
 2
-0 17 3 9
 0 16 3 1
+0 17 3 9
 1
 end_operator
 begin_operator
@@ -51455,8 +51455,8 @@ overcome boils triumph popover mercury mars
 1
 2 3
 2
-0 17 3 9
 0 16 1 2
+0 17 3 9
 1
 end_operator
 begin_operator
@@ -51464,8 +51464,8 @@ overcome boils triumph popover uranus earth
 1
 2 3
 2
-0 17 3 9
 0 16 0 3
+0 17 3 9
 1
 end_operator
 begin_operator
@@ -51473,8 +51473,8 @@ overcome boils triumph pork mars uranus
 1
 2 4
 2
-0 17 4 9
 0 16 3 1
+0 17 4 9
 1
 end_operator
 begin_operator
@@ -51482,8 +51482,8 @@ overcome boils triumph pork mercury mars
 1
 2 4
 2
-0 17 4 9
 0 16 1 2
+0 17 4 9
 1
 end_operator
 begin_operator
@@ -51491,8 +51491,8 @@ overcome boils triumph pork uranus earth
 1
 2 4
 2
-0 17 4 9
 0 16 0 3
+0 17 4 9
 1
 end_operator
 begin_operator
@@ -51500,8 +51500,8 @@ overcome boils triumph scallion mars uranus
 1
 2 5
 2
-0 17 5 9
 0 16 3 1
+0 17 5 9
 1
 end_operator
 begin_operator
@@ -51509,8 +51509,8 @@ overcome boils triumph scallion mercury mars
 1
 2 5
 2
-0 17 5 9
 0 16 1 2
+0 17 5 9
 1
 end_operator
 begin_operator
@@ -51518,8 +51518,8 @@ overcome boils triumph scallion uranus earth
 1
 2 5
 2
-0 17 5 9
 0 16 0 3
+0 17 5 9
 1
 end_operator
 begin_operator
@@ -51527,8 +51527,8 @@ overcome boils triumph wurst mars uranus
 1
 2 6
 2
-0 17 6 9
 0 16 3 1
+0 17 6 9
 1
 end_operator
 begin_operator
@@ -51536,8 +51536,8 @@ overcome boils triumph wurst mercury mars
 1
 2 6
 2
-0 17 6 9
 0 16 1 2
+0 17 6 9
 1
 end_operator
 begin_operator
@@ -51545,8 +51545,8 @@ overcome boils triumph wurst uranus earth
 1
 2 6
 2
-0 17 6 9
 0 16 0 3
+0 17 6 9
 1
 end_operator
 begin_operator
@@ -52121,8 +52121,8 @@ overcome grief love guava mars uranus
 1
 0 0
 2
-0 18 0 7
 0 14 3 1
+0 18 0 7
 1
 end_operator
 begin_operator
@@ -52130,8 +52130,8 @@ overcome grief love guava mercury mars
 1
 0 0
 2
-0 18 0 7
 0 14 1 2
+0 18 0 7
 1
 end_operator
 begin_operator
@@ -52139,8 +52139,8 @@ overcome grief love guava uranus earth
 1
 0 0
 2
-0 18 0 7
 0 14 0 3
+0 18 0 7
 1
 end_operator
 begin_operator
@@ -52148,8 +52148,8 @@ overcome grief love muffin mars uranus
 1
 0 1
 2
-0 18 1 7
 0 14 3 1
+0 18 1 7
 1
 end_operator
 begin_operator
@@ -52157,8 +52157,8 @@ overcome grief love muffin mercury mars
 1
 0 1
 2
-0 18 1 7
 0 14 1 2
+0 18 1 7
 1
 end_operator
 begin_operator
@@ -52166,8 +52166,8 @@ overcome grief love muffin uranus earth
 1
 0 1
 2
-0 18 1 7
 0 14 0 3
+0 18 1 7
 1
 end_operator
 begin_operator
@@ -52175,8 +52175,8 @@ overcome grief love onion mars uranus
 1
 0 2
 2
-0 18 2 7
 0 14 3 1
+0 18 2 7
 1
 end_operator
 begin_operator
@@ -52184,8 +52184,8 @@ overcome grief love onion mercury mars
 1
 0 2
 2
-0 18 2 7
 0 14 1 2
+0 18 2 7
 1
 end_operator
 begin_operator
@@ -52193,8 +52193,8 @@ overcome grief love onion uranus earth
 1
 0 2
 2
-0 18 2 7
 0 14 0 3
+0 18 2 7
 1
 end_operator
 begin_operator
@@ -52202,8 +52202,8 @@ overcome grief love popover mars uranus
 1
 0 3
 2
-0 18 3 7
 0 14 3 1
+0 18 3 7
 1
 end_operator
 begin_operator
@@ -52211,8 +52211,8 @@ overcome grief love popover mercury mars
 1
 0 3
 2
-0 18 3 7
 0 14 1 2
+0 18 3 7
 1
 end_operator
 begin_operator
@@ -52220,8 +52220,8 @@ overcome grief love popover uranus earth
 1
 0 3
 2
-0 18 3 7
 0 14 0 3
+0 18 3 7
 1
 end_operator
 begin_operator
@@ -52229,8 +52229,8 @@ overcome grief love pork mars uranus
 1
 0 4
 2
-0 18 4 7
 0 14 3 1
+0 18 4 7
 1
 end_operator
 begin_operator
@@ -52238,8 +52238,8 @@ overcome grief love pork mercury mars
 1
 0 4
 2
-0 18 4 7
 0 14 1 2
+0 18 4 7
 1
 end_operator
 begin_operator
@@ -52247,8 +52247,8 @@ overcome grief love pork uranus earth
 1
 0 4
 2
-0 18 4 7
 0 14 0 3
+0 18 4 7
 1
 end_operator
 begin_operator
@@ -52256,8 +52256,8 @@ overcome grief love scallion mars uranus
 1
 0 5
 2
-0 18 5 7
 0 14 3 1
+0 18 5 7
 1
 end_operator
 begin_operator
@@ -52265,8 +52265,8 @@ overcome grief love scallion mercury mars
 1
 0 5
 2
-0 18 5 7
 0 14 1 2
+0 18 5 7
 1
 end_operator
 begin_operator
@@ -52274,8 +52274,8 @@ overcome grief love scallion uranus earth
 1
 0 5
 2
-0 18 5 7
 0 14 0 3
+0 18 5 7
 1
 end_operator
 begin_operator
@@ -52283,8 +52283,8 @@ overcome grief love wurst mars uranus
 1
 0 6
 2
-0 18 6 7
 0 14 3 1
+0 18 6 7
 1
 end_operator
 begin_operator
@@ -52292,8 +52292,8 @@ overcome grief love wurst mercury mars
 1
 0 6
 2
-0 18 6 7
 0 14 1 2
+0 18 6 7
 1
 end_operator
 begin_operator
@@ -52301,8 +52301,8 @@ overcome grief love wurst uranus earth
 1
 0 6
 2
-0 18 6 7
 0 14 0 3
+0 18 6 7
 1
 end_operator
 begin_operator
@@ -52310,8 +52310,8 @@ overcome grief satisfaction guava mars uranus
 1
 1 0
 2
-0 18 0 8
 0 15 3 1
+0 18 0 8
 1
 end_operator
 begin_operator
@@ -52319,8 +52319,8 @@ overcome grief satisfaction guava mercury mars
 1
 1 0
 2
-0 18 0 8
 0 15 1 2
+0 18 0 8
 1
 end_operator
 begin_operator
@@ -52328,8 +52328,8 @@ overcome grief satisfaction guava uranus earth
 1
 1 0
 2
-0 18 0 8
 0 15 0 3
+0 18 0 8
 1
 end_operator
 begin_operator
@@ -52337,8 +52337,8 @@ overcome grief satisfaction muffin mars uranus
 1
 1 1
 2
-0 18 1 8
 0 15 3 1
+0 18 1 8
 1
 end_operator
 begin_operator
@@ -52346,8 +52346,8 @@ overcome grief satisfaction muffin mercury mars
 1
 1 1
 2
-0 18 1 8
 0 15 1 2
+0 18 1 8
 1
 end_operator
 begin_operator
@@ -52355,8 +52355,8 @@ overcome grief satisfaction muffin uranus earth
 1
 1 1
 2
-0 18 1 8
 0 15 0 3
+0 18 1 8
 1
 end_operator
 begin_operator
@@ -52364,8 +52364,8 @@ overcome grief satisfaction onion mars uranus
 1
 1 2
 2
-0 18 2 8
 0 15 3 1
+0 18 2 8
 1
 end_operator
 begin_operator
@@ -52373,8 +52373,8 @@ overcome grief satisfaction onion mercury mars
 1
 1 2
 2
-0 18 2 8
 0 15 1 2
+0 18 2 8
 1
 end_operator
 begin_operator
@@ -52382,8 +52382,8 @@ overcome grief satisfaction onion uranus earth
 1
 1 2
 2
-0 18 2 8
 0 15 0 3
+0 18 2 8
 1
 end_operator
 begin_operator
@@ -52391,8 +52391,8 @@ overcome grief satisfaction popover mars uranus
 1
 1 3
 2
-0 18 3 8
 0 15 3 1
+0 18 3 8
 1
 end_operator
 begin_operator
@@ -52400,8 +52400,8 @@ overcome grief satisfaction popover mercury mars
 1
 1 3
 2
-0 18 3 8
 0 15 1 2
+0 18 3 8
 1
 end_operator
 begin_operator
@@ -52409,8 +52409,8 @@ overcome grief satisfaction popover uranus earth
 1
 1 3
 2
-0 18 3 8
 0 15 0 3
+0 18 3 8
 1
 end_operator
 begin_operator
@@ -52418,8 +52418,8 @@ overcome grief satisfaction pork mars uranus
 1
 1 4
 2
-0 18 4 8
 0 15 3 1
+0 18 4 8
 1
 end_operator
 begin_operator
@@ -52427,8 +52427,8 @@ overcome grief satisfaction pork mercury mars
 1
 1 4
 2
-0 18 4 8
 0 15 1 2
+0 18 4 8
 1
 end_operator
 begin_operator
@@ -52436,8 +52436,8 @@ overcome grief satisfaction pork uranus earth
 1
 1 4
 2
-0 18 4 8
 0 15 0 3
+0 18 4 8
 1
 end_operator
 begin_operator
@@ -52445,8 +52445,8 @@ overcome grief satisfaction scallion mars uranus
 1
 1 5
 2
-0 18 5 8
 0 15 3 1
+0 18 5 8
 1
 end_operator
 begin_operator
@@ -52454,8 +52454,8 @@ overcome grief satisfaction scallion mercury mars
 1
 1 5
 2
-0 18 5 8
 0 15 1 2
+0 18 5 8
 1
 end_operator
 begin_operator
@@ -52463,8 +52463,8 @@ overcome grief satisfaction scallion uranus earth
 1
 1 5
 2
-0 18 5 8
 0 15 0 3
+0 18 5 8
 1
 end_operator
 begin_operator
@@ -52472,8 +52472,8 @@ overcome grief satisfaction wurst mars uranus
 1
 1 6
 2
-0 18 6 8
 0 15 3 1
+0 18 6 8
 1
 end_operator
 begin_operator
@@ -52481,8 +52481,8 @@ overcome grief satisfaction wurst mercury mars
 1
 1 6
 2
-0 18 6 8
 0 15 1 2
+0 18 6 8
 1
 end_operator
 begin_operator
@@ -52490,8 +52490,8 @@ overcome grief satisfaction wurst uranus earth
 1
 1 6
 2
-0 18 6 8
 0 15 0 3
+0 18 6 8
 1
 end_operator
 begin_operator
@@ -52499,8 +52499,8 @@ overcome grief triumph guava mars uranus
 1
 2 0
 2
-0 18 0 9
 0 16 3 1
+0 18 0 9
 1
 end_operator
 begin_operator
@@ -52508,8 +52508,8 @@ overcome grief triumph guava mercury mars
 1
 2 0
 2
-0 18 0 9
 0 16 1 2
+0 18 0 9
 1
 end_operator
 begin_operator
@@ -52517,8 +52517,8 @@ overcome grief triumph guava uranus earth
 1
 2 0
 2
-0 18 0 9
 0 16 0 3
+0 18 0 9
 1
 end_operator
 begin_operator
@@ -52526,8 +52526,8 @@ overcome grief triumph muffin mars uranus
 1
 2 1
 2
-0 18 1 9
 0 16 3 1
+0 18 1 9
 1
 end_operator
 begin_operator
@@ -52535,8 +52535,8 @@ overcome grief triumph muffin mercury mars
 1
 2 1
 2
-0 18 1 9
 0 16 1 2
+0 18 1 9
 1
 end_operator
 begin_operator
@@ -52544,8 +52544,8 @@ overcome grief triumph muffin uranus earth
 1
 2 1
 2
-0 18 1 9
 0 16 0 3
+0 18 1 9
 1
 end_operator
 begin_operator
@@ -52553,8 +52553,8 @@ overcome grief triumph onion mars uranus
 1
 2 2
 2
-0 18 2 9
 0 16 3 1
+0 18 2 9
 1
 end_operator
 begin_operator
@@ -52562,8 +52562,8 @@ overcome grief triumph onion mercury mars
 1
 2 2
 2
-0 18 2 9
 0 16 1 2
+0 18 2 9
 1
 end_operator
 begin_operator
@@ -52571,8 +52571,8 @@ overcome grief triumph onion uranus earth
 1
 2 2
 2
-0 18 2 9
 0 16 0 3
+0 18 2 9
 1
 end_operator
 begin_operator
@@ -52580,8 +52580,8 @@ overcome grief triumph popover mars uranus
 1
 2 3
 2
-0 18 3 9
 0 16 3 1
+0 18 3 9
 1
 end_operator
 begin_operator
@@ -52589,8 +52589,8 @@ overcome grief triumph popover mercury mars
 1
 2 3
 2
-0 18 3 9
 0 16 1 2
+0 18 3 9
 1
 end_operator
 begin_operator
@@ -52598,8 +52598,8 @@ overcome grief triumph popover uranus earth
 1
 2 3
 2
-0 18 3 9
 0 16 0 3
+0 18 3 9
 1
 end_operator
 begin_operator
@@ -52607,8 +52607,8 @@ overcome grief triumph pork mars uranus
 1
 2 4
 2
-0 18 4 9
 0 16 3 1
+0 18 4 9
 1
 end_operator
 begin_operator
@@ -52616,8 +52616,8 @@ overcome grief triumph pork mercury mars
 1
 2 4
 2
-0 18 4 9
 0 16 1 2
+0 18 4 9
 1
 end_operator
 begin_operator
@@ -52625,8 +52625,8 @@ overcome grief triumph pork uranus earth
 1
 2 4
 2
-0 18 4 9
 0 16 0 3
+0 18 4 9
 1
 end_operator
 begin_operator
@@ -52634,8 +52634,8 @@ overcome grief triumph scallion mars uranus
 1
 2 5
 2
-0 18 5 9
 0 16 3 1
+0 18 5 9
 1
 end_operator
 begin_operator
@@ -52643,8 +52643,8 @@ overcome grief triumph scallion mercury mars
 1
 2 5
 2
-0 18 5 9
 0 16 1 2
+0 18 5 9
 1
 end_operator
 begin_operator
@@ -52652,8 +52652,8 @@ overcome grief triumph scallion uranus earth
 1
 2 5
 2
-0 18 5 9
 0 16 0 3
+0 18 5 9
 1
 end_operator
 begin_operator
@@ -52661,8 +52661,8 @@ overcome grief triumph wurst mars uranus
 1
 2 6
 2
-0 18 6 9
 0 16 3 1
+0 18 6 9
 1
 end_operator
 begin_operator
@@ -52670,8 +52670,8 @@ overcome grief triumph wurst mercury mars
 1
 2 6
 2
-0 18 6 9
 0 16 1 2
+0 18 6 9
 1
 end_operator
 begin_operator
@@ -52679,8 +52679,8 @@ overcome grief triumph wurst uranus earth
 1
 2 6
 2
-0 18 6 9
 0 16 0 3
+0 18 6 9
 1
 end_operator
 begin_operator
@@ -54389,8 +54389,8 @@ succumb boils love guava mars uranus
 1
 0 0
 2
-0 17 7 0
 0 14 1 3
+0 17 7 0
 1
 end_operator
 begin_operator
@@ -54398,8 +54398,8 @@ succumb boils love guava mercury mars
 1
 0 0
 2
-0 17 7 0
 0 14 2 1
+0 17 7 0
 1
 end_operator
 begin_operator
@@ -54407,8 +54407,8 @@ succumb boils love guava uranus earth
 1
 0 0
 2
-0 17 7 0
 0 14 3 0
+0 17 7 0
 1
 end_operator
 begin_operator
@@ -54416,8 +54416,8 @@ succumb boils love muffin mars uranus
 1
 0 1
 2
-0 17 7 1
 0 14 1 3
+0 17 7 1
 1
 end_operator
 begin_operator
@@ -54425,8 +54425,8 @@ succumb boils love muffin mercury mars
 1
 0 1
 2
-0 17 7 1
 0 14 2 1
+0 17 7 1
 1
 end_operator
 begin_operator
@@ -54434,8 +54434,8 @@ succumb boils love muffin uranus earth
 1
 0 1
 2
-0 17 7 1
 0 14 3 0
+0 17 7 1
 1
 end_operator
 begin_operator
@@ -54443,8 +54443,8 @@ succumb boils love onion mars uranus
 1
 0 2
 2
-0 17 7 2
 0 14 1 3
+0 17 7 2
 1
 end_operator
 begin_operator
@@ -54452,8 +54452,8 @@ succumb boils love onion mercury mars
 1
 0 2
 2
-0 17 7 2
 0 14 2 1
+0 17 7 2
 1
 end_operator
 begin_operator
@@ -54461,8 +54461,8 @@ succumb boils love onion uranus earth
 1
 0 2
 2
-0 17 7 2
 0 14 3 0
+0 17 7 2
 1
 end_operator
 begin_operator
@@ -54470,8 +54470,8 @@ succumb boils love popover mars uranus
 1
 0 3
 2
-0 17 7 3
 0 14 1 3
+0 17 7 3
 1
 end_operator
 begin_operator
@@ -54479,8 +54479,8 @@ succumb boils love popover mercury mars
 1
 0 3
 2
-0 17 7 3
 0 14 2 1
+0 17 7 3
 1
 end_operator
 begin_operator
@@ -54488,8 +54488,8 @@ succumb boils love popover uranus earth
 1
 0 3
 2
-0 17 7 3
 0 14 3 0
+0 17 7 3
 1
 end_operator
 begin_operator
@@ -54497,8 +54497,8 @@ succumb boils love pork mars uranus
 1
 0 4
 2
-0 17 7 4
 0 14 1 3
+0 17 7 4
 1
 end_operator
 begin_operator
@@ -54506,8 +54506,8 @@ succumb boils love pork mercury mars
 1
 0 4
 2
-0 17 7 4
 0 14 2 1
+0 17 7 4
 1
 end_operator
 begin_operator
@@ -54515,8 +54515,8 @@ succumb boils love pork uranus earth
 1
 0 4
 2
-0 17 7 4
 0 14 3 0
+0 17 7 4
 1
 end_operator
 begin_operator
@@ -54524,8 +54524,8 @@ succumb boils love scallion mars uranus
 1
 0 5
 2
-0 17 7 5
 0 14 1 3
+0 17 7 5
 1
 end_operator
 begin_operator
@@ -54533,8 +54533,8 @@ succumb boils love scallion mercury mars
 1
 0 5
 2
-0 17 7 5
 0 14 2 1
+0 17 7 5
 1
 end_operator
 begin_operator
@@ -54542,8 +54542,8 @@ succumb boils love scallion uranus earth
 1
 0 5
 2
-0 17 7 5
 0 14 3 0
+0 17 7 5
 1
 end_operator
 begin_operator
@@ -54551,8 +54551,8 @@ succumb boils love wurst mars uranus
 1
 0 6
 2
-0 17 7 6
 0 14 1 3
+0 17 7 6
 1
 end_operator
 begin_operator
@@ -54560,8 +54560,8 @@ succumb boils love wurst mercury mars
 1
 0 6
 2
-0 17 7 6
 0 14 2 1
+0 17 7 6
 1
 end_operator
 begin_operator
@@ -54569,8 +54569,8 @@ succumb boils love wurst uranus earth
 1
 0 6
 2
-0 17 7 6
 0 14 3 0
+0 17 7 6
 1
 end_operator
 begin_operator
@@ -54578,8 +54578,8 @@ succumb boils satisfaction guava mars uranus
 1
 1 0
 2
-0 17 8 0
 0 15 1 3
+0 17 8 0
 1
 end_operator
 begin_operator
@@ -54587,8 +54587,8 @@ succumb boils satisfaction guava mercury mars
 1
 1 0
 2
-0 17 8 0
 0 15 2 1
+0 17 8 0
 1
 end_operator
 begin_operator
@@ -54596,8 +54596,8 @@ succumb boils satisfaction guava uranus earth
 1
 1 0
 2
-0 17 8 0
 0 15 3 0
+0 17 8 0
 1
 end_operator
 begin_operator
@@ -54605,8 +54605,8 @@ succumb boils satisfaction muffin mars uranus
 1
 1 1
 2
-0 17 8 1
 0 15 1 3
+0 17 8 1
 1
 end_operator
 begin_operator
@@ -54614,8 +54614,8 @@ succumb boils satisfaction muffin mercury mars
 1
 1 1
 2
-0 17 8 1
 0 15 2 1
+0 17 8 1
 1
 end_operator
 begin_operator
@@ -54623,8 +54623,8 @@ succumb boils satisfaction muffin uranus earth
 1
 1 1
 2
-0 17 8 1
 0 15 3 0
+0 17 8 1
 1
 end_operator
 begin_operator
@@ -54632,8 +54632,8 @@ succumb boils satisfaction onion mars uranus
 1
 1 2
 2
-0 17 8 2
 0 15 1 3
+0 17 8 2
 1
 end_operator
 begin_operator
@@ -54641,8 +54641,8 @@ succumb boils satisfaction onion mercury mars
 1
 1 2
 2
-0 17 8 2
 0 15 2 1
+0 17 8 2
 1
 end_operator
 begin_operator
@@ -54650,8 +54650,8 @@ succumb boils satisfaction onion uranus earth
 1
 1 2
 2
-0 17 8 2
 0 15 3 0
+0 17 8 2
 1
 end_operator
 begin_operator
@@ -54659,8 +54659,8 @@ succumb boils satisfaction popover mars uranus
 1
 1 3
 2
-0 17 8 3
 0 15 1 3
+0 17 8 3
 1
 end_operator
 begin_operator
@@ -54668,8 +54668,8 @@ succumb boils satisfaction popover mercury mars
 1
 1 3
 2
-0 17 8 3
 0 15 2 1
+0 17 8 3
 1
 end_operator
 begin_operator
@@ -54677,8 +54677,8 @@ succumb boils satisfaction popover uranus earth
 1
 1 3
 2
-0 17 8 3
 0 15 3 0
+0 17 8 3
 1
 end_operator
 begin_operator
@@ -54686,8 +54686,8 @@ succumb boils satisfaction pork mars uranus
 1
 1 4
 2
-0 17 8 4
 0 15 1 3
+0 17 8 4
 1
 end_operator
 begin_operator
@@ -54695,8 +54695,8 @@ succumb boils satisfaction pork mercury mars
 1
 1 4
 2
-0 17 8 4
 0 15 2 1
+0 17 8 4
 1
 end_operator
 begin_operator
@@ -54704,8 +54704,8 @@ succumb boils satisfaction pork uranus earth
 1
 1 4
 2
-0 17 8 4
 0 15 3 0
+0 17 8 4
 1
 end_operator
 begin_operator
@@ -54713,8 +54713,8 @@ succumb boils satisfaction scallion mars uranus
 1
 1 5
 2
-0 17 8 5
 0 15 1 3
+0 17 8 5
 1
 end_operator
 begin_operator
@@ -54722,8 +54722,8 @@ succumb boils satisfaction scallion mercury mars
 1
 1 5
 2
-0 17 8 5
 0 15 2 1
+0 17 8 5
 1
 end_operator
 begin_operator
@@ -54731,8 +54731,8 @@ succumb boils satisfaction scallion uranus earth
 1
 1 5
 2
-0 17 8 5
 0 15 3 0
+0 17 8 5
 1
 end_operator
 begin_operator
@@ -54740,8 +54740,8 @@ succumb boils satisfaction wurst mars uranus
 1
 1 6
 2
-0 17 8 6
 0 15 1 3
+0 17 8 6
 1
 end_operator
 begin_operator
@@ -54749,8 +54749,8 @@ succumb boils satisfaction wurst mercury mars
 1
 1 6
 2
-0 17 8 6
 0 15 2 1
+0 17 8 6
 1
 end_operator
 begin_operator
@@ -54758,8 +54758,8 @@ succumb boils satisfaction wurst uranus earth
 1
 1 6
 2
-0 17 8 6
 0 15 3 0
+0 17 8 6
 1
 end_operator
 begin_operator
@@ -54767,8 +54767,8 @@ succumb boils triumph guava mars uranus
 1
 2 0
 2
-0 17 9 0
 0 16 1 3
+0 17 9 0
 1
 end_operator
 begin_operator
@@ -54776,8 +54776,8 @@ succumb boils triumph guava mercury mars
 1
 2 0
 2
-0 17 9 0
 0 16 2 1
+0 17 9 0
 1
 end_operator
 begin_operator
@@ -54785,8 +54785,8 @@ succumb boils triumph guava uranus earth
 1
 2 0
 2
-0 17 9 0
 0 16 3 0
+0 17 9 0
 1
 end_operator
 begin_operator
@@ -54794,8 +54794,8 @@ succumb boils triumph muffin mars uranus
 1
 2 1
 2
-0 17 9 1
 0 16 1 3
+0 17 9 1
 1
 end_operator
 begin_operator
@@ -54803,8 +54803,8 @@ succumb boils triumph muffin mercury mars
 1
 2 1
 2
-0 17 9 1
 0 16 2 1
+0 17 9 1
 1
 end_operator
 begin_operator
@@ -54812,8 +54812,8 @@ succumb boils triumph muffin uranus earth
 1
 2 1
 2
-0 17 9 1
 0 16 3 0
+0 17 9 1
 1
 end_operator
 begin_operator
@@ -54821,8 +54821,8 @@ succumb boils triumph onion mars uranus
 1
 2 2
 2
-0 17 9 2
 0 16 1 3
+0 17 9 2
 1
 end_operator
 begin_operator
@@ -54830,8 +54830,8 @@ succumb boils triumph onion mercury mars
 1
 2 2
 2
-0 17 9 2
 0 16 2 1
+0 17 9 2
 1
 end_operator
 begin_operator
@@ -54839,8 +54839,8 @@ succumb boils triumph onion uranus earth
 1
 2 2
 2
-0 17 9 2
 0 16 3 0
+0 17 9 2
 1
 end_operator
 begin_operator
@@ -54848,8 +54848,8 @@ succumb boils triumph popover mars uranus
 1
 2 3
 2
-0 17 9 3
 0 16 1 3
+0 17 9 3
 1
 end_operator
 begin_operator
@@ -54857,8 +54857,8 @@ succumb boils triumph popover mercury mars
 1
 2 3
 2
-0 17 9 3
 0 16 2 1
+0 17 9 3
 1
 end_operator
 begin_operator
@@ -54866,8 +54866,8 @@ succumb boils triumph popover uranus earth
 1
 2 3
 2
-0 17 9 3
 0 16 3 0
+0 17 9 3
 1
 end_operator
 begin_operator
@@ -54875,8 +54875,8 @@ succumb boils triumph pork mars uranus
 1
 2 4
 2
-0 17 9 4
 0 16 1 3
+0 17 9 4
 1
 end_operator
 begin_operator
@@ -54884,8 +54884,8 @@ succumb boils triumph pork mercury mars
 1
 2 4
 2
-0 17 9 4
 0 16 2 1
+0 17 9 4
 1
 end_operator
 begin_operator
@@ -54893,8 +54893,8 @@ succumb boils triumph pork uranus earth
 1
 2 4
 2
-0 17 9 4
 0 16 3 0
+0 17 9 4
 1
 end_operator
 begin_operator
@@ -54902,8 +54902,8 @@ succumb boils triumph scallion mars uranus
 1
 2 5
 2
-0 17 9 5
 0 16 1 3
+0 17 9 5
 1
 end_operator
 begin_operator
@@ -54911,8 +54911,8 @@ succumb boils triumph scallion mercury mars
 1
 2 5
 2
-0 17 9 5
 0 16 2 1
+0 17 9 5
 1
 end_operator
 begin_operator
@@ -54920,8 +54920,8 @@ succumb boils triumph scallion uranus earth
 1
 2 5
 2
-0 17 9 5
 0 16 3 0
+0 17 9 5
 1
 end_operator
 begin_operator
@@ -54929,8 +54929,8 @@ succumb boils triumph wurst mars uranus
 1
 2 6
 2
-0 17 9 6
 0 16 1 3
+0 17 9 6
 1
 end_operator
 begin_operator
@@ -54938,8 +54938,8 @@ succumb boils triumph wurst mercury mars
 1
 2 6
 2
-0 17 9 6
 0 16 2 1
+0 17 9 6
 1
 end_operator
 begin_operator
@@ -54947,8 +54947,8 @@ succumb boils triumph wurst uranus earth
 1
 2 6
 2
-0 17 9 6
 0 16 3 0
+0 17 9 6
 1
 end_operator
 begin_operator
@@ -55523,8 +55523,8 @@ succumb grief love guava mars uranus
 1
 0 0
 2
-0 18 7 0
 0 14 1 3
+0 18 7 0
 1
 end_operator
 begin_operator
@@ -55532,8 +55532,8 @@ succumb grief love guava mercury mars
 1
 0 0
 2
-0 18 7 0
 0 14 2 1
+0 18 7 0
 1
 end_operator
 begin_operator
@@ -55541,8 +55541,8 @@ succumb grief love guava uranus earth
 1
 0 0
 2
-0 18 7 0
 0 14 3 0
+0 18 7 0
 1
 end_operator
 begin_operator
@@ -55550,8 +55550,8 @@ succumb grief love muffin mars uranus
 1
 0 1
 2
-0 18 7 1
 0 14 1 3
+0 18 7 1
 1
 end_operator
 begin_operator
@@ -55559,8 +55559,8 @@ succumb grief love muffin mercury mars
 1
 0 1
 2
-0 18 7 1
 0 14 2 1
+0 18 7 1
 1
 end_operator
 begin_operator
@@ -55568,8 +55568,8 @@ succumb grief love muffin uranus earth
 1
 0 1
 2
-0 18 7 1
 0 14 3 0
+0 18 7 1
 1
 end_operator
 begin_operator
@@ -55577,8 +55577,8 @@ succumb grief love onion mars uranus
 1
 0 2
 2
-0 18 7 2
 0 14 1 3
+0 18 7 2
 1
 end_operator
 begin_operator
@@ -55586,8 +55586,8 @@ succumb grief love onion mercury mars
 1
 0 2
 2
-0 18 7 2
 0 14 2 1
+0 18 7 2
 1
 end_operator
 begin_operator
@@ -55595,8 +55595,8 @@ succumb grief love onion uranus earth
 1
 0 2
 2
-0 18 7 2
 0 14 3 0
+0 18 7 2
 1
 end_operator
 begin_operator
@@ -55604,8 +55604,8 @@ succumb grief love popover mars uranus
 1
 0 3
 2
-0 18 7 3
 0 14 1 3
+0 18 7 3
 1
 end_operator
 begin_operator
@@ -55613,8 +55613,8 @@ succumb grief love popover mercury mars
 1
 0 3
 2
-0 18 7 3
 0 14 2 1
+0 18 7 3
 1
 end_operator
 begin_operator
@@ -55622,8 +55622,8 @@ succumb grief love popover uranus earth
 1
 0 3
 2
-0 18 7 3
 0 14 3 0
+0 18 7 3
 1
 end_operator
 begin_operator
@@ -55631,8 +55631,8 @@ succumb grief love pork mars uranus
 1
 0 4
 2
-0 18 7 4
 0 14 1 3
+0 18 7 4
 1
 end_operator
 begin_operator
@@ -55640,8 +55640,8 @@ succumb grief love pork mercury mars
 1
 0 4
 2
-0 18 7 4
 0 14 2 1
+0 18 7 4
 1
 end_operator
 begin_operator
@@ -55649,8 +55649,8 @@ succumb grief love pork uranus earth
 1
 0 4
 2
-0 18 7 4
 0 14 3 0
+0 18 7 4
 1
 end_operator
 begin_operator
@@ -55658,8 +55658,8 @@ succumb grief love scallion mars uranus
 1
 0 5
 2
-0 18 7 5
 0 14 1 3
+0 18 7 5
 1
 end_operator
 begin_operator
@@ -55667,8 +55667,8 @@ succumb grief love scallion mercury mars
 1
 0 5
 2
-0 18 7 5
 0 14 2 1
+0 18 7 5
 1
 end_operator
 begin_operator
@@ -55676,8 +55676,8 @@ succumb grief love scallion uranus earth
 1
 0 5
 2
-0 18 7 5
 0 14 3 0
+0 18 7 5
 1
 end_operator
 begin_operator
@@ -55685,8 +55685,8 @@ succumb grief love wurst mars uranus
 1
 0 6
 2
-0 18 7 6
 0 14 1 3
+0 18 7 6
 1
 end_operator
 begin_operator
@@ -55694,8 +55694,8 @@ succumb grief love wurst mercury mars
 1
 0 6
 2
-0 18 7 6
 0 14 2 1
+0 18 7 6
 1
 end_operator
 begin_operator
@@ -55703,8 +55703,8 @@ succumb grief love wurst uranus earth
 1
 0 6
 2
-0 18 7 6
 0 14 3 0
+0 18 7 6
 1
 end_operator
 begin_operator
@@ -55712,8 +55712,8 @@ succumb grief satisfaction guava mars uranus
 1
 1 0
 2
-0 18 8 0
 0 15 1 3
+0 18 8 0
 1
 end_operator
 begin_operator
@@ -55721,8 +55721,8 @@ succumb grief satisfaction guava mercury mars
 1
 1 0
 2
-0 18 8 0
 0 15 2 1
+0 18 8 0
 1
 end_operator
 begin_operator
@@ -55730,8 +55730,8 @@ succumb grief satisfaction guava uranus earth
 1
 1 0
 2
-0 18 8 0
 0 15 3 0
+0 18 8 0
 1
 end_operator
 begin_operator
@@ -55739,8 +55739,8 @@ succumb grief satisfaction muffin mars uranus
 1
 1 1
 2
-0 18 8 1
 0 15 1 3
+0 18 8 1
 1
 end_operator
 begin_operator
@@ -55748,8 +55748,8 @@ succumb grief satisfaction muffin mercury mars
 1
 1 1
 2
-0 18 8 1
 0 15 2 1
+0 18 8 1
 1
 end_operator
 begin_operator
@@ -55757,8 +55757,8 @@ succumb grief satisfaction muffin uranus earth
 1
 1 1
 2
-0 18 8 1
 0 15 3 0
+0 18 8 1
 1
 end_operator
 begin_operator
@@ -55766,8 +55766,8 @@ succumb grief satisfaction onion mars uranus
 1
 1 2
 2
-0 18 8 2
 0 15 1 3
+0 18 8 2
 1
 end_operator
 begin_operator
@@ -55775,8 +55775,8 @@ succumb grief satisfaction onion mercury mars
 1
 1 2
 2
-0 18 8 2
 0 15 2 1
+0 18 8 2
 1
 end_operator
 begin_operator
@@ -55784,8 +55784,8 @@ succumb grief satisfaction onion uranus earth
 1
 1 2
 2
-0 18 8 2
 0 15 3 0
+0 18 8 2
 1
 end_operator
 begin_operator
@@ -55793,8 +55793,8 @@ succumb grief satisfaction popover mars uranus
 1
 1 3
 2
-0 18 8 3
 0 15 1 3
+0 18 8 3
 1
 end_operator
 begin_operator
@@ -55802,8 +55802,8 @@ succumb grief satisfaction popover mercury mars
 1
 1 3
 2
-0 18 8 3
 0 15 2 1
+0 18 8 3
 1
 end_operator
 begin_operator
@@ -55811,8 +55811,8 @@ succumb grief satisfaction popover uranus earth
 1
 1 3
 2
-0 18 8 3
 0 15 3 0
+0 18 8 3
 1
 end_operator
 begin_operator
@@ -55820,8 +55820,8 @@ succumb grief satisfaction pork mars uranus
 1
 1 4
 2
-0 18 8 4
 0 15 1 3
+0 18 8 4
 1
 end_operator
 begin_operator
@@ -55829,8 +55829,8 @@ succumb grief satisfaction pork mercury mars
 1
 1 4
 2
-0 18 8 4
 0 15 2 1
+0 18 8 4
 1
 end_operator
 begin_operator
@@ -55838,8 +55838,8 @@ succumb grief satisfaction pork uranus earth
 1
 1 4
 2
-0 18 8 4
 0 15 3 0
+0 18 8 4
 1
 end_operator
 begin_operator
@@ -55847,8 +55847,8 @@ succumb grief satisfaction scallion mars uranus
 1
 1 5
 2
-0 18 8 5
 0 15 1 3
+0 18 8 5
 1
 end_operator
 begin_operator
@@ -55856,8 +55856,8 @@ succumb grief satisfaction scallion mercury mars
 1
 1 5
 2
-0 18 8 5
 0 15 2 1
+0 18 8 5
 1
 end_operator
 begin_operator
@@ -55865,8 +55865,8 @@ succumb grief satisfaction scallion uranus earth
 1
 1 5
 2
-0 18 8 5
 0 15 3 0
+0 18 8 5
 1
 end_operator
 begin_operator
@@ -55874,8 +55874,8 @@ succumb grief satisfaction wurst mars uranus
 1
 1 6
 2
-0 18 8 6
 0 15 1 3
+0 18 8 6
 1
 end_operator
 begin_operator
@@ -55883,8 +55883,8 @@ succumb grief satisfaction wurst mercury mars
 1
 1 6
 2
-0 18 8 6
 0 15 2 1
+0 18 8 6
 1
 end_operator
 begin_operator
@@ -55892,8 +55892,8 @@ succumb grief satisfaction wurst uranus earth
 1
 1 6
 2
-0 18 8 6
 0 15 3 0
+0 18 8 6
 1
 end_operator
 begin_operator
@@ -55901,8 +55901,8 @@ succumb grief triumph guava mars uranus
 1
 2 0
 2
-0 18 9 0
 0 16 1 3
+0 18 9 0
 1
 end_operator
 begin_operator
@@ -55910,8 +55910,8 @@ succumb grief triumph guava mercury mars
 1
 2 0
 2
-0 18 9 0
 0 16 2 1
+0 18 9 0
 1
 end_operator
 begin_operator
@@ -55919,8 +55919,8 @@ succumb grief triumph guava uranus earth
 1
 2 0
 2
-0 18 9 0
 0 16 3 0
+0 18 9 0
 1
 end_operator
 begin_operator
@@ -55928,8 +55928,8 @@ succumb grief triumph muffin mars uranus
 1
 2 1
 2
-0 18 9 1
 0 16 1 3
+0 18 9 1
 1
 end_operator
 begin_operator
@@ -55937,8 +55937,8 @@ succumb grief triumph muffin mercury mars
 1
 2 1
 2
-0 18 9 1
 0 16 2 1
+0 18 9 1
 1
 end_operator
 begin_operator
@@ -55946,8 +55946,8 @@ succumb grief triumph muffin uranus earth
 1
 2 1
 2
-0 18 9 1
 0 16 3 0
+0 18 9 1
 1
 end_operator
 begin_operator
@@ -55955,8 +55955,8 @@ succumb grief triumph onion mars uranus
 1
 2 2
 2
-0 18 9 2
 0 16 1 3
+0 18 9 2
 1
 end_operator
 begin_operator
@@ -55964,8 +55964,8 @@ succumb grief triumph onion mercury mars
 1
 2 2
 2
-0 18 9 2
 0 16 2 1
+0 18 9 2
 1
 end_operator
 begin_operator
@@ -55973,8 +55973,8 @@ succumb grief triumph onion uranus earth
 1
 2 2
 2
-0 18 9 2
 0 16 3 0
+0 18 9 2
 1
 end_operator
 begin_operator
@@ -55982,8 +55982,8 @@ succumb grief triumph popover mars uranus
 1
 2 3
 2
-0 18 9 3
 0 16 1 3
+0 18 9 3
 1
 end_operator
 begin_operator
@@ -55991,8 +55991,8 @@ succumb grief triumph popover mercury mars
 1
 2 3
 2
-0 18 9 3
 0 16 2 1
+0 18 9 3
 1
 end_operator
 begin_operator
@@ -56000,8 +56000,8 @@ succumb grief triumph popover uranus earth
 1
 2 3
 2
-0 18 9 3
 0 16 3 0
+0 18 9 3
 1
 end_operator
 begin_operator
@@ -56009,8 +56009,8 @@ succumb grief triumph pork mars uranus
 1
 2 4
 2
-0 18 9 4
 0 16 1 3
+0 18 9 4
 1
 end_operator
 begin_operator
@@ -56018,8 +56018,8 @@ succumb grief triumph pork mercury mars
 1
 2 4
 2
-0 18 9 4
 0 16 2 1
+0 18 9 4
 1
 end_operator
 begin_operator
@@ -56027,8 +56027,8 @@ succumb grief triumph pork uranus earth
 1
 2 4
 2
-0 18 9 4
 0 16 3 0
+0 18 9 4
 1
 end_operator
 begin_operator
@@ -56036,8 +56036,8 @@ succumb grief triumph scallion mars uranus
 1
 2 5
 2
-0 18 9 5
 0 16 1 3
+0 18 9 5
 1
 end_operator
 begin_operator
@@ -56045,8 +56045,8 @@ succumb grief triumph scallion mercury mars
 1
 2 5
 2
-0 18 9 5
 0 16 2 1
+0 18 9 5
 1
 end_operator
 begin_operator
@@ -56054,8 +56054,8 @@ succumb grief triumph scallion uranus earth
 1
 2 5
 2
-0 18 9 5
 0 16 3 0
+0 18 9 5
 1
 end_operator
 begin_operator
@@ -56063,8 +56063,8 @@ succumb grief triumph wurst mars uranus
 1
 2 6
 2
-0 18 9 6
 0 16 1 3
+0 18 9 6
 1
 end_operator
 begin_operator
@@ -56072,8 +56072,8 @@ succumb grief triumph wurst mercury mars
 1
 2 6
 2
-0 18 9 6
 0 16 2 1
+0 18 9 6
 1
 end_operator
 begin_operator
@@ -56081,8 +56081,8 @@ succumb grief triumph wurst uranus earth
 1
 2 6
 2
-0 18 9 6
 0 16 3 0
+0 18 9 6
 1
 end_operator
 begin_operator

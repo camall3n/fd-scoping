@@ -169,361 +169,361 @@ end_goal
 begin_operator
 make-product-p1-n0 
 3
+10 0
 12 1
 14 1
-10 0
 3
-0 11 1 0
 0 0 -1 0
 0 3 -1 1
+0 11 1 0
 1
 end_operator
 begin_operator
 make-product-p1-n1 
 3
+10 1
 12 1
 14 1
-10 1
 3
-0 11 1 0
 0 0 -1 0
 0 3 -1 1
+0 11 1 0
 1
 end_operator
 begin_operator
 make-product-p1-n2 
 3
+10 2
 12 1
 14 1
-10 2
 3
-0 11 1 0
 0 0 -1 0
 0 3 -1 1
+0 11 1 0
 1
 end_operator
 begin_operator
 make-product-p1-n3 
 3
+10 3
 12 1
 14 1
-10 3
 3
-0 11 1 0
 0 0 -1 0
 0 3 -1 1
+0 11 1 0
 1
 end_operator
 begin_operator
 make-product-p1-n4 
 3
+10 4
 12 1
 14 1
-10 4
 3
-0 11 1 0
 0 0 -1 0
 0 3 -1 1
+0 11 1 0
 1
 end_operator
 begin_operator
 make-product-p1-n5 
 3
+10 5
 12 1
 14 1
-10 5
 3
-0 11 1 0
 0 0 -1 0
 0 3 -1 1
+0 11 1 0
 1
 end_operator
 begin_operator
 make-product-p2-n0 
 3
+10 0
 12 1
 15 1
-10 0
 3
-0 11 2 0
 0 1 -1 0
 0 9 -1 1
+0 11 2 0
 1
 end_operator
 begin_operator
 make-product-p2-n1 
 3
+10 1
 12 1
 15 1
-10 1
 3
-0 11 2 0
 0 1 -1 0
 0 9 -1 1
+0 11 2 0
 1
 end_operator
 begin_operator
 make-product-p2-n2 
 3
+10 2
 12 1
 15 1
-10 2
 3
-0 11 2 0
 0 1 -1 0
 0 9 -1 1
+0 11 2 0
 1
 end_operator
 begin_operator
 make-product-p2-n3 
 3
+10 3
 12 1
 15 1
-10 3
 3
-0 11 2 0
 0 1 -1 0
 0 9 -1 1
+0 11 2 0
 1
 end_operator
 begin_operator
 make-product-p2-n4 
 3
+10 4
 12 1
 15 1
-10 4
 3
-0 11 2 0
 0 1 -1 0
 0 9 -1 1
+0 11 2 0
 1
 end_operator
 begin_operator
 make-product-p2-n5 
 3
+10 5
 12 1
 15 1
-10 5
 3
-0 11 2 0
 0 1 -1 0
 0 9 -1 1
+0 11 2 0
 1
 end_operator
 begin_operator
 make-product-p3-n0 
 3
+10 0
 13 1
 16 1
-10 0
 3
-0 11 3 0
 0 5 -1 0
 0 7 -1 1
+0 11 3 0
 1
 end_operator
 begin_operator
 make-product-p3-n1 
 3
+10 1
 13 1
 16 1
-10 1
 3
-0 11 3 0
 0 5 -1 0
 0 7 -1 1
+0 11 3 0
 1
 end_operator
 begin_operator
 make-product-p3-n2 
 3
+10 2
 13 1
 16 1
-10 2
 3
-0 11 3 0
 0 5 -1 0
 0 7 -1 1
+0 11 3 0
 1
 end_operator
 begin_operator
 make-product-p3-n3 
 3
+10 3
 13 1
 16 1
-10 3
 3
-0 11 3 0
 0 5 -1 0
 0 7 -1 1
+0 11 3 0
 1
 end_operator
 begin_operator
 make-product-p3-n4 
 3
+10 4
 13 1
 16 1
-10 4
 3
-0 11 3 0
 0 5 -1 0
 0 7 -1 1
+0 11 3 0
 1
 end_operator
 begin_operator
 make-product-p3-n5 
 3
+10 5
 13 1
 16 1
-10 5
 3
-0 11 3 0
 0 5 -1 0
 0 7 -1 1
+0 11 3 0
 1
 end_operator
 begin_operator
 make-product-p4-n0 
 3
+10 0
 13 1
 16 1
-10 0
 3
-0 11 4 0
 0 6 -1 0
 0 8 -1 1
+0 11 4 0
 1
 end_operator
 begin_operator
 make-product-p4-n1 
 3
+10 1
 13 1
 16 1
-10 1
 3
-0 11 4 0
 0 6 -1 0
 0 8 -1 1
+0 11 4 0
 1
 end_operator
 begin_operator
 make-product-p4-n2 
 3
+10 2
 13 1
 16 1
-10 2
 3
-0 11 4 0
 0 6 -1 0
 0 8 -1 1
+0 11 4 0
 1
 end_operator
 begin_operator
 make-product-p4-n3 
 3
+10 3
 13 1
 16 1
-10 3
 3
-0 11 4 0
 0 6 -1 0
 0 8 -1 1
+0 11 4 0
 1
 end_operator
 begin_operator
 make-product-p4-n4 
 3
+10 4
 13 1
 16 1
-10 4
 3
-0 11 4 0
 0 6 -1 0
 0 8 -1 1
+0 11 4 0
 1
 end_operator
 begin_operator
 make-product-p4-n5 
 3
+10 5
 13 1
 16 1
-10 5
 3
-0 11 4 0
 0 6 -1 0
 0 8 -1 1
+0 11 4 0
 1
 end_operator
 begin_operator
 make-product-p5-n0 
 3
+10 0
 14 1
 15 1
-10 0
 3
-0 11 5 0
 0 2 -1 0
 0 4 -1 1
+0 11 5 0
 1
 end_operator
 begin_operator
 make-product-p5-n1 
 3
+10 1
 14 1
 15 1
-10 1
 3
-0 11 5 0
 0 2 -1 0
 0 4 -1 1
+0 11 5 0
 1
 end_operator
 begin_operator
 make-product-p5-n2 
 3
+10 2
 14 1
 15 1
-10 2
 3
-0 11 5 0
 0 2 -1 0
 0 4 -1 1
+0 11 5 0
 1
 end_operator
 begin_operator
 make-product-p5-n3 
 3
+10 3
 14 1
 15 1
-10 3
 3
-0 11 5 0
 0 2 -1 0
 0 4 -1 1
+0 11 5 0
 1
 end_operator
 begin_operator
 make-product-p5-n4 
 3
+10 4
 14 1
 15 1
-10 4
 3
-0 11 5 0
 0 2 -1 0
 0 4 -1 1
+0 11 5 0
 1
 end_operator
 begin_operator
 make-product-p5-n5 
 3
+10 5
 14 1
 15 1
-10 5
 3
-0 11 5 0
 0 2 -1 0
 0 4 -1 1
+0 11 5 0
 1
 end_operator
 begin_operator
@@ -837,8 +837,8 @@ ship-order-o1-n0-n1
 0 0
 1 0
 2
-0 12 1 0
 0 10 0 1
+0 12 1 0
 1
 end_operator
 begin_operator
@@ -847,8 +847,8 @@ ship-order-o1-n1-n2
 0 0
 1 0
 2
-0 12 1 0
 0 10 1 2
+0 12 1 0
 1
 end_operator
 begin_operator
@@ -857,8 +857,8 @@ ship-order-o1-n2-n3
 0 0
 1 0
 2
-0 12 1 0
 0 10 2 3
+0 12 1 0
 1
 end_operator
 begin_operator
@@ -867,8 +867,8 @@ ship-order-o1-n3-n4
 0 0
 1 0
 2
-0 12 1 0
 0 10 3 4
+0 12 1 0
 1
 end_operator
 begin_operator
@@ -877,8 +877,8 @@ ship-order-o1-n4-n5
 0 0
 1 0
 2
-0 12 1 0
 0 10 4 5
+0 12 1 0
 1
 end_operator
 begin_operator
@@ -887,8 +887,8 @@ ship-order-o2-n0-n1
 5 0
 6 0
 2
-0 13 1 0
 0 10 0 1
+0 13 1 0
 1
 end_operator
 begin_operator
@@ -897,8 +897,8 @@ ship-order-o2-n1-n2
 5 0
 6 0
 2
-0 13 1 0
 0 10 1 2
+0 13 1 0
 1
 end_operator
 begin_operator
@@ -907,8 +907,8 @@ ship-order-o2-n2-n3
 5 0
 6 0
 2
-0 13 1 0
 0 10 2 3
+0 13 1 0
 1
 end_operator
 begin_operator
@@ -917,8 +917,8 @@ ship-order-o2-n3-n4
 5 0
 6 0
 2
-0 13 1 0
 0 10 3 4
+0 13 1 0
 1
 end_operator
 begin_operator
@@ -927,8 +927,8 @@ ship-order-o2-n4-n5
 5 0
 6 0
 2
-0 13 1 0
 0 10 4 5
+0 13 1 0
 1
 end_operator
 begin_operator
@@ -937,8 +937,8 @@ ship-order-o3-n0-n1
 0 0
 2 0
 2
-0 14 1 0
 0 10 0 1
+0 14 1 0
 1
 end_operator
 begin_operator
@@ -947,8 +947,8 @@ ship-order-o3-n1-n2
 0 0
 2 0
 2
-0 14 1 0
 0 10 1 2
+0 14 1 0
 1
 end_operator
 begin_operator
@@ -957,8 +957,8 @@ ship-order-o3-n2-n3
 0 0
 2 0
 2
-0 14 1 0
 0 10 2 3
+0 14 1 0
 1
 end_operator
 begin_operator
@@ -967,8 +967,8 @@ ship-order-o3-n3-n4
 0 0
 2 0
 2
-0 14 1 0
 0 10 3 4
+0 14 1 0
 1
 end_operator
 begin_operator
@@ -977,8 +977,8 @@ ship-order-o3-n4-n5
 0 0
 2 0
 2
-0 14 1 0
 0 10 4 5
+0 14 1 0
 1
 end_operator
 begin_operator
@@ -987,8 +987,8 @@ ship-order-o4-n0-n1
 1 0
 2 0
 2
-0 15 1 0
 0 10 0 1
+0 15 1 0
 1
 end_operator
 begin_operator
@@ -997,8 +997,8 @@ ship-order-o4-n1-n2
 1 0
 2 0
 2
-0 15 1 0
 0 10 1 2
+0 15 1 0
 1
 end_operator
 begin_operator
@@ -1007,8 +1007,8 @@ ship-order-o4-n2-n3
 1 0
 2 0
 2
-0 15 1 0
 0 10 2 3
+0 15 1 0
 1
 end_operator
 begin_operator
@@ -1017,8 +1017,8 @@ ship-order-o4-n3-n4
 1 0
 2 0
 2
-0 15 1 0
 0 10 3 4
+0 15 1 0
 1
 end_operator
 begin_operator
@@ -1027,8 +1027,8 @@ ship-order-o4-n4-n5
 1 0
 2 0
 2
-0 15 1 0
 0 10 4 5
+0 15 1 0
 1
 end_operator
 begin_operator
@@ -1037,8 +1037,8 @@ ship-order-o5-n0-n1
 5 0
 6 0
 2
-0 16 1 0
 0 10 0 1
+0 16 1 0
 1
 end_operator
 begin_operator
@@ -1047,8 +1047,8 @@ ship-order-o5-n1-n2
 5 0
 6 0
 2
-0 16 1 0
 0 10 1 2
+0 16 1 0
 1
 end_operator
 begin_operator
@@ -1057,8 +1057,8 @@ ship-order-o5-n2-n3
 5 0
 6 0
 2
-0 16 1 0
 0 10 2 3
+0 16 1 0
 1
 end_operator
 begin_operator
@@ -1067,8 +1067,8 @@ ship-order-o5-n3-n4
 5 0
 6 0
 2
-0 16 1 0
 0 10 3 4
+0 16 1 0
 1
 end_operator
 begin_operator
@@ -1077,208 +1077,208 @@ ship-order-o5-n4-n5
 5 0
 6 0
 2
-0 16 1 0
 0 10 4 5
+0 16 1 0
 1
 end_operator
 begin_operator
 start-order-o1-n1-n0 
 0
 2
-0 12 2 1
 0 10 1 0
+0 12 2 1
 1
 end_operator
 begin_operator
 start-order-o1-n2-n1 
 0
 2
-0 12 2 1
 0 10 2 1
+0 12 2 1
 1
 end_operator
 begin_operator
 start-order-o1-n3-n2 
 0
 2
-0 12 2 1
 0 10 3 2
+0 12 2 1
 1
 end_operator
 begin_operator
 start-order-o1-n4-n3 
 0
 2
-0 12 2 1
 0 10 4 3
+0 12 2 1
 1
 end_operator
 begin_operator
 start-order-o1-n5-n4 
 0
 2
-0 12 2 1
 0 10 5 4
+0 12 2 1
 1
 end_operator
 begin_operator
 start-order-o2-n1-n0 
 0
 2
-0 13 2 1
 0 10 1 0
+0 13 2 1
 1
 end_operator
 begin_operator
 start-order-o2-n2-n1 
 0
 2
-0 13 2 1
 0 10 2 1
+0 13 2 1
 1
 end_operator
 begin_operator
 start-order-o2-n3-n2 
 0
 2
-0 13 2 1
 0 10 3 2
+0 13 2 1
 1
 end_operator
 begin_operator
 start-order-o2-n4-n3 
 0
 2
-0 13 2 1
 0 10 4 3
+0 13 2 1
 1
 end_operator
 begin_operator
 start-order-o2-n5-n4 
 0
 2
-0 13 2 1
 0 10 5 4
+0 13 2 1
 1
 end_operator
 begin_operator
 start-order-o3-n1-n0 
 0
 2
-0 14 2 1
 0 10 1 0
+0 14 2 1
 1
 end_operator
 begin_operator
 start-order-o3-n2-n1 
 0
 2
-0 14 2 1
 0 10 2 1
+0 14 2 1
 1
 end_operator
 begin_operator
 start-order-o3-n3-n2 
 0
 2
-0 14 2 1
 0 10 3 2
+0 14 2 1
 1
 end_operator
 begin_operator
 start-order-o3-n4-n3 
 0
 2
-0 14 2 1
 0 10 4 3
+0 14 2 1
 1
 end_operator
 begin_operator
 start-order-o3-n5-n4 
 0
 2
-0 14 2 1
 0 10 5 4
+0 14 2 1
 1
 end_operator
 begin_operator
 start-order-o4-n1-n0 
 0
 2
-0 15 2 1
 0 10 1 0
+0 15 2 1
 1
 end_operator
 begin_operator
 start-order-o4-n2-n1 
 0
 2
-0 15 2 1
 0 10 2 1
+0 15 2 1
 1
 end_operator
 begin_operator
 start-order-o4-n3-n2 
 0
 2
-0 15 2 1
 0 10 3 2
+0 15 2 1
 1
 end_operator
 begin_operator
 start-order-o4-n4-n3 
 0
 2
-0 15 2 1
 0 10 4 3
+0 15 2 1
 1
 end_operator
 begin_operator
 start-order-o4-n5-n4 
 0
 2
-0 15 2 1
 0 10 5 4
+0 15 2 1
 1
 end_operator
 begin_operator
 start-order-o5-n1-n0 
 0
 2
-0 16 2 1
 0 10 1 0
+0 16 2 1
 1
 end_operator
 begin_operator
 start-order-o5-n2-n1 
 0
 2
-0 16 2 1
 0 10 2 1
+0 16 2 1
 1
 end_operator
 begin_operator
 start-order-o5-n3-n2 
 0
 2
-0 16 2 1
 0 10 3 2
+0 16 2 1
 1
 end_operator
 begin_operator
 start-order-o5-n4-n3 
 0
 2
-0 16 2 1
 0 10 4 3
+0 16 2 1
 1
 end_operator
 begin_operator
 start-order-o5-n5-n4 
 0
 2
-0 16 2 1
 0 10 5 4
+0 16 2 1
 1
 end_operator
 0

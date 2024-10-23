@@ -320,8 +320,8 @@ end_goal
 begin_operator
 calibrate satellite0 instrument0 star1
 2
-7 4
 2 0
+7 4
 1
 0 19 -1 0
 1
@@ -329,8 +329,8 @@ end_operator
 begin_operator
 calibrate satellite0 instrument1 star2
 2
-7 5
 3 0
+7 5
 1
 0 10 -1 0
 1
@@ -338,8 +338,8 @@ end_operator
 begin_operator
 calibrate satellite0 instrument2 star0
 2
-7 3
 4 0
+7 3
 1
 0 9 -1 0
 1
@@ -347,8 +347,8 @@ end_operator
 begin_operator
 calibrate satellite1 instrument3 star0
 2
-6 3
 1 0
+6 3
 1
 0 8 -1 0
 1
@@ -357,24 +357,24 @@ begin_operator
 switch_off instrument0 satellite0
 0
 2
-0 5 -1 0
 0 2 0 1
+0 5 -1 0
 1
 end_operator
 begin_operator
 switch_off instrument1 satellite0
 0
 2
-0 5 -1 0
 0 3 0 1
+0 5 -1 0
 1
 end_operator
 begin_operator
 switch_off instrument2 satellite0
 0
 2
-0 5 -1 0
 0 4 0 1
+0 5 -1 0
 1
 end_operator
 begin_operator
@@ -389,44 +389,44 @@ begin_operator
 switch_on instrument0 satellite0
 0
 3
-0 19 -1 1
-0 5 0 1
 0 2 -1 0
+0 5 0 1
+0 19 -1 1
 1
 end_operator
 begin_operator
 switch_on instrument1 satellite0
 0
 3
-0 10 -1 1
-0 5 0 1
 0 3 -1 0
+0 5 0 1
+0 10 -1 1
 1
 end_operator
 begin_operator
 switch_on instrument2 satellite0
 0
 3
-0 9 -1 1
-0 5 0 1
 0 4 -1 0
+0 5 0 1
+0 9 -1 1
 1
 end_operator
 begin_operator
 switch_on instrument3 satellite1
 0
 3
-0 8 -1 1
 0 0 0 1
 0 1 -1 0
+0 8 -1 1
 1
 end_operator
 begin_operator
 take_image satellite0 phenomenon5 instrument0 infrared0
 3
-19 0
-7 0
 2 0
+7 0
+19 0
 1
 0 35 -1 0
 1
@@ -434,9 +434,9 @@ end_operator
 begin_operator
 take_image satellite0 phenomenon5 instrument0 spectrograph2
 3
-19 0
-7 0
 2 0
+7 0
+19 0
 1
 0 34 -1 0
 1
@@ -444,9 +444,9 @@ end_operator
 begin_operator
 take_image satellite0 phenomenon5 instrument1 image1
 3
-10 0
-7 0
 3 0
+7 0
+10 0
 1
 0 18 -1 0
 1
@@ -454,9 +454,9 @@ end_operator
 begin_operator
 take_image satellite0 phenomenon5 instrument2 image1
 3
-9 0
-7 0
 4 0
+7 0
+9 0
 1
 0 18 -1 0
 1
@@ -464,9 +464,9 @@ end_operator
 begin_operator
 take_image satellite0 phenomenon5 instrument2 infrared0
 3
-9 0
-7 0
 4 0
+7 0
+9 0
 1
 0 35 -1 0
 1
@@ -474,9 +474,9 @@ end_operator
 begin_operator
 take_image satellite0 phenomenon6 instrument0 infrared0
 3
-19 0
-7 1
 2 0
+7 1
+19 0
 1
 0 33 -1 0
 1
@@ -484,9 +484,9 @@ end_operator
 begin_operator
 take_image satellite0 phenomenon6 instrument0 spectrograph2
 3
-19 0
-7 1
 2 0
+7 1
+19 0
 1
 0 32 -1 0
 1
@@ -494,9 +494,9 @@ end_operator
 begin_operator
 take_image satellite0 phenomenon6 instrument1 image1
 3
-10 0
-7 1
 3 0
+7 1
+10 0
 1
 0 17 -1 0
 1
@@ -504,9 +504,9 @@ end_operator
 begin_operator
 take_image satellite0 phenomenon6 instrument2 image1
 3
-9 0
-7 1
 4 0
+7 1
+9 0
 1
 0 17 -1 0
 1
@@ -514,9 +514,9 @@ end_operator
 begin_operator
 take_image satellite0 phenomenon6 instrument2 infrared0
 3
-9 0
-7 1
 4 0
+7 1
+9 0
 1
 0 33 -1 0
 1
@@ -524,9 +524,9 @@ end_operator
 begin_operator
 take_image satellite0 phenomenon7 instrument0 infrared0
 3
-19 0
-7 2
 2 0
+7 2
+19 0
 1
 0 31 -1 0
 1
@@ -534,9 +534,9 @@ end_operator
 begin_operator
 take_image satellite0 phenomenon7 instrument0 spectrograph2
 3
-19 0
-7 2
 2 0
+7 2
+19 0
 1
 0 30 -1 0
 1
@@ -544,9 +544,9 @@ end_operator
 begin_operator
 take_image satellite0 phenomenon7 instrument1 image1
 3
-10 0
-7 2
 3 0
+7 2
+10 0
 1
 0 16 -1 0
 1
@@ -554,9 +554,9 @@ end_operator
 begin_operator
 take_image satellite0 phenomenon7 instrument2 image1
 3
-9 0
-7 2
 4 0
+7 2
+9 0
 1
 0 16 -1 0
 1
@@ -564,9 +564,9 @@ end_operator
 begin_operator
 take_image satellite0 phenomenon7 instrument2 infrared0
 3
-9 0
-7 2
 4 0
+7 2
+9 0
 1
 0 31 -1 0
 1
@@ -574,9 +574,9 @@ end_operator
 begin_operator
 take_image satellite0 star0 instrument0 infrared0
 3
-19 0
-7 3
 2 0
+7 3
+19 0
 1
 0 29 -1 0
 1
@@ -584,9 +584,9 @@ end_operator
 begin_operator
 take_image satellite0 star0 instrument0 spectrograph2
 3
-19 0
-7 3
 2 0
+7 3
+19 0
 1
 0 28 -1 0
 1
@@ -594,9 +594,9 @@ end_operator
 begin_operator
 take_image satellite0 star0 instrument1 image1
 3
-10 0
-7 3
 3 0
+7 3
+10 0
 1
 0 15 -1 0
 1
@@ -604,9 +604,9 @@ end_operator
 begin_operator
 take_image satellite0 star0 instrument2 image1
 3
-9 0
-7 3
 4 0
+7 3
+9 0
 1
 0 15 -1 0
 1
@@ -614,9 +614,9 @@ end_operator
 begin_operator
 take_image satellite0 star0 instrument2 infrared0
 3
-9 0
-7 3
 4 0
+7 3
+9 0
 1
 0 29 -1 0
 1
@@ -624,9 +624,9 @@ end_operator
 begin_operator
 take_image satellite0 star1 instrument0 infrared0
 3
-19 0
-7 4
 2 0
+7 4
+19 0
 1
 0 27 -1 0
 1
@@ -634,9 +634,9 @@ end_operator
 begin_operator
 take_image satellite0 star1 instrument0 spectrograph2
 3
-19 0
-7 4
 2 0
+7 4
+19 0
 1
 0 26 -1 0
 1
@@ -644,9 +644,9 @@ end_operator
 begin_operator
 take_image satellite0 star1 instrument1 image1
 3
-10 0
-7 4
 3 0
+7 4
+10 0
 1
 0 14 -1 0
 1
@@ -654,9 +654,9 @@ end_operator
 begin_operator
 take_image satellite0 star1 instrument2 image1
 3
-9 0
-7 4
 4 0
+7 4
+9 0
 1
 0 14 -1 0
 1
@@ -664,9 +664,9 @@ end_operator
 begin_operator
 take_image satellite0 star1 instrument2 infrared0
 3
-9 0
-7 4
 4 0
+7 4
+9 0
 1
 0 27 -1 0
 1
@@ -674,9 +674,9 @@ end_operator
 begin_operator
 take_image satellite0 star2 instrument0 infrared0
 3
-19 0
-7 5
 2 0
+7 5
+19 0
 1
 0 25 -1 0
 1
@@ -684,9 +684,9 @@ end_operator
 begin_operator
 take_image satellite0 star2 instrument0 spectrograph2
 3
-19 0
-7 5
 2 0
+7 5
+19 0
 1
 0 24 -1 0
 1
@@ -694,9 +694,9 @@ end_operator
 begin_operator
 take_image satellite0 star2 instrument1 image1
 3
-10 0
-7 5
 3 0
+7 5
+10 0
 1
 0 13 -1 0
 1
@@ -704,9 +704,9 @@ end_operator
 begin_operator
 take_image satellite0 star2 instrument2 image1
 3
-9 0
-7 5
 4 0
+7 5
+9 0
 1
 0 13 -1 0
 1
@@ -714,9 +714,9 @@ end_operator
 begin_operator
 take_image satellite0 star2 instrument2 infrared0
 3
-9 0
-7 5
 4 0
+7 5
+9 0
 1
 0 25 -1 0
 1
@@ -724,9 +724,9 @@ end_operator
 begin_operator
 take_image satellite0 star3 instrument0 infrared0
 3
-19 0
-7 6
 2 0
+7 6
+19 0
 1
 0 23 -1 0
 1
@@ -734,9 +734,9 @@ end_operator
 begin_operator
 take_image satellite0 star3 instrument0 spectrograph2
 3
-19 0
-7 6
 2 0
+7 6
+19 0
 1
 0 22 -1 0
 1
@@ -744,9 +744,9 @@ end_operator
 begin_operator
 take_image satellite0 star3 instrument1 image1
 3
-10 0
-7 6
 3 0
+7 6
+10 0
 1
 0 12 -1 0
 1
@@ -754,9 +754,9 @@ end_operator
 begin_operator
 take_image satellite0 star3 instrument2 image1
 3
-9 0
-7 6
 4 0
+7 6
+9 0
 1
 0 12 -1 0
 1
@@ -764,9 +764,9 @@ end_operator
 begin_operator
 take_image satellite0 star3 instrument2 infrared0
 3
-9 0
-7 6
 4 0
+7 6
+9 0
 1
 0 23 -1 0
 1
@@ -774,9 +774,9 @@ end_operator
 begin_operator
 take_image satellite0 star4 instrument0 infrared0
 3
-19 0
-7 7
 2 0
+7 7
+19 0
 1
 0 21 -1 0
 1
@@ -784,9 +784,9 @@ end_operator
 begin_operator
 take_image satellite0 star4 instrument0 spectrograph2
 3
-19 0
-7 7
 2 0
+7 7
+19 0
 1
 0 20 -1 0
 1
@@ -794,9 +794,9 @@ end_operator
 begin_operator
 take_image satellite0 star4 instrument1 image1
 3
-10 0
-7 7
 3 0
+7 7
+10 0
 1
 0 11 -1 0
 1
@@ -804,9 +804,9 @@ end_operator
 begin_operator
 take_image satellite0 star4 instrument2 image1
 3
-9 0
-7 7
 4 0
+7 7
+9 0
 1
 0 11 -1 0
 1
@@ -814,9 +814,9 @@ end_operator
 begin_operator
 take_image satellite0 star4 instrument2 infrared0
 3
-9 0
-7 7
 4 0
+7 7
+9 0
 1
 0 21 -1 0
 1
@@ -824,9 +824,9 @@ end_operator
 begin_operator
 take_image satellite1 phenomenon5 instrument3 image1
 3
-8 0
-6 0
 1 0
+6 0
+8 0
 1
 0 18 -1 0
 1
@@ -834,9 +834,9 @@ end_operator
 begin_operator
 take_image satellite1 phenomenon5 instrument3 infrared0
 3
-8 0
-6 0
 1 0
+6 0
+8 0
 1
 0 35 -1 0
 1
@@ -844,9 +844,9 @@ end_operator
 begin_operator
 take_image satellite1 phenomenon5 instrument3 spectrograph2
 3
-8 0
-6 0
 1 0
+6 0
+8 0
 1
 0 34 -1 0
 1
@@ -854,9 +854,9 @@ end_operator
 begin_operator
 take_image satellite1 phenomenon6 instrument3 image1
 3
-8 0
-6 1
 1 0
+6 1
+8 0
 1
 0 17 -1 0
 1
@@ -864,9 +864,9 @@ end_operator
 begin_operator
 take_image satellite1 phenomenon6 instrument3 infrared0
 3
-8 0
-6 1
 1 0
+6 1
+8 0
 1
 0 33 -1 0
 1
@@ -874,9 +874,9 @@ end_operator
 begin_operator
 take_image satellite1 phenomenon6 instrument3 spectrograph2
 3
-8 0
-6 1
 1 0
+6 1
+8 0
 1
 0 32 -1 0
 1
@@ -884,9 +884,9 @@ end_operator
 begin_operator
 take_image satellite1 phenomenon7 instrument3 image1
 3
-8 0
-6 2
 1 0
+6 2
+8 0
 1
 0 16 -1 0
 1
@@ -894,9 +894,9 @@ end_operator
 begin_operator
 take_image satellite1 phenomenon7 instrument3 infrared0
 3
-8 0
-6 2
 1 0
+6 2
+8 0
 1
 0 31 -1 0
 1
@@ -904,9 +904,9 @@ end_operator
 begin_operator
 take_image satellite1 phenomenon7 instrument3 spectrograph2
 3
-8 0
-6 2
 1 0
+6 2
+8 0
 1
 0 30 -1 0
 1
@@ -914,9 +914,9 @@ end_operator
 begin_operator
 take_image satellite1 star0 instrument3 image1
 3
-8 0
-6 3
 1 0
+6 3
+8 0
 1
 0 15 -1 0
 1
@@ -924,9 +924,9 @@ end_operator
 begin_operator
 take_image satellite1 star0 instrument3 infrared0
 3
-8 0
-6 3
 1 0
+6 3
+8 0
 1
 0 29 -1 0
 1
@@ -934,9 +934,9 @@ end_operator
 begin_operator
 take_image satellite1 star0 instrument3 spectrograph2
 3
-8 0
-6 3
 1 0
+6 3
+8 0
 1
 0 28 -1 0
 1
@@ -944,9 +944,9 @@ end_operator
 begin_operator
 take_image satellite1 star1 instrument3 image1
 3
-8 0
-6 4
 1 0
+6 4
+8 0
 1
 0 14 -1 0
 1
@@ -954,9 +954,9 @@ end_operator
 begin_operator
 take_image satellite1 star1 instrument3 infrared0
 3
-8 0
-6 4
 1 0
+6 4
+8 0
 1
 0 27 -1 0
 1
@@ -964,9 +964,9 @@ end_operator
 begin_operator
 take_image satellite1 star1 instrument3 spectrograph2
 3
-8 0
-6 4
 1 0
+6 4
+8 0
 1
 0 26 -1 0
 1
@@ -974,9 +974,9 @@ end_operator
 begin_operator
 take_image satellite1 star2 instrument3 image1
 3
-8 0
-6 5
 1 0
+6 5
+8 0
 1
 0 13 -1 0
 1
@@ -984,9 +984,9 @@ end_operator
 begin_operator
 take_image satellite1 star2 instrument3 infrared0
 3
-8 0
-6 5
 1 0
+6 5
+8 0
 1
 0 25 -1 0
 1
@@ -994,9 +994,9 @@ end_operator
 begin_operator
 take_image satellite1 star2 instrument3 spectrograph2
 3
-8 0
-6 5
 1 0
+6 5
+8 0
 1
 0 24 -1 0
 1
@@ -1004,9 +1004,9 @@ end_operator
 begin_operator
 take_image satellite1 star3 instrument3 image1
 3
-8 0
-6 6
 1 0
+6 6
+8 0
 1
 0 12 -1 0
 1
@@ -1014,9 +1014,9 @@ end_operator
 begin_operator
 take_image satellite1 star3 instrument3 infrared0
 3
-8 0
-6 6
 1 0
+6 6
+8 0
 1
 0 23 -1 0
 1
@@ -1024,9 +1024,9 @@ end_operator
 begin_operator
 take_image satellite1 star3 instrument3 spectrograph2
 3
-8 0
-6 6
 1 0
+6 6
+8 0
 1
 0 22 -1 0
 1
@@ -1034,9 +1034,9 @@ end_operator
 begin_operator
 take_image satellite1 star4 instrument3 image1
 3
-8 0
-6 7
 1 0
+6 7
+8 0
 1
 0 11 -1 0
 1
@@ -1044,9 +1044,9 @@ end_operator
 begin_operator
 take_image satellite1 star4 instrument3 infrared0
 3
-8 0
-6 7
 1 0
+6 7
+8 0
 1
 0 21 -1 0
 1
@@ -1054,9 +1054,9 @@ end_operator
 begin_operator
 take_image satellite1 star4 instrument3 spectrograph2
 3
-8 0
-6 7
 1 0
+6 7
+8 0
 1
 0 20 -1 0
 1

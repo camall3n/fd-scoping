@@ -3225,173 +3225,173 @@ pop-end s12 a1 a2 b0 b0
 350 0
 3
 0 3 0 1
-0 390 1 0
 0 351 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b0 b1
 0
 5
-0 350 0 1
-0 376 -1 0
 0 7 0 1
-0 390 1 0
+0 350 0 1
 0 351 -1 0
+0 376 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b0 b10
 0
 5
-0 350 0 1
-0 353 -1 0
 0 12 0 1
-0 390 1 0
+0 350 0 1
 0 351 -1 0
+0 353 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b0 b11
 0
 5
-0 350 0 1
-0 356 -1 0
 0 13 0 1
-0 390 1 0
+0 350 0 1
 0 351 -1 0
+0 356 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b0 b12
 0
 5
-0 350 0 1
-0 377 -1 0
 0 28 0 1
-0 390 1 0
+0 350 0 1
 0 351 -1 0
+0 377 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b0 b13
 0
 5
-0 350 0 1
-0 359 -1 0
 0 33 0 1
-0 390 1 0
+0 350 0 1
 0 351 -1 0
+0 359 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b0 b14
 0
 5
-0 350 0 1
-0 362 -1 0
 0 40 0 1
-0 390 1 0
+0 350 0 1
 0 351 -1 0
+0 362 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b0 b15
 0
 5
-0 350 0 1
-0 365 -1 0
 0 59 0 1
-0 390 1 0
+0 350 0 1
 0 351 -1 0
+0 365 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b0 b2
 0
 5
-0 350 0 1
-0 378 -1 0
 0 72 0 1
-0 390 1 0
+0 350 0 1
 0 351 -1 0
+0 378 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b0 b3
 0
 5
-0 350 0 1
-0 366 -1 0
 0 90 0 1
-0 390 1 0
+0 350 0 1
 0 351 -1 0
+0 366 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b0 b5
 0
 5
-0 350 0 1
-0 367 -1 0
 0 110 0 1
-0 390 1 0
+0 350 0 1
 0 351 -1 0
+0 367 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b0 b6
 0
 5
-0 350 0 1
-0 379 -1 0
 0 152 0 1
-0 390 1 0
+0 350 0 1
 0 351 -1 0
+0 379 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b0 b7
 0
 5
-0 350 0 1
-0 380 -1 0
 0 178 0 1
-0 390 1 0
+0 350 0 1
 0 351 -1 0
+0 380 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b0 b8
 0
 5
-0 350 0 1
-0 368 -1 0
 0 205 0 1
-0 390 1 0
+0 350 0 1
 0 351 -1 0
+0 368 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b0 b9
 0
 5
-0 350 0 1
-0 381 -1 0
 0 219 0 1
-0 390 1 0
+0 350 0 1
 0 351 -1 0
+0 381 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b1 b0
 0
 5
+0 2 0 1
 0 350 -1 0
 0 376 0 1
-0 2 0 1
-0 390 1 0
 0 382 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
@@ -3400,184 +3400,184 @@ pop-end s12 a1 a2 b1 b1
 376 0
 3
 0 16 0 1
-0 390 1 0
 0 382 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b1 b10
 0
 5
-0 376 0 1
-0 353 -1 0
 0 15 0 1
-0 390 1 0
+0 353 -1 0
+0 376 0 1
 0 382 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b1 b11
 0
 5
-0 376 0 1
-0 356 -1 0
 0 24 0 1
-0 390 1 0
+0 356 -1 0
+0 376 0 1
 0 382 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b1 b12
 0
 5
+0 29 0 1
 0 376 0 1
 0 377 -1 0
-0 29 0 1
-0 390 1 0
 0 382 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b1 b13
 0
 5
-0 376 0 1
-0 359 -1 0
 0 34 0 1
-0 390 1 0
+0 359 -1 0
+0 376 0 1
 0 382 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b1 b14
 0
 5
-0 376 0 1
-0 362 -1 0
 0 41 0 1
-0 390 1 0
+0 362 -1 0
+0 376 0 1
 0 382 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b1 b15
 0
 5
-0 376 0 1
-0 365 -1 0
 0 60 0 1
-0 390 1 0
+0 365 -1 0
+0 376 0 1
 0 382 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b1 b2
 0
 5
+0 73 0 1
 0 376 0 1
 0 378 -1 0
-0 73 0 1
-0 390 1 0
 0 382 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b1 b3
 0
 5
-0 376 0 1
-0 366 -1 0
 0 91 0 1
-0 390 1 0
+0 366 -1 0
+0 376 0 1
 0 382 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b1 b4
 0
 5
-0 376 0 1
-0 259 -1 0
 0 136 0 1
-0 390 1 0
+0 259 -1 0
+0 376 0 1
 0 382 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b1 b5
 0
 5
-0 376 0 1
-0 367 -1 0
 0 111 0 1
-0 390 1 0
+0 367 -1 0
+0 376 0 1
 0 382 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b1 b6
 0
 5
+0 153 0 1
 0 376 0 1
 0 379 -1 0
-0 153 0 1
-0 390 1 0
 0 382 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b1 b7
 0
 5
+0 179 0 1
 0 376 0 1
 0 380 -1 0
-0 179 0 1
-0 390 1 0
 0 382 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b1 b8
 0
 5
-0 376 0 1
-0 368 -1 0
 0 206 0 1
-0 390 1 0
+0 368 -1 0
+0 376 0 1
 0 382 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b1 b9
 0
 5
+0 220 0 1
 0 376 0 1
 0 381 -1 0
-0 220 0 1
-0 390 1 0
 0 382 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b10 b0
 0
 5
+0 4 0 1
 0 350 -1 0
 0 353 0 1
-0 4 0 1
-0 390 1 0
 0 354 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b10 b1
 0
 5
-0 376 -1 0
-0 353 0 1
 0 11 0 1
-0 390 1 0
+0 353 0 1
 0 354 -1 0
+0 376 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
@@ -3586,173 +3586,173 @@ pop-end s12 a1 a2 b10 b10
 353 0
 3
 0 26 0 1
-0 390 1 0
 0 354 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b10 b11
 0
 5
-0 353 0 1
-0 356 -1 0
 0 25 0 1
-0 390 1 0
+0 353 0 1
 0 354 -1 0
+0 356 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b10 b12
 0
 5
-0 353 0 1
-0 377 -1 0
 0 27 0 1
-0 390 1 0
+0 353 0 1
 0 354 -1 0
+0 377 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b10 b13
 0
 5
-0 353 0 1
-0 359 -1 0
 0 35 0 1
-0 390 1 0
+0 353 0 1
 0 354 -1 0
+0 359 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b10 b14
 0
 5
-0 353 0 1
-0 362 -1 0
 0 42 0 1
-0 390 1 0
+0 353 0 1
 0 354 -1 0
+0 362 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b10 b15
 0
 5
-0 353 0 1
-0 365 -1 0
 0 61 0 1
-0 390 1 0
+0 353 0 1
 0 354 -1 0
+0 365 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b10 b2
 0
 5
-0 353 0 1
-0 378 -1 0
 0 74 0 1
-0 390 1 0
+0 353 0 1
 0 354 -1 0
+0 378 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b10 b3
 0
 5
-0 353 0 1
-0 366 -1 0
 0 92 0 1
-0 390 1 0
+0 353 0 1
 0 354 -1 0
+0 366 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b10 b5
 0
 5
-0 353 0 1
-0 367 -1 0
 0 112 0 1
-0 390 1 0
+0 353 0 1
 0 354 -1 0
+0 367 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b10 b6
 0
 5
-0 353 0 1
-0 379 -1 0
 0 154 0 1
-0 390 1 0
+0 353 0 1
 0 354 -1 0
+0 379 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b10 b7
 0
 5
-0 353 0 1
-0 380 -1 0
 0 180 0 1
-0 390 1 0
+0 353 0 1
 0 354 -1 0
+0 380 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b10 b8
 0
 5
-0 353 0 1
-0 368 -1 0
 0 207 0 1
-0 390 1 0
+0 353 0 1
 0 354 -1 0
+0 368 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b10 b9
 0
 5
-0 353 0 1
-0 381 -1 0
 0 221 0 1
-0 390 1 0
+0 353 0 1
 0 354 -1 0
+0 381 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b11 b0
 0
 5
+0 5 0 1
 0 350 -1 0
 0 356 0 1
-0 5 0 1
-0 390 1 0
 0 357 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b11 b1
 0
 5
-0 376 -1 0
-0 356 0 1
 0 6 0 1
-0 390 1 0
+0 356 0 1
 0 357 -1 0
+0 376 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b11 b10
 0
 5
+0 14 0 1
 0 353 -1 0
 0 356 0 1
-0 14 0 1
-0 390 1 0
 0 357 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
@@ -3761,173 +3761,173 @@ pop-end s12 a1 a2 b11 b11
 356 0
 3
 0 31 0 1
-0 390 1 0
 0 357 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b11 b12
 0
 5
-0 356 0 1
-0 377 -1 0
 0 30 0 1
-0 390 1 0
+0 356 0 1
 0 357 -1 0
+0 377 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b11 b13
 0
 5
-0 356 0 1
-0 359 -1 0
 0 32 0 1
-0 390 1 0
+0 356 0 1
 0 357 -1 0
+0 359 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b11 b14
 0
 5
-0 356 0 1
-0 362 -1 0
 0 43 0 1
-0 390 1 0
+0 356 0 1
 0 357 -1 0
+0 362 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b11 b15
 0
 5
-0 356 0 1
-0 365 -1 0
 0 62 0 1
-0 390 1 0
+0 356 0 1
 0 357 -1 0
+0 365 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b11 b2
 0
 5
-0 356 0 1
-0 378 -1 0
 0 75 0 1
-0 390 1 0
+0 356 0 1
 0 357 -1 0
+0 378 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b11 b3
 0
 5
-0 356 0 1
-0 366 -1 0
 0 93 0 1
-0 390 1 0
+0 356 0 1
 0 357 -1 0
+0 366 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b11 b5
 0
 5
-0 356 0 1
-0 367 -1 0
 0 113 0 1
-0 390 1 0
+0 356 0 1
 0 357 -1 0
+0 367 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b11 b6
 0
 5
-0 356 0 1
-0 379 -1 0
 0 155 0 1
-0 390 1 0
+0 356 0 1
 0 357 -1 0
+0 379 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b11 b7
 0
 5
-0 356 0 1
-0 380 -1 0
 0 181 0 1
-0 390 1 0
+0 356 0 1
 0 357 -1 0
+0 380 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b11 b8
 0
 5
-0 356 0 1
-0 368 -1 0
 0 208 0 1
-0 390 1 0
+0 356 0 1
 0 357 -1 0
+0 368 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b11 b9
 0
 5
-0 356 0 1
-0 381 -1 0
 0 222 0 1
-0 390 1 0
+0 356 0 1
 0 357 -1 0
+0 381 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b12 b0
 0
 5
+0 8 0 1
 0 350 -1 0
 0 377 0 1
-0 8 0 1
-0 390 1 0
 0 384 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b12 b1
 0
 5
+0 9 0 1
 0 376 -1 0
 0 377 0 1
-0 9 0 1
-0 390 1 0
 0 384 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b12 b10
 0
 5
+0 10 0 1
 0 353 -1 0
 0 377 0 1
-0 10 0 1
-0 390 1 0
 0 384 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b12 b11
 0
 5
+0 37 0 1
 0 356 -1 0
 0 377 0 1
-0 37 0 1
-0 390 1 0
 0 384 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
@@ -3936,184 +3936,184 @@ pop-end s12 a1 a2 b12 b12
 377 0
 3
 0 38 0 1
-0 390 1 0
 0 384 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b12 b13
 0
 5
-0 377 0 1
-0 359 -1 0
 0 36 0 1
-0 390 1 0
+0 359 -1 0
+0 377 0 1
 0 384 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b12 b14
 0
 5
-0 377 0 1
-0 362 -1 0
 0 39 0 1
-0 390 1 0
+0 362 -1 0
+0 377 0 1
 0 384 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b12 b15
 0
 5
-0 377 0 1
-0 365 -1 0
 0 63 0 1
-0 390 1 0
+0 365 -1 0
+0 377 0 1
 0 384 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b12 b2
 0
 5
+0 76 0 1
 0 377 0 1
 0 378 -1 0
-0 76 0 1
-0 390 1 0
 0 384 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b12 b3
 0
 5
-0 377 0 1
-0 366 -1 0
 0 94 0 1
-0 390 1 0
+0 366 -1 0
+0 377 0 1
 0 384 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b12 b4
 0
 5
-0 377 0 1
-0 259 -1 0
 0 137 0 1
-0 390 1 0
+0 259 -1 0
+0 377 0 1
 0 384 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b12 b5
 0
 5
-0 377 0 1
-0 367 -1 0
 0 114 0 1
-0 390 1 0
+0 367 -1 0
+0 377 0 1
 0 384 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b12 b6
 0
 5
+0 156 0 1
 0 377 0 1
 0 379 -1 0
-0 156 0 1
-0 390 1 0
 0 384 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b12 b7
 0
 5
+0 182 0 1
 0 377 0 1
 0 380 -1 0
-0 182 0 1
-0 390 1 0
 0 384 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b12 b8
 0
 5
-0 377 0 1
-0 368 -1 0
 0 209 0 1
-0 390 1 0
+0 368 -1 0
+0 377 0 1
 0 384 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b12 b9
 0
 5
+0 223 0 1
 0 377 0 1
 0 381 -1 0
-0 223 0 1
-0 390 1 0
 0 384 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b13 b0
 0
 5
+0 18 0 1
 0 350 -1 0
 0 359 0 1
-0 18 0 1
-0 390 1 0
 0 360 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b13 b1
 0
 5
-0 376 -1 0
-0 359 0 1
 0 17 0 1
-0 390 1 0
+0 359 0 1
 0 360 -1 0
+0 376 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b13 b10
 0
 5
+0 19 0 1
 0 353 -1 0
 0 359 0 1
-0 19 0 1
-0 390 1 0
 0 360 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b13 b11
 0
 5
+0 45 0 1
 0 356 -1 0
 0 359 0 1
-0 45 0 1
-0 390 1 0
 0 360 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b13 b12
 0
 5
-0 377 -1 0
-0 359 0 1
 0 46 0 1
-0 390 1 0
+0 359 0 1
 0 360 -1 0
+0 377 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
@@ -4122,173 +4122,173 @@ pop-end s12 a1 a2 b13 b13
 359 0
 3
 0 47 0 1
-0 390 1 0
 0 360 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b13 b14
 0
 5
-0 359 0 1
-0 362 -1 0
 0 44 0 1
-0 390 1 0
+0 359 0 1
 0 360 -1 0
+0 362 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b13 b15
 0
 5
-0 359 0 1
-0 365 -1 0
 0 48 0 1
-0 390 1 0
+0 359 0 1
 0 360 -1 0
+0 365 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b13 b2
 0
 5
-0 359 0 1
-0 378 -1 0
 0 77 0 1
-0 390 1 0
+0 359 0 1
 0 360 -1 0
+0 378 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b13 b3
 0
 5
-0 359 0 1
-0 366 -1 0
 0 95 0 1
-0 390 1 0
+0 359 0 1
 0 360 -1 0
+0 366 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b13 b5
 0
 5
-0 359 0 1
-0 367 -1 0
 0 115 0 1
-0 390 1 0
+0 359 0 1
 0 360 -1 0
+0 367 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b13 b6
 0
 5
-0 359 0 1
-0 379 -1 0
 0 157 0 1
-0 390 1 0
+0 359 0 1
 0 360 -1 0
+0 379 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b13 b7
 0
 5
-0 359 0 1
-0 380 -1 0
 0 183 0 1
-0 390 1 0
+0 359 0 1
 0 360 -1 0
+0 380 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b13 b8
 0
 5
-0 359 0 1
-0 368 -1 0
 0 210 0 1
-0 390 1 0
+0 359 0 1
 0 360 -1 0
+0 368 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b13 b9
 0
 5
-0 359 0 1
-0 381 -1 0
 0 224 0 1
-0 390 1 0
+0 359 0 1
 0 360 -1 0
+0 381 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b14 b0
 0
 5
+0 20 0 1
 0 350 -1 0
 0 362 0 1
-0 20 0 1
-0 390 1 0
 0 363 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b14 b1
 0
 5
-0 376 -1 0
-0 362 0 1
 0 21 0 1
-0 390 1 0
+0 362 0 1
 0 363 -1 0
+0 376 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b14 b10
 0
 5
+0 22 0 1
 0 353 -1 0
 0 362 0 1
-0 22 0 1
-0 390 1 0
 0 363 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b14 b11
 0
 5
+0 23 0 1
 0 356 -1 0
 0 362 0 1
-0 23 0 1
-0 390 1 0
 0 363 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b14 b12
 0
 5
-0 377 -1 0
-0 362 0 1
 0 237 0 1
-0 390 1 0
+0 362 0 1
 0 363 -1 0
+0 377 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b14 b13
 0
 5
+0 236 0 1
 0 359 -1 0
 0 362 0 1
-0 236 0 1
-0 390 1 0
 0 363 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
@@ -4297,105 +4297,105 @@ pop-end s12 a1 a2 b14 b14
 362 0
 3
 0 235 0 1
-0 390 1 0
 0 363 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b14 b15
 0
 5
-0 362 0 1
-0 365 -1 0
 0 64 0 1
-0 390 1 0
+0 362 0 1
 0 363 -1 0
+0 365 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b14 b2
 0
 5
-0 362 0 1
-0 378 -1 0
 0 78 0 1
-0 390 1 0
+0 362 0 1
 0 363 -1 0
+0 378 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b14 b3
 0
 5
-0 362 0 1
-0 366 -1 0
 0 96 0 1
-0 390 1 0
+0 362 0 1
 0 363 -1 0
+0 366 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b14 b5
 0
 5
-0 362 0 1
-0 367 -1 0
 0 116 0 1
-0 390 1 0
+0 362 0 1
 0 363 -1 0
+0 367 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b14 b6
 0
 5
-0 362 0 1
-0 379 -1 0
 0 158 0 1
-0 390 1 0
+0 362 0 1
 0 363 -1 0
+0 379 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b14 b7
 0
 5
-0 362 0 1
-0 380 -1 0
 0 184 0 1
-0 390 1 0
+0 362 0 1
 0 363 -1 0
+0 380 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b14 b8
 0
 5
-0 362 0 1
-0 368 -1 0
 0 211 0 1
-0 390 1 0
+0 362 0 1
 0 363 -1 0
+0 368 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b14 b9
 0
 5
-0 362 0 1
-0 381 -1 0
 0 225 0 1
-0 390 1 0
+0 362 0 1
 0 363 -1 0
+0 381 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b15 b0
 0
 5
+0 49 0 1
 0 350 -1 0
 0 365 0 1
-0 49 0 1
 0 390 1 0
 0 398 -1 0
 1
@@ -4404,9 +4404,9 @@ begin_operator
 pop-end s12 a1 a2 b15 b1
 0
 5
-0 376 -1 0
-0 365 0 1
 0 50 0 1
+0 365 0 1
+0 376 -1 0
 0 390 1 0
 0 398 -1 0
 1
@@ -4415,9 +4415,9 @@ begin_operator
 pop-end s12 a1 a2 b15 b10
 0
 5
+0 66 0 1
 0 353 -1 0
 0 365 0 1
-0 66 0 1
 0 390 1 0
 0 398 -1 0
 1
@@ -4426,9 +4426,9 @@ begin_operator
 pop-end s12 a1 a2 b15 b11
 0
 5
+0 67 0 1
 0 356 -1 0
 0 365 0 1
-0 67 0 1
 0 390 1 0
 0 398 -1 0
 1
@@ -4437,9 +4437,9 @@ begin_operator
 pop-end s12 a1 a2 b15 b12
 0
 5
-0 377 -1 0
-0 365 0 1
 0 68 0 1
+0 365 0 1
+0 377 -1 0
 0 390 1 0
 0 398 -1 0
 1
@@ -4448,9 +4448,9 @@ begin_operator
 pop-end s12 a1 a2 b15 b13
 0
 5
+0 69 0 1
 0 359 -1 0
 0 365 0 1
-0 69 0 1
 0 390 1 0
 0 398 -1 0
 1
@@ -4459,9 +4459,9 @@ begin_operator
 pop-end s12 a1 a2 b15 b14
 0
 5
+0 70 0 1
 0 362 -1 0
 0 365 0 1
-0 70 0 1
 0 390 1 0
 0 398 -1 0
 1
@@ -4480,9 +4480,9 @@ begin_operator
 pop-end s12 a1 a2 b15 b2
 0
 5
+0 71 0 1
 0 365 0 1
 0 378 -1 0
-0 71 0 1
 0 390 1 0
 0 398 -1 0
 1
@@ -4491,9 +4491,9 @@ begin_operator
 pop-end s12 a1 a2 b15 b3
 0
 5
+0 97 0 1
 0 365 0 1
 0 366 -1 0
-0 97 0 1
 0 390 1 0
 0 398 -1 0
 1
@@ -4502,9 +4502,9 @@ begin_operator
 pop-end s12 a1 a2 b15 b5
 0
 5
+0 117 0 1
 0 365 0 1
 0 367 -1 0
-0 117 0 1
 0 390 1 0
 0 398 -1 0
 1
@@ -4513,9 +4513,9 @@ begin_operator
 pop-end s12 a1 a2 b15 b6
 0
 5
+0 159 0 1
 0 365 0 1
 0 379 -1 0
-0 159 0 1
 0 390 1 0
 0 398 -1 0
 1
@@ -4524,9 +4524,9 @@ begin_operator
 pop-end s12 a1 a2 b15 b7
 0
 5
+0 185 0 1
 0 365 0 1
 0 380 -1 0
-0 185 0 1
 0 390 1 0
 0 398 -1 0
 1
@@ -4535,9 +4535,9 @@ begin_operator
 pop-end s12 a1 a2 b15 b8
 0
 5
+0 212 0 1
 0 365 0 1
 0 368 -1 0
-0 212 0 1
 0 390 1 0
 0 398 -1 0
 1
@@ -4546,9 +4546,9 @@ begin_operator
 pop-end s12 a1 a2 b15 b9
 0
 5
+0 226 0 1
 0 365 0 1
 0 381 -1 0
-0 226 0 1
 0 390 1 0
 0 398 -1 0
 1
@@ -4557,88 +4557,88 @@ begin_operator
 pop-end s12 a1 a2 b2 b0
 0
 5
+0 52 0 1
 0 350 -1 0
 0 378 0 1
-0 52 0 1
-0 390 1 0
 0 386 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b2 b1
 0
 5
+0 51 0 1
 0 376 -1 0
 0 378 0 1
-0 51 0 1
-0 390 1 0
 0 386 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b2 b10
 0
 5
+0 53 0 1
 0 353 -1 0
 0 378 0 1
-0 53 0 1
-0 390 1 0
 0 386 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b2 b11
 0
 5
+0 54 0 1
 0 356 -1 0
 0 378 0 1
-0 54 0 1
-0 390 1 0
 0 386 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b2 b12
 0
 5
+0 55 0 1
 0 377 -1 0
 0 378 0 1
-0 55 0 1
-0 390 1 0
 0 386 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b2 b13
 0
 5
+0 56 0 1
 0 359 -1 0
 0 378 0 1
-0 56 0 1
-0 390 1 0
 0 386 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b2 b14
 0
 5
+0 57 0 1
 0 362 -1 0
 0 378 0 1
-0 57 0 1
-0 390 1 0
 0 386 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b2 b15
 0
 5
+0 58 0 1
 0 365 -1 0
 0 378 0 1
-0 58 0 1
-0 390 1 0
 0 386 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
@@ -4647,184 +4647,184 @@ pop-end s12 a1 a2 b2 b2
 378 0
 3
 0 79 0 1
-0 390 1 0
 0 386 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b2 b3
 0
 5
-0 378 0 1
-0 366 -1 0
 0 98 0 1
-0 390 1 0
+0 366 -1 0
+0 378 0 1
 0 386 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b2 b4
 0
 5
-0 378 0 1
-0 259 -1 0
 0 138 0 1
-0 390 1 0
+0 259 -1 0
+0 378 0 1
 0 386 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b2 b5
 0
 5
-0 378 0 1
-0 367 -1 0
 0 118 0 1
-0 390 1 0
+0 367 -1 0
+0 378 0 1
 0 386 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b2 b6
 0
 5
+0 160 0 1
 0 378 0 1
 0 379 -1 0
-0 160 0 1
-0 390 1 0
 0 386 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b2 b7
 0
 5
+0 186 0 1
 0 378 0 1
 0 380 -1 0
-0 186 0 1
-0 390 1 0
 0 386 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b2 b8
 0
 5
-0 378 0 1
-0 368 -1 0
 0 213 0 1
-0 390 1 0
+0 368 -1 0
+0 378 0 1
 0 386 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b2 b9
 0
 5
+0 227 0 1
 0 378 0 1
 0 381 -1 0
-0 227 0 1
-0 390 1 0
 0 386 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b3 b0
 0
 5
+0 81 0 1
 0 350 -1 0
 0 366 0 1
-0 81 0 1
-0 390 1 0
 0 369 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b3 b1
 0
 5
-0 376 -1 0
-0 366 0 1
 0 82 0 1
-0 390 1 0
+0 366 0 1
 0 369 -1 0
+0 376 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b3 b10
 0
 5
+0 83 0 1
 0 353 -1 0
 0 366 0 1
-0 83 0 1
-0 390 1 0
 0 369 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b3 b11
 0
 5
+0 84 0 1
 0 356 -1 0
 0 366 0 1
-0 84 0 1
-0 390 1 0
 0 369 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b3 b12
 0
 5
-0 377 -1 0
-0 366 0 1
 0 85 0 1
-0 390 1 0
+0 366 0 1
 0 369 -1 0
+0 377 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b3 b13
 0
 5
+0 86 0 1
 0 359 -1 0
 0 366 0 1
-0 86 0 1
-0 390 1 0
 0 369 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b3 b14
 0
 5
+0 87 0 1
 0 362 -1 0
 0 366 0 1
-0 87 0 1
-0 390 1 0
 0 369 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b3 b15
 0
 5
+0 88 0 1
 0 365 -1 0
 0 366 0 1
-0 88 0 1
-0 390 1 0
 0 369 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b3 b2
 0
 5
-0 378 -1 0
-0 366 0 1
 0 80 0 1
-0 390 1 0
+0 366 0 1
 0 369 -1 0
+0 378 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
@@ -4833,96 +4833,96 @@ pop-end s12 a1 a2 b3 b3
 366 0
 3
 0 89 0 1
-0 390 1 0
 0 369 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b3 b5
 0
 5
+0 119 0 1
 0 366 0 1
 0 367 -1 0
-0 119 0 1
-0 390 1 0
 0 369 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b3 b6
 0
 5
-0 366 0 1
-0 379 -1 0
 0 161 0 1
-0 390 1 0
+0 366 0 1
 0 369 -1 0
+0 379 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b3 b7
 0
 5
-0 366 0 1
-0 380 -1 0
 0 187 0 1
-0 390 1 0
+0 366 0 1
 0 369 -1 0
+0 380 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b3 b8
 0
 5
+0 214 0 1
 0 366 0 1
 0 368 -1 0
-0 214 0 1
-0 390 1 0
 0 369 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b3 b9
 0
 5
-0 366 0 1
-0 381 -1 0
 0 228 0 1
-0 390 1 0
+0 366 0 1
 0 369 -1 0
+0 381 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b4 b1
 0
 5
-0 376 -1 0
-0 259 0 1
 0 132 0 1
-0 390 1 0
+0 259 0 1
 0 261 -1 0
+0 376 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b4 b12
 0
 5
-0 377 -1 0
-0 259 0 1
 0 133 0 1
-0 390 1 0
+0 259 0 1
 0 261 -1 0
+0 377 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b4 b2
 0
 5
-0 378 -1 0
-0 259 0 1
 0 134 0 1
-0 390 1 0
+0 259 0 1
 0 261 -1 0
+0 378 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
@@ -4931,151 +4931,151 @@ pop-end s12 a1 a2 b4 b4
 259 0
 3
 0 135 0 1
-0 390 1 0
 0 261 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b4 b6
 0
 5
-0 259 0 1
-0 379 -1 0
 0 162 0 1
-0 390 1 0
+0 259 0 1
 0 261 -1 0
+0 379 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b4 b7
 0
 5
-0 259 0 1
-0 380 -1 0
 0 188 0 1
-0 390 1 0
+0 259 0 1
 0 261 -1 0
+0 380 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b4 b9
 0
 5
-0 259 0 1
-0 381 -1 0
 0 229 0 1
-0 390 1 0
+0 259 0 1
 0 261 -1 0
+0 381 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b5 b0
 0
 5
+0 100 0 1
 0 350 -1 0
 0 367 0 1
-0 100 0 1
-0 390 1 0
 0 371 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b5 b1
 0
 5
-0 376 -1 0
-0 367 0 1
 0 101 0 1
-0 390 1 0
+0 367 0 1
 0 371 -1 0
+0 376 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b5 b10
 0
 5
+0 102 0 1
 0 353 -1 0
 0 367 0 1
-0 102 0 1
-0 390 1 0
 0 371 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b5 b11
 0
 5
+0 103 0 1
 0 356 -1 0
 0 367 0 1
-0 103 0 1
-0 390 1 0
 0 371 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b5 b12
 0
 5
-0 377 -1 0
-0 367 0 1
 0 104 0 1
-0 390 1 0
+0 367 0 1
 0 371 -1 0
+0 377 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b5 b13
 0
 5
+0 105 0 1
 0 359 -1 0
 0 367 0 1
-0 105 0 1
-0 390 1 0
 0 371 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b5 b14
 0
 5
+0 106 0 1
 0 362 -1 0
 0 367 0 1
-0 106 0 1
-0 390 1 0
 0 371 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b5 b15
 0
 5
+0 107 0 1
 0 365 -1 0
 0 367 0 1
-0 107 0 1
-0 390 1 0
 0 371 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b5 b2
 0
 5
-0 378 -1 0
-0 367 0 1
 0 108 0 1
-0 390 1 0
+0 367 0 1
 0 371 -1 0
+0 378 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b5 b3
 0
 5
+0 99 0 1
 0 366 -1 0
 0 367 0 1
-0 99 0 1
-0 390 1 0
 0 371 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
@@ -5084,184 +5084,184 @@ pop-end s12 a1 a2 b5 b5
 367 0
 3
 0 109 0 1
-0 390 1 0
 0 371 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b5 b6
 0
 5
-0 367 0 1
-0 379 -1 0
 0 163 0 1
-0 390 1 0
+0 367 0 1
 0 371 -1 0
+0 379 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b5 b7
 0
 5
-0 367 0 1
-0 380 -1 0
 0 189 0 1
-0 390 1 0
+0 367 0 1
 0 371 -1 0
+0 380 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b5 b8
 0
 5
+0 215 0 1
 0 367 0 1
 0 368 -1 0
-0 215 0 1
-0 390 1 0
 0 371 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b5 b9
 0
 5
-0 367 0 1
-0 381 -1 0
 0 230 0 1
-0 390 1 0
+0 367 0 1
 0 371 -1 0
+0 381 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b6 b0
 0
 5
+0 121 0 1
 0 350 -1 0
 0 379 0 1
-0 121 0 1
-0 390 1 0
 0 389 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b6 b1
 0
 5
+0 122 0 1
 0 376 -1 0
 0 379 0 1
-0 122 0 1
-0 390 1 0
 0 389 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b6 b10
 0
 5
+0 123 0 1
 0 353 -1 0
 0 379 0 1
-0 123 0 1
-0 390 1 0
 0 389 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b6 b11
 0
 5
+0 124 0 1
 0 356 -1 0
 0 379 0 1
-0 124 0 1
-0 390 1 0
 0 389 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b6 b12
 0
 5
+0 125 0 1
 0 377 -1 0
 0 379 0 1
-0 125 0 1
-0 390 1 0
 0 389 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b6 b13
 0
 5
+0 126 0 1
 0 359 -1 0
 0 379 0 1
-0 126 0 1
-0 390 1 0
 0 389 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b6 b14
 0
 5
+0 127 0 1
 0 362 -1 0
 0 379 0 1
-0 127 0 1
-0 390 1 0
 0 389 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b6 b15
 0
 5
+0 128 0 1
 0 365 -1 0
 0 379 0 1
-0 128 0 1
-0 390 1 0
 0 389 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b6 b2
 0
 5
+0 129 0 1
 0 378 -1 0
 0 379 0 1
-0 129 0 1
-0 390 1 0
 0 389 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b6 b3
 0
 5
+0 130 0 1
 0 366 -1 0
 0 379 0 1
-0 130 0 1
-0 390 1 0
 0 389 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b6 b4
 0
 5
+0 131 0 1
 0 259 -1 0
 0 379 0 1
-0 131 0 1
-0 390 1 0
 0 389 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b6 b5
 0
 5
+0 120 0 1
 0 367 -1 0
 0 379 0 1
-0 120 0 1
-0 390 1 0
 0 389 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
@@ -5270,50 +5270,50 @@ pop-end s12 a1 a2 b6 b6
 379 0
 3
 0 164 0 1
-0 390 1 0
 0 389 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b6 b7
 0
 5
+0 190 0 1
 0 379 0 1
 0 380 -1 0
-0 190 0 1
-0 390 1 0
 0 389 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b6 b8
 0
 5
-0 379 0 1
-0 368 -1 0
 0 216 0 1
-0 390 1 0
+0 368 -1 0
+0 379 0 1
 0 389 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b6 b9
 0
 5
+0 231 0 1
 0 379 0 1
 0 381 -1 0
-0 231 0 1
-0 390 1 0
 0 389 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b7 b0
 0
 5
+0 140 0 1
 0 350 -1 0
 0 380 0 1
-0 140 0 1
 0 390 1 0
 0 391 -1 0
 1
@@ -5322,9 +5322,9 @@ begin_operator
 pop-end s12 a1 a2 b7 b1
 0
 5
+0 141 0 1
 0 376 -1 0
 0 380 0 1
-0 141 0 1
 0 390 1 0
 0 391 -1 0
 1
@@ -5333,9 +5333,9 @@ begin_operator
 pop-end s12 a1 a2 b7 b10
 0
 5
+0 142 0 1
 0 353 -1 0
 0 380 0 1
-0 142 0 1
 0 390 1 0
 0 391 -1 0
 1
@@ -5344,9 +5344,9 @@ begin_operator
 pop-end s12 a1 a2 b7 b11
 0
 5
+0 143 0 1
 0 356 -1 0
 0 380 0 1
-0 143 0 1
 0 390 1 0
 0 391 -1 0
 1
@@ -5355,9 +5355,9 @@ begin_operator
 pop-end s12 a1 a2 b7 b12
 0
 5
+0 144 0 1
 0 377 -1 0
 0 380 0 1
-0 144 0 1
 0 390 1 0
 0 391 -1 0
 1
@@ -5366,9 +5366,9 @@ begin_operator
 pop-end s12 a1 a2 b7 b13
 0
 5
+0 145 0 1
 0 359 -1 0
 0 380 0 1
-0 145 0 1
 0 390 1 0
 0 391 -1 0
 1
@@ -5377,9 +5377,9 @@ begin_operator
 pop-end s12 a1 a2 b7 b14
 0
 5
+0 146 0 1
 0 362 -1 0
 0 380 0 1
-0 146 0 1
 0 390 1 0
 0 391 -1 0
 1
@@ -5388,9 +5388,9 @@ begin_operator
 pop-end s12 a1 a2 b7 b15
 0
 5
+0 147 0 1
 0 365 -1 0
 0 380 0 1
-0 147 0 1
 0 390 1 0
 0 391 -1 0
 1
@@ -5399,9 +5399,9 @@ begin_operator
 pop-end s12 a1 a2 b7 b2
 0
 5
+0 148 0 1
 0 378 -1 0
 0 380 0 1
-0 148 0 1
 0 390 1 0
 0 391 -1 0
 1
@@ -5410,9 +5410,9 @@ begin_operator
 pop-end s12 a1 a2 b7 b3
 0
 5
+0 149 0 1
 0 366 -1 0
 0 380 0 1
-0 149 0 1
 0 390 1 0
 0 391 -1 0
 1
@@ -5421,9 +5421,9 @@ begin_operator
 pop-end s12 a1 a2 b7 b4
 0
 5
+0 139 0 1
 0 259 -1 0
 0 380 0 1
-0 139 0 1
 0 390 1 0
 0 391 -1 0
 1
@@ -5432,9 +5432,9 @@ begin_operator
 pop-end s12 a1 a2 b7 b5
 0
 5
+0 150 0 1
 0 367 -1 0
 0 380 0 1
-0 150 0 1
 0 390 1 0
 0 391 -1 0
 1
@@ -5443,9 +5443,9 @@ begin_operator
 pop-end s12 a1 a2 b7 b6
 0
 5
+0 151 0 1
 0 379 -1 0
 0 380 0 1
-0 151 0 1
 0 390 1 0
 0 391 -1 0
 1
@@ -5464,9 +5464,9 @@ begin_operator
 pop-end s12 a1 a2 b7 b8
 0
 5
-0 380 0 1
-0 368 -1 0
 0 217 0 1
+0 368 -1 0
+0 380 0 1
 0 390 1 0
 0 391 -1 0
 1
@@ -5475,9 +5475,9 @@ begin_operator
 pop-end s12 a1 a2 b7 b9
 0
 5
+0 232 0 1
 0 380 0 1
 0 381 -1 0
-0 232 0 1
 0 390 1 0
 0 391 -1 0
 1
@@ -5486,143 +5486,143 @@ begin_operator
 pop-end s12 a1 a2 b8 b0
 0
 5
+0 166 0 1
 0 350 -1 0
 0 368 0 1
-0 166 0 1
-0 390 1 0
 0 373 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b8 b1
 0
 5
-0 376 -1 0
-0 368 0 1
 0 167 0 1
-0 390 1 0
+0 368 0 1
 0 373 -1 0
+0 376 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b8 b10
 0
 5
+0 168 0 1
 0 353 -1 0
 0 368 0 1
-0 168 0 1
-0 390 1 0
 0 373 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b8 b11
 0
 5
+0 169 0 1
 0 356 -1 0
 0 368 0 1
-0 169 0 1
-0 390 1 0
 0 373 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b8 b12
 0
 5
-0 377 -1 0
-0 368 0 1
 0 170 0 1
-0 390 1 0
+0 368 0 1
 0 373 -1 0
+0 377 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b8 b13
 0
 5
+0 171 0 1
 0 359 -1 0
 0 368 0 1
-0 171 0 1
-0 390 1 0
 0 373 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b8 b14
 0
 5
+0 172 0 1
 0 362 -1 0
 0 368 0 1
-0 172 0 1
-0 390 1 0
 0 373 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b8 b15
 0
 5
+0 173 0 1
 0 365 -1 0
 0 368 0 1
-0 173 0 1
-0 390 1 0
 0 373 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b8 b2
 0
 5
-0 378 -1 0
-0 368 0 1
 0 174 0 1
-0 390 1 0
+0 368 0 1
 0 373 -1 0
+0 378 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b8 b3
 0
 5
+0 175 0 1
 0 366 -1 0
 0 368 0 1
-0 175 0 1
-0 390 1 0
 0 373 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b8 b5
 0
 5
+0 176 0 1
 0 367 -1 0
 0 368 0 1
-0 176 0 1
-0 390 1 0
 0 373 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b8 b6
 0
 5
-0 379 -1 0
-0 368 0 1
 0 165 0 1
-0 390 1 0
+0 368 0 1
 0 373 -1 0
+0 379 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b8 b7
 0
 5
-0 380 -1 0
-0 368 0 1
 0 177 0 1
-0 390 1 0
+0 368 0 1
 0 373 -1 0
+0 380 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
@@ -5631,28 +5631,28 @@ pop-end s12 a1 a2 b8 b8
 368 0
 3
 0 218 0 1
-0 390 1 0
 0 373 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b8 b9
 0
 5
-0 368 0 1
-0 381 -1 0
 0 233 0 1
-0 390 1 0
+0 368 0 1
 0 373 -1 0
+0 381 -1 0
+0 390 1 0
 1
 end_operator
 begin_operator
 pop-end s12 a1 a2 b9 b0
 0
 5
+0 0 0 1
 0 350 -1 0
 0 381 0 1
-0 0 0 1
 0 390 1 0
 0 399 -1 0
 1
@@ -5661,9 +5661,9 @@ begin_operator
 pop-end s12 a1 a2 b9 b1
 0
 5
+0 1 0 1
 0 376 -1 0
 0 381 0 1
-0 1 0 1
 0 390 1 0
 0 399 -1 0
 1
@@ -5672,9 +5672,9 @@ begin_operator
 pop-end s12 a1 a2 b9 b10
 0
 5
+0 193 0 1
 0 353 -1 0
 0 381 0 1
-0 193 0 1
 0 390 1 0
 0 399 -1 0
 1
@@ -5683,9 +5683,9 @@ begin_operator
 pop-end s12 a1 a2 b9 b11
 0
 5
+0 194 0 1
 0 356 -1 0
 0 381 0 1
-0 194 0 1
 0 390 1 0
 0 399 -1 0
 1
@@ -5694,9 +5694,9 @@ begin_operator
 pop-end s12 a1 a2 b9 b12
 0
 5
+0 195 0 1
 0 377 -1 0
 0 381 0 1
-0 195 0 1
 0 390 1 0
 0 399 -1 0
 1
@@ -5705,9 +5705,9 @@ begin_operator
 pop-end s12 a1 a2 b9 b13
 0
 5
+0 196 0 1
 0 359 -1 0
 0 381 0 1
-0 196 0 1
 0 390 1 0
 0 399 -1 0
 1
@@ -5716,9 +5716,9 @@ begin_operator
 pop-end s12 a1 a2 b9 b14
 0
 5
+0 197 0 1
 0 362 -1 0
 0 381 0 1
-0 197 0 1
 0 390 1 0
 0 399 -1 0
 1
@@ -5727,9 +5727,9 @@ begin_operator
 pop-end s12 a1 a2 b9 b15
 0
 5
+0 198 0 1
 0 365 -1 0
 0 381 0 1
-0 198 0 1
 0 390 1 0
 0 399 -1 0
 1
@@ -5738,9 +5738,9 @@ begin_operator
 pop-end s12 a1 a2 b9 b2
 0
 5
+0 199 0 1
 0 378 -1 0
 0 381 0 1
-0 199 0 1
 0 390 1 0
 0 399 -1 0
 1
@@ -5749,9 +5749,9 @@ begin_operator
 pop-end s12 a1 a2 b9 b3
 0
 5
+0 200 0 1
 0 366 -1 0
 0 381 0 1
-0 200 0 1
 0 390 1 0
 0 399 -1 0
 1
@@ -5760,9 +5760,9 @@ begin_operator
 pop-end s12 a1 a2 b9 b4
 0
 5
+0 201 0 1
 0 259 -1 0
 0 381 0 1
-0 201 0 1
 0 390 1 0
 0 399 -1 0
 1
@@ -5771,9 +5771,9 @@ begin_operator
 pop-end s12 a1 a2 b9 b5
 0
 5
+0 202 0 1
 0 367 -1 0
 0 381 0 1
-0 202 0 1
 0 390 1 0
 0 399 -1 0
 1
@@ -5782,9 +5782,9 @@ begin_operator
 pop-end s12 a1 a2 b9 b6
 0
 5
+0 203 0 1
 0 379 -1 0
 0 381 0 1
-0 203 0 1
 0 390 1 0
 0 399 -1 0
 1
@@ -5793,9 +5793,9 @@ begin_operator
 pop-end s12 a1 a2 b9 b7
 0
 5
+0 192 0 1
 0 380 -1 0
 0 381 0 1
-0 192 0 1
 0 390 1 0
 0 399 -1 0
 1
@@ -5804,9 +5804,9 @@ begin_operator
 pop-end s12 a1 a2 b9 b8
 0
 5
+0 204 0 1
 0 368 -1 0
 0 381 0 1
-0 204 0 1
 0 390 1 0
 0 399 -1 0
 1
@@ -5827,173 +5827,173 @@ pop-end s13 a1 a3 b0 b0
 352 0
 3
 0 3 0 1
-0 393 1 0
 0 351 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b0 b1
 0
 5
+0 7 0 1
+0 351 -1 0
 0 352 0 1
 0 383 -1 0
-0 7 0 1
 0 393 1 0
-0 351 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b0 b10
 0
 5
+0 12 0 1
+0 351 -1 0
 0 352 0 1
 0 355 -1 0
-0 12 0 1
 0 393 1 0
-0 351 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b0 b11
 0
 5
+0 13 0 1
+0 351 -1 0
 0 352 0 1
 0 358 -1 0
-0 13 0 1
 0 393 1 0
-0 351 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b0 b12
 0
 5
+0 28 0 1
+0 351 -1 0
 0 352 0 1
 0 385 -1 0
-0 28 0 1
 0 393 1 0
-0 351 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b0 b13
 0
 5
+0 33 0 1
+0 351 -1 0
 0 352 0 1
 0 361 -1 0
-0 33 0 1
 0 393 1 0
-0 351 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b0 b14
 0
 5
+0 40 0 1
+0 351 -1 0
 0 352 0 1
 0 364 -1 0
-0 40 0 1
 0 393 1 0
-0 351 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b0 b15
 0
 5
+0 59 0 1
+0 351 -1 0
 0 352 0 1
 0 375 -1 0
-0 59 0 1
 0 393 1 0
-0 351 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b0 b2
 0
 5
+0 72 0 1
+0 351 -1 0
 0 352 0 1
 0 387 -1 0
-0 72 0 1
 0 393 1 0
-0 351 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b0 b3
 0
 5
+0 90 0 1
+0 351 -1 0
 0 352 0 1
 0 370 -1 0
-0 90 0 1
 0 393 1 0
-0 351 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b0 b5
 0
 5
+0 110 0 1
+0 351 -1 0
 0 352 0 1
 0 372 -1 0
-0 110 0 1
 0 393 1 0
-0 351 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b0 b6
 0
 5
+0 152 0 1
+0 351 -1 0
 0 352 0 1
 0 388 -1 0
-0 152 0 1
 0 393 1 0
-0 351 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b0 b7
 0
 5
+0 178 0 1
+0 351 -1 0
 0 352 0 1
 0 392 -1 0
-0 178 0 1
 0 393 1 0
-0 351 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b0 b8
 0
 5
+0 205 0 1
+0 351 -1 0
 0 352 0 1
 0 374 -1 0
-0 205 0 1
 0 393 1 0
-0 351 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b0 b9
 0
 5
-0 352 0 1
-0 394 -1 0
 0 219 0 1
-0 393 1 0
 0 351 -1 0
+0 352 0 1
+0 393 1 0
+0 394 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b1 b0
 0
 5
-0 352 -1 0
-0 383 0 1
 0 2 0 1
-0 393 1 0
+0 352 -1 0
 0 382 -1 0
+0 383 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
@@ -6002,184 +6002,184 @@ pop-end s13 a1 a3 b1 b1
 383 0
 3
 0 16 0 1
-0 393 1 0
 0 382 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b1 b10
 0
 5
-0 383 0 1
-0 355 -1 0
 0 15 0 1
-0 393 1 0
+0 355 -1 0
 0 382 -1 0
+0 383 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b1 b11
 0
 5
-0 383 0 1
-0 358 -1 0
 0 24 0 1
-0 393 1 0
+0 358 -1 0
 0 382 -1 0
+0 383 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b1 b12
 0
 5
+0 29 0 1
+0 382 -1 0
 0 383 0 1
 0 385 -1 0
-0 29 0 1
 0 393 1 0
-0 382 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b1 b13
 0
 5
-0 383 0 1
-0 361 -1 0
 0 34 0 1
-0 393 1 0
+0 361 -1 0
 0 382 -1 0
+0 383 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b1 b14
 0
 5
-0 383 0 1
-0 364 -1 0
 0 41 0 1
-0 393 1 0
+0 364 -1 0
 0 382 -1 0
+0 383 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b1 b15
 0
 5
-0 383 0 1
-0 375 -1 0
 0 60 0 1
-0 393 1 0
+0 375 -1 0
 0 382 -1 0
+0 383 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b1 b2
 0
 5
+0 73 0 1
+0 382 -1 0
 0 383 0 1
 0 387 -1 0
-0 73 0 1
 0 393 1 0
-0 382 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b1 b3
 0
 5
-0 383 0 1
-0 370 -1 0
 0 91 0 1
-0 393 1 0
+0 370 -1 0
 0 382 -1 0
+0 383 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b1 b4
 0
 5
-0 383 0 1
-0 260 -1 0
 0 136 0 1
-0 393 1 0
+0 260 -1 0
 0 382 -1 0
+0 383 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b1 b5
 0
 5
-0 383 0 1
-0 372 -1 0
 0 111 0 1
-0 393 1 0
+0 372 -1 0
 0 382 -1 0
+0 383 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b1 b6
 0
 5
+0 153 0 1
+0 382 -1 0
 0 383 0 1
 0 388 -1 0
-0 153 0 1
 0 393 1 0
-0 382 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b1 b7
 0
 5
+0 179 0 1
+0 382 -1 0
 0 383 0 1
 0 392 -1 0
-0 179 0 1
 0 393 1 0
-0 382 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b1 b8
 0
 5
-0 383 0 1
-0 374 -1 0
 0 206 0 1
-0 393 1 0
+0 374 -1 0
 0 382 -1 0
+0 383 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b1 b9
 0
 5
-0 383 0 1
-0 394 -1 0
 0 220 0 1
-0 393 1 0
 0 382 -1 0
+0 383 0 1
+0 393 1 0
+0 394 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b10 b0
 0
 5
-0 352 -1 0
-0 355 0 1
 0 4 0 1
-0 393 1 0
+0 352 -1 0
 0 354 -1 0
+0 355 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b10 b1
 0
 5
-0 383 -1 0
-0 355 0 1
 0 11 0 1
-0 393 1 0
 0 354 -1 0
+0 355 0 1
+0 383 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
@@ -6188,173 +6188,173 @@ pop-end s13 a1 a3 b10 b10
 355 0
 3
 0 26 0 1
-0 393 1 0
 0 354 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b10 b11
 0
 5
+0 25 0 1
+0 354 -1 0
 0 355 0 1
 0 358 -1 0
-0 25 0 1
 0 393 1 0
-0 354 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b10 b12
 0
 5
+0 27 0 1
+0 354 -1 0
 0 355 0 1
 0 385 -1 0
-0 27 0 1
 0 393 1 0
-0 354 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b10 b13
 0
 5
+0 35 0 1
+0 354 -1 0
 0 355 0 1
 0 361 -1 0
-0 35 0 1
 0 393 1 0
-0 354 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b10 b14
 0
 5
+0 42 0 1
+0 354 -1 0
 0 355 0 1
 0 364 -1 0
-0 42 0 1
 0 393 1 0
-0 354 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b10 b15
 0
 5
+0 61 0 1
+0 354 -1 0
 0 355 0 1
 0 375 -1 0
-0 61 0 1
 0 393 1 0
-0 354 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b10 b2
 0
 5
+0 74 0 1
+0 354 -1 0
 0 355 0 1
 0 387 -1 0
-0 74 0 1
 0 393 1 0
-0 354 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b10 b3
 0
 5
+0 92 0 1
+0 354 -1 0
 0 355 0 1
 0 370 -1 0
-0 92 0 1
 0 393 1 0
-0 354 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b10 b5
 0
 5
+0 112 0 1
+0 354 -1 0
 0 355 0 1
 0 372 -1 0
-0 112 0 1
 0 393 1 0
-0 354 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b10 b6
 0
 5
+0 154 0 1
+0 354 -1 0
 0 355 0 1
 0 388 -1 0
-0 154 0 1
 0 393 1 0
-0 354 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b10 b7
 0
 5
+0 180 0 1
+0 354 -1 0
 0 355 0 1
 0 392 -1 0
-0 180 0 1
 0 393 1 0
-0 354 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b10 b8
 0
 5
+0 207 0 1
+0 354 -1 0
 0 355 0 1
 0 374 -1 0
-0 207 0 1
 0 393 1 0
-0 354 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b10 b9
 0
 5
-0 355 0 1
-0 394 -1 0
 0 221 0 1
-0 393 1 0
 0 354 -1 0
+0 355 0 1
+0 393 1 0
+0 394 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b11 b0
 0
 5
-0 352 -1 0
-0 358 0 1
 0 5 0 1
-0 393 1 0
+0 352 -1 0
 0 357 -1 0
+0 358 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b11 b1
 0
 5
-0 383 -1 0
-0 358 0 1
 0 6 0 1
-0 393 1 0
 0 357 -1 0
+0 358 0 1
+0 383 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b11 b10
 0
 5
-0 355 -1 0
-0 358 0 1
 0 14 0 1
-0 393 1 0
+0 355 -1 0
 0 357 -1 0
+0 358 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
@@ -6363,173 +6363,173 @@ pop-end s13 a1 a3 b11 b11
 358 0
 3
 0 31 0 1
-0 393 1 0
 0 357 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b11 b12
 0
 5
+0 30 0 1
+0 357 -1 0
 0 358 0 1
 0 385 -1 0
-0 30 0 1
 0 393 1 0
-0 357 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b11 b13
 0
 5
+0 32 0 1
+0 357 -1 0
 0 358 0 1
 0 361 -1 0
-0 32 0 1
 0 393 1 0
-0 357 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b11 b14
 0
 5
+0 43 0 1
+0 357 -1 0
 0 358 0 1
 0 364 -1 0
-0 43 0 1
 0 393 1 0
-0 357 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b11 b15
 0
 5
+0 62 0 1
+0 357 -1 0
 0 358 0 1
 0 375 -1 0
-0 62 0 1
 0 393 1 0
-0 357 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b11 b2
 0
 5
+0 75 0 1
+0 357 -1 0
 0 358 0 1
 0 387 -1 0
-0 75 0 1
 0 393 1 0
-0 357 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b11 b3
 0
 5
+0 93 0 1
+0 357 -1 0
 0 358 0 1
 0 370 -1 0
-0 93 0 1
 0 393 1 0
-0 357 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b11 b5
 0
 5
+0 113 0 1
+0 357 -1 0
 0 358 0 1
 0 372 -1 0
-0 113 0 1
 0 393 1 0
-0 357 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b11 b6
 0
 5
+0 155 0 1
+0 357 -1 0
 0 358 0 1
 0 388 -1 0
-0 155 0 1
 0 393 1 0
-0 357 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b11 b7
 0
 5
+0 181 0 1
+0 357 -1 0
 0 358 0 1
 0 392 -1 0
-0 181 0 1
 0 393 1 0
-0 357 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b11 b8
 0
 5
+0 208 0 1
+0 357 -1 0
 0 358 0 1
 0 374 -1 0
-0 208 0 1
 0 393 1 0
-0 357 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b11 b9
 0
 5
-0 358 0 1
-0 394 -1 0
 0 222 0 1
-0 393 1 0
 0 357 -1 0
+0 358 0 1
+0 393 1 0
+0 394 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b12 b0
 0
 5
-0 352 -1 0
-0 385 0 1
 0 8 0 1
-0 393 1 0
+0 352 -1 0
 0 384 -1 0
+0 385 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b12 b1
 0
 5
-0 383 -1 0
-0 385 0 1
 0 9 0 1
-0 393 1 0
+0 383 -1 0
 0 384 -1 0
+0 385 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b12 b10
 0
 5
-0 355 -1 0
-0 385 0 1
 0 10 0 1
-0 393 1 0
+0 355 -1 0
 0 384 -1 0
+0 385 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b12 b11
 0
 5
-0 358 -1 0
-0 385 0 1
 0 37 0 1
-0 393 1 0
+0 358 -1 0
 0 384 -1 0
+0 385 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
@@ -6538,184 +6538,184 @@ pop-end s13 a1 a3 b12 b12
 385 0
 3
 0 38 0 1
-0 393 1 0
 0 384 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b12 b13
 0
 5
-0 385 0 1
-0 361 -1 0
 0 36 0 1
-0 393 1 0
+0 361 -1 0
 0 384 -1 0
+0 385 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b12 b14
 0
 5
-0 385 0 1
-0 364 -1 0
 0 39 0 1
-0 393 1 0
+0 364 -1 0
 0 384 -1 0
+0 385 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b12 b15
 0
 5
-0 385 0 1
-0 375 -1 0
 0 63 0 1
-0 393 1 0
+0 375 -1 0
 0 384 -1 0
+0 385 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b12 b2
 0
 5
+0 76 0 1
+0 384 -1 0
 0 385 0 1
 0 387 -1 0
-0 76 0 1
 0 393 1 0
-0 384 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b12 b3
 0
 5
-0 385 0 1
-0 370 -1 0
 0 94 0 1
-0 393 1 0
+0 370 -1 0
 0 384 -1 0
+0 385 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b12 b4
 0
 5
-0 385 0 1
-0 260 -1 0
 0 137 0 1
-0 393 1 0
+0 260 -1 0
 0 384 -1 0
+0 385 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b12 b5
 0
 5
-0 385 0 1
-0 372 -1 0
 0 114 0 1
-0 393 1 0
+0 372 -1 0
 0 384 -1 0
+0 385 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b12 b6
 0
 5
+0 156 0 1
+0 384 -1 0
 0 385 0 1
 0 388 -1 0
-0 156 0 1
 0 393 1 0
-0 384 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b12 b7
 0
 5
+0 182 0 1
+0 384 -1 0
 0 385 0 1
 0 392 -1 0
-0 182 0 1
 0 393 1 0
-0 384 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b12 b8
 0
 5
-0 385 0 1
-0 374 -1 0
 0 209 0 1
-0 393 1 0
+0 374 -1 0
 0 384 -1 0
+0 385 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b12 b9
 0
 5
-0 385 0 1
-0 394 -1 0
 0 223 0 1
-0 393 1 0
 0 384 -1 0
+0 385 0 1
+0 393 1 0
+0 394 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b13 b0
 0
 5
-0 352 -1 0
-0 361 0 1
 0 18 0 1
-0 393 1 0
+0 352 -1 0
 0 360 -1 0
+0 361 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b13 b1
 0
 5
-0 383 -1 0
-0 361 0 1
 0 17 0 1
-0 393 1 0
 0 360 -1 0
+0 361 0 1
+0 383 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b13 b10
 0
 5
-0 355 -1 0
-0 361 0 1
 0 19 0 1
-0 393 1 0
+0 355 -1 0
 0 360 -1 0
+0 361 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b13 b11
 0
 5
-0 358 -1 0
-0 361 0 1
 0 45 0 1
-0 393 1 0
+0 358 -1 0
 0 360 -1 0
+0 361 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b13 b12
 0
 5
-0 385 -1 0
-0 361 0 1
 0 46 0 1
-0 393 1 0
 0 360 -1 0
+0 361 0 1
+0 385 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
@@ -6724,173 +6724,173 @@ pop-end s13 a1 a3 b13 b13
 361 0
 3
 0 47 0 1
-0 393 1 0
 0 360 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b13 b14
 0
 5
+0 44 0 1
+0 360 -1 0
 0 361 0 1
 0 364 -1 0
-0 44 0 1
 0 393 1 0
-0 360 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b13 b15
 0
 5
+0 48 0 1
+0 360 -1 0
 0 361 0 1
 0 375 -1 0
-0 48 0 1
 0 393 1 0
-0 360 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b13 b2
 0
 5
+0 77 0 1
+0 360 -1 0
 0 361 0 1
 0 387 -1 0
-0 77 0 1
 0 393 1 0
-0 360 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b13 b3
 0
 5
+0 95 0 1
+0 360 -1 0
 0 361 0 1
 0 370 -1 0
-0 95 0 1
 0 393 1 0
-0 360 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b13 b5
 0
 5
+0 115 0 1
+0 360 -1 0
 0 361 0 1
 0 372 -1 0
-0 115 0 1
 0 393 1 0
-0 360 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b13 b6
 0
 5
+0 157 0 1
+0 360 -1 0
 0 361 0 1
 0 388 -1 0
-0 157 0 1
 0 393 1 0
-0 360 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b13 b7
 0
 5
+0 183 0 1
+0 360 -1 0
 0 361 0 1
 0 392 -1 0
-0 183 0 1
 0 393 1 0
-0 360 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b13 b8
 0
 5
+0 210 0 1
+0 360 -1 0
 0 361 0 1
 0 374 -1 0
-0 210 0 1
 0 393 1 0
-0 360 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b13 b9
 0
 5
-0 361 0 1
-0 394 -1 0
 0 224 0 1
-0 393 1 0
 0 360 -1 0
+0 361 0 1
+0 393 1 0
+0 394 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b14 b0
 0
 5
-0 352 -1 0
-0 364 0 1
 0 20 0 1
-0 393 1 0
+0 352 -1 0
 0 363 -1 0
+0 364 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b14 b1
 0
 5
-0 383 -1 0
-0 364 0 1
 0 21 0 1
-0 393 1 0
 0 363 -1 0
+0 364 0 1
+0 383 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b14 b10
 0
 5
-0 355 -1 0
-0 364 0 1
 0 22 0 1
-0 393 1 0
+0 355 -1 0
 0 363 -1 0
+0 364 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b14 b11
 0
 5
-0 358 -1 0
-0 364 0 1
 0 23 0 1
-0 393 1 0
+0 358 -1 0
 0 363 -1 0
+0 364 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b14 b12
 0
 5
-0 385 -1 0
-0 364 0 1
 0 237 0 1
-0 393 1 0
 0 363 -1 0
+0 364 0 1
+0 385 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b14 b13
 0
 5
-0 361 -1 0
-0 364 0 1
 0 236 0 1
-0 393 1 0
+0 361 -1 0
 0 363 -1 0
+0 364 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
@@ -6899,105 +6899,105 @@ pop-end s13 a1 a3 b14 b14
 364 0
 3
 0 235 0 1
-0 393 1 0
 0 363 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b14 b15
 0
 5
+0 64 0 1
+0 363 -1 0
 0 364 0 1
 0 375 -1 0
-0 64 0 1
 0 393 1 0
-0 363 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b14 b2
 0
 5
+0 78 0 1
+0 363 -1 0
 0 364 0 1
 0 387 -1 0
-0 78 0 1
 0 393 1 0
-0 363 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b14 b3
 0
 5
+0 96 0 1
+0 363 -1 0
 0 364 0 1
 0 370 -1 0
-0 96 0 1
 0 393 1 0
-0 363 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b14 b5
 0
 5
+0 116 0 1
+0 363 -1 0
 0 364 0 1
 0 372 -1 0
-0 116 0 1
 0 393 1 0
-0 363 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b14 b6
 0
 5
+0 158 0 1
+0 363 -1 0
 0 364 0 1
 0 388 -1 0
-0 158 0 1
 0 393 1 0
-0 363 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b14 b7
 0
 5
+0 184 0 1
+0 363 -1 0
 0 364 0 1
 0 392 -1 0
-0 184 0 1
 0 393 1 0
-0 363 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b14 b8
 0
 5
+0 211 0 1
+0 363 -1 0
 0 364 0 1
 0 374 -1 0
-0 211 0 1
 0 393 1 0
-0 363 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b14 b9
 0
 5
-0 364 0 1
-0 394 -1 0
 0 225 0 1
-0 393 1 0
 0 363 -1 0
+0 364 0 1
+0 393 1 0
+0 394 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b15 b0
 0
 5
+0 49 0 1
 0 352 -1 0
 0 375 0 1
-0 49 0 1
 0 393 1 0
 0 398 -1 0
 1
@@ -7006,9 +7006,9 @@ begin_operator
 pop-end s13 a1 a3 b15 b1
 0
 5
-0 383 -1 0
-0 375 0 1
 0 50 0 1
+0 375 0 1
+0 383 -1 0
 0 393 1 0
 0 398 -1 0
 1
@@ -7017,9 +7017,9 @@ begin_operator
 pop-end s13 a1 a3 b15 b10
 0
 5
+0 66 0 1
 0 355 -1 0
 0 375 0 1
-0 66 0 1
 0 393 1 0
 0 398 -1 0
 1
@@ -7028,9 +7028,9 @@ begin_operator
 pop-end s13 a1 a3 b15 b11
 0
 5
+0 67 0 1
 0 358 -1 0
 0 375 0 1
-0 67 0 1
 0 393 1 0
 0 398 -1 0
 1
@@ -7039,9 +7039,9 @@ begin_operator
 pop-end s13 a1 a3 b15 b12
 0
 5
-0 385 -1 0
-0 375 0 1
 0 68 0 1
+0 375 0 1
+0 385 -1 0
 0 393 1 0
 0 398 -1 0
 1
@@ -7050,9 +7050,9 @@ begin_operator
 pop-end s13 a1 a3 b15 b13
 0
 5
+0 69 0 1
 0 361 -1 0
 0 375 0 1
-0 69 0 1
 0 393 1 0
 0 398 -1 0
 1
@@ -7061,9 +7061,9 @@ begin_operator
 pop-end s13 a1 a3 b15 b14
 0
 5
+0 70 0 1
 0 364 -1 0
 0 375 0 1
-0 70 0 1
 0 393 1 0
 0 398 -1 0
 1
@@ -7082,9 +7082,9 @@ begin_operator
 pop-end s13 a1 a3 b15 b2
 0
 5
+0 71 0 1
 0 375 0 1
 0 387 -1 0
-0 71 0 1
 0 393 1 0
 0 398 -1 0
 1
@@ -7093,9 +7093,9 @@ begin_operator
 pop-end s13 a1 a3 b15 b3
 0
 5
-0 375 0 1
-0 370 -1 0
 0 97 0 1
+0 370 -1 0
+0 375 0 1
 0 393 1 0
 0 398 -1 0
 1
@@ -7104,9 +7104,9 @@ begin_operator
 pop-end s13 a1 a3 b15 b5
 0
 5
-0 375 0 1
-0 372 -1 0
 0 117 0 1
+0 372 -1 0
+0 375 0 1
 0 393 1 0
 0 398 -1 0
 1
@@ -7115,9 +7115,9 @@ begin_operator
 pop-end s13 a1 a3 b15 b6
 0
 5
+0 159 0 1
 0 375 0 1
 0 388 -1 0
-0 159 0 1
 0 393 1 0
 0 398 -1 0
 1
@@ -7126,9 +7126,9 @@ begin_operator
 pop-end s13 a1 a3 b15 b7
 0
 5
+0 185 0 1
 0 375 0 1
 0 392 -1 0
-0 185 0 1
 0 393 1 0
 0 398 -1 0
 1
@@ -7137,9 +7137,9 @@ begin_operator
 pop-end s13 a1 a3 b15 b8
 0
 5
-0 375 0 1
-0 374 -1 0
 0 212 0 1
+0 374 -1 0
+0 375 0 1
 0 393 1 0
 0 398 -1 0
 1
@@ -7148,10 +7148,10 @@ begin_operator
 pop-end s13 a1 a3 b15 b9
 0
 5
-0 375 0 1
-0 394 -1 0
 0 226 0 1
+0 375 0 1
 0 393 1 0
+0 394 -1 0
 0 398 -1 0
 1
 end_operator
@@ -7159,88 +7159,88 @@ begin_operator
 pop-end s13 a1 a3 b2 b0
 0
 5
-0 352 -1 0
-0 387 0 1
 0 52 0 1
-0 393 1 0
+0 352 -1 0
 0 386 -1 0
+0 387 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b2 b1
 0
 5
-0 383 -1 0
-0 387 0 1
 0 51 0 1
-0 393 1 0
+0 383 -1 0
 0 386 -1 0
+0 387 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b2 b10
 0
 5
-0 355 -1 0
-0 387 0 1
 0 53 0 1
-0 393 1 0
+0 355 -1 0
 0 386 -1 0
+0 387 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b2 b11
 0
 5
-0 358 -1 0
-0 387 0 1
 0 54 0 1
-0 393 1 0
+0 358 -1 0
 0 386 -1 0
+0 387 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b2 b12
 0
 5
-0 385 -1 0
-0 387 0 1
 0 55 0 1
-0 393 1 0
+0 385 -1 0
 0 386 -1 0
+0 387 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b2 b13
 0
 5
-0 361 -1 0
-0 387 0 1
 0 56 0 1
-0 393 1 0
+0 361 -1 0
 0 386 -1 0
+0 387 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b2 b14
 0
 5
-0 364 -1 0
-0 387 0 1
 0 57 0 1
-0 393 1 0
+0 364 -1 0
 0 386 -1 0
+0 387 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b2 b15
 0
 5
-0 375 -1 0
-0 387 0 1
 0 58 0 1
-0 393 1 0
+0 375 -1 0
 0 386 -1 0
+0 387 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
@@ -7249,184 +7249,184 @@ pop-end s13 a1 a3 b2 b2
 387 0
 3
 0 79 0 1
-0 393 1 0
 0 386 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b2 b3
 0
 5
-0 387 0 1
-0 370 -1 0
 0 98 0 1
-0 393 1 0
+0 370 -1 0
 0 386 -1 0
+0 387 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b2 b4
 0
 5
-0 387 0 1
-0 260 -1 0
 0 138 0 1
-0 393 1 0
+0 260 -1 0
 0 386 -1 0
+0 387 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b2 b5
 0
 5
-0 387 0 1
-0 372 -1 0
 0 118 0 1
-0 393 1 0
+0 372 -1 0
 0 386 -1 0
+0 387 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b2 b6
 0
 5
+0 160 0 1
+0 386 -1 0
 0 387 0 1
 0 388 -1 0
-0 160 0 1
 0 393 1 0
-0 386 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b2 b7
 0
 5
+0 186 0 1
+0 386 -1 0
 0 387 0 1
 0 392 -1 0
-0 186 0 1
 0 393 1 0
-0 386 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b2 b8
 0
 5
-0 387 0 1
-0 374 -1 0
 0 213 0 1
-0 393 1 0
+0 374 -1 0
 0 386 -1 0
+0 387 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b2 b9
 0
 5
-0 387 0 1
-0 394 -1 0
 0 227 0 1
-0 393 1 0
 0 386 -1 0
+0 387 0 1
+0 393 1 0
+0 394 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b3 b0
 0
 5
-0 352 -1 0
-0 370 0 1
 0 81 0 1
-0 393 1 0
+0 352 -1 0
 0 369 -1 0
+0 370 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b3 b1
 0
 5
-0 383 -1 0
-0 370 0 1
 0 82 0 1
-0 393 1 0
 0 369 -1 0
+0 370 0 1
+0 383 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b3 b10
 0
 5
-0 355 -1 0
-0 370 0 1
 0 83 0 1
-0 393 1 0
+0 355 -1 0
 0 369 -1 0
+0 370 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b3 b11
 0
 5
-0 358 -1 0
-0 370 0 1
 0 84 0 1
-0 393 1 0
+0 358 -1 0
 0 369 -1 0
+0 370 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b3 b12
 0
 5
-0 385 -1 0
-0 370 0 1
 0 85 0 1
-0 393 1 0
 0 369 -1 0
+0 370 0 1
+0 385 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b3 b13
 0
 5
-0 361 -1 0
-0 370 0 1
 0 86 0 1
-0 393 1 0
+0 361 -1 0
 0 369 -1 0
+0 370 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b3 b14
 0
 5
-0 364 -1 0
-0 370 0 1
 0 87 0 1
-0 393 1 0
+0 364 -1 0
 0 369 -1 0
+0 370 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b3 b15
 0
 5
-0 375 -1 0
-0 370 0 1
 0 88 0 1
-0 393 1 0
 0 369 -1 0
+0 370 0 1
+0 375 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b3 b2
 0
 5
-0 387 -1 0
-0 370 0 1
 0 80 0 1
-0 393 1 0
 0 369 -1 0
+0 370 0 1
+0 387 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
@@ -7435,96 +7435,96 @@ pop-end s13 a1 a3 b3 b3
 370 0
 3
 0 89 0 1
-0 393 1 0
 0 369 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b3 b5
 0
 5
+0 119 0 1
+0 369 -1 0
 0 370 0 1
 0 372 -1 0
-0 119 0 1
 0 393 1 0
-0 369 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b3 b6
 0
 5
+0 161 0 1
+0 369 -1 0
 0 370 0 1
 0 388 -1 0
-0 161 0 1
 0 393 1 0
-0 369 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b3 b7
 0
 5
+0 187 0 1
+0 369 -1 0
 0 370 0 1
 0 392 -1 0
-0 187 0 1
 0 393 1 0
-0 369 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b3 b8
 0
 5
+0 214 0 1
+0 369 -1 0
 0 370 0 1
 0 374 -1 0
-0 214 0 1
 0 393 1 0
-0 369 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b3 b9
 0
 5
-0 370 0 1
-0 394 -1 0
 0 228 0 1
-0 393 1 0
 0 369 -1 0
+0 370 0 1
+0 393 1 0
+0 394 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b4 b1
 0
 5
-0 383 -1 0
-0 260 0 1
 0 132 0 1
-0 393 1 0
+0 260 0 1
 0 261 -1 0
+0 383 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b4 b12
 0
 5
-0 385 -1 0
-0 260 0 1
 0 133 0 1
-0 393 1 0
+0 260 0 1
 0 261 -1 0
+0 385 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b4 b2
 0
 5
-0 387 -1 0
-0 260 0 1
 0 134 0 1
-0 393 1 0
+0 260 0 1
 0 261 -1 0
+0 387 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
@@ -7533,151 +7533,151 @@ pop-end s13 a1 a3 b4 b4
 260 0
 3
 0 135 0 1
-0 393 1 0
 0 261 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b4 b6
 0
 5
-0 260 0 1
-0 388 -1 0
 0 162 0 1
-0 393 1 0
+0 260 0 1
 0 261 -1 0
+0 388 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b4 b7
 0
 5
-0 260 0 1
-0 392 -1 0
 0 188 0 1
-0 393 1 0
+0 260 0 1
 0 261 -1 0
+0 392 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b4 b9
 0
 5
-0 260 0 1
-0 394 -1 0
 0 229 0 1
-0 393 1 0
+0 260 0 1
 0 261 -1 0
+0 393 1 0
+0 394 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b5 b0
 0
 5
-0 352 -1 0
-0 372 0 1
 0 100 0 1
-0 393 1 0
+0 352 -1 0
 0 371 -1 0
+0 372 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b5 b1
 0
 5
-0 383 -1 0
-0 372 0 1
 0 101 0 1
-0 393 1 0
 0 371 -1 0
+0 372 0 1
+0 383 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b5 b10
 0
 5
-0 355 -1 0
-0 372 0 1
 0 102 0 1
-0 393 1 0
+0 355 -1 0
 0 371 -1 0
+0 372 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b5 b11
 0
 5
-0 358 -1 0
-0 372 0 1
 0 103 0 1
-0 393 1 0
+0 358 -1 0
 0 371 -1 0
+0 372 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b5 b12
 0
 5
-0 385 -1 0
-0 372 0 1
 0 104 0 1
-0 393 1 0
 0 371 -1 0
+0 372 0 1
+0 385 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b5 b13
 0
 5
-0 361 -1 0
-0 372 0 1
 0 105 0 1
-0 393 1 0
+0 361 -1 0
 0 371 -1 0
+0 372 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b5 b14
 0
 5
-0 364 -1 0
-0 372 0 1
 0 106 0 1
-0 393 1 0
+0 364 -1 0
 0 371 -1 0
+0 372 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b5 b15
 0
 5
-0 375 -1 0
-0 372 0 1
 0 107 0 1
-0 393 1 0
 0 371 -1 0
+0 372 0 1
+0 375 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b5 b2
 0
 5
-0 387 -1 0
-0 372 0 1
 0 108 0 1
-0 393 1 0
 0 371 -1 0
+0 372 0 1
+0 387 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b5 b3
 0
 5
-0 370 -1 0
-0 372 0 1
 0 99 0 1
-0 393 1 0
+0 370 -1 0
 0 371 -1 0
+0 372 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
@@ -7686,184 +7686,184 @@ pop-end s13 a1 a3 b5 b5
 372 0
 3
 0 109 0 1
-0 393 1 0
 0 371 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b5 b6
 0
 5
+0 163 0 1
+0 371 -1 0
 0 372 0 1
 0 388 -1 0
-0 163 0 1
 0 393 1 0
-0 371 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b5 b7
 0
 5
+0 189 0 1
+0 371 -1 0
 0 372 0 1
 0 392 -1 0
-0 189 0 1
 0 393 1 0
-0 371 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b5 b8
 0
 5
+0 215 0 1
+0 371 -1 0
 0 372 0 1
 0 374 -1 0
-0 215 0 1
 0 393 1 0
-0 371 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b5 b9
 0
 5
-0 372 0 1
-0 394 -1 0
 0 230 0 1
-0 393 1 0
 0 371 -1 0
+0 372 0 1
+0 393 1 0
+0 394 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b6 b0
 0
 5
+0 121 0 1
 0 352 -1 0
 0 388 0 1
-0 121 0 1
-0 393 1 0
 0 389 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b6 b1
 0
 5
+0 122 0 1
 0 383 -1 0
 0 388 0 1
-0 122 0 1
-0 393 1 0
 0 389 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b6 b10
 0
 5
+0 123 0 1
 0 355 -1 0
 0 388 0 1
-0 123 0 1
-0 393 1 0
 0 389 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b6 b11
 0
 5
+0 124 0 1
 0 358 -1 0
 0 388 0 1
-0 124 0 1
-0 393 1 0
 0 389 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b6 b12
 0
 5
+0 125 0 1
 0 385 -1 0
 0 388 0 1
-0 125 0 1
-0 393 1 0
 0 389 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b6 b13
 0
 5
+0 126 0 1
 0 361 -1 0
 0 388 0 1
-0 126 0 1
-0 393 1 0
 0 389 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b6 b14
 0
 5
+0 127 0 1
 0 364 -1 0
 0 388 0 1
-0 127 0 1
-0 393 1 0
 0 389 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b6 b15
 0
 5
+0 128 0 1
 0 375 -1 0
 0 388 0 1
-0 128 0 1
-0 393 1 0
 0 389 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b6 b2
 0
 5
+0 129 0 1
 0 387 -1 0
 0 388 0 1
-0 129 0 1
-0 393 1 0
 0 389 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b6 b3
 0
 5
+0 130 0 1
 0 370 -1 0
 0 388 0 1
-0 130 0 1
-0 393 1 0
 0 389 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b6 b4
 0
 5
+0 131 0 1
 0 260 -1 0
 0 388 0 1
-0 131 0 1
-0 393 1 0
 0 389 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b6 b5
 0
 5
+0 120 0 1
 0 372 -1 0
 0 388 0 1
-0 120 0 1
-0 393 1 0
 0 389 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
@@ -7872,184 +7872,184 @@ pop-end s13 a1 a3 b6 b6
 388 0
 3
 0 164 0 1
-0 393 1 0
 0 389 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b6 b7
 0
 5
-0 388 0 1
-0 392 -1 0
 0 190 0 1
-0 393 1 0
+0 388 0 1
 0 389 -1 0
+0 392 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b6 b8
 0
 5
-0 388 0 1
-0 374 -1 0
 0 216 0 1
-0 393 1 0
+0 374 -1 0
+0 388 0 1
 0 389 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b6 b9
 0
 5
-0 388 0 1
-0 394 -1 0
 0 231 0 1
-0 393 1 0
+0 388 0 1
 0 389 -1 0
+0 393 1 0
+0 394 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b7 b0
 0
 5
-0 352 -1 0
-0 392 0 1
 0 140 0 1
-0 393 1 0
+0 352 -1 0
 0 391 -1 0
+0 392 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b7 b1
 0
 5
-0 383 -1 0
-0 392 0 1
 0 141 0 1
-0 393 1 0
+0 383 -1 0
 0 391 -1 0
+0 392 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b7 b10
 0
 5
-0 355 -1 0
-0 392 0 1
 0 142 0 1
-0 393 1 0
+0 355 -1 0
 0 391 -1 0
+0 392 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b7 b11
 0
 5
-0 358 -1 0
-0 392 0 1
 0 143 0 1
-0 393 1 0
+0 358 -1 0
 0 391 -1 0
+0 392 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b7 b12
 0
 5
-0 385 -1 0
-0 392 0 1
 0 144 0 1
-0 393 1 0
+0 385 -1 0
 0 391 -1 0
+0 392 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b7 b13
 0
 5
-0 361 -1 0
-0 392 0 1
 0 145 0 1
-0 393 1 0
+0 361 -1 0
 0 391 -1 0
+0 392 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b7 b14
 0
 5
-0 364 -1 0
-0 392 0 1
 0 146 0 1
-0 393 1 0
+0 364 -1 0
 0 391 -1 0
+0 392 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b7 b15
 0
 5
-0 375 -1 0
-0 392 0 1
 0 147 0 1
-0 393 1 0
+0 375 -1 0
 0 391 -1 0
+0 392 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b7 b2
 0
 5
-0 387 -1 0
-0 392 0 1
 0 148 0 1
-0 393 1 0
+0 387 -1 0
 0 391 -1 0
+0 392 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b7 b3
 0
 5
-0 370 -1 0
-0 392 0 1
 0 149 0 1
-0 393 1 0
+0 370 -1 0
 0 391 -1 0
+0 392 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b7 b4
 0
 5
-0 260 -1 0
-0 392 0 1
 0 139 0 1
-0 393 1 0
+0 260 -1 0
 0 391 -1 0
+0 392 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b7 b5
 0
 5
-0 372 -1 0
-0 392 0 1
 0 150 0 1
-0 393 1 0
+0 372 -1 0
 0 391 -1 0
+0 392 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b7 b6
 0
 5
-0 388 -1 0
-0 392 0 1
 0 151 0 1
-0 393 1 0
+0 388 -1 0
 0 391 -1 0
+0 392 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
@@ -8058,173 +8058,173 @@ pop-end s13 a1 a3 b7 b7
 392 0
 3
 0 191 0 1
-0 393 1 0
 0 391 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b7 b8
 0
 5
-0 392 0 1
-0 374 -1 0
 0 217 0 1
-0 393 1 0
+0 374 -1 0
 0 391 -1 0
+0 392 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b7 b9
 0
 5
-0 392 0 1
-0 394 -1 0
 0 232 0 1
-0 393 1 0
 0 391 -1 0
+0 392 0 1
+0 393 1 0
+0 394 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b8 b0
 0
 5
-0 352 -1 0
-0 374 0 1
 0 166 0 1
-0 393 1 0
+0 352 -1 0
 0 373 -1 0
+0 374 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b8 b1
 0
 5
-0 383 -1 0
-0 374 0 1
 0 167 0 1
-0 393 1 0
 0 373 -1 0
+0 374 0 1
+0 383 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b8 b10
 0
 5
-0 355 -1 0
-0 374 0 1
 0 168 0 1
-0 393 1 0
+0 355 -1 0
 0 373 -1 0
+0 374 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b8 b11
 0
 5
-0 358 -1 0
-0 374 0 1
 0 169 0 1
-0 393 1 0
+0 358 -1 0
 0 373 -1 0
+0 374 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b8 b12
 0
 5
-0 385 -1 0
-0 374 0 1
 0 170 0 1
-0 393 1 0
 0 373 -1 0
+0 374 0 1
+0 385 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b8 b13
 0
 5
-0 361 -1 0
-0 374 0 1
 0 171 0 1
-0 393 1 0
+0 361 -1 0
 0 373 -1 0
+0 374 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b8 b14
 0
 5
-0 364 -1 0
-0 374 0 1
 0 172 0 1
-0 393 1 0
+0 364 -1 0
 0 373 -1 0
+0 374 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b8 b15
 0
 5
-0 375 -1 0
-0 374 0 1
 0 173 0 1
-0 393 1 0
 0 373 -1 0
+0 374 0 1
+0 375 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b8 b2
 0
 5
-0 387 -1 0
-0 374 0 1
 0 174 0 1
-0 393 1 0
 0 373 -1 0
+0 374 0 1
+0 387 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b8 b3
 0
 5
-0 370 -1 0
-0 374 0 1
 0 175 0 1
-0 393 1 0
+0 370 -1 0
 0 373 -1 0
+0 374 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b8 b5
 0
 5
-0 372 -1 0
-0 374 0 1
 0 176 0 1
-0 393 1 0
+0 372 -1 0
 0 373 -1 0
+0 374 0 1
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b8 b6
 0
 5
-0 388 -1 0
-0 374 0 1
 0 165 0 1
-0 393 1 0
 0 373 -1 0
+0 374 0 1
+0 388 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b8 b7
 0
 5
-0 392 -1 0
-0 374 0 1
 0 177 0 1
-0 393 1 0
 0 373 -1 0
+0 374 0 1
+0 392 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
@@ -8233,29 +8233,29 @@ pop-end s13 a1 a3 b8 b8
 374 0
 3
 0 218 0 1
-0 393 1 0
 0 373 -1 0
+0 393 1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b8 b9
 0
 5
-0 374 0 1
-0 394 -1 0
 0 233 0 1
-0 393 1 0
 0 373 -1 0
+0 374 0 1
+0 393 1 0
+0 394 -1 0
 1
 end_operator
 begin_operator
 pop-end s13 a1 a3 b9 b0
 0
 5
-0 352 -1 0
-0 394 0 1
 0 0 0 1
+0 352 -1 0
 0 393 1 0
+0 394 0 1
 0 399 -1 0
 1
 end_operator
@@ -8263,10 +8263,10 @@ begin_operator
 pop-end s13 a1 a3 b9 b1
 0
 5
-0 383 -1 0
-0 394 0 1
 0 1 0 1
+0 383 -1 0
 0 393 1 0
+0 394 0 1
 0 399 -1 0
 1
 end_operator
@@ -8274,10 +8274,10 @@ begin_operator
 pop-end s13 a1 a3 b9 b10
 0
 5
-0 355 -1 0
-0 394 0 1
 0 193 0 1
+0 355 -1 0
 0 393 1 0
+0 394 0 1
 0 399 -1 0
 1
 end_operator
@@ -8285,10 +8285,10 @@ begin_operator
 pop-end s13 a1 a3 b9 b11
 0
 5
-0 358 -1 0
-0 394 0 1
 0 194 0 1
+0 358 -1 0
 0 393 1 0
+0 394 0 1
 0 399 -1 0
 1
 end_operator
@@ -8296,10 +8296,10 @@ begin_operator
 pop-end s13 a1 a3 b9 b12
 0
 5
-0 385 -1 0
-0 394 0 1
 0 195 0 1
+0 385 -1 0
 0 393 1 0
+0 394 0 1
 0 399 -1 0
 1
 end_operator
@@ -8307,10 +8307,10 @@ begin_operator
 pop-end s13 a1 a3 b9 b13
 0
 5
-0 361 -1 0
-0 394 0 1
 0 196 0 1
+0 361 -1 0
 0 393 1 0
+0 394 0 1
 0 399 -1 0
 1
 end_operator
@@ -8318,10 +8318,10 @@ begin_operator
 pop-end s13 a1 a3 b9 b14
 0
 5
-0 364 -1 0
-0 394 0 1
 0 197 0 1
+0 364 -1 0
 0 393 1 0
+0 394 0 1
 0 399 -1 0
 1
 end_operator
@@ -8329,10 +8329,10 @@ begin_operator
 pop-end s13 a1 a3 b9 b15
 0
 5
-0 375 -1 0
-0 394 0 1
 0 198 0 1
+0 375 -1 0
 0 393 1 0
+0 394 0 1
 0 399 -1 0
 1
 end_operator
@@ -8340,10 +8340,10 @@ begin_operator
 pop-end s13 a1 a3 b9 b2
 0
 5
-0 387 -1 0
-0 394 0 1
 0 199 0 1
+0 387 -1 0
 0 393 1 0
+0 394 0 1
 0 399 -1 0
 1
 end_operator
@@ -8351,10 +8351,10 @@ begin_operator
 pop-end s13 a1 a3 b9 b3
 0
 5
-0 370 -1 0
-0 394 0 1
 0 200 0 1
+0 370 -1 0
 0 393 1 0
+0 394 0 1
 0 399 -1 0
 1
 end_operator
@@ -8362,10 +8362,10 @@ begin_operator
 pop-end s13 a1 a3 b9 b4
 0
 5
-0 260 -1 0
-0 394 0 1
 0 201 0 1
+0 260 -1 0
 0 393 1 0
+0 394 0 1
 0 399 -1 0
 1
 end_operator
@@ -8373,10 +8373,10 @@ begin_operator
 pop-end s13 a1 a3 b9 b5
 0
 5
-0 372 -1 0
-0 394 0 1
 0 202 0 1
+0 372 -1 0
 0 393 1 0
+0 394 0 1
 0 399 -1 0
 1
 end_operator
@@ -8384,10 +8384,10 @@ begin_operator
 pop-end s13 a1 a3 b9 b6
 0
 5
-0 388 -1 0
-0 394 0 1
 0 203 0 1
+0 388 -1 0
 0 393 1 0
+0 394 0 1
 0 399 -1 0
 1
 end_operator
@@ -8395,10 +8395,10 @@ begin_operator
 pop-end s13 a1 a3 b9 b7
 0
 5
-0 392 -1 0
-0 394 0 1
 0 192 0 1
+0 392 -1 0
 0 393 1 0
+0 394 0 1
 0 399 -1 0
 1
 end_operator
@@ -8406,10 +8406,10 @@ begin_operator
 pop-end s13 a1 a3 b9 b8
 0
 5
-0 374 -1 0
-0 394 0 1
 0 204 0 1
+0 374 -1 0
 0 393 1 0
+0 394 0 1
 0 399 -1 0
 1
 end_operator
@@ -8429,8 +8429,8 @@ pop-start s12 b0 a1 a2 b0 oc1b oc1b
 335 0
 3
 0 3 -1 0
-0 390 0 1
 0 262 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -8438,10 +8438,10 @@ pop-start s12 b0 a1 a2 b1 oc1b gasoleo
 0
 5
 0 2 -1 0
+0 262 0 1
 0 335 -1 0
 0 343 0 1
 0 390 0 1
-0 262 0 1
 1
 end_operator
 begin_operator
@@ -8449,10 +8449,10 @@ pop-start s12 b0 a1 a2 b10 oc1b oc1b
 0
 5
 0 4 -1 0
+0 262 0 1
 0 335 -1 0
 0 336 0 1
 0 390 0 1
-0 262 0 1
 1
 end_operator
 begin_operator
@@ -8460,10 +8460,10 @@ pop-start s12 b0 a1 a2 b11 oc1b oc1b
 0
 5
 0 5 -1 0
+0 262 0 1
 0 335 -1 0
 0 337 0 1
 0 390 0 1
-0 262 0 1
 1
 end_operator
 begin_operator
@@ -8471,10 +8471,10 @@ pop-start s12 b0 a1 a2 b12 oc1b lco
 0
 5
 0 8 -1 0
+0 262 0 1
 0 335 -1 0
 0 344 0 1
 0 390 0 1
-0 262 0 1
 1
 end_operator
 begin_operator
@@ -8482,10 +8482,10 @@ pop-start s12 b0 a1 a2 b13 oc1b oc1b
 0
 5
 0 18 -1 0
+0 262 0 1
 0 335 -1 0
 0 338 0 1
 0 390 0 1
-0 262 0 1
 1
 end_operator
 begin_operator
@@ -8493,10 +8493,10 @@ pop-start s12 b0 a1 a2 b14 oc1b oca1
 0
 5
 0 20 -1 0
+0 262 0 1
 0 335 -1 0
 0 339 0 1
 0 390 0 1
-0 262 0 1
 1
 end_operator
 begin_operator
@@ -8504,10 +8504,10 @@ pop-start s12 b0 a1 a2 b15 oc1b oc1b
 0
 5
 0 49 -1 0
+0 262 0 1
 0 335 -1 0
 0 340 0 1
 0 390 0 1
-0 262 0 1
 1
 end_operator
 begin_operator
@@ -8515,10 +8515,10 @@ pop-start s12 b0 a1 a2 b2 oc1b lco
 0
 5
 0 52 -1 0
+0 262 0 1
 0 335 -1 0
 0 349 0 1
 0 390 0 1
-0 262 0 1
 1
 end_operator
 begin_operator
@@ -8526,10 +8526,10 @@ pop-start s12 b0 a1 a2 b3 oc1b oc1b
 0
 5
 0 81 -1 0
+0 262 0 1
 0 335 -1 0
 0 348 0 1
 0 390 0 1
-0 262 0 1
 1
 end_operator
 begin_operator
@@ -8537,10 +8537,10 @@ pop-start s12 b0 a1 a2 b5 oc1b oc1b
 0
 5
 0 100 -1 0
+0 262 0 1
 0 335 -1 0
 0 341 0 1
 0 390 0 1
-0 262 0 1
 1
 end_operator
 begin_operator
@@ -8548,10 +8548,10 @@ pop-start s12 b0 a1 a2 b6 oc1b gasoleo
 0
 5
 0 121 -1 0
+0 262 0 1
 0 335 -1 0
 0 345 0 1
 0 390 0 1
-0 262 0 1
 1
 end_operator
 begin_operator
@@ -8559,10 +8559,10 @@ pop-start s12 b0 a1 a2 b7 oc1b gasoleo
 0
 5
 0 140 -1 0
+0 262 0 1
 0 335 -1 0
 0 346 0 1
 0 390 0 1
-0 262 0 1
 1
 end_operator
 begin_operator
@@ -8570,10 +8570,10 @@ pop-start s12 b0 a1 a2 b8 oc1b oc1b
 0
 5
 0 166 -1 0
+0 262 0 1
 0 335 -1 0
 0 342 0 1
 0 390 0 1
-0 262 0 1
 1
 end_operator
 begin_operator
@@ -8581,10 +8581,10 @@ pop-start s12 b0 a1 a2 b9 oc1b lco
 0
 5
 0 0 -1 0
+0 262 0 1
 0 335 -1 0
 0 347 0 1
 0 390 0 1
-0 262 0 1
 1
 end_operator
 begin_operator
@@ -8592,10 +8592,10 @@ pop-start s12 b1 a1 a2 b0 gasoleo oc1b
 0
 5
 0 7 -1 0
+0 270 0 1
 0 335 0 1
 0 343 -1 0
 0 390 0 1
-0 270 0 1
 1
 end_operator
 begin_operator
@@ -8604,8 +8604,8 @@ pop-start s12 b1 a1 a2 b1 gasoleo gasoleo
 343 0
 3
 0 16 -1 0
-0 390 0 1
 0 270 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -8613,10 +8613,10 @@ pop-start s12 b1 a1 a2 b10 gasoleo oc1b
 0
 5
 0 11 -1 0
-0 343 -1 0
-0 336 0 1
-0 390 0 1
 0 270 0 1
+0 336 0 1
+0 343 -1 0
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -8624,10 +8624,10 @@ pop-start s12 b1 a1 a2 b11 gasoleo oc1b
 0
 5
 0 6 -1 0
-0 343 -1 0
-0 337 0 1
-0 390 0 1
 0 270 0 1
+0 337 0 1
+0 343 -1 0
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -8635,10 +8635,10 @@ pop-start s12 b1 a1 a2 b12 gasoleo lco
 0
 5
 0 9 -1 0
+0 270 0 1
 0 343 -1 0
 0 344 0 1
 0 390 0 1
-0 270 0 1
 1
 end_operator
 begin_operator
@@ -8646,10 +8646,10 @@ pop-start s12 b1 a1 a2 b13 gasoleo oc1b
 0
 5
 0 17 -1 0
-0 343 -1 0
-0 338 0 1
-0 390 0 1
 0 270 0 1
+0 338 0 1
+0 343 -1 0
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -8657,10 +8657,10 @@ pop-start s12 b1 a1 a2 b14 gasoleo oca1
 0
 5
 0 21 -1 0
-0 343 -1 0
-0 339 0 1
-0 390 0 1
 0 270 0 1
+0 339 0 1
+0 343 -1 0
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -8668,10 +8668,10 @@ pop-start s12 b1 a1 a2 b15 gasoleo oc1b
 0
 5
 0 50 -1 0
-0 343 -1 0
-0 340 0 1
-0 390 0 1
 0 270 0 1
+0 340 0 1
+0 343 -1 0
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -8679,10 +8679,10 @@ pop-start s12 b1 a1 a2 b2 gasoleo lco
 0
 5
 0 51 -1 0
+0 270 0 1
 0 343 -1 0
 0 349 0 1
 0 390 0 1
-0 270 0 1
 1
 end_operator
 begin_operator
@@ -8690,10 +8690,10 @@ pop-start s12 b1 a1 a2 b3 gasoleo oc1b
 0
 5
 0 82 -1 0
+0 270 0 1
 0 343 -1 0
 0 348 0 1
 0 390 0 1
-0 270 0 1
 1
 end_operator
 begin_operator
@@ -8701,10 +8701,10 @@ pop-start s12 b1 a1 a2 b4 gasoleo rat-a
 0
 5
 0 132 -1 0
-0 343 -1 0
 0 243 0 1
-0 390 0 1
 0 270 0 1
+0 343 -1 0
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -8712,10 +8712,10 @@ pop-start s12 b1 a1 a2 b5 gasoleo oc1b
 0
 5
 0 101 -1 0
-0 343 -1 0
-0 341 0 1
-0 390 0 1
 0 270 0 1
+0 341 0 1
+0 343 -1 0
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -8723,10 +8723,10 @@ pop-start s12 b1 a1 a2 b6 gasoleo gasoleo
 0
 5
 0 122 -1 0
+0 270 0 1
 0 343 -1 0
 0 345 0 1
 0 390 0 1
-0 270 0 1
 1
 end_operator
 begin_operator
@@ -8734,10 +8734,10 @@ pop-start s12 b1 a1 a2 b7 gasoleo gasoleo
 0
 5
 0 141 -1 0
+0 270 0 1
 0 343 -1 0
 0 346 0 1
 0 390 0 1
-0 270 0 1
 1
 end_operator
 begin_operator
@@ -8745,10 +8745,10 @@ pop-start s12 b1 a1 a2 b8 gasoleo oc1b
 0
 5
 0 167 -1 0
-0 343 -1 0
-0 342 0 1
-0 390 0 1
 0 270 0 1
+0 342 0 1
+0 343 -1 0
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -8756,10 +8756,10 @@ pop-start s12 b1 a1 a2 b9 gasoleo lco
 0
 5
 0 1 -1 0
+0 270 0 1
 0 343 -1 0
 0 347 0 1
 0 390 0 1
-0 270 0 1
 1
 end_operator
 begin_operator
@@ -8767,10 +8767,10 @@ pop-start s12 b10 a1 a2 b0 oc1b oc1b
 0
 5
 0 12 -1 0
+0 263 0 1
 0 335 0 1
 0 336 -1 0
 0 390 0 1
-0 263 0 1
 1
 end_operator
 begin_operator
@@ -8778,10 +8778,10 @@ pop-start s12 b10 a1 a2 b1 oc1b gasoleo
 0
 5
 0 15 -1 0
-0 343 0 1
-0 336 -1 0
-0 390 0 1
 0 263 0 1
+0 336 -1 0
+0 343 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -8790,8 +8790,8 @@ pop-start s12 b10 a1 a2 b10 oc1b oc1b
 336 0
 3
 0 26 -1 0
-0 390 0 1
 0 263 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -8799,10 +8799,10 @@ pop-start s12 b10 a1 a2 b11 oc1b oc1b
 0
 5
 0 14 -1 0
+0 263 0 1
 0 336 -1 0
 0 337 0 1
 0 390 0 1
-0 263 0 1
 1
 end_operator
 begin_operator
@@ -8810,10 +8810,10 @@ pop-start s12 b10 a1 a2 b12 oc1b lco
 0
 5
 0 10 -1 0
+0 263 0 1
 0 336 -1 0
 0 344 0 1
 0 390 0 1
-0 263 0 1
 1
 end_operator
 begin_operator
@@ -8821,10 +8821,10 @@ pop-start s12 b10 a1 a2 b13 oc1b oc1b
 0
 5
 0 19 -1 0
+0 263 0 1
 0 336 -1 0
 0 338 0 1
 0 390 0 1
-0 263 0 1
 1
 end_operator
 begin_operator
@@ -8832,10 +8832,10 @@ pop-start s12 b10 a1 a2 b14 oc1b oca1
 0
 5
 0 22 -1 0
+0 263 0 1
 0 336 -1 0
 0 339 0 1
 0 390 0 1
-0 263 0 1
 1
 end_operator
 begin_operator
@@ -8843,10 +8843,10 @@ pop-start s12 b10 a1 a2 b15 oc1b oc1b
 0
 5
 0 66 -1 0
+0 263 0 1
 0 336 -1 0
 0 340 0 1
 0 390 0 1
-0 263 0 1
 1
 end_operator
 begin_operator
@@ -8854,10 +8854,10 @@ pop-start s12 b10 a1 a2 b2 oc1b lco
 0
 5
 0 53 -1 0
+0 263 0 1
 0 336 -1 0
 0 349 0 1
 0 390 0 1
-0 263 0 1
 1
 end_operator
 begin_operator
@@ -8865,10 +8865,10 @@ pop-start s12 b10 a1 a2 b3 oc1b oc1b
 0
 5
 0 83 -1 0
+0 263 0 1
 0 336 -1 0
 0 348 0 1
 0 390 0 1
-0 263 0 1
 1
 end_operator
 begin_operator
@@ -8876,10 +8876,10 @@ pop-start s12 b10 a1 a2 b5 oc1b oc1b
 0
 5
 0 102 -1 0
+0 263 0 1
 0 336 -1 0
 0 341 0 1
 0 390 0 1
-0 263 0 1
 1
 end_operator
 begin_operator
@@ -8887,10 +8887,10 @@ pop-start s12 b10 a1 a2 b6 oc1b gasoleo
 0
 5
 0 123 -1 0
+0 263 0 1
 0 336 -1 0
 0 345 0 1
 0 390 0 1
-0 263 0 1
 1
 end_operator
 begin_operator
@@ -8898,10 +8898,10 @@ pop-start s12 b10 a1 a2 b7 oc1b gasoleo
 0
 5
 0 142 -1 0
+0 263 0 1
 0 336 -1 0
 0 346 0 1
 0 390 0 1
-0 263 0 1
 1
 end_operator
 begin_operator
@@ -8909,10 +8909,10 @@ pop-start s12 b10 a1 a2 b8 oc1b oc1b
 0
 5
 0 168 -1 0
+0 263 0 1
 0 336 -1 0
 0 342 0 1
 0 390 0 1
-0 263 0 1
 1
 end_operator
 begin_operator
@@ -8920,10 +8920,10 @@ pop-start s12 b10 a1 a2 b9 oc1b lco
 0
 5
 0 193 -1 0
+0 263 0 1
 0 336 -1 0
 0 347 0 1
 0 390 0 1
-0 263 0 1
 1
 end_operator
 begin_operator
@@ -8931,10 +8931,10 @@ pop-start s12 b11 a1 a2 b0 oc1b oc1b
 0
 5
 0 13 -1 0
+0 264 0 1
 0 335 0 1
 0 337 -1 0
 0 390 0 1
-0 264 0 1
 1
 end_operator
 begin_operator
@@ -8942,10 +8942,10 @@ pop-start s12 b11 a1 a2 b1 oc1b gasoleo
 0
 5
 0 24 -1 0
-0 343 0 1
-0 337 -1 0
-0 390 0 1
 0 264 0 1
+0 337 -1 0
+0 343 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -8953,10 +8953,10 @@ pop-start s12 b11 a1 a2 b10 oc1b oc1b
 0
 5
 0 25 -1 0
+0 264 0 1
 0 336 0 1
 0 337 -1 0
 0 390 0 1
-0 264 0 1
 1
 end_operator
 begin_operator
@@ -8965,8 +8965,8 @@ pop-start s12 b11 a1 a2 b11 oc1b oc1b
 337 0
 3
 0 31 -1 0
-0 390 0 1
 0 264 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -8974,10 +8974,10 @@ pop-start s12 b11 a1 a2 b12 oc1b lco
 0
 5
 0 37 -1 0
+0 264 0 1
 0 337 -1 0
 0 344 0 1
 0 390 0 1
-0 264 0 1
 1
 end_operator
 begin_operator
@@ -8985,10 +8985,10 @@ pop-start s12 b11 a1 a2 b13 oc1b oc1b
 0
 5
 0 45 -1 0
+0 264 0 1
 0 337 -1 0
 0 338 0 1
 0 390 0 1
-0 264 0 1
 1
 end_operator
 begin_operator
@@ -8996,10 +8996,10 @@ pop-start s12 b11 a1 a2 b14 oc1b oca1
 0
 5
 0 23 -1 0
+0 264 0 1
 0 337 -1 0
 0 339 0 1
 0 390 0 1
-0 264 0 1
 1
 end_operator
 begin_operator
@@ -9007,10 +9007,10 @@ pop-start s12 b11 a1 a2 b15 oc1b oc1b
 0
 5
 0 67 -1 0
+0 264 0 1
 0 337 -1 0
 0 340 0 1
 0 390 0 1
-0 264 0 1
 1
 end_operator
 begin_operator
@@ -9018,10 +9018,10 @@ pop-start s12 b11 a1 a2 b2 oc1b lco
 0
 5
 0 54 -1 0
+0 264 0 1
 0 337 -1 0
 0 349 0 1
 0 390 0 1
-0 264 0 1
 1
 end_operator
 begin_operator
@@ -9029,10 +9029,10 @@ pop-start s12 b11 a1 a2 b3 oc1b oc1b
 0
 5
 0 84 -1 0
+0 264 0 1
 0 337 -1 0
 0 348 0 1
 0 390 0 1
-0 264 0 1
 1
 end_operator
 begin_operator
@@ -9040,10 +9040,10 @@ pop-start s12 b11 a1 a2 b5 oc1b oc1b
 0
 5
 0 103 -1 0
+0 264 0 1
 0 337 -1 0
 0 341 0 1
 0 390 0 1
-0 264 0 1
 1
 end_operator
 begin_operator
@@ -9051,10 +9051,10 @@ pop-start s12 b11 a1 a2 b6 oc1b gasoleo
 0
 5
 0 124 -1 0
+0 264 0 1
 0 337 -1 0
 0 345 0 1
 0 390 0 1
-0 264 0 1
 1
 end_operator
 begin_operator
@@ -9062,10 +9062,10 @@ pop-start s12 b11 a1 a2 b7 oc1b gasoleo
 0
 5
 0 143 -1 0
+0 264 0 1
 0 337 -1 0
 0 346 0 1
 0 390 0 1
-0 264 0 1
 1
 end_operator
 begin_operator
@@ -9073,10 +9073,10 @@ pop-start s12 b11 a1 a2 b8 oc1b oc1b
 0
 5
 0 169 -1 0
+0 264 0 1
 0 337 -1 0
 0 342 0 1
 0 390 0 1
-0 264 0 1
 1
 end_operator
 begin_operator
@@ -9084,10 +9084,10 @@ pop-start s12 b11 a1 a2 b9 oc1b lco
 0
 5
 0 194 -1 0
+0 264 0 1
 0 337 -1 0
 0 347 0 1
 0 390 0 1
-0 264 0 1
 1
 end_operator
 begin_operator
@@ -9095,10 +9095,10 @@ pop-start s12 b12 a1 a2 b0 lco oc1b
 0
 5
 0 28 -1 0
+0 271 0 1
 0 335 0 1
 0 344 -1 0
 0 390 0 1
-0 271 0 1
 1
 end_operator
 begin_operator
@@ -9106,10 +9106,10 @@ pop-start s12 b12 a1 a2 b1 lco gasoleo
 0
 5
 0 29 -1 0
+0 271 0 1
 0 343 0 1
 0 344 -1 0
 0 390 0 1
-0 271 0 1
 1
 end_operator
 begin_operator
@@ -9117,10 +9117,10 @@ pop-start s12 b12 a1 a2 b10 lco oc1b
 0
 5
 0 27 -1 0
+0 271 0 1
 0 336 0 1
 0 344 -1 0
 0 390 0 1
-0 271 0 1
 1
 end_operator
 begin_operator
@@ -9128,10 +9128,10 @@ pop-start s12 b12 a1 a2 b11 lco oc1b
 0
 5
 0 30 -1 0
+0 271 0 1
 0 337 0 1
 0 344 -1 0
 0 390 0 1
-0 271 0 1
 1
 end_operator
 begin_operator
@@ -9140,8 +9140,8 @@ pop-start s12 b12 a1 a2 b12 lco lco
 344 0
 3
 0 38 -1 0
-0 390 0 1
 0 271 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -9149,10 +9149,10 @@ pop-start s12 b12 a1 a2 b13 lco oc1b
 0
 5
 0 46 -1 0
-0 344 -1 0
-0 338 0 1
-0 390 0 1
 0 271 0 1
+0 338 0 1
+0 344 -1 0
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -9160,10 +9160,10 @@ pop-start s12 b12 a1 a2 b14 lco oca1
 0
 5
 0 237 -1 0
-0 344 -1 0
-0 339 0 1
-0 390 0 1
 0 271 0 1
+0 339 0 1
+0 344 -1 0
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -9171,10 +9171,10 @@ pop-start s12 b12 a1 a2 b15 lco oc1b
 0
 5
 0 68 -1 0
-0 344 -1 0
-0 340 0 1
-0 390 0 1
 0 271 0 1
+0 340 0 1
+0 344 -1 0
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -9182,10 +9182,10 @@ pop-start s12 b12 a1 a2 b2 lco lco
 0
 5
 0 55 -1 0
+0 271 0 1
 0 344 -1 0
 0 349 0 1
 0 390 0 1
-0 271 0 1
 1
 end_operator
 begin_operator
@@ -9193,10 +9193,10 @@ pop-start s12 b12 a1 a2 b3 lco oc1b
 0
 5
 0 85 -1 0
+0 271 0 1
 0 344 -1 0
 0 348 0 1
 0 390 0 1
-0 271 0 1
 1
 end_operator
 begin_operator
@@ -9204,10 +9204,10 @@ pop-start s12 b12 a1 a2 b4 lco rat-a
 0
 5
 0 133 -1 0
-0 344 -1 0
 0 243 0 1
-0 390 0 1
 0 271 0 1
+0 344 -1 0
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -9215,10 +9215,10 @@ pop-start s12 b12 a1 a2 b5 lco oc1b
 0
 5
 0 104 -1 0
-0 344 -1 0
-0 341 0 1
-0 390 0 1
 0 271 0 1
+0 341 0 1
+0 344 -1 0
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -9226,10 +9226,10 @@ pop-start s12 b12 a1 a2 b6 lco gasoleo
 0
 5
 0 125 -1 0
+0 271 0 1
 0 344 -1 0
 0 345 0 1
 0 390 0 1
-0 271 0 1
 1
 end_operator
 begin_operator
@@ -9237,10 +9237,10 @@ pop-start s12 b12 a1 a2 b7 lco gasoleo
 0
 5
 0 144 -1 0
+0 271 0 1
 0 344 -1 0
 0 346 0 1
 0 390 0 1
-0 271 0 1
 1
 end_operator
 begin_operator
@@ -9248,10 +9248,10 @@ pop-start s12 b12 a1 a2 b8 lco oc1b
 0
 5
 0 170 -1 0
-0 344 -1 0
-0 342 0 1
-0 390 0 1
 0 271 0 1
+0 342 0 1
+0 344 -1 0
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -9259,10 +9259,10 @@ pop-start s12 b12 a1 a2 b9 lco lco
 0
 5
 0 195 -1 0
+0 271 0 1
 0 344 -1 0
 0 347 0 1
 0 390 0 1
-0 271 0 1
 1
 end_operator
 begin_operator
@@ -9270,10 +9270,10 @@ pop-start s12 b13 a1 a2 b0 oc1b oc1b
 0
 5
 0 33 -1 0
+0 269 0 1
 0 335 0 1
 0 338 -1 0
 0 390 0 1
-0 269 0 1
 1
 end_operator
 begin_operator
@@ -9281,10 +9281,10 @@ pop-start s12 b13 a1 a2 b1 oc1b gasoleo
 0
 5
 0 34 -1 0
-0 343 0 1
-0 338 -1 0
-0 390 0 1
 0 269 0 1
+0 338 -1 0
+0 343 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -9292,10 +9292,10 @@ pop-start s12 b13 a1 a2 b10 oc1b oc1b
 0
 5
 0 35 -1 0
+0 269 0 1
 0 336 0 1
 0 338 -1 0
 0 390 0 1
-0 269 0 1
 1
 end_operator
 begin_operator
@@ -9303,10 +9303,10 @@ pop-start s12 b13 a1 a2 b11 oc1b oc1b
 0
 5
 0 32 -1 0
+0 269 0 1
 0 337 0 1
 0 338 -1 0
 0 390 0 1
-0 269 0 1
 1
 end_operator
 begin_operator
@@ -9314,10 +9314,10 @@ pop-start s12 b13 a1 a2 b12 oc1b lco
 0
 5
 0 36 -1 0
-0 344 0 1
-0 338 -1 0
-0 390 0 1
 0 269 0 1
+0 338 -1 0
+0 344 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -9326,8 +9326,8 @@ pop-start s12 b13 a1 a2 b13 oc1b oc1b
 338 0
 3
 0 47 -1 0
-0 390 0 1
 0 269 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -9335,10 +9335,10 @@ pop-start s12 b13 a1 a2 b14 oc1b oca1
 0
 5
 0 236 -1 0
+0 269 0 1
 0 338 -1 0
 0 339 0 1
 0 390 0 1
-0 269 0 1
 1
 end_operator
 begin_operator
@@ -9346,10 +9346,10 @@ pop-start s12 b13 a1 a2 b15 oc1b oc1b
 0
 5
 0 69 -1 0
+0 269 0 1
 0 338 -1 0
 0 340 0 1
 0 390 0 1
-0 269 0 1
 1
 end_operator
 begin_operator
@@ -9357,10 +9357,10 @@ pop-start s12 b13 a1 a2 b2 oc1b lco
 0
 5
 0 56 -1 0
+0 269 0 1
 0 338 -1 0
 0 349 0 1
 0 390 0 1
-0 269 0 1
 1
 end_operator
 begin_operator
@@ -9368,10 +9368,10 @@ pop-start s12 b13 a1 a2 b3 oc1b oc1b
 0
 5
 0 86 -1 0
+0 269 0 1
 0 338 -1 0
 0 348 0 1
 0 390 0 1
-0 269 0 1
 1
 end_operator
 begin_operator
@@ -9379,10 +9379,10 @@ pop-start s12 b13 a1 a2 b5 oc1b oc1b
 0
 5
 0 105 -1 0
+0 269 0 1
 0 338 -1 0
 0 341 0 1
 0 390 0 1
-0 269 0 1
 1
 end_operator
 begin_operator
@@ -9390,10 +9390,10 @@ pop-start s12 b13 a1 a2 b6 oc1b gasoleo
 0
 5
 0 126 -1 0
+0 269 0 1
 0 338 -1 0
 0 345 0 1
 0 390 0 1
-0 269 0 1
 1
 end_operator
 begin_operator
@@ -9401,10 +9401,10 @@ pop-start s12 b13 a1 a2 b7 oc1b gasoleo
 0
 5
 0 145 -1 0
+0 269 0 1
 0 338 -1 0
 0 346 0 1
 0 390 0 1
-0 269 0 1
 1
 end_operator
 begin_operator
@@ -9412,10 +9412,10 @@ pop-start s12 b13 a1 a2 b8 oc1b oc1b
 0
 5
 0 171 -1 0
+0 269 0 1
 0 338 -1 0
 0 342 0 1
 0 390 0 1
-0 269 0 1
 1
 end_operator
 begin_operator
@@ -9423,10 +9423,10 @@ pop-start s12 b13 a1 a2 b9 oc1b lco
 0
 5
 0 196 -1 0
+0 269 0 1
 0 338 -1 0
 0 347 0 1
 0 390 0 1
-0 269 0 1
 1
 end_operator
 begin_operator
@@ -9434,10 +9434,10 @@ pop-start s12 b14 a1 a2 b0 oca1 oc1b
 0
 5
 0 40 -1 0
+0 268 0 1
 0 335 0 1
 0 339 -1 0
 0 390 0 1
-0 268 0 1
 1
 end_operator
 begin_operator
@@ -9445,10 +9445,10 @@ pop-start s12 b14 a1 a2 b1 oca1 gasoleo
 0
 5
 0 41 -1 0
-0 343 0 1
-0 339 -1 0
-0 390 0 1
 0 268 0 1
+0 339 -1 0
+0 343 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -9456,10 +9456,10 @@ pop-start s12 b14 a1 a2 b10 oca1 oc1b
 0
 5
 0 42 -1 0
+0 268 0 1
 0 336 0 1
 0 339 -1 0
 0 390 0 1
-0 268 0 1
 1
 end_operator
 begin_operator
@@ -9467,10 +9467,10 @@ pop-start s12 b14 a1 a2 b11 oca1 oc1b
 0
 5
 0 43 -1 0
+0 268 0 1
 0 337 0 1
 0 339 -1 0
 0 390 0 1
-0 268 0 1
 1
 end_operator
 begin_operator
@@ -9478,10 +9478,10 @@ pop-start s12 b14 a1 a2 b12 oca1 lco
 0
 5
 0 39 -1 0
-0 344 0 1
-0 339 -1 0
-0 390 0 1
 0 268 0 1
+0 339 -1 0
+0 344 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -9489,10 +9489,10 @@ pop-start s12 b14 a1 a2 b13 oca1 oc1b
 0
 5
 0 44 -1 0
+0 268 0 1
 0 338 0 1
 0 339 -1 0
 0 390 0 1
-0 268 0 1
 1
 end_operator
 begin_operator
@@ -9501,8 +9501,8 @@ pop-start s12 b14 a1 a2 b14 oca1 oca1
 339 0
 3
 0 235 -1 0
-0 390 0 1
 0 268 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -9510,10 +9510,10 @@ pop-start s12 b14 a1 a2 b15 oca1 oc1b
 0
 5
 0 70 -1 0
+0 268 0 1
 0 339 -1 0
 0 340 0 1
 0 390 0 1
-0 268 0 1
 1
 end_operator
 begin_operator
@@ -9521,10 +9521,10 @@ pop-start s12 b14 a1 a2 b2 oca1 lco
 0
 5
 0 57 -1 0
+0 268 0 1
 0 339 -1 0
 0 349 0 1
 0 390 0 1
-0 268 0 1
 1
 end_operator
 begin_operator
@@ -9532,10 +9532,10 @@ pop-start s12 b14 a1 a2 b3 oca1 oc1b
 0
 5
 0 87 -1 0
+0 268 0 1
 0 339 -1 0
 0 348 0 1
 0 390 0 1
-0 268 0 1
 1
 end_operator
 begin_operator
@@ -9543,10 +9543,10 @@ pop-start s12 b14 a1 a2 b5 oca1 oc1b
 0
 5
 0 106 -1 0
+0 268 0 1
 0 339 -1 0
 0 341 0 1
 0 390 0 1
-0 268 0 1
 1
 end_operator
 begin_operator
@@ -9554,10 +9554,10 @@ pop-start s12 b14 a1 a2 b6 oca1 gasoleo
 0
 5
 0 127 -1 0
+0 268 0 1
 0 339 -1 0
 0 345 0 1
 0 390 0 1
-0 268 0 1
 1
 end_operator
 begin_operator
@@ -9565,10 +9565,10 @@ pop-start s12 b14 a1 a2 b7 oca1 gasoleo
 0
 5
 0 146 -1 0
+0 268 0 1
 0 339 -1 0
 0 346 0 1
 0 390 0 1
-0 268 0 1
 1
 end_operator
 begin_operator
@@ -9576,10 +9576,10 @@ pop-start s12 b14 a1 a2 b8 oca1 oc1b
 0
 5
 0 172 -1 0
+0 268 0 1
 0 339 -1 0
 0 342 0 1
 0 390 0 1
-0 268 0 1
 1
 end_operator
 begin_operator
@@ -9587,10 +9587,10 @@ pop-start s12 b14 a1 a2 b9 oca1 lco
 0
 5
 0 197 -1 0
+0 268 0 1
 0 339 -1 0
 0 347 0 1
 0 390 0 1
-0 268 0 1
 1
 end_operator
 begin_operator
@@ -9598,10 +9598,10 @@ pop-start s12 b15 a1 a2 b0 oc1b oc1b
 0
 5
 0 59 -1 0
+0 265 0 1
 0 335 0 1
 0 340 -1 0
 0 390 0 1
-0 265 0 1
 1
 end_operator
 begin_operator
@@ -9609,10 +9609,10 @@ pop-start s12 b15 a1 a2 b1 oc1b gasoleo
 0
 5
 0 60 -1 0
-0 343 0 1
-0 340 -1 0
-0 390 0 1
 0 265 0 1
+0 340 -1 0
+0 343 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -9620,10 +9620,10 @@ pop-start s12 b15 a1 a2 b10 oc1b oc1b
 0
 5
 0 61 -1 0
+0 265 0 1
 0 336 0 1
 0 340 -1 0
 0 390 0 1
-0 265 0 1
 1
 end_operator
 begin_operator
@@ -9631,10 +9631,10 @@ pop-start s12 b15 a1 a2 b11 oc1b oc1b
 0
 5
 0 62 -1 0
+0 265 0 1
 0 337 0 1
 0 340 -1 0
 0 390 0 1
-0 265 0 1
 1
 end_operator
 begin_operator
@@ -9642,10 +9642,10 @@ pop-start s12 b15 a1 a2 b12 oc1b lco
 0
 5
 0 63 -1 0
-0 344 0 1
-0 340 -1 0
-0 390 0 1
 0 265 0 1
+0 340 -1 0
+0 344 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -9653,10 +9653,10 @@ pop-start s12 b15 a1 a2 b13 oc1b oc1b
 0
 5
 0 48 -1 0
+0 265 0 1
 0 338 0 1
 0 340 -1 0
 0 390 0 1
-0 265 0 1
 1
 end_operator
 begin_operator
@@ -9664,10 +9664,10 @@ pop-start s12 b15 a1 a2 b14 oc1b oca1
 0
 5
 0 64 -1 0
+0 265 0 1
 0 339 0 1
 0 340 -1 0
 0 390 0 1
-0 265 0 1
 1
 end_operator
 begin_operator
@@ -9676,8 +9676,8 @@ pop-start s12 b15 a1 a2 b15 oc1b oc1b
 340 0
 3
 0 65 -1 0
-0 390 0 1
 0 265 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -9685,10 +9685,10 @@ pop-start s12 b15 a1 a2 b2 oc1b lco
 0
 5
 0 58 -1 0
+0 265 0 1
 0 340 -1 0
 0 349 0 1
 0 390 0 1
-0 265 0 1
 1
 end_operator
 begin_operator
@@ -9696,10 +9696,10 @@ pop-start s12 b15 a1 a2 b3 oc1b oc1b
 0
 5
 0 88 -1 0
+0 265 0 1
 0 340 -1 0
 0 348 0 1
 0 390 0 1
-0 265 0 1
 1
 end_operator
 begin_operator
@@ -9707,10 +9707,10 @@ pop-start s12 b15 a1 a2 b5 oc1b oc1b
 0
 5
 0 107 -1 0
+0 265 0 1
 0 340 -1 0
 0 341 0 1
 0 390 0 1
-0 265 0 1
 1
 end_operator
 begin_operator
@@ -9718,10 +9718,10 @@ pop-start s12 b15 a1 a2 b6 oc1b gasoleo
 0
 5
 0 128 -1 0
+0 265 0 1
 0 340 -1 0
 0 345 0 1
 0 390 0 1
-0 265 0 1
 1
 end_operator
 begin_operator
@@ -9729,10 +9729,10 @@ pop-start s12 b15 a1 a2 b7 oc1b gasoleo
 0
 5
 0 147 -1 0
+0 265 0 1
 0 340 -1 0
 0 346 0 1
 0 390 0 1
-0 265 0 1
 1
 end_operator
 begin_operator
@@ -9740,10 +9740,10 @@ pop-start s12 b15 a1 a2 b8 oc1b oc1b
 0
 5
 0 173 -1 0
+0 265 0 1
 0 340 -1 0
 0 342 0 1
 0 390 0 1
-0 265 0 1
 1
 end_operator
 begin_operator
@@ -9751,10 +9751,10 @@ pop-start s12 b15 a1 a2 b9 oc1b lco
 0
 5
 0 198 -1 0
+0 265 0 1
 0 340 -1 0
 0 347 0 1
 0 390 0 1
-0 265 0 1
 1
 end_operator
 begin_operator
@@ -9860,8 +9860,8 @@ pop-start s12 b2 a1 a2 b3 lco oc1b
 0
 5
 0 80 -1 0
-0 349 -1 0
 0 348 0 1
+0 349 -1 0
 0 390 0 1
 0 397 0 1
 1
@@ -9871,8 +9871,8 @@ pop-start s12 b2 a1 a2 b4 lco rat-a
 0
 5
 0 134 -1 0
-0 349 -1 0
 0 243 0 1
+0 349 -1 0
 0 390 0 1
 0 397 0 1
 1
@@ -9882,8 +9882,8 @@ pop-start s12 b2 a1 a2 b5 lco oc1b
 0
 5
 0 108 -1 0
-0 349 -1 0
 0 341 0 1
+0 349 -1 0
 0 390 0 1
 0 397 0 1
 1
@@ -9893,8 +9893,8 @@ pop-start s12 b2 a1 a2 b6 lco gasoleo
 0
 5
 0 129 -1 0
-0 349 -1 0
 0 345 0 1
+0 349 -1 0
 0 390 0 1
 0 397 0 1
 1
@@ -9904,8 +9904,8 @@ pop-start s12 b2 a1 a2 b7 lco gasoleo
 0
 5
 0 148 -1 0
-0 349 -1 0
 0 346 0 1
+0 349 -1 0
 0 390 0 1
 0 397 0 1
 1
@@ -9915,8 +9915,8 @@ pop-start s12 b2 a1 a2 b8 lco oc1b
 0
 5
 0 174 -1 0
-0 349 -1 0
 0 342 0 1
+0 349 -1 0
 0 390 0 1
 0 397 0 1
 1
@@ -9926,8 +9926,8 @@ pop-start s12 b2 a1 a2 b9 lco lco
 0
 5
 0 199 -1 0
-0 349 -1 0
 0 347 0 1
+0 349 -1 0
 0 390 0 1
 0 397 0 1
 1
@@ -10025,8 +10025,8 @@ pop-start s12 b3 a1 a2 b2 oc1b lco
 0
 5
 0 98 -1 0
-0 349 0 1
 0 348 -1 0
+0 349 0 1
 0 390 0 1
 0 396 0 1
 1
@@ -10046,8 +10046,8 @@ pop-start s12 b3 a1 a2 b5 oc1b oc1b
 0
 5
 0 99 -1 0
-0 348 -1 0
 0 341 0 1
+0 348 -1 0
 0 390 0 1
 0 396 0 1
 1
@@ -10057,8 +10057,8 @@ pop-start s12 b3 a1 a2 b6 oc1b gasoleo
 0
 5
 0 130 -1 0
-0 348 -1 0
 0 345 0 1
+0 348 -1 0
 0 390 0 1
 0 396 0 1
 1
@@ -10068,8 +10068,8 @@ pop-start s12 b3 a1 a2 b7 oc1b gasoleo
 0
 5
 0 149 -1 0
-0 348 -1 0
 0 346 0 1
+0 348 -1 0
 0 390 0 1
 0 396 0 1
 1
@@ -10079,8 +10079,8 @@ pop-start s12 b3 a1 a2 b8 oc1b oc1b
 0
 5
 0 175 -1 0
-0 348 -1 0
 0 342 0 1
+0 348 -1 0
 0 390 0 1
 0 396 0 1
 1
@@ -10090,8 +10090,8 @@ pop-start s12 b3 a1 a2 b9 oc1b lco
 0
 5
 0 200 -1 0
-0 348 -1 0
 0 347 0 1
+0 348 -1 0
 0 390 0 1
 0 396 0 1
 1
@@ -10101,10 +10101,10 @@ pop-start s12 b4 a1 a2 b1 rat-a gasoleo
 0
 5
 0 136 -1 0
-0 343 0 1
-0 243 -1 0
-0 390 0 1
 0 239 0 1
+0 243 -1 0
+0 343 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -10112,10 +10112,10 @@ pop-start s12 b4 a1 a2 b12 rat-a lco
 0
 5
 0 137 -1 0
-0 344 0 1
-0 243 -1 0
-0 390 0 1
 0 239 0 1
+0 243 -1 0
+0 344 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -10123,10 +10123,10 @@ pop-start s12 b4 a1 a2 b2 rat-a lco
 0
 5
 0 138 -1 0
-0 349 0 1
-0 243 -1 0
-0 390 0 1
 0 239 0 1
+0 243 -1 0
+0 349 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -10135,8 +10135,8 @@ pop-start s12 b4 a1 a2 b4 rat-a rat-a
 243 0
 3
 0 135 -1 0
-0 390 0 1
 0 239 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -10144,10 +10144,10 @@ pop-start s12 b4 a1 a2 b6 rat-a gasoleo
 0
 5
 0 131 -1 0
+0 239 0 1
 0 243 -1 0
 0 345 0 1
 0 390 0 1
-0 239 0 1
 1
 end_operator
 begin_operator
@@ -10155,10 +10155,10 @@ pop-start s12 b4 a1 a2 b7 rat-a gasoleo
 0
 5
 0 139 -1 0
+0 239 0 1
 0 243 -1 0
 0 346 0 1
 0 390 0 1
-0 239 0 1
 1
 end_operator
 begin_operator
@@ -10166,10 +10166,10 @@ pop-start s12 b4 a1 a2 b9 rat-a lco
 0
 5
 0 201 -1 0
+0 239 0 1
 0 243 -1 0
 0 347 0 1
 0 390 0 1
-0 239 0 1
 1
 end_operator
 begin_operator
@@ -10177,10 +10177,10 @@ pop-start s12 b5 a1 a2 b0 oc1b oc1b
 0
 5
 0 110 -1 0
+0 266 0 1
 0 335 0 1
 0 341 -1 0
 0 390 0 1
-0 266 0 1
 1
 end_operator
 begin_operator
@@ -10188,10 +10188,10 @@ pop-start s12 b5 a1 a2 b1 oc1b gasoleo
 0
 5
 0 111 -1 0
-0 343 0 1
-0 341 -1 0
-0 390 0 1
 0 266 0 1
+0 341 -1 0
+0 343 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -10199,10 +10199,10 @@ pop-start s12 b5 a1 a2 b10 oc1b oc1b
 0
 5
 0 112 -1 0
+0 266 0 1
 0 336 0 1
 0 341 -1 0
 0 390 0 1
-0 266 0 1
 1
 end_operator
 begin_operator
@@ -10210,10 +10210,10 @@ pop-start s12 b5 a1 a2 b11 oc1b oc1b
 0
 5
 0 113 -1 0
+0 266 0 1
 0 337 0 1
 0 341 -1 0
 0 390 0 1
-0 266 0 1
 1
 end_operator
 begin_operator
@@ -10221,10 +10221,10 @@ pop-start s12 b5 a1 a2 b12 oc1b lco
 0
 5
 0 114 -1 0
-0 344 0 1
-0 341 -1 0
-0 390 0 1
 0 266 0 1
+0 341 -1 0
+0 344 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -10232,10 +10232,10 @@ pop-start s12 b5 a1 a2 b13 oc1b oc1b
 0
 5
 0 115 -1 0
+0 266 0 1
 0 338 0 1
 0 341 -1 0
 0 390 0 1
-0 266 0 1
 1
 end_operator
 begin_operator
@@ -10243,10 +10243,10 @@ pop-start s12 b5 a1 a2 b14 oc1b oca1
 0
 5
 0 116 -1 0
+0 266 0 1
 0 339 0 1
 0 341 -1 0
 0 390 0 1
-0 266 0 1
 1
 end_operator
 begin_operator
@@ -10254,10 +10254,10 @@ pop-start s12 b5 a1 a2 b15 oc1b oc1b
 0
 5
 0 117 -1 0
+0 266 0 1
 0 340 0 1
 0 341 -1 0
 0 390 0 1
-0 266 0 1
 1
 end_operator
 begin_operator
@@ -10265,10 +10265,10 @@ pop-start s12 b5 a1 a2 b2 oc1b lco
 0
 5
 0 118 -1 0
-0 349 0 1
-0 341 -1 0
-0 390 0 1
 0 266 0 1
+0 341 -1 0
+0 349 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -10276,10 +10276,10 @@ pop-start s12 b5 a1 a2 b3 oc1b oc1b
 0
 5
 0 119 -1 0
-0 348 0 1
-0 341 -1 0
-0 390 0 1
 0 266 0 1
+0 341 -1 0
+0 348 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -10288,8 +10288,8 @@ pop-start s12 b5 a1 a2 b5 oc1b oc1b
 341 0
 3
 0 109 -1 0
-0 390 0 1
 0 266 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -10297,10 +10297,10 @@ pop-start s12 b5 a1 a2 b6 oc1b gasoleo
 0
 5
 0 120 -1 0
+0 266 0 1
 0 341 -1 0
 0 345 0 1
 0 390 0 1
-0 266 0 1
 1
 end_operator
 begin_operator
@@ -10308,10 +10308,10 @@ pop-start s12 b5 a1 a2 b7 oc1b gasoleo
 0
 5
 0 150 -1 0
+0 266 0 1
 0 341 -1 0
 0 346 0 1
 0 390 0 1
-0 266 0 1
 1
 end_operator
 begin_operator
@@ -10319,10 +10319,10 @@ pop-start s12 b5 a1 a2 b8 oc1b oc1b
 0
 5
 0 176 -1 0
+0 266 0 1
 0 341 -1 0
 0 342 0 1
 0 390 0 1
-0 266 0 1
 1
 end_operator
 begin_operator
@@ -10330,10 +10330,10 @@ pop-start s12 b5 a1 a2 b9 oc1b lco
 0
 5
 0 202 -1 0
+0 266 0 1
 0 341 -1 0
 0 347 0 1
 0 390 0 1
-0 266 0 1
 1
 end_operator
 begin_operator
@@ -10341,10 +10341,10 @@ pop-start s12 b6 a1 a2 b0 gasoleo oc1b
 0
 5
 0 152 -1 0
+0 272 0 1
 0 335 0 1
 0 345 -1 0
 0 390 0 1
-0 272 0 1
 1
 end_operator
 begin_operator
@@ -10352,10 +10352,10 @@ pop-start s12 b6 a1 a2 b1 gasoleo gasoleo
 0
 5
 0 153 -1 0
+0 272 0 1
 0 343 0 1
 0 345 -1 0
 0 390 0 1
-0 272 0 1
 1
 end_operator
 begin_operator
@@ -10363,10 +10363,10 @@ pop-start s12 b6 a1 a2 b10 gasoleo oc1b
 0
 5
 0 154 -1 0
+0 272 0 1
 0 336 0 1
 0 345 -1 0
 0 390 0 1
-0 272 0 1
 1
 end_operator
 begin_operator
@@ -10374,10 +10374,10 @@ pop-start s12 b6 a1 a2 b11 gasoleo oc1b
 0
 5
 0 155 -1 0
+0 272 0 1
 0 337 0 1
 0 345 -1 0
 0 390 0 1
-0 272 0 1
 1
 end_operator
 begin_operator
@@ -10385,10 +10385,10 @@ pop-start s12 b6 a1 a2 b12 gasoleo lco
 0
 5
 0 156 -1 0
+0 272 0 1
 0 344 0 1
 0 345 -1 0
 0 390 0 1
-0 272 0 1
 1
 end_operator
 begin_operator
@@ -10396,10 +10396,10 @@ pop-start s12 b6 a1 a2 b13 gasoleo oc1b
 0
 5
 0 157 -1 0
+0 272 0 1
 0 338 0 1
 0 345 -1 0
 0 390 0 1
-0 272 0 1
 1
 end_operator
 begin_operator
@@ -10407,10 +10407,10 @@ pop-start s12 b6 a1 a2 b14 gasoleo oca1
 0
 5
 0 158 -1 0
+0 272 0 1
 0 339 0 1
 0 345 -1 0
 0 390 0 1
-0 272 0 1
 1
 end_operator
 begin_operator
@@ -10418,10 +10418,10 @@ pop-start s12 b6 a1 a2 b15 gasoleo oc1b
 0
 5
 0 159 -1 0
+0 272 0 1
 0 340 0 1
 0 345 -1 0
 0 390 0 1
-0 272 0 1
 1
 end_operator
 begin_operator
@@ -10429,10 +10429,10 @@ pop-start s12 b6 a1 a2 b2 gasoleo lco
 0
 5
 0 160 -1 0
-0 349 0 1
-0 345 -1 0
-0 390 0 1
 0 272 0 1
+0 345 -1 0
+0 349 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -10440,10 +10440,10 @@ pop-start s12 b6 a1 a2 b3 gasoleo oc1b
 0
 5
 0 161 -1 0
-0 348 0 1
-0 345 -1 0
-0 390 0 1
 0 272 0 1
+0 345 -1 0
+0 348 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -10452,9 +10452,9 @@ pop-start s12 b6 a1 a2 b4 gasoleo rat-a
 5
 0 162 -1 0
 0 243 0 1
+0 272 0 1
 0 345 -1 0
 0 390 0 1
-0 272 0 1
 1
 end_operator
 begin_operator
@@ -10462,10 +10462,10 @@ pop-start s12 b6 a1 a2 b5 gasoleo oc1b
 0
 5
 0 163 -1 0
+0 272 0 1
 0 341 0 1
 0 345 -1 0
 0 390 0 1
-0 272 0 1
 1
 end_operator
 begin_operator
@@ -10474,8 +10474,8 @@ pop-start s12 b6 a1 a2 b6 gasoleo gasoleo
 345 0
 3
 0 164 -1 0
-0 390 0 1
 0 272 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -10483,10 +10483,10 @@ pop-start s12 b6 a1 a2 b7 gasoleo gasoleo
 0
 5
 0 151 -1 0
+0 272 0 1
 0 345 -1 0
 0 346 0 1
 0 390 0 1
-0 272 0 1
 1
 end_operator
 begin_operator
@@ -10494,10 +10494,10 @@ pop-start s12 b6 a1 a2 b8 gasoleo oc1b
 0
 5
 0 165 -1 0
-0 345 -1 0
-0 342 0 1
-0 390 0 1
 0 272 0 1
+0 342 0 1
+0 345 -1 0
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -10505,10 +10505,10 @@ pop-start s12 b6 a1 a2 b9 gasoleo lco
 0
 5
 0 203 -1 0
+0 272 0 1
 0 345 -1 0
 0 347 0 1
 0 390 0 1
-0 272 0 1
 1
 end_operator
 begin_operator
@@ -10516,10 +10516,10 @@ pop-start s12 b7 a1 a2 b0 gasoleo oc1b
 0
 5
 0 178 -1 0
+0 273 0 1
 0 335 0 1
 0 346 -1 0
 0 390 0 1
-0 273 0 1
 1
 end_operator
 begin_operator
@@ -10527,10 +10527,10 @@ pop-start s12 b7 a1 a2 b1 gasoleo gasoleo
 0
 5
 0 179 -1 0
+0 273 0 1
 0 343 0 1
 0 346 -1 0
 0 390 0 1
-0 273 0 1
 1
 end_operator
 begin_operator
@@ -10538,10 +10538,10 @@ pop-start s12 b7 a1 a2 b10 gasoleo oc1b
 0
 5
 0 180 -1 0
+0 273 0 1
 0 336 0 1
 0 346 -1 0
 0 390 0 1
-0 273 0 1
 1
 end_operator
 begin_operator
@@ -10549,10 +10549,10 @@ pop-start s12 b7 a1 a2 b11 gasoleo oc1b
 0
 5
 0 181 -1 0
+0 273 0 1
 0 337 0 1
 0 346 -1 0
 0 390 0 1
-0 273 0 1
 1
 end_operator
 begin_operator
@@ -10560,10 +10560,10 @@ pop-start s12 b7 a1 a2 b12 gasoleo lco
 0
 5
 0 182 -1 0
+0 273 0 1
 0 344 0 1
 0 346 -1 0
 0 390 0 1
-0 273 0 1
 1
 end_operator
 begin_operator
@@ -10571,10 +10571,10 @@ pop-start s12 b7 a1 a2 b13 gasoleo oc1b
 0
 5
 0 183 -1 0
+0 273 0 1
 0 338 0 1
 0 346 -1 0
 0 390 0 1
-0 273 0 1
 1
 end_operator
 begin_operator
@@ -10582,10 +10582,10 @@ pop-start s12 b7 a1 a2 b14 gasoleo oca1
 0
 5
 0 184 -1 0
+0 273 0 1
 0 339 0 1
 0 346 -1 0
 0 390 0 1
-0 273 0 1
 1
 end_operator
 begin_operator
@@ -10593,10 +10593,10 @@ pop-start s12 b7 a1 a2 b15 gasoleo oc1b
 0
 5
 0 185 -1 0
+0 273 0 1
 0 340 0 1
 0 346 -1 0
 0 390 0 1
-0 273 0 1
 1
 end_operator
 begin_operator
@@ -10604,10 +10604,10 @@ pop-start s12 b7 a1 a2 b2 gasoleo lco
 0
 5
 0 186 -1 0
-0 349 0 1
-0 346 -1 0
-0 390 0 1
 0 273 0 1
+0 346 -1 0
+0 349 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -10615,10 +10615,10 @@ pop-start s12 b7 a1 a2 b3 gasoleo oc1b
 0
 5
 0 187 -1 0
-0 348 0 1
-0 346 -1 0
-0 390 0 1
 0 273 0 1
+0 346 -1 0
+0 348 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -10627,9 +10627,9 @@ pop-start s12 b7 a1 a2 b4 gasoleo rat-a
 5
 0 188 -1 0
 0 243 0 1
+0 273 0 1
 0 346 -1 0
 0 390 0 1
-0 273 0 1
 1
 end_operator
 begin_operator
@@ -10637,10 +10637,10 @@ pop-start s12 b7 a1 a2 b5 gasoleo oc1b
 0
 5
 0 189 -1 0
+0 273 0 1
 0 341 0 1
 0 346 -1 0
 0 390 0 1
-0 273 0 1
 1
 end_operator
 begin_operator
@@ -10648,10 +10648,10 @@ pop-start s12 b7 a1 a2 b6 gasoleo gasoleo
 0
 5
 0 190 -1 0
+0 273 0 1
 0 345 0 1
 0 346 -1 0
 0 390 0 1
-0 273 0 1
 1
 end_operator
 begin_operator
@@ -10660,8 +10660,8 @@ pop-start s12 b7 a1 a2 b7 gasoleo gasoleo
 346 0
 3
 0 191 -1 0
-0 390 0 1
 0 273 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -10669,10 +10669,10 @@ pop-start s12 b7 a1 a2 b8 gasoleo oc1b
 0
 5
 0 177 -1 0
-0 346 -1 0
-0 342 0 1
-0 390 0 1
 0 273 0 1
+0 342 0 1
+0 346 -1 0
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -10680,10 +10680,10 @@ pop-start s12 b7 a1 a2 b9 gasoleo lco
 0
 5
 0 192 -1 0
+0 273 0 1
 0 346 -1 0
 0 347 0 1
 0 390 0 1
-0 273 0 1
 1
 end_operator
 begin_operator
@@ -10691,10 +10691,10 @@ pop-start s12 b8 a1 a2 b0 oc1b oc1b
 0
 5
 0 205 -1 0
+0 267 0 1
 0 335 0 1
 0 342 -1 0
 0 390 0 1
-0 267 0 1
 1
 end_operator
 begin_operator
@@ -10702,10 +10702,10 @@ pop-start s12 b8 a1 a2 b1 oc1b gasoleo
 0
 5
 0 206 -1 0
-0 343 0 1
-0 342 -1 0
-0 390 0 1
 0 267 0 1
+0 342 -1 0
+0 343 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -10713,10 +10713,10 @@ pop-start s12 b8 a1 a2 b10 oc1b oc1b
 0
 5
 0 207 -1 0
+0 267 0 1
 0 336 0 1
 0 342 -1 0
 0 390 0 1
-0 267 0 1
 1
 end_operator
 begin_operator
@@ -10724,10 +10724,10 @@ pop-start s12 b8 a1 a2 b11 oc1b oc1b
 0
 5
 0 208 -1 0
+0 267 0 1
 0 337 0 1
 0 342 -1 0
 0 390 0 1
-0 267 0 1
 1
 end_operator
 begin_operator
@@ -10735,10 +10735,10 @@ pop-start s12 b8 a1 a2 b12 oc1b lco
 0
 5
 0 209 -1 0
-0 344 0 1
-0 342 -1 0
-0 390 0 1
 0 267 0 1
+0 342 -1 0
+0 344 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -10746,10 +10746,10 @@ pop-start s12 b8 a1 a2 b13 oc1b oc1b
 0
 5
 0 210 -1 0
+0 267 0 1
 0 338 0 1
 0 342 -1 0
 0 390 0 1
-0 267 0 1
 1
 end_operator
 begin_operator
@@ -10757,10 +10757,10 @@ pop-start s12 b8 a1 a2 b14 oc1b oca1
 0
 5
 0 211 -1 0
+0 267 0 1
 0 339 0 1
 0 342 -1 0
 0 390 0 1
-0 267 0 1
 1
 end_operator
 begin_operator
@@ -10768,10 +10768,10 @@ pop-start s12 b8 a1 a2 b15 oc1b oc1b
 0
 5
 0 212 -1 0
+0 267 0 1
 0 340 0 1
 0 342 -1 0
 0 390 0 1
-0 267 0 1
 1
 end_operator
 begin_operator
@@ -10779,10 +10779,10 @@ pop-start s12 b8 a1 a2 b2 oc1b lco
 0
 5
 0 213 -1 0
-0 349 0 1
-0 342 -1 0
-0 390 0 1
 0 267 0 1
+0 342 -1 0
+0 349 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -10790,10 +10790,10 @@ pop-start s12 b8 a1 a2 b3 oc1b oc1b
 0
 5
 0 214 -1 0
-0 348 0 1
-0 342 -1 0
-0 390 0 1
 0 267 0 1
+0 342 -1 0
+0 348 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -10801,10 +10801,10 @@ pop-start s12 b8 a1 a2 b5 oc1b oc1b
 0
 5
 0 215 -1 0
+0 267 0 1
 0 341 0 1
 0 342 -1 0
 0 390 0 1
-0 267 0 1
 1
 end_operator
 begin_operator
@@ -10812,10 +10812,10 @@ pop-start s12 b8 a1 a2 b6 oc1b gasoleo
 0
 5
 0 216 -1 0
-0 345 0 1
-0 342 -1 0
-0 390 0 1
 0 267 0 1
+0 342 -1 0
+0 345 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -10823,10 +10823,10 @@ pop-start s12 b8 a1 a2 b7 oc1b gasoleo
 0
 5
 0 217 -1 0
-0 346 0 1
-0 342 -1 0
-0 390 0 1
 0 267 0 1
+0 342 -1 0
+0 346 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -10835,8 +10835,8 @@ pop-start s12 b8 a1 a2 b8 oc1b oc1b
 342 0
 3
 0 218 -1 0
-0 390 0 1
 0 267 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -10844,10 +10844,10 @@ pop-start s12 b8 a1 a2 b9 oc1b lco
 0
 5
 0 204 -1 0
+0 267 0 1
 0 342 -1 0
 0 347 0 1
 0 390 0 1
-0 267 0 1
 1
 end_operator
 begin_operator
@@ -10855,10 +10855,10 @@ pop-start s12 b9 a1 a2 b0 lco oc1b
 0
 5
 0 219 -1 0
+0 274 0 1
 0 335 0 1
 0 347 -1 0
 0 390 0 1
-0 274 0 1
 1
 end_operator
 begin_operator
@@ -10866,10 +10866,10 @@ pop-start s12 b9 a1 a2 b1 lco gasoleo
 0
 5
 0 220 -1 0
+0 274 0 1
 0 343 0 1
 0 347 -1 0
 0 390 0 1
-0 274 0 1
 1
 end_operator
 begin_operator
@@ -10877,10 +10877,10 @@ pop-start s12 b9 a1 a2 b10 lco oc1b
 0
 5
 0 221 -1 0
+0 274 0 1
 0 336 0 1
 0 347 -1 0
 0 390 0 1
-0 274 0 1
 1
 end_operator
 begin_operator
@@ -10888,10 +10888,10 @@ pop-start s12 b9 a1 a2 b11 lco oc1b
 0
 5
 0 222 -1 0
+0 274 0 1
 0 337 0 1
 0 347 -1 0
 0 390 0 1
-0 274 0 1
 1
 end_operator
 begin_operator
@@ -10899,10 +10899,10 @@ pop-start s12 b9 a1 a2 b12 lco lco
 0
 5
 0 223 -1 0
+0 274 0 1
 0 344 0 1
 0 347 -1 0
 0 390 0 1
-0 274 0 1
 1
 end_operator
 begin_operator
@@ -10910,10 +10910,10 @@ pop-start s12 b9 a1 a2 b13 lco oc1b
 0
 5
 0 224 -1 0
+0 274 0 1
 0 338 0 1
 0 347 -1 0
 0 390 0 1
-0 274 0 1
 1
 end_operator
 begin_operator
@@ -10921,10 +10921,10 @@ pop-start s12 b9 a1 a2 b14 lco oca1
 0
 5
 0 225 -1 0
+0 274 0 1
 0 339 0 1
 0 347 -1 0
 0 390 0 1
-0 274 0 1
 1
 end_operator
 begin_operator
@@ -10932,10 +10932,10 @@ pop-start s12 b9 a1 a2 b15 lco oc1b
 0
 5
 0 226 -1 0
+0 274 0 1
 0 340 0 1
 0 347 -1 0
 0 390 0 1
-0 274 0 1
 1
 end_operator
 begin_operator
@@ -10943,10 +10943,10 @@ pop-start s12 b9 a1 a2 b2 lco lco
 0
 5
 0 227 -1 0
-0 349 0 1
-0 347 -1 0
-0 390 0 1
 0 274 0 1
+0 347 -1 0
+0 349 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -10954,10 +10954,10 @@ pop-start s12 b9 a1 a2 b3 lco oc1b
 0
 5
 0 228 -1 0
-0 348 0 1
-0 347 -1 0
-0 390 0 1
 0 274 0 1
+0 347 -1 0
+0 348 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -10966,9 +10966,9 @@ pop-start s12 b9 a1 a2 b4 lco rat-a
 5
 0 229 -1 0
 0 243 0 1
+0 274 0 1
 0 347 -1 0
 0 390 0 1
-0 274 0 1
 1
 end_operator
 begin_operator
@@ -10976,10 +10976,10 @@ pop-start s12 b9 a1 a2 b5 lco oc1b
 0
 5
 0 230 -1 0
+0 274 0 1
 0 341 0 1
 0 347 -1 0
 0 390 0 1
-0 274 0 1
 1
 end_operator
 begin_operator
@@ -10987,10 +10987,10 @@ pop-start s12 b9 a1 a2 b6 lco gasoleo
 0
 5
 0 231 -1 0
+0 274 0 1
 0 345 0 1
 0 347 -1 0
 0 390 0 1
-0 274 0 1
 1
 end_operator
 begin_operator
@@ -10998,10 +10998,10 @@ pop-start s12 b9 a1 a2 b7 lco gasoleo
 0
 5
 0 232 -1 0
+0 274 0 1
 0 346 0 1
 0 347 -1 0
 0 390 0 1
-0 274 0 1
 1
 end_operator
 begin_operator
@@ -11009,10 +11009,10 @@ pop-start s12 b9 a1 a2 b8 lco oc1b
 0
 5
 0 233 -1 0
+0 274 0 1
 0 342 0 1
 0 347 -1 0
 0 390 0 1
-0 274 0 1
 1
 end_operator
 begin_operator
@@ -11021,8 +11021,8 @@ pop-start s12 b9 a1 a2 b9 lco lco
 347 0
 3
 0 234 -1 0
-0 390 0 1
 0 274 0 1
+0 390 0 1
 1
 end_operator
 begin_operator
@@ -11031,8 +11031,8 @@ pop-start s13 b0 a1 a3 b0 oc1b oc1b
 320 0
 3
 0 3 -1 0
-0 393 0 1
 0 305 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -11040,10 +11040,10 @@ pop-start s13 b0 a1 a3 b1 oc1b gasoleo
 0
 5
 0 2 -1 0
+0 305 0 1
 0 320 -1 0
 0 329 0 1
 0 393 0 1
-0 305 0 1
 1
 end_operator
 begin_operator
@@ -11051,10 +11051,10 @@ pop-start s13 b0 a1 a3 b10 oc1b oc1b
 0
 5
 0 4 -1 0
+0 305 0 1
 0 320 -1 0
 0 321 0 1
 0 393 0 1
-0 305 0 1
 1
 end_operator
 begin_operator
@@ -11062,10 +11062,10 @@ pop-start s13 b0 a1 a3 b11 oc1b oc1b
 0
 5
 0 5 -1 0
+0 305 0 1
 0 320 -1 0
 0 322 0 1
 0 393 0 1
-0 305 0 1
 1
 end_operator
 begin_operator
@@ -11073,10 +11073,10 @@ pop-start s13 b0 a1 a3 b12 oc1b lco
 0
 5
 0 8 -1 0
+0 305 0 1
 0 320 -1 0
 0 330 0 1
 0 393 0 1
-0 305 0 1
 1
 end_operator
 begin_operator
@@ -11084,10 +11084,10 @@ pop-start s13 b0 a1 a3 b13 oc1b oc1b
 0
 5
 0 18 -1 0
+0 305 0 1
 0 320 -1 0
 0 323 0 1
 0 393 0 1
-0 305 0 1
 1
 end_operator
 begin_operator
@@ -11095,10 +11095,10 @@ pop-start s13 b0 a1 a3 b14 oc1b oca1
 0
 5
 0 20 -1 0
+0 305 0 1
 0 320 -1 0
 0 324 0 1
 0 393 0 1
-0 305 0 1
 1
 end_operator
 begin_operator
@@ -11106,10 +11106,10 @@ pop-start s13 b0 a1 a3 b15 oc1b oc1b
 0
 5
 0 49 -1 0
+0 305 0 1
 0 320 -1 0
 0 325 0 1
 0 393 0 1
-0 305 0 1
 1
 end_operator
 begin_operator
@@ -11117,10 +11117,10 @@ pop-start s13 b0 a1 a3 b2 oc1b lco
 0
 5
 0 52 -1 0
+0 305 0 1
 0 320 -1 0
 0 331 0 1
 0 393 0 1
-0 305 0 1
 1
 end_operator
 begin_operator
@@ -11128,10 +11128,10 @@ pop-start s13 b0 a1 a3 b3 oc1b oc1b
 0
 5
 0 81 -1 0
+0 305 0 1
 0 320 -1 0
 0 326 0 1
 0 393 0 1
-0 305 0 1
 1
 end_operator
 begin_operator
@@ -11139,10 +11139,10 @@ pop-start s13 b0 a1 a3 b5 oc1b oc1b
 0
 5
 0 100 -1 0
+0 305 0 1
 0 320 -1 0
 0 327 0 1
 0 393 0 1
-0 305 0 1
 1
 end_operator
 begin_operator
@@ -11150,10 +11150,10 @@ pop-start s13 b0 a1 a3 b6 oc1b gasoleo
 0
 5
 0 121 -1 0
+0 305 0 1
 0 320 -1 0
 0 332 0 1
 0 393 0 1
-0 305 0 1
 1
 end_operator
 begin_operator
@@ -11161,10 +11161,10 @@ pop-start s13 b0 a1 a3 b7 oc1b gasoleo
 0
 5
 0 140 -1 0
+0 305 0 1
 0 320 -1 0
 0 333 0 1
 0 393 0 1
-0 305 0 1
 1
 end_operator
 begin_operator
@@ -11172,10 +11172,10 @@ pop-start s13 b0 a1 a3 b8 oc1b oc1b
 0
 5
 0 166 -1 0
+0 305 0 1
 0 320 -1 0
 0 328 0 1
 0 393 0 1
-0 305 0 1
 1
 end_operator
 begin_operator
@@ -11183,10 +11183,10 @@ pop-start s13 b0 a1 a3 b9 oc1b lco
 0
 5
 0 0 -1 0
+0 305 0 1
 0 320 -1 0
 0 334 0 1
 0 393 0 1
-0 305 0 1
 1
 end_operator
 begin_operator
@@ -11194,10 +11194,10 @@ pop-start s13 b1 a1 a3 b0 gasoleo oc1b
 0
 5
 0 7 -1 0
+0 314 0 1
 0 320 0 1
 0 329 -1 0
 0 393 0 1
-0 314 0 1
 1
 end_operator
 begin_operator
@@ -11206,8 +11206,8 @@ pop-start s13 b1 a1 a3 b1 gasoleo gasoleo
 329 0
 3
 0 16 -1 0
-0 393 0 1
 0 314 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -11215,10 +11215,10 @@ pop-start s13 b1 a1 a3 b10 gasoleo oc1b
 0
 5
 0 11 -1 0
-0 329 -1 0
-0 321 0 1
-0 393 0 1
 0 314 0 1
+0 321 0 1
+0 329 -1 0
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -11226,10 +11226,10 @@ pop-start s13 b1 a1 a3 b11 gasoleo oc1b
 0
 5
 0 6 -1 0
-0 329 -1 0
-0 322 0 1
-0 393 0 1
 0 314 0 1
+0 322 0 1
+0 329 -1 0
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -11237,10 +11237,10 @@ pop-start s13 b1 a1 a3 b12 gasoleo lco
 0
 5
 0 9 -1 0
+0 314 0 1
 0 329 -1 0
 0 330 0 1
 0 393 0 1
-0 314 0 1
 1
 end_operator
 begin_operator
@@ -11248,10 +11248,10 @@ pop-start s13 b1 a1 a3 b13 gasoleo oc1b
 0
 5
 0 17 -1 0
-0 329 -1 0
-0 323 0 1
-0 393 0 1
 0 314 0 1
+0 323 0 1
+0 329 -1 0
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -11259,10 +11259,10 @@ pop-start s13 b1 a1 a3 b14 gasoleo oca1
 0
 5
 0 21 -1 0
-0 329 -1 0
-0 324 0 1
-0 393 0 1
 0 314 0 1
+0 324 0 1
+0 329 -1 0
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -11270,10 +11270,10 @@ pop-start s13 b1 a1 a3 b15 gasoleo oc1b
 0
 5
 0 50 -1 0
-0 329 -1 0
-0 325 0 1
-0 393 0 1
 0 314 0 1
+0 325 0 1
+0 329 -1 0
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -11281,10 +11281,10 @@ pop-start s13 b1 a1 a3 b2 gasoleo lco
 0
 5
 0 51 -1 0
+0 314 0 1
 0 329 -1 0
 0 331 0 1
 0 393 0 1
-0 314 0 1
 1
 end_operator
 begin_operator
@@ -11292,10 +11292,10 @@ pop-start s13 b1 a1 a3 b3 gasoleo oc1b
 0
 5
 0 82 -1 0
-0 329 -1 0
-0 326 0 1
-0 393 0 1
 0 314 0 1
+0 326 0 1
+0 329 -1 0
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -11303,10 +11303,10 @@ pop-start s13 b1 a1 a3 b4 gasoleo rat-a
 0
 5
 0 132 -1 0
-0 329 -1 0
 0 244 0 1
-0 393 0 1
 0 314 0 1
+0 329 -1 0
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -11314,10 +11314,10 @@ pop-start s13 b1 a1 a3 b5 gasoleo oc1b
 0
 5
 0 101 -1 0
-0 329 -1 0
-0 327 0 1
-0 393 0 1
 0 314 0 1
+0 327 0 1
+0 329 -1 0
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -11325,10 +11325,10 @@ pop-start s13 b1 a1 a3 b6 gasoleo gasoleo
 0
 5
 0 122 -1 0
+0 314 0 1
 0 329 -1 0
 0 332 0 1
 0 393 0 1
-0 314 0 1
 1
 end_operator
 begin_operator
@@ -11336,10 +11336,10 @@ pop-start s13 b1 a1 a3 b7 gasoleo gasoleo
 0
 5
 0 141 -1 0
+0 314 0 1
 0 329 -1 0
 0 333 0 1
 0 393 0 1
-0 314 0 1
 1
 end_operator
 begin_operator
@@ -11347,10 +11347,10 @@ pop-start s13 b1 a1 a3 b8 gasoleo oc1b
 0
 5
 0 167 -1 0
-0 329 -1 0
-0 328 0 1
-0 393 0 1
 0 314 0 1
+0 328 0 1
+0 329 -1 0
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -11358,10 +11358,10 @@ pop-start s13 b1 a1 a3 b9 gasoleo lco
 0
 5
 0 1 -1 0
+0 314 0 1
 0 329 -1 0
 0 334 0 1
 0 393 0 1
-0 314 0 1
 1
 end_operator
 begin_operator
@@ -11369,10 +11369,10 @@ pop-start s13 b10 a1 a3 b0 oc1b oc1b
 0
 5
 0 12 -1 0
+0 306 0 1
 0 320 0 1
 0 321 -1 0
 0 393 0 1
-0 306 0 1
 1
 end_operator
 begin_operator
@@ -11380,10 +11380,10 @@ pop-start s13 b10 a1 a3 b1 oc1b gasoleo
 0
 5
 0 15 -1 0
-0 329 0 1
-0 321 -1 0
-0 393 0 1
 0 306 0 1
+0 321 -1 0
+0 329 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -11392,8 +11392,8 @@ pop-start s13 b10 a1 a3 b10 oc1b oc1b
 321 0
 3
 0 26 -1 0
-0 393 0 1
 0 306 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -11401,10 +11401,10 @@ pop-start s13 b10 a1 a3 b11 oc1b oc1b
 0
 5
 0 14 -1 0
+0 306 0 1
 0 321 -1 0
 0 322 0 1
 0 393 0 1
-0 306 0 1
 1
 end_operator
 begin_operator
@@ -11412,10 +11412,10 @@ pop-start s13 b10 a1 a3 b12 oc1b lco
 0
 5
 0 10 -1 0
+0 306 0 1
 0 321 -1 0
 0 330 0 1
 0 393 0 1
-0 306 0 1
 1
 end_operator
 begin_operator
@@ -11423,10 +11423,10 @@ pop-start s13 b10 a1 a3 b13 oc1b oc1b
 0
 5
 0 19 -1 0
+0 306 0 1
 0 321 -1 0
 0 323 0 1
 0 393 0 1
-0 306 0 1
 1
 end_operator
 begin_operator
@@ -11434,10 +11434,10 @@ pop-start s13 b10 a1 a3 b14 oc1b oca1
 0
 5
 0 22 -1 0
+0 306 0 1
 0 321 -1 0
 0 324 0 1
 0 393 0 1
-0 306 0 1
 1
 end_operator
 begin_operator
@@ -11445,10 +11445,10 @@ pop-start s13 b10 a1 a3 b15 oc1b oc1b
 0
 5
 0 66 -1 0
+0 306 0 1
 0 321 -1 0
 0 325 0 1
 0 393 0 1
-0 306 0 1
 1
 end_operator
 begin_operator
@@ -11456,10 +11456,10 @@ pop-start s13 b10 a1 a3 b2 oc1b lco
 0
 5
 0 53 -1 0
+0 306 0 1
 0 321 -1 0
 0 331 0 1
 0 393 0 1
-0 306 0 1
 1
 end_operator
 begin_operator
@@ -11467,10 +11467,10 @@ pop-start s13 b10 a1 a3 b3 oc1b oc1b
 0
 5
 0 83 -1 0
+0 306 0 1
 0 321 -1 0
 0 326 0 1
 0 393 0 1
-0 306 0 1
 1
 end_operator
 begin_operator
@@ -11478,10 +11478,10 @@ pop-start s13 b10 a1 a3 b5 oc1b oc1b
 0
 5
 0 102 -1 0
+0 306 0 1
 0 321 -1 0
 0 327 0 1
 0 393 0 1
-0 306 0 1
 1
 end_operator
 begin_operator
@@ -11489,10 +11489,10 @@ pop-start s13 b10 a1 a3 b6 oc1b gasoleo
 0
 5
 0 123 -1 0
+0 306 0 1
 0 321 -1 0
 0 332 0 1
 0 393 0 1
-0 306 0 1
 1
 end_operator
 begin_operator
@@ -11500,10 +11500,10 @@ pop-start s13 b10 a1 a3 b7 oc1b gasoleo
 0
 5
 0 142 -1 0
+0 306 0 1
 0 321 -1 0
 0 333 0 1
 0 393 0 1
-0 306 0 1
 1
 end_operator
 begin_operator
@@ -11511,10 +11511,10 @@ pop-start s13 b10 a1 a3 b8 oc1b oc1b
 0
 5
 0 168 -1 0
+0 306 0 1
 0 321 -1 0
 0 328 0 1
 0 393 0 1
-0 306 0 1
 1
 end_operator
 begin_operator
@@ -11522,10 +11522,10 @@ pop-start s13 b10 a1 a3 b9 oc1b lco
 0
 5
 0 193 -1 0
+0 306 0 1
 0 321 -1 0
 0 334 0 1
 0 393 0 1
-0 306 0 1
 1
 end_operator
 begin_operator
@@ -11533,10 +11533,10 @@ pop-start s13 b11 a1 a3 b0 oc1b oc1b
 0
 5
 0 13 -1 0
+0 313 0 1
 0 320 0 1
 0 322 -1 0
 0 393 0 1
-0 313 0 1
 1
 end_operator
 begin_operator
@@ -11544,10 +11544,10 @@ pop-start s13 b11 a1 a3 b1 oc1b gasoleo
 0
 5
 0 24 -1 0
-0 329 0 1
-0 322 -1 0
-0 393 0 1
 0 313 0 1
+0 322 -1 0
+0 329 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -11555,10 +11555,10 @@ pop-start s13 b11 a1 a3 b10 oc1b oc1b
 0
 5
 0 25 -1 0
+0 313 0 1
 0 321 0 1
 0 322 -1 0
 0 393 0 1
-0 313 0 1
 1
 end_operator
 begin_operator
@@ -11567,8 +11567,8 @@ pop-start s13 b11 a1 a3 b11 oc1b oc1b
 322 0
 3
 0 31 -1 0
-0 393 0 1
 0 313 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -11576,10 +11576,10 @@ pop-start s13 b11 a1 a3 b12 oc1b lco
 0
 5
 0 37 -1 0
+0 313 0 1
 0 322 -1 0
 0 330 0 1
 0 393 0 1
-0 313 0 1
 1
 end_operator
 begin_operator
@@ -11587,10 +11587,10 @@ pop-start s13 b11 a1 a3 b13 oc1b oc1b
 0
 5
 0 45 -1 0
+0 313 0 1
 0 322 -1 0
 0 323 0 1
 0 393 0 1
-0 313 0 1
 1
 end_operator
 begin_operator
@@ -11598,10 +11598,10 @@ pop-start s13 b11 a1 a3 b14 oc1b oca1
 0
 5
 0 23 -1 0
+0 313 0 1
 0 322 -1 0
 0 324 0 1
 0 393 0 1
-0 313 0 1
 1
 end_operator
 begin_operator
@@ -11609,10 +11609,10 @@ pop-start s13 b11 a1 a3 b15 oc1b oc1b
 0
 5
 0 67 -1 0
+0 313 0 1
 0 322 -1 0
 0 325 0 1
 0 393 0 1
-0 313 0 1
 1
 end_operator
 begin_operator
@@ -11620,10 +11620,10 @@ pop-start s13 b11 a1 a3 b2 oc1b lco
 0
 5
 0 54 -1 0
+0 313 0 1
 0 322 -1 0
 0 331 0 1
 0 393 0 1
-0 313 0 1
 1
 end_operator
 begin_operator
@@ -11631,10 +11631,10 @@ pop-start s13 b11 a1 a3 b3 oc1b oc1b
 0
 5
 0 84 -1 0
+0 313 0 1
 0 322 -1 0
 0 326 0 1
 0 393 0 1
-0 313 0 1
 1
 end_operator
 begin_operator
@@ -11642,10 +11642,10 @@ pop-start s13 b11 a1 a3 b5 oc1b oc1b
 0
 5
 0 103 -1 0
+0 313 0 1
 0 322 -1 0
 0 327 0 1
 0 393 0 1
-0 313 0 1
 1
 end_operator
 begin_operator
@@ -11653,10 +11653,10 @@ pop-start s13 b11 a1 a3 b6 oc1b gasoleo
 0
 5
 0 124 -1 0
+0 313 0 1
 0 322 -1 0
 0 332 0 1
 0 393 0 1
-0 313 0 1
 1
 end_operator
 begin_operator
@@ -11664,10 +11664,10 @@ pop-start s13 b11 a1 a3 b7 oc1b gasoleo
 0
 5
 0 143 -1 0
+0 313 0 1
 0 322 -1 0
 0 333 0 1
 0 393 0 1
-0 313 0 1
 1
 end_operator
 begin_operator
@@ -11675,10 +11675,10 @@ pop-start s13 b11 a1 a3 b8 oc1b oc1b
 0
 5
 0 169 -1 0
+0 313 0 1
 0 322 -1 0
 0 328 0 1
 0 393 0 1
-0 313 0 1
 1
 end_operator
 begin_operator
@@ -11686,10 +11686,10 @@ pop-start s13 b11 a1 a3 b9 oc1b lco
 0
 5
 0 194 -1 0
+0 313 0 1
 0 322 -1 0
 0 334 0 1
 0 393 0 1
-0 313 0 1
 1
 end_operator
 begin_operator
@@ -11697,10 +11697,10 @@ pop-start s13 b12 a1 a3 b0 lco oc1b
 0
 5
 0 28 -1 0
+0 315 0 1
 0 320 0 1
 0 330 -1 0
 0 393 0 1
-0 315 0 1
 1
 end_operator
 begin_operator
@@ -11708,10 +11708,10 @@ pop-start s13 b12 a1 a3 b1 lco gasoleo
 0
 5
 0 29 -1 0
+0 315 0 1
 0 329 0 1
 0 330 -1 0
 0 393 0 1
-0 315 0 1
 1
 end_operator
 begin_operator
@@ -11719,10 +11719,10 @@ pop-start s13 b12 a1 a3 b10 lco oc1b
 0
 5
 0 27 -1 0
+0 315 0 1
 0 321 0 1
 0 330 -1 0
 0 393 0 1
-0 315 0 1
 1
 end_operator
 begin_operator
@@ -11730,10 +11730,10 @@ pop-start s13 b12 a1 a3 b11 lco oc1b
 0
 5
 0 30 -1 0
+0 315 0 1
 0 322 0 1
 0 330 -1 0
 0 393 0 1
-0 315 0 1
 1
 end_operator
 begin_operator
@@ -11742,8 +11742,8 @@ pop-start s13 b12 a1 a3 b12 lco lco
 330 0
 3
 0 38 -1 0
-0 393 0 1
 0 315 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -11751,10 +11751,10 @@ pop-start s13 b12 a1 a3 b13 lco oc1b
 0
 5
 0 46 -1 0
-0 330 -1 0
-0 323 0 1
-0 393 0 1
 0 315 0 1
+0 323 0 1
+0 330 -1 0
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -11762,10 +11762,10 @@ pop-start s13 b12 a1 a3 b14 lco oca1
 0
 5
 0 237 -1 0
-0 330 -1 0
-0 324 0 1
-0 393 0 1
 0 315 0 1
+0 324 0 1
+0 330 -1 0
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -11773,10 +11773,10 @@ pop-start s13 b12 a1 a3 b15 lco oc1b
 0
 5
 0 68 -1 0
-0 330 -1 0
-0 325 0 1
-0 393 0 1
 0 315 0 1
+0 325 0 1
+0 330 -1 0
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -11784,10 +11784,10 @@ pop-start s13 b12 a1 a3 b2 lco lco
 0
 5
 0 55 -1 0
+0 315 0 1
 0 330 -1 0
 0 331 0 1
 0 393 0 1
-0 315 0 1
 1
 end_operator
 begin_operator
@@ -11795,10 +11795,10 @@ pop-start s13 b12 a1 a3 b3 lco oc1b
 0
 5
 0 85 -1 0
-0 330 -1 0
-0 326 0 1
-0 393 0 1
 0 315 0 1
+0 326 0 1
+0 330 -1 0
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -11806,10 +11806,10 @@ pop-start s13 b12 a1 a3 b4 lco rat-a
 0
 5
 0 133 -1 0
-0 330 -1 0
 0 244 0 1
-0 393 0 1
 0 315 0 1
+0 330 -1 0
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -11817,10 +11817,10 @@ pop-start s13 b12 a1 a3 b5 lco oc1b
 0
 5
 0 104 -1 0
-0 330 -1 0
-0 327 0 1
-0 393 0 1
 0 315 0 1
+0 327 0 1
+0 330 -1 0
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -11828,10 +11828,10 @@ pop-start s13 b12 a1 a3 b6 lco gasoleo
 0
 5
 0 125 -1 0
+0 315 0 1
 0 330 -1 0
 0 332 0 1
 0 393 0 1
-0 315 0 1
 1
 end_operator
 begin_operator
@@ -11839,10 +11839,10 @@ pop-start s13 b12 a1 a3 b7 lco gasoleo
 0
 5
 0 144 -1 0
+0 315 0 1
 0 330 -1 0
 0 333 0 1
 0 393 0 1
-0 315 0 1
 1
 end_operator
 begin_operator
@@ -11850,10 +11850,10 @@ pop-start s13 b12 a1 a3 b8 lco oc1b
 0
 5
 0 170 -1 0
-0 330 -1 0
-0 328 0 1
-0 393 0 1
 0 315 0 1
+0 328 0 1
+0 330 -1 0
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -11861,10 +11861,10 @@ pop-start s13 b12 a1 a3 b9 lco lco
 0
 5
 0 195 -1 0
+0 315 0 1
 0 330 -1 0
 0 334 0 1
 0 393 0 1
-0 315 0 1
 1
 end_operator
 begin_operator
@@ -11872,10 +11872,10 @@ pop-start s13 b13 a1 a3 b0 oc1b oc1b
 0
 5
 0 33 -1 0
+0 307 0 1
 0 320 0 1
 0 323 -1 0
 0 393 0 1
-0 307 0 1
 1
 end_operator
 begin_operator
@@ -11883,10 +11883,10 @@ pop-start s13 b13 a1 a3 b1 oc1b gasoleo
 0
 5
 0 34 -1 0
-0 329 0 1
-0 323 -1 0
-0 393 0 1
 0 307 0 1
+0 323 -1 0
+0 329 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -11894,10 +11894,10 @@ pop-start s13 b13 a1 a3 b10 oc1b oc1b
 0
 5
 0 35 -1 0
+0 307 0 1
 0 321 0 1
 0 323 -1 0
 0 393 0 1
-0 307 0 1
 1
 end_operator
 begin_operator
@@ -11905,10 +11905,10 @@ pop-start s13 b13 a1 a3 b11 oc1b oc1b
 0
 5
 0 32 -1 0
+0 307 0 1
 0 322 0 1
 0 323 -1 0
 0 393 0 1
-0 307 0 1
 1
 end_operator
 begin_operator
@@ -11916,10 +11916,10 @@ pop-start s13 b13 a1 a3 b12 oc1b lco
 0
 5
 0 36 -1 0
-0 330 0 1
-0 323 -1 0
-0 393 0 1
 0 307 0 1
+0 323 -1 0
+0 330 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -11928,8 +11928,8 @@ pop-start s13 b13 a1 a3 b13 oc1b oc1b
 323 0
 3
 0 47 -1 0
-0 393 0 1
 0 307 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -11937,10 +11937,10 @@ pop-start s13 b13 a1 a3 b14 oc1b oca1
 0
 5
 0 236 -1 0
+0 307 0 1
 0 323 -1 0
 0 324 0 1
 0 393 0 1
-0 307 0 1
 1
 end_operator
 begin_operator
@@ -11948,10 +11948,10 @@ pop-start s13 b13 a1 a3 b15 oc1b oc1b
 0
 5
 0 69 -1 0
+0 307 0 1
 0 323 -1 0
 0 325 0 1
 0 393 0 1
-0 307 0 1
 1
 end_operator
 begin_operator
@@ -11959,10 +11959,10 @@ pop-start s13 b13 a1 a3 b2 oc1b lco
 0
 5
 0 56 -1 0
+0 307 0 1
 0 323 -1 0
 0 331 0 1
 0 393 0 1
-0 307 0 1
 1
 end_operator
 begin_operator
@@ -11970,10 +11970,10 @@ pop-start s13 b13 a1 a3 b3 oc1b oc1b
 0
 5
 0 86 -1 0
+0 307 0 1
 0 323 -1 0
 0 326 0 1
 0 393 0 1
-0 307 0 1
 1
 end_operator
 begin_operator
@@ -11981,10 +11981,10 @@ pop-start s13 b13 a1 a3 b5 oc1b oc1b
 0
 5
 0 105 -1 0
+0 307 0 1
 0 323 -1 0
 0 327 0 1
 0 393 0 1
-0 307 0 1
 1
 end_operator
 begin_operator
@@ -11992,10 +11992,10 @@ pop-start s13 b13 a1 a3 b6 oc1b gasoleo
 0
 5
 0 126 -1 0
+0 307 0 1
 0 323 -1 0
 0 332 0 1
 0 393 0 1
-0 307 0 1
 1
 end_operator
 begin_operator
@@ -12003,10 +12003,10 @@ pop-start s13 b13 a1 a3 b7 oc1b gasoleo
 0
 5
 0 145 -1 0
+0 307 0 1
 0 323 -1 0
 0 333 0 1
 0 393 0 1
-0 307 0 1
 1
 end_operator
 begin_operator
@@ -12014,10 +12014,10 @@ pop-start s13 b13 a1 a3 b8 oc1b oc1b
 0
 5
 0 171 -1 0
+0 307 0 1
 0 323 -1 0
 0 328 0 1
 0 393 0 1
-0 307 0 1
 1
 end_operator
 begin_operator
@@ -12025,10 +12025,10 @@ pop-start s13 b13 a1 a3 b9 oc1b lco
 0
 5
 0 196 -1 0
+0 307 0 1
 0 323 -1 0
 0 334 0 1
 0 393 0 1
-0 307 0 1
 1
 end_operator
 begin_operator
@@ -12036,10 +12036,10 @@ pop-start s13 b14 a1 a3 b0 oca1 oc1b
 0
 5
 0 40 -1 0
+0 308 0 1
 0 320 0 1
 0 324 -1 0
 0 393 0 1
-0 308 0 1
 1
 end_operator
 begin_operator
@@ -12047,10 +12047,10 @@ pop-start s13 b14 a1 a3 b1 oca1 gasoleo
 0
 5
 0 41 -1 0
-0 329 0 1
-0 324 -1 0
-0 393 0 1
 0 308 0 1
+0 324 -1 0
+0 329 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -12058,10 +12058,10 @@ pop-start s13 b14 a1 a3 b10 oca1 oc1b
 0
 5
 0 42 -1 0
+0 308 0 1
 0 321 0 1
 0 324 -1 0
 0 393 0 1
-0 308 0 1
 1
 end_operator
 begin_operator
@@ -12069,10 +12069,10 @@ pop-start s13 b14 a1 a3 b11 oca1 oc1b
 0
 5
 0 43 -1 0
+0 308 0 1
 0 322 0 1
 0 324 -1 0
 0 393 0 1
-0 308 0 1
 1
 end_operator
 begin_operator
@@ -12080,10 +12080,10 @@ pop-start s13 b14 a1 a3 b12 oca1 lco
 0
 5
 0 39 -1 0
-0 330 0 1
-0 324 -1 0
-0 393 0 1
 0 308 0 1
+0 324 -1 0
+0 330 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -12091,10 +12091,10 @@ pop-start s13 b14 a1 a3 b13 oca1 oc1b
 0
 5
 0 44 -1 0
+0 308 0 1
 0 323 0 1
 0 324 -1 0
 0 393 0 1
-0 308 0 1
 1
 end_operator
 begin_operator
@@ -12103,8 +12103,8 @@ pop-start s13 b14 a1 a3 b14 oca1 oca1
 324 0
 3
 0 235 -1 0
-0 393 0 1
 0 308 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -12112,10 +12112,10 @@ pop-start s13 b14 a1 a3 b15 oca1 oc1b
 0
 5
 0 70 -1 0
+0 308 0 1
 0 324 -1 0
 0 325 0 1
 0 393 0 1
-0 308 0 1
 1
 end_operator
 begin_operator
@@ -12123,10 +12123,10 @@ pop-start s13 b14 a1 a3 b2 oca1 lco
 0
 5
 0 57 -1 0
+0 308 0 1
 0 324 -1 0
 0 331 0 1
 0 393 0 1
-0 308 0 1
 1
 end_operator
 begin_operator
@@ -12134,10 +12134,10 @@ pop-start s13 b14 a1 a3 b3 oca1 oc1b
 0
 5
 0 87 -1 0
+0 308 0 1
 0 324 -1 0
 0 326 0 1
 0 393 0 1
-0 308 0 1
 1
 end_operator
 begin_operator
@@ -12145,10 +12145,10 @@ pop-start s13 b14 a1 a3 b5 oca1 oc1b
 0
 5
 0 106 -1 0
+0 308 0 1
 0 324 -1 0
 0 327 0 1
 0 393 0 1
-0 308 0 1
 1
 end_operator
 begin_operator
@@ -12156,10 +12156,10 @@ pop-start s13 b14 a1 a3 b6 oca1 gasoleo
 0
 5
 0 127 -1 0
+0 308 0 1
 0 324 -1 0
 0 332 0 1
 0 393 0 1
-0 308 0 1
 1
 end_operator
 begin_operator
@@ -12167,10 +12167,10 @@ pop-start s13 b14 a1 a3 b7 oca1 gasoleo
 0
 5
 0 146 -1 0
+0 308 0 1
 0 324 -1 0
 0 333 0 1
 0 393 0 1
-0 308 0 1
 1
 end_operator
 begin_operator
@@ -12178,10 +12178,10 @@ pop-start s13 b14 a1 a3 b8 oca1 oc1b
 0
 5
 0 172 -1 0
+0 308 0 1
 0 324 -1 0
 0 328 0 1
 0 393 0 1
-0 308 0 1
 1
 end_operator
 begin_operator
@@ -12189,10 +12189,10 @@ pop-start s13 b14 a1 a3 b9 oca1 lco
 0
 5
 0 197 -1 0
+0 308 0 1
 0 324 -1 0
 0 334 0 1
 0 393 0 1
-0 308 0 1
 1
 end_operator
 begin_operator
@@ -12200,10 +12200,10 @@ pop-start s13 b15 a1 a3 b0 oc1b oc1b
 0
 5
 0 59 -1 0
+0 309 0 1
 0 320 0 1
 0 325 -1 0
 0 393 0 1
-0 309 0 1
 1
 end_operator
 begin_operator
@@ -12211,10 +12211,10 @@ pop-start s13 b15 a1 a3 b1 oc1b gasoleo
 0
 5
 0 60 -1 0
-0 329 0 1
-0 325 -1 0
-0 393 0 1
 0 309 0 1
+0 325 -1 0
+0 329 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -12222,10 +12222,10 @@ pop-start s13 b15 a1 a3 b10 oc1b oc1b
 0
 5
 0 61 -1 0
+0 309 0 1
 0 321 0 1
 0 325 -1 0
 0 393 0 1
-0 309 0 1
 1
 end_operator
 begin_operator
@@ -12233,10 +12233,10 @@ pop-start s13 b15 a1 a3 b11 oc1b oc1b
 0
 5
 0 62 -1 0
+0 309 0 1
 0 322 0 1
 0 325 -1 0
 0 393 0 1
-0 309 0 1
 1
 end_operator
 begin_operator
@@ -12244,10 +12244,10 @@ pop-start s13 b15 a1 a3 b12 oc1b lco
 0
 5
 0 63 -1 0
-0 330 0 1
-0 325 -1 0
-0 393 0 1
 0 309 0 1
+0 325 -1 0
+0 330 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -12255,10 +12255,10 @@ pop-start s13 b15 a1 a3 b13 oc1b oc1b
 0
 5
 0 48 -1 0
+0 309 0 1
 0 323 0 1
 0 325 -1 0
 0 393 0 1
-0 309 0 1
 1
 end_operator
 begin_operator
@@ -12266,10 +12266,10 @@ pop-start s13 b15 a1 a3 b14 oc1b oca1
 0
 5
 0 64 -1 0
+0 309 0 1
 0 324 0 1
 0 325 -1 0
 0 393 0 1
-0 309 0 1
 1
 end_operator
 begin_operator
@@ -12278,8 +12278,8 @@ pop-start s13 b15 a1 a3 b15 oc1b oc1b
 325 0
 3
 0 65 -1 0
-0 393 0 1
 0 309 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -12287,10 +12287,10 @@ pop-start s13 b15 a1 a3 b2 oc1b lco
 0
 5
 0 58 -1 0
+0 309 0 1
 0 325 -1 0
 0 331 0 1
 0 393 0 1
-0 309 0 1
 1
 end_operator
 begin_operator
@@ -12298,10 +12298,10 @@ pop-start s13 b15 a1 a3 b3 oc1b oc1b
 0
 5
 0 88 -1 0
+0 309 0 1
 0 325 -1 0
 0 326 0 1
 0 393 0 1
-0 309 0 1
 1
 end_operator
 begin_operator
@@ -12309,10 +12309,10 @@ pop-start s13 b15 a1 a3 b5 oc1b oc1b
 0
 5
 0 107 -1 0
+0 309 0 1
 0 325 -1 0
 0 327 0 1
 0 393 0 1
-0 309 0 1
 1
 end_operator
 begin_operator
@@ -12320,10 +12320,10 @@ pop-start s13 b15 a1 a3 b6 oc1b gasoleo
 0
 5
 0 128 -1 0
+0 309 0 1
 0 325 -1 0
 0 332 0 1
 0 393 0 1
-0 309 0 1
 1
 end_operator
 begin_operator
@@ -12331,10 +12331,10 @@ pop-start s13 b15 a1 a3 b7 oc1b gasoleo
 0
 5
 0 147 -1 0
+0 309 0 1
 0 325 -1 0
 0 333 0 1
 0 393 0 1
-0 309 0 1
 1
 end_operator
 begin_operator
@@ -12342,10 +12342,10 @@ pop-start s13 b15 a1 a3 b8 oc1b oc1b
 0
 5
 0 173 -1 0
+0 309 0 1
 0 325 -1 0
 0 328 0 1
 0 393 0 1
-0 309 0 1
 1
 end_operator
 begin_operator
@@ -12353,10 +12353,10 @@ pop-start s13 b15 a1 a3 b9 oc1b lco
 0
 5
 0 198 -1 0
+0 309 0 1
 0 325 -1 0
 0 334 0 1
 0 393 0 1
-0 309 0 1
 1
 end_operator
 begin_operator
@@ -12364,10 +12364,10 @@ pop-start s13 b2 a1 a3 b0 lco oc1b
 0
 5
 0 72 -1 0
+0 316 0 1
 0 320 0 1
 0 331 -1 0
 0 393 0 1
-0 316 0 1
 1
 end_operator
 begin_operator
@@ -12375,10 +12375,10 @@ pop-start s13 b2 a1 a3 b1 lco gasoleo
 0
 5
 0 73 -1 0
+0 316 0 1
 0 329 0 1
 0 331 -1 0
 0 393 0 1
-0 316 0 1
 1
 end_operator
 begin_operator
@@ -12386,10 +12386,10 @@ pop-start s13 b2 a1 a3 b10 lco oc1b
 0
 5
 0 74 -1 0
+0 316 0 1
 0 321 0 1
 0 331 -1 0
 0 393 0 1
-0 316 0 1
 1
 end_operator
 begin_operator
@@ -12397,10 +12397,10 @@ pop-start s13 b2 a1 a3 b11 lco oc1b
 0
 5
 0 75 -1 0
+0 316 0 1
 0 322 0 1
 0 331 -1 0
 0 393 0 1
-0 316 0 1
 1
 end_operator
 begin_operator
@@ -12408,10 +12408,10 @@ pop-start s13 b2 a1 a3 b12 lco lco
 0
 5
 0 76 -1 0
+0 316 0 1
 0 330 0 1
 0 331 -1 0
 0 393 0 1
-0 316 0 1
 1
 end_operator
 begin_operator
@@ -12419,10 +12419,10 @@ pop-start s13 b2 a1 a3 b13 lco oc1b
 0
 5
 0 77 -1 0
+0 316 0 1
 0 323 0 1
 0 331 -1 0
 0 393 0 1
-0 316 0 1
 1
 end_operator
 begin_operator
@@ -12430,10 +12430,10 @@ pop-start s13 b2 a1 a3 b14 lco oca1
 0
 5
 0 78 -1 0
+0 316 0 1
 0 324 0 1
 0 331 -1 0
 0 393 0 1
-0 316 0 1
 1
 end_operator
 begin_operator
@@ -12441,10 +12441,10 @@ pop-start s13 b2 a1 a3 b15 lco oc1b
 0
 5
 0 71 -1 0
+0 316 0 1
 0 325 0 1
 0 331 -1 0
 0 393 0 1
-0 316 0 1
 1
 end_operator
 begin_operator
@@ -12453,8 +12453,8 @@ pop-start s13 b2 a1 a3 b2 lco lco
 331 0
 3
 0 79 -1 0
-0 393 0 1
 0 316 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -12462,10 +12462,10 @@ pop-start s13 b2 a1 a3 b3 lco oc1b
 0
 5
 0 80 -1 0
-0 331 -1 0
-0 326 0 1
-0 393 0 1
 0 316 0 1
+0 326 0 1
+0 331 -1 0
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -12473,10 +12473,10 @@ pop-start s13 b2 a1 a3 b4 lco rat-a
 0
 5
 0 134 -1 0
-0 331 -1 0
 0 244 0 1
-0 393 0 1
 0 316 0 1
+0 331 -1 0
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -12484,10 +12484,10 @@ pop-start s13 b2 a1 a3 b5 lco oc1b
 0
 5
 0 108 -1 0
-0 331 -1 0
-0 327 0 1
-0 393 0 1
 0 316 0 1
+0 327 0 1
+0 331 -1 0
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -12495,10 +12495,10 @@ pop-start s13 b2 a1 a3 b6 lco gasoleo
 0
 5
 0 129 -1 0
+0 316 0 1
 0 331 -1 0
 0 332 0 1
 0 393 0 1
-0 316 0 1
 1
 end_operator
 begin_operator
@@ -12506,10 +12506,10 @@ pop-start s13 b2 a1 a3 b7 lco gasoleo
 0
 5
 0 148 -1 0
+0 316 0 1
 0 331 -1 0
 0 333 0 1
 0 393 0 1
-0 316 0 1
 1
 end_operator
 begin_operator
@@ -12517,10 +12517,10 @@ pop-start s13 b2 a1 a3 b8 lco oc1b
 0
 5
 0 174 -1 0
-0 331 -1 0
-0 328 0 1
-0 393 0 1
 0 316 0 1
+0 328 0 1
+0 331 -1 0
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -12528,10 +12528,10 @@ pop-start s13 b2 a1 a3 b9 lco lco
 0
 5
 0 199 -1 0
+0 316 0 1
 0 331 -1 0
 0 334 0 1
 0 393 0 1
-0 316 0 1
 1
 end_operator
 begin_operator
@@ -12539,10 +12539,10 @@ pop-start s13 b3 a1 a3 b0 oc1b oc1b
 0
 5
 0 90 -1 0
+0 310 0 1
 0 320 0 1
 0 326 -1 0
 0 393 0 1
-0 310 0 1
 1
 end_operator
 begin_operator
@@ -12550,10 +12550,10 @@ pop-start s13 b3 a1 a3 b1 oc1b gasoleo
 0
 5
 0 91 -1 0
-0 329 0 1
-0 326 -1 0
-0 393 0 1
 0 310 0 1
+0 326 -1 0
+0 329 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -12561,10 +12561,10 @@ pop-start s13 b3 a1 a3 b10 oc1b oc1b
 0
 5
 0 92 -1 0
+0 310 0 1
 0 321 0 1
 0 326 -1 0
 0 393 0 1
-0 310 0 1
 1
 end_operator
 begin_operator
@@ -12572,10 +12572,10 @@ pop-start s13 b3 a1 a3 b11 oc1b oc1b
 0
 5
 0 93 -1 0
+0 310 0 1
 0 322 0 1
 0 326 -1 0
 0 393 0 1
-0 310 0 1
 1
 end_operator
 begin_operator
@@ -12583,10 +12583,10 @@ pop-start s13 b3 a1 a3 b12 oc1b lco
 0
 5
 0 94 -1 0
-0 330 0 1
-0 326 -1 0
-0 393 0 1
 0 310 0 1
+0 326 -1 0
+0 330 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -12594,10 +12594,10 @@ pop-start s13 b3 a1 a3 b13 oc1b oc1b
 0
 5
 0 95 -1 0
+0 310 0 1
 0 323 0 1
 0 326 -1 0
 0 393 0 1
-0 310 0 1
 1
 end_operator
 begin_operator
@@ -12605,10 +12605,10 @@ pop-start s13 b3 a1 a3 b14 oc1b oca1
 0
 5
 0 96 -1 0
+0 310 0 1
 0 324 0 1
 0 326 -1 0
 0 393 0 1
-0 310 0 1
 1
 end_operator
 begin_operator
@@ -12616,10 +12616,10 @@ pop-start s13 b3 a1 a3 b15 oc1b oc1b
 0
 5
 0 97 -1 0
+0 310 0 1
 0 325 0 1
 0 326 -1 0
 0 393 0 1
-0 310 0 1
 1
 end_operator
 begin_operator
@@ -12627,10 +12627,10 @@ pop-start s13 b3 a1 a3 b2 oc1b lco
 0
 5
 0 98 -1 0
-0 331 0 1
-0 326 -1 0
-0 393 0 1
 0 310 0 1
+0 326 -1 0
+0 331 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -12639,8 +12639,8 @@ pop-start s13 b3 a1 a3 b3 oc1b oc1b
 326 0
 3
 0 89 -1 0
-0 393 0 1
 0 310 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -12648,10 +12648,10 @@ pop-start s13 b3 a1 a3 b5 oc1b oc1b
 0
 5
 0 99 -1 0
+0 310 0 1
 0 326 -1 0
 0 327 0 1
 0 393 0 1
-0 310 0 1
 1
 end_operator
 begin_operator
@@ -12659,10 +12659,10 @@ pop-start s13 b3 a1 a3 b6 oc1b gasoleo
 0
 5
 0 130 -1 0
+0 310 0 1
 0 326 -1 0
 0 332 0 1
 0 393 0 1
-0 310 0 1
 1
 end_operator
 begin_operator
@@ -12670,10 +12670,10 @@ pop-start s13 b3 a1 a3 b7 oc1b gasoleo
 0
 5
 0 149 -1 0
+0 310 0 1
 0 326 -1 0
 0 333 0 1
 0 393 0 1
-0 310 0 1
 1
 end_operator
 begin_operator
@@ -12681,10 +12681,10 @@ pop-start s13 b3 a1 a3 b8 oc1b oc1b
 0
 5
 0 175 -1 0
+0 310 0 1
 0 326 -1 0
 0 328 0 1
 0 393 0 1
-0 310 0 1
 1
 end_operator
 begin_operator
@@ -12692,10 +12692,10 @@ pop-start s13 b3 a1 a3 b9 oc1b lco
 0
 5
 0 200 -1 0
+0 310 0 1
 0 326 -1 0
 0 334 0 1
 0 393 0 1
-0 310 0 1
 1
 end_operator
 begin_operator
@@ -12703,10 +12703,10 @@ pop-start s13 b4 a1 a3 b1 rat-a gasoleo
 0
 5
 0 136 -1 0
-0 329 0 1
-0 244 -1 0
-0 393 0 1
 0 242 0 1
+0 244 -1 0
+0 329 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -12714,10 +12714,10 @@ pop-start s13 b4 a1 a3 b12 rat-a lco
 0
 5
 0 137 -1 0
-0 330 0 1
-0 244 -1 0
-0 393 0 1
 0 242 0 1
+0 244 -1 0
+0 330 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -12725,10 +12725,10 @@ pop-start s13 b4 a1 a3 b2 rat-a lco
 0
 5
 0 138 -1 0
-0 331 0 1
-0 244 -1 0
-0 393 0 1
 0 242 0 1
+0 244 -1 0
+0 331 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -12737,8 +12737,8 @@ pop-start s13 b4 a1 a3 b4 rat-a rat-a
 244 0
 3
 0 135 -1 0
-0 393 0 1
 0 242 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -12746,10 +12746,10 @@ pop-start s13 b4 a1 a3 b6 rat-a gasoleo
 0
 5
 0 131 -1 0
+0 242 0 1
 0 244 -1 0
 0 332 0 1
 0 393 0 1
-0 242 0 1
 1
 end_operator
 begin_operator
@@ -12757,10 +12757,10 @@ pop-start s13 b4 a1 a3 b7 rat-a gasoleo
 0
 5
 0 139 -1 0
+0 242 0 1
 0 244 -1 0
 0 333 0 1
 0 393 0 1
-0 242 0 1
 1
 end_operator
 begin_operator
@@ -12768,10 +12768,10 @@ pop-start s13 b4 a1 a3 b9 rat-a lco
 0
 5
 0 201 -1 0
+0 242 0 1
 0 244 -1 0
 0 334 0 1
 0 393 0 1
-0 242 0 1
 1
 end_operator
 begin_operator
@@ -12779,10 +12779,10 @@ pop-start s13 b5 a1 a3 b0 oc1b oc1b
 0
 5
 0 110 -1 0
+0 311 0 1
 0 320 0 1
 0 327 -1 0
 0 393 0 1
-0 311 0 1
 1
 end_operator
 begin_operator
@@ -12790,10 +12790,10 @@ pop-start s13 b5 a1 a3 b1 oc1b gasoleo
 0
 5
 0 111 -1 0
-0 329 0 1
-0 327 -1 0
-0 393 0 1
 0 311 0 1
+0 327 -1 0
+0 329 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -12801,10 +12801,10 @@ pop-start s13 b5 a1 a3 b10 oc1b oc1b
 0
 5
 0 112 -1 0
+0 311 0 1
 0 321 0 1
 0 327 -1 0
 0 393 0 1
-0 311 0 1
 1
 end_operator
 begin_operator
@@ -12812,10 +12812,10 @@ pop-start s13 b5 a1 a3 b11 oc1b oc1b
 0
 5
 0 113 -1 0
+0 311 0 1
 0 322 0 1
 0 327 -1 0
 0 393 0 1
-0 311 0 1
 1
 end_operator
 begin_operator
@@ -12823,10 +12823,10 @@ pop-start s13 b5 a1 a3 b12 oc1b lco
 0
 5
 0 114 -1 0
-0 330 0 1
-0 327 -1 0
-0 393 0 1
 0 311 0 1
+0 327 -1 0
+0 330 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -12834,10 +12834,10 @@ pop-start s13 b5 a1 a3 b13 oc1b oc1b
 0
 5
 0 115 -1 0
+0 311 0 1
 0 323 0 1
 0 327 -1 0
 0 393 0 1
-0 311 0 1
 1
 end_operator
 begin_operator
@@ -12845,10 +12845,10 @@ pop-start s13 b5 a1 a3 b14 oc1b oca1
 0
 5
 0 116 -1 0
+0 311 0 1
 0 324 0 1
 0 327 -1 0
 0 393 0 1
-0 311 0 1
 1
 end_operator
 begin_operator
@@ -12856,10 +12856,10 @@ pop-start s13 b5 a1 a3 b15 oc1b oc1b
 0
 5
 0 117 -1 0
+0 311 0 1
 0 325 0 1
 0 327 -1 0
 0 393 0 1
-0 311 0 1
 1
 end_operator
 begin_operator
@@ -12867,10 +12867,10 @@ pop-start s13 b5 a1 a3 b2 oc1b lco
 0
 5
 0 118 -1 0
-0 331 0 1
-0 327 -1 0
-0 393 0 1
 0 311 0 1
+0 327 -1 0
+0 331 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -12878,10 +12878,10 @@ pop-start s13 b5 a1 a3 b3 oc1b oc1b
 0
 5
 0 119 -1 0
+0 311 0 1
 0 326 0 1
 0 327 -1 0
 0 393 0 1
-0 311 0 1
 1
 end_operator
 begin_operator
@@ -12890,8 +12890,8 @@ pop-start s13 b5 a1 a3 b5 oc1b oc1b
 327 0
 3
 0 109 -1 0
-0 393 0 1
 0 311 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -12899,10 +12899,10 @@ pop-start s13 b5 a1 a3 b6 oc1b gasoleo
 0
 5
 0 120 -1 0
+0 311 0 1
 0 327 -1 0
 0 332 0 1
 0 393 0 1
-0 311 0 1
 1
 end_operator
 begin_operator
@@ -12910,10 +12910,10 @@ pop-start s13 b5 a1 a3 b7 oc1b gasoleo
 0
 5
 0 150 -1 0
+0 311 0 1
 0 327 -1 0
 0 333 0 1
 0 393 0 1
-0 311 0 1
 1
 end_operator
 begin_operator
@@ -12921,10 +12921,10 @@ pop-start s13 b5 a1 a3 b8 oc1b oc1b
 0
 5
 0 176 -1 0
+0 311 0 1
 0 327 -1 0
 0 328 0 1
 0 393 0 1
-0 311 0 1
 1
 end_operator
 begin_operator
@@ -12932,10 +12932,10 @@ pop-start s13 b5 a1 a3 b9 oc1b lco
 0
 5
 0 202 -1 0
+0 311 0 1
 0 327 -1 0
 0 334 0 1
 0 393 0 1
-0 311 0 1
 1
 end_operator
 begin_operator
@@ -12943,10 +12943,10 @@ pop-start s13 b6 a1 a3 b0 gasoleo oc1b
 0
 5
 0 152 -1 0
+0 317 0 1
 0 320 0 1
 0 332 -1 0
 0 393 0 1
-0 317 0 1
 1
 end_operator
 begin_operator
@@ -12954,10 +12954,10 @@ pop-start s13 b6 a1 a3 b1 gasoleo gasoleo
 0
 5
 0 153 -1 0
+0 317 0 1
 0 329 0 1
 0 332 -1 0
 0 393 0 1
-0 317 0 1
 1
 end_operator
 begin_operator
@@ -12965,10 +12965,10 @@ pop-start s13 b6 a1 a3 b10 gasoleo oc1b
 0
 5
 0 154 -1 0
+0 317 0 1
 0 321 0 1
 0 332 -1 0
 0 393 0 1
-0 317 0 1
 1
 end_operator
 begin_operator
@@ -12976,10 +12976,10 @@ pop-start s13 b6 a1 a3 b11 gasoleo oc1b
 0
 5
 0 155 -1 0
+0 317 0 1
 0 322 0 1
 0 332 -1 0
 0 393 0 1
-0 317 0 1
 1
 end_operator
 begin_operator
@@ -12987,10 +12987,10 @@ pop-start s13 b6 a1 a3 b12 gasoleo lco
 0
 5
 0 156 -1 0
+0 317 0 1
 0 330 0 1
 0 332 -1 0
 0 393 0 1
-0 317 0 1
 1
 end_operator
 begin_operator
@@ -12998,10 +12998,10 @@ pop-start s13 b6 a1 a3 b13 gasoleo oc1b
 0
 5
 0 157 -1 0
+0 317 0 1
 0 323 0 1
 0 332 -1 0
 0 393 0 1
-0 317 0 1
 1
 end_operator
 begin_operator
@@ -13009,10 +13009,10 @@ pop-start s13 b6 a1 a3 b14 gasoleo oca1
 0
 5
 0 158 -1 0
+0 317 0 1
 0 324 0 1
 0 332 -1 0
 0 393 0 1
-0 317 0 1
 1
 end_operator
 begin_operator
@@ -13020,10 +13020,10 @@ pop-start s13 b6 a1 a3 b15 gasoleo oc1b
 0
 5
 0 159 -1 0
+0 317 0 1
 0 325 0 1
 0 332 -1 0
 0 393 0 1
-0 317 0 1
 1
 end_operator
 begin_operator
@@ -13031,10 +13031,10 @@ pop-start s13 b6 a1 a3 b2 gasoleo lco
 0
 5
 0 160 -1 0
+0 317 0 1
 0 331 0 1
 0 332 -1 0
 0 393 0 1
-0 317 0 1
 1
 end_operator
 begin_operator
@@ -13042,10 +13042,10 @@ pop-start s13 b6 a1 a3 b3 gasoleo oc1b
 0
 5
 0 161 -1 0
+0 317 0 1
 0 326 0 1
 0 332 -1 0
 0 393 0 1
-0 317 0 1
 1
 end_operator
 begin_operator
@@ -13054,9 +13054,9 @@ pop-start s13 b6 a1 a3 b4 gasoleo rat-a
 5
 0 162 -1 0
 0 244 0 1
+0 317 0 1
 0 332 -1 0
 0 393 0 1
-0 317 0 1
 1
 end_operator
 begin_operator
@@ -13064,10 +13064,10 @@ pop-start s13 b6 a1 a3 b5 gasoleo oc1b
 0
 5
 0 163 -1 0
+0 317 0 1
 0 327 0 1
 0 332 -1 0
 0 393 0 1
-0 317 0 1
 1
 end_operator
 begin_operator
@@ -13076,8 +13076,8 @@ pop-start s13 b6 a1 a3 b6 gasoleo gasoleo
 332 0
 3
 0 164 -1 0
-0 393 0 1
 0 317 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -13085,10 +13085,10 @@ pop-start s13 b6 a1 a3 b7 gasoleo gasoleo
 0
 5
 0 151 -1 0
+0 317 0 1
 0 332 -1 0
 0 333 0 1
 0 393 0 1
-0 317 0 1
 1
 end_operator
 begin_operator
@@ -13096,10 +13096,10 @@ pop-start s13 b6 a1 a3 b8 gasoleo oc1b
 0
 5
 0 165 -1 0
-0 332 -1 0
-0 328 0 1
-0 393 0 1
 0 317 0 1
+0 328 0 1
+0 332 -1 0
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -13107,10 +13107,10 @@ pop-start s13 b6 a1 a3 b9 gasoleo lco
 0
 5
 0 203 -1 0
+0 317 0 1
 0 332 -1 0
 0 334 0 1
 0 393 0 1
-0 317 0 1
 1
 end_operator
 begin_operator
@@ -13118,10 +13118,10 @@ pop-start s13 b7 a1 a3 b0 gasoleo oc1b
 0
 5
 0 178 -1 0
+0 318 0 1
 0 320 0 1
 0 333 -1 0
 0 393 0 1
-0 318 0 1
 1
 end_operator
 begin_operator
@@ -13129,10 +13129,10 @@ pop-start s13 b7 a1 a3 b1 gasoleo gasoleo
 0
 5
 0 179 -1 0
+0 318 0 1
 0 329 0 1
 0 333 -1 0
 0 393 0 1
-0 318 0 1
 1
 end_operator
 begin_operator
@@ -13140,10 +13140,10 @@ pop-start s13 b7 a1 a3 b10 gasoleo oc1b
 0
 5
 0 180 -1 0
+0 318 0 1
 0 321 0 1
 0 333 -1 0
 0 393 0 1
-0 318 0 1
 1
 end_operator
 begin_operator
@@ -13151,10 +13151,10 @@ pop-start s13 b7 a1 a3 b11 gasoleo oc1b
 0
 5
 0 181 -1 0
+0 318 0 1
 0 322 0 1
 0 333 -1 0
 0 393 0 1
-0 318 0 1
 1
 end_operator
 begin_operator
@@ -13162,10 +13162,10 @@ pop-start s13 b7 a1 a3 b12 gasoleo lco
 0
 5
 0 182 -1 0
+0 318 0 1
 0 330 0 1
 0 333 -1 0
 0 393 0 1
-0 318 0 1
 1
 end_operator
 begin_operator
@@ -13173,10 +13173,10 @@ pop-start s13 b7 a1 a3 b13 gasoleo oc1b
 0
 5
 0 183 -1 0
+0 318 0 1
 0 323 0 1
 0 333 -1 0
 0 393 0 1
-0 318 0 1
 1
 end_operator
 begin_operator
@@ -13184,10 +13184,10 @@ pop-start s13 b7 a1 a3 b14 gasoleo oca1
 0
 5
 0 184 -1 0
+0 318 0 1
 0 324 0 1
 0 333 -1 0
 0 393 0 1
-0 318 0 1
 1
 end_operator
 begin_operator
@@ -13195,10 +13195,10 @@ pop-start s13 b7 a1 a3 b15 gasoleo oc1b
 0
 5
 0 185 -1 0
+0 318 0 1
 0 325 0 1
 0 333 -1 0
 0 393 0 1
-0 318 0 1
 1
 end_operator
 begin_operator
@@ -13206,10 +13206,10 @@ pop-start s13 b7 a1 a3 b2 gasoleo lco
 0
 5
 0 186 -1 0
+0 318 0 1
 0 331 0 1
 0 333 -1 0
 0 393 0 1
-0 318 0 1
 1
 end_operator
 begin_operator
@@ -13217,10 +13217,10 @@ pop-start s13 b7 a1 a3 b3 gasoleo oc1b
 0
 5
 0 187 -1 0
+0 318 0 1
 0 326 0 1
 0 333 -1 0
 0 393 0 1
-0 318 0 1
 1
 end_operator
 begin_operator
@@ -13229,9 +13229,9 @@ pop-start s13 b7 a1 a3 b4 gasoleo rat-a
 5
 0 188 -1 0
 0 244 0 1
+0 318 0 1
 0 333 -1 0
 0 393 0 1
-0 318 0 1
 1
 end_operator
 begin_operator
@@ -13239,10 +13239,10 @@ pop-start s13 b7 a1 a3 b5 gasoleo oc1b
 0
 5
 0 189 -1 0
+0 318 0 1
 0 327 0 1
 0 333 -1 0
 0 393 0 1
-0 318 0 1
 1
 end_operator
 begin_operator
@@ -13250,10 +13250,10 @@ pop-start s13 b7 a1 a3 b6 gasoleo gasoleo
 0
 5
 0 190 -1 0
+0 318 0 1
 0 332 0 1
 0 333 -1 0
 0 393 0 1
-0 318 0 1
 1
 end_operator
 begin_operator
@@ -13262,8 +13262,8 @@ pop-start s13 b7 a1 a3 b7 gasoleo gasoleo
 333 0
 3
 0 191 -1 0
-0 393 0 1
 0 318 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -13271,10 +13271,10 @@ pop-start s13 b7 a1 a3 b8 gasoleo oc1b
 0
 5
 0 177 -1 0
-0 333 -1 0
-0 328 0 1
-0 393 0 1
 0 318 0 1
+0 328 0 1
+0 333 -1 0
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -13282,10 +13282,10 @@ pop-start s13 b7 a1 a3 b9 gasoleo lco
 0
 5
 0 192 -1 0
+0 318 0 1
 0 333 -1 0
 0 334 0 1
 0 393 0 1
-0 318 0 1
 1
 end_operator
 begin_operator
@@ -13293,10 +13293,10 @@ pop-start s13 b8 a1 a3 b0 oc1b oc1b
 0
 5
 0 205 -1 0
+0 312 0 1
 0 320 0 1
 0 328 -1 0
 0 393 0 1
-0 312 0 1
 1
 end_operator
 begin_operator
@@ -13304,10 +13304,10 @@ pop-start s13 b8 a1 a3 b1 oc1b gasoleo
 0
 5
 0 206 -1 0
-0 329 0 1
-0 328 -1 0
-0 393 0 1
 0 312 0 1
+0 328 -1 0
+0 329 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -13315,10 +13315,10 @@ pop-start s13 b8 a1 a3 b10 oc1b oc1b
 0
 5
 0 207 -1 0
+0 312 0 1
 0 321 0 1
 0 328 -1 0
 0 393 0 1
-0 312 0 1
 1
 end_operator
 begin_operator
@@ -13326,10 +13326,10 @@ pop-start s13 b8 a1 a3 b11 oc1b oc1b
 0
 5
 0 208 -1 0
+0 312 0 1
 0 322 0 1
 0 328 -1 0
 0 393 0 1
-0 312 0 1
 1
 end_operator
 begin_operator
@@ -13337,10 +13337,10 @@ pop-start s13 b8 a1 a3 b12 oc1b lco
 0
 5
 0 209 -1 0
-0 330 0 1
-0 328 -1 0
-0 393 0 1
 0 312 0 1
+0 328 -1 0
+0 330 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -13348,10 +13348,10 @@ pop-start s13 b8 a1 a3 b13 oc1b oc1b
 0
 5
 0 210 -1 0
+0 312 0 1
 0 323 0 1
 0 328 -1 0
 0 393 0 1
-0 312 0 1
 1
 end_operator
 begin_operator
@@ -13359,10 +13359,10 @@ pop-start s13 b8 a1 a3 b14 oc1b oca1
 0
 5
 0 211 -1 0
+0 312 0 1
 0 324 0 1
 0 328 -1 0
 0 393 0 1
-0 312 0 1
 1
 end_operator
 begin_operator
@@ -13370,10 +13370,10 @@ pop-start s13 b8 a1 a3 b15 oc1b oc1b
 0
 5
 0 212 -1 0
+0 312 0 1
 0 325 0 1
 0 328 -1 0
 0 393 0 1
-0 312 0 1
 1
 end_operator
 begin_operator
@@ -13381,10 +13381,10 @@ pop-start s13 b8 a1 a3 b2 oc1b lco
 0
 5
 0 213 -1 0
-0 331 0 1
-0 328 -1 0
-0 393 0 1
 0 312 0 1
+0 328 -1 0
+0 331 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -13392,10 +13392,10 @@ pop-start s13 b8 a1 a3 b3 oc1b oc1b
 0
 5
 0 214 -1 0
+0 312 0 1
 0 326 0 1
 0 328 -1 0
 0 393 0 1
-0 312 0 1
 1
 end_operator
 begin_operator
@@ -13403,10 +13403,10 @@ pop-start s13 b8 a1 a3 b5 oc1b oc1b
 0
 5
 0 215 -1 0
+0 312 0 1
 0 327 0 1
 0 328 -1 0
 0 393 0 1
-0 312 0 1
 1
 end_operator
 begin_operator
@@ -13414,10 +13414,10 @@ pop-start s13 b8 a1 a3 b6 oc1b gasoleo
 0
 5
 0 216 -1 0
-0 332 0 1
-0 328 -1 0
-0 393 0 1
 0 312 0 1
+0 328 -1 0
+0 332 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -13425,10 +13425,10 @@ pop-start s13 b8 a1 a3 b7 oc1b gasoleo
 0
 5
 0 217 -1 0
-0 333 0 1
-0 328 -1 0
-0 393 0 1
 0 312 0 1
+0 328 -1 0
+0 333 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -13437,8 +13437,8 @@ pop-start s13 b8 a1 a3 b8 oc1b oc1b
 328 0
 3
 0 218 -1 0
-0 393 0 1
 0 312 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -13446,10 +13446,10 @@ pop-start s13 b8 a1 a3 b9 oc1b lco
 0
 5
 0 204 -1 0
+0 312 0 1
 0 328 -1 0
 0 334 0 1
 0 393 0 1
-0 312 0 1
 1
 end_operator
 begin_operator
@@ -13457,10 +13457,10 @@ pop-start s13 b9 a1 a3 b0 lco oc1b
 0
 5
 0 219 -1 0
+0 319 0 1
 0 320 0 1
 0 334 -1 0
 0 393 0 1
-0 319 0 1
 1
 end_operator
 begin_operator
@@ -13468,10 +13468,10 @@ pop-start s13 b9 a1 a3 b1 lco gasoleo
 0
 5
 0 220 -1 0
+0 319 0 1
 0 329 0 1
 0 334 -1 0
 0 393 0 1
-0 319 0 1
 1
 end_operator
 begin_operator
@@ -13479,10 +13479,10 @@ pop-start s13 b9 a1 a3 b10 lco oc1b
 0
 5
 0 221 -1 0
+0 319 0 1
 0 321 0 1
 0 334 -1 0
 0 393 0 1
-0 319 0 1
 1
 end_operator
 begin_operator
@@ -13490,10 +13490,10 @@ pop-start s13 b9 a1 a3 b11 lco oc1b
 0
 5
 0 222 -1 0
+0 319 0 1
 0 322 0 1
 0 334 -1 0
 0 393 0 1
-0 319 0 1
 1
 end_operator
 begin_operator
@@ -13501,10 +13501,10 @@ pop-start s13 b9 a1 a3 b12 lco lco
 0
 5
 0 223 -1 0
+0 319 0 1
 0 330 0 1
 0 334 -1 0
 0 393 0 1
-0 319 0 1
 1
 end_operator
 begin_operator
@@ -13512,10 +13512,10 @@ pop-start s13 b9 a1 a3 b13 lco oc1b
 0
 5
 0 224 -1 0
+0 319 0 1
 0 323 0 1
 0 334 -1 0
 0 393 0 1
-0 319 0 1
 1
 end_operator
 begin_operator
@@ -13523,10 +13523,10 @@ pop-start s13 b9 a1 a3 b14 lco oca1
 0
 5
 0 225 -1 0
+0 319 0 1
 0 324 0 1
 0 334 -1 0
 0 393 0 1
-0 319 0 1
 1
 end_operator
 begin_operator
@@ -13534,10 +13534,10 @@ pop-start s13 b9 a1 a3 b15 lco oc1b
 0
 5
 0 226 -1 0
+0 319 0 1
 0 325 0 1
 0 334 -1 0
 0 393 0 1
-0 319 0 1
 1
 end_operator
 begin_operator
@@ -13545,10 +13545,10 @@ pop-start s13 b9 a1 a3 b2 lco lco
 0
 5
 0 227 -1 0
+0 319 0 1
 0 331 0 1
 0 334 -1 0
 0 393 0 1
-0 319 0 1
 1
 end_operator
 begin_operator
@@ -13556,10 +13556,10 @@ pop-start s13 b9 a1 a3 b3 lco oc1b
 0
 5
 0 228 -1 0
+0 319 0 1
 0 326 0 1
 0 334 -1 0
 0 393 0 1
-0 319 0 1
 1
 end_operator
 begin_operator
@@ -13568,9 +13568,9 @@ pop-start s13 b9 a1 a3 b4 lco rat-a
 5
 0 229 -1 0
 0 244 0 1
+0 319 0 1
 0 334 -1 0
 0 393 0 1
-0 319 0 1
 1
 end_operator
 begin_operator
@@ -13578,10 +13578,10 @@ pop-start s13 b9 a1 a3 b5 lco oc1b
 0
 5
 0 230 -1 0
+0 319 0 1
 0 327 0 1
 0 334 -1 0
 0 393 0 1
-0 319 0 1
 1
 end_operator
 begin_operator
@@ -13589,10 +13589,10 @@ pop-start s13 b9 a1 a3 b6 lco gasoleo
 0
 5
 0 231 -1 0
+0 319 0 1
 0 332 0 1
 0 334 -1 0
 0 393 0 1
-0 319 0 1
 1
 end_operator
 begin_operator
@@ -13600,10 +13600,10 @@ pop-start s13 b9 a1 a3 b7 lco gasoleo
 0
 5
 0 232 -1 0
+0 319 0 1
 0 333 0 1
 0 334 -1 0
 0 393 0 1
-0 319 0 1
 1
 end_operator
 begin_operator
@@ -13611,10 +13611,10 @@ pop-start s13 b9 a1 a3 b8 lco oc1b
 0
 5
 0 233 -1 0
+0 319 0 1
 0 328 0 1
 0 334 -1 0
 0 393 0 1
-0 319 0 1
 1
 end_operator
 begin_operator
@@ -13623,8 +13623,8 @@ pop-start s13 b9 a1 a3 b9 lco lco
 334 0
 3
 0 234 -1 0
-0 393 0 1
 0 319 0 1
+0 393 0 1
 1
 end_operator
 begin_operator
@@ -13632,20 +13632,20 @@ pop-unitarypipe s34 b0 a3 a4 b0 oc1b oc1b
 1
 276 0
 3
+0 245 0 1
 0 275 -1 0
 0 305 -1 0
-0 245 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b0 a3 a4 b1 oc1b gasoleo
 0
 6
-0 275 -1 0
-0 291 -1 1
-0 276 -1 0
-0 292 0 1
 0 245 0 1
+0 275 -1 0
+0 276 -1 0
+0 291 -1 1
+0 292 0 1
 0 314 -1 0
 1
 end_operator
@@ -13653,11 +13653,11 @@ begin_operator
 pop-unitarypipe s34 b0 a3 a4 b10 oc1b oc1b
 0
 6
-0 275 -1 0
-0 277 -1 1
-0 276 -1 0
-0 278 0 1
 0 245 0 1
+0 275 -1 0
+0 276 -1 0
+0 277 -1 1
+0 278 0 1
 0 306 -1 0
 1
 end_operator
@@ -13665,11 +13665,11 @@ begin_operator
 pop-unitarypipe s34 b0 a3 a4 b11 oc1b oc1b
 0
 6
-0 275 -1 0
-0 303 -1 1
-0 276 -1 0
-0 304 0 1
 0 245 0 1
+0 275 -1 0
+0 276 -1 0
+0 303 -1 1
+0 304 0 1
 0 313 -1 0
 1
 end_operator
@@ -13677,11 +13677,11 @@ begin_operator
 pop-unitarypipe s34 b0 a3 a4 b12 oc1b lco
 0
 6
-0 275 -1 0
-0 293 -1 1
-0 276 -1 0
-0 294 0 1
 0 245 0 1
+0 275 -1 0
+0 276 -1 0
+0 293 -1 1
+0 294 0 1
 0 315 -1 0
 1
 end_operator
@@ -13689,11 +13689,11 @@ begin_operator
 pop-unitarypipe s34 b0 a3 a4 b13 oc1b oc1b
 0
 6
-0 275 -1 0
-0 279 -1 1
-0 276 -1 0
-0 280 0 1
 0 245 0 1
+0 275 -1 0
+0 276 -1 0
+0 279 -1 1
+0 280 0 1
 0 307 -1 0
 1
 end_operator
@@ -13701,11 +13701,11 @@ begin_operator
 pop-unitarypipe s34 b0 a3 a4 b14 oc1b oca1
 0
 6
-0 275 -1 0
-0 281 -1 1
-0 276 -1 0
-0 282 0 1
 0 245 0 1
+0 275 -1 0
+0 276 -1 0
+0 281 -1 1
+0 282 0 1
 0 308 -1 0
 1
 end_operator
@@ -13713,11 +13713,11 @@ begin_operator
 pop-unitarypipe s34 b0 a3 a4 b15 oc1b oc1b
 0
 6
-0 275 -1 0
-0 283 -1 1
-0 276 -1 0
-0 284 0 1
 0 245 0 1
+0 275 -1 0
+0 276 -1 0
+0 283 -1 1
+0 284 0 1
 0 309 -1 0
 1
 end_operator
@@ -13725,11 +13725,11 @@ begin_operator
 pop-unitarypipe s34 b0 a3 a4 b2 oc1b lco
 0
 6
-0 275 -1 0
-0 295 -1 1
-0 276 -1 0
-0 296 0 1
 0 245 0 1
+0 275 -1 0
+0 276 -1 0
+0 295 -1 1
+0 296 0 1
 0 316 -1 0
 1
 end_operator
@@ -13737,11 +13737,11 @@ begin_operator
 pop-unitarypipe s34 b0 a3 a4 b3 oc1b oc1b
 0
 6
-0 275 -1 0
-0 285 -1 1
-0 276 -1 0
-0 286 0 1
 0 245 0 1
+0 275 -1 0
+0 276 -1 0
+0 285 -1 1
+0 286 0 1
 0 310 -1 0
 1
 end_operator
@@ -13749,11 +13749,11 @@ begin_operator
 pop-unitarypipe s34 b0 a3 a4 b5 oc1b oc1b
 0
 6
-0 275 -1 0
-0 287 -1 1
-0 276 -1 0
-0 288 0 1
 0 245 0 1
+0 275 -1 0
+0 276 -1 0
+0 287 -1 1
+0 288 0 1
 0 311 -1 0
 1
 end_operator
@@ -13761,11 +13761,11 @@ begin_operator
 pop-unitarypipe s34 b0 a3 a4 b6 oc1b gasoleo
 0
 6
-0 275 -1 0
-0 297 -1 1
-0 276 -1 0
-0 298 0 1
 0 245 0 1
+0 275 -1 0
+0 276 -1 0
+0 297 -1 1
+0 298 0 1
 0 317 -1 0
 1
 end_operator
@@ -13773,11 +13773,11 @@ begin_operator
 pop-unitarypipe s34 b0 a3 a4 b7 oc1b gasoleo
 0
 6
-0 275 -1 0
-0 299 -1 1
-0 276 -1 0
-0 300 0 1
 0 245 0 1
+0 275 -1 0
+0 276 -1 0
+0 299 -1 1
+0 300 0 1
 0 318 -1 0
 1
 end_operator
@@ -13785,11 +13785,11 @@ begin_operator
 pop-unitarypipe s34 b0 a3 a4 b8 oc1b oc1b
 0
 6
-0 275 -1 0
-0 289 -1 1
-0 276 -1 0
-0 290 0 1
 0 245 0 1
+0 275 -1 0
+0 276 -1 0
+0 289 -1 1
+0 290 0 1
 0 312 -1 0
 1
 end_operator
@@ -13797,11 +13797,11 @@ begin_operator
 pop-unitarypipe s34 b0 a3 a4 b9 oc1b lco
 0
 6
-0 275 -1 0
-0 301 -1 1
-0 276 -1 0
-0 302 0 1
 0 245 0 1
+0 275 -1 0
+0 276 -1 0
+0 301 -1 1
+0 302 0 1
 0 319 -1 0
 1
 end_operator
@@ -13809,12 +13809,12 @@ begin_operator
 pop-unitarypipe s34 b1 a3 a4 b0 gasoleo oc1b
 0
 6
+0 253 0 1
 0 275 -1 1
-0 291 -1 0
 0 276 0 1
+0 291 -1 0
 0 292 -1 0
 0 305 -1 0
-0 253 0 1
 1
 end_operator
 begin_operator
@@ -13822,20 +13822,20 @@ pop-unitarypipe s34 b1 a3 a4 b1 gasoleo gasoleo
 1
 292 0
 3
+0 253 0 1
 0 291 -1 0
 0 314 -1 0
-0 253 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b1 a3 a4 b10 gasoleo oc1b
 0
 6
-0 291 -1 0
-0 277 -1 1
-0 292 -1 0
-0 278 0 1
 0 253 0 1
+0 277 -1 1
+0 278 0 1
+0 291 -1 0
+0 292 -1 0
 0 306 -1 0
 1
 end_operator
@@ -13843,11 +13843,11 @@ begin_operator
 pop-unitarypipe s34 b1 a3 a4 b11 gasoleo oc1b
 0
 6
-0 291 -1 0
-0 303 -1 1
-0 292 -1 0
-0 304 0 1
 0 253 0 1
+0 291 -1 0
+0 292 -1 0
+0 303 -1 1
+0 304 0 1
 0 313 -1 0
 1
 end_operator
@@ -13855,11 +13855,11 @@ begin_operator
 pop-unitarypipe s34 b1 a3 a4 b12 gasoleo lco
 0
 6
-0 291 -1 0
-0 293 -1 1
-0 292 -1 0
-0 294 0 1
 0 253 0 1
+0 291 -1 0
+0 292 -1 0
+0 293 -1 1
+0 294 0 1
 0 315 -1 0
 1
 end_operator
@@ -13867,11 +13867,11 @@ begin_operator
 pop-unitarypipe s34 b1 a3 a4 b13 gasoleo oc1b
 0
 6
-0 291 -1 0
-0 279 -1 1
-0 292 -1 0
-0 280 0 1
 0 253 0 1
+0 279 -1 1
+0 280 0 1
+0 291 -1 0
+0 292 -1 0
 0 307 -1 0
 1
 end_operator
@@ -13879,11 +13879,11 @@ begin_operator
 pop-unitarypipe s34 b1 a3 a4 b14 gasoleo oca1
 0
 6
-0 291 -1 0
-0 281 -1 1
-0 292 -1 0
-0 282 0 1
 0 253 0 1
+0 281 -1 1
+0 282 0 1
+0 291 -1 0
+0 292 -1 0
 0 308 -1 0
 1
 end_operator
@@ -13891,11 +13891,11 @@ begin_operator
 pop-unitarypipe s34 b1 a3 a4 b15 gasoleo oc1b
 0
 6
-0 291 -1 0
-0 283 -1 1
-0 292 -1 0
-0 284 0 1
 0 253 0 1
+0 283 -1 1
+0 284 0 1
+0 291 -1 0
+0 292 -1 0
 0 309 -1 0
 1
 end_operator
@@ -13903,11 +13903,11 @@ begin_operator
 pop-unitarypipe s34 b1 a3 a4 b2 gasoleo lco
 0
 6
-0 291 -1 0
-0 295 -1 1
-0 292 -1 0
-0 296 0 1
 0 253 0 1
+0 291 -1 0
+0 292 -1 0
+0 295 -1 1
+0 296 0 1
 0 316 -1 0
 1
 end_operator
@@ -13915,11 +13915,11 @@ begin_operator
 pop-unitarypipe s34 b1 a3 a4 b3 gasoleo oc1b
 0
 6
-0 291 -1 0
-0 285 -1 1
-0 292 -1 0
-0 286 0 1
 0 253 0 1
+0 285 -1 1
+0 286 0 1
+0 291 -1 0
+0 292 -1 0
 0 310 -1 0
 1
 end_operator
@@ -13927,23 +13927,23 @@ begin_operator
 pop-unitarypipe s34 b1 a3 a4 b4 gasoleo rat-a
 0
 6
-0 291 -1 0
 0 240 -1 1
-0 292 -1 0
 0 241 0 1
-0 253 0 1
 0 242 -1 0
+0 253 0 1
+0 291 -1 0
+0 292 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b1 a3 a4 b5 gasoleo oc1b
 0
 6
-0 291 -1 0
-0 287 -1 1
-0 292 -1 0
-0 288 0 1
 0 253 0 1
+0 287 -1 1
+0 288 0 1
+0 291 -1 0
+0 292 -1 0
 0 311 -1 0
 1
 end_operator
@@ -13951,11 +13951,11 @@ begin_operator
 pop-unitarypipe s34 b1 a3 a4 b6 gasoleo gasoleo
 0
 6
-0 291 -1 0
-0 297 -1 1
-0 292 -1 0
-0 298 0 1
 0 253 0 1
+0 291 -1 0
+0 292 -1 0
+0 297 -1 1
+0 298 0 1
 0 317 -1 0
 1
 end_operator
@@ -13963,11 +13963,11 @@ begin_operator
 pop-unitarypipe s34 b1 a3 a4 b7 gasoleo gasoleo
 0
 6
-0 291 -1 0
-0 299 -1 1
-0 292 -1 0
-0 300 0 1
 0 253 0 1
+0 291 -1 0
+0 292 -1 0
+0 299 -1 1
+0 300 0 1
 0 318 -1 0
 1
 end_operator
@@ -13975,11 +13975,11 @@ begin_operator
 pop-unitarypipe s34 b1 a3 a4 b8 gasoleo oc1b
 0
 6
-0 291 -1 0
-0 289 -1 1
-0 292 -1 0
-0 290 0 1
 0 253 0 1
+0 289 -1 1
+0 290 0 1
+0 291 -1 0
+0 292 -1 0
 0 312 -1 0
 1
 end_operator
@@ -13987,11 +13987,11 @@ begin_operator
 pop-unitarypipe s34 b1 a3 a4 b9 gasoleo lco
 0
 6
-0 291 -1 0
-0 301 -1 1
-0 292 -1 0
-0 302 0 1
 0 253 0 1
+0 291 -1 0
+0 292 -1 0
+0 301 -1 1
+0 302 0 1
 0 319 -1 0
 1
 end_operator
@@ -13999,24 +13999,24 @@ begin_operator
 pop-unitarypipe s34 b10 a3 a4 b0 oc1b oc1b
 0
 6
+0 246 0 1
 0 275 -1 1
-0 277 -1 0
 0 276 0 1
+0 277 -1 0
 0 278 -1 0
 0 305 -1 0
-0 246 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b10 a3 a4 b1 oc1b gasoleo
 0
 6
-0 291 -1 1
-0 277 -1 0
-0 292 0 1
-0 278 -1 0
-0 314 -1 0
 0 246 0 1
+0 277 -1 0
+0 278 -1 0
+0 291 -1 1
+0 292 0 1
+0 314 -1 0
 1
 end_operator
 begin_operator
@@ -14024,20 +14024,20 @@ pop-unitarypipe s34 b10 a3 a4 b10 oc1b oc1b
 1
 278 0
 3
+0 246 0 1
 0 277 -1 0
 0 306 -1 0
-0 246 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b10 a3 a4 b11 oc1b oc1b
 0
 6
-0 277 -1 0
-0 303 -1 1
-0 278 -1 0
-0 304 0 1
 0 246 0 1
+0 277 -1 0
+0 278 -1 0
+0 303 -1 1
+0 304 0 1
 0 313 -1 0
 1
 end_operator
@@ -14045,11 +14045,11 @@ begin_operator
 pop-unitarypipe s34 b10 a3 a4 b12 oc1b lco
 0
 6
-0 277 -1 0
-0 293 -1 1
-0 278 -1 0
-0 294 0 1
 0 246 0 1
+0 277 -1 0
+0 278 -1 0
+0 293 -1 1
+0 294 0 1
 0 315 -1 0
 1
 end_operator
@@ -14057,11 +14057,11 @@ begin_operator
 pop-unitarypipe s34 b10 a3 a4 b13 oc1b oc1b
 0
 6
-0 277 -1 0
-0 279 -1 1
-0 278 -1 0
-0 280 0 1
 0 246 0 1
+0 277 -1 0
+0 278 -1 0
+0 279 -1 1
+0 280 0 1
 0 307 -1 0
 1
 end_operator
@@ -14069,11 +14069,11 @@ begin_operator
 pop-unitarypipe s34 b10 a3 a4 b14 oc1b oca1
 0
 6
-0 277 -1 0
-0 281 -1 1
-0 278 -1 0
-0 282 0 1
 0 246 0 1
+0 277 -1 0
+0 278 -1 0
+0 281 -1 1
+0 282 0 1
 0 308 -1 0
 1
 end_operator
@@ -14081,11 +14081,11 @@ begin_operator
 pop-unitarypipe s34 b10 a3 a4 b15 oc1b oc1b
 0
 6
-0 277 -1 0
-0 283 -1 1
-0 278 -1 0
-0 284 0 1
 0 246 0 1
+0 277 -1 0
+0 278 -1 0
+0 283 -1 1
+0 284 0 1
 0 309 -1 0
 1
 end_operator
@@ -14093,11 +14093,11 @@ begin_operator
 pop-unitarypipe s34 b10 a3 a4 b2 oc1b lco
 0
 6
-0 277 -1 0
-0 295 -1 1
-0 278 -1 0
-0 296 0 1
 0 246 0 1
+0 277 -1 0
+0 278 -1 0
+0 295 -1 1
+0 296 0 1
 0 316 -1 0
 1
 end_operator
@@ -14105,11 +14105,11 @@ begin_operator
 pop-unitarypipe s34 b10 a3 a4 b3 oc1b oc1b
 0
 6
-0 277 -1 0
-0 285 -1 1
-0 278 -1 0
-0 286 0 1
 0 246 0 1
+0 277 -1 0
+0 278 -1 0
+0 285 -1 1
+0 286 0 1
 0 310 -1 0
 1
 end_operator
@@ -14117,11 +14117,11 @@ begin_operator
 pop-unitarypipe s34 b10 a3 a4 b5 oc1b oc1b
 0
 6
-0 277 -1 0
-0 287 -1 1
-0 278 -1 0
-0 288 0 1
 0 246 0 1
+0 277 -1 0
+0 278 -1 0
+0 287 -1 1
+0 288 0 1
 0 311 -1 0
 1
 end_operator
@@ -14129,11 +14129,11 @@ begin_operator
 pop-unitarypipe s34 b10 a3 a4 b6 oc1b gasoleo
 0
 6
-0 277 -1 0
-0 297 -1 1
-0 278 -1 0
-0 298 0 1
 0 246 0 1
+0 277 -1 0
+0 278 -1 0
+0 297 -1 1
+0 298 0 1
 0 317 -1 0
 1
 end_operator
@@ -14141,11 +14141,11 @@ begin_operator
 pop-unitarypipe s34 b10 a3 a4 b7 oc1b gasoleo
 0
 6
-0 277 -1 0
-0 299 -1 1
-0 278 -1 0
-0 300 0 1
 0 246 0 1
+0 277 -1 0
+0 278 -1 0
+0 299 -1 1
+0 300 0 1
 0 318 -1 0
 1
 end_operator
@@ -14153,11 +14153,11 @@ begin_operator
 pop-unitarypipe s34 b10 a3 a4 b8 oc1b oc1b
 0
 6
-0 277 -1 0
-0 289 -1 1
-0 278 -1 0
-0 290 0 1
 0 246 0 1
+0 277 -1 0
+0 278 -1 0
+0 289 -1 1
+0 290 0 1
 0 312 -1 0
 1
 end_operator
@@ -14165,11 +14165,11 @@ begin_operator
 pop-unitarypipe s34 b10 a3 a4 b9 oc1b lco
 0
 6
-0 277 -1 0
-0 301 -1 1
-0 278 -1 0
-0 302 0 1
 0 246 0 1
+0 277 -1 0
+0 278 -1 0
+0 301 -1 1
+0 302 0 1
 0 319 -1 0
 1
 end_operator
@@ -14178,8 +14178,8 @@ pop-unitarypipe s34 b11 a3 a4 b0 oc1b oc1b
 0
 6
 0 275 -1 1
-0 303 -1 0
 0 276 0 1
+0 303 -1 0
 0 304 -1 0
 0 305 -1 0
 0 395 0 1
@@ -14190,8 +14190,8 @@ pop-unitarypipe s34 b11 a3 a4 b1 oc1b gasoleo
 0
 6
 0 291 -1 1
-0 303 -1 0
 0 292 0 1
+0 303 -1 0
 0 304 -1 0
 0 314 -1 0
 0 395 0 1
@@ -14202,8 +14202,8 @@ pop-unitarypipe s34 b11 a3 a4 b10 oc1b oc1b
 0
 6
 0 277 -1 1
-0 303 -1 0
 0 278 0 1
+0 303 -1 0
 0 304 -1 0
 0 306 -1 0
 0 395 0 1
@@ -14223,180 +14223,180 @@ begin_operator
 pop-unitarypipe s34 b11 a3 a4 b12 oc1b lco
 0
 6
-0 303 -1 0
 0 293 -1 1
-0 304 -1 0
 0 294 0 1
-0 395 0 1
+0 303 -1 0
+0 304 -1 0
 0 315 -1 0
+0 395 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b11 a3 a4 b13 oc1b oc1b
 0
 6
-0 303 -1 0
 0 279 -1 1
-0 304 -1 0
 0 280 0 1
-0 395 0 1
+0 303 -1 0
+0 304 -1 0
 0 307 -1 0
+0 395 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b11 a3 a4 b14 oc1b oca1
 0
 6
-0 303 -1 0
 0 281 -1 1
-0 304 -1 0
 0 282 0 1
-0 395 0 1
+0 303 -1 0
+0 304 -1 0
 0 308 -1 0
+0 395 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b11 a3 a4 b15 oc1b oc1b
 0
 6
-0 303 -1 0
 0 283 -1 1
-0 304 -1 0
 0 284 0 1
-0 395 0 1
+0 303 -1 0
+0 304 -1 0
 0 309 -1 0
+0 395 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b11 a3 a4 b2 oc1b lco
 0
 6
-0 303 -1 0
 0 295 -1 1
-0 304 -1 0
 0 296 0 1
-0 395 0 1
+0 303 -1 0
+0 304 -1 0
 0 316 -1 0
+0 395 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b11 a3 a4 b3 oc1b oc1b
 0
 6
-0 303 -1 0
 0 285 -1 1
-0 304 -1 0
 0 286 0 1
-0 395 0 1
+0 303 -1 0
+0 304 -1 0
 0 310 -1 0
+0 395 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b11 a3 a4 b5 oc1b oc1b
 0
 6
-0 303 -1 0
 0 287 -1 1
-0 304 -1 0
 0 288 0 1
-0 395 0 1
+0 303 -1 0
+0 304 -1 0
 0 311 -1 0
+0 395 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b11 a3 a4 b6 oc1b gasoleo
 0
 6
-0 303 -1 0
 0 297 -1 1
-0 304 -1 0
 0 298 0 1
-0 395 0 1
+0 303 -1 0
+0 304 -1 0
 0 317 -1 0
+0 395 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b11 a3 a4 b7 oc1b gasoleo
 0
 6
-0 303 -1 0
 0 299 -1 1
-0 304 -1 0
 0 300 0 1
-0 395 0 1
+0 303 -1 0
+0 304 -1 0
 0 318 -1 0
+0 395 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b11 a3 a4 b8 oc1b oc1b
 0
 6
-0 303 -1 0
 0 289 -1 1
-0 304 -1 0
 0 290 0 1
-0 395 0 1
+0 303 -1 0
+0 304 -1 0
 0 312 -1 0
+0 395 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b11 a3 a4 b9 oc1b lco
 0
 6
-0 303 -1 0
 0 301 -1 1
-0 304 -1 0
 0 302 0 1
-0 395 0 1
+0 303 -1 0
+0 304 -1 0
 0 319 -1 0
+0 395 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b12 a3 a4 b0 lco oc1b
 0
 6
+0 254 0 1
 0 275 -1 1
-0 293 -1 0
 0 276 0 1
+0 293 -1 0
 0 294 -1 0
 0 305 -1 0
-0 254 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b12 a3 a4 b1 lco gasoleo
 0
 6
+0 254 0 1
 0 291 -1 1
-0 293 -1 0
 0 292 0 1
+0 293 -1 0
 0 294 -1 0
 0 314 -1 0
-0 254 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b12 a3 a4 b10 lco oc1b
 0
 6
+0 254 0 1
 0 277 -1 1
-0 293 -1 0
 0 278 0 1
+0 293 -1 0
 0 294 -1 0
 0 306 -1 0
-0 254 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b12 a3 a4 b11 lco oc1b
 0
 6
-0 303 -1 1
-0 293 -1 0
-0 304 0 1
-0 294 -1 0
-0 313 -1 0
 0 254 0 1
+0 293 -1 0
+0 294 -1 0
+0 303 -1 1
+0 304 0 1
+0 313 -1 0
 1
 end_operator
 begin_operator
@@ -14404,20 +14404,20 @@ pop-unitarypipe s34 b12 a3 a4 b12 lco lco
 1
 294 0
 3
+0 254 0 1
 0 293 -1 0
 0 315 -1 0
-0 254 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b12 a3 a4 b13 lco oc1b
 0
 6
-0 293 -1 0
-0 279 -1 1
-0 294 -1 0
-0 280 0 1
 0 254 0 1
+0 279 -1 1
+0 280 0 1
+0 293 -1 0
+0 294 -1 0
 0 307 -1 0
 1
 end_operator
@@ -14425,11 +14425,11 @@ begin_operator
 pop-unitarypipe s34 b12 a3 a4 b14 lco oca1
 0
 6
-0 293 -1 0
-0 281 -1 1
-0 294 -1 0
-0 282 0 1
 0 254 0 1
+0 281 -1 1
+0 282 0 1
+0 293 -1 0
+0 294 -1 0
 0 308 -1 0
 1
 end_operator
@@ -14437,11 +14437,11 @@ begin_operator
 pop-unitarypipe s34 b12 a3 a4 b15 lco oc1b
 0
 6
-0 293 -1 0
-0 283 -1 1
-0 294 -1 0
-0 284 0 1
 0 254 0 1
+0 283 -1 1
+0 284 0 1
+0 293 -1 0
+0 294 -1 0
 0 309 -1 0
 1
 end_operator
@@ -14449,11 +14449,11 @@ begin_operator
 pop-unitarypipe s34 b12 a3 a4 b2 lco lco
 0
 6
-0 293 -1 0
-0 295 -1 1
-0 294 -1 0
-0 296 0 1
 0 254 0 1
+0 293 -1 0
+0 294 -1 0
+0 295 -1 1
+0 296 0 1
 0 316 -1 0
 1
 end_operator
@@ -14461,11 +14461,11 @@ begin_operator
 pop-unitarypipe s34 b12 a3 a4 b3 lco oc1b
 0
 6
-0 293 -1 0
-0 285 -1 1
-0 294 -1 0
-0 286 0 1
 0 254 0 1
+0 285 -1 1
+0 286 0 1
+0 293 -1 0
+0 294 -1 0
 0 310 -1 0
 1
 end_operator
@@ -14473,23 +14473,23 @@ begin_operator
 pop-unitarypipe s34 b12 a3 a4 b4 lco rat-a
 0
 6
-0 293 -1 0
 0 240 -1 1
-0 294 -1 0
 0 241 0 1
-0 254 0 1
 0 242 -1 0
+0 254 0 1
+0 293 -1 0
+0 294 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b12 a3 a4 b5 lco oc1b
 0
 6
-0 293 -1 0
-0 287 -1 1
-0 294 -1 0
-0 288 0 1
 0 254 0 1
+0 287 -1 1
+0 288 0 1
+0 293 -1 0
+0 294 -1 0
 0 311 -1 0
 1
 end_operator
@@ -14497,11 +14497,11 @@ begin_operator
 pop-unitarypipe s34 b12 a3 a4 b6 lco gasoleo
 0
 6
-0 293 -1 0
-0 297 -1 1
-0 294 -1 0
-0 298 0 1
 0 254 0 1
+0 293 -1 0
+0 294 -1 0
+0 297 -1 1
+0 298 0 1
 0 317 -1 0
 1
 end_operator
@@ -14509,11 +14509,11 @@ begin_operator
 pop-unitarypipe s34 b12 a3 a4 b7 lco gasoleo
 0
 6
-0 293 -1 0
-0 299 -1 1
-0 294 -1 0
-0 300 0 1
 0 254 0 1
+0 293 -1 0
+0 294 -1 0
+0 299 -1 1
+0 300 0 1
 0 318 -1 0
 1
 end_operator
@@ -14521,11 +14521,11 @@ begin_operator
 pop-unitarypipe s34 b12 a3 a4 b8 lco oc1b
 0
 6
-0 293 -1 0
-0 289 -1 1
-0 294 -1 0
-0 290 0 1
 0 254 0 1
+0 289 -1 1
+0 290 0 1
+0 293 -1 0
+0 294 -1 0
 0 312 -1 0
 1
 end_operator
@@ -14533,11 +14533,11 @@ begin_operator
 pop-unitarypipe s34 b12 a3 a4 b9 lco lco
 0
 6
-0 293 -1 0
-0 301 -1 1
-0 294 -1 0
-0 302 0 1
 0 254 0 1
+0 293 -1 0
+0 294 -1 0
+0 301 -1 1
+0 302 0 1
 0 319 -1 0
 1
 end_operator
@@ -14545,60 +14545,60 @@ begin_operator
 pop-unitarypipe s34 b13 a3 a4 b0 oc1b oc1b
 0
 6
+0 247 0 1
 0 275 -1 1
-0 279 -1 0
 0 276 0 1
+0 279 -1 0
 0 280 -1 0
 0 305 -1 0
-0 247 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b13 a3 a4 b1 oc1b gasoleo
 0
 6
-0 291 -1 1
-0 279 -1 0
-0 292 0 1
-0 280 -1 0
-0 314 -1 0
 0 247 0 1
+0 279 -1 0
+0 280 -1 0
+0 291 -1 1
+0 292 0 1
+0 314 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b13 a3 a4 b10 oc1b oc1b
 0
 6
+0 247 0 1
 0 277 -1 1
-0 279 -1 0
 0 278 0 1
+0 279 -1 0
 0 280 -1 0
 0 306 -1 0
-0 247 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b13 a3 a4 b11 oc1b oc1b
 0
 6
-0 303 -1 1
-0 279 -1 0
-0 304 0 1
-0 280 -1 0
-0 313 -1 0
 0 247 0 1
+0 279 -1 0
+0 280 -1 0
+0 303 -1 1
+0 304 0 1
+0 313 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b13 a3 a4 b12 oc1b lco
 0
 6
-0 293 -1 1
-0 279 -1 0
-0 294 0 1
-0 280 -1 0
-0 315 -1 0
 0 247 0 1
+0 279 -1 0
+0 280 -1 0
+0 293 -1 1
+0 294 0 1
+0 315 -1 0
 1
 end_operator
 begin_operator
@@ -14606,20 +14606,20 @@ pop-unitarypipe s34 b13 a3 a4 b13 oc1b oc1b
 1
 280 0
 3
+0 247 0 1
 0 279 -1 0
 0 307 -1 0
-0 247 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b13 a3 a4 b14 oc1b oca1
 0
 6
-0 279 -1 0
-0 281 -1 1
-0 280 -1 0
-0 282 0 1
 0 247 0 1
+0 279 -1 0
+0 280 -1 0
+0 281 -1 1
+0 282 0 1
 0 308 -1 0
 1
 end_operator
@@ -14627,11 +14627,11 @@ begin_operator
 pop-unitarypipe s34 b13 a3 a4 b15 oc1b oc1b
 0
 6
-0 279 -1 0
-0 283 -1 1
-0 280 -1 0
-0 284 0 1
 0 247 0 1
+0 279 -1 0
+0 280 -1 0
+0 283 -1 1
+0 284 0 1
 0 309 -1 0
 1
 end_operator
@@ -14639,11 +14639,11 @@ begin_operator
 pop-unitarypipe s34 b13 a3 a4 b2 oc1b lco
 0
 6
-0 279 -1 0
-0 295 -1 1
-0 280 -1 0
-0 296 0 1
 0 247 0 1
+0 279 -1 0
+0 280 -1 0
+0 295 -1 1
+0 296 0 1
 0 316 -1 0
 1
 end_operator
@@ -14651,11 +14651,11 @@ begin_operator
 pop-unitarypipe s34 b13 a3 a4 b3 oc1b oc1b
 0
 6
-0 279 -1 0
-0 285 -1 1
-0 280 -1 0
-0 286 0 1
 0 247 0 1
+0 279 -1 0
+0 280 -1 0
+0 285 -1 1
+0 286 0 1
 0 310 -1 0
 1
 end_operator
@@ -14663,11 +14663,11 @@ begin_operator
 pop-unitarypipe s34 b13 a3 a4 b5 oc1b oc1b
 0
 6
-0 279 -1 0
-0 287 -1 1
-0 280 -1 0
-0 288 0 1
 0 247 0 1
+0 279 -1 0
+0 280 -1 0
+0 287 -1 1
+0 288 0 1
 0 311 -1 0
 1
 end_operator
@@ -14675,11 +14675,11 @@ begin_operator
 pop-unitarypipe s34 b13 a3 a4 b6 oc1b gasoleo
 0
 6
-0 279 -1 0
-0 297 -1 1
-0 280 -1 0
-0 298 0 1
 0 247 0 1
+0 279 -1 0
+0 280 -1 0
+0 297 -1 1
+0 298 0 1
 0 317 -1 0
 1
 end_operator
@@ -14687,11 +14687,11 @@ begin_operator
 pop-unitarypipe s34 b13 a3 a4 b7 oc1b gasoleo
 0
 6
-0 279 -1 0
-0 299 -1 1
-0 280 -1 0
-0 300 0 1
 0 247 0 1
+0 279 -1 0
+0 280 -1 0
+0 299 -1 1
+0 300 0 1
 0 318 -1 0
 1
 end_operator
@@ -14699,11 +14699,11 @@ begin_operator
 pop-unitarypipe s34 b13 a3 a4 b8 oc1b oc1b
 0
 6
-0 279 -1 0
-0 289 -1 1
-0 280 -1 0
-0 290 0 1
 0 247 0 1
+0 279 -1 0
+0 280 -1 0
+0 289 -1 1
+0 290 0 1
 0 312 -1 0
 1
 end_operator
@@ -14711,11 +14711,11 @@ begin_operator
 pop-unitarypipe s34 b13 a3 a4 b9 oc1b lco
 0
 6
-0 279 -1 0
-0 301 -1 1
-0 280 -1 0
-0 302 0 1
 0 247 0 1
+0 279 -1 0
+0 280 -1 0
+0 301 -1 1
+0 302 0 1
 0 319 -1 0
 1
 end_operator
@@ -14723,72 +14723,72 @@ begin_operator
 pop-unitarypipe s34 b14 a3 a4 b0 oca1 oc1b
 0
 6
+0 248 0 1
 0 275 -1 1
-0 281 -1 0
 0 276 0 1
+0 281 -1 0
 0 282 -1 0
 0 305 -1 0
-0 248 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b14 a3 a4 b1 oca1 gasoleo
 0
 6
-0 291 -1 1
-0 281 -1 0
-0 292 0 1
-0 282 -1 0
-0 314 -1 0
 0 248 0 1
+0 281 -1 0
+0 282 -1 0
+0 291 -1 1
+0 292 0 1
+0 314 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b14 a3 a4 b10 oca1 oc1b
 0
 6
+0 248 0 1
 0 277 -1 1
-0 281 -1 0
 0 278 0 1
+0 281 -1 0
 0 282 -1 0
 0 306 -1 0
-0 248 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b14 a3 a4 b11 oca1 oc1b
 0
 6
-0 303 -1 1
-0 281 -1 0
-0 304 0 1
-0 282 -1 0
-0 313 -1 0
 0 248 0 1
+0 281 -1 0
+0 282 -1 0
+0 303 -1 1
+0 304 0 1
+0 313 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b14 a3 a4 b12 oca1 lco
 0
 6
-0 293 -1 1
-0 281 -1 0
-0 294 0 1
-0 282 -1 0
-0 315 -1 0
 0 248 0 1
+0 281 -1 0
+0 282 -1 0
+0 293 -1 1
+0 294 0 1
+0 315 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b14 a3 a4 b13 oca1 oc1b
 0
 6
+0 248 0 1
 0 279 -1 1
-0 281 -1 0
 0 280 0 1
+0 281 -1 0
 0 282 -1 0
 0 307 -1 0
-0 248 0 1
 1
 end_operator
 begin_operator
@@ -14796,20 +14796,20 @@ pop-unitarypipe s34 b14 a3 a4 b14 oca1 oca1
 1
 282 0
 3
+0 248 0 1
 0 281 -1 0
 0 308 -1 0
-0 248 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b14 a3 a4 b15 oca1 oc1b
 0
 6
-0 281 -1 0
-0 283 -1 1
-0 282 -1 0
-0 284 0 1
 0 248 0 1
+0 281 -1 0
+0 282 -1 0
+0 283 -1 1
+0 284 0 1
 0 309 -1 0
 1
 end_operator
@@ -14817,11 +14817,11 @@ begin_operator
 pop-unitarypipe s34 b14 a3 a4 b2 oca1 lco
 0
 6
-0 281 -1 0
-0 295 -1 1
-0 282 -1 0
-0 296 0 1
 0 248 0 1
+0 281 -1 0
+0 282 -1 0
+0 295 -1 1
+0 296 0 1
 0 316 -1 0
 1
 end_operator
@@ -14829,11 +14829,11 @@ begin_operator
 pop-unitarypipe s34 b14 a3 a4 b3 oca1 oc1b
 0
 6
-0 281 -1 0
-0 285 -1 1
-0 282 -1 0
-0 286 0 1
 0 248 0 1
+0 281 -1 0
+0 282 -1 0
+0 285 -1 1
+0 286 0 1
 0 310 -1 0
 1
 end_operator
@@ -14841,11 +14841,11 @@ begin_operator
 pop-unitarypipe s34 b14 a3 a4 b5 oca1 oc1b
 0
 6
-0 281 -1 0
-0 287 -1 1
-0 282 -1 0
-0 288 0 1
 0 248 0 1
+0 281 -1 0
+0 282 -1 0
+0 287 -1 1
+0 288 0 1
 0 311 -1 0
 1
 end_operator
@@ -14853,11 +14853,11 @@ begin_operator
 pop-unitarypipe s34 b14 a3 a4 b6 oca1 gasoleo
 0
 6
-0 281 -1 0
-0 297 -1 1
-0 282 -1 0
-0 298 0 1
 0 248 0 1
+0 281 -1 0
+0 282 -1 0
+0 297 -1 1
+0 298 0 1
 0 317 -1 0
 1
 end_operator
@@ -14865,11 +14865,11 @@ begin_operator
 pop-unitarypipe s34 b14 a3 a4 b7 oca1 gasoleo
 0
 6
-0 281 -1 0
-0 299 -1 1
-0 282 -1 0
-0 300 0 1
 0 248 0 1
+0 281 -1 0
+0 282 -1 0
+0 299 -1 1
+0 300 0 1
 0 318 -1 0
 1
 end_operator
@@ -14877,11 +14877,11 @@ begin_operator
 pop-unitarypipe s34 b14 a3 a4 b8 oca1 oc1b
 0
 6
-0 281 -1 0
-0 289 -1 1
-0 282 -1 0
-0 290 0 1
 0 248 0 1
+0 281 -1 0
+0 282 -1 0
+0 289 -1 1
+0 290 0 1
 0 312 -1 0
 1
 end_operator
@@ -14889,11 +14889,11 @@ begin_operator
 pop-unitarypipe s34 b14 a3 a4 b9 oca1 lco
 0
 6
-0 281 -1 0
-0 301 -1 1
-0 282 -1 0
-0 302 0 1
 0 248 0 1
+0 281 -1 0
+0 282 -1 0
+0 301 -1 1
+0 302 0 1
 0 319 -1 0
 1
 end_operator
@@ -14901,84 +14901,84 @@ begin_operator
 pop-unitarypipe s34 b15 a3 a4 b0 oc1b oc1b
 0
 6
+0 249 0 1
 0 275 -1 1
-0 283 -1 0
 0 276 0 1
+0 283 -1 0
 0 284 -1 0
 0 305 -1 0
-0 249 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b15 a3 a4 b1 oc1b gasoleo
 0
 6
-0 291 -1 1
-0 283 -1 0
-0 292 0 1
-0 284 -1 0
-0 314 -1 0
 0 249 0 1
+0 283 -1 0
+0 284 -1 0
+0 291 -1 1
+0 292 0 1
+0 314 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b15 a3 a4 b10 oc1b oc1b
 0
 6
+0 249 0 1
 0 277 -1 1
-0 283 -1 0
 0 278 0 1
+0 283 -1 0
 0 284 -1 0
 0 306 -1 0
-0 249 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b15 a3 a4 b11 oc1b oc1b
 0
 6
-0 303 -1 1
-0 283 -1 0
-0 304 0 1
-0 284 -1 0
-0 313 -1 0
 0 249 0 1
+0 283 -1 0
+0 284 -1 0
+0 303 -1 1
+0 304 0 1
+0 313 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b15 a3 a4 b12 oc1b lco
 0
 6
-0 293 -1 1
-0 283 -1 0
-0 294 0 1
-0 284 -1 0
-0 315 -1 0
 0 249 0 1
+0 283 -1 0
+0 284 -1 0
+0 293 -1 1
+0 294 0 1
+0 315 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b15 a3 a4 b13 oc1b oc1b
 0
 6
+0 249 0 1
 0 279 -1 1
-0 283 -1 0
 0 280 0 1
+0 283 -1 0
 0 284 -1 0
 0 307 -1 0
-0 249 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b15 a3 a4 b14 oc1b oca1
 0
 6
+0 249 0 1
 0 281 -1 1
-0 283 -1 0
 0 282 0 1
+0 283 -1 0
 0 284 -1 0
 0 308 -1 0
-0 249 0 1
 1
 end_operator
 begin_operator
@@ -14986,20 +14986,20 @@ pop-unitarypipe s34 b15 a3 a4 b15 oc1b oc1b
 1
 284 0
 3
+0 249 0 1
 0 283 -1 0
 0 309 -1 0
-0 249 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b15 a3 a4 b2 oc1b lco
 0
 6
-0 283 -1 0
-0 295 -1 1
-0 284 -1 0
-0 296 0 1
 0 249 0 1
+0 283 -1 0
+0 284 -1 0
+0 295 -1 1
+0 296 0 1
 0 316 -1 0
 1
 end_operator
@@ -15007,11 +15007,11 @@ begin_operator
 pop-unitarypipe s34 b15 a3 a4 b3 oc1b oc1b
 0
 6
-0 283 -1 0
-0 285 -1 1
-0 284 -1 0
-0 286 0 1
 0 249 0 1
+0 283 -1 0
+0 284 -1 0
+0 285 -1 1
+0 286 0 1
 0 310 -1 0
 1
 end_operator
@@ -15019,11 +15019,11 @@ begin_operator
 pop-unitarypipe s34 b15 a3 a4 b5 oc1b oc1b
 0
 6
-0 283 -1 0
-0 287 -1 1
-0 284 -1 0
-0 288 0 1
 0 249 0 1
+0 283 -1 0
+0 284 -1 0
+0 287 -1 1
+0 288 0 1
 0 311 -1 0
 1
 end_operator
@@ -15031,11 +15031,11 @@ begin_operator
 pop-unitarypipe s34 b15 a3 a4 b6 oc1b gasoleo
 0
 6
-0 283 -1 0
-0 297 -1 1
-0 284 -1 0
-0 298 0 1
 0 249 0 1
+0 283 -1 0
+0 284 -1 0
+0 297 -1 1
+0 298 0 1
 0 317 -1 0
 1
 end_operator
@@ -15043,11 +15043,11 @@ begin_operator
 pop-unitarypipe s34 b15 a3 a4 b7 oc1b gasoleo
 0
 6
-0 283 -1 0
-0 299 -1 1
-0 284 -1 0
-0 300 0 1
 0 249 0 1
+0 283 -1 0
+0 284 -1 0
+0 299 -1 1
+0 300 0 1
 0 318 -1 0
 1
 end_operator
@@ -15055,11 +15055,11 @@ begin_operator
 pop-unitarypipe s34 b15 a3 a4 b8 oc1b oc1b
 0
 6
-0 283 -1 0
-0 289 -1 1
-0 284 -1 0
-0 290 0 1
 0 249 0 1
+0 283 -1 0
+0 284 -1 0
+0 289 -1 1
+0 290 0 1
 0 312 -1 0
 1
 end_operator
@@ -15067,11 +15067,11 @@ begin_operator
 pop-unitarypipe s34 b15 a3 a4 b9 oc1b lco
 0
 6
-0 283 -1 0
-0 301 -1 1
-0 284 -1 0
-0 302 0 1
 0 249 0 1
+0 283 -1 0
+0 284 -1 0
+0 301 -1 1
+0 302 0 1
 0 319 -1 0
 1
 end_operator
@@ -15079,96 +15079,96 @@ begin_operator
 pop-unitarypipe s34 b2 a3 a4 b0 lco oc1b
 0
 6
+0 255 0 1
 0 275 -1 1
-0 295 -1 0
 0 276 0 1
+0 295 -1 0
 0 296 -1 0
 0 305 -1 0
-0 255 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b2 a3 a4 b1 lco gasoleo
 0
 6
+0 255 0 1
 0 291 -1 1
-0 295 -1 0
 0 292 0 1
+0 295 -1 0
 0 296 -1 0
 0 314 -1 0
-0 255 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b2 a3 a4 b10 lco oc1b
 0
 6
+0 255 0 1
 0 277 -1 1
-0 295 -1 0
 0 278 0 1
+0 295 -1 0
 0 296 -1 0
 0 306 -1 0
-0 255 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b2 a3 a4 b11 lco oc1b
 0
 6
-0 303 -1 1
-0 295 -1 0
-0 304 0 1
-0 296 -1 0
-0 313 -1 0
 0 255 0 1
+0 295 -1 0
+0 296 -1 0
+0 303 -1 1
+0 304 0 1
+0 313 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b2 a3 a4 b12 lco lco
 0
 6
+0 255 0 1
 0 293 -1 1
-0 295 -1 0
 0 294 0 1
+0 295 -1 0
 0 296 -1 0
 0 315 -1 0
-0 255 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b2 a3 a4 b13 lco oc1b
 0
 6
+0 255 0 1
 0 279 -1 1
-0 295 -1 0
 0 280 0 1
+0 295 -1 0
 0 296 -1 0
 0 307 -1 0
-0 255 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b2 a3 a4 b14 lco oca1
 0
 6
+0 255 0 1
 0 281 -1 1
-0 295 -1 0
 0 282 0 1
+0 295 -1 0
 0 296 -1 0
 0 308 -1 0
-0 255 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b2 a3 a4 b15 lco oc1b
 0
 6
+0 255 0 1
 0 283 -1 1
-0 295 -1 0
 0 284 0 1
+0 295 -1 0
 0 296 -1 0
 0 309 -1 0
-0 255 0 1
 1
 end_operator
 begin_operator
@@ -15176,20 +15176,20 @@ pop-unitarypipe s34 b2 a3 a4 b2 lco lco
 1
 296 0
 3
+0 255 0 1
 0 295 -1 0
 0 316 -1 0
-0 255 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b2 a3 a4 b3 lco oc1b
 0
 6
-0 295 -1 0
-0 285 -1 1
-0 296 -1 0
-0 286 0 1
 0 255 0 1
+0 285 -1 1
+0 286 0 1
+0 295 -1 0
+0 296 -1 0
 0 310 -1 0
 1
 end_operator
@@ -15197,23 +15197,23 @@ begin_operator
 pop-unitarypipe s34 b2 a3 a4 b4 lco rat-a
 0
 6
-0 295 -1 0
 0 240 -1 1
-0 296 -1 0
 0 241 0 1
-0 255 0 1
 0 242 -1 0
+0 255 0 1
+0 295 -1 0
+0 296 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b2 a3 a4 b5 lco oc1b
 0
 6
-0 295 -1 0
-0 287 -1 1
-0 296 -1 0
-0 288 0 1
 0 255 0 1
+0 287 -1 1
+0 288 0 1
+0 295 -1 0
+0 296 -1 0
 0 311 -1 0
 1
 end_operator
@@ -15221,11 +15221,11 @@ begin_operator
 pop-unitarypipe s34 b2 a3 a4 b6 lco gasoleo
 0
 6
-0 295 -1 0
-0 297 -1 1
-0 296 -1 0
-0 298 0 1
 0 255 0 1
+0 295 -1 0
+0 296 -1 0
+0 297 -1 1
+0 298 0 1
 0 317 -1 0
 1
 end_operator
@@ -15233,11 +15233,11 @@ begin_operator
 pop-unitarypipe s34 b2 a3 a4 b7 lco gasoleo
 0
 6
-0 295 -1 0
-0 299 -1 1
-0 296 -1 0
-0 300 0 1
 0 255 0 1
+0 295 -1 0
+0 296 -1 0
+0 299 -1 1
+0 300 0 1
 0 318 -1 0
 1
 end_operator
@@ -15245,11 +15245,11 @@ begin_operator
 pop-unitarypipe s34 b2 a3 a4 b8 lco oc1b
 0
 6
-0 295 -1 0
-0 289 -1 1
-0 296 -1 0
-0 290 0 1
 0 255 0 1
+0 289 -1 1
+0 290 0 1
+0 295 -1 0
+0 296 -1 0
 0 312 -1 0
 1
 end_operator
@@ -15257,11 +15257,11 @@ begin_operator
 pop-unitarypipe s34 b2 a3 a4 b9 lco lco
 0
 6
-0 295 -1 0
-0 301 -1 1
-0 296 -1 0
-0 302 0 1
 0 255 0 1
+0 295 -1 0
+0 296 -1 0
+0 301 -1 1
+0 302 0 1
 0 319 -1 0
 1
 end_operator
@@ -15269,108 +15269,108 @@ begin_operator
 pop-unitarypipe s34 b3 a3 a4 b0 oc1b oc1b
 0
 6
+0 250 0 1
 0 275 -1 1
-0 285 -1 0
 0 276 0 1
+0 285 -1 0
 0 286 -1 0
 0 305 -1 0
-0 250 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b3 a3 a4 b1 oc1b gasoleo
 0
 6
-0 291 -1 1
-0 285 -1 0
-0 292 0 1
-0 286 -1 0
-0 314 -1 0
 0 250 0 1
+0 285 -1 0
+0 286 -1 0
+0 291 -1 1
+0 292 0 1
+0 314 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b3 a3 a4 b10 oc1b oc1b
 0
 6
+0 250 0 1
 0 277 -1 1
-0 285 -1 0
 0 278 0 1
+0 285 -1 0
 0 286 -1 0
 0 306 -1 0
-0 250 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b3 a3 a4 b11 oc1b oc1b
 0
 6
-0 303 -1 1
-0 285 -1 0
-0 304 0 1
-0 286 -1 0
-0 313 -1 0
 0 250 0 1
+0 285 -1 0
+0 286 -1 0
+0 303 -1 1
+0 304 0 1
+0 313 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b3 a3 a4 b12 oc1b lco
 0
 6
-0 293 -1 1
-0 285 -1 0
-0 294 0 1
-0 286 -1 0
-0 315 -1 0
 0 250 0 1
+0 285 -1 0
+0 286 -1 0
+0 293 -1 1
+0 294 0 1
+0 315 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b3 a3 a4 b13 oc1b oc1b
 0
 6
+0 250 0 1
 0 279 -1 1
-0 285 -1 0
 0 280 0 1
+0 285 -1 0
 0 286 -1 0
 0 307 -1 0
-0 250 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b3 a3 a4 b14 oc1b oca1
 0
 6
+0 250 0 1
 0 281 -1 1
-0 285 -1 0
 0 282 0 1
+0 285 -1 0
 0 286 -1 0
 0 308 -1 0
-0 250 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b3 a3 a4 b15 oc1b oc1b
 0
 6
+0 250 0 1
 0 283 -1 1
-0 285 -1 0
 0 284 0 1
+0 285 -1 0
 0 286 -1 0
 0 309 -1 0
-0 250 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b3 a3 a4 b2 oc1b lco
 0
 6
-0 295 -1 1
-0 285 -1 0
-0 296 0 1
-0 286 -1 0
-0 316 -1 0
 0 250 0 1
+0 285 -1 0
+0 286 -1 0
+0 295 -1 1
+0 296 0 1
+0 316 -1 0
 1
 end_operator
 begin_operator
@@ -15378,20 +15378,20 @@ pop-unitarypipe s34 b3 a3 a4 b3 oc1b oc1b
 1
 286 0
 3
+0 250 0 1
 0 285 -1 0
 0 310 -1 0
-0 250 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b3 a3 a4 b5 oc1b oc1b
 0
 6
-0 285 -1 0
-0 287 -1 1
-0 286 -1 0
-0 288 0 1
 0 250 0 1
+0 285 -1 0
+0 286 -1 0
+0 287 -1 1
+0 288 0 1
 0 311 -1 0
 1
 end_operator
@@ -15399,11 +15399,11 @@ begin_operator
 pop-unitarypipe s34 b3 a3 a4 b6 oc1b gasoleo
 0
 6
-0 285 -1 0
-0 297 -1 1
-0 286 -1 0
-0 298 0 1
 0 250 0 1
+0 285 -1 0
+0 286 -1 0
+0 297 -1 1
+0 298 0 1
 0 317 -1 0
 1
 end_operator
@@ -15411,11 +15411,11 @@ begin_operator
 pop-unitarypipe s34 b3 a3 a4 b7 oc1b gasoleo
 0
 6
-0 285 -1 0
-0 299 -1 1
-0 286 -1 0
-0 300 0 1
 0 250 0 1
+0 285 -1 0
+0 286 -1 0
+0 299 -1 1
+0 300 0 1
 0 318 -1 0
 1
 end_operator
@@ -15423,11 +15423,11 @@ begin_operator
 pop-unitarypipe s34 b3 a3 a4 b8 oc1b oc1b
 0
 6
-0 285 -1 0
-0 289 -1 1
-0 286 -1 0
-0 290 0 1
 0 250 0 1
+0 285 -1 0
+0 286 -1 0
+0 289 -1 1
+0 290 0 1
 0 312 -1 0
 1
 end_operator
@@ -15435,11 +15435,11 @@ begin_operator
 pop-unitarypipe s34 b3 a3 a4 b9 oc1b lco
 0
 6
-0 285 -1 0
-0 301 -1 1
-0 286 -1 0
-0 302 0 1
 0 250 0 1
+0 285 -1 0
+0 286 -1 0
+0 301 -1 1
+0 302 0 1
 0 319 -1 0
 1
 end_operator
@@ -15447,36 +15447,36 @@ begin_operator
 pop-unitarypipe s34 b4 a3 a4 b1 rat-a gasoleo
 0
 6
-0 291 -1 1
-0 240 -1 0
-0 292 0 1
-0 241 -1 0
-0 314 -1 0
 0 238 0 1
+0 240 -1 0
+0 241 -1 0
+0 291 -1 1
+0 292 0 1
+0 314 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b4 a3 a4 b12 rat-a lco
 0
 6
-0 293 -1 1
-0 240 -1 0
-0 294 0 1
-0 241 -1 0
-0 315 -1 0
 0 238 0 1
+0 240 -1 0
+0 241 -1 0
+0 293 -1 1
+0 294 0 1
+0 315 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b4 a3 a4 b2 rat-a lco
 0
 6
-0 295 -1 1
-0 240 -1 0
-0 296 0 1
-0 241 -1 0
-0 316 -1 0
 0 238 0 1
+0 240 -1 0
+0 241 -1 0
+0 295 -1 1
+0 296 0 1
+0 316 -1 0
 1
 end_operator
 begin_operator
@@ -15484,20 +15484,20 @@ pop-unitarypipe s34 b4 a3 a4 b4 rat-a rat-a
 1
 241 0
 3
+0 238 0 1
 0 240 -1 0
 0 242 -1 0
-0 238 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b4 a3 a4 b6 rat-a gasoleo
 0
 6
-0 240 -1 0
-0 297 -1 1
-0 241 -1 0
-0 298 0 1
 0 238 0 1
+0 240 -1 0
+0 241 -1 0
+0 297 -1 1
+0 298 0 1
 0 317 -1 0
 1
 end_operator
@@ -15505,11 +15505,11 @@ begin_operator
 pop-unitarypipe s34 b4 a3 a4 b7 rat-a gasoleo
 0
 6
-0 240 -1 0
-0 299 -1 1
-0 241 -1 0
-0 300 0 1
 0 238 0 1
+0 240 -1 0
+0 241 -1 0
+0 299 -1 1
+0 300 0 1
 0 318 -1 0
 1
 end_operator
@@ -15517,11 +15517,11 @@ begin_operator
 pop-unitarypipe s34 b4 a3 a4 b9 rat-a lco
 0
 6
-0 240 -1 0
-0 301 -1 1
-0 241 -1 0
-0 302 0 1
 0 238 0 1
+0 240 -1 0
+0 241 -1 0
+0 301 -1 1
+0 302 0 1
 0 319 -1 0
 1
 end_operator
@@ -15529,120 +15529,120 @@ begin_operator
 pop-unitarypipe s34 b5 a3 a4 b0 oc1b oc1b
 0
 6
+0 251 0 1
 0 275 -1 1
-0 287 -1 0
 0 276 0 1
+0 287 -1 0
 0 288 -1 0
 0 305 -1 0
-0 251 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b5 a3 a4 b1 oc1b gasoleo
 0
 6
-0 291 -1 1
-0 287 -1 0
-0 292 0 1
-0 288 -1 0
-0 314 -1 0
 0 251 0 1
+0 287 -1 0
+0 288 -1 0
+0 291 -1 1
+0 292 0 1
+0 314 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b5 a3 a4 b10 oc1b oc1b
 0
 6
+0 251 0 1
 0 277 -1 1
-0 287 -1 0
 0 278 0 1
+0 287 -1 0
 0 288 -1 0
 0 306 -1 0
-0 251 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b5 a3 a4 b11 oc1b oc1b
 0
 6
-0 303 -1 1
-0 287 -1 0
-0 304 0 1
-0 288 -1 0
-0 313 -1 0
 0 251 0 1
+0 287 -1 0
+0 288 -1 0
+0 303 -1 1
+0 304 0 1
+0 313 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b5 a3 a4 b12 oc1b lco
 0
 6
-0 293 -1 1
-0 287 -1 0
-0 294 0 1
-0 288 -1 0
-0 315 -1 0
 0 251 0 1
+0 287 -1 0
+0 288 -1 0
+0 293 -1 1
+0 294 0 1
+0 315 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b5 a3 a4 b13 oc1b oc1b
 0
 6
+0 251 0 1
 0 279 -1 1
-0 287 -1 0
 0 280 0 1
+0 287 -1 0
 0 288 -1 0
 0 307 -1 0
-0 251 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b5 a3 a4 b14 oc1b oca1
 0
 6
+0 251 0 1
 0 281 -1 1
-0 287 -1 0
 0 282 0 1
+0 287 -1 0
 0 288 -1 0
 0 308 -1 0
-0 251 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b5 a3 a4 b15 oc1b oc1b
 0
 6
+0 251 0 1
 0 283 -1 1
-0 287 -1 0
 0 284 0 1
+0 287 -1 0
 0 288 -1 0
 0 309 -1 0
-0 251 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b5 a3 a4 b2 oc1b lco
 0
 6
-0 295 -1 1
-0 287 -1 0
-0 296 0 1
-0 288 -1 0
-0 316 -1 0
 0 251 0 1
+0 287 -1 0
+0 288 -1 0
+0 295 -1 1
+0 296 0 1
+0 316 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b5 a3 a4 b3 oc1b oc1b
 0
 6
+0 251 0 1
 0 285 -1 1
-0 287 -1 0
 0 286 0 1
+0 287 -1 0
 0 288 -1 0
 0 310 -1 0
-0 251 0 1
 1
 end_operator
 begin_operator
@@ -15650,20 +15650,20 @@ pop-unitarypipe s34 b5 a3 a4 b5 oc1b oc1b
 1
 288 0
 3
+0 251 0 1
 0 287 -1 0
 0 311 -1 0
-0 251 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b5 a3 a4 b6 oc1b gasoleo
 0
 6
-0 287 -1 0
-0 297 -1 1
-0 288 -1 0
-0 298 0 1
 0 251 0 1
+0 287 -1 0
+0 288 -1 0
+0 297 -1 1
+0 298 0 1
 0 317 -1 0
 1
 end_operator
@@ -15671,11 +15671,11 @@ begin_operator
 pop-unitarypipe s34 b5 a3 a4 b7 oc1b gasoleo
 0
 6
-0 287 -1 0
-0 299 -1 1
-0 288 -1 0
-0 300 0 1
 0 251 0 1
+0 287 -1 0
+0 288 -1 0
+0 299 -1 1
+0 300 0 1
 0 318 -1 0
 1
 end_operator
@@ -15683,11 +15683,11 @@ begin_operator
 pop-unitarypipe s34 b5 a3 a4 b8 oc1b oc1b
 0
 6
-0 287 -1 0
-0 289 -1 1
-0 288 -1 0
-0 290 0 1
 0 251 0 1
+0 287 -1 0
+0 288 -1 0
+0 289 -1 1
+0 290 0 1
 0 312 -1 0
 1
 end_operator
@@ -15695,11 +15695,11 @@ begin_operator
 pop-unitarypipe s34 b5 a3 a4 b9 oc1b lco
 0
 6
-0 287 -1 0
-0 301 -1 1
-0 288 -1 0
-0 302 0 1
 0 251 0 1
+0 287 -1 0
+0 288 -1 0
+0 301 -1 1
+0 302 0 1
 0 319 -1 0
 1
 end_operator
@@ -15707,120 +15707,120 @@ begin_operator
 pop-unitarypipe s34 b6 a3 a4 b0 gasoleo oc1b
 0
 6
+0 256 0 1
 0 275 -1 1
-0 297 -1 0
 0 276 0 1
+0 297 -1 0
 0 298 -1 0
 0 305 -1 0
-0 256 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b6 a3 a4 b1 gasoleo gasoleo
 0
 6
+0 256 0 1
 0 291 -1 1
-0 297 -1 0
 0 292 0 1
+0 297 -1 0
 0 298 -1 0
 0 314 -1 0
-0 256 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b6 a3 a4 b10 gasoleo oc1b
 0
 6
+0 256 0 1
 0 277 -1 1
-0 297 -1 0
 0 278 0 1
+0 297 -1 0
 0 298 -1 0
 0 306 -1 0
-0 256 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b6 a3 a4 b11 gasoleo oc1b
 0
 6
-0 303 -1 1
-0 297 -1 0
-0 304 0 1
-0 298 -1 0
-0 313 -1 0
 0 256 0 1
+0 297 -1 0
+0 298 -1 0
+0 303 -1 1
+0 304 0 1
+0 313 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b6 a3 a4 b12 gasoleo lco
 0
 6
+0 256 0 1
 0 293 -1 1
-0 297 -1 0
 0 294 0 1
+0 297 -1 0
 0 298 -1 0
 0 315 -1 0
-0 256 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b6 a3 a4 b13 gasoleo oc1b
 0
 6
+0 256 0 1
 0 279 -1 1
-0 297 -1 0
 0 280 0 1
+0 297 -1 0
 0 298 -1 0
 0 307 -1 0
-0 256 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b6 a3 a4 b14 gasoleo oca1
 0
 6
+0 256 0 1
 0 281 -1 1
-0 297 -1 0
 0 282 0 1
+0 297 -1 0
 0 298 -1 0
 0 308 -1 0
-0 256 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b6 a3 a4 b15 gasoleo oc1b
 0
 6
+0 256 0 1
 0 283 -1 1
-0 297 -1 0
 0 284 0 1
+0 297 -1 0
 0 298 -1 0
 0 309 -1 0
-0 256 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b6 a3 a4 b2 gasoleo lco
 0
 6
+0 256 0 1
 0 295 -1 1
-0 297 -1 0
 0 296 0 1
+0 297 -1 0
 0 298 -1 0
 0 316 -1 0
-0 256 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b6 a3 a4 b3 gasoleo oc1b
 0
 6
+0 256 0 1
 0 285 -1 1
-0 297 -1 0
 0 286 0 1
+0 297 -1 0
 0 298 -1 0
 0 310 -1 0
-0 256 0 1
 1
 end_operator
 begin_operator
@@ -15828,23 +15828,23 @@ pop-unitarypipe s34 b6 a3 a4 b4 gasoleo rat-a
 0
 6
 0 240 -1 1
-0 297 -1 0
 0 241 0 1
-0 298 -1 0
 0 242 -1 0
 0 256 0 1
+0 297 -1 0
+0 298 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b6 a3 a4 b5 gasoleo oc1b
 0
 6
+0 256 0 1
 0 287 -1 1
-0 297 -1 0
 0 288 0 1
+0 297 -1 0
 0 298 -1 0
 0 311 -1 0
-0 256 0 1
 1
 end_operator
 begin_operator
@@ -15852,20 +15852,20 @@ pop-unitarypipe s34 b6 a3 a4 b6 gasoleo gasoleo
 1
 298 0
 3
+0 256 0 1
 0 297 -1 0
 0 317 -1 0
-0 256 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b6 a3 a4 b7 gasoleo gasoleo
 0
 6
-0 297 -1 0
-0 299 -1 1
-0 298 -1 0
-0 300 0 1
 0 256 0 1
+0 297 -1 0
+0 298 -1 0
+0 299 -1 1
+0 300 0 1
 0 318 -1 0
 1
 end_operator
@@ -15873,11 +15873,11 @@ begin_operator
 pop-unitarypipe s34 b6 a3 a4 b8 gasoleo oc1b
 0
 6
-0 297 -1 0
-0 289 -1 1
-0 298 -1 0
-0 290 0 1
 0 256 0 1
+0 289 -1 1
+0 290 0 1
+0 297 -1 0
+0 298 -1 0
 0 312 -1 0
 1
 end_operator
@@ -15885,11 +15885,11 @@ begin_operator
 pop-unitarypipe s34 b6 a3 a4 b9 gasoleo lco
 0
 6
-0 297 -1 0
-0 301 -1 1
-0 298 -1 0
-0 302 0 1
 0 256 0 1
+0 297 -1 0
+0 298 -1 0
+0 301 -1 1
+0 302 0 1
 0 319 -1 0
 1
 end_operator
@@ -15897,120 +15897,120 @@ begin_operator
 pop-unitarypipe s34 b7 a3 a4 b0 gasoleo oc1b
 0
 6
+0 257 0 1
 0 275 -1 1
-0 299 -1 0
 0 276 0 1
+0 299 -1 0
 0 300 -1 0
 0 305 -1 0
-0 257 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b7 a3 a4 b1 gasoleo gasoleo
 0
 6
+0 257 0 1
 0 291 -1 1
-0 299 -1 0
 0 292 0 1
+0 299 -1 0
 0 300 -1 0
 0 314 -1 0
-0 257 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b7 a3 a4 b10 gasoleo oc1b
 0
 6
+0 257 0 1
 0 277 -1 1
-0 299 -1 0
 0 278 0 1
+0 299 -1 0
 0 300 -1 0
 0 306 -1 0
-0 257 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b7 a3 a4 b11 gasoleo oc1b
 0
 6
-0 303 -1 1
-0 299 -1 0
-0 304 0 1
-0 300 -1 0
-0 313 -1 0
 0 257 0 1
+0 299 -1 0
+0 300 -1 0
+0 303 -1 1
+0 304 0 1
+0 313 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b7 a3 a4 b12 gasoleo lco
 0
 6
+0 257 0 1
 0 293 -1 1
-0 299 -1 0
 0 294 0 1
+0 299 -1 0
 0 300 -1 0
 0 315 -1 0
-0 257 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b7 a3 a4 b13 gasoleo oc1b
 0
 6
+0 257 0 1
 0 279 -1 1
-0 299 -1 0
 0 280 0 1
+0 299 -1 0
 0 300 -1 0
 0 307 -1 0
-0 257 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b7 a3 a4 b14 gasoleo oca1
 0
 6
+0 257 0 1
 0 281 -1 1
-0 299 -1 0
 0 282 0 1
+0 299 -1 0
 0 300 -1 0
 0 308 -1 0
-0 257 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b7 a3 a4 b15 gasoleo oc1b
 0
 6
+0 257 0 1
 0 283 -1 1
-0 299 -1 0
 0 284 0 1
+0 299 -1 0
 0 300 -1 0
 0 309 -1 0
-0 257 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b7 a3 a4 b2 gasoleo lco
 0
 6
+0 257 0 1
 0 295 -1 1
-0 299 -1 0
 0 296 0 1
+0 299 -1 0
 0 300 -1 0
 0 316 -1 0
-0 257 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b7 a3 a4 b3 gasoleo oc1b
 0
 6
+0 257 0 1
 0 285 -1 1
-0 299 -1 0
 0 286 0 1
+0 299 -1 0
 0 300 -1 0
 0 310 -1 0
-0 257 0 1
 1
 end_operator
 begin_operator
@@ -16018,35 +16018,35 @@ pop-unitarypipe s34 b7 a3 a4 b4 gasoleo rat-a
 0
 6
 0 240 -1 1
-0 299 -1 0
 0 241 0 1
-0 300 -1 0
 0 242 -1 0
 0 257 0 1
+0 299 -1 0
+0 300 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b7 a3 a4 b5 gasoleo oc1b
 0
 6
+0 257 0 1
 0 287 -1 1
-0 299 -1 0
 0 288 0 1
+0 299 -1 0
 0 300 -1 0
 0 311 -1 0
-0 257 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b7 a3 a4 b6 gasoleo gasoleo
 0
 6
+0 257 0 1
 0 297 -1 1
-0 299 -1 0
 0 298 0 1
+0 299 -1 0
 0 300 -1 0
 0 317 -1 0
-0 257 0 1
 1
 end_operator
 begin_operator
@@ -16054,20 +16054,20 @@ pop-unitarypipe s34 b7 a3 a4 b7 gasoleo gasoleo
 1
 300 0
 3
+0 257 0 1
 0 299 -1 0
 0 318 -1 0
-0 257 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b7 a3 a4 b8 gasoleo oc1b
 0
 6
-0 299 -1 0
-0 289 -1 1
-0 300 -1 0
-0 290 0 1
 0 257 0 1
+0 289 -1 1
+0 290 0 1
+0 299 -1 0
+0 300 -1 0
 0 312 -1 0
 1
 end_operator
@@ -16075,11 +16075,11 @@ begin_operator
 pop-unitarypipe s34 b7 a3 a4 b9 gasoleo lco
 0
 6
-0 299 -1 0
-0 301 -1 1
-0 300 -1 0
-0 302 0 1
 0 257 0 1
+0 299 -1 0
+0 300 -1 0
+0 301 -1 1
+0 302 0 1
 0 319 -1 0
 1
 end_operator
@@ -16087,156 +16087,156 @@ begin_operator
 pop-unitarypipe s34 b8 a3 a4 b0 oc1b oc1b
 0
 6
+0 252 0 1
 0 275 -1 1
-0 289 -1 0
 0 276 0 1
+0 289 -1 0
 0 290 -1 0
 0 305 -1 0
-0 252 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b8 a3 a4 b1 oc1b gasoleo
 0
 6
-0 291 -1 1
-0 289 -1 0
-0 292 0 1
-0 290 -1 0
-0 314 -1 0
 0 252 0 1
+0 289 -1 0
+0 290 -1 0
+0 291 -1 1
+0 292 0 1
+0 314 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b8 a3 a4 b10 oc1b oc1b
 0
 6
+0 252 0 1
 0 277 -1 1
-0 289 -1 0
 0 278 0 1
+0 289 -1 0
 0 290 -1 0
 0 306 -1 0
-0 252 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b8 a3 a4 b11 oc1b oc1b
 0
 6
-0 303 -1 1
-0 289 -1 0
-0 304 0 1
-0 290 -1 0
-0 313 -1 0
 0 252 0 1
+0 289 -1 0
+0 290 -1 0
+0 303 -1 1
+0 304 0 1
+0 313 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b8 a3 a4 b12 oc1b lco
 0
 6
-0 293 -1 1
-0 289 -1 0
-0 294 0 1
-0 290 -1 0
-0 315 -1 0
 0 252 0 1
+0 289 -1 0
+0 290 -1 0
+0 293 -1 1
+0 294 0 1
+0 315 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b8 a3 a4 b13 oc1b oc1b
 0
 6
+0 252 0 1
 0 279 -1 1
-0 289 -1 0
 0 280 0 1
+0 289 -1 0
 0 290 -1 0
 0 307 -1 0
-0 252 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b8 a3 a4 b14 oc1b oca1
 0
 6
+0 252 0 1
 0 281 -1 1
-0 289 -1 0
 0 282 0 1
+0 289 -1 0
 0 290 -1 0
 0 308 -1 0
-0 252 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b8 a3 a4 b15 oc1b oc1b
 0
 6
+0 252 0 1
 0 283 -1 1
-0 289 -1 0
 0 284 0 1
+0 289 -1 0
 0 290 -1 0
 0 309 -1 0
-0 252 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b8 a3 a4 b2 oc1b lco
 0
 6
-0 295 -1 1
-0 289 -1 0
-0 296 0 1
-0 290 -1 0
-0 316 -1 0
 0 252 0 1
+0 289 -1 0
+0 290 -1 0
+0 295 -1 1
+0 296 0 1
+0 316 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b8 a3 a4 b3 oc1b oc1b
 0
 6
+0 252 0 1
 0 285 -1 1
-0 289 -1 0
 0 286 0 1
+0 289 -1 0
 0 290 -1 0
 0 310 -1 0
-0 252 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b8 a3 a4 b5 oc1b oc1b
 0
 6
+0 252 0 1
 0 287 -1 1
-0 289 -1 0
 0 288 0 1
+0 289 -1 0
 0 290 -1 0
 0 311 -1 0
-0 252 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b8 a3 a4 b6 oc1b gasoleo
 0
 6
-0 297 -1 1
-0 289 -1 0
-0 298 0 1
-0 290 -1 0
-0 317 -1 0
 0 252 0 1
+0 289 -1 0
+0 290 -1 0
+0 297 -1 1
+0 298 0 1
+0 317 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b8 a3 a4 b7 oc1b gasoleo
 0
 6
-0 299 -1 1
-0 289 -1 0
-0 300 0 1
-0 290 -1 0
-0 318 -1 0
 0 252 0 1
+0 289 -1 0
+0 290 -1 0
+0 299 -1 1
+0 300 0 1
+0 318 -1 0
 1
 end_operator
 begin_operator
@@ -16244,20 +16244,20 @@ pop-unitarypipe s34 b8 a3 a4 b8 oc1b oc1b
 1
 290 0
 3
+0 252 0 1
 0 289 -1 0
 0 312 -1 0
-0 252 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b8 a3 a4 b9 oc1b lco
 0
 6
-0 289 -1 0
-0 301 -1 1
-0 290 -1 0
-0 302 0 1
 0 252 0 1
+0 289 -1 0
+0 290 -1 0
+0 301 -1 1
+0 302 0 1
 0 319 -1 0
 1
 end_operator
@@ -16265,120 +16265,120 @@ begin_operator
 pop-unitarypipe s34 b9 a3 a4 b0 lco oc1b
 0
 6
+0 258 0 1
 0 275 -1 1
-0 301 -1 0
 0 276 0 1
+0 301 -1 0
 0 302 -1 0
 0 305 -1 0
-0 258 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b9 a3 a4 b1 lco gasoleo
 0
 6
+0 258 0 1
 0 291 -1 1
-0 301 -1 0
 0 292 0 1
+0 301 -1 0
 0 302 -1 0
 0 314 -1 0
-0 258 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b9 a3 a4 b10 lco oc1b
 0
 6
+0 258 0 1
 0 277 -1 1
-0 301 -1 0
 0 278 0 1
+0 301 -1 0
 0 302 -1 0
 0 306 -1 0
-0 258 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b9 a3 a4 b11 lco oc1b
 0
 6
-0 303 -1 1
-0 301 -1 0
-0 304 0 1
-0 302 -1 0
-0 313 -1 0
 0 258 0 1
+0 301 -1 0
+0 302 -1 0
+0 303 -1 1
+0 304 0 1
+0 313 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b9 a3 a4 b12 lco lco
 0
 6
+0 258 0 1
 0 293 -1 1
-0 301 -1 0
 0 294 0 1
+0 301 -1 0
 0 302 -1 0
 0 315 -1 0
-0 258 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b9 a3 a4 b13 lco oc1b
 0
 6
+0 258 0 1
 0 279 -1 1
-0 301 -1 0
 0 280 0 1
+0 301 -1 0
 0 302 -1 0
 0 307 -1 0
-0 258 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b9 a3 a4 b14 lco oca1
 0
 6
+0 258 0 1
 0 281 -1 1
-0 301 -1 0
 0 282 0 1
+0 301 -1 0
 0 302 -1 0
 0 308 -1 0
-0 258 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b9 a3 a4 b15 lco oc1b
 0
 6
+0 258 0 1
 0 283 -1 1
-0 301 -1 0
 0 284 0 1
+0 301 -1 0
 0 302 -1 0
 0 309 -1 0
-0 258 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b9 a3 a4 b2 lco lco
 0
 6
+0 258 0 1
 0 295 -1 1
-0 301 -1 0
 0 296 0 1
+0 301 -1 0
 0 302 -1 0
 0 316 -1 0
-0 258 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b9 a3 a4 b3 lco oc1b
 0
 6
+0 258 0 1
 0 285 -1 1
-0 301 -1 0
 0 286 0 1
+0 301 -1 0
 0 302 -1 0
 0 310 -1 0
-0 258 0 1
 1
 end_operator
 begin_operator
@@ -16386,59 +16386,59 @@ pop-unitarypipe s34 b9 a3 a4 b4 lco rat-a
 0
 6
 0 240 -1 1
-0 301 -1 0
 0 241 0 1
-0 302 -1 0
 0 242 -1 0
 0 258 0 1
+0 301 -1 0
+0 302 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b9 a3 a4 b5 lco oc1b
 0
 6
+0 258 0 1
 0 287 -1 1
-0 301 -1 0
 0 288 0 1
+0 301 -1 0
 0 302 -1 0
 0 311 -1 0
-0 258 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b9 a3 a4 b6 lco gasoleo
 0
 6
+0 258 0 1
 0 297 -1 1
-0 301 -1 0
 0 298 0 1
+0 301 -1 0
 0 302 -1 0
 0 317 -1 0
-0 258 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b9 a3 a4 b7 lco gasoleo
 0
 6
+0 258 0 1
 0 299 -1 1
-0 301 -1 0
 0 300 0 1
+0 301 -1 0
 0 302 -1 0
 0 318 -1 0
-0 258 0 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s34 b9 a3 a4 b8 lco oc1b
 0
 6
+0 258 0 1
 0 289 -1 1
-0 301 -1 0
 0 290 0 1
+0 301 -1 0
 0 302 -1 0
 0 312 -1 0
-0 258 0 1
 1
 end_operator
 begin_operator
@@ -16446,9 +16446,9 @@ pop-unitarypipe s34 b9 a3 a4 b9 lco lco
 1
 302 0
 3
+0 258 0 1
 0 301 -1 0
 0 319 -1 0
-0 258 0 1
 1
 end_operator
 begin_operator
@@ -16457,8 +16457,8 @@ push-end s12 a1 a2 b0 b0
 335 0
 3
 0 3 0 1
-0 390 2 0
 0 262 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -16466,10 +16466,10 @@ push-end s12 a1 a2 b0 b1
 0
 5
 0 2 0 1
+0 262 -1 0
 0 335 0 1
 0 343 -1 0
 0 390 2 0
-0 262 -1 0
 1
 end_operator
 begin_operator
@@ -16477,10 +16477,10 @@ push-end s12 a1 a2 b0 b10
 0
 5
 0 4 0 1
+0 262 -1 0
 0 335 0 1
 0 336 -1 0
 0 390 2 0
-0 262 -1 0
 1
 end_operator
 begin_operator
@@ -16488,10 +16488,10 @@ push-end s12 a1 a2 b0 b11
 0
 5
 0 5 0 1
+0 262 -1 0
 0 335 0 1
 0 337 -1 0
 0 390 2 0
-0 262 -1 0
 1
 end_operator
 begin_operator
@@ -16499,10 +16499,10 @@ push-end s12 a1 a2 b0 b12
 0
 5
 0 8 0 1
+0 262 -1 0
 0 335 0 1
 0 344 -1 0
 0 390 2 0
-0 262 -1 0
 1
 end_operator
 begin_operator
@@ -16510,10 +16510,10 @@ push-end s12 a1 a2 b0 b13
 0
 5
 0 18 0 1
+0 262 -1 0
 0 335 0 1
 0 338 -1 0
 0 390 2 0
-0 262 -1 0
 1
 end_operator
 begin_operator
@@ -16521,10 +16521,10 @@ push-end s12 a1 a2 b0 b14
 0
 5
 0 20 0 1
+0 262 -1 0
 0 335 0 1
 0 339 -1 0
 0 390 2 0
-0 262 -1 0
 1
 end_operator
 begin_operator
@@ -16532,10 +16532,10 @@ push-end s12 a1 a2 b0 b15
 0
 5
 0 49 0 1
+0 262 -1 0
 0 335 0 1
 0 340 -1 0
 0 390 2 0
-0 262 -1 0
 1
 end_operator
 begin_operator
@@ -16543,10 +16543,10 @@ push-end s12 a1 a2 b0 b2
 0
 5
 0 52 0 1
+0 262 -1 0
 0 335 0 1
 0 349 -1 0
 0 390 2 0
-0 262 -1 0
 1
 end_operator
 begin_operator
@@ -16554,10 +16554,10 @@ push-end s12 a1 a2 b0 b3
 0
 5
 0 81 0 1
+0 262 -1 0
 0 335 0 1
 0 348 -1 0
 0 390 2 0
-0 262 -1 0
 1
 end_operator
 begin_operator
@@ -16565,10 +16565,10 @@ push-end s12 a1 a2 b0 b5
 0
 5
 0 100 0 1
+0 262 -1 0
 0 335 0 1
 0 341 -1 0
 0 390 2 0
-0 262 -1 0
 1
 end_operator
 begin_operator
@@ -16576,10 +16576,10 @@ push-end s12 a1 a2 b0 b6
 0
 5
 0 121 0 1
+0 262 -1 0
 0 335 0 1
 0 345 -1 0
 0 390 2 0
-0 262 -1 0
 1
 end_operator
 begin_operator
@@ -16587,10 +16587,10 @@ push-end s12 a1 a2 b0 b7
 0
 5
 0 140 0 1
+0 262 -1 0
 0 335 0 1
 0 346 -1 0
 0 390 2 0
-0 262 -1 0
 1
 end_operator
 begin_operator
@@ -16598,10 +16598,10 @@ push-end s12 a1 a2 b0 b8
 0
 5
 0 166 0 1
+0 262 -1 0
 0 335 0 1
 0 342 -1 0
 0 390 2 0
-0 262 -1 0
 1
 end_operator
 begin_operator
@@ -16609,10 +16609,10 @@ push-end s12 a1 a2 b0 b9
 0
 5
 0 0 0 1
+0 262 -1 0
 0 335 0 1
 0 347 -1 0
 0 390 2 0
-0 262 -1 0
 1
 end_operator
 begin_operator
@@ -16620,10 +16620,10 @@ push-end s12 a1 a2 b1 b0
 0
 5
 0 7 0 1
+0 270 -1 0
 0 335 -1 0
 0 343 0 1
 0 390 2 0
-0 270 -1 0
 1
 end_operator
 begin_operator
@@ -16632,8 +16632,8 @@ push-end s12 a1 a2 b1 b1
 343 0
 3
 0 16 0 1
-0 390 2 0
 0 270 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -16641,10 +16641,10 @@ push-end s12 a1 a2 b1 b10
 0
 5
 0 11 0 1
-0 343 0 1
-0 336 -1 0
-0 390 2 0
 0 270 -1 0
+0 336 -1 0
+0 343 0 1
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -16652,10 +16652,10 @@ push-end s12 a1 a2 b1 b11
 0
 5
 0 6 0 1
-0 343 0 1
-0 337 -1 0
-0 390 2 0
 0 270 -1 0
+0 337 -1 0
+0 343 0 1
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -16663,10 +16663,10 @@ push-end s12 a1 a2 b1 b12
 0
 5
 0 9 0 1
+0 270 -1 0
 0 343 0 1
 0 344 -1 0
 0 390 2 0
-0 270 -1 0
 1
 end_operator
 begin_operator
@@ -16674,10 +16674,10 @@ push-end s12 a1 a2 b1 b13
 0
 5
 0 17 0 1
-0 343 0 1
-0 338 -1 0
-0 390 2 0
 0 270 -1 0
+0 338 -1 0
+0 343 0 1
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -16685,10 +16685,10 @@ push-end s12 a1 a2 b1 b14
 0
 5
 0 21 0 1
-0 343 0 1
-0 339 -1 0
-0 390 2 0
 0 270 -1 0
+0 339 -1 0
+0 343 0 1
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -16696,10 +16696,10 @@ push-end s12 a1 a2 b1 b15
 0
 5
 0 50 0 1
-0 343 0 1
-0 340 -1 0
-0 390 2 0
 0 270 -1 0
+0 340 -1 0
+0 343 0 1
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -16707,10 +16707,10 @@ push-end s12 a1 a2 b1 b2
 0
 5
 0 51 0 1
+0 270 -1 0
 0 343 0 1
 0 349 -1 0
 0 390 2 0
-0 270 -1 0
 1
 end_operator
 begin_operator
@@ -16718,10 +16718,10 @@ push-end s12 a1 a2 b1 b3
 0
 5
 0 82 0 1
+0 270 -1 0
 0 343 0 1
 0 348 -1 0
 0 390 2 0
-0 270 -1 0
 1
 end_operator
 begin_operator
@@ -16729,10 +16729,10 @@ push-end s12 a1 a2 b1 b4
 0
 5
 0 132 0 1
-0 343 0 1
 0 243 -1 0
-0 390 2 0
 0 270 -1 0
+0 343 0 1
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -16740,10 +16740,10 @@ push-end s12 a1 a2 b1 b5
 0
 5
 0 101 0 1
-0 343 0 1
-0 341 -1 0
-0 390 2 0
 0 270 -1 0
+0 341 -1 0
+0 343 0 1
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -16751,10 +16751,10 @@ push-end s12 a1 a2 b1 b6
 0
 5
 0 122 0 1
+0 270 -1 0
 0 343 0 1
 0 345 -1 0
 0 390 2 0
-0 270 -1 0
 1
 end_operator
 begin_operator
@@ -16762,10 +16762,10 @@ push-end s12 a1 a2 b1 b7
 0
 5
 0 141 0 1
+0 270 -1 0
 0 343 0 1
 0 346 -1 0
 0 390 2 0
-0 270 -1 0
 1
 end_operator
 begin_operator
@@ -16773,10 +16773,10 @@ push-end s12 a1 a2 b1 b8
 0
 5
 0 167 0 1
-0 343 0 1
-0 342 -1 0
-0 390 2 0
 0 270 -1 0
+0 342 -1 0
+0 343 0 1
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -16784,10 +16784,10 @@ push-end s12 a1 a2 b1 b9
 0
 5
 0 1 0 1
+0 270 -1 0
 0 343 0 1
 0 347 -1 0
 0 390 2 0
-0 270 -1 0
 1
 end_operator
 begin_operator
@@ -16795,10 +16795,10 @@ push-end s12 a1 a2 b10 b0
 0
 5
 0 12 0 1
+0 263 -1 0
 0 335 -1 0
 0 336 0 1
 0 390 2 0
-0 263 -1 0
 1
 end_operator
 begin_operator
@@ -16806,10 +16806,10 @@ push-end s12 a1 a2 b10 b1
 0
 5
 0 15 0 1
-0 343 -1 0
-0 336 0 1
-0 390 2 0
 0 263 -1 0
+0 336 0 1
+0 343 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -16818,8 +16818,8 @@ push-end s12 a1 a2 b10 b10
 336 0
 3
 0 26 0 1
-0 390 2 0
 0 263 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -16827,10 +16827,10 @@ push-end s12 a1 a2 b10 b11
 0
 5
 0 14 0 1
+0 263 -1 0
 0 336 0 1
 0 337 -1 0
 0 390 2 0
-0 263 -1 0
 1
 end_operator
 begin_operator
@@ -16838,10 +16838,10 @@ push-end s12 a1 a2 b10 b12
 0
 5
 0 10 0 1
+0 263 -1 0
 0 336 0 1
 0 344 -1 0
 0 390 2 0
-0 263 -1 0
 1
 end_operator
 begin_operator
@@ -16849,10 +16849,10 @@ push-end s12 a1 a2 b10 b13
 0
 5
 0 19 0 1
+0 263 -1 0
 0 336 0 1
 0 338 -1 0
 0 390 2 0
-0 263 -1 0
 1
 end_operator
 begin_operator
@@ -16860,10 +16860,10 @@ push-end s12 a1 a2 b10 b14
 0
 5
 0 22 0 1
+0 263 -1 0
 0 336 0 1
 0 339 -1 0
 0 390 2 0
-0 263 -1 0
 1
 end_operator
 begin_operator
@@ -16871,10 +16871,10 @@ push-end s12 a1 a2 b10 b15
 0
 5
 0 66 0 1
+0 263 -1 0
 0 336 0 1
 0 340 -1 0
 0 390 2 0
-0 263 -1 0
 1
 end_operator
 begin_operator
@@ -16882,10 +16882,10 @@ push-end s12 a1 a2 b10 b2
 0
 5
 0 53 0 1
+0 263 -1 0
 0 336 0 1
 0 349 -1 0
 0 390 2 0
-0 263 -1 0
 1
 end_operator
 begin_operator
@@ -16893,10 +16893,10 @@ push-end s12 a1 a2 b10 b3
 0
 5
 0 83 0 1
+0 263 -1 0
 0 336 0 1
 0 348 -1 0
 0 390 2 0
-0 263 -1 0
 1
 end_operator
 begin_operator
@@ -16904,10 +16904,10 @@ push-end s12 a1 a2 b10 b5
 0
 5
 0 102 0 1
+0 263 -1 0
 0 336 0 1
 0 341 -1 0
 0 390 2 0
-0 263 -1 0
 1
 end_operator
 begin_operator
@@ -16915,10 +16915,10 @@ push-end s12 a1 a2 b10 b6
 0
 5
 0 123 0 1
+0 263 -1 0
 0 336 0 1
 0 345 -1 0
 0 390 2 0
-0 263 -1 0
 1
 end_operator
 begin_operator
@@ -16926,10 +16926,10 @@ push-end s12 a1 a2 b10 b7
 0
 5
 0 142 0 1
+0 263 -1 0
 0 336 0 1
 0 346 -1 0
 0 390 2 0
-0 263 -1 0
 1
 end_operator
 begin_operator
@@ -16937,10 +16937,10 @@ push-end s12 a1 a2 b10 b8
 0
 5
 0 168 0 1
+0 263 -1 0
 0 336 0 1
 0 342 -1 0
 0 390 2 0
-0 263 -1 0
 1
 end_operator
 begin_operator
@@ -16948,10 +16948,10 @@ push-end s12 a1 a2 b10 b9
 0
 5
 0 193 0 1
+0 263 -1 0
 0 336 0 1
 0 347 -1 0
 0 390 2 0
-0 263 -1 0
 1
 end_operator
 begin_operator
@@ -16959,10 +16959,10 @@ push-end s12 a1 a2 b11 b0
 0
 5
 0 13 0 1
+0 264 -1 0
 0 335 -1 0
 0 337 0 1
 0 390 2 0
-0 264 -1 0
 1
 end_operator
 begin_operator
@@ -16970,10 +16970,10 @@ push-end s12 a1 a2 b11 b1
 0
 5
 0 24 0 1
-0 343 -1 0
-0 337 0 1
-0 390 2 0
 0 264 -1 0
+0 337 0 1
+0 343 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -16981,10 +16981,10 @@ push-end s12 a1 a2 b11 b10
 0
 5
 0 25 0 1
+0 264 -1 0
 0 336 -1 0
 0 337 0 1
 0 390 2 0
-0 264 -1 0
 1
 end_operator
 begin_operator
@@ -16993,8 +16993,8 @@ push-end s12 a1 a2 b11 b11
 337 0
 3
 0 31 0 1
-0 390 2 0
 0 264 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -17002,10 +17002,10 @@ push-end s12 a1 a2 b11 b12
 0
 5
 0 37 0 1
+0 264 -1 0
 0 337 0 1
 0 344 -1 0
 0 390 2 0
-0 264 -1 0
 1
 end_operator
 begin_operator
@@ -17013,10 +17013,10 @@ push-end s12 a1 a2 b11 b13
 0
 5
 0 45 0 1
+0 264 -1 0
 0 337 0 1
 0 338 -1 0
 0 390 2 0
-0 264 -1 0
 1
 end_operator
 begin_operator
@@ -17024,10 +17024,10 @@ push-end s12 a1 a2 b11 b14
 0
 5
 0 23 0 1
+0 264 -1 0
 0 337 0 1
 0 339 -1 0
 0 390 2 0
-0 264 -1 0
 1
 end_operator
 begin_operator
@@ -17035,10 +17035,10 @@ push-end s12 a1 a2 b11 b15
 0
 5
 0 67 0 1
+0 264 -1 0
 0 337 0 1
 0 340 -1 0
 0 390 2 0
-0 264 -1 0
 1
 end_operator
 begin_operator
@@ -17046,10 +17046,10 @@ push-end s12 a1 a2 b11 b2
 0
 5
 0 54 0 1
+0 264 -1 0
 0 337 0 1
 0 349 -1 0
 0 390 2 0
-0 264 -1 0
 1
 end_operator
 begin_operator
@@ -17057,10 +17057,10 @@ push-end s12 a1 a2 b11 b3
 0
 5
 0 84 0 1
+0 264 -1 0
 0 337 0 1
 0 348 -1 0
 0 390 2 0
-0 264 -1 0
 1
 end_operator
 begin_operator
@@ -17068,10 +17068,10 @@ push-end s12 a1 a2 b11 b5
 0
 5
 0 103 0 1
+0 264 -1 0
 0 337 0 1
 0 341 -1 0
 0 390 2 0
-0 264 -1 0
 1
 end_operator
 begin_operator
@@ -17079,10 +17079,10 @@ push-end s12 a1 a2 b11 b6
 0
 5
 0 124 0 1
+0 264 -1 0
 0 337 0 1
 0 345 -1 0
 0 390 2 0
-0 264 -1 0
 1
 end_operator
 begin_operator
@@ -17090,10 +17090,10 @@ push-end s12 a1 a2 b11 b7
 0
 5
 0 143 0 1
+0 264 -1 0
 0 337 0 1
 0 346 -1 0
 0 390 2 0
-0 264 -1 0
 1
 end_operator
 begin_operator
@@ -17101,10 +17101,10 @@ push-end s12 a1 a2 b11 b8
 0
 5
 0 169 0 1
+0 264 -1 0
 0 337 0 1
 0 342 -1 0
 0 390 2 0
-0 264 -1 0
 1
 end_operator
 begin_operator
@@ -17112,10 +17112,10 @@ push-end s12 a1 a2 b11 b9
 0
 5
 0 194 0 1
+0 264 -1 0
 0 337 0 1
 0 347 -1 0
 0 390 2 0
-0 264 -1 0
 1
 end_operator
 begin_operator
@@ -17123,10 +17123,10 @@ push-end s12 a1 a2 b12 b0
 0
 5
 0 28 0 1
+0 271 -1 0
 0 335 -1 0
 0 344 0 1
 0 390 2 0
-0 271 -1 0
 1
 end_operator
 begin_operator
@@ -17134,10 +17134,10 @@ push-end s12 a1 a2 b12 b1
 0
 5
 0 29 0 1
+0 271 -1 0
 0 343 -1 0
 0 344 0 1
 0 390 2 0
-0 271 -1 0
 1
 end_operator
 begin_operator
@@ -17145,10 +17145,10 @@ push-end s12 a1 a2 b12 b10
 0
 5
 0 27 0 1
+0 271 -1 0
 0 336 -1 0
 0 344 0 1
 0 390 2 0
-0 271 -1 0
 1
 end_operator
 begin_operator
@@ -17156,10 +17156,10 @@ push-end s12 a1 a2 b12 b11
 0
 5
 0 30 0 1
+0 271 -1 0
 0 337 -1 0
 0 344 0 1
 0 390 2 0
-0 271 -1 0
 1
 end_operator
 begin_operator
@@ -17168,8 +17168,8 @@ push-end s12 a1 a2 b12 b12
 344 0
 3
 0 38 0 1
-0 390 2 0
 0 271 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -17177,10 +17177,10 @@ push-end s12 a1 a2 b12 b13
 0
 5
 0 46 0 1
-0 344 0 1
-0 338 -1 0
-0 390 2 0
 0 271 -1 0
+0 338 -1 0
+0 344 0 1
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -17188,10 +17188,10 @@ push-end s12 a1 a2 b12 b14
 0
 5
 0 237 0 1
-0 344 0 1
-0 339 -1 0
-0 390 2 0
 0 271 -1 0
+0 339 -1 0
+0 344 0 1
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -17199,10 +17199,10 @@ push-end s12 a1 a2 b12 b15
 0
 5
 0 68 0 1
-0 344 0 1
-0 340 -1 0
-0 390 2 0
 0 271 -1 0
+0 340 -1 0
+0 344 0 1
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -17210,10 +17210,10 @@ push-end s12 a1 a2 b12 b2
 0
 5
 0 55 0 1
+0 271 -1 0
 0 344 0 1
 0 349 -1 0
 0 390 2 0
-0 271 -1 0
 1
 end_operator
 begin_operator
@@ -17221,10 +17221,10 @@ push-end s12 a1 a2 b12 b3
 0
 5
 0 85 0 1
+0 271 -1 0
 0 344 0 1
 0 348 -1 0
 0 390 2 0
-0 271 -1 0
 1
 end_operator
 begin_operator
@@ -17232,10 +17232,10 @@ push-end s12 a1 a2 b12 b4
 0
 5
 0 133 0 1
-0 344 0 1
 0 243 -1 0
-0 390 2 0
 0 271 -1 0
+0 344 0 1
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -17243,10 +17243,10 @@ push-end s12 a1 a2 b12 b5
 0
 5
 0 104 0 1
-0 344 0 1
-0 341 -1 0
-0 390 2 0
 0 271 -1 0
+0 341 -1 0
+0 344 0 1
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -17254,10 +17254,10 @@ push-end s12 a1 a2 b12 b6
 0
 5
 0 125 0 1
+0 271 -1 0
 0 344 0 1
 0 345 -1 0
 0 390 2 0
-0 271 -1 0
 1
 end_operator
 begin_operator
@@ -17265,10 +17265,10 @@ push-end s12 a1 a2 b12 b7
 0
 5
 0 144 0 1
+0 271 -1 0
 0 344 0 1
 0 346 -1 0
 0 390 2 0
-0 271 -1 0
 1
 end_operator
 begin_operator
@@ -17276,10 +17276,10 @@ push-end s12 a1 a2 b12 b8
 0
 5
 0 170 0 1
-0 344 0 1
-0 342 -1 0
-0 390 2 0
 0 271 -1 0
+0 342 -1 0
+0 344 0 1
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -17287,10 +17287,10 @@ push-end s12 a1 a2 b12 b9
 0
 5
 0 195 0 1
+0 271 -1 0
 0 344 0 1
 0 347 -1 0
 0 390 2 0
-0 271 -1 0
 1
 end_operator
 begin_operator
@@ -17298,10 +17298,10 @@ push-end s12 a1 a2 b13 b0
 0
 5
 0 33 0 1
+0 269 -1 0
 0 335 -1 0
 0 338 0 1
 0 390 2 0
-0 269 -1 0
 1
 end_operator
 begin_operator
@@ -17309,10 +17309,10 @@ push-end s12 a1 a2 b13 b1
 0
 5
 0 34 0 1
-0 343 -1 0
-0 338 0 1
-0 390 2 0
 0 269 -1 0
+0 338 0 1
+0 343 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -17320,10 +17320,10 @@ push-end s12 a1 a2 b13 b10
 0
 5
 0 35 0 1
+0 269 -1 0
 0 336 -1 0
 0 338 0 1
 0 390 2 0
-0 269 -1 0
 1
 end_operator
 begin_operator
@@ -17331,10 +17331,10 @@ push-end s12 a1 a2 b13 b11
 0
 5
 0 32 0 1
+0 269 -1 0
 0 337 -1 0
 0 338 0 1
 0 390 2 0
-0 269 -1 0
 1
 end_operator
 begin_operator
@@ -17342,10 +17342,10 @@ push-end s12 a1 a2 b13 b12
 0
 5
 0 36 0 1
-0 344 -1 0
-0 338 0 1
-0 390 2 0
 0 269 -1 0
+0 338 0 1
+0 344 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -17354,8 +17354,8 @@ push-end s12 a1 a2 b13 b13
 338 0
 3
 0 47 0 1
-0 390 2 0
 0 269 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -17363,10 +17363,10 @@ push-end s12 a1 a2 b13 b14
 0
 5
 0 236 0 1
+0 269 -1 0
 0 338 0 1
 0 339 -1 0
 0 390 2 0
-0 269 -1 0
 1
 end_operator
 begin_operator
@@ -17374,10 +17374,10 @@ push-end s12 a1 a2 b13 b15
 0
 5
 0 69 0 1
+0 269 -1 0
 0 338 0 1
 0 340 -1 0
 0 390 2 0
-0 269 -1 0
 1
 end_operator
 begin_operator
@@ -17385,10 +17385,10 @@ push-end s12 a1 a2 b13 b2
 0
 5
 0 56 0 1
+0 269 -1 0
 0 338 0 1
 0 349 -1 0
 0 390 2 0
-0 269 -1 0
 1
 end_operator
 begin_operator
@@ -17396,10 +17396,10 @@ push-end s12 a1 a2 b13 b3
 0
 5
 0 86 0 1
+0 269 -1 0
 0 338 0 1
 0 348 -1 0
 0 390 2 0
-0 269 -1 0
 1
 end_operator
 begin_operator
@@ -17407,10 +17407,10 @@ push-end s12 a1 a2 b13 b5
 0
 5
 0 105 0 1
+0 269 -1 0
 0 338 0 1
 0 341 -1 0
 0 390 2 0
-0 269 -1 0
 1
 end_operator
 begin_operator
@@ -17418,10 +17418,10 @@ push-end s12 a1 a2 b13 b6
 0
 5
 0 126 0 1
+0 269 -1 0
 0 338 0 1
 0 345 -1 0
 0 390 2 0
-0 269 -1 0
 1
 end_operator
 begin_operator
@@ -17429,10 +17429,10 @@ push-end s12 a1 a2 b13 b7
 0
 5
 0 145 0 1
+0 269 -1 0
 0 338 0 1
 0 346 -1 0
 0 390 2 0
-0 269 -1 0
 1
 end_operator
 begin_operator
@@ -17440,10 +17440,10 @@ push-end s12 a1 a2 b13 b8
 0
 5
 0 171 0 1
+0 269 -1 0
 0 338 0 1
 0 342 -1 0
 0 390 2 0
-0 269 -1 0
 1
 end_operator
 begin_operator
@@ -17451,10 +17451,10 @@ push-end s12 a1 a2 b13 b9
 0
 5
 0 196 0 1
+0 269 -1 0
 0 338 0 1
 0 347 -1 0
 0 390 2 0
-0 269 -1 0
 1
 end_operator
 begin_operator
@@ -17462,10 +17462,10 @@ push-end s12 a1 a2 b14 b0
 0
 5
 0 40 0 1
+0 268 -1 0
 0 335 -1 0
 0 339 0 1
 0 390 2 0
-0 268 -1 0
 1
 end_operator
 begin_operator
@@ -17473,10 +17473,10 @@ push-end s12 a1 a2 b14 b1
 0
 5
 0 41 0 1
-0 343 -1 0
-0 339 0 1
-0 390 2 0
 0 268 -1 0
+0 339 0 1
+0 343 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -17484,10 +17484,10 @@ push-end s12 a1 a2 b14 b10
 0
 5
 0 42 0 1
+0 268 -1 0
 0 336 -1 0
 0 339 0 1
 0 390 2 0
-0 268 -1 0
 1
 end_operator
 begin_operator
@@ -17495,10 +17495,10 @@ push-end s12 a1 a2 b14 b11
 0
 5
 0 43 0 1
+0 268 -1 0
 0 337 -1 0
 0 339 0 1
 0 390 2 0
-0 268 -1 0
 1
 end_operator
 begin_operator
@@ -17506,10 +17506,10 @@ push-end s12 a1 a2 b14 b12
 0
 5
 0 39 0 1
-0 344 -1 0
-0 339 0 1
-0 390 2 0
 0 268 -1 0
+0 339 0 1
+0 344 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -17517,10 +17517,10 @@ push-end s12 a1 a2 b14 b13
 0
 5
 0 44 0 1
+0 268 -1 0
 0 338 -1 0
 0 339 0 1
 0 390 2 0
-0 268 -1 0
 1
 end_operator
 begin_operator
@@ -17529,8 +17529,8 @@ push-end s12 a1 a2 b14 b14
 339 0
 3
 0 235 0 1
-0 390 2 0
 0 268 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -17538,10 +17538,10 @@ push-end s12 a1 a2 b14 b15
 0
 5
 0 70 0 1
+0 268 -1 0
 0 339 0 1
 0 340 -1 0
 0 390 2 0
-0 268 -1 0
 1
 end_operator
 begin_operator
@@ -17549,10 +17549,10 @@ push-end s12 a1 a2 b14 b2
 0
 5
 0 57 0 1
+0 268 -1 0
 0 339 0 1
 0 349 -1 0
 0 390 2 0
-0 268 -1 0
 1
 end_operator
 begin_operator
@@ -17560,10 +17560,10 @@ push-end s12 a1 a2 b14 b3
 0
 5
 0 87 0 1
+0 268 -1 0
 0 339 0 1
 0 348 -1 0
 0 390 2 0
-0 268 -1 0
 1
 end_operator
 begin_operator
@@ -17571,10 +17571,10 @@ push-end s12 a1 a2 b14 b5
 0
 5
 0 106 0 1
+0 268 -1 0
 0 339 0 1
 0 341 -1 0
 0 390 2 0
-0 268 -1 0
 1
 end_operator
 begin_operator
@@ -17582,10 +17582,10 @@ push-end s12 a1 a2 b14 b6
 0
 5
 0 127 0 1
+0 268 -1 0
 0 339 0 1
 0 345 -1 0
 0 390 2 0
-0 268 -1 0
 1
 end_operator
 begin_operator
@@ -17593,10 +17593,10 @@ push-end s12 a1 a2 b14 b7
 0
 5
 0 146 0 1
+0 268 -1 0
 0 339 0 1
 0 346 -1 0
 0 390 2 0
-0 268 -1 0
 1
 end_operator
 begin_operator
@@ -17604,10 +17604,10 @@ push-end s12 a1 a2 b14 b8
 0
 5
 0 172 0 1
+0 268 -1 0
 0 339 0 1
 0 342 -1 0
 0 390 2 0
-0 268 -1 0
 1
 end_operator
 begin_operator
@@ -17615,10 +17615,10 @@ push-end s12 a1 a2 b14 b9
 0
 5
 0 197 0 1
+0 268 -1 0
 0 339 0 1
 0 347 -1 0
 0 390 2 0
-0 268 -1 0
 1
 end_operator
 begin_operator
@@ -17626,10 +17626,10 @@ push-end s12 a1 a2 b15 b0
 0
 5
 0 59 0 1
+0 265 -1 0
 0 335 -1 0
 0 340 0 1
 0 390 2 0
-0 265 -1 0
 1
 end_operator
 begin_operator
@@ -17637,10 +17637,10 @@ push-end s12 a1 a2 b15 b1
 0
 5
 0 60 0 1
-0 343 -1 0
-0 340 0 1
-0 390 2 0
 0 265 -1 0
+0 340 0 1
+0 343 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -17648,10 +17648,10 @@ push-end s12 a1 a2 b15 b10
 0
 5
 0 61 0 1
+0 265 -1 0
 0 336 -1 0
 0 340 0 1
 0 390 2 0
-0 265 -1 0
 1
 end_operator
 begin_operator
@@ -17659,10 +17659,10 @@ push-end s12 a1 a2 b15 b11
 0
 5
 0 62 0 1
+0 265 -1 0
 0 337 -1 0
 0 340 0 1
 0 390 2 0
-0 265 -1 0
 1
 end_operator
 begin_operator
@@ -17670,10 +17670,10 @@ push-end s12 a1 a2 b15 b12
 0
 5
 0 63 0 1
-0 344 -1 0
-0 340 0 1
-0 390 2 0
 0 265 -1 0
+0 340 0 1
+0 344 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -17681,10 +17681,10 @@ push-end s12 a1 a2 b15 b13
 0
 5
 0 48 0 1
+0 265 -1 0
 0 338 -1 0
 0 340 0 1
 0 390 2 0
-0 265 -1 0
 1
 end_operator
 begin_operator
@@ -17692,10 +17692,10 @@ push-end s12 a1 a2 b15 b14
 0
 5
 0 64 0 1
+0 265 -1 0
 0 339 -1 0
 0 340 0 1
 0 390 2 0
-0 265 -1 0
 1
 end_operator
 begin_operator
@@ -17704,8 +17704,8 @@ push-end s12 a1 a2 b15 b15
 340 0
 3
 0 65 0 1
-0 390 2 0
 0 265 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -17713,10 +17713,10 @@ push-end s12 a1 a2 b15 b2
 0
 5
 0 58 0 1
+0 265 -1 0
 0 340 0 1
 0 349 -1 0
 0 390 2 0
-0 265 -1 0
 1
 end_operator
 begin_operator
@@ -17724,10 +17724,10 @@ push-end s12 a1 a2 b15 b3
 0
 5
 0 88 0 1
+0 265 -1 0
 0 340 0 1
 0 348 -1 0
 0 390 2 0
-0 265 -1 0
 1
 end_operator
 begin_operator
@@ -17735,10 +17735,10 @@ push-end s12 a1 a2 b15 b5
 0
 5
 0 107 0 1
+0 265 -1 0
 0 340 0 1
 0 341 -1 0
 0 390 2 0
-0 265 -1 0
 1
 end_operator
 begin_operator
@@ -17746,10 +17746,10 @@ push-end s12 a1 a2 b15 b6
 0
 5
 0 128 0 1
+0 265 -1 0
 0 340 0 1
 0 345 -1 0
 0 390 2 0
-0 265 -1 0
 1
 end_operator
 begin_operator
@@ -17757,10 +17757,10 @@ push-end s12 a1 a2 b15 b7
 0
 5
 0 147 0 1
+0 265 -1 0
 0 340 0 1
 0 346 -1 0
 0 390 2 0
-0 265 -1 0
 1
 end_operator
 begin_operator
@@ -17768,10 +17768,10 @@ push-end s12 a1 a2 b15 b8
 0
 5
 0 173 0 1
+0 265 -1 0
 0 340 0 1
 0 342 -1 0
 0 390 2 0
-0 265 -1 0
 1
 end_operator
 begin_operator
@@ -17779,10 +17779,10 @@ push-end s12 a1 a2 b15 b9
 0
 5
 0 198 0 1
+0 265 -1 0
 0 340 0 1
 0 347 -1 0
 0 390 2 0
-0 265 -1 0
 1
 end_operator
 begin_operator
@@ -17888,8 +17888,8 @@ push-end s12 a1 a2 b2 b3
 0
 5
 0 80 0 1
-0 349 0 1
 0 348 -1 0
+0 349 0 1
 0 390 2 0
 0 397 -1 0
 1
@@ -17899,8 +17899,8 @@ push-end s12 a1 a2 b2 b4
 0
 5
 0 134 0 1
-0 349 0 1
 0 243 -1 0
+0 349 0 1
 0 390 2 0
 0 397 -1 0
 1
@@ -17910,8 +17910,8 @@ push-end s12 a1 a2 b2 b5
 0
 5
 0 108 0 1
-0 349 0 1
 0 341 -1 0
+0 349 0 1
 0 390 2 0
 0 397 -1 0
 1
@@ -17921,8 +17921,8 @@ push-end s12 a1 a2 b2 b6
 0
 5
 0 129 0 1
-0 349 0 1
 0 345 -1 0
+0 349 0 1
 0 390 2 0
 0 397 -1 0
 1
@@ -17932,8 +17932,8 @@ push-end s12 a1 a2 b2 b7
 0
 5
 0 148 0 1
-0 349 0 1
 0 346 -1 0
+0 349 0 1
 0 390 2 0
 0 397 -1 0
 1
@@ -17943,8 +17943,8 @@ push-end s12 a1 a2 b2 b8
 0
 5
 0 174 0 1
-0 349 0 1
 0 342 -1 0
+0 349 0 1
 0 390 2 0
 0 397 -1 0
 1
@@ -17954,8 +17954,8 @@ push-end s12 a1 a2 b2 b9
 0
 5
 0 199 0 1
-0 349 0 1
 0 347 -1 0
+0 349 0 1
 0 390 2 0
 0 397 -1 0
 1
@@ -18053,8 +18053,8 @@ push-end s12 a1 a2 b3 b2
 0
 5
 0 98 0 1
-0 349 -1 0
 0 348 0 1
+0 349 -1 0
 0 390 2 0
 0 396 -1 0
 1
@@ -18074,8 +18074,8 @@ push-end s12 a1 a2 b3 b5
 0
 5
 0 99 0 1
-0 348 0 1
 0 341 -1 0
+0 348 0 1
 0 390 2 0
 0 396 -1 0
 1
@@ -18085,8 +18085,8 @@ push-end s12 a1 a2 b3 b6
 0
 5
 0 130 0 1
-0 348 0 1
 0 345 -1 0
+0 348 0 1
 0 390 2 0
 0 396 -1 0
 1
@@ -18096,8 +18096,8 @@ push-end s12 a1 a2 b3 b7
 0
 5
 0 149 0 1
-0 348 0 1
 0 346 -1 0
+0 348 0 1
 0 390 2 0
 0 396 -1 0
 1
@@ -18107,8 +18107,8 @@ push-end s12 a1 a2 b3 b8
 0
 5
 0 175 0 1
-0 348 0 1
 0 342 -1 0
+0 348 0 1
 0 390 2 0
 0 396 -1 0
 1
@@ -18118,8 +18118,8 @@ push-end s12 a1 a2 b3 b9
 0
 5
 0 200 0 1
-0 348 0 1
 0 347 -1 0
+0 348 0 1
 0 390 2 0
 0 396 -1 0
 1
@@ -18129,10 +18129,10 @@ push-end s12 a1 a2 b4 b1
 0
 5
 0 136 0 1
-0 343 -1 0
-0 243 0 1
-0 390 2 0
 0 239 -1 0
+0 243 0 1
+0 343 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -18140,10 +18140,10 @@ push-end s12 a1 a2 b4 b12
 0
 5
 0 137 0 1
-0 344 -1 0
-0 243 0 1
-0 390 2 0
 0 239 -1 0
+0 243 0 1
+0 344 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -18151,10 +18151,10 @@ push-end s12 a1 a2 b4 b2
 0
 5
 0 138 0 1
-0 349 -1 0
-0 243 0 1
-0 390 2 0
 0 239 -1 0
+0 243 0 1
+0 349 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -18163,8 +18163,8 @@ push-end s12 a1 a2 b4 b4
 243 0
 3
 0 135 0 1
-0 390 2 0
 0 239 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -18172,10 +18172,10 @@ push-end s12 a1 a2 b4 b6
 0
 5
 0 131 0 1
+0 239 -1 0
 0 243 0 1
 0 345 -1 0
 0 390 2 0
-0 239 -1 0
 1
 end_operator
 begin_operator
@@ -18183,10 +18183,10 @@ push-end s12 a1 a2 b4 b7
 0
 5
 0 139 0 1
+0 239 -1 0
 0 243 0 1
 0 346 -1 0
 0 390 2 0
-0 239 -1 0
 1
 end_operator
 begin_operator
@@ -18194,10 +18194,10 @@ push-end s12 a1 a2 b4 b9
 0
 5
 0 201 0 1
+0 239 -1 0
 0 243 0 1
 0 347 -1 0
 0 390 2 0
-0 239 -1 0
 1
 end_operator
 begin_operator
@@ -18205,10 +18205,10 @@ push-end s12 a1 a2 b5 b0
 0
 5
 0 110 0 1
+0 266 -1 0
 0 335 -1 0
 0 341 0 1
 0 390 2 0
-0 266 -1 0
 1
 end_operator
 begin_operator
@@ -18216,10 +18216,10 @@ push-end s12 a1 a2 b5 b1
 0
 5
 0 111 0 1
-0 343 -1 0
-0 341 0 1
-0 390 2 0
 0 266 -1 0
+0 341 0 1
+0 343 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -18227,10 +18227,10 @@ push-end s12 a1 a2 b5 b10
 0
 5
 0 112 0 1
+0 266 -1 0
 0 336 -1 0
 0 341 0 1
 0 390 2 0
-0 266 -1 0
 1
 end_operator
 begin_operator
@@ -18238,10 +18238,10 @@ push-end s12 a1 a2 b5 b11
 0
 5
 0 113 0 1
+0 266 -1 0
 0 337 -1 0
 0 341 0 1
 0 390 2 0
-0 266 -1 0
 1
 end_operator
 begin_operator
@@ -18249,10 +18249,10 @@ push-end s12 a1 a2 b5 b12
 0
 5
 0 114 0 1
-0 344 -1 0
-0 341 0 1
-0 390 2 0
 0 266 -1 0
+0 341 0 1
+0 344 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -18260,10 +18260,10 @@ push-end s12 a1 a2 b5 b13
 0
 5
 0 115 0 1
+0 266 -1 0
 0 338 -1 0
 0 341 0 1
 0 390 2 0
-0 266 -1 0
 1
 end_operator
 begin_operator
@@ -18271,10 +18271,10 @@ push-end s12 a1 a2 b5 b14
 0
 5
 0 116 0 1
+0 266 -1 0
 0 339 -1 0
 0 341 0 1
 0 390 2 0
-0 266 -1 0
 1
 end_operator
 begin_operator
@@ -18282,10 +18282,10 @@ push-end s12 a1 a2 b5 b15
 0
 5
 0 117 0 1
+0 266 -1 0
 0 340 -1 0
 0 341 0 1
 0 390 2 0
-0 266 -1 0
 1
 end_operator
 begin_operator
@@ -18293,10 +18293,10 @@ push-end s12 a1 a2 b5 b2
 0
 5
 0 118 0 1
-0 349 -1 0
-0 341 0 1
-0 390 2 0
 0 266 -1 0
+0 341 0 1
+0 349 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -18304,10 +18304,10 @@ push-end s12 a1 a2 b5 b3
 0
 5
 0 119 0 1
-0 348 -1 0
-0 341 0 1
-0 390 2 0
 0 266 -1 0
+0 341 0 1
+0 348 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -18316,8 +18316,8 @@ push-end s12 a1 a2 b5 b5
 341 0
 3
 0 109 0 1
-0 390 2 0
 0 266 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -18325,10 +18325,10 @@ push-end s12 a1 a2 b5 b6
 0
 5
 0 120 0 1
+0 266 -1 0
 0 341 0 1
 0 345 -1 0
 0 390 2 0
-0 266 -1 0
 1
 end_operator
 begin_operator
@@ -18336,10 +18336,10 @@ push-end s12 a1 a2 b5 b7
 0
 5
 0 150 0 1
+0 266 -1 0
 0 341 0 1
 0 346 -1 0
 0 390 2 0
-0 266 -1 0
 1
 end_operator
 begin_operator
@@ -18347,10 +18347,10 @@ push-end s12 a1 a2 b5 b8
 0
 5
 0 176 0 1
+0 266 -1 0
 0 341 0 1
 0 342 -1 0
 0 390 2 0
-0 266 -1 0
 1
 end_operator
 begin_operator
@@ -18358,10 +18358,10 @@ push-end s12 a1 a2 b5 b9
 0
 5
 0 202 0 1
+0 266 -1 0
 0 341 0 1
 0 347 -1 0
 0 390 2 0
-0 266 -1 0
 1
 end_operator
 begin_operator
@@ -18369,10 +18369,10 @@ push-end s12 a1 a2 b6 b0
 0
 5
 0 152 0 1
+0 272 -1 0
 0 335 -1 0
 0 345 0 1
 0 390 2 0
-0 272 -1 0
 1
 end_operator
 begin_operator
@@ -18380,10 +18380,10 @@ push-end s12 a1 a2 b6 b1
 0
 5
 0 153 0 1
+0 272 -1 0
 0 343 -1 0
 0 345 0 1
 0 390 2 0
-0 272 -1 0
 1
 end_operator
 begin_operator
@@ -18391,10 +18391,10 @@ push-end s12 a1 a2 b6 b10
 0
 5
 0 154 0 1
+0 272 -1 0
 0 336 -1 0
 0 345 0 1
 0 390 2 0
-0 272 -1 0
 1
 end_operator
 begin_operator
@@ -18402,10 +18402,10 @@ push-end s12 a1 a2 b6 b11
 0
 5
 0 155 0 1
+0 272 -1 0
 0 337 -1 0
 0 345 0 1
 0 390 2 0
-0 272 -1 0
 1
 end_operator
 begin_operator
@@ -18413,10 +18413,10 @@ push-end s12 a1 a2 b6 b12
 0
 5
 0 156 0 1
+0 272 -1 0
 0 344 -1 0
 0 345 0 1
 0 390 2 0
-0 272 -1 0
 1
 end_operator
 begin_operator
@@ -18424,10 +18424,10 @@ push-end s12 a1 a2 b6 b13
 0
 5
 0 157 0 1
+0 272 -1 0
 0 338 -1 0
 0 345 0 1
 0 390 2 0
-0 272 -1 0
 1
 end_operator
 begin_operator
@@ -18435,10 +18435,10 @@ push-end s12 a1 a2 b6 b14
 0
 5
 0 158 0 1
+0 272 -1 0
 0 339 -1 0
 0 345 0 1
 0 390 2 0
-0 272 -1 0
 1
 end_operator
 begin_operator
@@ -18446,10 +18446,10 @@ push-end s12 a1 a2 b6 b15
 0
 5
 0 159 0 1
+0 272 -1 0
 0 340 -1 0
 0 345 0 1
 0 390 2 0
-0 272 -1 0
 1
 end_operator
 begin_operator
@@ -18457,10 +18457,10 @@ push-end s12 a1 a2 b6 b2
 0
 5
 0 160 0 1
-0 349 -1 0
-0 345 0 1
-0 390 2 0
 0 272 -1 0
+0 345 0 1
+0 349 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -18468,10 +18468,10 @@ push-end s12 a1 a2 b6 b3
 0
 5
 0 161 0 1
-0 348 -1 0
-0 345 0 1
-0 390 2 0
 0 272 -1 0
+0 345 0 1
+0 348 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -18480,9 +18480,9 @@ push-end s12 a1 a2 b6 b4
 5
 0 162 0 1
 0 243 -1 0
+0 272 -1 0
 0 345 0 1
 0 390 2 0
-0 272 -1 0
 1
 end_operator
 begin_operator
@@ -18490,10 +18490,10 @@ push-end s12 a1 a2 b6 b5
 0
 5
 0 163 0 1
+0 272 -1 0
 0 341 -1 0
 0 345 0 1
 0 390 2 0
-0 272 -1 0
 1
 end_operator
 begin_operator
@@ -18502,8 +18502,8 @@ push-end s12 a1 a2 b6 b6
 345 0
 3
 0 164 0 1
-0 390 2 0
 0 272 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -18511,10 +18511,10 @@ push-end s12 a1 a2 b6 b7
 0
 5
 0 151 0 1
+0 272 -1 0
 0 345 0 1
 0 346 -1 0
 0 390 2 0
-0 272 -1 0
 1
 end_operator
 begin_operator
@@ -18522,10 +18522,10 @@ push-end s12 a1 a2 b6 b8
 0
 5
 0 165 0 1
-0 345 0 1
-0 342 -1 0
-0 390 2 0
 0 272 -1 0
+0 342 -1 0
+0 345 0 1
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -18533,10 +18533,10 @@ push-end s12 a1 a2 b6 b9
 0
 5
 0 203 0 1
+0 272 -1 0
 0 345 0 1
 0 347 -1 0
 0 390 2 0
-0 272 -1 0
 1
 end_operator
 begin_operator
@@ -18544,10 +18544,10 @@ push-end s12 a1 a2 b7 b0
 0
 5
 0 178 0 1
+0 273 -1 0
 0 335 -1 0
 0 346 0 1
 0 390 2 0
-0 273 -1 0
 1
 end_operator
 begin_operator
@@ -18555,10 +18555,10 @@ push-end s12 a1 a2 b7 b1
 0
 5
 0 179 0 1
+0 273 -1 0
 0 343 -1 0
 0 346 0 1
 0 390 2 0
-0 273 -1 0
 1
 end_operator
 begin_operator
@@ -18566,10 +18566,10 @@ push-end s12 a1 a2 b7 b10
 0
 5
 0 180 0 1
+0 273 -1 0
 0 336 -1 0
 0 346 0 1
 0 390 2 0
-0 273 -1 0
 1
 end_operator
 begin_operator
@@ -18577,10 +18577,10 @@ push-end s12 a1 a2 b7 b11
 0
 5
 0 181 0 1
+0 273 -1 0
 0 337 -1 0
 0 346 0 1
 0 390 2 0
-0 273 -1 0
 1
 end_operator
 begin_operator
@@ -18588,10 +18588,10 @@ push-end s12 a1 a2 b7 b12
 0
 5
 0 182 0 1
+0 273 -1 0
 0 344 -1 0
 0 346 0 1
 0 390 2 0
-0 273 -1 0
 1
 end_operator
 begin_operator
@@ -18599,10 +18599,10 @@ push-end s12 a1 a2 b7 b13
 0
 5
 0 183 0 1
+0 273 -1 0
 0 338 -1 0
 0 346 0 1
 0 390 2 0
-0 273 -1 0
 1
 end_operator
 begin_operator
@@ -18610,10 +18610,10 @@ push-end s12 a1 a2 b7 b14
 0
 5
 0 184 0 1
+0 273 -1 0
 0 339 -1 0
 0 346 0 1
 0 390 2 0
-0 273 -1 0
 1
 end_operator
 begin_operator
@@ -18621,10 +18621,10 @@ push-end s12 a1 a2 b7 b15
 0
 5
 0 185 0 1
+0 273 -1 0
 0 340 -1 0
 0 346 0 1
 0 390 2 0
-0 273 -1 0
 1
 end_operator
 begin_operator
@@ -18632,10 +18632,10 @@ push-end s12 a1 a2 b7 b2
 0
 5
 0 186 0 1
-0 349 -1 0
-0 346 0 1
-0 390 2 0
 0 273 -1 0
+0 346 0 1
+0 349 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -18643,10 +18643,10 @@ push-end s12 a1 a2 b7 b3
 0
 5
 0 187 0 1
-0 348 -1 0
-0 346 0 1
-0 390 2 0
 0 273 -1 0
+0 346 0 1
+0 348 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -18655,9 +18655,9 @@ push-end s12 a1 a2 b7 b4
 5
 0 188 0 1
 0 243 -1 0
+0 273 -1 0
 0 346 0 1
 0 390 2 0
-0 273 -1 0
 1
 end_operator
 begin_operator
@@ -18665,10 +18665,10 @@ push-end s12 a1 a2 b7 b5
 0
 5
 0 189 0 1
+0 273 -1 0
 0 341 -1 0
 0 346 0 1
 0 390 2 0
-0 273 -1 0
 1
 end_operator
 begin_operator
@@ -18676,10 +18676,10 @@ push-end s12 a1 a2 b7 b6
 0
 5
 0 190 0 1
+0 273 -1 0
 0 345 -1 0
 0 346 0 1
 0 390 2 0
-0 273 -1 0
 1
 end_operator
 begin_operator
@@ -18688,8 +18688,8 @@ push-end s12 a1 a2 b7 b7
 346 0
 3
 0 191 0 1
-0 390 2 0
 0 273 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -18697,10 +18697,10 @@ push-end s12 a1 a2 b7 b8
 0
 5
 0 177 0 1
-0 346 0 1
-0 342 -1 0
-0 390 2 0
 0 273 -1 0
+0 342 -1 0
+0 346 0 1
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -18708,10 +18708,10 @@ push-end s12 a1 a2 b7 b9
 0
 5
 0 192 0 1
+0 273 -1 0
 0 346 0 1
 0 347 -1 0
 0 390 2 0
-0 273 -1 0
 1
 end_operator
 begin_operator
@@ -18719,10 +18719,10 @@ push-end s12 a1 a2 b8 b0
 0
 5
 0 205 0 1
+0 267 -1 0
 0 335 -1 0
 0 342 0 1
 0 390 2 0
-0 267 -1 0
 1
 end_operator
 begin_operator
@@ -18730,10 +18730,10 @@ push-end s12 a1 a2 b8 b1
 0
 5
 0 206 0 1
-0 343 -1 0
-0 342 0 1
-0 390 2 0
 0 267 -1 0
+0 342 0 1
+0 343 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -18741,10 +18741,10 @@ push-end s12 a1 a2 b8 b10
 0
 5
 0 207 0 1
+0 267 -1 0
 0 336 -1 0
 0 342 0 1
 0 390 2 0
-0 267 -1 0
 1
 end_operator
 begin_operator
@@ -18752,10 +18752,10 @@ push-end s12 a1 a2 b8 b11
 0
 5
 0 208 0 1
+0 267 -1 0
 0 337 -1 0
 0 342 0 1
 0 390 2 0
-0 267 -1 0
 1
 end_operator
 begin_operator
@@ -18763,10 +18763,10 @@ push-end s12 a1 a2 b8 b12
 0
 5
 0 209 0 1
-0 344 -1 0
-0 342 0 1
-0 390 2 0
 0 267 -1 0
+0 342 0 1
+0 344 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -18774,10 +18774,10 @@ push-end s12 a1 a2 b8 b13
 0
 5
 0 210 0 1
+0 267 -1 0
 0 338 -1 0
 0 342 0 1
 0 390 2 0
-0 267 -1 0
 1
 end_operator
 begin_operator
@@ -18785,10 +18785,10 @@ push-end s12 a1 a2 b8 b14
 0
 5
 0 211 0 1
+0 267 -1 0
 0 339 -1 0
 0 342 0 1
 0 390 2 0
-0 267 -1 0
 1
 end_operator
 begin_operator
@@ -18796,10 +18796,10 @@ push-end s12 a1 a2 b8 b15
 0
 5
 0 212 0 1
+0 267 -1 0
 0 340 -1 0
 0 342 0 1
 0 390 2 0
-0 267 -1 0
 1
 end_operator
 begin_operator
@@ -18807,10 +18807,10 @@ push-end s12 a1 a2 b8 b2
 0
 5
 0 213 0 1
-0 349 -1 0
-0 342 0 1
-0 390 2 0
 0 267 -1 0
+0 342 0 1
+0 349 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -18818,10 +18818,10 @@ push-end s12 a1 a2 b8 b3
 0
 5
 0 214 0 1
-0 348 -1 0
-0 342 0 1
-0 390 2 0
 0 267 -1 0
+0 342 0 1
+0 348 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -18829,10 +18829,10 @@ push-end s12 a1 a2 b8 b5
 0
 5
 0 215 0 1
+0 267 -1 0
 0 341 -1 0
 0 342 0 1
 0 390 2 0
-0 267 -1 0
 1
 end_operator
 begin_operator
@@ -18840,10 +18840,10 @@ push-end s12 a1 a2 b8 b6
 0
 5
 0 216 0 1
-0 345 -1 0
-0 342 0 1
-0 390 2 0
 0 267 -1 0
+0 342 0 1
+0 345 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -18851,10 +18851,10 @@ push-end s12 a1 a2 b8 b7
 0
 5
 0 217 0 1
-0 346 -1 0
-0 342 0 1
-0 390 2 0
 0 267 -1 0
+0 342 0 1
+0 346 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -18863,8 +18863,8 @@ push-end s12 a1 a2 b8 b8
 342 0
 3
 0 218 0 1
-0 390 2 0
 0 267 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -18872,10 +18872,10 @@ push-end s12 a1 a2 b8 b9
 0
 5
 0 204 0 1
+0 267 -1 0
 0 342 0 1
 0 347 -1 0
 0 390 2 0
-0 267 -1 0
 1
 end_operator
 begin_operator
@@ -18883,10 +18883,10 @@ push-end s12 a1 a2 b9 b0
 0
 5
 0 219 0 1
+0 274 -1 0
 0 335 -1 0
 0 347 0 1
 0 390 2 0
-0 274 -1 0
 1
 end_operator
 begin_operator
@@ -18894,10 +18894,10 @@ push-end s12 a1 a2 b9 b1
 0
 5
 0 220 0 1
+0 274 -1 0
 0 343 -1 0
 0 347 0 1
 0 390 2 0
-0 274 -1 0
 1
 end_operator
 begin_operator
@@ -18905,10 +18905,10 @@ push-end s12 a1 a2 b9 b10
 0
 5
 0 221 0 1
+0 274 -1 0
 0 336 -1 0
 0 347 0 1
 0 390 2 0
-0 274 -1 0
 1
 end_operator
 begin_operator
@@ -18916,10 +18916,10 @@ push-end s12 a1 a2 b9 b11
 0
 5
 0 222 0 1
+0 274 -1 0
 0 337 -1 0
 0 347 0 1
 0 390 2 0
-0 274 -1 0
 1
 end_operator
 begin_operator
@@ -18927,10 +18927,10 @@ push-end s12 a1 a2 b9 b12
 0
 5
 0 223 0 1
+0 274 -1 0
 0 344 -1 0
 0 347 0 1
 0 390 2 0
-0 274 -1 0
 1
 end_operator
 begin_operator
@@ -18938,10 +18938,10 @@ push-end s12 a1 a2 b9 b13
 0
 5
 0 224 0 1
+0 274 -1 0
 0 338 -1 0
 0 347 0 1
 0 390 2 0
-0 274 -1 0
 1
 end_operator
 begin_operator
@@ -18949,10 +18949,10 @@ push-end s12 a1 a2 b9 b14
 0
 5
 0 225 0 1
+0 274 -1 0
 0 339 -1 0
 0 347 0 1
 0 390 2 0
-0 274 -1 0
 1
 end_operator
 begin_operator
@@ -18960,10 +18960,10 @@ push-end s12 a1 a2 b9 b15
 0
 5
 0 226 0 1
+0 274 -1 0
 0 340 -1 0
 0 347 0 1
 0 390 2 0
-0 274 -1 0
 1
 end_operator
 begin_operator
@@ -18971,10 +18971,10 @@ push-end s12 a1 a2 b9 b2
 0
 5
 0 227 0 1
-0 349 -1 0
-0 347 0 1
-0 390 2 0
 0 274 -1 0
+0 347 0 1
+0 349 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -18982,10 +18982,10 @@ push-end s12 a1 a2 b9 b3
 0
 5
 0 228 0 1
-0 348 -1 0
-0 347 0 1
-0 390 2 0
 0 274 -1 0
+0 347 0 1
+0 348 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -18994,9 +18994,9 @@ push-end s12 a1 a2 b9 b4
 5
 0 229 0 1
 0 243 -1 0
+0 274 -1 0
 0 347 0 1
 0 390 2 0
-0 274 -1 0
 1
 end_operator
 begin_operator
@@ -19004,10 +19004,10 @@ push-end s12 a1 a2 b9 b5
 0
 5
 0 230 0 1
+0 274 -1 0
 0 341 -1 0
 0 347 0 1
 0 390 2 0
-0 274 -1 0
 1
 end_operator
 begin_operator
@@ -19015,10 +19015,10 @@ push-end s12 a1 a2 b9 b6
 0
 5
 0 231 0 1
+0 274 -1 0
 0 345 -1 0
 0 347 0 1
 0 390 2 0
-0 274 -1 0
 1
 end_operator
 begin_operator
@@ -19026,10 +19026,10 @@ push-end s12 a1 a2 b9 b7
 0
 5
 0 232 0 1
+0 274 -1 0
 0 346 -1 0
 0 347 0 1
 0 390 2 0
-0 274 -1 0
 1
 end_operator
 begin_operator
@@ -19037,10 +19037,10 @@ push-end s12 a1 a2 b9 b8
 0
 5
 0 233 0 1
+0 274 -1 0
 0 342 -1 0
 0 347 0 1
 0 390 2 0
-0 274 -1 0
 1
 end_operator
 begin_operator
@@ -19049,8 +19049,8 @@ push-end s12 a1 a2 b9 b9
 347 0
 3
 0 234 0 1
-0 390 2 0
 0 274 -1 0
+0 390 2 0
 1
 end_operator
 begin_operator
@@ -19059,8 +19059,8 @@ push-end s13 a1 a3 b0 b0
 320 0
 3
 0 3 0 1
-0 393 2 0
 0 305 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -19068,10 +19068,10 @@ push-end s13 a1 a3 b0 b1
 0
 5
 0 2 0 1
+0 305 -1 0
 0 320 0 1
 0 329 -1 0
 0 393 2 0
-0 305 -1 0
 1
 end_operator
 begin_operator
@@ -19079,10 +19079,10 @@ push-end s13 a1 a3 b0 b10
 0
 5
 0 4 0 1
+0 305 -1 0
 0 320 0 1
 0 321 -1 0
 0 393 2 0
-0 305 -1 0
 1
 end_operator
 begin_operator
@@ -19090,10 +19090,10 @@ push-end s13 a1 a3 b0 b11
 0
 5
 0 5 0 1
+0 305 -1 0
 0 320 0 1
 0 322 -1 0
 0 393 2 0
-0 305 -1 0
 1
 end_operator
 begin_operator
@@ -19101,10 +19101,10 @@ push-end s13 a1 a3 b0 b12
 0
 5
 0 8 0 1
+0 305 -1 0
 0 320 0 1
 0 330 -1 0
 0 393 2 0
-0 305 -1 0
 1
 end_operator
 begin_operator
@@ -19112,10 +19112,10 @@ push-end s13 a1 a3 b0 b13
 0
 5
 0 18 0 1
+0 305 -1 0
 0 320 0 1
 0 323 -1 0
 0 393 2 0
-0 305 -1 0
 1
 end_operator
 begin_operator
@@ -19123,10 +19123,10 @@ push-end s13 a1 a3 b0 b14
 0
 5
 0 20 0 1
+0 305 -1 0
 0 320 0 1
 0 324 -1 0
 0 393 2 0
-0 305 -1 0
 1
 end_operator
 begin_operator
@@ -19134,10 +19134,10 @@ push-end s13 a1 a3 b0 b15
 0
 5
 0 49 0 1
+0 305 -1 0
 0 320 0 1
 0 325 -1 0
 0 393 2 0
-0 305 -1 0
 1
 end_operator
 begin_operator
@@ -19145,10 +19145,10 @@ push-end s13 a1 a3 b0 b2
 0
 5
 0 52 0 1
+0 305 -1 0
 0 320 0 1
 0 331 -1 0
 0 393 2 0
-0 305 -1 0
 1
 end_operator
 begin_operator
@@ -19156,10 +19156,10 @@ push-end s13 a1 a3 b0 b3
 0
 5
 0 81 0 1
+0 305 -1 0
 0 320 0 1
 0 326 -1 0
 0 393 2 0
-0 305 -1 0
 1
 end_operator
 begin_operator
@@ -19167,10 +19167,10 @@ push-end s13 a1 a3 b0 b5
 0
 5
 0 100 0 1
+0 305 -1 0
 0 320 0 1
 0 327 -1 0
 0 393 2 0
-0 305 -1 0
 1
 end_operator
 begin_operator
@@ -19178,10 +19178,10 @@ push-end s13 a1 a3 b0 b6
 0
 5
 0 121 0 1
+0 305 -1 0
 0 320 0 1
 0 332 -1 0
 0 393 2 0
-0 305 -1 0
 1
 end_operator
 begin_operator
@@ -19189,10 +19189,10 @@ push-end s13 a1 a3 b0 b7
 0
 5
 0 140 0 1
+0 305 -1 0
 0 320 0 1
 0 333 -1 0
 0 393 2 0
-0 305 -1 0
 1
 end_operator
 begin_operator
@@ -19200,10 +19200,10 @@ push-end s13 a1 a3 b0 b8
 0
 5
 0 166 0 1
+0 305 -1 0
 0 320 0 1
 0 328 -1 0
 0 393 2 0
-0 305 -1 0
 1
 end_operator
 begin_operator
@@ -19211,10 +19211,10 @@ push-end s13 a1 a3 b0 b9
 0
 5
 0 0 0 1
+0 305 -1 0
 0 320 0 1
 0 334 -1 0
 0 393 2 0
-0 305 -1 0
 1
 end_operator
 begin_operator
@@ -19222,10 +19222,10 @@ push-end s13 a1 a3 b1 b0
 0
 5
 0 7 0 1
+0 314 -1 0
 0 320 -1 0
 0 329 0 1
 0 393 2 0
-0 314 -1 0
 1
 end_operator
 begin_operator
@@ -19234,8 +19234,8 @@ push-end s13 a1 a3 b1 b1
 329 0
 3
 0 16 0 1
-0 393 2 0
 0 314 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -19243,10 +19243,10 @@ push-end s13 a1 a3 b1 b10
 0
 5
 0 11 0 1
-0 329 0 1
-0 321 -1 0
-0 393 2 0
 0 314 -1 0
+0 321 -1 0
+0 329 0 1
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -19254,10 +19254,10 @@ push-end s13 a1 a3 b1 b11
 0
 5
 0 6 0 1
-0 329 0 1
-0 322 -1 0
-0 393 2 0
 0 314 -1 0
+0 322 -1 0
+0 329 0 1
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -19265,10 +19265,10 @@ push-end s13 a1 a3 b1 b12
 0
 5
 0 9 0 1
+0 314 -1 0
 0 329 0 1
 0 330 -1 0
 0 393 2 0
-0 314 -1 0
 1
 end_operator
 begin_operator
@@ -19276,10 +19276,10 @@ push-end s13 a1 a3 b1 b13
 0
 5
 0 17 0 1
-0 329 0 1
-0 323 -1 0
-0 393 2 0
 0 314 -1 0
+0 323 -1 0
+0 329 0 1
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -19287,10 +19287,10 @@ push-end s13 a1 a3 b1 b14
 0
 5
 0 21 0 1
-0 329 0 1
-0 324 -1 0
-0 393 2 0
 0 314 -1 0
+0 324 -1 0
+0 329 0 1
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -19298,10 +19298,10 @@ push-end s13 a1 a3 b1 b15
 0
 5
 0 50 0 1
-0 329 0 1
-0 325 -1 0
-0 393 2 0
 0 314 -1 0
+0 325 -1 0
+0 329 0 1
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -19309,10 +19309,10 @@ push-end s13 a1 a3 b1 b2
 0
 5
 0 51 0 1
+0 314 -1 0
 0 329 0 1
 0 331 -1 0
 0 393 2 0
-0 314 -1 0
 1
 end_operator
 begin_operator
@@ -19320,10 +19320,10 @@ push-end s13 a1 a3 b1 b3
 0
 5
 0 82 0 1
-0 329 0 1
-0 326 -1 0
-0 393 2 0
 0 314 -1 0
+0 326 -1 0
+0 329 0 1
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -19331,10 +19331,10 @@ push-end s13 a1 a3 b1 b4
 0
 5
 0 132 0 1
-0 329 0 1
 0 244 -1 0
-0 393 2 0
 0 314 -1 0
+0 329 0 1
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -19342,10 +19342,10 @@ push-end s13 a1 a3 b1 b5
 0
 5
 0 101 0 1
-0 329 0 1
-0 327 -1 0
-0 393 2 0
 0 314 -1 0
+0 327 -1 0
+0 329 0 1
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -19353,10 +19353,10 @@ push-end s13 a1 a3 b1 b6
 0
 5
 0 122 0 1
+0 314 -1 0
 0 329 0 1
 0 332 -1 0
 0 393 2 0
-0 314 -1 0
 1
 end_operator
 begin_operator
@@ -19364,10 +19364,10 @@ push-end s13 a1 a3 b1 b7
 0
 5
 0 141 0 1
+0 314 -1 0
 0 329 0 1
 0 333 -1 0
 0 393 2 0
-0 314 -1 0
 1
 end_operator
 begin_operator
@@ -19375,10 +19375,10 @@ push-end s13 a1 a3 b1 b8
 0
 5
 0 167 0 1
-0 329 0 1
-0 328 -1 0
-0 393 2 0
 0 314 -1 0
+0 328 -1 0
+0 329 0 1
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -19386,10 +19386,10 @@ push-end s13 a1 a3 b1 b9
 0
 5
 0 1 0 1
+0 314 -1 0
 0 329 0 1
 0 334 -1 0
 0 393 2 0
-0 314 -1 0
 1
 end_operator
 begin_operator
@@ -19397,10 +19397,10 @@ push-end s13 a1 a3 b10 b0
 0
 5
 0 12 0 1
+0 306 -1 0
 0 320 -1 0
 0 321 0 1
 0 393 2 0
-0 306 -1 0
 1
 end_operator
 begin_operator
@@ -19408,10 +19408,10 @@ push-end s13 a1 a3 b10 b1
 0
 5
 0 15 0 1
-0 329 -1 0
-0 321 0 1
-0 393 2 0
 0 306 -1 0
+0 321 0 1
+0 329 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -19420,8 +19420,8 @@ push-end s13 a1 a3 b10 b10
 321 0
 3
 0 26 0 1
-0 393 2 0
 0 306 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -19429,10 +19429,10 @@ push-end s13 a1 a3 b10 b11
 0
 5
 0 14 0 1
+0 306 -1 0
 0 321 0 1
 0 322 -1 0
 0 393 2 0
-0 306 -1 0
 1
 end_operator
 begin_operator
@@ -19440,10 +19440,10 @@ push-end s13 a1 a3 b10 b12
 0
 5
 0 10 0 1
+0 306 -1 0
 0 321 0 1
 0 330 -1 0
 0 393 2 0
-0 306 -1 0
 1
 end_operator
 begin_operator
@@ -19451,10 +19451,10 @@ push-end s13 a1 a3 b10 b13
 0
 5
 0 19 0 1
+0 306 -1 0
 0 321 0 1
 0 323 -1 0
 0 393 2 0
-0 306 -1 0
 1
 end_operator
 begin_operator
@@ -19462,10 +19462,10 @@ push-end s13 a1 a3 b10 b14
 0
 5
 0 22 0 1
+0 306 -1 0
 0 321 0 1
 0 324 -1 0
 0 393 2 0
-0 306 -1 0
 1
 end_operator
 begin_operator
@@ -19473,10 +19473,10 @@ push-end s13 a1 a3 b10 b15
 0
 5
 0 66 0 1
+0 306 -1 0
 0 321 0 1
 0 325 -1 0
 0 393 2 0
-0 306 -1 0
 1
 end_operator
 begin_operator
@@ -19484,10 +19484,10 @@ push-end s13 a1 a3 b10 b2
 0
 5
 0 53 0 1
+0 306 -1 0
 0 321 0 1
 0 331 -1 0
 0 393 2 0
-0 306 -1 0
 1
 end_operator
 begin_operator
@@ -19495,10 +19495,10 @@ push-end s13 a1 a3 b10 b3
 0
 5
 0 83 0 1
+0 306 -1 0
 0 321 0 1
 0 326 -1 0
 0 393 2 0
-0 306 -1 0
 1
 end_operator
 begin_operator
@@ -19506,10 +19506,10 @@ push-end s13 a1 a3 b10 b5
 0
 5
 0 102 0 1
+0 306 -1 0
 0 321 0 1
 0 327 -1 0
 0 393 2 0
-0 306 -1 0
 1
 end_operator
 begin_operator
@@ -19517,10 +19517,10 @@ push-end s13 a1 a3 b10 b6
 0
 5
 0 123 0 1
+0 306 -1 0
 0 321 0 1
 0 332 -1 0
 0 393 2 0
-0 306 -1 0
 1
 end_operator
 begin_operator
@@ -19528,10 +19528,10 @@ push-end s13 a1 a3 b10 b7
 0
 5
 0 142 0 1
+0 306 -1 0
 0 321 0 1
 0 333 -1 0
 0 393 2 0
-0 306 -1 0
 1
 end_operator
 begin_operator
@@ -19539,10 +19539,10 @@ push-end s13 a1 a3 b10 b8
 0
 5
 0 168 0 1
+0 306 -1 0
 0 321 0 1
 0 328 -1 0
 0 393 2 0
-0 306 -1 0
 1
 end_operator
 begin_operator
@@ -19550,10 +19550,10 @@ push-end s13 a1 a3 b10 b9
 0
 5
 0 193 0 1
+0 306 -1 0
 0 321 0 1
 0 334 -1 0
 0 393 2 0
-0 306 -1 0
 1
 end_operator
 begin_operator
@@ -19561,10 +19561,10 @@ push-end s13 a1 a3 b11 b0
 0
 5
 0 13 0 1
+0 313 -1 0
 0 320 -1 0
 0 322 0 1
 0 393 2 0
-0 313 -1 0
 1
 end_operator
 begin_operator
@@ -19572,10 +19572,10 @@ push-end s13 a1 a3 b11 b1
 0
 5
 0 24 0 1
-0 329 -1 0
-0 322 0 1
-0 393 2 0
 0 313 -1 0
+0 322 0 1
+0 329 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -19583,10 +19583,10 @@ push-end s13 a1 a3 b11 b10
 0
 5
 0 25 0 1
+0 313 -1 0
 0 321 -1 0
 0 322 0 1
 0 393 2 0
-0 313 -1 0
 1
 end_operator
 begin_operator
@@ -19595,8 +19595,8 @@ push-end s13 a1 a3 b11 b11
 322 0
 3
 0 31 0 1
-0 393 2 0
 0 313 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -19604,10 +19604,10 @@ push-end s13 a1 a3 b11 b12
 0
 5
 0 37 0 1
+0 313 -1 0
 0 322 0 1
 0 330 -1 0
 0 393 2 0
-0 313 -1 0
 1
 end_operator
 begin_operator
@@ -19615,10 +19615,10 @@ push-end s13 a1 a3 b11 b13
 0
 5
 0 45 0 1
+0 313 -1 0
 0 322 0 1
 0 323 -1 0
 0 393 2 0
-0 313 -1 0
 1
 end_operator
 begin_operator
@@ -19626,10 +19626,10 @@ push-end s13 a1 a3 b11 b14
 0
 5
 0 23 0 1
+0 313 -1 0
 0 322 0 1
 0 324 -1 0
 0 393 2 0
-0 313 -1 0
 1
 end_operator
 begin_operator
@@ -19637,10 +19637,10 @@ push-end s13 a1 a3 b11 b15
 0
 5
 0 67 0 1
+0 313 -1 0
 0 322 0 1
 0 325 -1 0
 0 393 2 0
-0 313 -1 0
 1
 end_operator
 begin_operator
@@ -19648,10 +19648,10 @@ push-end s13 a1 a3 b11 b2
 0
 5
 0 54 0 1
+0 313 -1 0
 0 322 0 1
 0 331 -1 0
 0 393 2 0
-0 313 -1 0
 1
 end_operator
 begin_operator
@@ -19659,10 +19659,10 @@ push-end s13 a1 a3 b11 b3
 0
 5
 0 84 0 1
+0 313 -1 0
 0 322 0 1
 0 326 -1 0
 0 393 2 0
-0 313 -1 0
 1
 end_operator
 begin_operator
@@ -19670,10 +19670,10 @@ push-end s13 a1 a3 b11 b5
 0
 5
 0 103 0 1
+0 313 -1 0
 0 322 0 1
 0 327 -1 0
 0 393 2 0
-0 313 -1 0
 1
 end_operator
 begin_operator
@@ -19681,10 +19681,10 @@ push-end s13 a1 a3 b11 b6
 0
 5
 0 124 0 1
+0 313 -1 0
 0 322 0 1
 0 332 -1 0
 0 393 2 0
-0 313 -1 0
 1
 end_operator
 begin_operator
@@ -19692,10 +19692,10 @@ push-end s13 a1 a3 b11 b7
 0
 5
 0 143 0 1
+0 313 -1 0
 0 322 0 1
 0 333 -1 0
 0 393 2 0
-0 313 -1 0
 1
 end_operator
 begin_operator
@@ -19703,10 +19703,10 @@ push-end s13 a1 a3 b11 b8
 0
 5
 0 169 0 1
+0 313 -1 0
 0 322 0 1
 0 328 -1 0
 0 393 2 0
-0 313 -1 0
 1
 end_operator
 begin_operator
@@ -19714,10 +19714,10 @@ push-end s13 a1 a3 b11 b9
 0
 5
 0 194 0 1
+0 313 -1 0
 0 322 0 1
 0 334 -1 0
 0 393 2 0
-0 313 -1 0
 1
 end_operator
 begin_operator
@@ -19725,10 +19725,10 @@ push-end s13 a1 a3 b12 b0
 0
 5
 0 28 0 1
+0 315 -1 0
 0 320 -1 0
 0 330 0 1
 0 393 2 0
-0 315 -1 0
 1
 end_operator
 begin_operator
@@ -19736,10 +19736,10 @@ push-end s13 a1 a3 b12 b1
 0
 5
 0 29 0 1
+0 315 -1 0
 0 329 -1 0
 0 330 0 1
 0 393 2 0
-0 315 -1 0
 1
 end_operator
 begin_operator
@@ -19747,10 +19747,10 @@ push-end s13 a1 a3 b12 b10
 0
 5
 0 27 0 1
+0 315 -1 0
 0 321 -1 0
 0 330 0 1
 0 393 2 0
-0 315 -1 0
 1
 end_operator
 begin_operator
@@ -19758,10 +19758,10 @@ push-end s13 a1 a3 b12 b11
 0
 5
 0 30 0 1
+0 315 -1 0
 0 322 -1 0
 0 330 0 1
 0 393 2 0
-0 315 -1 0
 1
 end_operator
 begin_operator
@@ -19770,8 +19770,8 @@ push-end s13 a1 a3 b12 b12
 330 0
 3
 0 38 0 1
-0 393 2 0
 0 315 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -19779,10 +19779,10 @@ push-end s13 a1 a3 b12 b13
 0
 5
 0 46 0 1
-0 330 0 1
-0 323 -1 0
-0 393 2 0
 0 315 -1 0
+0 323 -1 0
+0 330 0 1
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -19790,10 +19790,10 @@ push-end s13 a1 a3 b12 b14
 0
 5
 0 237 0 1
-0 330 0 1
-0 324 -1 0
-0 393 2 0
 0 315 -1 0
+0 324 -1 0
+0 330 0 1
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -19801,10 +19801,10 @@ push-end s13 a1 a3 b12 b15
 0
 5
 0 68 0 1
-0 330 0 1
-0 325 -1 0
-0 393 2 0
 0 315 -1 0
+0 325 -1 0
+0 330 0 1
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -19812,10 +19812,10 @@ push-end s13 a1 a3 b12 b2
 0
 5
 0 55 0 1
+0 315 -1 0
 0 330 0 1
 0 331 -1 0
 0 393 2 0
-0 315 -1 0
 1
 end_operator
 begin_operator
@@ -19823,10 +19823,10 @@ push-end s13 a1 a3 b12 b3
 0
 5
 0 85 0 1
-0 330 0 1
-0 326 -1 0
-0 393 2 0
 0 315 -1 0
+0 326 -1 0
+0 330 0 1
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -19834,10 +19834,10 @@ push-end s13 a1 a3 b12 b4
 0
 5
 0 133 0 1
-0 330 0 1
 0 244 -1 0
-0 393 2 0
 0 315 -1 0
+0 330 0 1
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -19845,10 +19845,10 @@ push-end s13 a1 a3 b12 b5
 0
 5
 0 104 0 1
-0 330 0 1
-0 327 -1 0
-0 393 2 0
 0 315 -1 0
+0 327 -1 0
+0 330 0 1
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -19856,10 +19856,10 @@ push-end s13 a1 a3 b12 b6
 0
 5
 0 125 0 1
+0 315 -1 0
 0 330 0 1
 0 332 -1 0
 0 393 2 0
-0 315 -1 0
 1
 end_operator
 begin_operator
@@ -19867,10 +19867,10 @@ push-end s13 a1 a3 b12 b7
 0
 5
 0 144 0 1
+0 315 -1 0
 0 330 0 1
 0 333 -1 0
 0 393 2 0
-0 315 -1 0
 1
 end_operator
 begin_operator
@@ -19878,10 +19878,10 @@ push-end s13 a1 a3 b12 b8
 0
 5
 0 170 0 1
-0 330 0 1
-0 328 -1 0
-0 393 2 0
 0 315 -1 0
+0 328 -1 0
+0 330 0 1
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -19889,10 +19889,10 @@ push-end s13 a1 a3 b12 b9
 0
 5
 0 195 0 1
+0 315 -1 0
 0 330 0 1
 0 334 -1 0
 0 393 2 0
-0 315 -1 0
 1
 end_operator
 begin_operator
@@ -19900,10 +19900,10 @@ push-end s13 a1 a3 b13 b0
 0
 5
 0 33 0 1
+0 307 -1 0
 0 320 -1 0
 0 323 0 1
 0 393 2 0
-0 307 -1 0
 1
 end_operator
 begin_operator
@@ -19911,10 +19911,10 @@ push-end s13 a1 a3 b13 b1
 0
 5
 0 34 0 1
-0 329 -1 0
-0 323 0 1
-0 393 2 0
 0 307 -1 0
+0 323 0 1
+0 329 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -19922,10 +19922,10 @@ push-end s13 a1 a3 b13 b10
 0
 5
 0 35 0 1
+0 307 -1 0
 0 321 -1 0
 0 323 0 1
 0 393 2 0
-0 307 -1 0
 1
 end_operator
 begin_operator
@@ -19933,10 +19933,10 @@ push-end s13 a1 a3 b13 b11
 0
 5
 0 32 0 1
+0 307 -1 0
 0 322 -1 0
 0 323 0 1
 0 393 2 0
-0 307 -1 0
 1
 end_operator
 begin_operator
@@ -19944,10 +19944,10 @@ push-end s13 a1 a3 b13 b12
 0
 5
 0 36 0 1
-0 330 -1 0
-0 323 0 1
-0 393 2 0
 0 307 -1 0
+0 323 0 1
+0 330 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -19956,8 +19956,8 @@ push-end s13 a1 a3 b13 b13
 323 0
 3
 0 47 0 1
-0 393 2 0
 0 307 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -19965,10 +19965,10 @@ push-end s13 a1 a3 b13 b14
 0
 5
 0 236 0 1
+0 307 -1 0
 0 323 0 1
 0 324 -1 0
 0 393 2 0
-0 307 -1 0
 1
 end_operator
 begin_operator
@@ -19976,10 +19976,10 @@ push-end s13 a1 a3 b13 b15
 0
 5
 0 69 0 1
+0 307 -1 0
 0 323 0 1
 0 325 -1 0
 0 393 2 0
-0 307 -1 0
 1
 end_operator
 begin_operator
@@ -19987,10 +19987,10 @@ push-end s13 a1 a3 b13 b2
 0
 5
 0 56 0 1
+0 307 -1 0
 0 323 0 1
 0 331 -1 0
 0 393 2 0
-0 307 -1 0
 1
 end_operator
 begin_operator
@@ -19998,10 +19998,10 @@ push-end s13 a1 a3 b13 b3
 0
 5
 0 86 0 1
+0 307 -1 0
 0 323 0 1
 0 326 -1 0
 0 393 2 0
-0 307 -1 0
 1
 end_operator
 begin_operator
@@ -20009,10 +20009,10 @@ push-end s13 a1 a3 b13 b5
 0
 5
 0 105 0 1
+0 307 -1 0
 0 323 0 1
 0 327 -1 0
 0 393 2 0
-0 307 -1 0
 1
 end_operator
 begin_operator
@@ -20020,10 +20020,10 @@ push-end s13 a1 a3 b13 b6
 0
 5
 0 126 0 1
+0 307 -1 0
 0 323 0 1
 0 332 -1 0
 0 393 2 0
-0 307 -1 0
 1
 end_operator
 begin_operator
@@ -20031,10 +20031,10 @@ push-end s13 a1 a3 b13 b7
 0
 5
 0 145 0 1
+0 307 -1 0
 0 323 0 1
 0 333 -1 0
 0 393 2 0
-0 307 -1 0
 1
 end_operator
 begin_operator
@@ -20042,10 +20042,10 @@ push-end s13 a1 a3 b13 b8
 0
 5
 0 171 0 1
+0 307 -1 0
 0 323 0 1
 0 328 -1 0
 0 393 2 0
-0 307 -1 0
 1
 end_operator
 begin_operator
@@ -20053,10 +20053,10 @@ push-end s13 a1 a3 b13 b9
 0
 5
 0 196 0 1
+0 307 -1 0
 0 323 0 1
 0 334 -1 0
 0 393 2 0
-0 307 -1 0
 1
 end_operator
 begin_operator
@@ -20064,10 +20064,10 @@ push-end s13 a1 a3 b14 b0
 0
 5
 0 40 0 1
+0 308 -1 0
 0 320 -1 0
 0 324 0 1
 0 393 2 0
-0 308 -1 0
 1
 end_operator
 begin_operator
@@ -20075,10 +20075,10 @@ push-end s13 a1 a3 b14 b1
 0
 5
 0 41 0 1
-0 329 -1 0
-0 324 0 1
-0 393 2 0
 0 308 -1 0
+0 324 0 1
+0 329 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -20086,10 +20086,10 @@ push-end s13 a1 a3 b14 b10
 0
 5
 0 42 0 1
+0 308 -1 0
 0 321 -1 0
 0 324 0 1
 0 393 2 0
-0 308 -1 0
 1
 end_operator
 begin_operator
@@ -20097,10 +20097,10 @@ push-end s13 a1 a3 b14 b11
 0
 5
 0 43 0 1
+0 308 -1 0
 0 322 -1 0
 0 324 0 1
 0 393 2 0
-0 308 -1 0
 1
 end_operator
 begin_operator
@@ -20108,10 +20108,10 @@ push-end s13 a1 a3 b14 b12
 0
 5
 0 39 0 1
-0 330 -1 0
-0 324 0 1
-0 393 2 0
 0 308 -1 0
+0 324 0 1
+0 330 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -20119,10 +20119,10 @@ push-end s13 a1 a3 b14 b13
 0
 5
 0 44 0 1
+0 308 -1 0
 0 323 -1 0
 0 324 0 1
 0 393 2 0
-0 308 -1 0
 1
 end_operator
 begin_operator
@@ -20131,8 +20131,8 @@ push-end s13 a1 a3 b14 b14
 324 0
 3
 0 235 0 1
-0 393 2 0
 0 308 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -20140,10 +20140,10 @@ push-end s13 a1 a3 b14 b15
 0
 5
 0 70 0 1
+0 308 -1 0
 0 324 0 1
 0 325 -1 0
 0 393 2 0
-0 308 -1 0
 1
 end_operator
 begin_operator
@@ -20151,10 +20151,10 @@ push-end s13 a1 a3 b14 b2
 0
 5
 0 57 0 1
+0 308 -1 0
 0 324 0 1
 0 331 -1 0
 0 393 2 0
-0 308 -1 0
 1
 end_operator
 begin_operator
@@ -20162,10 +20162,10 @@ push-end s13 a1 a3 b14 b3
 0
 5
 0 87 0 1
+0 308 -1 0
 0 324 0 1
 0 326 -1 0
 0 393 2 0
-0 308 -1 0
 1
 end_operator
 begin_operator
@@ -20173,10 +20173,10 @@ push-end s13 a1 a3 b14 b5
 0
 5
 0 106 0 1
+0 308 -1 0
 0 324 0 1
 0 327 -1 0
 0 393 2 0
-0 308 -1 0
 1
 end_operator
 begin_operator
@@ -20184,10 +20184,10 @@ push-end s13 a1 a3 b14 b6
 0
 5
 0 127 0 1
+0 308 -1 0
 0 324 0 1
 0 332 -1 0
 0 393 2 0
-0 308 -1 0
 1
 end_operator
 begin_operator
@@ -20195,10 +20195,10 @@ push-end s13 a1 a3 b14 b7
 0
 5
 0 146 0 1
+0 308 -1 0
 0 324 0 1
 0 333 -1 0
 0 393 2 0
-0 308 -1 0
 1
 end_operator
 begin_operator
@@ -20206,10 +20206,10 @@ push-end s13 a1 a3 b14 b8
 0
 5
 0 172 0 1
+0 308 -1 0
 0 324 0 1
 0 328 -1 0
 0 393 2 0
-0 308 -1 0
 1
 end_operator
 begin_operator
@@ -20217,10 +20217,10 @@ push-end s13 a1 a3 b14 b9
 0
 5
 0 197 0 1
+0 308 -1 0
 0 324 0 1
 0 334 -1 0
 0 393 2 0
-0 308 -1 0
 1
 end_operator
 begin_operator
@@ -20228,10 +20228,10 @@ push-end s13 a1 a3 b15 b0
 0
 5
 0 59 0 1
+0 309 -1 0
 0 320 -1 0
 0 325 0 1
 0 393 2 0
-0 309 -1 0
 1
 end_operator
 begin_operator
@@ -20239,10 +20239,10 @@ push-end s13 a1 a3 b15 b1
 0
 5
 0 60 0 1
-0 329 -1 0
-0 325 0 1
-0 393 2 0
 0 309 -1 0
+0 325 0 1
+0 329 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -20250,10 +20250,10 @@ push-end s13 a1 a3 b15 b10
 0
 5
 0 61 0 1
+0 309 -1 0
 0 321 -1 0
 0 325 0 1
 0 393 2 0
-0 309 -1 0
 1
 end_operator
 begin_operator
@@ -20261,10 +20261,10 @@ push-end s13 a1 a3 b15 b11
 0
 5
 0 62 0 1
+0 309 -1 0
 0 322 -1 0
 0 325 0 1
 0 393 2 0
-0 309 -1 0
 1
 end_operator
 begin_operator
@@ -20272,10 +20272,10 @@ push-end s13 a1 a3 b15 b12
 0
 5
 0 63 0 1
-0 330 -1 0
-0 325 0 1
-0 393 2 0
 0 309 -1 0
+0 325 0 1
+0 330 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -20283,10 +20283,10 @@ push-end s13 a1 a3 b15 b13
 0
 5
 0 48 0 1
+0 309 -1 0
 0 323 -1 0
 0 325 0 1
 0 393 2 0
-0 309 -1 0
 1
 end_operator
 begin_operator
@@ -20294,10 +20294,10 @@ push-end s13 a1 a3 b15 b14
 0
 5
 0 64 0 1
+0 309 -1 0
 0 324 -1 0
 0 325 0 1
 0 393 2 0
-0 309 -1 0
 1
 end_operator
 begin_operator
@@ -20306,8 +20306,8 @@ push-end s13 a1 a3 b15 b15
 325 0
 3
 0 65 0 1
-0 393 2 0
 0 309 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -20315,10 +20315,10 @@ push-end s13 a1 a3 b15 b2
 0
 5
 0 58 0 1
+0 309 -1 0
 0 325 0 1
 0 331 -1 0
 0 393 2 0
-0 309 -1 0
 1
 end_operator
 begin_operator
@@ -20326,10 +20326,10 @@ push-end s13 a1 a3 b15 b3
 0
 5
 0 88 0 1
+0 309 -1 0
 0 325 0 1
 0 326 -1 0
 0 393 2 0
-0 309 -1 0
 1
 end_operator
 begin_operator
@@ -20337,10 +20337,10 @@ push-end s13 a1 a3 b15 b5
 0
 5
 0 107 0 1
+0 309 -1 0
 0 325 0 1
 0 327 -1 0
 0 393 2 0
-0 309 -1 0
 1
 end_operator
 begin_operator
@@ -20348,10 +20348,10 @@ push-end s13 a1 a3 b15 b6
 0
 5
 0 128 0 1
+0 309 -1 0
 0 325 0 1
 0 332 -1 0
 0 393 2 0
-0 309 -1 0
 1
 end_operator
 begin_operator
@@ -20359,10 +20359,10 @@ push-end s13 a1 a3 b15 b7
 0
 5
 0 147 0 1
+0 309 -1 0
 0 325 0 1
 0 333 -1 0
 0 393 2 0
-0 309 -1 0
 1
 end_operator
 begin_operator
@@ -20370,10 +20370,10 @@ push-end s13 a1 a3 b15 b8
 0
 5
 0 173 0 1
+0 309 -1 0
 0 325 0 1
 0 328 -1 0
 0 393 2 0
-0 309 -1 0
 1
 end_operator
 begin_operator
@@ -20381,10 +20381,10 @@ push-end s13 a1 a3 b15 b9
 0
 5
 0 198 0 1
+0 309 -1 0
 0 325 0 1
 0 334 -1 0
 0 393 2 0
-0 309 -1 0
 1
 end_operator
 begin_operator
@@ -20392,10 +20392,10 @@ push-end s13 a1 a3 b2 b0
 0
 5
 0 72 0 1
+0 316 -1 0
 0 320 -1 0
 0 331 0 1
 0 393 2 0
-0 316 -1 0
 1
 end_operator
 begin_operator
@@ -20403,10 +20403,10 @@ push-end s13 a1 a3 b2 b1
 0
 5
 0 73 0 1
+0 316 -1 0
 0 329 -1 0
 0 331 0 1
 0 393 2 0
-0 316 -1 0
 1
 end_operator
 begin_operator
@@ -20414,10 +20414,10 @@ push-end s13 a1 a3 b2 b10
 0
 5
 0 74 0 1
+0 316 -1 0
 0 321 -1 0
 0 331 0 1
 0 393 2 0
-0 316 -1 0
 1
 end_operator
 begin_operator
@@ -20425,10 +20425,10 @@ push-end s13 a1 a3 b2 b11
 0
 5
 0 75 0 1
+0 316 -1 0
 0 322 -1 0
 0 331 0 1
 0 393 2 0
-0 316 -1 0
 1
 end_operator
 begin_operator
@@ -20436,10 +20436,10 @@ push-end s13 a1 a3 b2 b12
 0
 5
 0 76 0 1
+0 316 -1 0
 0 330 -1 0
 0 331 0 1
 0 393 2 0
-0 316 -1 0
 1
 end_operator
 begin_operator
@@ -20447,10 +20447,10 @@ push-end s13 a1 a3 b2 b13
 0
 5
 0 77 0 1
+0 316 -1 0
 0 323 -1 0
 0 331 0 1
 0 393 2 0
-0 316 -1 0
 1
 end_operator
 begin_operator
@@ -20458,10 +20458,10 @@ push-end s13 a1 a3 b2 b14
 0
 5
 0 78 0 1
+0 316 -1 0
 0 324 -1 0
 0 331 0 1
 0 393 2 0
-0 316 -1 0
 1
 end_operator
 begin_operator
@@ -20469,10 +20469,10 @@ push-end s13 a1 a3 b2 b15
 0
 5
 0 71 0 1
+0 316 -1 0
 0 325 -1 0
 0 331 0 1
 0 393 2 0
-0 316 -1 0
 1
 end_operator
 begin_operator
@@ -20481,8 +20481,8 @@ push-end s13 a1 a3 b2 b2
 331 0
 3
 0 79 0 1
-0 393 2 0
 0 316 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -20490,10 +20490,10 @@ push-end s13 a1 a3 b2 b3
 0
 5
 0 80 0 1
-0 331 0 1
-0 326 -1 0
-0 393 2 0
 0 316 -1 0
+0 326 -1 0
+0 331 0 1
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -20501,10 +20501,10 @@ push-end s13 a1 a3 b2 b4
 0
 5
 0 134 0 1
-0 331 0 1
 0 244 -1 0
-0 393 2 0
 0 316 -1 0
+0 331 0 1
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -20512,10 +20512,10 @@ push-end s13 a1 a3 b2 b5
 0
 5
 0 108 0 1
-0 331 0 1
-0 327 -1 0
-0 393 2 0
 0 316 -1 0
+0 327 -1 0
+0 331 0 1
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -20523,10 +20523,10 @@ push-end s13 a1 a3 b2 b6
 0
 5
 0 129 0 1
+0 316 -1 0
 0 331 0 1
 0 332 -1 0
 0 393 2 0
-0 316 -1 0
 1
 end_operator
 begin_operator
@@ -20534,10 +20534,10 @@ push-end s13 a1 a3 b2 b7
 0
 5
 0 148 0 1
+0 316 -1 0
 0 331 0 1
 0 333 -1 0
 0 393 2 0
-0 316 -1 0
 1
 end_operator
 begin_operator
@@ -20545,10 +20545,10 @@ push-end s13 a1 a3 b2 b8
 0
 5
 0 174 0 1
-0 331 0 1
-0 328 -1 0
-0 393 2 0
 0 316 -1 0
+0 328 -1 0
+0 331 0 1
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -20556,10 +20556,10 @@ push-end s13 a1 a3 b2 b9
 0
 5
 0 199 0 1
+0 316 -1 0
 0 331 0 1
 0 334 -1 0
 0 393 2 0
-0 316 -1 0
 1
 end_operator
 begin_operator
@@ -20567,10 +20567,10 @@ push-end s13 a1 a3 b3 b0
 0
 5
 0 90 0 1
+0 310 -1 0
 0 320 -1 0
 0 326 0 1
 0 393 2 0
-0 310 -1 0
 1
 end_operator
 begin_operator
@@ -20578,10 +20578,10 @@ push-end s13 a1 a3 b3 b1
 0
 5
 0 91 0 1
-0 329 -1 0
-0 326 0 1
-0 393 2 0
 0 310 -1 0
+0 326 0 1
+0 329 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -20589,10 +20589,10 @@ push-end s13 a1 a3 b3 b10
 0
 5
 0 92 0 1
+0 310 -1 0
 0 321 -1 0
 0 326 0 1
 0 393 2 0
-0 310 -1 0
 1
 end_operator
 begin_operator
@@ -20600,10 +20600,10 @@ push-end s13 a1 a3 b3 b11
 0
 5
 0 93 0 1
+0 310 -1 0
 0 322 -1 0
 0 326 0 1
 0 393 2 0
-0 310 -1 0
 1
 end_operator
 begin_operator
@@ -20611,10 +20611,10 @@ push-end s13 a1 a3 b3 b12
 0
 5
 0 94 0 1
-0 330 -1 0
-0 326 0 1
-0 393 2 0
 0 310 -1 0
+0 326 0 1
+0 330 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -20622,10 +20622,10 @@ push-end s13 a1 a3 b3 b13
 0
 5
 0 95 0 1
+0 310 -1 0
 0 323 -1 0
 0 326 0 1
 0 393 2 0
-0 310 -1 0
 1
 end_operator
 begin_operator
@@ -20633,10 +20633,10 @@ push-end s13 a1 a3 b3 b14
 0
 5
 0 96 0 1
+0 310 -1 0
 0 324 -1 0
 0 326 0 1
 0 393 2 0
-0 310 -1 0
 1
 end_operator
 begin_operator
@@ -20644,10 +20644,10 @@ push-end s13 a1 a3 b3 b15
 0
 5
 0 97 0 1
+0 310 -1 0
 0 325 -1 0
 0 326 0 1
 0 393 2 0
-0 310 -1 0
 1
 end_operator
 begin_operator
@@ -20655,10 +20655,10 @@ push-end s13 a1 a3 b3 b2
 0
 5
 0 98 0 1
-0 331 -1 0
-0 326 0 1
-0 393 2 0
 0 310 -1 0
+0 326 0 1
+0 331 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -20667,8 +20667,8 @@ push-end s13 a1 a3 b3 b3
 326 0
 3
 0 89 0 1
-0 393 2 0
 0 310 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -20676,10 +20676,10 @@ push-end s13 a1 a3 b3 b5
 0
 5
 0 99 0 1
+0 310 -1 0
 0 326 0 1
 0 327 -1 0
 0 393 2 0
-0 310 -1 0
 1
 end_operator
 begin_operator
@@ -20687,10 +20687,10 @@ push-end s13 a1 a3 b3 b6
 0
 5
 0 130 0 1
+0 310 -1 0
 0 326 0 1
 0 332 -1 0
 0 393 2 0
-0 310 -1 0
 1
 end_operator
 begin_operator
@@ -20698,10 +20698,10 @@ push-end s13 a1 a3 b3 b7
 0
 5
 0 149 0 1
+0 310 -1 0
 0 326 0 1
 0 333 -1 0
 0 393 2 0
-0 310 -1 0
 1
 end_operator
 begin_operator
@@ -20709,10 +20709,10 @@ push-end s13 a1 a3 b3 b8
 0
 5
 0 175 0 1
+0 310 -1 0
 0 326 0 1
 0 328 -1 0
 0 393 2 0
-0 310 -1 0
 1
 end_operator
 begin_operator
@@ -20720,10 +20720,10 @@ push-end s13 a1 a3 b3 b9
 0
 5
 0 200 0 1
+0 310 -1 0
 0 326 0 1
 0 334 -1 0
 0 393 2 0
-0 310 -1 0
 1
 end_operator
 begin_operator
@@ -20731,10 +20731,10 @@ push-end s13 a1 a3 b4 b1
 0
 5
 0 136 0 1
-0 329 -1 0
-0 244 0 1
-0 393 2 0
 0 242 -1 0
+0 244 0 1
+0 329 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -20742,10 +20742,10 @@ push-end s13 a1 a3 b4 b12
 0
 5
 0 137 0 1
-0 330 -1 0
-0 244 0 1
-0 393 2 0
 0 242 -1 0
+0 244 0 1
+0 330 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -20753,10 +20753,10 @@ push-end s13 a1 a3 b4 b2
 0
 5
 0 138 0 1
-0 331 -1 0
-0 244 0 1
-0 393 2 0
 0 242 -1 0
+0 244 0 1
+0 331 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -20765,8 +20765,8 @@ push-end s13 a1 a3 b4 b4
 244 0
 3
 0 135 0 1
-0 393 2 0
 0 242 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -20774,10 +20774,10 @@ push-end s13 a1 a3 b4 b6
 0
 5
 0 131 0 1
+0 242 -1 0
 0 244 0 1
 0 332 -1 0
 0 393 2 0
-0 242 -1 0
 1
 end_operator
 begin_operator
@@ -20785,10 +20785,10 @@ push-end s13 a1 a3 b4 b7
 0
 5
 0 139 0 1
+0 242 -1 0
 0 244 0 1
 0 333 -1 0
 0 393 2 0
-0 242 -1 0
 1
 end_operator
 begin_operator
@@ -20796,10 +20796,10 @@ push-end s13 a1 a3 b4 b9
 0
 5
 0 201 0 1
+0 242 -1 0
 0 244 0 1
 0 334 -1 0
 0 393 2 0
-0 242 -1 0
 1
 end_operator
 begin_operator
@@ -20807,10 +20807,10 @@ push-end s13 a1 a3 b5 b0
 0
 5
 0 110 0 1
+0 311 -1 0
 0 320 -1 0
 0 327 0 1
 0 393 2 0
-0 311 -1 0
 1
 end_operator
 begin_operator
@@ -20818,10 +20818,10 @@ push-end s13 a1 a3 b5 b1
 0
 5
 0 111 0 1
-0 329 -1 0
-0 327 0 1
-0 393 2 0
 0 311 -1 0
+0 327 0 1
+0 329 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -20829,10 +20829,10 @@ push-end s13 a1 a3 b5 b10
 0
 5
 0 112 0 1
+0 311 -1 0
 0 321 -1 0
 0 327 0 1
 0 393 2 0
-0 311 -1 0
 1
 end_operator
 begin_operator
@@ -20840,10 +20840,10 @@ push-end s13 a1 a3 b5 b11
 0
 5
 0 113 0 1
+0 311 -1 0
 0 322 -1 0
 0 327 0 1
 0 393 2 0
-0 311 -1 0
 1
 end_operator
 begin_operator
@@ -20851,10 +20851,10 @@ push-end s13 a1 a3 b5 b12
 0
 5
 0 114 0 1
-0 330 -1 0
-0 327 0 1
-0 393 2 0
 0 311 -1 0
+0 327 0 1
+0 330 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -20862,10 +20862,10 @@ push-end s13 a1 a3 b5 b13
 0
 5
 0 115 0 1
+0 311 -1 0
 0 323 -1 0
 0 327 0 1
 0 393 2 0
-0 311 -1 0
 1
 end_operator
 begin_operator
@@ -20873,10 +20873,10 @@ push-end s13 a1 a3 b5 b14
 0
 5
 0 116 0 1
+0 311 -1 0
 0 324 -1 0
 0 327 0 1
 0 393 2 0
-0 311 -1 0
 1
 end_operator
 begin_operator
@@ -20884,10 +20884,10 @@ push-end s13 a1 a3 b5 b15
 0
 5
 0 117 0 1
+0 311 -1 0
 0 325 -1 0
 0 327 0 1
 0 393 2 0
-0 311 -1 0
 1
 end_operator
 begin_operator
@@ -20895,10 +20895,10 @@ push-end s13 a1 a3 b5 b2
 0
 5
 0 118 0 1
-0 331 -1 0
-0 327 0 1
-0 393 2 0
 0 311 -1 0
+0 327 0 1
+0 331 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -20906,10 +20906,10 @@ push-end s13 a1 a3 b5 b3
 0
 5
 0 119 0 1
+0 311 -1 0
 0 326 -1 0
 0 327 0 1
 0 393 2 0
-0 311 -1 0
 1
 end_operator
 begin_operator
@@ -20918,8 +20918,8 @@ push-end s13 a1 a3 b5 b5
 327 0
 3
 0 109 0 1
-0 393 2 0
 0 311 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -20927,10 +20927,10 @@ push-end s13 a1 a3 b5 b6
 0
 5
 0 120 0 1
+0 311 -1 0
 0 327 0 1
 0 332 -1 0
 0 393 2 0
-0 311 -1 0
 1
 end_operator
 begin_operator
@@ -20938,10 +20938,10 @@ push-end s13 a1 a3 b5 b7
 0
 5
 0 150 0 1
+0 311 -1 0
 0 327 0 1
 0 333 -1 0
 0 393 2 0
-0 311 -1 0
 1
 end_operator
 begin_operator
@@ -20949,10 +20949,10 @@ push-end s13 a1 a3 b5 b8
 0
 5
 0 176 0 1
+0 311 -1 0
 0 327 0 1
 0 328 -1 0
 0 393 2 0
-0 311 -1 0
 1
 end_operator
 begin_operator
@@ -20960,10 +20960,10 @@ push-end s13 a1 a3 b5 b9
 0
 5
 0 202 0 1
+0 311 -1 0
 0 327 0 1
 0 334 -1 0
 0 393 2 0
-0 311 -1 0
 1
 end_operator
 begin_operator
@@ -20971,10 +20971,10 @@ push-end s13 a1 a3 b6 b0
 0
 5
 0 152 0 1
+0 317 -1 0
 0 320 -1 0
 0 332 0 1
 0 393 2 0
-0 317 -1 0
 1
 end_operator
 begin_operator
@@ -20982,10 +20982,10 @@ push-end s13 a1 a3 b6 b1
 0
 5
 0 153 0 1
+0 317 -1 0
 0 329 -1 0
 0 332 0 1
 0 393 2 0
-0 317 -1 0
 1
 end_operator
 begin_operator
@@ -20993,10 +20993,10 @@ push-end s13 a1 a3 b6 b10
 0
 5
 0 154 0 1
+0 317 -1 0
 0 321 -1 0
 0 332 0 1
 0 393 2 0
-0 317 -1 0
 1
 end_operator
 begin_operator
@@ -21004,10 +21004,10 @@ push-end s13 a1 a3 b6 b11
 0
 5
 0 155 0 1
+0 317 -1 0
 0 322 -1 0
 0 332 0 1
 0 393 2 0
-0 317 -1 0
 1
 end_operator
 begin_operator
@@ -21015,10 +21015,10 @@ push-end s13 a1 a3 b6 b12
 0
 5
 0 156 0 1
+0 317 -1 0
 0 330 -1 0
 0 332 0 1
 0 393 2 0
-0 317 -1 0
 1
 end_operator
 begin_operator
@@ -21026,10 +21026,10 @@ push-end s13 a1 a3 b6 b13
 0
 5
 0 157 0 1
+0 317 -1 0
 0 323 -1 0
 0 332 0 1
 0 393 2 0
-0 317 -1 0
 1
 end_operator
 begin_operator
@@ -21037,10 +21037,10 @@ push-end s13 a1 a3 b6 b14
 0
 5
 0 158 0 1
+0 317 -1 0
 0 324 -1 0
 0 332 0 1
 0 393 2 0
-0 317 -1 0
 1
 end_operator
 begin_operator
@@ -21048,10 +21048,10 @@ push-end s13 a1 a3 b6 b15
 0
 5
 0 159 0 1
+0 317 -1 0
 0 325 -1 0
 0 332 0 1
 0 393 2 0
-0 317 -1 0
 1
 end_operator
 begin_operator
@@ -21059,10 +21059,10 @@ push-end s13 a1 a3 b6 b2
 0
 5
 0 160 0 1
+0 317 -1 0
 0 331 -1 0
 0 332 0 1
 0 393 2 0
-0 317 -1 0
 1
 end_operator
 begin_operator
@@ -21070,10 +21070,10 @@ push-end s13 a1 a3 b6 b3
 0
 5
 0 161 0 1
+0 317 -1 0
 0 326 -1 0
 0 332 0 1
 0 393 2 0
-0 317 -1 0
 1
 end_operator
 begin_operator
@@ -21082,9 +21082,9 @@ push-end s13 a1 a3 b6 b4
 5
 0 162 0 1
 0 244 -1 0
+0 317 -1 0
 0 332 0 1
 0 393 2 0
-0 317 -1 0
 1
 end_operator
 begin_operator
@@ -21092,10 +21092,10 @@ push-end s13 a1 a3 b6 b5
 0
 5
 0 163 0 1
+0 317 -1 0
 0 327 -1 0
 0 332 0 1
 0 393 2 0
-0 317 -1 0
 1
 end_operator
 begin_operator
@@ -21104,8 +21104,8 @@ push-end s13 a1 a3 b6 b6
 332 0
 3
 0 164 0 1
-0 393 2 0
 0 317 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -21113,10 +21113,10 @@ push-end s13 a1 a3 b6 b7
 0
 5
 0 151 0 1
+0 317 -1 0
 0 332 0 1
 0 333 -1 0
 0 393 2 0
-0 317 -1 0
 1
 end_operator
 begin_operator
@@ -21124,10 +21124,10 @@ push-end s13 a1 a3 b6 b8
 0
 5
 0 165 0 1
-0 332 0 1
-0 328 -1 0
-0 393 2 0
 0 317 -1 0
+0 328 -1 0
+0 332 0 1
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -21135,10 +21135,10 @@ push-end s13 a1 a3 b6 b9
 0
 5
 0 203 0 1
+0 317 -1 0
 0 332 0 1
 0 334 -1 0
 0 393 2 0
-0 317 -1 0
 1
 end_operator
 begin_operator
@@ -21146,10 +21146,10 @@ push-end s13 a1 a3 b7 b0
 0
 5
 0 178 0 1
+0 318 -1 0
 0 320 -1 0
 0 333 0 1
 0 393 2 0
-0 318 -1 0
 1
 end_operator
 begin_operator
@@ -21157,10 +21157,10 @@ push-end s13 a1 a3 b7 b1
 0
 5
 0 179 0 1
+0 318 -1 0
 0 329 -1 0
 0 333 0 1
 0 393 2 0
-0 318 -1 0
 1
 end_operator
 begin_operator
@@ -21168,10 +21168,10 @@ push-end s13 a1 a3 b7 b10
 0
 5
 0 180 0 1
+0 318 -1 0
 0 321 -1 0
 0 333 0 1
 0 393 2 0
-0 318 -1 0
 1
 end_operator
 begin_operator
@@ -21179,10 +21179,10 @@ push-end s13 a1 a3 b7 b11
 0
 5
 0 181 0 1
+0 318 -1 0
 0 322 -1 0
 0 333 0 1
 0 393 2 0
-0 318 -1 0
 1
 end_operator
 begin_operator
@@ -21190,10 +21190,10 @@ push-end s13 a1 a3 b7 b12
 0
 5
 0 182 0 1
+0 318 -1 0
 0 330 -1 0
 0 333 0 1
 0 393 2 0
-0 318 -1 0
 1
 end_operator
 begin_operator
@@ -21201,10 +21201,10 @@ push-end s13 a1 a3 b7 b13
 0
 5
 0 183 0 1
+0 318 -1 0
 0 323 -1 0
 0 333 0 1
 0 393 2 0
-0 318 -1 0
 1
 end_operator
 begin_operator
@@ -21212,10 +21212,10 @@ push-end s13 a1 a3 b7 b14
 0
 5
 0 184 0 1
+0 318 -1 0
 0 324 -1 0
 0 333 0 1
 0 393 2 0
-0 318 -1 0
 1
 end_operator
 begin_operator
@@ -21223,10 +21223,10 @@ push-end s13 a1 a3 b7 b15
 0
 5
 0 185 0 1
+0 318 -1 0
 0 325 -1 0
 0 333 0 1
 0 393 2 0
-0 318 -1 0
 1
 end_operator
 begin_operator
@@ -21234,10 +21234,10 @@ push-end s13 a1 a3 b7 b2
 0
 5
 0 186 0 1
+0 318 -1 0
 0 331 -1 0
 0 333 0 1
 0 393 2 0
-0 318 -1 0
 1
 end_operator
 begin_operator
@@ -21245,10 +21245,10 @@ push-end s13 a1 a3 b7 b3
 0
 5
 0 187 0 1
+0 318 -1 0
 0 326 -1 0
 0 333 0 1
 0 393 2 0
-0 318 -1 0
 1
 end_operator
 begin_operator
@@ -21257,9 +21257,9 @@ push-end s13 a1 a3 b7 b4
 5
 0 188 0 1
 0 244 -1 0
+0 318 -1 0
 0 333 0 1
 0 393 2 0
-0 318 -1 0
 1
 end_operator
 begin_operator
@@ -21267,10 +21267,10 @@ push-end s13 a1 a3 b7 b5
 0
 5
 0 189 0 1
+0 318 -1 0
 0 327 -1 0
 0 333 0 1
 0 393 2 0
-0 318 -1 0
 1
 end_operator
 begin_operator
@@ -21278,10 +21278,10 @@ push-end s13 a1 a3 b7 b6
 0
 5
 0 190 0 1
+0 318 -1 0
 0 332 -1 0
 0 333 0 1
 0 393 2 0
-0 318 -1 0
 1
 end_operator
 begin_operator
@@ -21290,8 +21290,8 @@ push-end s13 a1 a3 b7 b7
 333 0
 3
 0 191 0 1
-0 393 2 0
 0 318 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -21299,10 +21299,10 @@ push-end s13 a1 a3 b7 b8
 0
 5
 0 177 0 1
-0 333 0 1
-0 328 -1 0
-0 393 2 0
 0 318 -1 0
+0 328 -1 0
+0 333 0 1
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -21310,10 +21310,10 @@ push-end s13 a1 a3 b7 b9
 0
 5
 0 192 0 1
+0 318 -1 0
 0 333 0 1
 0 334 -1 0
 0 393 2 0
-0 318 -1 0
 1
 end_operator
 begin_operator
@@ -21321,10 +21321,10 @@ push-end s13 a1 a3 b8 b0
 0
 5
 0 205 0 1
+0 312 -1 0
 0 320 -1 0
 0 328 0 1
 0 393 2 0
-0 312 -1 0
 1
 end_operator
 begin_operator
@@ -21332,10 +21332,10 @@ push-end s13 a1 a3 b8 b1
 0
 5
 0 206 0 1
-0 329 -1 0
-0 328 0 1
-0 393 2 0
 0 312 -1 0
+0 328 0 1
+0 329 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -21343,10 +21343,10 @@ push-end s13 a1 a3 b8 b10
 0
 5
 0 207 0 1
+0 312 -1 0
 0 321 -1 0
 0 328 0 1
 0 393 2 0
-0 312 -1 0
 1
 end_operator
 begin_operator
@@ -21354,10 +21354,10 @@ push-end s13 a1 a3 b8 b11
 0
 5
 0 208 0 1
+0 312 -1 0
 0 322 -1 0
 0 328 0 1
 0 393 2 0
-0 312 -1 0
 1
 end_operator
 begin_operator
@@ -21365,10 +21365,10 @@ push-end s13 a1 a3 b8 b12
 0
 5
 0 209 0 1
-0 330 -1 0
-0 328 0 1
-0 393 2 0
 0 312 -1 0
+0 328 0 1
+0 330 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -21376,10 +21376,10 @@ push-end s13 a1 a3 b8 b13
 0
 5
 0 210 0 1
+0 312 -1 0
 0 323 -1 0
 0 328 0 1
 0 393 2 0
-0 312 -1 0
 1
 end_operator
 begin_operator
@@ -21387,10 +21387,10 @@ push-end s13 a1 a3 b8 b14
 0
 5
 0 211 0 1
+0 312 -1 0
 0 324 -1 0
 0 328 0 1
 0 393 2 0
-0 312 -1 0
 1
 end_operator
 begin_operator
@@ -21398,10 +21398,10 @@ push-end s13 a1 a3 b8 b15
 0
 5
 0 212 0 1
+0 312 -1 0
 0 325 -1 0
 0 328 0 1
 0 393 2 0
-0 312 -1 0
 1
 end_operator
 begin_operator
@@ -21409,10 +21409,10 @@ push-end s13 a1 a3 b8 b2
 0
 5
 0 213 0 1
-0 331 -1 0
-0 328 0 1
-0 393 2 0
 0 312 -1 0
+0 328 0 1
+0 331 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -21420,10 +21420,10 @@ push-end s13 a1 a3 b8 b3
 0
 5
 0 214 0 1
+0 312 -1 0
 0 326 -1 0
 0 328 0 1
 0 393 2 0
-0 312 -1 0
 1
 end_operator
 begin_operator
@@ -21431,10 +21431,10 @@ push-end s13 a1 a3 b8 b5
 0
 5
 0 215 0 1
+0 312 -1 0
 0 327 -1 0
 0 328 0 1
 0 393 2 0
-0 312 -1 0
 1
 end_operator
 begin_operator
@@ -21442,10 +21442,10 @@ push-end s13 a1 a3 b8 b6
 0
 5
 0 216 0 1
-0 332 -1 0
-0 328 0 1
-0 393 2 0
 0 312 -1 0
+0 328 0 1
+0 332 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -21453,10 +21453,10 @@ push-end s13 a1 a3 b8 b7
 0
 5
 0 217 0 1
-0 333 -1 0
-0 328 0 1
-0 393 2 0
 0 312 -1 0
+0 328 0 1
+0 333 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -21465,8 +21465,8 @@ push-end s13 a1 a3 b8 b8
 328 0
 3
 0 218 0 1
-0 393 2 0
 0 312 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -21474,10 +21474,10 @@ push-end s13 a1 a3 b8 b9
 0
 5
 0 204 0 1
+0 312 -1 0
 0 328 0 1
 0 334 -1 0
 0 393 2 0
-0 312 -1 0
 1
 end_operator
 begin_operator
@@ -21485,10 +21485,10 @@ push-end s13 a1 a3 b9 b0
 0
 5
 0 219 0 1
+0 319 -1 0
 0 320 -1 0
 0 334 0 1
 0 393 2 0
-0 319 -1 0
 1
 end_operator
 begin_operator
@@ -21496,10 +21496,10 @@ push-end s13 a1 a3 b9 b1
 0
 5
 0 220 0 1
+0 319 -1 0
 0 329 -1 0
 0 334 0 1
 0 393 2 0
-0 319 -1 0
 1
 end_operator
 begin_operator
@@ -21507,10 +21507,10 @@ push-end s13 a1 a3 b9 b10
 0
 5
 0 221 0 1
+0 319 -1 0
 0 321 -1 0
 0 334 0 1
 0 393 2 0
-0 319 -1 0
 1
 end_operator
 begin_operator
@@ -21518,10 +21518,10 @@ push-end s13 a1 a3 b9 b11
 0
 5
 0 222 0 1
+0 319 -1 0
 0 322 -1 0
 0 334 0 1
 0 393 2 0
-0 319 -1 0
 1
 end_operator
 begin_operator
@@ -21529,10 +21529,10 @@ push-end s13 a1 a3 b9 b12
 0
 5
 0 223 0 1
+0 319 -1 0
 0 330 -1 0
 0 334 0 1
 0 393 2 0
-0 319 -1 0
 1
 end_operator
 begin_operator
@@ -21540,10 +21540,10 @@ push-end s13 a1 a3 b9 b13
 0
 5
 0 224 0 1
+0 319 -1 0
 0 323 -1 0
 0 334 0 1
 0 393 2 0
-0 319 -1 0
 1
 end_operator
 begin_operator
@@ -21551,10 +21551,10 @@ push-end s13 a1 a3 b9 b14
 0
 5
 0 225 0 1
+0 319 -1 0
 0 324 -1 0
 0 334 0 1
 0 393 2 0
-0 319 -1 0
 1
 end_operator
 begin_operator
@@ -21562,10 +21562,10 @@ push-end s13 a1 a3 b9 b15
 0
 5
 0 226 0 1
+0 319 -1 0
 0 325 -1 0
 0 334 0 1
 0 393 2 0
-0 319 -1 0
 1
 end_operator
 begin_operator
@@ -21573,10 +21573,10 @@ push-end s13 a1 a3 b9 b2
 0
 5
 0 227 0 1
+0 319 -1 0
 0 331 -1 0
 0 334 0 1
 0 393 2 0
-0 319 -1 0
 1
 end_operator
 begin_operator
@@ -21584,10 +21584,10 @@ push-end s13 a1 a3 b9 b3
 0
 5
 0 228 0 1
+0 319 -1 0
 0 326 -1 0
 0 334 0 1
 0 393 2 0
-0 319 -1 0
 1
 end_operator
 begin_operator
@@ -21596,9 +21596,9 @@ push-end s13 a1 a3 b9 b4
 5
 0 229 0 1
 0 244 -1 0
+0 319 -1 0
 0 334 0 1
 0 393 2 0
-0 319 -1 0
 1
 end_operator
 begin_operator
@@ -21606,10 +21606,10 @@ push-end s13 a1 a3 b9 b5
 0
 5
 0 230 0 1
+0 319 -1 0
 0 327 -1 0
 0 334 0 1
 0 393 2 0
-0 319 -1 0
 1
 end_operator
 begin_operator
@@ -21617,10 +21617,10 @@ push-end s13 a1 a3 b9 b6
 0
 5
 0 231 0 1
+0 319 -1 0
 0 332 -1 0
 0 334 0 1
 0 393 2 0
-0 319 -1 0
 1
 end_operator
 begin_operator
@@ -21628,10 +21628,10 @@ push-end s13 a1 a3 b9 b7
 0
 5
 0 232 0 1
+0 319 -1 0
 0 333 -1 0
 0 334 0 1
 0 393 2 0
-0 319 -1 0
 1
 end_operator
 begin_operator
@@ -21639,10 +21639,10 @@ push-end s13 a1 a3 b9 b8
 0
 5
 0 233 0 1
+0 319 -1 0
 0 328 -1 0
 0 334 0 1
 0 393 2 0
-0 319 -1 0
 1
 end_operator
 begin_operator
@@ -21651,8 +21651,8 @@ push-end s13 a1 a3 b9 b9
 334 0
 3
 0 234 0 1
-0 393 2 0
 0 319 -1 0
+0 393 2 0
 1
 end_operator
 begin_operator
@@ -21661,173 +21661,173 @@ push-start s12 b0 a1 a2 b0 oc1b oc1b
 350 0
 3
 0 3 -1 0
-0 390 0 2
 0 351 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b0 a1 a2 b1 oc1b gasoleo
 0
 5
-0 350 -1 0
-0 376 0 1
 0 7 -1 0
-0 390 0 2
+0 350 -1 0
 0 351 0 1
+0 376 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b0 a1 a2 b10 oc1b oc1b
 0
 5
-0 350 -1 0
-0 353 0 1
 0 12 -1 0
-0 390 0 2
+0 350 -1 0
 0 351 0 1
+0 353 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b0 a1 a2 b11 oc1b oc1b
 0
 5
-0 350 -1 0
-0 356 0 1
 0 13 -1 0
-0 390 0 2
+0 350 -1 0
 0 351 0 1
+0 356 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b0 a1 a2 b12 oc1b lco
 0
 5
-0 350 -1 0
-0 377 0 1
 0 28 -1 0
-0 390 0 2
+0 350 -1 0
 0 351 0 1
+0 377 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b0 a1 a2 b13 oc1b oc1b
 0
 5
-0 350 -1 0
-0 359 0 1
 0 33 -1 0
-0 390 0 2
+0 350 -1 0
 0 351 0 1
+0 359 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b0 a1 a2 b14 oc1b oca1
 0
 5
-0 350 -1 0
-0 362 0 1
 0 40 -1 0
-0 390 0 2
+0 350 -1 0
 0 351 0 1
+0 362 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b0 a1 a2 b15 oc1b oc1b
 0
 5
-0 350 -1 0
-0 365 0 1
 0 59 -1 0
-0 390 0 2
+0 350 -1 0
 0 351 0 1
+0 365 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b0 a1 a2 b2 oc1b lco
 0
 5
-0 350 -1 0
-0 378 0 1
 0 72 -1 0
-0 390 0 2
+0 350 -1 0
 0 351 0 1
+0 378 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b0 a1 a2 b3 oc1b oc1b
 0
 5
-0 350 -1 0
-0 366 0 1
 0 90 -1 0
-0 390 0 2
+0 350 -1 0
 0 351 0 1
+0 366 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b0 a1 a2 b5 oc1b oc1b
 0
 5
-0 350 -1 0
-0 367 0 1
 0 110 -1 0
-0 390 0 2
+0 350 -1 0
 0 351 0 1
+0 367 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b0 a1 a2 b6 oc1b gasoleo
 0
 5
-0 350 -1 0
-0 379 0 1
 0 152 -1 0
-0 390 0 2
+0 350 -1 0
 0 351 0 1
+0 379 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b0 a1 a2 b7 oc1b gasoleo
 0
 5
-0 350 -1 0
-0 380 0 1
 0 178 -1 0
-0 390 0 2
+0 350 -1 0
 0 351 0 1
+0 380 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b0 a1 a2 b8 oc1b oc1b
 0
 5
-0 350 -1 0
-0 368 0 1
 0 205 -1 0
-0 390 0 2
+0 350 -1 0
 0 351 0 1
+0 368 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b0 a1 a2 b9 oc1b lco
 0
 5
-0 350 -1 0
-0 381 0 1
 0 219 -1 0
-0 390 0 2
+0 350 -1 0
 0 351 0 1
+0 381 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b1 a1 a2 b0 gasoleo oc1b
 0
 5
+0 2 -1 0
 0 350 0 1
 0 376 -1 0
-0 2 -1 0
-0 390 0 2
 0 382 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
@@ -21836,184 +21836,184 @@ push-start s12 b1 a1 a2 b1 gasoleo gasoleo
 376 0
 3
 0 16 -1 0
-0 390 0 2
 0 382 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b1 a1 a2 b10 gasoleo oc1b
 0
 5
-0 376 -1 0
-0 353 0 1
 0 15 -1 0
-0 390 0 2
+0 353 0 1
+0 376 -1 0
 0 382 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b1 a1 a2 b11 gasoleo oc1b
 0
 5
-0 376 -1 0
-0 356 0 1
 0 24 -1 0
-0 390 0 2
+0 356 0 1
+0 376 -1 0
 0 382 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b1 a1 a2 b12 gasoleo lco
 0
 5
+0 29 -1 0
 0 376 -1 0
 0 377 0 1
-0 29 -1 0
-0 390 0 2
 0 382 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b1 a1 a2 b13 gasoleo oc1b
 0
 5
-0 376 -1 0
-0 359 0 1
 0 34 -1 0
-0 390 0 2
+0 359 0 1
+0 376 -1 0
 0 382 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b1 a1 a2 b14 gasoleo oca1
 0
 5
-0 376 -1 0
-0 362 0 1
 0 41 -1 0
-0 390 0 2
+0 362 0 1
+0 376 -1 0
 0 382 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b1 a1 a2 b15 gasoleo oc1b
 0
 5
-0 376 -1 0
-0 365 0 1
 0 60 -1 0
-0 390 0 2
+0 365 0 1
+0 376 -1 0
 0 382 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b1 a1 a2 b2 gasoleo lco
 0
 5
+0 73 -1 0
 0 376 -1 0
 0 378 0 1
-0 73 -1 0
-0 390 0 2
 0 382 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b1 a1 a2 b3 gasoleo oc1b
 0
 5
-0 376 -1 0
-0 366 0 1
 0 91 -1 0
-0 390 0 2
+0 366 0 1
+0 376 -1 0
 0 382 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b1 a1 a2 b4 gasoleo rat-a
 0
 5
-0 376 -1 0
-0 259 0 1
 0 136 -1 0
-0 390 0 2
+0 259 0 1
+0 376 -1 0
 0 382 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b1 a1 a2 b5 gasoleo oc1b
 0
 5
-0 376 -1 0
-0 367 0 1
 0 111 -1 0
-0 390 0 2
+0 367 0 1
+0 376 -1 0
 0 382 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b1 a1 a2 b6 gasoleo gasoleo
 0
 5
+0 153 -1 0
 0 376 -1 0
 0 379 0 1
-0 153 -1 0
-0 390 0 2
 0 382 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b1 a1 a2 b7 gasoleo gasoleo
 0
 5
+0 179 -1 0
 0 376 -1 0
 0 380 0 1
-0 179 -1 0
-0 390 0 2
 0 382 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b1 a1 a2 b8 gasoleo oc1b
 0
 5
-0 376 -1 0
-0 368 0 1
 0 206 -1 0
-0 390 0 2
+0 368 0 1
+0 376 -1 0
 0 382 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b1 a1 a2 b9 gasoleo lco
 0
 5
+0 220 -1 0
 0 376 -1 0
 0 381 0 1
-0 220 -1 0
-0 390 0 2
 0 382 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b10 a1 a2 b0 oc1b oc1b
 0
 5
+0 4 -1 0
 0 350 0 1
 0 353 -1 0
-0 4 -1 0
-0 390 0 2
 0 354 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b10 a1 a2 b1 oc1b gasoleo
 0
 5
-0 376 0 1
-0 353 -1 0
 0 11 -1 0
-0 390 0 2
+0 353 -1 0
 0 354 0 1
+0 376 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
@@ -22022,173 +22022,173 @@ push-start s12 b10 a1 a2 b10 oc1b oc1b
 353 0
 3
 0 26 -1 0
-0 390 0 2
 0 354 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b10 a1 a2 b11 oc1b oc1b
 0
 5
-0 353 -1 0
-0 356 0 1
 0 25 -1 0
-0 390 0 2
+0 353 -1 0
 0 354 0 1
+0 356 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b10 a1 a2 b12 oc1b lco
 0
 5
-0 353 -1 0
-0 377 0 1
 0 27 -1 0
-0 390 0 2
+0 353 -1 0
 0 354 0 1
+0 377 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b10 a1 a2 b13 oc1b oc1b
 0
 5
-0 353 -1 0
-0 359 0 1
 0 35 -1 0
-0 390 0 2
+0 353 -1 0
 0 354 0 1
+0 359 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b10 a1 a2 b14 oc1b oca1
 0
 5
-0 353 -1 0
-0 362 0 1
 0 42 -1 0
-0 390 0 2
+0 353 -1 0
 0 354 0 1
+0 362 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b10 a1 a2 b15 oc1b oc1b
 0
 5
-0 353 -1 0
-0 365 0 1
 0 61 -1 0
-0 390 0 2
+0 353 -1 0
 0 354 0 1
+0 365 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b10 a1 a2 b2 oc1b lco
 0
 5
-0 353 -1 0
-0 378 0 1
 0 74 -1 0
-0 390 0 2
+0 353 -1 0
 0 354 0 1
+0 378 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b10 a1 a2 b3 oc1b oc1b
 0
 5
-0 353 -1 0
-0 366 0 1
 0 92 -1 0
-0 390 0 2
+0 353 -1 0
 0 354 0 1
+0 366 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b10 a1 a2 b5 oc1b oc1b
 0
 5
-0 353 -1 0
-0 367 0 1
 0 112 -1 0
-0 390 0 2
+0 353 -1 0
 0 354 0 1
+0 367 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b10 a1 a2 b6 oc1b gasoleo
 0
 5
-0 353 -1 0
-0 379 0 1
 0 154 -1 0
-0 390 0 2
+0 353 -1 0
 0 354 0 1
+0 379 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b10 a1 a2 b7 oc1b gasoleo
 0
 5
-0 353 -1 0
-0 380 0 1
 0 180 -1 0
-0 390 0 2
+0 353 -1 0
 0 354 0 1
+0 380 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b10 a1 a2 b8 oc1b oc1b
 0
 5
-0 353 -1 0
-0 368 0 1
 0 207 -1 0
-0 390 0 2
+0 353 -1 0
 0 354 0 1
+0 368 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b10 a1 a2 b9 oc1b lco
 0
 5
-0 353 -1 0
-0 381 0 1
 0 221 -1 0
-0 390 0 2
+0 353 -1 0
 0 354 0 1
+0 381 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b11 a1 a2 b0 oc1b oc1b
 0
 5
+0 5 -1 0
 0 350 0 1
 0 356 -1 0
-0 5 -1 0
-0 390 0 2
 0 357 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b11 a1 a2 b1 oc1b gasoleo
 0
 5
-0 376 0 1
-0 356 -1 0
 0 6 -1 0
-0 390 0 2
+0 356 -1 0
 0 357 0 1
+0 376 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b11 a1 a2 b10 oc1b oc1b
 0
 5
+0 14 -1 0
 0 353 0 1
 0 356 -1 0
-0 14 -1 0
-0 390 0 2
 0 357 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
@@ -22197,173 +22197,173 @@ push-start s12 b11 a1 a2 b11 oc1b oc1b
 356 0
 3
 0 31 -1 0
-0 390 0 2
 0 357 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b11 a1 a2 b12 oc1b lco
 0
 5
-0 356 -1 0
-0 377 0 1
 0 30 -1 0
-0 390 0 2
+0 356 -1 0
 0 357 0 1
+0 377 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b11 a1 a2 b13 oc1b oc1b
 0
 5
-0 356 -1 0
-0 359 0 1
 0 32 -1 0
-0 390 0 2
+0 356 -1 0
 0 357 0 1
+0 359 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b11 a1 a2 b14 oc1b oca1
 0
 5
-0 356 -1 0
-0 362 0 1
 0 43 -1 0
-0 390 0 2
+0 356 -1 0
 0 357 0 1
+0 362 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b11 a1 a2 b15 oc1b oc1b
 0
 5
-0 356 -1 0
-0 365 0 1
 0 62 -1 0
-0 390 0 2
+0 356 -1 0
 0 357 0 1
+0 365 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b11 a1 a2 b2 oc1b lco
 0
 5
-0 356 -1 0
-0 378 0 1
 0 75 -1 0
-0 390 0 2
+0 356 -1 0
 0 357 0 1
+0 378 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b11 a1 a2 b3 oc1b oc1b
 0
 5
-0 356 -1 0
-0 366 0 1
 0 93 -1 0
-0 390 0 2
+0 356 -1 0
 0 357 0 1
+0 366 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b11 a1 a2 b5 oc1b oc1b
 0
 5
-0 356 -1 0
-0 367 0 1
 0 113 -1 0
-0 390 0 2
+0 356 -1 0
 0 357 0 1
+0 367 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b11 a1 a2 b6 oc1b gasoleo
 0
 5
-0 356 -1 0
-0 379 0 1
 0 155 -1 0
-0 390 0 2
+0 356 -1 0
 0 357 0 1
+0 379 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b11 a1 a2 b7 oc1b gasoleo
 0
 5
-0 356 -1 0
-0 380 0 1
 0 181 -1 0
-0 390 0 2
+0 356 -1 0
 0 357 0 1
+0 380 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b11 a1 a2 b8 oc1b oc1b
 0
 5
-0 356 -1 0
-0 368 0 1
 0 208 -1 0
-0 390 0 2
+0 356 -1 0
 0 357 0 1
+0 368 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b11 a1 a2 b9 oc1b lco
 0
 5
-0 356 -1 0
-0 381 0 1
 0 222 -1 0
-0 390 0 2
+0 356 -1 0
 0 357 0 1
+0 381 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b12 a1 a2 b0 lco oc1b
 0
 5
+0 8 -1 0
 0 350 0 1
 0 377 -1 0
-0 8 -1 0
-0 390 0 2
 0 384 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b12 a1 a2 b1 lco gasoleo
 0
 5
+0 9 -1 0
 0 376 0 1
 0 377 -1 0
-0 9 -1 0
-0 390 0 2
 0 384 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b12 a1 a2 b10 lco oc1b
 0
 5
+0 10 -1 0
 0 353 0 1
 0 377 -1 0
-0 10 -1 0
-0 390 0 2
 0 384 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b12 a1 a2 b11 lco oc1b
 0
 5
+0 37 -1 0
 0 356 0 1
 0 377 -1 0
-0 37 -1 0
-0 390 0 2
 0 384 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
@@ -22372,184 +22372,184 @@ push-start s12 b12 a1 a2 b12 lco lco
 377 0
 3
 0 38 -1 0
-0 390 0 2
 0 384 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b12 a1 a2 b13 lco oc1b
 0
 5
-0 377 -1 0
-0 359 0 1
 0 36 -1 0
-0 390 0 2
+0 359 0 1
+0 377 -1 0
 0 384 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b12 a1 a2 b14 lco oca1
 0
 5
-0 377 -1 0
-0 362 0 1
 0 39 -1 0
-0 390 0 2
+0 362 0 1
+0 377 -1 0
 0 384 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b12 a1 a2 b15 lco oc1b
 0
 5
-0 377 -1 0
-0 365 0 1
 0 63 -1 0
-0 390 0 2
+0 365 0 1
+0 377 -1 0
 0 384 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b12 a1 a2 b2 lco lco
 0
 5
+0 76 -1 0
 0 377 -1 0
 0 378 0 1
-0 76 -1 0
-0 390 0 2
 0 384 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b12 a1 a2 b3 lco oc1b
 0
 5
-0 377 -1 0
-0 366 0 1
 0 94 -1 0
-0 390 0 2
+0 366 0 1
+0 377 -1 0
 0 384 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b12 a1 a2 b4 lco rat-a
 0
 5
-0 377 -1 0
-0 259 0 1
 0 137 -1 0
-0 390 0 2
+0 259 0 1
+0 377 -1 0
 0 384 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b12 a1 a2 b5 lco oc1b
 0
 5
-0 377 -1 0
-0 367 0 1
 0 114 -1 0
-0 390 0 2
+0 367 0 1
+0 377 -1 0
 0 384 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b12 a1 a2 b6 lco gasoleo
 0
 5
+0 156 -1 0
 0 377 -1 0
 0 379 0 1
-0 156 -1 0
-0 390 0 2
 0 384 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b12 a1 a2 b7 lco gasoleo
 0
 5
+0 182 -1 0
 0 377 -1 0
 0 380 0 1
-0 182 -1 0
-0 390 0 2
 0 384 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b12 a1 a2 b8 lco oc1b
 0
 5
-0 377 -1 0
-0 368 0 1
 0 209 -1 0
-0 390 0 2
+0 368 0 1
+0 377 -1 0
 0 384 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b12 a1 a2 b9 lco lco
 0
 5
+0 223 -1 0
 0 377 -1 0
 0 381 0 1
-0 223 -1 0
-0 390 0 2
 0 384 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b13 a1 a2 b0 oc1b oc1b
 0
 5
+0 18 -1 0
 0 350 0 1
 0 359 -1 0
-0 18 -1 0
-0 390 0 2
 0 360 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b13 a1 a2 b1 oc1b gasoleo
 0
 5
-0 376 0 1
-0 359 -1 0
 0 17 -1 0
-0 390 0 2
+0 359 -1 0
 0 360 0 1
+0 376 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b13 a1 a2 b10 oc1b oc1b
 0
 5
+0 19 -1 0
 0 353 0 1
 0 359 -1 0
-0 19 -1 0
-0 390 0 2
 0 360 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b13 a1 a2 b11 oc1b oc1b
 0
 5
+0 45 -1 0
 0 356 0 1
 0 359 -1 0
-0 45 -1 0
-0 390 0 2
 0 360 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b13 a1 a2 b12 oc1b lco
 0
 5
-0 377 0 1
-0 359 -1 0
 0 46 -1 0
-0 390 0 2
+0 359 -1 0
 0 360 0 1
+0 377 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
@@ -22558,173 +22558,173 @@ push-start s12 b13 a1 a2 b13 oc1b oc1b
 359 0
 3
 0 47 -1 0
-0 390 0 2
 0 360 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b13 a1 a2 b14 oc1b oca1
 0
 5
-0 359 -1 0
-0 362 0 1
 0 44 -1 0
-0 390 0 2
+0 359 -1 0
 0 360 0 1
+0 362 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b13 a1 a2 b15 oc1b oc1b
 0
 5
-0 359 -1 0
-0 365 0 1
 0 48 -1 0
-0 390 0 2
+0 359 -1 0
 0 360 0 1
+0 365 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b13 a1 a2 b2 oc1b lco
 0
 5
-0 359 -1 0
-0 378 0 1
 0 77 -1 0
-0 390 0 2
+0 359 -1 0
 0 360 0 1
+0 378 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b13 a1 a2 b3 oc1b oc1b
 0
 5
-0 359 -1 0
-0 366 0 1
 0 95 -1 0
-0 390 0 2
+0 359 -1 0
 0 360 0 1
+0 366 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b13 a1 a2 b5 oc1b oc1b
 0
 5
-0 359 -1 0
-0 367 0 1
 0 115 -1 0
-0 390 0 2
+0 359 -1 0
 0 360 0 1
+0 367 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b13 a1 a2 b6 oc1b gasoleo
 0
 5
-0 359 -1 0
-0 379 0 1
 0 157 -1 0
-0 390 0 2
+0 359 -1 0
 0 360 0 1
+0 379 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b13 a1 a2 b7 oc1b gasoleo
 0
 5
-0 359 -1 0
-0 380 0 1
 0 183 -1 0
-0 390 0 2
+0 359 -1 0
 0 360 0 1
+0 380 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b13 a1 a2 b8 oc1b oc1b
 0
 5
-0 359 -1 0
-0 368 0 1
 0 210 -1 0
-0 390 0 2
+0 359 -1 0
 0 360 0 1
+0 368 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b13 a1 a2 b9 oc1b lco
 0
 5
-0 359 -1 0
-0 381 0 1
 0 224 -1 0
-0 390 0 2
+0 359 -1 0
 0 360 0 1
+0 381 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b14 a1 a2 b0 oca1 oc1b
 0
 5
+0 20 -1 0
 0 350 0 1
 0 362 -1 0
-0 20 -1 0
-0 390 0 2
 0 363 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b14 a1 a2 b1 oca1 gasoleo
 0
 5
-0 376 0 1
-0 362 -1 0
 0 21 -1 0
-0 390 0 2
+0 362 -1 0
 0 363 0 1
+0 376 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b14 a1 a2 b10 oca1 oc1b
 0
 5
+0 22 -1 0
 0 353 0 1
 0 362 -1 0
-0 22 -1 0
-0 390 0 2
 0 363 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b14 a1 a2 b11 oca1 oc1b
 0
 5
+0 23 -1 0
 0 356 0 1
 0 362 -1 0
-0 23 -1 0
-0 390 0 2
 0 363 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b14 a1 a2 b12 oca1 lco
 0
 5
-0 377 0 1
-0 362 -1 0
 0 237 -1 0
-0 390 0 2
+0 362 -1 0
 0 363 0 1
+0 377 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b14 a1 a2 b13 oca1 oc1b
 0
 5
+0 236 -1 0
 0 359 0 1
 0 362 -1 0
-0 236 -1 0
-0 390 0 2
 0 363 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
@@ -22733,105 +22733,105 @@ push-start s12 b14 a1 a2 b14 oca1 oca1
 362 0
 3
 0 235 -1 0
-0 390 0 2
 0 363 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b14 a1 a2 b15 oca1 oc1b
 0
 5
-0 362 -1 0
-0 365 0 1
 0 64 -1 0
-0 390 0 2
+0 362 -1 0
 0 363 0 1
+0 365 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b14 a1 a2 b2 oca1 lco
 0
 5
-0 362 -1 0
-0 378 0 1
 0 78 -1 0
-0 390 0 2
+0 362 -1 0
 0 363 0 1
+0 378 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b14 a1 a2 b3 oca1 oc1b
 0
 5
-0 362 -1 0
-0 366 0 1
 0 96 -1 0
-0 390 0 2
+0 362 -1 0
 0 363 0 1
+0 366 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b14 a1 a2 b5 oca1 oc1b
 0
 5
-0 362 -1 0
-0 367 0 1
 0 116 -1 0
-0 390 0 2
+0 362 -1 0
 0 363 0 1
+0 367 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b14 a1 a2 b6 oca1 gasoleo
 0
 5
-0 362 -1 0
-0 379 0 1
 0 158 -1 0
-0 390 0 2
+0 362 -1 0
 0 363 0 1
+0 379 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b14 a1 a2 b7 oca1 gasoleo
 0
 5
-0 362 -1 0
-0 380 0 1
 0 184 -1 0
-0 390 0 2
+0 362 -1 0
 0 363 0 1
+0 380 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b14 a1 a2 b8 oca1 oc1b
 0
 5
-0 362 -1 0
-0 368 0 1
 0 211 -1 0
-0 390 0 2
+0 362 -1 0
 0 363 0 1
+0 368 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b14 a1 a2 b9 oca1 lco
 0
 5
-0 362 -1 0
-0 381 0 1
 0 225 -1 0
-0 390 0 2
+0 362 -1 0
 0 363 0 1
+0 381 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b15 a1 a2 b0 oc1b oc1b
 0
 5
+0 49 -1 0
 0 350 0 1
 0 365 -1 0
-0 49 -1 0
 0 390 0 2
 0 398 0 1
 1
@@ -22840,9 +22840,9 @@ begin_operator
 push-start s12 b15 a1 a2 b1 oc1b gasoleo
 0
 5
-0 376 0 1
-0 365 -1 0
 0 50 -1 0
+0 365 -1 0
+0 376 0 1
 0 390 0 2
 0 398 0 1
 1
@@ -22851,9 +22851,9 @@ begin_operator
 push-start s12 b15 a1 a2 b10 oc1b oc1b
 0
 5
+0 66 -1 0
 0 353 0 1
 0 365 -1 0
-0 66 -1 0
 0 390 0 2
 0 398 0 1
 1
@@ -22862,9 +22862,9 @@ begin_operator
 push-start s12 b15 a1 a2 b11 oc1b oc1b
 0
 5
+0 67 -1 0
 0 356 0 1
 0 365 -1 0
-0 67 -1 0
 0 390 0 2
 0 398 0 1
 1
@@ -22873,9 +22873,9 @@ begin_operator
 push-start s12 b15 a1 a2 b12 oc1b lco
 0
 5
-0 377 0 1
-0 365 -1 0
 0 68 -1 0
+0 365 -1 0
+0 377 0 1
 0 390 0 2
 0 398 0 1
 1
@@ -22884,9 +22884,9 @@ begin_operator
 push-start s12 b15 a1 a2 b13 oc1b oc1b
 0
 5
+0 69 -1 0
 0 359 0 1
 0 365 -1 0
-0 69 -1 0
 0 390 0 2
 0 398 0 1
 1
@@ -22895,9 +22895,9 @@ begin_operator
 push-start s12 b15 a1 a2 b14 oc1b oca1
 0
 5
+0 70 -1 0
 0 362 0 1
 0 365 -1 0
-0 70 -1 0
 0 390 0 2
 0 398 0 1
 1
@@ -22916,9 +22916,9 @@ begin_operator
 push-start s12 b15 a1 a2 b2 oc1b lco
 0
 5
+0 71 -1 0
 0 365 -1 0
 0 378 0 1
-0 71 -1 0
 0 390 0 2
 0 398 0 1
 1
@@ -22927,9 +22927,9 @@ begin_operator
 push-start s12 b15 a1 a2 b3 oc1b oc1b
 0
 5
+0 97 -1 0
 0 365 -1 0
 0 366 0 1
-0 97 -1 0
 0 390 0 2
 0 398 0 1
 1
@@ -22938,9 +22938,9 @@ begin_operator
 push-start s12 b15 a1 a2 b5 oc1b oc1b
 0
 5
+0 117 -1 0
 0 365 -1 0
 0 367 0 1
-0 117 -1 0
 0 390 0 2
 0 398 0 1
 1
@@ -22949,9 +22949,9 @@ begin_operator
 push-start s12 b15 a1 a2 b6 oc1b gasoleo
 0
 5
+0 159 -1 0
 0 365 -1 0
 0 379 0 1
-0 159 -1 0
 0 390 0 2
 0 398 0 1
 1
@@ -22960,9 +22960,9 @@ begin_operator
 push-start s12 b15 a1 a2 b7 oc1b gasoleo
 0
 5
+0 185 -1 0
 0 365 -1 0
 0 380 0 1
-0 185 -1 0
 0 390 0 2
 0 398 0 1
 1
@@ -22971,9 +22971,9 @@ begin_operator
 push-start s12 b15 a1 a2 b8 oc1b oc1b
 0
 5
+0 212 -1 0
 0 365 -1 0
 0 368 0 1
-0 212 -1 0
 0 390 0 2
 0 398 0 1
 1
@@ -22982,9 +22982,9 @@ begin_operator
 push-start s12 b15 a1 a2 b9 oc1b lco
 0
 5
+0 226 -1 0
 0 365 -1 0
 0 381 0 1
-0 226 -1 0
 0 390 0 2
 0 398 0 1
 1
@@ -22993,88 +22993,88 @@ begin_operator
 push-start s12 b2 a1 a2 b0 lco oc1b
 0
 5
+0 52 -1 0
 0 350 0 1
 0 378 -1 0
-0 52 -1 0
-0 390 0 2
 0 386 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b2 a1 a2 b1 lco gasoleo
 0
 5
+0 51 -1 0
 0 376 0 1
 0 378 -1 0
-0 51 -1 0
-0 390 0 2
 0 386 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b2 a1 a2 b10 lco oc1b
 0
 5
+0 53 -1 0
 0 353 0 1
 0 378 -1 0
-0 53 -1 0
-0 390 0 2
 0 386 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b2 a1 a2 b11 lco oc1b
 0
 5
+0 54 -1 0
 0 356 0 1
 0 378 -1 0
-0 54 -1 0
-0 390 0 2
 0 386 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b2 a1 a2 b12 lco lco
 0
 5
+0 55 -1 0
 0 377 0 1
 0 378 -1 0
-0 55 -1 0
-0 390 0 2
 0 386 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b2 a1 a2 b13 lco oc1b
 0
 5
+0 56 -1 0
 0 359 0 1
 0 378 -1 0
-0 56 -1 0
-0 390 0 2
 0 386 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b2 a1 a2 b14 lco oca1
 0
 5
+0 57 -1 0
 0 362 0 1
 0 378 -1 0
-0 57 -1 0
-0 390 0 2
 0 386 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b2 a1 a2 b15 lco oc1b
 0
 5
+0 58 -1 0
 0 365 0 1
 0 378 -1 0
-0 58 -1 0
-0 390 0 2
 0 386 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
@@ -23083,184 +23083,184 @@ push-start s12 b2 a1 a2 b2 lco lco
 378 0
 3
 0 79 -1 0
-0 390 0 2
 0 386 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b2 a1 a2 b3 lco oc1b
 0
 5
-0 378 -1 0
-0 366 0 1
 0 98 -1 0
-0 390 0 2
+0 366 0 1
+0 378 -1 0
 0 386 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b2 a1 a2 b4 lco rat-a
 0
 5
-0 378 -1 0
-0 259 0 1
 0 138 -1 0
-0 390 0 2
+0 259 0 1
+0 378 -1 0
 0 386 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b2 a1 a2 b5 lco oc1b
 0
 5
-0 378 -1 0
-0 367 0 1
 0 118 -1 0
-0 390 0 2
+0 367 0 1
+0 378 -1 0
 0 386 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b2 a1 a2 b6 lco gasoleo
 0
 5
+0 160 -1 0
 0 378 -1 0
 0 379 0 1
-0 160 -1 0
-0 390 0 2
 0 386 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b2 a1 a2 b7 lco gasoleo
 0
 5
+0 186 -1 0
 0 378 -1 0
 0 380 0 1
-0 186 -1 0
-0 390 0 2
 0 386 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b2 a1 a2 b8 lco oc1b
 0
 5
-0 378 -1 0
-0 368 0 1
 0 213 -1 0
-0 390 0 2
+0 368 0 1
+0 378 -1 0
 0 386 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b2 a1 a2 b9 lco lco
 0
 5
+0 227 -1 0
 0 378 -1 0
 0 381 0 1
-0 227 -1 0
-0 390 0 2
 0 386 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b3 a1 a2 b0 oc1b oc1b
 0
 5
+0 81 -1 0
 0 350 0 1
 0 366 -1 0
-0 81 -1 0
-0 390 0 2
 0 369 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b3 a1 a2 b1 oc1b gasoleo
 0
 5
-0 376 0 1
-0 366 -1 0
 0 82 -1 0
-0 390 0 2
+0 366 -1 0
 0 369 0 1
+0 376 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b3 a1 a2 b10 oc1b oc1b
 0
 5
+0 83 -1 0
 0 353 0 1
 0 366 -1 0
-0 83 -1 0
-0 390 0 2
 0 369 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b3 a1 a2 b11 oc1b oc1b
 0
 5
+0 84 -1 0
 0 356 0 1
 0 366 -1 0
-0 84 -1 0
-0 390 0 2
 0 369 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b3 a1 a2 b12 oc1b lco
 0
 5
-0 377 0 1
-0 366 -1 0
 0 85 -1 0
-0 390 0 2
+0 366 -1 0
 0 369 0 1
+0 377 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b3 a1 a2 b13 oc1b oc1b
 0
 5
+0 86 -1 0
 0 359 0 1
 0 366 -1 0
-0 86 -1 0
-0 390 0 2
 0 369 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b3 a1 a2 b14 oc1b oca1
 0
 5
+0 87 -1 0
 0 362 0 1
 0 366 -1 0
-0 87 -1 0
-0 390 0 2
 0 369 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b3 a1 a2 b15 oc1b oc1b
 0
 5
+0 88 -1 0
 0 365 0 1
 0 366 -1 0
-0 88 -1 0
-0 390 0 2
 0 369 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b3 a1 a2 b2 oc1b lco
 0
 5
-0 378 0 1
-0 366 -1 0
 0 80 -1 0
-0 390 0 2
+0 366 -1 0
 0 369 0 1
+0 378 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
@@ -23269,96 +23269,96 @@ push-start s12 b3 a1 a2 b3 oc1b oc1b
 366 0
 3
 0 89 -1 0
-0 390 0 2
 0 369 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b3 a1 a2 b5 oc1b oc1b
 0
 5
+0 119 -1 0
 0 366 -1 0
 0 367 0 1
-0 119 -1 0
-0 390 0 2
 0 369 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b3 a1 a2 b6 oc1b gasoleo
 0
 5
-0 366 -1 0
-0 379 0 1
 0 161 -1 0
-0 390 0 2
+0 366 -1 0
 0 369 0 1
+0 379 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b3 a1 a2 b7 oc1b gasoleo
 0
 5
-0 366 -1 0
-0 380 0 1
 0 187 -1 0
-0 390 0 2
+0 366 -1 0
 0 369 0 1
+0 380 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b3 a1 a2 b8 oc1b oc1b
 0
 5
+0 214 -1 0
 0 366 -1 0
 0 368 0 1
-0 214 -1 0
-0 390 0 2
 0 369 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b3 a1 a2 b9 oc1b lco
 0
 5
-0 366 -1 0
-0 381 0 1
 0 228 -1 0
-0 390 0 2
+0 366 -1 0
 0 369 0 1
+0 381 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b4 a1 a2 b1 rat-a gasoleo
 0
 5
-0 376 0 1
-0 259 -1 0
 0 132 -1 0
-0 390 0 2
+0 259 -1 0
 0 261 0 1
+0 376 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b4 a1 a2 b12 rat-a lco
 0
 5
-0 377 0 1
-0 259 -1 0
 0 133 -1 0
-0 390 0 2
+0 259 -1 0
 0 261 0 1
+0 377 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b4 a1 a2 b2 rat-a lco
 0
 5
-0 378 0 1
-0 259 -1 0
 0 134 -1 0
-0 390 0 2
+0 259 -1 0
 0 261 0 1
+0 378 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
@@ -23367,151 +23367,151 @@ push-start s12 b4 a1 a2 b4 rat-a rat-a
 259 0
 3
 0 135 -1 0
-0 390 0 2
 0 261 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b4 a1 a2 b6 rat-a gasoleo
 0
 5
-0 259 -1 0
-0 379 0 1
 0 162 -1 0
-0 390 0 2
+0 259 -1 0
 0 261 0 1
+0 379 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b4 a1 a2 b7 rat-a gasoleo
 0
 5
-0 259 -1 0
-0 380 0 1
 0 188 -1 0
-0 390 0 2
+0 259 -1 0
 0 261 0 1
+0 380 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b4 a1 a2 b9 rat-a lco
 0
 5
-0 259 -1 0
-0 381 0 1
 0 229 -1 0
-0 390 0 2
+0 259 -1 0
 0 261 0 1
+0 381 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b5 a1 a2 b0 oc1b oc1b
 0
 5
+0 100 -1 0
 0 350 0 1
 0 367 -1 0
-0 100 -1 0
-0 390 0 2
 0 371 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b5 a1 a2 b1 oc1b gasoleo
 0
 5
-0 376 0 1
-0 367 -1 0
 0 101 -1 0
-0 390 0 2
+0 367 -1 0
 0 371 0 1
+0 376 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b5 a1 a2 b10 oc1b oc1b
 0
 5
+0 102 -1 0
 0 353 0 1
 0 367 -1 0
-0 102 -1 0
-0 390 0 2
 0 371 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b5 a1 a2 b11 oc1b oc1b
 0
 5
+0 103 -1 0
 0 356 0 1
 0 367 -1 0
-0 103 -1 0
-0 390 0 2
 0 371 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b5 a1 a2 b12 oc1b lco
 0
 5
-0 377 0 1
-0 367 -1 0
 0 104 -1 0
-0 390 0 2
+0 367 -1 0
 0 371 0 1
+0 377 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b5 a1 a2 b13 oc1b oc1b
 0
 5
+0 105 -1 0
 0 359 0 1
 0 367 -1 0
-0 105 -1 0
-0 390 0 2
 0 371 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b5 a1 a2 b14 oc1b oca1
 0
 5
+0 106 -1 0
 0 362 0 1
 0 367 -1 0
-0 106 -1 0
-0 390 0 2
 0 371 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b5 a1 a2 b15 oc1b oc1b
 0
 5
+0 107 -1 0
 0 365 0 1
 0 367 -1 0
-0 107 -1 0
-0 390 0 2
 0 371 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b5 a1 a2 b2 oc1b lco
 0
 5
-0 378 0 1
-0 367 -1 0
 0 108 -1 0
-0 390 0 2
+0 367 -1 0
 0 371 0 1
+0 378 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b5 a1 a2 b3 oc1b oc1b
 0
 5
+0 99 -1 0
 0 366 0 1
 0 367 -1 0
-0 99 -1 0
-0 390 0 2
 0 371 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
@@ -23520,184 +23520,184 @@ push-start s12 b5 a1 a2 b5 oc1b oc1b
 367 0
 3
 0 109 -1 0
-0 390 0 2
 0 371 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b5 a1 a2 b6 oc1b gasoleo
 0
 5
-0 367 -1 0
-0 379 0 1
 0 163 -1 0
-0 390 0 2
+0 367 -1 0
 0 371 0 1
+0 379 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b5 a1 a2 b7 oc1b gasoleo
 0
 5
-0 367 -1 0
-0 380 0 1
 0 189 -1 0
-0 390 0 2
+0 367 -1 0
 0 371 0 1
+0 380 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b5 a1 a2 b8 oc1b oc1b
 0
 5
+0 215 -1 0
 0 367 -1 0
 0 368 0 1
-0 215 -1 0
-0 390 0 2
 0 371 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b5 a1 a2 b9 oc1b lco
 0
 5
-0 367 -1 0
-0 381 0 1
 0 230 -1 0
-0 390 0 2
+0 367 -1 0
 0 371 0 1
+0 381 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b6 a1 a2 b0 gasoleo oc1b
 0
 5
+0 121 -1 0
 0 350 0 1
 0 379 -1 0
-0 121 -1 0
-0 390 0 2
 0 389 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b6 a1 a2 b1 gasoleo gasoleo
 0
 5
+0 122 -1 0
 0 376 0 1
 0 379 -1 0
-0 122 -1 0
-0 390 0 2
 0 389 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b6 a1 a2 b10 gasoleo oc1b
 0
 5
+0 123 -1 0
 0 353 0 1
 0 379 -1 0
-0 123 -1 0
-0 390 0 2
 0 389 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b6 a1 a2 b11 gasoleo oc1b
 0
 5
+0 124 -1 0
 0 356 0 1
 0 379 -1 0
-0 124 -1 0
-0 390 0 2
 0 389 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b6 a1 a2 b12 gasoleo lco
 0
 5
+0 125 -1 0
 0 377 0 1
 0 379 -1 0
-0 125 -1 0
-0 390 0 2
 0 389 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b6 a1 a2 b13 gasoleo oc1b
 0
 5
+0 126 -1 0
 0 359 0 1
 0 379 -1 0
-0 126 -1 0
-0 390 0 2
 0 389 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b6 a1 a2 b14 gasoleo oca1
 0
 5
+0 127 -1 0
 0 362 0 1
 0 379 -1 0
-0 127 -1 0
-0 390 0 2
 0 389 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b6 a1 a2 b15 gasoleo oc1b
 0
 5
+0 128 -1 0
 0 365 0 1
 0 379 -1 0
-0 128 -1 0
-0 390 0 2
 0 389 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b6 a1 a2 b2 gasoleo lco
 0
 5
+0 129 -1 0
 0 378 0 1
 0 379 -1 0
-0 129 -1 0
-0 390 0 2
 0 389 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b6 a1 a2 b3 gasoleo oc1b
 0
 5
+0 130 -1 0
 0 366 0 1
 0 379 -1 0
-0 130 -1 0
-0 390 0 2
 0 389 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b6 a1 a2 b4 gasoleo rat-a
 0
 5
+0 131 -1 0
 0 259 0 1
 0 379 -1 0
-0 131 -1 0
-0 390 0 2
 0 389 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b6 a1 a2 b5 gasoleo oc1b
 0
 5
+0 120 -1 0
 0 367 0 1
 0 379 -1 0
-0 120 -1 0
-0 390 0 2
 0 389 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
@@ -23706,50 +23706,50 @@ push-start s12 b6 a1 a2 b6 gasoleo gasoleo
 379 0
 3
 0 164 -1 0
-0 390 0 2
 0 389 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b6 a1 a2 b7 gasoleo gasoleo
 0
 5
+0 190 -1 0
 0 379 -1 0
 0 380 0 1
-0 190 -1 0
-0 390 0 2
 0 389 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b6 a1 a2 b8 gasoleo oc1b
 0
 5
-0 379 -1 0
-0 368 0 1
 0 216 -1 0
-0 390 0 2
+0 368 0 1
+0 379 -1 0
 0 389 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b6 a1 a2 b9 gasoleo lco
 0
 5
+0 231 -1 0
 0 379 -1 0
 0 381 0 1
-0 231 -1 0
-0 390 0 2
 0 389 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b7 a1 a2 b0 gasoleo oc1b
 0
 5
+0 140 -1 0
 0 350 0 1
 0 380 -1 0
-0 140 -1 0
 0 390 0 2
 0 391 0 1
 1
@@ -23758,9 +23758,9 @@ begin_operator
 push-start s12 b7 a1 a2 b1 gasoleo gasoleo
 0
 5
+0 141 -1 0
 0 376 0 1
 0 380 -1 0
-0 141 -1 0
 0 390 0 2
 0 391 0 1
 1
@@ -23769,9 +23769,9 @@ begin_operator
 push-start s12 b7 a1 a2 b10 gasoleo oc1b
 0
 5
+0 142 -1 0
 0 353 0 1
 0 380 -1 0
-0 142 -1 0
 0 390 0 2
 0 391 0 1
 1
@@ -23780,9 +23780,9 @@ begin_operator
 push-start s12 b7 a1 a2 b11 gasoleo oc1b
 0
 5
+0 143 -1 0
 0 356 0 1
 0 380 -1 0
-0 143 -1 0
 0 390 0 2
 0 391 0 1
 1
@@ -23791,9 +23791,9 @@ begin_operator
 push-start s12 b7 a1 a2 b12 gasoleo lco
 0
 5
+0 144 -1 0
 0 377 0 1
 0 380 -1 0
-0 144 -1 0
 0 390 0 2
 0 391 0 1
 1
@@ -23802,9 +23802,9 @@ begin_operator
 push-start s12 b7 a1 a2 b13 gasoleo oc1b
 0
 5
+0 145 -1 0
 0 359 0 1
 0 380 -1 0
-0 145 -1 0
 0 390 0 2
 0 391 0 1
 1
@@ -23813,9 +23813,9 @@ begin_operator
 push-start s12 b7 a1 a2 b14 gasoleo oca1
 0
 5
+0 146 -1 0
 0 362 0 1
 0 380 -1 0
-0 146 -1 0
 0 390 0 2
 0 391 0 1
 1
@@ -23824,9 +23824,9 @@ begin_operator
 push-start s12 b7 a1 a2 b15 gasoleo oc1b
 0
 5
+0 147 -1 0
 0 365 0 1
 0 380 -1 0
-0 147 -1 0
 0 390 0 2
 0 391 0 1
 1
@@ -23835,9 +23835,9 @@ begin_operator
 push-start s12 b7 a1 a2 b2 gasoleo lco
 0
 5
+0 148 -1 0
 0 378 0 1
 0 380 -1 0
-0 148 -1 0
 0 390 0 2
 0 391 0 1
 1
@@ -23846,9 +23846,9 @@ begin_operator
 push-start s12 b7 a1 a2 b3 gasoleo oc1b
 0
 5
+0 149 -1 0
 0 366 0 1
 0 380 -1 0
-0 149 -1 0
 0 390 0 2
 0 391 0 1
 1
@@ -23857,9 +23857,9 @@ begin_operator
 push-start s12 b7 a1 a2 b4 gasoleo rat-a
 0
 5
+0 139 -1 0
 0 259 0 1
 0 380 -1 0
-0 139 -1 0
 0 390 0 2
 0 391 0 1
 1
@@ -23868,9 +23868,9 @@ begin_operator
 push-start s12 b7 a1 a2 b5 gasoleo oc1b
 0
 5
+0 150 -1 0
 0 367 0 1
 0 380 -1 0
-0 150 -1 0
 0 390 0 2
 0 391 0 1
 1
@@ -23879,9 +23879,9 @@ begin_operator
 push-start s12 b7 a1 a2 b6 gasoleo gasoleo
 0
 5
+0 151 -1 0
 0 379 0 1
 0 380 -1 0
-0 151 -1 0
 0 390 0 2
 0 391 0 1
 1
@@ -23900,9 +23900,9 @@ begin_operator
 push-start s12 b7 a1 a2 b8 gasoleo oc1b
 0
 5
-0 380 -1 0
-0 368 0 1
 0 217 -1 0
+0 368 0 1
+0 380 -1 0
 0 390 0 2
 0 391 0 1
 1
@@ -23911,9 +23911,9 @@ begin_operator
 push-start s12 b7 a1 a2 b9 gasoleo lco
 0
 5
+0 232 -1 0
 0 380 -1 0
 0 381 0 1
-0 232 -1 0
 0 390 0 2
 0 391 0 1
 1
@@ -23922,143 +23922,143 @@ begin_operator
 push-start s12 b8 a1 a2 b0 oc1b oc1b
 0
 5
+0 166 -1 0
 0 350 0 1
 0 368 -1 0
-0 166 -1 0
-0 390 0 2
 0 373 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b8 a1 a2 b1 oc1b gasoleo
 0
 5
-0 376 0 1
-0 368 -1 0
 0 167 -1 0
-0 390 0 2
+0 368 -1 0
 0 373 0 1
+0 376 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b8 a1 a2 b10 oc1b oc1b
 0
 5
+0 168 -1 0
 0 353 0 1
 0 368 -1 0
-0 168 -1 0
-0 390 0 2
 0 373 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b8 a1 a2 b11 oc1b oc1b
 0
 5
+0 169 -1 0
 0 356 0 1
 0 368 -1 0
-0 169 -1 0
-0 390 0 2
 0 373 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b8 a1 a2 b12 oc1b lco
 0
 5
-0 377 0 1
-0 368 -1 0
 0 170 -1 0
-0 390 0 2
+0 368 -1 0
 0 373 0 1
+0 377 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b8 a1 a2 b13 oc1b oc1b
 0
 5
+0 171 -1 0
 0 359 0 1
 0 368 -1 0
-0 171 -1 0
-0 390 0 2
 0 373 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b8 a1 a2 b14 oc1b oca1
 0
 5
+0 172 -1 0
 0 362 0 1
 0 368 -1 0
-0 172 -1 0
-0 390 0 2
 0 373 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b8 a1 a2 b15 oc1b oc1b
 0
 5
+0 173 -1 0
 0 365 0 1
 0 368 -1 0
-0 173 -1 0
-0 390 0 2
 0 373 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b8 a1 a2 b2 oc1b lco
 0
 5
-0 378 0 1
-0 368 -1 0
 0 174 -1 0
-0 390 0 2
+0 368 -1 0
 0 373 0 1
+0 378 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b8 a1 a2 b3 oc1b oc1b
 0
 5
+0 175 -1 0
 0 366 0 1
 0 368 -1 0
-0 175 -1 0
-0 390 0 2
 0 373 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b8 a1 a2 b5 oc1b oc1b
 0
 5
+0 176 -1 0
 0 367 0 1
 0 368 -1 0
-0 176 -1 0
-0 390 0 2
 0 373 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b8 a1 a2 b6 oc1b gasoleo
 0
 5
-0 379 0 1
-0 368 -1 0
 0 165 -1 0
-0 390 0 2
+0 368 -1 0
 0 373 0 1
+0 379 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b8 a1 a2 b7 oc1b gasoleo
 0
 5
-0 380 0 1
-0 368 -1 0
 0 177 -1 0
-0 390 0 2
+0 368 -1 0
 0 373 0 1
+0 380 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
@@ -24067,28 +24067,28 @@ push-start s12 b8 a1 a2 b8 oc1b oc1b
 368 0
 3
 0 218 -1 0
-0 390 0 2
 0 373 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b8 a1 a2 b9 oc1b lco
 0
 5
-0 368 -1 0
-0 381 0 1
 0 233 -1 0
-0 390 0 2
+0 368 -1 0
 0 373 0 1
+0 381 0 1
+0 390 0 2
 1
 end_operator
 begin_operator
 push-start s12 b9 a1 a2 b0 lco oc1b
 0
 5
+0 0 -1 0
 0 350 0 1
 0 381 -1 0
-0 0 -1 0
 0 390 0 2
 0 399 0 1
 1
@@ -24097,9 +24097,9 @@ begin_operator
 push-start s12 b9 a1 a2 b1 lco gasoleo
 0
 5
+0 1 -1 0
 0 376 0 1
 0 381 -1 0
-0 1 -1 0
 0 390 0 2
 0 399 0 1
 1
@@ -24108,9 +24108,9 @@ begin_operator
 push-start s12 b9 a1 a2 b10 lco oc1b
 0
 5
+0 193 -1 0
 0 353 0 1
 0 381 -1 0
-0 193 -1 0
 0 390 0 2
 0 399 0 1
 1
@@ -24119,9 +24119,9 @@ begin_operator
 push-start s12 b9 a1 a2 b11 lco oc1b
 0
 5
+0 194 -1 0
 0 356 0 1
 0 381 -1 0
-0 194 -1 0
 0 390 0 2
 0 399 0 1
 1
@@ -24130,9 +24130,9 @@ begin_operator
 push-start s12 b9 a1 a2 b12 lco lco
 0
 5
+0 195 -1 0
 0 377 0 1
 0 381 -1 0
-0 195 -1 0
 0 390 0 2
 0 399 0 1
 1
@@ -24141,9 +24141,9 @@ begin_operator
 push-start s12 b9 a1 a2 b13 lco oc1b
 0
 5
+0 196 -1 0
 0 359 0 1
 0 381 -1 0
-0 196 -1 0
 0 390 0 2
 0 399 0 1
 1
@@ -24152,9 +24152,9 @@ begin_operator
 push-start s12 b9 a1 a2 b14 lco oca1
 0
 5
+0 197 -1 0
 0 362 0 1
 0 381 -1 0
-0 197 -1 0
 0 390 0 2
 0 399 0 1
 1
@@ -24163,9 +24163,9 @@ begin_operator
 push-start s12 b9 a1 a2 b15 lco oc1b
 0
 5
+0 198 -1 0
 0 365 0 1
 0 381 -1 0
-0 198 -1 0
 0 390 0 2
 0 399 0 1
 1
@@ -24174,9 +24174,9 @@ begin_operator
 push-start s12 b9 a1 a2 b2 lco lco
 0
 5
+0 199 -1 0
 0 378 0 1
 0 381 -1 0
-0 199 -1 0
 0 390 0 2
 0 399 0 1
 1
@@ -24185,9 +24185,9 @@ begin_operator
 push-start s12 b9 a1 a2 b3 lco oc1b
 0
 5
+0 200 -1 0
 0 366 0 1
 0 381 -1 0
-0 200 -1 0
 0 390 0 2
 0 399 0 1
 1
@@ -24196,9 +24196,9 @@ begin_operator
 push-start s12 b9 a1 a2 b4 lco rat-a
 0
 5
+0 201 -1 0
 0 259 0 1
 0 381 -1 0
-0 201 -1 0
 0 390 0 2
 0 399 0 1
 1
@@ -24207,9 +24207,9 @@ begin_operator
 push-start s12 b9 a1 a2 b5 lco oc1b
 0
 5
+0 202 -1 0
 0 367 0 1
 0 381 -1 0
-0 202 -1 0
 0 390 0 2
 0 399 0 1
 1
@@ -24218,9 +24218,9 @@ begin_operator
 push-start s12 b9 a1 a2 b6 lco gasoleo
 0
 5
+0 203 -1 0
 0 379 0 1
 0 381 -1 0
-0 203 -1 0
 0 390 0 2
 0 399 0 1
 1
@@ -24229,9 +24229,9 @@ begin_operator
 push-start s12 b9 a1 a2 b7 lco gasoleo
 0
 5
+0 192 -1 0
 0 380 0 1
 0 381 -1 0
-0 192 -1 0
 0 390 0 2
 0 399 0 1
 1
@@ -24240,9 +24240,9 @@ begin_operator
 push-start s12 b9 a1 a2 b8 lco oc1b
 0
 5
+0 204 -1 0
 0 368 0 1
 0 381 -1 0
-0 204 -1 0
 0 390 0 2
 0 399 0 1
 1
@@ -24263,173 +24263,173 @@ push-start s13 b0 a1 a3 b0 oc1b oc1b
 352 0
 3
 0 3 -1 0
-0 393 0 2
 0 351 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b0 a1 a3 b1 oc1b gasoleo
 0
 5
+0 7 -1 0
+0 351 0 1
 0 352 -1 0
 0 383 0 1
-0 7 -1 0
 0 393 0 2
-0 351 0 1
 1
 end_operator
 begin_operator
 push-start s13 b0 a1 a3 b10 oc1b oc1b
 0
 5
+0 12 -1 0
+0 351 0 1
 0 352 -1 0
 0 355 0 1
-0 12 -1 0
 0 393 0 2
-0 351 0 1
 1
 end_operator
 begin_operator
 push-start s13 b0 a1 a3 b11 oc1b oc1b
 0
 5
+0 13 -1 0
+0 351 0 1
 0 352 -1 0
 0 358 0 1
-0 13 -1 0
 0 393 0 2
-0 351 0 1
 1
 end_operator
 begin_operator
 push-start s13 b0 a1 a3 b12 oc1b lco
 0
 5
+0 28 -1 0
+0 351 0 1
 0 352 -1 0
 0 385 0 1
-0 28 -1 0
 0 393 0 2
-0 351 0 1
 1
 end_operator
 begin_operator
 push-start s13 b0 a1 a3 b13 oc1b oc1b
 0
 5
+0 33 -1 0
+0 351 0 1
 0 352 -1 0
 0 361 0 1
-0 33 -1 0
 0 393 0 2
-0 351 0 1
 1
 end_operator
 begin_operator
 push-start s13 b0 a1 a3 b14 oc1b oca1
 0
 5
+0 40 -1 0
+0 351 0 1
 0 352 -1 0
 0 364 0 1
-0 40 -1 0
 0 393 0 2
-0 351 0 1
 1
 end_operator
 begin_operator
 push-start s13 b0 a1 a3 b15 oc1b oc1b
 0
 5
+0 59 -1 0
+0 351 0 1
 0 352 -1 0
 0 375 0 1
-0 59 -1 0
 0 393 0 2
-0 351 0 1
 1
 end_operator
 begin_operator
 push-start s13 b0 a1 a3 b2 oc1b lco
 0
 5
+0 72 -1 0
+0 351 0 1
 0 352 -1 0
 0 387 0 1
-0 72 -1 0
 0 393 0 2
-0 351 0 1
 1
 end_operator
 begin_operator
 push-start s13 b0 a1 a3 b3 oc1b oc1b
 0
 5
+0 90 -1 0
+0 351 0 1
 0 352 -1 0
 0 370 0 1
-0 90 -1 0
 0 393 0 2
-0 351 0 1
 1
 end_operator
 begin_operator
 push-start s13 b0 a1 a3 b5 oc1b oc1b
 0
 5
+0 110 -1 0
+0 351 0 1
 0 352 -1 0
 0 372 0 1
-0 110 -1 0
 0 393 0 2
-0 351 0 1
 1
 end_operator
 begin_operator
 push-start s13 b0 a1 a3 b6 oc1b gasoleo
 0
 5
+0 152 -1 0
+0 351 0 1
 0 352 -1 0
 0 388 0 1
-0 152 -1 0
 0 393 0 2
-0 351 0 1
 1
 end_operator
 begin_operator
 push-start s13 b0 a1 a3 b7 oc1b gasoleo
 0
 5
+0 178 -1 0
+0 351 0 1
 0 352 -1 0
 0 392 0 1
-0 178 -1 0
 0 393 0 2
-0 351 0 1
 1
 end_operator
 begin_operator
 push-start s13 b0 a1 a3 b8 oc1b oc1b
 0
 5
+0 205 -1 0
+0 351 0 1
 0 352 -1 0
 0 374 0 1
-0 205 -1 0
 0 393 0 2
-0 351 0 1
 1
 end_operator
 begin_operator
 push-start s13 b0 a1 a3 b9 oc1b lco
 0
 5
-0 352 -1 0
-0 394 0 1
 0 219 -1 0
-0 393 0 2
 0 351 0 1
+0 352 -1 0
+0 393 0 2
+0 394 0 1
 1
 end_operator
 begin_operator
 push-start s13 b1 a1 a3 b0 gasoleo oc1b
 0
 5
-0 352 0 1
-0 383 -1 0
 0 2 -1 0
-0 393 0 2
+0 352 0 1
 0 382 0 1
+0 383 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
@@ -24438,184 +24438,184 @@ push-start s13 b1 a1 a3 b1 gasoleo gasoleo
 383 0
 3
 0 16 -1 0
-0 393 0 2
 0 382 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b1 a1 a3 b10 gasoleo oc1b
 0
 5
-0 383 -1 0
-0 355 0 1
 0 15 -1 0
-0 393 0 2
+0 355 0 1
 0 382 0 1
+0 383 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b1 a1 a3 b11 gasoleo oc1b
 0
 5
-0 383 -1 0
-0 358 0 1
 0 24 -1 0
-0 393 0 2
+0 358 0 1
 0 382 0 1
+0 383 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b1 a1 a3 b12 gasoleo lco
 0
 5
+0 29 -1 0
+0 382 0 1
 0 383 -1 0
 0 385 0 1
-0 29 -1 0
 0 393 0 2
-0 382 0 1
 1
 end_operator
 begin_operator
 push-start s13 b1 a1 a3 b13 gasoleo oc1b
 0
 5
-0 383 -1 0
-0 361 0 1
 0 34 -1 0
-0 393 0 2
+0 361 0 1
 0 382 0 1
+0 383 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b1 a1 a3 b14 gasoleo oca1
 0
 5
-0 383 -1 0
-0 364 0 1
 0 41 -1 0
-0 393 0 2
+0 364 0 1
 0 382 0 1
+0 383 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b1 a1 a3 b15 gasoleo oc1b
 0
 5
-0 383 -1 0
-0 375 0 1
 0 60 -1 0
-0 393 0 2
+0 375 0 1
 0 382 0 1
+0 383 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b1 a1 a3 b2 gasoleo lco
 0
 5
+0 73 -1 0
+0 382 0 1
 0 383 -1 0
 0 387 0 1
-0 73 -1 0
 0 393 0 2
-0 382 0 1
 1
 end_operator
 begin_operator
 push-start s13 b1 a1 a3 b3 gasoleo oc1b
 0
 5
-0 383 -1 0
-0 370 0 1
 0 91 -1 0
-0 393 0 2
+0 370 0 1
 0 382 0 1
+0 383 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b1 a1 a3 b4 gasoleo rat-a
 0
 5
-0 383 -1 0
-0 260 0 1
 0 136 -1 0
-0 393 0 2
+0 260 0 1
 0 382 0 1
+0 383 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b1 a1 a3 b5 gasoleo oc1b
 0
 5
-0 383 -1 0
-0 372 0 1
 0 111 -1 0
-0 393 0 2
+0 372 0 1
 0 382 0 1
+0 383 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b1 a1 a3 b6 gasoleo gasoleo
 0
 5
+0 153 -1 0
+0 382 0 1
 0 383 -1 0
 0 388 0 1
-0 153 -1 0
 0 393 0 2
-0 382 0 1
 1
 end_operator
 begin_operator
 push-start s13 b1 a1 a3 b7 gasoleo gasoleo
 0
 5
+0 179 -1 0
+0 382 0 1
 0 383 -1 0
 0 392 0 1
-0 179 -1 0
 0 393 0 2
-0 382 0 1
 1
 end_operator
 begin_operator
 push-start s13 b1 a1 a3 b8 gasoleo oc1b
 0
 5
-0 383 -1 0
-0 374 0 1
 0 206 -1 0
-0 393 0 2
+0 374 0 1
 0 382 0 1
+0 383 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b1 a1 a3 b9 gasoleo lco
 0
 5
-0 383 -1 0
-0 394 0 1
 0 220 -1 0
-0 393 0 2
 0 382 0 1
+0 383 -1 0
+0 393 0 2
+0 394 0 1
 1
 end_operator
 begin_operator
 push-start s13 b10 a1 a3 b0 oc1b oc1b
 0
 5
-0 352 0 1
-0 355 -1 0
 0 4 -1 0
-0 393 0 2
+0 352 0 1
 0 354 0 1
+0 355 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b10 a1 a3 b1 oc1b gasoleo
 0
 5
-0 383 0 1
-0 355 -1 0
 0 11 -1 0
-0 393 0 2
 0 354 0 1
+0 355 -1 0
+0 383 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
@@ -24624,173 +24624,173 @@ push-start s13 b10 a1 a3 b10 oc1b oc1b
 355 0
 3
 0 26 -1 0
-0 393 0 2
 0 354 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b10 a1 a3 b11 oc1b oc1b
 0
 5
+0 25 -1 0
+0 354 0 1
 0 355 -1 0
 0 358 0 1
-0 25 -1 0
 0 393 0 2
-0 354 0 1
 1
 end_operator
 begin_operator
 push-start s13 b10 a1 a3 b12 oc1b lco
 0
 5
+0 27 -1 0
+0 354 0 1
 0 355 -1 0
 0 385 0 1
-0 27 -1 0
 0 393 0 2
-0 354 0 1
 1
 end_operator
 begin_operator
 push-start s13 b10 a1 a3 b13 oc1b oc1b
 0
 5
+0 35 -1 0
+0 354 0 1
 0 355 -1 0
 0 361 0 1
-0 35 -1 0
 0 393 0 2
-0 354 0 1
 1
 end_operator
 begin_operator
 push-start s13 b10 a1 a3 b14 oc1b oca1
 0
 5
+0 42 -1 0
+0 354 0 1
 0 355 -1 0
 0 364 0 1
-0 42 -1 0
 0 393 0 2
-0 354 0 1
 1
 end_operator
 begin_operator
 push-start s13 b10 a1 a3 b15 oc1b oc1b
 0
 5
+0 61 -1 0
+0 354 0 1
 0 355 -1 0
 0 375 0 1
-0 61 -1 0
 0 393 0 2
-0 354 0 1
 1
 end_operator
 begin_operator
 push-start s13 b10 a1 a3 b2 oc1b lco
 0
 5
+0 74 -1 0
+0 354 0 1
 0 355 -1 0
 0 387 0 1
-0 74 -1 0
 0 393 0 2
-0 354 0 1
 1
 end_operator
 begin_operator
 push-start s13 b10 a1 a3 b3 oc1b oc1b
 0
 5
+0 92 -1 0
+0 354 0 1
 0 355 -1 0
 0 370 0 1
-0 92 -1 0
 0 393 0 2
-0 354 0 1
 1
 end_operator
 begin_operator
 push-start s13 b10 a1 a3 b5 oc1b oc1b
 0
 5
+0 112 -1 0
+0 354 0 1
 0 355 -1 0
 0 372 0 1
-0 112 -1 0
 0 393 0 2
-0 354 0 1
 1
 end_operator
 begin_operator
 push-start s13 b10 a1 a3 b6 oc1b gasoleo
 0
 5
+0 154 -1 0
+0 354 0 1
 0 355 -1 0
 0 388 0 1
-0 154 -1 0
 0 393 0 2
-0 354 0 1
 1
 end_operator
 begin_operator
 push-start s13 b10 a1 a3 b7 oc1b gasoleo
 0
 5
+0 180 -1 0
+0 354 0 1
 0 355 -1 0
 0 392 0 1
-0 180 -1 0
 0 393 0 2
-0 354 0 1
 1
 end_operator
 begin_operator
 push-start s13 b10 a1 a3 b8 oc1b oc1b
 0
 5
+0 207 -1 0
+0 354 0 1
 0 355 -1 0
 0 374 0 1
-0 207 -1 0
 0 393 0 2
-0 354 0 1
 1
 end_operator
 begin_operator
 push-start s13 b10 a1 a3 b9 oc1b lco
 0
 5
-0 355 -1 0
-0 394 0 1
 0 221 -1 0
-0 393 0 2
 0 354 0 1
+0 355 -1 0
+0 393 0 2
+0 394 0 1
 1
 end_operator
 begin_operator
 push-start s13 b11 a1 a3 b0 oc1b oc1b
 0
 5
-0 352 0 1
-0 358 -1 0
 0 5 -1 0
-0 393 0 2
+0 352 0 1
 0 357 0 1
+0 358 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b11 a1 a3 b1 oc1b gasoleo
 0
 5
-0 383 0 1
-0 358 -1 0
 0 6 -1 0
-0 393 0 2
 0 357 0 1
+0 358 -1 0
+0 383 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b11 a1 a3 b10 oc1b oc1b
 0
 5
-0 355 0 1
-0 358 -1 0
 0 14 -1 0
-0 393 0 2
+0 355 0 1
 0 357 0 1
+0 358 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
@@ -24799,173 +24799,173 @@ push-start s13 b11 a1 a3 b11 oc1b oc1b
 358 0
 3
 0 31 -1 0
-0 393 0 2
 0 357 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b11 a1 a3 b12 oc1b lco
 0
 5
+0 30 -1 0
+0 357 0 1
 0 358 -1 0
 0 385 0 1
-0 30 -1 0
 0 393 0 2
-0 357 0 1
 1
 end_operator
 begin_operator
 push-start s13 b11 a1 a3 b13 oc1b oc1b
 0
 5
+0 32 -1 0
+0 357 0 1
 0 358 -1 0
 0 361 0 1
-0 32 -1 0
 0 393 0 2
-0 357 0 1
 1
 end_operator
 begin_operator
 push-start s13 b11 a1 a3 b14 oc1b oca1
 0
 5
+0 43 -1 0
+0 357 0 1
 0 358 -1 0
 0 364 0 1
-0 43 -1 0
 0 393 0 2
-0 357 0 1
 1
 end_operator
 begin_operator
 push-start s13 b11 a1 a3 b15 oc1b oc1b
 0
 5
+0 62 -1 0
+0 357 0 1
 0 358 -1 0
 0 375 0 1
-0 62 -1 0
 0 393 0 2
-0 357 0 1
 1
 end_operator
 begin_operator
 push-start s13 b11 a1 a3 b2 oc1b lco
 0
 5
+0 75 -1 0
+0 357 0 1
 0 358 -1 0
 0 387 0 1
-0 75 -1 0
 0 393 0 2
-0 357 0 1
 1
 end_operator
 begin_operator
 push-start s13 b11 a1 a3 b3 oc1b oc1b
 0
 5
+0 93 -1 0
+0 357 0 1
 0 358 -1 0
 0 370 0 1
-0 93 -1 0
 0 393 0 2
-0 357 0 1
 1
 end_operator
 begin_operator
 push-start s13 b11 a1 a3 b5 oc1b oc1b
 0
 5
+0 113 -1 0
+0 357 0 1
 0 358 -1 0
 0 372 0 1
-0 113 -1 0
 0 393 0 2
-0 357 0 1
 1
 end_operator
 begin_operator
 push-start s13 b11 a1 a3 b6 oc1b gasoleo
 0
 5
+0 155 -1 0
+0 357 0 1
 0 358 -1 0
 0 388 0 1
-0 155 -1 0
 0 393 0 2
-0 357 0 1
 1
 end_operator
 begin_operator
 push-start s13 b11 a1 a3 b7 oc1b gasoleo
 0
 5
+0 181 -1 0
+0 357 0 1
 0 358 -1 0
 0 392 0 1
-0 181 -1 0
 0 393 0 2
-0 357 0 1
 1
 end_operator
 begin_operator
 push-start s13 b11 a1 a3 b8 oc1b oc1b
 0
 5
+0 208 -1 0
+0 357 0 1
 0 358 -1 0
 0 374 0 1
-0 208 -1 0
 0 393 0 2
-0 357 0 1
 1
 end_operator
 begin_operator
 push-start s13 b11 a1 a3 b9 oc1b lco
 0
 5
-0 358 -1 0
-0 394 0 1
 0 222 -1 0
-0 393 0 2
 0 357 0 1
+0 358 -1 0
+0 393 0 2
+0 394 0 1
 1
 end_operator
 begin_operator
 push-start s13 b12 a1 a3 b0 lco oc1b
 0
 5
-0 352 0 1
-0 385 -1 0
 0 8 -1 0
-0 393 0 2
+0 352 0 1
 0 384 0 1
+0 385 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b12 a1 a3 b1 lco gasoleo
 0
 5
-0 383 0 1
-0 385 -1 0
 0 9 -1 0
-0 393 0 2
+0 383 0 1
 0 384 0 1
+0 385 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b12 a1 a3 b10 lco oc1b
 0
 5
-0 355 0 1
-0 385 -1 0
 0 10 -1 0
-0 393 0 2
+0 355 0 1
 0 384 0 1
+0 385 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b12 a1 a3 b11 lco oc1b
 0
 5
-0 358 0 1
-0 385 -1 0
 0 37 -1 0
-0 393 0 2
+0 358 0 1
 0 384 0 1
+0 385 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
@@ -24974,184 +24974,184 @@ push-start s13 b12 a1 a3 b12 lco lco
 385 0
 3
 0 38 -1 0
-0 393 0 2
 0 384 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b12 a1 a3 b13 lco oc1b
 0
 5
-0 385 -1 0
-0 361 0 1
 0 36 -1 0
-0 393 0 2
+0 361 0 1
 0 384 0 1
+0 385 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b12 a1 a3 b14 lco oca1
 0
 5
-0 385 -1 0
-0 364 0 1
 0 39 -1 0
-0 393 0 2
+0 364 0 1
 0 384 0 1
+0 385 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b12 a1 a3 b15 lco oc1b
 0
 5
-0 385 -1 0
-0 375 0 1
 0 63 -1 0
-0 393 0 2
+0 375 0 1
 0 384 0 1
+0 385 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b12 a1 a3 b2 lco lco
 0
 5
+0 76 -1 0
+0 384 0 1
 0 385 -1 0
 0 387 0 1
-0 76 -1 0
 0 393 0 2
-0 384 0 1
 1
 end_operator
 begin_operator
 push-start s13 b12 a1 a3 b3 lco oc1b
 0
 5
-0 385 -1 0
-0 370 0 1
 0 94 -1 0
-0 393 0 2
+0 370 0 1
 0 384 0 1
+0 385 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b12 a1 a3 b4 lco rat-a
 0
 5
-0 385 -1 0
-0 260 0 1
 0 137 -1 0
-0 393 0 2
+0 260 0 1
 0 384 0 1
+0 385 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b12 a1 a3 b5 lco oc1b
 0
 5
-0 385 -1 0
-0 372 0 1
 0 114 -1 0
-0 393 0 2
+0 372 0 1
 0 384 0 1
+0 385 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b12 a1 a3 b6 lco gasoleo
 0
 5
+0 156 -1 0
+0 384 0 1
 0 385 -1 0
 0 388 0 1
-0 156 -1 0
 0 393 0 2
-0 384 0 1
 1
 end_operator
 begin_operator
 push-start s13 b12 a1 a3 b7 lco gasoleo
 0
 5
+0 182 -1 0
+0 384 0 1
 0 385 -1 0
 0 392 0 1
-0 182 -1 0
 0 393 0 2
-0 384 0 1
 1
 end_operator
 begin_operator
 push-start s13 b12 a1 a3 b8 lco oc1b
 0
 5
-0 385 -1 0
-0 374 0 1
 0 209 -1 0
-0 393 0 2
+0 374 0 1
 0 384 0 1
+0 385 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b12 a1 a3 b9 lco lco
 0
 5
-0 385 -1 0
-0 394 0 1
 0 223 -1 0
-0 393 0 2
 0 384 0 1
+0 385 -1 0
+0 393 0 2
+0 394 0 1
 1
 end_operator
 begin_operator
 push-start s13 b13 a1 a3 b0 oc1b oc1b
 0
 5
-0 352 0 1
-0 361 -1 0
 0 18 -1 0
-0 393 0 2
+0 352 0 1
 0 360 0 1
+0 361 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b13 a1 a3 b1 oc1b gasoleo
 0
 5
-0 383 0 1
-0 361 -1 0
 0 17 -1 0
-0 393 0 2
 0 360 0 1
+0 361 -1 0
+0 383 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b13 a1 a3 b10 oc1b oc1b
 0
 5
-0 355 0 1
-0 361 -1 0
 0 19 -1 0
-0 393 0 2
+0 355 0 1
 0 360 0 1
+0 361 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b13 a1 a3 b11 oc1b oc1b
 0
 5
-0 358 0 1
-0 361 -1 0
 0 45 -1 0
-0 393 0 2
+0 358 0 1
 0 360 0 1
+0 361 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b13 a1 a3 b12 oc1b lco
 0
 5
-0 385 0 1
-0 361 -1 0
 0 46 -1 0
-0 393 0 2
 0 360 0 1
+0 361 -1 0
+0 385 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
@@ -25160,173 +25160,173 @@ push-start s13 b13 a1 a3 b13 oc1b oc1b
 361 0
 3
 0 47 -1 0
-0 393 0 2
 0 360 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b13 a1 a3 b14 oc1b oca1
 0
 5
+0 44 -1 0
+0 360 0 1
 0 361 -1 0
 0 364 0 1
-0 44 -1 0
 0 393 0 2
-0 360 0 1
 1
 end_operator
 begin_operator
 push-start s13 b13 a1 a3 b15 oc1b oc1b
 0
 5
+0 48 -1 0
+0 360 0 1
 0 361 -1 0
 0 375 0 1
-0 48 -1 0
 0 393 0 2
-0 360 0 1
 1
 end_operator
 begin_operator
 push-start s13 b13 a1 a3 b2 oc1b lco
 0
 5
+0 77 -1 0
+0 360 0 1
 0 361 -1 0
 0 387 0 1
-0 77 -1 0
 0 393 0 2
-0 360 0 1
 1
 end_operator
 begin_operator
 push-start s13 b13 a1 a3 b3 oc1b oc1b
 0
 5
+0 95 -1 0
+0 360 0 1
 0 361 -1 0
 0 370 0 1
-0 95 -1 0
 0 393 0 2
-0 360 0 1
 1
 end_operator
 begin_operator
 push-start s13 b13 a1 a3 b5 oc1b oc1b
 0
 5
+0 115 -1 0
+0 360 0 1
 0 361 -1 0
 0 372 0 1
-0 115 -1 0
 0 393 0 2
-0 360 0 1
 1
 end_operator
 begin_operator
 push-start s13 b13 a1 a3 b6 oc1b gasoleo
 0
 5
+0 157 -1 0
+0 360 0 1
 0 361 -1 0
 0 388 0 1
-0 157 -1 0
 0 393 0 2
-0 360 0 1
 1
 end_operator
 begin_operator
 push-start s13 b13 a1 a3 b7 oc1b gasoleo
 0
 5
+0 183 -1 0
+0 360 0 1
 0 361 -1 0
 0 392 0 1
-0 183 -1 0
 0 393 0 2
-0 360 0 1
 1
 end_operator
 begin_operator
 push-start s13 b13 a1 a3 b8 oc1b oc1b
 0
 5
+0 210 -1 0
+0 360 0 1
 0 361 -1 0
 0 374 0 1
-0 210 -1 0
 0 393 0 2
-0 360 0 1
 1
 end_operator
 begin_operator
 push-start s13 b13 a1 a3 b9 oc1b lco
 0
 5
-0 361 -1 0
-0 394 0 1
 0 224 -1 0
-0 393 0 2
 0 360 0 1
+0 361 -1 0
+0 393 0 2
+0 394 0 1
 1
 end_operator
 begin_operator
 push-start s13 b14 a1 a3 b0 oca1 oc1b
 0
 5
-0 352 0 1
-0 364 -1 0
 0 20 -1 0
-0 393 0 2
+0 352 0 1
 0 363 0 1
+0 364 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b14 a1 a3 b1 oca1 gasoleo
 0
 5
-0 383 0 1
-0 364 -1 0
 0 21 -1 0
-0 393 0 2
 0 363 0 1
+0 364 -1 0
+0 383 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b14 a1 a3 b10 oca1 oc1b
 0
 5
-0 355 0 1
-0 364 -1 0
 0 22 -1 0
-0 393 0 2
+0 355 0 1
 0 363 0 1
+0 364 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b14 a1 a3 b11 oca1 oc1b
 0
 5
-0 358 0 1
-0 364 -1 0
 0 23 -1 0
-0 393 0 2
+0 358 0 1
 0 363 0 1
+0 364 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b14 a1 a3 b12 oca1 lco
 0
 5
-0 385 0 1
-0 364 -1 0
 0 237 -1 0
-0 393 0 2
 0 363 0 1
+0 364 -1 0
+0 385 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b14 a1 a3 b13 oca1 oc1b
 0
 5
-0 361 0 1
-0 364 -1 0
 0 236 -1 0
-0 393 0 2
+0 361 0 1
 0 363 0 1
+0 364 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
@@ -25335,105 +25335,105 @@ push-start s13 b14 a1 a3 b14 oca1 oca1
 364 0
 3
 0 235 -1 0
-0 393 0 2
 0 363 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b14 a1 a3 b15 oca1 oc1b
 0
 5
+0 64 -1 0
+0 363 0 1
 0 364 -1 0
 0 375 0 1
-0 64 -1 0
 0 393 0 2
-0 363 0 1
 1
 end_operator
 begin_operator
 push-start s13 b14 a1 a3 b2 oca1 lco
 0
 5
+0 78 -1 0
+0 363 0 1
 0 364 -1 0
 0 387 0 1
-0 78 -1 0
 0 393 0 2
-0 363 0 1
 1
 end_operator
 begin_operator
 push-start s13 b14 a1 a3 b3 oca1 oc1b
 0
 5
+0 96 -1 0
+0 363 0 1
 0 364 -1 0
 0 370 0 1
-0 96 -1 0
 0 393 0 2
-0 363 0 1
 1
 end_operator
 begin_operator
 push-start s13 b14 a1 a3 b5 oca1 oc1b
 0
 5
+0 116 -1 0
+0 363 0 1
 0 364 -1 0
 0 372 0 1
-0 116 -1 0
 0 393 0 2
-0 363 0 1
 1
 end_operator
 begin_operator
 push-start s13 b14 a1 a3 b6 oca1 gasoleo
 0
 5
+0 158 -1 0
+0 363 0 1
 0 364 -1 0
 0 388 0 1
-0 158 -1 0
 0 393 0 2
-0 363 0 1
 1
 end_operator
 begin_operator
 push-start s13 b14 a1 a3 b7 oca1 gasoleo
 0
 5
+0 184 -1 0
+0 363 0 1
 0 364 -1 0
 0 392 0 1
-0 184 -1 0
 0 393 0 2
-0 363 0 1
 1
 end_operator
 begin_operator
 push-start s13 b14 a1 a3 b8 oca1 oc1b
 0
 5
+0 211 -1 0
+0 363 0 1
 0 364 -1 0
 0 374 0 1
-0 211 -1 0
 0 393 0 2
-0 363 0 1
 1
 end_operator
 begin_operator
 push-start s13 b14 a1 a3 b9 oca1 lco
 0
 5
-0 364 -1 0
-0 394 0 1
 0 225 -1 0
-0 393 0 2
 0 363 0 1
+0 364 -1 0
+0 393 0 2
+0 394 0 1
 1
 end_operator
 begin_operator
 push-start s13 b15 a1 a3 b0 oc1b oc1b
 0
 5
+0 49 -1 0
 0 352 0 1
 0 375 -1 0
-0 49 -1 0
 0 393 0 2
 0 398 0 1
 1
@@ -25442,9 +25442,9 @@ begin_operator
 push-start s13 b15 a1 a3 b1 oc1b gasoleo
 0
 5
-0 383 0 1
-0 375 -1 0
 0 50 -1 0
+0 375 -1 0
+0 383 0 1
 0 393 0 2
 0 398 0 1
 1
@@ -25453,9 +25453,9 @@ begin_operator
 push-start s13 b15 a1 a3 b10 oc1b oc1b
 0
 5
+0 66 -1 0
 0 355 0 1
 0 375 -1 0
-0 66 -1 0
 0 393 0 2
 0 398 0 1
 1
@@ -25464,9 +25464,9 @@ begin_operator
 push-start s13 b15 a1 a3 b11 oc1b oc1b
 0
 5
+0 67 -1 0
 0 358 0 1
 0 375 -1 0
-0 67 -1 0
 0 393 0 2
 0 398 0 1
 1
@@ -25475,9 +25475,9 @@ begin_operator
 push-start s13 b15 a1 a3 b12 oc1b lco
 0
 5
-0 385 0 1
-0 375 -1 0
 0 68 -1 0
+0 375 -1 0
+0 385 0 1
 0 393 0 2
 0 398 0 1
 1
@@ -25486,9 +25486,9 @@ begin_operator
 push-start s13 b15 a1 a3 b13 oc1b oc1b
 0
 5
+0 69 -1 0
 0 361 0 1
 0 375 -1 0
-0 69 -1 0
 0 393 0 2
 0 398 0 1
 1
@@ -25497,9 +25497,9 @@ begin_operator
 push-start s13 b15 a1 a3 b14 oc1b oca1
 0
 5
+0 70 -1 0
 0 364 0 1
 0 375 -1 0
-0 70 -1 0
 0 393 0 2
 0 398 0 1
 1
@@ -25518,9 +25518,9 @@ begin_operator
 push-start s13 b15 a1 a3 b2 oc1b lco
 0
 5
+0 71 -1 0
 0 375 -1 0
 0 387 0 1
-0 71 -1 0
 0 393 0 2
 0 398 0 1
 1
@@ -25529,9 +25529,9 @@ begin_operator
 push-start s13 b15 a1 a3 b3 oc1b oc1b
 0
 5
-0 375 -1 0
-0 370 0 1
 0 97 -1 0
+0 370 0 1
+0 375 -1 0
 0 393 0 2
 0 398 0 1
 1
@@ -25540,9 +25540,9 @@ begin_operator
 push-start s13 b15 a1 a3 b5 oc1b oc1b
 0
 5
-0 375 -1 0
-0 372 0 1
 0 117 -1 0
+0 372 0 1
+0 375 -1 0
 0 393 0 2
 0 398 0 1
 1
@@ -25551,9 +25551,9 @@ begin_operator
 push-start s13 b15 a1 a3 b6 oc1b gasoleo
 0
 5
+0 159 -1 0
 0 375 -1 0
 0 388 0 1
-0 159 -1 0
 0 393 0 2
 0 398 0 1
 1
@@ -25562,9 +25562,9 @@ begin_operator
 push-start s13 b15 a1 a3 b7 oc1b gasoleo
 0
 5
+0 185 -1 0
 0 375 -1 0
 0 392 0 1
-0 185 -1 0
 0 393 0 2
 0 398 0 1
 1
@@ -25573,9 +25573,9 @@ begin_operator
 push-start s13 b15 a1 a3 b8 oc1b oc1b
 0
 5
-0 375 -1 0
-0 374 0 1
 0 212 -1 0
+0 374 0 1
+0 375 -1 0
 0 393 0 2
 0 398 0 1
 1
@@ -25584,10 +25584,10 @@ begin_operator
 push-start s13 b15 a1 a3 b9 oc1b lco
 0
 5
-0 375 -1 0
-0 394 0 1
 0 226 -1 0
+0 375 -1 0
 0 393 0 2
+0 394 0 1
 0 398 0 1
 1
 end_operator
@@ -25595,88 +25595,88 @@ begin_operator
 push-start s13 b2 a1 a3 b0 lco oc1b
 0
 5
-0 352 0 1
-0 387 -1 0
 0 52 -1 0
-0 393 0 2
+0 352 0 1
 0 386 0 1
+0 387 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b2 a1 a3 b1 lco gasoleo
 0
 5
-0 383 0 1
-0 387 -1 0
 0 51 -1 0
-0 393 0 2
+0 383 0 1
 0 386 0 1
+0 387 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b2 a1 a3 b10 lco oc1b
 0
 5
-0 355 0 1
-0 387 -1 0
 0 53 -1 0
-0 393 0 2
+0 355 0 1
 0 386 0 1
+0 387 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b2 a1 a3 b11 lco oc1b
 0
 5
-0 358 0 1
-0 387 -1 0
 0 54 -1 0
-0 393 0 2
+0 358 0 1
 0 386 0 1
+0 387 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b2 a1 a3 b12 lco lco
 0
 5
-0 385 0 1
-0 387 -1 0
 0 55 -1 0
-0 393 0 2
+0 385 0 1
 0 386 0 1
+0 387 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b2 a1 a3 b13 lco oc1b
 0
 5
-0 361 0 1
-0 387 -1 0
 0 56 -1 0
-0 393 0 2
+0 361 0 1
 0 386 0 1
+0 387 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b2 a1 a3 b14 lco oca1
 0
 5
-0 364 0 1
-0 387 -1 0
 0 57 -1 0
-0 393 0 2
+0 364 0 1
 0 386 0 1
+0 387 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b2 a1 a3 b15 lco oc1b
 0
 5
-0 375 0 1
-0 387 -1 0
 0 58 -1 0
-0 393 0 2
+0 375 0 1
 0 386 0 1
+0 387 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
@@ -25685,184 +25685,184 @@ push-start s13 b2 a1 a3 b2 lco lco
 387 0
 3
 0 79 -1 0
-0 393 0 2
 0 386 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b2 a1 a3 b3 lco oc1b
 0
 5
-0 387 -1 0
-0 370 0 1
 0 98 -1 0
-0 393 0 2
+0 370 0 1
 0 386 0 1
+0 387 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b2 a1 a3 b4 lco rat-a
 0
 5
-0 387 -1 0
-0 260 0 1
 0 138 -1 0
-0 393 0 2
+0 260 0 1
 0 386 0 1
+0 387 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b2 a1 a3 b5 lco oc1b
 0
 5
-0 387 -1 0
-0 372 0 1
 0 118 -1 0
-0 393 0 2
+0 372 0 1
 0 386 0 1
+0 387 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b2 a1 a3 b6 lco gasoleo
 0
 5
+0 160 -1 0
+0 386 0 1
 0 387 -1 0
 0 388 0 1
-0 160 -1 0
 0 393 0 2
-0 386 0 1
 1
 end_operator
 begin_operator
 push-start s13 b2 a1 a3 b7 lco gasoleo
 0
 5
+0 186 -1 0
+0 386 0 1
 0 387 -1 0
 0 392 0 1
-0 186 -1 0
 0 393 0 2
-0 386 0 1
 1
 end_operator
 begin_operator
 push-start s13 b2 a1 a3 b8 lco oc1b
 0
 5
-0 387 -1 0
-0 374 0 1
 0 213 -1 0
-0 393 0 2
+0 374 0 1
 0 386 0 1
+0 387 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b2 a1 a3 b9 lco lco
 0
 5
-0 387 -1 0
-0 394 0 1
 0 227 -1 0
-0 393 0 2
 0 386 0 1
+0 387 -1 0
+0 393 0 2
+0 394 0 1
 1
 end_operator
 begin_operator
 push-start s13 b3 a1 a3 b0 oc1b oc1b
 0
 5
-0 352 0 1
-0 370 -1 0
 0 81 -1 0
-0 393 0 2
+0 352 0 1
 0 369 0 1
+0 370 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b3 a1 a3 b1 oc1b gasoleo
 0
 5
-0 383 0 1
-0 370 -1 0
 0 82 -1 0
-0 393 0 2
 0 369 0 1
+0 370 -1 0
+0 383 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b3 a1 a3 b10 oc1b oc1b
 0
 5
-0 355 0 1
-0 370 -1 0
 0 83 -1 0
-0 393 0 2
+0 355 0 1
 0 369 0 1
+0 370 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b3 a1 a3 b11 oc1b oc1b
 0
 5
-0 358 0 1
-0 370 -1 0
 0 84 -1 0
-0 393 0 2
+0 358 0 1
 0 369 0 1
+0 370 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b3 a1 a3 b12 oc1b lco
 0
 5
-0 385 0 1
-0 370 -1 0
 0 85 -1 0
-0 393 0 2
 0 369 0 1
+0 370 -1 0
+0 385 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b3 a1 a3 b13 oc1b oc1b
 0
 5
-0 361 0 1
-0 370 -1 0
 0 86 -1 0
-0 393 0 2
+0 361 0 1
 0 369 0 1
+0 370 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b3 a1 a3 b14 oc1b oca1
 0
 5
-0 364 0 1
-0 370 -1 0
 0 87 -1 0
-0 393 0 2
+0 364 0 1
 0 369 0 1
+0 370 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b3 a1 a3 b15 oc1b oc1b
 0
 5
-0 375 0 1
-0 370 -1 0
 0 88 -1 0
-0 393 0 2
 0 369 0 1
+0 370 -1 0
+0 375 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b3 a1 a3 b2 oc1b lco
 0
 5
-0 387 0 1
-0 370 -1 0
 0 80 -1 0
-0 393 0 2
 0 369 0 1
+0 370 -1 0
+0 387 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
@@ -25871,96 +25871,96 @@ push-start s13 b3 a1 a3 b3 oc1b oc1b
 370 0
 3
 0 89 -1 0
-0 393 0 2
 0 369 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b3 a1 a3 b5 oc1b oc1b
 0
 5
+0 119 -1 0
+0 369 0 1
 0 370 -1 0
 0 372 0 1
-0 119 -1 0
 0 393 0 2
-0 369 0 1
 1
 end_operator
 begin_operator
 push-start s13 b3 a1 a3 b6 oc1b gasoleo
 0
 5
+0 161 -1 0
+0 369 0 1
 0 370 -1 0
 0 388 0 1
-0 161 -1 0
 0 393 0 2
-0 369 0 1
 1
 end_operator
 begin_operator
 push-start s13 b3 a1 a3 b7 oc1b gasoleo
 0
 5
+0 187 -1 0
+0 369 0 1
 0 370 -1 0
 0 392 0 1
-0 187 -1 0
 0 393 0 2
-0 369 0 1
 1
 end_operator
 begin_operator
 push-start s13 b3 a1 a3 b8 oc1b oc1b
 0
 5
+0 214 -1 0
+0 369 0 1
 0 370 -1 0
 0 374 0 1
-0 214 -1 0
 0 393 0 2
-0 369 0 1
 1
 end_operator
 begin_operator
 push-start s13 b3 a1 a3 b9 oc1b lco
 0
 5
-0 370 -1 0
-0 394 0 1
 0 228 -1 0
-0 393 0 2
 0 369 0 1
+0 370 -1 0
+0 393 0 2
+0 394 0 1
 1
 end_operator
 begin_operator
 push-start s13 b4 a1 a3 b1 rat-a gasoleo
 0
 5
-0 383 0 1
-0 260 -1 0
 0 132 -1 0
-0 393 0 2
+0 260 -1 0
 0 261 0 1
+0 383 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b4 a1 a3 b12 rat-a lco
 0
 5
-0 385 0 1
-0 260 -1 0
 0 133 -1 0
-0 393 0 2
+0 260 -1 0
 0 261 0 1
+0 385 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b4 a1 a3 b2 rat-a lco
 0
 5
-0 387 0 1
-0 260 -1 0
 0 134 -1 0
-0 393 0 2
+0 260 -1 0
 0 261 0 1
+0 387 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
@@ -25969,151 +25969,151 @@ push-start s13 b4 a1 a3 b4 rat-a rat-a
 260 0
 3
 0 135 -1 0
-0 393 0 2
 0 261 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b4 a1 a3 b6 rat-a gasoleo
 0
 5
-0 260 -1 0
-0 388 0 1
 0 162 -1 0
-0 393 0 2
+0 260 -1 0
 0 261 0 1
+0 388 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b4 a1 a3 b7 rat-a gasoleo
 0
 5
-0 260 -1 0
-0 392 0 1
 0 188 -1 0
-0 393 0 2
+0 260 -1 0
 0 261 0 1
+0 392 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b4 a1 a3 b9 rat-a lco
 0
 5
-0 260 -1 0
-0 394 0 1
 0 229 -1 0
-0 393 0 2
+0 260 -1 0
 0 261 0 1
+0 393 0 2
+0 394 0 1
 1
 end_operator
 begin_operator
 push-start s13 b5 a1 a3 b0 oc1b oc1b
 0
 5
-0 352 0 1
-0 372 -1 0
 0 100 -1 0
-0 393 0 2
+0 352 0 1
 0 371 0 1
+0 372 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b5 a1 a3 b1 oc1b gasoleo
 0
 5
-0 383 0 1
-0 372 -1 0
 0 101 -1 0
-0 393 0 2
 0 371 0 1
+0 372 -1 0
+0 383 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b5 a1 a3 b10 oc1b oc1b
 0
 5
-0 355 0 1
-0 372 -1 0
 0 102 -1 0
-0 393 0 2
+0 355 0 1
 0 371 0 1
+0 372 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b5 a1 a3 b11 oc1b oc1b
 0
 5
-0 358 0 1
-0 372 -1 0
 0 103 -1 0
-0 393 0 2
+0 358 0 1
 0 371 0 1
+0 372 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b5 a1 a3 b12 oc1b lco
 0
 5
-0 385 0 1
-0 372 -1 0
 0 104 -1 0
-0 393 0 2
 0 371 0 1
+0 372 -1 0
+0 385 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b5 a1 a3 b13 oc1b oc1b
 0
 5
-0 361 0 1
-0 372 -1 0
 0 105 -1 0
-0 393 0 2
+0 361 0 1
 0 371 0 1
+0 372 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b5 a1 a3 b14 oc1b oca1
 0
 5
-0 364 0 1
-0 372 -1 0
 0 106 -1 0
-0 393 0 2
+0 364 0 1
 0 371 0 1
+0 372 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b5 a1 a3 b15 oc1b oc1b
 0
 5
-0 375 0 1
-0 372 -1 0
 0 107 -1 0
-0 393 0 2
 0 371 0 1
+0 372 -1 0
+0 375 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b5 a1 a3 b2 oc1b lco
 0
 5
-0 387 0 1
-0 372 -1 0
 0 108 -1 0
-0 393 0 2
 0 371 0 1
+0 372 -1 0
+0 387 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b5 a1 a3 b3 oc1b oc1b
 0
 5
-0 370 0 1
-0 372 -1 0
 0 99 -1 0
-0 393 0 2
+0 370 0 1
 0 371 0 1
+0 372 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
@@ -26122,184 +26122,184 @@ push-start s13 b5 a1 a3 b5 oc1b oc1b
 372 0
 3
 0 109 -1 0
-0 393 0 2
 0 371 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b5 a1 a3 b6 oc1b gasoleo
 0
 5
+0 163 -1 0
+0 371 0 1
 0 372 -1 0
 0 388 0 1
-0 163 -1 0
 0 393 0 2
-0 371 0 1
 1
 end_operator
 begin_operator
 push-start s13 b5 a1 a3 b7 oc1b gasoleo
 0
 5
+0 189 -1 0
+0 371 0 1
 0 372 -1 0
 0 392 0 1
-0 189 -1 0
 0 393 0 2
-0 371 0 1
 1
 end_operator
 begin_operator
 push-start s13 b5 a1 a3 b8 oc1b oc1b
 0
 5
+0 215 -1 0
+0 371 0 1
 0 372 -1 0
 0 374 0 1
-0 215 -1 0
 0 393 0 2
-0 371 0 1
 1
 end_operator
 begin_operator
 push-start s13 b5 a1 a3 b9 oc1b lco
 0
 5
-0 372 -1 0
-0 394 0 1
 0 230 -1 0
-0 393 0 2
 0 371 0 1
+0 372 -1 0
+0 393 0 2
+0 394 0 1
 1
 end_operator
 begin_operator
 push-start s13 b6 a1 a3 b0 gasoleo oc1b
 0
 5
+0 121 -1 0
 0 352 0 1
 0 388 -1 0
-0 121 -1 0
-0 393 0 2
 0 389 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b6 a1 a3 b1 gasoleo gasoleo
 0
 5
+0 122 -1 0
 0 383 0 1
 0 388 -1 0
-0 122 -1 0
-0 393 0 2
 0 389 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b6 a1 a3 b10 gasoleo oc1b
 0
 5
+0 123 -1 0
 0 355 0 1
 0 388 -1 0
-0 123 -1 0
-0 393 0 2
 0 389 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b6 a1 a3 b11 gasoleo oc1b
 0
 5
+0 124 -1 0
 0 358 0 1
 0 388 -1 0
-0 124 -1 0
-0 393 0 2
 0 389 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b6 a1 a3 b12 gasoleo lco
 0
 5
+0 125 -1 0
 0 385 0 1
 0 388 -1 0
-0 125 -1 0
-0 393 0 2
 0 389 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b6 a1 a3 b13 gasoleo oc1b
 0
 5
+0 126 -1 0
 0 361 0 1
 0 388 -1 0
-0 126 -1 0
-0 393 0 2
 0 389 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b6 a1 a3 b14 gasoleo oca1
 0
 5
+0 127 -1 0
 0 364 0 1
 0 388 -1 0
-0 127 -1 0
-0 393 0 2
 0 389 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b6 a1 a3 b15 gasoleo oc1b
 0
 5
+0 128 -1 0
 0 375 0 1
 0 388 -1 0
-0 128 -1 0
-0 393 0 2
 0 389 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b6 a1 a3 b2 gasoleo lco
 0
 5
+0 129 -1 0
 0 387 0 1
 0 388 -1 0
-0 129 -1 0
-0 393 0 2
 0 389 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b6 a1 a3 b3 gasoleo oc1b
 0
 5
+0 130 -1 0
 0 370 0 1
 0 388 -1 0
-0 130 -1 0
-0 393 0 2
 0 389 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b6 a1 a3 b4 gasoleo rat-a
 0
 5
+0 131 -1 0
 0 260 0 1
 0 388 -1 0
-0 131 -1 0
-0 393 0 2
 0 389 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b6 a1 a3 b5 gasoleo oc1b
 0
 5
+0 120 -1 0
 0 372 0 1
 0 388 -1 0
-0 120 -1 0
-0 393 0 2
 0 389 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
@@ -26308,184 +26308,184 @@ push-start s13 b6 a1 a3 b6 gasoleo gasoleo
 388 0
 3
 0 164 -1 0
-0 393 0 2
 0 389 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b6 a1 a3 b7 gasoleo gasoleo
 0
 5
-0 388 -1 0
-0 392 0 1
 0 190 -1 0
-0 393 0 2
+0 388 -1 0
 0 389 0 1
+0 392 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b6 a1 a3 b8 gasoleo oc1b
 0
 5
-0 388 -1 0
-0 374 0 1
 0 216 -1 0
-0 393 0 2
+0 374 0 1
+0 388 -1 0
 0 389 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b6 a1 a3 b9 gasoleo lco
 0
 5
-0 388 -1 0
-0 394 0 1
 0 231 -1 0
-0 393 0 2
+0 388 -1 0
 0 389 0 1
+0 393 0 2
+0 394 0 1
 1
 end_operator
 begin_operator
 push-start s13 b7 a1 a3 b0 gasoleo oc1b
 0
 5
-0 352 0 1
-0 392 -1 0
 0 140 -1 0
-0 393 0 2
+0 352 0 1
 0 391 0 1
+0 392 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b7 a1 a3 b1 gasoleo gasoleo
 0
 5
-0 383 0 1
-0 392 -1 0
 0 141 -1 0
-0 393 0 2
+0 383 0 1
 0 391 0 1
+0 392 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b7 a1 a3 b10 gasoleo oc1b
 0
 5
-0 355 0 1
-0 392 -1 0
 0 142 -1 0
-0 393 0 2
+0 355 0 1
 0 391 0 1
+0 392 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b7 a1 a3 b11 gasoleo oc1b
 0
 5
-0 358 0 1
-0 392 -1 0
 0 143 -1 0
-0 393 0 2
+0 358 0 1
 0 391 0 1
+0 392 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b7 a1 a3 b12 gasoleo lco
 0
 5
-0 385 0 1
-0 392 -1 0
 0 144 -1 0
-0 393 0 2
+0 385 0 1
 0 391 0 1
+0 392 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b7 a1 a3 b13 gasoleo oc1b
 0
 5
-0 361 0 1
-0 392 -1 0
 0 145 -1 0
-0 393 0 2
+0 361 0 1
 0 391 0 1
+0 392 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b7 a1 a3 b14 gasoleo oca1
 0
 5
-0 364 0 1
-0 392 -1 0
 0 146 -1 0
-0 393 0 2
+0 364 0 1
 0 391 0 1
+0 392 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b7 a1 a3 b15 gasoleo oc1b
 0
 5
-0 375 0 1
-0 392 -1 0
 0 147 -1 0
-0 393 0 2
+0 375 0 1
 0 391 0 1
+0 392 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b7 a1 a3 b2 gasoleo lco
 0
 5
-0 387 0 1
-0 392 -1 0
 0 148 -1 0
-0 393 0 2
+0 387 0 1
 0 391 0 1
+0 392 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b7 a1 a3 b3 gasoleo oc1b
 0
 5
-0 370 0 1
-0 392 -1 0
 0 149 -1 0
-0 393 0 2
+0 370 0 1
 0 391 0 1
+0 392 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b7 a1 a3 b4 gasoleo rat-a
 0
 5
-0 260 0 1
-0 392 -1 0
 0 139 -1 0
-0 393 0 2
+0 260 0 1
 0 391 0 1
+0 392 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b7 a1 a3 b5 gasoleo oc1b
 0
 5
-0 372 0 1
-0 392 -1 0
 0 150 -1 0
-0 393 0 2
+0 372 0 1
 0 391 0 1
+0 392 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b7 a1 a3 b6 gasoleo gasoleo
 0
 5
-0 388 0 1
-0 392 -1 0
 0 151 -1 0
-0 393 0 2
+0 388 0 1
 0 391 0 1
+0 392 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
@@ -26494,173 +26494,173 @@ push-start s13 b7 a1 a3 b7 gasoleo gasoleo
 392 0
 3
 0 191 -1 0
-0 393 0 2
 0 391 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b7 a1 a3 b8 gasoleo oc1b
 0
 5
-0 392 -1 0
-0 374 0 1
 0 217 -1 0
-0 393 0 2
+0 374 0 1
 0 391 0 1
+0 392 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b7 a1 a3 b9 gasoleo lco
 0
 5
-0 392 -1 0
-0 394 0 1
 0 232 -1 0
-0 393 0 2
 0 391 0 1
+0 392 -1 0
+0 393 0 2
+0 394 0 1
 1
 end_operator
 begin_operator
 push-start s13 b8 a1 a3 b0 oc1b oc1b
 0
 5
-0 352 0 1
-0 374 -1 0
 0 166 -1 0
-0 393 0 2
+0 352 0 1
 0 373 0 1
+0 374 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b8 a1 a3 b1 oc1b gasoleo
 0
 5
-0 383 0 1
-0 374 -1 0
 0 167 -1 0
-0 393 0 2
 0 373 0 1
+0 374 -1 0
+0 383 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b8 a1 a3 b10 oc1b oc1b
 0
 5
-0 355 0 1
-0 374 -1 0
 0 168 -1 0
-0 393 0 2
+0 355 0 1
 0 373 0 1
+0 374 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b8 a1 a3 b11 oc1b oc1b
 0
 5
-0 358 0 1
-0 374 -1 0
 0 169 -1 0
-0 393 0 2
+0 358 0 1
 0 373 0 1
+0 374 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b8 a1 a3 b12 oc1b lco
 0
 5
-0 385 0 1
-0 374 -1 0
 0 170 -1 0
-0 393 0 2
 0 373 0 1
+0 374 -1 0
+0 385 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b8 a1 a3 b13 oc1b oc1b
 0
 5
-0 361 0 1
-0 374 -1 0
 0 171 -1 0
-0 393 0 2
+0 361 0 1
 0 373 0 1
+0 374 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b8 a1 a3 b14 oc1b oca1
 0
 5
-0 364 0 1
-0 374 -1 0
 0 172 -1 0
-0 393 0 2
+0 364 0 1
 0 373 0 1
+0 374 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b8 a1 a3 b15 oc1b oc1b
 0
 5
-0 375 0 1
-0 374 -1 0
 0 173 -1 0
-0 393 0 2
 0 373 0 1
+0 374 -1 0
+0 375 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b8 a1 a3 b2 oc1b lco
 0
 5
-0 387 0 1
-0 374 -1 0
 0 174 -1 0
-0 393 0 2
 0 373 0 1
+0 374 -1 0
+0 387 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b8 a1 a3 b3 oc1b oc1b
 0
 5
-0 370 0 1
-0 374 -1 0
 0 175 -1 0
-0 393 0 2
+0 370 0 1
 0 373 0 1
+0 374 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b8 a1 a3 b5 oc1b oc1b
 0
 5
-0 372 0 1
-0 374 -1 0
 0 176 -1 0
-0 393 0 2
+0 372 0 1
 0 373 0 1
+0 374 -1 0
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b8 a1 a3 b6 oc1b gasoleo
 0
 5
-0 388 0 1
-0 374 -1 0
 0 165 -1 0
-0 393 0 2
 0 373 0 1
+0 374 -1 0
+0 388 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b8 a1 a3 b7 oc1b gasoleo
 0
 5
-0 392 0 1
-0 374 -1 0
 0 177 -1 0
-0 393 0 2
 0 373 0 1
+0 374 -1 0
+0 392 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
@@ -26669,29 +26669,29 @@ push-start s13 b8 a1 a3 b8 oc1b oc1b
 374 0
 3
 0 218 -1 0
-0 393 0 2
 0 373 0 1
+0 393 0 2
 1
 end_operator
 begin_operator
 push-start s13 b8 a1 a3 b9 oc1b lco
 0
 5
-0 374 -1 0
-0 394 0 1
 0 233 -1 0
-0 393 0 2
 0 373 0 1
+0 374 -1 0
+0 393 0 2
+0 394 0 1
 1
 end_operator
 begin_operator
 push-start s13 b9 a1 a3 b0 lco oc1b
 0
 5
-0 352 0 1
-0 394 -1 0
 0 0 -1 0
+0 352 0 1
 0 393 0 2
+0 394 -1 0
 0 399 0 1
 1
 end_operator
@@ -26699,10 +26699,10 @@ begin_operator
 push-start s13 b9 a1 a3 b1 lco gasoleo
 0
 5
-0 383 0 1
-0 394 -1 0
 0 1 -1 0
+0 383 0 1
 0 393 0 2
+0 394 -1 0
 0 399 0 1
 1
 end_operator
@@ -26710,10 +26710,10 @@ begin_operator
 push-start s13 b9 a1 a3 b10 lco oc1b
 0
 5
-0 355 0 1
-0 394 -1 0
 0 193 -1 0
+0 355 0 1
 0 393 0 2
+0 394 -1 0
 0 399 0 1
 1
 end_operator
@@ -26721,10 +26721,10 @@ begin_operator
 push-start s13 b9 a1 a3 b11 lco oc1b
 0
 5
-0 358 0 1
-0 394 -1 0
 0 194 -1 0
+0 358 0 1
 0 393 0 2
+0 394 -1 0
 0 399 0 1
 1
 end_operator
@@ -26732,10 +26732,10 @@ begin_operator
 push-start s13 b9 a1 a3 b12 lco lco
 0
 5
-0 385 0 1
-0 394 -1 0
 0 195 -1 0
+0 385 0 1
 0 393 0 2
+0 394 -1 0
 0 399 0 1
 1
 end_operator
@@ -26743,10 +26743,10 @@ begin_operator
 push-start s13 b9 a1 a3 b13 lco oc1b
 0
 5
-0 361 0 1
-0 394 -1 0
 0 196 -1 0
+0 361 0 1
 0 393 0 2
+0 394 -1 0
 0 399 0 1
 1
 end_operator
@@ -26754,10 +26754,10 @@ begin_operator
 push-start s13 b9 a1 a3 b14 lco oca1
 0
 5
-0 364 0 1
-0 394 -1 0
 0 197 -1 0
+0 364 0 1
 0 393 0 2
+0 394 -1 0
 0 399 0 1
 1
 end_operator
@@ -26765,10 +26765,10 @@ begin_operator
 push-start s13 b9 a1 a3 b15 lco oc1b
 0
 5
-0 375 0 1
-0 394 -1 0
 0 198 -1 0
+0 375 0 1
 0 393 0 2
+0 394 -1 0
 0 399 0 1
 1
 end_operator
@@ -26776,10 +26776,10 @@ begin_operator
 push-start s13 b9 a1 a3 b2 lco lco
 0
 5
-0 387 0 1
-0 394 -1 0
 0 199 -1 0
+0 387 0 1
 0 393 0 2
+0 394 -1 0
 0 399 0 1
 1
 end_operator
@@ -26787,10 +26787,10 @@ begin_operator
 push-start s13 b9 a1 a3 b3 lco oc1b
 0
 5
-0 370 0 1
-0 394 -1 0
 0 200 -1 0
+0 370 0 1
 0 393 0 2
+0 394 -1 0
 0 399 0 1
 1
 end_operator
@@ -26798,10 +26798,10 @@ begin_operator
 push-start s13 b9 a1 a3 b4 lco rat-a
 0
 5
-0 260 0 1
-0 394 -1 0
 0 201 -1 0
+0 260 0 1
 0 393 0 2
+0 394 -1 0
 0 399 0 1
 1
 end_operator
@@ -26809,10 +26809,10 @@ begin_operator
 push-start s13 b9 a1 a3 b5 lco oc1b
 0
 5
-0 372 0 1
-0 394 -1 0
 0 202 -1 0
+0 372 0 1
 0 393 0 2
+0 394 -1 0
 0 399 0 1
 1
 end_operator
@@ -26820,10 +26820,10 @@ begin_operator
 push-start s13 b9 a1 a3 b6 lco gasoleo
 0
 5
-0 388 0 1
-0 394 -1 0
 0 203 -1 0
+0 388 0 1
 0 393 0 2
+0 394 -1 0
 0 399 0 1
 1
 end_operator
@@ -26831,10 +26831,10 @@ begin_operator
 push-start s13 b9 a1 a3 b7 lco gasoleo
 0
 5
-0 392 0 1
-0 394 -1 0
 0 192 -1 0
+0 392 0 1
 0 393 0 2
+0 394 -1 0
 0 399 0 1
 1
 end_operator
@@ -26842,10 +26842,10 @@ begin_operator
 push-start s13 b9 a1 a3 b8 lco oc1b
 0
 5
-0 374 0 1
-0 394 -1 0
 0 204 -1 0
+0 374 0 1
 0 393 0 2
+0 394 -1 0
 0 399 0 1
 1
 end_operator
@@ -26864,33 +26864,33 @@ push-unitarypipe s34 b0 a3 a4 b0 oc1b oc1b
 1
 275 0
 3
+0 245 -1 0
 0 276 -1 0
 0 305 0 1
-0 245 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b0 a3 a4 b1 oc1b gasoleo
 0
 6
+0 253 -1 0
 0 275 -1 0
-0 291 0 1
 0 276 -1 0
+0 291 0 1
 0 292 -1 1
 0 305 0 1
-0 253 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b0 a3 a4 b10 oc1b oc1b
 0
 6
+0 246 -1 0
 0 275 -1 0
-0 277 0 1
 0 276 -1 0
+0 277 0 1
 0 278 -1 1
 0 305 0 1
-0 246 -1 0
 1
 end_operator
 begin_operator
@@ -26898,8 +26898,8 @@ push-unitarypipe s34 b0 a3 a4 b11 oc1b oc1b
 0
 6
 0 275 -1 0
-0 303 0 1
 0 276 -1 0
+0 303 0 1
 0 304 -1 1
 0 305 0 1
 0 395 -1 0
@@ -26909,143 +26909,143 @@ begin_operator
 push-unitarypipe s34 b0 a3 a4 b12 oc1b lco
 0
 6
+0 254 -1 0
 0 275 -1 0
-0 293 0 1
 0 276 -1 0
+0 293 0 1
 0 294 -1 1
 0 305 0 1
-0 254 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b0 a3 a4 b13 oc1b oc1b
 0
 6
+0 247 -1 0
 0 275 -1 0
-0 279 0 1
 0 276 -1 0
+0 279 0 1
 0 280 -1 1
 0 305 0 1
-0 247 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b0 a3 a4 b14 oc1b oca1
 0
 6
+0 248 -1 0
 0 275 -1 0
-0 281 0 1
 0 276 -1 0
+0 281 0 1
 0 282 -1 1
 0 305 0 1
-0 248 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b0 a3 a4 b15 oc1b oc1b
 0
 6
+0 249 -1 0
 0 275 -1 0
-0 283 0 1
 0 276 -1 0
+0 283 0 1
 0 284 -1 1
 0 305 0 1
-0 249 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b0 a3 a4 b2 oc1b lco
 0
 6
+0 255 -1 0
 0 275 -1 0
-0 295 0 1
 0 276 -1 0
+0 295 0 1
 0 296 -1 1
 0 305 0 1
-0 255 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b0 a3 a4 b3 oc1b oc1b
 0
 6
+0 250 -1 0
 0 275 -1 0
-0 285 0 1
 0 276 -1 0
+0 285 0 1
 0 286 -1 1
 0 305 0 1
-0 250 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b0 a3 a4 b5 oc1b oc1b
 0
 6
+0 251 -1 0
 0 275 -1 0
-0 287 0 1
 0 276 -1 0
+0 287 0 1
 0 288 -1 1
 0 305 0 1
-0 251 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b0 a3 a4 b6 oc1b gasoleo
 0
 6
+0 256 -1 0
 0 275 -1 0
-0 297 0 1
 0 276 -1 0
+0 297 0 1
 0 298 -1 1
 0 305 0 1
-0 256 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b0 a3 a4 b7 oc1b gasoleo
 0
 6
+0 257 -1 0
 0 275 -1 0
-0 299 0 1
 0 276 -1 0
+0 299 0 1
 0 300 -1 1
 0 305 0 1
-0 257 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b0 a3 a4 b8 oc1b oc1b
 0
 6
+0 252 -1 0
 0 275 -1 0
-0 289 0 1
 0 276 -1 0
+0 289 0 1
 0 290 -1 1
 0 305 0 1
-0 252 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b0 a3 a4 b9 oc1b lco
 0
 6
+0 258 -1 0
 0 275 -1 0
-0 301 0 1
 0 276 -1 0
+0 301 0 1
 0 302 -1 1
 0 305 0 1
-0 258 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b1 a3 a4 b0 gasoleo oc1b
 0
 6
-0 275 0 1
-0 291 -1 0
-0 276 -1 1
-0 292 -1 0
 0 245 -1 0
+0 275 0 1
+0 276 -1 1
+0 291 -1 0
+0 292 -1 0
 0 314 0 1
 1
 end_operator
@@ -27054,21 +27054,21 @@ push-unitarypipe s34 b1 a3 a4 b1 gasoleo gasoleo
 1
 291 0
 3
+0 253 -1 0
 0 292 -1 0
 0 314 0 1
-0 253 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b1 a3 a4 b10 gasoleo oc1b
 0
 6
-0 291 -1 0
-0 277 0 1
-0 292 -1 0
-0 278 -1 1
-0 314 0 1
 0 246 -1 0
+0 277 0 1
+0 278 -1 1
+0 291 -1 0
+0 292 -1 0
+0 314 0 1
 1
 end_operator
 begin_operator
@@ -27076,8 +27076,8 @@ push-unitarypipe s34 b1 a3 a4 b11 gasoleo oc1b
 0
 6
 0 291 -1 0
-0 303 0 1
 0 292 -1 0
+0 303 0 1
 0 304 -1 1
 0 314 0 1
 0 395 -1 0
@@ -27087,155 +27087,155 @@ begin_operator
 push-unitarypipe s34 b1 a3 a4 b12 gasoleo lco
 0
 6
+0 254 -1 0
 0 291 -1 0
-0 293 0 1
 0 292 -1 0
+0 293 0 1
 0 294 -1 1
 0 314 0 1
-0 254 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b1 a3 a4 b13 gasoleo oc1b
 0
 6
-0 291 -1 0
-0 279 0 1
-0 292 -1 0
-0 280 -1 1
-0 314 0 1
 0 247 -1 0
+0 279 0 1
+0 280 -1 1
+0 291 -1 0
+0 292 -1 0
+0 314 0 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b1 a3 a4 b14 gasoleo oca1
 0
 6
-0 291 -1 0
-0 281 0 1
-0 292 -1 0
-0 282 -1 1
-0 314 0 1
 0 248 -1 0
+0 281 0 1
+0 282 -1 1
+0 291 -1 0
+0 292 -1 0
+0 314 0 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b1 a3 a4 b15 gasoleo oc1b
 0
 6
-0 291 -1 0
-0 283 0 1
-0 292 -1 0
-0 284 -1 1
-0 314 0 1
 0 249 -1 0
+0 283 0 1
+0 284 -1 1
+0 291 -1 0
+0 292 -1 0
+0 314 0 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b1 a3 a4 b2 gasoleo lco
 0
 6
+0 255 -1 0
 0 291 -1 0
-0 295 0 1
 0 292 -1 0
+0 295 0 1
 0 296 -1 1
 0 314 0 1
-0 255 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b1 a3 a4 b3 gasoleo oc1b
 0
 6
-0 291 -1 0
-0 285 0 1
-0 292 -1 0
-0 286 -1 1
-0 314 0 1
 0 250 -1 0
+0 285 0 1
+0 286 -1 1
+0 291 -1 0
+0 292 -1 0
+0 314 0 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b1 a3 a4 b4 gasoleo rat-a
 0
 6
-0 291 -1 0
-0 240 0 1
-0 292 -1 0
-0 241 -1 1
-0 314 0 1
 0 238 -1 0
+0 240 0 1
+0 241 -1 1
+0 291 -1 0
+0 292 -1 0
+0 314 0 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b1 a3 a4 b5 gasoleo oc1b
 0
 6
-0 291 -1 0
-0 287 0 1
-0 292 -1 0
-0 288 -1 1
-0 314 0 1
 0 251 -1 0
+0 287 0 1
+0 288 -1 1
+0 291 -1 0
+0 292 -1 0
+0 314 0 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b1 a3 a4 b6 gasoleo gasoleo
 0
 6
+0 256 -1 0
 0 291 -1 0
-0 297 0 1
 0 292 -1 0
+0 297 0 1
 0 298 -1 1
 0 314 0 1
-0 256 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b1 a3 a4 b7 gasoleo gasoleo
 0
 6
+0 257 -1 0
 0 291 -1 0
-0 299 0 1
 0 292 -1 0
+0 299 0 1
 0 300 -1 1
 0 314 0 1
-0 257 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b1 a3 a4 b8 gasoleo oc1b
 0
 6
-0 291 -1 0
-0 289 0 1
-0 292 -1 0
-0 290 -1 1
-0 314 0 1
 0 252 -1 0
+0 289 0 1
+0 290 -1 1
+0 291 -1 0
+0 292 -1 0
+0 314 0 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b1 a3 a4 b9 gasoleo lco
 0
 6
+0 258 -1 0
 0 291 -1 0
-0 301 0 1
 0 292 -1 0
+0 301 0 1
 0 302 -1 1
 0 314 0 1
-0 258 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b10 a3 a4 b0 oc1b oc1b
 0
 6
-0 275 0 1
-0 277 -1 0
-0 276 -1 1
-0 278 -1 0
 0 245 -1 0
+0 275 0 1
+0 276 -1 1
+0 277 -1 0
+0 278 -1 0
 0 306 0 1
 1
 end_operator
@@ -27243,11 +27243,11 @@ begin_operator
 push-unitarypipe s34 b10 a3 a4 b1 oc1b gasoleo
 0
 6
-0 291 0 1
-0 277 -1 0
-0 292 -1 1
-0 278 -1 0
 0 253 -1 0
+0 277 -1 0
+0 278 -1 0
+0 291 0 1
+0 292 -1 1
 0 306 0 1
 1
 end_operator
@@ -27256,9 +27256,9 @@ push-unitarypipe s34 b10 a3 a4 b10 oc1b oc1b
 1
 277 0
 3
+0 246 -1 0
 0 278 -1 0
 0 306 0 1
-0 246 -1 0
 1
 end_operator
 begin_operator
@@ -27266,8 +27266,8 @@ push-unitarypipe s34 b10 a3 a4 b11 oc1b oc1b
 0
 6
 0 277 -1 0
-0 303 0 1
 0 278 -1 0
+0 303 0 1
 0 304 -1 1
 0 306 0 1
 0 395 -1 0
@@ -27277,143 +27277,143 @@ begin_operator
 push-unitarypipe s34 b10 a3 a4 b12 oc1b lco
 0
 6
+0 254 -1 0
 0 277 -1 0
-0 293 0 1
 0 278 -1 0
+0 293 0 1
 0 294 -1 1
 0 306 0 1
-0 254 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b10 a3 a4 b13 oc1b oc1b
 0
 6
+0 247 -1 0
 0 277 -1 0
-0 279 0 1
 0 278 -1 0
+0 279 0 1
 0 280 -1 1
 0 306 0 1
-0 247 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b10 a3 a4 b14 oc1b oca1
 0
 6
+0 248 -1 0
 0 277 -1 0
-0 281 0 1
 0 278 -1 0
+0 281 0 1
 0 282 -1 1
 0 306 0 1
-0 248 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b10 a3 a4 b15 oc1b oc1b
 0
 6
+0 249 -1 0
 0 277 -1 0
-0 283 0 1
 0 278 -1 0
+0 283 0 1
 0 284 -1 1
 0 306 0 1
-0 249 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b10 a3 a4 b2 oc1b lco
 0
 6
+0 255 -1 0
 0 277 -1 0
-0 295 0 1
 0 278 -1 0
+0 295 0 1
 0 296 -1 1
 0 306 0 1
-0 255 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b10 a3 a4 b3 oc1b oc1b
 0
 6
+0 250 -1 0
 0 277 -1 0
-0 285 0 1
 0 278 -1 0
+0 285 0 1
 0 286 -1 1
 0 306 0 1
-0 250 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b10 a3 a4 b5 oc1b oc1b
 0
 6
+0 251 -1 0
 0 277 -1 0
-0 287 0 1
 0 278 -1 0
+0 287 0 1
 0 288 -1 1
 0 306 0 1
-0 251 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b10 a3 a4 b6 oc1b gasoleo
 0
 6
+0 256 -1 0
 0 277 -1 0
-0 297 0 1
 0 278 -1 0
+0 297 0 1
 0 298 -1 1
 0 306 0 1
-0 256 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b10 a3 a4 b7 oc1b gasoleo
 0
 6
+0 257 -1 0
 0 277 -1 0
-0 299 0 1
 0 278 -1 0
+0 299 0 1
 0 300 -1 1
 0 306 0 1
-0 257 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b10 a3 a4 b8 oc1b oc1b
 0
 6
+0 252 -1 0
 0 277 -1 0
-0 289 0 1
 0 278 -1 0
+0 289 0 1
 0 290 -1 1
 0 306 0 1
-0 252 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b10 a3 a4 b9 oc1b lco
 0
 6
+0 258 -1 0
 0 277 -1 0
-0 301 0 1
 0 278 -1 0
+0 301 0 1
 0 302 -1 1
 0 306 0 1
-0 258 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b11 a3 a4 b0 oc1b oc1b
 0
 6
-0 275 0 1
-0 303 -1 0
-0 276 -1 1
-0 304 -1 0
 0 245 -1 0
+0 275 0 1
+0 276 -1 1
+0 303 -1 0
+0 304 -1 0
 0 313 0 1
 1
 end_operator
@@ -27421,11 +27421,11 @@ begin_operator
 push-unitarypipe s34 b11 a3 a4 b1 oc1b gasoleo
 0
 6
-0 291 0 1
-0 303 -1 0
-0 292 -1 1
-0 304 -1 0
 0 253 -1 0
+0 291 0 1
+0 292 -1 1
+0 303 -1 0
+0 304 -1 0
 0 313 0 1
 1
 end_operator
@@ -27433,11 +27433,11 @@ begin_operator
 push-unitarypipe s34 b11 a3 a4 b10 oc1b oc1b
 0
 6
-0 277 0 1
-0 303 -1 0
-0 278 -1 1
-0 304 -1 0
 0 246 -1 0
+0 277 0 1
+0 278 -1 1
+0 303 -1 0
+0 304 -1 0
 0 313 0 1
 1
 end_operator
@@ -27455,143 +27455,143 @@ begin_operator
 push-unitarypipe s34 b11 a3 a4 b12 oc1b lco
 0
 6
-0 303 -1 0
-0 293 0 1
-0 304 -1 0
-0 294 -1 1
-0 313 0 1
 0 254 -1 0
+0 293 0 1
+0 294 -1 1
+0 303 -1 0
+0 304 -1 0
+0 313 0 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b11 a3 a4 b13 oc1b oc1b
 0
 6
-0 303 -1 0
-0 279 0 1
-0 304 -1 0
-0 280 -1 1
-0 313 0 1
 0 247 -1 0
+0 279 0 1
+0 280 -1 1
+0 303 -1 0
+0 304 -1 0
+0 313 0 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b11 a3 a4 b14 oc1b oca1
 0
 6
-0 303 -1 0
-0 281 0 1
-0 304 -1 0
-0 282 -1 1
-0 313 0 1
 0 248 -1 0
+0 281 0 1
+0 282 -1 1
+0 303 -1 0
+0 304 -1 0
+0 313 0 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b11 a3 a4 b15 oc1b oc1b
 0
 6
-0 303 -1 0
-0 283 0 1
-0 304 -1 0
-0 284 -1 1
-0 313 0 1
 0 249 -1 0
+0 283 0 1
+0 284 -1 1
+0 303 -1 0
+0 304 -1 0
+0 313 0 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b11 a3 a4 b2 oc1b lco
 0
 6
-0 303 -1 0
-0 295 0 1
-0 304 -1 0
-0 296 -1 1
-0 313 0 1
 0 255 -1 0
+0 295 0 1
+0 296 -1 1
+0 303 -1 0
+0 304 -1 0
+0 313 0 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b11 a3 a4 b3 oc1b oc1b
 0
 6
-0 303 -1 0
-0 285 0 1
-0 304 -1 0
-0 286 -1 1
-0 313 0 1
 0 250 -1 0
+0 285 0 1
+0 286 -1 1
+0 303 -1 0
+0 304 -1 0
+0 313 0 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b11 a3 a4 b5 oc1b oc1b
 0
 6
-0 303 -1 0
-0 287 0 1
-0 304 -1 0
-0 288 -1 1
-0 313 0 1
 0 251 -1 0
+0 287 0 1
+0 288 -1 1
+0 303 -1 0
+0 304 -1 0
+0 313 0 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b11 a3 a4 b6 oc1b gasoleo
 0
 6
-0 303 -1 0
-0 297 0 1
-0 304 -1 0
-0 298 -1 1
-0 313 0 1
 0 256 -1 0
+0 297 0 1
+0 298 -1 1
+0 303 -1 0
+0 304 -1 0
+0 313 0 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b11 a3 a4 b7 oc1b gasoleo
 0
 6
-0 303 -1 0
-0 299 0 1
-0 304 -1 0
-0 300 -1 1
-0 313 0 1
 0 257 -1 0
+0 299 0 1
+0 300 -1 1
+0 303 -1 0
+0 304 -1 0
+0 313 0 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b11 a3 a4 b8 oc1b oc1b
 0
 6
-0 303 -1 0
-0 289 0 1
-0 304 -1 0
-0 290 -1 1
-0 313 0 1
 0 252 -1 0
+0 289 0 1
+0 290 -1 1
+0 303 -1 0
+0 304 -1 0
+0 313 0 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b11 a3 a4 b9 oc1b lco
 0
 6
-0 303 -1 0
-0 301 0 1
-0 304 -1 0
-0 302 -1 1
-0 313 0 1
 0 258 -1 0
+0 301 0 1
+0 302 -1 1
+0 303 -1 0
+0 304 -1 0
+0 313 0 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b12 a3 a4 b0 lco oc1b
 0
 6
-0 275 0 1
-0 293 -1 0
-0 276 -1 1
-0 294 -1 0
 0 245 -1 0
+0 275 0 1
+0 276 -1 1
+0 293 -1 0
+0 294 -1 0
 0 315 0 1
 1
 end_operator
@@ -27599,11 +27599,11 @@ begin_operator
 push-unitarypipe s34 b12 a3 a4 b1 lco gasoleo
 0
 6
-0 291 0 1
-0 293 -1 0
-0 292 -1 1
-0 294 -1 0
 0 253 -1 0
+0 291 0 1
+0 292 -1 1
+0 293 -1 0
+0 294 -1 0
 0 315 0 1
 1
 end_operator
@@ -27611,11 +27611,11 @@ begin_operator
 push-unitarypipe s34 b12 a3 a4 b10 lco oc1b
 0
 6
-0 277 0 1
-0 293 -1 0
-0 278 -1 1
-0 294 -1 0
 0 246 -1 0
+0 277 0 1
+0 278 -1 1
+0 293 -1 0
+0 294 -1 0
 0 315 0 1
 1
 end_operator
@@ -27623,12 +27623,12 @@ begin_operator
 push-unitarypipe s34 b12 a3 a4 b11 lco oc1b
 0
 6
-0 303 0 1
 0 293 -1 0
-0 304 -1 1
 0 294 -1 0
-0 395 -1 0
+0 303 0 1
+0 304 -1 1
 0 315 0 1
+0 395 -1 0
 1
 end_operator
 begin_operator
@@ -27636,152 +27636,152 @@ push-unitarypipe s34 b12 a3 a4 b12 lco lco
 1
 293 0
 3
+0 254 -1 0
 0 294 -1 0
 0 315 0 1
-0 254 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b12 a3 a4 b13 lco oc1b
 0
 6
-0 293 -1 0
-0 279 0 1
-0 294 -1 0
-0 280 -1 1
-0 315 0 1
 0 247 -1 0
+0 279 0 1
+0 280 -1 1
+0 293 -1 0
+0 294 -1 0
+0 315 0 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b12 a3 a4 b14 lco oca1
 0
 6
-0 293 -1 0
-0 281 0 1
-0 294 -1 0
-0 282 -1 1
-0 315 0 1
 0 248 -1 0
+0 281 0 1
+0 282 -1 1
+0 293 -1 0
+0 294 -1 0
+0 315 0 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b12 a3 a4 b15 lco oc1b
 0
 6
-0 293 -1 0
-0 283 0 1
-0 294 -1 0
-0 284 -1 1
-0 315 0 1
 0 249 -1 0
+0 283 0 1
+0 284 -1 1
+0 293 -1 0
+0 294 -1 0
+0 315 0 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b12 a3 a4 b2 lco lco
 0
 6
+0 255 -1 0
 0 293 -1 0
-0 295 0 1
 0 294 -1 0
+0 295 0 1
 0 296 -1 1
 0 315 0 1
-0 255 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b12 a3 a4 b3 lco oc1b
 0
 6
-0 293 -1 0
-0 285 0 1
-0 294 -1 0
-0 286 -1 1
-0 315 0 1
 0 250 -1 0
+0 285 0 1
+0 286 -1 1
+0 293 -1 0
+0 294 -1 0
+0 315 0 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b12 a3 a4 b4 lco rat-a
 0
 6
-0 293 -1 0
-0 240 0 1
-0 294 -1 0
-0 241 -1 1
-0 315 0 1
 0 238 -1 0
+0 240 0 1
+0 241 -1 1
+0 293 -1 0
+0 294 -1 0
+0 315 0 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b12 a3 a4 b5 lco oc1b
 0
 6
-0 293 -1 0
-0 287 0 1
-0 294 -1 0
-0 288 -1 1
-0 315 0 1
 0 251 -1 0
+0 287 0 1
+0 288 -1 1
+0 293 -1 0
+0 294 -1 0
+0 315 0 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b12 a3 a4 b6 lco gasoleo
 0
 6
+0 256 -1 0
 0 293 -1 0
-0 297 0 1
 0 294 -1 0
+0 297 0 1
 0 298 -1 1
 0 315 0 1
-0 256 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b12 a3 a4 b7 lco gasoleo
 0
 6
+0 257 -1 0
 0 293 -1 0
-0 299 0 1
 0 294 -1 0
+0 299 0 1
 0 300 -1 1
 0 315 0 1
-0 257 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b12 a3 a4 b8 lco oc1b
 0
 6
-0 293 -1 0
-0 289 0 1
-0 294 -1 0
-0 290 -1 1
-0 315 0 1
 0 252 -1 0
+0 289 0 1
+0 290 -1 1
+0 293 -1 0
+0 294 -1 0
+0 315 0 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b12 a3 a4 b9 lco lco
 0
 6
+0 258 -1 0
 0 293 -1 0
-0 301 0 1
 0 294 -1 0
+0 301 0 1
 0 302 -1 1
 0 315 0 1
-0 258 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b13 a3 a4 b0 oc1b oc1b
 0
 6
-0 275 0 1
-0 279 -1 0
-0 276 -1 1
-0 280 -1 0
 0 245 -1 0
+0 275 0 1
+0 276 -1 1
+0 279 -1 0
+0 280 -1 0
 0 307 0 1
 1
 end_operator
@@ -27789,11 +27789,11 @@ begin_operator
 push-unitarypipe s34 b13 a3 a4 b1 oc1b gasoleo
 0
 6
-0 291 0 1
-0 279 -1 0
-0 292 -1 1
-0 280 -1 0
 0 253 -1 0
+0 279 -1 0
+0 280 -1 0
+0 291 0 1
+0 292 -1 1
 0 307 0 1
 1
 end_operator
@@ -27801,11 +27801,11 @@ begin_operator
 push-unitarypipe s34 b13 a3 a4 b10 oc1b oc1b
 0
 6
-0 277 0 1
-0 279 -1 0
-0 278 -1 1
-0 280 -1 0
 0 246 -1 0
+0 277 0 1
+0 278 -1 1
+0 279 -1 0
+0 280 -1 0
 0 307 0 1
 1
 end_operator
@@ -27813,23 +27813,23 @@ begin_operator
 push-unitarypipe s34 b13 a3 a4 b11 oc1b oc1b
 0
 6
-0 303 0 1
 0 279 -1 0
-0 304 -1 1
 0 280 -1 0
-0 395 -1 0
+0 303 0 1
+0 304 -1 1
 0 307 0 1
+0 395 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b13 a3 a4 b12 oc1b lco
 0
 6
-0 293 0 1
-0 279 -1 0
-0 294 -1 1
-0 280 -1 0
 0 254 -1 0
+0 279 -1 0
+0 280 -1 0
+0 293 0 1
+0 294 -1 1
 0 307 0 1
 1
 end_operator
@@ -27838,128 +27838,128 @@ push-unitarypipe s34 b13 a3 a4 b13 oc1b oc1b
 1
 279 0
 3
+0 247 -1 0
 0 280 -1 0
 0 307 0 1
-0 247 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b13 a3 a4 b14 oc1b oca1
 0
 6
+0 248 -1 0
 0 279 -1 0
-0 281 0 1
 0 280 -1 0
+0 281 0 1
 0 282 -1 1
 0 307 0 1
-0 248 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b13 a3 a4 b15 oc1b oc1b
 0
 6
+0 249 -1 0
 0 279 -1 0
-0 283 0 1
 0 280 -1 0
+0 283 0 1
 0 284 -1 1
 0 307 0 1
-0 249 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b13 a3 a4 b2 oc1b lco
 0
 6
+0 255 -1 0
 0 279 -1 0
-0 295 0 1
 0 280 -1 0
+0 295 0 1
 0 296 -1 1
 0 307 0 1
-0 255 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b13 a3 a4 b3 oc1b oc1b
 0
 6
+0 250 -1 0
 0 279 -1 0
-0 285 0 1
 0 280 -1 0
+0 285 0 1
 0 286 -1 1
 0 307 0 1
-0 250 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b13 a3 a4 b5 oc1b oc1b
 0
 6
+0 251 -1 0
 0 279 -1 0
-0 287 0 1
 0 280 -1 0
+0 287 0 1
 0 288 -1 1
 0 307 0 1
-0 251 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b13 a3 a4 b6 oc1b gasoleo
 0
 6
+0 256 -1 0
 0 279 -1 0
-0 297 0 1
 0 280 -1 0
+0 297 0 1
 0 298 -1 1
 0 307 0 1
-0 256 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b13 a3 a4 b7 oc1b gasoleo
 0
 6
+0 257 -1 0
 0 279 -1 0
-0 299 0 1
 0 280 -1 0
+0 299 0 1
 0 300 -1 1
 0 307 0 1
-0 257 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b13 a3 a4 b8 oc1b oc1b
 0
 6
+0 252 -1 0
 0 279 -1 0
-0 289 0 1
 0 280 -1 0
+0 289 0 1
 0 290 -1 1
 0 307 0 1
-0 252 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b13 a3 a4 b9 oc1b lco
 0
 6
+0 258 -1 0
 0 279 -1 0
-0 301 0 1
 0 280 -1 0
+0 301 0 1
 0 302 -1 1
 0 307 0 1
-0 258 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b14 a3 a4 b0 oca1 oc1b
 0
 6
-0 275 0 1
-0 281 -1 0
-0 276 -1 1
-0 282 -1 0
 0 245 -1 0
+0 275 0 1
+0 276 -1 1
+0 281 -1 0
+0 282 -1 0
 0 308 0 1
 1
 end_operator
@@ -27967,11 +27967,11 @@ begin_operator
 push-unitarypipe s34 b14 a3 a4 b1 oca1 gasoleo
 0
 6
-0 291 0 1
-0 281 -1 0
-0 292 -1 1
-0 282 -1 0
 0 253 -1 0
+0 281 -1 0
+0 282 -1 0
+0 291 0 1
+0 292 -1 1
 0 308 0 1
 1
 end_operator
@@ -27979,11 +27979,11 @@ begin_operator
 push-unitarypipe s34 b14 a3 a4 b10 oca1 oc1b
 0
 6
-0 277 0 1
-0 281 -1 0
-0 278 -1 1
-0 282 -1 0
 0 246 -1 0
+0 277 0 1
+0 278 -1 1
+0 281 -1 0
+0 282 -1 0
 0 308 0 1
 1
 end_operator
@@ -27991,23 +27991,23 @@ begin_operator
 push-unitarypipe s34 b14 a3 a4 b11 oca1 oc1b
 0
 6
-0 303 0 1
 0 281 -1 0
-0 304 -1 1
 0 282 -1 0
-0 395 -1 0
+0 303 0 1
+0 304 -1 1
 0 308 0 1
+0 395 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b14 a3 a4 b12 oca1 lco
 0
 6
-0 293 0 1
-0 281 -1 0
-0 294 -1 1
-0 282 -1 0
 0 254 -1 0
+0 281 -1 0
+0 282 -1 0
+0 293 0 1
+0 294 -1 1
 0 308 0 1
 1
 end_operator
@@ -28015,11 +28015,11 @@ begin_operator
 push-unitarypipe s34 b14 a3 a4 b13 oca1 oc1b
 0
 6
-0 279 0 1
-0 281 -1 0
-0 280 -1 1
-0 282 -1 0
 0 247 -1 0
+0 279 0 1
+0 280 -1 1
+0 281 -1 0
+0 282 -1 0
 0 308 0 1
 1
 end_operator
@@ -28028,116 +28028,116 @@ push-unitarypipe s34 b14 a3 a4 b14 oca1 oca1
 1
 281 0
 3
+0 248 -1 0
 0 282 -1 0
 0 308 0 1
-0 248 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b14 a3 a4 b15 oca1 oc1b
 0
 6
+0 249 -1 0
 0 281 -1 0
-0 283 0 1
 0 282 -1 0
+0 283 0 1
 0 284 -1 1
 0 308 0 1
-0 249 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b14 a3 a4 b2 oca1 lco
 0
 6
+0 255 -1 0
 0 281 -1 0
-0 295 0 1
 0 282 -1 0
+0 295 0 1
 0 296 -1 1
 0 308 0 1
-0 255 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b14 a3 a4 b3 oca1 oc1b
 0
 6
+0 250 -1 0
 0 281 -1 0
-0 285 0 1
 0 282 -1 0
+0 285 0 1
 0 286 -1 1
 0 308 0 1
-0 250 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b14 a3 a4 b5 oca1 oc1b
 0
 6
+0 251 -1 0
 0 281 -1 0
-0 287 0 1
 0 282 -1 0
+0 287 0 1
 0 288 -1 1
 0 308 0 1
-0 251 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b14 a3 a4 b6 oca1 gasoleo
 0
 6
+0 256 -1 0
 0 281 -1 0
-0 297 0 1
 0 282 -1 0
+0 297 0 1
 0 298 -1 1
 0 308 0 1
-0 256 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b14 a3 a4 b7 oca1 gasoleo
 0
 6
+0 257 -1 0
 0 281 -1 0
-0 299 0 1
 0 282 -1 0
+0 299 0 1
 0 300 -1 1
 0 308 0 1
-0 257 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b14 a3 a4 b8 oca1 oc1b
 0
 6
+0 252 -1 0
 0 281 -1 0
-0 289 0 1
 0 282 -1 0
+0 289 0 1
 0 290 -1 1
 0 308 0 1
-0 252 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b14 a3 a4 b9 oca1 lco
 0
 6
+0 258 -1 0
 0 281 -1 0
-0 301 0 1
 0 282 -1 0
+0 301 0 1
 0 302 -1 1
 0 308 0 1
-0 258 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b15 a3 a4 b0 oc1b oc1b
 0
 6
-0 275 0 1
-0 283 -1 0
-0 276 -1 1
-0 284 -1 0
 0 245 -1 0
+0 275 0 1
+0 276 -1 1
+0 283 -1 0
+0 284 -1 0
 0 309 0 1
 1
 end_operator
@@ -28145,11 +28145,11 @@ begin_operator
 push-unitarypipe s34 b15 a3 a4 b1 oc1b gasoleo
 0
 6
-0 291 0 1
-0 283 -1 0
-0 292 -1 1
-0 284 -1 0
 0 253 -1 0
+0 283 -1 0
+0 284 -1 0
+0 291 0 1
+0 292 -1 1
 0 309 0 1
 1
 end_operator
@@ -28157,11 +28157,11 @@ begin_operator
 push-unitarypipe s34 b15 a3 a4 b10 oc1b oc1b
 0
 6
-0 277 0 1
-0 283 -1 0
-0 278 -1 1
-0 284 -1 0
 0 246 -1 0
+0 277 0 1
+0 278 -1 1
+0 283 -1 0
+0 284 -1 0
 0 309 0 1
 1
 end_operator
@@ -28169,23 +28169,23 @@ begin_operator
 push-unitarypipe s34 b15 a3 a4 b11 oc1b oc1b
 0
 6
-0 303 0 1
 0 283 -1 0
-0 304 -1 1
 0 284 -1 0
-0 395 -1 0
+0 303 0 1
+0 304 -1 1
 0 309 0 1
+0 395 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b15 a3 a4 b12 oc1b lco
 0
 6
-0 293 0 1
-0 283 -1 0
-0 294 -1 1
-0 284 -1 0
 0 254 -1 0
+0 283 -1 0
+0 284 -1 0
+0 293 0 1
+0 294 -1 1
 0 309 0 1
 1
 end_operator
@@ -28193,11 +28193,11 @@ begin_operator
 push-unitarypipe s34 b15 a3 a4 b13 oc1b oc1b
 0
 6
-0 279 0 1
-0 283 -1 0
-0 280 -1 1
-0 284 -1 0
 0 247 -1 0
+0 279 0 1
+0 280 -1 1
+0 283 -1 0
+0 284 -1 0
 0 309 0 1
 1
 end_operator
@@ -28205,11 +28205,11 @@ begin_operator
 push-unitarypipe s34 b15 a3 a4 b14 oc1b oca1
 0
 6
-0 281 0 1
-0 283 -1 0
-0 282 -1 1
-0 284 -1 0
 0 248 -1 0
+0 281 0 1
+0 282 -1 1
+0 283 -1 0
+0 284 -1 0
 0 309 0 1
 1
 end_operator
@@ -28218,104 +28218,104 @@ push-unitarypipe s34 b15 a3 a4 b15 oc1b oc1b
 1
 283 0
 3
+0 249 -1 0
 0 284 -1 0
 0 309 0 1
-0 249 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b15 a3 a4 b2 oc1b lco
 0
 6
+0 255 -1 0
 0 283 -1 0
-0 295 0 1
 0 284 -1 0
+0 295 0 1
 0 296 -1 1
 0 309 0 1
-0 255 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b15 a3 a4 b3 oc1b oc1b
 0
 6
+0 250 -1 0
 0 283 -1 0
-0 285 0 1
 0 284 -1 0
+0 285 0 1
 0 286 -1 1
 0 309 0 1
-0 250 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b15 a3 a4 b5 oc1b oc1b
 0
 6
+0 251 -1 0
 0 283 -1 0
-0 287 0 1
 0 284 -1 0
+0 287 0 1
 0 288 -1 1
 0 309 0 1
-0 251 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b15 a3 a4 b6 oc1b gasoleo
 0
 6
+0 256 -1 0
 0 283 -1 0
-0 297 0 1
 0 284 -1 0
+0 297 0 1
 0 298 -1 1
 0 309 0 1
-0 256 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b15 a3 a4 b7 oc1b gasoleo
 0
 6
+0 257 -1 0
 0 283 -1 0
-0 299 0 1
 0 284 -1 0
+0 299 0 1
 0 300 -1 1
 0 309 0 1
-0 257 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b15 a3 a4 b8 oc1b oc1b
 0
 6
+0 252 -1 0
 0 283 -1 0
-0 289 0 1
 0 284 -1 0
+0 289 0 1
 0 290 -1 1
 0 309 0 1
-0 252 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b15 a3 a4 b9 oc1b lco
 0
 6
+0 258 -1 0
 0 283 -1 0
-0 301 0 1
 0 284 -1 0
+0 301 0 1
 0 302 -1 1
 0 309 0 1
-0 258 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b2 a3 a4 b0 lco oc1b
 0
 6
-0 275 0 1
-0 295 -1 0
-0 276 -1 1
-0 296 -1 0
 0 245 -1 0
+0 275 0 1
+0 276 -1 1
+0 295 -1 0
+0 296 -1 0
 0 316 0 1
 1
 end_operator
@@ -28323,11 +28323,11 @@ begin_operator
 push-unitarypipe s34 b2 a3 a4 b1 lco gasoleo
 0
 6
-0 291 0 1
-0 295 -1 0
-0 292 -1 1
-0 296 -1 0
 0 253 -1 0
+0 291 0 1
+0 292 -1 1
+0 295 -1 0
+0 296 -1 0
 0 316 0 1
 1
 end_operator
@@ -28335,11 +28335,11 @@ begin_operator
 push-unitarypipe s34 b2 a3 a4 b10 lco oc1b
 0
 6
-0 277 0 1
-0 295 -1 0
-0 278 -1 1
-0 296 -1 0
 0 246 -1 0
+0 277 0 1
+0 278 -1 1
+0 295 -1 0
+0 296 -1 0
 0 316 0 1
 1
 end_operator
@@ -28347,23 +28347,23 @@ begin_operator
 push-unitarypipe s34 b2 a3 a4 b11 lco oc1b
 0
 6
-0 303 0 1
 0 295 -1 0
-0 304 -1 1
 0 296 -1 0
-0 395 -1 0
+0 303 0 1
+0 304 -1 1
 0 316 0 1
+0 395 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b2 a3 a4 b12 lco lco
 0
 6
-0 293 0 1
-0 295 -1 0
-0 294 -1 1
-0 296 -1 0
 0 254 -1 0
+0 293 0 1
+0 294 -1 1
+0 295 -1 0
+0 296 -1 0
 0 316 0 1
 1
 end_operator
@@ -28371,11 +28371,11 @@ begin_operator
 push-unitarypipe s34 b2 a3 a4 b13 lco oc1b
 0
 6
-0 279 0 1
-0 295 -1 0
-0 280 -1 1
-0 296 -1 0
 0 247 -1 0
+0 279 0 1
+0 280 -1 1
+0 295 -1 0
+0 296 -1 0
 0 316 0 1
 1
 end_operator
@@ -28383,11 +28383,11 @@ begin_operator
 push-unitarypipe s34 b2 a3 a4 b14 lco oca1
 0
 6
-0 281 0 1
-0 295 -1 0
-0 282 -1 1
-0 296 -1 0
 0 248 -1 0
+0 281 0 1
+0 282 -1 1
+0 295 -1 0
+0 296 -1 0
 0 316 0 1
 1
 end_operator
@@ -28395,11 +28395,11 @@ begin_operator
 push-unitarypipe s34 b2 a3 a4 b15 lco oc1b
 0
 6
-0 283 0 1
-0 295 -1 0
-0 284 -1 1
-0 296 -1 0
 0 249 -1 0
+0 283 0 1
+0 284 -1 1
+0 295 -1 0
+0 296 -1 0
 0 316 0 1
 1
 end_operator
@@ -28408,104 +28408,104 @@ push-unitarypipe s34 b2 a3 a4 b2 lco lco
 1
 295 0
 3
+0 255 -1 0
 0 296 -1 0
 0 316 0 1
-0 255 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b2 a3 a4 b3 lco oc1b
 0
 6
-0 295 -1 0
-0 285 0 1
-0 296 -1 0
-0 286 -1 1
-0 316 0 1
 0 250 -1 0
+0 285 0 1
+0 286 -1 1
+0 295 -1 0
+0 296 -1 0
+0 316 0 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b2 a3 a4 b4 lco rat-a
 0
 6
-0 295 -1 0
-0 240 0 1
-0 296 -1 0
-0 241 -1 1
-0 316 0 1
 0 238 -1 0
+0 240 0 1
+0 241 -1 1
+0 295 -1 0
+0 296 -1 0
+0 316 0 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b2 a3 a4 b5 lco oc1b
 0
 6
-0 295 -1 0
-0 287 0 1
-0 296 -1 0
-0 288 -1 1
-0 316 0 1
 0 251 -1 0
+0 287 0 1
+0 288 -1 1
+0 295 -1 0
+0 296 -1 0
+0 316 0 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b2 a3 a4 b6 lco gasoleo
 0
 6
+0 256 -1 0
 0 295 -1 0
-0 297 0 1
 0 296 -1 0
+0 297 0 1
 0 298 -1 1
 0 316 0 1
-0 256 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b2 a3 a4 b7 lco gasoleo
 0
 6
+0 257 -1 0
 0 295 -1 0
-0 299 0 1
 0 296 -1 0
+0 299 0 1
 0 300 -1 1
 0 316 0 1
-0 257 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b2 a3 a4 b8 lco oc1b
 0
 6
-0 295 -1 0
-0 289 0 1
-0 296 -1 0
-0 290 -1 1
-0 316 0 1
 0 252 -1 0
+0 289 0 1
+0 290 -1 1
+0 295 -1 0
+0 296 -1 0
+0 316 0 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b2 a3 a4 b9 lco lco
 0
 6
+0 258 -1 0
 0 295 -1 0
-0 301 0 1
 0 296 -1 0
+0 301 0 1
 0 302 -1 1
 0 316 0 1
-0 258 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b3 a3 a4 b0 oc1b oc1b
 0
 6
-0 275 0 1
-0 285 -1 0
-0 276 -1 1
-0 286 -1 0
 0 245 -1 0
+0 275 0 1
+0 276 -1 1
+0 285 -1 0
+0 286 -1 0
 0 310 0 1
 1
 end_operator
@@ -28513,11 +28513,11 @@ begin_operator
 push-unitarypipe s34 b3 a3 a4 b1 oc1b gasoleo
 0
 6
-0 291 0 1
-0 285 -1 0
-0 292 -1 1
-0 286 -1 0
 0 253 -1 0
+0 285 -1 0
+0 286 -1 0
+0 291 0 1
+0 292 -1 1
 0 310 0 1
 1
 end_operator
@@ -28525,11 +28525,11 @@ begin_operator
 push-unitarypipe s34 b3 a3 a4 b10 oc1b oc1b
 0
 6
-0 277 0 1
-0 285 -1 0
-0 278 -1 1
-0 286 -1 0
 0 246 -1 0
+0 277 0 1
+0 278 -1 1
+0 285 -1 0
+0 286 -1 0
 0 310 0 1
 1
 end_operator
@@ -28537,23 +28537,23 @@ begin_operator
 push-unitarypipe s34 b3 a3 a4 b11 oc1b oc1b
 0
 6
-0 303 0 1
 0 285 -1 0
-0 304 -1 1
 0 286 -1 0
-0 395 -1 0
+0 303 0 1
+0 304 -1 1
 0 310 0 1
+0 395 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b3 a3 a4 b12 oc1b lco
 0
 6
-0 293 0 1
-0 285 -1 0
-0 294 -1 1
-0 286 -1 0
 0 254 -1 0
+0 285 -1 0
+0 286 -1 0
+0 293 0 1
+0 294 -1 1
 0 310 0 1
 1
 end_operator
@@ -28561,11 +28561,11 @@ begin_operator
 push-unitarypipe s34 b3 a3 a4 b13 oc1b oc1b
 0
 6
-0 279 0 1
-0 285 -1 0
-0 280 -1 1
-0 286 -1 0
 0 247 -1 0
+0 279 0 1
+0 280 -1 1
+0 285 -1 0
+0 286 -1 0
 0 310 0 1
 1
 end_operator
@@ -28573,11 +28573,11 @@ begin_operator
 push-unitarypipe s34 b3 a3 a4 b14 oc1b oca1
 0
 6
-0 281 0 1
-0 285 -1 0
-0 282 -1 1
-0 286 -1 0
 0 248 -1 0
+0 281 0 1
+0 282 -1 1
+0 285 -1 0
+0 286 -1 0
 0 310 0 1
 1
 end_operator
@@ -28585,11 +28585,11 @@ begin_operator
 push-unitarypipe s34 b3 a3 a4 b15 oc1b oc1b
 0
 6
-0 283 0 1
-0 285 -1 0
-0 284 -1 1
-0 286 -1 0
 0 249 -1 0
+0 283 0 1
+0 284 -1 1
+0 285 -1 0
+0 286 -1 0
 0 310 0 1
 1
 end_operator
@@ -28597,11 +28597,11 @@ begin_operator
 push-unitarypipe s34 b3 a3 a4 b2 oc1b lco
 0
 6
-0 295 0 1
-0 285 -1 0
-0 296 -1 1
-0 286 -1 0
 0 255 -1 0
+0 285 -1 0
+0 286 -1 0
+0 295 0 1
+0 296 -1 1
 0 310 0 1
 1
 end_operator
@@ -28610,105 +28610,105 @@ push-unitarypipe s34 b3 a3 a4 b3 oc1b oc1b
 1
 285 0
 3
+0 250 -1 0
 0 286 -1 0
 0 310 0 1
-0 250 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b3 a3 a4 b5 oc1b oc1b
 0
 6
+0 251 -1 0
 0 285 -1 0
-0 287 0 1
 0 286 -1 0
+0 287 0 1
 0 288 -1 1
 0 310 0 1
-0 251 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b3 a3 a4 b6 oc1b gasoleo
 0
 6
+0 256 -1 0
 0 285 -1 0
-0 297 0 1
 0 286 -1 0
+0 297 0 1
 0 298 -1 1
 0 310 0 1
-0 256 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b3 a3 a4 b7 oc1b gasoleo
 0
 6
+0 257 -1 0
 0 285 -1 0
-0 299 0 1
 0 286 -1 0
+0 299 0 1
 0 300 -1 1
 0 310 0 1
-0 257 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b3 a3 a4 b8 oc1b oc1b
 0
 6
+0 252 -1 0
 0 285 -1 0
-0 289 0 1
 0 286 -1 0
+0 289 0 1
 0 290 -1 1
 0 310 0 1
-0 252 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b3 a3 a4 b9 oc1b lco
 0
 6
+0 258 -1 0
 0 285 -1 0
-0 301 0 1
 0 286 -1 0
+0 301 0 1
 0 302 -1 1
 0 310 0 1
-0 258 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b4 a3 a4 b1 rat-a gasoleo
 0
 6
-0 291 0 1
 0 240 -1 0
-0 292 -1 1
 0 241 -1 0
-0 253 -1 0
 0 242 0 1
+0 253 -1 0
+0 291 0 1
+0 292 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b4 a3 a4 b12 rat-a lco
 0
 6
-0 293 0 1
 0 240 -1 0
-0 294 -1 1
 0 241 -1 0
-0 254 -1 0
 0 242 0 1
+0 254 -1 0
+0 293 0 1
+0 294 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b4 a3 a4 b2 rat-a lco
 0
 6
-0 295 0 1
 0 240 -1 0
-0 296 -1 1
 0 241 -1 0
-0 255 -1 0
 0 242 0 1
+0 255 -1 0
+0 295 0 1
+0 296 -1 1
 1
 end_operator
 begin_operator
@@ -28716,9 +28716,9 @@ push-unitarypipe s34 b4 a3 a4 b4 rat-a rat-a
 1
 240 0
 3
+0 238 -1 0
 0 241 -1 0
 0 242 0 1
-0 238 -1 0
 1
 end_operator
 begin_operator
@@ -28726,11 +28726,11 @@ push-unitarypipe s34 b4 a3 a4 b6 rat-a gasoleo
 0
 6
 0 240 -1 0
-0 297 0 1
 0 241 -1 0
-0 298 -1 1
 0 242 0 1
 0 256 -1 0
+0 297 0 1
+0 298 -1 1
 1
 end_operator
 begin_operator
@@ -28738,11 +28738,11 @@ push-unitarypipe s34 b4 a3 a4 b7 rat-a gasoleo
 0
 6
 0 240 -1 0
-0 299 0 1
 0 241 -1 0
-0 300 -1 1
 0 242 0 1
 0 257 -1 0
+0 299 0 1
+0 300 -1 1
 1
 end_operator
 begin_operator
@@ -28750,22 +28750,22 @@ push-unitarypipe s34 b4 a3 a4 b9 rat-a lco
 0
 6
 0 240 -1 0
-0 301 0 1
 0 241 -1 0
-0 302 -1 1
 0 242 0 1
 0 258 -1 0
+0 301 0 1
+0 302 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b5 a3 a4 b0 oc1b oc1b
 0
 6
-0 275 0 1
-0 287 -1 0
-0 276 -1 1
-0 288 -1 0
 0 245 -1 0
+0 275 0 1
+0 276 -1 1
+0 287 -1 0
+0 288 -1 0
 0 311 0 1
 1
 end_operator
@@ -28773,11 +28773,11 @@ begin_operator
 push-unitarypipe s34 b5 a3 a4 b1 oc1b gasoleo
 0
 6
-0 291 0 1
-0 287 -1 0
-0 292 -1 1
-0 288 -1 0
 0 253 -1 0
+0 287 -1 0
+0 288 -1 0
+0 291 0 1
+0 292 -1 1
 0 311 0 1
 1
 end_operator
@@ -28785,11 +28785,11 @@ begin_operator
 push-unitarypipe s34 b5 a3 a4 b10 oc1b oc1b
 0
 6
-0 277 0 1
-0 287 -1 0
-0 278 -1 1
-0 288 -1 0
 0 246 -1 0
+0 277 0 1
+0 278 -1 1
+0 287 -1 0
+0 288 -1 0
 0 311 0 1
 1
 end_operator
@@ -28797,23 +28797,23 @@ begin_operator
 push-unitarypipe s34 b5 a3 a4 b11 oc1b oc1b
 0
 6
-0 303 0 1
 0 287 -1 0
-0 304 -1 1
 0 288 -1 0
-0 395 -1 0
+0 303 0 1
+0 304 -1 1
 0 311 0 1
+0 395 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b5 a3 a4 b12 oc1b lco
 0
 6
-0 293 0 1
-0 287 -1 0
-0 294 -1 1
-0 288 -1 0
 0 254 -1 0
+0 287 -1 0
+0 288 -1 0
+0 293 0 1
+0 294 -1 1
 0 311 0 1
 1
 end_operator
@@ -28821,11 +28821,11 @@ begin_operator
 push-unitarypipe s34 b5 a3 a4 b13 oc1b oc1b
 0
 6
-0 279 0 1
-0 287 -1 0
-0 280 -1 1
-0 288 -1 0
 0 247 -1 0
+0 279 0 1
+0 280 -1 1
+0 287 -1 0
+0 288 -1 0
 0 311 0 1
 1
 end_operator
@@ -28833,11 +28833,11 @@ begin_operator
 push-unitarypipe s34 b5 a3 a4 b14 oc1b oca1
 0
 6
-0 281 0 1
-0 287 -1 0
-0 282 -1 1
-0 288 -1 0
 0 248 -1 0
+0 281 0 1
+0 282 -1 1
+0 287 -1 0
+0 288 -1 0
 0 311 0 1
 1
 end_operator
@@ -28845,11 +28845,11 @@ begin_operator
 push-unitarypipe s34 b5 a3 a4 b15 oc1b oc1b
 0
 6
-0 283 0 1
-0 287 -1 0
-0 284 -1 1
-0 288 -1 0
 0 249 -1 0
+0 283 0 1
+0 284 -1 1
+0 287 -1 0
+0 288 -1 0
 0 311 0 1
 1
 end_operator
@@ -28857,11 +28857,11 @@ begin_operator
 push-unitarypipe s34 b5 a3 a4 b2 oc1b lco
 0
 6
-0 295 0 1
-0 287 -1 0
-0 296 -1 1
-0 288 -1 0
 0 255 -1 0
+0 287 -1 0
+0 288 -1 0
+0 295 0 1
+0 296 -1 1
 0 311 0 1
 1
 end_operator
@@ -28869,11 +28869,11 @@ begin_operator
 push-unitarypipe s34 b5 a3 a4 b3 oc1b oc1b
 0
 6
-0 285 0 1
-0 287 -1 0
-0 286 -1 1
-0 288 -1 0
 0 250 -1 0
+0 285 0 1
+0 286 -1 1
+0 287 -1 0
+0 288 -1 0
 0 311 0 1
 1
 end_operator
@@ -28882,68 +28882,68 @@ push-unitarypipe s34 b5 a3 a4 b5 oc1b oc1b
 1
 287 0
 3
+0 251 -1 0
 0 288 -1 0
 0 311 0 1
-0 251 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b5 a3 a4 b6 oc1b gasoleo
 0
 6
+0 256 -1 0
 0 287 -1 0
-0 297 0 1
 0 288 -1 0
+0 297 0 1
 0 298 -1 1
 0 311 0 1
-0 256 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b5 a3 a4 b7 oc1b gasoleo
 0
 6
+0 257 -1 0
 0 287 -1 0
-0 299 0 1
 0 288 -1 0
+0 299 0 1
 0 300 -1 1
 0 311 0 1
-0 257 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b5 a3 a4 b8 oc1b oc1b
 0
 6
+0 252 -1 0
 0 287 -1 0
-0 289 0 1
 0 288 -1 0
+0 289 0 1
 0 290 -1 1
 0 311 0 1
-0 252 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b5 a3 a4 b9 oc1b lco
 0
 6
+0 258 -1 0
 0 287 -1 0
-0 301 0 1
 0 288 -1 0
+0 301 0 1
 0 302 -1 1
 0 311 0 1
-0 258 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b6 a3 a4 b0 gasoleo oc1b
 0
 6
-0 275 0 1
-0 297 -1 0
-0 276 -1 1
-0 298 -1 0
 0 245 -1 0
+0 275 0 1
+0 276 -1 1
+0 297 -1 0
+0 298 -1 0
 0 317 0 1
 1
 end_operator
@@ -28951,11 +28951,11 @@ begin_operator
 push-unitarypipe s34 b6 a3 a4 b1 gasoleo gasoleo
 0
 6
-0 291 0 1
-0 297 -1 0
-0 292 -1 1
-0 298 -1 0
 0 253 -1 0
+0 291 0 1
+0 292 -1 1
+0 297 -1 0
+0 298 -1 0
 0 317 0 1
 1
 end_operator
@@ -28963,11 +28963,11 @@ begin_operator
 push-unitarypipe s34 b6 a3 a4 b10 gasoleo oc1b
 0
 6
-0 277 0 1
-0 297 -1 0
-0 278 -1 1
-0 298 -1 0
 0 246 -1 0
+0 277 0 1
+0 278 -1 1
+0 297 -1 0
+0 298 -1 0
 0 317 0 1
 1
 end_operator
@@ -28975,23 +28975,23 @@ begin_operator
 push-unitarypipe s34 b6 a3 a4 b11 gasoleo oc1b
 0
 6
-0 303 0 1
 0 297 -1 0
-0 304 -1 1
 0 298 -1 0
-0 395 -1 0
+0 303 0 1
+0 304 -1 1
 0 317 0 1
+0 395 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b6 a3 a4 b12 gasoleo lco
 0
 6
-0 293 0 1
-0 297 -1 0
-0 294 -1 1
-0 298 -1 0
 0 254 -1 0
+0 293 0 1
+0 294 -1 1
+0 297 -1 0
+0 298 -1 0
 0 317 0 1
 1
 end_operator
@@ -28999,11 +28999,11 @@ begin_operator
 push-unitarypipe s34 b6 a3 a4 b13 gasoleo oc1b
 0
 6
-0 279 0 1
-0 297 -1 0
-0 280 -1 1
-0 298 -1 0
 0 247 -1 0
+0 279 0 1
+0 280 -1 1
+0 297 -1 0
+0 298 -1 0
 0 317 0 1
 1
 end_operator
@@ -29011,11 +29011,11 @@ begin_operator
 push-unitarypipe s34 b6 a3 a4 b14 gasoleo oca1
 0
 6
-0 281 0 1
-0 297 -1 0
-0 282 -1 1
-0 298 -1 0
 0 248 -1 0
+0 281 0 1
+0 282 -1 1
+0 297 -1 0
+0 298 -1 0
 0 317 0 1
 1
 end_operator
@@ -29023,11 +29023,11 @@ begin_operator
 push-unitarypipe s34 b6 a3 a4 b15 gasoleo oc1b
 0
 6
-0 283 0 1
-0 297 -1 0
-0 284 -1 1
-0 298 -1 0
 0 249 -1 0
+0 283 0 1
+0 284 -1 1
+0 297 -1 0
+0 298 -1 0
 0 317 0 1
 1
 end_operator
@@ -29035,11 +29035,11 @@ begin_operator
 push-unitarypipe s34 b6 a3 a4 b2 gasoleo lco
 0
 6
-0 295 0 1
-0 297 -1 0
-0 296 -1 1
-0 298 -1 0
 0 255 -1 0
+0 295 0 1
+0 296 -1 1
+0 297 -1 0
+0 298 -1 0
 0 317 0 1
 1
 end_operator
@@ -29047,11 +29047,11 @@ begin_operator
 push-unitarypipe s34 b6 a3 a4 b3 gasoleo oc1b
 0
 6
-0 285 0 1
-0 297 -1 0
-0 286 -1 1
-0 298 -1 0
 0 250 -1 0
+0 285 0 1
+0 286 -1 1
+0 297 -1 0
+0 298 -1 0
 0 317 0 1
 1
 end_operator
@@ -29059,11 +29059,11 @@ begin_operator
 push-unitarypipe s34 b6 a3 a4 b4 gasoleo rat-a
 0
 6
-0 240 0 1
-0 297 -1 0
-0 241 -1 1
-0 298 -1 0
 0 238 -1 0
+0 240 0 1
+0 241 -1 1
+0 297 -1 0
+0 298 -1 0
 0 317 0 1
 1
 end_operator
@@ -29071,11 +29071,11 @@ begin_operator
 push-unitarypipe s34 b6 a3 a4 b5 gasoleo oc1b
 0
 6
-0 287 0 1
-0 297 -1 0
-0 288 -1 1
-0 298 -1 0
 0 251 -1 0
+0 287 0 1
+0 288 -1 1
+0 297 -1 0
+0 298 -1 0
 0 317 0 1
 1
 end_operator
@@ -29084,56 +29084,56 @@ push-unitarypipe s34 b6 a3 a4 b6 gasoleo gasoleo
 1
 297 0
 3
+0 256 -1 0
 0 298 -1 0
 0 317 0 1
-0 256 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b6 a3 a4 b7 gasoleo gasoleo
 0
 6
+0 257 -1 0
 0 297 -1 0
-0 299 0 1
 0 298 -1 0
+0 299 0 1
 0 300 -1 1
 0 317 0 1
-0 257 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b6 a3 a4 b8 gasoleo oc1b
 0
 6
-0 297 -1 0
-0 289 0 1
-0 298 -1 0
-0 290 -1 1
-0 317 0 1
 0 252 -1 0
+0 289 0 1
+0 290 -1 1
+0 297 -1 0
+0 298 -1 0
+0 317 0 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b6 a3 a4 b9 gasoleo lco
 0
 6
+0 258 -1 0
 0 297 -1 0
-0 301 0 1
 0 298 -1 0
+0 301 0 1
 0 302 -1 1
 0 317 0 1
-0 258 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b7 a3 a4 b0 gasoleo oc1b
 0
 6
-0 275 0 1
-0 299 -1 0
-0 276 -1 1
-0 300 -1 0
 0 245 -1 0
+0 275 0 1
+0 276 -1 1
+0 299 -1 0
+0 300 -1 0
 0 318 0 1
 1
 end_operator
@@ -29141,11 +29141,11 @@ begin_operator
 push-unitarypipe s34 b7 a3 a4 b1 gasoleo gasoleo
 0
 6
-0 291 0 1
-0 299 -1 0
-0 292 -1 1
-0 300 -1 0
 0 253 -1 0
+0 291 0 1
+0 292 -1 1
+0 299 -1 0
+0 300 -1 0
 0 318 0 1
 1
 end_operator
@@ -29153,11 +29153,11 @@ begin_operator
 push-unitarypipe s34 b7 a3 a4 b10 gasoleo oc1b
 0
 6
-0 277 0 1
-0 299 -1 0
-0 278 -1 1
-0 300 -1 0
 0 246 -1 0
+0 277 0 1
+0 278 -1 1
+0 299 -1 0
+0 300 -1 0
 0 318 0 1
 1
 end_operator
@@ -29165,23 +29165,23 @@ begin_operator
 push-unitarypipe s34 b7 a3 a4 b11 gasoleo oc1b
 0
 6
-0 303 0 1
 0 299 -1 0
-0 304 -1 1
 0 300 -1 0
-0 395 -1 0
+0 303 0 1
+0 304 -1 1
 0 318 0 1
+0 395 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b7 a3 a4 b12 gasoleo lco
 0
 6
-0 293 0 1
-0 299 -1 0
-0 294 -1 1
-0 300 -1 0
 0 254 -1 0
+0 293 0 1
+0 294 -1 1
+0 299 -1 0
+0 300 -1 0
 0 318 0 1
 1
 end_operator
@@ -29189,11 +29189,11 @@ begin_operator
 push-unitarypipe s34 b7 a3 a4 b13 gasoleo oc1b
 0
 6
-0 279 0 1
-0 299 -1 0
-0 280 -1 1
-0 300 -1 0
 0 247 -1 0
+0 279 0 1
+0 280 -1 1
+0 299 -1 0
+0 300 -1 0
 0 318 0 1
 1
 end_operator
@@ -29201,11 +29201,11 @@ begin_operator
 push-unitarypipe s34 b7 a3 a4 b14 gasoleo oca1
 0
 6
-0 281 0 1
-0 299 -1 0
-0 282 -1 1
-0 300 -1 0
 0 248 -1 0
+0 281 0 1
+0 282 -1 1
+0 299 -1 0
+0 300 -1 0
 0 318 0 1
 1
 end_operator
@@ -29213,11 +29213,11 @@ begin_operator
 push-unitarypipe s34 b7 a3 a4 b15 gasoleo oc1b
 0
 6
-0 283 0 1
-0 299 -1 0
-0 284 -1 1
-0 300 -1 0
 0 249 -1 0
+0 283 0 1
+0 284 -1 1
+0 299 -1 0
+0 300 -1 0
 0 318 0 1
 1
 end_operator
@@ -29225,11 +29225,11 @@ begin_operator
 push-unitarypipe s34 b7 a3 a4 b2 gasoleo lco
 0
 6
-0 295 0 1
-0 299 -1 0
-0 296 -1 1
-0 300 -1 0
 0 255 -1 0
+0 295 0 1
+0 296 -1 1
+0 299 -1 0
+0 300 -1 0
 0 318 0 1
 1
 end_operator
@@ -29237,11 +29237,11 @@ begin_operator
 push-unitarypipe s34 b7 a3 a4 b3 gasoleo oc1b
 0
 6
-0 285 0 1
-0 299 -1 0
-0 286 -1 1
-0 300 -1 0
 0 250 -1 0
+0 285 0 1
+0 286 -1 1
+0 299 -1 0
+0 300 -1 0
 0 318 0 1
 1
 end_operator
@@ -29249,11 +29249,11 @@ begin_operator
 push-unitarypipe s34 b7 a3 a4 b4 gasoleo rat-a
 0
 6
-0 240 0 1
-0 299 -1 0
-0 241 -1 1
-0 300 -1 0
 0 238 -1 0
+0 240 0 1
+0 241 -1 1
+0 299 -1 0
+0 300 -1 0
 0 318 0 1
 1
 end_operator
@@ -29261,11 +29261,11 @@ begin_operator
 push-unitarypipe s34 b7 a3 a4 b5 gasoleo oc1b
 0
 6
-0 287 0 1
-0 299 -1 0
-0 288 -1 1
-0 300 -1 0
 0 251 -1 0
+0 287 0 1
+0 288 -1 1
+0 299 -1 0
+0 300 -1 0
 0 318 0 1
 1
 end_operator
@@ -29273,11 +29273,11 @@ begin_operator
 push-unitarypipe s34 b7 a3 a4 b6 gasoleo gasoleo
 0
 6
-0 297 0 1
-0 299 -1 0
-0 298 -1 1
-0 300 -1 0
 0 256 -1 0
+0 297 0 1
+0 298 -1 1
+0 299 -1 0
+0 300 -1 0
 0 318 0 1
 1
 end_operator
@@ -29286,44 +29286,44 @@ push-unitarypipe s34 b7 a3 a4 b7 gasoleo gasoleo
 1
 299 0
 3
+0 257 -1 0
 0 300 -1 0
 0 318 0 1
-0 257 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b7 a3 a4 b8 gasoleo oc1b
 0
 6
-0 299 -1 0
-0 289 0 1
-0 300 -1 0
-0 290 -1 1
-0 318 0 1
 0 252 -1 0
+0 289 0 1
+0 290 -1 1
+0 299 -1 0
+0 300 -1 0
+0 318 0 1
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b7 a3 a4 b9 gasoleo lco
 0
 6
+0 258 -1 0
 0 299 -1 0
-0 301 0 1
 0 300 -1 0
+0 301 0 1
 0 302 -1 1
 0 318 0 1
-0 258 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b8 a3 a4 b0 oc1b oc1b
 0
 6
-0 275 0 1
-0 289 -1 0
-0 276 -1 1
-0 290 -1 0
 0 245 -1 0
+0 275 0 1
+0 276 -1 1
+0 289 -1 0
+0 290 -1 0
 0 312 0 1
 1
 end_operator
@@ -29331,11 +29331,11 @@ begin_operator
 push-unitarypipe s34 b8 a3 a4 b1 oc1b gasoleo
 0
 6
-0 291 0 1
-0 289 -1 0
-0 292 -1 1
-0 290 -1 0
 0 253 -1 0
+0 289 -1 0
+0 290 -1 0
+0 291 0 1
+0 292 -1 1
 0 312 0 1
 1
 end_operator
@@ -29343,11 +29343,11 @@ begin_operator
 push-unitarypipe s34 b8 a3 a4 b10 oc1b oc1b
 0
 6
-0 277 0 1
-0 289 -1 0
-0 278 -1 1
-0 290 -1 0
 0 246 -1 0
+0 277 0 1
+0 278 -1 1
+0 289 -1 0
+0 290 -1 0
 0 312 0 1
 1
 end_operator
@@ -29355,23 +29355,23 @@ begin_operator
 push-unitarypipe s34 b8 a3 a4 b11 oc1b oc1b
 0
 6
-0 303 0 1
 0 289 -1 0
-0 304 -1 1
 0 290 -1 0
-0 395 -1 0
+0 303 0 1
+0 304 -1 1
 0 312 0 1
+0 395 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b8 a3 a4 b12 oc1b lco
 0
 6
-0 293 0 1
-0 289 -1 0
-0 294 -1 1
-0 290 -1 0
 0 254 -1 0
+0 289 -1 0
+0 290 -1 0
+0 293 0 1
+0 294 -1 1
 0 312 0 1
 1
 end_operator
@@ -29379,11 +29379,11 @@ begin_operator
 push-unitarypipe s34 b8 a3 a4 b13 oc1b oc1b
 0
 6
-0 279 0 1
-0 289 -1 0
-0 280 -1 1
-0 290 -1 0
 0 247 -1 0
+0 279 0 1
+0 280 -1 1
+0 289 -1 0
+0 290 -1 0
 0 312 0 1
 1
 end_operator
@@ -29391,11 +29391,11 @@ begin_operator
 push-unitarypipe s34 b8 a3 a4 b14 oc1b oca1
 0
 6
-0 281 0 1
-0 289 -1 0
-0 282 -1 1
-0 290 -1 0
 0 248 -1 0
+0 281 0 1
+0 282 -1 1
+0 289 -1 0
+0 290 -1 0
 0 312 0 1
 1
 end_operator
@@ -29403,11 +29403,11 @@ begin_operator
 push-unitarypipe s34 b8 a3 a4 b15 oc1b oc1b
 0
 6
-0 283 0 1
-0 289 -1 0
-0 284 -1 1
-0 290 -1 0
 0 249 -1 0
+0 283 0 1
+0 284 -1 1
+0 289 -1 0
+0 290 -1 0
 0 312 0 1
 1
 end_operator
@@ -29415,11 +29415,11 @@ begin_operator
 push-unitarypipe s34 b8 a3 a4 b2 oc1b lco
 0
 6
-0 295 0 1
-0 289 -1 0
-0 296 -1 1
-0 290 -1 0
 0 255 -1 0
+0 289 -1 0
+0 290 -1 0
+0 295 0 1
+0 296 -1 1
 0 312 0 1
 1
 end_operator
@@ -29427,11 +29427,11 @@ begin_operator
 push-unitarypipe s34 b8 a3 a4 b3 oc1b oc1b
 0
 6
-0 285 0 1
-0 289 -1 0
-0 286 -1 1
-0 290 -1 0
 0 250 -1 0
+0 285 0 1
+0 286 -1 1
+0 289 -1 0
+0 290 -1 0
 0 312 0 1
 1
 end_operator
@@ -29439,11 +29439,11 @@ begin_operator
 push-unitarypipe s34 b8 a3 a4 b5 oc1b oc1b
 0
 6
-0 287 0 1
-0 289 -1 0
-0 288 -1 1
-0 290 -1 0
 0 251 -1 0
+0 287 0 1
+0 288 -1 1
+0 289 -1 0
+0 290 -1 0
 0 312 0 1
 1
 end_operator
@@ -29451,11 +29451,11 @@ begin_operator
 push-unitarypipe s34 b8 a3 a4 b6 oc1b gasoleo
 0
 6
-0 297 0 1
-0 289 -1 0
-0 298 -1 1
-0 290 -1 0
 0 256 -1 0
+0 289 -1 0
+0 290 -1 0
+0 297 0 1
+0 298 -1 1
 0 312 0 1
 1
 end_operator
@@ -29463,11 +29463,11 @@ begin_operator
 push-unitarypipe s34 b8 a3 a4 b7 oc1b gasoleo
 0
 6
-0 299 0 1
-0 289 -1 0
-0 300 -1 1
-0 290 -1 0
 0 257 -1 0
+0 289 -1 0
+0 290 -1 0
+0 299 0 1
+0 300 -1 1
 0 312 0 1
 1
 end_operator
@@ -29476,32 +29476,32 @@ push-unitarypipe s34 b8 a3 a4 b8 oc1b oc1b
 1
 289 0
 3
+0 252 -1 0
 0 290 -1 0
 0 312 0 1
-0 252 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b8 a3 a4 b9 oc1b lco
 0
 6
+0 258 -1 0
 0 289 -1 0
-0 301 0 1
 0 290 -1 0
+0 301 0 1
 0 302 -1 1
 0 312 0 1
-0 258 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b9 a3 a4 b0 lco oc1b
 0
 6
-0 275 0 1
-0 301 -1 0
-0 276 -1 1
-0 302 -1 0
 0 245 -1 0
+0 275 0 1
+0 276 -1 1
+0 301 -1 0
+0 302 -1 0
 0 319 0 1
 1
 end_operator
@@ -29509,11 +29509,11 @@ begin_operator
 push-unitarypipe s34 b9 a3 a4 b1 lco gasoleo
 0
 6
-0 291 0 1
-0 301 -1 0
-0 292 -1 1
-0 302 -1 0
 0 253 -1 0
+0 291 0 1
+0 292 -1 1
+0 301 -1 0
+0 302 -1 0
 0 319 0 1
 1
 end_operator
@@ -29521,11 +29521,11 @@ begin_operator
 push-unitarypipe s34 b9 a3 a4 b10 lco oc1b
 0
 6
-0 277 0 1
-0 301 -1 0
-0 278 -1 1
-0 302 -1 0
 0 246 -1 0
+0 277 0 1
+0 278 -1 1
+0 301 -1 0
+0 302 -1 0
 0 319 0 1
 1
 end_operator
@@ -29533,23 +29533,23 @@ begin_operator
 push-unitarypipe s34 b9 a3 a4 b11 lco oc1b
 0
 6
-0 303 0 1
 0 301 -1 0
-0 304 -1 1
 0 302 -1 0
-0 395 -1 0
+0 303 0 1
+0 304 -1 1
 0 319 0 1
+0 395 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s34 b9 a3 a4 b12 lco lco
 0
 6
-0 293 0 1
-0 301 -1 0
-0 294 -1 1
-0 302 -1 0
 0 254 -1 0
+0 293 0 1
+0 294 -1 1
+0 301 -1 0
+0 302 -1 0
 0 319 0 1
 1
 end_operator
@@ -29557,11 +29557,11 @@ begin_operator
 push-unitarypipe s34 b9 a3 a4 b13 lco oc1b
 0
 6
-0 279 0 1
-0 301 -1 0
-0 280 -1 1
-0 302 -1 0
 0 247 -1 0
+0 279 0 1
+0 280 -1 1
+0 301 -1 0
+0 302 -1 0
 0 319 0 1
 1
 end_operator
@@ -29569,11 +29569,11 @@ begin_operator
 push-unitarypipe s34 b9 a3 a4 b14 lco oca1
 0
 6
-0 281 0 1
-0 301 -1 0
-0 282 -1 1
-0 302 -1 0
 0 248 -1 0
+0 281 0 1
+0 282 -1 1
+0 301 -1 0
+0 302 -1 0
 0 319 0 1
 1
 end_operator
@@ -29581,11 +29581,11 @@ begin_operator
 push-unitarypipe s34 b9 a3 a4 b15 lco oc1b
 0
 6
-0 283 0 1
-0 301 -1 0
-0 284 -1 1
-0 302 -1 0
 0 249 -1 0
+0 283 0 1
+0 284 -1 1
+0 301 -1 0
+0 302 -1 0
 0 319 0 1
 1
 end_operator
@@ -29593,11 +29593,11 @@ begin_operator
 push-unitarypipe s34 b9 a3 a4 b2 lco lco
 0
 6
-0 295 0 1
-0 301 -1 0
-0 296 -1 1
-0 302 -1 0
 0 255 -1 0
+0 295 0 1
+0 296 -1 1
+0 301 -1 0
+0 302 -1 0
 0 319 0 1
 1
 end_operator
@@ -29605,11 +29605,11 @@ begin_operator
 push-unitarypipe s34 b9 a3 a4 b3 lco oc1b
 0
 6
-0 285 0 1
-0 301 -1 0
-0 286 -1 1
-0 302 -1 0
 0 250 -1 0
+0 285 0 1
+0 286 -1 1
+0 301 -1 0
+0 302 -1 0
 0 319 0 1
 1
 end_operator
@@ -29617,11 +29617,11 @@ begin_operator
 push-unitarypipe s34 b9 a3 a4 b4 lco rat-a
 0
 6
-0 240 0 1
-0 301 -1 0
-0 241 -1 1
-0 302 -1 0
 0 238 -1 0
+0 240 0 1
+0 241 -1 1
+0 301 -1 0
+0 302 -1 0
 0 319 0 1
 1
 end_operator
@@ -29629,11 +29629,11 @@ begin_operator
 push-unitarypipe s34 b9 a3 a4 b5 lco oc1b
 0
 6
-0 287 0 1
-0 301 -1 0
-0 288 -1 1
-0 302 -1 0
 0 251 -1 0
+0 287 0 1
+0 288 -1 1
+0 301 -1 0
+0 302 -1 0
 0 319 0 1
 1
 end_operator
@@ -29641,11 +29641,11 @@ begin_operator
 push-unitarypipe s34 b9 a3 a4 b6 lco gasoleo
 0
 6
-0 297 0 1
-0 301 -1 0
-0 298 -1 1
-0 302 -1 0
 0 256 -1 0
+0 297 0 1
+0 298 -1 1
+0 301 -1 0
+0 302 -1 0
 0 319 0 1
 1
 end_operator
@@ -29653,11 +29653,11 @@ begin_operator
 push-unitarypipe s34 b9 a3 a4 b7 lco gasoleo
 0
 6
-0 299 0 1
-0 301 -1 0
-0 300 -1 1
-0 302 -1 0
 0 257 -1 0
+0 299 0 1
+0 300 -1 1
+0 301 -1 0
+0 302 -1 0
 0 319 0 1
 1
 end_operator
@@ -29665,11 +29665,11 @@ begin_operator
 push-unitarypipe s34 b9 a3 a4 b8 lco oc1b
 0
 6
-0 289 0 1
-0 301 -1 0
-0 290 -1 1
-0 302 -1 0
 0 252 -1 0
+0 289 0 1
+0 290 -1 1
+0 301 -1 0
+0 302 -1 0
 0 319 0 1
 1
 end_operator
@@ -29678,9 +29678,9 @@ push-unitarypipe s34 b9 a3 a4 b9 lco lco
 1
 301 0
 3
+0 258 -1 0
 0 302 -1 0
 0 319 0 1
-0 258 -1 0
 1
 end_operator
 0

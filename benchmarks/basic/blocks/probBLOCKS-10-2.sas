@@ -245,11 +245,11 @@ end_variable
 11
 begin_mutex_group
 11
+0 1
 2 0
 12 0
 13 1
 14 1
-0 1
 15 1
 16 1
 17 1
@@ -259,11 +259,11 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 11
+0 2
 3 0
 12 1
 13 0
 14 2
-0 2
 15 2
 16 2
 17 2
@@ -273,11 +273,11 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 11
+0 3
 4 0
 12 2
 13 2
 14 0
-0 3
 15 3
 16 3
 17 3
@@ -287,11 +287,11 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 11
+0 0
 1 0
 12 3
 13 3
 14 3
-0 0
 15 4
 16 4
 17 4
@@ -301,11 +301,11 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 11
+0 4
 5 0
 12 4
 13 4
 14 4
-0 4
 15 0
 16 5
 17 5
@@ -315,11 +315,11 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 11
+0 5
 6 0
 12 5
 13 5
 14 5
-0 5
 15 5
 16 0
 17 6
@@ -329,11 +329,11 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 11
+0 6
 7 0
 12 6
 13 6
 14 6
-0 6
 15 6
 16 6
 17 0
@@ -343,11 +343,11 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 11
+0 7
 8 0
 12 7
 13 7
 14 7
-0 7
 15 7
 16 7
 17 7
@@ -357,11 +357,11 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 11
+0 8
 9 0
 12 8
 13 8
 14 8
-0 8
 15 8
 16 8
 17 8
@@ -371,11 +371,11 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 11
+0 9
 10 0
 12 9
 13 9
 14 9
-0 9
 15 9
 16 9
 17 9
@@ -385,11 +385,11 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 11
+0 0
 11 0
 12 0
 13 0
 14 0
-0 0
 15 0
 16 0
 17 0
@@ -464,9 +464,9 @@ begin_operator
 pick-up d
 0
 3
+0 0 10 0
 0 1 0 1
 0 11 0 1
-0 0 10 0
 1
 end_operator
 begin_operator
@@ -554,9 +554,9 @@ begin_operator
 put-down d
 0
 3
+0 0 0 10
 0 1 -1 0
 0 11 -1 0
-0 0 0 10
 1
 end_operator
 begin_operator
@@ -637,8 +637,8 @@ begin_operator
 stack a d
 0
 4
-0 2 -1 0
 0 1 0 1
+0 2 -1 0
 0 11 -1 0
 0 12 0 3
 1
@@ -727,8 +727,8 @@ begin_operator
 stack b d
 0
 4
-0 3 -1 0
 0 1 0 1
+0 3 -1 0
 0 11 -1 0
 0 13 0 3
 1
@@ -817,8 +817,8 @@ begin_operator
 stack c d
 0
 4
-0 4 -1 0
 0 1 0 1
+0 4 -1 0
 0 11 -1 0
 0 14 0 3
 1
@@ -887,90 +887,90 @@ begin_operator
 stack d a
 0
 4
-0 2 0 1
-0 1 -1 0
-0 11 -1 0
 0 0 0 1
+0 1 -1 0
+0 2 0 1
+0 11 -1 0
 1
 end_operator
 begin_operator
 stack d b
 0
 4
-0 3 0 1
-0 1 -1 0
-0 11 -1 0
 0 0 0 2
+0 1 -1 0
+0 3 0 1
+0 11 -1 0
 1
 end_operator
 begin_operator
 stack d c
 0
 4
-0 4 0 1
-0 1 -1 0
-0 11 -1 0
 0 0 0 3
+0 1 -1 0
+0 4 0 1
+0 11 -1 0
 1
 end_operator
 begin_operator
 stack d e
 0
 4
+0 0 0 4
 0 1 -1 0
 0 5 0 1
 0 11 -1 0
-0 0 0 4
 1
 end_operator
 begin_operator
 stack d f
 0
 4
+0 0 0 5
 0 1 -1 0
 0 6 0 1
 0 11 -1 0
-0 0 0 5
 1
 end_operator
 begin_operator
 stack d g
 0
 4
+0 0 0 6
 0 1 -1 0
 0 7 0 1
 0 11 -1 0
-0 0 0 6
 1
 end_operator
 begin_operator
 stack d h
 0
 4
+0 0 0 7
 0 1 -1 0
 0 8 0 1
 0 11 -1 0
-0 0 0 7
 1
 end_operator
 begin_operator
 stack d i
 0
 4
+0 0 0 8
 0 1 -1 0
 0 9 0 1
 0 11 -1 0
-0 0 0 8
 1
 end_operator
 begin_operator
 stack d j
 0
 4
+0 0 0 9
 0 1 -1 0
 0 10 0 1
 0 11 -1 0
-0 0 0 9
 1
 end_operator
 begin_operator
@@ -1537,8 +1537,8 @@ begin_operator
 unstack a d
 0
 4
-0 2 0 1
 0 1 -1 0
+0 2 0 1
 0 11 0 1
 0 12 3 0
 1
@@ -1627,8 +1627,8 @@ begin_operator
 unstack b d
 0
 4
-0 3 0 1
 0 1 -1 0
+0 3 0 1
 0 11 0 1
 0 13 3 0
 1
@@ -1717,8 +1717,8 @@ begin_operator
 unstack c d
 0
 4
-0 4 0 1
 0 1 -1 0
+0 4 0 1
 0 11 0 1
 0 14 3 0
 1
@@ -1787,90 +1787,90 @@ begin_operator
 unstack d a
 0
 4
-0 2 -1 0
-0 1 0 1
-0 11 0 1
 0 0 1 0
+0 1 0 1
+0 2 -1 0
+0 11 0 1
 1
 end_operator
 begin_operator
 unstack d b
 0
 4
-0 3 -1 0
-0 1 0 1
-0 11 0 1
 0 0 2 0
+0 1 0 1
+0 3 -1 0
+0 11 0 1
 1
 end_operator
 begin_operator
 unstack d c
 0
 4
-0 4 -1 0
-0 1 0 1
-0 11 0 1
 0 0 3 0
+0 1 0 1
+0 4 -1 0
+0 11 0 1
 1
 end_operator
 begin_operator
 unstack d e
 0
 4
+0 0 4 0
 0 1 0 1
 0 5 -1 0
 0 11 0 1
-0 0 4 0
 1
 end_operator
 begin_operator
 unstack d f
 0
 4
+0 0 5 0
 0 1 0 1
 0 6 -1 0
 0 11 0 1
-0 0 5 0
 1
 end_operator
 begin_operator
 unstack d g
 0
 4
+0 0 6 0
 0 1 0 1
 0 7 -1 0
 0 11 0 1
-0 0 6 0
 1
 end_operator
 begin_operator
 unstack d h
 0
 4
+0 0 7 0
 0 1 0 1
 0 8 -1 0
 0 11 0 1
-0 0 7 0
 1
 end_operator
 begin_operator
 unstack d i
 0
 4
+0 0 8 0
 0 1 0 1
 0 9 -1 0
 0 11 0 1
-0 0 8 0
 1
 end_operator
 begin_operator
 unstack d j
 0
 4
+0 0 9 0
 0 1 0 1
 0 10 -1 0
 0 11 0 1
-0 0 9 0
 1
 end_operator
 begin_operator

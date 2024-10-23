@@ -1241,8 +1241,8 @@ begin_operator
 rewind-movie 
 0
 2
-0 6 -1 1
 0 0 -1 0
+0 6 -1 1
 1
 end_operator
 0

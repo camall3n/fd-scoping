@@ -390,6 +390,15 @@ end_variable
 26
 begin_mutex_group
 21
+2 1
+2 2
+2 3
+2 4
+2 5
+2 6
+2 7
+2 8
+2 9
 3 0
 3 1
 3 2
@@ -402,15 +411,6 @@ begin_mutex_group
 3 9
 3 10
 3 11
-2 1
-2 2
-2 3
-2 4
-2 5
-2 6
-2 7
-2 8
-2 9
 end_mutex_group
 begin_mutex_group
 21
@@ -463,6 +463,7 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 22
+1 0
 3 12
 3 23
 13 0
@@ -484,7 +485,6 @@ begin_mutex_group
 19 11
 20 11
 21 11
-1 0
 end_mutex_group
 begin_mutex_group
 22
@@ -513,6 +513,7 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 22
+1 1
 3 13
 3 24
 13 11
@@ -534,7 +535,6 @@ begin_mutex_group
 19 12
 20 12
 21 12
-1 1
 end_mutex_group
 begin_mutex_group
 22
@@ -563,6 +563,7 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 22
+1 2
 3 14
 3 25
 13 12
@@ -584,7 +585,6 @@ begin_mutex_group
 19 13
 20 13
 21 13
-1 2
 end_mutex_group
 begin_mutex_group
 22
@@ -613,6 +613,7 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 22
+1 3
 3 15
 3 26
 13 13
@@ -634,7 +635,6 @@ begin_mutex_group
 19 14
 20 14
 21 14
-1 3
 end_mutex_group
 begin_mutex_group
 22
@@ -663,6 +663,7 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 22
+1 4
 3 16
 3 27
 13 14
@@ -684,7 +685,6 @@ begin_mutex_group
 19 15
 20 15
 21 15
-1 4
 end_mutex_group
 begin_mutex_group
 22
@@ -713,6 +713,7 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 22
+1 5
 3 17
 3 28
 13 15
@@ -734,7 +735,6 @@ begin_mutex_group
 19 16
 20 16
 21 16
-1 5
 end_mutex_group
 begin_mutex_group
 22
@@ -763,6 +763,7 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 22
+1 6
 3 18
 3 29
 13 16
@@ -784,7 +785,6 @@ begin_mutex_group
 19 19
 20 17
 21 17
-1 6
 end_mutex_group
 begin_mutex_group
 22
@@ -813,6 +813,7 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 22
+1 7
 3 19
 3 30
 13 17
@@ -834,7 +835,6 @@ begin_mutex_group
 20 9
 20 19
 21 18
-1 7
 end_mutex_group
 begin_mutex_group
 22
@@ -863,6 +863,7 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 22
+1 8
 3 20
 3 31
 13 18
@@ -884,10 +885,10 @@ begin_mutex_group
 21 8
 21 9
 21 19
-1 8
 end_mutex_group
 begin_mutex_group
 26
+2 0
 3 9
 3 10
 3 11
@@ -913,13 +914,9 @@ begin_mutex_group
 3 31
 3 32
 3 33
-2 0
 end_mutex_group
 begin_mutex_group
 13
-3 9
-3 10
-3 11
 2 0
 2 1
 2 2
@@ -930,9 +927,13 @@ begin_mutex_group
 2 7
 2 8
 2 9
+3 9
+3 10
+3 11
 end_mutex_group
 begin_mutex_group
 13
+2 0
 3 9
 3 10
 3 11
@@ -945,7 +946,6 @@ begin_mutex_group
 19 19
 20 19
 21 19
-2 0
 end_mutex_group
 begin_mutex_group
 13
@@ -965,10 +965,6 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 13
-3 9
-3 11
-3 22
-3 33
 1 0
 1 1
 1 2
@@ -978,10 +974,13 @@ begin_mutex_group
 1 6
 1 7
 1 8
+3 9
+3 11
+3 22
+3 33
 end_mutex_group
 begin_mutex_group
 10
-3 11
 0 0
 0 1
 0 2
@@ -991,6 +990,7 @@ begin_mutex_group
 0 6
 0 7
 0 8
+3 11
 end_mutex_group
 begin_state
 9
@@ -1042,792 +1042,792 @@ begin_operator
 begin-cut g11 g84
 0
 5
-0 3 11 0
-0 14 1 10
-0 2 -1 0
 0 0 -1 0
 0 1 -1 1
+0 2 -1 0
+0 3 11 0
+0 14 1 10
 0
 end_operator
 begin_operator
 begin-cut g11 sub1
 0
 5
-0 3 11 0
-0 15 1 10
-0 2 -1 0
 0 0 -1 0
 0 1 -1 2
+0 2 -1 0
+0 3 11 0
+0 15 1 10
 0
 end_operator
 begin_operator
 begin-cut g11 sub2
 0
 5
-0 3 11 0
-0 16 1 10
-0 2 -1 0
 0 0 -1 0
 0 1 -1 3
+0 2 -1 0
+0 3 11 0
+0 16 1 10
 0
 end_operator
 begin_operator
 begin-cut g11 sub3
 0
 5
-0 3 11 0
-0 17 1 10
-0 2 -1 0
 0 0 -1 0
 0 1 -1 4
+0 2 -1 0
+0 3 11 0
+0 17 1 10
 0
 end_operator
 begin_operator
 begin-cut g11 sub4
 0
 5
-0 3 11 0
-0 18 1 10
-0 2 -1 0
 0 0 -1 0
 0 1 -1 5
+0 2 -1 0
+0 3 11 0
+0 18 1 10
 0
 end_operator
 begin_operator
 begin-cut g11 sub5
 0
 5
-0 3 11 0
-0 19 1 10
-0 2 -1 0
 0 0 -1 0
 0 1 -1 6
+0 2 -1 0
+0 3 11 0
+0 19 1 10
 0
 end_operator
 begin_operator
 begin-cut g11 sub6
 0
 5
-0 3 11 0
-0 20 1 10
-0 2 -1 0
 0 0 -1 0
 0 1 -1 7
+0 2 -1 0
+0 3 11 0
+0 20 1 10
 0
 end_operator
 begin_operator
 begin-cut g11 sub7
 0
 5
-0 3 11 0
-0 21 1 10
-0 2 -1 0
 0 0 -1 0
 0 1 -1 8
+0 2 -1 0
+0 3 11 0
+0 21 1 10
 0
 end_operator
 begin_operator
 begin-cut g84 g11
 0
 5
-0 3 11 1
-0 13 2 10
-0 2 -1 0
 0 0 -1 1
 0 1 -1 0
+0 2 -1 0
+0 3 11 1
+0 13 2 10
 0
 end_operator
 begin_operator
 begin-cut g84 sub1
 0
 5
-0 3 11 1
-0 15 2 10
-0 2 -1 0
 0 0 -1 1
 0 1 -1 2
+0 2 -1 0
+0 3 11 1
+0 15 2 10
 0
 end_operator
 begin_operator
 begin-cut g84 sub2
 0
 5
-0 3 11 1
-0 16 2 10
-0 2 -1 0
 0 0 -1 1
 0 1 -1 3
+0 2 -1 0
+0 3 11 1
+0 16 2 10
 0
 end_operator
 begin_operator
 begin-cut g84 sub3
 0
 5
-0 3 11 1
-0 17 2 10
-0 2 -1 0
 0 0 -1 1
 0 1 -1 4
+0 2 -1 0
+0 3 11 1
+0 17 2 10
 0
 end_operator
 begin_operator
 begin-cut g84 sub4
 0
 5
-0 3 11 1
-0 18 2 10
-0 2 -1 0
 0 0 -1 1
 0 1 -1 5
+0 2 -1 0
+0 3 11 1
+0 18 2 10
 0
 end_operator
 begin_operator
 begin-cut g84 sub5
 0
 5
-0 3 11 1
-0 19 2 10
-0 2 -1 0
 0 0 -1 1
 0 1 -1 6
+0 2 -1 0
+0 3 11 1
+0 19 2 10
 0
 end_operator
 begin_operator
 begin-cut g84 sub6
 0
 5
-0 3 11 1
-0 20 2 10
-0 2 -1 0
 0 0 -1 1
 0 1 -1 7
+0 2 -1 0
+0 3 11 1
+0 20 2 10
 0
 end_operator
 begin_operator
 begin-cut g84 sub7
 0
 5
-0 3 11 1
-0 21 2 10
-0 2 -1 0
 0 0 -1 1
 0 1 -1 8
+0 2 -1 0
+0 3 11 1
+0 21 2 10
 0
 end_operator
 begin_operator
 begin-cut sub1 g11
 0
 5
-0 3 11 2
-0 13 3 10
-0 2 -1 0
 0 0 -1 2
 0 1 -1 0
+0 2 -1 0
+0 3 11 2
+0 13 3 10
 0
 end_operator
 begin_operator
 begin-cut sub1 g84
 0
 5
-0 3 11 2
-0 14 3 10
-0 2 -1 0
 0 0 -1 2
 0 1 -1 1
+0 2 -1 0
+0 3 11 2
+0 14 3 10
 0
 end_operator
 begin_operator
 begin-cut sub1 sub2
 0
 5
-0 3 11 2
-0 16 3 10
-0 2 -1 0
 0 0 -1 2
 0 1 -1 3
+0 2 -1 0
+0 3 11 2
+0 16 3 10
 0
 end_operator
 begin_operator
 begin-cut sub1 sub3
 0
 5
-0 3 11 2
-0 17 3 10
-0 2 -1 0
 0 0 -1 2
 0 1 -1 4
+0 2 -1 0
+0 3 11 2
+0 17 3 10
 0
 end_operator
 begin_operator
 begin-cut sub1 sub4
 0
 5
-0 3 11 2
-0 18 3 10
-0 2 -1 0
 0 0 -1 2
 0 1 -1 5
+0 2 -1 0
+0 3 11 2
+0 18 3 10
 0
 end_operator
 begin_operator
 begin-cut sub1 sub5
 0
 5
-0 3 11 2
-0 19 3 10
-0 2 -1 0
 0 0 -1 2
 0 1 -1 6
+0 2 -1 0
+0 3 11 2
+0 19 3 10
 0
 end_operator
 begin_operator
 begin-cut sub1 sub6
 0
 5
-0 3 11 2
-0 20 3 10
-0 2 -1 0
 0 0 -1 2
 0 1 -1 7
+0 2 -1 0
+0 3 11 2
+0 20 3 10
 0
 end_operator
 begin_operator
 begin-cut sub1 sub7
 0
 5
-0 3 11 2
-0 21 3 10
-0 2 -1 0
 0 0 -1 2
 0 1 -1 8
+0 2 -1 0
+0 3 11 2
+0 21 3 10
 0
 end_operator
 begin_operator
 begin-cut sub2 g11
 0
 5
-0 3 11 3
-0 13 4 10
-0 2 -1 0
 0 0 -1 3
 0 1 -1 0
+0 2 -1 0
+0 3 11 3
+0 13 4 10
 0
 end_operator
 begin_operator
 begin-cut sub2 g84
 0
 5
-0 3 11 3
-0 14 4 10
-0 2 -1 0
 0 0 -1 3
 0 1 -1 1
+0 2 -1 0
+0 3 11 3
+0 14 4 10
 0
 end_operator
 begin_operator
 begin-cut sub2 sub1
 0
 5
-0 3 11 3
-0 15 4 10
-0 2 -1 0
 0 0 -1 3
 0 1 -1 2
+0 2 -1 0
+0 3 11 3
+0 15 4 10
 0
 end_operator
 begin_operator
 begin-cut sub2 sub3
 0
 5
-0 3 11 3
-0 17 4 10
-0 2 -1 0
 0 0 -1 3
 0 1 -1 4
+0 2 -1 0
+0 3 11 3
+0 17 4 10
 0
 end_operator
 begin_operator
 begin-cut sub2 sub4
 0
 5
-0 3 11 3
-0 18 4 10
-0 2 -1 0
 0 0 -1 3
 0 1 -1 5
+0 2 -1 0
+0 3 11 3
+0 18 4 10
 0
 end_operator
 begin_operator
 begin-cut sub2 sub5
 0
 5
-0 3 11 3
-0 19 4 10
-0 2 -1 0
 0 0 -1 3
 0 1 -1 6
+0 2 -1 0
+0 3 11 3
+0 19 4 10
 0
 end_operator
 begin_operator
 begin-cut sub2 sub6
 0
 5
-0 3 11 3
-0 20 4 10
-0 2 -1 0
 0 0 -1 3
 0 1 -1 7
+0 2 -1 0
+0 3 11 3
+0 20 4 10
 0
 end_operator
 begin_operator
 begin-cut sub2 sub7
 0
 5
-0 3 11 3
-0 21 4 10
-0 2 -1 0
 0 0 -1 3
 0 1 -1 8
+0 2 -1 0
+0 3 11 3
+0 21 4 10
 0
 end_operator
 begin_operator
 begin-cut sub3 g11
 0
 5
-0 3 11 4
-0 13 5 10
-0 2 -1 0
 0 0 -1 4
 0 1 -1 0
+0 2 -1 0
+0 3 11 4
+0 13 5 10
 0
 end_operator
 begin_operator
 begin-cut sub3 g84
 0
 5
-0 3 11 4
-0 14 5 10
-0 2 -1 0
 0 0 -1 4
 0 1 -1 1
+0 2 -1 0
+0 3 11 4
+0 14 5 10
 0
 end_operator
 begin_operator
 begin-cut sub3 sub1
 0
 5
-0 3 11 4
-0 15 5 10
-0 2 -1 0
 0 0 -1 4
 0 1 -1 2
+0 2 -1 0
+0 3 11 4
+0 15 5 10
 0
 end_operator
 begin_operator
 begin-cut sub3 sub2
 0
 5
-0 3 11 4
-0 16 5 10
-0 2 -1 0
 0 0 -1 4
 0 1 -1 3
+0 2 -1 0
+0 3 11 4
+0 16 5 10
 0
 end_operator
 begin_operator
 begin-cut sub3 sub4
 0
 5
-0 3 11 4
-0 18 5 10
-0 2 -1 0
 0 0 -1 4
 0 1 -1 5
+0 2 -1 0
+0 3 11 4
+0 18 5 10
 0
 end_operator
 begin_operator
 begin-cut sub3 sub5
 0
 5
-0 3 11 4
-0 19 5 10
-0 2 -1 0
 0 0 -1 4
 0 1 -1 6
+0 2 -1 0
+0 3 11 4
+0 19 5 10
 0
 end_operator
 begin_operator
 begin-cut sub3 sub6
 0
 5
-0 3 11 4
-0 20 5 10
-0 2 -1 0
 0 0 -1 4
 0 1 -1 7
+0 2 -1 0
+0 3 11 4
+0 20 5 10
 0
 end_operator
 begin_operator
 begin-cut sub3 sub7
 0
 5
-0 3 11 4
-0 21 5 10
-0 2 -1 0
 0 0 -1 4
 0 1 -1 8
+0 2 -1 0
+0 3 11 4
+0 21 5 10
 0
 end_operator
 begin_operator
 begin-cut sub4 g11
 0
 5
-0 3 11 5
-0 13 6 10
-0 2 -1 0
 0 0 -1 5
 0 1 -1 0
+0 2 -1 0
+0 3 11 5
+0 13 6 10
 0
 end_operator
 begin_operator
 begin-cut sub4 g84
 0
 5
-0 3 11 5
-0 14 6 10
-0 2 -1 0
 0 0 -1 5
 0 1 -1 1
+0 2 -1 0
+0 3 11 5
+0 14 6 10
 0
 end_operator
 begin_operator
 begin-cut sub4 sub1
 0
 5
-0 3 11 5
-0 15 6 10
-0 2 -1 0
 0 0 -1 5
 0 1 -1 2
+0 2 -1 0
+0 3 11 5
+0 15 6 10
 0
 end_operator
 begin_operator
 begin-cut sub4 sub2
 0
 5
-0 3 11 5
-0 16 6 10
-0 2 -1 0
 0 0 -1 5
 0 1 -1 3
+0 2 -1 0
+0 3 11 5
+0 16 6 10
 0
 end_operator
 begin_operator
 begin-cut sub4 sub3
 0
 5
-0 3 11 5
-0 17 6 10
-0 2 -1 0
 0 0 -1 5
 0 1 -1 4
+0 2 -1 0
+0 3 11 5
+0 17 6 10
 0
 end_operator
 begin_operator
 begin-cut sub4 sub5
 0
 5
-0 3 11 5
-0 19 6 10
-0 2 -1 0
 0 0 -1 5
 0 1 -1 6
+0 2 -1 0
+0 3 11 5
+0 19 6 10
 0
 end_operator
 begin_operator
 begin-cut sub4 sub6
 0
 5
-0 3 11 5
-0 20 6 10
-0 2 -1 0
 0 0 -1 5
 0 1 -1 7
+0 2 -1 0
+0 3 11 5
+0 20 6 10
 0
 end_operator
 begin_operator
 begin-cut sub4 sub7
 0
 5
-0 3 11 5
-0 21 6 10
-0 2 -1 0
 0 0 -1 5
 0 1 -1 8
+0 2 -1 0
+0 3 11 5
+0 21 6 10
 0
 end_operator
 begin_operator
 begin-cut sub5 g11
 0
 5
-0 3 11 6
-0 13 7 10
-0 2 -1 0
 0 0 -1 6
 0 1 -1 0
+0 2 -1 0
+0 3 11 6
+0 13 7 10
 0
 end_operator
 begin_operator
 begin-cut sub5 g84
 0
 5
-0 3 11 6
-0 14 7 10
-0 2 -1 0
 0 0 -1 6
 0 1 -1 1
+0 2 -1 0
+0 3 11 6
+0 14 7 10
 0
 end_operator
 begin_operator
 begin-cut sub5 sub1
 0
 5
-0 3 11 6
-0 15 7 10
-0 2 -1 0
 0 0 -1 6
 0 1 -1 2
+0 2 -1 0
+0 3 11 6
+0 15 7 10
 0
 end_operator
 begin_operator
 begin-cut sub5 sub2
 0
 5
-0 3 11 6
-0 16 7 10
-0 2 -1 0
 0 0 -1 6
 0 1 -1 3
+0 2 -1 0
+0 3 11 6
+0 16 7 10
 0
 end_operator
 begin_operator
 begin-cut sub5 sub3
 0
 5
-0 3 11 6
-0 17 7 10
-0 2 -1 0
 0 0 -1 6
 0 1 -1 4
+0 2 -1 0
+0 3 11 6
+0 17 7 10
 0
 end_operator
 begin_operator
 begin-cut sub5 sub4
 0
 5
-0 3 11 6
-0 18 7 10
-0 2 -1 0
 0 0 -1 6
 0 1 -1 5
+0 2 -1 0
+0 3 11 6
+0 18 7 10
 0
 end_operator
 begin_operator
 begin-cut sub5 sub6
 0
 5
-0 3 11 6
-0 20 7 10
-0 2 -1 0
 0 0 -1 6
 0 1 -1 7
+0 2 -1 0
+0 3 11 6
+0 20 7 10
 0
 end_operator
 begin_operator
 begin-cut sub5 sub7
 0
 5
-0 3 11 6
-0 21 7 10
-0 2 -1 0
 0 0 -1 6
 0 1 -1 8
+0 2 -1 0
+0 3 11 6
+0 21 7 10
 0
 end_operator
 begin_operator
 begin-cut sub6 g11
 0
 5
-0 3 11 7
-0 13 8 10
-0 2 -1 0
 0 0 -1 7
 0 1 -1 0
+0 2 -1 0
+0 3 11 7
+0 13 8 10
 0
 end_operator
 begin_operator
 begin-cut sub6 g84
 0
 5
-0 3 11 7
-0 14 8 10
-0 2 -1 0
 0 0 -1 7
 0 1 -1 1
+0 2 -1 0
+0 3 11 7
+0 14 8 10
 0
 end_operator
 begin_operator
 begin-cut sub6 sub1
 0
 5
-0 3 11 7
-0 15 8 10
-0 2 -1 0
 0 0 -1 7
 0 1 -1 2
+0 2 -1 0
+0 3 11 7
+0 15 8 10
 0
 end_operator
 begin_operator
 begin-cut sub6 sub2
 0
 5
-0 3 11 7
-0 16 8 10
-0 2 -1 0
 0 0 -1 7
 0 1 -1 3
+0 2 -1 0
+0 3 11 7
+0 16 8 10
 0
 end_operator
 begin_operator
 begin-cut sub6 sub3
 0
 5
-0 3 11 7
-0 17 8 10
-0 2 -1 0
 0 0 -1 7
 0 1 -1 4
+0 2 -1 0
+0 3 11 7
+0 17 8 10
 0
 end_operator
 begin_operator
 begin-cut sub6 sub4
 0
 5
-0 3 11 7
-0 18 8 10
-0 2 -1 0
 0 0 -1 7
 0 1 -1 5
+0 2 -1 0
+0 3 11 7
+0 18 8 10
 0
 end_operator
 begin_operator
 begin-cut sub6 sub5
 0
 5
-0 3 11 7
-0 19 8 10
-0 2 -1 0
 0 0 -1 7
 0 1 -1 6
+0 2 -1 0
+0 3 11 7
+0 19 8 10
 0
 end_operator
 begin_operator
 begin-cut sub6 sub7
 0
 5
-0 3 11 7
-0 21 8 10
-0 2 -1 0
 0 0 -1 7
 0 1 -1 8
+0 2 -1 0
+0 3 11 7
+0 21 8 10
 0
 end_operator
 begin_operator
 begin-cut sub7 g11
 0
 5
-0 3 11 8
-0 13 9 10
-0 2 -1 0
 0 0 -1 8
 0 1 -1 0
+0 2 -1 0
+0 3 11 8
+0 13 9 10
 0
 end_operator
 begin_operator
 begin-cut sub7 g84
 0
 5
-0 3 11 8
-0 14 9 10
-0 2 -1 0
 0 0 -1 8
 0 1 -1 1
+0 2 -1 0
+0 3 11 8
+0 14 9 10
 0
 end_operator
 begin_operator
 begin-cut sub7 sub1
 0
 5
-0 3 11 8
-0 15 9 10
-0 2 -1 0
 0 0 -1 8
 0 1 -1 2
+0 2 -1 0
+0 3 11 8
+0 15 9 10
 0
 end_operator
 begin_operator
 begin-cut sub7 sub2
 0
 5
-0 3 11 8
-0 16 9 10
-0 2 -1 0
 0 0 -1 8
 0 1 -1 3
+0 2 -1 0
+0 3 11 8
+0 16 9 10
 0
 end_operator
 begin_operator
 begin-cut sub7 sub3
 0
 5
-0 3 11 8
-0 17 9 10
-0 2 -1 0
 0 0 -1 8
 0 1 -1 4
+0 2 -1 0
+0 3 11 8
+0 17 9 10
 0
 end_operator
 begin_operator
 begin-cut sub7 sub4
 0
 5
-0 3 11 8
-0 18 9 10
-0 2 -1 0
 0 0 -1 8
 0 1 -1 5
+0 2 -1 0
+0 3 11 8
+0 18 9 10
 0
 end_operator
 begin_operator
 begin-cut sub7 sub5
 0
 5
-0 3 11 8
-0 19 9 10
-0 2 -1 0
 0 0 -1 8
 0 1 -1 6
+0 2 -1 0
+0 3 11 8
+0 19 9 10
 0
 end_operator
 begin_operator
 begin-cut sub7 sub6
 0
 5
-0 3 11 8
-0 20 9 10
-0 2 -1 0
 0 0 -1 8
 0 1 -1 7
+0 2 -1 0
+0 3 11 8
+0 20 9 10
 0
 end_operator
 begin_operator
@@ -1835,9 +1835,9 @@ begin-inverse-splice g11 g84
 1
 0 0
 3
+0 2 -1 1
 0 3 10 21
 0 14 1 19
-0 2 -1 1
 1
 end_operator
 begin_operator
@@ -1845,9 +1845,9 @@ begin-inverse-splice g11 sub1
 1
 0 0
 3
+0 2 -1 1
 0 3 10 21
 0 15 1 19
-0 2 -1 1
 1
 end_operator
 begin_operator
@@ -1855,9 +1855,9 @@ begin-inverse-splice g11 sub2
 1
 0 0
 3
+0 2 -1 1
 0 3 10 21
 0 16 1 19
-0 2 -1 1
 1
 end_operator
 begin_operator
@@ -1865,9 +1865,9 @@ begin-inverse-splice g11 sub3
 1
 0 0
 3
+0 2 -1 1
 0 3 10 21
 0 17 1 19
-0 2 -1 1
 1
 end_operator
 begin_operator
@@ -1875,9 +1875,9 @@ begin-inverse-splice g11 sub4
 1
 0 0
 3
+0 2 -1 1
 0 3 10 21
 0 18 1 19
-0 2 -1 1
 1
 end_operator
 begin_operator
@@ -1885,9 +1885,9 @@ begin-inverse-splice g11 sub5
 1
 0 0
 3
+0 2 -1 1
 0 3 10 21
 0 19 1 19
-0 2 -1 1
 1
 end_operator
 begin_operator
@@ -1895,9 +1895,9 @@ begin-inverse-splice g11 sub6
 1
 0 0
 3
+0 2 -1 1
 0 3 10 21
 0 20 1 19
-0 2 -1 1
 1
 end_operator
 begin_operator
@@ -1905,9 +1905,9 @@ begin-inverse-splice g11 sub7
 1
 0 0
 3
+0 2 -1 1
 0 3 10 21
 0 21 1 19
-0 2 -1 1
 1
 end_operator
 begin_operator
@@ -1915,9 +1915,9 @@ begin-inverse-splice g84 g11
 1
 0 1
 3
+0 2 -1 2
 0 3 10 21
 0 13 2 19
-0 2 -1 2
 1
 end_operator
 begin_operator
@@ -1925,9 +1925,9 @@ begin-inverse-splice g84 sub1
 1
 0 1
 3
+0 2 -1 2
 0 3 10 21
 0 15 2 19
-0 2 -1 2
 1
 end_operator
 begin_operator
@@ -1935,9 +1935,9 @@ begin-inverse-splice g84 sub2
 1
 0 1
 3
+0 2 -1 2
 0 3 10 21
 0 16 2 19
-0 2 -1 2
 1
 end_operator
 begin_operator
@@ -1945,9 +1945,9 @@ begin-inverse-splice g84 sub3
 1
 0 1
 3
+0 2 -1 2
 0 3 10 21
 0 17 2 19
-0 2 -1 2
 1
 end_operator
 begin_operator
@@ -1955,9 +1955,9 @@ begin-inverse-splice g84 sub4
 1
 0 1
 3
+0 2 -1 2
 0 3 10 21
 0 18 2 19
-0 2 -1 2
 1
 end_operator
 begin_operator
@@ -1965,9 +1965,9 @@ begin-inverse-splice g84 sub5
 1
 0 1
 3
+0 2 -1 2
 0 3 10 21
 0 19 2 19
-0 2 -1 2
 1
 end_operator
 begin_operator
@@ -1975,9 +1975,9 @@ begin-inverse-splice g84 sub6
 1
 0 1
 3
+0 2 -1 2
 0 3 10 21
 0 20 2 19
-0 2 -1 2
 1
 end_operator
 begin_operator
@@ -1985,9 +1985,9 @@ begin-inverse-splice g84 sub7
 1
 0 1
 3
+0 2 -1 2
 0 3 10 21
 0 21 2 19
-0 2 -1 2
 1
 end_operator
 begin_operator
@@ -1995,9 +1995,9 @@ begin-inverse-splice sub1 g11
 1
 0 2
 3
+0 2 -1 3
 0 3 10 21
 0 13 3 19
-0 2 -1 3
 1
 end_operator
 begin_operator
@@ -2005,9 +2005,9 @@ begin-inverse-splice sub1 g84
 1
 0 2
 3
+0 2 -1 3
 0 3 10 21
 0 14 3 19
-0 2 -1 3
 1
 end_operator
 begin_operator
@@ -2015,9 +2015,9 @@ begin-inverse-splice sub1 sub2
 1
 0 2
 3
+0 2 -1 3
 0 3 10 21
 0 16 3 19
-0 2 -1 3
 1
 end_operator
 begin_operator
@@ -2025,9 +2025,9 @@ begin-inverse-splice sub1 sub3
 1
 0 2
 3
+0 2 -1 3
 0 3 10 21
 0 17 3 19
-0 2 -1 3
 1
 end_operator
 begin_operator
@@ -2035,9 +2035,9 @@ begin-inverse-splice sub1 sub4
 1
 0 2
 3
+0 2 -1 3
 0 3 10 21
 0 18 3 19
-0 2 -1 3
 1
 end_operator
 begin_operator
@@ -2045,9 +2045,9 @@ begin-inverse-splice sub1 sub5
 1
 0 2
 3
+0 2 -1 3
 0 3 10 21
 0 19 3 19
-0 2 -1 3
 1
 end_operator
 begin_operator
@@ -2055,9 +2055,9 @@ begin-inverse-splice sub1 sub6
 1
 0 2
 3
+0 2 -1 3
 0 3 10 21
 0 20 3 19
-0 2 -1 3
 1
 end_operator
 begin_operator
@@ -2065,9 +2065,9 @@ begin-inverse-splice sub1 sub7
 1
 0 2
 3
+0 2 -1 3
 0 3 10 21
 0 21 3 19
-0 2 -1 3
 1
 end_operator
 begin_operator
@@ -2075,9 +2075,9 @@ begin-inverse-splice sub2 g11
 1
 0 3
 3
+0 2 -1 4
 0 3 10 21
 0 13 4 19
-0 2 -1 4
 1
 end_operator
 begin_operator
@@ -2085,9 +2085,9 @@ begin-inverse-splice sub2 g84
 1
 0 3
 3
+0 2 -1 4
 0 3 10 21
 0 14 4 19
-0 2 -1 4
 1
 end_operator
 begin_operator
@@ -2095,9 +2095,9 @@ begin-inverse-splice sub2 sub1
 1
 0 3
 3
+0 2 -1 4
 0 3 10 21
 0 15 4 19
-0 2 -1 4
 1
 end_operator
 begin_operator
@@ -2105,9 +2105,9 @@ begin-inverse-splice sub2 sub3
 1
 0 3
 3
+0 2 -1 4
 0 3 10 21
 0 17 4 19
-0 2 -1 4
 1
 end_operator
 begin_operator
@@ -2115,9 +2115,9 @@ begin-inverse-splice sub2 sub4
 1
 0 3
 3
+0 2 -1 4
 0 3 10 21
 0 18 4 19
-0 2 -1 4
 1
 end_operator
 begin_operator
@@ -2125,9 +2125,9 @@ begin-inverse-splice sub2 sub5
 1
 0 3
 3
+0 2 -1 4
 0 3 10 21
 0 19 4 19
-0 2 -1 4
 1
 end_operator
 begin_operator
@@ -2135,9 +2135,9 @@ begin-inverse-splice sub2 sub6
 1
 0 3
 3
+0 2 -1 4
 0 3 10 21
 0 20 4 19
-0 2 -1 4
 1
 end_operator
 begin_operator
@@ -2145,9 +2145,9 @@ begin-inverse-splice sub2 sub7
 1
 0 3
 3
+0 2 -1 4
 0 3 10 21
 0 21 4 19
-0 2 -1 4
 1
 end_operator
 begin_operator
@@ -2155,9 +2155,9 @@ begin-inverse-splice sub3 g11
 1
 0 4
 3
+0 2 -1 5
 0 3 10 21
 0 13 5 19
-0 2 -1 5
 1
 end_operator
 begin_operator
@@ -2165,9 +2165,9 @@ begin-inverse-splice sub3 g84
 1
 0 4
 3
+0 2 -1 5
 0 3 10 21
 0 14 5 19
-0 2 -1 5
 1
 end_operator
 begin_operator
@@ -2175,9 +2175,9 @@ begin-inverse-splice sub3 sub1
 1
 0 4
 3
+0 2 -1 5
 0 3 10 21
 0 15 5 19
-0 2 -1 5
 1
 end_operator
 begin_operator
@@ -2185,9 +2185,9 @@ begin-inverse-splice sub3 sub2
 1
 0 4
 3
+0 2 -1 5
 0 3 10 21
 0 16 5 19
-0 2 -1 5
 1
 end_operator
 begin_operator
@@ -2195,9 +2195,9 @@ begin-inverse-splice sub3 sub4
 1
 0 4
 3
+0 2 -1 5
 0 3 10 21
 0 18 5 19
-0 2 -1 5
 1
 end_operator
 begin_operator
@@ -2205,9 +2205,9 @@ begin-inverse-splice sub3 sub5
 1
 0 4
 3
+0 2 -1 5
 0 3 10 21
 0 19 5 19
-0 2 -1 5
 1
 end_operator
 begin_operator
@@ -2215,9 +2215,9 @@ begin-inverse-splice sub3 sub6
 1
 0 4
 3
+0 2 -1 5
 0 3 10 21
 0 20 5 19
-0 2 -1 5
 1
 end_operator
 begin_operator
@@ -2225,9 +2225,9 @@ begin-inverse-splice sub3 sub7
 1
 0 4
 3
+0 2 -1 5
 0 3 10 21
 0 21 5 19
-0 2 -1 5
 1
 end_operator
 begin_operator
@@ -2235,9 +2235,9 @@ begin-inverse-splice sub4 g11
 1
 0 5
 3
+0 2 -1 6
 0 3 10 21
 0 13 6 19
-0 2 -1 6
 1
 end_operator
 begin_operator
@@ -2245,9 +2245,9 @@ begin-inverse-splice sub4 g84
 1
 0 5
 3
+0 2 -1 6
 0 3 10 21
 0 14 6 19
-0 2 -1 6
 1
 end_operator
 begin_operator
@@ -2255,9 +2255,9 @@ begin-inverse-splice sub4 sub1
 1
 0 5
 3
+0 2 -1 6
 0 3 10 21
 0 15 6 19
-0 2 -1 6
 1
 end_operator
 begin_operator
@@ -2265,9 +2265,9 @@ begin-inverse-splice sub4 sub2
 1
 0 5
 3
+0 2 -1 6
 0 3 10 21
 0 16 6 19
-0 2 -1 6
 1
 end_operator
 begin_operator
@@ -2275,9 +2275,9 @@ begin-inverse-splice sub4 sub3
 1
 0 5
 3
+0 2 -1 6
 0 3 10 21
 0 17 6 19
-0 2 -1 6
 1
 end_operator
 begin_operator
@@ -2285,9 +2285,9 @@ begin-inverse-splice sub4 sub5
 1
 0 5
 3
+0 2 -1 6
 0 3 10 21
 0 19 6 19
-0 2 -1 6
 1
 end_operator
 begin_operator
@@ -2295,9 +2295,9 @@ begin-inverse-splice sub4 sub6
 1
 0 5
 3
+0 2 -1 6
 0 3 10 21
 0 20 6 19
-0 2 -1 6
 1
 end_operator
 begin_operator
@@ -2305,9 +2305,9 @@ begin-inverse-splice sub4 sub7
 1
 0 5
 3
+0 2 -1 6
 0 3 10 21
 0 21 6 19
-0 2 -1 6
 1
 end_operator
 begin_operator
@@ -2315,9 +2315,9 @@ begin-inverse-splice sub5 g11
 1
 0 6
 3
+0 2 -1 7
 0 3 10 21
 0 13 7 19
-0 2 -1 7
 1
 end_operator
 begin_operator
@@ -2325,9 +2325,9 @@ begin-inverse-splice sub5 g84
 1
 0 6
 3
+0 2 -1 7
 0 3 10 21
 0 14 7 19
-0 2 -1 7
 1
 end_operator
 begin_operator
@@ -2335,9 +2335,9 @@ begin-inverse-splice sub5 sub1
 1
 0 6
 3
+0 2 -1 7
 0 3 10 21
 0 15 7 19
-0 2 -1 7
 1
 end_operator
 begin_operator
@@ -2345,9 +2345,9 @@ begin-inverse-splice sub5 sub2
 1
 0 6
 3
+0 2 -1 7
 0 3 10 21
 0 16 7 19
-0 2 -1 7
 1
 end_operator
 begin_operator
@@ -2355,9 +2355,9 @@ begin-inverse-splice sub5 sub3
 1
 0 6
 3
+0 2 -1 7
 0 3 10 21
 0 17 7 19
-0 2 -1 7
 1
 end_operator
 begin_operator
@@ -2365,9 +2365,9 @@ begin-inverse-splice sub5 sub4
 1
 0 6
 3
+0 2 -1 7
 0 3 10 21
 0 18 7 19
-0 2 -1 7
 1
 end_operator
 begin_operator
@@ -2375,9 +2375,9 @@ begin-inverse-splice sub5 sub6
 1
 0 6
 3
+0 2 -1 7
 0 3 10 21
 0 20 7 19
-0 2 -1 7
 1
 end_operator
 begin_operator
@@ -2385,9 +2385,9 @@ begin-inverse-splice sub5 sub7
 1
 0 6
 3
+0 2 -1 7
 0 3 10 21
 0 21 7 19
-0 2 -1 7
 1
 end_operator
 begin_operator
@@ -2395,9 +2395,9 @@ begin-inverse-splice sub6 g11
 1
 0 7
 3
+0 2 -1 8
 0 3 10 21
 0 13 8 19
-0 2 -1 8
 1
 end_operator
 begin_operator
@@ -2405,9 +2405,9 @@ begin-inverse-splice sub6 g84
 1
 0 7
 3
+0 2 -1 8
 0 3 10 21
 0 14 8 19
-0 2 -1 8
 1
 end_operator
 begin_operator
@@ -2415,9 +2415,9 @@ begin-inverse-splice sub6 sub1
 1
 0 7
 3
+0 2 -1 8
 0 3 10 21
 0 15 8 19
-0 2 -1 8
 1
 end_operator
 begin_operator
@@ -2425,9 +2425,9 @@ begin-inverse-splice sub6 sub2
 1
 0 7
 3
+0 2 -1 8
 0 3 10 21
 0 16 8 19
-0 2 -1 8
 1
 end_operator
 begin_operator
@@ -2435,9 +2435,9 @@ begin-inverse-splice sub6 sub3
 1
 0 7
 3
+0 2 -1 8
 0 3 10 21
 0 17 8 19
-0 2 -1 8
 1
 end_operator
 begin_operator
@@ -2445,9 +2445,9 @@ begin-inverse-splice sub6 sub4
 1
 0 7
 3
+0 2 -1 8
 0 3 10 21
 0 18 8 19
-0 2 -1 8
 1
 end_operator
 begin_operator
@@ -2455,9 +2455,9 @@ begin-inverse-splice sub6 sub5
 1
 0 7
 3
+0 2 -1 8
 0 3 10 21
 0 19 8 19
-0 2 -1 8
 1
 end_operator
 begin_operator
@@ -2465,9 +2465,9 @@ begin-inverse-splice sub6 sub7
 1
 0 7
 3
+0 2 -1 8
 0 3 10 21
 0 21 8 19
-0 2 -1 8
 1
 end_operator
 begin_operator
@@ -2475,9 +2475,9 @@ begin-inverse-splice sub7 g11
 1
 0 8
 3
+0 2 -1 9
 0 3 10 21
 0 13 9 19
-0 2 -1 9
 1
 end_operator
 begin_operator
@@ -2485,9 +2485,9 @@ begin-inverse-splice sub7 g84
 1
 0 8
 3
+0 2 -1 9
 0 3 10 21
 0 14 9 19
-0 2 -1 9
 1
 end_operator
 begin_operator
@@ -2495,9 +2495,9 @@ begin-inverse-splice sub7 sub1
 1
 0 8
 3
+0 2 -1 9
 0 3 10 21
 0 15 9 19
-0 2 -1 9
 1
 end_operator
 begin_operator
@@ -2505,9 +2505,9 @@ begin-inverse-splice sub7 sub2
 1
 0 8
 3
+0 2 -1 9
 0 3 10 21
 0 16 9 19
-0 2 -1 9
 1
 end_operator
 begin_operator
@@ -2515,9 +2515,9 @@ begin-inverse-splice sub7 sub3
 1
 0 8
 3
+0 2 -1 9
 0 3 10 21
 0 17 9 19
-0 2 -1 9
 1
 end_operator
 begin_operator
@@ -2525,9 +2525,9 @@ begin-inverse-splice sub7 sub4
 1
 0 8
 3
+0 2 -1 9
 0 3 10 21
 0 18 9 19
-0 2 -1 9
 1
 end_operator
 begin_operator
@@ -2535,9 +2535,9 @@ begin-inverse-splice sub7 sub5
 1
 0 8
 3
+0 2 -1 9
 0 3 10 21
 0 19 9 19
-0 2 -1 9
 1
 end_operator
 begin_operator
@@ -2545,9 +2545,9 @@ begin-inverse-splice sub7 sub6
 1
 0 8
 3
+0 2 -1 9
 0 3 10 21
 0 20 9 19
-0 2 -1 9
 1
 end_operator
 begin_operator
@@ -2555,9 +2555,9 @@ begin-inverse-splice-special-case g11
 1
 0 0
 3
+0 2 -1 1
 0 3 10 21
 0 13 1 19
-0 2 -1 1
 1
 end_operator
 begin_operator
@@ -2565,9 +2565,9 @@ begin-inverse-splice-special-case g84
 1
 0 1
 3
+0 2 -1 2
 0 3 10 21
 0 14 2 19
-0 2 -1 2
 1
 end_operator
 begin_operator
@@ -2575,9 +2575,9 @@ begin-inverse-splice-special-case sub1
 1
 0 2
 3
+0 2 -1 3
 0 3 10 21
 0 15 3 19
-0 2 -1 3
 1
 end_operator
 begin_operator
@@ -2585,9 +2585,9 @@ begin-inverse-splice-special-case sub2
 1
 0 3
 3
+0 2 -1 4
 0 3 10 21
 0 16 4 19
-0 2 -1 4
 1
 end_operator
 begin_operator
@@ -2595,9 +2595,9 @@ begin-inverse-splice-special-case sub3
 1
 0 4
 3
+0 2 -1 5
 0 3 10 21
 0 17 5 19
-0 2 -1 5
 1
 end_operator
 begin_operator
@@ -2605,9 +2605,9 @@ begin-inverse-splice-special-case sub4
 1
 0 5
 3
+0 2 -1 6
 0 3 10 21
 0 18 6 19
-0 2 -1 6
 1
 end_operator
 begin_operator
@@ -2615,9 +2615,9 @@ begin-inverse-splice-special-case sub5
 1
 0 6
 3
+0 2 -1 7
 0 3 10 21
 0 19 7 19
-0 2 -1 7
 1
 end_operator
 begin_operator
@@ -2625,9 +2625,9 @@ begin-inverse-splice-special-case sub6
 1
 0 7
 3
+0 2 -1 8
 0 3 10 21
 0 20 8 19
-0 2 -1 8
 1
 end_operator
 begin_operator
@@ -2635,1305 +2635,1305 @@ begin-inverse-splice-special-case sub7
 1
 0 8
 3
+0 2 -1 9
 0 3 10 21
 0 21 9 19
-0 2 -1 9
 1
 end_operator
 begin_operator
 begin-transpose-splice g11 g84
 0
 3
+0 2 -1 1
 0 3 10 32
 0 14 1 19
-0 2 -1 1
 2
 end_operator
 begin_operator
 begin-transpose-splice g11 sub1
 0
 3
+0 2 -1 1
 0 3 10 32
 0 15 1 19
-0 2 -1 1
 2
 end_operator
 begin_operator
 begin-transpose-splice g11 sub2
 0
 3
+0 2 -1 1
 0 3 10 32
 0 16 1 19
-0 2 -1 1
 2
 end_operator
 begin_operator
 begin-transpose-splice g11 sub3
 0
 3
+0 2 -1 1
 0 3 10 32
 0 17 1 19
-0 2 -1 1
 2
 end_operator
 begin_operator
 begin-transpose-splice g11 sub4
 0
 3
+0 2 -1 1
 0 3 10 32
 0 18 1 19
-0 2 -1 1
 2
 end_operator
 begin_operator
 begin-transpose-splice g11 sub5
 0
 3
+0 2 -1 1
 0 3 10 32
 0 19 1 19
-0 2 -1 1
 2
 end_operator
 begin_operator
 begin-transpose-splice g11 sub6
 0
 3
+0 2 -1 1
 0 3 10 32
 0 20 1 19
-0 2 -1 1
 2
 end_operator
 begin_operator
 begin-transpose-splice g11 sub7
 0
 3
+0 2 -1 1
 0 3 10 32
 0 21 1 19
-0 2 -1 1
 2
 end_operator
 begin_operator
 begin-transpose-splice g84 g11
 0
 3
+0 2 -1 2
 0 3 10 32
 0 13 2 19
-0 2 -1 2
 2
 end_operator
 begin_operator
 begin-transpose-splice g84 sub1
 0
 3
+0 2 -1 2
 0 3 10 32
 0 15 2 19
-0 2 -1 2
 2
 end_operator
 begin_operator
 begin-transpose-splice g84 sub2
 0
 3
+0 2 -1 2
 0 3 10 32
 0 16 2 19
-0 2 -1 2
 2
 end_operator
 begin_operator
 begin-transpose-splice g84 sub3
 0
 3
+0 2 -1 2
 0 3 10 32
 0 17 2 19
-0 2 -1 2
 2
 end_operator
 begin_operator
 begin-transpose-splice g84 sub4
 0
 3
+0 2 -1 2
 0 3 10 32
 0 18 2 19
-0 2 -1 2
 2
 end_operator
 begin_operator
 begin-transpose-splice g84 sub5
 0
 3
+0 2 -1 2
 0 3 10 32
 0 19 2 19
-0 2 -1 2
 2
 end_operator
 begin_operator
 begin-transpose-splice g84 sub6
 0
 3
+0 2 -1 2
 0 3 10 32
 0 20 2 19
-0 2 -1 2
 2
 end_operator
 begin_operator
 begin-transpose-splice g84 sub7
 0
 3
+0 2 -1 2
 0 3 10 32
 0 21 2 19
-0 2 -1 2
 2
 end_operator
 begin_operator
 begin-transpose-splice sub1 g11
 0
 3
+0 2 -1 3
 0 3 10 32
 0 13 3 19
-0 2 -1 3
 2
 end_operator
 begin_operator
 begin-transpose-splice sub1 g84
 0
 3
+0 2 -1 3
 0 3 10 32
 0 14 3 19
-0 2 -1 3
 2
 end_operator
 begin_operator
 begin-transpose-splice sub1 sub2
 0
 3
+0 2 -1 3
 0 3 10 32
 0 16 3 19
-0 2 -1 3
 2
 end_operator
 begin_operator
 begin-transpose-splice sub1 sub3
 0
 3
+0 2 -1 3
 0 3 10 32
 0 17 3 19
-0 2 -1 3
 2
 end_operator
 begin_operator
 begin-transpose-splice sub1 sub4
 0
 3
+0 2 -1 3
 0 3 10 32
 0 18 3 19
-0 2 -1 3
 2
 end_operator
 begin_operator
 begin-transpose-splice sub1 sub5
 0
 3
+0 2 -1 3
 0 3 10 32
 0 19 3 19
-0 2 -1 3
 2
 end_operator
 begin_operator
 begin-transpose-splice sub1 sub6
 0
 3
+0 2 -1 3
 0 3 10 32
 0 20 3 19
-0 2 -1 3
 2
 end_operator
 begin_operator
 begin-transpose-splice sub1 sub7
 0
 3
+0 2 -1 3
 0 3 10 32
 0 21 3 19
-0 2 -1 3
 2
 end_operator
 begin_operator
 begin-transpose-splice sub2 g11
 0
 3
+0 2 -1 4
 0 3 10 32
 0 13 4 19
-0 2 -1 4
 2
 end_operator
 begin_operator
 begin-transpose-splice sub2 g84
 0
 3
+0 2 -1 4
 0 3 10 32
 0 14 4 19
-0 2 -1 4
 2
 end_operator
 begin_operator
 begin-transpose-splice sub2 sub1
 0
 3
+0 2 -1 4
 0 3 10 32
 0 15 4 19
-0 2 -1 4
 2
 end_operator
 begin_operator
 begin-transpose-splice sub2 sub3
 0
 3
+0 2 -1 4
 0 3 10 32
 0 17 4 19
-0 2 -1 4
 2
 end_operator
 begin_operator
 begin-transpose-splice sub2 sub4
 0
 3
+0 2 -1 4
 0 3 10 32
 0 18 4 19
-0 2 -1 4
 2
 end_operator
 begin_operator
 begin-transpose-splice sub2 sub5
 0
 3
+0 2 -1 4
 0 3 10 32
 0 19 4 19
-0 2 -1 4
 2
 end_operator
 begin_operator
 begin-transpose-splice sub2 sub6
 0
 3
+0 2 -1 4
 0 3 10 32
 0 20 4 19
-0 2 -1 4
 2
 end_operator
 begin_operator
 begin-transpose-splice sub2 sub7
 0
 3
+0 2 -1 4
 0 3 10 32
 0 21 4 19
-0 2 -1 4
 2
 end_operator
 begin_operator
 begin-transpose-splice sub3 g11
 0
 3
+0 2 -1 5
 0 3 10 32
 0 13 5 19
-0 2 -1 5
 2
 end_operator
 begin_operator
 begin-transpose-splice sub3 g84
 0
 3
+0 2 -1 5
 0 3 10 32
 0 14 5 19
-0 2 -1 5
 2
 end_operator
 begin_operator
 begin-transpose-splice sub3 sub1
 0
 3
+0 2 -1 5
 0 3 10 32
 0 15 5 19
-0 2 -1 5
 2
 end_operator
 begin_operator
 begin-transpose-splice sub3 sub2
 0
 3
+0 2 -1 5
 0 3 10 32
 0 16 5 19
-0 2 -1 5
 2
 end_operator
 begin_operator
 begin-transpose-splice sub3 sub4
 0
 3
+0 2 -1 5
 0 3 10 32
 0 18 5 19
-0 2 -1 5
 2
 end_operator
 begin_operator
 begin-transpose-splice sub3 sub5
 0
 3
+0 2 -1 5
 0 3 10 32
 0 19 5 19
-0 2 -1 5
 2
 end_operator
 begin_operator
 begin-transpose-splice sub3 sub6
 0
 3
+0 2 -1 5
 0 3 10 32
 0 20 5 19
-0 2 -1 5
 2
 end_operator
 begin_operator
 begin-transpose-splice sub3 sub7
 0
 3
+0 2 -1 5
 0 3 10 32
 0 21 5 19
-0 2 -1 5
 2
 end_operator
 begin_operator
 begin-transpose-splice sub4 g11
 0
 3
+0 2 -1 6
 0 3 10 32
 0 13 6 19
-0 2 -1 6
 2
 end_operator
 begin_operator
 begin-transpose-splice sub4 g84
 0
 3
+0 2 -1 6
 0 3 10 32
 0 14 6 19
-0 2 -1 6
 2
 end_operator
 begin_operator
 begin-transpose-splice sub4 sub1
 0
 3
+0 2 -1 6
 0 3 10 32
 0 15 6 19
-0 2 -1 6
 2
 end_operator
 begin_operator
 begin-transpose-splice sub4 sub2
 0
 3
+0 2 -1 6
 0 3 10 32
 0 16 6 19
-0 2 -1 6
 2
 end_operator
 begin_operator
 begin-transpose-splice sub4 sub3
 0
 3
+0 2 -1 6
 0 3 10 32
 0 17 6 19
-0 2 -1 6
 2
 end_operator
 begin_operator
 begin-transpose-splice sub4 sub5
 0
 3
+0 2 -1 6
 0 3 10 32
 0 19 6 19
-0 2 -1 6
 2
 end_operator
 begin_operator
 begin-transpose-splice sub4 sub6
 0
 3
+0 2 -1 6
 0 3 10 32
 0 20 6 19
-0 2 -1 6
 2
 end_operator
 begin_operator
 begin-transpose-splice sub4 sub7
 0
 3
+0 2 -1 6
 0 3 10 32
 0 21 6 19
-0 2 -1 6
 2
 end_operator
 begin_operator
 begin-transpose-splice sub5 g11
 0
 3
+0 2 -1 7
 0 3 10 32
 0 13 7 19
-0 2 -1 7
 2
 end_operator
 begin_operator
 begin-transpose-splice sub5 g84
 0
 3
+0 2 -1 7
 0 3 10 32
 0 14 7 19
-0 2 -1 7
 2
 end_operator
 begin_operator
 begin-transpose-splice sub5 sub1
 0
 3
+0 2 -1 7
 0 3 10 32
 0 15 7 19
-0 2 -1 7
 2
 end_operator
 begin_operator
 begin-transpose-splice sub5 sub2
 0
 3
+0 2 -1 7
 0 3 10 32
 0 16 7 19
-0 2 -1 7
 2
 end_operator
 begin_operator
 begin-transpose-splice sub5 sub3
 0
 3
+0 2 -1 7
 0 3 10 32
 0 17 7 19
-0 2 -1 7
 2
 end_operator
 begin_operator
 begin-transpose-splice sub5 sub4
 0
 3
+0 2 -1 7
 0 3 10 32
 0 18 7 19
-0 2 -1 7
 2
 end_operator
 begin_operator
 begin-transpose-splice sub5 sub6
 0
 3
+0 2 -1 7
 0 3 10 32
 0 20 7 19
-0 2 -1 7
 2
 end_operator
 begin_operator
 begin-transpose-splice sub5 sub7
 0
 3
+0 2 -1 7
 0 3 10 32
 0 21 7 19
-0 2 -1 7
 2
 end_operator
 begin_operator
 begin-transpose-splice sub6 g11
 0
 3
+0 2 -1 8
 0 3 10 32
 0 13 8 19
-0 2 -1 8
 2
 end_operator
 begin_operator
 begin-transpose-splice sub6 g84
 0
 3
+0 2 -1 8
 0 3 10 32
 0 14 8 19
-0 2 -1 8
 2
 end_operator
 begin_operator
 begin-transpose-splice sub6 sub1
 0
 3
+0 2 -1 8
 0 3 10 32
 0 15 8 19
-0 2 -1 8
 2
 end_operator
 begin_operator
 begin-transpose-splice sub6 sub2
 0
 3
+0 2 -1 8
 0 3 10 32
 0 16 8 19
-0 2 -1 8
 2
 end_operator
 begin_operator
 begin-transpose-splice sub6 sub3
 0
 3
+0 2 -1 8
 0 3 10 32
 0 17 8 19
-0 2 -1 8
 2
 end_operator
 begin_operator
 begin-transpose-splice sub6 sub4
 0
 3
+0 2 -1 8
 0 3 10 32
 0 18 8 19
-0 2 -1 8
 2
 end_operator
 begin_operator
 begin-transpose-splice sub6 sub5
 0
 3
+0 2 -1 8
 0 3 10 32
 0 19 8 19
-0 2 -1 8
 2
 end_operator
 begin_operator
 begin-transpose-splice sub6 sub7
 0
 3
+0 2 -1 8
 0 3 10 32
 0 21 8 19
-0 2 -1 8
 2
 end_operator
 begin_operator
 begin-transpose-splice sub7 g11
 0
 3
+0 2 -1 9
 0 3 10 32
 0 13 9 19
-0 2 -1 9
 2
 end_operator
 begin_operator
 begin-transpose-splice sub7 g84
 0
 3
+0 2 -1 9
 0 3 10 32
 0 14 9 19
-0 2 -1 9
 2
 end_operator
 begin_operator
 begin-transpose-splice sub7 sub1
 0
 3
+0 2 -1 9
 0 3 10 32
 0 15 9 19
-0 2 -1 9
 2
 end_operator
 begin_operator
 begin-transpose-splice sub7 sub2
 0
 3
+0 2 -1 9
 0 3 10 32
 0 16 9 19
-0 2 -1 9
 2
 end_operator
 begin_operator
 begin-transpose-splice sub7 sub3
 0
 3
+0 2 -1 9
 0 3 10 32
 0 17 9 19
-0 2 -1 9
 2
 end_operator
 begin_operator
 begin-transpose-splice sub7 sub4
 0
 3
+0 2 -1 9
 0 3 10 32
 0 18 9 19
-0 2 -1 9
 2
 end_operator
 begin_operator
 begin-transpose-splice sub7 sub5
 0
 3
+0 2 -1 9
 0 3 10 32
 0 19 9 19
-0 2 -1 9
 2
 end_operator
 begin_operator
 begin-transpose-splice sub7 sub6
 0
 3
+0 2 -1 9
 0 3 10 32
 0 20 9 19
-0 2 -1 9
 2
 end_operator
 begin_operator
 begin-transverse-splice g11 g84
 0
 3
+0 2 -1 1
 0 3 10 21
 0 14 1 19
-0 2 -1 1
 2
 end_operator
 begin_operator
 begin-transverse-splice g11 sub1
 0
 3
+0 2 -1 1
 0 3 10 21
 0 15 1 19
-0 2 -1 1
 2
 end_operator
 begin_operator
 begin-transverse-splice g11 sub2
 0
 3
+0 2 -1 1
 0 3 10 21
 0 16 1 19
-0 2 -1 1
 2
 end_operator
 begin_operator
 begin-transverse-splice g11 sub3
 0
 3
+0 2 -1 1
 0 3 10 21
 0 17 1 19
-0 2 -1 1
 2
 end_operator
 begin_operator
 begin-transverse-splice g11 sub4
 0
 3
+0 2 -1 1
 0 3 10 21
 0 18 1 19
-0 2 -1 1
 2
 end_operator
 begin_operator
 begin-transverse-splice g11 sub5
 0
 3
+0 2 -1 1
 0 3 10 21
 0 19 1 19
-0 2 -1 1
 2
 end_operator
 begin_operator
 begin-transverse-splice g11 sub6
 0
 3
+0 2 -1 1
 0 3 10 21
 0 20 1 19
-0 2 -1 1
 2
 end_operator
 begin_operator
 begin-transverse-splice g11 sub7
 0
 3
+0 2 -1 1
 0 3 10 21
 0 21 1 19
-0 2 -1 1
 2
 end_operator
 begin_operator
 begin-transverse-splice g84 g11
 0
 3
+0 2 -1 2
 0 3 10 21
 0 13 2 19
-0 2 -1 2
 2
 end_operator
 begin_operator
 begin-transverse-splice g84 sub1
 0
 3
+0 2 -1 2
 0 3 10 21
 0 15 2 19
-0 2 -1 2
 2
 end_operator
 begin_operator
 begin-transverse-splice g84 sub2
 0
 3
+0 2 -1 2
 0 3 10 21
 0 16 2 19
-0 2 -1 2
 2
 end_operator
 begin_operator
 begin-transverse-splice g84 sub3
 0
 3
+0 2 -1 2
 0 3 10 21
 0 17 2 19
-0 2 -1 2
 2
 end_operator
 begin_operator
 begin-transverse-splice g84 sub4
 0
 3
+0 2 -1 2
 0 3 10 21
 0 18 2 19
-0 2 -1 2
 2
 end_operator
 begin_operator
 begin-transverse-splice g84 sub5
 0
 3
+0 2 -1 2
 0 3 10 21
 0 19 2 19
-0 2 -1 2
 2
 end_operator
 begin_operator
 begin-transverse-splice g84 sub6
 0
 3
+0 2 -1 2
 0 3 10 21
 0 20 2 19
-0 2 -1 2
 2
 end_operator
 begin_operator
 begin-transverse-splice g84 sub7
 0
 3
+0 2 -1 2
 0 3 10 21
 0 21 2 19
-0 2 -1 2
 2
 end_operator
 begin_operator
 begin-transverse-splice sub1 g11
 0
 3
+0 2 -1 3
 0 3 10 21
 0 13 3 19
-0 2 -1 3
 2
 end_operator
 begin_operator
 begin-transverse-splice sub1 g84
 0
 3
+0 2 -1 3
 0 3 10 21
 0 14 3 19
-0 2 -1 3
 2
 end_operator
 begin_operator
 begin-transverse-splice sub1 sub2
 0
 3
+0 2 -1 3
 0 3 10 21
 0 16 3 19
-0 2 -1 3
 2
 end_operator
 begin_operator
 begin-transverse-splice sub1 sub3
 0
 3
+0 2 -1 3
 0 3 10 21
 0 17 3 19
-0 2 -1 3
 2
 end_operator
 begin_operator
 begin-transverse-splice sub1 sub4
 0
 3
+0 2 -1 3
 0 3 10 21
 0 18 3 19
-0 2 -1 3
 2
 end_operator
 begin_operator
 begin-transverse-splice sub1 sub5
 0
 3
+0 2 -1 3
 0 3 10 21
 0 19 3 19
-0 2 -1 3
 2
 end_operator
 begin_operator
 begin-transverse-splice sub1 sub6
 0
 3
+0 2 -1 3
 0 3 10 21
 0 20 3 19
-0 2 -1 3
 2
 end_operator
 begin_operator
 begin-transverse-splice sub1 sub7
 0
 3
+0 2 -1 3
 0 3 10 21
 0 21 3 19
-0 2 -1 3
 2
 end_operator
 begin_operator
 begin-transverse-splice sub2 g11
 0
 3
+0 2 -1 4
 0 3 10 21
 0 13 4 19
-0 2 -1 4
 2
 end_operator
 begin_operator
 begin-transverse-splice sub2 g84
 0
 3
+0 2 -1 4
 0 3 10 21
 0 14 4 19
-0 2 -1 4
 2
 end_operator
 begin_operator
 begin-transverse-splice sub2 sub1
 0
 3
+0 2 -1 4
 0 3 10 21
 0 15 4 19
-0 2 -1 4
 2
 end_operator
 begin_operator
 begin-transverse-splice sub2 sub3
 0
 3
+0 2 -1 4
 0 3 10 21
 0 17 4 19
-0 2 -1 4
 2
 end_operator
 begin_operator
 begin-transverse-splice sub2 sub4
 0
 3
+0 2 -1 4
 0 3 10 21
 0 18 4 19
-0 2 -1 4
 2
 end_operator
 begin_operator
 begin-transverse-splice sub2 sub5
 0
 3
+0 2 -1 4
 0 3 10 21
 0 19 4 19
-0 2 -1 4
 2
 end_operator
 begin_operator
 begin-transverse-splice sub2 sub6
 0
 3
+0 2 -1 4
 0 3 10 21
 0 20 4 19
-0 2 -1 4
 2
 end_operator
 begin_operator
 begin-transverse-splice sub2 sub7
 0
 3
+0 2 -1 4
 0 3 10 21
 0 21 4 19
-0 2 -1 4
 2
 end_operator
 begin_operator
 begin-transverse-splice sub3 g11
 0
 3
+0 2 -1 5
 0 3 10 21
 0 13 5 19
-0 2 -1 5
 2
 end_operator
 begin_operator
 begin-transverse-splice sub3 g84
 0
 3
+0 2 -1 5
 0 3 10 21
 0 14 5 19
-0 2 -1 5
 2
 end_operator
 begin_operator
 begin-transverse-splice sub3 sub1
 0
 3
+0 2 -1 5
 0 3 10 21
 0 15 5 19
-0 2 -1 5
 2
 end_operator
 begin_operator
 begin-transverse-splice sub3 sub2
 0
 3
+0 2 -1 5
 0 3 10 21
 0 16 5 19
-0 2 -1 5
 2
 end_operator
 begin_operator
 begin-transverse-splice sub3 sub4
 0
 3
+0 2 -1 5
 0 3 10 21
 0 18 5 19
-0 2 -1 5
 2
 end_operator
 begin_operator
 begin-transverse-splice sub3 sub5
 0
 3
+0 2 -1 5
 0 3 10 21
 0 19 5 19
-0 2 -1 5
 2
 end_operator
 begin_operator
 begin-transverse-splice sub3 sub6
 0
 3
+0 2 -1 5
 0 3 10 21
 0 20 5 19
-0 2 -1 5
 2
 end_operator
 begin_operator
 begin-transverse-splice sub3 sub7
 0
 3
+0 2 -1 5
 0 3 10 21
 0 21 5 19
-0 2 -1 5
 2
 end_operator
 begin_operator
 begin-transverse-splice sub4 g11
 0
 3
+0 2 -1 6
 0 3 10 21
 0 13 6 19
-0 2 -1 6
 2
 end_operator
 begin_operator
 begin-transverse-splice sub4 g84
 0
 3
+0 2 -1 6
 0 3 10 21
 0 14 6 19
-0 2 -1 6
 2
 end_operator
 begin_operator
 begin-transverse-splice sub4 sub1
 0
 3
+0 2 -1 6
 0 3 10 21
 0 15 6 19
-0 2 -1 6
 2
 end_operator
 begin_operator
 begin-transverse-splice sub4 sub2
 0
 3
+0 2 -1 6
 0 3 10 21
 0 16 6 19
-0 2 -1 6
 2
 end_operator
 begin_operator
 begin-transverse-splice sub4 sub3
 0
 3
+0 2 -1 6
 0 3 10 21
 0 17 6 19
-0 2 -1 6
 2
 end_operator
 begin_operator
 begin-transverse-splice sub4 sub5
 0
 3
+0 2 -1 6
 0 3 10 21
 0 19 6 19
-0 2 -1 6
 2
 end_operator
 begin_operator
 begin-transverse-splice sub4 sub6
 0
 3
+0 2 -1 6
 0 3 10 21
 0 20 6 19
-0 2 -1 6
 2
 end_operator
 begin_operator
 begin-transverse-splice sub4 sub7
 0
 3
+0 2 -1 6
 0 3 10 21
 0 21 6 19
-0 2 -1 6
 2
 end_operator
 begin_operator
 begin-transverse-splice sub5 g11
 0
 3
+0 2 -1 7
 0 3 10 21
 0 13 7 19
-0 2 -1 7
 2
 end_operator
 begin_operator
 begin-transverse-splice sub5 g84
 0
 3
+0 2 -1 7
 0 3 10 21
 0 14 7 19
-0 2 -1 7
 2
 end_operator
 begin_operator
 begin-transverse-splice sub5 sub1
 0
 3
+0 2 -1 7
 0 3 10 21
 0 15 7 19
-0 2 -1 7
 2
 end_operator
 begin_operator
 begin-transverse-splice sub5 sub2
 0
 3
+0 2 -1 7
 0 3 10 21
 0 16 7 19
-0 2 -1 7
 2
 end_operator
 begin_operator
 begin-transverse-splice sub5 sub3
 0
 3
+0 2 -1 7
 0 3 10 21
 0 17 7 19
-0 2 -1 7
 2
 end_operator
 begin_operator
 begin-transverse-splice sub5 sub4
 0
 3
+0 2 -1 7
 0 3 10 21
 0 18 7 19
-0 2 -1 7
 2
 end_operator
 begin_operator
 begin-transverse-splice sub5 sub6
 0
 3
+0 2 -1 7
 0 3 10 21
 0 20 7 19
-0 2 -1 7
 2
 end_operator
 begin_operator
 begin-transverse-splice sub5 sub7
 0
 3
+0 2 -1 7
 0 3 10 21
 0 21 7 19
-0 2 -1 7
 2
 end_operator
 begin_operator
 begin-transverse-splice sub6 g11
 0
 3
+0 2 -1 8
 0 3 10 21
 0 13 8 19
-0 2 -1 8
 2
 end_operator
 begin_operator
 begin-transverse-splice sub6 g84
 0
 3
+0 2 -1 8
 0 3 10 21
 0 14 8 19
-0 2 -1 8
 2
 end_operator
 begin_operator
 begin-transverse-splice sub6 sub1
 0
 3
+0 2 -1 8
 0 3 10 21
 0 15 8 19
-0 2 -1 8
 2
 end_operator
 begin_operator
 begin-transverse-splice sub6 sub2
 0
 3
+0 2 -1 8
 0 3 10 21
 0 16 8 19
-0 2 -1 8
 2
 end_operator
 begin_operator
 begin-transverse-splice sub6 sub3
 0
 3
+0 2 -1 8
 0 3 10 21
 0 17 8 19
-0 2 -1 8
 2
 end_operator
 begin_operator
 begin-transverse-splice sub6 sub4
 0
 3
+0 2 -1 8
 0 3 10 21
 0 18 8 19
-0 2 -1 8
 2
 end_operator
 begin_operator
 begin-transverse-splice sub6 sub5
 0
 3
+0 2 -1 8
 0 3 10 21
 0 19 8 19
-0 2 -1 8
 2
 end_operator
 begin_operator
 begin-transverse-splice sub6 sub7
 0
 3
+0 2 -1 8
 0 3 10 21
 0 21 8 19
-0 2 -1 8
 2
 end_operator
 begin_operator
 begin-transverse-splice sub7 g11
 0
 3
+0 2 -1 9
 0 3 10 21
 0 13 9 19
-0 2 -1 9
 2
 end_operator
 begin_operator
 begin-transverse-splice sub7 g84
 0
 3
+0 2 -1 9
 0 3 10 21
 0 14 9 19
-0 2 -1 9
 2
 end_operator
 begin_operator
 begin-transverse-splice sub7 sub1
 0
 3
+0 2 -1 9
 0 3 10 21
 0 15 9 19
-0 2 -1 9
 2
 end_operator
 begin_operator
 begin-transverse-splice sub7 sub2
 0
 3
+0 2 -1 9
 0 3 10 21
 0 16 9 19
-0 2 -1 9
 2
 end_operator
 begin_operator
 begin-transverse-splice sub7 sub3
 0
 3
+0 2 -1 9
 0 3 10 21
 0 17 9 19
-0 2 -1 9
 2
 end_operator
 begin_operator
 begin-transverse-splice sub7 sub4
 0
 3
+0 2 -1 9
 0 3 10 21
 0 18 9 19
-0 2 -1 9
 2
 end_operator
 begin_operator
 begin-transverse-splice sub7 sub5
 0
 3
+0 2 -1 9
 0 3 10 21
 0 19 9 19
-0 2 -1 9
 2
 end_operator
 begin_operator
 begin-transverse-splice sub7 sub6
 0
 3
+0 2 -1 9
 0 3 10 21
 0 20 9 19
-0 2 -1 9
 2
 end_operator
 begin_operator
@@ -3941,8 +3941,8 @@ continue-cut g11 g84
 1
 2 0
 2
-0 14 1 11
 0 1 0 1
+0 14 1 11
 0
 end_operator
 begin_operator
@@ -3950,8 +3950,8 @@ continue-cut g11 sub1
 1
 2 0
 2
-0 15 1 11
 0 1 0 2
+0 15 1 11
 0
 end_operator
 begin_operator
@@ -3959,8 +3959,8 @@ continue-cut g11 sub2
 1
 2 0
 2
-0 16 1 11
 0 1 0 3
+0 16 1 11
 0
 end_operator
 begin_operator
@@ -3968,8 +3968,8 @@ continue-cut g11 sub3
 1
 2 0
 2
-0 17 1 11
 0 1 0 4
+0 17 1 11
 0
 end_operator
 begin_operator
@@ -3977,8 +3977,8 @@ continue-cut g11 sub4
 1
 2 0
 2
-0 18 1 11
 0 1 0 5
+0 18 1 11
 0
 end_operator
 begin_operator
@@ -3986,8 +3986,8 @@ continue-cut g11 sub5
 1
 2 0
 2
-0 19 1 11
 0 1 0 6
+0 19 1 11
 0
 end_operator
 begin_operator
@@ -3995,8 +3995,8 @@ continue-cut g11 sub6
 1
 2 0
 2
-0 20 1 11
 0 1 0 7
+0 20 1 11
 0
 end_operator
 begin_operator
@@ -4004,8 +4004,8 @@ continue-cut g11 sub7
 1
 2 0
 2
-0 21 1 11
 0 1 0 8
+0 21 1 11
 0
 end_operator
 begin_operator
@@ -4013,8 +4013,8 @@ continue-cut g84 g11
 1
 2 0
 2
-0 13 2 11
 0 1 1 0
+0 13 2 11
 0
 end_operator
 begin_operator
@@ -4022,8 +4022,8 @@ continue-cut g84 sub1
 1
 2 0
 2
-0 15 2 12
 0 1 1 2
+0 15 2 12
 0
 end_operator
 begin_operator
@@ -4031,8 +4031,8 @@ continue-cut g84 sub2
 1
 2 0
 2
-0 16 2 12
 0 1 1 3
+0 16 2 12
 0
 end_operator
 begin_operator
@@ -4040,8 +4040,8 @@ continue-cut g84 sub3
 1
 2 0
 2
-0 17 2 12
 0 1 1 4
+0 17 2 12
 0
 end_operator
 begin_operator
@@ -4049,8 +4049,8 @@ continue-cut g84 sub4
 1
 2 0
 2
-0 18 2 12
 0 1 1 5
+0 18 2 12
 0
 end_operator
 begin_operator
@@ -4058,8 +4058,8 @@ continue-cut g84 sub5
 1
 2 0
 2
-0 19 2 12
 0 1 1 6
+0 19 2 12
 0
 end_operator
 begin_operator
@@ -4067,8 +4067,8 @@ continue-cut g84 sub6
 1
 2 0
 2
-0 20 2 12
 0 1 1 7
+0 20 2 12
 0
 end_operator
 begin_operator
@@ -4076,8 +4076,8 @@ continue-cut g84 sub7
 1
 2 0
 2
-0 21 2 12
 0 1 1 8
+0 21 2 12
 0
 end_operator
 begin_operator
@@ -4085,8 +4085,8 @@ continue-cut sub1 g11
 1
 2 0
 2
-0 13 3 12
 0 1 2 0
+0 13 3 12
 0
 end_operator
 begin_operator
@@ -4094,8 +4094,8 @@ continue-cut sub1 g84
 1
 2 0
 2
-0 14 3 12
 0 1 2 1
+0 14 3 12
 0
 end_operator
 begin_operator
@@ -4103,8 +4103,8 @@ continue-cut sub1 sub2
 1
 2 0
 2
-0 16 3 13
 0 1 2 3
+0 16 3 13
 0
 end_operator
 begin_operator
@@ -4112,8 +4112,8 @@ continue-cut sub1 sub3
 1
 2 0
 2
-0 17 3 13
 0 1 2 4
+0 17 3 13
 0
 end_operator
 begin_operator
@@ -4121,8 +4121,8 @@ continue-cut sub1 sub4
 1
 2 0
 2
-0 18 3 13
 0 1 2 5
+0 18 3 13
 0
 end_operator
 begin_operator
@@ -4130,8 +4130,8 @@ continue-cut sub1 sub5
 1
 2 0
 2
-0 19 3 13
 0 1 2 6
+0 19 3 13
 0
 end_operator
 begin_operator
@@ -4139,8 +4139,8 @@ continue-cut sub1 sub6
 1
 2 0
 2
-0 20 3 13
 0 1 2 7
+0 20 3 13
 0
 end_operator
 begin_operator
@@ -4148,8 +4148,8 @@ continue-cut sub1 sub7
 1
 2 0
 2
-0 21 3 13
 0 1 2 8
+0 21 3 13
 0
 end_operator
 begin_operator
@@ -4157,8 +4157,8 @@ continue-cut sub2 g11
 1
 2 0
 2
-0 13 4 13
 0 1 3 0
+0 13 4 13
 0
 end_operator
 begin_operator
@@ -4166,8 +4166,8 @@ continue-cut sub2 g84
 1
 2 0
 2
-0 14 4 13
 0 1 3 1
+0 14 4 13
 0
 end_operator
 begin_operator
@@ -4175,8 +4175,8 @@ continue-cut sub2 sub1
 1
 2 0
 2
-0 15 4 13
 0 1 3 2
+0 15 4 13
 0
 end_operator
 begin_operator
@@ -4184,8 +4184,8 @@ continue-cut sub2 sub3
 1
 2 0
 2
-0 17 4 14
 0 1 3 4
+0 17 4 14
 0
 end_operator
 begin_operator
@@ -4193,8 +4193,8 @@ continue-cut sub2 sub4
 1
 2 0
 2
-0 18 4 14
 0 1 3 5
+0 18 4 14
 0
 end_operator
 begin_operator
@@ -4202,8 +4202,8 @@ continue-cut sub2 sub5
 1
 2 0
 2
-0 19 4 14
 0 1 3 6
+0 19 4 14
 0
 end_operator
 begin_operator
@@ -4211,8 +4211,8 @@ continue-cut sub2 sub6
 1
 2 0
 2
-0 20 4 14
 0 1 3 7
+0 20 4 14
 0
 end_operator
 begin_operator
@@ -4220,8 +4220,8 @@ continue-cut sub2 sub7
 1
 2 0
 2
-0 21 4 14
 0 1 3 8
+0 21 4 14
 0
 end_operator
 begin_operator
@@ -4229,8 +4229,8 @@ continue-cut sub3 g11
 1
 2 0
 2
-0 13 5 14
 0 1 4 0
+0 13 5 14
 0
 end_operator
 begin_operator
@@ -4238,8 +4238,8 @@ continue-cut sub3 g84
 1
 2 0
 2
-0 14 5 14
 0 1 4 1
+0 14 5 14
 0
 end_operator
 begin_operator
@@ -4247,8 +4247,8 @@ continue-cut sub3 sub1
 1
 2 0
 2
-0 15 5 14
 0 1 4 2
+0 15 5 14
 0
 end_operator
 begin_operator
@@ -4256,8 +4256,8 @@ continue-cut sub3 sub2
 1
 2 0
 2
-0 16 5 14
 0 1 4 3
+0 16 5 14
 0
 end_operator
 begin_operator
@@ -4265,8 +4265,8 @@ continue-cut sub3 sub4
 1
 2 0
 2
-0 18 5 15
 0 1 4 5
+0 18 5 15
 0
 end_operator
 begin_operator
@@ -4274,8 +4274,8 @@ continue-cut sub3 sub5
 1
 2 0
 2
-0 19 5 15
 0 1 4 6
+0 19 5 15
 0
 end_operator
 begin_operator
@@ -4283,8 +4283,8 @@ continue-cut sub3 sub6
 1
 2 0
 2
-0 20 5 15
 0 1 4 7
+0 20 5 15
 0
 end_operator
 begin_operator
@@ -4292,8 +4292,8 @@ continue-cut sub3 sub7
 1
 2 0
 2
-0 21 5 15
 0 1 4 8
+0 21 5 15
 0
 end_operator
 begin_operator
@@ -4301,8 +4301,8 @@ continue-cut sub4 g11
 1
 2 0
 2
-0 13 6 15
 0 1 5 0
+0 13 6 15
 0
 end_operator
 begin_operator
@@ -4310,8 +4310,8 @@ continue-cut sub4 g84
 1
 2 0
 2
-0 14 6 15
 0 1 5 1
+0 14 6 15
 0
 end_operator
 begin_operator
@@ -4319,8 +4319,8 @@ continue-cut sub4 sub1
 1
 2 0
 2
-0 15 6 15
 0 1 5 2
+0 15 6 15
 0
 end_operator
 begin_operator
@@ -4328,8 +4328,8 @@ continue-cut sub4 sub2
 1
 2 0
 2
-0 16 6 15
 0 1 5 3
+0 16 6 15
 0
 end_operator
 begin_operator
@@ -4337,8 +4337,8 @@ continue-cut sub4 sub3
 1
 2 0
 2
-0 17 6 15
 0 1 5 4
+0 17 6 15
 0
 end_operator
 begin_operator
@@ -4346,8 +4346,8 @@ continue-cut sub4 sub5
 1
 2 0
 2
-0 19 6 16
 0 1 5 6
+0 19 6 16
 0
 end_operator
 begin_operator
@@ -4355,8 +4355,8 @@ continue-cut sub4 sub6
 1
 2 0
 2
-0 20 6 16
 0 1 5 7
+0 20 6 16
 0
 end_operator
 begin_operator
@@ -4364,8 +4364,8 @@ continue-cut sub4 sub7
 1
 2 0
 2
-0 21 6 16
 0 1 5 8
+0 21 6 16
 0
 end_operator
 begin_operator
@@ -4373,8 +4373,8 @@ continue-cut sub5 g11
 1
 2 0
 2
-0 13 7 16
 0 1 6 0
+0 13 7 16
 0
 end_operator
 begin_operator
@@ -4382,8 +4382,8 @@ continue-cut sub5 g84
 1
 2 0
 2
-0 14 7 16
 0 1 6 1
+0 14 7 16
 0
 end_operator
 begin_operator
@@ -4391,8 +4391,8 @@ continue-cut sub5 sub1
 1
 2 0
 2
-0 15 7 16
 0 1 6 2
+0 15 7 16
 0
 end_operator
 begin_operator
@@ -4400,8 +4400,8 @@ continue-cut sub5 sub2
 1
 2 0
 2
-0 16 7 16
 0 1 6 3
+0 16 7 16
 0
 end_operator
 begin_operator
@@ -4409,8 +4409,8 @@ continue-cut sub5 sub3
 1
 2 0
 2
-0 17 7 16
 0 1 6 4
+0 17 7 16
 0
 end_operator
 begin_operator
@@ -4418,8 +4418,8 @@ continue-cut sub5 sub4
 1
 2 0
 2
-0 18 7 16
 0 1 6 5
+0 18 7 16
 0
 end_operator
 begin_operator
@@ -4427,8 +4427,8 @@ continue-cut sub5 sub6
 1
 2 0
 2
-0 20 7 17
 0 1 6 7
+0 20 7 17
 0
 end_operator
 begin_operator
@@ -4436,8 +4436,8 @@ continue-cut sub5 sub7
 1
 2 0
 2
-0 21 7 17
 0 1 6 8
+0 21 7 17
 0
 end_operator
 begin_operator
@@ -4445,8 +4445,8 @@ continue-cut sub6 g11
 1
 2 0
 2
-0 13 8 17
 0 1 7 0
+0 13 8 17
 0
 end_operator
 begin_operator
@@ -4454,8 +4454,8 @@ continue-cut sub6 g84
 1
 2 0
 2
-0 14 8 17
 0 1 7 1
+0 14 8 17
 0
 end_operator
 begin_operator
@@ -4463,8 +4463,8 @@ continue-cut sub6 sub1
 1
 2 0
 2
-0 15 8 17
 0 1 7 2
+0 15 8 17
 0
 end_operator
 begin_operator
@@ -4472,8 +4472,8 @@ continue-cut sub6 sub2
 1
 2 0
 2
-0 16 8 17
 0 1 7 3
+0 16 8 17
 0
 end_operator
 begin_operator
@@ -4481,8 +4481,8 @@ continue-cut sub6 sub3
 1
 2 0
 2
-0 17 8 17
 0 1 7 4
+0 17 8 17
 0
 end_operator
 begin_operator
@@ -4490,8 +4490,8 @@ continue-cut sub6 sub4
 1
 2 0
 2
-0 18 8 17
 0 1 7 5
+0 18 8 17
 0
 end_operator
 begin_operator
@@ -4499,8 +4499,8 @@ continue-cut sub6 sub5
 1
 2 0
 2
-0 19 8 17
 0 1 7 6
+0 19 8 17
 0
 end_operator
 begin_operator
@@ -4508,8 +4508,8 @@ continue-cut sub6 sub7
 1
 2 0
 2
-0 21 8 18
 0 1 7 8
+0 21 8 18
 0
 end_operator
 begin_operator
@@ -4517,8 +4517,8 @@ continue-cut sub7 g11
 1
 2 0
 2
-0 13 9 18
 0 1 8 0
+0 13 9 18
 0
 end_operator
 begin_operator
@@ -4526,8 +4526,8 @@ continue-cut sub7 g84
 1
 2 0
 2
-0 14 9 18
 0 1 8 1
+0 14 9 18
 0
 end_operator
 begin_operator
@@ -4535,8 +4535,8 @@ continue-cut sub7 sub1
 1
 2 0
 2
-0 15 9 18
 0 1 8 2
+0 15 9 18
 0
 end_operator
 begin_operator
@@ -4544,8 +4544,8 @@ continue-cut sub7 sub2
 1
 2 0
 2
-0 16 9 18
 0 1 8 3
+0 16 9 18
 0
 end_operator
 begin_operator
@@ -4553,8 +4553,8 @@ continue-cut sub7 sub3
 1
 2 0
 2
-0 17 9 18
 0 1 8 4
+0 17 9 18
 0
 end_operator
 begin_operator
@@ -4562,8 +4562,8 @@ continue-cut sub7 sub4
 1
 2 0
 2
-0 18 9 18
 0 1 8 5
+0 18 9 18
 0
 end_operator
 begin_operator
@@ -4571,8 +4571,8 @@ continue-cut sub7 sub5
 1
 2 0
 2
-0 19 9 18
 0 1 8 6
+0 19 9 18
 0
 end_operator
 begin_operator
@@ -4580,1448 +4580,1448 @@ continue-cut sub7 sub6
 1
 2 0
 2
-0 20 9 18
 0 1 8 7
+0 20 9 18
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a g11 g84
 0
 4
-0 3 21 12
-0 13 11 20
-0 4 1 0
 0 1 0 1
+0 3 21 12
+0 4 1 0
+0 13 11 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a g11 sub1
 0
 4
-0 3 21 12
-0 13 12 20
-0 4 1 0
 0 1 0 2
+0 3 21 12
+0 4 1 0
+0 13 12 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a g11 sub2
 0
 4
-0 3 21 12
-0 13 13 20
-0 4 1 0
 0 1 0 3
+0 3 21 12
+0 4 1 0
+0 13 13 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a g11 sub3
 0
 4
-0 3 21 12
-0 13 14 20
-0 4 1 0
 0 1 0 4
+0 3 21 12
+0 4 1 0
+0 13 14 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a g11 sub4
 0
 4
-0 3 21 12
-0 13 15 20
-0 4 1 0
 0 1 0 5
+0 3 21 12
+0 4 1 0
+0 13 15 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a g11 sub5
 0
 4
-0 3 21 12
-0 13 16 20
-0 4 1 0
 0 1 0 6
+0 3 21 12
+0 4 1 0
+0 13 16 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a g11 sub6
 0
 4
-0 3 21 12
-0 13 17 20
-0 4 1 0
 0 1 0 7
+0 3 21 12
+0 4 1 0
+0 13 17 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a g11 sub7
 0
 4
-0 3 21 12
-0 13 18 20
-0 4 1 0
 0 1 0 8
+0 3 21 12
+0 4 1 0
+0 13 18 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a g84 g11
 0
 4
-0 3 21 13
-0 14 11 20
-0 5 1 0
 0 1 1 0
+0 3 21 13
+0 5 1 0
+0 14 11 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a g84 sub1
 0
 4
-0 3 21 13
-0 14 12 20
-0 5 1 0
 0 1 1 2
+0 3 21 13
+0 5 1 0
+0 14 12 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a g84 sub2
 0
 4
-0 3 21 13
-0 14 13 20
-0 5 1 0
 0 1 1 3
+0 3 21 13
+0 5 1 0
+0 14 13 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a g84 sub3
 0
 4
-0 3 21 13
-0 14 14 20
-0 5 1 0
 0 1 1 4
+0 3 21 13
+0 5 1 0
+0 14 14 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a g84 sub4
 0
 4
-0 3 21 13
-0 14 15 20
-0 5 1 0
 0 1 1 5
+0 3 21 13
+0 5 1 0
+0 14 15 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a g84 sub5
 0
 4
-0 3 21 13
-0 14 16 20
-0 5 1 0
 0 1 1 6
+0 3 21 13
+0 5 1 0
+0 14 16 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a g84 sub6
 0
 4
-0 3 21 13
-0 14 17 20
-0 5 1 0
 0 1 1 7
+0 3 21 13
+0 5 1 0
+0 14 17 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a g84 sub7
 0
 4
-0 3 21 13
-0 14 18 20
-0 5 1 0
 0 1 1 8
+0 3 21 13
+0 5 1 0
+0 14 18 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub1 g11
 0
 4
-0 3 21 14
-0 15 11 20
-0 6 1 0
 0 1 2 0
+0 3 21 14
+0 6 1 0
+0 15 11 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub1 g84
 0
 4
-0 3 21 14
-0 15 12 20
-0 6 1 0
 0 1 2 1
+0 3 21 14
+0 6 1 0
+0 15 12 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub1 sub2
 0
 4
-0 3 21 14
-0 15 13 20
-0 6 1 0
 0 1 2 3
+0 3 21 14
+0 6 1 0
+0 15 13 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub1 sub3
 0
 4
-0 3 21 14
-0 15 14 20
-0 6 1 0
 0 1 2 4
+0 3 21 14
+0 6 1 0
+0 15 14 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub1 sub4
 0
 4
-0 3 21 14
-0 15 15 20
-0 6 1 0
 0 1 2 5
+0 3 21 14
+0 6 1 0
+0 15 15 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub1 sub5
 0
 4
-0 3 21 14
-0 15 16 20
-0 6 1 0
 0 1 2 6
+0 3 21 14
+0 6 1 0
+0 15 16 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub1 sub6
 0
 4
-0 3 21 14
-0 15 17 20
-0 6 1 0
 0 1 2 7
+0 3 21 14
+0 6 1 0
+0 15 17 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub1 sub7
 0
 4
-0 3 21 14
-0 15 18 20
-0 6 1 0
 0 1 2 8
+0 3 21 14
+0 6 1 0
+0 15 18 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub2 g11
 0
 4
-0 3 21 15
-0 16 11 20
-0 7 1 0
 0 1 3 0
+0 3 21 15
+0 7 1 0
+0 16 11 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub2 g84
 0
 4
-0 3 21 15
-0 16 12 20
-0 7 1 0
 0 1 3 1
+0 3 21 15
+0 7 1 0
+0 16 12 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub2 sub1
 0
 4
-0 3 21 15
-0 16 13 20
-0 7 1 0
 0 1 3 2
+0 3 21 15
+0 7 1 0
+0 16 13 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub2 sub3
 0
 4
-0 3 21 15
-0 16 14 20
-0 7 1 0
 0 1 3 4
+0 3 21 15
+0 7 1 0
+0 16 14 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub2 sub4
 0
 4
-0 3 21 15
-0 16 15 20
-0 7 1 0
 0 1 3 5
+0 3 21 15
+0 7 1 0
+0 16 15 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub2 sub5
 0
 4
-0 3 21 15
-0 16 16 20
-0 7 1 0
 0 1 3 6
+0 3 21 15
+0 7 1 0
+0 16 16 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub2 sub6
 0
 4
-0 3 21 15
-0 16 17 20
-0 7 1 0
 0 1 3 7
+0 3 21 15
+0 7 1 0
+0 16 17 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub2 sub7
 0
 4
-0 3 21 15
-0 16 18 20
-0 7 1 0
 0 1 3 8
+0 3 21 15
+0 7 1 0
+0 16 18 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub3 g11
 0
 4
-0 3 21 16
-0 17 11 20
-0 8 1 0
 0 1 4 0
+0 3 21 16
+0 8 1 0
+0 17 11 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub3 g84
 0
 4
-0 3 21 16
-0 17 12 20
-0 8 1 0
 0 1 4 1
+0 3 21 16
+0 8 1 0
+0 17 12 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub3 sub1
 0
 4
-0 3 21 16
-0 17 13 20
-0 8 1 0
 0 1 4 2
+0 3 21 16
+0 8 1 0
+0 17 13 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub3 sub2
 0
 4
-0 3 21 16
-0 17 14 20
-0 8 1 0
 0 1 4 3
+0 3 21 16
+0 8 1 0
+0 17 14 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub3 sub4
 0
 4
-0 3 21 16
-0 17 15 20
-0 8 1 0
 0 1 4 5
+0 3 21 16
+0 8 1 0
+0 17 15 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub3 sub5
 0
 4
-0 3 21 16
-0 17 16 20
-0 8 1 0
 0 1 4 6
+0 3 21 16
+0 8 1 0
+0 17 16 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub3 sub6
 0
 4
-0 3 21 16
-0 17 17 20
-0 8 1 0
 0 1 4 7
+0 3 21 16
+0 8 1 0
+0 17 17 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub3 sub7
 0
 4
-0 3 21 16
-0 17 18 20
-0 8 1 0
 0 1 4 8
+0 3 21 16
+0 8 1 0
+0 17 18 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub4 g11
 0
 4
-0 3 21 17
-0 18 11 20
-0 9 1 0
 0 1 5 0
+0 3 21 17
+0 9 1 0
+0 18 11 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub4 g84
 0
 4
-0 3 21 17
-0 18 12 20
-0 9 1 0
 0 1 5 1
+0 3 21 17
+0 9 1 0
+0 18 12 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub4 sub1
 0
 4
-0 3 21 17
-0 18 13 20
-0 9 1 0
 0 1 5 2
+0 3 21 17
+0 9 1 0
+0 18 13 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub4 sub2
 0
 4
-0 3 21 17
-0 18 14 20
-0 9 1 0
 0 1 5 3
+0 3 21 17
+0 9 1 0
+0 18 14 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub4 sub3
 0
 4
-0 3 21 17
-0 18 15 20
-0 9 1 0
 0 1 5 4
+0 3 21 17
+0 9 1 0
+0 18 15 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub4 sub5
 0
 4
-0 3 21 17
-0 18 16 20
-0 9 1 0
 0 1 5 6
+0 3 21 17
+0 9 1 0
+0 18 16 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub4 sub6
 0
 4
-0 3 21 17
-0 18 17 20
-0 9 1 0
 0 1 5 7
+0 3 21 17
+0 9 1 0
+0 18 17 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub4 sub7
 0
 4
-0 3 21 17
-0 18 18 20
-0 9 1 0
 0 1 5 8
+0 3 21 17
+0 9 1 0
+0 18 18 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub5 g11
 0
 4
-0 3 21 18
-0 19 11 20
-0 10 1 0
 0 1 6 0
+0 3 21 18
+0 10 1 0
+0 19 11 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub5 g84
 0
 4
-0 3 21 18
-0 19 12 20
-0 10 1 0
 0 1 6 1
+0 3 21 18
+0 10 1 0
+0 19 12 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub5 sub1
 0
 4
-0 3 21 18
-0 19 13 20
-0 10 1 0
 0 1 6 2
+0 3 21 18
+0 10 1 0
+0 19 13 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub5 sub2
 0
 4
-0 3 21 18
-0 19 14 20
-0 10 1 0
 0 1 6 3
+0 3 21 18
+0 10 1 0
+0 19 14 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub5 sub3
 0
 4
-0 3 21 18
-0 19 15 20
-0 10 1 0
 0 1 6 4
+0 3 21 18
+0 10 1 0
+0 19 15 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub5 sub4
 0
 4
-0 3 21 18
-0 19 16 20
-0 10 1 0
 0 1 6 5
+0 3 21 18
+0 10 1 0
+0 19 16 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub5 sub6
 0
 4
-0 3 21 18
-0 19 17 20
-0 10 1 0
 0 1 6 7
+0 3 21 18
+0 10 1 0
+0 19 17 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub5 sub7
 0
 4
-0 3 21 18
-0 19 18 20
-0 10 1 0
 0 1 6 8
+0 3 21 18
+0 10 1 0
+0 19 18 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub6 g11
 0
 4
-0 3 21 19
-0 20 11 20
-0 11 1 0
 0 1 7 0
+0 3 21 19
+0 11 1 0
+0 20 11 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub6 g84
 0
 4
-0 3 21 19
-0 20 12 20
-0 11 1 0
 0 1 7 1
+0 3 21 19
+0 11 1 0
+0 20 12 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub6 sub1
 0
 4
-0 3 21 19
-0 20 13 20
-0 11 1 0
 0 1 7 2
+0 3 21 19
+0 11 1 0
+0 20 13 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub6 sub2
 0
 4
-0 3 21 19
-0 20 14 20
-0 11 1 0
 0 1 7 3
+0 3 21 19
+0 11 1 0
+0 20 14 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub6 sub3
 0
 4
-0 3 21 19
-0 20 15 20
-0 11 1 0
 0 1 7 4
+0 3 21 19
+0 11 1 0
+0 20 15 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub6 sub4
 0
 4
-0 3 21 19
-0 20 16 20
-0 11 1 0
 0 1 7 5
+0 3 21 19
+0 11 1 0
+0 20 16 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub6 sub5
 0
 4
-0 3 21 19
-0 20 17 20
-0 11 1 0
 0 1 7 6
+0 3 21 19
+0 11 1 0
+0 20 17 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub6 sub7
 0
 4
-0 3 21 19
-0 20 18 20
-0 11 1 0
 0 1 7 8
+0 3 21 19
+0 11 1 0
+0 20 18 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub7 g11
 0
 4
-0 3 21 20
-0 21 11 20
-0 12 1 0
 0 1 8 0
+0 3 21 20
+0 12 1 0
+0 21 11 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub7 g84
 0
 4
-0 3 21 20
-0 21 12 20
-0 12 1 0
 0 1 8 1
+0 3 21 20
+0 12 1 0
+0 21 12 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub7 sub1
 0
 4
-0 3 21 20
-0 21 13 20
-0 12 1 0
 0 1 8 2
+0 3 21 20
+0 12 1 0
+0 21 13 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub7 sub2
 0
 4
-0 3 21 20
-0 21 14 20
-0 12 1 0
 0 1 8 3
+0 3 21 20
+0 12 1 0
+0 21 14 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub7 sub3
 0
 4
-0 3 21 20
-0 21 15 20
-0 12 1 0
 0 1 8 4
+0 3 21 20
+0 12 1 0
+0 21 15 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub7 sub4
 0
 4
-0 3 21 20
-0 21 16 20
-0 12 1 0
 0 1 8 5
+0 3 21 20
+0 12 1 0
+0 21 16 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub7 sub5
 0
 4
-0 3 21 20
-0 21 17 20
-0 12 1 0
 0 1 8 6
+0 3 21 20
+0 12 1 0
+0 21 17 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1a sub7 sub6
 0
 4
-0 3 21 20
-0 21 18 20
-0 12 1 0
 0 1 8 7
+0 3 21 20
+0 12 1 0
+0 21 18 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b g11 g84
 0
 4
-0 3 21 12
-0 13 11 20
-0 4 0 1
 0 1 0 1
+0 3 21 12
+0 4 0 1
+0 13 11 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b g11 sub1
 0
 4
-0 3 21 12
-0 13 12 20
-0 4 0 1
 0 1 0 2
+0 3 21 12
+0 4 0 1
+0 13 12 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b g11 sub2
 0
 4
-0 3 21 12
-0 13 13 20
-0 4 0 1
 0 1 0 3
+0 3 21 12
+0 4 0 1
+0 13 13 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b g11 sub3
 0
 4
-0 3 21 12
-0 13 14 20
-0 4 0 1
 0 1 0 4
+0 3 21 12
+0 4 0 1
+0 13 14 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b g11 sub4
 0
 4
-0 3 21 12
-0 13 15 20
-0 4 0 1
 0 1 0 5
+0 3 21 12
+0 4 0 1
+0 13 15 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b g11 sub5
 0
 4
-0 3 21 12
-0 13 16 20
-0 4 0 1
 0 1 0 6
+0 3 21 12
+0 4 0 1
+0 13 16 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b g11 sub6
 0
 4
-0 3 21 12
-0 13 17 20
-0 4 0 1
 0 1 0 7
+0 3 21 12
+0 4 0 1
+0 13 17 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b g11 sub7
 0
 4
-0 3 21 12
-0 13 18 20
-0 4 0 1
 0 1 0 8
+0 3 21 12
+0 4 0 1
+0 13 18 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b g84 g11
 0
 4
-0 3 21 13
-0 14 11 20
-0 5 0 1
 0 1 1 0
+0 3 21 13
+0 5 0 1
+0 14 11 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b g84 sub1
 0
 4
-0 3 21 13
-0 14 12 20
-0 5 0 1
 0 1 1 2
+0 3 21 13
+0 5 0 1
+0 14 12 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b g84 sub2
 0
 4
-0 3 21 13
-0 14 13 20
-0 5 0 1
 0 1 1 3
+0 3 21 13
+0 5 0 1
+0 14 13 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b g84 sub3
 0
 4
-0 3 21 13
-0 14 14 20
-0 5 0 1
 0 1 1 4
+0 3 21 13
+0 5 0 1
+0 14 14 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b g84 sub4
 0
 4
-0 3 21 13
-0 14 15 20
-0 5 0 1
 0 1 1 5
+0 3 21 13
+0 5 0 1
+0 14 15 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b g84 sub5
 0
 4
-0 3 21 13
-0 14 16 20
-0 5 0 1
 0 1 1 6
+0 3 21 13
+0 5 0 1
+0 14 16 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b g84 sub6
 0
 4
-0 3 21 13
-0 14 17 20
-0 5 0 1
 0 1 1 7
+0 3 21 13
+0 5 0 1
+0 14 17 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b g84 sub7
 0
 4
-0 3 21 13
-0 14 18 20
-0 5 0 1
 0 1 1 8
+0 3 21 13
+0 5 0 1
+0 14 18 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub1 g11
 0
 4
-0 3 21 14
-0 15 11 20
-0 6 0 1
 0 1 2 0
+0 3 21 14
+0 6 0 1
+0 15 11 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub1 g84
 0
 4
-0 3 21 14
-0 15 12 20
-0 6 0 1
 0 1 2 1
+0 3 21 14
+0 6 0 1
+0 15 12 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub1 sub2
 0
 4
-0 3 21 14
-0 15 13 20
-0 6 0 1
 0 1 2 3
+0 3 21 14
+0 6 0 1
+0 15 13 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub1 sub3
 0
 4
-0 3 21 14
-0 15 14 20
-0 6 0 1
 0 1 2 4
+0 3 21 14
+0 6 0 1
+0 15 14 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub1 sub4
 0
 4
-0 3 21 14
-0 15 15 20
-0 6 0 1
 0 1 2 5
+0 3 21 14
+0 6 0 1
+0 15 15 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub1 sub5
 0
 4
-0 3 21 14
-0 15 16 20
-0 6 0 1
 0 1 2 6
+0 3 21 14
+0 6 0 1
+0 15 16 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub1 sub6
 0
 4
-0 3 21 14
-0 15 17 20
-0 6 0 1
 0 1 2 7
+0 3 21 14
+0 6 0 1
+0 15 17 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub1 sub7
 0
 4
-0 3 21 14
-0 15 18 20
-0 6 0 1
 0 1 2 8
+0 3 21 14
+0 6 0 1
+0 15 18 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub2 g11
 0
 4
-0 3 21 15
-0 16 11 20
-0 7 0 1
 0 1 3 0
+0 3 21 15
+0 7 0 1
+0 16 11 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub2 g84
 0
 4
-0 3 21 15
-0 16 12 20
-0 7 0 1
 0 1 3 1
+0 3 21 15
+0 7 0 1
+0 16 12 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub2 sub1
 0
 4
-0 3 21 15
-0 16 13 20
-0 7 0 1
 0 1 3 2
+0 3 21 15
+0 7 0 1
+0 16 13 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub2 sub3
 0
 4
-0 3 21 15
-0 16 14 20
-0 7 0 1
 0 1 3 4
+0 3 21 15
+0 7 0 1
+0 16 14 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub2 sub4
 0
 4
-0 3 21 15
-0 16 15 20
-0 7 0 1
 0 1 3 5
+0 3 21 15
+0 7 0 1
+0 16 15 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub2 sub5
 0
 4
-0 3 21 15
-0 16 16 20
-0 7 0 1
 0 1 3 6
+0 3 21 15
+0 7 0 1
+0 16 16 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub2 sub6
 0
 4
-0 3 21 15
-0 16 17 20
-0 7 0 1
 0 1 3 7
+0 3 21 15
+0 7 0 1
+0 16 17 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub2 sub7
 0
 4
-0 3 21 15
-0 16 18 20
-0 7 0 1
 0 1 3 8
+0 3 21 15
+0 7 0 1
+0 16 18 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub3 g11
 0
 4
-0 3 21 16
-0 17 11 20
-0 8 0 1
 0 1 4 0
+0 3 21 16
+0 8 0 1
+0 17 11 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub3 g84
 0
 4
-0 3 21 16
-0 17 12 20
-0 8 0 1
 0 1 4 1
+0 3 21 16
+0 8 0 1
+0 17 12 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub3 sub1
 0
 4
-0 3 21 16
-0 17 13 20
-0 8 0 1
 0 1 4 2
+0 3 21 16
+0 8 0 1
+0 17 13 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub3 sub2
 0
 4
-0 3 21 16
-0 17 14 20
-0 8 0 1
 0 1 4 3
+0 3 21 16
+0 8 0 1
+0 17 14 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub3 sub4
 0
 4
-0 3 21 16
-0 17 15 20
-0 8 0 1
 0 1 4 5
+0 3 21 16
+0 8 0 1
+0 17 15 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub3 sub5
 0
 4
-0 3 21 16
-0 17 16 20
-0 8 0 1
 0 1 4 6
+0 3 21 16
+0 8 0 1
+0 17 16 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub3 sub6
 0
 4
-0 3 21 16
-0 17 17 20
-0 8 0 1
 0 1 4 7
+0 3 21 16
+0 8 0 1
+0 17 17 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub3 sub7
 0
 4
-0 3 21 16
-0 17 18 20
-0 8 0 1
 0 1 4 8
+0 3 21 16
+0 8 0 1
+0 17 18 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub4 g11
 0
 4
-0 3 21 17
-0 18 11 20
-0 9 0 1
 0 1 5 0
+0 3 21 17
+0 9 0 1
+0 18 11 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub4 g84
 0
 4
-0 3 21 17
-0 18 12 20
-0 9 0 1
 0 1 5 1
+0 3 21 17
+0 9 0 1
+0 18 12 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub4 sub1
 0
 4
-0 3 21 17
-0 18 13 20
-0 9 0 1
 0 1 5 2
+0 3 21 17
+0 9 0 1
+0 18 13 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub4 sub2
 0
 4
-0 3 21 17
-0 18 14 20
-0 9 0 1
 0 1 5 3
+0 3 21 17
+0 9 0 1
+0 18 14 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub4 sub3
 0
 4
-0 3 21 17
-0 18 15 20
-0 9 0 1
 0 1 5 4
+0 3 21 17
+0 9 0 1
+0 18 15 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub4 sub5
 0
 4
-0 3 21 17
-0 18 16 20
-0 9 0 1
 0 1 5 6
+0 3 21 17
+0 9 0 1
+0 18 16 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub4 sub6
 0
 4
-0 3 21 17
-0 18 17 20
-0 9 0 1
 0 1 5 7
+0 3 21 17
+0 9 0 1
+0 18 17 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub4 sub7
 0
 4
-0 3 21 17
-0 18 18 20
-0 9 0 1
 0 1 5 8
+0 3 21 17
+0 9 0 1
+0 18 18 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub5 g11
 0
 4
-0 3 21 18
-0 19 11 20
-0 10 0 1
 0 1 6 0
+0 3 21 18
+0 10 0 1
+0 19 11 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub5 g84
 0
 4
-0 3 21 18
-0 19 12 20
-0 10 0 1
 0 1 6 1
+0 3 21 18
+0 10 0 1
+0 19 12 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub5 sub1
 0
 4
-0 3 21 18
-0 19 13 20
-0 10 0 1
 0 1 6 2
+0 3 21 18
+0 10 0 1
+0 19 13 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub5 sub2
 0
 4
-0 3 21 18
-0 19 14 20
-0 10 0 1
 0 1 6 3
+0 3 21 18
+0 10 0 1
+0 19 14 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub5 sub3
 0
 4
-0 3 21 18
-0 19 15 20
-0 10 0 1
 0 1 6 4
+0 3 21 18
+0 10 0 1
+0 19 15 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub5 sub4
 0
 4
-0 3 21 18
-0 19 16 20
-0 10 0 1
 0 1 6 5
+0 3 21 18
+0 10 0 1
+0 19 16 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub5 sub6
 0
 4
-0 3 21 18
-0 19 17 20
-0 10 0 1
 0 1 6 7
+0 3 21 18
+0 10 0 1
+0 19 17 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub5 sub7
 0
 4
-0 3 21 18
-0 19 18 20
-0 10 0 1
 0 1 6 8
+0 3 21 18
+0 10 0 1
+0 19 18 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub6 g11
 0
 4
-0 3 21 19
-0 20 11 20
-0 11 0 1
 0 1 7 0
+0 3 21 19
+0 11 0 1
+0 20 11 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub6 g84
 0
 4
-0 3 21 19
-0 20 12 20
-0 11 0 1
 0 1 7 1
+0 3 21 19
+0 11 0 1
+0 20 12 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub6 sub1
 0
 4
-0 3 21 19
-0 20 13 20
-0 11 0 1
 0 1 7 2
+0 3 21 19
+0 11 0 1
+0 20 13 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub6 sub2
 0
 4
-0 3 21 19
-0 20 14 20
-0 11 0 1
 0 1 7 3
+0 3 21 19
+0 11 0 1
+0 20 14 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub6 sub3
 0
 4
-0 3 21 19
-0 20 15 20
-0 11 0 1
 0 1 7 4
+0 3 21 19
+0 11 0 1
+0 20 15 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub6 sub4
 0
 4
-0 3 21 19
-0 20 16 20
-0 11 0 1
 0 1 7 5
+0 3 21 19
+0 11 0 1
+0 20 16 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub6 sub5
 0
 4
-0 3 21 19
-0 20 17 20
-0 11 0 1
 0 1 7 6
+0 3 21 19
+0 11 0 1
+0 20 17 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub6 sub7
 0
 4
-0 3 21 19
-0 20 18 20
-0 11 0 1
 0 1 7 8
+0 3 21 19
+0 11 0 1
+0 20 18 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub7 g11
 0
 4
-0 3 21 20
-0 21 11 20
-0 12 0 1
 0 1 8 0
+0 3 21 20
+0 12 0 1
+0 21 11 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub7 g84
 0
 4
-0 3 21 20
-0 21 12 20
-0 12 0 1
 0 1 8 1
+0 3 21 20
+0 12 0 1
+0 21 12 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub7 sub1
 0
 4
-0 3 21 20
-0 21 13 20
-0 12 0 1
 0 1 8 2
+0 3 21 20
+0 12 0 1
+0 21 13 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub7 sub2
 0
 4
-0 3 21 20
-0 21 14 20
-0 12 0 1
 0 1 8 3
+0 3 21 20
+0 12 0 1
+0 21 14 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub7 sub3
 0
 4
-0 3 21 20
-0 21 15 20
-0 12 0 1
 0 1 8 4
+0 3 21 20
+0 12 0 1
+0 21 15 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub7 sub4
 0
 4
-0 3 21 20
-0 21 16 20
-0 12 0 1
 0 1 8 5
+0 3 21 20
+0 12 0 1
+0 21 16 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub7 sub5
 0
 4
-0 3 21 20
-0 21 17 20
-0 12 0 1
 0 1 8 6
+0 3 21 20
+0 12 0 1
+0 21 17 20
 0
 end_operator
 begin_operator
 continue-inverse-splice-1b sub7 sub6
 0
 4
-0 3 21 20
-0 21 18 20
-0 12 0 1
 0 1 8 7
+0 3 21 20
+0 12 0 1
+0 21 18 20
 0
 end_operator
 begin_operator
@@ -6037,81 +6037,81 @@ begin_operator
 continue-inverse-splice-2 g11 g84
 0
 3
+0 2 2 1
 0 3 12 21
 0 13 -1 2
-0 2 2 1
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 g11 sub1
 0
 3
+0 2 3 1
 0 3 12 21
 0 13 -1 3
-0 2 3 1
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 g11 sub2
 0
 3
+0 2 4 1
 0 3 12 21
 0 13 -1 4
-0 2 4 1
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 g11 sub3
 0
 3
+0 2 5 1
 0 3 12 21
 0 13 -1 5
-0 2 5 1
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 g11 sub4
 0
 3
+0 2 6 1
 0 3 12 21
 0 13 -1 6
-0 2 6 1
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 g11 sub5
 0
 3
+0 2 7 1
 0 3 12 21
 0 13 -1 7
-0 2 7 1
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 g11 sub6
 0
 3
+0 2 8 1
 0 3 12 21
 0 13 -1 8
-0 2 8 1
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 g11 sub7
 0
 3
+0 2 9 1
 0 3 12 21
 0 13 -1 9
-0 2 9 1
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 g84 g11
 0
 3
+0 2 1 2
 0 3 13 21
 0 14 -1 1
-0 2 1 2
 0
 end_operator
 begin_operator
@@ -6127,81 +6127,81 @@ begin_operator
 continue-inverse-splice-2 g84 sub1
 0
 3
+0 2 3 2
 0 3 13 21
 0 14 -1 3
-0 2 3 2
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 g84 sub2
 0
 3
+0 2 4 2
 0 3 13 21
 0 14 -1 4
-0 2 4 2
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 g84 sub3
 0
 3
+0 2 5 2
 0 3 13 21
 0 14 -1 5
-0 2 5 2
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 g84 sub4
 0
 3
+0 2 6 2
 0 3 13 21
 0 14 -1 6
-0 2 6 2
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 g84 sub5
 0
 3
+0 2 7 2
 0 3 13 21
 0 14 -1 7
-0 2 7 2
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 g84 sub6
 0
 3
+0 2 8 2
 0 3 13 21
 0 14 -1 8
-0 2 8 2
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 g84 sub7
 0
 3
+0 2 9 2
 0 3 13 21
 0 14 -1 9
-0 2 9 2
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub1 g11
 0
 3
+0 2 1 3
 0 3 14 21
 0 15 -1 1
-0 2 1 3
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub1 g84
 0
 3
+0 2 2 3
 0 3 14 21
 0 15 -1 2
-0 2 2 3
 0
 end_operator
 begin_operator
@@ -6217,81 +6217,81 @@ begin_operator
 continue-inverse-splice-2 sub1 sub2
 0
 3
+0 2 4 3
 0 3 14 21
 0 15 -1 4
-0 2 4 3
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub1 sub3
 0
 3
+0 2 5 3
 0 3 14 21
 0 15 -1 5
-0 2 5 3
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub1 sub4
 0
 3
+0 2 6 3
 0 3 14 21
 0 15 -1 6
-0 2 6 3
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub1 sub5
 0
 3
+0 2 7 3
 0 3 14 21
 0 15 -1 7
-0 2 7 3
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub1 sub6
 0
 3
+0 2 8 3
 0 3 14 21
 0 15 -1 8
-0 2 8 3
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub1 sub7
 0
 3
+0 2 9 3
 0 3 14 21
 0 15 -1 9
-0 2 9 3
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub2 g11
 0
 3
+0 2 1 4
 0 3 15 21
 0 16 -1 1
-0 2 1 4
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub2 g84
 0
 3
+0 2 2 4
 0 3 15 21
 0 16 -1 2
-0 2 2 4
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub2 sub1
 0
 3
+0 2 3 4
 0 3 15 21
 0 16 -1 3
-0 2 3 4
 0
 end_operator
 begin_operator
@@ -6307,81 +6307,81 @@ begin_operator
 continue-inverse-splice-2 sub2 sub3
 0
 3
+0 2 5 4
 0 3 15 21
 0 16 -1 5
-0 2 5 4
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub2 sub4
 0
 3
+0 2 6 4
 0 3 15 21
 0 16 -1 6
-0 2 6 4
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub2 sub5
 0
 3
+0 2 7 4
 0 3 15 21
 0 16 -1 7
-0 2 7 4
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub2 sub6
 0
 3
+0 2 8 4
 0 3 15 21
 0 16 -1 8
-0 2 8 4
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub2 sub7
 0
 3
+0 2 9 4
 0 3 15 21
 0 16 -1 9
-0 2 9 4
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub3 g11
 0
 3
+0 2 1 5
 0 3 16 21
 0 17 -1 1
-0 2 1 5
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub3 g84
 0
 3
+0 2 2 5
 0 3 16 21
 0 17 -1 2
-0 2 2 5
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub3 sub1
 0
 3
+0 2 3 5
 0 3 16 21
 0 17 -1 3
-0 2 3 5
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub3 sub2
 0
 3
+0 2 4 5
 0 3 16 21
 0 17 -1 4
-0 2 4 5
 0
 end_operator
 begin_operator
@@ -6397,81 +6397,81 @@ begin_operator
 continue-inverse-splice-2 sub3 sub4
 0
 3
+0 2 6 5
 0 3 16 21
 0 17 -1 6
-0 2 6 5
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub3 sub5
 0
 3
+0 2 7 5
 0 3 16 21
 0 17 -1 7
-0 2 7 5
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub3 sub6
 0
 3
+0 2 8 5
 0 3 16 21
 0 17 -1 8
-0 2 8 5
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub3 sub7
 0
 3
+0 2 9 5
 0 3 16 21
 0 17 -1 9
-0 2 9 5
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub4 g11
 0
 3
+0 2 1 6
 0 3 17 21
 0 18 -1 1
-0 2 1 6
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub4 g84
 0
 3
+0 2 2 6
 0 3 17 21
 0 18 -1 2
-0 2 2 6
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub4 sub1
 0
 3
+0 2 3 6
 0 3 17 21
 0 18 -1 3
-0 2 3 6
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub4 sub2
 0
 3
+0 2 4 6
 0 3 17 21
 0 18 -1 4
-0 2 4 6
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub4 sub3
 0
 3
+0 2 5 6
 0 3 17 21
 0 18 -1 5
-0 2 5 6
 0
 end_operator
 begin_operator
@@ -6487,81 +6487,81 @@ begin_operator
 continue-inverse-splice-2 sub4 sub5
 0
 3
+0 2 7 6
 0 3 17 21
 0 18 -1 7
-0 2 7 6
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub4 sub6
 0
 3
+0 2 8 6
 0 3 17 21
 0 18 -1 8
-0 2 8 6
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub4 sub7
 0
 3
+0 2 9 6
 0 3 17 21
 0 18 -1 9
-0 2 9 6
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub5 g11
 0
 3
+0 2 1 7
 0 3 18 21
 0 19 -1 1
-0 2 1 7
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub5 g84
 0
 3
+0 2 2 7
 0 3 18 21
 0 19 -1 2
-0 2 2 7
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub5 sub1
 0
 3
+0 2 3 7
 0 3 18 21
 0 19 -1 3
-0 2 3 7
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub5 sub2
 0
 3
+0 2 4 7
 0 3 18 21
 0 19 -1 4
-0 2 4 7
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub5 sub3
 0
 3
+0 2 5 7
 0 3 18 21
 0 19 -1 5
-0 2 5 7
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub5 sub4
 0
 3
+0 2 6 7
 0 3 18 21
 0 19 -1 6
-0 2 6 7
 0
 end_operator
 begin_operator
@@ -6577,81 +6577,81 @@ begin_operator
 continue-inverse-splice-2 sub5 sub6
 0
 3
+0 2 8 7
 0 3 18 21
 0 19 -1 8
-0 2 8 7
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub5 sub7
 0
 3
+0 2 9 7
 0 3 18 21
 0 19 -1 9
-0 2 9 7
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub6 g11
 0
 3
+0 2 1 8
 0 3 19 21
 0 20 -1 1
-0 2 1 8
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub6 g84
 0
 3
+0 2 2 8
 0 3 19 21
 0 20 -1 2
-0 2 2 8
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub6 sub1
 0
 3
+0 2 3 8
 0 3 19 21
 0 20 -1 3
-0 2 3 8
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub6 sub2
 0
 3
+0 2 4 8
 0 3 19 21
 0 20 -1 4
-0 2 4 8
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub6 sub3
 0
 3
+0 2 5 8
 0 3 19 21
 0 20 -1 5
-0 2 5 8
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub6 sub4
 0
 3
+0 2 6 8
 0 3 19 21
 0 20 -1 6
-0 2 6 8
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub6 sub5
 0
 3
+0 2 7 8
 0 3 19 21
 0 20 -1 7
-0 2 7 8
 0
 end_operator
 begin_operator
@@ -6667,81 +6667,81 @@ begin_operator
 continue-inverse-splice-2 sub6 sub7
 0
 3
+0 2 9 8
 0 3 19 21
 0 20 -1 9
-0 2 9 8
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub7 g11
 0
 3
+0 2 1 9
 0 3 20 21
 0 21 -1 1
-0 2 1 9
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub7 g84
 0
 3
+0 2 2 9
 0 3 20 21
 0 21 -1 2
-0 2 2 9
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub7 sub1
 0
 3
+0 2 3 9
 0 3 20 21
 0 21 -1 3
-0 2 3 9
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub7 sub2
 0
 3
+0 2 4 9
 0 3 20 21
 0 21 -1 4
-0 2 4 9
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub7 sub3
 0
 3
+0 2 5 9
 0 3 20 21
 0 21 -1 5
-0 2 5 9
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub7 sub4
 0
 3
+0 2 6 9
 0 3 20 21
 0 21 -1 6
-0 2 6 9
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub7 sub5
 0
 3
+0 2 7 9
 0 3 20 21
 0 21 -1 7
-0 2 7 9
 0
 end_operator
 begin_operator
 continue-inverse-splice-2 sub7 sub6
 0
 3
+0 2 8 9
 0 3 20 21
 0 21 -1 8
-0 2 8 9
 0
 end_operator
 begin_operator
@@ -7414,81 +7414,81 @@ begin_operator
 continue-splice-2 g11 g84
 0
 3
+0 2 2 1
 0 3 23 32
 0 13 -1 2
-0 2 2 1
 0
 end_operator
 begin_operator
 continue-splice-2 g11 sub1
 0
 3
+0 2 3 1
 0 3 23 32
 0 13 -1 3
-0 2 3 1
 0
 end_operator
 begin_operator
 continue-splice-2 g11 sub2
 0
 3
+0 2 4 1
 0 3 23 32
 0 13 -1 4
-0 2 4 1
 0
 end_operator
 begin_operator
 continue-splice-2 g11 sub3
 0
 3
+0 2 5 1
 0 3 23 32
 0 13 -1 5
-0 2 5 1
 0
 end_operator
 begin_operator
 continue-splice-2 g11 sub4
 0
 3
+0 2 6 1
 0 3 23 32
 0 13 -1 6
-0 2 6 1
 0
 end_operator
 begin_operator
 continue-splice-2 g11 sub5
 0
 3
+0 2 7 1
 0 3 23 32
 0 13 -1 7
-0 2 7 1
 0
 end_operator
 begin_operator
 continue-splice-2 g11 sub6
 0
 3
+0 2 8 1
 0 3 23 32
 0 13 -1 8
-0 2 8 1
 0
 end_operator
 begin_operator
 continue-splice-2 g11 sub7
 0
 3
+0 2 9 1
 0 3 23 32
 0 13 -1 9
-0 2 9 1
 0
 end_operator
 begin_operator
 continue-splice-2 g84 g11
 0
 3
+0 2 1 2
 0 3 24 32
 0 14 -1 1
-0 2 1 2
 0
 end_operator
 begin_operator
@@ -7504,81 +7504,81 @@ begin_operator
 continue-splice-2 g84 sub1
 0
 3
+0 2 3 2
 0 3 24 32
 0 14 -1 3
-0 2 3 2
 0
 end_operator
 begin_operator
 continue-splice-2 g84 sub2
 0
 3
+0 2 4 2
 0 3 24 32
 0 14 -1 4
-0 2 4 2
 0
 end_operator
 begin_operator
 continue-splice-2 g84 sub3
 0
 3
+0 2 5 2
 0 3 24 32
 0 14 -1 5
-0 2 5 2
 0
 end_operator
 begin_operator
 continue-splice-2 g84 sub4
 0
 3
+0 2 6 2
 0 3 24 32
 0 14 -1 6
-0 2 6 2
 0
 end_operator
 begin_operator
 continue-splice-2 g84 sub5
 0
 3
+0 2 7 2
 0 3 24 32
 0 14 -1 7
-0 2 7 2
 0
 end_operator
 begin_operator
 continue-splice-2 g84 sub6
 0
 3
+0 2 8 2
 0 3 24 32
 0 14 -1 8
-0 2 8 2
 0
 end_operator
 begin_operator
 continue-splice-2 g84 sub7
 0
 3
+0 2 9 2
 0 3 24 32
 0 14 -1 9
-0 2 9 2
 0
 end_operator
 begin_operator
 continue-splice-2 sub1 g11
 0
 3
+0 2 1 3
 0 3 25 32
 0 15 -1 1
-0 2 1 3
 0
 end_operator
 begin_operator
 continue-splice-2 sub1 g84
 0
 3
+0 2 2 3
 0 3 25 32
 0 15 -1 2
-0 2 2 3
 0
 end_operator
 begin_operator
@@ -7594,81 +7594,81 @@ begin_operator
 continue-splice-2 sub1 sub2
 0
 3
+0 2 4 3
 0 3 25 32
 0 15 -1 4
-0 2 4 3
 0
 end_operator
 begin_operator
 continue-splice-2 sub1 sub3
 0
 3
+0 2 5 3
 0 3 25 32
 0 15 -1 5
-0 2 5 3
 0
 end_operator
 begin_operator
 continue-splice-2 sub1 sub4
 0
 3
+0 2 6 3
 0 3 25 32
 0 15 -1 6
-0 2 6 3
 0
 end_operator
 begin_operator
 continue-splice-2 sub1 sub5
 0
 3
+0 2 7 3
 0 3 25 32
 0 15 -1 7
-0 2 7 3
 0
 end_operator
 begin_operator
 continue-splice-2 sub1 sub6
 0
 3
+0 2 8 3
 0 3 25 32
 0 15 -1 8
-0 2 8 3
 0
 end_operator
 begin_operator
 continue-splice-2 sub1 sub7
 0
 3
+0 2 9 3
 0 3 25 32
 0 15 -1 9
-0 2 9 3
 0
 end_operator
 begin_operator
 continue-splice-2 sub2 g11
 0
 3
+0 2 1 4
 0 3 26 32
 0 16 -1 1
-0 2 1 4
 0
 end_operator
 begin_operator
 continue-splice-2 sub2 g84
 0
 3
+0 2 2 4
 0 3 26 32
 0 16 -1 2
-0 2 2 4
 0
 end_operator
 begin_operator
 continue-splice-2 sub2 sub1
 0
 3
+0 2 3 4
 0 3 26 32
 0 16 -1 3
-0 2 3 4
 0
 end_operator
 begin_operator
@@ -7684,81 +7684,81 @@ begin_operator
 continue-splice-2 sub2 sub3
 0
 3
+0 2 5 4
 0 3 26 32
 0 16 -1 5
-0 2 5 4
 0
 end_operator
 begin_operator
 continue-splice-2 sub2 sub4
 0
 3
+0 2 6 4
 0 3 26 32
 0 16 -1 6
-0 2 6 4
 0
 end_operator
 begin_operator
 continue-splice-2 sub2 sub5
 0
 3
+0 2 7 4
 0 3 26 32
 0 16 -1 7
-0 2 7 4
 0
 end_operator
 begin_operator
 continue-splice-2 sub2 sub6
 0
 3
+0 2 8 4
 0 3 26 32
 0 16 -1 8
-0 2 8 4
 0
 end_operator
 begin_operator
 continue-splice-2 sub2 sub7
 0
 3
+0 2 9 4
 0 3 26 32
 0 16 -1 9
-0 2 9 4
 0
 end_operator
 begin_operator
 continue-splice-2 sub3 g11
 0
 3
+0 2 1 5
 0 3 27 32
 0 17 -1 1
-0 2 1 5
 0
 end_operator
 begin_operator
 continue-splice-2 sub3 g84
 0
 3
+0 2 2 5
 0 3 27 32
 0 17 -1 2
-0 2 2 5
 0
 end_operator
 begin_operator
 continue-splice-2 sub3 sub1
 0
 3
+0 2 3 5
 0 3 27 32
 0 17 -1 3
-0 2 3 5
 0
 end_operator
 begin_operator
 continue-splice-2 sub3 sub2
 0
 3
+0 2 4 5
 0 3 27 32
 0 17 -1 4
-0 2 4 5
 0
 end_operator
 begin_operator
@@ -7774,81 +7774,81 @@ begin_operator
 continue-splice-2 sub3 sub4
 0
 3
+0 2 6 5
 0 3 27 32
 0 17 -1 6
-0 2 6 5
 0
 end_operator
 begin_operator
 continue-splice-2 sub3 sub5
 0
 3
+0 2 7 5
 0 3 27 32
 0 17 -1 7
-0 2 7 5
 0
 end_operator
 begin_operator
 continue-splice-2 sub3 sub6
 0
 3
+0 2 8 5
 0 3 27 32
 0 17 -1 8
-0 2 8 5
 0
 end_operator
 begin_operator
 continue-splice-2 sub3 sub7
 0
 3
+0 2 9 5
 0 3 27 32
 0 17 -1 9
-0 2 9 5
 0
 end_operator
 begin_operator
 continue-splice-2 sub4 g11
 0
 3
+0 2 1 6
 0 3 28 32
 0 18 -1 1
-0 2 1 6
 0
 end_operator
 begin_operator
 continue-splice-2 sub4 g84
 0
 3
+0 2 2 6
 0 3 28 32
 0 18 -1 2
-0 2 2 6
 0
 end_operator
 begin_operator
 continue-splice-2 sub4 sub1
 0
 3
+0 2 3 6
 0 3 28 32
 0 18 -1 3
-0 2 3 6
 0
 end_operator
 begin_operator
 continue-splice-2 sub4 sub2
 0
 3
+0 2 4 6
 0 3 28 32
 0 18 -1 4
-0 2 4 6
 0
 end_operator
 begin_operator
 continue-splice-2 sub4 sub3
 0
 3
+0 2 5 6
 0 3 28 32
 0 18 -1 5
-0 2 5 6
 0
 end_operator
 begin_operator
@@ -7864,81 +7864,81 @@ begin_operator
 continue-splice-2 sub4 sub5
 0
 3
+0 2 7 6
 0 3 28 32
 0 18 -1 7
-0 2 7 6
 0
 end_operator
 begin_operator
 continue-splice-2 sub4 sub6
 0
 3
+0 2 8 6
 0 3 28 32
 0 18 -1 8
-0 2 8 6
 0
 end_operator
 begin_operator
 continue-splice-2 sub4 sub7
 0
 3
+0 2 9 6
 0 3 28 32
 0 18 -1 9
-0 2 9 6
 0
 end_operator
 begin_operator
 continue-splice-2 sub5 g11
 0
 3
+0 2 1 7
 0 3 29 32
 0 19 -1 1
-0 2 1 7
 0
 end_operator
 begin_operator
 continue-splice-2 sub5 g84
 0
 3
+0 2 2 7
 0 3 29 32
 0 19 -1 2
-0 2 2 7
 0
 end_operator
 begin_operator
 continue-splice-2 sub5 sub1
 0
 3
+0 2 3 7
 0 3 29 32
 0 19 -1 3
-0 2 3 7
 0
 end_operator
 begin_operator
 continue-splice-2 sub5 sub2
 0
 3
+0 2 4 7
 0 3 29 32
 0 19 -1 4
-0 2 4 7
 0
 end_operator
 begin_operator
 continue-splice-2 sub5 sub3
 0
 3
+0 2 5 7
 0 3 29 32
 0 19 -1 5
-0 2 5 7
 0
 end_operator
 begin_operator
 continue-splice-2 sub5 sub4
 0
 3
+0 2 6 7
 0 3 29 32
 0 19 -1 6
-0 2 6 7
 0
 end_operator
 begin_operator
@@ -7954,81 +7954,81 @@ begin_operator
 continue-splice-2 sub5 sub6
 0
 3
+0 2 8 7
 0 3 29 32
 0 19 -1 8
-0 2 8 7
 0
 end_operator
 begin_operator
 continue-splice-2 sub5 sub7
 0
 3
+0 2 9 7
 0 3 29 32
 0 19 -1 9
-0 2 9 7
 0
 end_operator
 begin_operator
 continue-splice-2 sub6 g11
 0
 3
+0 2 1 8
 0 3 30 32
 0 20 -1 1
-0 2 1 8
 0
 end_operator
 begin_operator
 continue-splice-2 sub6 g84
 0
 3
+0 2 2 8
 0 3 30 32
 0 20 -1 2
-0 2 2 8
 0
 end_operator
 begin_operator
 continue-splice-2 sub6 sub1
 0
 3
+0 2 3 8
 0 3 30 32
 0 20 -1 3
-0 2 3 8
 0
 end_operator
 begin_operator
 continue-splice-2 sub6 sub2
 0
 3
+0 2 4 8
 0 3 30 32
 0 20 -1 4
-0 2 4 8
 0
 end_operator
 begin_operator
 continue-splice-2 sub6 sub3
 0
 3
+0 2 5 8
 0 3 30 32
 0 20 -1 5
-0 2 5 8
 0
 end_operator
 begin_operator
 continue-splice-2 sub6 sub4
 0
 3
+0 2 6 8
 0 3 30 32
 0 20 -1 6
-0 2 6 8
 0
 end_operator
 begin_operator
 continue-splice-2 sub6 sub5
 0
 3
+0 2 7 8
 0 3 30 32
 0 20 -1 7
-0 2 7 8
 0
 end_operator
 begin_operator
@@ -8044,81 +8044,81 @@ begin_operator
 continue-splice-2 sub6 sub7
 0
 3
+0 2 9 8
 0 3 30 32
 0 20 -1 9
-0 2 9 8
 0
 end_operator
 begin_operator
 continue-splice-2 sub7 g11
 0
 3
+0 2 1 9
 0 3 31 32
 0 21 -1 1
-0 2 1 9
 0
 end_operator
 begin_operator
 continue-splice-2 sub7 g84
 0
 3
+0 2 2 9
 0 3 31 32
 0 21 -1 2
-0 2 2 9
 0
 end_operator
 begin_operator
 continue-splice-2 sub7 sub1
 0
 3
+0 2 3 9
 0 3 31 32
 0 21 -1 3
-0 2 3 9
 0
 end_operator
 begin_operator
 continue-splice-2 sub7 sub2
 0
 3
+0 2 4 9
 0 3 31 32
 0 21 -1 4
-0 2 4 9
 0
 end_operator
 begin_operator
 continue-splice-2 sub7 sub3
 0
 3
+0 2 5 9
 0 3 31 32
 0 21 -1 5
-0 2 5 9
 0
 end_operator
 begin_operator
 continue-splice-2 sub7 sub4
 0
 3
+0 2 6 9
 0 3 31 32
 0 21 -1 6
-0 2 6 9
 0
 end_operator
 begin_operator
 continue-splice-2 sub7 sub5
 0
 3
+0 2 7 9
 0 3 31 32
 0 21 -1 7
-0 2 7 9
 0
 end_operator
 begin_operator
 continue-splice-2 sub7 sub6
 0
 3
+0 2 8 9
 0 3 31 32
 0 21 -1 8
-0 2 8 9
 0
 end_operator
 begin_operator
@@ -8133,8 +8133,8 @@ end_operator
 begin_operator
 end-cut-1 g11 g84
 2
-2 0
 1 0
+2 0
 1
 0 14 1 0
 0
@@ -8142,8 +8142,8 @@ end_operator
 begin_operator
 end-cut-1 g11 sub1
 2
-2 0
 1 0
+2 0
 1
 0 15 1 0
 0
@@ -8151,8 +8151,8 @@ end_operator
 begin_operator
 end-cut-1 g11 sub2
 2
-2 0
 1 0
+2 0
 1
 0 16 1 0
 0
@@ -8160,8 +8160,8 @@ end_operator
 begin_operator
 end-cut-1 g11 sub3
 2
-2 0
 1 0
+2 0
 1
 0 17 1 0
 0
@@ -8169,8 +8169,8 @@ end_operator
 begin_operator
 end-cut-1 g11 sub4
 2
-2 0
 1 0
+2 0
 1
 0 18 1 0
 0
@@ -8178,8 +8178,8 @@ end_operator
 begin_operator
 end-cut-1 g11 sub5
 2
-2 0
 1 0
+2 0
 1
 0 19 1 0
 0
@@ -8187,8 +8187,8 @@ end_operator
 begin_operator
 end-cut-1 g11 sub6
 2
-2 0
 1 0
+2 0
 1
 0 20 1 0
 0
@@ -8196,8 +8196,8 @@ end_operator
 begin_operator
 end-cut-1 g11 sub7
 2
-2 0
 1 0
+2 0
 1
 0 21 1 0
 0
@@ -8205,8 +8205,8 @@ end_operator
 begin_operator
 end-cut-1 g84 g11
 2
-2 0
 1 1
+2 0
 1
 0 13 2 0
 0
@@ -8214,8 +8214,8 @@ end_operator
 begin_operator
 end-cut-1 g84 sub1
 2
-2 0
 1 1
+2 0
 1
 0 15 2 0
 0
@@ -8223,8 +8223,8 @@ end_operator
 begin_operator
 end-cut-1 g84 sub2
 2
-2 0
 1 1
+2 0
 1
 0 16 2 0
 0
@@ -8232,8 +8232,8 @@ end_operator
 begin_operator
 end-cut-1 g84 sub3
 2
-2 0
 1 1
+2 0
 1
 0 17 2 0
 0
@@ -8241,8 +8241,8 @@ end_operator
 begin_operator
 end-cut-1 g84 sub4
 2
-2 0
 1 1
+2 0
 1
 0 18 2 0
 0
@@ -8250,8 +8250,8 @@ end_operator
 begin_operator
 end-cut-1 g84 sub5
 2
-2 0
 1 1
+2 0
 1
 0 19 2 0
 0
@@ -8259,8 +8259,8 @@ end_operator
 begin_operator
 end-cut-1 g84 sub6
 2
-2 0
 1 1
+2 0
 1
 0 20 2 0
 0
@@ -8268,8 +8268,8 @@ end_operator
 begin_operator
 end-cut-1 g84 sub7
 2
-2 0
 1 1
+2 0
 1
 0 21 2 0
 0
@@ -8277,8 +8277,8 @@ end_operator
 begin_operator
 end-cut-1 sub1 g11
 2
-2 0
 1 2
+2 0
 1
 0 13 3 0
 0
@@ -8286,8 +8286,8 @@ end_operator
 begin_operator
 end-cut-1 sub1 g84
 2
-2 0
 1 2
+2 0
 1
 0 14 3 0
 0
@@ -8295,8 +8295,8 @@ end_operator
 begin_operator
 end-cut-1 sub1 sub2
 2
-2 0
 1 2
+2 0
 1
 0 16 3 0
 0
@@ -8304,8 +8304,8 @@ end_operator
 begin_operator
 end-cut-1 sub1 sub3
 2
-2 0
 1 2
+2 0
 1
 0 17 3 0
 0
@@ -8313,8 +8313,8 @@ end_operator
 begin_operator
 end-cut-1 sub1 sub4
 2
-2 0
 1 2
+2 0
 1
 0 18 3 0
 0
@@ -8322,8 +8322,8 @@ end_operator
 begin_operator
 end-cut-1 sub1 sub5
 2
-2 0
 1 2
+2 0
 1
 0 19 3 0
 0
@@ -8331,8 +8331,8 @@ end_operator
 begin_operator
 end-cut-1 sub1 sub6
 2
-2 0
 1 2
+2 0
 1
 0 20 3 0
 0
@@ -8340,8 +8340,8 @@ end_operator
 begin_operator
 end-cut-1 sub1 sub7
 2
-2 0
 1 2
+2 0
 1
 0 21 3 0
 0
@@ -8349,8 +8349,8 @@ end_operator
 begin_operator
 end-cut-1 sub2 g11
 2
-2 0
 1 3
+2 0
 1
 0 13 4 0
 0
@@ -8358,8 +8358,8 @@ end_operator
 begin_operator
 end-cut-1 sub2 g84
 2
-2 0
 1 3
+2 0
 1
 0 14 4 0
 0
@@ -8367,8 +8367,8 @@ end_operator
 begin_operator
 end-cut-1 sub2 sub1
 2
-2 0
 1 3
+2 0
 1
 0 15 4 0
 0
@@ -8376,8 +8376,8 @@ end_operator
 begin_operator
 end-cut-1 sub2 sub3
 2
-2 0
 1 3
+2 0
 1
 0 17 4 0
 0
@@ -8385,8 +8385,8 @@ end_operator
 begin_operator
 end-cut-1 sub2 sub4
 2
-2 0
 1 3
+2 0
 1
 0 18 4 0
 0
@@ -8394,8 +8394,8 @@ end_operator
 begin_operator
 end-cut-1 sub2 sub5
 2
-2 0
 1 3
+2 0
 1
 0 19 4 0
 0
@@ -8403,8 +8403,8 @@ end_operator
 begin_operator
 end-cut-1 sub2 sub6
 2
-2 0
 1 3
+2 0
 1
 0 20 4 0
 0
@@ -8412,8 +8412,8 @@ end_operator
 begin_operator
 end-cut-1 sub2 sub7
 2
-2 0
 1 3
+2 0
 1
 0 21 4 0
 0
@@ -8421,8 +8421,8 @@ end_operator
 begin_operator
 end-cut-1 sub3 g11
 2
-2 0
 1 4
+2 0
 1
 0 13 5 0
 0
@@ -8430,8 +8430,8 @@ end_operator
 begin_operator
 end-cut-1 sub3 g84
 2
-2 0
 1 4
+2 0
 1
 0 14 5 0
 0
@@ -8439,8 +8439,8 @@ end_operator
 begin_operator
 end-cut-1 sub3 sub1
 2
-2 0
 1 4
+2 0
 1
 0 15 5 0
 0
@@ -8448,8 +8448,8 @@ end_operator
 begin_operator
 end-cut-1 sub3 sub2
 2
-2 0
 1 4
+2 0
 1
 0 16 5 0
 0
@@ -8457,8 +8457,8 @@ end_operator
 begin_operator
 end-cut-1 sub3 sub4
 2
-2 0
 1 4
+2 0
 1
 0 18 5 0
 0
@@ -8466,8 +8466,8 @@ end_operator
 begin_operator
 end-cut-1 sub3 sub5
 2
-2 0
 1 4
+2 0
 1
 0 19 5 0
 0
@@ -8475,8 +8475,8 @@ end_operator
 begin_operator
 end-cut-1 sub3 sub6
 2
-2 0
 1 4
+2 0
 1
 0 20 5 0
 0
@@ -8484,8 +8484,8 @@ end_operator
 begin_operator
 end-cut-1 sub3 sub7
 2
-2 0
 1 4
+2 0
 1
 0 21 5 0
 0
@@ -8493,8 +8493,8 @@ end_operator
 begin_operator
 end-cut-1 sub4 g11
 2
-2 0
 1 5
+2 0
 1
 0 13 6 0
 0
@@ -8502,8 +8502,8 @@ end_operator
 begin_operator
 end-cut-1 sub4 g84
 2
-2 0
 1 5
+2 0
 1
 0 14 6 0
 0
@@ -8511,8 +8511,8 @@ end_operator
 begin_operator
 end-cut-1 sub4 sub1
 2
-2 0
 1 5
+2 0
 1
 0 15 6 0
 0
@@ -8520,8 +8520,8 @@ end_operator
 begin_operator
 end-cut-1 sub4 sub2
 2
-2 0
 1 5
+2 0
 1
 0 16 6 0
 0
@@ -8529,8 +8529,8 @@ end_operator
 begin_operator
 end-cut-1 sub4 sub3
 2
-2 0
 1 5
+2 0
 1
 0 17 6 0
 0
@@ -8538,8 +8538,8 @@ end_operator
 begin_operator
 end-cut-1 sub4 sub5
 2
-2 0
 1 5
+2 0
 1
 0 19 6 0
 0
@@ -8547,8 +8547,8 @@ end_operator
 begin_operator
 end-cut-1 sub4 sub6
 2
-2 0
 1 5
+2 0
 1
 0 20 6 0
 0
@@ -8556,8 +8556,8 @@ end_operator
 begin_operator
 end-cut-1 sub4 sub7
 2
-2 0
 1 5
+2 0
 1
 0 21 6 0
 0
@@ -8565,8 +8565,8 @@ end_operator
 begin_operator
 end-cut-1 sub5 g11
 2
-2 0
 1 6
+2 0
 1
 0 13 7 0
 0
@@ -8574,8 +8574,8 @@ end_operator
 begin_operator
 end-cut-1 sub5 g84
 2
-2 0
 1 6
+2 0
 1
 0 14 7 0
 0
@@ -8583,8 +8583,8 @@ end_operator
 begin_operator
 end-cut-1 sub5 sub1
 2
-2 0
 1 6
+2 0
 1
 0 15 7 0
 0
@@ -8592,8 +8592,8 @@ end_operator
 begin_operator
 end-cut-1 sub5 sub2
 2
-2 0
 1 6
+2 0
 1
 0 16 7 0
 0
@@ -8601,8 +8601,8 @@ end_operator
 begin_operator
 end-cut-1 sub5 sub3
 2
-2 0
 1 6
+2 0
 1
 0 17 7 0
 0
@@ -8610,8 +8610,8 @@ end_operator
 begin_operator
 end-cut-1 sub5 sub4
 2
-2 0
 1 6
+2 0
 1
 0 18 7 0
 0
@@ -8619,8 +8619,8 @@ end_operator
 begin_operator
 end-cut-1 sub5 sub6
 2
-2 0
 1 6
+2 0
 1
 0 20 7 0
 0
@@ -8628,8 +8628,8 @@ end_operator
 begin_operator
 end-cut-1 sub5 sub7
 2
-2 0
 1 6
+2 0
 1
 0 21 7 0
 0
@@ -8637,8 +8637,8 @@ end_operator
 begin_operator
 end-cut-1 sub6 g11
 2
-2 0
 1 7
+2 0
 1
 0 13 8 0
 0
@@ -8646,8 +8646,8 @@ end_operator
 begin_operator
 end-cut-1 sub6 g84
 2
-2 0
 1 7
+2 0
 1
 0 14 8 0
 0
@@ -8655,8 +8655,8 @@ end_operator
 begin_operator
 end-cut-1 sub6 sub1
 2
-2 0
 1 7
+2 0
 1
 0 15 8 0
 0
@@ -8664,8 +8664,8 @@ end_operator
 begin_operator
 end-cut-1 sub6 sub2
 2
-2 0
 1 7
+2 0
 1
 0 16 8 0
 0
@@ -8673,8 +8673,8 @@ end_operator
 begin_operator
 end-cut-1 sub6 sub3
 2
-2 0
 1 7
+2 0
 1
 0 17 8 0
 0
@@ -8682,8 +8682,8 @@ end_operator
 begin_operator
 end-cut-1 sub6 sub4
 2
-2 0
 1 7
+2 0
 1
 0 18 8 0
 0
@@ -8691,8 +8691,8 @@ end_operator
 begin_operator
 end-cut-1 sub6 sub5
 2
-2 0
 1 7
+2 0
 1
 0 19 8 0
 0
@@ -8700,8 +8700,8 @@ end_operator
 begin_operator
 end-cut-1 sub6 sub7
 2
-2 0
 1 7
+2 0
 1
 0 21 8 0
 0
@@ -8709,8 +8709,8 @@ end_operator
 begin_operator
 end-cut-1 sub7 g11
 2
-2 0
 1 8
+2 0
 1
 0 13 9 0
 0
@@ -8718,8 +8718,8 @@ end_operator
 begin_operator
 end-cut-1 sub7 g84
 2
-2 0
 1 8
+2 0
 1
 0 14 9 0
 0
@@ -8727,8 +8727,8 @@ end_operator
 begin_operator
 end-cut-1 sub7 sub1
 2
-2 0
 1 8
+2 0
 1
 0 15 9 0
 0
@@ -8736,8 +8736,8 @@ end_operator
 begin_operator
 end-cut-1 sub7 sub2
 2
-2 0
 1 8
+2 0
 1
 0 16 9 0
 0
@@ -8745,8 +8745,8 @@ end_operator
 begin_operator
 end-cut-1 sub7 sub3
 2
-2 0
 1 8
+2 0
 1
 0 17 9 0
 0
@@ -8754,8 +8754,8 @@ end_operator
 begin_operator
 end-cut-1 sub7 sub4
 2
-2 0
 1 8
+2 0
 1
 0 18 9 0
 0
@@ -8763,8 +8763,8 @@ end_operator
 begin_operator
 end-cut-1 sub7 sub5
 2
-2 0
 1 8
+2 0
 1
 0 19 9 0
 0
@@ -8772,8 +8772,8 @@ end_operator
 begin_operator
 end-cut-1 sub7 sub6
 2
-2 0
 1 8
+2 0
 1
 0 20 9 0
 0
@@ -8782,729 +8782,729 @@ begin_operator
 end-cut-2 g11 g11
 0
 3
+0 2 0 10
 0 3 0 10
 0 13 0 1
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 g11 g84
 0
 3
+0 2 0 10
 0 3 0 10
 0 14 0 1
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 g11 sub1
 0
 3
+0 2 0 10
 0 3 0 10
 0 15 0 1
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 g11 sub2
 0
 3
+0 2 0 10
 0 3 0 10
 0 16 0 1
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 g11 sub3
 0
 3
+0 2 0 10
 0 3 0 10
 0 17 0 1
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 g11 sub4
 0
 3
+0 2 0 10
 0 3 0 10
 0 18 0 1
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 g11 sub5
 0
 3
+0 2 0 10
 0 3 0 10
 0 19 0 1
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 g11 sub6
 0
 3
+0 2 0 10
 0 3 0 10
 0 20 0 1
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 g11 sub7
 0
 3
+0 2 0 10
 0 3 0 10
 0 21 0 1
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 g84 g11
 0
 3
+0 2 0 10
 0 3 1 10
 0 13 0 2
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 g84 g84
 0
 3
+0 2 0 10
 0 3 1 10
 0 14 0 2
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 g84 sub1
 0
 3
+0 2 0 10
 0 3 1 10
 0 15 0 2
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 g84 sub2
 0
 3
+0 2 0 10
 0 3 1 10
 0 16 0 2
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 g84 sub3
 0
 3
+0 2 0 10
 0 3 1 10
 0 17 0 2
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 g84 sub4
 0
 3
+0 2 0 10
 0 3 1 10
 0 18 0 2
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 g84 sub5
 0
 3
+0 2 0 10
 0 3 1 10
 0 19 0 2
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 g84 sub6
 0
 3
+0 2 0 10
 0 3 1 10
 0 20 0 2
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 g84 sub7
 0
 3
+0 2 0 10
 0 3 1 10
 0 21 0 2
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub1 g11
 0
 3
+0 2 0 10
 0 3 2 10
 0 13 0 3
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub1 g84
 0
 3
+0 2 0 10
 0 3 2 10
 0 14 0 3
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub1 sub1
 0
 3
+0 2 0 10
 0 3 2 10
 0 15 0 3
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub1 sub2
 0
 3
+0 2 0 10
 0 3 2 10
 0 16 0 3
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub1 sub3
 0
 3
+0 2 0 10
 0 3 2 10
 0 17 0 3
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub1 sub4
 0
 3
+0 2 0 10
 0 3 2 10
 0 18 0 3
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub1 sub5
 0
 3
+0 2 0 10
 0 3 2 10
 0 19 0 3
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub1 sub6
 0
 3
+0 2 0 10
 0 3 2 10
 0 20 0 3
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub1 sub7
 0
 3
+0 2 0 10
 0 3 2 10
 0 21 0 3
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub2 g11
 0
 3
+0 2 0 10
 0 3 3 10
 0 13 0 4
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub2 g84
 0
 3
+0 2 0 10
 0 3 3 10
 0 14 0 4
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub2 sub1
 0
 3
+0 2 0 10
 0 3 3 10
 0 15 0 4
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub2 sub2
 0
 3
+0 2 0 10
 0 3 3 10
 0 16 0 4
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub2 sub3
 0
 3
+0 2 0 10
 0 3 3 10
 0 17 0 4
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub2 sub4
 0
 3
+0 2 0 10
 0 3 3 10
 0 18 0 4
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub2 sub5
 0
 3
+0 2 0 10
 0 3 3 10
 0 19 0 4
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub2 sub6
 0
 3
+0 2 0 10
 0 3 3 10
 0 20 0 4
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub2 sub7
 0
 3
+0 2 0 10
 0 3 3 10
 0 21 0 4
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub3 g11
 0
 3
+0 2 0 10
 0 3 4 10
 0 13 0 5
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub3 g84
 0
 3
+0 2 0 10
 0 3 4 10
 0 14 0 5
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub3 sub1
 0
 3
+0 2 0 10
 0 3 4 10
 0 15 0 5
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub3 sub2
 0
 3
+0 2 0 10
 0 3 4 10
 0 16 0 5
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub3 sub3
 0
 3
+0 2 0 10
 0 3 4 10
 0 17 0 5
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub3 sub4
 0
 3
+0 2 0 10
 0 3 4 10
 0 18 0 5
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub3 sub5
 0
 3
+0 2 0 10
 0 3 4 10
 0 19 0 5
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub3 sub6
 0
 3
+0 2 0 10
 0 3 4 10
 0 20 0 5
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub3 sub7
 0
 3
+0 2 0 10
 0 3 4 10
 0 21 0 5
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub4 g11
 0
 3
+0 2 0 10
 0 3 5 10
 0 13 0 6
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub4 g84
 0
 3
+0 2 0 10
 0 3 5 10
 0 14 0 6
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub4 sub1
 0
 3
+0 2 0 10
 0 3 5 10
 0 15 0 6
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub4 sub2
 0
 3
+0 2 0 10
 0 3 5 10
 0 16 0 6
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub4 sub3
 0
 3
+0 2 0 10
 0 3 5 10
 0 17 0 6
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub4 sub4
 0
 3
+0 2 0 10
 0 3 5 10
 0 18 0 6
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub4 sub5
 0
 3
+0 2 0 10
 0 3 5 10
 0 19 0 6
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub4 sub6
 0
 3
+0 2 0 10
 0 3 5 10
 0 20 0 6
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub4 sub7
 0
 3
+0 2 0 10
 0 3 5 10
 0 21 0 6
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub5 g11
 0
 3
+0 2 0 10
 0 3 6 10
 0 13 0 7
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub5 g84
 0
 3
+0 2 0 10
 0 3 6 10
 0 14 0 7
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub5 sub1
 0
 3
+0 2 0 10
 0 3 6 10
 0 15 0 7
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub5 sub2
 0
 3
+0 2 0 10
 0 3 6 10
 0 16 0 7
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub5 sub3
 0
 3
+0 2 0 10
 0 3 6 10
 0 17 0 7
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub5 sub4
 0
 3
+0 2 0 10
 0 3 6 10
 0 18 0 7
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub5 sub5
 0
 3
+0 2 0 10
 0 3 6 10
 0 19 0 7
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub5 sub6
 0
 3
+0 2 0 10
 0 3 6 10
 0 20 0 7
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub5 sub7
 0
 3
+0 2 0 10
 0 3 6 10
 0 21 0 7
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub6 g11
 0
 3
+0 2 0 10
 0 3 7 10
 0 13 0 8
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub6 g84
 0
 3
+0 2 0 10
 0 3 7 10
 0 14 0 8
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub6 sub1
 0
 3
+0 2 0 10
 0 3 7 10
 0 15 0 8
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub6 sub2
 0
 3
+0 2 0 10
 0 3 7 10
 0 16 0 8
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub6 sub3
 0
 3
+0 2 0 10
 0 3 7 10
 0 17 0 8
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub6 sub4
 0
 3
+0 2 0 10
 0 3 7 10
 0 18 0 8
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub6 sub5
 0
 3
+0 2 0 10
 0 3 7 10
 0 19 0 8
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub6 sub6
 0
 3
+0 2 0 10
 0 3 7 10
 0 20 0 8
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub6 sub7
 0
 3
+0 2 0 10
 0 3 7 10
 0 21 0 8
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub7 g11
 0
 3
+0 2 0 10
 0 3 8 10
 0 13 0 9
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub7 g84
 0
 3
+0 2 0 10
 0 3 8 10
 0 14 0 9
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub7 sub1
 0
 3
+0 2 0 10
 0 3 8 10
 0 15 0 9
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub7 sub2
 0
 3
+0 2 0 10
 0 3 8 10
 0 16 0 9
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub7 sub3
 0
 3
+0 2 0 10
 0 3 8 10
 0 17 0 9
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub7 sub4
 0
 3
+0 2 0 10
 0 3 8 10
 0 18 0 9
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub7 sub5
 0
 3
+0 2 0 10
 0 3 8 10
 0 19 0 9
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub7 sub6
 0
 3
+0 2 0 10
 0 3 8 10
 0 20 0 9
-0 2 0 10
 0
 end_operator
 begin_operator
 end-cut-2 sub7 sub7
 0
 3
+0 2 0 10
 0 3 8 10
 0 21 0 9
-0 2 0 10
 0
 end_operator
 begin_operator
@@ -9512,109 +9512,109 @@ end-inverse-splice-1a g11 g11
 1
 2 1
 4
-0 3 21 22
-0 13 10 1
-0 4 1 0
 0 1 0 9
+0 3 21 22
+0 4 1 0
+0 13 10 1
 0
 end_operator
 begin_operator
 end-inverse-splice-1a g11 g84
 0
 5
-0 3 21 22
-0 13 10 2
-0 2 2 1
-0 4 1 0
 0 1 0 9
+0 2 2 1
+0 3 21 22
+0 4 1 0
+0 13 10 2
 0
 end_operator
 begin_operator
 end-inverse-splice-1a g11 sub1
 0
 5
-0 3 21 22
-0 13 10 3
-0 2 3 1
-0 4 1 0
 0 1 0 9
+0 2 3 1
+0 3 21 22
+0 4 1 0
+0 13 10 3
 0
 end_operator
 begin_operator
 end-inverse-splice-1a g11 sub2
 0
 5
-0 3 21 22
-0 13 10 4
-0 2 4 1
-0 4 1 0
 0 1 0 9
+0 2 4 1
+0 3 21 22
+0 4 1 0
+0 13 10 4
 0
 end_operator
 begin_operator
 end-inverse-splice-1a g11 sub3
 0
 5
-0 3 21 22
-0 13 10 5
-0 2 5 1
-0 4 1 0
 0 1 0 9
+0 2 5 1
+0 3 21 22
+0 4 1 0
+0 13 10 5
 0
 end_operator
 begin_operator
 end-inverse-splice-1a g11 sub4
 0
 5
-0 3 21 22
-0 13 10 6
-0 2 6 1
-0 4 1 0
 0 1 0 9
+0 2 6 1
+0 3 21 22
+0 4 1 0
+0 13 10 6
 0
 end_operator
 begin_operator
 end-inverse-splice-1a g11 sub5
 0
 5
-0 3 21 22
-0 13 10 7
-0 2 7 1
-0 4 1 0
 0 1 0 9
+0 2 7 1
+0 3 21 22
+0 4 1 0
+0 13 10 7
 0
 end_operator
 begin_operator
 end-inverse-splice-1a g11 sub6
 0
 5
-0 3 21 22
-0 13 10 8
-0 2 8 1
-0 4 1 0
 0 1 0 9
+0 2 8 1
+0 3 21 22
+0 4 1 0
+0 13 10 8
 0
 end_operator
 begin_operator
 end-inverse-splice-1a g11 sub7
 0
 5
-0 3 21 22
-0 13 10 9
-0 2 9 1
-0 4 1 0
 0 1 0 9
+0 2 9 1
+0 3 21 22
+0 4 1 0
+0 13 10 9
 0
 end_operator
 begin_operator
 end-inverse-splice-1a g84 g11
 0
 5
-0 3 21 22
-0 14 10 1
-0 2 1 2
-0 5 1 0
 0 1 1 9
+0 2 1 2
+0 3 21 22
+0 5 1 0
+0 14 10 1
 0
 end_operator
 begin_operator
@@ -9622,109 +9622,109 @@ end-inverse-splice-1a g84 g84
 1
 2 2
 4
-0 3 21 22
-0 14 10 2
-0 5 1 0
 0 1 1 9
+0 3 21 22
+0 5 1 0
+0 14 10 2
 0
 end_operator
 begin_operator
 end-inverse-splice-1a g84 sub1
 0
 5
-0 3 21 22
-0 14 10 3
-0 2 3 2
-0 5 1 0
 0 1 1 9
+0 2 3 2
+0 3 21 22
+0 5 1 0
+0 14 10 3
 0
 end_operator
 begin_operator
 end-inverse-splice-1a g84 sub2
 0
 5
-0 3 21 22
-0 14 10 4
-0 2 4 2
-0 5 1 0
 0 1 1 9
+0 2 4 2
+0 3 21 22
+0 5 1 0
+0 14 10 4
 0
 end_operator
 begin_operator
 end-inverse-splice-1a g84 sub3
 0
 5
-0 3 21 22
-0 14 10 5
-0 2 5 2
-0 5 1 0
 0 1 1 9
+0 2 5 2
+0 3 21 22
+0 5 1 0
+0 14 10 5
 0
 end_operator
 begin_operator
 end-inverse-splice-1a g84 sub4
 0
 5
-0 3 21 22
-0 14 10 6
-0 2 6 2
-0 5 1 0
 0 1 1 9
+0 2 6 2
+0 3 21 22
+0 5 1 0
+0 14 10 6
 0
 end_operator
 begin_operator
 end-inverse-splice-1a g84 sub5
 0
 5
-0 3 21 22
-0 14 10 7
-0 2 7 2
-0 5 1 0
 0 1 1 9
+0 2 7 2
+0 3 21 22
+0 5 1 0
+0 14 10 7
 0
 end_operator
 begin_operator
 end-inverse-splice-1a g84 sub6
 0
 5
-0 3 21 22
-0 14 10 8
-0 2 8 2
-0 5 1 0
 0 1 1 9
+0 2 8 2
+0 3 21 22
+0 5 1 0
+0 14 10 8
 0
 end_operator
 begin_operator
 end-inverse-splice-1a g84 sub7
 0
 5
-0 3 21 22
-0 14 10 9
-0 2 9 2
-0 5 1 0
 0 1 1 9
+0 2 9 2
+0 3 21 22
+0 5 1 0
+0 14 10 9
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub1 g11
 0
 5
-0 3 21 22
-0 15 10 1
-0 2 1 3
-0 6 1 0
 0 1 2 9
+0 2 1 3
+0 3 21 22
+0 6 1 0
+0 15 10 1
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub1 g84
 0
 5
-0 3 21 22
-0 15 10 2
-0 2 2 3
-0 6 1 0
 0 1 2 9
+0 2 2 3
+0 3 21 22
+0 6 1 0
+0 15 10 2
 0
 end_operator
 begin_operator
@@ -9732,109 +9732,109 @@ end-inverse-splice-1a sub1 sub1
 1
 2 3
 4
-0 3 21 22
-0 15 10 3
-0 6 1 0
 0 1 2 9
+0 3 21 22
+0 6 1 0
+0 15 10 3
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub1 sub2
 0
 5
-0 3 21 22
-0 15 10 4
-0 2 4 3
-0 6 1 0
 0 1 2 9
+0 2 4 3
+0 3 21 22
+0 6 1 0
+0 15 10 4
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub1 sub3
 0
 5
-0 3 21 22
-0 15 10 5
-0 2 5 3
-0 6 1 0
 0 1 2 9
+0 2 5 3
+0 3 21 22
+0 6 1 0
+0 15 10 5
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub1 sub4
 0
 5
-0 3 21 22
-0 15 10 6
-0 2 6 3
-0 6 1 0
 0 1 2 9
+0 2 6 3
+0 3 21 22
+0 6 1 0
+0 15 10 6
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub1 sub5
 0
 5
-0 3 21 22
-0 15 10 7
-0 2 7 3
-0 6 1 0
 0 1 2 9
+0 2 7 3
+0 3 21 22
+0 6 1 0
+0 15 10 7
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub1 sub6
 0
 5
-0 3 21 22
-0 15 10 8
-0 2 8 3
-0 6 1 0
 0 1 2 9
+0 2 8 3
+0 3 21 22
+0 6 1 0
+0 15 10 8
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub1 sub7
 0
 5
-0 3 21 22
-0 15 10 9
-0 2 9 3
-0 6 1 0
 0 1 2 9
+0 2 9 3
+0 3 21 22
+0 6 1 0
+0 15 10 9
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub2 g11
 0
 5
-0 3 21 22
-0 16 10 1
-0 2 1 4
-0 7 1 0
 0 1 3 9
+0 2 1 4
+0 3 21 22
+0 7 1 0
+0 16 10 1
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub2 g84
 0
 5
-0 3 21 22
-0 16 10 2
-0 2 2 4
-0 7 1 0
 0 1 3 9
+0 2 2 4
+0 3 21 22
+0 7 1 0
+0 16 10 2
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub2 sub1
 0
 5
-0 3 21 22
-0 16 10 3
-0 2 3 4
-0 7 1 0
 0 1 3 9
+0 2 3 4
+0 3 21 22
+0 7 1 0
+0 16 10 3
 0
 end_operator
 begin_operator
@@ -9842,109 +9842,109 @@ end-inverse-splice-1a sub2 sub2
 1
 2 4
 4
-0 3 21 22
-0 16 10 4
-0 7 1 0
 0 1 3 9
+0 3 21 22
+0 7 1 0
+0 16 10 4
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub2 sub3
 0
 5
-0 3 21 22
-0 16 10 5
-0 2 5 4
-0 7 1 0
 0 1 3 9
+0 2 5 4
+0 3 21 22
+0 7 1 0
+0 16 10 5
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub2 sub4
 0
 5
-0 3 21 22
-0 16 10 6
-0 2 6 4
-0 7 1 0
 0 1 3 9
+0 2 6 4
+0 3 21 22
+0 7 1 0
+0 16 10 6
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub2 sub5
 0
 5
-0 3 21 22
-0 16 10 7
-0 2 7 4
-0 7 1 0
 0 1 3 9
+0 2 7 4
+0 3 21 22
+0 7 1 0
+0 16 10 7
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub2 sub6
 0
 5
-0 3 21 22
-0 16 10 8
-0 2 8 4
-0 7 1 0
 0 1 3 9
+0 2 8 4
+0 3 21 22
+0 7 1 0
+0 16 10 8
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub2 sub7
 0
 5
-0 3 21 22
-0 16 10 9
-0 2 9 4
-0 7 1 0
 0 1 3 9
+0 2 9 4
+0 3 21 22
+0 7 1 0
+0 16 10 9
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub3 g11
 0
 5
-0 3 21 22
-0 17 10 1
-0 2 1 5
-0 8 1 0
 0 1 4 9
+0 2 1 5
+0 3 21 22
+0 8 1 0
+0 17 10 1
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub3 g84
 0
 5
-0 3 21 22
-0 17 10 2
-0 2 2 5
-0 8 1 0
 0 1 4 9
+0 2 2 5
+0 3 21 22
+0 8 1 0
+0 17 10 2
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub3 sub1
 0
 5
-0 3 21 22
-0 17 10 3
-0 2 3 5
-0 8 1 0
 0 1 4 9
+0 2 3 5
+0 3 21 22
+0 8 1 0
+0 17 10 3
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub3 sub2
 0
 5
-0 3 21 22
-0 17 10 4
-0 2 4 5
-0 8 1 0
 0 1 4 9
+0 2 4 5
+0 3 21 22
+0 8 1 0
+0 17 10 4
 0
 end_operator
 begin_operator
@@ -9952,109 +9952,109 @@ end-inverse-splice-1a sub3 sub3
 1
 2 5
 4
-0 3 21 22
-0 17 10 5
-0 8 1 0
 0 1 4 9
+0 3 21 22
+0 8 1 0
+0 17 10 5
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub3 sub4
 0
 5
-0 3 21 22
-0 17 10 6
-0 2 6 5
-0 8 1 0
 0 1 4 9
+0 2 6 5
+0 3 21 22
+0 8 1 0
+0 17 10 6
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub3 sub5
 0
 5
-0 3 21 22
-0 17 10 7
-0 2 7 5
-0 8 1 0
 0 1 4 9
+0 2 7 5
+0 3 21 22
+0 8 1 0
+0 17 10 7
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub3 sub6
 0
 5
-0 3 21 22
-0 17 10 8
-0 2 8 5
-0 8 1 0
 0 1 4 9
+0 2 8 5
+0 3 21 22
+0 8 1 0
+0 17 10 8
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub3 sub7
 0
 5
-0 3 21 22
-0 17 10 9
-0 2 9 5
-0 8 1 0
 0 1 4 9
+0 2 9 5
+0 3 21 22
+0 8 1 0
+0 17 10 9
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub4 g11
 0
 5
-0 3 21 22
-0 18 10 1
-0 2 1 6
-0 9 1 0
 0 1 5 9
+0 2 1 6
+0 3 21 22
+0 9 1 0
+0 18 10 1
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub4 g84
 0
 5
-0 3 21 22
-0 18 10 2
-0 2 2 6
-0 9 1 0
 0 1 5 9
+0 2 2 6
+0 3 21 22
+0 9 1 0
+0 18 10 2
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub4 sub1
 0
 5
-0 3 21 22
-0 18 10 3
-0 2 3 6
-0 9 1 0
 0 1 5 9
+0 2 3 6
+0 3 21 22
+0 9 1 0
+0 18 10 3
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub4 sub2
 0
 5
-0 3 21 22
-0 18 10 4
-0 2 4 6
-0 9 1 0
 0 1 5 9
+0 2 4 6
+0 3 21 22
+0 9 1 0
+0 18 10 4
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub4 sub3
 0
 5
-0 3 21 22
-0 18 10 5
-0 2 5 6
-0 9 1 0
 0 1 5 9
+0 2 5 6
+0 3 21 22
+0 9 1 0
+0 18 10 5
 0
 end_operator
 begin_operator
@@ -10062,109 +10062,109 @@ end-inverse-splice-1a sub4 sub4
 1
 2 6
 4
-0 3 21 22
-0 18 10 6
-0 9 1 0
 0 1 5 9
+0 3 21 22
+0 9 1 0
+0 18 10 6
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub4 sub5
 0
 5
-0 3 21 22
-0 18 10 7
-0 2 7 6
-0 9 1 0
 0 1 5 9
+0 2 7 6
+0 3 21 22
+0 9 1 0
+0 18 10 7
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub4 sub6
 0
 5
-0 3 21 22
-0 18 10 8
-0 2 8 6
-0 9 1 0
 0 1 5 9
+0 2 8 6
+0 3 21 22
+0 9 1 0
+0 18 10 8
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub4 sub7
 0
 5
-0 3 21 22
-0 18 10 9
-0 2 9 6
-0 9 1 0
 0 1 5 9
+0 2 9 6
+0 3 21 22
+0 9 1 0
+0 18 10 9
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub5 g11
 0
 5
-0 3 21 22
-0 19 10 1
-0 2 1 7
-0 10 1 0
 0 1 6 9
+0 2 1 7
+0 3 21 22
+0 10 1 0
+0 19 10 1
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub5 g84
 0
 5
-0 3 21 22
-0 19 10 2
-0 2 2 7
-0 10 1 0
 0 1 6 9
+0 2 2 7
+0 3 21 22
+0 10 1 0
+0 19 10 2
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub5 sub1
 0
 5
-0 3 21 22
-0 19 10 3
-0 2 3 7
-0 10 1 0
 0 1 6 9
+0 2 3 7
+0 3 21 22
+0 10 1 0
+0 19 10 3
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub5 sub2
 0
 5
-0 3 21 22
-0 19 10 4
-0 2 4 7
-0 10 1 0
 0 1 6 9
+0 2 4 7
+0 3 21 22
+0 10 1 0
+0 19 10 4
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub5 sub3
 0
 5
-0 3 21 22
-0 19 10 5
-0 2 5 7
-0 10 1 0
 0 1 6 9
+0 2 5 7
+0 3 21 22
+0 10 1 0
+0 19 10 5
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub5 sub4
 0
 5
-0 3 21 22
-0 19 10 6
-0 2 6 7
-0 10 1 0
 0 1 6 9
+0 2 6 7
+0 3 21 22
+0 10 1 0
+0 19 10 6
 0
 end_operator
 begin_operator
@@ -10172,109 +10172,109 @@ end-inverse-splice-1a sub5 sub5
 1
 2 7
 4
-0 3 21 22
-0 19 10 7
-0 10 1 0
 0 1 6 9
+0 3 21 22
+0 10 1 0
+0 19 10 7
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub5 sub6
 0
 5
-0 3 21 22
-0 19 10 8
-0 2 8 7
-0 10 1 0
 0 1 6 9
+0 2 8 7
+0 3 21 22
+0 10 1 0
+0 19 10 8
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub5 sub7
 0
 5
-0 3 21 22
-0 19 10 9
-0 2 9 7
-0 10 1 0
 0 1 6 9
+0 2 9 7
+0 3 21 22
+0 10 1 0
+0 19 10 9
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub6 g11
 0
 5
-0 3 21 22
-0 20 10 1
-0 2 1 8
-0 11 1 0
 0 1 7 9
+0 2 1 8
+0 3 21 22
+0 11 1 0
+0 20 10 1
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub6 g84
 0
 5
-0 3 21 22
-0 20 10 2
-0 2 2 8
-0 11 1 0
 0 1 7 9
+0 2 2 8
+0 3 21 22
+0 11 1 0
+0 20 10 2
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub6 sub1
 0
 5
-0 3 21 22
-0 20 10 3
-0 2 3 8
-0 11 1 0
 0 1 7 9
+0 2 3 8
+0 3 21 22
+0 11 1 0
+0 20 10 3
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub6 sub2
 0
 5
-0 3 21 22
-0 20 10 4
-0 2 4 8
-0 11 1 0
 0 1 7 9
+0 2 4 8
+0 3 21 22
+0 11 1 0
+0 20 10 4
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub6 sub3
 0
 5
-0 3 21 22
-0 20 10 5
-0 2 5 8
-0 11 1 0
 0 1 7 9
+0 2 5 8
+0 3 21 22
+0 11 1 0
+0 20 10 5
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub6 sub4
 0
 5
-0 3 21 22
-0 20 10 6
-0 2 6 8
-0 11 1 0
 0 1 7 9
+0 2 6 8
+0 3 21 22
+0 11 1 0
+0 20 10 6
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub6 sub5
 0
 5
-0 3 21 22
-0 20 10 7
-0 2 7 8
-0 11 1 0
 0 1 7 9
+0 2 7 8
+0 3 21 22
+0 11 1 0
+0 20 10 7
 0
 end_operator
 begin_operator
@@ -10282,109 +10282,109 @@ end-inverse-splice-1a sub6 sub6
 1
 2 8
 4
-0 3 21 22
-0 20 10 8
-0 11 1 0
 0 1 7 9
+0 3 21 22
+0 11 1 0
+0 20 10 8
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub6 sub7
 0
 5
-0 3 21 22
-0 20 10 9
-0 2 9 8
-0 11 1 0
 0 1 7 9
+0 2 9 8
+0 3 21 22
+0 11 1 0
+0 20 10 9
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub7 g11
 0
 5
-0 3 21 22
-0 21 10 1
-0 2 1 9
-0 12 1 0
 0 1 8 9
+0 2 1 9
+0 3 21 22
+0 12 1 0
+0 21 10 1
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub7 g84
 0
 5
-0 3 21 22
-0 21 10 2
-0 2 2 9
-0 12 1 0
 0 1 8 9
+0 2 2 9
+0 3 21 22
+0 12 1 0
+0 21 10 2
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub7 sub1
 0
 5
-0 3 21 22
-0 21 10 3
-0 2 3 9
-0 12 1 0
 0 1 8 9
+0 2 3 9
+0 3 21 22
+0 12 1 0
+0 21 10 3
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub7 sub2
 0
 5
-0 3 21 22
-0 21 10 4
-0 2 4 9
-0 12 1 0
 0 1 8 9
+0 2 4 9
+0 3 21 22
+0 12 1 0
+0 21 10 4
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub7 sub3
 0
 5
-0 3 21 22
-0 21 10 5
-0 2 5 9
-0 12 1 0
 0 1 8 9
+0 2 5 9
+0 3 21 22
+0 12 1 0
+0 21 10 5
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub7 sub4
 0
 5
-0 3 21 22
-0 21 10 6
-0 2 6 9
-0 12 1 0
 0 1 8 9
+0 2 6 9
+0 3 21 22
+0 12 1 0
+0 21 10 6
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub7 sub5
 0
 5
-0 3 21 22
-0 21 10 7
-0 2 7 9
-0 12 1 0
 0 1 8 9
+0 2 7 9
+0 3 21 22
+0 12 1 0
+0 21 10 7
 0
 end_operator
 begin_operator
 end-inverse-splice-1a sub7 sub6
 0
 5
-0 3 21 22
-0 21 10 8
-0 2 8 9
-0 12 1 0
 0 1 8 9
+0 2 8 9
+0 3 21 22
+0 12 1 0
+0 21 10 8
 0
 end_operator
 begin_operator
@@ -10392,10 +10392,10 @@ end-inverse-splice-1a sub7 sub7
 1
 2 9
 4
-0 3 21 22
-0 21 10 9
-0 12 1 0
 0 1 8 9
+0 3 21 22
+0 12 1 0
+0 21 10 9
 0
 end_operator
 begin_operator
@@ -10403,109 +10403,109 @@ end-inverse-splice-1b g11 g11
 1
 2 1
 4
-0 3 21 22
-0 13 10 1
-0 4 0 1
 0 1 0 9
+0 3 21 22
+0 4 0 1
+0 13 10 1
 0
 end_operator
 begin_operator
 end-inverse-splice-1b g11 g84
 0
 5
-0 3 21 22
-0 13 10 2
-0 2 2 1
-0 4 0 1
 0 1 0 9
+0 2 2 1
+0 3 21 22
+0 4 0 1
+0 13 10 2
 0
 end_operator
 begin_operator
 end-inverse-splice-1b g11 sub1
 0
 5
-0 3 21 22
-0 13 10 3
-0 2 3 1
-0 4 0 1
 0 1 0 9
+0 2 3 1
+0 3 21 22
+0 4 0 1
+0 13 10 3
 0
 end_operator
 begin_operator
 end-inverse-splice-1b g11 sub2
 0
 5
-0 3 21 22
-0 13 10 4
-0 2 4 1
-0 4 0 1
 0 1 0 9
+0 2 4 1
+0 3 21 22
+0 4 0 1
+0 13 10 4
 0
 end_operator
 begin_operator
 end-inverse-splice-1b g11 sub3
 0
 5
-0 3 21 22
-0 13 10 5
-0 2 5 1
-0 4 0 1
 0 1 0 9
+0 2 5 1
+0 3 21 22
+0 4 0 1
+0 13 10 5
 0
 end_operator
 begin_operator
 end-inverse-splice-1b g11 sub4
 0
 5
-0 3 21 22
-0 13 10 6
-0 2 6 1
-0 4 0 1
 0 1 0 9
+0 2 6 1
+0 3 21 22
+0 4 0 1
+0 13 10 6
 0
 end_operator
 begin_operator
 end-inverse-splice-1b g11 sub5
 0
 5
-0 3 21 22
-0 13 10 7
-0 2 7 1
-0 4 0 1
 0 1 0 9
+0 2 7 1
+0 3 21 22
+0 4 0 1
+0 13 10 7
 0
 end_operator
 begin_operator
 end-inverse-splice-1b g11 sub6
 0
 5
-0 3 21 22
-0 13 10 8
-0 2 8 1
-0 4 0 1
 0 1 0 9
+0 2 8 1
+0 3 21 22
+0 4 0 1
+0 13 10 8
 0
 end_operator
 begin_operator
 end-inverse-splice-1b g11 sub7
 0
 5
-0 3 21 22
-0 13 10 9
-0 2 9 1
-0 4 0 1
 0 1 0 9
+0 2 9 1
+0 3 21 22
+0 4 0 1
+0 13 10 9
 0
 end_operator
 begin_operator
 end-inverse-splice-1b g84 g11
 0
 5
-0 3 21 22
-0 14 10 1
-0 2 1 2
-0 5 0 1
 0 1 1 9
+0 2 1 2
+0 3 21 22
+0 5 0 1
+0 14 10 1
 0
 end_operator
 begin_operator
@@ -10513,109 +10513,109 @@ end-inverse-splice-1b g84 g84
 1
 2 2
 4
-0 3 21 22
-0 14 10 2
-0 5 0 1
 0 1 1 9
+0 3 21 22
+0 5 0 1
+0 14 10 2
 0
 end_operator
 begin_operator
 end-inverse-splice-1b g84 sub1
 0
 5
-0 3 21 22
-0 14 10 3
-0 2 3 2
-0 5 0 1
 0 1 1 9
+0 2 3 2
+0 3 21 22
+0 5 0 1
+0 14 10 3
 0
 end_operator
 begin_operator
 end-inverse-splice-1b g84 sub2
 0
 5
-0 3 21 22
-0 14 10 4
-0 2 4 2
-0 5 0 1
 0 1 1 9
+0 2 4 2
+0 3 21 22
+0 5 0 1
+0 14 10 4
 0
 end_operator
 begin_operator
 end-inverse-splice-1b g84 sub3
 0
 5
-0 3 21 22
-0 14 10 5
-0 2 5 2
-0 5 0 1
 0 1 1 9
+0 2 5 2
+0 3 21 22
+0 5 0 1
+0 14 10 5
 0
 end_operator
 begin_operator
 end-inverse-splice-1b g84 sub4
 0
 5
-0 3 21 22
-0 14 10 6
-0 2 6 2
-0 5 0 1
 0 1 1 9
+0 2 6 2
+0 3 21 22
+0 5 0 1
+0 14 10 6
 0
 end_operator
 begin_operator
 end-inverse-splice-1b g84 sub5
 0
 5
-0 3 21 22
-0 14 10 7
-0 2 7 2
-0 5 0 1
 0 1 1 9
+0 2 7 2
+0 3 21 22
+0 5 0 1
+0 14 10 7
 0
 end_operator
 begin_operator
 end-inverse-splice-1b g84 sub6
 0
 5
-0 3 21 22
-0 14 10 8
-0 2 8 2
-0 5 0 1
 0 1 1 9
+0 2 8 2
+0 3 21 22
+0 5 0 1
+0 14 10 8
 0
 end_operator
 begin_operator
 end-inverse-splice-1b g84 sub7
 0
 5
-0 3 21 22
-0 14 10 9
-0 2 9 2
-0 5 0 1
 0 1 1 9
+0 2 9 2
+0 3 21 22
+0 5 0 1
+0 14 10 9
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub1 g11
 0
 5
-0 3 21 22
-0 15 10 1
-0 2 1 3
-0 6 0 1
 0 1 2 9
+0 2 1 3
+0 3 21 22
+0 6 0 1
+0 15 10 1
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub1 g84
 0
 5
-0 3 21 22
-0 15 10 2
-0 2 2 3
-0 6 0 1
 0 1 2 9
+0 2 2 3
+0 3 21 22
+0 6 0 1
+0 15 10 2
 0
 end_operator
 begin_operator
@@ -10623,109 +10623,109 @@ end-inverse-splice-1b sub1 sub1
 1
 2 3
 4
-0 3 21 22
-0 15 10 3
-0 6 0 1
 0 1 2 9
+0 3 21 22
+0 6 0 1
+0 15 10 3
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub1 sub2
 0
 5
-0 3 21 22
-0 15 10 4
-0 2 4 3
-0 6 0 1
 0 1 2 9
+0 2 4 3
+0 3 21 22
+0 6 0 1
+0 15 10 4
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub1 sub3
 0
 5
-0 3 21 22
-0 15 10 5
-0 2 5 3
-0 6 0 1
 0 1 2 9
+0 2 5 3
+0 3 21 22
+0 6 0 1
+0 15 10 5
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub1 sub4
 0
 5
-0 3 21 22
-0 15 10 6
-0 2 6 3
-0 6 0 1
 0 1 2 9
+0 2 6 3
+0 3 21 22
+0 6 0 1
+0 15 10 6
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub1 sub5
 0
 5
-0 3 21 22
-0 15 10 7
-0 2 7 3
-0 6 0 1
 0 1 2 9
+0 2 7 3
+0 3 21 22
+0 6 0 1
+0 15 10 7
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub1 sub6
 0
 5
-0 3 21 22
-0 15 10 8
-0 2 8 3
-0 6 0 1
 0 1 2 9
+0 2 8 3
+0 3 21 22
+0 6 0 1
+0 15 10 8
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub1 sub7
 0
 5
-0 3 21 22
-0 15 10 9
-0 2 9 3
-0 6 0 1
 0 1 2 9
+0 2 9 3
+0 3 21 22
+0 6 0 1
+0 15 10 9
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub2 g11
 0
 5
-0 3 21 22
-0 16 10 1
-0 2 1 4
-0 7 0 1
 0 1 3 9
+0 2 1 4
+0 3 21 22
+0 7 0 1
+0 16 10 1
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub2 g84
 0
 5
-0 3 21 22
-0 16 10 2
-0 2 2 4
-0 7 0 1
 0 1 3 9
+0 2 2 4
+0 3 21 22
+0 7 0 1
+0 16 10 2
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub2 sub1
 0
 5
-0 3 21 22
-0 16 10 3
-0 2 3 4
-0 7 0 1
 0 1 3 9
+0 2 3 4
+0 3 21 22
+0 7 0 1
+0 16 10 3
 0
 end_operator
 begin_operator
@@ -10733,109 +10733,109 @@ end-inverse-splice-1b sub2 sub2
 1
 2 4
 4
-0 3 21 22
-0 16 10 4
-0 7 0 1
 0 1 3 9
+0 3 21 22
+0 7 0 1
+0 16 10 4
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub2 sub3
 0
 5
-0 3 21 22
-0 16 10 5
-0 2 5 4
-0 7 0 1
 0 1 3 9
+0 2 5 4
+0 3 21 22
+0 7 0 1
+0 16 10 5
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub2 sub4
 0
 5
-0 3 21 22
-0 16 10 6
-0 2 6 4
-0 7 0 1
 0 1 3 9
+0 2 6 4
+0 3 21 22
+0 7 0 1
+0 16 10 6
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub2 sub5
 0
 5
-0 3 21 22
-0 16 10 7
-0 2 7 4
-0 7 0 1
 0 1 3 9
+0 2 7 4
+0 3 21 22
+0 7 0 1
+0 16 10 7
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub2 sub6
 0
 5
-0 3 21 22
-0 16 10 8
-0 2 8 4
-0 7 0 1
 0 1 3 9
+0 2 8 4
+0 3 21 22
+0 7 0 1
+0 16 10 8
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub2 sub7
 0
 5
-0 3 21 22
-0 16 10 9
-0 2 9 4
-0 7 0 1
 0 1 3 9
+0 2 9 4
+0 3 21 22
+0 7 0 1
+0 16 10 9
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub3 g11
 0
 5
-0 3 21 22
-0 17 10 1
-0 2 1 5
-0 8 0 1
 0 1 4 9
+0 2 1 5
+0 3 21 22
+0 8 0 1
+0 17 10 1
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub3 g84
 0
 5
-0 3 21 22
-0 17 10 2
-0 2 2 5
-0 8 0 1
 0 1 4 9
+0 2 2 5
+0 3 21 22
+0 8 0 1
+0 17 10 2
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub3 sub1
 0
 5
-0 3 21 22
-0 17 10 3
-0 2 3 5
-0 8 0 1
 0 1 4 9
+0 2 3 5
+0 3 21 22
+0 8 0 1
+0 17 10 3
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub3 sub2
 0
 5
-0 3 21 22
-0 17 10 4
-0 2 4 5
-0 8 0 1
 0 1 4 9
+0 2 4 5
+0 3 21 22
+0 8 0 1
+0 17 10 4
 0
 end_operator
 begin_operator
@@ -10843,109 +10843,109 @@ end-inverse-splice-1b sub3 sub3
 1
 2 5
 4
-0 3 21 22
-0 17 10 5
-0 8 0 1
 0 1 4 9
+0 3 21 22
+0 8 0 1
+0 17 10 5
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub3 sub4
 0
 5
-0 3 21 22
-0 17 10 6
-0 2 6 5
-0 8 0 1
 0 1 4 9
+0 2 6 5
+0 3 21 22
+0 8 0 1
+0 17 10 6
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub3 sub5
 0
 5
-0 3 21 22
-0 17 10 7
-0 2 7 5
-0 8 0 1
 0 1 4 9
+0 2 7 5
+0 3 21 22
+0 8 0 1
+0 17 10 7
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub3 sub6
 0
 5
-0 3 21 22
-0 17 10 8
-0 2 8 5
-0 8 0 1
 0 1 4 9
+0 2 8 5
+0 3 21 22
+0 8 0 1
+0 17 10 8
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub3 sub7
 0
 5
-0 3 21 22
-0 17 10 9
-0 2 9 5
-0 8 0 1
 0 1 4 9
+0 2 9 5
+0 3 21 22
+0 8 0 1
+0 17 10 9
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub4 g11
 0
 5
-0 3 21 22
-0 18 10 1
-0 2 1 6
-0 9 0 1
 0 1 5 9
+0 2 1 6
+0 3 21 22
+0 9 0 1
+0 18 10 1
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub4 g84
 0
 5
-0 3 21 22
-0 18 10 2
-0 2 2 6
-0 9 0 1
 0 1 5 9
+0 2 2 6
+0 3 21 22
+0 9 0 1
+0 18 10 2
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub4 sub1
 0
 5
-0 3 21 22
-0 18 10 3
-0 2 3 6
-0 9 0 1
 0 1 5 9
+0 2 3 6
+0 3 21 22
+0 9 0 1
+0 18 10 3
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub4 sub2
 0
 5
-0 3 21 22
-0 18 10 4
-0 2 4 6
-0 9 0 1
 0 1 5 9
+0 2 4 6
+0 3 21 22
+0 9 0 1
+0 18 10 4
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub4 sub3
 0
 5
-0 3 21 22
-0 18 10 5
-0 2 5 6
-0 9 0 1
 0 1 5 9
+0 2 5 6
+0 3 21 22
+0 9 0 1
+0 18 10 5
 0
 end_operator
 begin_operator
@@ -10953,109 +10953,109 @@ end-inverse-splice-1b sub4 sub4
 1
 2 6
 4
-0 3 21 22
-0 18 10 6
-0 9 0 1
 0 1 5 9
+0 3 21 22
+0 9 0 1
+0 18 10 6
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub4 sub5
 0
 5
-0 3 21 22
-0 18 10 7
-0 2 7 6
-0 9 0 1
 0 1 5 9
+0 2 7 6
+0 3 21 22
+0 9 0 1
+0 18 10 7
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub4 sub6
 0
 5
-0 3 21 22
-0 18 10 8
-0 2 8 6
-0 9 0 1
 0 1 5 9
+0 2 8 6
+0 3 21 22
+0 9 0 1
+0 18 10 8
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub4 sub7
 0
 5
-0 3 21 22
-0 18 10 9
-0 2 9 6
-0 9 0 1
 0 1 5 9
+0 2 9 6
+0 3 21 22
+0 9 0 1
+0 18 10 9
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub5 g11
 0
 5
-0 3 21 22
-0 19 10 1
-0 2 1 7
-0 10 0 1
 0 1 6 9
+0 2 1 7
+0 3 21 22
+0 10 0 1
+0 19 10 1
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub5 g84
 0
 5
-0 3 21 22
-0 19 10 2
-0 2 2 7
-0 10 0 1
 0 1 6 9
+0 2 2 7
+0 3 21 22
+0 10 0 1
+0 19 10 2
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub5 sub1
 0
 5
-0 3 21 22
-0 19 10 3
-0 2 3 7
-0 10 0 1
 0 1 6 9
+0 2 3 7
+0 3 21 22
+0 10 0 1
+0 19 10 3
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub5 sub2
 0
 5
-0 3 21 22
-0 19 10 4
-0 2 4 7
-0 10 0 1
 0 1 6 9
+0 2 4 7
+0 3 21 22
+0 10 0 1
+0 19 10 4
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub5 sub3
 0
 5
-0 3 21 22
-0 19 10 5
-0 2 5 7
-0 10 0 1
 0 1 6 9
+0 2 5 7
+0 3 21 22
+0 10 0 1
+0 19 10 5
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub5 sub4
 0
 5
-0 3 21 22
-0 19 10 6
-0 2 6 7
-0 10 0 1
 0 1 6 9
+0 2 6 7
+0 3 21 22
+0 10 0 1
+0 19 10 6
 0
 end_operator
 begin_operator
@@ -11063,109 +11063,109 @@ end-inverse-splice-1b sub5 sub5
 1
 2 7
 4
-0 3 21 22
-0 19 10 7
-0 10 0 1
 0 1 6 9
+0 3 21 22
+0 10 0 1
+0 19 10 7
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub5 sub6
 0
 5
-0 3 21 22
-0 19 10 8
-0 2 8 7
-0 10 0 1
 0 1 6 9
+0 2 8 7
+0 3 21 22
+0 10 0 1
+0 19 10 8
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub5 sub7
 0
 5
-0 3 21 22
-0 19 10 9
-0 2 9 7
-0 10 0 1
 0 1 6 9
+0 2 9 7
+0 3 21 22
+0 10 0 1
+0 19 10 9
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub6 g11
 0
 5
-0 3 21 22
-0 20 10 1
-0 2 1 8
-0 11 0 1
 0 1 7 9
+0 2 1 8
+0 3 21 22
+0 11 0 1
+0 20 10 1
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub6 g84
 0
 5
-0 3 21 22
-0 20 10 2
-0 2 2 8
-0 11 0 1
 0 1 7 9
+0 2 2 8
+0 3 21 22
+0 11 0 1
+0 20 10 2
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub6 sub1
 0
 5
-0 3 21 22
-0 20 10 3
-0 2 3 8
-0 11 0 1
 0 1 7 9
+0 2 3 8
+0 3 21 22
+0 11 0 1
+0 20 10 3
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub6 sub2
 0
 5
-0 3 21 22
-0 20 10 4
-0 2 4 8
-0 11 0 1
 0 1 7 9
+0 2 4 8
+0 3 21 22
+0 11 0 1
+0 20 10 4
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub6 sub3
 0
 5
-0 3 21 22
-0 20 10 5
-0 2 5 8
-0 11 0 1
 0 1 7 9
+0 2 5 8
+0 3 21 22
+0 11 0 1
+0 20 10 5
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub6 sub4
 0
 5
-0 3 21 22
-0 20 10 6
-0 2 6 8
-0 11 0 1
 0 1 7 9
+0 2 6 8
+0 3 21 22
+0 11 0 1
+0 20 10 6
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub6 sub5
 0
 5
-0 3 21 22
-0 20 10 7
-0 2 7 8
-0 11 0 1
 0 1 7 9
+0 2 7 8
+0 3 21 22
+0 11 0 1
+0 20 10 7
 0
 end_operator
 begin_operator
@@ -11173,109 +11173,109 @@ end-inverse-splice-1b sub6 sub6
 1
 2 8
 4
-0 3 21 22
-0 20 10 8
-0 11 0 1
 0 1 7 9
+0 3 21 22
+0 11 0 1
+0 20 10 8
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub6 sub7
 0
 5
-0 3 21 22
-0 20 10 9
-0 2 9 8
-0 11 0 1
 0 1 7 9
+0 2 9 8
+0 3 21 22
+0 11 0 1
+0 20 10 9
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub7 g11
 0
 5
-0 3 21 22
-0 21 10 1
-0 2 1 9
-0 12 0 1
 0 1 8 9
+0 2 1 9
+0 3 21 22
+0 12 0 1
+0 21 10 1
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub7 g84
 0
 5
-0 3 21 22
-0 21 10 2
-0 2 2 9
-0 12 0 1
 0 1 8 9
+0 2 2 9
+0 3 21 22
+0 12 0 1
+0 21 10 2
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub7 sub1
 0
 5
-0 3 21 22
-0 21 10 3
-0 2 3 9
-0 12 0 1
 0 1 8 9
+0 2 3 9
+0 3 21 22
+0 12 0 1
+0 21 10 3
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub7 sub2
 0
 5
-0 3 21 22
-0 21 10 4
-0 2 4 9
-0 12 0 1
 0 1 8 9
+0 2 4 9
+0 3 21 22
+0 12 0 1
+0 21 10 4
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub7 sub3
 0
 5
-0 3 21 22
-0 21 10 5
-0 2 5 9
-0 12 0 1
 0 1 8 9
+0 2 5 9
+0 3 21 22
+0 12 0 1
+0 21 10 5
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub7 sub4
 0
 5
-0 3 21 22
-0 21 10 6
-0 2 6 9
-0 12 0 1
 0 1 8 9
+0 2 6 9
+0 3 21 22
+0 12 0 1
+0 21 10 6
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub7 sub5
 0
 5
-0 3 21 22
-0 21 10 7
-0 2 7 9
-0 12 0 1
 0 1 8 9
+0 2 7 9
+0 3 21 22
+0 12 0 1
+0 21 10 7
 0
 end_operator
 begin_operator
 end-inverse-splice-1b sub7 sub6
 0
 5
-0 3 21 22
-0 21 10 8
-0 2 8 9
-0 12 0 1
 0 1 8 9
+0 2 8 9
+0 3 21 22
+0 12 0 1
+0 21 10 8
 0
 end_operator
 begin_operator
@@ -11283,739 +11283,739 @@ end-inverse-splice-1b sub7 sub7
 1
 2 9
 4
-0 3 21 22
-0 21 10 9
-0 12 0 1
 0 1 8 9
+0 3 21 22
+0 12 0 1
+0 21 10 9
 0
 end_operator
 begin_operator
 end-inverse-splice-2 g11 g11
 0
 3
+0 2 1 10
 0 3 22 9
 0 13 19 1
-0 2 1 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 g11 g84
 0
 3
+0 2 1 10
 0 3 22 9
 0 14 19 1
-0 2 1 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 g11 sub1
 0
 3
+0 2 1 10
 0 3 22 9
 0 15 19 1
-0 2 1 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 g11 sub2
 0
 3
+0 2 1 10
 0 3 22 9
 0 16 19 1
-0 2 1 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 g11 sub3
 0
 3
+0 2 1 10
 0 3 22 9
 0 17 19 1
-0 2 1 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 g11 sub4
 0
 3
+0 2 1 10
 0 3 22 9
 0 18 19 1
-0 2 1 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 g11 sub5
 0
 3
+0 2 1 10
 0 3 22 9
 0 19 19 1
-0 2 1 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 g11 sub6
 0
 3
+0 2 1 10
 0 3 22 9
 0 20 19 1
-0 2 1 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 g11 sub7
 0
 3
+0 2 1 10
 0 3 22 9
 0 21 19 1
-0 2 1 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 g84 g11
 0
 3
+0 2 2 10
 0 3 22 9
 0 13 19 2
-0 2 2 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 g84 g84
 0
 3
+0 2 2 10
 0 3 22 9
 0 14 19 2
-0 2 2 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 g84 sub1
 0
 3
+0 2 2 10
 0 3 22 9
 0 15 19 2
-0 2 2 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 g84 sub2
 0
 3
+0 2 2 10
 0 3 22 9
 0 16 19 2
-0 2 2 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 g84 sub3
 0
 3
+0 2 2 10
 0 3 22 9
 0 17 19 2
-0 2 2 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 g84 sub4
 0
 3
+0 2 2 10
 0 3 22 9
 0 18 19 2
-0 2 2 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 g84 sub5
 0
 3
+0 2 2 10
 0 3 22 9
 0 19 19 2
-0 2 2 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 g84 sub6
 0
 3
+0 2 2 10
 0 3 22 9
 0 20 19 2
-0 2 2 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 g84 sub7
 0
 3
+0 2 2 10
 0 3 22 9
 0 21 19 2
-0 2 2 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub1 g11
 0
 3
+0 2 3 10
 0 3 22 9
 0 13 19 3
-0 2 3 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub1 g84
 0
 3
+0 2 3 10
 0 3 22 9
 0 14 19 3
-0 2 3 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub1 sub1
 0
 3
+0 2 3 10
 0 3 22 9
 0 15 19 3
-0 2 3 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub1 sub2
 0
 3
+0 2 3 10
 0 3 22 9
 0 16 19 3
-0 2 3 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub1 sub3
 0
 3
+0 2 3 10
 0 3 22 9
 0 17 19 3
-0 2 3 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub1 sub4
 0
 3
+0 2 3 10
 0 3 22 9
 0 18 19 3
-0 2 3 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub1 sub5
 0
 3
+0 2 3 10
 0 3 22 9
 0 19 19 3
-0 2 3 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub1 sub6
 0
 3
+0 2 3 10
 0 3 22 9
 0 20 19 3
-0 2 3 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub1 sub7
 0
 3
+0 2 3 10
 0 3 22 9
 0 21 19 3
-0 2 3 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub2 g11
 0
 3
+0 2 4 10
 0 3 22 9
 0 13 19 4
-0 2 4 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub2 g84
 0
 3
+0 2 4 10
 0 3 22 9
 0 14 19 4
-0 2 4 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub2 sub1
 0
 3
+0 2 4 10
 0 3 22 9
 0 15 19 4
-0 2 4 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub2 sub2
 0
 3
+0 2 4 10
 0 3 22 9
 0 16 19 4
-0 2 4 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub2 sub3
 0
 3
+0 2 4 10
 0 3 22 9
 0 17 19 4
-0 2 4 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub2 sub4
 0
 3
+0 2 4 10
 0 3 22 9
 0 18 19 4
-0 2 4 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub2 sub5
 0
 3
+0 2 4 10
 0 3 22 9
 0 19 19 4
-0 2 4 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub2 sub6
 0
 3
+0 2 4 10
 0 3 22 9
 0 20 19 4
-0 2 4 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub2 sub7
 0
 3
+0 2 4 10
 0 3 22 9
 0 21 19 4
-0 2 4 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub3 g11
 0
 3
+0 2 5 10
 0 3 22 9
 0 13 19 5
-0 2 5 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub3 g84
 0
 3
+0 2 5 10
 0 3 22 9
 0 14 19 5
-0 2 5 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub3 sub1
 0
 3
+0 2 5 10
 0 3 22 9
 0 15 19 5
-0 2 5 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub3 sub2
 0
 3
+0 2 5 10
 0 3 22 9
 0 16 19 5
-0 2 5 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub3 sub3
 0
 3
+0 2 5 10
 0 3 22 9
 0 17 19 5
-0 2 5 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub3 sub4
 0
 3
+0 2 5 10
 0 3 22 9
 0 18 19 5
-0 2 5 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub3 sub5
 0
 3
+0 2 5 10
 0 3 22 9
 0 19 19 5
-0 2 5 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub3 sub6
 0
 3
+0 2 5 10
 0 3 22 9
 0 20 19 5
-0 2 5 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub3 sub7
 0
 3
+0 2 5 10
 0 3 22 9
 0 21 19 5
-0 2 5 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub4 g11
 0
 3
+0 2 6 10
 0 3 22 9
 0 13 19 6
-0 2 6 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub4 g84
 0
 3
+0 2 6 10
 0 3 22 9
 0 14 19 6
-0 2 6 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub4 sub1
 0
 3
+0 2 6 10
 0 3 22 9
 0 15 19 6
-0 2 6 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub4 sub2
 0
 3
+0 2 6 10
 0 3 22 9
 0 16 19 6
-0 2 6 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub4 sub3
 0
 3
+0 2 6 10
 0 3 22 9
 0 17 19 6
-0 2 6 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub4 sub4
 0
 3
+0 2 6 10
 0 3 22 9
 0 18 19 6
-0 2 6 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub4 sub5
 0
 3
+0 2 6 10
 0 3 22 9
 0 19 19 6
-0 2 6 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub4 sub6
 0
 3
+0 2 6 10
 0 3 22 9
 0 20 19 6
-0 2 6 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub4 sub7
 0
 3
+0 2 6 10
 0 3 22 9
 0 21 19 6
-0 2 6 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub5 g11
 0
 3
+0 2 7 10
 0 3 22 9
 0 13 19 7
-0 2 7 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub5 g84
 0
 3
+0 2 7 10
 0 3 22 9
 0 14 19 7
-0 2 7 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub5 sub1
 0
 3
+0 2 7 10
 0 3 22 9
 0 15 19 7
-0 2 7 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub5 sub2
 0
 3
+0 2 7 10
 0 3 22 9
 0 16 19 7
-0 2 7 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub5 sub3
 0
 3
+0 2 7 10
 0 3 22 9
 0 17 19 7
-0 2 7 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub5 sub4
 0
 3
+0 2 7 10
 0 3 22 9
 0 18 19 7
-0 2 7 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub5 sub5
 0
 3
+0 2 7 10
 0 3 22 9
 0 19 19 7
-0 2 7 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub5 sub6
 0
 3
+0 2 7 10
 0 3 22 9
 0 20 19 7
-0 2 7 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub5 sub7
 0
 3
+0 2 7 10
 0 3 22 9
 0 21 19 7
-0 2 7 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub6 g11
 0
 3
+0 2 8 10
 0 3 22 9
 0 13 19 8
-0 2 8 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub6 g84
 0
 3
+0 2 8 10
 0 3 22 9
 0 14 19 8
-0 2 8 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub6 sub1
 0
 3
+0 2 8 10
 0 3 22 9
 0 15 19 8
-0 2 8 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub6 sub2
 0
 3
+0 2 8 10
 0 3 22 9
 0 16 19 8
-0 2 8 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub6 sub3
 0
 3
+0 2 8 10
 0 3 22 9
 0 17 19 8
-0 2 8 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub6 sub4
 0
 3
+0 2 8 10
 0 3 22 9
 0 18 19 8
-0 2 8 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub6 sub5
 0
 3
+0 2 8 10
 0 3 22 9
 0 19 19 8
-0 2 8 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub6 sub6
 0
 3
+0 2 8 10
 0 3 22 9
 0 20 19 8
-0 2 8 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub6 sub7
 0
 3
+0 2 8 10
 0 3 22 9
 0 21 19 8
-0 2 8 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub7 g11
 0
 3
+0 2 9 10
 0 3 22 9
 0 13 19 9
-0 2 9 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub7 g84
 0
 3
+0 2 9 10
 0 3 22 9
 0 14 19 9
-0 2 9 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub7 sub1
 0
 3
+0 2 9 10
 0 3 22 9
 0 15 19 9
-0 2 9 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub7 sub2
 0
 3
+0 2 9 10
 0 3 22 9
 0 16 19 9
-0 2 9 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub7 sub3
 0
 3
+0 2 9 10
 0 3 22 9
 0 17 19 9
-0 2 9 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub7 sub4
 0
 3
+0 2 9 10
 0 3 22 9
 0 18 19 9
-0 2 9 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub7 sub5
 0
 3
+0 2 9 10
 0 3 22 9
 0 19 19 9
-0 2 9 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub7 sub6
 0
 3
+0 2 9 10
 0 3 22 9
 0 20 19 9
-0 2 9 10
 0
 end_operator
 begin_operator
 end-inverse-splice-2 sub7 sub7
 0
 3
+0 2 9 10
 0 3 22 9
 0 21 19 9
-0 2 9 10
 0
 end_operator
 begin_operator
@@ -12023,99 +12023,99 @@ end-splice-1 g11 g11
 1
 2 1
 3
+0 1 0 9
 0 3 32 33
 0 13 10 1
-0 1 0 9
 0
 end_operator
 begin_operator
 end-splice-1 g11 g84
 0
 4
+0 1 0 9
+0 2 2 1
 0 3 32 33
 0 13 10 2
-0 2 2 1
-0 1 0 9
 0
 end_operator
 begin_operator
 end-splice-1 g11 sub1
 0
 4
+0 1 0 9
+0 2 3 1
 0 3 32 33
 0 13 10 3
-0 2 3 1
-0 1 0 9
 0
 end_operator
 begin_operator
 end-splice-1 g11 sub2
 0
 4
+0 1 0 9
+0 2 4 1
 0 3 32 33
 0 13 10 4
-0 2 4 1
-0 1 0 9
 0
 end_operator
 begin_operator
 end-splice-1 g11 sub3
 0
 4
+0 1 0 9
+0 2 5 1
 0 3 32 33
 0 13 10 5
-0 2 5 1
-0 1 0 9
 0
 end_operator
 begin_operator
 end-splice-1 g11 sub4
 0
 4
+0 1 0 9
+0 2 6 1
 0 3 32 33
 0 13 10 6
-0 2 6 1
-0 1 0 9
 0
 end_operator
 begin_operator
 end-splice-1 g11 sub5
 0
 4
+0 1 0 9
+0 2 7 1
 0 3 32 33
 0 13 10 7
-0 2 7 1
-0 1 0 9
 0
 end_operator
 begin_operator
 end-splice-1 g11 sub6
 0
 4
+0 1 0 9
+0 2 8 1
 0 3 32 33
 0 13 10 8
-0 2 8 1
-0 1 0 9
 0
 end_operator
 begin_operator
 end-splice-1 g11 sub7
 0
 4
+0 1 0 9
+0 2 9 1
 0 3 32 33
 0 13 10 9
-0 2 9 1
-0 1 0 9
 0
 end_operator
 begin_operator
 end-splice-1 g84 g11
 0
 4
+0 1 1 9
+0 2 1 2
 0 3 32 33
 0 14 10 1
-0 2 1 2
-0 1 1 9
 0
 end_operator
 begin_operator
@@ -12123,99 +12123,99 @@ end-splice-1 g84 g84
 1
 2 2
 3
+0 1 1 9
 0 3 32 33
 0 14 10 2
-0 1 1 9
 0
 end_operator
 begin_operator
 end-splice-1 g84 sub1
 0
 4
+0 1 1 9
+0 2 3 2
 0 3 32 33
 0 14 10 3
-0 2 3 2
-0 1 1 9
 0
 end_operator
 begin_operator
 end-splice-1 g84 sub2
 0
 4
+0 1 1 9
+0 2 4 2
 0 3 32 33
 0 14 10 4
-0 2 4 2
-0 1 1 9
 0
 end_operator
 begin_operator
 end-splice-1 g84 sub3
 0
 4
+0 1 1 9
+0 2 5 2
 0 3 32 33
 0 14 10 5
-0 2 5 2
-0 1 1 9
 0
 end_operator
 begin_operator
 end-splice-1 g84 sub4
 0
 4
+0 1 1 9
+0 2 6 2
 0 3 32 33
 0 14 10 6
-0 2 6 2
-0 1 1 9
 0
 end_operator
 begin_operator
 end-splice-1 g84 sub5
 0
 4
+0 1 1 9
+0 2 7 2
 0 3 32 33
 0 14 10 7
-0 2 7 2
-0 1 1 9
 0
 end_operator
 begin_operator
 end-splice-1 g84 sub6
 0
 4
+0 1 1 9
+0 2 8 2
 0 3 32 33
 0 14 10 8
-0 2 8 2
-0 1 1 9
 0
 end_operator
 begin_operator
 end-splice-1 g84 sub7
 0
 4
+0 1 1 9
+0 2 9 2
 0 3 32 33
 0 14 10 9
-0 2 9 2
-0 1 1 9
 0
 end_operator
 begin_operator
 end-splice-1 sub1 g11
 0
 4
+0 1 2 9
+0 2 1 3
 0 3 32 33
 0 15 10 1
-0 2 1 3
-0 1 2 9
 0
 end_operator
 begin_operator
 end-splice-1 sub1 g84
 0
 4
+0 1 2 9
+0 2 2 3
 0 3 32 33
 0 15 10 2
-0 2 2 3
-0 1 2 9
 0
 end_operator
 begin_operator
@@ -12223,99 +12223,99 @@ end-splice-1 sub1 sub1
 1
 2 3
 3
+0 1 2 9
 0 3 32 33
 0 15 10 3
-0 1 2 9
 0
 end_operator
 begin_operator
 end-splice-1 sub1 sub2
 0
 4
+0 1 2 9
+0 2 4 3
 0 3 32 33
 0 15 10 4
-0 2 4 3
-0 1 2 9
 0
 end_operator
 begin_operator
 end-splice-1 sub1 sub3
 0
 4
+0 1 2 9
+0 2 5 3
 0 3 32 33
 0 15 10 5
-0 2 5 3
-0 1 2 9
 0
 end_operator
 begin_operator
 end-splice-1 sub1 sub4
 0
 4
+0 1 2 9
+0 2 6 3
 0 3 32 33
 0 15 10 6
-0 2 6 3
-0 1 2 9
 0
 end_operator
 begin_operator
 end-splice-1 sub1 sub5
 0
 4
+0 1 2 9
+0 2 7 3
 0 3 32 33
 0 15 10 7
-0 2 7 3
-0 1 2 9
 0
 end_operator
 begin_operator
 end-splice-1 sub1 sub6
 0
 4
+0 1 2 9
+0 2 8 3
 0 3 32 33
 0 15 10 8
-0 2 8 3
-0 1 2 9
 0
 end_operator
 begin_operator
 end-splice-1 sub1 sub7
 0
 4
+0 1 2 9
+0 2 9 3
 0 3 32 33
 0 15 10 9
-0 2 9 3
-0 1 2 9
 0
 end_operator
 begin_operator
 end-splice-1 sub2 g11
 0
 4
+0 1 3 9
+0 2 1 4
 0 3 32 33
 0 16 10 1
-0 2 1 4
-0 1 3 9
 0
 end_operator
 begin_operator
 end-splice-1 sub2 g84
 0
 4
+0 1 3 9
+0 2 2 4
 0 3 32 33
 0 16 10 2
-0 2 2 4
-0 1 3 9
 0
 end_operator
 begin_operator
 end-splice-1 sub2 sub1
 0
 4
+0 1 3 9
+0 2 3 4
 0 3 32 33
 0 16 10 3
-0 2 3 4
-0 1 3 9
 0
 end_operator
 begin_operator
@@ -12323,99 +12323,99 @@ end-splice-1 sub2 sub2
 1
 2 4
 3
+0 1 3 9
 0 3 32 33
 0 16 10 4
-0 1 3 9
 0
 end_operator
 begin_operator
 end-splice-1 sub2 sub3
 0
 4
+0 1 3 9
+0 2 5 4
 0 3 32 33
 0 16 10 5
-0 2 5 4
-0 1 3 9
 0
 end_operator
 begin_operator
 end-splice-1 sub2 sub4
 0
 4
+0 1 3 9
+0 2 6 4
 0 3 32 33
 0 16 10 6
-0 2 6 4
-0 1 3 9
 0
 end_operator
 begin_operator
 end-splice-1 sub2 sub5
 0
 4
+0 1 3 9
+0 2 7 4
 0 3 32 33
 0 16 10 7
-0 2 7 4
-0 1 3 9
 0
 end_operator
 begin_operator
 end-splice-1 sub2 sub6
 0
 4
+0 1 3 9
+0 2 8 4
 0 3 32 33
 0 16 10 8
-0 2 8 4
-0 1 3 9
 0
 end_operator
 begin_operator
 end-splice-1 sub2 sub7
 0
 4
+0 1 3 9
+0 2 9 4
 0 3 32 33
 0 16 10 9
-0 2 9 4
-0 1 3 9
 0
 end_operator
 begin_operator
 end-splice-1 sub3 g11
 0
 4
+0 1 4 9
+0 2 1 5
 0 3 32 33
 0 17 10 1
-0 2 1 5
-0 1 4 9
 0
 end_operator
 begin_operator
 end-splice-1 sub3 g84
 0
 4
+0 1 4 9
+0 2 2 5
 0 3 32 33
 0 17 10 2
-0 2 2 5
-0 1 4 9
 0
 end_operator
 begin_operator
 end-splice-1 sub3 sub1
 0
 4
+0 1 4 9
+0 2 3 5
 0 3 32 33
 0 17 10 3
-0 2 3 5
-0 1 4 9
 0
 end_operator
 begin_operator
 end-splice-1 sub3 sub2
 0
 4
+0 1 4 9
+0 2 4 5
 0 3 32 33
 0 17 10 4
-0 2 4 5
-0 1 4 9
 0
 end_operator
 begin_operator
@@ -12423,99 +12423,99 @@ end-splice-1 sub3 sub3
 1
 2 5
 3
+0 1 4 9
 0 3 32 33
 0 17 10 5
-0 1 4 9
 0
 end_operator
 begin_operator
 end-splice-1 sub3 sub4
 0
 4
+0 1 4 9
+0 2 6 5
 0 3 32 33
 0 17 10 6
-0 2 6 5
-0 1 4 9
 0
 end_operator
 begin_operator
 end-splice-1 sub3 sub5
 0
 4
+0 1 4 9
+0 2 7 5
 0 3 32 33
 0 17 10 7
-0 2 7 5
-0 1 4 9
 0
 end_operator
 begin_operator
 end-splice-1 sub3 sub6
 0
 4
+0 1 4 9
+0 2 8 5
 0 3 32 33
 0 17 10 8
-0 2 8 5
-0 1 4 9
 0
 end_operator
 begin_operator
 end-splice-1 sub3 sub7
 0
 4
+0 1 4 9
+0 2 9 5
 0 3 32 33
 0 17 10 9
-0 2 9 5
-0 1 4 9
 0
 end_operator
 begin_operator
 end-splice-1 sub4 g11
 0
 4
+0 1 5 9
+0 2 1 6
 0 3 32 33
 0 18 10 1
-0 2 1 6
-0 1 5 9
 0
 end_operator
 begin_operator
 end-splice-1 sub4 g84
 0
 4
+0 1 5 9
+0 2 2 6
 0 3 32 33
 0 18 10 2
-0 2 2 6
-0 1 5 9
 0
 end_operator
 begin_operator
 end-splice-1 sub4 sub1
 0
 4
+0 1 5 9
+0 2 3 6
 0 3 32 33
 0 18 10 3
-0 2 3 6
-0 1 5 9
 0
 end_operator
 begin_operator
 end-splice-1 sub4 sub2
 0
 4
+0 1 5 9
+0 2 4 6
 0 3 32 33
 0 18 10 4
-0 2 4 6
-0 1 5 9
 0
 end_operator
 begin_operator
 end-splice-1 sub4 sub3
 0
 4
+0 1 5 9
+0 2 5 6
 0 3 32 33
 0 18 10 5
-0 2 5 6
-0 1 5 9
 0
 end_operator
 begin_operator
@@ -12523,99 +12523,99 @@ end-splice-1 sub4 sub4
 1
 2 6
 3
+0 1 5 9
 0 3 32 33
 0 18 10 6
-0 1 5 9
 0
 end_operator
 begin_operator
 end-splice-1 sub4 sub5
 0
 4
+0 1 5 9
+0 2 7 6
 0 3 32 33
 0 18 10 7
-0 2 7 6
-0 1 5 9
 0
 end_operator
 begin_operator
 end-splice-1 sub4 sub6
 0
 4
+0 1 5 9
+0 2 8 6
 0 3 32 33
 0 18 10 8
-0 2 8 6
-0 1 5 9
 0
 end_operator
 begin_operator
 end-splice-1 sub4 sub7
 0
 4
+0 1 5 9
+0 2 9 6
 0 3 32 33
 0 18 10 9
-0 2 9 6
-0 1 5 9
 0
 end_operator
 begin_operator
 end-splice-1 sub5 g11
 0
 4
+0 1 6 9
+0 2 1 7
 0 3 32 33
 0 19 10 1
-0 2 1 7
-0 1 6 9
 0
 end_operator
 begin_operator
 end-splice-1 sub5 g84
 0
 4
+0 1 6 9
+0 2 2 7
 0 3 32 33
 0 19 10 2
-0 2 2 7
-0 1 6 9
 0
 end_operator
 begin_operator
 end-splice-1 sub5 sub1
 0
 4
+0 1 6 9
+0 2 3 7
 0 3 32 33
 0 19 10 3
-0 2 3 7
-0 1 6 9
 0
 end_operator
 begin_operator
 end-splice-1 sub5 sub2
 0
 4
+0 1 6 9
+0 2 4 7
 0 3 32 33
 0 19 10 4
-0 2 4 7
-0 1 6 9
 0
 end_operator
 begin_operator
 end-splice-1 sub5 sub3
 0
 4
+0 1 6 9
+0 2 5 7
 0 3 32 33
 0 19 10 5
-0 2 5 7
-0 1 6 9
 0
 end_operator
 begin_operator
 end-splice-1 sub5 sub4
 0
 4
+0 1 6 9
+0 2 6 7
 0 3 32 33
 0 19 10 6
-0 2 6 7
-0 1 6 9
 0
 end_operator
 begin_operator
@@ -12623,99 +12623,99 @@ end-splice-1 sub5 sub5
 1
 2 7
 3
+0 1 6 9
 0 3 32 33
 0 19 10 7
-0 1 6 9
 0
 end_operator
 begin_operator
 end-splice-1 sub5 sub6
 0
 4
+0 1 6 9
+0 2 8 7
 0 3 32 33
 0 19 10 8
-0 2 8 7
-0 1 6 9
 0
 end_operator
 begin_operator
 end-splice-1 sub5 sub7
 0
 4
+0 1 6 9
+0 2 9 7
 0 3 32 33
 0 19 10 9
-0 2 9 7
-0 1 6 9
 0
 end_operator
 begin_operator
 end-splice-1 sub6 g11
 0
 4
+0 1 7 9
+0 2 1 8
 0 3 32 33
 0 20 10 1
-0 2 1 8
-0 1 7 9
 0
 end_operator
 begin_operator
 end-splice-1 sub6 g84
 0
 4
+0 1 7 9
+0 2 2 8
 0 3 32 33
 0 20 10 2
-0 2 2 8
-0 1 7 9
 0
 end_operator
 begin_operator
 end-splice-1 sub6 sub1
 0
 4
+0 1 7 9
+0 2 3 8
 0 3 32 33
 0 20 10 3
-0 2 3 8
-0 1 7 9
 0
 end_operator
 begin_operator
 end-splice-1 sub6 sub2
 0
 4
+0 1 7 9
+0 2 4 8
 0 3 32 33
 0 20 10 4
-0 2 4 8
-0 1 7 9
 0
 end_operator
 begin_operator
 end-splice-1 sub6 sub3
 0
 4
+0 1 7 9
+0 2 5 8
 0 3 32 33
 0 20 10 5
-0 2 5 8
-0 1 7 9
 0
 end_operator
 begin_operator
 end-splice-1 sub6 sub4
 0
 4
+0 1 7 9
+0 2 6 8
 0 3 32 33
 0 20 10 6
-0 2 6 8
-0 1 7 9
 0
 end_operator
 begin_operator
 end-splice-1 sub6 sub5
 0
 4
+0 1 7 9
+0 2 7 8
 0 3 32 33
 0 20 10 7
-0 2 7 8
-0 1 7 9
 0
 end_operator
 begin_operator
@@ -12723,99 +12723,99 @@ end-splice-1 sub6 sub6
 1
 2 8
 3
+0 1 7 9
 0 3 32 33
 0 20 10 8
-0 1 7 9
 0
 end_operator
 begin_operator
 end-splice-1 sub6 sub7
 0
 4
+0 1 7 9
+0 2 9 8
 0 3 32 33
 0 20 10 9
-0 2 9 8
-0 1 7 9
 0
 end_operator
 begin_operator
 end-splice-1 sub7 g11
 0
 4
+0 1 8 9
+0 2 1 9
 0 3 32 33
 0 21 10 1
-0 2 1 9
-0 1 8 9
 0
 end_operator
 begin_operator
 end-splice-1 sub7 g84
 0
 4
+0 1 8 9
+0 2 2 9
 0 3 32 33
 0 21 10 2
-0 2 2 9
-0 1 8 9
 0
 end_operator
 begin_operator
 end-splice-1 sub7 sub1
 0
 4
+0 1 8 9
+0 2 3 9
 0 3 32 33
 0 21 10 3
-0 2 3 9
-0 1 8 9
 0
 end_operator
 begin_operator
 end-splice-1 sub7 sub2
 0
 4
+0 1 8 9
+0 2 4 9
 0 3 32 33
 0 21 10 4
-0 2 4 9
-0 1 8 9
 0
 end_operator
 begin_operator
 end-splice-1 sub7 sub3
 0
 4
+0 1 8 9
+0 2 5 9
 0 3 32 33
 0 21 10 5
-0 2 5 9
-0 1 8 9
 0
 end_operator
 begin_operator
 end-splice-1 sub7 sub4
 0
 4
+0 1 8 9
+0 2 6 9
 0 3 32 33
 0 21 10 6
-0 2 6 9
-0 1 8 9
 0
 end_operator
 begin_operator
 end-splice-1 sub7 sub5
 0
 4
+0 1 8 9
+0 2 7 9
 0 3 32 33
 0 21 10 7
-0 2 7 9
-0 1 8 9
 0
 end_operator
 begin_operator
 end-splice-1 sub7 sub6
 0
 4
+0 1 8 9
+0 2 8 9
 0 3 32 33
 0 21 10 8
-0 2 8 9
-0 1 8 9
 0
 end_operator
 begin_operator
@@ -12823,738 +12823,738 @@ end-splice-1 sub7 sub7
 1
 2 9
 3
+0 1 8 9
 0 3 32 33
 0 21 10 9
-0 1 8 9
 0
 end_operator
 begin_operator
 end-splice-2 g11 g11
 0
 3
+0 2 1 10
 0 3 33 9
 0 13 19 1
-0 2 1 10
 0
 end_operator
 begin_operator
 end-splice-2 g11 g84
 0
 3
+0 2 1 10
 0 3 33 9
 0 14 19 1
-0 2 1 10
 0
 end_operator
 begin_operator
 end-splice-2 g11 sub1
 0
 3
+0 2 1 10
 0 3 33 9
 0 15 19 1
-0 2 1 10
 0
 end_operator
 begin_operator
 end-splice-2 g11 sub2
 0
 3
+0 2 1 10
 0 3 33 9
 0 16 19 1
-0 2 1 10
 0
 end_operator
 begin_operator
 end-splice-2 g11 sub3
 0
 3
+0 2 1 10
 0 3 33 9
 0 17 19 1
-0 2 1 10
 0
 end_operator
 begin_operator
 end-splice-2 g11 sub4
 0
 3
+0 2 1 10
 0 3 33 9
 0 18 19 1
-0 2 1 10
 0
 end_operator
 begin_operator
 end-splice-2 g11 sub5
 0
 3
+0 2 1 10
 0 3 33 9
 0 19 19 1
-0 2 1 10
 0
 end_operator
 begin_operator
 end-splice-2 g11 sub6
 0
 3
+0 2 1 10
 0 3 33 9
 0 20 19 1
-0 2 1 10
 0
 end_operator
 begin_operator
 end-splice-2 g11 sub7
 0
 3
+0 2 1 10
 0 3 33 9
 0 21 19 1
-0 2 1 10
 0
 end_operator
 begin_operator
 end-splice-2 g84 g11
 0
 3
+0 2 2 10
 0 3 33 9
 0 13 19 2
-0 2 2 10
 0
 end_operator
 begin_operator
 end-splice-2 g84 g84
 0
 3
+0 2 2 10
 0 3 33 9
 0 14 19 2
-0 2 2 10
 0
 end_operator
 begin_operator
 end-splice-2 g84 sub1
 0
 3
+0 2 2 10
 0 3 33 9
 0 15 19 2
-0 2 2 10
 0
 end_operator
 begin_operator
 end-splice-2 g84 sub2
 0
 3
+0 2 2 10
 0 3 33 9
 0 16 19 2
-0 2 2 10
 0
 end_operator
 begin_operator
 end-splice-2 g84 sub3
 0
 3
+0 2 2 10
 0 3 33 9
 0 17 19 2
-0 2 2 10
 0
 end_operator
 begin_operator
 end-splice-2 g84 sub4
 0
 3
+0 2 2 10
 0 3 33 9
 0 18 19 2
-0 2 2 10
 0
 end_operator
 begin_operator
 end-splice-2 g84 sub5
 0
 3
+0 2 2 10
 0 3 33 9
 0 19 19 2
-0 2 2 10
 0
 end_operator
 begin_operator
 end-splice-2 g84 sub6
 0
 3
+0 2 2 10
 0 3 33 9
 0 20 19 2
-0 2 2 10
 0
 end_operator
 begin_operator
 end-splice-2 g84 sub7
 0
 3
+0 2 2 10
 0 3 33 9
 0 21 19 2
-0 2 2 10
 0
 end_operator
 begin_operator
 end-splice-2 sub1 g11
 0
 3
+0 2 3 10
 0 3 33 9
 0 13 19 3
-0 2 3 10
 0
 end_operator
 begin_operator
 end-splice-2 sub1 g84
 0
 3
+0 2 3 10
 0 3 33 9
 0 14 19 3
-0 2 3 10
 0
 end_operator
 begin_operator
 end-splice-2 sub1 sub1
 0
 3
+0 2 3 10
 0 3 33 9
 0 15 19 3
-0 2 3 10
 0
 end_operator
 begin_operator
 end-splice-2 sub1 sub2
 0
 3
+0 2 3 10
 0 3 33 9
 0 16 19 3
-0 2 3 10
 0
 end_operator
 begin_operator
 end-splice-2 sub1 sub3
 0
 3
+0 2 3 10
 0 3 33 9
 0 17 19 3
-0 2 3 10
 0
 end_operator
 begin_operator
 end-splice-2 sub1 sub4
 0
 3
+0 2 3 10
 0 3 33 9
 0 18 19 3
-0 2 3 10
 0
 end_operator
 begin_operator
 end-splice-2 sub1 sub5
 0
 3
+0 2 3 10
 0 3 33 9
 0 19 19 3
-0 2 3 10
 0
 end_operator
 begin_operator
 end-splice-2 sub1 sub6
 0
 3
+0 2 3 10
 0 3 33 9
 0 20 19 3
-0 2 3 10
 0
 end_operator
 begin_operator
 end-splice-2 sub1 sub7
 0
 3
+0 2 3 10
 0 3 33 9
 0 21 19 3
-0 2 3 10
 0
 end_operator
 begin_operator
 end-splice-2 sub2 g11
 0
 3
+0 2 4 10
 0 3 33 9
 0 13 19 4
-0 2 4 10
 0
 end_operator
 begin_operator
 end-splice-2 sub2 g84
 0
 3
+0 2 4 10
 0 3 33 9
 0 14 19 4
-0 2 4 10
 0
 end_operator
 begin_operator
 end-splice-2 sub2 sub1
 0
 3
+0 2 4 10
 0 3 33 9
 0 15 19 4
-0 2 4 10
 0
 end_operator
 begin_operator
 end-splice-2 sub2 sub2
 0
 3
+0 2 4 10
 0 3 33 9
 0 16 19 4
-0 2 4 10
 0
 end_operator
 begin_operator
 end-splice-2 sub2 sub3
 0
 3
+0 2 4 10
 0 3 33 9
 0 17 19 4
-0 2 4 10
 0
 end_operator
 begin_operator
 end-splice-2 sub2 sub4
 0
 3
+0 2 4 10
 0 3 33 9
 0 18 19 4
-0 2 4 10
 0
 end_operator
 begin_operator
 end-splice-2 sub2 sub5
 0
 3
+0 2 4 10
 0 3 33 9
 0 19 19 4
-0 2 4 10
 0
 end_operator
 begin_operator
 end-splice-2 sub2 sub6
 0
 3
+0 2 4 10
 0 3 33 9
 0 20 19 4
-0 2 4 10
 0
 end_operator
 begin_operator
 end-splice-2 sub2 sub7
 0
 3
+0 2 4 10
 0 3 33 9
 0 21 19 4
-0 2 4 10
 0
 end_operator
 begin_operator
 end-splice-2 sub3 g11
 0
 3
+0 2 5 10
 0 3 33 9
 0 13 19 5
-0 2 5 10
 0
 end_operator
 begin_operator
 end-splice-2 sub3 g84
 0
 3
+0 2 5 10
 0 3 33 9
 0 14 19 5
-0 2 5 10
 0
 end_operator
 begin_operator
 end-splice-2 sub3 sub1
 0
 3
+0 2 5 10
 0 3 33 9
 0 15 19 5
-0 2 5 10
 0
 end_operator
 begin_operator
 end-splice-2 sub3 sub2
 0
 3
+0 2 5 10
 0 3 33 9
 0 16 19 5
-0 2 5 10
 0
 end_operator
 begin_operator
 end-splice-2 sub3 sub3
 0
 3
+0 2 5 10
 0 3 33 9
 0 17 19 5
-0 2 5 10
 0
 end_operator
 begin_operator
 end-splice-2 sub3 sub4
 0
 3
+0 2 5 10
 0 3 33 9
 0 18 19 5
-0 2 5 10
 0
 end_operator
 begin_operator
 end-splice-2 sub3 sub5
 0
 3
+0 2 5 10
 0 3 33 9
 0 19 19 5
-0 2 5 10
 0
 end_operator
 begin_operator
 end-splice-2 sub3 sub6
 0
 3
+0 2 5 10
 0 3 33 9
 0 20 19 5
-0 2 5 10
 0
 end_operator
 begin_operator
 end-splice-2 sub3 sub7
 0
 3
+0 2 5 10
 0 3 33 9
 0 21 19 5
-0 2 5 10
 0
 end_operator
 begin_operator
 end-splice-2 sub4 g11
 0
 3
+0 2 6 10
 0 3 33 9
 0 13 19 6
-0 2 6 10
 0
 end_operator
 begin_operator
 end-splice-2 sub4 g84
 0
 3
+0 2 6 10
 0 3 33 9
 0 14 19 6
-0 2 6 10
 0
 end_operator
 begin_operator
 end-splice-2 sub4 sub1
 0
 3
+0 2 6 10
 0 3 33 9
 0 15 19 6
-0 2 6 10
 0
 end_operator
 begin_operator
 end-splice-2 sub4 sub2
 0
 3
+0 2 6 10
 0 3 33 9
 0 16 19 6
-0 2 6 10
 0
 end_operator
 begin_operator
 end-splice-2 sub4 sub3
 0
 3
+0 2 6 10
 0 3 33 9
 0 17 19 6
-0 2 6 10
 0
 end_operator
 begin_operator
 end-splice-2 sub4 sub4
 0
 3
+0 2 6 10
 0 3 33 9
 0 18 19 6
-0 2 6 10
 0
 end_operator
 begin_operator
 end-splice-2 sub4 sub5
 0
 3
+0 2 6 10
 0 3 33 9
 0 19 19 6
-0 2 6 10
 0
 end_operator
 begin_operator
 end-splice-2 sub4 sub6
 0
 3
+0 2 6 10
 0 3 33 9
 0 20 19 6
-0 2 6 10
 0
 end_operator
 begin_operator
 end-splice-2 sub4 sub7
 0
 3
+0 2 6 10
 0 3 33 9
 0 21 19 6
-0 2 6 10
 0
 end_operator
 begin_operator
 end-splice-2 sub5 g11
 0
 3
+0 2 7 10
 0 3 33 9
 0 13 19 7
-0 2 7 10
 0
 end_operator
 begin_operator
 end-splice-2 sub5 g84
 0
 3
+0 2 7 10
 0 3 33 9
 0 14 19 7
-0 2 7 10
 0
 end_operator
 begin_operator
 end-splice-2 sub5 sub1
 0
 3
+0 2 7 10
 0 3 33 9
 0 15 19 7
-0 2 7 10
 0
 end_operator
 begin_operator
 end-splice-2 sub5 sub2
 0
 3
+0 2 7 10
 0 3 33 9
 0 16 19 7
-0 2 7 10
 0
 end_operator
 begin_operator
 end-splice-2 sub5 sub3
 0
 3
+0 2 7 10
 0 3 33 9
 0 17 19 7
-0 2 7 10
 0
 end_operator
 begin_operator
 end-splice-2 sub5 sub4
 0
 3
+0 2 7 10
 0 3 33 9
 0 18 19 7
-0 2 7 10
 0
 end_operator
 begin_operator
 end-splice-2 sub5 sub5
 0
 3
+0 2 7 10
 0 3 33 9
 0 19 19 7
-0 2 7 10
 0
 end_operator
 begin_operator
 end-splice-2 sub5 sub6
 0
 3
+0 2 7 10
 0 3 33 9
 0 20 19 7
-0 2 7 10
 0
 end_operator
 begin_operator
 end-splice-2 sub5 sub7
 0
 3
+0 2 7 10
 0 3 33 9
 0 21 19 7
-0 2 7 10
 0
 end_operator
 begin_operator
 end-splice-2 sub6 g11
 0
 3
+0 2 8 10
 0 3 33 9
 0 13 19 8
-0 2 8 10
 0
 end_operator
 begin_operator
 end-splice-2 sub6 g84
 0
 3
+0 2 8 10
 0 3 33 9
 0 14 19 8
-0 2 8 10
 0
 end_operator
 begin_operator
 end-splice-2 sub6 sub1
 0
 3
+0 2 8 10
 0 3 33 9
 0 15 19 8
-0 2 8 10
 0
 end_operator
 begin_operator
 end-splice-2 sub6 sub2
 0
 3
+0 2 8 10
 0 3 33 9
 0 16 19 8
-0 2 8 10
 0
 end_operator
 begin_operator
 end-splice-2 sub6 sub3
 0
 3
+0 2 8 10
 0 3 33 9
 0 17 19 8
-0 2 8 10
 0
 end_operator
 begin_operator
 end-splice-2 sub6 sub4
 0
 3
+0 2 8 10
 0 3 33 9
 0 18 19 8
-0 2 8 10
 0
 end_operator
 begin_operator
 end-splice-2 sub6 sub5
 0
 3
+0 2 8 10
 0 3 33 9
 0 19 19 8
-0 2 8 10
 0
 end_operator
 begin_operator
 end-splice-2 sub6 sub6
 0
 3
+0 2 8 10
 0 3 33 9
 0 20 19 8
-0 2 8 10
 0
 end_operator
 begin_operator
 end-splice-2 sub6 sub7
 0
 3
+0 2 8 10
 0 3 33 9
 0 21 19 8
-0 2 8 10
 0
 end_operator
 begin_operator
 end-splice-2 sub7 g11
 0
 3
+0 2 9 10
 0 3 33 9
 0 13 19 9
-0 2 9 10
 0
 end_operator
 begin_operator
 end-splice-2 sub7 g84
 0
 3
+0 2 9 10
 0 3 33 9
 0 14 19 9
-0 2 9 10
 0
 end_operator
 begin_operator
 end-splice-2 sub7 sub1
 0
 3
+0 2 9 10
 0 3 33 9
 0 15 19 9
-0 2 9 10
 0
 end_operator
 begin_operator
 end-splice-2 sub7 sub2
 0
 3
+0 2 9 10
 0 3 33 9
 0 16 19 9
-0 2 9 10
 0
 end_operator
 begin_operator
 end-splice-2 sub7 sub3
 0
 3
+0 2 9 10
 0 3 33 9
 0 17 19 9
-0 2 9 10
 0
 end_operator
 begin_operator
 end-splice-2 sub7 sub4
 0
 3
+0 2 9 10
 0 3 33 9
 0 18 19 9
-0 2 9 10
 0
 end_operator
 begin_operator
 end-splice-2 sub7 sub5
 0
 3
+0 2 9 10
 0 3 33 9
 0 19 19 9
-0 2 9 10
 0
 end_operator
 begin_operator
 end-splice-2 sub7 sub6
 0
 3
+0 2 9 10
 0 3 33 9
 0 20 19 9
-0 2 9 10
 0
 end_operator
 begin_operator
 end-splice-2 sub7 sub7
 0
 3
+0 2 9 10
 0 3 33 9
 0 21 19 9
-0 2 9 10
 0
 end_operator
 begin_operator
@@ -13705,72 +13705,72 @@ begin_operator
 reset-1 g11
 0
 2
-0 3 9 11
 0 0 0 9
+0 3 9 11
 0
 end_operator
 begin_operator
 reset-1 g84
 0
 2
-0 3 9 11
 0 0 1 9
+0 3 9 11
 0
 end_operator
 begin_operator
 reset-1 sub1
 0
 2
-0 3 9 11
 0 0 2 9
+0 3 9 11
 0
 end_operator
 begin_operator
 reset-1 sub2
 0
 2
-0 3 9 11
 0 0 3 9
+0 3 9 11
 0
 end_operator
 begin_operator
 reset-1 sub3
 0
 2
-0 3 9 11
 0 0 4 9
+0 3 9 11
 0
 end_operator
 begin_operator
 reset-1 sub4
 0
 2
-0 3 9 11
 0 0 5 9
+0 3 9 11
 0
 end_operator
 begin_operator
 reset-1 sub5
 0
 2
-0 3 9 11
 0 0 6 9
+0 3 9 11
 0
 end_operator
 begin_operator
 reset-1 sub6
 0
 2
-0 3 9 11
 0 0 7 9
+0 3 9 11
 0
 end_operator
 begin_operator
 reset-1 sub7
 0
 2
-0 3 9 11
 0 0 8 9
+0 3 9 11
 0
 end_operator
 0

@@ -1083,48 +1083,48 @@ end_variable
 5
 begin_mutex_group
 6
-13 53
 0 53
 1 53
 2 53
-14 53
 5 0
+13 53
+14 53
 end_mutex_group
 begin_mutex_group
 6
-13 54
 0 54
 1 54
 2 54
-14 54
 6 0
+13 54
+14 54
 end_mutex_group
 begin_mutex_group
 6
-13 55
 0 55
 1 55
 2 55
-14 55
 7 0
+13 55
+14 55
 end_mutex_group
 begin_mutex_group
 6
-13 56
 0 56
 1 56
 2 56
-14 56
 4 0
+13 56
+14 56
 end_mutex_group
 begin_mutex_group
 6
-13 57
 0 57
 1 57
 2 57
-14 57
 8 0
+13 57
+14 57
 end_mutex_group
 begin_state
 49
@@ -1195,8 +1195,8 @@ board-truck driver1 truck1 s0
 1
 9 0
 2
-0 13 33 53
 0 5 0 1
+0 13 33 53
 1
 end_operator
 begin_operator
@@ -1204,8 +1204,8 @@ board-truck driver1 truck1 s1
 1
 9 1
 2
-0 13 34 53
 0 5 0 1
+0 13 34 53
 1
 end_operator
 begin_operator
@@ -1213,8 +1213,8 @@ board-truck driver1 truck1 s10
 1
 9 2
 2
-0 13 35 53
 0 5 0 1
+0 13 35 53
 1
 end_operator
 begin_operator
@@ -1222,8 +1222,8 @@ board-truck driver1 truck1 s11
 1
 9 3
 2
-0 13 36 53
 0 5 0 1
+0 13 36 53
 1
 end_operator
 begin_operator
@@ -1231,8 +1231,8 @@ board-truck driver1 truck1 s12
 1
 9 4
 2
-0 13 37 53
 0 5 0 1
+0 13 37 53
 1
 end_operator
 begin_operator
@@ -1240,8 +1240,8 @@ board-truck driver1 truck1 s13
 1
 9 5
 2
-0 13 38 53
 0 5 0 1
+0 13 38 53
 1
 end_operator
 begin_operator
@@ -1249,8 +1249,8 @@ board-truck driver1 truck1 s14
 1
 9 6
 2
-0 13 39 53
 0 5 0 1
+0 13 39 53
 1
 end_operator
 begin_operator
@@ -1258,8 +1258,8 @@ board-truck driver1 truck1 s15
 1
 9 7
 2
-0 13 40 53
 0 5 0 1
+0 13 40 53
 1
 end_operator
 begin_operator
@@ -1267,8 +1267,8 @@ board-truck driver1 truck1 s16
 1
 9 8
 2
-0 13 41 53
 0 5 0 1
+0 13 41 53
 1
 end_operator
 begin_operator
@@ -1276,8 +1276,8 @@ board-truck driver1 truck1 s17
 1
 9 9
 2
-0 13 42 53
 0 5 0 1
+0 13 42 53
 1
 end_operator
 begin_operator
@@ -1285,8 +1285,8 @@ board-truck driver1 truck1 s18
 1
 9 10
 2
-0 13 43 53
 0 5 0 1
+0 13 43 53
 1
 end_operator
 begin_operator
@@ -1294,8 +1294,8 @@ board-truck driver1 truck1 s19
 1
 9 11
 2
-0 13 44 53
 0 5 0 1
+0 13 44 53
 1
 end_operator
 begin_operator
@@ -1303,8 +1303,8 @@ board-truck driver1 truck1 s2
 1
 9 12
 2
-0 13 45 53
 0 5 0 1
+0 13 45 53
 1
 end_operator
 begin_operator
@@ -1312,8 +1312,8 @@ board-truck driver1 truck1 s3
 1
 9 13
 2
-0 13 46 53
 0 5 0 1
+0 13 46 53
 1
 end_operator
 begin_operator
@@ -1321,8 +1321,8 @@ board-truck driver1 truck1 s4
 1
 9 14
 2
-0 13 47 53
 0 5 0 1
+0 13 47 53
 1
 end_operator
 begin_operator
@@ -1330,8 +1330,8 @@ board-truck driver1 truck1 s5
 1
 9 15
 2
-0 13 48 53
 0 5 0 1
+0 13 48 53
 1
 end_operator
 begin_operator
@@ -1339,8 +1339,8 @@ board-truck driver1 truck1 s6
 1
 9 16
 2
-0 13 49 53
 0 5 0 1
+0 13 49 53
 1
 end_operator
 begin_operator
@@ -1348,8 +1348,8 @@ board-truck driver1 truck1 s7
 1
 9 17
 2
-0 13 50 53
 0 5 0 1
+0 13 50 53
 1
 end_operator
 begin_operator
@@ -1357,8 +1357,8 @@ board-truck driver1 truck1 s8
 1
 9 18
 2
-0 13 51 53
 0 5 0 1
+0 13 51 53
 1
 end_operator
 begin_operator
@@ -1366,8 +1366,8 @@ board-truck driver1 truck1 s9
 1
 9 19
 2
-0 13 52 53
 0 5 0 1
+0 13 52 53
 1
 end_operator
 begin_operator
@@ -1375,8 +1375,8 @@ board-truck driver1 truck2 s0
 1
 10 0
 2
-0 13 33 54
 0 6 0 1
+0 13 33 54
 1
 end_operator
 begin_operator
@@ -1384,8 +1384,8 @@ board-truck driver1 truck2 s1
 1
 10 1
 2
-0 13 34 54
 0 6 0 1
+0 13 34 54
 1
 end_operator
 begin_operator
@@ -1393,8 +1393,8 @@ board-truck driver1 truck2 s10
 1
 10 2
 2
-0 13 35 54
 0 6 0 1
+0 13 35 54
 1
 end_operator
 begin_operator
@@ -1402,8 +1402,8 @@ board-truck driver1 truck2 s11
 1
 10 3
 2
-0 13 36 54
 0 6 0 1
+0 13 36 54
 1
 end_operator
 begin_operator
@@ -1411,8 +1411,8 @@ board-truck driver1 truck2 s12
 1
 10 4
 2
-0 13 37 54
 0 6 0 1
+0 13 37 54
 1
 end_operator
 begin_operator
@@ -1420,8 +1420,8 @@ board-truck driver1 truck2 s13
 1
 10 5
 2
-0 13 38 54
 0 6 0 1
+0 13 38 54
 1
 end_operator
 begin_operator
@@ -1429,8 +1429,8 @@ board-truck driver1 truck2 s14
 1
 10 6
 2
-0 13 39 54
 0 6 0 1
+0 13 39 54
 1
 end_operator
 begin_operator
@@ -1438,8 +1438,8 @@ board-truck driver1 truck2 s15
 1
 10 7
 2
-0 13 40 54
 0 6 0 1
+0 13 40 54
 1
 end_operator
 begin_operator
@@ -1447,8 +1447,8 @@ board-truck driver1 truck2 s16
 1
 10 8
 2
-0 13 41 54
 0 6 0 1
+0 13 41 54
 1
 end_operator
 begin_operator
@@ -1456,8 +1456,8 @@ board-truck driver1 truck2 s17
 1
 10 9
 2
-0 13 42 54
 0 6 0 1
+0 13 42 54
 1
 end_operator
 begin_operator
@@ -1465,8 +1465,8 @@ board-truck driver1 truck2 s18
 1
 10 10
 2
-0 13 43 54
 0 6 0 1
+0 13 43 54
 1
 end_operator
 begin_operator
@@ -1474,8 +1474,8 @@ board-truck driver1 truck2 s19
 1
 10 11
 2
-0 13 44 54
 0 6 0 1
+0 13 44 54
 1
 end_operator
 begin_operator
@@ -1483,8 +1483,8 @@ board-truck driver1 truck2 s2
 1
 10 12
 2
-0 13 45 54
 0 6 0 1
+0 13 45 54
 1
 end_operator
 begin_operator
@@ -1492,8 +1492,8 @@ board-truck driver1 truck2 s3
 1
 10 13
 2
-0 13 46 54
 0 6 0 1
+0 13 46 54
 1
 end_operator
 begin_operator
@@ -1501,8 +1501,8 @@ board-truck driver1 truck2 s4
 1
 10 14
 2
-0 13 47 54
 0 6 0 1
+0 13 47 54
 1
 end_operator
 begin_operator
@@ -1510,8 +1510,8 @@ board-truck driver1 truck2 s5
 1
 10 15
 2
-0 13 48 54
 0 6 0 1
+0 13 48 54
 1
 end_operator
 begin_operator
@@ -1519,8 +1519,8 @@ board-truck driver1 truck2 s6
 1
 10 16
 2
-0 13 49 54
 0 6 0 1
+0 13 49 54
 1
 end_operator
 begin_operator
@@ -1528,8 +1528,8 @@ board-truck driver1 truck2 s7
 1
 10 17
 2
-0 13 50 54
 0 6 0 1
+0 13 50 54
 1
 end_operator
 begin_operator
@@ -1537,8 +1537,8 @@ board-truck driver1 truck2 s8
 1
 10 18
 2
-0 13 51 54
 0 6 0 1
+0 13 51 54
 1
 end_operator
 begin_operator
@@ -1546,8 +1546,8 @@ board-truck driver1 truck2 s9
 1
 10 19
 2
-0 13 52 54
 0 6 0 1
+0 13 52 54
 1
 end_operator
 begin_operator
@@ -1555,8 +1555,8 @@ board-truck driver1 truck3 s0
 1
 11 0
 2
-0 13 33 55
 0 7 0 1
+0 13 33 55
 1
 end_operator
 begin_operator
@@ -1564,8 +1564,8 @@ board-truck driver1 truck3 s1
 1
 11 1
 2
-0 13 34 55
 0 7 0 1
+0 13 34 55
 1
 end_operator
 begin_operator
@@ -1573,8 +1573,8 @@ board-truck driver1 truck3 s10
 1
 11 2
 2
-0 13 35 55
 0 7 0 1
+0 13 35 55
 1
 end_operator
 begin_operator
@@ -1582,8 +1582,8 @@ board-truck driver1 truck3 s11
 1
 11 3
 2
-0 13 36 55
 0 7 0 1
+0 13 36 55
 1
 end_operator
 begin_operator
@@ -1591,8 +1591,8 @@ board-truck driver1 truck3 s12
 1
 11 4
 2
-0 13 37 55
 0 7 0 1
+0 13 37 55
 1
 end_operator
 begin_operator
@@ -1600,8 +1600,8 @@ board-truck driver1 truck3 s13
 1
 11 5
 2
-0 13 38 55
 0 7 0 1
+0 13 38 55
 1
 end_operator
 begin_operator
@@ -1609,8 +1609,8 @@ board-truck driver1 truck3 s14
 1
 11 6
 2
-0 13 39 55
 0 7 0 1
+0 13 39 55
 1
 end_operator
 begin_operator
@@ -1618,8 +1618,8 @@ board-truck driver1 truck3 s15
 1
 11 7
 2
-0 13 40 55
 0 7 0 1
+0 13 40 55
 1
 end_operator
 begin_operator
@@ -1627,8 +1627,8 @@ board-truck driver1 truck3 s16
 1
 11 8
 2
-0 13 41 55
 0 7 0 1
+0 13 41 55
 1
 end_operator
 begin_operator
@@ -1636,8 +1636,8 @@ board-truck driver1 truck3 s17
 1
 11 9
 2
-0 13 42 55
 0 7 0 1
+0 13 42 55
 1
 end_operator
 begin_operator
@@ -1645,8 +1645,8 @@ board-truck driver1 truck3 s18
 1
 11 10
 2
-0 13 43 55
 0 7 0 1
+0 13 43 55
 1
 end_operator
 begin_operator
@@ -1654,8 +1654,8 @@ board-truck driver1 truck3 s19
 1
 11 11
 2
-0 13 44 55
 0 7 0 1
+0 13 44 55
 1
 end_operator
 begin_operator
@@ -1663,8 +1663,8 @@ board-truck driver1 truck3 s2
 1
 11 12
 2
-0 13 45 55
 0 7 0 1
+0 13 45 55
 1
 end_operator
 begin_operator
@@ -1672,8 +1672,8 @@ board-truck driver1 truck3 s3
 1
 11 13
 2
-0 13 46 55
 0 7 0 1
+0 13 46 55
 1
 end_operator
 begin_operator
@@ -1681,8 +1681,8 @@ board-truck driver1 truck3 s4
 1
 11 14
 2
-0 13 47 55
 0 7 0 1
+0 13 47 55
 1
 end_operator
 begin_operator
@@ -1690,8 +1690,8 @@ board-truck driver1 truck3 s5
 1
 11 15
 2
-0 13 48 55
 0 7 0 1
+0 13 48 55
 1
 end_operator
 begin_operator
@@ -1699,8 +1699,8 @@ board-truck driver1 truck3 s6
 1
 11 16
 2
-0 13 49 55
 0 7 0 1
+0 13 49 55
 1
 end_operator
 begin_operator
@@ -1708,8 +1708,8 @@ board-truck driver1 truck3 s7
 1
 11 17
 2
-0 13 50 55
 0 7 0 1
+0 13 50 55
 1
 end_operator
 begin_operator
@@ -1717,8 +1717,8 @@ board-truck driver1 truck3 s8
 1
 11 18
 2
-0 13 51 55
 0 7 0 1
+0 13 51 55
 1
 end_operator
 begin_operator
@@ -1726,8 +1726,8 @@ board-truck driver1 truck3 s9
 1
 11 19
 2
-0 13 52 55
 0 7 0 1
+0 13 52 55
 1
 end_operator
 begin_operator
@@ -1735,8 +1735,8 @@ board-truck driver1 truck4 s0
 1
 3 0
 2
-0 13 33 56
 0 4 0 1
+0 13 33 56
 1
 end_operator
 begin_operator
@@ -1744,8 +1744,8 @@ board-truck driver1 truck4 s1
 1
 3 1
 2
-0 13 34 56
 0 4 0 1
+0 13 34 56
 1
 end_operator
 begin_operator
@@ -1753,8 +1753,8 @@ board-truck driver1 truck4 s10
 1
 3 2
 2
-0 13 35 56
 0 4 0 1
+0 13 35 56
 1
 end_operator
 begin_operator
@@ -1762,8 +1762,8 @@ board-truck driver1 truck4 s11
 1
 3 3
 2
-0 13 36 56
 0 4 0 1
+0 13 36 56
 1
 end_operator
 begin_operator
@@ -1771,8 +1771,8 @@ board-truck driver1 truck4 s12
 1
 3 4
 2
-0 13 37 56
 0 4 0 1
+0 13 37 56
 1
 end_operator
 begin_operator
@@ -1780,8 +1780,8 @@ board-truck driver1 truck4 s13
 1
 3 5
 2
-0 13 38 56
 0 4 0 1
+0 13 38 56
 1
 end_operator
 begin_operator
@@ -1789,8 +1789,8 @@ board-truck driver1 truck4 s14
 1
 3 6
 2
-0 13 39 56
 0 4 0 1
+0 13 39 56
 1
 end_operator
 begin_operator
@@ -1798,8 +1798,8 @@ board-truck driver1 truck4 s15
 1
 3 7
 2
-0 13 40 56
 0 4 0 1
+0 13 40 56
 1
 end_operator
 begin_operator
@@ -1807,8 +1807,8 @@ board-truck driver1 truck4 s16
 1
 3 8
 2
-0 13 41 56
 0 4 0 1
+0 13 41 56
 1
 end_operator
 begin_operator
@@ -1816,8 +1816,8 @@ board-truck driver1 truck4 s17
 1
 3 9
 2
-0 13 42 56
 0 4 0 1
+0 13 42 56
 1
 end_operator
 begin_operator
@@ -1825,8 +1825,8 @@ board-truck driver1 truck4 s18
 1
 3 10
 2
-0 13 43 56
 0 4 0 1
+0 13 43 56
 1
 end_operator
 begin_operator
@@ -1834,8 +1834,8 @@ board-truck driver1 truck4 s19
 1
 3 11
 2
-0 13 44 56
 0 4 0 1
+0 13 44 56
 1
 end_operator
 begin_operator
@@ -1843,8 +1843,8 @@ board-truck driver1 truck4 s2
 1
 3 12
 2
-0 13 45 56
 0 4 0 1
+0 13 45 56
 1
 end_operator
 begin_operator
@@ -1852,8 +1852,8 @@ board-truck driver1 truck4 s3
 1
 3 13
 2
-0 13 46 56
 0 4 0 1
+0 13 46 56
 1
 end_operator
 begin_operator
@@ -1861,8 +1861,8 @@ board-truck driver1 truck4 s4
 1
 3 14
 2
-0 13 47 56
 0 4 0 1
+0 13 47 56
 1
 end_operator
 begin_operator
@@ -1870,8 +1870,8 @@ board-truck driver1 truck4 s5
 1
 3 15
 2
-0 13 48 56
 0 4 0 1
+0 13 48 56
 1
 end_operator
 begin_operator
@@ -1879,8 +1879,8 @@ board-truck driver1 truck4 s6
 1
 3 16
 2
-0 13 49 56
 0 4 0 1
+0 13 49 56
 1
 end_operator
 begin_operator
@@ -1888,8 +1888,8 @@ board-truck driver1 truck4 s7
 1
 3 17
 2
-0 13 50 56
 0 4 0 1
+0 13 50 56
 1
 end_operator
 begin_operator
@@ -1897,8 +1897,8 @@ board-truck driver1 truck4 s8
 1
 3 18
 2
-0 13 51 56
 0 4 0 1
+0 13 51 56
 1
 end_operator
 begin_operator
@@ -1906,8 +1906,8 @@ board-truck driver1 truck4 s9
 1
 3 19
 2
-0 13 52 56
 0 4 0 1
+0 13 52 56
 1
 end_operator
 begin_operator
@@ -1915,8 +1915,8 @@ board-truck driver1 truck5 s0
 1
 12 0
 2
-0 13 33 57
 0 8 0 1
+0 13 33 57
 1
 end_operator
 begin_operator
@@ -1924,8 +1924,8 @@ board-truck driver1 truck5 s1
 1
 12 1
 2
-0 13 34 57
 0 8 0 1
+0 13 34 57
 1
 end_operator
 begin_operator
@@ -1933,8 +1933,8 @@ board-truck driver1 truck5 s10
 1
 12 2
 2
-0 13 35 57
 0 8 0 1
+0 13 35 57
 1
 end_operator
 begin_operator
@@ -1942,8 +1942,8 @@ board-truck driver1 truck5 s11
 1
 12 3
 2
-0 13 36 57
 0 8 0 1
+0 13 36 57
 1
 end_operator
 begin_operator
@@ -1951,8 +1951,8 @@ board-truck driver1 truck5 s12
 1
 12 4
 2
-0 13 37 57
 0 8 0 1
+0 13 37 57
 1
 end_operator
 begin_operator
@@ -1960,8 +1960,8 @@ board-truck driver1 truck5 s13
 1
 12 5
 2
-0 13 38 57
 0 8 0 1
+0 13 38 57
 1
 end_operator
 begin_operator
@@ -1969,8 +1969,8 @@ board-truck driver1 truck5 s14
 1
 12 6
 2
-0 13 39 57
 0 8 0 1
+0 13 39 57
 1
 end_operator
 begin_operator
@@ -1978,8 +1978,8 @@ board-truck driver1 truck5 s15
 1
 12 7
 2
-0 13 40 57
 0 8 0 1
+0 13 40 57
 1
 end_operator
 begin_operator
@@ -1987,8 +1987,8 @@ board-truck driver1 truck5 s16
 1
 12 8
 2
-0 13 41 57
 0 8 0 1
+0 13 41 57
 1
 end_operator
 begin_operator
@@ -1996,8 +1996,8 @@ board-truck driver1 truck5 s17
 1
 12 9
 2
-0 13 42 57
 0 8 0 1
+0 13 42 57
 1
 end_operator
 begin_operator
@@ -2005,8 +2005,8 @@ board-truck driver1 truck5 s18
 1
 12 10
 2
-0 13 43 57
 0 8 0 1
+0 13 43 57
 1
 end_operator
 begin_operator
@@ -2014,8 +2014,8 @@ board-truck driver1 truck5 s19
 1
 12 11
 2
-0 13 44 57
 0 8 0 1
+0 13 44 57
 1
 end_operator
 begin_operator
@@ -2023,8 +2023,8 @@ board-truck driver1 truck5 s2
 1
 12 12
 2
-0 13 45 57
 0 8 0 1
+0 13 45 57
 1
 end_operator
 begin_operator
@@ -2032,8 +2032,8 @@ board-truck driver1 truck5 s3
 1
 12 13
 2
-0 13 46 57
 0 8 0 1
+0 13 46 57
 1
 end_operator
 begin_operator
@@ -2041,8 +2041,8 @@ board-truck driver1 truck5 s4
 1
 12 14
 2
-0 13 47 57
 0 8 0 1
+0 13 47 57
 1
 end_operator
 begin_operator
@@ -2050,8 +2050,8 @@ board-truck driver1 truck5 s5
 1
 12 15
 2
-0 13 48 57
 0 8 0 1
+0 13 48 57
 1
 end_operator
 begin_operator
@@ -2059,8 +2059,8 @@ board-truck driver1 truck5 s6
 1
 12 16
 2
-0 13 49 57
 0 8 0 1
+0 13 49 57
 1
 end_operator
 begin_operator
@@ -2068,8 +2068,8 @@ board-truck driver1 truck5 s7
 1
 12 17
 2
-0 13 50 57
 0 8 0 1
+0 13 50 57
 1
 end_operator
 begin_operator
@@ -2077,8 +2077,8 @@ board-truck driver1 truck5 s8
 1
 12 18
 2
-0 13 51 57
 0 8 0 1
+0 13 51 57
 1
 end_operator
 begin_operator
@@ -2086,8 +2086,8 @@ board-truck driver1 truck5 s9
 1
 12 19
 2
-0 13 52 57
 0 8 0 1
+0 13 52 57
 1
 end_operator
 begin_operator
@@ -4795,8 +4795,8 @@ board-truck driver5 truck1 s0
 1
 9 0
 2
-0 14 33 53
 0 5 0 1
+0 14 33 53
 1
 end_operator
 begin_operator
@@ -4804,8 +4804,8 @@ board-truck driver5 truck1 s1
 1
 9 1
 2
-0 14 34 53
 0 5 0 1
+0 14 34 53
 1
 end_operator
 begin_operator
@@ -4813,8 +4813,8 @@ board-truck driver5 truck1 s10
 1
 9 2
 2
-0 14 35 53
 0 5 0 1
+0 14 35 53
 1
 end_operator
 begin_operator
@@ -4822,8 +4822,8 @@ board-truck driver5 truck1 s11
 1
 9 3
 2
-0 14 36 53
 0 5 0 1
+0 14 36 53
 1
 end_operator
 begin_operator
@@ -4831,8 +4831,8 @@ board-truck driver5 truck1 s12
 1
 9 4
 2
-0 14 37 53
 0 5 0 1
+0 14 37 53
 1
 end_operator
 begin_operator
@@ -4840,8 +4840,8 @@ board-truck driver5 truck1 s13
 1
 9 5
 2
-0 14 38 53
 0 5 0 1
+0 14 38 53
 1
 end_operator
 begin_operator
@@ -4849,8 +4849,8 @@ board-truck driver5 truck1 s14
 1
 9 6
 2
-0 14 39 53
 0 5 0 1
+0 14 39 53
 1
 end_operator
 begin_operator
@@ -4858,8 +4858,8 @@ board-truck driver5 truck1 s15
 1
 9 7
 2
-0 14 40 53
 0 5 0 1
+0 14 40 53
 1
 end_operator
 begin_operator
@@ -4867,8 +4867,8 @@ board-truck driver5 truck1 s16
 1
 9 8
 2
-0 14 41 53
 0 5 0 1
+0 14 41 53
 1
 end_operator
 begin_operator
@@ -4876,8 +4876,8 @@ board-truck driver5 truck1 s17
 1
 9 9
 2
-0 14 42 53
 0 5 0 1
+0 14 42 53
 1
 end_operator
 begin_operator
@@ -4885,8 +4885,8 @@ board-truck driver5 truck1 s18
 1
 9 10
 2
-0 14 43 53
 0 5 0 1
+0 14 43 53
 1
 end_operator
 begin_operator
@@ -4894,8 +4894,8 @@ board-truck driver5 truck1 s19
 1
 9 11
 2
-0 14 44 53
 0 5 0 1
+0 14 44 53
 1
 end_operator
 begin_operator
@@ -4903,8 +4903,8 @@ board-truck driver5 truck1 s2
 1
 9 12
 2
-0 14 45 53
 0 5 0 1
+0 14 45 53
 1
 end_operator
 begin_operator
@@ -4912,8 +4912,8 @@ board-truck driver5 truck1 s3
 1
 9 13
 2
-0 14 46 53
 0 5 0 1
+0 14 46 53
 1
 end_operator
 begin_operator
@@ -4921,8 +4921,8 @@ board-truck driver5 truck1 s4
 1
 9 14
 2
-0 14 47 53
 0 5 0 1
+0 14 47 53
 1
 end_operator
 begin_operator
@@ -4930,8 +4930,8 @@ board-truck driver5 truck1 s5
 1
 9 15
 2
-0 14 48 53
 0 5 0 1
+0 14 48 53
 1
 end_operator
 begin_operator
@@ -4939,8 +4939,8 @@ board-truck driver5 truck1 s6
 1
 9 16
 2
-0 14 49 53
 0 5 0 1
+0 14 49 53
 1
 end_operator
 begin_operator
@@ -4948,8 +4948,8 @@ board-truck driver5 truck1 s7
 1
 9 17
 2
-0 14 50 53
 0 5 0 1
+0 14 50 53
 1
 end_operator
 begin_operator
@@ -4957,8 +4957,8 @@ board-truck driver5 truck1 s8
 1
 9 18
 2
-0 14 51 53
 0 5 0 1
+0 14 51 53
 1
 end_operator
 begin_operator
@@ -4966,8 +4966,8 @@ board-truck driver5 truck1 s9
 1
 9 19
 2
-0 14 52 53
 0 5 0 1
+0 14 52 53
 1
 end_operator
 begin_operator
@@ -4975,8 +4975,8 @@ board-truck driver5 truck2 s0
 1
 10 0
 2
-0 14 33 54
 0 6 0 1
+0 14 33 54
 1
 end_operator
 begin_operator
@@ -4984,8 +4984,8 @@ board-truck driver5 truck2 s1
 1
 10 1
 2
-0 14 34 54
 0 6 0 1
+0 14 34 54
 1
 end_operator
 begin_operator
@@ -4993,8 +4993,8 @@ board-truck driver5 truck2 s10
 1
 10 2
 2
-0 14 35 54
 0 6 0 1
+0 14 35 54
 1
 end_operator
 begin_operator
@@ -5002,8 +5002,8 @@ board-truck driver5 truck2 s11
 1
 10 3
 2
-0 14 36 54
 0 6 0 1
+0 14 36 54
 1
 end_operator
 begin_operator
@@ -5011,8 +5011,8 @@ board-truck driver5 truck2 s12
 1
 10 4
 2
-0 14 37 54
 0 6 0 1
+0 14 37 54
 1
 end_operator
 begin_operator
@@ -5020,8 +5020,8 @@ board-truck driver5 truck2 s13
 1
 10 5
 2
-0 14 38 54
 0 6 0 1
+0 14 38 54
 1
 end_operator
 begin_operator
@@ -5029,8 +5029,8 @@ board-truck driver5 truck2 s14
 1
 10 6
 2
-0 14 39 54
 0 6 0 1
+0 14 39 54
 1
 end_operator
 begin_operator
@@ -5038,8 +5038,8 @@ board-truck driver5 truck2 s15
 1
 10 7
 2
-0 14 40 54
 0 6 0 1
+0 14 40 54
 1
 end_operator
 begin_operator
@@ -5047,8 +5047,8 @@ board-truck driver5 truck2 s16
 1
 10 8
 2
-0 14 41 54
 0 6 0 1
+0 14 41 54
 1
 end_operator
 begin_operator
@@ -5056,8 +5056,8 @@ board-truck driver5 truck2 s17
 1
 10 9
 2
-0 14 42 54
 0 6 0 1
+0 14 42 54
 1
 end_operator
 begin_operator
@@ -5065,8 +5065,8 @@ board-truck driver5 truck2 s18
 1
 10 10
 2
-0 14 43 54
 0 6 0 1
+0 14 43 54
 1
 end_operator
 begin_operator
@@ -5074,8 +5074,8 @@ board-truck driver5 truck2 s19
 1
 10 11
 2
-0 14 44 54
 0 6 0 1
+0 14 44 54
 1
 end_operator
 begin_operator
@@ -5083,8 +5083,8 @@ board-truck driver5 truck2 s2
 1
 10 12
 2
-0 14 45 54
 0 6 0 1
+0 14 45 54
 1
 end_operator
 begin_operator
@@ -5092,8 +5092,8 @@ board-truck driver5 truck2 s3
 1
 10 13
 2
-0 14 46 54
 0 6 0 1
+0 14 46 54
 1
 end_operator
 begin_operator
@@ -5101,8 +5101,8 @@ board-truck driver5 truck2 s4
 1
 10 14
 2
-0 14 47 54
 0 6 0 1
+0 14 47 54
 1
 end_operator
 begin_operator
@@ -5110,8 +5110,8 @@ board-truck driver5 truck2 s5
 1
 10 15
 2
-0 14 48 54
 0 6 0 1
+0 14 48 54
 1
 end_operator
 begin_operator
@@ -5119,8 +5119,8 @@ board-truck driver5 truck2 s6
 1
 10 16
 2
-0 14 49 54
 0 6 0 1
+0 14 49 54
 1
 end_operator
 begin_operator
@@ -5128,8 +5128,8 @@ board-truck driver5 truck2 s7
 1
 10 17
 2
-0 14 50 54
 0 6 0 1
+0 14 50 54
 1
 end_operator
 begin_operator
@@ -5137,8 +5137,8 @@ board-truck driver5 truck2 s8
 1
 10 18
 2
-0 14 51 54
 0 6 0 1
+0 14 51 54
 1
 end_operator
 begin_operator
@@ -5146,8 +5146,8 @@ board-truck driver5 truck2 s9
 1
 10 19
 2
-0 14 52 54
 0 6 0 1
+0 14 52 54
 1
 end_operator
 begin_operator
@@ -5155,8 +5155,8 @@ board-truck driver5 truck3 s0
 1
 11 0
 2
-0 14 33 55
 0 7 0 1
+0 14 33 55
 1
 end_operator
 begin_operator
@@ -5164,8 +5164,8 @@ board-truck driver5 truck3 s1
 1
 11 1
 2
-0 14 34 55
 0 7 0 1
+0 14 34 55
 1
 end_operator
 begin_operator
@@ -5173,8 +5173,8 @@ board-truck driver5 truck3 s10
 1
 11 2
 2
-0 14 35 55
 0 7 0 1
+0 14 35 55
 1
 end_operator
 begin_operator
@@ -5182,8 +5182,8 @@ board-truck driver5 truck3 s11
 1
 11 3
 2
-0 14 36 55
 0 7 0 1
+0 14 36 55
 1
 end_operator
 begin_operator
@@ -5191,8 +5191,8 @@ board-truck driver5 truck3 s12
 1
 11 4
 2
-0 14 37 55
 0 7 0 1
+0 14 37 55
 1
 end_operator
 begin_operator
@@ -5200,8 +5200,8 @@ board-truck driver5 truck3 s13
 1
 11 5
 2
-0 14 38 55
 0 7 0 1
+0 14 38 55
 1
 end_operator
 begin_operator
@@ -5209,8 +5209,8 @@ board-truck driver5 truck3 s14
 1
 11 6
 2
-0 14 39 55
 0 7 0 1
+0 14 39 55
 1
 end_operator
 begin_operator
@@ -5218,8 +5218,8 @@ board-truck driver5 truck3 s15
 1
 11 7
 2
-0 14 40 55
 0 7 0 1
+0 14 40 55
 1
 end_operator
 begin_operator
@@ -5227,8 +5227,8 @@ board-truck driver5 truck3 s16
 1
 11 8
 2
-0 14 41 55
 0 7 0 1
+0 14 41 55
 1
 end_operator
 begin_operator
@@ -5236,8 +5236,8 @@ board-truck driver5 truck3 s17
 1
 11 9
 2
-0 14 42 55
 0 7 0 1
+0 14 42 55
 1
 end_operator
 begin_operator
@@ -5245,8 +5245,8 @@ board-truck driver5 truck3 s18
 1
 11 10
 2
-0 14 43 55
 0 7 0 1
+0 14 43 55
 1
 end_operator
 begin_operator
@@ -5254,8 +5254,8 @@ board-truck driver5 truck3 s19
 1
 11 11
 2
-0 14 44 55
 0 7 0 1
+0 14 44 55
 1
 end_operator
 begin_operator
@@ -5263,8 +5263,8 @@ board-truck driver5 truck3 s2
 1
 11 12
 2
-0 14 45 55
 0 7 0 1
+0 14 45 55
 1
 end_operator
 begin_operator
@@ -5272,8 +5272,8 @@ board-truck driver5 truck3 s3
 1
 11 13
 2
-0 14 46 55
 0 7 0 1
+0 14 46 55
 1
 end_operator
 begin_operator
@@ -5281,8 +5281,8 @@ board-truck driver5 truck3 s4
 1
 11 14
 2
-0 14 47 55
 0 7 0 1
+0 14 47 55
 1
 end_operator
 begin_operator
@@ -5290,8 +5290,8 @@ board-truck driver5 truck3 s5
 1
 11 15
 2
-0 14 48 55
 0 7 0 1
+0 14 48 55
 1
 end_operator
 begin_operator
@@ -5299,8 +5299,8 @@ board-truck driver5 truck3 s6
 1
 11 16
 2
-0 14 49 55
 0 7 0 1
+0 14 49 55
 1
 end_operator
 begin_operator
@@ -5308,8 +5308,8 @@ board-truck driver5 truck3 s7
 1
 11 17
 2
-0 14 50 55
 0 7 0 1
+0 14 50 55
 1
 end_operator
 begin_operator
@@ -5317,8 +5317,8 @@ board-truck driver5 truck3 s8
 1
 11 18
 2
-0 14 51 55
 0 7 0 1
+0 14 51 55
 1
 end_operator
 begin_operator
@@ -5326,8 +5326,8 @@ board-truck driver5 truck3 s9
 1
 11 19
 2
-0 14 52 55
 0 7 0 1
+0 14 52 55
 1
 end_operator
 begin_operator
@@ -5335,8 +5335,8 @@ board-truck driver5 truck4 s0
 1
 3 0
 2
-0 14 33 56
 0 4 0 1
+0 14 33 56
 1
 end_operator
 begin_operator
@@ -5344,8 +5344,8 @@ board-truck driver5 truck4 s1
 1
 3 1
 2
-0 14 34 56
 0 4 0 1
+0 14 34 56
 1
 end_operator
 begin_operator
@@ -5353,8 +5353,8 @@ board-truck driver5 truck4 s10
 1
 3 2
 2
-0 14 35 56
 0 4 0 1
+0 14 35 56
 1
 end_operator
 begin_operator
@@ -5362,8 +5362,8 @@ board-truck driver5 truck4 s11
 1
 3 3
 2
-0 14 36 56
 0 4 0 1
+0 14 36 56
 1
 end_operator
 begin_operator
@@ -5371,8 +5371,8 @@ board-truck driver5 truck4 s12
 1
 3 4
 2
-0 14 37 56
 0 4 0 1
+0 14 37 56
 1
 end_operator
 begin_operator
@@ -5380,8 +5380,8 @@ board-truck driver5 truck4 s13
 1
 3 5
 2
-0 14 38 56
 0 4 0 1
+0 14 38 56
 1
 end_operator
 begin_operator
@@ -5389,8 +5389,8 @@ board-truck driver5 truck4 s14
 1
 3 6
 2
-0 14 39 56
 0 4 0 1
+0 14 39 56
 1
 end_operator
 begin_operator
@@ -5398,8 +5398,8 @@ board-truck driver5 truck4 s15
 1
 3 7
 2
-0 14 40 56
 0 4 0 1
+0 14 40 56
 1
 end_operator
 begin_operator
@@ -5407,8 +5407,8 @@ board-truck driver5 truck4 s16
 1
 3 8
 2
-0 14 41 56
 0 4 0 1
+0 14 41 56
 1
 end_operator
 begin_operator
@@ -5416,8 +5416,8 @@ board-truck driver5 truck4 s17
 1
 3 9
 2
-0 14 42 56
 0 4 0 1
+0 14 42 56
 1
 end_operator
 begin_operator
@@ -5425,8 +5425,8 @@ board-truck driver5 truck4 s18
 1
 3 10
 2
-0 14 43 56
 0 4 0 1
+0 14 43 56
 1
 end_operator
 begin_operator
@@ -5434,8 +5434,8 @@ board-truck driver5 truck4 s19
 1
 3 11
 2
-0 14 44 56
 0 4 0 1
+0 14 44 56
 1
 end_operator
 begin_operator
@@ -5443,8 +5443,8 @@ board-truck driver5 truck4 s2
 1
 3 12
 2
-0 14 45 56
 0 4 0 1
+0 14 45 56
 1
 end_operator
 begin_operator
@@ -5452,8 +5452,8 @@ board-truck driver5 truck4 s3
 1
 3 13
 2
-0 14 46 56
 0 4 0 1
+0 14 46 56
 1
 end_operator
 begin_operator
@@ -5461,8 +5461,8 @@ board-truck driver5 truck4 s4
 1
 3 14
 2
-0 14 47 56
 0 4 0 1
+0 14 47 56
 1
 end_operator
 begin_operator
@@ -5470,8 +5470,8 @@ board-truck driver5 truck4 s5
 1
 3 15
 2
-0 14 48 56
 0 4 0 1
+0 14 48 56
 1
 end_operator
 begin_operator
@@ -5479,8 +5479,8 @@ board-truck driver5 truck4 s6
 1
 3 16
 2
-0 14 49 56
 0 4 0 1
+0 14 49 56
 1
 end_operator
 begin_operator
@@ -5488,8 +5488,8 @@ board-truck driver5 truck4 s7
 1
 3 17
 2
-0 14 50 56
 0 4 0 1
+0 14 50 56
 1
 end_operator
 begin_operator
@@ -5497,8 +5497,8 @@ board-truck driver5 truck4 s8
 1
 3 18
 2
-0 14 51 56
 0 4 0 1
+0 14 51 56
 1
 end_operator
 begin_operator
@@ -5506,8 +5506,8 @@ board-truck driver5 truck4 s9
 1
 3 19
 2
-0 14 52 56
 0 4 0 1
+0 14 52 56
 1
 end_operator
 begin_operator
@@ -5515,8 +5515,8 @@ board-truck driver5 truck5 s0
 1
 12 0
 2
-0 14 33 57
 0 8 0 1
+0 14 33 57
 1
 end_operator
 begin_operator
@@ -5524,8 +5524,8 @@ board-truck driver5 truck5 s1
 1
 12 1
 2
-0 14 34 57
 0 8 0 1
+0 14 34 57
 1
 end_operator
 begin_operator
@@ -5533,8 +5533,8 @@ board-truck driver5 truck5 s10
 1
 12 2
 2
-0 14 35 57
 0 8 0 1
+0 14 35 57
 1
 end_operator
 begin_operator
@@ -5542,8 +5542,8 @@ board-truck driver5 truck5 s11
 1
 12 3
 2
-0 14 36 57
 0 8 0 1
+0 14 36 57
 1
 end_operator
 begin_operator
@@ -5551,8 +5551,8 @@ board-truck driver5 truck5 s12
 1
 12 4
 2
-0 14 37 57
 0 8 0 1
+0 14 37 57
 1
 end_operator
 begin_operator
@@ -5560,8 +5560,8 @@ board-truck driver5 truck5 s13
 1
 12 5
 2
-0 14 38 57
 0 8 0 1
+0 14 38 57
 1
 end_operator
 begin_operator
@@ -5569,8 +5569,8 @@ board-truck driver5 truck5 s14
 1
 12 6
 2
-0 14 39 57
 0 8 0 1
+0 14 39 57
 1
 end_operator
 begin_operator
@@ -5578,8 +5578,8 @@ board-truck driver5 truck5 s15
 1
 12 7
 2
-0 14 40 57
 0 8 0 1
+0 14 40 57
 1
 end_operator
 begin_operator
@@ -5587,8 +5587,8 @@ board-truck driver5 truck5 s16
 1
 12 8
 2
-0 14 41 57
 0 8 0 1
+0 14 41 57
 1
 end_operator
 begin_operator
@@ -5596,8 +5596,8 @@ board-truck driver5 truck5 s17
 1
 12 9
 2
-0 14 42 57
 0 8 0 1
+0 14 42 57
 1
 end_operator
 begin_operator
@@ -5605,8 +5605,8 @@ board-truck driver5 truck5 s18
 1
 12 10
 2
-0 14 43 57
 0 8 0 1
+0 14 43 57
 1
 end_operator
 begin_operator
@@ -5614,8 +5614,8 @@ board-truck driver5 truck5 s19
 1
 12 11
 2
-0 14 44 57
 0 8 0 1
+0 14 44 57
 1
 end_operator
 begin_operator
@@ -5623,8 +5623,8 @@ board-truck driver5 truck5 s2
 1
 12 12
 2
-0 14 45 57
 0 8 0 1
+0 14 45 57
 1
 end_operator
 begin_operator
@@ -5632,8 +5632,8 @@ board-truck driver5 truck5 s3
 1
 12 13
 2
-0 14 46 57
 0 8 0 1
+0 14 46 57
 1
 end_operator
 begin_operator
@@ -5641,8 +5641,8 @@ board-truck driver5 truck5 s4
 1
 12 14
 2
-0 14 47 57
 0 8 0 1
+0 14 47 57
 1
 end_operator
 begin_operator
@@ -5650,8 +5650,8 @@ board-truck driver5 truck5 s5
 1
 12 15
 2
-0 14 48 57
 0 8 0 1
+0 14 48 57
 1
 end_operator
 begin_operator
@@ -5659,8 +5659,8 @@ board-truck driver5 truck5 s6
 1
 12 16
 2
-0 14 49 57
 0 8 0 1
+0 14 49 57
 1
 end_operator
 begin_operator
@@ -5668,8 +5668,8 @@ board-truck driver5 truck5 s7
 1
 12 17
 2
-0 14 50 57
 0 8 0 1
+0 14 50 57
 1
 end_operator
 begin_operator
@@ -5677,8 +5677,8 @@ board-truck driver5 truck5 s8
 1
 12 18
 2
-0 14 51 57
 0 8 0 1
+0 14 51 57
 1
 end_operator
 begin_operator
@@ -5686,8 +5686,8 @@ board-truck driver5 truck5 s9
 1
 12 19
 2
-0 14 52 57
 0 8 0 1
+0 14 52 57
 1
 end_operator
 begin_operator
@@ -5695,8 +5695,8 @@ disembark-truck driver1 truck1 s0
 1
 9 0
 2
-0 13 53 33
 0 5 -1 0
+0 13 53 33
 1
 end_operator
 begin_operator
@@ -5704,8 +5704,8 @@ disembark-truck driver1 truck1 s1
 1
 9 1
 2
-0 13 53 34
 0 5 -1 0
+0 13 53 34
 1
 end_operator
 begin_operator
@@ -5713,8 +5713,8 @@ disembark-truck driver1 truck1 s10
 1
 9 2
 2
-0 13 53 35
 0 5 -1 0
+0 13 53 35
 1
 end_operator
 begin_operator
@@ -5722,8 +5722,8 @@ disembark-truck driver1 truck1 s11
 1
 9 3
 2
-0 13 53 36
 0 5 -1 0
+0 13 53 36
 1
 end_operator
 begin_operator
@@ -5731,8 +5731,8 @@ disembark-truck driver1 truck1 s12
 1
 9 4
 2
-0 13 53 37
 0 5 -1 0
+0 13 53 37
 1
 end_operator
 begin_operator
@@ -5740,8 +5740,8 @@ disembark-truck driver1 truck1 s13
 1
 9 5
 2
-0 13 53 38
 0 5 -1 0
+0 13 53 38
 1
 end_operator
 begin_operator
@@ -5749,8 +5749,8 @@ disembark-truck driver1 truck1 s14
 1
 9 6
 2
-0 13 53 39
 0 5 -1 0
+0 13 53 39
 1
 end_operator
 begin_operator
@@ -5758,8 +5758,8 @@ disembark-truck driver1 truck1 s15
 1
 9 7
 2
-0 13 53 40
 0 5 -1 0
+0 13 53 40
 1
 end_operator
 begin_operator
@@ -5767,8 +5767,8 @@ disembark-truck driver1 truck1 s16
 1
 9 8
 2
-0 13 53 41
 0 5 -1 0
+0 13 53 41
 1
 end_operator
 begin_operator
@@ -5776,8 +5776,8 @@ disembark-truck driver1 truck1 s17
 1
 9 9
 2
-0 13 53 42
 0 5 -1 0
+0 13 53 42
 1
 end_operator
 begin_operator
@@ -5785,8 +5785,8 @@ disembark-truck driver1 truck1 s18
 1
 9 10
 2
-0 13 53 43
 0 5 -1 0
+0 13 53 43
 1
 end_operator
 begin_operator
@@ -5794,8 +5794,8 @@ disembark-truck driver1 truck1 s19
 1
 9 11
 2
-0 13 53 44
 0 5 -1 0
+0 13 53 44
 1
 end_operator
 begin_operator
@@ -5803,8 +5803,8 @@ disembark-truck driver1 truck1 s2
 1
 9 12
 2
-0 13 53 45
 0 5 -1 0
+0 13 53 45
 1
 end_operator
 begin_operator
@@ -5812,8 +5812,8 @@ disembark-truck driver1 truck1 s3
 1
 9 13
 2
-0 13 53 46
 0 5 -1 0
+0 13 53 46
 1
 end_operator
 begin_operator
@@ -5821,8 +5821,8 @@ disembark-truck driver1 truck1 s4
 1
 9 14
 2
-0 13 53 47
 0 5 -1 0
+0 13 53 47
 1
 end_operator
 begin_operator
@@ -5830,8 +5830,8 @@ disembark-truck driver1 truck1 s5
 1
 9 15
 2
-0 13 53 48
 0 5 -1 0
+0 13 53 48
 1
 end_operator
 begin_operator
@@ -5839,8 +5839,8 @@ disembark-truck driver1 truck1 s6
 1
 9 16
 2
-0 13 53 49
 0 5 -1 0
+0 13 53 49
 1
 end_operator
 begin_operator
@@ -5848,8 +5848,8 @@ disembark-truck driver1 truck1 s7
 1
 9 17
 2
-0 13 53 50
 0 5 -1 0
+0 13 53 50
 1
 end_operator
 begin_operator
@@ -5857,8 +5857,8 @@ disembark-truck driver1 truck1 s8
 1
 9 18
 2
-0 13 53 51
 0 5 -1 0
+0 13 53 51
 1
 end_operator
 begin_operator
@@ -5866,8 +5866,8 @@ disembark-truck driver1 truck1 s9
 1
 9 19
 2
-0 13 53 52
 0 5 -1 0
+0 13 53 52
 1
 end_operator
 begin_operator
@@ -5875,8 +5875,8 @@ disembark-truck driver1 truck2 s0
 1
 10 0
 2
-0 13 54 33
 0 6 -1 0
+0 13 54 33
 1
 end_operator
 begin_operator
@@ -5884,8 +5884,8 @@ disembark-truck driver1 truck2 s1
 1
 10 1
 2
-0 13 54 34
 0 6 -1 0
+0 13 54 34
 1
 end_operator
 begin_operator
@@ -5893,8 +5893,8 @@ disembark-truck driver1 truck2 s10
 1
 10 2
 2
-0 13 54 35
 0 6 -1 0
+0 13 54 35
 1
 end_operator
 begin_operator
@@ -5902,8 +5902,8 @@ disembark-truck driver1 truck2 s11
 1
 10 3
 2
-0 13 54 36
 0 6 -1 0
+0 13 54 36
 1
 end_operator
 begin_operator
@@ -5911,8 +5911,8 @@ disembark-truck driver1 truck2 s12
 1
 10 4
 2
-0 13 54 37
 0 6 -1 0
+0 13 54 37
 1
 end_operator
 begin_operator
@@ -5920,8 +5920,8 @@ disembark-truck driver1 truck2 s13
 1
 10 5
 2
-0 13 54 38
 0 6 -1 0
+0 13 54 38
 1
 end_operator
 begin_operator
@@ -5929,8 +5929,8 @@ disembark-truck driver1 truck2 s14
 1
 10 6
 2
-0 13 54 39
 0 6 -1 0
+0 13 54 39
 1
 end_operator
 begin_operator
@@ -5938,8 +5938,8 @@ disembark-truck driver1 truck2 s15
 1
 10 7
 2
-0 13 54 40
 0 6 -1 0
+0 13 54 40
 1
 end_operator
 begin_operator
@@ -5947,8 +5947,8 @@ disembark-truck driver1 truck2 s16
 1
 10 8
 2
-0 13 54 41
 0 6 -1 0
+0 13 54 41
 1
 end_operator
 begin_operator
@@ -5956,8 +5956,8 @@ disembark-truck driver1 truck2 s17
 1
 10 9
 2
-0 13 54 42
 0 6 -1 0
+0 13 54 42
 1
 end_operator
 begin_operator
@@ -5965,8 +5965,8 @@ disembark-truck driver1 truck2 s18
 1
 10 10
 2
-0 13 54 43
 0 6 -1 0
+0 13 54 43
 1
 end_operator
 begin_operator
@@ -5974,8 +5974,8 @@ disembark-truck driver1 truck2 s19
 1
 10 11
 2
-0 13 54 44
 0 6 -1 0
+0 13 54 44
 1
 end_operator
 begin_operator
@@ -5983,8 +5983,8 @@ disembark-truck driver1 truck2 s2
 1
 10 12
 2
-0 13 54 45
 0 6 -1 0
+0 13 54 45
 1
 end_operator
 begin_operator
@@ -5992,8 +5992,8 @@ disembark-truck driver1 truck2 s3
 1
 10 13
 2
-0 13 54 46
 0 6 -1 0
+0 13 54 46
 1
 end_operator
 begin_operator
@@ -6001,8 +6001,8 @@ disembark-truck driver1 truck2 s4
 1
 10 14
 2
-0 13 54 47
 0 6 -1 0
+0 13 54 47
 1
 end_operator
 begin_operator
@@ -6010,8 +6010,8 @@ disembark-truck driver1 truck2 s5
 1
 10 15
 2
-0 13 54 48
 0 6 -1 0
+0 13 54 48
 1
 end_operator
 begin_operator
@@ -6019,8 +6019,8 @@ disembark-truck driver1 truck2 s6
 1
 10 16
 2
-0 13 54 49
 0 6 -1 0
+0 13 54 49
 1
 end_operator
 begin_operator
@@ -6028,8 +6028,8 @@ disembark-truck driver1 truck2 s7
 1
 10 17
 2
-0 13 54 50
 0 6 -1 0
+0 13 54 50
 1
 end_operator
 begin_operator
@@ -6037,8 +6037,8 @@ disembark-truck driver1 truck2 s8
 1
 10 18
 2
-0 13 54 51
 0 6 -1 0
+0 13 54 51
 1
 end_operator
 begin_operator
@@ -6046,8 +6046,8 @@ disembark-truck driver1 truck2 s9
 1
 10 19
 2
-0 13 54 52
 0 6 -1 0
+0 13 54 52
 1
 end_operator
 begin_operator
@@ -6055,8 +6055,8 @@ disembark-truck driver1 truck3 s0
 1
 11 0
 2
-0 13 55 33
 0 7 -1 0
+0 13 55 33
 1
 end_operator
 begin_operator
@@ -6064,8 +6064,8 @@ disembark-truck driver1 truck3 s1
 1
 11 1
 2
-0 13 55 34
 0 7 -1 0
+0 13 55 34
 1
 end_operator
 begin_operator
@@ -6073,8 +6073,8 @@ disembark-truck driver1 truck3 s10
 1
 11 2
 2
-0 13 55 35
 0 7 -1 0
+0 13 55 35
 1
 end_operator
 begin_operator
@@ -6082,8 +6082,8 @@ disembark-truck driver1 truck3 s11
 1
 11 3
 2
-0 13 55 36
 0 7 -1 0
+0 13 55 36
 1
 end_operator
 begin_operator
@@ -6091,8 +6091,8 @@ disembark-truck driver1 truck3 s12
 1
 11 4
 2
-0 13 55 37
 0 7 -1 0
+0 13 55 37
 1
 end_operator
 begin_operator
@@ -6100,8 +6100,8 @@ disembark-truck driver1 truck3 s13
 1
 11 5
 2
-0 13 55 38
 0 7 -1 0
+0 13 55 38
 1
 end_operator
 begin_operator
@@ -6109,8 +6109,8 @@ disembark-truck driver1 truck3 s14
 1
 11 6
 2
-0 13 55 39
 0 7 -1 0
+0 13 55 39
 1
 end_operator
 begin_operator
@@ -6118,8 +6118,8 @@ disembark-truck driver1 truck3 s15
 1
 11 7
 2
-0 13 55 40
 0 7 -1 0
+0 13 55 40
 1
 end_operator
 begin_operator
@@ -6127,8 +6127,8 @@ disembark-truck driver1 truck3 s16
 1
 11 8
 2
-0 13 55 41
 0 7 -1 0
+0 13 55 41
 1
 end_operator
 begin_operator
@@ -6136,8 +6136,8 @@ disembark-truck driver1 truck3 s17
 1
 11 9
 2
-0 13 55 42
 0 7 -1 0
+0 13 55 42
 1
 end_operator
 begin_operator
@@ -6145,8 +6145,8 @@ disembark-truck driver1 truck3 s18
 1
 11 10
 2
-0 13 55 43
 0 7 -1 0
+0 13 55 43
 1
 end_operator
 begin_operator
@@ -6154,8 +6154,8 @@ disembark-truck driver1 truck3 s19
 1
 11 11
 2
-0 13 55 44
 0 7 -1 0
+0 13 55 44
 1
 end_operator
 begin_operator
@@ -6163,8 +6163,8 @@ disembark-truck driver1 truck3 s2
 1
 11 12
 2
-0 13 55 45
 0 7 -1 0
+0 13 55 45
 1
 end_operator
 begin_operator
@@ -6172,8 +6172,8 @@ disembark-truck driver1 truck3 s3
 1
 11 13
 2
-0 13 55 46
 0 7 -1 0
+0 13 55 46
 1
 end_operator
 begin_operator
@@ -6181,8 +6181,8 @@ disembark-truck driver1 truck3 s4
 1
 11 14
 2
-0 13 55 47
 0 7 -1 0
+0 13 55 47
 1
 end_operator
 begin_operator
@@ -6190,8 +6190,8 @@ disembark-truck driver1 truck3 s5
 1
 11 15
 2
-0 13 55 48
 0 7 -1 0
+0 13 55 48
 1
 end_operator
 begin_operator
@@ -6199,8 +6199,8 @@ disembark-truck driver1 truck3 s6
 1
 11 16
 2
-0 13 55 49
 0 7 -1 0
+0 13 55 49
 1
 end_operator
 begin_operator
@@ -6208,8 +6208,8 @@ disembark-truck driver1 truck3 s7
 1
 11 17
 2
-0 13 55 50
 0 7 -1 0
+0 13 55 50
 1
 end_operator
 begin_operator
@@ -6217,8 +6217,8 @@ disembark-truck driver1 truck3 s8
 1
 11 18
 2
-0 13 55 51
 0 7 -1 0
+0 13 55 51
 1
 end_operator
 begin_operator
@@ -6226,8 +6226,8 @@ disembark-truck driver1 truck3 s9
 1
 11 19
 2
-0 13 55 52
 0 7 -1 0
+0 13 55 52
 1
 end_operator
 begin_operator
@@ -6235,8 +6235,8 @@ disembark-truck driver1 truck4 s0
 1
 3 0
 2
-0 13 56 33
 0 4 -1 0
+0 13 56 33
 1
 end_operator
 begin_operator
@@ -6244,8 +6244,8 @@ disembark-truck driver1 truck4 s1
 1
 3 1
 2
-0 13 56 34
 0 4 -1 0
+0 13 56 34
 1
 end_operator
 begin_operator
@@ -6253,8 +6253,8 @@ disembark-truck driver1 truck4 s10
 1
 3 2
 2
-0 13 56 35
 0 4 -1 0
+0 13 56 35
 1
 end_operator
 begin_operator
@@ -6262,8 +6262,8 @@ disembark-truck driver1 truck4 s11
 1
 3 3
 2
-0 13 56 36
 0 4 -1 0
+0 13 56 36
 1
 end_operator
 begin_operator
@@ -6271,8 +6271,8 @@ disembark-truck driver1 truck4 s12
 1
 3 4
 2
-0 13 56 37
 0 4 -1 0
+0 13 56 37
 1
 end_operator
 begin_operator
@@ -6280,8 +6280,8 @@ disembark-truck driver1 truck4 s13
 1
 3 5
 2
-0 13 56 38
 0 4 -1 0
+0 13 56 38
 1
 end_operator
 begin_operator
@@ -6289,8 +6289,8 @@ disembark-truck driver1 truck4 s14
 1
 3 6
 2
-0 13 56 39
 0 4 -1 0
+0 13 56 39
 1
 end_operator
 begin_operator
@@ -6298,8 +6298,8 @@ disembark-truck driver1 truck4 s15
 1
 3 7
 2
-0 13 56 40
 0 4 -1 0
+0 13 56 40
 1
 end_operator
 begin_operator
@@ -6307,8 +6307,8 @@ disembark-truck driver1 truck4 s16
 1
 3 8
 2
-0 13 56 41
 0 4 -1 0
+0 13 56 41
 1
 end_operator
 begin_operator
@@ -6316,8 +6316,8 @@ disembark-truck driver1 truck4 s17
 1
 3 9
 2
-0 13 56 42
 0 4 -1 0
+0 13 56 42
 1
 end_operator
 begin_operator
@@ -6325,8 +6325,8 @@ disembark-truck driver1 truck4 s18
 1
 3 10
 2
-0 13 56 43
 0 4 -1 0
+0 13 56 43
 1
 end_operator
 begin_operator
@@ -6334,8 +6334,8 @@ disembark-truck driver1 truck4 s19
 1
 3 11
 2
-0 13 56 44
 0 4 -1 0
+0 13 56 44
 1
 end_operator
 begin_operator
@@ -6343,8 +6343,8 @@ disembark-truck driver1 truck4 s2
 1
 3 12
 2
-0 13 56 45
 0 4 -1 0
+0 13 56 45
 1
 end_operator
 begin_operator
@@ -6352,8 +6352,8 @@ disembark-truck driver1 truck4 s3
 1
 3 13
 2
-0 13 56 46
 0 4 -1 0
+0 13 56 46
 1
 end_operator
 begin_operator
@@ -6361,8 +6361,8 @@ disembark-truck driver1 truck4 s4
 1
 3 14
 2
-0 13 56 47
 0 4 -1 0
+0 13 56 47
 1
 end_operator
 begin_operator
@@ -6370,8 +6370,8 @@ disembark-truck driver1 truck4 s5
 1
 3 15
 2
-0 13 56 48
 0 4 -1 0
+0 13 56 48
 1
 end_operator
 begin_operator
@@ -6379,8 +6379,8 @@ disembark-truck driver1 truck4 s6
 1
 3 16
 2
-0 13 56 49
 0 4 -1 0
+0 13 56 49
 1
 end_operator
 begin_operator
@@ -6388,8 +6388,8 @@ disembark-truck driver1 truck4 s7
 1
 3 17
 2
-0 13 56 50
 0 4 -1 0
+0 13 56 50
 1
 end_operator
 begin_operator
@@ -6397,8 +6397,8 @@ disembark-truck driver1 truck4 s8
 1
 3 18
 2
-0 13 56 51
 0 4 -1 0
+0 13 56 51
 1
 end_operator
 begin_operator
@@ -6406,8 +6406,8 @@ disembark-truck driver1 truck4 s9
 1
 3 19
 2
-0 13 56 52
 0 4 -1 0
+0 13 56 52
 1
 end_operator
 begin_operator
@@ -6415,8 +6415,8 @@ disembark-truck driver1 truck5 s0
 1
 12 0
 2
-0 13 57 33
 0 8 -1 0
+0 13 57 33
 1
 end_operator
 begin_operator
@@ -6424,8 +6424,8 @@ disembark-truck driver1 truck5 s1
 1
 12 1
 2
-0 13 57 34
 0 8 -1 0
+0 13 57 34
 1
 end_operator
 begin_operator
@@ -6433,8 +6433,8 @@ disembark-truck driver1 truck5 s10
 1
 12 2
 2
-0 13 57 35
 0 8 -1 0
+0 13 57 35
 1
 end_operator
 begin_operator
@@ -6442,8 +6442,8 @@ disembark-truck driver1 truck5 s11
 1
 12 3
 2
-0 13 57 36
 0 8 -1 0
+0 13 57 36
 1
 end_operator
 begin_operator
@@ -6451,8 +6451,8 @@ disembark-truck driver1 truck5 s12
 1
 12 4
 2
-0 13 57 37
 0 8 -1 0
+0 13 57 37
 1
 end_operator
 begin_operator
@@ -6460,8 +6460,8 @@ disembark-truck driver1 truck5 s13
 1
 12 5
 2
-0 13 57 38
 0 8 -1 0
+0 13 57 38
 1
 end_operator
 begin_operator
@@ -6469,8 +6469,8 @@ disembark-truck driver1 truck5 s14
 1
 12 6
 2
-0 13 57 39
 0 8 -1 0
+0 13 57 39
 1
 end_operator
 begin_operator
@@ -6478,8 +6478,8 @@ disembark-truck driver1 truck5 s15
 1
 12 7
 2
-0 13 57 40
 0 8 -1 0
+0 13 57 40
 1
 end_operator
 begin_operator
@@ -6487,8 +6487,8 @@ disembark-truck driver1 truck5 s16
 1
 12 8
 2
-0 13 57 41
 0 8 -1 0
+0 13 57 41
 1
 end_operator
 begin_operator
@@ -6496,8 +6496,8 @@ disembark-truck driver1 truck5 s17
 1
 12 9
 2
-0 13 57 42
 0 8 -1 0
+0 13 57 42
 1
 end_operator
 begin_operator
@@ -6505,8 +6505,8 @@ disembark-truck driver1 truck5 s18
 1
 12 10
 2
-0 13 57 43
 0 8 -1 0
+0 13 57 43
 1
 end_operator
 begin_operator
@@ -6514,8 +6514,8 @@ disembark-truck driver1 truck5 s19
 1
 12 11
 2
-0 13 57 44
 0 8 -1 0
+0 13 57 44
 1
 end_operator
 begin_operator
@@ -6523,8 +6523,8 @@ disembark-truck driver1 truck5 s2
 1
 12 12
 2
-0 13 57 45
 0 8 -1 0
+0 13 57 45
 1
 end_operator
 begin_operator
@@ -6532,8 +6532,8 @@ disembark-truck driver1 truck5 s3
 1
 12 13
 2
-0 13 57 46
 0 8 -1 0
+0 13 57 46
 1
 end_operator
 begin_operator
@@ -6541,8 +6541,8 @@ disembark-truck driver1 truck5 s4
 1
 12 14
 2
-0 13 57 47
 0 8 -1 0
+0 13 57 47
 1
 end_operator
 begin_operator
@@ -6550,8 +6550,8 @@ disembark-truck driver1 truck5 s5
 1
 12 15
 2
-0 13 57 48
 0 8 -1 0
+0 13 57 48
 1
 end_operator
 begin_operator
@@ -6559,8 +6559,8 @@ disembark-truck driver1 truck5 s6
 1
 12 16
 2
-0 13 57 49
 0 8 -1 0
+0 13 57 49
 1
 end_operator
 begin_operator
@@ -6568,8 +6568,8 @@ disembark-truck driver1 truck5 s7
 1
 12 17
 2
-0 13 57 50
 0 8 -1 0
+0 13 57 50
 1
 end_operator
 begin_operator
@@ -6577,8 +6577,8 @@ disembark-truck driver1 truck5 s8
 1
 12 18
 2
-0 13 57 51
 0 8 -1 0
+0 13 57 51
 1
 end_operator
 begin_operator
@@ -6586,8 +6586,8 @@ disembark-truck driver1 truck5 s9
 1
 12 19
 2
-0 13 57 52
 0 8 -1 0
+0 13 57 52
 1
 end_operator
 begin_operator
@@ -9295,8 +9295,8 @@ disembark-truck driver5 truck1 s0
 1
 9 0
 2
-0 14 53 33
 0 5 -1 0
+0 14 53 33
 1
 end_operator
 begin_operator
@@ -9304,8 +9304,8 @@ disembark-truck driver5 truck1 s1
 1
 9 1
 2
-0 14 53 34
 0 5 -1 0
+0 14 53 34
 1
 end_operator
 begin_operator
@@ -9313,8 +9313,8 @@ disembark-truck driver5 truck1 s10
 1
 9 2
 2
-0 14 53 35
 0 5 -1 0
+0 14 53 35
 1
 end_operator
 begin_operator
@@ -9322,8 +9322,8 @@ disembark-truck driver5 truck1 s11
 1
 9 3
 2
-0 14 53 36
 0 5 -1 0
+0 14 53 36
 1
 end_operator
 begin_operator
@@ -9331,8 +9331,8 @@ disembark-truck driver5 truck1 s12
 1
 9 4
 2
-0 14 53 37
 0 5 -1 0
+0 14 53 37
 1
 end_operator
 begin_operator
@@ -9340,8 +9340,8 @@ disembark-truck driver5 truck1 s13
 1
 9 5
 2
-0 14 53 38
 0 5 -1 0
+0 14 53 38
 1
 end_operator
 begin_operator
@@ -9349,8 +9349,8 @@ disembark-truck driver5 truck1 s14
 1
 9 6
 2
-0 14 53 39
 0 5 -1 0
+0 14 53 39
 1
 end_operator
 begin_operator
@@ -9358,8 +9358,8 @@ disembark-truck driver5 truck1 s15
 1
 9 7
 2
-0 14 53 40
 0 5 -1 0
+0 14 53 40
 1
 end_operator
 begin_operator
@@ -9367,8 +9367,8 @@ disembark-truck driver5 truck1 s16
 1
 9 8
 2
-0 14 53 41
 0 5 -1 0
+0 14 53 41
 1
 end_operator
 begin_operator
@@ -9376,8 +9376,8 @@ disembark-truck driver5 truck1 s17
 1
 9 9
 2
-0 14 53 42
 0 5 -1 0
+0 14 53 42
 1
 end_operator
 begin_operator
@@ -9385,8 +9385,8 @@ disembark-truck driver5 truck1 s18
 1
 9 10
 2
-0 14 53 43
 0 5 -1 0
+0 14 53 43
 1
 end_operator
 begin_operator
@@ -9394,8 +9394,8 @@ disembark-truck driver5 truck1 s19
 1
 9 11
 2
-0 14 53 44
 0 5 -1 0
+0 14 53 44
 1
 end_operator
 begin_operator
@@ -9403,8 +9403,8 @@ disembark-truck driver5 truck1 s2
 1
 9 12
 2
-0 14 53 45
 0 5 -1 0
+0 14 53 45
 1
 end_operator
 begin_operator
@@ -9412,8 +9412,8 @@ disembark-truck driver5 truck1 s3
 1
 9 13
 2
-0 14 53 46
 0 5 -1 0
+0 14 53 46
 1
 end_operator
 begin_operator
@@ -9421,8 +9421,8 @@ disembark-truck driver5 truck1 s4
 1
 9 14
 2
-0 14 53 47
 0 5 -1 0
+0 14 53 47
 1
 end_operator
 begin_operator
@@ -9430,8 +9430,8 @@ disembark-truck driver5 truck1 s5
 1
 9 15
 2
-0 14 53 48
 0 5 -1 0
+0 14 53 48
 1
 end_operator
 begin_operator
@@ -9439,8 +9439,8 @@ disembark-truck driver5 truck1 s6
 1
 9 16
 2
-0 14 53 49
 0 5 -1 0
+0 14 53 49
 1
 end_operator
 begin_operator
@@ -9448,8 +9448,8 @@ disembark-truck driver5 truck1 s7
 1
 9 17
 2
-0 14 53 50
 0 5 -1 0
+0 14 53 50
 1
 end_operator
 begin_operator
@@ -9457,8 +9457,8 @@ disembark-truck driver5 truck1 s8
 1
 9 18
 2
-0 14 53 51
 0 5 -1 0
+0 14 53 51
 1
 end_operator
 begin_operator
@@ -9466,8 +9466,8 @@ disembark-truck driver5 truck1 s9
 1
 9 19
 2
-0 14 53 52
 0 5 -1 0
+0 14 53 52
 1
 end_operator
 begin_operator
@@ -9475,8 +9475,8 @@ disembark-truck driver5 truck2 s0
 1
 10 0
 2
-0 14 54 33
 0 6 -1 0
+0 14 54 33
 1
 end_operator
 begin_operator
@@ -9484,8 +9484,8 @@ disembark-truck driver5 truck2 s1
 1
 10 1
 2
-0 14 54 34
 0 6 -1 0
+0 14 54 34
 1
 end_operator
 begin_operator
@@ -9493,8 +9493,8 @@ disembark-truck driver5 truck2 s10
 1
 10 2
 2
-0 14 54 35
 0 6 -1 0
+0 14 54 35
 1
 end_operator
 begin_operator
@@ -9502,8 +9502,8 @@ disembark-truck driver5 truck2 s11
 1
 10 3
 2
-0 14 54 36
 0 6 -1 0
+0 14 54 36
 1
 end_operator
 begin_operator
@@ -9511,8 +9511,8 @@ disembark-truck driver5 truck2 s12
 1
 10 4
 2
-0 14 54 37
 0 6 -1 0
+0 14 54 37
 1
 end_operator
 begin_operator
@@ -9520,8 +9520,8 @@ disembark-truck driver5 truck2 s13
 1
 10 5
 2
-0 14 54 38
 0 6 -1 0
+0 14 54 38
 1
 end_operator
 begin_operator
@@ -9529,8 +9529,8 @@ disembark-truck driver5 truck2 s14
 1
 10 6
 2
-0 14 54 39
 0 6 -1 0
+0 14 54 39
 1
 end_operator
 begin_operator
@@ -9538,8 +9538,8 @@ disembark-truck driver5 truck2 s15
 1
 10 7
 2
-0 14 54 40
 0 6 -1 0
+0 14 54 40
 1
 end_operator
 begin_operator
@@ -9547,8 +9547,8 @@ disembark-truck driver5 truck2 s16
 1
 10 8
 2
-0 14 54 41
 0 6 -1 0
+0 14 54 41
 1
 end_operator
 begin_operator
@@ -9556,8 +9556,8 @@ disembark-truck driver5 truck2 s17
 1
 10 9
 2
-0 14 54 42
 0 6 -1 0
+0 14 54 42
 1
 end_operator
 begin_operator
@@ -9565,8 +9565,8 @@ disembark-truck driver5 truck2 s18
 1
 10 10
 2
-0 14 54 43
 0 6 -1 0
+0 14 54 43
 1
 end_operator
 begin_operator
@@ -9574,8 +9574,8 @@ disembark-truck driver5 truck2 s19
 1
 10 11
 2
-0 14 54 44
 0 6 -1 0
+0 14 54 44
 1
 end_operator
 begin_operator
@@ -9583,8 +9583,8 @@ disembark-truck driver5 truck2 s2
 1
 10 12
 2
-0 14 54 45
 0 6 -1 0
+0 14 54 45
 1
 end_operator
 begin_operator
@@ -9592,8 +9592,8 @@ disembark-truck driver5 truck2 s3
 1
 10 13
 2
-0 14 54 46
 0 6 -1 0
+0 14 54 46
 1
 end_operator
 begin_operator
@@ -9601,8 +9601,8 @@ disembark-truck driver5 truck2 s4
 1
 10 14
 2
-0 14 54 47
 0 6 -1 0
+0 14 54 47
 1
 end_operator
 begin_operator
@@ -9610,8 +9610,8 @@ disembark-truck driver5 truck2 s5
 1
 10 15
 2
-0 14 54 48
 0 6 -1 0
+0 14 54 48
 1
 end_operator
 begin_operator
@@ -9619,8 +9619,8 @@ disembark-truck driver5 truck2 s6
 1
 10 16
 2
-0 14 54 49
 0 6 -1 0
+0 14 54 49
 1
 end_operator
 begin_operator
@@ -9628,8 +9628,8 @@ disembark-truck driver5 truck2 s7
 1
 10 17
 2
-0 14 54 50
 0 6 -1 0
+0 14 54 50
 1
 end_operator
 begin_operator
@@ -9637,8 +9637,8 @@ disembark-truck driver5 truck2 s8
 1
 10 18
 2
-0 14 54 51
 0 6 -1 0
+0 14 54 51
 1
 end_operator
 begin_operator
@@ -9646,8 +9646,8 @@ disembark-truck driver5 truck2 s9
 1
 10 19
 2
-0 14 54 52
 0 6 -1 0
+0 14 54 52
 1
 end_operator
 begin_operator
@@ -9655,8 +9655,8 @@ disembark-truck driver5 truck3 s0
 1
 11 0
 2
-0 14 55 33
 0 7 -1 0
+0 14 55 33
 1
 end_operator
 begin_operator
@@ -9664,8 +9664,8 @@ disembark-truck driver5 truck3 s1
 1
 11 1
 2
-0 14 55 34
 0 7 -1 0
+0 14 55 34
 1
 end_operator
 begin_operator
@@ -9673,8 +9673,8 @@ disembark-truck driver5 truck3 s10
 1
 11 2
 2
-0 14 55 35
 0 7 -1 0
+0 14 55 35
 1
 end_operator
 begin_operator
@@ -9682,8 +9682,8 @@ disembark-truck driver5 truck3 s11
 1
 11 3
 2
-0 14 55 36
 0 7 -1 0
+0 14 55 36
 1
 end_operator
 begin_operator
@@ -9691,8 +9691,8 @@ disembark-truck driver5 truck3 s12
 1
 11 4
 2
-0 14 55 37
 0 7 -1 0
+0 14 55 37
 1
 end_operator
 begin_operator
@@ -9700,8 +9700,8 @@ disembark-truck driver5 truck3 s13
 1
 11 5
 2
-0 14 55 38
 0 7 -1 0
+0 14 55 38
 1
 end_operator
 begin_operator
@@ -9709,8 +9709,8 @@ disembark-truck driver5 truck3 s14
 1
 11 6
 2
-0 14 55 39
 0 7 -1 0
+0 14 55 39
 1
 end_operator
 begin_operator
@@ -9718,8 +9718,8 @@ disembark-truck driver5 truck3 s15
 1
 11 7
 2
-0 14 55 40
 0 7 -1 0
+0 14 55 40
 1
 end_operator
 begin_operator
@@ -9727,8 +9727,8 @@ disembark-truck driver5 truck3 s16
 1
 11 8
 2
-0 14 55 41
 0 7 -1 0
+0 14 55 41
 1
 end_operator
 begin_operator
@@ -9736,8 +9736,8 @@ disembark-truck driver5 truck3 s17
 1
 11 9
 2
-0 14 55 42
 0 7 -1 0
+0 14 55 42
 1
 end_operator
 begin_operator
@@ -9745,8 +9745,8 @@ disembark-truck driver5 truck3 s18
 1
 11 10
 2
-0 14 55 43
 0 7 -1 0
+0 14 55 43
 1
 end_operator
 begin_operator
@@ -9754,8 +9754,8 @@ disembark-truck driver5 truck3 s19
 1
 11 11
 2
-0 14 55 44
 0 7 -1 0
+0 14 55 44
 1
 end_operator
 begin_operator
@@ -9763,8 +9763,8 @@ disembark-truck driver5 truck3 s2
 1
 11 12
 2
-0 14 55 45
 0 7 -1 0
+0 14 55 45
 1
 end_operator
 begin_operator
@@ -9772,8 +9772,8 @@ disembark-truck driver5 truck3 s3
 1
 11 13
 2
-0 14 55 46
 0 7 -1 0
+0 14 55 46
 1
 end_operator
 begin_operator
@@ -9781,8 +9781,8 @@ disembark-truck driver5 truck3 s4
 1
 11 14
 2
-0 14 55 47
 0 7 -1 0
+0 14 55 47
 1
 end_operator
 begin_operator
@@ -9790,8 +9790,8 @@ disembark-truck driver5 truck3 s5
 1
 11 15
 2
-0 14 55 48
 0 7 -1 0
+0 14 55 48
 1
 end_operator
 begin_operator
@@ -9799,8 +9799,8 @@ disembark-truck driver5 truck3 s6
 1
 11 16
 2
-0 14 55 49
 0 7 -1 0
+0 14 55 49
 1
 end_operator
 begin_operator
@@ -9808,8 +9808,8 @@ disembark-truck driver5 truck3 s7
 1
 11 17
 2
-0 14 55 50
 0 7 -1 0
+0 14 55 50
 1
 end_operator
 begin_operator
@@ -9817,8 +9817,8 @@ disembark-truck driver5 truck3 s8
 1
 11 18
 2
-0 14 55 51
 0 7 -1 0
+0 14 55 51
 1
 end_operator
 begin_operator
@@ -9826,8 +9826,8 @@ disembark-truck driver5 truck3 s9
 1
 11 19
 2
-0 14 55 52
 0 7 -1 0
+0 14 55 52
 1
 end_operator
 begin_operator
@@ -9835,8 +9835,8 @@ disembark-truck driver5 truck4 s0
 1
 3 0
 2
-0 14 56 33
 0 4 -1 0
+0 14 56 33
 1
 end_operator
 begin_operator
@@ -9844,8 +9844,8 @@ disembark-truck driver5 truck4 s1
 1
 3 1
 2
-0 14 56 34
 0 4 -1 0
+0 14 56 34
 1
 end_operator
 begin_operator
@@ -9853,8 +9853,8 @@ disembark-truck driver5 truck4 s10
 1
 3 2
 2
-0 14 56 35
 0 4 -1 0
+0 14 56 35
 1
 end_operator
 begin_operator
@@ -9862,8 +9862,8 @@ disembark-truck driver5 truck4 s11
 1
 3 3
 2
-0 14 56 36
 0 4 -1 0
+0 14 56 36
 1
 end_operator
 begin_operator
@@ -9871,8 +9871,8 @@ disembark-truck driver5 truck4 s12
 1
 3 4
 2
-0 14 56 37
 0 4 -1 0
+0 14 56 37
 1
 end_operator
 begin_operator
@@ -9880,8 +9880,8 @@ disembark-truck driver5 truck4 s13
 1
 3 5
 2
-0 14 56 38
 0 4 -1 0
+0 14 56 38
 1
 end_operator
 begin_operator
@@ -9889,8 +9889,8 @@ disembark-truck driver5 truck4 s14
 1
 3 6
 2
-0 14 56 39
 0 4 -1 0
+0 14 56 39
 1
 end_operator
 begin_operator
@@ -9898,8 +9898,8 @@ disembark-truck driver5 truck4 s15
 1
 3 7
 2
-0 14 56 40
 0 4 -1 0
+0 14 56 40
 1
 end_operator
 begin_operator
@@ -9907,8 +9907,8 @@ disembark-truck driver5 truck4 s16
 1
 3 8
 2
-0 14 56 41
 0 4 -1 0
+0 14 56 41
 1
 end_operator
 begin_operator
@@ -9916,8 +9916,8 @@ disembark-truck driver5 truck4 s17
 1
 3 9
 2
-0 14 56 42
 0 4 -1 0
+0 14 56 42
 1
 end_operator
 begin_operator
@@ -9925,8 +9925,8 @@ disembark-truck driver5 truck4 s18
 1
 3 10
 2
-0 14 56 43
 0 4 -1 0
+0 14 56 43
 1
 end_operator
 begin_operator
@@ -9934,8 +9934,8 @@ disembark-truck driver5 truck4 s19
 1
 3 11
 2
-0 14 56 44
 0 4 -1 0
+0 14 56 44
 1
 end_operator
 begin_operator
@@ -9943,8 +9943,8 @@ disembark-truck driver5 truck4 s2
 1
 3 12
 2
-0 14 56 45
 0 4 -1 0
+0 14 56 45
 1
 end_operator
 begin_operator
@@ -9952,8 +9952,8 @@ disembark-truck driver5 truck4 s3
 1
 3 13
 2
-0 14 56 46
 0 4 -1 0
+0 14 56 46
 1
 end_operator
 begin_operator
@@ -9961,8 +9961,8 @@ disembark-truck driver5 truck4 s4
 1
 3 14
 2
-0 14 56 47
 0 4 -1 0
+0 14 56 47
 1
 end_operator
 begin_operator
@@ -9970,8 +9970,8 @@ disembark-truck driver5 truck4 s5
 1
 3 15
 2
-0 14 56 48
 0 4 -1 0
+0 14 56 48
 1
 end_operator
 begin_operator
@@ -9979,8 +9979,8 @@ disembark-truck driver5 truck4 s6
 1
 3 16
 2
-0 14 56 49
 0 4 -1 0
+0 14 56 49
 1
 end_operator
 begin_operator
@@ -9988,8 +9988,8 @@ disembark-truck driver5 truck4 s7
 1
 3 17
 2
-0 14 56 50
 0 4 -1 0
+0 14 56 50
 1
 end_operator
 begin_operator
@@ -9997,8 +9997,8 @@ disembark-truck driver5 truck4 s8
 1
 3 18
 2
-0 14 56 51
 0 4 -1 0
+0 14 56 51
 1
 end_operator
 begin_operator
@@ -10006,8 +10006,8 @@ disembark-truck driver5 truck4 s9
 1
 3 19
 2
-0 14 56 52
 0 4 -1 0
+0 14 56 52
 1
 end_operator
 begin_operator
@@ -10015,8 +10015,8 @@ disembark-truck driver5 truck5 s0
 1
 12 0
 2
-0 14 57 33
 0 8 -1 0
+0 14 57 33
 1
 end_operator
 begin_operator
@@ -10024,8 +10024,8 @@ disembark-truck driver5 truck5 s1
 1
 12 1
 2
-0 14 57 34
 0 8 -1 0
+0 14 57 34
 1
 end_operator
 begin_operator
@@ -10033,8 +10033,8 @@ disembark-truck driver5 truck5 s10
 1
 12 2
 2
-0 14 57 35
 0 8 -1 0
+0 14 57 35
 1
 end_operator
 begin_operator
@@ -10042,8 +10042,8 @@ disembark-truck driver5 truck5 s11
 1
 12 3
 2
-0 14 57 36
 0 8 -1 0
+0 14 57 36
 1
 end_operator
 begin_operator
@@ -10051,8 +10051,8 @@ disembark-truck driver5 truck5 s12
 1
 12 4
 2
-0 14 57 37
 0 8 -1 0
+0 14 57 37
 1
 end_operator
 begin_operator
@@ -10060,8 +10060,8 @@ disembark-truck driver5 truck5 s13
 1
 12 5
 2
-0 14 57 38
 0 8 -1 0
+0 14 57 38
 1
 end_operator
 begin_operator
@@ -10069,8 +10069,8 @@ disembark-truck driver5 truck5 s14
 1
 12 6
 2
-0 14 57 39
 0 8 -1 0
+0 14 57 39
 1
 end_operator
 begin_operator
@@ -10078,8 +10078,8 @@ disembark-truck driver5 truck5 s15
 1
 12 7
 2
-0 14 57 40
 0 8 -1 0
+0 14 57 40
 1
 end_operator
 begin_operator
@@ -10087,8 +10087,8 @@ disembark-truck driver5 truck5 s16
 1
 12 8
 2
-0 14 57 41
 0 8 -1 0
+0 14 57 41
 1
 end_operator
 begin_operator
@@ -10096,8 +10096,8 @@ disembark-truck driver5 truck5 s17
 1
 12 9
 2
-0 14 57 42
 0 8 -1 0
+0 14 57 42
 1
 end_operator
 begin_operator
@@ -10105,8 +10105,8 @@ disembark-truck driver5 truck5 s18
 1
 12 10
 2
-0 14 57 43
 0 8 -1 0
+0 14 57 43
 1
 end_operator
 begin_operator
@@ -10114,8 +10114,8 @@ disembark-truck driver5 truck5 s19
 1
 12 11
 2
-0 14 57 44
 0 8 -1 0
+0 14 57 44
 1
 end_operator
 begin_operator
@@ -10123,8 +10123,8 @@ disembark-truck driver5 truck5 s2
 1
 12 12
 2
-0 14 57 45
 0 8 -1 0
+0 14 57 45
 1
 end_operator
 begin_operator
@@ -10132,8 +10132,8 @@ disembark-truck driver5 truck5 s3
 1
 12 13
 2
-0 14 57 46
 0 8 -1 0
+0 14 57 46
 1
 end_operator
 begin_operator
@@ -10141,8 +10141,8 @@ disembark-truck driver5 truck5 s4
 1
 12 14
 2
-0 14 57 47
 0 8 -1 0
+0 14 57 47
 1
 end_operator
 begin_operator
@@ -10150,8 +10150,8 @@ disembark-truck driver5 truck5 s5
 1
 12 15
 2
-0 14 57 48
 0 8 -1 0
+0 14 57 48
 1
 end_operator
 begin_operator
@@ -10159,8 +10159,8 @@ disembark-truck driver5 truck5 s6
 1
 12 16
 2
-0 14 57 49
 0 8 -1 0
+0 14 57 49
 1
 end_operator
 begin_operator
@@ -10168,8 +10168,8 @@ disembark-truck driver5 truck5 s7
 1
 12 17
 2
-0 14 57 50
 0 8 -1 0
+0 14 57 50
 1
 end_operator
 begin_operator
@@ -10177,8 +10177,8 @@ disembark-truck driver5 truck5 s8
 1
 12 18
 2
-0 14 57 51
 0 8 -1 0
+0 14 57 51
 1
 end_operator
 begin_operator
@@ -10186,8 +10186,8 @@ disembark-truck driver5 truck5 s9
 1
 12 19
 2
-0 14 57 52
 0 8 -1 0
+0 14 57 52
 1
 end_operator
 begin_operator

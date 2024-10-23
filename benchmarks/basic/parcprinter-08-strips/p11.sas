@@ -224,8 +224,8 @@ fe1-feed-letter sheet1
 1
 14 0
 2
-0 17 12 0
 0 16 -1 0
+0 17 12 0
 899
 end_operator
 begin_operator
@@ -233,8 +233,8 @@ fe1-feedmsi-letter sheet1
 1
 14 0
 2
-0 17 12 0
 0 16 -1 0
+0 17 12 0
 500
 end_operator
 begin_operator
@@ -273,21 +273,21 @@ begin_operator
 initialize 
 0
 15
-0 14 -1 0
-0 13 -1 0
-0 12 -1 0
-0 11 -1 0
-0 10 -1 0
-0 9 -1 0
-0 8 -1 0
-0 7 -1 0
-0 6 -1 0
-0 5 -1 0
-0 4 -1 0
-0 3 -1 0
-0 2 -1 0
-0 1 -1 0
 0 0 0 1
+0 1 -1 0
+0 2 -1 0
+0 3 -1 0
+0 4 -1 0
+0 5 -1 0
+0 6 -1 0
+0 7 -1 0
+0 8 -1 0
+0 9 -1 0
+0 10 -1 0
+0 11 -1 0
+0 12 -1 0
+0 13 -1 0
+0 14 -1 0
 0
 end_operator
 begin_operator
@@ -296,9 +296,9 @@ lbe-simplex-letter sheet1 back image-1
 12 0
 16 0
 3
-0 22 -1 0
 0 17 2 4
 0 18 0 1
+0 22 -1 0
 123749
 end_operator
 begin_operator
@@ -307,9 +307,9 @@ lbe-simplex-letter sheet1 front image-1
 12 0
 19 0
 3
-0 21 -1 0
-0 17 2 4
 0 15 0 1
+0 17 2 4
+0 21 -1 0
 123749
 end_operator
 begin_operator
@@ -317,8 +317,8 @@ lc1-divert-letter sheet1 back front
 1
 11 0
 3
-0 17 1 2
 0 16 0 1
+0 17 1 2
 0 19 -1 0
 11805
 end_operator
@@ -327,8 +327,8 @@ lc1-divert-letter sheet1 front back
 1
 11 0
 3
-0 17 1 2
 0 16 -1 0
+0 17 1 2
 0 19 0 1
 11805
 end_operator
@@ -353,8 +353,8 @@ lc1-mergeinvert-letter sheet1 back front
 1
 11 0
 3
-0 17 4 3
 0 16 0 1
+0 17 4 3
 0 19 -1 0
 28119
 end_operator
@@ -363,8 +363,8 @@ lc1-mergeinvert-letter sheet1 front back
 1
 11 0
 3
-0 17 4 3
 0 16 -1 0
+0 17 4 3
 0 19 0 1
 28119
 end_operator
@@ -373,8 +373,8 @@ lc2-divert-letter sheet1 back front
 1
 10 0
 3
-0 17 3 6
 0 16 0 1
+0 17 3 6
 0 19 -1 0
 17452
 end_operator
@@ -383,8 +383,8 @@ lc2-divert-letter sheet1 front back
 1
 10 0
 3
-0 17 3 6
 0 16 -1 0
+0 17 3 6
 0 19 0 1
 17452
 end_operator
@@ -401,8 +401,8 @@ lc2-merge-letter sheet1 back front
 1
 10 0
 3
-0 17 5 7
 0 16 0 1
+0 17 5 7
 0 19 -1 0
 78919
 end_operator
@@ -411,8 +411,8 @@ lc2-merge-letter sheet1 front back
 1
 10 0
 3
-0 17 5 7
 0 16 -1 0
+0 17 5 7
 0 19 0 1
 78919
 end_operator
@@ -430,9 +430,9 @@ lre-simplexmono-letter sheet1 back image-1
 9 0
 16 0
 3
-0 22 -1 0
 0 17 6 5
 0 18 0 1
+0 22 -1 0
 211849
 end_operator
 begin_operator
@@ -441,9 +441,9 @@ lre-simplexmono-letter sheet1 front image-1
 9 0
 19 0
 3
-0 21 -1 0
-0 17 6 5
 0 15 0 1
+0 17 6 5
+0 21 -1 0
 211849
 end_operator
 begin_operator
@@ -509,9 +509,9 @@ ube-simplex-letter sheet1 back image-1
 4 0
 16 0
 3
-0 22 -1 0
 0 17 14 16
 0 18 0 1
+0 22 -1 0
 123749
 end_operator
 begin_operator
@@ -520,9 +520,9 @@ ube-simplex-letter sheet1 front image-1
 4 0
 19 0
 3
-0 21 -1 0
-0 17 14 16
 0 15 0 1
+0 17 14 16
+0 21 -1 0
 123749
 end_operator
 begin_operator
@@ -530,8 +530,8 @@ uc1-divert-letter sheet1 back front
 1
 3 0
 3
-0 17 15 14
 0 16 0 1
+0 17 15 14
 0 19 -1 0
 11805
 end_operator
@@ -540,8 +540,8 @@ uc1-divert-letter sheet1 front back
 1
 3 0
 3
-0 17 15 14
 0 16 -1 0
+0 17 15 14
 0 19 0 1
 11805
 end_operator
@@ -566,8 +566,8 @@ uc1-mergeinvert-letter sheet1 back front
 1
 3 0
 3
-0 17 16 17
 0 16 0 1
+0 17 16 17
 0 19 -1 0
 28119
 end_operator
@@ -576,8 +576,8 @@ uc1-mergeinvert-letter sheet1 front back
 1
 3 0
 3
-0 17 16 17
 0 16 -1 0
+0 17 16 17
 0 19 0 1
 28119
 end_operator
@@ -586,8 +586,8 @@ uc2-divert-letter sheet1 back front
 1
 2 0
 3
-0 17 17 19
 0 16 0 1
+0 17 17 19
 0 19 -1 0
 17452
 end_operator
@@ -596,8 +596,8 @@ uc2-divert-letter sheet1 front back
 1
 2 0
 3
-0 17 17 19
 0 16 -1 0
+0 17 17 19
 0 19 0 1
 17452
 end_operator
@@ -614,8 +614,8 @@ uc2-merge-letter sheet1 back front
 1
 2 0
 3
-0 17 20 18
 0 16 0 1
+0 17 20 18
 0 19 -1 0
 78919
 end_operator
@@ -624,8 +624,8 @@ uc2-merge-letter sheet1 front back
 1
 2 0
 3
-0 17 20 18
 0 16 -1 0
+0 17 20 18
 0 19 0 1
 78919
 end_operator
@@ -643,9 +643,9 @@ ure-simplexmono-letter sheet1 back image-1
 1 0
 16 0
 3
-0 22 -1 0
 0 17 19 20
 0 18 0 1
+0 22 -1 0
 211849
 end_operator
 begin_operator
@@ -654,9 +654,9 @@ ure-simplexmono-letter sheet1 front image-1
 1 0
 19 0
 3
-0 21 -1 0
-0 17 19 20
 0 15 0 1
+0 17 19 20
+0 21 -1 0
 211849
 end_operator
 0

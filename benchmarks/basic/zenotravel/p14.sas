@@ -13231,480 +13231,480 @@ begin_operator
 fly plane2 city0 city1 fl1 fl0
 0
 2
-0 7 0 1
 0 6 1 0
+0 7 0 1
 1
 end_operator
 begin_operator
 fly plane2 city0 city1 fl2 fl1
 0
 2
-0 7 0 1
 0 6 2 1
+0 7 0 1
 1
 end_operator
 begin_operator
 fly plane2 city0 city1 fl3 fl2
 0
 2
-0 7 0 1
 0 6 3 2
+0 7 0 1
 1
 end_operator
 begin_operator
 fly plane2 city0 city1 fl4 fl3
 0
 2
-0 7 0 1
 0 6 4 3
+0 7 0 1
 1
 end_operator
 begin_operator
 fly plane2 city0 city1 fl5 fl4
 0
 2
-0 7 0 1
 0 6 5 4
+0 7 0 1
 1
 end_operator
 begin_operator
 fly plane2 city0 city1 fl6 fl5
 0
 2
-0 7 0 1
 0 6 6 5
+0 7 0 1
 1
 end_operator
 begin_operator
 fly plane2 city0 city2 fl1 fl0
 0
 2
-0 7 0 2
 0 6 1 0
+0 7 0 2
 1
 end_operator
 begin_operator
 fly plane2 city0 city2 fl2 fl1
 0
 2
-0 7 0 2
 0 6 2 1
+0 7 0 2
 1
 end_operator
 begin_operator
 fly plane2 city0 city2 fl3 fl2
 0
 2
-0 7 0 2
 0 6 3 2
+0 7 0 2
 1
 end_operator
 begin_operator
 fly plane2 city0 city2 fl4 fl3
 0
 2
-0 7 0 2
 0 6 4 3
+0 7 0 2
 1
 end_operator
 begin_operator
 fly plane2 city0 city2 fl5 fl4
 0
 2
-0 7 0 2
 0 6 5 4
+0 7 0 2
 1
 end_operator
 begin_operator
 fly plane2 city0 city2 fl6 fl5
 0
 2
-0 7 0 2
 0 6 6 5
+0 7 0 2
 1
 end_operator
 begin_operator
 fly plane2 city0 city3 fl1 fl0
 0
 2
-0 7 0 3
 0 6 1 0
+0 7 0 3
 1
 end_operator
 begin_operator
 fly plane2 city0 city3 fl2 fl1
 0
 2
-0 7 0 3
 0 6 2 1
+0 7 0 3
 1
 end_operator
 begin_operator
 fly plane2 city0 city3 fl3 fl2
 0
 2
-0 7 0 3
 0 6 3 2
+0 7 0 3
 1
 end_operator
 begin_operator
 fly plane2 city0 city3 fl4 fl3
 0
 2
-0 7 0 3
 0 6 4 3
+0 7 0 3
 1
 end_operator
 begin_operator
 fly plane2 city0 city3 fl5 fl4
 0
 2
-0 7 0 3
 0 6 5 4
+0 7 0 3
 1
 end_operator
 begin_operator
 fly plane2 city0 city3 fl6 fl5
 0
 2
-0 7 0 3
 0 6 6 5
+0 7 0 3
 1
 end_operator
 begin_operator
 fly plane2 city0 city4 fl1 fl0
 0
 2
-0 7 0 4
 0 6 1 0
+0 7 0 4
 1
 end_operator
 begin_operator
 fly plane2 city0 city4 fl2 fl1
 0
 2
-0 7 0 4
 0 6 2 1
+0 7 0 4
 1
 end_operator
 begin_operator
 fly plane2 city0 city4 fl3 fl2
 0
 2
-0 7 0 4
 0 6 3 2
+0 7 0 4
 1
 end_operator
 begin_operator
 fly plane2 city0 city4 fl4 fl3
 0
 2
-0 7 0 4
 0 6 4 3
+0 7 0 4
 1
 end_operator
 begin_operator
 fly plane2 city0 city4 fl5 fl4
 0
 2
-0 7 0 4
 0 6 5 4
+0 7 0 4
 1
 end_operator
 begin_operator
 fly plane2 city0 city4 fl6 fl5
 0
 2
-0 7 0 4
 0 6 6 5
+0 7 0 4
 1
 end_operator
 begin_operator
 fly plane2 city0 city5 fl1 fl0
 0
 2
-0 7 0 5
 0 6 1 0
+0 7 0 5
 1
 end_operator
 begin_operator
 fly plane2 city0 city5 fl2 fl1
 0
 2
-0 7 0 5
 0 6 2 1
+0 7 0 5
 1
 end_operator
 begin_operator
 fly plane2 city0 city5 fl3 fl2
 0
 2
-0 7 0 5
 0 6 3 2
+0 7 0 5
 1
 end_operator
 begin_operator
 fly plane2 city0 city5 fl4 fl3
 0
 2
-0 7 0 5
 0 6 4 3
+0 7 0 5
 1
 end_operator
 begin_operator
 fly plane2 city0 city5 fl5 fl4
 0
 2
-0 7 0 5
 0 6 5 4
+0 7 0 5
 1
 end_operator
 begin_operator
 fly plane2 city0 city5 fl6 fl5
 0
 2
-0 7 0 5
 0 6 6 5
+0 7 0 5
 1
 end_operator
 begin_operator
 fly plane2 city0 city6 fl1 fl0
 0
 2
-0 7 0 6
 0 6 1 0
+0 7 0 6
 1
 end_operator
 begin_operator
 fly plane2 city0 city6 fl2 fl1
 0
 2
-0 7 0 6
 0 6 2 1
+0 7 0 6
 1
 end_operator
 begin_operator
 fly plane2 city0 city6 fl3 fl2
 0
 2
-0 7 0 6
 0 6 3 2
+0 7 0 6
 1
 end_operator
 begin_operator
 fly plane2 city0 city6 fl4 fl3
 0
 2
-0 7 0 6
 0 6 4 3
+0 7 0 6
 1
 end_operator
 begin_operator
 fly plane2 city0 city6 fl5 fl4
 0
 2
-0 7 0 6
 0 6 5 4
+0 7 0 6
 1
 end_operator
 begin_operator
 fly plane2 city0 city6 fl6 fl5
 0
 2
-0 7 0 6
 0 6 6 5
+0 7 0 6
 1
 end_operator
 begin_operator
 fly plane2 city0 city7 fl1 fl0
 0
 2
-0 7 0 7
 0 6 1 0
+0 7 0 7
 1
 end_operator
 begin_operator
 fly plane2 city0 city7 fl2 fl1
 0
 2
-0 7 0 7
 0 6 2 1
+0 7 0 7
 1
 end_operator
 begin_operator
 fly plane2 city0 city7 fl3 fl2
 0
 2
-0 7 0 7
 0 6 3 2
+0 7 0 7
 1
 end_operator
 begin_operator
 fly plane2 city0 city7 fl4 fl3
 0
 2
-0 7 0 7
 0 6 4 3
+0 7 0 7
 1
 end_operator
 begin_operator
 fly plane2 city0 city7 fl5 fl4
 0
 2
-0 7 0 7
 0 6 5 4
+0 7 0 7
 1
 end_operator
 begin_operator
 fly plane2 city0 city7 fl6 fl5
 0
 2
-0 7 0 7
 0 6 6 5
+0 7 0 7
 1
 end_operator
 begin_operator
 fly plane2 city0 city8 fl1 fl0
 0
 2
-0 7 0 8
 0 6 1 0
+0 7 0 8
 1
 end_operator
 begin_operator
 fly plane2 city0 city8 fl2 fl1
 0
 2
-0 7 0 8
 0 6 2 1
+0 7 0 8
 1
 end_operator
 begin_operator
 fly plane2 city0 city8 fl3 fl2
 0
 2
-0 7 0 8
 0 6 3 2
+0 7 0 8
 1
 end_operator
 begin_operator
 fly plane2 city0 city8 fl4 fl3
 0
 2
-0 7 0 8
 0 6 4 3
+0 7 0 8
 1
 end_operator
 begin_operator
 fly plane2 city0 city8 fl5 fl4
 0
 2
-0 7 0 8
 0 6 5 4
+0 7 0 8
 1
 end_operator
 begin_operator
 fly plane2 city0 city8 fl6 fl5
 0
 2
-0 7 0 8
 0 6 6 5
+0 7 0 8
 1
 end_operator
 begin_operator
 fly plane2 city0 city9 fl1 fl0
 0
 2
-0 7 0 9
 0 6 1 0
+0 7 0 9
 1
 end_operator
 begin_operator
 fly plane2 city0 city9 fl2 fl1
 0
 2
-0 7 0 9
 0 6 2 1
+0 7 0 9
 1
 end_operator
 begin_operator
 fly plane2 city0 city9 fl3 fl2
 0
 2
-0 7 0 9
 0 6 3 2
+0 7 0 9
 1
 end_operator
 begin_operator
 fly plane2 city0 city9 fl4 fl3
 0
 2
-0 7 0 9
 0 6 4 3
+0 7 0 9
 1
 end_operator
 begin_operator
 fly plane2 city0 city9 fl5 fl4
 0
 2
-0 7 0 9
 0 6 5 4
+0 7 0 9
 1
 end_operator
 begin_operator
 fly plane2 city0 city9 fl6 fl5
 0
 2
-0 7 0 9
 0 6 6 5
+0 7 0 9
 1
 end_operator
 begin_operator
 fly plane2 city1 city0 fl1 fl0
 0
 2
-0 7 1 0
 0 6 1 0
+0 7 1 0
 1
 end_operator
 begin_operator
 fly plane2 city1 city0 fl2 fl1
 0
 2
-0 7 1 0
 0 6 2 1
+0 7 1 0
 1
 end_operator
 begin_operator
 fly plane2 city1 city0 fl3 fl2
 0
 2
-0 7 1 0
 0 6 3 2
+0 7 1 0
 1
 end_operator
 begin_operator
 fly plane2 city1 city0 fl4 fl3
 0
 2
-0 7 1 0
 0 6 4 3
+0 7 1 0
 1
 end_operator
 begin_operator
 fly plane2 city1 city0 fl5 fl4
 0
 2
-0 7 1 0
 0 6 5 4
+0 7 1 0
 1
 end_operator
 begin_operator
 fly plane2 city1 city0 fl6 fl5
 0
 2
-0 7 1 0
 0 6 6 5
+0 7 1 0
 1
 end_operator
 begin_operator
@@ -13759,480 +13759,480 @@ begin_operator
 fly plane2 city1 city2 fl1 fl0
 0
 2
-0 7 1 2
 0 6 1 0
+0 7 1 2
 1
 end_operator
 begin_operator
 fly plane2 city1 city2 fl2 fl1
 0
 2
-0 7 1 2
 0 6 2 1
+0 7 1 2
 1
 end_operator
 begin_operator
 fly plane2 city1 city2 fl3 fl2
 0
 2
-0 7 1 2
 0 6 3 2
+0 7 1 2
 1
 end_operator
 begin_operator
 fly plane2 city1 city2 fl4 fl3
 0
 2
-0 7 1 2
 0 6 4 3
+0 7 1 2
 1
 end_operator
 begin_operator
 fly plane2 city1 city2 fl5 fl4
 0
 2
-0 7 1 2
 0 6 5 4
+0 7 1 2
 1
 end_operator
 begin_operator
 fly plane2 city1 city2 fl6 fl5
 0
 2
-0 7 1 2
 0 6 6 5
+0 7 1 2
 1
 end_operator
 begin_operator
 fly plane2 city1 city3 fl1 fl0
 0
 2
-0 7 1 3
 0 6 1 0
+0 7 1 3
 1
 end_operator
 begin_operator
 fly plane2 city1 city3 fl2 fl1
 0
 2
-0 7 1 3
 0 6 2 1
+0 7 1 3
 1
 end_operator
 begin_operator
 fly plane2 city1 city3 fl3 fl2
 0
 2
-0 7 1 3
 0 6 3 2
+0 7 1 3
 1
 end_operator
 begin_operator
 fly plane2 city1 city3 fl4 fl3
 0
 2
-0 7 1 3
 0 6 4 3
+0 7 1 3
 1
 end_operator
 begin_operator
 fly plane2 city1 city3 fl5 fl4
 0
 2
-0 7 1 3
 0 6 5 4
+0 7 1 3
 1
 end_operator
 begin_operator
 fly plane2 city1 city3 fl6 fl5
 0
 2
-0 7 1 3
 0 6 6 5
+0 7 1 3
 1
 end_operator
 begin_operator
 fly plane2 city1 city4 fl1 fl0
 0
 2
-0 7 1 4
 0 6 1 0
+0 7 1 4
 1
 end_operator
 begin_operator
 fly plane2 city1 city4 fl2 fl1
 0
 2
-0 7 1 4
 0 6 2 1
+0 7 1 4
 1
 end_operator
 begin_operator
 fly plane2 city1 city4 fl3 fl2
 0
 2
-0 7 1 4
 0 6 3 2
+0 7 1 4
 1
 end_operator
 begin_operator
 fly plane2 city1 city4 fl4 fl3
 0
 2
-0 7 1 4
 0 6 4 3
+0 7 1 4
 1
 end_operator
 begin_operator
 fly plane2 city1 city4 fl5 fl4
 0
 2
-0 7 1 4
 0 6 5 4
+0 7 1 4
 1
 end_operator
 begin_operator
 fly plane2 city1 city4 fl6 fl5
 0
 2
-0 7 1 4
 0 6 6 5
+0 7 1 4
 1
 end_operator
 begin_operator
 fly plane2 city1 city5 fl1 fl0
 0
 2
-0 7 1 5
 0 6 1 0
+0 7 1 5
 1
 end_operator
 begin_operator
 fly plane2 city1 city5 fl2 fl1
 0
 2
-0 7 1 5
 0 6 2 1
+0 7 1 5
 1
 end_operator
 begin_operator
 fly plane2 city1 city5 fl3 fl2
 0
 2
-0 7 1 5
 0 6 3 2
+0 7 1 5
 1
 end_operator
 begin_operator
 fly plane2 city1 city5 fl4 fl3
 0
 2
-0 7 1 5
 0 6 4 3
+0 7 1 5
 1
 end_operator
 begin_operator
 fly plane2 city1 city5 fl5 fl4
 0
 2
-0 7 1 5
 0 6 5 4
+0 7 1 5
 1
 end_operator
 begin_operator
 fly plane2 city1 city5 fl6 fl5
 0
 2
-0 7 1 5
 0 6 6 5
+0 7 1 5
 1
 end_operator
 begin_operator
 fly plane2 city1 city6 fl1 fl0
 0
 2
-0 7 1 6
 0 6 1 0
+0 7 1 6
 1
 end_operator
 begin_operator
 fly plane2 city1 city6 fl2 fl1
 0
 2
-0 7 1 6
 0 6 2 1
+0 7 1 6
 1
 end_operator
 begin_operator
 fly plane2 city1 city6 fl3 fl2
 0
 2
-0 7 1 6
 0 6 3 2
+0 7 1 6
 1
 end_operator
 begin_operator
 fly plane2 city1 city6 fl4 fl3
 0
 2
-0 7 1 6
 0 6 4 3
+0 7 1 6
 1
 end_operator
 begin_operator
 fly plane2 city1 city6 fl5 fl4
 0
 2
-0 7 1 6
 0 6 5 4
+0 7 1 6
 1
 end_operator
 begin_operator
 fly plane2 city1 city6 fl6 fl5
 0
 2
-0 7 1 6
 0 6 6 5
+0 7 1 6
 1
 end_operator
 begin_operator
 fly plane2 city1 city7 fl1 fl0
 0
 2
-0 7 1 7
 0 6 1 0
+0 7 1 7
 1
 end_operator
 begin_operator
 fly plane2 city1 city7 fl2 fl1
 0
 2
-0 7 1 7
 0 6 2 1
+0 7 1 7
 1
 end_operator
 begin_operator
 fly plane2 city1 city7 fl3 fl2
 0
 2
-0 7 1 7
 0 6 3 2
+0 7 1 7
 1
 end_operator
 begin_operator
 fly plane2 city1 city7 fl4 fl3
 0
 2
-0 7 1 7
 0 6 4 3
+0 7 1 7
 1
 end_operator
 begin_operator
 fly plane2 city1 city7 fl5 fl4
 0
 2
-0 7 1 7
 0 6 5 4
+0 7 1 7
 1
 end_operator
 begin_operator
 fly plane2 city1 city7 fl6 fl5
 0
 2
-0 7 1 7
 0 6 6 5
+0 7 1 7
 1
 end_operator
 begin_operator
 fly plane2 city1 city8 fl1 fl0
 0
 2
-0 7 1 8
 0 6 1 0
+0 7 1 8
 1
 end_operator
 begin_operator
 fly plane2 city1 city8 fl2 fl1
 0
 2
-0 7 1 8
 0 6 2 1
+0 7 1 8
 1
 end_operator
 begin_operator
 fly plane2 city1 city8 fl3 fl2
 0
 2
-0 7 1 8
 0 6 3 2
+0 7 1 8
 1
 end_operator
 begin_operator
 fly plane2 city1 city8 fl4 fl3
 0
 2
-0 7 1 8
 0 6 4 3
+0 7 1 8
 1
 end_operator
 begin_operator
 fly plane2 city1 city8 fl5 fl4
 0
 2
-0 7 1 8
 0 6 5 4
+0 7 1 8
 1
 end_operator
 begin_operator
 fly plane2 city1 city8 fl6 fl5
 0
 2
-0 7 1 8
 0 6 6 5
+0 7 1 8
 1
 end_operator
 begin_operator
 fly plane2 city1 city9 fl1 fl0
 0
 2
-0 7 1 9
 0 6 1 0
+0 7 1 9
 1
 end_operator
 begin_operator
 fly plane2 city1 city9 fl2 fl1
 0
 2
-0 7 1 9
 0 6 2 1
+0 7 1 9
 1
 end_operator
 begin_operator
 fly plane2 city1 city9 fl3 fl2
 0
 2
-0 7 1 9
 0 6 3 2
+0 7 1 9
 1
 end_operator
 begin_operator
 fly plane2 city1 city9 fl4 fl3
 0
 2
-0 7 1 9
 0 6 4 3
+0 7 1 9
 1
 end_operator
 begin_operator
 fly plane2 city1 city9 fl5 fl4
 0
 2
-0 7 1 9
 0 6 5 4
+0 7 1 9
 1
 end_operator
 begin_operator
 fly plane2 city1 city9 fl6 fl5
 0
 2
-0 7 1 9
 0 6 6 5
+0 7 1 9
 1
 end_operator
 begin_operator
 fly plane2 city2 city0 fl1 fl0
 0
 2
-0 7 2 0
 0 6 1 0
+0 7 2 0
 1
 end_operator
 begin_operator
 fly plane2 city2 city0 fl2 fl1
 0
 2
-0 7 2 0
 0 6 2 1
+0 7 2 0
 1
 end_operator
 begin_operator
 fly plane2 city2 city0 fl3 fl2
 0
 2
-0 7 2 0
 0 6 3 2
+0 7 2 0
 1
 end_operator
 begin_operator
 fly plane2 city2 city0 fl4 fl3
 0
 2
-0 7 2 0
 0 6 4 3
+0 7 2 0
 1
 end_operator
 begin_operator
 fly plane2 city2 city0 fl5 fl4
 0
 2
-0 7 2 0
 0 6 5 4
+0 7 2 0
 1
 end_operator
 begin_operator
 fly plane2 city2 city0 fl6 fl5
 0
 2
-0 7 2 0
 0 6 6 5
+0 7 2 0
 1
 end_operator
 begin_operator
 fly plane2 city2 city1 fl1 fl0
 0
 2
-0 7 2 1
 0 6 1 0
+0 7 2 1
 1
 end_operator
 begin_operator
 fly plane2 city2 city1 fl2 fl1
 0
 2
-0 7 2 1
 0 6 2 1
+0 7 2 1
 1
 end_operator
 begin_operator
 fly plane2 city2 city1 fl3 fl2
 0
 2
-0 7 2 1
 0 6 3 2
+0 7 2 1
 1
 end_operator
 begin_operator
 fly plane2 city2 city1 fl4 fl3
 0
 2
-0 7 2 1
 0 6 4 3
+0 7 2 1
 1
 end_operator
 begin_operator
 fly plane2 city2 city1 fl5 fl4
 0
 2
-0 7 2 1
 0 6 5 4
+0 7 2 1
 1
 end_operator
 begin_operator
 fly plane2 city2 city1 fl6 fl5
 0
 2
-0 7 2 1
 0 6 6 5
+0 7 2 1
 1
 end_operator
 begin_operator
@@ -14287,480 +14287,480 @@ begin_operator
 fly plane2 city2 city3 fl1 fl0
 0
 2
-0 7 2 3
 0 6 1 0
+0 7 2 3
 1
 end_operator
 begin_operator
 fly plane2 city2 city3 fl2 fl1
 0
 2
-0 7 2 3
 0 6 2 1
+0 7 2 3
 1
 end_operator
 begin_operator
 fly plane2 city2 city3 fl3 fl2
 0
 2
-0 7 2 3
 0 6 3 2
+0 7 2 3
 1
 end_operator
 begin_operator
 fly plane2 city2 city3 fl4 fl3
 0
 2
-0 7 2 3
 0 6 4 3
+0 7 2 3
 1
 end_operator
 begin_operator
 fly plane2 city2 city3 fl5 fl4
 0
 2
-0 7 2 3
 0 6 5 4
+0 7 2 3
 1
 end_operator
 begin_operator
 fly plane2 city2 city3 fl6 fl5
 0
 2
-0 7 2 3
 0 6 6 5
+0 7 2 3
 1
 end_operator
 begin_operator
 fly plane2 city2 city4 fl1 fl0
 0
 2
-0 7 2 4
 0 6 1 0
+0 7 2 4
 1
 end_operator
 begin_operator
 fly plane2 city2 city4 fl2 fl1
 0
 2
-0 7 2 4
 0 6 2 1
+0 7 2 4
 1
 end_operator
 begin_operator
 fly plane2 city2 city4 fl3 fl2
 0
 2
-0 7 2 4
 0 6 3 2
+0 7 2 4
 1
 end_operator
 begin_operator
 fly plane2 city2 city4 fl4 fl3
 0
 2
-0 7 2 4
 0 6 4 3
+0 7 2 4
 1
 end_operator
 begin_operator
 fly plane2 city2 city4 fl5 fl4
 0
 2
-0 7 2 4
 0 6 5 4
+0 7 2 4
 1
 end_operator
 begin_operator
 fly plane2 city2 city4 fl6 fl5
 0
 2
-0 7 2 4
 0 6 6 5
+0 7 2 4
 1
 end_operator
 begin_operator
 fly plane2 city2 city5 fl1 fl0
 0
 2
-0 7 2 5
 0 6 1 0
+0 7 2 5
 1
 end_operator
 begin_operator
 fly plane2 city2 city5 fl2 fl1
 0
 2
-0 7 2 5
 0 6 2 1
+0 7 2 5
 1
 end_operator
 begin_operator
 fly plane2 city2 city5 fl3 fl2
 0
 2
-0 7 2 5
 0 6 3 2
+0 7 2 5
 1
 end_operator
 begin_operator
 fly plane2 city2 city5 fl4 fl3
 0
 2
-0 7 2 5
 0 6 4 3
+0 7 2 5
 1
 end_operator
 begin_operator
 fly plane2 city2 city5 fl5 fl4
 0
 2
-0 7 2 5
 0 6 5 4
+0 7 2 5
 1
 end_operator
 begin_operator
 fly plane2 city2 city5 fl6 fl5
 0
 2
-0 7 2 5
 0 6 6 5
+0 7 2 5
 1
 end_operator
 begin_operator
 fly plane2 city2 city6 fl1 fl0
 0
 2
-0 7 2 6
 0 6 1 0
+0 7 2 6
 1
 end_operator
 begin_operator
 fly plane2 city2 city6 fl2 fl1
 0
 2
-0 7 2 6
 0 6 2 1
+0 7 2 6
 1
 end_operator
 begin_operator
 fly plane2 city2 city6 fl3 fl2
 0
 2
-0 7 2 6
 0 6 3 2
+0 7 2 6
 1
 end_operator
 begin_operator
 fly plane2 city2 city6 fl4 fl3
 0
 2
-0 7 2 6
 0 6 4 3
+0 7 2 6
 1
 end_operator
 begin_operator
 fly plane2 city2 city6 fl5 fl4
 0
 2
-0 7 2 6
 0 6 5 4
+0 7 2 6
 1
 end_operator
 begin_operator
 fly plane2 city2 city6 fl6 fl5
 0
 2
-0 7 2 6
 0 6 6 5
+0 7 2 6
 1
 end_operator
 begin_operator
 fly plane2 city2 city7 fl1 fl0
 0
 2
-0 7 2 7
 0 6 1 0
+0 7 2 7
 1
 end_operator
 begin_operator
 fly plane2 city2 city7 fl2 fl1
 0
 2
-0 7 2 7
 0 6 2 1
+0 7 2 7
 1
 end_operator
 begin_operator
 fly plane2 city2 city7 fl3 fl2
 0
 2
-0 7 2 7
 0 6 3 2
+0 7 2 7
 1
 end_operator
 begin_operator
 fly plane2 city2 city7 fl4 fl3
 0
 2
-0 7 2 7
 0 6 4 3
+0 7 2 7
 1
 end_operator
 begin_operator
 fly plane2 city2 city7 fl5 fl4
 0
 2
-0 7 2 7
 0 6 5 4
+0 7 2 7
 1
 end_operator
 begin_operator
 fly plane2 city2 city7 fl6 fl5
 0
 2
-0 7 2 7
 0 6 6 5
+0 7 2 7
 1
 end_operator
 begin_operator
 fly plane2 city2 city8 fl1 fl0
 0
 2
-0 7 2 8
 0 6 1 0
+0 7 2 8
 1
 end_operator
 begin_operator
 fly plane2 city2 city8 fl2 fl1
 0
 2
-0 7 2 8
 0 6 2 1
+0 7 2 8
 1
 end_operator
 begin_operator
 fly plane2 city2 city8 fl3 fl2
 0
 2
-0 7 2 8
 0 6 3 2
+0 7 2 8
 1
 end_operator
 begin_operator
 fly plane2 city2 city8 fl4 fl3
 0
 2
-0 7 2 8
 0 6 4 3
+0 7 2 8
 1
 end_operator
 begin_operator
 fly plane2 city2 city8 fl5 fl4
 0
 2
-0 7 2 8
 0 6 5 4
+0 7 2 8
 1
 end_operator
 begin_operator
 fly plane2 city2 city8 fl6 fl5
 0
 2
-0 7 2 8
 0 6 6 5
+0 7 2 8
 1
 end_operator
 begin_operator
 fly plane2 city2 city9 fl1 fl0
 0
 2
-0 7 2 9
 0 6 1 0
+0 7 2 9
 1
 end_operator
 begin_operator
 fly plane2 city2 city9 fl2 fl1
 0
 2
-0 7 2 9
 0 6 2 1
+0 7 2 9
 1
 end_operator
 begin_operator
 fly plane2 city2 city9 fl3 fl2
 0
 2
-0 7 2 9
 0 6 3 2
+0 7 2 9
 1
 end_operator
 begin_operator
 fly plane2 city2 city9 fl4 fl3
 0
 2
-0 7 2 9
 0 6 4 3
+0 7 2 9
 1
 end_operator
 begin_operator
 fly plane2 city2 city9 fl5 fl4
 0
 2
-0 7 2 9
 0 6 5 4
+0 7 2 9
 1
 end_operator
 begin_operator
 fly plane2 city2 city9 fl6 fl5
 0
 2
-0 7 2 9
 0 6 6 5
+0 7 2 9
 1
 end_operator
 begin_operator
 fly plane2 city3 city0 fl1 fl0
 0
 2
-0 7 3 0
 0 6 1 0
+0 7 3 0
 1
 end_operator
 begin_operator
 fly plane2 city3 city0 fl2 fl1
 0
 2
-0 7 3 0
 0 6 2 1
+0 7 3 0
 1
 end_operator
 begin_operator
 fly plane2 city3 city0 fl3 fl2
 0
 2
-0 7 3 0
 0 6 3 2
+0 7 3 0
 1
 end_operator
 begin_operator
 fly plane2 city3 city0 fl4 fl3
 0
 2
-0 7 3 0
 0 6 4 3
+0 7 3 0
 1
 end_operator
 begin_operator
 fly plane2 city3 city0 fl5 fl4
 0
 2
-0 7 3 0
 0 6 5 4
+0 7 3 0
 1
 end_operator
 begin_operator
 fly plane2 city3 city0 fl6 fl5
 0
 2
-0 7 3 0
 0 6 6 5
+0 7 3 0
 1
 end_operator
 begin_operator
 fly plane2 city3 city1 fl1 fl0
 0
 2
-0 7 3 1
 0 6 1 0
+0 7 3 1
 1
 end_operator
 begin_operator
 fly plane2 city3 city1 fl2 fl1
 0
 2
-0 7 3 1
 0 6 2 1
+0 7 3 1
 1
 end_operator
 begin_operator
 fly plane2 city3 city1 fl3 fl2
 0
 2
-0 7 3 1
 0 6 3 2
+0 7 3 1
 1
 end_operator
 begin_operator
 fly plane2 city3 city1 fl4 fl3
 0
 2
-0 7 3 1
 0 6 4 3
+0 7 3 1
 1
 end_operator
 begin_operator
 fly plane2 city3 city1 fl5 fl4
 0
 2
-0 7 3 1
 0 6 5 4
+0 7 3 1
 1
 end_operator
 begin_operator
 fly plane2 city3 city1 fl6 fl5
 0
 2
-0 7 3 1
 0 6 6 5
+0 7 3 1
 1
 end_operator
 begin_operator
 fly plane2 city3 city2 fl1 fl0
 0
 2
-0 7 3 2
 0 6 1 0
+0 7 3 2
 1
 end_operator
 begin_operator
 fly plane2 city3 city2 fl2 fl1
 0
 2
-0 7 3 2
 0 6 2 1
+0 7 3 2
 1
 end_operator
 begin_operator
 fly plane2 city3 city2 fl3 fl2
 0
 2
-0 7 3 2
 0 6 3 2
+0 7 3 2
 1
 end_operator
 begin_operator
 fly plane2 city3 city2 fl4 fl3
 0
 2
-0 7 3 2
 0 6 4 3
+0 7 3 2
 1
 end_operator
 begin_operator
 fly plane2 city3 city2 fl5 fl4
 0
 2
-0 7 3 2
 0 6 5 4
+0 7 3 2
 1
 end_operator
 begin_operator
 fly plane2 city3 city2 fl6 fl5
 0
 2
-0 7 3 2
 0 6 6 5
+0 7 3 2
 1
 end_operator
 begin_operator
@@ -14815,480 +14815,480 @@ begin_operator
 fly plane2 city3 city4 fl1 fl0
 0
 2
-0 7 3 4
 0 6 1 0
+0 7 3 4
 1
 end_operator
 begin_operator
 fly plane2 city3 city4 fl2 fl1
 0
 2
-0 7 3 4
 0 6 2 1
+0 7 3 4
 1
 end_operator
 begin_operator
 fly plane2 city3 city4 fl3 fl2
 0
 2
-0 7 3 4
 0 6 3 2
+0 7 3 4
 1
 end_operator
 begin_operator
 fly plane2 city3 city4 fl4 fl3
 0
 2
-0 7 3 4
 0 6 4 3
+0 7 3 4
 1
 end_operator
 begin_operator
 fly plane2 city3 city4 fl5 fl4
 0
 2
-0 7 3 4
 0 6 5 4
+0 7 3 4
 1
 end_operator
 begin_operator
 fly plane2 city3 city4 fl6 fl5
 0
 2
-0 7 3 4
 0 6 6 5
+0 7 3 4
 1
 end_operator
 begin_operator
 fly plane2 city3 city5 fl1 fl0
 0
 2
-0 7 3 5
 0 6 1 0
+0 7 3 5
 1
 end_operator
 begin_operator
 fly plane2 city3 city5 fl2 fl1
 0
 2
-0 7 3 5
 0 6 2 1
+0 7 3 5
 1
 end_operator
 begin_operator
 fly plane2 city3 city5 fl3 fl2
 0
 2
-0 7 3 5
 0 6 3 2
+0 7 3 5
 1
 end_operator
 begin_operator
 fly plane2 city3 city5 fl4 fl3
 0
 2
-0 7 3 5
 0 6 4 3
+0 7 3 5
 1
 end_operator
 begin_operator
 fly plane2 city3 city5 fl5 fl4
 0
 2
-0 7 3 5
 0 6 5 4
+0 7 3 5
 1
 end_operator
 begin_operator
 fly plane2 city3 city5 fl6 fl5
 0
 2
-0 7 3 5
 0 6 6 5
+0 7 3 5
 1
 end_operator
 begin_operator
 fly plane2 city3 city6 fl1 fl0
 0
 2
-0 7 3 6
 0 6 1 0
+0 7 3 6
 1
 end_operator
 begin_operator
 fly plane2 city3 city6 fl2 fl1
 0
 2
-0 7 3 6
 0 6 2 1
+0 7 3 6
 1
 end_operator
 begin_operator
 fly plane2 city3 city6 fl3 fl2
 0
 2
-0 7 3 6
 0 6 3 2
+0 7 3 6
 1
 end_operator
 begin_operator
 fly plane2 city3 city6 fl4 fl3
 0
 2
-0 7 3 6
 0 6 4 3
+0 7 3 6
 1
 end_operator
 begin_operator
 fly plane2 city3 city6 fl5 fl4
 0
 2
-0 7 3 6
 0 6 5 4
+0 7 3 6
 1
 end_operator
 begin_operator
 fly plane2 city3 city6 fl6 fl5
 0
 2
-0 7 3 6
 0 6 6 5
+0 7 3 6
 1
 end_operator
 begin_operator
 fly plane2 city3 city7 fl1 fl0
 0
 2
-0 7 3 7
 0 6 1 0
+0 7 3 7
 1
 end_operator
 begin_operator
 fly plane2 city3 city7 fl2 fl1
 0
 2
-0 7 3 7
 0 6 2 1
+0 7 3 7
 1
 end_operator
 begin_operator
 fly plane2 city3 city7 fl3 fl2
 0
 2
-0 7 3 7
 0 6 3 2
+0 7 3 7
 1
 end_operator
 begin_operator
 fly plane2 city3 city7 fl4 fl3
 0
 2
-0 7 3 7
 0 6 4 3
+0 7 3 7
 1
 end_operator
 begin_operator
 fly plane2 city3 city7 fl5 fl4
 0
 2
-0 7 3 7
 0 6 5 4
+0 7 3 7
 1
 end_operator
 begin_operator
 fly plane2 city3 city7 fl6 fl5
 0
 2
-0 7 3 7
 0 6 6 5
+0 7 3 7
 1
 end_operator
 begin_operator
 fly plane2 city3 city8 fl1 fl0
 0
 2
-0 7 3 8
 0 6 1 0
+0 7 3 8
 1
 end_operator
 begin_operator
 fly plane2 city3 city8 fl2 fl1
 0
 2
-0 7 3 8
 0 6 2 1
+0 7 3 8
 1
 end_operator
 begin_operator
 fly plane2 city3 city8 fl3 fl2
 0
 2
-0 7 3 8
 0 6 3 2
+0 7 3 8
 1
 end_operator
 begin_operator
 fly plane2 city3 city8 fl4 fl3
 0
 2
-0 7 3 8
 0 6 4 3
+0 7 3 8
 1
 end_operator
 begin_operator
 fly plane2 city3 city8 fl5 fl4
 0
 2
-0 7 3 8
 0 6 5 4
+0 7 3 8
 1
 end_operator
 begin_operator
 fly plane2 city3 city8 fl6 fl5
 0
 2
-0 7 3 8
 0 6 6 5
+0 7 3 8
 1
 end_operator
 begin_operator
 fly plane2 city3 city9 fl1 fl0
 0
 2
-0 7 3 9
 0 6 1 0
+0 7 3 9
 1
 end_operator
 begin_operator
 fly plane2 city3 city9 fl2 fl1
 0
 2
-0 7 3 9
 0 6 2 1
+0 7 3 9
 1
 end_operator
 begin_operator
 fly plane2 city3 city9 fl3 fl2
 0
 2
-0 7 3 9
 0 6 3 2
+0 7 3 9
 1
 end_operator
 begin_operator
 fly plane2 city3 city9 fl4 fl3
 0
 2
-0 7 3 9
 0 6 4 3
+0 7 3 9
 1
 end_operator
 begin_operator
 fly plane2 city3 city9 fl5 fl4
 0
 2
-0 7 3 9
 0 6 5 4
+0 7 3 9
 1
 end_operator
 begin_operator
 fly plane2 city3 city9 fl6 fl5
 0
 2
-0 7 3 9
 0 6 6 5
+0 7 3 9
 1
 end_operator
 begin_operator
 fly plane2 city4 city0 fl1 fl0
 0
 2
-0 7 4 0
 0 6 1 0
+0 7 4 0
 1
 end_operator
 begin_operator
 fly plane2 city4 city0 fl2 fl1
 0
 2
-0 7 4 0
 0 6 2 1
+0 7 4 0
 1
 end_operator
 begin_operator
 fly plane2 city4 city0 fl3 fl2
 0
 2
-0 7 4 0
 0 6 3 2
+0 7 4 0
 1
 end_operator
 begin_operator
 fly plane2 city4 city0 fl4 fl3
 0
 2
-0 7 4 0
 0 6 4 3
+0 7 4 0
 1
 end_operator
 begin_operator
 fly plane2 city4 city0 fl5 fl4
 0
 2
-0 7 4 0
 0 6 5 4
+0 7 4 0
 1
 end_operator
 begin_operator
 fly plane2 city4 city0 fl6 fl5
 0
 2
-0 7 4 0
 0 6 6 5
+0 7 4 0
 1
 end_operator
 begin_operator
 fly plane2 city4 city1 fl1 fl0
 0
 2
-0 7 4 1
 0 6 1 0
+0 7 4 1
 1
 end_operator
 begin_operator
 fly plane2 city4 city1 fl2 fl1
 0
 2
-0 7 4 1
 0 6 2 1
+0 7 4 1
 1
 end_operator
 begin_operator
 fly plane2 city4 city1 fl3 fl2
 0
 2
-0 7 4 1
 0 6 3 2
+0 7 4 1
 1
 end_operator
 begin_operator
 fly plane2 city4 city1 fl4 fl3
 0
 2
-0 7 4 1
 0 6 4 3
+0 7 4 1
 1
 end_operator
 begin_operator
 fly plane2 city4 city1 fl5 fl4
 0
 2
-0 7 4 1
 0 6 5 4
+0 7 4 1
 1
 end_operator
 begin_operator
 fly plane2 city4 city1 fl6 fl5
 0
 2
-0 7 4 1
 0 6 6 5
+0 7 4 1
 1
 end_operator
 begin_operator
 fly plane2 city4 city2 fl1 fl0
 0
 2
-0 7 4 2
 0 6 1 0
+0 7 4 2
 1
 end_operator
 begin_operator
 fly plane2 city4 city2 fl2 fl1
 0
 2
-0 7 4 2
 0 6 2 1
+0 7 4 2
 1
 end_operator
 begin_operator
 fly plane2 city4 city2 fl3 fl2
 0
 2
-0 7 4 2
 0 6 3 2
+0 7 4 2
 1
 end_operator
 begin_operator
 fly plane2 city4 city2 fl4 fl3
 0
 2
-0 7 4 2
 0 6 4 3
+0 7 4 2
 1
 end_operator
 begin_operator
 fly plane2 city4 city2 fl5 fl4
 0
 2
-0 7 4 2
 0 6 5 4
+0 7 4 2
 1
 end_operator
 begin_operator
 fly plane2 city4 city2 fl6 fl5
 0
 2
-0 7 4 2
 0 6 6 5
+0 7 4 2
 1
 end_operator
 begin_operator
 fly plane2 city4 city3 fl1 fl0
 0
 2
-0 7 4 3
 0 6 1 0
+0 7 4 3
 1
 end_operator
 begin_operator
 fly plane2 city4 city3 fl2 fl1
 0
 2
-0 7 4 3
 0 6 2 1
+0 7 4 3
 1
 end_operator
 begin_operator
 fly plane2 city4 city3 fl3 fl2
 0
 2
-0 7 4 3
 0 6 3 2
+0 7 4 3
 1
 end_operator
 begin_operator
 fly plane2 city4 city3 fl4 fl3
 0
 2
-0 7 4 3
 0 6 4 3
+0 7 4 3
 1
 end_operator
 begin_operator
 fly plane2 city4 city3 fl5 fl4
 0
 2
-0 7 4 3
 0 6 5 4
+0 7 4 3
 1
 end_operator
 begin_operator
 fly plane2 city4 city3 fl6 fl5
 0
 2
-0 7 4 3
 0 6 6 5
+0 7 4 3
 1
 end_operator
 begin_operator
@@ -15343,480 +15343,480 @@ begin_operator
 fly plane2 city4 city5 fl1 fl0
 0
 2
-0 7 4 5
 0 6 1 0
+0 7 4 5
 1
 end_operator
 begin_operator
 fly plane2 city4 city5 fl2 fl1
 0
 2
-0 7 4 5
 0 6 2 1
+0 7 4 5
 1
 end_operator
 begin_operator
 fly plane2 city4 city5 fl3 fl2
 0
 2
-0 7 4 5
 0 6 3 2
+0 7 4 5
 1
 end_operator
 begin_operator
 fly plane2 city4 city5 fl4 fl3
 0
 2
-0 7 4 5
 0 6 4 3
+0 7 4 5
 1
 end_operator
 begin_operator
 fly plane2 city4 city5 fl5 fl4
 0
 2
-0 7 4 5
 0 6 5 4
+0 7 4 5
 1
 end_operator
 begin_operator
 fly plane2 city4 city5 fl6 fl5
 0
 2
-0 7 4 5
 0 6 6 5
+0 7 4 5
 1
 end_operator
 begin_operator
 fly plane2 city4 city6 fl1 fl0
 0
 2
-0 7 4 6
 0 6 1 0
+0 7 4 6
 1
 end_operator
 begin_operator
 fly plane2 city4 city6 fl2 fl1
 0
 2
-0 7 4 6
 0 6 2 1
+0 7 4 6
 1
 end_operator
 begin_operator
 fly plane2 city4 city6 fl3 fl2
 0
 2
-0 7 4 6
 0 6 3 2
+0 7 4 6
 1
 end_operator
 begin_operator
 fly plane2 city4 city6 fl4 fl3
 0
 2
-0 7 4 6
 0 6 4 3
+0 7 4 6
 1
 end_operator
 begin_operator
 fly plane2 city4 city6 fl5 fl4
 0
 2
-0 7 4 6
 0 6 5 4
+0 7 4 6
 1
 end_operator
 begin_operator
 fly plane2 city4 city6 fl6 fl5
 0
 2
-0 7 4 6
 0 6 6 5
+0 7 4 6
 1
 end_operator
 begin_operator
 fly plane2 city4 city7 fl1 fl0
 0
 2
-0 7 4 7
 0 6 1 0
+0 7 4 7
 1
 end_operator
 begin_operator
 fly plane2 city4 city7 fl2 fl1
 0
 2
-0 7 4 7
 0 6 2 1
+0 7 4 7
 1
 end_operator
 begin_operator
 fly plane2 city4 city7 fl3 fl2
 0
 2
-0 7 4 7
 0 6 3 2
+0 7 4 7
 1
 end_operator
 begin_operator
 fly plane2 city4 city7 fl4 fl3
 0
 2
-0 7 4 7
 0 6 4 3
+0 7 4 7
 1
 end_operator
 begin_operator
 fly plane2 city4 city7 fl5 fl4
 0
 2
-0 7 4 7
 0 6 5 4
+0 7 4 7
 1
 end_operator
 begin_operator
 fly plane2 city4 city7 fl6 fl5
 0
 2
-0 7 4 7
 0 6 6 5
+0 7 4 7
 1
 end_operator
 begin_operator
 fly plane2 city4 city8 fl1 fl0
 0
 2
-0 7 4 8
 0 6 1 0
+0 7 4 8
 1
 end_operator
 begin_operator
 fly plane2 city4 city8 fl2 fl1
 0
 2
-0 7 4 8
 0 6 2 1
+0 7 4 8
 1
 end_operator
 begin_operator
 fly plane2 city4 city8 fl3 fl2
 0
 2
-0 7 4 8
 0 6 3 2
+0 7 4 8
 1
 end_operator
 begin_operator
 fly plane2 city4 city8 fl4 fl3
 0
 2
-0 7 4 8
 0 6 4 3
+0 7 4 8
 1
 end_operator
 begin_operator
 fly plane2 city4 city8 fl5 fl4
 0
 2
-0 7 4 8
 0 6 5 4
+0 7 4 8
 1
 end_operator
 begin_operator
 fly plane2 city4 city8 fl6 fl5
 0
 2
-0 7 4 8
 0 6 6 5
+0 7 4 8
 1
 end_operator
 begin_operator
 fly plane2 city4 city9 fl1 fl0
 0
 2
-0 7 4 9
 0 6 1 0
+0 7 4 9
 1
 end_operator
 begin_operator
 fly plane2 city4 city9 fl2 fl1
 0
 2
-0 7 4 9
 0 6 2 1
+0 7 4 9
 1
 end_operator
 begin_operator
 fly plane2 city4 city9 fl3 fl2
 0
 2
-0 7 4 9
 0 6 3 2
+0 7 4 9
 1
 end_operator
 begin_operator
 fly plane2 city4 city9 fl4 fl3
 0
 2
-0 7 4 9
 0 6 4 3
+0 7 4 9
 1
 end_operator
 begin_operator
 fly plane2 city4 city9 fl5 fl4
 0
 2
-0 7 4 9
 0 6 5 4
+0 7 4 9
 1
 end_operator
 begin_operator
 fly plane2 city4 city9 fl6 fl5
 0
 2
-0 7 4 9
 0 6 6 5
+0 7 4 9
 1
 end_operator
 begin_operator
 fly plane2 city5 city0 fl1 fl0
 0
 2
-0 7 5 0
 0 6 1 0
+0 7 5 0
 1
 end_operator
 begin_operator
 fly plane2 city5 city0 fl2 fl1
 0
 2
-0 7 5 0
 0 6 2 1
+0 7 5 0
 1
 end_operator
 begin_operator
 fly plane2 city5 city0 fl3 fl2
 0
 2
-0 7 5 0
 0 6 3 2
+0 7 5 0
 1
 end_operator
 begin_operator
 fly plane2 city5 city0 fl4 fl3
 0
 2
-0 7 5 0
 0 6 4 3
+0 7 5 0
 1
 end_operator
 begin_operator
 fly plane2 city5 city0 fl5 fl4
 0
 2
-0 7 5 0
 0 6 5 4
+0 7 5 0
 1
 end_operator
 begin_operator
 fly plane2 city5 city0 fl6 fl5
 0
 2
-0 7 5 0
 0 6 6 5
+0 7 5 0
 1
 end_operator
 begin_operator
 fly plane2 city5 city1 fl1 fl0
 0
 2
-0 7 5 1
 0 6 1 0
+0 7 5 1
 1
 end_operator
 begin_operator
 fly plane2 city5 city1 fl2 fl1
 0
 2
-0 7 5 1
 0 6 2 1
+0 7 5 1
 1
 end_operator
 begin_operator
 fly plane2 city5 city1 fl3 fl2
 0
 2
-0 7 5 1
 0 6 3 2
+0 7 5 1
 1
 end_operator
 begin_operator
 fly plane2 city5 city1 fl4 fl3
 0
 2
-0 7 5 1
 0 6 4 3
+0 7 5 1
 1
 end_operator
 begin_operator
 fly plane2 city5 city1 fl5 fl4
 0
 2
-0 7 5 1
 0 6 5 4
+0 7 5 1
 1
 end_operator
 begin_operator
 fly plane2 city5 city1 fl6 fl5
 0
 2
-0 7 5 1
 0 6 6 5
+0 7 5 1
 1
 end_operator
 begin_operator
 fly plane2 city5 city2 fl1 fl0
 0
 2
-0 7 5 2
 0 6 1 0
+0 7 5 2
 1
 end_operator
 begin_operator
 fly plane2 city5 city2 fl2 fl1
 0
 2
-0 7 5 2
 0 6 2 1
+0 7 5 2
 1
 end_operator
 begin_operator
 fly plane2 city5 city2 fl3 fl2
 0
 2
-0 7 5 2
 0 6 3 2
+0 7 5 2
 1
 end_operator
 begin_operator
 fly plane2 city5 city2 fl4 fl3
 0
 2
-0 7 5 2
 0 6 4 3
+0 7 5 2
 1
 end_operator
 begin_operator
 fly plane2 city5 city2 fl5 fl4
 0
 2
-0 7 5 2
 0 6 5 4
+0 7 5 2
 1
 end_operator
 begin_operator
 fly plane2 city5 city2 fl6 fl5
 0
 2
-0 7 5 2
 0 6 6 5
+0 7 5 2
 1
 end_operator
 begin_operator
 fly plane2 city5 city3 fl1 fl0
 0
 2
-0 7 5 3
 0 6 1 0
+0 7 5 3
 1
 end_operator
 begin_operator
 fly plane2 city5 city3 fl2 fl1
 0
 2
-0 7 5 3
 0 6 2 1
+0 7 5 3
 1
 end_operator
 begin_operator
 fly plane2 city5 city3 fl3 fl2
 0
 2
-0 7 5 3
 0 6 3 2
+0 7 5 3
 1
 end_operator
 begin_operator
 fly plane2 city5 city3 fl4 fl3
 0
 2
-0 7 5 3
 0 6 4 3
+0 7 5 3
 1
 end_operator
 begin_operator
 fly plane2 city5 city3 fl5 fl4
 0
 2
-0 7 5 3
 0 6 5 4
+0 7 5 3
 1
 end_operator
 begin_operator
 fly plane2 city5 city3 fl6 fl5
 0
 2
-0 7 5 3
 0 6 6 5
+0 7 5 3
 1
 end_operator
 begin_operator
 fly plane2 city5 city4 fl1 fl0
 0
 2
-0 7 5 4
 0 6 1 0
+0 7 5 4
 1
 end_operator
 begin_operator
 fly plane2 city5 city4 fl2 fl1
 0
 2
-0 7 5 4
 0 6 2 1
+0 7 5 4
 1
 end_operator
 begin_operator
 fly plane2 city5 city4 fl3 fl2
 0
 2
-0 7 5 4
 0 6 3 2
+0 7 5 4
 1
 end_operator
 begin_operator
 fly plane2 city5 city4 fl4 fl3
 0
 2
-0 7 5 4
 0 6 4 3
+0 7 5 4
 1
 end_operator
 begin_operator
 fly plane2 city5 city4 fl5 fl4
 0
 2
-0 7 5 4
 0 6 5 4
+0 7 5 4
 1
 end_operator
 begin_operator
 fly plane2 city5 city4 fl6 fl5
 0
 2
-0 7 5 4
 0 6 6 5
+0 7 5 4
 1
 end_operator
 begin_operator
@@ -15871,480 +15871,480 @@ begin_operator
 fly plane2 city5 city6 fl1 fl0
 0
 2
-0 7 5 6
 0 6 1 0
+0 7 5 6
 1
 end_operator
 begin_operator
 fly plane2 city5 city6 fl2 fl1
 0
 2
-0 7 5 6
 0 6 2 1
+0 7 5 6
 1
 end_operator
 begin_operator
 fly plane2 city5 city6 fl3 fl2
 0
 2
-0 7 5 6
 0 6 3 2
+0 7 5 6
 1
 end_operator
 begin_operator
 fly plane2 city5 city6 fl4 fl3
 0
 2
-0 7 5 6
 0 6 4 3
+0 7 5 6
 1
 end_operator
 begin_operator
 fly plane2 city5 city6 fl5 fl4
 0
 2
-0 7 5 6
 0 6 5 4
+0 7 5 6
 1
 end_operator
 begin_operator
 fly plane2 city5 city6 fl6 fl5
 0
 2
-0 7 5 6
 0 6 6 5
+0 7 5 6
 1
 end_operator
 begin_operator
 fly plane2 city5 city7 fl1 fl0
 0
 2
-0 7 5 7
 0 6 1 0
+0 7 5 7
 1
 end_operator
 begin_operator
 fly plane2 city5 city7 fl2 fl1
 0
 2
-0 7 5 7
 0 6 2 1
+0 7 5 7
 1
 end_operator
 begin_operator
 fly plane2 city5 city7 fl3 fl2
 0
 2
-0 7 5 7
 0 6 3 2
+0 7 5 7
 1
 end_operator
 begin_operator
 fly plane2 city5 city7 fl4 fl3
 0
 2
-0 7 5 7
 0 6 4 3
+0 7 5 7
 1
 end_operator
 begin_operator
 fly plane2 city5 city7 fl5 fl4
 0
 2
-0 7 5 7
 0 6 5 4
+0 7 5 7
 1
 end_operator
 begin_operator
 fly plane2 city5 city7 fl6 fl5
 0
 2
-0 7 5 7
 0 6 6 5
+0 7 5 7
 1
 end_operator
 begin_operator
 fly plane2 city5 city8 fl1 fl0
 0
 2
-0 7 5 8
 0 6 1 0
+0 7 5 8
 1
 end_operator
 begin_operator
 fly plane2 city5 city8 fl2 fl1
 0
 2
-0 7 5 8
 0 6 2 1
+0 7 5 8
 1
 end_operator
 begin_operator
 fly plane2 city5 city8 fl3 fl2
 0
 2
-0 7 5 8
 0 6 3 2
+0 7 5 8
 1
 end_operator
 begin_operator
 fly plane2 city5 city8 fl4 fl3
 0
 2
-0 7 5 8
 0 6 4 3
+0 7 5 8
 1
 end_operator
 begin_operator
 fly plane2 city5 city8 fl5 fl4
 0
 2
-0 7 5 8
 0 6 5 4
+0 7 5 8
 1
 end_operator
 begin_operator
 fly plane2 city5 city8 fl6 fl5
 0
 2
-0 7 5 8
 0 6 6 5
+0 7 5 8
 1
 end_operator
 begin_operator
 fly plane2 city5 city9 fl1 fl0
 0
 2
-0 7 5 9
 0 6 1 0
+0 7 5 9
 1
 end_operator
 begin_operator
 fly plane2 city5 city9 fl2 fl1
 0
 2
-0 7 5 9
 0 6 2 1
+0 7 5 9
 1
 end_operator
 begin_operator
 fly plane2 city5 city9 fl3 fl2
 0
 2
-0 7 5 9
 0 6 3 2
+0 7 5 9
 1
 end_operator
 begin_operator
 fly plane2 city5 city9 fl4 fl3
 0
 2
-0 7 5 9
 0 6 4 3
+0 7 5 9
 1
 end_operator
 begin_operator
 fly plane2 city5 city9 fl5 fl4
 0
 2
-0 7 5 9
 0 6 5 4
+0 7 5 9
 1
 end_operator
 begin_operator
 fly plane2 city5 city9 fl6 fl5
 0
 2
-0 7 5 9
 0 6 6 5
+0 7 5 9
 1
 end_operator
 begin_operator
 fly plane2 city6 city0 fl1 fl0
 0
 2
-0 7 6 0
 0 6 1 0
+0 7 6 0
 1
 end_operator
 begin_operator
 fly plane2 city6 city0 fl2 fl1
 0
 2
-0 7 6 0
 0 6 2 1
+0 7 6 0
 1
 end_operator
 begin_operator
 fly plane2 city6 city0 fl3 fl2
 0
 2
-0 7 6 0
 0 6 3 2
+0 7 6 0
 1
 end_operator
 begin_operator
 fly plane2 city6 city0 fl4 fl3
 0
 2
-0 7 6 0
 0 6 4 3
+0 7 6 0
 1
 end_operator
 begin_operator
 fly plane2 city6 city0 fl5 fl4
 0
 2
-0 7 6 0
 0 6 5 4
+0 7 6 0
 1
 end_operator
 begin_operator
 fly plane2 city6 city0 fl6 fl5
 0
 2
-0 7 6 0
 0 6 6 5
+0 7 6 0
 1
 end_operator
 begin_operator
 fly plane2 city6 city1 fl1 fl0
 0
 2
-0 7 6 1
 0 6 1 0
+0 7 6 1
 1
 end_operator
 begin_operator
 fly plane2 city6 city1 fl2 fl1
 0
 2
-0 7 6 1
 0 6 2 1
+0 7 6 1
 1
 end_operator
 begin_operator
 fly plane2 city6 city1 fl3 fl2
 0
 2
-0 7 6 1
 0 6 3 2
+0 7 6 1
 1
 end_operator
 begin_operator
 fly plane2 city6 city1 fl4 fl3
 0
 2
-0 7 6 1
 0 6 4 3
+0 7 6 1
 1
 end_operator
 begin_operator
 fly plane2 city6 city1 fl5 fl4
 0
 2
-0 7 6 1
 0 6 5 4
+0 7 6 1
 1
 end_operator
 begin_operator
 fly plane2 city6 city1 fl6 fl5
 0
 2
-0 7 6 1
 0 6 6 5
+0 7 6 1
 1
 end_operator
 begin_operator
 fly plane2 city6 city2 fl1 fl0
 0
 2
-0 7 6 2
 0 6 1 0
+0 7 6 2
 1
 end_operator
 begin_operator
 fly plane2 city6 city2 fl2 fl1
 0
 2
-0 7 6 2
 0 6 2 1
+0 7 6 2
 1
 end_operator
 begin_operator
 fly plane2 city6 city2 fl3 fl2
 0
 2
-0 7 6 2
 0 6 3 2
+0 7 6 2
 1
 end_operator
 begin_operator
 fly plane2 city6 city2 fl4 fl3
 0
 2
-0 7 6 2
 0 6 4 3
+0 7 6 2
 1
 end_operator
 begin_operator
 fly plane2 city6 city2 fl5 fl4
 0
 2
-0 7 6 2
 0 6 5 4
+0 7 6 2
 1
 end_operator
 begin_operator
 fly plane2 city6 city2 fl6 fl5
 0
 2
-0 7 6 2
 0 6 6 5
+0 7 6 2
 1
 end_operator
 begin_operator
 fly plane2 city6 city3 fl1 fl0
 0
 2
-0 7 6 3
 0 6 1 0
+0 7 6 3
 1
 end_operator
 begin_operator
 fly plane2 city6 city3 fl2 fl1
 0
 2
-0 7 6 3
 0 6 2 1
+0 7 6 3
 1
 end_operator
 begin_operator
 fly plane2 city6 city3 fl3 fl2
 0
 2
-0 7 6 3
 0 6 3 2
+0 7 6 3
 1
 end_operator
 begin_operator
 fly plane2 city6 city3 fl4 fl3
 0
 2
-0 7 6 3
 0 6 4 3
+0 7 6 3
 1
 end_operator
 begin_operator
 fly plane2 city6 city3 fl5 fl4
 0
 2
-0 7 6 3
 0 6 5 4
+0 7 6 3
 1
 end_operator
 begin_operator
 fly plane2 city6 city3 fl6 fl5
 0
 2
-0 7 6 3
 0 6 6 5
+0 7 6 3
 1
 end_operator
 begin_operator
 fly plane2 city6 city4 fl1 fl0
 0
 2
-0 7 6 4
 0 6 1 0
+0 7 6 4
 1
 end_operator
 begin_operator
 fly plane2 city6 city4 fl2 fl1
 0
 2
-0 7 6 4
 0 6 2 1
+0 7 6 4
 1
 end_operator
 begin_operator
 fly plane2 city6 city4 fl3 fl2
 0
 2
-0 7 6 4
 0 6 3 2
+0 7 6 4
 1
 end_operator
 begin_operator
 fly plane2 city6 city4 fl4 fl3
 0
 2
-0 7 6 4
 0 6 4 3
+0 7 6 4
 1
 end_operator
 begin_operator
 fly plane2 city6 city4 fl5 fl4
 0
 2
-0 7 6 4
 0 6 5 4
+0 7 6 4
 1
 end_operator
 begin_operator
 fly plane2 city6 city4 fl6 fl5
 0
 2
-0 7 6 4
 0 6 6 5
+0 7 6 4
 1
 end_operator
 begin_operator
 fly plane2 city6 city5 fl1 fl0
 0
 2
-0 7 6 5
 0 6 1 0
+0 7 6 5
 1
 end_operator
 begin_operator
 fly plane2 city6 city5 fl2 fl1
 0
 2
-0 7 6 5
 0 6 2 1
+0 7 6 5
 1
 end_operator
 begin_operator
 fly plane2 city6 city5 fl3 fl2
 0
 2
-0 7 6 5
 0 6 3 2
+0 7 6 5
 1
 end_operator
 begin_operator
 fly plane2 city6 city5 fl4 fl3
 0
 2
-0 7 6 5
 0 6 4 3
+0 7 6 5
 1
 end_operator
 begin_operator
 fly plane2 city6 city5 fl5 fl4
 0
 2
-0 7 6 5
 0 6 5 4
+0 7 6 5
 1
 end_operator
 begin_operator
 fly plane2 city6 city5 fl6 fl5
 0
 2
-0 7 6 5
 0 6 6 5
+0 7 6 5
 1
 end_operator
 begin_operator
@@ -16399,480 +16399,480 @@ begin_operator
 fly plane2 city6 city7 fl1 fl0
 0
 2
-0 7 6 7
 0 6 1 0
+0 7 6 7
 1
 end_operator
 begin_operator
 fly plane2 city6 city7 fl2 fl1
 0
 2
-0 7 6 7
 0 6 2 1
+0 7 6 7
 1
 end_operator
 begin_operator
 fly plane2 city6 city7 fl3 fl2
 0
 2
-0 7 6 7
 0 6 3 2
+0 7 6 7
 1
 end_operator
 begin_operator
 fly plane2 city6 city7 fl4 fl3
 0
 2
-0 7 6 7
 0 6 4 3
+0 7 6 7
 1
 end_operator
 begin_operator
 fly plane2 city6 city7 fl5 fl4
 0
 2
-0 7 6 7
 0 6 5 4
+0 7 6 7
 1
 end_operator
 begin_operator
 fly plane2 city6 city7 fl6 fl5
 0
 2
-0 7 6 7
 0 6 6 5
+0 7 6 7
 1
 end_operator
 begin_operator
 fly plane2 city6 city8 fl1 fl0
 0
 2
-0 7 6 8
 0 6 1 0
+0 7 6 8
 1
 end_operator
 begin_operator
 fly plane2 city6 city8 fl2 fl1
 0
 2
-0 7 6 8
 0 6 2 1
+0 7 6 8
 1
 end_operator
 begin_operator
 fly plane2 city6 city8 fl3 fl2
 0
 2
-0 7 6 8
 0 6 3 2
+0 7 6 8
 1
 end_operator
 begin_operator
 fly plane2 city6 city8 fl4 fl3
 0
 2
-0 7 6 8
 0 6 4 3
+0 7 6 8
 1
 end_operator
 begin_operator
 fly plane2 city6 city8 fl5 fl4
 0
 2
-0 7 6 8
 0 6 5 4
+0 7 6 8
 1
 end_operator
 begin_operator
 fly plane2 city6 city8 fl6 fl5
 0
 2
-0 7 6 8
 0 6 6 5
+0 7 6 8
 1
 end_operator
 begin_operator
 fly plane2 city6 city9 fl1 fl0
 0
 2
-0 7 6 9
 0 6 1 0
+0 7 6 9
 1
 end_operator
 begin_operator
 fly plane2 city6 city9 fl2 fl1
 0
 2
-0 7 6 9
 0 6 2 1
+0 7 6 9
 1
 end_operator
 begin_operator
 fly plane2 city6 city9 fl3 fl2
 0
 2
-0 7 6 9
 0 6 3 2
+0 7 6 9
 1
 end_operator
 begin_operator
 fly plane2 city6 city9 fl4 fl3
 0
 2
-0 7 6 9
 0 6 4 3
+0 7 6 9
 1
 end_operator
 begin_operator
 fly plane2 city6 city9 fl5 fl4
 0
 2
-0 7 6 9
 0 6 5 4
+0 7 6 9
 1
 end_operator
 begin_operator
 fly plane2 city6 city9 fl6 fl5
 0
 2
-0 7 6 9
 0 6 6 5
+0 7 6 9
 1
 end_operator
 begin_operator
 fly plane2 city7 city0 fl1 fl0
 0
 2
-0 7 7 0
 0 6 1 0
+0 7 7 0
 1
 end_operator
 begin_operator
 fly plane2 city7 city0 fl2 fl1
 0
 2
-0 7 7 0
 0 6 2 1
+0 7 7 0
 1
 end_operator
 begin_operator
 fly plane2 city7 city0 fl3 fl2
 0
 2
-0 7 7 0
 0 6 3 2
+0 7 7 0
 1
 end_operator
 begin_operator
 fly plane2 city7 city0 fl4 fl3
 0
 2
-0 7 7 0
 0 6 4 3
+0 7 7 0
 1
 end_operator
 begin_operator
 fly plane2 city7 city0 fl5 fl4
 0
 2
-0 7 7 0
 0 6 5 4
+0 7 7 0
 1
 end_operator
 begin_operator
 fly plane2 city7 city0 fl6 fl5
 0
 2
-0 7 7 0
 0 6 6 5
+0 7 7 0
 1
 end_operator
 begin_operator
 fly plane2 city7 city1 fl1 fl0
 0
 2
-0 7 7 1
 0 6 1 0
+0 7 7 1
 1
 end_operator
 begin_operator
 fly plane2 city7 city1 fl2 fl1
 0
 2
-0 7 7 1
 0 6 2 1
+0 7 7 1
 1
 end_operator
 begin_operator
 fly plane2 city7 city1 fl3 fl2
 0
 2
-0 7 7 1
 0 6 3 2
+0 7 7 1
 1
 end_operator
 begin_operator
 fly plane2 city7 city1 fl4 fl3
 0
 2
-0 7 7 1
 0 6 4 3
+0 7 7 1
 1
 end_operator
 begin_operator
 fly plane2 city7 city1 fl5 fl4
 0
 2
-0 7 7 1
 0 6 5 4
+0 7 7 1
 1
 end_operator
 begin_operator
 fly plane2 city7 city1 fl6 fl5
 0
 2
-0 7 7 1
 0 6 6 5
+0 7 7 1
 1
 end_operator
 begin_operator
 fly plane2 city7 city2 fl1 fl0
 0
 2
-0 7 7 2
 0 6 1 0
+0 7 7 2
 1
 end_operator
 begin_operator
 fly plane2 city7 city2 fl2 fl1
 0
 2
-0 7 7 2
 0 6 2 1
+0 7 7 2
 1
 end_operator
 begin_operator
 fly plane2 city7 city2 fl3 fl2
 0
 2
-0 7 7 2
 0 6 3 2
+0 7 7 2
 1
 end_operator
 begin_operator
 fly plane2 city7 city2 fl4 fl3
 0
 2
-0 7 7 2
 0 6 4 3
+0 7 7 2
 1
 end_operator
 begin_operator
 fly plane2 city7 city2 fl5 fl4
 0
 2
-0 7 7 2
 0 6 5 4
+0 7 7 2
 1
 end_operator
 begin_operator
 fly plane2 city7 city2 fl6 fl5
 0
 2
-0 7 7 2
 0 6 6 5
+0 7 7 2
 1
 end_operator
 begin_operator
 fly plane2 city7 city3 fl1 fl0
 0
 2
-0 7 7 3
 0 6 1 0
+0 7 7 3
 1
 end_operator
 begin_operator
 fly plane2 city7 city3 fl2 fl1
 0
 2
-0 7 7 3
 0 6 2 1
+0 7 7 3
 1
 end_operator
 begin_operator
 fly plane2 city7 city3 fl3 fl2
 0
 2
-0 7 7 3
 0 6 3 2
+0 7 7 3
 1
 end_operator
 begin_operator
 fly plane2 city7 city3 fl4 fl3
 0
 2
-0 7 7 3
 0 6 4 3
+0 7 7 3
 1
 end_operator
 begin_operator
 fly plane2 city7 city3 fl5 fl4
 0
 2
-0 7 7 3
 0 6 5 4
+0 7 7 3
 1
 end_operator
 begin_operator
 fly plane2 city7 city3 fl6 fl5
 0
 2
-0 7 7 3
 0 6 6 5
+0 7 7 3
 1
 end_operator
 begin_operator
 fly plane2 city7 city4 fl1 fl0
 0
 2
-0 7 7 4
 0 6 1 0
+0 7 7 4
 1
 end_operator
 begin_operator
 fly plane2 city7 city4 fl2 fl1
 0
 2
-0 7 7 4
 0 6 2 1
+0 7 7 4
 1
 end_operator
 begin_operator
 fly plane2 city7 city4 fl3 fl2
 0
 2
-0 7 7 4
 0 6 3 2
+0 7 7 4
 1
 end_operator
 begin_operator
 fly plane2 city7 city4 fl4 fl3
 0
 2
-0 7 7 4
 0 6 4 3
+0 7 7 4
 1
 end_operator
 begin_operator
 fly plane2 city7 city4 fl5 fl4
 0
 2
-0 7 7 4
 0 6 5 4
+0 7 7 4
 1
 end_operator
 begin_operator
 fly plane2 city7 city4 fl6 fl5
 0
 2
-0 7 7 4
 0 6 6 5
+0 7 7 4
 1
 end_operator
 begin_operator
 fly plane2 city7 city5 fl1 fl0
 0
 2
-0 7 7 5
 0 6 1 0
+0 7 7 5
 1
 end_operator
 begin_operator
 fly plane2 city7 city5 fl2 fl1
 0
 2
-0 7 7 5
 0 6 2 1
+0 7 7 5
 1
 end_operator
 begin_operator
 fly plane2 city7 city5 fl3 fl2
 0
 2
-0 7 7 5
 0 6 3 2
+0 7 7 5
 1
 end_operator
 begin_operator
 fly plane2 city7 city5 fl4 fl3
 0
 2
-0 7 7 5
 0 6 4 3
+0 7 7 5
 1
 end_operator
 begin_operator
 fly plane2 city7 city5 fl5 fl4
 0
 2
-0 7 7 5
 0 6 5 4
+0 7 7 5
 1
 end_operator
 begin_operator
 fly plane2 city7 city5 fl6 fl5
 0
 2
-0 7 7 5
 0 6 6 5
+0 7 7 5
 1
 end_operator
 begin_operator
 fly plane2 city7 city6 fl1 fl0
 0
 2
-0 7 7 6
 0 6 1 0
+0 7 7 6
 1
 end_operator
 begin_operator
 fly plane2 city7 city6 fl2 fl1
 0
 2
-0 7 7 6
 0 6 2 1
+0 7 7 6
 1
 end_operator
 begin_operator
 fly plane2 city7 city6 fl3 fl2
 0
 2
-0 7 7 6
 0 6 3 2
+0 7 7 6
 1
 end_operator
 begin_operator
 fly plane2 city7 city6 fl4 fl3
 0
 2
-0 7 7 6
 0 6 4 3
+0 7 7 6
 1
 end_operator
 begin_operator
 fly plane2 city7 city6 fl5 fl4
 0
 2
-0 7 7 6
 0 6 5 4
+0 7 7 6
 1
 end_operator
 begin_operator
 fly plane2 city7 city6 fl6 fl5
 0
 2
-0 7 7 6
 0 6 6 5
+0 7 7 6
 1
 end_operator
 begin_operator
@@ -16927,480 +16927,480 @@ begin_operator
 fly plane2 city7 city8 fl1 fl0
 0
 2
-0 7 7 8
 0 6 1 0
+0 7 7 8
 1
 end_operator
 begin_operator
 fly plane2 city7 city8 fl2 fl1
 0
 2
-0 7 7 8
 0 6 2 1
+0 7 7 8
 1
 end_operator
 begin_operator
 fly plane2 city7 city8 fl3 fl2
 0
 2
-0 7 7 8
 0 6 3 2
+0 7 7 8
 1
 end_operator
 begin_operator
 fly plane2 city7 city8 fl4 fl3
 0
 2
-0 7 7 8
 0 6 4 3
+0 7 7 8
 1
 end_operator
 begin_operator
 fly plane2 city7 city8 fl5 fl4
 0
 2
-0 7 7 8
 0 6 5 4
+0 7 7 8
 1
 end_operator
 begin_operator
 fly plane2 city7 city8 fl6 fl5
 0
 2
-0 7 7 8
 0 6 6 5
+0 7 7 8
 1
 end_operator
 begin_operator
 fly plane2 city7 city9 fl1 fl0
 0
 2
-0 7 7 9
 0 6 1 0
+0 7 7 9
 1
 end_operator
 begin_operator
 fly plane2 city7 city9 fl2 fl1
 0
 2
-0 7 7 9
 0 6 2 1
+0 7 7 9
 1
 end_operator
 begin_operator
 fly plane2 city7 city9 fl3 fl2
 0
 2
-0 7 7 9
 0 6 3 2
+0 7 7 9
 1
 end_operator
 begin_operator
 fly plane2 city7 city9 fl4 fl3
 0
 2
-0 7 7 9
 0 6 4 3
+0 7 7 9
 1
 end_operator
 begin_operator
 fly plane2 city7 city9 fl5 fl4
 0
 2
-0 7 7 9
 0 6 5 4
+0 7 7 9
 1
 end_operator
 begin_operator
 fly plane2 city7 city9 fl6 fl5
 0
 2
-0 7 7 9
 0 6 6 5
+0 7 7 9
 1
 end_operator
 begin_operator
 fly plane2 city8 city0 fl1 fl0
 0
 2
-0 7 8 0
 0 6 1 0
+0 7 8 0
 1
 end_operator
 begin_operator
 fly plane2 city8 city0 fl2 fl1
 0
 2
-0 7 8 0
 0 6 2 1
+0 7 8 0
 1
 end_operator
 begin_operator
 fly plane2 city8 city0 fl3 fl2
 0
 2
-0 7 8 0
 0 6 3 2
+0 7 8 0
 1
 end_operator
 begin_operator
 fly plane2 city8 city0 fl4 fl3
 0
 2
-0 7 8 0
 0 6 4 3
+0 7 8 0
 1
 end_operator
 begin_operator
 fly plane2 city8 city0 fl5 fl4
 0
 2
-0 7 8 0
 0 6 5 4
+0 7 8 0
 1
 end_operator
 begin_operator
 fly plane2 city8 city0 fl6 fl5
 0
 2
-0 7 8 0
 0 6 6 5
+0 7 8 0
 1
 end_operator
 begin_operator
 fly plane2 city8 city1 fl1 fl0
 0
 2
-0 7 8 1
 0 6 1 0
+0 7 8 1
 1
 end_operator
 begin_operator
 fly plane2 city8 city1 fl2 fl1
 0
 2
-0 7 8 1
 0 6 2 1
+0 7 8 1
 1
 end_operator
 begin_operator
 fly plane2 city8 city1 fl3 fl2
 0
 2
-0 7 8 1
 0 6 3 2
+0 7 8 1
 1
 end_operator
 begin_operator
 fly plane2 city8 city1 fl4 fl3
 0
 2
-0 7 8 1
 0 6 4 3
+0 7 8 1
 1
 end_operator
 begin_operator
 fly plane2 city8 city1 fl5 fl4
 0
 2
-0 7 8 1
 0 6 5 4
+0 7 8 1
 1
 end_operator
 begin_operator
 fly plane2 city8 city1 fl6 fl5
 0
 2
-0 7 8 1
 0 6 6 5
+0 7 8 1
 1
 end_operator
 begin_operator
 fly plane2 city8 city2 fl1 fl0
 0
 2
-0 7 8 2
 0 6 1 0
+0 7 8 2
 1
 end_operator
 begin_operator
 fly plane2 city8 city2 fl2 fl1
 0
 2
-0 7 8 2
 0 6 2 1
+0 7 8 2
 1
 end_operator
 begin_operator
 fly plane2 city8 city2 fl3 fl2
 0
 2
-0 7 8 2
 0 6 3 2
+0 7 8 2
 1
 end_operator
 begin_operator
 fly plane2 city8 city2 fl4 fl3
 0
 2
-0 7 8 2
 0 6 4 3
+0 7 8 2
 1
 end_operator
 begin_operator
 fly plane2 city8 city2 fl5 fl4
 0
 2
-0 7 8 2
 0 6 5 4
+0 7 8 2
 1
 end_operator
 begin_operator
 fly plane2 city8 city2 fl6 fl5
 0
 2
-0 7 8 2
 0 6 6 5
+0 7 8 2
 1
 end_operator
 begin_operator
 fly plane2 city8 city3 fl1 fl0
 0
 2
-0 7 8 3
 0 6 1 0
+0 7 8 3
 1
 end_operator
 begin_operator
 fly plane2 city8 city3 fl2 fl1
 0
 2
-0 7 8 3
 0 6 2 1
+0 7 8 3
 1
 end_operator
 begin_operator
 fly plane2 city8 city3 fl3 fl2
 0
 2
-0 7 8 3
 0 6 3 2
+0 7 8 3
 1
 end_operator
 begin_operator
 fly plane2 city8 city3 fl4 fl3
 0
 2
-0 7 8 3
 0 6 4 3
+0 7 8 3
 1
 end_operator
 begin_operator
 fly plane2 city8 city3 fl5 fl4
 0
 2
-0 7 8 3
 0 6 5 4
+0 7 8 3
 1
 end_operator
 begin_operator
 fly plane2 city8 city3 fl6 fl5
 0
 2
-0 7 8 3
 0 6 6 5
+0 7 8 3
 1
 end_operator
 begin_operator
 fly plane2 city8 city4 fl1 fl0
 0
 2
-0 7 8 4
 0 6 1 0
+0 7 8 4
 1
 end_operator
 begin_operator
 fly plane2 city8 city4 fl2 fl1
 0
 2
-0 7 8 4
 0 6 2 1
+0 7 8 4
 1
 end_operator
 begin_operator
 fly plane2 city8 city4 fl3 fl2
 0
 2
-0 7 8 4
 0 6 3 2
+0 7 8 4
 1
 end_operator
 begin_operator
 fly plane2 city8 city4 fl4 fl3
 0
 2
-0 7 8 4
 0 6 4 3
+0 7 8 4
 1
 end_operator
 begin_operator
 fly plane2 city8 city4 fl5 fl4
 0
 2
-0 7 8 4
 0 6 5 4
+0 7 8 4
 1
 end_operator
 begin_operator
 fly plane2 city8 city4 fl6 fl5
 0
 2
-0 7 8 4
 0 6 6 5
+0 7 8 4
 1
 end_operator
 begin_operator
 fly plane2 city8 city5 fl1 fl0
 0
 2
-0 7 8 5
 0 6 1 0
+0 7 8 5
 1
 end_operator
 begin_operator
 fly plane2 city8 city5 fl2 fl1
 0
 2
-0 7 8 5
 0 6 2 1
+0 7 8 5
 1
 end_operator
 begin_operator
 fly plane2 city8 city5 fl3 fl2
 0
 2
-0 7 8 5
 0 6 3 2
+0 7 8 5
 1
 end_operator
 begin_operator
 fly plane2 city8 city5 fl4 fl3
 0
 2
-0 7 8 5
 0 6 4 3
+0 7 8 5
 1
 end_operator
 begin_operator
 fly plane2 city8 city5 fl5 fl4
 0
 2
-0 7 8 5
 0 6 5 4
+0 7 8 5
 1
 end_operator
 begin_operator
 fly plane2 city8 city5 fl6 fl5
 0
 2
-0 7 8 5
 0 6 6 5
+0 7 8 5
 1
 end_operator
 begin_operator
 fly plane2 city8 city6 fl1 fl0
 0
 2
-0 7 8 6
 0 6 1 0
+0 7 8 6
 1
 end_operator
 begin_operator
 fly plane2 city8 city6 fl2 fl1
 0
 2
-0 7 8 6
 0 6 2 1
+0 7 8 6
 1
 end_operator
 begin_operator
 fly plane2 city8 city6 fl3 fl2
 0
 2
-0 7 8 6
 0 6 3 2
+0 7 8 6
 1
 end_operator
 begin_operator
 fly plane2 city8 city6 fl4 fl3
 0
 2
-0 7 8 6
 0 6 4 3
+0 7 8 6
 1
 end_operator
 begin_operator
 fly plane2 city8 city6 fl5 fl4
 0
 2
-0 7 8 6
 0 6 5 4
+0 7 8 6
 1
 end_operator
 begin_operator
 fly plane2 city8 city6 fl6 fl5
 0
 2
-0 7 8 6
 0 6 6 5
+0 7 8 6
 1
 end_operator
 begin_operator
 fly plane2 city8 city7 fl1 fl0
 0
 2
-0 7 8 7
 0 6 1 0
+0 7 8 7
 1
 end_operator
 begin_operator
 fly plane2 city8 city7 fl2 fl1
 0
 2
-0 7 8 7
 0 6 2 1
+0 7 8 7
 1
 end_operator
 begin_operator
 fly plane2 city8 city7 fl3 fl2
 0
 2
-0 7 8 7
 0 6 3 2
+0 7 8 7
 1
 end_operator
 begin_operator
 fly plane2 city8 city7 fl4 fl3
 0
 2
-0 7 8 7
 0 6 4 3
+0 7 8 7
 1
 end_operator
 begin_operator
 fly plane2 city8 city7 fl5 fl4
 0
 2
-0 7 8 7
 0 6 5 4
+0 7 8 7
 1
 end_operator
 begin_operator
 fly plane2 city8 city7 fl6 fl5
 0
 2
-0 7 8 7
 0 6 6 5
+0 7 8 7
 1
 end_operator
 begin_operator
@@ -17455,480 +17455,480 @@ begin_operator
 fly plane2 city8 city9 fl1 fl0
 0
 2
-0 7 8 9
 0 6 1 0
+0 7 8 9
 1
 end_operator
 begin_operator
 fly plane2 city8 city9 fl2 fl1
 0
 2
-0 7 8 9
 0 6 2 1
+0 7 8 9
 1
 end_operator
 begin_operator
 fly plane2 city8 city9 fl3 fl2
 0
 2
-0 7 8 9
 0 6 3 2
+0 7 8 9
 1
 end_operator
 begin_operator
 fly plane2 city8 city9 fl4 fl3
 0
 2
-0 7 8 9
 0 6 4 3
+0 7 8 9
 1
 end_operator
 begin_operator
 fly plane2 city8 city9 fl5 fl4
 0
 2
-0 7 8 9
 0 6 5 4
+0 7 8 9
 1
 end_operator
 begin_operator
 fly plane2 city8 city9 fl6 fl5
 0
 2
-0 7 8 9
 0 6 6 5
+0 7 8 9
 1
 end_operator
 begin_operator
 fly plane2 city9 city0 fl1 fl0
 0
 2
-0 7 9 0
 0 6 1 0
+0 7 9 0
 1
 end_operator
 begin_operator
 fly plane2 city9 city0 fl2 fl1
 0
 2
-0 7 9 0
 0 6 2 1
+0 7 9 0
 1
 end_operator
 begin_operator
 fly plane2 city9 city0 fl3 fl2
 0
 2
-0 7 9 0
 0 6 3 2
+0 7 9 0
 1
 end_operator
 begin_operator
 fly plane2 city9 city0 fl4 fl3
 0
 2
-0 7 9 0
 0 6 4 3
+0 7 9 0
 1
 end_operator
 begin_operator
 fly plane2 city9 city0 fl5 fl4
 0
 2
-0 7 9 0
 0 6 5 4
+0 7 9 0
 1
 end_operator
 begin_operator
 fly plane2 city9 city0 fl6 fl5
 0
 2
-0 7 9 0
 0 6 6 5
+0 7 9 0
 1
 end_operator
 begin_operator
 fly plane2 city9 city1 fl1 fl0
 0
 2
-0 7 9 1
 0 6 1 0
+0 7 9 1
 1
 end_operator
 begin_operator
 fly plane2 city9 city1 fl2 fl1
 0
 2
-0 7 9 1
 0 6 2 1
+0 7 9 1
 1
 end_operator
 begin_operator
 fly plane2 city9 city1 fl3 fl2
 0
 2
-0 7 9 1
 0 6 3 2
+0 7 9 1
 1
 end_operator
 begin_operator
 fly plane2 city9 city1 fl4 fl3
 0
 2
-0 7 9 1
 0 6 4 3
+0 7 9 1
 1
 end_operator
 begin_operator
 fly plane2 city9 city1 fl5 fl4
 0
 2
-0 7 9 1
 0 6 5 4
+0 7 9 1
 1
 end_operator
 begin_operator
 fly plane2 city9 city1 fl6 fl5
 0
 2
-0 7 9 1
 0 6 6 5
+0 7 9 1
 1
 end_operator
 begin_operator
 fly plane2 city9 city2 fl1 fl0
 0
 2
-0 7 9 2
 0 6 1 0
+0 7 9 2
 1
 end_operator
 begin_operator
 fly plane2 city9 city2 fl2 fl1
 0
 2
-0 7 9 2
 0 6 2 1
+0 7 9 2
 1
 end_operator
 begin_operator
 fly plane2 city9 city2 fl3 fl2
 0
 2
-0 7 9 2
 0 6 3 2
+0 7 9 2
 1
 end_operator
 begin_operator
 fly plane2 city9 city2 fl4 fl3
 0
 2
-0 7 9 2
 0 6 4 3
+0 7 9 2
 1
 end_operator
 begin_operator
 fly plane2 city9 city2 fl5 fl4
 0
 2
-0 7 9 2
 0 6 5 4
+0 7 9 2
 1
 end_operator
 begin_operator
 fly plane2 city9 city2 fl6 fl5
 0
 2
-0 7 9 2
 0 6 6 5
+0 7 9 2
 1
 end_operator
 begin_operator
 fly plane2 city9 city3 fl1 fl0
 0
 2
-0 7 9 3
 0 6 1 0
+0 7 9 3
 1
 end_operator
 begin_operator
 fly plane2 city9 city3 fl2 fl1
 0
 2
-0 7 9 3
 0 6 2 1
+0 7 9 3
 1
 end_operator
 begin_operator
 fly plane2 city9 city3 fl3 fl2
 0
 2
-0 7 9 3
 0 6 3 2
+0 7 9 3
 1
 end_operator
 begin_operator
 fly plane2 city9 city3 fl4 fl3
 0
 2
-0 7 9 3
 0 6 4 3
+0 7 9 3
 1
 end_operator
 begin_operator
 fly plane2 city9 city3 fl5 fl4
 0
 2
-0 7 9 3
 0 6 5 4
+0 7 9 3
 1
 end_operator
 begin_operator
 fly plane2 city9 city3 fl6 fl5
 0
 2
-0 7 9 3
 0 6 6 5
+0 7 9 3
 1
 end_operator
 begin_operator
 fly plane2 city9 city4 fl1 fl0
 0
 2
-0 7 9 4
 0 6 1 0
+0 7 9 4
 1
 end_operator
 begin_operator
 fly plane2 city9 city4 fl2 fl1
 0
 2
-0 7 9 4
 0 6 2 1
+0 7 9 4
 1
 end_operator
 begin_operator
 fly plane2 city9 city4 fl3 fl2
 0
 2
-0 7 9 4
 0 6 3 2
+0 7 9 4
 1
 end_operator
 begin_operator
 fly plane2 city9 city4 fl4 fl3
 0
 2
-0 7 9 4
 0 6 4 3
+0 7 9 4
 1
 end_operator
 begin_operator
 fly plane2 city9 city4 fl5 fl4
 0
 2
-0 7 9 4
 0 6 5 4
+0 7 9 4
 1
 end_operator
 begin_operator
 fly plane2 city9 city4 fl6 fl5
 0
 2
-0 7 9 4
 0 6 6 5
+0 7 9 4
 1
 end_operator
 begin_operator
 fly plane2 city9 city5 fl1 fl0
 0
 2
-0 7 9 5
 0 6 1 0
+0 7 9 5
 1
 end_operator
 begin_operator
 fly plane2 city9 city5 fl2 fl1
 0
 2
-0 7 9 5
 0 6 2 1
+0 7 9 5
 1
 end_operator
 begin_operator
 fly plane2 city9 city5 fl3 fl2
 0
 2
-0 7 9 5
 0 6 3 2
+0 7 9 5
 1
 end_operator
 begin_operator
 fly plane2 city9 city5 fl4 fl3
 0
 2
-0 7 9 5
 0 6 4 3
+0 7 9 5
 1
 end_operator
 begin_operator
 fly plane2 city9 city5 fl5 fl4
 0
 2
-0 7 9 5
 0 6 5 4
+0 7 9 5
 1
 end_operator
 begin_operator
 fly plane2 city9 city5 fl6 fl5
 0
 2
-0 7 9 5
 0 6 6 5
+0 7 9 5
 1
 end_operator
 begin_operator
 fly plane2 city9 city6 fl1 fl0
 0
 2
-0 7 9 6
 0 6 1 0
+0 7 9 6
 1
 end_operator
 begin_operator
 fly plane2 city9 city6 fl2 fl1
 0
 2
-0 7 9 6
 0 6 2 1
+0 7 9 6
 1
 end_operator
 begin_operator
 fly plane2 city9 city6 fl3 fl2
 0
 2
-0 7 9 6
 0 6 3 2
+0 7 9 6
 1
 end_operator
 begin_operator
 fly plane2 city9 city6 fl4 fl3
 0
 2
-0 7 9 6
 0 6 4 3
+0 7 9 6
 1
 end_operator
 begin_operator
 fly plane2 city9 city6 fl5 fl4
 0
 2
-0 7 9 6
 0 6 5 4
+0 7 9 6
 1
 end_operator
 begin_operator
 fly plane2 city9 city6 fl6 fl5
 0
 2
-0 7 9 6
 0 6 6 5
+0 7 9 6
 1
 end_operator
 begin_operator
 fly plane2 city9 city7 fl1 fl0
 0
 2
-0 7 9 7
 0 6 1 0
+0 7 9 7
 1
 end_operator
 begin_operator
 fly plane2 city9 city7 fl2 fl1
 0
 2
-0 7 9 7
 0 6 2 1
+0 7 9 7
 1
 end_operator
 begin_operator
 fly plane2 city9 city7 fl3 fl2
 0
 2
-0 7 9 7
 0 6 3 2
+0 7 9 7
 1
 end_operator
 begin_operator
 fly plane2 city9 city7 fl4 fl3
 0
 2
-0 7 9 7
 0 6 4 3
+0 7 9 7
 1
 end_operator
 begin_operator
 fly plane2 city9 city7 fl5 fl4
 0
 2
-0 7 9 7
 0 6 5 4
+0 7 9 7
 1
 end_operator
 begin_operator
 fly plane2 city9 city7 fl6 fl5
 0
 2
-0 7 9 7
 0 6 6 5
+0 7 9 7
 1
 end_operator
 begin_operator
 fly plane2 city9 city8 fl1 fl0
 0
 2
-0 7 9 8
 0 6 1 0
+0 7 9 8
 1
 end_operator
 begin_operator
 fly plane2 city9 city8 fl2 fl1
 0
 2
-0 7 9 8
 0 6 2 1
+0 7 9 8
 1
 end_operator
 begin_operator
 fly plane2 city9 city8 fl3 fl2
 0
 2
-0 7 9 8
 0 6 3 2
+0 7 9 8
 1
 end_operator
 begin_operator
 fly plane2 city9 city8 fl4 fl3
 0
 2
-0 7 9 8
 0 6 4 3
+0 7 9 8
 1
 end_operator
 begin_operator
 fly plane2 city9 city8 fl5 fl4
 0
 2
-0 7 9 8
 0 6 5 4
+0 7 9 8
 1
 end_operator
 begin_operator
 fly plane2 city9 city8 fl6 fl5
 0
 2
-0 7 9 8
 0 6 6 5
+0 7 9 8
 1
 end_operator
 begin_operator
@@ -22831,480 +22831,480 @@ begin_operator
 fly plane4 city0 city1 fl1 fl0
 0
 2
-0 3 0 1
 0 2 1 0
+0 3 0 1
 1
 end_operator
 begin_operator
 fly plane4 city0 city1 fl2 fl1
 0
 2
-0 3 0 1
 0 2 2 1
+0 3 0 1
 1
 end_operator
 begin_operator
 fly plane4 city0 city1 fl3 fl2
 0
 2
-0 3 0 1
 0 2 3 2
+0 3 0 1
 1
 end_operator
 begin_operator
 fly plane4 city0 city1 fl4 fl3
 0
 2
-0 3 0 1
 0 2 4 3
+0 3 0 1
 1
 end_operator
 begin_operator
 fly plane4 city0 city1 fl5 fl4
 0
 2
-0 3 0 1
 0 2 5 4
+0 3 0 1
 1
 end_operator
 begin_operator
 fly plane4 city0 city1 fl6 fl5
 0
 2
-0 3 0 1
 0 2 6 5
+0 3 0 1
 1
 end_operator
 begin_operator
 fly plane4 city0 city2 fl1 fl0
 0
 2
-0 3 0 2
 0 2 1 0
+0 3 0 2
 1
 end_operator
 begin_operator
 fly plane4 city0 city2 fl2 fl1
 0
 2
-0 3 0 2
 0 2 2 1
+0 3 0 2
 1
 end_operator
 begin_operator
 fly plane4 city0 city2 fl3 fl2
 0
 2
-0 3 0 2
 0 2 3 2
+0 3 0 2
 1
 end_operator
 begin_operator
 fly plane4 city0 city2 fl4 fl3
 0
 2
-0 3 0 2
 0 2 4 3
+0 3 0 2
 1
 end_operator
 begin_operator
 fly plane4 city0 city2 fl5 fl4
 0
 2
-0 3 0 2
 0 2 5 4
+0 3 0 2
 1
 end_operator
 begin_operator
 fly plane4 city0 city2 fl6 fl5
 0
 2
-0 3 0 2
 0 2 6 5
+0 3 0 2
 1
 end_operator
 begin_operator
 fly plane4 city0 city3 fl1 fl0
 0
 2
-0 3 0 3
 0 2 1 0
+0 3 0 3
 1
 end_operator
 begin_operator
 fly plane4 city0 city3 fl2 fl1
 0
 2
-0 3 0 3
 0 2 2 1
+0 3 0 3
 1
 end_operator
 begin_operator
 fly plane4 city0 city3 fl3 fl2
 0
 2
-0 3 0 3
 0 2 3 2
+0 3 0 3
 1
 end_operator
 begin_operator
 fly plane4 city0 city3 fl4 fl3
 0
 2
-0 3 0 3
 0 2 4 3
+0 3 0 3
 1
 end_operator
 begin_operator
 fly plane4 city0 city3 fl5 fl4
 0
 2
-0 3 0 3
 0 2 5 4
+0 3 0 3
 1
 end_operator
 begin_operator
 fly plane4 city0 city3 fl6 fl5
 0
 2
-0 3 0 3
 0 2 6 5
+0 3 0 3
 1
 end_operator
 begin_operator
 fly plane4 city0 city4 fl1 fl0
 0
 2
-0 3 0 4
 0 2 1 0
+0 3 0 4
 1
 end_operator
 begin_operator
 fly plane4 city0 city4 fl2 fl1
 0
 2
-0 3 0 4
 0 2 2 1
+0 3 0 4
 1
 end_operator
 begin_operator
 fly plane4 city0 city4 fl3 fl2
 0
 2
-0 3 0 4
 0 2 3 2
+0 3 0 4
 1
 end_operator
 begin_operator
 fly plane4 city0 city4 fl4 fl3
 0
 2
-0 3 0 4
 0 2 4 3
+0 3 0 4
 1
 end_operator
 begin_operator
 fly plane4 city0 city4 fl5 fl4
 0
 2
-0 3 0 4
 0 2 5 4
+0 3 0 4
 1
 end_operator
 begin_operator
 fly plane4 city0 city4 fl6 fl5
 0
 2
-0 3 0 4
 0 2 6 5
+0 3 0 4
 1
 end_operator
 begin_operator
 fly plane4 city0 city5 fl1 fl0
 0
 2
-0 3 0 5
 0 2 1 0
+0 3 0 5
 1
 end_operator
 begin_operator
 fly plane4 city0 city5 fl2 fl1
 0
 2
-0 3 0 5
 0 2 2 1
+0 3 0 5
 1
 end_operator
 begin_operator
 fly plane4 city0 city5 fl3 fl2
 0
 2
-0 3 0 5
 0 2 3 2
+0 3 0 5
 1
 end_operator
 begin_operator
 fly plane4 city0 city5 fl4 fl3
 0
 2
-0 3 0 5
 0 2 4 3
+0 3 0 5
 1
 end_operator
 begin_operator
 fly plane4 city0 city5 fl5 fl4
 0
 2
-0 3 0 5
 0 2 5 4
+0 3 0 5
 1
 end_operator
 begin_operator
 fly plane4 city0 city5 fl6 fl5
 0
 2
-0 3 0 5
 0 2 6 5
+0 3 0 5
 1
 end_operator
 begin_operator
 fly plane4 city0 city6 fl1 fl0
 0
 2
-0 3 0 6
 0 2 1 0
+0 3 0 6
 1
 end_operator
 begin_operator
 fly plane4 city0 city6 fl2 fl1
 0
 2
-0 3 0 6
 0 2 2 1
+0 3 0 6
 1
 end_operator
 begin_operator
 fly plane4 city0 city6 fl3 fl2
 0
 2
-0 3 0 6
 0 2 3 2
+0 3 0 6
 1
 end_operator
 begin_operator
 fly plane4 city0 city6 fl4 fl3
 0
 2
-0 3 0 6
 0 2 4 3
+0 3 0 6
 1
 end_operator
 begin_operator
 fly plane4 city0 city6 fl5 fl4
 0
 2
-0 3 0 6
 0 2 5 4
+0 3 0 6
 1
 end_operator
 begin_operator
 fly plane4 city0 city6 fl6 fl5
 0
 2
-0 3 0 6
 0 2 6 5
+0 3 0 6
 1
 end_operator
 begin_operator
 fly plane4 city0 city7 fl1 fl0
 0
 2
-0 3 0 7
 0 2 1 0
+0 3 0 7
 1
 end_operator
 begin_operator
 fly plane4 city0 city7 fl2 fl1
 0
 2
-0 3 0 7
 0 2 2 1
+0 3 0 7
 1
 end_operator
 begin_operator
 fly plane4 city0 city7 fl3 fl2
 0
 2
-0 3 0 7
 0 2 3 2
+0 3 0 7
 1
 end_operator
 begin_operator
 fly plane4 city0 city7 fl4 fl3
 0
 2
-0 3 0 7
 0 2 4 3
+0 3 0 7
 1
 end_operator
 begin_operator
 fly plane4 city0 city7 fl5 fl4
 0
 2
-0 3 0 7
 0 2 5 4
+0 3 0 7
 1
 end_operator
 begin_operator
 fly plane4 city0 city7 fl6 fl5
 0
 2
-0 3 0 7
 0 2 6 5
+0 3 0 7
 1
 end_operator
 begin_operator
 fly plane4 city0 city8 fl1 fl0
 0
 2
-0 3 0 8
 0 2 1 0
+0 3 0 8
 1
 end_operator
 begin_operator
 fly plane4 city0 city8 fl2 fl1
 0
 2
-0 3 0 8
 0 2 2 1
+0 3 0 8
 1
 end_operator
 begin_operator
 fly plane4 city0 city8 fl3 fl2
 0
 2
-0 3 0 8
 0 2 3 2
+0 3 0 8
 1
 end_operator
 begin_operator
 fly plane4 city0 city8 fl4 fl3
 0
 2
-0 3 0 8
 0 2 4 3
+0 3 0 8
 1
 end_operator
 begin_operator
 fly plane4 city0 city8 fl5 fl4
 0
 2
-0 3 0 8
 0 2 5 4
+0 3 0 8
 1
 end_operator
 begin_operator
 fly plane4 city0 city8 fl6 fl5
 0
 2
-0 3 0 8
 0 2 6 5
+0 3 0 8
 1
 end_operator
 begin_operator
 fly plane4 city0 city9 fl1 fl0
 0
 2
-0 3 0 9
 0 2 1 0
+0 3 0 9
 1
 end_operator
 begin_operator
 fly plane4 city0 city9 fl2 fl1
 0
 2
-0 3 0 9
 0 2 2 1
+0 3 0 9
 1
 end_operator
 begin_operator
 fly plane4 city0 city9 fl3 fl2
 0
 2
-0 3 0 9
 0 2 3 2
+0 3 0 9
 1
 end_operator
 begin_operator
 fly plane4 city0 city9 fl4 fl3
 0
 2
-0 3 0 9
 0 2 4 3
+0 3 0 9
 1
 end_operator
 begin_operator
 fly plane4 city0 city9 fl5 fl4
 0
 2
-0 3 0 9
 0 2 5 4
+0 3 0 9
 1
 end_operator
 begin_operator
 fly plane4 city0 city9 fl6 fl5
 0
 2
-0 3 0 9
 0 2 6 5
+0 3 0 9
 1
 end_operator
 begin_operator
 fly plane4 city1 city0 fl1 fl0
 0
 2
-0 3 1 0
 0 2 1 0
+0 3 1 0
 1
 end_operator
 begin_operator
 fly plane4 city1 city0 fl2 fl1
 0
 2
-0 3 1 0
 0 2 2 1
+0 3 1 0
 1
 end_operator
 begin_operator
 fly plane4 city1 city0 fl3 fl2
 0
 2
-0 3 1 0
 0 2 3 2
+0 3 1 0
 1
 end_operator
 begin_operator
 fly plane4 city1 city0 fl4 fl3
 0
 2
-0 3 1 0
 0 2 4 3
+0 3 1 0
 1
 end_operator
 begin_operator
 fly plane4 city1 city0 fl5 fl4
 0
 2
-0 3 1 0
 0 2 5 4
+0 3 1 0
 1
 end_operator
 begin_operator
 fly plane4 city1 city0 fl6 fl5
 0
 2
-0 3 1 0
 0 2 6 5
+0 3 1 0
 1
 end_operator
 begin_operator
@@ -23359,480 +23359,480 @@ begin_operator
 fly plane4 city1 city2 fl1 fl0
 0
 2
-0 3 1 2
 0 2 1 0
+0 3 1 2
 1
 end_operator
 begin_operator
 fly plane4 city1 city2 fl2 fl1
 0
 2
-0 3 1 2
 0 2 2 1
+0 3 1 2
 1
 end_operator
 begin_operator
 fly plane4 city1 city2 fl3 fl2
 0
 2
-0 3 1 2
 0 2 3 2
+0 3 1 2
 1
 end_operator
 begin_operator
 fly plane4 city1 city2 fl4 fl3
 0
 2
-0 3 1 2
 0 2 4 3
+0 3 1 2
 1
 end_operator
 begin_operator
 fly plane4 city1 city2 fl5 fl4
 0
 2
-0 3 1 2
 0 2 5 4
+0 3 1 2
 1
 end_operator
 begin_operator
 fly plane4 city1 city2 fl6 fl5
 0
 2
-0 3 1 2
 0 2 6 5
+0 3 1 2
 1
 end_operator
 begin_operator
 fly plane4 city1 city3 fl1 fl0
 0
 2
-0 3 1 3
 0 2 1 0
+0 3 1 3
 1
 end_operator
 begin_operator
 fly plane4 city1 city3 fl2 fl1
 0
 2
-0 3 1 3
 0 2 2 1
+0 3 1 3
 1
 end_operator
 begin_operator
 fly plane4 city1 city3 fl3 fl2
 0
 2
-0 3 1 3
 0 2 3 2
+0 3 1 3
 1
 end_operator
 begin_operator
 fly plane4 city1 city3 fl4 fl3
 0
 2
-0 3 1 3
 0 2 4 3
+0 3 1 3
 1
 end_operator
 begin_operator
 fly plane4 city1 city3 fl5 fl4
 0
 2
-0 3 1 3
 0 2 5 4
+0 3 1 3
 1
 end_operator
 begin_operator
 fly plane4 city1 city3 fl6 fl5
 0
 2
-0 3 1 3
 0 2 6 5
+0 3 1 3
 1
 end_operator
 begin_operator
 fly plane4 city1 city4 fl1 fl0
 0
 2
-0 3 1 4
 0 2 1 0
+0 3 1 4
 1
 end_operator
 begin_operator
 fly plane4 city1 city4 fl2 fl1
 0
 2
-0 3 1 4
 0 2 2 1
+0 3 1 4
 1
 end_operator
 begin_operator
 fly plane4 city1 city4 fl3 fl2
 0
 2
-0 3 1 4
 0 2 3 2
+0 3 1 4
 1
 end_operator
 begin_operator
 fly plane4 city1 city4 fl4 fl3
 0
 2
-0 3 1 4
 0 2 4 3
+0 3 1 4
 1
 end_operator
 begin_operator
 fly plane4 city1 city4 fl5 fl4
 0
 2
-0 3 1 4
 0 2 5 4
+0 3 1 4
 1
 end_operator
 begin_operator
 fly plane4 city1 city4 fl6 fl5
 0
 2
-0 3 1 4
 0 2 6 5
+0 3 1 4
 1
 end_operator
 begin_operator
 fly plane4 city1 city5 fl1 fl0
 0
 2
-0 3 1 5
 0 2 1 0
+0 3 1 5
 1
 end_operator
 begin_operator
 fly plane4 city1 city5 fl2 fl1
 0
 2
-0 3 1 5
 0 2 2 1
+0 3 1 5
 1
 end_operator
 begin_operator
 fly plane4 city1 city5 fl3 fl2
 0
 2
-0 3 1 5
 0 2 3 2
+0 3 1 5
 1
 end_operator
 begin_operator
 fly plane4 city1 city5 fl4 fl3
 0
 2
-0 3 1 5
 0 2 4 3
+0 3 1 5
 1
 end_operator
 begin_operator
 fly plane4 city1 city5 fl5 fl4
 0
 2
-0 3 1 5
 0 2 5 4
+0 3 1 5
 1
 end_operator
 begin_operator
 fly plane4 city1 city5 fl6 fl5
 0
 2
-0 3 1 5
 0 2 6 5
+0 3 1 5
 1
 end_operator
 begin_operator
 fly plane4 city1 city6 fl1 fl0
 0
 2
-0 3 1 6
 0 2 1 0
+0 3 1 6
 1
 end_operator
 begin_operator
 fly plane4 city1 city6 fl2 fl1
 0
 2
-0 3 1 6
 0 2 2 1
+0 3 1 6
 1
 end_operator
 begin_operator
 fly plane4 city1 city6 fl3 fl2
 0
 2
-0 3 1 6
 0 2 3 2
+0 3 1 6
 1
 end_operator
 begin_operator
 fly plane4 city1 city6 fl4 fl3
 0
 2
-0 3 1 6
 0 2 4 3
+0 3 1 6
 1
 end_operator
 begin_operator
 fly plane4 city1 city6 fl5 fl4
 0
 2
-0 3 1 6
 0 2 5 4
+0 3 1 6
 1
 end_operator
 begin_operator
 fly plane4 city1 city6 fl6 fl5
 0
 2
-0 3 1 6
 0 2 6 5
+0 3 1 6
 1
 end_operator
 begin_operator
 fly plane4 city1 city7 fl1 fl0
 0
 2
-0 3 1 7
 0 2 1 0
+0 3 1 7
 1
 end_operator
 begin_operator
 fly plane4 city1 city7 fl2 fl1
 0
 2
-0 3 1 7
 0 2 2 1
+0 3 1 7
 1
 end_operator
 begin_operator
 fly plane4 city1 city7 fl3 fl2
 0
 2
-0 3 1 7
 0 2 3 2
+0 3 1 7
 1
 end_operator
 begin_operator
 fly plane4 city1 city7 fl4 fl3
 0
 2
-0 3 1 7
 0 2 4 3
+0 3 1 7
 1
 end_operator
 begin_operator
 fly plane4 city1 city7 fl5 fl4
 0
 2
-0 3 1 7
 0 2 5 4
+0 3 1 7
 1
 end_operator
 begin_operator
 fly plane4 city1 city7 fl6 fl5
 0
 2
-0 3 1 7
 0 2 6 5
+0 3 1 7
 1
 end_operator
 begin_operator
 fly plane4 city1 city8 fl1 fl0
 0
 2
-0 3 1 8
 0 2 1 0
+0 3 1 8
 1
 end_operator
 begin_operator
 fly plane4 city1 city8 fl2 fl1
 0
 2
-0 3 1 8
 0 2 2 1
+0 3 1 8
 1
 end_operator
 begin_operator
 fly plane4 city1 city8 fl3 fl2
 0
 2
-0 3 1 8
 0 2 3 2
+0 3 1 8
 1
 end_operator
 begin_operator
 fly plane4 city1 city8 fl4 fl3
 0
 2
-0 3 1 8
 0 2 4 3
+0 3 1 8
 1
 end_operator
 begin_operator
 fly plane4 city1 city8 fl5 fl4
 0
 2
-0 3 1 8
 0 2 5 4
+0 3 1 8
 1
 end_operator
 begin_operator
 fly plane4 city1 city8 fl6 fl5
 0
 2
-0 3 1 8
 0 2 6 5
+0 3 1 8
 1
 end_operator
 begin_operator
 fly plane4 city1 city9 fl1 fl0
 0
 2
-0 3 1 9
 0 2 1 0
+0 3 1 9
 1
 end_operator
 begin_operator
 fly plane4 city1 city9 fl2 fl1
 0
 2
-0 3 1 9
 0 2 2 1
+0 3 1 9
 1
 end_operator
 begin_operator
 fly plane4 city1 city9 fl3 fl2
 0
 2
-0 3 1 9
 0 2 3 2
+0 3 1 9
 1
 end_operator
 begin_operator
 fly plane4 city1 city9 fl4 fl3
 0
 2
-0 3 1 9
 0 2 4 3
+0 3 1 9
 1
 end_operator
 begin_operator
 fly plane4 city1 city9 fl5 fl4
 0
 2
-0 3 1 9
 0 2 5 4
+0 3 1 9
 1
 end_operator
 begin_operator
 fly plane4 city1 city9 fl6 fl5
 0
 2
-0 3 1 9
 0 2 6 5
+0 3 1 9
 1
 end_operator
 begin_operator
 fly plane4 city2 city0 fl1 fl0
 0
 2
-0 3 2 0
 0 2 1 0
+0 3 2 0
 1
 end_operator
 begin_operator
 fly plane4 city2 city0 fl2 fl1
 0
 2
-0 3 2 0
 0 2 2 1
+0 3 2 0
 1
 end_operator
 begin_operator
 fly plane4 city2 city0 fl3 fl2
 0
 2
-0 3 2 0
 0 2 3 2
+0 3 2 0
 1
 end_operator
 begin_operator
 fly plane4 city2 city0 fl4 fl3
 0
 2
-0 3 2 0
 0 2 4 3
+0 3 2 0
 1
 end_operator
 begin_operator
 fly plane4 city2 city0 fl5 fl4
 0
 2
-0 3 2 0
 0 2 5 4
+0 3 2 0
 1
 end_operator
 begin_operator
 fly plane4 city2 city0 fl6 fl5
 0
 2
-0 3 2 0
 0 2 6 5
+0 3 2 0
 1
 end_operator
 begin_operator
 fly plane4 city2 city1 fl1 fl0
 0
 2
-0 3 2 1
 0 2 1 0
+0 3 2 1
 1
 end_operator
 begin_operator
 fly plane4 city2 city1 fl2 fl1
 0
 2
-0 3 2 1
 0 2 2 1
+0 3 2 1
 1
 end_operator
 begin_operator
 fly plane4 city2 city1 fl3 fl2
 0
 2
-0 3 2 1
 0 2 3 2
+0 3 2 1
 1
 end_operator
 begin_operator
 fly plane4 city2 city1 fl4 fl3
 0
 2
-0 3 2 1
 0 2 4 3
+0 3 2 1
 1
 end_operator
 begin_operator
 fly plane4 city2 city1 fl5 fl4
 0
 2
-0 3 2 1
 0 2 5 4
+0 3 2 1
 1
 end_operator
 begin_operator
 fly plane4 city2 city1 fl6 fl5
 0
 2
-0 3 2 1
 0 2 6 5
+0 3 2 1
 1
 end_operator
 begin_operator
@@ -23887,480 +23887,480 @@ begin_operator
 fly plane4 city2 city3 fl1 fl0
 0
 2
-0 3 2 3
 0 2 1 0
+0 3 2 3
 1
 end_operator
 begin_operator
 fly plane4 city2 city3 fl2 fl1
 0
 2
-0 3 2 3
 0 2 2 1
+0 3 2 3
 1
 end_operator
 begin_operator
 fly plane4 city2 city3 fl3 fl2
 0
 2
-0 3 2 3
 0 2 3 2
+0 3 2 3
 1
 end_operator
 begin_operator
 fly plane4 city2 city3 fl4 fl3
 0
 2
-0 3 2 3
 0 2 4 3
+0 3 2 3
 1
 end_operator
 begin_operator
 fly plane4 city2 city3 fl5 fl4
 0
 2
-0 3 2 3
 0 2 5 4
+0 3 2 3
 1
 end_operator
 begin_operator
 fly plane4 city2 city3 fl6 fl5
 0
 2
-0 3 2 3
 0 2 6 5
+0 3 2 3
 1
 end_operator
 begin_operator
 fly plane4 city2 city4 fl1 fl0
 0
 2
-0 3 2 4
 0 2 1 0
+0 3 2 4
 1
 end_operator
 begin_operator
 fly plane4 city2 city4 fl2 fl1
 0
 2
-0 3 2 4
 0 2 2 1
+0 3 2 4
 1
 end_operator
 begin_operator
 fly plane4 city2 city4 fl3 fl2
 0
 2
-0 3 2 4
 0 2 3 2
+0 3 2 4
 1
 end_operator
 begin_operator
 fly plane4 city2 city4 fl4 fl3
 0
 2
-0 3 2 4
 0 2 4 3
+0 3 2 4
 1
 end_operator
 begin_operator
 fly plane4 city2 city4 fl5 fl4
 0
 2
-0 3 2 4
 0 2 5 4
+0 3 2 4
 1
 end_operator
 begin_operator
 fly plane4 city2 city4 fl6 fl5
 0
 2
-0 3 2 4
 0 2 6 5
+0 3 2 4
 1
 end_operator
 begin_operator
 fly plane4 city2 city5 fl1 fl0
 0
 2
-0 3 2 5
 0 2 1 0
+0 3 2 5
 1
 end_operator
 begin_operator
 fly plane4 city2 city5 fl2 fl1
 0
 2
-0 3 2 5
 0 2 2 1
+0 3 2 5
 1
 end_operator
 begin_operator
 fly plane4 city2 city5 fl3 fl2
 0
 2
-0 3 2 5
 0 2 3 2
+0 3 2 5
 1
 end_operator
 begin_operator
 fly plane4 city2 city5 fl4 fl3
 0
 2
-0 3 2 5
 0 2 4 3
+0 3 2 5
 1
 end_operator
 begin_operator
 fly plane4 city2 city5 fl5 fl4
 0
 2
-0 3 2 5
 0 2 5 4
+0 3 2 5
 1
 end_operator
 begin_operator
 fly plane4 city2 city5 fl6 fl5
 0
 2
-0 3 2 5
 0 2 6 5
+0 3 2 5
 1
 end_operator
 begin_operator
 fly plane4 city2 city6 fl1 fl0
 0
 2
-0 3 2 6
 0 2 1 0
+0 3 2 6
 1
 end_operator
 begin_operator
 fly plane4 city2 city6 fl2 fl1
 0
 2
-0 3 2 6
 0 2 2 1
+0 3 2 6
 1
 end_operator
 begin_operator
 fly plane4 city2 city6 fl3 fl2
 0
 2
-0 3 2 6
 0 2 3 2
+0 3 2 6
 1
 end_operator
 begin_operator
 fly plane4 city2 city6 fl4 fl3
 0
 2
-0 3 2 6
 0 2 4 3
+0 3 2 6
 1
 end_operator
 begin_operator
 fly plane4 city2 city6 fl5 fl4
 0
 2
-0 3 2 6
 0 2 5 4
+0 3 2 6
 1
 end_operator
 begin_operator
 fly plane4 city2 city6 fl6 fl5
 0
 2
-0 3 2 6
 0 2 6 5
+0 3 2 6
 1
 end_operator
 begin_operator
 fly plane4 city2 city7 fl1 fl0
 0
 2
-0 3 2 7
 0 2 1 0
+0 3 2 7
 1
 end_operator
 begin_operator
 fly plane4 city2 city7 fl2 fl1
 0
 2
-0 3 2 7
 0 2 2 1
+0 3 2 7
 1
 end_operator
 begin_operator
 fly plane4 city2 city7 fl3 fl2
 0
 2
-0 3 2 7
 0 2 3 2
+0 3 2 7
 1
 end_operator
 begin_operator
 fly plane4 city2 city7 fl4 fl3
 0
 2
-0 3 2 7
 0 2 4 3
+0 3 2 7
 1
 end_operator
 begin_operator
 fly plane4 city2 city7 fl5 fl4
 0
 2
-0 3 2 7
 0 2 5 4
+0 3 2 7
 1
 end_operator
 begin_operator
 fly plane4 city2 city7 fl6 fl5
 0
 2
-0 3 2 7
 0 2 6 5
+0 3 2 7
 1
 end_operator
 begin_operator
 fly plane4 city2 city8 fl1 fl0
 0
 2
-0 3 2 8
 0 2 1 0
+0 3 2 8
 1
 end_operator
 begin_operator
 fly plane4 city2 city8 fl2 fl1
 0
 2
-0 3 2 8
 0 2 2 1
+0 3 2 8
 1
 end_operator
 begin_operator
 fly plane4 city2 city8 fl3 fl2
 0
 2
-0 3 2 8
 0 2 3 2
+0 3 2 8
 1
 end_operator
 begin_operator
 fly plane4 city2 city8 fl4 fl3
 0
 2
-0 3 2 8
 0 2 4 3
+0 3 2 8
 1
 end_operator
 begin_operator
 fly plane4 city2 city8 fl5 fl4
 0
 2
-0 3 2 8
 0 2 5 4
+0 3 2 8
 1
 end_operator
 begin_operator
 fly plane4 city2 city8 fl6 fl5
 0
 2
-0 3 2 8
 0 2 6 5
+0 3 2 8
 1
 end_operator
 begin_operator
 fly plane4 city2 city9 fl1 fl0
 0
 2
-0 3 2 9
 0 2 1 0
+0 3 2 9
 1
 end_operator
 begin_operator
 fly plane4 city2 city9 fl2 fl1
 0
 2
-0 3 2 9
 0 2 2 1
+0 3 2 9
 1
 end_operator
 begin_operator
 fly plane4 city2 city9 fl3 fl2
 0
 2
-0 3 2 9
 0 2 3 2
+0 3 2 9
 1
 end_operator
 begin_operator
 fly plane4 city2 city9 fl4 fl3
 0
 2
-0 3 2 9
 0 2 4 3
+0 3 2 9
 1
 end_operator
 begin_operator
 fly plane4 city2 city9 fl5 fl4
 0
 2
-0 3 2 9
 0 2 5 4
+0 3 2 9
 1
 end_operator
 begin_operator
 fly plane4 city2 city9 fl6 fl5
 0
 2
-0 3 2 9
 0 2 6 5
+0 3 2 9
 1
 end_operator
 begin_operator
 fly plane4 city3 city0 fl1 fl0
 0
 2
-0 3 3 0
 0 2 1 0
+0 3 3 0
 1
 end_operator
 begin_operator
 fly plane4 city3 city0 fl2 fl1
 0
 2
-0 3 3 0
 0 2 2 1
+0 3 3 0
 1
 end_operator
 begin_operator
 fly plane4 city3 city0 fl3 fl2
 0
 2
-0 3 3 0
 0 2 3 2
+0 3 3 0
 1
 end_operator
 begin_operator
 fly plane4 city3 city0 fl4 fl3
 0
 2
-0 3 3 0
 0 2 4 3
+0 3 3 0
 1
 end_operator
 begin_operator
 fly plane4 city3 city0 fl5 fl4
 0
 2
-0 3 3 0
 0 2 5 4
+0 3 3 0
 1
 end_operator
 begin_operator
 fly plane4 city3 city0 fl6 fl5
 0
 2
-0 3 3 0
 0 2 6 5
+0 3 3 0
 1
 end_operator
 begin_operator
 fly plane4 city3 city1 fl1 fl0
 0
 2
-0 3 3 1
 0 2 1 0
+0 3 3 1
 1
 end_operator
 begin_operator
 fly plane4 city3 city1 fl2 fl1
 0
 2
-0 3 3 1
 0 2 2 1
+0 3 3 1
 1
 end_operator
 begin_operator
 fly plane4 city3 city1 fl3 fl2
 0
 2
-0 3 3 1
 0 2 3 2
+0 3 3 1
 1
 end_operator
 begin_operator
 fly plane4 city3 city1 fl4 fl3
 0
 2
-0 3 3 1
 0 2 4 3
+0 3 3 1
 1
 end_operator
 begin_operator
 fly plane4 city3 city1 fl5 fl4
 0
 2
-0 3 3 1
 0 2 5 4
+0 3 3 1
 1
 end_operator
 begin_operator
 fly plane4 city3 city1 fl6 fl5
 0
 2
-0 3 3 1
 0 2 6 5
+0 3 3 1
 1
 end_operator
 begin_operator
 fly plane4 city3 city2 fl1 fl0
 0
 2
-0 3 3 2
 0 2 1 0
+0 3 3 2
 1
 end_operator
 begin_operator
 fly plane4 city3 city2 fl2 fl1
 0
 2
-0 3 3 2
 0 2 2 1
+0 3 3 2
 1
 end_operator
 begin_operator
 fly plane4 city3 city2 fl3 fl2
 0
 2
-0 3 3 2
 0 2 3 2
+0 3 3 2
 1
 end_operator
 begin_operator
 fly plane4 city3 city2 fl4 fl3
 0
 2
-0 3 3 2
 0 2 4 3
+0 3 3 2
 1
 end_operator
 begin_operator
 fly plane4 city3 city2 fl5 fl4
 0
 2
-0 3 3 2
 0 2 5 4
+0 3 3 2
 1
 end_operator
 begin_operator
 fly plane4 city3 city2 fl6 fl5
 0
 2
-0 3 3 2
 0 2 6 5
+0 3 3 2
 1
 end_operator
 begin_operator
@@ -24415,480 +24415,480 @@ begin_operator
 fly plane4 city3 city4 fl1 fl0
 0
 2
-0 3 3 4
 0 2 1 0
+0 3 3 4
 1
 end_operator
 begin_operator
 fly plane4 city3 city4 fl2 fl1
 0
 2
-0 3 3 4
 0 2 2 1
+0 3 3 4
 1
 end_operator
 begin_operator
 fly plane4 city3 city4 fl3 fl2
 0
 2
-0 3 3 4
 0 2 3 2
+0 3 3 4
 1
 end_operator
 begin_operator
 fly plane4 city3 city4 fl4 fl3
 0
 2
-0 3 3 4
 0 2 4 3
+0 3 3 4
 1
 end_operator
 begin_operator
 fly plane4 city3 city4 fl5 fl4
 0
 2
-0 3 3 4
 0 2 5 4
+0 3 3 4
 1
 end_operator
 begin_operator
 fly plane4 city3 city4 fl6 fl5
 0
 2
-0 3 3 4
 0 2 6 5
+0 3 3 4
 1
 end_operator
 begin_operator
 fly plane4 city3 city5 fl1 fl0
 0
 2
-0 3 3 5
 0 2 1 0
+0 3 3 5
 1
 end_operator
 begin_operator
 fly plane4 city3 city5 fl2 fl1
 0
 2
-0 3 3 5
 0 2 2 1
+0 3 3 5
 1
 end_operator
 begin_operator
 fly plane4 city3 city5 fl3 fl2
 0
 2
-0 3 3 5
 0 2 3 2
+0 3 3 5
 1
 end_operator
 begin_operator
 fly plane4 city3 city5 fl4 fl3
 0
 2
-0 3 3 5
 0 2 4 3
+0 3 3 5
 1
 end_operator
 begin_operator
 fly plane4 city3 city5 fl5 fl4
 0
 2
-0 3 3 5
 0 2 5 4
+0 3 3 5
 1
 end_operator
 begin_operator
 fly plane4 city3 city5 fl6 fl5
 0
 2
-0 3 3 5
 0 2 6 5
+0 3 3 5
 1
 end_operator
 begin_operator
 fly plane4 city3 city6 fl1 fl0
 0
 2
-0 3 3 6
 0 2 1 0
+0 3 3 6
 1
 end_operator
 begin_operator
 fly plane4 city3 city6 fl2 fl1
 0
 2
-0 3 3 6
 0 2 2 1
+0 3 3 6
 1
 end_operator
 begin_operator
 fly plane4 city3 city6 fl3 fl2
 0
 2
-0 3 3 6
 0 2 3 2
+0 3 3 6
 1
 end_operator
 begin_operator
 fly plane4 city3 city6 fl4 fl3
 0
 2
-0 3 3 6
 0 2 4 3
+0 3 3 6
 1
 end_operator
 begin_operator
 fly plane4 city3 city6 fl5 fl4
 0
 2
-0 3 3 6
 0 2 5 4
+0 3 3 6
 1
 end_operator
 begin_operator
 fly plane4 city3 city6 fl6 fl5
 0
 2
-0 3 3 6
 0 2 6 5
+0 3 3 6
 1
 end_operator
 begin_operator
 fly plane4 city3 city7 fl1 fl0
 0
 2
-0 3 3 7
 0 2 1 0
+0 3 3 7
 1
 end_operator
 begin_operator
 fly plane4 city3 city7 fl2 fl1
 0
 2
-0 3 3 7
 0 2 2 1
+0 3 3 7
 1
 end_operator
 begin_operator
 fly plane4 city3 city7 fl3 fl2
 0
 2
-0 3 3 7
 0 2 3 2
+0 3 3 7
 1
 end_operator
 begin_operator
 fly plane4 city3 city7 fl4 fl3
 0
 2
-0 3 3 7
 0 2 4 3
+0 3 3 7
 1
 end_operator
 begin_operator
 fly plane4 city3 city7 fl5 fl4
 0
 2
-0 3 3 7
 0 2 5 4
+0 3 3 7
 1
 end_operator
 begin_operator
 fly plane4 city3 city7 fl6 fl5
 0
 2
-0 3 3 7
 0 2 6 5
+0 3 3 7
 1
 end_operator
 begin_operator
 fly plane4 city3 city8 fl1 fl0
 0
 2
-0 3 3 8
 0 2 1 0
+0 3 3 8
 1
 end_operator
 begin_operator
 fly plane4 city3 city8 fl2 fl1
 0
 2
-0 3 3 8
 0 2 2 1
+0 3 3 8
 1
 end_operator
 begin_operator
 fly plane4 city3 city8 fl3 fl2
 0
 2
-0 3 3 8
 0 2 3 2
+0 3 3 8
 1
 end_operator
 begin_operator
 fly plane4 city3 city8 fl4 fl3
 0
 2
-0 3 3 8
 0 2 4 3
+0 3 3 8
 1
 end_operator
 begin_operator
 fly plane4 city3 city8 fl5 fl4
 0
 2
-0 3 3 8
 0 2 5 4
+0 3 3 8
 1
 end_operator
 begin_operator
 fly plane4 city3 city8 fl6 fl5
 0
 2
-0 3 3 8
 0 2 6 5
+0 3 3 8
 1
 end_operator
 begin_operator
 fly plane4 city3 city9 fl1 fl0
 0
 2
-0 3 3 9
 0 2 1 0
+0 3 3 9
 1
 end_operator
 begin_operator
 fly plane4 city3 city9 fl2 fl1
 0
 2
-0 3 3 9
 0 2 2 1
+0 3 3 9
 1
 end_operator
 begin_operator
 fly plane4 city3 city9 fl3 fl2
 0
 2
-0 3 3 9
 0 2 3 2
+0 3 3 9
 1
 end_operator
 begin_operator
 fly plane4 city3 city9 fl4 fl3
 0
 2
-0 3 3 9
 0 2 4 3
+0 3 3 9
 1
 end_operator
 begin_operator
 fly plane4 city3 city9 fl5 fl4
 0
 2
-0 3 3 9
 0 2 5 4
+0 3 3 9
 1
 end_operator
 begin_operator
 fly plane4 city3 city9 fl6 fl5
 0
 2
-0 3 3 9
 0 2 6 5
+0 3 3 9
 1
 end_operator
 begin_operator
 fly plane4 city4 city0 fl1 fl0
 0
 2
-0 3 4 0
 0 2 1 0
+0 3 4 0
 1
 end_operator
 begin_operator
 fly plane4 city4 city0 fl2 fl1
 0
 2
-0 3 4 0
 0 2 2 1
+0 3 4 0
 1
 end_operator
 begin_operator
 fly plane4 city4 city0 fl3 fl2
 0
 2
-0 3 4 0
 0 2 3 2
+0 3 4 0
 1
 end_operator
 begin_operator
 fly plane4 city4 city0 fl4 fl3
 0
 2
-0 3 4 0
 0 2 4 3
+0 3 4 0
 1
 end_operator
 begin_operator
 fly plane4 city4 city0 fl5 fl4
 0
 2
-0 3 4 0
 0 2 5 4
+0 3 4 0
 1
 end_operator
 begin_operator
 fly plane4 city4 city0 fl6 fl5
 0
 2
-0 3 4 0
 0 2 6 5
+0 3 4 0
 1
 end_operator
 begin_operator
 fly plane4 city4 city1 fl1 fl0
 0
 2
-0 3 4 1
 0 2 1 0
+0 3 4 1
 1
 end_operator
 begin_operator
 fly plane4 city4 city1 fl2 fl1
 0
 2
-0 3 4 1
 0 2 2 1
+0 3 4 1
 1
 end_operator
 begin_operator
 fly plane4 city4 city1 fl3 fl2
 0
 2
-0 3 4 1
 0 2 3 2
+0 3 4 1
 1
 end_operator
 begin_operator
 fly plane4 city4 city1 fl4 fl3
 0
 2
-0 3 4 1
 0 2 4 3
+0 3 4 1
 1
 end_operator
 begin_operator
 fly plane4 city4 city1 fl5 fl4
 0
 2
-0 3 4 1
 0 2 5 4
+0 3 4 1
 1
 end_operator
 begin_operator
 fly plane4 city4 city1 fl6 fl5
 0
 2
-0 3 4 1
 0 2 6 5
+0 3 4 1
 1
 end_operator
 begin_operator
 fly plane4 city4 city2 fl1 fl0
 0
 2
-0 3 4 2
 0 2 1 0
+0 3 4 2
 1
 end_operator
 begin_operator
 fly plane4 city4 city2 fl2 fl1
 0
 2
-0 3 4 2
 0 2 2 1
+0 3 4 2
 1
 end_operator
 begin_operator
 fly plane4 city4 city2 fl3 fl2
 0
 2
-0 3 4 2
 0 2 3 2
+0 3 4 2
 1
 end_operator
 begin_operator
 fly plane4 city4 city2 fl4 fl3
 0
 2
-0 3 4 2
 0 2 4 3
+0 3 4 2
 1
 end_operator
 begin_operator
 fly plane4 city4 city2 fl5 fl4
 0
 2
-0 3 4 2
 0 2 5 4
+0 3 4 2
 1
 end_operator
 begin_operator
 fly plane4 city4 city2 fl6 fl5
 0
 2
-0 3 4 2
 0 2 6 5
+0 3 4 2
 1
 end_operator
 begin_operator
 fly plane4 city4 city3 fl1 fl0
 0
 2
-0 3 4 3
 0 2 1 0
+0 3 4 3
 1
 end_operator
 begin_operator
 fly plane4 city4 city3 fl2 fl1
 0
 2
-0 3 4 3
 0 2 2 1
+0 3 4 3
 1
 end_operator
 begin_operator
 fly plane4 city4 city3 fl3 fl2
 0
 2
-0 3 4 3
 0 2 3 2
+0 3 4 3
 1
 end_operator
 begin_operator
 fly plane4 city4 city3 fl4 fl3
 0
 2
-0 3 4 3
 0 2 4 3
+0 3 4 3
 1
 end_operator
 begin_operator
 fly plane4 city4 city3 fl5 fl4
 0
 2
-0 3 4 3
 0 2 5 4
+0 3 4 3
 1
 end_operator
 begin_operator
 fly plane4 city4 city3 fl6 fl5
 0
 2
-0 3 4 3
 0 2 6 5
+0 3 4 3
 1
 end_operator
 begin_operator
@@ -24943,480 +24943,480 @@ begin_operator
 fly plane4 city4 city5 fl1 fl0
 0
 2
-0 3 4 5
 0 2 1 0
+0 3 4 5
 1
 end_operator
 begin_operator
 fly plane4 city4 city5 fl2 fl1
 0
 2
-0 3 4 5
 0 2 2 1
+0 3 4 5
 1
 end_operator
 begin_operator
 fly plane4 city4 city5 fl3 fl2
 0
 2
-0 3 4 5
 0 2 3 2
+0 3 4 5
 1
 end_operator
 begin_operator
 fly plane4 city4 city5 fl4 fl3
 0
 2
-0 3 4 5
 0 2 4 3
+0 3 4 5
 1
 end_operator
 begin_operator
 fly plane4 city4 city5 fl5 fl4
 0
 2
-0 3 4 5
 0 2 5 4
+0 3 4 5
 1
 end_operator
 begin_operator
 fly plane4 city4 city5 fl6 fl5
 0
 2
-0 3 4 5
 0 2 6 5
+0 3 4 5
 1
 end_operator
 begin_operator
 fly plane4 city4 city6 fl1 fl0
 0
 2
-0 3 4 6
 0 2 1 0
+0 3 4 6
 1
 end_operator
 begin_operator
 fly plane4 city4 city6 fl2 fl1
 0
 2
-0 3 4 6
 0 2 2 1
+0 3 4 6
 1
 end_operator
 begin_operator
 fly plane4 city4 city6 fl3 fl2
 0
 2
-0 3 4 6
 0 2 3 2
+0 3 4 6
 1
 end_operator
 begin_operator
 fly plane4 city4 city6 fl4 fl3
 0
 2
-0 3 4 6
 0 2 4 3
+0 3 4 6
 1
 end_operator
 begin_operator
 fly plane4 city4 city6 fl5 fl4
 0
 2
-0 3 4 6
 0 2 5 4
+0 3 4 6
 1
 end_operator
 begin_operator
 fly plane4 city4 city6 fl6 fl5
 0
 2
-0 3 4 6
 0 2 6 5
+0 3 4 6
 1
 end_operator
 begin_operator
 fly plane4 city4 city7 fl1 fl0
 0
 2
-0 3 4 7
 0 2 1 0
+0 3 4 7
 1
 end_operator
 begin_operator
 fly plane4 city4 city7 fl2 fl1
 0
 2
-0 3 4 7
 0 2 2 1
+0 3 4 7
 1
 end_operator
 begin_operator
 fly plane4 city4 city7 fl3 fl2
 0
 2
-0 3 4 7
 0 2 3 2
+0 3 4 7
 1
 end_operator
 begin_operator
 fly plane4 city4 city7 fl4 fl3
 0
 2
-0 3 4 7
 0 2 4 3
+0 3 4 7
 1
 end_operator
 begin_operator
 fly plane4 city4 city7 fl5 fl4
 0
 2
-0 3 4 7
 0 2 5 4
+0 3 4 7
 1
 end_operator
 begin_operator
 fly plane4 city4 city7 fl6 fl5
 0
 2
-0 3 4 7
 0 2 6 5
+0 3 4 7
 1
 end_operator
 begin_operator
 fly plane4 city4 city8 fl1 fl0
 0
 2
-0 3 4 8
 0 2 1 0
+0 3 4 8
 1
 end_operator
 begin_operator
 fly plane4 city4 city8 fl2 fl1
 0
 2
-0 3 4 8
 0 2 2 1
+0 3 4 8
 1
 end_operator
 begin_operator
 fly plane4 city4 city8 fl3 fl2
 0
 2
-0 3 4 8
 0 2 3 2
+0 3 4 8
 1
 end_operator
 begin_operator
 fly plane4 city4 city8 fl4 fl3
 0
 2
-0 3 4 8
 0 2 4 3
+0 3 4 8
 1
 end_operator
 begin_operator
 fly plane4 city4 city8 fl5 fl4
 0
 2
-0 3 4 8
 0 2 5 4
+0 3 4 8
 1
 end_operator
 begin_operator
 fly plane4 city4 city8 fl6 fl5
 0
 2
-0 3 4 8
 0 2 6 5
+0 3 4 8
 1
 end_operator
 begin_operator
 fly plane4 city4 city9 fl1 fl0
 0
 2
-0 3 4 9
 0 2 1 0
+0 3 4 9
 1
 end_operator
 begin_operator
 fly plane4 city4 city9 fl2 fl1
 0
 2
-0 3 4 9
 0 2 2 1
+0 3 4 9
 1
 end_operator
 begin_operator
 fly plane4 city4 city9 fl3 fl2
 0
 2
-0 3 4 9
 0 2 3 2
+0 3 4 9
 1
 end_operator
 begin_operator
 fly plane4 city4 city9 fl4 fl3
 0
 2
-0 3 4 9
 0 2 4 3
+0 3 4 9
 1
 end_operator
 begin_operator
 fly plane4 city4 city9 fl5 fl4
 0
 2
-0 3 4 9
 0 2 5 4
+0 3 4 9
 1
 end_operator
 begin_operator
 fly plane4 city4 city9 fl6 fl5
 0
 2
-0 3 4 9
 0 2 6 5
+0 3 4 9
 1
 end_operator
 begin_operator
 fly plane4 city5 city0 fl1 fl0
 0
 2
-0 3 5 0
 0 2 1 0
+0 3 5 0
 1
 end_operator
 begin_operator
 fly plane4 city5 city0 fl2 fl1
 0
 2
-0 3 5 0
 0 2 2 1
+0 3 5 0
 1
 end_operator
 begin_operator
 fly plane4 city5 city0 fl3 fl2
 0
 2
-0 3 5 0
 0 2 3 2
+0 3 5 0
 1
 end_operator
 begin_operator
 fly plane4 city5 city0 fl4 fl3
 0
 2
-0 3 5 0
 0 2 4 3
+0 3 5 0
 1
 end_operator
 begin_operator
 fly plane4 city5 city0 fl5 fl4
 0
 2
-0 3 5 0
 0 2 5 4
+0 3 5 0
 1
 end_operator
 begin_operator
 fly plane4 city5 city0 fl6 fl5
 0
 2
-0 3 5 0
 0 2 6 5
+0 3 5 0
 1
 end_operator
 begin_operator
 fly plane4 city5 city1 fl1 fl0
 0
 2
-0 3 5 1
 0 2 1 0
+0 3 5 1
 1
 end_operator
 begin_operator
 fly plane4 city5 city1 fl2 fl1
 0
 2
-0 3 5 1
 0 2 2 1
+0 3 5 1
 1
 end_operator
 begin_operator
 fly plane4 city5 city1 fl3 fl2
 0
 2
-0 3 5 1
 0 2 3 2
+0 3 5 1
 1
 end_operator
 begin_operator
 fly plane4 city5 city1 fl4 fl3
 0
 2
-0 3 5 1
 0 2 4 3
+0 3 5 1
 1
 end_operator
 begin_operator
 fly plane4 city5 city1 fl5 fl4
 0
 2
-0 3 5 1
 0 2 5 4
+0 3 5 1
 1
 end_operator
 begin_operator
 fly plane4 city5 city1 fl6 fl5
 0
 2
-0 3 5 1
 0 2 6 5
+0 3 5 1
 1
 end_operator
 begin_operator
 fly plane4 city5 city2 fl1 fl0
 0
 2
-0 3 5 2
 0 2 1 0
+0 3 5 2
 1
 end_operator
 begin_operator
 fly plane4 city5 city2 fl2 fl1
 0
 2
-0 3 5 2
 0 2 2 1
+0 3 5 2
 1
 end_operator
 begin_operator
 fly plane4 city5 city2 fl3 fl2
 0
 2
-0 3 5 2
 0 2 3 2
+0 3 5 2
 1
 end_operator
 begin_operator
 fly plane4 city5 city2 fl4 fl3
 0
 2
-0 3 5 2
 0 2 4 3
+0 3 5 2
 1
 end_operator
 begin_operator
 fly plane4 city5 city2 fl5 fl4
 0
 2
-0 3 5 2
 0 2 5 4
+0 3 5 2
 1
 end_operator
 begin_operator
 fly plane4 city5 city2 fl6 fl5
 0
 2
-0 3 5 2
 0 2 6 5
+0 3 5 2
 1
 end_operator
 begin_operator
 fly plane4 city5 city3 fl1 fl0
 0
 2
-0 3 5 3
 0 2 1 0
+0 3 5 3
 1
 end_operator
 begin_operator
 fly plane4 city5 city3 fl2 fl1
 0
 2
-0 3 5 3
 0 2 2 1
+0 3 5 3
 1
 end_operator
 begin_operator
 fly plane4 city5 city3 fl3 fl2
 0
 2
-0 3 5 3
 0 2 3 2
+0 3 5 3
 1
 end_operator
 begin_operator
 fly plane4 city5 city3 fl4 fl3
 0
 2
-0 3 5 3
 0 2 4 3
+0 3 5 3
 1
 end_operator
 begin_operator
 fly plane4 city5 city3 fl5 fl4
 0
 2
-0 3 5 3
 0 2 5 4
+0 3 5 3
 1
 end_operator
 begin_operator
 fly plane4 city5 city3 fl6 fl5
 0
 2
-0 3 5 3
 0 2 6 5
+0 3 5 3
 1
 end_operator
 begin_operator
 fly plane4 city5 city4 fl1 fl0
 0
 2
-0 3 5 4
 0 2 1 0
+0 3 5 4
 1
 end_operator
 begin_operator
 fly plane4 city5 city4 fl2 fl1
 0
 2
-0 3 5 4
 0 2 2 1
+0 3 5 4
 1
 end_operator
 begin_operator
 fly plane4 city5 city4 fl3 fl2
 0
 2
-0 3 5 4
 0 2 3 2
+0 3 5 4
 1
 end_operator
 begin_operator
 fly plane4 city5 city4 fl4 fl3
 0
 2
-0 3 5 4
 0 2 4 3
+0 3 5 4
 1
 end_operator
 begin_operator
 fly plane4 city5 city4 fl5 fl4
 0
 2
-0 3 5 4
 0 2 5 4
+0 3 5 4
 1
 end_operator
 begin_operator
 fly plane4 city5 city4 fl6 fl5
 0
 2
-0 3 5 4
 0 2 6 5
+0 3 5 4
 1
 end_operator
 begin_operator
@@ -25471,480 +25471,480 @@ begin_operator
 fly plane4 city5 city6 fl1 fl0
 0
 2
-0 3 5 6
 0 2 1 0
+0 3 5 6
 1
 end_operator
 begin_operator
 fly plane4 city5 city6 fl2 fl1
 0
 2
-0 3 5 6
 0 2 2 1
+0 3 5 6
 1
 end_operator
 begin_operator
 fly plane4 city5 city6 fl3 fl2
 0
 2
-0 3 5 6
 0 2 3 2
+0 3 5 6
 1
 end_operator
 begin_operator
 fly plane4 city5 city6 fl4 fl3
 0
 2
-0 3 5 6
 0 2 4 3
+0 3 5 6
 1
 end_operator
 begin_operator
 fly plane4 city5 city6 fl5 fl4
 0
 2
-0 3 5 6
 0 2 5 4
+0 3 5 6
 1
 end_operator
 begin_operator
 fly plane4 city5 city6 fl6 fl5
 0
 2
-0 3 5 6
 0 2 6 5
+0 3 5 6
 1
 end_operator
 begin_operator
 fly plane4 city5 city7 fl1 fl0
 0
 2
-0 3 5 7
 0 2 1 0
+0 3 5 7
 1
 end_operator
 begin_operator
 fly plane4 city5 city7 fl2 fl1
 0
 2
-0 3 5 7
 0 2 2 1
+0 3 5 7
 1
 end_operator
 begin_operator
 fly plane4 city5 city7 fl3 fl2
 0
 2
-0 3 5 7
 0 2 3 2
+0 3 5 7
 1
 end_operator
 begin_operator
 fly plane4 city5 city7 fl4 fl3
 0
 2
-0 3 5 7
 0 2 4 3
+0 3 5 7
 1
 end_operator
 begin_operator
 fly plane4 city5 city7 fl5 fl4
 0
 2
-0 3 5 7
 0 2 5 4
+0 3 5 7
 1
 end_operator
 begin_operator
 fly plane4 city5 city7 fl6 fl5
 0
 2
-0 3 5 7
 0 2 6 5
+0 3 5 7
 1
 end_operator
 begin_operator
 fly plane4 city5 city8 fl1 fl0
 0
 2
-0 3 5 8
 0 2 1 0
+0 3 5 8
 1
 end_operator
 begin_operator
 fly plane4 city5 city8 fl2 fl1
 0
 2
-0 3 5 8
 0 2 2 1
+0 3 5 8
 1
 end_operator
 begin_operator
 fly plane4 city5 city8 fl3 fl2
 0
 2
-0 3 5 8
 0 2 3 2
+0 3 5 8
 1
 end_operator
 begin_operator
 fly plane4 city5 city8 fl4 fl3
 0
 2
-0 3 5 8
 0 2 4 3
+0 3 5 8
 1
 end_operator
 begin_operator
 fly plane4 city5 city8 fl5 fl4
 0
 2
-0 3 5 8
 0 2 5 4
+0 3 5 8
 1
 end_operator
 begin_operator
 fly plane4 city5 city8 fl6 fl5
 0
 2
-0 3 5 8
 0 2 6 5
+0 3 5 8
 1
 end_operator
 begin_operator
 fly plane4 city5 city9 fl1 fl0
 0
 2
-0 3 5 9
 0 2 1 0
+0 3 5 9
 1
 end_operator
 begin_operator
 fly plane4 city5 city9 fl2 fl1
 0
 2
-0 3 5 9
 0 2 2 1
+0 3 5 9
 1
 end_operator
 begin_operator
 fly plane4 city5 city9 fl3 fl2
 0
 2
-0 3 5 9
 0 2 3 2
+0 3 5 9
 1
 end_operator
 begin_operator
 fly plane4 city5 city9 fl4 fl3
 0
 2
-0 3 5 9
 0 2 4 3
+0 3 5 9
 1
 end_operator
 begin_operator
 fly plane4 city5 city9 fl5 fl4
 0
 2
-0 3 5 9
 0 2 5 4
+0 3 5 9
 1
 end_operator
 begin_operator
 fly plane4 city5 city9 fl6 fl5
 0
 2
-0 3 5 9
 0 2 6 5
+0 3 5 9
 1
 end_operator
 begin_operator
 fly plane4 city6 city0 fl1 fl0
 0
 2
-0 3 6 0
 0 2 1 0
+0 3 6 0
 1
 end_operator
 begin_operator
 fly plane4 city6 city0 fl2 fl1
 0
 2
-0 3 6 0
 0 2 2 1
+0 3 6 0
 1
 end_operator
 begin_operator
 fly plane4 city6 city0 fl3 fl2
 0
 2
-0 3 6 0
 0 2 3 2
+0 3 6 0
 1
 end_operator
 begin_operator
 fly plane4 city6 city0 fl4 fl3
 0
 2
-0 3 6 0
 0 2 4 3
+0 3 6 0
 1
 end_operator
 begin_operator
 fly plane4 city6 city0 fl5 fl4
 0
 2
-0 3 6 0
 0 2 5 4
+0 3 6 0
 1
 end_operator
 begin_operator
 fly plane4 city6 city0 fl6 fl5
 0
 2
-0 3 6 0
 0 2 6 5
+0 3 6 0
 1
 end_operator
 begin_operator
 fly plane4 city6 city1 fl1 fl0
 0
 2
-0 3 6 1
 0 2 1 0
+0 3 6 1
 1
 end_operator
 begin_operator
 fly plane4 city6 city1 fl2 fl1
 0
 2
-0 3 6 1
 0 2 2 1
+0 3 6 1
 1
 end_operator
 begin_operator
 fly plane4 city6 city1 fl3 fl2
 0
 2
-0 3 6 1
 0 2 3 2
+0 3 6 1
 1
 end_operator
 begin_operator
 fly plane4 city6 city1 fl4 fl3
 0
 2
-0 3 6 1
 0 2 4 3
+0 3 6 1
 1
 end_operator
 begin_operator
 fly plane4 city6 city1 fl5 fl4
 0
 2
-0 3 6 1
 0 2 5 4
+0 3 6 1
 1
 end_operator
 begin_operator
 fly plane4 city6 city1 fl6 fl5
 0
 2
-0 3 6 1
 0 2 6 5
+0 3 6 1
 1
 end_operator
 begin_operator
 fly plane4 city6 city2 fl1 fl0
 0
 2
-0 3 6 2
 0 2 1 0
+0 3 6 2
 1
 end_operator
 begin_operator
 fly plane4 city6 city2 fl2 fl1
 0
 2
-0 3 6 2
 0 2 2 1
+0 3 6 2
 1
 end_operator
 begin_operator
 fly plane4 city6 city2 fl3 fl2
 0
 2
-0 3 6 2
 0 2 3 2
+0 3 6 2
 1
 end_operator
 begin_operator
 fly plane4 city6 city2 fl4 fl3
 0
 2
-0 3 6 2
 0 2 4 3
+0 3 6 2
 1
 end_operator
 begin_operator
 fly plane4 city6 city2 fl5 fl4
 0
 2
-0 3 6 2
 0 2 5 4
+0 3 6 2
 1
 end_operator
 begin_operator
 fly plane4 city6 city2 fl6 fl5
 0
 2
-0 3 6 2
 0 2 6 5
+0 3 6 2
 1
 end_operator
 begin_operator
 fly plane4 city6 city3 fl1 fl0
 0
 2
-0 3 6 3
 0 2 1 0
+0 3 6 3
 1
 end_operator
 begin_operator
 fly plane4 city6 city3 fl2 fl1
 0
 2
-0 3 6 3
 0 2 2 1
+0 3 6 3
 1
 end_operator
 begin_operator
 fly plane4 city6 city3 fl3 fl2
 0
 2
-0 3 6 3
 0 2 3 2
+0 3 6 3
 1
 end_operator
 begin_operator
 fly plane4 city6 city3 fl4 fl3
 0
 2
-0 3 6 3
 0 2 4 3
+0 3 6 3
 1
 end_operator
 begin_operator
 fly plane4 city6 city3 fl5 fl4
 0
 2
-0 3 6 3
 0 2 5 4
+0 3 6 3
 1
 end_operator
 begin_operator
 fly plane4 city6 city3 fl6 fl5
 0
 2
-0 3 6 3
 0 2 6 5
+0 3 6 3
 1
 end_operator
 begin_operator
 fly plane4 city6 city4 fl1 fl0
 0
 2
-0 3 6 4
 0 2 1 0
+0 3 6 4
 1
 end_operator
 begin_operator
 fly plane4 city6 city4 fl2 fl1
 0
 2
-0 3 6 4
 0 2 2 1
+0 3 6 4
 1
 end_operator
 begin_operator
 fly plane4 city6 city4 fl3 fl2
 0
 2
-0 3 6 4
 0 2 3 2
+0 3 6 4
 1
 end_operator
 begin_operator
 fly plane4 city6 city4 fl4 fl3
 0
 2
-0 3 6 4
 0 2 4 3
+0 3 6 4
 1
 end_operator
 begin_operator
 fly plane4 city6 city4 fl5 fl4
 0
 2
-0 3 6 4
 0 2 5 4
+0 3 6 4
 1
 end_operator
 begin_operator
 fly plane4 city6 city4 fl6 fl5
 0
 2
-0 3 6 4
 0 2 6 5
+0 3 6 4
 1
 end_operator
 begin_operator
 fly plane4 city6 city5 fl1 fl0
 0
 2
-0 3 6 5
 0 2 1 0
+0 3 6 5
 1
 end_operator
 begin_operator
 fly plane4 city6 city5 fl2 fl1
 0
 2
-0 3 6 5
 0 2 2 1
+0 3 6 5
 1
 end_operator
 begin_operator
 fly plane4 city6 city5 fl3 fl2
 0
 2
-0 3 6 5
 0 2 3 2
+0 3 6 5
 1
 end_operator
 begin_operator
 fly plane4 city6 city5 fl4 fl3
 0
 2
-0 3 6 5
 0 2 4 3
+0 3 6 5
 1
 end_operator
 begin_operator
 fly plane4 city6 city5 fl5 fl4
 0
 2
-0 3 6 5
 0 2 5 4
+0 3 6 5
 1
 end_operator
 begin_operator
 fly plane4 city6 city5 fl6 fl5
 0
 2
-0 3 6 5
 0 2 6 5
+0 3 6 5
 1
 end_operator
 begin_operator
@@ -25999,480 +25999,480 @@ begin_operator
 fly plane4 city6 city7 fl1 fl0
 0
 2
-0 3 6 7
 0 2 1 0
+0 3 6 7
 1
 end_operator
 begin_operator
 fly plane4 city6 city7 fl2 fl1
 0
 2
-0 3 6 7
 0 2 2 1
+0 3 6 7
 1
 end_operator
 begin_operator
 fly plane4 city6 city7 fl3 fl2
 0
 2
-0 3 6 7
 0 2 3 2
+0 3 6 7
 1
 end_operator
 begin_operator
 fly plane4 city6 city7 fl4 fl3
 0
 2
-0 3 6 7
 0 2 4 3
+0 3 6 7
 1
 end_operator
 begin_operator
 fly plane4 city6 city7 fl5 fl4
 0
 2
-0 3 6 7
 0 2 5 4
+0 3 6 7
 1
 end_operator
 begin_operator
 fly plane4 city6 city7 fl6 fl5
 0
 2
-0 3 6 7
 0 2 6 5
+0 3 6 7
 1
 end_operator
 begin_operator
 fly plane4 city6 city8 fl1 fl0
 0
 2
-0 3 6 8
 0 2 1 0
+0 3 6 8
 1
 end_operator
 begin_operator
 fly plane4 city6 city8 fl2 fl1
 0
 2
-0 3 6 8
 0 2 2 1
+0 3 6 8
 1
 end_operator
 begin_operator
 fly plane4 city6 city8 fl3 fl2
 0
 2
-0 3 6 8
 0 2 3 2
+0 3 6 8
 1
 end_operator
 begin_operator
 fly plane4 city6 city8 fl4 fl3
 0
 2
-0 3 6 8
 0 2 4 3
+0 3 6 8
 1
 end_operator
 begin_operator
 fly plane4 city6 city8 fl5 fl4
 0
 2
-0 3 6 8
 0 2 5 4
+0 3 6 8
 1
 end_operator
 begin_operator
 fly plane4 city6 city8 fl6 fl5
 0
 2
-0 3 6 8
 0 2 6 5
+0 3 6 8
 1
 end_operator
 begin_operator
 fly plane4 city6 city9 fl1 fl0
 0
 2
-0 3 6 9
 0 2 1 0
+0 3 6 9
 1
 end_operator
 begin_operator
 fly plane4 city6 city9 fl2 fl1
 0
 2
-0 3 6 9
 0 2 2 1
+0 3 6 9
 1
 end_operator
 begin_operator
 fly plane4 city6 city9 fl3 fl2
 0
 2
-0 3 6 9
 0 2 3 2
+0 3 6 9
 1
 end_operator
 begin_operator
 fly plane4 city6 city9 fl4 fl3
 0
 2
-0 3 6 9
 0 2 4 3
+0 3 6 9
 1
 end_operator
 begin_operator
 fly plane4 city6 city9 fl5 fl4
 0
 2
-0 3 6 9
 0 2 5 4
+0 3 6 9
 1
 end_operator
 begin_operator
 fly plane4 city6 city9 fl6 fl5
 0
 2
-0 3 6 9
 0 2 6 5
+0 3 6 9
 1
 end_operator
 begin_operator
 fly plane4 city7 city0 fl1 fl0
 0
 2
-0 3 7 0
 0 2 1 0
+0 3 7 0
 1
 end_operator
 begin_operator
 fly plane4 city7 city0 fl2 fl1
 0
 2
-0 3 7 0
 0 2 2 1
+0 3 7 0
 1
 end_operator
 begin_operator
 fly plane4 city7 city0 fl3 fl2
 0
 2
-0 3 7 0
 0 2 3 2
+0 3 7 0
 1
 end_operator
 begin_operator
 fly plane4 city7 city0 fl4 fl3
 0
 2
-0 3 7 0
 0 2 4 3
+0 3 7 0
 1
 end_operator
 begin_operator
 fly plane4 city7 city0 fl5 fl4
 0
 2
-0 3 7 0
 0 2 5 4
+0 3 7 0
 1
 end_operator
 begin_operator
 fly plane4 city7 city0 fl6 fl5
 0
 2
-0 3 7 0
 0 2 6 5
+0 3 7 0
 1
 end_operator
 begin_operator
 fly plane4 city7 city1 fl1 fl0
 0
 2
-0 3 7 1
 0 2 1 0
+0 3 7 1
 1
 end_operator
 begin_operator
 fly plane4 city7 city1 fl2 fl1
 0
 2
-0 3 7 1
 0 2 2 1
+0 3 7 1
 1
 end_operator
 begin_operator
 fly plane4 city7 city1 fl3 fl2
 0
 2
-0 3 7 1
 0 2 3 2
+0 3 7 1
 1
 end_operator
 begin_operator
 fly plane4 city7 city1 fl4 fl3
 0
 2
-0 3 7 1
 0 2 4 3
+0 3 7 1
 1
 end_operator
 begin_operator
 fly plane4 city7 city1 fl5 fl4
 0
 2
-0 3 7 1
 0 2 5 4
+0 3 7 1
 1
 end_operator
 begin_operator
 fly plane4 city7 city1 fl6 fl5
 0
 2
-0 3 7 1
 0 2 6 5
+0 3 7 1
 1
 end_operator
 begin_operator
 fly plane4 city7 city2 fl1 fl0
 0
 2
-0 3 7 2
 0 2 1 0
+0 3 7 2
 1
 end_operator
 begin_operator
 fly plane4 city7 city2 fl2 fl1
 0
 2
-0 3 7 2
 0 2 2 1
+0 3 7 2
 1
 end_operator
 begin_operator
 fly plane4 city7 city2 fl3 fl2
 0
 2
-0 3 7 2
 0 2 3 2
+0 3 7 2
 1
 end_operator
 begin_operator
 fly plane4 city7 city2 fl4 fl3
 0
 2
-0 3 7 2
 0 2 4 3
+0 3 7 2
 1
 end_operator
 begin_operator
 fly plane4 city7 city2 fl5 fl4
 0
 2
-0 3 7 2
 0 2 5 4
+0 3 7 2
 1
 end_operator
 begin_operator
 fly plane4 city7 city2 fl6 fl5
 0
 2
-0 3 7 2
 0 2 6 5
+0 3 7 2
 1
 end_operator
 begin_operator
 fly plane4 city7 city3 fl1 fl0
 0
 2
-0 3 7 3
 0 2 1 0
+0 3 7 3
 1
 end_operator
 begin_operator
 fly plane4 city7 city3 fl2 fl1
 0
 2
-0 3 7 3
 0 2 2 1
+0 3 7 3
 1
 end_operator
 begin_operator
 fly plane4 city7 city3 fl3 fl2
 0
 2
-0 3 7 3
 0 2 3 2
+0 3 7 3
 1
 end_operator
 begin_operator
 fly plane4 city7 city3 fl4 fl3
 0
 2
-0 3 7 3
 0 2 4 3
+0 3 7 3
 1
 end_operator
 begin_operator
 fly plane4 city7 city3 fl5 fl4
 0
 2
-0 3 7 3
 0 2 5 4
+0 3 7 3
 1
 end_operator
 begin_operator
 fly plane4 city7 city3 fl6 fl5
 0
 2
-0 3 7 3
 0 2 6 5
+0 3 7 3
 1
 end_operator
 begin_operator
 fly plane4 city7 city4 fl1 fl0
 0
 2
-0 3 7 4
 0 2 1 0
+0 3 7 4
 1
 end_operator
 begin_operator
 fly plane4 city7 city4 fl2 fl1
 0
 2
-0 3 7 4
 0 2 2 1
+0 3 7 4
 1
 end_operator
 begin_operator
 fly plane4 city7 city4 fl3 fl2
 0
 2
-0 3 7 4
 0 2 3 2
+0 3 7 4
 1
 end_operator
 begin_operator
 fly plane4 city7 city4 fl4 fl3
 0
 2
-0 3 7 4
 0 2 4 3
+0 3 7 4
 1
 end_operator
 begin_operator
 fly plane4 city7 city4 fl5 fl4
 0
 2
-0 3 7 4
 0 2 5 4
+0 3 7 4
 1
 end_operator
 begin_operator
 fly plane4 city7 city4 fl6 fl5
 0
 2
-0 3 7 4
 0 2 6 5
+0 3 7 4
 1
 end_operator
 begin_operator
 fly plane4 city7 city5 fl1 fl0
 0
 2
-0 3 7 5
 0 2 1 0
+0 3 7 5
 1
 end_operator
 begin_operator
 fly plane4 city7 city5 fl2 fl1
 0
 2
-0 3 7 5
 0 2 2 1
+0 3 7 5
 1
 end_operator
 begin_operator
 fly plane4 city7 city5 fl3 fl2
 0
 2
-0 3 7 5
 0 2 3 2
+0 3 7 5
 1
 end_operator
 begin_operator
 fly plane4 city7 city5 fl4 fl3
 0
 2
-0 3 7 5
 0 2 4 3
+0 3 7 5
 1
 end_operator
 begin_operator
 fly plane4 city7 city5 fl5 fl4
 0
 2
-0 3 7 5
 0 2 5 4
+0 3 7 5
 1
 end_operator
 begin_operator
 fly plane4 city7 city5 fl6 fl5
 0
 2
-0 3 7 5
 0 2 6 5
+0 3 7 5
 1
 end_operator
 begin_operator
 fly plane4 city7 city6 fl1 fl0
 0
 2
-0 3 7 6
 0 2 1 0
+0 3 7 6
 1
 end_operator
 begin_operator
 fly plane4 city7 city6 fl2 fl1
 0
 2
-0 3 7 6
 0 2 2 1
+0 3 7 6
 1
 end_operator
 begin_operator
 fly plane4 city7 city6 fl3 fl2
 0
 2
-0 3 7 6
 0 2 3 2
+0 3 7 6
 1
 end_operator
 begin_operator
 fly plane4 city7 city6 fl4 fl3
 0
 2
-0 3 7 6
 0 2 4 3
+0 3 7 6
 1
 end_operator
 begin_operator
 fly plane4 city7 city6 fl5 fl4
 0
 2
-0 3 7 6
 0 2 5 4
+0 3 7 6
 1
 end_operator
 begin_operator
 fly plane4 city7 city6 fl6 fl5
 0
 2
-0 3 7 6
 0 2 6 5
+0 3 7 6
 1
 end_operator
 begin_operator
@@ -26527,480 +26527,480 @@ begin_operator
 fly plane4 city7 city8 fl1 fl0
 0
 2
-0 3 7 8
 0 2 1 0
+0 3 7 8
 1
 end_operator
 begin_operator
 fly plane4 city7 city8 fl2 fl1
 0
 2
-0 3 7 8
 0 2 2 1
+0 3 7 8
 1
 end_operator
 begin_operator
 fly plane4 city7 city8 fl3 fl2
 0
 2
-0 3 7 8
 0 2 3 2
+0 3 7 8
 1
 end_operator
 begin_operator
 fly plane4 city7 city8 fl4 fl3
 0
 2
-0 3 7 8
 0 2 4 3
+0 3 7 8
 1
 end_operator
 begin_operator
 fly plane4 city7 city8 fl5 fl4
 0
 2
-0 3 7 8
 0 2 5 4
+0 3 7 8
 1
 end_operator
 begin_operator
 fly plane4 city7 city8 fl6 fl5
 0
 2
-0 3 7 8
 0 2 6 5
+0 3 7 8
 1
 end_operator
 begin_operator
 fly plane4 city7 city9 fl1 fl0
 0
 2
-0 3 7 9
 0 2 1 0
+0 3 7 9
 1
 end_operator
 begin_operator
 fly plane4 city7 city9 fl2 fl1
 0
 2
-0 3 7 9
 0 2 2 1
+0 3 7 9
 1
 end_operator
 begin_operator
 fly plane4 city7 city9 fl3 fl2
 0
 2
-0 3 7 9
 0 2 3 2
+0 3 7 9
 1
 end_operator
 begin_operator
 fly plane4 city7 city9 fl4 fl3
 0
 2
-0 3 7 9
 0 2 4 3
+0 3 7 9
 1
 end_operator
 begin_operator
 fly plane4 city7 city9 fl5 fl4
 0
 2
-0 3 7 9
 0 2 5 4
+0 3 7 9
 1
 end_operator
 begin_operator
 fly plane4 city7 city9 fl6 fl5
 0
 2
-0 3 7 9
 0 2 6 5
+0 3 7 9
 1
 end_operator
 begin_operator
 fly plane4 city8 city0 fl1 fl0
 0
 2
-0 3 8 0
 0 2 1 0
+0 3 8 0
 1
 end_operator
 begin_operator
 fly plane4 city8 city0 fl2 fl1
 0
 2
-0 3 8 0
 0 2 2 1
+0 3 8 0
 1
 end_operator
 begin_operator
 fly plane4 city8 city0 fl3 fl2
 0
 2
-0 3 8 0
 0 2 3 2
+0 3 8 0
 1
 end_operator
 begin_operator
 fly plane4 city8 city0 fl4 fl3
 0
 2
-0 3 8 0
 0 2 4 3
+0 3 8 0
 1
 end_operator
 begin_operator
 fly plane4 city8 city0 fl5 fl4
 0
 2
-0 3 8 0
 0 2 5 4
+0 3 8 0
 1
 end_operator
 begin_operator
 fly plane4 city8 city0 fl6 fl5
 0
 2
-0 3 8 0
 0 2 6 5
+0 3 8 0
 1
 end_operator
 begin_operator
 fly plane4 city8 city1 fl1 fl0
 0
 2
-0 3 8 1
 0 2 1 0
+0 3 8 1
 1
 end_operator
 begin_operator
 fly plane4 city8 city1 fl2 fl1
 0
 2
-0 3 8 1
 0 2 2 1
+0 3 8 1
 1
 end_operator
 begin_operator
 fly plane4 city8 city1 fl3 fl2
 0
 2
-0 3 8 1
 0 2 3 2
+0 3 8 1
 1
 end_operator
 begin_operator
 fly plane4 city8 city1 fl4 fl3
 0
 2
-0 3 8 1
 0 2 4 3
+0 3 8 1
 1
 end_operator
 begin_operator
 fly plane4 city8 city1 fl5 fl4
 0
 2
-0 3 8 1
 0 2 5 4
+0 3 8 1
 1
 end_operator
 begin_operator
 fly plane4 city8 city1 fl6 fl5
 0
 2
-0 3 8 1
 0 2 6 5
+0 3 8 1
 1
 end_operator
 begin_operator
 fly plane4 city8 city2 fl1 fl0
 0
 2
-0 3 8 2
 0 2 1 0
+0 3 8 2
 1
 end_operator
 begin_operator
 fly plane4 city8 city2 fl2 fl1
 0
 2
-0 3 8 2
 0 2 2 1
+0 3 8 2
 1
 end_operator
 begin_operator
 fly plane4 city8 city2 fl3 fl2
 0
 2
-0 3 8 2
 0 2 3 2
+0 3 8 2
 1
 end_operator
 begin_operator
 fly plane4 city8 city2 fl4 fl3
 0
 2
-0 3 8 2
 0 2 4 3
+0 3 8 2
 1
 end_operator
 begin_operator
 fly plane4 city8 city2 fl5 fl4
 0
 2
-0 3 8 2
 0 2 5 4
+0 3 8 2
 1
 end_operator
 begin_operator
 fly plane4 city8 city2 fl6 fl5
 0
 2
-0 3 8 2
 0 2 6 5
+0 3 8 2
 1
 end_operator
 begin_operator
 fly plane4 city8 city3 fl1 fl0
 0
 2
-0 3 8 3
 0 2 1 0
+0 3 8 3
 1
 end_operator
 begin_operator
 fly plane4 city8 city3 fl2 fl1
 0
 2
-0 3 8 3
 0 2 2 1
+0 3 8 3
 1
 end_operator
 begin_operator
 fly plane4 city8 city3 fl3 fl2
 0
 2
-0 3 8 3
 0 2 3 2
+0 3 8 3
 1
 end_operator
 begin_operator
 fly plane4 city8 city3 fl4 fl3
 0
 2
-0 3 8 3
 0 2 4 3
+0 3 8 3
 1
 end_operator
 begin_operator
 fly plane4 city8 city3 fl5 fl4
 0
 2
-0 3 8 3
 0 2 5 4
+0 3 8 3
 1
 end_operator
 begin_operator
 fly plane4 city8 city3 fl6 fl5
 0
 2
-0 3 8 3
 0 2 6 5
+0 3 8 3
 1
 end_operator
 begin_operator
 fly plane4 city8 city4 fl1 fl0
 0
 2
-0 3 8 4
 0 2 1 0
+0 3 8 4
 1
 end_operator
 begin_operator
 fly plane4 city8 city4 fl2 fl1
 0
 2
-0 3 8 4
 0 2 2 1
+0 3 8 4
 1
 end_operator
 begin_operator
 fly plane4 city8 city4 fl3 fl2
 0
 2
-0 3 8 4
 0 2 3 2
+0 3 8 4
 1
 end_operator
 begin_operator
 fly plane4 city8 city4 fl4 fl3
 0
 2
-0 3 8 4
 0 2 4 3
+0 3 8 4
 1
 end_operator
 begin_operator
 fly plane4 city8 city4 fl5 fl4
 0
 2
-0 3 8 4
 0 2 5 4
+0 3 8 4
 1
 end_operator
 begin_operator
 fly plane4 city8 city4 fl6 fl5
 0
 2
-0 3 8 4
 0 2 6 5
+0 3 8 4
 1
 end_operator
 begin_operator
 fly plane4 city8 city5 fl1 fl0
 0
 2
-0 3 8 5
 0 2 1 0
+0 3 8 5
 1
 end_operator
 begin_operator
 fly plane4 city8 city5 fl2 fl1
 0
 2
-0 3 8 5
 0 2 2 1
+0 3 8 5
 1
 end_operator
 begin_operator
 fly plane4 city8 city5 fl3 fl2
 0
 2
-0 3 8 5
 0 2 3 2
+0 3 8 5
 1
 end_operator
 begin_operator
 fly plane4 city8 city5 fl4 fl3
 0
 2
-0 3 8 5
 0 2 4 3
+0 3 8 5
 1
 end_operator
 begin_operator
 fly plane4 city8 city5 fl5 fl4
 0
 2
-0 3 8 5
 0 2 5 4
+0 3 8 5
 1
 end_operator
 begin_operator
 fly plane4 city8 city5 fl6 fl5
 0
 2
-0 3 8 5
 0 2 6 5
+0 3 8 5
 1
 end_operator
 begin_operator
 fly plane4 city8 city6 fl1 fl0
 0
 2
-0 3 8 6
 0 2 1 0
+0 3 8 6
 1
 end_operator
 begin_operator
 fly plane4 city8 city6 fl2 fl1
 0
 2
-0 3 8 6
 0 2 2 1
+0 3 8 6
 1
 end_operator
 begin_operator
 fly plane4 city8 city6 fl3 fl2
 0
 2
-0 3 8 6
 0 2 3 2
+0 3 8 6
 1
 end_operator
 begin_operator
 fly plane4 city8 city6 fl4 fl3
 0
 2
-0 3 8 6
 0 2 4 3
+0 3 8 6
 1
 end_operator
 begin_operator
 fly plane4 city8 city6 fl5 fl4
 0
 2
-0 3 8 6
 0 2 5 4
+0 3 8 6
 1
 end_operator
 begin_operator
 fly plane4 city8 city6 fl6 fl5
 0
 2
-0 3 8 6
 0 2 6 5
+0 3 8 6
 1
 end_operator
 begin_operator
 fly plane4 city8 city7 fl1 fl0
 0
 2
-0 3 8 7
 0 2 1 0
+0 3 8 7
 1
 end_operator
 begin_operator
 fly plane4 city8 city7 fl2 fl1
 0
 2
-0 3 8 7
 0 2 2 1
+0 3 8 7
 1
 end_operator
 begin_operator
 fly plane4 city8 city7 fl3 fl2
 0
 2
-0 3 8 7
 0 2 3 2
+0 3 8 7
 1
 end_operator
 begin_operator
 fly plane4 city8 city7 fl4 fl3
 0
 2
-0 3 8 7
 0 2 4 3
+0 3 8 7
 1
 end_operator
 begin_operator
 fly plane4 city8 city7 fl5 fl4
 0
 2
-0 3 8 7
 0 2 5 4
+0 3 8 7
 1
 end_operator
 begin_operator
 fly plane4 city8 city7 fl6 fl5
 0
 2
-0 3 8 7
 0 2 6 5
+0 3 8 7
 1
 end_operator
 begin_operator
@@ -27055,480 +27055,480 @@ begin_operator
 fly plane4 city8 city9 fl1 fl0
 0
 2
-0 3 8 9
 0 2 1 0
+0 3 8 9
 1
 end_operator
 begin_operator
 fly plane4 city8 city9 fl2 fl1
 0
 2
-0 3 8 9
 0 2 2 1
+0 3 8 9
 1
 end_operator
 begin_operator
 fly plane4 city8 city9 fl3 fl2
 0
 2
-0 3 8 9
 0 2 3 2
+0 3 8 9
 1
 end_operator
 begin_operator
 fly plane4 city8 city9 fl4 fl3
 0
 2
-0 3 8 9
 0 2 4 3
+0 3 8 9
 1
 end_operator
 begin_operator
 fly plane4 city8 city9 fl5 fl4
 0
 2
-0 3 8 9
 0 2 5 4
+0 3 8 9
 1
 end_operator
 begin_operator
 fly plane4 city8 city9 fl6 fl5
 0
 2
-0 3 8 9
 0 2 6 5
+0 3 8 9
 1
 end_operator
 begin_operator
 fly plane4 city9 city0 fl1 fl0
 0
 2
-0 3 9 0
 0 2 1 0
+0 3 9 0
 1
 end_operator
 begin_operator
 fly plane4 city9 city0 fl2 fl1
 0
 2
-0 3 9 0
 0 2 2 1
+0 3 9 0
 1
 end_operator
 begin_operator
 fly plane4 city9 city0 fl3 fl2
 0
 2
-0 3 9 0
 0 2 3 2
+0 3 9 0
 1
 end_operator
 begin_operator
 fly plane4 city9 city0 fl4 fl3
 0
 2
-0 3 9 0
 0 2 4 3
+0 3 9 0
 1
 end_operator
 begin_operator
 fly plane4 city9 city0 fl5 fl4
 0
 2
-0 3 9 0
 0 2 5 4
+0 3 9 0
 1
 end_operator
 begin_operator
 fly plane4 city9 city0 fl6 fl5
 0
 2
-0 3 9 0
 0 2 6 5
+0 3 9 0
 1
 end_operator
 begin_operator
 fly plane4 city9 city1 fl1 fl0
 0
 2
-0 3 9 1
 0 2 1 0
+0 3 9 1
 1
 end_operator
 begin_operator
 fly plane4 city9 city1 fl2 fl1
 0
 2
-0 3 9 1
 0 2 2 1
+0 3 9 1
 1
 end_operator
 begin_operator
 fly plane4 city9 city1 fl3 fl2
 0
 2
-0 3 9 1
 0 2 3 2
+0 3 9 1
 1
 end_operator
 begin_operator
 fly plane4 city9 city1 fl4 fl3
 0
 2
-0 3 9 1
 0 2 4 3
+0 3 9 1
 1
 end_operator
 begin_operator
 fly plane4 city9 city1 fl5 fl4
 0
 2
-0 3 9 1
 0 2 5 4
+0 3 9 1
 1
 end_operator
 begin_operator
 fly plane4 city9 city1 fl6 fl5
 0
 2
-0 3 9 1
 0 2 6 5
+0 3 9 1
 1
 end_operator
 begin_operator
 fly plane4 city9 city2 fl1 fl0
 0
 2
-0 3 9 2
 0 2 1 0
+0 3 9 2
 1
 end_operator
 begin_operator
 fly plane4 city9 city2 fl2 fl1
 0
 2
-0 3 9 2
 0 2 2 1
+0 3 9 2
 1
 end_operator
 begin_operator
 fly plane4 city9 city2 fl3 fl2
 0
 2
-0 3 9 2
 0 2 3 2
+0 3 9 2
 1
 end_operator
 begin_operator
 fly plane4 city9 city2 fl4 fl3
 0
 2
-0 3 9 2
 0 2 4 3
+0 3 9 2
 1
 end_operator
 begin_operator
 fly plane4 city9 city2 fl5 fl4
 0
 2
-0 3 9 2
 0 2 5 4
+0 3 9 2
 1
 end_operator
 begin_operator
 fly plane4 city9 city2 fl6 fl5
 0
 2
-0 3 9 2
 0 2 6 5
+0 3 9 2
 1
 end_operator
 begin_operator
 fly plane4 city9 city3 fl1 fl0
 0
 2
-0 3 9 3
 0 2 1 0
+0 3 9 3
 1
 end_operator
 begin_operator
 fly plane4 city9 city3 fl2 fl1
 0
 2
-0 3 9 3
 0 2 2 1
+0 3 9 3
 1
 end_operator
 begin_operator
 fly plane4 city9 city3 fl3 fl2
 0
 2
-0 3 9 3
 0 2 3 2
+0 3 9 3
 1
 end_operator
 begin_operator
 fly plane4 city9 city3 fl4 fl3
 0
 2
-0 3 9 3
 0 2 4 3
+0 3 9 3
 1
 end_operator
 begin_operator
 fly plane4 city9 city3 fl5 fl4
 0
 2
-0 3 9 3
 0 2 5 4
+0 3 9 3
 1
 end_operator
 begin_operator
 fly plane4 city9 city3 fl6 fl5
 0
 2
-0 3 9 3
 0 2 6 5
+0 3 9 3
 1
 end_operator
 begin_operator
 fly plane4 city9 city4 fl1 fl0
 0
 2
-0 3 9 4
 0 2 1 0
+0 3 9 4
 1
 end_operator
 begin_operator
 fly plane4 city9 city4 fl2 fl1
 0
 2
-0 3 9 4
 0 2 2 1
+0 3 9 4
 1
 end_operator
 begin_operator
 fly plane4 city9 city4 fl3 fl2
 0
 2
-0 3 9 4
 0 2 3 2
+0 3 9 4
 1
 end_operator
 begin_operator
 fly plane4 city9 city4 fl4 fl3
 0
 2
-0 3 9 4
 0 2 4 3
+0 3 9 4
 1
 end_operator
 begin_operator
 fly plane4 city9 city4 fl5 fl4
 0
 2
-0 3 9 4
 0 2 5 4
+0 3 9 4
 1
 end_operator
 begin_operator
 fly plane4 city9 city4 fl6 fl5
 0
 2
-0 3 9 4
 0 2 6 5
+0 3 9 4
 1
 end_operator
 begin_operator
 fly plane4 city9 city5 fl1 fl0
 0
 2
-0 3 9 5
 0 2 1 0
+0 3 9 5
 1
 end_operator
 begin_operator
 fly plane4 city9 city5 fl2 fl1
 0
 2
-0 3 9 5
 0 2 2 1
+0 3 9 5
 1
 end_operator
 begin_operator
 fly plane4 city9 city5 fl3 fl2
 0
 2
-0 3 9 5
 0 2 3 2
+0 3 9 5
 1
 end_operator
 begin_operator
 fly plane4 city9 city5 fl4 fl3
 0
 2
-0 3 9 5
 0 2 4 3
+0 3 9 5
 1
 end_operator
 begin_operator
 fly plane4 city9 city5 fl5 fl4
 0
 2
-0 3 9 5
 0 2 5 4
+0 3 9 5
 1
 end_operator
 begin_operator
 fly plane4 city9 city5 fl6 fl5
 0
 2
-0 3 9 5
 0 2 6 5
+0 3 9 5
 1
 end_operator
 begin_operator
 fly plane4 city9 city6 fl1 fl0
 0
 2
-0 3 9 6
 0 2 1 0
+0 3 9 6
 1
 end_operator
 begin_operator
 fly plane4 city9 city6 fl2 fl1
 0
 2
-0 3 9 6
 0 2 2 1
+0 3 9 6
 1
 end_operator
 begin_operator
 fly plane4 city9 city6 fl3 fl2
 0
 2
-0 3 9 6
 0 2 3 2
+0 3 9 6
 1
 end_operator
 begin_operator
 fly plane4 city9 city6 fl4 fl3
 0
 2
-0 3 9 6
 0 2 4 3
+0 3 9 6
 1
 end_operator
 begin_operator
 fly plane4 city9 city6 fl5 fl4
 0
 2
-0 3 9 6
 0 2 5 4
+0 3 9 6
 1
 end_operator
 begin_operator
 fly plane4 city9 city6 fl6 fl5
 0
 2
-0 3 9 6
 0 2 6 5
+0 3 9 6
 1
 end_operator
 begin_operator
 fly plane4 city9 city7 fl1 fl0
 0
 2
-0 3 9 7
 0 2 1 0
+0 3 9 7
 1
 end_operator
 begin_operator
 fly plane4 city9 city7 fl2 fl1
 0
 2
-0 3 9 7
 0 2 2 1
+0 3 9 7
 1
 end_operator
 begin_operator
 fly plane4 city9 city7 fl3 fl2
 0
 2
-0 3 9 7
 0 2 3 2
+0 3 9 7
 1
 end_operator
 begin_operator
 fly plane4 city9 city7 fl4 fl3
 0
 2
-0 3 9 7
 0 2 4 3
+0 3 9 7
 1
 end_operator
 begin_operator
 fly plane4 city9 city7 fl5 fl4
 0
 2
-0 3 9 7
 0 2 5 4
+0 3 9 7
 1
 end_operator
 begin_operator
 fly plane4 city9 city7 fl6 fl5
 0
 2
-0 3 9 7
 0 2 6 5
+0 3 9 7
 1
 end_operator
 begin_operator
 fly plane4 city9 city8 fl1 fl0
 0
 2
-0 3 9 8
 0 2 1 0
+0 3 9 8
 1
 end_operator
 begin_operator
 fly plane4 city9 city8 fl2 fl1
 0
 2
-0 3 9 8
 0 2 2 1
+0 3 9 8
 1
 end_operator
 begin_operator
 fly plane4 city9 city8 fl3 fl2
 0
 2
-0 3 9 8
 0 2 3 2
+0 3 9 8
 1
 end_operator
 begin_operator
 fly plane4 city9 city8 fl4 fl3
 0
 2
-0 3 9 8
 0 2 4 3
+0 3 9 8
 1
 end_operator
 begin_operator
 fly plane4 city9 city8 fl5 fl4
 0
 2
-0 3 9 8
 0 2 5 4
+0 3 9 8
 1
 end_operator
 begin_operator
 fly plane4 city9 city8 fl6 fl5
 0
 2
-0 3 9 8
 0 2 6 5
+0 3 9 8
 1
 end_operator
 begin_operator
@@ -27631,480 +27631,480 @@ begin_operator
 fly plane5 city0 city1 fl1 fl0
 0
 2
-0 1 0 1
 0 0 1 0
+0 1 0 1
 1
 end_operator
 begin_operator
 fly plane5 city0 city1 fl2 fl1
 0
 2
-0 1 0 1
 0 0 2 1
+0 1 0 1
 1
 end_operator
 begin_operator
 fly plane5 city0 city1 fl3 fl2
 0
 2
-0 1 0 1
 0 0 3 2
+0 1 0 1
 1
 end_operator
 begin_operator
 fly plane5 city0 city1 fl4 fl3
 0
 2
-0 1 0 1
 0 0 4 3
+0 1 0 1
 1
 end_operator
 begin_operator
 fly plane5 city0 city1 fl5 fl4
 0
 2
-0 1 0 1
 0 0 5 4
+0 1 0 1
 1
 end_operator
 begin_operator
 fly plane5 city0 city1 fl6 fl5
 0
 2
-0 1 0 1
 0 0 6 5
+0 1 0 1
 1
 end_operator
 begin_operator
 fly plane5 city0 city2 fl1 fl0
 0
 2
-0 1 0 2
 0 0 1 0
+0 1 0 2
 1
 end_operator
 begin_operator
 fly plane5 city0 city2 fl2 fl1
 0
 2
-0 1 0 2
 0 0 2 1
+0 1 0 2
 1
 end_operator
 begin_operator
 fly plane5 city0 city2 fl3 fl2
 0
 2
-0 1 0 2
 0 0 3 2
+0 1 0 2
 1
 end_operator
 begin_operator
 fly plane5 city0 city2 fl4 fl3
 0
 2
-0 1 0 2
 0 0 4 3
+0 1 0 2
 1
 end_operator
 begin_operator
 fly plane5 city0 city2 fl5 fl4
 0
 2
-0 1 0 2
 0 0 5 4
+0 1 0 2
 1
 end_operator
 begin_operator
 fly plane5 city0 city2 fl6 fl5
 0
 2
-0 1 0 2
 0 0 6 5
+0 1 0 2
 1
 end_operator
 begin_operator
 fly plane5 city0 city3 fl1 fl0
 0
 2
-0 1 0 3
 0 0 1 0
+0 1 0 3
 1
 end_operator
 begin_operator
 fly plane5 city0 city3 fl2 fl1
 0
 2
-0 1 0 3
 0 0 2 1
+0 1 0 3
 1
 end_operator
 begin_operator
 fly plane5 city0 city3 fl3 fl2
 0
 2
-0 1 0 3
 0 0 3 2
+0 1 0 3
 1
 end_operator
 begin_operator
 fly plane5 city0 city3 fl4 fl3
 0
 2
-0 1 0 3
 0 0 4 3
+0 1 0 3
 1
 end_operator
 begin_operator
 fly plane5 city0 city3 fl5 fl4
 0
 2
-0 1 0 3
 0 0 5 4
+0 1 0 3
 1
 end_operator
 begin_operator
 fly plane5 city0 city3 fl6 fl5
 0
 2
-0 1 0 3
 0 0 6 5
+0 1 0 3
 1
 end_operator
 begin_operator
 fly plane5 city0 city4 fl1 fl0
 0
 2
-0 1 0 4
 0 0 1 0
+0 1 0 4
 1
 end_operator
 begin_operator
 fly plane5 city0 city4 fl2 fl1
 0
 2
-0 1 0 4
 0 0 2 1
+0 1 0 4
 1
 end_operator
 begin_operator
 fly plane5 city0 city4 fl3 fl2
 0
 2
-0 1 0 4
 0 0 3 2
+0 1 0 4
 1
 end_operator
 begin_operator
 fly plane5 city0 city4 fl4 fl3
 0
 2
-0 1 0 4
 0 0 4 3
+0 1 0 4
 1
 end_operator
 begin_operator
 fly plane5 city0 city4 fl5 fl4
 0
 2
-0 1 0 4
 0 0 5 4
+0 1 0 4
 1
 end_operator
 begin_operator
 fly plane5 city0 city4 fl6 fl5
 0
 2
-0 1 0 4
 0 0 6 5
+0 1 0 4
 1
 end_operator
 begin_operator
 fly plane5 city0 city5 fl1 fl0
 0
 2
-0 1 0 5
 0 0 1 0
+0 1 0 5
 1
 end_operator
 begin_operator
 fly plane5 city0 city5 fl2 fl1
 0
 2
-0 1 0 5
 0 0 2 1
+0 1 0 5
 1
 end_operator
 begin_operator
 fly plane5 city0 city5 fl3 fl2
 0
 2
-0 1 0 5
 0 0 3 2
+0 1 0 5
 1
 end_operator
 begin_operator
 fly plane5 city0 city5 fl4 fl3
 0
 2
-0 1 0 5
 0 0 4 3
+0 1 0 5
 1
 end_operator
 begin_operator
 fly plane5 city0 city5 fl5 fl4
 0
 2
-0 1 0 5
 0 0 5 4
+0 1 0 5
 1
 end_operator
 begin_operator
 fly plane5 city0 city5 fl6 fl5
 0
 2
-0 1 0 5
 0 0 6 5
+0 1 0 5
 1
 end_operator
 begin_operator
 fly plane5 city0 city6 fl1 fl0
 0
 2
-0 1 0 6
 0 0 1 0
+0 1 0 6
 1
 end_operator
 begin_operator
 fly plane5 city0 city6 fl2 fl1
 0
 2
-0 1 0 6
 0 0 2 1
+0 1 0 6
 1
 end_operator
 begin_operator
 fly plane5 city0 city6 fl3 fl2
 0
 2
-0 1 0 6
 0 0 3 2
+0 1 0 6
 1
 end_operator
 begin_operator
 fly plane5 city0 city6 fl4 fl3
 0
 2
-0 1 0 6
 0 0 4 3
+0 1 0 6
 1
 end_operator
 begin_operator
 fly plane5 city0 city6 fl5 fl4
 0
 2
-0 1 0 6
 0 0 5 4
+0 1 0 6
 1
 end_operator
 begin_operator
 fly plane5 city0 city6 fl6 fl5
 0
 2
-0 1 0 6
 0 0 6 5
+0 1 0 6
 1
 end_operator
 begin_operator
 fly plane5 city0 city7 fl1 fl0
 0
 2
-0 1 0 7
 0 0 1 0
+0 1 0 7
 1
 end_operator
 begin_operator
 fly plane5 city0 city7 fl2 fl1
 0
 2
-0 1 0 7
 0 0 2 1
+0 1 0 7
 1
 end_operator
 begin_operator
 fly plane5 city0 city7 fl3 fl2
 0
 2
-0 1 0 7
 0 0 3 2
+0 1 0 7
 1
 end_operator
 begin_operator
 fly plane5 city0 city7 fl4 fl3
 0
 2
-0 1 0 7
 0 0 4 3
+0 1 0 7
 1
 end_operator
 begin_operator
 fly plane5 city0 city7 fl5 fl4
 0
 2
-0 1 0 7
 0 0 5 4
+0 1 0 7
 1
 end_operator
 begin_operator
 fly plane5 city0 city7 fl6 fl5
 0
 2
-0 1 0 7
 0 0 6 5
+0 1 0 7
 1
 end_operator
 begin_operator
 fly plane5 city0 city8 fl1 fl0
 0
 2
-0 1 0 8
 0 0 1 0
+0 1 0 8
 1
 end_operator
 begin_operator
 fly plane5 city0 city8 fl2 fl1
 0
 2
-0 1 0 8
 0 0 2 1
+0 1 0 8
 1
 end_operator
 begin_operator
 fly plane5 city0 city8 fl3 fl2
 0
 2
-0 1 0 8
 0 0 3 2
+0 1 0 8
 1
 end_operator
 begin_operator
 fly plane5 city0 city8 fl4 fl3
 0
 2
-0 1 0 8
 0 0 4 3
+0 1 0 8
 1
 end_operator
 begin_operator
 fly plane5 city0 city8 fl5 fl4
 0
 2
-0 1 0 8
 0 0 5 4
+0 1 0 8
 1
 end_operator
 begin_operator
 fly plane5 city0 city8 fl6 fl5
 0
 2
-0 1 0 8
 0 0 6 5
+0 1 0 8
 1
 end_operator
 begin_operator
 fly plane5 city0 city9 fl1 fl0
 0
 2
-0 1 0 9
 0 0 1 0
+0 1 0 9
 1
 end_operator
 begin_operator
 fly plane5 city0 city9 fl2 fl1
 0
 2
-0 1 0 9
 0 0 2 1
+0 1 0 9
 1
 end_operator
 begin_operator
 fly plane5 city0 city9 fl3 fl2
 0
 2
-0 1 0 9
 0 0 3 2
+0 1 0 9
 1
 end_operator
 begin_operator
 fly plane5 city0 city9 fl4 fl3
 0
 2
-0 1 0 9
 0 0 4 3
+0 1 0 9
 1
 end_operator
 begin_operator
 fly plane5 city0 city9 fl5 fl4
 0
 2
-0 1 0 9
 0 0 5 4
+0 1 0 9
 1
 end_operator
 begin_operator
 fly plane5 city0 city9 fl6 fl5
 0
 2
-0 1 0 9
 0 0 6 5
+0 1 0 9
 1
 end_operator
 begin_operator
 fly plane5 city1 city0 fl1 fl0
 0
 2
-0 1 1 0
 0 0 1 0
+0 1 1 0
 1
 end_operator
 begin_operator
 fly plane5 city1 city0 fl2 fl1
 0
 2
-0 1 1 0
 0 0 2 1
+0 1 1 0
 1
 end_operator
 begin_operator
 fly plane5 city1 city0 fl3 fl2
 0
 2
-0 1 1 0
 0 0 3 2
+0 1 1 0
 1
 end_operator
 begin_operator
 fly plane5 city1 city0 fl4 fl3
 0
 2
-0 1 1 0
 0 0 4 3
+0 1 1 0
 1
 end_operator
 begin_operator
 fly plane5 city1 city0 fl5 fl4
 0
 2
-0 1 1 0
 0 0 5 4
+0 1 1 0
 1
 end_operator
 begin_operator
 fly plane5 city1 city0 fl6 fl5
 0
 2
-0 1 1 0
 0 0 6 5
+0 1 1 0
 1
 end_operator
 begin_operator
@@ -28159,480 +28159,480 @@ begin_operator
 fly plane5 city1 city2 fl1 fl0
 0
 2
-0 1 1 2
 0 0 1 0
+0 1 1 2
 1
 end_operator
 begin_operator
 fly plane5 city1 city2 fl2 fl1
 0
 2
-0 1 1 2
 0 0 2 1
+0 1 1 2
 1
 end_operator
 begin_operator
 fly plane5 city1 city2 fl3 fl2
 0
 2
-0 1 1 2
 0 0 3 2
+0 1 1 2
 1
 end_operator
 begin_operator
 fly plane5 city1 city2 fl4 fl3
 0
 2
-0 1 1 2
 0 0 4 3
+0 1 1 2
 1
 end_operator
 begin_operator
 fly plane5 city1 city2 fl5 fl4
 0
 2
-0 1 1 2
 0 0 5 4
+0 1 1 2
 1
 end_operator
 begin_operator
 fly plane5 city1 city2 fl6 fl5
 0
 2
-0 1 1 2
 0 0 6 5
+0 1 1 2
 1
 end_operator
 begin_operator
 fly plane5 city1 city3 fl1 fl0
 0
 2
-0 1 1 3
 0 0 1 0
+0 1 1 3
 1
 end_operator
 begin_operator
 fly plane5 city1 city3 fl2 fl1
 0
 2
-0 1 1 3
 0 0 2 1
+0 1 1 3
 1
 end_operator
 begin_operator
 fly plane5 city1 city3 fl3 fl2
 0
 2
-0 1 1 3
 0 0 3 2
+0 1 1 3
 1
 end_operator
 begin_operator
 fly plane5 city1 city3 fl4 fl3
 0
 2
-0 1 1 3
 0 0 4 3
+0 1 1 3
 1
 end_operator
 begin_operator
 fly plane5 city1 city3 fl5 fl4
 0
 2
-0 1 1 3
 0 0 5 4
+0 1 1 3
 1
 end_operator
 begin_operator
 fly plane5 city1 city3 fl6 fl5
 0
 2
-0 1 1 3
 0 0 6 5
+0 1 1 3
 1
 end_operator
 begin_operator
 fly plane5 city1 city4 fl1 fl0
 0
 2
-0 1 1 4
 0 0 1 0
+0 1 1 4
 1
 end_operator
 begin_operator
 fly plane5 city1 city4 fl2 fl1
 0
 2
-0 1 1 4
 0 0 2 1
+0 1 1 4
 1
 end_operator
 begin_operator
 fly plane5 city1 city4 fl3 fl2
 0
 2
-0 1 1 4
 0 0 3 2
+0 1 1 4
 1
 end_operator
 begin_operator
 fly plane5 city1 city4 fl4 fl3
 0
 2
-0 1 1 4
 0 0 4 3
+0 1 1 4
 1
 end_operator
 begin_operator
 fly plane5 city1 city4 fl5 fl4
 0
 2
-0 1 1 4
 0 0 5 4
+0 1 1 4
 1
 end_operator
 begin_operator
 fly plane5 city1 city4 fl6 fl5
 0
 2
-0 1 1 4
 0 0 6 5
+0 1 1 4
 1
 end_operator
 begin_operator
 fly plane5 city1 city5 fl1 fl0
 0
 2
-0 1 1 5
 0 0 1 0
+0 1 1 5
 1
 end_operator
 begin_operator
 fly plane5 city1 city5 fl2 fl1
 0
 2
-0 1 1 5
 0 0 2 1
+0 1 1 5
 1
 end_operator
 begin_operator
 fly plane5 city1 city5 fl3 fl2
 0
 2
-0 1 1 5
 0 0 3 2
+0 1 1 5
 1
 end_operator
 begin_operator
 fly plane5 city1 city5 fl4 fl3
 0
 2
-0 1 1 5
 0 0 4 3
+0 1 1 5
 1
 end_operator
 begin_operator
 fly plane5 city1 city5 fl5 fl4
 0
 2
-0 1 1 5
 0 0 5 4
+0 1 1 5
 1
 end_operator
 begin_operator
 fly plane5 city1 city5 fl6 fl5
 0
 2
-0 1 1 5
 0 0 6 5
+0 1 1 5
 1
 end_operator
 begin_operator
 fly plane5 city1 city6 fl1 fl0
 0
 2
-0 1 1 6
 0 0 1 0
+0 1 1 6
 1
 end_operator
 begin_operator
 fly plane5 city1 city6 fl2 fl1
 0
 2
-0 1 1 6
 0 0 2 1
+0 1 1 6
 1
 end_operator
 begin_operator
 fly plane5 city1 city6 fl3 fl2
 0
 2
-0 1 1 6
 0 0 3 2
+0 1 1 6
 1
 end_operator
 begin_operator
 fly plane5 city1 city6 fl4 fl3
 0
 2
-0 1 1 6
 0 0 4 3
+0 1 1 6
 1
 end_operator
 begin_operator
 fly plane5 city1 city6 fl5 fl4
 0
 2
-0 1 1 6
 0 0 5 4
+0 1 1 6
 1
 end_operator
 begin_operator
 fly plane5 city1 city6 fl6 fl5
 0
 2
-0 1 1 6
 0 0 6 5
+0 1 1 6
 1
 end_operator
 begin_operator
 fly plane5 city1 city7 fl1 fl0
 0
 2
-0 1 1 7
 0 0 1 0
+0 1 1 7
 1
 end_operator
 begin_operator
 fly plane5 city1 city7 fl2 fl1
 0
 2
-0 1 1 7
 0 0 2 1
+0 1 1 7
 1
 end_operator
 begin_operator
 fly plane5 city1 city7 fl3 fl2
 0
 2
-0 1 1 7
 0 0 3 2
+0 1 1 7
 1
 end_operator
 begin_operator
 fly plane5 city1 city7 fl4 fl3
 0
 2
-0 1 1 7
 0 0 4 3
+0 1 1 7
 1
 end_operator
 begin_operator
 fly plane5 city1 city7 fl5 fl4
 0
 2
-0 1 1 7
 0 0 5 4
+0 1 1 7
 1
 end_operator
 begin_operator
 fly plane5 city1 city7 fl6 fl5
 0
 2
-0 1 1 7
 0 0 6 5
+0 1 1 7
 1
 end_operator
 begin_operator
 fly plane5 city1 city8 fl1 fl0
 0
 2
-0 1 1 8
 0 0 1 0
+0 1 1 8
 1
 end_operator
 begin_operator
 fly plane5 city1 city8 fl2 fl1
 0
 2
-0 1 1 8
 0 0 2 1
+0 1 1 8
 1
 end_operator
 begin_operator
 fly plane5 city1 city8 fl3 fl2
 0
 2
-0 1 1 8
 0 0 3 2
+0 1 1 8
 1
 end_operator
 begin_operator
 fly plane5 city1 city8 fl4 fl3
 0
 2
-0 1 1 8
 0 0 4 3
+0 1 1 8
 1
 end_operator
 begin_operator
 fly plane5 city1 city8 fl5 fl4
 0
 2
-0 1 1 8
 0 0 5 4
+0 1 1 8
 1
 end_operator
 begin_operator
 fly plane5 city1 city8 fl6 fl5
 0
 2
-0 1 1 8
 0 0 6 5
+0 1 1 8
 1
 end_operator
 begin_operator
 fly plane5 city1 city9 fl1 fl0
 0
 2
-0 1 1 9
 0 0 1 0
+0 1 1 9
 1
 end_operator
 begin_operator
 fly plane5 city1 city9 fl2 fl1
 0
 2
-0 1 1 9
 0 0 2 1
+0 1 1 9
 1
 end_operator
 begin_operator
 fly plane5 city1 city9 fl3 fl2
 0
 2
-0 1 1 9
 0 0 3 2
+0 1 1 9
 1
 end_operator
 begin_operator
 fly plane5 city1 city9 fl4 fl3
 0
 2
-0 1 1 9
 0 0 4 3
+0 1 1 9
 1
 end_operator
 begin_operator
 fly plane5 city1 city9 fl5 fl4
 0
 2
-0 1 1 9
 0 0 5 4
+0 1 1 9
 1
 end_operator
 begin_operator
 fly plane5 city1 city9 fl6 fl5
 0
 2
-0 1 1 9
 0 0 6 5
+0 1 1 9
 1
 end_operator
 begin_operator
 fly plane5 city2 city0 fl1 fl0
 0
 2
-0 1 2 0
 0 0 1 0
+0 1 2 0
 1
 end_operator
 begin_operator
 fly plane5 city2 city0 fl2 fl1
 0
 2
-0 1 2 0
 0 0 2 1
+0 1 2 0
 1
 end_operator
 begin_operator
 fly plane5 city2 city0 fl3 fl2
 0
 2
-0 1 2 0
 0 0 3 2
+0 1 2 0
 1
 end_operator
 begin_operator
 fly plane5 city2 city0 fl4 fl3
 0
 2
-0 1 2 0
 0 0 4 3
+0 1 2 0
 1
 end_operator
 begin_operator
 fly plane5 city2 city0 fl5 fl4
 0
 2
-0 1 2 0
 0 0 5 4
+0 1 2 0
 1
 end_operator
 begin_operator
 fly plane5 city2 city0 fl6 fl5
 0
 2
-0 1 2 0
 0 0 6 5
+0 1 2 0
 1
 end_operator
 begin_operator
 fly plane5 city2 city1 fl1 fl0
 0
 2
-0 1 2 1
 0 0 1 0
+0 1 2 1
 1
 end_operator
 begin_operator
 fly plane5 city2 city1 fl2 fl1
 0
 2
-0 1 2 1
 0 0 2 1
+0 1 2 1
 1
 end_operator
 begin_operator
 fly plane5 city2 city1 fl3 fl2
 0
 2
-0 1 2 1
 0 0 3 2
+0 1 2 1
 1
 end_operator
 begin_operator
 fly plane5 city2 city1 fl4 fl3
 0
 2
-0 1 2 1
 0 0 4 3
+0 1 2 1
 1
 end_operator
 begin_operator
 fly plane5 city2 city1 fl5 fl4
 0
 2
-0 1 2 1
 0 0 5 4
+0 1 2 1
 1
 end_operator
 begin_operator
 fly plane5 city2 city1 fl6 fl5
 0
 2
-0 1 2 1
 0 0 6 5
+0 1 2 1
 1
 end_operator
 begin_operator
@@ -28687,480 +28687,480 @@ begin_operator
 fly plane5 city2 city3 fl1 fl0
 0
 2
-0 1 2 3
 0 0 1 0
+0 1 2 3
 1
 end_operator
 begin_operator
 fly plane5 city2 city3 fl2 fl1
 0
 2
-0 1 2 3
 0 0 2 1
+0 1 2 3
 1
 end_operator
 begin_operator
 fly plane5 city2 city3 fl3 fl2
 0
 2
-0 1 2 3
 0 0 3 2
+0 1 2 3
 1
 end_operator
 begin_operator
 fly plane5 city2 city3 fl4 fl3
 0
 2
-0 1 2 3
 0 0 4 3
+0 1 2 3
 1
 end_operator
 begin_operator
 fly plane5 city2 city3 fl5 fl4
 0
 2
-0 1 2 3
 0 0 5 4
+0 1 2 3
 1
 end_operator
 begin_operator
 fly plane5 city2 city3 fl6 fl5
 0
 2
-0 1 2 3
 0 0 6 5
+0 1 2 3
 1
 end_operator
 begin_operator
 fly plane5 city2 city4 fl1 fl0
 0
 2
-0 1 2 4
 0 0 1 0
+0 1 2 4
 1
 end_operator
 begin_operator
 fly plane5 city2 city4 fl2 fl1
 0
 2
-0 1 2 4
 0 0 2 1
+0 1 2 4
 1
 end_operator
 begin_operator
 fly plane5 city2 city4 fl3 fl2
 0
 2
-0 1 2 4
 0 0 3 2
+0 1 2 4
 1
 end_operator
 begin_operator
 fly plane5 city2 city4 fl4 fl3
 0
 2
-0 1 2 4
 0 0 4 3
+0 1 2 4
 1
 end_operator
 begin_operator
 fly plane5 city2 city4 fl5 fl4
 0
 2
-0 1 2 4
 0 0 5 4
+0 1 2 4
 1
 end_operator
 begin_operator
 fly plane5 city2 city4 fl6 fl5
 0
 2
-0 1 2 4
 0 0 6 5
+0 1 2 4
 1
 end_operator
 begin_operator
 fly plane5 city2 city5 fl1 fl0
 0
 2
-0 1 2 5
 0 0 1 0
+0 1 2 5
 1
 end_operator
 begin_operator
 fly plane5 city2 city5 fl2 fl1
 0
 2
-0 1 2 5
 0 0 2 1
+0 1 2 5
 1
 end_operator
 begin_operator
 fly plane5 city2 city5 fl3 fl2
 0
 2
-0 1 2 5
 0 0 3 2
+0 1 2 5
 1
 end_operator
 begin_operator
 fly plane5 city2 city5 fl4 fl3
 0
 2
-0 1 2 5
 0 0 4 3
+0 1 2 5
 1
 end_operator
 begin_operator
 fly plane5 city2 city5 fl5 fl4
 0
 2
-0 1 2 5
 0 0 5 4
+0 1 2 5
 1
 end_operator
 begin_operator
 fly plane5 city2 city5 fl6 fl5
 0
 2
-0 1 2 5
 0 0 6 5
+0 1 2 5
 1
 end_operator
 begin_operator
 fly plane5 city2 city6 fl1 fl0
 0
 2
-0 1 2 6
 0 0 1 0
+0 1 2 6
 1
 end_operator
 begin_operator
 fly plane5 city2 city6 fl2 fl1
 0
 2
-0 1 2 6
 0 0 2 1
+0 1 2 6
 1
 end_operator
 begin_operator
 fly plane5 city2 city6 fl3 fl2
 0
 2
-0 1 2 6
 0 0 3 2
+0 1 2 6
 1
 end_operator
 begin_operator
 fly plane5 city2 city6 fl4 fl3
 0
 2
-0 1 2 6
 0 0 4 3
+0 1 2 6
 1
 end_operator
 begin_operator
 fly plane5 city2 city6 fl5 fl4
 0
 2
-0 1 2 6
 0 0 5 4
+0 1 2 6
 1
 end_operator
 begin_operator
 fly plane5 city2 city6 fl6 fl5
 0
 2
-0 1 2 6
 0 0 6 5
+0 1 2 6
 1
 end_operator
 begin_operator
 fly plane5 city2 city7 fl1 fl0
 0
 2
-0 1 2 7
 0 0 1 0
+0 1 2 7
 1
 end_operator
 begin_operator
 fly plane5 city2 city7 fl2 fl1
 0
 2
-0 1 2 7
 0 0 2 1
+0 1 2 7
 1
 end_operator
 begin_operator
 fly plane5 city2 city7 fl3 fl2
 0
 2
-0 1 2 7
 0 0 3 2
+0 1 2 7
 1
 end_operator
 begin_operator
 fly plane5 city2 city7 fl4 fl3
 0
 2
-0 1 2 7
 0 0 4 3
+0 1 2 7
 1
 end_operator
 begin_operator
 fly plane5 city2 city7 fl5 fl4
 0
 2
-0 1 2 7
 0 0 5 4
+0 1 2 7
 1
 end_operator
 begin_operator
 fly plane5 city2 city7 fl6 fl5
 0
 2
-0 1 2 7
 0 0 6 5
+0 1 2 7
 1
 end_operator
 begin_operator
 fly plane5 city2 city8 fl1 fl0
 0
 2
-0 1 2 8
 0 0 1 0
+0 1 2 8
 1
 end_operator
 begin_operator
 fly plane5 city2 city8 fl2 fl1
 0
 2
-0 1 2 8
 0 0 2 1
+0 1 2 8
 1
 end_operator
 begin_operator
 fly plane5 city2 city8 fl3 fl2
 0
 2
-0 1 2 8
 0 0 3 2
+0 1 2 8
 1
 end_operator
 begin_operator
 fly plane5 city2 city8 fl4 fl3
 0
 2
-0 1 2 8
 0 0 4 3
+0 1 2 8
 1
 end_operator
 begin_operator
 fly plane5 city2 city8 fl5 fl4
 0
 2
-0 1 2 8
 0 0 5 4
+0 1 2 8
 1
 end_operator
 begin_operator
 fly plane5 city2 city8 fl6 fl5
 0
 2
-0 1 2 8
 0 0 6 5
+0 1 2 8
 1
 end_operator
 begin_operator
 fly plane5 city2 city9 fl1 fl0
 0
 2
-0 1 2 9
 0 0 1 0
+0 1 2 9
 1
 end_operator
 begin_operator
 fly plane5 city2 city9 fl2 fl1
 0
 2
-0 1 2 9
 0 0 2 1
+0 1 2 9
 1
 end_operator
 begin_operator
 fly plane5 city2 city9 fl3 fl2
 0
 2
-0 1 2 9
 0 0 3 2
+0 1 2 9
 1
 end_operator
 begin_operator
 fly plane5 city2 city9 fl4 fl3
 0
 2
-0 1 2 9
 0 0 4 3
+0 1 2 9
 1
 end_operator
 begin_operator
 fly plane5 city2 city9 fl5 fl4
 0
 2
-0 1 2 9
 0 0 5 4
+0 1 2 9
 1
 end_operator
 begin_operator
 fly plane5 city2 city9 fl6 fl5
 0
 2
-0 1 2 9
 0 0 6 5
+0 1 2 9
 1
 end_operator
 begin_operator
 fly plane5 city3 city0 fl1 fl0
 0
 2
-0 1 3 0
 0 0 1 0
+0 1 3 0
 1
 end_operator
 begin_operator
 fly plane5 city3 city0 fl2 fl1
 0
 2
-0 1 3 0
 0 0 2 1
+0 1 3 0
 1
 end_operator
 begin_operator
 fly plane5 city3 city0 fl3 fl2
 0
 2
-0 1 3 0
 0 0 3 2
+0 1 3 0
 1
 end_operator
 begin_operator
 fly plane5 city3 city0 fl4 fl3
 0
 2
-0 1 3 0
 0 0 4 3
+0 1 3 0
 1
 end_operator
 begin_operator
 fly plane5 city3 city0 fl5 fl4
 0
 2
-0 1 3 0
 0 0 5 4
+0 1 3 0
 1
 end_operator
 begin_operator
 fly plane5 city3 city0 fl6 fl5
 0
 2
-0 1 3 0
 0 0 6 5
+0 1 3 0
 1
 end_operator
 begin_operator
 fly plane5 city3 city1 fl1 fl0
 0
 2
-0 1 3 1
 0 0 1 0
+0 1 3 1
 1
 end_operator
 begin_operator
 fly plane5 city3 city1 fl2 fl1
 0
 2
-0 1 3 1
 0 0 2 1
+0 1 3 1
 1
 end_operator
 begin_operator
 fly plane5 city3 city1 fl3 fl2
 0
 2
-0 1 3 1
 0 0 3 2
+0 1 3 1
 1
 end_operator
 begin_operator
 fly plane5 city3 city1 fl4 fl3
 0
 2
-0 1 3 1
 0 0 4 3
+0 1 3 1
 1
 end_operator
 begin_operator
 fly plane5 city3 city1 fl5 fl4
 0
 2
-0 1 3 1
 0 0 5 4
+0 1 3 1
 1
 end_operator
 begin_operator
 fly plane5 city3 city1 fl6 fl5
 0
 2
-0 1 3 1
 0 0 6 5
+0 1 3 1
 1
 end_operator
 begin_operator
 fly plane5 city3 city2 fl1 fl0
 0
 2
-0 1 3 2
 0 0 1 0
+0 1 3 2
 1
 end_operator
 begin_operator
 fly plane5 city3 city2 fl2 fl1
 0
 2
-0 1 3 2
 0 0 2 1
+0 1 3 2
 1
 end_operator
 begin_operator
 fly plane5 city3 city2 fl3 fl2
 0
 2
-0 1 3 2
 0 0 3 2
+0 1 3 2
 1
 end_operator
 begin_operator
 fly plane5 city3 city2 fl4 fl3
 0
 2
-0 1 3 2
 0 0 4 3
+0 1 3 2
 1
 end_operator
 begin_operator
 fly plane5 city3 city2 fl5 fl4
 0
 2
-0 1 3 2
 0 0 5 4
+0 1 3 2
 1
 end_operator
 begin_operator
 fly plane5 city3 city2 fl6 fl5
 0
 2
-0 1 3 2
 0 0 6 5
+0 1 3 2
 1
 end_operator
 begin_operator
@@ -29215,480 +29215,480 @@ begin_operator
 fly plane5 city3 city4 fl1 fl0
 0
 2
-0 1 3 4
 0 0 1 0
+0 1 3 4
 1
 end_operator
 begin_operator
 fly plane5 city3 city4 fl2 fl1
 0
 2
-0 1 3 4
 0 0 2 1
+0 1 3 4
 1
 end_operator
 begin_operator
 fly plane5 city3 city4 fl3 fl2
 0
 2
-0 1 3 4
 0 0 3 2
+0 1 3 4
 1
 end_operator
 begin_operator
 fly plane5 city3 city4 fl4 fl3
 0
 2
-0 1 3 4
 0 0 4 3
+0 1 3 4
 1
 end_operator
 begin_operator
 fly plane5 city3 city4 fl5 fl4
 0
 2
-0 1 3 4
 0 0 5 4
+0 1 3 4
 1
 end_operator
 begin_operator
 fly plane5 city3 city4 fl6 fl5
 0
 2
-0 1 3 4
 0 0 6 5
+0 1 3 4
 1
 end_operator
 begin_operator
 fly plane5 city3 city5 fl1 fl0
 0
 2
-0 1 3 5
 0 0 1 0
+0 1 3 5
 1
 end_operator
 begin_operator
 fly plane5 city3 city5 fl2 fl1
 0
 2
-0 1 3 5
 0 0 2 1
+0 1 3 5
 1
 end_operator
 begin_operator
 fly plane5 city3 city5 fl3 fl2
 0
 2
-0 1 3 5
 0 0 3 2
+0 1 3 5
 1
 end_operator
 begin_operator
 fly plane5 city3 city5 fl4 fl3
 0
 2
-0 1 3 5
 0 0 4 3
+0 1 3 5
 1
 end_operator
 begin_operator
 fly plane5 city3 city5 fl5 fl4
 0
 2
-0 1 3 5
 0 0 5 4
+0 1 3 5
 1
 end_operator
 begin_operator
 fly plane5 city3 city5 fl6 fl5
 0
 2
-0 1 3 5
 0 0 6 5
+0 1 3 5
 1
 end_operator
 begin_operator
 fly plane5 city3 city6 fl1 fl0
 0
 2
-0 1 3 6
 0 0 1 0
+0 1 3 6
 1
 end_operator
 begin_operator
 fly plane5 city3 city6 fl2 fl1
 0
 2
-0 1 3 6
 0 0 2 1
+0 1 3 6
 1
 end_operator
 begin_operator
 fly plane5 city3 city6 fl3 fl2
 0
 2
-0 1 3 6
 0 0 3 2
+0 1 3 6
 1
 end_operator
 begin_operator
 fly plane5 city3 city6 fl4 fl3
 0
 2
-0 1 3 6
 0 0 4 3
+0 1 3 6
 1
 end_operator
 begin_operator
 fly plane5 city3 city6 fl5 fl4
 0
 2
-0 1 3 6
 0 0 5 4
+0 1 3 6
 1
 end_operator
 begin_operator
 fly plane5 city3 city6 fl6 fl5
 0
 2
-0 1 3 6
 0 0 6 5
+0 1 3 6
 1
 end_operator
 begin_operator
 fly plane5 city3 city7 fl1 fl0
 0
 2
-0 1 3 7
 0 0 1 0
+0 1 3 7
 1
 end_operator
 begin_operator
 fly plane5 city3 city7 fl2 fl1
 0
 2
-0 1 3 7
 0 0 2 1
+0 1 3 7
 1
 end_operator
 begin_operator
 fly plane5 city3 city7 fl3 fl2
 0
 2
-0 1 3 7
 0 0 3 2
+0 1 3 7
 1
 end_operator
 begin_operator
 fly plane5 city3 city7 fl4 fl3
 0
 2
-0 1 3 7
 0 0 4 3
+0 1 3 7
 1
 end_operator
 begin_operator
 fly plane5 city3 city7 fl5 fl4
 0
 2
-0 1 3 7
 0 0 5 4
+0 1 3 7
 1
 end_operator
 begin_operator
 fly plane5 city3 city7 fl6 fl5
 0
 2
-0 1 3 7
 0 0 6 5
+0 1 3 7
 1
 end_operator
 begin_operator
 fly plane5 city3 city8 fl1 fl0
 0
 2
-0 1 3 8
 0 0 1 0
+0 1 3 8
 1
 end_operator
 begin_operator
 fly plane5 city3 city8 fl2 fl1
 0
 2
-0 1 3 8
 0 0 2 1
+0 1 3 8
 1
 end_operator
 begin_operator
 fly plane5 city3 city8 fl3 fl2
 0
 2
-0 1 3 8
 0 0 3 2
+0 1 3 8
 1
 end_operator
 begin_operator
 fly plane5 city3 city8 fl4 fl3
 0
 2
-0 1 3 8
 0 0 4 3
+0 1 3 8
 1
 end_operator
 begin_operator
 fly plane5 city3 city8 fl5 fl4
 0
 2
-0 1 3 8
 0 0 5 4
+0 1 3 8
 1
 end_operator
 begin_operator
 fly plane5 city3 city8 fl6 fl5
 0
 2
-0 1 3 8
 0 0 6 5
+0 1 3 8
 1
 end_operator
 begin_operator
 fly plane5 city3 city9 fl1 fl0
 0
 2
-0 1 3 9
 0 0 1 0
+0 1 3 9
 1
 end_operator
 begin_operator
 fly plane5 city3 city9 fl2 fl1
 0
 2
-0 1 3 9
 0 0 2 1
+0 1 3 9
 1
 end_operator
 begin_operator
 fly plane5 city3 city9 fl3 fl2
 0
 2
-0 1 3 9
 0 0 3 2
+0 1 3 9
 1
 end_operator
 begin_operator
 fly plane5 city3 city9 fl4 fl3
 0
 2
-0 1 3 9
 0 0 4 3
+0 1 3 9
 1
 end_operator
 begin_operator
 fly plane5 city3 city9 fl5 fl4
 0
 2
-0 1 3 9
 0 0 5 4
+0 1 3 9
 1
 end_operator
 begin_operator
 fly plane5 city3 city9 fl6 fl5
 0
 2
-0 1 3 9
 0 0 6 5
+0 1 3 9
 1
 end_operator
 begin_operator
 fly plane5 city4 city0 fl1 fl0
 0
 2
-0 1 4 0
 0 0 1 0
+0 1 4 0
 1
 end_operator
 begin_operator
 fly plane5 city4 city0 fl2 fl1
 0
 2
-0 1 4 0
 0 0 2 1
+0 1 4 0
 1
 end_operator
 begin_operator
 fly plane5 city4 city0 fl3 fl2
 0
 2
-0 1 4 0
 0 0 3 2
+0 1 4 0
 1
 end_operator
 begin_operator
 fly plane5 city4 city0 fl4 fl3
 0
 2
-0 1 4 0
 0 0 4 3
+0 1 4 0
 1
 end_operator
 begin_operator
 fly plane5 city4 city0 fl5 fl4
 0
 2
-0 1 4 0
 0 0 5 4
+0 1 4 0
 1
 end_operator
 begin_operator
 fly plane5 city4 city0 fl6 fl5
 0
 2
-0 1 4 0
 0 0 6 5
+0 1 4 0
 1
 end_operator
 begin_operator
 fly plane5 city4 city1 fl1 fl0
 0
 2
-0 1 4 1
 0 0 1 0
+0 1 4 1
 1
 end_operator
 begin_operator
 fly plane5 city4 city1 fl2 fl1
 0
 2
-0 1 4 1
 0 0 2 1
+0 1 4 1
 1
 end_operator
 begin_operator
 fly plane5 city4 city1 fl3 fl2
 0
 2
-0 1 4 1
 0 0 3 2
+0 1 4 1
 1
 end_operator
 begin_operator
 fly plane5 city4 city1 fl4 fl3
 0
 2
-0 1 4 1
 0 0 4 3
+0 1 4 1
 1
 end_operator
 begin_operator
 fly plane5 city4 city1 fl5 fl4
 0
 2
-0 1 4 1
 0 0 5 4
+0 1 4 1
 1
 end_operator
 begin_operator
 fly plane5 city4 city1 fl6 fl5
 0
 2
-0 1 4 1
 0 0 6 5
+0 1 4 1
 1
 end_operator
 begin_operator
 fly plane5 city4 city2 fl1 fl0
 0
 2
-0 1 4 2
 0 0 1 0
+0 1 4 2
 1
 end_operator
 begin_operator
 fly plane5 city4 city2 fl2 fl1
 0
 2
-0 1 4 2
 0 0 2 1
+0 1 4 2
 1
 end_operator
 begin_operator
 fly plane5 city4 city2 fl3 fl2
 0
 2
-0 1 4 2
 0 0 3 2
+0 1 4 2
 1
 end_operator
 begin_operator
 fly plane5 city4 city2 fl4 fl3
 0
 2
-0 1 4 2
 0 0 4 3
+0 1 4 2
 1
 end_operator
 begin_operator
 fly plane5 city4 city2 fl5 fl4
 0
 2
-0 1 4 2
 0 0 5 4
+0 1 4 2
 1
 end_operator
 begin_operator
 fly plane5 city4 city2 fl6 fl5
 0
 2
-0 1 4 2
 0 0 6 5
+0 1 4 2
 1
 end_operator
 begin_operator
 fly plane5 city4 city3 fl1 fl0
 0
 2
-0 1 4 3
 0 0 1 0
+0 1 4 3
 1
 end_operator
 begin_operator
 fly plane5 city4 city3 fl2 fl1
 0
 2
-0 1 4 3
 0 0 2 1
+0 1 4 3
 1
 end_operator
 begin_operator
 fly plane5 city4 city3 fl3 fl2
 0
 2
-0 1 4 3
 0 0 3 2
+0 1 4 3
 1
 end_operator
 begin_operator
 fly plane5 city4 city3 fl4 fl3
 0
 2
-0 1 4 3
 0 0 4 3
+0 1 4 3
 1
 end_operator
 begin_operator
 fly plane5 city4 city3 fl5 fl4
 0
 2
-0 1 4 3
 0 0 5 4
+0 1 4 3
 1
 end_operator
 begin_operator
 fly plane5 city4 city3 fl6 fl5
 0
 2
-0 1 4 3
 0 0 6 5
+0 1 4 3
 1
 end_operator
 begin_operator
@@ -29743,480 +29743,480 @@ begin_operator
 fly plane5 city4 city5 fl1 fl0
 0
 2
-0 1 4 5
 0 0 1 0
+0 1 4 5
 1
 end_operator
 begin_operator
 fly plane5 city4 city5 fl2 fl1
 0
 2
-0 1 4 5
 0 0 2 1
+0 1 4 5
 1
 end_operator
 begin_operator
 fly plane5 city4 city5 fl3 fl2
 0
 2
-0 1 4 5
 0 0 3 2
+0 1 4 5
 1
 end_operator
 begin_operator
 fly plane5 city4 city5 fl4 fl3
 0
 2
-0 1 4 5
 0 0 4 3
+0 1 4 5
 1
 end_operator
 begin_operator
 fly plane5 city4 city5 fl5 fl4
 0
 2
-0 1 4 5
 0 0 5 4
+0 1 4 5
 1
 end_operator
 begin_operator
 fly plane5 city4 city5 fl6 fl5
 0
 2
-0 1 4 5
 0 0 6 5
+0 1 4 5
 1
 end_operator
 begin_operator
 fly plane5 city4 city6 fl1 fl0
 0
 2
-0 1 4 6
 0 0 1 0
+0 1 4 6
 1
 end_operator
 begin_operator
 fly plane5 city4 city6 fl2 fl1
 0
 2
-0 1 4 6
 0 0 2 1
+0 1 4 6
 1
 end_operator
 begin_operator
 fly plane5 city4 city6 fl3 fl2
 0
 2
-0 1 4 6
 0 0 3 2
+0 1 4 6
 1
 end_operator
 begin_operator
 fly plane5 city4 city6 fl4 fl3
 0
 2
-0 1 4 6
 0 0 4 3
+0 1 4 6
 1
 end_operator
 begin_operator
 fly plane5 city4 city6 fl5 fl4
 0
 2
-0 1 4 6
 0 0 5 4
+0 1 4 6
 1
 end_operator
 begin_operator
 fly plane5 city4 city6 fl6 fl5
 0
 2
-0 1 4 6
 0 0 6 5
+0 1 4 6
 1
 end_operator
 begin_operator
 fly plane5 city4 city7 fl1 fl0
 0
 2
-0 1 4 7
 0 0 1 0
+0 1 4 7
 1
 end_operator
 begin_operator
 fly plane5 city4 city7 fl2 fl1
 0
 2
-0 1 4 7
 0 0 2 1
+0 1 4 7
 1
 end_operator
 begin_operator
 fly plane5 city4 city7 fl3 fl2
 0
 2
-0 1 4 7
 0 0 3 2
+0 1 4 7
 1
 end_operator
 begin_operator
 fly plane5 city4 city7 fl4 fl3
 0
 2
-0 1 4 7
 0 0 4 3
+0 1 4 7
 1
 end_operator
 begin_operator
 fly plane5 city4 city7 fl5 fl4
 0
 2
-0 1 4 7
 0 0 5 4
+0 1 4 7
 1
 end_operator
 begin_operator
 fly plane5 city4 city7 fl6 fl5
 0
 2
-0 1 4 7
 0 0 6 5
+0 1 4 7
 1
 end_operator
 begin_operator
 fly plane5 city4 city8 fl1 fl0
 0
 2
-0 1 4 8
 0 0 1 0
+0 1 4 8
 1
 end_operator
 begin_operator
 fly plane5 city4 city8 fl2 fl1
 0
 2
-0 1 4 8
 0 0 2 1
+0 1 4 8
 1
 end_operator
 begin_operator
 fly plane5 city4 city8 fl3 fl2
 0
 2
-0 1 4 8
 0 0 3 2
+0 1 4 8
 1
 end_operator
 begin_operator
 fly plane5 city4 city8 fl4 fl3
 0
 2
-0 1 4 8
 0 0 4 3
+0 1 4 8
 1
 end_operator
 begin_operator
 fly plane5 city4 city8 fl5 fl4
 0
 2
-0 1 4 8
 0 0 5 4
+0 1 4 8
 1
 end_operator
 begin_operator
 fly plane5 city4 city8 fl6 fl5
 0
 2
-0 1 4 8
 0 0 6 5
+0 1 4 8
 1
 end_operator
 begin_operator
 fly plane5 city4 city9 fl1 fl0
 0
 2
-0 1 4 9
 0 0 1 0
+0 1 4 9
 1
 end_operator
 begin_operator
 fly plane5 city4 city9 fl2 fl1
 0
 2
-0 1 4 9
 0 0 2 1
+0 1 4 9
 1
 end_operator
 begin_operator
 fly plane5 city4 city9 fl3 fl2
 0
 2
-0 1 4 9
 0 0 3 2
+0 1 4 9
 1
 end_operator
 begin_operator
 fly plane5 city4 city9 fl4 fl3
 0
 2
-0 1 4 9
 0 0 4 3
+0 1 4 9
 1
 end_operator
 begin_operator
 fly plane5 city4 city9 fl5 fl4
 0
 2
-0 1 4 9
 0 0 5 4
+0 1 4 9
 1
 end_operator
 begin_operator
 fly plane5 city4 city9 fl6 fl5
 0
 2
-0 1 4 9
 0 0 6 5
+0 1 4 9
 1
 end_operator
 begin_operator
 fly plane5 city5 city0 fl1 fl0
 0
 2
-0 1 5 0
 0 0 1 0
+0 1 5 0
 1
 end_operator
 begin_operator
 fly plane5 city5 city0 fl2 fl1
 0
 2
-0 1 5 0
 0 0 2 1
+0 1 5 0
 1
 end_operator
 begin_operator
 fly plane5 city5 city0 fl3 fl2
 0
 2
-0 1 5 0
 0 0 3 2
+0 1 5 0
 1
 end_operator
 begin_operator
 fly plane5 city5 city0 fl4 fl3
 0
 2
-0 1 5 0
 0 0 4 3
+0 1 5 0
 1
 end_operator
 begin_operator
 fly plane5 city5 city0 fl5 fl4
 0
 2
-0 1 5 0
 0 0 5 4
+0 1 5 0
 1
 end_operator
 begin_operator
 fly plane5 city5 city0 fl6 fl5
 0
 2
-0 1 5 0
 0 0 6 5
+0 1 5 0
 1
 end_operator
 begin_operator
 fly plane5 city5 city1 fl1 fl0
 0
 2
-0 1 5 1
 0 0 1 0
+0 1 5 1
 1
 end_operator
 begin_operator
 fly plane5 city5 city1 fl2 fl1
 0
 2
-0 1 5 1
 0 0 2 1
+0 1 5 1
 1
 end_operator
 begin_operator
 fly plane5 city5 city1 fl3 fl2
 0
 2
-0 1 5 1
 0 0 3 2
+0 1 5 1
 1
 end_operator
 begin_operator
 fly plane5 city5 city1 fl4 fl3
 0
 2
-0 1 5 1
 0 0 4 3
+0 1 5 1
 1
 end_operator
 begin_operator
 fly plane5 city5 city1 fl5 fl4
 0
 2
-0 1 5 1
 0 0 5 4
+0 1 5 1
 1
 end_operator
 begin_operator
 fly plane5 city5 city1 fl6 fl5
 0
 2
-0 1 5 1
 0 0 6 5
+0 1 5 1
 1
 end_operator
 begin_operator
 fly plane5 city5 city2 fl1 fl0
 0
 2
-0 1 5 2
 0 0 1 0
+0 1 5 2
 1
 end_operator
 begin_operator
 fly plane5 city5 city2 fl2 fl1
 0
 2
-0 1 5 2
 0 0 2 1
+0 1 5 2
 1
 end_operator
 begin_operator
 fly plane5 city5 city2 fl3 fl2
 0
 2
-0 1 5 2
 0 0 3 2
+0 1 5 2
 1
 end_operator
 begin_operator
 fly plane5 city5 city2 fl4 fl3
 0
 2
-0 1 5 2
 0 0 4 3
+0 1 5 2
 1
 end_operator
 begin_operator
 fly plane5 city5 city2 fl5 fl4
 0
 2
-0 1 5 2
 0 0 5 4
+0 1 5 2
 1
 end_operator
 begin_operator
 fly plane5 city5 city2 fl6 fl5
 0
 2
-0 1 5 2
 0 0 6 5
+0 1 5 2
 1
 end_operator
 begin_operator
 fly plane5 city5 city3 fl1 fl0
 0
 2
-0 1 5 3
 0 0 1 0
+0 1 5 3
 1
 end_operator
 begin_operator
 fly plane5 city5 city3 fl2 fl1
 0
 2
-0 1 5 3
 0 0 2 1
+0 1 5 3
 1
 end_operator
 begin_operator
 fly plane5 city5 city3 fl3 fl2
 0
 2
-0 1 5 3
 0 0 3 2
+0 1 5 3
 1
 end_operator
 begin_operator
 fly plane5 city5 city3 fl4 fl3
 0
 2
-0 1 5 3
 0 0 4 3
+0 1 5 3
 1
 end_operator
 begin_operator
 fly plane5 city5 city3 fl5 fl4
 0
 2
-0 1 5 3
 0 0 5 4
+0 1 5 3
 1
 end_operator
 begin_operator
 fly plane5 city5 city3 fl6 fl5
 0
 2
-0 1 5 3
 0 0 6 5
+0 1 5 3
 1
 end_operator
 begin_operator
 fly plane5 city5 city4 fl1 fl0
 0
 2
-0 1 5 4
 0 0 1 0
+0 1 5 4
 1
 end_operator
 begin_operator
 fly plane5 city5 city4 fl2 fl1
 0
 2
-0 1 5 4
 0 0 2 1
+0 1 5 4
 1
 end_operator
 begin_operator
 fly plane5 city5 city4 fl3 fl2
 0
 2
-0 1 5 4
 0 0 3 2
+0 1 5 4
 1
 end_operator
 begin_operator
 fly plane5 city5 city4 fl4 fl3
 0
 2
-0 1 5 4
 0 0 4 3
+0 1 5 4
 1
 end_operator
 begin_operator
 fly plane5 city5 city4 fl5 fl4
 0
 2
-0 1 5 4
 0 0 5 4
+0 1 5 4
 1
 end_operator
 begin_operator
 fly plane5 city5 city4 fl6 fl5
 0
 2
-0 1 5 4
 0 0 6 5
+0 1 5 4
 1
 end_operator
 begin_operator
@@ -30271,480 +30271,480 @@ begin_operator
 fly plane5 city5 city6 fl1 fl0
 0
 2
-0 1 5 6
 0 0 1 0
+0 1 5 6
 1
 end_operator
 begin_operator
 fly plane5 city5 city6 fl2 fl1
 0
 2
-0 1 5 6
 0 0 2 1
+0 1 5 6
 1
 end_operator
 begin_operator
 fly plane5 city5 city6 fl3 fl2
 0
 2
-0 1 5 6
 0 0 3 2
+0 1 5 6
 1
 end_operator
 begin_operator
 fly plane5 city5 city6 fl4 fl3
 0
 2
-0 1 5 6
 0 0 4 3
+0 1 5 6
 1
 end_operator
 begin_operator
 fly plane5 city5 city6 fl5 fl4
 0
 2
-0 1 5 6
 0 0 5 4
+0 1 5 6
 1
 end_operator
 begin_operator
 fly plane5 city5 city6 fl6 fl5
 0
 2
-0 1 5 6
 0 0 6 5
+0 1 5 6
 1
 end_operator
 begin_operator
 fly plane5 city5 city7 fl1 fl0
 0
 2
-0 1 5 7
 0 0 1 0
+0 1 5 7
 1
 end_operator
 begin_operator
 fly plane5 city5 city7 fl2 fl1
 0
 2
-0 1 5 7
 0 0 2 1
+0 1 5 7
 1
 end_operator
 begin_operator
 fly plane5 city5 city7 fl3 fl2
 0
 2
-0 1 5 7
 0 0 3 2
+0 1 5 7
 1
 end_operator
 begin_operator
 fly plane5 city5 city7 fl4 fl3
 0
 2
-0 1 5 7
 0 0 4 3
+0 1 5 7
 1
 end_operator
 begin_operator
 fly plane5 city5 city7 fl5 fl4
 0
 2
-0 1 5 7
 0 0 5 4
+0 1 5 7
 1
 end_operator
 begin_operator
 fly plane5 city5 city7 fl6 fl5
 0
 2
-0 1 5 7
 0 0 6 5
+0 1 5 7
 1
 end_operator
 begin_operator
 fly plane5 city5 city8 fl1 fl0
 0
 2
-0 1 5 8
 0 0 1 0
+0 1 5 8
 1
 end_operator
 begin_operator
 fly plane5 city5 city8 fl2 fl1
 0
 2
-0 1 5 8
 0 0 2 1
+0 1 5 8
 1
 end_operator
 begin_operator
 fly plane5 city5 city8 fl3 fl2
 0
 2
-0 1 5 8
 0 0 3 2
+0 1 5 8
 1
 end_operator
 begin_operator
 fly plane5 city5 city8 fl4 fl3
 0
 2
-0 1 5 8
 0 0 4 3
+0 1 5 8
 1
 end_operator
 begin_operator
 fly plane5 city5 city8 fl5 fl4
 0
 2
-0 1 5 8
 0 0 5 4
+0 1 5 8
 1
 end_operator
 begin_operator
 fly plane5 city5 city8 fl6 fl5
 0
 2
-0 1 5 8
 0 0 6 5
+0 1 5 8
 1
 end_operator
 begin_operator
 fly plane5 city5 city9 fl1 fl0
 0
 2
-0 1 5 9
 0 0 1 0
+0 1 5 9
 1
 end_operator
 begin_operator
 fly plane5 city5 city9 fl2 fl1
 0
 2
-0 1 5 9
 0 0 2 1
+0 1 5 9
 1
 end_operator
 begin_operator
 fly plane5 city5 city9 fl3 fl2
 0
 2
-0 1 5 9
 0 0 3 2
+0 1 5 9
 1
 end_operator
 begin_operator
 fly plane5 city5 city9 fl4 fl3
 0
 2
-0 1 5 9
 0 0 4 3
+0 1 5 9
 1
 end_operator
 begin_operator
 fly plane5 city5 city9 fl5 fl4
 0
 2
-0 1 5 9
 0 0 5 4
+0 1 5 9
 1
 end_operator
 begin_operator
 fly plane5 city5 city9 fl6 fl5
 0
 2
-0 1 5 9
 0 0 6 5
+0 1 5 9
 1
 end_operator
 begin_operator
 fly plane5 city6 city0 fl1 fl0
 0
 2
-0 1 6 0
 0 0 1 0
+0 1 6 0
 1
 end_operator
 begin_operator
 fly plane5 city6 city0 fl2 fl1
 0
 2
-0 1 6 0
 0 0 2 1
+0 1 6 0
 1
 end_operator
 begin_operator
 fly plane5 city6 city0 fl3 fl2
 0
 2
-0 1 6 0
 0 0 3 2
+0 1 6 0
 1
 end_operator
 begin_operator
 fly plane5 city6 city0 fl4 fl3
 0
 2
-0 1 6 0
 0 0 4 3
+0 1 6 0
 1
 end_operator
 begin_operator
 fly plane5 city6 city0 fl5 fl4
 0
 2
-0 1 6 0
 0 0 5 4
+0 1 6 0
 1
 end_operator
 begin_operator
 fly plane5 city6 city0 fl6 fl5
 0
 2
-0 1 6 0
 0 0 6 5
+0 1 6 0
 1
 end_operator
 begin_operator
 fly plane5 city6 city1 fl1 fl0
 0
 2
-0 1 6 1
 0 0 1 0
+0 1 6 1
 1
 end_operator
 begin_operator
 fly plane5 city6 city1 fl2 fl1
 0
 2
-0 1 6 1
 0 0 2 1
+0 1 6 1
 1
 end_operator
 begin_operator
 fly plane5 city6 city1 fl3 fl2
 0
 2
-0 1 6 1
 0 0 3 2
+0 1 6 1
 1
 end_operator
 begin_operator
 fly plane5 city6 city1 fl4 fl3
 0
 2
-0 1 6 1
 0 0 4 3
+0 1 6 1
 1
 end_operator
 begin_operator
 fly plane5 city6 city1 fl5 fl4
 0
 2
-0 1 6 1
 0 0 5 4
+0 1 6 1
 1
 end_operator
 begin_operator
 fly plane5 city6 city1 fl6 fl5
 0
 2
-0 1 6 1
 0 0 6 5
+0 1 6 1
 1
 end_operator
 begin_operator
 fly plane5 city6 city2 fl1 fl0
 0
 2
-0 1 6 2
 0 0 1 0
+0 1 6 2
 1
 end_operator
 begin_operator
 fly plane5 city6 city2 fl2 fl1
 0
 2
-0 1 6 2
 0 0 2 1
+0 1 6 2
 1
 end_operator
 begin_operator
 fly plane5 city6 city2 fl3 fl2
 0
 2
-0 1 6 2
 0 0 3 2
+0 1 6 2
 1
 end_operator
 begin_operator
 fly plane5 city6 city2 fl4 fl3
 0
 2
-0 1 6 2
 0 0 4 3
+0 1 6 2
 1
 end_operator
 begin_operator
 fly plane5 city6 city2 fl5 fl4
 0
 2
-0 1 6 2
 0 0 5 4
+0 1 6 2
 1
 end_operator
 begin_operator
 fly plane5 city6 city2 fl6 fl5
 0
 2
-0 1 6 2
 0 0 6 5
+0 1 6 2
 1
 end_operator
 begin_operator
 fly plane5 city6 city3 fl1 fl0
 0
 2
-0 1 6 3
 0 0 1 0
+0 1 6 3
 1
 end_operator
 begin_operator
 fly plane5 city6 city3 fl2 fl1
 0
 2
-0 1 6 3
 0 0 2 1
+0 1 6 3
 1
 end_operator
 begin_operator
 fly plane5 city6 city3 fl3 fl2
 0
 2
-0 1 6 3
 0 0 3 2
+0 1 6 3
 1
 end_operator
 begin_operator
 fly plane5 city6 city3 fl4 fl3
 0
 2
-0 1 6 3
 0 0 4 3
+0 1 6 3
 1
 end_operator
 begin_operator
 fly plane5 city6 city3 fl5 fl4
 0
 2
-0 1 6 3
 0 0 5 4
+0 1 6 3
 1
 end_operator
 begin_operator
 fly plane5 city6 city3 fl6 fl5
 0
 2
-0 1 6 3
 0 0 6 5
+0 1 6 3
 1
 end_operator
 begin_operator
 fly plane5 city6 city4 fl1 fl0
 0
 2
-0 1 6 4
 0 0 1 0
+0 1 6 4
 1
 end_operator
 begin_operator
 fly plane5 city6 city4 fl2 fl1
 0
 2
-0 1 6 4
 0 0 2 1
+0 1 6 4
 1
 end_operator
 begin_operator
 fly plane5 city6 city4 fl3 fl2
 0
 2
-0 1 6 4
 0 0 3 2
+0 1 6 4
 1
 end_operator
 begin_operator
 fly plane5 city6 city4 fl4 fl3
 0
 2
-0 1 6 4
 0 0 4 3
+0 1 6 4
 1
 end_operator
 begin_operator
 fly plane5 city6 city4 fl5 fl4
 0
 2
-0 1 6 4
 0 0 5 4
+0 1 6 4
 1
 end_operator
 begin_operator
 fly plane5 city6 city4 fl6 fl5
 0
 2
-0 1 6 4
 0 0 6 5
+0 1 6 4
 1
 end_operator
 begin_operator
 fly plane5 city6 city5 fl1 fl0
 0
 2
-0 1 6 5
 0 0 1 0
+0 1 6 5
 1
 end_operator
 begin_operator
 fly plane5 city6 city5 fl2 fl1
 0
 2
-0 1 6 5
 0 0 2 1
+0 1 6 5
 1
 end_operator
 begin_operator
 fly plane5 city6 city5 fl3 fl2
 0
 2
-0 1 6 5
 0 0 3 2
+0 1 6 5
 1
 end_operator
 begin_operator
 fly plane5 city6 city5 fl4 fl3
 0
 2
-0 1 6 5
 0 0 4 3
+0 1 6 5
 1
 end_operator
 begin_operator
 fly plane5 city6 city5 fl5 fl4
 0
 2
-0 1 6 5
 0 0 5 4
+0 1 6 5
 1
 end_operator
 begin_operator
 fly plane5 city6 city5 fl6 fl5
 0
 2
-0 1 6 5
 0 0 6 5
+0 1 6 5
 1
 end_operator
 begin_operator
@@ -30799,480 +30799,480 @@ begin_operator
 fly plane5 city6 city7 fl1 fl0
 0
 2
-0 1 6 7
 0 0 1 0
+0 1 6 7
 1
 end_operator
 begin_operator
 fly plane5 city6 city7 fl2 fl1
 0
 2
-0 1 6 7
 0 0 2 1
+0 1 6 7
 1
 end_operator
 begin_operator
 fly plane5 city6 city7 fl3 fl2
 0
 2
-0 1 6 7
 0 0 3 2
+0 1 6 7
 1
 end_operator
 begin_operator
 fly plane5 city6 city7 fl4 fl3
 0
 2
-0 1 6 7
 0 0 4 3
+0 1 6 7
 1
 end_operator
 begin_operator
 fly plane5 city6 city7 fl5 fl4
 0
 2
-0 1 6 7
 0 0 5 4
+0 1 6 7
 1
 end_operator
 begin_operator
 fly plane5 city6 city7 fl6 fl5
 0
 2
-0 1 6 7
 0 0 6 5
+0 1 6 7
 1
 end_operator
 begin_operator
 fly plane5 city6 city8 fl1 fl0
 0
 2
-0 1 6 8
 0 0 1 0
+0 1 6 8
 1
 end_operator
 begin_operator
 fly plane5 city6 city8 fl2 fl1
 0
 2
-0 1 6 8
 0 0 2 1
+0 1 6 8
 1
 end_operator
 begin_operator
 fly plane5 city6 city8 fl3 fl2
 0
 2
-0 1 6 8
 0 0 3 2
+0 1 6 8
 1
 end_operator
 begin_operator
 fly plane5 city6 city8 fl4 fl3
 0
 2
-0 1 6 8
 0 0 4 3
+0 1 6 8
 1
 end_operator
 begin_operator
 fly plane5 city6 city8 fl5 fl4
 0
 2
-0 1 6 8
 0 0 5 4
+0 1 6 8
 1
 end_operator
 begin_operator
 fly plane5 city6 city8 fl6 fl5
 0
 2
-0 1 6 8
 0 0 6 5
+0 1 6 8
 1
 end_operator
 begin_operator
 fly plane5 city6 city9 fl1 fl0
 0
 2
-0 1 6 9
 0 0 1 0
+0 1 6 9
 1
 end_operator
 begin_operator
 fly plane5 city6 city9 fl2 fl1
 0
 2
-0 1 6 9
 0 0 2 1
+0 1 6 9
 1
 end_operator
 begin_operator
 fly plane5 city6 city9 fl3 fl2
 0
 2
-0 1 6 9
 0 0 3 2
+0 1 6 9
 1
 end_operator
 begin_operator
 fly plane5 city6 city9 fl4 fl3
 0
 2
-0 1 6 9
 0 0 4 3
+0 1 6 9
 1
 end_operator
 begin_operator
 fly plane5 city6 city9 fl5 fl4
 0
 2
-0 1 6 9
 0 0 5 4
+0 1 6 9
 1
 end_operator
 begin_operator
 fly plane5 city6 city9 fl6 fl5
 0
 2
-0 1 6 9
 0 0 6 5
+0 1 6 9
 1
 end_operator
 begin_operator
 fly plane5 city7 city0 fl1 fl0
 0
 2
-0 1 7 0
 0 0 1 0
+0 1 7 0
 1
 end_operator
 begin_operator
 fly plane5 city7 city0 fl2 fl1
 0
 2
-0 1 7 0
 0 0 2 1
+0 1 7 0
 1
 end_operator
 begin_operator
 fly plane5 city7 city0 fl3 fl2
 0
 2
-0 1 7 0
 0 0 3 2
+0 1 7 0
 1
 end_operator
 begin_operator
 fly plane5 city7 city0 fl4 fl3
 0
 2
-0 1 7 0
 0 0 4 3
+0 1 7 0
 1
 end_operator
 begin_operator
 fly plane5 city7 city0 fl5 fl4
 0
 2
-0 1 7 0
 0 0 5 4
+0 1 7 0
 1
 end_operator
 begin_operator
 fly plane5 city7 city0 fl6 fl5
 0
 2
-0 1 7 0
 0 0 6 5
+0 1 7 0
 1
 end_operator
 begin_operator
 fly plane5 city7 city1 fl1 fl0
 0
 2
-0 1 7 1
 0 0 1 0
+0 1 7 1
 1
 end_operator
 begin_operator
 fly plane5 city7 city1 fl2 fl1
 0
 2
-0 1 7 1
 0 0 2 1
+0 1 7 1
 1
 end_operator
 begin_operator
 fly plane5 city7 city1 fl3 fl2
 0
 2
-0 1 7 1
 0 0 3 2
+0 1 7 1
 1
 end_operator
 begin_operator
 fly plane5 city7 city1 fl4 fl3
 0
 2
-0 1 7 1
 0 0 4 3
+0 1 7 1
 1
 end_operator
 begin_operator
 fly plane5 city7 city1 fl5 fl4
 0
 2
-0 1 7 1
 0 0 5 4
+0 1 7 1
 1
 end_operator
 begin_operator
 fly plane5 city7 city1 fl6 fl5
 0
 2
-0 1 7 1
 0 0 6 5
+0 1 7 1
 1
 end_operator
 begin_operator
 fly plane5 city7 city2 fl1 fl0
 0
 2
-0 1 7 2
 0 0 1 0
+0 1 7 2
 1
 end_operator
 begin_operator
 fly plane5 city7 city2 fl2 fl1
 0
 2
-0 1 7 2
 0 0 2 1
+0 1 7 2
 1
 end_operator
 begin_operator
 fly plane5 city7 city2 fl3 fl2
 0
 2
-0 1 7 2
 0 0 3 2
+0 1 7 2
 1
 end_operator
 begin_operator
 fly plane5 city7 city2 fl4 fl3
 0
 2
-0 1 7 2
 0 0 4 3
+0 1 7 2
 1
 end_operator
 begin_operator
 fly plane5 city7 city2 fl5 fl4
 0
 2
-0 1 7 2
 0 0 5 4
+0 1 7 2
 1
 end_operator
 begin_operator
 fly plane5 city7 city2 fl6 fl5
 0
 2
-0 1 7 2
 0 0 6 5
+0 1 7 2
 1
 end_operator
 begin_operator
 fly plane5 city7 city3 fl1 fl0
 0
 2
-0 1 7 3
 0 0 1 0
+0 1 7 3
 1
 end_operator
 begin_operator
 fly plane5 city7 city3 fl2 fl1
 0
 2
-0 1 7 3
 0 0 2 1
+0 1 7 3
 1
 end_operator
 begin_operator
 fly plane5 city7 city3 fl3 fl2
 0
 2
-0 1 7 3
 0 0 3 2
+0 1 7 3
 1
 end_operator
 begin_operator
 fly plane5 city7 city3 fl4 fl3
 0
 2
-0 1 7 3
 0 0 4 3
+0 1 7 3
 1
 end_operator
 begin_operator
 fly plane5 city7 city3 fl5 fl4
 0
 2
-0 1 7 3
 0 0 5 4
+0 1 7 3
 1
 end_operator
 begin_operator
 fly plane5 city7 city3 fl6 fl5
 0
 2
-0 1 7 3
 0 0 6 5
+0 1 7 3
 1
 end_operator
 begin_operator
 fly plane5 city7 city4 fl1 fl0
 0
 2
-0 1 7 4
 0 0 1 0
+0 1 7 4
 1
 end_operator
 begin_operator
 fly plane5 city7 city4 fl2 fl1
 0
 2
-0 1 7 4
 0 0 2 1
+0 1 7 4
 1
 end_operator
 begin_operator
 fly plane5 city7 city4 fl3 fl2
 0
 2
-0 1 7 4
 0 0 3 2
+0 1 7 4
 1
 end_operator
 begin_operator
 fly plane5 city7 city4 fl4 fl3
 0
 2
-0 1 7 4
 0 0 4 3
+0 1 7 4
 1
 end_operator
 begin_operator
 fly plane5 city7 city4 fl5 fl4
 0
 2
-0 1 7 4
 0 0 5 4
+0 1 7 4
 1
 end_operator
 begin_operator
 fly plane5 city7 city4 fl6 fl5
 0
 2
-0 1 7 4
 0 0 6 5
+0 1 7 4
 1
 end_operator
 begin_operator
 fly plane5 city7 city5 fl1 fl0
 0
 2
-0 1 7 5
 0 0 1 0
+0 1 7 5
 1
 end_operator
 begin_operator
 fly plane5 city7 city5 fl2 fl1
 0
 2
-0 1 7 5
 0 0 2 1
+0 1 7 5
 1
 end_operator
 begin_operator
 fly plane5 city7 city5 fl3 fl2
 0
 2
-0 1 7 5
 0 0 3 2
+0 1 7 5
 1
 end_operator
 begin_operator
 fly plane5 city7 city5 fl4 fl3
 0
 2
-0 1 7 5
 0 0 4 3
+0 1 7 5
 1
 end_operator
 begin_operator
 fly plane5 city7 city5 fl5 fl4
 0
 2
-0 1 7 5
 0 0 5 4
+0 1 7 5
 1
 end_operator
 begin_operator
 fly plane5 city7 city5 fl6 fl5
 0
 2
-0 1 7 5
 0 0 6 5
+0 1 7 5
 1
 end_operator
 begin_operator
 fly plane5 city7 city6 fl1 fl0
 0
 2
-0 1 7 6
 0 0 1 0
+0 1 7 6
 1
 end_operator
 begin_operator
 fly plane5 city7 city6 fl2 fl1
 0
 2
-0 1 7 6
 0 0 2 1
+0 1 7 6
 1
 end_operator
 begin_operator
 fly plane5 city7 city6 fl3 fl2
 0
 2
-0 1 7 6
 0 0 3 2
+0 1 7 6
 1
 end_operator
 begin_operator
 fly plane5 city7 city6 fl4 fl3
 0
 2
-0 1 7 6
 0 0 4 3
+0 1 7 6
 1
 end_operator
 begin_operator
 fly plane5 city7 city6 fl5 fl4
 0
 2
-0 1 7 6
 0 0 5 4
+0 1 7 6
 1
 end_operator
 begin_operator
 fly plane5 city7 city6 fl6 fl5
 0
 2
-0 1 7 6
 0 0 6 5
+0 1 7 6
 1
 end_operator
 begin_operator
@@ -31327,480 +31327,480 @@ begin_operator
 fly plane5 city7 city8 fl1 fl0
 0
 2
-0 1 7 8
 0 0 1 0
+0 1 7 8
 1
 end_operator
 begin_operator
 fly plane5 city7 city8 fl2 fl1
 0
 2
-0 1 7 8
 0 0 2 1
+0 1 7 8
 1
 end_operator
 begin_operator
 fly plane5 city7 city8 fl3 fl2
 0
 2
-0 1 7 8
 0 0 3 2
+0 1 7 8
 1
 end_operator
 begin_operator
 fly plane5 city7 city8 fl4 fl3
 0
 2
-0 1 7 8
 0 0 4 3
+0 1 7 8
 1
 end_operator
 begin_operator
 fly plane5 city7 city8 fl5 fl4
 0
 2
-0 1 7 8
 0 0 5 4
+0 1 7 8
 1
 end_operator
 begin_operator
 fly plane5 city7 city8 fl6 fl5
 0
 2
-0 1 7 8
 0 0 6 5
+0 1 7 8
 1
 end_operator
 begin_operator
 fly plane5 city7 city9 fl1 fl0
 0
 2
-0 1 7 9
 0 0 1 0
+0 1 7 9
 1
 end_operator
 begin_operator
 fly plane5 city7 city9 fl2 fl1
 0
 2
-0 1 7 9
 0 0 2 1
+0 1 7 9
 1
 end_operator
 begin_operator
 fly plane5 city7 city9 fl3 fl2
 0
 2
-0 1 7 9
 0 0 3 2
+0 1 7 9
 1
 end_operator
 begin_operator
 fly plane5 city7 city9 fl4 fl3
 0
 2
-0 1 7 9
 0 0 4 3
+0 1 7 9
 1
 end_operator
 begin_operator
 fly plane5 city7 city9 fl5 fl4
 0
 2
-0 1 7 9
 0 0 5 4
+0 1 7 9
 1
 end_operator
 begin_operator
 fly plane5 city7 city9 fl6 fl5
 0
 2
-0 1 7 9
 0 0 6 5
+0 1 7 9
 1
 end_operator
 begin_operator
 fly plane5 city8 city0 fl1 fl0
 0
 2
-0 1 8 0
 0 0 1 0
+0 1 8 0
 1
 end_operator
 begin_operator
 fly plane5 city8 city0 fl2 fl1
 0
 2
-0 1 8 0
 0 0 2 1
+0 1 8 0
 1
 end_operator
 begin_operator
 fly plane5 city8 city0 fl3 fl2
 0
 2
-0 1 8 0
 0 0 3 2
+0 1 8 0
 1
 end_operator
 begin_operator
 fly plane5 city8 city0 fl4 fl3
 0
 2
-0 1 8 0
 0 0 4 3
+0 1 8 0
 1
 end_operator
 begin_operator
 fly plane5 city8 city0 fl5 fl4
 0
 2
-0 1 8 0
 0 0 5 4
+0 1 8 0
 1
 end_operator
 begin_operator
 fly plane5 city8 city0 fl6 fl5
 0
 2
-0 1 8 0
 0 0 6 5
+0 1 8 0
 1
 end_operator
 begin_operator
 fly plane5 city8 city1 fl1 fl0
 0
 2
-0 1 8 1
 0 0 1 0
+0 1 8 1
 1
 end_operator
 begin_operator
 fly plane5 city8 city1 fl2 fl1
 0
 2
-0 1 8 1
 0 0 2 1
+0 1 8 1
 1
 end_operator
 begin_operator
 fly plane5 city8 city1 fl3 fl2
 0
 2
-0 1 8 1
 0 0 3 2
+0 1 8 1
 1
 end_operator
 begin_operator
 fly plane5 city8 city1 fl4 fl3
 0
 2
-0 1 8 1
 0 0 4 3
+0 1 8 1
 1
 end_operator
 begin_operator
 fly plane5 city8 city1 fl5 fl4
 0
 2
-0 1 8 1
 0 0 5 4
+0 1 8 1
 1
 end_operator
 begin_operator
 fly plane5 city8 city1 fl6 fl5
 0
 2
-0 1 8 1
 0 0 6 5
+0 1 8 1
 1
 end_operator
 begin_operator
 fly plane5 city8 city2 fl1 fl0
 0
 2
-0 1 8 2
 0 0 1 0
+0 1 8 2
 1
 end_operator
 begin_operator
 fly plane5 city8 city2 fl2 fl1
 0
 2
-0 1 8 2
 0 0 2 1
+0 1 8 2
 1
 end_operator
 begin_operator
 fly plane5 city8 city2 fl3 fl2
 0
 2
-0 1 8 2
 0 0 3 2
+0 1 8 2
 1
 end_operator
 begin_operator
 fly plane5 city8 city2 fl4 fl3
 0
 2
-0 1 8 2
 0 0 4 3
+0 1 8 2
 1
 end_operator
 begin_operator
 fly plane5 city8 city2 fl5 fl4
 0
 2
-0 1 8 2
 0 0 5 4
+0 1 8 2
 1
 end_operator
 begin_operator
 fly plane5 city8 city2 fl6 fl5
 0
 2
-0 1 8 2
 0 0 6 5
+0 1 8 2
 1
 end_operator
 begin_operator
 fly plane5 city8 city3 fl1 fl0
 0
 2
-0 1 8 3
 0 0 1 0
+0 1 8 3
 1
 end_operator
 begin_operator
 fly plane5 city8 city3 fl2 fl1
 0
 2
-0 1 8 3
 0 0 2 1
+0 1 8 3
 1
 end_operator
 begin_operator
 fly plane5 city8 city3 fl3 fl2
 0
 2
-0 1 8 3
 0 0 3 2
+0 1 8 3
 1
 end_operator
 begin_operator
 fly plane5 city8 city3 fl4 fl3
 0
 2
-0 1 8 3
 0 0 4 3
+0 1 8 3
 1
 end_operator
 begin_operator
 fly plane5 city8 city3 fl5 fl4
 0
 2
-0 1 8 3
 0 0 5 4
+0 1 8 3
 1
 end_operator
 begin_operator
 fly plane5 city8 city3 fl6 fl5
 0
 2
-0 1 8 3
 0 0 6 5
+0 1 8 3
 1
 end_operator
 begin_operator
 fly plane5 city8 city4 fl1 fl0
 0
 2
-0 1 8 4
 0 0 1 0
+0 1 8 4
 1
 end_operator
 begin_operator
 fly plane5 city8 city4 fl2 fl1
 0
 2
-0 1 8 4
 0 0 2 1
+0 1 8 4
 1
 end_operator
 begin_operator
 fly plane5 city8 city4 fl3 fl2
 0
 2
-0 1 8 4
 0 0 3 2
+0 1 8 4
 1
 end_operator
 begin_operator
 fly plane5 city8 city4 fl4 fl3
 0
 2
-0 1 8 4
 0 0 4 3
+0 1 8 4
 1
 end_operator
 begin_operator
 fly plane5 city8 city4 fl5 fl4
 0
 2
-0 1 8 4
 0 0 5 4
+0 1 8 4
 1
 end_operator
 begin_operator
 fly plane5 city8 city4 fl6 fl5
 0
 2
-0 1 8 4
 0 0 6 5
+0 1 8 4
 1
 end_operator
 begin_operator
 fly plane5 city8 city5 fl1 fl0
 0
 2
-0 1 8 5
 0 0 1 0
+0 1 8 5
 1
 end_operator
 begin_operator
 fly plane5 city8 city5 fl2 fl1
 0
 2
-0 1 8 5
 0 0 2 1
+0 1 8 5
 1
 end_operator
 begin_operator
 fly plane5 city8 city5 fl3 fl2
 0
 2
-0 1 8 5
 0 0 3 2
+0 1 8 5
 1
 end_operator
 begin_operator
 fly plane5 city8 city5 fl4 fl3
 0
 2
-0 1 8 5
 0 0 4 3
+0 1 8 5
 1
 end_operator
 begin_operator
 fly plane5 city8 city5 fl5 fl4
 0
 2
-0 1 8 5
 0 0 5 4
+0 1 8 5
 1
 end_operator
 begin_operator
 fly plane5 city8 city5 fl6 fl5
 0
 2
-0 1 8 5
 0 0 6 5
+0 1 8 5
 1
 end_operator
 begin_operator
 fly plane5 city8 city6 fl1 fl0
 0
 2
-0 1 8 6
 0 0 1 0
+0 1 8 6
 1
 end_operator
 begin_operator
 fly plane5 city8 city6 fl2 fl1
 0
 2
-0 1 8 6
 0 0 2 1
+0 1 8 6
 1
 end_operator
 begin_operator
 fly plane5 city8 city6 fl3 fl2
 0
 2
-0 1 8 6
 0 0 3 2
+0 1 8 6
 1
 end_operator
 begin_operator
 fly plane5 city8 city6 fl4 fl3
 0
 2
-0 1 8 6
 0 0 4 3
+0 1 8 6
 1
 end_operator
 begin_operator
 fly plane5 city8 city6 fl5 fl4
 0
 2
-0 1 8 6
 0 0 5 4
+0 1 8 6
 1
 end_operator
 begin_operator
 fly plane5 city8 city6 fl6 fl5
 0
 2
-0 1 8 6
 0 0 6 5
+0 1 8 6
 1
 end_operator
 begin_operator
 fly plane5 city8 city7 fl1 fl0
 0
 2
-0 1 8 7
 0 0 1 0
+0 1 8 7
 1
 end_operator
 begin_operator
 fly plane5 city8 city7 fl2 fl1
 0
 2
-0 1 8 7
 0 0 2 1
+0 1 8 7
 1
 end_operator
 begin_operator
 fly plane5 city8 city7 fl3 fl2
 0
 2
-0 1 8 7
 0 0 3 2
+0 1 8 7
 1
 end_operator
 begin_operator
 fly plane5 city8 city7 fl4 fl3
 0
 2
-0 1 8 7
 0 0 4 3
+0 1 8 7
 1
 end_operator
 begin_operator
 fly plane5 city8 city7 fl5 fl4
 0
 2
-0 1 8 7
 0 0 5 4
+0 1 8 7
 1
 end_operator
 begin_operator
 fly plane5 city8 city7 fl6 fl5
 0
 2
-0 1 8 7
 0 0 6 5
+0 1 8 7
 1
 end_operator
 begin_operator
@@ -31855,480 +31855,480 @@ begin_operator
 fly plane5 city8 city9 fl1 fl0
 0
 2
-0 1 8 9
 0 0 1 0
+0 1 8 9
 1
 end_operator
 begin_operator
 fly plane5 city8 city9 fl2 fl1
 0
 2
-0 1 8 9
 0 0 2 1
+0 1 8 9
 1
 end_operator
 begin_operator
 fly plane5 city8 city9 fl3 fl2
 0
 2
-0 1 8 9
 0 0 3 2
+0 1 8 9
 1
 end_operator
 begin_operator
 fly plane5 city8 city9 fl4 fl3
 0
 2
-0 1 8 9
 0 0 4 3
+0 1 8 9
 1
 end_operator
 begin_operator
 fly plane5 city8 city9 fl5 fl4
 0
 2
-0 1 8 9
 0 0 5 4
+0 1 8 9
 1
 end_operator
 begin_operator
 fly plane5 city8 city9 fl6 fl5
 0
 2
-0 1 8 9
 0 0 6 5
+0 1 8 9
 1
 end_operator
 begin_operator
 fly plane5 city9 city0 fl1 fl0
 0
 2
-0 1 9 0
 0 0 1 0
+0 1 9 0
 1
 end_operator
 begin_operator
 fly plane5 city9 city0 fl2 fl1
 0
 2
-0 1 9 0
 0 0 2 1
+0 1 9 0
 1
 end_operator
 begin_operator
 fly plane5 city9 city0 fl3 fl2
 0
 2
-0 1 9 0
 0 0 3 2
+0 1 9 0
 1
 end_operator
 begin_operator
 fly plane5 city9 city0 fl4 fl3
 0
 2
-0 1 9 0
 0 0 4 3
+0 1 9 0
 1
 end_operator
 begin_operator
 fly plane5 city9 city0 fl5 fl4
 0
 2
-0 1 9 0
 0 0 5 4
+0 1 9 0
 1
 end_operator
 begin_operator
 fly plane5 city9 city0 fl6 fl5
 0
 2
-0 1 9 0
 0 0 6 5
+0 1 9 0
 1
 end_operator
 begin_operator
 fly plane5 city9 city1 fl1 fl0
 0
 2
-0 1 9 1
 0 0 1 0
+0 1 9 1
 1
 end_operator
 begin_operator
 fly plane5 city9 city1 fl2 fl1
 0
 2
-0 1 9 1
 0 0 2 1
+0 1 9 1
 1
 end_operator
 begin_operator
 fly plane5 city9 city1 fl3 fl2
 0
 2
-0 1 9 1
 0 0 3 2
+0 1 9 1
 1
 end_operator
 begin_operator
 fly plane5 city9 city1 fl4 fl3
 0
 2
-0 1 9 1
 0 0 4 3
+0 1 9 1
 1
 end_operator
 begin_operator
 fly plane5 city9 city1 fl5 fl4
 0
 2
-0 1 9 1
 0 0 5 4
+0 1 9 1
 1
 end_operator
 begin_operator
 fly plane5 city9 city1 fl6 fl5
 0
 2
-0 1 9 1
 0 0 6 5
+0 1 9 1
 1
 end_operator
 begin_operator
 fly plane5 city9 city2 fl1 fl0
 0
 2
-0 1 9 2
 0 0 1 0
+0 1 9 2
 1
 end_operator
 begin_operator
 fly plane5 city9 city2 fl2 fl1
 0
 2
-0 1 9 2
 0 0 2 1
+0 1 9 2
 1
 end_operator
 begin_operator
 fly plane5 city9 city2 fl3 fl2
 0
 2
-0 1 9 2
 0 0 3 2
+0 1 9 2
 1
 end_operator
 begin_operator
 fly plane5 city9 city2 fl4 fl3
 0
 2
-0 1 9 2
 0 0 4 3
+0 1 9 2
 1
 end_operator
 begin_operator
 fly plane5 city9 city2 fl5 fl4
 0
 2
-0 1 9 2
 0 0 5 4
+0 1 9 2
 1
 end_operator
 begin_operator
 fly plane5 city9 city2 fl6 fl5
 0
 2
-0 1 9 2
 0 0 6 5
+0 1 9 2
 1
 end_operator
 begin_operator
 fly plane5 city9 city3 fl1 fl0
 0
 2
-0 1 9 3
 0 0 1 0
+0 1 9 3
 1
 end_operator
 begin_operator
 fly plane5 city9 city3 fl2 fl1
 0
 2
-0 1 9 3
 0 0 2 1
+0 1 9 3
 1
 end_operator
 begin_operator
 fly plane5 city9 city3 fl3 fl2
 0
 2
-0 1 9 3
 0 0 3 2
+0 1 9 3
 1
 end_operator
 begin_operator
 fly plane5 city9 city3 fl4 fl3
 0
 2
-0 1 9 3
 0 0 4 3
+0 1 9 3
 1
 end_operator
 begin_operator
 fly plane5 city9 city3 fl5 fl4
 0
 2
-0 1 9 3
 0 0 5 4
+0 1 9 3
 1
 end_operator
 begin_operator
 fly plane5 city9 city3 fl6 fl5
 0
 2
-0 1 9 3
 0 0 6 5
+0 1 9 3
 1
 end_operator
 begin_operator
 fly plane5 city9 city4 fl1 fl0
 0
 2
-0 1 9 4
 0 0 1 0
+0 1 9 4
 1
 end_operator
 begin_operator
 fly plane5 city9 city4 fl2 fl1
 0
 2
-0 1 9 4
 0 0 2 1
+0 1 9 4
 1
 end_operator
 begin_operator
 fly plane5 city9 city4 fl3 fl2
 0
 2
-0 1 9 4
 0 0 3 2
+0 1 9 4
 1
 end_operator
 begin_operator
 fly plane5 city9 city4 fl4 fl3
 0
 2
-0 1 9 4
 0 0 4 3
+0 1 9 4
 1
 end_operator
 begin_operator
 fly plane5 city9 city4 fl5 fl4
 0
 2
-0 1 9 4
 0 0 5 4
+0 1 9 4
 1
 end_operator
 begin_operator
 fly plane5 city9 city4 fl6 fl5
 0
 2
-0 1 9 4
 0 0 6 5
+0 1 9 4
 1
 end_operator
 begin_operator
 fly plane5 city9 city5 fl1 fl0
 0
 2
-0 1 9 5
 0 0 1 0
+0 1 9 5
 1
 end_operator
 begin_operator
 fly plane5 city9 city5 fl2 fl1
 0
 2
-0 1 9 5
 0 0 2 1
+0 1 9 5
 1
 end_operator
 begin_operator
 fly plane5 city9 city5 fl3 fl2
 0
 2
-0 1 9 5
 0 0 3 2
+0 1 9 5
 1
 end_operator
 begin_operator
 fly plane5 city9 city5 fl4 fl3
 0
 2
-0 1 9 5
 0 0 4 3
+0 1 9 5
 1
 end_operator
 begin_operator
 fly plane5 city9 city5 fl5 fl4
 0
 2
-0 1 9 5
 0 0 5 4
+0 1 9 5
 1
 end_operator
 begin_operator
 fly plane5 city9 city5 fl6 fl5
 0
 2
-0 1 9 5
 0 0 6 5
+0 1 9 5
 1
 end_operator
 begin_operator
 fly plane5 city9 city6 fl1 fl0
 0
 2
-0 1 9 6
 0 0 1 0
+0 1 9 6
 1
 end_operator
 begin_operator
 fly plane5 city9 city6 fl2 fl1
 0
 2
-0 1 9 6
 0 0 2 1
+0 1 9 6
 1
 end_operator
 begin_operator
 fly plane5 city9 city6 fl3 fl2
 0
 2
-0 1 9 6
 0 0 3 2
+0 1 9 6
 1
 end_operator
 begin_operator
 fly plane5 city9 city6 fl4 fl3
 0
 2
-0 1 9 6
 0 0 4 3
+0 1 9 6
 1
 end_operator
 begin_operator
 fly plane5 city9 city6 fl5 fl4
 0
 2
-0 1 9 6
 0 0 5 4
+0 1 9 6
 1
 end_operator
 begin_operator
 fly plane5 city9 city6 fl6 fl5
 0
 2
-0 1 9 6
 0 0 6 5
+0 1 9 6
 1
 end_operator
 begin_operator
 fly plane5 city9 city7 fl1 fl0
 0
 2
-0 1 9 7
 0 0 1 0
+0 1 9 7
 1
 end_operator
 begin_operator
 fly plane5 city9 city7 fl2 fl1
 0
 2
-0 1 9 7
 0 0 2 1
+0 1 9 7
 1
 end_operator
 begin_operator
 fly plane5 city9 city7 fl3 fl2
 0
 2
-0 1 9 7
 0 0 3 2
+0 1 9 7
 1
 end_operator
 begin_operator
 fly plane5 city9 city7 fl4 fl3
 0
 2
-0 1 9 7
 0 0 4 3
+0 1 9 7
 1
 end_operator
 begin_operator
 fly plane5 city9 city7 fl5 fl4
 0
 2
-0 1 9 7
 0 0 5 4
+0 1 9 7
 1
 end_operator
 begin_operator
 fly plane5 city9 city7 fl6 fl5
 0
 2
-0 1 9 7
 0 0 6 5
+0 1 9 7
 1
 end_operator
 begin_operator
 fly plane5 city9 city8 fl1 fl0
 0
 2
-0 1 9 8
 0 0 1 0
+0 1 9 8
 1
 end_operator
 begin_operator
 fly plane5 city9 city8 fl2 fl1
 0
 2
-0 1 9 8
 0 0 2 1
+0 1 9 8
 1
 end_operator
 begin_operator
 fly plane5 city9 city8 fl3 fl2
 0
 2
-0 1 9 8
 0 0 3 2
+0 1 9 8
 1
 end_operator
 begin_operator
 fly plane5 city9 city8 fl4 fl3
 0
 2
-0 1 9 8
 0 0 4 3
+0 1 9 8
 1
 end_operator
 begin_operator
 fly plane5 city9 city8 fl5 fl4
 0
 2
-0 1 9 8
 0 0 5 4
+0 1 9 8
 1
 end_operator
 begin_operator
 fly plane5 city9 city8 fl6 fl5
 0
 2
-0 1 9 8
 0 0 6 5
+0 1 9 8
 1
 end_operator
 begin_operator
@@ -38823,400 +38823,400 @@ begin_operator
 zoom plane2 city0 city1 fl2 fl1 fl0
 0
 2
-0 7 0 1
 0 6 2 0
+0 7 0 1
 1
 end_operator
 begin_operator
 zoom plane2 city0 city1 fl3 fl2 fl1
 0
 2
-0 7 0 1
 0 6 3 1
+0 7 0 1
 1
 end_operator
 begin_operator
 zoom plane2 city0 city1 fl4 fl3 fl2
 0
 2
-0 7 0 1
 0 6 4 2
+0 7 0 1
 1
 end_operator
 begin_operator
 zoom plane2 city0 city1 fl5 fl4 fl3
 0
 2
-0 7 0 1
 0 6 5 3
+0 7 0 1
 1
 end_operator
 begin_operator
 zoom plane2 city0 city1 fl6 fl5 fl4
 0
 2
-0 7 0 1
 0 6 6 4
+0 7 0 1
 1
 end_operator
 begin_operator
 zoom plane2 city0 city2 fl2 fl1 fl0
 0
 2
-0 7 0 2
 0 6 2 0
+0 7 0 2
 1
 end_operator
 begin_operator
 zoom plane2 city0 city2 fl3 fl2 fl1
 0
 2
-0 7 0 2
 0 6 3 1
+0 7 0 2
 1
 end_operator
 begin_operator
 zoom plane2 city0 city2 fl4 fl3 fl2
 0
 2
-0 7 0 2
 0 6 4 2
+0 7 0 2
 1
 end_operator
 begin_operator
 zoom plane2 city0 city2 fl5 fl4 fl3
 0
 2
-0 7 0 2
 0 6 5 3
+0 7 0 2
 1
 end_operator
 begin_operator
 zoom plane2 city0 city2 fl6 fl5 fl4
 0
 2
-0 7 0 2
 0 6 6 4
+0 7 0 2
 1
 end_operator
 begin_operator
 zoom plane2 city0 city3 fl2 fl1 fl0
 0
 2
-0 7 0 3
 0 6 2 0
+0 7 0 3
 1
 end_operator
 begin_operator
 zoom plane2 city0 city3 fl3 fl2 fl1
 0
 2
-0 7 0 3
 0 6 3 1
+0 7 0 3
 1
 end_operator
 begin_operator
 zoom plane2 city0 city3 fl4 fl3 fl2
 0
 2
-0 7 0 3
 0 6 4 2
+0 7 0 3
 1
 end_operator
 begin_operator
 zoom plane2 city0 city3 fl5 fl4 fl3
 0
 2
-0 7 0 3
 0 6 5 3
+0 7 0 3
 1
 end_operator
 begin_operator
 zoom plane2 city0 city3 fl6 fl5 fl4
 0
 2
-0 7 0 3
 0 6 6 4
+0 7 0 3
 1
 end_operator
 begin_operator
 zoom plane2 city0 city4 fl2 fl1 fl0
 0
 2
-0 7 0 4
 0 6 2 0
+0 7 0 4
 1
 end_operator
 begin_operator
 zoom plane2 city0 city4 fl3 fl2 fl1
 0
 2
-0 7 0 4
 0 6 3 1
+0 7 0 4
 1
 end_operator
 begin_operator
 zoom plane2 city0 city4 fl4 fl3 fl2
 0
 2
-0 7 0 4
 0 6 4 2
+0 7 0 4
 1
 end_operator
 begin_operator
 zoom plane2 city0 city4 fl5 fl4 fl3
 0
 2
-0 7 0 4
 0 6 5 3
+0 7 0 4
 1
 end_operator
 begin_operator
 zoom plane2 city0 city4 fl6 fl5 fl4
 0
 2
-0 7 0 4
 0 6 6 4
+0 7 0 4
 1
 end_operator
 begin_operator
 zoom plane2 city0 city5 fl2 fl1 fl0
 0
 2
-0 7 0 5
 0 6 2 0
+0 7 0 5
 1
 end_operator
 begin_operator
 zoom plane2 city0 city5 fl3 fl2 fl1
 0
 2
-0 7 0 5
 0 6 3 1
+0 7 0 5
 1
 end_operator
 begin_operator
 zoom plane2 city0 city5 fl4 fl3 fl2
 0
 2
-0 7 0 5
 0 6 4 2
+0 7 0 5
 1
 end_operator
 begin_operator
 zoom plane2 city0 city5 fl5 fl4 fl3
 0
 2
-0 7 0 5
 0 6 5 3
+0 7 0 5
 1
 end_operator
 begin_operator
 zoom plane2 city0 city5 fl6 fl5 fl4
 0
 2
-0 7 0 5
 0 6 6 4
+0 7 0 5
 1
 end_operator
 begin_operator
 zoom plane2 city0 city6 fl2 fl1 fl0
 0
 2
-0 7 0 6
 0 6 2 0
+0 7 0 6
 1
 end_operator
 begin_operator
 zoom plane2 city0 city6 fl3 fl2 fl1
 0
 2
-0 7 0 6
 0 6 3 1
+0 7 0 6
 1
 end_operator
 begin_operator
 zoom plane2 city0 city6 fl4 fl3 fl2
 0
 2
-0 7 0 6
 0 6 4 2
+0 7 0 6
 1
 end_operator
 begin_operator
 zoom plane2 city0 city6 fl5 fl4 fl3
 0
 2
-0 7 0 6
 0 6 5 3
+0 7 0 6
 1
 end_operator
 begin_operator
 zoom plane2 city0 city6 fl6 fl5 fl4
 0
 2
-0 7 0 6
 0 6 6 4
+0 7 0 6
 1
 end_operator
 begin_operator
 zoom plane2 city0 city7 fl2 fl1 fl0
 0
 2
-0 7 0 7
 0 6 2 0
+0 7 0 7
 1
 end_operator
 begin_operator
 zoom plane2 city0 city7 fl3 fl2 fl1
 0
 2
-0 7 0 7
 0 6 3 1
+0 7 0 7
 1
 end_operator
 begin_operator
 zoom plane2 city0 city7 fl4 fl3 fl2
 0
 2
-0 7 0 7
 0 6 4 2
+0 7 0 7
 1
 end_operator
 begin_operator
 zoom plane2 city0 city7 fl5 fl4 fl3
 0
 2
-0 7 0 7
 0 6 5 3
+0 7 0 7
 1
 end_operator
 begin_operator
 zoom plane2 city0 city7 fl6 fl5 fl4
 0
 2
-0 7 0 7
 0 6 6 4
+0 7 0 7
 1
 end_operator
 begin_operator
 zoom plane2 city0 city8 fl2 fl1 fl0
 0
 2
-0 7 0 8
 0 6 2 0
+0 7 0 8
 1
 end_operator
 begin_operator
 zoom plane2 city0 city8 fl3 fl2 fl1
 0
 2
-0 7 0 8
 0 6 3 1
+0 7 0 8
 1
 end_operator
 begin_operator
 zoom plane2 city0 city8 fl4 fl3 fl2
 0
 2
-0 7 0 8
 0 6 4 2
+0 7 0 8
 1
 end_operator
 begin_operator
 zoom plane2 city0 city8 fl5 fl4 fl3
 0
 2
-0 7 0 8
 0 6 5 3
+0 7 0 8
 1
 end_operator
 begin_operator
 zoom plane2 city0 city8 fl6 fl5 fl4
 0
 2
-0 7 0 8
 0 6 6 4
+0 7 0 8
 1
 end_operator
 begin_operator
 zoom plane2 city0 city9 fl2 fl1 fl0
 0
 2
-0 7 0 9
 0 6 2 0
+0 7 0 9
 1
 end_operator
 begin_operator
 zoom plane2 city0 city9 fl3 fl2 fl1
 0
 2
-0 7 0 9
 0 6 3 1
+0 7 0 9
 1
 end_operator
 begin_operator
 zoom plane2 city0 city9 fl4 fl3 fl2
 0
 2
-0 7 0 9
 0 6 4 2
+0 7 0 9
 1
 end_operator
 begin_operator
 zoom plane2 city0 city9 fl5 fl4 fl3
 0
 2
-0 7 0 9
 0 6 5 3
+0 7 0 9
 1
 end_operator
 begin_operator
 zoom plane2 city0 city9 fl6 fl5 fl4
 0
 2
-0 7 0 9
 0 6 6 4
+0 7 0 9
 1
 end_operator
 begin_operator
 zoom plane2 city1 city0 fl2 fl1 fl0
 0
 2
-0 7 1 0
 0 6 2 0
+0 7 1 0
 1
 end_operator
 begin_operator
 zoom plane2 city1 city0 fl3 fl2 fl1
 0
 2
-0 7 1 0
 0 6 3 1
+0 7 1 0
 1
 end_operator
 begin_operator
 zoom plane2 city1 city0 fl4 fl3 fl2
 0
 2
-0 7 1 0
 0 6 4 2
+0 7 1 0
 1
 end_operator
 begin_operator
 zoom plane2 city1 city0 fl5 fl4 fl3
 0
 2
-0 7 1 0
 0 6 5 3
+0 7 1 0
 1
 end_operator
 begin_operator
 zoom plane2 city1 city0 fl6 fl5 fl4
 0
 2
-0 7 1 0
 0 6 6 4
+0 7 1 0
 1
 end_operator
 begin_operator
@@ -39263,400 +39263,400 @@ begin_operator
 zoom plane2 city1 city2 fl2 fl1 fl0
 0
 2
-0 7 1 2
 0 6 2 0
+0 7 1 2
 1
 end_operator
 begin_operator
 zoom plane2 city1 city2 fl3 fl2 fl1
 0
 2
-0 7 1 2
 0 6 3 1
+0 7 1 2
 1
 end_operator
 begin_operator
 zoom plane2 city1 city2 fl4 fl3 fl2
 0
 2
-0 7 1 2
 0 6 4 2
+0 7 1 2
 1
 end_operator
 begin_operator
 zoom plane2 city1 city2 fl5 fl4 fl3
 0
 2
-0 7 1 2
 0 6 5 3
+0 7 1 2
 1
 end_operator
 begin_operator
 zoom plane2 city1 city2 fl6 fl5 fl4
 0
 2
-0 7 1 2
 0 6 6 4
+0 7 1 2
 1
 end_operator
 begin_operator
 zoom plane2 city1 city3 fl2 fl1 fl0
 0
 2
-0 7 1 3
 0 6 2 0
+0 7 1 3
 1
 end_operator
 begin_operator
 zoom plane2 city1 city3 fl3 fl2 fl1
 0
 2
-0 7 1 3
 0 6 3 1
+0 7 1 3
 1
 end_operator
 begin_operator
 zoom plane2 city1 city3 fl4 fl3 fl2
 0
 2
-0 7 1 3
 0 6 4 2
+0 7 1 3
 1
 end_operator
 begin_operator
 zoom plane2 city1 city3 fl5 fl4 fl3
 0
 2
-0 7 1 3
 0 6 5 3
+0 7 1 3
 1
 end_operator
 begin_operator
 zoom plane2 city1 city3 fl6 fl5 fl4
 0
 2
-0 7 1 3
 0 6 6 4
+0 7 1 3
 1
 end_operator
 begin_operator
 zoom plane2 city1 city4 fl2 fl1 fl0
 0
 2
-0 7 1 4
 0 6 2 0
+0 7 1 4
 1
 end_operator
 begin_operator
 zoom plane2 city1 city4 fl3 fl2 fl1
 0
 2
-0 7 1 4
 0 6 3 1
+0 7 1 4
 1
 end_operator
 begin_operator
 zoom plane2 city1 city4 fl4 fl3 fl2
 0
 2
-0 7 1 4
 0 6 4 2
+0 7 1 4
 1
 end_operator
 begin_operator
 zoom plane2 city1 city4 fl5 fl4 fl3
 0
 2
-0 7 1 4
 0 6 5 3
+0 7 1 4
 1
 end_operator
 begin_operator
 zoom plane2 city1 city4 fl6 fl5 fl4
 0
 2
-0 7 1 4
 0 6 6 4
+0 7 1 4
 1
 end_operator
 begin_operator
 zoom plane2 city1 city5 fl2 fl1 fl0
 0
 2
-0 7 1 5
 0 6 2 0
+0 7 1 5
 1
 end_operator
 begin_operator
 zoom plane2 city1 city5 fl3 fl2 fl1
 0
 2
-0 7 1 5
 0 6 3 1
+0 7 1 5
 1
 end_operator
 begin_operator
 zoom plane2 city1 city5 fl4 fl3 fl2
 0
 2
-0 7 1 5
 0 6 4 2
+0 7 1 5
 1
 end_operator
 begin_operator
 zoom plane2 city1 city5 fl5 fl4 fl3
 0
 2
-0 7 1 5
 0 6 5 3
+0 7 1 5
 1
 end_operator
 begin_operator
 zoom plane2 city1 city5 fl6 fl5 fl4
 0
 2
-0 7 1 5
 0 6 6 4
+0 7 1 5
 1
 end_operator
 begin_operator
 zoom plane2 city1 city6 fl2 fl1 fl0
 0
 2
-0 7 1 6
 0 6 2 0
+0 7 1 6
 1
 end_operator
 begin_operator
 zoom plane2 city1 city6 fl3 fl2 fl1
 0
 2
-0 7 1 6
 0 6 3 1
+0 7 1 6
 1
 end_operator
 begin_operator
 zoom plane2 city1 city6 fl4 fl3 fl2
 0
 2
-0 7 1 6
 0 6 4 2
+0 7 1 6
 1
 end_operator
 begin_operator
 zoom plane2 city1 city6 fl5 fl4 fl3
 0
 2
-0 7 1 6
 0 6 5 3
+0 7 1 6
 1
 end_operator
 begin_operator
 zoom plane2 city1 city6 fl6 fl5 fl4
 0
 2
-0 7 1 6
 0 6 6 4
+0 7 1 6
 1
 end_operator
 begin_operator
 zoom plane2 city1 city7 fl2 fl1 fl0
 0
 2
-0 7 1 7
 0 6 2 0
+0 7 1 7
 1
 end_operator
 begin_operator
 zoom plane2 city1 city7 fl3 fl2 fl1
 0
 2
-0 7 1 7
 0 6 3 1
+0 7 1 7
 1
 end_operator
 begin_operator
 zoom plane2 city1 city7 fl4 fl3 fl2
 0
 2
-0 7 1 7
 0 6 4 2
+0 7 1 7
 1
 end_operator
 begin_operator
 zoom plane2 city1 city7 fl5 fl4 fl3
 0
 2
-0 7 1 7
 0 6 5 3
+0 7 1 7
 1
 end_operator
 begin_operator
 zoom plane2 city1 city7 fl6 fl5 fl4
 0
 2
-0 7 1 7
 0 6 6 4
+0 7 1 7
 1
 end_operator
 begin_operator
 zoom plane2 city1 city8 fl2 fl1 fl0
 0
 2
-0 7 1 8
 0 6 2 0
+0 7 1 8
 1
 end_operator
 begin_operator
 zoom plane2 city1 city8 fl3 fl2 fl1
 0
 2
-0 7 1 8
 0 6 3 1
+0 7 1 8
 1
 end_operator
 begin_operator
 zoom plane2 city1 city8 fl4 fl3 fl2
 0
 2
-0 7 1 8
 0 6 4 2
+0 7 1 8
 1
 end_operator
 begin_operator
 zoom plane2 city1 city8 fl5 fl4 fl3
 0
 2
-0 7 1 8
 0 6 5 3
+0 7 1 8
 1
 end_operator
 begin_operator
 zoom plane2 city1 city8 fl6 fl5 fl4
 0
 2
-0 7 1 8
 0 6 6 4
+0 7 1 8
 1
 end_operator
 begin_operator
 zoom plane2 city1 city9 fl2 fl1 fl0
 0
 2
-0 7 1 9
 0 6 2 0
+0 7 1 9
 1
 end_operator
 begin_operator
 zoom plane2 city1 city9 fl3 fl2 fl1
 0
 2
-0 7 1 9
 0 6 3 1
+0 7 1 9
 1
 end_operator
 begin_operator
 zoom plane2 city1 city9 fl4 fl3 fl2
 0
 2
-0 7 1 9
 0 6 4 2
+0 7 1 9
 1
 end_operator
 begin_operator
 zoom plane2 city1 city9 fl5 fl4 fl3
 0
 2
-0 7 1 9
 0 6 5 3
+0 7 1 9
 1
 end_operator
 begin_operator
 zoom plane2 city1 city9 fl6 fl5 fl4
 0
 2
-0 7 1 9
 0 6 6 4
+0 7 1 9
 1
 end_operator
 begin_operator
 zoom plane2 city2 city0 fl2 fl1 fl0
 0
 2
-0 7 2 0
 0 6 2 0
+0 7 2 0
 1
 end_operator
 begin_operator
 zoom plane2 city2 city0 fl3 fl2 fl1
 0
 2
-0 7 2 0
 0 6 3 1
+0 7 2 0
 1
 end_operator
 begin_operator
 zoom plane2 city2 city0 fl4 fl3 fl2
 0
 2
-0 7 2 0
 0 6 4 2
+0 7 2 0
 1
 end_operator
 begin_operator
 zoom plane2 city2 city0 fl5 fl4 fl3
 0
 2
-0 7 2 0
 0 6 5 3
+0 7 2 0
 1
 end_operator
 begin_operator
 zoom plane2 city2 city0 fl6 fl5 fl4
 0
 2
-0 7 2 0
 0 6 6 4
+0 7 2 0
 1
 end_operator
 begin_operator
 zoom plane2 city2 city1 fl2 fl1 fl0
 0
 2
-0 7 2 1
 0 6 2 0
+0 7 2 1
 1
 end_operator
 begin_operator
 zoom plane2 city2 city1 fl3 fl2 fl1
 0
 2
-0 7 2 1
 0 6 3 1
+0 7 2 1
 1
 end_operator
 begin_operator
 zoom plane2 city2 city1 fl4 fl3 fl2
 0
 2
-0 7 2 1
 0 6 4 2
+0 7 2 1
 1
 end_operator
 begin_operator
 zoom plane2 city2 city1 fl5 fl4 fl3
 0
 2
-0 7 2 1
 0 6 5 3
+0 7 2 1
 1
 end_operator
 begin_operator
 zoom plane2 city2 city1 fl6 fl5 fl4
 0
 2
-0 7 2 1
 0 6 6 4
+0 7 2 1
 1
 end_operator
 begin_operator
@@ -39703,400 +39703,400 @@ begin_operator
 zoom plane2 city2 city3 fl2 fl1 fl0
 0
 2
-0 7 2 3
 0 6 2 0
+0 7 2 3
 1
 end_operator
 begin_operator
 zoom plane2 city2 city3 fl3 fl2 fl1
 0
 2
-0 7 2 3
 0 6 3 1
+0 7 2 3
 1
 end_operator
 begin_operator
 zoom plane2 city2 city3 fl4 fl3 fl2
 0
 2
-0 7 2 3
 0 6 4 2
+0 7 2 3
 1
 end_operator
 begin_operator
 zoom plane2 city2 city3 fl5 fl4 fl3
 0
 2
-0 7 2 3
 0 6 5 3
+0 7 2 3
 1
 end_operator
 begin_operator
 zoom plane2 city2 city3 fl6 fl5 fl4
 0
 2
-0 7 2 3
 0 6 6 4
+0 7 2 3
 1
 end_operator
 begin_operator
 zoom plane2 city2 city4 fl2 fl1 fl0
 0
 2
-0 7 2 4
 0 6 2 0
+0 7 2 4
 1
 end_operator
 begin_operator
 zoom plane2 city2 city4 fl3 fl2 fl1
 0
 2
-0 7 2 4
 0 6 3 1
+0 7 2 4
 1
 end_operator
 begin_operator
 zoom plane2 city2 city4 fl4 fl3 fl2
 0
 2
-0 7 2 4
 0 6 4 2
+0 7 2 4
 1
 end_operator
 begin_operator
 zoom plane2 city2 city4 fl5 fl4 fl3
 0
 2
-0 7 2 4
 0 6 5 3
+0 7 2 4
 1
 end_operator
 begin_operator
 zoom plane2 city2 city4 fl6 fl5 fl4
 0
 2
-0 7 2 4
 0 6 6 4
+0 7 2 4
 1
 end_operator
 begin_operator
 zoom plane2 city2 city5 fl2 fl1 fl0
 0
 2
-0 7 2 5
 0 6 2 0
+0 7 2 5
 1
 end_operator
 begin_operator
 zoom plane2 city2 city5 fl3 fl2 fl1
 0
 2
-0 7 2 5
 0 6 3 1
+0 7 2 5
 1
 end_operator
 begin_operator
 zoom plane2 city2 city5 fl4 fl3 fl2
 0
 2
-0 7 2 5
 0 6 4 2
+0 7 2 5
 1
 end_operator
 begin_operator
 zoom plane2 city2 city5 fl5 fl4 fl3
 0
 2
-0 7 2 5
 0 6 5 3
+0 7 2 5
 1
 end_operator
 begin_operator
 zoom plane2 city2 city5 fl6 fl5 fl4
 0
 2
-0 7 2 5
 0 6 6 4
+0 7 2 5
 1
 end_operator
 begin_operator
 zoom plane2 city2 city6 fl2 fl1 fl0
 0
 2
-0 7 2 6
 0 6 2 0
+0 7 2 6
 1
 end_operator
 begin_operator
 zoom plane2 city2 city6 fl3 fl2 fl1
 0
 2
-0 7 2 6
 0 6 3 1
+0 7 2 6
 1
 end_operator
 begin_operator
 zoom plane2 city2 city6 fl4 fl3 fl2
 0
 2
-0 7 2 6
 0 6 4 2
+0 7 2 6
 1
 end_operator
 begin_operator
 zoom plane2 city2 city6 fl5 fl4 fl3
 0
 2
-0 7 2 6
 0 6 5 3
+0 7 2 6
 1
 end_operator
 begin_operator
 zoom plane2 city2 city6 fl6 fl5 fl4
 0
 2
-0 7 2 6
 0 6 6 4
+0 7 2 6
 1
 end_operator
 begin_operator
 zoom plane2 city2 city7 fl2 fl1 fl0
 0
 2
-0 7 2 7
 0 6 2 0
+0 7 2 7
 1
 end_operator
 begin_operator
 zoom plane2 city2 city7 fl3 fl2 fl1
 0
 2
-0 7 2 7
 0 6 3 1
+0 7 2 7
 1
 end_operator
 begin_operator
 zoom plane2 city2 city7 fl4 fl3 fl2
 0
 2
-0 7 2 7
 0 6 4 2
+0 7 2 7
 1
 end_operator
 begin_operator
 zoom plane2 city2 city7 fl5 fl4 fl3
 0
 2
-0 7 2 7
 0 6 5 3
+0 7 2 7
 1
 end_operator
 begin_operator
 zoom plane2 city2 city7 fl6 fl5 fl4
 0
 2
-0 7 2 7
 0 6 6 4
+0 7 2 7
 1
 end_operator
 begin_operator
 zoom plane2 city2 city8 fl2 fl1 fl0
 0
 2
-0 7 2 8
 0 6 2 0
+0 7 2 8
 1
 end_operator
 begin_operator
 zoom plane2 city2 city8 fl3 fl2 fl1
 0
 2
-0 7 2 8
 0 6 3 1
+0 7 2 8
 1
 end_operator
 begin_operator
 zoom plane2 city2 city8 fl4 fl3 fl2
 0
 2
-0 7 2 8
 0 6 4 2
+0 7 2 8
 1
 end_operator
 begin_operator
 zoom plane2 city2 city8 fl5 fl4 fl3
 0
 2
-0 7 2 8
 0 6 5 3
+0 7 2 8
 1
 end_operator
 begin_operator
 zoom plane2 city2 city8 fl6 fl5 fl4
 0
 2
-0 7 2 8
 0 6 6 4
+0 7 2 8
 1
 end_operator
 begin_operator
 zoom plane2 city2 city9 fl2 fl1 fl0
 0
 2
-0 7 2 9
 0 6 2 0
+0 7 2 9
 1
 end_operator
 begin_operator
 zoom plane2 city2 city9 fl3 fl2 fl1
 0
 2
-0 7 2 9
 0 6 3 1
+0 7 2 9
 1
 end_operator
 begin_operator
 zoom plane2 city2 city9 fl4 fl3 fl2
 0
 2
-0 7 2 9
 0 6 4 2
+0 7 2 9
 1
 end_operator
 begin_operator
 zoom plane2 city2 city9 fl5 fl4 fl3
 0
 2
-0 7 2 9
 0 6 5 3
+0 7 2 9
 1
 end_operator
 begin_operator
 zoom plane2 city2 city9 fl6 fl5 fl4
 0
 2
-0 7 2 9
 0 6 6 4
+0 7 2 9
 1
 end_operator
 begin_operator
 zoom plane2 city3 city0 fl2 fl1 fl0
 0
 2
-0 7 3 0
 0 6 2 0
+0 7 3 0
 1
 end_operator
 begin_operator
 zoom plane2 city3 city0 fl3 fl2 fl1
 0
 2
-0 7 3 0
 0 6 3 1
+0 7 3 0
 1
 end_operator
 begin_operator
 zoom plane2 city3 city0 fl4 fl3 fl2
 0
 2
-0 7 3 0
 0 6 4 2
+0 7 3 0
 1
 end_operator
 begin_operator
 zoom plane2 city3 city0 fl5 fl4 fl3
 0
 2
-0 7 3 0
 0 6 5 3
+0 7 3 0
 1
 end_operator
 begin_operator
 zoom plane2 city3 city0 fl6 fl5 fl4
 0
 2
-0 7 3 0
 0 6 6 4
+0 7 3 0
 1
 end_operator
 begin_operator
 zoom plane2 city3 city1 fl2 fl1 fl0
 0
 2
-0 7 3 1
 0 6 2 0
+0 7 3 1
 1
 end_operator
 begin_operator
 zoom plane2 city3 city1 fl3 fl2 fl1
 0
 2
-0 7 3 1
 0 6 3 1
+0 7 3 1
 1
 end_operator
 begin_operator
 zoom plane2 city3 city1 fl4 fl3 fl2
 0
 2
-0 7 3 1
 0 6 4 2
+0 7 3 1
 1
 end_operator
 begin_operator
 zoom plane2 city3 city1 fl5 fl4 fl3
 0
 2
-0 7 3 1
 0 6 5 3
+0 7 3 1
 1
 end_operator
 begin_operator
 zoom plane2 city3 city1 fl6 fl5 fl4
 0
 2
-0 7 3 1
 0 6 6 4
+0 7 3 1
 1
 end_operator
 begin_operator
 zoom plane2 city3 city2 fl2 fl1 fl0
 0
 2
-0 7 3 2
 0 6 2 0
+0 7 3 2
 1
 end_operator
 begin_operator
 zoom plane2 city3 city2 fl3 fl2 fl1
 0
 2
-0 7 3 2
 0 6 3 1
+0 7 3 2
 1
 end_operator
 begin_operator
 zoom plane2 city3 city2 fl4 fl3 fl2
 0
 2
-0 7 3 2
 0 6 4 2
+0 7 3 2
 1
 end_operator
 begin_operator
 zoom plane2 city3 city2 fl5 fl4 fl3
 0
 2
-0 7 3 2
 0 6 5 3
+0 7 3 2
 1
 end_operator
 begin_operator
 zoom plane2 city3 city2 fl6 fl5 fl4
 0
 2
-0 7 3 2
 0 6 6 4
+0 7 3 2
 1
 end_operator
 begin_operator
@@ -40143,400 +40143,400 @@ begin_operator
 zoom plane2 city3 city4 fl2 fl1 fl0
 0
 2
-0 7 3 4
 0 6 2 0
+0 7 3 4
 1
 end_operator
 begin_operator
 zoom plane2 city3 city4 fl3 fl2 fl1
 0
 2
-0 7 3 4
 0 6 3 1
+0 7 3 4
 1
 end_operator
 begin_operator
 zoom plane2 city3 city4 fl4 fl3 fl2
 0
 2
-0 7 3 4
 0 6 4 2
+0 7 3 4
 1
 end_operator
 begin_operator
 zoom plane2 city3 city4 fl5 fl4 fl3
 0
 2
-0 7 3 4
 0 6 5 3
+0 7 3 4
 1
 end_operator
 begin_operator
 zoom plane2 city3 city4 fl6 fl5 fl4
 0
 2
-0 7 3 4
 0 6 6 4
+0 7 3 4
 1
 end_operator
 begin_operator
 zoom plane2 city3 city5 fl2 fl1 fl0
 0
 2
-0 7 3 5
 0 6 2 0
+0 7 3 5
 1
 end_operator
 begin_operator
 zoom plane2 city3 city5 fl3 fl2 fl1
 0
 2
-0 7 3 5
 0 6 3 1
+0 7 3 5
 1
 end_operator
 begin_operator
 zoom plane2 city3 city5 fl4 fl3 fl2
 0
 2
-0 7 3 5
 0 6 4 2
+0 7 3 5
 1
 end_operator
 begin_operator
 zoom plane2 city3 city5 fl5 fl4 fl3
 0
 2
-0 7 3 5
 0 6 5 3
+0 7 3 5
 1
 end_operator
 begin_operator
 zoom plane2 city3 city5 fl6 fl5 fl4
 0
 2
-0 7 3 5
 0 6 6 4
+0 7 3 5
 1
 end_operator
 begin_operator
 zoom plane2 city3 city6 fl2 fl1 fl0
 0
 2
-0 7 3 6
 0 6 2 0
+0 7 3 6
 1
 end_operator
 begin_operator
 zoom plane2 city3 city6 fl3 fl2 fl1
 0
 2
-0 7 3 6
 0 6 3 1
+0 7 3 6
 1
 end_operator
 begin_operator
 zoom plane2 city3 city6 fl4 fl3 fl2
 0
 2
-0 7 3 6
 0 6 4 2
+0 7 3 6
 1
 end_operator
 begin_operator
 zoom plane2 city3 city6 fl5 fl4 fl3
 0
 2
-0 7 3 6
 0 6 5 3
+0 7 3 6
 1
 end_operator
 begin_operator
 zoom plane2 city3 city6 fl6 fl5 fl4
 0
 2
-0 7 3 6
 0 6 6 4
+0 7 3 6
 1
 end_operator
 begin_operator
 zoom plane2 city3 city7 fl2 fl1 fl0
 0
 2
-0 7 3 7
 0 6 2 0
+0 7 3 7
 1
 end_operator
 begin_operator
 zoom plane2 city3 city7 fl3 fl2 fl1
 0
 2
-0 7 3 7
 0 6 3 1
+0 7 3 7
 1
 end_operator
 begin_operator
 zoom plane2 city3 city7 fl4 fl3 fl2
 0
 2
-0 7 3 7
 0 6 4 2
+0 7 3 7
 1
 end_operator
 begin_operator
 zoom plane2 city3 city7 fl5 fl4 fl3
 0
 2
-0 7 3 7
 0 6 5 3
+0 7 3 7
 1
 end_operator
 begin_operator
 zoom plane2 city3 city7 fl6 fl5 fl4
 0
 2
-0 7 3 7
 0 6 6 4
+0 7 3 7
 1
 end_operator
 begin_operator
 zoom plane2 city3 city8 fl2 fl1 fl0
 0
 2
-0 7 3 8
 0 6 2 0
+0 7 3 8
 1
 end_operator
 begin_operator
 zoom plane2 city3 city8 fl3 fl2 fl1
 0
 2
-0 7 3 8
 0 6 3 1
+0 7 3 8
 1
 end_operator
 begin_operator
 zoom plane2 city3 city8 fl4 fl3 fl2
 0
 2
-0 7 3 8
 0 6 4 2
+0 7 3 8
 1
 end_operator
 begin_operator
 zoom plane2 city3 city8 fl5 fl4 fl3
 0
 2
-0 7 3 8
 0 6 5 3
+0 7 3 8
 1
 end_operator
 begin_operator
 zoom plane2 city3 city8 fl6 fl5 fl4
 0
 2
-0 7 3 8
 0 6 6 4
+0 7 3 8
 1
 end_operator
 begin_operator
 zoom plane2 city3 city9 fl2 fl1 fl0
 0
 2
-0 7 3 9
 0 6 2 0
+0 7 3 9
 1
 end_operator
 begin_operator
 zoom plane2 city3 city9 fl3 fl2 fl1
 0
 2
-0 7 3 9
 0 6 3 1
+0 7 3 9
 1
 end_operator
 begin_operator
 zoom plane2 city3 city9 fl4 fl3 fl2
 0
 2
-0 7 3 9
 0 6 4 2
+0 7 3 9
 1
 end_operator
 begin_operator
 zoom plane2 city3 city9 fl5 fl4 fl3
 0
 2
-0 7 3 9
 0 6 5 3
+0 7 3 9
 1
 end_operator
 begin_operator
 zoom plane2 city3 city9 fl6 fl5 fl4
 0
 2
-0 7 3 9
 0 6 6 4
+0 7 3 9
 1
 end_operator
 begin_operator
 zoom plane2 city4 city0 fl2 fl1 fl0
 0
 2
-0 7 4 0
 0 6 2 0
+0 7 4 0
 1
 end_operator
 begin_operator
 zoom plane2 city4 city0 fl3 fl2 fl1
 0
 2
-0 7 4 0
 0 6 3 1
+0 7 4 0
 1
 end_operator
 begin_operator
 zoom plane2 city4 city0 fl4 fl3 fl2
 0
 2
-0 7 4 0
 0 6 4 2
+0 7 4 0
 1
 end_operator
 begin_operator
 zoom plane2 city4 city0 fl5 fl4 fl3
 0
 2
-0 7 4 0
 0 6 5 3
+0 7 4 0
 1
 end_operator
 begin_operator
 zoom plane2 city4 city0 fl6 fl5 fl4
 0
 2
-0 7 4 0
 0 6 6 4
+0 7 4 0
 1
 end_operator
 begin_operator
 zoom plane2 city4 city1 fl2 fl1 fl0
 0
 2
-0 7 4 1
 0 6 2 0
+0 7 4 1
 1
 end_operator
 begin_operator
 zoom plane2 city4 city1 fl3 fl2 fl1
 0
 2
-0 7 4 1
 0 6 3 1
+0 7 4 1
 1
 end_operator
 begin_operator
 zoom plane2 city4 city1 fl4 fl3 fl2
 0
 2
-0 7 4 1
 0 6 4 2
+0 7 4 1
 1
 end_operator
 begin_operator
 zoom plane2 city4 city1 fl5 fl4 fl3
 0
 2
-0 7 4 1
 0 6 5 3
+0 7 4 1
 1
 end_operator
 begin_operator
 zoom plane2 city4 city1 fl6 fl5 fl4
 0
 2
-0 7 4 1
 0 6 6 4
+0 7 4 1
 1
 end_operator
 begin_operator
 zoom plane2 city4 city2 fl2 fl1 fl0
 0
 2
-0 7 4 2
 0 6 2 0
+0 7 4 2
 1
 end_operator
 begin_operator
 zoom plane2 city4 city2 fl3 fl2 fl1
 0
 2
-0 7 4 2
 0 6 3 1
+0 7 4 2
 1
 end_operator
 begin_operator
 zoom plane2 city4 city2 fl4 fl3 fl2
 0
 2
-0 7 4 2
 0 6 4 2
+0 7 4 2
 1
 end_operator
 begin_operator
 zoom plane2 city4 city2 fl5 fl4 fl3
 0
 2
-0 7 4 2
 0 6 5 3
+0 7 4 2
 1
 end_operator
 begin_operator
 zoom plane2 city4 city2 fl6 fl5 fl4
 0
 2
-0 7 4 2
 0 6 6 4
+0 7 4 2
 1
 end_operator
 begin_operator
 zoom plane2 city4 city3 fl2 fl1 fl0
 0
 2
-0 7 4 3
 0 6 2 0
+0 7 4 3
 1
 end_operator
 begin_operator
 zoom plane2 city4 city3 fl3 fl2 fl1
 0
 2
-0 7 4 3
 0 6 3 1
+0 7 4 3
 1
 end_operator
 begin_operator
 zoom plane2 city4 city3 fl4 fl3 fl2
 0
 2
-0 7 4 3
 0 6 4 2
+0 7 4 3
 1
 end_operator
 begin_operator
 zoom plane2 city4 city3 fl5 fl4 fl3
 0
 2
-0 7 4 3
 0 6 5 3
+0 7 4 3
 1
 end_operator
 begin_operator
 zoom plane2 city4 city3 fl6 fl5 fl4
 0
 2
-0 7 4 3
 0 6 6 4
+0 7 4 3
 1
 end_operator
 begin_operator
@@ -40583,400 +40583,400 @@ begin_operator
 zoom plane2 city4 city5 fl2 fl1 fl0
 0
 2
-0 7 4 5
 0 6 2 0
+0 7 4 5
 1
 end_operator
 begin_operator
 zoom plane2 city4 city5 fl3 fl2 fl1
 0
 2
-0 7 4 5
 0 6 3 1
+0 7 4 5
 1
 end_operator
 begin_operator
 zoom plane2 city4 city5 fl4 fl3 fl2
 0
 2
-0 7 4 5
 0 6 4 2
+0 7 4 5
 1
 end_operator
 begin_operator
 zoom plane2 city4 city5 fl5 fl4 fl3
 0
 2
-0 7 4 5
 0 6 5 3
+0 7 4 5
 1
 end_operator
 begin_operator
 zoom plane2 city4 city5 fl6 fl5 fl4
 0
 2
-0 7 4 5
 0 6 6 4
+0 7 4 5
 1
 end_operator
 begin_operator
 zoom plane2 city4 city6 fl2 fl1 fl0
 0
 2
-0 7 4 6
 0 6 2 0
+0 7 4 6
 1
 end_operator
 begin_operator
 zoom plane2 city4 city6 fl3 fl2 fl1
 0
 2
-0 7 4 6
 0 6 3 1
+0 7 4 6
 1
 end_operator
 begin_operator
 zoom plane2 city4 city6 fl4 fl3 fl2
 0
 2
-0 7 4 6
 0 6 4 2
+0 7 4 6
 1
 end_operator
 begin_operator
 zoom plane2 city4 city6 fl5 fl4 fl3
 0
 2
-0 7 4 6
 0 6 5 3
+0 7 4 6
 1
 end_operator
 begin_operator
 zoom plane2 city4 city6 fl6 fl5 fl4
 0
 2
-0 7 4 6
 0 6 6 4
+0 7 4 6
 1
 end_operator
 begin_operator
 zoom plane2 city4 city7 fl2 fl1 fl0
 0
 2
-0 7 4 7
 0 6 2 0
+0 7 4 7
 1
 end_operator
 begin_operator
 zoom plane2 city4 city7 fl3 fl2 fl1
 0
 2
-0 7 4 7
 0 6 3 1
+0 7 4 7
 1
 end_operator
 begin_operator
 zoom plane2 city4 city7 fl4 fl3 fl2
 0
 2
-0 7 4 7
 0 6 4 2
+0 7 4 7
 1
 end_operator
 begin_operator
 zoom plane2 city4 city7 fl5 fl4 fl3
 0
 2
-0 7 4 7
 0 6 5 3
+0 7 4 7
 1
 end_operator
 begin_operator
 zoom plane2 city4 city7 fl6 fl5 fl4
 0
 2
-0 7 4 7
 0 6 6 4
+0 7 4 7
 1
 end_operator
 begin_operator
 zoom plane2 city4 city8 fl2 fl1 fl0
 0
 2
-0 7 4 8
 0 6 2 0
+0 7 4 8
 1
 end_operator
 begin_operator
 zoom plane2 city4 city8 fl3 fl2 fl1
 0
 2
-0 7 4 8
 0 6 3 1
+0 7 4 8
 1
 end_operator
 begin_operator
 zoom plane2 city4 city8 fl4 fl3 fl2
 0
 2
-0 7 4 8
 0 6 4 2
+0 7 4 8
 1
 end_operator
 begin_operator
 zoom plane2 city4 city8 fl5 fl4 fl3
 0
 2
-0 7 4 8
 0 6 5 3
+0 7 4 8
 1
 end_operator
 begin_operator
 zoom plane2 city4 city8 fl6 fl5 fl4
 0
 2
-0 7 4 8
 0 6 6 4
+0 7 4 8
 1
 end_operator
 begin_operator
 zoom plane2 city4 city9 fl2 fl1 fl0
 0
 2
-0 7 4 9
 0 6 2 0
+0 7 4 9
 1
 end_operator
 begin_operator
 zoom plane2 city4 city9 fl3 fl2 fl1
 0
 2
-0 7 4 9
 0 6 3 1
+0 7 4 9
 1
 end_operator
 begin_operator
 zoom plane2 city4 city9 fl4 fl3 fl2
 0
 2
-0 7 4 9
 0 6 4 2
+0 7 4 9
 1
 end_operator
 begin_operator
 zoom plane2 city4 city9 fl5 fl4 fl3
 0
 2
-0 7 4 9
 0 6 5 3
+0 7 4 9
 1
 end_operator
 begin_operator
 zoom plane2 city4 city9 fl6 fl5 fl4
 0
 2
-0 7 4 9
 0 6 6 4
+0 7 4 9
 1
 end_operator
 begin_operator
 zoom plane2 city5 city0 fl2 fl1 fl0
 0
 2
-0 7 5 0
 0 6 2 0
+0 7 5 0
 1
 end_operator
 begin_operator
 zoom plane2 city5 city0 fl3 fl2 fl1
 0
 2
-0 7 5 0
 0 6 3 1
+0 7 5 0
 1
 end_operator
 begin_operator
 zoom plane2 city5 city0 fl4 fl3 fl2
 0
 2
-0 7 5 0
 0 6 4 2
+0 7 5 0
 1
 end_operator
 begin_operator
 zoom plane2 city5 city0 fl5 fl4 fl3
 0
 2
-0 7 5 0
 0 6 5 3
+0 7 5 0
 1
 end_operator
 begin_operator
 zoom plane2 city5 city0 fl6 fl5 fl4
 0
 2
-0 7 5 0
 0 6 6 4
+0 7 5 0
 1
 end_operator
 begin_operator
 zoom plane2 city5 city1 fl2 fl1 fl0
 0
 2
-0 7 5 1
 0 6 2 0
+0 7 5 1
 1
 end_operator
 begin_operator
 zoom plane2 city5 city1 fl3 fl2 fl1
 0
 2
-0 7 5 1
 0 6 3 1
+0 7 5 1
 1
 end_operator
 begin_operator
 zoom plane2 city5 city1 fl4 fl3 fl2
 0
 2
-0 7 5 1
 0 6 4 2
+0 7 5 1
 1
 end_operator
 begin_operator
 zoom plane2 city5 city1 fl5 fl4 fl3
 0
 2
-0 7 5 1
 0 6 5 3
+0 7 5 1
 1
 end_operator
 begin_operator
 zoom plane2 city5 city1 fl6 fl5 fl4
 0
 2
-0 7 5 1
 0 6 6 4
+0 7 5 1
 1
 end_operator
 begin_operator
 zoom plane2 city5 city2 fl2 fl1 fl0
 0
 2
-0 7 5 2
 0 6 2 0
+0 7 5 2
 1
 end_operator
 begin_operator
 zoom plane2 city5 city2 fl3 fl2 fl1
 0
 2
-0 7 5 2
 0 6 3 1
+0 7 5 2
 1
 end_operator
 begin_operator
 zoom plane2 city5 city2 fl4 fl3 fl2
 0
 2
-0 7 5 2
 0 6 4 2
+0 7 5 2
 1
 end_operator
 begin_operator
 zoom plane2 city5 city2 fl5 fl4 fl3
 0
 2
-0 7 5 2
 0 6 5 3
+0 7 5 2
 1
 end_operator
 begin_operator
 zoom plane2 city5 city2 fl6 fl5 fl4
 0
 2
-0 7 5 2
 0 6 6 4
+0 7 5 2
 1
 end_operator
 begin_operator
 zoom plane2 city5 city3 fl2 fl1 fl0
 0
 2
-0 7 5 3
 0 6 2 0
+0 7 5 3
 1
 end_operator
 begin_operator
 zoom plane2 city5 city3 fl3 fl2 fl1
 0
 2
-0 7 5 3
 0 6 3 1
+0 7 5 3
 1
 end_operator
 begin_operator
 zoom plane2 city5 city3 fl4 fl3 fl2
 0
 2
-0 7 5 3
 0 6 4 2
+0 7 5 3
 1
 end_operator
 begin_operator
 zoom plane2 city5 city3 fl5 fl4 fl3
 0
 2
-0 7 5 3
 0 6 5 3
+0 7 5 3
 1
 end_operator
 begin_operator
 zoom plane2 city5 city3 fl6 fl5 fl4
 0
 2
-0 7 5 3
 0 6 6 4
+0 7 5 3
 1
 end_operator
 begin_operator
 zoom plane2 city5 city4 fl2 fl1 fl0
 0
 2
-0 7 5 4
 0 6 2 0
+0 7 5 4
 1
 end_operator
 begin_operator
 zoom plane2 city5 city4 fl3 fl2 fl1
 0
 2
-0 7 5 4
 0 6 3 1
+0 7 5 4
 1
 end_operator
 begin_operator
 zoom plane2 city5 city4 fl4 fl3 fl2
 0
 2
-0 7 5 4
 0 6 4 2
+0 7 5 4
 1
 end_operator
 begin_operator
 zoom plane2 city5 city4 fl5 fl4 fl3
 0
 2
-0 7 5 4
 0 6 5 3
+0 7 5 4
 1
 end_operator
 begin_operator
 zoom plane2 city5 city4 fl6 fl5 fl4
 0
 2
-0 7 5 4
 0 6 6 4
+0 7 5 4
 1
 end_operator
 begin_operator
@@ -41023,400 +41023,400 @@ begin_operator
 zoom plane2 city5 city6 fl2 fl1 fl0
 0
 2
-0 7 5 6
 0 6 2 0
+0 7 5 6
 1
 end_operator
 begin_operator
 zoom plane2 city5 city6 fl3 fl2 fl1
 0
 2
-0 7 5 6
 0 6 3 1
+0 7 5 6
 1
 end_operator
 begin_operator
 zoom plane2 city5 city6 fl4 fl3 fl2
 0
 2
-0 7 5 6
 0 6 4 2
+0 7 5 6
 1
 end_operator
 begin_operator
 zoom plane2 city5 city6 fl5 fl4 fl3
 0
 2
-0 7 5 6
 0 6 5 3
+0 7 5 6
 1
 end_operator
 begin_operator
 zoom plane2 city5 city6 fl6 fl5 fl4
 0
 2
-0 7 5 6
 0 6 6 4
+0 7 5 6
 1
 end_operator
 begin_operator
 zoom plane2 city5 city7 fl2 fl1 fl0
 0
 2
-0 7 5 7
 0 6 2 0
+0 7 5 7
 1
 end_operator
 begin_operator
 zoom plane2 city5 city7 fl3 fl2 fl1
 0
 2
-0 7 5 7
 0 6 3 1
+0 7 5 7
 1
 end_operator
 begin_operator
 zoom plane2 city5 city7 fl4 fl3 fl2
 0
 2
-0 7 5 7
 0 6 4 2
+0 7 5 7
 1
 end_operator
 begin_operator
 zoom plane2 city5 city7 fl5 fl4 fl3
 0
 2
-0 7 5 7
 0 6 5 3
+0 7 5 7
 1
 end_operator
 begin_operator
 zoom plane2 city5 city7 fl6 fl5 fl4
 0
 2
-0 7 5 7
 0 6 6 4
+0 7 5 7
 1
 end_operator
 begin_operator
 zoom plane2 city5 city8 fl2 fl1 fl0
 0
 2
-0 7 5 8
 0 6 2 0
+0 7 5 8
 1
 end_operator
 begin_operator
 zoom plane2 city5 city8 fl3 fl2 fl1
 0
 2
-0 7 5 8
 0 6 3 1
+0 7 5 8
 1
 end_operator
 begin_operator
 zoom plane2 city5 city8 fl4 fl3 fl2
 0
 2
-0 7 5 8
 0 6 4 2
+0 7 5 8
 1
 end_operator
 begin_operator
 zoom plane2 city5 city8 fl5 fl4 fl3
 0
 2
-0 7 5 8
 0 6 5 3
+0 7 5 8
 1
 end_operator
 begin_operator
 zoom plane2 city5 city8 fl6 fl5 fl4
 0
 2
-0 7 5 8
 0 6 6 4
+0 7 5 8
 1
 end_operator
 begin_operator
 zoom plane2 city5 city9 fl2 fl1 fl0
 0
 2
-0 7 5 9
 0 6 2 0
+0 7 5 9
 1
 end_operator
 begin_operator
 zoom plane2 city5 city9 fl3 fl2 fl1
 0
 2
-0 7 5 9
 0 6 3 1
+0 7 5 9
 1
 end_operator
 begin_operator
 zoom plane2 city5 city9 fl4 fl3 fl2
 0
 2
-0 7 5 9
 0 6 4 2
+0 7 5 9
 1
 end_operator
 begin_operator
 zoom plane2 city5 city9 fl5 fl4 fl3
 0
 2
-0 7 5 9
 0 6 5 3
+0 7 5 9
 1
 end_operator
 begin_operator
 zoom plane2 city5 city9 fl6 fl5 fl4
 0
 2
-0 7 5 9
 0 6 6 4
+0 7 5 9
 1
 end_operator
 begin_operator
 zoom plane2 city6 city0 fl2 fl1 fl0
 0
 2
-0 7 6 0
 0 6 2 0
+0 7 6 0
 1
 end_operator
 begin_operator
 zoom plane2 city6 city0 fl3 fl2 fl1
 0
 2
-0 7 6 0
 0 6 3 1
+0 7 6 0
 1
 end_operator
 begin_operator
 zoom plane2 city6 city0 fl4 fl3 fl2
 0
 2
-0 7 6 0
 0 6 4 2
+0 7 6 0
 1
 end_operator
 begin_operator
 zoom plane2 city6 city0 fl5 fl4 fl3
 0
 2
-0 7 6 0
 0 6 5 3
+0 7 6 0
 1
 end_operator
 begin_operator
 zoom plane2 city6 city0 fl6 fl5 fl4
 0
 2
-0 7 6 0
 0 6 6 4
+0 7 6 0
 1
 end_operator
 begin_operator
 zoom plane2 city6 city1 fl2 fl1 fl0
 0
 2
-0 7 6 1
 0 6 2 0
+0 7 6 1
 1
 end_operator
 begin_operator
 zoom plane2 city6 city1 fl3 fl2 fl1
 0
 2
-0 7 6 1
 0 6 3 1
+0 7 6 1
 1
 end_operator
 begin_operator
 zoom plane2 city6 city1 fl4 fl3 fl2
 0
 2
-0 7 6 1
 0 6 4 2
+0 7 6 1
 1
 end_operator
 begin_operator
 zoom plane2 city6 city1 fl5 fl4 fl3
 0
 2
-0 7 6 1
 0 6 5 3
+0 7 6 1
 1
 end_operator
 begin_operator
 zoom plane2 city6 city1 fl6 fl5 fl4
 0
 2
-0 7 6 1
 0 6 6 4
+0 7 6 1
 1
 end_operator
 begin_operator
 zoom plane2 city6 city2 fl2 fl1 fl0
 0
 2
-0 7 6 2
 0 6 2 0
+0 7 6 2
 1
 end_operator
 begin_operator
 zoom plane2 city6 city2 fl3 fl2 fl1
 0
 2
-0 7 6 2
 0 6 3 1
+0 7 6 2
 1
 end_operator
 begin_operator
 zoom plane2 city6 city2 fl4 fl3 fl2
 0
 2
-0 7 6 2
 0 6 4 2
+0 7 6 2
 1
 end_operator
 begin_operator
 zoom plane2 city6 city2 fl5 fl4 fl3
 0
 2
-0 7 6 2
 0 6 5 3
+0 7 6 2
 1
 end_operator
 begin_operator
 zoom plane2 city6 city2 fl6 fl5 fl4
 0
 2
-0 7 6 2
 0 6 6 4
+0 7 6 2
 1
 end_operator
 begin_operator
 zoom plane2 city6 city3 fl2 fl1 fl0
 0
 2
-0 7 6 3
 0 6 2 0
+0 7 6 3
 1
 end_operator
 begin_operator
 zoom plane2 city6 city3 fl3 fl2 fl1
 0
 2
-0 7 6 3
 0 6 3 1
+0 7 6 3
 1
 end_operator
 begin_operator
 zoom plane2 city6 city3 fl4 fl3 fl2
 0
 2
-0 7 6 3
 0 6 4 2
+0 7 6 3
 1
 end_operator
 begin_operator
 zoom plane2 city6 city3 fl5 fl4 fl3
 0
 2
-0 7 6 3
 0 6 5 3
+0 7 6 3
 1
 end_operator
 begin_operator
 zoom plane2 city6 city3 fl6 fl5 fl4
 0
 2
-0 7 6 3
 0 6 6 4
+0 7 6 3
 1
 end_operator
 begin_operator
 zoom plane2 city6 city4 fl2 fl1 fl0
 0
 2
-0 7 6 4
 0 6 2 0
+0 7 6 4
 1
 end_operator
 begin_operator
 zoom plane2 city6 city4 fl3 fl2 fl1
 0
 2
-0 7 6 4
 0 6 3 1
+0 7 6 4
 1
 end_operator
 begin_operator
 zoom plane2 city6 city4 fl4 fl3 fl2
 0
 2
-0 7 6 4
 0 6 4 2
+0 7 6 4
 1
 end_operator
 begin_operator
 zoom plane2 city6 city4 fl5 fl4 fl3
 0
 2
-0 7 6 4
 0 6 5 3
+0 7 6 4
 1
 end_operator
 begin_operator
 zoom plane2 city6 city4 fl6 fl5 fl4
 0
 2
-0 7 6 4
 0 6 6 4
+0 7 6 4
 1
 end_operator
 begin_operator
 zoom plane2 city6 city5 fl2 fl1 fl0
 0
 2
-0 7 6 5
 0 6 2 0
+0 7 6 5
 1
 end_operator
 begin_operator
 zoom plane2 city6 city5 fl3 fl2 fl1
 0
 2
-0 7 6 5
 0 6 3 1
+0 7 6 5
 1
 end_operator
 begin_operator
 zoom plane2 city6 city5 fl4 fl3 fl2
 0
 2
-0 7 6 5
 0 6 4 2
+0 7 6 5
 1
 end_operator
 begin_operator
 zoom plane2 city6 city5 fl5 fl4 fl3
 0
 2
-0 7 6 5
 0 6 5 3
+0 7 6 5
 1
 end_operator
 begin_operator
 zoom plane2 city6 city5 fl6 fl5 fl4
 0
 2
-0 7 6 5
 0 6 6 4
+0 7 6 5
 1
 end_operator
 begin_operator
@@ -41463,400 +41463,400 @@ begin_operator
 zoom plane2 city6 city7 fl2 fl1 fl0
 0
 2
-0 7 6 7
 0 6 2 0
+0 7 6 7
 1
 end_operator
 begin_operator
 zoom plane2 city6 city7 fl3 fl2 fl1
 0
 2
-0 7 6 7
 0 6 3 1
+0 7 6 7
 1
 end_operator
 begin_operator
 zoom plane2 city6 city7 fl4 fl3 fl2
 0
 2
-0 7 6 7
 0 6 4 2
+0 7 6 7
 1
 end_operator
 begin_operator
 zoom plane2 city6 city7 fl5 fl4 fl3
 0
 2
-0 7 6 7
 0 6 5 3
+0 7 6 7
 1
 end_operator
 begin_operator
 zoom plane2 city6 city7 fl6 fl5 fl4
 0
 2
-0 7 6 7
 0 6 6 4
+0 7 6 7
 1
 end_operator
 begin_operator
 zoom plane2 city6 city8 fl2 fl1 fl0
 0
 2
-0 7 6 8
 0 6 2 0
+0 7 6 8
 1
 end_operator
 begin_operator
 zoom plane2 city6 city8 fl3 fl2 fl1
 0
 2
-0 7 6 8
 0 6 3 1
+0 7 6 8
 1
 end_operator
 begin_operator
 zoom plane2 city6 city8 fl4 fl3 fl2
 0
 2
-0 7 6 8
 0 6 4 2
+0 7 6 8
 1
 end_operator
 begin_operator
 zoom plane2 city6 city8 fl5 fl4 fl3
 0
 2
-0 7 6 8
 0 6 5 3
+0 7 6 8
 1
 end_operator
 begin_operator
 zoom plane2 city6 city8 fl6 fl5 fl4
 0
 2
-0 7 6 8
 0 6 6 4
+0 7 6 8
 1
 end_operator
 begin_operator
 zoom plane2 city6 city9 fl2 fl1 fl0
 0
 2
-0 7 6 9
 0 6 2 0
+0 7 6 9
 1
 end_operator
 begin_operator
 zoom plane2 city6 city9 fl3 fl2 fl1
 0
 2
-0 7 6 9
 0 6 3 1
+0 7 6 9
 1
 end_operator
 begin_operator
 zoom plane2 city6 city9 fl4 fl3 fl2
 0
 2
-0 7 6 9
 0 6 4 2
+0 7 6 9
 1
 end_operator
 begin_operator
 zoom plane2 city6 city9 fl5 fl4 fl3
 0
 2
-0 7 6 9
 0 6 5 3
+0 7 6 9
 1
 end_operator
 begin_operator
 zoom plane2 city6 city9 fl6 fl5 fl4
 0
 2
-0 7 6 9
 0 6 6 4
+0 7 6 9
 1
 end_operator
 begin_operator
 zoom plane2 city7 city0 fl2 fl1 fl0
 0
 2
-0 7 7 0
 0 6 2 0
+0 7 7 0
 1
 end_operator
 begin_operator
 zoom plane2 city7 city0 fl3 fl2 fl1
 0
 2
-0 7 7 0
 0 6 3 1
+0 7 7 0
 1
 end_operator
 begin_operator
 zoom plane2 city7 city0 fl4 fl3 fl2
 0
 2
-0 7 7 0
 0 6 4 2
+0 7 7 0
 1
 end_operator
 begin_operator
 zoom plane2 city7 city0 fl5 fl4 fl3
 0
 2
-0 7 7 0
 0 6 5 3
+0 7 7 0
 1
 end_operator
 begin_operator
 zoom plane2 city7 city0 fl6 fl5 fl4
 0
 2
-0 7 7 0
 0 6 6 4
+0 7 7 0
 1
 end_operator
 begin_operator
 zoom plane2 city7 city1 fl2 fl1 fl0
 0
 2
-0 7 7 1
 0 6 2 0
+0 7 7 1
 1
 end_operator
 begin_operator
 zoom plane2 city7 city1 fl3 fl2 fl1
 0
 2
-0 7 7 1
 0 6 3 1
+0 7 7 1
 1
 end_operator
 begin_operator
 zoom plane2 city7 city1 fl4 fl3 fl2
 0
 2
-0 7 7 1
 0 6 4 2
+0 7 7 1
 1
 end_operator
 begin_operator
 zoom plane2 city7 city1 fl5 fl4 fl3
 0
 2
-0 7 7 1
 0 6 5 3
+0 7 7 1
 1
 end_operator
 begin_operator
 zoom plane2 city7 city1 fl6 fl5 fl4
 0
 2
-0 7 7 1
 0 6 6 4
+0 7 7 1
 1
 end_operator
 begin_operator
 zoom plane2 city7 city2 fl2 fl1 fl0
 0
 2
-0 7 7 2
 0 6 2 0
+0 7 7 2
 1
 end_operator
 begin_operator
 zoom plane2 city7 city2 fl3 fl2 fl1
 0
 2
-0 7 7 2
 0 6 3 1
+0 7 7 2
 1
 end_operator
 begin_operator
 zoom plane2 city7 city2 fl4 fl3 fl2
 0
 2
-0 7 7 2
 0 6 4 2
+0 7 7 2
 1
 end_operator
 begin_operator
 zoom plane2 city7 city2 fl5 fl4 fl3
 0
 2
-0 7 7 2
 0 6 5 3
+0 7 7 2
 1
 end_operator
 begin_operator
 zoom plane2 city7 city2 fl6 fl5 fl4
 0
 2
-0 7 7 2
 0 6 6 4
+0 7 7 2
 1
 end_operator
 begin_operator
 zoom plane2 city7 city3 fl2 fl1 fl0
 0
 2
-0 7 7 3
 0 6 2 0
+0 7 7 3
 1
 end_operator
 begin_operator
 zoom plane2 city7 city3 fl3 fl2 fl1
 0
 2
-0 7 7 3
 0 6 3 1
+0 7 7 3
 1
 end_operator
 begin_operator
 zoom plane2 city7 city3 fl4 fl3 fl2
 0
 2
-0 7 7 3
 0 6 4 2
+0 7 7 3
 1
 end_operator
 begin_operator
 zoom plane2 city7 city3 fl5 fl4 fl3
 0
 2
-0 7 7 3
 0 6 5 3
+0 7 7 3
 1
 end_operator
 begin_operator
 zoom plane2 city7 city3 fl6 fl5 fl4
 0
 2
-0 7 7 3
 0 6 6 4
+0 7 7 3
 1
 end_operator
 begin_operator
 zoom plane2 city7 city4 fl2 fl1 fl0
 0
 2
-0 7 7 4
 0 6 2 0
+0 7 7 4
 1
 end_operator
 begin_operator
 zoom plane2 city7 city4 fl3 fl2 fl1
 0
 2
-0 7 7 4
 0 6 3 1
+0 7 7 4
 1
 end_operator
 begin_operator
 zoom plane2 city7 city4 fl4 fl3 fl2
 0
 2
-0 7 7 4
 0 6 4 2
+0 7 7 4
 1
 end_operator
 begin_operator
 zoom plane2 city7 city4 fl5 fl4 fl3
 0
 2
-0 7 7 4
 0 6 5 3
+0 7 7 4
 1
 end_operator
 begin_operator
 zoom plane2 city7 city4 fl6 fl5 fl4
 0
 2
-0 7 7 4
 0 6 6 4
+0 7 7 4
 1
 end_operator
 begin_operator
 zoom plane2 city7 city5 fl2 fl1 fl0
 0
 2
-0 7 7 5
 0 6 2 0
+0 7 7 5
 1
 end_operator
 begin_operator
 zoom plane2 city7 city5 fl3 fl2 fl1
 0
 2
-0 7 7 5
 0 6 3 1
+0 7 7 5
 1
 end_operator
 begin_operator
 zoom plane2 city7 city5 fl4 fl3 fl2
 0
 2
-0 7 7 5
 0 6 4 2
+0 7 7 5
 1
 end_operator
 begin_operator
 zoom plane2 city7 city5 fl5 fl4 fl3
 0
 2
-0 7 7 5
 0 6 5 3
+0 7 7 5
 1
 end_operator
 begin_operator
 zoom plane2 city7 city5 fl6 fl5 fl4
 0
 2
-0 7 7 5
 0 6 6 4
+0 7 7 5
 1
 end_operator
 begin_operator
 zoom plane2 city7 city6 fl2 fl1 fl0
 0
 2
-0 7 7 6
 0 6 2 0
+0 7 7 6
 1
 end_operator
 begin_operator
 zoom plane2 city7 city6 fl3 fl2 fl1
 0
 2
-0 7 7 6
 0 6 3 1
+0 7 7 6
 1
 end_operator
 begin_operator
 zoom plane2 city7 city6 fl4 fl3 fl2
 0
 2
-0 7 7 6
 0 6 4 2
+0 7 7 6
 1
 end_operator
 begin_operator
 zoom plane2 city7 city6 fl5 fl4 fl3
 0
 2
-0 7 7 6
 0 6 5 3
+0 7 7 6
 1
 end_operator
 begin_operator
 zoom plane2 city7 city6 fl6 fl5 fl4
 0
 2
-0 7 7 6
 0 6 6 4
+0 7 7 6
 1
 end_operator
 begin_operator
@@ -41903,400 +41903,400 @@ begin_operator
 zoom plane2 city7 city8 fl2 fl1 fl0
 0
 2
-0 7 7 8
 0 6 2 0
+0 7 7 8
 1
 end_operator
 begin_operator
 zoom plane2 city7 city8 fl3 fl2 fl1
 0
 2
-0 7 7 8
 0 6 3 1
+0 7 7 8
 1
 end_operator
 begin_operator
 zoom plane2 city7 city8 fl4 fl3 fl2
 0
 2
-0 7 7 8
 0 6 4 2
+0 7 7 8
 1
 end_operator
 begin_operator
 zoom plane2 city7 city8 fl5 fl4 fl3
 0
 2
-0 7 7 8
 0 6 5 3
+0 7 7 8
 1
 end_operator
 begin_operator
 zoom plane2 city7 city8 fl6 fl5 fl4
 0
 2
-0 7 7 8
 0 6 6 4
+0 7 7 8
 1
 end_operator
 begin_operator
 zoom plane2 city7 city9 fl2 fl1 fl0
 0
 2
-0 7 7 9
 0 6 2 0
+0 7 7 9
 1
 end_operator
 begin_operator
 zoom plane2 city7 city9 fl3 fl2 fl1
 0
 2
-0 7 7 9
 0 6 3 1
+0 7 7 9
 1
 end_operator
 begin_operator
 zoom plane2 city7 city9 fl4 fl3 fl2
 0
 2
-0 7 7 9
 0 6 4 2
+0 7 7 9
 1
 end_operator
 begin_operator
 zoom plane2 city7 city9 fl5 fl4 fl3
 0
 2
-0 7 7 9
 0 6 5 3
+0 7 7 9
 1
 end_operator
 begin_operator
 zoom plane2 city7 city9 fl6 fl5 fl4
 0
 2
-0 7 7 9
 0 6 6 4
+0 7 7 9
 1
 end_operator
 begin_operator
 zoom plane2 city8 city0 fl2 fl1 fl0
 0
 2
-0 7 8 0
 0 6 2 0
+0 7 8 0
 1
 end_operator
 begin_operator
 zoom plane2 city8 city0 fl3 fl2 fl1
 0
 2
-0 7 8 0
 0 6 3 1
+0 7 8 0
 1
 end_operator
 begin_operator
 zoom plane2 city8 city0 fl4 fl3 fl2
 0
 2
-0 7 8 0
 0 6 4 2
+0 7 8 0
 1
 end_operator
 begin_operator
 zoom plane2 city8 city0 fl5 fl4 fl3
 0
 2
-0 7 8 0
 0 6 5 3
+0 7 8 0
 1
 end_operator
 begin_operator
 zoom plane2 city8 city0 fl6 fl5 fl4
 0
 2
-0 7 8 0
 0 6 6 4
+0 7 8 0
 1
 end_operator
 begin_operator
 zoom plane2 city8 city1 fl2 fl1 fl0
 0
 2
-0 7 8 1
 0 6 2 0
+0 7 8 1
 1
 end_operator
 begin_operator
 zoom plane2 city8 city1 fl3 fl2 fl1
 0
 2
-0 7 8 1
 0 6 3 1
+0 7 8 1
 1
 end_operator
 begin_operator
 zoom plane2 city8 city1 fl4 fl3 fl2
 0
 2
-0 7 8 1
 0 6 4 2
+0 7 8 1
 1
 end_operator
 begin_operator
 zoom plane2 city8 city1 fl5 fl4 fl3
 0
 2
-0 7 8 1
 0 6 5 3
+0 7 8 1
 1
 end_operator
 begin_operator
 zoom plane2 city8 city1 fl6 fl5 fl4
 0
 2
-0 7 8 1
 0 6 6 4
+0 7 8 1
 1
 end_operator
 begin_operator
 zoom plane2 city8 city2 fl2 fl1 fl0
 0
 2
-0 7 8 2
 0 6 2 0
+0 7 8 2
 1
 end_operator
 begin_operator
 zoom plane2 city8 city2 fl3 fl2 fl1
 0
 2
-0 7 8 2
 0 6 3 1
+0 7 8 2
 1
 end_operator
 begin_operator
 zoom plane2 city8 city2 fl4 fl3 fl2
 0
 2
-0 7 8 2
 0 6 4 2
+0 7 8 2
 1
 end_operator
 begin_operator
 zoom plane2 city8 city2 fl5 fl4 fl3
 0
 2
-0 7 8 2
 0 6 5 3
+0 7 8 2
 1
 end_operator
 begin_operator
 zoom plane2 city8 city2 fl6 fl5 fl4
 0
 2
-0 7 8 2
 0 6 6 4
+0 7 8 2
 1
 end_operator
 begin_operator
 zoom plane2 city8 city3 fl2 fl1 fl0
 0
 2
-0 7 8 3
 0 6 2 0
+0 7 8 3
 1
 end_operator
 begin_operator
 zoom plane2 city8 city3 fl3 fl2 fl1
 0
 2
-0 7 8 3
 0 6 3 1
+0 7 8 3
 1
 end_operator
 begin_operator
 zoom plane2 city8 city3 fl4 fl3 fl2
 0
 2
-0 7 8 3
 0 6 4 2
+0 7 8 3
 1
 end_operator
 begin_operator
 zoom plane2 city8 city3 fl5 fl4 fl3
 0
 2
-0 7 8 3
 0 6 5 3
+0 7 8 3
 1
 end_operator
 begin_operator
 zoom plane2 city8 city3 fl6 fl5 fl4
 0
 2
-0 7 8 3
 0 6 6 4
+0 7 8 3
 1
 end_operator
 begin_operator
 zoom plane2 city8 city4 fl2 fl1 fl0
 0
 2
-0 7 8 4
 0 6 2 0
+0 7 8 4
 1
 end_operator
 begin_operator
 zoom plane2 city8 city4 fl3 fl2 fl1
 0
 2
-0 7 8 4
 0 6 3 1
+0 7 8 4
 1
 end_operator
 begin_operator
 zoom plane2 city8 city4 fl4 fl3 fl2
 0
 2
-0 7 8 4
 0 6 4 2
+0 7 8 4
 1
 end_operator
 begin_operator
 zoom plane2 city8 city4 fl5 fl4 fl3
 0
 2
-0 7 8 4
 0 6 5 3
+0 7 8 4
 1
 end_operator
 begin_operator
 zoom plane2 city8 city4 fl6 fl5 fl4
 0
 2
-0 7 8 4
 0 6 6 4
+0 7 8 4
 1
 end_operator
 begin_operator
 zoom plane2 city8 city5 fl2 fl1 fl0
 0
 2
-0 7 8 5
 0 6 2 0
+0 7 8 5
 1
 end_operator
 begin_operator
 zoom plane2 city8 city5 fl3 fl2 fl1
 0
 2
-0 7 8 5
 0 6 3 1
+0 7 8 5
 1
 end_operator
 begin_operator
 zoom plane2 city8 city5 fl4 fl3 fl2
 0
 2
-0 7 8 5
 0 6 4 2
+0 7 8 5
 1
 end_operator
 begin_operator
 zoom plane2 city8 city5 fl5 fl4 fl3
 0
 2
-0 7 8 5
 0 6 5 3
+0 7 8 5
 1
 end_operator
 begin_operator
 zoom plane2 city8 city5 fl6 fl5 fl4
 0
 2
-0 7 8 5
 0 6 6 4
+0 7 8 5
 1
 end_operator
 begin_operator
 zoom plane2 city8 city6 fl2 fl1 fl0
 0
 2
-0 7 8 6
 0 6 2 0
+0 7 8 6
 1
 end_operator
 begin_operator
 zoom plane2 city8 city6 fl3 fl2 fl1
 0
 2
-0 7 8 6
 0 6 3 1
+0 7 8 6
 1
 end_operator
 begin_operator
 zoom plane2 city8 city6 fl4 fl3 fl2
 0
 2
-0 7 8 6
 0 6 4 2
+0 7 8 6
 1
 end_operator
 begin_operator
 zoom plane2 city8 city6 fl5 fl4 fl3
 0
 2
-0 7 8 6
 0 6 5 3
+0 7 8 6
 1
 end_operator
 begin_operator
 zoom plane2 city8 city6 fl6 fl5 fl4
 0
 2
-0 7 8 6
 0 6 6 4
+0 7 8 6
 1
 end_operator
 begin_operator
 zoom plane2 city8 city7 fl2 fl1 fl0
 0
 2
-0 7 8 7
 0 6 2 0
+0 7 8 7
 1
 end_operator
 begin_operator
 zoom plane2 city8 city7 fl3 fl2 fl1
 0
 2
-0 7 8 7
 0 6 3 1
+0 7 8 7
 1
 end_operator
 begin_operator
 zoom plane2 city8 city7 fl4 fl3 fl2
 0
 2
-0 7 8 7
 0 6 4 2
+0 7 8 7
 1
 end_operator
 begin_operator
 zoom plane2 city8 city7 fl5 fl4 fl3
 0
 2
-0 7 8 7
 0 6 5 3
+0 7 8 7
 1
 end_operator
 begin_operator
 zoom plane2 city8 city7 fl6 fl5 fl4
 0
 2
-0 7 8 7
 0 6 6 4
+0 7 8 7
 1
 end_operator
 begin_operator
@@ -42343,400 +42343,400 @@ begin_operator
 zoom plane2 city8 city9 fl2 fl1 fl0
 0
 2
-0 7 8 9
 0 6 2 0
+0 7 8 9
 1
 end_operator
 begin_operator
 zoom plane2 city8 city9 fl3 fl2 fl1
 0
 2
-0 7 8 9
 0 6 3 1
+0 7 8 9
 1
 end_operator
 begin_operator
 zoom plane2 city8 city9 fl4 fl3 fl2
 0
 2
-0 7 8 9
 0 6 4 2
+0 7 8 9
 1
 end_operator
 begin_operator
 zoom plane2 city8 city9 fl5 fl4 fl3
 0
 2
-0 7 8 9
 0 6 5 3
+0 7 8 9
 1
 end_operator
 begin_operator
 zoom plane2 city8 city9 fl6 fl5 fl4
 0
 2
-0 7 8 9
 0 6 6 4
+0 7 8 9
 1
 end_operator
 begin_operator
 zoom plane2 city9 city0 fl2 fl1 fl0
 0
 2
-0 7 9 0
 0 6 2 0
+0 7 9 0
 1
 end_operator
 begin_operator
 zoom plane2 city9 city0 fl3 fl2 fl1
 0
 2
-0 7 9 0
 0 6 3 1
+0 7 9 0
 1
 end_operator
 begin_operator
 zoom plane2 city9 city0 fl4 fl3 fl2
 0
 2
-0 7 9 0
 0 6 4 2
+0 7 9 0
 1
 end_operator
 begin_operator
 zoom plane2 city9 city0 fl5 fl4 fl3
 0
 2
-0 7 9 0
 0 6 5 3
+0 7 9 0
 1
 end_operator
 begin_operator
 zoom plane2 city9 city0 fl6 fl5 fl4
 0
 2
-0 7 9 0
 0 6 6 4
+0 7 9 0
 1
 end_operator
 begin_operator
 zoom plane2 city9 city1 fl2 fl1 fl0
 0
 2
-0 7 9 1
 0 6 2 0
+0 7 9 1
 1
 end_operator
 begin_operator
 zoom plane2 city9 city1 fl3 fl2 fl1
 0
 2
-0 7 9 1
 0 6 3 1
+0 7 9 1
 1
 end_operator
 begin_operator
 zoom plane2 city9 city1 fl4 fl3 fl2
 0
 2
-0 7 9 1
 0 6 4 2
+0 7 9 1
 1
 end_operator
 begin_operator
 zoom plane2 city9 city1 fl5 fl4 fl3
 0
 2
-0 7 9 1
 0 6 5 3
+0 7 9 1
 1
 end_operator
 begin_operator
 zoom plane2 city9 city1 fl6 fl5 fl4
 0
 2
-0 7 9 1
 0 6 6 4
+0 7 9 1
 1
 end_operator
 begin_operator
 zoom plane2 city9 city2 fl2 fl1 fl0
 0
 2
-0 7 9 2
 0 6 2 0
+0 7 9 2
 1
 end_operator
 begin_operator
 zoom plane2 city9 city2 fl3 fl2 fl1
 0
 2
-0 7 9 2
 0 6 3 1
+0 7 9 2
 1
 end_operator
 begin_operator
 zoom plane2 city9 city2 fl4 fl3 fl2
 0
 2
-0 7 9 2
 0 6 4 2
+0 7 9 2
 1
 end_operator
 begin_operator
 zoom plane2 city9 city2 fl5 fl4 fl3
 0
 2
-0 7 9 2
 0 6 5 3
+0 7 9 2
 1
 end_operator
 begin_operator
 zoom plane2 city9 city2 fl6 fl5 fl4
 0
 2
-0 7 9 2
 0 6 6 4
+0 7 9 2
 1
 end_operator
 begin_operator
 zoom plane2 city9 city3 fl2 fl1 fl0
 0
 2
-0 7 9 3
 0 6 2 0
+0 7 9 3
 1
 end_operator
 begin_operator
 zoom plane2 city9 city3 fl3 fl2 fl1
 0
 2
-0 7 9 3
 0 6 3 1
+0 7 9 3
 1
 end_operator
 begin_operator
 zoom plane2 city9 city3 fl4 fl3 fl2
 0
 2
-0 7 9 3
 0 6 4 2
+0 7 9 3
 1
 end_operator
 begin_operator
 zoom plane2 city9 city3 fl5 fl4 fl3
 0
 2
-0 7 9 3
 0 6 5 3
+0 7 9 3
 1
 end_operator
 begin_operator
 zoom plane2 city9 city3 fl6 fl5 fl4
 0
 2
-0 7 9 3
 0 6 6 4
+0 7 9 3
 1
 end_operator
 begin_operator
 zoom plane2 city9 city4 fl2 fl1 fl0
 0
 2
-0 7 9 4
 0 6 2 0
+0 7 9 4
 1
 end_operator
 begin_operator
 zoom plane2 city9 city4 fl3 fl2 fl1
 0
 2
-0 7 9 4
 0 6 3 1
+0 7 9 4
 1
 end_operator
 begin_operator
 zoom plane2 city9 city4 fl4 fl3 fl2
 0
 2
-0 7 9 4
 0 6 4 2
+0 7 9 4
 1
 end_operator
 begin_operator
 zoom plane2 city9 city4 fl5 fl4 fl3
 0
 2
-0 7 9 4
 0 6 5 3
+0 7 9 4
 1
 end_operator
 begin_operator
 zoom plane2 city9 city4 fl6 fl5 fl4
 0
 2
-0 7 9 4
 0 6 6 4
+0 7 9 4
 1
 end_operator
 begin_operator
 zoom plane2 city9 city5 fl2 fl1 fl0
 0
 2
-0 7 9 5
 0 6 2 0
+0 7 9 5
 1
 end_operator
 begin_operator
 zoom plane2 city9 city5 fl3 fl2 fl1
 0
 2
-0 7 9 5
 0 6 3 1
+0 7 9 5
 1
 end_operator
 begin_operator
 zoom plane2 city9 city5 fl4 fl3 fl2
 0
 2
-0 7 9 5
 0 6 4 2
+0 7 9 5
 1
 end_operator
 begin_operator
 zoom plane2 city9 city5 fl5 fl4 fl3
 0
 2
-0 7 9 5
 0 6 5 3
+0 7 9 5
 1
 end_operator
 begin_operator
 zoom plane2 city9 city5 fl6 fl5 fl4
 0
 2
-0 7 9 5
 0 6 6 4
+0 7 9 5
 1
 end_operator
 begin_operator
 zoom plane2 city9 city6 fl2 fl1 fl0
 0
 2
-0 7 9 6
 0 6 2 0
+0 7 9 6
 1
 end_operator
 begin_operator
 zoom plane2 city9 city6 fl3 fl2 fl1
 0
 2
-0 7 9 6
 0 6 3 1
+0 7 9 6
 1
 end_operator
 begin_operator
 zoom plane2 city9 city6 fl4 fl3 fl2
 0
 2
-0 7 9 6
 0 6 4 2
+0 7 9 6
 1
 end_operator
 begin_operator
 zoom plane2 city9 city6 fl5 fl4 fl3
 0
 2
-0 7 9 6
 0 6 5 3
+0 7 9 6
 1
 end_operator
 begin_operator
 zoom plane2 city9 city6 fl6 fl5 fl4
 0
 2
-0 7 9 6
 0 6 6 4
+0 7 9 6
 1
 end_operator
 begin_operator
 zoom plane2 city9 city7 fl2 fl1 fl0
 0
 2
-0 7 9 7
 0 6 2 0
+0 7 9 7
 1
 end_operator
 begin_operator
 zoom plane2 city9 city7 fl3 fl2 fl1
 0
 2
-0 7 9 7
 0 6 3 1
+0 7 9 7
 1
 end_operator
 begin_operator
 zoom plane2 city9 city7 fl4 fl3 fl2
 0
 2
-0 7 9 7
 0 6 4 2
+0 7 9 7
 1
 end_operator
 begin_operator
 zoom plane2 city9 city7 fl5 fl4 fl3
 0
 2
-0 7 9 7
 0 6 5 3
+0 7 9 7
 1
 end_operator
 begin_operator
 zoom plane2 city9 city7 fl6 fl5 fl4
 0
 2
-0 7 9 7
 0 6 6 4
+0 7 9 7
 1
 end_operator
 begin_operator
 zoom plane2 city9 city8 fl2 fl1 fl0
 0
 2
-0 7 9 8
 0 6 2 0
+0 7 9 8
 1
 end_operator
 begin_operator
 zoom plane2 city9 city8 fl3 fl2 fl1
 0
 2
-0 7 9 8
 0 6 3 1
+0 7 9 8
 1
 end_operator
 begin_operator
 zoom plane2 city9 city8 fl4 fl3 fl2
 0
 2
-0 7 9 8
 0 6 4 2
+0 7 9 8
 1
 end_operator
 begin_operator
 zoom plane2 city9 city8 fl5 fl4 fl3
 0
 2
-0 7 9 8
 0 6 5 3
+0 7 9 8
 1
 end_operator
 begin_operator
 zoom plane2 city9 city8 fl6 fl5 fl4
 0
 2
-0 7 9 8
 0 6 6 4
+0 7 9 8
 1
 end_operator
 begin_operator
@@ -46823,400 +46823,400 @@ begin_operator
 zoom plane4 city0 city1 fl2 fl1 fl0
 0
 2
-0 3 0 1
 0 2 2 0
+0 3 0 1
 1
 end_operator
 begin_operator
 zoom plane4 city0 city1 fl3 fl2 fl1
 0
 2
-0 3 0 1
 0 2 3 1
+0 3 0 1
 1
 end_operator
 begin_operator
 zoom plane4 city0 city1 fl4 fl3 fl2
 0
 2
-0 3 0 1
 0 2 4 2
+0 3 0 1
 1
 end_operator
 begin_operator
 zoom plane4 city0 city1 fl5 fl4 fl3
 0
 2
-0 3 0 1
 0 2 5 3
+0 3 0 1
 1
 end_operator
 begin_operator
 zoom plane4 city0 city1 fl6 fl5 fl4
 0
 2
-0 3 0 1
 0 2 6 4
+0 3 0 1
 1
 end_operator
 begin_operator
 zoom plane4 city0 city2 fl2 fl1 fl0
 0
 2
-0 3 0 2
 0 2 2 0
+0 3 0 2
 1
 end_operator
 begin_operator
 zoom plane4 city0 city2 fl3 fl2 fl1
 0
 2
-0 3 0 2
 0 2 3 1
+0 3 0 2
 1
 end_operator
 begin_operator
 zoom plane4 city0 city2 fl4 fl3 fl2
 0
 2
-0 3 0 2
 0 2 4 2
+0 3 0 2
 1
 end_operator
 begin_operator
 zoom plane4 city0 city2 fl5 fl4 fl3
 0
 2
-0 3 0 2
 0 2 5 3
+0 3 0 2
 1
 end_operator
 begin_operator
 zoom plane4 city0 city2 fl6 fl5 fl4
 0
 2
-0 3 0 2
 0 2 6 4
+0 3 0 2
 1
 end_operator
 begin_operator
 zoom plane4 city0 city3 fl2 fl1 fl0
 0
 2
-0 3 0 3
 0 2 2 0
+0 3 0 3
 1
 end_operator
 begin_operator
 zoom plane4 city0 city3 fl3 fl2 fl1
 0
 2
-0 3 0 3
 0 2 3 1
+0 3 0 3
 1
 end_operator
 begin_operator
 zoom plane4 city0 city3 fl4 fl3 fl2
 0
 2
-0 3 0 3
 0 2 4 2
+0 3 0 3
 1
 end_operator
 begin_operator
 zoom plane4 city0 city3 fl5 fl4 fl3
 0
 2
-0 3 0 3
 0 2 5 3
+0 3 0 3
 1
 end_operator
 begin_operator
 zoom plane4 city0 city3 fl6 fl5 fl4
 0
 2
-0 3 0 3
 0 2 6 4
+0 3 0 3
 1
 end_operator
 begin_operator
 zoom plane4 city0 city4 fl2 fl1 fl0
 0
 2
-0 3 0 4
 0 2 2 0
+0 3 0 4
 1
 end_operator
 begin_operator
 zoom plane4 city0 city4 fl3 fl2 fl1
 0
 2
-0 3 0 4
 0 2 3 1
+0 3 0 4
 1
 end_operator
 begin_operator
 zoom plane4 city0 city4 fl4 fl3 fl2
 0
 2
-0 3 0 4
 0 2 4 2
+0 3 0 4
 1
 end_operator
 begin_operator
 zoom plane4 city0 city4 fl5 fl4 fl3
 0
 2
-0 3 0 4
 0 2 5 3
+0 3 0 4
 1
 end_operator
 begin_operator
 zoom plane4 city0 city4 fl6 fl5 fl4
 0
 2
-0 3 0 4
 0 2 6 4
+0 3 0 4
 1
 end_operator
 begin_operator
 zoom plane4 city0 city5 fl2 fl1 fl0
 0
 2
-0 3 0 5
 0 2 2 0
+0 3 0 5
 1
 end_operator
 begin_operator
 zoom plane4 city0 city5 fl3 fl2 fl1
 0
 2
-0 3 0 5
 0 2 3 1
+0 3 0 5
 1
 end_operator
 begin_operator
 zoom plane4 city0 city5 fl4 fl3 fl2
 0
 2
-0 3 0 5
 0 2 4 2
+0 3 0 5
 1
 end_operator
 begin_operator
 zoom plane4 city0 city5 fl5 fl4 fl3
 0
 2
-0 3 0 5
 0 2 5 3
+0 3 0 5
 1
 end_operator
 begin_operator
 zoom plane4 city0 city5 fl6 fl5 fl4
 0
 2
-0 3 0 5
 0 2 6 4
+0 3 0 5
 1
 end_operator
 begin_operator
 zoom plane4 city0 city6 fl2 fl1 fl0
 0
 2
-0 3 0 6
 0 2 2 0
+0 3 0 6
 1
 end_operator
 begin_operator
 zoom plane4 city0 city6 fl3 fl2 fl1
 0
 2
-0 3 0 6
 0 2 3 1
+0 3 0 6
 1
 end_operator
 begin_operator
 zoom plane4 city0 city6 fl4 fl3 fl2
 0
 2
-0 3 0 6
 0 2 4 2
+0 3 0 6
 1
 end_operator
 begin_operator
 zoom plane4 city0 city6 fl5 fl4 fl3
 0
 2
-0 3 0 6
 0 2 5 3
+0 3 0 6
 1
 end_operator
 begin_operator
 zoom plane4 city0 city6 fl6 fl5 fl4
 0
 2
-0 3 0 6
 0 2 6 4
+0 3 0 6
 1
 end_operator
 begin_operator
 zoom plane4 city0 city7 fl2 fl1 fl0
 0
 2
-0 3 0 7
 0 2 2 0
+0 3 0 7
 1
 end_operator
 begin_operator
 zoom plane4 city0 city7 fl3 fl2 fl1
 0
 2
-0 3 0 7
 0 2 3 1
+0 3 0 7
 1
 end_operator
 begin_operator
 zoom plane4 city0 city7 fl4 fl3 fl2
 0
 2
-0 3 0 7
 0 2 4 2
+0 3 0 7
 1
 end_operator
 begin_operator
 zoom plane4 city0 city7 fl5 fl4 fl3
 0
 2
-0 3 0 7
 0 2 5 3
+0 3 0 7
 1
 end_operator
 begin_operator
 zoom plane4 city0 city7 fl6 fl5 fl4
 0
 2
-0 3 0 7
 0 2 6 4
+0 3 0 7
 1
 end_operator
 begin_operator
 zoom plane4 city0 city8 fl2 fl1 fl0
 0
 2
-0 3 0 8
 0 2 2 0
+0 3 0 8
 1
 end_operator
 begin_operator
 zoom plane4 city0 city8 fl3 fl2 fl1
 0
 2
-0 3 0 8
 0 2 3 1
+0 3 0 8
 1
 end_operator
 begin_operator
 zoom plane4 city0 city8 fl4 fl3 fl2
 0
 2
-0 3 0 8
 0 2 4 2
+0 3 0 8
 1
 end_operator
 begin_operator
 zoom plane4 city0 city8 fl5 fl4 fl3
 0
 2
-0 3 0 8
 0 2 5 3
+0 3 0 8
 1
 end_operator
 begin_operator
 zoom plane4 city0 city8 fl6 fl5 fl4
 0
 2
-0 3 0 8
 0 2 6 4
+0 3 0 8
 1
 end_operator
 begin_operator
 zoom plane4 city0 city9 fl2 fl1 fl0
 0
 2
-0 3 0 9
 0 2 2 0
+0 3 0 9
 1
 end_operator
 begin_operator
 zoom plane4 city0 city9 fl3 fl2 fl1
 0
 2
-0 3 0 9
 0 2 3 1
+0 3 0 9
 1
 end_operator
 begin_operator
 zoom plane4 city0 city9 fl4 fl3 fl2
 0
 2
-0 3 0 9
 0 2 4 2
+0 3 0 9
 1
 end_operator
 begin_operator
 zoom plane4 city0 city9 fl5 fl4 fl3
 0
 2
-0 3 0 9
 0 2 5 3
+0 3 0 9
 1
 end_operator
 begin_operator
 zoom plane4 city0 city9 fl6 fl5 fl4
 0
 2
-0 3 0 9
 0 2 6 4
+0 3 0 9
 1
 end_operator
 begin_operator
 zoom plane4 city1 city0 fl2 fl1 fl0
 0
 2
-0 3 1 0
 0 2 2 0
+0 3 1 0
 1
 end_operator
 begin_operator
 zoom plane4 city1 city0 fl3 fl2 fl1
 0
 2
-0 3 1 0
 0 2 3 1
+0 3 1 0
 1
 end_operator
 begin_operator
 zoom plane4 city1 city0 fl4 fl3 fl2
 0
 2
-0 3 1 0
 0 2 4 2
+0 3 1 0
 1
 end_operator
 begin_operator
 zoom plane4 city1 city0 fl5 fl4 fl3
 0
 2
-0 3 1 0
 0 2 5 3
+0 3 1 0
 1
 end_operator
 begin_operator
 zoom plane4 city1 city0 fl6 fl5 fl4
 0
 2
-0 3 1 0
 0 2 6 4
+0 3 1 0
 1
 end_operator
 begin_operator
@@ -47263,400 +47263,400 @@ begin_operator
 zoom plane4 city1 city2 fl2 fl1 fl0
 0
 2
-0 3 1 2
 0 2 2 0
+0 3 1 2
 1
 end_operator
 begin_operator
 zoom plane4 city1 city2 fl3 fl2 fl1
 0
 2
-0 3 1 2
 0 2 3 1
+0 3 1 2
 1
 end_operator
 begin_operator
 zoom plane4 city1 city2 fl4 fl3 fl2
 0
 2
-0 3 1 2
 0 2 4 2
+0 3 1 2
 1
 end_operator
 begin_operator
 zoom plane4 city1 city2 fl5 fl4 fl3
 0
 2
-0 3 1 2
 0 2 5 3
+0 3 1 2
 1
 end_operator
 begin_operator
 zoom plane4 city1 city2 fl6 fl5 fl4
 0
 2
-0 3 1 2
 0 2 6 4
+0 3 1 2
 1
 end_operator
 begin_operator
 zoom plane4 city1 city3 fl2 fl1 fl0
 0
 2
-0 3 1 3
 0 2 2 0
+0 3 1 3
 1
 end_operator
 begin_operator
 zoom plane4 city1 city3 fl3 fl2 fl1
 0
 2
-0 3 1 3
 0 2 3 1
+0 3 1 3
 1
 end_operator
 begin_operator
 zoom plane4 city1 city3 fl4 fl3 fl2
 0
 2
-0 3 1 3
 0 2 4 2
+0 3 1 3
 1
 end_operator
 begin_operator
 zoom plane4 city1 city3 fl5 fl4 fl3
 0
 2
-0 3 1 3
 0 2 5 3
+0 3 1 3
 1
 end_operator
 begin_operator
 zoom plane4 city1 city3 fl6 fl5 fl4
 0
 2
-0 3 1 3
 0 2 6 4
+0 3 1 3
 1
 end_operator
 begin_operator
 zoom plane4 city1 city4 fl2 fl1 fl0
 0
 2
-0 3 1 4
 0 2 2 0
+0 3 1 4
 1
 end_operator
 begin_operator
 zoom plane4 city1 city4 fl3 fl2 fl1
 0
 2
-0 3 1 4
 0 2 3 1
+0 3 1 4
 1
 end_operator
 begin_operator
 zoom plane4 city1 city4 fl4 fl3 fl2
 0
 2
-0 3 1 4
 0 2 4 2
+0 3 1 4
 1
 end_operator
 begin_operator
 zoom plane4 city1 city4 fl5 fl4 fl3
 0
 2
-0 3 1 4
 0 2 5 3
+0 3 1 4
 1
 end_operator
 begin_operator
 zoom plane4 city1 city4 fl6 fl5 fl4
 0
 2
-0 3 1 4
 0 2 6 4
+0 3 1 4
 1
 end_operator
 begin_operator
 zoom plane4 city1 city5 fl2 fl1 fl0
 0
 2
-0 3 1 5
 0 2 2 0
+0 3 1 5
 1
 end_operator
 begin_operator
 zoom plane4 city1 city5 fl3 fl2 fl1
 0
 2
-0 3 1 5
 0 2 3 1
+0 3 1 5
 1
 end_operator
 begin_operator
 zoom plane4 city1 city5 fl4 fl3 fl2
 0
 2
-0 3 1 5
 0 2 4 2
+0 3 1 5
 1
 end_operator
 begin_operator
 zoom plane4 city1 city5 fl5 fl4 fl3
 0
 2
-0 3 1 5
 0 2 5 3
+0 3 1 5
 1
 end_operator
 begin_operator
 zoom plane4 city1 city5 fl6 fl5 fl4
 0
 2
-0 3 1 5
 0 2 6 4
+0 3 1 5
 1
 end_operator
 begin_operator
 zoom plane4 city1 city6 fl2 fl1 fl0
 0
 2
-0 3 1 6
 0 2 2 0
+0 3 1 6
 1
 end_operator
 begin_operator
 zoom plane4 city1 city6 fl3 fl2 fl1
 0
 2
-0 3 1 6
 0 2 3 1
+0 3 1 6
 1
 end_operator
 begin_operator
 zoom plane4 city1 city6 fl4 fl3 fl2
 0
 2
-0 3 1 6
 0 2 4 2
+0 3 1 6
 1
 end_operator
 begin_operator
 zoom plane4 city1 city6 fl5 fl4 fl3
 0
 2
-0 3 1 6
 0 2 5 3
+0 3 1 6
 1
 end_operator
 begin_operator
 zoom plane4 city1 city6 fl6 fl5 fl4
 0
 2
-0 3 1 6
 0 2 6 4
+0 3 1 6
 1
 end_operator
 begin_operator
 zoom plane4 city1 city7 fl2 fl1 fl0
 0
 2
-0 3 1 7
 0 2 2 0
+0 3 1 7
 1
 end_operator
 begin_operator
 zoom plane4 city1 city7 fl3 fl2 fl1
 0
 2
-0 3 1 7
 0 2 3 1
+0 3 1 7
 1
 end_operator
 begin_operator
 zoom plane4 city1 city7 fl4 fl3 fl2
 0
 2
-0 3 1 7
 0 2 4 2
+0 3 1 7
 1
 end_operator
 begin_operator
 zoom plane4 city1 city7 fl5 fl4 fl3
 0
 2
-0 3 1 7
 0 2 5 3
+0 3 1 7
 1
 end_operator
 begin_operator
 zoom plane4 city1 city7 fl6 fl5 fl4
 0
 2
-0 3 1 7
 0 2 6 4
+0 3 1 7
 1
 end_operator
 begin_operator
 zoom plane4 city1 city8 fl2 fl1 fl0
 0
 2
-0 3 1 8
 0 2 2 0
+0 3 1 8
 1
 end_operator
 begin_operator
 zoom plane4 city1 city8 fl3 fl2 fl1
 0
 2
-0 3 1 8
 0 2 3 1
+0 3 1 8
 1
 end_operator
 begin_operator
 zoom plane4 city1 city8 fl4 fl3 fl2
 0
 2
-0 3 1 8
 0 2 4 2
+0 3 1 8
 1
 end_operator
 begin_operator
 zoom plane4 city1 city8 fl5 fl4 fl3
 0
 2
-0 3 1 8
 0 2 5 3
+0 3 1 8
 1
 end_operator
 begin_operator
 zoom plane4 city1 city8 fl6 fl5 fl4
 0
 2
-0 3 1 8
 0 2 6 4
+0 3 1 8
 1
 end_operator
 begin_operator
 zoom plane4 city1 city9 fl2 fl1 fl0
 0
 2
-0 3 1 9
 0 2 2 0
+0 3 1 9
 1
 end_operator
 begin_operator
 zoom plane4 city1 city9 fl3 fl2 fl1
 0
 2
-0 3 1 9
 0 2 3 1
+0 3 1 9
 1
 end_operator
 begin_operator
 zoom plane4 city1 city9 fl4 fl3 fl2
 0
 2
-0 3 1 9
 0 2 4 2
+0 3 1 9
 1
 end_operator
 begin_operator
 zoom plane4 city1 city9 fl5 fl4 fl3
 0
 2
-0 3 1 9
 0 2 5 3
+0 3 1 9
 1
 end_operator
 begin_operator
 zoom plane4 city1 city9 fl6 fl5 fl4
 0
 2
-0 3 1 9
 0 2 6 4
+0 3 1 9
 1
 end_operator
 begin_operator
 zoom plane4 city2 city0 fl2 fl1 fl0
 0
 2
-0 3 2 0
 0 2 2 0
+0 3 2 0
 1
 end_operator
 begin_operator
 zoom plane4 city2 city0 fl3 fl2 fl1
 0
 2
-0 3 2 0
 0 2 3 1
+0 3 2 0
 1
 end_operator
 begin_operator
 zoom plane4 city2 city0 fl4 fl3 fl2
 0
 2
-0 3 2 0
 0 2 4 2
+0 3 2 0
 1
 end_operator
 begin_operator
 zoom plane4 city2 city0 fl5 fl4 fl3
 0
 2
-0 3 2 0
 0 2 5 3
+0 3 2 0
 1
 end_operator
 begin_operator
 zoom plane4 city2 city0 fl6 fl5 fl4
 0
 2
-0 3 2 0
 0 2 6 4
+0 3 2 0
 1
 end_operator
 begin_operator
 zoom plane4 city2 city1 fl2 fl1 fl0
 0
 2
-0 3 2 1
 0 2 2 0
+0 3 2 1
 1
 end_operator
 begin_operator
 zoom plane4 city2 city1 fl3 fl2 fl1
 0
 2
-0 3 2 1
 0 2 3 1
+0 3 2 1
 1
 end_operator
 begin_operator
 zoom plane4 city2 city1 fl4 fl3 fl2
 0
 2
-0 3 2 1
 0 2 4 2
+0 3 2 1
 1
 end_operator
 begin_operator
 zoom plane4 city2 city1 fl5 fl4 fl3
 0
 2
-0 3 2 1
 0 2 5 3
+0 3 2 1
 1
 end_operator
 begin_operator
 zoom plane4 city2 city1 fl6 fl5 fl4
 0
 2
-0 3 2 1
 0 2 6 4
+0 3 2 1
 1
 end_operator
 begin_operator
@@ -47703,400 +47703,400 @@ begin_operator
 zoom plane4 city2 city3 fl2 fl1 fl0
 0
 2
-0 3 2 3
 0 2 2 0
+0 3 2 3
 1
 end_operator
 begin_operator
 zoom plane4 city2 city3 fl3 fl2 fl1
 0
 2
-0 3 2 3
 0 2 3 1
+0 3 2 3
 1
 end_operator
 begin_operator
 zoom plane4 city2 city3 fl4 fl3 fl2
 0
 2
-0 3 2 3
 0 2 4 2
+0 3 2 3
 1
 end_operator
 begin_operator
 zoom plane4 city2 city3 fl5 fl4 fl3
 0
 2
-0 3 2 3
 0 2 5 3
+0 3 2 3
 1
 end_operator
 begin_operator
 zoom plane4 city2 city3 fl6 fl5 fl4
 0
 2
-0 3 2 3
 0 2 6 4
+0 3 2 3
 1
 end_operator
 begin_operator
 zoom plane4 city2 city4 fl2 fl1 fl0
 0
 2
-0 3 2 4
 0 2 2 0
+0 3 2 4
 1
 end_operator
 begin_operator
 zoom plane4 city2 city4 fl3 fl2 fl1
 0
 2
-0 3 2 4
 0 2 3 1
+0 3 2 4
 1
 end_operator
 begin_operator
 zoom plane4 city2 city4 fl4 fl3 fl2
 0
 2
-0 3 2 4
 0 2 4 2
+0 3 2 4
 1
 end_operator
 begin_operator
 zoom plane4 city2 city4 fl5 fl4 fl3
 0
 2
-0 3 2 4
 0 2 5 3
+0 3 2 4
 1
 end_operator
 begin_operator
 zoom plane4 city2 city4 fl6 fl5 fl4
 0
 2
-0 3 2 4
 0 2 6 4
+0 3 2 4
 1
 end_operator
 begin_operator
 zoom plane4 city2 city5 fl2 fl1 fl0
 0
 2
-0 3 2 5
 0 2 2 0
+0 3 2 5
 1
 end_operator
 begin_operator
 zoom plane4 city2 city5 fl3 fl2 fl1
 0
 2
-0 3 2 5
 0 2 3 1
+0 3 2 5
 1
 end_operator
 begin_operator
 zoom plane4 city2 city5 fl4 fl3 fl2
 0
 2
-0 3 2 5
 0 2 4 2
+0 3 2 5
 1
 end_operator
 begin_operator
 zoom plane4 city2 city5 fl5 fl4 fl3
 0
 2
-0 3 2 5
 0 2 5 3
+0 3 2 5
 1
 end_operator
 begin_operator
 zoom plane4 city2 city5 fl6 fl5 fl4
 0
 2
-0 3 2 5
 0 2 6 4
+0 3 2 5
 1
 end_operator
 begin_operator
 zoom plane4 city2 city6 fl2 fl1 fl0
 0
 2
-0 3 2 6
 0 2 2 0
+0 3 2 6
 1
 end_operator
 begin_operator
 zoom plane4 city2 city6 fl3 fl2 fl1
 0
 2
-0 3 2 6
 0 2 3 1
+0 3 2 6
 1
 end_operator
 begin_operator
 zoom plane4 city2 city6 fl4 fl3 fl2
 0
 2
-0 3 2 6
 0 2 4 2
+0 3 2 6
 1
 end_operator
 begin_operator
 zoom plane4 city2 city6 fl5 fl4 fl3
 0
 2
-0 3 2 6
 0 2 5 3
+0 3 2 6
 1
 end_operator
 begin_operator
 zoom plane4 city2 city6 fl6 fl5 fl4
 0
 2
-0 3 2 6
 0 2 6 4
+0 3 2 6
 1
 end_operator
 begin_operator
 zoom plane4 city2 city7 fl2 fl1 fl0
 0
 2
-0 3 2 7
 0 2 2 0
+0 3 2 7
 1
 end_operator
 begin_operator
 zoom plane4 city2 city7 fl3 fl2 fl1
 0
 2
-0 3 2 7
 0 2 3 1
+0 3 2 7
 1
 end_operator
 begin_operator
 zoom plane4 city2 city7 fl4 fl3 fl2
 0
 2
-0 3 2 7
 0 2 4 2
+0 3 2 7
 1
 end_operator
 begin_operator
 zoom plane4 city2 city7 fl5 fl4 fl3
 0
 2
-0 3 2 7
 0 2 5 3
+0 3 2 7
 1
 end_operator
 begin_operator
 zoom plane4 city2 city7 fl6 fl5 fl4
 0
 2
-0 3 2 7
 0 2 6 4
+0 3 2 7
 1
 end_operator
 begin_operator
 zoom plane4 city2 city8 fl2 fl1 fl0
 0
 2
-0 3 2 8
 0 2 2 0
+0 3 2 8
 1
 end_operator
 begin_operator
 zoom plane4 city2 city8 fl3 fl2 fl1
 0
 2
-0 3 2 8
 0 2 3 1
+0 3 2 8
 1
 end_operator
 begin_operator
 zoom plane4 city2 city8 fl4 fl3 fl2
 0
 2
-0 3 2 8
 0 2 4 2
+0 3 2 8
 1
 end_operator
 begin_operator
 zoom plane4 city2 city8 fl5 fl4 fl3
 0
 2
-0 3 2 8
 0 2 5 3
+0 3 2 8
 1
 end_operator
 begin_operator
 zoom plane4 city2 city8 fl6 fl5 fl4
 0
 2
-0 3 2 8
 0 2 6 4
+0 3 2 8
 1
 end_operator
 begin_operator
 zoom plane4 city2 city9 fl2 fl1 fl0
 0
 2
-0 3 2 9
 0 2 2 0
+0 3 2 9
 1
 end_operator
 begin_operator
 zoom plane4 city2 city9 fl3 fl2 fl1
 0
 2
-0 3 2 9
 0 2 3 1
+0 3 2 9
 1
 end_operator
 begin_operator
 zoom plane4 city2 city9 fl4 fl3 fl2
 0
 2
-0 3 2 9
 0 2 4 2
+0 3 2 9
 1
 end_operator
 begin_operator
 zoom plane4 city2 city9 fl5 fl4 fl3
 0
 2
-0 3 2 9
 0 2 5 3
+0 3 2 9
 1
 end_operator
 begin_operator
 zoom plane4 city2 city9 fl6 fl5 fl4
 0
 2
-0 3 2 9
 0 2 6 4
+0 3 2 9
 1
 end_operator
 begin_operator
 zoom plane4 city3 city0 fl2 fl1 fl0
 0
 2
-0 3 3 0
 0 2 2 0
+0 3 3 0
 1
 end_operator
 begin_operator
 zoom plane4 city3 city0 fl3 fl2 fl1
 0
 2
-0 3 3 0
 0 2 3 1
+0 3 3 0
 1
 end_operator
 begin_operator
 zoom plane4 city3 city0 fl4 fl3 fl2
 0
 2
-0 3 3 0
 0 2 4 2
+0 3 3 0
 1
 end_operator
 begin_operator
 zoom plane4 city3 city0 fl5 fl4 fl3
 0
 2
-0 3 3 0
 0 2 5 3
+0 3 3 0
 1
 end_operator
 begin_operator
 zoom plane4 city3 city0 fl6 fl5 fl4
 0
 2
-0 3 3 0
 0 2 6 4
+0 3 3 0
 1
 end_operator
 begin_operator
 zoom plane4 city3 city1 fl2 fl1 fl0
 0
 2
-0 3 3 1
 0 2 2 0
+0 3 3 1
 1
 end_operator
 begin_operator
 zoom plane4 city3 city1 fl3 fl2 fl1
 0
 2
-0 3 3 1
 0 2 3 1
+0 3 3 1
 1
 end_operator
 begin_operator
 zoom plane4 city3 city1 fl4 fl3 fl2
 0
 2
-0 3 3 1
 0 2 4 2
+0 3 3 1
 1
 end_operator
 begin_operator
 zoom plane4 city3 city1 fl5 fl4 fl3
 0
 2
-0 3 3 1
 0 2 5 3
+0 3 3 1
 1
 end_operator
 begin_operator
 zoom plane4 city3 city1 fl6 fl5 fl4
 0
 2
-0 3 3 1
 0 2 6 4
+0 3 3 1
 1
 end_operator
 begin_operator
 zoom plane4 city3 city2 fl2 fl1 fl0
 0
 2
-0 3 3 2
 0 2 2 0
+0 3 3 2
 1
 end_operator
 begin_operator
 zoom plane4 city3 city2 fl3 fl2 fl1
 0
 2
-0 3 3 2
 0 2 3 1
+0 3 3 2
 1
 end_operator
 begin_operator
 zoom plane4 city3 city2 fl4 fl3 fl2
 0
 2
-0 3 3 2
 0 2 4 2
+0 3 3 2
 1
 end_operator
 begin_operator
 zoom plane4 city3 city2 fl5 fl4 fl3
 0
 2
-0 3 3 2
 0 2 5 3
+0 3 3 2
 1
 end_operator
 begin_operator
 zoom plane4 city3 city2 fl6 fl5 fl4
 0
 2
-0 3 3 2
 0 2 6 4
+0 3 3 2
 1
 end_operator
 begin_operator
@@ -48143,400 +48143,400 @@ begin_operator
 zoom plane4 city3 city4 fl2 fl1 fl0
 0
 2
-0 3 3 4
 0 2 2 0
+0 3 3 4
 1
 end_operator
 begin_operator
 zoom plane4 city3 city4 fl3 fl2 fl1
 0
 2
-0 3 3 4
 0 2 3 1
+0 3 3 4
 1
 end_operator
 begin_operator
 zoom plane4 city3 city4 fl4 fl3 fl2
 0
 2
-0 3 3 4
 0 2 4 2
+0 3 3 4
 1
 end_operator
 begin_operator
 zoom plane4 city3 city4 fl5 fl4 fl3
 0
 2
-0 3 3 4
 0 2 5 3
+0 3 3 4
 1
 end_operator
 begin_operator
 zoom plane4 city3 city4 fl6 fl5 fl4
 0
 2
-0 3 3 4
 0 2 6 4
+0 3 3 4
 1
 end_operator
 begin_operator
 zoom plane4 city3 city5 fl2 fl1 fl0
 0
 2
-0 3 3 5
 0 2 2 0
+0 3 3 5
 1
 end_operator
 begin_operator
 zoom plane4 city3 city5 fl3 fl2 fl1
 0
 2
-0 3 3 5
 0 2 3 1
+0 3 3 5
 1
 end_operator
 begin_operator
 zoom plane4 city3 city5 fl4 fl3 fl2
 0
 2
-0 3 3 5
 0 2 4 2
+0 3 3 5
 1
 end_operator
 begin_operator
 zoom plane4 city3 city5 fl5 fl4 fl3
 0
 2
-0 3 3 5
 0 2 5 3
+0 3 3 5
 1
 end_operator
 begin_operator
 zoom plane4 city3 city5 fl6 fl5 fl4
 0
 2
-0 3 3 5
 0 2 6 4
+0 3 3 5
 1
 end_operator
 begin_operator
 zoom plane4 city3 city6 fl2 fl1 fl0
 0
 2
-0 3 3 6
 0 2 2 0
+0 3 3 6
 1
 end_operator
 begin_operator
 zoom plane4 city3 city6 fl3 fl2 fl1
 0
 2
-0 3 3 6
 0 2 3 1
+0 3 3 6
 1
 end_operator
 begin_operator
 zoom plane4 city3 city6 fl4 fl3 fl2
 0
 2
-0 3 3 6
 0 2 4 2
+0 3 3 6
 1
 end_operator
 begin_operator
 zoom plane4 city3 city6 fl5 fl4 fl3
 0
 2
-0 3 3 6
 0 2 5 3
+0 3 3 6
 1
 end_operator
 begin_operator
 zoom plane4 city3 city6 fl6 fl5 fl4
 0
 2
-0 3 3 6
 0 2 6 4
+0 3 3 6
 1
 end_operator
 begin_operator
 zoom plane4 city3 city7 fl2 fl1 fl0
 0
 2
-0 3 3 7
 0 2 2 0
+0 3 3 7
 1
 end_operator
 begin_operator
 zoom plane4 city3 city7 fl3 fl2 fl1
 0
 2
-0 3 3 7
 0 2 3 1
+0 3 3 7
 1
 end_operator
 begin_operator
 zoom plane4 city3 city7 fl4 fl3 fl2
 0
 2
-0 3 3 7
 0 2 4 2
+0 3 3 7
 1
 end_operator
 begin_operator
 zoom plane4 city3 city7 fl5 fl4 fl3
 0
 2
-0 3 3 7
 0 2 5 3
+0 3 3 7
 1
 end_operator
 begin_operator
 zoom plane4 city3 city7 fl6 fl5 fl4
 0
 2
-0 3 3 7
 0 2 6 4
+0 3 3 7
 1
 end_operator
 begin_operator
 zoom plane4 city3 city8 fl2 fl1 fl0
 0
 2
-0 3 3 8
 0 2 2 0
+0 3 3 8
 1
 end_operator
 begin_operator
 zoom plane4 city3 city8 fl3 fl2 fl1
 0
 2
-0 3 3 8
 0 2 3 1
+0 3 3 8
 1
 end_operator
 begin_operator
 zoom plane4 city3 city8 fl4 fl3 fl2
 0
 2
-0 3 3 8
 0 2 4 2
+0 3 3 8
 1
 end_operator
 begin_operator
 zoom plane4 city3 city8 fl5 fl4 fl3
 0
 2
-0 3 3 8
 0 2 5 3
+0 3 3 8
 1
 end_operator
 begin_operator
 zoom plane4 city3 city8 fl6 fl5 fl4
 0
 2
-0 3 3 8
 0 2 6 4
+0 3 3 8
 1
 end_operator
 begin_operator
 zoom plane4 city3 city9 fl2 fl1 fl0
 0
 2
-0 3 3 9
 0 2 2 0
+0 3 3 9
 1
 end_operator
 begin_operator
 zoom plane4 city3 city9 fl3 fl2 fl1
 0
 2
-0 3 3 9
 0 2 3 1
+0 3 3 9
 1
 end_operator
 begin_operator
 zoom plane4 city3 city9 fl4 fl3 fl2
 0
 2
-0 3 3 9
 0 2 4 2
+0 3 3 9
 1
 end_operator
 begin_operator
 zoom plane4 city3 city9 fl5 fl4 fl3
 0
 2
-0 3 3 9
 0 2 5 3
+0 3 3 9
 1
 end_operator
 begin_operator
 zoom plane4 city3 city9 fl6 fl5 fl4
 0
 2
-0 3 3 9
 0 2 6 4
+0 3 3 9
 1
 end_operator
 begin_operator
 zoom plane4 city4 city0 fl2 fl1 fl0
 0
 2
-0 3 4 0
 0 2 2 0
+0 3 4 0
 1
 end_operator
 begin_operator
 zoom plane4 city4 city0 fl3 fl2 fl1
 0
 2
-0 3 4 0
 0 2 3 1
+0 3 4 0
 1
 end_operator
 begin_operator
 zoom plane4 city4 city0 fl4 fl3 fl2
 0
 2
-0 3 4 0
 0 2 4 2
+0 3 4 0
 1
 end_operator
 begin_operator
 zoom plane4 city4 city0 fl5 fl4 fl3
 0
 2
-0 3 4 0
 0 2 5 3
+0 3 4 0
 1
 end_operator
 begin_operator
 zoom plane4 city4 city0 fl6 fl5 fl4
 0
 2
-0 3 4 0
 0 2 6 4
+0 3 4 0
 1
 end_operator
 begin_operator
 zoom plane4 city4 city1 fl2 fl1 fl0
 0
 2
-0 3 4 1
 0 2 2 0
+0 3 4 1
 1
 end_operator
 begin_operator
 zoom plane4 city4 city1 fl3 fl2 fl1
 0
 2
-0 3 4 1
 0 2 3 1
+0 3 4 1
 1
 end_operator
 begin_operator
 zoom plane4 city4 city1 fl4 fl3 fl2
 0
 2
-0 3 4 1
 0 2 4 2
+0 3 4 1
 1
 end_operator
 begin_operator
 zoom plane4 city4 city1 fl5 fl4 fl3
 0
 2
-0 3 4 1
 0 2 5 3
+0 3 4 1
 1
 end_operator
 begin_operator
 zoom plane4 city4 city1 fl6 fl5 fl4
 0
 2
-0 3 4 1
 0 2 6 4
+0 3 4 1
 1
 end_operator
 begin_operator
 zoom plane4 city4 city2 fl2 fl1 fl0
 0
 2
-0 3 4 2
 0 2 2 0
+0 3 4 2
 1
 end_operator
 begin_operator
 zoom plane4 city4 city2 fl3 fl2 fl1
 0
 2
-0 3 4 2
 0 2 3 1
+0 3 4 2
 1
 end_operator
 begin_operator
 zoom plane4 city4 city2 fl4 fl3 fl2
 0
 2
-0 3 4 2
 0 2 4 2
+0 3 4 2
 1
 end_operator
 begin_operator
 zoom plane4 city4 city2 fl5 fl4 fl3
 0
 2
-0 3 4 2
 0 2 5 3
+0 3 4 2
 1
 end_operator
 begin_operator
 zoom plane4 city4 city2 fl6 fl5 fl4
 0
 2
-0 3 4 2
 0 2 6 4
+0 3 4 2
 1
 end_operator
 begin_operator
 zoom plane4 city4 city3 fl2 fl1 fl0
 0
 2
-0 3 4 3
 0 2 2 0
+0 3 4 3
 1
 end_operator
 begin_operator
 zoom plane4 city4 city3 fl3 fl2 fl1
 0
 2
-0 3 4 3
 0 2 3 1
+0 3 4 3
 1
 end_operator
 begin_operator
 zoom plane4 city4 city3 fl4 fl3 fl2
 0
 2
-0 3 4 3
 0 2 4 2
+0 3 4 3
 1
 end_operator
 begin_operator
 zoom plane4 city4 city3 fl5 fl4 fl3
 0
 2
-0 3 4 3
 0 2 5 3
+0 3 4 3
 1
 end_operator
 begin_operator
 zoom plane4 city4 city3 fl6 fl5 fl4
 0
 2
-0 3 4 3
 0 2 6 4
+0 3 4 3
 1
 end_operator
 begin_operator
@@ -48583,400 +48583,400 @@ begin_operator
 zoom plane4 city4 city5 fl2 fl1 fl0
 0
 2
-0 3 4 5
 0 2 2 0
+0 3 4 5
 1
 end_operator
 begin_operator
 zoom plane4 city4 city5 fl3 fl2 fl1
 0
 2
-0 3 4 5
 0 2 3 1
+0 3 4 5
 1
 end_operator
 begin_operator
 zoom plane4 city4 city5 fl4 fl3 fl2
 0
 2
-0 3 4 5
 0 2 4 2
+0 3 4 5
 1
 end_operator
 begin_operator
 zoom plane4 city4 city5 fl5 fl4 fl3
 0
 2
-0 3 4 5
 0 2 5 3
+0 3 4 5
 1
 end_operator
 begin_operator
 zoom plane4 city4 city5 fl6 fl5 fl4
 0
 2
-0 3 4 5
 0 2 6 4
+0 3 4 5
 1
 end_operator
 begin_operator
 zoom plane4 city4 city6 fl2 fl1 fl0
 0
 2
-0 3 4 6
 0 2 2 0
+0 3 4 6
 1
 end_operator
 begin_operator
 zoom plane4 city4 city6 fl3 fl2 fl1
 0
 2
-0 3 4 6
 0 2 3 1
+0 3 4 6
 1
 end_operator
 begin_operator
 zoom plane4 city4 city6 fl4 fl3 fl2
 0
 2
-0 3 4 6
 0 2 4 2
+0 3 4 6
 1
 end_operator
 begin_operator
 zoom plane4 city4 city6 fl5 fl4 fl3
 0
 2
-0 3 4 6
 0 2 5 3
+0 3 4 6
 1
 end_operator
 begin_operator
 zoom plane4 city4 city6 fl6 fl5 fl4
 0
 2
-0 3 4 6
 0 2 6 4
+0 3 4 6
 1
 end_operator
 begin_operator
 zoom plane4 city4 city7 fl2 fl1 fl0
 0
 2
-0 3 4 7
 0 2 2 0
+0 3 4 7
 1
 end_operator
 begin_operator
 zoom plane4 city4 city7 fl3 fl2 fl1
 0
 2
-0 3 4 7
 0 2 3 1
+0 3 4 7
 1
 end_operator
 begin_operator
 zoom plane4 city4 city7 fl4 fl3 fl2
 0
 2
-0 3 4 7
 0 2 4 2
+0 3 4 7
 1
 end_operator
 begin_operator
 zoom plane4 city4 city7 fl5 fl4 fl3
 0
 2
-0 3 4 7
 0 2 5 3
+0 3 4 7
 1
 end_operator
 begin_operator
 zoom plane4 city4 city7 fl6 fl5 fl4
 0
 2
-0 3 4 7
 0 2 6 4
+0 3 4 7
 1
 end_operator
 begin_operator
 zoom plane4 city4 city8 fl2 fl1 fl0
 0
 2
-0 3 4 8
 0 2 2 0
+0 3 4 8
 1
 end_operator
 begin_operator
 zoom plane4 city4 city8 fl3 fl2 fl1
 0
 2
-0 3 4 8
 0 2 3 1
+0 3 4 8
 1
 end_operator
 begin_operator
 zoom plane4 city4 city8 fl4 fl3 fl2
 0
 2
-0 3 4 8
 0 2 4 2
+0 3 4 8
 1
 end_operator
 begin_operator
 zoom plane4 city4 city8 fl5 fl4 fl3
 0
 2
-0 3 4 8
 0 2 5 3
+0 3 4 8
 1
 end_operator
 begin_operator
 zoom plane4 city4 city8 fl6 fl5 fl4
 0
 2
-0 3 4 8
 0 2 6 4
+0 3 4 8
 1
 end_operator
 begin_operator
 zoom plane4 city4 city9 fl2 fl1 fl0
 0
 2
-0 3 4 9
 0 2 2 0
+0 3 4 9
 1
 end_operator
 begin_operator
 zoom plane4 city4 city9 fl3 fl2 fl1
 0
 2
-0 3 4 9
 0 2 3 1
+0 3 4 9
 1
 end_operator
 begin_operator
 zoom plane4 city4 city9 fl4 fl3 fl2
 0
 2
-0 3 4 9
 0 2 4 2
+0 3 4 9
 1
 end_operator
 begin_operator
 zoom plane4 city4 city9 fl5 fl4 fl3
 0
 2
-0 3 4 9
 0 2 5 3
+0 3 4 9
 1
 end_operator
 begin_operator
 zoom plane4 city4 city9 fl6 fl5 fl4
 0
 2
-0 3 4 9
 0 2 6 4
+0 3 4 9
 1
 end_operator
 begin_operator
 zoom plane4 city5 city0 fl2 fl1 fl0
 0
 2
-0 3 5 0
 0 2 2 0
+0 3 5 0
 1
 end_operator
 begin_operator
 zoom plane4 city5 city0 fl3 fl2 fl1
 0
 2
-0 3 5 0
 0 2 3 1
+0 3 5 0
 1
 end_operator
 begin_operator
 zoom plane4 city5 city0 fl4 fl3 fl2
 0
 2
-0 3 5 0
 0 2 4 2
+0 3 5 0
 1
 end_operator
 begin_operator
 zoom plane4 city5 city0 fl5 fl4 fl3
 0
 2
-0 3 5 0
 0 2 5 3
+0 3 5 0
 1
 end_operator
 begin_operator
 zoom plane4 city5 city0 fl6 fl5 fl4
 0
 2
-0 3 5 0
 0 2 6 4
+0 3 5 0
 1
 end_operator
 begin_operator
 zoom plane4 city5 city1 fl2 fl1 fl0
 0
 2
-0 3 5 1
 0 2 2 0
+0 3 5 1
 1
 end_operator
 begin_operator
 zoom plane4 city5 city1 fl3 fl2 fl1
 0
 2
-0 3 5 1
 0 2 3 1
+0 3 5 1
 1
 end_operator
 begin_operator
 zoom plane4 city5 city1 fl4 fl3 fl2
 0
 2
-0 3 5 1
 0 2 4 2
+0 3 5 1
 1
 end_operator
 begin_operator
 zoom plane4 city5 city1 fl5 fl4 fl3
 0
 2
-0 3 5 1
 0 2 5 3
+0 3 5 1
 1
 end_operator
 begin_operator
 zoom plane4 city5 city1 fl6 fl5 fl4
 0
 2
-0 3 5 1
 0 2 6 4
+0 3 5 1
 1
 end_operator
 begin_operator
 zoom plane4 city5 city2 fl2 fl1 fl0
 0
 2
-0 3 5 2
 0 2 2 0
+0 3 5 2
 1
 end_operator
 begin_operator
 zoom plane4 city5 city2 fl3 fl2 fl1
 0
 2
-0 3 5 2
 0 2 3 1
+0 3 5 2
 1
 end_operator
 begin_operator
 zoom plane4 city5 city2 fl4 fl3 fl2
 0
 2
-0 3 5 2
 0 2 4 2
+0 3 5 2
 1
 end_operator
 begin_operator
 zoom plane4 city5 city2 fl5 fl4 fl3
 0
 2
-0 3 5 2
 0 2 5 3
+0 3 5 2
 1
 end_operator
 begin_operator
 zoom plane4 city5 city2 fl6 fl5 fl4
 0
 2
-0 3 5 2
 0 2 6 4
+0 3 5 2
 1
 end_operator
 begin_operator
 zoom plane4 city5 city3 fl2 fl1 fl0
 0
 2
-0 3 5 3
 0 2 2 0
+0 3 5 3
 1
 end_operator
 begin_operator
 zoom plane4 city5 city3 fl3 fl2 fl1
 0
 2
-0 3 5 3
 0 2 3 1
+0 3 5 3
 1
 end_operator
 begin_operator
 zoom plane4 city5 city3 fl4 fl3 fl2
 0
 2
-0 3 5 3
 0 2 4 2
+0 3 5 3
 1
 end_operator
 begin_operator
 zoom plane4 city5 city3 fl5 fl4 fl3
 0
 2
-0 3 5 3
 0 2 5 3
+0 3 5 3
 1
 end_operator
 begin_operator
 zoom plane4 city5 city3 fl6 fl5 fl4
 0
 2
-0 3 5 3
 0 2 6 4
+0 3 5 3
 1
 end_operator
 begin_operator
 zoom plane4 city5 city4 fl2 fl1 fl0
 0
 2
-0 3 5 4
 0 2 2 0
+0 3 5 4
 1
 end_operator
 begin_operator
 zoom plane4 city5 city4 fl3 fl2 fl1
 0
 2
-0 3 5 4
 0 2 3 1
+0 3 5 4
 1
 end_operator
 begin_operator
 zoom plane4 city5 city4 fl4 fl3 fl2
 0
 2
-0 3 5 4
 0 2 4 2
+0 3 5 4
 1
 end_operator
 begin_operator
 zoom plane4 city5 city4 fl5 fl4 fl3
 0
 2
-0 3 5 4
 0 2 5 3
+0 3 5 4
 1
 end_operator
 begin_operator
 zoom plane4 city5 city4 fl6 fl5 fl4
 0
 2
-0 3 5 4
 0 2 6 4
+0 3 5 4
 1
 end_operator
 begin_operator
@@ -49023,400 +49023,400 @@ begin_operator
 zoom plane4 city5 city6 fl2 fl1 fl0
 0
 2
-0 3 5 6
 0 2 2 0
+0 3 5 6
 1
 end_operator
 begin_operator
 zoom plane4 city5 city6 fl3 fl2 fl1
 0
 2
-0 3 5 6
 0 2 3 1
+0 3 5 6
 1
 end_operator
 begin_operator
 zoom plane4 city5 city6 fl4 fl3 fl2
 0
 2
-0 3 5 6
 0 2 4 2
+0 3 5 6
 1
 end_operator
 begin_operator
 zoom plane4 city5 city6 fl5 fl4 fl3
 0
 2
-0 3 5 6
 0 2 5 3
+0 3 5 6
 1
 end_operator
 begin_operator
 zoom plane4 city5 city6 fl6 fl5 fl4
 0
 2
-0 3 5 6
 0 2 6 4
+0 3 5 6
 1
 end_operator
 begin_operator
 zoom plane4 city5 city7 fl2 fl1 fl0
 0
 2
-0 3 5 7
 0 2 2 0
+0 3 5 7
 1
 end_operator
 begin_operator
 zoom plane4 city5 city7 fl3 fl2 fl1
 0
 2
-0 3 5 7
 0 2 3 1
+0 3 5 7
 1
 end_operator
 begin_operator
 zoom plane4 city5 city7 fl4 fl3 fl2
 0
 2
-0 3 5 7
 0 2 4 2
+0 3 5 7
 1
 end_operator
 begin_operator
 zoom plane4 city5 city7 fl5 fl4 fl3
 0
 2
-0 3 5 7
 0 2 5 3
+0 3 5 7
 1
 end_operator
 begin_operator
 zoom plane4 city5 city7 fl6 fl5 fl4
 0
 2
-0 3 5 7
 0 2 6 4
+0 3 5 7
 1
 end_operator
 begin_operator
 zoom plane4 city5 city8 fl2 fl1 fl0
 0
 2
-0 3 5 8
 0 2 2 0
+0 3 5 8
 1
 end_operator
 begin_operator
 zoom plane4 city5 city8 fl3 fl2 fl1
 0
 2
-0 3 5 8
 0 2 3 1
+0 3 5 8
 1
 end_operator
 begin_operator
 zoom plane4 city5 city8 fl4 fl3 fl2
 0
 2
-0 3 5 8
 0 2 4 2
+0 3 5 8
 1
 end_operator
 begin_operator
 zoom plane4 city5 city8 fl5 fl4 fl3
 0
 2
-0 3 5 8
 0 2 5 3
+0 3 5 8
 1
 end_operator
 begin_operator
 zoom plane4 city5 city8 fl6 fl5 fl4
 0
 2
-0 3 5 8
 0 2 6 4
+0 3 5 8
 1
 end_operator
 begin_operator
 zoom plane4 city5 city9 fl2 fl1 fl0
 0
 2
-0 3 5 9
 0 2 2 0
+0 3 5 9
 1
 end_operator
 begin_operator
 zoom plane4 city5 city9 fl3 fl2 fl1
 0
 2
-0 3 5 9
 0 2 3 1
+0 3 5 9
 1
 end_operator
 begin_operator
 zoom plane4 city5 city9 fl4 fl3 fl2
 0
 2
-0 3 5 9
 0 2 4 2
+0 3 5 9
 1
 end_operator
 begin_operator
 zoom plane4 city5 city9 fl5 fl4 fl3
 0
 2
-0 3 5 9
 0 2 5 3
+0 3 5 9
 1
 end_operator
 begin_operator
 zoom plane4 city5 city9 fl6 fl5 fl4
 0
 2
-0 3 5 9
 0 2 6 4
+0 3 5 9
 1
 end_operator
 begin_operator
 zoom plane4 city6 city0 fl2 fl1 fl0
 0
 2
-0 3 6 0
 0 2 2 0
+0 3 6 0
 1
 end_operator
 begin_operator
 zoom plane4 city6 city0 fl3 fl2 fl1
 0
 2
-0 3 6 0
 0 2 3 1
+0 3 6 0
 1
 end_operator
 begin_operator
 zoom plane4 city6 city0 fl4 fl3 fl2
 0
 2
-0 3 6 0
 0 2 4 2
+0 3 6 0
 1
 end_operator
 begin_operator
 zoom plane4 city6 city0 fl5 fl4 fl3
 0
 2
-0 3 6 0
 0 2 5 3
+0 3 6 0
 1
 end_operator
 begin_operator
 zoom plane4 city6 city0 fl6 fl5 fl4
 0
 2
-0 3 6 0
 0 2 6 4
+0 3 6 0
 1
 end_operator
 begin_operator
 zoom plane4 city6 city1 fl2 fl1 fl0
 0
 2
-0 3 6 1
 0 2 2 0
+0 3 6 1
 1
 end_operator
 begin_operator
 zoom plane4 city6 city1 fl3 fl2 fl1
 0
 2
-0 3 6 1
 0 2 3 1
+0 3 6 1
 1
 end_operator
 begin_operator
 zoom plane4 city6 city1 fl4 fl3 fl2
 0
 2
-0 3 6 1
 0 2 4 2
+0 3 6 1
 1
 end_operator
 begin_operator
 zoom plane4 city6 city1 fl5 fl4 fl3
 0
 2
-0 3 6 1
 0 2 5 3
+0 3 6 1
 1
 end_operator
 begin_operator
 zoom plane4 city6 city1 fl6 fl5 fl4
 0
 2
-0 3 6 1
 0 2 6 4
+0 3 6 1
 1
 end_operator
 begin_operator
 zoom plane4 city6 city2 fl2 fl1 fl0
 0
 2
-0 3 6 2
 0 2 2 0
+0 3 6 2
 1
 end_operator
 begin_operator
 zoom plane4 city6 city2 fl3 fl2 fl1
 0
 2
-0 3 6 2
 0 2 3 1
+0 3 6 2
 1
 end_operator
 begin_operator
 zoom plane4 city6 city2 fl4 fl3 fl2
 0
 2
-0 3 6 2
 0 2 4 2
+0 3 6 2
 1
 end_operator
 begin_operator
 zoom plane4 city6 city2 fl5 fl4 fl3
 0
 2
-0 3 6 2
 0 2 5 3
+0 3 6 2
 1
 end_operator
 begin_operator
 zoom plane4 city6 city2 fl6 fl5 fl4
 0
 2
-0 3 6 2
 0 2 6 4
+0 3 6 2
 1
 end_operator
 begin_operator
 zoom plane4 city6 city3 fl2 fl1 fl0
 0
 2
-0 3 6 3
 0 2 2 0
+0 3 6 3
 1
 end_operator
 begin_operator
 zoom plane4 city6 city3 fl3 fl2 fl1
 0
 2
-0 3 6 3
 0 2 3 1
+0 3 6 3
 1
 end_operator
 begin_operator
 zoom plane4 city6 city3 fl4 fl3 fl2
 0
 2
-0 3 6 3
 0 2 4 2
+0 3 6 3
 1
 end_operator
 begin_operator
 zoom plane4 city6 city3 fl5 fl4 fl3
 0
 2
-0 3 6 3
 0 2 5 3
+0 3 6 3
 1
 end_operator
 begin_operator
 zoom plane4 city6 city3 fl6 fl5 fl4
 0
 2
-0 3 6 3
 0 2 6 4
+0 3 6 3
 1
 end_operator
 begin_operator
 zoom plane4 city6 city4 fl2 fl1 fl0
 0
 2
-0 3 6 4
 0 2 2 0
+0 3 6 4
 1
 end_operator
 begin_operator
 zoom plane4 city6 city4 fl3 fl2 fl1
 0
 2
-0 3 6 4
 0 2 3 1
+0 3 6 4
 1
 end_operator
 begin_operator
 zoom plane4 city6 city4 fl4 fl3 fl2
 0
 2
-0 3 6 4
 0 2 4 2
+0 3 6 4
 1
 end_operator
 begin_operator
 zoom plane4 city6 city4 fl5 fl4 fl3
 0
 2
-0 3 6 4
 0 2 5 3
+0 3 6 4
 1
 end_operator
 begin_operator
 zoom plane4 city6 city4 fl6 fl5 fl4
 0
 2
-0 3 6 4
 0 2 6 4
+0 3 6 4
 1
 end_operator
 begin_operator
 zoom plane4 city6 city5 fl2 fl1 fl0
 0
 2
-0 3 6 5
 0 2 2 0
+0 3 6 5
 1
 end_operator
 begin_operator
 zoom plane4 city6 city5 fl3 fl2 fl1
 0
 2
-0 3 6 5
 0 2 3 1
+0 3 6 5
 1
 end_operator
 begin_operator
 zoom plane4 city6 city5 fl4 fl3 fl2
 0
 2
-0 3 6 5
 0 2 4 2
+0 3 6 5
 1
 end_operator
 begin_operator
 zoom plane4 city6 city5 fl5 fl4 fl3
 0
 2
-0 3 6 5
 0 2 5 3
+0 3 6 5
 1
 end_operator
 begin_operator
 zoom plane4 city6 city5 fl6 fl5 fl4
 0
 2
-0 3 6 5
 0 2 6 4
+0 3 6 5
 1
 end_operator
 begin_operator
@@ -49463,400 +49463,400 @@ begin_operator
 zoom plane4 city6 city7 fl2 fl1 fl0
 0
 2
-0 3 6 7
 0 2 2 0
+0 3 6 7
 1
 end_operator
 begin_operator
 zoom plane4 city6 city7 fl3 fl2 fl1
 0
 2
-0 3 6 7
 0 2 3 1
+0 3 6 7
 1
 end_operator
 begin_operator
 zoom plane4 city6 city7 fl4 fl3 fl2
 0
 2
-0 3 6 7
 0 2 4 2
+0 3 6 7
 1
 end_operator
 begin_operator
 zoom plane4 city6 city7 fl5 fl4 fl3
 0
 2
-0 3 6 7
 0 2 5 3
+0 3 6 7
 1
 end_operator
 begin_operator
 zoom plane4 city6 city7 fl6 fl5 fl4
 0
 2
-0 3 6 7
 0 2 6 4
+0 3 6 7
 1
 end_operator
 begin_operator
 zoom plane4 city6 city8 fl2 fl1 fl0
 0
 2
-0 3 6 8
 0 2 2 0
+0 3 6 8
 1
 end_operator
 begin_operator
 zoom plane4 city6 city8 fl3 fl2 fl1
 0
 2
-0 3 6 8
 0 2 3 1
+0 3 6 8
 1
 end_operator
 begin_operator
 zoom plane4 city6 city8 fl4 fl3 fl2
 0
 2
-0 3 6 8
 0 2 4 2
+0 3 6 8
 1
 end_operator
 begin_operator
 zoom plane4 city6 city8 fl5 fl4 fl3
 0
 2
-0 3 6 8
 0 2 5 3
+0 3 6 8
 1
 end_operator
 begin_operator
 zoom plane4 city6 city8 fl6 fl5 fl4
 0
 2
-0 3 6 8
 0 2 6 4
+0 3 6 8
 1
 end_operator
 begin_operator
 zoom plane4 city6 city9 fl2 fl1 fl0
 0
 2
-0 3 6 9
 0 2 2 0
+0 3 6 9
 1
 end_operator
 begin_operator
 zoom plane4 city6 city9 fl3 fl2 fl1
 0
 2
-0 3 6 9
 0 2 3 1
+0 3 6 9
 1
 end_operator
 begin_operator
 zoom plane4 city6 city9 fl4 fl3 fl2
 0
 2
-0 3 6 9
 0 2 4 2
+0 3 6 9
 1
 end_operator
 begin_operator
 zoom plane4 city6 city9 fl5 fl4 fl3
 0
 2
-0 3 6 9
 0 2 5 3
+0 3 6 9
 1
 end_operator
 begin_operator
 zoom plane4 city6 city9 fl6 fl5 fl4
 0
 2
-0 3 6 9
 0 2 6 4
+0 3 6 9
 1
 end_operator
 begin_operator
 zoom plane4 city7 city0 fl2 fl1 fl0
 0
 2
-0 3 7 0
 0 2 2 0
+0 3 7 0
 1
 end_operator
 begin_operator
 zoom plane4 city7 city0 fl3 fl2 fl1
 0
 2
-0 3 7 0
 0 2 3 1
+0 3 7 0
 1
 end_operator
 begin_operator
 zoom plane4 city7 city0 fl4 fl3 fl2
 0
 2
-0 3 7 0
 0 2 4 2
+0 3 7 0
 1
 end_operator
 begin_operator
 zoom plane4 city7 city0 fl5 fl4 fl3
 0
 2
-0 3 7 0
 0 2 5 3
+0 3 7 0
 1
 end_operator
 begin_operator
 zoom plane4 city7 city0 fl6 fl5 fl4
 0
 2
-0 3 7 0
 0 2 6 4
+0 3 7 0
 1
 end_operator
 begin_operator
 zoom plane4 city7 city1 fl2 fl1 fl0
 0
 2
-0 3 7 1
 0 2 2 0
+0 3 7 1
 1
 end_operator
 begin_operator
 zoom plane4 city7 city1 fl3 fl2 fl1
 0
 2
-0 3 7 1
 0 2 3 1
+0 3 7 1
 1
 end_operator
 begin_operator
 zoom plane4 city7 city1 fl4 fl3 fl2
 0
 2
-0 3 7 1
 0 2 4 2
+0 3 7 1
 1
 end_operator
 begin_operator
 zoom plane4 city7 city1 fl5 fl4 fl3
 0
 2
-0 3 7 1
 0 2 5 3
+0 3 7 1
 1
 end_operator
 begin_operator
 zoom plane4 city7 city1 fl6 fl5 fl4
 0
 2
-0 3 7 1
 0 2 6 4
+0 3 7 1
 1
 end_operator
 begin_operator
 zoom plane4 city7 city2 fl2 fl1 fl0
 0
 2
-0 3 7 2
 0 2 2 0
+0 3 7 2
 1
 end_operator
 begin_operator
 zoom plane4 city7 city2 fl3 fl2 fl1
 0
 2
-0 3 7 2
 0 2 3 1
+0 3 7 2
 1
 end_operator
 begin_operator
 zoom plane4 city7 city2 fl4 fl3 fl2
 0
 2
-0 3 7 2
 0 2 4 2
+0 3 7 2
 1
 end_operator
 begin_operator
 zoom plane4 city7 city2 fl5 fl4 fl3
 0
 2
-0 3 7 2
 0 2 5 3
+0 3 7 2
 1
 end_operator
 begin_operator
 zoom plane4 city7 city2 fl6 fl5 fl4
 0
 2
-0 3 7 2
 0 2 6 4
+0 3 7 2
 1
 end_operator
 begin_operator
 zoom plane4 city7 city3 fl2 fl1 fl0
 0
 2
-0 3 7 3
 0 2 2 0
+0 3 7 3
 1
 end_operator
 begin_operator
 zoom plane4 city7 city3 fl3 fl2 fl1
 0
 2
-0 3 7 3
 0 2 3 1
+0 3 7 3
 1
 end_operator
 begin_operator
 zoom plane4 city7 city3 fl4 fl3 fl2
 0
 2
-0 3 7 3
 0 2 4 2
+0 3 7 3
 1
 end_operator
 begin_operator
 zoom plane4 city7 city3 fl5 fl4 fl3
 0
 2
-0 3 7 3
 0 2 5 3
+0 3 7 3
 1
 end_operator
 begin_operator
 zoom plane4 city7 city3 fl6 fl5 fl4
 0
 2
-0 3 7 3
 0 2 6 4
+0 3 7 3
 1
 end_operator
 begin_operator
 zoom plane4 city7 city4 fl2 fl1 fl0
 0
 2
-0 3 7 4
 0 2 2 0
+0 3 7 4
 1
 end_operator
 begin_operator
 zoom plane4 city7 city4 fl3 fl2 fl1
 0
 2
-0 3 7 4
 0 2 3 1
+0 3 7 4
 1
 end_operator
 begin_operator
 zoom plane4 city7 city4 fl4 fl3 fl2
 0
 2
-0 3 7 4
 0 2 4 2
+0 3 7 4
 1
 end_operator
 begin_operator
 zoom plane4 city7 city4 fl5 fl4 fl3
 0
 2
-0 3 7 4
 0 2 5 3
+0 3 7 4
 1
 end_operator
 begin_operator
 zoom plane4 city7 city4 fl6 fl5 fl4
 0
 2
-0 3 7 4
 0 2 6 4
+0 3 7 4
 1
 end_operator
 begin_operator
 zoom plane4 city7 city5 fl2 fl1 fl0
 0
 2
-0 3 7 5
 0 2 2 0
+0 3 7 5
 1
 end_operator
 begin_operator
 zoom plane4 city7 city5 fl3 fl2 fl1
 0
 2
-0 3 7 5
 0 2 3 1
+0 3 7 5
 1
 end_operator
 begin_operator
 zoom plane4 city7 city5 fl4 fl3 fl2
 0
 2
-0 3 7 5
 0 2 4 2
+0 3 7 5
 1
 end_operator
 begin_operator
 zoom plane4 city7 city5 fl5 fl4 fl3
 0
 2
-0 3 7 5
 0 2 5 3
+0 3 7 5
 1
 end_operator
 begin_operator
 zoom plane4 city7 city5 fl6 fl5 fl4
 0
 2
-0 3 7 5
 0 2 6 4
+0 3 7 5
 1
 end_operator
 begin_operator
 zoom plane4 city7 city6 fl2 fl1 fl0
 0
 2
-0 3 7 6
 0 2 2 0
+0 3 7 6
 1
 end_operator
 begin_operator
 zoom plane4 city7 city6 fl3 fl2 fl1
 0
 2
-0 3 7 6
 0 2 3 1
+0 3 7 6
 1
 end_operator
 begin_operator
 zoom plane4 city7 city6 fl4 fl3 fl2
 0
 2
-0 3 7 6
 0 2 4 2
+0 3 7 6
 1
 end_operator
 begin_operator
 zoom plane4 city7 city6 fl5 fl4 fl3
 0
 2
-0 3 7 6
 0 2 5 3
+0 3 7 6
 1
 end_operator
 begin_operator
 zoom plane4 city7 city6 fl6 fl5 fl4
 0
 2
-0 3 7 6
 0 2 6 4
+0 3 7 6
 1
 end_operator
 begin_operator
@@ -49903,400 +49903,400 @@ begin_operator
 zoom plane4 city7 city8 fl2 fl1 fl0
 0
 2
-0 3 7 8
 0 2 2 0
+0 3 7 8
 1
 end_operator
 begin_operator
 zoom plane4 city7 city8 fl3 fl2 fl1
 0
 2
-0 3 7 8
 0 2 3 1
+0 3 7 8
 1
 end_operator
 begin_operator
 zoom plane4 city7 city8 fl4 fl3 fl2
 0
 2
-0 3 7 8
 0 2 4 2
+0 3 7 8
 1
 end_operator
 begin_operator
 zoom plane4 city7 city8 fl5 fl4 fl3
 0
 2
-0 3 7 8
 0 2 5 3
+0 3 7 8
 1
 end_operator
 begin_operator
 zoom plane4 city7 city8 fl6 fl5 fl4
 0
 2
-0 3 7 8
 0 2 6 4
+0 3 7 8
 1
 end_operator
 begin_operator
 zoom plane4 city7 city9 fl2 fl1 fl0
 0
 2
-0 3 7 9
 0 2 2 0
+0 3 7 9
 1
 end_operator
 begin_operator
 zoom plane4 city7 city9 fl3 fl2 fl1
 0
 2
-0 3 7 9
 0 2 3 1
+0 3 7 9
 1
 end_operator
 begin_operator
 zoom plane4 city7 city9 fl4 fl3 fl2
 0
 2
-0 3 7 9
 0 2 4 2
+0 3 7 9
 1
 end_operator
 begin_operator
 zoom plane4 city7 city9 fl5 fl4 fl3
 0
 2
-0 3 7 9
 0 2 5 3
+0 3 7 9
 1
 end_operator
 begin_operator
 zoom plane4 city7 city9 fl6 fl5 fl4
 0
 2
-0 3 7 9
 0 2 6 4
+0 3 7 9
 1
 end_operator
 begin_operator
 zoom plane4 city8 city0 fl2 fl1 fl0
 0
 2
-0 3 8 0
 0 2 2 0
+0 3 8 0
 1
 end_operator
 begin_operator
 zoom plane4 city8 city0 fl3 fl2 fl1
 0
 2
-0 3 8 0
 0 2 3 1
+0 3 8 0
 1
 end_operator
 begin_operator
 zoom plane4 city8 city0 fl4 fl3 fl2
 0
 2
-0 3 8 0
 0 2 4 2
+0 3 8 0
 1
 end_operator
 begin_operator
 zoom plane4 city8 city0 fl5 fl4 fl3
 0
 2
-0 3 8 0
 0 2 5 3
+0 3 8 0
 1
 end_operator
 begin_operator
 zoom plane4 city8 city0 fl6 fl5 fl4
 0
 2
-0 3 8 0
 0 2 6 4
+0 3 8 0
 1
 end_operator
 begin_operator
 zoom plane4 city8 city1 fl2 fl1 fl0
 0
 2
-0 3 8 1
 0 2 2 0
+0 3 8 1
 1
 end_operator
 begin_operator
 zoom plane4 city8 city1 fl3 fl2 fl1
 0
 2
-0 3 8 1
 0 2 3 1
+0 3 8 1
 1
 end_operator
 begin_operator
 zoom plane4 city8 city1 fl4 fl3 fl2
 0
 2
-0 3 8 1
 0 2 4 2
+0 3 8 1
 1
 end_operator
 begin_operator
 zoom plane4 city8 city1 fl5 fl4 fl3
 0
 2
-0 3 8 1
 0 2 5 3
+0 3 8 1
 1
 end_operator
 begin_operator
 zoom plane4 city8 city1 fl6 fl5 fl4
 0
 2
-0 3 8 1
 0 2 6 4
+0 3 8 1
 1
 end_operator
 begin_operator
 zoom plane4 city8 city2 fl2 fl1 fl0
 0
 2
-0 3 8 2
 0 2 2 0
+0 3 8 2
 1
 end_operator
 begin_operator
 zoom plane4 city8 city2 fl3 fl2 fl1
 0
 2
-0 3 8 2
 0 2 3 1
+0 3 8 2
 1
 end_operator
 begin_operator
 zoom plane4 city8 city2 fl4 fl3 fl2
 0
 2
-0 3 8 2
 0 2 4 2
+0 3 8 2
 1
 end_operator
 begin_operator
 zoom plane4 city8 city2 fl5 fl4 fl3
 0
 2
-0 3 8 2
 0 2 5 3
+0 3 8 2
 1
 end_operator
 begin_operator
 zoom plane4 city8 city2 fl6 fl5 fl4
 0
 2
-0 3 8 2
 0 2 6 4
+0 3 8 2
 1
 end_operator
 begin_operator
 zoom plane4 city8 city3 fl2 fl1 fl0
 0
 2
-0 3 8 3
 0 2 2 0
+0 3 8 3
 1
 end_operator
 begin_operator
 zoom plane4 city8 city3 fl3 fl2 fl1
 0
 2
-0 3 8 3
 0 2 3 1
+0 3 8 3
 1
 end_operator
 begin_operator
 zoom plane4 city8 city3 fl4 fl3 fl2
 0
 2
-0 3 8 3
 0 2 4 2
+0 3 8 3
 1
 end_operator
 begin_operator
 zoom plane4 city8 city3 fl5 fl4 fl3
 0
 2
-0 3 8 3
 0 2 5 3
+0 3 8 3
 1
 end_operator
 begin_operator
 zoom plane4 city8 city3 fl6 fl5 fl4
 0
 2
-0 3 8 3
 0 2 6 4
+0 3 8 3
 1
 end_operator
 begin_operator
 zoom plane4 city8 city4 fl2 fl1 fl0
 0
 2
-0 3 8 4
 0 2 2 0
+0 3 8 4
 1
 end_operator
 begin_operator
 zoom plane4 city8 city4 fl3 fl2 fl1
 0
 2
-0 3 8 4
 0 2 3 1
+0 3 8 4
 1
 end_operator
 begin_operator
 zoom plane4 city8 city4 fl4 fl3 fl2
 0
 2
-0 3 8 4
 0 2 4 2
+0 3 8 4
 1
 end_operator
 begin_operator
 zoom plane4 city8 city4 fl5 fl4 fl3
 0
 2
-0 3 8 4
 0 2 5 3
+0 3 8 4
 1
 end_operator
 begin_operator
 zoom plane4 city8 city4 fl6 fl5 fl4
 0
 2
-0 3 8 4
 0 2 6 4
+0 3 8 4
 1
 end_operator
 begin_operator
 zoom plane4 city8 city5 fl2 fl1 fl0
 0
 2
-0 3 8 5
 0 2 2 0
+0 3 8 5
 1
 end_operator
 begin_operator
 zoom plane4 city8 city5 fl3 fl2 fl1
 0
 2
-0 3 8 5
 0 2 3 1
+0 3 8 5
 1
 end_operator
 begin_operator
 zoom plane4 city8 city5 fl4 fl3 fl2
 0
 2
-0 3 8 5
 0 2 4 2
+0 3 8 5
 1
 end_operator
 begin_operator
 zoom plane4 city8 city5 fl5 fl4 fl3
 0
 2
-0 3 8 5
 0 2 5 3
+0 3 8 5
 1
 end_operator
 begin_operator
 zoom plane4 city8 city5 fl6 fl5 fl4
 0
 2
-0 3 8 5
 0 2 6 4
+0 3 8 5
 1
 end_operator
 begin_operator
 zoom plane4 city8 city6 fl2 fl1 fl0
 0
 2
-0 3 8 6
 0 2 2 0
+0 3 8 6
 1
 end_operator
 begin_operator
 zoom plane4 city8 city6 fl3 fl2 fl1
 0
 2
-0 3 8 6
 0 2 3 1
+0 3 8 6
 1
 end_operator
 begin_operator
 zoom plane4 city8 city6 fl4 fl3 fl2
 0
 2
-0 3 8 6
 0 2 4 2
+0 3 8 6
 1
 end_operator
 begin_operator
 zoom plane4 city8 city6 fl5 fl4 fl3
 0
 2
-0 3 8 6
 0 2 5 3
+0 3 8 6
 1
 end_operator
 begin_operator
 zoom plane4 city8 city6 fl6 fl5 fl4
 0
 2
-0 3 8 6
 0 2 6 4
+0 3 8 6
 1
 end_operator
 begin_operator
 zoom plane4 city8 city7 fl2 fl1 fl0
 0
 2
-0 3 8 7
 0 2 2 0
+0 3 8 7
 1
 end_operator
 begin_operator
 zoom plane4 city8 city7 fl3 fl2 fl1
 0
 2
-0 3 8 7
 0 2 3 1
+0 3 8 7
 1
 end_operator
 begin_operator
 zoom plane4 city8 city7 fl4 fl3 fl2
 0
 2
-0 3 8 7
 0 2 4 2
+0 3 8 7
 1
 end_operator
 begin_operator
 zoom plane4 city8 city7 fl5 fl4 fl3
 0
 2
-0 3 8 7
 0 2 5 3
+0 3 8 7
 1
 end_operator
 begin_operator
 zoom plane4 city8 city7 fl6 fl5 fl4
 0
 2
-0 3 8 7
 0 2 6 4
+0 3 8 7
 1
 end_operator
 begin_operator
@@ -50343,400 +50343,400 @@ begin_operator
 zoom plane4 city8 city9 fl2 fl1 fl0
 0
 2
-0 3 8 9
 0 2 2 0
+0 3 8 9
 1
 end_operator
 begin_operator
 zoom plane4 city8 city9 fl3 fl2 fl1
 0
 2
-0 3 8 9
 0 2 3 1
+0 3 8 9
 1
 end_operator
 begin_operator
 zoom plane4 city8 city9 fl4 fl3 fl2
 0
 2
-0 3 8 9
 0 2 4 2
+0 3 8 9
 1
 end_operator
 begin_operator
 zoom plane4 city8 city9 fl5 fl4 fl3
 0
 2
-0 3 8 9
 0 2 5 3
+0 3 8 9
 1
 end_operator
 begin_operator
 zoom plane4 city8 city9 fl6 fl5 fl4
 0
 2
-0 3 8 9
 0 2 6 4
+0 3 8 9
 1
 end_operator
 begin_operator
 zoom plane4 city9 city0 fl2 fl1 fl0
 0
 2
-0 3 9 0
 0 2 2 0
+0 3 9 0
 1
 end_operator
 begin_operator
 zoom plane4 city9 city0 fl3 fl2 fl1
 0
 2
-0 3 9 0
 0 2 3 1
+0 3 9 0
 1
 end_operator
 begin_operator
 zoom plane4 city9 city0 fl4 fl3 fl2
 0
 2
-0 3 9 0
 0 2 4 2
+0 3 9 0
 1
 end_operator
 begin_operator
 zoom plane4 city9 city0 fl5 fl4 fl3
 0
 2
-0 3 9 0
 0 2 5 3
+0 3 9 0
 1
 end_operator
 begin_operator
 zoom plane4 city9 city0 fl6 fl5 fl4
 0
 2
-0 3 9 0
 0 2 6 4
+0 3 9 0
 1
 end_operator
 begin_operator
 zoom plane4 city9 city1 fl2 fl1 fl0
 0
 2
-0 3 9 1
 0 2 2 0
+0 3 9 1
 1
 end_operator
 begin_operator
 zoom plane4 city9 city1 fl3 fl2 fl1
 0
 2
-0 3 9 1
 0 2 3 1
+0 3 9 1
 1
 end_operator
 begin_operator
 zoom plane4 city9 city1 fl4 fl3 fl2
 0
 2
-0 3 9 1
 0 2 4 2
+0 3 9 1
 1
 end_operator
 begin_operator
 zoom plane4 city9 city1 fl5 fl4 fl3
 0
 2
-0 3 9 1
 0 2 5 3
+0 3 9 1
 1
 end_operator
 begin_operator
 zoom plane4 city9 city1 fl6 fl5 fl4
 0
 2
-0 3 9 1
 0 2 6 4
+0 3 9 1
 1
 end_operator
 begin_operator
 zoom plane4 city9 city2 fl2 fl1 fl0
 0
 2
-0 3 9 2
 0 2 2 0
+0 3 9 2
 1
 end_operator
 begin_operator
 zoom plane4 city9 city2 fl3 fl2 fl1
 0
 2
-0 3 9 2
 0 2 3 1
+0 3 9 2
 1
 end_operator
 begin_operator
 zoom plane4 city9 city2 fl4 fl3 fl2
 0
 2
-0 3 9 2
 0 2 4 2
+0 3 9 2
 1
 end_operator
 begin_operator
 zoom plane4 city9 city2 fl5 fl4 fl3
 0
 2
-0 3 9 2
 0 2 5 3
+0 3 9 2
 1
 end_operator
 begin_operator
 zoom plane4 city9 city2 fl6 fl5 fl4
 0
 2
-0 3 9 2
 0 2 6 4
+0 3 9 2
 1
 end_operator
 begin_operator
 zoom plane4 city9 city3 fl2 fl1 fl0
 0
 2
-0 3 9 3
 0 2 2 0
+0 3 9 3
 1
 end_operator
 begin_operator
 zoom plane4 city9 city3 fl3 fl2 fl1
 0
 2
-0 3 9 3
 0 2 3 1
+0 3 9 3
 1
 end_operator
 begin_operator
 zoom plane4 city9 city3 fl4 fl3 fl2
 0
 2
-0 3 9 3
 0 2 4 2
+0 3 9 3
 1
 end_operator
 begin_operator
 zoom plane4 city9 city3 fl5 fl4 fl3
 0
 2
-0 3 9 3
 0 2 5 3
+0 3 9 3
 1
 end_operator
 begin_operator
 zoom plane4 city9 city3 fl6 fl5 fl4
 0
 2
-0 3 9 3
 0 2 6 4
+0 3 9 3
 1
 end_operator
 begin_operator
 zoom plane4 city9 city4 fl2 fl1 fl0
 0
 2
-0 3 9 4
 0 2 2 0
+0 3 9 4
 1
 end_operator
 begin_operator
 zoom plane4 city9 city4 fl3 fl2 fl1
 0
 2
-0 3 9 4
 0 2 3 1
+0 3 9 4
 1
 end_operator
 begin_operator
 zoom plane4 city9 city4 fl4 fl3 fl2
 0
 2
-0 3 9 4
 0 2 4 2
+0 3 9 4
 1
 end_operator
 begin_operator
 zoom plane4 city9 city4 fl5 fl4 fl3
 0
 2
-0 3 9 4
 0 2 5 3
+0 3 9 4
 1
 end_operator
 begin_operator
 zoom plane4 city9 city4 fl6 fl5 fl4
 0
 2
-0 3 9 4
 0 2 6 4
+0 3 9 4
 1
 end_operator
 begin_operator
 zoom plane4 city9 city5 fl2 fl1 fl0
 0
 2
-0 3 9 5
 0 2 2 0
+0 3 9 5
 1
 end_operator
 begin_operator
 zoom plane4 city9 city5 fl3 fl2 fl1
 0
 2
-0 3 9 5
 0 2 3 1
+0 3 9 5
 1
 end_operator
 begin_operator
 zoom plane4 city9 city5 fl4 fl3 fl2
 0
 2
-0 3 9 5
 0 2 4 2
+0 3 9 5
 1
 end_operator
 begin_operator
 zoom plane4 city9 city5 fl5 fl4 fl3
 0
 2
-0 3 9 5
 0 2 5 3
+0 3 9 5
 1
 end_operator
 begin_operator
 zoom plane4 city9 city5 fl6 fl5 fl4
 0
 2
-0 3 9 5
 0 2 6 4
+0 3 9 5
 1
 end_operator
 begin_operator
 zoom plane4 city9 city6 fl2 fl1 fl0
 0
 2
-0 3 9 6
 0 2 2 0
+0 3 9 6
 1
 end_operator
 begin_operator
 zoom plane4 city9 city6 fl3 fl2 fl1
 0
 2
-0 3 9 6
 0 2 3 1
+0 3 9 6
 1
 end_operator
 begin_operator
 zoom plane4 city9 city6 fl4 fl3 fl2
 0
 2
-0 3 9 6
 0 2 4 2
+0 3 9 6
 1
 end_operator
 begin_operator
 zoom plane4 city9 city6 fl5 fl4 fl3
 0
 2
-0 3 9 6
 0 2 5 3
+0 3 9 6
 1
 end_operator
 begin_operator
 zoom plane4 city9 city6 fl6 fl5 fl4
 0
 2
-0 3 9 6
 0 2 6 4
+0 3 9 6
 1
 end_operator
 begin_operator
 zoom plane4 city9 city7 fl2 fl1 fl0
 0
 2
-0 3 9 7
 0 2 2 0
+0 3 9 7
 1
 end_operator
 begin_operator
 zoom plane4 city9 city7 fl3 fl2 fl1
 0
 2
-0 3 9 7
 0 2 3 1
+0 3 9 7
 1
 end_operator
 begin_operator
 zoom plane4 city9 city7 fl4 fl3 fl2
 0
 2
-0 3 9 7
 0 2 4 2
+0 3 9 7
 1
 end_operator
 begin_operator
 zoom plane4 city9 city7 fl5 fl4 fl3
 0
 2
-0 3 9 7
 0 2 5 3
+0 3 9 7
 1
 end_operator
 begin_operator
 zoom plane4 city9 city7 fl6 fl5 fl4
 0
 2
-0 3 9 7
 0 2 6 4
+0 3 9 7
 1
 end_operator
 begin_operator
 zoom plane4 city9 city8 fl2 fl1 fl0
 0
 2
-0 3 9 8
 0 2 2 0
+0 3 9 8
 1
 end_operator
 begin_operator
 zoom plane4 city9 city8 fl3 fl2 fl1
 0
 2
-0 3 9 8
 0 2 3 1
+0 3 9 8
 1
 end_operator
 begin_operator
 zoom plane4 city9 city8 fl4 fl3 fl2
 0
 2
-0 3 9 8
 0 2 4 2
+0 3 9 8
 1
 end_operator
 begin_operator
 zoom plane4 city9 city8 fl5 fl4 fl3
 0
 2
-0 3 9 8
 0 2 5 3
+0 3 9 8
 1
 end_operator
 begin_operator
 zoom plane4 city9 city8 fl6 fl5 fl4
 0
 2
-0 3 9 8
 0 2 6 4
+0 3 9 8
 1
 end_operator
 begin_operator
@@ -50823,400 +50823,400 @@ begin_operator
 zoom plane5 city0 city1 fl2 fl1 fl0
 0
 2
-0 1 0 1
 0 0 2 0
+0 1 0 1
 1
 end_operator
 begin_operator
 zoom plane5 city0 city1 fl3 fl2 fl1
 0
 2
-0 1 0 1
 0 0 3 1
+0 1 0 1
 1
 end_operator
 begin_operator
 zoom plane5 city0 city1 fl4 fl3 fl2
 0
 2
-0 1 0 1
 0 0 4 2
+0 1 0 1
 1
 end_operator
 begin_operator
 zoom plane5 city0 city1 fl5 fl4 fl3
 0
 2
-0 1 0 1
 0 0 5 3
+0 1 0 1
 1
 end_operator
 begin_operator
 zoom plane5 city0 city1 fl6 fl5 fl4
 0
 2
-0 1 0 1
 0 0 6 4
+0 1 0 1
 1
 end_operator
 begin_operator
 zoom plane5 city0 city2 fl2 fl1 fl0
 0
 2
-0 1 0 2
 0 0 2 0
+0 1 0 2
 1
 end_operator
 begin_operator
 zoom plane5 city0 city2 fl3 fl2 fl1
 0
 2
-0 1 0 2
 0 0 3 1
+0 1 0 2
 1
 end_operator
 begin_operator
 zoom plane5 city0 city2 fl4 fl3 fl2
 0
 2
-0 1 0 2
 0 0 4 2
+0 1 0 2
 1
 end_operator
 begin_operator
 zoom plane5 city0 city2 fl5 fl4 fl3
 0
 2
-0 1 0 2
 0 0 5 3
+0 1 0 2
 1
 end_operator
 begin_operator
 zoom plane5 city0 city2 fl6 fl5 fl4
 0
 2
-0 1 0 2
 0 0 6 4
+0 1 0 2
 1
 end_operator
 begin_operator
 zoom plane5 city0 city3 fl2 fl1 fl0
 0
 2
-0 1 0 3
 0 0 2 0
+0 1 0 3
 1
 end_operator
 begin_operator
 zoom plane5 city0 city3 fl3 fl2 fl1
 0
 2
-0 1 0 3
 0 0 3 1
+0 1 0 3
 1
 end_operator
 begin_operator
 zoom plane5 city0 city3 fl4 fl3 fl2
 0
 2
-0 1 0 3
 0 0 4 2
+0 1 0 3
 1
 end_operator
 begin_operator
 zoom plane5 city0 city3 fl5 fl4 fl3
 0
 2
-0 1 0 3
 0 0 5 3
+0 1 0 3
 1
 end_operator
 begin_operator
 zoom plane5 city0 city3 fl6 fl5 fl4
 0
 2
-0 1 0 3
 0 0 6 4
+0 1 0 3
 1
 end_operator
 begin_operator
 zoom plane5 city0 city4 fl2 fl1 fl0
 0
 2
-0 1 0 4
 0 0 2 0
+0 1 0 4
 1
 end_operator
 begin_operator
 zoom plane5 city0 city4 fl3 fl2 fl1
 0
 2
-0 1 0 4
 0 0 3 1
+0 1 0 4
 1
 end_operator
 begin_operator
 zoom plane5 city0 city4 fl4 fl3 fl2
 0
 2
-0 1 0 4
 0 0 4 2
+0 1 0 4
 1
 end_operator
 begin_operator
 zoom plane5 city0 city4 fl5 fl4 fl3
 0
 2
-0 1 0 4
 0 0 5 3
+0 1 0 4
 1
 end_operator
 begin_operator
 zoom plane5 city0 city4 fl6 fl5 fl4
 0
 2
-0 1 0 4
 0 0 6 4
+0 1 0 4
 1
 end_operator
 begin_operator
 zoom plane5 city0 city5 fl2 fl1 fl0
 0
 2
-0 1 0 5
 0 0 2 0
+0 1 0 5
 1
 end_operator
 begin_operator
 zoom plane5 city0 city5 fl3 fl2 fl1
 0
 2
-0 1 0 5
 0 0 3 1
+0 1 0 5
 1
 end_operator
 begin_operator
 zoom plane5 city0 city5 fl4 fl3 fl2
 0
 2
-0 1 0 5
 0 0 4 2
+0 1 0 5
 1
 end_operator
 begin_operator
 zoom plane5 city0 city5 fl5 fl4 fl3
 0
 2
-0 1 0 5
 0 0 5 3
+0 1 0 5
 1
 end_operator
 begin_operator
 zoom plane5 city0 city5 fl6 fl5 fl4
 0
 2
-0 1 0 5
 0 0 6 4
+0 1 0 5
 1
 end_operator
 begin_operator
 zoom plane5 city0 city6 fl2 fl1 fl0
 0
 2
-0 1 0 6
 0 0 2 0
+0 1 0 6
 1
 end_operator
 begin_operator
 zoom plane5 city0 city6 fl3 fl2 fl1
 0
 2
-0 1 0 6
 0 0 3 1
+0 1 0 6
 1
 end_operator
 begin_operator
 zoom plane5 city0 city6 fl4 fl3 fl2
 0
 2
-0 1 0 6
 0 0 4 2
+0 1 0 6
 1
 end_operator
 begin_operator
 zoom plane5 city0 city6 fl5 fl4 fl3
 0
 2
-0 1 0 6
 0 0 5 3
+0 1 0 6
 1
 end_operator
 begin_operator
 zoom plane5 city0 city6 fl6 fl5 fl4
 0
 2
-0 1 0 6
 0 0 6 4
+0 1 0 6
 1
 end_operator
 begin_operator
 zoom plane5 city0 city7 fl2 fl1 fl0
 0
 2
-0 1 0 7
 0 0 2 0
+0 1 0 7
 1
 end_operator
 begin_operator
 zoom plane5 city0 city7 fl3 fl2 fl1
 0
 2
-0 1 0 7
 0 0 3 1
+0 1 0 7
 1
 end_operator
 begin_operator
 zoom plane5 city0 city7 fl4 fl3 fl2
 0
 2
-0 1 0 7
 0 0 4 2
+0 1 0 7
 1
 end_operator
 begin_operator
 zoom plane5 city0 city7 fl5 fl4 fl3
 0
 2
-0 1 0 7
 0 0 5 3
+0 1 0 7
 1
 end_operator
 begin_operator
 zoom plane5 city0 city7 fl6 fl5 fl4
 0
 2
-0 1 0 7
 0 0 6 4
+0 1 0 7
 1
 end_operator
 begin_operator
 zoom plane5 city0 city8 fl2 fl1 fl0
 0
 2
-0 1 0 8
 0 0 2 0
+0 1 0 8
 1
 end_operator
 begin_operator
 zoom plane5 city0 city8 fl3 fl2 fl1
 0
 2
-0 1 0 8
 0 0 3 1
+0 1 0 8
 1
 end_operator
 begin_operator
 zoom plane5 city0 city8 fl4 fl3 fl2
 0
 2
-0 1 0 8
 0 0 4 2
+0 1 0 8
 1
 end_operator
 begin_operator
 zoom plane5 city0 city8 fl5 fl4 fl3
 0
 2
-0 1 0 8
 0 0 5 3
+0 1 0 8
 1
 end_operator
 begin_operator
 zoom plane5 city0 city8 fl6 fl5 fl4
 0
 2
-0 1 0 8
 0 0 6 4
+0 1 0 8
 1
 end_operator
 begin_operator
 zoom plane5 city0 city9 fl2 fl1 fl0
 0
 2
-0 1 0 9
 0 0 2 0
+0 1 0 9
 1
 end_operator
 begin_operator
 zoom plane5 city0 city9 fl3 fl2 fl1
 0
 2
-0 1 0 9
 0 0 3 1
+0 1 0 9
 1
 end_operator
 begin_operator
 zoom plane5 city0 city9 fl4 fl3 fl2
 0
 2
-0 1 0 9
 0 0 4 2
+0 1 0 9
 1
 end_operator
 begin_operator
 zoom plane5 city0 city9 fl5 fl4 fl3
 0
 2
-0 1 0 9
 0 0 5 3
+0 1 0 9
 1
 end_operator
 begin_operator
 zoom plane5 city0 city9 fl6 fl5 fl4
 0
 2
-0 1 0 9
 0 0 6 4
+0 1 0 9
 1
 end_operator
 begin_operator
 zoom plane5 city1 city0 fl2 fl1 fl0
 0
 2
-0 1 1 0
 0 0 2 0
+0 1 1 0
 1
 end_operator
 begin_operator
 zoom plane5 city1 city0 fl3 fl2 fl1
 0
 2
-0 1 1 0
 0 0 3 1
+0 1 1 0
 1
 end_operator
 begin_operator
 zoom plane5 city1 city0 fl4 fl3 fl2
 0
 2
-0 1 1 0
 0 0 4 2
+0 1 1 0
 1
 end_operator
 begin_operator
 zoom plane5 city1 city0 fl5 fl4 fl3
 0
 2
-0 1 1 0
 0 0 5 3
+0 1 1 0
 1
 end_operator
 begin_operator
 zoom plane5 city1 city0 fl6 fl5 fl4
 0
 2
-0 1 1 0
 0 0 6 4
+0 1 1 0
 1
 end_operator
 begin_operator
@@ -51263,400 +51263,400 @@ begin_operator
 zoom plane5 city1 city2 fl2 fl1 fl0
 0
 2
-0 1 1 2
 0 0 2 0
+0 1 1 2
 1
 end_operator
 begin_operator
 zoom plane5 city1 city2 fl3 fl2 fl1
 0
 2
-0 1 1 2
 0 0 3 1
+0 1 1 2
 1
 end_operator
 begin_operator
 zoom plane5 city1 city2 fl4 fl3 fl2
 0
 2
-0 1 1 2
 0 0 4 2
+0 1 1 2
 1
 end_operator
 begin_operator
 zoom plane5 city1 city2 fl5 fl4 fl3
 0
 2
-0 1 1 2
 0 0 5 3
+0 1 1 2
 1
 end_operator
 begin_operator
 zoom plane5 city1 city2 fl6 fl5 fl4
 0
 2
-0 1 1 2
 0 0 6 4
+0 1 1 2
 1
 end_operator
 begin_operator
 zoom plane5 city1 city3 fl2 fl1 fl0
 0
 2
-0 1 1 3
 0 0 2 0
+0 1 1 3
 1
 end_operator
 begin_operator
 zoom plane5 city1 city3 fl3 fl2 fl1
 0
 2
-0 1 1 3
 0 0 3 1
+0 1 1 3
 1
 end_operator
 begin_operator
 zoom plane5 city1 city3 fl4 fl3 fl2
 0
 2
-0 1 1 3
 0 0 4 2
+0 1 1 3
 1
 end_operator
 begin_operator
 zoom plane5 city1 city3 fl5 fl4 fl3
 0
 2
-0 1 1 3
 0 0 5 3
+0 1 1 3
 1
 end_operator
 begin_operator
 zoom plane5 city1 city3 fl6 fl5 fl4
 0
 2
-0 1 1 3
 0 0 6 4
+0 1 1 3
 1
 end_operator
 begin_operator
 zoom plane5 city1 city4 fl2 fl1 fl0
 0
 2
-0 1 1 4
 0 0 2 0
+0 1 1 4
 1
 end_operator
 begin_operator
 zoom plane5 city1 city4 fl3 fl2 fl1
 0
 2
-0 1 1 4
 0 0 3 1
+0 1 1 4
 1
 end_operator
 begin_operator
 zoom plane5 city1 city4 fl4 fl3 fl2
 0
 2
-0 1 1 4
 0 0 4 2
+0 1 1 4
 1
 end_operator
 begin_operator
 zoom plane5 city1 city4 fl5 fl4 fl3
 0
 2
-0 1 1 4
 0 0 5 3
+0 1 1 4
 1
 end_operator
 begin_operator
 zoom plane5 city1 city4 fl6 fl5 fl4
 0
 2
-0 1 1 4
 0 0 6 4
+0 1 1 4
 1
 end_operator
 begin_operator
 zoom plane5 city1 city5 fl2 fl1 fl0
 0
 2
-0 1 1 5
 0 0 2 0
+0 1 1 5
 1
 end_operator
 begin_operator
 zoom plane5 city1 city5 fl3 fl2 fl1
 0
 2
-0 1 1 5
 0 0 3 1
+0 1 1 5
 1
 end_operator
 begin_operator
 zoom plane5 city1 city5 fl4 fl3 fl2
 0
 2
-0 1 1 5
 0 0 4 2
+0 1 1 5
 1
 end_operator
 begin_operator
 zoom plane5 city1 city5 fl5 fl4 fl3
 0
 2
-0 1 1 5
 0 0 5 3
+0 1 1 5
 1
 end_operator
 begin_operator
 zoom plane5 city1 city5 fl6 fl5 fl4
 0
 2
-0 1 1 5
 0 0 6 4
+0 1 1 5
 1
 end_operator
 begin_operator
 zoom plane5 city1 city6 fl2 fl1 fl0
 0
 2
-0 1 1 6
 0 0 2 0
+0 1 1 6
 1
 end_operator
 begin_operator
 zoom plane5 city1 city6 fl3 fl2 fl1
 0
 2
-0 1 1 6
 0 0 3 1
+0 1 1 6
 1
 end_operator
 begin_operator
 zoom plane5 city1 city6 fl4 fl3 fl2
 0
 2
-0 1 1 6
 0 0 4 2
+0 1 1 6
 1
 end_operator
 begin_operator
 zoom plane5 city1 city6 fl5 fl4 fl3
 0
 2
-0 1 1 6
 0 0 5 3
+0 1 1 6
 1
 end_operator
 begin_operator
 zoom plane5 city1 city6 fl6 fl5 fl4
 0
 2
-0 1 1 6
 0 0 6 4
+0 1 1 6
 1
 end_operator
 begin_operator
 zoom plane5 city1 city7 fl2 fl1 fl0
 0
 2
-0 1 1 7
 0 0 2 0
+0 1 1 7
 1
 end_operator
 begin_operator
 zoom plane5 city1 city7 fl3 fl2 fl1
 0
 2
-0 1 1 7
 0 0 3 1
+0 1 1 7
 1
 end_operator
 begin_operator
 zoom plane5 city1 city7 fl4 fl3 fl2
 0
 2
-0 1 1 7
 0 0 4 2
+0 1 1 7
 1
 end_operator
 begin_operator
 zoom plane5 city1 city7 fl5 fl4 fl3
 0
 2
-0 1 1 7
 0 0 5 3
+0 1 1 7
 1
 end_operator
 begin_operator
 zoom plane5 city1 city7 fl6 fl5 fl4
 0
 2
-0 1 1 7
 0 0 6 4
+0 1 1 7
 1
 end_operator
 begin_operator
 zoom plane5 city1 city8 fl2 fl1 fl0
 0
 2
-0 1 1 8
 0 0 2 0
+0 1 1 8
 1
 end_operator
 begin_operator
 zoom plane5 city1 city8 fl3 fl2 fl1
 0
 2
-0 1 1 8
 0 0 3 1
+0 1 1 8
 1
 end_operator
 begin_operator
 zoom plane5 city1 city8 fl4 fl3 fl2
 0
 2
-0 1 1 8
 0 0 4 2
+0 1 1 8
 1
 end_operator
 begin_operator
 zoom plane5 city1 city8 fl5 fl4 fl3
 0
 2
-0 1 1 8
 0 0 5 3
+0 1 1 8
 1
 end_operator
 begin_operator
 zoom plane5 city1 city8 fl6 fl5 fl4
 0
 2
-0 1 1 8
 0 0 6 4
+0 1 1 8
 1
 end_operator
 begin_operator
 zoom plane5 city1 city9 fl2 fl1 fl0
 0
 2
-0 1 1 9
 0 0 2 0
+0 1 1 9
 1
 end_operator
 begin_operator
 zoom plane5 city1 city9 fl3 fl2 fl1
 0
 2
-0 1 1 9
 0 0 3 1
+0 1 1 9
 1
 end_operator
 begin_operator
 zoom plane5 city1 city9 fl4 fl3 fl2
 0
 2
-0 1 1 9
 0 0 4 2
+0 1 1 9
 1
 end_operator
 begin_operator
 zoom plane5 city1 city9 fl5 fl4 fl3
 0
 2
-0 1 1 9
 0 0 5 3
+0 1 1 9
 1
 end_operator
 begin_operator
 zoom plane5 city1 city9 fl6 fl5 fl4
 0
 2
-0 1 1 9
 0 0 6 4
+0 1 1 9
 1
 end_operator
 begin_operator
 zoom plane5 city2 city0 fl2 fl1 fl0
 0
 2
-0 1 2 0
 0 0 2 0
+0 1 2 0
 1
 end_operator
 begin_operator
 zoom plane5 city2 city0 fl3 fl2 fl1
 0
 2
-0 1 2 0
 0 0 3 1
+0 1 2 0
 1
 end_operator
 begin_operator
 zoom plane5 city2 city0 fl4 fl3 fl2
 0
 2
-0 1 2 0
 0 0 4 2
+0 1 2 0
 1
 end_operator
 begin_operator
 zoom plane5 city2 city0 fl5 fl4 fl3
 0
 2
-0 1 2 0
 0 0 5 3
+0 1 2 0
 1
 end_operator
 begin_operator
 zoom plane5 city2 city0 fl6 fl5 fl4
 0
 2
-0 1 2 0
 0 0 6 4
+0 1 2 0
 1
 end_operator
 begin_operator
 zoom plane5 city2 city1 fl2 fl1 fl0
 0
 2
-0 1 2 1
 0 0 2 0
+0 1 2 1
 1
 end_operator
 begin_operator
 zoom plane5 city2 city1 fl3 fl2 fl1
 0
 2
-0 1 2 1
 0 0 3 1
+0 1 2 1
 1
 end_operator
 begin_operator
 zoom plane5 city2 city1 fl4 fl3 fl2
 0
 2
-0 1 2 1
 0 0 4 2
+0 1 2 1
 1
 end_operator
 begin_operator
 zoom plane5 city2 city1 fl5 fl4 fl3
 0
 2
-0 1 2 1
 0 0 5 3
+0 1 2 1
 1
 end_operator
 begin_operator
 zoom plane5 city2 city1 fl6 fl5 fl4
 0
 2
-0 1 2 1
 0 0 6 4
+0 1 2 1
 1
 end_operator
 begin_operator
@@ -51703,400 +51703,400 @@ begin_operator
 zoom plane5 city2 city3 fl2 fl1 fl0
 0
 2
-0 1 2 3
 0 0 2 0
+0 1 2 3
 1
 end_operator
 begin_operator
 zoom plane5 city2 city3 fl3 fl2 fl1
 0
 2
-0 1 2 3
 0 0 3 1
+0 1 2 3
 1
 end_operator
 begin_operator
 zoom plane5 city2 city3 fl4 fl3 fl2
 0
 2
-0 1 2 3
 0 0 4 2
+0 1 2 3
 1
 end_operator
 begin_operator
 zoom plane5 city2 city3 fl5 fl4 fl3
 0
 2
-0 1 2 3
 0 0 5 3
+0 1 2 3
 1
 end_operator
 begin_operator
 zoom plane5 city2 city3 fl6 fl5 fl4
 0
 2
-0 1 2 3
 0 0 6 4
+0 1 2 3
 1
 end_operator
 begin_operator
 zoom plane5 city2 city4 fl2 fl1 fl0
 0
 2
-0 1 2 4
 0 0 2 0
+0 1 2 4
 1
 end_operator
 begin_operator
 zoom plane5 city2 city4 fl3 fl2 fl1
 0
 2
-0 1 2 4
 0 0 3 1
+0 1 2 4
 1
 end_operator
 begin_operator
 zoom plane5 city2 city4 fl4 fl3 fl2
 0
 2
-0 1 2 4
 0 0 4 2
+0 1 2 4
 1
 end_operator
 begin_operator
 zoom plane5 city2 city4 fl5 fl4 fl3
 0
 2
-0 1 2 4
 0 0 5 3
+0 1 2 4
 1
 end_operator
 begin_operator
 zoom plane5 city2 city4 fl6 fl5 fl4
 0
 2
-0 1 2 4
 0 0 6 4
+0 1 2 4
 1
 end_operator
 begin_operator
 zoom plane5 city2 city5 fl2 fl1 fl0
 0
 2
-0 1 2 5
 0 0 2 0
+0 1 2 5
 1
 end_operator
 begin_operator
 zoom plane5 city2 city5 fl3 fl2 fl1
 0
 2
-0 1 2 5
 0 0 3 1
+0 1 2 5
 1
 end_operator
 begin_operator
 zoom plane5 city2 city5 fl4 fl3 fl2
 0
 2
-0 1 2 5
 0 0 4 2
+0 1 2 5
 1
 end_operator
 begin_operator
 zoom plane5 city2 city5 fl5 fl4 fl3
 0
 2
-0 1 2 5
 0 0 5 3
+0 1 2 5
 1
 end_operator
 begin_operator
 zoom plane5 city2 city5 fl6 fl5 fl4
 0
 2
-0 1 2 5
 0 0 6 4
+0 1 2 5
 1
 end_operator
 begin_operator
 zoom plane5 city2 city6 fl2 fl1 fl0
 0
 2
-0 1 2 6
 0 0 2 0
+0 1 2 6
 1
 end_operator
 begin_operator
 zoom plane5 city2 city6 fl3 fl2 fl1
 0
 2
-0 1 2 6
 0 0 3 1
+0 1 2 6
 1
 end_operator
 begin_operator
 zoom plane5 city2 city6 fl4 fl3 fl2
 0
 2
-0 1 2 6
 0 0 4 2
+0 1 2 6
 1
 end_operator
 begin_operator
 zoom plane5 city2 city6 fl5 fl4 fl3
 0
 2
-0 1 2 6
 0 0 5 3
+0 1 2 6
 1
 end_operator
 begin_operator
 zoom plane5 city2 city6 fl6 fl5 fl4
 0
 2
-0 1 2 6
 0 0 6 4
+0 1 2 6
 1
 end_operator
 begin_operator
 zoom plane5 city2 city7 fl2 fl1 fl0
 0
 2
-0 1 2 7
 0 0 2 0
+0 1 2 7
 1
 end_operator
 begin_operator
 zoom plane5 city2 city7 fl3 fl2 fl1
 0
 2
-0 1 2 7
 0 0 3 1
+0 1 2 7
 1
 end_operator
 begin_operator
 zoom plane5 city2 city7 fl4 fl3 fl2
 0
 2
-0 1 2 7
 0 0 4 2
+0 1 2 7
 1
 end_operator
 begin_operator
 zoom plane5 city2 city7 fl5 fl4 fl3
 0
 2
-0 1 2 7
 0 0 5 3
+0 1 2 7
 1
 end_operator
 begin_operator
 zoom plane5 city2 city7 fl6 fl5 fl4
 0
 2
-0 1 2 7
 0 0 6 4
+0 1 2 7
 1
 end_operator
 begin_operator
 zoom plane5 city2 city8 fl2 fl1 fl0
 0
 2
-0 1 2 8
 0 0 2 0
+0 1 2 8
 1
 end_operator
 begin_operator
 zoom plane5 city2 city8 fl3 fl2 fl1
 0
 2
-0 1 2 8
 0 0 3 1
+0 1 2 8
 1
 end_operator
 begin_operator
 zoom plane5 city2 city8 fl4 fl3 fl2
 0
 2
-0 1 2 8
 0 0 4 2
+0 1 2 8
 1
 end_operator
 begin_operator
 zoom plane5 city2 city8 fl5 fl4 fl3
 0
 2
-0 1 2 8
 0 0 5 3
+0 1 2 8
 1
 end_operator
 begin_operator
 zoom plane5 city2 city8 fl6 fl5 fl4
 0
 2
-0 1 2 8
 0 0 6 4
+0 1 2 8
 1
 end_operator
 begin_operator
 zoom plane5 city2 city9 fl2 fl1 fl0
 0
 2
-0 1 2 9
 0 0 2 0
+0 1 2 9
 1
 end_operator
 begin_operator
 zoom plane5 city2 city9 fl3 fl2 fl1
 0
 2
-0 1 2 9
 0 0 3 1
+0 1 2 9
 1
 end_operator
 begin_operator
 zoom plane5 city2 city9 fl4 fl3 fl2
 0
 2
-0 1 2 9
 0 0 4 2
+0 1 2 9
 1
 end_operator
 begin_operator
 zoom plane5 city2 city9 fl5 fl4 fl3
 0
 2
-0 1 2 9
 0 0 5 3
+0 1 2 9
 1
 end_operator
 begin_operator
 zoom plane5 city2 city9 fl6 fl5 fl4
 0
 2
-0 1 2 9
 0 0 6 4
+0 1 2 9
 1
 end_operator
 begin_operator
 zoom plane5 city3 city0 fl2 fl1 fl0
 0
 2
-0 1 3 0
 0 0 2 0
+0 1 3 0
 1
 end_operator
 begin_operator
 zoom plane5 city3 city0 fl3 fl2 fl1
 0
 2
-0 1 3 0
 0 0 3 1
+0 1 3 0
 1
 end_operator
 begin_operator
 zoom plane5 city3 city0 fl4 fl3 fl2
 0
 2
-0 1 3 0
 0 0 4 2
+0 1 3 0
 1
 end_operator
 begin_operator
 zoom plane5 city3 city0 fl5 fl4 fl3
 0
 2
-0 1 3 0
 0 0 5 3
+0 1 3 0
 1
 end_operator
 begin_operator
 zoom plane5 city3 city0 fl6 fl5 fl4
 0
 2
-0 1 3 0
 0 0 6 4
+0 1 3 0
 1
 end_operator
 begin_operator
 zoom plane5 city3 city1 fl2 fl1 fl0
 0
 2
-0 1 3 1
 0 0 2 0
+0 1 3 1
 1
 end_operator
 begin_operator
 zoom plane5 city3 city1 fl3 fl2 fl1
 0
 2
-0 1 3 1
 0 0 3 1
+0 1 3 1
 1
 end_operator
 begin_operator
 zoom plane5 city3 city1 fl4 fl3 fl2
 0
 2
-0 1 3 1
 0 0 4 2
+0 1 3 1
 1
 end_operator
 begin_operator
 zoom plane5 city3 city1 fl5 fl4 fl3
 0
 2
-0 1 3 1
 0 0 5 3
+0 1 3 1
 1
 end_operator
 begin_operator
 zoom plane5 city3 city1 fl6 fl5 fl4
 0
 2
-0 1 3 1
 0 0 6 4
+0 1 3 1
 1
 end_operator
 begin_operator
 zoom plane5 city3 city2 fl2 fl1 fl0
 0
 2
-0 1 3 2
 0 0 2 0
+0 1 3 2
 1
 end_operator
 begin_operator
 zoom plane5 city3 city2 fl3 fl2 fl1
 0
 2
-0 1 3 2
 0 0 3 1
+0 1 3 2
 1
 end_operator
 begin_operator
 zoom plane5 city3 city2 fl4 fl3 fl2
 0
 2
-0 1 3 2
 0 0 4 2
+0 1 3 2
 1
 end_operator
 begin_operator
 zoom plane5 city3 city2 fl5 fl4 fl3
 0
 2
-0 1 3 2
 0 0 5 3
+0 1 3 2
 1
 end_operator
 begin_operator
 zoom plane5 city3 city2 fl6 fl5 fl4
 0
 2
-0 1 3 2
 0 0 6 4
+0 1 3 2
 1
 end_operator
 begin_operator
@@ -52143,400 +52143,400 @@ begin_operator
 zoom plane5 city3 city4 fl2 fl1 fl0
 0
 2
-0 1 3 4
 0 0 2 0
+0 1 3 4
 1
 end_operator
 begin_operator
 zoom plane5 city3 city4 fl3 fl2 fl1
 0
 2
-0 1 3 4
 0 0 3 1
+0 1 3 4
 1
 end_operator
 begin_operator
 zoom plane5 city3 city4 fl4 fl3 fl2
 0
 2
-0 1 3 4
 0 0 4 2
+0 1 3 4
 1
 end_operator
 begin_operator
 zoom plane5 city3 city4 fl5 fl4 fl3
 0
 2
-0 1 3 4
 0 0 5 3
+0 1 3 4
 1
 end_operator
 begin_operator
 zoom plane5 city3 city4 fl6 fl5 fl4
 0
 2
-0 1 3 4
 0 0 6 4
+0 1 3 4
 1
 end_operator
 begin_operator
 zoom plane5 city3 city5 fl2 fl1 fl0
 0
 2
-0 1 3 5
 0 0 2 0
+0 1 3 5
 1
 end_operator
 begin_operator
 zoom plane5 city3 city5 fl3 fl2 fl1
 0
 2
-0 1 3 5
 0 0 3 1
+0 1 3 5
 1
 end_operator
 begin_operator
 zoom plane5 city3 city5 fl4 fl3 fl2
 0
 2
-0 1 3 5
 0 0 4 2
+0 1 3 5
 1
 end_operator
 begin_operator
 zoom plane5 city3 city5 fl5 fl4 fl3
 0
 2
-0 1 3 5
 0 0 5 3
+0 1 3 5
 1
 end_operator
 begin_operator
 zoom plane5 city3 city5 fl6 fl5 fl4
 0
 2
-0 1 3 5
 0 0 6 4
+0 1 3 5
 1
 end_operator
 begin_operator
 zoom plane5 city3 city6 fl2 fl1 fl0
 0
 2
-0 1 3 6
 0 0 2 0
+0 1 3 6
 1
 end_operator
 begin_operator
 zoom plane5 city3 city6 fl3 fl2 fl1
 0
 2
-0 1 3 6
 0 0 3 1
+0 1 3 6
 1
 end_operator
 begin_operator
 zoom plane5 city3 city6 fl4 fl3 fl2
 0
 2
-0 1 3 6
 0 0 4 2
+0 1 3 6
 1
 end_operator
 begin_operator
 zoom plane5 city3 city6 fl5 fl4 fl3
 0
 2
-0 1 3 6
 0 0 5 3
+0 1 3 6
 1
 end_operator
 begin_operator
 zoom plane5 city3 city6 fl6 fl5 fl4
 0
 2
-0 1 3 6
 0 0 6 4
+0 1 3 6
 1
 end_operator
 begin_operator
 zoom plane5 city3 city7 fl2 fl1 fl0
 0
 2
-0 1 3 7
 0 0 2 0
+0 1 3 7
 1
 end_operator
 begin_operator
 zoom plane5 city3 city7 fl3 fl2 fl1
 0
 2
-0 1 3 7
 0 0 3 1
+0 1 3 7
 1
 end_operator
 begin_operator
 zoom plane5 city3 city7 fl4 fl3 fl2
 0
 2
-0 1 3 7
 0 0 4 2
+0 1 3 7
 1
 end_operator
 begin_operator
 zoom plane5 city3 city7 fl5 fl4 fl3
 0
 2
-0 1 3 7
 0 0 5 3
+0 1 3 7
 1
 end_operator
 begin_operator
 zoom plane5 city3 city7 fl6 fl5 fl4
 0
 2
-0 1 3 7
 0 0 6 4
+0 1 3 7
 1
 end_operator
 begin_operator
 zoom plane5 city3 city8 fl2 fl1 fl0
 0
 2
-0 1 3 8
 0 0 2 0
+0 1 3 8
 1
 end_operator
 begin_operator
 zoom plane5 city3 city8 fl3 fl2 fl1
 0
 2
-0 1 3 8
 0 0 3 1
+0 1 3 8
 1
 end_operator
 begin_operator
 zoom plane5 city3 city8 fl4 fl3 fl2
 0
 2
-0 1 3 8
 0 0 4 2
+0 1 3 8
 1
 end_operator
 begin_operator
 zoom plane5 city3 city8 fl5 fl4 fl3
 0
 2
-0 1 3 8
 0 0 5 3
+0 1 3 8
 1
 end_operator
 begin_operator
 zoom plane5 city3 city8 fl6 fl5 fl4
 0
 2
-0 1 3 8
 0 0 6 4
+0 1 3 8
 1
 end_operator
 begin_operator
 zoom plane5 city3 city9 fl2 fl1 fl0
 0
 2
-0 1 3 9
 0 0 2 0
+0 1 3 9
 1
 end_operator
 begin_operator
 zoom plane5 city3 city9 fl3 fl2 fl1
 0
 2
-0 1 3 9
 0 0 3 1
+0 1 3 9
 1
 end_operator
 begin_operator
 zoom plane5 city3 city9 fl4 fl3 fl2
 0
 2
-0 1 3 9
 0 0 4 2
+0 1 3 9
 1
 end_operator
 begin_operator
 zoom plane5 city3 city9 fl5 fl4 fl3
 0
 2
-0 1 3 9
 0 0 5 3
+0 1 3 9
 1
 end_operator
 begin_operator
 zoom plane5 city3 city9 fl6 fl5 fl4
 0
 2
-0 1 3 9
 0 0 6 4
+0 1 3 9
 1
 end_operator
 begin_operator
 zoom plane5 city4 city0 fl2 fl1 fl0
 0
 2
-0 1 4 0
 0 0 2 0
+0 1 4 0
 1
 end_operator
 begin_operator
 zoom plane5 city4 city0 fl3 fl2 fl1
 0
 2
-0 1 4 0
 0 0 3 1
+0 1 4 0
 1
 end_operator
 begin_operator
 zoom plane5 city4 city0 fl4 fl3 fl2
 0
 2
-0 1 4 0
 0 0 4 2
+0 1 4 0
 1
 end_operator
 begin_operator
 zoom plane5 city4 city0 fl5 fl4 fl3
 0
 2
-0 1 4 0
 0 0 5 3
+0 1 4 0
 1
 end_operator
 begin_operator
 zoom plane5 city4 city0 fl6 fl5 fl4
 0
 2
-0 1 4 0
 0 0 6 4
+0 1 4 0
 1
 end_operator
 begin_operator
 zoom plane5 city4 city1 fl2 fl1 fl0
 0
 2
-0 1 4 1
 0 0 2 0
+0 1 4 1
 1
 end_operator
 begin_operator
 zoom plane5 city4 city1 fl3 fl2 fl1
 0
 2
-0 1 4 1
 0 0 3 1
+0 1 4 1
 1
 end_operator
 begin_operator
 zoom plane5 city4 city1 fl4 fl3 fl2
 0
 2
-0 1 4 1
 0 0 4 2
+0 1 4 1
 1
 end_operator
 begin_operator
 zoom plane5 city4 city1 fl5 fl4 fl3
 0
 2
-0 1 4 1
 0 0 5 3
+0 1 4 1
 1
 end_operator
 begin_operator
 zoom plane5 city4 city1 fl6 fl5 fl4
 0
 2
-0 1 4 1
 0 0 6 4
+0 1 4 1
 1
 end_operator
 begin_operator
 zoom plane5 city4 city2 fl2 fl1 fl0
 0
 2
-0 1 4 2
 0 0 2 0
+0 1 4 2
 1
 end_operator
 begin_operator
 zoom plane5 city4 city2 fl3 fl2 fl1
 0
 2
-0 1 4 2
 0 0 3 1
+0 1 4 2
 1
 end_operator
 begin_operator
 zoom plane5 city4 city2 fl4 fl3 fl2
 0
 2
-0 1 4 2
 0 0 4 2
+0 1 4 2
 1
 end_operator
 begin_operator
 zoom plane5 city4 city2 fl5 fl4 fl3
 0
 2
-0 1 4 2
 0 0 5 3
+0 1 4 2
 1
 end_operator
 begin_operator
 zoom plane5 city4 city2 fl6 fl5 fl4
 0
 2
-0 1 4 2
 0 0 6 4
+0 1 4 2
 1
 end_operator
 begin_operator
 zoom plane5 city4 city3 fl2 fl1 fl0
 0
 2
-0 1 4 3
 0 0 2 0
+0 1 4 3
 1
 end_operator
 begin_operator
 zoom plane5 city4 city3 fl3 fl2 fl1
 0
 2
-0 1 4 3
 0 0 3 1
+0 1 4 3
 1
 end_operator
 begin_operator
 zoom plane5 city4 city3 fl4 fl3 fl2
 0
 2
-0 1 4 3
 0 0 4 2
+0 1 4 3
 1
 end_operator
 begin_operator
 zoom plane5 city4 city3 fl5 fl4 fl3
 0
 2
-0 1 4 3
 0 0 5 3
+0 1 4 3
 1
 end_operator
 begin_operator
 zoom plane5 city4 city3 fl6 fl5 fl4
 0
 2
-0 1 4 3
 0 0 6 4
+0 1 4 3
 1
 end_operator
 begin_operator
@@ -52583,400 +52583,400 @@ begin_operator
 zoom plane5 city4 city5 fl2 fl1 fl0
 0
 2
-0 1 4 5
 0 0 2 0
+0 1 4 5
 1
 end_operator
 begin_operator
 zoom plane5 city4 city5 fl3 fl2 fl1
 0
 2
-0 1 4 5
 0 0 3 1
+0 1 4 5
 1
 end_operator
 begin_operator
 zoom plane5 city4 city5 fl4 fl3 fl2
 0
 2
-0 1 4 5
 0 0 4 2
+0 1 4 5
 1
 end_operator
 begin_operator
 zoom plane5 city4 city5 fl5 fl4 fl3
 0
 2
-0 1 4 5
 0 0 5 3
+0 1 4 5
 1
 end_operator
 begin_operator
 zoom plane5 city4 city5 fl6 fl5 fl4
 0
 2
-0 1 4 5
 0 0 6 4
+0 1 4 5
 1
 end_operator
 begin_operator
 zoom plane5 city4 city6 fl2 fl1 fl0
 0
 2
-0 1 4 6
 0 0 2 0
+0 1 4 6
 1
 end_operator
 begin_operator
 zoom plane5 city4 city6 fl3 fl2 fl1
 0
 2
-0 1 4 6
 0 0 3 1
+0 1 4 6
 1
 end_operator
 begin_operator
 zoom plane5 city4 city6 fl4 fl3 fl2
 0
 2
-0 1 4 6
 0 0 4 2
+0 1 4 6
 1
 end_operator
 begin_operator
 zoom plane5 city4 city6 fl5 fl4 fl3
 0
 2
-0 1 4 6
 0 0 5 3
+0 1 4 6
 1
 end_operator
 begin_operator
 zoom plane5 city4 city6 fl6 fl5 fl4
 0
 2
-0 1 4 6
 0 0 6 4
+0 1 4 6
 1
 end_operator
 begin_operator
 zoom plane5 city4 city7 fl2 fl1 fl0
 0
 2
-0 1 4 7
 0 0 2 0
+0 1 4 7
 1
 end_operator
 begin_operator
 zoom plane5 city4 city7 fl3 fl2 fl1
 0
 2
-0 1 4 7
 0 0 3 1
+0 1 4 7
 1
 end_operator
 begin_operator
 zoom plane5 city4 city7 fl4 fl3 fl2
 0
 2
-0 1 4 7
 0 0 4 2
+0 1 4 7
 1
 end_operator
 begin_operator
 zoom plane5 city4 city7 fl5 fl4 fl3
 0
 2
-0 1 4 7
 0 0 5 3
+0 1 4 7
 1
 end_operator
 begin_operator
 zoom plane5 city4 city7 fl6 fl5 fl4
 0
 2
-0 1 4 7
 0 0 6 4
+0 1 4 7
 1
 end_operator
 begin_operator
 zoom plane5 city4 city8 fl2 fl1 fl0
 0
 2
-0 1 4 8
 0 0 2 0
+0 1 4 8
 1
 end_operator
 begin_operator
 zoom plane5 city4 city8 fl3 fl2 fl1
 0
 2
-0 1 4 8
 0 0 3 1
+0 1 4 8
 1
 end_operator
 begin_operator
 zoom plane5 city4 city8 fl4 fl3 fl2
 0
 2
-0 1 4 8
 0 0 4 2
+0 1 4 8
 1
 end_operator
 begin_operator
 zoom plane5 city4 city8 fl5 fl4 fl3
 0
 2
-0 1 4 8
 0 0 5 3
+0 1 4 8
 1
 end_operator
 begin_operator
 zoom plane5 city4 city8 fl6 fl5 fl4
 0
 2
-0 1 4 8
 0 0 6 4
+0 1 4 8
 1
 end_operator
 begin_operator
 zoom plane5 city4 city9 fl2 fl1 fl0
 0
 2
-0 1 4 9
 0 0 2 0
+0 1 4 9
 1
 end_operator
 begin_operator
 zoom plane5 city4 city9 fl3 fl2 fl1
 0
 2
-0 1 4 9
 0 0 3 1
+0 1 4 9
 1
 end_operator
 begin_operator
 zoom plane5 city4 city9 fl4 fl3 fl2
 0
 2
-0 1 4 9
 0 0 4 2
+0 1 4 9
 1
 end_operator
 begin_operator
 zoom plane5 city4 city9 fl5 fl4 fl3
 0
 2
-0 1 4 9
 0 0 5 3
+0 1 4 9
 1
 end_operator
 begin_operator
 zoom plane5 city4 city9 fl6 fl5 fl4
 0
 2
-0 1 4 9
 0 0 6 4
+0 1 4 9
 1
 end_operator
 begin_operator
 zoom plane5 city5 city0 fl2 fl1 fl0
 0
 2
-0 1 5 0
 0 0 2 0
+0 1 5 0
 1
 end_operator
 begin_operator
 zoom plane5 city5 city0 fl3 fl2 fl1
 0
 2
-0 1 5 0
 0 0 3 1
+0 1 5 0
 1
 end_operator
 begin_operator
 zoom plane5 city5 city0 fl4 fl3 fl2
 0
 2
-0 1 5 0
 0 0 4 2
+0 1 5 0
 1
 end_operator
 begin_operator
 zoom plane5 city5 city0 fl5 fl4 fl3
 0
 2
-0 1 5 0
 0 0 5 3
+0 1 5 0
 1
 end_operator
 begin_operator
 zoom plane5 city5 city0 fl6 fl5 fl4
 0
 2
-0 1 5 0
 0 0 6 4
+0 1 5 0
 1
 end_operator
 begin_operator
 zoom plane5 city5 city1 fl2 fl1 fl0
 0
 2
-0 1 5 1
 0 0 2 0
+0 1 5 1
 1
 end_operator
 begin_operator
 zoom plane5 city5 city1 fl3 fl2 fl1
 0
 2
-0 1 5 1
 0 0 3 1
+0 1 5 1
 1
 end_operator
 begin_operator
 zoom plane5 city5 city1 fl4 fl3 fl2
 0
 2
-0 1 5 1
 0 0 4 2
+0 1 5 1
 1
 end_operator
 begin_operator
 zoom plane5 city5 city1 fl5 fl4 fl3
 0
 2
-0 1 5 1
 0 0 5 3
+0 1 5 1
 1
 end_operator
 begin_operator
 zoom plane5 city5 city1 fl6 fl5 fl4
 0
 2
-0 1 5 1
 0 0 6 4
+0 1 5 1
 1
 end_operator
 begin_operator
 zoom plane5 city5 city2 fl2 fl1 fl0
 0
 2
-0 1 5 2
 0 0 2 0
+0 1 5 2
 1
 end_operator
 begin_operator
 zoom plane5 city5 city2 fl3 fl2 fl1
 0
 2
-0 1 5 2
 0 0 3 1
+0 1 5 2
 1
 end_operator
 begin_operator
 zoom plane5 city5 city2 fl4 fl3 fl2
 0
 2
-0 1 5 2
 0 0 4 2
+0 1 5 2
 1
 end_operator
 begin_operator
 zoom plane5 city5 city2 fl5 fl4 fl3
 0
 2
-0 1 5 2
 0 0 5 3
+0 1 5 2
 1
 end_operator
 begin_operator
 zoom plane5 city5 city2 fl6 fl5 fl4
 0
 2
-0 1 5 2
 0 0 6 4
+0 1 5 2
 1
 end_operator
 begin_operator
 zoom plane5 city5 city3 fl2 fl1 fl0
 0
 2
-0 1 5 3
 0 0 2 0
+0 1 5 3
 1
 end_operator
 begin_operator
 zoom plane5 city5 city3 fl3 fl2 fl1
 0
 2
-0 1 5 3
 0 0 3 1
+0 1 5 3
 1
 end_operator
 begin_operator
 zoom plane5 city5 city3 fl4 fl3 fl2
 0
 2
-0 1 5 3
 0 0 4 2
+0 1 5 3
 1
 end_operator
 begin_operator
 zoom plane5 city5 city3 fl5 fl4 fl3
 0
 2
-0 1 5 3
 0 0 5 3
+0 1 5 3
 1
 end_operator
 begin_operator
 zoom plane5 city5 city3 fl6 fl5 fl4
 0
 2
-0 1 5 3
 0 0 6 4
+0 1 5 3
 1
 end_operator
 begin_operator
 zoom plane5 city5 city4 fl2 fl1 fl0
 0
 2
-0 1 5 4
 0 0 2 0
+0 1 5 4
 1
 end_operator
 begin_operator
 zoom plane5 city5 city4 fl3 fl2 fl1
 0
 2
-0 1 5 4
 0 0 3 1
+0 1 5 4
 1
 end_operator
 begin_operator
 zoom plane5 city5 city4 fl4 fl3 fl2
 0
 2
-0 1 5 4
 0 0 4 2
+0 1 5 4
 1
 end_operator
 begin_operator
 zoom plane5 city5 city4 fl5 fl4 fl3
 0
 2
-0 1 5 4
 0 0 5 3
+0 1 5 4
 1
 end_operator
 begin_operator
 zoom plane5 city5 city4 fl6 fl5 fl4
 0
 2
-0 1 5 4
 0 0 6 4
+0 1 5 4
 1
 end_operator
 begin_operator
@@ -53023,400 +53023,400 @@ begin_operator
 zoom plane5 city5 city6 fl2 fl1 fl0
 0
 2
-0 1 5 6
 0 0 2 0
+0 1 5 6
 1
 end_operator
 begin_operator
 zoom plane5 city5 city6 fl3 fl2 fl1
 0
 2
-0 1 5 6
 0 0 3 1
+0 1 5 6
 1
 end_operator
 begin_operator
 zoom plane5 city5 city6 fl4 fl3 fl2
 0
 2
-0 1 5 6
 0 0 4 2
+0 1 5 6
 1
 end_operator
 begin_operator
 zoom plane5 city5 city6 fl5 fl4 fl3
 0
 2
-0 1 5 6
 0 0 5 3
+0 1 5 6
 1
 end_operator
 begin_operator
 zoom plane5 city5 city6 fl6 fl5 fl4
 0
 2
-0 1 5 6
 0 0 6 4
+0 1 5 6
 1
 end_operator
 begin_operator
 zoom plane5 city5 city7 fl2 fl1 fl0
 0
 2
-0 1 5 7
 0 0 2 0
+0 1 5 7
 1
 end_operator
 begin_operator
 zoom plane5 city5 city7 fl3 fl2 fl1
 0
 2
-0 1 5 7
 0 0 3 1
+0 1 5 7
 1
 end_operator
 begin_operator
 zoom plane5 city5 city7 fl4 fl3 fl2
 0
 2
-0 1 5 7
 0 0 4 2
+0 1 5 7
 1
 end_operator
 begin_operator
 zoom plane5 city5 city7 fl5 fl4 fl3
 0
 2
-0 1 5 7
 0 0 5 3
+0 1 5 7
 1
 end_operator
 begin_operator
 zoom plane5 city5 city7 fl6 fl5 fl4
 0
 2
-0 1 5 7
 0 0 6 4
+0 1 5 7
 1
 end_operator
 begin_operator
 zoom plane5 city5 city8 fl2 fl1 fl0
 0
 2
-0 1 5 8
 0 0 2 0
+0 1 5 8
 1
 end_operator
 begin_operator
 zoom plane5 city5 city8 fl3 fl2 fl1
 0
 2
-0 1 5 8
 0 0 3 1
+0 1 5 8
 1
 end_operator
 begin_operator
 zoom plane5 city5 city8 fl4 fl3 fl2
 0
 2
-0 1 5 8
 0 0 4 2
+0 1 5 8
 1
 end_operator
 begin_operator
 zoom plane5 city5 city8 fl5 fl4 fl3
 0
 2
-0 1 5 8
 0 0 5 3
+0 1 5 8
 1
 end_operator
 begin_operator
 zoom plane5 city5 city8 fl6 fl5 fl4
 0
 2
-0 1 5 8
 0 0 6 4
+0 1 5 8
 1
 end_operator
 begin_operator
 zoom plane5 city5 city9 fl2 fl1 fl0
 0
 2
-0 1 5 9
 0 0 2 0
+0 1 5 9
 1
 end_operator
 begin_operator
 zoom plane5 city5 city9 fl3 fl2 fl1
 0
 2
-0 1 5 9
 0 0 3 1
+0 1 5 9
 1
 end_operator
 begin_operator
 zoom plane5 city5 city9 fl4 fl3 fl2
 0
 2
-0 1 5 9
 0 0 4 2
+0 1 5 9
 1
 end_operator
 begin_operator
 zoom plane5 city5 city9 fl5 fl4 fl3
 0
 2
-0 1 5 9
 0 0 5 3
+0 1 5 9
 1
 end_operator
 begin_operator
 zoom plane5 city5 city9 fl6 fl5 fl4
 0
 2
-0 1 5 9
 0 0 6 4
+0 1 5 9
 1
 end_operator
 begin_operator
 zoom plane5 city6 city0 fl2 fl1 fl0
 0
 2
-0 1 6 0
 0 0 2 0
+0 1 6 0
 1
 end_operator
 begin_operator
 zoom plane5 city6 city0 fl3 fl2 fl1
 0
 2
-0 1 6 0
 0 0 3 1
+0 1 6 0
 1
 end_operator
 begin_operator
 zoom plane5 city6 city0 fl4 fl3 fl2
 0
 2
-0 1 6 0
 0 0 4 2
+0 1 6 0
 1
 end_operator
 begin_operator
 zoom plane5 city6 city0 fl5 fl4 fl3
 0
 2
-0 1 6 0
 0 0 5 3
+0 1 6 0
 1
 end_operator
 begin_operator
 zoom plane5 city6 city0 fl6 fl5 fl4
 0
 2
-0 1 6 0
 0 0 6 4
+0 1 6 0
 1
 end_operator
 begin_operator
 zoom plane5 city6 city1 fl2 fl1 fl0
 0
 2
-0 1 6 1
 0 0 2 0
+0 1 6 1
 1
 end_operator
 begin_operator
 zoom plane5 city6 city1 fl3 fl2 fl1
 0
 2
-0 1 6 1
 0 0 3 1
+0 1 6 1
 1
 end_operator
 begin_operator
 zoom plane5 city6 city1 fl4 fl3 fl2
 0
 2
-0 1 6 1
 0 0 4 2
+0 1 6 1
 1
 end_operator
 begin_operator
 zoom plane5 city6 city1 fl5 fl4 fl3
 0
 2
-0 1 6 1
 0 0 5 3
+0 1 6 1
 1
 end_operator
 begin_operator
 zoom plane5 city6 city1 fl6 fl5 fl4
 0
 2
-0 1 6 1
 0 0 6 4
+0 1 6 1
 1
 end_operator
 begin_operator
 zoom plane5 city6 city2 fl2 fl1 fl0
 0
 2
-0 1 6 2
 0 0 2 0
+0 1 6 2
 1
 end_operator
 begin_operator
 zoom plane5 city6 city2 fl3 fl2 fl1
 0
 2
-0 1 6 2
 0 0 3 1
+0 1 6 2
 1
 end_operator
 begin_operator
 zoom plane5 city6 city2 fl4 fl3 fl2
 0
 2
-0 1 6 2
 0 0 4 2
+0 1 6 2
 1
 end_operator
 begin_operator
 zoom plane5 city6 city2 fl5 fl4 fl3
 0
 2
-0 1 6 2
 0 0 5 3
+0 1 6 2
 1
 end_operator
 begin_operator
 zoom plane5 city6 city2 fl6 fl5 fl4
 0
 2
-0 1 6 2
 0 0 6 4
+0 1 6 2
 1
 end_operator
 begin_operator
 zoom plane5 city6 city3 fl2 fl1 fl0
 0
 2
-0 1 6 3
 0 0 2 0
+0 1 6 3
 1
 end_operator
 begin_operator
 zoom plane5 city6 city3 fl3 fl2 fl1
 0
 2
-0 1 6 3
 0 0 3 1
+0 1 6 3
 1
 end_operator
 begin_operator
 zoom plane5 city6 city3 fl4 fl3 fl2
 0
 2
-0 1 6 3
 0 0 4 2
+0 1 6 3
 1
 end_operator
 begin_operator
 zoom plane5 city6 city3 fl5 fl4 fl3
 0
 2
-0 1 6 3
 0 0 5 3
+0 1 6 3
 1
 end_operator
 begin_operator
 zoom plane5 city6 city3 fl6 fl5 fl4
 0
 2
-0 1 6 3
 0 0 6 4
+0 1 6 3
 1
 end_operator
 begin_operator
 zoom plane5 city6 city4 fl2 fl1 fl0
 0
 2
-0 1 6 4
 0 0 2 0
+0 1 6 4
 1
 end_operator
 begin_operator
 zoom plane5 city6 city4 fl3 fl2 fl1
 0
 2
-0 1 6 4
 0 0 3 1
+0 1 6 4
 1
 end_operator
 begin_operator
 zoom plane5 city6 city4 fl4 fl3 fl2
 0
 2
-0 1 6 4
 0 0 4 2
+0 1 6 4
 1
 end_operator
 begin_operator
 zoom plane5 city6 city4 fl5 fl4 fl3
 0
 2
-0 1 6 4
 0 0 5 3
+0 1 6 4
 1
 end_operator
 begin_operator
 zoom plane5 city6 city4 fl6 fl5 fl4
 0
 2
-0 1 6 4
 0 0 6 4
+0 1 6 4
 1
 end_operator
 begin_operator
 zoom plane5 city6 city5 fl2 fl1 fl0
 0
 2
-0 1 6 5
 0 0 2 0
+0 1 6 5
 1
 end_operator
 begin_operator
 zoom plane5 city6 city5 fl3 fl2 fl1
 0
 2
-0 1 6 5
 0 0 3 1
+0 1 6 5
 1
 end_operator
 begin_operator
 zoom plane5 city6 city5 fl4 fl3 fl2
 0
 2
-0 1 6 5
 0 0 4 2
+0 1 6 5
 1
 end_operator
 begin_operator
 zoom plane5 city6 city5 fl5 fl4 fl3
 0
 2
-0 1 6 5
 0 0 5 3
+0 1 6 5
 1
 end_operator
 begin_operator
 zoom plane5 city6 city5 fl6 fl5 fl4
 0
 2
-0 1 6 5
 0 0 6 4
+0 1 6 5
 1
 end_operator
 begin_operator
@@ -53463,400 +53463,400 @@ begin_operator
 zoom plane5 city6 city7 fl2 fl1 fl0
 0
 2
-0 1 6 7
 0 0 2 0
+0 1 6 7
 1
 end_operator
 begin_operator
 zoom plane5 city6 city7 fl3 fl2 fl1
 0
 2
-0 1 6 7
 0 0 3 1
+0 1 6 7
 1
 end_operator
 begin_operator
 zoom plane5 city6 city7 fl4 fl3 fl2
 0
 2
-0 1 6 7
 0 0 4 2
+0 1 6 7
 1
 end_operator
 begin_operator
 zoom plane5 city6 city7 fl5 fl4 fl3
 0
 2
-0 1 6 7
 0 0 5 3
+0 1 6 7
 1
 end_operator
 begin_operator
 zoom plane5 city6 city7 fl6 fl5 fl4
 0
 2
-0 1 6 7
 0 0 6 4
+0 1 6 7
 1
 end_operator
 begin_operator
 zoom plane5 city6 city8 fl2 fl1 fl0
 0
 2
-0 1 6 8
 0 0 2 0
+0 1 6 8
 1
 end_operator
 begin_operator
 zoom plane5 city6 city8 fl3 fl2 fl1
 0
 2
-0 1 6 8
 0 0 3 1
+0 1 6 8
 1
 end_operator
 begin_operator
 zoom plane5 city6 city8 fl4 fl3 fl2
 0
 2
-0 1 6 8
 0 0 4 2
+0 1 6 8
 1
 end_operator
 begin_operator
 zoom plane5 city6 city8 fl5 fl4 fl3
 0
 2
-0 1 6 8
 0 0 5 3
+0 1 6 8
 1
 end_operator
 begin_operator
 zoom plane5 city6 city8 fl6 fl5 fl4
 0
 2
-0 1 6 8
 0 0 6 4
+0 1 6 8
 1
 end_operator
 begin_operator
 zoom plane5 city6 city9 fl2 fl1 fl0
 0
 2
-0 1 6 9
 0 0 2 0
+0 1 6 9
 1
 end_operator
 begin_operator
 zoom plane5 city6 city9 fl3 fl2 fl1
 0
 2
-0 1 6 9
 0 0 3 1
+0 1 6 9
 1
 end_operator
 begin_operator
 zoom plane5 city6 city9 fl4 fl3 fl2
 0
 2
-0 1 6 9
 0 0 4 2
+0 1 6 9
 1
 end_operator
 begin_operator
 zoom plane5 city6 city9 fl5 fl4 fl3
 0
 2
-0 1 6 9
 0 0 5 3
+0 1 6 9
 1
 end_operator
 begin_operator
 zoom plane5 city6 city9 fl6 fl5 fl4
 0
 2
-0 1 6 9
 0 0 6 4
+0 1 6 9
 1
 end_operator
 begin_operator
 zoom plane5 city7 city0 fl2 fl1 fl0
 0
 2
-0 1 7 0
 0 0 2 0
+0 1 7 0
 1
 end_operator
 begin_operator
 zoom plane5 city7 city0 fl3 fl2 fl1
 0
 2
-0 1 7 0
 0 0 3 1
+0 1 7 0
 1
 end_operator
 begin_operator
 zoom plane5 city7 city0 fl4 fl3 fl2
 0
 2
-0 1 7 0
 0 0 4 2
+0 1 7 0
 1
 end_operator
 begin_operator
 zoom plane5 city7 city0 fl5 fl4 fl3
 0
 2
-0 1 7 0
 0 0 5 3
+0 1 7 0
 1
 end_operator
 begin_operator
 zoom plane5 city7 city0 fl6 fl5 fl4
 0
 2
-0 1 7 0
 0 0 6 4
+0 1 7 0
 1
 end_operator
 begin_operator
 zoom plane5 city7 city1 fl2 fl1 fl0
 0
 2
-0 1 7 1
 0 0 2 0
+0 1 7 1
 1
 end_operator
 begin_operator
 zoom plane5 city7 city1 fl3 fl2 fl1
 0
 2
-0 1 7 1
 0 0 3 1
+0 1 7 1
 1
 end_operator
 begin_operator
 zoom plane5 city7 city1 fl4 fl3 fl2
 0
 2
-0 1 7 1
 0 0 4 2
+0 1 7 1
 1
 end_operator
 begin_operator
 zoom plane5 city7 city1 fl5 fl4 fl3
 0
 2
-0 1 7 1
 0 0 5 3
+0 1 7 1
 1
 end_operator
 begin_operator
 zoom plane5 city7 city1 fl6 fl5 fl4
 0
 2
-0 1 7 1
 0 0 6 4
+0 1 7 1
 1
 end_operator
 begin_operator
 zoom plane5 city7 city2 fl2 fl1 fl0
 0
 2
-0 1 7 2
 0 0 2 0
+0 1 7 2
 1
 end_operator
 begin_operator
 zoom plane5 city7 city2 fl3 fl2 fl1
 0
 2
-0 1 7 2
 0 0 3 1
+0 1 7 2
 1
 end_operator
 begin_operator
 zoom plane5 city7 city2 fl4 fl3 fl2
 0
 2
-0 1 7 2
 0 0 4 2
+0 1 7 2
 1
 end_operator
 begin_operator
 zoom plane5 city7 city2 fl5 fl4 fl3
 0
 2
-0 1 7 2
 0 0 5 3
+0 1 7 2
 1
 end_operator
 begin_operator
 zoom plane5 city7 city2 fl6 fl5 fl4
 0
 2
-0 1 7 2
 0 0 6 4
+0 1 7 2
 1
 end_operator
 begin_operator
 zoom plane5 city7 city3 fl2 fl1 fl0
 0
 2
-0 1 7 3
 0 0 2 0
+0 1 7 3
 1
 end_operator
 begin_operator
 zoom plane5 city7 city3 fl3 fl2 fl1
 0
 2
-0 1 7 3
 0 0 3 1
+0 1 7 3
 1
 end_operator
 begin_operator
 zoom plane5 city7 city3 fl4 fl3 fl2
 0
 2
-0 1 7 3
 0 0 4 2
+0 1 7 3
 1
 end_operator
 begin_operator
 zoom plane5 city7 city3 fl5 fl4 fl3
 0
 2
-0 1 7 3
 0 0 5 3
+0 1 7 3
 1
 end_operator
 begin_operator
 zoom plane5 city7 city3 fl6 fl5 fl4
 0
 2
-0 1 7 3
 0 0 6 4
+0 1 7 3
 1
 end_operator
 begin_operator
 zoom plane5 city7 city4 fl2 fl1 fl0
 0
 2
-0 1 7 4
 0 0 2 0
+0 1 7 4
 1
 end_operator
 begin_operator
 zoom plane5 city7 city4 fl3 fl2 fl1
 0
 2
-0 1 7 4
 0 0 3 1
+0 1 7 4
 1
 end_operator
 begin_operator
 zoom plane5 city7 city4 fl4 fl3 fl2
 0
 2
-0 1 7 4
 0 0 4 2
+0 1 7 4
 1
 end_operator
 begin_operator
 zoom plane5 city7 city4 fl5 fl4 fl3
 0
 2
-0 1 7 4
 0 0 5 3
+0 1 7 4
 1
 end_operator
 begin_operator
 zoom plane5 city7 city4 fl6 fl5 fl4
 0
 2
-0 1 7 4
 0 0 6 4
+0 1 7 4
 1
 end_operator
 begin_operator
 zoom plane5 city7 city5 fl2 fl1 fl0
 0
 2
-0 1 7 5
 0 0 2 0
+0 1 7 5
 1
 end_operator
 begin_operator
 zoom plane5 city7 city5 fl3 fl2 fl1
 0
 2
-0 1 7 5
 0 0 3 1
+0 1 7 5
 1
 end_operator
 begin_operator
 zoom plane5 city7 city5 fl4 fl3 fl2
 0
 2
-0 1 7 5
 0 0 4 2
+0 1 7 5
 1
 end_operator
 begin_operator
 zoom plane5 city7 city5 fl5 fl4 fl3
 0
 2
-0 1 7 5
 0 0 5 3
+0 1 7 5
 1
 end_operator
 begin_operator
 zoom plane5 city7 city5 fl6 fl5 fl4
 0
 2
-0 1 7 5
 0 0 6 4
+0 1 7 5
 1
 end_operator
 begin_operator
 zoom plane5 city7 city6 fl2 fl1 fl0
 0
 2
-0 1 7 6
 0 0 2 0
+0 1 7 6
 1
 end_operator
 begin_operator
 zoom plane5 city7 city6 fl3 fl2 fl1
 0
 2
-0 1 7 6
 0 0 3 1
+0 1 7 6
 1
 end_operator
 begin_operator
 zoom plane5 city7 city6 fl4 fl3 fl2
 0
 2
-0 1 7 6
 0 0 4 2
+0 1 7 6
 1
 end_operator
 begin_operator
 zoom plane5 city7 city6 fl5 fl4 fl3
 0
 2
-0 1 7 6
 0 0 5 3
+0 1 7 6
 1
 end_operator
 begin_operator
 zoom plane5 city7 city6 fl6 fl5 fl4
 0
 2
-0 1 7 6
 0 0 6 4
+0 1 7 6
 1
 end_operator
 begin_operator
@@ -53903,400 +53903,400 @@ begin_operator
 zoom plane5 city7 city8 fl2 fl1 fl0
 0
 2
-0 1 7 8
 0 0 2 0
+0 1 7 8
 1
 end_operator
 begin_operator
 zoom plane5 city7 city8 fl3 fl2 fl1
 0
 2
-0 1 7 8
 0 0 3 1
+0 1 7 8
 1
 end_operator
 begin_operator
 zoom plane5 city7 city8 fl4 fl3 fl2
 0
 2
-0 1 7 8
 0 0 4 2
+0 1 7 8
 1
 end_operator
 begin_operator
 zoom plane5 city7 city8 fl5 fl4 fl3
 0
 2
-0 1 7 8
 0 0 5 3
+0 1 7 8
 1
 end_operator
 begin_operator
 zoom plane5 city7 city8 fl6 fl5 fl4
 0
 2
-0 1 7 8
 0 0 6 4
+0 1 7 8
 1
 end_operator
 begin_operator
 zoom plane5 city7 city9 fl2 fl1 fl0
 0
 2
-0 1 7 9
 0 0 2 0
+0 1 7 9
 1
 end_operator
 begin_operator
 zoom plane5 city7 city9 fl3 fl2 fl1
 0
 2
-0 1 7 9
 0 0 3 1
+0 1 7 9
 1
 end_operator
 begin_operator
 zoom plane5 city7 city9 fl4 fl3 fl2
 0
 2
-0 1 7 9
 0 0 4 2
+0 1 7 9
 1
 end_operator
 begin_operator
 zoom plane5 city7 city9 fl5 fl4 fl3
 0
 2
-0 1 7 9
 0 0 5 3
+0 1 7 9
 1
 end_operator
 begin_operator
 zoom plane5 city7 city9 fl6 fl5 fl4
 0
 2
-0 1 7 9
 0 0 6 4
+0 1 7 9
 1
 end_operator
 begin_operator
 zoom plane5 city8 city0 fl2 fl1 fl0
 0
 2
-0 1 8 0
 0 0 2 0
+0 1 8 0
 1
 end_operator
 begin_operator
 zoom plane5 city8 city0 fl3 fl2 fl1
 0
 2
-0 1 8 0
 0 0 3 1
+0 1 8 0
 1
 end_operator
 begin_operator
 zoom plane5 city8 city0 fl4 fl3 fl2
 0
 2
-0 1 8 0
 0 0 4 2
+0 1 8 0
 1
 end_operator
 begin_operator
 zoom plane5 city8 city0 fl5 fl4 fl3
 0
 2
-0 1 8 0
 0 0 5 3
+0 1 8 0
 1
 end_operator
 begin_operator
 zoom plane5 city8 city0 fl6 fl5 fl4
 0
 2
-0 1 8 0
 0 0 6 4
+0 1 8 0
 1
 end_operator
 begin_operator
 zoom plane5 city8 city1 fl2 fl1 fl0
 0
 2
-0 1 8 1
 0 0 2 0
+0 1 8 1
 1
 end_operator
 begin_operator
 zoom plane5 city8 city1 fl3 fl2 fl1
 0
 2
-0 1 8 1
 0 0 3 1
+0 1 8 1
 1
 end_operator
 begin_operator
 zoom plane5 city8 city1 fl4 fl3 fl2
 0
 2
-0 1 8 1
 0 0 4 2
+0 1 8 1
 1
 end_operator
 begin_operator
 zoom plane5 city8 city1 fl5 fl4 fl3
 0
 2
-0 1 8 1
 0 0 5 3
+0 1 8 1
 1
 end_operator
 begin_operator
 zoom plane5 city8 city1 fl6 fl5 fl4
 0
 2
-0 1 8 1
 0 0 6 4
+0 1 8 1
 1
 end_operator
 begin_operator
 zoom plane5 city8 city2 fl2 fl1 fl0
 0
 2
-0 1 8 2
 0 0 2 0
+0 1 8 2
 1
 end_operator
 begin_operator
 zoom plane5 city8 city2 fl3 fl2 fl1
 0
 2
-0 1 8 2
 0 0 3 1
+0 1 8 2
 1
 end_operator
 begin_operator
 zoom plane5 city8 city2 fl4 fl3 fl2
 0
 2
-0 1 8 2
 0 0 4 2
+0 1 8 2
 1
 end_operator
 begin_operator
 zoom plane5 city8 city2 fl5 fl4 fl3
 0
 2
-0 1 8 2
 0 0 5 3
+0 1 8 2
 1
 end_operator
 begin_operator
 zoom plane5 city8 city2 fl6 fl5 fl4
 0
 2
-0 1 8 2
 0 0 6 4
+0 1 8 2
 1
 end_operator
 begin_operator
 zoom plane5 city8 city3 fl2 fl1 fl0
 0
 2
-0 1 8 3
 0 0 2 0
+0 1 8 3
 1
 end_operator
 begin_operator
 zoom plane5 city8 city3 fl3 fl2 fl1
 0
 2
-0 1 8 3
 0 0 3 1
+0 1 8 3
 1
 end_operator
 begin_operator
 zoom plane5 city8 city3 fl4 fl3 fl2
 0
 2
-0 1 8 3
 0 0 4 2
+0 1 8 3
 1
 end_operator
 begin_operator
 zoom plane5 city8 city3 fl5 fl4 fl3
 0
 2
-0 1 8 3
 0 0 5 3
+0 1 8 3
 1
 end_operator
 begin_operator
 zoom plane5 city8 city3 fl6 fl5 fl4
 0
 2
-0 1 8 3
 0 0 6 4
+0 1 8 3
 1
 end_operator
 begin_operator
 zoom plane5 city8 city4 fl2 fl1 fl0
 0
 2
-0 1 8 4
 0 0 2 0
+0 1 8 4
 1
 end_operator
 begin_operator
 zoom plane5 city8 city4 fl3 fl2 fl1
 0
 2
-0 1 8 4
 0 0 3 1
+0 1 8 4
 1
 end_operator
 begin_operator
 zoom plane5 city8 city4 fl4 fl3 fl2
 0
 2
-0 1 8 4
 0 0 4 2
+0 1 8 4
 1
 end_operator
 begin_operator
 zoom plane5 city8 city4 fl5 fl4 fl3
 0
 2
-0 1 8 4
 0 0 5 3
+0 1 8 4
 1
 end_operator
 begin_operator
 zoom plane5 city8 city4 fl6 fl5 fl4
 0
 2
-0 1 8 4
 0 0 6 4
+0 1 8 4
 1
 end_operator
 begin_operator
 zoom plane5 city8 city5 fl2 fl1 fl0
 0
 2
-0 1 8 5
 0 0 2 0
+0 1 8 5
 1
 end_operator
 begin_operator
 zoom plane5 city8 city5 fl3 fl2 fl1
 0
 2
-0 1 8 5
 0 0 3 1
+0 1 8 5
 1
 end_operator
 begin_operator
 zoom plane5 city8 city5 fl4 fl3 fl2
 0
 2
-0 1 8 5
 0 0 4 2
+0 1 8 5
 1
 end_operator
 begin_operator
 zoom plane5 city8 city5 fl5 fl4 fl3
 0
 2
-0 1 8 5
 0 0 5 3
+0 1 8 5
 1
 end_operator
 begin_operator
 zoom plane5 city8 city5 fl6 fl5 fl4
 0
 2
-0 1 8 5
 0 0 6 4
+0 1 8 5
 1
 end_operator
 begin_operator
 zoom plane5 city8 city6 fl2 fl1 fl0
 0
 2
-0 1 8 6
 0 0 2 0
+0 1 8 6
 1
 end_operator
 begin_operator
 zoom plane5 city8 city6 fl3 fl2 fl1
 0
 2
-0 1 8 6
 0 0 3 1
+0 1 8 6
 1
 end_operator
 begin_operator
 zoom plane5 city8 city6 fl4 fl3 fl2
 0
 2
-0 1 8 6
 0 0 4 2
+0 1 8 6
 1
 end_operator
 begin_operator
 zoom plane5 city8 city6 fl5 fl4 fl3
 0
 2
-0 1 8 6
 0 0 5 3
+0 1 8 6
 1
 end_operator
 begin_operator
 zoom plane5 city8 city6 fl6 fl5 fl4
 0
 2
-0 1 8 6
 0 0 6 4
+0 1 8 6
 1
 end_operator
 begin_operator
 zoom plane5 city8 city7 fl2 fl1 fl0
 0
 2
-0 1 8 7
 0 0 2 0
+0 1 8 7
 1
 end_operator
 begin_operator
 zoom plane5 city8 city7 fl3 fl2 fl1
 0
 2
-0 1 8 7
 0 0 3 1
+0 1 8 7
 1
 end_operator
 begin_operator
 zoom plane5 city8 city7 fl4 fl3 fl2
 0
 2
-0 1 8 7
 0 0 4 2
+0 1 8 7
 1
 end_operator
 begin_operator
 zoom plane5 city8 city7 fl5 fl4 fl3
 0
 2
-0 1 8 7
 0 0 5 3
+0 1 8 7
 1
 end_operator
 begin_operator
 zoom plane5 city8 city7 fl6 fl5 fl4
 0
 2
-0 1 8 7
 0 0 6 4
+0 1 8 7
 1
 end_operator
 begin_operator
@@ -54343,400 +54343,400 @@ begin_operator
 zoom plane5 city8 city9 fl2 fl1 fl0
 0
 2
-0 1 8 9
 0 0 2 0
+0 1 8 9
 1
 end_operator
 begin_operator
 zoom plane5 city8 city9 fl3 fl2 fl1
 0
 2
-0 1 8 9
 0 0 3 1
+0 1 8 9
 1
 end_operator
 begin_operator
 zoom plane5 city8 city9 fl4 fl3 fl2
 0
 2
-0 1 8 9
 0 0 4 2
+0 1 8 9
 1
 end_operator
 begin_operator
 zoom plane5 city8 city9 fl5 fl4 fl3
 0
 2
-0 1 8 9
 0 0 5 3
+0 1 8 9
 1
 end_operator
 begin_operator
 zoom plane5 city8 city9 fl6 fl5 fl4
 0
 2
-0 1 8 9
 0 0 6 4
+0 1 8 9
 1
 end_operator
 begin_operator
 zoom plane5 city9 city0 fl2 fl1 fl0
 0
 2
-0 1 9 0
 0 0 2 0
+0 1 9 0
 1
 end_operator
 begin_operator
 zoom plane5 city9 city0 fl3 fl2 fl1
 0
 2
-0 1 9 0
 0 0 3 1
+0 1 9 0
 1
 end_operator
 begin_operator
 zoom plane5 city9 city0 fl4 fl3 fl2
 0
 2
-0 1 9 0
 0 0 4 2
+0 1 9 0
 1
 end_operator
 begin_operator
 zoom plane5 city9 city0 fl5 fl4 fl3
 0
 2
-0 1 9 0
 0 0 5 3
+0 1 9 0
 1
 end_operator
 begin_operator
 zoom plane5 city9 city0 fl6 fl5 fl4
 0
 2
-0 1 9 0
 0 0 6 4
+0 1 9 0
 1
 end_operator
 begin_operator
 zoom plane5 city9 city1 fl2 fl1 fl0
 0
 2
-0 1 9 1
 0 0 2 0
+0 1 9 1
 1
 end_operator
 begin_operator
 zoom plane5 city9 city1 fl3 fl2 fl1
 0
 2
-0 1 9 1
 0 0 3 1
+0 1 9 1
 1
 end_operator
 begin_operator
 zoom plane5 city9 city1 fl4 fl3 fl2
 0
 2
-0 1 9 1
 0 0 4 2
+0 1 9 1
 1
 end_operator
 begin_operator
 zoom plane5 city9 city1 fl5 fl4 fl3
 0
 2
-0 1 9 1
 0 0 5 3
+0 1 9 1
 1
 end_operator
 begin_operator
 zoom plane5 city9 city1 fl6 fl5 fl4
 0
 2
-0 1 9 1
 0 0 6 4
+0 1 9 1
 1
 end_operator
 begin_operator
 zoom plane5 city9 city2 fl2 fl1 fl0
 0
 2
-0 1 9 2
 0 0 2 0
+0 1 9 2
 1
 end_operator
 begin_operator
 zoom plane5 city9 city2 fl3 fl2 fl1
 0
 2
-0 1 9 2
 0 0 3 1
+0 1 9 2
 1
 end_operator
 begin_operator
 zoom plane5 city9 city2 fl4 fl3 fl2
 0
 2
-0 1 9 2
 0 0 4 2
+0 1 9 2
 1
 end_operator
 begin_operator
 zoom plane5 city9 city2 fl5 fl4 fl3
 0
 2
-0 1 9 2
 0 0 5 3
+0 1 9 2
 1
 end_operator
 begin_operator
 zoom plane5 city9 city2 fl6 fl5 fl4
 0
 2
-0 1 9 2
 0 0 6 4
+0 1 9 2
 1
 end_operator
 begin_operator
 zoom plane5 city9 city3 fl2 fl1 fl0
 0
 2
-0 1 9 3
 0 0 2 0
+0 1 9 3
 1
 end_operator
 begin_operator
 zoom plane5 city9 city3 fl3 fl2 fl1
 0
 2
-0 1 9 3
 0 0 3 1
+0 1 9 3
 1
 end_operator
 begin_operator
 zoom plane5 city9 city3 fl4 fl3 fl2
 0
 2
-0 1 9 3
 0 0 4 2
+0 1 9 3
 1
 end_operator
 begin_operator
 zoom plane5 city9 city3 fl5 fl4 fl3
 0
 2
-0 1 9 3
 0 0 5 3
+0 1 9 3
 1
 end_operator
 begin_operator
 zoom plane5 city9 city3 fl6 fl5 fl4
 0
 2
-0 1 9 3
 0 0 6 4
+0 1 9 3
 1
 end_operator
 begin_operator
 zoom plane5 city9 city4 fl2 fl1 fl0
 0
 2
-0 1 9 4
 0 0 2 0
+0 1 9 4
 1
 end_operator
 begin_operator
 zoom plane5 city9 city4 fl3 fl2 fl1
 0
 2
-0 1 9 4
 0 0 3 1
+0 1 9 4
 1
 end_operator
 begin_operator
 zoom plane5 city9 city4 fl4 fl3 fl2
 0
 2
-0 1 9 4
 0 0 4 2
+0 1 9 4
 1
 end_operator
 begin_operator
 zoom plane5 city9 city4 fl5 fl4 fl3
 0
 2
-0 1 9 4
 0 0 5 3
+0 1 9 4
 1
 end_operator
 begin_operator
 zoom plane5 city9 city4 fl6 fl5 fl4
 0
 2
-0 1 9 4
 0 0 6 4
+0 1 9 4
 1
 end_operator
 begin_operator
 zoom plane5 city9 city5 fl2 fl1 fl0
 0
 2
-0 1 9 5
 0 0 2 0
+0 1 9 5
 1
 end_operator
 begin_operator
 zoom plane5 city9 city5 fl3 fl2 fl1
 0
 2
-0 1 9 5
 0 0 3 1
+0 1 9 5
 1
 end_operator
 begin_operator
 zoom plane5 city9 city5 fl4 fl3 fl2
 0
 2
-0 1 9 5
 0 0 4 2
+0 1 9 5
 1
 end_operator
 begin_operator
 zoom plane5 city9 city5 fl5 fl4 fl3
 0
 2
-0 1 9 5
 0 0 5 3
+0 1 9 5
 1
 end_operator
 begin_operator
 zoom plane5 city9 city5 fl6 fl5 fl4
 0
 2
-0 1 9 5
 0 0 6 4
+0 1 9 5
 1
 end_operator
 begin_operator
 zoom plane5 city9 city6 fl2 fl1 fl0
 0
 2
-0 1 9 6
 0 0 2 0
+0 1 9 6
 1
 end_operator
 begin_operator
 zoom plane5 city9 city6 fl3 fl2 fl1
 0
 2
-0 1 9 6
 0 0 3 1
+0 1 9 6
 1
 end_operator
 begin_operator
 zoom plane5 city9 city6 fl4 fl3 fl2
 0
 2
-0 1 9 6
 0 0 4 2
+0 1 9 6
 1
 end_operator
 begin_operator
 zoom plane5 city9 city6 fl5 fl4 fl3
 0
 2
-0 1 9 6
 0 0 5 3
+0 1 9 6
 1
 end_operator
 begin_operator
 zoom plane5 city9 city6 fl6 fl5 fl4
 0
 2
-0 1 9 6
 0 0 6 4
+0 1 9 6
 1
 end_operator
 begin_operator
 zoom plane5 city9 city7 fl2 fl1 fl0
 0
 2
-0 1 9 7
 0 0 2 0
+0 1 9 7
 1
 end_operator
 begin_operator
 zoom plane5 city9 city7 fl3 fl2 fl1
 0
 2
-0 1 9 7
 0 0 3 1
+0 1 9 7
 1
 end_operator
 begin_operator
 zoom plane5 city9 city7 fl4 fl3 fl2
 0
 2
-0 1 9 7
 0 0 4 2
+0 1 9 7
 1
 end_operator
 begin_operator
 zoom plane5 city9 city7 fl5 fl4 fl3
 0
 2
-0 1 9 7
 0 0 5 3
+0 1 9 7
 1
 end_operator
 begin_operator
 zoom plane5 city9 city7 fl6 fl5 fl4
 0
 2
-0 1 9 7
 0 0 6 4
+0 1 9 7
 1
 end_operator
 begin_operator
 zoom plane5 city9 city8 fl2 fl1 fl0
 0
 2
-0 1 9 8
 0 0 2 0
+0 1 9 8
 1
 end_operator
 begin_operator
 zoom plane5 city9 city8 fl3 fl2 fl1
 0
 2
-0 1 9 8
 0 0 3 1
+0 1 9 8
 1
 end_operator
 begin_operator
 zoom plane5 city9 city8 fl4 fl3 fl2
 0
 2
-0 1 9 8
 0 0 4 2
+0 1 9 8
 1
 end_operator
 begin_operator
 zoom plane5 city9 city8 fl5 fl4 fl3
 0
 2
-0 1 9 8
 0 0 5 3
+0 1 9 8
 1
 end_operator
 begin_operator
 zoom plane5 city9 city8 fl6 fl5 fl4
 0
 2
-0 1 9 8
 0 0 6 4
+0 1 9 8
 1
 end_operator
 begin_operator

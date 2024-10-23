@@ -637,8 +637,8 @@ begin_operator
 associate c-myc ap2 c-myc-ap2
 0
 3
-0 36 0 1
 0 34 0 1
+0 36 0 1
 0 76 -1 0
 1
 end_operator
@@ -647,44 +647,44 @@ associate cdk1p1p2 cks1 cdk1p1p2-cks1
 0
 3
 0 25 0 1
-0 27 -1 0
 0 26 0 1
+0 27 -1 0
 1
 end_operator
 begin_operator
 associate cdk46p1 cycd cdk46p1-cycd
 0
 3
+0 59 0 1
 0 62 0 1
 0 65 -1 0
-0 59 0 1
 1
 end_operator
 begin_operator
 associate cdk46p1 cycdp1 cdk46p1-cycdp1
 0
 3
+0 60 0 1
 0 62 0 1
 0 64 -1 0
-0 60 0 1
 1
 end_operator
 begin_operator
 associate hdac1 p107-e2f4-dp12p1 hdac1-p107-e2f4-dp12p1
 0
 3
+0 70 0 1
 0 72 0 1
 0 74 -1 0
-0 70 0 1
 1
 end_operator
 begin_operator
 associate hdac1 p130-e2f4-dp12p1 hdac1-p130-e2f4-dp12p1
 0
 3
+0 71 0 1
 0 72 0 1
 0 73 -1 0
-0 71 0 1
 1
 end_operator
 begin_operator
@@ -700,8 +700,8 @@ begin_operator
 associate p130 e2f4-dp12p1 p130-e2f4-dp12p1
 0
 3
-0 38 0 1
 0 31 0 1
+0 38 0 1
 0 71 -1 0
 1
 end_operator
@@ -709,8 +709,8 @@ begin_operator
 associate p16 cdk46p1 p16-cdk46p1
 0
 3
-0 62 0 1
 0 61 0 1
+0 62 0 1
 0 63 -1 0
 1
 end_operator
@@ -718,8 +718,8 @@ begin_operator
 associate prb ap2 prb-ap2
 0
 3
-0 36 0 1
 0 35 0 1
+0 36 0 1
 0 48 -1 0
 1
 end_operator
@@ -727,8 +727,8 @@ begin_operator
 associate prb e2f4-dp12p1 prb-e2f4-dp12p1
 0
 3
-0 38 0 1
 0 35 0 1
+0 38 0 1
 0 51 -1 0
 1
 end_operator
@@ -745,8 +745,8 @@ begin_operator
 associate prbp1 e2f4-dp12p1 prbp1-e2f4-dp12p1
 0
 3
-0 38 0 1
 0 37 0 1
+0 38 0 1
 0 49 -1 0
 1
 end_operator
@@ -754,8 +754,8 @@ begin_operator
 associate prbp1p2 ap2 prbp1p2-ap2
 0
 3
-0 36 0 1
 0 33 0 1
+0 36 0 1
 0 47 -1 0
 1
 end_operator
@@ -763,8 +763,8 @@ begin_operator
 associate prbp2 ap2 prbp2-ap2
 0
 3
-0 36 0 1
 0 32 0 1
+0 36 0 1
 0 46 -1 0
 1
 end_operator
@@ -781,9 +781,9 @@ begin_operator
 associate sp1 gp sp1-gp
 0
 3
-0 45 0 1
-0 42 0 1
 0 39 -1 0
+0 42 0 1
+0 45 0 1
 1
 end_operator
 begin_operator
@@ -808,8 +808,8 @@ begin_operator
 associate sp1-p107 gp sp1-p107-gp
 0
 3
-0 45 0 1
 0 43 0 1
+0 45 0 1
 0 52 -1 0
 1
 end_operator
@@ -817,8 +817,8 @@ begin_operator
 associate sp1-p107p1 gp sp1-p107p1-gp
 0
 3
-0 45 0 1
 0 44 0 1
+0 45 0 1
 0 56 -1 0
 1
 end_operator
@@ -845,8 +845,8 @@ associate-with-catalyze cdk2p2-cycb wee1 cdk2p1p2-cycb
 1
 20 0
 2
-0 24 -1 0
 0 23 0 1
+0 24 -1 0
 1
 end_operator
 begin_operator
@@ -863,8 +863,8 @@ associate-with-catalyze prbp2 cdk46p3-cycd prbp1p2
 1
 22 0
 2
-0 33 -1 0
 0 32 0 1
+0 33 -1 0
 1
 end_operator
 begin_operator
@@ -1342,7 +1342,7 @@ end_operator
 begin_operator
 dummy-action-2 
 1
-66 0
+56 0
 1
 0 68 -1 0
 1
@@ -1350,7 +1350,7 @@ end_operator
 begin_operator
 dummy-action-2 
 1
-56 0
+66 0
 1
 0 68 -1 0
 1

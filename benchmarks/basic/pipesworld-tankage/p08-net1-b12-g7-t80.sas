@@ -507,11 +507,11 @@ end_variable
 12
 begin_mutex_group
 5
-32 0
-33 0
 30 0
 30 1
 30 2
+32 0
+33 0
 end_mutex_group
 begin_mutex_group
 5
@@ -523,11 +523,11 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 5
-32 2
-33 2
 26 0
 26 1
 26 2
+32 2
+33 2
 end_mutex_group
 begin_mutex_group
 5
@@ -539,11 +539,11 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 5
-32 4
-33 4
 25 0
 25 1
 25 2
+32 4
+33 4
 end_mutex_group
 begin_mutex_group
 5
@@ -571,11 +571,11 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 5
-32 8
-33 8
 31 0
 31 1
 31 2
+32 8
+33 8
 end_mutex_group
 begin_mutex_group
 5
@@ -587,11 +587,11 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 5
-32 10
-33 10
 23 0
 23 1
 23 2
+32 10
+33 10
 end_mutex_group
 begin_mutex_group
 5
@@ -683,34736 +683,34736 @@ begin_operator
 pop-unitarypipe s12 b0 a1 a2 b1 lco oc1b ta1-1-oc1b ta2-1-lco
 0
 7
-0 32 1 0
-0 64 -1 0
-0 63 -1 1
 0 8 0 1
 0 14 1 0
 0 30 1 3
+0 32 1 0
 0 34 -1 0
+0 63 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b1 lco oc1b ta1-1-oc1b ta2-2-lco
 0
 7
-0 32 1 0
-0 64 -1 0
-0 63 -1 1
 0 8 0 1
 0 15 1 0
 0 30 1 3
+0 32 1 0
 0 34 -1 0
+0 63 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b1 lco oc1b ta1-1-oc1b ta2-3-lco
 0
 7
-0 32 1 0
-0 64 -1 0
-0 63 -1 1
 0 8 0 1
 0 16 1 0
 0 30 1 3
+0 32 1 0
 0 34 -1 0
+0 63 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b1 lco oc1b ta1-2-oc1b ta2-1-lco
 0
 7
-0 32 1 0
-0 64 -1 0
-0 63 -1 1
 0 10 0 1
 0 14 1 0
 0 30 1 3
+0 32 1 0
 0 34 -1 0
+0 63 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b1 lco oc1b ta1-2-oc1b ta2-2-lco
 0
 7
-0 32 1 0
-0 64 -1 0
-0 63 -1 1
 0 10 0 1
 0 15 1 0
 0 30 1 3
+0 32 1 0
 0 34 -1 0
+0 63 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b1 lco oc1b ta1-2-oc1b ta2-3-lco
 0
 7
-0 32 1 0
-0 64 -1 0
-0 63 -1 1
 0 10 0 1
 0 16 1 0
 0 30 1 3
+0 32 1 0
 0 34 -1 0
+0 63 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b10 lco gasoleo ta1-1-gasoleo ta2-1-lco
 0
 7
-0 32 2 0
-0 64 -1 0
-0 62 -1 1
-0 22 0 1
 0 14 1 0
-0 30 1 3
+0 22 0 1
 0 26 -1 0
+0 30 1 3
+0 32 2 0
+0 62 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b10 lco gasoleo ta1-1-gasoleo ta2-2-lco
 0
 7
-0 32 2 0
-0 64 -1 0
-0 62 -1 1
-0 22 0 1
 0 15 1 0
-0 30 1 3
+0 22 0 1
 0 26 -1 0
+0 30 1 3
+0 32 2 0
+0 62 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b10 lco gasoleo ta1-1-gasoleo ta2-3-lco
 0
 7
-0 32 2 0
-0 64 -1 0
-0 62 -1 1
-0 22 0 1
 0 16 1 0
-0 30 1 3
+0 22 0 1
 0 26 -1 0
+0 30 1 3
+0 32 2 0
+0 62 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b10 lco gasoleo ta1-2-gasoleo ta2-1-lco
 0
 7
-0 32 2 0
-0 64 -1 0
-0 62 -1 1
-0 24 0 1
 0 14 1 0
-0 30 1 3
+0 24 0 1
 0 26 -1 0
+0 30 1 3
+0 32 2 0
+0 62 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b10 lco gasoleo ta1-2-gasoleo ta2-2-lco
 0
 7
-0 32 2 0
-0 64 -1 0
-0 62 -1 1
-0 24 0 1
 0 15 1 0
-0 30 1 3
+0 24 0 1
 0 26 -1 0
+0 30 1 3
+0 32 2 0
+0 62 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b10 lco gasoleo ta1-2-gasoleo ta2-3-lco
 0
 7
-0 32 2 0
-0 64 -1 0
-0 62 -1 1
-0 24 0 1
 0 16 1 0
-0 30 1 3
+0 24 0 1
 0 26 -1 0
+0 30 1 3
+0 32 2 0
+0 62 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b11 lco gasoleo ta1-1-gasoleo ta2-1-lco
 0
 7
-0 32 3 0
-0 64 -1 0
-0 61 -1 1
-0 22 0 1
 0 14 1 0
+0 22 0 1
 0 30 1 3
+0 32 3 0
 0 37 -1 0
+0 61 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b11 lco gasoleo ta1-1-gasoleo ta2-2-lco
 0
 7
-0 32 3 0
-0 64 -1 0
-0 61 -1 1
-0 22 0 1
 0 15 1 0
+0 22 0 1
 0 30 1 3
+0 32 3 0
 0 37 -1 0
+0 61 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b11 lco gasoleo ta1-1-gasoleo ta2-3-lco
 0
 7
-0 32 3 0
-0 64 -1 0
-0 61 -1 1
-0 22 0 1
 0 16 1 0
+0 22 0 1
 0 30 1 3
+0 32 3 0
 0 37 -1 0
+0 61 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b11 lco gasoleo ta1-2-gasoleo ta2-1-lco
 0
 7
-0 32 3 0
-0 64 -1 0
-0 61 -1 1
-0 24 0 1
 0 14 1 0
+0 24 0 1
 0 30 1 3
+0 32 3 0
 0 37 -1 0
+0 61 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b11 lco gasoleo ta1-2-gasoleo ta2-2-lco
 0
 7
-0 32 3 0
-0 64 -1 0
-0 61 -1 1
-0 24 0 1
 0 15 1 0
+0 24 0 1
 0 30 1 3
+0 32 3 0
 0 37 -1 0
+0 61 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b11 lco gasoleo ta1-2-gasoleo ta2-3-lco
 0
 7
-0 32 3 0
-0 64 -1 0
-0 61 -1 1
-0 24 0 1
 0 16 1 0
+0 24 0 1
 0 30 1 3
+0 32 3 0
 0 37 -1 0
+0 61 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b2 lco rat-a ta1-1-rat-a ta2-1-lco
 0
 7
-0 32 4 0
-0 64 -1 0
-0 60 -1 1
-0 19 0 1
 0 14 1 0
-0 30 1 3
+0 19 0 1
 0 25 -1 0
+0 30 1 3
+0 32 4 0
+0 60 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b2 lco rat-a ta1-1-rat-a ta2-2-lco
 0
 7
-0 32 4 0
-0 64 -1 0
-0 60 -1 1
-0 19 0 1
 0 15 1 0
-0 30 1 3
+0 19 0 1
 0 25 -1 0
+0 30 1 3
+0 32 4 0
+0 60 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b2 lco rat-a ta1-1-rat-a ta2-3-lco
 0
 7
-0 32 4 0
-0 64 -1 0
-0 60 -1 1
-0 19 0 1
 0 16 1 0
-0 30 1 3
+0 19 0 1
 0 25 -1 0
+0 30 1 3
+0 32 4 0
+0 60 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b2 lco rat-a ta1-2-rat-a ta2-1-lco
 0
 7
-0 32 4 0
-0 64 -1 0
-0 60 -1 1
-0 21 0 1
 0 14 1 0
-0 30 1 3
+0 21 0 1
 0 25 -1 0
+0 30 1 3
+0 32 4 0
+0 60 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b2 lco rat-a ta1-2-rat-a ta2-2-lco
 0
 7
-0 32 4 0
-0 64 -1 0
-0 60 -1 1
-0 21 0 1
 0 15 1 0
-0 30 1 3
+0 21 0 1
 0 25 -1 0
+0 30 1 3
+0 32 4 0
+0 60 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b2 lco rat-a ta1-2-rat-a ta2-3-lco
 0
 7
-0 32 4 0
-0 64 -1 0
-0 60 -1 1
-0 21 0 1
 0 16 1 0
-0 30 1 3
+0 21 0 1
 0 25 -1 0
+0 30 1 3
+0 32 4 0
+0 60 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b3 lco gasoleo ta1-1-gasoleo ta2-1-lco
 0
 7
-0 32 5 0
-0 64 -1 0
-0 59 -1 1
-0 22 0 1
 0 14 1 0
+0 22 0 1
 0 30 1 3
+0 32 5 0
 0 38 -1 0
+0 59 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b3 lco gasoleo ta1-1-gasoleo ta2-2-lco
 0
 7
-0 32 5 0
-0 64 -1 0
-0 59 -1 1
-0 22 0 1
 0 15 1 0
+0 22 0 1
 0 30 1 3
+0 32 5 0
 0 38 -1 0
+0 59 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b3 lco gasoleo ta1-1-gasoleo ta2-3-lco
 0
 7
-0 32 5 0
-0 64 -1 0
-0 59 -1 1
-0 22 0 1
 0 16 1 0
+0 22 0 1
 0 30 1 3
+0 32 5 0
 0 38 -1 0
+0 59 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b3 lco gasoleo ta1-2-gasoleo ta2-1-lco
 0
 7
-0 32 5 0
-0 64 -1 0
-0 59 -1 1
-0 24 0 1
 0 14 1 0
+0 24 0 1
 0 30 1 3
+0 32 5 0
 0 38 -1 0
+0 59 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b3 lco gasoleo ta1-2-gasoleo ta2-2-lco
 0
 7
-0 32 5 0
-0 64 -1 0
-0 59 -1 1
-0 24 0 1
 0 15 1 0
+0 24 0 1
 0 30 1 3
+0 32 5 0
 0 38 -1 0
+0 59 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b3 lco gasoleo ta1-2-gasoleo ta2-3-lco
 0
 7
-0 32 5 0
-0 64 -1 0
-0 59 -1 1
-0 24 0 1
 0 16 1 0
+0 24 0 1
 0 30 1 3
+0 32 5 0
 0 38 -1 0
+0 59 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b4 lco lco ta1-1-lco ta2-1-lco
 0
 7
-0 32 6 0
-0 64 -1 0
-0 58 -1 1
-0 27 0 1
 0 14 1 0
+0 27 0 1
 0 30 1 3
+0 32 6 0
 0 39 -1 0
+0 58 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b4 lco lco ta1-1-lco ta2-2-lco
 0
 7
-0 32 6 0
-0 64 -1 0
-0 58 -1 1
-0 27 0 1
 0 15 1 0
+0 27 0 1
 0 30 1 3
+0 32 6 0
 0 39 -1 0
+0 58 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b4 lco lco ta1-1-lco ta2-3-lco
 0
 7
-0 32 6 0
-0 64 -1 0
-0 58 -1 1
-0 27 0 1
 0 16 1 0
+0 27 0 1
 0 30 1 3
+0 32 6 0
 0 39 -1 0
+0 58 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b4 lco lco ta1-2-lco ta2-1-lco
 0
 7
-0 32 6 0
-0 64 -1 0
-0 58 -1 1
-0 28 0 1
 0 14 1 0
+0 28 0 1
 0 30 1 3
+0 32 6 0
 0 39 -1 0
+0 58 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b4 lco lco ta1-2-lco ta2-2-lco
 0
 7
-0 32 6 0
-0 64 -1 0
-0 58 -1 1
-0 28 0 1
 0 15 1 0
+0 28 0 1
 0 30 1 3
+0 32 6 0
 0 39 -1 0
+0 58 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b4 lco lco ta1-2-lco ta2-3-lco
 0
 7
-0 32 6 0
-0 64 -1 0
-0 58 -1 1
-0 28 0 1
 0 16 1 0
+0 28 0 1
 0 30 1 3
+0 32 6 0
 0 39 -1 0
+0 58 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b4 lco lco ta1-3-lco ta2-1-lco
 0
 7
-0 32 6 0
-0 64 -1 0
-0 58 -1 1
-0 29 0 1
 0 14 1 0
+0 29 0 1
 0 30 1 3
+0 32 6 0
 0 39 -1 0
+0 58 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b4 lco lco ta1-3-lco ta2-2-lco
 0
 7
-0 32 6 0
-0 64 -1 0
-0 58 -1 1
-0 29 0 1
 0 15 1 0
+0 29 0 1
 0 30 1 3
+0 32 6 0
 0 39 -1 0
+0 58 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b4 lco lco ta1-3-lco ta2-3-lco
 0
 7
-0 32 6 0
-0 64 -1 0
-0 58 -1 1
-0 29 0 1
 0 16 1 0
+0 29 0 1
 0 30 1 3
+0 32 6 0
 0 39 -1 0
+0 58 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b5 lco rat-a ta1-1-rat-a ta2-1-lco
 0
 7
-0 32 7 0
-0 64 -1 0
-0 57 -1 1
-0 19 0 1
 0 14 1 0
+0 19 0 1
 0 30 1 3
+0 32 7 0
 0 35 -1 0
+0 57 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b5 lco rat-a ta1-1-rat-a ta2-2-lco
 0
 7
-0 32 7 0
-0 64 -1 0
-0 57 -1 1
-0 19 0 1
 0 15 1 0
+0 19 0 1
 0 30 1 3
+0 32 7 0
 0 35 -1 0
+0 57 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b5 lco rat-a ta1-1-rat-a ta2-3-lco
 0
 7
-0 32 7 0
-0 64 -1 0
-0 57 -1 1
-0 19 0 1
 0 16 1 0
+0 19 0 1
 0 30 1 3
+0 32 7 0
 0 35 -1 0
+0 57 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b5 lco rat-a ta1-2-rat-a ta2-1-lco
 0
 7
-0 32 7 0
-0 64 -1 0
-0 57 -1 1
-0 21 0 1
 0 14 1 0
+0 21 0 1
 0 30 1 3
+0 32 7 0
 0 35 -1 0
+0 57 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b5 lco rat-a ta1-2-rat-a ta2-2-lco
 0
 7
-0 32 7 0
-0 64 -1 0
-0 57 -1 1
-0 21 0 1
 0 15 1 0
+0 21 0 1
 0 30 1 3
+0 32 7 0
 0 35 -1 0
+0 57 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b5 lco rat-a ta1-2-rat-a ta2-3-lco
 0
 7
-0 32 7 0
-0 64 -1 0
-0 57 -1 1
-0 21 0 1
 0 16 1 0
+0 21 0 1
 0 30 1 3
+0 32 7 0
 0 35 -1 0
+0 57 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b6 lco lco ta1-1-lco ta2-1-lco
 0
 7
-0 32 8 0
-0 64 -1 0
-0 56 -1 1
-0 27 0 1
 0 14 1 0
+0 27 0 1
 0 30 1 3
 0 31 -1 0
+0 32 8 0
+0 56 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b6 lco lco ta1-1-lco ta2-2-lco
 0
 7
-0 32 8 0
-0 64 -1 0
-0 56 -1 1
-0 27 0 1
 0 15 1 0
+0 27 0 1
 0 30 1 3
 0 31 -1 0
+0 32 8 0
+0 56 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b6 lco lco ta1-1-lco ta2-3-lco
 0
 7
-0 32 8 0
-0 64 -1 0
-0 56 -1 1
-0 27 0 1
 0 16 1 0
+0 27 0 1
 0 30 1 3
 0 31 -1 0
+0 32 8 0
+0 56 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b6 lco lco ta1-2-lco ta2-1-lco
 0
 7
-0 32 8 0
-0 64 -1 0
-0 56 -1 1
-0 28 0 1
 0 14 1 0
+0 28 0 1
 0 30 1 3
 0 31 -1 0
+0 32 8 0
+0 56 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b6 lco lco ta1-2-lco ta2-2-lco
 0
 7
-0 32 8 0
-0 64 -1 0
-0 56 -1 1
-0 28 0 1
 0 15 1 0
+0 28 0 1
 0 30 1 3
 0 31 -1 0
+0 32 8 0
+0 56 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b6 lco lco ta1-2-lco ta2-3-lco
 0
 7
-0 32 8 0
-0 64 -1 0
-0 56 -1 1
-0 28 0 1
 0 16 1 0
+0 28 0 1
 0 30 1 3
 0 31 -1 0
+0 32 8 0
+0 56 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b6 lco lco ta1-3-lco ta2-1-lco
 0
 7
-0 32 8 0
-0 64 -1 0
-0 56 -1 1
-0 29 0 1
 0 14 1 0
+0 29 0 1
 0 30 1 3
 0 31 -1 0
+0 32 8 0
+0 56 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b6 lco lco ta1-3-lco ta2-2-lco
 0
 7
-0 32 8 0
-0 64 -1 0
-0 56 -1 1
-0 29 0 1
 0 15 1 0
+0 29 0 1
 0 30 1 3
 0 31 -1 0
+0 32 8 0
+0 56 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b6 lco lco ta1-3-lco ta2-3-lco
 0
 7
-0 32 8 0
-0 64 -1 0
-0 56 -1 1
-0 29 0 1
 0 16 1 0
+0 29 0 1
 0 30 1 3
 0 31 -1 0
+0 32 8 0
+0 56 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b7 lco rat-a ta1-1-rat-a ta2-1-lco
 0
 7
-0 32 9 0
-0 64 -1 0
-0 55 -1 1
-0 19 0 1
 0 14 1 0
+0 19 0 1
 0 30 1 3
+0 32 9 0
 0 36 -1 0
+0 55 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b7 lco rat-a ta1-1-rat-a ta2-2-lco
 0
 7
-0 32 9 0
-0 64 -1 0
-0 55 -1 1
-0 19 0 1
 0 15 1 0
+0 19 0 1
 0 30 1 3
+0 32 9 0
 0 36 -1 0
+0 55 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b7 lco rat-a ta1-1-rat-a ta2-3-lco
 0
 7
-0 32 9 0
-0 64 -1 0
-0 55 -1 1
-0 19 0 1
 0 16 1 0
+0 19 0 1
 0 30 1 3
+0 32 9 0
 0 36 -1 0
+0 55 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b7 lco rat-a ta1-2-rat-a ta2-1-lco
 0
 7
-0 32 9 0
-0 64 -1 0
-0 55 -1 1
-0 21 0 1
 0 14 1 0
+0 21 0 1
 0 30 1 3
+0 32 9 0
 0 36 -1 0
+0 55 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b7 lco rat-a ta1-2-rat-a ta2-2-lco
 0
 7
-0 32 9 0
-0 64 -1 0
-0 55 -1 1
-0 21 0 1
 0 15 1 0
+0 21 0 1
 0 30 1 3
+0 32 9 0
 0 36 -1 0
+0 55 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b7 lco rat-a ta1-2-rat-a ta2-3-lco
 0
 7
-0 32 9 0
-0 64 -1 0
-0 55 -1 1
-0 21 0 1
 0 16 1 0
+0 21 0 1
 0 30 1 3
+0 32 9 0
 0 36 -1 0
+0 55 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b8 lco oc1b ta1-1-oc1b ta2-1-lco
 0
 7
-0 32 10 0
-0 64 -1 0
-0 54 -1 1
 0 8 0 1
 0 14 1 0
-0 30 1 3
 0 23 -1 0
+0 30 1 3
+0 32 10 0
+0 54 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b8 lco oc1b ta1-1-oc1b ta2-2-lco
 0
 7
-0 32 10 0
-0 64 -1 0
-0 54 -1 1
 0 8 0 1
 0 15 1 0
-0 30 1 3
 0 23 -1 0
+0 30 1 3
+0 32 10 0
+0 54 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b8 lco oc1b ta1-1-oc1b ta2-3-lco
 0
 7
-0 32 10 0
-0 64 -1 0
-0 54 -1 1
 0 8 0 1
 0 16 1 0
-0 30 1 3
 0 23 -1 0
+0 30 1 3
+0 32 10 0
+0 54 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b8 lco oc1b ta1-2-oc1b ta2-1-lco
 0
 7
-0 32 10 0
-0 64 -1 0
-0 54 -1 1
 0 10 0 1
 0 14 1 0
-0 30 1 3
 0 23 -1 0
+0 30 1 3
+0 32 10 0
+0 54 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b8 lco oc1b ta1-2-oc1b ta2-2-lco
 0
 7
-0 32 10 0
-0 64 -1 0
-0 54 -1 1
 0 10 0 1
 0 15 1 0
-0 30 1 3
 0 23 -1 0
+0 30 1 3
+0 32 10 0
+0 54 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b8 lco oc1b ta1-2-oc1b ta2-3-lco
 0
 7
-0 32 10 0
-0 64 -1 0
-0 54 -1 1
 0 10 0 1
 0 16 1 0
-0 30 1 3
 0 23 -1 0
+0 30 1 3
+0 32 10 0
+0 54 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b9 lco lco ta1-1-lco ta2-1-lco
 0
 7
-0 32 11 0
-0 64 -1 0
-0 53 -1 1
-0 27 0 1
 0 14 1 0
+0 27 0 1
 0 30 1 3
+0 32 11 0
 0 40 -1 0
+0 53 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b9 lco lco ta1-1-lco ta2-2-lco
 0
 7
-0 32 11 0
-0 64 -1 0
-0 53 -1 1
-0 27 0 1
 0 15 1 0
+0 27 0 1
 0 30 1 3
+0 32 11 0
 0 40 -1 0
+0 53 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b9 lco lco ta1-1-lco ta2-3-lco
 0
 7
-0 32 11 0
-0 64 -1 0
-0 53 -1 1
-0 27 0 1
 0 16 1 0
+0 27 0 1
 0 30 1 3
+0 32 11 0
 0 40 -1 0
+0 53 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b9 lco lco ta1-2-lco ta2-1-lco
 0
 7
-0 32 11 0
-0 64 -1 0
-0 53 -1 1
-0 28 0 1
 0 14 1 0
+0 28 0 1
 0 30 1 3
+0 32 11 0
 0 40 -1 0
+0 53 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b9 lco lco ta1-2-lco ta2-2-lco
 0
 7
-0 32 11 0
-0 64 -1 0
-0 53 -1 1
-0 28 0 1
 0 15 1 0
+0 28 0 1
 0 30 1 3
+0 32 11 0
 0 40 -1 0
+0 53 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b9 lco lco ta1-2-lco ta2-3-lco
 0
 7
-0 32 11 0
-0 64 -1 0
-0 53 -1 1
-0 28 0 1
 0 16 1 0
+0 28 0 1
 0 30 1 3
+0 32 11 0
 0 40 -1 0
+0 53 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b9 lco lco ta1-3-lco ta2-1-lco
 0
 7
-0 32 11 0
-0 64 -1 0
-0 53 -1 1
-0 29 0 1
 0 14 1 0
+0 29 0 1
 0 30 1 3
+0 32 11 0
 0 40 -1 0
+0 53 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b9 lco lco ta1-3-lco ta2-2-lco
 0
 7
-0 32 11 0
-0 64 -1 0
-0 53 -1 1
-0 29 0 1
 0 15 1 0
+0 29 0 1
 0 30 1 3
+0 32 11 0
 0 40 -1 0
+0 53 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b0 a1 a2 b9 lco lco ta1-3-lco ta2-3-lco
 0
 7
-0 32 11 0
-0 64 -1 0
-0 53 -1 1
-0 29 0 1
 0 16 1 0
+0 29 0 1
 0 30 1 3
+0 32 11 0
 0 40 -1 0
+0 53 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b0 oc1b lco ta1-1-lco ta2-1-oc1b
 0
 7
-0 32 0 1
-0 64 -1 1
-0 63 -1 0
-0 27 0 1
 0 0 1 0
+0 27 0 1
 0 30 -1 0
+0 32 0 1
 0 34 1 3
+0 63 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b0 oc1b lco ta1-1-lco ta2-2-oc1b
 0
 7
-0 32 0 1
-0 64 -1 1
-0 63 -1 0
-0 27 0 1
 0 1 1 0
+0 27 0 1
 0 30 -1 0
+0 32 0 1
 0 34 1 3
+0 63 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b0 oc1b lco ta1-2-lco ta2-1-oc1b
 0
 7
-0 32 0 1
-0 64 -1 1
-0 63 -1 0
-0 28 0 1
 0 0 1 0
+0 28 0 1
 0 30 -1 0
+0 32 0 1
 0 34 1 3
+0 63 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b0 oc1b lco ta1-2-lco ta2-2-oc1b
 0
 7
-0 32 0 1
-0 64 -1 1
-0 63 -1 0
-0 28 0 1
 0 1 1 0
+0 28 0 1
 0 30 -1 0
+0 32 0 1
 0 34 1 3
+0 63 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b0 oc1b lco ta1-3-lco ta2-1-oc1b
 0
 7
-0 32 0 1
-0 64 -1 1
-0 63 -1 0
-0 29 0 1
 0 0 1 0
+0 29 0 1
 0 30 -1 0
+0 32 0 1
 0 34 1 3
+0 63 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b0 oc1b lco ta1-3-lco ta2-2-oc1b
 0
 7
-0 32 0 1
-0 64 -1 1
-0 63 -1 0
-0 29 0 1
 0 1 1 0
+0 29 0 1
 0 30 -1 0
+0 32 0 1
 0 34 1 3
+0 63 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b10 oc1b gasoleo ta1-1-gasoleo ta2-1-oc1b
 0
 7
-0 32 2 1
-0 63 -1 0
-0 62 -1 1
-0 22 0 1
 0 0 1 0
-0 34 1 3
+0 22 0 1
 0 26 -1 0
+0 32 2 1
+0 34 1 3
+0 62 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b10 oc1b gasoleo ta1-1-gasoleo ta2-2-oc1b
 0
 7
-0 32 2 1
-0 63 -1 0
-0 62 -1 1
-0 22 0 1
 0 1 1 0
-0 34 1 3
+0 22 0 1
 0 26 -1 0
+0 32 2 1
+0 34 1 3
+0 62 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b10 oc1b gasoleo ta1-2-gasoleo ta2-1-oc1b
 0
 7
-0 32 2 1
-0 63 -1 0
-0 62 -1 1
-0 24 0 1
 0 0 1 0
-0 34 1 3
+0 24 0 1
 0 26 -1 0
+0 32 2 1
+0 34 1 3
+0 62 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b10 oc1b gasoleo ta1-2-gasoleo ta2-2-oc1b
 0
 7
-0 32 2 1
-0 63 -1 0
-0 62 -1 1
-0 24 0 1
 0 1 1 0
-0 34 1 3
+0 24 0 1
 0 26 -1 0
+0 32 2 1
+0 34 1 3
+0 62 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b11 oc1b gasoleo ta1-1-gasoleo ta2-1-oc1b
 0
 7
-0 32 3 1
-0 63 -1 0
-0 61 -1 1
-0 22 0 1
 0 0 1 0
+0 22 0 1
+0 32 3 1
 0 34 1 3
 0 37 -1 0
+0 61 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b11 oc1b gasoleo ta1-1-gasoleo ta2-2-oc1b
 0
 7
-0 32 3 1
-0 63 -1 0
-0 61 -1 1
-0 22 0 1
 0 1 1 0
+0 22 0 1
+0 32 3 1
 0 34 1 3
 0 37 -1 0
+0 61 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b11 oc1b gasoleo ta1-2-gasoleo ta2-1-oc1b
 0
 7
-0 32 3 1
-0 63 -1 0
-0 61 -1 1
-0 24 0 1
 0 0 1 0
+0 24 0 1
+0 32 3 1
 0 34 1 3
 0 37 -1 0
+0 61 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b11 oc1b gasoleo ta1-2-gasoleo ta2-2-oc1b
 0
 7
-0 32 3 1
-0 63 -1 0
-0 61 -1 1
-0 24 0 1
 0 1 1 0
+0 24 0 1
+0 32 3 1
 0 34 1 3
 0 37 -1 0
+0 61 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b3 oc1b gasoleo ta1-1-gasoleo ta2-1-oc1b
 0
 7
-0 32 5 1
-0 63 -1 0
-0 59 -1 1
-0 22 0 1
 0 0 1 0
+0 22 0 1
+0 32 5 1
 0 34 1 3
 0 38 -1 0
+0 59 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b3 oc1b gasoleo ta1-1-gasoleo ta2-2-oc1b
 0
 7
-0 32 5 1
-0 63 -1 0
-0 59 -1 1
-0 22 0 1
 0 1 1 0
+0 22 0 1
+0 32 5 1
 0 34 1 3
 0 38 -1 0
+0 59 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b3 oc1b gasoleo ta1-2-gasoleo ta2-1-oc1b
 0
 7
-0 32 5 1
-0 63 -1 0
-0 59 -1 1
-0 24 0 1
 0 0 1 0
+0 24 0 1
+0 32 5 1
 0 34 1 3
 0 38 -1 0
+0 59 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b3 oc1b gasoleo ta1-2-gasoleo ta2-2-oc1b
 0
 7
-0 32 5 1
-0 63 -1 0
-0 59 -1 1
-0 24 0 1
 0 1 1 0
+0 24 0 1
+0 32 5 1
 0 34 1 3
 0 38 -1 0
+0 59 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b4 oc1b lco ta1-1-lco ta2-1-oc1b
 0
 7
-0 32 6 1
-0 63 -1 0
-0 58 -1 1
-0 27 0 1
 0 0 1 0
+0 27 0 1
+0 32 6 1
 0 34 1 3
 0 39 -1 0
+0 58 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b4 oc1b lco ta1-1-lco ta2-2-oc1b
 0
 7
-0 32 6 1
-0 63 -1 0
-0 58 -1 1
-0 27 0 1
 0 1 1 0
+0 27 0 1
+0 32 6 1
 0 34 1 3
 0 39 -1 0
+0 58 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b4 oc1b lco ta1-2-lco ta2-1-oc1b
 0
 7
-0 32 6 1
-0 63 -1 0
-0 58 -1 1
-0 28 0 1
 0 0 1 0
+0 28 0 1
+0 32 6 1
 0 34 1 3
 0 39 -1 0
+0 58 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b4 oc1b lco ta1-2-lco ta2-2-oc1b
 0
 7
-0 32 6 1
-0 63 -1 0
-0 58 -1 1
-0 28 0 1
 0 1 1 0
+0 28 0 1
+0 32 6 1
 0 34 1 3
 0 39 -1 0
+0 58 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b4 oc1b lco ta1-3-lco ta2-1-oc1b
 0
 7
-0 32 6 1
-0 63 -1 0
-0 58 -1 1
-0 29 0 1
 0 0 1 0
+0 29 0 1
+0 32 6 1
 0 34 1 3
 0 39 -1 0
+0 58 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b4 oc1b lco ta1-3-lco ta2-2-oc1b
 0
 7
-0 32 6 1
-0 63 -1 0
-0 58 -1 1
-0 29 0 1
 0 1 1 0
+0 29 0 1
+0 32 6 1
 0 34 1 3
 0 39 -1 0
+0 58 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b6 oc1b lco ta1-1-lco ta2-1-oc1b
 0
 7
-0 32 8 1
-0 63 -1 0
-0 56 -1 1
-0 27 0 1
 0 0 1 0
-0 34 1 3
+0 27 0 1
 0 31 -1 0
+0 32 8 1
+0 34 1 3
+0 56 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b6 oc1b lco ta1-1-lco ta2-2-oc1b
 0
 7
-0 32 8 1
-0 63 -1 0
-0 56 -1 1
-0 27 0 1
 0 1 1 0
-0 34 1 3
+0 27 0 1
 0 31 -1 0
+0 32 8 1
+0 34 1 3
+0 56 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b6 oc1b lco ta1-2-lco ta2-1-oc1b
 0
 7
-0 32 8 1
-0 63 -1 0
-0 56 -1 1
-0 28 0 1
 0 0 1 0
-0 34 1 3
+0 28 0 1
 0 31 -1 0
+0 32 8 1
+0 34 1 3
+0 56 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b6 oc1b lco ta1-2-lco ta2-2-oc1b
 0
 7
-0 32 8 1
-0 63 -1 0
-0 56 -1 1
-0 28 0 1
 0 1 1 0
-0 34 1 3
+0 28 0 1
 0 31 -1 0
+0 32 8 1
+0 34 1 3
+0 56 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b6 oc1b lco ta1-3-lco ta2-1-oc1b
 0
 7
-0 32 8 1
-0 63 -1 0
-0 56 -1 1
-0 29 0 1
 0 0 1 0
-0 34 1 3
+0 29 0 1
 0 31 -1 0
+0 32 8 1
+0 34 1 3
+0 56 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b6 oc1b lco ta1-3-lco ta2-2-oc1b
 0
 7
-0 32 8 1
-0 63 -1 0
-0 56 -1 1
-0 29 0 1
 0 1 1 0
-0 34 1 3
+0 29 0 1
 0 31 -1 0
+0 32 8 1
+0 34 1 3
+0 56 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b8 oc1b oc1b ta1-1-oc1b ta2-1-oc1b
 0
 7
-0 32 10 1
-0 63 -1 0
-0 54 -1 1
-0 8 0 1
 0 0 1 0
-0 34 1 3
+0 8 0 1
 0 23 -1 0
+0 32 10 1
+0 34 1 3
+0 54 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b8 oc1b oc1b ta1-1-oc1b ta2-2-oc1b
 0
 7
-0 32 10 1
-0 63 -1 0
-0 54 -1 1
-0 8 0 1
 0 1 1 0
-0 34 1 3
+0 8 0 1
 0 23 -1 0
+0 32 10 1
+0 34 1 3
+0 54 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b8 oc1b oc1b ta1-2-oc1b ta2-1-oc1b
 0
 7
-0 32 10 1
-0 63 -1 0
-0 54 -1 1
-0 10 0 1
 0 0 1 0
-0 34 1 3
+0 10 0 1
 0 23 -1 0
+0 32 10 1
+0 34 1 3
+0 54 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b8 oc1b oc1b ta1-2-oc1b ta2-2-oc1b
 0
 7
-0 32 10 1
-0 63 -1 0
-0 54 -1 1
-0 10 0 1
 0 1 1 0
-0 34 1 3
+0 10 0 1
 0 23 -1 0
+0 32 10 1
+0 34 1 3
+0 54 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b9 oc1b lco ta1-1-lco ta2-1-oc1b
 0
 7
-0 32 11 1
-0 63 -1 0
-0 53 -1 1
-0 27 0 1
 0 0 1 0
+0 27 0 1
+0 32 11 1
 0 34 1 3
 0 40 -1 0
+0 53 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b9 oc1b lco ta1-1-lco ta2-2-oc1b
 0
 7
-0 32 11 1
-0 63 -1 0
-0 53 -1 1
-0 27 0 1
 0 1 1 0
+0 27 0 1
+0 32 11 1
 0 34 1 3
 0 40 -1 0
+0 53 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b9 oc1b lco ta1-2-lco ta2-1-oc1b
 0
 7
-0 32 11 1
-0 63 -1 0
-0 53 -1 1
-0 28 0 1
 0 0 1 0
+0 28 0 1
+0 32 11 1
 0 34 1 3
 0 40 -1 0
+0 53 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b9 oc1b lco ta1-2-lco ta2-2-oc1b
 0
 7
-0 32 11 1
-0 63 -1 0
-0 53 -1 1
-0 28 0 1
 0 1 1 0
+0 28 0 1
+0 32 11 1
 0 34 1 3
 0 40 -1 0
+0 53 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b9 oc1b lco ta1-3-lco ta2-1-oc1b
 0
 7
-0 32 11 1
-0 63 -1 0
-0 53 -1 1
-0 29 0 1
 0 0 1 0
+0 29 0 1
+0 32 11 1
 0 34 1 3
 0 40 -1 0
+0 53 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b1 a1 a2 b9 oc1b lco ta1-3-lco ta2-2-oc1b
 0
 7
-0 32 11 1
-0 63 -1 0
-0 53 -1 1
-0 29 0 1
 0 1 1 0
+0 29 0 1
+0 32 11 1
 0 34 1 3
 0 40 -1 0
+0 53 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b0 gasoleo lco ta1-1-lco ta2-1-gasoleo
 0
 7
-0 32 0 2
-0 64 -1 1
-0 62 -1 0
-0 27 0 1
 0 9 1 0
-0 30 -1 0
 0 26 1 3
+0 27 0 1
+0 30 -1 0
+0 32 0 2
+0 62 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b0 gasoleo lco ta1-1-lco ta2-2-gasoleo
 0
 7
-0 32 0 2
-0 64 -1 1
-0 62 -1 0
-0 27 0 1
 0 11 1 0
-0 30 -1 0
 0 26 1 3
+0 27 0 1
+0 30 -1 0
+0 32 0 2
+0 62 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b0 gasoleo lco ta1-2-lco ta2-1-gasoleo
 0
 7
-0 32 0 2
-0 64 -1 1
-0 62 -1 0
-0 28 0 1
 0 9 1 0
-0 30 -1 0
 0 26 1 3
+0 28 0 1
+0 30 -1 0
+0 32 0 2
+0 62 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b0 gasoleo lco ta1-2-lco ta2-2-gasoleo
 0
 7
-0 32 0 2
-0 64 -1 1
-0 62 -1 0
-0 28 0 1
 0 11 1 0
-0 30 -1 0
 0 26 1 3
+0 28 0 1
+0 30 -1 0
+0 32 0 2
+0 62 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b0 gasoleo lco ta1-3-lco ta2-1-gasoleo
 0
 7
-0 32 0 2
-0 64 -1 1
-0 62 -1 0
-0 29 0 1
 0 9 1 0
-0 30 -1 0
 0 26 1 3
+0 29 0 1
+0 30 -1 0
+0 32 0 2
+0 62 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b0 gasoleo lco ta1-3-lco ta2-2-gasoleo
 0
 7
-0 32 0 2
-0 64 -1 1
-0 62 -1 0
-0 29 0 1
 0 11 1 0
-0 30 -1 0
 0 26 1 3
+0 29 0 1
+0 30 -1 0
+0 32 0 2
+0 62 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b1 gasoleo oc1b ta1-1-oc1b ta2-1-gasoleo
 0
 7
-0 32 1 2
-0 63 -1 1
-0 62 -1 0
 0 8 0 1
 0 9 1 0
-0 34 -1 0
 0 26 1 3
+0 32 1 2
+0 34 -1 0
+0 62 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b1 gasoleo oc1b ta1-1-oc1b ta2-2-gasoleo
 0
 7
-0 32 1 2
-0 63 -1 1
-0 62 -1 0
 0 8 0 1
 0 11 1 0
-0 34 -1 0
 0 26 1 3
+0 32 1 2
+0 34 -1 0
+0 62 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b1 gasoleo oc1b ta1-2-oc1b ta2-1-gasoleo
 0
 7
-0 32 1 2
-0 63 -1 1
-0 62 -1 0
-0 10 0 1
 0 9 1 0
-0 34 -1 0
+0 10 0 1
 0 26 1 3
+0 32 1 2
+0 34 -1 0
+0 62 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b1 gasoleo oc1b ta1-2-oc1b ta2-2-gasoleo
 0
 7
-0 32 1 2
-0 63 -1 1
-0 62 -1 0
 0 10 0 1
 0 11 1 0
-0 34 -1 0
 0 26 1 3
+0 32 1 2
+0 34 -1 0
+0 62 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b11 gasoleo gasoleo ta1-1-gasoleo ta2-1-gasoleo
 0
 7
-0 32 3 2
-0 62 -1 0
-0 61 -1 1
-0 22 0 1
 0 9 1 0
+0 22 0 1
 0 26 1 3
+0 32 3 2
 0 37 -1 0
+0 61 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b11 gasoleo gasoleo ta1-1-gasoleo ta2-2-gasoleo
 0
 7
-0 32 3 2
-0 62 -1 0
-0 61 -1 1
-0 22 0 1
 0 11 1 0
+0 22 0 1
 0 26 1 3
+0 32 3 2
 0 37 -1 0
+0 61 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b11 gasoleo gasoleo ta1-2-gasoleo ta2-1-gasoleo
 0
 7
-0 32 3 2
-0 62 -1 0
-0 61 -1 1
-0 24 0 1
 0 9 1 0
+0 24 0 1
 0 26 1 3
+0 32 3 2
 0 37 -1 0
+0 61 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b11 gasoleo gasoleo ta1-2-gasoleo ta2-2-gasoleo
 0
 7
-0 32 3 2
-0 62 -1 0
-0 61 -1 1
-0 24 0 1
 0 11 1 0
+0 24 0 1
 0 26 1 3
+0 32 3 2
 0 37 -1 0
+0 61 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b2 gasoleo rat-a ta1-1-rat-a ta2-1-gasoleo
 0
 7
-0 32 4 2
-0 62 -1 0
-0 60 -1 1
-0 19 0 1
 0 9 1 0
-0 26 1 3
+0 19 0 1
 0 25 -1 0
+0 26 1 3
+0 32 4 2
+0 60 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b2 gasoleo rat-a ta1-1-rat-a ta2-2-gasoleo
 0
 7
-0 32 4 2
-0 62 -1 0
-0 60 -1 1
-0 19 0 1
 0 11 1 0
-0 26 1 3
+0 19 0 1
 0 25 -1 0
+0 26 1 3
+0 32 4 2
+0 60 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b2 gasoleo rat-a ta1-2-rat-a ta2-1-gasoleo
 0
 7
-0 32 4 2
-0 62 -1 0
-0 60 -1 1
-0 21 0 1
 0 9 1 0
-0 26 1 3
+0 21 0 1
 0 25 -1 0
+0 26 1 3
+0 32 4 2
+0 60 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b2 gasoleo rat-a ta1-2-rat-a ta2-2-gasoleo
 0
 7
-0 32 4 2
-0 62 -1 0
-0 60 -1 1
-0 21 0 1
 0 11 1 0
-0 26 1 3
+0 21 0 1
 0 25 -1 0
+0 26 1 3
+0 32 4 2
+0 60 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b3 gasoleo gasoleo ta1-1-gasoleo ta2-1-gasoleo
 0
 7
-0 32 5 2
-0 62 -1 0
-0 59 -1 1
-0 22 0 1
 0 9 1 0
+0 22 0 1
 0 26 1 3
+0 32 5 2
 0 38 -1 0
+0 59 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b3 gasoleo gasoleo ta1-1-gasoleo ta2-2-gasoleo
 0
 7
-0 32 5 2
-0 62 -1 0
-0 59 -1 1
-0 22 0 1
 0 11 1 0
+0 22 0 1
 0 26 1 3
+0 32 5 2
 0 38 -1 0
+0 59 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b3 gasoleo gasoleo ta1-2-gasoleo ta2-1-gasoleo
 0
 7
-0 32 5 2
-0 62 -1 0
-0 59 -1 1
-0 24 0 1
 0 9 1 0
+0 24 0 1
 0 26 1 3
+0 32 5 2
 0 38 -1 0
+0 59 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b3 gasoleo gasoleo ta1-2-gasoleo ta2-2-gasoleo
 0
 7
-0 32 5 2
-0 62 -1 0
-0 59 -1 1
-0 24 0 1
 0 11 1 0
+0 24 0 1
 0 26 1 3
+0 32 5 2
 0 38 -1 0
+0 59 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b4 gasoleo lco ta1-1-lco ta2-1-gasoleo
 0
 7
-0 32 6 2
-0 62 -1 0
-0 58 -1 1
-0 27 0 1
 0 9 1 0
 0 26 1 3
+0 27 0 1
+0 32 6 2
 0 39 -1 0
+0 58 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b4 gasoleo lco ta1-1-lco ta2-2-gasoleo
 0
 7
-0 32 6 2
-0 62 -1 0
-0 58 -1 1
-0 27 0 1
 0 11 1 0
 0 26 1 3
+0 27 0 1
+0 32 6 2
 0 39 -1 0
+0 58 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b4 gasoleo lco ta1-2-lco ta2-1-gasoleo
 0
 7
-0 32 6 2
-0 62 -1 0
-0 58 -1 1
-0 28 0 1
 0 9 1 0
 0 26 1 3
+0 28 0 1
+0 32 6 2
 0 39 -1 0
+0 58 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b4 gasoleo lco ta1-2-lco ta2-2-gasoleo
 0
 7
-0 32 6 2
-0 62 -1 0
-0 58 -1 1
-0 28 0 1
 0 11 1 0
 0 26 1 3
+0 28 0 1
+0 32 6 2
 0 39 -1 0
+0 58 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b4 gasoleo lco ta1-3-lco ta2-1-gasoleo
 0
 7
-0 32 6 2
-0 62 -1 0
-0 58 -1 1
-0 29 0 1
 0 9 1 0
 0 26 1 3
+0 29 0 1
+0 32 6 2
 0 39 -1 0
+0 58 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b4 gasoleo lco ta1-3-lco ta2-2-gasoleo
 0
 7
-0 32 6 2
-0 62 -1 0
-0 58 -1 1
-0 29 0 1
 0 11 1 0
 0 26 1 3
+0 29 0 1
+0 32 6 2
 0 39 -1 0
+0 58 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b5 gasoleo rat-a ta1-1-rat-a ta2-1-gasoleo
 0
 7
-0 32 7 2
-0 62 -1 0
-0 57 -1 1
-0 19 0 1
 0 9 1 0
+0 19 0 1
 0 26 1 3
+0 32 7 2
 0 35 -1 0
+0 57 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b5 gasoleo rat-a ta1-1-rat-a ta2-2-gasoleo
 0
 7
-0 32 7 2
-0 62 -1 0
-0 57 -1 1
-0 19 0 1
 0 11 1 0
+0 19 0 1
 0 26 1 3
+0 32 7 2
 0 35 -1 0
+0 57 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b5 gasoleo rat-a ta1-2-rat-a ta2-1-gasoleo
 0
 7
-0 32 7 2
-0 62 -1 0
-0 57 -1 1
-0 21 0 1
 0 9 1 0
+0 21 0 1
 0 26 1 3
+0 32 7 2
 0 35 -1 0
+0 57 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b5 gasoleo rat-a ta1-2-rat-a ta2-2-gasoleo
 0
 7
-0 32 7 2
-0 62 -1 0
-0 57 -1 1
-0 21 0 1
 0 11 1 0
+0 21 0 1
 0 26 1 3
+0 32 7 2
 0 35 -1 0
+0 57 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b6 gasoleo lco ta1-1-lco ta2-1-gasoleo
 0
 7
-0 32 8 2
-0 62 -1 0
-0 56 -1 1
-0 27 0 1
 0 9 1 0
 0 26 1 3
+0 27 0 1
 0 31 -1 0
+0 32 8 2
+0 56 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b6 gasoleo lco ta1-1-lco ta2-2-gasoleo
 0
 7
-0 32 8 2
-0 62 -1 0
-0 56 -1 1
-0 27 0 1
 0 11 1 0
 0 26 1 3
+0 27 0 1
 0 31 -1 0
+0 32 8 2
+0 56 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b6 gasoleo lco ta1-2-lco ta2-1-gasoleo
 0
 7
-0 32 8 2
-0 62 -1 0
-0 56 -1 1
-0 28 0 1
 0 9 1 0
 0 26 1 3
+0 28 0 1
 0 31 -1 0
+0 32 8 2
+0 56 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b6 gasoleo lco ta1-2-lco ta2-2-gasoleo
 0
 7
-0 32 8 2
-0 62 -1 0
-0 56 -1 1
-0 28 0 1
 0 11 1 0
 0 26 1 3
+0 28 0 1
 0 31 -1 0
+0 32 8 2
+0 56 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b6 gasoleo lco ta1-3-lco ta2-1-gasoleo
 0
 7
-0 32 8 2
-0 62 -1 0
-0 56 -1 1
-0 29 0 1
 0 9 1 0
 0 26 1 3
+0 29 0 1
 0 31 -1 0
+0 32 8 2
+0 56 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b6 gasoleo lco ta1-3-lco ta2-2-gasoleo
 0
 7
-0 32 8 2
-0 62 -1 0
-0 56 -1 1
-0 29 0 1
 0 11 1 0
 0 26 1 3
+0 29 0 1
 0 31 -1 0
+0 32 8 2
+0 56 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b7 gasoleo rat-a ta1-1-rat-a ta2-1-gasoleo
 0
 7
-0 32 9 2
-0 62 -1 0
-0 55 -1 1
-0 19 0 1
 0 9 1 0
+0 19 0 1
 0 26 1 3
+0 32 9 2
 0 36 -1 0
+0 55 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b7 gasoleo rat-a ta1-1-rat-a ta2-2-gasoleo
 0
 7
-0 32 9 2
-0 62 -1 0
-0 55 -1 1
-0 19 0 1
 0 11 1 0
+0 19 0 1
 0 26 1 3
+0 32 9 2
 0 36 -1 0
+0 55 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b7 gasoleo rat-a ta1-2-rat-a ta2-1-gasoleo
 0
 7
-0 32 9 2
-0 62 -1 0
-0 55 -1 1
-0 21 0 1
 0 9 1 0
+0 21 0 1
 0 26 1 3
+0 32 9 2
 0 36 -1 0
+0 55 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b7 gasoleo rat-a ta1-2-rat-a ta2-2-gasoleo
 0
 7
-0 32 9 2
-0 62 -1 0
-0 55 -1 1
-0 21 0 1
 0 11 1 0
+0 21 0 1
 0 26 1 3
+0 32 9 2
 0 36 -1 0
+0 55 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b8 gasoleo oc1b ta1-1-oc1b ta2-1-gasoleo
 0
 7
-0 32 10 2
-0 62 -1 0
-0 54 -1 1
 0 8 0 1
 0 9 1 0
-0 26 1 3
 0 23 -1 0
+0 26 1 3
+0 32 10 2
+0 54 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b8 gasoleo oc1b ta1-1-oc1b ta2-2-gasoleo
 0
 7
-0 32 10 2
-0 62 -1 0
-0 54 -1 1
 0 8 0 1
 0 11 1 0
-0 26 1 3
 0 23 -1 0
+0 26 1 3
+0 32 10 2
+0 54 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b8 gasoleo oc1b ta1-2-oc1b ta2-1-gasoleo
 0
 7
-0 32 10 2
-0 62 -1 0
-0 54 -1 1
-0 10 0 1
 0 9 1 0
-0 26 1 3
+0 10 0 1
 0 23 -1 0
+0 26 1 3
+0 32 10 2
+0 54 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b8 gasoleo oc1b ta1-2-oc1b ta2-2-gasoleo
 0
 7
-0 32 10 2
-0 62 -1 0
-0 54 -1 1
 0 10 0 1
 0 11 1 0
-0 26 1 3
 0 23 -1 0
+0 26 1 3
+0 32 10 2
+0 54 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b9 gasoleo lco ta1-1-lco ta2-1-gasoleo
 0
 7
-0 32 11 2
-0 62 -1 0
-0 53 -1 1
-0 27 0 1
 0 9 1 0
 0 26 1 3
+0 27 0 1
+0 32 11 2
 0 40 -1 0
+0 53 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b9 gasoleo lco ta1-1-lco ta2-2-gasoleo
 0
 7
-0 32 11 2
-0 62 -1 0
-0 53 -1 1
-0 27 0 1
 0 11 1 0
 0 26 1 3
+0 27 0 1
+0 32 11 2
 0 40 -1 0
+0 53 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b9 gasoleo lco ta1-2-lco ta2-1-gasoleo
 0
 7
-0 32 11 2
-0 62 -1 0
-0 53 -1 1
-0 28 0 1
 0 9 1 0
 0 26 1 3
+0 28 0 1
+0 32 11 2
 0 40 -1 0
+0 53 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b9 gasoleo lco ta1-2-lco ta2-2-gasoleo
 0
 7
-0 32 11 2
-0 62 -1 0
-0 53 -1 1
-0 28 0 1
 0 11 1 0
 0 26 1 3
+0 28 0 1
+0 32 11 2
 0 40 -1 0
+0 53 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b9 gasoleo lco ta1-3-lco ta2-1-gasoleo
 0
 7
-0 32 11 2
-0 62 -1 0
-0 53 -1 1
-0 29 0 1
 0 9 1 0
 0 26 1 3
+0 29 0 1
+0 32 11 2
 0 40 -1 0
+0 53 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b10 a1 a2 b9 gasoleo lco ta1-3-lco ta2-2-gasoleo
 0
 7
-0 32 11 2
-0 62 -1 0
-0 53 -1 1
-0 29 0 1
 0 11 1 0
 0 26 1 3
+0 29 0 1
+0 32 11 2
 0 40 -1 0
+0 53 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b0 gasoleo lco ta1-1-lco ta2-1-gasoleo
 0
 7
-0 32 0 3
-0 64 -1 1
-0 61 -1 0
-0 27 0 1
 0 9 1 0
+0 27 0 1
 0 30 -1 0
+0 32 0 3
 0 37 1 3
+0 61 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b0 gasoleo lco ta1-1-lco ta2-2-gasoleo
 0
 7
-0 32 0 3
-0 64 -1 1
-0 61 -1 0
-0 27 0 1
 0 11 1 0
+0 27 0 1
 0 30 -1 0
+0 32 0 3
 0 37 1 3
+0 61 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b0 gasoleo lco ta1-2-lco ta2-1-gasoleo
 0
 7
-0 32 0 3
-0 64 -1 1
-0 61 -1 0
-0 28 0 1
 0 9 1 0
+0 28 0 1
 0 30 -1 0
+0 32 0 3
 0 37 1 3
+0 61 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b0 gasoleo lco ta1-2-lco ta2-2-gasoleo
 0
 7
-0 32 0 3
-0 64 -1 1
-0 61 -1 0
-0 28 0 1
 0 11 1 0
+0 28 0 1
 0 30 -1 0
+0 32 0 3
 0 37 1 3
+0 61 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b0 gasoleo lco ta1-3-lco ta2-1-gasoleo
 0
 7
-0 32 0 3
-0 64 -1 1
-0 61 -1 0
-0 29 0 1
 0 9 1 0
+0 29 0 1
 0 30 -1 0
+0 32 0 3
 0 37 1 3
+0 61 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b0 gasoleo lco ta1-3-lco ta2-2-gasoleo
 0
 7
-0 32 0 3
-0 64 -1 1
-0 61 -1 0
-0 29 0 1
 0 11 1 0
+0 29 0 1
 0 30 -1 0
+0 32 0 3
 0 37 1 3
+0 61 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b1 gasoleo oc1b ta1-1-oc1b ta2-1-gasoleo
 0
 7
-0 32 1 3
-0 63 -1 1
-0 61 -1 0
 0 8 0 1
 0 9 1 0
+0 32 1 3
 0 34 -1 0
 0 37 1 3
+0 61 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b1 gasoleo oc1b ta1-1-oc1b ta2-2-gasoleo
 0
 7
-0 32 1 3
-0 63 -1 1
-0 61 -1 0
 0 8 0 1
 0 11 1 0
+0 32 1 3
 0 34 -1 0
 0 37 1 3
+0 61 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b1 gasoleo oc1b ta1-2-oc1b ta2-1-gasoleo
 0
 7
-0 32 1 3
-0 63 -1 1
-0 61 -1 0
-0 10 0 1
 0 9 1 0
+0 10 0 1
+0 32 1 3
 0 34 -1 0
 0 37 1 3
+0 61 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b1 gasoleo oc1b ta1-2-oc1b ta2-2-gasoleo
 0
 7
-0 32 1 3
-0 63 -1 1
-0 61 -1 0
 0 10 0 1
 0 11 1 0
+0 32 1 3
 0 34 -1 0
 0 37 1 3
+0 61 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b10 gasoleo gasoleo ta1-1-gasoleo ta2-1-gasoleo
 0
 7
-0 32 2 3
-0 62 -1 1
-0 61 -1 0
-0 22 0 1
 0 9 1 0
+0 22 0 1
 0 26 -1 0
+0 32 2 3
 0 37 1 3
+0 61 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b10 gasoleo gasoleo ta1-1-gasoleo ta2-2-gasoleo
 0
 7
-0 32 2 3
-0 62 -1 1
-0 61 -1 0
-0 22 0 1
 0 11 1 0
+0 22 0 1
 0 26 -1 0
+0 32 2 3
 0 37 1 3
+0 61 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b10 gasoleo gasoleo ta1-2-gasoleo ta2-1-gasoleo
 0
 7
-0 32 2 3
-0 62 -1 1
-0 61 -1 0
-0 24 0 1
 0 9 1 0
+0 24 0 1
 0 26 -1 0
+0 32 2 3
 0 37 1 3
+0 61 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b10 gasoleo gasoleo ta1-2-gasoleo ta2-2-gasoleo
 0
 7
-0 32 2 3
-0 62 -1 1
-0 61 -1 0
-0 24 0 1
 0 11 1 0
+0 24 0 1
 0 26 -1 0
+0 32 2 3
 0 37 1 3
+0 61 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b2 gasoleo rat-a ta1-1-rat-a ta2-1-gasoleo
 0
 7
-0 32 4 3
-0 61 -1 0
-0 60 -1 1
-0 19 0 1
 0 9 1 0
-0 37 1 3
+0 19 0 1
 0 25 -1 0
+0 32 4 3
+0 37 1 3
+0 60 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b2 gasoleo rat-a ta1-1-rat-a ta2-2-gasoleo
 0
 7
-0 32 4 3
-0 61 -1 0
-0 60 -1 1
-0 19 0 1
 0 11 1 0
-0 37 1 3
+0 19 0 1
 0 25 -1 0
+0 32 4 3
+0 37 1 3
+0 60 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b2 gasoleo rat-a ta1-2-rat-a ta2-1-gasoleo
 0
 7
-0 32 4 3
-0 61 -1 0
-0 60 -1 1
-0 21 0 1
 0 9 1 0
-0 37 1 3
+0 21 0 1
 0 25 -1 0
+0 32 4 3
+0 37 1 3
+0 60 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b2 gasoleo rat-a ta1-2-rat-a ta2-2-gasoleo
 0
 7
-0 32 4 3
-0 61 -1 0
-0 60 -1 1
-0 21 0 1
 0 11 1 0
-0 37 1 3
+0 21 0 1
 0 25 -1 0
+0 32 4 3
+0 37 1 3
+0 60 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b3 gasoleo gasoleo ta1-1-gasoleo ta2-1-gasoleo
 0
 7
-0 32 5 3
-0 61 -1 0
-0 59 -1 1
-0 22 0 1
 0 9 1 0
+0 22 0 1
+0 32 5 3
 0 37 1 3
 0 38 -1 0
+0 59 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b3 gasoleo gasoleo ta1-1-gasoleo ta2-2-gasoleo
 0
 7
-0 32 5 3
-0 61 -1 0
-0 59 -1 1
-0 22 0 1
 0 11 1 0
+0 22 0 1
+0 32 5 3
 0 37 1 3
 0 38 -1 0
+0 59 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b3 gasoleo gasoleo ta1-2-gasoleo ta2-1-gasoleo
 0
 7
-0 32 5 3
-0 61 -1 0
-0 59 -1 1
-0 24 0 1
 0 9 1 0
+0 24 0 1
+0 32 5 3
 0 37 1 3
 0 38 -1 0
+0 59 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b3 gasoleo gasoleo ta1-2-gasoleo ta2-2-gasoleo
 0
 7
-0 32 5 3
-0 61 -1 0
-0 59 -1 1
-0 24 0 1
 0 11 1 0
+0 24 0 1
+0 32 5 3
 0 37 1 3
 0 38 -1 0
+0 59 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b4 gasoleo lco ta1-1-lco ta2-1-gasoleo
 0
 7
-0 32 6 3
-0 61 -1 0
-0 58 -1 1
-0 27 0 1
 0 9 1 0
+0 27 0 1
+0 32 6 3
 0 37 1 3
 0 39 -1 0
+0 58 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b4 gasoleo lco ta1-1-lco ta2-2-gasoleo
 0
 7
-0 32 6 3
-0 61 -1 0
-0 58 -1 1
-0 27 0 1
 0 11 1 0
+0 27 0 1
+0 32 6 3
 0 37 1 3
 0 39 -1 0
+0 58 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b4 gasoleo lco ta1-2-lco ta2-1-gasoleo
 0
 7
-0 32 6 3
-0 61 -1 0
-0 58 -1 1
-0 28 0 1
 0 9 1 0
+0 28 0 1
+0 32 6 3
 0 37 1 3
 0 39 -1 0
+0 58 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b4 gasoleo lco ta1-2-lco ta2-2-gasoleo
 0
 7
-0 32 6 3
-0 61 -1 0
-0 58 -1 1
-0 28 0 1
 0 11 1 0
+0 28 0 1
+0 32 6 3
 0 37 1 3
 0 39 -1 0
+0 58 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b4 gasoleo lco ta1-3-lco ta2-1-gasoleo
 0
 7
-0 32 6 3
-0 61 -1 0
-0 58 -1 1
-0 29 0 1
 0 9 1 0
+0 29 0 1
+0 32 6 3
 0 37 1 3
 0 39 -1 0
+0 58 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b4 gasoleo lco ta1-3-lco ta2-2-gasoleo
 0
 7
-0 32 6 3
-0 61 -1 0
-0 58 -1 1
-0 29 0 1
 0 11 1 0
+0 29 0 1
+0 32 6 3
 0 37 1 3
 0 39 -1 0
+0 58 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b5 gasoleo rat-a ta1-1-rat-a ta2-1-gasoleo
 0
 7
-0 32 7 3
-0 61 -1 0
-0 57 -1 1
-0 19 0 1
 0 9 1 0
-0 37 1 3
+0 19 0 1
+0 32 7 3
 0 35 -1 0
+0 37 1 3
+0 57 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b5 gasoleo rat-a ta1-1-rat-a ta2-2-gasoleo
 0
 7
-0 32 7 3
-0 61 -1 0
-0 57 -1 1
-0 19 0 1
 0 11 1 0
-0 37 1 3
+0 19 0 1
+0 32 7 3
 0 35 -1 0
+0 37 1 3
+0 57 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b5 gasoleo rat-a ta1-2-rat-a ta2-1-gasoleo
 0
 7
-0 32 7 3
-0 61 -1 0
-0 57 -1 1
-0 21 0 1
 0 9 1 0
-0 37 1 3
+0 21 0 1
+0 32 7 3
 0 35 -1 0
+0 37 1 3
+0 57 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b5 gasoleo rat-a ta1-2-rat-a ta2-2-gasoleo
 0
 7
-0 32 7 3
-0 61 -1 0
-0 57 -1 1
-0 21 0 1
 0 11 1 0
-0 37 1 3
+0 21 0 1
+0 32 7 3
 0 35 -1 0
+0 37 1 3
+0 57 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b6 gasoleo lco ta1-1-lco ta2-1-gasoleo
 0
 7
-0 32 8 3
-0 61 -1 0
-0 56 -1 1
-0 27 0 1
 0 9 1 0
-0 37 1 3
+0 27 0 1
 0 31 -1 0
+0 32 8 3
+0 37 1 3
+0 56 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b6 gasoleo lco ta1-1-lco ta2-2-gasoleo
 0
 7
-0 32 8 3
-0 61 -1 0
-0 56 -1 1
-0 27 0 1
 0 11 1 0
-0 37 1 3
+0 27 0 1
 0 31 -1 0
+0 32 8 3
+0 37 1 3
+0 56 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b6 gasoleo lco ta1-2-lco ta2-1-gasoleo
 0
 7
-0 32 8 3
-0 61 -1 0
-0 56 -1 1
-0 28 0 1
 0 9 1 0
-0 37 1 3
+0 28 0 1
 0 31 -1 0
+0 32 8 3
+0 37 1 3
+0 56 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b6 gasoleo lco ta1-2-lco ta2-2-gasoleo
 0
 7
-0 32 8 3
-0 61 -1 0
-0 56 -1 1
-0 28 0 1
 0 11 1 0
-0 37 1 3
+0 28 0 1
 0 31 -1 0
+0 32 8 3
+0 37 1 3
+0 56 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b6 gasoleo lco ta1-3-lco ta2-1-gasoleo
 0
 7
-0 32 8 3
-0 61 -1 0
-0 56 -1 1
-0 29 0 1
 0 9 1 0
-0 37 1 3
+0 29 0 1
 0 31 -1 0
+0 32 8 3
+0 37 1 3
+0 56 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b6 gasoleo lco ta1-3-lco ta2-2-gasoleo
 0
 7
-0 32 8 3
-0 61 -1 0
-0 56 -1 1
-0 29 0 1
 0 11 1 0
-0 37 1 3
+0 29 0 1
 0 31 -1 0
+0 32 8 3
+0 37 1 3
+0 56 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b7 gasoleo rat-a ta1-1-rat-a ta2-1-gasoleo
 0
 7
-0 32 9 3
-0 61 -1 0
-0 55 -1 1
-0 19 0 1
 0 9 1 0
-0 37 1 3
+0 19 0 1
+0 32 9 3
 0 36 -1 0
+0 37 1 3
+0 55 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b7 gasoleo rat-a ta1-1-rat-a ta2-2-gasoleo
 0
 7
-0 32 9 3
-0 61 -1 0
-0 55 -1 1
-0 19 0 1
 0 11 1 0
-0 37 1 3
+0 19 0 1
+0 32 9 3
 0 36 -1 0
+0 37 1 3
+0 55 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b7 gasoleo rat-a ta1-2-rat-a ta2-1-gasoleo
 0
 7
-0 32 9 3
-0 61 -1 0
-0 55 -1 1
-0 21 0 1
 0 9 1 0
-0 37 1 3
+0 21 0 1
+0 32 9 3
 0 36 -1 0
+0 37 1 3
+0 55 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b7 gasoleo rat-a ta1-2-rat-a ta2-2-gasoleo
 0
 7
-0 32 9 3
-0 61 -1 0
-0 55 -1 1
-0 21 0 1
 0 11 1 0
-0 37 1 3
+0 21 0 1
+0 32 9 3
 0 36 -1 0
+0 37 1 3
+0 55 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b8 gasoleo oc1b ta1-1-oc1b ta2-1-gasoleo
 0
 7
-0 32 10 3
-0 61 -1 0
-0 54 -1 1
 0 8 0 1
 0 9 1 0
-0 37 1 3
 0 23 -1 0
+0 32 10 3
+0 37 1 3
+0 54 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b8 gasoleo oc1b ta1-1-oc1b ta2-2-gasoleo
 0
 7
-0 32 10 3
-0 61 -1 0
-0 54 -1 1
 0 8 0 1
 0 11 1 0
-0 37 1 3
 0 23 -1 0
+0 32 10 3
+0 37 1 3
+0 54 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b8 gasoleo oc1b ta1-2-oc1b ta2-1-gasoleo
 0
 7
-0 32 10 3
-0 61 -1 0
-0 54 -1 1
-0 10 0 1
 0 9 1 0
-0 37 1 3
+0 10 0 1
 0 23 -1 0
+0 32 10 3
+0 37 1 3
+0 54 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b8 gasoleo oc1b ta1-2-oc1b ta2-2-gasoleo
 0
 7
-0 32 10 3
-0 61 -1 0
-0 54 -1 1
 0 10 0 1
 0 11 1 0
-0 37 1 3
 0 23 -1 0
+0 32 10 3
+0 37 1 3
+0 54 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b9 gasoleo lco ta1-1-lco ta2-1-gasoleo
 0
 7
-0 32 11 3
-0 61 -1 0
-0 53 -1 1
-0 27 0 1
 0 9 1 0
+0 27 0 1
+0 32 11 3
 0 37 1 3
 0 40 -1 0
+0 53 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b9 gasoleo lco ta1-1-lco ta2-2-gasoleo
 0
 7
-0 32 11 3
-0 61 -1 0
-0 53 -1 1
-0 27 0 1
 0 11 1 0
+0 27 0 1
+0 32 11 3
 0 37 1 3
 0 40 -1 0
+0 53 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b9 gasoleo lco ta1-2-lco ta2-1-gasoleo
 0
 7
-0 32 11 3
-0 61 -1 0
-0 53 -1 1
-0 28 0 1
 0 9 1 0
+0 28 0 1
+0 32 11 3
 0 37 1 3
 0 40 -1 0
+0 53 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b9 gasoleo lco ta1-2-lco ta2-2-gasoleo
 0
 7
-0 32 11 3
-0 61 -1 0
-0 53 -1 1
-0 28 0 1
 0 11 1 0
+0 28 0 1
+0 32 11 3
 0 37 1 3
 0 40 -1 0
+0 53 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b9 gasoleo lco ta1-3-lco ta2-1-gasoleo
 0
 7
-0 32 11 3
-0 61 -1 0
-0 53 -1 1
-0 29 0 1
 0 9 1 0
+0 29 0 1
+0 32 11 3
 0 37 1 3
 0 40 -1 0
+0 53 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b11 a1 a2 b9 gasoleo lco ta1-3-lco ta2-2-gasoleo
 0
 7
-0 32 11 3
-0 61 -1 0
-0 53 -1 1
-0 29 0 1
 0 11 1 0
+0 29 0 1
+0 32 11 3
 0 37 1 3
 0 40 -1 0
+0 53 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b0 rat-a lco ta1-1-lco ta2-1-rat-a
 0
 7
-0 32 0 4
-0 64 -1 1
-0 60 -1 0
-0 27 0 1
 0 4 1 0
-0 30 -1 0
 0 25 1 3
+0 27 0 1
+0 30 -1 0
+0 32 0 4
+0 60 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b0 rat-a lco ta1-1-lco ta2-2-rat-a
 0
 7
-0 32 0 4
-0 64 -1 1
-0 60 -1 0
-0 27 0 1
 0 5 1 0
-0 30 -1 0
 0 25 1 3
+0 27 0 1
+0 30 -1 0
+0 32 0 4
+0 60 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b0 rat-a lco ta1-2-lco ta2-1-rat-a
 0
 7
-0 32 0 4
-0 64 -1 1
-0 60 -1 0
-0 28 0 1
 0 4 1 0
-0 30 -1 0
 0 25 1 3
+0 28 0 1
+0 30 -1 0
+0 32 0 4
+0 60 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b0 rat-a lco ta1-2-lco ta2-2-rat-a
 0
 7
-0 32 0 4
-0 64 -1 1
-0 60 -1 0
-0 28 0 1
 0 5 1 0
-0 30 -1 0
 0 25 1 3
+0 28 0 1
+0 30 -1 0
+0 32 0 4
+0 60 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b0 rat-a lco ta1-3-lco ta2-1-rat-a
 0
 7
-0 32 0 4
-0 64 -1 1
-0 60 -1 0
-0 29 0 1
 0 4 1 0
-0 30 -1 0
 0 25 1 3
+0 29 0 1
+0 30 -1 0
+0 32 0 4
+0 60 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b0 rat-a lco ta1-3-lco ta2-2-rat-a
 0
 7
-0 32 0 4
-0 64 -1 1
-0 60 -1 0
-0 29 0 1
 0 5 1 0
-0 30 -1 0
 0 25 1 3
+0 29 0 1
+0 30 -1 0
+0 32 0 4
+0 60 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b10 rat-a gasoleo ta1-1-gasoleo ta2-1-rat-a
 0
 7
-0 32 2 4
-0 62 -1 1
-0 60 -1 0
-0 22 0 1
 0 4 1 0
-0 26 -1 0
+0 22 0 1
 0 25 1 3
+0 26 -1 0
+0 32 2 4
+0 60 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b10 rat-a gasoleo ta1-1-gasoleo ta2-2-rat-a
 0
 7
-0 32 2 4
-0 62 -1 1
-0 60 -1 0
-0 22 0 1
 0 5 1 0
-0 26 -1 0
+0 22 0 1
 0 25 1 3
+0 26 -1 0
+0 32 2 4
+0 60 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b10 rat-a gasoleo ta1-2-gasoleo ta2-1-rat-a
 0
 7
-0 32 2 4
-0 62 -1 1
-0 60 -1 0
-0 24 0 1
 0 4 1 0
-0 26 -1 0
+0 24 0 1
 0 25 1 3
+0 26 -1 0
+0 32 2 4
+0 60 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b10 rat-a gasoleo ta1-2-gasoleo ta2-2-rat-a
 0
 7
-0 32 2 4
-0 62 -1 1
-0 60 -1 0
-0 24 0 1
 0 5 1 0
-0 26 -1 0
+0 24 0 1
 0 25 1 3
+0 26 -1 0
+0 32 2 4
+0 60 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b11 rat-a gasoleo ta1-1-gasoleo ta2-1-rat-a
 0
 7
-0 32 3 4
-0 61 -1 1
-0 60 -1 0
-0 22 0 1
 0 4 1 0
-0 37 -1 0
+0 22 0 1
 0 25 1 3
+0 32 3 4
+0 37 -1 0
+0 60 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b11 rat-a gasoleo ta1-1-gasoleo ta2-2-rat-a
 0
 7
-0 32 3 4
-0 61 -1 1
-0 60 -1 0
-0 22 0 1
 0 5 1 0
-0 37 -1 0
+0 22 0 1
 0 25 1 3
+0 32 3 4
+0 37 -1 0
+0 60 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b11 rat-a gasoleo ta1-2-gasoleo ta2-1-rat-a
 0
 7
-0 32 3 4
-0 61 -1 1
-0 60 -1 0
-0 24 0 1
 0 4 1 0
-0 37 -1 0
+0 24 0 1
 0 25 1 3
+0 32 3 4
+0 37 -1 0
+0 60 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b11 rat-a gasoleo ta1-2-gasoleo ta2-2-rat-a
 0
 7
-0 32 3 4
-0 61 -1 1
-0 60 -1 0
-0 24 0 1
 0 5 1 0
-0 37 -1 0
+0 24 0 1
 0 25 1 3
+0 32 3 4
+0 37 -1 0
+0 60 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b3 rat-a gasoleo ta1-1-gasoleo ta2-1-rat-a
 0
 7
-0 32 5 4
-0 60 -1 0
-0 59 -1 1
-0 22 0 1
 0 4 1 0
+0 22 0 1
 0 25 1 3
+0 32 5 4
 0 38 -1 0
+0 59 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b3 rat-a gasoleo ta1-1-gasoleo ta2-2-rat-a
 0
 7
-0 32 5 4
-0 60 -1 0
-0 59 -1 1
-0 22 0 1
 0 5 1 0
+0 22 0 1
 0 25 1 3
+0 32 5 4
 0 38 -1 0
+0 59 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b3 rat-a gasoleo ta1-2-gasoleo ta2-1-rat-a
 0
 7
-0 32 5 4
-0 60 -1 0
-0 59 -1 1
-0 24 0 1
 0 4 1 0
+0 24 0 1
 0 25 1 3
+0 32 5 4
 0 38 -1 0
+0 59 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b3 rat-a gasoleo ta1-2-gasoleo ta2-2-rat-a
 0
 7
-0 32 5 4
-0 60 -1 0
-0 59 -1 1
-0 24 0 1
 0 5 1 0
+0 24 0 1
 0 25 1 3
+0 32 5 4
 0 38 -1 0
+0 59 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b4 rat-a lco ta1-1-lco ta2-1-rat-a
 0
 7
-0 32 6 4
-0 60 -1 0
-0 58 -1 1
-0 27 0 1
 0 4 1 0
 0 25 1 3
+0 27 0 1
+0 32 6 4
 0 39 -1 0
+0 58 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b4 rat-a lco ta1-1-lco ta2-2-rat-a
 0
 7
-0 32 6 4
-0 60 -1 0
-0 58 -1 1
-0 27 0 1
 0 5 1 0
 0 25 1 3
+0 27 0 1
+0 32 6 4
 0 39 -1 0
+0 58 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b4 rat-a lco ta1-2-lco ta2-1-rat-a
 0
 7
-0 32 6 4
-0 60 -1 0
-0 58 -1 1
-0 28 0 1
 0 4 1 0
 0 25 1 3
+0 28 0 1
+0 32 6 4
 0 39 -1 0
+0 58 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b4 rat-a lco ta1-2-lco ta2-2-rat-a
 0
 7
-0 32 6 4
-0 60 -1 0
-0 58 -1 1
-0 28 0 1
 0 5 1 0
 0 25 1 3
+0 28 0 1
+0 32 6 4
 0 39 -1 0
+0 58 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b4 rat-a lco ta1-3-lco ta2-1-rat-a
 0
 7
-0 32 6 4
-0 60 -1 0
-0 58 -1 1
-0 29 0 1
 0 4 1 0
 0 25 1 3
+0 29 0 1
+0 32 6 4
 0 39 -1 0
+0 58 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b4 rat-a lco ta1-3-lco ta2-2-rat-a
 0
 7
-0 32 6 4
-0 60 -1 0
-0 58 -1 1
-0 29 0 1
 0 5 1 0
 0 25 1 3
+0 29 0 1
+0 32 6 4
 0 39 -1 0
+0 58 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b5 rat-a rat-a ta1-1-rat-a ta2-1-rat-a
 0
 7
-0 32 7 4
-0 60 -1 0
-0 57 -1 1
-0 19 0 1
 0 4 1 0
+0 19 0 1
 0 25 1 3
+0 32 7 4
 0 35 -1 0
+0 57 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b5 rat-a rat-a ta1-1-rat-a ta2-2-rat-a
 0
 7
-0 32 7 4
-0 60 -1 0
-0 57 -1 1
-0 19 0 1
 0 5 1 0
+0 19 0 1
 0 25 1 3
+0 32 7 4
 0 35 -1 0
+0 57 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b5 rat-a rat-a ta1-2-rat-a ta2-1-rat-a
 0
 7
-0 32 7 4
-0 60 -1 0
-0 57 -1 1
-0 21 0 1
 0 4 1 0
+0 21 0 1
 0 25 1 3
+0 32 7 4
 0 35 -1 0
+0 57 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b5 rat-a rat-a ta1-2-rat-a ta2-2-rat-a
 0
 7
-0 32 7 4
-0 60 -1 0
-0 57 -1 1
-0 21 0 1
 0 5 1 0
+0 21 0 1
 0 25 1 3
+0 32 7 4
 0 35 -1 0
+0 57 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b6 rat-a lco ta1-1-lco ta2-1-rat-a
 0
 7
-0 32 8 4
-0 60 -1 0
-0 56 -1 1
-0 27 0 1
 0 4 1 0
 0 25 1 3
+0 27 0 1
 0 31 -1 0
+0 32 8 4
+0 56 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b6 rat-a lco ta1-1-lco ta2-2-rat-a
 0
 7
-0 32 8 4
-0 60 -1 0
-0 56 -1 1
-0 27 0 1
 0 5 1 0
 0 25 1 3
+0 27 0 1
 0 31 -1 0
+0 32 8 4
+0 56 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b6 rat-a lco ta1-2-lco ta2-1-rat-a
 0
 7
-0 32 8 4
-0 60 -1 0
-0 56 -1 1
-0 28 0 1
 0 4 1 0
 0 25 1 3
+0 28 0 1
 0 31 -1 0
+0 32 8 4
+0 56 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b6 rat-a lco ta1-2-lco ta2-2-rat-a
 0
 7
-0 32 8 4
-0 60 -1 0
-0 56 -1 1
-0 28 0 1
 0 5 1 0
 0 25 1 3
+0 28 0 1
 0 31 -1 0
+0 32 8 4
+0 56 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b6 rat-a lco ta1-3-lco ta2-1-rat-a
 0
 7
-0 32 8 4
-0 60 -1 0
-0 56 -1 1
-0 29 0 1
 0 4 1 0
 0 25 1 3
+0 29 0 1
 0 31 -1 0
+0 32 8 4
+0 56 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b6 rat-a lco ta1-3-lco ta2-2-rat-a
 0
 7
-0 32 8 4
-0 60 -1 0
-0 56 -1 1
-0 29 0 1
 0 5 1 0
 0 25 1 3
+0 29 0 1
 0 31 -1 0
+0 32 8 4
+0 56 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b7 rat-a rat-a ta1-1-rat-a ta2-1-rat-a
 0
 7
-0 32 9 4
-0 60 -1 0
-0 55 -1 1
-0 19 0 1
 0 4 1 0
+0 19 0 1
 0 25 1 3
+0 32 9 4
 0 36 -1 0
+0 55 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b7 rat-a rat-a ta1-1-rat-a ta2-2-rat-a
 0
 7
-0 32 9 4
-0 60 -1 0
-0 55 -1 1
-0 19 0 1
 0 5 1 0
+0 19 0 1
 0 25 1 3
+0 32 9 4
 0 36 -1 0
+0 55 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b7 rat-a rat-a ta1-2-rat-a ta2-1-rat-a
 0
 7
-0 32 9 4
-0 60 -1 0
-0 55 -1 1
-0 21 0 1
 0 4 1 0
+0 21 0 1
 0 25 1 3
+0 32 9 4
 0 36 -1 0
+0 55 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b7 rat-a rat-a ta1-2-rat-a ta2-2-rat-a
 0
 7
-0 32 9 4
-0 60 -1 0
-0 55 -1 1
-0 21 0 1
 0 5 1 0
+0 21 0 1
 0 25 1 3
+0 32 9 4
 0 36 -1 0
+0 55 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b9 rat-a lco ta1-1-lco ta2-1-rat-a
 0
 7
-0 32 11 4
-0 60 -1 0
-0 53 -1 1
-0 27 0 1
 0 4 1 0
 0 25 1 3
+0 27 0 1
+0 32 11 4
 0 40 -1 0
+0 53 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b9 rat-a lco ta1-1-lco ta2-2-rat-a
 0
 7
-0 32 11 4
-0 60 -1 0
-0 53 -1 1
-0 27 0 1
 0 5 1 0
 0 25 1 3
+0 27 0 1
+0 32 11 4
 0 40 -1 0
+0 53 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b9 rat-a lco ta1-2-lco ta2-1-rat-a
 0
 7
-0 32 11 4
-0 60 -1 0
-0 53 -1 1
-0 28 0 1
 0 4 1 0
 0 25 1 3
+0 28 0 1
+0 32 11 4
 0 40 -1 0
+0 53 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b9 rat-a lco ta1-2-lco ta2-2-rat-a
 0
 7
-0 32 11 4
-0 60 -1 0
-0 53 -1 1
-0 28 0 1
 0 5 1 0
 0 25 1 3
+0 28 0 1
+0 32 11 4
 0 40 -1 0
+0 53 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b9 rat-a lco ta1-3-lco ta2-1-rat-a
 0
 7
-0 32 11 4
-0 60 -1 0
-0 53 -1 1
-0 29 0 1
 0 4 1 0
 0 25 1 3
+0 29 0 1
+0 32 11 4
 0 40 -1 0
+0 53 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b2 a1 a2 b9 rat-a lco ta1-3-lco ta2-2-rat-a
 0
 7
-0 32 11 4
-0 60 -1 0
-0 53 -1 1
-0 29 0 1
 0 5 1 0
 0 25 1 3
+0 29 0 1
+0 32 11 4
 0 40 -1 0
+0 53 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b0 gasoleo lco ta1-1-lco ta2-1-gasoleo
 0
 7
-0 32 0 5
-0 64 -1 1
-0 59 -1 0
-0 27 0 1
 0 9 1 0
+0 27 0 1
 0 30 -1 0
+0 32 0 5
 0 38 1 3
+0 59 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b0 gasoleo lco ta1-1-lco ta2-2-gasoleo
 0
 7
-0 32 0 5
-0 64 -1 1
-0 59 -1 0
-0 27 0 1
 0 11 1 0
+0 27 0 1
 0 30 -1 0
+0 32 0 5
 0 38 1 3
+0 59 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b0 gasoleo lco ta1-2-lco ta2-1-gasoleo
 0
 7
-0 32 0 5
-0 64 -1 1
-0 59 -1 0
-0 28 0 1
 0 9 1 0
+0 28 0 1
 0 30 -1 0
+0 32 0 5
 0 38 1 3
+0 59 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b0 gasoleo lco ta1-2-lco ta2-2-gasoleo
 0
 7
-0 32 0 5
-0 64 -1 1
-0 59 -1 0
-0 28 0 1
 0 11 1 0
+0 28 0 1
 0 30 -1 0
+0 32 0 5
 0 38 1 3
+0 59 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b0 gasoleo lco ta1-3-lco ta2-1-gasoleo
 0
 7
-0 32 0 5
-0 64 -1 1
-0 59 -1 0
-0 29 0 1
 0 9 1 0
+0 29 0 1
 0 30 -1 0
+0 32 0 5
 0 38 1 3
+0 59 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b0 gasoleo lco ta1-3-lco ta2-2-gasoleo
 0
 7
-0 32 0 5
-0 64 -1 1
-0 59 -1 0
-0 29 0 1
 0 11 1 0
+0 29 0 1
 0 30 -1 0
+0 32 0 5
 0 38 1 3
+0 59 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b1 gasoleo oc1b ta1-1-oc1b ta2-1-gasoleo
 0
 7
-0 32 1 5
-0 63 -1 1
-0 59 -1 0
 0 8 0 1
 0 9 1 0
+0 32 1 5
 0 34 -1 0
 0 38 1 3
+0 59 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b1 gasoleo oc1b ta1-1-oc1b ta2-2-gasoleo
 0
 7
-0 32 1 5
-0 63 -1 1
-0 59 -1 0
 0 8 0 1
 0 11 1 0
+0 32 1 5
 0 34 -1 0
 0 38 1 3
+0 59 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b1 gasoleo oc1b ta1-2-oc1b ta2-1-gasoleo
 0
 7
-0 32 1 5
-0 63 -1 1
-0 59 -1 0
-0 10 0 1
 0 9 1 0
+0 10 0 1
+0 32 1 5
 0 34 -1 0
 0 38 1 3
+0 59 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b1 gasoleo oc1b ta1-2-oc1b ta2-2-gasoleo
 0
 7
-0 32 1 5
-0 63 -1 1
-0 59 -1 0
 0 10 0 1
 0 11 1 0
+0 32 1 5
 0 34 -1 0
 0 38 1 3
+0 59 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b10 gasoleo gasoleo ta1-1-gasoleo ta2-1-gasoleo
 0
 7
-0 32 2 5
-0 62 -1 1
-0 59 -1 0
-0 22 0 1
 0 9 1 0
+0 22 0 1
 0 26 -1 0
+0 32 2 5
 0 38 1 3
+0 59 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b10 gasoleo gasoleo ta1-1-gasoleo ta2-2-gasoleo
 0
 7
-0 32 2 5
-0 62 -1 1
-0 59 -1 0
-0 22 0 1
 0 11 1 0
+0 22 0 1
 0 26 -1 0
+0 32 2 5
 0 38 1 3
+0 59 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b10 gasoleo gasoleo ta1-2-gasoleo ta2-1-gasoleo
 0
 7
-0 32 2 5
-0 62 -1 1
-0 59 -1 0
-0 24 0 1
 0 9 1 0
+0 24 0 1
 0 26 -1 0
+0 32 2 5
 0 38 1 3
+0 59 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b10 gasoleo gasoleo ta1-2-gasoleo ta2-2-gasoleo
 0
 7
-0 32 2 5
-0 62 -1 1
-0 59 -1 0
-0 24 0 1
 0 11 1 0
+0 24 0 1
 0 26 -1 0
+0 32 2 5
 0 38 1 3
+0 59 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b11 gasoleo gasoleo ta1-1-gasoleo ta2-1-gasoleo
 0
 7
-0 32 3 5
-0 61 -1 1
-0 59 -1 0
-0 22 0 1
 0 9 1 0
+0 22 0 1
+0 32 3 5
 0 37 -1 0
 0 38 1 3
+0 59 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b11 gasoleo gasoleo ta1-1-gasoleo ta2-2-gasoleo
 0
 7
-0 32 3 5
-0 61 -1 1
-0 59 -1 0
-0 22 0 1
 0 11 1 0
+0 22 0 1
+0 32 3 5
 0 37 -1 0
 0 38 1 3
+0 59 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b11 gasoleo gasoleo ta1-2-gasoleo ta2-1-gasoleo
 0
 7
-0 32 3 5
-0 61 -1 1
-0 59 -1 0
-0 24 0 1
 0 9 1 0
+0 24 0 1
+0 32 3 5
 0 37 -1 0
 0 38 1 3
+0 59 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b11 gasoleo gasoleo ta1-2-gasoleo ta2-2-gasoleo
 0
 7
-0 32 3 5
-0 61 -1 1
-0 59 -1 0
-0 24 0 1
 0 11 1 0
+0 24 0 1
+0 32 3 5
 0 37 -1 0
 0 38 1 3
+0 59 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b2 gasoleo rat-a ta1-1-rat-a ta2-1-gasoleo
 0
 7
-0 32 4 5
-0 60 -1 1
-0 59 -1 0
-0 19 0 1
 0 9 1 0
+0 19 0 1
 0 25 -1 0
+0 32 4 5
 0 38 1 3
+0 59 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b2 gasoleo rat-a ta1-1-rat-a ta2-2-gasoleo
 0
 7
-0 32 4 5
-0 60 -1 1
-0 59 -1 0
-0 19 0 1
 0 11 1 0
+0 19 0 1
 0 25 -1 0
+0 32 4 5
 0 38 1 3
+0 59 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b2 gasoleo rat-a ta1-2-rat-a ta2-1-gasoleo
 0
 7
-0 32 4 5
-0 60 -1 1
-0 59 -1 0
-0 21 0 1
 0 9 1 0
+0 21 0 1
 0 25 -1 0
+0 32 4 5
 0 38 1 3
+0 59 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b2 gasoleo rat-a ta1-2-rat-a ta2-2-gasoleo
 0
 7
-0 32 4 5
-0 60 -1 1
-0 59 -1 0
-0 21 0 1
 0 11 1 0
+0 21 0 1
 0 25 -1 0
+0 32 4 5
 0 38 1 3
+0 59 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b4 gasoleo lco ta1-1-lco ta2-1-gasoleo
 0
 7
-0 32 6 5
-0 59 -1 0
-0 58 -1 1
-0 27 0 1
 0 9 1 0
+0 27 0 1
+0 32 6 5
 0 38 1 3
 0 39 -1 0
+0 58 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b4 gasoleo lco ta1-1-lco ta2-2-gasoleo
 0
 7
-0 32 6 5
-0 59 -1 0
-0 58 -1 1
-0 27 0 1
 0 11 1 0
+0 27 0 1
+0 32 6 5
 0 38 1 3
 0 39 -1 0
+0 58 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b4 gasoleo lco ta1-2-lco ta2-1-gasoleo
 0
 7
-0 32 6 5
-0 59 -1 0
-0 58 -1 1
-0 28 0 1
 0 9 1 0
+0 28 0 1
+0 32 6 5
 0 38 1 3
 0 39 -1 0
+0 58 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b4 gasoleo lco ta1-2-lco ta2-2-gasoleo
 0
 7
-0 32 6 5
-0 59 -1 0
-0 58 -1 1
-0 28 0 1
 0 11 1 0
+0 28 0 1
+0 32 6 5
 0 38 1 3
 0 39 -1 0
+0 58 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b4 gasoleo lco ta1-3-lco ta2-1-gasoleo
 0
 7
-0 32 6 5
-0 59 -1 0
-0 58 -1 1
-0 29 0 1
 0 9 1 0
+0 29 0 1
+0 32 6 5
 0 38 1 3
 0 39 -1 0
+0 58 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b4 gasoleo lco ta1-3-lco ta2-2-gasoleo
 0
 7
-0 32 6 5
-0 59 -1 0
-0 58 -1 1
-0 29 0 1
 0 11 1 0
+0 29 0 1
+0 32 6 5
 0 38 1 3
 0 39 -1 0
+0 58 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b5 gasoleo rat-a ta1-1-rat-a ta2-1-gasoleo
 0
 7
-0 32 7 5
-0 59 -1 0
-0 57 -1 1
-0 19 0 1
 0 9 1 0
-0 38 1 3
+0 19 0 1
+0 32 7 5
 0 35 -1 0
+0 38 1 3
+0 57 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b5 gasoleo rat-a ta1-1-rat-a ta2-2-gasoleo
 0
 7
-0 32 7 5
-0 59 -1 0
-0 57 -1 1
-0 19 0 1
 0 11 1 0
-0 38 1 3
+0 19 0 1
+0 32 7 5
 0 35 -1 0
+0 38 1 3
+0 57 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b5 gasoleo rat-a ta1-2-rat-a ta2-1-gasoleo
 0
 7
-0 32 7 5
-0 59 -1 0
-0 57 -1 1
-0 21 0 1
 0 9 1 0
-0 38 1 3
+0 21 0 1
+0 32 7 5
 0 35 -1 0
+0 38 1 3
+0 57 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b5 gasoleo rat-a ta1-2-rat-a ta2-2-gasoleo
 0
 7
-0 32 7 5
-0 59 -1 0
-0 57 -1 1
-0 21 0 1
 0 11 1 0
-0 38 1 3
+0 21 0 1
+0 32 7 5
 0 35 -1 0
+0 38 1 3
+0 57 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b6 gasoleo lco ta1-1-lco ta2-1-gasoleo
 0
 7
-0 32 8 5
-0 59 -1 0
-0 56 -1 1
-0 27 0 1
 0 9 1 0
-0 38 1 3
+0 27 0 1
 0 31 -1 0
+0 32 8 5
+0 38 1 3
+0 56 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b6 gasoleo lco ta1-1-lco ta2-2-gasoleo
 0
 7
-0 32 8 5
-0 59 -1 0
-0 56 -1 1
-0 27 0 1
 0 11 1 0
-0 38 1 3
+0 27 0 1
 0 31 -1 0
+0 32 8 5
+0 38 1 3
+0 56 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b6 gasoleo lco ta1-2-lco ta2-1-gasoleo
 0
 7
-0 32 8 5
-0 59 -1 0
-0 56 -1 1
-0 28 0 1
 0 9 1 0
-0 38 1 3
+0 28 0 1
 0 31 -1 0
+0 32 8 5
+0 38 1 3
+0 56 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b6 gasoleo lco ta1-2-lco ta2-2-gasoleo
 0
 7
-0 32 8 5
-0 59 -1 0
-0 56 -1 1
-0 28 0 1
 0 11 1 0
-0 38 1 3
+0 28 0 1
 0 31 -1 0
+0 32 8 5
+0 38 1 3
+0 56 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b6 gasoleo lco ta1-3-lco ta2-1-gasoleo
 0
 7
-0 32 8 5
-0 59 -1 0
-0 56 -1 1
-0 29 0 1
 0 9 1 0
-0 38 1 3
+0 29 0 1
 0 31 -1 0
+0 32 8 5
+0 38 1 3
+0 56 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b6 gasoleo lco ta1-3-lco ta2-2-gasoleo
 0
 7
-0 32 8 5
-0 59 -1 0
-0 56 -1 1
-0 29 0 1
 0 11 1 0
-0 38 1 3
+0 29 0 1
 0 31 -1 0
+0 32 8 5
+0 38 1 3
+0 56 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b7 gasoleo rat-a ta1-1-rat-a ta2-1-gasoleo
 0
 7
-0 32 9 5
-0 59 -1 0
-0 55 -1 1
-0 19 0 1
 0 9 1 0
-0 38 1 3
+0 19 0 1
+0 32 9 5
 0 36 -1 0
+0 38 1 3
+0 55 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b7 gasoleo rat-a ta1-1-rat-a ta2-2-gasoleo
 0
 7
-0 32 9 5
-0 59 -1 0
-0 55 -1 1
-0 19 0 1
 0 11 1 0
-0 38 1 3
+0 19 0 1
+0 32 9 5
 0 36 -1 0
+0 38 1 3
+0 55 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b7 gasoleo rat-a ta1-2-rat-a ta2-1-gasoleo
 0
 7
-0 32 9 5
-0 59 -1 0
-0 55 -1 1
-0 21 0 1
 0 9 1 0
-0 38 1 3
+0 21 0 1
+0 32 9 5
 0 36 -1 0
+0 38 1 3
+0 55 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b7 gasoleo rat-a ta1-2-rat-a ta2-2-gasoleo
 0
 7
-0 32 9 5
-0 59 -1 0
-0 55 -1 1
-0 21 0 1
 0 11 1 0
-0 38 1 3
+0 21 0 1
+0 32 9 5
 0 36 -1 0
+0 38 1 3
+0 55 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b8 gasoleo oc1b ta1-1-oc1b ta2-1-gasoleo
 0
 7
-0 32 10 5
-0 59 -1 0
-0 54 -1 1
 0 8 0 1
 0 9 1 0
-0 38 1 3
 0 23 -1 0
+0 32 10 5
+0 38 1 3
+0 54 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b8 gasoleo oc1b ta1-1-oc1b ta2-2-gasoleo
 0
 7
-0 32 10 5
-0 59 -1 0
-0 54 -1 1
 0 8 0 1
 0 11 1 0
-0 38 1 3
 0 23 -1 0
+0 32 10 5
+0 38 1 3
+0 54 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b8 gasoleo oc1b ta1-2-oc1b ta2-1-gasoleo
 0
 7
-0 32 10 5
-0 59 -1 0
-0 54 -1 1
-0 10 0 1
 0 9 1 0
-0 38 1 3
+0 10 0 1
 0 23 -1 0
+0 32 10 5
+0 38 1 3
+0 54 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b8 gasoleo oc1b ta1-2-oc1b ta2-2-gasoleo
 0
 7
-0 32 10 5
-0 59 -1 0
-0 54 -1 1
 0 10 0 1
 0 11 1 0
-0 38 1 3
 0 23 -1 0
+0 32 10 5
+0 38 1 3
+0 54 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b9 gasoleo lco ta1-1-lco ta2-1-gasoleo
 0
 7
-0 32 11 5
-0 59 -1 0
-0 53 -1 1
-0 27 0 1
 0 9 1 0
+0 27 0 1
+0 32 11 5
 0 38 1 3
 0 40 -1 0
+0 53 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b9 gasoleo lco ta1-1-lco ta2-2-gasoleo
 0
 7
-0 32 11 5
-0 59 -1 0
-0 53 -1 1
-0 27 0 1
 0 11 1 0
+0 27 0 1
+0 32 11 5
 0 38 1 3
 0 40 -1 0
+0 53 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b9 gasoleo lco ta1-2-lco ta2-1-gasoleo
 0
 7
-0 32 11 5
-0 59 -1 0
-0 53 -1 1
-0 28 0 1
 0 9 1 0
+0 28 0 1
+0 32 11 5
 0 38 1 3
 0 40 -1 0
+0 53 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b9 gasoleo lco ta1-2-lco ta2-2-gasoleo
 0
 7
-0 32 11 5
-0 59 -1 0
-0 53 -1 1
-0 28 0 1
 0 11 1 0
+0 28 0 1
+0 32 11 5
 0 38 1 3
 0 40 -1 0
+0 53 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b9 gasoleo lco ta1-3-lco ta2-1-gasoleo
 0
 7
-0 32 11 5
-0 59 -1 0
-0 53 -1 1
-0 29 0 1
 0 9 1 0
+0 29 0 1
+0 32 11 5
 0 38 1 3
 0 40 -1 0
+0 53 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b3 a1 a2 b9 gasoleo lco ta1-3-lco ta2-2-gasoleo
 0
 7
-0 32 11 5
-0 59 -1 0
-0 53 -1 1
-0 29 0 1
 0 11 1 0
+0 29 0 1
+0 32 11 5
 0 38 1 3
 0 40 -1 0
+0 53 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b0 lco lco ta1-1-lco ta2-1-lco
 0
 7
-0 32 0 6
-0 64 -1 1
-0 58 -1 0
-0 27 0 1
 0 14 1 0
+0 27 0 1
 0 30 -1 0
+0 32 0 6
 0 39 1 3
+0 58 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b0 lco lco ta1-1-lco ta2-2-lco
 0
 7
-0 32 0 6
-0 64 -1 1
-0 58 -1 0
-0 27 0 1
 0 15 1 0
+0 27 0 1
 0 30 -1 0
+0 32 0 6
 0 39 1 3
+0 58 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b0 lco lco ta1-1-lco ta2-3-lco
 0
 7
-0 32 0 6
-0 64 -1 1
-0 58 -1 0
-0 27 0 1
 0 16 1 0
+0 27 0 1
 0 30 -1 0
+0 32 0 6
 0 39 1 3
+0 58 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b0 lco lco ta1-2-lco ta2-1-lco
 0
 7
-0 32 0 6
-0 64 -1 1
-0 58 -1 0
-0 28 0 1
 0 14 1 0
+0 28 0 1
 0 30 -1 0
+0 32 0 6
 0 39 1 3
+0 58 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b0 lco lco ta1-2-lco ta2-2-lco
 0
 7
-0 32 0 6
-0 64 -1 1
-0 58 -1 0
-0 28 0 1
 0 15 1 0
+0 28 0 1
 0 30 -1 0
+0 32 0 6
 0 39 1 3
+0 58 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b0 lco lco ta1-2-lco ta2-3-lco
 0
 7
-0 32 0 6
-0 64 -1 1
-0 58 -1 0
-0 28 0 1
 0 16 1 0
+0 28 0 1
 0 30 -1 0
+0 32 0 6
 0 39 1 3
+0 58 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b0 lco lco ta1-3-lco ta2-1-lco
 0
 7
-0 32 0 6
-0 64 -1 1
-0 58 -1 0
-0 29 0 1
 0 14 1 0
+0 29 0 1
 0 30 -1 0
+0 32 0 6
 0 39 1 3
+0 58 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b0 lco lco ta1-3-lco ta2-2-lco
 0
 7
-0 32 0 6
-0 64 -1 1
-0 58 -1 0
-0 29 0 1
 0 15 1 0
+0 29 0 1
 0 30 -1 0
+0 32 0 6
 0 39 1 3
+0 58 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b0 lco lco ta1-3-lco ta2-3-lco
 0
 7
-0 32 0 6
-0 64 -1 1
-0 58 -1 0
-0 29 0 1
 0 16 1 0
+0 29 0 1
 0 30 -1 0
+0 32 0 6
 0 39 1 3
+0 58 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b1 lco oc1b ta1-1-oc1b ta2-1-lco
 0
 7
-0 32 1 6
-0 63 -1 1
-0 58 -1 0
 0 8 0 1
 0 14 1 0
+0 32 1 6
 0 34 -1 0
 0 39 1 3
+0 58 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b1 lco oc1b ta1-1-oc1b ta2-2-lco
 0
 7
-0 32 1 6
-0 63 -1 1
-0 58 -1 0
 0 8 0 1
 0 15 1 0
+0 32 1 6
 0 34 -1 0
 0 39 1 3
+0 58 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b1 lco oc1b ta1-1-oc1b ta2-3-lco
 0
 7
-0 32 1 6
-0 63 -1 1
-0 58 -1 0
 0 8 0 1
 0 16 1 0
+0 32 1 6
 0 34 -1 0
 0 39 1 3
+0 58 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b1 lco oc1b ta1-2-oc1b ta2-1-lco
 0
 7
-0 32 1 6
-0 63 -1 1
-0 58 -1 0
 0 10 0 1
 0 14 1 0
+0 32 1 6
 0 34 -1 0
 0 39 1 3
+0 58 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b1 lco oc1b ta1-2-oc1b ta2-2-lco
 0
 7
-0 32 1 6
-0 63 -1 1
-0 58 -1 0
 0 10 0 1
 0 15 1 0
+0 32 1 6
 0 34 -1 0
 0 39 1 3
+0 58 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b1 lco oc1b ta1-2-oc1b ta2-3-lco
 0
 7
-0 32 1 6
-0 63 -1 1
-0 58 -1 0
 0 10 0 1
 0 16 1 0
+0 32 1 6
 0 34 -1 0
 0 39 1 3
+0 58 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b10 lco gasoleo ta1-1-gasoleo ta2-1-lco
 0
 7
-0 32 2 6
-0 62 -1 1
-0 58 -1 0
-0 22 0 1
 0 14 1 0
+0 22 0 1
 0 26 -1 0
+0 32 2 6
 0 39 1 3
+0 58 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b10 lco gasoleo ta1-1-gasoleo ta2-2-lco
 0
 7
-0 32 2 6
-0 62 -1 1
-0 58 -1 0
-0 22 0 1
 0 15 1 0
+0 22 0 1
 0 26 -1 0
+0 32 2 6
 0 39 1 3
+0 58 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b10 lco gasoleo ta1-1-gasoleo ta2-3-lco
 0
 7
-0 32 2 6
-0 62 -1 1
-0 58 -1 0
-0 22 0 1
 0 16 1 0
+0 22 0 1
 0 26 -1 0
+0 32 2 6
 0 39 1 3
+0 58 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b10 lco gasoleo ta1-2-gasoleo ta2-1-lco
 0
 7
-0 32 2 6
-0 62 -1 1
-0 58 -1 0
-0 24 0 1
 0 14 1 0
+0 24 0 1
 0 26 -1 0
+0 32 2 6
 0 39 1 3
+0 58 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b10 lco gasoleo ta1-2-gasoleo ta2-2-lco
 0
 7
-0 32 2 6
-0 62 -1 1
-0 58 -1 0
-0 24 0 1
 0 15 1 0
+0 24 0 1
 0 26 -1 0
+0 32 2 6
 0 39 1 3
+0 58 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b10 lco gasoleo ta1-2-gasoleo ta2-3-lco
 0
 7
-0 32 2 6
-0 62 -1 1
-0 58 -1 0
-0 24 0 1
 0 16 1 0
+0 24 0 1
 0 26 -1 0
+0 32 2 6
 0 39 1 3
+0 58 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b11 lco gasoleo ta1-1-gasoleo ta2-1-lco
 0
 7
-0 32 3 6
-0 61 -1 1
-0 58 -1 0
-0 22 0 1
 0 14 1 0
+0 22 0 1
+0 32 3 6
 0 37 -1 0
 0 39 1 3
+0 58 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b11 lco gasoleo ta1-1-gasoleo ta2-2-lco
 0
 7
-0 32 3 6
-0 61 -1 1
-0 58 -1 0
-0 22 0 1
 0 15 1 0
+0 22 0 1
+0 32 3 6
 0 37 -1 0
 0 39 1 3
+0 58 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b11 lco gasoleo ta1-1-gasoleo ta2-3-lco
 0
 7
-0 32 3 6
-0 61 -1 1
-0 58 -1 0
-0 22 0 1
 0 16 1 0
+0 22 0 1
+0 32 3 6
 0 37 -1 0
 0 39 1 3
+0 58 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b11 lco gasoleo ta1-2-gasoleo ta2-1-lco
 0
 7
-0 32 3 6
-0 61 -1 1
-0 58 -1 0
-0 24 0 1
 0 14 1 0
+0 24 0 1
+0 32 3 6
 0 37 -1 0
 0 39 1 3
+0 58 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b11 lco gasoleo ta1-2-gasoleo ta2-2-lco
 0
 7
-0 32 3 6
-0 61 -1 1
-0 58 -1 0
-0 24 0 1
 0 15 1 0
+0 24 0 1
+0 32 3 6
 0 37 -1 0
 0 39 1 3
+0 58 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b11 lco gasoleo ta1-2-gasoleo ta2-3-lco
 0
 7
-0 32 3 6
-0 61 -1 1
-0 58 -1 0
-0 24 0 1
 0 16 1 0
+0 24 0 1
+0 32 3 6
 0 37 -1 0
 0 39 1 3
+0 58 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b2 lco rat-a ta1-1-rat-a ta2-1-lco
 0
 7
-0 32 4 6
-0 60 -1 1
-0 58 -1 0
-0 19 0 1
 0 14 1 0
+0 19 0 1
 0 25 -1 0
+0 32 4 6
 0 39 1 3
+0 58 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b2 lco rat-a ta1-1-rat-a ta2-2-lco
 0
 7
-0 32 4 6
-0 60 -1 1
-0 58 -1 0
-0 19 0 1
 0 15 1 0
+0 19 0 1
 0 25 -1 0
+0 32 4 6
 0 39 1 3
+0 58 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b2 lco rat-a ta1-1-rat-a ta2-3-lco
 0
 7
-0 32 4 6
-0 60 -1 1
-0 58 -1 0
-0 19 0 1
 0 16 1 0
+0 19 0 1
 0 25 -1 0
+0 32 4 6
 0 39 1 3
+0 58 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b2 lco rat-a ta1-2-rat-a ta2-1-lco
 0
 7
-0 32 4 6
-0 60 -1 1
-0 58 -1 0
-0 21 0 1
 0 14 1 0
+0 21 0 1
 0 25 -1 0
+0 32 4 6
 0 39 1 3
+0 58 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b2 lco rat-a ta1-2-rat-a ta2-2-lco
 0
 7
-0 32 4 6
-0 60 -1 1
-0 58 -1 0
-0 21 0 1
 0 15 1 0
+0 21 0 1
 0 25 -1 0
+0 32 4 6
 0 39 1 3
+0 58 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b2 lco rat-a ta1-2-rat-a ta2-3-lco
 0
 7
-0 32 4 6
-0 60 -1 1
-0 58 -1 0
-0 21 0 1
 0 16 1 0
+0 21 0 1
 0 25 -1 0
+0 32 4 6
 0 39 1 3
+0 58 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b3 lco gasoleo ta1-1-gasoleo ta2-1-lco
 0
 7
-0 32 5 6
-0 59 -1 1
-0 58 -1 0
-0 22 0 1
 0 14 1 0
+0 22 0 1
+0 32 5 6
 0 38 -1 0
 0 39 1 3
+0 58 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b3 lco gasoleo ta1-1-gasoleo ta2-2-lco
 0
 7
-0 32 5 6
-0 59 -1 1
-0 58 -1 0
-0 22 0 1
 0 15 1 0
+0 22 0 1
+0 32 5 6
 0 38 -1 0
 0 39 1 3
+0 58 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b3 lco gasoleo ta1-1-gasoleo ta2-3-lco
 0
 7
-0 32 5 6
-0 59 -1 1
-0 58 -1 0
-0 22 0 1
 0 16 1 0
+0 22 0 1
+0 32 5 6
 0 38 -1 0
 0 39 1 3
+0 58 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b3 lco gasoleo ta1-2-gasoleo ta2-1-lco
 0
 7
-0 32 5 6
-0 59 -1 1
-0 58 -1 0
-0 24 0 1
 0 14 1 0
+0 24 0 1
+0 32 5 6
 0 38 -1 0
 0 39 1 3
+0 58 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b3 lco gasoleo ta1-2-gasoleo ta2-2-lco
 0
 7
-0 32 5 6
-0 59 -1 1
-0 58 -1 0
-0 24 0 1
 0 15 1 0
+0 24 0 1
+0 32 5 6
 0 38 -1 0
 0 39 1 3
+0 58 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b3 lco gasoleo ta1-2-gasoleo ta2-3-lco
 0
 7
-0 32 5 6
-0 59 -1 1
-0 58 -1 0
-0 24 0 1
 0 16 1 0
+0 24 0 1
+0 32 5 6
 0 38 -1 0
 0 39 1 3
+0 58 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b5 lco rat-a ta1-1-rat-a ta2-1-lco
 0
 7
-0 32 7 6
-0 58 -1 0
-0 57 -1 1
-0 19 0 1
 0 14 1 0
-0 39 1 3
+0 19 0 1
+0 32 7 6
 0 35 -1 0
+0 39 1 3
+0 57 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b5 lco rat-a ta1-1-rat-a ta2-2-lco
 0
 7
-0 32 7 6
-0 58 -1 0
-0 57 -1 1
-0 19 0 1
 0 15 1 0
-0 39 1 3
+0 19 0 1
+0 32 7 6
 0 35 -1 0
+0 39 1 3
+0 57 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b5 lco rat-a ta1-1-rat-a ta2-3-lco
 0
 7
-0 32 7 6
-0 58 -1 0
-0 57 -1 1
-0 19 0 1
 0 16 1 0
-0 39 1 3
+0 19 0 1
+0 32 7 6
 0 35 -1 0
+0 39 1 3
+0 57 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b5 lco rat-a ta1-2-rat-a ta2-1-lco
 0
 7
-0 32 7 6
-0 58 -1 0
-0 57 -1 1
-0 21 0 1
 0 14 1 0
-0 39 1 3
+0 21 0 1
+0 32 7 6
 0 35 -1 0
+0 39 1 3
+0 57 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b5 lco rat-a ta1-2-rat-a ta2-2-lco
 0
 7
-0 32 7 6
-0 58 -1 0
-0 57 -1 1
-0 21 0 1
 0 15 1 0
-0 39 1 3
+0 21 0 1
+0 32 7 6
 0 35 -1 0
+0 39 1 3
+0 57 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b5 lco rat-a ta1-2-rat-a ta2-3-lco
 0
 7
-0 32 7 6
-0 58 -1 0
-0 57 -1 1
-0 21 0 1
 0 16 1 0
-0 39 1 3
+0 21 0 1
+0 32 7 6
 0 35 -1 0
+0 39 1 3
+0 57 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b6 lco lco ta1-1-lco ta2-1-lco
 0
 7
-0 32 8 6
-0 58 -1 0
-0 56 -1 1
-0 27 0 1
 0 14 1 0
-0 39 1 3
+0 27 0 1
 0 31 -1 0
+0 32 8 6
+0 39 1 3
+0 56 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b6 lco lco ta1-1-lco ta2-2-lco
 0
 7
-0 32 8 6
-0 58 -1 0
-0 56 -1 1
-0 27 0 1
 0 15 1 0
-0 39 1 3
+0 27 0 1
 0 31 -1 0
+0 32 8 6
+0 39 1 3
+0 56 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b6 lco lco ta1-1-lco ta2-3-lco
 0
 7
-0 32 8 6
-0 58 -1 0
-0 56 -1 1
-0 27 0 1
 0 16 1 0
-0 39 1 3
+0 27 0 1
 0 31 -1 0
+0 32 8 6
+0 39 1 3
+0 56 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b6 lco lco ta1-2-lco ta2-1-lco
 0
 7
-0 32 8 6
-0 58 -1 0
-0 56 -1 1
-0 28 0 1
 0 14 1 0
-0 39 1 3
+0 28 0 1
 0 31 -1 0
+0 32 8 6
+0 39 1 3
+0 56 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b6 lco lco ta1-2-lco ta2-2-lco
 0
 7
-0 32 8 6
-0 58 -1 0
-0 56 -1 1
-0 28 0 1
 0 15 1 0
-0 39 1 3
+0 28 0 1
 0 31 -1 0
+0 32 8 6
+0 39 1 3
+0 56 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b6 lco lco ta1-2-lco ta2-3-lco
 0
 7
-0 32 8 6
-0 58 -1 0
-0 56 -1 1
-0 28 0 1
 0 16 1 0
-0 39 1 3
+0 28 0 1
 0 31 -1 0
+0 32 8 6
+0 39 1 3
+0 56 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b6 lco lco ta1-3-lco ta2-1-lco
 0
 7
-0 32 8 6
-0 58 -1 0
-0 56 -1 1
-0 29 0 1
 0 14 1 0
-0 39 1 3
+0 29 0 1
 0 31 -1 0
+0 32 8 6
+0 39 1 3
+0 56 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b6 lco lco ta1-3-lco ta2-2-lco
 0
 7
-0 32 8 6
-0 58 -1 0
-0 56 -1 1
-0 29 0 1
 0 15 1 0
-0 39 1 3
+0 29 0 1
 0 31 -1 0
+0 32 8 6
+0 39 1 3
+0 56 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b6 lco lco ta1-3-lco ta2-3-lco
 0
 7
-0 32 8 6
-0 58 -1 0
-0 56 -1 1
-0 29 0 1
 0 16 1 0
-0 39 1 3
+0 29 0 1
 0 31 -1 0
+0 32 8 6
+0 39 1 3
+0 56 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b7 lco rat-a ta1-1-rat-a ta2-1-lco
 0
 7
-0 32 9 6
-0 58 -1 0
-0 55 -1 1
-0 19 0 1
 0 14 1 0
-0 39 1 3
+0 19 0 1
+0 32 9 6
 0 36 -1 0
+0 39 1 3
+0 55 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b7 lco rat-a ta1-1-rat-a ta2-2-lco
 0
 7
-0 32 9 6
-0 58 -1 0
-0 55 -1 1
-0 19 0 1
 0 15 1 0
-0 39 1 3
+0 19 0 1
+0 32 9 6
 0 36 -1 0
+0 39 1 3
+0 55 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b7 lco rat-a ta1-1-rat-a ta2-3-lco
 0
 7
-0 32 9 6
-0 58 -1 0
-0 55 -1 1
-0 19 0 1
 0 16 1 0
-0 39 1 3
+0 19 0 1
+0 32 9 6
 0 36 -1 0
+0 39 1 3
+0 55 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b7 lco rat-a ta1-2-rat-a ta2-1-lco
 0
 7
-0 32 9 6
-0 58 -1 0
-0 55 -1 1
-0 21 0 1
 0 14 1 0
-0 39 1 3
+0 21 0 1
+0 32 9 6
 0 36 -1 0
+0 39 1 3
+0 55 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b7 lco rat-a ta1-2-rat-a ta2-2-lco
 0
 7
-0 32 9 6
-0 58 -1 0
-0 55 -1 1
-0 21 0 1
 0 15 1 0
-0 39 1 3
+0 21 0 1
+0 32 9 6
 0 36 -1 0
+0 39 1 3
+0 55 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b7 lco rat-a ta1-2-rat-a ta2-3-lco
 0
 7
-0 32 9 6
-0 58 -1 0
-0 55 -1 1
-0 21 0 1
 0 16 1 0
-0 39 1 3
+0 21 0 1
+0 32 9 6
 0 36 -1 0
+0 39 1 3
+0 55 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b8 lco oc1b ta1-1-oc1b ta2-1-lco
 0
 7
-0 32 10 6
-0 58 -1 0
-0 54 -1 1
 0 8 0 1
 0 14 1 0
-0 39 1 3
 0 23 -1 0
+0 32 10 6
+0 39 1 3
+0 54 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b8 lco oc1b ta1-1-oc1b ta2-2-lco
 0
 7
-0 32 10 6
-0 58 -1 0
-0 54 -1 1
 0 8 0 1
 0 15 1 0
-0 39 1 3
 0 23 -1 0
+0 32 10 6
+0 39 1 3
+0 54 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b8 lco oc1b ta1-1-oc1b ta2-3-lco
 0
 7
-0 32 10 6
-0 58 -1 0
-0 54 -1 1
 0 8 0 1
 0 16 1 0
-0 39 1 3
 0 23 -1 0
+0 32 10 6
+0 39 1 3
+0 54 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b8 lco oc1b ta1-2-oc1b ta2-1-lco
 0
 7
-0 32 10 6
-0 58 -1 0
-0 54 -1 1
 0 10 0 1
 0 14 1 0
-0 39 1 3
 0 23 -1 0
+0 32 10 6
+0 39 1 3
+0 54 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b8 lco oc1b ta1-2-oc1b ta2-2-lco
 0
 7
-0 32 10 6
-0 58 -1 0
-0 54 -1 1
 0 10 0 1
 0 15 1 0
-0 39 1 3
 0 23 -1 0
+0 32 10 6
+0 39 1 3
+0 54 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b8 lco oc1b ta1-2-oc1b ta2-3-lco
 0
 7
-0 32 10 6
-0 58 -1 0
-0 54 -1 1
 0 10 0 1
 0 16 1 0
-0 39 1 3
 0 23 -1 0
+0 32 10 6
+0 39 1 3
+0 54 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b9 lco lco ta1-1-lco ta2-1-lco
 0
 7
-0 32 11 6
-0 58 -1 0
-0 53 -1 1
-0 27 0 1
 0 14 1 0
+0 27 0 1
+0 32 11 6
 0 39 1 3
 0 40 -1 0
+0 53 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b9 lco lco ta1-1-lco ta2-2-lco
 0
 7
-0 32 11 6
-0 58 -1 0
-0 53 -1 1
-0 27 0 1
 0 15 1 0
+0 27 0 1
+0 32 11 6
 0 39 1 3
 0 40 -1 0
+0 53 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b9 lco lco ta1-1-lco ta2-3-lco
 0
 7
-0 32 11 6
-0 58 -1 0
-0 53 -1 1
-0 27 0 1
 0 16 1 0
+0 27 0 1
+0 32 11 6
 0 39 1 3
 0 40 -1 0
+0 53 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b9 lco lco ta1-2-lco ta2-1-lco
 0
 7
-0 32 11 6
-0 58 -1 0
-0 53 -1 1
-0 28 0 1
 0 14 1 0
+0 28 0 1
+0 32 11 6
 0 39 1 3
 0 40 -1 0
+0 53 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b9 lco lco ta1-2-lco ta2-2-lco
 0
 7
-0 32 11 6
-0 58 -1 0
-0 53 -1 1
-0 28 0 1
 0 15 1 0
+0 28 0 1
+0 32 11 6
 0 39 1 3
 0 40 -1 0
+0 53 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b9 lco lco ta1-2-lco ta2-3-lco
 0
 7
-0 32 11 6
-0 58 -1 0
-0 53 -1 1
-0 28 0 1
 0 16 1 0
+0 28 0 1
+0 32 11 6
 0 39 1 3
 0 40 -1 0
+0 53 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b9 lco lco ta1-3-lco ta2-1-lco
 0
 7
-0 32 11 6
-0 58 -1 0
-0 53 -1 1
-0 29 0 1
 0 14 1 0
+0 29 0 1
+0 32 11 6
 0 39 1 3
 0 40 -1 0
+0 53 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b9 lco lco ta1-3-lco ta2-2-lco
 0
 7
-0 32 11 6
-0 58 -1 0
-0 53 -1 1
-0 29 0 1
 0 15 1 0
+0 29 0 1
+0 32 11 6
 0 39 1 3
 0 40 -1 0
+0 53 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b4 a1 a2 b9 lco lco ta1-3-lco ta2-3-lco
 0
 7
-0 32 11 6
-0 58 -1 0
-0 53 -1 1
-0 29 0 1
 0 16 1 0
+0 29 0 1
+0 32 11 6
 0 39 1 3
 0 40 -1 0
+0 53 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b0 rat-a lco ta1-1-lco ta2-1-rat-a
 0
 7
-0 32 0 7
-0 64 -1 1
-0 57 -1 0
-0 27 0 1
 0 4 1 0
+0 27 0 1
 0 30 -1 0
+0 32 0 7
 0 35 1 3
+0 57 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b0 rat-a lco ta1-1-lco ta2-2-rat-a
 0
 7
-0 32 0 7
-0 64 -1 1
-0 57 -1 0
-0 27 0 1
 0 5 1 0
+0 27 0 1
 0 30 -1 0
+0 32 0 7
 0 35 1 3
+0 57 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b0 rat-a lco ta1-2-lco ta2-1-rat-a
 0
 7
-0 32 0 7
-0 64 -1 1
-0 57 -1 0
-0 28 0 1
 0 4 1 0
+0 28 0 1
 0 30 -1 0
+0 32 0 7
 0 35 1 3
+0 57 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b0 rat-a lco ta1-2-lco ta2-2-rat-a
 0
 7
-0 32 0 7
-0 64 -1 1
-0 57 -1 0
-0 28 0 1
 0 5 1 0
+0 28 0 1
 0 30 -1 0
+0 32 0 7
 0 35 1 3
+0 57 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b0 rat-a lco ta1-3-lco ta2-1-rat-a
 0
 7
-0 32 0 7
-0 64 -1 1
-0 57 -1 0
-0 29 0 1
 0 4 1 0
+0 29 0 1
 0 30 -1 0
+0 32 0 7
 0 35 1 3
+0 57 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b0 rat-a lco ta1-3-lco ta2-2-rat-a
 0
 7
-0 32 0 7
-0 64 -1 1
-0 57 -1 0
-0 29 0 1
 0 5 1 0
+0 29 0 1
 0 30 -1 0
+0 32 0 7
 0 35 1 3
+0 57 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b10 rat-a gasoleo ta1-1-gasoleo ta2-1-rat-a
 0
 7
-0 32 2 7
-0 62 -1 1
-0 57 -1 0
-0 22 0 1
 0 4 1 0
+0 22 0 1
 0 26 -1 0
+0 32 2 7
 0 35 1 3
+0 57 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b10 rat-a gasoleo ta1-1-gasoleo ta2-2-rat-a
 0
 7
-0 32 2 7
-0 62 -1 1
-0 57 -1 0
-0 22 0 1
 0 5 1 0
+0 22 0 1
 0 26 -1 0
+0 32 2 7
 0 35 1 3
+0 57 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b10 rat-a gasoleo ta1-2-gasoleo ta2-1-rat-a
 0
 7
-0 32 2 7
-0 62 -1 1
-0 57 -1 0
-0 24 0 1
 0 4 1 0
+0 24 0 1
 0 26 -1 0
+0 32 2 7
 0 35 1 3
+0 57 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b10 rat-a gasoleo ta1-2-gasoleo ta2-2-rat-a
 0
 7
-0 32 2 7
-0 62 -1 1
-0 57 -1 0
-0 24 0 1
 0 5 1 0
+0 24 0 1
 0 26 -1 0
+0 32 2 7
 0 35 1 3
+0 57 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b11 rat-a gasoleo ta1-1-gasoleo ta2-1-rat-a
 0
 7
-0 32 3 7
-0 61 -1 1
-0 57 -1 0
-0 22 0 1
 0 4 1 0
-0 37 -1 0
+0 22 0 1
+0 32 3 7
 0 35 1 3
+0 37 -1 0
+0 57 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b11 rat-a gasoleo ta1-1-gasoleo ta2-2-rat-a
 0
 7
-0 32 3 7
-0 61 -1 1
-0 57 -1 0
-0 22 0 1
 0 5 1 0
-0 37 -1 0
+0 22 0 1
+0 32 3 7
 0 35 1 3
+0 37 -1 0
+0 57 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b11 rat-a gasoleo ta1-2-gasoleo ta2-1-rat-a
 0
 7
-0 32 3 7
-0 61 -1 1
-0 57 -1 0
-0 24 0 1
 0 4 1 0
-0 37 -1 0
+0 24 0 1
+0 32 3 7
 0 35 1 3
+0 37 -1 0
+0 57 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b11 rat-a gasoleo ta1-2-gasoleo ta2-2-rat-a
 0
 7
-0 32 3 7
-0 61 -1 1
-0 57 -1 0
-0 24 0 1
 0 5 1 0
-0 37 -1 0
+0 24 0 1
+0 32 3 7
 0 35 1 3
+0 37 -1 0
+0 57 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b2 rat-a rat-a ta1-1-rat-a ta2-1-rat-a
 0
 7
-0 32 4 7
-0 60 -1 1
-0 57 -1 0
-0 19 0 1
 0 4 1 0
+0 19 0 1
 0 25 -1 0
+0 32 4 7
 0 35 1 3
+0 57 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b2 rat-a rat-a ta1-1-rat-a ta2-2-rat-a
 0
 7
-0 32 4 7
-0 60 -1 1
-0 57 -1 0
-0 19 0 1
 0 5 1 0
+0 19 0 1
 0 25 -1 0
+0 32 4 7
 0 35 1 3
+0 57 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b2 rat-a rat-a ta1-2-rat-a ta2-1-rat-a
 0
 7
-0 32 4 7
-0 60 -1 1
-0 57 -1 0
-0 21 0 1
 0 4 1 0
+0 21 0 1
 0 25 -1 0
+0 32 4 7
 0 35 1 3
+0 57 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b2 rat-a rat-a ta1-2-rat-a ta2-2-rat-a
 0
 7
-0 32 4 7
-0 60 -1 1
-0 57 -1 0
-0 21 0 1
 0 5 1 0
+0 21 0 1
 0 25 -1 0
+0 32 4 7
 0 35 1 3
+0 57 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b3 rat-a gasoleo ta1-1-gasoleo ta2-1-rat-a
 0
 7
-0 32 5 7
-0 59 -1 1
-0 57 -1 0
-0 22 0 1
 0 4 1 0
-0 38 -1 0
+0 22 0 1
+0 32 5 7
 0 35 1 3
+0 38 -1 0
+0 57 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b3 rat-a gasoleo ta1-1-gasoleo ta2-2-rat-a
 0
 7
-0 32 5 7
-0 59 -1 1
-0 57 -1 0
-0 22 0 1
 0 5 1 0
-0 38 -1 0
+0 22 0 1
+0 32 5 7
 0 35 1 3
+0 38 -1 0
+0 57 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b3 rat-a gasoleo ta1-2-gasoleo ta2-1-rat-a
 0
 7
-0 32 5 7
-0 59 -1 1
-0 57 -1 0
-0 24 0 1
 0 4 1 0
-0 38 -1 0
+0 24 0 1
+0 32 5 7
 0 35 1 3
+0 38 -1 0
+0 57 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b3 rat-a gasoleo ta1-2-gasoleo ta2-2-rat-a
 0
 7
-0 32 5 7
-0 59 -1 1
-0 57 -1 0
-0 24 0 1
 0 5 1 0
-0 38 -1 0
+0 24 0 1
+0 32 5 7
 0 35 1 3
+0 38 -1 0
+0 57 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b4 rat-a lco ta1-1-lco ta2-1-rat-a
 0
 7
-0 32 6 7
-0 58 -1 1
-0 57 -1 0
-0 27 0 1
 0 4 1 0
-0 39 -1 0
+0 27 0 1
+0 32 6 7
 0 35 1 3
+0 39 -1 0
+0 57 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b4 rat-a lco ta1-1-lco ta2-2-rat-a
 0
 7
-0 32 6 7
-0 58 -1 1
-0 57 -1 0
-0 27 0 1
 0 5 1 0
-0 39 -1 0
+0 27 0 1
+0 32 6 7
 0 35 1 3
+0 39 -1 0
+0 57 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b4 rat-a lco ta1-2-lco ta2-1-rat-a
 0
 7
-0 32 6 7
-0 58 -1 1
-0 57 -1 0
-0 28 0 1
 0 4 1 0
-0 39 -1 0
+0 28 0 1
+0 32 6 7
 0 35 1 3
+0 39 -1 0
+0 57 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b4 rat-a lco ta1-2-lco ta2-2-rat-a
 0
 7
-0 32 6 7
-0 58 -1 1
-0 57 -1 0
-0 28 0 1
 0 5 1 0
-0 39 -1 0
+0 28 0 1
+0 32 6 7
 0 35 1 3
+0 39 -1 0
+0 57 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b4 rat-a lco ta1-3-lco ta2-1-rat-a
 0
 7
-0 32 6 7
-0 58 -1 1
-0 57 -1 0
-0 29 0 1
 0 4 1 0
-0 39 -1 0
+0 29 0 1
+0 32 6 7
 0 35 1 3
+0 39 -1 0
+0 57 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b4 rat-a lco ta1-3-lco ta2-2-rat-a
 0
 7
-0 32 6 7
-0 58 -1 1
-0 57 -1 0
-0 29 0 1
 0 5 1 0
-0 39 -1 0
+0 29 0 1
+0 32 6 7
 0 35 1 3
+0 39 -1 0
+0 57 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b6 rat-a lco ta1-1-lco ta2-1-rat-a
 0
 7
-0 32 8 7
-0 57 -1 0
-0 56 -1 1
-0 27 0 1
 0 4 1 0
-0 35 1 3
+0 27 0 1
 0 31 -1 0
+0 32 8 7
+0 35 1 3
+0 56 -1 1
+0 57 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b6 rat-a lco ta1-1-lco ta2-2-rat-a
 0
 7
-0 32 8 7
-0 57 -1 0
-0 56 -1 1
-0 27 0 1
 0 5 1 0
-0 35 1 3
+0 27 0 1
 0 31 -1 0
+0 32 8 7
+0 35 1 3
+0 56 -1 1
+0 57 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b6 rat-a lco ta1-2-lco ta2-1-rat-a
 0
 7
-0 32 8 7
-0 57 -1 0
-0 56 -1 1
-0 28 0 1
 0 4 1 0
-0 35 1 3
+0 28 0 1
 0 31 -1 0
+0 32 8 7
+0 35 1 3
+0 56 -1 1
+0 57 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b6 rat-a lco ta1-2-lco ta2-2-rat-a
 0
 7
-0 32 8 7
-0 57 -1 0
-0 56 -1 1
-0 28 0 1
 0 5 1 0
-0 35 1 3
+0 28 0 1
 0 31 -1 0
+0 32 8 7
+0 35 1 3
+0 56 -1 1
+0 57 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b6 rat-a lco ta1-3-lco ta2-1-rat-a
 0
 7
-0 32 8 7
-0 57 -1 0
-0 56 -1 1
-0 29 0 1
 0 4 1 0
-0 35 1 3
+0 29 0 1
 0 31 -1 0
+0 32 8 7
+0 35 1 3
+0 56 -1 1
+0 57 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b6 rat-a lco ta1-3-lco ta2-2-rat-a
 0
 7
-0 32 8 7
-0 57 -1 0
-0 56 -1 1
-0 29 0 1
 0 5 1 0
-0 35 1 3
+0 29 0 1
 0 31 -1 0
+0 32 8 7
+0 35 1 3
+0 56 -1 1
+0 57 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b7 rat-a rat-a ta1-1-rat-a ta2-1-rat-a
 0
 7
-0 32 9 7
-0 57 -1 0
-0 55 -1 1
-0 19 0 1
 0 4 1 0
+0 19 0 1
+0 32 9 7
 0 35 1 3
 0 36 -1 0
+0 55 -1 1
+0 57 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b7 rat-a rat-a ta1-1-rat-a ta2-2-rat-a
 0
 7
-0 32 9 7
-0 57 -1 0
-0 55 -1 1
-0 19 0 1
 0 5 1 0
+0 19 0 1
+0 32 9 7
 0 35 1 3
 0 36 -1 0
+0 55 -1 1
+0 57 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b7 rat-a rat-a ta1-2-rat-a ta2-1-rat-a
 0
 7
-0 32 9 7
-0 57 -1 0
-0 55 -1 1
-0 21 0 1
 0 4 1 0
+0 21 0 1
+0 32 9 7
 0 35 1 3
 0 36 -1 0
+0 55 -1 1
+0 57 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b7 rat-a rat-a ta1-2-rat-a ta2-2-rat-a
 0
 7
-0 32 9 7
-0 57 -1 0
-0 55 -1 1
-0 21 0 1
 0 5 1 0
+0 21 0 1
+0 32 9 7
 0 35 1 3
 0 36 -1 0
+0 55 -1 1
+0 57 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b9 rat-a lco ta1-1-lco ta2-1-rat-a
 0
 7
-0 32 11 7
-0 57 -1 0
-0 53 -1 1
-0 27 0 1
 0 4 1 0
+0 27 0 1
+0 32 11 7
 0 35 1 3
 0 40 -1 0
+0 53 -1 1
+0 57 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b9 rat-a lco ta1-1-lco ta2-2-rat-a
 0
 7
-0 32 11 7
-0 57 -1 0
-0 53 -1 1
-0 27 0 1
 0 5 1 0
+0 27 0 1
+0 32 11 7
 0 35 1 3
 0 40 -1 0
+0 53 -1 1
+0 57 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b9 rat-a lco ta1-2-lco ta2-1-rat-a
 0
 7
-0 32 11 7
-0 57 -1 0
-0 53 -1 1
-0 28 0 1
 0 4 1 0
+0 28 0 1
+0 32 11 7
 0 35 1 3
 0 40 -1 0
+0 53 -1 1
+0 57 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b9 rat-a lco ta1-2-lco ta2-2-rat-a
 0
 7
-0 32 11 7
-0 57 -1 0
-0 53 -1 1
-0 28 0 1
 0 5 1 0
+0 28 0 1
+0 32 11 7
 0 35 1 3
 0 40 -1 0
+0 53 -1 1
+0 57 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b9 rat-a lco ta1-3-lco ta2-1-rat-a
 0
 7
-0 32 11 7
-0 57 -1 0
-0 53 -1 1
-0 29 0 1
 0 4 1 0
+0 29 0 1
+0 32 11 7
 0 35 1 3
 0 40 -1 0
+0 53 -1 1
+0 57 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b5 a1 a2 b9 rat-a lco ta1-3-lco ta2-2-rat-a
 0
 7
-0 32 11 7
-0 57 -1 0
-0 53 -1 1
-0 29 0 1
 0 5 1 0
+0 29 0 1
+0 32 11 7
 0 35 1 3
 0 40 -1 0
+0 53 -1 1
+0 57 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b0 lco lco ta1-1-lco ta2-1-lco
 0
 7
-0 32 0 8
-0 64 -1 1
-0 56 -1 0
-0 27 0 1
 0 14 1 0
+0 27 0 1
 0 30 -1 0
 0 31 1 3
+0 32 0 8
+0 56 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b0 lco lco ta1-1-lco ta2-2-lco
 0
 7
-0 32 0 8
-0 64 -1 1
-0 56 -1 0
-0 27 0 1
 0 15 1 0
+0 27 0 1
 0 30 -1 0
 0 31 1 3
+0 32 0 8
+0 56 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b0 lco lco ta1-1-lco ta2-3-lco
 0
 7
-0 32 0 8
-0 64 -1 1
-0 56 -1 0
-0 27 0 1
 0 16 1 0
+0 27 0 1
 0 30 -1 0
 0 31 1 3
+0 32 0 8
+0 56 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b0 lco lco ta1-2-lco ta2-1-lco
 0
 7
-0 32 0 8
-0 64 -1 1
-0 56 -1 0
-0 28 0 1
 0 14 1 0
+0 28 0 1
 0 30 -1 0
 0 31 1 3
+0 32 0 8
+0 56 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b0 lco lco ta1-2-lco ta2-2-lco
 0
 7
-0 32 0 8
-0 64 -1 1
-0 56 -1 0
-0 28 0 1
 0 15 1 0
+0 28 0 1
 0 30 -1 0
 0 31 1 3
+0 32 0 8
+0 56 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b0 lco lco ta1-2-lco ta2-3-lco
 0
 7
-0 32 0 8
-0 64 -1 1
-0 56 -1 0
-0 28 0 1
 0 16 1 0
+0 28 0 1
 0 30 -1 0
 0 31 1 3
+0 32 0 8
+0 56 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b0 lco lco ta1-3-lco ta2-1-lco
 0
 7
-0 32 0 8
-0 64 -1 1
-0 56 -1 0
-0 29 0 1
 0 14 1 0
+0 29 0 1
 0 30 -1 0
 0 31 1 3
+0 32 0 8
+0 56 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b0 lco lco ta1-3-lco ta2-2-lco
 0
 7
-0 32 0 8
-0 64 -1 1
-0 56 -1 0
-0 29 0 1
 0 15 1 0
+0 29 0 1
 0 30 -1 0
 0 31 1 3
+0 32 0 8
+0 56 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b0 lco lco ta1-3-lco ta2-3-lco
 0
 7
-0 32 0 8
-0 64 -1 1
-0 56 -1 0
-0 29 0 1
 0 16 1 0
+0 29 0 1
 0 30 -1 0
 0 31 1 3
+0 32 0 8
+0 56 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b1 lco oc1b ta1-1-oc1b ta2-1-lco
 0
 7
-0 32 1 8
-0 63 -1 1
-0 56 -1 0
 0 8 0 1
 0 14 1 0
-0 34 -1 0
 0 31 1 3
+0 32 1 8
+0 34 -1 0
+0 56 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b1 lco oc1b ta1-1-oc1b ta2-2-lco
 0
 7
-0 32 1 8
-0 63 -1 1
-0 56 -1 0
 0 8 0 1
 0 15 1 0
-0 34 -1 0
 0 31 1 3
+0 32 1 8
+0 34 -1 0
+0 56 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b1 lco oc1b ta1-1-oc1b ta2-3-lco
 0
 7
-0 32 1 8
-0 63 -1 1
-0 56 -1 0
 0 8 0 1
 0 16 1 0
-0 34 -1 0
 0 31 1 3
+0 32 1 8
+0 34 -1 0
+0 56 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b1 lco oc1b ta1-2-oc1b ta2-1-lco
 0
 7
-0 32 1 8
-0 63 -1 1
-0 56 -1 0
 0 10 0 1
 0 14 1 0
-0 34 -1 0
 0 31 1 3
+0 32 1 8
+0 34 -1 0
+0 56 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b1 lco oc1b ta1-2-oc1b ta2-2-lco
 0
 7
-0 32 1 8
-0 63 -1 1
-0 56 -1 0
 0 10 0 1
 0 15 1 0
-0 34 -1 0
 0 31 1 3
+0 32 1 8
+0 34 -1 0
+0 56 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b1 lco oc1b ta1-2-oc1b ta2-3-lco
 0
 7
-0 32 1 8
-0 63 -1 1
-0 56 -1 0
 0 10 0 1
 0 16 1 0
-0 34 -1 0
 0 31 1 3
+0 32 1 8
+0 34 -1 0
+0 56 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b10 lco gasoleo ta1-1-gasoleo ta2-1-lco
 0
 7
-0 32 2 8
-0 62 -1 1
-0 56 -1 0
-0 22 0 1
 0 14 1 0
+0 22 0 1
 0 26 -1 0
 0 31 1 3
+0 32 2 8
+0 56 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b10 lco gasoleo ta1-1-gasoleo ta2-2-lco
 0
 7
-0 32 2 8
-0 62 -1 1
-0 56 -1 0
-0 22 0 1
 0 15 1 0
+0 22 0 1
 0 26 -1 0
 0 31 1 3
+0 32 2 8
+0 56 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b10 lco gasoleo ta1-1-gasoleo ta2-3-lco
 0
 7
-0 32 2 8
-0 62 -1 1
-0 56 -1 0
-0 22 0 1
 0 16 1 0
+0 22 0 1
 0 26 -1 0
 0 31 1 3
+0 32 2 8
+0 56 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b10 lco gasoleo ta1-2-gasoleo ta2-1-lco
 0
 7
-0 32 2 8
-0 62 -1 1
-0 56 -1 0
-0 24 0 1
 0 14 1 0
+0 24 0 1
 0 26 -1 0
 0 31 1 3
+0 32 2 8
+0 56 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b10 lco gasoleo ta1-2-gasoleo ta2-2-lco
 0
 7
-0 32 2 8
-0 62 -1 1
-0 56 -1 0
-0 24 0 1
 0 15 1 0
+0 24 0 1
 0 26 -1 0
 0 31 1 3
+0 32 2 8
+0 56 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b10 lco gasoleo ta1-2-gasoleo ta2-3-lco
 0
 7
-0 32 2 8
-0 62 -1 1
-0 56 -1 0
-0 24 0 1
 0 16 1 0
+0 24 0 1
 0 26 -1 0
 0 31 1 3
+0 32 2 8
+0 56 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b11 lco gasoleo ta1-1-gasoleo ta2-1-lco
 0
 7
-0 32 3 8
-0 61 -1 1
-0 56 -1 0
-0 22 0 1
 0 14 1 0
-0 37 -1 0
+0 22 0 1
 0 31 1 3
+0 32 3 8
+0 37 -1 0
+0 56 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b11 lco gasoleo ta1-1-gasoleo ta2-2-lco
 0
 7
-0 32 3 8
-0 61 -1 1
-0 56 -1 0
-0 22 0 1
 0 15 1 0
-0 37 -1 0
+0 22 0 1
 0 31 1 3
+0 32 3 8
+0 37 -1 0
+0 56 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b11 lco gasoleo ta1-1-gasoleo ta2-3-lco
 0
 7
-0 32 3 8
-0 61 -1 1
-0 56 -1 0
-0 22 0 1
 0 16 1 0
-0 37 -1 0
+0 22 0 1
 0 31 1 3
+0 32 3 8
+0 37 -1 0
+0 56 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b11 lco gasoleo ta1-2-gasoleo ta2-1-lco
 0
 7
-0 32 3 8
-0 61 -1 1
-0 56 -1 0
-0 24 0 1
 0 14 1 0
-0 37 -1 0
+0 24 0 1
 0 31 1 3
+0 32 3 8
+0 37 -1 0
+0 56 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b11 lco gasoleo ta1-2-gasoleo ta2-2-lco
 0
 7
-0 32 3 8
-0 61 -1 1
-0 56 -1 0
-0 24 0 1
 0 15 1 0
-0 37 -1 0
+0 24 0 1
 0 31 1 3
+0 32 3 8
+0 37 -1 0
+0 56 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b11 lco gasoleo ta1-2-gasoleo ta2-3-lco
 0
 7
-0 32 3 8
-0 61 -1 1
-0 56 -1 0
-0 24 0 1
 0 16 1 0
-0 37 -1 0
+0 24 0 1
 0 31 1 3
+0 32 3 8
+0 37 -1 0
+0 56 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b2 lco rat-a ta1-1-rat-a ta2-1-lco
 0
 7
-0 32 4 8
-0 60 -1 1
-0 56 -1 0
-0 19 0 1
 0 14 1 0
+0 19 0 1
 0 25 -1 0
 0 31 1 3
+0 32 4 8
+0 56 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b2 lco rat-a ta1-1-rat-a ta2-2-lco
 0
 7
-0 32 4 8
-0 60 -1 1
-0 56 -1 0
-0 19 0 1
 0 15 1 0
+0 19 0 1
 0 25 -1 0
 0 31 1 3
+0 32 4 8
+0 56 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b2 lco rat-a ta1-1-rat-a ta2-3-lco
 0
 7
-0 32 4 8
-0 60 -1 1
-0 56 -1 0
-0 19 0 1
 0 16 1 0
+0 19 0 1
 0 25 -1 0
 0 31 1 3
+0 32 4 8
+0 56 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b2 lco rat-a ta1-2-rat-a ta2-1-lco
 0
 7
-0 32 4 8
-0 60 -1 1
-0 56 -1 0
-0 21 0 1
 0 14 1 0
+0 21 0 1
 0 25 -1 0
 0 31 1 3
+0 32 4 8
+0 56 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b2 lco rat-a ta1-2-rat-a ta2-2-lco
 0
 7
-0 32 4 8
-0 60 -1 1
-0 56 -1 0
-0 21 0 1
 0 15 1 0
+0 21 0 1
 0 25 -1 0
 0 31 1 3
+0 32 4 8
+0 56 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b2 lco rat-a ta1-2-rat-a ta2-3-lco
 0
 7
-0 32 4 8
-0 60 -1 1
-0 56 -1 0
-0 21 0 1
 0 16 1 0
+0 21 0 1
 0 25 -1 0
 0 31 1 3
+0 32 4 8
+0 56 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b3 lco gasoleo ta1-1-gasoleo ta2-1-lco
 0
 7
-0 32 5 8
-0 59 -1 1
-0 56 -1 0
-0 22 0 1
 0 14 1 0
-0 38 -1 0
+0 22 0 1
 0 31 1 3
+0 32 5 8
+0 38 -1 0
+0 56 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b3 lco gasoleo ta1-1-gasoleo ta2-2-lco
 0
 7
-0 32 5 8
-0 59 -1 1
-0 56 -1 0
-0 22 0 1
 0 15 1 0
-0 38 -1 0
+0 22 0 1
 0 31 1 3
+0 32 5 8
+0 38 -1 0
+0 56 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b3 lco gasoleo ta1-1-gasoleo ta2-3-lco
 0
 7
-0 32 5 8
-0 59 -1 1
-0 56 -1 0
-0 22 0 1
 0 16 1 0
-0 38 -1 0
+0 22 0 1
 0 31 1 3
+0 32 5 8
+0 38 -1 0
+0 56 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b3 lco gasoleo ta1-2-gasoleo ta2-1-lco
 0
 7
-0 32 5 8
-0 59 -1 1
-0 56 -1 0
-0 24 0 1
 0 14 1 0
-0 38 -1 0
+0 24 0 1
 0 31 1 3
+0 32 5 8
+0 38 -1 0
+0 56 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b3 lco gasoleo ta1-2-gasoleo ta2-2-lco
 0
 7
-0 32 5 8
-0 59 -1 1
-0 56 -1 0
-0 24 0 1
 0 15 1 0
-0 38 -1 0
+0 24 0 1
 0 31 1 3
+0 32 5 8
+0 38 -1 0
+0 56 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b3 lco gasoleo ta1-2-gasoleo ta2-3-lco
 0
 7
-0 32 5 8
-0 59 -1 1
-0 56 -1 0
-0 24 0 1
 0 16 1 0
-0 38 -1 0
+0 24 0 1
 0 31 1 3
+0 32 5 8
+0 38 -1 0
+0 56 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b4 lco lco ta1-1-lco ta2-1-lco
 0
 7
-0 32 6 8
-0 58 -1 1
-0 56 -1 0
-0 27 0 1
 0 14 1 0
-0 39 -1 0
+0 27 0 1
 0 31 1 3
+0 32 6 8
+0 39 -1 0
+0 56 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b4 lco lco ta1-1-lco ta2-2-lco
 0
 7
-0 32 6 8
-0 58 -1 1
-0 56 -1 0
-0 27 0 1
 0 15 1 0
-0 39 -1 0
+0 27 0 1
 0 31 1 3
+0 32 6 8
+0 39 -1 0
+0 56 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b4 lco lco ta1-1-lco ta2-3-lco
 0
 7
-0 32 6 8
-0 58 -1 1
-0 56 -1 0
-0 27 0 1
 0 16 1 0
-0 39 -1 0
+0 27 0 1
 0 31 1 3
+0 32 6 8
+0 39 -1 0
+0 56 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b4 lco lco ta1-2-lco ta2-1-lco
 0
 7
-0 32 6 8
-0 58 -1 1
-0 56 -1 0
-0 28 0 1
 0 14 1 0
-0 39 -1 0
+0 28 0 1
 0 31 1 3
+0 32 6 8
+0 39 -1 0
+0 56 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b4 lco lco ta1-2-lco ta2-2-lco
 0
 7
-0 32 6 8
-0 58 -1 1
-0 56 -1 0
-0 28 0 1
 0 15 1 0
-0 39 -1 0
+0 28 0 1
 0 31 1 3
+0 32 6 8
+0 39 -1 0
+0 56 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b4 lco lco ta1-2-lco ta2-3-lco
 0
 7
-0 32 6 8
-0 58 -1 1
-0 56 -1 0
-0 28 0 1
 0 16 1 0
-0 39 -1 0
+0 28 0 1
 0 31 1 3
+0 32 6 8
+0 39 -1 0
+0 56 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b4 lco lco ta1-3-lco ta2-1-lco
 0
 7
-0 32 6 8
-0 58 -1 1
-0 56 -1 0
-0 29 0 1
 0 14 1 0
-0 39 -1 0
+0 29 0 1
 0 31 1 3
+0 32 6 8
+0 39 -1 0
+0 56 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b4 lco lco ta1-3-lco ta2-2-lco
 0
 7
-0 32 6 8
-0 58 -1 1
-0 56 -1 0
-0 29 0 1
 0 15 1 0
-0 39 -1 0
+0 29 0 1
 0 31 1 3
+0 32 6 8
+0 39 -1 0
+0 56 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b4 lco lco ta1-3-lco ta2-3-lco
 0
 7
-0 32 6 8
-0 58 -1 1
-0 56 -1 0
-0 29 0 1
 0 16 1 0
-0 39 -1 0
+0 29 0 1
 0 31 1 3
+0 32 6 8
+0 39 -1 0
+0 56 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b5 lco rat-a ta1-1-rat-a ta2-1-lco
 0
 7
-0 32 7 8
-0 57 -1 1
-0 56 -1 0
-0 19 0 1
 0 14 1 0
-0 35 -1 0
+0 19 0 1
 0 31 1 3
+0 32 7 8
+0 35 -1 0
+0 56 -1 0
+0 57 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b5 lco rat-a ta1-1-rat-a ta2-2-lco
 0
 7
-0 32 7 8
-0 57 -1 1
-0 56 -1 0
-0 19 0 1
 0 15 1 0
-0 35 -1 0
+0 19 0 1
 0 31 1 3
+0 32 7 8
+0 35 -1 0
+0 56 -1 0
+0 57 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b5 lco rat-a ta1-1-rat-a ta2-3-lco
 0
 7
-0 32 7 8
-0 57 -1 1
-0 56 -1 0
-0 19 0 1
 0 16 1 0
-0 35 -1 0
+0 19 0 1
 0 31 1 3
+0 32 7 8
+0 35 -1 0
+0 56 -1 0
+0 57 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b5 lco rat-a ta1-2-rat-a ta2-1-lco
 0
 7
-0 32 7 8
-0 57 -1 1
-0 56 -1 0
-0 21 0 1
 0 14 1 0
-0 35 -1 0
+0 21 0 1
 0 31 1 3
+0 32 7 8
+0 35 -1 0
+0 56 -1 0
+0 57 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b5 lco rat-a ta1-2-rat-a ta2-2-lco
 0
 7
-0 32 7 8
-0 57 -1 1
-0 56 -1 0
-0 21 0 1
 0 15 1 0
-0 35 -1 0
+0 21 0 1
 0 31 1 3
+0 32 7 8
+0 35 -1 0
+0 56 -1 0
+0 57 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b5 lco rat-a ta1-2-rat-a ta2-3-lco
 0
 7
-0 32 7 8
-0 57 -1 1
-0 56 -1 0
-0 21 0 1
 0 16 1 0
-0 35 -1 0
+0 21 0 1
 0 31 1 3
+0 32 7 8
+0 35 -1 0
+0 56 -1 0
+0 57 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b7 lco rat-a ta1-1-rat-a ta2-1-lco
 0
 7
-0 32 9 8
-0 56 -1 0
-0 55 -1 1
-0 19 0 1
 0 14 1 0
+0 19 0 1
 0 31 1 3
+0 32 9 8
 0 36 -1 0
+0 55 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b7 lco rat-a ta1-1-rat-a ta2-2-lco
 0
 7
-0 32 9 8
-0 56 -1 0
-0 55 -1 1
-0 19 0 1
 0 15 1 0
+0 19 0 1
 0 31 1 3
+0 32 9 8
 0 36 -1 0
+0 55 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b7 lco rat-a ta1-1-rat-a ta2-3-lco
 0
 7
-0 32 9 8
-0 56 -1 0
-0 55 -1 1
-0 19 0 1
 0 16 1 0
+0 19 0 1
 0 31 1 3
+0 32 9 8
 0 36 -1 0
+0 55 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b7 lco rat-a ta1-2-rat-a ta2-1-lco
 0
 7
-0 32 9 8
-0 56 -1 0
-0 55 -1 1
-0 21 0 1
 0 14 1 0
+0 21 0 1
 0 31 1 3
+0 32 9 8
 0 36 -1 0
+0 55 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b7 lco rat-a ta1-2-rat-a ta2-2-lco
 0
 7
-0 32 9 8
-0 56 -1 0
-0 55 -1 1
-0 21 0 1
 0 15 1 0
+0 21 0 1
 0 31 1 3
+0 32 9 8
 0 36 -1 0
+0 55 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b7 lco rat-a ta1-2-rat-a ta2-3-lco
 0
 7
-0 32 9 8
-0 56 -1 0
-0 55 -1 1
-0 21 0 1
 0 16 1 0
+0 21 0 1
 0 31 1 3
+0 32 9 8
 0 36 -1 0
+0 55 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b8 lco oc1b ta1-1-oc1b ta2-1-lco
 0
 7
-0 32 10 8
-0 56 -1 0
-0 54 -1 1
 0 8 0 1
 0 14 1 0
-0 31 1 3
 0 23 -1 0
+0 31 1 3
+0 32 10 8
+0 54 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b8 lco oc1b ta1-1-oc1b ta2-2-lco
 0
 7
-0 32 10 8
-0 56 -1 0
-0 54 -1 1
 0 8 0 1
 0 15 1 0
-0 31 1 3
 0 23 -1 0
+0 31 1 3
+0 32 10 8
+0 54 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b8 lco oc1b ta1-1-oc1b ta2-3-lco
 0
 7
-0 32 10 8
-0 56 -1 0
-0 54 -1 1
 0 8 0 1
 0 16 1 0
-0 31 1 3
 0 23 -1 0
+0 31 1 3
+0 32 10 8
+0 54 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b8 lco oc1b ta1-2-oc1b ta2-1-lco
 0
 7
-0 32 10 8
-0 56 -1 0
-0 54 -1 1
 0 10 0 1
 0 14 1 0
-0 31 1 3
 0 23 -1 0
+0 31 1 3
+0 32 10 8
+0 54 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b8 lco oc1b ta1-2-oc1b ta2-2-lco
 0
 7
-0 32 10 8
-0 56 -1 0
-0 54 -1 1
 0 10 0 1
 0 15 1 0
-0 31 1 3
 0 23 -1 0
+0 31 1 3
+0 32 10 8
+0 54 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b8 lco oc1b ta1-2-oc1b ta2-3-lco
 0
 7
-0 32 10 8
-0 56 -1 0
-0 54 -1 1
 0 10 0 1
 0 16 1 0
-0 31 1 3
 0 23 -1 0
+0 31 1 3
+0 32 10 8
+0 54 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b9 lco lco ta1-1-lco ta2-1-lco
 0
 7
-0 32 11 8
-0 56 -1 0
-0 53 -1 1
-0 27 0 1
 0 14 1 0
+0 27 0 1
 0 31 1 3
+0 32 11 8
 0 40 -1 0
+0 53 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b9 lco lco ta1-1-lco ta2-2-lco
 0
 7
-0 32 11 8
-0 56 -1 0
-0 53 -1 1
-0 27 0 1
 0 15 1 0
+0 27 0 1
 0 31 1 3
+0 32 11 8
 0 40 -1 0
+0 53 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b9 lco lco ta1-1-lco ta2-3-lco
 0
 7
-0 32 11 8
-0 56 -1 0
-0 53 -1 1
-0 27 0 1
 0 16 1 0
+0 27 0 1
 0 31 1 3
+0 32 11 8
 0 40 -1 0
+0 53 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b9 lco lco ta1-2-lco ta2-1-lco
 0
 7
-0 32 11 8
-0 56 -1 0
-0 53 -1 1
-0 28 0 1
 0 14 1 0
+0 28 0 1
 0 31 1 3
+0 32 11 8
 0 40 -1 0
+0 53 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b9 lco lco ta1-2-lco ta2-2-lco
 0
 7
-0 32 11 8
-0 56 -1 0
-0 53 -1 1
-0 28 0 1
 0 15 1 0
+0 28 0 1
 0 31 1 3
+0 32 11 8
 0 40 -1 0
+0 53 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b9 lco lco ta1-2-lco ta2-3-lco
 0
 7
-0 32 11 8
-0 56 -1 0
-0 53 -1 1
-0 28 0 1
 0 16 1 0
+0 28 0 1
 0 31 1 3
+0 32 11 8
 0 40 -1 0
+0 53 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b9 lco lco ta1-3-lco ta2-1-lco
 0
 7
-0 32 11 8
-0 56 -1 0
-0 53 -1 1
-0 29 0 1
 0 14 1 0
+0 29 0 1
 0 31 1 3
+0 32 11 8
 0 40 -1 0
+0 53 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b9 lco lco ta1-3-lco ta2-2-lco
 0
 7
-0 32 11 8
-0 56 -1 0
-0 53 -1 1
-0 29 0 1
 0 15 1 0
+0 29 0 1
 0 31 1 3
+0 32 11 8
 0 40 -1 0
+0 53 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b6 a1 a2 b9 lco lco ta1-3-lco ta2-3-lco
 0
 7
-0 32 11 8
-0 56 -1 0
-0 53 -1 1
-0 29 0 1
 0 16 1 0
+0 29 0 1
 0 31 1 3
+0 32 11 8
 0 40 -1 0
+0 53 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b0 rat-a lco ta1-1-lco ta2-1-rat-a
 0
 7
-0 32 0 9
-0 64 -1 1
-0 55 -1 0
-0 27 0 1
 0 4 1 0
+0 27 0 1
 0 30 -1 0
+0 32 0 9
 0 36 1 3
+0 55 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b0 rat-a lco ta1-1-lco ta2-2-rat-a
 0
 7
-0 32 0 9
-0 64 -1 1
-0 55 -1 0
-0 27 0 1
 0 5 1 0
+0 27 0 1
 0 30 -1 0
+0 32 0 9
 0 36 1 3
+0 55 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b0 rat-a lco ta1-2-lco ta2-1-rat-a
 0
 7
-0 32 0 9
-0 64 -1 1
-0 55 -1 0
-0 28 0 1
 0 4 1 0
+0 28 0 1
 0 30 -1 0
+0 32 0 9
 0 36 1 3
+0 55 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b0 rat-a lco ta1-2-lco ta2-2-rat-a
 0
 7
-0 32 0 9
-0 64 -1 1
-0 55 -1 0
-0 28 0 1
 0 5 1 0
+0 28 0 1
 0 30 -1 0
+0 32 0 9
 0 36 1 3
+0 55 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b0 rat-a lco ta1-3-lco ta2-1-rat-a
 0
 7
-0 32 0 9
-0 64 -1 1
-0 55 -1 0
-0 29 0 1
 0 4 1 0
+0 29 0 1
 0 30 -1 0
+0 32 0 9
 0 36 1 3
+0 55 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b0 rat-a lco ta1-3-lco ta2-2-rat-a
 0
 7
-0 32 0 9
-0 64 -1 1
-0 55 -1 0
-0 29 0 1
 0 5 1 0
+0 29 0 1
 0 30 -1 0
+0 32 0 9
 0 36 1 3
+0 55 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b10 rat-a gasoleo ta1-1-gasoleo ta2-1-rat-a
 0
 7
-0 32 2 9
-0 62 -1 1
-0 55 -1 0
-0 22 0 1
 0 4 1 0
+0 22 0 1
 0 26 -1 0
+0 32 2 9
 0 36 1 3
+0 55 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b10 rat-a gasoleo ta1-1-gasoleo ta2-2-rat-a
 0
 7
-0 32 2 9
-0 62 -1 1
-0 55 -1 0
-0 22 0 1
 0 5 1 0
+0 22 0 1
 0 26 -1 0
+0 32 2 9
 0 36 1 3
+0 55 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b10 rat-a gasoleo ta1-2-gasoleo ta2-1-rat-a
 0
 7
-0 32 2 9
-0 62 -1 1
-0 55 -1 0
-0 24 0 1
 0 4 1 0
+0 24 0 1
 0 26 -1 0
+0 32 2 9
 0 36 1 3
+0 55 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b10 rat-a gasoleo ta1-2-gasoleo ta2-2-rat-a
 0
 7
-0 32 2 9
-0 62 -1 1
-0 55 -1 0
-0 24 0 1
 0 5 1 0
+0 24 0 1
 0 26 -1 0
+0 32 2 9
 0 36 1 3
+0 55 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b11 rat-a gasoleo ta1-1-gasoleo ta2-1-rat-a
 0
 7
-0 32 3 9
-0 61 -1 1
-0 55 -1 0
-0 22 0 1
 0 4 1 0
-0 37 -1 0
+0 22 0 1
+0 32 3 9
 0 36 1 3
+0 37 -1 0
+0 55 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b11 rat-a gasoleo ta1-1-gasoleo ta2-2-rat-a
 0
 7
-0 32 3 9
-0 61 -1 1
-0 55 -1 0
-0 22 0 1
 0 5 1 0
-0 37 -1 0
+0 22 0 1
+0 32 3 9
 0 36 1 3
+0 37 -1 0
+0 55 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b11 rat-a gasoleo ta1-2-gasoleo ta2-1-rat-a
 0
 7
-0 32 3 9
-0 61 -1 1
-0 55 -1 0
-0 24 0 1
 0 4 1 0
-0 37 -1 0
+0 24 0 1
+0 32 3 9
 0 36 1 3
+0 37 -1 0
+0 55 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b11 rat-a gasoleo ta1-2-gasoleo ta2-2-rat-a
 0
 7
-0 32 3 9
-0 61 -1 1
-0 55 -1 0
-0 24 0 1
 0 5 1 0
-0 37 -1 0
+0 24 0 1
+0 32 3 9
 0 36 1 3
+0 37 -1 0
+0 55 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b2 rat-a rat-a ta1-1-rat-a ta2-1-rat-a
 0
 7
-0 32 4 9
-0 60 -1 1
-0 55 -1 0
-0 19 0 1
 0 4 1 0
+0 19 0 1
 0 25 -1 0
+0 32 4 9
 0 36 1 3
+0 55 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b2 rat-a rat-a ta1-1-rat-a ta2-2-rat-a
 0
 7
-0 32 4 9
-0 60 -1 1
-0 55 -1 0
-0 19 0 1
 0 5 1 0
+0 19 0 1
 0 25 -1 0
+0 32 4 9
 0 36 1 3
+0 55 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b2 rat-a rat-a ta1-2-rat-a ta2-1-rat-a
 0
 7
-0 32 4 9
-0 60 -1 1
-0 55 -1 0
-0 21 0 1
 0 4 1 0
+0 21 0 1
 0 25 -1 0
+0 32 4 9
 0 36 1 3
+0 55 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b2 rat-a rat-a ta1-2-rat-a ta2-2-rat-a
 0
 7
-0 32 4 9
-0 60 -1 1
-0 55 -1 0
-0 21 0 1
 0 5 1 0
+0 21 0 1
 0 25 -1 0
+0 32 4 9
 0 36 1 3
+0 55 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b3 rat-a gasoleo ta1-1-gasoleo ta2-1-rat-a
 0
 7
-0 32 5 9
-0 59 -1 1
-0 55 -1 0
-0 22 0 1
 0 4 1 0
-0 38 -1 0
+0 22 0 1
+0 32 5 9
 0 36 1 3
+0 38 -1 0
+0 55 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b3 rat-a gasoleo ta1-1-gasoleo ta2-2-rat-a
 0
 7
-0 32 5 9
-0 59 -1 1
-0 55 -1 0
-0 22 0 1
 0 5 1 0
-0 38 -1 0
+0 22 0 1
+0 32 5 9
 0 36 1 3
+0 38 -1 0
+0 55 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b3 rat-a gasoleo ta1-2-gasoleo ta2-1-rat-a
 0
 7
-0 32 5 9
-0 59 -1 1
-0 55 -1 0
-0 24 0 1
 0 4 1 0
-0 38 -1 0
+0 24 0 1
+0 32 5 9
 0 36 1 3
+0 38 -1 0
+0 55 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b3 rat-a gasoleo ta1-2-gasoleo ta2-2-rat-a
 0
 7
-0 32 5 9
-0 59 -1 1
-0 55 -1 0
-0 24 0 1
 0 5 1 0
-0 38 -1 0
+0 24 0 1
+0 32 5 9
 0 36 1 3
+0 38 -1 0
+0 55 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b4 rat-a lco ta1-1-lco ta2-1-rat-a
 0
 7
-0 32 6 9
-0 58 -1 1
-0 55 -1 0
-0 27 0 1
 0 4 1 0
-0 39 -1 0
+0 27 0 1
+0 32 6 9
 0 36 1 3
+0 39 -1 0
+0 55 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b4 rat-a lco ta1-1-lco ta2-2-rat-a
 0
 7
-0 32 6 9
-0 58 -1 1
-0 55 -1 0
-0 27 0 1
 0 5 1 0
-0 39 -1 0
+0 27 0 1
+0 32 6 9
 0 36 1 3
+0 39 -1 0
+0 55 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b4 rat-a lco ta1-2-lco ta2-1-rat-a
 0
 7
-0 32 6 9
-0 58 -1 1
-0 55 -1 0
-0 28 0 1
 0 4 1 0
-0 39 -1 0
+0 28 0 1
+0 32 6 9
 0 36 1 3
+0 39 -1 0
+0 55 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b4 rat-a lco ta1-2-lco ta2-2-rat-a
 0
 7
-0 32 6 9
-0 58 -1 1
-0 55 -1 0
-0 28 0 1
 0 5 1 0
-0 39 -1 0
+0 28 0 1
+0 32 6 9
 0 36 1 3
+0 39 -1 0
+0 55 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b4 rat-a lco ta1-3-lco ta2-1-rat-a
 0
 7
-0 32 6 9
-0 58 -1 1
-0 55 -1 0
-0 29 0 1
 0 4 1 0
-0 39 -1 0
+0 29 0 1
+0 32 6 9
 0 36 1 3
+0 39 -1 0
+0 55 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b4 rat-a lco ta1-3-lco ta2-2-rat-a
 0
 7
-0 32 6 9
-0 58 -1 1
-0 55 -1 0
-0 29 0 1
 0 5 1 0
-0 39 -1 0
+0 29 0 1
+0 32 6 9
 0 36 1 3
+0 39 -1 0
+0 55 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b5 rat-a rat-a ta1-1-rat-a ta2-1-rat-a
 0
 7
-0 32 7 9
-0 57 -1 1
-0 55 -1 0
-0 19 0 1
 0 4 1 0
+0 19 0 1
+0 32 7 9
 0 35 -1 0
 0 36 1 3
+0 55 -1 0
+0 57 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b5 rat-a rat-a ta1-1-rat-a ta2-2-rat-a
 0
 7
-0 32 7 9
-0 57 -1 1
-0 55 -1 0
-0 19 0 1
 0 5 1 0
+0 19 0 1
+0 32 7 9
 0 35 -1 0
 0 36 1 3
+0 55 -1 0
+0 57 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b5 rat-a rat-a ta1-2-rat-a ta2-1-rat-a
 0
 7
-0 32 7 9
-0 57 -1 1
-0 55 -1 0
-0 21 0 1
 0 4 1 0
+0 21 0 1
+0 32 7 9
 0 35 -1 0
 0 36 1 3
+0 55 -1 0
+0 57 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b5 rat-a rat-a ta1-2-rat-a ta2-2-rat-a
 0
 7
-0 32 7 9
-0 57 -1 1
-0 55 -1 0
-0 21 0 1
 0 5 1 0
+0 21 0 1
+0 32 7 9
 0 35 -1 0
 0 36 1 3
+0 55 -1 0
+0 57 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b6 rat-a lco ta1-1-lco ta2-1-rat-a
 0
 7
-0 32 8 9
-0 56 -1 1
-0 55 -1 0
-0 27 0 1
 0 4 1 0
+0 27 0 1
 0 31 -1 0
+0 32 8 9
 0 36 1 3
+0 55 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b6 rat-a lco ta1-1-lco ta2-2-rat-a
 0
 7
-0 32 8 9
-0 56 -1 1
-0 55 -1 0
-0 27 0 1
 0 5 1 0
+0 27 0 1
 0 31 -1 0
+0 32 8 9
 0 36 1 3
+0 55 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b6 rat-a lco ta1-2-lco ta2-1-rat-a
 0
 7
-0 32 8 9
-0 56 -1 1
-0 55 -1 0
-0 28 0 1
 0 4 1 0
+0 28 0 1
 0 31 -1 0
+0 32 8 9
 0 36 1 3
+0 55 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b6 rat-a lco ta1-2-lco ta2-2-rat-a
 0
 7
-0 32 8 9
-0 56 -1 1
-0 55 -1 0
-0 28 0 1
 0 5 1 0
+0 28 0 1
 0 31 -1 0
+0 32 8 9
 0 36 1 3
+0 55 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b6 rat-a lco ta1-3-lco ta2-1-rat-a
 0
 7
-0 32 8 9
-0 56 -1 1
-0 55 -1 0
-0 29 0 1
 0 4 1 0
+0 29 0 1
 0 31 -1 0
+0 32 8 9
 0 36 1 3
+0 55 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b6 rat-a lco ta1-3-lco ta2-2-rat-a
 0
 7
-0 32 8 9
-0 56 -1 1
-0 55 -1 0
-0 29 0 1
 0 5 1 0
+0 29 0 1
 0 31 -1 0
+0 32 8 9
 0 36 1 3
+0 55 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b9 rat-a lco ta1-1-lco ta2-1-rat-a
 0
 7
-0 32 11 9
-0 55 -1 0
-0 53 -1 1
-0 27 0 1
 0 4 1 0
+0 27 0 1
+0 32 11 9
 0 36 1 3
 0 40 -1 0
+0 53 -1 1
+0 55 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b9 rat-a lco ta1-1-lco ta2-2-rat-a
 0
 7
-0 32 11 9
-0 55 -1 0
-0 53 -1 1
-0 27 0 1
 0 5 1 0
+0 27 0 1
+0 32 11 9
 0 36 1 3
 0 40 -1 0
+0 53 -1 1
+0 55 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b9 rat-a lco ta1-2-lco ta2-1-rat-a
 0
 7
-0 32 11 9
-0 55 -1 0
-0 53 -1 1
-0 28 0 1
 0 4 1 0
+0 28 0 1
+0 32 11 9
 0 36 1 3
 0 40 -1 0
+0 53 -1 1
+0 55 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b9 rat-a lco ta1-2-lco ta2-2-rat-a
 0
 7
-0 32 11 9
-0 55 -1 0
-0 53 -1 1
-0 28 0 1
 0 5 1 0
+0 28 0 1
+0 32 11 9
 0 36 1 3
 0 40 -1 0
+0 53 -1 1
+0 55 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b9 rat-a lco ta1-3-lco ta2-1-rat-a
 0
 7
-0 32 11 9
-0 55 -1 0
-0 53 -1 1
-0 29 0 1
 0 4 1 0
+0 29 0 1
+0 32 11 9
 0 36 1 3
 0 40 -1 0
+0 53 -1 1
+0 55 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b7 a1 a2 b9 rat-a lco ta1-3-lco ta2-2-rat-a
 0
 7
-0 32 11 9
-0 55 -1 0
-0 53 -1 1
-0 29 0 1
 0 5 1 0
+0 29 0 1
+0 32 11 9
 0 36 1 3
 0 40 -1 0
+0 53 -1 1
+0 55 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b0 oc1b lco ta1-1-lco ta2-1-oc1b
 0
 7
-0 32 0 10
-0 64 -1 1
-0 54 -1 0
-0 27 0 1
 0 0 1 0
-0 30 -1 0
 0 23 1 3
+0 27 0 1
+0 30 -1 0
+0 32 0 10
+0 54 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b0 oc1b lco ta1-1-lco ta2-2-oc1b
 0
 7
-0 32 0 10
-0 64 -1 1
-0 54 -1 0
-0 27 0 1
 0 1 1 0
-0 30 -1 0
 0 23 1 3
+0 27 0 1
+0 30 -1 0
+0 32 0 10
+0 54 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b0 oc1b lco ta1-2-lco ta2-1-oc1b
 0
 7
-0 32 0 10
-0 64 -1 1
-0 54 -1 0
-0 28 0 1
 0 0 1 0
-0 30 -1 0
 0 23 1 3
+0 28 0 1
+0 30 -1 0
+0 32 0 10
+0 54 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b0 oc1b lco ta1-2-lco ta2-2-oc1b
 0
 7
-0 32 0 10
-0 64 -1 1
-0 54 -1 0
-0 28 0 1
 0 1 1 0
-0 30 -1 0
 0 23 1 3
+0 28 0 1
+0 30 -1 0
+0 32 0 10
+0 54 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b0 oc1b lco ta1-3-lco ta2-1-oc1b
 0
 7
-0 32 0 10
-0 64 -1 1
-0 54 -1 0
-0 29 0 1
 0 0 1 0
-0 30 -1 0
 0 23 1 3
+0 29 0 1
+0 30 -1 0
+0 32 0 10
+0 54 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b0 oc1b lco ta1-3-lco ta2-2-oc1b
 0
 7
-0 32 0 10
-0 64 -1 1
-0 54 -1 0
-0 29 0 1
 0 1 1 0
-0 30 -1 0
 0 23 1 3
+0 29 0 1
+0 30 -1 0
+0 32 0 10
+0 54 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b1 oc1b oc1b ta1-1-oc1b ta2-1-oc1b
 0
 7
-0 32 1 10
-0 63 -1 1
-0 54 -1 0
-0 8 0 1
 0 0 1 0
-0 34 -1 0
+0 8 0 1
 0 23 1 3
+0 32 1 10
+0 34 -1 0
+0 54 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b1 oc1b oc1b ta1-1-oc1b ta2-2-oc1b
 0
 7
-0 32 1 10
-0 63 -1 1
-0 54 -1 0
-0 8 0 1
 0 1 1 0
-0 34 -1 0
+0 8 0 1
 0 23 1 3
+0 32 1 10
+0 34 -1 0
+0 54 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b1 oc1b oc1b ta1-2-oc1b ta2-1-oc1b
 0
 7
-0 32 1 10
-0 63 -1 1
-0 54 -1 0
-0 10 0 1
 0 0 1 0
-0 34 -1 0
+0 10 0 1
 0 23 1 3
+0 32 1 10
+0 34 -1 0
+0 54 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b1 oc1b oc1b ta1-2-oc1b ta2-2-oc1b
 0
 7
-0 32 1 10
-0 63 -1 1
-0 54 -1 0
-0 10 0 1
 0 1 1 0
-0 34 -1 0
+0 10 0 1
 0 23 1 3
+0 32 1 10
+0 34 -1 0
+0 54 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b10 oc1b gasoleo ta1-1-gasoleo ta2-1-oc1b
 0
 7
-0 32 2 10
-0 62 -1 1
-0 54 -1 0
-0 22 0 1
 0 0 1 0
-0 26 -1 0
+0 22 0 1
 0 23 1 3
+0 26 -1 0
+0 32 2 10
+0 54 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b10 oc1b gasoleo ta1-1-gasoleo ta2-2-oc1b
 0
 7
-0 32 2 10
-0 62 -1 1
-0 54 -1 0
-0 22 0 1
 0 1 1 0
-0 26 -1 0
+0 22 0 1
 0 23 1 3
+0 26 -1 0
+0 32 2 10
+0 54 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b10 oc1b gasoleo ta1-2-gasoleo ta2-1-oc1b
 0
 7
-0 32 2 10
-0 62 -1 1
-0 54 -1 0
-0 24 0 1
 0 0 1 0
-0 26 -1 0
 0 23 1 3
+0 24 0 1
+0 26 -1 0
+0 32 2 10
+0 54 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b10 oc1b gasoleo ta1-2-gasoleo ta2-2-oc1b
 0
 7
-0 32 2 10
-0 62 -1 1
-0 54 -1 0
-0 24 0 1
 0 1 1 0
-0 26 -1 0
 0 23 1 3
+0 24 0 1
+0 26 -1 0
+0 32 2 10
+0 54 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b11 oc1b gasoleo ta1-1-gasoleo ta2-1-oc1b
 0
 7
-0 32 3 10
-0 61 -1 1
-0 54 -1 0
-0 22 0 1
 0 0 1 0
-0 37 -1 0
+0 22 0 1
 0 23 1 3
+0 32 3 10
+0 37 -1 0
+0 54 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b11 oc1b gasoleo ta1-1-gasoleo ta2-2-oc1b
 0
 7
-0 32 3 10
-0 61 -1 1
-0 54 -1 0
-0 22 0 1
 0 1 1 0
-0 37 -1 0
+0 22 0 1
 0 23 1 3
+0 32 3 10
+0 37 -1 0
+0 54 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b11 oc1b gasoleo ta1-2-gasoleo ta2-1-oc1b
 0
 7
-0 32 3 10
-0 61 -1 1
-0 54 -1 0
-0 24 0 1
 0 0 1 0
-0 37 -1 0
 0 23 1 3
+0 24 0 1
+0 32 3 10
+0 37 -1 0
+0 54 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b11 oc1b gasoleo ta1-2-gasoleo ta2-2-oc1b
 0
 7
-0 32 3 10
-0 61 -1 1
-0 54 -1 0
-0 24 0 1
 0 1 1 0
-0 37 -1 0
 0 23 1 3
+0 24 0 1
+0 32 3 10
+0 37 -1 0
+0 54 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b3 oc1b gasoleo ta1-1-gasoleo ta2-1-oc1b
 0
 7
-0 32 5 10
-0 59 -1 1
-0 54 -1 0
-0 22 0 1
 0 0 1 0
-0 38 -1 0
+0 22 0 1
 0 23 1 3
+0 32 5 10
+0 38 -1 0
+0 54 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b3 oc1b gasoleo ta1-1-gasoleo ta2-2-oc1b
 0
 7
-0 32 5 10
-0 59 -1 1
-0 54 -1 0
-0 22 0 1
 0 1 1 0
-0 38 -1 0
+0 22 0 1
 0 23 1 3
+0 32 5 10
+0 38 -1 0
+0 54 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b3 oc1b gasoleo ta1-2-gasoleo ta2-1-oc1b
 0
 7
-0 32 5 10
-0 59 -1 1
-0 54 -1 0
-0 24 0 1
 0 0 1 0
-0 38 -1 0
 0 23 1 3
+0 24 0 1
+0 32 5 10
+0 38 -1 0
+0 54 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b3 oc1b gasoleo ta1-2-gasoleo ta2-2-oc1b
 0
 7
-0 32 5 10
-0 59 -1 1
-0 54 -1 0
-0 24 0 1
 0 1 1 0
-0 38 -1 0
 0 23 1 3
+0 24 0 1
+0 32 5 10
+0 38 -1 0
+0 54 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b4 oc1b lco ta1-1-lco ta2-1-oc1b
 0
 7
-0 32 6 10
-0 58 -1 1
-0 54 -1 0
-0 27 0 1
 0 0 1 0
-0 39 -1 0
 0 23 1 3
+0 27 0 1
+0 32 6 10
+0 39 -1 0
+0 54 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b4 oc1b lco ta1-1-lco ta2-2-oc1b
 0
 7
-0 32 6 10
-0 58 -1 1
-0 54 -1 0
-0 27 0 1
 0 1 1 0
-0 39 -1 0
 0 23 1 3
+0 27 0 1
+0 32 6 10
+0 39 -1 0
+0 54 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b4 oc1b lco ta1-2-lco ta2-1-oc1b
 0
 7
-0 32 6 10
-0 58 -1 1
-0 54 -1 0
-0 28 0 1
 0 0 1 0
-0 39 -1 0
 0 23 1 3
+0 28 0 1
+0 32 6 10
+0 39 -1 0
+0 54 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b4 oc1b lco ta1-2-lco ta2-2-oc1b
 0
 7
-0 32 6 10
-0 58 -1 1
-0 54 -1 0
-0 28 0 1
 0 1 1 0
-0 39 -1 0
 0 23 1 3
+0 28 0 1
+0 32 6 10
+0 39 -1 0
+0 54 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b4 oc1b lco ta1-3-lco ta2-1-oc1b
 0
 7
-0 32 6 10
-0 58 -1 1
-0 54 -1 0
-0 29 0 1
 0 0 1 0
-0 39 -1 0
 0 23 1 3
+0 29 0 1
+0 32 6 10
+0 39 -1 0
+0 54 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b4 oc1b lco ta1-3-lco ta2-2-oc1b
 0
 7
-0 32 6 10
-0 58 -1 1
-0 54 -1 0
-0 29 0 1
 0 1 1 0
-0 39 -1 0
 0 23 1 3
+0 29 0 1
+0 32 6 10
+0 39 -1 0
+0 54 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b6 oc1b lco ta1-1-lco ta2-1-oc1b
 0
 7
-0 32 8 10
-0 56 -1 1
-0 54 -1 0
-0 27 0 1
 0 0 1 0
-0 31 -1 0
 0 23 1 3
+0 27 0 1
+0 31 -1 0
+0 32 8 10
+0 54 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b6 oc1b lco ta1-1-lco ta2-2-oc1b
 0
 7
-0 32 8 10
-0 56 -1 1
-0 54 -1 0
-0 27 0 1
 0 1 1 0
-0 31 -1 0
 0 23 1 3
+0 27 0 1
+0 31 -1 0
+0 32 8 10
+0 54 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b6 oc1b lco ta1-2-lco ta2-1-oc1b
 0
 7
-0 32 8 10
-0 56 -1 1
-0 54 -1 0
-0 28 0 1
 0 0 1 0
-0 31 -1 0
 0 23 1 3
+0 28 0 1
+0 31 -1 0
+0 32 8 10
+0 54 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b6 oc1b lco ta1-2-lco ta2-2-oc1b
 0
 7
-0 32 8 10
-0 56 -1 1
-0 54 -1 0
-0 28 0 1
 0 1 1 0
-0 31 -1 0
 0 23 1 3
+0 28 0 1
+0 31 -1 0
+0 32 8 10
+0 54 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b6 oc1b lco ta1-3-lco ta2-1-oc1b
 0
 7
-0 32 8 10
-0 56 -1 1
-0 54 -1 0
-0 29 0 1
 0 0 1 0
-0 31 -1 0
 0 23 1 3
+0 29 0 1
+0 31 -1 0
+0 32 8 10
+0 54 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b6 oc1b lco ta1-3-lco ta2-2-oc1b
 0
 7
-0 32 8 10
-0 56 -1 1
-0 54 -1 0
-0 29 0 1
 0 1 1 0
-0 31 -1 0
 0 23 1 3
+0 29 0 1
+0 31 -1 0
+0 32 8 10
+0 54 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b9 oc1b lco ta1-1-lco ta2-1-oc1b
 0
 7
-0 32 11 10
-0 54 -1 0
-0 53 -1 1
-0 27 0 1
 0 0 1 0
 0 23 1 3
+0 27 0 1
+0 32 11 10
 0 40 -1 0
+0 53 -1 1
+0 54 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b9 oc1b lco ta1-1-lco ta2-2-oc1b
 0
 7
-0 32 11 10
-0 54 -1 0
-0 53 -1 1
-0 27 0 1
 0 1 1 0
 0 23 1 3
+0 27 0 1
+0 32 11 10
 0 40 -1 0
+0 53 -1 1
+0 54 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b9 oc1b lco ta1-2-lco ta2-1-oc1b
 0
 7
-0 32 11 10
-0 54 -1 0
-0 53 -1 1
-0 28 0 1
 0 0 1 0
 0 23 1 3
+0 28 0 1
+0 32 11 10
 0 40 -1 0
+0 53 -1 1
+0 54 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b9 oc1b lco ta1-2-lco ta2-2-oc1b
 0
 7
-0 32 11 10
-0 54 -1 0
-0 53 -1 1
-0 28 0 1
 0 1 1 0
 0 23 1 3
+0 28 0 1
+0 32 11 10
 0 40 -1 0
+0 53 -1 1
+0 54 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b9 oc1b lco ta1-3-lco ta2-1-oc1b
 0
 7
-0 32 11 10
-0 54 -1 0
-0 53 -1 1
-0 29 0 1
 0 0 1 0
 0 23 1 3
+0 29 0 1
+0 32 11 10
 0 40 -1 0
+0 53 -1 1
+0 54 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b8 a1 a2 b9 oc1b lco ta1-3-lco ta2-2-oc1b
 0
 7
-0 32 11 10
-0 54 -1 0
-0 53 -1 1
-0 29 0 1
 0 1 1 0
 0 23 1 3
+0 29 0 1
+0 32 11 10
 0 40 -1 0
+0 53 -1 1
+0 54 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b0 lco lco ta1-1-lco ta2-1-lco
 0
 7
-0 32 0 11
-0 64 -1 1
-0 53 -1 0
-0 27 0 1
 0 14 1 0
+0 27 0 1
 0 30 -1 0
+0 32 0 11
 0 40 1 3
+0 53 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b0 lco lco ta1-1-lco ta2-2-lco
 0
 7
-0 32 0 11
-0 64 -1 1
-0 53 -1 0
-0 27 0 1
 0 15 1 0
+0 27 0 1
 0 30 -1 0
+0 32 0 11
 0 40 1 3
+0 53 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b0 lco lco ta1-1-lco ta2-3-lco
 0
 7
-0 32 0 11
-0 64 -1 1
-0 53 -1 0
-0 27 0 1
 0 16 1 0
+0 27 0 1
 0 30 -1 0
+0 32 0 11
 0 40 1 3
+0 53 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b0 lco lco ta1-2-lco ta2-1-lco
 0
 7
-0 32 0 11
-0 64 -1 1
-0 53 -1 0
-0 28 0 1
 0 14 1 0
+0 28 0 1
 0 30 -1 0
+0 32 0 11
 0 40 1 3
+0 53 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b0 lco lco ta1-2-lco ta2-2-lco
 0
 7
-0 32 0 11
-0 64 -1 1
-0 53 -1 0
-0 28 0 1
 0 15 1 0
+0 28 0 1
 0 30 -1 0
+0 32 0 11
 0 40 1 3
+0 53 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b0 lco lco ta1-2-lco ta2-3-lco
 0
 7
-0 32 0 11
-0 64 -1 1
-0 53 -1 0
-0 28 0 1
 0 16 1 0
+0 28 0 1
 0 30 -1 0
+0 32 0 11
 0 40 1 3
+0 53 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b0 lco lco ta1-3-lco ta2-1-lco
 0
 7
-0 32 0 11
-0 64 -1 1
-0 53 -1 0
-0 29 0 1
 0 14 1 0
+0 29 0 1
 0 30 -1 0
+0 32 0 11
 0 40 1 3
+0 53 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b0 lco lco ta1-3-lco ta2-2-lco
 0
 7
-0 32 0 11
-0 64 -1 1
-0 53 -1 0
-0 29 0 1
 0 15 1 0
+0 29 0 1
 0 30 -1 0
+0 32 0 11
 0 40 1 3
+0 53 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b0 lco lco ta1-3-lco ta2-3-lco
 0
 7
-0 32 0 11
-0 64 -1 1
-0 53 -1 0
-0 29 0 1
 0 16 1 0
+0 29 0 1
 0 30 -1 0
+0 32 0 11
 0 40 1 3
+0 53 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b1 lco oc1b ta1-1-oc1b ta2-1-lco
 0
 7
-0 32 1 11
-0 63 -1 1
-0 53 -1 0
 0 8 0 1
 0 14 1 0
+0 32 1 11
 0 34 -1 0
 0 40 1 3
+0 53 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b1 lco oc1b ta1-1-oc1b ta2-2-lco
 0
 7
-0 32 1 11
-0 63 -1 1
-0 53 -1 0
 0 8 0 1
 0 15 1 0
+0 32 1 11
 0 34 -1 0
 0 40 1 3
+0 53 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b1 lco oc1b ta1-1-oc1b ta2-3-lco
 0
 7
-0 32 1 11
-0 63 -1 1
-0 53 -1 0
 0 8 0 1
 0 16 1 0
+0 32 1 11
 0 34 -1 0
 0 40 1 3
+0 53 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b1 lco oc1b ta1-2-oc1b ta2-1-lco
 0
 7
-0 32 1 11
-0 63 -1 1
-0 53 -1 0
 0 10 0 1
 0 14 1 0
+0 32 1 11
 0 34 -1 0
 0 40 1 3
+0 53 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b1 lco oc1b ta1-2-oc1b ta2-2-lco
 0
 7
-0 32 1 11
-0 63 -1 1
-0 53 -1 0
 0 10 0 1
 0 15 1 0
+0 32 1 11
 0 34 -1 0
 0 40 1 3
+0 53 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b1 lco oc1b ta1-2-oc1b ta2-3-lco
 0
 7
-0 32 1 11
-0 63 -1 1
-0 53 -1 0
 0 10 0 1
 0 16 1 0
+0 32 1 11
 0 34 -1 0
 0 40 1 3
+0 53 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b10 lco gasoleo ta1-1-gasoleo ta2-1-lco
 0
 7
-0 32 2 11
-0 62 -1 1
-0 53 -1 0
-0 22 0 1
 0 14 1 0
+0 22 0 1
 0 26 -1 0
+0 32 2 11
 0 40 1 3
+0 53 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b10 lco gasoleo ta1-1-gasoleo ta2-2-lco
 0
 7
-0 32 2 11
-0 62 -1 1
-0 53 -1 0
-0 22 0 1
 0 15 1 0
+0 22 0 1
 0 26 -1 0
+0 32 2 11
 0 40 1 3
+0 53 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b10 lco gasoleo ta1-1-gasoleo ta2-3-lco
 0
 7
-0 32 2 11
-0 62 -1 1
-0 53 -1 0
-0 22 0 1
 0 16 1 0
+0 22 0 1
 0 26 -1 0
+0 32 2 11
 0 40 1 3
+0 53 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b10 lco gasoleo ta1-2-gasoleo ta2-1-lco
 0
 7
-0 32 2 11
-0 62 -1 1
-0 53 -1 0
-0 24 0 1
 0 14 1 0
+0 24 0 1
 0 26 -1 0
+0 32 2 11
 0 40 1 3
+0 53 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b10 lco gasoleo ta1-2-gasoleo ta2-2-lco
 0
 7
-0 32 2 11
-0 62 -1 1
-0 53 -1 0
-0 24 0 1
 0 15 1 0
+0 24 0 1
 0 26 -1 0
+0 32 2 11
 0 40 1 3
+0 53 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b10 lco gasoleo ta1-2-gasoleo ta2-3-lco
 0
 7
-0 32 2 11
-0 62 -1 1
-0 53 -1 0
-0 24 0 1
 0 16 1 0
+0 24 0 1
 0 26 -1 0
+0 32 2 11
 0 40 1 3
+0 53 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b11 lco gasoleo ta1-1-gasoleo ta2-1-lco
 0
 7
-0 32 3 11
-0 61 -1 1
-0 53 -1 0
-0 22 0 1
 0 14 1 0
+0 22 0 1
+0 32 3 11
 0 37 -1 0
 0 40 1 3
+0 53 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b11 lco gasoleo ta1-1-gasoleo ta2-2-lco
 0
 7
-0 32 3 11
-0 61 -1 1
-0 53 -1 0
-0 22 0 1
 0 15 1 0
+0 22 0 1
+0 32 3 11
 0 37 -1 0
 0 40 1 3
+0 53 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b11 lco gasoleo ta1-1-gasoleo ta2-3-lco
 0
 7
-0 32 3 11
-0 61 -1 1
-0 53 -1 0
-0 22 0 1
 0 16 1 0
+0 22 0 1
+0 32 3 11
 0 37 -1 0
 0 40 1 3
+0 53 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b11 lco gasoleo ta1-2-gasoleo ta2-1-lco
 0
 7
-0 32 3 11
-0 61 -1 1
-0 53 -1 0
-0 24 0 1
 0 14 1 0
+0 24 0 1
+0 32 3 11
 0 37 -1 0
 0 40 1 3
+0 53 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b11 lco gasoleo ta1-2-gasoleo ta2-2-lco
 0
 7
-0 32 3 11
-0 61 -1 1
-0 53 -1 0
-0 24 0 1
 0 15 1 0
+0 24 0 1
+0 32 3 11
 0 37 -1 0
 0 40 1 3
+0 53 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b11 lco gasoleo ta1-2-gasoleo ta2-3-lco
 0
 7
-0 32 3 11
-0 61 -1 1
-0 53 -1 0
-0 24 0 1
 0 16 1 0
+0 24 0 1
+0 32 3 11
 0 37 -1 0
 0 40 1 3
+0 53 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b2 lco rat-a ta1-1-rat-a ta2-1-lco
 0
 7
-0 32 4 11
-0 60 -1 1
-0 53 -1 0
-0 19 0 1
 0 14 1 0
+0 19 0 1
 0 25 -1 0
+0 32 4 11
 0 40 1 3
+0 53 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b2 lco rat-a ta1-1-rat-a ta2-2-lco
 0
 7
-0 32 4 11
-0 60 -1 1
-0 53 -1 0
-0 19 0 1
 0 15 1 0
+0 19 0 1
 0 25 -1 0
+0 32 4 11
 0 40 1 3
+0 53 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b2 lco rat-a ta1-1-rat-a ta2-3-lco
 0
 7
-0 32 4 11
-0 60 -1 1
-0 53 -1 0
-0 19 0 1
 0 16 1 0
+0 19 0 1
 0 25 -1 0
+0 32 4 11
 0 40 1 3
+0 53 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b2 lco rat-a ta1-2-rat-a ta2-1-lco
 0
 7
-0 32 4 11
-0 60 -1 1
-0 53 -1 0
-0 21 0 1
 0 14 1 0
+0 21 0 1
 0 25 -1 0
+0 32 4 11
 0 40 1 3
+0 53 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b2 lco rat-a ta1-2-rat-a ta2-2-lco
 0
 7
-0 32 4 11
-0 60 -1 1
-0 53 -1 0
-0 21 0 1
 0 15 1 0
+0 21 0 1
 0 25 -1 0
+0 32 4 11
 0 40 1 3
+0 53 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b2 lco rat-a ta1-2-rat-a ta2-3-lco
 0
 7
-0 32 4 11
-0 60 -1 1
-0 53 -1 0
-0 21 0 1
 0 16 1 0
+0 21 0 1
 0 25 -1 0
+0 32 4 11
 0 40 1 3
+0 53 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b3 lco gasoleo ta1-1-gasoleo ta2-1-lco
 0
 7
-0 32 5 11
-0 59 -1 1
-0 53 -1 0
-0 22 0 1
 0 14 1 0
+0 22 0 1
+0 32 5 11
 0 38 -1 0
 0 40 1 3
+0 53 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b3 lco gasoleo ta1-1-gasoleo ta2-2-lco
 0
 7
-0 32 5 11
-0 59 -1 1
-0 53 -1 0
-0 22 0 1
 0 15 1 0
+0 22 0 1
+0 32 5 11
 0 38 -1 0
 0 40 1 3
+0 53 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b3 lco gasoleo ta1-1-gasoleo ta2-3-lco
 0
 7
-0 32 5 11
-0 59 -1 1
-0 53 -1 0
-0 22 0 1
 0 16 1 0
+0 22 0 1
+0 32 5 11
 0 38 -1 0
 0 40 1 3
+0 53 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b3 lco gasoleo ta1-2-gasoleo ta2-1-lco
 0
 7
-0 32 5 11
-0 59 -1 1
-0 53 -1 0
-0 24 0 1
 0 14 1 0
+0 24 0 1
+0 32 5 11
 0 38 -1 0
 0 40 1 3
+0 53 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b3 lco gasoleo ta1-2-gasoleo ta2-2-lco
 0
 7
-0 32 5 11
-0 59 -1 1
-0 53 -1 0
-0 24 0 1
 0 15 1 0
+0 24 0 1
+0 32 5 11
 0 38 -1 0
 0 40 1 3
+0 53 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b3 lco gasoleo ta1-2-gasoleo ta2-3-lco
 0
 7
-0 32 5 11
-0 59 -1 1
-0 53 -1 0
-0 24 0 1
 0 16 1 0
+0 24 0 1
+0 32 5 11
 0 38 -1 0
 0 40 1 3
+0 53 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b4 lco lco ta1-1-lco ta2-1-lco
 0
 7
-0 32 6 11
-0 58 -1 1
-0 53 -1 0
-0 27 0 1
 0 14 1 0
+0 27 0 1
+0 32 6 11
 0 39 -1 0
 0 40 1 3
+0 53 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b4 lco lco ta1-1-lco ta2-2-lco
 0
 7
-0 32 6 11
-0 58 -1 1
-0 53 -1 0
-0 27 0 1
 0 15 1 0
+0 27 0 1
+0 32 6 11
 0 39 -1 0
 0 40 1 3
+0 53 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b4 lco lco ta1-1-lco ta2-3-lco
 0
 7
-0 32 6 11
-0 58 -1 1
-0 53 -1 0
-0 27 0 1
 0 16 1 0
+0 27 0 1
+0 32 6 11
 0 39 -1 0
 0 40 1 3
+0 53 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b4 lco lco ta1-2-lco ta2-1-lco
 0
 7
-0 32 6 11
-0 58 -1 1
-0 53 -1 0
-0 28 0 1
 0 14 1 0
+0 28 0 1
+0 32 6 11
 0 39 -1 0
 0 40 1 3
+0 53 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b4 lco lco ta1-2-lco ta2-2-lco
 0
 7
-0 32 6 11
-0 58 -1 1
-0 53 -1 0
-0 28 0 1
 0 15 1 0
+0 28 0 1
+0 32 6 11
 0 39 -1 0
 0 40 1 3
+0 53 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b4 lco lco ta1-2-lco ta2-3-lco
 0
 7
-0 32 6 11
-0 58 -1 1
-0 53 -1 0
-0 28 0 1
 0 16 1 0
+0 28 0 1
+0 32 6 11
 0 39 -1 0
 0 40 1 3
+0 53 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b4 lco lco ta1-3-lco ta2-1-lco
 0
 7
-0 32 6 11
-0 58 -1 1
-0 53 -1 0
-0 29 0 1
 0 14 1 0
+0 29 0 1
+0 32 6 11
 0 39 -1 0
 0 40 1 3
+0 53 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b4 lco lco ta1-3-lco ta2-2-lco
 0
 7
-0 32 6 11
-0 58 -1 1
-0 53 -1 0
-0 29 0 1
 0 15 1 0
+0 29 0 1
+0 32 6 11
 0 39 -1 0
 0 40 1 3
+0 53 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b4 lco lco ta1-3-lco ta2-3-lco
 0
 7
-0 32 6 11
-0 58 -1 1
-0 53 -1 0
-0 29 0 1
 0 16 1 0
+0 29 0 1
+0 32 6 11
 0 39 -1 0
 0 40 1 3
+0 53 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b5 lco rat-a ta1-1-rat-a ta2-1-lco
 0
 7
-0 32 7 11
-0 57 -1 1
-0 53 -1 0
-0 19 0 1
 0 14 1 0
+0 19 0 1
+0 32 7 11
 0 35 -1 0
 0 40 1 3
+0 53 -1 0
+0 57 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b5 lco rat-a ta1-1-rat-a ta2-2-lco
 0
 7
-0 32 7 11
-0 57 -1 1
-0 53 -1 0
-0 19 0 1
 0 15 1 0
+0 19 0 1
+0 32 7 11
 0 35 -1 0
 0 40 1 3
+0 53 -1 0
+0 57 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b5 lco rat-a ta1-1-rat-a ta2-3-lco
 0
 7
-0 32 7 11
-0 57 -1 1
-0 53 -1 0
-0 19 0 1
 0 16 1 0
+0 19 0 1
+0 32 7 11
 0 35 -1 0
 0 40 1 3
+0 53 -1 0
+0 57 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b5 lco rat-a ta1-2-rat-a ta2-1-lco
 0
 7
-0 32 7 11
-0 57 -1 1
-0 53 -1 0
-0 21 0 1
 0 14 1 0
+0 21 0 1
+0 32 7 11
 0 35 -1 0
 0 40 1 3
+0 53 -1 0
+0 57 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b5 lco rat-a ta1-2-rat-a ta2-2-lco
 0
 7
-0 32 7 11
-0 57 -1 1
-0 53 -1 0
-0 21 0 1
 0 15 1 0
+0 21 0 1
+0 32 7 11
 0 35 -1 0
 0 40 1 3
+0 53 -1 0
+0 57 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b5 lco rat-a ta1-2-rat-a ta2-3-lco
 0
 7
-0 32 7 11
-0 57 -1 1
-0 53 -1 0
-0 21 0 1
 0 16 1 0
+0 21 0 1
+0 32 7 11
 0 35 -1 0
 0 40 1 3
+0 53 -1 0
+0 57 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b6 lco lco ta1-1-lco ta2-1-lco
 0
 7
-0 32 8 11
-0 56 -1 1
-0 53 -1 0
-0 27 0 1
 0 14 1 0
+0 27 0 1
 0 31 -1 0
+0 32 8 11
 0 40 1 3
+0 53 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b6 lco lco ta1-1-lco ta2-2-lco
 0
 7
-0 32 8 11
-0 56 -1 1
-0 53 -1 0
-0 27 0 1
 0 15 1 0
+0 27 0 1
 0 31 -1 0
+0 32 8 11
 0 40 1 3
+0 53 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b6 lco lco ta1-1-lco ta2-3-lco
 0
 7
-0 32 8 11
-0 56 -1 1
-0 53 -1 0
-0 27 0 1
 0 16 1 0
+0 27 0 1
 0 31 -1 0
+0 32 8 11
 0 40 1 3
+0 53 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b6 lco lco ta1-2-lco ta2-1-lco
 0
 7
-0 32 8 11
-0 56 -1 1
-0 53 -1 0
-0 28 0 1
 0 14 1 0
+0 28 0 1
 0 31 -1 0
+0 32 8 11
 0 40 1 3
+0 53 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b6 lco lco ta1-2-lco ta2-2-lco
 0
 7
-0 32 8 11
-0 56 -1 1
-0 53 -1 0
-0 28 0 1
 0 15 1 0
+0 28 0 1
 0 31 -1 0
+0 32 8 11
 0 40 1 3
+0 53 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b6 lco lco ta1-2-lco ta2-3-lco
 0
 7
-0 32 8 11
-0 56 -1 1
-0 53 -1 0
-0 28 0 1
 0 16 1 0
+0 28 0 1
 0 31 -1 0
+0 32 8 11
 0 40 1 3
+0 53 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b6 lco lco ta1-3-lco ta2-1-lco
 0
 7
-0 32 8 11
-0 56 -1 1
-0 53 -1 0
-0 29 0 1
 0 14 1 0
+0 29 0 1
 0 31 -1 0
+0 32 8 11
 0 40 1 3
+0 53 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b6 lco lco ta1-3-lco ta2-2-lco
 0
 7
-0 32 8 11
-0 56 -1 1
-0 53 -1 0
-0 29 0 1
 0 15 1 0
+0 29 0 1
 0 31 -1 0
+0 32 8 11
 0 40 1 3
+0 53 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b6 lco lco ta1-3-lco ta2-3-lco
 0
 7
-0 32 8 11
-0 56 -1 1
-0 53 -1 0
-0 29 0 1
 0 16 1 0
+0 29 0 1
 0 31 -1 0
+0 32 8 11
 0 40 1 3
+0 53 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b7 lco rat-a ta1-1-rat-a ta2-1-lco
 0
 7
-0 32 9 11
-0 55 -1 1
-0 53 -1 0
-0 19 0 1
 0 14 1 0
+0 19 0 1
+0 32 9 11
 0 36 -1 0
 0 40 1 3
+0 53 -1 0
+0 55 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b7 lco rat-a ta1-1-rat-a ta2-2-lco
 0
 7
-0 32 9 11
-0 55 -1 1
-0 53 -1 0
-0 19 0 1
 0 15 1 0
+0 19 0 1
+0 32 9 11
 0 36 -1 0
 0 40 1 3
+0 53 -1 0
+0 55 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b7 lco rat-a ta1-1-rat-a ta2-3-lco
 0
 7
-0 32 9 11
-0 55 -1 1
-0 53 -1 0
-0 19 0 1
 0 16 1 0
+0 19 0 1
+0 32 9 11
 0 36 -1 0
 0 40 1 3
+0 53 -1 0
+0 55 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b7 lco rat-a ta1-2-rat-a ta2-1-lco
 0
 7
-0 32 9 11
-0 55 -1 1
-0 53 -1 0
-0 21 0 1
 0 14 1 0
+0 21 0 1
+0 32 9 11
 0 36 -1 0
 0 40 1 3
+0 53 -1 0
+0 55 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b7 lco rat-a ta1-2-rat-a ta2-2-lco
 0
 7
-0 32 9 11
-0 55 -1 1
-0 53 -1 0
-0 21 0 1
 0 15 1 0
+0 21 0 1
+0 32 9 11
 0 36 -1 0
 0 40 1 3
+0 53 -1 0
+0 55 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b7 lco rat-a ta1-2-rat-a ta2-3-lco
 0
 7
-0 32 9 11
-0 55 -1 1
-0 53 -1 0
-0 21 0 1
 0 16 1 0
+0 21 0 1
+0 32 9 11
 0 36 -1 0
 0 40 1 3
+0 53 -1 0
+0 55 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b8 lco oc1b ta1-1-oc1b ta2-1-lco
 0
 7
-0 32 10 11
-0 54 -1 1
-0 53 -1 0
 0 8 0 1
 0 14 1 0
 0 23 -1 0
+0 32 10 11
 0 40 1 3
+0 53 -1 0
+0 54 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b8 lco oc1b ta1-1-oc1b ta2-2-lco
 0
 7
-0 32 10 11
-0 54 -1 1
-0 53 -1 0
 0 8 0 1
 0 15 1 0
 0 23 -1 0
+0 32 10 11
 0 40 1 3
+0 53 -1 0
+0 54 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b8 lco oc1b ta1-1-oc1b ta2-3-lco
 0
 7
-0 32 10 11
-0 54 -1 1
-0 53 -1 0
 0 8 0 1
 0 16 1 0
 0 23 -1 0
+0 32 10 11
 0 40 1 3
+0 53 -1 0
+0 54 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b8 lco oc1b ta1-2-oc1b ta2-1-lco
 0
 7
-0 32 10 11
-0 54 -1 1
-0 53 -1 0
 0 10 0 1
 0 14 1 0
 0 23 -1 0
+0 32 10 11
 0 40 1 3
+0 53 -1 0
+0 54 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b8 lco oc1b ta1-2-oc1b ta2-2-lco
 0
 7
-0 32 10 11
-0 54 -1 1
-0 53 -1 0
 0 10 0 1
 0 15 1 0
 0 23 -1 0
+0 32 10 11
 0 40 1 3
+0 53 -1 0
+0 54 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s12 b9 a1 a2 b8 lco oc1b ta1-2-oc1b ta2-3-lco
 0
 7
-0 32 10 11
-0 54 -1 1
-0 53 -1 0
 0 10 0 1
 0 16 1 0
 0 23 -1 0
+0 32 10 11
 0 40 1 3
+0 53 -1 0
+0 54 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b1 lco oc1b ta1-1-oc1b ta3-1-lco
 0
 7
-0 33 1 0
-0 52 -1 0
-0 51 -1 1
 0 8 0 1
 0 17 1 0
 0 30 2 3
+0 33 1 0
 0 34 -1 0
+0 51 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b1 lco oc1b ta1-1-oc1b ta3-2-lco
 0
 7
-0 33 1 0
-0 52 -1 0
-0 51 -1 1
 0 8 0 1
 0 18 1 0
 0 30 2 3
+0 33 1 0
 0 34 -1 0
+0 51 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b1 lco oc1b ta1-1-oc1b ta3-3-lco
 0
 7
-0 33 1 0
-0 52 -1 0
-0 51 -1 1
 0 8 0 1
 0 20 1 0
 0 30 2 3
+0 33 1 0
 0 34 -1 0
+0 51 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b1 lco oc1b ta1-2-oc1b ta3-1-lco
 0
 7
-0 33 1 0
-0 52 -1 0
-0 51 -1 1
 0 10 0 1
 0 17 1 0
 0 30 2 3
+0 33 1 0
 0 34 -1 0
+0 51 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b1 lco oc1b ta1-2-oc1b ta3-2-lco
 0
 7
-0 33 1 0
-0 52 -1 0
-0 51 -1 1
 0 10 0 1
 0 18 1 0
 0 30 2 3
+0 33 1 0
 0 34 -1 0
+0 51 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b1 lco oc1b ta1-2-oc1b ta3-3-lco
 0
 7
-0 33 1 0
-0 52 -1 0
-0 51 -1 1
 0 10 0 1
 0 20 1 0
 0 30 2 3
+0 33 1 0
 0 34 -1 0
+0 51 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b10 lco gasoleo ta1-1-gasoleo ta3-1-lco
 0
 7
-0 33 2 0
-0 52 -1 0
-0 50 -1 1
-0 22 0 1
 0 17 1 0
-0 30 2 3
+0 22 0 1
 0 26 -1 0
+0 30 2 3
+0 33 2 0
+0 50 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b10 lco gasoleo ta1-1-gasoleo ta3-2-lco
 0
 7
-0 33 2 0
-0 52 -1 0
-0 50 -1 1
-0 22 0 1
 0 18 1 0
-0 30 2 3
+0 22 0 1
 0 26 -1 0
+0 30 2 3
+0 33 2 0
+0 50 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b10 lco gasoleo ta1-1-gasoleo ta3-3-lco
 0
 7
-0 33 2 0
-0 52 -1 0
-0 50 -1 1
-0 22 0 1
 0 20 1 0
-0 30 2 3
+0 22 0 1
 0 26 -1 0
+0 30 2 3
+0 33 2 0
+0 50 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b10 lco gasoleo ta1-2-gasoleo ta3-1-lco
 0
 7
-0 33 2 0
-0 52 -1 0
-0 50 -1 1
-0 24 0 1
 0 17 1 0
-0 30 2 3
+0 24 0 1
 0 26 -1 0
+0 30 2 3
+0 33 2 0
+0 50 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b10 lco gasoleo ta1-2-gasoleo ta3-2-lco
 0
 7
-0 33 2 0
-0 52 -1 0
-0 50 -1 1
-0 24 0 1
 0 18 1 0
-0 30 2 3
+0 24 0 1
 0 26 -1 0
+0 30 2 3
+0 33 2 0
+0 50 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b10 lco gasoleo ta1-2-gasoleo ta3-3-lco
 0
 7
-0 33 2 0
-0 52 -1 0
-0 50 -1 1
-0 24 0 1
 0 20 1 0
-0 30 2 3
+0 24 0 1
 0 26 -1 0
+0 30 2 3
+0 33 2 0
+0 50 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b11 lco gasoleo ta1-1-gasoleo ta3-1-lco
 0
 7
-0 33 3 0
-0 52 -1 0
-0 49 -1 1
-0 22 0 1
 0 17 1 0
+0 22 0 1
 0 30 2 3
+0 33 3 0
 0 37 -1 0
+0 49 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b11 lco gasoleo ta1-1-gasoleo ta3-2-lco
 0
 7
-0 33 3 0
-0 52 -1 0
-0 49 -1 1
-0 22 0 1
 0 18 1 0
+0 22 0 1
 0 30 2 3
+0 33 3 0
 0 37 -1 0
+0 49 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b11 lco gasoleo ta1-1-gasoleo ta3-3-lco
 0
 7
-0 33 3 0
-0 52 -1 0
-0 49 -1 1
-0 22 0 1
 0 20 1 0
+0 22 0 1
 0 30 2 3
+0 33 3 0
 0 37 -1 0
+0 49 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b11 lco gasoleo ta1-2-gasoleo ta3-1-lco
 0
 7
-0 33 3 0
-0 52 -1 0
-0 49 -1 1
-0 24 0 1
 0 17 1 0
+0 24 0 1
 0 30 2 3
+0 33 3 0
 0 37 -1 0
+0 49 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b11 lco gasoleo ta1-2-gasoleo ta3-2-lco
 0
 7
-0 33 3 0
-0 52 -1 0
-0 49 -1 1
-0 24 0 1
 0 18 1 0
+0 24 0 1
 0 30 2 3
+0 33 3 0
 0 37 -1 0
+0 49 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b11 lco gasoleo ta1-2-gasoleo ta3-3-lco
 0
 7
-0 33 3 0
-0 52 -1 0
-0 49 -1 1
-0 24 0 1
 0 20 1 0
+0 24 0 1
 0 30 2 3
+0 33 3 0
 0 37 -1 0
+0 49 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b2 lco rat-a ta1-1-rat-a ta3-1-lco
 0
 7
-0 33 4 0
-0 52 -1 0
-0 48 -1 1
-0 19 0 1
 0 17 1 0
-0 30 2 3
+0 19 0 1
 0 25 -1 0
+0 30 2 3
+0 33 4 0
+0 48 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b2 lco rat-a ta1-1-rat-a ta3-2-lco
 0
 7
-0 33 4 0
-0 52 -1 0
-0 48 -1 1
-0 19 0 1
 0 18 1 0
-0 30 2 3
+0 19 0 1
 0 25 -1 0
+0 30 2 3
+0 33 4 0
+0 48 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b2 lco rat-a ta1-1-rat-a ta3-3-lco
 0
 7
-0 33 4 0
-0 52 -1 0
-0 48 -1 1
 0 19 0 1
 0 20 1 0
-0 30 2 3
 0 25 -1 0
+0 30 2 3
+0 33 4 0
+0 48 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b2 lco rat-a ta1-2-rat-a ta3-1-lco
 0
 7
-0 33 4 0
-0 52 -1 0
-0 48 -1 1
-0 21 0 1
 0 17 1 0
-0 30 2 3
+0 21 0 1
 0 25 -1 0
+0 30 2 3
+0 33 4 0
+0 48 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b2 lco rat-a ta1-2-rat-a ta3-2-lco
 0
 7
-0 33 4 0
-0 52 -1 0
-0 48 -1 1
-0 21 0 1
 0 18 1 0
-0 30 2 3
+0 21 0 1
 0 25 -1 0
+0 30 2 3
+0 33 4 0
+0 48 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b2 lco rat-a ta1-2-rat-a ta3-3-lco
 0
 7
-0 33 4 0
-0 52 -1 0
-0 48 -1 1
-0 21 0 1
 0 20 1 0
-0 30 2 3
+0 21 0 1
 0 25 -1 0
+0 30 2 3
+0 33 4 0
+0 48 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b3 lco gasoleo ta1-1-gasoleo ta3-1-lco
 0
 7
-0 33 5 0
-0 52 -1 0
-0 47 -1 1
-0 22 0 1
 0 17 1 0
+0 22 0 1
 0 30 2 3
+0 33 5 0
 0 38 -1 0
+0 47 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b3 lco gasoleo ta1-1-gasoleo ta3-2-lco
 0
 7
-0 33 5 0
-0 52 -1 0
-0 47 -1 1
-0 22 0 1
 0 18 1 0
+0 22 0 1
 0 30 2 3
+0 33 5 0
 0 38 -1 0
+0 47 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b3 lco gasoleo ta1-1-gasoleo ta3-3-lco
 0
 7
-0 33 5 0
-0 52 -1 0
-0 47 -1 1
-0 22 0 1
 0 20 1 0
+0 22 0 1
 0 30 2 3
+0 33 5 0
 0 38 -1 0
+0 47 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b3 lco gasoleo ta1-2-gasoleo ta3-1-lco
 0
 7
-0 33 5 0
-0 52 -1 0
-0 47 -1 1
-0 24 0 1
 0 17 1 0
+0 24 0 1
 0 30 2 3
+0 33 5 0
 0 38 -1 0
+0 47 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b3 lco gasoleo ta1-2-gasoleo ta3-2-lco
 0
 7
-0 33 5 0
-0 52 -1 0
-0 47 -1 1
-0 24 0 1
 0 18 1 0
+0 24 0 1
 0 30 2 3
+0 33 5 0
 0 38 -1 0
+0 47 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b3 lco gasoleo ta1-2-gasoleo ta3-3-lco
 0
 7
-0 33 5 0
-0 52 -1 0
-0 47 -1 1
-0 24 0 1
 0 20 1 0
+0 24 0 1
 0 30 2 3
+0 33 5 0
 0 38 -1 0
+0 47 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b4 lco lco ta1-1-lco ta3-1-lco
 0
 7
-0 33 6 0
-0 52 -1 0
-0 46 -1 1
-0 27 0 1
 0 17 1 0
+0 27 0 1
 0 30 2 3
+0 33 6 0
 0 39 -1 0
+0 46 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b4 lco lco ta1-1-lco ta3-2-lco
 0
 7
-0 33 6 0
-0 52 -1 0
-0 46 -1 1
-0 27 0 1
 0 18 1 0
+0 27 0 1
 0 30 2 3
+0 33 6 0
 0 39 -1 0
+0 46 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b4 lco lco ta1-1-lco ta3-3-lco
 0
 7
-0 33 6 0
-0 52 -1 0
-0 46 -1 1
-0 27 0 1
 0 20 1 0
+0 27 0 1
 0 30 2 3
+0 33 6 0
 0 39 -1 0
+0 46 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b4 lco lco ta1-2-lco ta3-1-lco
 0
 7
-0 33 6 0
-0 52 -1 0
-0 46 -1 1
-0 28 0 1
 0 17 1 0
+0 28 0 1
 0 30 2 3
+0 33 6 0
 0 39 -1 0
+0 46 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b4 lco lco ta1-2-lco ta3-2-lco
 0
 7
-0 33 6 0
-0 52 -1 0
-0 46 -1 1
-0 28 0 1
 0 18 1 0
+0 28 0 1
 0 30 2 3
+0 33 6 0
 0 39 -1 0
+0 46 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b4 lco lco ta1-2-lco ta3-3-lco
 0
 7
-0 33 6 0
-0 52 -1 0
-0 46 -1 1
-0 28 0 1
 0 20 1 0
+0 28 0 1
 0 30 2 3
+0 33 6 0
 0 39 -1 0
+0 46 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b4 lco lco ta1-3-lco ta3-1-lco
 0
 7
-0 33 6 0
-0 52 -1 0
-0 46 -1 1
-0 29 0 1
 0 17 1 0
+0 29 0 1
 0 30 2 3
+0 33 6 0
 0 39 -1 0
+0 46 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b4 lco lco ta1-3-lco ta3-2-lco
 0
 7
-0 33 6 0
-0 52 -1 0
-0 46 -1 1
-0 29 0 1
 0 18 1 0
+0 29 0 1
 0 30 2 3
+0 33 6 0
 0 39 -1 0
+0 46 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b4 lco lco ta1-3-lco ta3-3-lco
 0
 7
-0 33 6 0
-0 52 -1 0
-0 46 -1 1
-0 29 0 1
 0 20 1 0
+0 29 0 1
 0 30 2 3
+0 33 6 0
 0 39 -1 0
+0 46 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b5 lco rat-a ta1-1-rat-a ta3-1-lco
 0
 7
-0 33 7 0
-0 52 -1 0
-0 45 -1 1
-0 19 0 1
 0 17 1 0
+0 19 0 1
 0 30 2 3
+0 33 7 0
 0 35 -1 0
+0 45 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b5 lco rat-a ta1-1-rat-a ta3-2-lco
 0
 7
-0 33 7 0
-0 52 -1 0
-0 45 -1 1
-0 19 0 1
 0 18 1 0
+0 19 0 1
 0 30 2 3
+0 33 7 0
 0 35 -1 0
+0 45 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b5 lco rat-a ta1-1-rat-a ta3-3-lco
 0
 7
-0 33 7 0
-0 52 -1 0
-0 45 -1 1
 0 19 0 1
 0 20 1 0
 0 30 2 3
+0 33 7 0
 0 35 -1 0
+0 45 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b5 lco rat-a ta1-2-rat-a ta3-1-lco
 0
 7
-0 33 7 0
-0 52 -1 0
-0 45 -1 1
-0 21 0 1
 0 17 1 0
+0 21 0 1
 0 30 2 3
+0 33 7 0
 0 35 -1 0
+0 45 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b5 lco rat-a ta1-2-rat-a ta3-2-lco
 0
 7
-0 33 7 0
-0 52 -1 0
-0 45 -1 1
-0 21 0 1
 0 18 1 0
+0 21 0 1
 0 30 2 3
+0 33 7 0
 0 35 -1 0
+0 45 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b5 lco rat-a ta1-2-rat-a ta3-3-lco
 0
 7
-0 33 7 0
-0 52 -1 0
-0 45 -1 1
-0 21 0 1
 0 20 1 0
+0 21 0 1
 0 30 2 3
+0 33 7 0
 0 35 -1 0
+0 45 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b6 lco lco ta1-1-lco ta3-1-lco
 0
 7
-0 33 8 0
-0 52 -1 0
-0 44 -1 1
-0 27 0 1
 0 17 1 0
+0 27 0 1
 0 30 2 3
 0 31 -1 0
+0 33 8 0
+0 44 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b6 lco lco ta1-1-lco ta3-2-lco
 0
 7
-0 33 8 0
-0 52 -1 0
-0 44 -1 1
-0 27 0 1
 0 18 1 0
+0 27 0 1
 0 30 2 3
 0 31 -1 0
+0 33 8 0
+0 44 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b6 lco lco ta1-1-lco ta3-3-lco
 0
 7
-0 33 8 0
-0 52 -1 0
-0 44 -1 1
-0 27 0 1
 0 20 1 0
+0 27 0 1
 0 30 2 3
 0 31 -1 0
+0 33 8 0
+0 44 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b6 lco lco ta1-2-lco ta3-1-lco
 0
 7
-0 33 8 0
-0 52 -1 0
-0 44 -1 1
-0 28 0 1
 0 17 1 0
+0 28 0 1
 0 30 2 3
 0 31 -1 0
+0 33 8 0
+0 44 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b6 lco lco ta1-2-lco ta3-2-lco
 0
 7
-0 33 8 0
-0 52 -1 0
-0 44 -1 1
-0 28 0 1
 0 18 1 0
+0 28 0 1
 0 30 2 3
 0 31 -1 0
+0 33 8 0
+0 44 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b6 lco lco ta1-2-lco ta3-3-lco
 0
 7
-0 33 8 0
-0 52 -1 0
-0 44 -1 1
-0 28 0 1
 0 20 1 0
+0 28 0 1
 0 30 2 3
 0 31 -1 0
+0 33 8 0
+0 44 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b6 lco lco ta1-3-lco ta3-1-lco
 0
 7
-0 33 8 0
-0 52 -1 0
-0 44 -1 1
-0 29 0 1
 0 17 1 0
+0 29 0 1
 0 30 2 3
 0 31 -1 0
+0 33 8 0
+0 44 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b6 lco lco ta1-3-lco ta3-2-lco
 0
 7
-0 33 8 0
-0 52 -1 0
-0 44 -1 1
-0 29 0 1
 0 18 1 0
+0 29 0 1
 0 30 2 3
 0 31 -1 0
+0 33 8 0
+0 44 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b6 lco lco ta1-3-lco ta3-3-lco
 0
 7
-0 33 8 0
-0 52 -1 0
-0 44 -1 1
-0 29 0 1
 0 20 1 0
+0 29 0 1
 0 30 2 3
 0 31 -1 0
+0 33 8 0
+0 44 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b7 lco rat-a ta1-1-rat-a ta3-1-lco
 0
 7
-0 33 9 0
-0 52 -1 0
-0 43 -1 1
-0 19 0 1
 0 17 1 0
+0 19 0 1
 0 30 2 3
+0 33 9 0
 0 36 -1 0
+0 43 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b7 lco rat-a ta1-1-rat-a ta3-2-lco
 0
 7
-0 33 9 0
-0 52 -1 0
-0 43 -1 1
-0 19 0 1
 0 18 1 0
+0 19 0 1
 0 30 2 3
+0 33 9 0
 0 36 -1 0
+0 43 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b7 lco rat-a ta1-1-rat-a ta3-3-lco
 0
 7
-0 33 9 0
-0 52 -1 0
-0 43 -1 1
 0 19 0 1
 0 20 1 0
 0 30 2 3
+0 33 9 0
 0 36 -1 0
+0 43 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b7 lco rat-a ta1-2-rat-a ta3-1-lco
 0
 7
-0 33 9 0
-0 52 -1 0
-0 43 -1 1
-0 21 0 1
 0 17 1 0
+0 21 0 1
 0 30 2 3
+0 33 9 0
 0 36 -1 0
+0 43 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b7 lco rat-a ta1-2-rat-a ta3-2-lco
 0
 7
-0 33 9 0
-0 52 -1 0
-0 43 -1 1
-0 21 0 1
 0 18 1 0
+0 21 0 1
 0 30 2 3
+0 33 9 0
 0 36 -1 0
+0 43 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b7 lco rat-a ta1-2-rat-a ta3-3-lco
 0
 7
-0 33 9 0
-0 52 -1 0
-0 43 -1 1
-0 21 0 1
 0 20 1 0
+0 21 0 1
 0 30 2 3
+0 33 9 0
 0 36 -1 0
+0 43 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b8 lco oc1b ta1-1-oc1b ta3-1-lco
 0
 7
-0 33 10 0
-0 52 -1 0
-0 42 -1 1
 0 8 0 1
 0 17 1 0
-0 30 2 3
 0 23 -1 0
+0 30 2 3
+0 33 10 0
+0 42 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b8 lco oc1b ta1-1-oc1b ta3-2-lco
 0
 7
-0 33 10 0
-0 52 -1 0
-0 42 -1 1
 0 8 0 1
 0 18 1 0
-0 30 2 3
 0 23 -1 0
+0 30 2 3
+0 33 10 0
+0 42 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b8 lco oc1b ta1-1-oc1b ta3-3-lco
 0
 7
-0 33 10 0
-0 52 -1 0
-0 42 -1 1
 0 8 0 1
 0 20 1 0
-0 30 2 3
 0 23 -1 0
+0 30 2 3
+0 33 10 0
+0 42 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b8 lco oc1b ta1-2-oc1b ta3-1-lco
 0
 7
-0 33 10 0
-0 52 -1 0
-0 42 -1 1
 0 10 0 1
 0 17 1 0
-0 30 2 3
 0 23 -1 0
+0 30 2 3
+0 33 10 0
+0 42 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b8 lco oc1b ta1-2-oc1b ta3-2-lco
 0
 7
-0 33 10 0
-0 52 -1 0
-0 42 -1 1
 0 10 0 1
 0 18 1 0
-0 30 2 3
 0 23 -1 0
+0 30 2 3
+0 33 10 0
+0 42 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b8 lco oc1b ta1-2-oc1b ta3-3-lco
 0
 7
-0 33 10 0
-0 52 -1 0
-0 42 -1 1
 0 10 0 1
 0 20 1 0
-0 30 2 3
 0 23 -1 0
+0 30 2 3
+0 33 10 0
+0 42 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b9 lco lco ta1-1-lco ta3-1-lco
 0
 7
-0 33 11 0
-0 52 -1 0
-0 41 -1 1
-0 27 0 1
 0 17 1 0
+0 27 0 1
 0 30 2 3
+0 33 11 0
 0 40 -1 0
+0 41 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b9 lco lco ta1-1-lco ta3-2-lco
 0
 7
-0 33 11 0
-0 52 -1 0
-0 41 -1 1
-0 27 0 1
 0 18 1 0
+0 27 0 1
 0 30 2 3
+0 33 11 0
 0 40 -1 0
+0 41 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b9 lco lco ta1-1-lco ta3-3-lco
 0
 7
-0 33 11 0
-0 52 -1 0
-0 41 -1 1
-0 27 0 1
 0 20 1 0
+0 27 0 1
 0 30 2 3
+0 33 11 0
 0 40 -1 0
+0 41 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b9 lco lco ta1-2-lco ta3-1-lco
 0
 7
-0 33 11 0
-0 52 -1 0
-0 41 -1 1
-0 28 0 1
 0 17 1 0
+0 28 0 1
 0 30 2 3
+0 33 11 0
 0 40 -1 0
+0 41 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b9 lco lco ta1-2-lco ta3-2-lco
 0
 7
-0 33 11 0
-0 52 -1 0
-0 41 -1 1
-0 28 0 1
 0 18 1 0
+0 28 0 1
 0 30 2 3
+0 33 11 0
 0 40 -1 0
+0 41 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b9 lco lco ta1-2-lco ta3-3-lco
 0
 7
-0 33 11 0
-0 52 -1 0
-0 41 -1 1
-0 28 0 1
 0 20 1 0
+0 28 0 1
 0 30 2 3
+0 33 11 0
 0 40 -1 0
+0 41 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b9 lco lco ta1-3-lco ta3-1-lco
 0
 7
-0 33 11 0
-0 52 -1 0
-0 41 -1 1
-0 29 0 1
 0 17 1 0
+0 29 0 1
 0 30 2 3
+0 33 11 0
 0 40 -1 0
+0 41 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b9 lco lco ta1-3-lco ta3-2-lco
 0
 7
-0 33 11 0
-0 52 -1 0
-0 41 -1 1
-0 29 0 1
 0 18 1 0
+0 29 0 1
 0 30 2 3
+0 33 11 0
 0 40 -1 0
+0 41 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b0 a1 a3 b9 lco lco ta1-3-lco ta3-3-lco
 0
 7
-0 33 11 0
-0 52 -1 0
-0 41 -1 1
-0 29 0 1
 0 20 1 0
+0 29 0 1
 0 30 2 3
+0 33 11 0
 0 40 -1 0
+0 41 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b0 oc1b lco ta1-1-lco ta3-1-oc1b
 0
 7
-0 33 0 1
-0 52 -1 1
-0 51 -1 0
-0 27 0 1
 0 2 1 0
+0 27 0 1
 0 30 -1 0
+0 33 0 1
 0 34 2 3
+0 51 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b0 oc1b lco ta1-1-lco ta3-2-oc1b
 0
 7
-0 33 0 1
-0 52 -1 1
-0 51 -1 0
-0 27 0 1
 0 3 1 0
+0 27 0 1
 0 30 -1 0
+0 33 0 1
 0 34 2 3
+0 51 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b0 oc1b lco ta1-2-lco ta3-1-oc1b
 0
 7
-0 33 0 1
-0 52 -1 1
-0 51 -1 0
-0 28 0 1
 0 2 1 0
+0 28 0 1
 0 30 -1 0
+0 33 0 1
 0 34 2 3
+0 51 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b0 oc1b lco ta1-2-lco ta3-2-oc1b
 0
 7
-0 33 0 1
-0 52 -1 1
-0 51 -1 0
-0 28 0 1
 0 3 1 0
+0 28 0 1
 0 30 -1 0
+0 33 0 1
 0 34 2 3
+0 51 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b0 oc1b lco ta1-3-lco ta3-1-oc1b
 0
 7
-0 33 0 1
-0 52 -1 1
-0 51 -1 0
-0 29 0 1
 0 2 1 0
+0 29 0 1
 0 30 -1 0
+0 33 0 1
 0 34 2 3
+0 51 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b0 oc1b lco ta1-3-lco ta3-2-oc1b
 0
 7
-0 33 0 1
-0 52 -1 1
-0 51 -1 0
-0 29 0 1
 0 3 1 0
+0 29 0 1
 0 30 -1 0
+0 33 0 1
 0 34 2 3
+0 51 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b10 oc1b gasoleo ta1-1-gasoleo ta3-1-oc1b
 0
 7
-0 33 2 1
-0 51 -1 0
-0 50 -1 1
-0 22 0 1
 0 2 1 0
-0 34 2 3
+0 22 0 1
 0 26 -1 0
+0 33 2 1
+0 34 2 3
+0 50 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b10 oc1b gasoleo ta1-1-gasoleo ta3-2-oc1b
 0
 7
-0 33 2 1
-0 51 -1 0
-0 50 -1 1
-0 22 0 1
 0 3 1 0
-0 34 2 3
+0 22 0 1
 0 26 -1 0
+0 33 2 1
+0 34 2 3
+0 50 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b10 oc1b gasoleo ta1-2-gasoleo ta3-1-oc1b
 0
 7
-0 33 2 1
-0 51 -1 0
-0 50 -1 1
-0 24 0 1
 0 2 1 0
-0 34 2 3
+0 24 0 1
 0 26 -1 0
+0 33 2 1
+0 34 2 3
+0 50 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b10 oc1b gasoleo ta1-2-gasoleo ta3-2-oc1b
 0
 7
-0 33 2 1
-0 51 -1 0
-0 50 -1 1
-0 24 0 1
 0 3 1 0
-0 34 2 3
+0 24 0 1
 0 26 -1 0
+0 33 2 1
+0 34 2 3
+0 50 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b11 oc1b gasoleo ta1-1-gasoleo ta3-1-oc1b
 0
 7
-0 33 3 1
-0 51 -1 0
-0 49 -1 1
-0 22 0 1
 0 2 1 0
+0 22 0 1
+0 33 3 1
 0 34 2 3
 0 37 -1 0
+0 49 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b11 oc1b gasoleo ta1-1-gasoleo ta3-2-oc1b
 0
 7
-0 33 3 1
-0 51 -1 0
-0 49 -1 1
-0 22 0 1
 0 3 1 0
+0 22 0 1
+0 33 3 1
 0 34 2 3
 0 37 -1 0
+0 49 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b11 oc1b gasoleo ta1-2-gasoleo ta3-1-oc1b
 0
 7
-0 33 3 1
-0 51 -1 0
-0 49 -1 1
-0 24 0 1
 0 2 1 0
+0 24 0 1
+0 33 3 1
 0 34 2 3
 0 37 -1 0
+0 49 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b11 oc1b gasoleo ta1-2-gasoleo ta3-2-oc1b
 0
 7
-0 33 3 1
-0 51 -1 0
-0 49 -1 1
-0 24 0 1
 0 3 1 0
+0 24 0 1
+0 33 3 1
 0 34 2 3
 0 37 -1 0
+0 49 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b3 oc1b gasoleo ta1-1-gasoleo ta3-1-oc1b
 0
 7
-0 33 5 1
-0 51 -1 0
-0 47 -1 1
-0 22 0 1
 0 2 1 0
+0 22 0 1
+0 33 5 1
 0 34 2 3
 0 38 -1 0
+0 47 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b3 oc1b gasoleo ta1-1-gasoleo ta3-2-oc1b
 0
 7
-0 33 5 1
-0 51 -1 0
-0 47 -1 1
-0 22 0 1
 0 3 1 0
+0 22 0 1
+0 33 5 1
 0 34 2 3
 0 38 -1 0
+0 47 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b3 oc1b gasoleo ta1-2-gasoleo ta3-1-oc1b
 0
 7
-0 33 5 1
-0 51 -1 0
-0 47 -1 1
-0 24 0 1
 0 2 1 0
+0 24 0 1
+0 33 5 1
 0 34 2 3
 0 38 -1 0
+0 47 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b3 oc1b gasoleo ta1-2-gasoleo ta3-2-oc1b
 0
 7
-0 33 5 1
-0 51 -1 0
-0 47 -1 1
-0 24 0 1
 0 3 1 0
+0 24 0 1
+0 33 5 1
 0 34 2 3
 0 38 -1 0
+0 47 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b4 oc1b lco ta1-1-lco ta3-1-oc1b
 0
 7
-0 33 6 1
-0 51 -1 0
-0 46 -1 1
-0 27 0 1
 0 2 1 0
+0 27 0 1
+0 33 6 1
 0 34 2 3
 0 39 -1 0
+0 46 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b4 oc1b lco ta1-1-lco ta3-2-oc1b
 0
 7
-0 33 6 1
-0 51 -1 0
-0 46 -1 1
-0 27 0 1
 0 3 1 0
+0 27 0 1
+0 33 6 1
 0 34 2 3
 0 39 -1 0
+0 46 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b4 oc1b lco ta1-2-lco ta3-1-oc1b
 0
 7
-0 33 6 1
-0 51 -1 0
-0 46 -1 1
-0 28 0 1
 0 2 1 0
+0 28 0 1
+0 33 6 1
 0 34 2 3
 0 39 -1 0
+0 46 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b4 oc1b lco ta1-2-lco ta3-2-oc1b
 0
 7
-0 33 6 1
-0 51 -1 0
-0 46 -1 1
-0 28 0 1
 0 3 1 0
+0 28 0 1
+0 33 6 1
 0 34 2 3
 0 39 -1 0
+0 46 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b4 oc1b lco ta1-3-lco ta3-1-oc1b
 0
 7
-0 33 6 1
-0 51 -1 0
-0 46 -1 1
-0 29 0 1
 0 2 1 0
+0 29 0 1
+0 33 6 1
 0 34 2 3
 0 39 -1 0
+0 46 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b4 oc1b lco ta1-3-lco ta3-2-oc1b
 0
 7
-0 33 6 1
-0 51 -1 0
-0 46 -1 1
-0 29 0 1
 0 3 1 0
+0 29 0 1
+0 33 6 1
 0 34 2 3
 0 39 -1 0
+0 46 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b6 oc1b lco ta1-1-lco ta3-1-oc1b
 0
 7
-0 33 8 1
-0 51 -1 0
-0 44 -1 1
-0 27 0 1
 0 2 1 0
-0 34 2 3
+0 27 0 1
 0 31 -1 0
+0 33 8 1
+0 34 2 3
+0 44 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b6 oc1b lco ta1-1-lco ta3-2-oc1b
 0
 7
-0 33 8 1
-0 51 -1 0
-0 44 -1 1
-0 27 0 1
 0 3 1 0
-0 34 2 3
+0 27 0 1
 0 31 -1 0
+0 33 8 1
+0 34 2 3
+0 44 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b6 oc1b lco ta1-2-lco ta3-1-oc1b
 0
 7
-0 33 8 1
-0 51 -1 0
-0 44 -1 1
-0 28 0 1
 0 2 1 0
-0 34 2 3
+0 28 0 1
 0 31 -1 0
+0 33 8 1
+0 34 2 3
+0 44 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b6 oc1b lco ta1-2-lco ta3-2-oc1b
 0
 7
-0 33 8 1
-0 51 -1 0
-0 44 -1 1
-0 28 0 1
 0 3 1 0
-0 34 2 3
+0 28 0 1
 0 31 -1 0
+0 33 8 1
+0 34 2 3
+0 44 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b6 oc1b lco ta1-3-lco ta3-1-oc1b
 0
 7
-0 33 8 1
-0 51 -1 0
-0 44 -1 1
-0 29 0 1
 0 2 1 0
-0 34 2 3
+0 29 0 1
 0 31 -1 0
+0 33 8 1
+0 34 2 3
+0 44 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b6 oc1b lco ta1-3-lco ta3-2-oc1b
 0
 7
-0 33 8 1
-0 51 -1 0
-0 44 -1 1
-0 29 0 1
 0 3 1 0
-0 34 2 3
+0 29 0 1
 0 31 -1 0
+0 33 8 1
+0 34 2 3
+0 44 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b8 oc1b oc1b ta1-1-oc1b ta3-1-oc1b
 0
 7
-0 33 10 1
-0 51 -1 0
-0 42 -1 1
-0 8 0 1
 0 2 1 0
-0 34 2 3
+0 8 0 1
 0 23 -1 0
+0 33 10 1
+0 34 2 3
+0 42 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b8 oc1b oc1b ta1-1-oc1b ta3-2-oc1b
 0
 7
-0 33 10 1
-0 51 -1 0
-0 42 -1 1
-0 8 0 1
 0 3 1 0
-0 34 2 3
+0 8 0 1
 0 23 -1 0
+0 33 10 1
+0 34 2 3
+0 42 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b8 oc1b oc1b ta1-2-oc1b ta3-1-oc1b
 0
 7
-0 33 10 1
-0 51 -1 0
-0 42 -1 1
-0 10 0 1
 0 2 1 0
-0 34 2 3
+0 10 0 1
 0 23 -1 0
+0 33 10 1
+0 34 2 3
+0 42 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b8 oc1b oc1b ta1-2-oc1b ta3-2-oc1b
 0
 7
-0 33 10 1
-0 51 -1 0
-0 42 -1 1
-0 10 0 1
 0 3 1 0
-0 34 2 3
+0 10 0 1
 0 23 -1 0
+0 33 10 1
+0 34 2 3
+0 42 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b9 oc1b lco ta1-1-lco ta3-1-oc1b
 0
 7
-0 33 11 1
-0 51 -1 0
-0 41 -1 1
-0 27 0 1
 0 2 1 0
+0 27 0 1
+0 33 11 1
 0 34 2 3
 0 40 -1 0
+0 41 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b9 oc1b lco ta1-1-lco ta3-2-oc1b
 0
 7
-0 33 11 1
-0 51 -1 0
-0 41 -1 1
-0 27 0 1
 0 3 1 0
+0 27 0 1
+0 33 11 1
 0 34 2 3
 0 40 -1 0
+0 41 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b9 oc1b lco ta1-2-lco ta3-1-oc1b
 0
 7
-0 33 11 1
-0 51 -1 0
-0 41 -1 1
-0 28 0 1
 0 2 1 0
+0 28 0 1
+0 33 11 1
 0 34 2 3
 0 40 -1 0
+0 41 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b9 oc1b lco ta1-2-lco ta3-2-oc1b
 0
 7
-0 33 11 1
-0 51 -1 0
-0 41 -1 1
-0 28 0 1
 0 3 1 0
+0 28 0 1
+0 33 11 1
 0 34 2 3
 0 40 -1 0
+0 41 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b9 oc1b lco ta1-3-lco ta3-1-oc1b
 0
 7
-0 33 11 1
-0 51 -1 0
-0 41 -1 1
-0 29 0 1
 0 2 1 0
+0 29 0 1
+0 33 11 1
 0 34 2 3
 0 40 -1 0
+0 41 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b1 a1 a3 b9 oc1b lco ta1-3-lco ta3-2-oc1b
 0
 7
-0 33 11 1
-0 51 -1 0
-0 41 -1 1
-0 29 0 1
 0 3 1 0
+0 29 0 1
+0 33 11 1
 0 34 2 3
 0 40 -1 0
+0 41 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b0 gasoleo lco ta1-1-lco ta3-1-gasoleo
 0
 7
-0 33 0 2
-0 52 -1 1
-0 50 -1 0
-0 27 0 1
 0 12 1 0
-0 30 -1 0
 0 26 2 3
+0 27 0 1
+0 30 -1 0
+0 33 0 2
+0 50 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b0 gasoleo lco ta1-1-lco ta3-2-gasoleo
 0
 7
-0 33 0 2
-0 52 -1 1
-0 50 -1 0
-0 27 0 1
 0 13 1 0
-0 30 -1 0
 0 26 2 3
+0 27 0 1
+0 30 -1 0
+0 33 0 2
+0 50 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b0 gasoleo lco ta1-2-lco ta3-1-gasoleo
 0
 7
-0 33 0 2
-0 52 -1 1
-0 50 -1 0
-0 28 0 1
 0 12 1 0
-0 30 -1 0
 0 26 2 3
+0 28 0 1
+0 30 -1 0
+0 33 0 2
+0 50 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b0 gasoleo lco ta1-2-lco ta3-2-gasoleo
 0
 7
-0 33 0 2
-0 52 -1 1
-0 50 -1 0
-0 28 0 1
 0 13 1 0
-0 30 -1 0
 0 26 2 3
+0 28 0 1
+0 30 -1 0
+0 33 0 2
+0 50 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b0 gasoleo lco ta1-3-lco ta3-1-gasoleo
 0
 7
-0 33 0 2
-0 52 -1 1
-0 50 -1 0
-0 29 0 1
 0 12 1 0
-0 30 -1 0
 0 26 2 3
+0 29 0 1
+0 30 -1 0
+0 33 0 2
+0 50 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b0 gasoleo lco ta1-3-lco ta3-2-gasoleo
 0
 7
-0 33 0 2
-0 52 -1 1
-0 50 -1 0
-0 29 0 1
 0 13 1 0
-0 30 -1 0
 0 26 2 3
+0 29 0 1
+0 30 -1 0
+0 33 0 2
+0 50 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b1 gasoleo oc1b ta1-1-oc1b ta3-1-gasoleo
 0
 7
-0 33 1 2
-0 51 -1 1
-0 50 -1 0
 0 8 0 1
 0 12 1 0
-0 34 -1 0
 0 26 2 3
+0 33 1 2
+0 34 -1 0
+0 50 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b1 gasoleo oc1b ta1-1-oc1b ta3-2-gasoleo
 0
 7
-0 33 1 2
-0 51 -1 1
-0 50 -1 0
 0 8 0 1
 0 13 1 0
-0 34 -1 0
 0 26 2 3
+0 33 1 2
+0 34 -1 0
+0 50 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b1 gasoleo oc1b ta1-2-oc1b ta3-1-gasoleo
 0
 7
-0 33 1 2
-0 51 -1 1
-0 50 -1 0
 0 10 0 1
 0 12 1 0
-0 34 -1 0
 0 26 2 3
+0 33 1 2
+0 34 -1 0
+0 50 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b1 gasoleo oc1b ta1-2-oc1b ta3-2-gasoleo
 0
 7
-0 33 1 2
-0 51 -1 1
-0 50 -1 0
 0 10 0 1
 0 13 1 0
-0 34 -1 0
 0 26 2 3
+0 33 1 2
+0 34 -1 0
+0 50 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b11 gasoleo gasoleo ta1-1-gasoleo ta3-1-gasoleo
 0
 7
-0 33 3 2
-0 50 -1 0
-0 49 -1 1
-0 22 0 1
 0 12 1 0
+0 22 0 1
 0 26 2 3
+0 33 3 2
 0 37 -1 0
+0 49 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b11 gasoleo gasoleo ta1-1-gasoleo ta3-2-gasoleo
 0
 7
-0 33 3 2
-0 50 -1 0
-0 49 -1 1
-0 22 0 1
 0 13 1 0
+0 22 0 1
 0 26 2 3
+0 33 3 2
 0 37 -1 0
+0 49 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b11 gasoleo gasoleo ta1-2-gasoleo ta3-1-gasoleo
 0
 7
-0 33 3 2
-0 50 -1 0
-0 49 -1 1
-0 24 0 1
 0 12 1 0
+0 24 0 1
 0 26 2 3
+0 33 3 2
 0 37 -1 0
+0 49 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b11 gasoleo gasoleo ta1-2-gasoleo ta3-2-gasoleo
 0
 7
-0 33 3 2
-0 50 -1 0
-0 49 -1 1
-0 24 0 1
 0 13 1 0
+0 24 0 1
 0 26 2 3
+0 33 3 2
 0 37 -1 0
+0 49 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b2 gasoleo rat-a ta1-1-rat-a ta3-1-gasoleo
 0
 7
-0 33 4 2
-0 50 -1 0
-0 48 -1 1
-0 19 0 1
 0 12 1 0
-0 26 2 3
+0 19 0 1
 0 25 -1 0
+0 26 2 3
+0 33 4 2
+0 48 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b2 gasoleo rat-a ta1-1-rat-a ta3-2-gasoleo
 0
 7
-0 33 4 2
-0 50 -1 0
-0 48 -1 1
-0 19 0 1
 0 13 1 0
-0 26 2 3
+0 19 0 1
 0 25 -1 0
+0 26 2 3
+0 33 4 2
+0 48 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b2 gasoleo rat-a ta1-2-rat-a ta3-1-gasoleo
 0
 7
-0 33 4 2
-0 50 -1 0
-0 48 -1 1
-0 21 0 1
 0 12 1 0
-0 26 2 3
+0 21 0 1
 0 25 -1 0
+0 26 2 3
+0 33 4 2
+0 48 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b2 gasoleo rat-a ta1-2-rat-a ta3-2-gasoleo
 0
 7
-0 33 4 2
-0 50 -1 0
-0 48 -1 1
-0 21 0 1
 0 13 1 0
-0 26 2 3
+0 21 0 1
 0 25 -1 0
+0 26 2 3
+0 33 4 2
+0 48 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b3 gasoleo gasoleo ta1-1-gasoleo ta3-1-gasoleo
 0
 7
-0 33 5 2
-0 50 -1 0
-0 47 -1 1
-0 22 0 1
 0 12 1 0
+0 22 0 1
 0 26 2 3
+0 33 5 2
 0 38 -1 0
+0 47 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b3 gasoleo gasoleo ta1-1-gasoleo ta3-2-gasoleo
 0
 7
-0 33 5 2
-0 50 -1 0
-0 47 -1 1
-0 22 0 1
 0 13 1 0
+0 22 0 1
 0 26 2 3
+0 33 5 2
 0 38 -1 0
+0 47 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b3 gasoleo gasoleo ta1-2-gasoleo ta3-1-gasoleo
 0
 7
-0 33 5 2
-0 50 -1 0
-0 47 -1 1
-0 24 0 1
 0 12 1 0
+0 24 0 1
 0 26 2 3
+0 33 5 2
 0 38 -1 0
+0 47 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b3 gasoleo gasoleo ta1-2-gasoleo ta3-2-gasoleo
 0
 7
-0 33 5 2
-0 50 -1 0
-0 47 -1 1
-0 24 0 1
 0 13 1 0
+0 24 0 1
 0 26 2 3
+0 33 5 2
 0 38 -1 0
+0 47 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b4 gasoleo lco ta1-1-lco ta3-1-gasoleo
 0
 7
-0 33 6 2
-0 50 -1 0
-0 46 -1 1
-0 27 0 1
 0 12 1 0
 0 26 2 3
+0 27 0 1
+0 33 6 2
 0 39 -1 0
+0 46 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b4 gasoleo lco ta1-1-lco ta3-2-gasoleo
 0
 7
-0 33 6 2
-0 50 -1 0
-0 46 -1 1
-0 27 0 1
 0 13 1 0
 0 26 2 3
+0 27 0 1
+0 33 6 2
 0 39 -1 0
+0 46 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b4 gasoleo lco ta1-2-lco ta3-1-gasoleo
 0
 7
-0 33 6 2
-0 50 -1 0
-0 46 -1 1
-0 28 0 1
 0 12 1 0
 0 26 2 3
+0 28 0 1
+0 33 6 2
 0 39 -1 0
+0 46 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b4 gasoleo lco ta1-2-lco ta3-2-gasoleo
 0
 7
-0 33 6 2
-0 50 -1 0
-0 46 -1 1
-0 28 0 1
 0 13 1 0
 0 26 2 3
+0 28 0 1
+0 33 6 2
 0 39 -1 0
+0 46 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b4 gasoleo lco ta1-3-lco ta3-1-gasoleo
 0
 7
-0 33 6 2
-0 50 -1 0
-0 46 -1 1
-0 29 0 1
 0 12 1 0
 0 26 2 3
+0 29 0 1
+0 33 6 2
 0 39 -1 0
+0 46 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b4 gasoleo lco ta1-3-lco ta3-2-gasoleo
 0
 7
-0 33 6 2
-0 50 -1 0
-0 46 -1 1
-0 29 0 1
 0 13 1 0
 0 26 2 3
+0 29 0 1
+0 33 6 2
 0 39 -1 0
+0 46 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b5 gasoleo rat-a ta1-1-rat-a ta3-1-gasoleo
 0
 7
-0 33 7 2
-0 50 -1 0
-0 45 -1 1
-0 19 0 1
 0 12 1 0
+0 19 0 1
 0 26 2 3
+0 33 7 2
 0 35 -1 0
+0 45 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b5 gasoleo rat-a ta1-1-rat-a ta3-2-gasoleo
 0
 7
-0 33 7 2
-0 50 -1 0
-0 45 -1 1
-0 19 0 1
 0 13 1 0
+0 19 0 1
 0 26 2 3
+0 33 7 2
 0 35 -1 0
+0 45 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b5 gasoleo rat-a ta1-2-rat-a ta3-1-gasoleo
 0
 7
-0 33 7 2
-0 50 -1 0
-0 45 -1 1
-0 21 0 1
 0 12 1 0
+0 21 0 1
 0 26 2 3
+0 33 7 2
 0 35 -1 0
+0 45 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b5 gasoleo rat-a ta1-2-rat-a ta3-2-gasoleo
 0
 7
-0 33 7 2
-0 50 -1 0
-0 45 -1 1
-0 21 0 1
 0 13 1 0
+0 21 0 1
 0 26 2 3
+0 33 7 2
 0 35 -1 0
+0 45 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b6 gasoleo lco ta1-1-lco ta3-1-gasoleo
 0
 7
-0 33 8 2
-0 50 -1 0
-0 44 -1 1
-0 27 0 1
 0 12 1 0
 0 26 2 3
+0 27 0 1
 0 31 -1 0
+0 33 8 2
+0 44 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b6 gasoleo lco ta1-1-lco ta3-2-gasoleo
 0
 7
-0 33 8 2
-0 50 -1 0
-0 44 -1 1
-0 27 0 1
 0 13 1 0
 0 26 2 3
+0 27 0 1
 0 31 -1 0
+0 33 8 2
+0 44 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b6 gasoleo lco ta1-2-lco ta3-1-gasoleo
 0
 7
-0 33 8 2
-0 50 -1 0
-0 44 -1 1
-0 28 0 1
 0 12 1 0
 0 26 2 3
+0 28 0 1
 0 31 -1 0
+0 33 8 2
+0 44 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b6 gasoleo lco ta1-2-lco ta3-2-gasoleo
 0
 7
-0 33 8 2
-0 50 -1 0
-0 44 -1 1
-0 28 0 1
 0 13 1 0
 0 26 2 3
+0 28 0 1
 0 31 -1 0
+0 33 8 2
+0 44 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b6 gasoleo lco ta1-3-lco ta3-1-gasoleo
 0
 7
-0 33 8 2
-0 50 -1 0
-0 44 -1 1
-0 29 0 1
 0 12 1 0
 0 26 2 3
+0 29 0 1
 0 31 -1 0
+0 33 8 2
+0 44 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b6 gasoleo lco ta1-3-lco ta3-2-gasoleo
 0
 7
-0 33 8 2
-0 50 -1 0
-0 44 -1 1
-0 29 0 1
 0 13 1 0
 0 26 2 3
+0 29 0 1
 0 31 -1 0
+0 33 8 2
+0 44 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b7 gasoleo rat-a ta1-1-rat-a ta3-1-gasoleo
 0
 7
-0 33 9 2
-0 50 -1 0
-0 43 -1 1
-0 19 0 1
 0 12 1 0
+0 19 0 1
 0 26 2 3
+0 33 9 2
 0 36 -1 0
+0 43 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b7 gasoleo rat-a ta1-1-rat-a ta3-2-gasoleo
 0
 7
-0 33 9 2
-0 50 -1 0
-0 43 -1 1
-0 19 0 1
 0 13 1 0
+0 19 0 1
 0 26 2 3
+0 33 9 2
 0 36 -1 0
+0 43 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b7 gasoleo rat-a ta1-2-rat-a ta3-1-gasoleo
 0
 7
-0 33 9 2
-0 50 -1 0
-0 43 -1 1
-0 21 0 1
 0 12 1 0
+0 21 0 1
 0 26 2 3
+0 33 9 2
 0 36 -1 0
+0 43 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b7 gasoleo rat-a ta1-2-rat-a ta3-2-gasoleo
 0
 7
-0 33 9 2
-0 50 -1 0
-0 43 -1 1
-0 21 0 1
 0 13 1 0
+0 21 0 1
 0 26 2 3
+0 33 9 2
 0 36 -1 0
+0 43 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b8 gasoleo oc1b ta1-1-oc1b ta3-1-gasoleo
 0
 7
-0 33 10 2
-0 50 -1 0
-0 42 -1 1
 0 8 0 1
 0 12 1 0
-0 26 2 3
 0 23 -1 0
+0 26 2 3
+0 33 10 2
+0 42 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b8 gasoleo oc1b ta1-1-oc1b ta3-2-gasoleo
 0
 7
-0 33 10 2
-0 50 -1 0
-0 42 -1 1
 0 8 0 1
 0 13 1 0
-0 26 2 3
 0 23 -1 0
+0 26 2 3
+0 33 10 2
+0 42 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b8 gasoleo oc1b ta1-2-oc1b ta3-1-gasoleo
 0
 7
-0 33 10 2
-0 50 -1 0
-0 42 -1 1
 0 10 0 1
 0 12 1 0
-0 26 2 3
 0 23 -1 0
+0 26 2 3
+0 33 10 2
+0 42 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b8 gasoleo oc1b ta1-2-oc1b ta3-2-gasoleo
 0
 7
-0 33 10 2
-0 50 -1 0
-0 42 -1 1
 0 10 0 1
 0 13 1 0
-0 26 2 3
 0 23 -1 0
+0 26 2 3
+0 33 10 2
+0 42 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b9 gasoleo lco ta1-1-lco ta3-1-gasoleo
 0
 7
-0 33 11 2
-0 50 -1 0
-0 41 -1 1
-0 27 0 1
 0 12 1 0
 0 26 2 3
+0 27 0 1
+0 33 11 2
 0 40 -1 0
+0 41 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b9 gasoleo lco ta1-1-lco ta3-2-gasoleo
 0
 7
-0 33 11 2
-0 50 -1 0
-0 41 -1 1
-0 27 0 1
 0 13 1 0
 0 26 2 3
+0 27 0 1
+0 33 11 2
 0 40 -1 0
+0 41 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b9 gasoleo lco ta1-2-lco ta3-1-gasoleo
 0
 7
-0 33 11 2
-0 50 -1 0
-0 41 -1 1
-0 28 0 1
 0 12 1 0
 0 26 2 3
+0 28 0 1
+0 33 11 2
 0 40 -1 0
+0 41 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b9 gasoleo lco ta1-2-lco ta3-2-gasoleo
 0
 7
-0 33 11 2
-0 50 -1 0
-0 41 -1 1
-0 28 0 1
 0 13 1 0
 0 26 2 3
+0 28 0 1
+0 33 11 2
 0 40 -1 0
+0 41 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b9 gasoleo lco ta1-3-lco ta3-1-gasoleo
 0
 7
-0 33 11 2
-0 50 -1 0
-0 41 -1 1
-0 29 0 1
 0 12 1 0
 0 26 2 3
+0 29 0 1
+0 33 11 2
 0 40 -1 0
+0 41 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b10 a1 a3 b9 gasoleo lco ta1-3-lco ta3-2-gasoleo
 0
 7
-0 33 11 2
-0 50 -1 0
-0 41 -1 1
-0 29 0 1
 0 13 1 0
 0 26 2 3
+0 29 0 1
+0 33 11 2
 0 40 -1 0
+0 41 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b0 gasoleo lco ta1-1-lco ta3-1-gasoleo
 0
 7
-0 33 0 3
-0 52 -1 1
-0 49 -1 0
-0 27 0 1
 0 12 1 0
+0 27 0 1
 0 30 -1 0
+0 33 0 3
 0 37 2 3
+0 49 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b0 gasoleo lco ta1-1-lco ta3-2-gasoleo
 0
 7
-0 33 0 3
-0 52 -1 1
-0 49 -1 0
-0 27 0 1
 0 13 1 0
+0 27 0 1
 0 30 -1 0
+0 33 0 3
 0 37 2 3
+0 49 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b0 gasoleo lco ta1-2-lco ta3-1-gasoleo
 0
 7
-0 33 0 3
-0 52 -1 1
-0 49 -1 0
-0 28 0 1
 0 12 1 0
+0 28 0 1
 0 30 -1 0
+0 33 0 3
 0 37 2 3
+0 49 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b0 gasoleo lco ta1-2-lco ta3-2-gasoleo
 0
 7
-0 33 0 3
-0 52 -1 1
-0 49 -1 0
-0 28 0 1
 0 13 1 0
+0 28 0 1
 0 30 -1 0
+0 33 0 3
 0 37 2 3
+0 49 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b0 gasoleo lco ta1-3-lco ta3-1-gasoleo
 0
 7
-0 33 0 3
-0 52 -1 1
-0 49 -1 0
-0 29 0 1
 0 12 1 0
+0 29 0 1
 0 30 -1 0
+0 33 0 3
 0 37 2 3
+0 49 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b0 gasoleo lco ta1-3-lco ta3-2-gasoleo
 0
 7
-0 33 0 3
-0 52 -1 1
-0 49 -1 0
-0 29 0 1
 0 13 1 0
+0 29 0 1
 0 30 -1 0
+0 33 0 3
 0 37 2 3
+0 49 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b1 gasoleo oc1b ta1-1-oc1b ta3-1-gasoleo
 0
 7
-0 33 1 3
-0 51 -1 1
-0 49 -1 0
 0 8 0 1
 0 12 1 0
+0 33 1 3
 0 34 -1 0
 0 37 2 3
+0 49 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b1 gasoleo oc1b ta1-1-oc1b ta3-2-gasoleo
 0
 7
-0 33 1 3
-0 51 -1 1
-0 49 -1 0
 0 8 0 1
 0 13 1 0
+0 33 1 3
 0 34 -1 0
 0 37 2 3
+0 49 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b1 gasoleo oc1b ta1-2-oc1b ta3-1-gasoleo
 0
 7
-0 33 1 3
-0 51 -1 1
-0 49 -1 0
 0 10 0 1
 0 12 1 0
+0 33 1 3
 0 34 -1 0
 0 37 2 3
+0 49 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b1 gasoleo oc1b ta1-2-oc1b ta3-2-gasoleo
 0
 7
-0 33 1 3
-0 51 -1 1
-0 49 -1 0
 0 10 0 1
 0 13 1 0
+0 33 1 3
 0 34 -1 0
 0 37 2 3
+0 49 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b10 gasoleo gasoleo ta1-1-gasoleo ta3-1-gasoleo
 0
 7
-0 33 2 3
-0 50 -1 1
-0 49 -1 0
-0 22 0 1
 0 12 1 0
+0 22 0 1
 0 26 -1 0
+0 33 2 3
 0 37 2 3
+0 49 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b10 gasoleo gasoleo ta1-1-gasoleo ta3-2-gasoleo
 0
 7
-0 33 2 3
-0 50 -1 1
-0 49 -1 0
-0 22 0 1
 0 13 1 0
+0 22 0 1
 0 26 -1 0
+0 33 2 3
 0 37 2 3
+0 49 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b10 gasoleo gasoleo ta1-2-gasoleo ta3-1-gasoleo
 0
 7
-0 33 2 3
-0 50 -1 1
-0 49 -1 0
-0 24 0 1
 0 12 1 0
+0 24 0 1
 0 26 -1 0
+0 33 2 3
 0 37 2 3
+0 49 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b10 gasoleo gasoleo ta1-2-gasoleo ta3-2-gasoleo
 0
 7
-0 33 2 3
-0 50 -1 1
-0 49 -1 0
-0 24 0 1
 0 13 1 0
+0 24 0 1
 0 26 -1 0
+0 33 2 3
 0 37 2 3
+0 49 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b2 gasoleo rat-a ta1-1-rat-a ta3-1-gasoleo
 0
 7
-0 33 4 3
-0 49 -1 0
-0 48 -1 1
-0 19 0 1
 0 12 1 0
-0 37 2 3
+0 19 0 1
 0 25 -1 0
+0 33 4 3
+0 37 2 3
+0 48 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b2 gasoleo rat-a ta1-1-rat-a ta3-2-gasoleo
 0
 7
-0 33 4 3
-0 49 -1 0
-0 48 -1 1
-0 19 0 1
 0 13 1 0
-0 37 2 3
+0 19 0 1
 0 25 -1 0
+0 33 4 3
+0 37 2 3
+0 48 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b2 gasoleo rat-a ta1-2-rat-a ta3-1-gasoleo
 0
 7
-0 33 4 3
-0 49 -1 0
-0 48 -1 1
-0 21 0 1
 0 12 1 0
-0 37 2 3
+0 21 0 1
 0 25 -1 0
+0 33 4 3
+0 37 2 3
+0 48 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b2 gasoleo rat-a ta1-2-rat-a ta3-2-gasoleo
 0
 7
-0 33 4 3
-0 49 -1 0
-0 48 -1 1
-0 21 0 1
 0 13 1 0
-0 37 2 3
+0 21 0 1
 0 25 -1 0
+0 33 4 3
+0 37 2 3
+0 48 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b3 gasoleo gasoleo ta1-1-gasoleo ta3-1-gasoleo
 0
 7
-0 33 5 3
-0 49 -1 0
-0 47 -1 1
-0 22 0 1
 0 12 1 0
+0 22 0 1
+0 33 5 3
 0 37 2 3
 0 38 -1 0
+0 47 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b3 gasoleo gasoleo ta1-1-gasoleo ta3-2-gasoleo
 0
 7
-0 33 5 3
-0 49 -1 0
-0 47 -1 1
-0 22 0 1
 0 13 1 0
+0 22 0 1
+0 33 5 3
 0 37 2 3
 0 38 -1 0
+0 47 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b3 gasoleo gasoleo ta1-2-gasoleo ta3-1-gasoleo
 0
 7
-0 33 5 3
-0 49 -1 0
-0 47 -1 1
-0 24 0 1
 0 12 1 0
+0 24 0 1
+0 33 5 3
 0 37 2 3
 0 38 -1 0
+0 47 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b3 gasoleo gasoleo ta1-2-gasoleo ta3-2-gasoleo
 0
 7
-0 33 5 3
-0 49 -1 0
-0 47 -1 1
-0 24 0 1
 0 13 1 0
+0 24 0 1
+0 33 5 3
 0 37 2 3
 0 38 -1 0
+0 47 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b4 gasoleo lco ta1-1-lco ta3-1-gasoleo
 0
 7
-0 33 6 3
-0 49 -1 0
-0 46 -1 1
-0 27 0 1
 0 12 1 0
+0 27 0 1
+0 33 6 3
 0 37 2 3
 0 39 -1 0
+0 46 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b4 gasoleo lco ta1-1-lco ta3-2-gasoleo
 0
 7
-0 33 6 3
-0 49 -1 0
-0 46 -1 1
-0 27 0 1
 0 13 1 0
+0 27 0 1
+0 33 6 3
 0 37 2 3
 0 39 -1 0
+0 46 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b4 gasoleo lco ta1-2-lco ta3-1-gasoleo
 0
 7
-0 33 6 3
-0 49 -1 0
-0 46 -1 1
-0 28 0 1
 0 12 1 0
+0 28 0 1
+0 33 6 3
 0 37 2 3
 0 39 -1 0
+0 46 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b4 gasoleo lco ta1-2-lco ta3-2-gasoleo
 0
 7
-0 33 6 3
-0 49 -1 0
-0 46 -1 1
-0 28 0 1
 0 13 1 0
+0 28 0 1
+0 33 6 3
 0 37 2 3
 0 39 -1 0
+0 46 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b4 gasoleo lco ta1-3-lco ta3-1-gasoleo
 0
 7
-0 33 6 3
-0 49 -1 0
-0 46 -1 1
-0 29 0 1
 0 12 1 0
+0 29 0 1
+0 33 6 3
 0 37 2 3
 0 39 -1 0
+0 46 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b4 gasoleo lco ta1-3-lco ta3-2-gasoleo
 0
 7
-0 33 6 3
-0 49 -1 0
-0 46 -1 1
-0 29 0 1
 0 13 1 0
+0 29 0 1
+0 33 6 3
 0 37 2 3
 0 39 -1 0
+0 46 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b5 gasoleo rat-a ta1-1-rat-a ta3-1-gasoleo
 0
 7
-0 33 7 3
-0 49 -1 0
-0 45 -1 1
-0 19 0 1
 0 12 1 0
-0 37 2 3
+0 19 0 1
+0 33 7 3
 0 35 -1 0
+0 37 2 3
+0 45 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b5 gasoleo rat-a ta1-1-rat-a ta3-2-gasoleo
 0
 7
-0 33 7 3
-0 49 -1 0
-0 45 -1 1
-0 19 0 1
 0 13 1 0
-0 37 2 3
+0 19 0 1
+0 33 7 3
 0 35 -1 0
+0 37 2 3
+0 45 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b5 gasoleo rat-a ta1-2-rat-a ta3-1-gasoleo
 0
 7
-0 33 7 3
-0 49 -1 0
-0 45 -1 1
-0 21 0 1
 0 12 1 0
-0 37 2 3
+0 21 0 1
+0 33 7 3
 0 35 -1 0
+0 37 2 3
+0 45 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b5 gasoleo rat-a ta1-2-rat-a ta3-2-gasoleo
 0
 7
-0 33 7 3
-0 49 -1 0
-0 45 -1 1
-0 21 0 1
 0 13 1 0
-0 37 2 3
+0 21 0 1
+0 33 7 3
 0 35 -1 0
+0 37 2 3
+0 45 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b6 gasoleo lco ta1-1-lco ta3-1-gasoleo
 0
 7
-0 33 8 3
-0 49 -1 0
-0 44 -1 1
-0 27 0 1
 0 12 1 0
-0 37 2 3
+0 27 0 1
 0 31 -1 0
+0 33 8 3
+0 37 2 3
+0 44 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b6 gasoleo lco ta1-1-lco ta3-2-gasoleo
 0
 7
-0 33 8 3
-0 49 -1 0
-0 44 -1 1
-0 27 0 1
 0 13 1 0
-0 37 2 3
+0 27 0 1
 0 31 -1 0
+0 33 8 3
+0 37 2 3
+0 44 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b6 gasoleo lco ta1-2-lco ta3-1-gasoleo
 0
 7
-0 33 8 3
-0 49 -1 0
-0 44 -1 1
-0 28 0 1
 0 12 1 0
-0 37 2 3
+0 28 0 1
 0 31 -1 0
+0 33 8 3
+0 37 2 3
+0 44 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b6 gasoleo lco ta1-2-lco ta3-2-gasoleo
 0
 7
-0 33 8 3
-0 49 -1 0
-0 44 -1 1
-0 28 0 1
 0 13 1 0
-0 37 2 3
+0 28 0 1
 0 31 -1 0
+0 33 8 3
+0 37 2 3
+0 44 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b6 gasoleo lco ta1-3-lco ta3-1-gasoleo
 0
 7
-0 33 8 3
-0 49 -1 0
-0 44 -1 1
-0 29 0 1
 0 12 1 0
-0 37 2 3
+0 29 0 1
 0 31 -1 0
+0 33 8 3
+0 37 2 3
+0 44 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b6 gasoleo lco ta1-3-lco ta3-2-gasoleo
 0
 7
-0 33 8 3
-0 49 -1 0
-0 44 -1 1
-0 29 0 1
 0 13 1 0
-0 37 2 3
+0 29 0 1
 0 31 -1 0
+0 33 8 3
+0 37 2 3
+0 44 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b7 gasoleo rat-a ta1-1-rat-a ta3-1-gasoleo
 0
 7
-0 33 9 3
-0 49 -1 0
-0 43 -1 1
-0 19 0 1
 0 12 1 0
-0 37 2 3
+0 19 0 1
+0 33 9 3
 0 36 -1 0
+0 37 2 3
+0 43 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b7 gasoleo rat-a ta1-1-rat-a ta3-2-gasoleo
 0
 7
-0 33 9 3
-0 49 -1 0
-0 43 -1 1
-0 19 0 1
 0 13 1 0
-0 37 2 3
+0 19 0 1
+0 33 9 3
 0 36 -1 0
+0 37 2 3
+0 43 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b7 gasoleo rat-a ta1-2-rat-a ta3-1-gasoleo
 0
 7
-0 33 9 3
-0 49 -1 0
-0 43 -1 1
-0 21 0 1
 0 12 1 0
-0 37 2 3
+0 21 0 1
+0 33 9 3
 0 36 -1 0
+0 37 2 3
+0 43 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b7 gasoleo rat-a ta1-2-rat-a ta3-2-gasoleo
 0
 7
-0 33 9 3
-0 49 -1 0
-0 43 -1 1
-0 21 0 1
 0 13 1 0
-0 37 2 3
+0 21 0 1
+0 33 9 3
 0 36 -1 0
+0 37 2 3
+0 43 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b8 gasoleo oc1b ta1-1-oc1b ta3-1-gasoleo
 0
 7
-0 33 10 3
-0 49 -1 0
-0 42 -1 1
 0 8 0 1
 0 12 1 0
-0 37 2 3
 0 23 -1 0
+0 33 10 3
+0 37 2 3
+0 42 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b8 gasoleo oc1b ta1-1-oc1b ta3-2-gasoleo
 0
 7
-0 33 10 3
-0 49 -1 0
-0 42 -1 1
 0 8 0 1
 0 13 1 0
-0 37 2 3
 0 23 -1 0
+0 33 10 3
+0 37 2 3
+0 42 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b8 gasoleo oc1b ta1-2-oc1b ta3-1-gasoleo
 0
 7
-0 33 10 3
-0 49 -1 0
-0 42 -1 1
 0 10 0 1
 0 12 1 0
-0 37 2 3
 0 23 -1 0
+0 33 10 3
+0 37 2 3
+0 42 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b8 gasoleo oc1b ta1-2-oc1b ta3-2-gasoleo
 0
 7
-0 33 10 3
-0 49 -1 0
-0 42 -1 1
 0 10 0 1
 0 13 1 0
-0 37 2 3
 0 23 -1 0
+0 33 10 3
+0 37 2 3
+0 42 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b9 gasoleo lco ta1-1-lco ta3-1-gasoleo
 0
 7
-0 33 11 3
-0 49 -1 0
-0 41 -1 1
-0 27 0 1
 0 12 1 0
+0 27 0 1
+0 33 11 3
 0 37 2 3
 0 40 -1 0
+0 41 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b9 gasoleo lco ta1-1-lco ta3-2-gasoleo
 0
 7
-0 33 11 3
-0 49 -1 0
-0 41 -1 1
-0 27 0 1
 0 13 1 0
+0 27 0 1
+0 33 11 3
 0 37 2 3
 0 40 -1 0
+0 41 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b9 gasoleo lco ta1-2-lco ta3-1-gasoleo
 0
 7
-0 33 11 3
-0 49 -1 0
-0 41 -1 1
-0 28 0 1
 0 12 1 0
+0 28 0 1
+0 33 11 3
 0 37 2 3
 0 40 -1 0
+0 41 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b9 gasoleo lco ta1-2-lco ta3-2-gasoleo
 0
 7
-0 33 11 3
-0 49 -1 0
-0 41 -1 1
-0 28 0 1
 0 13 1 0
+0 28 0 1
+0 33 11 3
 0 37 2 3
 0 40 -1 0
+0 41 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b9 gasoleo lco ta1-3-lco ta3-1-gasoleo
 0
 7
-0 33 11 3
-0 49 -1 0
-0 41 -1 1
-0 29 0 1
 0 12 1 0
+0 29 0 1
+0 33 11 3
 0 37 2 3
 0 40 -1 0
+0 41 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b11 a1 a3 b9 gasoleo lco ta1-3-lco ta3-2-gasoleo
 0
 7
-0 33 11 3
-0 49 -1 0
-0 41 -1 1
-0 29 0 1
 0 13 1 0
+0 29 0 1
+0 33 11 3
 0 37 2 3
 0 40 -1 0
+0 41 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b0 rat-a lco ta1-1-lco ta3-1-rat-a
 0
 7
-0 33 0 4
-0 52 -1 1
-0 48 -1 0
-0 27 0 1
 0 6 1 0
-0 30 -1 0
 0 25 2 3
+0 27 0 1
+0 30 -1 0
+0 33 0 4
+0 48 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b0 rat-a lco ta1-1-lco ta3-2-rat-a
 0
 7
-0 33 0 4
-0 52 -1 1
-0 48 -1 0
-0 27 0 1
 0 7 1 0
-0 30 -1 0
 0 25 2 3
+0 27 0 1
+0 30 -1 0
+0 33 0 4
+0 48 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b0 rat-a lco ta1-2-lco ta3-1-rat-a
 0
 7
-0 33 0 4
-0 52 -1 1
-0 48 -1 0
-0 28 0 1
 0 6 1 0
-0 30 -1 0
 0 25 2 3
+0 28 0 1
+0 30 -1 0
+0 33 0 4
+0 48 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b0 rat-a lco ta1-2-lco ta3-2-rat-a
 0
 7
-0 33 0 4
-0 52 -1 1
-0 48 -1 0
-0 28 0 1
 0 7 1 0
-0 30 -1 0
 0 25 2 3
+0 28 0 1
+0 30 -1 0
+0 33 0 4
+0 48 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b0 rat-a lco ta1-3-lco ta3-1-rat-a
 0
 7
-0 33 0 4
-0 52 -1 1
-0 48 -1 0
-0 29 0 1
 0 6 1 0
-0 30 -1 0
 0 25 2 3
+0 29 0 1
+0 30 -1 0
+0 33 0 4
+0 48 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b0 rat-a lco ta1-3-lco ta3-2-rat-a
 0
 7
-0 33 0 4
-0 52 -1 1
-0 48 -1 0
-0 29 0 1
 0 7 1 0
-0 30 -1 0
 0 25 2 3
+0 29 0 1
+0 30 -1 0
+0 33 0 4
+0 48 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b10 rat-a gasoleo ta1-1-gasoleo ta3-1-rat-a
 0
 7
-0 33 2 4
-0 50 -1 1
-0 48 -1 0
-0 22 0 1
 0 6 1 0
-0 26 -1 0
+0 22 0 1
 0 25 2 3
+0 26 -1 0
+0 33 2 4
+0 48 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b10 rat-a gasoleo ta1-1-gasoleo ta3-2-rat-a
 0
 7
-0 33 2 4
-0 50 -1 1
-0 48 -1 0
-0 22 0 1
 0 7 1 0
-0 26 -1 0
+0 22 0 1
 0 25 2 3
+0 26 -1 0
+0 33 2 4
+0 48 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b10 rat-a gasoleo ta1-2-gasoleo ta3-1-rat-a
 0
 7
-0 33 2 4
-0 50 -1 1
-0 48 -1 0
-0 24 0 1
 0 6 1 0
-0 26 -1 0
+0 24 0 1
 0 25 2 3
+0 26 -1 0
+0 33 2 4
+0 48 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b10 rat-a gasoleo ta1-2-gasoleo ta3-2-rat-a
 0
 7
-0 33 2 4
-0 50 -1 1
-0 48 -1 0
-0 24 0 1
 0 7 1 0
-0 26 -1 0
+0 24 0 1
 0 25 2 3
+0 26 -1 0
+0 33 2 4
+0 48 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b11 rat-a gasoleo ta1-1-gasoleo ta3-1-rat-a
 0
 7
-0 33 3 4
-0 49 -1 1
-0 48 -1 0
-0 22 0 1
 0 6 1 0
-0 37 -1 0
+0 22 0 1
 0 25 2 3
+0 33 3 4
+0 37 -1 0
+0 48 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b11 rat-a gasoleo ta1-1-gasoleo ta3-2-rat-a
 0
 7
-0 33 3 4
-0 49 -1 1
-0 48 -1 0
-0 22 0 1
 0 7 1 0
-0 37 -1 0
+0 22 0 1
 0 25 2 3
+0 33 3 4
+0 37 -1 0
+0 48 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b11 rat-a gasoleo ta1-2-gasoleo ta3-1-rat-a
 0
 7
-0 33 3 4
-0 49 -1 1
-0 48 -1 0
-0 24 0 1
 0 6 1 0
-0 37 -1 0
+0 24 0 1
 0 25 2 3
+0 33 3 4
+0 37 -1 0
+0 48 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b11 rat-a gasoleo ta1-2-gasoleo ta3-2-rat-a
 0
 7
-0 33 3 4
-0 49 -1 1
-0 48 -1 0
-0 24 0 1
 0 7 1 0
-0 37 -1 0
+0 24 0 1
 0 25 2 3
+0 33 3 4
+0 37 -1 0
+0 48 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b3 rat-a gasoleo ta1-1-gasoleo ta3-1-rat-a
 0
 7
-0 33 5 4
-0 48 -1 0
-0 47 -1 1
-0 22 0 1
 0 6 1 0
+0 22 0 1
 0 25 2 3
+0 33 5 4
 0 38 -1 0
+0 47 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b3 rat-a gasoleo ta1-1-gasoleo ta3-2-rat-a
 0
 7
-0 33 5 4
-0 48 -1 0
-0 47 -1 1
-0 22 0 1
 0 7 1 0
+0 22 0 1
 0 25 2 3
+0 33 5 4
 0 38 -1 0
+0 47 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b3 rat-a gasoleo ta1-2-gasoleo ta3-1-rat-a
 0
 7
-0 33 5 4
-0 48 -1 0
-0 47 -1 1
-0 24 0 1
 0 6 1 0
+0 24 0 1
 0 25 2 3
+0 33 5 4
 0 38 -1 0
+0 47 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b3 rat-a gasoleo ta1-2-gasoleo ta3-2-rat-a
 0
 7
-0 33 5 4
-0 48 -1 0
-0 47 -1 1
-0 24 0 1
 0 7 1 0
+0 24 0 1
 0 25 2 3
+0 33 5 4
 0 38 -1 0
+0 47 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b4 rat-a lco ta1-1-lco ta3-1-rat-a
 0
 7
-0 33 6 4
-0 48 -1 0
-0 46 -1 1
-0 27 0 1
 0 6 1 0
 0 25 2 3
+0 27 0 1
+0 33 6 4
 0 39 -1 0
+0 46 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b4 rat-a lco ta1-1-lco ta3-2-rat-a
 0
 7
-0 33 6 4
-0 48 -1 0
-0 46 -1 1
-0 27 0 1
 0 7 1 0
 0 25 2 3
+0 27 0 1
+0 33 6 4
 0 39 -1 0
+0 46 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b4 rat-a lco ta1-2-lco ta3-1-rat-a
 0
 7
-0 33 6 4
-0 48 -1 0
-0 46 -1 1
-0 28 0 1
 0 6 1 0
 0 25 2 3
+0 28 0 1
+0 33 6 4
 0 39 -1 0
+0 46 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b4 rat-a lco ta1-2-lco ta3-2-rat-a
 0
 7
-0 33 6 4
-0 48 -1 0
-0 46 -1 1
-0 28 0 1
 0 7 1 0
 0 25 2 3
+0 28 0 1
+0 33 6 4
 0 39 -1 0
+0 46 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b4 rat-a lco ta1-3-lco ta3-1-rat-a
 0
 7
-0 33 6 4
-0 48 -1 0
-0 46 -1 1
-0 29 0 1
 0 6 1 0
 0 25 2 3
+0 29 0 1
+0 33 6 4
 0 39 -1 0
+0 46 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b4 rat-a lco ta1-3-lco ta3-2-rat-a
 0
 7
-0 33 6 4
-0 48 -1 0
-0 46 -1 1
-0 29 0 1
 0 7 1 0
 0 25 2 3
+0 29 0 1
+0 33 6 4
 0 39 -1 0
+0 46 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b5 rat-a rat-a ta1-1-rat-a ta3-1-rat-a
 0
 7
-0 33 7 4
-0 48 -1 0
-0 45 -1 1
-0 19 0 1
 0 6 1 0
+0 19 0 1
 0 25 2 3
+0 33 7 4
 0 35 -1 0
+0 45 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b5 rat-a rat-a ta1-1-rat-a ta3-2-rat-a
 0
 7
-0 33 7 4
-0 48 -1 0
-0 45 -1 1
-0 19 0 1
 0 7 1 0
+0 19 0 1
 0 25 2 3
+0 33 7 4
 0 35 -1 0
+0 45 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b5 rat-a rat-a ta1-2-rat-a ta3-1-rat-a
 0
 7
-0 33 7 4
-0 48 -1 0
-0 45 -1 1
-0 21 0 1
 0 6 1 0
+0 21 0 1
 0 25 2 3
+0 33 7 4
 0 35 -1 0
+0 45 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b5 rat-a rat-a ta1-2-rat-a ta3-2-rat-a
 0
 7
-0 33 7 4
-0 48 -1 0
-0 45 -1 1
-0 21 0 1
 0 7 1 0
+0 21 0 1
 0 25 2 3
+0 33 7 4
 0 35 -1 0
+0 45 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b6 rat-a lco ta1-1-lco ta3-1-rat-a
 0
 7
-0 33 8 4
-0 48 -1 0
-0 44 -1 1
-0 27 0 1
 0 6 1 0
 0 25 2 3
+0 27 0 1
 0 31 -1 0
+0 33 8 4
+0 44 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b6 rat-a lco ta1-1-lco ta3-2-rat-a
 0
 7
-0 33 8 4
-0 48 -1 0
-0 44 -1 1
-0 27 0 1
 0 7 1 0
 0 25 2 3
+0 27 0 1
 0 31 -1 0
+0 33 8 4
+0 44 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b6 rat-a lco ta1-2-lco ta3-1-rat-a
 0
 7
-0 33 8 4
-0 48 -1 0
-0 44 -1 1
-0 28 0 1
 0 6 1 0
 0 25 2 3
+0 28 0 1
 0 31 -1 0
+0 33 8 4
+0 44 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b6 rat-a lco ta1-2-lco ta3-2-rat-a
 0
 7
-0 33 8 4
-0 48 -1 0
-0 44 -1 1
-0 28 0 1
 0 7 1 0
 0 25 2 3
+0 28 0 1
 0 31 -1 0
+0 33 8 4
+0 44 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b6 rat-a lco ta1-3-lco ta3-1-rat-a
 0
 7
-0 33 8 4
-0 48 -1 0
-0 44 -1 1
-0 29 0 1
 0 6 1 0
 0 25 2 3
+0 29 0 1
 0 31 -1 0
+0 33 8 4
+0 44 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b6 rat-a lco ta1-3-lco ta3-2-rat-a
 0
 7
-0 33 8 4
-0 48 -1 0
-0 44 -1 1
-0 29 0 1
 0 7 1 0
 0 25 2 3
+0 29 0 1
 0 31 -1 0
+0 33 8 4
+0 44 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b7 rat-a rat-a ta1-1-rat-a ta3-1-rat-a
 0
 7
-0 33 9 4
-0 48 -1 0
-0 43 -1 1
-0 19 0 1
 0 6 1 0
+0 19 0 1
 0 25 2 3
+0 33 9 4
 0 36 -1 0
+0 43 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b7 rat-a rat-a ta1-1-rat-a ta3-2-rat-a
 0
 7
-0 33 9 4
-0 48 -1 0
-0 43 -1 1
-0 19 0 1
 0 7 1 0
+0 19 0 1
 0 25 2 3
+0 33 9 4
 0 36 -1 0
+0 43 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b7 rat-a rat-a ta1-2-rat-a ta3-1-rat-a
 0
 7
-0 33 9 4
-0 48 -1 0
-0 43 -1 1
-0 21 0 1
 0 6 1 0
+0 21 0 1
 0 25 2 3
+0 33 9 4
 0 36 -1 0
+0 43 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b7 rat-a rat-a ta1-2-rat-a ta3-2-rat-a
 0
 7
-0 33 9 4
-0 48 -1 0
-0 43 -1 1
-0 21 0 1
 0 7 1 0
+0 21 0 1
 0 25 2 3
+0 33 9 4
 0 36 -1 0
+0 43 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b9 rat-a lco ta1-1-lco ta3-1-rat-a
 0
 7
-0 33 11 4
-0 48 -1 0
-0 41 -1 1
-0 27 0 1
 0 6 1 0
 0 25 2 3
+0 27 0 1
+0 33 11 4
 0 40 -1 0
+0 41 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b9 rat-a lco ta1-1-lco ta3-2-rat-a
 0
 7
-0 33 11 4
-0 48 -1 0
-0 41 -1 1
-0 27 0 1
 0 7 1 0
 0 25 2 3
+0 27 0 1
+0 33 11 4
 0 40 -1 0
+0 41 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b9 rat-a lco ta1-2-lco ta3-1-rat-a
 0
 7
-0 33 11 4
-0 48 -1 0
-0 41 -1 1
-0 28 0 1
 0 6 1 0
 0 25 2 3
+0 28 0 1
+0 33 11 4
 0 40 -1 0
+0 41 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b9 rat-a lco ta1-2-lco ta3-2-rat-a
 0
 7
-0 33 11 4
-0 48 -1 0
-0 41 -1 1
-0 28 0 1
 0 7 1 0
 0 25 2 3
+0 28 0 1
+0 33 11 4
 0 40 -1 0
+0 41 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b9 rat-a lco ta1-3-lco ta3-1-rat-a
 0
 7
-0 33 11 4
-0 48 -1 0
-0 41 -1 1
-0 29 0 1
 0 6 1 0
 0 25 2 3
+0 29 0 1
+0 33 11 4
 0 40 -1 0
+0 41 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b2 a1 a3 b9 rat-a lco ta1-3-lco ta3-2-rat-a
 0
 7
-0 33 11 4
-0 48 -1 0
-0 41 -1 1
-0 29 0 1
 0 7 1 0
 0 25 2 3
+0 29 0 1
+0 33 11 4
 0 40 -1 0
+0 41 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b0 gasoleo lco ta1-1-lco ta3-1-gasoleo
 0
 7
-0 33 0 5
-0 52 -1 1
-0 47 -1 0
-0 27 0 1
 0 12 1 0
+0 27 0 1
 0 30 -1 0
+0 33 0 5
 0 38 2 3
+0 47 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b0 gasoleo lco ta1-1-lco ta3-2-gasoleo
 0
 7
-0 33 0 5
-0 52 -1 1
-0 47 -1 0
-0 27 0 1
 0 13 1 0
+0 27 0 1
 0 30 -1 0
+0 33 0 5
 0 38 2 3
+0 47 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b0 gasoleo lco ta1-2-lco ta3-1-gasoleo
 0
 7
-0 33 0 5
-0 52 -1 1
-0 47 -1 0
-0 28 0 1
 0 12 1 0
+0 28 0 1
 0 30 -1 0
+0 33 0 5
 0 38 2 3
+0 47 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b0 gasoleo lco ta1-2-lco ta3-2-gasoleo
 0
 7
-0 33 0 5
-0 52 -1 1
-0 47 -1 0
-0 28 0 1
 0 13 1 0
+0 28 0 1
 0 30 -1 0
+0 33 0 5
 0 38 2 3
+0 47 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b0 gasoleo lco ta1-3-lco ta3-1-gasoleo
 0
 7
-0 33 0 5
-0 52 -1 1
-0 47 -1 0
-0 29 0 1
 0 12 1 0
+0 29 0 1
 0 30 -1 0
+0 33 0 5
 0 38 2 3
+0 47 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b0 gasoleo lco ta1-3-lco ta3-2-gasoleo
 0
 7
-0 33 0 5
-0 52 -1 1
-0 47 -1 0
-0 29 0 1
 0 13 1 0
+0 29 0 1
 0 30 -1 0
+0 33 0 5
 0 38 2 3
+0 47 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b1 gasoleo oc1b ta1-1-oc1b ta3-1-gasoleo
 0
 7
-0 33 1 5
-0 51 -1 1
-0 47 -1 0
 0 8 0 1
 0 12 1 0
+0 33 1 5
 0 34 -1 0
 0 38 2 3
+0 47 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b1 gasoleo oc1b ta1-1-oc1b ta3-2-gasoleo
 0
 7
-0 33 1 5
-0 51 -1 1
-0 47 -1 0
 0 8 0 1
 0 13 1 0
+0 33 1 5
 0 34 -1 0
 0 38 2 3
+0 47 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b1 gasoleo oc1b ta1-2-oc1b ta3-1-gasoleo
 0
 7
-0 33 1 5
-0 51 -1 1
-0 47 -1 0
 0 10 0 1
 0 12 1 0
+0 33 1 5
 0 34 -1 0
 0 38 2 3
+0 47 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b1 gasoleo oc1b ta1-2-oc1b ta3-2-gasoleo
 0
 7
-0 33 1 5
-0 51 -1 1
-0 47 -1 0
 0 10 0 1
 0 13 1 0
+0 33 1 5
 0 34 -1 0
 0 38 2 3
+0 47 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b10 gasoleo gasoleo ta1-1-gasoleo ta3-1-gasoleo
 0
 7
-0 33 2 5
-0 50 -1 1
-0 47 -1 0
-0 22 0 1
 0 12 1 0
+0 22 0 1
 0 26 -1 0
+0 33 2 5
 0 38 2 3
+0 47 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b10 gasoleo gasoleo ta1-1-gasoleo ta3-2-gasoleo
 0
 7
-0 33 2 5
-0 50 -1 1
-0 47 -1 0
-0 22 0 1
 0 13 1 0
+0 22 0 1
 0 26 -1 0
+0 33 2 5
 0 38 2 3
+0 47 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b10 gasoleo gasoleo ta1-2-gasoleo ta3-1-gasoleo
 0
 7
-0 33 2 5
-0 50 -1 1
-0 47 -1 0
-0 24 0 1
 0 12 1 0
+0 24 0 1
 0 26 -1 0
+0 33 2 5
 0 38 2 3
+0 47 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b10 gasoleo gasoleo ta1-2-gasoleo ta3-2-gasoleo
 0
 7
-0 33 2 5
-0 50 -1 1
-0 47 -1 0
-0 24 0 1
 0 13 1 0
+0 24 0 1
 0 26 -1 0
+0 33 2 5
 0 38 2 3
+0 47 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b11 gasoleo gasoleo ta1-1-gasoleo ta3-1-gasoleo
 0
 7
-0 33 3 5
-0 49 -1 1
-0 47 -1 0
-0 22 0 1
 0 12 1 0
+0 22 0 1
+0 33 3 5
 0 37 -1 0
 0 38 2 3
+0 47 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b11 gasoleo gasoleo ta1-1-gasoleo ta3-2-gasoleo
 0
 7
-0 33 3 5
-0 49 -1 1
-0 47 -1 0
-0 22 0 1
 0 13 1 0
+0 22 0 1
+0 33 3 5
 0 37 -1 0
 0 38 2 3
+0 47 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b11 gasoleo gasoleo ta1-2-gasoleo ta3-1-gasoleo
 0
 7
-0 33 3 5
-0 49 -1 1
-0 47 -1 0
-0 24 0 1
 0 12 1 0
+0 24 0 1
+0 33 3 5
 0 37 -1 0
 0 38 2 3
+0 47 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b11 gasoleo gasoleo ta1-2-gasoleo ta3-2-gasoleo
 0
 7
-0 33 3 5
-0 49 -1 1
-0 47 -1 0
-0 24 0 1
 0 13 1 0
+0 24 0 1
+0 33 3 5
 0 37 -1 0
 0 38 2 3
+0 47 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b2 gasoleo rat-a ta1-1-rat-a ta3-1-gasoleo
 0
 7
-0 33 4 5
-0 48 -1 1
-0 47 -1 0
-0 19 0 1
 0 12 1 0
+0 19 0 1
 0 25 -1 0
+0 33 4 5
 0 38 2 3
+0 47 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b2 gasoleo rat-a ta1-1-rat-a ta3-2-gasoleo
 0
 7
-0 33 4 5
-0 48 -1 1
-0 47 -1 0
-0 19 0 1
 0 13 1 0
+0 19 0 1
 0 25 -1 0
+0 33 4 5
 0 38 2 3
+0 47 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b2 gasoleo rat-a ta1-2-rat-a ta3-1-gasoleo
 0
 7
-0 33 4 5
-0 48 -1 1
-0 47 -1 0
-0 21 0 1
 0 12 1 0
+0 21 0 1
 0 25 -1 0
+0 33 4 5
 0 38 2 3
+0 47 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b2 gasoleo rat-a ta1-2-rat-a ta3-2-gasoleo
 0
 7
-0 33 4 5
-0 48 -1 1
-0 47 -1 0
-0 21 0 1
 0 13 1 0
+0 21 0 1
 0 25 -1 0
+0 33 4 5
 0 38 2 3
+0 47 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b4 gasoleo lco ta1-1-lco ta3-1-gasoleo
 0
 7
-0 33 6 5
-0 47 -1 0
-0 46 -1 1
-0 27 0 1
 0 12 1 0
+0 27 0 1
+0 33 6 5
 0 38 2 3
 0 39 -1 0
+0 46 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b4 gasoleo lco ta1-1-lco ta3-2-gasoleo
 0
 7
-0 33 6 5
-0 47 -1 0
-0 46 -1 1
-0 27 0 1
 0 13 1 0
+0 27 0 1
+0 33 6 5
 0 38 2 3
 0 39 -1 0
+0 46 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b4 gasoleo lco ta1-2-lco ta3-1-gasoleo
 0
 7
-0 33 6 5
-0 47 -1 0
-0 46 -1 1
-0 28 0 1
 0 12 1 0
+0 28 0 1
+0 33 6 5
 0 38 2 3
 0 39 -1 0
+0 46 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b4 gasoleo lco ta1-2-lco ta3-2-gasoleo
 0
 7
-0 33 6 5
-0 47 -1 0
-0 46 -1 1
-0 28 0 1
 0 13 1 0
+0 28 0 1
+0 33 6 5
 0 38 2 3
 0 39 -1 0
+0 46 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b4 gasoleo lco ta1-3-lco ta3-1-gasoleo
 0
 7
-0 33 6 5
-0 47 -1 0
-0 46 -1 1
-0 29 0 1
 0 12 1 0
+0 29 0 1
+0 33 6 5
 0 38 2 3
 0 39 -1 0
+0 46 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b4 gasoleo lco ta1-3-lco ta3-2-gasoleo
 0
 7
-0 33 6 5
-0 47 -1 0
-0 46 -1 1
-0 29 0 1
 0 13 1 0
+0 29 0 1
+0 33 6 5
 0 38 2 3
 0 39 -1 0
+0 46 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b5 gasoleo rat-a ta1-1-rat-a ta3-1-gasoleo
 0
 7
-0 33 7 5
-0 47 -1 0
-0 45 -1 1
-0 19 0 1
 0 12 1 0
-0 38 2 3
+0 19 0 1
+0 33 7 5
 0 35 -1 0
+0 38 2 3
+0 45 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b5 gasoleo rat-a ta1-1-rat-a ta3-2-gasoleo
 0
 7
-0 33 7 5
-0 47 -1 0
-0 45 -1 1
-0 19 0 1
 0 13 1 0
-0 38 2 3
+0 19 0 1
+0 33 7 5
 0 35 -1 0
+0 38 2 3
+0 45 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b5 gasoleo rat-a ta1-2-rat-a ta3-1-gasoleo
 0
 7
-0 33 7 5
-0 47 -1 0
-0 45 -1 1
-0 21 0 1
 0 12 1 0
-0 38 2 3
+0 21 0 1
+0 33 7 5
 0 35 -1 0
+0 38 2 3
+0 45 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b5 gasoleo rat-a ta1-2-rat-a ta3-2-gasoleo
 0
 7
-0 33 7 5
-0 47 -1 0
-0 45 -1 1
-0 21 0 1
 0 13 1 0
-0 38 2 3
+0 21 0 1
+0 33 7 5
 0 35 -1 0
+0 38 2 3
+0 45 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b6 gasoleo lco ta1-1-lco ta3-1-gasoleo
 0
 7
-0 33 8 5
-0 47 -1 0
-0 44 -1 1
-0 27 0 1
 0 12 1 0
-0 38 2 3
+0 27 0 1
 0 31 -1 0
+0 33 8 5
+0 38 2 3
+0 44 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b6 gasoleo lco ta1-1-lco ta3-2-gasoleo
 0
 7
-0 33 8 5
-0 47 -1 0
-0 44 -1 1
-0 27 0 1
 0 13 1 0
-0 38 2 3
+0 27 0 1
 0 31 -1 0
+0 33 8 5
+0 38 2 3
+0 44 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b6 gasoleo lco ta1-2-lco ta3-1-gasoleo
 0
 7
-0 33 8 5
-0 47 -1 0
-0 44 -1 1
-0 28 0 1
 0 12 1 0
-0 38 2 3
+0 28 0 1
 0 31 -1 0
+0 33 8 5
+0 38 2 3
+0 44 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b6 gasoleo lco ta1-2-lco ta3-2-gasoleo
 0
 7
-0 33 8 5
-0 47 -1 0
-0 44 -1 1
-0 28 0 1
 0 13 1 0
-0 38 2 3
+0 28 0 1
 0 31 -1 0
+0 33 8 5
+0 38 2 3
+0 44 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b6 gasoleo lco ta1-3-lco ta3-1-gasoleo
 0
 7
-0 33 8 5
-0 47 -1 0
-0 44 -1 1
-0 29 0 1
 0 12 1 0
-0 38 2 3
+0 29 0 1
 0 31 -1 0
+0 33 8 5
+0 38 2 3
+0 44 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b6 gasoleo lco ta1-3-lco ta3-2-gasoleo
 0
 7
-0 33 8 5
-0 47 -1 0
-0 44 -1 1
-0 29 0 1
 0 13 1 0
-0 38 2 3
+0 29 0 1
 0 31 -1 0
+0 33 8 5
+0 38 2 3
+0 44 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b7 gasoleo rat-a ta1-1-rat-a ta3-1-gasoleo
 0
 7
-0 33 9 5
-0 47 -1 0
-0 43 -1 1
-0 19 0 1
 0 12 1 0
-0 38 2 3
+0 19 0 1
+0 33 9 5
 0 36 -1 0
+0 38 2 3
+0 43 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b7 gasoleo rat-a ta1-1-rat-a ta3-2-gasoleo
 0
 7
-0 33 9 5
-0 47 -1 0
-0 43 -1 1
-0 19 0 1
 0 13 1 0
-0 38 2 3
+0 19 0 1
+0 33 9 5
 0 36 -1 0
+0 38 2 3
+0 43 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b7 gasoleo rat-a ta1-2-rat-a ta3-1-gasoleo
 0
 7
-0 33 9 5
-0 47 -1 0
-0 43 -1 1
-0 21 0 1
 0 12 1 0
-0 38 2 3
+0 21 0 1
+0 33 9 5
 0 36 -1 0
+0 38 2 3
+0 43 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b7 gasoleo rat-a ta1-2-rat-a ta3-2-gasoleo
 0
 7
-0 33 9 5
-0 47 -1 0
-0 43 -1 1
-0 21 0 1
 0 13 1 0
-0 38 2 3
+0 21 0 1
+0 33 9 5
 0 36 -1 0
+0 38 2 3
+0 43 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b8 gasoleo oc1b ta1-1-oc1b ta3-1-gasoleo
 0
 7
-0 33 10 5
-0 47 -1 0
-0 42 -1 1
 0 8 0 1
 0 12 1 0
-0 38 2 3
 0 23 -1 0
+0 33 10 5
+0 38 2 3
+0 42 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b8 gasoleo oc1b ta1-1-oc1b ta3-2-gasoleo
 0
 7
-0 33 10 5
-0 47 -1 0
-0 42 -1 1
 0 8 0 1
 0 13 1 0
-0 38 2 3
 0 23 -1 0
+0 33 10 5
+0 38 2 3
+0 42 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b8 gasoleo oc1b ta1-2-oc1b ta3-1-gasoleo
 0
 7
-0 33 10 5
-0 47 -1 0
-0 42 -1 1
 0 10 0 1
 0 12 1 0
-0 38 2 3
 0 23 -1 0
+0 33 10 5
+0 38 2 3
+0 42 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b8 gasoleo oc1b ta1-2-oc1b ta3-2-gasoleo
 0
 7
-0 33 10 5
-0 47 -1 0
-0 42 -1 1
 0 10 0 1
 0 13 1 0
-0 38 2 3
 0 23 -1 0
+0 33 10 5
+0 38 2 3
+0 42 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b9 gasoleo lco ta1-1-lco ta3-1-gasoleo
 0
 7
-0 33 11 5
-0 47 -1 0
-0 41 -1 1
-0 27 0 1
 0 12 1 0
+0 27 0 1
+0 33 11 5
 0 38 2 3
 0 40 -1 0
+0 41 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b9 gasoleo lco ta1-1-lco ta3-2-gasoleo
 0
 7
-0 33 11 5
-0 47 -1 0
-0 41 -1 1
-0 27 0 1
 0 13 1 0
+0 27 0 1
+0 33 11 5
 0 38 2 3
 0 40 -1 0
+0 41 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b9 gasoleo lco ta1-2-lco ta3-1-gasoleo
 0
 7
-0 33 11 5
-0 47 -1 0
-0 41 -1 1
-0 28 0 1
 0 12 1 0
+0 28 0 1
+0 33 11 5
 0 38 2 3
 0 40 -1 0
+0 41 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b9 gasoleo lco ta1-2-lco ta3-2-gasoleo
 0
 7
-0 33 11 5
-0 47 -1 0
-0 41 -1 1
-0 28 0 1
 0 13 1 0
+0 28 0 1
+0 33 11 5
 0 38 2 3
 0 40 -1 0
+0 41 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b9 gasoleo lco ta1-3-lco ta3-1-gasoleo
 0
 7
-0 33 11 5
-0 47 -1 0
-0 41 -1 1
-0 29 0 1
 0 12 1 0
+0 29 0 1
+0 33 11 5
 0 38 2 3
 0 40 -1 0
+0 41 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b3 a1 a3 b9 gasoleo lco ta1-3-lco ta3-2-gasoleo
 0
 7
-0 33 11 5
-0 47 -1 0
-0 41 -1 1
-0 29 0 1
 0 13 1 0
+0 29 0 1
+0 33 11 5
 0 38 2 3
 0 40 -1 0
+0 41 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b0 lco lco ta1-1-lco ta3-1-lco
 0
 7
-0 33 0 6
-0 52 -1 1
-0 46 -1 0
-0 27 0 1
 0 17 1 0
+0 27 0 1
 0 30 -1 0
+0 33 0 6
 0 39 2 3
+0 46 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b0 lco lco ta1-1-lco ta3-2-lco
 0
 7
-0 33 0 6
-0 52 -1 1
-0 46 -1 0
-0 27 0 1
 0 18 1 0
+0 27 0 1
 0 30 -1 0
+0 33 0 6
 0 39 2 3
+0 46 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b0 lco lco ta1-1-lco ta3-3-lco
 0
 7
-0 33 0 6
-0 52 -1 1
-0 46 -1 0
-0 27 0 1
 0 20 1 0
+0 27 0 1
 0 30 -1 0
+0 33 0 6
 0 39 2 3
+0 46 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b0 lco lco ta1-2-lco ta3-1-lco
 0
 7
-0 33 0 6
-0 52 -1 1
-0 46 -1 0
-0 28 0 1
 0 17 1 0
+0 28 0 1
 0 30 -1 0
+0 33 0 6
 0 39 2 3
+0 46 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b0 lco lco ta1-2-lco ta3-2-lco
 0
 7
-0 33 0 6
-0 52 -1 1
-0 46 -1 0
-0 28 0 1
 0 18 1 0
+0 28 0 1
 0 30 -1 0
+0 33 0 6
 0 39 2 3
+0 46 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b0 lco lco ta1-2-lco ta3-3-lco
 0
 7
-0 33 0 6
-0 52 -1 1
-0 46 -1 0
-0 28 0 1
 0 20 1 0
+0 28 0 1
 0 30 -1 0
+0 33 0 6
 0 39 2 3
+0 46 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b0 lco lco ta1-3-lco ta3-1-lco
 0
 7
-0 33 0 6
-0 52 -1 1
-0 46 -1 0
-0 29 0 1
 0 17 1 0
+0 29 0 1
 0 30 -1 0
+0 33 0 6
 0 39 2 3
+0 46 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b0 lco lco ta1-3-lco ta3-2-lco
 0
 7
-0 33 0 6
-0 52 -1 1
-0 46 -1 0
-0 29 0 1
 0 18 1 0
+0 29 0 1
 0 30 -1 0
+0 33 0 6
 0 39 2 3
+0 46 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b0 lco lco ta1-3-lco ta3-3-lco
 0
 7
-0 33 0 6
-0 52 -1 1
-0 46 -1 0
-0 29 0 1
 0 20 1 0
+0 29 0 1
 0 30 -1 0
+0 33 0 6
 0 39 2 3
+0 46 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b1 lco oc1b ta1-1-oc1b ta3-1-lco
 0
 7
-0 33 1 6
-0 51 -1 1
-0 46 -1 0
 0 8 0 1
 0 17 1 0
+0 33 1 6
 0 34 -1 0
 0 39 2 3
+0 46 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b1 lco oc1b ta1-1-oc1b ta3-2-lco
 0
 7
-0 33 1 6
-0 51 -1 1
-0 46 -1 0
 0 8 0 1
 0 18 1 0
+0 33 1 6
 0 34 -1 0
 0 39 2 3
+0 46 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b1 lco oc1b ta1-1-oc1b ta3-3-lco
 0
 7
-0 33 1 6
-0 51 -1 1
-0 46 -1 0
 0 8 0 1
 0 20 1 0
+0 33 1 6
 0 34 -1 0
 0 39 2 3
+0 46 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b1 lco oc1b ta1-2-oc1b ta3-1-lco
 0
 7
-0 33 1 6
-0 51 -1 1
-0 46 -1 0
 0 10 0 1
 0 17 1 0
+0 33 1 6
 0 34 -1 0
 0 39 2 3
+0 46 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b1 lco oc1b ta1-2-oc1b ta3-2-lco
 0
 7
-0 33 1 6
-0 51 -1 1
-0 46 -1 0
 0 10 0 1
 0 18 1 0
+0 33 1 6
 0 34 -1 0
 0 39 2 3
+0 46 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b1 lco oc1b ta1-2-oc1b ta3-3-lco
 0
 7
-0 33 1 6
-0 51 -1 1
-0 46 -1 0
 0 10 0 1
 0 20 1 0
+0 33 1 6
 0 34 -1 0
 0 39 2 3
+0 46 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b10 lco gasoleo ta1-1-gasoleo ta3-1-lco
 0
 7
-0 33 2 6
-0 50 -1 1
-0 46 -1 0
-0 22 0 1
 0 17 1 0
+0 22 0 1
 0 26 -1 0
+0 33 2 6
 0 39 2 3
+0 46 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b10 lco gasoleo ta1-1-gasoleo ta3-2-lco
 0
 7
-0 33 2 6
-0 50 -1 1
-0 46 -1 0
-0 22 0 1
 0 18 1 0
+0 22 0 1
 0 26 -1 0
+0 33 2 6
 0 39 2 3
+0 46 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b10 lco gasoleo ta1-1-gasoleo ta3-3-lco
 0
 7
-0 33 2 6
-0 50 -1 1
-0 46 -1 0
-0 22 0 1
 0 20 1 0
+0 22 0 1
 0 26 -1 0
+0 33 2 6
 0 39 2 3
+0 46 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b10 lco gasoleo ta1-2-gasoleo ta3-1-lco
 0
 7
-0 33 2 6
-0 50 -1 1
-0 46 -1 0
-0 24 0 1
 0 17 1 0
+0 24 0 1
 0 26 -1 0
+0 33 2 6
 0 39 2 3
+0 46 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b10 lco gasoleo ta1-2-gasoleo ta3-2-lco
 0
 7
-0 33 2 6
-0 50 -1 1
-0 46 -1 0
-0 24 0 1
 0 18 1 0
+0 24 0 1
 0 26 -1 0
+0 33 2 6
 0 39 2 3
+0 46 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b10 lco gasoleo ta1-2-gasoleo ta3-3-lco
 0
 7
-0 33 2 6
-0 50 -1 1
-0 46 -1 0
-0 24 0 1
 0 20 1 0
+0 24 0 1
 0 26 -1 0
+0 33 2 6
 0 39 2 3
+0 46 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b11 lco gasoleo ta1-1-gasoleo ta3-1-lco
 0
 7
-0 33 3 6
-0 49 -1 1
-0 46 -1 0
-0 22 0 1
 0 17 1 0
+0 22 0 1
+0 33 3 6
 0 37 -1 0
 0 39 2 3
+0 46 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b11 lco gasoleo ta1-1-gasoleo ta3-2-lco
 0
 7
-0 33 3 6
-0 49 -1 1
-0 46 -1 0
-0 22 0 1
 0 18 1 0
+0 22 0 1
+0 33 3 6
 0 37 -1 0
 0 39 2 3
+0 46 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b11 lco gasoleo ta1-1-gasoleo ta3-3-lco
 0
 7
-0 33 3 6
-0 49 -1 1
-0 46 -1 0
-0 22 0 1
 0 20 1 0
+0 22 0 1
+0 33 3 6
 0 37 -1 0
 0 39 2 3
+0 46 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b11 lco gasoleo ta1-2-gasoleo ta3-1-lco
 0
 7
-0 33 3 6
-0 49 -1 1
-0 46 -1 0
-0 24 0 1
 0 17 1 0
+0 24 0 1
+0 33 3 6
 0 37 -1 0
 0 39 2 3
+0 46 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b11 lco gasoleo ta1-2-gasoleo ta3-2-lco
 0
 7
-0 33 3 6
-0 49 -1 1
-0 46 -1 0
-0 24 0 1
 0 18 1 0
+0 24 0 1
+0 33 3 6
 0 37 -1 0
 0 39 2 3
+0 46 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b11 lco gasoleo ta1-2-gasoleo ta3-3-lco
 0
 7
-0 33 3 6
-0 49 -1 1
-0 46 -1 0
-0 24 0 1
 0 20 1 0
+0 24 0 1
+0 33 3 6
 0 37 -1 0
 0 39 2 3
+0 46 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b2 lco rat-a ta1-1-rat-a ta3-1-lco
 0
 7
-0 33 4 6
-0 48 -1 1
-0 46 -1 0
-0 19 0 1
 0 17 1 0
+0 19 0 1
 0 25 -1 0
+0 33 4 6
 0 39 2 3
+0 46 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b2 lco rat-a ta1-1-rat-a ta3-2-lco
 0
 7
-0 33 4 6
-0 48 -1 1
-0 46 -1 0
-0 19 0 1
 0 18 1 0
+0 19 0 1
 0 25 -1 0
+0 33 4 6
 0 39 2 3
+0 46 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b2 lco rat-a ta1-1-rat-a ta3-3-lco
 0
 7
-0 33 4 6
-0 48 -1 1
-0 46 -1 0
 0 19 0 1
 0 20 1 0
 0 25 -1 0
+0 33 4 6
 0 39 2 3
+0 46 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b2 lco rat-a ta1-2-rat-a ta3-1-lco
 0
 7
-0 33 4 6
-0 48 -1 1
-0 46 -1 0
-0 21 0 1
 0 17 1 0
+0 21 0 1
 0 25 -1 0
+0 33 4 6
 0 39 2 3
+0 46 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b2 lco rat-a ta1-2-rat-a ta3-2-lco
 0
 7
-0 33 4 6
-0 48 -1 1
-0 46 -1 0
-0 21 0 1
 0 18 1 0
+0 21 0 1
 0 25 -1 0
+0 33 4 6
 0 39 2 3
+0 46 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b2 lco rat-a ta1-2-rat-a ta3-3-lco
 0
 7
-0 33 4 6
-0 48 -1 1
-0 46 -1 0
-0 21 0 1
 0 20 1 0
+0 21 0 1
 0 25 -1 0
+0 33 4 6
 0 39 2 3
+0 46 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b3 lco gasoleo ta1-1-gasoleo ta3-1-lco
 0
 7
-0 33 5 6
-0 47 -1 1
-0 46 -1 0
-0 22 0 1
 0 17 1 0
+0 22 0 1
+0 33 5 6
 0 38 -1 0
 0 39 2 3
+0 46 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b3 lco gasoleo ta1-1-gasoleo ta3-2-lco
 0
 7
-0 33 5 6
-0 47 -1 1
-0 46 -1 0
-0 22 0 1
 0 18 1 0
+0 22 0 1
+0 33 5 6
 0 38 -1 0
 0 39 2 3
+0 46 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b3 lco gasoleo ta1-1-gasoleo ta3-3-lco
 0
 7
-0 33 5 6
-0 47 -1 1
-0 46 -1 0
-0 22 0 1
 0 20 1 0
+0 22 0 1
+0 33 5 6
 0 38 -1 0
 0 39 2 3
+0 46 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b3 lco gasoleo ta1-2-gasoleo ta3-1-lco
 0
 7
-0 33 5 6
-0 47 -1 1
-0 46 -1 0
-0 24 0 1
 0 17 1 0
+0 24 0 1
+0 33 5 6
 0 38 -1 0
 0 39 2 3
+0 46 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b3 lco gasoleo ta1-2-gasoleo ta3-2-lco
 0
 7
-0 33 5 6
-0 47 -1 1
-0 46 -1 0
-0 24 0 1
 0 18 1 0
+0 24 0 1
+0 33 5 6
 0 38 -1 0
 0 39 2 3
+0 46 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b3 lco gasoleo ta1-2-gasoleo ta3-3-lco
 0
 7
-0 33 5 6
-0 47 -1 1
-0 46 -1 0
-0 24 0 1
 0 20 1 0
+0 24 0 1
+0 33 5 6
 0 38 -1 0
 0 39 2 3
+0 46 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b5 lco rat-a ta1-1-rat-a ta3-1-lco
 0
 7
-0 33 7 6
-0 46 -1 0
-0 45 -1 1
-0 19 0 1
 0 17 1 0
-0 39 2 3
+0 19 0 1
+0 33 7 6
 0 35 -1 0
+0 39 2 3
+0 45 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b5 lco rat-a ta1-1-rat-a ta3-2-lco
 0
 7
-0 33 7 6
-0 46 -1 0
-0 45 -1 1
-0 19 0 1
 0 18 1 0
-0 39 2 3
+0 19 0 1
+0 33 7 6
 0 35 -1 0
+0 39 2 3
+0 45 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b5 lco rat-a ta1-1-rat-a ta3-3-lco
 0
 7
-0 33 7 6
-0 46 -1 0
-0 45 -1 1
 0 19 0 1
 0 20 1 0
-0 39 2 3
+0 33 7 6
 0 35 -1 0
+0 39 2 3
+0 45 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b5 lco rat-a ta1-2-rat-a ta3-1-lco
 0
 7
-0 33 7 6
-0 46 -1 0
-0 45 -1 1
-0 21 0 1
 0 17 1 0
-0 39 2 3
+0 21 0 1
+0 33 7 6
 0 35 -1 0
+0 39 2 3
+0 45 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b5 lco rat-a ta1-2-rat-a ta3-2-lco
 0
 7
-0 33 7 6
-0 46 -1 0
-0 45 -1 1
-0 21 0 1
 0 18 1 0
-0 39 2 3
+0 21 0 1
+0 33 7 6
 0 35 -1 0
+0 39 2 3
+0 45 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b5 lco rat-a ta1-2-rat-a ta3-3-lco
 0
 7
-0 33 7 6
-0 46 -1 0
-0 45 -1 1
-0 21 0 1
 0 20 1 0
-0 39 2 3
+0 21 0 1
+0 33 7 6
 0 35 -1 0
+0 39 2 3
+0 45 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b6 lco lco ta1-1-lco ta3-1-lco
 0
 7
-0 33 8 6
-0 46 -1 0
-0 44 -1 1
-0 27 0 1
 0 17 1 0
-0 39 2 3
+0 27 0 1
 0 31 -1 0
+0 33 8 6
+0 39 2 3
+0 44 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b6 lco lco ta1-1-lco ta3-2-lco
 0
 7
-0 33 8 6
-0 46 -1 0
-0 44 -1 1
-0 27 0 1
 0 18 1 0
-0 39 2 3
+0 27 0 1
 0 31 -1 0
+0 33 8 6
+0 39 2 3
+0 44 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b6 lco lco ta1-1-lco ta3-3-lco
 0
 7
-0 33 8 6
-0 46 -1 0
-0 44 -1 1
-0 27 0 1
 0 20 1 0
-0 39 2 3
+0 27 0 1
 0 31 -1 0
+0 33 8 6
+0 39 2 3
+0 44 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b6 lco lco ta1-2-lco ta3-1-lco
 0
 7
-0 33 8 6
-0 46 -1 0
-0 44 -1 1
-0 28 0 1
 0 17 1 0
-0 39 2 3
+0 28 0 1
 0 31 -1 0
+0 33 8 6
+0 39 2 3
+0 44 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b6 lco lco ta1-2-lco ta3-2-lco
 0
 7
-0 33 8 6
-0 46 -1 0
-0 44 -1 1
-0 28 0 1
 0 18 1 0
-0 39 2 3
+0 28 0 1
 0 31 -1 0
+0 33 8 6
+0 39 2 3
+0 44 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b6 lco lco ta1-2-lco ta3-3-lco
 0
 7
-0 33 8 6
-0 46 -1 0
-0 44 -1 1
-0 28 0 1
 0 20 1 0
-0 39 2 3
+0 28 0 1
 0 31 -1 0
+0 33 8 6
+0 39 2 3
+0 44 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b6 lco lco ta1-3-lco ta3-1-lco
 0
 7
-0 33 8 6
-0 46 -1 0
-0 44 -1 1
-0 29 0 1
 0 17 1 0
-0 39 2 3
+0 29 0 1
 0 31 -1 0
+0 33 8 6
+0 39 2 3
+0 44 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b6 lco lco ta1-3-lco ta3-2-lco
 0
 7
-0 33 8 6
-0 46 -1 0
-0 44 -1 1
-0 29 0 1
 0 18 1 0
-0 39 2 3
+0 29 0 1
 0 31 -1 0
+0 33 8 6
+0 39 2 3
+0 44 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b6 lco lco ta1-3-lco ta3-3-lco
 0
 7
-0 33 8 6
-0 46 -1 0
-0 44 -1 1
-0 29 0 1
 0 20 1 0
-0 39 2 3
+0 29 0 1
 0 31 -1 0
+0 33 8 6
+0 39 2 3
+0 44 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b7 lco rat-a ta1-1-rat-a ta3-1-lco
 0
 7
-0 33 9 6
-0 46 -1 0
-0 43 -1 1
-0 19 0 1
 0 17 1 0
-0 39 2 3
+0 19 0 1
+0 33 9 6
 0 36 -1 0
+0 39 2 3
+0 43 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b7 lco rat-a ta1-1-rat-a ta3-2-lco
 0
 7
-0 33 9 6
-0 46 -1 0
-0 43 -1 1
-0 19 0 1
 0 18 1 0
-0 39 2 3
+0 19 0 1
+0 33 9 6
 0 36 -1 0
+0 39 2 3
+0 43 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b7 lco rat-a ta1-1-rat-a ta3-3-lco
 0
 7
-0 33 9 6
-0 46 -1 0
-0 43 -1 1
 0 19 0 1
 0 20 1 0
-0 39 2 3
+0 33 9 6
 0 36 -1 0
+0 39 2 3
+0 43 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b7 lco rat-a ta1-2-rat-a ta3-1-lco
 0
 7
-0 33 9 6
-0 46 -1 0
-0 43 -1 1
-0 21 0 1
 0 17 1 0
-0 39 2 3
+0 21 0 1
+0 33 9 6
 0 36 -1 0
+0 39 2 3
+0 43 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b7 lco rat-a ta1-2-rat-a ta3-2-lco
 0
 7
-0 33 9 6
-0 46 -1 0
-0 43 -1 1
-0 21 0 1
 0 18 1 0
-0 39 2 3
+0 21 0 1
+0 33 9 6
 0 36 -1 0
+0 39 2 3
+0 43 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b7 lco rat-a ta1-2-rat-a ta3-3-lco
 0
 7
-0 33 9 6
-0 46 -1 0
-0 43 -1 1
-0 21 0 1
 0 20 1 0
-0 39 2 3
+0 21 0 1
+0 33 9 6
 0 36 -1 0
+0 39 2 3
+0 43 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b8 lco oc1b ta1-1-oc1b ta3-1-lco
 0
 7
-0 33 10 6
-0 46 -1 0
-0 42 -1 1
 0 8 0 1
 0 17 1 0
-0 39 2 3
 0 23 -1 0
+0 33 10 6
+0 39 2 3
+0 42 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b8 lco oc1b ta1-1-oc1b ta3-2-lco
 0
 7
-0 33 10 6
-0 46 -1 0
-0 42 -1 1
 0 8 0 1
 0 18 1 0
-0 39 2 3
 0 23 -1 0
+0 33 10 6
+0 39 2 3
+0 42 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b8 lco oc1b ta1-1-oc1b ta3-3-lco
 0
 7
-0 33 10 6
-0 46 -1 0
-0 42 -1 1
 0 8 0 1
 0 20 1 0
-0 39 2 3
 0 23 -1 0
+0 33 10 6
+0 39 2 3
+0 42 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b8 lco oc1b ta1-2-oc1b ta3-1-lco
 0
 7
-0 33 10 6
-0 46 -1 0
-0 42 -1 1
 0 10 0 1
 0 17 1 0
-0 39 2 3
 0 23 -1 0
+0 33 10 6
+0 39 2 3
+0 42 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b8 lco oc1b ta1-2-oc1b ta3-2-lco
 0
 7
-0 33 10 6
-0 46 -1 0
-0 42 -1 1
 0 10 0 1
 0 18 1 0
-0 39 2 3
 0 23 -1 0
+0 33 10 6
+0 39 2 3
+0 42 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b8 lco oc1b ta1-2-oc1b ta3-3-lco
 0
 7
-0 33 10 6
-0 46 -1 0
-0 42 -1 1
 0 10 0 1
 0 20 1 0
-0 39 2 3
 0 23 -1 0
+0 33 10 6
+0 39 2 3
+0 42 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b9 lco lco ta1-1-lco ta3-1-lco
 0
 7
-0 33 11 6
-0 46 -1 0
-0 41 -1 1
-0 27 0 1
 0 17 1 0
+0 27 0 1
+0 33 11 6
 0 39 2 3
 0 40 -1 0
+0 41 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b9 lco lco ta1-1-lco ta3-2-lco
 0
 7
-0 33 11 6
-0 46 -1 0
-0 41 -1 1
-0 27 0 1
 0 18 1 0
+0 27 0 1
+0 33 11 6
 0 39 2 3
 0 40 -1 0
+0 41 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b9 lco lco ta1-1-lco ta3-3-lco
 0
 7
-0 33 11 6
-0 46 -1 0
-0 41 -1 1
-0 27 0 1
 0 20 1 0
+0 27 0 1
+0 33 11 6
 0 39 2 3
 0 40 -1 0
+0 41 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b9 lco lco ta1-2-lco ta3-1-lco
 0
 7
-0 33 11 6
-0 46 -1 0
-0 41 -1 1
-0 28 0 1
 0 17 1 0
+0 28 0 1
+0 33 11 6
 0 39 2 3
 0 40 -1 0
+0 41 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b9 lco lco ta1-2-lco ta3-2-lco
 0
 7
-0 33 11 6
-0 46 -1 0
-0 41 -1 1
-0 28 0 1
 0 18 1 0
+0 28 0 1
+0 33 11 6
 0 39 2 3
 0 40 -1 0
+0 41 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b9 lco lco ta1-2-lco ta3-3-lco
 0
 7
-0 33 11 6
-0 46 -1 0
-0 41 -1 1
-0 28 0 1
 0 20 1 0
+0 28 0 1
+0 33 11 6
 0 39 2 3
 0 40 -1 0
+0 41 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b9 lco lco ta1-3-lco ta3-1-lco
 0
 7
-0 33 11 6
-0 46 -1 0
-0 41 -1 1
-0 29 0 1
 0 17 1 0
+0 29 0 1
+0 33 11 6
 0 39 2 3
 0 40 -1 0
+0 41 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b9 lco lco ta1-3-lco ta3-2-lco
 0
 7
-0 33 11 6
-0 46 -1 0
-0 41 -1 1
-0 29 0 1
 0 18 1 0
+0 29 0 1
+0 33 11 6
 0 39 2 3
 0 40 -1 0
+0 41 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b4 a1 a3 b9 lco lco ta1-3-lco ta3-3-lco
 0
 7
-0 33 11 6
-0 46 -1 0
-0 41 -1 1
-0 29 0 1
 0 20 1 0
+0 29 0 1
+0 33 11 6
 0 39 2 3
 0 40 -1 0
+0 41 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b0 rat-a lco ta1-1-lco ta3-1-rat-a
 0
 7
-0 33 0 7
-0 52 -1 1
-0 45 -1 0
-0 27 0 1
 0 6 1 0
+0 27 0 1
 0 30 -1 0
+0 33 0 7
 0 35 2 3
+0 45 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b0 rat-a lco ta1-1-lco ta3-2-rat-a
 0
 7
-0 33 0 7
-0 52 -1 1
-0 45 -1 0
-0 27 0 1
 0 7 1 0
+0 27 0 1
 0 30 -1 0
+0 33 0 7
 0 35 2 3
+0 45 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b0 rat-a lco ta1-2-lco ta3-1-rat-a
 0
 7
-0 33 0 7
-0 52 -1 1
-0 45 -1 0
-0 28 0 1
 0 6 1 0
+0 28 0 1
 0 30 -1 0
+0 33 0 7
 0 35 2 3
+0 45 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b0 rat-a lco ta1-2-lco ta3-2-rat-a
 0
 7
-0 33 0 7
-0 52 -1 1
-0 45 -1 0
-0 28 0 1
 0 7 1 0
+0 28 0 1
 0 30 -1 0
+0 33 0 7
 0 35 2 3
+0 45 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b0 rat-a lco ta1-3-lco ta3-1-rat-a
 0
 7
-0 33 0 7
-0 52 -1 1
-0 45 -1 0
-0 29 0 1
 0 6 1 0
+0 29 0 1
 0 30 -1 0
+0 33 0 7
 0 35 2 3
+0 45 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b0 rat-a lco ta1-3-lco ta3-2-rat-a
 0
 7
-0 33 0 7
-0 52 -1 1
-0 45 -1 0
-0 29 0 1
 0 7 1 0
+0 29 0 1
 0 30 -1 0
+0 33 0 7
 0 35 2 3
+0 45 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b10 rat-a gasoleo ta1-1-gasoleo ta3-1-rat-a
 0
 7
-0 33 2 7
-0 50 -1 1
-0 45 -1 0
-0 22 0 1
 0 6 1 0
+0 22 0 1
 0 26 -1 0
+0 33 2 7
 0 35 2 3
+0 45 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b10 rat-a gasoleo ta1-1-gasoleo ta3-2-rat-a
 0
 7
-0 33 2 7
-0 50 -1 1
-0 45 -1 0
-0 22 0 1
 0 7 1 0
+0 22 0 1
 0 26 -1 0
+0 33 2 7
 0 35 2 3
+0 45 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b10 rat-a gasoleo ta1-2-gasoleo ta3-1-rat-a
 0
 7
-0 33 2 7
-0 50 -1 1
-0 45 -1 0
-0 24 0 1
 0 6 1 0
+0 24 0 1
 0 26 -1 0
+0 33 2 7
 0 35 2 3
+0 45 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b10 rat-a gasoleo ta1-2-gasoleo ta3-2-rat-a
 0
 7
-0 33 2 7
-0 50 -1 1
-0 45 -1 0
-0 24 0 1
 0 7 1 0
+0 24 0 1
 0 26 -1 0
+0 33 2 7
 0 35 2 3
+0 45 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b11 rat-a gasoleo ta1-1-gasoleo ta3-1-rat-a
 0
 7
-0 33 3 7
-0 49 -1 1
-0 45 -1 0
-0 22 0 1
 0 6 1 0
-0 37 -1 0
+0 22 0 1
+0 33 3 7
 0 35 2 3
+0 37 -1 0
+0 45 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b11 rat-a gasoleo ta1-1-gasoleo ta3-2-rat-a
 0
 7
-0 33 3 7
-0 49 -1 1
-0 45 -1 0
-0 22 0 1
 0 7 1 0
-0 37 -1 0
+0 22 0 1
+0 33 3 7
 0 35 2 3
+0 37 -1 0
+0 45 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b11 rat-a gasoleo ta1-2-gasoleo ta3-1-rat-a
 0
 7
-0 33 3 7
-0 49 -1 1
-0 45 -1 0
-0 24 0 1
 0 6 1 0
-0 37 -1 0
+0 24 0 1
+0 33 3 7
 0 35 2 3
+0 37 -1 0
+0 45 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b11 rat-a gasoleo ta1-2-gasoleo ta3-2-rat-a
 0
 7
-0 33 3 7
-0 49 -1 1
-0 45 -1 0
-0 24 0 1
 0 7 1 0
-0 37 -1 0
+0 24 0 1
+0 33 3 7
 0 35 2 3
+0 37 -1 0
+0 45 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b2 rat-a rat-a ta1-1-rat-a ta3-1-rat-a
 0
 7
-0 33 4 7
-0 48 -1 1
-0 45 -1 0
-0 19 0 1
 0 6 1 0
+0 19 0 1
 0 25 -1 0
+0 33 4 7
 0 35 2 3
+0 45 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b2 rat-a rat-a ta1-1-rat-a ta3-2-rat-a
 0
 7
-0 33 4 7
-0 48 -1 1
-0 45 -1 0
-0 19 0 1
 0 7 1 0
+0 19 0 1
 0 25 -1 0
+0 33 4 7
 0 35 2 3
+0 45 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b2 rat-a rat-a ta1-2-rat-a ta3-1-rat-a
 0
 7
-0 33 4 7
-0 48 -1 1
-0 45 -1 0
-0 21 0 1
 0 6 1 0
+0 21 0 1
 0 25 -1 0
+0 33 4 7
 0 35 2 3
+0 45 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b2 rat-a rat-a ta1-2-rat-a ta3-2-rat-a
 0
 7
-0 33 4 7
-0 48 -1 1
-0 45 -1 0
-0 21 0 1
 0 7 1 0
+0 21 0 1
 0 25 -1 0
+0 33 4 7
 0 35 2 3
+0 45 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b3 rat-a gasoleo ta1-1-gasoleo ta3-1-rat-a
 0
 7
-0 33 5 7
-0 47 -1 1
-0 45 -1 0
-0 22 0 1
 0 6 1 0
-0 38 -1 0
+0 22 0 1
+0 33 5 7
 0 35 2 3
+0 38 -1 0
+0 45 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b3 rat-a gasoleo ta1-1-gasoleo ta3-2-rat-a
 0
 7
-0 33 5 7
-0 47 -1 1
-0 45 -1 0
-0 22 0 1
 0 7 1 0
-0 38 -1 0
+0 22 0 1
+0 33 5 7
 0 35 2 3
+0 38 -1 0
+0 45 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b3 rat-a gasoleo ta1-2-gasoleo ta3-1-rat-a
 0
 7
-0 33 5 7
-0 47 -1 1
-0 45 -1 0
-0 24 0 1
 0 6 1 0
-0 38 -1 0
+0 24 0 1
+0 33 5 7
 0 35 2 3
+0 38 -1 0
+0 45 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b3 rat-a gasoleo ta1-2-gasoleo ta3-2-rat-a
 0
 7
-0 33 5 7
-0 47 -1 1
-0 45 -1 0
-0 24 0 1
 0 7 1 0
-0 38 -1 0
+0 24 0 1
+0 33 5 7
 0 35 2 3
+0 38 -1 0
+0 45 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b4 rat-a lco ta1-1-lco ta3-1-rat-a
 0
 7
-0 33 6 7
-0 46 -1 1
-0 45 -1 0
-0 27 0 1
 0 6 1 0
-0 39 -1 0
+0 27 0 1
+0 33 6 7
 0 35 2 3
+0 39 -1 0
+0 45 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b4 rat-a lco ta1-1-lco ta3-2-rat-a
 0
 7
-0 33 6 7
-0 46 -1 1
-0 45 -1 0
-0 27 0 1
 0 7 1 0
-0 39 -1 0
+0 27 0 1
+0 33 6 7
 0 35 2 3
+0 39 -1 0
+0 45 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b4 rat-a lco ta1-2-lco ta3-1-rat-a
 0
 7
-0 33 6 7
-0 46 -1 1
-0 45 -1 0
-0 28 0 1
 0 6 1 0
-0 39 -1 0
+0 28 0 1
+0 33 6 7
 0 35 2 3
+0 39 -1 0
+0 45 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b4 rat-a lco ta1-2-lco ta3-2-rat-a
 0
 7
-0 33 6 7
-0 46 -1 1
-0 45 -1 0
-0 28 0 1
 0 7 1 0
-0 39 -1 0
+0 28 0 1
+0 33 6 7
 0 35 2 3
+0 39 -1 0
+0 45 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b4 rat-a lco ta1-3-lco ta3-1-rat-a
 0
 7
-0 33 6 7
-0 46 -1 1
-0 45 -1 0
-0 29 0 1
 0 6 1 0
-0 39 -1 0
+0 29 0 1
+0 33 6 7
 0 35 2 3
+0 39 -1 0
+0 45 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b4 rat-a lco ta1-3-lco ta3-2-rat-a
 0
 7
-0 33 6 7
-0 46 -1 1
-0 45 -1 0
-0 29 0 1
 0 7 1 0
-0 39 -1 0
+0 29 0 1
+0 33 6 7
 0 35 2 3
+0 39 -1 0
+0 45 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b6 rat-a lco ta1-1-lco ta3-1-rat-a
 0
 7
-0 33 8 7
-0 45 -1 0
-0 44 -1 1
-0 27 0 1
 0 6 1 0
-0 35 2 3
+0 27 0 1
 0 31 -1 0
+0 33 8 7
+0 35 2 3
+0 44 -1 1
+0 45 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b6 rat-a lco ta1-1-lco ta3-2-rat-a
 0
 7
-0 33 8 7
-0 45 -1 0
-0 44 -1 1
-0 27 0 1
 0 7 1 0
-0 35 2 3
+0 27 0 1
 0 31 -1 0
+0 33 8 7
+0 35 2 3
+0 44 -1 1
+0 45 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b6 rat-a lco ta1-2-lco ta3-1-rat-a
 0
 7
-0 33 8 7
-0 45 -1 0
-0 44 -1 1
-0 28 0 1
 0 6 1 0
-0 35 2 3
+0 28 0 1
 0 31 -1 0
+0 33 8 7
+0 35 2 3
+0 44 -1 1
+0 45 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b6 rat-a lco ta1-2-lco ta3-2-rat-a
 0
 7
-0 33 8 7
-0 45 -1 0
-0 44 -1 1
-0 28 0 1
 0 7 1 0
-0 35 2 3
+0 28 0 1
 0 31 -1 0
+0 33 8 7
+0 35 2 3
+0 44 -1 1
+0 45 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b6 rat-a lco ta1-3-lco ta3-1-rat-a
 0
 7
-0 33 8 7
-0 45 -1 0
-0 44 -1 1
-0 29 0 1
 0 6 1 0
-0 35 2 3
+0 29 0 1
 0 31 -1 0
+0 33 8 7
+0 35 2 3
+0 44 -1 1
+0 45 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b6 rat-a lco ta1-3-lco ta3-2-rat-a
 0
 7
-0 33 8 7
-0 45 -1 0
-0 44 -1 1
-0 29 0 1
 0 7 1 0
-0 35 2 3
+0 29 0 1
 0 31 -1 0
+0 33 8 7
+0 35 2 3
+0 44 -1 1
+0 45 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b7 rat-a rat-a ta1-1-rat-a ta3-1-rat-a
 0
 7
-0 33 9 7
-0 45 -1 0
-0 43 -1 1
-0 19 0 1
 0 6 1 0
+0 19 0 1
+0 33 9 7
 0 35 2 3
 0 36 -1 0
+0 43 -1 1
+0 45 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b7 rat-a rat-a ta1-1-rat-a ta3-2-rat-a
 0
 7
-0 33 9 7
-0 45 -1 0
-0 43 -1 1
-0 19 0 1
 0 7 1 0
+0 19 0 1
+0 33 9 7
 0 35 2 3
 0 36 -1 0
+0 43 -1 1
+0 45 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b7 rat-a rat-a ta1-2-rat-a ta3-1-rat-a
 0
 7
-0 33 9 7
-0 45 -1 0
-0 43 -1 1
-0 21 0 1
 0 6 1 0
+0 21 0 1
+0 33 9 7
 0 35 2 3
 0 36 -1 0
+0 43 -1 1
+0 45 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b7 rat-a rat-a ta1-2-rat-a ta3-2-rat-a
 0
 7
-0 33 9 7
-0 45 -1 0
-0 43 -1 1
-0 21 0 1
 0 7 1 0
+0 21 0 1
+0 33 9 7
 0 35 2 3
 0 36 -1 0
+0 43 -1 1
+0 45 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b9 rat-a lco ta1-1-lco ta3-1-rat-a
 0
 7
-0 33 11 7
-0 45 -1 0
-0 41 -1 1
-0 27 0 1
 0 6 1 0
+0 27 0 1
+0 33 11 7
 0 35 2 3
 0 40 -1 0
+0 41 -1 1
+0 45 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b9 rat-a lco ta1-1-lco ta3-2-rat-a
 0
 7
-0 33 11 7
-0 45 -1 0
-0 41 -1 1
-0 27 0 1
 0 7 1 0
+0 27 0 1
+0 33 11 7
 0 35 2 3
 0 40 -1 0
+0 41 -1 1
+0 45 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b9 rat-a lco ta1-2-lco ta3-1-rat-a
 0
 7
-0 33 11 7
-0 45 -1 0
-0 41 -1 1
-0 28 0 1
 0 6 1 0
+0 28 0 1
+0 33 11 7
 0 35 2 3
 0 40 -1 0
+0 41 -1 1
+0 45 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b9 rat-a lco ta1-2-lco ta3-2-rat-a
 0
 7
-0 33 11 7
-0 45 -1 0
-0 41 -1 1
-0 28 0 1
 0 7 1 0
+0 28 0 1
+0 33 11 7
 0 35 2 3
 0 40 -1 0
+0 41 -1 1
+0 45 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b9 rat-a lco ta1-3-lco ta3-1-rat-a
 0
 7
-0 33 11 7
-0 45 -1 0
-0 41 -1 1
-0 29 0 1
 0 6 1 0
+0 29 0 1
+0 33 11 7
 0 35 2 3
 0 40 -1 0
+0 41 -1 1
+0 45 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b5 a1 a3 b9 rat-a lco ta1-3-lco ta3-2-rat-a
 0
 7
-0 33 11 7
-0 45 -1 0
-0 41 -1 1
-0 29 0 1
 0 7 1 0
+0 29 0 1
+0 33 11 7
 0 35 2 3
 0 40 -1 0
+0 41 -1 1
+0 45 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b0 lco lco ta1-1-lco ta3-1-lco
 0
 7
-0 33 0 8
-0 52 -1 1
-0 44 -1 0
-0 27 0 1
 0 17 1 0
+0 27 0 1
 0 30 -1 0
 0 31 2 3
+0 33 0 8
+0 44 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b0 lco lco ta1-1-lco ta3-2-lco
 0
 7
-0 33 0 8
-0 52 -1 1
-0 44 -1 0
-0 27 0 1
 0 18 1 0
+0 27 0 1
 0 30 -1 0
 0 31 2 3
+0 33 0 8
+0 44 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b0 lco lco ta1-1-lco ta3-3-lco
 0
 7
-0 33 0 8
-0 52 -1 1
-0 44 -1 0
-0 27 0 1
 0 20 1 0
+0 27 0 1
 0 30 -1 0
 0 31 2 3
+0 33 0 8
+0 44 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b0 lco lco ta1-2-lco ta3-1-lco
 0
 7
-0 33 0 8
-0 52 -1 1
-0 44 -1 0
-0 28 0 1
 0 17 1 0
+0 28 0 1
 0 30 -1 0
 0 31 2 3
+0 33 0 8
+0 44 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b0 lco lco ta1-2-lco ta3-2-lco
 0
 7
-0 33 0 8
-0 52 -1 1
-0 44 -1 0
-0 28 0 1
 0 18 1 0
+0 28 0 1
 0 30 -1 0
 0 31 2 3
+0 33 0 8
+0 44 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b0 lco lco ta1-2-lco ta3-3-lco
 0
 7
-0 33 0 8
-0 52 -1 1
-0 44 -1 0
-0 28 0 1
 0 20 1 0
+0 28 0 1
 0 30 -1 0
 0 31 2 3
+0 33 0 8
+0 44 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b0 lco lco ta1-3-lco ta3-1-lco
 0
 7
-0 33 0 8
-0 52 -1 1
-0 44 -1 0
-0 29 0 1
 0 17 1 0
+0 29 0 1
 0 30 -1 0
 0 31 2 3
+0 33 0 8
+0 44 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b0 lco lco ta1-3-lco ta3-2-lco
 0
 7
-0 33 0 8
-0 52 -1 1
-0 44 -1 0
-0 29 0 1
 0 18 1 0
+0 29 0 1
 0 30 -1 0
 0 31 2 3
+0 33 0 8
+0 44 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b0 lco lco ta1-3-lco ta3-3-lco
 0
 7
-0 33 0 8
-0 52 -1 1
-0 44 -1 0
-0 29 0 1
 0 20 1 0
+0 29 0 1
 0 30 -1 0
 0 31 2 3
+0 33 0 8
+0 44 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b1 lco oc1b ta1-1-oc1b ta3-1-lco
 0
 7
-0 33 1 8
-0 51 -1 1
-0 44 -1 0
 0 8 0 1
 0 17 1 0
-0 34 -1 0
 0 31 2 3
+0 33 1 8
+0 34 -1 0
+0 44 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b1 lco oc1b ta1-1-oc1b ta3-2-lco
 0
 7
-0 33 1 8
-0 51 -1 1
-0 44 -1 0
 0 8 0 1
 0 18 1 0
-0 34 -1 0
 0 31 2 3
+0 33 1 8
+0 34 -1 0
+0 44 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b1 lco oc1b ta1-1-oc1b ta3-3-lco
 0
 7
-0 33 1 8
-0 51 -1 1
-0 44 -1 0
 0 8 0 1
 0 20 1 0
-0 34 -1 0
 0 31 2 3
+0 33 1 8
+0 34 -1 0
+0 44 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b1 lco oc1b ta1-2-oc1b ta3-1-lco
 0
 7
-0 33 1 8
-0 51 -1 1
-0 44 -1 0
 0 10 0 1
 0 17 1 0
-0 34 -1 0
 0 31 2 3
+0 33 1 8
+0 34 -1 0
+0 44 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b1 lco oc1b ta1-2-oc1b ta3-2-lco
 0
 7
-0 33 1 8
-0 51 -1 1
-0 44 -1 0
 0 10 0 1
 0 18 1 0
-0 34 -1 0
 0 31 2 3
+0 33 1 8
+0 34 -1 0
+0 44 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b1 lco oc1b ta1-2-oc1b ta3-3-lco
 0
 7
-0 33 1 8
-0 51 -1 1
-0 44 -1 0
 0 10 0 1
 0 20 1 0
-0 34 -1 0
 0 31 2 3
+0 33 1 8
+0 34 -1 0
+0 44 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b10 lco gasoleo ta1-1-gasoleo ta3-1-lco
 0
 7
-0 33 2 8
-0 50 -1 1
-0 44 -1 0
-0 22 0 1
 0 17 1 0
+0 22 0 1
 0 26 -1 0
 0 31 2 3
+0 33 2 8
+0 44 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b10 lco gasoleo ta1-1-gasoleo ta3-2-lco
 0
 7
-0 33 2 8
-0 50 -1 1
-0 44 -1 0
-0 22 0 1
 0 18 1 0
+0 22 0 1
 0 26 -1 0
 0 31 2 3
+0 33 2 8
+0 44 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b10 lco gasoleo ta1-1-gasoleo ta3-3-lco
 0
 7
-0 33 2 8
-0 50 -1 1
-0 44 -1 0
-0 22 0 1
 0 20 1 0
+0 22 0 1
 0 26 -1 0
 0 31 2 3
+0 33 2 8
+0 44 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b10 lco gasoleo ta1-2-gasoleo ta3-1-lco
 0
 7
-0 33 2 8
-0 50 -1 1
-0 44 -1 0
-0 24 0 1
 0 17 1 0
+0 24 0 1
 0 26 -1 0
 0 31 2 3
+0 33 2 8
+0 44 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b10 lco gasoleo ta1-2-gasoleo ta3-2-lco
 0
 7
-0 33 2 8
-0 50 -1 1
-0 44 -1 0
-0 24 0 1
 0 18 1 0
+0 24 0 1
 0 26 -1 0
 0 31 2 3
+0 33 2 8
+0 44 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b10 lco gasoleo ta1-2-gasoleo ta3-3-lco
 0
 7
-0 33 2 8
-0 50 -1 1
-0 44 -1 0
-0 24 0 1
 0 20 1 0
+0 24 0 1
 0 26 -1 0
 0 31 2 3
+0 33 2 8
+0 44 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b11 lco gasoleo ta1-1-gasoleo ta3-1-lco
 0
 7
-0 33 3 8
-0 49 -1 1
-0 44 -1 0
-0 22 0 1
 0 17 1 0
-0 37 -1 0
+0 22 0 1
 0 31 2 3
+0 33 3 8
+0 37 -1 0
+0 44 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b11 lco gasoleo ta1-1-gasoleo ta3-2-lco
 0
 7
-0 33 3 8
-0 49 -1 1
-0 44 -1 0
-0 22 0 1
 0 18 1 0
-0 37 -1 0
+0 22 0 1
 0 31 2 3
+0 33 3 8
+0 37 -1 0
+0 44 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b11 lco gasoleo ta1-1-gasoleo ta3-3-lco
 0
 7
-0 33 3 8
-0 49 -1 1
-0 44 -1 0
-0 22 0 1
 0 20 1 0
-0 37 -1 0
+0 22 0 1
 0 31 2 3
+0 33 3 8
+0 37 -1 0
+0 44 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b11 lco gasoleo ta1-2-gasoleo ta3-1-lco
 0
 7
-0 33 3 8
-0 49 -1 1
-0 44 -1 0
-0 24 0 1
 0 17 1 0
-0 37 -1 0
+0 24 0 1
 0 31 2 3
+0 33 3 8
+0 37 -1 0
+0 44 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b11 lco gasoleo ta1-2-gasoleo ta3-2-lco
 0
 7
-0 33 3 8
-0 49 -1 1
-0 44 -1 0
-0 24 0 1
 0 18 1 0
-0 37 -1 0
+0 24 0 1
 0 31 2 3
+0 33 3 8
+0 37 -1 0
+0 44 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b11 lco gasoleo ta1-2-gasoleo ta3-3-lco
 0
 7
-0 33 3 8
-0 49 -1 1
-0 44 -1 0
-0 24 0 1
 0 20 1 0
-0 37 -1 0
+0 24 0 1
 0 31 2 3
+0 33 3 8
+0 37 -1 0
+0 44 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b2 lco rat-a ta1-1-rat-a ta3-1-lco
 0
 7
-0 33 4 8
-0 48 -1 1
-0 44 -1 0
-0 19 0 1
 0 17 1 0
+0 19 0 1
 0 25 -1 0
 0 31 2 3
+0 33 4 8
+0 44 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b2 lco rat-a ta1-1-rat-a ta3-2-lco
 0
 7
-0 33 4 8
-0 48 -1 1
-0 44 -1 0
-0 19 0 1
 0 18 1 0
+0 19 0 1
 0 25 -1 0
 0 31 2 3
+0 33 4 8
+0 44 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b2 lco rat-a ta1-1-rat-a ta3-3-lco
 0
 7
-0 33 4 8
-0 48 -1 1
-0 44 -1 0
 0 19 0 1
 0 20 1 0
 0 25 -1 0
 0 31 2 3
+0 33 4 8
+0 44 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b2 lco rat-a ta1-2-rat-a ta3-1-lco
 0
 7
-0 33 4 8
-0 48 -1 1
-0 44 -1 0
-0 21 0 1
 0 17 1 0
+0 21 0 1
 0 25 -1 0
 0 31 2 3
+0 33 4 8
+0 44 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b2 lco rat-a ta1-2-rat-a ta3-2-lco
 0
 7
-0 33 4 8
-0 48 -1 1
-0 44 -1 0
-0 21 0 1
 0 18 1 0
+0 21 0 1
 0 25 -1 0
 0 31 2 3
+0 33 4 8
+0 44 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b2 lco rat-a ta1-2-rat-a ta3-3-lco
 0
 7
-0 33 4 8
-0 48 -1 1
-0 44 -1 0
-0 21 0 1
 0 20 1 0
+0 21 0 1
 0 25 -1 0
 0 31 2 3
+0 33 4 8
+0 44 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b3 lco gasoleo ta1-1-gasoleo ta3-1-lco
 0
 7
-0 33 5 8
-0 47 -1 1
-0 44 -1 0
-0 22 0 1
 0 17 1 0
-0 38 -1 0
+0 22 0 1
 0 31 2 3
+0 33 5 8
+0 38 -1 0
+0 44 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b3 lco gasoleo ta1-1-gasoleo ta3-2-lco
 0
 7
-0 33 5 8
-0 47 -1 1
-0 44 -1 0
-0 22 0 1
 0 18 1 0
-0 38 -1 0
+0 22 0 1
 0 31 2 3
+0 33 5 8
+0 38 -1 0
+0 44 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b3 lco gasoleo ta1-1-gasoleo ta3-3-lco
 0
 7
-0 33 5 8
-0 47 -1 1
-0 44 -1 0
-0 22 0 1
 0 20 1 0
-0 38 -1 0
+0 22 0 1
 0 31 2 3
+0 33 5 8
+0 38 -1 0
+0 44 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b3 lco gasoleo ta1-2-gasoleo ta3-1-lco
 0
 7
-0 33 5 8
-0 47 -1 1
-0 44 -1 0
-0 24 0 1
 0 17 1 0
-0 38 -1 0
+0 24 0 1
 0 31 2 3
+0 33 5 8
+0 38 -1 0
+0 44 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b3 lco gasoleo ta1-2-gasoleo ta3-2-lco
 0
 7
-0 33 5 8
-0 47 -1 1
-0 44 -1 0
-0 24 0 1
 0 18 1 0
-0 38 -1 0
+0 24 0 1
 0 31 2 3
+0 33 5 8
+0 38 -1 0
+0 44 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b3 lco gasoleo ta1-2-gasoleo ta3-3-lco
 0
 7
-0 33 5 8
-0 47 -1 1
-0 44 -1 0
-0 24 0 1
 0 20 1 0
-0 38 -1 0
+0 24 0 1
 0 31 2 3
+0 33 5 8
+0 38 -1 0
+0 44 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b4 lco lco ta1-1-lco ta3-1-lco
 0
 7
-0 33 6 8
-0 46 -1 1
-0 44 -1 0
-0 27 0 1
 0 17 1 0
-0 39 -1 0
+0 27 0 1
 0 31 2 3
+0 33 6 8
+0 39 -1 0
+0 44 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b4 lco lco ta1-1-lco ta3-2-lco
 0
 7
-0 33 6 8
-0 46 -1 1
-0 44 -1 0
-0 27 0 1
 0 18 1 0
-0 39 -1 0
+0 27 0 1
 0 31 2 3
+0 33 6 8
+0 39 -1 0
+0 44 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b4 lco lco ta1-1-lco ta3-3-lco
 0
 7
-0 33 6 8
-0 46 -1 1
-0 44 -1 0
-0 27 0 1
 0 20 1 0
-0 39 -1 0
+0 27 0 1
 0 31 2 3
+0 33 6 8
+0 39 -1 0
+0 44 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b4 lco lco ta1-2-lco ta3-1-lco
 0
 7
-0 33 6 8
-0 46 -1 1
-0 44 -1 0
-0 28 0 1
 0 17 1 0
-0 39 -1 0
+0 28 0 1
 0 31 2 3
+0 33 6 8
+0 39 -1 0
+0 44 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b4 lco lco ta1-2-lco ta3-2-lco
 0
 7
-0 33 6 8
-0 46 -1 1
-0 44 -1 0
-0 28 0 1
 0 18 1 0
-0 39 -1 0
+0 28 0 1
 0 31 2 3
+0 33 6 8
+0 39 -1 0
+0 44 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b4 lco lco ta1-2-lco ta3-3-lco
 0
 7
-0 33 6 8
-0 46 -1 1
-0 44 -1 0
-0 28 0 1
 0 20 1 0
-0 39 -1 0
+0 28 0 1
 0 31 2 3
+0 33 6 8
+0 39 -1 0
+0 44 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b4 lco lco ta1-3-lco ta3-1-lco
 0
 7
-0 33 6 8
-0 46 -1 1
-0 44 -1 0
-0 29 0 1
 0 17 1 0
-0 39 -1 0
+0 29 0 1
 0 31 2 3
+0 33 6 8
+0 39 -1 0
+0 44 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b4 lco lco ta1-3-lco ta3-2-lco
 0
 7
-0 33 6 8
-0 46 -1 1
-0 44 -1 0
-0 29 0 1
 0 18 1 0
-0 39 -1 0
+0 29 0 1
 0 31 2 3
+0 33 6 8
+0 39 -1 0
+0 44 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b4 lco lco ta1-3-lco ta3-3-lco
 0
 7
-0 33 6 8
-0 46 -1 1
-0 44 -1 0
-0 29 0 1
 0 20 1 0
-0 39 -1 0
+0 29 0 1
 0 31 2 3
+0 33 6 8
+0 39 -1 0
+0 44 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b5 lco rat-a ta1-1-rat-a ta3-1-lco
 0
 7
-0 33 7 8
-0 45 -1 1
-0 44 -1 0
-0 19 0 1
 0 17 1 0
-0 35 -1 0
+0 19 0 1
 0 31 2 3
+0 33 7 8
+0 35 -1 0
+0 44 -1 0
+0 45 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b5 lco rat-a ta1-1-rat-a ta3-2-lco
 0
 7
-0 33 7 8
-0 45 -1 1
-0 44 -1 0
-0 19 0 1
 0 18 1 0
-0 35 -1 0
+0 19 0 1
 0 31 2 3
+0 33 7 8
+0 35 -1 0
+0 44 -1 0
+0 45 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b5 lco rat-a ta1-1-rat-a ta3-3-lco
 0
 7
-0 33 7 8
-0 45 -1 1
-0 44 -1 0
 0 19 0 1
 0 20 1 0
-0 35 -1 0
 0 31 2 3
+0 33 7 8
+0 35 -1 0
+0 44 -1 0
+0 45 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b5 lco rat-a ta1-2-rat-a ta3-1-lco
 0
 7
-0 33 7 8
-0 45 -1 1
-0 44 -1 0
-0 21 0 1
 0 17 1 0
-0 35 -1 0
+0 21 0 1
 0 31 2 3
+0 33 7 8
+0 35 -1 0
+0 44 -1 0
+0 45 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b5 lco rat-a ta1-2-rat-a ta3-2-lco
 0
 7
-0 33 7 8
-0 45 -1 1
-0 44 -1 0
-0 21 0 1
 0 18 1 0
-0 35 -1 0
+0 21 0 1
 0 31 2 3
+0 33 7 8
+0 35 -1 0
+0 44 -1 0
+0 45 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b5 lco rat-a ta1-2-rat-a ta3-3-lco
 0
 7
-0 33 7 8
-0 45 -1 1
-0 44 -1 0
-0 21 0 1
 0 20 1 0
-0 35 -1 0
+0 21 0 1
 0 31 2 3
+0 33 7 8
+0 35 -1 0
+0 44 -1 0
+0 45 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b7 lco rat-a ta1-1-rat-a ta3-1-lco
 0
 7
-0 33 9 8
-0 44 -1 0
-0 43 -1 1
-0 19 0 1
 0 17 1 0
+0 19 0 1
 0 31 2 3
+0 33 9 8
 0 36 -1 0
+0 43 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b7 lco rat-a ta1-1-rat-a ta3-2-lco
 0
 7
-0 33 9 8
-0 44 -1 0
-0 43 -1 1
-0 19 0 1
 0 18 1 0
+0 19 0 1
 0 31 2 3
+0 33 9 8
 0 36 -1 0
+0 43 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b7 lco rat-a ta1-1-rat-a ta3-3-lco
 0
 7
-0 33 9 8
-0 44 -1 0
-0 43 -1 1
 0 19 0 1
 0 20 1 0
 0 31 2 3
+0 33 9 8
 0 36 -1 0
+0 43 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b7 lco rat-a ta1-2-rat-a ta3-1-lco
 0
 7
-0 33 9 8
-0 44 -1 0
-0 43 -1 1
-0 21 0 1
 0 17 1 0
+0 21 0 1
 0 31 2 3
+0 33 9 8
 0 36 -1 0
+0 43 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b7 lco rat-a ta1-2-rat-a ta3-2-lco
 0
 7
-0 33 9 8
-0 44 -1 0
-0 43 -1 1
-0 21 0 1
 0 18 1 0
+0 21 0 1
 0 31 2 3
+0 33 9 8
 0 36 -1 0
+0 43 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b7 lco rat-a ta1-2-rat-a ta3-3-lco
 0
 7
-0 33 9 8
-0 44 -1 0
-0 43 -1 1
-0 21 0 1
 0 20 1 0
+0 21 0 1
 0 31 2 3
+0 33 9 8
 0 36 -1 0
+0 43 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b8 lco oc1b ta1-1-oc1b ta3-1-lco
 0
 7
-0 33 10 8
-0 44 -1 0
-0 42 -1 1
 0 8 0 1
 0 17 1 0
-0 31 2 3
 0 23 -1 0
+0 31 2 3
+0 33 10 8
+0 42 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b8 lco oc1b ta1-1-oc1b ta3-2-lco
 0
 7
-0 33 10 8
-0 44 -1 0
-0 42 -1 1
 0 8 0 1
 0 18 1 0
-0 31 2 3
 0 23 -1 0
+0 31 2 3
+0 33 10 8
+0 42 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b8 lco oc1b ta1-1-oc1b ta3-3-lco
 0
 7
-0 33 10 8
-0 44 -1 0
-0 42 -1 1
 0 8 0 1
 0 20 1 0
-0 31 2 3
 0 23 -1 0
+0 31 2 3
+0 33 10 8
+0 42 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b8 lco oc1b ta1-2-oc1b ta3-1-lco
 0
 7
-0 33 10 8
-0 44 -1 0
-0 42 -1 1
 0 10 0 1
 0 17 1 0
-0 31 2 3
 0 23 -1 0
+0 31 2 3
+0 33 10 8
+0 42 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b8 lco oc1b ta1-2-oc1b ta3-2-lco
 0
 7
-0 33 10 8
-0 44 -1 0
-0 42 -1 1
 0 10 0 1
 0 18 1 0
-0 31 2 3
 0 23 -1 0
+0 31 2 3
+0 33 10 8
+0 42 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b8 lco oc1b ta1-2-oc1b ta3-3-lco
 0
 7
-0 33 10 8
-0 44 -1 0
-0 42 -1 1
 0 10 0 1
 0 20 1 0
-0 31 2 3
 0 23 -1 0
+0 31 2 3
+0 33 10 8
+0 42 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b9 lco lco ta1-1-lco ta3-1-lco
 0
 7
-0 33 11 8
-0 44 -1 0
-0 41 -1 1
-0 27 0 1
 0 17 1 0
+0 27 0 1
 0 31 2 3
+0 33 11 8
 0 40 -1 0
+0 41 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b9 lco lco ta1-1-lco ta3-2-lco
 0
 7
-0 33 11 8
-0 44 -1 0
-0 41 -1 1
-0 27 0 1
 0 18 1 0
+0 27 0 1
 0 31 2 3
+0 33 11 8
 0 40 -1 0
+0 41 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b9 lco lco ta1-1-lco ta3-3-lco
 0
 7
-0 33 11 8
-0 44 -1 0
-0 41 -1 1
-0 27 0 1
 0 20 1 0
+0 27 0 1
 0 31 2 3
+0 33 11 8
 0 40 -1 0
+0 41 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b9 lco lco ta1-2-lco ta3-1-lco
 0
 7
-0 33 11 8
-0 44 -1 0
-0 41 -1 1
-0 28 0 1
 0 17 1 0
+0 28 0 1
 0 31 2 3
+0 33 11 8
 0 40 -1 0
+0 41 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b9 lco lco ta1-2-lco ta3-2-lco
 0
 7
-0 33 11 8
-0 44 -1 0
-0 41 -1 1
-0 28 0 1
 0 18 1 0
+0 28 0 1
 0 31 2 3
+0 33 11 8
 0 40 -1 0
+0 41 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b9 lco lco ta1-2-lco ta3-3-lco
 0
 7
-0 33 11 8
-0 44 -1 0
-0 41 -1 1
-0 28 0 1
 0 20 1 0
+0 28 0 1
 0 31 2 3
+0 33 11 8
 0 40 -1 0
+0 41 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b9 lco lco ta1-3-lco ta3-1-lco
 0
 7
-0 33 11 8
-0 44 -1 0
-0 41 -1 1
-0 29 0 1
 0 17 1 0
+0 29 0 1
 0 31 2 3
+0 33 11 8
 0 40 -1 0
+0 41 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b9 lco lco ta1-3-lco ta3-2-lco
 0
 7
-0 33 11 8
-0 44 -1 0
-0 41 -1 1
-0 29 0 1
 0 18 1 0
+0 29 0 1
 0 31 2 3
+0 33 11 8
 0 40 -1 0
+0 41 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b6 a1 a3 b9 lco lco ta1-3-lco ta3-3-lco
 0
 7
-0 33 11 8
-0 44 -1 0
-0 41 -1 1
-0 29 0 1
 0 20 1 0
+0 29 0 1
 0 31 2 3
+0 33 11 8
 0 40 -1 0
+0 41 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b0 rat-a lco ta1-1-lco ta3-1-rat-a
 0
 7
-0 33 0 9
-0 52 -1 1
-0 43 -1 0
-0 27 0 1
 0 6 1 0
+0 27 0 1
 0 30 -1 0
+0 33 0 9
 0 36 2 3
+0 43 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b0 rat-a lco ta1-1-lco ta3-2-rat-a
 0
 7
-0 33 0 9
-0 52 -1 1
-0 43 -1 0
-0 27 0 1
 0 7 1 0
+0 27 0 1
 0 30 -1 0
+0 33 0 9
 0 36 2 3
+0 43 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b0 rat-a lco ta1-2-lco ta3-1-rat-a
 0
 7
-0 33 0 9
-0 52 -1 1
-0 43 -1 0
-0 28 0 1
 0 6 1 0
+0 28 0 1
 0 30 -1 0
+0 33 0 9
 0 36 2 3
+0 43 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b0 rat-a lco ta1-2-lco ta3-2-rat-a
 0
 7
-0 33 0 9
-0 52 -1 1
-0 43 -1 0
-0 28 0 1
 0 7 1 0
+0 28 0 1
 0 30 -1 0
+0 33 0 9
 0 36 2 3
+0 43 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b0 rat-a lco ta1-3-lco ta3-1-rat-a
 0
 7
-0 33 0 9
-0 52 -1 1
-0 43 -1 0
-0 29 0 1
 0 6 1 0
+0 29 0 1
 0 30 -1 0
+0 33 0 9
 0 36 2 3
+0 43 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b0 rat-a lco ta1-3-lco ta3-2-rat-a
 0
 7
-0 33 0 9
-0 52 -1 1
-0 43 -1 0
-0 29 0 1
 0 7 1 0
+0 29 0 1
 0 30 -1 0
+0 33 0 9
 0 36 2 3
+0 43 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b10 rat-a gasoleo ta1-1-gasoleo ta3-1-rat-a
 0
 7
-0 33 2 9
-0 50 -1 1
-0 43 -1 0
-0 22 0 1
 0 6 1 0
+0 22 0 1
 0 26 -1 0
+0 33 2 9
 0 36 2 3
+0 43 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b10 rat-a gasoleo ta1-1-gasoleo ta3-2-rat-a
 0
 7
-0 33 2 9
-0 50 -1 1
-0 43 -1 0
-0 22 0 1
 0 7 1 0
+0 22 0 1
 0 26 -1 0
+0 33 2 9
 0 36 2 3
+0 43 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b10 rat-a gasoleo ta1-2-gasoleo ta3-1-rat-a
 0
 7
-0 33 2 9
-0 50 -1 1
-0 43 -1 0
-0 24 0 1
 0 6 1 0
+0 24 0 1
 0 26 -1 0
+0 33 2 9
 0 36 2 3
+0 43 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b10 rat-a gasoleo ta1-2-gasoleo ta3-2-rat-a
 0
 7
-0 33 2 9
-0 50 -1 1
-0 43 -1 0
-0 24 0 1
 0 7 1 0
+0 24 0 1
 0 26 -1 0
+0 33 2 9
 0 36 2 3
+0 43 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b11 rat-a gasoleo ta1-1-gasoleo ta3-1-rat-a
 0
 7
-0 33 3 9
-0 49 -1 1
-0 43 -1 0
-0 22 0 1
 0 6 1 0
-0 37 -1 0
+0 22 0 1
+0 33 3 9
 0 36 2 3
+0 37 -1 0
+0 43 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b11 rat-a gasoleo ta1-1-gasoleo ta3-2-rat-a
 0
 7
-0 33 3 9
-0 49 -1 1
-0 43 -1 0
-0 22 0 1
 0 7 1 0
-0 37 -1 0
+0 22 0 1
+0 33 3 9
 0 36 2 3
+0 37 -1 0
+0 43 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b11 rat-a gasoleo ta1-2-gasoleo ta3-1-rat-a
 0
 7
-0 33 3 9
-0 49 -1 1
-0 43 -1 0
-0 24 0 1
 0 6 1 0
-0 37 -1 0
+0 24 0 1
+0 33 3 9
 0 36 2 3
+0 37 -1 0
+0 43 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b11 rat-a gasoleo ta1-2-gasoleo ta3-2-rat-a
 0
 7
-0 33 3 9
-0 49 -1 1
-0 43 -1 0
-0 24 0 1
 0 7 1 0
-0 37 -1 0
+0 24 0 1
+0 33 3 9
 0 36 2 3
+0 37 -1 0
+0 43 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b2 rat-a rat-a ta1-1-rat-a ta3-1-rat-a
 0
 7
-0 33 4 9
-0 48 -1 1
-0 43 -1 0
-0 19 0 1
 0 6 1 0
+0 19 0 1
 0 25 -1 0
+0 33 4 9
 0 36 2 3
+0 43 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b2 rat-a rat-a ta1-1-rat-a ta3-2-rat-a
 0
 7
-0 33 4 9
-0 48 -1 1
-0 43 -1 0
-0 19 0 1
 0 7 1 0
+0 19 0 1
 0 25 -1 0
+0 33 4 9
 0 36 2 3
+0 43 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b2 rat-a rat-a ta1-2-rat-a ta3-1-rat-a
 0
 7
-0 33 4 9
-0 48 -1 1
-0 43 -1 0
-0 21 0 1
 0 6 1 0
+0 21 0 1
 0 25 -1 0
+0 33 4 9
 0 36 2 3
+0 43 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b2 rat-a rat-a ta1-2-rat-a ta3-2-rat-a
 0
 7
-0 33 4 9
-0 48 -1 1
-0 43 -1 0
-0 21 0 1
 0 7 1 0
+0 21 0 1
 0 25 -1 0
+0 33 4 9
 0 36 2 3
+0 43 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b3 rat-a gasoleo ta1-1-gasoleo ta3-1-rat-a
 0
 7
-0 33 5 9
-0 47 -1 1
-0 43 -1 0
-0 22 0 1
 0 6 1 0
-0 38 -1 0
+0 22 0 1
+0 33 5 9
 0 36 2 3
+0 38 -1 0
+0 43 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b3 rat-a gasoleo ta1-1-gasoleo ta3-2-rat-a
 0
 7
-0 33 5 9
-0 47 -1 1
-0 43 -1 0
-0 22 0 1
 0 7 1 0
-0 38 -1 0
+0 22 0 1
+0 33 5 9
 0 36 2 3
+0 38 -1 0
+0 43 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b3 rat-a gasoleo ta1-2-gasoleo ta3-1-rat-a
 0
 7
-0 33 5 9
-0 47 -1 1
-0 43 -1 0
-0 24 0 1
 0 6 1 0
-0 38 -1 0
+0 24 0 1
+0 33 5 9
 0 36 2 3
+0 38 -1 0
+0 43 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b3 rat-a gasoleo ta1-2-gasoleo ta3-2-rat-a
 0
 7
-0 33 5 9
-0 47 -1 1
-0 43 -1 0
-0 24 0 1
 0 7 1 0
-0 38 -1 0
+0 24 0 1
+0 33 5 9
 0 36 2 3
+0 38 -1 0
+0 43 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b4 rat-a lco ta1-1-lco ta3-1-rat-a
 0
 7
-0 33 6 9
-0 46 -1 1
-0 43 -1 0
-0 27 0 1
 0 6 1 0
-0 39 -1 0
+0 27 0 1
+0 33 6 9
 0 36 2 3
+0 39 -1 0
+0 43 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b4 rat-a lco ta1-1-lco ta3-2-rat-a
 0
 7
-0 33 6 9
-0 46 -1 1
-0 43 -1 0
-0 27 0 1
 0 7 1 0
-0 39 -1 0
+0 27 0 1
+0 33 6 9
 0 36 2 3
+0 39 -1 0
+0 43 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b4 rat-a lco ta1-2-lco ta3-1-rat-a
 0
 7
-0 33 6 9
-0 46 -1 1
-0 43 -1 0
-0 28 0 1
 0 6 1 0
-0 39 -1 0
+0 28 0 1
+0 33 6 9
 0 36 2 3
+0 39 -1 0
+0 43 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b4 rat-a lco ta1-2-lco ta3-2-rat-a
 0
 7
-0 33 6 9
-0 46 -1 1
-0 43 -1 0
-0 28 0 1
 0 7 1 0
-0 39 -1 0
+0 28 0 1
+0 33 6 9
 0 36 2 3
+0 39 -1 0
+0 43 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b4 rat-a lco ta1-3-lco ta3-1-rat-a
 0
 7
-0 33 6 9
-0 46 -1 1
-0 43 -1 0
-0 29 0 1
 0 6 1 0
-0 39 -1 0
+0 29 0 1
+0 33 6 9
 0 36 2 3
+0 39 -1 0
+0 43 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b4 rat-a lco ta1-3-lco ta3-2-rat-a
 0
 7
-0 33 6 9
-0 46 -1 1
-0 43 -1 0
-0 29 0 1
 0 7 1 0
-0 39 -1 0
+0 29 0 1
+0 33 6 9
 0 36 2 3
+0 39 -1 0
+0 43 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b5 rat-a rat-a ta1-1-rat-a ta3-1-rat-a
 0
 7
-0 33 7 9
-0 45 -1 1
-0 43 -1 0
-0 19 0 1
 0 6 1 0
+0 19 0 1
+0 33 7 9
 0 35 -1 0
 0 36 2 3
+0 43 -1 0
+0 45 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b5 rat-a rat-a ta1-1-rat-a ta3-2-rat-a
 0
 7
-0 33 7 9
-0 45 -1 1
-0 43 -1 0
-0 19 0 1
 0 7 1 0
+0 19 0 1
+0 33 7 9
 0 35 -1 0
 0 36 2 3
+0 43 -1 0
+0 45 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b5 rat-a rat-a ta1-2-rat-a ta3-1-rat-a
 0
 7
-0 33 7 9
-0 45 -1 1
-0 43 -1 0
-0 21 0 1
 0 6 1 0
+0 21 0 1
+0 33 7 9
 0 35 -1 0
 0 36 2 3
+0 43 -1 0
+0 45 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b5 rat-a rat-a ta1-2-rat-a ta3-2-rat-a
 0
 7
-0 33 7 9
-0 45 -1 1
-0 43 -1 0
-0 21 0 1
 0 7 1 0
+0 21 0 1
+0 33 7 9
 0 35 -1 0
 0 36 2 3
+0 43 -1 0
+0 45 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b6 rat-a lco ta1-1-lco ta3-1-rat-a
 0
 7
-0 33 8 9
-0 44 -1 1
-0 43 -1 0
-0 27 0 1
 0 6 1 0
+0 27 0 1
 0 31 -1 0
+0 33 8 9
 0 36 2 3
+0 43 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b6 rat-a lco ta1-1-lco ta3-2-rat-a
 0
 7
-0 33 8 9
-0 44 -1 1
-0 43 -1 0
-0 27 0 1
 0 7 1 0
+0 27 0 1
 0 31 -1 0
+0 33 8 9
 0 36 2 3
+0 43 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b6 rat-a lco ta1-2-lco ta3-1-rat-a
 0
 7
-0 33 8 9
-0 44 -1 1
-0 43 -1 0
-0 28 0 1
 0 6 1 0
+0 28 0 1
 0 31 -1 0
+0 33 8 9
 0 36 2 3
+0 43 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b6 rat-a lco ta1-2-lco ta3-2-rat-a
 0
 7
-0 33 8 9
-0 44 -1 1
-0 43 -1 0
-0 28 0 1
 0 7 1 0
+0 28 0 1
 0 31 -1 0
+0 33 8 9
 0 36 2 3
+0 43 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b6 rat-a lco ta1-3-lco ta3-1-rat-a
 0
 7
-0 33 8 9
-0 44 -1 1
-0 43 -1 0
-0 29 0 1
 0 6 1 0
+0 29 0 1
 0 31 -1 0
+0 33 8 9
 0 36 2 3
+0 43 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b6 rat-a lco ta1-3-lco ta3-2-rat-a
 0
 7
-0 33 8 9
-0 44 -1 1
-0 43 -1 0
-0 29 0 1
 0 7 1 0
+0 29 0 1
 0 31 -1 0
+0 33 8 9
 0 36 2 3
+0 43 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b9 rat-a lco ta1-1-lco ta3-1-rat-a
 0
 7
-0 33 11 9
-0 43 -1 0
-0 41 -1 1
-0 27 0 1
 0 6 1 0
+0 27 0 1
+0 33 11 9
 0 36 2 3
 0 40 -1 0
+0 41 -1 1
+0 43 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b9 rat-a lco ta1-1-lco ta3-2-rat-a
 0
 7
-0 33 11 9
-0 43 -1 0
-0 41 -1 1
-0 27 0 1
 0 7 1 0
+0 27 0 1
+0 33 11 9
 0 36 2 3
 0 40 -1 0
+0 41 -1 1
+0 43 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b9 rat-a lco ta1-2-lco ta3-1-rat-a
 0
 7
-0 33 11 9
-0 43 -1 0
-0 41 -1 1
-0 28 0 1
 0 6 1 0
+0 28 0 1
+0 33 11 9
 0 36 2 3
 0 40 -1 0
+0 41 -1 1
+0 43 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b9 rat-a lco ta1-2-lco ta3-2-rat-a
 0
 7
-0 33 11 9
-0 43 -1 0
-0 41 -1 1
-0 28 0 1
 0 7 1 0
+0 28 0 1
+0 33 11 9
 0 36 2 3
 0 40 -1 0
+0 41 -1 1
+0 43 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b9 rat-a lco ta1-3-lco ta3-1-rat-a
 0
 7
-0 33 11 9
-0 43 -1 0
-0 41 -1 1
-0 29 0 1
 0 6 1 0
+0 29 0 1
+0 33 11 9
 0 36 2 3
 0 40 -1 0
+0 41 -1 1
+0 43 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b7 a1 a3 b9 rat-a lco ta1-3-lco ta3-2-rat-a
 0
 7
-0 33 11 9
-0 43 -1 0
-0 41 -1 1
-0 29 0 1
 0 7 1 0
+0 29 0 1
+0 33 11 9
 0 36 2 3
 0 40 -1 0
+0 41 -1 1
+0 43 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b0 oc1b lco ta1-1-lco ta3-1-oc1b
 0
 7
-0 33 0 10
-0 52 -1 1
-0 42 -1 0
-0 27 0 1
 0 2 1 0
-0 30 -1 0
 0 23 2 3
+0 27 0 1
+0 30 -1 0
+0 33 0 10
+0 42 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b0 oc1b lco ta1-1-lco ta3-2-oc1b
 0
 7
-0 33 0 10
-0 52 -1 1
-0 42 -1 0
-0 27 0 1
 0 3 1 0
-0 30 -1 0
 0 23 2 3
+0 27 0 1
+0 30 -1 0
+0 33 0 10
+0 42 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b0 oc1b lco ta1-2-lco ta3-1-oc1b
 0
 7
-0 33 0 10
-0 52 -1 1
-0 42 -1 0
-0 28 0 1
 0 2 1 0
-0 30 -1 0
 0 23 2 3
+0 28 0 1
+0 30 -1 0
+0 33 0 10
+0 42 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b0 oc1b lco ta1-2-lco ta3-2-oc1b
 0
 7
-0 33 0 10
-0 52 -1 1
-0 42 -1 0
-0 28 0 1
 0 3 1 0
-0 30 -1 0
 0 23 2 3
+0 28 0 1
+0 30 -1 0
+0 33 0 10
+0 42 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b0 oc1b lco ta1-3-lco ta3-1-oc1b
 0
 7
-0 33 0 10
-0 52 -1 1
-0 42 -1 0
-0 29 0 1
 0 2 1 0
-0 30 -1 0
 0 23 2 3
+0 29 0 1
+0 30 -1 0
+0 33 0 10
+0 42 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b0 oc1b lco ta1-3-lco ta3-2-oc1b
 0
 7
-0 33 0 10
-0 52 -1 1
-0 42 -1 0
-0 29 0 1
 0 3 1 0
-0 30 -1 0
 0 23 2 3
+0 29 0 1
+0 30 -1 0
+0 33 0 10
+0 42 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b1 oc1b oc1b ta1-1-oc1b ta3-1-oc1b
 0
 7
-0 33 1 10
-0 51 -1 1
-0 42 -1 0
-0 8 0 1
 0 2 1 0
-0 34 -1 0
+0 8 0 1
 0 23 2 3
+0 33 1 10
+0 34 -1 0
+0 42 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b1 oc1b oc1b ta1-1-oc1b ta3-2-oc1b
 0
 7
-0 33 1 10
-0 51 -1 1
-0 42 -1 0
-0 8 0 1
 0 3 1 0
-0 34 -1 0
+0 8 0 1
 0 23 2 3
+0 33 1 10
+0 34 -1 0
+0 42 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b1 oc1b oc1b ta1-2-oc1b ta3-1-oc1b
 0
 7
-0 33 1 10
-0 51 -1 1
-0 42 -1 0
-0 10 0 1
 0 2 1 0
-0 34 -1 0
+0 10 0 1
 0 23 2 3
+0 33 1 10
+0 34 -1 0
+0 42 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b1 oc1b oc1b ta1-2-oc1b ta3-2-oc1b
 0
 7
-0 33 1 10
-0 51 -1 1
-0 42 -1 0
-0 10 0 1
 0 3 1 0
-0 34 -1 0
+0 10 0 1
 0 23 2 3
+0 33 1 10
+0 34 -1 0
+0 42 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b10 oc1b gasoleo ta1-1-gasoleo ta3-1-oc1b
 0
 7
-0 33 2 10
-0 50 -1 1
-0 42 -1 0
-0 22 0 1
 0 2 1 0
-0 26 -1 0
+0 22 0 1
 0 23 2 3
+0 26 -1 0
+0 33 2 10
+0 42 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b10 oc1b gasoleo ta1-1-gasoleo ta3-2-oc1b
 0
 7
-0 33 2 10
-0 50 -1 1
-0 42 -1 0
-0 22 0 1
 0 3 1 0
-0 26 -1 0
+0 22 0 1
 0 23 2 3
+0 26 -1 0
+0 33 2 10
+0 42 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b10 oc1b gasoleo ta1-2-gasoleo ta3-1-oc1b
 0
 7
-0 33 2 10
-0 50 -1 1
-0 42 -1 0
-0 24 0 1
 0 2 1 0
-0 26 -1 0
 0 23 2 3
+0 24 0 1
+0 26 -1 0
+0 33 2 10
+0 42 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b10 oc1b gasoleo ta1-2-gasoleo ta3-2-oc1b
 0
 7
-0 33 2 10
-0 50 -1 1
-0 42 -1 0
-0 24 0 1
 0 3 1 0
-0 26 -1 0
 0 23 2 3
+0 24 0 1
+0 26 -1 0
+0 33 2 10
+0 42 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b11 oc1b gasoleo ta1-1-gasoleo ta3-1-oc1b
 0
 7
-0 33 3 10
-0 49 -1 1
-0 42 -1 0
-0 22 0 1
 0 2 1 0
-0 37 -1 0
+0 22 0 1
 0 23 2 3
+0 33 3 10
+0 37 -1 0
+0 42 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b11 oc1b gasoleo ta1-1-gasoleo ta3-2-oc1b
 0
 7
-0 33 3 10
-0 49 -1 1
-0 42 -1 0
-0 22 0 1
 0 3 1 0
-0 37 -1 0
+0 22 0 1
 0 23 2 3
+0 33 3 10
+0 37 -1 0
+0 42 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b11 oc1b gasoleo ta1-2-gasoleo ta3-1-oc1b
 0
 7
-0 33 3 10
-0 49 -1 1
-0 42 -1 0
-0 24 0 1
 0 2 1 0
-0 37 -1 0
 0 23 2 3
+0 24 0 1
+0 33 3 10
+0 37 -1 0
+0 42 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b11 oc1b gasoleo ta1-2-gasoleo ta3-2-oc1b
 0
 7
-0 33 3 10
-0 49 -1 1
-0 42 -1 0
-0 24 0 1
 0 3 1 0
-0 37 -1 0
 0 23 2 3
+0 24 0 1
+0 33 3 10
+0 37 -1 0
+0 42 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b3 oc1b gasoleo ta1-1-gasoleo ta3-1-oc1b
 0
 7
-0 33 5 10
-0 47 -1 1
-0 42 -1 0
-0 22 0 1
 0 2 1 0
-0 38 -1 0
+0 22 0 1
 0 23 2 3
+0 33 5 10
+0 38 -1 0
+0 42 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b3 oc1b gasoleo ta1-1-gasoleo ta3-2-oc1b
 0
 7
-0 33 5 10
-0 47 -1 1
-0 42 -1 0
-0 22 0 1
 0 3 1 0
-0 38 -1 0
+0 22 0 1
 0 23 2 3
+0 33 5 10
+0 38 -1 0
+0 42 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b3 oc1b gasoleo ta1-2-gasoleo ta3-1-oc1b
 0
 7
-0 33 5 10
-0 47 -1 1
-0 42 -1 0
-0 24 0 1
 0 2 1 0
-0 38 -1 0
 0 23 2 3
+0 24 0 1
+0 33 5 10
+0 38 -1 0
+0 42 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b3 oc1b gasoleo ta1-2-gasoleo ta3-2-oc1b
 0
 7
-0 33 5 10
-0 47 -1 1
-0 42 -1 0
-0 24 0 1
 0 3 1 0
-0 38 -1 0
 0 23 2 3
+0 24 0 1
+0 33 5 10
+0 38 -1 0
+0 42 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b4 oc1b lco ta1-1-lco ta3-1-oc1b
 0
 7
-0 33 6 10
-0 46 -1 1
-0 42 -1 0
-0 27 0 1
 0 2 1 0
-0 39 -1 0
 0 23 2 3
+0 27 0 1
+0 33 6 10
+0 39 -1 0
+0 42 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b4 oc1b lco ta1-1-lco ta3-2-oc1b
 0
 7
-0 33 6 10
-0 46 -1 1
-0 42 -1 0
-0 27 0 1
 0 3 1 0
-0 39 -1 0
 0 23 2 3
+0 27 0 1
+0 33 6 10
+0 39 -1 0
+0 42 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b4 oc1b lco ta1-2-lco ta3-1-oc1b
 0
 7
-0 33 6 10
-0 46 -1 1
-0 42 -1 0
-0 28 0 1
 0 2 1 0
-0 39 -1 0
 0 23 2 3
+0 28 0 1
+0 33 6 10
+0 39 -1 0
+0 42 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b4 oc1b lco ta1-2-lco ta3-2-oc1b
 0
 7
-0 33 6 10
-0 46 -1 1
-0 42 -1 0
-0 28 0 1
 0 3 1 0
-0 39 -1 0
 0 23 2 3
+0 28 0 1
+0 33 6 10
+0 39 -1 0
+0 42 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b4 oc1b lco ta1-3-lco ta3-1-oc1b
 0
 7
-0 33 6 10
-0 46 -1 1
-0 42 -1 0
-0 29 0 1
 0 2 1 0
-0 39 -1 0
 0 23 2 3
+0 29 0 1
+0 33 6 10
+0 39 -1 0
+0 42 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b4 oc1b lco ta1-3-lco ta3-2-oc1b
 0
 7
-0 33 6 10
-0 46 -1 1
-0 42 -1 0
-0 29 0 1
 0 3 1 0
-0 39 -1 0
 0 23 2 3
+0 29 0 1
+0 33 6 10
+0 39 -1 0
+0 42 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b6 oc1b lco ta1-1-lco ta3-1-oc1b
 0
 7
-0 33 8 10
-0 44 -1 1
-0 42 -1 0
-0 27 0 1
 0 2 1 0
-0 31 -1 0
 0 23 2 3
+0 27 0 1
+0 31 -1 0
+0 33 8 10
+0 42 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b6 oc1b lco ta1-1-lco ta3-2-oc1b
 0
 7
-0 33 8 10
-0 44 -1 1
-0 42 -1 0
-0 27 0 1
 0 3 1 0
-0 31 -1 0
 0 23 2 3
+0 27 0 1
+0 31 -1 0
+0 33 8 10
+0 42 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b6 oc1b lco ta1-2-lco ta3-1-oc1b
 0
 7
-0 33 8 10
-0 44 -1 1
-0 42 -1 0
-0 28 0 1
 0 2 1 0
-0 31 -1 0
 0 23 2 3
+0 28 0 1
+0 31 -1 0
+0 33 8 10
+0 42 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b6 oc1b lco ta1-2-lco ta3-2-oc1b
 0
 7
-0 33 8 10
-0 44 -1 1
-0 42 -1 0
-0 28 0 1
 0 3 1 0
-0 31 -1 0
 0 23 2 3
+0 28 0 1
+0 31 -1 0
+0 33 8 10
+0 42 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b6 oc1b lco ta1-3-lco ta3-1-oc1b
 0
 7
-0 33 8 10
-0 44 -1 1
-0 42 -1 0
-0 29 0 1
 0 2 1 0
-0 31 -1 0
 0 23 2 3
+0 29 0 1
+0 31 -1 0
+0 33 8 10
+0 42 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b6 oc1b lco ta1-3-lco ta3-2-oc1b
 0
 7
-0 33 8 10
-0 44 -1 1
-0 42 -1 0
-0 29 0 1
 0 3 1 0
-0 31 -1 0
 0 23 2 3
+0 29 0 1
+0 31 -1 0
+0 33 8 10
+0 42 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b9 oc1b lco ta1-1-lco ta3-1-oc1b
 0
 7
-0 33 11 10
-0 42 -1 0
-0 41 -1 1
-0 27 0 1
 0 2 1 0
 0 23 2 3
+0 27 0 1
+0 33 11 10
 0 40 -1 0
+0 41 -1 1
+0 42 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b9 oc1b lco ta1-1-lco ta3-2-oc1b
 0
 7
-0 33 11 10
-0 42 -1 0
-0 41 -1 1
-0 27 0 1
 0 3 1 0
 0 23 2 3
+0 27 0 1
+0 33 11 10
 0 40 -1 0
+0 41 -1 1
+0 42 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b9 oc1b lco ta1-2-lco ta3-1-oc1b
 0
 7
-0 33 11 10
-0 42 -1 0
-0 41 -1 1
-0 28 0 1
 0 2 1 0
 0 23 2 3
+0 28 0 1
+0 33 11 10
 0 40 -1 0
+0 41 -1 1
+0 42 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b9 oc1b lco ta1-2-lco ta3-2-oc1b
 0
 7
-0 33 11 10
-0 42 -1 0
-0 41 -1 1
-0 28 0 1
 0 3 1 0
 0 23 2 3
+0 28 0 1
+0 33 11 10
 0 40 -1 0
+0 41 -1 1
+0 42 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b9 oc1b lco ta1-3-lco ta3-1-oc1b
 0
 7
-0 33 11 10
-0 42 -1 0
-0 41 -1 1
-0 29 0 1
 0 2 1 0
 0 23 2 3
+0 29 0 1
+0 33 11 10
 0 40 -1 0
+0 41 -1 1
+0 42 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b8 a1 a3 b9 oc1b lco ta1-3-lco ta3-2-oc1b
 0
 7
-0 33 11 10
-0 42 -1 0
-0 41 -1 1
-0 29 0 1
 0 3 1 0
 0 23 2 3
+0 29 0 1
+0 33 11 10
 0 40 -1 0
+0 41 -1 1
+0 42 -1 0
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b0 lco lco ta1-1-lco ta3-1-lco
 0
 7
-0 33 0 11
-0 52 -1 1
-0 41 -1 0
-0 27 0 1
 0 17 1 0
+0 27 0 1
 0 30 -1 0
+0 33 0 11
 0 40 2 3
+0 41 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b0 lco lco ta1-1-lco ta3-2-lco
 0
 7
-0 33 0 11
-0 52 -1 1
-0 41 -1 0
-0 27 0 1
 0 18 1 0
+0 27 0 1
 0 30 -1 0
+0 33 0 11
 0 40 2 3
+0 41 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b0 lco lco ta1-1-lco ta3-3-lco
 0
 7
-0 33 0 11
-0 52 -1 1
-0 41 -1 0
-0 27 0 1
 0 20 1 0
+0 27 0 1
 0 30 -1 0
+0 33 0 11
 0 40 2 3
+0 41 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b0 lco lco ta1-2-lco ta3-1-lco
 0
 7
-0 33 0 11
-0 52 -1 1
-0 41 -1 0
-0 28 0 1
 0 17 1 0
+0 28 0 1
 0 30 -1 0
+0 33 0 11
 0 40 2 3
+0 41 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b0 lco lco ta1-2-lco ta3-2-lco
 0
 7
-0 33 0 11
-0 52 -1 1
-0 41 -1 0
-0 28 0 1
 0 18 1 0
+0 28 0 1
 0 30 -1 0
+0 33 0 11
 0 40 2 3
+0 41 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b0 lco lco ta1-2-lco ta3-3-lco
 0
 7
-0 33 0 11
-0 52 -1 1
-0 41 -1 0
-0 28 0 1
 0 20 1 0
+0 28 0 1
 0 30 -1 0
+0 33 0 11
 0 40 2 3
+0 41 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b0 lco lco ta1-3-lco ta3-1-lco
 0
 7
-0 33 0 11
-0 52 -1 1
-0 41 -1 0
-0 29 0 1
 0 17 1 0
+0 29 0 1
 0 30 -1 0
+0 33 0 11
 0 40 2 3
+0 41 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b0 lco lco ta1-3-lco ta3-2-lco
 0
 7
-0 33 0 11
-0 52 -1 1
-0 41 -1 0
-0 29 0 1
 0 18 1 0
+0 29 0 1
 0 30 -1 0
+0 33 0 11
 0 40 2 3
+0 41 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b0 lco lco ta1-3-lco ta3-3-lco
 0
 7
-0 33 0 11
-0 52 -1 1
-0 41 -1 0
-0 29 0 1
 0 20 1 0
+0 29 0 1
 0 30 -1 0
+0 33 0 11
 0 40 2 3
+0 41 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b1 lco oc1b ta1-1-oc1b ta3-1-lco
 0
 7
-0 33 1 11
-0 51 -1 1
-0 41 -1 0
 0 8 0 1
 0 17 1 0
+0 33 1 11
 0 34 -1 0
 0 40 2 3
+0 41 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b1 lco oc1b ta1-1-oc1b ta3-2-lco
 0
 7
-0 33 1 11
-0 51 -1 1
-0 41 -1 0
 0 8 0 1
 0 18 1 0
+0 33 1 11
 0 34 -1 0
 0 40 2 3
+0 41 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b1 lco oc1b ta1-1-oc1b ta3-3-lco
 0
 7
-0 33 1 11
-0 51 -1 1
-0 41 -1 0
 0 8 0 1
 0 20 1 0
+0 33 1 11
 0 34 -1 0
 0 40 2 3
+0 41 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b1 lco oc1b ta1-2-oc1b ta3-1-lco
 0
 7
-0 33 1 11
-0 51 -1 1
-0 41 -1 0
 0 10 0 1
 0 17 1 0
+0 33 1 11
 0 34 -1 0
 0 40 2 3
+0 41 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b1 lco oc1b ta1-2-oc1b ta3-2-lco
 0
 7
-0 33 1 11
-0 51 -1 1
-0 41 -1 0
 0 10 0 1
 0 18 1 0
+0 33 1 11
 0 34 -1 0
 0 40 2 3
+0 41 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b1 lco oc1b ta1-2-oc1b ta3-3-lco
 0
 7
-0 33 1 11
-0 51 -1 1
-0 41 -1 0
 0 10 0 1
 0 20 1 0
+0 33 1 11
 0 34 -1 0
 0 40 2 3
+0 41 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b10 lco gasoleo ta1-1-gasoleo ta3-1-lco
 0
 7
-0 33 2 11
-0 50 -1 1
-0 41 -1 0
-0 22 0 1
 0 17 1 0
+0 22 0 1
 0 26 -1 0
+0 33 2 11
 0 40 2 3
+0 41 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b10 lco gasoleo ta1-1-gasoleo ta3-2-lco
 0
 7
-0 33 2 11
-0 50 -1 1
-0 41 -1 0
-0 22 0 1
 0 18 1 0
+0 22 0 1
 0 26 -1 0
+0 33 2 11
 0 40 2 3
+0 41 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b10 lco gasoleo ta1-1-gasoleo ta3-3-lco
 0
 7
-0 33 2 11
-0 50 -1 1
-0 41 -1 0
-0 22 0 1
 0 20 1 0
+0 22 0 1
 0 26 -1 0
+0 33 2 11
 0 40 2 3
+0 41 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b10 lco gasoleo ta1-2-gasoleo ta3-1-lco
 0
 7
-0 33 2 11
-0 50 -1 1
-0 41 -1 0
-0 24 0 1
 0 17 1 0
+0 24 0 1
 0 26 -1 0
+0 33 2 11
 0 40 2 3
+0 41 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b10 lco gasoleo ta1-2-gasoleo ta3-2-lco
 0
 7
-0 33 2 11
-0 50 -1 1
-0 41 -1 0
-0 24 0 1
 0 18 1 0
+0 24 0 1
 0 26 -1 0
+0 33 2 11
 0 40 2 3
+0 41 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b10 lco gasoleo ta1-2-gasoleo ta3-3-lco
 0
 7
-0 33 2 11
-0 50 -1 1
-0 41 -1 0
-0 24 0 1
 0 20 1 0
+0 24 0 1
 0 26 -1 0
+0 33 2 11
 0 40 2 3
+0 41 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b11 lco gasoleo ta1-1-gasoleo ta3-1-lco
 0
 7
-0 33 3 11
-0 49 -1 1
-0 41 -1 0
-0 22 0 1
 0 17 1 0
+0 22 0 1
+0 33 3 11
 0 37 -1 0
 0 40 2 3
+0 41 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b11 lco gasoleo ta1-1-gasoleo ta3-2-lco
 0
 7
-0 33 3 11
-0 49 -1 1
-0 41 -1 0
-0 22 0 1
 0 18 1 0
+0 22 0 1
+0 33 3 11
 0 37 -1 0
 0 40 2 3
+0 41 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b11 lco gasoleo ta1-1-gasoleo ta3-3-lco
 0
 7
-0 33 3 11
-0 49 -1 1
-0 41 -1 0
-0 22 0 1
 0 20 1 0
+0 22 0 1
+0 33 3 11
 0 37 -1 0
 0 40 2 3
+0 41 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b11 lco gasoleo ta1-2-gasoleo ta3-1-lco
 0
 7
-0 33 3 11
-0 49 -1 1
-0 41 -1 0
-0 24 0 1
 0 17 1 0
+0 24 0 1
+0 33 3 11
 0 37 -1 0
 0 40 2 3
+0 41 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b11 lco gasoleo ta1-2-gasoleo ta3-2-lco
 0
 7
-0 33 3 11
-0 49 -1 1
-0 41 -1 0
-0 24 0 1
 0 18 1 0
+0 24 0 1
+0 33 3 11
 0 37 -1 0
 0 40 2 3
+0 41 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b11 lco gasoleo ta1-2-gasoleo ta3-3-lco
 0
 7
-0 33 3 11
-0 49 -1 1
-0 41 -1 0
-0 24 0 1
 0 20 1 0
+0 24 0 1
+0 33 3 11
 0 37 -1 0
 0 40 2 3
+0 41 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b2 lco rat-a ta1-1-rat-a ta3-1-lco
 0
 7
-0 33 4 11
-0 48 -1 1
-0 41 -1 0
-0 19 0 1
 0 17 1 0
+0 19 0 1
 0 25 -1 0
+0 33 4 11
 0 40 2 3
+0 41 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b2 lco rat-a ta1-1-rat-a ta3-2-lco
 0
 7
-0 33 4 11
-0 48 -1 1
-0 41 -1 0
-0 19 0 1
 0 18 1 0
+0 19 0 1
 0 25 -1 0
+0 33 4 11
 0 40 2 3
+0 41 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b2 lco rat-a ta1-1-rat-a ta3-3-lco
 0
 7
-0 33 4 11
-0 48 -1 1
-0 41 -1 0
 0 19 0 1
 0 20 1 0
 0 25 -1 0
+0 33 4 11
 0 40 2 3
+0 41 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b2 lco rat-a ta1-2-rat-a ta3-1-lco
 0
 7
-0 33 4 11
-0 48 -1 1
-0 41 -1 0
-0 21 0 1
 0 17 1 0
+0 21 0 1
 0 25 -1 0
+0 33 4 11
 0 40 2 3
+0 41 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b2 lco rat-a ta1-2-rat-a ta3-2-lco
 0
 7
-0 33 4 11
-0 48 -1 1
-0 41 -1 0
-0 21 0 1
 0 18 1 0
+0 21 0 1
 0 25 -1 0
+0 33 4 11
 0 40 2 3
+0 41 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b2 lco rat-a ta1-2-rat-a ta3-3-lco
 0
 7
-0 33 4 11
-0 48 -1 1
-0 41 -1 0
-0 21 0 1
 0 20 1 0
+0 21 0 1
 0 25 -1 0
+0 33 4 11
 0 40 2 3
+0 41 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b3 lco gasoleo ta1-1-gasoleo ta3-1-lco
 0
 7
-0 33 5 11
-0 47 -1 1
-0 41 -1 0
-0 22 0 1
 0 17 1 0
+0 22 0 1
+0 33 5 11
 0 38 -1 0
 0 40 2 3
+0 41 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b3 lco gasoleo ta1-1-gasoleo ta3-2-lco
 0
 7
-0 33 5 11
-0 47 -1 1
-0 41 -1 0
-0 22 0 1
 0 18 1 0
+0 22 0 1
+0 33 5 11
 0 38 -1 0
 0 40 2 3
+0 41 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b3 lco gasoleo ta1-1-gasoleo ta3-3-lco
 0
 7
-0 33 5 11
-0 47 -1 1
-0 41 -1 0
-0 22 0 1
 0 20 1 0
+0 22 0 1
+0 33 5 11
 0 38 -1 0
 0 40 2 3
+0 41 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b3 lco gasoleo ta1-2-gasoleo ta3-1-lco
 0
 7
-0 33 5 11
-0 47 -1 1
-0 41 -1 0
-0 24 0 1
 0 17 1 0
+0 24 0 1
+0 33 5 11
 0 38 -1 0
 0 40 2 3
+0 41 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b3 lco gasoleo ta1-2-gasoleo ta3-2-lco
 0
 7
-0 33 5 11
-0 47 -1 1
-0 41 -1 0
-0 24 0 1
 0 18 1 0
+0 24 0 1
+0 33 5 11
 0 38 -1 0
 0 40 2 3
+0 41 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b3 lco gasoleo ta1-2-gasoleo ta3-3-lco
 0
 7
-0 33 5 11
-0 47 -1 1
-0 41 -1 0
-0 24 0 1
 0 20 1 0
+0 24 0 1
+0 33 5 11
 0 38 -1 0
 0 40 2 3
+0 41 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b4 lco lco ta1-1-lco ta3-1-lco
 0
 7
-0 33 6 11
-0 46 -1 1
-0 41 -1 0
-0 27 0 1
 0 17 1 0
+0 27 0 1
+0 33 6 11
 0 39 -1 0
 0 40 2 3
+0 41 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b4 lco lco ta1-1-lco ta3-2-lco
 0
 7
-0 33 6 11
-0 46 -1 1
-0 41 -1 0
-0 27 0 1
 0 18 1 0
+0 27 0 1
+0 33 6 11
 0 39 -1 0
 0 40 2 3
+0 41 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b4 lco lco ta1-1-lco ta3-3-lco
 0
 7
-0 33 6 11
-0 46 -1 1
-0 41 -1 0
-0 27 0 1
 0 20 1 0
+0 27 0 1
+0 33 6 11
 0 39 -1 0
 0 40 2 3
+0 41 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b4 lco lco ta1-2-lco ta3-1-lco
 0
 7
-0 33 6 11
-0 46 -1 1
-0 41 -1 0
-0 28 0 1
 0 17 1 0
+0 28 0 1
+0 33 6 11
 0 39 -1 0
 0 40 2 3
+0 41 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b4 lco lco ta1-2-lco ta3-2-lco
 0
 7
-0 33 6 11
-0 46 -1 1
-0 41 -1 0
-0 28 0 1
 0 18 1 0
+0 28 0 1
+0 33 6 11
 0 39 -1 0
 0 40 2 3
+0 41 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b4 lco lco ta1-2-lco ta3-3-lco
 0
 7
-0 33 6 11
-0 46 -1 1
-0 41 -1 0
-0 28 0 1
 0 20 1 0
+0 28 0 1
+0 33 6 11
 0 39 -1 0
 0 40 2 3
+0 41 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b4 lco lco ta1-3-lco ta3-1-lco
 0
 7
-0 33 6 11
-0 46 -1 1
-0 41 -1 0
-0 29 0 1
 0 17 1 0
+0 29 0 1
+0 33 6 11
 0 39 -1 0
 0 40 2 3
+0 41 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b4 lco lco ta1-3-lco ta3-2-lco
 0
 7
-0 33 6 11
-0 46 -1 1
-0 41 -1 0
-0 29 0 1
 0 18 1 0
+0 29 0 1
+0 33 6 11
 0 39 -1 0
 0 40 2 3
+0 41 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b4 lco lco ta1-3-lco ta3-3-lco
 0
 7
-0 33 6 11
-0 46 -1 1
-0 41 -1 0
-0 29 0 1
 0 20 1 0
+0 29 0 1
+0 33 6 11
 0 39 -1 0
 0 40 2 3
+0 41 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b5 lco rat-a ta1-1-rat-a ta3-1-lco
 0
 7
-0 33 7 11
-0 45 -1 1
-0 41 -1 0
-0 19 0 1
 0 17 1 0
+0 19 0 1
+0 33 7 11
 0 35 -1 0
 0 40 2 3
+0 41 -1 0
+0 45 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b5 lco rat-a ta1-1-rat-a ta3-2-lco
 0
 7
-0 33 7 11
-0 45 -1 1
-0 41 -1 0
-0 19 0 1
 0 18 1 0
+0 19 0 1
+0 33 7 11
 0 35 -1 0
 0 40 2 3
+0 41 -1 0
+0 45 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b5 lco rat-a ta1-1-rat-a ta3-3-lco
 0
 7
-0 33 7 11
-0 45 -1 1
-0 41 -1 0
 0 19 0 1
 0 20 1 0
+0 33 7 11
 0 35 -1 0
 0 40 2 3
+0 41 -1 0
+0 45 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b5 lco rat-a ta1-2-rat-a ta3-1-lco
 0
 7
-0 33 7 11
-0 45 -1 1
-0 41 -1 0
-0 21 0 1
 0 17 1 0
+0 21 0 1
+0 33 7 11
 0 35 -1 0
 0 40 2 3
+0 41 -1 0
+0 45 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b5 lco rat-a ta1-2-rat-a ta3-2-lco
 0
 7
-0 33 7 11
-0 45 -1 1
-0 41 -1 0
-0 21 0 1
 0 18 1 0
+0 21 0 1
+0 33 7 11
 0 35 -1 0
 0 40 2 3
+0 41 -1 0
+0 45 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b5 lco rat-a ta1-2-rat-a ta3-3-lco
 0
 7
-0 33 7 11
-0 45 -1 1
-0 41 -1 0
-0 21 0 1
 0 20 1 0
+0 21 0 1
+0 33 7 11
 0 35 -1 0
 0 40 2 3
+0 41 -1 0
+0 45 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b6 lco lco ta1-1-lco ta3-1-lco
 0
 7
-0 33 8 11
-0 44 -1 1
-0 41 -1 0
-0 27 0 1
 0 17 1 0
+0 27 0 1
 0 31 -1 0
+0 33 8 11
 0 40 2 3
+0 41 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b6 lco lco ta1-1-lco ta3-2-lco
 0
 7
-0 33 8 11
-0 44 -1 1
-0 41 -1 0
-0 27 0 1
 0 18 1 0
+0 27 0 1
 0 31 -1 0
+0 33 8 11
 0 40 2 3
+0 41 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b6 lco lco ta1-1-lco ta3-3-lco
 0
 7
-0 33 8 11
-0 44 -1 1
-0 41 -1 0
-0 27 0 1
 0 20 1 0
+0 27 0 1
 0 31 -1 0
+0 33 8 11
 0 40 2 3
+0 41 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b6 lco lco ta1-2-lco ta3-1-lco
 0
 7
-0 33 8 11
-0 44 -1 1
-0 41 -1 0
-0 28 0 1
 0 17 1 0
+0 28 0 1
 0 31 -1 0
+0 33 8 11
 0 40 2 3
+0 41 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b6 lco lco ta1-2-lco ta3-2-lco
 0
 7
-0 33 8 11
-0 44 -1 1
-0 41 -1 0
-0 28 0 1
 0 18 1 0
+0 28 0 1
 0 31 -1 0
+0 33 8 11
 0 40 2 3
+0 41 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b6 lco lco ta1-2-lco ta3-3-lco
 0
 7
-0 33 8 11
-0 44 -1 1
-0 41 -1 0
-0 28 0 1
 0 20 1 0
+0 28 0 1
 0 31 -1 0
+0 33 8 11
 0 40 2 3
+0 41 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b6 lco lco ta1-3-lco ta3-1-lco
 0
 7
-0 33 8 11
-0 44 -1 1
-0 41 -1 0
-0 29 0 1
 0 17 1 0
+0 29 0 1
 0 31 -1 0
+0 33 8 11
 0 40 2 3
+0 41 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b6 lco lco ta1-3-lco ta3-2-lco
 0
 7
-0 33 8 11
-0 44 -1 1
-0 41 -1 0
-0 29 0 1
 0 18 1 0
+0 29 0 1
 0 31 -1 0
+0 33 8 11
 0 40 2 3
+0 41 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b6 lco lco ta1-3-lco ta3-3-lco
 0
 7
-0 33 8 11
-0 44 -1 1
-0 41 -1 0
-0 29 0 1
 0 20 1 0
+0 29 0 1
 0 31 -1 0
+0 33 8 11
 0 40 2 3
+0 41 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b7 lco rat-a ta1-1-rat-a ta3-1-lco
 0
 7
-0 33 9 11
-0 43 -1 1
-0 41 -1 0
-0 19 0 1
 0 17 1 0
+0 19 0 1
+0 33 9 11
 0 36 -1 0
 0 40 2 3
+0 41 -1 0
+0 43 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b7 lco rat-a ta1-1-rat-a ta3-2-lco
 0
 7
-0 33 9 11
-0 43 -1 1
-0 41 -1 0
-0 19 0 1
 0 18 1 0
+0 19 0 1
+0 33 9 11
 0 36 -1 0
 0 40 2 3
+0 41 -1 0
+0 43 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b7 lco rat-a ta1-1-rat-a ta3-3-lco
 0
 7
-0 33 9 11
-0 43 -1 1
-0 41 -1 0
 0 19 0 1
 0 20 1 0
+0 33 9 11
 0 36 -1 0
 0 40 2 3
+0 41 -1 0
+0 43 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b7 lco rat-a ta1-2-rat-a ta3-1-lco
 0
 7
-0 33 9 11
-0 43 -1 1
-0 41 -1 0
-0 21 0 1
 0 17 1 0
+0 21 0 1
+0 33 9 11
 0 36 -1 0
 0 40 2 3
+0 41 -1 0
+0 43 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b7 lco rat-a ta1-2-rat-a ta3-2-lco
 0
 7
-0 33 9 11
-0 43 -1 1
-0 41 -1 0
-0 21 0 1
 0 18 1 0
+0 21 0 1
+0 33 9 11
 0 36 -1 0
 0 40 2 3
+0 41 -1 0
+0 43 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b7 lco rat-a ta1-2-rat-a ta3-3-lco
 0
 7
-0 33 9 11
-0 43 -1 1
-0 41 -1 0
-0 21 0 1
 0 20 1 0
+0 21 0 1
+0 33 9 11
 0 36 -1 0
 0 40 2 3
+0 41 -1 0
+0 43 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b8 lco oc1b ta1-1-oc1b ta3-1-lco
 0
 7
-0 33 10 11
-0 42 -1 1
-0 41 -1 0
 0 8 0 1
 0 17 1 0
 0 23 -1 0
+0 33 10 11
 0 40 2 3
+0 41 -1 0
+0 42 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b8 lco oc1b ta1-1-oc1b ta3-2-lco
 0
 7
-0 33 10 11
-0 42 -1 1
-0 41 -1 0
 0 8 0 1
 0 18 1 0
 0 23 -1 0
+0 33 10 11
 0 40 2 3
+0 41 -1 0
+0 42 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b8 lco oc1b ta1-1-oc1b ta3-3-lco
 0
 7
-0 33 10 11
-0 42 -1 1
-0 41 -1 0
 0 8 0 1
 0 20 1 0
 0 23 -1 0
+0 33 10 11
 0 40 2 3
+0 41 -1 0
+0 42 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b8 lco oc1b ta1-2-oc1b ta3-1-lco
 0
 7
-0 33 10 11
-0 42 -1 1
-0 41 -1 0
 0 10 0 1
 0 17 1 0
 0 23 -1 0
+0 33 10 11
 0 40 2 3
+0 41 -1 0
+0 42 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b8 lco oc1b ta1-2-oc1b ta3-2-lco
 0
 7
-0 33 10 11
-0 42 -1 1
-0 41 -1 0
 0 10 0 1
 0 18 1 0
 0 23 -1 0
+0 33 10 11
 0 40 2 3
+0 41 -1 0
+0 42 -1 1
 1
 end_operator
 begin_operator
 pop-unitarypipe s13 b9 a1 a3 b8 lco oc1b ta1-2-oc1b ta3-3-lco
 0
 7
-0 33 10 11
-0 42 -1 1
-0 41 -1 0
 0 10 0 1
 0 20 1 0
 0 23 -1 0
+0 33 10 11
 0 40 2 3
+0 41 -1 0
+0 42 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b1 lco oc1b ta1-1-lco ta2-1-oc1b
 0
 7
-0 32 1 0
-0 64 -1 0
-0 63 -1 1
-0 27 1 0
 0 0 0 1
+0 27 1 0
 0 30 0 3
+0 32 1 0
 0 34 -1 1
+0 63 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b1 lco oc1b ta1-1-lco ta2-2-oc1b
 0
 7
-0 32 1 0
-0 64 -1 0
-0 63 -1 1
-0 27 1 0
 0 1 0 1
+0 27 1 0
 0 30 0 3
+0 32 1 0
 0 34 -1 1
+0 63 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b1 lco oc1b ta1-2-lco ta2-1-oc1b
 0
 7
-0 32 1 0
-0 64 -1 0
-0 63 -1 1
-0 28 1 0
 0 0 0 1
+0 28 1 0
 0 30 0 3
+0 32 1 0
 0 34 -1 1
+0 63 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b1 lco oc1b ta1-2-lco ta2-2-oc1b
 0
 7
-0 32 1 0
-0 64 -1 0
-0 63 -1 1
-0 28 1 0
 0 1 0 1
+0 28 1 0
 0 30 0 3
+0 32 1 0
 0 34 -1 1
+0 63 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b1 lco oc1b ta1-3-lco ta2-1-oc1b
 0
 7
-0 32 1 0
-0 64 -1 0
-0 63 -1 1
-0 29 1 0
 0 0 0 1
+0 29 1 0
 0 30 0 3
+0 32 1 0
 0 34 -1 1
+0 63 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b1 lco oc1b ta1-3-lco ta2-2-oc1b
 0
 7
-0 32 1 0
-0 64 -1 0
-0 63 -1 1
-0 29 1 0
 0 1 0 1
+0 29 1 0
 0 30 0 3
+0 32 1 0
 0 34 -1 1
+0 63 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b10 lco gasoleo ta1-1-lco ta2-1-gasoleo
 0
 7
-0 32 2 0
-0 64 -1 0
-0 62 -1 1
-0 27 1 0
 0 9 0 1
-0 30 0 3
 0 26 -1 1
+0 27 1 0
+0 30 0 3
+0 32 2 0
+0 62 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b10 lco gasoleo ta1-1-lco ta2-2-gasoleo
 0
 7
-0 32 2 0
-0 64 -1 0
-0 62 -1 1
-0 27 1 0
 0 11 0 1
-0 30 0 3
 0 26 -1 1
+0 27 1 0
+0 30 0 3
+0 32 2 0
+0 62 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b10 lco gasoleo ta1-2-lco ta2-1-gasoleo
 0
 7
-0 32 2 0
-0 64 -1 0
-0 62 -1 1
-0 28 1 0
 0 9 0 1
-0 30 0 3
 0 26 -1 1
+0 28 1 0
+0 30 0 3
+0 32 2 0
+0 62 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b10 lco gasoleo ta1-2-lco ta2-2-gasoleo
 0
 7
-0 32 2 0
-0 64 -1 0
-0 62 -1 1
-0 28 1 0
 0 11 0 1
-0 30 0 3
 0 26 -1 1
+0 28 1 0
+0 30 0 3
+0 32 2 0
+0 62 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b10 lco gasoleo ta1-3-lco ta2-1-gasoleo
 0
 7
-0 32 2 0
-0 64 -1 0
-0 62 -1 1
-0 29 1 0
 0 9 0 1
-0 30 0 3
 0 26 -1 1
+0 29 1 0
+0 30 0 3
+0 32 2 0
+0 62 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b10 lco gasoleo ta1-3-lco ta2-2-gasoleo
 0
 7
-0 32 2 0
-0 64 -1 0
-0 62 -1 1
-0 29 1 0
 0 11 0 1
-0 30 0 3
 0 26 -1 1
+0 29 1 0
+0 30 0 3
+0 32 2 0
+0 62 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b11 lco gasoleo ta1-1-lco ta2-1-gasoleo
 0
 7
-0 32 3 0
-0 64 -1 0
-0 61 -1 1
-0 27 1 0
 0 9 0 1
+0 27 1 0
 0 30 0 3
+0 32 3 0
 0 37 -1 1
+0 61 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b11 lco gasoleo ta1-1-lco ta2-2-gasoleo
 0
 7
-0 32 3 0
-0 64 -1 0
-0 61 -1 1
-0 27 1 0
 0 11 0 1
+0 27 1 0
 0 30 0 3
+0 32 3 0
 0 37 -1 1
+0 61 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b11 lco gasoleo ta1-2-lco ta2-1-gasoleo
 0
 7
-0 32 3 0
-0 64 -1 0
-0 61 -1 1
-0 28 1 0
 0 9 0 1
+0 28 1 0
 0 30 0 3
+0 32 3 0
 0 37 -1 1
+0 61 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b11 lco gasoleo ta1-2-lco ta2-2-gasoleo
 0
 7
-0 32 3 0
-0 64 -1 0
-0 61 -1 1
-0 28 1 0
 0 11 0 1
+0 28 1 0
 0 30 0 3
+0 32 3 0
 0 37 -1 1
+0 61 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b11 lco gasoleo ta1-3-lco ta2-1-gasoleo
 0
 7
-0 32 3 0
-0 64 -1 0
-0 61 -1 1
-0 29 1 0
 0 9 0 1
+0 29 1 0
 0 30 0 3
+0 32 3 0
 0 37 -1 1
+0 61 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b11 lco gasoleo ta1-3-lco ta2-2-gasoleo
 0
 7
-0 32 3 0
-0 64 -1 0
-0 61 -1 1
-0 29 1 0
 0 11 0 1
+0 29 1 0
 0 30 0 3
+0 32 3 0
 0 37 -1 1
+0 61 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b2 lco rat-a ta1-1-lco ta2-1-rat-a
 0
 7
-0 32 4 0
-0 64 -1 0
-0 60 -1 1
-0 27 1 0
 0 4 0 1
-0 30 0 3
 0 25 -1 1
+0 27 1 0
+0 30 0 3
+0 32 4 0
+0 60 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b2 lco rat-a ta1-1-lco ta2-2-rat-a
 0
 7
-0 32 4 0
-0 64 -1 0
-0 60 -1 1
-0 27 1 0
 0 5 0 1
-0 30 0 3
 0 25 -1 1
+0 27 1 0
+0 30 0 3
+0 32 4 0
+0 60 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b2 lco rat-a ta1-2-lco ta2-1-rat-a
 0
 7
-0 32 4 0
-0 64 -1 0
-0 60 -1 1
-0 28 1 0
 0 4 0 1
-0 30 0 3
 0 25 -1 1
+0 28 1 0
+0 30 0 3
+0 32 4 0
+0 60 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b2 lco rat-a ta1-2-lco ta2-2-rat-a
 0
 7
-0 32 4 0
-0 64 -1 0
-0 60 -1 1
-0 28 1 0
 0 5 0 1
-0 30 0 3
 0 25 -1 1
+0 28 1 0
+0 30 0 3
+0 32 4 0
+0 60 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b2 lco rat-a ta1-3-lco ta2-1-rat-a
 0
 7
-0 32 4 0
-0 64 -1 0
-0 60 -1 1
-0 29 1 0
 0 4 0 1
-0 30 0 3
 0 25 -1 1
+0 29 1 0
+0 30 0 3
+0 32 4 0
+0 60 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b2 lco rat-a ta1-3-lco ta2-2-rat-a
 0
 7
-0 32 4 0
-0 64 -1 0
-0 60 -1 1
-0 29 1 0
 0 5 0 1
-0 30 0 3
 0 25 -1 1
+0 29 1 0
+0 30 0 3
+0 32 4 0
+0 60 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b3 lco gasoleo ta1-1-lco ta2-1-gasoleo
 0
 7
-0 32 5 0
-0 64 -1 0
-0 59 -1 1
-0 27 1 0
 0 9 0 1
+0 27 1 0
 0 30 0 3
+0 32 5 0
 0 38 -1 1
+0 59 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b3 lco gasoleo ta1-1-lco ta2-2-gasoleo
 0
 7
-0 32 5 0
-0 64 -1 0
-0 59 -1 1
-0 27 1 0
 0 11 0 1
+0 27 1 0
 0 30 0 3
+0 32 5 0
 0 38 -1 1
+0 59 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b3 lco gasoleo ta1-2-lco ta2-1-gasoleo
 0
 7
-0 32 5 0
-0 64 -1 0
-0 59 -1 1
-0 28 1 0
 0 9 0 1
+0 28 1 0
 0 30 0 3
+0 32 5 0
 0 38 -1 1
+0 59 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b3 lco gasoleo ta1-2-lco ta2-2-gasoleo
 0
 7
-0 32 5 0
-0 64 -1 0
-0 59 -1 1
-0 28 1 0
 0 11 0 1
+0 28 1 0
 0 30 0 3
+0 32 5 0
 0 38 -1 1
+0 59 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b3 lco gasoleo ta1-3-lco ta2-1-gasoleo
 0
 7
-0 32 5 0
-0 64 -1 0
-0 59 -1 1
-0 29 1 0
 0 9 0 1
+0 29 1 0
 0 30 0 3
+0 32 5 0
 0 38 -1 1
+0 59 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b3 lco gasoleo ta1-3-lco ta2-2-gasoleo
 0
 7
-0 32 5 0
-0 64 -1 0
-0 59 -1 1
-0 29 1 0
 0 11 0 1
+0 29 1 0
 0 30 0 3
+0 32 5 0
 0 38 -1 1
+0 59 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b4 lco lco ta1-1-lco ta2-1-lco
 0
 7
-0 32 6 0
-0 64 -1 0
-0 58 -1 1
-0 27 1 0
 0 14 0 1
+0 27 1 0
 0 30 0 3
+0 32 6 0
 0 39 -1 1
+0 58 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b4 lco lco ta1-1-lco ta2-2-lco
 0
 7
-0 32 6 0
-0 64 -1 0
-0 58 -1 1
-0 27 1 0
 0 15 0 1
+0 27 1 0
 0 30 0 3
+0 32 6 0
 0 39 -1 1
+0 58 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b4 lco lco ta1-1-lco ta2-3-lco
 0
 7
-0 32 6 0
-0 64 -1 0
-0 58 -1 1
-0 27 1 0
 0 16 0 1
+0 27 1 0
 0 30 0 3
+0 32 6 0
 0 39 -1 1
+0 58 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b4 lco lco ta1-2-lco ta2-1-lco
 0
 7
-0 32 6 0
-0 64 -1 0
-0 58 -1 1
-0 28 1 0
 0 14 0 1
+0 28 1 0
 0 30 0 3
+0 32 6 0
 0 39 -1 1
+0 58 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b4 lco lco ta1-2-lco ta2-2-lco
 0
 7
-0 32 6 0
-0 64 -1 0
-0 58 -1 1
-0 28 1 0
 0 15 0 1
+0 28 1 0
 0 30 0 3
+0 32 6 0
 0 39 -1 1
+0 58 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b4 lco lco ta1-2-lco ta2-3-lco
 0
 7
-0 32 6 0
-0 64 -1 0
-0 58 -1 1
-0 28 1 0
 0 16 0 1
+0 28 1 0
 0 30 0 3
+0 32 6 0
 0 39 -1 1
+0 58 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b4 lco lco ta1-3-lco ta2-1-lco
 0
 7
-0 32 6 0
-0 64 -1 0
-0 58 -1 1
-0 29 1 0
 0 14 0 1
+0 29 1 0
 0 30 0 3
+0 32 6 0
 0 39 -1 1
+0 58 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b4 lco lco ta1-3-lco ta2-2-lco
 0
 7
-0 32 6 0
-0 64 -1 0
-0 58 -1 1
-0 29 1 0
 0 15 0 1
+0 29 1 0
 0 30 0 3
+0 32 6 0
 0 39 -1 1
+0 58 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b4 lco lco ta1-3-lco ta2-3-lco
 0
 7
-0 32 6 0
-0 64 -1 0
-0 58 -1 1
-0 29 1 0
 0 16 0 1
+0 29 1 0
 0 30 0 3
+0 32 6 0
 0 39 -1 1
+0 58 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b5 lco rat-a ta1-1-lco ta2-1-rat-a
 0
 7
-0 32 7 0
-0 64 -1 0
-0 57 -1 1
-0 27 1 0
 0 4 0 1
+0 27 1 0
 0 30 0 3
+0 32 7 0
 0 35 -1 1
+0 57 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b5 lco rat-a ta1-1-lco ta2-2-rat-a
 0
 7
-0 32 7 0
-0 64 -1 0
-0 57 -1 1
-0 27 1 0
 0 5 0 1
+0 27 1 0
 0 30 0 3
+0 32 7 0
 0 35 -1 1
+0 57 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b5 lco rat-a ta1-2-lco ta2-1-rat-a
 0
 7
-0 32 7 0
-0 64 -1 0
-0 57 -1 1
-0 28 1 0
 0 4 0 1
+0 28 1 0
 0 30 0 3
+0 32 7 0
 0 35 -1 1
+0 57 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b5 lco rat-a ta1-2-lco ta2-2-rat-a
 0
 7
-0 32 7 0
-0 64 -1 0
-0 57 -1 1
-0 28 1 0
 0 5 0 1
+0 28 1 0
 0 30 0 3
+0 32 7 0
 0 35 -1 1
+0 57 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b5 lco rat-a ta1-3-lco ta2-1-rat-a
 0
 7
-0 32 7 0
-0 64 -1 0
-0 57 -1 1
-0 29 1 0
 0 4 0 1
+0 29 1 0
 0 30 0 3
+0 32 7 0
 0 35 -1 1
+0 57 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b5 lco rat-a ta1-3-lco ta2-2-rat-a
 0
 7
-0 32 7 0
-0 64 -1 0
-0 57 -1 1
-0 29 1 0
 0 5 0 1
+0 29 1 0
 0 30 0 3
+0 32 7 0
 0 35 -1 1
+0 57 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b6 lco lco ta1-1-lco ta2-1-lco
 0
 7
-0 32 8 0
-0 64 -1 0
-0 56 -1 1
-0 27 1 0
 0 14 0 1
+0 27 1 0
 0 30 0 3
 0 31 -1 1
+0 32 8 0
+0 56 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b6 lco lco ta1-1-lco ta2-2-lco
 0
 7
-0 32 8 0
-0 64 -1 0
-0 56 -1 1
-0 27 1 0
 0 15 0 1
+0 27 1 0
 0 30 0 3
 0 31 -1 1
+0 32 8 0
+0 56 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b6 lco lco ta1-1-lco ta2-3-lco
 0
 7
-0 32 8 0
-0 64 -1 0
-0 56 -1 1
-0 27 1 0
 0 16 0 1
+0 27 1 0
 0 30 0 3
 0 31 -1 1
+0 32 8 0
+0 56 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b6 lco lco ta1-2-lco ta2-1-lco
 0
 7
-0 32 8 0
-0 64 -1 0
-0 56 -1 1
-0 28 1 0
 0 14 0 1
+0 28 1 0
 0 30 0 3
 0 31 -1 1
+0 32 8 0
+0 56 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b6 lco lco ta1-2-lco ta2-2-lco
 0
 7
-0 32 8 0
-0 64 -1 0
-0 56 -1 1
-0 28 1 0
 0 15 0 1
+0 28 1 0
 0 30 0 3
 0 31 -1 1
+0 32 8 0
+0 56 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b6 lco lco ta1-2-lco ta2-3-lco
 0
 7
-0 32 8 0
-0 64 -1 0
-0 56 -1 1
-0 28 1 0
 0 16 0 1
+0 28 1 0
 0 30 0 3
 0 31 -1 1
+0 32 8 0
+0 56 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b6 lco lco ta1-3-lco ta2-1-lco
 0
 7
-0 32 8 0
-0 64 -1 0
-0 56 -1 1
-0 29 1 0
 0 14 0 1
+0 29 1 0
 0 30 0 3
 0 31 -1 1
+0 32 8 0
+0 56 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b6 lco lco ta1-3-lco ta2-2-lco
 0
 7
-0 32 8 0
-0 64 -1 0
-0 56 -1 1
-0 29 1 0
 0 15 0 1
+0 29 1 0
 0 30 0 3
 0 31 -1 1
+0 32 8 0
+0 56 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b6 lco lco ta1-3-lco ta2-3-lco
 0
 7
-0 32 8 0
-0 64 -1 0
-0 56 -1 1
-0 29 1 0
 0 16 0 1
+0 29 1 0
 0 30 0 3
 0 31 -1 1
+0 32 8 0
+0 56 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b7 lco rat-a ta1-1-lco ta2-1-rat-a
 0
 7
-0 32 9 0
-0 64 -1 0
-0 55 -1 1
-0 27 1 0
 0 4 0 1
+0 27 1 0
 0 30 0 3
+0 32 9 0
 0 36 -1 1
+0 55 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b7 lco rat-a ta1-1-lco ta2-2-rat-a
 0
 7
-0 32 9 0
-0 64 -1 0
-0 55 -1 1
-0 27 1 0
 0 5 0 1
+0 27 1 0
 0 30 0 3
+0 32 9 0
 0 36 -1 1
+0 55 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b7 lco rat-a ta1-2-lco ta2-1-rat-a
 0
 7
-0 32 9 0
-0 64 -1 0
-0 55 -1 1
-0 28 1 0
 0 4 0 1
+0 28 1 0
 0 30 0 3
+0 32 9 0
 0 36 -1 1
+0 55 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b7 lco rat-a ta1-2-lco ta2-2-rat-a
 0
 7
-0 32 9 0
-0 64 -1 0
-0 55 -1 1
-0 28 1 0
 0 5 0 1
+0 28 1 0
 0 30 0 3
+0 32 9 0
 0 36 -1 1
+0 55 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b7 lco rat-a ta1-3-lco ta2-1-rat-a
 0
 7
-0 32 9 0
-0 64 -1 0
-0 55 -1 1
-0 29 1 0
 0 4 0 1
+0 29 1 0
 0 30 0 3
+0 32 9 0
 0 36 -1 1
+0 55 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b7 lco rat-a ta1-3-lco ta2-2-rat-a
 0
 7
-0 32 9 0
-0 64 -1 0
-0 55 -1 1
-0 29 1 0
 0 5 0 1
+0 29 1 0
 0 30 0 3
+0 32 9 0
 0 36 -1 1
+0 55 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b8 lco oc1b ta1-1-lco ta2-1-oc1b
 0
 7
-0 32 10 0
-0 64 -1 0
-0 54 -1 1
-0 27 1 0
 0 0 0 1
-0 30 0 3
 0 23 -1 1
+0 27 1 0
+0 30 0 3
+0 32 10 0
+0 54 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b8 lco oc1b ta1-1-lco ta2-2-oc1b
 0
 7
-0 32 10 0
-0 64 -1 0
-0 54 -1 1
-0 27 1 0
 0 1 0 1
-0 30 0 3
 0 23 -1 1
+0 27 1 0
+0 30 0 3
+0 32 10 0
+0 54 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b8 lco oc1b ta1-2-lco ta2-1-oc1b
 0
 7
-0 32 10 0
-0 64 -1 0
-0 54 -1 1
-0 28 1 0
 0 0 0 1
-0 30 0 3
 0 23 -1 1
+0 28 1 0
+0 30 0 3
+0 32 10 0
+0 54 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b8 lco oc1b ta1-2-lco ta2-2-oc1b
 0
 7
-0 32 10 0
-0 64 -1 0
-0 54 -1 1
-0 28 1 0
 0 1 0 1
-0 30 0 3
 0 23 -1 1
+0 28 1 0
+0 30 0 3
+0 32 10 0
+0 54 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b8 lco oc1b ta1-3-lco ta2-1-oc1b
 0
 7
-0 32 10 0
-0 64 -1 0
-0 54 -1 1
-0 29 1 0
 0 0 0 1
-0 30 0 3
 0 23 -1 1
+0 29 1 0
+0 30 0 3
+0 32 10 0
+0 54 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b8 lco oc1b ta1-3-lco ta2-2-oc1b
 0
 7
-0 32 10 0
-0 64 -1 0
-0 54 -1 1
-0 29 1 0
 0 1 0 1
-0 30 0 3
 0 23 -1 1
+0 29 1 0
+0 30 0 3
+0 32 10 0
+0 54 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b9 lco lco ta1-1-lco ta2-1-lco
 0
 7
-0 32 11 0
-0 64 -1 0
-0 53 -1 1
-0 27 1 0
 0 14 0 1
+0 27 1 0
 0 30 0 3
+0 32 11 0
 0 40 -1 1
+0 53 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b9 lco lco ta1-1-lco ta2-2-lco
 0
 7
-0 32 11 0
-0 64 -1 0
-0 53 -1 1
-0 27 1 0
 0 15 0 1
+0 27 1 0
 0 30 0 3
+0 32 11 0
 0 40 -1 1
+0 53 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b9 lco lco ta1-1-lco ta2-3-lco
 0
 7
-0 32 11 0
-0 64 -1 0
-0 53 -1 1
-0 27 1 0
 0 16 0 1
+0 27 1 0
 0 30 0 3
+0 32 11 0
 0 40 -1 1
+0 53 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b9 lco lco ta1-2-lco ta2-1-lco
 0
 7
-0 32 11 0
-0 64 -1 0
-0 53 -1 1
-0 28 1 0
 0 14 0 1
+0 28 1 0
 0 30 0 3
+0 32 11 0
 0 40 -1 1
+0 53 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b9 lco lco ta1-2-lco ta2-2-lco
 0
 7
-0 32 11 0
-0 64 -1 0
-0 53 -1 1
-0 28 1 0
 0 15 0 1
+0 28 1 0
 0 30 0 3
+0 32 11 0
 0 40 -1 1
+0 53 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b9 lco lco ta1-2-lco ta2-3-lco
 0
 7
-0 32 11 0
-0 64 -1 0
-0 53 -1 1
-0 28 1 0
 0 16 0 1
+0 28 1 0
 0 30 0 3
+0 32 11 0
 0 40 -1 1
+0 53 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b9 lco lco ta1-3-lco ta2-1-lco
 0
 7
-0 32 11 0
-0 64 -1 0
-0 53 -1 1
-0 29 1 0
 0 14 0 1
+0 29 1 0
 0 30 0 3
+0 32 11 0
 0 40 -1 1
+0 53 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b9 lco lco ta1-3-lco ta2-2-lco
 0
 7
-0 32 11 0
-0 64 -1 0
-0 53 -1 1
-0 29 1 0
 0 15 0 1
+0 29 1 0
 0 30 0 3
+0 32 11 0
 0 40 -1 1
+0 53 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b0 a1 a2 b9 lco lco ta1-3-lco ta2-3-lco
 0
 7
-0 32 11 0
-0 64 -1 0
-0 53 -1 1
-0 29 1 0
 0 16 0 1
+0 29 1 0
 0 30 0 3
+0 32 11 0
 0 40 -1 1
+0 53 -1 1
+0 64 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b0 oc1b lco ta1-1-oc1b ta2-1-lco
 0
 7
-0 32 0 1
-0 64 -1 1
-0 63 -1 0
 0 8 1 0
 0 14 0 1
 0 30 -1 1
+0 32 0 1
 0 34 0 3
+0 63 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b0 oc1b lco ta1-1-oc1b ta2-2-lco
 0
 7
-0 32 0 1
-0 64 -1 1
-0 63 -1 0
 0 8 1 0
 0 15 0 1
 0 30 -1 1
+0 32 0 1
 0 34 0 3
+0 63 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b0 oc1b lco ta1-1-oc1b ta2-3-lco
 0
 7
-0 32 0 1
-0 64 -1 1
-0 63 -1 0
 0 8 1 0
 0 16 0 1
 0 30 -1 1
+0 32 0 1
 0 34 0 3
+0 63 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b0 oc1b lco ta1-2-oc1b ta2-1-lco
 0
 7
-0 32 0 1
-0 64 -1 1
-0 63 -1 0
 0 10 1 0
 0 14 0 1
 0 30 -1 1
+0 32 0 1
 0 34 0 3
+0 63 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b0 oc1b lco ta1-2-oc1b ta2-2-lco
 0
 7
-0 32 0 1
-0 64 -1 1
-0 63 -1 0
 0 10 1 0
 0 15 0 1
 0 30 -1 1
+0 32 0 1
 0 34 0 3
+0 63 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b0 oc1b lco ta1-2-oc1b ta2-3-lco
 0
 7
-0 32 0 1
-0 64 -1 1
-0 63 -1 0
 0 10 1 0
 0 16 0 1
 0 30 -1 1
+0 32 0 1
 0 34 0 3
+0 63 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b10 oc1b gasoleo ta1-1-oc1b ta2-1-gasoleo
 0
 7
-0 32 2 1
-0 63 -1 0
-0 62 -1 1
 0 8 1 0
 0 9 0 1
-0 34 0 3
 0 26 -1 1
+0 32 2 1
+0 34 0 3
+0 62 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b10 oc1b gasoleo ta1-1-oc1b ta2-2-gasoleo
 0
 7
-0 32 2 1
-0 63 -1 0
-0 62 -1 1
 0 8 1 0
 0 11 0 1
-0 34 0 3
 0 26 -1 1
+0 32 2 1
+0 34 0 3
+0 62 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b10 oc1b gasoleo ta1-2-oc1b ta2-1-gasoleo
 0
 7
-0 32 2 1
-0 63 -1 0
-0 62 -1 1
-0 10 1 0
 0 9 0 1
-0 34 0 3
+0 10 1 0
 0 26 -1 1
+0 32 2 1
+0 34 0 3
+0 62 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b10 oc1b gasoleo ta1-2-oc1b ta2-2-gasoleo
 0
 7
-0 32 2 1
-0 63 -1 0
-0 62 -1 1
 0 10 1 0
 0 11 0 1
-0 34 0 3
 0 26 -1 1
+0 32 2 1
+0 34 0 3
+0 62 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b11 oc1b gasoleo ta1-1-oc1b ta2-1-gasoleo
 0
 7
-0 32 3 1
-0 63 -1 0
-0 61 -1 1
 0 8 1 0
 0 9 0 1
+0 32 3 1
 0 34 0 3
 0 37 -1 1
+0 61 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b11 oc1b gasoleo ta1-1-oc1b ta2-2-gasoleo
 0
 7
-0 32 3 1
-0 63 -1 0
-0 61 -1 1
 0 8 1 0
 0 11 0 1
+0 32 3 1
 0 34 0 3
 0 37 -1 1
+0 61 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b11 oc1b gasoleo ta1-2-oc1b ta2-1-gasoleo
 0
 7
-0 32 3 1
-0 63 -1 0
-0 61 -1 1
-0 10 1 0
 0 9 0 1
+0 10 1 0
+0 32 3 1
 0 34 0 3
 0 37 -1 1
+0 61 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b11 oc1b gasoleo ta1-2-oc1b ta2-2-gasoleo
 0
 7
-0 32 3 1
-0 63 -1 0
-0 61 -1 1
 0 10 1 0
 0 11 0 1
+0 32 3 1
 0 34 0 3
 0 37 -1 1
+0 61 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b3 oc1b gasoleo ta1-1-oc1b ta2-1-gasoleo
 0
 7
-0 32 5 1
-0 63 -1 0
-0 59 -1 1
 0 8 1 0
 0 9 0 1
+0 32 5 1
 0 34 0 3
 0 38 -1 1
+0 59 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b3 oc1b gasoleo ta1-1-oc1b ta2-2-gasoleo
 0
 7
-0 32 5 1
-0 63 -1 0
-0 59 -1 1
 0 8 1 0
 0 11 0 1
+0 32 5 1
 0 34 0 3
 0 38 -1 1
+0 59 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b3 oc1b gasoleo ta1-2-oc1b ta2-1-gasoleo
 0
 7
-0 32 5 1
-0 63 -1 0
-0 59 -1 1
-0 10 1 0
 0 9 0 1
+0 10 1 0
+0 32 5 1
 0 34 0 3
 0 38 -1 1
+0 59 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b3 oc1b gasoleo ta1-2-oc1b ta2-2-gasoleo
 0
 7
-0 32 5 1
-0 63 -1 0
-0 59 -1 1
 0 10 1 0
 0 11 0 1
+0 32 5 1
 0 34 0 3
 0 38 -1 1
+0 59 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b4 oc1b lco ta1-1-oc1b ta2-1-lco
 0
 7
-0 32 6 1
-0 63 -1 0
-0 58 -1 1
 0 8 1 0
 0 14 0 1
+0 32 6 1
 0 34 0 3
 0 39 -1 1
+0 58 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b4 oc1b lco ta1-1-oc1b ta2-2-lco
 0
 7
-0 32 6 1
-0 63 -1 0
-0 58 -1 1
 0 8 1 0
 0 15 0 1
+0 32 6 1
 0 34 0 3
 0 39 -1 1
+0 58 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b4 oc1b lco ta1-1-oc1b ta2-3-lco
 0
 7
-0 32 6 1
-0 63 -1 0
-0 58 -1 1
 0 8 1 0
 0 16 0 1
+0 32 6 1
 0 34 0 3
 0 39 -1 1
+0 58 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b4 oc1b lco ta1-2-oc1b ta2-1-lco
 0
 7
-0 32 6 1
-0 63 -1 0
-0 58 -1 1
 0 10 1 0
 0 14 0 1
+0 32 6 1
 0 34 0 3
 0 39 -1 1
+0 58 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b4 oc1b lco ta1-2-oc1b ta2-2-lco
 0
 7
-0 32 6 1
-0 63 -1 0
-0 58 -1 1
 0 10 1 0
 0 15 0 1
+0 32 6 1
 0 34 0 3
 0 39 -1 1
+0 58 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b4 oc1b lco ta1-2-oc1b ta2-3-lco
 0
 7
-0 32 6 1
-0 63 -1 0
-0 58 -1 1
 0 10 1 0
 0 16 0 1
+0 32 6 1
 0 34 0 3
 0 39 -1 1
+0 58 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b6 oc1b lco ta1-1-oc1b ta2-1-lco
 0
 7
-0 32 8 1
-0 63 -1 0
-0 56 -1 1
 0 8 1 0
 0 14 0 1
-0 34 0 3
 0 31 -1 1
+0 32 8 1
+0 34 0 3
+0 56 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b6 oc1b lco ta1-1-oc1b ta2-2-lco
 0
 7
-0 32 8 1
-0 63 -1 0
-0 56 -1 1
 0 8 1 0
 0 15 0 1
-0 34 0 3
 0 31 -1 1
+0 32 8 1
+0 34 0 3
+0 56 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b6 oc1b lco ta1-1-oc1b ta2-3-lco
 0
 7
-0 32 8 1
-0 63 -1 0
-0 56 -1 1
 0 8 1 0
 0 16 0 1
-0 34 0 3
 0 31 -1 1
+0 32 8 1
+0 34 0 3
+0 56 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b6 oc1b lco ta1-2-oc1b ta2-1-lco
 0
 7
-0 32 8 1
-0 63 -1 0
-0 56 -1 1
 0 10 1 0
 0 14 0 1
-0 34 0 3
 0 31 -1 1
+0 32 8 1
+0 34 0 3
+0 56 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b6 oc1b lco ta1-2-oc1b ta2-2-lco
 0
 7
-0 32 8 1
-0 63 -1 0
-0 56 -1 1
 0 10 1 0
 0 15 0 1
-0 34 0 3
 0 31 -1 1
+0 32 8 1
+0 34 0 3
+0 56 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b6 oc1b lco ta1-2-oc1b ta2-3-lco
 0
 7
-0 32 8 1
-0 63 -1 0
-0 56 -1 1
 0 10 1 0
 0 16 0 1
-0 34 0 3
 0 31 -1 1
+0 32 8 1
+0 34 0 3
+0 56 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b8 oc1b oc1b ta1-1-oc1b ta2-1-oc1b
 0
 7
-0 32 10 1
-0 63 -1 0
-0 54 -1 1
-0 8 1 0
 0 0 0 1
-0 34 0 3
+0 8 1 0
 0 23 -1 1
+0 32 10 1
+0 34 0 3
+0 54 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b8 oc1b oc1b ta1-1-oc1b ta2-2-oc1b
 0
 7
-0 32 10 1
-0 63 -1 0
-0 54 -1 1
-0 8 1 0
 0 1 0 1
-0 34 0 3
+0 8 1 0
 0 23 -1 1
+0 32 10 1
+0 34 0 3
+0 54 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b8 oc1b oc1b ta1-2-oc1b ta2-1-oc1b
 0
 7
-0 32 10 1
-0 63 -1 0
-0 54 -1 1
-0 10 1 0
 0 0 0 1
-0 34 0 3
+0 10 1 0
 0 23 -1 1
+0 32 10 1
+0 34 0 3
+0 54 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b8 oc1b oc1b ta1-2-oc1b ta2-2-oc1b
 0
 7
-0 32 10 1
-0 63 -1 0
-0 54 -1 1
-0 10 1 0
 0 1 0 1
-0 34 0 3
+0 10 1 0
 0 23 -1 1
+0 32 10 1
+0 34 0 3
+0 54 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b9 oc1b lco ta1-1-oc1b ta2-1-lco
 0
 7
-0 32 11 1
-0 63 -1 0
-0 53 -1 1
 0 8 1 0
 0 14 0 1
+0 32 11 1
 0 34 0 3
 0 40 -1 1
+0 53 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b9 oc1b lco ta1-1-oc1b ta2-2-lco
 0
 7
-0 32 11 1
-0 63 -1 0
-0 53 -1 1
 0 8 1 0
 0 15 0 1
+0 32 11 1
 0 34 0 3
 0 40 -1 1
+0 53 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b9 oc1b lco ta1-1-oc1b ta2-3-lco
 0
 7
-0 32 11 1
-0 63 -1 0
-0 53 -1 1
 0 8 1 0
 0 16 0 1
+0 32 11 1
 0 34 0 3
 0 40 -1 1
+0 53 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b9 oc1b lco ta1-2-oc1b ta2-1-lco
 0
 7
-0 32 11 1
-0 63 -1 0
-0 53 -1 1
 0 10 1 0
 0 14 0 1
+0 32 11 1
 0 34 0 3
 0 40 -1 1
+0 53 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b9 oc1b lco ta1-2-oc1b ta2-2-lco
 0
 7
-0 32 11 1
-0 63 -1 0
-0 53 -1 1
 0 10 1 0
 0 15 0 1
+0 32 11 1
 0 34 0 3
 0 40 -1 1
+0 53 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b1 a1 a2 b9 oc1b lco ta1-2-oc1b ta2-3-lco
 0
 7
-0 32 11 1
-0 63 -1 0
-0 53 -1 1
 0 10 1 0
 0 16 0 1
+0 32 11 1
 0 34 0 3
 0 40 -1 1
+0 53 -1 1
+0 63 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b0 gasoleo lco ta1-1-gasoleo ta2-1-lco
 0
 7
-0 32 0 2
-0 64 -1 1
-0 62 -1 0
-0 22 1 0
 0 14 0 1
-0 30 -1 1
+0 22 1 0
 0 26 0 3
+0 30 -1 1
+0 32 0 2
+0 62 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b0 gasoleo lco ta1-1-gasoleo ta2-2-lco
 0
 7
-0 32 0 2
-0 64 -1 1
-0 62 -1 0
-0 22 1 0
 0 15 0 1
-0 30 -1 1
+0 22 1 0
 0 26 0 3
+0 30 -1 1
+0 32 0 2
+0 62 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b0 gasoleo lco ta1-1-gasoleo ta2-3-lco
 0
 7
-0 32 0 2
-0 64 -1 1
-0 62 -1 0
-0 22 1 0
 0 16 0 1
-0 30 -1 1
+0 22 1 0
 0 26 0 3
+0 30 -1 1
+0 32 0 2
+0 62 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b0 gasoleo lco ta1-2-gasoleo ta2-1-lco
 0
 7
-0 32 0 2
-0 64 -1 1
-0 62 -1 0
-0 24 1 0
 0 14 0 1
-0 30 -1 1
+0 24 1 0
 0 26 0 3
+0 30 -1 1
+0 32 0 2
+0 62 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b0 gasoleo lco ta1-2-gasoleo ta2-2-lco
 0
 7
-0 32 0 2
-0 64 -1 1
-0 62 -1 0
-0 24 1 0
 0 15 0 1
-0 30 -1 1
+0 24 1 0
 0 26 0 3
+0 30 -1 1
+0 32 0 2
+0 62 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b0 gasoleo lco ta1-2-gasoleo ta2-3-lco
 0
 7
-0 32 0 2
-0 64 -1 1
-0 62 -1 0
-0 24 1 0
 0 16 0 1
-0 30 -1 1
+0 24 1 0
 0 26 0 3
+0 30 -1 1
+0 32 0 2
+0 62 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b1 gasoleo oc1b ta1-1-gasoleo ta2-1-oc1b
 0
 7
-0 32 1 2
-0 63 -1 1
-0 62 -1 0
-0 22 1 0
 0 0 0 1
-0 34 -1 1
+0 22 1 0
 0 26 0 3
+0 32 1 2
+0 34 -1 1
+0 62 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b1 gasoleo oc1b ta1-1-gasoleo ta2-2-oc1b
 0
 7
-0 32 1 2
-0 63 -1 1
-0 62 -1 0
-0 22 1 0
 0 1 0 1
-0 34 -1 1
+0 22 1 0
 0 26 0 3
+0 32 1 2
+0 34 -1 1
+0 62 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b1 gasoleo oc1b ta1-2-gasoleo ta2-1-oc1b
 0
 7
-0 32 1 2
-0 63 -1 1
-0 62 -1 0
-0 24 1 0
 0 0 0 1
-0 34 -1 1
+0 24 1 0
 0 26 0 3
+0 32 1 2
+0 34 -1 1
+0 62 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b1 gasoleo oc1b ta1-2-gasoleo ta2-2-oc1b
 0
 7
-0 32 1 2
-0 63 -1 1
-0 62 -1 0
-0 24 1 0
 0 1 0 1
-0 34 -1 1
+0 24 1 0
 0 26 0 3
+0 32 1 2
+0 34 -1 1
+0 62 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b11 gasoleo gasoleo ta1-1-gasoleo ta2-1-gasoleo
 0
 7
-0 32 3 2
-0 62 -1 0
-0 61 -1 1
-0 22 1 0
 0 9 0 1
+0 22 1 0
 0 26 0 3
+0 32 3 2
 0 37 -1 1
+0 61 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b11 gasoleo gasoleo ta1-1-gasoleo ta2-2-gasoleo
 0
 7
-0 32 3 2
-0 62 -1 0
-0 61 -1 1
-0 22 1 0
 0 11 0 1
+0 22 1 0
 0 26 0 3
+0 32 3 2
 0 37 -1 1
+0 61 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b11 gasoleo gasoleo ta1-2-gasoleo ta2-1-gasoleo
 0
 7
-0 32 3 2
-0 62 -1 0
-0 61 -1 1
-0 24 1 0
 0 9 0 1
+0 24 1 0
 0 26 0 3
+0 32 3 2
 0 37 -1 1
+0 61 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b11 gasoleo gasoleo ta1-2-gasoleo ta2-2-gasoleo
 0
 7
-0 32 3 2
-0 62 -1 0
-0 61 -1 1
-0 24 1 0
 0 11 0 1
+0 24 1 0
 0 26 0 3
+0 32 3 2
 0 37 -1 1
+0 61 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b2 gasoleo rat-a ta1-1-gasoleo ta2-1-rat-a
 0
 7
-0 32 4 2
-0 62 -1 0
-0 60 -1 1
-0 22 1 0
 0 4 0 1
-0 26 0 3
+0 22 1 0
 0 25 -1 1
+0 26 0 3
+0 32 4 2
+0 60 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b2 gasoleo rat-a ta1-1-gasoleo ta2-2-rat-a
 0
 7
-0 32 4 2
-0 62 -1 0
-0 60 -1 1
-0 22 1 0
 0 5 0 1
-0 26 0 3
+0 22 1 0
 0 25 -1 1
+0 26 0 3
+0 32 4 2
+0 60 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b2 gasoleo rat-a ta1-2-gasoleo ta2-1-rat-a
 0
 7
-0 32 4 2
-0 62 -1 0
-0 60 -1 1
-0 24 1 0
 0 4 0 1
-0 26 0 3
+0 24 1 0
 0 25 -1 1
+0 26 0 3
+0 32 4 2
+0 60 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b2 gasoleo rat-a ta1-2-gasoleo ta2-2-rat-a
 0
 7
-0 32 4 2
-0 62 -1 0
-0 60 -1 1
-0 24 1 0
 0 5 0 1
-0 26 0 3
+0 24 1 0
 0 25 -1 1
+0 26 0 3
+0 32 4 2
+0 60 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b3 gasoleo gasoleo ta1-1-gasoleo ta2-1-gasoleo
 0
 7
-0 32 5 2
-0 62 -1 0
-0 59 -1 1
-0 22 1 0
 0 9 0 1
+0 22 1 0
 0 26 0 3
+0 32 5 2
 0 38 -1 1
+0 59 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b3 gasoleo gasoleo ta1-1-gasoleo ta2-2-gasoleo
 0
 7
-0 32 5 2
-0 62 -1 0
-0 59 -1 1
-0 22 1 0
 0 11 0 1
+0 22 1 0
 0 26 0 3
+0 32 5 2
 0 38 -1 1
+0 59 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b3 gasoleo gasoleo ta1-2-gasoleo ta2-1-gasoleo
 0
 7
-0 32 5 2
-0 62 -1 0
-0 59 -1 1
-0 24 1 0
 0 9 0 1
+0 24 1 0
 0 26 0 3
+0 32 5 2
 0 38 -1 1
+0 59 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b3 gasoleo gasoleo ta1-2-gasoleo ta2-2-gasoleo
 0
 7
-0 32 5 2
-0 62 -1 0
-0 59 -1 1
-0 24 1 0
 0 11 0 1
+0 24 1 0
 0 26 0 3
+0 32 5 2
 0 38 -1 1
+0 59 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b4 gasoleo lco ta1-1-gasoleo ta2-1-lco
 0
 7
-0 32 6 2
-0 62 -1 0
-0 58 -1 1
-0 22 1 0
 0 14 0 1
+0 22 1 0
 0 26 0 3
+0 32 6 2
 0 39 -1 1
+0 58 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b4 gasoleo lco ta1-1-gasoleo ta2-2-lco
 0
 7
-0 32 6 2
-0 62 -1 0
-0 58 -1 1
-0 22 1 0
 0 15 0 1
+0 22 1 0
 0 26 0 3
+0 32 6 2
 0 39 -1 1
+0 58 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b4 gasoleo lco ta1-1-gasoleo ta2-3-lco
 0
 7
-0 32 6 2
-0 62 -1 0
-0 58 -1 1
-0 22 1 0
 0 16 0 1
+0 22 1 0
 0 26 0 3
+0 32 6 2
 0 39 -1 1
+0 58 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b4 gasoleo lco ta1-2-gasoleo ta2-1-lco
 0
 7
-0 32 6 2
-0 62 -1 0
-0 58 -1 1
-0 24 1 0
 0 14 0 1
+0 24 1 0
 0 26 0 3
+0 32 6 2
 0 39 -1 1
+0 58 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b4 gasoleo lco ta1-2-gasoleo ta2-2-lco
 0
 7
-0 32 6 2
-0 62 -1 0
-0 58 -1 1
-0 24 1 0
 0 15 0 1
+0 24 1 0
 0 26 0 3
+0 32 6 2
 0 39 -1 1
+0 58 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b4 gasoleo lco ta1-2-gasoleo ta2-3-lco
 0
 7
-0 32 6 2
-0 62 -1 0
-0 58 -1 1
-0 24 1 0
 0 16 0 1
+0 24 1 0
 0 26 0 3
+0 32 6 2
 0 39 -1 1
+0 58 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b5 gasoleo rat-a ta1-1-gasoleo ta2-1-rat-a
 0
 7
-0 32 7 2
-0 62 -1 0
-0 57 -1 1
-0 22 1 0
 0 4 0 1
+0 22 1 0
 0 26 0 3
+0 32 7 2
 0 35 -1 1
+0 57 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b5 gasoleo rat-a ta1-1-gasoleo ta2-2-rat-a
 0
 7
-0 32 7 2
-0 62 -1 0
-0 57 -1 1
-0 22 1 0
 0 5 0 1
+0 22 1 0
 0 26 0 3
+0 32 7 2
 0 35 -1 1
+0 57 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b5 gasoleo rat-a ta1-2-gasoleo ta2-1-rat-a
 0
 7
-0 32 7 2
-0 62 -1 0
-0 57 -1 1
-0 24 1 0
 0 4 0 1
+0 24 1 0
 0 26 0 3
+0 32 7 2
 0 35 -1 1
+0 57 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b5 gasoleo rat-a ta1-2-gasoleo ta2-2-rat-a
 0
 7
-0 32 7 2
-0 62 -1 0
-0 57 -1 1
-0 24 1 0
 0 5 0 1
+0 24 1 0
 0 26 0 3
+0 32 7 2
 0 35 -1 1
+0 57 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b6 gasoleo lco ta1-1-gasoleo ta2-1-lco
 0
 7
-0 32 8 2
-0 62 -1 0
-0 56 -1 1
-0 22 1 0
 0 14 0 1
+0 22 1 0
 0 26 0 3
 0 31 -1 1
+0 32 8 2
+0 56 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b6 gasoleo lco ta1-1-gasoleo ta2-2-lco
 0
 7
-0 32 8 2
-0 62 -1 0
-0 56 -1 1
-0 22 1 0
 0 15 0 1
+0 22 1 0
 0 26 0 3
 0 31 -1 1
+0 32 8 2
+0 56 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b6 gasoleo lco ta1-1-gasoleo ta2-3-lco
 0
 7
-0 32 8 2
-0 62 -1 0
-0 56 -1 1
-0 22 1 0
 0 16 0 1
+0 22 1 0
 0 26 0 3
 0 31 -1 1
+0 32 8 2
+0 56 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b6 gasoleo lco ta1-2-gasoleo ta2-1-lco
 0
 7
-0 32 8 2
-0 62 -1 0
-0 56 -1 1
-0 24 1 0
 0 14 0 1
+0 24 1 0
 0 26 0 3
 0 31 -1 1
+0 32 8 2
+0 56 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b6 gasoleo lco ta1-2-gasoleo ta2-2-lco
 0
 7
-0 32 8 2
-0 62 -1 0
-0 56 -1 1
-0 24 1 0
 0 15 0 1
+0 24 1 0
 0 26 0 3
 0 31 -1 1
+0 32 8 2
+0 56 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b6 gasoleo lco ta1-2-gasoleo ta2-3-lco
 0
 7
-0 32 8 2
-0 62 -1 0
-0 56 -1 1
-0 24 1 0
 0 16 0 1
+0 24 1 0
 0 26 0 3
 0 31 -1 1
+0 32 8 2
+0 56 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b7 gasoleo rat-a ta1-1-gasoleo ta2-1-rat-a
 0
 7
-0 32 9 2
-0 62 -1 0
-0 55 -1 1
-0 22 1 0
 0 4 0 1
+0 22 1 0
 0 26 0 3
+0 32 9 2
 0 36 -1 1
+0 55 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b7 gasoleo rat-a ta1-1-gasoleo ta2-2-rat-a
 0
 7
-0 32 9 2
-0 62 -1 0
-0 55 -1 1
-0 22 1 0
 0 5 0 1
+0 22 1 0
 0 26 0 3
+0 32 9 2
 0 36 -1 1
+0 55 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b7 gasoleo rat-a ta1-2-gasoleo ta2-1-rat-a
 0
 7
-0 32 9 2
-0 62 -1 0
-0 55 -1 1
-0 24 1 0
 0 4 0 1
+0 24 1 0
 0 26 0 3
+0 32 9 2
 0 36 -1 1
+0 55 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b7 gasoleo rat-a ta1-2-gasoleo ta2-2-rat-a
 0
 7
-0 32 9 2
-0 62 -1 0
-0 55 -1 1
-0 24 1 0
 0 5 0 1
+0 24 1 0
 0 26 0 3
+0 32 9 2
 0 36 -1 1
+0 55 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b8 gasoleo oc1b ta1-1-gasoleo ta2-1-oc1b
 0
 7
-0 32 10 2
-0 62 -1 0
-0 54 -1 1
-0 22 1 0
 0 0 0 1
-0 26 0 3
+0 22 1 0
 0 23 -1 1
+0 26 0 3
+0 32 10 2
+0 54 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b8 gasoleo oc1b ta1-1-gasoleo ta2-2-oc1b
 0
 7
-0 32 10 2
-0 62 -1 0
-0 54 -1 1
-0 22 1 0
 0 1 0 1
-0 26 0 3
+0 22 1 0
 0 23 -1 1
+0 26 0 3
+0 32 10 2
+0 54 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b8 gasoleo oc1b ta1-2-gasoleo ta2-1-oc1b
 0
 7
-0 32 10 2
-0 62 -1 0
-0 54 -1 1
-0 24 1 0
 0 0 0 1
-0 26 0 3
 0 23 -1 1
+0 24 1 0
+0 26 0 3
+0 32 10 2
+0 54 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b8 gasoleo oc1b ta1-2-gasoleo ta2-2-oc1b
 0
 7
-0 32 10 2
-0 62 -1 0
-0 54 -1 1
-0 24 1 0
 0 1 0 1
-0 26 0 3
 0 23 -1 1
+0 24 1 0
+0 26 0 3
+0 32 10 2
+0 54 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b9 gasoleo lco ta1-1-gasoleo ta2-1-lco
 0
 7
-0 32 11 2
-0 62 -1 0
-0 53 -1 1
-0 22 1 0
 0 14 0 1
+0 22 1 0
 0 26 0 3
+0 32 11 2
 0 40 -1 1
+0 53 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b9 gasoleo lco ta1-1-gasoleo ta2-2-lco
 0
 7
-0 32 11 2
-0 62 -1 0
-0 53 -1 1
-0 22 1 0
 0 15 0 1
+0 22 1 0
 0 26 0 3
+0 32 11 2
 0 40 -1 1
+0 53 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b9 gasoleo lco ta1-1-gasoleo ta2-3-lco
 0
 7
-0 32 11 2
-0 62 -1 0
-0 53 -1 1
-0 22 1 0
 0 16 0 1
+0 22 1 0
 0 26 0 3
+0 32 11 2
 0 40 -1 1
+0 53 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b9 gasoleo lco ta1-2-gasoleo ta2-1-lco
 0
 7
-0 32 11 2
-0 62 -1 0
-0 53 -1 1
-0 24 1 0
 0 14 0 1
+0 24 1 0
 0 26 0 3
+0 32 11 2
 0 40 -1 1
+0 53 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b9 gasoleo lco ta1-2-gasoleo ta2-2-lco
 0
 7
-0 32 11 2
-0 62 -1 0
-0 53 -1 1
-0 24 1 0
 0 15 0 1
+0 24 1 0
 0 26 0 3
+0 32 11 2
 0 40 -1 1
+0 53 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b10 a1 a2 b9 gasoleo lco ta1-2-gasoleo ta2-3-lco
 0
 7
-0 32 11 2
-0 62 -1 0
-0 53 -1 1
-0 24 1 0
 0 16 0 1
+0 24 1 0
 0 26 0 3
+0 32 11 2
 0 40 -1 1
+0 53 -1 1
+0 62 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b0 gasoleo lco ta1-1-gasoleo ta2-1-lco
 0
 7
-0 32 0 3
-0 64 -1 1
-0 61 -1 0
-0 22 1 0
 0 14 0 1
+0 22 1 0
 0 30 -1 1
+0 32 0 3
 0 37 0 3
+0 61 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b0 gasoleo lco ta1-1-gasoleo ta2-2-lco
 0
 7
-0 32 0 3
-0 64 -1 1
-0 61 -1 0
-0 22 1 0
 0 15 0 1
+0 22 1 0
 0 30 -1 1
+0 32 0 3
 0 37 0 3
+0 61 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b0 gasoleo lco ta1-1-gasoleo ta2-3-lco
 0
 7
-0 32 0 3
-0 64 -1 1
-0 61 -1 0
-0 22 1 0
 0 16 0 1
+0 22 1 0
 0 30 -1 1
+0 32 0 3
 0 37 0 3
+0 61 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b0 gasoleo lco ta1-2-gasoleo ta2-1-lco
 0
 7
-0 32 0 3
-0 64 -1 1
-0 61 -1 0
-0 24 1 0
 0 14 0 1
+0 24 1 0
 0 30 -1 1
+0 32 0 3
 0 37 0 3
+0 61 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b0 gasoleo lco ta1-2-gasoleo ta2-2-lco
 0
 7
-0 32 0 3
-0 64 -1 1
-0 61 -1 0
-0 24 1 0
 0 15 0 1
+0 24 1 0
 0 30 -1 1
+0 32 0 3
 0 37 0 3
+0 61 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b0 gasoleo lco ta1-2-gasoleo ta2-3-lco
 0
 7
-0 32 0 3
-0 64 -1 1
-0 61 -1 0
-0 24 1 0
 0 16 0 1
+0 24 1 0
 0 30 -1 1
+0 32 0 3
 0 37 0 3
+0 61 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b1 gasoleo oc1b ta1-1-gasoleo ta2-1-oc1b
 0
 7
-0 32 1 3
-0 63 -1 1
-0 61 -1 0
-0 22 1 0
 0 0 0 1
+0 22 1 0
+0 32 1 3
 0 34 -1 1
 0 37 0 3
+0 61 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b1 gasoleo oc1b ta1-1-gasoleo ta2-2-oc1b
 0
 7
-0 32 1 3
-0 63 -1 1
-0 61 -1 0
-0 22 1 0
 0 1 0 1
+0 22 1 0
+0 32 1 3
 0 34 -1 1
 0 37 0 3
+0 61 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b1 gasoleo oc1b ta1-2-gasoleo ta2-1-oc1b
 0
 7
-0 32 1 3
-0 63 -1 1
-0 61 -1 0
-0 24 1 0
 0 0 0 1
+0 24 1 0
+0 32 1 3
 0 34 -1 1
 0 37 0 3
+0 61 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b1 gasoleo oc1b ta1-2-gasoleo ta2-2-oc1b
 0
 7
-0 32 1 3
-0 63 -1 1
-0 61 -1 0
-0 24 1 0
 0 1 0 1
+0 24 1 0
+0 32 1 3
 0 34 -1 1
 0 37 0 3
+0 61 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b10 gasoleo gasoleo ta1-1-gasoleo ta2-1-gasoleo
 0
 7
-0 32 2 3
-0 62 -1 1
-0 61 -1 0
-0 22 1 0
 0 9 0 1
+0 22 1 0
 0 26 -1 1
+0 32 2 3
 0 37 0 3
+0 61 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b10 gasoleo gasoleo ta1-1-gasoleo ta2-2-gasoleo
 0
 7
-0 32 2 3
-0 62 -1 1
-0 61 -1 0
-0 22 1 0
 0 11 0 1
+0 22 1 0
 0 26 -1 1
+0 32 2 3
 0 37 0 3
+0 61 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b10 gasoleo gasoleo ta1-2-gasoleo ta2-1-gasoleo
 0
 7
-0 32 2 3
-0 62 -1 1
-0 61 -1 0
-0 24 1 0
 0 9 0 1
+0 24 1 0
 0 26 -1 1
+0 32 2 3
 0 37 0 3
+0 61 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b10 gasoleo gasoleo ta1-2-gasoleo ta2-2-gasoleo
 0
 7
-0 32 2 3
-0 62 -1 1
-0 61 -1 0
-0 24 1 0
 0 11 0 1
+0 24 1 0
 0 26 -1 1
+0 32 2 3
 0 37 0 3
+0 61 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b2 gasoleo rat-a ta1-1-gasoleo ta2-1-rat-a
 0
 7
-0 32 4 3
-0 61 -1 0
-0 60 -1 1
-0 22 1 0
 0 4 0 1
-0 37 0 3
+0 22 1 0
 0 25 -1 1
+0 32 4 3
+0 37 0 3
+0 60 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b2 gasoleo rat-a ta1-1-gasoleo ta2-2-rat-a
 0
 7
-0 32 4 3
-0 61 -1 0
-0 60 -1 1
-0 22 1 0
 0 5 0 1
-0 37 0 3
+0 22 1 0
 0 25 -1 1
+0 32 4 3
+0 37 0 3
+0 60 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b2 gasoleo rat-a ta1-2-gasoleo ta2-1-rat-a
 0
 7
-0 32 4 3
-0 61 -1 0
-0 60 -1 1
-0 24 1 0
 0 4 0 1
-0 37 0 3
+0 24 1 0
 0 25 -1 1
+0 32 4 3
+0 37 0 3
+0 60 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b2 gasoleo rat-a ta1-2-gasoleo ta2-2-rat-a
 0
 7
-0 32 4 3
-0 61 -1 0
-0 60 -1 1
-0 24 1 0
 0 5 0 1
-0 37 0 3
+0 24 1 0
 0 25 -1 1
+0 32 4 3
+0 37 0 3
+0 60 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b3 gasoleo gasoleo ta1-1-gasoleo ta2-1-gasoleo
 0
 7
-0 32 5 3
-0 61 -1 0
-0 59 -1 1
-0 22 1 0
 0 9 0 1
+0 22 1 0
+0 32 5 3
 0 37 0 3
 0 38 -1 1
+0 59 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b3 gasoleo gasoleo ta1-1-gasoleo ta2-2-gasoleo
 0
 7
-0 32 5 3
-0 61 -1 0
-0 59 -1 1
-0 22 1 0
 0 11 0 1
+0 22 1 0
+0 32 5 3
 0 37 0 3
 0 38 -1 1
+0 59 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b3 gasoleo gasoleo ta1-2-gasoleo ta2-1-gasoleo
 0
 7
-0 32 5 3
-0 61 -1 0
-0 59 -1 1
-0 24 1 0
 0 9 0 1
+0 24 1 0
+0 32 5 3
 0 37 0 3
 0 38 -1 1
+0 59 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b3 gasoleo gasoleo ta1-2-gasoleo ta2-2-gasoleo
 0
 7
-0 32 5 3
-0 61 -1 0
-0 59 -1 1
-0 24 1 0
 0 11 0 1
+0 24 1 0
+0 32 5 3
 0 37 0 3
 0 38 -1 1
+0 59 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b4 gasoleo lco ta1-1-gasoleo ta2-1-lco
 0
 7
-0 32 6 3
-0 61 -1 0
-0 58 -1 1
-0 22 1 0
 0 14 0 1
+0 22 1 0
+0 32 6 3
 0 37 0 3
 0 39 -1 1
+0 58 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b4 gasoleo lco ta1-1-gasoleo ta2-2-lco
 0
 7
-0 32 6 3
-0 61 -1 0
-0 58 -1 1
-0 22 1 0
 0 15 0 1
+0 22 1 0
+0 32 6 3
 0 37 0 3
 0 39 -1 1
+0 58 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b4 gasoleo lco ta1-1-gasoleo ta2-3-lco
 0
 7
-0 32 6 3
-0 61 -1 0
-0 58 -1 1
-0 22 1 0
 0 16 0 1
+0 22 1 0
+0 32 6 3
 0 37 0 3
 0 39 -1 1
+0 58 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b4 gasoleo lco ta1-2-gasoleo ta2-1-lco
 0
 7
-0 32 6 3
-0 61 -1 0
-0 58 -1 1
-0 24 1 0
 0 14 0 1
+0 24 1 0
+0 32 6 3
 0 37 0 3
 0 39 -1 1
+0 58 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b4 gasoleo lco ta1-2-gasoleo ta2-2-lco
 0
 7
-0 32 6 3
-0 61 -1 0
-0 58 -1 1
-0 24 1 0
 0 15 0 1
+0 24 1 0
+0 32 6 3
 0 37 0 3
 0 39 -1 1
+0 58 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b4 gasoleo lco ta1-2-gasoleo ta2-3-lco
 0
 7
-0 32 6 3
-0 61 -1 0
-0 58 -1 1
-0 24 1 0
 0 16 0 1
+0 24 1 0
+0 32 6 3
 0 37 0 3
 0 39 -1 1
+0 58 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b5 gasoleo rat-a ta1-1-gasoleo ta2-1-rat-a
 0
 7
-0 32 7 3
-0 61 -1 0
-0 57 -1 1
-0 22 1 0
 0 4 0 1
-0 37 0 3
+0 22 1 0
+0 32 7 3
 0 35 -1 1
+0 37 0 3
+0 57 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b5 gasoleo rat-a ta1-1-gasoleo ta2-2-rat-a
 0
 7
-0 32 7 3
-0 61 -1 0
-0 57 -1 1
-0 22 1 0
 0 5 0 1
-0 37 0 3
+0 22 1 0
+0 32 7 3
 0 35 -1 1
+0 37 0 3
+0 57 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b5 gasoleo rat-a ta1-2-gasoleo ta2-1-rat-a
 0
 7
-0 32 7 3
-0 61 -1 0
-0 57 -1 1
-0 24 1 0
 0 4 0 1
-0 37 0 3
+0 24 1 0
+0 32 7 3
 0 35 -1 1
+0 37 0 3
+0 57 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b5 gasoleo rat-a ta1-2-gasoleo ta2-2-rat-a
 0
 7
-0 32 7 3
-0 61 -1 0
-0 57 -1 1
-0 24 1 0
 0 5 0 1
-0 37 0 3
+0 24 1 0
+0 32 7 3
 0 35 -1 1
+0 37 0 3
+0 57 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b6 gasoleo lco ta1-1-gasoleo ta2-1-lco
 0
 7
-0 32 8 3
-0 61 -1 0
-0 56 -1 1
-0 22 1 0
 0 14 0 1
-0 37 0 3
+0 22 1 0
 0 31 -1 1
+0 32 8 3
+0 37 0 3
+0 56 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b6 gasoleo lco ta1-1-gasoleo ta2-2-lco
 0
 7
-0 32 8 3
-0 61 -1 0
-0 56 -1 1
-0 22 1 0
 0 15 0 1
-0 37 0 3
+0 22 1 0
 0 31 -1 1
+0 32 8 3
+0 37 0 3
+0 56 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b6 gasoleo lco ta1-1-gasoleo ta2-3-lco
 0
 7
-0 32 8 3
-0 61 -1 0
-0 56 -1 1
-0 22 1 0
 0 16 0 1
-0 37 0 3
+0 22 1 0
 0 31 -1 1
+0 32 8 3
+0 37 0 3
+0 56 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b6 gasoleo lco ta1-2-gasoleo ta2-1-lco
 0
 7
-0 32 8 3
-0 61 -1 0
-0 56 -1 1
-0 24 1 0
 0 14 0 1
-0 37 0 3
+0 24 1 0
 0 31 -1 1
+0 32 8 3
+0 37 0 3
+0 56 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b6 gasoleo lco ta1-2-gasoleo ta2-2-lco
 0
 7
-0 32 8 3
-0 61 -1 0
-0 56 -1 1
-0 24 1 0
 0 15 0 1
-0 37 0 3
+0 24 1 0
 0 31 -1 1
+0 32 8 3
+0 37 0 3
+0 56 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b6 gasoleo lco ta1-2-gasoleo ta2-3-lco
 0
 7
-0 32 8 3
-0 61 -1 0
-0 56 -1 1
-0 24 1 0
 0 16 0 1
-0 37 0 3
+0 24 1 0
 0 31 -1 1
+0 32 8 3
+0 37 0 3
+0 56 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b7 gasoleo rat-a ta1-1-gasoleo ta2-1-rat-a
 0
 7
-0 32 9 3
-0 61 -1 0
-0 55 -1 1
-0 22 1 0
 0 4 0 1
-0 37 0 3
+0 22 1 0
+0 32 9 3
 0 36 -1 1
+0 37 0 3
+0 55 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b7 gasoleo rat-a ta1-1-gasoleo ta2-2-rat-a
 0
 7
-0 32 9 3
-0 61 -1 0
-0 55 -1 1
-0 22 1 0
 0 5 0 1
-0 37 0 3
+0 22 1 0
+0 32 9 3
 0 36 -1 1
+0 37 0 3
+0 55 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b7 gasoleo rat-a ta1-2-gasoleo ta2-1-rat-a
 0
 7
-0 32 9 3
-0 61 -1 0
-0 55 -1 1
-0 24 1 0
 0 4 0 1
-0 37 0 3
+0 24 1 0
+0 32 9 3
 0 36 -1 1
+0 37 0 3
+0 55 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b7 gasoleo rat-a ta1-2-gasoleo ta2-2-rat-a
 0
 7
-0 32 9 3
-0 61 -1 0
-0 55 -1 1
-0 24 1 0
 0 5 0 1
-0 37 0 3
+0 24 1 0
+0 32 9 3
 0 36 -1 1
+0 37 0 3
+0 55 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b8 gasoleo oc1b ta1-1-gasoleo ta2-1-oc1b
 0
 7
-0 32 10 3
-0 61 -1 0
-0 54 -1 1
-0 22 1 0
 0 0 0 1
-0 37 0 3
+0 22 1 0
 0 23 -1 1
+0 32 10 3
+0 37 0 3
+0 54 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b8 gasoleo oc1b ta1-1-gasoleo ta2-2-oc1b
 0
 7
-0 32 10 3
-0 61 -1 0
-0 54 -1 1
-0 22 1 0
 0 1 0 1
-0 37 0 3
+0 22 1 0
 0 23 -1 1
+0 32 10 3
+0 37 0 3
+0 54 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b8 gasoleo oc1b ta1-2-gasoleo ta2-1-oc1b
 0
 7
-0 32 10 3
-0 61 -1 0
-0 54 -1 1
-0 24 1 0
 0 0 0 1
-0 37 0 3
 0 23 -1 1
+0 24 1 0
+0 32 10 3
+0 37 0 3
+0 54 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b8 gasoleo oc1b ta1-2-gasoleo ta2-2-oc1b
 0
 7
-0 32 10 3
-0 61 -1 0
-0 54 -1 1
-0 24 1 0
 0 1 0 1
-0 37 0 3
 0 23 -1 1
+0 24 1 0
+0 32 10 3
+0 37 0 3
+0 54 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b9 gasoleo lco ta1-1-gasoleo ta2-1-lco
 0
 7
-0 32 11 3
-0 61 -1 0
-0 53 -1 1
-0 22 1 0
 0 14 0 1
+0 22 1 0
+0 32 11 3
 0 37 0 3
 0 40 -1 1
+0 53 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b9 gasoleo lco ta1-1-gasoleo ta2-2-lco
 0
 7
-0 32 11 3
-0 61 -1 0
-0 53 -1 1
-0 22 1 0
 0 15 0 1
+0 22 1 0
+0 32 11 3
 0 37 0 3
 0 40 -1 1
+0 53 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b9 gasoleo lco ta1-1-gasoleo ta2-3-lco
 0
 7
-0 32 11 3
-0 61 -1 0
-0 53 -1 1
-0 22 1 0
 0 16 0 1
+0 22 1 0
+0 32 11 3
 0 37 0 3
 0 40 -1 1
+0 53 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b9 gasoleo lco ta1-2-gasoleo ta2-1-lco
 0
 7
-0 32 11 3
-0 61 -1 0
-0 53 -1 1
-0 24 1 0
 0 14 0 1
+0 24 1 0
+0 32 11 3
 0 37 0 3
 0 40 -1 1
+0 53 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b9 gasoleo lco ta1-2-gasoleo ta2-2-lco
 0
 7
-0 32 11 3
-0 61 -1 0
-0 53 -1 1
-0 24 1 0
 0 15 0 1
+0 24 1 0
+0 32 11 3
 0 37 0 3
 0 40 -1 1
+0 53 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b11 a1 a2 b9 gasoleo lco ta1-2-gasoleo ta2-3-lco
 0
 7
-0 32 11 3
-0 61 -1 0
-0 53 -1 1
-0 24 1 0
 0 16 0 1
+0 24 1 0
+0 32 11 3
 0 37 0 3
 0 40 -1 1
+0 53 -1 1
+0 61 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b0 rat-a lco ta1-1-rat-a ta2-1-lco
 0
 7
-0 32 0 4
-0 64 -1 1
-0 60 -1 0
-0 19 1 0
 0 14 0 1
-0 30 -1 1
+0 19 1 0
 0 25 0 3
+0 30 -1 1
+0 32 0 4
+0 60 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b0 rat-a lco ta1-1-rat-a ta2-2-lco
 0
 7
-0 32 0 4
-0 64 -1 1
-0 60 -1 0
-0 19 1 0
 0 15 0 1
-0 30 -1 1
+0 19 1 0
 0 25 0 3
+0 30 -1 1
+0 32 0 4
+0 60 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b0 rat-a lco ta1-1-rat-a ta2-3-lco
 0
 7
-0 32 0 4
-0 64 -1 1
-0 60 -1 0
-0 19 1 0
 0 16 0 1
-0 30 -1 1
+0 19 1 0
 0 25 0 3
+0 30 -1 1
+0 32 0 4
+0 60 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b0 rat-a lco ta1-2-rat-a ta2-1-lco
 0
 7
-0 32 0 4
-0 64 -1 1
-0 60 -1 0
-0 21 1 0
 0 14 0 1
-0 30 -1 1
+0 21 1 0
 0 25 0 3
+0 30 -1 1
+0 32 0 4
+0 60 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b0 rat-a lco ta1-2-rat-a ta2-2-lco
 0
 7
-0 32 0 4
-0 64 -1 1
-0 60 -1 0
-0 21 1 0
 0 15 0 1
-0 30 -1 1
+0 21 1 0
 0 25 0 3
+0 30 -1 1
+0 32 0 4
+0 60 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b0 rat-a lco ta1-2-rat-a ta2-3-lco
 0
 7
-0 32 0 4
-0 64 -1 1
-0 60 -1 0
-0 21 1 0
 0 16 0 1
-0 30 -1 1
+0 21 1 0
 0 25 0 3
+0 30 -1 1
+0 32 0 4
+0 60 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b10 rat-a gasoleo ta1-1-rat-a ta2-1-gasoleo
 0
 7
-0 32 2 4
-0 62 -1 1
-0 60 -1 0
-0 19 1 0
 0 9 0 1
-0 26 -1 1
+0 19 1 0
 0 25 0 3
+0 26 -1 1
+0 32 2 4
+0 60 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b10 rat-a gasoleo ta1-1-rat-a ta2-2-gasoleo
 0
 7
-0 32 2 4
-0 62 -1 1
-0 60 -1 0
-0 19 1 0
 0 11 0 1
-0 26 -1 1
+0 19 1 0
 0 25 0 3
+0 26 -1 1
+0 32 2 4
+0 60 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b10 rat-a gasoleo ta1-2-rat-a ta2-1-gasoleo
 0
 7
-0 32 2 4
-0 62 -1 1
-0 60 -1 0
-0 21 1 0
 0 9 0 1
-0 26 -1 1
+0 21 1 0
 0 25 0 3
+0 26 -1 1
+0 32 2 4
+0 60 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b10 rat-a gasoleo ta1-2-rat-a ta2-2-gasoleo
 0
 7
-0 32 2 4
-0 62 -1 1
-0 60 -1 0
-0 21 1 0
 0 11 0 1
-0 26 -1 1
+0 21 1 0
 0 25 0 3
+0 26 -1 1
+0 32 2 4
+0 60 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b11 rat-a gasoleo ta1-1-rat-a ta2-1-gasoleo
 0
 7
-0 32 3 4
-0 61 -1 1
-0 60 -1 0
-0 19 1 0
 0 9 0 1
-0 37 -1 1
+0 19 1 0
 0 25 0 3
+0 32 3 4
+0 37 -1 1
+0 60 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b11 rat-a gasoleo ta1-1-rat-a ta2-2-gasoleo
 0
 7
-0 32 3 4
-0 61 -1 1
-0 60 -1 0
-0 19 1 0
 0 11 0 1
-0 37 -1 1
+0 19 1 0
 0 25 0 3
+0 32 3 4
+0 37 -1 1
+0 60 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b11 rat-a gasoleo ta1-2-rat-a ta2-1-gasoleo
 0
 7
-0 32 3 4
-0 61 -1 1
-0 60 -1 0
-0 21 1 0
 0 9 0 1
-0 37 -1 1
+0 21 1 0
 0 25 0 3
+0 32 3 4
+0 37 -1 1
+0 60 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b11 rat-a gasoleo ta1-2-rat-a ta2-2-gasoleo
 0
 7
-0 32 3 4
-0 61 -1 1
-0 60 -1 0
-0 21 1 0
 0 11 0 1
-0 37 -1 1
+0 21 1 0
 0 25 0 3
+0 32 3 4
+0 37 -1 1
+0 60 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b3 rat-a gasoleo ta1-1-rat-a ta2-1-gasoleo
 0
 7
-0 32 5 4
-0 60 -1 0
-0 59 -1 1
-0 19 1 0
 0 9 0 1
+0 19 1 0
 0 25 0 3
+0 32 5 4
 0 38 -1 1
+0 59 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b3 rat-a gasoleo ta1-1-rat-a ta2-2-gasoleo
 0
 7
-0 32 5 4
-0 60 -1 0
-0 59 -1 1
-0 19 1 0
 0 11 0 1
+0 19 1 0
 0 25 0 3
+0 32 5 4
 0 38 -1 1
+0 59 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b3 rat-a gasoleo ta1-2-rat-a ta2-1-gasoleo
 0
 7
-0 32 5 4
-0 60 -1 0
-0 59 -1 1
-0 21 1 0
 0 9 0 1
+0 21 1 0
 0 25 0 3
+0 32 5 4
 0 38 -1 1
+0 59 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b3 rat-a gasoleo ta1-2-rat-a ta2-2-gasoleo
 0
 7
-0 32 5 4
-0 60 -1 0
-0 59 -1 1
-0 21 1 0
 0 11 0 1
+0 21 1 0
 0 25 0 3
+0 32 5 4
 0 38 -1 1
+0 59 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b4 rat-a lco ta1-1-rat-a ta2-1-lco
 0
 7
-0 32 6 4
-0 60 -1 0
-0 58 -1 1
-0 19 1 0
 0 14 0 1
+0 19 1 0
 0 25 0 3
+0 32 6 4
 0 39 -1 1
+0 58 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b4 rat-a lco ta1-1-rat-a ta2-2-lco
 0
 7
-0 32 6 4
-0 60 -1 0
-0 58 -1 1
-0 19 1 0
 0 15 0 1
+0 19 1 0
 0 25 0 3
+0 32 6 4
 0 39 -1 1
+0 58 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b4 rat-a lco ta1-1-rat-a ta2-3-lco
 0
 7
-0 32 6 4
-0 60 -1 0
-0 58 -1 1
-0 19 1 0
 0 16 0 1
+0 19 1 0
 0 25 0 3
+0 32 6 4
 0 39 -1 1
+0 58 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b4 rat-a lco ta1-2-rat-a ta2-1-lco
 0
 7
-0 32 6 4
-0 60 -1 0
-0 58 -1 1
-0 21 1 0
 0 14 0 1
+0 21 1 0
 0 25 0 3
+0 32 6 4
 0 39 -1 1
+0 58 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b4 rat-a lco ta1-2-rat-a ta2-2-lco
 0
 7
-0 32 6 4
-0 60 -1 0
-0 58 -1 1
-0 21 1 0
 0 15 0 1
+0 21 1 0
 0 25 0 3
+0 32 6 4
 0 39 -1 1
+0 58 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b4 rat-a lco ta1-2-rat-a ta2-3-lco
 0
 7
-0 32 6 4
-0 60 -1 0
-0 58 -1 1
-0 21 1 0
 0 16 0 1
+0 21 1 0
 0 25 0 3
+0 32 6 4
 0 39 -1 1
+0 58 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b5 rat-a rat-a ta1-1-rat-a ta2-1-rat-a
 0
 7
-0 32 7 4
-0 60 -1 0
-0 57 -1 1
-0 19 1 0
 0 4 0 1
+0 19 1 0
 0 25 0 3
+0 32 7 4
 0 35 -1 1
+0 57 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b5 rat-a rat-a ta1-1-rat-a ta2-2-rat-a
 0
 7
-0 32 7 4
-0 60 -1 0
-0 57 -1 1
-0 19 1 0
 0 5 0 1
+0 19 1 0
 0 25 0 3
+0 32 7 4
 0 35 -1 1
+0 57 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b5 rat-a rat-a ta1-2-rat-a ta2-1-rat-a
 0
 7
-0 32 7 4
-0 60 -1 0
-0 57 -1 1
-0 21 1 0
 0 4 0 1
+0 21 1 0
 0 25 0 3
+0 32 7 4
 0 35 -1 1
+0 57 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b5 rat-a rat-a ta1-2-rat-a ta2-2-rat-a
 0
 7
-0 32 7 4
-0 60 -1 0
-0 57 -1 1
-0 21 1 0
 0 5 0 1
+0 21 1 0
 0 25 0 3
+0 32 7 4
 0 35 -1 1
+0 57 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b6 rat-a lco ta1-1-rat-a ta2-1-lco
 0
 7
-0 32 8 4
-0 60 -1 0
-0 56 -1 1
-0 19 1 0
 0 14 0 1
+0 19 1 0
 0 25 0 3
 0 31 -1 1
+0 32 8 4
+0 56 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b6 rat-a lco ta1-1-rat-a ta2-2-lco
 0
 7
-0 32 8 4
-0 60 -1 0
-0 56 -1 1
-0 19 1 0
 0 15 0 1
+0 19 1 0
 0 25 0 3
 0 31 -1 1
+0 32 8 4
+0 56 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b6 rat-a lco ta1-1-rat-a ta2-3-lco
 0
 7
-0 32 8 4
-0 60 -1 0
-0 56 -1 1
-0 19 1 0
 0 16 0 1
+0 19 1 0
 0 25 0 3
 0 31 -1 1
+0 32 8 4
+0 56 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b6 rat-a lco ta1-2-rat-a ta2-1-lco
 0
 7
-0 32 8 4
-0 60 -1 0
-0 56 -1 1
-0 21 1 0
 0 14 0 1
+0 21 1 0
 0 25 0 3
 0 31 -1 1
+0 32 8 4
+0 56 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b6 rat-a lco ta1-2-rat-a ta2-2-lco
 0
 7
-0 32 8 4
-0 60 -1 0
-0 56 -1 1
-0 21 1 0
 0 15 0 1
+0 21 1 0
 0 25 0 3
 0 31 -1 1
+0 32 8 4
+0 56 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b6 rat-a lco ta1-2-rat-a ta2-3-lco
 0
 7
-0 32 8 4
-0 60 -1 0
-0 56 -1 1
-0 21 1 0
 0 16 0 1
+0 21 1 0
 0 25 0 3
 0 31 -1 1
+0 32 8 4
+0 56 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b7 rat-a rat-a ta1-1-rat-a ta2-1-rat-a
 0
 7
-0 32 9 4
-0 60 -1 0
-0 55 -1 1
-0 19 1 0
 0 4 0 1
+0 19 1 0
 0 25 0 3
+0 32 9 4
 0 36 -1 1
+0 55 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b7 rat-a rat-a ta1-1-rat-a ta2-2-rat-a
 0
 7
-0 32 9 4
-0 60 -1 0
-0 55 -1 1
-0 19 1 0
 0 5 0 1
+0 19 1 0
 0 25 0 3
+0 32 9 4
 0 36 -1 1
+0 55 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b7 rat-a rat-a ta1-2-rat-a ta2-1-rat-a
 0
 7
-0 32 9 4
-0 60 -1 0
-0 55 -1 1
-0 21 1 0
 0 4 0 1
+0 21 1 0
 0 25 0 3
+0 32 9 4
 0 36 -1 1
+0 55 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b7 rat-a rat-a ta1-2-rat-a ta2-2-rat-a
 0
 7
-0 32 9 4
-0 60 -1 0
-0 55 -1 1
-0 21 1 0
 0 5 0 1
+0 21 1 0
 0 25 0 3
+0 32 9 4
 0 36 -1 1
+0 55 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b9 rat-a lco ta1-1-rat-a ta2-1-lco
 0
 7
-0 32 11 4
-0 60 -1 0
-0 53 -1 1
-0 19 1 0
 0 14 0 1
+0 19 1 0
 0 25 0 3
+0 32 11 4
 0 40 -1 1
+0 53 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b9 rat-a lco ta1-1-rat-a ta2-2-lco
 0
 7
-0 32 11 4
-0 60 -1 0
-0 53 -1 1
-0 19 1 0
 0 15 0 1
+0 19 1 0
 0 25 0 3
+0 32 11 4
 0 40 -1 1
+0 53 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b9 rat-a lco ta1-1-rat-a ta2-3-lco
 0
 7
-0 32 11 4
-0 60 -1 0
-0 53 -1 1
-0 19 1 0
 0 16 0 1
+0 19 1 0
 0 25 0 3
+0 32 11 4
 0 40 -1 1
+0 53 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b9 rat-a lco ta1-2-rat-a ta2-1-lco
 0
 7
-0 32 11 4
-0 60 -1 0
-0 53 -1 1
-0 21 1 0
 0 14 0 1
+0 21 1 0
 0 25 0 3
+0 32 11 4
 0 40 -1 1
+0 53 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b9 rat-a lco ta1-2-rat-a ta2-2-lco
 0
 7
-0 32 11 4
-0 60 -1 0
-0 53 -1 1
-0 21 1 0
 0 15 0 1
+0 21 1 0
 0 25 0 3
+0 32 11 4
 0 40 -1 1
+0 53 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b2 a1 a2 b9 rat-a lco ta1-2-rat-a ta2-3-lco
 0
 7
-0 32 11 4
-0 60 -1 0
-0 53 -1 1
-0 21 1 0
 0 16 0 1
+0 21 1 0
 0 25 0 3
+0 32 11 4
 0 40 -1 1
+0 53 -1 1
+0 60 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b0 gasoleo lco ta1-1-gasoleo ta2-1-lco
 0
 7
-0 32 0 5
-0 64 -1 1
-0 59 -1 0
-0 22 1 0
 0 14 0 1
+0 22 1 0
 0 30 -1 1
+0 32 0 5
 0 38 0 3
+0 59 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b0 gasoleo lco ta1-1-gasoleo ta2-2-lco
 0
 7
-0 32 0 5
-0 64 -1 1
-0 59 -1 0
-0 22 1 0
 0 15 0 1
+0 22 1 0
 0 30 -1 1
+0 32 0 5
 0 38 0 3
+0 59 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b0 gasoleo lco ta1-1-gasoleo ta2-3-lco
 0
 7
-0 32 0 5
-0 64 -1 1
-0 59 -1 0
-0 22 1 0
 0 16 0 1
+0 22 1 0
 0 30 -1 1
+0 32 0 5
 0 38 0 3
+0 59 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b0 gasoleo lco ta1-2-gasoleo ta2-1-lco
 0
 7
-0 32 0 5
-0 64 -1 1
-0 59 -1 0
-0 24 1 0
 0 14 0 1
+0 24 1 0
 0 30 -1 1
+0 32 0 5
 0 38 0 3
+0 59 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b0 gasoleo lco ta1-2-gasoleo ta2-2-lco
 0
 7
-0 32 0 5
-0 64 -1 1
-0 59 -1 0
-0 24 1 0
 0 15 0 1
+0 24 1 0
 0 30 -1 1
+0 32 0 5
 0 38 0 3
+0 59 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b0 gasoleo lco ta1-2-gasoleo ta2-3-lco
 0
 7
-0 32 0 5
-0 64 -1 1
-0 59 -1 0
-0 24 1 0
 0 16 0 1
+0 24 1 0
 0 30 -1 1
+0 32 0 5
 0 38 0 3
+0 59 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b1 gasoleo oc1b ta1-1-gasoleo ta2-1-oc1b
 0
 7
-0 32 1 5
-0 63 -1 1
-0 59 -1 0
-0 22 1 0
 0 0 0 1
+0 22 1 0
+0 32 1 5
 0 34 -1 1
 0 38 0 3
+0 59 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b1 gasoleo oc1b ta1-1-gasoleo ta2-2-oc1b
 0
 7
-0 32 1 5
-0 63 -1 1
-0 59 -1 0
-0 22 1 0
 0 1 0 1
+0 22 1 0
+0 32 1 5
 0 34 -1 1
 0 38 0 3
+0 59 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b1 gasoleo oc1b ta1-2-gasoleo ta2-1-oc1b
 0
 7
-0 32 1 5
-0 63 -1 1
-0 59 -1 0
-0 24 1 0
 0 0 0 1
+0 24 1 0
+0 32 1 5
 0 34 -1 1
 0 38 0 3
+0 59 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b1 gasoleo oc1b ta1-2-gasoleo ta2-2-oc1b
 0
 7
-0 32 1 5
-0 63 -1 1
-0 59 -1 0
-0 24 1 0
 0 1 0 1
+0 24 1 0
+0 32 1 5
 0 34 -1 1
 0 38 0 3
+0 59 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b10 gasoleo gasoleo ta1-1-gasoleo ta2-1-gasoleo
 0
 7
-0 32 2 5
-0 62 -1 1
-0 59 -1 0
-0 22 1 0
 0 9 0 1
+0 22 1 0
 0 26 -1 1
+0 32 2 5
 0 38 0 3
+0 59 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b10 gasoleo gasoleo ta1-1-gasoleo ta2-2-gasoleo
 0
 7
-0 32 2 5
-0 62 -1 1
-0 59 -1 0
-0 22 1 0
 0 11 0 1
+0 22 1 0
 0 26 -1 1
+0 32 2 5
 0 38 0 3
+0 59 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b10 gasoleo gasoleo ta1-2-gasoleo ta2-1-gasoleo
 0
 7
-0 32 2 5
-0 62 -1 1
-0 59 -1 0
-0 24 1 0
 0 9 0 1
+0 24 1 0
 0 26 -1 1
+0 32 2 5
 0 38 0 3
+0 59 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b10 gasoleo gasoleo ta1-2-gasoleo ta2-2-gasoleo
 0
 7
-0 32 2 5
-0 62 -1 1
-0 59 -1 0
-0 24 1 0
 0 11 0 1
+0 24 1 0
 0 26 -1 1
+0 32 2 5
 0 38 0 3
+0 59 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b11 gasoleo gasoleo ta1-1-gasoleo ta2-1-gasoleo
 0
 7
-0 32 3 5
-0 61 -1 1
-0 59 -1 0
-0 22 1 0
 0 9 0 1
+0 22 1 0
+0 32 3 5
 0 37 -1 1
 0 38 0 3
+0 59 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b11 gasoleo gasoleo ta1-1-gasoleo ta2-2-gasoleo
 0
 7
-0 32 3 5
-0 61 -1 1
-0 59 -1 0
-0 22 1 0
 0 11 0 1
+0 22 1 0
+0 32 3 5
 0 37 -1 1
 0 38 0 3
+0 59 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b11 gasoleo gasoleo ta1-2-gasoleo ta2-1-gasoleo
 0
 7
-0 32 3 5
-0 61 -1 1
-0 59 -1 0
-0 24 1 0
 0 9 0 1
+0 24 1 0
+0 32 3 5
 0 37 -1 1
 0 38 0 3
+0 59 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b11 gasoleo gasoleo ta1-2-gasoleo ta2-2-gasoleo
 0
 7
-0 32 3 5
-0 61 -1 1
-0 59 -1 0
-0 24 1 0
 0 11 0 1
+0 24 1 0
+0 32 3 5
 0 37 -1 1
 0 38 0 3
+0 59 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b2 gasoleo rat-a ta1-1-gasoleo ta2-1-rat-a
 0
 7
-0 32 4 5
-0 60 -1 1
-0 59 -1 0
-0 22 1 0
 0 4 0 1
+0 22 1 0
 0 25 -1 1
+0 32 4 5
 0 38 0 3
+0 59 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b2 gasoleo rat-a ta1-1-gasoleo ta2-2-rat-a
 0
 7
-0 32 4 5
-0 60 -1 1
-0 59 -1 0
-0 22 1 0
 0 5 0 1
+0 22 1 0
 0 25 -1 1
+0 32 4 5
 0 38 0 3
+0 59 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b2 gasoleo rat-a ta1-2-gasoleo ta2-1-rat-a
 0
 7
-0 32 4 5
-0 60 -1 1
-0 59 -1 0
-0 24 1 0
 0 4 0 1
+0 24 1 0
 0 25 -1 1
+0 32 4 5
 0 38 0 3
+0 59 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b2 gasoleo rat-a ta1-2-gasoleo ta2-2-rat-a
 0
 7
-0 32 4 5
-0 60 -1 1
-0 59 -1 0
-0 24 1 0
 0 5 0 1
+0 24 1 0
 0 25 -1 1
+0 32 4 5
 0 38 0 3
+0 59 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b4 gasoleo lco ta1-1-gasoleo ta2-1-lco
 0
 7
-0 32 6 5
-0 59 -1 0
-0 58 -1 1
-0 22 1 0
 0 14 0 1
+0 22 1 0
+0 32 6 5
 0 38 0 3
 0 39 -1 1
+0 58 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b4 gasoleo lco ta1-1-gasoleo ta2-2-lco
 0
 7
-0 32 6 5
-0 59 -1 0
-0 58 -1 1
-0 22 1 0
 0 15 0 1
+0 22 1 0
+0 32 6 5
 0 38 0 3
 0 39 -1 1
+0 58 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b4 gasoleo lco ta1-1-gasoleo ta2-3-lco
 0
 7
-0 32 6 5
-0 59 -1 0
-0 58 -1 1
-0 22 1 0
 0 16 0 1
+0 22 1 0
+0 32 6 5
 0 38 0 3
 0 39 -1 1
+0 58 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b4 gasoleo lco ta1-2-gasoleo ta2-1-lco
 0
 7
-0 32 6 5
-0 59 -1 0
-0 58 -1 1
-0 24 1 0
 0 14 0 1
+0 24 1 0
+0 32 6 5
 0 38 0 3
 0 39 -1 1
+0 58 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b4 gasoleo lco ta1-2-gasoleo ta2-2-lco
 0
 7
-0 32 6 5
-0 59 -1 0
-0 58 -1 1
-0 24 1 0
 0 15 0 1
+0 24 1 0
+0 32 6 5
 0 38 0 3
 0 39 -1 1
+0 58 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b4 gasoleo lco ta1-2-gasoleo ta2-3-lco
 0
 7
-0 32 6 5
-0 59 -1 0
-0 58 -1 1
-0 24 1 0
 0 16 0 1
+0 24 1 0
+0 32 6 5
 0 38 0 3
 0 39 -1 1
+0 58 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b5 gasoleo rat-a ta1-1-gasoleo ta2-1-rat-a
 0
 7
-0 32 7 5
-0 59 -1 0
-0 57 -1 1
-0 22 1 0
 0 4 0 1
-0 38 0 3
+0 22 1 0
+0 32 7 5
 0 35 -1 1
+0 38 0 3
+0 57 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b5 gasoleo rat-a ta1-1-gasoleo ta2-2-rat-a
 0
 7
-0 32 7 5
-0 59 -1 0
-0 57 -1 1
-0 22 1 0
 0 5 0 1
-0 38 0 3
+0 22 1 0
+0 32 7 5
 0 35 -1 1
+0 38 0 3
+0 57 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b5 gasoleo rat-a ta1-2-gasoleo ta2-1-rat-a
 0
 7
-0 32 7 5
-0 59 -1 0
-0 57 -1 1
-0 24 1 0
 0 4 0 1
-0 38 0 3
+0 24 1 0
+0 32 7 5
 0 35 -1 1
+0 38 0 3
+0 57 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b5 gasoleo rat-a ta1-2-gasoleo ta2-2-rat-a
 0
 7
-0 32 7 5
-0 59 -1 0
-0 57 -1 1
-0 24 1 0
 0 5 0 1
-0 38 0 3
+0 24 1 0
+0 32 7 5
 0 35 -1 1
+0 38 0 3
+0 57 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b6 gasoleo lco ta1-1-gasoleo ta2-1-lco
 0
 7
-0 32 8 5
-0 59 -1 0
-0 56 -1 1
-0 22 1 0
 0 14 0 1
-0 38 0 3
+0 22 1 0
 0 31 -1 1
+0 32 8 5
+0 38 0 3
+0 56 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b6 gasoleo lco ta1-1-gasoleo ta2-2-lco
 0
 7
-0 32 8 5
-0 59 -1 0
-0 56 -1 1
-0 22 1 0
 0 15 0 1
-0 38 0 3
+0 22 1 0
 0 31 -1 1
+0 32 8 5
+0 38 0 3
+0 56 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b6 gasoleo lco ta1-1-gasoleo ta2-3-lco
 0
 7
-0 32 8 5
-0 59 -1 0
-0 56 -1 1
-0 22 1 0
 0 16 0 1
-0 38 0 3
+0 22 1 0
 0 31 -1 1
+0 32 8 5
+0 38 0 3
+0 56 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b6 gasoleo lco ta1-2-gasoleo ta2-1-lco
 0
 7
-0 32 8 5
-0 59 -1 0
-0 56 -1 1
-0 24 1 0
 0 14 0 1
-0 38 0 3
+0 24 1 0
 0 31 -1 1
+0 32 8 5
+0 38 0 3
+0 56 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b6 gasoleo lco ta1-2-gasoleo ta2-2-lco
 0
 7
-0 32 8 5
-0 59 -1 0
-0 56 -1 1
-0 24 1 0
 0 15 0 1
-0 38 0 3
+0 24 1 0
 0 31 -1 1
+0 32 8 5
+0 38 0 3
+0 56 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b6 gasoleo lco ta1-2-gasoleo ta2-3-lco
 0
 7
-0 32 8 5
-0 59 -1 0
-0 56 -1 1
-0 24 1 0
 0 16 0 1
-0 38 0 3
+0 24 1 0
 0 31 -1 1
+0 32 8 5
+0 38 0 3
+0 56 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b7 gasoleo rat-a ta1-1-gasoleo ta2-1-rat-a
 0
 7
-0 32 9 5
-0 59 -1 0
-0 55 -1 1
-0 22 1 0
 0 4 0 1
-0 38 0 3
+0 22 1 0
+0 32 9 5
 0 36 -1 1
+0 38 0 3
+0 55 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b7 gasoleo rat-a ta1-1-gasoleo ta2-2-rat-a
 0
 7
-0 32 9 5
-0 59 -1 0
-0 55 -1 1
-0 22 1 0
 0 5 0 1
-0 38 0 3
+0 22 1 0
+0 32 9 5
 0 36 -1 1
+0 38 0 3
+0 55 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b7 gasoleo rat-a ta1-2-gasoleo ta2-1-rat-a
 0
 7
-0 32 9 5
-0 59 -1 0
-0 55 -1 1
-0 24 1 0
 0 4 0 1
-0 38 0 3
+0 24 1 0
+0 32 9 5
 0 36 -1 1
+0 38 0 3
+0 55 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b7 gasoleo rat-a ta1-2-gasoleo ta2-2-rat-a
 0
 7
-0 32 9 5
-0 59 -1 0
-0 55 -1 1
-0 24 1 0
 0 5 0 1
-0 38 0 3
+0 24 1 0
+0 32 9 5
 0 36 -1 1
+0 38 0 3
+0 55 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b8 gasoleo oc1b ta1-1-gasoleo ta2-1-oc1b
 0
 7
-0 32 10 5
-0 59 -1 0
-0 54 -1 1
-0 22 1 0
 0 0 0 1
-0 38 0 3
+0 22 1 0
 0 23 -1 1
+0 32 10 5
+0 38 0 3
+0 54 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b8 gasoleo oc1b ta1-1-gasoleo ta2-2-oc1b
 0
 7
-0 32 10 5
-0 59 -1 0
-0 54 -1 1
-0 22 1 0
 0 1 0 1
-0 38 0 3
+0 22 1 0
 0 23 -1 1
+0 32 10 5
+0 38 0 3
+0 54 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b8 gasoleo oc1b ta1-2-gasoleo ta2-1-oc1b
 0
 7
-0 32 10 5
-0 59 -1 0
-0 54 -1 1
-0 24 1 0
 0 0 0 1
-0 38 0 3
 0 23 -1 1
+0 24 1 0
+0 32 10 5
+0 38 0 3
+0 54 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b8 gasoleo oc1b ta1-2-gasoleo ta2-2-oc1b
 0
 7
-0 32 10 5
-0 59 -1 0
-0 54 -1 1
-0 24 1 0
 0 1 0 1
-0 38 0 3
 0 23 -1 1
+0 24 1 0
+0 32 10 5
+0 38 0 3
+0 54 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b9 gasoleo lco ta1-1-gasoleo ta2-1-lco
 0
 7
-0 32 11 5
-0 59 -1 0
-0 53 -1 1
-0 22 1 0
 0 14 0 1
+0 22 1 0
+0 32 11 5
 0 38 0 3
 0 40 -1 1
+0 53 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b9 gasoleo lco ta1-1-gasoleo ta2-2-lco
 0
 7
-0 32 11 5
-0 59 -1 0
-0 53 -1 1
-0 22 1 0
 0 15 0 1
+0 22 1 0
+0 32 11 5
 0 38 0 3
 0 40 -1 1
+0 53 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b9 gasoleo lco ta1-1-gasoleo ta2-3-lco
 0
 7
-0 32 11 5
-0 59 -1 0
-0 53 -1 1
-0 22 1 0
 0 16 0 1
+0 22 1 0
+0 32 11 5
 0 38 0 3
 0 40 -1 1
+0 53 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b9 gasoleo lco ta1-2-gasoleo ta2-1-lco
 0
 7
-0 32 11 5
-0 59 -1 0
-0 53 -1 1
-0 24 1 0
 0 14 0 1
+0 24 1 0
+0 32 11 5
 0 38 0 3
 0 40 -1 1
+0 53 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b9 gasoleo lco ta1-2-gasoleo ta2-2-lco
 0
 7
-0 32 11 5
-0 59 -1 0
-0 53 -1 1
-0 24 1 0
 0 15 0 1
+0 24 1 0
+0 32 11 5
 0 38 0 3
 0 40 -1 1
+0 53 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b3 a1 a2 b9 gasoleo lco ta1-2-gasoleo ta2-3-lco
 0
 7
-0 32 11 5
-0 59 -1 0
-0 53 -1 1
-0 24 1 0
 0 16 0 1
+0 24 1 0
+0 32 11 5
 0 38 0 3
 0 40 -1 1
+0 53 -1 1
+0 59 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b0 lco lco ta1-1-lco ta2-1-lco
 0
 7
-0 32 0 6
-0 64 -1 1
-0 58 -1 0
-0 27 1 0
 0 14 0 1
+0 27 1 0
 0 30 -1 1
+0 32 0 6
 0 39 0 3
+0 58 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b0 lco lco ta1-1-lco ta2-2-lco
 0
 7
-0 32 0 6
-0 64 -1 1
-0 58 -1 0
-0 27 1 0
 0 15 0 1
+0 27 1 0
 0 30 -1 1
+0 32 0 6
 0 39 0 3
+0 58 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b0 lco lco ta1-1-lco ta2-3-lco
 0
 7
-0 32 0 6
-0 64 -1 1
-0 58 -1 0
-0 27 1 0
 0 16 0 1
+0 27 1 0
 0 30 -1 1
+0 32 0 6
 0 39 0 3
+0 58 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b0 lco lco ta1-2-lco ta2-1-lco
 0
 7
-0 32 0 6
-0 64 -1 1
-0 58 -1 0
-0 28 1 0
 0 14 0 1
+0 28 1 0
 0 30 -1 1
+0 32 0 6
 0 39 0 3
+0 58 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b0 lco lco ta1-2-lco ta2-2-lco
 0
 7
-0 32 0 6
-0 64 -1 1
-0 58 -1 0
-0 28 1 0
 0 15 0 1
+0 28 1 0
 0 30 -1 1
+0 32 0 6
 0 39 0 3
+0 58 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b0 lco lco ta1-2-lco ta2-3-lco
 0
 7
-0 32 0 6
-0 64 -1 1
-0 58 -1 0
-0 28 1 0
 0 16 0 1
+0 28 1 0
 0 30 -1 1
+0 32 0 6
 0 39 0 3
+0 58 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b0 lco lco ta1-3-lco ta2-1-lco
 0
 7
-0 32 0 6
-0 64 -1 1
-0 58 -1 0
-0 29 1 0
 0 14 0 1
+0 29 1 0
 0 30 -1 1
+0 32 0 6
 0 39 0 3
+0 58 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b0 lco lco ta1-3-lco ta2-2-lco
 0
 7
-0 32 0 6
-0 64 -1 1
-0 58 -1 0
-0 29 1 0
 0 15 0 1
+0 29 1 0
 0 30 -1 1
+0 32 0 6
 0 39 0 3
+0 58 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b0 lco lco ta1-3-lco ta2-3-lco
 0
 7
-0 32 0 6
-0 64 -1 1
-0 58 -1 0
-0 29 1 0
 0 16 0 1
+0 29 1 0
 0 30 -1 1
+0 32 0 6
 0 39 0 3
+0 58 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b1 lco oc1b ta1-1-lco ta2-1-oc1b
 0
 7
-0 32 1 6
-0 63 -1 1
-0 58 -1 0
-0 27 1 0
 0 0 0 1
+0 27 1 0
+0 32 1 6
 0 34 -1 1
 0 39 0 3
+0 58 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b1 lco oc1b ta1-1-lco ta2-2-oc1b
 0
 7
-0 32 1 6
-0 63 -1 1
-0 58 -1 0
-0 27 1 0
 0 1 0 1
+0 27 1 0
+0 32 1 6
 0 34 -1 1
 0 39 0 3
+0 58 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b1 lco oc1b ta1-2-lco ta2-1-oc1b
 0
 7
-0 32 1 6
-0 63 -1 1
-0 58 -1 0
-0 28 1 0
 0 0 0 1
+0 28 1 0
+0 32 1 6
 0 34 -1 1
 0 39 0 3
+0 58 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b1 lco oc1b ta1-2-lco ta2-2-oc1b
 0
 7
-0 32 1 6
-0 63 -1 1
-0 58 -1 0
-0 28 1 0
 0 1 0 1
+0 28 1 0
+0 32 1 6
 0 34 -1 1
 0 39 0 3
+0 58 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b1 lco oc1b ta1-3-lco ta2-1-oc1b
 0
 7
-0 32 1 6
-0 63 -1 1
-0 58 -1 0
-0 29 1 0
 0 0 0 1
+0 29 1 0
+0 32 1 6
 0 34 -1 1
 0 39 0 3
+0 58 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b1 lco oc1b ta1-3-lco ta2-2-oc1b
 0
 7
-0 32 1 6
-0 63 -1 1
-0 58 -1 0
-0 29 1 0
 0 1 0 1
+0 29 1 0
+0 32 1 6
 0 34 -1 1
 0 39 0 3
+0 58 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b10 lco gasoleo ta1-1-lco ta2-1-gasoleo
 0
 7
-0 32 2 6
-0 62 -1 1
-0 58 -1 0
-0 27 1 0
 0 9 0 1
 0 26 -1 1
+0 27 1 0
+0 32 2 6
 0 39 0 3
+0 58 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b10 lco gasoleo ta1-1-lco ta2-2-gasoleo
 0
 7
-0 32 2 6
-0 62 -1 1
-0 58 -1 0
-0 27 1 0
 0 11 0 1
 0 26 -1 1
+0 27 1 0
+0 32 2 6
 0 39 0 3
+0 58 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b10 lco gasoleo ta1-2-lco ta2-1-gasoleo
 0
 7
-0 32 2 6
-0 62 -1 1
-0 58 -1 0
-0 28 1 0
 0 9 0 1
 0 26 -1 1
+0 28 1 0
+0 32 2 6
 0 39 0 3
+0 58 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b10 lco gasoleo ta1-2-lco ta2-2-gasoleo
 0
 7
-0 32 2 6
-0 62 -1 1
-0 58 -1 0
-0 28 1 0
 0 11 0 1
 0 26 -1 1
+0 28 1 0
+0 32 2 6
 0 39 0 3
+0 58 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b10 lco gasoleo ta1-3-lco ta2-1-gasoleo
 0
 7
-0 32 2 6
-0 62 -1 1
-0 58 -1 0
-0 29 1 0
 0 9 0 1
 0 26 -1 1
+0 29 1 0
+0 32 2 6
 0 39 0 3
+0 58 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b10 lco gasoleo ta1-3-lco ta2-2-gasoleo
 0
 7
-0 32 2 6
-0 62 -1 1
-0 58 -1 0
-0 29 1 0
 0 11 0 1
 0 26 -1 1
+0 29 1 0
+0 32 2 6
 0 39 0 3
+0 58 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b11 lco gasoleo ta1-1-lco ta2-1-gasoleo
 0
 7
-0 32 3 6
-0 61 -1 1
-0 58 -1 0
-0 27 1 0
 0 9 0 1
+0 27 1 0
+0 32 3 6
 0 37 -1 1
 0 39 0 3
+0 58 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b11 lco gasoleo ta1-1-lco ta2-2-gasoleo
 0
 7
-0 32 3 6
-0 61 -1 1
-0 58 -1 0
-0 27 1 0
 0 11 0 1
+0 27 1 0
+0 32 3 6
 0 37 -1 1
 0 39 0 3
+0 58 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b11 lco gasoleo ta1-2-lco ta2-1-gasoleo
 0
 7
-0 32 3 6
-0 61 -1 1
-0 58 -1 0
-0 28 1 0
 0 9 0 1
+0 28 1 0
+0 32 3 6
 0 37 -1 1
 0 39 0 3
+0 58 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b11 lco gasoleo ta1-2-lco ta2-2-gasoleo
 0
 7
-0 32 3 6
-0 61 -1 1
-0 58 -1 0
-0 28 1 0
 0 11 0 1
+0 28 1 0
+0 32 3 6
 0 37 -1 1
 0 39 0 3
+0 58 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b11 lco gasoleo ta1-3-lco ta2-1-gasoleo
 0
 7
-0 32 3 6
-0 61 -1 1
-0 58 -1 0
-0 29 1 0
 0 9 0 1
+0 29 1 0
+0 32 3 6
 0 37 -1 1
 0 39 0 3
+0 58 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b11 lco gasoleo ta1-3-lco ta2-2-gasoleo
 0
 7
-0 32 3 6
-0 61 -1 1
-0 58 -1 0
-0 29 1 0
 0 11 0 1
+0 29 1 0
+0 32 3 6
 0 37 -1 1
 0 39 0 3
+0 58 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b2 lco rat-a ta1-1-lco ta2-1-rat-a
 0
 7
-0 32 4 6
-0 60 -1 1
-0 58 -1 0
-0 27 1 0
 0 4 0 1
 0 25 -1 1
+0 27 1 0
+0 32 4 6
 0 39 0 3
+0 58 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b2 lco rat-a ta1-1-lco ta2-2-rat-a
 0
 7
-0 32 4 6
-0 60 -1 1
-0 58 -1 0
-0 27 1 0
 0 5 0 1
 0 25 -1 1
+0 27 1 0
+0 32 4 6
 0 39 0 3
+0 58 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b2 lco rat-a ta1-2-lco ta2-1-rat-a
 0
 7
-0 32 4 6
-0 60 -1 1
-0 58 -1 0
-0 28 1 0
 0 4 0 1
 0 25 -1 1
+0 28 1 0
+0 32 4 6
 0 39 0 3
+0 58 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b2 lco rat-a ta1-2-lco ta2-2-rat-a
 0
 7
-0 32 4 6
-0 60 -1 1
-0 58 -1 0
-0 28 1 0
 0 5 0 1
 0 25 -1 1
+0 28 1 0
+0 32 4 6
 0 39 0 3
+0 58 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b2 lco rat-a ta1-3-lco ta2-1-rat-a
 0
 7
-0 32 4 6
-0 60 -1 1
-0 58 -1 0
-0 29 1 0
 0 4 0 1
 0 25 -1 1
+0 29 1 0
+0 32 4 6
 0 39 0 3
+0 58 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b2 lco rat-a ta1-3-lco ta2-2-rat-a
 0
 7
-0 32 4 6
-0 60 -1 1
-0 58 -1 0
-0 29 1 0
 0 5 0 1
 0 25 -1 1
+0 29 1 0
+0 32 4 6
 0 39 0 3
+0 58 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b3 lco gasoleo ta1-1-lco ta2-1-gasoleo
 0
 7
-0 32 5 6
-0 59 -1 1
-0 58 -1 0
-0 27 1 0
 0 9 0 1
+0 27 1 0
+0 32 5 6
 0 38 -1 1
 0 39 0 3
+0 58 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b3 lco gasoleo ta1-1-lco ta2-2-gasoleo
 0
 7
-0 32 5 6
-0 59 -1 1
-0 58 -1 0
-0 27 1 0
 0 11 0 1
+0 27 1 0
+0 32 5 6
 0 38 -1 1
 0 39 0 3
+0 58 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b3 lco gasoleo ta1-2-lco ta2-1-gasoleo
 0
 7
-0 32 5 6
-0 59 -1 1
-0 58 -1 0
-0 28 1 0
 0 9 0 1
+0 28 1 0
+0 32 5 6
 0 38 -1 1
 0 39 0 3
+0 58 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b3 lco gasoleo ta1-2-lco ta2-2-gasoleo
 0
 7
-0 32 5 6
-0 59 -1 1
-0 58 -1 0
-0 28 1 0
 0 11 0 1
+0 28 1 0
+0 32 5 6
 0 38 -1 1
 0 39 0 3
+0 58 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b3 lco gasoleo ta1-3-lco ta2-1-gasoleo
 0
 7
-0 32 5 6
-0 59 -1 1
-0 58 -1 0
-0 29 1 0
 0 9 0 1
+0 29 1 0
+0 32 5 6
 0 38 -1 1
 0 39 0 3
+0 58 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b3 lco gasoleo ta1-3-lco ta2-2-gasoleo
 0
 7
-0 32 5 6
-0 59 -1 1
-0 58 -1 0
-0 29 1 0
 0 11 0 1
+0 29 1 0
+0 32 5 6
 0 38 -1 1
 0 39 0 3
+0 58 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b5 lco rat-a ta1-1-lco ta2-1-rat-a
 0
 7
-0 32 7 6
-0 58 -1 0
-0 57 -1 1
-0 27 1 0
 0 4 0 1
-0 39 0 3
+0 27 1 0
+0 32 7 6
 0 35 -1 1
+0 39 0 3
+0 57 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b5 lco rat-a ta1-1-lco ta2-2-rat-a
 0
 7
-0 32 7 6
-0 58 -1 0
-0 57 -1 1
-0 27 1 0
 0 5 0 1
-0 39 0 3
+0 27 1 0
+0 32 7 6
 0 35 -1 1
+0 39 0 3
+0 57 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b5 lco rat-a ta1-2-lco ta2-1-rat-a
 0
 7
-0 32 7 6
-0 58 -1 0
-0 57 -1 1
-0 28 1 0
 0 4 0 1
-0 39 0 3
+0 28 1 0
+0 32 7 6
 0 35 -1 1
+0 39 0 3
+0 57 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b5 lco rat-a ta1-2-lco ta2-2-rat-a
 0
 7
-0 32 7 6
-0 58 -1 0
-0 57 -1 1
-0 28 1 0
 0 5 0 1
-0 39 0 3
+0 28 1 0
+0 32 7 6
 0 35 -1 1
+0 39 0 3
+0 57 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b5 lco rat-a ta1-3-lco ta2-1-rat-a
 0
 7
-0 32 7 6
-0 58 -1 0
-0 57 -1 1
-0 29 1 0
 0 4 0 1
-0 39 0 3
+0 29 1 0
+0 32 7 6
 0 35 -1 1
+0 39 0 3
+0 57 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b5 lco rat-a ta1-3-lco ta2-2-rat-a
 0
 7
-0 32 7 6
-0 58 -1 0
-0 57 -1 1
-0 29 1 0
 0 5 0 1
-0 39 0 3
+0 29 1 0
+0 32 7 6
 0 35 -1 1
+0 39 0 3
+0 57 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b6 lco lco ta1-1-lco ta2-1-lco
 0
 7
-0 32 8 6
-0 58 -1 0
-0 56 -1 1
-0 27 1 0
 0 14 0 1
-0 39 0 3
+0 27 1 0
 0 31 -1 1
+0 32 8 6
+0 39 0 3
+0 56 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b6 lco lco ta1-1-lco ta2-2-lco
 0
 7
-0 32 8 6
-0 58 -1 0
-0 56 -1 1
-0 27 1 0
 0 15 0 1
-0 39 0 3
+0 27 1 0
 0 31 -1 1
+0 32 8 6
+0 39 0 3
+0 56 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b6 lco lco ta1-1-lco ta2-3-lco
 0
 7
-0 32 8 6
-0 58 -1 0
-0 56 -1 1
-0 27 1 0
 0 16 0 1
-0 39 0 3
+0 27 1 0
 0 31 -1 1
+0 32 8 6
+0 39 0 3
+0 56 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b6 lco lco ta1-2-lco ta2-1-lco
 0
 7
-0 32 8 6
-0 58 -1 0
-0 56 -1 1
-0 28 1 0
 0 14 0 1
-0 39 0 3
+0 28 1 0
 0 31 -1 1
+0 32 8 6
+0 39 0 3
+0 56 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b6 lco lco ta1-2-lco ta2-2-lco
 0
 7
-0 32 8 6
-0 58 -1 0
-0 56 -1 1
-0 28 1 0
 0 15 0 1
-0 39 0 3
+0 28 1 0
 0 31 -1 1
+0 32 8 6
+0 39 0 3
+0 56 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b6 lco lco ta1-2-lco ta2-3-lco
 0
 7
-0 32 8 6
-0 58 -1 0
-0 56 -1 1
-0 28 1 0
 0 16 0 1
-0 39 0 3
+0 28 1 0
 0 31 -1 1
+0 32 8 6
+0 39 0 3
+0 56 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b6 lco lco ta1-3-lco ta2-1-lco
 0
 7
-0 32 8 6
-0 58 -1 0
-0 56 -1 1
-0 29 1 0
 0 14 0 1
-0 39 0 3
+0 29 1 0
 0 31 -1 1
+0 32 8 6
+0 39 0 3
+0 56 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b6 lco lco ta1-3-lco ta2-2-lco
 0
 7
-0 32 8 6
-0 58 -1 0
-0 56 -1 1
-0 29 1 0
 0 15 0 1
-0 39 0 3
+0 29 1 0
 0 31 -1 1
+0 32 8 6
+0 39 0 3
+0 56 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b6 lco lco ta1-3-lco ta2-3-lco
 0
 7
-0 32 8 6
-0 58 -1 0
-0 56 -1 1
-0 29 1 0
 0 16 0 1
-0 39 0 3
+0 29 1 0
 0 31 -1 1
+0 32 8 6
+0 39 0 3
+0 56 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b7 lco rat-a ta1-1-lco ta2-1-rat-a
 0
 7
-0 32 9 6
-0 58 -1 0
-0 55 -1 1
-0 27 1 0
 0 4 0 1
-0 39 0 3
+0 27 1 0
+0 32 9 6
 0 36 -1 1
+0 39 0 3
+0 55 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b7 lco rat-a ta1-1-lco ta2-2-rat-a
 0
 7
-0 32 9 6
-0 58 -1 0
-0 55 -1 1
-0 27 1 0
 0 5 0 1
-0 39 0 3
+0 27 1 0
+0 32 9 6
 0 36 -1 1
+0 39 0 3
+0 55 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b7 lco rat-a ta1-2-lco ta2-1-rat-a
 0
 7
-0 32 9 6
-0 58 -1 0
-0 55 -1 1
-0 28 1 0
 0 4 0 1
-0 39 0 3
+0 28 1 0
+0 32 9 6
 0 36 -1 1
+0 39 0 3
+0 55 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b7 lco rat-a ta1-2-lco ta2-2-rat-a
 0
 7
-0 32 9 6
-0 58 -1 0
-0 55 -1 1
-0 28 1 0
 0 5 0 1
-0 39 0 3
+0 28 1 0
+0 32 9 6
 0 36 -1 1
+0 39 0 3
+0 55 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b7 lco rat-a ta1-3-lco ta2-1-rat-a
 0
 7
-0 32 9 6
-0 58 -1 0
-0 55 -1 1
-0 29 1 0
 0 4 0 1
-0 39 0 3
+0 29 1 0
+0 32 9 6
 0 36 -1 1
+0 39 0 3
+0 55 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b7 lco rat-a ta1-3-lco ta2-2-rat-a
 0
 7
-0 32 9 6
-0 58 -1 0
-0 55 -1 1
-0 29 1 0
 0 5 0 1
-0 39 0 3
+0 29 1 0
+0 32 9 6
 0 36 -1 1
+0 39 0 3
+0 55 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b8 lco oc1b ta1-1-lco ta2-1-oc1b
 0
 7
-0 32 10 6
-0 58 -1 0
-0 54 -1 1
-0 27 1 0
 0 0 0 1
-0 39 0 3
 0 23 -1 1
+0 27 1 0
+0 32 10 6
+0 39 0 3
+0 54 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b8 lco oc1b ta1-1-lco ta2-2-oc1b
 0
 7
-0 32 10 6
-0 58 -1 0
-0 54 -1 1
-0 27 1 0
 0 1 0 1
-0 39 0 3
 0 23 -1 1
+0 27 1 0
+0 32 10 6
+0 39 0 3
+0 54 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b8 lco oc1b ta1-2-lco ta2-1-oc1b
 0
 7
-0 32 10 6
-0 58 -1 0
-0 54 -1 1
-0 28 1 0
 0 0 0 1
-0 39 0 3
 0 23 -1 1
+0 28 1 0
+0 32 10 6
+0 39 0 3
+0 54 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b8 lco oc1b ta1-2-lco ta2-2-oc1b
 0
 7
-0 32 10 6
-0 58 -1 0
-0 54 -1 1
-0 28 1 0
 0 1 0 1
-0 39 0 3
 0 23 -1 1
+0 28 1 0
+0 32 10 6
+0 39 0 3
+0 54 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b8 lco oc1b ta1-3-lco ta2-1-oc1b
 0
 7
-0 32 10 6
-0 58 -1 0
-0 54 -1 1
-0 29 1 0
 0 0 0 1
-0 39 0 3
 0 23 -1 1
+0 29 1 0
+0 32 10 6
+0 39 0 3
+0 54 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b8 lco oc1b ta1-3-lco ta2-2-oc1b
 0
 7
-0 32 10 6
-0 58 -1 0
-0 54 -1 1
-0 29 1 0
 0 1 0 1
-0 39 0 3
 0 23 -1 1
+0 29 1 0
+0 32 10 6
+0 39 0 3
+0 54 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b9 lco lco ta1-1-lco ta2-1-lco
 0
 7
-0 32 11 6
-0 58 -1 0
-0 53 -1 1
-0 27 1 0
 0 14 0 1
+0 27 1 0
+0 32 11 6
 0 39 0 3
 0 40 -1 1
+0 53 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b9 lco lco ta1-1-lco ta2-2-lco
 0
 7
-0 32 11 6
-0 58 -1 0
-0 53 -1 1
-0 27 1 0
 0 15 0 1
+0 27 1 0
+0 32 11 6
 0 39 0 3
 0 40 -1 1
+0 53 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b9 lco lco ta1-1-lco ta2-3-lco
 0
 7
-0 32 11 6
-0 58 -1 0
-0 53 -1 1
-0 27 1 0
 0 16 0 1
+0 27 1 0
+0 32 11 6
 0 39 0 3
 0 40 -1 1
+0 53 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b9 lco lco ta1-2-lco ta2-1-lco
 0
 7
-0 32 11 6
-0 58 -1 0
-0 53 -1 1
-0 28 1 0
 0 14 0 1
+0 28 1 0
+0 32 11 6
 0 39 0 3
 0 40 -1 1
+0 53 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b9 lco lco ta1-2-lco ta2-2-lco
 0
 7
-0 32 11 6
-0 58 -1 0
-0 53 -1 1
-0 28 1 0
 0 15 0 1
+0 28 1 0
+0 32 11 6
 0 39 0 3
 0 40 -1 1
+0 53 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b9 lco lco ta1-2-lco ta2-3-lco
 0
 7
-0 32 11 6
-0 58 -1 0
-0 53 -1 1
-0 28 1 0
 0 16 0 1
+0 28 1 0
+0 32 11 6
 0 39 0 3
 0 40 -1 1
+0 53 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b9 lco lco ta1-3-lco ta2-1-lco
 0
 7
-0 32 11 6
-0 58 -1 0
-0 53 -1 1
-0 29 1 0
 0 14 0 1
+0 29 1 0
+0 32 11 6
 0 39 0 3
 0 40 -1 1
+0 53 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b9 lco lco ta1-3-lco ta2-2-lco
 0
 7
-0 32 11 6
-0 58 -1 0
-0 53 -1 1
-0 29 1 0
 0 15 0 1
+0 29 1 0
+0 32 11 6
 0 39 0 3
 0 40 -1 1
+0 53 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b4 a1 a2 b9 lco lco ta1-3-lco ta2-3-lco
 0
 7
-0 32 11 6
-0 58 -1 0
-0 53 -1 1
-0 29 1 0
 0 16 0 1
+0 29 1 0
+0 32 11 6
 0 39 0 3
 0 40 -1 1
+0 53 -1 1
+0 58 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b0 rat-a lco ta1-1-rat-a ta2-1-lco
 0
 7
-0 32 0 7
-0 64 -1 1
-0 57 -1 0
-0 19 1 0
 0 14 0 1
+0 19 1 0
 0 30 -1 1
+0 32 0 7
 0 35 0 3
+0 57 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b0 rat-a lco ta1-1-rat-a ta2-2-lco
 0
 7
-0 32 0 7
-0 64 -1 1
-0 57 -1 0
-0 19 1 0
 0 15 0 1
+0 19 1 0
 0 30 -1 1
+0 32 0 7
 0 35 0 3
+0 57 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b0 rat-a lco ta1-1-rat-a ta2-3-lco
 0
 7
-0 32 0 7
-0 64 -1 1
-0 57 -1 0
-0 19 1 0
 0 16 0 1
+0 19 1 0
 0 30 -1 1
+0 32 0 7
 0 35 0 3
+0 57 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b0 rat-a lco ta1-2-rat-a ta2-1-lco
 0
 7
-0 32 0 7
-0 64 -1 1
-0 57 -1 0
-0 21 1 0
 0 14 0 1
+0 21 1 0
 0 30 -1 1
+0 32 0 7
 0 35 0 3
+0 57 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b0 rat-a lco ta1-2-rat-a ta2-2-lco
 0
 7
-0 32 0 7
-0 64 -1 1
-0 57 -1 0
-0 21 1 0
 0 15 0 1
+0 21 1 0
 0 30 -1 1
+0 32 0 7
 0 35 0 3
+0 57 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b0 rat-a lco ta1-2-rat-a ta2-3-lco
 0
 7
-0 32 0 7
-0 64 -1 1
-0 57 -1 0
-0 21 1 0
 0 16 0 1
+0 21 1 0
 0 30 -1 1
+0 32 0 7
 0 35 0 3
+0 57 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b10 rat-a gasoleo ta1-1-rat-a ta2-1-gasoleo
 0
 7
-0 32 2 7
-0 62 -1 1
-0 57 -1 0
-0 19 1 0
 0 9 0 1
+0 19 1 0
 0 26 -1 1
+0 32 2 7
 0 35 0 3
+0 57 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b10 rat-a gasoleo ta1-1-rat-a ta2-2-gasoleo
 0
 7
-0 32 2 7
-0 62 -1 1
-0 57 -1 0
-0 19 1 0
 0 11 0 1
+0 19 1 0
 0 26 -1 1
+0 32 2 7
 0 35 0 3
+0 57 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b10 rat-a gasoleo ta1-2-rat-a ta2-1-gasoleo
 0
 7
-0 32 2 7
-0 62 -1 1
-0 57 -1 0
-0 21 1 0
 0 9 0 1
+0 21 1 0
 0 26 -1 1
+0 32 2 7
 0 35 0 3
+0 57 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b10 rat-a gasoleo ta1-2-rat-a ta2-2-gasoleo
 0
 7
-0 32 2 7
-0 62 -1 1
-0 57 -1 0
-0 21 1 0
 0 11 0 1
+0 21 1 0
 0 26 -1 1
+0 32 2 7
 0 35 0 3
+0 57 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b11 rat-a gasoleo ta1-1-rat-a ta2-1-gasoleo
 0
 7
-0 32 3 7
-0 61 -1 1
-0 57 -1 0
-0 19 1 0
 0 9 0 1
-0 37 -1 1
+0 19 1 0
+0 32 3 7
 0 35 0 3
+0 37 -1 1
+0 57 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b11 rat-a gasoleo ta1-1-rat-a ta2-2-gasoleo
 0
 7
-0 32 3 7
-0 61 -1 1
-0 57 -1 0
-0 19 1 0
 0 11 0 1
-0 37 -1 1
+0 19 1 0
+0 32 3 7
 0 35 0 3
+0 37 -1 1
+0 57 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b11 rat-a gasoleo ta1-2-rat-a ta2-1-gasoleo
 0
 7
-0 32 3 7
-0 61 -1 1
-0 57 -1 0
-0 21 1 0
 0 9 0 1
-0 37 -1 1
+0 21 1 0
+0 32 3 7
 0 35 0 3
+0 37 -1 1
+0 57 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b11 rat-a gasoleo ta1-2-rat-a ta2-2-gasoleo
 0
 7
-0 32 3 7
-0 61 -1 1
-0 57 -1 0
-0 21 1 0
 0 11 0 1
-0 37 -1 1
+0 21 1 0
+0 32 3 7
 0 35 0 3
+0 37 -1 1
+0 57 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b2 rat-a rat-a ta1-1-rat-a ta2-1-rat-a
 0
 7
-0 32 4 7
-0 60 -1 1
-0 57 -1 0
-0 19 1 0
 0 4 0 1
+0 19 1 0
 0 25 -1 1
+0 32 4 7
 0 35 0 3
+0 57 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b2 rat-a rat-a ta1-1-rat-a ta2-2-rat-a
 0
 7
-0 32 4 7
-0 60 -1 1
-0 57 -1 0
-0 19 1 0
 0 5 0 1
+0 19 1 0
 0 25 -1 1
+0 32 4 7
 0 35 0 3
+0 57 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b2 rat-a rat-a ta1-2-rat-a ta2-1-rat-a
 0
 7
-0 32 4 7
-0 60 -1 1
-0 57 -1 0
-0 21 1 0
 0 4 0 1
+0 21 1 0
 0 25 -1 1
+0 32 4 7
 0 35 0 3
+0 57 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b2 rat-a rat-a ta1-2-rat-a ta2-2-rat-a
 0
 7
-0 32 4 7
-0 60 -1 1
-0 57 -1 0
-0 21 1 0
 0 5 0 1
+0 21 1 0
 0 25 -1 1
+0 32 4 7
 0 35 0 3
+0 57 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b3 rat-a gasoleo ta1-1-rat-a ta2-1-gasoleo
 0
 7
-0 32 5 7
-0 59 -1 1
-0 57 -1 0
-0 19 1 0
 0 9 0 1
-0 38 -1 1
+0 19 1 0
+0 32 5 7
 0 35 0 3
+0 38 -1 1
+0 57 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b3 rat-a gasoleo ta1-1-rat-a ta2-2-gasoleo
 0
 7
-0 32 5 7
-0 59 -1 1
-0 57 -1 0
-0 19 1 0
 0 11 0 1
-0 38 -1 1
+0 19 1 0
+0 32 5 7
 0 35 0 3
+0 38 -1 1
+0 57 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b3 rat-a gasoleo ta1-2-rat-a ta2-1-gasoleo
 0
 7
-0 32 5 7
-0 59 -1 1
-0 57 -1 0
-0 21 1 0
 0 9 0 1
-0 38 -1 1
+0 21 1 0
+0 32 5 7
 0 35 0 3
+0 38 -1 1
+0 57 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b3 rat-a gasoleo ta1-2-rat-a ta2-2-gasoleo
 0
 7
-0 32 5 7
-0 59 -1 1
-0 57 -1 0
-0 21 1 0
 0 11 0 1
-0 38 -1 1
+0 21 1 0
+0 32 5 7
 0 35 0 3
+0 38 -1 1
+0 57 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b4 rat-a lco ta1-1-rat-a ta2-1-lco
 0
 7
-0 32 6 7
-0 58 -1 1
-0 57 -1 0
-0 19 1 0
 0 14 0 1
-0 39 -1 1
+0 19 1 0
+0 32 6 7
 0 35 0 3
+0 39 -1 1
+0 57 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b4 rat-a lco ta1-1-rat-a ta2-2-lco
 0
 7
-0 32 6 7
-0 58 -1 1
-0 57 -1 0
-0 19 1 0
 0 15 0 1
-0 39 -1 1
+0 19 1 0
+0 32 6 7
 0 35 0 3
+0 39 -1 1
+0 57 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b4 rat-a lco ta1-1-rat-a ta2-3-lco
 0
 7
-0 32 6 7
-0 58 -1 1
-0 57 -1 0
-0 19 1 0
 0 16 0 1
-0 39 -1 1
+0 19 1 0
+0 32 6 7
 0 35 0 3
+0 39 -1 1
+0 57 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b4 rat-a lco ta1-2-rat-a ta2-1-lco
 0
 7
-0 32 6 7
-0 58 -1 1
-0 57 -1 0
-0 21 1 0
 0 14 0 1
-0 39 -1 1
+0 21 1 0
+0 32 6 7
 0 35 0 3
+0 39 -1 1
+0 57 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b4 rat-a lco ta1-2-rat-a ta2-2-lco
 0
 7
-0 32 6 7
-0 58 -1 1
-0 57 -1 0
-0 21 1 0
 0 15 0 1
-0 39 -1 1
+0 21 1 0
+0 32 6 7
 0 35 0 3
+0 39 -1 1
+0 57 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b4 rat-a lco ta1-2-rat-a ta2-3-lco
 0
 7
-0 32 6 7
-0 58 -1 1
-0 57 -1 0
-0 21 1 0
 0 16 0 1
-0 39 -1 1
+0 21 1 0
+0 32 6 7
 0 35 0 3
+0 39 -1 1
+0 57 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b6 rat-a lco ta1-1-rat-a ta2-1-lco
 0
 7
-0 32 8 7
-0 57 -1 0
-0 56 -1 1
-0 19 1 0
 0 14 0 1
-0 35 0 3
+0 19 1 0
 0 31 -1 1
+0 32 8 7
+0 35 0 3
+0 56 -1 1
+0 57 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b6 rat-a lco ta1-1-rat-a ta2-2-lco
 0
 7
-0 32 8 7
-0 57 -1 0
-0 56 -1 1
-0 19 1 0
 0 15 0 1
-0 35 0 3
+0 19 1 0
 0 31 -1 1
+0 32 8 7
+0 35 0 3
+0 56 -1 1
+0 57 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b6 rat-a lco ta1-1-rat-a ta2-3-lco
 0
 7
-0 32 8 7
-0 57 -1 0
-0 56 -1 1
-0 19 1 0
 0 16 0 1
-0 35 0 3
+0 19 1 0
 0 31 -1 1
+0 32 8 7
+0 35 0 3
+0 56 -1 1
+0 57 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b6 rat-a lco ta1-2-rat-a ta2-1-lco
 0
 7
-0 32 8 7
-0 57 -1 0
-0 56 -1 1
-0 21 1 0
 0 14 0 1
-0 35 0 3
+0 21 1 0
 0 31 -1 1
+0 32 8 7
+0 35 0 3
+0 56 -1 1
+0 57 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b6 rat-a lco ta1-2-rat-a ta2-2-lco
 0
 7
-0 32 8 7
-0 57 -1 0
-0 56 -1 1
-0 21 1 0
 0 15 0 1
-0 35 0 3
+0 21 1 0
 0 31 -1 1
+0 32 8 7
+0 35 0 3
+0 56 -1 1
+0 57 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b6 rat-a lco ta1-2-rat-a ta2-3-lco
 0
 7
-0 32 8 7
-0 57 -1 0
-0 56 -1 1
-0 21 1 0
 0 16 0 1
-0 35 0 3
+0 21 1 0
 0 31 -1 1
+0 32 8 7
+0 35 0 3
+0 56 -1 1
+0 57 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b7 rat-a rat-a ta1-1-rat-a ta2-1-rat-a
 0
 7
-0 32 9 7
-0 57 -1 0
-0 55 -1 1
-0 19 1 0
 0 4 0 1
+0 19 1 0
+0 32 9 7
 0 35 0 3
 0 36 -1 1
+0 55 -1 1
+0 57 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b7 rat-a rat-a ta1-1-rat-a ta2-2-rat-a
 0
 7
-0 32 9 7
-0 57 -1 0
-0 55 -1 1
-0 19 1 0
 0 5 0 1
+0 19 1 0
+0 32 9 7
 0 35 0 3
 0 36 -1 1
+0 55 -1 1
+0 57 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b7 rat-a rat-a ta1-2-rat-a ta2-1-rat-a
 0
 7
-0 32 9 7
-0 57 -1 0
-0 55 -1 1
-0 21 1 0
 0 4 0 1
+0 21 1 0
+0 32 9 7
 0 35 0 3
 0 36 -1 1
+0 55 -1 1
+0 57 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b7 rat-a rat-a ta1-2-rat-a ta2-2-rat-a
 0
 7
-0 32 9 7
-0 57 -1 0
-0 55 -1 1
-0 21 1 0
 0 5 0 1
+0 21 1 0
+0 32 9 7
 0 35 0 3
 0 36 -1 1
+0 55 -1 1
+0 57 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b9 rat-a lco ta1-1-rat-a ta2-1-lco
 0
 7
-0 32 11 7
-0 57 -1 0
-0 53 -1 1
-0 19 1 0
 0 14 0 1
+0 19 1 0
+0 32 11 7
 0 35 0 3
 0 40 -1 1
+0 53 -1 1
+0 57 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b9 rat-a lco ta1-1-rat-a ta2-2-lco
 0
 7
-0 32 11 7
-0 57 -1 0
-0 53 -1 1
-0 19 1 0
 0 15 0 1
+0 19 1 0
+0 32 11 7
 0 35 0 3
 0 40 -1 1
+0 53 -1 1
+0 57 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b9 rat-a lco ta1-1-rat-a ta2-3-lco
 0
 7
-0 32 11 7
-0 57 -1 0
-0 53 -1 1
-0 19 1 0
 0 16 0 1
+0 19 1 0
+0 32 11 7
 0 35 0 3
 0 40 -1 1
+0 53 -1 1
+0 57 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b9 rat-a lco ta1-2-rat-a ta2-1-lco
 0
 7
-0 32 11 7
-0 57 -1 0
-0 53 -1 1
-0 21 1 0
 0 14 0 1
+0 21 1 0
+0 32 11 7
 0 35 0 3
 0 40 -1 1
+0 53 -1 1
+0 57 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b9 rat-a lco ta1-2-rat-a ta2-2-lco
 0
 7
-0 32 11 7
-0 57 -1 0
-0 53 -1 1
-0 21 1 0
 0 15 0 1
+0 21 1 0
+0 32 11 7
 0 35 0 3
 0 40 -1 1
+0 53 -1 1
+0 57 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b5 a1 a2 b9 rat-a lco ta1-2-rat-a ta2-3-lco
 0
 7
-0 32 11 7
-0 57 -1 0
-0 53 -1 1
-0 21 1 0
 0 16 0 1
+0 21 1 0
+0 32 11 7
 0 35 0 3
 0 40 -1 1
+0 53 -1 1
+0 57 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b0 lco lco ta1-1-lco ta2-1-lco
 0
 7
-0 32 0 8
-0 64 -1 1
-0 56 -1 0
-0 27 1 0
 0 14 0 1
+0 27 1 0
 0 30 -1 1
 0 31 0 3
+0 32 0 8
+0 56 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b0 lco lco ta1-1-lco ta2-2-lco
 0
 7
-0 32 0 8
-0 64 -1 1
-0 56 -1 0
-0 27 1 0
 0 15 0 1
+0 27 1 0
 0 30 -1 1
 0 31 0 3
+0 32 0 8
+0 56 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b0 lco lco ta1-1-lco ta2-3-lco
 0
 7
-0 32 0 8
-0 64 -1 1
-0 56 -1 0
-0 27 1 0
 0 16 0 1
+0 27 1 0
 0 30 -1 1
 0 31 0 3
+0 32 0 8
+0 56 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b0 lco lco ta1-2-lco ta2-1-lco
 0
 7
-0 32 0 8
-0 64 -1 1
-0 56 -1 0
-0 28 1 0
 0 14 0 1
+0 28 1 0
 0 30 -1 1
 0 31 0 3
+0 32 0 8
+0 56 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b0 lco lco ta1-2-lco ta2-2-lco
 0
 7
-0 32 0 8
-0 64 -1 1
-0 56 -1 0
-0 28 1 0
 0 15 0 1
+0 28 1 0
 0 30 -1 1
 0 31 0 3
+0 32 0 8
+0 56 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b0 lco lco ta1-2-lco ta2-3-lco
 0
 7
-0 32 0 8
-0 64 -1 1
-0 56 -1 0
-0 28 1 0
 0 16 0 1
+0 28 1 0
 0 30 -1 1
 0 31 0 3
+0 32 0 8
+0 56 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b0 lco lco ta1-3-lco ta2-1-lco
 0
 7
-0 32 0 8
-0 64 -1 1
-0 56 -1 0
-0 29 1 0
 0 14 0 1
+0 29 1 0
 0 30 -1 1
 0 31 0 3
+0 32 0 8
+0 56 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b0 lco lco ta1-3-lco ta2-2-lco
 0
 7
-0 32 0 8
-0 64 -1 1
-0 56 -1 0
-0 29 1 0
 0 15 0 1
+0 29 1 0
 0 30 -1 1
 0 31 0 3
+0 32 0 8
+0 56 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b0 lco lco ta1-3-lco ta2-3-lco
 0
 7
-0 32 0 8
-0 64 -1 1
-0 56 -1 0
-0 29 1 0
 0 16 0 1
+0 29 1 0
 0 30 -1 1
 0 31 0 3
+0 32 0 8
+0 56 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b1 lco oc1b ta1-1-lco ta2-1-oc1b
 0
 7
-0 32 1 8
-0 63 -1 1
-0 56 -1 0
-0 27 1 0
 0 0 0 1
-0 34 -1 1
+0 27 1 0
 0 31 0 3
+0 32 1 8
+0 34 -1 1
+0 56 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b1 lco oc1b ta1-1-lco ta2-2-oc1b
 0
 7
-0 32 1 8
-0 63 -1 1
-0 56 -1 0
-0 27 1 0
 0 1 0 1
-0 34 -1 1
+0 27 1 0
 0 31 0 3
+0 32 1 8
+0 34 -1 1
+0 56 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b1 lco oc1b ta1-2-lco ta2-1-oc1b
 0
 7
-0 32 1 8
-0 63 -1 1
-0 56 -1 0
-0 28 1 0
 0 0 0 1
-0 34 -1 1
+0 28 1 0
 0 31 0 3
+0 32 1 8
+0 34 -1 1
+0 56 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b1 lco oc1b ta1-2-lco ta2-2-oc1b
 0
 7
-0 32 1 8
-0 63 -1 1
-0 56 -1 0
-0 28 1 0
 0 1 0 1
-0 34 -1 1
+0 28 1 0
 0 31 0 3
+0 32 1 8
+0 34 -1 1
+0 56 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b1 lco oc1b ta1-3-lco ta2-1-oc1b
 0
 7
-0 32 1 8
-0 63 -1 1
-0 56 -1 0
-0 29 1 0
 0 0 0 1
-0 34 -1 1
+0 29 1 0
 0 31 0 3
+0 32 1 8
+0 34 -1 1
+0 56 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b1 lco oc1b ta1-3-lco ta2-2-oc1b
 0
 7
-0 32 1 8
-0 63 -1 1
-0 56 -1 0
-0 29 1 0
 0 1 0 1
-0 34 -1 1
+0 29 1 0
 0 31 0 3
+0 32 1 8
+0 34 -1 1
+0 56 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b10 lco gasoleo ta1-1-lco ta2-1-gasoleo
 0
 7
-0 32 2 8
-0 62 -1 1
-0 56 -1 0
-0 27 1 0
 0 9 0 1
 0 26 -1 1
+0 27 1 0
 0 31 0 3
+0 32 2 8
+0 56 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b10 lco gasoleo ta1-1-lco ta2-2-gasoleo
 0
 7
-0 32 2 8
-0 62 -1 1
-0 56 -1 0
-0 27 1 0
 0 11 0 1
 0 26 -1 1
+0 27 1 0
 0 31 0 3
+0 32 2 8
+0 56 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b10 lco gasoleo ta1-2-lco ta2-1-gasoleo
 0
 7
-0 32 2 8
-0 62 -1 1
-0 56 -1 0
-0 28 1 0
 0 9 0 1
 0 26 -1 1
+0 28 1 0
 0 31 0 3
+0 32 2 8
+0 56 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b10 lco gasoleo ta1-2-lco ta2-2-gasoleo
 0
 7
-0 32 2 8
-0 62 -1 1
-0 56 -1 0
-0 28 1 0
 0 11 0 1
 0 26 -1 1
+0 28 1 0
 0 31 0 3
+0 32 2 8
+0 56 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b10 lco gasoleo ta1-3-lco ta2-1-gasoleo
 0
 7
-0 32 2 8
-0 62 -1 1
-0 56 -1 0
-0 29 1 0
 0 9 0 1
 0 26 -1 1
+0 29 1 0
 0 31 0 3
+0 32 2 8
+0 56 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b10 lco gasoleo ta1-3-lco ta2-2-gasoleo
 0
 7
-0 32 2 8
-0 62 -1 1
-0 56 -1 0
-0 29 1 0
 0 11 0 1
 0 26 -1 1
+0 29 1 0
 0 31 0 3
+0 32 2 8
+0 56 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b11 lco gasoleo ta1-1-lco ta2-1-gasoleo
 0
 7
-0 32 3 8
-0 61 -1 1
-0 56 -1 0
-0 27 1 0
 0 9 0 1
-0 37 -1 1
+0 27 1 0
 0 31 0 3
+0 32 3 8
+0 37 -1 1
+0 56 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b11 lco gasoleo ta1-1-lco ta2-2-gasoleo
 0
 7
-0 32 3 8
-0 61 -1 1
-0 56 -1 0
-0 27 1 0
 0 11 0 1
-0 37 -1 1
+0 27 1 0
 0 31 0 3
+0 32 3 8
+0 37 -1 1
+0 56 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b11 lco gasoleo ta1-2-lco ta2-1-gasoleo
 0
 7
-0 32 3 8
-0 61 -1 1
-0 56 -1 0
-0 28 1 0
 0 9 0 1
-0 37 -1 1
+0 28 1 0
 0 31 0 3
+0 32 3 8
+0 37 -1 1
+0 56 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b11 lco gasoleo ta1-2-lco ta2-2-gasoleo
 0
 7
-0 32 3 8
-0 61 -1 1
-0 56 -1 0
-0 28 1 0
 0 11 0 1
-0 37 -1 1
+0 28 1 0
 0 31 0 3
+0 32 3 8
+0 37 -1 1
+0 56 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b11 lco gasoleo ta1-3-lco ta2-1-gasoleo
 0
 7
-0 32 3 8
-0 61 -1 1
-0 56 -1 0
-0 29 1 0
 0 9 0 1
-0 37 -1 1
+0 29 1 0
 0 31 0 3
+0 32 3 8
+0 37 -1 1
+0 56 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b11 lco gasoleo ta1-3-lco ta2-2-gasoleo
 0
 7
-0 32 3 8
-0 61 -1 1
-0 56 -1 0
-0 29 1 0
 0 11 0 1
-0 37 -1 1
+0 29 1 0
 0 31 0 3
+0 32 3 8
+0 37 -1 1
+0 56 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b2 lco rat-a ta1-1-lco ta2-1-rat-a
 0
 7
-0 32 4 8
-0 60 -1 1
-0 56 -1 0
-0 27 1 0
 0 4 0 1
 0 25 -1 1
+0 27 1 0
 0 31 0 3
+0 32 4 8
+0 56 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b2 lco rat-a ta1-1-lco ta2-2-rat-a
 0
 7
-0 32 4 8
-0 60 -1 1
-0 56 -1 0
-0 27 1 0
 0 5 0 1
 0 25 -1 1
+0 27 1 0
 0 31 0 3
+0 32 4 8
+0 56 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b2 lco rat-a ta1-2-lco ta2-1-rat-a
 0
 7
-0 32 4 8
-0 60 -1 1
-0 56 -1 0
-0 28 1 0
 0 4 0 1
 0 25 -1 1
+0 28 1 0
 0 31 0 3
+0 32 4 8
+0 56 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b2 lco rat-a ta1-2-lco ta2-2-rat-a
 0
 7
-0 32 4 8
-0 60 -1 1
-0 56 -1 0
-0 28 1 0
 0 5 0 1
 0 25 -1 1
+0 28 1 0
 0 31 0 3
+0 32 4 8
+0 56 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b2 lco rat-a ta1-3-lco ta2-1-rat-a
 0
 7
-0 32 4 8
-0 60 -1 1
-0 56 -1 0
-0 29 1 0
 0 4 0 1
 0 25 -1 1
+0 29 1 0
 0 31 0 3
+0 32 4 8
+0 56 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b2 lco rat-a ta1-3-lco ta2-2-rat-a
 0
 7
-0 32 4 8
-0 60 -1 1
-0 56 -1 0
-0 29 1 0
 0 5 0 1
 0 25 -1 1
+0 29 1 0
 0 31 0 3
+0 32 4 8
+0 56 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b3 lco gasoleo ta1-1-lco ta2-1-gasoleo
 0
 7
-0 32 5 8
-0 59 -1 1
-0 56 -1 0
-0 27 1 0
 0 9 0 1
-0 38 -1 1
+0 27 1 0
 0 31 0 3
+0 32 5 8
+0 38 -1 1
+0 56 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b3 lco gasoleo ta1-1-lco ta2-2-gasoleo
 0
 7
-0 32 5 8
-0 59 -1 1
-0 56 -1 0
-0 27 1 0
 0 11 0 1
-0 38 -1 1
+0 27 1 0
 0 31 0 3
+0 32 5 8
+0 38 -1 1
+0 56 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b3 lco gasoleo ta1-2-lco ta2-1-gasoleo
 0
 7
-0 32 5 8
-0 59 -1 1
-0 56 -1 0
-0 28 1 0
 0 9 0 1
-0 38 -1 1
+0 28 1 0
 0 31 0 3
+0 32 5 8
+0 38 -1 1
+0 56 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b3 lco gasoleo ta1-2-lco ta2-2-gasoleo
 0
 7
-0 32 5 8
-0 59 -1 1
-0 56 -1 0
-0 28 1 0
 0 11 0 1
-0 38 -1 1
+0 28 1 0
 0 31 0 3
+0 32 5 8
+0 38 -1 1
+0 56 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b3 lco gasoleo ta1-3-lco ta2-1-gasoleo
 0
 7
-0 32 5 8
-0 59 -1 1
-0 56 -1 0
-0 29 1 0
 0 9 0 1
-0 38 -1 1
+0 29 1 0
 0 31 0 3
+0 32 5 8
+0 38 -1 1
+0 56 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b3 lco gasoleo ta1-3-lco ta2-2-gasoleo
 0
 7
-0 32 5 8
-0 59 -1 1
-0 56 -1 0
-0 29 1 0
 0 11 0 1
-0 38 -1 1
+0 29 1 0
 0 31 0 3
+0 32 5 8
+0 38 -1 1
+0 56 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b4 lco lco ta1-1-lco ta2-1-lco
 0
 7
-0 32 6 8
-0 58 -1 1
-0 56 -1 0
-0 27 1 0
 0 14 0 1
-0 39 -1 1
+0 27 1 0
 0 31 0 3
+0 32 6 8
+0 39 -1 1
+0 56 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b4 lco lco ta1-1-lco ta2-2-lco
 0
 7
-0 32 6 8
-0 58 -1 1
-0 56 -1 0
-0 27 1 0
 0 15 0 1
-0 39 -1 1
+0 27 1 0
 0 31 0 3
+0 32 6 8
+0 39 -1 1
+0 56 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b4 lco lco ta1-1-lco ta2-3-lco
 0
 7
-0 32 6 8
-0 58 -1 1
-0 56 -1 0
-0 27 1 0
 0 16 0 1
-0 39 -1 1
+0 27 1 0
 0 31 0 3
+0 32 6 8
+0 39 -1 1
+0 56 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b4 lco lco ta1-2-lco ta2-1-lco
 0
 7
-0 32 6 8
-0 58 -1 1
-0 56 -1 0
-0 28 1 0
 0 14 0 1
-0 39 -1 1
+0 28 1 0
 0 31 0 3
+0 32 6 8
+0 39 -1 1
+0 56 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b4 lco lco ta1-2-lco ta2-2-lco
 0
 7
-0 32 6 8
-0 58 -1 1
-0 56 -1 0
-0 28 1 0
 0 15 0 1
-0 39 -1 1
+0 28 1 0
 0 31 0 3
+0 32 6 8
+0 39 -1 1
+0 56 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b4 lco lco ta1-2-lco ta2-3-lco
 0
 7
-0 32 6 8
-0 58 -1 1
-0 56 -1 0
-0 28 1 0
 0 16 0 1
-0 39 -1 1
+0 28 1 0
 0 31 0 3
+0 32 6 8
+0 39 -1 1
+0 56 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b4 lco lco ta1-3-lco ta2-1-lco
 0
 7
-0 32 6 8
-0 58 -1 1
-0 56 -1 0
-0 29 1 0
 0 14 0 1
-0 39 -1 1
+0 29 1 0
 0 31 0 3
+0 32 6 8
+0 39 -1 1
+0 56 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b4 lco lco ta1-3-lco ta2-2-lco
 0
 7
-0 32 6 8
-0 58 -1 1
-0 56 -1 0
-0 29 1 0
 0 15 0 1
-0 39 -1 1
+0 29 1 0
 0 31 0 3
+0 32 6 8
+0 39 -1 1
+0 56 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b4 lco lco ta1-3-lco ta2-3-lco
 0
 7
-0 32 6 8
-0 58 -1 1
-0 56 -1 0
-0 29 1 0
 0 16 0 1
-0 39 -1 1
+0 29 1 0
 0 31 0 3
+0 32 6 8
+0 39 -1 1
+0 56 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b5 lco rat-a ta1-1-lco ta2-1-rat-a
 0
 7
-0 32 7 8
-0 57 -1 1
-0 56 -1 0
-0 27 1 0
 0 4 0 1
-0 35 -1 1
+0 27 1 0
 0 31 0 3
+0 32 7 8
+0 35 -1 1
+0 56 -1 0
+0 57 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b5 lco rat-a ta1-1-lco ta2-2-rat-a
 0
 7
-0 32 7 8
-0 57 -1 1
-0 56 -1 0
-0 27 1 0
 0 5 0 1
-0 35 -1 1
+0 27 1 0
 0 31 0 3
+0 32 7 8
+0 35 -1 1
+0 56 -1 0
+0 57 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b5 lco rat-a ta1-2-lco ta2-1-rat-a
 0
 7
-0 32 7 8
-0 57 -1 1
-0 56 -1 0
-0 28 1 0
 0 4 0 1
-0 35 -1 1
+0 28 1 0
 0 31 0 3
+0 32 7 8
+0 35 -1 1
+0 56 -1 0
+0 57 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b5 lco rat-a ta1-2-lco ta2-2-rat-a
 0
 7
-0 32 7 8
-0 57 -1 1
-0 56 -1 0
-0 28 1 0
 0 5 0 1
-0 35 -1 1
+0 28 1 0
 0 31 0 3
+0 32 7 8
+0 35 -1 1
+0 56 -1 0
+0 57 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b5 lco rat-a ta1-3-lco ta2-1-rat-a
 0
 7
-0 32 7 8
-0 57 -1 1
-0 56 -1 0
-0 29 1 0
 0 4 0 1
-0 35 -1 1
+0 29 1 0
 0 31 0 3
+0 32 7 8
+0 35 -1 1
+0 56 -1 0
+0 57 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b5 lco rat-a ta1-3-lco ta2-2-rat-a
 0
 7
-0 32 7 8
-0 57 -1 1
-0 56 -1 0
-0 29 1 0
 0 5 0 1
-0 35 -1 1
+0 29 1 0
 0 31 0 3
+0 32 7 8
+0 35 -1 1
+0 56 -1 0
+0 57 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b7 lco rat-a ta1-1-lco ta2-1-rat-a
 0
 7
-0 32 9 8
-0 56 -1 0
-0 55 -1 1
-0 27 1 0
 0 4 0 1
+0 27 1 0
 0 31 0 3
+0 32 9 8
 0 36 -1 1
+0 55 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b7 lco rat-a ta1-1-lco ta2-2-rat-a
 0
 7
-0 32 9 8
-0 56 -1 0
-0 55 -1 1
-0 27 1 0
 0 5 0 1
+0 27 1 0
 0 31 0 3
+0 32 9 8
 0 36 -1 1
+0 55 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b7 lco rat-a ta1-2-lco ta2-1-rat-a
 0
 7
-0 32 9 8
-0 56 -1 0
-0 55 -1 1
-0 28 1 0
 0 4 0 1
+0 28 1 0
 0 31 0 3
+0 32 9 8
 0 36 -1 1
+0 55 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b7 lco rat-a ta1-2-lco ta2-2-rat-a
 0
 7
-0 32 9 8
-0 56 -1 0
-0 55 -1 1
-0 28 1 0
 0 5 0 1
+0 28 1 0
 0 31 0 3
+0 32 9 8
 0 36 -1 1
+0 55 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b7 lco rat-a ta1-3-lco ta2-1-rat-a
 0
 7
-0 32 9 8
-0 56 -1 0
-0 55 -1 1
-0 29 1 0
 0 4 0 1
+0 29 1 0
 0 31 0 3
+0 32 9 8
 0 36 -1 1
+0 55 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b7 lco rat-a ta1-3-lco ta2-2-rat-a
 0
 7
-0 32 9 8
-0 56 -1 0
-0 55 -1 1
-0 29 1 0
 0 5 0 1
+0 29 1 0
 0 31 0 3
+0 32 9 8
 0 36 -1 1
+0 55 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b8 lco oc1b ta1-1-lco ta2-1-oc1b
 0
 7
-0 32 10 8
-0 56 -1 0
-0 54 -1 1
-0 27 1 0
 0 0 0 1
-0 31 0 3
 0 23 -1 1
+0 27 1 0
+0 31 0 3
+0 32 10 8
+0 54 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b8 lco oc1b ta1-1-lco ta2-2-oc1b
 0
 7
-0 32 10 8
-0 56 -1 0
-0 54 -1 1
-0 27 1 0
 0 1 0 1
-0 31 0 3
 0 23 -1 1
+0 27 1 0
+0 31 0 3
+0 32 10 8
+0 54 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b8 lco oc1b ta1-2-lco ta2-1-oc1b
 0
 7
-0 32 10 8
-0 56 -1 0
-0 54 -1 1
-0 28 1 0
 0 0 0 1
-0 31 0 3
 0 23 -1 1
+0 28 1 0
+0 31 0 3
+0 32 10 8
+0 54 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b8 lco oc1b ta1-2-lco ta2-2-oc1b
 0
 7
-0 32 10 8
-0 56 -1 0
-0 54 -1 1
-0 28 1 0
 0 1 0 1
-0 31 0 3
 0 23 -1 1
+0 28 1 0
+0 31 0 3
+0 32 10 8
+0 54 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b8 lco oc1b ta1-3-lco ta2-1-oc1b
 0
 7
-0 32 10 8
-0 56 -1 0
-0 54 -1 1
-0 29 1 0
 0 0 0 1
-0 31 0 3
 0 23 -1 1
+0 29 1 0
+0 31 0 3
+0 32 10 8
+0 54 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b8 lco oc1b ta1-3-lco ta2-2-oc1b
 0
 7
-0 32 10 8
-0 56 -1 0
-0 54 -1 1
-0 29 1 0
 0 1 0 1
-0 31 0 3
 0 23 -1 1
+0 29 1 0
+0 31 0 3
+0 32 10 8
+0 54 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b9 lco lco ta1-1-lco ta2-1-lco
 0
 7
-0 32 11 8
-0 56 -1 0
-0 53 -1 1
-0 27 1 0
 0 14 0 1
+0 27 1 0
 0 31 0 3
+0 32 11 8
 0 40 -1 1
+0 53 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b9 lco lco ta1-1-lco ta2-2-lco
 0
 7
-0 32 11 8
-0 56 -1 0
-0 53 -1 1
-0 27 1 0
 0 15 0 1
+0 27 1 0
 0 31 0 3
+0 32 11 8
 0 40 -1 1
+0 53 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b9 lco lco ta1-1-lco ta2-3-lco
 0
 7
-0 32 11 8
-0 56 -1 0
-0 53 -1 1
-0 27 1 0
 0 16 0 1
+0 27 1 0
 0 31 0 3
+0 32 11 8
 0 40 -1 1
+0 53 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b9 lco lco ta1-2-lco ta2-1-lco
 0
 7
-0 32 11 8
-0 56 -1 0
-0 53 -1 1
-0 28 1 0
 0 14 0 1
+0 28 1 0
 0 31 0 3
+0 32 11 8
 0 40 -1 1
+0 53 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b9 lco lco ta1-2-lco ta2-2-lco
 0
 7
-0 32 11 8
-0 56 -1 0
-0 53 -1 1
-0 28 1 0
 0 15 0 1
+0 28 1 0
 0 31 0 3
+0 32 11 8
 0 40 -1 1
+0 53 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b9 lco lco ta1-2-lco ta2-3-lco
 0
 7
-0 32 11 8
-0 56 -1 0
-0 53 -1 1
-0 28 1 0
 0 16 0 1
+0 28 1 0
 0 31 0 3
+0 32 11 8
 0 40 -1 1
+0 53 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b9 lco lco ta1-3-lco ta2-1-lco
 0
 7
-0 32 11 8
-0 56 -1 0
-0 53 -1 1
-0 29 1 0
 0 14 0 1
+0 29 1 0
 0 31 0 3
+0 32 11 8
 0 40 -1 1
+0 53 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b9 lco lco ta1-3-lco ta2-2-lco
 0
 7
-0 32 11 8
-0 56 -1 0
-0 53 -1 1
-0 29 1 0
 0 15 0 1
+0 29 1 0
 0 31 0 3
+0 32 11 8
 0 40 -1 1
+0 53 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b6 a1 a2 b9 lco lco ta1-3-lco ta2-3-lco
 0
 7
-0 32 11 8
-0 56 -1 0
-0 53 -1 1
-0 29 1 0
 0 16 0 1
+0 29 1 0
 0 31 0 3
+0 32 11 8
 0 40 -1 1
+0 53 -1 1
+0 56 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b0 rat-a lco ta1-1-rat-a ta2-1-lco
 0
 7
-0 32 0 9
-0 64 -1 1
-0 55 -1 0
-0 19 1 0
 0 14 0 1
+0 19 1 0
 0 30 -1 1
+0 32 0 9
 0 36 0 3
+0 55 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b0 rat-a lco ta1-1-rat-a ta2-2-lco
 0
 7
-0 32 0 9
-0 64 -1 1
-0 55 -1 0
-0 19 1 0
 0 15 0 1
+0 19 1 0
 0 30 -1 1
+0 32 0 9
 0 36 0 3
+0 55 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b0 rat-a lco ta1-1-rat-a ta2-3-lco
 0
 7
-0 32 0 9
-0 64 -1 1
-0 55 -1 0
-0 19 1 0
 0 16 0 1
+0 19 1 0
 0 30 -1 1
+0 32 0 9
 0 36 0 3
+0 55 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b0 rat-a lco ta1-2-rat-a ta2-1-lco
 0
 7
-0 32 0 9
-0 64 -1 1
-0 55 -1 0
-0 21 1 0
 0 14 0 1
+0 21 1 0
 0 30 -1 1
+0 32 0 9
 0 36 0 3
+0 55 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b0 rat-a lco ta1-2-rat-a ta2-2-lco
 0
 7
-0 32 0 9
-0 64 -1 1
-0 55 -1 0
-0 21 1 0
 0 15 0 1
+0 21 1 0
 0 30 -1 1
+0 32 0 9
 0 36 0 3
+0 55 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b0 rat-a lco ta1-2-rat-a ta2-3-lco
 0
 7
-0 32 0 9
-0 64 -1 1
-0 55 -1 0
-0 21 1 0
 0 16 0 1
+0 21 1 0
 0 30 -1 1
+0 32 0 9
 0 36 0 3
+0 55 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b10 rat-a gasoleo ta1-1-rat-a ta2-1-gasoleo
 0
 7
-0 32 2 9
-0 62 -1 1
-0 55 -1 0
-0 19 1 0
 0 9 0 1
+0 19 1 0
 0 26 -1 1
+0 32 2 9
 0 36 0 3
+0 55 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b10 rat-a gasoleo ta1-1-rat-a ta2-2-gasoleo
 0
 7
-0 32 2 9
-0 62 -1 1
-0 55 -1 0
-0 19 1 0
 0 11 0 1
+0 19 1 0
 0 26 -1 1
+0 32 2 9
 0 36 0 3
+0 55 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b10 rat-a gasoleo ta1-2-rat-a ta2-1-gasoleo
 0
 7
-0 32 2 9
-0 62 -1 1
-0 55 -1 0
-0 21 1 0
 0 9 0 1
+0 21 1 0
 0 26 -1 1
+0 32 2 9
 0 36 0 3
+0 55 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b10 rat-a gasoleo ta1-2-rat-a ta2-2-gasoleo
 0
 7
-0 32 2 9
-0 62 -1 1
-0 55 -1 0
-0 21 1 0
 0 11 0 1
+0 21 1 0
 0 26 -1 1
+0 32 2 9
 0 36 0 3
+0 55 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b11 rat-a gasoleo ta1-1-rat-a ta2-1-gasoleo
 0
 7
-0 32 3 9
-0 61 -1 1
-0 55 -1 0
-0 19 1 0
 0 9 0 1
-0 37 -1 1
+0 19 1 0
+0 32 3 9
 0 36 0 3
+0 37 -1 1
+0 55 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b11 rat-a gasoleo ta1-1-rat-a ta2-2-gasoleo
 0
 7
-0 32 3 9
-0 61 -1 1
-0 55 -1 0
-0 19 1 0
 0 11 0 1
-0 37 -1 1
+0 19 1 0
+0 32 3 9
 0 36 0 3
+0 37 -1 1
+0 55 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b11 rat-a gasoleo ta1-2-rat-a ta2-1-gasoleo
 0
 7
-0 32 3 9
-0 61 -1 1
-0 55 -1 0
-0 21 1 0
 0 9 0 1
-0 37 -1 1
+0 21 1 0
+0 32 3 9
 0 36 0 3
+0 37 -1 1
+0 55 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b11 rat-a gasoleo ta1-2-rat-a ta2-2-gasoleo
 0
 7
-0 32 3 9
-0 61 -1 1
-0 55 -1 0
-0 21 1 0
 0 11 0 1
-0 37 -1 1
+0 21 1 0
+0 32 3 9
 0 36 0 3
+0 37 -1 1
+0 55 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b2 rat-a rat-a ta1-1-rat-a ta2-1-rat-a
 0
 7
-0 32 4 9
-0 60 -1 1
-0 55 -1 0
-0 19 1 0
 0 4 0 1
+0 19 1 0
 0 25 -1 1
+0 32 4 9
 0 36 0 3
+0 55 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b2 rat-a rat-a ta1-1-rat-a ta2-2-rat-a
 0
 7
-0 32 4 9
-0 60 -1 1
-0 55 -1 0
-0 19 1 0
 0 5 0 1
+0 19 1 0
 0 25 -1 1
+0 32 4 9
 0 36 0 3
+0 55 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b2 rat-a rat-a ta1-2-rat-a ta2-1-rat-a
 0
 7
-0 32 4 9
-0 60 -1 1
-0 55 -1 0
-0 21 1 0
 0 4 0 1
+0 21 1 0
 0 25 -1 1
+0 32 4 9
 0 36 0 3
+0 55 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b2 rat-a rat-a ta1-2-rat-a ta2-2-rat-a
 0
 7
-0 32 4 9
-0 60 -1 1
-0 55 -1 0
-0 21 1 0
 0 5 0 1
+0 21 1 0
 0 25 -1 1
+0 32 4 9
 0 36 0 3
+0 55 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b3 rat-a gasoleo ta1-1-rat-a ta2-1-gasoleo
 0
 7
-0 32 5 9
-0 59 -1 1
-0 55 -1 0
-0 19 1 0
 0 9 0 1
-0 38 -1 1
+0 19 1 0
+0 32 5 9
 0 36 0 3
+0 38 -1 1
+0 55 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b3 rat-a gasoleo ta1-1-rat-a ta2-2-gasoleo
 0
 7
-0 32 5 9
-0 59 -1 1
-0 55 -1 0
-0 19 1 0
 0 11 0 1
-0 38 -1 1
+0 19 1 0
+0 32 5 9
 0 36 0 3
+0 38 -1 1
+0 55 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b3 rat-a gasoleo ta1-2-rat-a ta2-1-gasoleo
 0
 7
-0 32 5 9
-0 59 -1 1
-0 55 -1 0
-0 21 1 0
 0 9 0 1
-0 38 -1 1
+0 21 1 0
+0 32 5 9
 0 36 0 3
+0 38 -1 1
+0 55 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b3 rat-a gasoleo ta1-2-rat-a ta2-2-gasoleo
 0
 7
-0 32 5 9
-0 59 -1 1
-0 55 -1 0
-0 21 1 0
 0 11 0 1
-0 38 -1 1
+0 21 1 0
+0 32 5 9
 0 36 0 3
+0 38 -1 1
+0 55 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b4 rat-a lco ta1-1-rat-a ta2-1-lco
 0
 7
-0 32 6 9
-0 58 -1 1
-0 55 -1 0
-0 19 1 0
 0 14 0 1
-0 39 -1 1
+0 19 1 0
+0 32 6 9
 0 36 0 3
+0 39 -1 1
+0 55 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b4 rat-a lco ta1-1-rat-a ta2-2-lco
 0
 7
-0 32 6 9
-0 58 -1 1
-0 55 -1 0
-0 19 1 0
 0 15 0 1
-0 39 -1 1
+0 19 1 0
+0 32 6 9
 0 36 0 3
+0 39 -1 1
+0 55 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b4 rat-a lco ta1-1-rat-a ta2-3-lco
 0
 7
-0 32 6 9
-0 58 -1 1
-0 55 -1 0
-0 19 1 0
 0 16 0 1
-0 39 -1 1
+0 19 1 0
+0 32 6 9
 0 36 0 3
+0 39 -1 1
+0 55 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b4 rat-a lco ta1-2-rat-a ta2-1-lco
 0
 7
-0 32 6 9
-0 58 -1 1
-0 55 -1 0
-0 21 1 0
 0 14 0 1
-0 39 -1 1
+0 21 1 0
+0 32 6 9
 0 36 0 3
+0 39 -1 1
+0 55 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b4 rat-a lco ta1-2-rat-a ta2-2-lco
 0
 7
-0 32 6 9
-0 58 -1 1
-0 55 -1 0
-0 21 1 0
 0 15 0 1
-0 39 -1 1
+0 21 1 0
+0 32 6 9
 0 36 0 3
+0 39 -1 1
+0 55 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b4 rat-a lco ta1-2-rat-a ta2-3-lco
 0
 7
-0 32 6 9
-0 58 -1 1
-0 55 -1 0
-0 21 1 0
 0 16 0 1
-0 39 -1 1
+0 21 1 0
+0 32 6 9
 0 36 0 3
+0 39 -1 1
+0 55 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b5 rat-a rat-a ta1-1-rat-a ta2-1-rat-a
 0
 7
-0 32 7 9
-0 57 -1 1
-0 55 -1 0
-0 19 1 0
 0 4 0 1
+0 19 1 0
+0 32 7 9
 0 35 -1 1
 0 36 0 3
+0 55 -1 0
+0 57 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b5 rat-a rat-a ta1-1-rat-a ta2-2-rat-a
 0
 7
-0 32 7 9
-0 57 -1 1
-0 55 -1 0
-0 19 1 0
 0 5 0 1
+0 19 1 0
+0 32 7 9
 0 35 -1 1
 0 36 0 3
+0 55 -1 0
+0 57 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b5 rat-a rat-a ta1-2-rat-a ta2-1-rat-a
 0
 7
-0 32 7 9
-0 57 -1 1
-0 55 -1 0
-0 21 1 0
 0 4 0 1
+0 21 1 0
+0 32 7 9
 0 35 -1 1
 0 36 0 3
+0 55 -1 0
+0 57 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b5 rat-a rat-a ta1-2-rat-a ta2-2-rat-a
 0
 7
-0 32 7 9
-0 57 -1 1
-0 55 -1 0
-0 21 1 0
 0 5 0 1
+0 21 1 0
+0 32 7 9
 0 35 -1 1
 0 36 0 3
+0 55 -1 0
+0 57 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b6 rat-a lco ta1-1-rat-a ta2-1-lco
 0
 7
-0 32 8 9
-0 56 -1 1
-0 55 -1 0
-0 19 1 0
 0 14 0 1
+0 19 1 0
 0 31 -1 1
+0 32 8 9
 0 36 0 3
+0 55 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b6 rat-a lco ta1-1-rat-a ta2-2-lco
 0
 7
-0 32 8 9
-0 56 -1 1
-0 55 -1 0
-0 19 1 0
 0 15 0 1
+0 19 1 0
 0 31 -1 1
+0 32 8 9
 0 36 0 3
+0 55 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b6 rat-a lco ta1-1-rat-a ta2-3-lco
 0
 7
-0 32 8 9
-0 56 -1 1
-0 55 -1 0
-0 19 1 0
 0 16 0 1
+0 19 1 0
 0 31 -1 1
+0 32 8 9
 0 36 0 3
+0 55 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b6 rat-a lco ta1-2-rat-a ta2-1-lco
 0
 7
-0 32 8 9
-0 56 -1 1
-0 55 -1 0
-0 21 1 0
 0 14 0 1
+0 21 1 0
 0 31 -1 1
+0 32 8 9
 0 36 0 3
+0 55 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b6 rat-a lco ta1-2-rat-a ta2-2-lco
 0
 7
-0 32 8 9
-0 56 -1 1
-0 55 -1 0
-0 21 1 0
 0 15 0 1
+0 21 1 0
 0 31 -1 1
+0 32 8 9
 0 36 0 3
+0 55 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b6 rat-a lco ta1-2-rat-a ta2-3-lco
 0
 7
-0 32 8 9
-0 56 -1 1
-0 55 -1 0
-0 21 1 0
 0 16 0 1
+0 21 1 0
 0 31 -1 1
+0 32 8 9
 0 36 0 3
+0 55 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b9 rat-a lco ta1-1-rat-a ta2-1-lco
 0
 7
-0 32 11 9
-0 55 -1 0
-0 53 -1 1
-0 19 1 0
 0 14 0 1
+0 19 1 0
+0 32 11 9
 0 36 0 3
 0 40 -1 1
+0 53 -1 1
+0 55 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b9 rat-a lco ta1-1-rat-a ta2-2-lco
 0
 7
-0 32 11 9
-0 55 -1 0
-0 53 -1 1
-0 19 1 0
 0 15 0 1
+0 19 1 0
+0 32 11 9
 0 36 0 3
 0 40 -1 1
+0 53 -1 1
+0 55 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b9 rat-a lco ta1-1-rat-a ta2-3-lco
 0
 7
-0 32 11 9
-0 55 -1 0
-0 53 -1 1
-0 19 1 0
 0 16 0 1
+0 19 1 0
+0 32 11 9
 0 36 0 3
 0 40 -1 1
+0 53 -1 1
+0 55 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b9 rat-a lco ta1-2-rat-a ta2-1-lco
 0
 7
-0 32 11 9
-0 55 -1 0
-0 53 -1 1
-0 21 1 0
 0 14 0 1
+0 21 1 0
+0 32 11 9
 0 36 0 3
 0 40 -1 1
+0 53 -1 1
+0 55 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b9 rat-a lco ta1-2-rat-a ta2-2-lco
 0
 7
-0 32 11 9
-0 55 -1 0
-0 53 -1 1
-0 21 1 0
 0 15 0 1
+0 21 1 0
+0 32 11 9
 0 36 0 3
 0 40 -1 1
+0 53 -1 1
+0 55 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b7 a1 a2 b9 rat-a lco ta1-2-rat-a ta2-3-lco
 0
 7
-0 32 11 9
-0 55 -1 0
-0 53 -1 1
-0 21 1 0
 0 16 0 1
+0 21 1 0
+0 32 11 9
 0 36 0 3
 0 40 -1 1
+0 53 -1 1
+0 55 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b0 oc1b lco ta1-1-oc1b ta2-1-lco
 0
 7
-0 32 0 10
-0 64 -1 1
-0 54 -1 0
 0 8 1 0
 0 14 0 1
-0 30 -1 1
 0 23 0 3
+0 30 -1 1
+0 32 0 10
+0 54 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b0 oc1b lco ta1-1-oc1b ta2-2-lco
 0
 7
-0 32 0 10
-0 64 -1 1
-0 54 -1 0
 0 8 1 0
 0 15 0 1
-0 30 -1 1
 0 23 0 3
+0 30 -1 1
+0 32 0 10
+0 54 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b0 oc1b lco ta1-1-oc1b ta2-3-lco
 0
 7
-0 32 0 10
-0 64 -1 1
-0 54 -1 0
 0 8 1 0
 0 16 0 1
-0 30 -1 1
 0 23 0 3
+0 30 -1 1
+0 32 0 10
+0 54 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b0 oc1b lco ta1-2-oc1b ta2-1-lco
 0
 7
-0 32 0 10
-0 64 -1 1
-0 54 -1 0
 0 10 1 0
 0 14 0 1
-0 30 -1 1
 0 23 0 3
+0 30 -1 1
+0 32 0 10
+0 54 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b0 oc1b lco ta1-2-oc1b ta2-2-lco
 0
 7
-0 32 0 10
-0 64 -1 1
-0 54 -1 0
 0 10 1 0
 0 15 0 1
-0 30 -1 1
 0 23 0 3
+0 30 -1 1
+0 32 0 10
+0 54 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b0 oc1b lco ta1-2-oc1b ta2-3-lco
 0
 7
-0 32 0 10
-0 64 -1 1
-0 54 -1 0
 0 10 1 0
 0 16 0 1
-0 30 -1 1
 0 23 0 3
+0 30 -1 1
+0 32 0 10
+0 54 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b1 oc1b oc1b ta1-1-oc1b ta2-1-oc1b
 0
 7
-0 32 1 10
-0 63 -1 1
-0 54 -1 0
-0 8 1 0
 0 0 0 1
-0 34 -1 1
+0 8 1 0
 0 23 0 3
+0 32 1 10
+0 34 -1 1
+0 54 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b1 oc1b oc1b ta1-1-oc1b ta2-2-oc1b
 0
 7
-0 32 1 10
-0 63 -1 1
-0 54 -1 0
-0 8 1 0
 0 1 0 1
-0 34 -1 1
+0 8 1 0
 0 23 0 3
+0 32 1 10
+0 34 -1 1
+0 54 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b1 oc1b oc1b ta1-2-oc1b ta2-1-oc1b
 0
 7
-0 32 1 10
-0 63 -1 1
-0 54 -1 0
-0 10 1 0
 0 0 0 1
-0 34 -1 1
+0 10 1 0
 0 23 0 3
+0 32 1 10
+0 34 -1 1
+0 54 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b1 oc1b oc1b ta1-2-oc1b ta2-2-oc1b
 0
 7
-0 32 1 10
-0 63 -1 1
-0 54 -1 0
-0 10 1 0
 0 1 0 1
-0 34 -1 1
+0 10 1 0
 0 23 0 3
+0 32 1 10
+0 34 -1 1
+0 54 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b10 oc1b gasoleo ta1-1-oc1b ta2-1-gasoleo
 0
 7
-0 32 2 10
-0 62 -1 1
-0 54 -1 0
 0 8 1 0
 0 9 0 1
-0 26 -1 1
 0 23 0 3
+0 26 -1 1
+0 32 2 10
+0 54 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b10 oc1b gasoleo ta1-1-oc1b ta2-2-gasoleo
 0
 7
-0 32 2 10
-0 62 -1 1
-0 54 -1 0
 0 8 1 0
 0 11 0 1
-0 26 -1 1
 0 23 0 3
+0 26 -1 1
+0 32 2 10
+0 54 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b10 oc1b gasoleo ta1-2-oc1b ta2-1-gasoleo
 0
 7
-0 32 2 10
-0 62 -1 1
-0 54 -1 0
-0 10 1 0
 0 9 0 1
-0 26 -1 1
+0 10 1 0
 0 23 0 3
+0 26 -1 1
+0 32 2 10
+0 54 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b10 oc1b gasoleo ta1-2-oc1b ta2-2-gasoleo
 0
 7
-0 32 2 10
-0 62 -1 1
-0 54 -1 0
 0 10 1 0
 0 11 0 1
-0 26 -1 1
 0 23 0 3
+0 26 -1 1
+0 32 2 10
+0 54 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b11 oc1b gasoleo ta1-1-oc1b ta2-1-gasoleo
 0
 7
-0 32 3 10
-0 61 -1 1
-0 54 -1 0
 0 8 1 0
 0 9 0 1
-0 37 -1 1
 0 23 0 3
+0 32 3 10
+0 37 -1 1
+0 54 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b11 oc1b gasoleo ta1-1-oc1b ta2-2-gasoleo
 0
 7
-0 32 3 10
-0 61 -1 1
-0 54 -1 0
 0 8 1 0
 0 11 0 1
-0 37 -1 1
 0 23 0 3
+0 32 3 10
+0 37 -1 1
+0 54 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b11 oc1b gasoleo ta1-2-oc1b ta2-1-gasoleo
 0
 7
-0 32 3 10
-0 61 -1 1
-0 54 -1 0
-0 10 1 0
 0 9 0 1
-0 37 -1 1
+0 10 1 0
 0 23 0 3
+0 32 3 10
+0 37 -1 1
+0 54 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b11 oc1b gasoleo ta1-2-oc1b ta2-2-gasoleo
 0
 7
-0 32 3 10
-0 61 -1 1
-0 54 -1 0
 0 10 1 0
 0 11 0 1
-0 37 -1 1
 0 23 0 3
+0 32 3 10
+0 37 -1 1
+0 54 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b3 oc1b gasoleo ta1-1-oc1b ta2-1-gasoleo
 0
 7
-0 32 5 10
-0 59 -1 1
-0 54 -1 0
 0 8 1 0
 0 9 0 1
-0 38 -1 1
 0 23 0 3
+0 32 5 10
+0 38 -1 1
+0 54 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b3 oc1b gasoleo ta1-1-oc1b ta2-2-gasoleo
 0
 7
-0 32 5 10
-0 59 -1 1
-0 54 -1 0
 0 8 1 0
 0 11 0 1
-0 38 -1 1
 0 23 0 3
+0 32 5 10
+0 38 -1 1
+0 54 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b3 oc1b gasoleo ta1-2-oc1b ta2-1-gasoleo
 0
 7
-0 32 5 10
-0 59 -1 1
-0 54 -1 0
-0 10 1 0
 0 9 0 1
-0 38 -1 1
+0 10 1 0
 0 23 0 3
+0 32 5 10
+0 38 -1 1
+0 54 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b3 oc1b gasoleo ta1-2-oc1b ta2-2-gasoleo
 0
 7
-0 32 5 10
-0 59 -1 1
-0 54 -1 0
 0 10 1 0
 0 11 0 1
-0 38 -1 1
 0 23 0 3
+0 32 5 10
+0 38 -1 1
+0 54 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b4 oc1b lco ta1-1-oc1b ta2-1-lco
 0
 7
-0 32 6 10
-0 58 -1 1
-0 54 -1 0
 0 8 1 0
 0 14 0 1
-0 39 -1 1
 0 23 0 3
+0 32 6 10
+0 39 -1 1
+0 54 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b4 oc1b lco ta1-1-oc1b ta2-2-lco
 0
 7
-0 32 6 10
-0 58 -1 1
-0 54 -1 0
 0 8 1 0
 0 15 0 1
-0 39 -1 1
 0 23 0 3
+0 32 6 10
+0 39 -1 1
+0 54 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b4 oc1b lco ta1-1-oc1b ta2-3-lco
 0
 7
-0 32 6 10
-0 58 -1 1
-0 54 -1 0
 0 8 1 0
 0 16 0 1
-0 39 -1 1
 0 23 0 3
+0 32 6 10
+0 39 -1 1
+0 54 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b4 oc1b lco ta1-2-oc1b ta2-1-lco
 0
 7
-0 32 6 10
-0 58 -1 1
-0 54 -1 0
 0 10 1 0
 0 14 0 1
-0 39 -1 1
 0 23 0 3
+0 32 6 10
+0 39 -1 1
+0 54 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b4 oc1b lco ta1-2-oc1b ta2-2-lco
 0
 7
-0 32 6 10
-0 58 -1 1
-0 54 -1 0
 0 10 1 0
 0 15 0 1
-0 39 -1 1
 0 23 0 3
+0 32 6 10
+0 39 -1 1
+0 54 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b4 oc1b lco ta1-2-oc1b ta2-3-lco
 0
 7
-0 32 6 10
-0 58 -1 1
-0 54 -1 0
 0 10 1 0
 0 16 0 1
-0 39 -1 1
 0 23 0 3
+0 32 6 10
+0 39 -1 1
+0 54 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b6 oc1b lco ta1-1-oc1b ta2-1-lco
 0
 7
-0 32 8 10
-0 56 -1 1
-0 54 -1 0
 0 8 1 0
 0 14 0 1
-0 31 -1 1
 0 23 0 3
+0 31 -1 1
+0 32 8 10
+0 54 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b6 oc1b lco ta1-1-oc1b ta2-2-lco
 0
 7
-0 32 8 10
-0 56 -1 1
-0 54 -1 0
 0 8 1 0
 0 15 0 1
-0 31 -1 1
 0 23 0 3
+0 31 -1 1
+0 32 8 10
+0 54 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b6 oc1b lco ta1-1-oc1b ta2-3-lco
 0
 7
-0 32 8 10
-0 56 -1 1
-0 54 -1 0
 0 8 1 0
 0 16 0 1
-0 31 -1 1
 0 23 0 3
+0 31 -1 1
+0 32 8 10
+0 54 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b6 oc1b lco ta1-2-oc1b ta2-1-lco
 0
 7
-0 32 8 10
-0 56 -1 1
-0 54 -1 0
 0 10 1 0
 0 14 0 1
-0 31 -1 1
 0 23 0 3
+0 31 -1 1
+0 32 8 10
+0 54 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b6 oc1b lco ta1-2-oc1b ta2-2-lco
 0
 7
-0 32 8 10
-0 56 -1 1
-0 54 -1 0
 0 10 1 0
 0 15 0 1
-0 31 -1 1
 0 23 0 3
+0 31 -1 1
+0 32 8 10
+0 54 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b6 oc1b lco ta1-2-oc1b ta2-3-lco
 0
 7
-0 32 8 10
-0 56 -1 1
-0 54 -1 0
 0 10 1 0
 0 16 0 1
-0 31 -1 1
 0 23 0 3
+0 31 -1 1
+0 32 8 10
+0 54 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b9 oc1b lco ta1-1-oc1b ta2-1-lco
 0
 7
-0 32 11 10
-0 54 -1 0
-0 53 -1 1
 0 8 1 0
 0 14 0 1
 0 23 0 3
+0 32 11 10
 0 40 -1 1
+0 53 -1 1
+0 54 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b9 oc1b lco ta1-1-oc1b ta2-2-lco
 0
 7
-0 32 11 10
-0 54 -1 0
-0 53 -1 1
 0 8 1 0
 0 15 0 1
 0 23 0 3
+0 32 11 10
 0 40 -1 1
+0 53 -1 1
+0 54 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b9 oc1b lco ta1-1-oc1b ta2-3-lco
 0
 7
-0 32 11 10
-0 54 -1 0
-0 53 -1 1
 0 8 1 0
 0 16 0 1
 0 23 0 3
+0 32 11 10
 0 40 -1 1
+0 53 -1 1
+0 54 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b9 oc1b lco ta1-2-oc1b ta2-1-lco
 0
 7
-0 32 11 10
-0 54 -1 0
-0 53 -1 1
 0 10 1 0
 0 14 0 1
 0 23 0 3
+0 32 11 10
 0 40 -1 1
+0 53 -1 1
+0 54 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b9 oc1b lco ta1-2-oc1b ta2-2-lco
 0
 7
-0 32 11 10
-0 54 -1 0
-0 53 -1 1
 0 10 1 0
 0 15 0 1
 0 23 0 3
+0 32 11 10
 0 40 -1 1
+0 53 -1 1
+0 54 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b8 a1 a2 b9 oc1b lco ta1-2-oc1b ta2-3-lco
 0
 7
-0 32 11 10
-0 54 -1 0
-0 53 -1 1
 0 10 1 0
 0 16 0 1
 0 23 0 3
+0 32 11 10
 0 40 -1 1
+0 53 -1 1
+0 54 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b0 lco lco ta1-1-lco ta2-1-lco
 0
 7
-0 32 0 11
-0 64 -1 1
-0 53 -1 0
-0 27 1 0
 0 14 0 1
+0 27 1 0
 0 30 -1 1
+0 32 0 11
 0 40 0 3
+0 53 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b0 lco lco ta1-1-lco ta2-2-lco
 0
 7
-0 32 0 11
-0 64 -1 1
-0 53 -1 0
-0 27 1 0
 0 15 0 1
+0 27 1 0
 0 30 -1 1
+0 32 0 11
 0 40 0 3
+0 53 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b0 lco lco ta1-1-lco ta2-3-lco
 0
 7
-0 32 0 11
-0 64 -1 1
-0 53 -1 0
-0 27 1 0
 0 16 0 1
+0 27 1 0
 0 30 -1 1
+0 32 0 11
 0 40 0 3
+0 53 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b0 lco lco ta1-2-lco ta2-1-lco
 0
 7
-0 32 0 11
-0 64 -1 1
-0 53 -1 0
-0 28 1 0
 0 14 0 1
+0 28 1 0
 0 30 -1 1
+0 32 0 11
 0 40 0 3
+0 53 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b0 lco lco ta1-2-lco ta2-2-lco
 0
 7
-0 32 0 11
-0 64 -1 1
-0 53 -1 0
-0 28 1 0
 0 15 0 1
+0 28 1 0
 0 30 -1 1
+0 32 0 11
 0 40 0 3
+0 53 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b0 lco lco ta1-2-lco ta2-3-lco
 0
 7
-0 32 0 11
-0 64 -1 1
-0 53 -1 0
-0 28 1 0
 0 16 0 1
+0 28 1 0
 0 30 -1 1
+0 32 0 11
 0 40 0 3
+0 53 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b0 lco lco ta1-3-lco ta2-1-lco
 0
 7
-0 32 0 11
-0 64 -1 1
-0 53 -1 0
-0 29 1 0
 0 14 0 1
+0 29 1 0
 0 30 -1 1
+0 32 0 11
 0 40 0 3
+0 53 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b0 lco lco ta1-3-lco ta2-2-lco
 0
 7
-0 32 0 11
-0 64 -1 1
-0 53 -1 0
-0 29 1 0
 0 15 0 1
+0 29 1 0
 0 30 -1 1
+0 32 0 11
 0 40 0 3
+0 53 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b0 lco lco ta1-3-lco ta2-3-lco
 0
 7
-0 32 0 11
-0 64 -1 1
-0 53 -1 0
-0 29 1 0
 0 16 0 1
+0 29 1 0
 0 30 -1 1
+0 32 0 11
 0 40 0 3
+0 53 -1 0
+0 64 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b1 lco oc1b ta1-1-lco ta2-1-oc1b
 0
 7
-0 32 1 11
-0 63 -1 1
-0 53 -1 0
-0 27 1 0
 0 0 0 1
+0 27 1 0
+0 32 1 11
 0 34 -1 1
 0 40 0 3
+0 53 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b1 lco oc1b ta1-1-lco ta2-2-oc1b
 0
 7
-0 32 1 11
-0 63 -1 1
-0 53 -1 0
-0 27 1 0
 0 1 0 1
+0 27 1 0
+0 32 1 11
 0 34 -1 1
 0 40 0 3
+0 53 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b1 lco oc1b ta1-2-lco ta2-1-oc1b
 0
 7
-0 32 1 11
-0 63 -1 1
-0 53 -1 0
-0 28 1 0
 0 0 0 1
+0 28 1 0
+0 32 1 11
 0 34 -1 1
 0 40 0 3
+0 53 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b1 lco oc1b ta1-2-lco ta2-2-oc1b
 0
 7
-0 32 1 11
-0 63 -1 1
-0 53 -1 0
-0 28 1 0
 0 1 0 1
+0 28 1 0
+0 32 1 11
 0 34 -1 1
 0 40 0 3
+0 53 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b1 lco oc1b ta1-3-lco ta2-1-oc1b
 0
 7
-0 32 1 11
-0 63 -1 1
-0 53 -1 0
-0 29 1 0
 0 0 0 1
+0 29 1 0
+0 32 1 11
 0 34 -1 1
 0 40 0 3
+0 53 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b1 lco oc1b ta1-3-lco ta2-2-oc1b
 0
 7
-0 32 1 11
-0 63 -1 1
-0 53 -1 0
-0 29 1 0
 0 1 0 1
+0 29 1 0
+0 32 1 11
 0 34 -1 1
 0 40 0 3
+0 53 -1 0
+0 63 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b10 lco gasoleo ta1-1-lco ta2-1-gasoleo
 0
 7
-0 32 2 11
-0 62 -1 1
-0 53 -1 0
-0 27 1 0
 0 9 0 1
 0 26 -1 1
+0 27 1 0
+0 32 2 11
 0 40 0 3
+0 53 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b10 lco gasoleo ta1-1-lco ta2-2-gasoleo
 0
 7
-0 32 2 11
-0 62 -1 1
-0 53 -1 0
-0 27 1 0
 0 11 0 1
 0 26 -1 1
+0 27 1 0
+0 32 2 11
 0 40 0 3
+0 53 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b10 lco gasoleo ta1-2-lco ta2-1-gasoleo
 0
 7
-0 32 2 11
-0 62 -1 1
-0 53 -1 0
-0 28 1 0
 0 9 0 1
 0 26 -1 1
+0 28 1 0
+0 32 2 11
 0 40 0 3
+0 53 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b10 lco gasoleo ta1-2-lco ta2-2-gasoleo
 0
 7
-0 32 2 11
-0 62 -1 1
-0 53 -1 0
-0 28 1 0
 0 11 0 1
 0 26 -1 1
+0 28 1 0
+0 32 2 11
 0 40 0 3
+0 53 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b10 lco gasoleo ta1-3-lco ta2-1-gasoleo
 0
 7
-0 32 2 11
-0 62 -1 1
-0 53 -1 0
-0 29 1 0
 0 9 0 1
 0 26 -1 1
+0 29 1 0
+0 32 2 11
 0 40 0 3
+0 53 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b10 lco gasoleo ta1-3-lco ta2-2-gasoleo
 0
 7
-0 32 2 11
-0 62 -1 1
-0 53 -1 0
-0 29 1 0
 0 11 0 1
 0 26 -1 1
+0 29 1 0
+0 32 2 11
 0 40 0 3
+0 53 -1 0
+0 62 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b11 lco gasoleo ta1-1-lco ta2-1-gasoleo
 0
 7
-0 32 3 11
-0 61 -1 1
-0 53 -1 0
-0 27 1 0
 0 9 0 1
+0 27 1 0
+0 32 3 11
 0 37 -1 1
 0 40 0 3
+0 53 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b11 lco gasoleo ta1-1-lco ta2-2-gasoleo
 0
 7
-0 32 3 11
-0 61 -1 1
-0 53 -1 0
-0 27 1 0
 0 11 0 1
+0 27 1 0
+0 32 3 11
 0 37 -1 1
 0 40 0 3
+0 53 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b11 lco gasoleo ta1-2-lco ta2-1-gasoleo
 0
 7
-0 32 3 11
-0 61 -1 1
-0 53 -1 0
-0 28 1 0
 0 9 0 1
+0 28 1 0
+0 32 3 11
 0 37 -1 1
 0 40 0 3
+0 53 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b11 lco gasoleo ta1-2-lco ta2-2-gasoleo
 0
 7
-0 32 3 11
-0 61 -1 1
-0 53 -1 0
-0 28 1 0
 0 11 0 1
+0 28 1 0
+0 32 3 11
 0 37 -1 1
 0 40 0 3
+0 53 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b11 lco gasoleo ta1-3-lco ta2-1-gasoleo
 0
 7
-0 32 3 11
-0 61 -1 1
-0 53 -1 0
-0 29 1 0
 0 9 0 1
+0 29 1 0
+0 32 3 11
 0 37 -1 1
 0 40 0 3
+0 53 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b11 lco gasoleo ta1-3-lco ta2-2-gasoleo
 0
 7
-0 32 3 11
-0 61 -1 1
-0 53 -1 0
-0 29 1 0
 0 11 0 1
+0 29 1 0
+0 32 3 11
 0 37 -1 1
 0 40 0 3
+0 53 -1 0
+0 61 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b2 lco rat-a ta1-1-lco ta2-1-rat-a
 0
 7
-0 32 4 11
-0 60 -1 1
-0 53 -1 0
-0 27 1 0
 0 4 0 1
 0 25 -1 1
+0 27 1 0
+0 32 4 11
 0 40 0 3
+0 53 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b2 lco rat-a ta1-1-lco ta2-2-rat-a
 0
 7
-0 32 4 11
-0 60 -1 1
-0 53 -1 0
-0 27 1 0
 0 5 0 1
 0 25 -1 1
+0 27 1 0
+0 32 4 11
 0 40 0 3
+0 53 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b2 lco rat-a ta1-2-lco ta2-1-rat-a
 0
 7
-0 32 4 11
-0 60 -1 1
-0 53 -1 0
-0 28 1 0
 0 4 0 1
 0 25 -1 1
+0 28 1 0
+0 32 4 11
 0 40 0 3
+0 53 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b2 lco rat-a ta1-2-lco ta2-2-rat-a
 0
 7
-0 32 4 11
-0 60 -1 1
-0 53 -1 0
-0 28 1 0
 0 5 0 1
 0 25 -1 1
+0 28 1 0
+0 32 4 11
 0 40 0 3
+0 53 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b2 lco rat-a ta1-3-lco ta2-1-rat-a
 0
 7
-0 32 4 11
-0 60 -1 1
-0 53 -1 0
-0 29 1 0
 0 4 0 1
 0 25 -1 1
+0 29 1 0
+0 32 4 11
 0 40 0 3
+0 53 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b2 lco rat-a ta1-3-lco ta2-2-rat-a
 0
 7
-0 32 4 11
-0 60 -1 1
-0 53 -1 0
-0 29 1 0
 0 5 0 1
 0 25 -1 1
+0 29 1 0
+0 32 4 11
 0 40 0 3
+0 53 -1 0
+0 60 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b3 lco gasoleo ta1-1-lco ta2-1-gasoleo
 0
 7
-0 32 5 11
-0 59 -1 1
-0 53 -1 0
-0 27 1 0
 0 9 0 1
+0 27 1 0
+0 32 5 11
 0 38 -1 1
 0 40 0 3
+0 53 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b3 lco gasoleo ta1-1-lco ta2-2-gasoleo
 0
 7
-0 32 5 11
-0 59 -1 1
-0 53 -1 0
-0 27 1 0
 0 11 0 1
+0 27 1 0
+0 32 5 11
 0 38 -1 1
 0 40 0 3
+0 53 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b3 lco gasoleo ta1-2-lco ta2-1-gasoleo
 0
 7
-0 32 5 11
-0 59 -1 1
-0 53 -1 0
-0 28 1 0
 0 9 0 1
+0 28 1 0
+0 32 5 11
 0 38 -1 1
 0 40 0 3
+0 53 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b3 lco gasoleo ta1-2-lco ta2-2-gasoleo
 0
 7
-0 32 5 11
-0 59 -1 1
-0 53 -1 0
-0 28 1 0
 0 11 0 1
+0 28 1 0
+0 32 5 11
 0 38 -1 1
 0 40 0 3
+0 53 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b3 lco gasoleo ta1-3-lco ta2-1-gasoleo
 0
 7
-0 32 5 11
-0 59 -1 1
-0 53 -1 0
-0 29 1 0
 0 9 0 1
+0 29 1 0
+0 32 5 11
 0 38 -1 1
 0 40 0 3
+0 53 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b3 lco gasoleo ta1-3-lco ta2-2-gasoleo
 0
 7
-0 32 5 11
-0 59 -1 1
-0 53 -1 0
-0 29 1 0
 0 11 0 1
+0 29 1 0
+0 32 5 11
 0 38 -1 1
 0 40 0 3
+0 53 -1 0
+0 59 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b4 lco lco ta1-1-lco ta2-1-lco
 0
 7
-0 32 6 11
-0 58 -1 1
-0 53 -1 0
-0 27 1 0
 0 14 0 1
+0 27 1 0
+0 32 6 11
 0 39 -1 1
 0 40 0 3
+0 53 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b4 lco lco ta1-1-lco ta2-2-lco
 0
 7
-0 32 6 11
-0 58 -1 1
-0 53 -1 0
-0 27 1 0
 0 15 0 1
+0 27 1 0
+0 32 6 11
 0 39 -1 1
 0 40 0 3
+0 53 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b4 lco lco ta1-1-lco ta2-3-lco
 0
 7
-0 32 6 11
-0 58 -1 1
-0 53 -1 0
-0 27 1 0
 0 16 0 1
+0 27 1 0
+0 32 6 11
 0 39 -1 1
 0 40 0 3
+0 53 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b4 lco lco ta1-2-lco ta2-1-lco
 0
 7
-0 32 6 11
-0 58 -1 1
-0 53 -1 0
-0 28 1 0
 0 14 0 1
+0 28 1 0
+0 32 6 11
 0 39 -1 1
 0 40 0 3
+0 53 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b4 lco lco ta1-2-lco ta2-2-lco
 0
 7
-0 32 6 11
-0 58 -1 1
-0 53 -1 0
-0 28 1 0
 0 15 0 1
+0 28 1 0
+0 32 6 11
 0 39 -1 1
 0 40 0 3
+0 53 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b4 lco lco ta1-2-lco ta2-3-lco
 0
 7
-0 32 6 11
-0 58 -1 1
-0 53 -1 0
-0 28 1 0
 0 16 0 1
+0 28 1 0
+0 32 6 11
 0 39 -1 1
 0 40 0 3
+0 53 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b4 lco lco ta1-3-lco ta2-1-lco
 0
 7
-0 32 6 11
-0 58 -1 1
-0 53 -1 0
-0 29 1 0
 0 14 0 1
+0 29 1 0
+0 32 6 11
 0 39 -1 1
 0 40 0 3
+0 53 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b4 lco lco ta1-3-lco ta2-2-lco
 0
 7
-0 32 6 11
-0 58 -1 1
-0 53 -1 0
-0 29 1 0
 0 15 0 1
+0 29 1 0
+0 32 6 11
 0 39 -1 1
 0 40 0 3
+0 53 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b4 lco lco ta1-3-lco ta2-3-lco
 0
 7
-0 32 6 11
-0 58 -1 1
-0 53 -1 0
-0 29 1 0
 0 16 0 1
+0 29 1 0
+0 32 6 11
 0 39 -1 1
 0 40 0 3
+0 53 -1 0
+0 58 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b5 lco rat-a ta1-1-lco ta2-1-rat-a
 0
 7
-0 32 7 11
-0 57 -1 1
-0 53 -1 0
-0 27 1 0
 0 4 0 1
+0 27 1 0
+0 32 7 11
 0 35 -1 1
 0 40 0 3
+0 53 -1 0
+0 57 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b5 lco rat-a ta1-1-lco ta2-2-rat-a
 0
 7
-0 32 7 11
-0 57 -1 1
-0 53 -1 0
-0 27 1 0
 0 5 0 1
+0 27 1 0
+0 32 7 11
 0 35 -1 1
 0 40 0 3
+0 53 -1 0
+0 57 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b5 lco rat-a ta1-2-lco ta2-1-rat-a
 0
 7
-0 32 7 11
-0 57 -1 1
-0 53 -1 0
-0 28 1 0
 0 4 0 1
+0 28 1 0
+0 32 7 11
 0 35 -1 1
 0 40 0 3
+0 53 -1 0
+0 57 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b5 lco rat-a ta1-2-lco ta2-2-rat-a
 0
 7
-0 32 7 11
-0 57 -1 1
-0 53 -1 0
-0 28 1 0
 0 5 0 1
+0 28 1 0
+0 32 7 11
 0 35 -1 1
 0 40 0 3
+0 53 -1 0
+0 57 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b5 lco rat-a ta1-3-lco ta2-1-rat-a
 0
 7
-0 32 7 11
-0 57 -1 1
-0 53 -1 0
-0 29 1 0
 0 4 0 1
+0 29 1 0
+0 32 7 11
 0 35 -1 1
 0 40 0 3
+0 53 -1 0
+0 57 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b5 lco rat-a ta1-3-lco ta2-2-rat-a
 0
 7
-0 32 7 11
-0 57 -1 1
-0 53 -1 0
-0 29 1 0
 0 5 0 1
+0 29 1 0
+0 32 7 11
 0 35 -1 1
 0 40 0 3
+0 53 -1 0
+0 57 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b6 lco lco ta1-1-lco ta2-1-lco
 0
 7
-0 32 8 11
-0 56 -1 1
-0 53 -1 0
-0 27 1 0
 0 14 0 1
+0 27 1 0
 0 31 -1 1
+0 32 8 11
 0 40 0 3
+0 53 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b6 lco lco ta1-1-lco ta2-2-lco
 0
 7
-0 32 8 11
-0 56 -1 1
-0 53 -1 0
-0 27 1 0
 0 15 0 1
+0 27 1 0
 0 31 -1 1
+0 32 8 11
 0 40 0 3
+0 53 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b6 lco lco ta1-1-lco ta2-3-lco
 0
 7
-0 32 8 11
-0 56 -1 1
-0 53 -1 0
-0 27 1 0
 0 16 0 1
+0 27 1 0
 0 31 -1 1
+0 32 8 11
 0 40 0 3
+0 53 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b6 lco lco ta1-2-lco ta2-1-lco
 0
 7
-0 32 8 11
-0 56 -1 1
-0 53 -1 0
-0 28 1 0
 0 14 0 1
+0 28 1 0
 0 31 -1 1
+0 32 8 11
 0 40 0 3
+0 53 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b6 lco lco ta1-2-lco ta2-2-lco
 0
 7
-0 32 8 11
-0 56 -1 1
-0 53 -1 0
-0 28 1 0
 0 15 0 1
+0 28 1 0
 0 31 -1 1
+0 32 8 11
 0 40 0 3
+0 53 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b6 lco lco ta1-2-lco ta2-3-lco
 0
 7
-0 32 8 11
-0 56 -1 1
-0 53 -1 0
-0 28 1 0
 0 16 0 1
+0 28 1 0
 0 31 -1 1
+0 32 8 11
 0 40 0 3
+0 53 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b6 lco lco ta1-3-lco ta2-1-lco
 0
 7
-0 32 8 11
-0 56 -1 1
-0 53 -1 0
-0 29 1 0
 0 14 0 1
+0 29 1 0
 0 31 -1 1
+0 32 8 11
 0 40 0 3
+0 53 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b6 lco lco ta1-3-lco ta2-2-lco
 0
 7
-0 32 8 11
-0 56 -1 1
-0 53 -1 0
-0 29 1 0
 0 15 0 1
+0 29 1 0
 0 31 -1 1
+0 32 8 11
 0 40 0 3
+0 53 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b6 lco lco ta1-3-lco ta2-3-lco
 0
 7
-0 32 8 11
-0 56 -1 1
-0 53 -1 0
-0 29 1 0
 0 16 0 1
+0 29 1 0
 0 31 -1 1
+0 32 8 11
 0 40 0 3
+0 53 -1 0
+0 56 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b7 lco rat-a ta1-1-lco ta2-1-rat-a
 0
 7
-0 32 9 11
-0 55 -1 1
-0 53 -1 0
-0 27 1 0
 0 4 0 1
+0 27 1 0
+0 32 9 11
 0 36 -1 1
 0 40 0 3
+0 53 -1 0
+0 55 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b7 lco rat-a ta1-1-lco ta2-2-rat-a
 0
 7
-0 32 9 11
-0 55 -1 1
-0 53 -1 0
-0 27 1 0
 0 5 0 1
+0 27 1 0
+0 32 9 11
 0 36 -1 1
 0 40 0 3
+0 53 -1 0
+0 55 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b7 lco rat-a ta1-2-lco ta2-1-rat-a
 0
 7
-0 32 9 11
-0 55 -1 1
-0 53 -1 0
-0 28 1 0
 0 4 0 1
+0 28 1 0
+0 32 9 11
 0 36 -1 1
 0 40 0 3
+0 53 -1 0
+0 55 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b7 lco rat-a ta1-2-lco ta2-2-rat-a
 0
 7
-0 32 9 11
-0 55 -1 1
-0 53 -1 0
-0 28 1 0
 0 5 0 1
+0 28 1 0
+0 32 9 11
 0 36 -1 1
 0 40 0 3
+0 53 -1 0
+0 55 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b7 lco rat-a ta1-3-lco ta2-1-rat-a
 0
 7
-0 32 9 11
-0 55 -1 1
-0 53 -1 0
-0 29 1 0
 0 4 0 1
+0 29 1 0
+0 32 9 11
 0 36 -1 1
 0 40 0 3
+0 53 -1 0
+0 55 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b7 lco rat-a ta1-3-lco ta2-2-rat-a
 0
 7
-0 32 9 11
-0 55 -1 1
-0 53 -1 0
-0 29 1 0
 0 5 0 1
+0 29 1 0
+0 32 9 11
 0 36 -1 1
 0 40 0 3
+0 53 -1 0
+0 55 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b8 lco oc1b ta1-1-lco ta2-1-oc1b
 0
 7
-0 32 10 11
-0 54 -1 1
-0 53 -1 0
-0 27 1 0
 0 0 0 1
 0 23 -1 1
+0 27 1 0
+0 32 10 11
 0 40 0 3
+0 53 -1 0
+0 54 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b8 lco oc1b ta1-1-lco ta2-2-oc1b
 0
 7
-0 32 10 11
-0 54 -1 1
-0 53 -1 0
-0 27 1 0
 0 1 0 1
 0 23 -1 1
+0 27 1 0
+0 32 10 11
 0 40 0 3
+0 53 -1 0
+0 54 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b8 lco oc1b ta1-2-lco ta2-1-oc1b
 0
 7
-0 32 10 11
-0 54 -1 1
-0 53 -1 0
-0 28 1 0
 0 0 0 1
 0 23 -1 1
+0 28 1 0
+0 32 10 11
 0 40 0 3
+0 53 -1 0
+0 54 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b8 lco oc1b ta1-2-lco ta2-2-oc1b
 0
 7
-0 32 10 11
-0 54 -1 1
-0 53 -1 0
-0 28 1 0
 0 1 0 1
 0 23 -1 1
+0 28 1 0
+0 32 10 11
 0 40 0 3
+0 53 -1 0
+0 54 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b8 lco oc1b ta1-3-lco ta2-1-oc1b
 0
 7
-0 32 10 11
-0 54 -1 1
-0 53 -1 0
-0 29 1 0
 0 0 0 1
 0 23 -1 1
+0 29 1 0
+0 32 10 11
 0 40 0 3
+0 53 -1 0
+0 54 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s12 b9 a1 a2 b8 lco oc1b ta1-3-lco ta2-2-oc1b
 0
 7
-0 32 10 11
-0 54 -1 1
-0 53 -1 0
-0 29 1 0
 0 1 0 1
 0 23 -1 1
+0 29 1 0
+0 32 10 11
 0 40 0 3
+0 53 -1 0
+0 54 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b1 lco oc1b ta1-1-lco ta3-1-oc1b
 0
 7
-0 33 1 0
-0 52 -1 0
-0 51 -1 1
-0 27 1 0
 0 2 0 1
+0 27 1 0
 0 30 0 3
+0 33 1 0
 0 34 -1 2
+0 51 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b1 lco oc1b ta1-1-lco ta3-2-oc1b
 0
 7
-0 33 1 0
-0 52 -1 0
-0 51 -1 1
-0 27 1 0
 0 3 0 1
+0 27 1 0
 0 30 0 3
+0 33 1 0
 0 34 -1 2
+0 51 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b1 lco oc1b ta1-2-lco ta3-1-oc1b
 0
 7
-0 33 1 0
-0 52 -1 0
-0 51 -1 1
-0 28 1 0
 0 2 0 1
+0 28 1 0
 0 30 0 3
+0 33 1 0
 0 34 -1 2
+0 51 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b1 lco oc1b ta1-2-lco ta3-2-oc1b
 0
 7
-0 33 1 0
-0 52 -1 0
-0 51 -1 1
-0 28 1 0
 0 3 0 1
+0 28 1 0
 0 30 0 3
+0 33 1 0
 0 34 -1 2
+0 51 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b1 lco oc1b ta1-3-lco ta3-1-oc1b
 0
 7
-0 33 1 0
-0 52 -1 0
-0 51 -1 1
-0 29 1 0
 0 2 0 1
+0 29 1 0
 0 30 0 3
+0 33 1 0
 0 34 -1 2
+0 51 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b1 lco oc1b ta1-3-lco ta3-2-oc1b
 0
 7
-0 33 1 0
-0 52 -1 0
-0 51 -1 1
-0 29 1 0
 0 3 0 1
+0 29 1 0
 0 30 0 3
+0 33 1 0
 0 34 -1 2
+0 51 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b10 lco gasoleo ta1-1-lco ta3-1-gasoleo
 0
 7
-0 33 2 0
-0 52 -1 0
-0 50 -1 1
-0 27 1 0
 0 12 0 1
-0 30 0 3
 0 26 -1 2
+0 27 1 0
+0 30 0 3
+0 33 2 0
+0 50 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b10 lco gasoleo ta1-1-lco ta3-2-gasoleo
 0
 7
-0 33 2 0
-0 52 -1 0
-0 50 -1 1
-0 27 1 0
 0 13 0 1
-0 30 0 3
 0 26 -1 2
+0 27 1 0
+0 30 0 3
+0 33 2 0
+0 50 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b10 lco gasoleo ta1-2-lco ta3-1-gasoleo
 0
 7
-0 33 2 0
-0 52 -1 0
-0 50 -1 1
-0 28 1 0
 0 12 0 1
-0 30 0 3
 0 26 -1 2
+0 28 1 0
+0 30 0 3
+0 33 2 0
+0 50 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b10 lco gasoleo ta1-2-lco ta3-2-gasoleo
 0
 7
-0 33 2 0
-0 52 -1 0
-0 50 -1 1
-0 28 1 0
 0 13 0 1
-0 30 0 3
 0 26 -1 2
+0 28 1 0
+0 30 0 3
+0 33 2 0
+0 50 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b10 lco gasoleo ta1-3-lco ta3-1-gasoleo
 0
 7
-0 33 2 0
-0 52 -1 0
-0 50 -1 1
-0 29 1 0
 0 12 0 1
-0 30 0 3
 0 26 -1 2
+0 29 1 0
+0 30 0 3
+0 33 2 0
+0 50 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b10 lco gasoleo ta1-3-lco ta3-2-gasoleo
 0
 7
-0 33 2 0
-0 52 -1 0
-0 50 -1 1
-0 29 1 0
 0 13 0 1
-0 30 0 3
 0 26 -1 2
+0 29 1 0
+0 30 0 3
+0 33 2 0
+0 50 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b11 lco gasoleo ta1-1-lco ta3-1-gasoleo
 0
 7
-0 33 3 0
-0 52 -1 0
-0 49 -1 1
-0 27 1 0
 0 12 0 1
+0 27 1 0
 0 30 0 3
+0 33 3 0
 0 37 -1 2
+0 49 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b11 lco gasoleo ta1-1-lco ta3-2-gasoleo
 0
 7
-0 33 3 0
-0 52 -1 0
-0 49 -1 1
-0 27 1 0
 0 13 0 1
+0 27 1 0
 0 30 0 3
+0 33 3 0
 0 37 -1 2
+0 49 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b11 lco gasoleo ta1-2-lco ta3-1-gasoleo
 0
 7
-0 33 3 0
-0 52 -1 0
-0 49 -1 1
-0 28 1 0
 0 12 0 1
+0 28 1 0
 0 30 0 3
+0 33 3 0
 0 37 -1 2
+0 49 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b11 lco gasoleo ta1-2-lco ta3-2-gasoleo
 0
 7
-0 33 3 0
-0 52 -1 0
-0 49 -1 1
-0 28 1 0
 0 13 0 1
+0 28 1 0
 0 30 0 3
+0 33 3 0
 0 37 -1 2
+0 49 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b11 lco gasoleo ta1-3-lco ta3-1-gasoleo
 0
 7
-0 33 3 0
-0 52 -1 0
-0 49 -1 1
-0 29 1 0
 0 12 0 1
+0 29 1 0
 0 30 0 3
+0 33 3 0
 0 37 -1 2
+0 49 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b11 lco gasoleo ta1-3-lco ta3-2-gasoleo
 0
 7
-0 33 3 0
-0 52 -1 0
-0 49 -1 1
-0 29 1 0
 0 13 0 1
+0 29 1 0
 0 30 0 3
+0 33 3 0
 0 37 -1 2
+0 49 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b2 lco rat-a ta1-1-lco ta3-1-rat-a
 0
 7
-0 33 4 0
-0 52 -1 0
-0 48 -1 1
-0 27 1 0
 0 6 0 1
-0 30 0 3
 0 25 -1 2
+0 27 1 0
+0 30 0 3
+0 33 4 0
+0 48 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b2 lco rat-a ta1-1-lco ta3-2-rat-a
 0
 7
-0 33 4 0
-0 52 -1 0
-0 48 -1 1
-0 27 1 0
 0 7 0 1
-0 30 0 3
 0 25 -1 2
+0 27 1 0
+0 30 0 3
+0 33 4 0
+0 48 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b2 lco rat-a ta1-2-lco ta3-1-rat-a
 0
 7
-0 33 4 0
-0 52 -1 0
-0 48 -1 1
-0 28 1 0
 0 6 0 1
-0 30 0 3
 0 25 -1 2
+0 28 1 0
+0 30 0 3
+0 33 4 0
+0 48 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b2 lco rat-a ta1-2-lco ta3-2-rat-a
 0
 7
-0 33 4 0
-0 52 -1 0
-0 48 -1 1
-0 28 1 0
 0 7 0 1
-0 30 0 3
 0 25 -1 2
+0 28 1 0
+0 30 0 3
+0 33 4 0
+0 48 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b2 lco rat-a ta1-3-lco ta3-1-rat-a
 0
 7
-0 33 4 0
-0 52 -1 0
-0 48 -1 1
-0 29 1 0
 0 6 0 1
-0 30 0 3
 0 25 -1 2
+0 29 1 0
+0 30 0 3
+0 33 4 0
+0 48 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b2 lco rat-a ta1-3-lco ta3-2-rat-a
 0
 7
-0 33 4 0
-0 52 -1 0
-0 48 -1 1
-0 29 1 0
 0 7 0 1
-0 30 0 3
 0 25 -1 2
+0 29 1 0
+0 30 0 3
+0 33 4 0
+0 48 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b3 lco gasoleo ta1-1-lco ta3-1-gasoleo
 0
 7
-0 33 5 0
-0 52 -1 0
-0 47 -1 1
-0 27 1 0
 0 12 0 1
+0 27 1 0
 0 30 0 3
+0 33 5 0
 0 38 -1 2
+0 47 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b3 lco gasoleo ta1-1-lco ta3-2-gasoleo
 0
 7
-0 33 5 0
-0 52 -1 0
-0 47 -1 1
-0 27 1 0
 0 13 0 1
+0 27 1 0
 0 30 0 3
+0 33 5 0
 0 38 -1 2
+0 47 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b3 lco gasoleo ta1-2-lco ta3-1-gasoleo
 0
 7
-0 33 5 0
-0 52 -1 0
-0 47 -1 1
-0 28 1 0
 0 12 0 1
+0 28 1 0
 0 30 0 3
+0 33 5 0
 0 38 -1 2
+0 47 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b3 lco gasoleo ta1-2-lco ta3-2-gasoleo
 0
 7
-0 33 5 0
-0 52 -1 0
-0 47 -1 1
-0 28 1 0
 0 13 0 1
+0 28 1 0
 0 30 0 3
+0 33 5 0
 0 38 -1 2
+0 47 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b3 lco gasoleo ta1-3-lco ta3-1-gasoleo
 0
 7
-0 33 5 0
-0 52 -1 0
-0 47 -1 1
-0 29 1 0
 0 12 0 1
+0 29 1 0
 0 30 0 3
+0 33 5 0
 0 38 -1 2
+0 47 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b3 lco gasoleo ta1-3-lco ta3-2-gasoleo
 0
 7
-0 33 5 0
-0 52 -1 0
-0 47 -1 1
-0 29 1 0
 0 13 0 1
+0 29 1 0
 0 30 0 3
+0 33 5 0
 0 38 -1 2
+0 47 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b4 lco lco ta1-1-lco ta3-1-lco
 0
 7
-0 33 6 0
-0 52 -1 0
-0 46 -1 1
-0 27 1 0
 0 17 0 1
+0 27 1 0
 0 30 0 3
+0 33 6 0
 0 39 -1 2
+0 46 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b4 lco lco ta1-1-lco ta3-2-lco
 0
 7
-0 33 6 0
-0 52 -1 0
-0 46 -1 1
-0 27 1 0
 0 18 0 1
+0 27 1 0
 0 30 0 3
+0 33 6 0
 0 39 -1 2
+0 46 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b4 lco lco ta1-1-lco ta3-3-lco
 0
 7
-0 33 6 0
-0 52 -1 0
-0 46 -1 1
-0 27 1 0
 0 20 0 1
+0 27 1 0
 0 30 0 3
+0 33 6 0
 0 39 -1 2
+0 46 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b4 lco lco ta1-2-lco ta3-1-lco
 0
 7
-0 33 6 0
-0 52 -1 0
-0 46 -1 1
-0 28 1 0
 0 17 0 1
+0 28 1 0
 0 30 0 3
+0 33 6 0
 0 39 -1 2
+0 46 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b4 lco lco ta1-2-lco ta3-2-lco
 0
 7
-0 33 6 0
-0 52 -1 0
-0 46 -1 1
-0 28 1 0
 0 18 0 1
+0 28 1 0
 0 30 0 3
+0 33 6 0
 0 39 -1 2
+0 46 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b4 lco lco ta1-2-lco ta3-3-lco
 0
 7
-0 33 6 0
-0 52 -1 0
-0 46 -1 1
-0 28 1 0
 0 20 0 1
+0 28 1 0
 0 30 0 3
+0 33 6 0
 0 39 -1 2
+0 46 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b4 lco lco ta1-3-lco ta3-1-lco
 0
 7
-0 33 6 0
-0 52 -1 0
-0 46 -1 1
-0 29 1 0
 0 17 0 1
+0 29 1 0
 0 30 0 3
+0 33 6 0
 0 39 -1 2
+0 46 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b4 lco lco ta1-3-lco ta3-2-lco
 0
 7
-0 33 6 0
-0 52 -1 0
-0 46 -1 1
-0 29 1 0
 0 18 0 1
+0 29 1 0
 0 30 0 3
+0 33 6 0
 0 39 -1 2
+0 46 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b4 lco lco ta1-3-lco ta3-3-lco
 0
 7
-0 33 6 0
-0 52 -1 0
-0 46 -1 1
-0 29 1 0
 0 20 0 1
+0 29 1 0
 0 30 0 3
+0 33 6 0
 0 39 -1 2
+0 46 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b5 lco rat-a ta1-1-lco ta3-1-rat-a
 0
 7
-0 33 7 0
-0 52 -1 0
-0 45 -1 1
-0 27 1 0
 0 6 0 1
+0 27 1 0
 0 30 0 3
+0 33 7 0
 0 35 -1 2
+0 45 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b5 lco rat-a ta1-1-lco ta3-2-rat-a
 0
 7
-0 33 7 0
-0 52 -1 0
-0 45 -1 1
-0 27 1 0
 0 7 0 1
+0 27 1 0
 0 30 0 3
+0 33 7 0
 0 35 -1 2
+0 45 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b5 lco rat-a ta1-2-lco ta3-1-rat-a
 0
 7
-0 33 7 0
-0 52 -1 0
-0 45 -1 1
-0 28 1 0
 0 6 0 1
+0 28 1 0
 0 30 0 3
+0 33 7 0
 0 35 -1 2
+0 45 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b5 lco rat-a ta1-2-lco ta3-2-rat-a
 0
 7
-0 33 7 0
-0 52 -1 0
-0 45 -1 1
-0 28 1 0
 0 7 0 1
+0 28 1 0
 0 30 0 3
+0 33 7 0
 0 35 -1 2
+0 45 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b5 lco rat-a ta1-3-lco ta3-1-rat-a
 0
 7
-0 33 7 0
-0 52 -1 0
-0 45 -1 1
-0 29 1 0
 0 6 0 1
+0 29 1 0
 0 30 0 3
+0 33 7 0
 0 35 -1 2
+0 45 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b5 lco rat-a ta1-3-lco ta3-2-rat-a
 0
 7
-0 33 7 0
-0 52 -1 0
-0 45 -1 1
-0 29 1 0
 0 7 0 1
+0 29 1 0
 0 30 0 3
+0 33 7 0
 0 35 -1 2
+0 45 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b6 lco lco ta1-1-lco ta3-1-lco
 0
 7
-0 33 8 0
-0 52 -1 0
-0 44 -1 1
-0 27 1 0
 0 17 0 1
+0 27 1 0
 0 30 0 3
 0 31 -1 2
+0 33 8 0
+0 44 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b6 lco lco ta1-1-lco ta3-2-lco
 0
 7
-0 33 8 0
-0 52 -1 0
-0 44 -1 1
-0 27 1 0
 0 18 0 1
+0 27 1 0
 0 30 0 3
 0 31 -1 2
+0 33 8 0
+0 44 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b6 lco lco ta1-1-lco ta3-3-lco
 0
 7
-0 33 8 0
-0 52 -1 0
-0 44 -1 1
-0 27 1 0
 0 20 0 1
+0 27 1 0
 0 30 0 3
 0 31 -1 2
+0 33 8 0
+0 44 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b6 lco lco ta1-2-lco ta3-1-lco
 0
 7
-0 33 8 0
-0 52 -1 0
-0 44 -1 1
-0 28 1 0
 0 17 0 1
+0 28 1 0
 0 30 0 3
 0 31 -1 2
+0 33 8 0
+0 44 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b6 lco lco ta1-2-lco ta3-2-lco
 0
 7
-0 33 8 0
-0 52 -1 0
-0 44 -1 1
-0 28 1 0
 0 18 0 1
+0 28 1 0
 0 30 0 3
 0 31 -1 2
+0 33 8 0
+0 44 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b6 lco lco ta1-2-lco ta3-3-lco
 0
 7
-0 33 8 0
-0 52 -1 0
-0 44 -1 1
-0 28 1 0
 0 20 0 1
+0 28 1 0
 0 30 0 3
 0 31 -1 2
+0 33 8 0
+0 44 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b6 lco lco ta1-3-lco ta3-1-lco
 0
 7
-0 33 8 0
-0 52 -1 0
-0 44 -1 1
-0 29 1 0
 0 17 0 1
+0 29 1 0
 0 30 0 3
 0 31 -1 2
+0 33 8 0
+0 44 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b6 lco lco ta1-3-lco ta3-2-lco
 0
 7
-0 33 8 0
-0 52 -1 0
-0 44 -1 1
-0 29 1 0
 0 18 0 1
+0 29 1 0
 0 30 0 3
 0 31 -1 2
+0 33 8 0
+0 44 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b6 lco lco ta1-3-lco ta3-3-lco
 0
 7
-0 33 8 0
-0 52 -1 0
-0 44 -1 1
-0 29 1 0
 0 20 0 1
+0 29 1 0
 0 30 0 3
 0 31 -1 2
+0 33 8 0
+0 44 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b7 lco rat-a ta1-1-lco ta3-1-rat-a
 0
 7
-0 33 9 0
-0 52 -1 0
-0 43 -1 1
-0 27 1 0
 0 6 0 1
+0 27 1 0
 0 30 0 3
+0 33 9 0
 0 36 -1 2
+0 43 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b7 lco rat-a ta1-1-lco ta3-2-rat-a
 0
 7
-0 33 9 0
-0 52 -1 0
-0 43 -1 1
-0 27 1 0
 0 7 0 1
+0 27 1 0
 0 30 0 3
+0 33 9 0
 0 36 -1 2
+0 43 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b7 lco rat-a ta1-2-lco ta3-1-rat-a
 0
 7
-0 33 9 0
-0 52 -1 0
-0 43 -1 1
-0 28 1 0
 0 6 0 1
+0 28 1 0
 0 30 0 3
+0 33 9 0
 0 36 -1 2
+0 43 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b7 lco rat-a ta1-2-lco ta3-2-rat-a
 0
 7
-0 33 9 0
-0 52 -1 0
-0 43 -1 1
-0 28 1 0
 0 7 0 1
+0 28 1 0
 0 30 0 3
+0 33 9 0
 0 36 -1 2
+0 43 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b7 lco rat-a ta1-3-lco ta3-1-rat-a
 0
 7
-0 33 9 0
-0 52 -1 0
-0 43 -1 1
-0 29 1 0
 0 6 0 1
+0 29 1 0
 0 30 0 3
+0 33 9 0
 0 36 -1 2
+0 43 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b7 lco rat-a ta1-3-lco ta3-2-rat-a
 0
 7
-0 33 9 0
-0 52 -1 0
-0 43 -1 1
-0 29 1 0
 0 7 0 1
+0 29 1 0
 0 30 0 3
+0 33 9 0
 0 36 -1 2
+0 43 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b8 lco oc1b ta1-1-lco ta3-1-oc1b
 0
 7
-0 33 10 0
-0 52 -1 0
-0 42 -1 1
-0 27 1 0
 0 2 0 1
-0 30 0 3
 0 23 -1 2
+0 27 1 0
+0 30 0 3
+0 33 10 0
+0 42 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b8 lco oc1b ta1-1-lco ta3-2-oc1b
 0
 7
-0 33 10 0
-0 52 -1 0
-0 42 -1 1
-0 27 1 0
 0 3 0 1
-0 30 0 3
 0 23 -1 2
+0 27 1 0
+0 30 0 3
+0 33 10 0
+0 42 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b8 lco oc1b ta1-2-lco ta3-1-oc1b
 0
 7
-0 33 10 0
-0 52 -1 0
-0 42 -1 1
-0 28 1 0
 0 2 0 1
-0 30 0 3
 0 23 -1 2
+0 28 1 0
+0 30 0 3
+0 33 10 0
+0 42 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b8 lco oc1b ta1-2-lco ta3-2-oc1b
 0
 7
-0 33 10 0
-0 52 -1 0
-0 42 -1 1
-0 28 1 0
 0 3 0 1
-0 30 0 3
 0 23 -1 2
+0 28 1 0
+0 30 0 3
+0 33 10 0
+0 42 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b8 lco oc1b ta1-3-lco ta3-1-oc1b
 0
 7
-0 33 10 0
-0 52 -1 0
-0 42 -1 1
-0 29 1 0
 0 2 0 1
-0 30 0 3
 0 23 -1 2
+0 29 1 0
+0 30 0 3
+0 33 10 0
+0 42 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b8 lco oc1b ta1-3-lco ta3-2-oc1b
 0
 7
-0 33 10 0
-0 52 -1 0
-0 42 -1 1
-0 29 1 0
 0 3 0 1
-0 30 0 3
 0 23 -1 2
+0 29 1 0
+0 30 0 3
+0 33 10 0
+0 42 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b9 lco lco ta1-1-lco ta3-1-lco
 0
 7
-0 33 11 0
-0 52 -1 0
-0 41 -1 1
-0 27 1 0
 0 17 0 1
+0 27 1 0
 0 30 0 3
+0 33 11 0
 0 40 -1 2
+0 41 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b9 lco lco ta1-1-lco ta3-2-lco
 0
 7
-0 33 11 0
-0 52 -1 0
-0 41 -1 1
-0 27 1 0
 0 18 0 1
+0 27 1 0
 0 30 0 3
+0 33 11 0
 0 40 -1 2
+0 41 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b9 lco lco ta1-1-lco ta3-3-lco
 0
 7
-0 33 11 0
-0 52 -1 0
-0 41 -1 1
-0 27 1 0
 0 20 0 1
+0 27 1 0
 0 30 0 3
+0 33 11 0
 0 40 -1 2
+0 41 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b9 lco lco ta1-2-lco ta3-1-lco
 0
 7
-0 33 11 0
-0 52 -1 0
-0 41 -1 1
-0 28 1 0
 0 17 0 1
+0 28 1 0
 0 30 0 3
+0 33 11 0
 0 40 -1 2
+0 41 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b9 lco lco ta1-2-lco ta3-2-lco
 0
 7
-0 33 11 0
-0 52 -1 0
-0 41 -1 1
-0 28 1 0
 0 18 0 1
+0 28 1 0
 0 30 0 3
+0 33 11 0
 0 40 -1 2
+0 41 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b9 lco lco ta1-2-lco ta3-3-lco
 0
 7
-0 33 11 0
-0 52 -1 0
-0 41 -1 1
-0 28 1 0
 0 20 0 1
+0 28 1 0
 0 30 0 3
+0 33 11 0
 0 40 -1 2
+0 41 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b9 lco lco ta1-3-lco ta3-1-lco
 0
 7
-0 33 11 0
-0 52 -1 0
-0 41 -1 1
-0 29 1 0
 0 17 0 1
+0 29 1 0
 0 30 0 3
+0 33 11 0
 0 40 -1 2
+0 41 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b9 lco lco ta1-3-lco ta3-2-lco
 0
 7
-0 33 11 0
-0 52 -1 0
-0 41 -1 1
-0 29 1 0
 0 18 0 1
+0 29 1 0
 0 30 0 3
+0 33 11 0
 0 40 -1 2
+0 41 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b0 a1 a3 b9 lco lco ta1-3-lco ta3-3-lco
 0
 7
-0 33 11 0
-0 52 -1 0
-0 41 -1 1
-0 29 1 0
 0 20 0 1
+0 29 1 0
 0 30 0 3
+0 33 11 0
 0 40 -1 2
+0 41 -1 1
+0 52 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b0 oc1b lco ta1-1-oc1b ta3-1-lco
 0
 7
-0 33 0 1
-0 52 -1 1
-0 51 -1 0
 0 8 1 0
 0 17 0 1
 0 30 -1 2
+0 33 0 1
 0 34 0 3
+0 51 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b0 oc1b lco ta1-1-oc1b ta3-2-lco
 0
 7
-0 33 0 1
-0 52 -1 1
-0 51 -1 0
 0 8 1 0
 0 18 0 1
 0 30 -1 2
+0 33 0 1
 0 34 0 3
+0 51 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b0 oc1b lco ta1-1-oc1b ta3-3-lco
 0
 7
-0 33 0 1
-0 52 -1 1
-0 51 -1 0
 0 8 1 0
 0 20 0 1
 0 30 -1 2
+0 33 0 1
 0 34 0 3
+0 51 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b0 oc1b lco ta1-2-oc1b ta3-1-lco
 0
 7
-0 33 0 1
-0 52 -1 1
-0 51 -1 0
 0 10 1 0
 0 17 0 1
 0 30 -1 2
+0 33 0 1
 0 34 0 3
+0 51 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b0 oc1b lco ta1-2-oc1b ta3-2-lco
 0
 7
-0 33 0 1
-0 52 -1 1
-0 51 -1 0
 0 10 1 0
 0 18 0 1
 0 30 -1 2
+0 33 0 1
 0 34 0 3
+0 51 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b0 oc1b lco ta1-2-oc1b ta3-3-lco
 0
 7
-0 33 0 1
-0 52 -1 1
-0 51 -1 0
 0 10 1 0
 0 20 0 1
 0 30 -1 2
+0 33 0 1
 0 34 0 3
+0 51 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b10 oc1b gasoleo ta1-1-oc1b ta3-1-gasoleo
 0
 7
-0 33 2 1
-0 51 -1 0
-0 50 -1 1
 0 8 1 0
 0 12 0 1
-0 34 0 3
 0 26 -1 2
+0 33 2 1
+0 34 0 3
+0 50 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b10 oc1b gasoleo ta1-1-oc1b ta3-2-gasoleo
 0
 7
-0 33 2 1
-0 51 -1 0
-0 50 -1 1
 0 8 1 0
 0 13 0 1
-0 34 0 3
 0 26 -1 2
+0 33 2 1
+0 34 0 3
+0 50 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b10 oc1b gasoleo ta1-2-oc1b ta3-1-gasoleo
 0
 7
-0 33 2 1
-0 51 -1 0
-0 50 -1 1
 0 10 1 0
 0 12 0 1
-0 34 0 3
 0 26 -1 2
+0 33 2 1
+0 34 0 3
+0 50 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b10 oc1b gasoleo ta1-2-oc1b ta3-2-gasoleo
 0
 7
-0 33 2 1
-0 51 -1 0
-0 50 -1 1
 0 10 1 0
 0 13 0 1
-0 34 0 3
 0 26 -1 2
+0 33 2 1
+0 34 0 3
+0 50 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b11 oc1b gasoleo ta1-1-oc1b ta3-1-gasoleo
 0
 7
-0 33 3 1
-0 51 -1 0
-0 49 -1 1
 0 8 1 0
 0 12 0 1
+0 33 3 1
 0 34 0 3
 0 37 -1 2
+0 49 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b11 oc1b gasoleo ta1-1-oc1b ta3-2-gasoleo
 0
 7
-0 33 3 1
-0 51 -1 0
-0 49 -1 1
 0 8 1 0
 0 13 0 1
+0 33 3 1
 0 34 0 3
 0 37 -1 2
+0 49 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b11 oc1b gasoleo ta1-2-oc1b ta3-1-gasoleo
 0
 7
-0 33 3 1
-0 51 -1 0
-0 49 -1 1
 0 10 1 0
 0 12 0 1
+0 33 3 1
 0 34 0 3
 0 37 -1 2
+0 49 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b11 oc1b gasoleo ta1-2-oc1b ta3-2-gasoleo
 0
 7
-0 33 3 1
-0 51 -1 0
-0 49 -1 1
 0 10 1 0
 0 13 0 1
+0 33 3 1
 0 34 0 3
 0 37 -1 2
+0 49 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b3 oc1b gasoleo ta1-1-oc1b ta3-1-gasoleo
 0
 7
-0 33 5 1
-0 51 -1 0
-0 47 -1 1
 0 8 1 0
 0 12 0 1
+0 33 5 1
 0 34 0 3
 0 38 -1 2
+0 47 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b3 oc1b gasoleo ta1-1-oc1b ta3-2-gasoleo
 0
 7
-0 33 5 1
-0 51 -1 0
-0 47 -1 1
 0 8 1 0
 0 13 0 1
+0 33 5 1
 0 34 0 3
 0 38 -1 2
+0 47 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b3 oc1b gasoleo ta1-2-oc1b ta3-1-gasoleo
 0
 7
-0 33 5 1
-0 51 -1 0
-0 47 -1 1
 0 10 1 0
 0 12 0 1
+0 33 5 1
 0 34 0 3
 0 38 -1 2
+0 47 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b3 oc1b gasoleo ta1-2-oc1b ta3-2-gasoleo
 0
 7
-0 33 5 1
-0 51 -1 0
-0 47 -1 1
 0 10 1 0
 0 13 0 1
+0 33 5 1
 0 34 0 3
 0 38 -1 2
+0 47 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b4 oc1b lco ta1-1-oc1b ta3-1-lco
 0
 7
-0 33 6 1
-0 51 -1 0
-0 46 -1 1
 0 8 1 0
 0 17 0 1
+0 33 6 1
 0 34 0 3
 0 39 -1 2
+0 46 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b4 oc1b lco ta1-1-oc1b ta3-2-lco
 0
 7
-0 33 6 1
-0 51 -1 0
-0 46 -1 1
 0 8 1 0
 0 18 0 1
+0 33 6 1
 0 34 0 3
 0 39 -1 2
+0 46 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b4 oc1b lco ta1-1-oc1b ta3-3-lco
 0
 7
-0 33 6 1
-0 51 -1 0
-0 46 -1 1
 0 8 1 0
 0 20 0 1
+0 33 6 1
 0 34 0 3
 0 39 -1 2
+0 46 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b4 oc1b lco ta1-2-oc1b ta3-1-lco
 0
 7
-0 33 6 1
-0 51 -1 0
-0 46 -1 1
 0 10 1 0
 0 17 0 1
+0 33 6 1
 0 34 0 3
 0 39 -1 2
+0 46 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b4 oc1b lco ta1-2-oc1b ta3-2-lco
 0
 7
-0 33 6 1
-0 51 -1 0
-0 46 -1 1
 0 10 1 0
 0 18 0 1
+0 33 6 1
 0 34 0 3
 0 39 -1 2
+0 46 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b4 oc1b lco ta1-2-oc1b ta3-3-lco
 0
 7
-0 33 6 1
-0 51 -1 0
-0 46 -1 1
 0 10 1 0
 0 20 0 1
+0 33 6 1
 0 34 0 3
 0 39 -1 2
+0 46 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b6 oc1b lco ta1-1-oc1b ta3-1-lco
 0
 7
-0 33 8 1
-0 51 -1 0
-0 44 -1 1
 0 8 1 0
 0 17 0 1
-0 34 0 3
 0 31 -1 2
+0 33 8 1
+0 34 0 3
+0 44 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b6 oc1b lco ta1-1-oc1b ta3-2-lco
 0
 7
-0 33 8 1
-0 51 -1 0
-0 44 -1 1
 0 8 1 0
 0 18 0 1
-0 34 0 3
 0 31 -1 2
+0 33 8 1
+0 34 0 3
+0 44 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b6 oc1b lco ta1-1-oc1b ta3-3-lco
 0
 7
-0 33 8 1
-0 51 -1 0
-0 44 -1 1
 0 8 1 0
 0 20 0 1
-0 34 0 3
 0 31 -1 2
+0 33 8 1
+0 34 0 3
+0 44 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b6 oc1b lco ta1-2-oc1b ta3-1-lco
 0
 7
-0 33 8 1
-0 51 -1 0
-0 44 -1 1
 0 10 1 0
 0 17 0 1
-0 34 0 3
 0 31 -1 2
+0 33 8 1
+0 34 0 3
+0 44 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b6 oc1b lco ta1-2-oc1b ta3-2-lco
 0
 7
-0 33 8 1
-0 51 -1 0
-0 44 -1 1
 0 10 1 0
 0 18 0 1
-0 34 0 3
 0 31 -1 2
+0 33 8 1
+0 34 0 3
+0 44 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b6 oc1b lco ta1-2-oc1b ta3-3-lco
 0
 7
-0 33 8 1
-0 51 -1 0
-0 44 -1 1
 0 10 1 0
 0 20 0 1
-0 34 0 3
 0 31 -1 2
+0 33 8 1
+0 34 0 3
+0 44 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b8 oc1b oc1b ta1-1-oc1b ta3-1-oc1b
 0
 7
-0 33 10 1
-0 51 -1 0
-0 42 -1 1
-0 8 1 0
 0 2 0 1
-0 34 0 3
+0 8 1 0
 0 23 -1 2
+0 33 10 1
+0 34 0 3
+0 42 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b8 oc1b oc1b ta1-1-oc1b ta3-2-oc1b
 0
 7
-0 33 10 1
-0 51 -1 0
-0 42 -1 1
-0 8 1 0
 0 3 0 1
-0 34 0 3
+0 8 1 0
 0 23 -1 2
+0 33 10 1
+0 34 0 3
+0 42 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b8 oc1b oc1b ta1-2-oc1b ta3-1-oc1b
 0
 7
-0 33 10 1
-0 51 -1 0
-0 42 -1 1
-0 10 1 0
 0 2 0 1
-0 34 0 3
+0 10 1 0
 0 23 -1 2
+0 33 10 1
+0 34 0 3
+0 42 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b8 oc1b oc1b ta1-2-oc1b ta3-2-oc1b
 0
 7
-0 33 10 1
-0 51 -1 0
-0 42 -1 1
-0 10 1 0
 0 3 0 1
-0 34 0 3
+0 10 1 0
 0 23 -1 2
+0 33 10 1
+0 34 0 3
+0 42 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b9 oc1b lco ta1-1-oc1b ta3-1-lco
 0
 7
-0 33 11 1
-0 51 -1 0
-0 41 -1 1
 0 8 1 0
 0 17 0 1
+0 33 11 1
 0 34 0 3
 0 40 -1 2
+0 41 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b9 oc1b lco ta1-1-oc1b ta3-2-lco
 0
 7
-0 33 11 1
-0 51 -1 0
-0 41 -1 1
 0 8 1 0
 0 18 0 1
+0 33 11 1
 0 34 0 3
 0 40 -1 2
+0 41 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b9 oc1b lco ta1-1-oc1b ta3-3-lco
 0
 7
-0 33 11 1
-0 51 -1 0
-0 41 -1 1
 0 8 1 0
 0 20 0 1
+0 33 11 1
 0 34 0 3
 0 40 -1 2
+0 41 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b9 oc1b lco ta1-2-oc1b ta3-1-lco
 0
 7
-0 33 11 1
-0 51 -1 0
-0 41 -1 1
 0 10 1 0
 0 17 0 1
+0 33 11 1
 0 34 0 3
 0 40 -1 2
+0 41 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b9 oc1b lco ta1-2-oc1b ta3-2-lco
 0
 7
-0 33 11 1
-0 51 -1 0
-0 41 -1 1
 0 10 1 0
 0 18 0 1
+0 33 11 1
 0 34 0 3
 0 40 -1 2
+0 41 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b1 a1 a3 b9 oc1b lco ta1-2-oc1b ta3-3-lco
 0
 7
-0 33 11 1
-0 51 -1 0
-0 41 -1 1
 0 10 1 0
 0 20 0 1
+0 33 11 1
 0 34 0 3
 0 40 -1 2
+0 41 -1 1
+0 51 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b0 gasoleo lco ta1-1-gasoleo ta3-1-lco
 0
 7
-0 33 0 2
-0 52 -1 1
-0 50 -1 0
-0 22 1 0
 0 17 0 1
-0 30 -1 2
+0 22 1 0
 0 26 0 3
+0 30 -1 2
+0 33 0 2
+0 50 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b0 gasoleo lco ta1-1-gasoleo ta3-2-lco
 0
 7
-0 33 0 2
-0 52 -1 1
-0 50 -1 0
-0 22 1 0
 0 18 0 1
-0 30 -1 2
+0 22 1 0
 0 26 0 3
+0 30 -1 2
+0 33 0 2
+0 50 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b0 gasoleo lco ta1-1-gasoleo ta3-3-lco
 0
 7
-0 33 0 2
-0 52 -1 1
-0 50 -1 0
-0 22 1 0
 0 20 0 1
-0 30 -1 2
+0 22 1 0
 0 26 0 3
+0 30 -1 2
+0 33 0 2
+0 50 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b0 gasoleo lco ta1-2-gasoleo ta3-1-lco
 0
 7
-0 33 0 2
-0 52 -1 1
-0 50 -1 0
-0 24 1 0
 0 17 0 1
-0 30 -1 2
+0 24 1 0
 0 26 0 3
+0 30 -1 2
+0 33 0 2
+0 50 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b0 gasoleo lco ta1-2-gasoleo ta3-2-lco
 0
 7
-0 33 0 2
-0 52 -1 1
-0 50 -1 0
-0 24 1 0
 0 18 0 1
-0 30 -1 2
+0 24 1 0
 0 26 0 3
+0 30 -1 2
+0 33 0 2
+0 50 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b0 gasoleo lco ta1-2-gasoleo ta3-3-lco
 0
 7
-0 33 0 2
-0 52 -1 1
-0 50 -1 0
-0 24 1 0
 0 20 0 1
-0 30 -1 2
+0 24 1 0
 0 26 0 3
+0 30 -1 2
+0 33 0 2
+0 50 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b1 gasoleo oc1b ta1-1-gasoleo ta3-1-oc1b
 0
 7
-0 33 1 2
-0 51 -1 1
-0 50 -1 0
-0 22 1 0
 0 2 0 1
-0 34 -1 2
+0 22 1 0
 0 26 0 3
+0 33 1 2
+0 34 -1 2
+0 50 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b1 gasoleo oc1b ta1-1-gasoleo ta3-2-oc1b
 0
 7
-0 33 1 2
-0 51 -1 1
-0 50 -1 0
-0 22 1 0
 0 3 0 1
-0 34 -1 2
+0 22 1 0
 0 26 0 3
+0 33 1 2
+0 34 -1 2
+0 50 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b1 gasoleo oc1b ta1-2-gasoleo ta3-1-oc1b
 0
 7
-0 33 1 2
-0 51 -1 1
-0 50 -1 0
-0 24 1 0
 0 2 0 1
-0 34 -1 2
+0 24 1 0
 0 26 0 3
+0 33 1 2
+0 34 -1 2
+0 50 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b1 gasoleo oc1b ta1-2-gasoleo ta3-2-oc1b
 0
 7
-0 33 1 2
-0 51 -1 1
-0 50 -1 0
-0 24 1 0
 0 3 0 1
-0 34 -1 2
+0 24 1 0
 0 26 0 3
+0 33 1 2
+0 34 -1 2
+0 50 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b11 gasoleo gasoleo ta1-1-gasoleo ta3-1-gasoleo
 0
 7
-0 33 3 2
-0 50 -1 0
-0 49 -1 1
-0 22 1 0
 0 12 0 1
+0 22 1 0
 0 26 0 3
+0 33 3 2
 0 37 -1 2
+0 49 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b11 gasoleo gasoleo ta1-1-gasoleo ta3-2-gasoleo
 0
 7
-0 33 3 2
-0 50 -1 0
-0 49 -1 1
-0 22 1 0
 0 13 0 1
+0 22 1 0
 0 26 0 3
+0 33 3 2
 0 37 -1 2
+0 49 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b11 gasoleo gasoleo ta1-2-gasoleo ta3-1-gasoleo
 0
 7
-0 33 3 2
-0 50 -1 0
-0 49 -1 1
-0 24 1 0
 0 12 0 1
+0 24 1 0
 0 26 0 3
+0 33 3 2
 0 37 -1 2
+0 49 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b11 gasoleo gasoleo ta1-2-gasoleo ta3-2-gasoleo
 0
 7
-0 33 3 2
-0 50 -1 0
-0 49 -1 1
-0 24 1 0
 0 13 0 1
+0 24 1 0
 0 26 0 3
+0 33 3 2
 0 37 -1 2
+0 49 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b2 gasoleo rat-a ta1-1-gasoleo ta3-1-rat-a
 0
 7
-0 33 4 2
-0 50 -1 0
-0 48 -1 1
-0 22 1 0
 0 6 0 1
-0 26 0 3
+0 22 1 0
 0 25 -1 2
+0 26 0 3
+0 33 4 2
+0 48 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b2 gasoleo rat-a ta1-1-gasoleo ta3-2-rat-a
 0
 7
-0 33 4 2
-0 50 -1 0
-0 48 -1 1
-0 22 1 0
 0 7 0 1
-0 26 0 3
+0 22 1 0
 0 25 -1 2
+0 26 0 3
+0 33 4 2
+0 48 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b2 gasoleo rat-a ta1-2-gasoleo ta3-1-rat-a
 0
 7
-0 33 4 2
-0 50 -1 0
-0 48 -1 1
-0 24 1 0
 0 6 0 1
-0 26 0 3
+0 24 1 0
 0 25 -1 2
+0 26 0 3
+0 33 4 2
+0 48 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b2 gasoleo rat-a ta1-2-gasoleo ta3-2-rat-a
 0
 7
-0 33 4 2
-0 50 -1 0
-0 48 -1 1
-0 24 1 0
 0 7 0 1
-0 26 0 3
+0 24 1 0
 0 25 -1 2
+0 26 0 3
+0 33 4 2
+0 48 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b3 gasoleo gasoleo ta1-1-gasoleo ta3-1-gasoleo
 0
 7
-0 33 5 2
-0 50 -1 0
-0 47 -1 1
-0 22 1 0
 0 12 0 1
+0 22 1 0
 0 26 0 3
+0 33 5 2
 0 38 -1 2
+0 47 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b3 gasoleo gasoleo ta1-1-gasoleo ta3-2-gasoleo
 0
 7
-0 33 5 2
-0 50 -1 0
-0 47 -1 1
-0 22 1 0
 0 13 0 1
+0 22 1 0
 0 26 0 3
+0 33 5 2
 0 38 -1 2
+0 47 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b3 gasoleo gasoleo ta1-2-gasoleo ta3-1-gasoleo
 0
 7
-0 33 5 2
-0 50 -1 0
-0 47 -1 1
-0 24 1 0
 0 12 0 1
+0 24 1 0
 0 26 0 3
+0 33 5 2
 0 38 -1 2
+0 47 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b3 gasoleo gasoleo ta1-2-gasoleo ta3-2-gasoleo
 0
 7
-0 33 5 2
-0 50 -1 0
-0 47 -1 1
-0 24 1 0
 0 13 0 1
+0 24 1 0
 0 26 0 3
+0 33 5 2
 0 38 -1 2
+0 47 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b4 gasoleo lco ta1-1-gasoleo ta3-1-lco
 0
 7
-0 33 6 2
-0 50 -1 0
-0 46 -1 1
-0 22 1 0
 0 17 0 1
+0 22 1 0
 0 26 0 3
+0 33 6 2
 0 39 -1 2
+0 46 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b4 gasoleo lco ta1-1-gasoleo ta3-2-lco
 0
 7
-0 33 6 2
-0 50 -1 0
-0 46 -1 1
-0 22 1 0
 0 18 0 1
+0 22 1 0
 0 26 0 3
+0 33 6 2
 0 39 -1 2
+0 46 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b4 gasoleo lco ta1-1-gasoleo ta3-3-lco
 0
 7
-0 33 6 2
-0 50 -1 0
-0 46 -1 1
-0 22 1 0
 0 20 0 1
+0 22 1 0
 0 26 0 3
+0 33 6 2
 0 39 -1 2
+0 46 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b4 gasoleo lco ta1-2-gasoleo ta3-1-lco
 0
 7
-0 33 6 2
-0 50 -1 0
-0 46 -1 1
-0 24 1 0
 0 17 0 1
+0 24 1 0
 0 26 0 3
+0 33 6 2
 0 39 -1 2
+0 46 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b4 gasoleo lco ta1-2-gasoleo ta3-2-lco
 0
 7
-0 33 6 2
-0 50 -1 0
-0 46 -1 1
-0 24 1 0
 0 18 0 1
+0 24 1 0
 0 26 0 3
+0 33 6 2
 0 39 -1 2
+0 46 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b4 gasoleo lco ta1-2-gasoleo ta3-3-lco
 0
 7
-0 33 6 2
-0 50 -1 0
-0 46 -1 1
-0 24 1 0
 0 20 0 1
+0 24 1 0
 0 26 0 3
+0 33 6 2
 0 39 -1 2
+0 46 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b5 gasoleo rat-a ta1-1-gasoleo ta3-1-rat-a
 0
 7
-0 33 7 2
-0 50 -1 0
-0 45 -1 1
-0 22 1 0
 0 6 0 1
+0 22 1 0
 0 26 0 3
+0 33 7 2
 0 35 -1 2
+0 45 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b5 gasoleo rat-a ta1-1-gasoleo ta3-2-rat-a
 0
 7
-0 33 7 2
-0 50 -1 0
-0 45 -1 1
-0 22 1 0
 0 7 0 1
+0 22 1 0
 0 26 0 3
+0 33 7 2
 0 35 -1 2
+0 45 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b5 gasoleo rat-a ta1-2-gasoleo ta3-1-rat-a
 0
 7
-0 33 7 2
-0 50 -1 0
-0 45 -1 1
-0 24 1 0
 0 6 0 1
+0 24 1 0
 0 26 0 3
+0 33 7 2
 0 35 -1 2
+0 45 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b5 gasoleo rat-a ta1-2-gasoleo ta3-2-rat-a
 0
 7
-0 33 7 2
-0 50 -1 0
-0 45 -1 1
-0 24 1 0
 0 7 0 1
+0 24 1 0
 0 26 0 3
+0 33 7 2
 0 35 -1 2
+0 45 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b6 gasoleo lco ta1-1-gasoleo ta3-1-lco
 0
 7
-0 33 8 2
-0 50 -1 0
-0 44 -1 1
-0 22 1 0
 0 17 0 1
+0 22 1 0
 0 26 0 3
 0 31 -1 2
+0 33 8 2
+0 44 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b6 gasoleo lco ta1-1-gasoleo ta3-2-lco
 0
 7
-0 33 8 2
-0 50 -1 0
-0 44 -1 1
-0 22 1 0
 0 18 0 1
+0 22 1 0
 0 26 0 3
 0 31 -1 2
+0 33 8 2
+0 44 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b6 gasoleo lco ta1-1-gasoleo ta3-3-lco
 0
 7
-0 33 8 2
-0 50 -1 0
-0 44 -1 1
-0 22 1 0
 0 20 0 1
+0 22 1 0
 0 26 0 3
 0 31 -1 2
+0 33 8 2
+0 44 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b6 gasoleo lco ta1-2-gasoleo ta3-1-lco
 0
 7
-0 33 8 2
-0 50 -1 0
-0 44 -1 1
-0 24 1 0
 0 17 0 1
+0 24 1 0
 0 26 0 3
 0 31 -1 2
+0 33 8 2
+0 44 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b6 gasoleo lco ta1-2-gasoleo ta3-2-lco
 0
 7
-0 33 8 2
-0 50 -1 0
-0 44 -1 1
-0 24 1 0
 0 18 0 1
+0 24 1 0
 0 26 0 3
 0 31 -1 2
+0 33 8 2
+0 44 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b6 gasoleo lco ta1-2-gasoleo ta3-3-lco
 0
 7
-0 33 8 2
-0 50 -1 0
-0 44 -1 1
-0 24 1 0
 0 20 0 1
+0 24 1 0
 0 26 0 3
 0 31 -1 2
+0 33 8 2
+0 44 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b7 gasoleo rat-a ta1-1-gasoleo ta3-1-rat-a
 0
 7
-0 33 9 2
-0 50 -1 0
-0 43 -1 1
-0 22 1 0
 0 6 0 1
+0 22 1 0
 0 26 0 3
+0 33 9 2
 0 36 -1 2
+0 43 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b7 gasoleo rat-a ta1-1-gasoleo ta3-2-rat-a
 0
 7
-0 33 9 2
-0 50 -1 0
-0 43 -1 1
-0 22 1 0
 0 7 0 1
+0 22 1 0
 0 26 0 3
+0 33 9 2
 0 36 -1 2
+0 43 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b7 gasoleo rat-a ta1-2-gasoleo ta3-1-rat-a
 0
 7
-0 33 9 2
-0 50 -1 0
-0 43 -1 1
-0 24 1 0
 0 6 0 1
+0 24 1 0
 0 26 0 3
+0 33 9 2
 0 36 -1 2
+0 43 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b7 gasoleo rat-a ta1-2-gasoleo ta3-2-rat-a
 0
 7
-0 33 9 2
-0 50 -1 0
-0 43 -1 1
-0 24 1 0
 0 7 0 1
+0 24 1 0
 0 26 0 3
+0 33 9 2
 0 36 -1 2
+0 43 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b8 gasoleo oc1b ta1-1-gasoleo ta3-1-oc1b
 0
 7
-0 33 10 2
-0 50 -1 0
-0 42 -1 1
-0 22 1 0
 0 2 0 1
-0 26 0 3
+0 22 1 0
 0 23 -1 2
+0 26 0 3
+0 33 10 2
+0 42 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b8 gasoleo oc1b ta1-1-gasoleo ta3-2-oc1b
 0
 7
-0 33 10 2
-0 50 -1 0
-0 42 -1 1
-0 22 1 0
 0 3 0 1
-0 26 0 3
+0 22 1 0
 0 23 -1 2
+0 26 0 3
+0 33 10 2
+0 42 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b8 gasoleo oc1b ta1-2-gasoleo ta3-1-oc1b
 0
 7
-0 33 10 2
-0 50 -1 0
-0 42 -1 1
-0 24 1 0
 0 2 0 1
-0 26 0 3
 0 23 -1 2
+0 24 1 0
+0 26 0 3
+0 33 10 2
+0 42 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b8 gasoleo oc1b ta1-2-gasoleo ta3-2-oc1b
 0
 7
-0 33 10 2
-0 50 -1 0
-0 42 -1 1
-0 24 1 0
 0 3 0 1
-0 26 0 3
 0 23 -1 2
+0 24 1 0
+0 26 0 3
+0 33 10 2
+0 42 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b9 gasoleo lco ta1-1-gasoleo ta3-1-lco
 0
 7
-0 33 11 2
-0 50 -1 0
-0 41 -1 1
-0 22 1 0
 0 17 0 1
+0 22 1 0
 0 26 0 3
+0 33 11 2
 0 40 -1 2
+0 41 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b9 gasoleo lco ta1-1-gasoleo ta3-2-lco
 0
 7
-0 33 11 2
-0 50 -1 0
-0 41 -1 1
-0 22 1 0
 0 18 0 1
+0 22 1 0
 0 26 0 3
+0 33 11 2
 0 40 -1 2
+0 41 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b9 gasoleo lco ta1-1-gasoleo ta3-3-lco
 0
 7
-0 33 11 2
-0 50 -1 0
-0 41 -1 1
-0 22 1 0
 0 20 0 1
+0 22 1 0
 0 26 0 3
+0 33 11 2
 0 40 -1 2
+0 41 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b9 gasoleo lco ta1-2-gasoleo ta3-1-lco
 0
 7
-0 33 11 2
-0 50 -1 0
-0 41 -1 1
-0 24 1 0
 0 17 0 1
+0 24 1 0
 0 26 0 3
+0 33 11 2
 0 40 -1 2
+0 41 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b9 gasoleo lco ta1-2-gasoleo ta3-2-lco
 0
 7
-0 33 11 2
-0 50 -1 0
-0 41 -1 1
-0 24 1 0
 0 18 0 1
+0 24 1 0
 0 26 0 3
+0 33 11 2
 0 40 -1 2
+0 41 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b10 a1 a3 b9 gasoleo lco ta1-2-gasoleo ta3-3-lco
 0
 7
-0 33 11 2
-0 50 -1 0
-0 41 -1 1
-0 24 1 0
 0 20 0 1
+0 24 1 0
 0 26 0 3
+0 33 11 2
 0 40 -1 2
+0 41 -1 1
+0 50 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b0 gasoleo lco ta1-1-gasoleo ta3-1-lco
 0
 7
-0 33 0 3
-0 52 -1 1
-0 49 -1 0
-0 22 1 0
 0 17 0 1
+0 22 1 0
 0 30 -1 2
+0 33 0 3
 0 37 0 3
+0 49 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b0 gasoleo lco ta1-1-gasoleo ta3-2-lco
 0
 7
-0 33 0 3
-0 52 -1 1
-0 49 -1 0
-0 22 1 0
 0 18 0 1
+0 22 1 0
 0 30 -1 2
+0 33 0 3
 0 37 0 3
+0 49 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b0 gasoleo lco ta1-1-gasoleo ta3-3-lco
 0
 7
-0 33 0 3
-0 52 -1 1
-0 49 -1 0
-0 22 1 0
 0 20 0 1
+0 22 1 0
 0 30 -1 2
+0 33 0 3
 0 37 0 3
+0 49 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b0 gasoleo lco ta1-2-gasoleo ta3-1-lco
 0
 7
-0 33 0 3
-0 52 -1 1
-0 49 -1 0
-0 24 1 0
 0 17 0 1
+0 24 1 0
 0 30 -1 2
+0 33 0 3
 0 37 0 3
+0 49 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b0 gasoleo lco ta1-2-gasoleo ta3-2-lco
 0
 7
-0 33 0 3
-0 52 -1 1
-0 49 -1 0
-0 24 1 0
 0 18 0 1
+0 24 1 0
 0 30 -1 2
+0 33 0 3
 0 37 0 3
+0 49 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b0 gasoleo lco ta1-2-gasoleo ta3-3-lco
 0
 7
-0 33 0 3
-0 52 -1 1
-0 49 -1 0
-0 24 1 0
 0 20 0 1
+0 24 1 0
 0 30 -1 2
+0 33 0 3
 0 37 0 3
+0 49 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b1 gasoleo oc1b ta1-1-gasoleo ta3-1-oc1b
 0
 7
-0 33 1 3
-0 51 -1 1
-0 49 -1 0
-0 22 1 0
 0 2 0 1
+0 22 1 0
+0 33 1 3
 0 34 -1 2
 0 37 0 3
+0 49 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b1 gasoleo oc1b ta1-1-gasoleo ta3-2-oc1b
 0
 7
-0 33 1 3
-0 51 -1 1
-0 49 -1 0
-0 22 1 0
 0 3 0 1
+0 22 1 0
+0 33 1 3
 0 34 -1 2
 0 37 0 3
+0 49 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b1 gasoleo oc1b ta1-2-gasoleo ta3-1-oc1b
 0
 7
-0 33 1 3
-0 51 -1 1
-0 49 -1 0
-0 24 1 0
 0 2 0 1
+0 24 1 0
+0 33 1 3
 0 34 -1 2
 0 37 0 3
+0 49 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b1 gasoleo oc1b ta1-2-gasoleo ta3-2-oc1b
 0
 7
-0 33 1 3
-0 51 -1 1
-0 49 -1 0
-0 24 1 0
 0 3 0 1
+0 24 1 0
+0 33 1 3
 0 34 -1 2
 0 37 0 3
+0 49 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b10 gasoleo gasoleo ta1-1-gasoleo ta3-1-gasoleo
 0
 7
-0 33 2 3
-0 50 -1 1
-0 49 -1 0
-0 22 1 0
 0 12 0 1
+0 22 1 0
 0 26 -1 2
+0 33 2 3
 0 37 0 3
+0 49 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b10 gasoleo gasoleo ta1-1-gasoleo ta3-2-gasoleo
 0
 7
-0 33 2 3
-0 50 -1 1
-0 49 -1 0
-0 22 1 0
 0 13 0 1
+0 22 1 0
 0 26 -1 2
+0 33 2 3
 0 37 0 3
+0 49 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b10 gasoleo gasoleo ta1-2-gasoleo ta3-1-gasoleo
 0
 7
-0 33 2 3
-0 50 -1 1
-0 49 -1 0
-0 24 1 0
 0 12 0 1
+0 24 1 0
 0 26 -1 2
+0 33 2 3
 0 37 0 3
+0 49 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b10 gasoleo gasoleo ta1-2-gasoleo ta3-2-gasoleo
 0
 7
-0 33 2 3
-0 50 -1 1
-0 49 -1 0
-0 24 1 0
 0 13 0 1
+0 24 1 0
 0 26 -1 2
+0 33 2 3
 0 37 0 3
+0 49 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b2 gasoleo rat-a ta1-1-gasoleo ta3-1-rat-a
 0
 7
-0 33 4 3
-0 49 -1 0
-0 48 -1 1
-0 22 1 0
 0 6 0 1
-0 37 0 3
+0 22 1 0
 0 25 -1 2
+0 33 4 3
+0 37 0 3
+0 48 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b2 gasoleo rat-a ta1-1-gasoleo ta3-2-rat-a
 0
 7
-0 33 4 3
-0 49 -1 0
-0 48 -1 1
-0 22 1 0
 0 7 0 1
-0 37 0 3
+0 22 1 0
 0 25 -1 2
+0 33 4 3
+0 37 0 3
+0 48 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b2 gasoleo rat-a ta1-2-gasoleo ta3-1-rat-a
 0
 7
-0 33 4 3
-0 49 -1 0
-0 48 -1 1
-0 24 1 0
 0 6 0 1
-0 37 0 3
+0 24 1 0
 0 25 -1 2
+0 33 4 3
+0 37 0 3
+0 48 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b2 gasoleo rat-a ta1-2-gasoleo ta3-2-rat-a
 0
 7
-0 33 4 3
-0 49 -1 0
-0 48 -1 1
-0 24 1 0
 0 7 0 1
-0 37 0 3
+0 24 1 0
 0 25 -1 2
+0 33 4 3
+0 37 0 3
+0 48 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b3 gasoleo gasoleo ta1-1-gasoleo ta3-1-gasoleo
 0
 7
-0 33 5 3
-0 49 -1 0
-0 47 -1 1
-0 22 1 0
 0 12 0 1
+0 22 1 0
+0 33 5 3
 0 37 0 3
 0 38 -1 2
+0 47 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b3 gasoleo gasoleo ta1-1-gasoleo ta3-2-gasoleo
 0
 7
-0 33 5 3
-0 49 -1 0
-0 47 -1 1
-0 22 1 0
 0 13 0 1
+0 22 1 0
+0 33 5 3
 0 37 0 3
 0 38 -1 2
+0 47 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b3 gasoleo gasoleo ta1-2-gasoleo ta3-1-gasoleo
 0
 7
-0 33 5 3
-0 49 -1 0
-0 47 -1 1
-0 24 1 0
 0 12 0 1
+0 24 1 0
+0 33 5 3
 0 37 0 3
 0 38 -1 2
+0 47 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b3 gasoleo gasoleo ta1-2-gasoleo ta3-2-gasoleo
 0
 7
-0 33 5 3
-0 49 -1 0
-0 47 -1 1
-0 24 1 0
 0 13 0 1
+0 24 1 0
+0 33 5 3
 0 37 0 3
 0 38 -1 2
+0 47 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b4 gasoleo lco ta1-1-gasoleo ta3-1-lco
 0
 7
-0 33 6 3
-0 49 -1 0
-0 46 -1 1
-0 22 1 0
 0 17 0 1
+0 22 1 0
+0 33 6 3
 0 37 0 3
 0 39 -1 2
+0 46 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b4 gasoleo lco ta1-1-gasoleo ta3-2-lco
 0
 7
-0 33 6 3
-0 49 -1 0
-0 46 -1 1
-0 22 1 0
 0 18 0 1
+0 22 1 0
+0 33 6 3
 0 37 0 3
 0 39 -1 2
+0 46 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b4 gasoleo lco ta1-1-gasoleo ta3-3-lco
 0
 7
-0 33 6 3
-0 49 -1 0
-0 46 -1 1
-0 22 1 0
 0 20 0 1
+0 22 1 0
+0 33 6 3
 0 37 0 3
 0 39 -1 2
+0 46 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b4 gasoleo lco ta1-2-gasoleo ta3-1-lco
 0
 7
-0 33 6 3
-0 49 -1 0
-0 46 -1 1
-0 24 1 0
 0 17 0 1
+0 24 1 0
+0 33 6 3
 0 37 0 3
 0 39 -1 2
+0 46 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b4 gasoleo lco ta1-2-gasoleo ta3-2-lco
 0
 7
-0 33 6 3
-0 49 -1 0
-0 46 -1 1
-0 24 1 0
 0 18 0 1
+0 24 1 0
+0 33 6 3
 0 37 0 3
 0 39 -1 2
+0 46 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b4 gasoleo lco ta1-2-gasoleo ta3-3-lco
 0
 7
-0 33 6 3
-0 49 -1 0
-0 46 -1 1
-0 24 1 0
 0 20 0 1
+0 24 1 0
+0 33 6 3
 0 37 0 3
 0 39 -1 2
+0 46 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b5 gasoleo rat-a ta1-1-gasoleo ta3-1-rat-a
 0
 7
-0 33 7 3
-0 49 -1 0
-0 45 -1 1
-0 22 1 0
 0 6 0 1
-0 37 0 3
+0 22 1 0
+0 33 7 3
 0 35 -1 2
+0 37 0 3
+0 45 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b5 gasoleo rat-a ta1-1-gasoleo ta3-2-rat-a
 0
 7
-0 33 7 3
-0 49 -1 0
-0 45 -1 1
-0 22 1 0
 0 7 0 1
-0 37 0 3
+0 22 1 0
+0 33 7 3
 0 35 -1 2
+0 37 0 3
+0 45 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b5 gasoleo rat-a ta1-2-gasoleo ta3-1-rat-a
 0
 7
-0 33 7 3
-0 49 -1 0
-0 45 -1 1
-0 24 1 0
 0 6 0 1
-0 37 0 3
+0 24 1 0
+0 33 7 3
 0 35 -1 2
+0 37 0 3
+0 45 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b5 gasoleo rat-a ta1-2-gasoleo ta3-2-rat-a
 0
 7
-0 33 7 3
-0 49 -1 0
-0 45 -1 1
-0 24 1 0
 0 7 0 1
-0 37 0 3
+0 24 1 0
+0 33 7 3
 0 35 -1 2
+0 37 0 3
+0 45 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b6 gasoleo lco ta1-1-gasoleo ta3-1-lco
 0
 7
-0 33 8 3
-0 49 -1 0
-0 44 -1 1
-0 22 1 0
 0 17 0 1
-0 37 0 3
+0 22 1 0
 0 31 -1 2
+0 33 8 3
+0 37 0 3
+0 44 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b6 gasoleo lco ta1-1-gasoleo ta3-2-lco
 0
 7
-0 33 8 3
-0 49 -1 0
-0 44 -1 1
-0 22 1 0
 0 18 0 1
-0 37 0 3
+0 22 1 0
 0 31 -1 2
+0 33 8 3
+0 37 0 3
+0 44 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b6 gasoleo lco ta1-1-gasoleo ta3-3-lco
 0
 7
-0 33 8 3
-0 49 -1 0
-0 44 -1 1
-0 22 1 0
 0 20 0 1
-0 37 0 3
+0 22 1 0
 0 31 -1 2
+0 33 8 3
+0 37 0 3
+0 44 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b6 gasoleo lco ta1-2-gasoleo ta3-1-lco
 0
 7
-0 33 8 3
-0 49 -1 0
-0 44 -1 1
-0 24 1 0
 0 17 0 1
-0 37 0 3
+0 24 1 0
 0 31 -1 2
+0 33 8 3
+0 37 0 3
+0 44 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b6 gasoleo lco ta1-2-gasoleo ta3-2-lco
 0
 7
-0 33 8 3
-0 49 -1 0
-0 44 -1 1
-0 24 1 0
 0 18 0 1
-0 37 0 3
+0 24 1 0
 0 31 -1 2
+0 33 8 3
+0 37 0 3
+0 44 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b6 gasoleo lco ta1-2-gasoleo ta3-3-lco
 0
 7
-0 33 8 3
-0 49 -1 0
-0 44 -1 1
-0 24 1 0
 0 20 0 1
-0 37 0 3
+0 24 1 0
 0 31 -1 2
+0 33 8 3
+0 37 0 3
+0 44 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b7 gasoleo rat-a ta1-1-gasoleo ta3-1-rat-a
 0
 7
-0 33 9 3
-0 49 -1 0
-0 43 -1 1
-0 22 1 0
 0 6 0 1
-0 37 0 3
+0 22 1 0
+0 33 9 3
 0 36 -1 2
+0 37 0 3
+0 43 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b7 gasoleo rat-a ta1-1-gasoleo ta3-2-rat-a
 0
 7
-0 33 9 3
-0 49 -1 0
-0 43 -1 1
-0 22 1 0
 0 7 0 1
-0 37 0 3
+0 22 1 0
+0 33 9 3
 0 36 -1 2
+0 37 0 3
+0 43 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b7 gasoleo rat-a ta1-2-gasoleo ta3-1-rat-a
 0
 7
-0 33 9 3
-0 49 -1 0
-0 43 -1 1
-0 24 1 0
 0 6 0 1
-0 37 0 3
+0 24 1 0
+0 33 9 3
 0 36 -1 2
+0 37 0 3
+0 43 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b7 gasoleo rat-a ta1-2-gasoleo ta3-2-rat-a
 0
 7
-0 33 9 3
-0 49 -1 0
-0 43 -1 1
-0 24 1 0
 0 7 0 1
-0 37 0 3
+0 24 1 0
+0 33 9 3
 0 36 -1 2
+0 37 0 3
+0 43 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b8 gasoleo oc1b ta1-1-gasoleo ta3-1-oc1b
 0
 7
-0 33 10 3
-0 49 -1 0
-0 42 -1 1
-0 22 1 0
 0 2 0 1
-0 37 0 3
+0 22 1 0
 0 23 -1 2
+0 33 10 3
+0 37 0 3
+0 42 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b8 gasoleo oc1b ta1-1-gasoleo ta3-2-oc1b
 0
 7
-0 33 10 3
-0 49 -1 0
-0 42 -1 1
-0 22 1 0
 0 3 0 1
-0 37 0 3
+0 22 1 0
 0 23 -1 2
+0 33 10 3
+0 37 0 3
+0 42 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b8 gasoleo oc1b ta1-2-gasoleo ta3-1-oc1b
 0
 7
-0 33 10 3
-0 49 -1 0
-0 42 -1 1
-0 24 1 0
 0 2 0 1
-0 37 0 3
 0 23 -1 2
+0 24 1 0
+0 33 10 3
+0 37 0 3
+0 42 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b8 gasoleo oc1b ta1-2-gasoleo ta3-2-oc1b
 0
 7
-0 33 10 3
-0 49 -1 0
-0 42 -1 1
-0 24 1 0
 0 3 0 1
-0 37 0 3
 0 23 -1 2
+0 24 1 0
+0 33 10 3
+0 37 0 3
+0 42 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b9 gasoleo lco ta1-1-gasoleo ta3-1-lco
 0
 7
-0 33 11 3
-0 49 -1 0
-0 41 -1 1
-0 22 1 0
 0 17 0 1
+0 22 1 0
+0 33 11 3
 0 37 0 3
 0 40 -1 2
+0 41 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b9 gasoleo lco ta1-1-gasoleo ta3-2-lco
 0
 7
-0 33 11 3
-0 49 -1 0
-0 41 -1 1
-0 22 1 0
 0 18 0 1
+0 22 1 0
+0 33 11 3
 0 37 0 3
 0 40 -1 2
+0 41 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b9 gasoleo lco ta1-1-gasoleo ta3-3-lco
 0
 7
-0 33 11 3
-0 49 -1 0
-0 41 -1 1
-0 22 1 0
 0 20 0 1
+0 22 1 0
+0 33 11 3
 0 37 0 3
 0 40 -1 2
+0 41 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b9 gasoleo lco ta1-2-gasoleo ta3-1-lco
 0
 7
-0 33 11 3
-0 49 -1 0
-0 41 -1 1
-0 24 1 0
 0 17 0 1
+0 24 1 0
+0 33 11 3
 0 37 0 3
 0 40 -1 2
+0 41 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b9 gasoleo lco ta1-2-gasoleo ta3-2-lco
 0
 7
-0 33 11 3
-0 49 -1 0
-0 41 -1 1
-0 24 1 0
 0 18 0 1
+0 24 1 0
+0 33 11 3
 0 37 0 3
 0 40 -1 2
+0 41 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b11 a1 a3 b9 gasoleo lco ta1-2-gasoleo ta3-3-lco
 0
 7
-0 33 11 3
-0 49 -1 0
-0 41 -1 1
-0 24 1 0
 0 20 0 1
+0 24 1 0
+0 33 11 3
 0 37 0 3
 0 40 -1 2
+0 41 -1 1
+0 49 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b0 rat-a lco ta1-1-rat-a ta3-1-lco
 0
 7
-0 33 0 4
-0 52 -1 1
-0 48 -1 0
-0 19 1 0
 0 17 0 1
-0 30 -1 2
+0 19 1 0
 0 25 0 3
+0 30 -1 2
+0 33 0 4
+0 48 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b0 rat-a lco ta1-1-rat-a ta3-2-lco
 0
 7
-0 33 0 4
-0 52 -1 1
-0 48 -1 0
-0 19 1 0
 0 18 0 1
-0 30 -1 2
+0 19 1 0
 0 25 0 3
+0 30 -1 2
+0 33 0 4
+0 48 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b0 rat-a lco ta1-1-rat-a ta3-3-lco
 0
 7
-0 33 0 4
-0 52 -1 1
-0 48 -1 0
 0 19 1 0
 0 20 0 1
-0 30 -1 2
 0 25 0 3
+0 30 -1 2
+0 33 0 4
+0 48 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b0 rat-a lco ta1-2-rat-a ta3-1-lco
 0
 7
-0 33 0 4
-0 52 -1 1
-0 48 -1 0
-0 21 1 0
 0 17 0 1
-0 30 -1 2
+0 21 1 0
 0 25 0 3
+0 30 -1 2
+0 33 0 4
+0 48 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b0 rat-a lco ta1-2-rat-a ta3-2-lco
 0
 7
-0 33 0 4
-0 52 -1 1
-0 48 -1 0
-0 21 1 0
 0 18 0 1
-0 30 -1 2
+0 21 1 0
 0 25 0 3
+0 30 -1 2
+0 33 0 4
+0 48 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b0 rat-a lco ta1-2-rat-a ta3-3-lco
 0
 7
-0 33 0 4
-0 52 -1 1
-0 48 -1 0
-0 21 1 0
 0 20 0 1
-0 30 -1 2
+0 21 1 0
 0 25 0 3
+0 30 -1 2
+0 33 0 4
+0 48 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b10 rat-a gasoleo ta1-1-rat-a ta3-1-gasoleo
 0
 7
-0 33 2 4
-0 50 -1 1
-0 48 -1 0
-0 19 1 0
 0 12 0 1
-0 26 -1 2
+0 19 1 0
 0 25 0 3
+0 26 -1 2
+0 33 2 4
+0 48 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b10 rat-a gasoleo ta1-1-rat-a ta3-2-gasoleo
 0
 7
-0 33 2 4
-0 50 -1 1
-0 48 -1 0
-0 19 1 0
 0 13 0 1
-0 26 -1 2
+0 19 1 0
 0 25 0 3
+0 26 -1 2
+0 33 2 4
+0 48 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b10 rat-a gasoleo ta1-2-rat-a ta3-1-gasoleo
 0
 7
-0 33 2 4
-0 50 -1 1
-0 48 -1 0
-0 21 1 0
 0 12 0 1
-0 26 -1 2
+0 21 1 0
 0 25 0 3
+0 26 -1 2
+0 33 2 4
+0 48 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b10 rat-a gasoleo ta1-2-rat-a ta3-2-gasoleo
 0
 7
-0 33 2 4
-0 50 -1 1
-0 48 -1 0
-0 21 1 0
 0 13 0 1
-0 26 -1 2
+0 21 1 0
 0 25 0 3
+0 26 -1 2
+0 33 2 4
+0 48 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b11 rat-a gasoleo ta1-1-rat-a ta3-1-gasoleo
 0
 7
-0 33 3 4
-0 49 -1 1
-0 48 -1 0
-0 19 1 0
 0 12 0 1
-0 37 -1 2
+0 19 1 0
 0 25 0 3
+0 33 3 4
+0 37 -1 2
+0 48 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b11 rat-a gasoleo ta1-1-rat-a ta3-2-gasoleo
 0
 7
-0 33 3 4
-0 49 -1 1
-0 48 -1 0
-0 19 1 0
 0 13 0 1
-0 37 -1 2
+0 19 1 0
 0 25 0 3
+0 33 3 4
+0 37 -1 2
+0 48 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b11 rat-a gasoleo ta1-2-rat-a ta3-1-gasoleo
 0
 7
-0 33 3 4
-0 49 -1 1
-0 48 -1 0
-0 21 1 0
 0 12 0 1
-0 37 -1 2
+0 21 1 0
 0 25 0 3
+0 33 3 4
+0 37 -1 2
+0 48 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b11 rat-a gasoleo ta1-2-rat-a ta3-2-gasoleo
 0
 7
-0 33 3 4
-0 49 -1 1
-0 48 -1 0
-0 21 1 0
 0 13 0 1
-0 37 -1 2
+0 21 1 0
 0 25 0 3
+0 33 3 4
+0 37 -1 2
+0 48 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b3 rat-a gasoleo ta1-1-rat-a ta3-1-gasoleo
 0
 7
-0 33 5 4
-0 48 -1 0
-0 47 -1 1
-0 19 1 0
 0 12 0 1
+0 19 1 0
 0 25 0 3
+0 33 5 4
 0 38 -1 2
+0 47 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b3 rat-a gasoleo ta1-1-rat-a ta3-2-gasoleo
 0
 7
-0 33 5 4
-0 48 -1 0
-0 47 -1 1
-0 19 1 0
 0 13 0 1
+0 19 1 0
 0 25 0 3
+0 33 5 4
 0 38 -1 2
+0 47 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b3 rat-a gasoleo ta1-2-rat-a ta3-1-gasoleo
 0
 7
-0 33 5 4
-0 48 -1 0
-0 47 -1 1
-0 21 1 0
 0 12 0 1
+0 21 1 0
 0 25 0 3
+0 33 5 4
 0 38 -1 2
+0 47 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b3 rat-a gasoleo ta1-2-rat-a ta3-2-gasoleo
 0
 7
-0 33 5 4
-0 48 -1 0
-0 47 -1 1
-0 21 1 0
 0 13 0 1
+0 21 1 0
 0 25 0 3
+0 33 5 4
 0 38 -1 2
+0 47 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b4 rat-a lco ta1-1-rat-a ta3-1-lco
 0
 7
-0 33 6 4
-0 48 -1 0
-0 46 -1 1
-0 19 1 0
 0 17 0 1
+0 19 1 0
 0 25 0 3
+0 33 6 4
 0 39 -1 2
+0 46 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b4 rat-a lco ta1-1-rat-a ta3-2-lco
 0
 7
-0 33 6 4
-0 48 -1 0
-0 46 -1 1
-0 19 1 0
 0 18 0 1
+0 19 1 0
 0 25 0 3
+0 33 6 4
 0 39 -1 2
+0 46 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b4 rat-a lco ta1-1-rat-a ta3-3-lco
 0
 7
-0 33 6 4
-0 48 -1 0
-0 46 -1 1
 0 19 1 0
 0 20 0 1
 0 25 0 3
+0 33 6 4
 0 39 -1 2
+0 46 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b4 rat-a lco ta1-2-rat-a ta3-1-lco
 0
 7
-0 33 6 4
-0 48 -1 0
-0 46 -1 1
-0 21 1 0
 0 17 0 1
+0 21 1 0
 0 25 0 3
+0 33 6 4
 0 39 -1 2
+0 46 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b4 rat-a lco ta1-2-rat-a ta3-2-lco
 0
 7
-0 33 6 4
-0 48 -1 0
-0 46 -1 1
-0 21 1 0
 0 18 0 1
+0 21 1 0
 0 25 0 3
+0 33 6 4
 0 39 -1 2
+0 46 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b4 rat-a lco ta1-2-rat-a ta3-3-lco
 0
 7
-0 33 6 4
-0 48 -1 0
-0 46 -1 1
-0 21 1 0
 0 20 0 1
+0 21 1 0
 0 25 0 3
+0 33 6 4
 0 39 -1 2
+0 46 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b5 rat-a rat-a ta1-1-rat-a ta3-1-rat-a
 0
 7
-0 33 7 4
-0 48 -1 0
-0 45 -1 1
-0 19 1 0
 0 6 0 1
+0 19 1 0
 0 25 0 3
+0 33 7 4
 0 35 -1 2
+0 45 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b5 rat-a rat-a ta1-1-rat-a ta3-2-rat-a
 0
 7
-0 33 7 4
-0 48 -1 0
-0 45 -1 1
-0 19 1 0
 0 7 0 1
+0 19 1 0
 0 25 0 3
+0 33 7 4
 0 35 -1 2
+0 45 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b5 rat-a rat-a ta1-2-rat-a ta3-1-rat-a
 0
 7
-0 33 7 4
-0 48 -1 0
-0 45 -1 1
-0 21 1 0
 0 6 0 1
+0 21 1 0
 0 25 0 3
+0 33 7 4
 0 35 -1 2
+0 45 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b5 rat-a rat-a ta1-2-rat-a ta3-2-rat-a
 0
 7
-0 33 7 4
-0 48 -1 0
-0 45 -1 1
-0 21 1 0
 0 7 0 1
+0 21 1 0
 0 25 0 3
+0 33 7 4
 0 35 -1 2
+0 45 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b6 rat-a lco ta1-1-rat-a ta3-1-lco
 0
 7
-0 33 8 4
-0 48 -1 0
-0 44 -1 1
-0 19 1 0
 0 17 0 1
+0 19 1 0
 0 25 0 3
 0 31 -1 2
+0 33 8 4
+0 44 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b6 rat-a lco ta1-1-rat-a ta3-2-lco
 0
 7
-0 33 8 4
-0 48 -1 0
-0 44 -1 1
-0 19 1 0
 0 18 0 1
+0 19 1 0
 0 25 0 3
 0 31 -1 2
+0 33 8 4
+0 44 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b6 rat-a lco ta1-1-rat-a ta3-3-lco
 0
 7
-0 33 8 4
-0 48 -1 0
-0 44 -1 1
 0 19 1 0
 0 20 0 1
 0 25 0 3
 0 31 -1 2
+0 33 8 4
+0 44 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b6 rat-a lco ta1-2-rat-a ta3-1-lco
 0
 7
-0 33 8 4
-0 48 -1 0
-0 44 -1 1
-0 21 1 0
 0 17 0 1
+0 21 1 0
 0 25 0 3
 0 31 -1 2
+0 33 8 4
+0 44 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b6 rat-a lco ta1-2-rat-a ta3-2-lco
 0
 7
-0 33 8 4
-0 48 -1 0
-0 44 -1 1
-0 21 1 0
 0 18 0 1
+0 21 1 0
 0 25 0 3
 0 31 -1 2
+0 33 8 4
+0 44 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b6 rat-a lco ta1-2-rat-a ta3-3-lco
 0
 7
-0 33 8 4
-0 48 -1 0
-0 44 -1 1
-0 21 1 0
 0 20 0 1
+0 21 1 0
 0 25 0 3
 0 31 -1 2
+0 33 8 4
+0 44 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b7 rat-a rat-a ta1-1-rat-a ta3-1-rat-a
 0
 7
-0 33 9 4
-0 48 -1 0
-0 43 -1 1
-0 19 1 0
 0 6 0 1
+0 19 1 0
 0 25 0 3
+0 33 9 4
 0 36 -1 2
+0 43 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b7 rat-a rat-a ta1-1-rat-a ta3-2-rat-a
 0
 7
-0 33 9 4
-0 48 -1 0
-0 43 -1 1
-0 19 1 0
 0 7 0 1
+0 19 1 0
 0 25 0 3
+0 33 9 4
 0 36 -1 2
+0 43 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b7 rat-a rat-a ta1-2-rat-a ta3-1-rat-a
 0
 7
-0 33 9 4
-0 48 -1 0
-0 43 -1 1
-0 21 1 0
 0 6 0 1
+0 21 1 0
 0 25 0 3
+0 33 9 4
 0 36 -1 2
+0 43 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b7 rat-a rat-a ta1-2-rat-a ta3-2-rat-a
 0
 7
-0 33 9 4
-0 48 -1 0
-0 43 -1 1
-0 21 1 0
 0 7 0 1
+0 21 1 0
 0 25 0 3
+0 33 9 4
 0 36 -1 2
+0 43 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b9 rat-a lco ta1-1-rat-a ta3-1-lco
 0
 7
-0 33 11 4
-0 48 -1 0
-0 41 -1 1
-0 19 1 0
 0 17 0 1
+0 19 1 0
 0 25 0 3
+0 33 11 4
 0 40 -1 2
+0 41 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b9 rat-a lco ta1-1-rat-a ta3-2-lco
 0
 7
-0 33 11 4
-0 48 -1 0
-0 41 -1 1
-0 19 1 0
 0 18 0 1
+0 19 1 0
 0 25 0 3
+0 33 11 4
 0 40 -1 2
+0 41 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b9 rat-a lco ta1-1-rat-a ta3-3-lco
 0
 7
-0 33 11 4
-0 48 -1 0
-0 41 -1 1
 0 19 1 0
 0 20 0 1
 0 25 0 3
+0 33 11 4
 0 40 -1 2
+0 41 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b9 rat-a lco ta1-2-rat-a ta3-1-lco
 0
 7
-0 33 11 4
-0 48 -1 0
-0 41 -1 1
-0 21 1 0
 0 17 0 1
+0 21 1 0
 0 25 0 3
+0 33 11 4
 0 40 -1 2
+0 41 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b9 rat-a lco ta1-2-rat-a ta3-2-lco
 0
 7
-0 33 11 4
-0 48 -1 0
-0 41 -1 1
-0 21 1 0
 0 18 0 1
+0 21 1 0
 0 25 0 3
+0 33 11 4
 0 40 -1 2
+0 41 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b2 a1 a3 b9 rat-a lco ta1-2-rat-a ta3-3-lco
 0
 7
-0 33 11 4
-0 48 -1 0
-0 41 -1 1
-0 21 1 0
 0 20 0 1
+0 21 1 0
 0 25 0 3
+0 33 11 4
 0 40 -1 2
+0 41 -1 1
+0 48 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b0 gasoleo lco ta1-1-gasoleo ta3-1-lco
 0
 7
-0 33 0 5
-0 52 -1 1
-0 47 -1 0
-0 22 1 0
 0 17 0 1
+0 22 1 0
 0 30 -1 2
+0 33 0 5
 0 38 0 3
+0 47 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b0 gasoleo lco ta1-1-gasoleo ta3-2-lco
 0
 7
-0 33 0 5
-0 52 -1 1
-0 47 -1 0
-0 22 1 0
 0 18 0 1
+0 22 1 0
 0 30 -1 2
+0 33 0 5
 0 38 0 3
+0 47 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b0 gasoleo lco ta1-1-gasoleo ta3-3-lco
 0
 7
-0 33 0 5
-0 52 -1 1
-0 47 -1 0
-0 22 1 0
 0 20 0 1
+0 22 1 0
 0 30 -1 2
+0 33 0 5
 0 38 0 3
+0 47 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b0 gasoleo lco ta1-2-gasoleo ta3-1-lco
 0
 7
-0 33 0 5
-0 52 -1 1
-0 47 -1 0
-0 24 1 0
 0 17 0 1
+0 24 1 0
 0 30 -1 2
+0 33 0 5
 0 38 0 3
+0 47 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b0 gasoleo lco ta1-2-gasoleo ta3-2-lco
 0
 7
-0 33 0 5
-0 52 -1 1
-0 47 -1 0
-0 24 1 0
 0 18 0 1
+0 24 1 0
 0 30 -1 2
+0 33 0 5
 0 38 0 3
+0 47 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b0 gasoleo lco ta1-2-gasoleo ta3-3-lco
 0
 7
-0 33 0 5
-0 52 -1 1
-0 47 -1 0
-0 24 1 0
 0 20 0 1
+0 24 1 0
 0 30 -1 2
+0 33 0 5
 0 38 0 3
+0 47 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b1 gasoleo oc1b ta1-1-gasoleo ta3-1-oc1b
 0
 7
-0 33 1 5
-0 51 -1 1
-0 47 -1 0
-0 22 1 0
 0 2 0 1
+0 22 1 0
+0 33 1 5
 0 34 -1 2
 0 38 0 3
+0 47 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b1 gasoleo oc1b ta1-1-gasoleo ta3-2-oc1b
 0
 7
-0 33 1 5
-0 51 -1 1
-0 47 -1 0
-0 22 1 0
 0 3 0 1
+0 22 1 0
+0 33 1 5
 0 34 -1 2
 0 38 0 3
+0 47 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b1 gasoleo oc1b ta1-2-gasoleo ta3-1-oc1b
 0
 7
-0 33 1 5
-0 51 -1 1
-0 47 -1 0
-0 24 1 0
 0 2 0 1
+0 24 1 0
+0 33 1 5
 0 34 -1 2
 0 38 0 3
+0 47 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b1 gasoleo oc1b ta1-2-gasoleo ta3-2-oc1b
 0
 7
-0 33 1 5
-0 51 -1 1
-0 47 -1 0
-0 24 1 0
 0 3 0 1
+0 24 1 0
+0 33 1 5
 0 34 -1 2
 0 38 0 3
+0 47 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b10 gasoleo gasoleo ta1-1-gasoleo ta3-1-gasoleo
 0
 7
-0 33 2 5
-0 50 -1 1
-0 47 -1 0
-0 22 1 0
 0 12 0 1
+0 22 1 0
 0 26 -1 2
+0 33 2 5
 0 38 0 3
+0 47 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b10 gasoleo gasoleo ta1-1-gasoleo ta3-2-gasoleo
 0
 7
-0 33 2 5
-0 50 -1 1
-0 47 -1 0
-0 22 1 0
 0 13 0 1
+0 22 1 0
 0 26 -1 2
+0 33 2 5
 0 38 0 3
+0 47 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b10 gasoleo gasoleo ta1-2-gasoleo ta3-1-gasoleo
 0
 7
-0 33 2 5
-0 50 -1 1
-0 47 -1 0
-0 24 1 0
 0 12 0 1
+0 24 1 0
 0 26 -1 2
+0 33 2 5
 0 38 0 3
+0 47 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b10 gasoleo gasoleo ta1-2-gasoleo ta3-2-gasoleo
 0
 7
-0 33 2 5
-0 50 -1 1
-0 47 -1 0
-0 24 1 0
 0 13 0 1
+0 24 1 0
 0 26 -1 2
+0 33 2 5
 0 38 0 3
+0 47 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b11 gasoleo gasoleo ta1-1-gasoleo ta3-1-gasoleo
 0
 7
-0 33 3 5
-0 49 -1 1
-0 47 -1 0
-0 22 1 0
 0 12 0 1
+0 22 1 0
+0 33 3 5
 0 37 -1 2
 0 38 0 3
+0 47 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b11 gasoleo gasoleo ta1-1-gasoleo ta3-2-gasoleo
 0
 7
-0 33 3 5
-0 49 -1 1
-0 47 -1 0
-0 22 1 0
 0 13 0 1
+0 22 1 0
+0 33 3 5
 0 37 -1 2
 0 38 0 3
+0 47 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b11 gasoleo gasoleo ta1-2-gasoleo ta3-1-gasoleo
 0
 7
-0 33 3 5
-0 49 -1 1
-0 47 -1 0
-0 24 1 0
 0 12 0 1
+0 24 1 0
+0 33 3 5
 0 37 -1 2
 0 38 0 3
+0 47 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b11 gasoleo gasoleo ta1-2-gasoleo ta3-2-gasoleo
 0
 7
-0 33 3 5
-0 49 -1 1
-0 47 -1 0
-0 24 1 0
 0 13 0 1
+0 24 1 0
+0 33 3 5
 0 37 -1 2
 0 38 0 3
+0 47 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b2 gasoleo rat-a ta1-1-gasoleo ta3-1-rat-a
 0
 7
-0 33 4 5
-0 48 -1 1
-0 47 -1 0
-0 22 1 0
 0 6 0 1
+0 22 1 0
 0 25 -1 2
+0 33 4 5
 0 38 0 3
+0 47 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b2 gasoleo rat-a ta1-1-gasoleo ta3-2-rat-a
 0
 7
-0 33 4 5
-0 48 -1 1
-0 47 -1 0
-0 22 1 0
 0 7 0 1
+0 22 1 0
 0 25 -1 2
+0 33 4 5
 0 38 0 3
+0 47 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b2 gasoleo rat-a ta1-2-gasoleo ta3-1-rat-a
 0
 7
-0 33 4 5
-0 48 -1 1
-0 47 -1 0
-0 24 1 0
 0 6 0 1
+0 24 1 0
 0 25 -1 2
+0 33 4 5
 0 38 0 3
+0 47 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b2 gasoleo rat-a ta1-2-gasoleo ta3-2-rat-a
 0
 7
-0 33 4 5
-0 48 -1 1
-0 47 -1 0
-0 24 1 0
 0 7 0 1
+0 24 1 0
 0 25 -1 2
+0 33 4 5
 0 38 0 3
+0 47 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b4 gasoleo lco ta1-1-gasoleo ta3-1-lco
 0
 7
-0 33 6 5
-0 47 -1 0
-0 46 -1 1
-0 22 1 0
 0 17 0 1
+0 22 1 0
+0 33 6 5
 0 38 0 3
 0 39 -1 2
+0 46 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b4 gasoleo lco ta1-1-gasoleo ta3-2-lco
 0
 7
-0 33 6 5
-0 47 -1 0
-0 46 -1 1
-0 22 1 0
 0 18 0 1
+0 22 1 0
+0 33 6 5
 0 38 0 3
 0 39 -1 2
+0 46 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b4 gasoleo lco ta1-1-gasoleo ta3-3-lco
 0
 7
-0 33 6 5
-0 47 -1 0
-0 46 -1 1
-0 22 1 0
 0 20 0 1
+0 22 1 0
+0 33 6 5
 0 38 0 3
 0 39 -1 2
+0 46 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b4 gasoleo lco ta1-2-gasoleo ta3-1-lco
 0
 7
-0 33 6 5
-0 47 -1 0
-0 46 -1 1
-0 24 1 0
 0 17 0 1
+0 24 1 0
+0 33 6 5
 0 38 0 3
 0 39 -1 2
+0 46 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b4 gasoleo lco ta1-2-gasoleo ta3-2-lco
 0
 7
-0 33 6 5
-0 47 -1 0
-0 46 -1 1
-0 24 1 0
 0 18 0 1
+0 24 1 0
+0 33 6 5
 0 38 0 3
 0 39 -1 2
+0 46 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b4 gasoleo lco ta1-2-gasoleo ta3-3-lco
 0
 7
-0 33 6 5
-0 47 -1 0
-0 46 -1 1
-0 24 1 0
 0 20 0 1
+0 24 1 0
+0 33 6 5
 0 38 0 3
 0 39 -1 2
+0 46 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b5 gasoleo rat-a ta1-1-gasoleo ta3-1-rat-a
 0
 7
-0 33 7 5
-0 47 -1 0
-0 45 -1 1
-0 22 1 0
 0 6 0 1
-0 38 0 3
+0 22 1 0
+0 33 7 5
 0 35 -1 2
+0 38 0 3
+0 45 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b5 gasoleo rat-a ta1-1-gasoleo ta3-2-rat-a
 0
 7
-0 33 7 5
-0 47 -1 0
-0 45 -1 1
-0 22 1 0
 0 7 0 1
-0 38 0 3
+0 22 1 0
+0 33 7 5
 0 35 -1 2
+0 38 0 3
+0 45 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b5 gasoleo rat-a ta1-2-gasoleo ta3-1-rat-a
 0
 7
-0 33 7 5
-0 47 -1 0
-0 45 -1 1
-0 24 1 0
 0 6 0 1
-0 38 0 3
+0 24 1 0
+0 33 7 5
 0 35 -1 2
+0 38 0 3
+0 45 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b5 gasoleo rat-a ta1-2-gasoleo ta3-2-rat-a
 0
 7
-0 33 7 5
-0 47 -1 0
-0 45 -1 1
-0 24 1 0
 0 7 0 1
-0 38 0 3
+0 24 1 0
+0 33 7 5
 0 35 -1 2
+0 38 0 3
+0 45 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b6 gasoleo lco ta1-1-gasoleo ta3-1-lco
 0
 7
-0 33 8 5
-0 47 -1 0
-0 44 -1 1
-0 22 1 0
 0 17 0 1
-0 38 0 3
+0 22 1 0
 0 31 -1 2
+0 33 8 5
+0 38 0 3
+0 44 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b6 gasoleo lco ta1-1-gasoleo ta3-2-lco
 0
 7
-0 33 8 5
-0 47 -1 0
-0 44 -1 1
-0 22 1 0
 0 18 0 1
-0 38 0 3
+0 22 1 0
 0 31 -1 2
+0 33 8 5
+0 38 0 3
+0 44 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b6 gasoleo lco ta1-1-gasoleo ta3-3-lco
 0
 7
-0 33 8 5
-0 47 -1 0
-0 44 -1 1
-0 22 1 0
 0 20 0 1
-0 38 0 3
+0 22 1 0
 0 31 -1 2
+0 33 8 5
+0 38 0 3
+0 44 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b6 gasoleo lco ta1-2-gasoleo ta3-1-lco
 0
 7
-0 33 8 5
-0 47 -1 0
-0 44 -1 1
-0 24 1 0
 0 17 0 1
-0 38 0 3
+0 24 1 0
 0 31 -1 2
+0 33 8 5
+0 38 0 3
+0 44 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b6 gasoleo lco ta1-2-gasoleo ta3-2-lco
 0
 7
-0 33 8 5
-0 47 -1 0
-0 44 -1 1
-0 24 1 0
 0 18 0 1
-0 38 0 3
+0 24 1 0
 0 31 -1 2
+0 33 8 5
+0 38 0 3
+0 44 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b6 gasoleo lco ta1-2-gasoleo ta3-3-lco
 0
 7
-0 33 8 5
-0 47 -1 0
-0 44 -1 1
-0 24 1 0
 0 20 0 1
-0 38 0 3
+0 24 1 0
 0 31 -1 2
+0 33 8 5
+0 38 0 3
+0 44 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b7 gasoleo rat-a ta1-1-gasoleo ta3-1-rat-a
 0
 7
-0 33 9 5
-0 47 -1 0
-0 43 -1 1
-0 22 1 0
 0 6 0 1
-0 38 0 3
+0 22 1 0
+0 33 9 5
 0 36 -1 2
+0 38 0 3
+0 43 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b7 gasoleo rat-a ta1-1-gasoleo ta3-2-rat-a
 0
 7
-0 33 9 5
-0 47 -1 0
-0 43 -1 1
-0 22 1 0
 0 7 0 1
-0 38 0 3
+0 22 1 0
+0 33 9 5
 0 36 -1 2
+0 38 0 3
+0 43 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b7 gasoleo rat-a ta1-2-gasoleo ta3-1-rat-a
 0
 7
-0 33 9 5
-0 47 -1 0
-0 43 -1 1
-0 24 1 0
 0 6 0 1
-0 38 0 3
+0 24 1 0
+0 33 9 5
 0 36 -1 2
+0 38 0 3
+0 43 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b7 gasoleo rat-a ta1-2-gasoleo ta3-2-rat-a
 0
 7
-0 33 9 5
-0 47 -1 0
-0 43 -1 1
-0 24 1 0
 0 7 0 1
-0 38 0 3
+0 24 1 0
+0 33 9 5
 0 36 -1 2
+0 38 0 3
+0 43 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b8 gasoleo oc1b ta1-1-gasoleo ta3-1-oc1b
 0
 7
-0 33 10 5
-0 47 -1 0
-0 42 -1 1
-0 22 1 0
 0 2 0 1
-0 38 0 3
+0 22 1 0
 0 23 -1 2
+0 33 10 5
+0 38 0 3
+0 42 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b8 gasoleo oc1b ta1-1-gasoleo ta3-2-oc1b
 0
 7
-0 33 10 5
-0 47 -1 0
-0 42 -1 1
-0 22 1 0
 0 3 0 1
-0 38 0 3
+0 22 1 0
 0 23 -1 2
+0 33 10 5
+0 38 0 3
+0 42 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b8 gasoleo oc1b ta1-2-gasoleo ta3-1-oc1b
 0
 7
-0 33 10 5
-0 47 -1 0
-0 42 -1 1
-0 24 1 0
 0 2 0 1
-0 38 0 3
 0 23 -1 2
+0 24 1 0
+0 33 10 5
+0 38 0 3
+0 42 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b8 gasoleo oc1b ta1-2-gasoleo ta3-2-oc1b
 0
 7
-0 33 10 5
-0 47 -1 0
-0 42 -1 1
-0 24 1 0
 0 3 0 1
-0 38 0 3
 0 23 -1 2
+0 24 1 0
+0 33 10 5
+0 38 0 3
+0 42 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b9 gasoleo lco ta1-1-gasoleo ta3-1-lco
 0
 7
-0 33 11 5
-0 47 -1 0
-0 41 -1 1
-0 22 1 0
 0 17 0 1
+0 22 1 0
+0 33 11 5
 0 38 0 3
 0 40 -1 2
+0 41 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b9 gasoleo lco ta1-1-gasoleo ta3-2-lco
 0
 7
-0 33 11 5
-0 47 -1 0
-0 41 -1 1
-0 22 1 0
 0 18 0 1
+0 22 1 0
+0 33 11 5
 0 38 0 3
 0 40 -1 2
+0 41 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b9 gasoleo lco ta1-1-gasoleo ta3-3-lco
 0
 7
-0 33 11 5
-0 47 -1 0
-0 41 -1 1
-0 22 1 0
 0 20 0 1
+0 22 1 0
+0 33 11 5
 0 38 0 3
 0 40 -1 2
+0 41 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b9 gasoleo lco ta1-2-gasoleo ta3-1-lco
 0
 7
-0 33 11 5
-0 47 -1 0
-0 41 -1 1
-0 24 1 0
 0 17 0 1
+0 24 1 0
+0 33 11 5
 0 38 0 3
 0 40 -1 2
+0 41 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b9 gasoleo lco ta1-2-gasoleo ta3-2-lco
 0
 7
-0 33 11 5
-0 47 -1 0
-0 41 -1 1
-0 24 1 0
 0 18 0 1
+0 24 1 0
+0 33 11 5
 0 38 0 3
 0 40 -1 2
+0 41 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b3 a1 a3 b9 gasoleo lco ta1-2-gasoleo ta3-3-lco
 0
 7
-0 33 11 5
-0 47 -1 0
-0 41 -1 1
-0 24 1 0
 0 20 0 1
+0 24 1 0
+0 33 11 5
 0 38 0 3
 0 40 -1 2
+0 41 -1 1
+0 47 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b0 lco lco ta1-1-lco ta3-1-lco
 0
 7
-0 33 0 6
-0 52 -1 1
-0 46 -1 0
-0 27 1 0
 0 17 0 1
+0 27 1 0
 0 30 -1 2
+0 33 0 6
 0 39 0 3
+0 46 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b0 lco lco ta1-1-lco ta3-2-lco
 0
 7
-0 33 0 6
-0 52 -1 1
-0 46 -1 0
-0 27 1 0
 0 18 0 1
+0 27 1 0
 0 30 -1 2
+0 33 0 6
 0 39 0 3
+0 46 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b0 lco lco ta1-1-lco ta3-3-lco
 0
 7
-0 33 0 6
-0 52 -1 1
-0 46 -1 0
-0 27 1 0
 0 20 0 1
+0 27 1 0
 0 30 -1 2
+0 33 0 6
 0 39 0 3
+0 46 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b0 lco lco ta1-2-lco ta3-1-lco
 0
 7
-0 33 0 6
-0 52 -1 1
-0 46 -1 0
-0 28 1 0
 0 17 0 1
+0 28 1 0
 0 30 -1 2
+0 33 0 6
 0 39 0 3
+0 46 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b0 lco lco ta1-2-lco ta3-2-lco
 0
 7
-0 33 0 6
-0 52 -1 1
-0 46 -1 0
-0 28 1 0
 0 18 0 1
+0 28 1 0
 0 30 -1 2
+0 33 0 6
 0 39 0 3
+0 46 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b0 lco lco ta1-2-lco ta3-3-lco
 0
 7
-0 33 0 6
-0 52 -1 1
-0 46 -1 0
-0 28 1 0
 0 20 0 1
+0 28 1 0
 0 30 -1 2
+0 33 0 6
 0 39 0 3
+0 46 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b0 lco lco ta1-3-lco ta3-1-lco
 0
 7
-0 33 0 6
-0 52 -1 1
-0 46 -1 0
-0 29 1 0
 0 17 0 1
+0 29 1 0
 0 30 -1 2
+0 33 0 6
 0 39 0 3
+0 46 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b0 lco lco ta1-3-lco ta3-2-lco
 0
 7
-0 33 0 6
-0 52 -1 1
-0 46 -1 0
-0 29 1 0
 0 18 0 1
+0 29 1 0
 0 30 -1 2
+0 33 0 6
 0 39 0 3
+0 46 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b0 lco lco ta1-3-lco ta3-3-lco
 0
 7
-0 33 0 6
-0 52 -1 1
-0 46 -1 0
-0 29 1 0
 0 20 0 1
+0 29 1 0
 0 30 -1 2
+0 33 0 6
 0 39 0 3
+0 46 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b1 lco oc1b ta1-1-lco ta3-1-oc1b
 0
 7
-0 33 1 6
-0 51 -1 1
-0 46 -1 0
-0 27 1 0
 0 2 0 1
+0 27 1 0
+0 33 1 6
 0 34 -1 2
 0 39 0 3
+0 46 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b1 lco oc1b ta1-1-lco ta3-2-oc1b
 0
 7
-0 33 1 6
-0 51 -1 1
-0 46 -1 0
-0 27 1 0
 0 3 0 1
+0 27 1 0
+0 33 1 6
 0 34 -1 2
 0 39 0 3
+0 46 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b1 lco oc1b ta1-2-lco ta3-1-oc1b
 0
 7
-0 33 1 6
-0 51 -1 1
-0 46 -1 0
-0 28 1 0
 0 2 0 1
+0 28 1 0
+0 33 1 6
 0 34 -1 2
 0 39 0 3
+0 46 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b1 lco oc1b ta1-2-lco ta3-2-oc1b
 0
 7
-0 33 1 6
-0 51 -1 1
-0 46 -1 0
-0 28 1 0
 0 3 0 1
+0 28 1 0
+0 33 1 6
 0 34 -1 2
 0 39 0 3
+0 46 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b1 lco oc1b ta1-3-lco ta3-1-oc1b
 0
 7
-0 33 1 6
-0 51 -1 1
-0 46 -1 0
-0 29 1 0
 0 2 0 1
+0 29 1 0
+0 33 1 6
 0 34 -1 2
 0 39 0 3
+0 46 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b1 lco oc1b ta1-3-lco ta3-2-oc1b
 0
 7
-0 33 1 6
-0 51 -1 1
-0 46 -1 0
-0 29 1 0
 0 3 0 1
+0 29 1 0
+0 33 1 6
 0 34 -1 2
 0 39 0 3
+0 46 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b10 lco gasoleo ta1-1-lco ta3-1-gasoleo
 0
 7
-0 33 2 6
-0 50 -1 1
-0 46 -1 0
-0 27 1 0
 0 12 0 1
 0 26 -1 2
+0 27 1 0
+0 33 2 6
 0 39 0 3
+0 46 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b10 lco gasoleo ta1-1-lco ta3-2-gasoleo
 0
 7
-0 33 2 6
-0 50 -1 1
-0 46 -1 0
-0 27 1 0
 0 13 0 1
 0 26 -1 2
+0 27 1 0
+0 33 2 6
 0 39 0 3
+0 46 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b10 lco gasoleo ta1-2-lco ta3-1-gasoleo
 0
 7
-0 33 2 6
-0 50 -1 1
-0 46 -1 0
-0 28 1 0
 0 12 0 1
 0 26 -1 2
+0 28 1 0
+0 33 2 6
 0 39 0 3
+0 46 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b10 lco gasoleo ta1-2-lco ta3-2-gasoleo
 0
 7
-0 33 2 6
-0 50 -1 1
-0 46 -1 0
-0 28 1 0
 0 13 0 1
 0 26 -1 2
+0 28 1 0
+0 33 2 6
 0 39 0 3
+0 46 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b10 lco gasoleo ta1-3-lco ta3-1-gasoleo
 0
 7
-0 33 2 6
-0 50 -1 1
-0 46 -1 0
-0 29 1 0
 0 12 0 1
 0 26 -1 2
+0 29 1 0
+0 33 2 6
 0 39 0 3
+0 46 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b10 lco gasoleo ta1-3-lco ta3-2-gasoleo
 0
 7
-0 33 2 6
-0 50 -1 1
-0 46 -1 0
-0 29 1 0
 0 13 0 1
 0 26 -1 2
+0 29 1 0
+0 33 2 6
 0 39 0 3
+0 46 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b11 lco gasoleo ta1-1-lco ta3-1-gasoleo
 0
 7
-0 33 3 6
-0 49 -1 1
-0 46 -1 0
-0 27 1 0
 0 12 0 1
+0 27 1 0
+0 33 3 6
 0 37 -1 2
 0 39 0 3
+0 46 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b11 lco gasoleo ta1-1-lco ta3-2-gasoleo
 0
 7
-0 33 3 6
-0 49 -1 1
-0 46 -1 0
-0 27 1 0
 0 13 0 1
+0 27 1 0
+0 33 3 6
 0 37 -1 2
 0 39 0 3
+0 46 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b11 lco gasoleo ta1-2-lco ta3-1-gasoleo
 0
 7
-0 33 3 6
-0 49 -1 1
-0 46 -1 0
-0 28 1 0
 0 12 0 1
+0 28 1 0
+0 33 3 6
 0 37 -1 2
 0 39 0 3
+0 46 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b11 lco gasoleo ta1-2-lco ta3-2-gasoleo
 0
 7
-0 33 3 6
-0 49 -1 1
-0 46 -1 0
-0 28 1 0
 0 13 0 1
+0 28 1 0
+0 33 3 6
 0 37 -1 2
 0 39 0 3
+0 46 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b11 lco gasoleo ta1-3-lco ta3-1-gasoleo
 0
 7
-0 33 3 6
-0 49 -1 1
-0 46 -1 0
-0 29 1 0
 0 12 0 1
+0 29 1 0
+0 33 3 6
 0 37 -1 2
 0 39 0 3
+0 46 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b11 lco gasoleo ta1-3-lco ta3-2-gasoleo
 0
 7
-0 33 3 6
-0 49 -1 1
-0 46 -1 0
-0 29 1 0
 0 13 0 1
+0 29 1 0
+0 33 3 6
 0 37 -1 2
 0 39 0 3
+0 46 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b2 lco rat-a ta1-1-lco ta3-1-rat-a
 0
 7
-0 33 4 6
-0 48 -1 1
-0 46 -1 0
-0 27 1 0
 0 6 0 1
 0 25 -1 2
+0 27 1 0
+0 33 4 6
 0 39 0 3
+0 46 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b2 lco rat-a ta1-1-lco ta3-2-rat-a
 0
 7
-0 33 4 6
-0 48 -1 1
-0 46 -1 0
-0 27 1 0
 0 7 0 1
 0 25 -1 2
+0 27 1 0
+0 33 4 6
 0 39 0 3
+0 46 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b2 lco rat-a ta1-2-lco ta3-1-rat-a
 0
 7
-0 33 4 6
-0 48 -1 1
-0 46 -1 0
-0 28 1 0
 0 6 0 1
 0 25 -1 2
+0 28 1 0
+0 33 4 6
 0 39 0 3
+0 46 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b2 lco rat-a ta1-2-lco ta3-2-rat-a
 0
 7
-0 33 4 6
-0 48 -1 1
-0 46 -1 0
-0 28 1 0
 0 7 0 1
 0 25 -1 2
+0 28 1 0
+0 33 4 6
 0 39 0 3
+0 46 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b2 lco rat-a ta1-3-lco ta3-1-rat-a
 0
 7
-0 33 4 6
-0 48 -1 1
-0 46 -1 0
-0 29 1 0
 0 6 0 1
 0 25 -1 2
+0 29 1 0
+0 33 4 6
 0 39 0 3
+0 46 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b2 lco rat-a ta1-3-lco ta3-2-rat-a
 0
 7
-0 33 4 6
-0 48 -1 1
-0 46 -1 0
-0 29 1 0
 0 7 0 1
 0 25 -1 2
+0 29 1 0
+0 33 4 6
 0 39 0 3
+0 46 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b3 lco gasoleo ta1-1-lco ta3-1-gasoleo
 0
 7
-0 33 5 6
-0 47 -1 1
-0 46 -1 0
-0 27 1 0
 0 12 0 1
+0 27 1 0
+0 33 5 6
 0 38 -1 2
 0 39 0 3
+0 46 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b3 lco gasoleo ta1-1-lco ta3-2-gasoleo
 0
 7
-0 33 5 6
-0 47 -1 1
-0 46 -1 0
-0 27 1 0
 0 13 0 1
+0 27 1 0
+0 33 5 6
 0 38 -1 2
 0 39 0 3
+0 46 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b3 lco gasoleo ta1-2-lco ta3-1-gasoleo
 0
 7
-0 33 5 6
-0 47 -1 1
-0 46 -1 0
-0 28 1 0
 0 12 0 1
+0 28 1 0
+0 33 5 6
 0 38 -1 2
 0 39 0 3
+0 46 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b3 lco gasoleo ta1-2-lco ta3-2-gasoleo
 0
 7
-0 33 5 6
-0 47 -1 1
-0 46 -1 0
-0 28 1 0
 0 13 0 1
+0 28 1 0
+0 33 5 6
 0 38 -1 2
 0 39 0 3
+0 46 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b3 lco gasoleo ta1-3-lco ta3-1-gasoleo
 0
 7
-0 33 5 6
-0 47 -1 1
-0 46 -1 0
-0 29 1 0
 0 12 0 1
+0 29 1 0
+0 33 5 6
 0 38 -1 2
 0 39 0 3
+0 46 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b3 lco gasoleo ta1-3-lco ta3-2-gasoleo
 0
 7
-0 33 5 6
-0 47 -1 1
-0 46 -1 0
-0 29 1 0
 0 13 0 1
+0 29 1 0
+0 33 5 6
 0 38 -1 2
 0 39 0 3
+0 46 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b5 lco rat-a ta1-1-lco ta3-1-rat-a
 0
 7
-0 33 7 6
-0 46 -1 0
-0 45 -1 1
-0 27 1 0
 0 6 0 1
-0 39 0 3
+0 27 1 0
+0 33 7 6
 0 35 -1 2
+0 39 0 3
+0 45 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b5 lco rat-a ta1-1-lco ta3-2-rat-a
 0
 7
-0 33 7 6
-0 46 -1 0
-0 45 -1 1
-0 27 1 0
 0 7 0 1
-0 39 0 3
+0 27 1 0
+0 33 7 6
 0 35 -1 2
+0 39 0 3
+0 45 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b5 lco rat-a ta1-2-lco ta3-1-rat-a
 0
 7
-0 33 7 6
-0 46 -1 0
-0 45 -1 1
-0 28 1 0
 0 6 0 1
-0 39 0 3
+0 28 1 0
+0 33 7 6
 0 35 -1 2
+0 39 0 3
+0 45 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b5 lco rat-a ta1-2-lco ta3-2-rat-a
 0
 7
-0 33 7 6
-0 46 -1 0
-0 45 -1 1
-0 28 1 0
 0 7 0 1
-0 39 0 3
+0 28 1 0
+0 33 7 6
 0 35 -1 2
+0 39 0 3
+0 45 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b5 lco rat-a ta1-3-lco ta3-1-rat-a
 0
 7
-0 33 7 6
-0 46 -1 0
-0 45 -1 1
-0 29 1 0
 0 6 0 1
-0 39 0 3
+0 29 1 0
+0 33 7 6
 0 35 -1 2
+0 39 0 3
+0 45 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b5 lco rat-a ta1-3-lco ta3-2-rat-a
 0
 7
-0 33 7 6
-0 46 -1 0
-0 45 -1 1
-0 29 1 0
 0 7 0 1
-0 39 0 3
+0 29 1 0
+0 33 7 6
 0 35 -1 2
+0 39 0 3
+0 45 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b6 lco lco ta1-1-lco ta3-1-lco
 0
 7
-0 33 8 6
-0 46 -1 0
-0 44 -1 1
-0 27 1 0
 0 17 0 1
-0 39 0 3
+0 27 1 0
 0 31 -1 2
+0 33 8 6
+0 39 0 3
+0 44 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b6 lco lco ta1-1-lco ta3-2-lco
 0
 7
-0 33 8 6
-0 46 -1 0
-0 44 -1 1
-0 27 1 0
 0 18 0 1
-0 39 0 3
+0 27 1 0
 0 31 -1 2
+0 33 8 6
+0 39 0 3
+0 44 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b6 lco lco ta1-1-lco ta3-3-lco
 0
 7
-0 33 8 6
-0 46 -1 0
-0 44 -1 1
-0 27 1 0
 0 20 0 1
-0 39 0 3
+0 27 1 0
 0 31 -1 2
+0 33 8 6
+0 39 0 3
+0 44 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b6 lco lco ta1-2-lco ta3-1-lco
 0
 7
-0 33 8 6
-0 46 -1 0
-0 44 -1 1
-0 28 1 0
 0 17 0 1
-0 39 0 3
+0 28 1 0
 0 31 -1 2
+0 33 8 6
+0 39 0 3
+0 44 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b6 lco lco ta1-2-lco ta3-2-lco
 0
 7
-0 33 8 6
-0 46 -1 0
-0 44 -1 1
-0 28 1 0
 0 18 0 1
-0 39 0 3
+0 28 1 0
 0 31 -1 2
+0 33 8 6
+0 39 0 3
+0 44 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b6 lco lco ta1-2-lco ta3-3-lco
 0
 7
-0 33 8 6
-0 46 -1 0
-0 44 -1 1
-0 28 1 0
 0 20 0 1
-0 39 0 3
+0 28 1 0
 0 31 -1 2
+0 33 8 6
+0 39 0 3
+0 44 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b6 lco lco ta1-3-lco ta3-1-lco
 0
 7
-0 33 8 6
-0 46 -1 0
-0 44 -1 1
-0 29 1 0
 0 17 0 1
-0 39 0 3
+0 29 1 0
 0 31 -1 2
+0 33 8 6
+0 39 0 3
+0 44 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b6 lco lco ta1-3-lco ta3-2-lco
 0
 7
-0 33 8 6
-0 46 -1 0
-0 44 -1 1
-0 29 1 0
 0 18 0 1
-0 39 0 3
+0 29 1 0
 0 31 -1 2
+0 33 8 6
+0 39 0 3
+0 44 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b6 lco lco ta1-3-lco ta3-3-lco
 0
 7
-0 33 8 6
-0 46 -1 0
-0 44 -1 1
-0 29 1 0
 0 20 0 1
-0 39 0 3
+0 29 1 0
 0 31 -1 2
+0 33 8 6
+0 39 0 3
+0 44 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b7 lco rat-a ta1-1-lco ta3-1-rat-a
 0
 7
-0 33 9 6
-0 46 -1 0
-0 43 -1 1
-0 27 1 0
 0 6 0 1
-0 39 0 3
+0 27 1 0
+0 33 9 6
 0 36 -1 2
+0 39 0 3
+0 43 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b7 lco rat-a ta1-1-lco ta3-2-rat-a
 0
 7
-0 33 9 6
-0 46 -1 0
-0 43 -1 1
-0 27 1 0
 0 7 0 1
-0 39 0 3
+0 27 1 0
+0 33 9 6
 0 36 -1 2
+0 39 0 3
+0 43 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b7 lco rat-a ta1-2-lco ta3-1-rat-a
 0
 7
-0 33 9 6
-0 46 -1 0
-0 43 -1 1
-0 28 1 0
 0 6 0 1
-0 39 0 3
+0 28 1 0
+0 33 9 6
 0 36 -1 2
+0 39 0 3
+0 43 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b7 lco rat-a ta1-2-lco ta3-2-rat-a
 0
 7
-0 33 9 6
-0 46 -1 0
-0 43 -1 1
-0 28 1 0
 0 7 0 1
-0 39 0 3
+0 28 1 0
+0 33 9 6
 0 36 -1 2
+0 39 0 3
+0 43 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b7 lco rat-a ta1-3-lco ta3-1-rat-a
 0
 7
-0 33 9 6
-0 46 -1 0
-0 43 -1 1
-0 29 1 0
 0 6 0 1
-0 39 0 3
+0 29 1 0
+0 33 9 6
 0 36 -1 2
+0 39 0 3
+0 43 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b7 lco rat-a ta1-3-lco ta3-2-rat-a
 0
 7
-0 33 9 6
-0 46 -1 0
-0 43 -1 1
-0 29 1 0
 0 7 0 1
-0 39 0 3
+0 29 1 0
+0 33 9 6
 0 36 -1 2
+0 39 0 3
+0 43 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b8 lco oc1b ta1-1-lco ta3-1-oc1b
 0
 7
-0 33 10 6
-0 46 -1 0
-0 42 -1 1
-0 27 1 0
 0 2 0 1
-0 39 0 3
 0 23 -1 2
+0 27 1 0
+0 33 10 6
+0 39 0 3
+0 42 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b8 lco oc1b ta1-1-lco ta3-2-oc1b
 0
 7
-0 33 10 6
-0 46 -1 0
-0 42 -1 1
-0 27 1 0
 0 3 0 1
-0 39 0 3
 0 23 -1 2
+0 27 1 0
+0 33 10 6
+0 39 0 3
+0 42 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b8 lco oc1b ta1-2-lco ta3-1-oc1b
 0
 7
-0 33 10 6
-0 46 -1 0
-0 42 -1 1
-0 28 1 0
 0 2 0 1
-0 39 0 3
 0 23 -1 2
+0 28 1 0
+0 33 10 6
+0 39 0 3
+0 42 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b8 lco oc1b ta1-2-lco ta3-2-oc1b
 0
 7
-0 33 10 6
-0 46 -1 0
-0 42 -1 1
-0 28 1 0
 0 3 0 1
-0 39 0 3
 0 23 -1 2
+0 28 1 0
+0 33 10 6
+0 39 0 3
+0 42 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b8 lco oc1b ta1-3-lco ta3-1-oc1b
 0
 7
-0 33 10 6
-0 46 -1 0
-0 42 -1 1
-0 29 1 0
 0 2 0 1
-0 39 0 3
 0 23 -1 2
+0 29 1 0
+0 33 10 6
+0 39 0 3
+0 42 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b8 lco oc1b ta1-3-lco ta3-2-oc1b
 0
 7
-0 33 10 6
-0 46 -1 0
-0 42 -1 1
-0 29 1 0
 0 3 0 1
-0 39 0 3
 0 23 -1 2
+0 29 1 0
+0 33 10 6
+0 39 0 3
+0 42 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b9 lco lco ta1-1-lco ta3-1-lco
 0
 7
-0 33 11 6
-0 46 -1 0
-0 41 -1 1
-0 27 1 0
 0 17 0 1
+0 27 1 0
+0 33 11 6
 0 39 0 3
 0 40 -1 2
+0 41 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b9 lco lco ta1-1-lco ta3-2-lco
 0
 7
-0 33 11 6
-0 46 -1 0
-0 41 -1 1
-0 27 1 0
 0 18 0 1
+0 27 1 0
+0 33 11 6
 0 39 0 3
 0 40 -1 2
+0 41 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b9 lco lco ta1-1-lco ta3-3-lco
 0
 7
-0 33 11 6
-0 46 -1 0
-0 41 -1 1
-0 27 1 0
 0 20 0 1
+0 27 1 0
+0 33 11 6
 0 39 0 3
 0 40 -1 2
+0 41 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b9 lco lco ta1-2-lco ta3-1-lco
 0
 7
-0 33 11 6
-0 46 -1 0
-0 41 -1 1
-0 28 1 0
 0 17 0 1
+0 28 1 0
+0 33 11 6
 0 39 0 3
 0 40 -1 2
+0 41 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b9 lco lco ta1-2-lco ta3-2-lco
 0
 7
-0 33 11 6
-0 46 -1 0
-0 41 -1 1
-0 28 1 0
 0 18 0 1
+0 28 1 0
+0 33 11 6
 0 39 0 3
 0 40 -1 2
+0 41 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b9 lco lco ta1-2-lco ta3-3-lco
 0
 7
-0 33 11 6
-0 46 -1 0
-0 41 -1 1
-0 28 1 0
 0 20 0 1
+0 28 1 0
+0 33 11 6
 0 39 0 3
 0 40 -1 2
+0 41 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b9 lco lco ta1-3-lco ta3-1-lco
 0
 7
-0 33 11 6
-0 46 -1 0
-0 41 -1 1
-0 29 1 0
 0 17 0 1
+0 29 1 0
+0 33 11 6
 0 39 0 3
 0 40 -1 2
+0 41 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b9 lco lco ta1-3-lco ta3-2-lco
 0
 7
-0 33 11 6
-0 46 -1 0
-0 41 -1 1
-0 29 1 0
 0 18 0 1
+0 29 1 0
+0 33 11 6
 0 39 0 3
 0 40 -1 2
+0 41 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b4 a1 a3 b9 lco lco ta1-3-lco ta3-3-lco
 0
 7
-0 33 11 6
-0 46 -1 0
-0 41 -1 1
-0 29 1 0
 0 20 0 1
+0 29 1 0
+0 33 11 6
 0 39 0 3
 0 40 -1 2
+0 41 -1 1
+0 46 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b0 rat-a lco ta1-1-rat-a ta3-1-lco
 0
 7
-0 33 0 7
-0 52 -1 1
-0 45 -1 0
-0 19 1 0
 0 17 0 1
+0 19 1 0
 0 30 -1 2
+0 33 0 7
 0 35 0 3
+0 45 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b0 rat-a lco ta1-1-rat-a ta3-2-lco
 0
 7
-0 33 0 7
-0 52 -1 1
-0 45 -1 0
-0 19 1 0
 0 18 0 1
+0 19 1 0
 0 30 -1 2
+0 33 0 7
 0 35 0 3
+0 45 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b0 rat-a lco ta1-1-rat-a ta3-3-lco
 0
 7
-0 33 0 7
-0 52 -1 1
-0 45 -1 0
 0 19 1 0
 0 20 0 1
 0 30 -1 2
+0 33 0 7
 0 35 0 3
+0 45 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b0 rat-a lco ta1-2-rat-a ta3-1-lco
 0
 7
-0 33 0 7
-0 52 -1 1
-0 45 -1 0
-0 21 1 0
 0 17 0 1
+0 21 1 0
 0 30 -1 2
+0 33 0 7
 0 35 0 3
+0 45 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b0 rat-a lco ta1-2-rat-a ta3-2-lco
 0
 7
-0 33 0 7
-0 52 -1 1
-0 45 -1 0
-0 21 1 0
 0 18 0 1
+0 21 1 0
 0 30 -1 2
+0 33 0 7
 0 35 0 3
+0 45 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b0 rat-a lco ta1-2-rat-a ta3-3-lco
 0
 7
-0 33 0 7
-0 52 -1 1
-0 45 -1 0
-0 21 1 0
 0 20 0 1
+0 21 1 0
 0 30 -1 2
+0 33 0 7
 0 35 0 3
+0 45 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b10 rat-a gasoleo ta1-1-rat-a ta3-1-gasoleo
 0
 7
-0 33 2 7
-0 50 -1 1
-0 45 -1 0
-0 19 1 0
 0 12 0 1
+0 19 1 0
 0 26 -1 2
+0 33 2 7
 0 35 0 3
+0 45 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b10 rat-a gasoleo ta1-1-rat-a ta3-2-gasoleo
 0
 7
-0 33 2 7
-0 50 -1 1
-0 45 -1 0
-0 19 1 0
 0 13 0 1
+0 19 1 0
 0 26 -1 2
+0 33 2 7
 0 35 0 3
+0 45 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b10 rat-a gasoleo ta1-2-rat-a ta3-1-gasoleo
 0
 7
-0 33 2 7
-0 50 -1 1
-0 45 -1 0
-0 21 1 0
 0 12 0 1
+0 21 1 0
 0 26 -1 2
+0 33 2 7
 0 35 0 3
+0 45 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b10 rat-a gasoleo ta1-2-rat-a ta3-2-gasoleo
 0
 7
-0 33 2 7
-0 50 -1 1
-0 45 -1 0
-0 21 1 0
 0 13 0 1
+0 21 1 0
 0 26 -1 2
+0 33 2 7
 0 35 0 3
+0 45 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b11 rat-a gasoleo ta1-1-rat-a ta3-1-gasoleo
 0
 7
-0 33 3 7
-0 49 -1 1
-0 45 -1 0
-0 19 1 0
 0 12 0 1
-0 37 -1 2
+0 19 1 0
+0 33 3 7
 0 35 0 3
+0 37 -1 2
+0 45 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b11 rat-a gasoleo ta1-1-rat-a ta3-2-gasoleo
 0
 7
-0 33 3 7
-0 49 -1 1
-0 45 -1 0
-0 19 1 0
 0 13 0 1
-0 37 -1 2
+0 19 1 0
+0 33 3 7
 0 35 0 3
+0 37 -1 2
+0 45 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b11 rat-a gasoleo ta1-2-rat-a ta3-1-gasoleo
 0
 7
-0 33 3 7
-0 49 -1 1
-0 45 -1 0
-0 21 1 0
 0 12 0 1
-0 37 -1 2
+0 21 1 0
+0 33 3 7
 0 35 0 3
+0 37 -1 2
+0 45 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b11 rat-a gasoleo ta1-2-rat-a ta3-2-gasoleo
 0
 7
-0 33 3 7
-0 49 -1 1
-0 45 -1 0
-0 21 1 0
 0 13 0 1
-0 37 -1 2
+0 21 1 0
+0 33 3 7
 0 35 0 3
+0 37 -1 2
+0 45 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b2 rat-a rat-a ta1-1-rat-a ta3-1-rat-a
 0
 7
-0 33 4 7
-0 48 -1 1
-0 45 -1 0
-0 19 1 0
 0 6 0 1
+0 19 1 0
 0 25 -1 2
+0 33 4 7
 0 35 0 3
+0 45 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b2 rat-a rat-a ta1-1-rat-a ta3-2-rat-a
 0
 7
-0 33 4 7
-0 48 -1 1
-0 45 -1 0
-0 19 1 0
 0 7 0 1
+0 19 1 0
 0 25 -1 2
+0 33 4 7
 0 35 0 3
+0 45 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b2 rat-a rat-a ta1-2-rat-a ta3-1-rat-a
 0
 7
-0 33 4 7
-0 48 -1 1
-0 45 -1 0
-0 21 1 0
 0 6 0 1
+0 21 1 0
 0 25 -1 2
+0 33 4 7
 0 35 0 3
+0 45 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b2 rat-a rat-a ta1-2-rat-a ta3-2-rat-a
 0
 7
-0 33 4 7
-0 48 -1 1
-0 45 -1 0
-0 21 1 0
 0 7 0 1
+0 21 1 0
 0 25 -1 2
+0 33 4 7
 0 35 0 3
+0 45 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b3 rat-a gasoleo ta1-1-rat-a ta3-1-gasoleo
 0
 7
-0 33 5 7
-0 47 -1 1
-0 45 -1 0
-0 19 1 0
 0 12 0 1
-0 38 -1 2
+0 19 1 0
+0 33 5 7
 0 35 0 3
+0 38 -1 2
+0 45 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b3 rat-a gasoleo ta1-1-rat-a ta3-2-gasoleo
 0
 7
-0 33 5 7
-0 47 -1 1
-0 45 -1 0
-0 19 1 0
 0 13 0 1
-0 38 -1 2
+0 19 1 0
+0 33 5 7
 0 35 0 3
+0 38 -1 2
+0 45 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b3 rat-a gasoleo ta1-2-rat-a ta3-1-gasoleo
 0
 7
-0 33 5 7
-0 47 -1 1
-0 45 -1 0
-0 21 1 0
 0 12 0 1
-0 38 -1 2
+0 21 1 0
+0 33 5 7
 0 35 0 3
+0 38 -1 2
+0 45 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b3 rat-a gasoleo ta1-2-rat-a ta3-2-gasoleo
 0
 7
-0 33 5 7
-0 47 -1 1
-0 45 -1 0
-0 21 1 0
 0 13 0 1
-0 38 -1 2
+0 21 1 0
+0 33 5 7
 0 35 0 3
+0 38 -1 2
+0 45 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b4 rat-a lco ta1-1-rat-a ta3-1-lco
 0
 7
-0 33 6 7
-0 46 -1 1
-0 45 -1 0
-0 19 1 0
 0 17 0 1
-0 39 -1 2
+0 19 1 0
+0 33 6 7
 0 35 0 3
+0 39 -1 2
+0 45 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b4 rat-a lco ta1-1-rat-a ta3-2-lco
 0
 7
-0 33 6 7
-0 46 -1 1
-0 45 -1 0
-0 19 1 0
 0 18 0 1
-0 39 -1 2
+0 19 1 0
+0 33 6 7
 0 35 0 3
+0 39 -1 2
+0 45 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b4 rat-a lco ta1-1-rat-a ta3-3-lco
 0
 7
-0 33 6 7
-0 46 -1 1
-0 45 -1 0
 0 19 1 0
 0 20 0 1
-0 39 -1 2
+0 33 6 7
 0 35 0 3
+0 39 -1 2
+0 45 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b4 rat-a lco ta1-2-rat-a ta3-1-lco
 0
 7
-0 33 6 7
-0 46 -1 1
-0 45 -1 0
-0 21 1 0
 0 17 0 1
-0 39 -1 2
+0 21 1 0
+0 33 6 7
 0 35 0 3
+0 39 -1 2
+0 45 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b4 rat-a lco ta1-2-rat-a ta3-2-lco
 0
 7
-0 33 6 7
-0 46 -1 1
-0 45 -1 0
-0 21 1 0
 0 18 0 1
-0 39 -1 2
+0 21 1 0
+0 33 6 7
 0 35 0 3
+0 39 -1 2
+0 45 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b4 rat-a lco ta1-2-rat-a ta3-3-lco
 0
 7
-0 33 6 7
-0 46 -1 1
-0 45 -1 0
-0 21 1 0
 0 20 0 1
-0 39 -1 2
+0 21 1 0
+0 33 6 7
 0 35 0 3
+0 39 -1 2
+0 45 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b6 rat-a lco ta1-1-rat-a ta3-1-lco
 0
 7
-0 33 8 7
-0 45 -1 0
-0 44 -1 1
-0 19 1 0
 0 17 0 1
-0 35 0 3
+0 19 1 0
 0 31 -1 2
+0 33 8 7
+0 35 0 3
+0 44 -1 1
+0 45 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b6 rat-a lco ta1-1-rat-a ta3-2-lco
 0
 7
-0 33 8 7
-0 45 -1 0
-0 44 -1 1
-0 19 1 0
 0 18 0 1
-0 35 0 3
+0 19 1 0
 0 31 -1 2
+0 33 8 7
+0 35 0 3
+0 44 -1 1
+0 45 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b6 rat-a lco ta1-1-rat-a ta3-3-lco
 0
 7
-0 33 8 7
-0 45 -1 0
-0 44 -1 1
 0 19 1 0
 0 20 0 1
-0 35 0 3
 0 31 -1 2
+0 33 8 7
+0 35 0 3
+0 44 -1 1
+0 45 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b6 rat-a lco ta1-2-rat-a ta3-1-lco
 0
 7
-0 33 8 7
-0 45 -1 0
-0 44 -1 1
-0 21 1 0
 0 17 0 1
-0 35 0 3
+0 21 1 0
 0 31 -1 2
+0 33 8 7
+0 35 0 3
+0 44 -1 1
+0 45 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b6 rat-a lco ta1-2-rat-a ta3-2-lco
 0
 7
-0 33 8 7
-0 45 -1 0
-0 44 -1 1
-0 21 1 0
 0 18 0 1
-0 35 0 3
+0 21 1 0
 0 31 -1 2
+0 33 8 7
+0 35 0 3
+0 44 -1 1
+0 45 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b6 rat-a lco ta1-2-rat-a ta3-3-lco
 0
 7
-0 33 8 7
-0 45 -1 0
-0 44 -1 1
-0 21 1 0
 0 20 0 1
-0 35 0 3
+0 21 1 0
 0 31 -1 2
+0 33 8 7
+0 35 0 3
+0 44 -1 1
+0 45 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b7 rat-a rat-a ta1-1-rat-a ta3-1-rat-a
 0
 7
-0 33 9 7
-0 45 -1 0
-0 43 -1 1
-0 19 1 0
 0 6 0 1
+0 19 1 0
+0 33 9 7
 0 35 0 3
 0 36 -1 2
+0 43 -1 1
+0 45 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b7 rat-a rat-a ta1-1-rat-a ta3-2-rat-a
 0
 7
-0 33 9 7
-0 45 -1 0
-0 43 -1 1
-0 19 1 0
 0 7 0 1
+0 19 1 0
+0 33 9 7
 0 35 0 3
 0 36 -1 2
+0 43 -1 1
+0 45 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b7 rat-a rat-a ta1-2-rat-a ta3-1-rat-a
 0
 7
-0 33 9 7
-0 45 -1 0
-0 43 -1 1
-0 21 1 0
 0 6 0 1
+0 21 1 0
+0 33 9 7
 0 35 0 3
 0 36 -1 2
+0 43 -1 1
+0 45 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b7 rat-a rat-a ta1-2-rat-a ta3-2-rat-a
 0
 7
-0 33 9 7
-0 45 -1 0
-0 43 -1 1
-0 21 1 0
 0 7 0 1
+0 21 1 0
+0 33 9 7
 0 35 0 3
 0 36 -1 2
+0 43 -1 1
+0 45 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b9 rat-a lco ta1-1-rat-a ta3-1-lco
 0
 7
-0 33 11 7
-0 45 -1 0
-0 41 -1 1
-0 19 1 0
 0 17 0 1
+0 19 1 0
+0 33 11 7
 0 35 0 3
 0 40 -1 2
+0 41 -1 1
+0 45 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b9 rat-a lco ta1-1-rat-a ta3-2-lco
 0
 7
-0 33 11 7
-0 45 -1 0
-0 41 -1 1
-0 19 1 0
 0 18 0 1
+0 19 1 0
+0 33 11 7
 0 35 0 3
 0 40 -1 2
+0 41 -1 1
+0 45 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b9 rat-a lco ta1-1-rat-a ta3-3-lco
 0
 7
-0 33 11 7
-0 45 -1 0
-0 41 -1 1
 0 19 1 0
 0 20 0 1
+0 33 11 7
 0 35 0 3
 0 40 -1 2
+0 41 -1 1
+0 45 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b9 rat-a lco ta1-2-rat-a ta3-1-lco
 0
 7
-0 33 11 7
-0 45 -1 0
-0 41 -1 1
-0 21 1 0
 0 17 0 1
+0 21 1 0
+0 33 11 7
 0 35 0 3
 0 40 -1 2
+0 41 -1 1
+0 45 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b9 rat-a lco ta1-2-rat-a ta3-2-lco
 0
 7
-0 33 11 7
-0 45 -1 0
-0 41 -1 1
-0 21 1 0
 0 18 0 1
+0 21 1 0
+0 33 11 7
 0 35 0 3
 0 40 -1 2
+0 41 -1 1
+0 45 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b5 a1 a3 b9 rat-a lco ta1-2-rat-a ta3-3-lco
 0
 7
-0 33 11 7
-0 45 -1 0
-0 41 -1 1
-0 21 1 0
 0 20 0 1
+0 21 1 0
+0 33 11 7
 0 35 0 3
 0 40 -1 2
+0 41 -1 1
+0 45 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b0 lco lco ta1-1-lco ta3-1-lco
 0
 7
-0 33 0 8
-0 52 -1 1
-0 44 -1 0
-0 27 1 0
 0 17 0 1
+0 27 1 0
 0 30 -1 2
 0 31 0 3
+0 33 0 8
+0 44 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b0 lco lco ta1-1-lco ta3-2-lco
 0
 7
-0 33 0 8
-0 52 -1 1
-0 44 -1 0
-0 27 1 0
 0 18 0 1
+0 27 1 0
 0 30 -1 2
 0 31 0 3
+0 33 0 8
+0 44 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b0 lco lco ta1-1-lco ta3-3-lco
 0
 7
-0 33 0 8
-0 52 -1 1
-0 44 -1 0
-0 27 1 0
 0 20 0 1
+0 27 1 0
 0 30 -1 2
 0 31 0 3
+0 33 0 8
+0 44 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b0 lco lco ta1-2-lco ta3-1-lco
 0
 7
-0 33 0 8
-0 52 -1 1
-0 44 -1 0
-0 28 1 0
 0 17 0 1
+0 28 1 0
 0 30 -1 2
 0 31 0 3
+0 33 0 8
+0 44 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b0 lco lco ta1-2-lco ta3-2-lco
 0
 7
-0 33 0 8
-0 52 -1 1
-0 44 -1 0
-0 28 1 0
 0 18 0 1
+0 28 1 0
 0 30 -1 2
 0 31 0 3
+0 33 0 8
+0 44 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b0 lco lco ta1-2-lco ta3-3-lco
 0
 7
-0 33 0 8
-0 52 -1 1
-0 44 -1 0
-0 28 1 0
 0 20 0 1
+0 28 1 0
 0 30 -1 2
 0 31 0 3
+0 33 0 8
+0 44 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b0 lco lco ta1-3-lco ta3-1-lco
 0
 7
-0 33 0 8
-0 52 -1 1
-0 44 -1 0
-0 29 1 0
 0 17 0 1
+0 29 1 0
 0 30 -1 2
 0 31 0 3
+0 33 0 8
+0 44 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b0 lco lco ta1-3-lco ta3-2-lco
 0
 7
-0 33 0 8
-0 52 -1 1
-0 44 -1 0
-0 29 1 0
 0 18 0 1
+0 29 1 0
 0 30 -1 2
 0 31 0 3
+0 33 0 8
+0 44 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b0 lco lco ta1-3-lco ta3-3-lco
 0
 7
-0 33 0 8
-0 52 -1 1
-0 44 -1 0
-0 29 1 0
 0 20 0 1
+0 29 1 0
 0 30 -1 2
 0 31 0 3
+0 33 0 8
+0 44 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b1 lco oc1b ta1-1-lco ta3-1-oc1b
 0
 7
-0 33 1 8
-0 51 -1 1
-0 44 -1 0
-0 27 1 0
 0 2 0 1
-0 34 -1 2
+0 27 1 0
 0 31 0 3
+0 33 1 8
+0 34 -1 2
+0 44 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b1 lco oc1b ta1-1-lco ta3-2-oc1b
 0
 7
-0 33 1 8
-0 51 -1 1
-0 44 -1 0
-0 27 1 0
 0 3 0 1
-0 34 -1 2
+0 27 1 0
 0 31 0 3
+0 33 1 8
+0 34 -1 2
+0 44 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b1 lco oc1b ta1-2-lco ta3-1-oc1b
 0
 7
-0 33 1 8
-0 51 -1 1
-0 44 -1 0
-0 28 1 0
 0 2 0 1
-0 34 -1 2
+0 28 1 0
 0 31 0 3
+0 33 1 8
+0 34 -1 2
+0 44 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b1 lco oc1b ta1-2-lco ta3-2-oc1b
 0
 7
-0 33 1 8
-0 51 -1 1
-0 44 -1 0
-0 28 1 0
 0 3 0 1
-0 34 -1 2
+0 28 1 0
 0 31 0 3
+0 33 1 8
+0 34 -1 2
+0 44 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b1 lco oc1b ta1-3-lco ta3-1-oc1b
 0
 7
-0 33 1 8
-0 51 -1 1
-0 44 -1 0
-0 29 1 0
 0 2 0 1
-0 34 -1 2
+0 29 1 0
 0 31 0 3
+0 33 1 8
+0 34 -1 2
+0 44 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b1 lco oc1b ta1-3-lco ta3-2-oc1b
 0
 7
-0 33 1 8
-0 51 -1 1
-0 44 -1 0
-0 29 1 0
 0 3 0 1
-0 34 -1 2
+0 29 1 0
 0 31 0 3
+0 33 1 8
+0 34 -1 2
+0 44 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b10 lco gasoleo ta1-1-lco ta3-1-gasoleo
 0
 7
-0 33 2 8
-0 50 -1 1
-0 44 -1 0
-0 27 1 0
 0 12 0 1
 0 26 -1 2
+0 27 1 0
 0 31 0 3
+0 33 2 8
+0 44 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b10 lco gasoleo ta1-1-lco ta3-2-gasoleo
 0
 7
-0 33 2 8
-0 50 -1 1
-0 44 -1 0
-0 27 1 0
 0 13 0 1
 0 26 -1 2
+0 27 1 0
 0 31 0 3
+0 33 2 8
+0 44 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b10 lco gasoleo ta1-2-lco ta3-1-gasoleo
 0
 7
-0 33 2 8
-0 50 -1 1
-0 44 -1 0
-0 28 1 0
 0 12 0 1
 0 26 -1 2
+0 28 1 0
 0 31 0 3
+0 33 2 8
+0 44 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b10 lco gasoleo ta1-2-lco ta3-2-gasoleo
 0
 7
-0 33 2 8
-0 50 -1 1
-0 44 -1 0
-0 28 1 0
 0 13 0 1
 0 26 -1 2
+0 28 1 0
 0 31 0 3
+0 33 2 8
+0 44 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b10 lco gasoleo ta1-3-lco ta3-1-gasoleo
 0
 7
-0 33 2 8
-0 50 -1 1
-0 44 -1 0
-0 29 1 0
 0 12 0 1
 0 26 -1 2
+0 29 1 0
 0 31 0 3
+0 33 2 8
+0 44 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b10 lco gasoleo ta1-3-lco ta3-2-gasoleo
 0
 7
-0 33 2 8
-0 50 -1 1
-0 44 -1 0
-0 29 1 0
 0 13 0 1
 0 26 -1 2
+0 29 1 0
 0 31 0 3
+0 33 2 8
+0 44 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b11 lco gasoleo ta1-1-lco ta3-1-gasoleo
 0
 7
-0 33 3 8
-0 49 -1 1
-0 44 -1 0
-0 27 1 0
 0 12 0 1
-0 37 -1 2
+0 27 1 0
 0 31 0 3
+0 33 3 8
+0 37 -1 2
+0 44 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b11 lco gasoleo ta1-1-lco ta3-2-gasoleo
 0
 7
-0 33 3 8
-0 49 -1 1
-0 44 -1 0
-0 27 1 0
 0 13 0 1
-0 37 -1 2
+0 27 1 0
 0 31 0 3
+0 33 3 8
+0 37 -1 2
+0 44 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b11 lco gasoleo ta1-2-lco ta3-1-gasoleo
 0
 7
-0 33 3 8
-0 49 -1 1
-0 44 -1 0
-0 28 1 0
 0 12 0 1
-0 37 -1 2
+0 28 1 0
 0 31 0 3
+0 33 3 8
+0 37 -1 2
+0 44 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b11 lco gasoleo ta1-2-lco ta3-2-gasoleo
 0
 7
-0 33 3 8
-0 49 -1 1
-0 44 -1 0
-0 28 1 0
 0 13 0 1
-0 37 -1 2
+0 28 1 0
 0 31 0 3
+0 33 3 8
+0 37 -1 2
+0 44 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b11 lco gasoleo ta1-3-lco ta3-1-gasoleo
 0
 7
-0 33 3 8
-0 49 -1 1
-0 44 -1 0
-0 29 1 0
 0 12 0 1
-0 37 -1 2
+0 29 1 0
 0 31 0 3
+0 33 3 8
+0 37 -1 2
+0 44 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b11 lco gasoleo ta1-3-lco ta3-2-gasoleo
 0
 7
-0 33 3 8
-0 49 -1 1
-0 44 -1 0
-0 29 1 0
 0 13 0 1
-0 37 -1 2
+0 29 1 0
 0 31 0 3
+0 33 3 8
+0 37 -1 2
+0 44 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b2 lco rat-a ta1-1-lco ta3-1-rat-a
 0
 7
-0 33 4 8
-0 48 -1 1
-0 44 -1 0
-0 27 1 0
 0 6 0 1
 0 25 -1 2
+0 27 1 0
 0 31 0 3
+0 33 4 8
+0 44 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b2 lco rat-a ta1-1-lco ta3-2-rat-a
 0
 7
-0 33 4 8
-0 48 -1 1
-0 44 -1 0
-0 27 1 0
 0 7 0 1
 0 25 -1 2
+0 27 1 0
 0 31 0 3
+0 33 4 8
+0 44 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b2 lco rat-a ta1-2-lco ta3-1-rat-a
 0
 7
-0 33 4 8
-0 48 -1 1
-0 44 -1 0
-0 28 1 0
 0 6 0 1
 0 25 -1 2
+0 28 1 0
 0 31 0 3
+0 33 4 8
+0 44 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b2 lco rat-a ta1-2-lco ta3-2-rat-a
 0
 7
-0 33 4 8
-0 48 -1 1
-0 44 -1 0
-0 28 1 0
 0 7 0 1
 0 25 -1 2
+0 28 1 0
 0 31 0 3
+0 33 4 8
+0 44 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b2 lco rat-a ta1-3-lco ta3-1-rat-a
 0
 7
-0 33 4 8
-0 48 -1 1
-0 44 -1 0
-0 29 1 0
 0 6 0 1
 0 25 -1 2
+0 29 1 0
 0 31 0 3
+0 33 4 8
+0 44 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b2 lco rat-a ta1-3-lco ta3-2-rat-a
 0
 7
-0 33 4 8
-0 48 -1 1
-0 44 -1 0
-0 29 1 0
 0 7 0 1
 0 25 -1 2
+0 29 1 0
 0 31 0 3
+0 33 4 8
+0 44 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b3 lco gasoleo ta1-1-lco ta3-1-gasoleo
 0
 7
-0 33 5 8
-0 47 -1 1
-0 44 -1 0
-0 27 1 0
 0 12 0 1
-0 38 -1 2
+0 27 1 0
 0 31 0 3
+0 33 5 8
+0 38 -1 2
+0 44 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b3 lco gasoleo ta1-1-lco ta3-2-gasoleo
 0
 7
-0 33 5 8
-0 47 -1 1
-0 44 -1 0
-0 27 1 0
 0 13 0 1
-0 38 -1 2
+0 27 1 0
 0 31 0 3
+0 33 5 8
+0 38 -1 2
+0 44 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b3 lco gasoleo ta1-2-lco ta3-1-gasoleo
 0
 7
-0 33 5 8
-0 47 -1 1
-0 44 -1 0
-0 28 1 0
 0 12 0 1
-0 38 -1 2
+0 28 1 0
 0 31 0 3
+0 33 5 8
+0 38 -1 2
+0 44 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b3 lco gasoleo ta1-2-lco ta3-2-gasoleo
 0
 7
-0 33 5 8
-0 47 -1 1
-0 44 -1 0
-0 28 1 0
 0 13 0 1
-0 38 -1 2
+0 28 1 0
 0 31 0 3
+0 33 5 8
+0 38 -1 2
+0 44 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b3 lco gasoleo ta1-3-lco ta3-1-gasoleo
 0
 7
-0 33 5 8
-0 47 -1 1
-0 44 -1 0
-0 29 1 0
 0 12 0 1
-0 38 -1 2
+0 29 1 0
 0 31 0 3
+0 33 5 8
+0 38 -1 2
+0 44 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b3 lco gasoleo ta1-3-lco ta3-2-gasoleo
 0
 7
-0 33 5 8
-0 47 -1 1
-0 44 -1 0
-0 29 1 0
 0 13 0 1
-0 38 -1 2
+0 29 1 0
 0 31 0 3
+0 33 5 8
+0 38 -1 2
+0 44 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b4 lco lco ta1-1-lco ta3-1-lco
 0
 7
-0 33 6 8
-0 46 -1 1
-0 44 -1 0
-0 27 1 0
 0 17 0 1
-0 39 -1 2
+0 27 1 0
 0 31 0 3
+0 33 6 8
+0 39 -1 2
+0 44 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b4 lco lco ta1-1-lco ta3-2-lco
 0
 7
-0 33 6 8
-0 46 -1 1
-0 44 -1 0
-0 27 1 0
 0 18 0 1
-0 39 -1 2
+0 27 1 0
 0 31 0 3
+0 33 6 8
+0 39 -1 2
+0 44 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b4 lco lco ta1-1-lco ta3-3-lco
 0
 7
-0 33 6 8
-0 46 -1 1
-0 44 -1 0
-0 27 1 0
 0 20 0 1
-0 39 -1 2
+0 27 1 0
 0 31 0 3
+0 33 6 8
+0 39 -1 2
+0 44 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b4 lco lco ta1-2-lco ta3-1-lco
 0
 7
-0 33 6 8
-0 46 -1 1
-0 44 -1 0
-0 28 1 0
 0 17 0 1
-0 39 -1 2
+0 28 1 0
 0 31 0 3
+0 33 6 8
+0 39 -1 2
+0 44 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b4 lco lco ta1-2-lco ta3-2-lco
 0
 7
-0 33 6 8
-0 46 -1 1
-0 44 -1 0
-0 28 1 0
 0 18 0 1
-0 39 -1 2
+0 28 1 0
 0 31 0 3
+0 33 6 8
+0 39 -1 2
+0 44 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b4 lco lco ta1-2-lco ta3-3-lco
 0
 7
-0 33 6 8
-0 46 -1 1
-0 44 -1 0
-0 28 1 0
 0 20 0 1
-0 39 -1 2
+0 28 1 0
 0 31 0 3
+0 33 6 8
+0 39 -1 2
+0 44 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b4 lco lco ta1-3-lco ta3-1-lco
 0
 7
-0 33 6 8
-0 46 -1 1
-0 44 -1 0
-0 29 1 0
 0 17 0 1
-0 39 -1 2
+0 29 1 0
 0 31 0 3
+0 33 6 8
+0 39 -1 2
+0 44 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b4 lco lco ta1-3-lco ta3-2-lco
 0
 7
-0 33 6 8
-0 46 -1 1
-0 44 -1 0
-0 29 1 0
 0 18 0 1
-0 39 -1 2
+0 29 1 0
 0 31 0 3
+0 33 6 8
+0 39 -1 2
+0 44 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b4 lco lco ta1-3-lco ta3-3-lco
 0
 7
-0 33 6 8
-0 46 -1 1
-0 44 -1 0
-0 29 1 0
 0 20 0 1
-0 39 -1 2
+0 29 1 0
 0 31 0 3
+0 33 6 8
+0 39 -1 2
+0 44 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b5 lco rat-a ta1-1-lco ta3-1-rat-a
 0
 7
-0 33 7 8
-0 45 -1 1
-0 44 -1 0
-0 27 1 0
 0 6 0 1
-0 35 -1 2
+0 27 1 0
 0 31 0 3
+0 33 7 8
+0 35 -1 2
+0 44 -1 0
+0 45 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b5 lco rat-a ta1-1-lco ta3-2-rat-a
 0
 7
-0 33 7 8
-0 45 -1 1
-0 44 -1 0
-0 27 1 0
 0 7 0 1
-0 35 -1 2
+0 27 1 0
 0 31 0 3
+0 33 7 8
+0 35 -1 2
+0 44 -1 0
+0 45 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b5 lco rat-a ta1-2-lco ta3-1-rat-a
 0
 7
-0 33 7 8
-0 45 -1 1
-0 44 -1 0
-0 28 1 0
 0 6 0 1
-0 35 -1 2
+0 28 1 0
 0 31 0 3
+0 33 7 8
+0 35 -1 2
+0 44 -1 0
+0 45 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b5 lco rat-a ta1-2-lco ta3-2-rat-a
 0
 7
-0 33 7 8
-0 45 -1 1
-0 44 -1 0
-0 28 1 0
 0 7 0 1
-0 35 -1 2
+0 28 1 0
 0 31 0 3
+0 33 7 8
+0 35 -1 2
+0 44 -1 0
+0 45 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b5 lco rat-a ta1-3-lco ta3-1-rat-a
 0
 7
-0 33 7 8
-0 45 -1 1
-0 44 -1 0
-0 29 1 0
 0 6 0 1
-0 35 -1 2
+0 29 1 0
 0 31 0 3
+0 33 7 8
+0 35 -1 2
+0 44 -1 0
+0 45 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b5 lco rat-a ta1-3-lco ta3-2-rat-a
 0
 7
-0 33 7 8
-0 45 -1 1
-0 44 -1 0
-0 29 1 0
 0 7 0 1
-0 35 -1 2
+0 29 1 0
 0 31 0 3
+0 33 7 8
+0 35 -1 2
+0 44 -1 0
+0 45 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b7 lco rat-a ta1-1-lco ta3-1-rat-a
 0
 7
-0 33 9 8
-0 44 -1 0
-0 43 -1 1
-0 27 1 0
 0 6 0 1
+0 27 1 0
 0 31 0 3
+0 33 9 8
 0 36 -1 2
+0 43 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b7 lco rat-a ta1-1-lco ta3-2-rat-a
 0
 7
-0 33 9 8
-0 44 -1 0
-0 43 -1 1
-0 27 1 0
 0 7 0 1
+0 27 1 0
 0 31 0 3
+0 33 9 8
 0 36 -1 2
+0 43 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b7 lco rat-a ta1-2-lco ta3-1-rat-a
 0
 7
-0 33 9 8
-0 44 -1 0
-0 43 -1 1
-0 28 1 0
 0 6 0 1
+0 28 1 0
 0 31 0 3
+0 33 9 8
 0 36 -1 2
+0 43 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b7 lco rat-a ta1-2-lco ta3-2-rat-a
 0
 7
-0 33 9 8
-0 44 -1 0
-0 43 -1 1
-0 28 1 0
 0 7 0 1
+0 28 1 0
 0 31 0 3
+0 33 9 8
 0 36 -1 2
+0 43 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b7 lco rat-a ta1-3-lco ta3-1-rat-a
 0
 7
-0 33 9 8
-0 44 -1 0
-0 43 -1 1
-0 29 1 0
 0 6 0 1
+0 29 1 0
 0 31 0 3
+0 33 9 8
 0 36 -1 2
+0 43 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b7 lco rat-a ta1-3-lco ta3-2-rat-a
 0
 7
-0 33 9 8
-0 44 -1 0
-0 43 -1 1
-0 29 1 0
 0 7 0 1
+0 29 1 0
 0 31 0 3
+0 33 9 8
 0 36 -1 2
+0 43 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b8 lco oc1b ta1-1-lco ta3-1-oc1b
 0
 7
-0 33 10 8
-0 44 -1 0
-0 42 -1 1
-0 27 1 0
 0 2 0 1
-0 31 0 3
 0 23 -1 2
+0 27 1 0
+0 31 0 3
+0 33 10 8
+0 42 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b8 lco oc1b ta1-1-lco ta3-2-oc1b
 0
 7
-0 33 10 8
-0 44 -1 0
-0 42 -1 1
-0 27 1 0
 0 3 0 1
-0 31 0 3
 0 23 -1 2
+0 27 1 0
+0 31 0 3
+0 33 10 8
+0 42 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b8 lco oc1b ta1-2-lco ta3-1-oc1b
 0
 7
-0 33 10 8
-0 44 -1 0
-0 42 -1 1
-0 28 1 0
 0 2 0 1
-0 31 0 3
 0 23 -1 2
+0 28 1 0
+0 31 0 3
+0 33 10 8
+0 42 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b8 lco oc1b ta1-2-lco ta3-2-oc1b
 0
 7
-0 33 10 8
-0 44 -1 0
-0 42 -1 1
-0 28 1 0
 0 3 0 1
-0 31 0 3
 0 23 -1 2
+0 28 1 0
+0 31 0 3
+0 33 10 8
+0 42 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b8 lco oc1b ta1-3-lco ta3-1-oc1b
 0
 7
-0 33 10 8
-0 44 -1 0
-0 42 -1 1
-0 29 1 0
 0 2 0 1
-0 31 0 3
 0 23 -1 2
+0 29 1 0
+0 31 0 3
+0 33 10 8
+0 42 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b8 lco oc1b ta1-3-lco ta3-2-oc1b
 0
 7
-0 33 10 8
-0 44 -1 0
-0 42 -1 1
-0 29 1 0
 0 3 0 1
-0 31 0 3
 0 23 -1 2
+0 29 1 0
+0 31 0 3
+0 33 10 8
+0 42 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b9 lco lco ta1-1-lco ta3-1-lco
 0
 7
-0 33 11 8
-0 44 -1 0
-0 41 -1 1
-0 27 1 0
 0 17 0 1
+0 27 1 0
 0 31 0 3
+0 33 11 8
 0 40 -1 2
+0 41 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b9 lco lco ta1-1-lco ta3-2-lco
 0
 7
-0 33 11 8
-0 44 -1 0
-0 41 -1 1
-0 27 1 0
 0 18 0 1
+0 27 1 0
 0 31 0 3
+0 33 11 8
 0 40 -1 2
+0 41 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b9 lco lco ta1-1-lco ta3-3-lco
 0
 7
-0 33 11 8
-0 44 -1 0
-0 41 -1 1
-0 27 1 0
 0 20 0 1
+0 27 1 0
 0 31 0 3
+0 33 11 8
 0 40 -1 2
+0 41 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b9 lco lco ta1-2-lco ta3-1-lco
 0
 7
-0 33 11 8
-0 44 -1 0
-0 41 -1 1
-0 28 1 0
 0 17 0 1
+0 28 1 0
 0 31 0 3
+0 33 11 8
 0 40 -1 2
+0 41 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b9 lco lco ta1-2-lco ta3-2-lco
 0
 7
-0 33 11 8
-0 44 -1 0
-0 41 -1 1
-0 28 1 0
 0 18 0 1
+0 28 1 0
 0 31 0 3
+0 33 11 8
 0 40 -1 2
+0 41 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b9 lco lco ta1-2-lco ta3-3-lco
 0
 7
-0 33 11 8
-0 44 -1 0
-0 41 -1 1
-0 28 1 0
 0 20 0 1
+0 28 1 0
 0 31 0 3
+0 33 11 8
 0 40 -1 2
+0 41 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b9 lco lco ta1-3-lco ta3-1-lco
 0
 7
-0 33 11 8
-0 44 -1 0
-0 41 -1 1
-0 29 1 0
 0 17 0 1
+0 29 1 0
 0 31 0 3
+0 33 11 8
 0 40 -1 2
+0 41 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b9 lco lco ta1-3-lco ta3-2-lco
 0
 7
-0 33 11 8
-0 44 -1 0
-0 41 -1 1
-0 29 1 0
 0 18 0 1
+0 29 1 0
 0 31 0 3
+0 33 11 8
 0 40 -1 2
+0 41 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b6 a1 a3 b9 lco lco ta1-3-lco ta3-3-lco
 0
 7
-0 33 11 8
-0 44 -1 0
-0 41 -1 1
-0 29 1 0
 0 20 0 1
+0 29 1 0
 0 31 0 3
+0 33 11 8
 0 40 -1 2
+0 41 -1 1
+0 44 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b0 rat-a lco ta1-1-rat-a ta3-1-lco
 0
 7
-0 33 0 9
-0 52 -1 1
-0 43 -1 0
-0 19 1 0
 0 17 0 1
+0 19 1 0
 0 30 -1 2
+0 33 0 9
 0 36 0 3
+0 43 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b0 rat-a lco ta1-1-rat-a ta3-2-lco
 0
 7
-0 33 0 9
-0 52 -1 1
-0 43 -1 0
-0 19 1 0
 0 18 0 1
+0 19 1 0
 0 30 -1 2
+0 33 0 9
 0 36 0 3
+0 43 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b0 rat-a lco ta1-1-rat-a ta3-3-lco
 0
 7
-0 33 0 9
-0 52 -1 1
-0 43 -1 0
 0 19 1 0
 0 20 0 1
 0 30 -1 2
+0 33 0 9
 0 36 0 3
+0 43 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b0 rat-a lco ta1-2-rat-a ta3-1-lco
 0
 7
-0 33 0 9
-0 52 -1 1
-0 43 -1 0
-0 21 1 0
 0 17 0 1
+0 21 1 0
 0 30 -1 2
+0 33 0 9
 0 36 0 3
+0 43 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b0 rat-a lco ta1-2-rat-a ta3-2-lco
 0
 7
-0 33 0 9
-0 52 -1 1
-0 43 -1 0
-0 21 1 0
 0 18 0 1
+0 21 1 0
 0 30 -1 2
+0 33 0 9
 0 36 0 3
+0 43 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b0 rat-a lco ta1-2-rat-a ta3-3-lco
 0
 7
-0 33 0 9
-0 52 -1 1
-0 43 -1 0
-0 21 1 0
 0 20 0 1
+0 21 1 0
 0 30 -1 2
+0 33 0 9
 0 36 0 3
+0 43 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b10 rat-a gasoleo ta1-1-rat-a ta3-1-gasoleo
 0
 7
-0 33 2 9
-0 50 -1 1
-0 43 -1 0
-0 19 1 0
 0 12 0 1
+0 19 1 0
 0 26 -1 2
+0 33 2 9
 0 36 0 3
+0 43 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b10 rat-a gasoleo ta1-1-rat-a ta3-2-gasoleo
 0
 7
-0 33 2 9
-0 50 -1 1
-0 43 -1 0
-0 19 1 0
 0 13 0 1
+0 19 1 0
 0 26 -1 2
+0 33 2 9
 0 36 0 3
+0 43 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b10 rat-a gasoleo ta1-2-rat-a ta3-1-gasoleo
 0
 7
-0 33 2 9
-0 50 -1 1
-0 43 -1 0
-0 21 1 0
 0 12 0 1
+0 21 1 0
 0 26 -1 2
+0 33 2 9
 0 36 0 3
+0 43 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b10 rat-a gasoleo ta1-2-rat-a ta3-2-gasoleo
 0
 7
-0 33 2 9
-0 50 -1 1
-0 43 -1 0
-0 21 1 0
 0 13 0 1
+0 21 1 0
 0 26 -1 2
+0 33 2 9
 0 36 0 3
+0 43 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b11 rat-a gasoleo ta1-1-rat-a ta3-1-gasoleo
 0
 7
-0 33 3 9
-0 49 -1 1
-0 43 -1 0
-0 19 1 0
 0 12 0 1
-0 37 -1 2
+0 19 1 0
+0 33 3 9
 0 36 0 3
+0 37 -1 2
+0 43 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b11 rat-a gasoleo ta1-1-rat-a ta3-2-gasoleo
 0
 7
-0 33 3 9
-0 49 -1 1
-0 43 -1 0
-0 19 1 0
 0 13 0 1
-0 37 -1 2
+0 19 1 0
+0 33 3 9
 0 36 0 3
+0 37 -1 2
+0 43 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b11 rat-a gasoleo ta1-2-rat-a ta3-1-gasoleo
 0
 7
-0 33 3 9
-0 49 -1 1
-0 43 -1 0
-0 21 1 0
 0 12 0 1
-0 37 -1 2
+0 21 1 0
+0 33 3 9
 0 36 0 3
+0 37 -1 2
+0 43 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b11 rat-a gasoleo ta1-2-rat-a ta3-2-gasoleo
 0
 7
-0 33 3 9
-0 49 -1 1
-0 43 -1 0
-0 21 1 0
 0 13 0 1
-0 37 -1 2
+0 21 1 0
+0 33 3 9
 0 36 0 3
+0 37 -1 2
+0 43 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b2 rat-a rat-a ta1-1-rat-a ta3-1-rat-a
 0
 7
-0 33 4 9
-0 48 -1 1
-0 43 -1 0
-0 19 1 0
 0 6 0 1
+0 19 1 0
 0 25 -1 2
+0 33 4 9
 0 36 0 3
+0 43 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b2 rat-a rat-a ta1-1-rat-a ta3-2-rat-a
 0
 7
-0 33 4 9
-0 48 -1 1
-0 43 -1 0
-0 19 1 0
 0 7 0 1
+0 19 1 0
 0 25 -1 2
+0 33 4 9
 0 36 0 3
+0 43 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b2 rat-a rat-a ta1-2-rat-a ta3-1-rat-a
 0
 7
-0 33 4 9
-0 48 -1 1
-0 43 -1 0
-0 21 1 0
 0 6 0 1
+0 21 1 0
 0 25 -1 2
+0 33 4 9
 0 36 0 3
+0 43 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b2 rat-a rat-a ta1-2-rat-a ta3-2-rat-a
 0
 7
-0 33 4 9
-0 48 -1 1
-0 43 -1 0
-0 21 1 0
 0 7 0 1
+0 21 1 0
 0 25 -1 2
+0 33 4 9
 0 36 0 3
+0 43 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b3 rat-a gasoleo ta1-1-rat-a ta3-1-gasoleo
 0
 7
-0 33 5 9
-0 47 -1 1
-0 43 -1 0
-0 19 1 0
 0 12 0 1
-0 38 -1 2
+0 19 1 0
+0 33 5 9
 0 36 0 3
+0 38 -1 2
+0 43 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b3 rat-a gasoleo ta1-1-rat-a ta3-2-gasoleo
 0
 7
-0 33 5 9
-0 47 -1 1
-0 43 -1 0
-0 19 1 0
 0 13 0 1
-0 38 -1 2
+0 19 1 0
+0 33 5 9
 0 36 0 3
+0 38 -1 2
+0 43 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b3 rat-a gasoleo ta1-2-rat-a ta3-1-gasoleo
 0
 7
-0 33 5 9
-0 47 -1 1
-0 43 -1 0
-0 21 1 0
 0 12 0 1
-0 38 -1 2
+0 21 1 0
+0 33 5 9
 0 36 0 3
+0 38 -1 2
+0 43 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b3 rat-a gasoleo ta1-2-rat-a ta3-2-gasoleo
 0
 7
-0 33 5 9
-0 47 -1 1
-0 43 -1 0
-0 21 1 0
 0 13 0 1
-0 38 -1 2
+0 21 1 0
+0 33 5 9
 0 36 0 3
+0 38 -1 2
+0 43 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b4 rat-a lco ta1-1-rat-a ta3-1-lco
 0
 7
-0 33 6 9
-0 46 -1 1
-0 43 -1 0
-0 19 1 0
 0 17 0 1
-0 39 -1 2
+0 19 1 0
+0 33 6 9
 0 36 0 3
+0 39 -1 2
+0 43 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b4 rat-a lco ta1-1-rat-a ta3-2-lco
 0
 7
-0 33 6 9
-0 46 -1 1
-0 43 -1 0
-0 19 1 0
 0 18 0 1
-0 39 -1 2
+0 19 1 0
+0 33 6 9
 0 36 0 3
+0 39 -1 2
+0 43 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b4 rat-a lco ta1-1-rat-a ta3-3-lco
 0
 7
-0 33 6 9
-0 46 -1 1
-0 43 -1 0
 0 19 1 0
 0 20 0 1
-0 39 -1 2
+0 33 6 9
 0 36 0 3
+0 39 -1 2
+0 43 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b4 rat-a lco ta1-2-rat-a ta3-1-lco
 0
 7
-0 33 6 9
-0 46 -1 1
-0 43 -1 0
-0 21 1 0
 0 17 0 1
-0 39 -1 2
+0 21 1 0
+0 33 6 9
 0 36 0 3
+0 39 -1 2
+0 43 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b4 rat-a lco ta1-2-rat-a ta3-2-lco
 0
 7
-0 33 6 9
-0 46 -1 1
-0 43 -1 0
-0 21 1 0
 0 18 0 1
-0 39 -1 2
+0 21 1 0
+0 33 6 9
 0 36 0 3
+0 39 -1 2
+0 43 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b4 rat-a lco ta1-2-rat-a ta3-3-lco
 0
 7
-0 33 6 9
-0 46 -1 1
-0 43 -1 0
-0 21 1 0
 0 20 0 1
-0 39 -1 2
+0 21 1 0
+0 33 6 9
 0 36 0 3
+0 39 -1 2
+0 43 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b5 rat-a rat-a ta1-1-rat-a ta3-1-rat-a
 0
 7
-0 33 7 9
-0 45 -1 1
-0 43 -1 0
-0 19 1 0
 0 6 0 1
+0 19 1 0
+0 33 7 9
 0 35 -1 2
 0 36 0 3
+0 43 -1 0
+0 45 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b5 rat-a rat-a ta1-1-rat-a ta3-2-rat-a
 0
 7
-0 33 7 9
-0 45 -1 1
-0 43 -1 0
-0 19 1 0
 0 7 0 1
+0 19 1 0
+0 33 7 9
 0 35 -1 2
 0 36 0 3
+0 43 -1 0
+0 45 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b5 rat-a rat-a ta1-2-rat-a ta3-1-rat-a
 0
 7
-0 33 7 9
-0 45 -1 1
-0 43 -1 0
-0 21 1 0
 0 6 0 1
+0 21 1 0
+0 33 7 9
 0 35 -1 2
 0 36 0 3
+0 43 -1 0
+0 45 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b5 rat-a rat-a ta1-2-rat-a ta3-2-rat-a
 0
 7
-0 33 7 9
-0 45 -1 1
-0 43 -1 0
-0 21 1 0
 0 7 0 1
+0 21 1 0
+0 33 7 9
 0 35 -1 2
 0 36 0 3
+0 43 -1 0
+0 45 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b6 rat-a lco ta1-1-rat-a ta3-1-lco
 0
 7
-0 33 8 9
-0 44 -1 1
-0 43 -1 0
-0 19 1 0
 0 17 0 1
+0 19 1 0
 0 31 -1 2
+0 33 8 9
 0 36 0 3
+0 43 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b6 rat-a lco ta1-1-rat-a ta3-2-lco
 0
 7
-0 33 8 9
-0 44 -1 1
-0 43 -1 0
-0 19 1 0
 0 18 0 1
+0 19 1 0
 0 31 -1 2
+0 33 8 9
 0 36 0 3
+0 43 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b6 rat-a lco ta1-1-rat-a ta3-3-lco
 0
 7
-0 33 8 9
-0 44 -1 1
-0 43 -1 0
 0 19 1 0
 0 20 0 1
 0 31 -1 2
+0 33 8 9
 0 36 0 3
+0 43 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b6 rat-a lco ta1-2-rat-a ta3-1-lco
 0
 7
-0 33 8 9
-0 44 -1 1
-0 43 -1 0
-0 21 1 0
 0 17 0 1
+0 21 1 0
 0 31 -1 2
+0 33 8 9
 0 36 0 3
+0 43 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b6 rat-a lco ta1-2-rat-a ta3-2-lco
 0
 7
-0 33 8 9
-0 44 -1 1
-0 43 -1 0
-0 21 1 0
 0 18 0 1
+0 21 1 0
 0 31 -1 2
+0 33 8 9
 0 36 0 3
+0 43 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b6 rat-a lco ta1-2-rat-a ta3-3-lco
 0
 7
-0 33 8 9
-0 44 -1 1
-0 43 -1 0
-0 21 1 0
 0 20 0 1
+0 21 1 0
 0 31 -1 2
+0 33 8 9
 0 36 0 3
+0 43 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b9 rat-a lco ta1-1-rat-a ta3-1-lco
 0
 7
-0 33 11 9
-0 43 -1 0
-0 41 -1 1
-0 19 1 0
 0 17 0 1
+0 19 1 0
+0 33 11 9
 0 36 0 3
 0 40 -1 2
+0 41 -1 1
+0 43 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b9 rat-a lco ta1-1-rat-a ta3-2-lco
 0
 7
-0 33 11 9
-0 43 -1 0
-0 41 -1 1
-0 19 1 0
 0 18 0 1
+0 19 1 0
+0 33 11 9
 0 36 0 3
 0 40 -1 2
+0 41 -1 1
+0 43 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b9 rat-a lco ta1-1-rat-a ta3-3-lco
 0
 7
-0 33 11 9
-0 43 -1 0
-0 41 -1 1
 0 19 1 0
 0 20 0 1
+0 33 11 9
 0 36 0 3
 0 40 -1 2
+0 41 -1 1
+0 43 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b9 rat-a lco ta1-2-rat-a ta3-1-lco
 0
 7
-0 33 11 9
-0 43 -1 0
-0 41 -1 1
-0 21 1 0
 0 17 0 1
+0 21 1 0
+0 33 11 9
 0 36 0 3
 0 40 -1 2
+0 41 -1 1
+0 43 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b9 rat-a lco ta1-2-rat-a ta3-2-lco
 0
 7
-0 33 11 9
-0 43 -1 0
-0 41 -1 1
-0 21 1 0
 0 18 0 1
+0 21 1 0
+0 33 11 9
 0 36 0 3
 0 40 -1 2
+0 41 -1 1
+0 43 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b7 a1 a3 b9 rat-a lco ta1-2-rat-a ta3-3-lco
 0
 7
-0 33 11 9
-0 43 -1 0
-0 41 -1 1
-0 21 1 0
 0 20 0 1
+0 21 1 0
+0 33 11 9
 0 36 0 3
 0 40 -1 2
+0 41 -1 1
+0 43 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b0 oc1b lco ta1-1-oc1b ta3-1-lco
 0
 7
-0 33 0 10
-0 52 -1 1
-0 42 -1 0
 0 8 1 0
 0 17 0 1
-0 30 -1 2
 0 23 0 3
+0 30 -1 2
+0 33 0 10
+0 42 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b0 oc1b lco ta1-1-oc1b ta3-2-lco
 0
 7
-0 33 0 10
-0 52 -1 1
-0 42 -1 0
 0 8 1 0
 0 18 0 1
-0 30 -1 2
 0 23 0 3
+0 30 -1 2
+0 33 0 10
+0 42 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b0 oc1b lco ta1-1-oc1b ta3-3-lco
 0
 7
-0 33 0 10
-0 52 -1 1
-0 42 -1 0
 0 8 1 0
 0 20 0 1
-0 30 -1 2
 0 23 0 3
+0 30 -1 2
+0 33 0 10
+0 42 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b0 oc1b lco ta1-2-oc1b ta3-1-lco
 0
 7
-0 33 0 10
-0 52 -1 1
-0 42 -1 0
 0 10 1 0
 0 17 0 1
-0 30 -1 2
 0 23 0 3
+0 30 -1 2
+0 33 0 10
+0 42 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b0 oc1b lco ta1-2-oc1b ta3-2-lco
 0
 7
-0 33 0 10
-0 52 -1 1
-0 42 -1 0
 0 10 1 0
 0 18 0 1
-0 30 -1 2
 0 23 0 3
+0 30 -1 2
+0 33 0 10
+0 42 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b0 oc1b lco ta1-2-oc1b ta3-3-lco
 0
 7
-0 33 0 10
-0 52 -1 1
-0 42 -1 0
 0 10 1 0
 0 20 0 1
-0 30 -1 2
 0 23 0 3
+0 30 -1 2
+0 33 0 10
+0 42 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b1 oc1b oc1b ta1-1-oc1b ta3-1-oc1b
 0
 7
-0 33 1 10
-0 51 -1 1
-0 42 -1 0
-0 8 1 0
 0 2 0 1
-0 34 -1 2
+0 8 1 0
 0 23 0 3
+0 33 1 10
+0 34 -1 2
+0 42 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b1 oc1b oc1b ta1-1-oc1b ta3-2-oc1b
 0
 7
-0 33 1 10
-0 51 -1 1
-0 42 -1 0
-0 8 1 0
 0 3 0 1
-0 34 -1 2
+0 8 1 0
 0 23 0 3
+0 33 1 10
+0 34 -1 2
+0 42 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b1 oc1b oc1b ta1-2-oc1b ta3-1-oc1b
 0
 7
-0 33 1 10
-0 51 -1 1
-0 42 -1 0
-0 10 1 0
 0 2 0 1
-0 34 -1 2
+0 10 1 0
 0 23 0 3
+0 33 1 10
+0 34 -1 2
+0 42 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b1 oc1b oc1b ta1-2-oc1b ta3-2-oc1b
 0
 7
-0 33 1 10
-0 51 -1 1
-0 42 -1 0
-0 10 1 0
 0 3 0 1
-0 34 -1 2
+0 10 1 0
 0 23 0 3
+0 33 1 10
+0 34 -1 2
+0 42 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b10 oc1b gasoleo ta1-1-oc1b ta3-1-gasoleo
 0
 7
-0 33 2 10
-0 50 -1 1
-0 42 -1 0
 0 8 1 0
 0 12 0 1
-0 26 -1 2
 0 23 0 3
+0 26 -1 2
+0 33 2 10
+0 42 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b10 oc1b gasoleo ta1-1-oc1b ta3-2-gasoleo
 0
 7
-0 33 2 10
-0 50 -1 1
-0 42 -1 0
 0 8 1 0
 0 13 0 1
-0 26 -1 2
 0 23 0 3
+0 26 -1 2
+0 33 2 10
+0 42 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b10 oc1b gasoleo ta1-2-oc1b ta3-1-gasoleo
 0
 7
-0 33 2 10
-0 50 -1 1
-0 42 -1 0
 0 10 1 0
 0 12 0 1
-0 26 -1 2
 0 23 0 3
+0 26 -1 2
+0 33 2 10
+0 42 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b10 oc1b gasoleo ta1-2-oc1b ta3-2-gasoleo
 0
 7
-0 33 2 10
-0 50 -1 1
-0 42 -1 0
 0 10 1 0
 0 13 0 1
-0 26 -1 2
 0 23 0 3
+0 26 -1 2
+0 33 2 10
+0 42 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b11 oc1b gasoleo ta1-1-oc1b ta3-1-gasoleo
 0
 7
-0 33 3 10
-0 49 -1 1
-0 42 -1 0
 0 8 1 0
 0 12 0 1
-0 37 -1 2
 0 23 0 3
+0 33 3 10
+0 37 -1 2
+0 42 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b11 oc1b gasoleo ta1-1-oc1b ta3-2-gasoleo
 0
 7
-0 33 3 10
-0 49 -1 1
-0 42 -1 0
 0 8 1 0
 0 13 0 1
-0 37 -1 2
 0 23 0 3
+0 33 3 10
+0 37 -1 2
+0 42 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b11 oc1b gasoleo ta1-2-oc1b ta3-1-gasoleo
 0
 7
-0 33 3 10
-0 49 -1 1
-0 42 -1 0
 0 10 1 0
 0 12 0 1
-0 37 -1 2
 0 23 0 3
+0 33 3 10
+0 37 -1 2
+0 42 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b11 oc1b gasoleo ta1-2-oc1b ta3-2-gasoleo
 0
 7
-0 33 3 10
-0 49 -1 1
-0 42 -1 0
 0 10 1 0
 0 13 0 1
-0 37 -1 2
 0 23 0 3
+0 33 3 10
+0 37 -1 2
+0 42 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b3 oc1b gasoleo ta1-1-oc1b ta3-1-gasoleo
 0
 7
-0 33 5 10
-0 47 -1 1
-0 42 -1 0
 0 8 1 0
 0 12 0 1
-0 38 -1 2
 0 23 0 3
+0 33 5 10
+0 38 -1 2
+0 42 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b3 oc1b gasoleo ta1-1-oc1b ta3-2-gasoleo
 0
 7
-0 33 5 10
-0 47 -1 1
-0 42 -1 0
 0 8 1 0
 0 13 0 1
-0 38 -1 2
 0 23 0 3
+0 33 5 10
+0 38 -1 2
+0 42 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b3 oc1b gasoleo ta1-2-oc1b ta3-1-gasoleo
 0
 7
-0 33 5 10
-0 47 -1 1
-0 42 -1 0
 0 10 1 0
 0 12 0 1
-0 38 -1 2
 0 23 0 3
+0 33 5 10
+0 38 -1 2
+0 42 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b3 oc1b gasoleo ta1-2-oc1b ta3-2-gasoleo
 0
 7
-0 33 5 10
-0 47 -1 1
-0 42 -1 0
 0 10 1 0
 0 13 0 1
-0 38 -1 2
 0 23 0 3
+0 33 5 10
+0 38 -1 2
+0 42 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b4 oc1b lco ta1-1-oc1b ta3-1-lco
 0
 7
-0 33 6 10
-0 46 -1 1
-0 42 -1 0
 0 8 1 0
 0 17 0 1
-0 39 -1 2
 0 23 0 3
+0 33 6 10
+0 39 -1 2
+0 42 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b4 oc1b lco ta1-1-oc1b ta3-2-lco
 0
 7
-0 33 6 10
-0 46 -1 1
-0 42 -1 0
 0 8 1 0
 0 18 0 1
-0 39 -1 2
 0 23 0 3
+0 33 6 10
+0 39 -1 2
+0 42 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b4 oc1b lco ta1-1-oc1b ta3-3-lco
 0
 7
-0 33 6 10
-0 46 -1 1
-0 42 -1 0
 0 8 1 0
 0 20 0 1
-0 39 -1 2
 0 23 0 3
+0 33 6 10
+0 39 -1 2
+0 42 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b4 oc1b lco ta1-2-oc1b ta3-1-lco
 0
 7
-0 33 6 10
-0 46 -1 1
-0 42 -1 0
 0 10 1 0
 0 17 0 1
-0 39 -1 2
 0 23 0 3
+0 33 6 10
+0 39 -1 2
+0 42 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b4 oc1b lco ta1-2-oc1b ta3-2-lco
 0
 7
-0 33 6 10
-0 46 -1 1
-0 42 -1 0
 0 10 1 0
 0 18 0 1
-0 39 -1 2
 0 23 0 3
+0 33 6 10
+0 39 -1 2
+0 42 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b4 oc1b lco ta1-2-oc1b ta3-3-lco
 0
 7
-0 33 6 10
-0 46 -1 1
-0 42 -1 0
 0 10 1 0
 0 20 0 1
-0 39 -1 2
 0 23 0 3
+0 33 6 10
+0 39 -1 2
+0 42 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b6 oc1b lco ta1-1-oc1b ta3-1-lco
 0
 7
-0 33 8 10
-0 44 -1 1
-0 42 -1 0
 0 8 1 0
 0 17 0 1
-0 31 -1 2
 0 23 0 3
+0 31 -1 2
+0 33 8 10
+0 42 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b6 oc1b lco ta1-1-oc1b ta3-2-lco
 0
 7
-0 33 8 10
-0 44 -1 1
-0 42 -1 0
 0 8 1 0
 0 18 0 1
-0 31 -1 2
 0 23 0 3
+0 31 -1 2
+0 33 8 10
+0 42 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b6 oc1b lco ta1-1-oc1b ta3-3-lco
 0
 7
-0 33 8 10
-0 44 -1 1
-0 42 -1 0
 0 8 1 0
 0 20 0 1
-0 31 -1 2
 0 23 0 3
+0 31 -1 2
+0 33 8 10
+0 42 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b6 oc1b lco ta1-2-oc1b ta3-1-lco
 0
 7
-0 33 8 10
-0 44 -1 1
-0 42 -1 0
 0 10 1 0
 0 17 0 1
-0 31 -1 2
 0 23 0 3
+0 31 -1 2
+0 33 8 10
+0 42 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b6 oc1b lco ta1-2-oc1b ta3-2-lco
 0
 7
-0 33 8 10
-0 44 -1 1
-0 42 -1 0
 0 10 1 0
 0 18 0 1
-0 31 -1 2
 0 23 0 3
+0 31 -1 2
+0 33 8 10
+0 42 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b6 oc1b lco ta1-2-oc1b ta3-3-lco
 0
 7
-0 33 8 10
-0 44 -1 1
-0 42 -1 0
 0 10 1 0
 0 20 0 1
-0 31 -1 2
 0 23 0 3
+0 31 -1 2
+0 33 8 10
+0 42 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b9 oc1b lco ta1-1-oc1b ta3-1-lco
 0
 7
-0 33 11 10
-0 42 -1 0
-0 41 -1 1
 0 8 1 0
 0 17 0 1
 0 23 0 3
+0 33 11 10
 0 40 -1 2
+0 41 -1 1
+0 42 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b9 oc1b lco ta1-1-oc1b ta3-2-lco
 0
 7
-0 33 11 10
-0 42 -1 0
-0 41 -1 1
 0 8 1 0
 0 18 0 1
 0 23 0 3
+0 33 11 10
 0 40 -1 2
+0 41 -1 1
+0 42 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b9 oc1b lco ta1-1-oc1b ta3-3-lco
 0
 7
-0 33 11 10
-0 42 -1 0
-0 41 -1 1
 0 8 1 0
 0 20 0 1
 0 23 0 3
+0 33 11 10
 0 40 -1 2
+0 41 -1 1
+0 42 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b9 oc1b lco ta1-2-oc1b ta3-1-lco
 0
 7
-0 33 11 10
-0 42 -1 0
-0 41 -1 1
 0 10 1 0
 0 17 0 1
 0 23 0 3
+0 33 11 10
 0 40 -1 2
+0 41 -1 1
+0 42 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b9 oc1b lco ta1-2-oc1b ta3-2-lco
 0
 7
-0 33 11 10
-0 42 -1 0
-0 41 -1 1
 0 10 1 0
 0 18 0 1
 0 23 0 3
+0 33 11 10
 0 40 -1 2
+0 41 -1 1
+0 42 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b8 a1 a3 b9 oc1b lco ta1-2-oc1b ta3-3-lco
 0
 7
-0 33 11 10
-0 42 -1 0
-0 41 -1 1
 0 10 1 0
 0 20 0 1
 0 23 0 3
+0 33 11 10
 0 40 -1 2
+0 41 -1 1
+0 42 -1 0
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b0 lco lco ta1-1-lco ta3-1-lco
 0
 7
-0 33 0 11
-0 52 -1 1
-0 41 -1 0
-0 27 1 0
 0 17 0 1
+0 27 1 0
 0 30 -1 2
+0 33 0 11
 0 40 0 3
+0 41 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b0 lco lco ta1-1-lco ta3-2-lco
 0
 7
-0 33 0 11
-0 52 -1 1
-0 41 -1 0
-0 27 1 0
 0 18 0 1
+0 27 1 0
 0 30 -1 2
+0 33 0 11
 0 40 0 3
+0 41 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b0 lco lco ta1-1-lco ta3-3-lco
 0
 7
-0 33 0 11
-0 52 -1 1
-0 41 -1 0
-0 27 1 0
 0 20 0 1
+0 27 1 0
 0 30 -1 2
+0 33 0 11
 0 40 0 3
+0 41 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b0 lco lco ta1-2-lco ta3-1-lco
 0
 7
-0 33 0 11
-0 52 -1 1
-0 41 -1 0
-0 28 1 0
 0 17 0 1
+0 28 1 0
 0 30 -1 2
+0 33 0 11
 0 40 0 3
+0 41 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b0 lco lco ta1-2-lco ta3-2-lco
 0
 7
-0 33 0 11
-0 52 -1 1
-0 41 -1 0
-0 28 1 0
 0 18 0 1
+0 28 1 0
 0 30 -1 2
+0 33 0 11
 0 40 0 3
+0 41 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b0 lco lco ta1-2-lco ta3-3-lco
 0
 7
-0 33 0 11
-0 52 -1 1
-0 41 -1 0
-0 28 1 0
 0 20 0 1
+0 28 1 0
 0 30 -1 2
+0 33 0 11
 0 40 0 3
+0 41 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b0 lco lco ta1-3-lco ta3-1-lco
 0
 7
-0 33 0 11
-0 52 -1 1
-0 41 -1 0
-0 29 1 0
 0 17 0 1
+0 29 1 0
 0 30 -1 2
+0 33 0 11
 0 40 0 3
+0 41 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b0 lco lco ta1-3-lco ta3-2-lco
 0
 7
-0 33 0 11
-0 52 -1 1
-0 41 -1 0
-0 29 1 0
 0 18 0 1
+0 29 1 0
 0 30 -1 2
+0 33 0 11
 0 40 0 3
+0 41 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b0 lco lco ta1-3-lco ta3-3-lco
 0
 7
-0 33 0 11
-0 52 -1 1
-0 41 -1 0
-0 29 1 0
 0 20 0 1
+0 29 1 0
 0 30 -1 2
+0 33 0 11
 0 40 0 3
+0 41 -1 0
+0 52 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b1 lco oc1b ta1-1-lco ta3-1-oc1b
 0
 7
-0 33 1 11
-0 51 -1 1
-0 41 -1 0
-0 27 1 0
 0 2 0 1
+0 27 1 0
+0 33 1 11
 0 34 -1 2
 0 40 0 3
+0 41 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b1 lco oc1b ta1-1-lco ta3-2-oc1b
 0
 7
-0 33 1 11
-0 51 -1 1
-0 41 -1 0
-0 27 1 0
 0 3 0 1
+0 27 1 0
+0 33 1 11
 0 34 -1 2
 0 40 0 3
+0 41 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b1 lco oc1b ta1-2-lco ta3-1-oc1b
 0
 7
-0 33 1 11
-0 51 -1 1
-0 41 -1 0
-0 28 1 0
 0 2 0 1
+0 28 1 0
+0 33 1 11
 0 34 -1 2
 0 40 0 3
+0 41 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b1 lco oc1b ta1-2-lco ta3-2-oc1b
 0
 7
-0 33 1 11
-0 51 -1 1
-0 41 -1 0
-0 28 1 0
 0 3 0 1
+0 28 1 0
+0 33 1 11
 0 34 -1 2
 0 40 0 3
+0 41 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b1 lco oc1b ta1-3-lco ta3-1-oc1b
 0
 7
-0 33 1 11
-0 51 -1 1
-0 41 -1 0
-0 29 1 0
 0 2 0 1
+0 29 1 0
+0 33 1 11
 0 34 -1 2
 0 40 0 3
+0 41 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b1 lco oc1b ta1-3-lco ta3-2-oc1b
 0
 7
-0 33 1 11
-0 51 -1 1
-0 41 -1 0
-0 29 1 0
 0 3 0 1
+0 29 1 0
+0 33 1 11
 0 34 -1 2
 0 40 0 3
+0 41 -1 0
+0 51 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b10 lco gasoleo ta1-1-lco ta3-1-gasoleo
 0
 7
-0 33 2 11
-0 50 -1 1
-0 41 -1 0
-0 27 1 0
 0 12 0 1
 0 26 -1 2
+0 27 1 0
+0 33 2 11
 0 40 0 3
+0 41 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b10 lco gasoleo ta1-1-lco ta3-2-gasoleo
 0
 7
-0 33 2 11
-0 50 -1 1
-0 41 -1 0
-0 27 1 0
 0 13 0 1
 0 26 -1 2
+0 27 1 0
+0 33 2 11
 0 40 0 3
+0 41 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b10 lco gasoleo ta1-2-lco ta3-1-gasoleo
 0
 7
-0 33 2 11
-0 50 -1 1
-0 41 -1 0
-0 28 1 0
 0 12 0 1
 0 26 -1 2
+0 28 1 0
+0 33 2 11
 0 40 0 3
+0 41 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b10 lco gasoleo ta1-2-lco ta3-2-gasoleo
 0
 7
-0 33 2 11
-0 50 -1 1
-0 41 -1 0
-0 28 1 0
 0 13 0 1
 0 26 -1 2
+0 28 1 0
+0 33 2 11
 0 40 0 3
+0 41 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b10 lco gasoleo ta1-3-lco ta3-1-gasoleo
 0
 7
-0 33 2 11
-0 50 -1 1
-0 41 -1 0
-0 29 1 0
 0 12 0 1
 0 26 -1 2
+0 29 1 0
+0 33 2 11
 0 40 0 3
+0 41 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b10 lco gasoleo ta1-3-lco ta3-2-gasoleo
 0
 7
-0 33 2 11
-0 50 -1 1
-0 41 -1 0
-0 29 1 0
 0 13 0 1
 0 26 -1 2
+0 29 1 0
+0 33 2 11
 0 40 0 3
+0 41 -1 0
+0 50 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b11 lco gasoleo ta1-1-lco ta3-1-gasoleo
 0
 7
-0 33 3 11
-0 49 -1 1
-0 41 -1 0
-0 27 1 0
 0 12 0 1
+0 27 1 0
+0 33 3 11
 0 37 -1 2
 0 40 0 3
+0 41 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b11 lco gasoleo ta1-1-lco ta3-2-gasoleo
 0
 7
-0 33 3 11
-0 49 -1 1
-0 41 -1 0
-0 27 1 0
 0 13 0 1
+0 27 1 0
+0 33 3 11
 0 37 -1 2
 0 40 0 3
+0 41 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b11 lco gasoleo ta1-2-lco ta3-1-gasoleo
 0
 7
-0 33 3 11
-0 49 -1 1
-0 41 -1 0
-0 28 1 0
 0 12 0 1
+0 28 1 0
+0 33 3 11
 0 37 -1 2
 0 40 0 3
+0 41 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b11 lco gasoleo ta1-2-lco ta3-2-gasoleo
 0
 7
-0 33 3 11
-0 49 -1 1
-0 41 -1 0
-0 28 1 0
 0 13 0 1
+0 28 1 0
+0 33 3 11
 0 37 -1 2
 0 40 0 3
+0 41 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b11 lco gasoleo ta1-3-lco ta3-1-gasoleo
 0
 7
-0 33 3 11
-0 49 -1 1
-0 41 -1 0
-0 29 1 0
 0 12 0 1
+0 29 1 0
+0 33 3 11
 0 37 -1 2
 0 40 0 3
+0 41 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b11 lco gasoleo ta1-3-lco ta3-2-gasoleo
 0
 7
-0 33 3 11
-0 49 -1 1
-0 41 -1 0
-0 29 1 0
 0 13 0 1
+0 29 1 0
+0 33 3 11
 0 37 -1 2
 0 40 0 3
+0 41 -1 0
+0 49 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b2 lco rat-a ta1-1-lco ta3-1-rat-a
 0
 7
-0 33 4 11
-0 48 -1 1
-0 41 -1 0
-0 27 1 0
 0 6 0 1
 0 25 -1 2
+0 27 1 0
+0 33 4 11
 0 40 0 3
+0 41 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b2 lco rat-a ta1-1-lco ta3-2-rat-a
 0
 7
-0 33 4 11
-0 48 -1 1
-0 41 -1 0
-0 27 1 0
 0 7 0 1
 0 25 -1 2
+0 27 1 0
+0 33 4 11
 0 40 0 3
+0 41 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b2 lco rat-a ta1-2-lco ta3-1-rat-a
 0
 7
-0 33 4 11
-0 48 -1 1
-0 41 -1 0
-0 28 1 0
 0 6 0 1
 0 25 -1 2
+0 28 1 0
+0 33 4 11
 0 40 0 3
+0 41 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b2 lco rat-a ta1-2-lco ta3-2-rat-a
 0
 7
-0 33 4 11
-0 48 -1 1
-0 41 -1 0
-0 28 1 0
 0 7 0 1
 0 25 -1 2
+0 28 1 0
+0 33 4 11
 0 40 0 3
+0 41 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b2 lco rat-a ta1-3-lco ta3-1-rat-a
 0
 7
-0 33 4 11
-0 48 -1 1
-0 41 -1 0
-0 29 1 0
 0 6 0 1
 0 25 -1 2
+0 29 1 0
+0 33 4 11
 0 40 0 3
+0 41 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b2 lco rat-a ta1-3-lco ta3-2-rat-a
 0
 7
-0 33 4 11
-0 48 -1 1
-0 41 -1 0
-0 29 1 0
 0 7 0 1
 0 25 -1 2
+0 29 1 0
+0 33 4 11
 0 40 0 3
+0 41 -1 0
+0 48 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b3 lco gasoleo ta1-1-lco ta3-1-gasoleo
 0
 7
-0 33 5 11
-0 47 -1 1
-0 41 -1 0
-0 27 1 0
 0 12 0 1
+0 27 1 0
+0 33 5 11
 0 38 -1 2
 0 40 0 3
+0 41 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b3 lco gasoleo ta1-1-lco ta3-2-gasoleo
 0
 7
-0 33 5 11
-0 47 -1 1
-0 41 -1 0
-0 27 1 0
 0 13 0 1
+0 27 1 0
+0 33 5 11
 0 38 -1 2
 0 40 0 3
+0 41 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b3 lco gasoleo ta1-2-lco ta3-1-gasoleo
 0
 7
-0 33 5 11
-0 47 -1 1
-0 41 -1 0
-0 28 1 0
 0 12 0 1
+0 28 1 0
+0 33 5 11
 0 38 -1 2
 0 40 0 3
+0 41 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b3 lco gasoleo ta1-2-lco ta3-2-gasoleo
 0
 7
-0 33 5 11
-0 47 -1 1
-0 41 -1 0
-0 28 1 0
 0 13 0 1
+0 28 1 0
+0 33 5 11
 0 38 -1 2
 0 40 0 3
+0 41 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b3 lco gasoleo ta1-3-lco ta3-1-gasoleo
 0
 7
-0 33 5 11
-0 47 -1 1
-0 41 -1 0
-0 29 1 0
 0 12 0 1
+0 29 1 0
+0 33 5 11
 0 38 -1 2
 0 40 0 3
+0 41 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b3 lco gasoleo ta1-3-lco ta3-2-gasoleo
 0
 7
-0 33 5 11
-0 47 -1 1
-0 41 -1 0
-0 29 1 0
 0 13 0 1
+0 29 1 0
+0 33 5 11
 0 38 -1 2
 0 40 0 3
+0 41 -1 0
+0 47 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b4 lco lco ta1-1-lco ta3-1-lco
 0
 7
-0 33 6 11
-0 46 -1 1
-0 41 -1 0
-0 27 1 0
 0 17 0 1
+0 27 1 0
+0 33 6 11
 0 39 -1 2
 0 40 0 3
+0 41 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b4 lco lco ta1-1-lco ta3-2-lco
 0
 7
-0 33 6 11
-0 46 -1 1
-0 41 -1 0
-0 27 1 0
 0 18 0 1
+0 27 1 0
+0 33 6 11
 0 39 -1 2
 0 40 0 3
+0 41 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b4 lco lco ta1-1-lco ta3-3-lco
 0
 7
-0 33 6 11
-0 46 -1 1
-0 41 -1 0
-0 27 1 0
 0 20 0 1
+0 27 1 0
+0 33 6 11
 0 39 -1 2
 0 40 0 3
+0 41 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b4 lco lco ta1-2-lco ta3-1-lco
 0
 7
-0 33 6 11
-0 46 -1 1
-0 41 -1 0
-0 28 1 0
 0 17 0 1
+0 28 1 0
+0 33 6 11
 0 39 -1 2
 0 40 0 3
+0 41 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b4 lco lco ta1-2-lco ta3-2-lco
 0
 7
-0 33 6 11
-0 46 -1 1
-0 41 -1 0
-0 28 1 0
 0 18 0 1
+0 28 1 0
+0 33 6 11
 0 39 -1 2
 0 40 0 3
+0 41 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b4 lco lco ta1-2-lco ta3-3-lco
 0
 7
-0 33 6 11
-0 46 -1 1
-0 41 -1 0
-0 28 1 0
 0 20 0 1
+0 28 1 0
+0 33 6 11
 0 39 -1 2
 0 40 0 3
+0 41 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b4 lco lco ta1-3-lco ta3-1-lco
 0
 7
-0 33 6 11
-0 46 -1 1
-0 41 -1 0
-0 29 1 0
 0 17 0 1
+0 29 1 0
+0 33 6 11
 0 39 -1 2
 0 40 0 3
+0 41 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b4 lco lco ta1-3-lco ta3-2-lco
 0
 7
-0 33 6 11
-0 46 -1 1
-0 41 -1 0
-0 29 1 0
 0 18 0 1
+0 29 1 0
+0 33 6 11
 0 39 -1 2
 0 40 0 3
+0 41 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b4 lco lco ta1-3-lco ta3-3-lco
 0
 7
-0 33 6 11
-0 46 -1 1
-0 41 -1 0
-0 29 1 0
 0 20 0 1
+0 29 1 0
+0 33 6 11
 0 39 -1 2
 0 40 0 3
+0 41 -1 0
+0 46 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b5 lco rat-a ta1-1-lco ta3-1-rat-a
 0
 7
-0 33 7 11
-0 45 -1 1
-0 41 -1 0
-0 27 1 0
 0 6 0 1
+0 27 1 0
+0 33 7 11
 0 35 -1 2
 0 40 0 3
+0 41 -1 0
+0 45 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b5 lco rat-a ta1-1-lco ta3-2-rat-a
 0
 7
-0 33 7 11
-0 45 -1 1
-0 41 -1 0
-0 27 1 0
 0 7 0 1
+0 27 1 0
+0 33 7 11
 0 35 -1 2
 0 40 0 3
+0 41 -1 0
+0 45 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b5 lco rat-a ta1-2-lco ta3-1-rat-a
 0
 7
-0 33 7 11
-0 45 -1 1
-0 41 -1 0
-0 28 1 0
 0 6 0 1
+0 28 1 0
+0 33 7 11
 0 35 -1 2
 0 40 0 3
+0 41 -1 0
+0 45 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b5 lco rat-a ta1-2-lco ta3-2-rat-a
 0
 7
-0 33 7 11
-0 45 -1 1
-0 41 -1 0
-0 28 1 0
 0 7 0 1
+0 28 1 0
+0 33 7 11
 0 35 -1 2
 0 40 0 3
+0 41 -1 0
+0 45 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b5 lco rat-a ta1-3-lco ta3-1-rat-a
 0
 7
-0 33 7 11
-0 45 -1 1
-0 41 -1 0
-0 29 1 0
 0 6 0 1
+0 29 1 0
+0 33 7 11
 0 35 -1 2
 0 40 0 3
+0 41 -1 0
+0 45 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b5 lco rat-a ta1-3-lco ta3-2-rat-a
 0
 7
-0 33 7 11
-0 45 -1 1
-0 41 -1 0
-0 29 1 0
 0 7 0 1
+0 29 1 0
+0 33 7 11
 0 35 -1 2
 0 40 0 3
+0 41 -1 0
+0 45 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b6 lco lco ta1-1-lco ta3-1-lco
 0
 7
-0 33 8 11
-0 44 -1 1
-0 41 -1 0
-0 27 1 0
 0 17 0 1
+0 27 1 0
 0 31 -1 2
+0 33 8 11
 0 40 0 3
+0 41 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b6 lco lco ta1-1-lco ta3-2-lco
 0
 7
-0 33 8 11
-0 44 -1 1
-0 41 -1 0
-0 27 1 0
 0 18 0 1
+0 27 1 0
 0 31 -1 2
+0 33 8 11
 0 40 0 3
+0 41 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b6 lco lco ta1-1-lco ta3-3-lco
 0
 7
-0 33 8 11
-0 44 -1 1
-0 41 -1 0
-0 27 1 0
 0 20 0 1
+0 27 1 0
 0 31 -1 2
+0 33 8 11
 0 40 0 3
+0 41 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b6 lco lco ta1-2-lco ta3-1-lco
 0
 7
-0 33 8 11
-0 44 -1 1
-0 41 -1 0
-0 28 1 0
 0 17 0 1
+0 28 1 0
 0 31 -1 2
+0 33 8 11
 0 40 0 3
+0 41 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b6 lco lco ta1-2-lco ta3-2-lco
 0
 7
-0 33 8 11
-0 44 -1 1
-0 41 -1 0
-0 28 1 0
 0 18 0 1
+0 28 1 0
 0 31 -1 2
+0 33 8 11
 0 40 0 3
+0 41 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b6 lco lco ta1-2-lco ta3-3-lco
 0
 7
-0 33 8 11
-0 44 -1 1
-0 41 -1 0
-0 28 1 0
 0 20 0 1
+0 28 1 0
 0 31 -1 2
+0 33 8 11
 0 40 0 3
+0 41 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b6 lco lco ta1-3-lco ta3-1-lco
 0
 7
-0 33 8 11
-0 44 -1 1
-0 41 -1 0
-0 29 1 0
 0 17 0 1
+0 29 1 0
 0 31 -1 2
+0 33 8 11
 0 40 0 3
+0 41 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b6 lco lco ta1-3-lco ta3-2-lco
 0
 7
-0 33 8 11
-0 44 -1 1
-0 41 -1 0
-0 29 1 0
 0 18 0 1
+0 29 1 0
 0 31 -1 2
+0 33 8 11
 0 40 0 3
+0 41 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b6 lco lco ta1-3-lco ta3-3-lco
 0
 7
-0 33 8 11
-0 44 -1 1
-0 41 -1 0
-0 29 1 0
 0 20 0 1
+0 29 1 0
 0 31 -1 2
+0 33 8 11
 0 40 0 3
+0 41 -1 0
+0 44 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b7 lco rat-a ta1-1-lco ta3-1-rat-a
 0
 7
-0 33 9 11
-0 43 -1 1
-0 41 -1 0
-0 27 1 0
 0 6 0 1
+0 27 1 0
+0 33 9 11
 0 36 -1 2
 0 40 0 3
+0 41 -1 0
+0 43 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b7 lco rat-a ta1-1-lco ta3-2-rat-a
 0
 7
-0 33 9 11
-0 43 -1 1
-0 41 -1 0
-0 27 1 0
 0 7 0 1
+0 27 1 0
+0 33 9 11
 0 36 -1 2
 0 40 0 3
+0 41 -1 0
+0 43 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b7 lco rat-a ta1-2-lco ta3-1-rat-a
 0
 7
-0 33 9 11
-0 43 -1 1
-0 41 -1 0
-0 28 1 0
 0 6 0 1
+0 28 1 0
+0 33 9 11
 0 36 -1 2
 0 40 0 3
+0 41 -1 0
+0 43 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b7 lco rat-a ta1-2-lco ta3-2-rat-a
 0
 7
-0 33 9 11
-0 43 -1 1
-0 41 -1 0
-0 28 1 0
 0 7 0 1
+0 28 1 0
+0 33 9 11
 0 36 -1 2
 0 40 0 3
+0 41 -1 0
+0 43 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b7 lco rat-a ta1-3-lco ta3-1-rat-a
 0
 7
-0 33 9 11
-0 43 -1 1
-0 41 -1 0
-0 29 1 0
 0 6 0 1
+0 29 1 0
+0 33 9 11
 0 36 -1 2
 0 40 0 3
+0 41 -1 0
+0 43 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b7 lco rat-a ta1-3-lco ta3-2-rat-a
 0
 7
-0 33 9 11
-0 43 -1 1
-0 41 -1 0
-0 29 1 0
 0 7 0 1
+0 29 1 0
+0 33 9 11
 0 36 -1 2
 0 40 0 3
+0 41 -1 0
+0 43 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b8 lco oc1b ta1-1-lco ta3-1-oc1b
 0
 7
-0 33 10 11
-0 42 -1 1
-0 41 -1 0
-0 27 1 0
 0 2 0 1
 0 23 -1 2
+0 27 1 0
+0 33 10 11
 0 40 0 3
+0 41 -1 0
+0 42 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b8 lco oc1b ta1-1-lco ta3-2-oc1b
 0
 7
-0 33 10 11
-0 42 -1 1
-0 41 -1 0
-0 27 1 0
 0 3 0 1
 0 23 -1 2
+0 27 1 0
+0 33 10 11
 0 40 0 3
+0 41 -1 0
+0 42 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b8 lco oc1b ta1-2-lco ta3-1-oc1b
 0
 7
-0 33 10 11
-0 42 -1 1
-0 41 -1 0
-0 28 1 0
 0 2 0 1
 0 23 -1 2
+0 28 1 0
+0 33 10 11
 0 40 0 3
+0 41 -1 0
+0 42 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b8 lco oc1b ta1-2-lco ta3-2-oc1b
 0
 7
-0 33 10 11
-0 42 -1 1
-0 41 -1 0
-0 28 1 0
 0 3 0 1
 0 23 -1 2
+0 28 1 0
+0 33 10 11
 0 40 0 3
+0 41 -1 0
+0 42 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b8 lco oc1b ta1-3-lco ta3-1-oc1b
 0
 7
-0 33 10 11
-0 42 -1 1
-0 41 -1 0
-0 29 1 0
 0 2 0 1
 0 23 -1 2
+0 29 1 0
+0 33 10 11
 0 40 0 3
+0 41 -1 0
+0 42 -1 1
 1
 end_operator
 begin_operator
 push-unitarypipe s13 b9 a1 a3 b8 lco oc1b ta1-3-lco ta3-2-oc1b
 0
 7
-0 33 10 11
-0 42 -1 1
-0 41 -1 0
-0 29 1 0
 0 3 0 1
 0 23 -1 2
+0 29 1 0
+0 33 10 11
 0 40 0 3
+0 41 -1 0
+0 42 -1 1
 1
 end_operator
 0

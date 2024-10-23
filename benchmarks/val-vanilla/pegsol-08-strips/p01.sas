@@ -2,173 +2,173 @@ begin_version
 3
 end_version
 begin_metric
-0
+1
 end_metric
 21
 begin_variable
 var0
 -1
 20
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
+Atom last-visited(pos-0-2)
+Atom last-visited(pos-0-4)
+Atom last-visited(pos-1-2)
+Atom last-visited(pos-1-4)
+Atom last-visited(pos-2-2)
+Atom last-visited(pos-2-4)
+Atom last-visited(pos-3-0)
+Atom last-visited(pos-3-1)
+Atom last-visited(pos-3-2)
+Atom last-visited(pos-3-3)
+Atom last-visited(pos-3-4)
+Atom last-visited(pos-3-5)
+Atom last-visited(pos-3-6)
+Atom last-visited(pos-4-2)
+Atom last-visited(pos-4-4)
+Atom last-visited(pos-5-2)
+Atom last-visited(pos-5-4)
+Atom last-visited(pos-6-2)
+Atom last-visited(pos-6-4)
+Atom move-ended()
 end_variable
 begin_variable
 var1
 -1
 2
-0
-1
+Atom free(pos-0-2)
+Atom occupied(pos-0-2)
 end_variable
 begin_variable
 var2
 -1
 2
-0
-1
+Atom free(pos-0-4)
+Atom occupied(pos-0-4)
 end_variable
 begin_variable
 var3
 -1
 2
-0
-1
+Atom free(pos-1-3)
+Atom occupied(pos-1-3)
 end_variable
 begin_variable
 var4
 -1
 2
-0
-1
+Atom free(pos-3-0)
+Atom occupied(pos-3-0)
 end_variable
 begin_variable
 var5
 -1
 2
-0
-1
+Atom free(pos-3-6)
+Atom occupied(pos-3-6)
 end_variable
 begin_variable
 var6
 -1
 2
-0
-1
+Atom free(pos-6-2)
+Atom occupied(pos-6-2)
 end_variable
 begin_variable
 var7
 -1
 2
-0
-1
+Atom free(pos-6-4)
+Atom occupied(pos-6-4)
 end_variable
 begin_variable
 var8
 -1
 2
-0
-1
+Atom free(pos-3-1)
+Atom occupied(pos-3-1)
 end_variable
 begin_variable
 var9
 -1
 2
-0
-1
+Atom free(pos-3-5)
+Atom occupied(pos-3-5)
 end_variable
 begin_variable
 var10
 -1
 2
-0
-1
+Atom free(pos-5-2)
+Atom occupied(pos-5-2)
 end_variable
 begin_variable
 var11
 -1
 2
-0
-1
+Atom free(pos-5-4)
+Atom occupied(pos-5-4)
 end_variable
 begin_variable
 var12
 -1
 2
-0
-1
+Atom free(pos-4-2)
+Atom occupied(pos-4-2)
 end_variable
 begin_variable
 var13
 -1
 2
-0
-1
+Atom free(pos-4-4)
+Atom occupied(pos-4-4)
 end_variable
 begin_variable
 var14
 -1
 2
-0
-1
+Atom free(pos-3-3)
+Atom occupied(pos-3-3)
 end_variable
 begin_variable
 var15
 -1
 2
-0
-1
+Atom free(pos-2-2)
+Atom occupied(pos-2-2)
 end_variable
 begin_variable
 var16
 -1
 2
-0
-1
+Atom free(pos-2-4)
+Atom occupied(pos-2-4)
 end_variable
 begin_variable
 var17
 -1
 2
-0
-1
+Atom free(pos-1-2)
+Atom occupied(pos-1-2)
 end_variable
 begin_variable
 var18
 -1
 2
-0
-1
+Atom free(pos-1-4)
+Atom occupied(pos-1-4)
 end_variable
 begin_variable
 var19
 -1
 2
-0
-1
+Atom free(pos-3-2)
+Atom occupied(pos-3-2)
 end_variable
 begin_variable
 var20
 -1
 2
-0
-1
+Atom free(pos-3-4)
+Atom occupied(pos-3-4)
 end_variable
 0
 begin_state

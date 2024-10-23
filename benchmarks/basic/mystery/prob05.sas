@@ -423,64 +423,64 @@ begin_operator
 feast excitement broccoli chocolate alsace kentucky
 0
 2
-0 4 0 2
 0 3 3 0
+0 4 0 2
 1
 end_operator
 begin_operator
 feast excitement broccoli chocolate goias arizona
 0
 2
-0 4 0 2
 0 3 1 2
+0 4 0 2
 1
 end_operator
 begin_operator
 feast excitement broccoli chocolate kentucky goias
 0
 2
-0 4 0 2
 0 3 2 3
+0 4 0 2
 1
 end_operator
 begin_operator
 feast excitement broccoli tuna alsace kentucky
 0
 2
-0 4 0 6
 0 3 3 0
+0 4 0 6
 1
 end_operator
 begin_operator
 feast excitement broccoli tuna goias arizona
 0
 2
-0 4 0 6
 0 3 1 2
+0 4 0 6
 1
 end_operator
 begin_operator
 feast excitement broccoli tuna kentucky goias
 0
 2
-0 4 0 6
 0 3 2 3
+0 4 0 6
 1
 end_operator
 begin_operator
 feast excitement cherry scallop alsace kentucky
 0
 2
-0 4 1 3
 0 0 1 0
+0 4 1 3
 1
 end_operator
 begin_operator
 feast excitement cherry shrimp alsace kentucky
 0
 2
-0 4 1 4
 0 0 1 0
+0 4 1 4
 1
 end_operator
 begin_operator
@@ -535,24 +535,24 @@ begin_operator
 feast excitement shrimp cherry alsace kentucky
 0
 2
-0 4 4 1
 0 2 1 0
+0 4 4 1
 1
 end_operator
 begin_operator
 feast excitement shrimp chocolate alsace kentucky
 0
 2
-0 4 4 2
 0 2 1 0
+0 4 4 2
 1
 end_operator
 begin_operator
 feast excitement shrimp sweetroll alsace kentucky
 0
 2
-0 4 4 5
 0 2 1 0
+0 4 4 5
 1
 end_operator
 begin_operator
@@ -607,80 +607,80 @@ begin_operator
 feast excitement turkey chocolate alsace kentucky
 0
 2
-0 4 7 2
 0 1 1 0
+0 4 7 2
 1
 end_operator
 begin_operator
 feast excitement turkey tuna alsace kentucky
 0
 2
-0 4 7 6
 0 1 1 0
+0 4 7 6
 1
 end_operator
 begin_operator
 feast intoxication broccoli chocolate alsace kentucky
 0
 2
-0 5 0 2
 0 3 3 0
+0 5 0 2
 1
 end_operator
 begin_operator
 feast intoxication broccoli chocolate goias arizona
 0
 2
-0 5 0 2
 0 3 1 2
+0 5 0 2
 1
 end_operator
 begin_operator
 feast intoxication broccoli chocolate kentucky goias
 0
 2
-0 5 0 2
 0 3 2 3
+0 5 0 2
 1
 end_operator
 begin_operator
 feast intoxication broccoli tuna alsace kentucky
 0
 2
-0 5 0 6
 0 3 3 0
+0 5 0 6
 1
 end_operator
 begin_operator
 feast intoxication broccoli tuna goias arizona
 0
 2
-0 5 0 6
 0 3 1 2
+0 5 0 6
 1
 end_operator
 begin_operator
 feast intoxication broccoli tuna kentucky goias
 0
 2
-0 5 0 6
 0 3 2 3
+0 5 0 6
 1
 end_operator
 begin_operator
 feast intoxication cherry scallop alsace kentucky
 0
 2
-0 5 1 3
 0 0 1 0
+0 5 1 3
 1
 end_operator
 begin_operator
 feast intoxication cherry shrimp alsace kentucky
 0
 2
-0 5 1 4
 0 0 1 0
+0 5 1 4
 1
 end_operator
 begin_operator
@@ -735,24 +735,24 @@ begin_operator
 feast intoxication shrimp cherry alsace kentucky
 0
 2
-0 5 4 1
 0 2 1 0
+0 5 4 1
 1
 end_operator
 begin_operator
 feast intoxication shrimp chocolate alsace kentucky
 0
 2
-0 5 4 2
 0 2 1 0
+0 5 4 2
 1
 end_operator
 begin_operator
 feast intoxication shrimp sweetroll alsace kentucky
 0
 2
-0 5 4 5
 0 2 1 0
+0 5 4 5
 1
 end_operator
 begin_operator
@@ -807,216 +807,216 @@ begin_operator
 feast intoxication turkey chocolate alsace kentucky
 0
 2
-0 5 7 2
 0 1 1 0
+0 5 7 2
 1
 end_operator
 begin_operator
 feast intoxication turkey tuna alsace kentucky
 0
 2
-0 5 7 6
 0 1 1 0
+0 5 7 6
 1
 end_operator
 begin_operator
 feast satisfaction broccoli chocolate alsace kentucky
 0
 2
-0 8 0 2
 0 3 3 0
+0 8 0 2
 1
 end_operator
 begin_operator
 feast satisfaction broccoli chocolate goias arizona
 0
 2
-0 8 0 2
 0 3 1 2
+0 8 0 2
 1
 end_operator
 begin_operator
 feast satisfaction broccoli chocolate kentucky goias
 0
 2
-0 8 0 2
 0 3 2 3
+0 8 0 2
 1
 end_operator
 begin_operator
 feast satisfaction broccoli tuna alsace kentucky
 0
 2
-0 8 0 6
 0 3 3 0
+0 8 0 6
 1
 end_operator
 begin_operator
 feast satisfaction broccoli tuna goias arizona
 0
 2
-0 8 0 6
 0 3 1 2
+0 8 0 6
 1
 end_operator
 begin_operator
 feast satisfaction broccoli tuna kentucky goias
 0
 2
-0 8 0 6
 0 3 2 3
+0 8 0 6
 1
 end_operator
 begin_operator
 feast satisfaction cherry scallop alsace kentucky
 0
 2
-0 8 1 3
 0 0 1 0
+0 8 1 3
 1
 end_operator
 begin_operator
 feast satisfaction cherry shrimp alsace kentucky
 0
 2
-0 8 1 4
 0 0 1 0
+0 8 1 4
 1
 end_operator
 begin_operator
 feast satisfaction chocolate broccoli alsace kentucky
 0
 2
-0 8 2 0
 0 6 2 0
+0 8 2 0
 1
 end_operator
 begin_operator
 feast satisfaction chocolate broccoli kentucky goias
 0
 2
-0 8 2 0
 0 6 1 2
+0 8 2 0
 1
 end_operator
 begin_operator
 feast satisfaction chocolate shrimp alsace kentucky
 0
 2
-0 8 2 4
 0 6 2 0
+0 8 2 4
 1
 end_operator
 begin_operator
 feast satisfaction chocolate shrimp kentucky goias
 0
 2
-0 8 2 4
 0 6 1 2
+0 8 2 4
 1
 end_operator
 begin_operator
 feast satisfaction chocolate turkey alsace kentucky
 0
 2
-0 8 2 7
 0 6 2 0
+0 8 2 7
 1
 end_operator
 begin_operator
 feast satisfaction chocolate turkey kentucky goias
 0
 2
-0 8 2 7
 0 6 1 2
+0 8 2 7
 1
 end_operator
 begin_operator
 feast satisfaction shrimp cherry alsace kentucky
 0
 2
-0 8 4 1
 0 2 1 0
+0 8 4 1
 1
 end_operator
 begin_operator
 feast satisfaction shrimp chocolate alsace kentucky
 0
 2
-0 8 4 2
 0 2 1 0
+0 8 4 2
 1
 end_operator
 begin_operator
 feast satisfaction shrimp sweetroll alsace kentucky
 0
 2
-0 8 4 5
 0 2 1 0
+0 8 4 5
 1
 end_operator
 begin_operator
 feast satisfaction tuna broccoli alsace kentucky
 0
 2
-0 8 6 0
 0 7 3 0
+0 8 6 0
 1
 end_operator
 begin_operator
 feast satisfaction tuna broccoli goias arizona
 0
 2
-0 8 6 0
 0 7 1 2
+0 8 6 0
 1
 end_operator
 begin_operator
 feast satisfaction tuna broccoli kentucky goias
 0
 2
-0 8 6 0
 0 7 2 3
+0 8 6 0
 1
 end_operator
 begin_operator
 feast satisfaction tuna turkey alsace kentucky
 0
 2
-0 8 6 7
 0 7 3 0
+0 8 6 7
 1
 end_operator
 begin_operator
 feast satisfaction tuna turkey goias arizona
 0
 2
-0 8 6 7
 0 7 1 2
+0 8 6 7
 1
 end_operator
 begin_operator
 feast satisfaction tuna turkey kentucky goias
 0
 2
-0 8 6 7
 0 7 2 3
+0 8 6 7
 1
 end_operator
 begin_operator
 feast satisfaction turkey chocolate alsace kentucky
 0
 2
-0 8 7 2
 0 1 1 0
+0 8 7 2
 1
 end_operator
 begin_operator
 feast satisfaction turkey tuna alsace kentucky
 0
 2
-0 8 7 6
 0 1 1 0
+0 8 7 6
 1
 end_operator
 begin_operator
@@ -1455,24 +1455,24 @@ begin_operator
 overcome abrasion lubricity sweetroll earth mars
 0
 2
-0 10 5 10
 0 9 1 0
+0 10 5 10
 1
 end_operator
 begin_operator
 overcome abrasion lubricity sweetroll mercury earth
 0
 2
-0 10 5 10
 0 9 0 2
+0 10 5 10
 1
 end_operator
 begin_operator
 overcome abrasion lubricity sweetroll uranus mercury
 0
 2
-0 10 5 10
 0 9 2 3
+0 10 5 10
 1
 end_operator
 begin_operator
@@ -2127,24 +2127,24 @@ begin_operator
 overcome anger lubricity sweetroll earth mars
 0
 2
-0 11 5 10
 0 9 1 0
+0 11 5 10
 1
 end_operator
 begin_operator
 overcome anger lubricity sweetroll mercury earth
 0
 2
-0 11 5 10
 0 9 0 2
+0 11 5 10
 1
 end_operator
 begin_operator
 overcome anger lubricity sweetroll uranus mercury
 0
 2
-0 11 5 10
 0 9 2 3
+0 11 5 10
 1
 end_operator
 begin_operator
@@ -2799,24 +2799,24 @@ begin_operator
 overcome angina lubricity sweetroll earth mars
 0
 2
-0 12 5 10
 0 9 1 0
+0 12 5 10
 1
 end_operator
 begin_operator
 overcome angina lubricity sweetroll mercury earth
 0
 2
-0 12 5 10
 0 9 0 2
+0 12 5 10
 1
 end_operator
 begin_operator
 overcome angina lubricity sweetroll uranus mercury
 0
 2
-0 12 5 10
 0 9 2 3
+0 12 5 10
 1
 end_operator
 begin_operator
@@ -3471,24 +3471,24 @@ begin_operator
 overcome anxiety lubricity sweetroll earth mars
 0
 2
-0 13 5 10
 0 9 1 0
+0 13 5 10
 1
 end_operator
 begin_operator
 overcome anxiety lubricity sweetroll mercury earth
 0
 2
-0 13 5 10
 0 9 0 2
+0 13 5 10
 1
 end_operator
 begin_operator
 overcome anxiety lubricity sweetroll uranus mercury
 0
 2
-0 13 5 10
 0 9 2 3
+0 13 5 10
 1
 end_operator
 begin_operator
@@ -4143,24 +4143,24 @@ begin_operator
 overcome boils lubricity sweetroll earth mars
 0
 2
-0 14 5 10
 0 9 1 0
+0 14 5 10
 1
 end_operator
 begin_operator
 overcome boils lubricity sweetroll mercury earth
 0
 2
-0 14 5 10
 0 9 0 2
+0 14 5 10
 1
 end_operator
 begin_operator
 overcome boils lubricity sweetroll uranus mercury
 0
 2
-0 14 5 10
 0 9 2 3
+0 14 5 10
 1
 end_operator
 begin_operator
@@ -4815,24 +4815,24 @@ begin_operator
 overcome depression lubricity sweetroll earth mars
 0
 2
-0 15 5 10
 0 9 1 0
+0 15 5 10
 1
 end_operator
 begin_operator
 overcome depression lubricity sweetroll mercury earth
 0
 2
-0 15 5 10
 0 9 0 2
+0 15 5 10
 1
 end_operator
 begin_operator
 overcome depression lubricity sweetroll uranus mercury
 0
 2
-0 15 5 10
 0 9 2 3
+0 15 5 10
 1
 end_operator
 begin_operator
@@ -5487,24 +5487,24 @@ begin_operator
 overcome dread lubricity sweetroll earth mars
 0
 2
-0 16 5 10
 0 9 1 0
+0 16 5 10
 1
 end_operator
 begin_operator
 overcome dread lubricity sweetroll mercury earth
 0
 2
-0 16 5 10
 0 9 0 2
+0 16 5 10
 1
 end_operator
 begin_operator
 overcome dread lubricity sweetroll uranus mercury
 0
 2
-0 16 5 10
 0 9 2 3
+0 16 5 10
 1
 end_operator
 begin_operator
@@ -5728,8 +5728,8 @@ overcome grief excitement broccoli earth mars
 1
 4 0
 2
-0 26 0 8
 0 23 1 0
+0 26 0 8
 1
 end_operator
 begin_operator
@@ -5737,8 +5737,8 @@ overcome grief excitement broccoli mercury earth
 1
 4 0
 2
-0 26 0 8
 0 23 0 2
+0 26 0 8
 1
 end_operator
 begin_operator
@@ -5746,8 +5746,8 @@ overcome grief excitement broccoli uranus mercury
 1
 4 0
 2
-0 26 0 8
 0 23 2 3
+0 26 0 8
 1
 end_operator
 begin_operator
@@ -5755,8 +5755,8 @@ overcome grief excitement cherry earth mars
 1
 4 1
 2
-0 26 1 8
 0 23 1 0
+0 26 1 8
 1
 end_operator
 begin_operator
@@ -5764,8 +5764,8 @@ overcome grief excitement cherry mercury earth
 1
 4 1
 2
-0 26 1 8
 0 23 0 2
+0 26 1 8
 1
 end_operator
 begin_operator
@@ -5773,8 +5773,8 @@ overcome grief excitement cherry uranus mercury
 1
 4 1
 2
-0 26 1 8
 0 23 2 3
+0 26 1 8
 1
 end_operator
 begin_operator
@@ -5782,8 +5782,8 @@ overcome grief excitement chocolate earth mars
 1
 4 2
 2
-0 26 2 8
 0 23 1 0
+0 26 2 8
 1
 end_operator
 begin_operator
@@ -5791,8 +5791,8 @@ overcome grief excitement chocolate mercury earth
 1
 4 2
 2
-0 26 2 8
 0 23 0 2
+0 26 2 8
 1
 end_operator
 begin_operator
@@ -5800,8 +5800,8 @@ overcome grief excitement chocolate uranus mercury
 1
 4 2
 2
-0 26 2 8
 0 23 2 3
+0 26 2 8
 1
 end_operator
 begin_operator
@@ -5809,8 +5809,8 @@ overcome grief excitement scallop earth mars
 1
 4 3
 2
-0 26 3 8
 0 23 1 0
+0 26 3 8
 1
 end_operator
 begin_operator
@@ -5818,8 +5818,8 @@ overcome grief excitement scallop mercury earth
 1
 4 3
 2
-0 26 3 8
 0 23 0 2
+0 26 3 8
 1
 end_operator
 begin_operator
@@ -5827,8 +5827,8 @@ overcome grief excitement scallop uranus mercury
 1
 4 3
 2
-0 26 3 8
 0 23 2 3
+0 26 3 8
 1
 end_operator
 begin_operator
@@ -5836,8 +5836,8 @@ overcome grief excitement shrimp earth mars
 1
 4 4
 2
-0 26 4 8
 0 23 1 0
+0 26 4 8
 1
 end_operator
 begin_operator
@@ -5845,8 +5845,8 @@ overcome grief excitement shrimp mercury earth
 1
 4 4
 2
-0 26 4 8
 0 23 0 2
+0 26 4 8
 1
 end_operator
 begin_operator
@@ -5854,8 +5854,8 @@ overcome grief excitement shrimp uranus mercury
 1
 4 4
 2
-0 26 4 8
 0 23 2 3
+0 26 4 8
 1
 end_operator
 begin_operator
@@ -5863,8 +5863,8 @@ overcome grief excitement sweetroll earth mars
 1
 4 5
 2
-0 26 5 8
 0 23 1 0
+0 26 5 8
 1
 end_operator
 begin_operator
@@ -5872,8 +5872,8 @@ overcome grief excitement sweetroll mercury earth
 1
 4 5
 2
-0 26 5 8
 0 23 0 2
+0 26 5 8
 1
 end_operator
 begin_operator
@@ -5881,8 +5881,8 @@ overcome grief excitement sweetroll uranus mercury
 1
 4 5
 2
-0 26 5 8
 0 23 2 3
+0 26 5 8
 1
 end_operator
 begin_operator
@@ -5890,8 +5890,8 @@ overcome grief excitement tuna earth mars
 1
 4 6
 2
-0 26 6 8
 0 23 1 0
+0 26 6 8
 1
 end_operator
 begin_operator
@@ -5899,8 +5899,8 @@ overcome grief excitement tuna mercury earth
 1
 4 6
 2
-0 26 6 8
 0 23 0 2
+0 26 6 8
 1
 end_operator
 begin_operator
@@ -5908,8 +5908,8 @@ overcome grief excitement tuna uranus mercury
 1
 4 6
 2
-0 26 6 8
 0 23 2 3
+0 26 6 8
 1
 end_operator
 begin_operator
@@ -5917,8 +5917,8 @@ overcome grief excitement turkey earth mars
 1
 4 7
 2
-0 26 7 8
 0 23 1 0
+0 26 7 8
 1
 end_operator
 begin_operator
@@ -5926,8 +5926,8 @@ overcome grief excitement turkey mercury earth
 1
 4 7
 2
-0 26 7 8
 0 23 0 2
+0 26 7 8
 1
 end_operator
 begin_operator
@@ -5935,8 +5935,8 @@ overcome grief excitement turkey uranus mercury
 1
 4 7
 2
-0 26 7 8
 0 23 2 3
+0 26 7 8
 1
 end_operator
 begin_operator
@@ -5944,8 +5944,8 @@ overcome grief intoxication broccoli earth mars
 1
 5 0
 2
-0 26 0 9
 0 24 1 0
+0 26 0 9
 1
 end_operator
 begin_operator
@@ -5953,8 +5953,8 @@ overcome grief intoxication broccoli mercury earth
 1
 5 0
 2
-0 26 0 9
 0 24 0 2
+0 26 0 9
 1
 end_operator
 begin_operator
@@ -5962,8 +5962,8 @@ overcome grief intoxication broccoli uranus mercury
 1
 5 0
 2
-0 26 0 9
 0 24 2 3
+0 26 0 9
 1
 end_operator
 begin_operator
@@ -5971,8 +5971,8 @@ overcome grief intoxication cherry earth mars
 1
 5 1
 2
-0 26 1 9
 0 24 1 0
+0 26 1 9
 1
 end_operator
 begin_operator
@@ -5980,8 +5980,8 @@ overcome grief intoxication cherry mercury earth
 1
 5 1
 2
-0 26 1 9
 0 24 0 2
+0 26 1 9
 1
 end_operator
 begin_operator
@@ -5989,8 +5989,8 @@ overcome grief intoxication cherry uranus mercury
 1
 5 1
 2
-0 26 1 9
 0 24 2 3
+0 26 1 9
 1
 end_operator
 begin_operator
@@ -5998,8 +5998,8 @@ overcome grief intoxication chocolate earth mars
 1
 5 2
 2
-0 26 2 9
 0 24 1 0
+0 26 2 9
 1
 end_operator
 begin_operator
@@ -6007,8 +6007,8 @@ overcome grief intoxication chocolate mercury earth
 1
 5 2
 2
-0 26 2 9
 0 24 0 2
+0 26 2 9
 1
 end_operator
 begin_operator
@@ -6016,8 +6016,8 @@ overcome grief intoxication chocolate uranus mercury
 1
 5 2
 2
-0 26 2 9
 0 24 2 3
+0 26 2 9
 1
 end_operator
 begin_operator
@@ -6025,8 +6025,8 @@ overcome grief intoxication scallop earth mars
 1
 5 3
 2
-0 26 3 9
 0 24 1 0
+0 26 3 9
 1
 end_operator
 begin_operator
@@ -6034,8 +6034,8 @@ overcome grief intoxication scallop mercury earth
 1
 5 3
 2
-0 26 3 9
 0 24 0 2
+0 26 3 9
 1
 end_operator
 begin_operator
@@ -6043,8 +6043,8 @@ overcome grief intoxication scallop uranus mercury
 1
 5 3
 2
-0 26 3 9
 0 24 2 3
+0 26 3 9
 1
 end_operator
 begin_operator
@@ -6052,8 +6052,8 @@ overcome grief intoxication shrimp earth mars
 1
 5 4
 2
-0 26 4 9
 0 24 1 0
+0 26 4 9
 1
 end_operator
 begin_operator
@@ -6061,8 +6061,8 @@ overcome grief intoxication shrimp mercury earth
 1
 5 4
 2
-0 26 4 9
 0 24 0 2
+0 26 4 9
 1
 end_operator
 begin_operator
@@ -6070,8 +6070,8 @@ overcome grief intoxication shrimp uranus mercury
 1
 5 4
 2
-0 26 4 9
 0 24 2 3
+0 26 4 9
 1
 end_operator
 begin_operator
@@ -6079,8 +6079,8 @@ overcome grief intoxication sweetroll earth mars
 1
 5 5
 2
-0 26 5 9
 0 24 1 0
+0 26 5 9
 1
 end_operator
 begin_operator
@@ -6088,8 +6088,8 @@ overcome grief intoxication sweetroll mercury earth
 1
 5 5
 2
-0 26 5 9
 0 24 0 2
+0 26 5 9
 1
 end_operator
 begin_operator
@@ -6097,8 +6097,8 @@ overcome grief intoxication sweetroll uranus mercury
 1
 5 5
 2
-0 26 5 9
 0 24 2 3
+0 26 5 9
 1
 end_operator
 begin_operator
@@ -6106,8 +6106,8 @@ overcome grief intoxication tuna earth mars
 1
 5 6
 2
-0 26 6 9
 0 24 1 0
+0 26 6 9
 1
 end_operator
 begin_operator
@@ -6115,8 +6115,8 @@ overcome grief intoxication tuna mercury earth
 1
 5 6
 2
-0 26 6 9
 0 24 0 2
+0 26 6 9
 1
 end_operator
 begin_operator
@@ -6124,8 +6124,8 @@ overcome grief intoxication tuna uranus mercury
 1
 5 6
 2
-0 26 6 9
 0 24 2 3
+0 26 6 9
 1
 end_operator
 begin_operator
@@ -6133,8 +6133,8 @@ overcome grief intoxication turkey earth mars
 1
 5 7
 2
-0 26 7 9
 0 24 1 0
+0 26 7 9
 1
 end_operator
 begin_operator
@@ -6142,8 +6142,8 @@ overcome grief intoxication turkey mercury earth
 1
 5 7
 2
-0 26 7 9
 0 24 0 2
+0 26 7 9
 1
 end_operator
 begin_operator
@@ -6151,32 +6151,32 @@ overcome grief intoxication turkey uranus mercury
 1
 5 7
 2
-0 26 7 9
 0 24 2 3
+0 26 7 9
 1
 end_operator
 begin_operator
 overcome grief lubricity sweetroll earth mars
 0
 2
-0 26 5 10
 0 9 1 0
+0 26 5 10
 1
 end_operator
 begin_operator
 overcome grief lubricity sweetroll mercury earth
 0
 2
-0 26 5 10
 0 9 0 2
+0 26 5 10
 1
 end_operator
 begin_operator
 overcome grief lubricity sweetroll uranus mercury
 0
 2
-0 26 5 10
 0 9 2 3
+0 26 5 10
 1
 end_operator
 begin_operator
@@ -6184,8 +6184,8 @@ overcome grief satisfaction broccoli earth mars
 1
 8 0
 2
-0 26 0 11
 0 25 1 0
+0 26 0 11
 1
 end_operator
 begin_operator
@@ -6193,8 +6193,8 @@ overcome grief satisfaction broccoli mercury earth
 1
 8 0
 2
-0 26 0 11
 0 25 0 2
+0 26 0 11
 1
 end_operator
 begin_operator
@@ -6202,8 +6202,8 @@ overcome grief satisfaction broccoli uranus mercury
 1
 8 0
 2
-0 26 0 11
 0 25 2 3
+0 26 0 11
 1
 end_operator
 begin_operator
@@ -6211,8 +6211,8 @@ overcome grief satisfaction cherry earth mars
 1
 8 1
 2
-0 26 1 11
 0 25 1 0
+0 26 1 11
 1
 end_operator
 begin_operator
@@ -6220,8 +6220,8 @@ overcome grief satisfaction cherry mercury earth
 1
 8 1
 2
-0 26 1 11
 0 25 0 2
+0 26 1 11
 1
 end_operator
 begin_operator
@@ -6229,8 +6229,8 @@ overcome grief satisfaction cherry uranus mercury
 1
 8 1
 2
-0 26 1 11
 0 25 2 3
+0 26 1 11
 1
 end_operator
 begin_operator
@@ -6238,8 +6238,8 @@ overcome grief satisfaction chocolate earth mars
 1
 8 2
 2
-0 26 2 11
 0 25 1 0
+0 26 2 11
 1
 end_operator
 begin_operator
@@ -6247,8 +6247,8 @@ overcome grief satisfaction chocolate mercury earth
 1
 8 2
 2
-0 26 2 11
 0 25 0 2
+0 26 2 11
 1
 end_operator
 begin_operator
@@ -6256,8 +6256,8 @@ overcome grief satisfaction chocolate uranus mercury
 1
 8 2
 2
-0 26 2 11
 0 25 2 3
+0 26 2 11
 1
 end_operator
 begin_operator
@@ -6265,8 +6265,8 @@ overcome grief satisfaction scallop earth mars
 1
 8 3
 2
-0 26 3 11
 0 25 1 0
+0 26 3 11
 1
 end_operator
 begin_operator
@@ -6274,8 +6274,8 @@ overcome grief satisfaction scallop mercury earth
 1
 8 3
 2
-0 26 3 11
 0 25 0 2
+0 26 3 11
 1
 end_operator
 begin_operator
@@ -6283,8 +6283,8 @@ overcome grief satisfaction scallop uranus mercury
 1
 8 3
 2
-0 26 3 11
 0 25 2 3
+0 26 3 11
 1
 end_operator
 begin_operator
@@ -6292,8 +6292,8 @@ overcome grief satisfaction shrimp earth mars
 1
 8 4
 2
-0 26 4 11
 0 25 1 0
+0 26 4 11
 1
 end_operator
 begin_operator
@@ -6301,8 +6301,8 @@ overcome grief satisfaction shrimp mercury earth
 1
 8 4
 2
-0 26 4 11
 0 25 0 2
+0 26 4 11
 1
 end_operator
 begin_operator
@@ -6310,8 +6310,8 @@ overcome grief satisfaction shrimp uranus mercury
 1
 8 4
 2
-0 26 4 11
 0 25 2 3
+0 26 4 11
 1
 end_operator
 begin_operator
@@ -6319,8 +6319,8 @@ overcome grief satisfaction sweetroll earth mars
 1
 8 5
 2
-0 26 5 11
 0 25 1 0
+0 26 5 11
 1
 end_operator
 begin_operator
@@ -6328,8 +6328,8 @@ overcome grief satisfaction sweetroll mercury earth
 1
 8 5
 2
-0 26 5 11
 0 25 0 2
+0 26 5 11
 1
 end_operator
 begin_operator
@@ -6337,8 +6337,8 @@ overcome grief satisfaction sweetroll uranus mercury
 1
 8 5
 2
-0 26 5 11
 0 25 2 3
+0 26 5 11
 1
 end_operator
 begin_operator
@@ -6346,8 +6346,8 @@ overcome grief satisfaction tuna earth mars
 1
 8 6
 2
-0 26 6 11
 0 25 1 0
+0 26 6 11
 1
 end_operator
 begin_operator
@@ -6355,8 +6355,8 @@ overcome grief satisfaction tuna mercury earth
 1
 8 6
 2
-0 26 6 11
 0 25 0 2
+0 26 6 11
 1
 end_operator
 begin_operator
@@ -6364,8 +6364,8 @@ overcome grief satisfaction tuna uranus mercury
 1
 8 6
 2
-0 26 6 11
 0 25 2 3
+0 26 6 11
 1
 end_operator
 begin_operator
@@ -6373,8 +6373,8 @@ overcome grief satisfaction turkey earth mars
 1
 8 7
 2
-0 26 7 11
 0 25 1 0
+0 26 7 11
 1
 end_operator
 begin_operator
@@ -6382,8 +6382,8 @@ overcome grief satisfaction turkey mercury earth
 1
 8 7
 2
-0 26 7 11
 0 25 0 2
+0 26 7 11
 1
 end_operator
 begin_operator
@@ -6391,8 +6391,8 @@ overcome grief satisfaction turkey uranus mercury
 1
 8 7
 2
-0 26 7 11
 0 25 2 3
+0 26 7 11
 1
 end_operator
 begin_operator
@@ -6831,24 +6831,24 @@ begin_operator
 overcome grief-2 lubricity sweetroll earth mars
 0
 2
-0 17 5 10
 0 9 1 0
+0 17 5 10
 1
 end_operator
 begin_operator
 overcome grief-2 lubricity sweetroll mercury earth
 0
 2
-0 17 5 10
 0 9 0 2
+0 17 5 10
 1
 end_operator
 begin_operator
 overcome grief-2 lubricity sweetroll uranus mercury
 0
 2
-0 17 5 10
 0 9 2 3
+0 17 5 10
 1
 end_operator
 begin_operator
@@ -7503,24 +7503,24 @@ begin_operator
 overcome hangover lubricity sweetroll earth mars
 0
 2
-0 18 5 10
 0 9 1 0
+0 18 5 10
 1
 end_operator
 begin_operator
 overcome hangover lubricity sweetroll mercury earth
 0
 2
-0 18 5 10
 0 9 0 2
+0 18 5 10
 1
 end_operator
 begin_operator
 overcome hangover lubricity sweetroll uranus mercury
 0
 2
-0 18 5 10
 0 9 2 3
+0 18 5 10
 1
 end_operator
 begin_operator
@@ -8175,24 +8175,24 @@ begin_operator
 overcome jealousy lubricity sweetroll earth mars
 0
 2
-0 19 5 10
 0 9 1 0
+0 19 5 10
 1
 end_operator
 begin_operator
 overcome jealousy lubricity sweetroll mercury earth
 0
 2
-0 19 5 10
 0 9 0 2
+0 19 5 10
 1
 end_operator
 begin_operator
 overcome jealousy lubricity sweetroll uranus mercury
 0
 2
-0 19 5 10
 0 9 2 3
+0 19 5 10
 1
 end_operator
 begin_operator
@@ -8847,24 +8847,24 @@ begin_operator
 overcome laceration lubricity sweetroll earth mars
 0
 2
-0 20 5 10
 0 9 1 0
+0 20 5 10
 1
 end_operator
 begin_operator
 overcome laceration lubricity sweetroll mercury earth
 0
 2
-0 20 5 10
 0 9 0 2
+0 20 5 10
 1
 end_operator
 begin_operator
 overcome laceration lubricity sweetroll uranus mercury
 0
 2
-0 20 5 10
 0 9 2 3
+0 20 5 10
 1
 end_operator
 begin_operator
@@ -9088,8 +9088,8 @@ overcome loneliness excitement broccoli earth mars
 1
 4 0
 2
-0 27 0 8
 0 23 1 0
+0 27 0 8
 1
 end_operator
 begin_operator
@@ -9097,8 +9097,8 @@ overcome loneliness excitement broccoli mercury earth
 1
 4 0
 2
-0 27 0 8
 0 23 0 2
+0 27 0 8
 1
 end_operator
 begin_operator
@@ -9106,8 +9106,8 @@ overcome loneliness excitement broccoli uranus mercury
 1
 4 0
 2
-0 27 0 8
 0 23 2 3
+0 27 0 8
 1
 end_operator
 begin_operator
@@ -9115,8 +9115,8 @@ overcome loneliness excitement cherry earth mars
 1
 4 1
 2
-0 27 1 8
 0 23 1 0
+0 27 1 8
 1
 end_operator
 begin_operator
@@ -9124,8 +9124,8 @@ overcome loneliness excitement cherry mercury earth
 1
 4 1
 2
-0 27 1 8
 0 23 0 2
+0 27 1 8
 1
 end_operator
 begin_operator
@@ -9133,8 +9133,8 @@ overcome loneliness excitement cherry uranus mercury
 1
 4 1
 2
-0 27 1 8
 0 23 2 3
+0 27 1 8
 1
 end_operator
 begin_operator
@@ -9142,8 +9142,8 @@ overcome loneliness excitement chocolate earth mars
 1
 4 2
 2
-0 27 2 8
 0 23 1 0
+0 27 2 8
 1
 end_operator
 begin_operator
@@ -9151,8 +9151,8 @@ overcome loneliness excitement chocolate mercury earth
 1
 4 2
 2
-0 27 2 8
 0 23 0 2
+0 27 2 8
 1
 end_operator
 begin_operator
@@ -9160,8 +9160,8 @@ overcome loneliness excitement chocolate uranus mercury
 1
 4 2
 2
-0 27 2 8
 0 23 2 3
+0 27 2 8
 1
 end_operator
 begin_operator
@@ -9169,8 +9169,8 @@ overcome loneliness excitement scallop earth mars
 1
 4 3
 2
-0 27 3 8
 0 23 1 0
+0 27 3 8
 1
 end_operator
 begin_operator
@@ -9178,8 +9178,8 @@ overcome loneliness excitement scallop mercury earth
 1
 4 3
 2
-0 27 3 8
 0 23 0 2
+0 27 3 8
 1
 end_operator
 begin_operator
@@ -9187,8 +9187,8 @@ overcome loneliness excitement scallop uranus mercury
 1
 4 3
 2
-0 27 3 8
 0 23 2 3
+0 27 3 8
 1
 end_operator
 begin_operator
@@ -9196,8 +9196,8 @@ overcome loneliness excitement shrimp earth mars
 1
 4 4
 2
-0 27 4 8
 0 23 1 0
+0 27 4 8
 1
 end_operator
 begin_operator
@@ -9205,8 +9205,8 @@ overcome loneliness excitement shrimp mercury earth
 1
 4 4
 2
-0 27 4 8
 0 23 0 2
+0 27 4 8
 1
 end_operator
 begin_operator
@@ -9214,8 +9214,8 @@ overcome loneliness excitement shrimp uranus mercury
 1
 4 4
 2
-0 27 4 8
 0 23 2 3
+0 27 4 8
 1
 end_operator
 begin_operator
@@ -9223,8 +9223,8 @@ overcome loneliness excitement sweetroll earth mars
 1
 4 5
 2
-0 27 5 8
 0 23 1 0
+0 27 5 8
 1
 end_operator
 begin_operator
@@ -9232,8 +9232,8 @@ overcome loneliness excitement sweetroll mercury earth
 1
 4 5
 2
-0 27 5 8
 0 23 0 2
+0 27 5 8
 1
 end_operator
 begin_operator
@@ -9241,8 +9241,8 @@ overcome loneliness excitement sweetroll uranus mercury
 1
 4 5
 2
-0 27 5 8
 0 23 2 3
+0 27 5 8
 1
 end_operator
 begin_operator
@@ -9250,8 +9250,8 @@ overcome loneliness excitement tuna earth mars
 1
 4 6
 2
-0 27 6 8
 0 23 1 0
+0 27 6 8
 1
 end_operator
 begin_operator
@@ -9259,8 +9259,8 @@ overcome loneliness excitement tuna mercury earth
 1
 4 6
 2
-0 27 6 8
 0 23 0 2
+0 27 6 8
 1
 end_operator
 begin_operator
@@ -9268,8 +9268,8 @@ overcome loneliness excitement tuna uranus mercury
 1
 4 6
 2
-0 27 6 8
 0 23 2 3
+0 27 6 8
 1
 end_operator
 begin_operator
@@ -9277,8 +9277,8 @@ overcome loneliness excitement turkey earth mars
 1
 4 7
 2
-0 27 7 8
 0 23 1 0
+0 27 7 8
 1
 end_operator
 begin_operator
@@ -9286,8 +9286,8 @@ overcome loneliness excitement turkey mercury earth
 1
 4 7
 2
-0 27 7 8
 0 23 0 2
+0 27 7 8
 1
 end_operator
 begin_operator
@@ -9295,8 +9295,8 @@ overcome loneliness excitement turkey uranus mercury
 1
 4 7
 2
-0 27 7 8
 0 23 2 3
+0 27 7 8
 1
 end_operator
 begin_operator
@@ -9304,8 +9304,8 @@ overcome loneliness intoxication broccoli earth mars
 1
 5 0
 2
-0 27 0 9
 0 24 1 0
+0 27 0 9
 1
 end_operator
 begin_operator
@@ -9313,8 +9313,8 @@ overcome loneliness intoxication broccoli mercury earth
 1
 5 0
 2
-0 27 0 9
 0 24 0 2
+0 27 0 9
 1
 end_operator
 begin_operator
@@ -9322,8 +9322,8 @@ overcome loneliness intoxication broccoli uranus mercury
 1
 5 0
 2
-0 27 0 9
 0 24 2 3
+0 27 0 9
 1
 end_operator
 begin_operator
@@ -9331,8 +9331,8 @@ overcome loneliness intoxication cherry earth mars
 1
 5 1
 2
-0 27 1 9
 0 24 1 0
+0 27 1 9
 1
 end_operator
 begin_operator
@@ -9340,8 +9340,8 @@ overcome loneliness intoxication cherry mercury earth
 1
 5 1
 2
-0 27 1 9
 0 24 0 2
+0 27 1 9
 1
 end_operator
 begin_operator
@@ -9349,8 +9349,8 @@ overcome loneliness intoxication cherry uranus mercury
 1
 5 1
 2
-0 27 1 9
 0 24 2 3
+0 27 1 9
 1
 end_operator
 begin_operator
@@ -9358,8 +9358,8 @@ overcome loneliness intoxication chocolate earth mars
 1
 5 2
 2
-0 27 2 9
 0 24 1 0
+0 27 2 9
 1
 end_operator
 begin_operator
@@ -9367,8 +9367,8 @@ overcome loneliness intoxication chocolate mercury earth
 1
 5 2
 2
-0 27 2 9
 0 24 0 2
+0 27 2 9
 1
 end_operator
 begin_operator
@@ -9376,8 +9376,8 @@ overcome loneliness intoxication chocolate uranus mercury
 1
 5 2
 2
-0 27 2 9
 0 24 2 3
+0 27 2 9
 1
 end_operator
 begin_operator
@@ -9385,8 +9385,8 @@ overcome loneliness intoxication scallop earth mars
 1
 5 3
 2
-0 27 3 9
 0 24 1 0
+0 27 3 9
 1
 end_operator
 begin_operator
@@ -9394,8 +9394,8 @@ overcome loneliness intoxication scallop mercury earth
 1
 5 3
 2
-0 27 3 9
 0 24 0 2
+0 27 3 9
 1
 end_operator
 begin_operator
@@ -9403,8 +9403,8 @@ overcome loneliness intoxication scallop uranus mercury
 1
 5 3
 2
-0 27 3 9
 0 24 2 3
+0 27 3 9
 1
 end_operator
 begin_operator
@@ -9412,8 +9412,8 @@ overcome loneliness intoxication shrimp earth mars
 1
 5 4
 2
-0 27 4 9
 0 24 1 0
+0 27 4 9
 1
 end_operator
 begin_operator
@@ -9421,8 +9421,8 @@ overcome loneliness intoxication shrimp mercury earth
 1
 5 4
 2
-0 27 4 9
 0 24 0 2
+0 27 4 9
 1
 end_operator
 begin_operator
@@ -9430,8 +9430,8 @@ overcome loneliness intoxication shrimp uranus mercury
 1
 5 4
 2
-0 27 4 9
 0 24 2 3
+0 27 4 9
 1
 end_operator
 begin_operator
@@ -9439,8 +9439,8 @@ overcome loneliness intoxication sweetroll earth mars
 1
 5 5
 2
-0 27 5 9
 0 24 1 0
+0 27 5 9
 1
 end_operator
 begin_operator
@@ -9448,8 +9448,8 @@ overcome loneliness intoxication sweetroll mercury earth
 1
 5 5
 2
-0 27 5 9
 0 24 0 2
+0 27 5 9
 1
 end_operator
 begin_operator
@@ -9457,8 +9457,8 @@ overcome loneliness intoxication sweetroll uranus mercury
 1
 5 5
 2
-0 27 5 9
 0 24 2 3
+0 27 5 9
 1
 end_operator
 begin_operator
@@ -9466,8 +9466,8 @@ overcome loneliness intoxication tuna earth mars
 1
 5 6
 2
-0 27 6 9
 0 24 1 0
+0 27 6 9
 1
 end_operator
 begin_operator
@@ -9475,8 +9475,8 @@ overcome loneliness intoxication tuna mercury earth
 1
 5 6
 2
-0 27 6 9
 0 24 0 2
+0 27 6 9
 1
 end_operator
 begin_operator
@@ -9484,8 +9484,8 @@ overcome loneliness intoxication tuna uranus mercury
 1
 5 6
 2
-0 27 6 9
 0 24 2 3
+0 27 6 9
 1
 end_operator
 begin_operator
@@ -9493,8 +9493,8 @@ overcome loneliness intoxication turkey earth mars
 1
 5 7
 2
-0 27 7 9
 0 24 1 0
+0 27 7 9
 1
 end_operator
 begin_operator
@@ -9502,8 +9502,8 @@ overcome loneliness intoxication turkey mercury earth
 1
 5 7
 2
-0 27 7 9
 0 24 0 2
+0 27 7 9
 1
 end_operator
 begin_operator
@@ -9511,32 +9511,32 @@ overcome loneliness intoxication turkey uranus mercury
 1
 5 7
 2
-0 27 7 9
 0 24 2 3
+0 27 7 9
 1
 end_operator
 begin_operator
 overcome loneliness lubricity sweetroll earth mars
 0
 2
-0 27 5 10
 0 9 1 0
+0 27 5 10
 1
 end_operator
 begin_operator
 overcome loneliness lubricity sweetroll mercury earth
 0
 2
-0 27 5 10
 0 9 0 2
+0 27 5 10
 1
 end_operator
 begin_operator
 overcome loneliness lubricity sweetroll uranus mercury
 0
 2
-0 27 5 10
 0 9 2 3
+0 27 5 10
 1
 end_operator
 begin_operator
@@ -9544,8 +9544,8 @@ overcome loneliness satisfaction broccoli earth mars
 1
 8 0
 2
-0 27 0 11
 0 25 1 0
+0 27 0 11
 1
 end_operator
 begin_operator
@@ -9553,8 +9553,8 @@ overcome loneliness satisfaction broccoli mercury earth
 1
 8 0
 2
-0 27 0 11
 0 25 0 2
+0 27 0 11
 1
 end_operator
 begin_operator
@@ -9562,8 +9562,8 @@ overcome loneliness satisfaction broccoli uranus mercury
 1
 8 0
 2
-0 27 0 11
 0 25 2 3
+0 27 0 11
 1
 end_operator
 begin_operator
@@ -9571,8 +9571,8 @@ overcome loneliness satisfaction cherry earth mars
 1
 8 1
 2
-0 27 1 11
 0 25 1 0
+0 27 1 11
 1
 end_operator
 begin_operator
@@ -9580,8 +9580,8 @@ overcome loneliness satisfaction cherry mercury earth
 1
 8 1
 2
-0 27 1 11
 0 25 0 2
+0 27 1 11
 1
 end_operator
 begin_operator
@@ -9589,8 +9589,8 @@ overcome loneliness satisfaction cherry uranus mercury
 1
 8 1
 2
-0 27 1 11
 0 25 2 3
+0 27 1 11
 1
 end_operator
 begin_operator
@@ -9598,8 +9598,8 @@ overcome loneliness satisfaction chocolate earth mars
 1
 8 2
 2
-0 27 2 11
 0 25 1 0
+0 27 2 11
 1
 end_operator
 begin_operator
@@ -9607,8 +9607,8 @@ overcome loneliness satisfaction chocolate mercury earth
 1
 8 2
 2
-0 27 2 11
 0 25 0 2
+0 27 2 11
 1
 end_operator
 begin_operator
@@ -9616,8 +9616,8 @@ overcome loneliness satisfaction chocolate uranus mercury
 1
 8 2
 2
-0 27 2 11
 0 25 2 3
+0 27 2 11
 1
 end_operator
 begin_operator
@@ -9625,8 +9625,8 @@ overcome loneliness satisfaction scallop earth mars
 1
 8 3
 2
-0 27 3 11
 0 25 1 0
+0 27 3 11
 1
 end_operator
 begin_operator
@@ -9634,8 +9634,8 @@ overcome loneliness satisfaction scallop mercury earth
 1
 8 3
 2
-0 27 3 11
 0 25 0 2
+0 27 3 11
 1
 end_operator
 begin_operator
@@ -9643,8 +9643,8 @@ overcome loneliness satisfaction scallop uranus mercury
 1
 8 3
 2
-0 27 3 11
 0 25 2 3
+0 27 3 11
 1
 end_operator
 begin_operator
@@ -9652,8 +9652,8 @@ overcome loneliness satisfaction shrimp earth mars
 1
 8 4
 2
-0 27 4 11
 0 25 1 0
+0 27 4 11
 1
 end_operator
 begin_operator
@@ -9661,8 +9661,8 @@ overcome loneliness satisfaction shrimp mercury earth
 1
 8 4
 2
-0 27 4 11
 0 25 0 2
+0 27 4 11
 1
 end_operator
 begin_operator
@@ -9670,8 +9670,8 @@ overcome loneliness satisfaction shrimp uranus mercury
 1
 8 4
 2
-0 27 4 11
 0 25 2 3
+0 27 4 11
 1
 end_operator
 begin_operator
@@ -9679,8 +9679,8 @@ overcome loneliness satisfaction sweetroll earth mars
 1
 8 5
 2
-0 27 5 11
 0 25 1 0
+0 27 5 11
 1
 end_operator
 begin_operator
@@ -9688,8 +9688,8 @@ overcome loneliness satisfaction sweetroll mercury earth
 1
 8 5
 2
-0 27 5 11
 0 25 0 2
+0 27 5 11
 1
 end_operator
 begin_operator
@@ -9697,8 +9697,8 @@ overcome loneliness satisfaction sweetroll uranus mercury
 1
 8 5
 2
-0 27 5 11
 0 25 2 3
+0 27 5 11
 1
 end_operator
 begin_operator
@@ -9706,8 +9706,8 @@ overcome loneliness satisfaction tuna earth mars
 1
 8 6
 2
-0 27 6 11
 0 25 1 0
+0 27 6 11
 1
 end_operator
 begin_operator
@@ -9715,8 +9715,8 @@ overcome loneliness satisfaction tuna mercury earth
 1
 8 6
 2
-0 27 6 11
 0 25 0 2
+0 27 6 11
 1
 end_operator
 begin_operator
@@ -9724,8 +9724,8 @@ overcome loneliness satisfaction tuna uranus mercury
 1
 8 6
 2
-0 27 6 11
 0 25 2 3
+0 27 6 11
 1
 end_operator
 begin_operator
@@ -9733,8 +9733,8 @@ overcome loneliness satisfaction turkey earth mars
 1
 8 7
 2
-0 27 7 11
 0 25 1 0
+0 27 7 11
 1
 end_operator
 begin_operator
@@ -9742,8 +9742,8 @@ overcome loneliness satisfaction turkey mercury earth
 1
 8 7
 2
-0 27 7 11
 0 25 0 2
+0 27 7 11
 1
 end_operator
 begin_operator
@@ -9751,8 +9751,8 @@ overcome loneliness satisfaction turkey uranus mercury
 1
 8 7
 2
-0 27 7 11
 0 25 2 3
+0 27 7 11
 1
 end_operator
 begin_operator
@@ -10191,24 +10191,24 @@ begin_operator
 overcome prostatitis lubricity sweetroll earth mars
 0
 2
-0 21 5 10
 0 9 1 0
+0 21 5 10
 1
 end_operator
 begin_operator
 overcome prostatitis lubricity sweetroll mercury earth
 0
 2
-0 21 5 10
 0 9 0 2
+0 21 5 10
 1
 end_operator
 begin_operator
 overcome prostatitis lubricity sweetroll uranus mercury
 0
 2
-0 21 5 10
 0 9 2 3
+0 21 5 10
 1
 end_operator
 begin_operator
@@ -10863,24 +10863,24 @@ begin_operator
 overcome sciatica lubricity sweetroll earth mars
 0
 2
-0 22 5 10
 0 9 1 0
+0 22 5 10
 1
 end_operator
 begin_operator
 overcome sciatica lubricity sweetroll mercury earth
 0
 2
-0 22 5 10
 0 9 0 2
+0 22 5 10
 1
 end_operator
 begin_operator
 overcome sciatica lubricity sweetroll uranus mercury
 0
 2
-0 22 5 10
 0 9 2 3
+0 22 5 10
 1
 end_operator
 begin_operator
@@ -11535,24 +11535,24 @@ begin_operator
 succumb abrasion lubricity sweetroll earth mars
 0
 2
-0 10 10 5
 0 9 0 1
+0 10 10 5
 1
 end_operator
 begin_operator
 succumb abrasion lubricity sweetroll mercury earth
 0
 2
-0 10 10 5
 0 9 2 0
+0 10 10 5
 1
 end_operator
 begin_operator
 succumb abrasion lubricity sweetroll uranus mercury
 0
 2
-0 10 10 5
 0 9 3 2
+0 10 10 5
 1
 end_operator
 begin_operator
@@ -12207,24 +12207,24 @@ begin_operator
 succumb anger lubricity sweetroll earth mars
 0
 2
-0 11 10 5
 0 9 0 1
+0 11 10 5
 1
 end_operator
 begin_operator
 succumb anger lubricity sweetroll mercury earth
 0
 2
-0 11 10 5
 0 9 2 0
+0 11 10 5
 1
 end_operator
 begin_operator
 succumb anger lubricity sweetroll uranus mercury
 0
 2
-0 11 10 5
 0 9 3 2
+0 11 10 5
 1
 end_operator
 begin_operator
@@ -12879,24 +12879,24 @@ begin_operator
 succumb angina lubricity sweetroll earth mars
 0
 2
-0 12 10 5
 0 9 0 1
+0 12 10 5
 1
 end_operator
 begin_operator
 succumb angina lubricity sweetroll mercury earth
 0
 2
-0 12 10 5
 0 9 2 0
+0 12 10 5
 1
 end_operator
 begin_operator
 succumb angina lubricity sweetroll uranus mercury
 0
 2
-0 12 10 5
 0 9 3 2
+0 12 10 5
 1
 end_operator
 begin_operator
@@ -13551,24 +13551,24 @@ begin_operator
 succumb anxiety lubricity sweetroll earth mars
 0
 2
-0 13 10 5
 0 9 0 1
+0 13 10 5
 1
 end_operator
 begin_operator
 succumb anxiety lubricity sweetroll mercury earth
 0
 2
-0 13 10 5
 0 9 2 0
+0 13 10 5
 1
 end_operator
 begin_operator
 succumb anxiety lubricity sweetroll uranus mercury
 0
 2
-0 13 10 5
 0 9 3 2
+0 13 10 5
 1
 end_operator
 begin_operator
@@ -14223,24 +14223,24 @@ begin_operator
 succumb boils lubricity sweetroll earth mars
 0
 2
-0 14 10 5
 0 9 0 1
+0 14 10 5
 1
 end_operator
 begin_operator
 succumb boils lubricity sweetroll mercury earth
 0
 2
-0 14 10 5
 0 9 2 0
+0 14 10 5
 1
 end_operator
 begin_operator
 succumb boils lubricity sweetroll uranus mercury
 0
 2
-0 14 10 5
 0 9 3 2
+0 14 10 5
 1
 end_operator
 begin_operator
@@ -14895,24 +14895,24 @@ begin_operator
 succumb depression lubricity sweetroll earth mars
 0
 2
-0 15 10 5
 0 9 0 1
+0 15 10 5
 1
 end_operator
 begin_operator
 succumb depression lubricity sweetroll mercury earth
 0
 2
-0 15 10 5
 0 9 2 0
+0 15 10 5
 1
 end_operator
 begin_operator
 succumb depression lubricity sweetroll uranus mercury
 0
 2
-0 15 10 5
 0 9 3 2
+0 15 10 5
 1
 end_operator
 begin_operator
@@ -15567,24 +15567,24 @@ begin_operator
 succumb dread lubricity sweetroll earth mars
 0
 2
-0 16 10 5
 0 9 0 1
+0 16 10 5
 1
 end_operator
 begin_operator
 succumb dread lubricity sweetroll mercury earth
 0
 2
-0 16 10 5
 0 9 2 0
+0 16 10 5
 1
 end_operator
 begin_operator
 succumb dread lubricity sweetroll uranus mercury
 0
 2
-0 16 10 5
 0 9 3 2
+0 16 10 5
 1
 end_operator
 begin_operator
@@ -15808,8 +15808,8 @@ succumb grief excitement broccoli earth mars
 1
 4 0
 2
-0 26 8 0
 0 23 0 1
+0 26 8 0
 1
 end_operator
 begin_operator
@@ -15817,8 +15817,8 @@ succumb grief excitement broccoli mercury earth
 1
 4 0
 2
-0 26 8 0
 0 23 2 0
+0 26 8 0
 1
 end_operator
 begin_operator
@@ -15826,8 +15826,8 @@ succumb grief excitement broccoli uranus mercury
 1
 4 0
 2
-0 26 8 0
 0 23 3 2
+0 26 8 0
 1
 end_operator
 begin_operator
@@ -15835,8 +15835,8 @@ succumb grief excitement cherry earth mars
 1
 4 1
 2
-0 26 8 1
 0 23 0 1
+0 26 8 1
 1
 end_operator
 begin_operator
@@ -15844,8 +15844,8 @@ succumb grief excitement cherry mercury earth
 1
 4 1
 2
-0 26 8 1
 0 23 2 0
+0 26 8 1
 1
 end_operator
 begin_operator
@@ -15853,8 +15853,8 @@ succumb grief excitement cherry uranus mercury
 1
 4 1
 2
-0 26 8 1
 0 23 3 2
+0 26 8 1
 1
 end_operator
 begin_operator
@@ -15862,8 +15862,8 @@ succumb grief excitement chocolate earth mars
 1
 4 2
 2
-0 26 8 2
 0 23 0 1
+0 26 8 2
 1
 end_operator
 begin_operator
@@ -15871,8 +15871,8 @@ succumb grief excitement chocolate mercury earth
 1
 4 2
 2
-0 26 8 2
 0 23 2 0
+0 26 8 2
 1
 end_operator
 begin_operator
@@ -15880,8 +15880,8 @@ succumb grief excitement chocolate uranus mercury
 1
 4 2
 2
-0 26 8 2
 0 23 3 2
+0 26 8 2
 1
 end_operator
 begin_operator
@@ -15889,8 +15889,8 @@ succumb grief excitement scallop earth mars
 1
 4 3
 2
-0 26 8 3
 0 23 0 1
+0 26 8 3
 1
 end_operator
 begin_operator
@@ -15898,8 +15898,8 @@ succumb grief excitement scallop mercury earth
 1
 4 3
 2
-0 26 8 3
 0 23 2 0
+0 26 8 3
 1
 end_operator
 begin_operator
@@ -15907,8 +15907,8 @@ succumb grief excitement scallop uranus mercury
 1
 4 3
 2
-0 26 8 3
 0 23 3 2
+0 26 8 3
 1
 end_operator
 begin_operator
@@ -15916,8 +15916,8 @@ succumb grief excitement shrimp earth mars
 1
 4 4
 2
-0 26 8 4
 0 23 0 1
+0 26 8 4
 1
 end_operator
 begin_operator
@@ -15925,8 +15925,8 @@ succumb grief excitement shrimp mercury earth
 1
 4 4
 2
-0 26 8 4
 0 23 2 0
+0 26 8 4
 1
 end_operator
 begin_operator
@@ -15934,8 +15934,8 @@ succumb grief excitement shrimp uranus mercury
 1
 4 4
 2
-0 26 8 4
 0 23 3 2
+0 26 8 4
 1
 end_operator
 begin_operator
@@ -15943,8 +15943,8 @@ succumb grief excitement sweetroll earth mars
 1
 4 5
 2
-0 26 8 5
 0 23 0 1
+0 26 8 5
 1
 end_operator
 begin_operator
@@ -15952,8 +15952,8 @@ succumb grief excitement sweetroll mercury earth
 1
 4 5
 2
-0 26 8 5
 0 23 2 0
+0 26 8 5
 1
 end_operator
 begin_operator
@@ -15961,8 +15961,8 @@ succumb grief excitement sweetroll uranus mercury
 1
 4 5
 2
-0 26 8 5
 0 23 3 2
+0 26 8 5
 1
 end_operator
 begin_operator
@@ -15970,8 +15970,8 @@ succumb grief excitement tuna earth mars
 1
 4 6
 2
-0 26 8 6
 0 23 0 1
+0 26 8 6
 1
 end_operator
 begin_operator
@@ -15979,8 +15979,8 @@ succumb grief excitement tuna mercury earth
 1
 4 6
 2
-0 26 8 6
 0 23 2 0
+0 26 8 6
 1
 end_operator
 begin_operator
@@ -15988,8 +15988,8 @@ succumb grief excitement tuna uranus mercury
 1
 4 6
 2
-0 26 8 6
 0 23 3 2
+0 26 8 6
 1
 end_operator
 begin_operator
@@ -15997,8 +15997,8 @@ succumb grief excitement turkey earth mars
 1
 4 7
 2
-0 26 8 7
 0 23 0 1
+0 26 8 7
 1
 end_operator
 begin_operator
@@ -16006,8 +16006,8 @@ succumb grief excitement turkey mercury earth
 1
 4 7
 2
-0 26 8 7
 0 23 2 0
+0 26 8 7
 1
 end_operator
 begin_operator
@@ -16015,8 +16015,8 @@ succumb grief excitement turkey uranus mercury
 1
 4 7
 2
-0 26 8 7
 0 23 3 2
+0 26 8 7
 1
 end_operator
 begin_operator
@@ -16024,8 +16024,8 @@ succumb grief intoxication broccoli earth mars
 1
 5 0
 2
-0 26 9 0
 0 24 0 1
+0 26 9 0
 1
 end_operator
 begin_operator
@@ -16033,8 +16033,8 @@ succumb grief intoxication broccoli mercury earth
 1
 5 0
 2
-0 26 9 0
 0 24 2 0
+0 26 9 0
 1
 end_operator
 begin_operator
@@ -16042,8 +16042,8 @@ succumb grief intoxication broccoli uranus mercury
 1
 5 0
 2
-0 26 9 0
 0 24 3 2
+0 26 9 0
 1
 end_operator
 begin_operator
@@ -16051,8 +16051,8 @@ succumb grief intoxication cherry earth mars
 1
 5 1
 2
-0 26 9 1
 0 24 0 1
+0 26 9 1
 1
 end_operator
 begin_operator
@@ -16060,8 +16060,8 @@ succumb grief intoxication cherry mercury earth
 1
 5 1
 2
-0 26 9 1
 0 24 2 0
+0 26 9 1
 1
 end_operator
 begin_operator
@@ -16069,8 +16069,8 @@ succumb grief intoxication cherry uranus mercury
 1
 5 1
 2
-0 26 9 1
 0 24 3 2
+0 26 9 1
 1
 end_operator
 begin_operator
@@ -16078,8 +16078,8 @@ succumb grief intoxication chocolate earth mars
 1
 5 2
 2
-0 26 9 2
 0 24 0 1
+0 26 9 2
 1
 end_operator
 begin_operator
@@ -16087,8 +16087,8 @@ succumb grief intoxication chocolate mercury earth
 1
 5 2
 2
-0 26 9 2
 0 24 2 0
+0 26 9 2
 1
 end_operator
 begin_operator
@@ -16096,8 +16096,8 @@ succumb grief intoxication chocolate uranus mercury
 1
 5 2
 2
-0 26 9 2
 0 24 3 2
+0 26 9 2
 1
 end_operator
 begin_operator
@@ -16105,8 +16105,8 @@ succumb grief intoxication scallop earth mars
 1
 5 3
 2
-0 26 9 3
 0 24 0 1
+0 26 9 3
 1
 end_operator
 begin_operator
@@ -16114,8 +16114,8 @@ succumb grief intoxication scallop mercury earth
 1
 5 3
 2
-0 26 9 3
 0 24 2 0
+0 26 9 3
 1
 end_operator
 begin_operator
@@ -16123,8 +16123,8 @@ succumb grief intoxication scallop uranus mercury
 1
 5 3
 2
-0 26 9 3
 0 24 3 2
+0 26 9 3
 1
 end_operator
 begin_operator
@@ -16132,8 +16132,8 @@ succumb grief intoxication shrimp earth mars
 1
 5 4
 2
-0 26 9 4
 0 24 0 1
+0 26 9 4
 1
 end_operator
 begin_operator
@@ -16141,8 +16141,8 @@ succumb grief intoxication shrimp mercury earth
 1
 5 4
 2
-0 26 9 4
 0 24 2 0
+0 26 9 4
 1
 end_operator
 begin_operator
@@ -16150,8 +16150,8 @@ succumb grief intoxication shrimp uranus mercury
 1
 5 4
 2
-0 26 9 4
 0 24 3 2
+0 26 9 4
 1
 end_operator
 begin_operator
@@ -16159,8 +16159,8 @@ succumb grief intoxication sweetroll earth mars
 1
 5 5
 2
-0 26 9 5
 0 24 0 1
+0 26 9 5
 1
 end_operator
 begin_operator
@@ -16168,8 +16168,8 @@ succumb grief intoxication sweetroll mercury earth
 1
 5 5
 2
-0 26 9 5
 0 24 2 0
+0 26 9 5
 1
 end_operator
 begin_operator
@@ -16177,8 +16177,8 @@ succumb grief intoxication sweetroll uranus mercury
 1
 5 5
 2
-0 26 9 5
 0 24 3 2
+0 26 9 5
 1
 end_operator
 begin_operator
@@ -16186,8 +16186,8 @@ succumb grief intoxication tuna earth mars
 1
 5 6
 2
-0 26 9 6
 0 24 0 1
+0 26 9 6
 1
 end_operator
 begin_operator
@@ -16195,8 +16195,8 @@ succumb grief intoxication tuna mercury earth
 1
 5 6
 2
-0 26 9 6
 0 24 2 0
+0 26 9 6
 1
 end_operator
 begin_operator
@@ -16204,8 +16204,8 @@ succumb grief intoxication tuna uranus mercury
 1
 5 6
 2
-0 26 9 6
 0 24 3 2
+0 26 9 6
 1
 end_operator
 begin_operator
@@ -16213,8 +16213,8 @@ succumb grief intoxication turkey earth mars
 1
 5 7
 2
-0 26 9 7
 0 24 0 1
+0 26 9 7
 1
 end_operator
 begin_operator
@@ -16222,8 +16222,8 @@ succumb grief intoxication turkey mercury earth
 1
 5 7
 2
-0 26 9 7
 0 24 2 0
+0 26 9 7
 1
 end_operator
 begin_operator
@@ -16231,32 +16231,32 @@ succumb grief intoxication turkey uranus mercury
 1
 5 7
 2
-0 26 9 7
 0 24 3 2
+0 26 9 7
 1
 end_operator
 begin_operator
 succumb grief lubricity sweetroll earth mars
 0
 2
-0 26 10 5
 0 9 0 1
+0 26 10 5
 1
 end_operator
 begin_operator
 succumb grief lubricity sweetroll mercury earth
 0
 2
-0 26 10 5
 0 9 2 0
+0 26 10 5
 1
 end_operator
 begin_operator
 succumb grief lubricity sweetroll uranus mercury
 0
 2
-0 26 10 5
 0 9 3 2
+0 26 10 5
 1
 end_operator
 begin_operator
@@ -16264,8 +16264,8 @@ succumb grief satisfaction broccoli earth mars
 1
 8 0
 2
-0 26 11 0
 0 25 0 1
+0 26 11 0
 1
 end_operator
 begin_operator
@@ -16273,8 +16273,8 @@ succumb grief satisfaction broccoli mercury earth
 1
 8 0
 2
-0 26 11 0
 0 25 2 0
+0 26 11 0
 1
 end_operator
 begin_operator
@@ -16282,8 +16282,8 @@ succumb grief satisfaction broccoli uranus mercury
 1
 8 0
 2
-0 26 11 0
 0 25 3 2
+0 26 11 0
 1
 end_operator
 begin_operator
@@ -16291,8 +16291,8 @@ succumb grief satisfaction cherry earth mars
 1
 8 1
 2
-0 26 11 1
 0 25 0 1
+0 26 11 1
 1
 end_operator
 begin_operator
@@ -16300,8 +16300,8 @@ succumb grief satisfaction cherry mercury earth
 1
 8 1
 2
-0 26 11 1
 0 25 2 0
+0 26 11 1
 1
 end_operator
 begin_operator
@@ -16309,8 +16309,8 @@ succumb grief satisfaction cherry uranus mercury
 1
 8 1
 2
-0 26 11 1
 0 25 3 2
+0 26 11 1
 1
 end_operator
 begin_operator
@@ -16318,8 +16318,8 @@ succumb grief satisfaction chocolate earth mars
 1
 8 2
 2
-0 26 11 2
 0 25 0 1
+0 26 11 2
 1
 end_operator
 begin_operator
@@ -16327,8 +16327,8 @@ succumb grief satisfaction chocolate mercury earth
 1
 8 2
 2
-0 26 11 2
 0 25 2 0
+0 26 11 2
 1
 end_operator
 begin_operator
@@ -16336,8 +16336,8 @@ succumb grief satisfaction chocolate uranus mercury
 1
 8 2
 2
-0 26 11 2
 0 25 3 2
+0 26 11 2
 1
 end_operator
 begin_operator
@@ -16345,8 +16345,8 @@ succumb grief satisfaction scallop earth mars
 1
 8 3
 2
-0 26 11 3
 0 25 0 1
+0 26 11 3
 1
 end_operator
 begin_operator
@@ -16354,8 +16354,8 @@ succumb grief satisfaction scallop mercury earth
 1
 8 3
 2
-0 26 11 3
 0 25 2 0
+0 26 11 3
 1
 end_operator
 begin_operator
@@ -16363,8 +16363,8 @@ succumb grief satisfaction scallop uranus mercury
 1
 8 3
 2
-0 26 11 3
 0 25 3 2
+0 26 11 3
 1
 end_operator
 begin_operator
@@ -16372,8 +16372,8 @@ succumb grief satisfaction shrimp earth mars
 1
 8 4
 2
-0 26 11 4
 0 25 0 1
+0 26 11 4
 1
 end_operator
 begin_operator
@@ -16381,8 +16381,8 @@ succumb grief satisfaction shrimp mercury earth
 1
 8 4
 2
-0 26 11 4
 0 25 2 0
+0 26 11 4
 1
 end_operator
 begin_operator
@@ -16390,8 +16390,8 @@ succumb grief satisfaction shrimp uranus mercury
 1
 8 4
 2
-0 26 11 4
 0 25 3 2
+0 26 11 4
 1
 end_operator
 begin_operator
@@ -16399,8 +16399,8 @@ succumb grief satisfaction sweetroll earth mars
 1
 8 5
 2
-0 26 11 5
 0 25 0 1
+0 26 11 5
 1
 end_operator
 begin_operator
@@ -16408,8 +16408,8 @@ succumb grief satisfaction sweetroll mercury earth
 1
 8 5
 2
-0 26 11 5
 0 25 2 0
+0 26 11 5
 1
 end_operator
 begin_operator
@@ -16417,8 +16417,8 @@ succumb grief satisfaction sweetroll uranus mercury
 1
 8 5
 2
-0 26 11 5
 0 25 3 2
+0 26 11 5
 1
 end_operator
 begin_operator
@@ -16426,8 +16426,8 @@ succumb grief satisfaction tuna earth mars
 1
 8 6
 2
-0 26 11 6
 0 25 0 1
+0 26 11 6
 1
 end_operator
 begin_operator
@@ -16435,8 +16435,8 @@ succumb grief satisfaction tuna mercury earth
 1
 8 6
 2
-0 26 11 6
 0 25 2 0
+0 26 11 6
 1
 end_operator
 begin_operator
@@ -16444,8 +16444,8 @@ succumb grief satisfaction tuna uranus mercury
 1
 8 6
 2
-0 26 11 6
 0 25 3 2
+0 26 11 6
 1
 end_operator
 begin_operator
@@ -16453,8 +16453,8 @@ succumb grief satisfaction turkey earth mars
 1
 8 7
 2
-0 26 11 7
 0 25 0 1
+0 26 11 7
 1
 end_operator
 begin_operator
@@ -16462,8 +16462,8 @@ succumb grief satisfaction turkey mercury earth
 1
 8 7
 2
-0 26 11 7
 0 25 2 0
+0 26 11 7
 1
 end_operator
 begin_operator
@@ -16471,8 +16471,8 @@ succumb grief satisfaction turkey uranus mercury
 1
 8 7
 2
-0 26 11 7
 0 25 3 2
+0 26 11 7
 1
 end_operator
 begin_operator
@@ -16911,24 +16911,24 @@ begin_operator
 succumb grief-2 lubricity sweetroll earth mars
 0
 2
-0 17 10 5
 0 9 0 1
+0 17 10 5
 1
 end_operator
 begin_operator
 succumb grief-2 lubricity sweetroll mercury earth
 0
 2
-0 17 10 5
 0 9 2 0
+0 17 10 5
 1
 end_operator
 begin_operator
 succumb grief-2 lubricity sweetroll uranus mercury
 0
 2
-0 17 10 5
 0 9 3 2
+0 17 10 5
 1
 end_operator
 begin_operator
@@ -17583,24 +17583,24 @@ begin_operator
 succumb hangover lubricity sweetroll earth mars
 0
 2
-0 18 10 5
 0 9 0 1
+0 18 10 5
 1
 end_operator
 begin_operator
 succumb hangover lubricity sweetroll mercury earth
 0
 2
-0 18 10 5
 0 9 2 0
+0 18 10 5
 1
 end_operator
 begin_operator
 succumb hangover lubricity sweetroll uranus mercury
 0
 2
-0 18 10 5
 0 9 3 2
+0 18 10 5
 1
 end_operator
 begin_operator
@@ -18255,24 +18255,24 @@ begin_operator
 succumb jealousy lubricity sweetroll earth mars
 0
 2
-0 19 10 5
 0 9 0 1
+0 19 10 5
 1
 end_operator
 begin_operator
 succumb jealousy lubricity sweetroll mercury earth
 0
 2
-0 19 10 5
 0 9 2 0
+0 19 10 5
 1
 end_operator
 begin_operator
 succumb jealousy lubricity sweetroll uranus mercury
 0
 2
-0 19 10 5
 0 9 3 2
+0 19 10 5
 1
 end_operator
 begin_operator
@@ -18927,24 +18927,24 @@ begin_operator
 succumb laceration lubricity sweetroll earth mars
 0
 2
-0 20 10 5
 0 9 0 1
+0 20 10 5
 1
 end_operator
 begin_operator
 succumb laceration lubricity sweetroll mercury earth
 0
 2
-0 20 10 5
 0 9 2 0
+0 20 10 5
 1
 end_operator
 begin_operator
 succumb laceration lubricity sweetroll uranus mercury
 0
 2
-0 20 10 5
 0 9 3 2
+0 20 10 5
 1
 end_operator
 begin_operator
@@ -19168,8 +19168,8 @@ succumb loneliness excitement broccoli earth mars
 1
 4 0
 2
-0 27 8 0
 0 23 0 1
+0 27 8 0
 1
 end_operator
 begin_operator
@@ -19177,8 +19177,8 @@ succumb loneliness excitement broccoli mercury earth
 1
 4 0
 2
-0 27 8 0
 0 23 2 0
+0 27 8 0
 1
 end_operator
 begin_operator
@@ -19186,8 +19186,8 @@ succumb loneliness excitement broccoli uranus mercury
 1
 4 0
 2
-0 27 8 0
 0 23 3 2
+0 27 8 0
 1
 end_operator
 begin_operator
@@ -19195,8 +19195,8 @@ succumb loneliness excitement cherry earth mars
 1
 4 1
 2
-0 27 8 1
 0 23 0 1
+0 27 8 1
 1
 end_operator
 begin_operator
@@ -19204,8 +19204,8 @@ succumb loneliness excitement cherry mercury earth
 1
 4 1
 2
-0 27 8 1
 0 23 2 0
+0 27 8 1
 1
 end_operator
 begin_operator
@@ -19213,8 +19213,8 @@ succumb loneliness excitement cherry uranus mercury
 1
 4 1
 2
-0 27 8 1
 0 23 3 2
+0 27 8 1
 1
 end_operator
 begin_operator
@@ -19222,8 +19222,8 @@ succumb loneliness excitement chocolate earth mars
 1
 4 2
 2
-0 27 8 2
 0 23 0 1
+0 27 8 2
 1
 end_operator
 begin_operator
@@ -19231,8 +19231,8 @@ succumb loneliness excitement chocolate mercury earth
 1
 4 2
 2
-0 27 8 2
 0 23 2 0
+0 27 8 2
 1
 end_operator
 begin_operator
@@ -19240,8 +19240,8 @@ succumb loneliness excitement chocolate uranus mercury
 1
 4 2
 2
-0 27 8 2
 0 23 3 2
+0 27 8 2
 1
 end_operator
 begin_operator
@@ -19249,8 +19249,8 @@ succumb loneliness excitement scallop earth mars
 1
 4 3
 2
-0 27 8 3
 0 23 0 1
+0 27 8 3
 1
 end_operator
 begin_operator
@@ -19258,8 +19258,8 @@ succumb loneliness excitement scallop mercury earth
 1
 4 3
 2
-0 27 8 3
 0 23 2 0
+0 27 8 3
 1
 end_operator
 begin_operator
@@ -19267,8 +19267,8 @@ succumb loneliness excitement scallop uranus mercury
 1
 4 3
 2
-0 27 8 3
 0 23 3 2
+0 27 8 3
 1
 end_operator
 begin_operator
@@ -19276,8 +19276,8 @@ succumb loneliness excitement shrimp earth mars
 1
 4 4
 2
-0 27 8 4
 0 23 0 1
+0 27 8 4
 1
 end_operator
 begin_operator
@@ -19285,8 +19285,8 @@ succumb loneliness excitement shrimp mercury earth
 1
 4 4
 2
-0 27 8 4
 0 23 2 0
+0 27 8 4
 1
 end_operator
 begin_operator
@@ -19294,8 +19294,8 @@ succumb loneliness excitement shrimp uranus mercury
 1
 4 4
 2
-0 27 8 4
 0 23 3 2
+0 27 8 4
 1
 end_operator
 begin_operator
@@ -19303,8 +19303,8 @@ succumb loneliness excitement sweetroll earth mars
 1
 4 5
 2
-0 27 8 5
 0 23 0 1
+0 27 8 5
 1
 end_operator
 begin_operator
@@ -19312,8 +19312,8 @@ succumb loneliness excitement sweetroll mercury earth
 1
 4 5
 2
-0 27 8 5
 0 23 2 0
+0 27 8 5
 1
 end_operator
 begin_operator
@@ -19321,8 +19321,8 @@ succumb loneliness excitement sweetroll uranus mercury
 1
 4 5
 2
-0 27 8 5
 0 23 3 2
+0 27 8 5
 1
 end_operator
 begin_operator
@@ -19330,8 +19330,8 @@ succumb loneliness excitement tuna earth mars
 1
 4 6
 2
-0 27 8 6
 0 23 0 1
+0 27 8 6
 1
 end_operator
 begin_operator
@@ -19339,8 +19339,8 @@ succumb loneliness excitement tuna mercury earth
 1
 4 6
 2
-0 27 8 6
 0 23 2 0
+0 27 8 6
 1
 end_operator
 begin_operator
@@ -19348,8 +19348,8 @@ succumb loneliness excitement tuna uranus mercury
 1
 4 6
 2
-0 27 8 6
 0 23 3 2
+0 27 8 6
 1
 end_operator
 begin_operator
@@ -19357,8 +19357,8 @@ succumb loneliness excitement turkey earth mars
 1
 4 7
 2
-0 27 8 7
 0 23 0 1
+0 27 8 7
 1
 end_operator
 begin_operator
@@ -19366,8 +19366,8 @@ succumb loneliness excitement turkey mercury earth
 1
 4 7
 2
-0 27 8 7
 0 23 2 0
+0 27 8 7
 1
 end_operator
 begin_operator
@@ -19375,8 +19375,8 @@ succumb loneliness excitement turkey uranus mercury
 1
 4 7
 2
-0 27 8 7
 0 23 3 2
+0 27 8 7
 1
 end_operator
 begin_operator
@@ -19384,8 +19384,8 @@ succumb loneliness intoxication broccoli earth mars
 1
 5 0
 2
-0 27 9 0
 0 24 0 1
+0 27 9 0
 1
 end_operator
 begin_operator
@@ -19393,8 +19393,8 @@ succumb loneliness intoxication broccoli mercury earth
 1
 5 0
 2
-0 27 9 0
 0 24 2 0
+0 27 9 0
 1
 end_operator
 begin_operator
@@ -19402,8 +19402,8 @@ succumb loneliness intoxication broccoli uranus mercury
 1
 5 0
 2
-0 27 9 0
 0 24 3 2
+0 27 9 0
 1
 end_operator
 begin_operator
@@ -19411,8 +19411,8 @@ succumb loneliness intoxication cherry earth mars
 1
 5 1
 2
-0 27 9 1
 0 24 0 1
+0 27 9 1
 1
 end_operator
 begin_operator
@@ -19420,8 +19420,8 @@ succumb loneliness intoxication cherry mercury earth
 1
 5 1
 2
-0 27 9 1
 0 24 2 0
+0 27 9 1
 1
 end_operator
 begin_operator
@@ -19429,8 +19429,8 @@ succumb loneliness intoxication cherry uranus mercury
 1
 5 1
 2
-0 27 9 1
 0 24 3 2
+0 27 9 1
 1
 end_operator
 begin_operator
@@ -19438,8 +19438,8 @@ succumb loneliness intoxication chocolate earth mars
 1
 5 2
 2
-0 27 9 2
 0 24 0 1
+0 27 9 2
 1
 end_operator
 begin_operator
@@ -19447,8 +19447,8 @@ succumb loneliness intoxication chocolate mercury earth
 1
 5 2
 2
-0 27 9 2
 0 24 2 0
+0 27 9 2
 1
 end_operator
 begin_operator
@@ -19456,8 +19456,8 @@ succumb loneliness intoxication chocolate uranus mercury
 1
 5 2
 2
-0 27 9 2
 0 24 3 2
+0 27 9 2
 1
 end_operator
 begin_operator
@@ -19465,8 +19465,8 @@ succumb loneliness intoxication scallop earth mars
 1
 5 3
 2
-0 27 9 3
 0 24 0 1
+0 27 9 3
 1
 end_operator
 begin_operator
@@ -19474,8 +19474,8 @@ succumb loneliness intoxication scallop mercury earth
 1
 5 3
 2
-0 27 9 3
 0 24 2 0
+0 27 9 3
 1
 end_operator
 begin_operator
@@ -19483,8 +19483,8 @@ succumb loneliness intoxication scallop uranus mercury
 1
 5 3
 2
-0 27 9 3
 0 24 3 2
+0 27 9 3
 1
 end_operator
 begin_operator
@@ -19492,8 +19492,8 @@ succumb loneliness intoxication shrimp earth mars
 1
 5 4
 2
-0 27 9 4
 0 24 0 1
+0 27 9 4
 1
 end_operator
 begin_operator
@@ -19501,8 +19501,8 @@ succumb loneliness intoxication shrimp mercury earth
 1
 5 4
 2
-0 27 9 4
 0 24 2 0
+0 27 9 4
 1
 end_operator
 begin_operator
@@ -19510,8 +19510,8 @@ succumb loneliness intoxication shrimp uranus mercury
 1
 5 4
 2
-0 27 9 4
 0 24 3 2
+0 27 9 4
 1
 end_operator
 begin_operator
@@ -19519,8 +19519,8 @@ succumb loneliness intoxication sweetroll earth mars
 1
 5 5
 2
-0 27 9 5
 0 24 0 1
+0 27 9 5
 1
 end_operator
 begin_operator
@@ -19528,8 +19528,8 @@ succumb loneliness intoxication sweetroll mercury earth
 1
 5 5
 2
-0 27 9 5
 0 24 2 0
+0 27 9 5
 1
 end_operator
 begin_operator
@@ -19537,8 +19537,8 @@ succumb loneliness intoxication sweetroll uranus mercury
 1
 5 5
 2
-0 27 9 5
 0 24 3 2
+0 27 9 5
 1
 end_operator
 begin_operator
@@ -19546,8 +19546,8 @@ succumb loneliness intoxication tuna earth mars
 1
 5 6
 2
-0 27 9 6
 0 24 0 1
+0 27 9 6
 1
 end_operator
 begin_operator
@@ -19555,8 +19555,8 @@ succumb loneliness intoxication tuna mercury earth
 1
 5 6
 2
-0 27 9 6
 0 24 2 0
+0 27 9 6
 1
 end_operator
 begin_operator
@@ -19564,8 +19564,8 @@ succumb loneliness intoxication tuna uranus mercury
 1
 5 6
 2
-0 27 9 6
 0 24 3 2
+0 27 9 6
 1
 end_operator
 begin_operator
@@ -19573,8 +19573,8 @@ succumb loneliness intoxication turkey earth mars
 1
 5 7
 2
-0 27 9 7
 0 24 0 1
+0 27 9 7
 1
 end_operator
 begin_operator
@@ -19582,8 +19582,8 @@ succumb loneliness intoxication turkey mercury earth
 1
 5 7
 2
-0 27 9 7
 0 24 2 0
+0 27 9 7
 1
 end_operator
 begin_operator
@@ -19591,32 +19591,32 @@ succumb loneliness intoxication turkey uranus mercury
 1
 5 7
 2
-0 27 9 7
 0 24 3 2
+0 27 9 7
 1
 end_operator
 begin_operator
 succumb loneliness lubricity sweetroll earth mars
 0
 2
-0 27 10 5
 0 9 0 1
+0 27 10 5
 1
 end_operator
 begin_operator
 succumb loneliness lubricity sweetroll mercury earth
 0
 2
-0 27 10 5
 0 9 2 0
+0 27 10 5
 1
 end_operator
 begin_operator
 succumb loneliness lubricity sweetroll uranus mercury
 0
 2
-0 27 10 5
 0 9 3 2
+0 27 10 5
 1
 end_operator
 begin_operator
@@ -19624,8 +19624,8 @@ succumb loneliness satisfaction broccoli earth mars
 1
 8 0
 2
-0 27 11 0
 0 25 0 1
+0 27 11 0
 1
 end_operator
 begin_operator
@@ -19633,8 +19633,8 @@ succumb loneliness satisfaction broccoli mercury earth
 1
 8 0
 2
-0 27 11 0
 0 25 2 0
+0 27 11 0
 1
 end_operator
 begin_operator
@@ -19642,8 +19642,8 @@ succumb loneliness satisfaction broccoli uranus mercury
 1
 8 0
 2
-0 27 11 0
 0 25 3 2
+0 27 11 0
 1
 end_operator
 begin_operator
@@ -19651,8 +19651,8 @@ succumb loneliness satisfaction cherry earth mars
 1
 8 1
 2
-0 27 11 1
 0 25 0 1
+0 27 11 1
 1
 end_operator
 begin_operator
@@ -19660,8 +19660,8 @@ succumb loneliness satisfaction cherry mercury earth
 1
 8 1
 2
-0 27 11 1
 0 25 2 0
+0 27 11 1
 1
 end_operator
 begin_operator
@@ -19669,8 +19669,8 @@ succumb loneliness satisfaction cherry uranus mercury
 1
 8 1
 2
-0 27 11 1
 0 25 3 2
+0 27 11 1
 1
 end_operator
 begin_operator
@@ -19678,8 +19678,8 @@ succumb loneliness satisfaction chocolate earth mars
 1
 8 2
 2
-0 27 11 2
 0 25 0 1
+0 27 11 2
 1
 end_operator
 begin_operator
@@ -19687,8 +19687,8 @@ succumb loneliness satisfaction chocolate mercury earth
 1
 8 2
 2
-0 27 11 2
 0 25 2 0
+0 27 11 2
 1
 end_operator
 begin_operator
@@ -19696,8 +19696,8 @@ succumb loneliness satisfaction chocolate uranus mercury
 1
 8 2
 2
-0 27 11 2
 0 25 3 2
+0 27 11 2
 1
 end_operator
 begin_operator
@@ -19705,8 +19705,8 @@ succumb loneliness satisfaction scallop earth mars
 1
 8 3
 2
-0 27 11 3
 0 25 0 1
+0 27 11 3
 1
 end_operator
 begin_operator
@@ -19714,8 +19714,8 @@ succumb loneliness satisfaction scallop mercury earth
 1
 8 3
 2
-0 27 11 3
 0 25 2 0
+0 27 11 3
 1
 end_operator
 begin_operator
@@ -19723,8 +19723,8 @@ succumb loneliness satisfaction scallop uranus mercury
 1
 8 3
 2
-0 27 11 3
 0 25 3 2
+0 27 11 3
 1
 end_operator
 begin_operator
@@ -19732,8 +19732,8 @@ succumb loneliness satisfaction shrimp earth mars
 1
 8 4
 2
-0 27 11 4
 0 25 0 1
+0 27 11 4
 1
 end_operator
 begin_operator
@@ -19741,8 +19741,8 @@ succumb loneliness satisfaction shrimp mercury earth
 1
 8 4
 2
-0 27 11 4
 0 25 2 0
+0 27 11 4
 1
 end_operator
 begin_operator
@@ -19750,8 +19750,8 @@ succumb loneliness satisfaction shrimp uranus mercury
 1
 8 4
 2
-0 27 11 4
 0 25 3 2
+0 27 11 4
 1
 end_operator
 begin_operator
@@ -19759,8 +19759,8 @@ succumb loneliness satisfaction sweetroll earth mars
 1
 8 5
 2
-0 27 11 5
 0 25 0 1
+0 27 11 5
 1
 end_operator
 begin_operator
@@ -19768,8 +19768,8 @@ succumb loneliness satisfaction sweetroll mercury earth
 1
 8 5
 2
-0 27 11 5
 0 25 2 0
+0 27 11 5
 1
 end_operator
 begin_operator
@@ -19777,8 +19777,8 @@ succumb loneliness satisfaction sweetroll uranus mercury
 1
 8 5
 2
-0 27 11 5
 0 25 3 2
+0 27 11 5
 1
 end_operator
 begin_operator
@@ -19786,8 +19786,8 @@ succumb loneliness satisfaction tuna earth mars
 1
 8 6
 2
-0 27 11 6
 0 25 0 1
+0 27 11 6
 1
 end_operator
 begin_operator
@@ -19795,8 +19795,8 @@ succumb loneliness satisfaction tuna mercury earth
 1
 8 6
 2
-0 27 11 6
 0 25 2 0
+0 27 11 6
 1
 end_operator
 begin_operator
@@ -19804,8 +19804,8 @@ succumb loneliness satisfaction tuna uranus mercury
 1
 8 6
 2
-0 27 11 6
 0 25 3 2
+0 27 11 6
 1
 end_operator
 begin_operator
@@ -19813,8 +19813,8 @@ succumb loneliness satisfaction turkey earth mars
 1
 8 7
 2
-0 27 11 7
 0 25 0 1
+0 27 11 7
 1
 end_operator
 begin_operator
@@ -19822,8 +19822,8 @@ succumb loneliness satisfaction turkey mercury earth
 1
 8 7
 2
-0 27 11 7
 0 25 2 0
+0 27 11 7
 1
 end_operator
 begin_operator
@@ -19831,8 +19831,8 @@ succumb loneliness satisfaction turkey uranus mercury
 1
 8 7
 2
-0 27 11 7
 0 25 3 2
+0 27 11 7
 1
 end_operator
 begin_operator
@@ -20271,24 +20271,24 @@ begin_operator
 succumb prostatitis lubricity sweetroll earth mars
 0
 2
-0 21 10 5
 0 9 0 1
+0 21 10 5
 1
 end_operator
 begin_operator
 succumb prostatitis lubricity sweetroll mercury earth
 0
 2
-0 21 10 5
 0 9 2 0
+0 21 10 5
 1
 end_operator
 begin_operator
 succumb prostatitis lubricity sweetroll uranus mercury
 0
 2
-0 21 10 5
 0 9 3 2
+0 21 10 5
 1
 end_operator
 begin_operator
@@ -20943,24 +20943,24 @@ begin_operator
 succumb sciatica lubricity sweetroll earth mars
 0
 2
-0 22 10 5
 0 9 0 1
+0 22 10 5
 1
 end_operator
 begin_operator
 succumb sciatica lubricity sweetroll mercury earth
 0
 2
-0 22 10 5
 0 9 2 0
+0 22 10 5
 1
 end_operator
 begin_operator
 succumb sciatica lubricity sweetroll uranus mercury
 0
 2
-0 22 10 5
 0 9 3 2
+0 22 10 5
 1
 end_operator
 begin_operator

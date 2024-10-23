@@ -650,111 +650,111 @@ end_variable
 82
 begin_mutex_group
 6
+2 0
+2 1
+2 2
+2 4
+2 5
 87 0
+end_mutex_group
+begin_mutex_group
+6
 2 0
 2 1
 2 2
 2 4
 2 5
-end_mutex_group
-begin_mutex_group
-6
 86 0
+end_mutex_group
+begin_mutex_group
+6
 2 0
 2 1
 2 2
 2 4
 2 5
-end_mutex_group
-begin_mutex_group
-6
 85 0
-2 0
-2 1
-2 2
-2 4
-2 5
 end_mutex_group
 begin_mutex_group
 6
+3 0
+3 1
+3 2
+3 4
+3 5
 84 0
+end_mutex_group
+begin_mutex_group
+6
 3 0
 3 1
 3 2
 3 4
 3 5
-end_mutex_group
-begin_mutex_group
-6
 83 0
+end_mutex_group
+begin_mutex_group
+6
 3 0
 3 1
 3 2
 3 4
 3 5
-end_mutex_group
-begin_mutex_group
-6
 82 0
-3 0
-3 1
-3 2
-3 4
-3 5
 end_mutex_group
 begin_mutex_group
 6
+4 0
+4 1
+4 2
+4 4
+4 5
 81 0
+end_mutex_group
+begin_mutex_group
+6
 4 0
 4 1
 4 2
 4 4
 4 5
-end_mutex_group
-begin_mutex_group
-6
 80 0
+end_mutex_group
+begin_mutex_group
+6
 4 0
 4 1
 4 2
 4 4
 4 5
-end_mutex_group
-begin_mutex_group
-6
 79 0
-4 0
-4 1
-4 2
-4 4
-4 5
 end_mutex_group
 begin_mutex_group
 6
+7 0
+7 1
+7 2
+7 4
+7 5
 78 0
+end_mutex_group
+begin_mutex_group
+6
 7 0
 7 1
 7 2
 7 4
 7 5
-end_mutex_group
-begin_mutex_group
-6
 77 0
-7 0
-7 1
-7 2
-7 4
-7 5
 end_mutex_group
 begin_mutex_group
 6
-76 0
 7 0
 7 1
 7 2
 7 4
 7 5
+76 0
 end_mutex_group
 begin_mutex_group
 6
@@ -1373,16 +1373,16 @@ begin_mutex_group
 2 4
 3 4
 4 4
-7 4
 5 0
+7 4
 end_mutex_group
 begin_mutex_group
 5
 2 5
 3 5
 4 5
-7 5
 6 0
+7 5
 end_mutex_group
 begin_state
 1
@@ -1487,9 +1487,9 @@ deliver_package1_l1_t1_t1
 1
 1 1
 3
-0 87 -1 0
 0 2 0 6
 0 75 -1 0
+0 87 -1 0
 1
 end_operator
 begin_operator
@@ -1497,9 +1497,9 @@ deliver_package1_l1_t1_t2
 1
 1 1
 3
-0 87 -1 0
 0 2 0 6
 0 74 -1 0
+0 87 -1 0
 1
 end_operator
 begin_operator
@@ -1507,9 +1507,9 @@ deliver_package1_l1_t1_t3
 1
 1 1
 3
-0 87 -1 0
 0 2 0 6
 0 73 -1 0
+0 87 -1 0
 1
 end_operator
 begin_operator
@@ -1517,9 +1517,9 @@ deliver_package1_l1_t1_t4
 1
 1 1
 3
-0 87 -1 0
 0 2 0 6
 0 72 -1 0
+0 87 -1 0
 1
 end_operator
 begin_operator
@@ -1527,9 +1527,9 @@ deliver_package1_l1_t1_t5
 1
 1 1
 3
-0 87 -1 0
 0 2 0 6
 0 71 -1 0
+0 87 -1 0
 1
 end_operator
 begin_operator
@@ -1537,9 +1537,9 @@ deliver_package1_l1_t1_t6
 1
 1 1
 3
-0 87 -1 0
 0 2 0 6
 0 70 -1 0
+0 87 -1 0
 1
 end_operator
 begin_operator
@@ -1547,9 +1547,9 @@ deliver_package1_l1_t2_t2
 1
 1 2
 3
-0 87 -1 0
 0 2 0 6
 0 74 -1 0
+0 87 -1 0
 1
 end_operator
 begin_operator
@@ -1557,9 +1557,9 @@ deliver_package1_l1_t2_t3
 1
 1 2
 3
-0 87 -1 0
 0 2 0 6
 0 73 -1 0
+0 87 -1 0
 1
 end_operator
 begin_operator
@@ -1567,9 +1567,9 @@ deliver_package1_l1_t2_t4
 1
 1 2
 3
-0 87 -1 0
 0 2 0 6
 0 72 -1 0
+0 87 -1 0
 1
 end_operator
 begin_operator
@@ -1577,9 +1577,9 @@ deliver_package1_l1_t2_t5
 1
 1 2
 3
-0 87 -1 0
 0 2 0 6
 0 71 -1 0
+0 87 -1 0
 1
 end_operator
 begin_operator
@@ -1587,9 +1587,9 @@ deliver_package1_l1_t2_t6
 1
 1 2
 3
-0 87 -1 0
 0 2 0 6
 0 70 -1 0
+0 87 -1 0
 1
 end_operator
 begin_operator
@@ -1597,9 +1597,9 @@ deliver_package1_l1_t3_t3
 1
 1 3
 3
-0 87 -1 0
 0 2 0 6
 0 73 -1 0
+0 87 -1 0
 1
 end_operator
 begin_operator
@@ -1607,9 +1607,9 @@ deliver_package1_l1_t3_t4
 1
 1 3
 3
-0 87 -1 0
 0 2 0 6
 0 72 -1 0
+0 87 -1 0
 1
 end_operator
 begin_operator
@@ -1617,9 +1617,9 @@ deliver_package1_l1_t3_t5
 1
 1 3
 3
-0 87 -1 0
 0 2 0 6
 0 71 -1 0
+0 87 -1 0
 1
 end_operator
 begin_operator
@@ -1627,9 +1627,9 @@ deliver_package1_l1_t3_t6
 1
 1 3
 3
-0 87 -1 0
 0 2 0 6
 0 70 -1 0
+0 87 -1 0
 1
 end_operator
 begin_operator
@@ -1637,9 +1637,9 @@ deliver_package1_l1_t4_t4
 1
 1 4
 3
-0 87 -1 0
 0 2 0 6
 0 72 -1 0
+0 87 -1 0
 1
 end_operator
 begin_operator
@@ -1647,9 +1647,9 @@ deliver_package1_l1_t4_t5
 1
 1 4
 3
-0 87 -1 0
 0 2 0 6
 0 71 -1 0
+0 87 -1 0
 1
 end_operator
 begin_operator
@@ -1657,9 +1657,9 @@ deliver_package1_l1_t4_t6
 1
 1 4
 3
-0 87 -1 0
 0 2 0 6
 0 70 -1 0
+0 87 -1 0
 1
 end_operator
 begin_operator
@@ -1667,9 +1667,9 @@ deliver_package1_l1_t5_t5
 1
 1 5
 3
-0 87 -1 0
 0 2 0 6
 0 71 -1 0
+0 87 -1 0
 1
 end_operator
 begin_operator
@@ -1677,9 +1677,9 @@ deliver_package1_l1_t5_t6
 1
 1 5
 3
-0 87 -1 0
 0 2 0 6
 0 70 -1 0
+0 87 -1 0
 1
 end_operator
 begin_operator
@@ -1687,9 +1687,9 @@ deliver_package1_l1_t6_t6
 1
 1 6
 3
-0 87 -1 0
 0 2 0 6
 0 70 -1 0
+0 87 -1 0
 1
 end_operator
 begin_operator
@@ -1697,9 +1697,9 @@ deliver_package1_l2_t1_t1
 1
 1 1
 3
-0 86 -1 0
 0 2 1 6
 0 69 -1 0
+0 86 -1 0
 1
 end_operator
 begin_operator
@@ -1707,9 +1707,9 @@ deliver_package1_l2_t1_t2
 1
 1 1
 3
-0 86 -1 0
 0 2 1 6
 0 68 -1 0
+0 86 -1 0
 1
 end_operator
 begin_operator
@@ -1717,9 +1717,9 @@ deliver_package1_l2_t1_t3
 1
 1 1
 3
-0 86 -1 0
 0 2 1 6
 0 67 -1 0
+0 86 -1 0
 1
 end_operator
 begin_operator
@@ -1727,9 +1727,9 @@ deliver_package1_l2_t1_t4
 1
 1 1
 3
-0 86 -1 0
 0 2 1 6
 0 66 -1 0
+0 86 -1 0
 1
 end_operator
 begin_operator
@@ -1737,9 +1737,9 @@ deliver_package1_l2_t1_t5
 1
 1 1
 3
-0 86 -1 0
 0 2 1 6
 0 65 -1 0
+0 86 -1 0
 1
 end_operator
 begin_operator
@@ -1747,9 +1747,9 @@ deliver_package1_l2_t1_t6
 1
 1 1
 3
-0 86 -1 0
 0 2 1 6
 0 64 -1 0
+0 86 -1 0
 1
 end_operator
 begin_operator
@@ -1757,9 +1757,9 @@ deliver_package1_l2_t2_t2
 1
 1 2
 3
-0 86 -1 0
 0 2 1 6
 0 68 -1 0
+0 86 -1 0
 1
 end_operator
 begin_operator
@@ -1767,9 +1767,9 @@ deliver_package1_l2_t2_t3
 1
 1 2
 3
-0 86 -1 0
 0 2 1 6
 0 67 -1 0
+0 86 -1 0
 1
 end_operator
 begin_operator
@@ -1777,9 +1777,9 @@ deliver_package1_l2_t2_t4
 1
 1 2
 3
-0 86 -1 0
 0 2 1 6
 0 66 -1 0
+0 86 -1 0
 1
 end_operator
 begin_operator
@@ -1787,9 +1787,9 @@ deliver_package1_l2_t2_t5
 1
 1 2
 3
-0 86 -1 0
 0 2 1 6
 0 65 -1 0
+0 86 -1 0
 1
 end_operator
 begin_operator
@@ -1797,9 +1797,9 @@ deliver_package1_l2_t2_t6
 1
 1 2
 3
-0 86 -1 0
 0 2 1 6
 0 64 -1 0
+0 86 -1 0
 1
 end_operator
 begin_operator
@@ -1807,9 +1807,9 @@ deliver_package1_l2_t3_t3
 1
 1 3
 3
-0 86 -1 0
 0 2 1 6
 0 67 -1 0
+0 86 -1 0
 1
 end_operator
 begin_operator
@@ -1817,9 +1817,9 @@ deliver_package1_l2_t3_t4
 1
 1 3
 3
-0 86 -1 0
 0 2 1 6
 0 66 -1 0
+0 86 -1 0
 1
 end_operator
 begin_operator
@@ -1827,9 +1827,9 @@ deliver_package1_l2_t3_t5
 1
 1 3
 3
-0 86 -1 0
 0 2 1 6
 0 65 -1 0
+0 86 -1 0
 1
 end_operator
 begin_operator
@@ -1837,9 +1837,9 @@ deliver_package1_l2_t3_t6
 1
 1 3
 3
-0 86 -1 0
 0 2 1 6
 0 64 -1 0
+0 86 -1 0
 1
 end_operator
 begin_operator
@@ -1847,9 +1847,9 @@ deliver_package1_l2_t4_t4
 1
 1 4
 3
-0 86 -1 0
 0 2 1 6
 0 66 -1 0
+0 86 -1 0
 1
 end_operator
 begin_operator
@@ -1857,9 +1857,9 @@ deliver_package1_l2_t4_t5
 1
 1 4
 3
-0 86 -1 0
 0 2 1 6
 0 65 -1 0
+0 86 -1 0
 1
 end_operator
 begin_operator
@@ -1867,9 +1867,9 @@ deliver_package1_l2_t4_t6
 1
 1 4
 3
-0 86 -1 0
 0 2 1 6
 0 64 -1 0
+0 86 -1 0
 1
 end_operator
 begin_operator
@@ -1877,9 +1877,9 @@ deliver_package1_l2_t5_t5
 1
 1 5
 3
-0 86 -1 0
 0 2 1 6
 0 65 -1 0
+0 86 -1 0
 1
 end_operator
 begin_operator
@@ -1887,9 +1887,9 @@ deliver_package1_l2_t5_t6
 1
 1 5
 3
-0 86 -1 0
 0 2 1 6
 0 64 -1 0
+0 86 -1 0
 1
 end_operator
 begin_operator
@@ -1897,9 +1897,9 @@ deliver_package1_l2_t6_t6
 1
 1 6
 3
-0 86 -1 0
 0 2 1 6
 0 64 -1 0
+0 86 -1 0
 1
 end_operator
 begin_operator
@@ -1907,9 +1907,9 @@ deliver_package1_l3_t1_t1
 1
 1 1
 3
-0 85 -1 0
 0 2 2 6
 0 63 -1 0
+0 85 -1 0
 1
 end_operator
 begin_operator
@@ -1917,9 +1917,9 @@ deliver_package1_l3_t1_t2
 1
 1 1
 3
-0 85 -1 0
 0 2 2 6
 0 62 -1 0
+0 85 -1 0
 1
 end_operator
 begin_operator
@@ -1927,9 +1927,9 @@ deliver_package1_l3_t1_t3
 1
 1 1
 3
-0 85 -1 0
 0 2 2 6
 0 61 -1 0
+0 85 -1 0
 1
 end_operator
 begin_operator
@@ -1937,9 +1937,9 @@ deliver_package1_l3_t1_t4
 1
 1 1
 3
-0 85 -1 0
 0 2 2 6
 0 60 -1 0
+0 85 -1 0
 1
 end_operator
 begin_operator
@@ -1947,9 +1947,9 @@ deliver_package1_l3_t1_t5
 1
 1 1
 3
-0 85 -1 0
 0 2 2 6
 0 59 -1 0
+0 85 -1 0
 1
 end_operator
 begin_operator
@@ -1957,8 +1957,8 @@ deliver_package1_l3_t1_t6
 1
 1 1
 2
-0 85 -1 0
 0 2 2 3
+0 85 -1 0
 1
 end_operator
 begin_operator
@@ -1966,9 +1966,9 @@ deliver_package1_l3_t2_t2
 1
 1 2
 3
-0 85 -1 0
 0 2 2 6
 0 62 -1 0
+0 85 -1 0
 1
 end_operator
 begin_operator
@@ -1976,9 +1976,9 @@ deliver_package1_l3_t2_t3
 1
 1 2
 3
-0 85 -1 0
 0 2 2 6
 0 61 -1 0
+0 85 -1 0
 1
 end_operator
 begin_operator
@@ -1986,9 +1986,9 @@ deliver_package1_l3_t2_t4
 1
 1 2
 3
-0 85 -1 0
 0 2 2 6
 0 60 -1 0
+0 85 -1 0
 1
 end_operator
 begin_operator
@@ -1996,9 +1996,9 @@ deliver_package1_l3_t2_t5
 1
 1 2
 3
-0 85 -1 0
 0 2 2 6
 0 59 -1 0
+0 85 -1 0
 1
 end_operator
 begin_operator
@@ -2006,8 +2006,8 @@ deliver_package1_l3_t2_t6
 1
 1 2
 2
-0 85 -1 0
 0 2 2 3
+0 85 -1 0
 1
 end_operator
 begin_operator
@@ -2015,9 +2015,9 @@ deliver_package1_l3_t3_t3
 1
 1 3
 3
-0 85 -1 0
 0 2 2 6
 0 61 -1 0
+0 85 -1 0
 1
 end_operator
 begin_operator
@@ -2025,9 +2025,9 @@ deliver_package1_l3_t3_t4
 1
 1 3
 3
-0 85 -1 0
 0 2 2 6
 0 60 -1 0
+0 85 -1 0
 1
 end_operator
 begin_operator
@@ -2035,9 +2035,9 @@ deliver_package1_l3_t3_t5
 1
 1 3
 3
-0 85 -1 0
 0 2 2 6
 0 59 -1 0
+0 85 -1 0
 1
 end_operator
 begin_operator
@@ -2045,8 +2045,8 @@ deliver_package1_l3_t3_t6
 1
 1 3
 2
-0 85 -1 0
 0 2 2 3
+0 85 -1 0
 1
 end_operator
 begin_operator
@@ -2054,9 +2054,9 @@ deliver_package1_l3_t4_t4
 1
 1 4
 3
-0 85 -1 0
 0 2 2 6
 0 60 -1 0
+0 85 -1 0
 1
 end_operator
 begin_operator
@@ -2064,9 +2064,9 @@ deliver_package1_l3_t4_t5
 1
 1 4
 3
-0 85 -1 0
 0 2 2 6
 0 59 -1 0
+0 85 -1 0
 1
 end_operator
 begin_operator
@@ -2074,8 +2074,8 @@ deliver_package1_l3_t4_t6
 1
 1 4
 2
-0 85 -1 0
 0 2 2 3
+0 85 -1 0
 1
 end_operator
 begin_operator
@@ -2083,9 +2083,9 @@ deliver_package1_l3_t5_t5
 1
 1 5
 3
-0 85 -1 0
 0 2 2 6
 0 59 -1 0
+0 85 -1 0
 1
 end_operator
 begin_operator
@@ -2093,8 +2093,8 @@ deliver_package1_l3_t5_t6
 1
 1 5
 2
-0 85 -1 0
 0 2 2 3
+0 85 -1 0
 1
 end_operator
 begin_operator
@@ -2102,8 +2102,8 @@ deliver_package1_l3_t6_t6
 1
 1 6
 2
-0 85 -1 0
 0 2 2 3
+0 85 -1 0
 1
 end_operator
 begin_operator
@@ -2111,9 +2111,9 @@ deliver_package2_l1_t1_t1
 1
 1 1
 3
-0 84 -1 0
 0 3 0 6
 0 58 -1 0
+0 84 -1 0
 1
 end_operator
 begin_operator
@@ -2121,9 +2121,9 @@ deliver_package2_l1_t1_t2
 1
 1 1
 3
-0 84 -1 0
 0 3 0 6
 0 57 -1 0
+0 84 -1 0
 1
 end_operator
 begin_operator
@@ -2131,9 +2131,9 @@ deliver_package2_l1_t1_t3
 1
 1 1
 3
-0 84 -1 0
 0 3 0 6
 0 56 -1 0
+0 84 -1 0
 1
 end_operator
 begin_operator
@@ -2141,9 +2141,9 @@ deliver_package2_l1_t1_t4
 1
 1 1
 3
-0 84 -1 0
 0 3 0 6
 0 55 -1 0
+0 84 -1 0
 1
 end_operator
 begin_operator
@@ -2151,9 +2151,9 @@ deliver_package2_l1_t1_t5
 1
 1 1
 3
-0 84 -1 0
 0 3 0 6
 0 54 -1 0
+0 84 -1 0
 1
 end_operator
 begin_operator
@@ -2161,9 +2161,9 @@ deliver_package2_l1_t1_t6
 1
 1 1
 3
-0 84 -1 0
 0 3 0 6
 0 53 -1 0
+0 84 -1 0
 1
 end_operator
 begin_operator
@@ -2171,9 +2171,9 @@ deliver_package2_l1_t2_t2
 1
 1 2
 3
-0 84 -1 0
 0 3 0 6
 0 57 -1 0
+0 84 -1 0
 1
 end_operator
 begin_operator
@@ -2181,9 +2181,9 @@ deliver_package2_l1_t2_t3
 1
 1 2
 3
-0 84 -1 0
 0 3 0 6
 0 56 -1 0
+0 84 -1 0
 1
 end_operator
 begin_operator
@@ -2191,9 +2191,9 @@ deliver_package2_l1_t2_t4
 1
 1 2
 3
-0 84 -1 0
 0 3 0 6
 0 55 -1 0
+0 84 -1 0
 1
 end_operator
 begin_operator
@@ -2201,9 +2201,9 @@ deliver_package2_l1_t2_t5
 1
 1 2
 3
-0 84 -1 0
 0 3 0 6
 0 54 -1 0
+0 84 -1 0
 1
 end_operator
 begin_operator
@@ -2211,9 +2211,9 @@ deliver_package2_l1_t2_t6
 1
 1 2
 3
-0 84 -1 0
 0 3 0 6
 0 53 -1 0
+0 84 -1 0
 1
 end_operator
 begin_operator
@@ -2221,9 +2221,9 @@ deliver_package2_l1_t3_t3
 1
 1 3
 3
-0 84 -1 0
 0 3 0 6
 0 56 -1 0
+0 84 -1 0
 1
 end_operator
 begin_operator
@@ -2231,9 +2231,9 @@ deliver_package2_l1_t3_t4
 1
 1 3
 3
-0 84 -1 0
 0 3 0 6
 0 55 -1 0
+0 84 -1 0
 1
 end_operator
 begin_operator
@@ -2241,9 +2241,9 @@ deliver_package2_l1_t3_t5
 1
 1 3
 3
-0 84 -1 0
 0 3 0 6
 0 54 -1 0
+0 84 -1 0
 1
 end_operator
 begin_operator
@@ -2251,9 +2251,9 @@ deliver_package2_l1_t3_t6
 1
 1 3
 3
-0 84 -1 0
 0 3 0 6
 0 53 -1 0
+0 84 -1 0
 1
 end_operator
 begin_operator
@@ -2261,9 +2261,9 @@ deliver_package2_l1_t4_t4
 1
 1 4
 3
-0 84 -1 0
 0 3 0 6
 0 55 -1 0
+0 84 -1 0
 1
 end_operator
 begin_operator
@@ -2271,9 +2271,9 @@ deliver_package2_l1_t4_t5
 1
 1 4
 3
-0 84 -1 0
 0 3 0 6
 0 54 -1 0
+0 84 -1 0
 1
 end_operator
 begin_operator
@@ -2281,9 +2281,9 @@ deliver_package2_l1_t4_t6
 1
 1 4
 3
-0 84 -1 0
 0 3 0 6
 0 53 -1 0
+0 84 -1 0
 1
 end_operator
 begin_operator
@@ -2291,9 +2291,9 @@ deliver_package2_l1_t5_t5
 1
 1 5
 3
-0 84 -1 0
 0 3 0 6
 0 54 -1 0
+0 84 -1 0
 1
 end_operator
 begin_operator
@@ -2301,9 +2301,9 @@ deliver_package2_l1_t5_t6
 1
 1 5
 3
-0 84 -1 0
 0 3 0 6
 0 53 -1 0
+0 84 -1 0
 1
 end_operator
 begin_operator
@@ -2311,9 +2311,9 @@ deliver_package2_l1_t6_t6
 1
 1 6
 3
-0 84 -1 0
 0 3 0 6
 0 53 -1 0
+0 84 -1 0
 1
 end_operator
 begin_operator
@@ -2321,9 +2321,9 @@ deliver_package2_l2_t1_t1
 1
 1 1
 3
-0 83 -1 0
 0 3 1 6
 0 52 -1 0
+0 83 -1 0
 1
 end_operator
 begin_operator
@@ -2331,9 +2331,9 @@ deliver_package2_l2_t1_t2
 1
 1 1
 3
-0 83 -1 0
 0 3 1 6
 0 51 -1 0
+0 83 -1 0
 1
 end_operator
 begin_operator
@@ -2341,9 +2341,9 @@ deliver_package2_l2_t1_t3
 1
 1 1
 3
-0 83 -1 0
 0 3 1 6
 0 50 -1 0
+0 83 -1 0
 1
 end_operator
 begin_operator
@@ -2351,9 +2351,9 @@ deliver_package2_l2_t1_t4
 1
 1 1
 3
-0 83 -1 0
 0 3 1 6
 0 49 -1 0
+0 83 -1 0
 1
 end_operator
 begin_operator
@@ -2361,9 +2361,9 @@ deliver_package2_l2_t1_t5
 1
 1 1
 3
-0 83 -1 0
 0 3 1 6
 0 48 -1 0
+0 83 -1 0
 1
 end_operator
 begin_operator
@@ -2371,9 +2371,9 @@ deliver_package2_l2_t1_t6
 1
 1 1
 3
-0 83 -1 0
 0 3 1 6
 0 47 -1 0
+0 83 -1 0
 1
 end_operator
 begin_operator
@@ -2381,9 +2381,9 @@ deliver_package2_l2_t2_t2
 1
 1 2
 3
-0 83 -1 0
 0 3 1 6
 0 51 -1 0
+0 83 -1 0
 1
 end_operator
 begin_operator
@@ -2391,9 +2391,9 @@ deliver_package2_l2_t2_t3
 1
 1 2
 3
-0 83 -1 0
 0 3 1 6
 0 50 -1 0
+0 83 -1 0
 1
 end_operator
 begin_operator
@@ -2401,9 +2401,9 @@ deliver_package2_l2_t2_t4
 1
 1 2
 3
-0 83 -1 0
 0 3 1 6
 0 49 -1 0
+0 83 -1 0
 1
 end_operator
 begin_operator
@@ -2411,9 +2411,9 @@ deliver_package2_l2_t2_t5
 1
 1 2
 3
-0 83 -1 0
 0 3 1 6
 0 48 -1 0
+0 83 -1 0
 1
 end_operator
 begin_operator
@@ -2421,9 +2421,9 @@ deliver_package2_l2_t2_t6
 1
 1 2
 3
-0 83 -1 0
 0 3 1 6
 0 47 -1 0
+0 83 -1 0
 1
 end_operator
 begin_operator
@@ -2431,9 +2431,9 @@ deliver_package2_l2_t3_t3
 1
 1 3
 3
-0 83 -1 0
 0 3 1 6
 0 50 -1 0
+0 83 -1 0
 1
 end_operator
 begin_operator
@@ -2441,9 +2441,9 @@ deliver_package2_l2_t3_t4
 1
 1 3
 3
-0 83 -1 0
 0 3 1 6
 0 49 -1 0
+0 83 -1 0
 1
 end_operator
 begin_operator
@@ -2451,9 +2451,9 @@ deliver_package2_l2_t3_t5
 1
 1 3
 3
-0 83 -1 0
 0 3 1 6
 0 48 -1 0
+0 83 -1 0
 1
 end_operator
 begin_operator
@@ -2461,9 +2461,9 @@ deliver_package2_l2_t3_t6
 1
 1 3
 3
-0 83 -1 0
 0 3 1 6
 0 47 -1 0
+0 83 -1 0
 1
 end_operator
 begin_operator
@@ -2471,9 +2471,9 @@ deliver_package2_l2_t4_t4
 1
 1 4
 3
-0 83 -1 0
 0 3 1 6
 0 49 -1 0
+0 83 -1 0
 1
 end_operator
 begin_operator
@@ -2481,9 +2481,9 @@ deliver_package2_l2_t4_t5
 1
 1 4
 3
-0 83 -1 0
 0 3 1 6
 0 48 -1 0
+0 83 -1 0
 1
 end_operator
 begin_operator
@@ -2491,9 +2491,9 @@ deliver_package2_l2_t4_t6
 1
 1 4
 3
-0 83 -1 0
 0 3 1 6
 0 47 -1 0
+0 83 -1 0
 1
 end_operator
 begin_operator
@@ -2501,9 +2501,9 @@ deliver_package2_l2_t5_t5
 1
 1 5
 3
-0 83 -1 0
 0 3 1 6
 0 48 -1 0
+0 83 -1 0
 1
 end_operator
 begin_operator
@@ -2511,9 +2511,9 @@ deliver_package2_l2_t5_t6
 1
 1 5
 3
-0 83 -1 0
 0 3 1 6
 0 47 -1 0
+0 83 -1 0
 1
 end_operator
 begin_operator
@@ -2521,9 +2521,9 @@ deliver_package2_l2_t6_t6
 1
 1 6
 3
-0 83 -1 0
 0 3 1 6
 0 47 -1 0
+0 83 -1 0
 1
 end_operator
 begin_operator
@@ -2531,9 +2531,9 @@ deliver_package2_l3_t1_t1
 1
 1 1
 3
-0 82 -1 0
 0 3 2 6
 0 46 -1 0
+0 82 -1 0
 1
 end_operator
 begin_operator
@@ -2541,9 +2541,9 @@ deliver_package2_l3_t1_t2
 1
 1 1
 3
-0 82 -1 0
 0 3 2 6
 0 45 -1 0
+0 82 -1 0
 1
 end_operator
 begin_operator
@@ -2551,9 +2551,9 @@ deliver_package2_l3_t1_t3
 1
 1 1
 3
-0 82 -1 0
 0 3 2 6
 0 44 -1 0
+0 82 -1 0
 1
 end_operator
 begin_operator
@@ -2561,9 +2561,9 @@ deliver_package2_l3_t1_t4
 1
 1 1
 3
-0 82 -1 0
 0 3 2 6
 0 43 -1 0
+0 82 -1 0
 1
 end_operator
 begin_operator
@@ -2571,9 +2571,9 @@ deliver_package2_l3_t1_t5
 1
 1 1
 3
-0 82 -1 0
 0 3 2 6
 0 42 -1 0
+0 82 -1 0
 1
 end_operator
 begin_operator
@@ -2581,8 +2581,8 @@ deliver_package2_l3_t1_t6
 1
 1 1
 2
-0 82 -1 0
 0 3 2 3
+0 82 -1 0
 1
 end_operator
 begin_operator
@@ -2590,9 +2590,9 @@ deliver_package2_l3_t2_t2
 1
 1 2
 3
-0 82 -1 0
 0 3 2 6
 0 45 -1 0
+0 82 -1 0
 1
 end_operator
 begin_operator
@@ -2600,9 +2600,9 @@ deliver_package2_l3_t2_t3
 1
 1 2
 3
-0 82 -1 0
 0 3 2 6
 0 44 -1 0
+0 82 -1 0
 1
 end_operator
 begin_operator
@@ -2610,9 +2610,9 @@ deliver_package2_l3_t2_t4
 1
 1 2
 3
-0 82 -1 0
 0 3 2 6
 0 43 -1 0
+0 82 -1 0
 1
 end_operator
 begin_operator
@@ -2620,9 +2620,9 @@ deliver_package2_l3_t2_t5
 1
 1 2
 3
-0 82 -1 0
 0 3 2 6
 0 42 -1 0
+0 82 -1 0
 1
 end_operator
 begin_operator
@@ -2630,8 +2630,8 @@ deliver_package2_l3_t2_t6
 1
 1 2
 2
-0 82 -1 0
 0 3 2 3
+0 82 -1 0
 1
 end_operator
 begin_operator
@@ -2639,9 +2639,9 @@ deliver_package2_l3_t3_t3
 1
 1 3
 3
-0 82 -1 0
 0 3 2 6
 0 44 -1 0
+0 82 -1 0
 1
 end_operator
 begin_operator
@@ -2649,9 +2649,9 @@ deliver_package2_l3_t3_t4
 1
 1 3
 3
-0 82 -1 0
 0 3 2 6
 0 43 -1 0
+0 82 -1 0
 1
 end_operator
 begin_operator
@@ -2659,9 +2659,9 @@ deliver_package2_l3_t3_t5
 1
 1 3
 3
-0 82 -1 0
 0 3 2 6
 0 42 -1 0
+0 82 -1 0
 1
 end_operator
 begin_operator
@@ -2669,8 +2669,8 @@ deliver_package2_l3_t3_t6
 1
 1 3
 2
-0 82 -1 0
 0 3 2 3
+0 82 -1 0
 1
 end_operator
 begin_operator
@@ -2678,9 +2678,9 @@ deliver_package2_l3_t4_t4
 1
 1 4
 3
-0 82 -1 0
 0 3 2 6
 0 43 -1 0
+0 82 -1 0
 1
 end_operator
 begin_operator
@@ -2688,9 +2688,9 @@ deliver_package2_l3_t4_t5
 1
 1 4
 3
-0 82 -1 0
 0 3 2 6
 0 42 -1 0
+0 82 -1 0
 1
 end_operator
 begin_operator
@@ -2698,8 +2698,8 @@ deliver_package2_l3_t4_t6
 1
 1 4
 2
-0 82 -1 0
 0 3 2 3
+0 82 -1 0
 1
 end_operator
 begin_operator
@@ -2707,9 +2707,9 @@ deliver_package2_l3_t5_t5
 1
 1 5
 3
-0 82 -1 0
 0 3 2 6
 0 42 -1 0
+0 82 -1 0
 1
 end_operator
 begin_operator
@@ -2717,8 +2717,8 @@ deliver_package2_l3_t5_t6
 1
 1 5
 2
-0 82 -1 0
 0 3 2 3
+0 82 -1 0
 1
 end_operator
 begin_operator
@@ -2726,8 +2726,8 @@ deliver_package2_l3_t6_t6
 1
 1 6
 2
-0 82 -1 0
 0 3 2 3
+0 82 -1 0
 1
 end_operator
 begin_operator
@@ -2735,9 +2735,9 @@ deliver_package3_l1_t1_t1
 1
 1 1
 3
-0 81 -1 0
 0 4 0 6
 0 41 -1 0
+0 81 -1 0
 1
 end_operator
 begin_operator
@@ -2745,9 +2745,9 @@ deliver_package3_l1_t1_t2
 1
 1 1
 3
-0 81 -1 0
 0 4 0 6
 0 40 -1 0
+0 81 -1 0
 1
 end_operator
 begin_operator
@@ -2755,9 +2755,9 @@ deliver_package3_l1_t1_t3
 1
 1 1
 3
-0 81 -1 0
 0 4 0 6
 0 39 -1 0
+0 81 -1 0
 1
 end_operator
 begin_operator
@@ -2765,9 +2765,9 @@ deliver_package3_l1_t1_t4
 1
 1 1
 3
-0 81 -1 0
 0 4 0 6
 0 38 -1 0
+0 81 -1 0
 1
 end_operator
 begin_operator
@@ -2775,9 +2775,9 @@ deliver_package3_l1_t1_t5
 1
 1 1
 3
-0 81 -1 0
 0 4 0 6
 0 37 -1 0
+0 81 -1 0
 1
 end_operator
 begin_operator
@@ -2785,9 +2785,9 @@ deliver_package3_l1_t1_t6
 1
 1 1
 3
-0 81 -1 0
 0 4 0 6
 0 36 -1 0
+0 81 -1 0
 1
 end_operator
 begin_operator
@@ -2795,9 +2795,9 @@ deliver_package3_l1_t2_t2
 1
 1 2
 3
-0 81 -1 0
 0 4 0 6
 0 40 -1 0
+0 81 -1 0
 1
 end_operator
 begin_operator
@@ -2805,9 +2805,9 @@ deliver_package3_l1_t2_t3
 1
 1 2
 3
-0 81 -1 0
 0 4 0 6
 0 39 -1 0
+0 81 -1 0
 1
 end_operator
 begin_operator
@@ -2815,9 +2815,9 @@ deliver_package3_l1_t2_t4
 1
 1 2
 3
-0 81 -1 0
 0 4 0 6
 0 38 -1 0
+0 81 -1 0
 1
 end_operator
 begin_operator
@@ -2825,9 +2825,9 @@ deliver_package3_l1_t2_t5
 1
 1 2
 3
-0 81 -1 0
 0 4 0 6
 0 37 -1 0
+0 81 -1 0
 1
 end_operator
 begin_operator
@@ -2835,9 +2835,9 @@ deliver_package3_l1_t2_t6
 1
 1 2
 3
-0 81 -1 0
 0 4 0 6
 0 36 -1 0
+0 81 -1 0
 1
 end_operator
 begin_operator
@@ -2845,9 +2845,9 @@ deliver_package3_l1_t3_t3
 1
 1 3
 3
-0 81 -1 0
 0 4 0 6
 0 39 -1 0
+0 81 -1 0
 1
 end_operator
 begin_operator
@@ -2855,9 +2855,9 @@ deliver_package3_l1_t3_t4
 1
 1 3
 3
-0 81 -1 0
 0 4 0 6
 0 38 -1 0
+0 81 -1 0
 1
 end_operator
 begin_operator
@@ -2865,9 +2865,9 @@ deliver_package3_l1_t3_t5
 1
 1 3
 3
-0 81 -1 0
 0 4 0 6
 0 37 -1 0
+0 81 -1 0
 1
 end_operator
 begin_operator
@@ -2875,9 +2875,9 @@ deliver_package3_l1_t3_t6
 1
 1 3
 3
-0 81 -1 0
 0 4 0 6
 0 36 -1 0
+0 81 -1 0
 1
 end_operator
 begin_operator
@@ -2885,9 +2885,9 @@ deliver_package3_l1_t4_t4
 1
 1 4
 3
-0 81 -1 0
 0 4 0 6
 0 38 -1 0
+0 81 -1 0
 1
 end_operator
 begin_operator
@@ -2895,9 +2895,9 @@ deliver_package3_l1_t4_t5
 1
 1 4
 3
-0 81 -1 0
 0 4 0 6
 0 37 -1 0
+0 81 -1 0
 1
 end_operator
 begin_operator
@@ -2905,9 +2905,9 @@ deliver_package3_l1_t4_t6
 1
 1 4
 3
-0 81 -1 0
 0 4 0 6
 0 36 -1 0
+0 81 -1 0
 1
 end_operator
 begin_operator
@@ -2915,9 +2915,9 @@ deliver_package3_l1_t5_t5
 1
 1 5
 3
-0 81 -1 0
 0 4 0 6
 0 37 -1 0
+0 81 -1 0
 1
 end_operator
 begin_operator
@@ -2925,9 +2925,9 @@ deliver_package3_l1_t5_t6
 1
 1 5
 3
-0 81 -1 0
 0 4 0 6
 0 36 -1 0
+0 81 -1 0
 1
 end_operator
 begin_operator
@@ -2935,9 +2935,9 @@ deliver_package3_l1_t6_t6
 1
 1 6
 3
-0 81 -1 0
 0 4 0 6
 0 36 -1 0
+0 81 -1 0
 1
 end_operator
 begin_operator
@@ -2945,9 +2945,9 @@ deliver_package3_l2_t1_t1
 1
 1 1
 3
-0 80 -1 0
 0 4 1 6
 0 35 -1 0
+0 80 -1 0
 1
 end_operator
 begin_operator
@@ -2955,9 +2955,9 @@ deliver_package3_l2_t1_t2
 1
 1 1
 3
-0 80 -1 0
 0 4 1 6
 0 34 -1 0
+0 80 -1 0
 1
 end_operator
 begin_operator
@@ -2965,9 +2965,9 @@ deliver_package3_l2_t1_t3
 1
 1 1
 3
-0 80 -1 0
 0 4 1 6
 0 33 -1 0
+0 80 -1 0
 1
 end_operator
 begin_operator
@@ -2975,9 +2975,9 @@ deliver_package3_l2_t1_t4
 1
 1 1
 3
-0 80 -1 0
 0 4 1 6
 0 32 -1 0
+0 80 -1 0
 1
 end_operator
 begin_operator
@@ -2985,9 +2985,9 @@ deliver_package3_l2_t1_t5
 1
 1 1
 3
-0 80 -1 0
 0 4 1 6
 0 31 -1 0
+0 80 -1 0
 1
 end_operator
 begin_operator
@@ -2995,9 +2995,9 @@ deliver_package3_l2_t1_t6
 1
 1 1
 3
-0 80 -1 0
 0 4 1 6
 0 30 -1 0
+0 80 -1 0
 1
 end_operator
 begin_operator
@@ -3005,9 +3005,9 @@ deliver_package3_l2_t2_t2
 1
 1 2
 3
-0 80 -1 0
 0 4 1 6
 0 34 -1 0
+0 80 -1 0
 1
 end_operator
 begin_operator
@@ -3015,9 +3015,9 @@ deliver_package3_l2_t2_t3
 1
 1 2
 3
-0 80 -1 0
 0 4 1 6
 0 33 -1 0
+0 80 -1 0
 1
 end_operator
 begin_operator
@@ -3025,9 +3025,9 @@ deliver_package3_l2_t2_t4
 1
 1 2
 3
-0 80 -1 0
 0 4 1 6
 0 32 -1 0
+0 80 -1 0
 1
 end_operator
 begin_operator
@@ -3035,9 +3035,9 @@ deliver_package3_l2_t2_t5
 1
 1 2
 3
-0 80 -1 0
 0 4 1 6
 0 31 -1 0
+0 80 -1 0
 1
 end_operator
 begin_operator
@@ -3045,9 +3045,9 @@ deliver_package3_l2_t2_t6
 1
 1 2
 3
-0 80 -1 0
 0 4 1 6
 0 30 -1 0
+0 80 -1 0
 1
 end_operator
 begin_operator
@@ -3055,9 +3055,9 @@ deliver_package3_l2_t3_t3
 1
 1 3
 3
-0 80 -1 0
 0 4 1 6
 0 33 -1 0
+0 80 -1 0
 1
 end_operator
 begin_operator
@@ -3065,9 +3065,9 @@ deliver_package3_l2_t3_t4
 1
 1 3
 3
-0 80 -1 0
 0 4 1 6
 0 32 -1 0
+0 80 -1 0
 1
 end_operator
 begin_operator
@@ -3075,9 +3075,9 @@ deliver_package3_l2_t3_t5
 1
 1 3
 3
-0 80 -1 0
 0 4 1 6
 0 31 -1 0
+0 80 -1 0
 1
 end_operator
 begin_operator
@@ -3085,9 +3085,9 @@ deliver_package3_l2_t3_t6
 1
 1 3
 3
-0 80 -1 0
 0 4 1 6
 0 30 -1 0
+0 80 -1 0
 1
 end_operator
 begin_operator
@@ -3095,9 +3095,9 @@ deliver_package3_l2_t4_t4
 1
 1 4
 3
-0 80 -1 0
 0 4 1 6
 0 32 -1 0
+0 80 -1 0
 1
 end_operator
 begin_operator
@@ -3105,9 +3105,9 @@ deliver_package3_l2_t4_t5
 1
 1 4
 3
-0 80 -1 0
 0 4 1 6
 0 31 -1 0
+0 80 -1 0
 1
 end_operator
 begin_operator
@@ -3115,9 +3115,9 @@ deliver_package3_l2_t4_t6
 1
 1 4
 3
-0 80 -1 0
 0 4 1 6
 0 30 -1 0
+0 80 -1 0
 1
 end_operator
 begin_operator
@@ -3125,9 +3125,9 @@ deliver_package3_l2_t5_t5
 1
 1 5
 3
-0 80 -1 0
 0 4 1 6
 0 31 -1 0
+0 80 -1 0
 1
 end_operator
 begin_operator
@@ -3135,9 +3135,9 @@ deliver_package3_l2_t5_t6
 1
 1 5
 3
-0 80 -1 0
 0 4 1 6
 0 30 -1 0
+0 80 -1 0
 1
 end_operator
 begin_operator
@@ -3145,9 +3145,9 @@ deliver_package3_l2_t6_t6
 1
 1 6
 3
-0 80 -1 0
 0 4 1 6
 0 30 -1 0
+0 80 -1 0
 1
 end_operator
 begin_operator
@@ -3155,9 +3155,9 @@ deliver_package3_l3_t1_t1
 1
 1 1
 3
-0 79 -1 0
 0 4 2 6
 0 29 -1 0
+0 79 -1 0
 1
 end_operator
 begin_operator
@@ -3165,9 +3165,9 @@ deliver_package3_l3_t1_t2
 1
 1 1
 3
-0 79 -1 0
 0 4 2 6
 0 28 -1 0
+0 79 -1 0
 1
 end_operator
 begin_operator
@@ -3175,9 +3175,9 @@ deliver_package3_l3_t1_t3
 1
 1 1
 3
-0 79 -1 0
 0 4 2 6
 0 27 -1 0
+0 79 -1 0
 1
 end_operator
 begin_operator
@@ -3185,9 +3185,9 @@ deliver_package3_l3_t1_t4
 1
 1 1
 3
-0 79 -1 0
 0 4 2 6
 0 26 -1 0
+0 79 -1 0
 1
 end_operator
 begin_operator
@@ -3195,9 +3195,9 @@ deliver_package3_l3_t1_t5
 1
 1 1
 3
-0 79 -1 0
 0 4 2 6
 0 25 -1 0
+0 79 -1 0
 1
 end_operator
 begin_operator
@@ -3205,8 +3205,8 @@ deliver_package3_l3_t1_t6
 1
 1 1
 2
-0 79 -1 0
 0 4 2 3
+0 79 -1 0
 1
 end_operator
 begin_operator
@@ -3214,9 +3214,9 @@ deliver_package3_l3_t2_t2
 1
 1 2
 3
-0 79 -1 0
 0 4 2 6
 0 28 -1 0
+0 79 -1 0
 1
 end_operator
 begin_operator
@@ -3224,9 +3224,9 @@ deliver_package3_l3_t2_t3
 1
 1 2
 3
-0 79 -1 0
 0 4 2 6
 0 27 -1 0
+0 79 -1 0
 1
 end_operator
 begin_operator
@@ -3234,9 +3234,9 @@ deliver_package3_l3_t2_t4
 1
 1 2
 3
-0 79 -1 0
 0 4 2 6
 0 26 -1 0
+0 79 -1 0
 1
 end_operator
 begin_operator
@@ -3244,9 +3244,9 @@ deliver_package3_l3_t2_t5
 1
 1 2
 3
-0 79 -1 0
 0 4 2 6
 0 25 -1 0
+0 79 -1 0
 1
 end_operator
 begin_operator
@@ -3254,8 +3254,8 @@ deliver_package3_l3_t2_t6
 1
 1 2
 2
-0 79 -1 0
 0 4 2 3
+0 79 -1 0
 1
 end_operator
 begin_operator
@@ -3263,9 +3263,9 @@ deliver_package3_l3_t3_t3
 1
 1 3
 3
-0 79 -1 0
 0 4 2 6
 0 27 -1 0
+0 79 -1 0
 1
 end_operator
 begin_operator
@@ -3273,9 +3273,9 @@ deliver_package3_l3_t3_t4
 1
 1 3
 3
-0 79 -1 0
 0 4 2 6
 0 26 -1 0
+0 79 -1 0
 1
 end_operator
 begin_operator
@@ -3283,9 +3283,9 @@ deliver_package3_l3_t3_t5
 1
 1 3
 3
-0 79 -1 0
 0 4 2 6
 0 25 -1 0
+0 79 -1 0
 1
 end_operator
 begin_operator
@@ -3293,8 +3293,8 @@ deliver_package3_l3_t3_t6
 1
 1 3
 2
-0 79 -1 0
 0 4 2 3
+0 79 -1 0
 1
 end_operator
 begin_operator
@@ -3302,9 +3302,9 @@ deliver_package3_l3_t4_t4
 1
 1 4
 3
-0 79 -1 0
 0 4 2 6
 0 26 -1 0
+0 79 -1 0
 1
 end_operator
 begin_operator
@@ -3312,9 +3312,9 @@ deliver_package3_l3_t4_t5
 1
 1 4
 3
-0 79 -1 0
 0 4 2 6
 0 25 -1 0
+0 79 -1 0
 1
 end_operator
 begin_operator
@@ -3322,8 +3322,8 @@ deliver_package3_l3_t4_t6
 1
 1 4
 2
-0 79 -1 0
 0 4 2 3
+0 79 -1 0
 1
 end_operator
 begin_operator
@@ -3331,9 +3331,9 @@ deliver_package3_l3_t5_t5
 1
 1 5
 3
-0 79 -1 0
 0 4 2 6
 0 25 -1 0
+0 79 -1 0
 1
 end_operator
 begin_operator
@@ -3341,8 +3341,8 @@ deliver_package3_l3_t5_t6
 1
 1 5
 2
-0 79 -1 0
 0 4 2 3
+0 79 -1 0
 1
 end_operator
 begin_operator
@@ -3350,8 +3350,8 @@ deliver_package3_l3_t6_t6
 1
 1 6
 2
-0 79 -1 0
 0 4 2 3
+0 79 -1 0
 1
 end_operator
 begin_operator
@@ -3359,9 +3359,9 @@ deliver_package4_l1_t1_t1
 1
 1 1
 3
-0 78 -1 0
 0 7 0 6
 0 24 -1 0
+0 78 -1 0
 1
 end_operator
 begin_operator
@@ -3369,9 +3369,9 @@ deliver_package4_l1_t1_t2
 1
 1 1
 3
-0 78 -1 0
 0 7 0 6
 0 23 -1 0
+0 78 -1 0
 1
 end_operator
 begin_operator
@@ -3379,9 +3379,9 @@ deliver_package4_l1_t1_t3
 1
 1 1
 3
-0 78 -1 0
 0 7 0 6
 0 22 -1 0
+0 78 -1 0
 1
 end_operator
 begin_operator
@@ -3389,9 +3389,9 @@ deliver_package4_l1_t1_t4
 1
 1 1
 3
-0 78 -1 0
 0 7 0 6
 0 21 -1 0
+0 78 -1 0
 1
 end_operator
 begin_operator
@@ -3399,9 +3399,9 @@ deliver_package4_l1_t1_t5
 1
 1 1
 3
-0 78 -1 0
 0 7 0 6
 0 20 -1 0
+0 78 -1 0
 1
 end_operator
 begin_operator
@@ -3409,9 +3409,9 @@ deliver_package4_l1_t1_t6
 1
 1 1
 3
-0 78 -1 0
 0 7 0 6
 0 19 -1 0
+0 78 -1 0
 1
 end_operator
 begin_operator
@@ -3419,9 +3419,9 @@ deliver_package4_l1_t2_t2
 1
 1 2
 3
-0 78 -1 0
 0 7 0 6
 0 23 -1 0
+0 78 -1 0
 1
 end_operator
 begin_operator
@@ -3429,9 +3429,9 @@ deliver_package4_l1_t2_t3
 1
 1 2
 3
-0 78 -1 0
 0 7 0 6
 0 22 -1 0
+0 78 -1 0
 1
 end_operator
 begin_operator
@@ -3439,9 +3439,9 @@ deliver_package4_l1_t2_t4
 1
 1 2
 3
-0 78 -1 0
 0 7 0 6
 0 21 -1 0
+0 78 -1 0
 1
 end_operator
 begin_operator
@@ -3449,9 +3449,9 @@ deliver_package4_l1_t2_t5
 1
 1 2
 3
-0 78 -1 0
 0 7 0 6
 0 20 -1 0
+0 78 -1 0
 1
 end_operator
 begin_operator
@@ -3459,9 +3459,9 @@ deliver_package4_l1_t2_t6
 1
 1 2
 3
-0 78 -1 0
 0 7 0 6
 0 19 -1 0
+0 78 -1 0
 1
 end_operator
 begin_operator
@@ -3469,9 +3469,9 @@ deliver_package4_l1_t3_t3
 1
 1 3
 3
-0 78 -1 0
 0 7 0 6
 0 22 -1 0
+0 78 -1 0
 1
 end_operator
 begin_operator
@@ -3479,9 +3479,9 @@ deliver_package4_l1_t3_t4
 1
 1 3
 3
-0 78 -1 0
 0 7 0 6
 0 21 -1 0
+0 78 -1 0
 1
 end_operator
 begin_operator
@@ -3489,9 +3489,9 @@ deliver_package4_l1_t3_t5
 1
 1 3
 3
-0 78 -1 0
 0 7 0 6
 0 20 -1 0
+0 78 -1 0
 1
 end_operator
 begin_operator
@@ -3499,9 +3499,9 @@ deliver_package4_l1_t3_t6
 1
 1 3
 3
-0 78 -1 0
 0 7 0 6
 0 19 -1 0
+0 78 -1 0
 1
 end_operator
 begin_operator
@@ -3509,9 +3509,9 @@ deliver_package4_l1_t4_t4
 1
 1 4
 3
-0 78 -1 0
 0 7 0 6
 0 21 -1 0
+0 78 -1 0
 1
 end_operator
 begin_operator
@@ -3519,9 +3519,9 @@ deliver_package4_l1_t4_t5
 1
 1 4
 3
-0 78 -1 0
 0 7 0 6
 0 20 -1 0
+0 78 -1 0
 1
 end_operator
 begin_operator
@@ -3529,9 +3529,9 @@ deliver_package4_l1_t4_t6
 1
 1 4
 3
-0 78 -1 0
 0 7 0 6
 0 19 -1 0
+0 78 -1 0
 1
 end_operator
 begin_operator
@@ -3539,9 +3539,9 @@ deliver_package4_l1_t5_t5
 1
 1 5
 3
-0 78 -1 0
 0 7 0 6
 0 20 -1 0
+0 78 -1 0
 1
 end_operator
 begin_operator
@@ -3549,9 +3549,9 @@ deliver_package4_l1_t5_t6
 1
 1 5
 3
-0 78 -1 0
 0 7 0 6
 0 19 -1 0
+0 78 -1 0
 1
 end_operator
 begin_operator
@@ -3559,9 +3559,9 @@ deliver_package4_l1_t6_t6
 1
 1 6
 3
-0 78 -1 0
 0 7 0 6
 0 19 -1 0
+0 78 -1 0
 1
 end_operator
 begin_operator
@@ -3569,9 +3569,9 @@ deliver_package4_l2_t1_t1
 1
 1 1
 3
-0 77 -1 0
 0 7 1 6
 0 18 -1 0
+0 77 -1 0
 1
 end_operator
 begin_operator
@@ -3579,9 +3579,9 @@ deliver_package4_l2_t1_t2
 1
 1 1
 3
-0 77 -1 0
 0 7 1 6
 0 17 -1 0
+0 77 -1 0
 1
 end_operator
 begin_operator
@@ -3589,9 +3589,9 @@ deliver_package4_l2_t1_t3
 1
 1 1
 3
-0 77 -1 0
 0 7 1 6
 0 16 -1 0
+0 77 -1 0
 1
 end_operator
 begin_operator
@@ -3599,9 +3599,9 @@ deliver_package4_l2_t1_t4
 1
 1 1
 3
-0 77 -1 0
 0 7 1 6
 0 15 -1 0
+0 77 -1 0
 1
 end_operator
 begin_operator
@@ -3609,9 +3609,9 @@ deliver_package4_l2_t1_t5
 1
 1 1
 3
-0 77 -1 0
 0 7 1 6
 0 14 -1 0
+0 77 -1 0
 1
 end_operator
 begin_operator
@@ -3619,9 +3619,9 @@ deliver_package4_l2_t1_t6
 1
 1 1
 3
-0 77 -1 0
 0 7 1 6
 0 13 -1 0
+0 77 -1 0
 1
 end_operator
 begin_operator
@@ -3629,9 +3629,9 @@ deliver_package4_l2_t2_t2
 1
 1 2
 3
-0 77 -1 0
 0 7 1 6
 0 17 -1 0
+0 77 -1 0
 1
 end_operator
 begin_operator
@@ -3639,9 +3639,9 @@ deliver_package4_l2_t2_t3
 1
 1 2
 3
-0 77 -1 0
 0 7 1 6
 0 16 -1 0
+0 77 -1 0
 1
 end_operator
 begin_operator
@@ -3649,9 +3649,9 @@ deliver_package4_l2_t2_t4
 1
 1 2
 3
-0 77 -1 0
 0 7 1 6
 0 15 -1 0
+0 77 -1 0
 1
 end_operator
 begin_operator
@@ -3659,9 +3659,9 @@ deliver_package4_l2_t2_t5
 1
 1 2
 3
-0 77 -1 0
 0 7 1 6
 0 14 -1 0
+0 77 -1 0
 1
 end_operator
 begin_operator
@@ -3669,9 +3669,9 @@ deliver_package4_l2_t2_t6
 1
 1 2
 3
-0 77 -1 0
 0 7 1 6
 0 13 -1 0
+0 77 -1 0
 1
 end_operator
 begin_operator
@@ -3679,9 +3679,9 @@ deliver_package4_l2_t3_t3
 1
 1 3
 3
-0 77 -1 0
 0 7 1 6
 0 16 -1 0
+0 77 -1 0
 1
 end_operator
 begin_operator
@@ -3689,9 +3689,9 @@ deliver_package4_l2_t3_t4
 1
 1 3
 3
-0 77 -1 0
 0 7 1 6
 0 15 -1 0
+0 77 -1 0
 1
 end_operator
 begin_operator
@@ -3699,9 +3699,9 @@ deliver_package4_l2_t3_t5
 1
 1 3
 3
-0 77 -1 0
 0 7 1 6
 0 14 -1 0
+0 77 -1 0
 1
 end_operator
 begin_operator
@@ -3709,9 +3709,9 @@ deliver_package4_l2_t3_t6
 1
 1 3
 3
-0 77 -1 0
 0 7 1 6
 0 13 -1 0
+0 77 -1 0
 1
 end_operator
 begin_operator
@@ -3719,9 +3719,9 @@ deliver_package4_l2_t4_t4
 1
 1 4
 3
-0 77 -1 0
 0 7 1 6
 0 15 -1 0
+0 77 -1 0
 1
 end_operator
 begin_operator
@@ -3729,9 +3729,9 @@ deliver_package4_l2_t4_t5
 1
 1 4
 3
-0 77 -1 0
 0 7 1 6
 0 14 -1 0
+0 77 -1 0
 1
 end_operator
 begin_operator
@@ -3739,9 +3739,9 @@ deliver_package4_l2_t4_t6
 1
 1 4
 3
-0 77 -1 0
 0 7 1 6
 0 13 -1 0
+0 77 -1 0
 1
 end_operator
 begin_operator
@@ -3749,9 +3749,9 @@ deliver_package4_l2_t5_t5
 1
 1 5
 3
-0 77 -1 0
 0 7 1 6
 0 14 -1 0
+0 77 -1 0
 1
 end_operator
 begin_operator
@@ -3759,9 +3759,9 @@ deliver_package4_l2_t5_t6
 1
 1 5
 3
-0 77 -1 0
 0 7 1 6
 0 13 -1 0
+0 77 -1 0
 1
 end_operator
 begin_operator
@@ -3769,9 +3769,9 @@ deliver_package4_l2_t6_t6
 1
 1 6
 3
-0 77 -1 0
 0 7 1 6
 0 13 -1 0
+0 77 -1 0
 1
 end_operator
 begin_operator
@@ -3779,9 +3779,9 @@ deliver_package4_l3_t1_t1
 1
 1 1
 3
-0 76 -1 0
 0 7 2 6
 0 12 -1 0
+0 76 -1 0
 1
 end_operator
 begin_operator
@@ -3789,9 +3789,9 @@ deliver_package4_l3_t1_t2
 1
 1 1
 3
-0 76 -1 0
 0 7 2 6
 0 11 -1 0
+0 76 -1 0
 1
 end_operator
 begin_operator
@@ -3799,9 +3799,9 @@ deliver_package4_l3_t1_t3
 1
 1 1
 3
-0 76 -1 0
 0 7 2 6
 0 10 -1 0
+0 76 -1 0
 1
 end_operator
 begin_operator
@@ -3809,9 +3809,9 @@ deliver_package4_l3_t1_t4
 1
 1 1
 3
-0 76 -1 0
 0 7 2 6
 0 9 -1 0
+0 76 -1 0
 1
 end_operator
 begin_operator
@@ -3819,9 +3819,9 @@ deliver_package4_l3_t1_t5
 1
 1 1
 3
-0 76 -1 0
 0 7 2 6
 0 8 -1 0
+0 76 -1 0
 1
 end_operator
 begin_operator
@@ -3829,8 +3829,8 @@ deliver_package4_l3_t1_t6
 1
 1 1
 2
-0 76 -1 0
 0 7 2 3
+0 76 -1 0
 1
 end_operator
 begin_operator
@@ -3838,9 +3838,9 @@ deliver_package4_l3_t2_t2
 1
 1 2
 3
-0 76 -1 0
 0 7 2 6
 0 11 -1 0
+0 76 -1 0
 1
 end_operator
 begin_operator
@@ -3848,9 +3848,9 @@ deliver_package4_l3_t2_t3
 1
 1 2
 3
-0 76 -1 0
 0 7 2 6
 0 10 -1 0
+0 76 -1 0
 1
 end_operator
 begin_operator
@@ -3858,9 +3858,9 @@ deliver_package4_l3_t2_t4
 1
 1 2
 3
-0 76 -1 0
 0 7 2 6
 0 9 -1 0
+0 76 -1 0
 1
 end_operator
 begin_operator
@@ -3868,9 +3868,9 @@ deliver_package4_l3_t2_t5
 1
 1 2
 3
-0 76 -1 0
 0 7 2 6
 0 8 -1 0
+0 76 -1 0
 1
 end_operator
 begin_operator
@@ -3878,8 +3878,8 @@ deliver_package4_l3_t2_t6
 1
 1 2
 2
-0 76 -1 0
 0 7 2 3
+0 76 -1 0
 1
 end_operator
 begin_operator
@@ -3887,9 +3887,9 @@ deliver_package4_l3_t3_t3
 1
 1 3
 3
-0 76 -1 0
 0 7 2 6
 0 10 -1 0
+0 76 -1 0
 1
 end_operator
 begin_operator
@@ -3897,9 +3897,9 @@ deliver_package4_l3_t3_t4
 1
 1 3
 3
-0 76 -1 0
 0 7 2 6
 0 9 -1 0
+0 76 -1 0
 1
 end_operator
 begin_operator
@@ -3907,9 +3907,9 @@ deliver_package4_l3_t3_t5
 1
 1 3
 3
-0 76 -1 0
 0 7 2 6
 0 8 -1 0
+0 76 -1 0
 1
 end_operator
 begin_operator
@@ -3917,8 +3917,8 @@ deliver_package4_l3_t3_t6
 1
 1 3
 2
-0 76 -1 0
 0 7 2 3
+0 76 -1 0
 1
 end_operator
 begin_operator
@@ -3926,9 +3926,9 @@ deliver_package4_l3_t4_t4
 1
 1 4
 3
-0 76 -1 0
 0 7 2 6
 0 9 -1 0
+0 76 -1 0
 1
 end_operator
 begin_operator
@@ -3936,9 +3936,9 @@ deliver_package4_l3_t4_t5
 1
 1 4
 3
-0 76 -1 0
 0 7 2 6
 0 8 -1 0
+0 76 -1 0
 1
 end_operator
 begin_operator
@@ -3946,8 +3946,8 @@ deliver_package4_l3_t4_t6
 1
 1 4
 2
-0 76 -1 0
 0 7 2 3
+0 76 -1 0
 1
 end_operator
 begin_operator
@@ -3955,9 +3955,9 @@ deliver_package4_l3_t5_t5
 1
 1 5
 3
-0 76 -1 0
 0 7 2 6
 0 8 -1 0
+0 76 -1 0
 1
 end_operator
 begin_operator
@@ -3965,8 +3965,8 @@ deliver_package4_l3_t5_t6
 1
 1 5
 2
-0 76 -1 0
 0 7 2 3
+0 76 -1 0
 1
 end_operator
 begin_operator
@@ -3974,8 +3974,8 @@ deliver_package4_l3_t6_t6
 1
 1 6
 2
-0 76 -1 0
 0 7 2 3
+0 76 -1 0
 1
 end_operator
 begin_operator
@@ -4442,8 +4442,8 @@ load_package4_truck1_a1_l1
 1
 0 0
 2
-0 7 0 4
 0 5 0 1
+0 7 0 4
 1
 end_operator
 begin_operator
@@ -4451,8 +4451,8 @@ load_package4_truck1_a1_l2
 1
 0 1
 2
-0 7 1 4
 0 5 0 1
+0 7 1 4
 1
 end_operator
 begin_operator
@@ -4460,8 +4460,8 @@ load_package4_truck1_a1_l3
 1
 0 2
 2
-0 7 2 4
 0 5 0 1
+0 7 2 4
 1
 end_operator
 begin_operator
@@ -4470,8 +4470,8 @@ load_package4_truck1_a2_l1
 0 0
 5 0
 2
-0 7 0 5
 0 6 0 1
+0 7 0 5
 1
 end_operator
 begin_operator
@@ -4480,8 +4480,8 @@ load_package4_truck1_a2_l2
 0 1
 5 0
 2
-0 7 1 5
 0 6 0 1
+0 7 1 5
 1
 end_operator
 begin_operator
@@ -4490,8 +4490,8 @@ load_package4_truck1_a2_l3
 0 2
 5 0
 2
-0 7 2 5
 0 6 0 1
+0 7 2 5
 1
 end_operator
 begin_operator
@@ -4670,8 +4670,8 @@ unload_package4_truck1_a1_l1
 1
 0 0
 2
-0 7 4 0
 0 5 -1 0
+0 7 4 0
 1
 end_operator
 begin_operator
@@ -4679,8 +4679,8 @@ unload_package4_truck1_a1_l2
 1
 0 1
 2
-0 7 4 1
 0 5 -1 0
+0 7 4 1
 1
 end_operator
 begin_operator
@@ -4688,8 +4688,8 @@ unload_package4_truck1_a1_l3
 1
 0 2
 2
-0 7 4 2
 0 5 -1 0
+0 7 4 2
 1
 end_operator
 begin_operator
@@ -4698,8 +4698,8 @@ unload_package4_truck1_a2_l1
 0 0
 5 0
 2
-0 7 5 0
 0 6 -1 0
+0 7 5 0
 1
 end_operator
 begin_operator
@@ -4708,8 +4708,8 @@ unload_package4_truck1_a2_l2
 0 1
 5 0
 2
-0 7 5 1
 0 6 -1 0
+0 7 5 1
 1
 end_operator
 begin_operator
@@ -4718,8 +4718,8 @@ unload_package4_truck1_a2_l3
 0 2
 5 0
 2
-0 7 5 2
 0 6 -1 0
+0 7 5 2
 1
 end_operator
 0

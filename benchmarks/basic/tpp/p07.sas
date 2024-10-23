@@ -932,8 +932,8 @@ load goods1 truck2 market1 level0 level1 level0 level1
 1
 0 1
 2
-0 37 0 1
 0 36 1 0
+0 37 0 1
 1
 end_operator
 begin_operator
@@ -941,8 +941,8 @@ load goods1 truck2 market1 level0 level1 level1 level2
 1
 0 1
 2
-0 37 1 2
 0 36 1 0
+0 37 1 2
 1
 end_operator
 begin_operator
@@ -950,8 +950,8 @@ load goods1 truck2 market1 level1 level2 level0 level1
 1
 0 1
 2
-0 37 0 1
 0 36 2 1
+0 37 0 1
 1
 end_operator
 begin_operator
@@ -959,8 +959,8 @@ load goods1 truck2 market1 level1 level2 level1 level2
 1
 0 1
 2
-0 37 1 2
 0 36 2 1
+0 37 1 2
 1
 end_operator
 begin_operator
@@ -1040,8 +1040,8 @@ load goods3 truck1 market1 level0 level1 level0 level1
 1
 1 1
 2
-0 26 0 1
 0 25 1 0
+0 26 0 1
 1
 end_operator
 begin_operator
@@ -1049,8 +1049,8 @@ load goods3 truck1 market1 level0 level1 level1 level2
 1
 1 1
 2
-0 26 1 2
 0 25 1 0
+0 26 1 2
 1
 end_operator
 begin_operator
@@ -1058,8 +1058,8 @@ load goods3 truck1 market1 level1 level2 level0 level1
 1
 1 1
 2
-0 26 0 1
 0 25 2 1
+0 26 0 1
 1
 end_operator
 begin_operator
@@ -1067,8 +1067,8 @@ load goods3 truck1 market1 level1 level2 level1 level2
 1
 1 1
 2
-0 26 1 2
 0 25 2 1
+0 26 1 2
 1
 end_operator
 begin_operator
@@ -1076,8 +1076,8 @@ load goods3 truck1 market2 level0 level1 level0 level1
 1
 1 2
 2
-0 26 0 1
 0 24 1 0
+0 26 0 1
 1
 end_operator
 begin_operator
@@ -1085,8 +1085,8 @@ load goods3 truck1 market2 level0 level1 level1 level2
 1
 1 2
 2
-0 26 1 2
 0 24 1 0
+0 26 1 2
 1
 end_operator
 begin_operator
@@ -1094,8 +1094,8 @@ load goods3 truck1 market2 level1 level2 level0 level1
 1
 1 2
 2
-0 26 0 1
 0 24 2 1
+0 26 0 1
 1
 end_operator
 begin_operator
@@ -1103,8 +1103,8 @@ load goods3 truck1 market2 level1 level2 level1 level2
 1
 1 2
 2
-0 26 1 2
 0 24 2 1
+0 26 1 2
 1
 end_operator
 begin_operator
@@ -1112,8 +1112,8 @@ load goods3 truck2 market1 level0 level1 level0 level1
 1
 0 1
 2
-0 27 0 1
 0 25 1 0
+0 27 0 1
 1
 end_operator
 begin_operator
@@ -1121,8 +1121,8 @@ load goods3 truck2 market1 level0 level1 level1 level2
 1
 0 1
 2
-0 27 1 2
 0 25 1 0
+0 27 1 2
 1
 end_operator
 begin_operator
@@ -1130,8 +1130,8 @@ load goods3 truck2 market1 level1 level2 level0 level1
 1
 0 1
 2
-0 27 0 1
 0 25 2 1
+0 27 0 1
 1
 end_operator
 begin_operator
@@ -1139,8 +1139,8 @@ load goods3 truck2 market1 level1 level2 level1 level2
 1
 0 1
 2
-0 27 1 2
 0 25 2 1
+0 27 1 2
 1
 end_operator
 begin_operator
@@ -1148,8 +1148,8 @@ load goods3 truck2 market2 level0 level1 level0 level1
 1
 0 2
 2
-0 27 0 1
 0 24 1 0
+0 27 0 1
 1
 end_operator
 begin_operator
@@ -1157,8 +1157,8 @@ load goods3 truck2 market2 level0 level1 level1 level2
 1
 0 2
 2
-0 27 1 2
 0 24 1 0
+0 27 1 2
 1
 end_operator
 begin_operator
@@ -1166,8 +1166,8 @@ load goods3 truck2 market2 level1 level2 level0 level1
 1
 0 2
 2
-0 27 0 1
 0 24 2 1
+0 27 0 1
 1
 end_operator
 begin_operator
@@ -1175,8 +1175,8 @@ load goods3 truck2 market2 level1 level2 level1 level2
 1
 0 2
 2
-0 27 1 2
 0 24 2 1
+0 27 1 2
 1
 end_operator
 begin_operator

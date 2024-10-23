@@ -1109,48 +1109,48 @@ begin_operator
 drink apple flounder goias kentucky alsace alsace kentucky
 0
 2
-0 12 1 2
 0 3 0 2
+0 12 1 2
 1
 end_operator
 begin_operator
 drink apple flounder goias kentucky alsace kentucky goias
 0
 2
-0 12 1 2
 0 3 2 1
+0 12 1 2
 1
 end_operator
 begin_operator
 drink apple guava goias kentucky alsace alsace kentucky
 0
 2
-0 12 1 2
 0 4 0 2
+0 12 1 2
 1
 end_operator
 begin_operator
 drink apple guava goias kentucky alsace kentucky goias
 0
 2
-0 12 1 2
 0 4 2 1
+0 12 1 2
 1
 end_operator
 begin_operator
 drink apple hamburger goias kentucky alsace alsace kentucky
 0
 2
-0 12 1 2
 0 5 0 2
+0 12 1 2
 1
 end_operator
 begin_operator
 drink apple hamburger goias kentucky alsace kentucky goias
 0
 2
-0 12 1 2
 0 5 2 1
+0 12 1 2
 1
 end_operator
 begin_operator
@@ -1173,80 +1173,80 @@ begin_operator
 drink apple marzipan goias kentucky alsace alsace kentucky
 0
 2
-0 12 1 2
 0 6 0 2
+0 12 1 2
 1
 end_operator
 begin_operator
 drink apple marzipan goias kentucky alsace kentucky goias
 0
 2
-0 12 1 2
 0 6 2 1
+0 12 1 2
 1
 end_operator
 begin_operator
 drink apple muffin goias kentucky alsace alsace kentucky
 0
 2
-0 12 1 2
 0 7 0 2
+0 12 1 2
 1
 end_operator
 begin_operator
 drink apple muffin goias kentucky alsace kentucky goias
 0
 2
-0 12 1 2
 0 7 2 1
+0 12 1 2
 1
 end_operator
 begin_operator
 drink apple okra goias kentucky alsace alsace kentucky
 0
 2
-0 12 1 2
 0 8 0 2
+0 12 1 2
 1
 end_operator
 begin_operator
 drink apple okra goias kentucky alsace kentucky goias
 0
 2
-0 12 1 2
 0 8 2 1
+0 12 1 2
 1
 end_operator
 begin_operator
 drink apple onion goias kentucky alsace alsace kentucky
 0
 2
-0 12 1 2
 0 9 0 2
+0 12 1 2
 1
 end_operator
 begin_operator
 drink apple onion goias kentucky alsace kentucky goias
 0
 2
-0 12 1 2
 0 9 2 1
+0 12 1 2
 1
 end_operator
 begin_operator
 drink apple popover goias kentucky alsace alsace kentucky
 0
 2
-0 12 1 2
 0 10 0 2
+0 12 1 2
 1
 end_operator
 begin_operator
 drink apple popover goias kentucky alsace kentucky goias
 0
 2
-0 12 1 2
 0 10 2 1
+0 12 1 2
 1
 end_operator
 begin_operator
@@ -1285,16 +1285,16 @@ begin_operator
 drink flounder apple goias kentucky alsace alsace kentucky
 0
 2
-0 12 0 2
 0 3 1 2
+0 12 0 2
 1
 end_operator
 begin_operator
 drink flounder apple goias kentucky alsace kentucky goias
 0
 2
-0 12 2 1
 0 3 1 2
+0 12 2 1
 1
 end_operator
 begin_operator
@@ -1461,16 +1461,16 @@ begin_operator
 drink guava apple goias kentucky alsace alsace kentucky
 0
 2
-0 12 0 2
 0 4 1 2
+0 12 0 2
 1
 end_operator
 begin_operator
 drink guava apple goias kentucky alsace kentucky goias
 0
 2
-0 12 2 1
 0 4 1 2
+0 12 2 1
 1
 end_operator
 begin_operator
@@ -1637,16 +1637,16 @@ begin_operator
 drink hamburger apple goias kentucky alsace alsace kentucky
 0
 2
-0 12 0 2
 0 5 1 2
+0 12 0 2
 1
 end_operator
 begin_operator
 drink hamburger apple goias kentucky alsace kentucky goias
 0
 2
-0 12 2 1
 0 5 1 2
+0 12 2 1
 1
 end_operator
 begin_operator
@@ -1877,80 +1877,80 @@ begin_operator
 drink lemon marzipan goias kentucky alsace alsace kentucky
 0
 2
-0 13 1 2
 0 6 0 2
+0 13 1 2
 1
 end_operator
 begin_operator
 drink lemon marzipan goias kentucky alsace kentucky goias
 0
 2
-0 13 1 2
 0 6 2 1
+0 13 1 2
 1
 end_operator
 begin_operator
 drink lemon muffin goias kentucky alsace alsace kentucky
 0
 2
-0 13 1 2
 0 7 0 2
+0 13 1 2
 1
 end_operator
 begin_operator
 drink lemon muffin goias kentucky alsace kentucky goias
 0
 2
-0 13 1 2
 0 7 2 1
+0 13 1 2
 1
 end_operator
 begin_operator
 drink lemon okra goias kentucky alsace alsace kentucky
 0
 2
-0 13 1 2
 0 8 0 2
+0 13 1 2
 1
 end_operator
 begin_operator
 drink lemon okra goias kentucky alsace kentucky goias
 0
 2
-0 13 1 2
 0 8 2 1
+0 13 1 2
 1
 end_operator
 begin_operator
 drink lemon onion goias kentucky alsace alsace kentucky
 0
 2
-0 13 1 2
 0 9 0 2
+0 13 1 2
 1
 end_operator
 begin_operator
 drink lemon onion goias kentucky alsace kentucky goias
 0
 2
-0 13 1 2
 0 9 2 1
+0 13 1 2
 1
 end_operator
 begin_operator
 drink lemon popover goias kentucky alsace alsace kentucky
 0
 2
-0 13 1 2
 0 10 0 2
+0 13 1 2
 1
 end_operator
 begin_operator
 drink lemon popover goias kentucky alsace kentucky goias
 0
 2
-0 13 1 2
 0 10 2 1
+0 13 1 2
 1
 end_operator
 begin_operator
@@ -1989,16 +1989,16 @@ begin_operator
 drink marzipan apple goias kentucky alsace alsace kentucky
 0
 2
-0 12 0 2
 0 6 1 2
+0 12 0 2
 1
 end_operator
 begin_operator
 drink marzipan apple goias kentucky alsace kentucky goias
 0
 2
-0 12 2 1
 0 6 1 2
+0 12 2 1
 1
 end_operator
 begin_operator
@@ -2053,16 +2053,16 @@ begin_operator
 drink marzipan lemon goias kentucky alsace alsace kentucky
 0
 2
-0 13 0 2
 0 6 1 2
+0 13 0 2
 1
 end_operator
 begin_operator
 drink marzipan lemon goias kentucky alsace kentucky goias
 0
 2
-0 13 2 1
 0 6 1 2
+0 13 2 1
 1
 end_operator
 begin_operator
@@ -2165,16 +2165,16 @@ begin_operator
 drink muffin apple goias kentucky alsace alsace kentucky
 0
 2
-0 12 0 2
 0 7 1 2
+0 12 0 2
 1
 end_operator
 begin_operator
 drink muffin apple goias kentucky alsace kentucky goias
 0
 2
-0 12 2 1
 0 7 1 2
+0 12 2 1
 1
 end_operator
 begin_operator
@@ -2229,16 +2229,16 @@ begin_operator
 drink muffin lemon goias kentucky alsace alsace kentucky
 0
 2
-0 13 0 2
 0 7 1 2
+0 13 0 2
 1
 end_operator
 begin_operator
 drink muffin lemon goias kentucky alsace kentucky goias
 0
 2
-0 13 2 1
 0 7 1 2
+0 13 2 1
 1
 end_operator
 begin_operator
@@ -2341,16 +2341,16 @@ begin_operator
 drink okra apple goias kentucky alsace alsace kentucky
 0
 2
-0 12 0 2
 0 8 1 2
+0 12 0 2
 1
 end_operator
 begin_operator
 drink okra apple goias kentucky alsace kentucky goias
 0
 2
-0 12 2 1
 0 8 1 2
+0 12 2 1
 1
 end_operator
 begin_operator
@@ -2405,16 +2405,16 @@ begin_operator
 drink okra lemon goias kentucky alsace alsace kentucky
 0
 2
-0 13 0 2
 0 8 1 2
+0 13 0 2
 1
 end_operator
 begin_operator
 drink okra lemon goias kentucky alsace kentucky goias
 0
 2
-0 13 2 1
 0 8 1 2
+0 13 2 1
 1
 end_operator
 begin_operator
@@ -2517,16 +2517,16 @@ begin_operator
 drink onion apple goias kentucky alsace alsace kentucky
 0
 2
-0 12 0 2
 0 9 1 2
+0 12 0 2
 1
 end_operator
 begin_operator
 drink onion apple goias kentucky alsace kentucky goias
 0
 2
-0 12 2 1
 0 9 1 2
+0 12 2 1
 1
 end_operator
 begin_operator
@@ -2581,16 +2581,16 @@ begin_operator
 drink onion lemon goias kentucky alsace alsace kentucky
 0
 2
-0 13 0 2
 0 9 1 2
+0 13 0 2
 1
 end_operator
 begin_operator
 drink onion lemon goias kentucky alsace kentucky goias
 0
 2
-0 13 2 1
 0 9 1 2
+0 13 2 1
 1
 end_operator
 begin_operator
@@ -2693,16 +2693,16 @@ begin_operator
 drink popover apple goias kentucky alsace alsace kentucky
 0
 2
-0 12 0 2
 0 10 1 2
+0 12 0 2
 1
 end_operator
 begin_operator
 drink popover apple goias kentucky alsace kentucky goias
 0
 2
-0 12 2 1
 0 10 1 2
+0 12 2 1
 1
 end_operator
 begin_operator
@@ -2757,16 +2757,16 @@ begin_operator
 drink popover lemon goias kentucky alsace alsace kentucky
 0
 2
-0 13 0 2
 0 10 1 2
+0 13 0 2
 1
 end_operator
 begin_operator
 drink popover lemon goias kentucky alsace kentucky goias
 0
 2
-0 13 2 1
 0 10 1 2
+0 13 2 1
 1
 end_operator
 begin_operator
@@ -4709,96 +4709,96 @@ begin_operator
 feast rest flounder apple alsace kentucky
 0
 2
-0 11 1 0
 0 3 2 0
+0 11 1 0
 1
 end_operator
 begin_operator
 feast rest flounder apple kentucky goias
 0
 2
-0 11 1 0
 0 3 1 2
+0 11 1 0
 1
 end_operator
 begin_operator
 feast rest flounder wurst alsace kentucky
 0
 2
-0 11 1 11
 0 3 2 0
+0 11 1 11
 1
 end_operator
 begin_operator
 feast rest flounder wurst kentucky goias
 0
 2
-0 11 1 11
 0 3 1 2
+0 11 1 11
 1
 end_operator
 begin_operator
 feast rest guava marzipan alsace kentucky
 0
 2
-0 11 2 5
 0 4 2 0
+0 11 2 5
 1
 end_operator
 begin_operator
 feast rest guava marzipan kentucky goias
 0
 2
-0 11 2 5
 0 4 1 2
+0 11 2 5
 1
 end_operator
 begin_operator
 feast rest guava onion alsace kentucky
 0
 2
-0 11 2 8
 0 4 2 0
+0 11 2 8
 1
 end_operator
 begin_operator
 feast rest guava onion kentucky goias
 0
 2
-0 11 2 8
 0 4 1 2
+0 11 2 8
 1
 end_operator
 begin_operator
 feast rest hamburger okra alsace kentucky
 0
 2
-0 11 3 7
 0 5 2 0
+0 11 3 7
 1
 end_operator
 begin_operator
 feast rest hamburger okra kentucky goias
 0
 2
-0 11 3 7
 0 5 1 2
+0 11 3 7
 1
 end_operator
 begin_operator
 feast rest hamburger popover alsace kentucky
 0
 2
-0 11 3 9
 0 5 2 0
+0 11 3 9
 1
 end_operator
 begin_operator
 feast rest hamburger popover kentucky goias
 0
 2
-0 11 3 9
 0 5 1 2
+0 11 3 9
 1
 end_operator
 begin_operator
@@ -4853,160 +4853,160 @@ begin_operator
 feast rest marzipan guava alsace kentucky
 0
 2
-0 11 5 2
 0 6 2 0
+0 11 5 2
 1
 end_operator
 begin_operator
 feast rest marzipan guava kentucky goias
 0
 2
-0 11 5 2
 0 6 1 2
+0 11 5 2
 1
 end_operator
 begin_operator
 feast rest marzipan snickers alsace kentucky
 0
 2
-0 11 5 10
 0 6 2 0
+0 11 5 10
 1
 end_operator
 begin_operator
 feast rest marzipan snickers kentucky goias
 0
 2
-0 11 5 10
 0 6 1 2
+0 11 5 10
 1
 end_operator
 begin_operator
 feast rest muffin lemon alsace kentucky
 0
 2
-0 11 6 4
 0 7 2 0
+0 11 6 4
 1
 end_operator
 begin_operator
 feast rest muffin lemon kentucky goias
 0
 2
-0 11 6 4
 0 7 1 2
+0 11 6 4
 1
 end_operator
 begin_operator
 feast rest muffin wurst alsace kentucky
 0
 2
-0 11 6 11
 0 7 2 0
+0 11 6 11
 1
 end_operator
 begin_operator
 feast rest muffin wurst kentucky goias
 0
 2
-0 11 6 11
 0 7 1 2
+0 11 6 11
 1
 end_operator
 begin_operator
 feast rest okra hamburger alsace kentucky
 0
 2
-0 11 7 3
 0 8 2 0
+0 11 7 3
 1
 end_operator
 begin_operator
 feast rest okra hamburger kentucky goias
 0
 2
-0 11 7 3
 0 8 1 2
+0 11 7 3
 1
 end_operator
 begin_operator
 feast rest okra onion alsace kentucky
 0
 2
-0 11 7 8
 0 8 2 0
+0 11 7 8
 1
 end_operator
 begin_operator
 feast rest okra onion kentucky goias
 0
 2
-0 11 7 8
 0 8 1 2
+0 11 7 8
 1
 end_operator
 begin_operator
 feast rest onion guava alsace kentucky
 0
 2
-0 11 8 2
 0 9 2 0
+0 11 8 2
 1
 end_operator
 begin_operator
 feast rest onion guava kentucky goias
 0
 2
-0 11 8 2
 0 9 1 2
+0 11 8 2
 1
 end_operator
 begin_operator
 feast rest onion okra alsace kentucky
 0
 2
-0 11 8 7
 0 9 2 0
+0 11 8 7
 1
 end_operator
 begin_operator
 feast rest onion okra kentucky goias
 0
 2
-0 11 8 7
 0 9 1 2
+0 11 8 7
 1
 end_operator
 begin_operator
 feast rest popover hamburger alsace kentucky
 0
 2
-0 11 9 3
 0 10 2 0
+0 11 9 3
 1
 end_operator
 begin_operator
 feast rest popover hamburger kentucky goias
 0
 2
-0 11 9 3
 0 10 1 2
+0 11 9 3
 1
 end_operator
 begin_operator
 feast rest popover snickers alsace kentucky
 0
 2
-0 11 9 10
 0 10 2 0
+0 11 9 10
 1
 end_operator
 begin_operator
 feast rest popover snickers kentucky goias
 0
 2
-0 11 9 10
 0 10 1 2
+0 11 9 10
 1
 end_operator
 begin_operator
@@ -5141,352 +5141,352 @@ begin_operator
 feast satisfaction apple flounder alsace kentucky
 0
 2
-0 14 0 1
 0 12 2 0
+0 14 0 1
 1
 end_operator
 begin_operator
 feast satisfaction apple flounder kentucky goias
 0
 2
-0 14 0 1
 0 12 1 2
+0 14 0 1
 1
 end_operator
 begin_operator
 feast satisfaction apple lemon alsace kentucky
 0
 2
-0 14 0 4
 0 12 2 0
+0 14 0 4
 1
 end_operator
 begin_operator
 feast satisfaction apple lemon kentucky goias
 0
 2
-0 14 0 4
 0 12 1 2
+0 14 0 4
 1
 end_operator
 begin_operator
 feast satisfaction apple snickers alsace kentucky
 0
 2
-0 14 0 10
 0 12 2 0
+0 14 0 10
 1
 end_operator
 begin_operator
 feast satisfaction apple snickers kentucky goias
 0
 2
-0 14 0 10
 0 12 1 2
+0 14 0 10
 1
 end_operator
 begin_operator
 feast satisfaction flounder apple alsace kentucky
 0
 2
-0 14 1 0
 0 3 2 0
+0 14 1 0
 1
 end_operator
 begin_operator
 feast satisfaction flounder apple kentucky goias
 0
 2
-0 14 1 0
 0 3 1 2
+0 14 1 0
 1
 end_operator
 begin_operator
 feast satisfaction flounder wurst alsace kentucky
 0
 2
-0 14 1 11
 0 3 2 0
+0 14 1 11
 1
 end_operator
 begin_operator
 feast satisfaction flounder wurst kentucky goias
 0
 2
-0 14 1 11
 0 3 1 2
+0 14 1 11
 1
 end_operator
 begin_operator
 feast satisfaction guava marzipan alsace kentucky
 0
 2
-0 14 2 5
 0 4 2 0
+0 14 2 5
 1
 end_operator
 begin_operator
 feast satisfaction guava marzipan kentucky goias
 0
 2
-0 14 2 5
 0 4 1 2
+0 14 2 5
 1
 end_operator
 begin_operator
 feast satisfaction guava onion alsace kentucky
 0
 2
-0 14 2 8
 0 4 2 0
+0 14 2 8
 1
 end_operator
 begin_operator
 feast satisfaction guava onion kentucky goias
 0
 2
-0 14 2 8
 0 4 1 2
+0 14 2 8
 1
 end_operator
 begin_operator
 feast satisfaction hamburger okra alsace kentucky
 0
 2
-0 14 3 7
 0 5 2 0
+0 14 3 7
 1
 end_operator
 begin_operator
 feast satisfaction hamburger okra kentucky goias
 0
 2
-0 14 3 7
 0 5 1 2
+0 14 3 7
 1
 end_operator
 begin_operator
 feast satisfaction hamburger popover alsace kentucky
 0
 2
-0 14 3 9
 0 5 2 0
+0 14 3 9
 1
 end_operator
 begin_operator
 feast satisfaction hamburger popover kentucky goias
 0
 2
-0 14 3 9
 0 5 1 2
+0 14 3 9
 1
 end_operator
 begin_operator
 feast satisfaction lemon apple alsace kentucky
 0
 2
-0 14 4 0
 0 13 2 0
+0 14 4 0
 1
 end_operator
 begin_operator
 feast satisfaction lemon apple kentucky goias
 0
 2
-0 14 4 0
 0 13 1 2
+0 14 4 0
 1
 end_operator
 begin_operator
 feast satisfaction lemon muffin alsace kentucky
 0
 2
-0 14 4 6
 0 13 2 0
+0 14 4 6
 1
 end_operator
 begin_operator
 feast satisfaction lemon muffin kentucky goias
 0
 2
-0 14 4 6
 0 13 1 2
+0 14 4 6
 1
 end_operator
 begin_operator
 feast satisfaction lemon wurst alsace kentucky
 0
 2
-0 14 4 11
 0 13 2 0
+0 14 4 11
 1
 end_operator
 begin_operator
 feast satisfaction lemon wurst kentucky goias
 0
 2
-0 14 4 11
 0 13 1 2
+0 14 4 11
 1
 end_operator
 begin_operator
 feast satisfaction marzipan guava alsace kentucky
 0
 2
-0 14 5 2
 0 6 2 0
+0 14 5 2
 1
 end_operator
 begin_operator
 feast satisfaction marzipan guava kentucky goias
 0
 2
-0 14 5 2
 0 6 1 2
+0 14 5 2
 1
 end_operator
 begin_operator
 feast satisfaction marzipan snickers alsace kentucky
 0
 2
-0 14 5 10
 0 6 2 0
+0 14 5 10
 1
 end_operator
 begin_operator
 feast satisfaction marzipan snickers kentucky goias
 0
 2
-0 14 5 10
 0 6 1 2
+0 14 5 10
 1
 end_operator
 begin_operator
 feast satisfaction muffin lemon alsace kentucky
 0
 2
-0 14 6 4
 0 7 2 0
+0 14 6 4
 1
 end_operator
 begin_operator
 feast satisfaction muffin lemon kentucky goias
 0
 2
-0 14 6 4
 0 7 1 2
+0 14 6 4
 1
 end_operator
 begin_operator
 feast satisfaction muffin wurst alsace kentucky
 0
 2
-0 14 6 11
 0 7 2 0
+0 14 6 11
 1
 end_operator
 begin_operator
 feast satisfaction muffin wurst kentucky goias
 0
 2
-0 14 6 11
 0 7 1 2
+0 14 6 11
 1
 end_operator
 begin_operator
 feast satisfaction okra hamburger alsace kentucky
 0
 2
-0 14 7 3
 0 8 2 0
+0 14 7 3
 1
 end_operator
 begin_operator
 feast satisfaction okra hamburger kentucky goias
 0
 2
-0 14 7 3
 0 8 1 2
+0 14 7 3
 1
 end_operator
 begin_operator
 feast satisfaction okra onion alsace kentucky
 0
 2
-0 14 7 8
 0 8 2 0
+0 14 7 8
 1
 end_operator
 begin_operator
 feast satisfaction okra onion kentucky goias
 0
 2
-0 14 7 8
 0 8 1 2
+0 14 7 8
 1
 end_operator
 begin_operator
 feast satisfaction onion guava alsace kentucky
 0
 2
-0 14 8 2
 0 9 2 0
+0 14 8 2
 1
 end_operator
 begin_operator
 feast satisfaction onion guava kentucky goias
 0
 2
-0 14 8 2
 0 9 1 2
+0 14 8 2
 1
 end_operator
 begin_operator
 feast satisfaction onion okra alsace kentucky
 0
 2
-0 14 8 7
 0 9 2 0
+0 14 8 7
 1
 end_operator
 begin_operator
 feast satisfaction onion okra kentucky goias
 0
 2
-0 14 8 7
 0 9 1 2
+0 14 8 7
 1
 end_operator
 begin_operator
 feast satisfaction popover hamburger alsace kentucky
 0
 2
-0 14 9 3
 0 10 2 0
+0 14 9 3
 1
 end_operator
 begin_operator
 feast satisfaction popover hamburger kentucky goias
 0
 2
-0 14 9 3
 0 10 1 2
+0 14 9 3
 1
 end_operator
 begin_operator
 feast satisfaction popover snickers alsace kentucky
 0
 2
-0 14 9 10
 0 10 2 0
+0 14 9 10
 1
 end_operator
 begin_operator
 feast satisfaction popover snickers kentucky goias
 0
 2
-0 14 9 10
 0 10 1 2
+0 14 9 10
 1
 end_operator
 begin_operator
@@ -5621,416 +5621,416 @@ begin_operator
 feast triumph apple flounder alsace kentucky
 0
 2
-0 16 0 1
 0 12 2 0
+0 16 0 1
 1
 end_operator
 begin_operator
 feast triumph apple flounder kentucky goias
 0
 2
-0 16 0 1
 0 12 1 2
+0 16 0 1
 1
 end_operator
 begin_operator
 feast triumph apple lemon alsace kentucky
 0
 2
-0 16 0 4
 0 12 2 0
+0 16 0 4
 1
 end_operator
 begin_operator
 feast triumph apple lemon kentucky goias
 0
 2
-0 16 0 4
 0 12 1 2
+0 16 0 4
 1
 end_operator
 begin_operator
 feast triumph apple snickers alsace kentucky
 0
 2
-0 16 0 10
 0 12 2 0
+0 16 0 10
 1
 end_operator
 begin_operator
 feast triumph apple snickers kentucky goias
 0
 2
-0 16 0 10
 0 12 1 2
+0 16 0 10
 1
 end_operator
 begin_operator
 feast triumph flounder apple alsace kentucky
 0
 2
-0 16 1 0
 0 3 2 0
+0 16 1 0
 1
 end_operator
 begin_operator
 feast triumph flounder apple kentucky goias
 0
 2
-0 16 1 0
 0 3 1 2
+0 16 1 0
 1
 end_operator
 begin_operator
 feast triumph flounder wurst alsace kentucky
 0
 2
-0 16 1 11
 0 3 2 0
+0 16 1 11
 1
 end_operator
 begin_operator
 feast triumph flounder wurst kentucky goias
 0
 2
-0 16 1 11
 0 3 1 2
+0 16 1 11
 1
 end_operator
 begin_operator
 feast triumph guava marzipan alsace kentucky
 0
 2
-0 16 2 5
 0 4 2 0
+0 16 2 5
 1
 end_operator
 begin_operator
 feast triumph guava marzipan kentucky goias
 0
 2
-0 16 2 5
 0 4 1 2
+0 16 2 5
 1
 end_operator
 begin_operator
 feast triumph guava onion alsace kentucky
 0
 2
-0 16 2 8
 0 4 2 0
+0 16 2 8
 1
 end_operator
 begin_operator
 feast triumph guava onion kentucky goias
 0
 2
-0 16 2 8
 0 4 1 2
+0 16 2 8
 1
 end_operator
 begin_operator
 feast triumph hamburger okra alsace kentucky
 0
 2
-0 16 3 7
 0 5 2 0
+0 16 3 7
 1
 end_operator
 begin_operator
 feast triumph hamburger okra kentucky goias
 0
 2
-0 16 3 7
 0 5 1 2
+0 16 3 7
 1
 end_operator
 begin_operator
 feast triumph hamburger popover alsace kentucky
 0
 2
-0 16 3 9
 0 5 2 0
+0 16 3 9
 1
 end_operator
 begin_operator
 feast triumph hamburger popover kentucky goias
 0
 2
-0 16 3 9
 0 5 1 2
+0 16 3 9
 1
 end_operator
 begin_operator
 feast triumph lemon apple alsace kentucky
 0
 2
-0 16 4 0
 0 13 2 0
+0 16 4 0
 1
 end_operator
 begin_operator
 feast triumph lemon apple kentucky goias
 0
 2
-0 16 4 0
 0 13 1 2
+0 16 4 0
 1
 end_operator
 begin_operator
 feast triumph lemon muffin alsace kentucky
 0
 2
-0 16 4 6
 0 13 2 0
+0 16 4 6
 1
 end_operator
 begin_operator
 feast triumph lemon muffin kentucky goias
 0
 2
-0 16 4 6
 0 13 1 2
+0 16 4 6
 1
 end_operator
 begin_operator
 feast triumph lemon wurst alsace kentucky
 0
 2
-0 16 4 11
 0 13 2 0
+0 16 4 11
 1
 end_operator
 begin_operator
 feast triumph lemon wurst kentucky goias
 0
 2
-0 16 4 11
 0 13 1 2
+0 16 4 11
 1
 end_operator
 begin_operator
 feast triumph marzipan guava alsace kentucky
 0
 2
-0 16 5 2
 0 6 2 0
+0 16 5 2
 1
 end_operator
 begin_operator
 feast triumph marzipan guava kentucky goias
 0
 2
-0 16 5 2
 0 6 1 2
+0 16 5 2
 1
 end_operator
 begin_operator
 feast triumph marzipan snickers alsace kentucky
 0
 2
-0 16 5 10
 0 6 2 0
+0 16 5 10
 1
 end_operator
 begin_operator
 feast triumph marzipan snickers kentucky goias
 0
 2
-0 16 5 10
 0 6 1 2
+0 16 5 10
 1
 end_operator
 begin_operator
 feast triumph muffin lemon alsace kentucky
 0
 2
-0 16 6 4
 0 7 2 0
+0 16 6 4
 1
 end_operator
 begin_operator
 feast triumph muffin lemon kentucky goias
 0
 2
-0 16 6 4
 0 7 1 2
+0 16 6 4
 1
 end_operator
 begin_operator
 feast triumph muffin wurst alsace kentucky
 0
 2
-0 16 6 11
 0 7 2 0
+0 16 6 11
 1
 end_operator
 begin_operator
 feast triumph muffin wurst kentucky goias
 0
 2
-0 16 6 11
 0 7 1 2
+0 16 6 11
 1
 end_operator
 begin_operator
 feast triumph okra hamburger alsace kentucky
 0
 2
-0 16 7 3
 0 8 2 0
+0 16 7 3
 1
 end_operator
 begin_operator
 feast triumph okra hamburger kentucky goias
 0
 2
-0 16 7 3
 0 8 1 2
+0 16 7 3
 1
 end_operator
 begin_operator
 feast triumph okra onion alsace kentucky
 0
 2
-0 16 7 8
 0 8 2 0
+0 16 7 8
 1
 end_operator
 begin_operator
 feast triumph okra onion kentucky goias
 0
 2
-0 16 7 8
 0 8 1 2
+0 16 7 8
 1
 end_operator
 begin_operator
 feast triumph onion guava alsace kentucky
 0
 2
-0 16 8 2
 0 9 2 0
+0 16 8 2
 1
 end_operator
 begin_operator
 feast triumph onion guava kentucky goias
 0
 2
-0 16 8 2
 0 9 1 2
+0 16 8 2
 1
 end_operator
 begin_operator
 feast triumph onion okra alsace kentucky
 0
 2
-0 16 8 7
 0 9 2 0
+0 16 8 7
 1
 end_operator
 begin_operator
 feast triumph onion okra kentucky goias
 0
 2
-0 16 8 7
 0 9 1 2
+0 16 8 7
 1
 end_operator
 begin_operator
 feast triumph popover hamburger alsace kentucky
 0
 2
-0 16 9 3
 0 10 2 0
+0 16 9 3
 1
 end_operator
 begin_operator
 feast triumph popover hamburger kentucky goias
 0
 2
-0 16 9 3
 0 10 1 2
+0 16 9 3
 1
 end_operator
 begin_operator
 feast triumph popover snickers alsace kentucky
 0
 2
-0 16 9 10
 0 10 2 0
+0 16 9 10
 1
 end_operator
 begin_operator
 feast triumph popover snickers kentucky goias
 0
 2
-0 16 9 10
 0 10 1 2
+0 16 9 10
 1
 end_operator
 begin_operator
 feast triumph snickers apple alsace kentucky
 0
 2
-0 16 10 0
 0 15 2 0
+0 16 10 0
 1
 end_operator
 begin_operator
 feast triumph snickers apple kentucky goias
 0
 2
-0 16 10 0
 0 15 1 2
+0 16 10 0
 1
 end_operator
 begin_operator
 feast triumph snickers marzipan alsace kentucky
 0
 2
-0 16 10 5
 0 15 2 0
+0 16 10 5
 1
 end_operator
 begin_operator
 feast triumph snickers marzipan kentucky goias
 0
 2
-0 16 10 5
 0 15 1 2
+0 16 10 5
 1
 end_operator
 begin_operator
 feast triumph snickers popover alsace kentucky
 0
 2
-0 16 10 9
 0 15 2 0
+0 16 10 9
 1
 end_operator
 begin_operator
 feast triumph snickers popover kentucky goias
 0
 2
-0 16 10 9
 0 15 1 2
+0 16 10 9
 1
 end_operator
 begin_operator
 feast triumph snickers wurst alsace kentucky
 0
 2
-0 16 10 11
 0 15 2 0
+0 16 10 11
 1
 end_operator
 begin_operator
 feast triumph snickers wurst kentucky goias
 0
 2
-0 16 10 11
 0 15 1 2
+0 16 10 11
 1
 end_operator
 begin_operator
@@ -62478,8 +62478,8 @@ overcome loneliness-32 expectation apple mars uranus
 1
 0 0
 2
-0 49 0 12
 0 47 3 0
+0 49 0 12
 1
 end_operator
 begin_operator
@@ -62487,8 +62487,8 @@ overcome loneliness-32 expectation apple neptune saturn
 1
 0 0
 2
-0 49 0 12
 0 47 2 1
+0 49 0 12
 1
 end_operator
 begin_operator
@@ -62496,8 +62496,8 @@ overcome loneliness-32 expectation apple uranus neptune
 1
 0 0
 2
-0 49 0 12
 0 47 1 3
+0 49 0 12
 1
 end_operator
 begin_operator
@@ -62505,8 +62505,8 @@ overcome loneliness-32 expectation flounder mars uranus
 1
 0 1
 2
-0 49 1 12
 0 47 3 0
+0 49 1 12
 1
 end_operator
 begin_operator
@@ -62514,8 +62514,8 @@ overcome loneliness-32 expectation flounder neptune saturn
 1
 0 1
 2
-0 49 1 12
 0 47 2 1
+0 49 1 12
 1
 end_operator
 begin_operator
@@ -62523,8 +62523,8 @@ overcome loneliness-32 expectation flounder uranus neptune
 1
 0 1
 2
-0 49 1 12
 0 47 1 3
+0 49 1 12
 1
 end_operator
 begin_operator
@@ -62532,8 +62532,8 @@ overcome loneliness-32 expectation guava mars uranus
 1
 0 2
 2
-0 49 2 12
 0 47 3 0
+0 49 2 12
 1
 end_operator
 begin_operator
@@ -62541,8 +62541,8 @@ overcome loneliness-32 expectation guava neptune saturn
 1
 0 2
 2
-0 49 2 12
 0 47 2 1
+0 49 2 12
 1
 end_operator
 begin_operator
@@ -62550,8 +62550,8 @@ overcome loneliness-32 expectation guava uranus neptune
 1
 0 2
 2
-0 49 2 12
 0 47 1 3
+0 49 2 12
 1
 end_operator
 begin_operator
@@ -62559,8 +62559,8 @@ overcome loneliness-32 expectation hamburger mars uranus
 1
 0 3
 2
-0 49 3 12
 0 47 3 0
+0 49 3 12
 1
 end_operator
 begin_operator
@@ -62568,8 +62568,8 @@ overcome loneliness-32 expectation hamburger neptune saturn
 1
 0 3
 2
-0 49 3 12
 0 47 2 1
+0 49 3 12
 1
 end_operator
 begin_operator
@@ -62577,8 +62577,8 @@ overcome loneliness-32 expectation hamburger uranus neptune
 1
 0 3
 2
-0 49 3 12
 0 47 1 3
+0 49 3 12
 1
 end_operator
 begin_operator
@@ -62586,8 +62586,8 @@ overcome loneliness-32 expectation lemon mars uranus
 1
 0 4
 2
-0 49 4 12
 0 47 3 0
+0 49 4 12
 1
 end_operator
 begin_operator
@@ -62595,8 +62595,8 @@ overcome loneliness-32 expectation lemon neptune saturn
 1
 0 4
 2
-0 49 4 12
 0 47 2 1
+0 49 4 12
 1
 end_operator
 begin_operator
@@ -62604,8 +62604,8 @@ overcome loneliness-32 expectation lemon uranus neptune
 1
 0 4
 2
-0 49 4 12
 0 47 1 3
+0 49 4 12
 1
 end_operator
 begin_operator
@@ -62613,8 +62613,8 @@ overcome loneliness-32 expectation marzipan mars uranus
 1
 0 5
 2
-0 49 5 12
 0 47 3 0
+0 49 5 12
 1
 end_operator
 begin_operator
@@ -62622,8 +62622,8 @@ overcome loneliness-32 expectation marzipan neptune saturn
 1
 0 5
 2
-0 49 5 12
 0 47 2 1
+0 49 5 12
 1
 end_operator
 begin_operator
@@ -62631,8 +62631,8 @@ overcome loneliness-32 expectation marzipan uranus neptune
 1
 0 5
 2
-0 49 5 12
 0 47 1 3
+0 49 5 12
 1
 end_operator
 begin_operator
@@ -62640,8 +62640,8 @@ overcome loneliness-32 expectation muffin mars uranus
 1
 0 6
 2
-0 49 6 12
 0 47 3 0
+0 49 6 12
 1
 end_operator
 begin_operator
@@ -62649,8 +62649,8 @@ overcome loneliness-32 expectation muffin neptune saturn
 1
 0 6
 2
-0 49 6 12
 0 47 2 1
+0 49 6 12
 1
 end_operator
 begin_operator
@@ -62658,8 +62658,8 @@ overcome loneliness-32 expectation muffin uranus neptune
 1
 0 6
 2
-0 49 6 12
 0 47 1 3
+0 49 6 12
 1
 end_operator
 begin_operator
@@ -62667,8 +62667,8 @@ overcome loneliness-32 expectation okra mars uranus
 1
 0 7
 2
-0 49 7 12
 0 47 3 0
+0 49 7 12
 1
 end_operator
 begin_operator
@@ -62676,8 +62676,8 @@ overcome loneliness-32 expectation okra neptune saturn
 1
 0 7
 2
-0 49 7 12
 0 47 2 1
+0 49 7 12
 1
 end_operator
 begin_operator
@@ -62685,8 +62685,8 @@ overcome loneliness-32 expectation okra uranus neptune
 1
 0 7
 2
-0 49 7 12
 0 47 1 3
+0 49 7 12
 1
 end_operator
 begin_operator
@@ -62694,8 +62694,8 @@ overcome loneliness-32 expectation onion mars uranus
 1
 0 8
 2
-0 49 8 12
 0 47 3 0
+0 49 8 12
 1
 end_operator
 begin_operator
@@ -62703,8 +62703,8 @@ overcome loneliness-32 expectation onion neptune saturn
 1
 0 8
 2
-0 49 8 12
 0 47 2 1
+0 49 8 12
 1
 end_operator
 begin_operator
@@ -62712,8 +62712,8 @@ overcome loneliness-32 expectation onion uranus neptune
 1
 0 8
 2
-0 49 8 12
 0 47 1 3
+0 49 8 12
 1
 end_operator
 begin_operator
@@ -62721,8 +62721,8 @@ overcome loneliness-32 expectation popover mars uranus
 1
 0 9
 2
-0 49 9 12
 0 47 3 0
+0 49 9 12
 1
 end_operator
 begin_operator
@@ -62730,8 +62730,8 @@ overcome loneliness-32 expectation popover neptune saturn
 1
 0 9
 2
-0 49 9 12
 0 47 2 1
+0 49 9 12
 1
 end_operator
 begin_operator
@@ -62739,8 +62739,8 @@ overcome loneliness-32 expectation popover uranus neptune
 1
 0 9
 2
-0 49 9 12
 0 47 1 3
+0 49 9 12
 1
 end_operator
 begin_operator
@@ -62748,8 +62748,8 @@ overcome loneliness-32 expectation snickers mars uranus
 1
 0 10
 2
-0 49 10 12
 0 47 3 0
+0 49 10 12
 1
 end_operator
 begin_operator
@@ -62757,8 +62757,8 @@ overcome loneliness-32 expectation snickers neptune saturn
 1
 0 10
 2
-0 49 10 12
 0 47 2 1
+0 49 10 12
 1
 end_operator
 begin_operator
@@ -62766,8 +62766,8 @@ overcome loneliness-32 expectation snickers uranus neptune
 1
 0 10
 2
-0 49 10 12
 0 47 1 3
+0 49 10 12
 1
 end_operator
 begin_operator
@@ -62775,8 +62775,8 @@ overcome loneliness-32 expectation wurst mars uranus
 1
 0 11
 2
-0 49 11 12
 0 47 3 0
+0 49 11 12
 1
 end_operator
 begin_operator
@@ -62784,8 +62784,8 @@ overcome loneliness-32 expectation wurst neptune saturn
 1
 0 11
 2
-0 49 11 12
 0 47 2 1
+0 49 11 12
 1
 end_operator
 begin_operator
@@ -62793,8 +62793,8 @@ overcome loneliness-32 expectation wurst uranus neptune
 1
 0 11
 2
-0 49 11 12
 0 47 1 3
+0 49 11 12
 1
 end_operator
 begin_operator
@@ -62802,8 +62802,8 @@ overcome loneliness-32 learning apple mars uranus
 1
 1 0
 2
-0 49 0 13
 0 48 3 0
+0 49 0 13
 1
 end_operator
 begin_operator
@@ -62811,8 +62811,8 @@ overcome loneliness-32 learning apple neptune saturn
 1
 1 0
 2
-0 49 0 13
 0 48 2 1
+0 49 0 13
 1
 end_operator
 begin_operator
@@ -62820,8 +62820,8 @@ overcome loneliness-32 learning apple uranus neptune
 1
 1 0
 2
-0 49 0 13
 0 48 1 3
+0 49 0 13
 1
 end_operator
 begin_operator
@@ -62829,8 +62829,8 @@ overcome loneliness-32 learning flounder mars uranus
 1
 1 1
 2
-0 49 1 13
 0 48 3 0
+0 49 1 13
 1
 end_operator
 begin_operator
@@ -62838,8 +62838,8 @@ overcome loneliness-32 learning flounder neptune saturn
 1
 1 1
 2
-0 49 1 13
 0 48 2 1
+0 49 1 13
 1
 end_operator
 begin_operator
@@ -62847,8 +62847,8 @@ overcome loneliness-32 learning flounder uranus neptune
 1
 1 1
 2
-0 49 1 13
 0 48 1 3
+0 49 1 13
 1
 end_operator
 begin_operator
@@ -62856,8 +62856,8 @@ overcome loneliness-32 learning guava mars uranus
 1
 1 2
 2
-0 49 2 13
 0 48 3 0
+0 49 2 13
 1
 end_operator
 begin_operator
@@ -62865,8 +62865,8 @@ overcome loneliness-32 learning guava neptune saturn
 1
 1 2
 2
-0 49 2 13
 0 48 2 1
+0 49 2 13
 1
 end_operator
 begin_operator
@@ -62874,8 +62874,8 @@ overcome loneliness-32 learning guava uranus neptune
 1
 1 2
 2
-0 49 2 13
 0 48 1 3
+0 49 2 13
 1
 end_operator
 begin_operator
@@ -62883,8 +62883,8 @@ overcome loneliness-32 learning hamburger mars uranus
 1
 1 3
 2
-0 49 3 13
 0 48 3 0
+0 49 3 13
 1
 end_operator
 begin_operator
@@ -62892,8 +62892,8 @@ overcome loneliness-32 learning hamburger neptune saturn
 1
 1 3
 2
-0 49 3 13
 0 48 2 1
+0 49 3 13
 1
 end_operator
 begin_operator
@@ -62901,8 +62901,8 @@ overcome loneliness-32 learning hamburger uranus neptune
 1
 1 3
 2
-0 49 3 13
 0 48 1 3
+0 49 3 13
 1
 end_operator
 begin_operator
@@ -62910,8 +62910,8 @@ overcome loneliness-32 learning lemon mars uranus
 1
 1 4
 2
-0 49 4 13
 0 48 3 0
+0 49 4 13
 1
 end_operator
 begin_operator
@@ -62919,8 +62919,8 @@ overcome loneliness-32 learning lemon neptune saturn
 1
 1 4
 2
-0 49 4 13
 0 48 2 1
+0 49 4 13
 1
 end_operator
 begin_operator
@@ -62928,8 +62928,8 @@ overcome loneliness-32 learning lemon uranus neptune
 1
 1 4
 2
-0 49 4 13
 0 48 1 3
+0 49 4 13
 1
 end_operator
 begin_operator
@@ -62937,8 +62937,8 @@ overcome loneliness-32 learning marzipan mars uranus
 1
 1 5
 2
-0 49 5 13
 0 48 3 0
+0 49 5 13
 1
 end_operator
 begin_operator
@@ -62946,8 +62946,8 @@ overcome loneliness-32 learning marzipan neptune saturn
 1
 1 5
 2
-0 49 5 13
 0 48 2 1
+0 49 5 13
 1
 end_operator
 begin_operator
@@ -62955,8 +62955,8 @@ overcome loneliness-32 learning marzipan uranus neptune
 1
 1 5
 2
-0 49 5 13
 0 48 1 3
+0 49 5 13
 1
 end_operator
 begin_operator
@@ -62964,8 +62964,8 @@ overcome loneliness-32 learning muffin mars uranus
 1
 1 6
 2
-0 49 6 13
 0 48 3 0
+0 49 6 13
 1
 end_operator
 begin_operator
@@ -62973,8 +62973,8 @@ overcome loneliness-32 learning muffin neptune saturn
 1
 1 6
 2
-0 49 6 13
 0 48 2 1
+0 49 6 13
 1
 end_operator
 begin_operator
@@ -62982,8 +62982,8 @@ overcome loneliness-32 learning muffin uranus neptune
 1
 1 6
 2
-0 49 6 13
 0 48 1 3
+0 49 6 13
 1
 end_operator
 begin_operator
@@ -62991,8 +62991,8 @@ overcome loneliness-32 learning okra mars uranus
 1
 1 7
 2
-0 49 7 13
 0 48 3 0
+0 49 7 13
 1
 end_operator
 begin_operator
@@ -63000,8 +63000,8 @@ overcome loneliness-32 learning okra neptune saturn
 1
 1 7
 2
-0 49 7 13
 0 48 2 1
+0 49 7 13
 1
 end_operator
 begin_operator
@@ -63009,8 +63009,8 @@ overcome loneliness-32 learning okra uranus neptune
 1
 1 7
 2
-0 49 7 13
 0 48 1 3
+0 49 7 13
 1
 end_operator
 begin_operator
@@ -63018,8 +63018,8 @@ overcome loneliness-32 learning onion mars uranus
 1
 1 8
 2
-0 49 8 13
 0 48 3 0
+0 49 8 13
 1
 end_operator
 begin_operator
@@ -63027,8 +63027,8 @@ overcome loneliness-32 learning onion neptune saturn
 1
 1 8
 2
-0 49 8 13
 0 48 2 1
+0 49 8 13
 1
 end_operator
 begin_operator
@@ -63036,8 +63036,8 @@ overcome loneliness-32 learning onion uranus neptune
 1
 1 8
 2
-0 49 8 13
 0 48 1 3
+0 49 8 13
 1
 end_operator
 begin_operator
@@ -63045,8 +63045,8 @@ overcome loneliness-32 learning popover mars uranus
 1
 1 9
 2
-0 49 9 13
 0 48 3 0
+0 49 9 13
 1
 end_operator
 begin_operator
@@ -63054,8 +63054,8 @@ overcome loneliness-32 learning popover neptune saturn
 1
 1 9
 2
-0 49 9 13
 0 48 2 1
+0 49 9 13
 1
 end_operator
 begin_operator
@@ -63063,8 +63063,8 @@ overcome loneliness-32 learning popover uranus neptune
 1
 1 9
 2
-0 49 9 13
 0 48 1 3
+0 49 9 13
 1
 end_operator
 begin_operator
@@ -63072,8 +63072,8 @@ overcome loneliness-32 learning snickers mars uranus
 1
 1 10
 2
-0 49 10 13
 0 48 3 0
+0 49 10 13
 1
 end_operator
 begin_operator
@@ -63081,8 +63081,8 @@ overcome loneliness-32 learning snickers neptune saturn
 1
 1 10
 2
-0 49 10 13
 0 48 2 1
+0 49 10 13
 1
 end_operator
 begin_operator
@@ -63090,8 +63090,8 @@ overcome loneliness-32 learning snickers uranus neptune
 1
 1 10
 2
-0 49 10 13
 0 48 1 3
+0 49 10 13
 1
 end_operator
 begin_operator
@@ -63099,8 +63099,8 @@ overcome loneliness-32 learning wurst mars uranus
 1
 1 11
 2
-0 49 11 13
 0 48 3 0
+0 49 11 13
 1
 end_operator
 begin_operator
@@ -63108,8 +63108,8 @@ overcome loneliness-32 learning wurst neptune saturn
 1
 1 11
 2
-0 49 11 13
 0 48 2 1
+0 49 11 13
 1
 end_operator
 begin_operator
@@ -63117,8 +63117,8 @@ overcome loneliness-32 learning wurst uranus neptune
 1
 1 11
 2
-0 49 11 13
 0 48 1 3
+0 49 11 13
 1
 end_operator
 begin_operator
@@ -64422,8 +64422,8 @@ overcome prostatitis expectation apple mars uranus
 1
 0 0
 2
-0 50 0 12
 0 47 3 0
+0 50 0 12
 1
 end_operator
 begin_operator
@@ -64431,8 +64431,8 @@ overcome prostatitis expectation apple neptune saturn
 1
 0 0
 2
-0 50 0 12
 0 47 2 1
+0 50 0 12
 1
 end_operator
 begin_operator
@@ -64440,8 +64440,8 @@ overcome prostatitis expectation apple uranus neptune
 1
 0 0
 2
-0 50 0 12
 0 47 1 3
+0 50 0 12
 1
 end_operator
 begin_operator
@@ -64449,8 +64449,8 @@ overcome prostatitis expectation flounder mars uranus
 1
 0 1
 2
-0 50 1 12
 0 47 3 0
+0 50 1 12
 1
 end_operator
 begin_operator
@@ -64458,8 +64458,8 @@ overcome prostatitis expectation flounder neptune saturn
 1
 0 1
 2
-0 50 1 12
 0 47 2 1
+0 50 1 12
 1
 end_operator
 begin_operator
@@ -64467,8 +64467,8 @@ overcome prostatitis expectation flounder uranus neptune
 1
 0 1
 2
-0 50 1 12
 0 47 1 3
+0 50 1 12
 1
 end_operator
 begin_operator
@@ -64476,8 +64476,8 @@ overcome prostatitis expectation guava mars uranus
 1
 0 2
 2
-0 50 2 12
 0 47 3 0
+0 50 2 12
 1
 end_operator
 begin_operator
@@ -64485,8 +64485,8 @@ overcome prostatitis expectation guava neptune saturn
 1
 0 2
 2
-0 50 2 12
 0 47 2 1
+0 50 2 12
 1
 end_operator
 begin_operator
@@ -64494,8 +64494,8 @@ overcome prostatitis expectation guava uranus neptune
 1
 0 2
 2
-0 50 2 12
 0 47 1 3
+0 50 2 12
 1
 end_operator
 begin_operator
@@ -64503,8 +64503,8 @@ overcome prostatitis expectation hamburger mars uranus
 1
 0 3
 2
-0 50 3 12
 0 47 3 0
+0 50 3 12
 1
 end_operator
 begin_operator
@@ -64512,8 +64512,8 @@ overcome prostatitis expectation hamburger neptune saturn
 1
 0 3
 2
-0 50 3 12
 0 47 2 1
+0 50 3 12
 1
 end_operator
 begin_operator
@@ -64521,8 +64521,8 @@ overcome prostatitis expectation hamburger uranus neptune
 1
 0 3
 2
-0 50 3 12
 0 47 1 3
+0 50 3 12
 1
 end_operator
 begin_operator
@@ -64530,8 +64530,8 @@ overcome prostatitis expectation lemon mars uranus
 1
 0 4
 2
-0 50 4 12
 0 47 3 0
+0 50 4 12
 1
 end_operator
 begin_operator
@@ -64539,8 +64539,8 @@ overcome prostatitis expectation lemon neptune saturn
 1
 0 4
 2
-0 50 4 12
 0 47 2 1
+0 50 4 12
 1
 end_operator
 begin_operator
@@ -64548,8 +64548,8 @@ overcome prostatitis expectation lemon uranus neptune
 1
 0 4
 2
-0 50 4 12
 0 47 1 3
+0 50 4 12
 1
 end_operator
 begin_operator
@@ -64557,8 +64557,8 @@ overcome prostatitis expectation marzipan mars uranus
 1
 0 5
 2
-0 50 5 12
 0 47 3 0
+0 50 5 12
 1
 end_operator
 begin_operator
@@ -64566,8 +64566,8 @@ overcome prostatitis expectation marzipan neptune saturn
 1
 0 5
 2
-0 50 5 12
 0 47 2 1
+0 50 5 12
 1
 end_operator
 begin_operator
@@ -64575,8 +64575,8 @@ overcome prostatitis expectation marzipan uranus neptune
 1
 0 5
 2
-0 50 5 12
 0 47 1 3
+0 50 5 12
 1
 end_operator
 begin_operator
@@ -64584,8 +64584,8 @@ overcome prostatitis expectation muffin mars uranus
 1
 0 6
 2
-0 50 6 12
 0 47 3 0
+0 50 6 12
 1
 end_operator
 begin_operator
@@ -64593,8 +64593,8 @@ overcome prostatitis expectation muffin neptune saturn
 1
 0 6
 2
-0 50 6 12
 0 47 2 1
+0 50 6 12
 1
 end_operator
 begin_operator
@@ -64602,8 +64602,8 @@ overcome prostatitis expectation muffin uranus neptune
 1
 0 6
 2
-0 50 6 12
 0 47 1 3
+0 50 6 12
 1
 end_operator
 begin_operator
@@ -64611,8 +64611,8 @@ overcome prostatitis expectation okra mars uranus
 1
 0 7
 2
-0 50 7 12
 0 47 3 0
+0 50 7 12
 1
 end_operator
 begin_operator
@@ -64620,8 +64620,8 @@ overcome prostatitis expectation okra neptune saturn
 1
 0 7
 2
-0 50 7 12
 0 47 2 1
+0 50 7 12
 1
 end_operator
 begin_operator
@@ -64629,8 +64629,8 @@ overcome prostatitis expectation okra uranus neptune
 1
 0 7
 2
-0 50 7 12
 0 47 1 3
+0 50 7 12
 1
 end_operator
 begin_operator
@@ -64638,8 +64638,8 @@ overcome prostatitis expectation onion mars uranus
 1
 0 8
 2
-0 50 8 12
 0 47 3 0
+0 50 8 12
 1
 end_operator
 begin_operator
@@ -64647,8 +64647,8 @@ overcome prostatitis expectation onion neptune saturn
 1
 0 8
 2
-0 50 8 12
 0 47 2 1
+0 50 8 12
 1
 end_operator
 begin_operator
@@ -64656,8 +64656,8 @@ overcome prostatitis expectation onion uranus neptune
 1
 0 8
 2
-0 50 8 12
 0 47 1 3
+0 50 8 12
 1
 end_operator
 begin_operator
@@ -64665,8 +64665,8 @@ overcome prostatitis expectation popover mars uranus
 1
 0 9
 2
-0 50 9 12
 0 47 3 0
+0 50 9 12
 1
 end_operator
 begin_operator
@@ -64674,8 +64674,8 @@ overcome prostatitis expectation popover neptune saturn
 1
 0 9
 2
-0 50 9 12
 0 47 2 1
+0 50 9 12
 1
 end_operator
 begin_operator
@@ -64683,8 +64683,8 @@ overcome prostatitis expectation popover uranus neptune
 1
 0 9
 2
-0 50 9 12
 0 47 1 3
+0 50 9 12
 1
 end_operator
 begin_operator
@@ -64692,8 +64692,8 @@ overcome prostatitis expectation snickers mars uranus
 1
 0 10
 2
-0 50 10 12
 0 47 3 0
+0 50 10 12
 1
 end_operator
 begin_operator
@@ -64701,8 +64701,8 @@ overcome prostatitis expectation snickers neptune saturn
 1
 0 10
 2
-0 50 10 12
 0 47 2 1
+0 50 10 12
 1
 end_operator
 begin_operator
@@ -64710,8 +64710,8 @@ overcome prostatitis expectation snickers uranus neptune
 1
 0 10
 2
-0 50 10 12
 0 47 1 3
+0 50 10 12
 1
 end_operator
 begin_operator
@@ -64719,8 +64719,8 @@ overcome prostatitis expectation wurst mars uranus
 1
 0 11
 2
-0 50 11 12
 0 47 3 0
+0 50 11 12
 1
 end_operator
 begin_operator
@@ -64728,8 +64728,8 @@ overcome prostatitis expectation wurst neptune saturn
 1
 0 11
 2
-0 50 11 12
 0 47 2 1
+0 50 11 12
 1
 end_operator
 begin_operator
@@ -64737,8 +64737,8 @@ overcome prostatitis expectation wurst uranus neptune
 1
 0 11
 2
-0 50 11 12
 0 47 1 3
+0 50 11 12
 1
 end_operator
 begin_operator
@@ -64746,8 +64746,8 @@ overcome prostatitis learning apple mars uranus
 1
 1 0
 2
-0 50 0 13
 0 48 3 0
+0 50 0 13
 1
 end_operator
 begin_operator
@@ -64755,8 +64755,8 @@ overcome prostatitis learning apple neptune saturn
 1
 1 0
 2
-0 50 0 13
 0 48 2 1
+0 50 0 13
 1
 end_operator
 begin_operator
@@ -64764,8 +64764,8 @@ overcome prostatitis learning apple uranus neptune
 1
 1 0
 2
-0 50 0 13
 0 48 1 3
+0 50 0 13
 1
 end_operator
 begin_operator
@@ -64773,8 +64773,8 @@ overcome prostatitis learning flounder mars uranus
 1
 1 1
 2
-0 50 1 13
 0 48 3 0
+0 50 1 13
 1
 end_operator
 begin_operator
@@ -64782,8 +64782,8 @@ overcome prostatitis learning flounder neptune saturn
 1
 1 1
 2
-0 50 1 13
 0 48 2 1
+0 50 1 13
 1
 end_operator
 begin_operator
@@ -64791,8 +64791,8 @@ overcome prostatitis learning flounder uranus neptune
 1
 1 1
 2
-0 50 1 13
 0 48 1 3
+0 50 1 13
 1
 end_operator
 begin_operator
@@ -64800,8 +64800,8 @@ overcome prostatitis learning guava mars uranus
 1
 1 2
 2
-0 50 2 13
 0 48 3 0
+0 50 2 13
 1
 end_operator
 begin_operator
@@ -64809,8 +64809,8 @@ overcome prostatitis learning guava neptune saturn
 1
 1 2
 2
-0 50 2 13
 0 48 2 1
+0 50 2 13
 1
 end_operator
 begin_operator
@@ -64818,8 +64818,8 @@ overcome prostatitis learning guava uranus neptune
 1
 1 2
 2
-0 50 2 13
 0 48 1 3
+0 50 2 13
 1
 end_operator
 begin_operator
@@ -64827,8 +64827,8 @@ overcome prostatitis learning hamburger mars uranus
 1
 1 3
 2
-0 50 3 13
 0 48 3 0
+0 50 3 13
 1
 end_operator
 begin_operator
@@ -64836,8 +64836,8 @@ overcome prostatitis learning hamburger neptune saturn
 1
 1 3
 2
-0 50 3 13
 0 48 2 1
+0 50 3 13
 1
 end_operator
 begin_operator
@@ -64845,8 +64845,8 @@ overcome prostatitis learning hamburger uranus neptune
 1
 1 3
 2
-0 50 3 13
 0 48 1 3
+0 50 3 13
 1
 end_operator
 begin_operator
@@ -64854,8 +64854,8 @@ overcome prostatitis learning lemon mars uranus
 1
 1 4
 2
-0 50 4 13
 0 48 3 0
+0 50 4 13
 1
 end_operator
 begin_operator
@@ -64863,8 +64863,8 @@ overcome prostatitis learning lemon neptune saturn
 1
 1 4
 2
-0 50 4 13
 0 48 2 1
+0 50 4 13
 1
 end_operator
 begin_operator
@@ -64872,8 +64872,8 @@ overcome prostatitis learning lemon uranus neptune
 1
 1 4
 2
-0 50 4 13
 0 48 1 3
+0 50 4 13
 1
 end_operator
 begin_operator
@@ -64881,8 +64881,8 @@ overcome prostatitis learning marzipan mars uranus
 1
 1 5
 2
-0 50 5 13
 0 48 3 0
+0 50 5 13
 1
 end_operator
 begin_operator
@@ -64890,8 +64890,8 @@ overcome prostatitis learning marzipan neptune saturn
 1
 1 5
 2
-0 50 5 13
 0 48 2 1
+0 50 5 13
 1
 end_operator
 begin_operator
@@ -64899,8 +64899,8 @@ overcome prostatitis learning marzipan uranus neptune
 1
 1 5
 2
-0 50 5 13
 0 48 1 3
+0 50 5 13
 1
 end_operator
 begin_operator
@@ -64908,8 +64908,8 @@ overcome prostatitis learning muffin mars uranus
 1
 1 6
 2
-0 50 6 13
 0 48 3 0
+0 50 6 13
 1
 end_operator
 begin_operator
@@ -64917,8 +64917,8 @@ overcome prostatitis learning muffin neptune saturn
 1
 1 6
 2
-0 50 6 13
 0 48 2 1
+0 50 6 13
 1
 end_operator
 begin_operator
@@ -64926,8 +64926,8 @@ overcome prostatitis learning muffin uranus neptune
 1
 1 6
 2
-0 50 6 13
 0 48 1 3
+0 50 6 13
 1
 end_operator
 begin_operator
@@ -64935,8 +64935,8 @@ overcome prostatitis learning okra mars uranus
 1
 1 7
 2
-0 50 7 13
 0 48 3 0
+0 50 7 13
 1
 end_operator
 begin_operator
@@ -64944,8 +64944,8 @@ overcome prostatitis learning okra neptune saturn
 1
 1 7
 2
-0 50 7 13
 0 48 2 1
+0 50 7 13
 1
 end_operator
 begin_operator
@@ -64953,8 +64953,8 @@ overcome prostatitis learning okra uranus neptune
 1
 1 7
 2
-0 50 7 13
 0 48 1 3
+0 50 7 13
 1
 end_operator
 begin_operator
@@ -64962,8 +64962,8 @@ overcome prostatitis learning onion mars uranus
 1
 1 8
 2
-0 50 8 13
 0 48 3 0
+0 50 8 13
 1
 end_operator
 begin_operator
@@ -64971,8 +64971,8 @@ overcome prostatitis learning onion neptune saturn
 1
 1 8
 2
-0 50 8 13
 0 48 2 1
+0 50 8 13
 1
 end_operator
 begin_operator
@@ -64980,8 +64980,8 @@ overcome prostatitis learning onion uranus neptune
 1
 1 8
 2
-0 50 8 13
 0 48 1 3
+0 50 8 13
 1
 end_operator
 begin_operator
@@ -64989,8 +64989,8 @@ overcome prostatitis learning popover mars uranus
 1
 1 9
 2
-0 50 9 13
 0 48 3 0
+0 50 9 13
 1
 end_operator
 begin_operator
@@ -64998,8 +64998,8 @@ overcome prostatitis learning popover neptune saturn
 1
 1 9
 2
-0 50 9 13
 0 48 2 1
+0 50 9 13
 1
 end_operator
 begin_operator
@@ -65007,8 +65007,8 @@ overcome prostatitis learning popover uranus neptune
 1
 1 9
 2
-0 50 9 13
 0 48 1 3
+0 50 9 13
 1
 end_operator
 begin_operator
@@ -65016,8 +65016,8 @@ overcome prostatitis learning snickers mars uranus
 1
 1 10
 2
-0 50 10 13
 0 48 3 0
+0 50 10 13
 1
 end_operator
 begin_operator
@@ -65025,8 +65025,8 @@ overcome prostatitis learning snickers neptune saturn
 1
 1 10
 2
-0 50 10 13
 0 48 2 1
+0 50 10 13
 1
 end_operator
 begin_operator
@@ -65034,8 +65034,8 @@ overcome prostatitis learning snickers uranus neptune
 1
 1 10
 2
-0 50 10 13
 0 48 1 3
+0 50 10 13
 1
 end_operator
 begin_operator
@@ -65043,8 +65043,8 @@ overcome prostatitis learning wurst mars uranus
 1
 1 11
 2
-0 50 11 13
 0 48 3 0
+0 50 11 13
 1
 end_operator
 begin_operator
@@ -65052,8 +65052,8 @@ overcome prostatitis learning wurst neptune saturn
 1
 1 11
 2
-0 50 11 13
 0 48 2 1
+0 50 11 13
 1
 end_operator
 begin_operator
@@ -65061,8 +65061,8 @@ overcome prostatitis learning wurst uranus neptune
 1
 1 11
 2
-0 50 11 13
 0 48 1 3
+0 50 11 13
 1
 end_operator
 begin_operator
@@ -66366,8 +66366,8 @@ overcome prostatitis-7 expectation apple mars uranus
 1
 0 0
 2
-0 53 0 12
 0 47 3 0
+0 53 0 12
 1
 end_operator
 begin_operator
@@ -66375,8 +66375,8 @@ overcome prostatitis-7 expectation apple neptune saturn
 1
 0 0
 2
-0 53 0 12
 0 47 2 1
+0 53 0 12
 1
 end_operator
 begin_operator
@@ -66384,8 +66384,8 @@ overcome prostatitis-7 expectation apple uranus neptune
 1
 0 0
 2
-0 53 0 12
 0 47 1 3
+0 53 0 12
 1
 end_operator
 begin_operator
@@ -66393,8 +66393,8 @@ overcome prostatitis-7 expectation flounder mars uranus
 1
 0 1
 2
-0 53 1 12
 0 47 3 0
+0 53 1 12
 1
 end_operator
 begin_operator
@@ -66402,8 +66402,8 @@ overcome prostatitis-7 expectation flounder neptune saturn
 1
 0 1
 2
-0 53 1 12
 0 47 2 1
+0 53 1 12
 1
 end_operator
 begin_operator
@@ -66411,8 +66411,8 @@ overcome prostatitis-7 expectation flounder uranus neptune
 1
 0 1
 2
-0 53 1 12
 0 47 1 3
+0 53 1 12
 1
 end_operator
 begin_operator
@@ -66420,8 +66420,8 @@ overcome prostatitis-7 expectation guava mars uranus
 1
 0 2
 2
-0 53 2 12
 0 47 3 0
+0 53 2 12
 1
 end_operator
 begin_operator
@@ -66429,8 +66429,8 @@ overcome prostatitis-7 expectation guava neptune saturn
 1
 0 2
 2
-0 53 2 12
 0 47 2 1
+0 53 2 12
 1
 end_operator
 begin_operator
@@ -66438,8 +66438,8 @@ overcome prostatitis-7 expectation guava uranus neptune
 1
 0 2
 2
-0 53 2 12
 0 47 1 3
+0 53 2 12
 1
 end_operator
 begin_operator
@@ -66447,8 +66447,8 @@ overcome prostatitis-7 expectation hamburger mars uranus
 1
 0 3
 2
-0 53 3 12
 0 47 3 0
+0 53 3 12
 1
 end_operator
 begin_operator
@@ -66456,8 +66456,8 @@ overcome prostatitis-7 expectation hamburger neptune saturn
 1
 0 3
 2
-0 53 3 12
 0 47 2 1
+0 53 3 12
 1
 end_operator
 begin_operator
@@ -66465,8 +66465,8 @@ overcome prostatitis-7 expectation hamburger uranus neptune
 1
 0 3
 2
-0 53 3 12
 0 47 1 3
+0 53 3 12
 1
 end_operator
 begin_operator
@@ -66474,8 +66474,8 @@ overcome prostatitis-7 expectation lemon mars uranus
 1
 0 4
 2
-0 53 4 12
 0 47 3 0
+0 53 4 12
 1
 end_operator
 begin_operator
@@ -66483,8 +66483,8 @@ overcome prostatitis-7 expectation lemon neptune saturn
 1
 0 4
 2
-0 53 4 12
 0 47 2 1
+0 53 4 12
 1
 end_operator
 begin_operator
@@ -66492,8 +66492,8 @@ overcome prostatitis-7 expectation lemon uranus neptune
 1
 0 4
 2
-0 53 4 12
 0 47 1 3
+0 53 4 12
 1
 end_operator
 begin_operator
@@ -66501,8 +66501,8 @@ overcome prostatitis-7 expectation marzipan mars uranus
 1
 0 5
 2
-0 53 5 12
 0 47 3 0
+0 53 5 12
 1
 end_operator
 begin_operator
@@ -66510,8 +66510,8 @@ overcome prostatitis-7 expectation marzipan neptune saturn
 1
 0 5
 2
-0 53 5 12
 0 47 2 1
+0 53 5 12
 1
 end_operator
 begin_operator
@@ -66519,8 +66519,8 @@ overcome prostatitis-7 expectation marzipan uranus neptune
 1
 0 5
 2
-0 53 5 12
 0 47 1 3
+0 53 5 12
 1
 end_operator
 begin_operator
@@ -66528,8 +66528,8 @@ overcome prostatitis-7 expectation muffin mars uranus
 1
 0 6
 2
-0 53 6 12
 0 47 3 0
+0 53 6 12
 1
 end_operator
 begin_operator
@@ -66537,8 +66537,8 @@ overcome prostatitis-7 expectation muffin neptune saturn
 1
 0 6
 2
-0 53 6 12
 0 47 2 1
+0 53 6 12
 1
 end_operator
 begin_operator
@@ -66546,8 +66546,8 @@ overcome prostatitis-7 expectation muffin uranus neptune
 1
 0 6
 2
-0 53 6 12
 0 47 1 3
+0 53 6 12
 1
 end_operator
 begin_operator
@@ -66555,8 +66555,8 @@ overcome prostatitis-7 expectation okra mars uranus
 1
 0 7
 2
-0 53 7 12
 0 47 3 0
+0 53 7 12
 1
 end_operator
 begin_operator
@@ -66564,8 +66564,8 @@ overcome prostatitis-7 expectation okra neptune saturn
 1
 0 7
 2
-0 53 7 12
 0 47 2 1
+0 53 7 12
 1
 end_operator
 begin_operator
@@ -66573,8 +66573,8 @@ overcome prostatitis-7 expectation okra uranus neptune
 1
 0 7
 2
-0 53 7 12
 0 47 1 3
+0 53 7 12
 1
 end_operator
 begin_operator
@@ -66582,8 +66582,8 @@ overcome prostatitis-7 expectation onion mars uranus
 1
 0 8
 2
-0 53 8 12
 0 47 3 0
+0 53 8 12
 1
 end_operator
 begin_operator
@@ -66591,8 +66591,8 @@ overcome prostatitis-7 expectation onion neptune saturn
 1
 0 8
 2
-0 53 8 12
 0 47 2 1
+0 53 8 12
 1
 end_operator
 begin_operator
@@ -66600,8 +66600,8 @@ overcome prostatitis-7 expectation onion uranus neptune
 1
 0 8
 2
-0 53 8 12
 0 47 1 3
+0 53 8 12
 1
 end_operator
 begin_operator
@@ -66609,8 +66609,8 @@ overcome prostatitis-7 expectation popover mars uranus
 1
 0 9
 2
-0 53 9 12
 0 47 3 0
+0 53 9 12
 1
 end_operator
 begin_operator
@@ -66618,8 +66618,8 @@ overcome prostatitis-7 expectation popover neptune saturn
 1
 0 9
 2
-0 53 9 12
 0 47 2 1
+0 53 9 12
 1
 end_operator
 begin_operator
@@ -66627,8 +66627,8 @@ overcome prostatitis-7 expectation popover uranus neptune
 1
 0 9
 2
-0 53 9 12
 0 47 1 3
+0 53 9 12
 1
 end_operator
 begin_operator
@@ -66636,8 +66636,8 @@ overcome prostatitis-7 expectation snickers mars uranus
 1
 0 10
 2
-0 53 10 12
 0 47 3 0
+0 53 10 12
 1
 end_operator
 begin_operator
@@ -66645,8 +66645,8 @@ overcome prostatitis-7 expectation snickers neptune saturn
 1
 0 10
 2
-0 53 10 12
 0 47 2 1
+0 53 10 12
 1
 end_operator
 begin_operator
@@ -66654,8 +66654,8 @@ overcome prostatitis-7 expectation snickers uranus neptune
 1
 0 10
 2
-0 53 10 12
 0 47 1 3
+0 53 10 12
 1
 end_operator
 begin_operator
@@ -66663,8 +66663,8 @@ overcome prostatitis-7 expectation wurst mars uranus
 1
 0 11
 2
-0 53 11 12
 0 47 3 0
+0 53 11 12
 1
 end_operator
 begin_operator
@@ -66672,8 +66672,8 @@ overcome prostatitis-7 expectation wurst neptune saturn
 1
 0 11
 2
-0 53 11 12
 0 47 2 1
+0 53 11 12
 1
 end_operator
 begin_operator
@@ -66681,8 +66681,8 @@ overcome prostatitis-7 expectation wurst uranus neptune
 1
 0 11
 2
-0 53 11 12
 0 47 1 3
+0 53 11 12
 1
 end_operator
 begin_operator
@@ -66690,8 +66690,8 @@ overcome prostatitis-7 learning apple mars uranus
 1
 1 0
 2
-0 53 0 13
 0 48 3 0
+0 53 0 13
 1
 end_operator
 begin_operator
@@ -66699,8 +66699,8 @@ overcome prostatitis-7 learning apple neptune saturn
 1
 1 0
 2
-0 53 0 13
 0 48 2 1
+0 53 0 13
 1
 end_operator
 begin_operator
@@ -66708,8 +66708,8 @@ overcome prostatitis-7 learning apple uranus neptune
 1
 1 0
 2
-0 53 0 13
 0 48 1 3
+0 53 0 13
 1
 end_operator
 begin_operator
@@ -66717,8 +66717,8 @@ overcome prostatitis-7 learning flounder mars uranus
 1
 1 1
 2
-0 53 1 13
 0 48 3 0
+0 53 1 13
 1
 end_operator
 begin_operator
@@ -66726,8 +66726,8 @@ overcome prostatitis-7 learning flounder neptune saturn
 1
 1 1
 2
-0 53 1 13
 0 48 2 1
+0 53 1 13
 1
 end_operator
 begin_operator
@@ -66735,8 +66735,8 @@ overcome prostatitis-7 learning flounder uranus neptune
 1
 1 1
 2
-0 53 1 13
 0 48 1 3
+0 53 1 13
 1
 end_operator
 begin_operator
@@ -66744,8 +66744,8 @@ overcome prostatitis-7 learning guava mars uranus
 1
 1 2
 2
-0 53 2 13
 0 48 3 0
+0 53 2 13
 1
 end_operator
 begin_operator
@@ -66753,8 +66753,8 @@ overcome prostatitis-7 learning guava neptune saturn
 1
 1 2
 2
-0 53 2 13
 0 48 2 1
+0 53 2 13
 1
 end_operator
 begin_operator
@@ -66762,8 +66762,8 @@ overcome prostatitis-7 learning guava uranus neptune
 1
 1 2
 2
-0 53 2 13
 0 48 1 3
+0 53 2 13
 1
 end_operator
 begin_operator
@@ -66771,8 +66771,8 @@ overcome prostatitis-7 learning hamburger mars uranus
 1
 1 3
 2
-0 53 3 13
 0 48 3 0
+0 53 3 13
 1
 end_operator
 begin_operator
@@ -66780,8 +66780,8 @@ overcome prostatitis-7 learning hamburger neptune saturn
 1
 1 3
 2
-0 53 3 13
 0 48 2 1
+0 53 3 13
 1
 end_operator
 begin_operator
@@ -66789,8 +66789,8 @@ overcome prostatitis-7 learning hamburger uranus neptune
 1
 1 3
 2
-0 53 3 13
 0 48 1 3
+0 53 3 13
 1
 end_operator
 begin_operator
@@ -66798,8 +66798,8 @@ overcome prostatitis-7 learning lemon mars uranus
 1
 1 4
 2
-0 53 4 13
 0 48 3 0
+0 53 4 13
 1
 end_operator
 begin_operator
@@ -66807,8 +66807,8 @@ overcome prostatitis-7 learning lemon neptune saturn
 1
 1 4
 2
-0 53 4 13
 0 48 2 1
+0 53 4 13
 1
 end_operator
 begin_operator
@@ -66816,8 +66816,8 @@ overcome prostatitis-7 learning lemon uranus neptune
 1
 1 4
 2
-0 53 4 13
 0 48 1 3
+0 53 4 13
 1
 end_operator
 begin_operator
@@ -66825,8 +66825,8 @@ overcome prostatitis-7 learning marzipan mars uranus
 1
 1 5
 2
-0 53 5 13
 0 48 3 0
+0 53 5 13
 1
 end_operator
 begin_operator
@@ -66834,8 +66834,8 @@ overcome prostatitis-7 learning marzipan neptune saturn
 1
 1 5
 2
-0 53 5 13
 0 48 2 1
+0 53 5 13
 1
 end_operator
 begin_operator
@@ -66843,8 +66843,8 @@ overcome prostatitis-7 learning marzipan uranus neptune
 1
 1 5
 2
-0 53 5 13
 0 48 1 3
+0 53 5 13
 1
 end_operator
 begin_operator
@@ -66852,8 +66852,8 @@ overcome prostatitis-7 learning muffin mars uranus
 1
 1 6
 2
-0 53 6 13
 0 48 3 0
+0 53 6 13
 1
 end_operator
 begin_operator
@@ -66861,8 +66861,8 @@ overcome prostatitis-7 learning muffin neptune saturn
 1
 1 6
 2
-0 53 6 13
 0 48 2 1
+0 53 6 13
 1
 end_operator
 begin_operator
@@ -66870,8 +66870,8 @@ overcome prostatitis-7 learning muffin uranus neptune
 1
 1 6
 2
-0 53 6 13
 0 48 1 3
+0 53 6 13
 1
 end_operator
 begin_operator
@@ -66879,8 +66879,8 @@ overcome prostatitis-7 learning okra mars uranus
 1
 1 7
 2
-0 53 7 13
 0 48 3 0
+0 53 7 13
 1
 end_operator
 begin_operator
@@ -66888,8 +66888,8 @@ overcome prostatitis-7 learning okra neptune saturn
 1
 1 7
 2
-0 53 7 13
 0 48 2 1
+0 53 7 13
 1
 end_operator
 begin_operator
@@ -66897,8 +66897,8 @@ overcome prostatitis-7 learning okra uranus neptune
 1
 1 7
 2
-0 53 7 13
 0 48 1 3
+0 53 7 13
 1
 end_operator
 begin_operator
@@ -66906,8 +66906,8 @@ overcome prostatitis-7 learning onion mars uranus
 1
 1 8
 2
-0 53 8 13
 0 48 3 0
+0 53 8 13
 1
 end_operator
 begin_operator
@@ -66915,8 +66915,8 @@ overcome prostatitis-7 learning onion neptune saturn
 1
 1 8
 2
-0 53 8 13
 0 48 2 1
+0 53 8 13
 1
 end_operator
 begin_operator
@@ -66924,8 +66924,8 @@ overcome prostatitis-7 learning onion uranus neptune
 1
 1 8
 2
-0 53 8 13
 0 48 1 3
+0 53 8 13
 1
 end_operator
 begin_operator
@@ -66933,8 +66933,8 @@ overcome prostatitis-7 learning popover mars uranus
 1
 1 9
 2
-0 53 9 13
 0 48 3 0
+0 53 9 13
 1
 end_operator
 begin_operator
@@ -66942,8 +66942,8 @@ overcome prostatitis-7 learning popover neptune saturn
 1
 1 9
 2
-0 53 9 13
 0 48 2 1
+0 53 9 13
 1
 end_operator
 begin_operator
@@ -66951,8 +66951,8 @@ overcome prostatitis-7 learning popover uranus neptune
 1
 1 9
 2
-0 53 9 13
 0 48 1 3
+0 53 9 13
 1
 end_operator
 begin_operator
@@ -66960,8 +66960,8 @@ overcome prostatitis-7 learning snickers mars uranus
 1
 1 10
 2
-0 53 10 13
 0 48 3 0
+0 53 10 13
 1
 end_operator
 begin_operator
@@ -66969,8 +66969,8 @@ overcome prostatitis-7 learning snickers neptune saturn
 1
 1 10
 2
-0 53 10 13
 0 48 2 1
+0 53 10 13
 1
 end_operator
 begin_operator
@@ -66978,8 +66978,8 @@ overcome prostatitis-7 learning snickers uranus neptune
 1
 1 10
 2
-0 53 10 13
 0 48 1 3
+0 53 10 13
 1
 end_operator
 begin_operator
@@ -66987,8 +66987,8 @@ overcome prostatitis-7 learning wurst mars uranus
 1
 1 11
 2
-0 53 11 13
 0 48 3 0
+0 53 11 13
 1
 end_operator
 begin_operator
@@ -66996,8 +66996,8 @@ overcome prostatitis-7 learning wurst neptune saturn
 1
 1 11
 2
-0 53 11 13
 0 48 2 1
+0 53 11 13
 1
 end_operator
 begin_operator
@@ -67005,8 +67005,8 @@ overcome prostatitis-7 learning wurst uranus neptune
 1
 1 11
 2
-0 53 11 13
 0 48 1 3
+0 53 11 13
 1
 end_operator
 begin_operator
@@ -67014,8 +67014,8 @@ overcome prostatitis-7 love apple mars uranus
 1
 2 0
 2
-0 53 0 14
 0 51 3 0
+0 53 0 14
 1
 end_operator
 begin_operator
@@ -67023,8 +67023,8 @@ overcome prostatitis-7 love apple neptune saturn
 1
 2 0
 2
-0 53 0 14
 0 51 2 1
+0 53 0 14
 1
 end_operator
 begin_operator
@@ -67032,8 +67032,8 @@ overcome prostatitis-7 love apple uranus neptune
 1
 2 0
 2
-0 53 0 14
 0 51 1 3
+0 53 0 14
 1
 end_operator
 begin_operator
@@ -67041,8 +67041,8 @@ overcome prostatitis-7 love flounder mars uranus
 1
 2 1
 2
-0 53 1 14
 0 51 3 0
+0 53 1 14
 1
 end_operator
 begin_operator
@@ -67050,8 +67050,8 @@ overcome prostatitis-7 love flounder neptune saturn
 1
 2 1
 2
-0 53 1 14
 0 51 2 1
+0 53 1 14
 1
 end_operator
 begin_operator
@@ -67059,8 +67059,8 @@ overcome prostatitis-7 love flounder uranus neptune
 1
 2 1
 2
-0 53 1 14
 0 51 1 3
+0 53 1 14
 1
 end_operator
 begin_operator
@@ -67068,8 +67068,8 @@ overcome prostatitis-7 love guava mars uranus
 1
 2 2
 2
-0 53 2 14
 0 51 3 0
+0 53 2 14
 1
 end_operator
 begin_operator
@@ -67077,8 +67077,8 @@ overcome prostatitis-7 love guava neptune saturn
 1
 2 2
 2
-0 53 2 14
 0 51 2 1
+0 53 2 14
 1
 end_operator
 begin_operator
@@ -67086,8 +67086,8 @@ overcome prostatitis-7 love guava uranus neptune
 1
 2 2
 2
-0 53 2 14
 0 51 1 3
+0 53 2 14
 1
 end_operator
 begin_operator
@@ -67095,8 +67095,8 @@ overcome prostatitis-7 love hamburger mars uranus
 1
 2 3
 2
-0 53 3 14
 0 51 3 0
+0 53 3 14
 1
 end_operator
 begin_operator
@@ -67104,8 +67104,8 @@ overcome prostatitis-7 love hamburger neptune saturn
 1
 2 3
 2
-0 53 3 14
 0 51 2 1
+0 53 3 14
 1
 end_operator
 begin_operator
@@ -67113,8 +67113,8 @@ overcome prostatitis-7 love hamburger uranus neptune
 1
 2 3
 2
-0 53 3 14
 0 51 1 3
+0 53 3 14
 1
 end_operator
 begin_operator
@@ -67122,8 +67122,8 @@ overcome prostatitis-7 love lemon mars uranus
 1
 2 4
 2
-0 53 4 14
 0 51 3 0
+0 53 4 14
 1
 end_operator
 begin_operator
@@ -67131,8 +67131,8 @@ overcome prostatitis-7 love lemon neptune saturn
 1
 2 4
 2
-0 53 4 14
 0 51 2 1
+0 53 4 14
 1
 end_operator
 begin_operator
@@ -67140,8 +67140,8 @@ overcome prostatitis-7 love lemon uranus neptune
 1
 2 4
 2
-0 53 4 14
 0 51 1 3
+0 53 4 14
 1
 end_operator
 begin_operator
@@ -67149,8 +67149,8 @@ overcome prostatitis-7 love marzipan mars uranus
 1
 2 5
 2
-0 53 5 14
 0 51 3 0
+0 53 5 14
 1
 end_operator
 begin_operator
@@ -67158,8 +67158,8 @@ overcome prostatitis-7 love marzipan neptune saturn
 1
 2 5
 2
-0 53 5 14
 0 51 2 1
+0 53 5 14
 1
 end_operator
 begin_operator
@@ -67167,8 +67167,8 @@ overcome prostatitis-7 love marzipan uranus neptune
 1
 2 5
 2
-0 53 5 14
 0 51 1 3
+0 53 5 14
 1
 end_operator
 begin_operator
@@ -67176,8 +67176,8 @@ overcome prostatitis-7 love muffin mars uranus
 1
 2 6
 2
-0 53 6 14
 0 51 3 0
+0 53 6 14
 1
 end_operator
 begin_operator
@@ -67185,8 +67185,8 @@ overcome prostatitis-7 love muffin neptune saturn
 1
 2 6
 2
-0 53 6 14
 0 51 2 1
+0 53 6 14
 1
 end_operator
 begin_operator
@@ -67194,8 +67194,8 @@ overcome prostatitis-7 love muffin uranus neptune
 1
 2 6
 2
-0 53 6 14
 0 51 1 3
+0 53 6 14
 1
 end_operator
 begin_operator
@@ -67203,8 +67203,8 @@ overcome prostatitis-7 love okra mars uranus
 1
 2 7
 2
-0 53 7 14
 0 51 3 0
+0 53 7 14
 1
 end_operator
 begin_operator
@@ -67212,8 +67212,8 @@ overcome prostatitis-7 love okra neptune saturn
 1
 2 7
 2
-0 53 7 14
 0 51 2 1
+0 53 7 14
 1
 end_operator
 begin_operator
@@ -67221,8 +67221,8 @@ overcome prostatitis-7 love okra uranus neptune
 1
 2 7
 2
-0 53 7 14
 0 51 1 3
+0 53 7 14
 1
 end_operator
 begin_operator
@@ -67230,8 +67230,8 @@ overcome prostatitis-7 love onion mars uranus
 1
 2 8
 2
-0 53 8 14
 0 51 3 0
+0 53 8 14
 1
 end_operator
 begin_operator
@@ -67239,8 +67239,8 @@ overcome prostatitis-7 love onion neptune saturn
 1
 2 8
 2
-0 53 8 14
 0 51 2 1
+0 53 8 14
 1
 end_operator
 begin_operator
@@ -67248,8 +67248,8 @@ overcome prostatitis-7 love onion uranus neptune
 1
 2 8
 2
-0 53 8 14
 0 51 1 3
+0 53 8 14
 1
 end_operator
 begin_operator
@@ -67257,8 +67257,8 @@ overcome prostatitis-7 love popover mars uranus
 1
 2 9
 2
-0 53 9 14
 0 51 3 0
+0 53 9 14
 1
 end_operator
 begin_operator
@@ -67266,8 +67266,8 @@ overcome prostatitis-7 love popover neptune saturn
 1
 2 9
 2
-0 53 9 14
 0 51 2 1
+0 53 9 14
 1
 end_operator
 begin_operator
@@ -67275,8 +67275,8 @@ overcome prostatitis-7 love popover uranus neptune
 1
 2 9
 2
-0 53 9 14
 0 51 1 3
+0 53 9 14
 1
 end_operator
 begin_operator
@@ -67284,8 +67284,8 @@ overcome prostatitis-7 love snickers mars uranus
 1
 2 10
 2
-0 53 10 14
 0 51 3 0
+0 53 10 14
 1
 end_operator
 begin_operator
@@ -67293,8 +67293,8 @@ overcome prostatitis-7 love snickers neptune saturn
 1
 2 10
 2
-0 53 10 14
 0 51 2 1
+0 53 10 14
 1
 end_operator
 begin_operator
@@ -67302,8 +67302,8 @@ overcome prostatitis-7 love snickers uranus neptune
 1
 2 10
 2
-0 53 10 14
 0 51 1 3
+0 53 10 14
 1
 end_operator
 begin_operator
@@ -67311,8 +67311,8 @@ overcome prostatitis-7 love wurst mars uranus
 1
 2 11
 2
-0 53 11 14
 0 51 3 0
+0 53 11 14
 1
 end_operator
 begin_operator
@@ -67320,8 +67320,8 @@ overcome prostatitis-7 love wurst neptune saturn
 1
 2 11
 2
-0 53 11 14
 0 51 2 1
+0 53 11 14
 1
 end_operator
 begin_operator
@@ -67329,8 +67329,8 @@ overcome prostatitis-7 love wurst uranus neptune
 1
 2 11
 2
-0 53 11 14
 0 51 1 3
+0 53 11 14
 1
 end_operator
 begin_operator
@@ -67338,8 +67338,8 @@ overcome prostatitis-7 rest apple mars uranus
 1
 11 0
 2
-0 53 0 15
 0 52 3 0
+0 53 0 15
 1
 end_operator
 begin_operator
@@ -67347,8 +67347,8 @@ overcome prostatitis-7 rest apple neptune saturn
 1
 11 0
 2
-0 53 0 15
 0 52 2 1
+0 53 0 15
 1
 end_operator
 begin_operator
@@ -67356,8 +67356,8 @@ overcome prostatitis-7 rest apple uranus neptune
 1
 11 0
 2
-0 53 0 15
 0 52 1 3
+0 53 0 15
 1
 end_operator
 begin_operator
@@ -67365,8 +67365,8 @@ overcome prostatitis-7 rest flounder mars uranus
 1
 11 1
 2
-0 53 1 15
 0 52 3 0
+0 53 1 15
 1
 end_operator
 begin_operator
@@ -67374,8 +67374,8 @@ overcome prostatitis-7 rest flounder neptune saturn
 1
 11 1
 2
-0 53 1 15
 0 52 2 1
+0 53 1 15
 1
 end_operator
 begin_operator
@@ -67383,8 +67383,8 @@ overcome prostatitis-7 rest flounder uranus neptune
 1
 11 1
 2
-0 53 1 15
 0 52 1 3
+0 53 1 15
 1
 end_operator
 begin_operator
@@ -67392,8 +67392,8 @@ overcome prostatitis-7 rest guava mars uranus
 1
 11 2
 2
-0 53 2 15
 0 52 3 0
+0 53 2 15
 1
 end_operator
 begin_operator
@@ -67401,8 +67401,8 @@ overcome prostatitis-7 rest guava neptune saturn
 1
 11 2
 2
-0 53 2 15
 0 52 2 1
+0 53 2 15
 1
 end_operator
 begin_operator
@@ -67410,8 +67410,8 @@ overcome prostatitis-7 rest guava uranus neptune
 1
 11 2
 2
-0 53 2 15
 0 52 1 3
+0 53 2 15
 1
 end_operator
 begin_operator
@@ -67419,8 +67419,8 @@ overcome prostatitis-7 rest hamburger mars uranus
 1
 11 3
 2
-0 53 3 15
 0 52 3 0
+0 53 3 15
 1
 end_operator
 begin_operator
@@ -67428,8 +67428,8 @@ overcome prostatitis-7 rest hamburger neptune saturn
 1
 11 3
 2
-0 53 3 15
 0 52 2 1
+0 53 3 15
 1
 end_operator
 begin_operator
@@ -67437,8 +67437,8 @@ overcome prostatitis-7 rest hamburger uranus neptune
 1
 11 3
 2
-0 53 3 15
 0 52 1 3
+0 53 3 15
 1
 end_operator
 begin_operator
@@ -67446,8 +67446,8 @@ overcome prostatitis-7 rest lemon mars uranus
 1
 11 4
 2
-0 53 4 15
 0 52 3 0
+0 53 4 15
 1
 end_operator
 begin_operator
@@ -67455,8 +67455,8 @@ overcome prostatitis-7 rest lemon neptune saturn
 1
 11 4
 2
-0 53 4 15
 0 52 2 1
+0 53 4 15
 1
 end_operator
 begin_operator
@@ -67464,8 +67464,8 @@ overcome prostatitis-7 rest lemon uranus neptune
 1
 11 4
 2
-0 53 4 15
 0 52 1 3
+0 53 4 15
 1
 end_operator
 begin_operator
@@ -67473,8 +67473,8 @@ overcome prostatitis-7 rest marzipan mars uranus
 1
 11 5
 2
-0 53 5 15
 0 52 3 0
+0 53 5 15
 1
 end_operator
 begin_operator
@@ -67482,8 +67482,8 @@ overcome prostatitis-7 rest marzipan neptune saturn
 1
 11 5
 2
-0 53 5 15
 0 52 2 1
+0 53 5 15
 1
 end_operator
 begin_operator
@@ -67491,8 +67491,8 @@ overcome prostatitis-7 rest marzipan uranus neptune
 1
 11 5
 2
-0 53 5 15
 0 52 1 3
+0 53 5 15
 1
 end_operator
 begin_operator
@@ -67500,8 +67500,8 @@ overcome prostatitis-7 rest muffin mars uranus
 1
 11 6
 2
-0 53 6 15
 0 52 3 0
+0 53 6 15
 1
 end_operator
 begin_operator
@@ -67509,8 +67509,8 @@ overcome prostatitis-7 rest muffin neptune saturn
 1
 11 6
 2
-0 53 6 15
 0 52 2 1
+0 53 6 15
 1
 end_operator
 begin_operator
@@ -67518,8 +67518,8 @@ overcome prostatitis-7 rest muffin uranus neptune
 1
 11 6
 2
-0 53 6 15
 0 52 1 3
+0 53 6 15
 1
 end_operator
 begin_operator
@@ -67527,8 +67527,8 @@ overcome prostatitis-7 rest okra mars uranus
 1
 11 7
 2
-0 53 7 15
 0 52 3 0
+0 53 7 15
 1
 end_operator
 begin_operator
@@ -67536,8 +67536,8 @@ overcome prostatitis-7 rest okra neptune saturn
 1
 11 7
 2
-0 53 7 15
 0 52 2 1
+0 53 7 15
 1
 end_operator
 begin_operator
@@ -67545,8 +67545,8 @@ overcome prostatitis-7 rest okra uranus neptune
 1
 11 7
 2
-0 53 7 15
 0 52 1 3
+0 53 7 15
 1
 end_operator
 begin_operator
@@ -67554,8 +67554,8 @@ overcome prostatitis-7 rest onion mars uranus
 1
 11 8
 2
-0 53 8 15
 0 52 3 0
+0 53 8 15
 1
 end_operator
 begin_operator
@@ -67563,8 +67563,8 @@ overcome prostatitis-7 rest onion neptune saturn
 1
 11 8
 2
-0 53 8 15
 0 52 2 1
+0 53 8 15
 1
 end_operator
 begin_operator
@@ -67572,8 +67572,8 @@ overcome prostatitis-7 rest onion uranus neptune
 1
 11 8
 2
-0 53 8 15
 0 52 1 3
+0 53 8 15
 1
 end_operator
 begin_operator
@@ -67581,8 +67581,8 @@ overcome prostatitis-7 rest popover mars uranus
 1
 11 9
 2
-0 53 9 15
 0 52 3 0
+0 53 9 15
 1
 end_operator
 begin_operator
@@ -67590,8 +67590,8 @@ overcome prostatitis-7 rest popover neptune saturn
 1
 11 9
 2
-0 53 9 15
 0 52 2 1
+0 53 9 15
 1
 end_operator
 begin_operator
@@ -67599,8 +67599,8 @@ overcome prostatitis-7 rest popover uranus neptune
 1
 11 9
 2
-0 53 9 15
 0 52 1 3
+0 53 9 15
 1
 end_operator
 begin_operator
@@ -67608,8 +67608,8 @@ overcome prostatitis-7 rest snickers mars uranus
 1
 11 10
 2
-0 53 10 15
 0 52 3 0
+0 53 10 15
 1
 end_operator
 begin_operator
@@ -67617,8 +67617,8 @@ overcome prostatitis-7 rest snickers neptune saturn
 1
 11 10
 2
-0 53 10 15
 0 52 2 1
+0 53 10 15
 1
 end_operator
 begin_operator
@@ -67626,8 +67626,8 @@ overcome prostatitis-7 rest snickers uranus neptune
 1
 11 10
 2
-0 53 10 15
 0 52 1 3
+0 53 10 15
 1
 end_operator
 begin_operator
@@ -67635,8 +67635,8 @@ overcome prostatitis-7 rest wurst mars uranus
 1
 11 11
 2
-0 53 11 15
 0 52 3 0
+0 53 11 15
 1
 end_operator
 begin_operator
@@ -67644,8 +67644,8 @@ overcome prostatitis-7 rest wurst neptune saturn
 1
 11 11
 2
-0 53 11 15
 0 52 2 1
+0 53 11 15
 1
 end_operator
 begin_operator
@@ -67653,8 +67653,8 @@ overcome prostatitis-7 rest wurst uranus neptune
 1
 11 11
 2
-0 53 11 15
 0 52 1 3
+0 53 11 15
 1
 end_operator
 begin_operator
@@ -68310,8 +68310,8 @@ overcome sciatica expectation apple mars uranus
 1
 0 0
 2
-0 57 0 12
 0 47 3 0
+0 57 0 12
 1
 end_operator
 begin_operator
@@ -68319,8 +68319,8 @@ overcome sciatica expectation apple neptune saturn
 1
 0 0
 2
-0 57 0 12
 0 47 2 1
+0 57 0 12
 1
 end_operator
 begin_operator
@@ -68328,8 +68328,8 @@ overcome sciatica expectation apple uranus neptune
 1
 0 0
 2
-0 57 0 12
 0 47 1 3
+0 57 0 12
 1
 end_operator
 begin_operator
@@ -68337,8 +68337,8 @@ overcome sciatica expectation flounder mars uranus
 1
 0 1
 2
-0 57 1 12
 0 47 3 0
+0 57 1 12
 1
 end_operator
 begin_operator
@@ -68346,8 +68346,8 @@ overcome sciatica expectation flounder neptune saturn
 1
 0 1
 2
-0 57 1 12
 0 47 2 1
+0 57 1 12
 1
 end_operator
 begin_operator
@@ -68355,8 +68355,8 @@ overcome sciatica expectation flounder uranus neptune
 1
 0 1
 2
-0 57 1 12
 0 47 1 3
+0 57 1 12
 1
 end_operator
 begin_operator
@@ -68364,8 +68364,8 @@ overcome sciatica expectation guava mars uranus
 1
 0 2
 2
-0 57 2 12
 0 47 3 0
+0 57 2 12
 1
 end_operator
 begin_operator
@@ -68373,8 +68373,8 @@ overcome sciatica expectation guava neptune saturn
 1
 0 2
 2
-0 57 2 12
 0 47 2 1
+0 57 2 12
 1
 end_operator
 begin_operator
@@ -68382,8 +68382,8 @@ overcome sciatica expectation guava uranus neptune
 1
 0 2
 2
-0 57 2 12
 0 47 1 3
+0 57 2 12
 1
 end_operator
 begin_operator
@@ -68391,8 +68391,8 @@ overcome sciatica expectation hamburger mars uranus
 1
 0 3
 2
-0 57 3 12
 0 47 3 0
+0 57 3 12
 1
 end_operator
 begin_operator
@@ -68400,8 +68400,8 @@ overcome sciatica expectation hamburger neptune saturn
 1
 0 3
 2
-0 57 3 12
 0 47 2 1
+0 57 3 12
 1
 end_operator
 begin_operator
@@ -68409,8 +68409,8 @@ overcome sciatica expectation hamburger uranus neptune
 1
 0 3
 2
-0 57 3 12
 0 47 1 3
+0 57 3 12
 1
 end_operator
 begin_operator
@@ -68418,8 +68418,8 @@ overcome sciatica expectation lemon mars uranus
 1
 0 4
 2
-0 57 4 12
 0 47 3 0
+0 57 4 12
 1
 end_operator
 begin_operator
@@ -68427,8 +68427,8 @@ overcome sciatica expectation lemon neptune saturn
 1
 0 4
 2
-0 57 4 12
 0 47 2 1
+0 57 4 12
 1
 end_operator
 begin_operator
@@ -68436,8 +68436,8 @@ overcome sciatica expectation lemon uranus neptune
 1
 0 4
 2
-0 57 4 12
 0 47 1 3
+0 57 4 12
 1
 end_operator
 begin_operator
@@ -68445,8 +68445,8 @@ overcome sciatica expectation marzipan mars uranus
 1
 0 5
 2
-0 57 5 12
 0 47 3 0
+0 57 5 12
 1
 end_operator
 begin_operator
@@ -68454,8 +68454,8 @@ overcome sciatica expectation marzipan neptune saturn
 1
 0 5
 2
-0 57 5 12
 0 47 2 1
+0 57 5 12
 1
 end_operator
 begin_operator
@@ -68463,8 +68463,8 @@ overcome sciatica expectation marzipan uranus neptune
 1
 0 5
 2
-0 57 5 12
 0 47 1 3
+0 57 5 12
 1
 end_operator
 begin_operator
@@ -68472,8 +68472,8 @@ overcome sciatica expectation muffin mars uranus
 1
 0 6
 2
-0 57 6 12
 0 47 3 0
+0 57 6 12
 1
 end_operator
 begin_operator
@@ -68481,8 +68481,8 @@ overcome sciatica expectation muffin neptune saturn
 1
 0 6
 2
-0 57 6 12
 0 47 2 1
+0 57 6 12
 1
 end_operator
 begin_operator
@@ -68490,8 +68490,8 @@ overcome sciatica expectation muffin uranus neptune
 1
 0 6
 2
-0 57 6 12
 0 47 1 3
+0 57 6 12
 1
 end_operator
 begin_operator
@@ -68499,8 +68499,8 @@ overcome sciatica expectation okra mars uranus
 1
 0 7
 2
-0 57 7 12
 0 47 3 0
+0 57 7 12
 1
 end_operator
 begin_operator
@@ -68508,8 +68508,8 @@ overcome sciatica expectation okra neptune saturn
 1
 0 7
 2
-0 57 7 12
 0 47 2 1
+0 57 7 12
 1
 end_operator
 begin_operator
@@ -68517,8 +68517,8 @@ overcome sciatica expectation okra uranus neptune
 1
 0 7
 2
-0 57 7 12
 0 47 1 3
+0 57 7 12
 1
 end_operator
 begin_operator
@@ -68526,8 +68526,8 @@ overcome sciatica expectation onion mars uranus
 1
 0 8
 2
-0 57 8 12
 0 47 3 0
+0 57 8 12
 1
 end_operator
 begin_operator
@@ -68535,8 +68535,8 @@ overcome sciatica expectation onion neptune saturn
 1
 0 8
 2
-0 57 8 12
 0 47 2 1
+0 57 8 12
 1
 end_operator
 begin_operator
@@ -68544,8 +68544,8 @@ overcome sciatica expectation onion uranus neptune
 1
 0 8
 2
-0 57 8 12
 0 47 1 3
+0 57 8 12
 1
 end_operator
 begin_operator
@@ -68553,8 +68553,8 @@ overcome sciatica expectation popover mars uranus
 1
 0 9
 2
-0 57 9 12
 0 47 3 0
+0 57 9 12
 1
 end_operator
 begin_operator
@@ -68562,8 +68562,8 @@ overcome sciatica expectation popover neptune saturn
 1
 0 9
 2
-0 57 9 12
 0 47 2 1
+0 57 9 12
 1
 end_operator
 begin_operator
@@ -68571,8 +68571,8 @@ overcome sciatica expectation popover uranus neptune
 1
 0 9
 2
-0 57 9 12
 0 47 1 3
+0 57 9 12
 1
 end_operator
 begin_operator
@@ -68580,8 +68580,8 @@ overcome sciatica expectation snickers mars uranus
 1
 0 10
 2
-0 57 10 12
 0 47 3 0
+0 57 10 12
 1
 end_operator
 begin_operator
@@ -68589,8 +68589,8 @@ overcome sciatica expectation snickers neptune saturn
 1
 0 10
 2
-0 57 10 12
 0 47 2 1
+0 57 10 12
 1
 end_operator
 begin_operator
@@ -68598,8 +68598,8 @@ overcome sciatica expectation snickers uranus neptune
 1
 0 10
 2
-0 57 10 12
 0 47 1 3
+0 57 10 12
 1
 end_operator
 begin_operator
@@ -68607,8 +68607,8 @@ overcome sciatica expectation wurst mars uranus
 1
 0 11
 2
-0 57 11 12
 0 47 3 0
+0 57 11 12
 1
 end_operator
 begin_operator
@@ -68616,8 +68616,8 @@ overcome sciatica expectation wurst neptune saturn
 1
 0 11
 2
-0 57 11 12
 0 47 2 1
+0 57 11 12
 1
 end_operator
 begin_operator
@@ -68625,8 +68625,8 @@ overcome sciatica expectation wurst uranus neptune
 1
 0 11
 2
-0 57 11 12
 0 47 1 3
+0 57 11 12
 1
 end_operator
 begin_operator
@@ -68634,8 +68634,8 @@ overcome sciatica learning apple mars uranus
 1
 1 0
 2
-0 57 0 13
 0 48 3 0
+0 57 0 13
 1
 end_operator
 begin_operator
@@ -68643,8 +68643,8 @@ overcome sciatica learning apple neptune saturn
 1
 1 0
 2
-0 57 0 13
 0 48 2 1
+0 57 0 13
 1
 end_operator
 begin_operator
@@ -68652,8 +68652,8 @@ overcome sciatica learning apple uranus neptune
 1
 1 0
 2
-0 57 0 13
 0 48 1 3
+0 57 0 13
 1
 end_operator
 begin_operator
@@ -68661,8 +68661,8 @@ overcome sciatica learning flounder mars uranus
 1
 1 1
 2
-0 57 1 13
 0 48 3 0
+0 57 1 13
 1
 end_operator
 begin_operator
@@ -68670,8 +68670,8 @@ overcome sciatica learning flounder neptune saturn
 1
 1 1
 2
-0 57 1 13
 0 48 2 1
+0 57 1 13
 1
 end_operator
 begin_operator
@@ -68679,8 +68679,8 @@ overcome sciatica learning flounder uranus neptune
 1
 1 1
 2
-0 57 1 13
 0 48 1 3
+0 57 1 13
 1
 end_operator
 begin_operator
@@ -68688,8 +68688,8 @@ overcome sciatica learning guava mars uranus
 1
 1 2
 2
-0 57 2 13
 0 48 3 0
+0 57 2 13
 1
 end_operator
 begin_operator
@@ -68697,8 +68697,8 @@ overcome sciatica learning guava neptune saturn
 1
 1 2
 2
-0 57 2 13
 0 48 2 1
+0 57 2 13
 1
 end_operator
 begin_operator
@@ -68706,8 +68706,8 @@ overcome sciatica learning guava uranus neptune
 1
 1 2
 2
-0 57 2 13
 0 48 1 3
+0 57 2 13
 1
 end_operator
 begin_operator
@@ -68715,8 +68715,8 @@ overcome sciatica learning hamburger mars uranus
 1
 1 3
 2
-0 57 3 13
 0 48 3 0
+0 57 3 13
 1
 end_operator
 begin_operator
@@ -68724,8 +68724,8 @@ overcome sciatica learning hamburger neptune saturn
 1
 1 3
 2
-0 57 3 13
 0 48 2 1
+0 57 3 13
 1
 end_operator
 begin_operator
@@ -68733,8 +68733,8 @@ overcome sciatica learning hamburger uranus neptune
 1
 1 3
 2
-0 57 3 13
 0 48 1 3
+0 57 3 13
 1
 end_operator
 begin_operator
@@ -68742,8 +68742,8 @@ overcome sciatica learning lemon mars uranus
 1
 1 4
 2
-0 57 4 13
 0 48 3 0
+0 57 4 13
 1
 end_operator
 begin_operator
@@ -68751,8 +68751,8 @@ overcome sciatica learning lemon neptune saturn
 1
 1 4
 2
-0 57 4 13
 0 48 2 1
+0 57 4 13
 1
 end_operator
 begin_operator
@@ -68760,8 +68760,8 @@ overcome sciatica learning lemon uranus neptune
 1
 1 4
 2
-0 57 4 13
 0 48 1 3
+0 57 4 13
 1
 end_operator
 begin_operator
@@ -68769,8 +68769,8 @@ overcome sciatica learning marzipan mars uranus
 1
 1 5
 2
-0 57 5 13
 0 48 3 0
+0 57 5 13
 1
 end_operator
 begin_operator
@@ -68778,8 +68778,8 @@ overcome sciatica learning marzipan neptune saturn
 1
 1 5
 2
-0 57 5 13
 0 48 2 1
+0 57 5 13
 1
 end_operator
 begin_operator
@@ -68787,8 +68787,8 @@ overcome sciatica learning marzipan uranus neptune
 1
 1 5
 2
-0 57 5 13
 0 48 1 3
+0 57 5 13
 1
 end_operator
 begin_operator
@@ -68796,8 +68796,8 @@ overcome sciatica learning muffin mars uranus
 1
 1 6
 2
-0 57 6 13
 0 48 3 0
+0 57 6 13
 1
 end_operator
 begin_operator
@@ -68805,8 +68805,8 @@ overcome sciatica learning muffin neptune saturn
 1
 1 6
 2
-0 57 6 13
 0 48 2 1
+0 57 6 13
 1
 end_operator
 begin_operator
@@ -68814,8 +68814,8 @@ overcome sciatica learning muffin uranus neptune
 1
 1 6
 2
-0 57 6 13
 0 48 1 3
+0 57 6 13
 1
 end_operator
 begin_operator
@@ -68823,8 +68823,8 @@ overcome sciatica learning okra mars uranus
 1
 1 7
 2
-0 57 7 13
 0 48 3 0
+0 57 7 13
 1
 end_operator
 begin_operator
@@ -68832,8 +68832,8 @@ overcome sciatica learning okra neptune saturn
 1
 1 7
 2
-0 57 7 13
 0 48 2 1
+0 57 7 13
 1
 end_operator
 begin_operator
@@ -68841,8 +68841,8 @@ overcome sciatica learning okra uranus neptune
 1
 1 7
 2
-0 57 7 13
 0 48 1 3
+0 57 7 13
 1
 end_operator
 begin_operator
@@ -68850,8 +68850,8 @@ overcome sciatica learning onion mars uranus
 1
 1 8
 2
-0 57 8 13
 0 48 3 0
+0 57 8 13
 1
 end_operator
 begin_operator
@@ -68859,8 +68859,8 @@ overcome sciatica learning onion neptune saturn
 1
 1 8
 2
-0 57 8 13
 0 48 2 1
+0 57 8 13
 1
 end_operator
 begin_operator
@@ -68868,8 +68868,8 @@ overcome sciatica learning onion uranus neptune
 1
 1 8
 2
-0 57 8 13
 0 48 1 3
+0 57 8 13
 1
 end_operator
 begin_operator
@@ -68877,8 +68877,8 @@ overcome sciatica learning popover mars uranus
 1
 1 9
 2
-0 57 9 13
 0 48 3 0
+0 57 9 13
 1
 end_operator
 begin_operator
@@ -68886,8 +68886,8 @@ overcome sciatica learning popover neptune saturn
 1
 1 9
 2
-0 57 9 13
 0 48 2 1
+0 57 9 13
 1
 end_operator
 begin_operator
@@ -68895,8 +68895,8 @@ overcome sciatica learning popover uranus neptune
 1
 1 9
 2
-0 57 9 13
 0 48 1 3
+0 57 9 13
 1
 end_operator
 begin_operator
@@ -68904,8 +68904,8 @@ overcome sciatica learning snickers mars uranus
 1
 1 10
 2
-0 57 10 13
 0 48 3 0
+0 57 10 13
 1
 end_operator
 begin_operator
@@ -68913,8 +68913,8 @@ overcome sciatica learning snickers neptune saturn
 1
 1 10
 2
-0 57 10 13
 0 48 2 1
+0 57 10 13
 1
 end_operator
 begin_operator
@@ -68922,8 +68922,8 @@ overcome sciatica learning snickers uranus neptune
 1
 1 10
 2
-0 57 10 13
 0 48 1 3
+0 57 10 13
 1
 end_operator
 begin_operator
@@ -68931,8 +68931,8 @@ overcome sciatica learning wurst mars uranus
 1
 1 11
 2
-0 57 11 13
 0 48 3 0
+0 57 11 13
 1
 end_operator
 begin_operator
@@ -68940,8 +68940,8 @@ overcome sciatica learning wurst neptune saturn
 1
 1 11
 2
-0 57 11 13
 0 48 2 1
+0 57 11 13
 1
 end_operator
 begin_operator
@@ -68949,8 +68949,8 @@ overcome sciatica learning wurst uranus neptune
 1
 1 11
 2
-0 57 11 13
 0 48 1 3
+0 57 11 13
 1
 end_operator
 begin_operator
@@ -68958,8 +68958,8 @@ overcome sciatica love apple mars uranus
 1
 2 0
 2
-0 57 0 14
 0 51 3 0
+0 57 0 14
 1
 end_operator
 begin_operator
@@ -68967,8 +68967,8 @@ overcome sciatica love apple neptune saturn
 1
 2 0
 2
-0 57 0 14
 0 51 2 1
+0 57 0 14
 1
 end_operator
 begin_operator
@@ -68976,8 +68976,8 @@ overcome sciatica love apple uranus neptune
 1
 2 0
 2
-0 57 0 14
 0 51 1 3
+0 57 0 14
 1
 end_operator
 begin_operator
@@ -68985,8 +68985,8 @@ overcome sciatica love flounder mars uranus
 1
 2 1
 2
-0 57 1 14
 0 51 3 0
+0 57 1 14
 1
 end_operator
 begin_operator
@@ -68994,8 +68994,8 @@ overcome sciatica love flounder neptune saturn
 1
 2 1
 2
-0 57 1 14
 0 51 2 1
+0 57 1 14
 1
 end_operator
 begin_operator
@@ -69003,8 +69003,8 @@ overcome sciatica love flounder uranus neptune
 1
 2 1
 2
-0 57 1 14
 0 51 1 3
+0 57 1 14
 1
 end_operator
 begin_operator
@@ -69012,8 +69012,8 @@ overcome sciatica love guava mars uranus
 1
 2 2
 2
-0 57 2 14
 0 51 3 0
+0 57 2 14
 1
 end_operator
 begin_operator
@@ -69021,8 +69021,8 @@ overcome sciatica love guava neptune saturn
 1
 2 2
 2
-0 57 2 14
 0 51 2 1
+0 57 2 14
 1
 end_operator
 begin_operator
@@ -69030,8 +69030,8 @@ overcome sciatica love guava uranus neptune
 1
 2 2
 2
-0 57 2 14
 0 51 1 3
+0 57 2 14
 1
 end_operator
 begin_operator
@@ -69039,8 +69039,8 @@ overcome sciatica love hamburger mars uranus
 1
 2 3
 2
-0 57 3 14
 0 51 3 0
+0 57 3 14
 1
 end_operator
 begin_operator
@@ -69048,8 +69048,8 @@ overcome sciatica love hamburger neptune saturn
 1
 2 3
 2
-0 57 3 14
 0 51 2 1
+0 57 3 14
 1
 end_operator
 begin_operator
@@ -69057,8 +69057,8 @@ overcome sciatica love hamburger uranus neptune
 1
 2 3
 2
-0 57 3 14
 0 51 1 3
+0 57 3 14
 1
 end_operator
 begin_operator
@@ -69066,8 +69066,8 @@ overcome sciatica love lemon mars uranus
 1
 2 4
 2
-0 57 4 14
 0 51 3 0
+0 57 4 14
 1
 end_operator
 begin_operator
@@ -69075,8 +69075,8 @@ overcome sciatica love lemon neptune saturn
 1
 2 4
 2
-0 57 4 14
 0 51 2 1
+0 57 4 14
 1
 end_operator
 begin_operator
@@ -69084,8 +69084,8 @@ overcome sciatica love lemon uranus neptune
 1
 2 4
 2
-0 57 4 14
 0 51 1 3
+0 57 4 14
 1
 end_operator
 begin_operator
@@ -69093,8 +69093,8 @@ overcome sciatica love marzipan mars uranus
 1
 2 5
 2
-0 57 5 14
 0 51 3 0
+0 57 5 14
 1
 end_operator
 begin_operator
@@ -69102,8 +69102,8 @@ overcome sciatica love marzipan neptune saturn
 1
 2 5
 2
-0 57 5 14
 0 51 2 1
+0 57 5 14
 1
 end_operator
 begin_operator
@@ -69111,8 +69111,8 @@ overcome sciatica love marzipan uranus neptune
 1
 2 5
 2
-0 57 5 14
 0 51 1 3
+0 57 5 14
 1
 end_operator
 begin_operator
@@ -69120,8 +69120,8 @@ overcome sciatica love muffin mars uranus
 1
 2 6
 2
-0 57 6 14
 0 51 3 0
+0 57 6 14
 1
 end_operator
 begin_operator
@@ -69129,8 +69129,8 @@ overcome sciatica love muffin neptune saturn
 1
 2 6
 2
-0 57 6 14
 0 51 2 1
+0 57 6 14
 1
 end_operator
 begin_operator
@@ -69138,8 +69138,8 @@ overcome sciatica love muffin uranus neptune
 1
 2 6
 2
-0 57 6 14
 0 51 1 3
+0 57 6 14
 1
 end_operator
 begin_operator
@@ -69147,8 +69147,8 @@ overcome sciatica love okra mars uranus
 1
 2 7
 2
-0 57 7 14
 0 51 3 0
+0 57 7 14
 1
 end_operator
 begin_operator
@@ -69156,8 +69156,8 @@ overcome sciatica love okra neptune saturn
 1
 2 7
 2
-0 57 7 14
 0 51 2 1
+0 57 7 14
 1
 end_operator
 begin_operator
@@ -69165,8 +69165,8 @@ overcome sciatica love okra uranus neptune
 1
 2 7
 2
-0 57 7 14
 0 51 1 3
+0 57 7 14
 1
 end_operator
 begin_operator
@@ -69174,8 +69174,8 @@ overcome sciatica love onion mars uranus
 1
 2 8
 2
-0 57 8 14
 0 51 3 0
+0 57 8 14
 1
 end_operator
 begin_operator
@@ -69183,8 +69183,8 @@ overcome sciatica love onion neptune saturn
 1
 2 8
 2
-0 57 8 14
 0 51 2 1
+0 57 8 14
 1
 end_operator
 begin_operator
@@ -69192,8 +69192,8 @@ overcome sciatica love onion uranus neptune
 1
 2 8
 2
-0 57 8 14
 0 51 1 3
+0 57 8 14
 1
 end_operator
 begin_operator
@@ -69201,8 +69201,8 @@ overcome sciatica love popover mars uranus
 1
 2 9
 2
-0 57 9 14
 0 51 3 0
+0 57 9 14
 1
 end_operator
 begin_operator
@@ -69210,8 +69210,8 @@ overcome sciatica love popover neptune saturn
 1
 2 9
 2
-0 57 9 14
 0 51 2 1
+0 57 9 14
 1
 end_operator
 begin_operator
@@ -69219,8 +69219,8 @@ overcome sciatica love popover uranus neptune
 1
 2 9
 2
-0 57 9 14
 0 51 1 3
+0 57 9 14
 1
 end_operator
 begin_operator
@@ -69228,8 +69228,8 @@ overcome sciatica love snickers mars uranus
 1
 2 10
 2
-0 57 10 14
 0 51 3 0
+0 57 10 14
 1
 end_operator
 begin_operator
@@ -69237,8 +69237,8 @@ overcome sciatica love snickers neptune saturn
 1
 2 10
 2
-0 57 10 14
 0 51 2 1
+0 57 10 14
 1
 end_operator
 begin_operator
@@ -69246,8 +69246,8 @@ overcome sciatica love snickers uranus neptune
 1
 2 10
 2
-0 57 10 14
 0 51 1 3
+0 57 10 14
 1
 end_operator
 begin_operator
@@ -69255,8 +69255,8 @@ overcome sciatica love wurst mars uranus
 1
 2 11
 2
-0 57 11 14
 0 51 3 0
+0 57 11 14
 1
 end_operator
 begin_operator
@@ -69264,8 +69264,8 @@ overcome sciatica love wurst neptune saturn
 1
 2 11
 2
-0 57 11 14
 0 51 2 1
+0 57 11 14
 1
 end_operator
 begin_operator
@@ -69273,8 +69273,8 @@ overcome sciatica love wurst uranus neptune
 1
 2 11
 2
-0 57 11 14
 0 51 1 3
+0 57 11 14
 1
 end_operator
 begin_operator
@@ -69282,8 +69282,8 @@ overcome sciatica rest apple mars uranus
 1
 11 0
 2
-0 57 0 15
 0 52 3 0
+0 57 0 15
 1
 end_operator
 begin_operator
@@ -69291,8 +69291,8 @@ overcome sciatica rest apple neptune saturn
 1
 11 0
 2
-0 57 0 15
 0 52 2 1
+0 57 0 15
 1
 end_operator
 begin_operator
@@ -69300,8 +69300,8 @@ overcome sciatica rest apple uranus neptune
 1
 11 0
 2
-0 57 0 15
 0 52 1 3
+0 57 0 15
 1
 end_operator
 begin_operator
@@ -69309,8 +69309,8 @@ overcome sciatica rest flounder mars uranus
 1
 11 1
 2
-0 57 1 15
 0 52 3 0
+0 57 1 15
 1
 end_operator
 begin_operator
@@ -69318,8 +69318,8 @@ overcome sciatica rest flounder neptune saturn
 1
 11 1
 2
-0 57 1 15
 0 52 2 1
+0 57 1 15
 1
 end_operator
 begin_operator
@@ -69327,8 +69327,8 @@ overcome sciatica rest flounder uranus neptune
 1
 11 1
 2
-0 57 1 15
 0 52 1 3
+0 57 1 15
 1
 end_operator
 begin_operator
@@ -69336,8 +69336,8 @@ overcome sciatica rest guava mars uranus
 1
 11 2
 2
-0 57 2 15
 0 52 3 0
+0 57 2 15
 1
 end_operator
 begin_operator
@@ -69345,8 +69345,8 @@ overcome sciatica rest guava neptune saturn
 1
 11 2
 2
-0 57 2 15
 0 52 2 1
+0 57 2 15
 1
 end_operator
 begin_operator
@@ -69354,8 +69354,8 @@ overcome sciatica rest guava uranus neptune
 1
 11 2
 2
-0 57 2 15
 0 52 1 3
+0 57 2 15
 1
 end_operator
 begin_operator
@@ -69363,8 +69363,8 @@ overcome sciatica rest hamburger mars uranus
 1
 11 3
 2
-0 57 3 15
 0 52 3 0
+0 57 3 15
 1
 end_operator
 begin_operator
@@ -69372,8 +69372,8 @@ overcome sciatica rest hamburger neptune saturn
 1
 11 3
 2
-0 57 3 15
 0 52 2 1
+0 57 3 15
 1
 end_operator
 begin_operator
@@ -69381,8 +69381,8 @@ overcome sciatica rest hamburger uranus neptune
 1
 11 3
 2
-0 57 3 15
 0 52 1 3
+0 57 3 15
 1
 end_operator
 begin_operator
@@ -69390,8 +69390,8 @@ overcome sciatica rest lemon mars uranus
 1
 11 4
 2
-0 57 4 15
 0 52 3 0
+0 57 4 15
 1
 end_operator
 begin_operator
@@ -69399,8 +69399,8 @@ overcome sciatica rest lemon neptune saturn
 1
 11 4
 2
-0 57 4 15
 0 52 2 1
+0 57 4 15
 1
 end_operator
 begin_operator
@@ -69408,8 +69408,8 @@ overcome sciatica rest lemon uranus neptune
 1
 11 4
 2
-0 57 4 15
 0 52 1 3
+0 57 4 15
 1
 end_operator
 begin_operator
@@ -69417,8 +69417,8 @@ overcome sciatica rest marzipan mars uranus
 1
 11 5
 2
-0 57 5 15
 0 52 3 0
+0 57 5 15
 1
 end_operator
 begin_operator
@@ -69426,8 +69426,8 @@ overcome sciatica rest marzipan neptune saturn
 1
 11 5
 2
-0 57 5 15
 0 52 2 1
+0 57 5 15
 1
 end_operator
 begin_operator
@@ -69435,8 +69435,8 @@ overcome sciatica rest marzipan uranus neptune
 1
 11 5
 2
-0 57 5 15
 0 52 1 3
+0 57 5 15
 1
 end_operator
 begin_operator
@@ -69444,8 +69444,8 @@ overcome sciatica rest muffin mars uranus
 1
 11 6
 2
-0 57 6 15
 0 52 3 0
+0 57 6 15
 1
 end_operator
 begin_operator
@@ -69453,8 +69453,8 @@ overcome sciatica rest muffin neptune saturn
 1
 11 6
 2
-0 57 6 15
 0 52 2 1
+0 57 6 15
 1
 end_operator
 begin_operator
@@ -69462,8 +69462,8 @@ overcome sciatica rest muffin uranus neptune
 1
 11 6
 2
-0 57 6 15
 0 52 1 3
+0 57 6 15
 1
 end_operator
 begin_operator
@@ -69471,8 +69471,8 @@ overcome sciatica rest okra mars uranus
 1
 11 7
 2
-0 57 7 15
 0 52 3 0
+0 57 7 15
 1
 end_operator
 begin_operator
@@ -69480,8 +69480,8 @@ overcome sciatica rest okra neptune saturn
 1
 11 7
 2
-0 57 7 15
 0 52 2 1
+0 57 7 15
 1
 end_operator
 begin_operator
@@ -69489,8 +69489,8 @@ overcome sciatica rest okra uranus neptune
 1
 11 7
 2
-0 57 7 15
 0 52 1 3
+0 57 7 15
 1
 end_operator
 begin_operator
@@ -69498,8 +69498,8 @@ overcome sciatica rest onion mars uranus
 1
 11 8
 2
-0 57 8 15
 0 52 3 0
+0 57 8 15
 1
 end_operator
 begin_operator
@@ -69507,8 +69507,8 @@ overcome sciatica rest onion neptune saturn
 1
 11 8
 2
-0 57 8 15
 0 52 2 1
+0 57 8 15
 1
 end_operator
 begin_operator
@@ -69516,8 +69516,8 @@ overcome sciatica rest onion uranus neptune
 1
 11 8
 2
-0 57 8 15
 0 52 1 3
+0 57 8 15
 1
 end_operator
 begin_operator
@@ -69525,8 +69525,8 @@ overcome sciatica rest popover mars uranus
 1
 11 9
 2
-0 57 9 15
 0 52 3 0
+0 57 9 15
 1
 end_operator
 begin_operator
@@ -69534,8 +69534,8 @@ overcome sciatica rest popover neptune saturn
 1
 11 9
 2
-0 57 9 15
 0 52 2 1
+0 57 9 15
 1
 end_operator
 begin_operator
@@ -69543,8 +69543,8 @@ overcome sciatica rest popover uranus neptune
 1
 11 9
 2
-0 57 9 15
 0 52 1 3
+0 57 9 15
 1
 end_operator
 begin_operator
@@ -69552,8 +69552,8 @@ overcome sciatica rest snickers mars uranus
 1
 11 10
 2
-0 57 10 15
 0 52 3 0
+0 57 10 15
 1
 end_operator
 begin_operator
@@ -69561,8 +69561,8 @@ overcome sciatica rest snickers neptune saturn
 1
 11 10
 2
-0 57 10 15
 0 52 2 1
+0 57 10 15
 1
 end_operator
 begin_operator
@@ -69570,8 +69570,8 @@ overcome sciatica rest snickers uranus neptune
 1
 11 10
 2
-0 57 10 15
 0 52 1 3
+0 57 10 15
 1
 end_operator
 begin_operator
@@ -69579,8 +69579,8 @@ overcome sciatica rest wurst mars uranus
 1
 11 11
 2
-0 57 11 15
 0 52 3 0
+0 57 11 15
 1
 end_operator
 begin_operator
@@ -69588,8 +69588,8 @@ overcome sciatica rest wurst neptune saturn
 1
 11 11
 2
-0 57 11 15
 0 52 2 1
+0 57 11 15
 1
 end_operator
 begin_operator
@@ -69597,8 +69597,8 @@ overcome sciatica rest wurst uranus neptune
 1
 11 11
 2
-0 57 11 15
 0 52 1 3
+0 57 11 15
 1
 end_operator
 begin_operator
@@ -69606,8 +69606,8 @@ overcome sciatica satisfaction apple mars uranus
 1
 14 0
 2
-0 57 0 16
 0 55 3 0
+0 57 0 16
 1
 end_operator
 begin_operator
@@ -69615,8 +69615,8 @@ overcome sciatica satisfaction apple neptune saturn
 1
 14 0
 2
-0 57 0 16
 0 55 2 1
+0 57 0 16
 1
 end_operator
 begin_operator
@@ -69624,8 +69624,8 @@ overcome sciatica satisfaction apple uranus neptune
 1
 14 0
 2
-0 57 0 16
 0 55 1 3
+0 57 0 16
 1
 end_operator
 begin_operator
@@ -69633,8 +69633,8 @@ overcome sciatica satisfaction flounder mars uranus
 1
 14 1
 2
-0 57 1 16
 0 55 3 0
+0 57 1 16
 1
 end_operator
 begin_operator
@@ -69642,8 +69642,8 @@ overcome sciatica satisfaction flounder neptune saturn
 1
 14 1
 2
-0 57 1 16
 0 55 2 1
+0 57 1 16
 1
 end_operator
 begin_operator
@@ -69651,8 +69651,8 @@ overcome sciatica satisfaction flounder uranus neptune
 1
 14 1
 2
-0 57 1 16
 0 55 1 3
+0 57 1 16
 1
 end_operator
 begin_operator
@@ -69660,8 +69660,8 @@ overcome sciatica satisfaction guava mars uranus
 1
 14 2
 2
-0 57 2 16
 0 55 3 0
+0 57 2 16
 1
 end_operator
 begin_operator
@@ -69669,8 +69669,8 @@ overcome sciatica satisfaction guava neptune saturn
 1
 14 2
 2
-0 57 2 16
 0 55 2 1
+0 57 2 16
 1
 end_operator
 begin_operator
@@ -69678,8 +69678,8 @@ overcome sciatica satisfaction guava uranus neptune
 1
 14 2
 2
-0 57 2 16
 0 55 1 3
+0 57 2 16
 1
 end_operator
 begin_operator
@@ -69687,8 +69687,8 @@ overcome sciatica satisfaction hamburger mars uranus
 1
 14 3
 2
-0 57 3 16
 0 55 3 0
+0 57 3 16
 1
 end_operator
 begin_operator
@@ -69696,8 +69696,8 @@ overcome sciatica satisfaction hamburger neptune saturn
 1
 14 3
 2
-0 57 3 16
 0 55 2 1
+0 57 3 16
 1
 end_operator
 begin_operator
@@ -69705,8 +69705,8 @@ overcome sciatica satisfaction hamburger uranus neptune
 1
 14 3
 2
-0 57 3 16
 0 55 1 3
+0 57 3 16
 1
 end_operator
 begin_operator
@@ -69714,8 +69714,8 @@ overcome sciatica satisfaction lemon mars uranus
 1
 14 4
 2
-0 57 4 16
 0 55 3 0
+0 57 4 16
 1
 end_operator
 begin_operator
@@ -69723,8 +69723,8 @@ overcome sciatica satisfaction lemon neptune saturn
 1
 14 4
 2
-0 57 4 16
 0 55 2 1
+0 57 4 16
 1
 end_operator
 begin_operator
@@ -69732,8 +69732,8 @@ overcome sciatica satisfaction lemon uranus neptune
 1
 14 4
 2
-0 57 4 16
 0 55 1 3
+0 57 4 16
 1
 end_operator
 begin_operator
@@ -69741,8 +69741,8 @@ overcome sciatica satisfaction marzipan mars uranus
 1
 14 5
 2
-0 57 5 16
 0 55 3 0
+0 57 5 16
 1
 end_operator
 begin_operator
@@ -69750,8 +69750,8 @@ overcome sciatica satisfaction marzipan neptune saturn
 1
 14 5
 2
-0 57 5 16
 0 55 2 1
+0 57 5 16
 1
 end_operator
 begin_operator
@@ -69759,8 +69759,8 @@ overcome sciatica satisfaction marzipan uranus neptune
 1
 14 5
 2
-0 57 5 16
 0 55 1 3
+0 57 5 16
 1
 end_operator
 begin_operator
@@ -69768,8 +69768,8 @@ overcome sciatica satisfaction muffin mars uranus
 1
 14 6
 2
-0 57 6 16
 0 55 3 0
+0 57 6 16
 1
 end_operator
 begin_operator
@@ -69777,8 +69777,8 @@ overcome sciatica satisfaction muffin neptune saturn
 1
 14 6
 2
-0 57 6 16
 0 55 2 1
+0 57 6 16
 1
 end_operator
 begin_operator
@@ -69786,8 +69786,8 @@ overcome sciatica satisfaction muffin uranus neptune
 1
 14 6
 2
-0 57 6 16
 0 55 1 3
+0 57 6 16
 1
 end_operator
 begin_operator
@@ -69795,8 +69795,8 @@ overcome sciatica satisfaction okra mars uranus
 1
 14 7
 2
-0 57 7 16
 0 55 3 0
+0 57 7 16
 1
 end_operator
 begin_operator
@@ -69804,8 +69804,8 @@ overcome sciatica satisfaction okra neptune saturn
 1
 14 7
 2
-0 57 7 16
 0 55 2 1
+0 57 7 16
 1
 end_operator
 begin_operator
@@ -69813,8 +69813,8 @@ overcome sciatica satisfaction okra uranus neptune
 1
 14 7
 2
-0 57 7 16
 0 55 1 3
+0 57 7 16
 1
 end_operator
 begin_operator
@@ -69822,8 +69822,8 @@ overcome sciatica satisfaction onion mars uranus
 1
 14 8
 2
-0 57 8 16
 0 55 3 0
+0 57 8 16
 1
 end_operator
 begin_operator
@@ -69831,8 +69831,8 @@ overcome sciatica satisfaction onion neptune saturn
 1
 14 8
 2
-0 57 8 16
 0 55 2 1
+0 57 8 16
 1
 end_operator
 begin_operator
@@ -69840,8 +69840,8 @@ overcome sciatica satisfaction onion uranus neptune
 1
 14 8
 2
-0 57 8 16
 0 55 1 3
+0 57 8 16
 1
 end_operator
 begin_operator
@@ -69849,8 +69849,8 @@ overcome sciatica satisfaction popover mars uranus
 1
 14 9
 2
-0 57 9 16
 0 55 3 0
+0 57 9 16
 1
 end_operator
 begin_operator
@@ -69858,8 +69858,8 @@ overcome sciatica satisfaction popover neptune saturn
 1
 14 9
 2
-0 57 9 16
 0 55 2 1
+0 57 9 16
 1
 end_operator
 begin_operator
@@ -69867,8 +69867,8 @@ overcome sciatica satisfaction popover uranus neptune
 1
 14 9
 2
-0 57 9 16
 0 55 1 3
+0 57 9 16
 1
 end_operator
 begin_operator
@@ -69876,8 +69876,8 @@ overcome sciatica satisfaction snickers mars uranus
 1
 14 10
 2
-0 57 10 16
 0 55 3 0
+0 57 10 16
 1
 end_operator
 begin_operator
@@ -69885,8 +69885,8 @@ overcome sciatica satisfaction snickers neptune saturn
 1
 14 10
 2
-0 57 10 16
 0 55 2 1
+0 57 10 16
 1
 end_operator
 begin_operator
@@ -69894,8 +69894,8 @@ overcome sciatica satisfaction snickers uranus neptune
 1
 14 10
 2
-0 57 10 16
 0 55 1 3
+0 57 10 16
 1
 end_operator
 begin_operator
@@ -69903,8 +69903,8 @@ overcome sciatica satisfaction wurst mars uranus
 1
 14 11
 2
-0 57 11 16
 0 55 3 0
+0 57 11 16
 1
 end_operator
 begin_operator
@@ -69912,8 +69912,8 @@ overcome sciatica satisfaction wurst neptune saturn
 1
 14 11
 2
-0 57 11 16
 0 55 2 1
+0 57 11 16
 1
 end_operator
 begin_operator
@@ -69921,8 +69921,8 @@ overcome sciatica satisfaction wurst uranus neptune
 1
 14 11
 2
-0 57 11 16
 0 55 1 3
+0 57 11 16
 1
 end_operator
 begin_operator
@@ -69930,8 +69930,8 @@ overcome sciatica triumph apple mars uranus
 1
 16 0
 2
-0 57 0 17
 0 56 3 0
+0 57 0 17
 1
 end_operator
 begin_operator
@@ -69939,8 +69939,8 @@ overcome sciatica triumph apple neptune saturn
 1
 16 0
 2
-0 57 0 17
 0 56 2 1
+0 57 0 17
 1
 end_operator
 begin_operator
@@ -69948,8 +69948,8 @@ overcome sciatica triumph apple uranus neptune
 1
 16 0
 2
-0 57 0 17
 0 56 1 3
+0 57 0 17
 1
 end_operator
 begin_operator
@@ -69957,8 +69957,8 @@ overcome sciatica triumph flounder mars uranus
 1
 16 1
 2
-0 57 1 17
 0 56 3 0
+0 57 1 17
 1
 end_operator
 begin_operator
@@ -69966,8 +69966,8 @@ overcome sciatica triumph flounder neptune saturn
 1
 16 1
 2
-0 57 1 17
 0 56 2 1
+0 57 1 17
 1
 end_operator
 begin_operator
@@ -69975,8 +69975,8 @@ overcome sciatica triumph flounder uranus neptune
 1
 16 1
 2
-0 57 1 17
 0 56 1 3
+0 57 1 17
 1
 end_operator
 begin_operator
@@ -69984,8 +69984,8 @@ overcome sciatica triumph guava mars uranus
 1
 16 2
 2
-0 57 2 17
 0 56 3 0
+0 57 2 17
 1
 end_operator
 begin_operator
@@ -69993,8 +69993,8 @@ overcome sciatica triumph guava neptune saturn
 1
 16 2
 2
-0 57 2 17
 0 56 2 1
+0 57 2 17
 1
 end_operator
 begin_operator
@@ -70002,8 +70002,8 @@ overcome sciatica triumph guava uranus neptune
 1
 16 2
 2
-0 57 2 17
 0 56 1 3
+0 57 2 17
 1
 end_operator
 begin_operator
@@ -70011,8 +70011,8 @@ overcome sciatica triumph hamburger mars uranus
 1
 16 3
 2
-0 57 3 17
 0 56 3 0
+0 57 3 17
 1
 end_operator
 begin_operator
@@ -70020,8 +70020,8 @@ overcome sciatica triumph hamburger neptune saturn
 1
 16 3
 2
-0 57 3 17
 0 56 2 1
+0 57 3 17
 1
 end_operator
 begin_operator
@@ -70029,8 +70029,8 @@ overcome sciatica triumph hamburger uranus neptune
 1
 16 3
 2
-0 57 3 17
 0 56 1 3
+0 57 3 17
 1
 end_operator
 begin_operator
@@ -70038,8 +70038,8 @@ overcome sciatica triumph lemon mars uranus
 1
 16 4
 2
-0 57 4 17
 0 56 3 0
+0 57 4 17
 1
 end_operator
 begin_operator
@@ -70047,8 +70047,8 @@ overcome sciatica triumph lemon neptune saturn
 1
 16 4
 2
-0 57 4 17
 0 56 2 1
+0 57 4 17
 1
 end_operator
 begin_operator
@@ -70056,8 +70056,8 @@ overcome sciatica triumph lemon uranus neptune
 1
 16 4
 2
-0 57 4 17
 0 56 1 3
+0 57 4 17
 1
 end_operator
 begin_operator
@@ -70065,8 +70065,8 @@ overcome sciatica triumph marzipan mars uranus
 1
 16 5
 2
-0 57 5 17
 0 56 3 0
+0 57 5 17
 1
 end_operator
 begin_operator
@@ -70074,8 +70074,8 @@ overcome sciatica triumph marzipan neptune saturn
 1
 16 5
 2
-0 57 5 17
 0 56 2 1
+0 57 5 17
 1
 end_operator
 begin_operator
@@ -70083,8 +70083,8 @@ overcome sciatica triumph marzipan uranus neptune
 1
 16 5
 2
-0 57 5 17
 0 56 1 3
+0 57 5 17
 1
 end_operator
 begin_operator
@@ -70092,8 +70092,8 @@ overcome sciatica triumph muffin mars uranus
 1
 16 6
 2
-0 57 6 17
 0 56 3 0
+0 57 6 17
 1
 end_operator
 begin_operator
@@ -70101,8 +70101,8 @@ overcome sciatica triumph muffin neptune saturn
 1
 16 6
 2
-0 57 6 17
 0 56 2 1
+0 57 6 17
 1
 end_operator
 begin_operator
@@ -70110,8 +70110,8 @@ overcome sciatica triumph muffin uranus neptune
 1
 16 6
 2
-0 57 6 17
 0 56 1 3
+0 57 6 17
 1
 end_operator
 begin_operator
@@ -70119,8 +70119,8 @@ overcome sciatica triumph okra mars uranus
 1
 16 7
 2
-0 57 7 17
 0 56 3 0
+0 57 7 17
 1
 end_operator
 begin_operator
@@ -70128,8 +70128,8 @@ overcome sciatica triumph okra neptune saturn
 1
 16 7
 2
-0 57 7 17
 0 56 2 1
+0 57 7 17
 1
 end_operator
 begin_operator
@@ -70137,8 +70137,8 @@ overcome sciatica triumph okra uranus neptune
 1
 16 7
 2
-0 57 7 17
 0 56 1 3
+0 57 7 17
 1
 end_operator
 begin_operator
@@ -70146,8 +70146,8 @@ overcome sciatica triumph onion mars uranus
 1
 16 8
 2
-0 57 8 17
 0 56 3 0
+0 57 8 17
 1
 end_operator
 begin_operator
@@ -70155,8 +70155,8 @@ overcome sciatica triumph onion neptune saturn
 1
 16 8
 2
-0 57 8 17
 0 56 2 1
+0 57 8 17
 1
 end_operator
 begin_operator
@@ -70164,8 +70164,8 @@ overcome sciatica triumph onion uranus neptune
 1
 16 8
 2
-0 57 8 17
 0 56 1 3
+0 57 8 17
 1
 end_operator
 begin_operator
@@ -70173,8 +70173,8 @@ overcome sciatica triumph popover mars uranus
 1
 16 9
 2
-0 57 9 17
 0 56 3 0
+0 57 9 17
 1
 end_operator
 begin_operator
@@ -70182,8 +70182,8 @@ overcome sciatica triumph popover neptune saturn
 1
 16 9
 2
-0 57 9 17
 0 56 2 1
+0 57 9 17
 1
 end_operator
 begin_operator
@@ -70191,8 +70191,8 @@ overcome sciatica triumph popover uranus neptune
 1
 16 9
 2
-0 57 9 17
 0 56 1 3
+0 57 9 17
 1
 end_operator
 begin_operator
@@ -70200,8 +70200,8 @@ overcome sciatica triumph snickers mars uranus
 1
 16 10
 2
-0 57 10 17
 0 56 3 0
+0 57 10 17
 1
 end_operator
 begin_operator
@@ -70209,8 +70209,8 @@ overcome sciatica triumph snickers neptune saturn
 1
 16 10
 2
-0 57 10 17
 0 56 2 1
+0 57 10 17
 1
 end_operator
 begin_operator
@@ -70218,8 +70218,8 @@ overcome sciatica triumph snickers uranus neptune
 1
 16 10
 2
-0 57 10 17
 0 56 1 3
+0 57 10 17
 1
 end_operator
 begin_operator
@@ -70227,8 +70227,8 @@ overcome sciatica triumph wurst mars uranus
 1
 16 11
 2
-0 57 11 17
 0 56 3 0
+0 57 11 17
 1
 end_operator
 begin_operator
@@ -70236,8 +70236,8 @@ overcome sciatica triumph wurst neptune saturn
 1
 16 11
 2
-0 57 11 17
 0 56 2 1
+0 57 11 17
 1
 end_operator
 begin_operator
@@ -70245,8 +70245,8 @@ overcome sciatica triumph wurst uranus neptune
 1
 16 11
 2
-0 57 11 17
 0 56 1 3
+0 57 11 17
 1
 end_operator
 begin_operator
@@ -70254,8 +70254,8 @@ overcome sciatica-16 expectation apple mars uranus
 1
 0 0
 2
-0 54 0 12
 0 47 3 0
+0 54 0 12
 1
 end_operator
 begin_operator
@@ -70263,8 +70263,8 @@ overcome sciatica-16 expectation apple neptune saturn
 1
 0 0
 2
-0 54 0 12
 0 47 2 1
+0 54 0 12
 1
 end_operator
 begin_operator
@@ -70272,8 +70272,8 @@ overcome sciatica-16 expectation apple uranus neptune
 1
 0 0
 2
-0 54 0 12
 0 47 1 3
+0 54 0 12
 1
 end_operator
 begin_operator
@@ -70281,8 +70281,8 @@ overcome sciatica-16 expectation flounder mars uranus
 1
 0 1
 2
-0 54 1 12
 0 47 3 0
+0 54 1 12
 1
 end_operator
 begin_operator
@@ -70290,8 +70290,8 @@ overcome sciatica-16 expectation flounder neptune saturn
 1
 0 1
 2
-0 54 1 12
 0 47 2 1
+0 54 1 12
 1
 end_operator
 begin_operator
@@ -70299,8 +70299,8 @@ overcome sciatica-16 expectation flounder uranus neptune
 1
 0 1
 2
-0 54 1 12
 0 47 1 3
+0 54 1 12
 1
 end_operator
 begin_operator
@@ -70308,8 +70308,8 @@ overcome sciatica-16 expectation guava mars uranus
 1
 0 2
 2
-0 54 2 12
 0 47 3 0
+0 54 2 12
 1
 end_operator
 begin_operator
@@ -70317,8 +70317,8 @@ overcome sciatica-16 expectation guava neptune saturn
 1
 0 2
 2
-0 54 2 12
 0 47 2 1
+0 54 2 12
 1
 end_operator
 begin_operator
@@ -70326,8 +70326,8 @@ overcome sciatica-16 expectation guava uranus neptune
 1
 0 2
 2
-0 54 2 12
 0 47 1 3
+0 54 2 12
 1
 end_operator
 begin_operator
@@ -70335,8 +70335,8 @@ overcome sciatica-16 expectation hamburger mars uranus
 1
 0 3
 2
-0 54 3 12
 0 47 3 0
+0 54 3 12
 1
 end_operator
 begin_operator
@@ -70344,8 +70344,8 @@ overcome sciatica-16 expectation hamburger neptune saturn
 1
 0 3
 2
-0 54 3 12
 0 47 2 1
+0 54 3 12
 1
 end_operator
 begin_operator
@@ -70353,8 +70353,8 @@ overcome sciatica-16 expectation hamburger uranus neptune
 1
 0 3
 2
-0 54 3 12
 0 47 1 3
+0 54 3 12
 1
 end_operator
 begin_operator
@@ -70362,8 +70362,8 @@ overcome sciatica-16 expectation lemon mars uranus
 1
 0 4
 2
-0 54 4 12
 0 47 3 0
+0 54 4 12
 1
 end_operator
 begin_operator
@@ -70371,8 +70371,8 @@ overcome sciatica-16 expectation lemon neptune saturn
 1
 0 4
 2
-0 54 4 12
 0 47 2 1
+0 54 4 12
 1
 end_operator
 begin_operator
@@ -70380,8 +70380,8 @@ overcome sciatica-16 expectation lemon uranus neptune
 1
 0 4
 2
-0 54 4 12
 0 47 1 3
+0 54 4 12
 1
 end_operator
 begin_operator
@@ -70389,8 +70389,8 @@ overcome sciatica-16 expectation marzipan mars uranus
 1
 0 5
 2
-0 54 5 12
 0 47 3 0
+0 54 5 12
 1
 end_operator
 begin_operator
@@ -70398,8 +70398,8 @@ overcome sciatica-16 expectation marzipan neptune saturn
 1
 0 5
 2
-0 54 5 12
 0 47 2 1
+0 54 5 12
 1
 end_operator
 begin_operator
@@ -70407,8 +70407,8 @@ overcome sciatica-16 expectation marzipan uranus neptune
 1
 0 5
 2
-0 54 5 12
 0 47 1 3
+0 54 5 12
 1
 end_operator
 begin_operator
@@ -70416,8 +70416,8 @@ overcome sciatica-16 expectation muffin mars uranus
 1
 0 6
 2
-0 54 6 12
 0 47 3 0
+0 54 6 12
 1
 end_operator
 begin_operator
@@ -70425,8 +70425,8 @@ overcome sciatica-16 expectation muffin neptune saturn
 1
 0 6
 2
-0 54 6 12
 0 47 2 1
+0 54 6 12
 1
 end_operator
 begin_operator
@@ -70434,8 +70434,8 @@ overcome sciatica-16 expectation muffin uranus neptune
 1
 0 6
 2
-0 54 6 12
 0 47 1 3
+0 54 6 12
 1
 end_operator
 begin_operator
@@ -70443,8 +70443,8 @@ overcome sciatica-16 expectation okra mars uranus
 1
 0 7
 2
-0 54 7 12
 0 47 3 0
+0 54 7 12
 1
 end_operator
 begin_operator
@@ -70452,8 +70452,8 @@ overcome sciatica-16 expectation okra neptune saturn
 1
 0 7
 2
-0 54 7 12
 0 47 2 1
+0 54 7 12
 1
 end_operator
 begin_operator
@@ -70461,8 +70461,8 @@ overcome sciatica-16 expectation okra uranus neptune
 1
 0 7
 2
-0 54 7 12
 0 47 1 3
+0 54 7 12
 1
 end_operator
 begin_operator
@@ -70470,8 +70470,8 @@ overcome sciatica-16 expectation onion mars uranus
 1
 0 8
 2
-0 54 8 12
 0 47 3 0
+0 54 8 12
 1
 end_operator
 begin_operator
@@ -70479,8 +70479,8 @@ overcome sciatica-16 expectation onion neptune saturn
 1
 0 8
 2
-0 54 8 12
 0 47 2 1
+0 54 8 12
 1
 end_operator
 begin_operator
@@ -70488,8 +70488,8 @@ overcome sciatica-16 expectation onion uranus neptune
 1
 0 8
 2
-0 54 8 12
 0 47 1 3
+0 54 8 12
 1
 end_operator
 begin_operator
@@ -70497,8 +70497,8 @@ overcome sciatica-16 expectation popover mars uranus
 1
 0 9
 2
-0 54 9 12
 0 47 3 0
+0 54 9 12
 1
 end_operator
 begin_operator
@@ -70506,8 +70506,8 @@ overcome sciatica-16 expectation popover neptune saturn
 1
 0 9
 2
-0 54 9 12
 0 47 2 1
+0 54 9 12
 1
 end_operator
 begin_operator
@@ -70515,8 +70515,8 @@ overcome sciatica-16 expectation popover uranus neptune
 1
 0 9
 2
-0 54 9 12
 0 47 1 3
+0 54 9 12
 1
 end_operator
 begin_operator
@@ -70524,8 +70524,8 @@ overcome sciatica-16 expectation snickers mars uranus
 1
 0 10
 2
-0 54 10 12
 0 47 3 0
+0 54 10 12
 1
 end_operator
 begin_operator
@@ -70533,8 +70533,8 @@ overcome sciatica-16 expectation snickers neptune saturn
 1
 0 10
 2
-0 54 10 12
 0 47 2 1
+0 54 10 12
 1
 end_operator
 begin_operator
@@ -70542,8 +70542,8 @@ overcome sciatica-16 expectation snickers uranus neptune
 1
 0 10
 2
-0 54 10 12
 0 47 1 3
+0 54 10 12
 1
 end_operator
 begin_operator
@@ -70551,8 +70551,8 @@ overcome sciatica-16 expectation wurst mars uranus
 1
 0 11
 2
-0 54 11 12
 0 47 3 0
+0 54 11 12
 1
 end_operator
 begin_operator
@@ -70560,8 +70560,8 @@ overcome sciatica-16 expectation wurst neptune saturn
 1
 0 11
 2
-0 54 11 12
 0 47 2 1
+0 54 11 12
 1
 end_operator
 begin_operator
@@ -70569,8 +70569,8 @@ overcome sciatica-16 expectation wurst uranus neptune
 1
 0 11
 2
-0 54 11 12
 0 47 1 3
+0 54 11 12
 1
 end_operator
 begin_operator
@@ -70578,8 +70578,8 @@ overcome sciatica-16 learning apple mars uranus
 1
 1 0
 2
-0 54 0 13
 0 48 3 0
+0 54 0 13
 1
 end_operator
 begin_operator
@@ -70587,8 +70587,8 @@ overcome sciatica-16 learning apple neptune saturn
 1
 1 0
 2
-0 54 0 13
 0 48 2 1
+0 54 0 13
 1
 end_operator
 begin_operator
@@ -70596,8 +70596,8 @@ overcome sciatica-16 learning apple uranus neptune
 1
 1 0
 2
-0 54 0 13
 0 48 1 3
+0 54 0 13
 1
 end_operator
 begin_operator
@@ -70605,8 +70605,8 @@ overcome sciatica-16 learning flounder mars uranus
 1
 1 1
 2
-0 54 1 13
 0 48 3 0
+0 54 1 13
 1
 end_operator
 begin_operator
@@ -70614,8 +70614,8 @@ overcome sciatica-16 learning flounder neptune saturn
 1
 1 1
 2
-0 54 1 13
 0 48 2 1
+0 54 1 13
 1
 end_operator
 begin_operator
@@ -70623,8 +70623,8 @@ overcome sciatica-16 learning flounder uranus neptune
 1
 1 1
 2
-0 54 1 13
 0 48 1 3
+0 54 1 13
 1
 end_operator
 begin_operator
@@ -70632,8 +70632,8 @@ overcome sciatica-16 learning guava mars uranus
 1
 1 2
 2
-0 54 2 13
 0 48 3 0
+0 54 2 13
 1
 end_operator
 begin_operator
@@ -70641,8 +70641,8 @@ overcome sciatica-16 learning guava neptune saturn
 1
 1 2
 2
-0 54 2 13
 0 48 2 1
+0 54 2 13
 1
 end_operator
 begin_operator
@@ -70650,8 +70650,8 @@ overcome sciatica-16 learning guava uranus neptune
 1
 1 2
 2
-0 54 2 13
 0 48 1 3
+0 54 2 13
 1
 end_operator
 begin_operator
@@ -70659,8 +70659,8 @@ overcome sciatica-16 learning hamburger mars uranus
 1
 1 3
 2
-0 54 3 13
 0 48 3 0
+0 54 3 13
 1
 end_operator
 begin_operator
@@ -70668,8 +70668,8 @@ overcome sciatica-16 learning hamburger neptune saturn
 1
 1 3
 2
-0 54 3 13
 0 48 2 1
+0 54 3 13
 1
 end_operator
 begin_operator
@@ -70677,8 +70677,8 @@ overcome sciatica-16 learning hamburger uranus neptune
 1
 1 3
 2
-0 54 3 13
 0 48 1 3
+0 54 3 13
 1
 end_operator
 begin_operator
@@ -70686,8 +70686,8 @@ overcome sciatica-16 learning lemon mars uranus
 1
 1 4
 2
-0 54 4 13
 0 48 3 0
+0 54 4 13
 1
 end_operator
 begin_operator
@@ -70695,8 +70695,8 @@ overcome sciatica-16 learning lemon neptune saturn
 1
 1 4
 2
-0 54 4 13
 0 48 2 1
+0 54 4 13
 1
 end_operator
 begin_operator
@@ -70704,8 +70704,8 @@ overcome sciatica-16 learning lemon uranus neptune
 1
 1 4
 2
-0 54 4 13
 0 48 1 3
+0 54 4 13
 1
 end_operator
 begin_operator
@@ -70713,8 +70713,8 @@ overcome sciatica-16 learning marzipan mars uranus
 1
 1 5
 2
-0 54 5 13
 0 48 3 0
+0 54 5 13
 1
 end_operator
 begin_operator
@@ -70722,8 +70722,8 @@ overcome sciatica-16 learning marzipan neptune saturn
 1
 1 5
 2
-0 54 5 13
 0 48 2 1
+0 54 5 13
 1
 end_operator
 begin_operator
@@ -70731,8 +70731,8 @@ overcome sciatica-16 learning marzipan uranus neptune
 1
 1 5
 2
-0 54 5 13
 0 48 1 3
+0 54 5 13
 1
 end_operator
 begin_operator
@@ -70740,8 +70740,8 @@ overcome sciatica-16 learning muffin mars uranus
 1
 1 6
 2
-0 54 6 13
 0 48 3 0
+0 54 6 13
 1
 end_operator
 begin_operator
@@ -70749,8 +70749,8 @@ overcome sciatica-16 learning muffin neptune saturn
 1
 1 6
 2
-0 54 6 13
 0 48 2 1
+0 54 6 13
 1
 end_operator
 begin_operator
@@ -70758,8 +70758,8 @@ overcome sciatica-16 learning muffin uranus neptune
 1
 1 6
 2
-0 54 6 13
 0 48 1 3
+0 54 6 13
 1
 end_operator
 begin_operator
@@ -70767,8 +70767,8 @@ overcome sciatica-16 learning okra mars uranus
 1
 1 7
 2
-0 54 7 13
 0 48 3 0
+0 54 7 13
 1
 end_operator
 begin_operator
@@ -70776,8 +70776,8 @@ overcome sciatica-16 learning okra neptune saturn
 1
 1 7
 2
-0 54 7 13
 0 48 2 1
+0 54 7 13
 1
 end_operator
 begin_operator
@@ -70785,8 +70785,8 @@ overcome sciatica-16 learning okra uranus neptune
 1
 1 7
 2
-0 54 7 13
 0 48 1 3
+0 54 7 13
 1
 end_operator
 begin_operator
@@ -70794,8 +70794,8 @@ overcome sciatica-16 learning onion mars uranus
 1
 1 8
 2
-0 54 8 13
 0 48 3 0
+0 54 8 13
 1
 end_operator
 begin_operator
@@ -70803,8 +70803,8 @@ overcome sciatica-16 learning onion neptune saturn
 1
 1 8
 2
-0 54 8 13
 0 48 2 1
+0 54 8 13
 1
 end_operator
 begin_operator
@@ -70812,8 +70812,8 @@ overcome sciatica-16 learning onion uranus neptune
 1
 1 8
 2
-0 54 8 13
 0 48 1 3
+0 54 8 13
 1
 end_operator
 begin_operator
@@ -70821,8 +70821,8 @@ overcome sciatica-16 learning popover mars uranus
 1
 1 9
 2
-0 54 9 13
 0 48 3 0
+0 54 9 13
 1
 end_operator
 begin_operator
@@ -70830,8 +70830,8 @@ overcome sciatica-16 learning popover neptune saturn
 1
 1 9
 2
-0 54 9 13
 0 48 2 1
+0 54 9 13
 1
 end_operator
 begin_operator
@@ -70839,8 +70839,8 @@ overcome sciatica-16 learning popover uranus neptune
 1
 1 9
 2
-0 54 9 13
 0 48 1 3
+0 54 9 13
 1
 end_operator
 begin_operator
@@ -70848,8 +70848,8 @@ overcome sciatica-16 learning snickers mars uranus
 1
 1 10
 2
-0 54 10 13
 0 48 3 0
+0 54 10 13
 1
 end_operator
 begin_operator
@@ -70857,8 +70857,8 @@ overcome sciatica-16 learning snickers neptune saturn
 1
 1 10
 2
-0 54 10 13
 0 48 2 1
+0 54 10 13
 1
 end_operator
 begin_operator
@@ -70866,8 +70866,8 @@ overcome sciatica-16 learning snickers uranus neptune
 1
 1 10
 2
-0 54 10 13
 0 48 1 3
+0 54 10 13
 1
 end_operator
 begin_operator
@@ -70875,8 +70875,8 @@ overcome sciatica-16 learning wurst mars uranus
 1
 1 11
 2
-0 54 11 13
 0 48 3 0
+0 54 11 13
 1
 end_operator
 begin_operator
@@ -70884,8 +70884,8 @@ overcome sciatica-16 learning wurst neptune saturn
 1
 1 11
 2
-0 54 11 13
 0 48 2 1
+0 54 11 13
 1
 end_operator
 begin_operator
@@ -70893,8 +70893,8 @@ overcome sciatica-16 learning wurst uranus neptune
 1
 1 11
 2
-0 54 11 13
 0 48 1 3
+0 54 11 13
 1
 end_operator
 begin_operator
@@ -70902,8 +70902,8 @@ overcome sciatica-16 love apple mars uranus
 1
 2 0
 2
-0 54 0 14
 0 51 3 0
+0 54 0 14
 1
 end_operator
 begin_operator
@@ -70911,8 +70911,8 @@ overcome sciatica-16 love apple neptune saturn
 1
 2 0
 2
-0 54 0 14
 0 51 2 1
+0 54 0 14
 1
 end_operator
 begin_operator
@@ -70920,8 +70920,8 @@ overcome sciatica-16 love apple uranus neptune
 1
 2 0
 2
-0 54 0 14
 0 51 1 3
+0 54 0 14
 1
 end_operator
 begin_operator
@@ -70929,8 +70929,8 @@ overcome sciatica-16 love flounder mars uranus
 1
 2 1
 2
-0 54 1 14
 0 51 3 0
+0 54 1 14
 1
 end_operator
 begin_operator
@@ -70938,8 +70938,8 @@ overcome sciatica-16 love flounder neptune saturn
 1
 2 1
 2
-0 54 1 14
 0 51 2 1
+0 54 1 14
 1
 end_operator
 begin_operator
@@ -70947,8 +70947,8 @@ overcome sciatica-16 love flounder uranus neptune
 1
 2 1
 2
-0 54 1 14
 0 51 1 3
+0 54 1 14
 1
 end_operator
 begin_operator
@@ -70956,8 +70956,8 @@ overcome sciatica-16 love guava mars uranus
 1
 2 2
 2
-0 54 2 14
 0 51 3 0
+0 54 2 14
 1
 end_operator
 begin_operator
@@ -70965,8 +70965,8 @@ overcome sciatica-16 love guava neptune saturn
 1
 2 2
 2
-0 54 2 14
 0 51 2 1
+0 54 2 14
 1
 end_operator
 begin_operator
@@ -70974,8 +70974,8 @@ overcome sciatica-16 love guava uranus neptune
 1
 2 2
 2
-0 54 2 14
 0 51 1 3
+0 54 2 14
 1
 end_operator
 begin_operator
@@ -70983,8 +70983,8 @@ overcome sciatica-16 love hamburger mars uranus
 1
 2 3
 2
-0 54 3 14
 0 51 3 0
+0 54 3 14
 1
 end_operator
 begin_operator
@@ -70992,8 +70992,8 @@ overcome sciatica-16 love hamburger neptune saturn
 1
 2 3
 2
-0 54 3 14
 0 51 2 1
+0 54 3 14
 1
 end_operator
 begin_operator
@@ -71001,8 +71001,8 @@ overcome sciatica-16 love hamburger uranus neptune
 1
 2 3
 2
-0 54 3 14
 0 51 1 3
+0 54 3 14
 1
 end_operator
 begin_operator
@@ -71010,8 +71010,8 @@ overcome sciatica-16 love lemon mars uranus
 1
 2 4
 2
-0 54 4 14
 0 51 3 0
+0 54 4 14
 1
 end_operator
 begin_operator
@@ -71019,8 +71019,8 @@ overcome sciatica-16 love lemon neptune saturn
 1
 2 4
 2
-0 54 4 14
 0 51 2 1
+0 54 4 14
 1
 end_operator
 begin_operator
@@ -71028,8 +71028,8 @@ overcome sciatica-16 love lemon uranus neptune
 1
 2 4
 2
-0 54 4 14
 0 51 1 3
+0 54 4 14
 1
 end_operator
 begin_operator
@@ -71037,8 +71037,8 @@ overcome sciatica-16 love marzipan mars uranus
 1
 2 5
 2
-0 54 5 14
 0 51 3 0
+0 54 5 14
 1
 end_operator
 begin_operator
@@ -71046,8 +71046,8 @@ overcome sciatica-16 love marzipan neptune saturn
 1
 2 5
 2
-0 54 5 14
 0 51 2 1
+0 54 5 14
 1
 end_operator
 begin_operator
@@ -71055,8 +71055,8 @@ overcome sciatica-16 love marzipan uranus neptune
 1
 2 5
 2
-0 54 5 14
 0 51 1 3
+0 54 5 14
 1
 end_operator
 begin_operator
@@ -71064,8 +71064,8 @@ overcome sciatica-16 love muffin mars uranus
 1
 2 6
 2
-0 54 6 14
 0 51 3 0
+0 54 6 14
 1
 end_operator
 begin_operator
@@ -71073,8 +71073,8 @@ overcome sciatica-16 love muffin neptune saturn
 1
 2 6
 2
-0 54 6 14
 0 51 2 1
+0 54 6 14
 1
 end_operator
 begin_operator
@@ -71082,8 +71082,8 @@ overcome sciatica-16 love muffin uranus neptune
 1
 2 6
 2
-0 54 6 14
 0 51 1 3
+0 54 6 14
 1
 end_operator
 begin_operator
@@ -71091,8 +71091,8 @@ overcome sciatica-16 love okra mars uranus
 1
 2 7
 2
-0 54 7 14
 0 51 3 0
+0 54 7 14
 1
 end_operator
 begin_operator
@@ -71100,8 +71100,8 @@ overcome sciatica-16 love okra neptune saturn
 1
 2 7
 2
-0 54 7 14
 0 51 2 1
+0 54 7 14
 1
 end_operator
 begin_operator
@@ -71109,8 +71109,8 @@ overcome sciatica-16 love okra uranus neptune
 1
 2 7
 2
-0 54 7 14
 0 51 1 3
+0 54 7 14
 1
 end_operator
 begin_operator
@@ -71118,8 +71118,8 @@ overcome sciatica-16 love onion mars uranus
 1
 2 8
 2
-0 54 8 14
 0 51 3 0
+0 54 8 14
 1
 end_operator
 begin_operator
@@ -71127,8 +71127,8 @@ overcome sciatica-16 love onion neptune saturn
 1
 2 8
 2
-0 54 8 14
 0 51 2 1
+0 54 8 14
 1
 end_operator
 begin_operator
@@ -71136,8 +71136,8 @@ overcome sciatica-16 love onion uranus neptune
 1
 2 8
 2
-0 54 8 14
 0 51 1 3
+0 54 8 14
 1
 end_operator
 begin_operator
@@ -71145,8 +71145,8 @@ overcome sciatica-16 love popover mars uranus
 1
 2 9
 2
-0 54 9 14
 0 51 3 0
+0 54 9 14
 1
 end_operator
 begin_operator
@@ -71154,8 +71154,8 @@ overcome sciatica-16 love popover neptune saturn
 1
 2 9
 2
-0 54 9 14
 0 51 2 1
+0 54 9 14
 1
 end_operator
 begin_operator
@@ -71163,8 +71163,8 @@ overcome sciatica-16 love popover uranus neptune
 1
 2 9
 2
-0 54 9 14
 0 51 1 3
+0 54 9 14
 1
 end_operator
 begin_operator
@@ -71172,8 +71172,8 @@ overcome sciatica-16 love snickers mars uranus
 1
 2 10
 2
-0 54 10 14
 0 51 3 0
+0 54 10 14
 1
 end_operator
 begin_operator
@@ -71181,8 +71181,8 @@ overcome sciatica-16 love snickers neptune saturn
 1
 2 10
 2
-0 54 10 14
 0 51 2 1
+0 54 10 14
 1
 end_operator
 begin_operator
@@ -71190,8 +71190,8 @@ overcome sciatica-16 love snickers uranus neptune
 1
 2 10
 2
-0 54 10 14
 0 51 1 3
+0 54 10 14
 1
 end_operator
 begin_operator
@@ -71199,8 +71199,8 @@ overcome sciatica-16 love wurst mars uranus
 1
 2 11
 2
-0 54 11 14
 0 51 3 0
+0 54 11 14
 1
 end_operator
 begin_operator
@@ -71208,8 +71208,8 @@ overcome sciatica-16 love wurst neptune saturn
 1
 2 11
 2
-0 54 11 14
 0 51 2 1
+0 54 11 14
 1
 end_operator
 begin_operator
@@ -71217,8 +71217,8 @@ overcome sciatica-16 love wurst uranus neptune
 1
 2 11
 2
-0 54 11 14
 0 51 1 3
+0 54 11 14
 1
 end_operator
 begin_operator
@@ -71226,8 +71226,8 @@ overcome sciatica-16 rest apple mars uranus
 1
 11 0
 2
-0 54 0 15
 0 52 3 0
+0 54 0 15
 1
 end_operator
 begin_operator
@@ -71235,8 +71235,8 @@ overcome sciatica-16 rest apple neptune saturn
 1
 11 0
 2
-0 54 0 15
 0 52 2 1
+0 54 0 15
 1
 end_operator
 begin_operator
@@ -71244,8 +71244,8 @@ overcome sciatica-16 rest apple uranus neptune
 1
 11 0
 2
-0 54 0 15
 0 52 1 3
+0 54 0 15
 1
 end_operator
 begin_operator
@@ -71253,8 +71253,8 @@ overcome sciatica-16 rest flounder mars uranus
 1
 11 1
 2
-0 54 1 15
 0 52 3 0
+0 54 1 15
 1
 end_operator
 begin_operator
@@ -71262,8 +71262,8 @@ overcome sciatica-16 rest flounder neptune saturn
 1
 11 1
 2
-0 54 1 15
 0 52 2 1
+0 54 1 15
 1
 end_operator
 begin_operator
@@ -71271,8 +71271,8 @@ overcome sciatica-16 rest flounder uranus neptune
 1
 11 1
 2
-0 54 1 15
 0 52 1 3
+0 54 1 15
 1
 end_operator
 begin_operator
@@ -71280,8 +71280,8 @@ overcome sciatica-16 rest guava mars uranus
 1
 11 2
 2
-0 54 2 15
 0 52 3 0
+0 54 2 15
 1
 end_operator
 begin_operator
@@ -71289,8 +71289,8 @@ overcome sciatica-16 rest guava neptune saturn
 1
 11 2
 2
-0 54 2 15
 0 52 2 1
+0 54 2 15
 1
 end_operator
 begin_operator
@@ -71298,8 +71298,8 @@ overcome sciatica-16 rest guava uranus neptune
 1
 11 2
 2
-0 54 2 15
 0 52 1 3
+0 54 2 15
 1
 end_operator
 begin_operator
@@ -71307,8 +71307,8 @@ overcome sciatica-16 rest hamburger mars uranus
 1
 11 3
 2
-0 54 3 15
 0 52 3 0
+0 54 3 15
 1
 end_operator
 begin_operator
@@ -71316,8 +71316,8 @@ overcome sciatica-16 rest hamburger neptune saturn
 1
 11 3
 2
-0 54 3 15
 0 52 2 1
+0 54 3 15
 1
 end_operator
 begin_operator
@@ -71325,8 +71325,8 @@ overcome sciatica-16 rest hamburger uranus neptune
 1
 11 3
 2
-0 54 3 15
 0 52 1 3
+0 54 3 15
 1
 end_operator
 begin_operator
@@ -71334,8 +71334,8 @@ overcome sciatica-16 rest lemon mars uranus
 1
 11 4
 2
-0 54 4 15
 0 52 3 0
+0 54 4 15
 1
 end_operator
 begin_operator
@@ -71343,8 +71343,8 @@ overcome sciatica-16 rest lemon neptune saturn
 1
 11 4
 2
-0 54 4 15
 0 52 2 1
+0 54 4 15
 1
 end_operator
 begin_operator
@@ -71352,8 +71352,8 @@ overcome sciatica-16 rest lemon uranus neptune
 1
 11 4
 2
-0 54 4 15
 0 52 1 3
+0 54 4 15
 1
 end_operator
 begin_operator
@@ -71361,8 +71361,8 @@ overcome sciatica-16 rest marzipan mars uranus
 1
 11 5
 2
-0 54 5 15
 0 52 3 0
+0 54 5 15
 1
 end_operator
 begin_operator
@@ -71370,8 +71370,8 @@ overcome sciatica-16 rest marzipan neptune saturn
 1
 11 5
 2
-0 54 5 15
 0 52 2 1
+0 54 5 15
 1
 end_operator
 begin_operator
@@ -71379,8 +71379,8 @@ overcome sciatica-16 rest marzipan uranus neptune
 1
 11 5
 2
-0 54 5 15
 0 52 1 3
+0 54 5 15
 1
 end_operator
 begin_operator
@@ -71388,8 +71388,8 @@ overcome sciatica-16 rest muffin mars uranus
 1
 11 6
 2
-0 54 6 15
 0 52 3 0
+0 54 6 15
 1
 end_operator
 begin_operator
@@ -71397,8 +71397,8 @@ overcome sciatica-16 rest muffin neptune saturn
 1
 11 6
 2
-0 54 6 15
 0 52 2 1
+0 54 6 15
 1
 end_operator
 begin_operator
@@ -71406,8 +71406,8 @@ overcome sciatica-16 rest muffin uranus neptune
 1
 11 6
 2
-0 54 6 15
 0 52 1 3
+0 54 6 15
 1
 end_operator
 begin_operator
@@ -71415,8 +71415,8 @@ overcome sciatica-16 rest okra mars uranus
 1
 11 7
 2
-0 54 7 15
 0 52 3 0
+0 54 7 15
 1
 end_operator
 begin_operator
@@ -71424,8 +71424,8 @@ overcome sciatica-16 rest okra neptune saturn
 1
 11 7
 2
-0 54 7 15
 0 52 2 1
+0 54 7 15
 1
 end_operator
 begin_operator
@@ -71433,8 +71433,8 @@ overcome sciatica-16 rest okra uranus neptune
 1
 11 7
 2
-0 54 7 15
 0 52 1 3
+0 54 7 15
 1
 end_operator
 begin_operator
@@ -71442,8 +71442,8 @@ overcome sciatica-16 rest onion mars uranus
 1
 11 8
 2
-0 54 8 15
 0 52 3 0
+0 54 8 15
 1
 end_operator
 begin_operator
@@ -71451,8 +71451,8 @@ overcome sciatica-16 rest onion neptune saturn
 1
 11 8
 2
-0 54 8 15
 0 52 2 1
+0 54 8 15
 1
 end_operator
 begin_operator
@@ -71460,8 +71460,8 @@ overcome sciatica-16 rest onion uranus neptune
 1
 11 8
 2
-0 54 8 15
 0 52 1 3
+0 54 8 15
 1
 end_operator
 begin_operator
@@ -71469,8 +71469,8 @@ overcome sciatica-16 rest popover mars uranus
 1
 11 9
 2
-0 54 9 15
 0 52 3 0
+0 54 9 15
 1
 end_operator
 begin_operator
@@ -71478,8 +71478,8 @@ overcome sciatica-16 rest popover neptune saturn
 1
 11 9
 2
-0 54 9 15
 0 52 2 1
+0 54 9 15
 1
 end_operator
 begin_operator
@@ -71487,8 +71487,8 @@ overcome sciatica-16 rest popover uranus neptune
 1
 11 9
 2
-0 54 9 15
 0 52 1 3
+0 54 9 15
 1
 end_operator
 begin_operator
@@ -71496,8 +71496,8 @@ overcome sciatica-16 rest snickers mars uranus
 1
 11 10
 2
-0 54 10 15
 0 52 3 0
+0 54 10 15
 1
 end_operator
 begin_operator
@@ -71505,8 +71505,8 @@ overcome sciatica-16 rest snickers neptune saturn
 1
 11 10
 2
-0 54 10 15
 0 52 2 1
+0 54 10 15
 1
 end_operator
 begin_operator
@@ -71514,8 +71514,8 @@ overcome sciatica-16 rest snickers uranus neptune
 1
 11 10
 2
-0 54 10 15
 0 52 1 3
+0 54 10 15
 1
 end_operator
 begin_operator
@@ -71523,8 +71523,8 @@ overcome sciatica-16 rest wurst mars uranus
 1
 11 11
 2
-0 54 11 15
 0 52 3 0
+0 54 11 15
 1
 end_operator
 begin_operator
@@ -71532,8 +71532,8 @@ overcome sciatica-16 rest wurst neptune saturn
 1
 11 11
 2
-0 54 11 15
 0 52 2 1
+0 54 11 15
 1
 end_operator
 begin_operator
@@ -71541,8 +71541,8 @@ overcome sciatica-16 rest wurst uranus neptune
 1
 11 11
 2
-0 54 11 15
 0 52 1 3
+0 54 11 15
 1
 end_operator
 begin_operator
@@ -128574,8 +128574,8 @@ succumb loneliness-32 expectation apple mars uranus
 1
 0 0
 2
-0 49 12 0
 0 47 0 3
+0 49 12 0
 1
 end_operator
 begin_operator
@@ -128583,8 +128583,8 @@ succumb loneliness-32 expectation apple neptune saturn
 1
 0 0
 2
-0 49 12 0
 0 47 1 2
+0 49 12 0
 1
 end_operator
 begin_operator
@@ -128592,8 +128592,8 @@ succumb loneliness-32 expectation apple uranus neptune
 1
 0 0
 2
-0 49 12 0
 0 47 3 1
+0 49 12 0
 1
 end_operator
 begin_operator
@@ -128601,8 +128601,8 @@ succumb loneliness-32 expectation flounder mars uranus
 1
 0 1
 2
-0 49 12 1
 0 47 0 3
+0 49 12 1
 1
 end_operator
 begin_operator
@@ -128610,8 +128610,8 @@ succumb loneliness-32 expectation flounder neptune saturn
 1
 0 1
 2
-0 49 12 1
 0 47 1 2
+0 49 12 1
 1
 end_operator
 begin_operator
@@ -128619,8 +128619,8 @@ succumb loneliness-32 expectation flounder uranus neptune
 1
 0 1
 2
-0 49 12 1
 0 47 3 1
+0 49 12 1
 1
 end_operator
 begin_operator
@@ -128628,8 +128628,8 @@ succumb loneliness-32 expectation guava mars uranus
 1
 0 2
 2
-0 49 12 2
 0 47 0 3
+0 49 12 2
 1
 end_operator
 begin_operator
@@ -128637,8 +128637,8 @@ succumb loneliness-32 expectation guava neptune saturn
 1
 0 2
 2
-0 49 12 2
 0 47 1 2
+0 49 12 2
 1
 end_operator
 begin_operator
@@ -128646,8 +128646,8 @@ succumb loneliness-32 expectation guava uranus neptune
 1
 0 2
 2
-0 49 12 2
 0 47 3 1
+0 49 12 2
 1
 end_operator
 begin_operator
@@ -128655,8 +128655,8 @@ succumb loneliness-32 expectation hamburger mars uranus
 1
 0 3
 2
-0 49 12 3
 0 47 0 3
+0 49 12 3
 1
 end_operator
 begin_operator
@@ -128664,8 +128664,8 @@ succumb loneliness-32 expectation hamburger neptune saturn
 1
 0 3
 2
-0 49 12 3
 0 47 1 2
+0 49 12 3
 1
 end_operator
 begin_operator
@@ -128673,8 +128673,8 @@ succumb loneliness-32 expectation hamburger uranus neptune
 1
 0 3
 2
-0 49 12 3
 0 47 3 1
+0 49 12 3
 1
 end_operator
 begin_operator
@@ -128682,8 +128682,8 @@ succumb loneliness-32 expectation lemon mars uranus
 1
 0 4
 2
-0 49 12 4
 0 47 0 3
+0 49 12 4
 1
 end_operator
 begin_operator
@@ -128691,8 +128691,8 @@ succumb loneliness-32 expectation lemon neptune saturn
 1
 0 4
 2
-0 49 12 4
 0 47 1 2
+0 49 12 4
 1
 end_operator
 begin_operator
@@ -128700,8 +128700,8 @@ succumb loneliness-32 expectation lemon uranus neptune
 1
 0 4
 2
-0 49 12 4
 0 47 3 1
+0 49 12 4
 1
 end_operator
 begin_operator
@@ -128709,8 +128709,8 @@ succumb loneliness-32 expectation marzipan mars uranus
 1
 0 5
 2
-0 49 12 5
 0 47 0 3
+0 49 12 5
 1
 end_operator
 begin_operator
@@ -128718,8 +128718,8 @@ succumb loneliness-32 expectation marzipan neptune saturn
 1
 0 5
 2
-0 49 12 5
 0 47 1 2
+0 49 12 5
 1
 end_operator
 begin_operator
@@ -128727,8 +128727,8 @@ succumb loneliness-32 expectation marzipan uranus neptune
 1
 0 5
 2
-0 49 12 5
 0 47 3 1
+0 49 12 5
 1
 end_operator
 begin_operator
@@ -128736,8 +128736,8 @@ succumb loneliness-32 expectation muffin mars uranus
 1
 0 6
 2
-0 49 12 6
 0 47 0 3
+0 49 12 6
 1
 end_operator
 begin_operator
@@ -128745,8 +128745,8 @@ succumb loneliness-32 expectation muffin neptune saturn
 1
 0 6
 2
-0 49 12 6
 0 47 1 2
+0 49 12 6
 1
 end_operator
 begin_operator
@@ -128754,8 +128754,8 @@ succumb loneliness-32 expectation muffin uranus neptune
 1
 0 6
 2
-0 49 12 6
 0 47 3 1
+0 49 12 6
 1
 end_operator
 begin_operator
@@ -128763,8 +128763,8 @@ succumb loneliness-32 expectation okra mars uranus
 1
 0 7
 2
-0 49 12 7
 0 47 0 3
+0 49 12 7
 1
 end_operator
 begin_operator
@@ -128772,8 +128772,8 @@ succumb loneliness-32 expectation okra neptune saturn
 1
 0 7
 2
-0 49 12 7
 0 47 1 2
+0 49 12 7
 1
 end_operator
 begin_operator
@@ -128781,8 +128781,8 @@ succumb loneliness-32 expectation okra uranus neptune
 1
 0 7
 2
-0 49 12 7
 0 47 3 1
+0 49 12 7
 1
 end_operator
 begin_operator
@@ -128790,8 +128790,8 @@ succumb loneliness-32 expectation onion mars uranus
 1
 0 8
 2
-0 49 12 8
 0 47 0 3
+0 49 12 8
 1
 end_operator
 begin_operator
@@ -128799,8 +128799,8 @@ succumb loneliness-32 expectation onion neptune saturn
 1
 0 8
 2
-0 49 12 8
 0 47 1 2
+0 49 12 8
 1
 end_operator
 begin_operator
@@ -128808,8 +128808,8 @@ succumb loneliness-32 expectation onion uranus neptune
 1
 0 8
 2
-0 49 12 8
 0 47 3 1
+0 49 12 8
 1
 end_operator
 begin_operator
@@ -128817,8 +128817,8 @@ succumb loneliness-32 expectation popover mars uranus
 1
 0 9
 2
-0 49 12 9
 0 47 0 3
+0 49 12 9
 1
 end_operator
 begin_operator
@@ -128826,8 +128826,8 @@ succumb loneliness-32 expectation popover neptune saturn
 1
 0 9
 2
-0 49 12 9
 0 47 1 2
+0 49 12 9
 1
 end_operator
 begin_operator
@@ -128835,8 +128835,8 @@ succumb loneliness-32 expectation popover uranus neptune
 1
 0 9
 2
-0 49 12 9
 0 47 3 1
+0 49 12 9
 1
 end_operator
 begin_operator
@@ -128844,8 +128844,8 @@ succumb loneliness-32 expectation snickers mars uranus
 1
 0 10
 2
-0 49 12 10
 0 47 0 3
+0 49 12 10
 1
 end_operator
 begin_operator
@@ -128853,8 +128853,8 @@ succumb loneliness-32 expectation snickers neptune saturn
 1
 0 10
 2
-0 49 12 10
 0 47 1 2
+0 49 12 10
 1
 end_operator
 begin_operator
@@ -128862,8 +128862,8 @@ succumb loneliness-32 expectation snickers uranus neptune
 1
 0 10
 2
-0 49 12 10
 0 47 3 1
+0 49 12 10
 1
 end_operator
 begin_operator
@@ -128871,8 +128871,8 @@ succumb loneliness-32 expectation wurst mars uranus
 1
 0 11
 2
-0 49 12 11
 0 47 0 3
+0 49 12 11
 1
 end_operator
 begin_operator
@@ -128880,8 +128880,8 @@ succumb loneliness-32 expectation wurst neptune saturn
 1
 0 11
 2
-0 49 12 11
 0 47 1 2
+0 49 12 11
 1
 end_operator
 begin_operator
@@ -128889,8 +128889,8 @@ succumb loneliness-32 expectation wurst uranus neptune
 1
 0 11
 2
-0 49 12 11
 0 47 3 1
+0 49 12 11
 1
 end_operator
 begin_operator
@@ -128898,8 +128898,8 @@ succumb loneliness-32 learning apple mars uranus
 1
 1 0
 2
-0 49 13 0
 0 48 0 3
+0 49 13 0
 1
 end_operator
 begin_operator
@@ -128907,8 +128907,8 @@ succumb loneliness-32 learning apple neptune saturn
 1
 1 0
 2
-0 49 13 0
 0 48 1 2
+0 49 13 0
 1
 end_operator
 begin_operator
@@ -128916,8 +128916,8 @@ succumb loneliness-32 learning apple uranus neptune
 1
 1 0
 2
-0 49 13 0
 0 48 3 1
+0 49 13 0
 1
 end_operator
 begin_operator
@@ -128925,8 +128925,8 @@ succumb loneliness-32 learning flounder mars uranus
 1
 1 1
 2
-0 49 13 1
 0 48 0 3
+0 49 13 1
 1
 end_operator
 begin_operator
@@ -128934,8 +128934,8 @@ succumb loneliness-32 learning flounder neptune saturn
 1
 1 1
 2
-0 49 13 1
 0 48 1 2
+0 49 13 1
 1
 end_operator
 begin_operator
@@ -128943,8 +128943,8 @@ succumb loneliness-32 learning flounder uranus neptune
 1
 1 1
 2
-0 49 13 1
 0 48 3 1
+0 49 13 1
 1
 end_operator
 begin_operator
@@ -128952,8 +128952,8 @@ succumb loneliness-32 learning guava mars uranus
 1
 1 2
 2
-0 49 13 2
 0 48 0 3
+0 49 13 2
 1
 end_operator
 begin_operator
@@ -128961,8 +128961,8 @@ succumb loneliness-32 learning guava neptune saturn
 1
 1 2
 2
-0 49 13 2
 0 48 1 2
+0 49 13 2
 1
 end_operator
 begin_operator
@@ -128970,8 +128970,8 @@ succumb loneliness-32 learning guava uranus neptune
 1
 1 2
 2
-0 49 13 2
 0 48 3 1
+0 49 13 2
 1
 end_operator
 begin_operator
@@ -128979,8 +128979,8 @@ succumb loneliness-32 learning hamburger mars uranus
 1
 1 3
 2
-0 49 13 3
 0 48 0 3
+0 49 13 3
 1
 end_operator
 begin_operator
@@ -128988,8 +128988,8 @@ succumb loneliness-32 learning hamburger neptune saturn
 1
 1 3
 2
-0 49 13 3
 0 48 1 2
+0 49 13 3
 1
 end_operator
 begin_operator
@@ -128997,8 +128997,8 @@ succumb loneliness-32 learning hamburger uranus neptune
 1
 1 3
 2
-0 49 13 3
 0 48 3 1
+0 49 13 3
 1
 end_operator
 begin_operator
@@ -129006,8 +129006,8 @@ succumb loneliness-32 learning lemon mars uranus
 1
 1 4
 2
-0 49 13 4
 0 48 0 3
+0 49 13 4
 1
 end_operator
 begin_operator
@@ -129015,8 +129015,8 @@ succumb loneliness-32 learning lemon neptune saturn
 1
 1 4
 2
-0 49 13 4
 0 48 1 2
+0 49 13 4
 1
 end_operator
 begin_operator
@@ -129024,8 +129024,8 @@ succumb loneliness-32 learning lemon uranus neptune
 1
 1 4
 2
-0 49 13 4
 0 48 3 1
+0 49 13 4
 1
 end_operator
 begin_operator
@@ -129033,8 +129033,8 @@ succumb loneliness-32 learning marzipan mars uranus
 1
 1 5
 2
-0 49 13 5
 0 48 0 3
+0 49 13 5
 1
 end_operator
 begin_operator
@@ -129042,8 +129042,8 @@ succumb loneliness-32 learning marzipan neptune saturn
 1
 1 5
 2
-0 49 13 5
 0 48 1 2
+0 49 13 5
 1
 end_operator
 begin_operator
@@ -129051,8 +129051,8 @@ succumb loneliness-32 learning marzipan uranus neptune
 1
 1 5
 2
-0 49 13 5
 0 48 3 1
+0 49 13 5
 1
 end_operator
 begin_operator
@@ -129060,8 +129060,8 @@ succumb loneliness-32 learning muffin mars uranus
 1
 1 6
 2
-0 49 13 6
 0 48 0 3
+0 49 13 6
 1
 end_operator
 begin_operator
@@ -129069,8 +129069,8 @@ succumb loneliness-32 learning muffin neptune saturn
 1
 1 6
 2
-0 49 13 6
 0 48 1 2
+0 49 13 6
 1
 end_operator
 begin_operator
@@ -129078,8 +129078,8 @@ succumb loneliness-32 learning muffin uranus neptune
 1
 1 6
 2
-0 49 13 6
 0 48 3 1
+0 49 13 6
 1
 end_operator
 begin_operator
@@ -129087,8 +129087,8 @@ succumb loneliness-32 learning okra mars uranus
 1
 1 7
 2
-0 49 13 7
 0 48 0 3
+0 49 13 7
 1
 end_operator
 begin_operator
@@ -129096,8 +129096,8 @@ succumb loneliness-32 learning okra neptune saturn
 1
 1 7
 2
-0 49 13 7
 0 48 1 2
+0 49 13 7
 1
 end_operator
 begin_operator
@@ -129105,8 +129105,8 @@ succumb loneliness-32 learning okra uranus neptune
 1
 1 7
 2
-0 49 13 7
 0 48 3 1
+0 49 13 7
 1
 end_operator
 begin_operator
@@ -129114,8 +129114,8 @@ succumb loneliness-32 learning onion mars uranus
 1
 1 8
 2
-0 49 13 8
 0 48 0 3
+0 49 13 8
 1
 end_operator
 begin_operator
@@ -129123,8 +129123,8 @@ succumb loneliness-32 learning onion neptune saturn
 1
 1 8
 2
-0 49 13 8
 0 48 1 2
+0 49 13 8
 1
 end_operator
 begin_operator
@@ -129132,8 +129132,8 @@ succumb loneliness-32 learning onion uranus neptune
 1
 1 8
 2
-0 49 13 8
 0 48 3 1
+0 49 13 8
 1
 end_operator
 begin_operator
@@ -129141,8 +129141,8 @@ succumb loneliness-32 learning popover mars uranus
 1
 1 9
 2
-0 49 13 9
 0 48 0 3
+0 49 13 9
 1
 end_operator
 begin_operator
@@ -129150,8 +129150,8 @@ succumb loneliness-32 learning popover neptune saturn
 1
 1 9
 2
-0 49 13 9
 0 48 1 2
+0 49 13 9
 1
 end_operator
 begin_operator
@@ -129159,8 +129159,8 @@ succumb loneliness-32 learning popover uranus neptune
 1
 1 9
 2
-0 49 13 9
 0 48 3 1
+0 49 13 9
 1
 end_operator
 begin_operator
@@ -129168,8 +129168,8 @@ succumb loneliness-32 learning snickers mars uranus
 1
 1 10
 2
-0 49 13 10
 0 48 0 3
+0 49 13 10
 1
 end_operator
 begin_operator
@@ -129177,8 +129177,8 @@ succumb loneliness-32 learning snickers neptune saturn
 1
 1 10
 2
-0 49 13 10
 0 48 1 2
+0 49 13 10
 1
 end_operator
 begin_operator
@@ -129186,8 +129186,8 @@ succumb loneliness-32 learning snickers uranus neptune
 1
 1 10
 2
-0 49 13 10
 0 48 3 1
+0 49 13 10
 1
 end_operator
 begin_operator
@@ -129195,8 +129195,8 @@ succumb loneliness-32 learning wurst mars uranus
 1
 1 11
 2
-0 49 13 11
 0 48 0 3
+0 49 13 11
 1
 end_operator
 begin_operator
@@ -129204,8 +129204,8 @@ succumb loneliness-32 learning wurst neptune saturn
 1
 1 11
 2
-0 49 13 11
 0 48 1 2
+0 49 13 11
 1
 end_operator
 begin_operator
@@ -129213,8 +129213,8 @@ succumb loneliness-32 learning wurst uranus neptune
 1
 1 11
 2
-0 49 13 11
 0 48 3 1
+0 49 13 11
 1
 end_operator
 begin_operator
@@ -130518,8 +130518,8 @@ succumb prostatitis expectation apple mars uranus
 1
 0 0
 2
-0 50 12 0
 0 47 0 3
+0 50 12 0
 1
 end_operator
 begin_operator
@@ -130527,8 +130527,8 @@ succumb prostatitis expectation apple neptune saturn
 1
 0 0
 2
-0 50 12 0
 0 47 1 2
+0 50 12 0
 1
 end_operator
 begin_operator
@@ -130536,8 +130536,8 @@ succumb prostatitis expectation apple uranus neptune
 1
 0 0
 2
-0 50 12 0
 0 47 3 1
+0 50 12 0
 1
 end_operator
 begin_operator
@@ -130545,8 +130545,8 @@ succumb prostatitis expectation flounder mars uranus
 1
 0 1
 2
-0 50 12 1
 0 47 0 3
+0 50 12 1
 1
 end_operator
 begin_operator
@@ -130554,8 +130554,8 @@ succumb prostatitis expectation flounder neptune saturn
 1
 0 1
 2
-0 50 12 1
 0 47 1 2
+0 50 12 1
 1
 end_operator
 begin_operator
@@ -130563,8 +130563,8 @@ succumb prostatitis expectation flounder uranus neptune
 1
 0 1
 2
-0 50 12 1
 0 47 3 1
+0 50 12 1
 1
 end_operator
 begin_operator
@@ -130572,8 +130572,8 @@ succumb prostatitis expectation guava mars uranus
 1
 0 2
 2
-0 50 12 2
 0 47 0 3
+0 50 12 2
 1
 end_operator
 begin_operator
@@ -130581,8 +130581,8 @@ succumb prostatitis expectation guava neptune saturn
 1
 0 2
 2
-0 50 12 2
 0 47 1 2
+0 50 12 2
 1
 end_operator
 begin_operator
@@ -130590,8 +130590,8 @@ succumb prostatitis expectation guava uranus neptune
 1
 0 2
 2
-0 50 12 2
 0 47 3 1
+0 50 12 2
 1
 end_operator
 begin_operator
@@ -130599,8 +130599,8 @@ succumb prostatitis expectation hamburger mars uranus
 1
 0 3
 2
-0 50 12 3
 0 47 0 3
+0 50 12 3
 1
 end_operator
 begin_operator
@@ -130608,8 +130608,8 @@ succumb prostatitis expectation hamburger neptune saturn
 1
 0 3
 2
-0 50 12 3
 0 47 1 2
+0 50 12 3
 1
 end_operator
 begin_operator
@@ -130617,8 +130617,8 @@ succumb prostatitis expectation hamburger uranus neptune
 1
 0 3
 2
-0 50 12 3
 0 47 3 1
+0 50 12 3
 1
 end_operator
 begin_operator
@@ -130626,8 +130626,8 @@ succumb prostatitis expectation lemon mars uranus
 1
 0 4
 2
-0 50 12 4
 0 47 0 3
+0 50 12 4
 1
 end_operator
 begin_operator
@@ -130635,8 +130635,8 @@ succumb prostatitis expectation lemon neptune saturn
 1
 0 4
 2
-0 50 12 4
 0 47 1 2
+0 50 12 4
 1
 end_operator
 begin_operator
@@ -130644,8 +130644,8 @@ succumb prostatitis expectation lemon uranus neptune
 1
 0 4
 2
-0 50 12 4
 0 47 3 1
+0 50 12 4
 1
 end_operator
 begin_operator
@@ -130653,8 +130653,8 @@ succumb prostatitis expectation marzipan mars uranus
 1
 0 5
 2
-0 50 12 5
 0 47 0 3
+0 50 12 5
 1
 end_operator
 begin_operator
@@ -130662,8 +130662,8 @@ succumb prostatitis expectation marzipan neptune saturn
 1
 0 5
 2
-0 50 12 5
 0 47 1 2
+0 50 12 5
 1
 end_operator
 begin_operator
@@ -130671,8 +130671,8 @@ succumb prostatitis expectation marzipan uranus neptune
 1
 0 5
 2
-0 50 12 5
 0 47 3 1
+0 50 12 5
 1
 end_operator
 begin_operator
@@ -130680,8 +130680,8 @@ succumb prostatitis expectation muffin mars uranus
 1
 0 6
 2
-0 50 12 6
 0 47 0 3
+0 50 12 6
 1
 end_operator
 begin_operator
@@ -130689,8 +130689,8 @@ succumb prostatitis expectation muffin neptune saturn
 1
 0 6
 2
-0 50 12 6
 0 47 1 2
+0 50 12 6
 1
 end_operator
 begin_operator
@@ -130698,8 +130698,8 @@ succumb prostatitis expectation muffin uranus neptune
 1
 0 6
 2
-0 50 12 6
 0 47 3 1
+0 50 12 6
 1
 end_operator
 begin_operator
@@ -130707,8 +130707,8 @@ succumb prostatitis expectation okra mars uranus
 1
 0 7
 2
-0 50 12 7
 0 47 0 3
+0 50 12 7
 1
 end_operator
 begin_operator
@@ -130716,8 +130716,8 @@ succumb prostatitis expectation okra neptune saturn
 1
 0 7
 2
-0 50 12 7
 0 47 1 2
+0 50 12 7
 1
 end_operator
 begin_operator
@@ -130725,8 +130725,8 @@ succumb prostatitis expectation okra uranus neptune
 1
 0 7
 2
-0 50 12 7
 0 47 3 1
+0 50 12 7
 1
 end_operator
 begin_operator
@@ -130734,8 +130734,8 @@ succumb prostatitis expectation onion mars uranus
 1
 0 8
 2
-0 50 12 8
 0 47 0 3
+0 50 12 8
 1
 end_operator
 begin_operator
@@ -130743,8 +130743,8 @@ succumb prostatitis expectation onion neptune saturn
 1
 0 8
 2
-0 50 12 8
 0 47 1 2
+0 50 12 8
 1
 end_operator
 begin_operator
@@ -130752,8 +130752,8 @@ succumb prostatitis expectation onion uranus neptune
 1
 0 8
 2
-0 50 12 8
 0 47 3 1
+0 50 12 8
 1
 end_operator
 begin_operator
@@ -130761,8 +130761,8 @@ succumb prostatitis expectation popover mars uranus
 1
 0 9
 2
-0 50 12 9
 0 47 0 3
+0 50 12 9
 1
 end_operator
 begin_operator
@@ -130770,8 +130770,8 @@ succumb prostatitis expectation popover neptune saturn
 1
 0 9
 2
-0 50 12 9
 0 47 1 2
+0 50 12 9
 1
 end_operator
 begin_operator
@@ -130779,8 +130779,8 @@ succumb prostatitis expectation popover uranus neptune
 1
 0 9
 2
-0 50 12 9
 0 47 3 1
+0 50 12 9
 1
 end_operator
 begin_operator
@@ -130788,8 +130788,8 @@ succumb prostatitis expectation snickers mars uranus
 1
 0 10
 2
-0 50 12 10
 0 47 0 3
+0 50 12 10
 1
 end_operator
 begin_operator
@@ -130797,8 +130797,8 @@ succumb prostatitis expectation snickers neptune saturn
 1
 0 10
 2
-0 50 12 10
 0 47 1 2
+0 50 12 10
 1
 end_operator
 begin_operator
@@ -130806,8 +130806,8 @@ succumb prostatitis expectation snickers uranus neptune
 1
 0 10
 2
-0 50 12 10
 0 47 3 1
+0 50 12 10
 1
 end_operator
 begin_operator
@@ -130815,8 +130815,8 @@ succumb prostatitis expectation wurst mars uranus
 1
 0 11
 2
-0 50 12 11
 0 47 0 3
+0 50 12 11
 1
 end_operator
 begin_operator
@@ -130824,8 +130824,8 @@ succumb prostatitis expectation wurst neptune saturn
 1
 0 11
 2
-0 50 12 11
 0 47 1 2
+0 50 12 11
 1
 end_operator
 begin_operator
@@ -130833,8 +130833,8 @@ succumb prostatitis expectation wurst uranus neptune
 1
 0 11
 2
-0 50 12 11
 0 47 3 1
+0 50 12 11
 1
 end_operator
 begin_operator
@@ -130842,8 +130842,8 @@ succumb prostatitis learning apple mars uranus
 1
 1 0
 2
-0 50 13 0
 0 48 0 3
+0 50 13 0
 1
 end_operator
 begin_operator
@@ -130851,8 +130851,8 @@ succumb prostatitis learning apple neptune saturn
 1
 1 0
 2
-0 50 13 0
 0 48 1 2
+0 50 13 0
 1
 end_operator
 begin_operator
@@ -130860,8 +130860,8 @@ succumb prostatitis learning apple uranus neptune
 1
 1 0
 2
-0 50 13 0
 0 48 3 1
+0 50 13 0
 1
 end_operator
 begin_operator
@@ -130869,8 +130869,8 @@ succumb prostatitis learning flounder mars uranus
 1
 1 1
 2
-0 50 13 1
 0 48 0 3
+0 50 13 1
 1
 end_operator
 begin_operator
@@ -130878,8 +130878,8 @@ succumb prostatitis learning flounder neptune saturn
 1
 1 1
 2
-0 50 13 1
 0 48 1 2
+0 50 13 1
 1
 end_operator
 begin_operator
@@ -130887,8 +130887,8 @@ succumb prostatitis learning flounder uranus neptune
 1
 1 1
 2
-0 50 13 1
 0 48 3 1
+0 50 13 1
 1
 end_operator
 begin_operator
@@ -130896,8 +130896,8 @@ succumb prostatitis learning guava mars uranus
 1
 1 2
 2
-0 50 13 2
 0 48 0 3
+0 50 13 2
 1
 end_operator
 begin_operator
@@ -130905,8 +130905,8 @@ succumb prostatitis learning guava neptune saturn
 1
 1 2
 2
-0 50 13 2
 0 48 1 2
+0 50 13 2
 1
 end_operator
 begin_operator
@@ -130914,8 +130914,8 @@ succumb prostatitis learning guava uranus neptune
 1
 1 2
 2
-0 50 13 2
 0 48 3 1
+0 50 13 2
 1
 end_operator
 begin_operator
@@ -130923,8 +130923,8 @@ succumb prostatitis learning hamburger mars uranus
 1
 1 3
 2
-0 50 13 3
 0 48 0 3
+0 50 13 3
 1
 end_operator
 begin_operator
@@ -130932,8 +130932,8 @@ succumb prostatitis learning hamburger neptune saturn
 1
 1 3
 2
-0 50 13 3
 0 48 1 2
+0 50 13 3
 1
 end_operator
 begin_operator
@@ -130941,8 +130941,8 @@ succumb prostatitis learning hamburger uranus neptune
 1
 1 3
 2
-0 50 13 3
 0 48 3 1
+0 50 13 3
 1
 end_operator
 begin_operator
@@ -130950,8 +130950,8 @@ succumb prostatitis learning lemon mars uranus
 1
 1 4
 2
-0 50 13 4
 0 48 0 3
+0 50 13 4
 1
 end_operator
 begin_operator
@@ -130959,8 +130959,8 @@ succumb prostatitis learning lemon neptune saturn
 1
 1 4
 2
-0 50 13 4
 0 48 1 2
+0 50 13 4
 1
 end_operator
 begin_operator
@@ -130968,8 +130968,8 @@ succumb prostatitis learning lemon uranus neptune
 1
 1 4
 2
-0 50 13 4
 0 48 3 1
+0 50 13 4
 1
 end_operator
 begin_operator
@@ -130977,8 +130977,8 @@ succumb prostatitis learning marzipan mars uranus
 1
 1 5
 2
-0 50 13 5
 0 48 0 3
+0 50 13 5
 1
 end_operator
 begin_operator
@@ -130986,8 +130986,8 @@ succumb prostatitis learning marzipan neptune saturn
 1
 1 5
 2
-0 50 13 5
 0 48 1 2
+0 50 13 5
 1
 end_operator
 begin_operator
@@ -130995,8 +130995,8 @@ succumb prostatitis learning marzipan uranus neptune
 1
 1 5
 2
-0 50 13 5
 0 48 3 1
+0 50 13 5
 1
 end_operator
 begin_operator
@@ -131004,8 +131004,8 @@ succumb prostatitis learning muffin mars uranus
 1
 1 6
 2
-0 50 13 6
 0 48 0 3
+0 50 13 6
 1
 end_operator
 begin_operator
@@ -131013,8 +131013,8 @@ succumb prostatitis learning muffin neptune saturn
 1
 1 6
 2
-0 50 13 6
 0 48 1 2
+0 50 13 6
 1
 end_operator
 begin_operator
@@ -131022,8 +131022,8 @@ succumb prostatitis learning muffin uranus neptune
 1
 1 6
 2
-0 50 13 6
 0 48 3 1
+0 50 13 6
 1
 end_operator
 begin_operator
@@ -131031,8 +131031,8 @@ succumb prostatitis learning okra mars uranus
 1
 1 7
 2
-0 50 13 7
 0 48 0 3
+0 50 13 7
 1
 end_operator
 begin_operator
@@ -131040,8 +131040,8 @@ succumb prostatitis learning okra neptune saturn
 1
 1 7
 2
-0 50 13 7
 0 48 1 2
+0 50 13 7
 1
 end_operator
 begin_operator
@@ -131049,8 +131049,8 @@ succumb prostatitis learning okra uranus neptune
 1
 1 7
 2
-0 50 13 7
 0 48 3 1
+0 50 13 7
 1
 end_operator
 begin_operator
@@ -131058,8 +131058,8 @@ succumb prostatitis learning onion mars uranus
 1
 1 8
 2
-0 50 13 8
 0 48 0 3
+0 50 13 8
 1
 end_operator
 begin_operator
@@ -131067,8 +131067,8 @@ succumb prostatitis learning onion neptune saturn
 1
 1 8
 2
-0 50 13 8
 0 48 1 2
+0 50 13 8
 1
 end_operator
 begin_operator
@@ -131076,8 +131076,8 @@ succumb prostatitis learning onion uranus neptune
 1
 1 8
 2
-0 50 13 8
 0 48 3 1
+0 50 13 8
 1
 end_operator
 begin_operator
@@ -131085,8 +131085,8 @@ succumb prostatitis learning popover mars uranus
 1
 1 9
 2
-0 50 13 9
 0 48 0 3
+0 50 13 9
 1
 end_operator
 begin_operator
@@ -131094,8 +131094,8 @@ succumb prostatitis learning popover neptune saturn
 1
 1 9
 2
-0 50 13 9
 0 48 1 2
+0 50 13 9
 1
 end_operator
 begin_operator
@@ -131103,8 +131103,8 @@ succumb prostatitis learning popover uranus neptune
 1
 1 9
 2
-0 50 13 9
 0 48 3 1
+0 50 13 9
 1
 end_operator
 begin_operator
@@ -131112,8 +131112,8 @@ succumb prostatitis learning snickers mars uranus
 1
 1 10
 2
-0 50 13 10
 0 48 0 3
+0 50 13 10
 1
 end_operator
 begin_operator
@@ -131121,8 +131121,8 @@ succumb prostatitis learning snickers neptune saturn
 1
 1 10
 2
-0 50 13 10
 0 48 1 2
+0 50 13 10
 1
 end_operator
 begin_operator
@@ -131130,8 +131130,8 @@ succumb prostatitis learning snickers uranus neptune
 1
 1 10
 2
-0 50 13 10
 0 48 3 1
+0 50 13 10
 1
 end_operator
 begin_operator
@@ -131139,8 +131139,8 @@ succumb prostatitis learning wurst mars uranus
 1
 1 11
 2
-0 50 13 11
 0 48 0 3
+0 50 13 11
 1
 end_operator
 begin_operator
@@ -131148,8 +131148,8 @@ succumb prostatitis learning wurst neptune saturn
 1
 1 11
 2
-0 50 13 11
 0 48 1 2
+0 50 13 11
 1
 end_operator
 begin_operator
@@ -131157,8 +131157,8 @@ succumb prostatitis learning wurst uranus neptune
 1
 1 11
 2
-0 50 13 11
 0 48 3 1
+0 50 13 11
 1
 end_operator
 begin_operator
@@ -132462,8 +132462,8 @@ succumb prostatitis-7 expectation apple mars uranus
 1
 0 0
 2
-0 53 12 0
 0 47 0 3
+0 53 12 0
 1
 end_operator
 begin_operator
@@ -132471,8 +132471,8 @@ succumb prostatitis-7 expectation apple neptune saturn
 1
 0 0
 2
-0 53 12 0
 0 47 1 2
+0 53 12 0
 1
 end_operator
 begin_operator
@@ -132480,8 +132480,8 @@ succumb prostatitis-7 expectation apple uranus neptune
 1
 0 0
 2
-0 53 12 0
 0 47 3 1
+0 53 12 0
 1
 end_operator
 begin_operator
@@ -132489,8 +132489,8 @@ succumb prostatitis-7 expectation flounder mars uranus
 1
 0 1
 2
-0 53 12 1
 0 47 0 3
+0 53 12 1
 1
 end_operator
 begin_operator
@@ -132498,8 +132498,8 @@ succumb prostatitis-7 expectation flounder neptune saturn
 1
 0 1
 2
-0 53 12 1
 0 47 1 2
+0 53 12 1
 1
 end_operator
 begin_operator
@@ -132507,8 +132507,8 @@ succumb prostatitis-7 expectation flounder uranus neptune
 1
 0 1
 2
-0 53 12 1
 0 47 3 1
+0 53 12 1
 1
 end_operator
 begin_operator
@@ -132516,8 +132516,8 @@ succumb prostatitis-7 expectation guava mars uranus
 1
 0 2
 2
-0 53 12 2
 0 47 0 3
+0 53 12 2
 1
 end_operator
 begin_operator
@@ -132525,8 +132525,8 @@ succumb prostatitis-7 expectation guava neptune saturn
 1
 0 2
 2
-0 53 12 2
 0 47 1 2
+0 53 12 2
 1
 end_operator
 begin_operator
@@ -132534,8 +132534,8 @@ succumb prostatitis-7 expectation guava uranus neptune
 1
 0 2
 2
-0 53 12 2
 0 47 3 1
+0 53 12 2
 1
 end_operator
 begin_operator
@@ -132543,8 +132543,8 @@ succumb prostatitis-7 expectation hamburger mars uranus
 1
 0 3
 2
-0 53 12 3
 0 47 0 3
+0 53 12 3
 1
 end_operator
 begin_operator
@@ -132552,8 +132552,8 @@ succumb prostatitis-7 expectation hamburger neptune saturn
 1
 0 3
 2
-0 53 12 3
 0 47 1 2
+0 53 12 3
 1
 end_operator
 begin_operator
@@ -132561,8 +132561,8 @@ succumb prostatitis-7 expectation hamburger uranus neptune
 1
 0 3
 2
-0 53 12 3
 0 47 3 1
+0 53 12 3
 1
 end_operator
 begin_operator
@@ -132570,8 +132570,8 @@ succumb prostatitis-7 expectation lemon mars uranus
 1
 0 4
 2
-0 53 12 4
 0 47 0 3
+0 53 12 4
 1
 end_operator
 begin_operator
@@ -132579,8 +132579,8 @@ succumb prostatitis-7 expectation lemon neptune saturn
 1
 0 4
 2
-0 53 12 4
 0 47 1 2
+0 53 12 4
 1
 end_operator
 begin_operator
@@ -132588,8 +132588,8 @@ succumb prostatitis-7 expectation lemon uranus neptune
 1
 0 4
 2
-0 53 12 4
 0 47 3 1
+0 53 12 4
 1
 end_operator
 begin_operator
@@ -132597,8 +132597,8 @@ succumb prostatitis-7 expectation marzipan mars uranus
 1
 0 5
 2
-0 53 12 5
 0 47 0 3
+0 53 12 5
 1
 end_operator
 begin_operator
@@ -132606,8 +132606,8 @@ succumb prostatitis-7 expectation marzipan neptune saturn
 1
 0 5
 2
-0 53 12 5
 0 47 1 2
+0 53 12 5
 1
 end_operator
 begin_operator
@@ -132615,8 +132615,8 @@ succumb prostatitis-7 expectation marzipan uranus neptune
 1
 0 5
 2
-0 53 12 5
 0 47 3 1
+0 53 12 5
 1
 end_operator
 begin_operator
@@ -132624,8 +132624,8 @@ succumb prostatitis-7 expectation muffin mars uranus
 1
 0 6
 2
-0 53 12 6
 0 47 0 3
+0 53 12 6
 1
 end_operator
 begin_operator
@@ -132633,8 +132633,8 @@ succumb prostatitis-7 expectation muffin neptune saturn
 1
 0 6
 2
-0 53 12 6
 0 47 1 2
+0 53 12 6
 1
 end_operator
 begin_operator
@@ -132642,8 +132642,8 @@ succumb prostatitis-7 expectation muffin uranus neptune
 1
 0 6
 2
-0 53 12 6
 0 47 3 1
+0 53 12 6
 1
 end_operator
 begin_operator
@@ -132651,8 +132651,8 @@ succumb prostatitis-7 expectation okra mars uranus
 1
 0 7
 2
-0 53 12 7
 0 47 0 3
+0 53 12 7
 1
 end_operator
 begin_operator
@@ -132660,8 +132660,8 @@ succumb prostatitis-7 expectation okra neptune saturn
 1
 0 7
 2
-0 53 12 7
 0 47 1 2
+0 53 12 7
 1
 end_operator
 begin_operator
@@ -132669,8 +132669,8 @@ succumb prostatitis-7 expectation okra uranus neptune
 1
 0 7
 2
-0 53 12 7
 0 47 3 1
+0 53 12 7
 1
 end_operator
 begin_operator
@@ -132678,8 +132678,8 @@ succumb prostatitis-7 expectation onion mars uranus
 1
 0 8
 2
-0 53 12 8
 0 47 0 3
+0 53 12 8
 1
 end_operator
 begin_operator
@@ -132687,8 +132687,8 @@ succumb prostatitis-7 expectation onion neptune saturn
 1
 0 8
 2
-0 53 12 8
 0 47 1 2
+0 53 12 8
 1
 end_operator
 begin_operator
@@ -132696,8 +132696,8 @@ succumb prostatitis-7 expectation onion uranus neptune
 1
 0 8
 2
-0 53 12 8
 0 47 3 1
+0 53 12 8
 1
 end_operator
 begin_operator
@@ -132705,8 +132705,8 @@ succumb prostatitis-7 expectation popover mars uranus
 1
 0 9
 2
-0 53 12 9
 0 47 0 3
+0 53 12 9
 1
 end_operator
 begin_operator
@@ -132714,8 +132714,8 @@ succumb prostatitis-7 expectation popover neptune saturn
 1
 0 9
 2
-0 53 12 9
 0 47 1 2
+0 53 12 9
 1
 end_operator
 begin_operator
@@ -132723,8 +132723,8 @@ succumb prostatitis-7 expectation popover uranus neptune
 1
 0 9
 2
-0 53 12 9
 0 47 3 1
+0 53 12 9
 1
 end_operator
 begin_operator
@@ -132732,8 +132732,8 @@ succumb prostatitis-7 expectation snickers mars uranus
 1
 0 10
 2
-0 53 12 10
 0 47 0 3
+0 53 12 10
 1
 end_operator
 begin_operator
@@ -132741,8 +132741,8 @@ succumb prostatitis-7 expectation snickers neptune saturn
 1
 0 10
 2
-0 53 12 10
 0 47 1 2
+0 53 12 10
 1
 end_operator
 begin_operator
@@ -132750,8 +132750,8 @@ succumb prostatitis-7 expectation snickers uranus neptune
 1
 0 10
 2
-0 53 12 10
 0 47 3 1
+0 53 12 10
 1
 end_operator
 begin_operator
@@ -132759,8 +132759,8 @@ succumb prostatitis-7 expectation wurst mars uranus
 1
 0 11
 2
-0 53 12 11
 0 47 0 3
+0 53 12 11
 1
 end_operator
 begin_operator
@@ -132768,8 +132768,8 @@ succumb prostatitis-7 expectation wurst neptune saturn
 1
 0 11
 2
-0 53 12 11
 0 47 1 2
+0 53 12 11
 1
 end_operator
 begin_operator
@@ -132777,8 +132777,8 @@ succumb prostatitis-7 expectation wurst uranus neptune
 1
 0 11
 2
-0 53 12 11
 0 47 3 1
+0 53 12 11
 1
 end_operator
 begin_operator
@@ -132786,8 +132786,8 @@ succumb prostatitis-7 learning apple mars uranus
 1
 1 0
 2
-0 53 13 0
 0 48 0 3
+0 53 13 0
 1
 end_operator
 begin_operator
@@ -132795,8 +132795,8 @@ succumb prostatitis-7 learning apple neptune saturn
 1
 1 0
 2
-0 53 13 0
 0 48 1 2
+0 53 13 0
 1
 end_operator
 begin_operator
@@ -132804,8 +132804,8 @@ succumb prostatitis-7 learning apple uranus neptune
 1
 1 0
 2
-0 53 13 0
 0 48 3 1
+0 53 13 0
 1
 end_operator
 begin_operator
@@ -132813,8 +132813,8 @@ succumb prostatitis-7 learning flounder mars uranus
 1
 1 1
 2
-0 53 13 1
 0 48 0 3
+0 53 13 1
 1
 end_operator
 begin_operator
@@ -132822,8 +132822,8 @@ succumb prostatitis-7 learning flounder neptune saturn
 1
 1 1
 2
-0 53 13 1
 0 48 1 2
+0 53 13 1
 1
 end_operator
 begin_operator
@@ -132831,8 +132831,8 @@ succumb prostatitis-7 learning flounder uranus neptune
 1
 1 1
 2
-0 53 13 1
 0 48 3 1
+0 53 13 1
 1
 end_operator
 begin_operator
@@ -132840,8 +132840,8 @@ succumb prostatitis-7 learning guava mars uranus
 1
 1 2
 2
-0 53 13 2
 0 48 0 3
+0 53 13 2
 1
 end_operator
 begin_operator
@@ -132849,8 +132849,8 @@ succumb prostatitis-7 learning guava neptune saturn
 1
 1 2
 2
-0 53 13 2
 0 48 1 2
+0 53 13 2
 1
 end_operator
 begin_operator
@@ -132858,8 +132858,8 @@ succumb prostatitis-7 learning guava uranus neptune
 1
 1 2
 2
-0 53 13 2
 0 48 3 1
+0 53 13 2
 1
 end_operator
 begin_operator
@@ -132867,8 +132867,8 @@ succumb prostatitis-7 learning hamburger mars uranus
 1
 1 3
 2
-0 53 13 3
 0 48 0 3
+0 53 13 3
 1
 end_operator
 begin_operator
@@ -132876,8 +132876,8 @@ succumb prostatitis-7 learning hamburger neptune saturn
 1
 1 3
 2
-0 53 13 3
 0 48 1 2
+0 53 13 3
 1
 end_operator
 begin_operator
@@ -132885,8 +132885,8 @@ succumb prostatitis-7 learning hamburger uranus neptune
 1
 1 3
 2
-0 53 13 3
 0 48 3 1
+0 53 13 3
 1
 end_operator
 begin_operator
@@ -132894,8 +132894,8 @@ succumb prostatitis-7 learning lemon mars uranus
 1
 1 4
 2
-0 53 13 4
 0 48 0 3
+0 53 13 4
 1
 end_operator
 begin_operator
@@ -132903,8 +132903,8 @@ succumb prostatitis-7 learning lemon neptune saturn
 1
 1 4
 2
-0 53 13 4
 0 48 1 2
+0 53 13 4
 1
 end_operator
 begin_operator
@@ -132912,8 +132912,8 @@ succumb prostatitis-7 learning lemon uranus neptune
 1
 1 4
 2
-0 53 13 4
 0 48 3 1
+0 53 13 4
 1
 end_operator
 begin_operator
@@ -132921,8 +132921,8 @@ succumb prostatitis-7 learning marzipan mars uranus
 1
 1 5
 2
-0 53 13 5
 0 48 0 3
+0 53 13 5
 1
 end_operator
 begin_operator
@@ -132930,8 +132930,8 @@ succumb prostatitis-7 learning marzipan neptune saturn
 1
 1 5
 2
-0 53 13 5
 0 48 1 2
+0 53 13 5
 1
 end_operator
 begin_operator
@@ -132939,8 +132939,8 @@ succumb prostatitis-7 learning marzipan uranus neptune
 1
 1 5
 2
-0 53 13 5
 0 48 3 1
+0 53 13 5
 1
 end_operator
 begin_operator
@@ -132948,8 +132948,8 @@ succumb prostatitis-7 learning muffin mars uranus
 1
 1 6
 2
-0 53 13 6
 0 48 0 3
+0 53 13 6
 1
 end_operator
 begin_operator
@@ -132957,8 +132957,8 @@ succumb prostatitis-7 learning muffin neptune saturn
 1
 1 6
 2
-0 53 13 6
 0 48 1 2
+0 53 13 6
 1
 end_operator
 begin_operator
@@ -132966,8 +132966,8 @@ succumb prostatitis-7 learning muffin uranus neptune
 1
 1 6
 2
-0 53 13 6
 0 48 3 1
+0 53 13 6
 1
 end_operator
 begin_operator
@@ -132975,8 +132975,8 @@ succumb prostatitis-7 learning okra mars uranus
 1
 1 7
 2
-0 53 13 7
 0 48 0 3
+0 53 13 7
 1
 end_operator
 begin_operator
@@ -132984,8 +132984,8 @@ succumb prostatitis-7 learning okra neptune saturn
 1
 1 7
 2
-0 53 13 7
 0 48 1 2
+0 53 13 7
 1
 end_operator
 begin_operator
@@ -132993,8 +132993,8 @@ succumb prostatitis-7 learning okra uranus neptune
 1
 1 7
 2
-0 53 13 7
 0 48 3 1
+0 53 13 7
 1
 end_operator
 begin_operator
@@ -133002,8 +133002,8 @@ succumb prostatitis-7 learning onion mars uranus
 1
 1 8
 2
-0 53 13 8
 0 48 0 3
+0 53 13 8
 1
 end_operator
 begin_operator
@@ -133011,8 +133011,8 @@ succumb prostatitis-7 learning onion neptune saturn
 1
 1 8
 2
-0 53 13 8
 0 48 1 2
+0 53 13 8
 1
 end_operator
 begin_operator
@@ -133020,8 +133020,8 @@ succumb prostatitis-7 learning onion uranus neptune
 1
 1 8
 2
-0 53 13 8
 0 48 3 1
+0 53 13 8
 1
 end_operator
 begin_operator
@@ -133029,8 +133029,8 @@ succumb prostatitis-7 learning popover mars uranus
 1
 1 9
 2
-0 53 13 9
 0 48 0 3
+0 53 13 9
 1
 end_operator
 begin_operator
@@ -133038,8 +133038,8 @@ succumb prostatitis-7 learning popover neptune saturn
 1
 1 9
 2
-0 53 13 9
 0 48 1 2
+0 53 13 9
 1
 end_operator
 begin_operator
@@ -133047,8 +133047,8 @@ succumb prostatitis-7 learning popover uranus neptune
 1
 1 9
 2
-0 53 13 9
 0 48 3 1
+0 53 13 9
 1
 end_operator
 begin_operator
@@ -133056,8 +133056,8 @@ succumb prostatitis-7 learning snickers mars uranus
 1
 1 10
 2
-0 53 13 10
 0 48 0 3
+0 53 13 10
 1
 end_operator
 begin_operator
@@ -133065,8 +133065,8 @@ succumb prostatitis-7 learning snickers neptune saturn
 1
 1 10
 2
-0 53 13 10
 0 48 1 2
+0 53 13 10
 1
 end_operator
 begin_operator
@@ -133074,8 +133074,8 @@ succumb prostatitis-7 learning snickers uranus neptune
 1
 1 10
 2
-0 53 13 10
 0 48 3 1
+0 53 13 10
 1
 end_operator
 begin_operator
@@ -133083,8 +133083,8 @@ succumb prostatitis-7 learning wurst mars uranus
 1
 1 11
 2
-0 53 13 11
 0 48 0 3
+0 53 13 11
 1
 end_operator
 begin_operator
@@ -133092,8 +133092,8 @@ succumb prostatitis-7 learning wurst neptune saturn
 1
 1 11
 2
-0 53 13 11
 0 48 1 2
+0 53 13 11
 1
 end_operator
 begin_operator
@@ -133101,8 +133101,8 @@ succumb prostatitis-7 learning wurst uranus neptune
 1
 1 11
 2
-0 53 13 11
 0 48 3 1
+0 53 13 11
 1
 end_operator
 begin_operator
@@ -133110,8 +133110,8 @@ succumb prostatitis-7 love apple mars uranus
 1
 2 0
 2
-0 53 14 0
 0 51 0 3
+0 53 14 0
 1
 end_operator
 begin_operator
@@ -133119,8 +133119,8 @@ succumb prostatitis-7 love apple neptune saturn
 1
 2 0
 2
-0 53 14 0
 0 51 1 2
+0 53 14 0
 1
 end_operator
 begin_operator
@@ -133128,8 +133128,8 @@ succumb prostatitis-7 love apple uranus neptune
 1
 2 0
 2
-0 53 14 0
 0 51 3 1
+0 53 14 0
 1
 end_operator
 begin_operator
@@ -133137,8 +133137,8 @@ succumb prostatitis-7 love flounder mars uranus
 1
 2 1
 2
-0 53 14 1
 0 51 0 3
+0 53 14 1
 1
 end_operator
 begin_operator
@@ -133146,8 +133146,8 @@ succumb prostatitis-7 love flounder neptune saturn
 1
 2 1
 2
-0 53 14 1
 0 51 1 2
+0 53 14 1
 1
 end_operator
 begin_operator
@@ -133155,8 +133155,8 @@ succumb prostatitis-7 love flounder uranus neptune
 1
 2 1
 2
-0 53 14 1
 0 51 3 1
+0 53 14 1
 1
 end_operator
 begin_operator
@@ -133164,8 +133164,8 @@ succumb prostatitis-7 love guava mars uranus
 1
 2 2
 2
-0 53 14 2
 0 51 0 3
+0 53 14 2
 1
 end_operator
 begin_operator
@@ -133173,8 +133173,8 @@ succumb prostatitis-7 love guava neptune saturn
 1
 2 2
 2
-0 53 14 2
 0 51 1 2
+0 53 14 2
 1
 end_operator
 begin_operator
@@ -133182,8 +133182,8 @@ succumb prostatitis-7 love guava uranus neptune
 1
 2 2
 2
-0 53 14 2
 0 51 3 1
+0 53 14 2
 1
 end_operator
 begin_operator
@@ -133191,8 +133191,8 @@ succumb prostatitis-7 love hamburger mars uranus
 1
 2 3
 2
-0 53 14 3
 0 51 0 3
+0 53 14 3
 1
 end_operator
 begin_operator
@@ -133200,8 +133200,8 @@ succumb prostatitis-7 love hamburger neptune saturn
 1
 2 3
 2
-0 53 14 3
 0 51 1 2
+0 53 14 3
 1
 end_operator
 begin_operator
@@ -133209,8 +133209,8 @@ succumb prostatitis-7 love hamburger uranus neptune
 1
 2 3
 2
-0 53 14 3
 0 51 3 1
+0 53 14 3
 1
 end_operator
 begin_operator
@@ -133218,8 +133218,8 @@ succumb prostatitis-7 love lemon mars uranus
 1
 2 4
 2
-0 53 14 4
 0 51 0 3
+0 53 14 4
 1
 end_operator
 begin_operator
@@ -133227,8 +133227,8 @@ succumb prostatitis-7 love lemon neptune saturn
 1
 2 4
 2
-0 53 14 4
 0 51 1 2
+0 53 14 4
 1
 end_operator
 begin_operator
@@ -133236,8 +133236,8 @@ succumb prostatitis-7 love lemon uranus neptune
 1
 2 4
 2
-0 53 14 4
 0 51 3 1
+0 53 14 4
 1
 end_operator
 begin_operator
@@ -133245,8 +133245,8 @@ succumb prostatitis-7 love marzipan mars uranus
 1
 2 5
 2
-0 53 14 5
 0 51 0 3
+0 53 14 5
 1
 end_operator
 begin_operator
@@ -133254,8 +133254,8 @@ succumb prostatitis-7 love marzipan neptune saturn
 1
 2 5
 2
-0 53 14 5
 0 51 1 2
+0 53 14 5
 1
 end_operator
 begin_operator
@@ -133263,8 +133263,8 @@ succumb prostatitis-7 love marzipan uranus neptune
 1
 2 5
 2
-0 53 14 5
 0 51 3 1
+0 53 14 5
 1
 end_operator
 begin_operator
@@ -133272,8 +133272,8 @@ succumb prostatitis-7 love muffin mars uranus
 1
 2 6
 2
-0 53 14 6
 0 51 0 3
+0 53 14 6
 1
 end_operator
 begin_operator
@@ -133281,8 +133281,8 @@ succumb prostatitis-7 love muffin neptune saturn
 1
 2 6
 2
-0 53 14 6
 0 51 1 2
+0 53 14 6
 1
 end_operator
 begin_operator
@@ -133290,8 +133290,8 @@ succumb prostatitis-7 love muffin uranus neptune
 1
 2 6
 2
-0 53 14 6
 0 51 3 1
+0 53 14 6
 1
 end_operator
 begin_operator
@@ -133299,8 +133299,8 @@ succumb prostatitis-7 love okra mars uranus
 1
 2 7
 2
-0 53 14 7
 0 51 0 3
+0 53 14 7
 1
 end_operator
 begin_operator
@@ -133308,8 +133308,8 @@ succumb prostatitis-7 love okra neptune saturn
 1
 2 7
 2
-0 53 14 7
 0 51 1 2
+0 53 14 7
 1
 end_operator
 begin_operator
@@ -133317,8 +133317,8 @@ succumb prostatitis-7 love okra uranus neptune
 1
 2 7
 2
-0 53 14 7
 0 51 3 1
+0 53 14 7
 1
 end_operator
 begin_operator
@@ -133326,8 +133326,8 @@ succumb prostatitis-7 love onion mars uranus
 1
 2 8
 2
-0 53 14 8
 0 51 0 3
+0 53 14 8
 1
 end_operator
 begin_operator
@@ -133335,8 +133335,8 @@ succumb prostatitis-7 love onion neptune saturn
 1
 2 8
 2
-0 53 14 8
 0 51 1 2
+0 53 14 8
 1
 end_operator
 begin_operator
@@ -133344,8 +133344,8 @@ succumb prostatitis-7 love onion uranus neptune
 1
 2 8
 2
-0 53 14 8
 0 51 3 1
+0 53 14 8
 1
 end_operator
 begin_operator
@@ -133353,8 +133353,8 @@ succumb prostatitis-7 love popover mars uranus
 1
 2 9
 2
-0 53 14 9
 0 51 0 3
+0 53 14 9
 1
 end_operator
 begin_operator
@@ -133362,8 +133362,8 @@ succumb prostatitis-7 love popover neptune saturn
 1
 2 9
 2
-0 53 14 9
 0 51 1 2
+0 53 14 9
 1
 end_operator
 begin_operator
@@ -133371,8 +133371,8 @@ succumb prostatitis-7 love popover uranus neptune
 1
 2 9
 2
-0 53 14 9
 0 51 3 1
+0 53 14 9
 1
 end_operator
 begin_operator
@@ -133380,8 +133380,8 @@ succumb prostatitis-7 love snickers mars uranus
 1
 2 10
 2
-0 53 14 10
 0 51 0 3
+0 53 14 10
 1
 end_operator
 begin_operator
@@ -133389,8 +133389,8 @@ succumb prostatitis-7 love snickers neptune saturn
 1
 2 10
 2
-0 53 14 10
 0 51 1 2
+0 53 14 10
 1
 end_operator
 begin_operator
@@ -133398,8 +133398,8 @@ succumb prostatitis-7 love snickers uranus neptune
 1
 2 10
 2
-0 53 14 10
 0 51 3 1
+0 53 14 10
 1
 end_operator
 begin_operator
@@ -133407,8 +133407,8 @@ succumb prostatitis-7 love wurst mars uranus
 1
 2 11
 2
-0 53 14 11
 0 51 0 3
+0 53 14 11
 1
 end_operator
 begin_operator
@@ -133416,8 +133416,8 @@ succumb prostatitis-7 love wurst neptune saturn
 1
 2 11
 2
-0 53 14 11
 0 51 1 2
+0 53 14 11
 1
 end_operator
 begin_operator
@@ -133425,8 +133425,8 @@ succumb prostatitis-7 love wurst uranus neptune
 1
 2 11
 2
-0 53 14 11
 0 51 3 1
+0 53 14 11
 1
 end_operator
 begin_operator
@@ -133434,8 +133434,8 @@ succumb prostatitis-7 rest apple mars uranus
 1
 11 0
 2
-0 53 15 0
 0 52 0 3
+0 53 15 0
 1
 end_operator
 begin_operator
@@ -133443,8 +133443,8 @@ succumb prostatitis-7 rest apple neptune saturn
 1
 11 0
 2
-0 53 15 0
 0 52 1 2
+0 53 15 0
 1
 end_operator
 begin_operator
@@ -133452,8 +133452,8 @@ succumb prostatitis-7 rest apple uranus neptune
 1
 11 0
 2
-0 53 15 0
 0 52 3 1
+0 53 15 0
 1
 end_operator
 begin_operator
@@ -133461,8 +133461,8 @@ succumb prostatitis-7 rest flounder mars uranus
 1
 11 1
 2
-0 53 15 1
 0 52 0 3
+0 53 15 1
 1
 end_operator
 begin_operator
@@ -133470,8 +133470,8 @@ succumb prostatitis-7 rest flounder neptune saturn
 1
 11 1
 2
-0 53 15 1
 0 52 1 2
+0 53 15 1
 1
 end_operator
 begin_operator
@@ -133479,8 +133479,8 @@ succumb prostatitis-7 rest flounder uranus neptune
 1
 11 1
 2
-0 53 15 1
 0 52 3 1
+0 53 15 1
 1
 end_operator
 begin_operator
@@ -133488,8 +133488,8 @@ succumb prostatitis-7 rest guava mars uranus
 1
 11 2
 2
-0 53 15 2
 0 52 0 3
+0 53 15 2
 1
 end_operator
 begin_operator
@@ -133497,8 +133497,8 @@ succumb prostatitis-7 rest guava neptune saturn
 1
 11 2
 2
-0 53 15 2
 0 52 1 2
+0 53 15 2
 1
 end_operator
 begin_operator
@@ -133506,8 +133506,8 @@ succumb prostatitis-7 rest guava uranus neptune
 1
 11 2
 2
-0 53 15 2
 0 52 3 1
+0 53 15 2
 1
 end_operator
 begin_operator
@@ -133515,8 +133515,8 @@ succumb prostatitis-7 rest hamburger mars uranus
 1
 11 3
 2
-0 53 15 3
 0 52 0 3
+0 53 15 3
 1
 end_operator
 begin_operator
@@ -133524,8 +133524,8 @@ succumb prostatitis-7 rest hamburger neptune saturn
 1
 11 3
 2
-0 53 15 3
 0 52 1 2
+0 53 15 3
 1
 end_operator
 begin_operator
@@ -133533,8 +133533,8 @@ succumb prostatitis-7 rest hamburger uranus neptune
 1
 11 3
 2
-0 53 15 3
 0 52 3 1
+0 53 15 3
 1
 end_operator
 begin_operator
@@ -133542,8 +133542,8 @@ succumb prostatitis-7 rest lemon mars uranus
 1
 11 4
 2
-0 53 15 4
 0 52 0 3
+0 53 15 4
 1
 end_operator
 begin_operator
@@ -133551,8 +133551,8 @@ succumb prostatitis-7 rest lemon neptune saturn
 1
 11 4
 2
-0 53 15 4
 0 52 1 2
+0 53 15 4
 1
 end_operator
 begin_operator
@@ -133560,8 +133560,8 @@ succumb prostatitis-7 rest lemon uranus neptune
 1
 11 4
 2
-0 53 15 4
 0 52 3 1
+0 53 15 4
 1
 end_operator
 begin_operator
@@ -133569,8 +133569,8 @@ succumb prostatitis-7 rest marzipan mars uranus
 1
 11 5
 2
-0 53 15 5
 0 52 0 3
+0 53 15 5
 1
 end_operator
 begin_operator
@@ -133578,8 +133578,8 @@ succumb prostatitis-7 rest marzipan neptune saturn
 1
 11 5
 2
-0 53 15 5
 0 52 1 2
+0 53 15 5
 1
 end_operator
 begin_operator
@@ -133587,8 +133587,8 @@ succumb prostatitis-7 rest marzipan uranus neptune
 1
 11 5
 2
-0 53 15 5
 0 52 3 1
+0 53 15 5
 1
 end_operator
 begin_operator
@@ -133596,8 +133596,8 @@ succumb prostatitis-7 rest muffin mars uranus
 1
 11 6
 2
-0 53 15 6
 0 52 0 3
+0 53 15 6
 1
 end_operator
 begin_operator
@@ -133605,8 +133605,8 @@ succumb prostatitis-7 rest muffin neptune saturn
 1
 11 6
 2
-0 53 15 6
 0 52 1 2
+0 53 15 6
 1
 end_operator
 begin_operator
@@ -133614,8 +133614,8 @@ succumb prostatitis-7 rest muffin uranus neptune
 1
 11 6
 2
-0 53 15 6
 0 52 3 1
+0 53 15 6
 1
 end_operator
 begin_operator
@@ -133623,8 +133623,8 @@ succumb prostatitis-7 rest okra mars uranus
 1
 11 7
 2
-0 53 15 7
 0 52 0 3
+0 53 15 7
 1
 end_operator
 begin_operator
@@ -133632,8 +133632,8 @@ succumb prostatitis-7 rest okra neptune saturn
 1
 11 7
 2
-0 53 15 7
 0 52 1 2
+0 53 15 7
 1
 end_operator
 begin_operator
@@ -133641,8 +133641,8 @@ succumb prostatitis-7 rest okra uranus neptune
 1
 11 7
 2
-0 53 15 7
 0 52 3 1
+0 53 15 7
 1
 end_operator
 begin_operator
@@ -133650,8 +133650,8 @@ succumb prostatitis-7 rest onion mars uranus
 1
 11 8
 2
-0 53 15 8
 0 52 0 3
+0 53 15 8
 1
 end_operator
 begin_operator
@@ -133659,8 +133659,8 @@ succumb prostatitis-7 rest onion neptune saturn
 1
 11 8
 2
-0 53 15 8
 0 52 1 2
+0 53 15 8
 1
 end_operator
 begin_operator
@@ -133668,8 +133668,8 @@ succumb prostatitis-7 rest onion uranus neptune
 1
 11 8
 2
-0 53 15 8
 0 52 3 1
+0 53 15 8
 1
 end_operator
 begin_operator
@@ -133677,8 +133677,8 @@ succumb prostatitis-7 rest popover mars uranus
 1
 11 9
 2
-0 53 15 9
 0 52 0 3
+0 53 15 9
 1
 end_operator
 begin_operator
@@ -133686,8 +133686,8 @@ succumb prostatitis-7 rest popover neptune saturn
 1
 11 9
 2
-0 53 15 9
 0 52 1 2
+0 53 15 9
 1
 end_operator
 begin_operator
@@ -133695,8 +133695,8 @@ succumb prostatitis-7 rest popover uranus neptune
 1
 11 9
 2
-0 53 15 9
 0 52 3 1
+0 53 15 9
 1
 end_operator
 begin_operator
@@ -133704,8 +133704,8 @@ succumb prostatitis-7 rest snickers mars uranus
 1
 11 10
 2
-0 53 15 10
 0 52 0 3
+0 53 15 10
 1
 end_operator
 begin_operator
@@ -133713,8 +133713,8 @@ succumb prostatitis-7 rest snickers neptune saturn
 1
 11 10
 2
-0 53 15 10
 0 52 1 2
+0 53 15 10
 1
 end_operator
 begin_operator
@@ -133722,8 +133722,8 @@ succumb prostatitis-7 rest snickers uranus neptune
 1
 11 10
 2
-0 53 15 10
 0 52 3 1
+0 53 15 10
 1
 end_operator
 begin_operator
@@ -133731,8 +133731,8 @@ succumb prostatitis-7 rest wurst mars uranus
 1
 11 11
 2
-0 53 15 11
 0 52 0 3
+0 53 15 11
 1
 end_operator
 begin_operator
@@ -133740,8 +133740,8 @@ succumb prostatitis-7 rest wurst neptune saturn
 1
 11 11
 2
-0 53 15 11
 0 52 1 2
+0 53 15 11
 1
 end_operator
 begin_operator
@@ -133749,8 +133749,8 @@ succumb prostatitis-7 rest wurst uranus neptune
 1
 11 11
 2
-0 53 15 11
 0 52 3 1
+0 53 15 11
 1
 end_operator
 begin_operator
@@ -134406,8 +134406,8 @@ succumb sciatica expectation apple mars uranus
 1
 0 0
 2
-0 57 12 0
 0 47 0 3
+0 57 12 0
 1
 end_operator
 begin_operator
@@ -134415,8 +134415,8 @@ succumb sciatica expectation apple neptune saturn
 1
 0 0
 2
-0 57 12 0
 0 47 1 2
+0 57 12 0
 1
 end_operator
 begin_operator
@@ -134424,8 +134424,8 @@ succumb sciatica expectation apple uranus neptune
 1
 0 0
 2
-0 57 12 0
 0 47 3 1
+0 57 12 0
 1
 end_operator
 begin_operator
@@ -134433,8 +134433,8 @@ succumb sciatica expectation flounder mars uranus
 1
 0 1
 2
-0 57 12 1
 0 47 0 3
+0 57 12 1
 1
 end_operator
 begin_operator
@@ -134442,8 +134442,8 @@ succumb sciatica expectation flounder neptune saturn
 1
 0 1
 2
-0 57 12 1
 0 47 1 2
+0 57 12 1
 1
 end_operator
 begin_operator
@@ -134451,8 +134451,8 @@ succumb sciatica expectation flounder uranus neptune
 1
 0 1
 2
-0 57 12 1
 0 47 3 1
+0 57 12 1
 1
 end_operator
 begin_operator
@@ -134460,8 +134460,8 @@ succumb sciatica expectation guava mars uranus
 1
 0 2
 2
-0 57 12 2
 0 47 0 3
+0 57 12 2
 1
 end_operator
 begin_operator
@@ -134469,8 +134469,8 @@ succumb sciatica expectation guava neptune saturn
 1
 0 2
 2
-0 57 12 2
 0 47 1 2
+0 57 12 2
 1
 end_operator
 begin_operator
@@ -134478,8 +134478,8 @@ succumb sciatica expectation guava uranus neptune
 1
 0 2
 2
-0 57 12 2
 0 47 3 1
+0 57 12 2
 1
 end_operator
 begin_operator
@@ -134487,8 +134487,8 @@ succumb sciatica expectation hamburger mars uranus
 1
 0 3
 2
-0 57 12 3
 0 47 0 3
+0 57 12 3
 1
 end_operator
 begin_operator
@@ -134496,8 +134496,8 @@ succumb sciatica expectation hamburger neptune saturn
 1
 0 3
 2
-0 57 12 3
 0 47 1 2
+0 57 12 3
 1
 end_operator
 begin_operator
@@ -134505,8 +134505,8 @@ succumb sciatica expectation hamburger uranus neptune
 1
 0 3
 2
-0 57 12 3
 0 47 3 1
+0 57 12 3
 1
 end_operator
 begin_operator
@@ -134514,8 +134514,8 @@ succumb sciatica expectation lemon mars uranus
 1
 0 4
 2
-0 57 12 4
 0 47 0 3
+0 57 12 4
 1
 end_operator
 begin_operator
@@ -134523,8 +134523,8 @@ succumb sciatica expectation lemon neptune saturn
 1
 0 4
 2
-0 57 12 4
 0 47 1 2
+0 57 12 4
 1
 end_operator
 begin_operator
@@ -134532,8 +134532,8 @@ succumb sciatica expectation lemon uranus neptune
 1
 0 4
 2
-0 57 12 4
 0 47 3 1
+0 57 12 4
 1
 end_operator
 begin_operator
@@ -134541,8 +134541,8 @@ succumb sciatica expectation marzipan mars uranus
 1
 0 5
 2
-0 57 12 5
 0 47 0 3
+0 57 12 5
 1
 end_operator
 begin_operator
@@ -134550,8 +134550,8 @@ succumb sciatica expectation marzipan neptune saturn
 1
 0 5
 2
-0 57 12 5
 0 47 1 2
+0 57 12 5
 1
 end_operator
 begin_operator
@@ -134559,8 +134559,8 @@ succumb sciatica expectation marzipan uranus neptune
 1
 0 5
 2
-0 57 12 5
 0 47 3 1
+0 57 12 5
 1
 end_operator
 begin_operator
@@ -134568,8 +134568,8 @@ succumb sciatica expectation muffin mars uranus
 1
 0 6
 2
-0 57 12 6
 0 47 0 3
+0 57 12 6
 1
 end_operator
 begin_operator
@@ -134577,8 +134577,8 @@ succumb sciatica expectation muffin neptune saturn
 1
 0 6
 2
-0 57 12 6
 0 47 1 2
+0 57 12 6
 1
 end_operator
 begin_operator
@@ -134586,8 +134586,8 @@ succumb sciatica expectation muffin uranus neptune
 1
 0 6
 2
-0 57 12 6
 0 47 3 1
+0 57 12 6
 1
 end_operator
 begin_operator
@@ -134595,8 +134595,8 @@ succumb sciatica expectation okra mars uranus
 1
 0 7
 2
-0 57 12 7
 0 47 0 3
+0 57 12 7
 1
 end_operator
 begin_operator
@@ -134604,8 +134604,8 @@ succumb sciatica expectation okra neptune saturn
 1
 0 7
 2
-0 57 12 7
 0 47 1 2
+0 57 12 7
 1
 end_operator
 begin_operator
@@ -134613,8 +134613,8 @@ succumb sciatica expectation okra uranus neptune
 1
 0 7
 2
-0 57 12 7
 0 47 3 1
+0 57 12 7
 1
 end_operator
 begin_operator
@@ -134622,8 +134622,8 @@ succumb sciatica expectation onion mars uranus
 1
 0 8
 2
-0 57 12 8
 0 47 0 3
+0 57 12 8
 1
 end_operator
 begin_operator
@@ -134631,8 +134631,8 @@ succumb sciatica expectation onion neptune saturn
 1
 0 8
 2
-0 57 12 8
 0 47 1 2
+0 57 12 8
 1
 end_operator
 begin_operator
@@ -134640,8 +134640,8 @@ succumb sciatica expectation onion uranus neptune
 1
 0 8
 2
-0 57 12 8
 0 47 3 1
+0 57 12 8
 1
 end_operator
 begin_operator
@@ -134649,8 +134649,8 @@ succumb sciatica expectation popover mars uranus
 1
 0 9
 2
-0 57 12 9
 0 47 0 3
+0 57 12 9
 1
 end_operator
 begin_operator
@@ -134658,8 +134658,8 @@ succumb sciatica expectation popover neptune saturn
 1
 0 9
 2
-0 57 12 9
 0 47 1 2
+0 57 12 9
 1
 end_operator
 begin_operator
@@ -134667,8 +134667,8 @@ succumb sciatica expectation popover uranus neptune
 1
 0 9
 2
-0 57 12 9
 0 47 3 1
+0 57 12 9
 1
 end_operator
 begin_operator
@@ -134676,8 +134676,8 @@ succumb sciatica expectation snickers mars uranus
 1
 0 10
 2
-0 57 12 10
 0 47 0 3
+0 57 12 10
 1
 end_operator
 begin_operator
@@ -134685,8 +134685,8 @@ succumb sciatica expectation snickers neptune saturn
 1
 0 10
 2
-0 57 12 10
 0 47 1 2
+0 57 12 10
 1
 end_operator
 begin_operator
@@ -134694,8 +134694,8 @@ succumb sciatica expectation snickers uranus neptune
 1
 0 10
 2
-0 57 12 10
 0 47 3 1
+0 57 12 10
 1
 end_operator
 begin_operator
@@ -134703,8 +134703,8 @@ succumb sciatica expectation wurst mars uranus
 1
 0 11
 2
-0 57 12 11
 0 47 0 3
+0 57 12 11
 1
 end_operator
 begin_operator
@@ -134712,8 +134712,8 @@ succumb sciatica expectation wurst neptune saturn
 1
 0 11
 2
-0 57 12 11
 0 47 1 2
+0 57 12 11
 1
 end_operator
 begin_operator
@@ -134721,8 +134721,8 @@ succumb sciatica expectation wurst uranus neptune
 1
 0 11
 2
-0 57 12 11
 0 47 3 1
+0 57 12 11
 1
 end_operator
 begin_operator
@@ -134730,8 +134730,8 @@ succumb sciatica learning apple mars uranus
 1
 1 0
 2
-0 57 13 0
 0 48 0 3
+0 57 13 0
 1
 end_operator
 begin_operator
@@ -134739,8 +134739,8 @@ succumb sciatica learning apple neptune saturn
 1
 1 0
 2
-0 57 13 0
 0 48 1 2
+0 57 13 0
 1
 end_operator
 begin_operator
@@ -134748,8 +134748,8 @@ succumb sciatica learning apple uranus neptune
 1
 1 0
 2
-0 57 13 0
 0 48 3 1
+0 57 13 0
 1
 end_operator
 begin_operator
@@ -134757,8 +134757,8 @@ succumb sciatica learning flounder mars uranus
 1
 1 1
 2
-0 57 13 1
 0 48 0 3
+0 57 13 1
 1
 end_operator
 begin_operator
@@ -134766,8 +134766,8 @@ succumb sciatica learning flounder neptune saturn
 1
 1 1
 2
-0 57 13 1
 0 48 1 2
+0 57 13 1
 1
 end_operator
 begin_operator
@@ -134775,8 +134775,8 @@ succumb sciatica learning flounder uranus neptune
 1
 1 1
 2
-0 57 13 1
 0 48 3 1
+0 57 13 1
 1
 end_operator
 begin_operator
@@ -134784,8 +134784,8 @@ succumb sciatica learning guava mars uranus
 1
 1 2
 2
-0 57 13 2
 0 48 0 3
+0 57 13 2
 1
 end_operator
 begin_operator
@@ -134793,8 +134793,8 @@ succumb sciatica learning guava neptune saturn
 1
 1 2
 2
-0 57 13 2
 0 48 1 2
+0 57 13 2
 1
 end_operator
 begin_operator
@@ -134802,8 +134802,8 @@ succumb sciatica learning guava uranus neptune
 1
 1 2
 2
-0 57 13 2
 0 48 3 1
+0 57 13 2
 1
 end_operator
 begin_operator
@@ -134811,8 +134811,8 @@ succumb sciatica learning hamburger mars uranus
 1
 1 3
 2
-0 57 13 3
 0 48 0 3
+0 57 13 3
 1
 end_operator
 begin_operator
@@ -134820,8 +134820,8 @@ succumb sciatica learning hamburger neptune saturn
 1
 1 3
 2
-0 57 13 3
 0 48 1 2
+0 57 13 3
 1
 end_operator
 begin_operator
@@ -134829,8 +134829,8 @@ succumb sciatica learning hamburger uranus neptune
 1
 1 3
 2
-0 57 13 3
 0 48 3 1
+0 57 13 3
 1
 end_operator
 begin_operator
@@ -134838,8 +134838,8 @@ succumb sciatica learning lemon mars uranus
 1
 1 4
 2
-0 57 13 4
 0 48 0 3
+0 57 13 4
 1
 end_operator
 begin_operator
@@ -134847,8 +134847,8 @@ succumb sciatica learning lemon neptune saturn
 1
 1 4
 2
-0 57 13 4
 0 48 1 2
+0 57 13 4
 1
 end_operator
 begin_operator
@@ -134856,8 +134856,8 @@ succumb sciatica learning lemon uranus neptune
 1
 1 4
 2
-0 57 13 4
 0 48 3 1
+0 57 13 4
 1
 end_operator
 begin_operator
@@ -134865,8 +134865,8 @@ succumb sciatica learning marzipan mars uranus
 1
 1 5
 2
-0 57 13 5
 0 48 0 3
+0 57 13 5
 1
 end_operator
 begin_operator
@@ -134874,8 +134874,8 @@ succumb sciatica learning marzipan neptune saturn
 1
 1 5
 2
-0 57 13 5
 0 48 1 2
+0 57 13 5
 1
 end_operator
 begin_operator
@@ -134883,8 +134883,8 @@ succumb sciatica learning marzipan uranus neptune
 1
 1 5
 2
-0 57 13 5
 0 48 3 1
+0 57 13 5
 1
 end_operator
 begin_operator
@@ -134892,8 +134892,8 @@ succumb sciatica learning muffin mars uranus
 1
 1 6
 2
-0 57 13 6
 0 48 0 3
+0 57 13 6
 1
 end_operator
 begin_operator
@@ -134901,8 +134901,8 @@ succumb sciatica learning muffin neptune saturn
 1
 1 6
 2
-0 57 13 6
 0 48 1 2
+0 57 13 6
 1
 end_operator
 begin_operator
@@ -134910,8 +134910,8 @@ succumb sciatica learning muffin uranus neptune
 1
 1 6
 2
-0 57 13 6
 0 48 3 1
+0 57 13 6
 1
 end_operator
 begin_operator
@@ -134919,8 +134919,8 @@ succumb sciatica learning okra mars uranus
 1
 1 7
 2
-0 57 13 7
 0 48 0 3
+0 57 13 7
 1
 end_operator
 begin_operator
@@ -134928,8 +134928,8 @@ succumb sciatica learning okra neptune saturn
 1
 1 7
 2
-0 57 13 7
 0 48 1 2
+0 57 13 7
 1
 end_operator
 begin_operator
@@ -134937,8 +134937,8 @@ succumb sciatica learning okra uranus neptune
 1
 1 7
 2
-0 57 13 7
 0 48 3 1
+0 57 13 7
 1
 end_operator
 begin_operator
@@ -134946,8 +134946,8 @@ succumb sciatica learning onion mars uranus
 1
 1 8
 2
-0 57 13 8
 0 48 0 3
+0 57 13 8
 1
 end_operator
 begin_operator
@@ -134955,8 +134955,8 @@ succumb sciatica learning onion neptune saturn
 1
 1 8
 2
-0 57 13 8
 0 48 1 2
+0 57 13 8
 1
 end_operator
 begin_operator
@@ -134964,8 +134964,8 @@ succumb sciatica learning onion uranus neptune
 1
 1 8
 2
-0 57 13 8
 0 48 3 1
+0 57 13 8
 1
 end_operator
 begin_operator
@@ -134973,8 +134973,8 @@ succumb sciatica learning popover mars uranus
 1
 1 9
 2
-0 57 13 9
 0 48 0 3
+0 57 13 9
 1
 end_operator
 begin_operator
@@ -134982,8 +134982,8 @@ succumb sciatica learning popover neptune saturn
 1
 1 9
 2
-0 57 13 9
 0 48 1 2
+0 57 13 9
 1
 end_operator
 begin_operator
@@ -134991,8 +134991,8 @@ succumb sciatica learning popover uranus neptune
 1
 1 9
 2
-0 57 13 9
 0 48 3 1
+0 57 13 9
 1
 end_operator
 begin_operator
@@ -135000,8 +135000,8 @@ succumb sciatica learning snickers mars uranus
 1
 1 10
 2
-0 57 13 10
 0 48 0 3
+0 57 13 10
 1
 end_operator
 begin_operator
@@ -135009,8 +135009,8 @@ succumb sciatica learning snickers neptune saturn
 1
 1 10
 2
-0 57 13 10
 0 48 1 2
+0 57 13 10
 1
 end_operator
 begin_operator
@@ -135018,8 +135018,8 @@ succumb sciatica learning snickers uranus neptune
 1
 1 10
 2
-0 57 13 10
 0 48 3 1
+0 57 13 10
 1
 end_operator
 begin_operator
@@ -135027,8 +135027,8 @@ succumb sciatica learning wurst mars uranus
 1
 1 11
 2
-0 57 13 11
 0 48 0 3
+0 57 13 11
 1
 end_operator
 begin_operator
@@ -135036,8 +135036,8 @@ succumb sciatica learning wurst neptune saturn
 1
 1 11
 2
-0 57 13 11
 0 48 1 2
+0 57 13 11
 1
 end_operator
 begin_operator
@@ -135045,8 +135045,8 @@ succumb sciatica learning wurst uranus neptune
 1
 1 11
 2
-0 57 13 11
 0 48 3 1
+0 57 13 11
 1
 end_operator
 begin_operator
@@ -135054,8 +135054,8 @@ succumb sciatica love apple mars uranus
 1
 2 0
 2
-0 57 14 0
 0 51 0 3
+0 57 14 0
 1
 end_operator
 begin_operator
@@ -135063,8 +135063,8 @@ succumb sciatica love apple neptune saturn
 1
 2 0
 2
-0 57 14 0
 0 51 1 2
+0 57 14 0
 1
 end_operator
 begin_operator
@@ -135072,8 +135072,8 @@ succumb sciatica love apple uranus neptune
 1
 2 0
 2
-0 57 14 0
 0 51 3 1
+0 57 14 0
 1
 end_operator
 begin_operator
@@ -135081,8 +135081,8 @@ succumb sciatica love flounder mars uranus
 1
 2 1
 2
-0 57 14 1
 0 51 0 3
+0 57 14 1
 1
 end_operator
 begin_operator
@@ -135090,8 +135090,8 @@ succumb sciatica love flounder neptune saturn
 1
 2 1
 2
-0 57 14 1
 0 51 1 2
+0 57 14 1
 1
 end_operator
 begin_operator
@@ -135099,8 +135099,8 @@ succumb sciatica love flounder uranus neptune
 1
 2 1
 2
-0 57 14 1
 0 51 3 1
+0 57 14 1
 1
 end_operator
 begin_operator
@@ -135108,8 +135108,8 @@ succumb sciatica love guava mars uranus
 1
 2 2
 2
-0 57 14 2
 0 51 0 3
+0 57 14 2
 1
 end_operator
 begin_operator
@@ -135117,8 +135117,8 @@ succumb sciatica love guava neptune saturn
 1
 2 2
 2
-0 57 14 2
 0 51 1 2
+0 57 14 2
 1
 end_operator
 begin_operator
@@ -135126,8 +135126,8 @@ succumb sciatica love guava uranus neptune
 1
 2 2
 2
-0 57 14 2
 0 51 3 1
+0 57 14 2
 1
 end_operator
 begin_operator
@@ -135135,8 +135135,8 @@ succumb sciatica love hamburger mars uranus
 1
 2 3
 2
-0 57 14 3
 0 51 0 3
+0 57 14 3
 1
 end_operator
 begin_operator
@@ -135144,8 +135144,8 @@ succumb sciatica love hamburger neptune saturn
 1
 2 3
 2
-0 57 14 3
 0 51 1 2
+0 57 14 3
 1
 end_operator
 begin_operator
@@ -135153,8 +135153,8 @@ succumb sciatica love hamburger uranus neptune
 1
 2 3
 2
-0 57 14 3
 0 51 3 1
+0 57 14 3
 1
 end_operator
 begin_operator
@@ -135162,8 +135162,8 @@ succumb sciatica love lemon mars uranus
 1
 2 4
 2
-0 57 14 4
 0 51 0 3
+0 57 14 4
 1
 end_operator
 begin_operator
@@ -135171,8 +135171,8 @@ succumb sciatica love lemon neptune saturn
 1
 2 4
 2
-0 57 14 4
 0 51 1 2
+0 57 14 4
 1
 end_operator
 begin_operator
@@ -135180,8 +135180,8 @@ succumb sciatica love lemon uranus neptune
 1
 2 4
 2
-0 57 14 4
 0 51 3 1
+0 57 14 4
 1
 end_operator
 begin_operator
@@ -135189,8 +135189,8 @@ succumb sciatica love marzipan mars uranus
 1
 2 5
 2
-0 57 14 5
 0 51 0 3
+0 57 14 5
 1
 end_operator
 begin_operator
@@ -135198,8 +135198,8 @@ succumb sciatica love marzipan neptune saturn
 1
 2 5
 2
-0 57 14 5
 0 51 1 2
+0 57 14 5
 1
 end_operator
 begin_operator
@@ -135207,8 +135207,8 @@ succumb sciatica love marzipan uranus neptune
 1
 2 5
 2
-0 57 14 5
 0 51 3 1
+0 57 14 5
 1
 end_operator
 begin_operator
@@ -135216,8 +135216,8 @@ succumb sciatica love muffin mars uranus
 1
 2 6
 2
-0 57 14 6
 0 51 0 3
+0 57 14 6
 1
 end_operator
 begin_operator
@@ -135225,8 +135225,8 @@ succumb sciatica love muffin neptune saturn
 1
 2 6
 2
-0 57 14 6
 0 51 1 2
+0 57 14 6
 1
 end_operator
 begin_operator
@@ -135234,8 +135234,8 @@ succumb sciatica love muffin uranus neptune
 1
 2 6
 2
-0 57 14 6
 0 51 3 1
+0 57 14 6
 1
 end_operator
 begin_operator
@@ -135243,8 +135243,8 @@ succumb sciatica love okra mars uranus
 1
 2 7
 2
-0 57 14 7
 0 51 0 3
+0 57 14 7
 1
 end_operator
 begin_operator
@@ -135252,8 +135252,8 @@ succumb sciatica love okra neptune saturn
 1
 2 7
 2
-0 57 14 7
 0 51 1 2
+0 57 14 7
 1
 end_operator
 begin_operator
@@ -135261,8 +135261,8 @@ succumb sciatica love okra uranus neptune
 1
 2 7
 2
-0 57 14 7
 0 51 3 1
+0 57 14 7
 1
 end_operator
 begin_operator
@@ -135270,8 +135270,8 @@ succumb sciatica love onion mars uranus
 1
 2 8
 2
-0 57 14 8
 0 51 0 3
+0 57 14 8
 1
 end_operator
 begin_operator
@@ -135279,8 +135279,8 @@ succumb sciatica love onion neptune saturn
 1
 2 8
 2
-0 57 14 8
 0 51 1 2
+0 57 14 8
 1
 end_operator
 begin_operator
@@ -135288,8 +135288,8 @@ succumb sciatica love onion uranus neptune
 1
 2 8
 2
-0 57 14 8
 0 51 3 1
+0 57 14 8
 1
 end_operator
 begin_operator
@@ -135297,8 +135297,8 @@ succumb sciatica love popover mars uranus
 1
 2 9
 2
-0 57 14 9
 0 51 0 3
+0 57 14 9
 1
 end_operator
 begin_operator
@@ -135306,8 +135306,8 @@ succumb sciatica love popover neptune saturn
 1
 2 9
 2
-0 57 14 9
 0 51 1 2
+0 57 14 9
 1
 end_operator
 begin_operator
@@ -135315,8 +135315,8 @@ succumb sciatica love popover uranus neptune
 1
 2 9
 2
-0 57 14 9
 0 51 3 1
+0 57 14 9
 1
 end_operator
 begin_operator
@@ -135324,8 +135324,8 @@ succumb sciatica love snickers mars uranus
 1
 2 10
 2
-0 57 14 10
 0 51 0 3
+0 57 14 10
 1
 end_operator
 begin_operator
@@ -135333,8 +135333,8 @@ succumb sciatica love snickers neptune saturn
 1
 2 10
 2
-0 57 14 10
 0 51 1 2
+0 57 14 10
 1
 end_operator
 begin_operator
@@ -135342,8 +135342,8 @@ succumb sciatica love snickers uranus neptune
 1
 2 10
 2
-0 57 14 10
 0 51 3 1
+0 57 14 10
 1
 end_operator
 begin_operator
@@ -135351,8 +135351,8 @@ succumb sciatica love wurst mars uranus
 1
 2 11
 2
-0 57 14 11
 0 51 0 3
+0 57 14 11
 1
 end_operator
 begin_operator
@@ -135360,8 +135360,8 @@ succumb sciatica love wurst neptune saturn
 1
 2 11
 2
-0 57 14 11
 0 51 1 2
+0 57 14 11
 1
 end_operator
 begin_operator
@@ -135369,8 +135369,8 @@ succumb sciatica love wurst uranus neptune
 1
 2 11
 2
-0 57 14 11
 0 51 3 1
+0 57 14 11
 1
 end_operator
 begin_operator
@@ -135378,8 +135378,8 @@ succumb sciatica rest apple mars uranus
 1
 11 0
 2
-0 57 15 0
 0 52 0 3
+0 57 15 0
 1
 end_operator
 begin_operator
@@ -135387,8 +135387,8 @@ succumb sciatica rest apple neptune saturn
 1
 11 0
 2
-0 57 15 0
 0 52 1 2
+0 57 15 0
 1
 end_operator
 begin_operator
@@ -135396,8 +135396,8 @@ succumb sciatica rest apple uranus neptune
 1
 11 0
 2
-0 57 15 0
 0 52 3 1
+0 57 15 0
 1
 end_operator
 begin_operator
@@ -135405,8 +135405,8 @@ succumb sciatica rest flounder mars uranus
 1
 11 1
 2
-0 57 15 1
 0 52 0 3
+0 57 15 1
 1
 end_operator
 begin_operator
@@ -135414,8 +135414,8 @@ succumb sciatica rest flounder neptune saturn
 1
 11 1
 2
-0 57 15 1
 0 52 1 2
+0 57 15 1
 1
 end_operator
 begin_operator
@@ -135423,8 +135423,8 @@ succumb sciatica rest flounder uranus neptune
 1
 11 1
 2
-0 57 15 1
 0 52 3 1
+0 57 15 1
 1
 end_operator
 begin_operator
@@ -135432,8 +135432,8 @@ succumb sciatica rest guava mars uranus
 1
 11 2
 2
-0 57 15 2
 0 52 0 3
+0 57 15 2
 1
 end_operator
 begin_operator
@@ -135441,8 +135441,8 @@ succumb sciatica rest guava neptune saturn
 1
 11 2
 2
-0 57 15 2
 0 52 1 2
+0 57 15 2
 1
 end_operator
 begin_operator
@@ -135450,8 +135450,8 @@ succumb sciatica rest guava uranus neptune
 1
 11 2
 2
-0 57 15 2
 0 52 3 1
+0 57 15 2
 1
 end_operator
 begin_operator
@@ -135459,8 +135459,8 @@ succumb sciatica rest hamburger mars uranus
 1
 11 3
 2
-0 57 15 3
 0 52 0 3
+0 57 15 3
 1
 end_operator
 begin_operator
@@ -135468,8 +135468,8 @@ succumb sciatica rest hamburger neptune saturn
 1
 11 3
 2
-0 57 15 3
 0 52 1 2
+0 57 15 3
 1
 end_operator
 begin_operator
@@ -135477,8 +135477,8 @@ succumb sciatica rest hamburger uranus neptune
 1
 11 3
 2
-0 57 15 3
 0 52 3 1
+0 57 15 3
 1
 end_operator
 begin_operator
@@ -135486,8 +135486,8 @@ succumb sciatica rest lemon mars uranus
 1
 11 4
 2
-0 57 15 4
 0 52 0 3
+0 57 15 4
 1
 end_operator
 begin_operator
@@ -135495,8 +135495,8 @@ succumb sciatica rest lemon neptune saturn
 1
 11 4
 2
-0 57 15 4
 0 52 1 2
+0 57 15 4
 1
 end_operator
 begin_operator
@@ -135504,8 +135504,8 @@ succumb sciatica rest lemon uranus neptune
 1
 11 4
 2
-0 57 15 4
 0 52 3 1
+0 57 15 4
 1
 end_operator
 begin_operator
@@ -135513,8 +135513,8 @@ succumb sciatica rest marzipan mars uranus
 1
 11 5
 2
-0 57 15 5
 0 52 0 3
+0 57 15 5
 1
 end_operator
 begin_operator
@@ -135522,8 +135522,8 @@ succumb sciatica rest marzipan neptune saturn
 1
 11 5
 2
-0 57 15 5
 0 52 1 2
+0 57 15 5
 1
 end_operator
 begin_operator
@@ -135531,8 +135531,8 @@ succumb sciatica rest marzipan uranus neptune
 1
 11 5
 2
-0 57 15 5
 0 52 3 1
+0 57 15 5
 1
 end_operator
 begin_operator
@@ -135540,8 +135540,8 @@ succumb sciatica rest muffin mars uranus
 1
 11 6
 2
-0 57 15 6
 0 52 0 3
+0 57 15 6
 1
 end_operator
 begin_operator
@@ -135549,8 +135549,8 @@ succumb sciatica rest muffin neptune saturn
 1
 11 6
 2
-0 57 15 6
 0 52 1 2
+0 57 15 6
 1
 end_operator
 begin_operator
@@ -135558,8 +135558,8 @@ succumb sciatica rest muffin uranus neptune
 1
 11 6
 2
-0 57 15 6
 0 52 3 1
+0 57 15 6
 1
 end_operator
 begin_operator
@@ -135567,8 +135567,8 @@ succumb sciatica rest okra mars uranus
 1
 11 7
 2
-0 57 15 7
 0 52 0 3
+0 57 15 7
 1
 end_operator
 begin_operator
@@ -135576,8 +135576,8 @@ succumb sciatica rest okra neptune saturn
 1
 11 7
 2
-0 57 15 7
 0 52 1 2
+0 57 15 7
 1
 end_operator
 begin_operator
@@ -135585,8 +135585,8 @@ succumb sciatica rest okra uranus neptune
 1
 11 7
 2
-0 57 15 7
 0 52 3 1
+0 57 15 7
 1
 end_operator
 begin_operator
@@ -135594,8 +135594,8 @@ succumb sciatica rest onion mars uranus
 1
 11 8
 2
-0 57 15 8
 0 52 0 3
+0 57 15 8
 1
 end_operator
 begin_operator
@@ -135603,8 +135603,8 @@ succumb sciatica rest onion neptune saturn
 1
 11 8
 2
-0 57 15 8
 0 52 1 2
+0 57 15 8
 1
 end_operator
 begin_operator
@@ -135612,8 +135612,8 @@ succumb sciatica rest onion uranus neptune
 1
 11 8
 2
-0 57 15 8
 0 52 3 1
+0 57 15 8
 1
 end_operator
 begin_operator
@@ -135621,8 +135621,8 @@ succumb sciatica rest popover mars uranus
 1
 11 9
 2
-0 57 15 9
 0 52 0 3
+0 57 15 9
 1
 end_operator
 begin_operator
@@ -135630,8 +135630,8 @@ succumb sciatica rest popover neptune saturn
 1
 11 9
 2
-0 57 15 9
 0 52 1 2
+0 57 15 9
 1
 end_operator
 begin_operator
@@ -135639,8 +135639,8 @@ succumb sciatica rest popover uranus neptune
 1
 11 9
 2
-0 57 15 9
 0 52 3 1
+0 57 15 9
 1
 end_operator
 begin_operator
@@ -135648,8 +135648,8 @@ succumb sciatica rest snickers mars uranus
 1
 11 10
 2
-0 57 15 10
 0 52 0 3
+0 57 15 10
 1
 end_operator
 begin_operator
@@ -135657,8 +135657,8 @@ succumb sciatica rest snickers neptune saturn
 1
 11 10
 2
-0 57 15 10
 0 52 1 2
+0 57 15 10
 1
 end_operator
 begin_operator
@@ -135666,8 +135666,8 @@ succumb sciatica rest snickers uranus neptune
 1
 11 10
 2
-0 57 15 10
 0 52 3 1
+0 57 15 10
 1
 end_operator
 begin_operator
@@ -135675,8 +135675,8 @@ succumb sciatica rest wurst mars uranus
 1
 11 11
 2
-0 57 15 11
 0 52 0 3
+0 57 15 11
 1
 end_operator
 begin_operator
@@ -135684,8 +135684,8 @@ succumb sciatica rest wurst neptune saturn
 1
 11 11
 2
-0 57 15 11
 0 52 1 2
+0 57 15 11
 1
 end_operator
 begin_operator
@@ -135693,8 +135693,8 @@ succumb sciatica rest wurst uranus neptune
 1
 11 11
 2
-0 57 15 11
 0 52 3 1
+0 57 15 11
 1
 end_operator
 begin_operator
@@ -135702,8 +135702,8 @@ succumb sciatica satisfaction apple mars uranus
 1
 14 0
 2
-0 57 16 0
 0 55 0 3
+0 57 16 0
 1
 end_operator
 begin_operator
@@ -135711,8 +135711,8 @@ succumb sciatica satisfaction apple neptune saturn
 1
 14 0
 2
-0 57 16 0
 0 55 1 2
+0 57 16 0
 1
 end_operator
 begin_operator
@@ -135720,8 +135720,8 @@ succumb sciatica satisfaction apple uranus neptune
 1
 14 0
 2
-0 57 16 0
 0 55 3 1
+0 57 16 0
 1
 end_operator
 begin_operator
@@ -135729,8 +135729,8 @@ succumb sciatica satisfaction flounder mars uranus
 1
 14 1
 2
-0 57 16 1
 0 55 0 3
+0 57 16 1
 1
 end_operator
 begin_operator
@@ -135738,8 +135738,8 @@ succumb sciatica satisfaction flounder neptune saturn
 1
 14 1
 2
-0 57 16 1
 0 55 1 2
+0 57 16 1
 1
 end_operator
 begin_operator
@@ -135747,8 +135747,8 @@ succumb sciatica satisfaction flounder uranus neptune
 1
 14 1
 2
-0 57 16 1
 0 55 3 1
+0 57 16 1
 1
 end_operator
 begin_operator
@@ -135756,8 +135756,8 @@ succumb sciatica satisfaction guava mars uranus
 1
 14 2
 2
-0 57 16 2
 0 55 0 3
+0 57 16 2
 1
 end_operator
 begin_operator
@@ -135765,8 +135765,8 @@ succumb sciatica satisfaction guava neptune saturn
 1
 14 2
 2
-0 57 16 2
 0 55 1 2
+0 57 16 2
 1
 end_operator
 begin_operator
@@ -135774,8 +135774,8 @@ succumb sciatica satisfaction guava uranus neptune
 1
 14 2
 2
-0 57 16 2
 0 55 3 1
+0 57 16 2
 1
 end_operator
 begin_operator
@@ -135783,8 +135783,8 @@ succumb sciatica satisfaction hamburger mars uranus
 1
 14 3
 2
-0 57 16 3
 0 55 0 3
+0 57 16 3
 1
 end_operator
 begin_operator
@@ -135792,8 +135792,8 @@ succumb sciatica satisfaction hamburger neptune saturn
 1
 14 3
 2
-0 57 16 3
 0 55 1 2
+0 57 16 3
 1
 end_operator
 begin_operator
@@ -135801,8 +135801,8 @@ succumb sciatica satisfaction hamburger uranus neptune
 1
 14 3
 2
-0 57 16 3
 0 55 3 1
+0 57 16 3
 1
 end_operator
 begin_operator
@@ -135810,8 +135810,8 @@ succumb sciatica satisfaction lemon mars uranus
 1
 14 4
 2
-0 57 16 4
 0 55 0 3
+0 57 16 4
 1
 end_operator
 begin_operator
@@ -135819,8 +135819,8 @@ succumb sciatica satisfaction lemon neptune saturn
 1
 14 4
 2
-0 57 16 4
 0 55 1 2
+0 57 16 4
 1
 end_operator
 begin_operator
@@ -135828,8 +135828,8 @@ succumb sciatica satisfaction lemon uranus neptune
 1
 14 4
 2
-0 57 16 4
 0 55 3 1
+0 57 16 4
 1
 end_operator
 begin_operator
@@ -135837,8 +135837,8 @@ succumb sciatica satisfaction marzipan mars uranus
 1
 14 5
 2
-0 57 16 5
 0 55 0 3
+0 57 16 5
 1
 end_operator
 begin_operator
@@ -135846,8 +135846,8 @@ succumb sciatica satisfaction marzipan neptune saturn
 1
 14 5
 2
-0 57 16 5
 0 55 1 2
+0 57 16 5
 1
 end_operator
 begin_operator
@@ -135855,8 +135855,8 @@ succumb sciatica satisfaction marzipan uranus neptune
 1
 14 5
 2
-0 57 16 5
 0 55 3 1
+0 57 16 5
 1
 end_operator
 begin_operator
@@ -135864,8 +135864,8 @@ succumb sciatica satisfaction muffin mars uranus
 1
 14 6
 2
-0 57 16 6
 0 55 0 3
+0 57 16 6
 1
 end_operator
 begin_operator
@@ -135873,8 +135873,8 @@ succumb sciatica satisfaction muffin neptune saturn
 1
 14 6
 2
-0 57 16 6
 0 55 1 2
+0 57 16 6
 1
 end_operator
 begin_operator
@@ -135882,8 +135882,8 @@ succumb sciatica satisfaction muffin uranus neptune
 1
 14 6
 2
-0 57 16 6
 0 55 3 1
+0 57 16 6
 1
 end_operator
 begin_operator
@@ -135891,8 +135891,8 @@ succumb sciatica satisfaction okra mars uranus
 1
 14 7
 2
-0 57 16 7
 0 55 0 3
+0 57 16 7
 1
 end_operator
 begin_operator
@@ -135900,8 +135900,8 @@ succumb sciatica satisfaction okra neptune saturn
 1
 14 7
 2
-0 57 16 7
 0 55 1 2
+0 57 16 7
 1
 end_operator
 begin_operator
@@ -135909,8 +135909,8 @@ succumb sciatica satisfaction okra uranus neptune
 1
 14 7
 2
-0 57 16 7
 0 55 3 1
+0 57 16 7
 1
 end_operator
 begin_operator
@@ -135918,8 +135918,8 @@ succumb sciatica satisfaction onion mars uranus
 1
 14 8
 2
-0 57 16 8
 0 55 0 3
+0 57 16 8
 1
 end_operator
 begin_operator
@@ -135927,8 +135927,8 @@ succumb sciatica satisfaction onion neptune saturn
 1
 14 8
 2
-0 57 16 8
 0 55 1 2
+0 57 16 8
 1
 end_operator
 begin_operator
@@ -135936,8 +135936,8 @@ succumb sciatica satisfaction onion uranus neptune
 1
 14 8
 2
-0 57 16 8
 0 55 3 1
+0 57 16 8
 1
 end_operator
 begin_operator
@@ -135945,8 +135945,8 @@ succumb sciatica satisfaction popover mars uranus
 1
 14 9
 2
-0 57 16 9
 0 55 0 3
+0 57 16 9
 1
 end_operator
 begin_operator
@@ -135954,8 +135954,8 @@ succumb sciatica satisfaction popover neptune saturn
 1
 14 9
 2
-0 57 16 9
 0 55 1 2
+0 57 16 9
 1
 end_operator
 begin_operator
@@ -135963,8 +135963,8 @@ succumb sciatica satisfaction popover uranus neptune
 1
 14 9
 2
-0 57 16 9
 0 55 3 1
+0 57 16 9
 1
 end_operator
 begin_operator
@@ -135972,8 +135972,8 @@ succumb sciatica satisfaction snickers mars uranus
 1
 14 10
 2
-0 57 16 10
 0 55 0 3
+0 57 16 10
 1
 end_operator
 begin_operator
@@ -135981,8 +135981,8 @@ succumb sciatica satisfaction snickers neptune saturn
 1
 14 10
 2
-0 57 16 10
 0 55 1 2
+0 57 16 10
 1
 end_operator
 begin_operator
@@ -135990,8 +135990,8 @@ succumb sciatica satisfaction snickers uranus neptune
 1
 14 10
 2
-0 57 16 10
 0 55 3 1
+0 57 16 10
 1
 end_operator
 begin_operator
@@ -135999,8 +135999,8 @@ succumb sciatica satisfaction wurst mars uranus
 1
 14 11
 2
-0 57 16 11
 0 55 0 3
+0 57 16 11
 1
 end_operator
 begin_operator
@@ -136008,8 +136008,8 @@ succumb sciatica satisfaction wurst neptune saturn
 1
 14 11
 2
-0 57 16 11
 0 55 1 2
+0 57 16 11
 1
 end_operator
 begin_operator
@@ -136017,8 +136017,8 @@ succumb sciatica satisfaction wurst uranus neptune
 1
 14 11
 2
-0 57 16 11
 0 55 3 1
+0 57 16 11
 1
 end_operator
 begin_operator
@@ -136026,8 +136026,8 @@ succumb sciatica triumph apple mars uranus
 1
 16 0
 2
-0 57 17 0
 0 56 0 3
+0 57 17 0
 1
 end_operator
 begin_operator
@@ -136035,8 +136035,8 @@ succumb sciatica triumph apple neptune saturn
 1
 16 0
 2
-0 57 17 0
 0 56 1 2
+0 57 17 0
 1
 end_operator
 begin_operator
@@ -136044,8 +136044,8 @@ succumb sciatica triumph apple uranus neptune
 1
 16 0
 2
-0 57 17 0
 0 56 3 1
+0 57 17 0
 1
 end_operator
 begin_operator
@@ -136053,8 +136053,8 @@ succumb sciatica triumph flounder mars uranus
 1
 16 1
 2
-0 57 17 1
 0 56 0 3
+0 57 17 1
 1
 end_operator
 begin_operator
@@ -136062,8 +136062,8 @@ succumb sciatica triumph flounder neptune saturn
 1
 16 1
 2
-0 57 17 1
 0 56 1 2
+0 57 17 1
 1
 end_operator
 begin_operator
@@ -136071,8 +136071,8 @@ succumb sciatica triumph flounder uranus neptune
 1
 16 1
 2
-0 57 17 1
 0 56 3 1
+0 57 17 1
 1
 end_operator
 begin_operator
@@ -136080,8 +136080,8 @@ succumb sciatica triumph guava mars uranus
 1
 16 2
 2
-0 57 17 2
 0 56 0 3
+0 57 17 2
 1
 end_operator
 begin_operator
@@ -136089,8 +136089,8 @@ succumb sciatica triumph guava neptune saturn
 1
 16 2
 2
-0 57 17 2
 0 56 1 2
+0 57 17 2
 1
 end_operator
 begin_operator
@@ -136098,8 +136098,8 @@ succumb sciatica triumph guava uranus neptune
 1
 16 2
 2
-0 57 17 2
 0 56 3 1
+0 57 17 2
 1
 end_operator
 begin_operator
@@ -136107,8 +136107,8 @@ succumb sciatica triumph hamburger mars uranus
 1
 16 3
 2
-0 57 17 3
 0 56 0 3
+0 57 17 3
 1
 end_operator
 begin_operator
@@ -136116,8 +136116,8 @@ succumb sciatica triumph hamburger neptune saturn
 1
 16 3
 2
-0 57 17 3
 0 56 1 2
+0 57 17 3
 1
 end_operator
 begin_operator
@@ -136125,8 +136125,8 @@ succumb sciatica triumph hamburger uranus neptune
 1
 16 3
 2
-0 57 17 3
 0 56 3 1
+0 57 17 3
 1
 end_operator
 begin_operator
@@ -136134,8 +136134,8 @@ succumb sciatica triumph lemon mars uranus
 1
 16 4
 2
-0 57 17 4
 0 56 0 3
+0 57 17 4
 1
 end_operator
 begin_operator
@@ -136143,8 +136143,8 @@ succumb sciatica triumph lemon neptune saturn
 1
 16 4
 2
-0 57 17 4
 0 56 1 2
+0 57 17 4
 1
 end_operator
 begin_operator
@@ -136152,8 +136152,8 @@ succumb sciatica triumph lemon uranus neptune
 1
 16 4
 2
-0 57 17 4
 0 56 3 1
+0 57 17 4
 1
 end_operator
 begin_operator
@@ -136161,8 +136161,8 @@ succumb sciatica triumph marzipan mars uranus
 1
 16 5
 2
-0 57 17 5
 0 56 0 3
+0 57 17 5
 1
 end_operator
 begin_operator
@@ -136170,8 +136170,8 @@ succumb sciatica triumph marzipan neptune saturn
 1
 16 5
 2
-0 57 17 5
 0 56 1 2
+0 57 17 5
 1
 end_operator
 begin_operator
@@ -136179,8 +136179,8 @@ succumb sciatica triumph marzipan uranus neptune
 1
 16 5
 2
-0 57 17 5
 0 56 3 1
+0 57 17 5
 1
 end_operator
 begin_operator
@@ -136188,8 +136188,8 @@ succumb sciatica triumph muffin mars uranus
 1
 16 6
 2
-0 57 17 6
 0 56 0 3
+0 57 17 6
 1
 end_operator
 begin_operator
@@ -136197,8 +136197,8 @@ succumb sciatica triumph muffin neptune saturn
 1
 16 6
 2
-0 57 17 6
 0 56 1 2
+0 57 17 6
 1
 end_operator
 begin_operator
@@ -136206,8 +136206,8 @@ succumb sciatica triumph muffin uranus neptune
 1
 16 6
 2
-0 57 17 6
 0 56 3 1
+0 57 17 6
 1
 end_operator
 begin_operator
@@ -136215,8 +136215,8 @@ succumb sciatica triumph okra mars uranus
 1
 16 7
 2
-0 57 17 7
 0 56 0 3
+0 57 17 7
 1
 end_operator
 begin_operator
@@ -136224,8 +136224,8 @@ succumb sciatica triumph okra neptune saturn
 1
 16 7
 2
-0 57 17 7
 0 56 1 2
+0 57 17 7
 1
 end_operator
 begin_operator
@@ -136233,8 +136233,8 @@ succumb sciatica triumph okra uranus neptune
 1
 16 7
 2
-0 57 17 7
 0 56 3 1
+0 57 17 7
 1
 end_operator
 begin_operator
@@ -136242,8 +136242,8 @@ succumb sciatica triumph onion mars uranus
 1
 16 8
 2
-0 57 17 8
 0 56 0 3
+0 57 17 8
 1
 end_operator
 begin_operator
@@ -136251,8 +136251,8 @@ succumb sciatica triumph onion neptune saturn
 1
 16 8
 2
-0 57 17 8
 0 56 1 2
+0 57 17 8
 1
 end_operator
 begin_operator
@@ -136260,8 +136260,8 @@ succumb sciatica triumph onion uranus neptune
 1
 16 8
 2
-0 57 17 8
 0 56 3 1
+0 57 17 8
 1
 end_operator
 begin_operator
@@ -136269,8 +136269,8 @@ succumb sciatica triumph popover mars uranus
 1
 16 9
 2
-0 57 17 9
 0 56 0 3
+0 57 17 9
 1
 end_operator
 begin_operator
@@ -136278,8 +136278,8 @@ succumb sciatica triumph popover neptune saturn
 1
 16 9
 2
-0 57 17 9
 0 56 1 2
+0 57 17 9
 1
 end_operator
 begin_operator
@@ -136287,8 +136287,8 @@ succumb sciatica triumph popover uranus neptune
 1
 16 9
 2
-0 57 17 9
 0 56 3 1
+0 57 17 9
 1
 end_operator
 begin_operator
@@ -136296,8 +136296,8 @@ succumb sciatica triumph snickers mars uranus
 1
 16 10
 2
-0 57 17 10
 0 56 0 3
+0 57 17 10
 1
 end_operator
 begin_operator
@@ -136305,8 +136305,8 @@ succumb sciatica triumph snickers neptune saturn
 1
 16 10
 2
-0 57 17 10
 0 56 1 2
+0 57 17 10
 1
 end_operator
 begin_operator
@@ -136314,8 +136314,8 @@ succumb sciatica triumph snickers uranus neptune
 1
 16 10
 2
-0 57 17 10
 0 56 3 1
+0 57 17 10
 1
 end_operator
 begin_operator
@@ -136323,8 +136323,8 @@ succumb sciatica triumph wurst mars uranus
 1
 16 11
 2
-0 57 17 11
 0 56 0 3
+0 57 17 11
 1
 end_operator
 begin_operator
@@ -136332,8 +136332,8 @@ succumb sciatica triumph wurst neptune saturn
 1
 16 11
 2
-0 57 17 11
 0 56 1 2
+0 57 17 11
 1
 end_operator
 begin_operator
@@ -136341,8 +136341,8 @@ succumb sciatica triumph wurst uranus neptune
 1
 16 11
 2
-0 57 17 11
 0 56 3 1
+0 57 17 11
 1
 end_operator
 begin_operator
@@ -136350,8 +136350,8 @@ succumb sciatica-16 expectation apple mars uranus
 1
 0 0
 2
-0 54 12 0
 0 47 0 3
+0 54 12 0
 1
 end_operator
 begin_operator
@@ -136359,8 +136359,8 @@ succumb sciatica-16 expectation apple neptune saturn
 1
 0 0
 2
-0 54 12 0
 0 47 1 2
+0 54 12 0
 1
 end_operator
 begin_operator
@@ -136368,8 +136368,8 @@ succumb sciatica-16 expectation apple uranus neptune
 1
 0 0
 2
-0 54 12 0
 0 47 3 1
+0 54 12 0
 1
 end_operator
 begin_operator
@@ -136377,8 +136377,8 @@ succumb sciatica-16 expectation flounder mars uranus
 1
 0 1
 2
-0 54 12 1
 0 47 0 3
+0 54 12 1
 1
 end_operator
 begin_operator
@@ -136386,8 +136386,8 @@ succumb sciatica-16 expectation flounder neptune saturn
 1
 0 1
 2
-0 54 12 1
 0 47 1 2
+0 54 12 1
 1
 end_operator
 begin_operator
@@ -136395,8 +136395,8 @@ succumb sciatica-16 expectation flounder uranus neptune
 1
 0 1
 2
-0 54 12 1
 0 47 3 1
+0 54 12 1
 1
 end_operator
 begin_operator
@@ -136404,8 +136404,8 @@ succumb sciatica-16 expectation guava mars uranus
 1
 0 2
 2
-0 54 12 2
 0 47 0 3
+0 54 12 2
 1
 end_operator
 begin_operator
@@ -136413,8 +136413,8 @@ succumb sciatica-16 expectation guava neptune saturn
 1
 0 2
 2
-0 54 12 2
 0 47 1 2
+0 54 12 2
 1
 end_operator
 begin_operator
@@ -136422,8 +136422,8 @@ succumb sciatica-16 expectation guava uranus neptune
 1
 0 2
 2
-0 54 12 2
 0 47 3 1
+0 54 12 2
 1
 end_operator
 begin_operator
@@ -136431,8 +136431,8 @@ succumb sciatica-16 expectation hamburger mars uranus
 1
 0 3
 2
-0 54 12 3
 0 47 0 3
+0 54 12 3
 1
 end_operator
 begin_operator
@@ -136440,8 +136440,8 @@ succumb sciatica-16 expectation hamburger neptune saturn
 1
 0 3
 2
-0 54 12 3
 0 47 1 2
+0 54 12 3
 1
 end_operator
 begin_operator
@@ -136449,8 +136449,8 @@ succumb sciatica-16 expectation hamburger uranus neptune
 1
 0 3
 2
-0 54 12 3
 0 47 3 1
+0 54 12 3
 1
 end_operator
 begin_operator
@@ -136458,8 +136458,8 @@ succumb sciatica-16 expectation lemon mars uranus
 1
 0 4
 2
-0 54 12 4
 0 47 0 3
+0 54 12 4
 1
 end_operator
 begin_operator
@@ -136467,8 +136467,8 @@ succumb sciatica-16 expectation lemon neptune saturn
 1
 0 4
 2
-0 54 12 4
 0 47 1 2
+0 54 12 4
 1
 end_operator
 begin_operator
@@ -136476,8 +136476,8 @@ succumb sciatica-16 expectation lemon uranus neptune
 1
 0 4
 2
-0 54 12 4
 0 47 3 1
+0 54 12 4
 1
 end_operator
 begin_operator
@@ -136485,8 +136485,8 @@ succumb sciatica-16 expectation marzipan mars uranus
 1
 0 5
 2
-0 54 12 5
 0 47 0 3
+0 54 12 5
 1
 end_operator
 begin_operator
@@ -136494,8 +136494,8 @@ succumb sciatica-16 expectation marzipan neptune saturn
 1
 0 5
 2
-0 54 12 5
 0 47 1 2
+0 54 12 5
 1
 end_operator
 begin_operator
@@ -136503,8 +136503,8 @@ succumb sciatica-16 expectation marzipan uranus neptune
 1
 0 5
 2
-0 54 12 5
 0 47 3 1
+0 54 12 5
 1
 end_operator
 begin_operator
@@ -136512,8 +136512,8 @@ succumb sciatica-16 expectation muffin mars uranus
 1
 0 6
 2
-0 54 12 6
 0 47 0 3
+0 54 12 6
 1
 end_operator
 begin_operator
@@ -136521,8 +136521,8 @@ succumb sciatica-16 expectation muffin neptune saturn
 1
 0 6
 2
-0 54 12 6
 0 47 1 2
+0 54 12 6
 1
 end_operator
 begin_operator
@@ -136530,8 +136530,8 @@ succumb sciatica-16 expectation muffin uranus neptune
 1
 0 6
 2
-0 54 12 6
 0 47 3 1
+0 54 12 6
 1
 end_operator
 begin_operator
@@ -136539,8 +136539,8 @@ succumb sciatica-16 expectation okra mars uranus
 1
 0 7
 2
-0 54 12 7
 0 47 0 3
+0 54 12 7
 1
 end_operator
 begin_operator
@@ -136548,8 +136548,8 @@ succumb sciatica-16 expectation okra neptune saturn
 1
 0 7
 2
-0 54 12 7
 0 47 1 2
+0 54 12 7
 1
 end_operator
 begin_operator
@@ -136557,8 +136557,8 @@ succumb sciatica-16 expectation okra uranus neptune
 1
 0 7
 2
-0 54 12 7
 0 47 3 1
+0 54 12 7
 1
 end_operator
 begin_operator
@@ -136566,8 +136566,8 @@ succumb sciatica-16 expectation onion mars uranus
 1
 0 8
 2
-0 54 12 8
 0 47 0 3
+0 54 12 8
 1
 end_operator
 begin_operator
@@ -136575,8 +136575,8 @@ succumb sciatica-16 expectation onion neptune saturn
 1
 0 8
 2
-0 54 12 8
 0 47 1 2
+0 54 12 8
 1
 end_operator
 begin_operator
@@ -136584,8 +136584,8 @@ succumb sciatica-16 expectation onion uranus neptune
 1
 0 8
 2
-0 54 12 8
 0 47 3 1
+0 54 12 8
 1
 end_operator
 begin_operator
@@ -136593,8 +136593,8 @@ succumb sciatica-16 expectation popover mars uranus
 1
 0 9
 2
-0 54 12 9
 0 47 0 3
+0 54 12 9
 1
 end_operator
 begin_operator
@@ -136602,8 +136602,8 @@ succumb sciatica-16 expectation popover neptune saturn
 1
 0 9
 2
-0 54 12 9
 0 47 1 2
+0 54 12 9
 1
 end_operator
 begin_operator
@@ -136611,8 +136611,8 @@ succumb sciatica-16 expectation popover uranus neptune
 1
 0 9
 2
-0 54 12 9
 0 47 3 1
+0 54 12 9
 1
 end_operator
 begin_operator
@@ -136620,8 +136620,8 @@ succumb sciatica-16 expectation snickers mars uranus
 1
 0 10
 2
-0 54 12 10
 0 47 0 3
+0 54 12 10
 1
 end_operator
 begin_operator
@@ -136629,8 +136629,8 @@ succumb sciatica-16 expectation snickers neptune saturn
 1
 0 10
 2
-0 54 12 10
 0 47 1 2
+0 54 12 10
 1
 end_operator
 begin_operator
@@ -136638,8 +136638,8 @@ succumb sciatica-16 expectation snickers uranus neptune
 1
 0 10
 2
-0 54 12 10
 0 47 3 1
+0 54 12 10
 1
 end_operator
 begin_operator
@@ -136647,8 +136647,8 @@ succumb sciatica-16 expectation wurst mars uranus
 1
 0 11
 2
-0 54 12 11
 0 47 0 3
+0 54 12 11
 1
 end_operator
 begin_operator
@@ -136656,8 +136656,8 @@ succumb sciatica-16 expectation wurst neptune saturn
 1
 0 11
 2
-0 54 12 11
 0 47 1 2
+0 54 12 11
 1
 end_operator
 begin_operator
@@ -136665,8 +136665,8 @@ succumb sciatica-16 expectation wurst uranus neptune
 1
 0 11
 2
-0 54 12 11
 0 47 3 1
+0 54 12 11
 1
 end_operator
 begin_operator
@@ -136674,8 +136674,8 @@ succumb sciatica-16 learning apple mars uranus
 1
 1 0
 2
-0 54 13 0
 0 48 0 3
+0 54 13 0
 1
 end_operator
 begin_operator
@@ -136683,8 +136683,8 @@ succumb sciatica-16 learning apple neptune saturn
 1
 1 0
 2
-0 54 13 0
 0 48 1 2
+0 54 13 0
 1
 end_operator
 begin_operator
@@ -136692,8 +136692,8 @@ succumb sciatica-16 learning apple uranus neptune
 1
 1 0
 2
-0 54 13 0
 0 48 3 1
+0 54 13 0
 1
 end_operator
 begin_operator
@@ -136701,8 +136701,8 @@ succumb sciatica-16 learning flounder mars uranus
 1
 1 1
 2
-0 54 13 1
 0 48 0 3
+0 54 13 1
 1
 end_operator
 begin_operator
@@ -136710,8 +136710,8 @@ succumb sciatica-16 learning flounder neptune saturn
 1
 1 1
 2
-0 54 13 1
 0 48 1 2
+0 54 13 1
 1
 end_operator
 begin_operator
@@ -136719,8 +136719,8 @@ succumb sciatica-16 learning flounder uranus neptune
 1
 1 1
 2
-0 54 13 1
 0 48 3 1
+0 54 13 1
 1
 end_operator
 begin_operator
@@ -136728,8 +136728,8 @@ succumb sciatica-16 learning guava mars uranus
 1
 1 2
 2
-0 54 13 2
 0 48 0 3
+0 54 13 2
 1
 end_operator
 begin_operator
@@ -136737,8 +136737,8 @@ succumb sciatica-16 learning guava neptune saturn
 1
 1 2
 2
-0 54 13 2
 0 48 1 2
+0 54 13 2
 1
 end_operator
 begin_operator
@@ -136746,8 +136746,8 @@ succumb sciatica-16 learning guava uranus neptune
 1
 1 2
 2
-0 54 13 2
 0 48 3 1
+0 54 13 2
 1
 end_operator
 begin_operator
@@ -136755,8 +136755,8 @@ succumb sciatica-16 learning hamburger mars uranus
 1
 1 3
 2
-0 54 13 3
 0 48 0 3
+0 54 13 3
 1
 end_operator
 begin_operator
@@ -136764,8 +136764,8 @@ succumb sciatica-16 learning hamburger neptune saturn
 1
 1 3
 2
-0 54 13 3
 0 48 1 2
+0 54 13 3
 1
 end_operator
 begin_operator
@@ -136773,8 +136773,8 @@ succumb sciatica-16 learning hamburger uranus neptune
 1
 1 3
 2
-0 54 13 3
 0 48 3 1
+0 54 13 3
 1
 end_operator
 begin_operator
@@ -136782,8 +136782,8 @@ succumb sciatica-16 learning lemon mars uranus
 1
 1 4
 2
-0 54 13 4
 0 48 0 3
+0 54 13 4
 1
 end_operator
 begin_operator
@@ -136791,8 +136791,8 @@ succumb sciatica-16 learning lemon neptune saturn
 1
 1 4
 2
-0 54 13 4
 0 48 1 2
+0 54 13 4
 1
 end_operator
 begin_operator
@@ -136800,8 +136800,8 @@ succumb sciatica-16 learning lemon uranus neptune
 1
 1 4
 2
-0 54 13 4
 0 48 3 1
+0 54 13 4
 1
 end_operator
 begin_operator
@@ -136809,8 +136809,8 @@ succumb sciatica-16 learning marzipan mars uranus
 1
 1 5
 2
-0 54 13 5
 0 48 0 3
+0 54 13 5
 1
 end_operator
 begin_operator
@@ -136818,8 +136818,8 @@ succumb sciatica-16 learning marzipan neptune saturn
 1
 1 5
 2
-0 54 13 5
 0 48 1 2
+0 54 13 5
 1
 end_operator
 begin_operator
@@ -136827,8 +136827,8 @@ succumb sciatica-16 learning marzipan uranus neptune
 1
 1 5
 2
-0 54 13 5
 0 48 3 1
+0 54 13 5
 1
 end_operator
 begin_operator
@@ -136836,8 +136836,8 @@ succumb sciatica-16 learning muffin mars uranus
 1
 1 6
 2
-0 54 13 6
 0 48 0 3
+0 54 13 6
 1
 end_operator
 begin_operator
@@ -136845,8 +136845,8 @@ succumb sciatica-16 learning muffin neptune saturn
 1
 1 6
 2
-0 54 13 6
 0 48 1 2
+0 54 13 6
 1
 end_operator
 begin_operator
@@ -136854,8 +136854,8 @@ succumb sciatica-16 learning muffin uranus neptune
 1
 1 6
 2
-0 54 13 6
 0 48 3 1
+0 54 13 6
 1
 end_operator
 begin_operator
@@ -136863,8 +136863,8 @@ succumb sciatica-16 learning okra mars uranus
 1
 1 7
 2
-0 54 13 7
 0 48 0 3
+0 54 13 7
 1
 end_operator
 begin_operator
@@ -136872,8 +136872,8 @@ succumb sciatica-16 learning okra neptune saturn
 1
 1 7
 2
-0 54 13 7
 0 48 1 2
+0 54 13 7
 1
 end_operator
 begin_operator
@@ -136881,8 +136881,8 @@ succumb sciatica-16 learning okra uranus neptune
 1
 1 7
 2
-0 54 13 7
 0 48 3 1
+0 54 13 7
 1
 end_operator
 begin_operator
@@ -136890,8 +136890,8 @@ succumb sciatica-16 learning onion mars uranus
 1
 1 8
 2
-0 54 13 8
 0 48 0 3
+0 54 13 8
 1
 end_operator
 begin_operator
@@ -136899,8 +136899,8 @@ succumb sciatica-16 learning onion neptune saturn
 1
 1 8
 2
-0 54 13 8
 0 48 1 2
+0 54 13 8
 1
 end_operator
 begin_operator
@@ -136908,8 +136908,8 @@ succumb sciatica-16 learning onion uranus neptune
 1
 1 8
 2
-0 54 13 8
 0 48 3 1
+0 54 13 8
 1
 end_operator
 begin_operator
@@ -136917,8 +136917,8 @@ succumb sciatica-16 learning popover mars uranus
 1
 1 9
 2
-0 54 13 9
 0 48 0 3
+0 54 13 9
 1
 end_operator
 begin_operator
@@ -136926,8 +136926,8 @@ succumb sciatica-16 learning popover neptune saturn
 1
 1 9
 2
-0 54 13 9
 0 48 1 2
+0 54 13 9
 1
 end_operator
 begin_operator
@@ -136935,8 +136935,8 @@ succumb sciatica-16 learning popover uranus neptune
 1
 1 9
 2
-0 54 13 9
 0 48 3 1
+0 54 13 9
 1
 end_operator
 begin_operator
@@ -136944,8 +136944,8 @@ succumb sciatica-16 learning snickers mars uranus
 1
 1 10
 2
-0 54 13 10
 0 48 0 3
+0 54 13 10
 1
 end_operator
 begin_operator
@@ -136953,8 +136953,8 @@ succumb sciatica-16 learning snickers neptune saturn
 1
 1 10
 2
-0 54 13 10
 0 48 1 2
+0 54 13 10
 1
 end_operator
 begin_operator
@@ -136962,8 +136962,8 @@ succumb sciatica-16 learning snickers uranus neptune
 1
 1 10
 2
-0 54 13 10
 0 48 3 1
+0 54 13 10
 1
 end_operator
 begin_operator
@@ -136971,8 +136971,8 @@ succumb sciatica-16 learning wurst mars uranus
 1
 1 11
 2
-0 54 13 11
 0 48 0 3
+0 54 13 11
 1
 end_operator
 begin_operator
@@ -136980,8 +136980,8 @@ succumb sciatica-16 learning wurst neptune saturn
 1
 1 11
 2
-0 54 13 11
 0 48 1 2
+0 54 13 11
 1
 end_operator
 begin_operator
@@ -136989,8 +136989,8 @@ succumb sciatica-16 learning wurst uranus neptune
 1
 1 11
 2
-0 54 13 11
 0 48 3 1
+0 54 13 11
 1
 end_operator
 begin_operator
@@ -136998,8 +136998,8 @@ succumb sciatica-16 love apple mars uranus
 1
 2 0
 2
-0 54 14 0
 0 51 0 3
+0 54 14 0
 1
 end_operator
 begin_operator
@@ -137007,8 +137007,8 @@ succumb sciatica-16 love apple neptune saturn
 1
 2 0
 2
-0 54 14 0
 0 51 1 2
+0 54 14 0
 1
 end_operator
 begin_operator
@@ -137016,8 +137016,8 @@ succumb sciatica-16 love apple uranus neptune
 1
 2 0
 2
-0 54 14 0
 0 51 3 1
+0 54 14 0
 1
 end_operator
 begin_operator
@@ -137025,8 +137025,8 @@ succumb sciatica-16 love flounder mars uranus
 1
 2 1
 2
-0 54 14 1
 0 51 0 3
+0 54 14 1
 1
 end_operator
 begin_operator
@@ -137034,8 +137034,8 @@ succumb sciatica-16 love flounder neptune saturn
 1
 2 1
 2
-0 54 14 1
 0 51 1 2
+0 54 14 1
 1
 end_operator
 begin_operator
@@ -137043,8 +137043,8 @@ succumb sciatica-16 love flounder uranus neptune
 1
 2 1
 2
-0 54 14 1
 0 51 3 1
+0 54 14 1
 1
 end_operator
 begin_operator
@@ -137052,8 +137052,8 @@ succumb sciatica-16 love guava mars uranus
 1
 2 2
 2
-0 54 14 2
 0 51 0 3
+0 54 14 2
 1
 end_operator
 begin_operator
@@ -137061,8 +137061,8 @@ succumb sciatica-16 love guava neptune saturn
 1
 2 2
 2
-0 54 14 2
 0 51 1 2
+0 54 14 2
 1
 end_operator
 begin_operator
@@ -137070,8 +137070,8 @@ succumb sciatica-16 love guava uranus neptune
 1
 2 2
 2
-0 54 14 2
 0 51 3 1
+0 54 14 2
 1
 end_operator
 begin_operator
@@ -137079,8 +137079,8 @@ succumb sciatica-16 love hamburger mars uranus
 1
 2 3
 2
-0 54 14 3
 0 51 0 3
+0 54 14 3
 1
 end_operator
 begin_operator
@@ -137088,8 +137088,8 @@ succumb sciatica-16 love hamburger neptune saturn
 1
 2 3
 2
-0 54 14 3
 0 51 1 2
+0 54 14 3
 1
 end_operator
 begin_operator
@@ -137097,8 +137097,8 @@ succumb sciatica-16 love hamburger uranus neptune
 1
 2 3
 2
-0 54 14 3
 0 51 3 1
+0 54 14 3
 1
 end_operator
 begin_operator
@@ -137106,8 +137106,8 @@ succumb sciatica-16 love lemon mars uranus
 1
 2 4
 2
-0 54 14 4
 0 51 0 3
+0 54 14 4
 1
 end_operator
 begin_operator
@@ -137115,8 +137115,8 @@ succumb sciatica-16 love lemon neptune saturn
 1
 2 4
 2
-0 54 14 4
 0 51 1 2
+0 54 14 4
 1
 end_operator
 begin_operator
@@ -137124,8 +137124,8 @@ succumb sciatica-16 love lemon uranus neptune
 1
 2 4
 2
-0 54 14 4
 0 51 3 1
+0 54 14 4
 1
 end_operator
 begin_operator
@@ -137133,8 +137133,8 @@ succumb sciatica-16 love marzipan mars uranus
 1
 2 5
 2
-0 54 14 5
 0 51 0 3
+0 54 14 5
 1
 end_operator
 begin_operator
@@ -137142,8 +137142,8 @@ succumb sciatica-16 love marzipan neptune saturn
 1
 2 5
 2
-0 54 14 5
 0 51 1 2
+0 54 14 5
 1
 end_operator
 begin_operator
@@ -137151,8 +137151,8 @@ succumb sciatica-16 love marzipan uranus neptune
 1
 2 5
 2
-0 54 14 5
 0 51 3 1
+0 54 14 5
 1
 end_operator
 begin_operator
@@ -137160,8 +137160,8 @@ succumb sciatica-16 love muffin mars uranus
 1
 2 6
 2
-0 54 14 6
 0 51 0 3
+0 54 14 6
 1
 end_operator
 begin_operator
@@ -137169,8 +137169,8 @@ succumb sciatica-16 love muffin neptune saturn
 1
 2 6
 2
-0 54 14 6
 0 51 1 2
+0 54 14 6
 1
 end_operator
 begin_operator
@@ -137178,8 +137178,8 @@ succumb sciatica-16 love muffin uranus neptune
 1
 2 6
 2
-0 54 14 6
 0 51 3 1
+0 54 14 6
 1
 end_operator
 begin_operator
@@ -137187,8 +137187,8 @@ succumb sciatica-16 love okra mars uranus
 1
 2 7
 2
-0 54 14 7
 0 51 0 3
+0 54 14 7
 1
 end_operator
 begin_operator
@@ -137196,8 +137196,8 @@ succumb sciatica-16 love okra neptune saturn
 1
 2 7
 2
-0 54 14 7
 0 51 1 2
+0 54 14 7
 1
 end_operator
 begin_operator
@@ -137205,8 +137205,8 @@ succumb sciatica-16 love okra uranus neptune
 1
 2 7
 2
-0 54 14 7
 0 51 3 1
+0 54 14 7
 1
 end_operator
 begin_operator
@@ -137214,8 +137214,8 @@ succumb sciatica-16 love onion mars uranus
 1
 2 8
 2
-0 54 14 8
 0 51 0 3
+0 54 14 8
 1
 end_operator
 begin_operator
@@ -137223,8 +137223,8 @@ succumb sciatica-16 love onion neptune saturn
 1
 2 8
 2
-0 54 14 8
 0 51 1 2
+0 54 14 8
 1
 end_operator
 begin_operator
@@ -137232,8 +137232,8 @@ succumb sciatica-16 love onion uranus neptune
 1
 2 8
 2
-0 54 14 8
 0 51 3 1
+0 54 14 8
 1
 end_operator
 begin_operator
@@ -137241,8 +137241,8 @@ succumb sciatica-16 love popover mars uranus
 1
 2 9
 2
-0 54 14 9
 0 51 0 3
+0 54 14 9
 1
 end_operator
 begin_operator
@@ -137250,8 +137250,8 @@ succumb sciatica-16 love popover neptune saturn
 1
 2 9
 2
-0 54 14 9
 0 51 1 2
+0 54 14 9
 1
 end_operator
 begin_operator
@@ -137259,8 +137259,8 @@ succumb sciatica-16 love popover uranus neptune
 1
 2 9
 2
-0 54 14 9
 0 51 3 1
+0 54 14 9
 1
 end_operator
 begin_operator
@@ -137268,8 +137268,8 @@ succumb sciatica-16 love snickers mars uranus
 1
 2 10
 2
-0 54 14 10
 0 51 0 3
+0 54 14 10
 1
 end_operator
 begin_operator
@@ -137277,8 +137277,8 @@ succumb sciatica-16 love snickers neptune saturn
 1
 2 10
 2
-0 54 14 10
 0 51 1 2
+0 54 14 10
 1
 end_operator
 begin_operator
@@ -137286,8 +137286,8 @@ succumb sciatica-16 love snickers uranus neptune
 1
 2 10
 2
-0 54 14 10
 0 51 3 1
+0 54 14 10
 1
 end_operator
 begin_operator
@@ -137295,8 +137295,8 @@ succumb sciatica-16 love wurst mars uranus
 1
 2 11
 2
-0 54 14 11
 0 51 0 3
+0 54 14 11
 1
 end_operator
 begin_operator
@@ -137304,8 +137304,8 @@ succumb sciatica-16 love wurst neptune saturn
 1
 2 11
 2
-0 54 14 11
 0 51 1 2
+0 54 14 11
 1
 end_operator
 begin_operator
@@ -137313,8 +137313,8 @@ succumb sciatica-16 love wurst uranus neptune
 1
 2 11
 2
-0 54 14 11
 0 51 3 1
+0 54 14 11
 1
 end_operator
 begin_operator
@@ -137322,8 +137322,8 @@ succumb sciatica-16 rest apple mars uranus
 1
 11 0
 2
-0 54 15 0
 0 52 0 3
+0 54 15 0
 1
 end_operator
 begin_operator
@@ -137331,8 +137331,8 @@ succumb sciatica-16 rest apple neptune saturn
 1
 11 0
 2
-0 54 15 0
 0 52 1 2
+0 54 15 0
 1
 end_operator
 begin_operator
@@ -137340,8 +137340,8 @@ succumb sciatica-16 rest apple uranus neptune
 1
 11 0
 2
-0 54 15 0
 0 52 3 1
+0 54 15 0
 1
 end_operator
 begin_operator
@@ -137349,8 +137349,8 @@ succumb sciatica-16 rest flounder mars uranus
 1
 11 1
 2
-0 54 15 1
 0 52 0 3
+0 54 15 1
 1
 end_operator
 begin_operator
@@ -137358,8 +137358,8 @@ succumb sciatica-16 rest flounder neptune saturn
 1
 11 1
 2
-0 54 15 1
 0 52 1 2
+0 54 15 1
 1
 end_operator
 begin_operator
@@ -137367,8 +137367,8 @@ succumb sciatica-16 rest flounder uranus neptune
 1
 11 1
 2
-0 54 15 1
 0 52 3 1
+0 54 15 1
 1
 end_operator
 begin_operator
@@ -137376,8 +137376,8 @@ succumb sciatica-16 rest guava mars uranus
 1
 11 2
 2
-0 54 15 2
 0 52 0 3
+0 54 15 2
 1
 end_operator
 begin_operator
@@ -137385,8 +137385,8 @@ succumb sciatica-16 rest guava neptune saturn
 1
 11 2
 2
-0 54 15 2
 0 52 1 2
+0 54 15 2
 1
 end_operator
 begin_operator
@@ -137394,8 +137394,8 @@ succumb sciatica-16 rest guava uranus neptune
 1
 11 2
 2
-0 54 15 2
 0 52 3 1
+0 54 15 2
 1
 end_operator
 begin_operator
@@ -137403,8 +137403,8 @@ succumb sciatica-16 rest hamburger mars uranus
 1
 11 3
 2
-0 54 15 3
 0 52 0 3
+0 54 15 3
 1
 end_operator
 begin_operator
@@ -137412,8 +137412,8 @@ succumb sciatica-16 rest hamburger neptune saturn
 1
 11 3
 2
-0 54 15 3
 0 52 1 2
+0 54 15 3
 1
 end_operator
 begin_operator
@@ -137421,8 +137421,8 @@ succumb sciatica-16 rest hamburger uranus neptune
 1
 11 3
 2
-0 54 15 3
 0 52 3 1
+0 54 15 3
 1
 end_operator
 begin_operator
@@ -137430,8 +137430,8 @@ succumb sciatica-16 rest lemon mars uranus
 1
 11 4
 2
-0 54 15 4
 0 52 0 3
+0 54 15 4
 1
 end_operator
 begin_operator
@@ -137439,8 +137439,8 @@ succumb sciatica-16 rest lemon neptune saturn
 1
 11 4
 2
-0 54 15 4
 0 52 1 2
+0 54 15 4
 1
 end_operator
 begin_operator
@@ -137448,8 +137448,8 @@ succumb sciatica-16 rest lemon uranus neptune
 1
 11 4
 2
-0 54 15 4
 0 52 3 1
+0 54 15 4
 1
 end_operator
 begin_operator
@@ -137457,8 +137457,8 @@ succumb sciatica-16 rest marzipan mars uranus
 1
 11 5
 2
-0 54 15 5
 0 52 0 3
+0 54 15 5
 1
 end_operator
 begin_operator
@@ -137466,8 +137466,8 @@ succumb sciatica-16 rest marzipan neptune saturn
 1
 11 5
 2
-0 54 15 5
 0 52 1 2
+0 54 15 5
 1
 end_operator
 begin_operator
@@ -137475,8 +137475,8 @@ succumb sciatica-16 rest marzipan uranus neptune
 1
 11 5
 2
-0 54 15 5
 0 52 3 1
+0 54 15 5
 1
 end_operator
 begin_operator
@@ -137484,8 +137484,8 @@ succumb sciatica-16 rest muffin mars uranus
 1
 11 6
 2
-0 54 15 6
 0 52 0 3
+0 54 15 6
 1
 end_operator
 begin_operator
@@ -137493,8 +137493,8 @@ succumb sciatica-16 rest muffin neptune saturn
 1
 11 6
 2
-0 54 15 6
 0 52 1 2
+0 54 15 6
 1
 end_operator
 begin_operator
@@ -137502,8 +137502,8 @@ succumb sciatica-16 rest muffin uranus neptune
 1
 11 6
 2
-0 54 15 6
 0 52 3 1
+0 54 15 6
 1
 end_operator
 begin_operator
@@ -137511,8 +137511,8 @@ succumb sciatica-16 rest okra mars uranus
 1
 11 7
 2
-0 54 15 7
 0 52 0 3
+0 54 15 7
 1
 end_operator
 begin_operator
@@ -137520,8 +137520,8 @@ succumb sciatica-16 rest okra neptune saturn
 1
 11 7
 2
-0 54 15 7
 0 52 1 2
+0 54 15 7
 1
 end_operator
 begin_operator
@@ -137529,8 +137529,8 @@ succumb sciatica-16 rest okra uranus neptune
 1
 11 7
 2
-0 54 15 7
 0 52 3 1
+0 54 15 7
 1
 end_operator
 begin_operator
@@ -137538,8 +137538,8 @@ succumb sciatica-16 rest onion mars uranus
 1
 11 8
 2
-0 54 15 8
 0 52 0 3
+0 54 15 8
 1
 end_operator
 begin_operator
@@ -137547,8 +137547,8 @@ succumb sciatica-16 rest onion neptune saturn
 1
 11 8
 2
-0 54 15 8
 0 52 1 2
+0 54 15 8
 1
 end_operator
 begin_operator
@@ -137556,8 +137556,8 @@ succumb sciatica-16 rest onion uranus neptune
 1
 11 8
 2
-0 54 15 8
 0 52 3 1
+0 54 15 8
 1
 end_operator
 begin_operator
@@ -137565,8 +137565,8 @@ succumb sciatica-16 rest popover mars uranus
 1
 11 9
 2
-0 54 15 9
 0 52 0 3
+0 54 15 9
 1
 end_operator
 begin_operator
@@ -137574,8 +137574,8 @@ succumb sciatica-16 rest popover neptune saturn
 1
 11 9
 2
-0 54 15 9
 0 52 1 2
+0 54 15 9
 1
 end_operator
 begin_operator
@@ -137583,8 +137583,8 @@ succumb sciatica-16 rest popover uranus neptune
 1
 11 9
 2
-0 54 15 9
 0 52 3 1
+0 54 15 9
 1
 end_operator
 begin_operator
@@ -137592,8 +137592,8 @@ succumb sciatica-16 rest snickers mars uranus
 1
 11 10
 2
-0 54 15 10
 0 52 0 3
+0 54 15 10
 1
 end_operator
 begin_operator
@@ -137601,8 +137601,8 @@ succumb sciatica-16 rest snickers neptune saturn
 1
 11 10
 2
-0 54 15 10
 0 52 1 2
+0 54 15 10
 1
 end_operator
 begin_operator
@@ -137610,8 +137610,8 @@ succumb sciatica-16 rest snickers uranus neptune
 1
 11 10
 2
-0 54 15 10
 0 52 3 1
+0 54 15 10
 1
 end_operator
 begin_operator
@@ -137619,8 +137619,8 @@ succumb sciatica-16 rest wurst mars uranus
 1
 11 11
 2
-0 54 15 11
 0 52 0 3
+0 54 15 11
 1
 end_operator
 begin_operator
@@ -137628,8 +137628,8 @@ succumb sciatica-16 rest wurst neptune saturn
 1
 11 11
 2
-0 54 15 11
 0 52 1 2
+0 54 15 11
 1
 end_operator
 begin_operator
@@ -137637,8 +137637,8 @@ succumb sciatica-16 rest wurst uranus neptune
 1
 11 11
 2
-0 54 15 11
 0 52 3 1
+0 54 15 11
 1
 end_operator
 begin_operator

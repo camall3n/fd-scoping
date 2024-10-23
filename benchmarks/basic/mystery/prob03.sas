@@ -384,128 +384,128 @@ begin_operator
 feast entertainment chocolate ham goias guanabara
 0
 2
-0 7 0 1
 0 0 1 0
+0 7 0 1
 1
 end_operator
 begin_operator
 feast entertainment chocolate orange goias guanabara
 0
 2
-0 7 0 6
 0 0 1 0
+0 7 0 6
 1
 end_operator
 begin_operator
 feast entertainment ham chocolate arizona manitoba
 0
 2
-0 7 1 0
 0 5 4 0
+0 7 1 0
 1
 end_operator
 begin_operator
 feast entertainment ham chocolate bavaria arizona
 0
 2
-0 7 1 0
 0 5 0 1
+0 7 1 0
 1
 end_operator
 begin_operator
 feast entertainment ham chocolate goias guanabara
 0
 2
-0 7 1 0
 0 5 3 2
+0 7 1 0
 1
 end_operator
 begin_operator
 feast entertainment ham chocolate guanabara bavaria
 0
 2
-0 7 1 0
 0 5 1 3
+0 7 1 0
 1
 end_operator
 begin_operator
 feast entertainment ham melon arizona manitoba
 0
 2
-0 7 1 4
 0 5 4 0
+0 7 1 4
 1
 end_operator
 begin_operator
 feast entertainment ham melon bavaria arizona
 0
 2
-0 7 1 4
 0 5 0 1
+0 7 1 4
 1
 end_operator
 begin_operator
 feast entertainment ham melon goias guanabara
 0
 2
-0 7 1 4
 0 5 3 2
+0 7 1 4
 1
 end_operator
 begin_operator
 feast entertainment ham melon guanabara bavaria
 0
 2
-0 7 1 4
 0 5 1 3
+0 7 1 4
 1
 end_operator
 begin_operator
 feast entertainment marzipan pea goias guanabara
 0
 2
-0 7 3 7
 0 4 2 1
+0 7 3 7
 1
 end_operator
 begin_operator
 feast entertainment marzipan pea guanabara bavaria
 0
 2
-0 7 3 7
 0 4 0 2
+0 7 3 7
 1
 end_operator
 begin_operator
 feast entertainment marzipan popover goias guanabara
 0
 2
-0 7 3 9
 0 4 2 1
+0 7 3 9
 1
 end_operator
 begin_operator
 feast entertainment marzipan popover guanabara bavaria
 0
 2
-0 7 3 9
 0 4 0 2
+0 7 3 9
 1
 end_operator
 begin_operator
 feast entertainment marzipan snickers goias guanabara
 0
 2
-0 7 3 10
 0 4 2 1
+0 7 3 10
 1
 end_operator
 begin_operator
 feast entertainment marzipan snickers guanabara bavaria
 0
 2
-0 7 3 10
 0 4 0 2
+0 7 3 10
 1
 end_operator
 begin_operator
@@ -608,112 +608,112 @@ begin_operator
 feast entertainment mutton melon goias guanabara
 0
 2
-0 7 5 4
 0 1 1 0
+0 7 5 4
 1
 end_operator
 begin_operator
 feast entertainment mutton orange goias guanabara
 0
 2
-0 7 5 6
 0 1 1 0
+0 7 5 6
 1
 end_operator
 begin_operator
 feast entertainment orange chocolate goias guanabara
 0
 2
-0 7 6 0
 0 2 2 1
+0 7 6 0
 1
 end_operator
 begin_operator
 feast entertainment orange chocolate guanabara bavaria
 0
 2
-0 7 6 0
 0 2 0 2
+0 7 6 0
 1
 end_operator
 begin_operator
 feast entertainment orange mutton goias guanabara
 0
 2
-0 7 6 5
 0 2 2 1
+0 7 6 5
 1
 end_operator
 begin_operator
 feast entertainment orange mutton guanabara bavaria
 0
 2
-0 7 6 5
 0 2 0 2
+0 7 6 5
 1
 end_operator
 begin_operator
 feast entertainment pea lemon goias guanabara
 0
 2
-0 7 7 2
 0 6 2 1
+0 7 7 2
 1
 end_operator
 begin_operator
 feast entertainment pea lemon guanabara bavaria
 0
 2
-0 7 7 2
 0 6 0 2
+0 7 7 2
 1
 end_operator
 begin_operator
 feast entertainment pea marzipan goias guanabara
 0
 2
-0 7 7 3
 0 6 2 1
+0 7 7 3
 1
 end_operator
 begin_operator
 feast entertainment pea marzipan guanabara bavaria
 0
 2
-0 7 7 3
 0 6 0 2
+0 7 7 3
 1
 end_operator
 begin_operator
 feast entertainment pea pepper goias guanabara
 0
 2
-0 7 7 8
 0 6 2 1
+0 7 7 8
 1
 end_operator
 begin_operator
 feast entertainment pea pepper guanabara bavaria
 0
 2
-0 7 7 8
 0 6 0 2
+0 7 7 8
 1
 end_operator
 begin_operator
 feast entertainment pea snickers goias guanabara
 0
 2
-0 7 7 10
 0 6 2 1
+0 7 7 10
 1
 end_operator
 begin_operator
 feast entertainment pea snickers guanabara bavaria
 0
 2
-0 7 7 10
 0 6 0 2
+0 7 7 10
 1
 end_operator
 begin_operator
@@ -888,160 +888,160 @@ begin_operator
 feast entertainment snickers marzipan goias guanabara
 0
 2
-0 7 10 3
 0 3 2 1
+0 7 10 3
 1
 end_operator
 begin_operator
 feast entertainment snickers marzipan guanabara bavaria
 0
 2
-0 7 10 3
 0 3 0 2
+0 7 10 3
 1
 end_operator
 begin_operator
 feast entertainment snickers pea goias guanabara
 0
 2
-0 7 10 7
 0 3 2 1
+0 7 10 7
 1
 end_operator
 begin_operator
 feast entertainment snickers pea guanabara bavaria
 0
 2
-0 7 10 7
 0 3 0 2
+0 7 10 7
 1
 end_operator
 begin_operator
 feast love chocolate ham goias guanabara
 0
 2
-0 9 0 1
 0 0 1 0
+0 9 0 1
 1
 end_operator
 begin_operator
 feast love chocolate orange goias guanabara
 0
 2
-0 9 0 6
 0 0 1 0
+0 9 0 6
 1
 end_operator
 begin_operator
 feast love ham chocolate arizona manitoba
 0
 2
-0 9 1 0
 0 5 4 0
+0 9 1 0
 1
 end_operator
 begin_operator
 feast love ham chocolate bavaria arizona
 0
 2
-0 9 1 0
 0 5 0 1
+0 9 1 0
 1
 end_operator
 begin_operator
 feast love ham chocolate goias guanabara
 0
 2
-0 9 1 0
 0 5 3 2
+0 9 1 0
 1
 end_operator
 begin_operator
 feast love ham chocolate guanabara bavaria
 0
 2
-0 9 1 0
 0 5 1 3
+0 9 1 0
 1
 end_operator
 begin_operator
 feast love ham melon arizona manitoba
 0
 2
-0 9 1 4
 0 5 4 0
+0 9 1 4
 1
 end_operator
 begin_operator
 feast love ham melon bavaria arizona
 0
 2
-0 9 1 4
 0 5 0 1
+0 9 1 4
 1
 end_operator
 begin_operator
 feast love ham melon goias guanabara
 0
 2
-0 9 1 4
 0 5 3 2
+0 9 1 4
 1
 end_operator
 begin_operator
 feast love ham melon guanabara bavaria
 0
 2
-0 9 1 4
 0 5 1 3
+0 9 1 4
 1
 end_operator
 begin_operator
 feast love marzipan pea goias guanabara
 0
 2
-0 9 3 7
 0 4 2 1
+0 9 3 7
 1
 end_operator
 begin_operator
 feast love marzipan pea guanabara bavaria
 0
 2
-0 9 3 7
 0 4 0 2
+0 9 3 7
 1
 end_operator
 begin_operator
 feast love marzipan popover goias guanabara
 0
 2
-0 9 3 9
 0 4 2 1
+0 9 3 9
 1
 end_operator
 begin_operator
 feast love marzipan popover guanabara bavaria
 0
 2
-0 9 3 9
 0 4 0 2
+0 9 3 9
 1
 end_operator
 begin_operator
 feast love marzipan snickers goias guanabara
 0
 2
-0 9 3 10
 0 4 2 1
+0 9 3 10
 1
 end_operator
 begin_operator
 feast love marzipan snickers guanabara bavaria
 0
 2
-0 9 3 10
 0 4 0 2
+0 9 3 10
 1
 end_operator
 begin_operator
@@ -1144,112 +1144,112 @@ begin_operator
 feast love mutton melon goias guanabara
 0
 2
-0 9 5 4
 0 1 1 0
+0 9 5 4
 1
 end_operator
 begin_operator
 feast love mutton orange goias guanabara
 0
 2
-0 9 5 6
 0 1 1 0
+0 9 5 6
 1
 end_operator
 begin_operator
 feast love orange chocolate goias guanabara
 0
 2
-0 9 6 0
 0 2 2 1
+0 9 6 0
 1
 end_operator
 begin_operator
 feast love orange chocolate guanabara bavaria
 0
 2
-0 9 6 0
 0 2 0 2
+0 9 6 0
 1
 end_operator
 begin_operator
 feast love orange mutton goias guanabara
 0
 2
-0 9 6 5
 0 2 2 1
+0 9 6 5
 1
 end_operator
 begin_operator
 feast love orange mutton guanabara bavaria
 0
 2
-0 9 6 5
 0 2 0 2
+0 9 6 5
 1
 end_operator
 begin_operator
 feast love pea lemon goias guanabara
 0
 2
-0 9 7 2
 0 6 2 1
+0 9 7 2
 1
 end_operator
 begin_operator
 feast love pea lemon guanabara bavaria
 0
 2
-0 9 7 2
 0 6 0 2
+0 9 7 2
 1
 end_operator
 begin_operator
 feast love pea marzipan goias guanabara
 0
 2
-0 9 7 3
 0 6 2 1
+0 9 7 3
 1
 end_operator
 begin_operator
 feast love pea marzipan guanabara bavaria
 0
 2
-0 9 7 3
 0 6 0 2
+0 9 7 3
 1
 end_operator
 begin_operator
 feast love pea pepper goias guanabara
 0
 2
-0 9 7 8
 0 6 2 1
+0 9 7 8
 1
 end_operator
 begin_operator
 feast love pea pepper guanabara bavaria
 0
 2
-0 9 7 8
 0 6 0 2
+0 9 7 8
 1
 end_operator
 begin_operator
 feast love pea snickers goias guanabara
 0
 2
-0 9 7 10
 0 6 2 1
+0 9 7 10
 1
 end_operator
 begin_operator
 feast love pea snickers guanabara bavaria
 0
 2
-0 9 7 10
 0 6 0 2
+0 9 7 10
 1
 end_operator
 begin_operator
@@ -1352,232 +1352,232 @@ begin_operator
 feast love popover lemon bavaria arizona
 0
 2
-0 9 9 2
 0 8 0 1
+0 9 9 2
 1
 end_operator
 begin_operator
 feast love popover lemon goias guanabara
 0
 2
-0 9 9 2
 0 8 3 2
+0 9 9 2
 1
 end_operator
 begin_operator
 feast love popover lemon guanabara bavaria
 0
 2
-0 9 9 2
 0 8 1 3
+0 9 9 2
 1
 end_operator
 begin_operator
 feast love popover marzipan bavaria arizona
 0
 2
-0 9 9 3
 0 8 0 1
+0 9 9 3
 1
 end_operator
 begin_operator
 feast love popover marzipan goias guanabara
 0
 2
-0 9 9 3
 0 8 3 2
+0 9 9 3
 1
 end_operator
 begin_operator
 feast love popover marzipan guanabara bavaria
 0
 2
-0 9 9 3
 0 8 1 3
+0 9 9 3
 1
 end_operator
 begin_operator
 feast love popover pepper bavaria arizona
 0
 2
-0 9 9 8
 0 8 0 1
+0 9 9 8
 1
 end_operator
 begin_operator
 feast love popover pepper goias guanabara
 0
 2
-0 9 9 8
 0 8 3 2
+0 9 9 8
 1
 end_operator
 begin_operator
 feast love popover pepper guanabara bavaria
 0
 2
-0 9 9 8
 0 8 1 3
+0 9 9 8
 1
 end_operator
 begin_operator
 feast love snickers marzipan goias guanabara
 0
 2
-0 9 10 3
 0 3 2 1
+0 9 10 3
 1
 end_operator
 begin_operator
 feast love snickers marzipan guanabara bavaria
 0
 2
-0 9 10 3
 0 3 0 2
+0 9 10 3
 1
 end_operator
 begin_operator
 feast love snickers pea goias guanabara
 0
 2
-0 9 10 7
 0 3 2 1
+0 9 10 7
 1
 end_operator
 begin_operator
 feast love snickers pea guanabara bavaria
 0
 2
-0 9 10 7
 0 3 0 2
+0 9 10 7
 1
 end_operator
 begin_operator
 feast satisfaction chocolate ham goias guanabara
 0
 2
-0 10 0 1
 0 0 1 0
+0 10 0 1
 1
 end_operator
 begin_operator
 feast satisfaction chocolate orange goias guanabara
 0
 2
-0 10 0 6
 0 0 1 0
+0 10 0 6
 1
 end_operator
 begin_operator
 feast satisfaction ham chocolate arizona manitoba
 0
 2
-0 10 1 0
 0 5 4 0
+0 10 1 0
 1
 end_operator
 begin_operator
 feast satisfaction ham chocolate bavaria arizona
 0
 2
-0 10 1 0
 0 5 0 1
+0 10 1 0
 1
 end_operator
 begin_operator
 feast satisfaction ham chocolate goias guanabara
 0
 2
-0 10 1 0
 0 5 3 2
+0 10 1 0
 1
 end_operator
 begin_operator
 feast satisfaction ham chocolate guanabara bavaria
 0
 2
-0 10 1 0
 0 5 1 3
+0 10 1 0
 1
 end_operator
 begin_operator
 feast satisfaction ham melon arizona manitoba
 0
 2
-0 10 1 4
 0 5 4 0
+0 10 1 4
 1
 end_operator
 begin_operator
 feast satisfaction ham melon bavaria arizona
 0
 2
-0 10 1 4
 0 5 0 1
+0 10 1 4
 1
 end_operator
 begin_operator
 feast satisfaction ham melon goias guanabara
 0
 2
-0 10 1 4
 0 5 3 2
+0 10 1 4
 1
 end_operator
 begin_operator
 feast satisfaction ham melon guanabara bavaria
 0
 2
-0 10 1 4
 0 5 1 3
+0 10 1 4
 1
 end_operator
 begin_operator
 feast satisfaction marzipan pea goias guanabara
 0
 2
-0 10 3 7
 0 4 2 1
+0 10 3 7
 1
 end_operator
 begin_operator
 feast satisfaction marzipan pea guanabara bavaria
 0
 2
-0 10 3 7
 0 4 0 2
+0 10 3 7
 1
 end_operator
 begin_operator
 feast satisfaction marzipan popover goias guanabara
 0
 2
-0 10 3 9
 0 4 2 1
+0 10 3 9
 1
 end_operator
 begin_operator
 feast satisfaction marzipan popover guanabara bavaria
 0
 2
-0 10 3 9
 0 4 0 2
+0 10 3 9
 1
 end_operator
 begin_operator
 feast satisfaction marzipan snickers goias guanabara
 0
 2
-0 10 3 10
 0 4 2 1
+0 10 3 10
 1
 end_operator
 begin_operator
 feast satisfaction marzipan snickers guanabara bavaria
 0
 2
-0 10 3 10
 0 4 0 2
+0 10 3 10
 1
 end_operator
 begin_operator
@@ -1680,112 +1680,112 @@ begin_operator
 feast satisfaction mutton melon goias guanabara
 0
 2
-0 10 5 4
 0 1 1 0
+0 10 5 4
 1
 end_operator
 begin_operator
 feast satisfaction mutton orange goias guanabara
 0
 2
-0 10 5 6
 0 1 1 0
+0 10 5 6
 1
 end_operator
 begin_operator
 feast satisfaction orange chocolate goias guanabara
 0
 2
-0 10 6 0
 0 2 2 1
+0 10 6 0
 1
 end_operator
 begin_operator
 feast satisfaction orange chocolate guanabara bavaria
 0
 2
-0 10 6 0
 0 2 0 2
+0 10 6 0
 1
 end_operator
 begin_operator
 feast satisfaction orange mutton goias guanabara
 0
 2
-0 10 6 5
 0 2 2 1
+0 10 6 5
 1
 end_operator
 begin_operator
 feast satisfaction orange mutton guanabara bavaria
 0
 2
-0 10 6 5
 0 2 0 2
+0 10 6 5
 1
 end_operator
 begin_operator
 feast satisfaction pea lemon goias guanabara
 0
 2
-0 10 7 2
 0 6 2 1
+0 10 7 2
 1
 end_operator
 begin_operator
 feast satisfaction pea lemon guanabara bavaria
 0
 2
-0 10 7 2
 0 6 0 2
+0 10 7 2
 1
 end_operator
 begin_operator
 feast satisfaction pea marzipan goias guanabara
 0
 2
-0 10 7 3
 0 6 2 1
+0 10 7 3
 1
 end_operator
 begin_operator
 feast satisfaction pea marzipan guanabara bavaria
 0
 2
-0 10 7 3
 0 6 0 2
+0 10 7 3
 1
 end_operator
 begin_operator
 feast satisfaction pea pepper goias guanabara
 0
 2
-0 10 7 8
 0 6 2 1
+0 10 7 8
 1
 end_operator
 begin_operator
 feast satisfaction pea pepper guanabara bavaria
 0
 2
-0 10 7 8
 0 6 0 2
+0 10 7 8
 1
 end_operator
 begin_operator
 feast satisfaction pea snickers goias guanabara
 0
 2
-0 10 7 10
 0 6 2 1
+0 10 7 10
 1
 end_operator
 begin_operator
 feast satisfaction pea snickers guanabara bavaria
 0
 2
-0 10 7 10
 0 6 0 2
+0 10 7 10
 1
 end_operator
 begin_operator
@@ -1888,640 +1888,640 @@ begin_operator
 feast satisfaction popover lemon bavaria arizona
 0
 2
-0 10 9 2
 0 8 0 1
+0 10 9 2
 1
 end_operator
 begin_operator
 feast satisfaction popover lemon goias guanabara
 0
 2
-0 10 9 2
 0 8 3 2
+0 10 9 2
 1
 end_operator
 begin_operator
 feast satisfaction popover lemon guanabara bavaria
 0
 2
-0 10 9 2
 0 8 1 3
+0 10 9 2
 1
 end_operator
 begin_operator
 feast satisfaction popover marzipan bavaria arizona
 0
 2
-0 10 9 3
 0 8 0 1
+0 10 9 3
 1
 end_operator
 begin_operator
 feast satisfaction popover marzipan goias guanabara
 0
 2
-0 10 9 3
 0 8 3 2
+0 10 9 3
 1
 end_operator
 begin_operator
 feast satisfaction popover marzipan guanabara bavaria
 0
 2
-0 10 9 3
 0 8 1 3
+0 10 9 3
 1
 end_operator
 begin_operator
 feast satisfaction popover pepper bavaria arizona
 0
 2
-0 10 9 8
 0 8 0 1
+0 10 9 8
 1
 end_operator
 begin_operator
 feast satisfaction popover pepper goias guanabara
 0
 2
-0 10 9 8
 0 8 3 2
+0 10 9 8
 1
 end_operator
 begin_operator
 feast satisfaction popover pepper guanabara bavaria
 0
 2
-0 10 9 8
 0 8 1 3
+0 10 9 8
 1
 end_operator
 begin_operator
 feast satisfaction snickers marzipan goias guanabara
 0
 2
-0 10 10 3
 0 3 2 1
+0 10 10 3
 1
 end_operator
 begin_operator
 feast satisfaction snickers marzipan guanabara bavaria
 0
 2
-0 10 10 3
 0 3 0 2
+0 10 10 3
 1
 end_operator
 begin_operator
 feast satisfaction snickers pea goias guanabara
 0
 2
-0 10 10 7
 0 3 2 1
+0 10 10 7
 1
 end_operator
 begin_operator
 feast satisfaction snickers pea guanabara bavaria
 0
 2
-0 10 10 7
 0 3 0 2
+0 10 10 7
 1
 end_operator
 begin_operator
 feast triumph chocolate ham goias guanabara
 0
 2
-0 13 0 1
 0 0 1 0
+0 13 0 1
 1
 end_operator
 begin_operator
 feast triumph chocolate orange goias guanabara
 0
 2
-0 13 0 6
 0 0 1 0
+0 13 0 6
 1
 end_operator
 begin_operator
 feast triumph ham chocolate arizona manitoba
 0
 2
-0 13 1 0
 0 5 4 0
+0 13 1 0
 1
 end_operator
 begin_operator
 feast triumph ham chocolate bavaria arizona
 0
 2
-0 13 1 0
 0 5 0 1
+0 13 1 0
 1
 end_operator
 begin_operator
 feast triumph ham chocolate goias guanabara
 0
 2
-0 13 1 0
 0 5 3 2
+0 13 1 0
 1
 end_operator
 begin_operator
 feast triumph ham chocolate guanabara bavaria
 0
 2
-0 13 1 0
 0 5 1 3
+0 13 1 0
 1
 end_operator
 begin_operator
 feast triumph ham melon arizona manitoba
 0
 2
-0 13 1 4
 0 5 4 0
+0 13 1 4
 1
 end_operator
 begin_operator
 feast triumph ham melon bavaria arizona
 0
 2
-0 13 1 4
 0 5 0 1
+0 13 1 4
 1
 end_operator
 begin_operator
 feast triumph ham melon goias guanabara
 0
 2
-0 13 1 4
 0 5 3 2
+0 13 1 4
 1
 end_operator
 begin_operator
 feast triumph ham melon guanabara bavaria
 0
 2
-0 13 1 4
 0 5 1 3
+0 13 1 4
 1
 end_operator
 begin_operator
 feast triumph marzipan pea goias guanabara
 0
 2
-0 13 3 7
 0 4 2 1
+0 13 3 7
 1
 end_operator
 begin_operator
 feast triumph marzipan pea guanabara bavaria
 0
 2
-0 13 3 7
 0 4 0 2
+0 13 3 7
 1
 end_operator
 begin_operator
 feast triumph marzipan popover goias guanabara
 0
 2
-0 13 3 9
 0 4 2 1
+0 13 3 9
 1
 end_operator
 begin_operator
 feast triumph marzipan popover guanabara bavaria
 0
 2
-0 13 3 9
 0 4 0 2
+0 13 3 9
 1
 end_operator
 begin_operator
 feast triumph marzipan snickers goias guanabara
 0
 2
-0 13 3 10
 0 4 2 1
+0 13 3 10
 1
 end_operator
 begin_operator
 feast triumph marzipan snickers guanabara bavaria
 0
 2
-0 13 3 10
 0 4 0 2
+0 13 3 10
 1
 end_operator
 begin_operator
 feast triumph melon ham arizona manitoba
 0
 2
-0 13 4 1
 0 11 4 0
+0 13 4 1
 1
 end_operator
 begin_operator
 feast triumph melon ham bavaria arizona
 0
 2
-0 13 4 1
 0 11 0 1
+0 13 4 1
 1
 end_operator
 begin_operator
 feast triumph melon ham goias guanabara
 0
 2
-0 13 4 1
 0 11 3 2
+0 13 4 1
 1
 end_operator
 begin_operator
 feast triumph melon ham guanabara bavaria
 0
 2
-0 13 4 1
 0 11 1 3
+0 13 4 1
 1
 end_operator
 begin_operator
 feast triumph melon mutton arizona manitoba
 0
 2
-0 13 4 5
 0 11 4 0
+0 13 4 5
 1
 end_operator
 begin_operator
 feast triumph melon mutton bavaria arizona
 0
 2
-0 13 4 5
 0 11 0 1
+0 13 4 5
 1
 end_operator
 begin_operator
 feast triumph melon mutton goias guanabara
 0
 2
-0 13 4 5
 0 11 3 2
+0 13 4 5
 1
 end_operator
 begin_operator
 feast triumph melon mutton guanabara bavaria
 0
 2
-0 13 4 5
 0 11 1 3
+0 13 4 5
 1
 end_operator
 begin_operator
 feast triumph melon pepper arizona manitoba
 0
 2
-0 13 4 8
 0 11 4 0
+0 13 4 8
 1
 end_operator
 begin_operator
 feast triumph melon pepper bavaria arizona
 0
 2
-0 13 4 8
 0 11 0 1
+0 13 4 8
 1
 end_operator
 begin_operator
 feast triumph melon pepper goias guanabara
 0
 2
-0 13 4 8
 0 11 3 2
+0 13 4 8
 1
 end_operator
 begin_operator
 feast triumph melon pepper guanabara bavaria
 0
 2
-0 13 4 8
 0 11 1 3
+0 13 4 8
 1
 end_operator
 begin_operator
 feast triumph mutton melon goias guanabara
 0
 2
-0 13 5 4
 0 1 1 0
+0 13 5 4
 1
 end_operator
 begin_operator
 feast triumph mutton orange goias guanabara
 0
 2
-0 13 5 6
 0 1 1 0
+0 13 5 6
 1
 end_operator
 begin_operator
 feast triumph orange chocolate goias guanabara
 0
 2
-0 13 6 0
 0 2 2 1
+0 13 6 0
 1
 end_operator
 begin_operator
 feast triumph orange chocolate guanabara bavaria
 0
 2
-0 13 6 0
 0 2 0 2
+0 13 6 0
 1
 end_operator
 begin_operator
 feast triumph orange mutton goias guanabara
 0
 2
-0 13 6 5
 0 2 2 1
+0 13 6 5
 1
 end_operator
 begin_operator
 feast triumph orange mutton guanabara bavaria
 0
 2
-0 13 6 5
 0 2 0 2
+0 13 6 5
 1
 end_operator
 begin_operator
 feast triumph pea lemon goias guanabara
 0
 2
-0 13 7 2
 0 6 2 1
+0 13 7 2
 1
 end_operator
 begin_operator
 feast triumph pea lemon guanabara bavaria
 0
 2
-0 13 7 2
 0 6 0 2
+0 13 7 2
 1
 end_operator
 begin_operator
 feast triumph pea marzipan goias guanabara
 0
 2
-0 13 7 3
 0 6 2 1
+0 13 7 3
 1
 end_operator
 begin_operator
 feast triumph pea marzipan guanabara bavaria
 0
 2
-0 13 7 3
 0 6 0 2
+0 13 7 3
 1
 end_operator
 begin_operator
 feast triumph pea pepper goias guanabara
 0
 2
-0 13 7 8
 0 6 2 1
+0 13 7 8
 1
 end_operator
 begin_operator
 feast triumph pea pepper guanabara bavaria
 0
 2
-0 13 7 8
 0 6 0 2
+0 13 7 8
 1
 end_operator
 begin_operator
 feast triumph pea snickers goias guanabara
 0
 2
-0 13 7 10
 0 6 2 1
+0 13 7 10
 1
 end_operator
 begin_operator
 feast triumph pea snickers guanabara bavaria
 0
 2
-0 13 7 10
 0 6 0 2
+0 13 7 10
 1
 end_operator
 begin_operator
 feast triumph pepper melon arizona manitoba
 0
 2
-0 13 8 4
 0 12 4 0
+0 13 8 4
 1
 end_operator
 begin_operator
 feast triumph pepper melon bavaria arizona
 0
 2
-0 13 8 4
 0 12 0 1
+0 13 8 4
 1
 end_operator
 begin_operator
 feast triumph pepper melon goias guanabara
 0
 2
-0 13 8 4
 0 12 3 2
+0 13 8 4
 1
 end_operator
 begin_operator
 feast triumph pepper melon guanabara bavaria
 0
 2
-0 13 8 4
 0 12 1 3
+0 13 8 4
 1
 end_operator
 begin_operator
 feast triumph pepper pea arizona manitoba
 0
 2
-0 13 8 7
 0 12 4 0
+0 13 8 7
 1
 end_operator
 begin_operator
 feast triumph pepper pea bavaria arizona
 0
 2
-0 13 8 7
 0 12 0 1
+0 13 8 7
 1
 end_operator
 begin_operator
 feast triumph pepper pea goias guanabara
 0
 2
-0 13 8 7
 0 12 3 2
+0 13 8 7
 1
 end_operator
 begin_operator
 feast triumph pepper pea guanabara bavaria
 0
 2
-0 13 8 7
 0 12 1 3
+0 13 8 7
 1
 end_operator
 begin_operator
 feast triumph pepper popover arizona manitoba
 0
 2
-0 13 8 9
 0 12 4 0
+0 13 8 9
 1
 end_operator
 begin_operator
 feast triumph pepper popover bavaria arizona
 0
 2
-0 13 8 9
 0 12 0 1
+0 13 8 9
 1
 end_operator
 begin_operator
 feast triumph pepper popover goias guanabara
 0
 2
-0 13 8 9
 0 12 3 2
+0 13 8 9
 1
 end_operator
 begin_operator
 feast triumph pepper popover guanabara bavaria
 0
 2
-0 13 8 9
 0 12 1 3
+0 13 8 9
 1
 end_operator
 begin_operator
 feast triumph popover lemon bavaria arizona
 0
 2
-0 13 9 2
 0 8 0 1
+0 13 9 2
 1
 end_operator
 begin_operator
 feast triumph popover lemon goias guanabara
 0
 2
-0 13 9 2
 0 8 3 2
+0 13 9 2
 1
 end_operator
 begin_operator
 feast triumph popover lemon guanabara bavaria
 0
 2
-0 13 9 2
 0 8 1 3
+0 13 9 2
 1
 end_operator
 begin_operator
 feast triumph popover marzipan bavaria arizona
 0
 2
-0 13 9 3
 0 8 0 1
+0 13 9 3
 1
 end_operator
 begin_operator
 feast triumph popover marzipan goias guanabara
 0
 2
-0 13 9 3
 0 8 3 2
+0 13 9 3
 1
 end_operator
 begin_operator
 feast triumph popover marzipan guanabara bavaria
 0
 2
-0 13 9 3
 0 8 1 3
+0 13 9 3
 1
 end_operator
 begin_operator
 feast triumph popover pepper bavaria arizona
 0
 2
-0 13 9 8
 0 8 0 1
+0 13 9 8
 1
 end_operator
 begin_operator
 feast triumph popover pepper goias guanabara
 0
 2
-0 13 9 8
 0 8 3 2
+0 13 9 8
 1
 end_operator
 begin_operator
 feast triumph popover pepper guanabara bavaria
 0
 2
-0 13 9 8
 0 8 1 3
+0 13 9 8
 1
 end_operator
 begin_operator
 feast triumph snickers marzipan goias guanabara
 0
 2
-0 13 10 3
 0 3 2 1
+0 13 10 3
 1
 end_operator
 begin_operator
 feast triumph snickers marzipan guanabara bavaria
 0
 2
-0 13 10 3
 0 3 0 2
+0 13 10 3
 1
 end_operator
 begin_operator
 feast triumph snickers pea goias guanabara
 0
 2
-0 13 10 7
 0 3 2 1
+0 13 10 7
 1
 end_operator
 begin_operator
 feast triumph snickers pea guanabara bavaria
 0
 2
-0 13 10 7
 0 3 0 2
+0 13 10 7
 1
 end_operator
 begin_operator
@@ -6489,8 +6489,8 @@ overcome hangover entertainment chocolate venus neptune
 1
 7 0
 2
-0 25 0 11
 0 19 0 1
+0 25 0 11
 1
 end_operator
 begin_operator
@@ -6498,8 +6498,8 @@ overcome hangover entertainment chocolate vulcan venus
 1
 7 0
 2
-0 25 0 11
 0 19 1 2
+0 25 0 11
 1
 end_operator
 begin_operator
@@ -6507,8 +6507,8 @@ overcome hangover entertainment ham venus neptune
 1
 7 1
 2
-0 25 1 11
 0 19 0 1
+0 25 1 11
 1
 end_operator
 begin_operator
@@ -6516,8 +6516,8 @@ overcome hangover entertainment ham vulcan venus
 1
 7 1
 2
-0 25 1 11
 0 19 1 2
+0 25 1 11
 1
 end_operator
 begin_operator
@@ -6525,8 +6525,8 @@ overcome hangover entertainment lemon venus neptune
 1
 7 2
 2
-0 25 2 11
 0 19 0 1
+0 25 2 11
 1
 end_operator
 begin_operator
@@ -6534,8 +6534,8 @@ overcome hangover entertainment lemon vulcan venus
 1
 7 2
 2
-0 25 2 11
 0 19 1 2
+0 25 2 11
 1
 end_operator
 begin_operator
@@ -6543,8 +6543,8 @@ overcome hangover entertainment marzipan venus neptune
 1
 7 3
 2
-0 25 3 11
 0 19 0 1
+0 25 3 11
 1
 end_operator
 begin_operator
@@ -6552,8 +6552,8 @@ overcome hangover entertainment marzipan vulcan venus
 1
 7 3
 2
-0 25 3 11
 0 19 1 2
+0 25 3 11
 1
 end_operator
 begin_operator
@@ -6561,8 +6561,8 @@ overcome hangover entertainment melon venus neptune
 1
 7 4
 2
-0 25 4 11
 0 19 0 1
+0 25 4 11
 1
 end_operator
 begin_operator
@@ -6570,8 +6570,8 @@ overcome hangover entertainment melon vulcan venus
 1
 7 4
 2
-0 25 4 11
 0 19 1 2
+0 25 4 11
 1
 end_operator
 begin_operator
@@ -6579,8 +6579,8 @@ overcome hangover entertainment mutton venus neptune
 1
 7 5
 2
-0 25 5 11
 0 19 0 1
+0 25 5 11
 1
 end_operator
 begin_operator
@@ -6588,8 +6588,8 @@ overcome hangover entertainment mutton vulcan venus
 1
 7 5
 2
-0 25 5 11
 0 19 1 2
+0 25 5 11
 1
 end_operator
 begin_operator
@@ -6597,8 +6597,8 @@ overcome hangover entertainment orange venus neptune
 1
 7 6
 2
-0 25 6 11
 0 19 0 1
+0 25 6 11
 1
 end_operator
 begin_operator
@@ -6606,8 +6606,8 @@ overcome hangover entertainment orange vulcan venus
 1
 7 6
 2
-0 25 6 11
 0 19 1 2
+0 25 6 11
 1
 end_operator
 begin_operator
@@ -6615,8 +6615,8 @@ overcome hangover entertainment pea venus neptune
 1
 7 7
 2
-0 25 7 11
 0 19 0 1
+0 25 7 11
 1
 end_operator
 begin_operator
@@ -6624,8 +6624,8 @@ overcome hangover entertainment pea vulcan venus
 1
 7 7
 2
-0 25 7 11
 0 19 1 2
+0 25 7 11
 1
 end_operator
 begin_operator
@@ -6633,8 +6633,8 @@ overcome hangover entertainment pepper venus neptune
 1
 7 8
 2
-0 25 8 11
 0 19 0 1
+0 25 8 11
 1
 end_operator
 begin_operator
@@ -6642,8 +6642,8 @@ overcome hangover entertainment pepper vulcan venus
 1
 7 8
 2
-0 25 8 11
 0 19 1 2
+0 25 8 11
 1
 end_operator
 begin_operator
@@ -6651,8 +6651,8 @@ overcome hangover entertainment popover venus neptune
 1
 7 9
 2
-0 25 9 11
 0 19 0 1
+0 25 9 11
 1
 end_operator
 begin_operator
@@ -6660,8 +6660,8 @@ overcome hangover entertainment popover vulcan venus
 1
 7 9
 2
-0 25 9 11
 0 19 1 2
+0 25 9 11
 1
 end_operator
 begin_operator
@@ -6669,8 +6669,8 @@ overcome hangover entertainment snickers venus neptune
 1
 7 10
 2
-0 25 10 11
 0 19 0 1
+0 25 10 11
 1
 end_operator
 begin_operator
@@ -6678,8 +6678,8 @@ overcome hangover entertainment snickers vulcan venus
 1
 7 10
 2
-0 25 10 11
 0 19 1 2
+0 25 10 11
 1
 end_operator
 begin_operator
@@ -6687,8 +6687,8 @@ overcome hangover love chocolate venus neptune
 1
 9 0
 2
-0 25 0 12
 0 20 0 1
+0 25 0 12
 1
 end_operator
 begin_operator
@@ -6696,8 +6696,8 @@ overcome hangover love chocolate vulcan venus
 1
 9 0
 2
-0 25 0 12
 0 20 1 2
+0 25 0 12
 1
 end_operator
 begin_operator
@@ -6705,8 +6705,8 @@ overcome hangover love ham venus neptune
 1
 9 1
 2
-0 25 1 12
 0 20 0 1
+0 25 1 12
 1
 end_operator
 begin_operator
@@ -6714,8 +6714,8 @@ overcome hangover love ham vulcan venus
 1
 9 1
 2
-0 25 1 12
 0 20 1 2
+0 25 1 12
 1
 end_operator
 begin_operator
@@ -6723,8 +6723,8 @@ overcome hangover love lemon venus neptune
 1
 9 2
 2
-0 25 2 12
 0 20 0 1
+0 25 2 12
 1
 end_operator
 begin_operator
@@ -6732,8 +6732,8 @@ overcome hangover love lemon vulcan venus
 1
 9 2
 2
-0 25 2 12
 0 20 1 2
+0 25 2 12
 1
 end_operator
 begin_operator
@@ -6741,8 +6741,8 @@ overcome hangover love marzipan venus neptune
 1
 9 3
 2
-0 25 3 12
 0 20 0 1
+0 25 3 12
 1
 end_operator
 begin_operator
@@ -6750,8 +6750,8 @@ overcome hangover love marzipan vulcan venus
 1
 9 3
 2
-0 25 3 12
 0 20 1 2
+0 25 3 12
 1
 end_operator
 begin_operator
@@ -6759,8 +6759,8 @@ overcome hangover love melon venus neptune
 1
 9 4
 2
-0 25 4 12
 0 20 0 1
+0 25 4 12
 1
 end_operator
 begin_operator
@@ -6768,8 +6768,8 @@ overcome hangover love melon vulcan venus
 1
 9 4
 2
-0 25 4 12
 0 20 1 2
+0 25 4 12
 1
 end_operator
 begin_operator
@@ -6777,8 +6777,8 @@ overcome hangover love mutton venus neptune
 1
 9 5
 2
-0 25 5 12
 0 20 0 1
+0 25 5 12
 1
 end_operator
 begin_operator
@@ -6786,8 +6786,8 @@ overcome hangover love mutton vulcan venus
 1
 9 5
 2
-0 25 5 12
 0 20 1 2
+0 25 5 12
 1
 end_operator
 begin_operator
@@ -6795,8 +6795,8 @@ overcome hangover love orange venus neptune
 1
 9 6
 2
-0 25 6 12
 0 20 0 1
+0 25 6 12
 1
 end_operator
 begin_operator
@@ -6804,8 +6804,8 @@ overcome hangover love orange vulcan venus
 1
 9 6
 2
-0 25 6 12
 0 20 1 2
+0 25 6 12
 1
 end_operator
 begin_operator
@@ -6813,8 +6813,8 @@ overcome hangover love pea venus neptune
 1
 9 7
 2
-0 25 7 12
 0 20 0 1
+0 25 7 12
 1
 end_operator
 begin_operator
@@ -6822,8 +6822,8 @@ overcome hangover love pea vulcan venus
 1
 9 7
 2
-0 25 7 12
 0 20 1 2
+0 25 7 12
 1
 end_operator
 begin_operator
@@ -6831,8 +6831,8 @@ overcome hangover love pepper venus neptune
 1
 9 8
 2
-0 25 8 12
 0 20 0 1
+0 25 8 12
 1
 end_operator
 begin_operator
@@ -6840,8 +6840,8 @@ overcome hangover love pepper vulcan venus
 1
 9 8
 2
-0 25 8 12
 0 20 1 2
+0 25 8 12
 1
 end_operator
 begin_operator
@@ -6849,8 +6849,8 @@ overcome hangover love popover venus neptune
 1
 9 9
 2
-0 25 9 12
 0 20 0 1
+0 25 9 12
 1
 end_operator
 begin_operator
@@ -6858,8 +6858,8 @@ overcome hangover love popover vulcan venus
 1
 9 9
 2
-0 25 9 12
 0 20 1 2
+0 25 9 12
 1
 end_operator
 begin_operator
@@ -6867,8 +6867,8 @@ overcome hangover love snickers venus neptune
 1
 9 10
 2
-0 25 10 12
 0 20 0 1
+0 25 10 12
 1
 end_operator
 begin_operator
@@ -6876,8 +6876,8 @@ overcome hangover love snickers vulcan venus
 1
 9 10
 2
-0 25 10 12
 0 20 1 2
+0 25 10 12
 1
 end_operator
 begin_operator
@@ -6885,8 +6885,8 @@ overcome hangover satisfaction chocolate venus neptune
 1
 10 0
 2
-0 25 0 13
 0 23 0 1
+0 25 0 13
 1
 end_operator
 begin_operator
@@ -6894,8 +6894,8 @@ overcome hangover satisfaction chocolate vulcan venus
 1
 10 0
 2
-0 25 0 13
 0 23 1 2
+0 25 0 13
 1
 end_operator
 begin_operator
@@ -6903,8 +6903,8 @@ overcome hangover satisfaction ham venus neptune
 1
 10 1
 2
-0 25 1 13
 0 23 0 1
+0 25 1 13
 1
 end_operator
 begin_operator
@@ -6912,8 +6912,8 @@ overcome hangover satisfaction ham vulcan venus
 1
 10 1
 2
-0 25 1 13
 0 23 1 2
+0 25 1 13
 1
 end_operator
 begin_operator
@@ -6921,8 +6921,8 @@ overcome hangover satisfaction lemon venus neptune
 1
 10 2
 2
-0 25 2 13
 0 23 0 1
+0 25 2 13
 1
 end_operator
 begin_operator
@@ -6930,8 +6930,8 @@ overcome hangover satisfaction lemon vulcan venus
 1
 10 2
 2
-0 25 2 13
 0 23 1 2
+0 25 2 13
 1
 end_operator
 begin_operator
@@ -6939,8 +6939,8 @@ overcome hangover satisfaction marzipan venus neptune
 1
 10 3
 2
-0 25 3 13
 0 23 0 1
+0 25 3 13
 1
 end_operator
 begin_operator
@@ -6948,8 +6948,8 @@ overcome hangover satisfaction marzipan vulcan venus
 1
 10 3
 2
-0 25 3 13
 0 23 1 2
+0 25 3 13
 1
 end_operator
 begin_operator
@@ -6957,8 +6957,8 @@ overcome hangover satisfaction melon venus neptune
 1
 10 4
 2
-0 25 4 13
 0 23 0 1
+0 25 4 13
 1
 end_operator
 begin_operator
@@ -6966,8 +6966,8 @@ overcome hangover satisfaction melon vulcan venus
 1
 10 4
 2
-0 25 4 13
 0 23 1 2
+0 25 4 13
 1
 end_operator
 begin_operator
@@ -6975,8 +6975,8 @@ overcome hangover satisfaction mutton venus neptune
 1
 10 5
 2
-0 25 5 13
 0 23 0 1
+0 25 5 13
 1
 end_operator
 begin_operator
@@ -6984,8 +6984,8 @@ overcome hangover satisfaction mutton vulcan venus
 1
 10 5
 2
-0 25 5 13
 0 23 1 2
+0 25 5 13
 1
 end_operator
 begin_operator
@@ -6993,8 +6993,8 @@ overcome hangover satisfaction orange venus neptune
 1
 10 6
 2
-0 25 6 13
 0 23 0 1
+0 25 6 13
 1
 end_operator
 begin_operator
@@ -7002,8 +7002,8 @@ overcome hangover satisfaction orange vulcan venus
 1
 10 6
 2
-0 25 6 13
 0 23 1 2
+0 25 6 13
 1
 end_operator
 begin_operator
@@ -7011,8 +7011,8 @@ overcome hangover satisfaction pea venus neptune
 1
 10 7
 2
-0 25 7 13
 0 23 0 1
+0 25 7 13
 1
 end_operator
 begin_operator
@@ -7020,8 +7020,8 @@ overcome hangover satisfaction pea vulcan venus
 1
 10 7
 2
-0 25 7 13
 0 23 1 2
+0 25 7 13
 1
 end_operator
 begin_operator
@@ -7029,8 +7029,8 @@ overcome hangover satisfaction pepper venus neptune
 1
 10 8
 2
-0 25 8 13
 0 23 0 1
+0 25 8 13
 1
 end_operator
 begin_operator
@@ -7038,8 +7038,8 @@ overcome hangover satisfaction pepper vulcan venus
 1
 10 8
 2
-0 25 8 13
 0 23 1 2
+0 25 8 13
 1
 end_operator
 begin_operator
@@ -7047,8 +7047,8 @@ overcome hangover satisfaction popover venus neptune
 1
 10 9
 2
-0 25 9 13
 0 23 0 1
+0 25 9 13
 1
 end_operator
 begin_operator
@@ -7056,8 +7056,8 @@ overcome hangover satisfaction popover vulcan venus
 1
 10 9
 2
-0 25 9 13
 0 23 1 2
+0 25 9 13
 1
 end_operator
 begin_operator
@@ -7065,8 +7065,8 @@ overcome hangover satisfaction snickers venus neptune
 1
 10 10
 2
-0 25 10 13
 0 23 0 1
+0 25 10 13
 1
 end_operator
 begin_operator
@@ -7074,8 +7074,8 @@ overcome hangover satisfaction snickers vulcan venus
 1
 10 10
 2
-0 25 10 13
 0 23 1 2
+0 25 10 13
 1
 end_operator
 begin_operator
@@ -7083,8 +7083,8 @@ overcome hangover triumph chocolate venus neptune
 1
 13 0
 2
-0 25 0 14
 0 24 0 1
+0 25 0 14
 1
 end_operator
 begin_operator
@@ -7092,8 +7092,8 @@ overcome hangover triumph chocolate vulcan venus
 1
 13 0
 2
-0 25 0 14
 0 24 1 2
+0 25 0 14
 1
 end_operator
 begin_operator
@@ -7101,8 +7101,8 @@ overcome hangover triumph ham venus neptune
 1
 13 1
 2
-0 25 1 14
 0 24 0 1
+0 25 1 14
 1
 end_operator
 begin_operator
@@ -7110,8 +7110,8 @@ overcome hangover triumph ham vulcan venus
 1
 13 1
 2
-0 25 1 14
 0 24 1 2
+0 25 1 14
 1
 end_operator
 begin_operator
@@ -7119,8 +7119,8 @@ overcome hangover triumph lemon venus neptune
 1
 13 2
 2
-0 25 2 14
 0 24 0 1
+0 25 2 14
 1
 end_operator
 begin_operator
@@ -7128,8 +7128,8 @@ overcome hangover triumph lemon vulcan venus
 1
 13 2
 2
-0 25 2 14
 0 24 1 2
+0 25 2 14
 1
 end_operator
 begin_operator
@@ -7137,8 +7137,8 @@ overcome hangover triumph marzipan venus neptune
 1
 13 3
 2
-0 25 3 14
 0 24 0 1
+0 25 3 14
 1
 end_operator
 begin_operator
@@ -7146,8 +7146,8 @@ overcome hangover triumph marzipan vulcan venus
 1
 13 3
 2
-0 25 3 14
 0 24 1 2
+0 25 3 14
 1
 end_operator
 begin_operator
@@ -7155,8 +7155,8 @@ overcome hangover triumph melon venus neptune
 1
 13 4
 2
-0 25 4 14
 0 24 0 1
+0 25 4 14
 1
 end_operator
 begin_operator
@@ -7164,8 +7164,8 @@ overcome hangover triumph melon vulcan venus
 1
 13 4
 2
-0 25 4 14
 0 24 1 2
+0 25 4 14
 1
 end_operator
 begin_operator
@@ -7173,8 +7173,8 @@ overcome hangover triumph mutton venus neptune
 1
 13 5
 2
-0 25 5 14
 0 24 0 1
+0 25 5 14
 1
 end_operator
 begin_operator
@@ -7182,8 +7182,8 @@ overcome hangover triumph mutton vulcan venus
 1
 13 5
 2
-0 25 5 14
 0 24 1 2
+0 25 5 14
 1
 end_operator
 begin_operator
@@ -7191,8 +7191,8 @@ overcome hangover triumph orange venus neptune
 1
 13 6
 2
-0 25 6 14
 0 24 0 1
+0 25 6 14
 1
 end_operator
 begin_operator
@@ -7200,8 +7200,8 @@ overcome hangover triumph orange vulcan venus
 1
 13 6
 2
-0 25 6 14
 0 24 1 2
+0 25 6 14
 1
 end_operator
 begin_operator
@@ -7209,8 +7209,8 @@ overcome hangover triumph pea venus neptune
 1
 13 7
 2
-0 25 7 14
 0 24 0 1
+0 25 7 14
 1
 end_operator
 begin_operator
@@ -7218,8 +7218,8 @@ overcome hangover triumph pea vulcan venus
 1
 13 7
 2
-0 25 7 14
 0 24 1 2
+0 25 7 14
 1
 end_operator
 begin_operator
@@ -7227,8 +7227,8 @@ overcome hangover triumph pepper venus neptune
 1
 13 8
 2
-0 25 8 14
 0 24 0 1
+0 25 8 14
 1
 end_operator
 begin_operator
@@ -7236,8 +7236,8 @@ overcome hangover triumph pepper vulcan venus
 1
 13 8
 2
-0 25 8 14
 0 24 1 2
+0 25 8 14
 1
 end_operator
 begin_operator
@@ -7245,8 +7245,8 @@ overcome hangover triumph popover venus neptune
 1
 13 9
 2
-0 25 9 14
 0 24 0 1
+0 25 9 14
 1
 end_operator
 begin_operator
@@ -7254,8 +7254,8 @@ overcome hangover triumph popover vulcan venus
 1
 13 9
 2
-0 25 9 14
 0 24 1 2
+0 25 9 14
 1
 end_operator
 begin_operator
@@ -7263,8 +7263,8 @@ overcome hangover triumph snickers venus neptune
 1
 13 10
 2
-0 25 10 14
 0 24 0 1
+0 25 10 14
 1
 end_operator
 begin_operator
@@ -7272,8 +7272,8 @@ overcome hangover triumph snickers vulcan venus
 1
 13 10
 2
-0 25 10 14
 0 24 1 2
+0 25 10 14
 1
 end_operator
 begin_operator
@@ -7281,8 +7281,8 @@ overcome jealousy entertainment chocolate venus neptune
 1
 7 0
 2
-0 21 0 11
 0 19 0 1
+0 21 0 11
 1
 end_operator
 begin_operator
@@ -7290,8 +7290,8 @@ overcome jealousy entertainment chocolate vulcan venus
 1
 7 0
 2
-0 21 0 11
 0 19 1 2
+0 21 0 11
 1
 end_operator
 begin_operator
@@ -7299,8 +7299,8 @@ overcome jealousy entertainment ham venus neptune
 1
 7 1
 2
-0 21 1 11
 0 19 0 1
+0 21 1 11
 1
 end_operator
 begin_operator
@@ -7308,8 +7308,8 @@ overcome jealousy entertainment ham vulcan venus
 1
 7 1
 2
-0 21 1 11
 0 19 1 2
+0 21 1 11
 1
 end_operator
 begin_operator
@@ -7317,8 +7317,8 @@ overcome jealousy entertainment lemon venus neptune
 1
 7 2
 2
-0 21 2 11
 0 19 0 1
+0 21 2 11
 1
 end_operator
 begin_operator
@@ -7326,8 +7326,8 @@ overcome jealousy entertainment lemon vulcan venus
 1
 7 2
 2
-0 21 2 11
 0 19 1 2
+0 21 2 11
 1
 end_operator
 begin_operator
@@ -7335,8 +7335,8 @@ overcome jealousy entertainment marzipan venus neptune
 1
 7 3
 2
-0 21 3 11
 0 19 0 1
+0 21 3 11
 1
 end_operator
 begin_operator
@@ -7344,8 +7344,8 @@ overcome jealousy entertainment marzipan vulcan venus
 1
 7 3
 2
-0 21 3 11
 0 19 1 2
+0 21 3 11
 1
 end_operator
 begin_operator
@@ -7353,8 +7353,8 @@ overcome jealousy entertainment melon venus neptune
 1
 7 4
 2
-0 21 4 11
 0 19 0 1
+0 21 4 11
 1
 end_operator
 begin_operator
@@ -7362,8 +7362,8 @@ overcome jealousy entertainment melon vulcan venus
 1
 7 4
 2
-0 21 4 11
 0 19 1 2
+0 21 4 11
 1
 end_operator
 begin_operator
@@ -7371,8 +7371,8 @@ overcome jealousy entertainment mutton venus neptune
 1
 7 5
 2
-0 21 5 11
 0 19 0 1
+0 21 5 11
 1
 end_operator
 begin_operator
@@ -7380,8 +7380,8 @@ overcome jealousy entertainment mutton vulcan venus
 1
 7 5
 2
-0 21 5 11
 0 19 1 2
+0 21 5 11
 1
 end_operator
 begin_operator
@@ -7389,8 +7389,8 @@ overcome jealousy entertainment orange venus neptune
 1
 7 6
 2
-0 21 6 11
 0 19 0 1
+0 21 6 11
 1
 end_operator
 begin_operator
@@ -7398,8 +7398,8 @@ overcome jealousy entertainment orange vulcan venus
 1
 7 6
 2
-0 21 6 11
 0 19 1 2
+0 21 6 11
 1
 end_operator
 begin_operator
@@ -7407,8 +7407,8 @@ overcome jealousy entertainment pea venus neptune
 1
 7 7
 2
-0 21 7 11
 0 19 0 1
+0 21 7 11
 1
 end_operator
 begin_operator
@@ -7416,8 +7416,8 @@ overcome jealousy entertainment pea vulcan venus
 1
 7 7
 2
-0 21 7 11
 0 19 1 2
+0 21 7 11
 1
 end_operator
 begin_operator
@@ -7425,8 +7425,8 @@ overcome jealousy entertainment pepper venus neptune
 1
 7 8
 2
-0 21 8 11
 0 19 0 1
+0 21 8 11
 1
 end_operator
 begin_operator
@@ -7434,8 +7434,8 @@ overcome jealousy entertainment pepper vulcan venus
 1
 7 8
 2
-0 21 8 11
 0 19 1 2
+0 21 8 11
 1
 end_operator
 begin_operator
@@ -7443,8 +7443,8 @@ overcome jealousy entertainment popover venus neptune
 1
 7 9
 2
-0 21 9 11
 0 19 0 1
+0 21 9 11
 1
 end_operator
 begin_operator
@@ -7452,8 +7452,8 @@ overcome jealousy entertainment popover vulcan venus
 1
 7 9
 2
-0 21 9 11
 0 19 1 2
+0 21 9 11
 1
 end_operator
 begin_operator
@@ -7461,8 +7461,8 @@ overcome jealousy entertainment snickers venus neptune
 1
 7 10
 2
-0 21 10 11
 0 19 0 1
+0 21 10 11
 1
 end_operator
 begin_operator
@@ -7470,8 +7470,8 @@ overcome jealousy entertainment snickers vulcan venus
 1
 7 10
 2
-0 21 10 11
 0 19 1 2
+0 21 10 11
 1
 end_operator
 begin_operator
@@ -7479,8 +7479,8 @@ overcome jealousy love chocolate venus neptune
 1
 9 0
 2
-0 21 0 12
 0 20 0 1
+0 21 0 12
 1
 end_operator
 begin_operator
@@ -7488,8 +7488,8 @@ overcome jealousy love chocolate vulcan venus
 1
 9 0
 2
-0 21 0 12
 0 20 1 2
+0 21 0 12
 1
 end_operator
 begin_operator
@@ -7497,8 +7497,8 @@ overcome jealousy love ham venus neptune
 1
 9 1
 2
-0 21 1 12
 0 20 0 1
+0 21 1 12
 1
 end_operator
 begin_operator
@@ -7506,8 +7506,8 @@ overcome jealousy love ham vulcan venus
 1
 9 1
 2
-0 21 1 12
 0 20 1 2
+0 21 1 12
 1
 end_operator
 begin_operator
@@ -7515,8 +7515,8 @@ overcome jealousy love lemon venus neptune
 1
 9 2
 2
-0 21 2 12
 0 20 0 1
+0 21 2 12
 1
 end_operator
 begin_operator
@@ -7524,8 +7524,8 @@ overcome jealousy love lemon vulcan venus
 1
 9 2
 2
-0 21 2 12
 0 20 1 2
+0 21 2 12
 1
 end_operator
 begin_operator
@@ -7533,8 +7533,8 @@ overcome jealousy love marzipan venus neptune
 1
 9 3
 2
-0 21 3 12
 0 20 0 1
+0 21 3 12
 1
 end_operator
 begin_operator
@@ -7542,8 +7542,8 @@ overcome jealousy love marzipan vulcan venus
 1
 9 3
 2
-0 21 3 12
 0 20 1 2
+0 21 3 12
 1
 end_operator
 begin_operator
@@ -7551,8 +7551,8 @@ overcome jealousy love melon venus neptune
 1
 9 4
 2
-0 21 4 12
 0 20 0 1
+0 21 4 12
 1
 end_operator
 begin_operator
@@ -7560,8 +7560,8 @@ overcome jealousy love melon vulcan venus
 1
 9 4
 2
-0 21 4 12
 0 20 1 2
+0 21 4 12
 1
 end_operator
 begin_operator
@@ -7569,8 +7569,8 @@ overcome jealousy love mutton venus neptune
 1
 9 5
 2
-0 21 5 12
 0 20 0 1
+0 21 5 12
 1
 end_operator
 begin_operator
@@ -7578,8 +7578,8 @@ overcome jealousy love mutton vulcan venus
 1
 9 5
 2
-0 21 5 12
 0 20 1 2
+0 21 5 12
 1
 end_operator
 begin_operator
@@ -7587,8 +7587,8 @@ overcome jealousy love orange venus neptune
 1
 9 6
 2
-0 21 6 12
 0 20 0 1
+0 21 6 12
 1
 end_operator
 begin_operator
@@ -7596,8 +7596,8 @@ overcome jealousy love orange vulcan venus
 1
 9 6
 2
-0 21 6 12
 0 20 1 2
+0 21 6 12
 1
 end_operator
 begin_operator
@@ -7605,8 +7605,8 @@ overcome jealousy love pea venus neptune
 1
 9 7
 2
-0 21 7 12
 0 20 0 1
+0 21 7 12
 1
 end_operator
 begin_operator
@@ -7614,8 +7614,8 @@ overcome jealousy love pea vulcan venus
 1
 9 7
 2
-0 21 7 12
 0 20 1 2
+0 21 7 12
 1
 end_operator
 begin_operator
@@ -7623,8 +7623,8 @@ overcome jealousy love pepper venus neptune
 1
 9 8
 2
-0 21 8 12
 0 20 0 1
+0 21 8 12
 1
 end_operator
 begin_operator
@@ -7632,8 +7632,8 @@ overcome jealousy love pepper vulcan venus
 1
 9 8
 2
-0 21 8 12
 0 20 1 2
+0 21 8 12
 1
 end_operator
 begin_operator
@@ -7641,8 +7641,8 @@ overcome jealousy love popover venus neptune
 1
 9 9
 2
-0 21 9 12
 0 20 0 1
+0 21 9 12
 1
 end_operator
 begin_operator
@@ -7650,8 +7650,8 @@ overcome jealousy love popover vulcan venus
 1
 9 9
 2
-0 21 9 12
 0 20 1 2
+0 21 9 12
 1
 end_operator
 begin_operator
@@ -7659,8 +7659,8 @@ overcome jealousy love snickers venus neptune
 1
 9 10
 2
-0 21 10 12
 0 20 0 1
+0 21 10 12
 1
 end_operator
 begin_operator
@@ -7668,8 +7668,8 @@ overcome jealousy love snickers vulcan venus
 1
 9 10
 2
-0 21 10 12
 0 20 1 2
+0 21 10 12
 1
 end_operator
 begin_operator
@@ -8073,8 +8073,8 @@ overcome laceration entertainment chocolate venus neptune
 1
 7 0
 2
-0 22 0 11
 0 19 0 1
+0 22 0 11
 1
 end_operator
 begin_operator
@@ -8082,8 +8082,8 @@ overcome laceration entertainment chocolate vulcan venus
 1
 7 0
 2
-0 22 0 11
 0 19 1 2
+0 22 0 11
 1
 end_operator
 begin_operator
@@ -8091,8 +8091,8 @@ overcome laceration entertainment ham venus neptune
 1
 7 1
 2
-0 22 1 11
 0 19 0 1
+0 22 1 11
 1
 end_operator
 begin_operator
@@ -8100,8 +8100,8 @@ overcome laceration entertainment ham vulcan venus
 1
 7 1
 2
-0 22 1 11
 0 19 1 2
+0 22 1 11
 1
 end_operator
 begin_operator
@@ -8109,8 +8109,8 @@ overcome laceration entertainment lemon venus neptune
 1
 7 2
 2
-0 22 2 11
 0 19 0 1
+0 22 2 11
 1
 end_operator
 begin_operator
@@ -8118,8 +8118,8 @@ overcome laceration entertainment lemon vulcan venus
 1
 7 2
 2
-0 22 2 11
 0 19 1 2
+0 22 2 11
 1
 end_operator
 begin_operator
@@ -8127,8 +8127,8 @@ overcome laceration entertainment marzipan venus neptune
 1
 7 3
 2
-0 22 3 11
 0 19 0 1
+0 22 3 11
 1
 end_operator
 begin_operator
@@ -8136,8 +8136,8 @@ overcome laceration entertainment marzipan vulcan venus
 1
 7 3
 2
-0 22 3 11
 0 19 1 2
+0 22 3 11
 1
 end_operator
 begin_operator
@@ -8145,8 +8145,8 @@ overcome laceration entertainment melon venus neptune
 1
 7 4
 2
-0 22 4 11
 0 19 0 1
+0 22 4 11
 1
 end_operator
 begin_operator
@@ -8154,8 +8154,8 @@ overcome laceration entertainment melon vulcan venus
 1
 7 4
 2
-0 22 4 11
 0 19 1 2
+0 22 4 11
 1
 end_operator
 begin_operator
@@ -8163,8 +8163,8 @@ overcome laceration entertainment mutton venus neptune
 1
 7 5
 2
-0 22 5 11
 0 19 0 1
+0 22 5 11
 1
 end_operator
 begin_operator
@@ -8172,8 +8172,8 @@ overcome laceration entertainment mutton vulcan venus
 1
 7 5
 2
-0 22 5 11
 0 19 1 2
+0 22 5 11
 1
 end_operator
 begin_operator
@@ -8181,8 +8181,8 @@ overcome laceration entertainment orange venus neptune
 1
 7 6
 2
-0 22 6 11
 0 19 0 1
+0 22 6 11
 1
 end_operator
 begin_operator
@@ -8190,8 +8190,8 @@ overcome laceration entertainment orange vulcan venus
 1
 7 6
 2
-0 22 6 11
 0 19 1 2
+0 22 6 11
 1
 end_operator
 begin_operator
@@ -8199,8 +8199,8 @@ overcome laceration entertainment pea venus neptune
 1
 7 7
 2
-0 22 7 11
 0 19 0 1
+0 22 7 11
 1
 end_operator
 begin_operator
@@ -8208,8 +8208,8 @@ overcome laceration entertainment pea vulcan venus
 1
 7 7
 2
-0 22 7 11
 0 19 1 2
+0 22 7 11
 1
 end_operator
 begin_operator
@@ -8217,8 +8217,8 @@ overcome laceration entertainment pepper venus neptune
 1
 7 8
 2
-0 22 8 11
 0 19 0 1
+0 22 8 11
 1
 end_operator
 begin_operator
@@ -8226,8 +8226,8 @@ overcome laceration entertainment pepper vulcan venus
 1
 7 8
 2
-0 22 8 11
 0 19 1 2
+0 22 8 11
 1
 end_operator
 begin_operator
@@ -8235,8 +8235,8 @@ overcome laceration entertainment popover venus neptune
 1
 7 9
 2
-0 22 9 11
 0 19 0 1
+0 22 9 11
 1
 end_operator
 begin_operator
@@ -8244,8 +8244,8 @@ overcome laceration entertainment popover vulcan venus
 1
 7 9
 2
-0 22 9 11
 0 19 1 2
+0 22 9 11
 1
 end_operator
 begin_operator
@@ -8253,8 +8253,8 @@ overcome laceration entertainment snickers venus neptune
 1
 7 10
 2
-0 22 10 11
 0 19 0 1
+0 22 10 11
 1
 end_operator
 begin_operator
@@ -8262,8 +8262,8 @@ overcome laceration entertainment snickers vulcan venus
 1
 7 10
 2
-0 22 10 11
 0 19 1 2
+0 22 10 11
 1
 end_operator
 begin_operator
@@ -8271,8 +8271,8 @@ overcome laceration love chocolate venus neptune
 1
 9 0
 2
-0 22 0 12
 0 20 0 1
+0 22 0 12
 1
 end_operator
 begin_operator
@@ -8280,8 +8280,8 @@ overcome laceration love chocolate vulcan venus
 1
 9 0
 2
-0 22 0 12
 0 20 1 2
+0 22 0 12
 1
 end_operator
 begin_operator
@@ -8289,8 +8289,8 @@ overcome laceration love ham venus neptune
 1
 9 1
 2
-0 22 1 12
 0 20 0 1
+0 22 1 12
 1
 end_operator
 begin_operator
@@ -8298,8 +8298,8 @@ overcome laceration love ham vulcan venus
 1
 9 1
 2
-0 22 1 12
 0 20 1 2
+0 22 1 12
 1
 end_operator
 begin_operator
@@ -8307,8 +8307,8 @@ overcome laceration love lemon venus neptune
 1
 9 2
 2
-0 22 2 12
 0 20 0 1
+0 22 2 12
 1
 end_operator
 begin_operator
@@ -8316,8 +8316,8 @@ overcome laceration love lemon vulcan venus
 1
 9 2
 2
-0 22 2 12
 0 20 1 2
+0 22 2 12
 1
 end_operator
 begin_operator
@@ -8325,8 +8325,8 @@ overcome laceration love marzipan venus neptune
 1
 9 3
 2
-0 22 3 12
 0 20 0 1
+0 22 3 12
 1
 end_operator
 begin_operator
@@ -8334,8 +8334,8 @@ overcome laceration love marzipan vulcan venus
 1
 9 3
 2
-0 22 3 12
 0 20 1 2
+0 22 3 12
 1
 end_operator
 begin_operator
@@ -8343,8 +8343,8 @@ overcome laceration love melon venus neptune
 1
 9 4
 2
-0 22 4 12
 0 20 0 1
+0 22 4 12
 1
 end_operator
 begin_operator
@@ -8352,8 +8352,8 @@ overcome laceration love melon vulcan venus
 1
 9 4
 2
-0 22 4 12
 0 20 1 2
+0 22 4 12
 1
 end_operator
 begin_operator
@@ -8361,8 +8361,8 @@ overcome laceration love mutton venus neptune
 1
 9 5
 2
-0 22 5 12
 0 20 0 1
+0 22 5 12
 1
 end_operator
 begin_operator
@@ -8370,8 +8370,8 @@ overcome laceration love mutton vulcan venus
 1
 9 5
 2
-0 22 5 12
 0 20 1 2
+0 22 5 12
 1
 end_operator
 begin_operator
@@ -8379,8 +8379,8 @@ overcome laceration love orange venus neptune
 1
 9 6
 2
-0 22 6 12
 0 20 0 1
+0 22 6 12
 1
 end_operator
 begin_operator
@@ -8388,8 +8388,8 @@ overcome laceration love orange vulcan venus
 1
 9 6
 2
-0 22 6 12
 0 20 1 2
+0 22 6 12
 1
 end_operator
 begin_operator
@@ -8397,8 +8397,8 @@ overcome laceration love pea venus neptune
 1
 9 7
 2
-0 22 7 12
 0 20 0 1
+0 22 7 12
 1
 end_operator
 begin_operator
@@ -8406,8 +8406,8 @@ overcome laceration love pea vulcan venus
 1
 9 7
 2
-0 22 7 12
 0 20 1 2
+0 22 7 12
 1
 end_operator
 begin_operator
@@ -8415,8 +8415,8 @@ overcome laceration love pepper venus neptune
 1
 9 8
 2
-0 22 8 12
 0 20 0 1
+0 22 8 12
 1
 end_operator
 begin_operator
@@ -8424,8 +8424,8 @@ overcome laceration love pepper vulcan venus
 1
 9 8
 2
-0 22 8 12
 0 20 1 2
+0 22 8 12
 1
 end_operator
 begin_operator
@@ -8433,8 +8433,8 @@ overcome laceration love popover venus neptune
 1
 9 9
 2
-0 22 9 12
 0 20 0 1
+0 22 9 12
 1
 end_operator
 begin_operator
@@ -8442,8 +8442,8 @@ overcome laceration love popover vulcan venus
 1
 9 9
 2
-0 22 9 12
 0 20 1 2
+0 22 9 12
 1
 end_operator
 begin_operator
@@ -8451,8 +8451,8 @@ overcome laceration love snickers venus neptune
 1
 9 10
 2
-0 22 10 12
 0 20 0 1
+0 22 10 12
 1
 end_operator
 begin_operator
@@ -8460,8 +8460,8 @@ overcome laceration love snickers vulcan venus
 1
 9 10
 2
-0 22 10 12
 0 20 1 2
+0 22 10 12
 1
 end_operator
 begin_operator
@@ -12825,8 +12825,8 @@ succumb hangover entertainment chocolate venus neptune
 1
 7 0
 2
-0 25 11 0
 0 19 1 0
+0 25 11 0
 1
 end_operator
 begin_operator
@@ -12834,8 +12834,8 @@ succumb hangover entertainment chocolate vulcan venus
 1
 7 0
 2
-0 25 11 0
 0 19 2 1
+0 25 11 0
 1
 end_operator
 begin_operator
@@ -12843,8 +12843,8 @@ succumb hangover entertainment ham venus neptune
 1
 7 1
 2
-0 25 11 1
 0 19 1 0
+0 25 11 1
 1
 end_operator
 begin_operator
@@ -12852,8 +12852,8 @@ succumb hangover entertainment ham vulcan venus
 1
 7 1
 2
-0 25 11 1
 0 19 2 1
+0 25 11 1
 1
 end_operator
 begin_operator
@@ -12861,8 +12861,8 @@ succumb hangover entertainment lemon venus neptune
 1
 7 2
 2
-0 25 11 2
 0 19 1 0
+0 25 11 2
 1
 end_operator
 begin_operator
@@ -12870,8 +12870,8 @@ succumb hangover entertainment lemon vulcan venus
 1
 7 2
 2
-0 25 11 2
 0 19 2 1
+0 25 11 2
 1
 end_operator
 begin_operator
@@ -12879,8 +12879,8 @@ succumb hangover entertainment marzipan venus neptune
 1
 7 3
 2
-0 25 11 3
 0 19 1 0
+0 25 11 3
 1
 end_operator
 begin_operator
@@ -12888,8 +12888,8 @@ succumb hangover entertainment marzipan vulcan venus
 1
 7 3
 2
-0 25 11 3
 0 19 2 1
+0 25 11 3
 1
 end_operator
 begin_operator
@@ -12897,8 +12897,8 @@ succumb hangover entertainment melon venus neptune
 1
 7 4
 2
-0 25 11 4
 0 19 1 0
+0 25 11 4
 1
 end_operator
 begin_operator
@@ -12906,8 +12906,8 @@ succumb hangover entertainment melon vulcan venus
 1
 7 4
 2
-0 25 11 4
 0 19 2 1
+0 25 11 4
 1
 end_operator
 begin_operator
@@ -12915,8 +12915,8 @@ succumb hangover entertainment mutton venus neptune
 1
 7 5
 2
-0 25 11 5
 0 19 1 0
+0 25 11 5
 1
 end_operator
 begin_operator
@@ -12924,8 +12924,8 @@ succumb hangover entertainment mutton vulcan venus
 1
 7 5
 2
-0 25 11 5
 0 19 2 1
+0 25 11 5
 1
 end_operator
 begin_operator
@@ -12933,8 +12933,8 @@ succumb hangover entertainment orange venus neptune
 1
 7 6
 2
-0 25 11 6
 0 19 1 0
+0 25 11 6
 1
 end_operator
 begin_operator
@@ -12942,8 +12942,8 @@ succumb hangover entertainment orange vulcan venus
 1
 7 6
 2
-0 25 11 6
 0 19 2 1
+0 25 11 6
 1
 end_operator
 begin_operator
@@ -12951,8 +12951,8 @@ succumb hangover entertainment pea venus neptune
 1
 7 7
 2
-0 25 11 7
 0 19 1 0
+0 25 11 7
 1
 end_operator
 begin_operator
@@ -12960,8 +12960,8 @@ succumb hangover entertainment pea vulcan venus
 1
 7 7
 2
-0 25 11 7
 0 19 2 1
+0 25 11 7
 1
 end_operator
 begin_operator
@@ -12969,8 +12969,8 @@ succumb hangover entertainment pepper venus neptune
 1
 7 8
 2
-0 25 11 8
 0 19 1 0
+0 25 11 8
 1
 end_operator
 begin_operator
@@ -12978,8 +12978,8 @@ succumb hangover entertainment pepper vulcan venus
 1
 7 8
 2
-0 25 11 8
 0 19 2 1
+0 25 11 8
 1
 end_operator
 begin_operator
@@ -12987,8 +12987,8 @@ succumb hangover entertainment popover venus neptune
 1
 7 9
 2
-0 25 11 9
 0 19 1 0
+0 25 11 9
 1
 end_operator
 begin_operator
@@ -12996,8 +12996,8 @@ succumb hangover entertainment popover vulcan venus
 1
 7 9
 2
-0 25 11 9
 0 19 2 1
+0 25 11 9
 1
 end_operator
 begin_operator
@@ -13005,8 +13005,8 @@ succumb hangover entertainment snickers venus neptune
 1
 7 10
 2
-0 25 11 10
 0 19 1 0
+0 25 11 10
 1
 end_operator
 begin_operator
@@ -13014,8 +13014,8 @@ succumb hangover entertainment snickers vulcan venus
 1
 7 10
 2
-0 25 11 10
 0 19 2 1
+0 25 11 10
 1
 end_operator
 begin_operator
@@ -13023,8 +13023,8 @@ succumb hangover love chocolate venus neptune
 1
 9 0
 2
-0 25 12 0
 0 20 1 0
+0 25 12 0
 1
 end_operator
 begin_operator
@@ -13032,8 +13032,8 @@ succumb hangover love chocolate vulcan venus
 1
 9 0
 2
-0 25 12 0
 0 20 2 1
+0 25 12 0
 1
 end_operator
 begin_operator
@@ -13041,8 +13041,8 @@ succumb hangover love ham venus neptune
 1
 9 1
 2
-0 25 12 1
 0 20 1 0
+0 25 12 1
 1
 end_operator
 begin_operator
@@ -13050,8 +13050,8 @@ succumb hangover love ham vulcan venus
 1
 9 1
 2
-0 25 12 1
 0 20 2 1
+0 25 12 1
 1
 end_operator
 begin_operator
@@ -13059,8 +13059,8 @@ succumb hangover love lemon venus neptune
 1
 9 2
 2
-0 25 12 2
 0 20 1 0
+0 25 12 2
 1
 end_operator
 begin_operator
@@ -13068,8 +13068,8 @@ succumb hangover love lemon vulcan venus
 1
 9 2
 2
-0 25 12 2
 0 20 2 1
+0 25 12 2
 1
 end_operator
 begin_operator
@@ -13077,8 +13077,8 @@ succumb hangover love marzipan venus neptune
 1
 9 3
 2
-0 25 12 3
 0 20 1 0
+0 25 12 3
 1
 end_operator
 begin_operator
@@ -13086,8 +13086,8 @@ succumb hangover love marzipan vulcan venus
 1
 9 3
 2
-0 25 12 3
 0 20 2 1
+0 25 12 3
 1
 end_operator
 begin_operator
@@ -13095,8 +13095,8 @@ succumb hangover love melon venus neptune
 1
 9 4
 2
-0 25 12 4
 0 20 1 0
+0 25 12 4
 1
 end_operator
 begin_operator
@@ -13104,8 +13104,8 @@ succumb hangover love melon vulcan venus
 1
 9 4
 2
-0 25 12 4
 0 20 2 1
+0 25 12 4
 1
 end_operator
 begin_operator
@@ -13113,8 +13113,8 @@ succumb hangover love mutton venus neptune
 1
 9 5
 2
-0 25 12 5
 0 20 1 0
+0 25 12 5
 1
 end_operator
 begin_operator
@@ -13122,8 +13122,8 @@ succumb hangover love mutton vulcan venus
 1
 9 5
 2
-0 25 12 5
 0 20 2 1
+0 25 12 5
 1
 end_operator
 begin_operator
@@ -13131,8 +13131,8 @@ succumb hangover love orange venus neptune
 1
 9 6
 2
-0 25 12 6
 0 20 1 0
+0 25 12 6
 1
 end_operator
 begin_operator
@@ -13140,8 +13140,8 @@ succumb hangover love orange vulcan venus
 1
 9 6
 2
-0 25 12 6
 0 20 2 1
+0 25 12 6
 1
 end_operator
 begin_operator
@@ -13149,8 +13149,8 @@ succumb hangover love pea venus neptune
 1
 9 7
 2
-0 25 12 7
 0 20 1 0
+0 25 12 7
 1
 end_operator
 begin_operator
@@ -13158,8 +13158,8 @@ succumb hangover love pea vulcan venus
 1
 9 7
 2
-0 25 12 7
 0 20 2 1
+0 25 12 7
 1
 end_operator
 begin_operator
@@ -13167,8 +13167,8 @@ succumb hangover love pepper venus neptune
 1
 9 8
 2
-0 25 12 8
 0 20 1 0
+0 25 12 8
 1
 end_operator
 begin_operator
@@ -13176,8 +13176,8 @@ succumb hangover love pepper vulcan venus
 1
 9 8
 2
-0 25 12 8
 0 20 2 1
+0 25 12 8
 1
 end_operator
 begin_operator
@@ -13185,8 +13185,8 @@ succumb hangover love popover venus neptune
 1
 9 9
 2
-0 25 12 9
 0 20 1 0
+0 25 12 9
 1
 end_operator
 begin_operator
@@ -13194,8 +13194,8 @@ succumb hangover love popover vulcan venus
 1
 9 9
 2
-0 25 12 9
 0 20 2 1
+0 25 12 9
 1
 end_operator
 begin_operator
@@ -13203,8 +13203,8 @@ succumb hangover love snickers venus neptune
 1
 9 10
 2
-0 25 12 10
 0 20 1 0
+0 25 12 10
 1
 end_operator
 begin_operator
@@ -13212,8 +13212,8 @@ succumb hangover love snickers vulcan venus
 1
 9 10
 2
-0 25 12 10
 0 20 2 1
+0 25 12 10
 1
 end_operator
 begin_operator
@@ -13221,8 +13221,8 @@ succumb hangover satisfaction chocolate venus neptune
 1
 10 0
 2
-0 25 13 0
 0 23 1 0
+0 25 13 0
 1
 end_operator
 begin_operator
@@ -13230,8 +13230,8 @@ succumb hangover satisfaction chocolate vulcan venus
 1
 10 0
 2
-0 25 13 0
 0 23 2 1
+0 25 13 0
 1
 end_operator
 begin_operator
@@ -13239,8 +13239,8 @@ succumb hangover satisfaction ham venus neptune
 1
 10 1
 2
-0 25 13 1
 0 23 1 0
+0 25 13 1
 1
 end_operator
 begin_operator
@@ -13248,8 +13248,8 @@ succumb hangover satisfaction ham vulcan venus
 1
 10 1
 2
-0 25 13 1
 0 23 2 1
+0 25 13 1
 1
 end_operator
 begin_operator
@@ -13257,8 +13257,8 @@ succumb hangover satisfaction lemon venus neptune
 1
 10 2
 2
-0 25 13 2
 0 23 1 0
+0 25 13 2
 1
 end_operator
 begin_operator
@@ -13266,8 +13266,8 @@ succumb hangover satisfaction lemon vulcan venus
 1
 10 2
 2
-0 25 13 2
 0 23 2 1
+0 25 13 2
 1
 end_operator
 begin_operator
@@ -13275,8 +13275,8 @@ succumb hangover satisfaction marzipan venus neptune
 1
 10 3
 2
-0 25 13 3
 0 23 1 0
+0 25 13 3
 1
 end_operator
 begin_operator
@@ -13284,8 +13284,8 @@ succumb hangover satisfaction marzipan vulcan venus
 1
 10 3
 2
-0 25 13 3
 0 23 2 1
+0 25 13 3
 1
 end_operator
 begin_operator
@@ -13293,8 +13293,8 @@ succumb hangover satisfaction melon venus neptune
 1
 10 4
 2
-0 25 13 4
 0 23 1 0
+0 25 13 4
 1
 end_operator
 begin_operator
@@ -13302,8 +13302,8 @@ succumb hangover satisfaction melon vulcan venus
 1
 10 4
 2
-0 25 13 4
 0 23 2 1
+0 25 13 4
 1
 end_operator
 begin_operator
@@ -13311,8 +13311,8 @@ succumb hangover satisfaction mutton venus neptune
 1
 10 5
 2
-0 25 13 5
 0 23 1 0
+0 25 13 5
 1
 end_operator
 begin_operator
@@ -13320,8 +13320,8 @@ succumb hangover satisfaction mutton vulcan venus
 1
 10 5
 2
-0 25 13 5
 0 23 2 1
+0 25 13 5
 1
 end_operator
 begin_operator
@@ -13329,8 +13329,8 @@ succumb hangover satisfaction orange venus neptune
 1
 10 6
 2
-0 25 13 6
 0 23 1 0
+0 25 13 6
 1
 end_operator
 begin_operator
@@ -13338,8 +13338,8 @@ succumb hangover satisfaction orange vulcan venus
 1
 10 6
 2
-0 25 13 6
 0 23 2 1
+0 25 13 6
 1
 end_operator
 begin_operator
@@ -13347,8 +13347,8 @@ succumb hangover satisfaction pea venus neptune
 1
 10 7
 2
-0 25 13 7
 0 23 1 0
+0 25 13 7
 1
 end_operator
 begin_operator
@@ -13356,8 +13356,8 @@ succumb hangover satisfaction pea vulcan venus
 1
 10 7
 2
-0 25 13 7
 0 23 2 1
+0 25 13 7
 1
 end_operator
 begin_operator
@@ -13365,8 +13365,8 @@ succumb hangover satisfaction pepper venus neptune
 1
 10 8
 2
-0 25 13 8
 0 23 1 0
+0 25 13 8
 1
 end_operator
 begin_operator
@@ -13374,8 +13374,8 @@ succumb hangover satisfaction pepper vulcan venus
 1
 10 8
 2
-0 25 13 8
 0 23 2 1
+0 25 13 8
 1
 end_operator
 begin_operator
@@ -13383,8 +13383,8 @@ succumb hangover satisfaction popover venus neptune
 1
 10 9
 2
-0 25 13 9
 0 23 1 0
+0 25 13 9
 1
 end_operator
 begin_operator
@@ -13392,8 +13392,8 @@ succumb hangover satisfaction popover vulcan venus
 1
 10 9
 2
-0 25 13 9
 0 23 2 1
+0 25 13 9
 1
 end_operator
 begin_operator
@@ -13401,8 +13401,8 @@ succumb hangover satisfaction snickers venus neptune
 1
 10 10
 2
-0 25 13 10
 0 23 1 0
+0 25 13 10
 1
 end_operator
 begin_operator
@@ -13410,8 +13410,8 @@ succumb hangover satisfaction snickers vulcan venus
 1
 10 10
 2
-0 25 13 10
 0 23 2 1
+0 25 13 10
 1
 end_operator
 begin_operator
@@ -13419,8 +13419,8 @@ succumb hangover triumph chocolate venus neptune
 1
 13 0
 2
-0 25 14 0
 0 24 1 0
+0 25 14 0
 1
 end_operator
 begin_operator
@@ -13428,8 +13428,8 @@ succumb hangover triumph chocolate vulcan venus
 1
 13 0
 2
-0 25 14 0
 0 24 2 1
+0 25 14 0
 1
 end_operator
 begin_operator
@@ -13437,8 +13437,8 @@ succumb hangover triumph ham venus neptune
 1
 13 1
 2
-0 25 14 1
 0 24 1 0
+0 25 14 1
 1
 end_operator
 begin_operator
@@ -13446,8 +13446,8 @@ succumb hangover triumph ham vulcan venus
 1
 13 1
 2
-0 25 14 1
 0 24 2 1
+0 25 14 1
 1
 end_operator
 begin_operator
@@ -13455,8 +13455,8 @@ succumb hangover triumph lemon venus neptune
 1
 13 2
 2
-0 25 14 2
 0 24 1 0
+0 25 14 2
 1
 end_operator
 begin_operator
@@ -13464,8 +13464,8 @@ succumb hangover triumph lemon vulcan venus
 1
 13 2
 2
-0 25 14 2
 0 24 2 1
+0 25 14 2
 1
 end_operator
 begin_operator
@@ -13473,8 +13473,8 @@ succumb hangover triumph marzipan venus neptune
 1
 13 3
 2
-0 25 14 3
 0 24 1 0
+0 25 14 3
 1
 end_operator
 begin_operator
@@ -13482,8 +13482,8 @@ succumb hangover triumph marzipan vulcan venus
 1
 13 3
 2
-0 25 14 3
 0 24 2 1
+0 25 14 3
 1
 end_operator
 begin_operator
@@ -13491,8 +13491,8 @@ succumb hangover triumph melon venus neptune
 1
 13 4
 2
-0 25 14 4
 0 24 1 0
+0 25 14 4
 1
 end_operator
 begin_operator
@@ -13500,8 +13500,8 @@ succumb hangover triumph melon vulcan venus
 1
 13 4
 2
-0 25 14 4
 0 24 2 1
+0 25 14 4
 1
 end_operator
 begin_operator
@@ -13509,8 +13509,8 @@ succumb hangover triumph mutton venus neptune
 1
 13 5
 2
-0 25 14 5
 0 24 1 0
+0 25 14 5
 1
 end_operator
 begin_operator
@@ -13518,8 +13518,8 @@ succumb hangover triumph mutton vulcan venus
 1
 13 5
 2
-0 25 14 5
 0 24 2 1
+0 25 14 5
 1
 end_operator
 begin_operator
@@ -13527,8 +13527,8 @@ succumb hangover triumph orange venus neptune
 1
 13 6
 2
-0 25 14 6
 0 24 1 0
+0 25 14 6
 1
 end_operator
 begin_operator
@@ -13536,8 +13536,8 @@ succumb hangover triumph orange vulcan venus
 1
 13 6
 2
-0 25 14 6
 0 24 2 1
+0 25 14 6
 1
 end_operator
 begin_operator
@@ -13545,8 +13545,8 @@ succumb hangover triumph pea venus neptune
 1
 13 7
 2
-0 25 14 7
 0 24 1 0
+0 25 14 7
 1
 end_operator
 begin_operator
@@ -13554,8 +13554,8 @@ succumb hangover triumph pea vulcan venus
 1
 13 7
 2
-0 25 14 7
 0 24 2 1
+0 25 14 7
 1
 end_operator
 begin_operator
@@ -13563,8 +13563,8 @@ succumb hangover triumph pepper venus neptune
 1
 13 8
 2
-0 25 14 8
 0 24 1 0
+0 25 14 8
 1
 end_operator
 begin_operator
@@ -13572,8 +13572,8 @@ succumb hangover triumph pepper vulcan venus
 1
 13 8
 2
-0 25 14 8
 0 24 2 1
+0 25 14 8
 1
 end_operator
 begin_operator
@@ -13581,8 +13581,8 @@ succumb hangover triumph popover venus neptune
 1
 13 9
 2
-0 25 14 9
 0 24 1 0
+0 25 14 9
 1
 end_operator
 begin_operator
@@ -13590,8 +13590,8 @@ succumb hangover triumph popover vulcan venus
 1
 13 9
 2
-0 25 14 9
 0 24 2 1
+0 25 14 9
 1
 end_operator
 begin_operator
@@ -13599,8 +13599,8 @@ succumb hangover triumph snickers venus neptune
 1
 13 10
 2
-0 25 14 10
 0 24 1 0
+0 25 14 10
 1
 end_operator
 begin_operator
@@ -13608,8 +13608,8 @@ succumb hangover triumph snickers vulcan venus
 1
 13 10
 2
-0 25 14 10
 0 24 2 1
+0 25 14 10
 1
 end_operator
 begin_operator
@@ -13617,8 +13617,8 @@ succumb jealousy entertainment chocolate venus neptune
 1
 7 0
 2
-0 21 11 0
 0 19 1 0
+0 21 11 0
 1
 end_operator
 begin_operator
@@ -13626,8 +13626,8 @@ succumb jealousy entertainment chocolate vulcan venus
 1
 7 0
 2
-0 21 11 0
 0 19 2 1
+0 21 11 0
 1
 end_operator
 begin_operator
@@ -13635,8 +13635,8 @@ succumb jealousy entertainment ham venus neptune
 1
 7 1
 2
-0 21 11 1
 0 19 1 0
+0 21 11 1
 1
 end_operator
 begin_operator
@@ -13644,8 +13644,8 @@ succumb jealousy entertainment ham vulcan venus
 1
 7 1
 2
-0 21 11 1
 0 19 2 1
+0 21 11 1
 1
 end_operator
 begin_operator
@@ -13653,8 +13653,8 @@ succumb jealousy entertainment lemon venus neptune
 1
 7 2
 2
-0 21 11 2
 0 19 1 0
+0 21 11 2
 1
 end_operator
 begin_operator
@@ -13662,8 +13662,8 @@ succumb jealousy entertainment lemon vulcan venus
 1
 7 2
 2
-0 21 11 2
 0 19 2 1
+0 21 11 2
 1
 end_operator
 begin_operator
@@ -13671,8 +13671,8 @@ succumb jealousy entertainment marzipan venus neptune
 1
 7 3
 2
-0 21 11 3
 0 19 1 0
+0 21 11 3
 1
 end_operator
 begin_operator
@@ -13680,8 +13680,8 @@ succumb jealousy entertainment marzipan vulcan venus
 1
 7 3
 2
-0 21 11 3
 0 19 2 1
+0 21 11 3
 1
 end_operator
 begin_operator
@@ -13689,8 +13689,8 @@ succumb jealousy entertainment melon venus neptune
 1
 7 4
 2
-0 21 11 4
 0 19 1 0
+0 21 11 4
 1
 end_operator
 begin_operator
@@ -13698,8 +13698,8 @@ succumb jealousy entertainment melon vulcan venus
 1
 7 4
 2
-0 21 11 4
 0 19 2 1
+0 21 11 4
 1
 end_operator
 begin_operator
@@ -13707,8 +13707,8 @@ succumb jealousy entertainment mutton venus neptune
 1
 7 5
 2
-0 21 11 5
 0 19 1 0
+0 21 11 5
 1
 end_operator
 begin_operator
@@ -13716,8 +13716,8 @@ succumb jealousy entertainment mutton vulcan venus
 1
 7 5
 2
-0 21 11 5
 0 19 2 1
+0 21 11 5
 1
 end_operator
 begin_operator
@@ -13725,8 +13725,8 @@ succumb jealousy entertainment orange venus neptune
 1
 7 6
 2
-0 21 11 6
 0 19 1 0
+0 21 11 6
 1
 end_operator
 begin_operator
@@ -13734,8 +13734,8 @@ succumb jealousy entertainment orange vulcan venus
 1
 7 6
 2
-0 21 11 6
 0 19 2 1
+0 21 11 6
 1
 end_operator
 begin_operator
@@ -13743,8 +13743,8 @@ succumb jealousy entertainment pea venus neptune
 1
 7 7
 2
-0 21 11 7
 0 19 1 0
+0 21 11 7
 1
 end_operator
 begin_operator
@@ -13752,8 +13752,8 @@ succumb jealousy entertainment pea vulcan venus
 1
 7 7
 2
-0 21 11 7
 0 19 2 1
+0 21 11 7
 1
 end_operator
 begin_operator
@@ -13761,8 +13761,8 @@ succumb jealousy entertainment pepper venus neptune
 1
 7 8
 2
-0 21 11 8
 0 19 1 0
+0 21 11 8
 1
 end_operator
 begin_operator
@@ -13770,8 +13770,8 @@ succumb jealousy entertainment pepper vulcan venus
 1
 7 8
 2
-0 21 11 8
 0 19 2 1
+0 21 11 8
 1
 end_operator
 begin_operator
@@ -13779,8 +13779,8 @@ succumb jealousy entertainment popover venus neptune
 1
 7 9
 2
-0 21 11 9
 0 19 1 0
+0 21 11 9
 1
 end_operator
 begin_operator
@@ -13788,8 +13788,8 @@ succumb jealousy entertainment popover vulcan venus
 1
 7 9
 2
-0 21 11 9
 0 19 2 1
+0 21 11 9
 1
 end_operator
 begin_operator
@@ -13797,8 +13797,8 @@ succumb jealousy entertainment snickers venus neptune
 1
 7 10
 2
-0 21 11 10
 0 19 1 0
+0 21 11 10
 1
 end_operator
 begin_operator
@@ -13806,8 +13806,8 @@ succumb jealousy entertainment snickers vulcan venus
 1
 7 10
 2
-0 21 11 10
 0 19 2 1
+0 21 11 10
 1
 end_operator
 begin_operator
@@ -13815,8 +13815,8 @@ succumb jealousy love chocolate venus neptune
 1
 9 0
 2
-0 21 12 0
 0 20 1 0
+0 21 12 0
 1
 end_operator
 begin_operator
@@ -13824,8 +13824,8 @@ succumb jealousy love chocolate vulcan venus
 1
 9 0
 2
-0 21 12 0
 0 20 2 1
+0 21 12 0
 1
 end_operator
 begin_operator
@@ -13833,8 +13833,8 @@ succumb jealousy love ham venus neptune
 1
 9 1
 2
-0 21 12 1
 0 20 1 0
+0 21 12 1
 1
 end_operator
 begin_operator
@@ -13842,8 +13842,8 @@ succumb jealousy love ham vulcan venus
 1
 9 1
 2
-0 21 12 1
 0 20 2 1
+0 21 12 1
 1
 end_operator
 begin_operator
@@ -13851,8 +13851,8 @@ succumb jealousy love lemon venus neptune
 1
 9 2
 2
-0 21 12 2
 0 20 1 0
+0 21 12 2
 1
 end_operator
 begin_operator
@@ -13860,8 +13860,8 @@ succumb jealousy love lemon vulcan venus
 1
 9 2
 2
-0 21 12 2
 0 20 2 1
+0 21 12 2
 1
 end_operator
 begin_operator
@@ -13869,8 +13869,8 @@ succumb jealousy love marzipan venus neptune
 1
 9 3
 2
-0 21 12 3
 0 20 1 0
+0 21 12 3
 1
 end_operator
 begin_operator
@@ -13878,8 +13878,8 @@ succumb jealousy love marzipan vulcan venus
 1
 9 3
 2
-0 21 12 3
 0 20 2 1
+0 21 12 3
 1
 end_operator
 begin_operator
@@ -13887,8 +13887,8 @@ succumb jealousy love melon venus neptune
 1
 9 4
 2
-0 21 12 4
 0 20 1 0
+0 21 12 4
 1
 end_operator
 begin_operator
@@ -13896,8 +13896,8 @@ succumb jealousy love melon vulcan venus
 1
 9 4
 2
-0 21 12 4
 0 20 2 1
+0 21 12 4
 1
 end_operator
 begin_operator
@@ -13905,8 +13905,8 @@ succumb jealousy love mutton venus neptune
 1
 9 5
 2
-0 21 12 5
 0 20 1 0
+0 21 12 5
 1
 end_operator
 begin_operator
@@ -13914,8 +13914,8 @@ succumb jealousy love mutton vulcan venus
 1
 9 5
 2
-0 21 12 5
 0 20 2 1
+0 21 12 5
 1
 end_operator
 begin_operator
@@ -13923,8 +13923,8 @@ succumb jealousy love orange venus neptune
 1
 9 6
 2
-0 21 12 6
 0 20 1 0
+0 21 12 6
 1
 end_operator
 begin_operator
@@ -13932,8 +13932,8 @@ succumb jealousy love orange vulcan venus
 1
 9 6
 2
-0 21 12 6
 0 20 2 1
+0 21 12 6
 1
 end_operator
 begin_operator
@@ -13941,8 +13941,8 @@ succumb jealousy love pea venus neptune
 1
 9 7
 2
-0 21 12 7
 0 20 1 0
+0 21 12 7
 1
 end_operator
 begin_operator
@@ -13950,8 +13950,8 @@ succumb jealousy love pea vulcan venus
 1
 9 7
 2
-0 21 12 7
 0 20 2 1
+0 21 12 7
 1
 end_operator
 begin_operator
@@ -13959,8 +13959,8 @@ succumb jealousy love pepper venus neptune
 1
 9 8
 2
-0 21 12 8
 0 20 1 0
+0 21 12 8
 1
 end_operator
 begin_operator
@@ -13968,8 +13968,8 @@ succumb jealousy love pepper vulcan venus
 1
 9 8
 2
-0 21 12 8
 0 20 2 1
+0 21 12 8
 1
 end_operator
 begin_operator
@@ -13977,8 +13977,8 @@ succumb jealousy love popover venus neptune
 1
 9 9
 2
-0 21 12 9
 0 20 1 0
+0 21 12 9
 1
 end_operator
 begin_operator
@@ -13986,8 +13986,8 @@ succumb jealousy love popover vulcan venus
 1
 9 9
 2
-0 21 12 9
 0 20 2 1
+0 21 12 9
 1
 end_operator
 begin_operator
@@ -13995,8 +13995,8 @@ succumb jealousy love snickers venus neptune
 1
 9 10
 2
-0 21 12 10
 0 20 1 0
+0 21 12 10
 1
 end_operator
 begin_operator
@@ -14004,8 +14004,8 @@ succumb jealousy love snickers vulcan venus
 1
 9 10
 2
-0 21 12 10
 0 20 2 1
+0 21 12 10
 1
 end_operator
 begin_operator
@@ -14409,8 +14409,8 @@ succumb laceration entertainment chocolate venus neptune
 1
 7 0
 2
-0 22 11 0
 0 19 1 0
+0 22 11 0
 1
 end_operator
 begin_operator
@@ -14418,8 +14418,8 @@ succumb laceration entertainment chocolate vulcan venus
 1
 7 0
 2
-0 22 11 0
 0 19 2 1
+0 22 11 0
 1
 end_operator
 begin_operator
@@ -14427,8 +14427,8 @@ succumb laceration entertainment ham venus neptune
 1
 7 1
 2
-0 22 11 1
 0 19 1 0
+0 22 11 1
 1
 end_operator
 begin_operator
@@ -14436,8 +14436,8 @@ succumb laceration entertainment ham vulcan venus
 1
 7 1
 2
-0 22 11 1
 0 19 2 1
+0 22 11 1
 1
 end_operator
 begin_operator
@@ -14445,8 +14445,8 @@ succumb laceration entertainment lemon venus neptune
 1
 7 2
 2
-0 22 11 2
 0 19 1 0
+0 22 11 2
 1
 end_operator
 begin_operator
@@ -14454,8 +14454,8 @@ succumb laceration entertainment lemon vulcan venus
 1
 7 2
 2
-0 22 11 2
 0 19 2 1
+0 22 11 2
 1
 end_operator
 begin_operator
@@ -14463,8 +14463,8 @@ succumb laceration entertainment marzipan venus neptune
 1
 7 3
 2
-0 22 11 3
 0 19 1 0
+0 22 11 3
 1
 end_operator
 begin_operator
@@ -14472,8 +14472,8 @@ succumb laceration entertainment marzipan vulcan venus
 1
 7 3
 2
-0 22 11 3
 0 19 2 1
+0 22 11 3
 1
 end_operator
 begin_operator
@@ -14481,8 +14481,8 @@ succumb laceration entertainment melon venus neptune
 1
 7 4
 2
-0 22 11 4
 0 19 1 0
+0 22 11 4
 1
 end_operator
 begin_operator
@@ -14490,8 +14490,8 @@ succumb laceration entertainment melon vulcan venus
 1
 7 4
 2
-0 22 11 4
 0 19 2 1
+0 22 11 4
 1
 end_operator
 begin_operator
@@ -14499,8 +14499,8 @@ succumb laceration entertainment mutton venus neptune
 1
 7 5
 2
-0 22 11 5
 0 19 1 0
+0 22 11 5
 1
 end_operator
 begin_operator
@@ -14508,8 +14508,8 @@ succumb laceration entertainment mutton vulcan venus
 1
 7 5
 2
-0 22 11 5
 0 19 2 1
+0 22 11 5
 1
 end_operator
 begin_operator
@@ -14517,8 +14517,8 @@ succumb laceration entertainment orange venus neptune
 1
 7 6
 2
-0 22 11 6
 0 19 1 0
+0 22 11 6
 1
 end_operator
 begin_operator
@@ -14526,8 +14526,8 @@ succumb laceration entertainment orange vulcan venus
 1
 7 6
 2
-0 22 11 6
 0 19 2 1
+0 22 11 6
 1
 end_operator
 begin_operator
@@ -14535,8 +14535,8 @@ succumb laceration entertainment pea venus neptune
 1
 7 7
 2
-0 22 11 7
 0 19 1 0
+0 22 11 7
 1
 end_operator
 begin_operator
@@ -14544,8 +14544,8 @@ succumb laceration entertainment pea vulcan venus
 1
 7 7
 2
-0 22 11 7
 0 19 2 1
+0 22 11 7
 1
 end_operator
 begin_operator
@@ -14553,8 +14553,8 @@ succumb laceration entertainment pepper venus neptune
 1
 7 8
 2
-0 22 11 8
 0 19 1 0
+0 22 11 8
 1
 end_operator
 begin_operator
@@ -14562,8 +14562,8 @@ succumb laceration entertainment pepper vulcan venus
 1
 7 8
 2
-0 22 11 8
 0 19 2 1
+0 22 11 8
 1
 end_operator
 begin_operator
@@ -14571,8 +14571,8 @@ succumb laceration entertainment popover venus neptune
 1
 7 9
 2
-0 22 11 9
 0 19 1 0
+0 22 11 9
 1
 end_operator
 begin_operator
@@ -14580,8 +14580,8 @@ succumb laceration entertainment popover vulcan venus
 1
 7 9
 2
-0 22 11 9
 0 19 2 1
+0 22 11 9
 1
 end_operator
 begin_operator
@@ -14589,8 +14589,8 @@ succumb laceration entertainment snickers venus neptune
 1
 7 10
 2
-0 22 11 10
 0 19 1 0
+0 22 11 10
 1
 end_operator
 begin_operator
@@ -14598,8 +14598,8 @@ succumb laceration entertainment snickers vulcan venus
 1
 7 10
 2
-0 22 11 10
 0 19 2 1
+0 22 11 10
 1
 end_operator
 begin_operator
@@ -14607,8 +14607,8 @@ succumb laceration love chocolate venus neptune
 1
 9 0
 2
-0 22 12 0
 0 20 1 0
+0 22 12 0
 1
 end_operator
 begin_operator
@@ -14616,8 +14616,8 @@ succumb laceration love chocolate vulcan venus
 1
 9 0
 2
-0 22 12 0
 0 20 2 1
+0 22 12 0
 1
 end_operator
 begin_operator
@@ -14625,8 +14625,8 @@ succumb laceration love ham venus neptune
 1
 9 1
 2
-0 22 12 1
 0 20 1 0
+0 22 12 1
 1
 end_operator
 begin_operator
@@ -14634,8 +14634,8 @@ succumb laceration love ham vulcan venus
 1
 9 1
 2
-0 22 12 1
 0 20 2 1
+0 22 12 1
 1
 end_operator
 begin_operator
@@ -14643,8 +14643,8 @@ succumb laceration love lemon venus neptune
 1
 9 2
 2
-0 22 12 2
 0 20 1 0
+0 22 12 2
 1
 end_operator
 begin_operator
@@ -14652,8 +14652,8 @@ succumb laceration love lemon vulcan venus
 1
 9 2
 2
-0 22 12 2
 0 20 2 1
+0 22 12 2
 1
 end_operator
 begin_operator
@@ -14661,8 +14661,8 @@ succumb laceration love marzipan venus neptune
 1
 9 3
 2
-0 22 12 3
 0 20 1 0
+0 22 12 3
 1
 end_operator
 begin_operator
@@ -14670,8 +14670,8 @@ succumb laceration love marzipan vulcan venus
 1
 9 3
 2
-0 22 12 3
 0 20 2 1
+0 22 12 3
 1
 end_operator
 begin_operator
@@ -14679,8 +14679,8 @@ succumb laceration love melon venus neptune
 1
 9 4
 2
-0 22 12 4
 0 20 1 0
+0 22 12 4
 1
 end_operator
 begin_operator
@@ -14688,8 +14688,8 @@ succumb laceration love melon vulcan venus
 1
 9 4
 2
-0 22 12 4
 0 20 2 1
+0 22 12 4
 1
 end_operator
 begin_operator
@@ -14697,8 +14697,8 @@ succumb laceration love mutton venus neptune
 1
 9 5
 2
-0 22 12 5
 0 20 1 0
+0 22 12 5
 1
 end_operator
 begin_operator
@@ -14706,8 +14706,8 @@ succumb laceration love mutton vulcan venus
 1
 9 5
 2
-0 22 12 5
 0 20 2 1
+0 22 12 5
 1
 end_operator
 begin_operator
@@ -14715,8 +14715,8 @@ succumb laceration love orange venus neptune
 1
 9 6
 2
-0 22 12 6
 0 20 1 0
+0 22 12 6
 1
 end_operator
 begin_operator
@@ -14724,8 +14724,8 @@ succumb laceration love orange vulcan venus
 1
 9 6
 2
-0 22 12 6
 0 20 2 1
+0 22 12 6
 1
 end_operator
 begin_operator
@@ -14733,8 +14733,8 @@ succumb laceration love pea venus neptune
 1
 9 7
 2
-0 22 12 7
 0 20 1 0
+0 22 12 7
 1
 end_operator
 begin_operator
@@ -14742,8 +14742,8 @@ succumb laceration love pea vulcan venus
 1
 9 7
 2
-0 22 12 7
 0 20 2 1
+0 22 12 7
 1
 end_operator
 begin_operator
@@ -14751,8 +14751,8 @@ succumb laceration love pepper venus neptune
 1
 9 8
 2
-0 22 12 8
 0 20 1 0
+0 22 12 8
 1
 end_operator
 begin_operator
@@ -14760,8 +14760,8 @@ succumb laceration love pepper vulcan venus
 1
 9 8
 2
-0 22 12 8
 0 20 2 1
+0 22 12 8
 1
 end_operator
 begin_operator
@@ -14769,8 +14769,8 @@ succumb laceration love popover venus neptune
 1
 9 9
 2
-0 22 12 9
 0 20 1 0
+0 22 12 9
 1
 end_operator
 begin_operator
@@ -14778,8 +14778,8 @@ succumb laceration love popover vulcan venus
 1
 9 9
 2
-0 22 12 9
 0 20 2 1
+0 22 12 9
 1
 end_operator
 begin_operator
@@ -14787,8 +14787,8 @@ succumb laceration love snickers venus neptune
 1
 9 10
 2
-0 22 12 10
 0 20 1 0
+0 22 12 10
 1
 end_operator
 begin_operator
@@ -14796,8 +14796,8 @@ succumb laceration love snickers vulcan venus
 1
 9 10
 2
-0 22 12 10
 0 20 2 1
+0 22 12 10
 1
 end_operator
 begin_operator

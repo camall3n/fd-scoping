@@ -1101,1088 +1101,1088 @@ begin_operator
 feast curiosity chocolate apple alsace goias
 0
 2
-0 13 1 0
 0 8 2 0
+0 13 1 0
 1
 end_operator
 begin_operator
 feast curiosity chocolate apple arizona alsace
 0
 2
-0 13 1 0
 0 8 0 1
+0 13 1 0
 1
 end_operator
 begin_operator
 feast curiosity chocolate apple goias manitoba
 0
 2
-0 13 1 0
 0 8 3 2
+0 13 1 0
 1
 end_operator
 begin_operator
 feast curiosity chocolate apple surrey arizona
 0
 2
-0 13 1 0
 0 8 1 4
+0 13 1 0
 1
 end_operator
 begin_operator
 feast curiosity chocolate pepper alsace goias
 0
 2
-0 13 1 5
 0 8 2 0
+0 13 1 5
 1
 end_operator
 begin_operator
 feast curiosity chocolate pepper arizona alsace
 0
 2
-0 13 1 5
 0 8 0 1
+0 13 1 5
 1
 end_operator
 begin_operator
 feast curiosity chocolate pepper goias manitoba
 0
 2
-0 13 1 5
 0 8 3 2
+0 13 1 5
 1
 end_operator
 begin_operator
 feast curiosity chocolate pepper surrey arizona
 0
 2
-0 13 1 5
 0 8 1 4
+0 13 1 5
 1
 end_operator
 begin_operator
 feast curiosity melon muffin alsace goias
 0
 2
-0 13 2 3
 0 10 4 0
+0 13 2 3
 1
 end_operator
 begin_operator
 feast curiosity melon muffin arizona alsace
 0
 2
-0 13 2 3
 0 10 0 1
+0 13 2 3
 1
 end_operator
 begin_operator
 feast curiosity melon muffin bosnia oregon
 0
 2
-0 13 2 3
 0 10 8 3
+0 13 2 3
 1
 end_operator
 begin_operator
 feast curiosity melon muffin goias manitoba
 0
 2
-0 13 2 3
 0 10 6 4
+0 13 2 3
 1
 end_operator
 begin_operator
 feast curiosity melon muffin guanabara bavaria
 0
 2
-0 13 2 3
 0 10 2 5
+0 13 2 3
 1
 end_operator
 begin_operator
 feast curiosity melon muffin manitoba bosnia
 0
 2
-0 13 2 3
 0 10 3 6
+0 13 2 3
 1
 end_operator
 begin_operator
 feast curiosity melon muffin moravia guanabara
 0
 2
-0 13 2 3
 0 10 5 7
+0 13 2 3
 1
 end_operator
 begin_operator
 feast curiosity melon muffin oregon moravia
 0
 2
-0 13 2 3
 0 10 7 8
+0 13 2 3
 1
 end_operator
 begin_operator
 feast curiosity melon muffin surrey arizona
 0
 2
-0 13 2 3
 0 10 1 9
+0 13 2 3
 1
 end_operator
 begin_operator
 feast curiosity melon pepper alsace goias
 0
 2
-0 13 2 5
 0 10 4 0
+0 13 2 5
 1
 end_operator
 begin_operator
 feast curiosity melon pepper arizona alsace
 0
 2
-0 13 2 5
 0 10 0 1
+0 13 2 5
 1
 end_operator
 begin_operator
 feast curiosity melon pepper bosnia oregon
 0
 2
-0 13 2 5
 0 10 8 3
+0 13 2 5
 1
 end_operator
 begin_operator
 feast curiosity melon pepper goias manitoba
 0
 2
-0 13 2 5
 0 10 6 4
+0 13 2 5
 1
 end_operator
 begin_operator
 feast curiosity melon pepper guanabara bavaria
 0
 2
-0 13 2 5
 0 10 2 5
+0 13 2 5
 1
 end_operator
 begin_operator
 feast curiosity melon pepper manitoba bosnia
 0
 2
-0 13 2 5
 0 10 3 6
+0 13 2 5
 1
 end_operator
 begin_operator
 feast curiosity melon pepper moravia guanabara
 0
 2
-0 13 2 5
 0 10 5 7
+0 13 2 5
 1
 end_operator
 begin_operator
 feast curiosity melon pepper oregon moravia
 0
 2
-0 13 2 5
 0 10 7 8
+0 13 2 5
 1
 end_operator
 begin_operator
 feast curiosity melon pepper surrey arizona
 0
 2
-0 13 2 5
 0 10 1 9
+0 13 2 5
 1
 end_operator
 begin_operator
 feast curiosity melon potato alsace goias
 0
 2
-0 13 2 6
 0 10 4 0
+0 13 2 6
 1
 end_operator
 begin_operator
 feast curiosity melon potato arizona alsace
 0
 2
-0 13 2 6
 0 10 0 1
+0 13 2 6
 1
 end_operator
 begin_operator
 feast curiosity melon potato bosnia oregon
 0
 2
-0 13 2 6
 0 10 8 3
+0 13 2 6
 1
 end_operator
 begin_operator
 feast curiosity melon potato goias manitoba
 0
 2
-0 13 2 6
 0 10 6 4
+0 13 2 6
 1
 end_operator
 begin_operator
 feast curiosity melon potato guanabara bavaria
 0
 2
-0 13 2 6
 0 10 2 5
+0 13 2 6
 1
 end_operator
 begin_operator
 feast curiosity melon potato manitoba bosnia
 0
 2
-0 13 2 6
 0 10 3 6
+0 13 2 6
 1
 end_operator
 begin_operator
 feast curiosity melon potato moravia guanabara
 0
 2
-0 13 2 6
 0 10 5 7
+0 13 2 6
 1
 end_operator
 begin_operator
 feast curiosity melon potato oregon moravia
 0
 2
-0 13 2 6
 0 10 7 8
+0 13 2 6
 1
 end_operator
 begin_operator
 feast curiosity melon potato surrey arizona
 0
 2
-0 13 2 6
 0 10 1 9
+0 13 2 6
 1
 end_operator
 begin_operator
 feast curiosity muffin apple alsace goias
 0
 2
-0 13 3 0
 0 9 2 0
+0 13 3 0
 1
 end_operator
 begin_operator
 feast curiosity muffin apple arizona alsace
 0
 2
-0 13 3 0
 0 9 0 1
+0 13 3 0
 1
 end_operator
 begin_operator
 feast curiosity muffin apple surrey arizona
 0
 2
-0 13 3 0
 0 9 1 3
+0 13 3 0
 1
 end_operator
 begin_operator
 feast curiosity muffin melon alsace goias
 0
 2
-0 13 3 2
 0 9 2 0
+0 13 3 2
 1
 end_operator
 begin_operator
 feast curiosity muffin melon arizona alsace
 0
 2
-0 13 3 2
 0 9 0 1
+0 13 3 2
 1
 end_operator
 begin_operator
 feast curiosity muffin melon surrey arizona
 0
 2
-0 13 3 2
 0 9 1 3
+0 13 3 2
 1
 end_operator
 begin_operator
 feast curiosity muffin tofu alsace goias
 0
 2
-0 13 3 8
 0 9 2 0
+0 13 3 8
 1
 end_operator
 begin_operator
 feast curiosity muffin tofu arizona alsace
 0
 2
-0 13 3 8
 0 9 0 1
+0 13 3 8
 1
 end_operator
 begin_operator
 feast curiosity muffin tofu surrey arizona
 0
 2
-0 13 3 8
 0 9 1 3
+0 13 3 8
 1
 end_operator
 begin_operator
 feast curiosity orange shrimp alsace goias
 0
 2
-0 13 4 7
 0 7 2 0
+0 13 4 7
 1
 end_operator
 begin_operator
 feast curiosity orange shrimp arizona alsace
 0
 2
-0 13 4 7
 0 7 0 1
+0 13 4 7
 1
 end_operator
 begin_operator
 feast curiosity orange shrimp surrey arizona
 0
 2
-0 13 4 7
 0 7 1 3
+0 13 4 7
 1
 end_operator
 begin_operator
 feast curiosity orange wurst alsace goias
 0
 2
-0 13 4 9
 0 7 2 0
+0 13 4 9
 1
 end_operator
 begin_operator
 feast curiosity orange wurst arizona alsace
 0
 2
-0 13 4 9
 0 7 0 1
+0 13 4 9
 1
 end_operator
 begin_operator
 feast curiosity orange wurst surrey arizona
 0
 2
-0 13 4 9
 0 7 1 3
+0 13 4 9
 1
 end_operator
 begin_operator
 feast curiosity pepper chocolate alsace goias
 0
 2
-0 13 5 1
 0 11 4 0
+0 13 5 1
 1
 end_operator
 begin_operator
 feast curiosity pepper chocolate arizona alsace
 0
 2
-0 13 5 1
 0 11 0 1
+0 13 5 1
 1
 end_operator
 begin_operator
 feast curiosity pepper chocolate bosnia oregon
 0
 2
-0 13 5 1
 0 11 8 3
+0 13 5 1
 1
 end_operator
 begin_operator
 feast curiosity pepper chocolate goias manitoba
 0
 2
-0 13 5 1
 0 11 6 4
+0 13 5 1
 1
 end_operator
 begin_operator
 feast curiosity pepper chocolate guanabara bavaria
 0
 2
-0 13 5 1
 0 11 2 5
+0 13 5 1
 1
 end_operator
 begin_operator
 feast curiosity pepper chocolate manitoba bosnia
 0
 2
-0 13 5 1
 0 11 3 6
+0 13 5 1
 1
 end_operator
 begin_operator
 feast curiosity pepper chocolate moravia guanabara
 0
 2
-0 13 5 1
 0 11 5 7
+0 13 5 1
 1
 end_operator
 begin_operator
 feast curiosity pepper chocolate oregon moravia
 0
 2
-0 13 5 1
 0 11 7 8
+0 13 5 1
 1
 end_operator
 begin_operator
 feast curiosity pepper chocolate surrey arizona
 0
 2
-0 13 5 1
 0 11 1 9
+0 13 5 1
 1
 end_operator
 begin_operator
 feast curiosity pepper melon alsace goias
 0
 2
-0 13 5 2
 0 11 4 0
+0 13 5 2
 1
 end_operator
 begin_operator
 feast curiosity pepper melon arizona alsace
 0
 2
-0 13 5 2
 0 11 0 1
+0 13 5 2
 1
 end_operator
 begin_operator
 feast curiosity pepper melon bosnia oregon
 0
 2
-0 13 5 2
 0 11 8 3
+0 13 5 2
 1
 end_operator
 begin_operator
 feast curiosity pepper melon goias manitoba
 0
 2
-0 13 5 2
 0 11 6 4
+0 13 5 2
 1
 end_operator
 begin_operator
 feast curiosity pepper melon guanabara bavaria
 0
 2
-0 13 5 2
 0 11 2 5
+0 13 5 2
 1
 end_operator
 begin_operator
 feast curiosity pepper melon manitoba bosnia
 0
 2
-0 13 5 2
 0 11 3 6
+0 13 5 2
 1
 end_operator
 begin_operator
 feast curiosity pepper melon moravia guanabara
 0
 2
-0 13 5 2
 0 11 5 7
+0 13 5 2
 1
 end_operator
 begin_operator
 feast curiosity pepper melon oregon moravia
 0
 2
-0 13 5 2
 0 11 7 8
+0 13 5 2
 1
 end_operator
 begin_operator
 feast curiosity pepper melon surrey arizona
 0
 2
-0 13 5 2
 0 11 1 9
+0 13 5 2
 1
 end_operator
 begin_operator
 feast curiosity pepper potato alsace goias
 0
 2
-0 13 5 6
 0 11 4 0
+0 13 5 6
 1
 end_operator
 begin_operator
 feast curiosity pepper potato arizona alsace
 0
 2
-0 13 5 6
 0 11 0 1
+0 13 5 6
 1
 end_operator
 begin_operator
 feast curiosity pepper potato bosnia oregon
 0
 2
-0 13 5 6
 0 11 8 3
+0 13 5 6
 1
 end_operator
 begin_operator
 feast curiosity pepper potato goias manitoba
 0
 2
-0 13 5 6
 0 11 6 4
+0 13 5 6
 1
 end_operator
 begin_operator
 feast curiosity pepper potato guanabara bavaria
 0
 2
-0 13 5 6
 0 11 2 5
+0 13 5 6
 1
 end_operator
 begin_operator
 feast curiosity pepper potato manitoba bosnia
 0
 2
-0 13 5 6
 0 11 3 6
+0 13 5 6
 1
 end_operator
 begin_operator
 feast curiosity pepper potato moravia guanabara
 0
 2
-0 13 5 6
 0 11 5 7
+0 13 5 6
 1
 end_operator
 begin_operator
 feast curiosity pepper potato oregon moravia
 0
 2
-0 13 5 6
 0 11 7 8
+0 13 5 6
 1
 end_operator
 begin_operator
 feast curiosity pepper potato surrey arizona
 0
 2
-0 13 5 6
 0 11 1 9
+0 13 5 6
 1
 end_operator
 begin_operator
 feast curiosity potato melon alsace goias
 0
 2
-0 13 6 2
 0 12 4 0
+0 13 6 2
 1
 end_operator
 begin_operator
 feast curiosity potato melon arizona alsace
 0
 2
-0 13 6 2
 0 12 0 1
+0 13 6 2
 1
 end_operator
 begin_operator
 feast curiosity potato melon bosnia oregon
 0
 2
-0 13 6 2
 0 12 8 3
+0 13 6 2
 1
 end_operator
 begin_operator
 feast curiosity potato melon goias manitoba
 0
 2
-0 13 6 2
 0 12 6 4
+0 13 6 2
 1
 end_operator
 begin_operator
 feast curiosity potato melon guanabara bavaria
 0
 2
-0 13 6 2
 0 12 2 5
+0 13 6 2
 1
 end_operator
 begin_operator
 feast curiosity potato melon manitoba bosnia
 0
 2
-0 13 6 2
 0 12 3 6
+0 13 6 2
 1
 end_operator
 begin_operator
 feast curiosity potato melon moravia guanabara
 0
 2
-0 13 6 2
 0 12 5 7
+0 13 6 2
 1
 end_operator
 begin_operator
 feast curiosity potato melon oregon moravia
 0
 2
-0 13 6 2
 0 12 7 8
+0 13 6 2
 1
 end_operator
 begin_operator
 feast curiosity potato melon surrey arizona
 0
 2
-0 13 6 2
 0 12 1 9
+0 13 6 2
 1
 end_operator
 begin_operator
 feast curiosity potato pepper alsace goias
 0
 2
-0 13 6 5
 0 12 4 0
+0 13 6 5
 1
 end_operator
 begin_operator
 feast curiosity potato pepper arizona alsace
 0
 2
-0 13 6 5
 0 12 0 1
+0 13 6 5
 1
 end_operator
 begin_operator
 feast curiosity potato pepper bosnia oregon
 0
 2
-0 13 6 5
 0 12 8 3
+0 13 6 5
 1
 end_operator
 begin_operator
 feast curiosity potato pepper goias manitoba
 0
 2
-0 13 6 5
 0 12 6 4
+0 13 6 5
 1
 end_operator
 begin_operator
 feast curiosity potato pepper guanabara bavaria
 0
 2
-0 13 6 5
 0 12 2 5
+0 13 6 5
 1
 end_operator
 begin_operator
 feast curiosity potato pepper manitoba bosnia
 0
 2
-0 13 6 5
 0 12 3 6
+0 13 6 5
 1
 end_operator
 begin_operator
 feast curiosity potato pepper moravia guanabara
 0
 2
-0 13 6 5
 0 12 5 7
+0 13 6 5
 1
 end_operator
 begin_operator
 feast curiosity potato pepper oregon moravia
 0
 2
-0 13 6 5
 0 12 7 8
+0 13 6 5
 1
 end_operator
 begin_operator
 feast curiosity potato pepper surrey arizona
 0
 2
-0 13 6 5
 0 12 1 9
+0 13 6 5
 1
 end_operator
 begin_operator
 feast curiosity potato wurst alsace goias
 0
 2
-0 13 6 9
 0 12 4 0
+0 13 6 9
 1
 end_operator
 begin_operator
 feast curiosity potato wurst arizona alsace
 0
 2
-0 13 6 9
 0 12 0 1
+0 13 6 9
 1
 end_operator
 begin_operator
 feast curiosity potato wurst bosnia oregon
 0
 2
-0 13 6 9
 0 12 8 3
+0 13 6 9
 1
 end_operator
 begin_operator
 feast curiosity potato wurst goias manitoba
 0
 2
-0 13 6 9
 0 12 6 4
+0 13 6 9
 1
 end_operator
 begin_operator
 feast curiosity potato wurst guanabara bavaria
 0
 2
-0 13 6 9
 0 12 2 5
+0 13 6 9
 1
 end_operator
 begin_operator
 feast curiosity potato wurst manitoba bosnia
 0
 2
-0 13 6 9
 0 12 3 6
+0 13 6 9
 1
 end_operator
 begin_operator
 feast curiosity potato wurst moravia guanabara
 0
 2
-0 13 6 9
 0 12 5 7
+0 13 6 9
 1
 end_operator
 begin_operator
 feast curiosity potato wurst oregon moravia
 0
 2
-0 13 6 9
 0 12 7 8
+0 13 6 9
 1
 end_operator
 begin_operator
 feast curiosity potato wurst surrey arizona
 0
 2
-0 13 6 9
 0 12 1 9
+0 13 6 9
 1
 end_operator
 begin_operator
 feast curiosity shrimp apple surrey arizona
 0
 2
-0 13 7 0
 0 5 0 1
+0 13 7 0
 1
 end_operator
 begin_operator
 feast curiosity shrimp orange surrey arizona
 0
 2
-0 13 7 4
 0 5 0 1
+0 13 7 4
 1
 end_operator
 begin_operator
 feast curiosity wurst orange surrey arizona
 0
 2
-0 13 9 4
 0 6 0 1
+0 13 9 4
 1
 end_operator
 begin_operator
 feast curiosity wurst potato surrey arizona
 0
 2
-0 13 9 6
 0 6 0 1
+0 13 9 6
 1
 end_operator
 begin_operator
 feast satiety bacon lettuce alsace goias
 0
 2
-0 4 0 3
 0 3 3 0
+0 4 0 3
 1
 end_operator
 begin_operator
 feast satiety bacon lettuce arizona alsace
 0
 2
-0 4 0 3
 0 3 0 1
+0 4 0 3
 1
 end_operator
 begin_operator
 feast satiety bacon lettuce goias manitoba
 0
 2
-0 4 0 3
 0 3 4 3
+0 4 0 3
 1
 end_operator
 begin_operator
 feast satiety bacon lettuce manitoba bosnia
 0
 2
-0 4 0 3
 0 3 2 4
+0 4 0 3
 1
 end_operator
 begin_operator
 feast satiety bacon lettuce surrey arizona
 0
 2
-0 4 0 3
 0 3 1 5
+0 4 0 3
 1
 end_operator
 begin_operator
 feast satiety bacon turkey alsace goias
 0
 2
-0 4 0 5
 0 3 3 0
+0 4 0 5
 1
 end_operator
 begin_operator
 feast satiety bacon turkey arizona alsace
 0
 2
-0 4 0 5
 0 3 0 1
+0 4 0 5
 1
 end_operator
 begin_operator
 feast satiety bacon turkey goias manitoba
 0
 2
-0 4 0 5
 0 3 4 3
+0 4 0 5
 1
 end_operator
 begin_operator
 feast satiety bacon turkey manitoba bosnia
 0
 2
-0 4 0 5
 0 3 2 4
+0 4 0 5
 1
 end_operator
 begin_operator
 feast satiety bacon turkey surrey arizona
 0
 2
-0 4 0 5
 0 3 1 5
+0 4 0 5
 1
 end_operator
 begin_operator
 feast satiety chicken cherry arizona alsace
 0
 2
-0 4 2 1
 0 1 0 1
+0 4 2 1
 1
 end_operator
 begin_operator
 feast satiety chicken cherry surrey arizona
 0
 2
-0 4 2 1
 0 1 1 2
+0 4 2 1
 1
 end_operator
 begin_operator
 feast satiety chicken tofu arizona alsace
 0
 2
-0 4 2 4
 0 1 0 1
+0 4 2 4
 1
 end_operator
 begin_operator
 feast satiety chicken tofu surrey arizona
 0
 2
-0 4 2 4
 0 1 1 2
+0 4 2 4
 1
 end_operator
 begin_operator
 feast satiety chicken turkey arizona alsace
 0
 2
-0 4 2 5
 0 1 0 1
+0 4 2 5
 1
 end_operator
 begin_operator
 feast satiety chicken turkey surrey arizona
 0
 2
-0 4 2 5
 0 1 1 2
+0 4 2 5
 1
 end_operator
 begin_operator
 feast satiety lettuce bacon alsace goias
 0
 2
-0 4 3 0
 0 2 2 0
+0 4 3 0
 1
 end_operator
 begin_operator
 feast satiety lettuce bacon arizona alsace
 0
 2
-0 4 3 0
 0 2 0 1
+0 4 3 0
 1
 end_operator
 begin_operator
 feast satiety lettuce bacon goias manitoba
 0
 2
-0 4 3 0
 0 2 3 2
+0 4 3 0
 1
 end_operator
 begin_operator
 feast satiety lettuce bacon surrey arizona
 0
 2
-0 4 3 0
 0 2 1 4
+0 4 3 0
 1
 end_operator
 begin_operator
 feast satiety lettuce cherry alsace goias
 0
 2
-0 4 3 1
 0 2 2 0
+0 4 3 1
 1
 end_operator
 begin_operator
 feast satiety lettuce cherry arizona alsace
 0
 2
-0 4 3 1
 0 2 0 1
+0 4 3 1
 1
 end_operator
 begin_operator
 feast satiety lettuce cherry goias manitoba
 0
 2
-0 4 3 1
 0 2 3 2
+0 4 3 1
 1
 end_operator
 begin_operator
 feast satiety lettuce cherry surrey arizona
 0
 2
-0 4 3 1
 0 2 1 4
+0 4 3 1
 1
 end_operator
 begin_operator
 feast satiety turkey bacon arizona alsace
 0
 2
-0 4 5 0
 0 0 0 1
+0 4 5 0
 1
 end_operator
 begin_operator
 feast satiety turkey bacon surrey arizona
 0
 2
-0 4 5 0
 0 0 1 2
+0 4 5 0
 1
 end_operator
 begin_operator
 feast satiety turkey chicken arizona alsace
 0
 2
-0 4 5 2
 0 0 0 1
+0 4 5 2
 1
 end_operator
 begin_operator
 feast satiety turkey chicken surrey arizona
 0
 2
-0 4 5 2
 0 0 1 2
+0 4 5 2
 1
 end_operator
 begin_operator
@@ -4013,24 +4013,24 @@ begin_operator
 overcome anger-12 achievement cherry saturn earth
 0
 2
-0 51 2 15
 0 35 0 1
+0 51 2 15
 1
 end_operator
 begin_operator
 overcome anger-12 achievement cherry uranus saturn
 0
 2
-0 51 2 15
 0 35 1 2
+0 51 2 15
 1
 end_operator
 begin_operator
 overcome anger-12 achievement cherry vulcan uranus
 0
 2
-0 51 2 15
 0 35 2 3
+0 51 2 15
 1
 end_operator
 begin_operator
@@ -4038,8 +4038,8 @@ overcome anger-12 curiosity apple saturn earth
 1
 13 0
 2
-0 51 0 16
 0 50 0 1
+0 51 0 16
 1
 end_operator
 begin_operator
@@ -4047,8 +4047,8 @@ overcome anger-12 curiosity apple uranus saturn
 1
 13 0
 2
-0 51 0 16
 0 50 1 2
+0 51 0 16
 1
 end_operator
 begin_operator
@@ -4056,8 +4056,8 @@ overcome anger-12 curiosity apple vulcan uranus
 1
 13 0
 2
-0 51 0 16
 0 50 2 3
+0 51 0 16
 1
 end_operator
 begin_operator
@@ -4065,8 +4065,8 @@ overcome anger-12 curiosity chocolate saturn earth
 1
 13 1
 2
-0 51 4 16
 0 50 0 1
+0 51 4 16
 1
 end_operator
 begin_operator
@@ -4074,8 +4074,8 @@ overcome anger-12 curiosity chocolate uranus saturn
 1
 13 1
 2
-0 51 4 16
 0 50 1 2
+0 51 4 16
 1
 end_operator
 begin_operator
@@ -4083,8 +4083,8 @@ overcome anger-12 curiosity chocolate vulcan uranus
 1
 13 1
 2
-0 51 4 16
 0 50 2 3
+0 51 4 16
 1
 end_operator
 begin_operator
@@ -4092,8 +4092,8 @@ overcome anger-12 curiosity melon saturn earth
 1
 13 2
 2
-0 51 6 16
 0 50 0 1
+0 51 6 16
 1
 end_operator
 begin_operator
@@ -4101,8 +4101,8 @@ overcome anger-12 curiosity melon uranus saturn
 1
 13 2
 2
-0 51 6 16
 0 50 1 2
+0 51 6 16
 1
 end_operator
 begin_operator
@@ -4110,8 +4110,8 @@ overcome anger-12 curiosity melon vulcan uranus
 1
 13 2
 2
-0 51 6 16
 0 50 2 3
+0 51 6 16
 1
 end_operator
 begin_operator
@@ -4119,8 +4119,8 @@ overcome anger-12 curiosity muffin saturn earth
 1
 13 3
 2
-0 51 7 16
 0 50 0 1
+0 51 7 16
 1
 end_operator
 begin_operator
@@ -4128,8 +4128,8 @@ overcome anger-12 curiosity muffin uranus saturn
 1
 13 3
 2
-0 51 7 16
 0 50 1 2
+0 51 7 16
 1
 end_operator
 begin_operator
@@ -4137,8 +4137,8 @@ overcome anger-12 curiosity muffin vulcan uranus
 1
 13 3
 2
-0 51 7 16
 0 50 2 3
+0 51 7 16
 1
 end_operator
 begin_operator
@@ -4146,8 +4146,8 @@ overcome anger-12 curiosity orange saturn earth
 1
 13 4
 2
-0 51 8 16
 0 50 0 1
+0 51 8 16
 1
 end_operator
 begin_operator
@@ -4155,8 +4155,8 @@ overcome anger-12 curiosity orange uranus saturn
 1
 13 4
 2
-0 51 8 16
 0 50 1 2
+0 51 8 16
 1
 end_operator
 begin_operator
@@ -4164,8 +4164,8 @@ overcome anger-12 curiosity orange vulcan uranus
 1
 13 4
 2
-0 51 8 16
 0 50 2 3
+0 51 8 16
 1
 end_operator
 begin_operator
@@ -4173,8 +4173,8 @@ overcome anger-12 curiosity pepper saturn earth
 1
 13 5
 2
-0 51 9 16
 0 50 0 1
+0 51 9 16
 1
 end_operator
 begin_operator
@@ -4182,8 +4182,8 @@ overcome anger-12 curiosity pepper uranus saturn
 1
 13 5
 2
-0 51 9 16
 0 50 1 2
+0 51 9 16
 1
 end_operator
 begin_operator
@@ -4191,8 +4191,8 @@ overcome anger-12 curiosity pepper vulcan uranus
 1
 13 5
 2
-0 51 9 16
 0 50 2 3
+0 51 9 16
 1
 end_operator
 begin_operator
@@ -4200,8 +4200,8 @@ overcome anger-12 curiosity potato saturn earth
 1
 13 6
 2
-0 51 10 16
 0 50 0 1
+0 51 10 16
 1
 end_operator
 begin_operator
@@ -4209,8 +4209,8 @@ overcome anger-12 curiosity potato uranus saturn
 1
 13 6
 2
-0 51 10 16
 0 50 1 2
+0 51 10 16
 1
 end_operator
 begin_operator
@@ -4218,8 +4218,8 @@ overcome anger-12 curiosity potato vulcan uranus
 1
 13 6
 2
-0 51 10 16
 0 50 2 3
+0 51 10 16
 1
 end_operator
 begin_operator
@@ -4227,8 +4227,8 @@ overcome anger-12 curiosity shrimp saturn earth
 1
 13 7
 2
-0 51 11 16
 0 50 0 1
+0 51 11 16
 1
 end_operator
 begin_operator
@@ -4236,8 +4236,8 @@ overcome anger-12 curiosity shrimp uranus saturn
 1
 13 7
 2
-0 51 11 16
 0 50 1 2
+0 51 11 16
 1
 end_operator
 begin_operator
@@ -4245,8 +4245,8 @@ overcome anger-12 curiosity shrimp vulcan uranus
 1
 13 7
 2
-0 51 11 16
 0 50 2 3
+0 51 11 16
 1
 end_operator
 begin_operator
@@ -4254,8 +4254,8 @@ overcome anger-12 curiosity tofu saturn earth
 1
 13 8
 2
-0 51 12 16
 0 50 0 1
+0 51 12 16
 1
 end_operator
 begin_operator
@@ -4263,8 +4263,8 @@ overcome anger-12 curiosity tofu uranus saturn
 1
 13 8
 2
-0 51 12 16
 0 50 1 2
+0 51 12 16
 1
 end_operator
 begin_operator
@@ -4272,8 +4272,8 @@ overcome anger-12 curiosity tofu vulcan uranus
 1
 13 8
 2
-0 51 12 16
 0 50 2 3
+0 51 12 16
 1
 end_operator
 begin_operator
@@ -4281,8 +4281,8 @@ overcome anger-12 curiosity wurst saturn earth
 1
 13 9
 2
-0 51 14 16
 0 50 0 1
+0 51 14 16
 1
 end_operator
 begin_operator
@@ -4290,8 +4290,8 @@ overcome anger-12 curiosity wurst uranus saturn
 1
 13 9
 2
-0 51 14 16
 0 50 1 2
+0 51 14 16
 1
 end_operator
 begin_operator
@@ -4299,8 +4299,8 @@ overcome anger-12 curiosity wurst vulcan uranus
 1
 13 9
 2
-0 51 14 16
 0 50 2 3
+0 51 14 16
 1
 end_operator
 begin_operator
@@ -4308,8 +4308,8 @@ overcome anger-12 satiety bacon saturn earth
 1
 4 0
 2
-0 51 1 17
 0 49 0 1
+0 51 1 17
 1
 end_operator
 begin_operator
@@ -4317,8 +4317,8 @@ overcome anger-12 satiety bacon uranus saturn
 1
 4 0
 2
-0 51 1 17
 0 49 1 2
+0 51 1 17
 1
 end_operator
 begin_operator
@@ -4326,8 +4326,8 @@ overcome anger-12 satiety bacon vulcan uranus
 1
 4 0
 2
-0 51 1 17
 0 49 2 3
+0 51 1 17
 1
 end_operator
 begin_operator
@@ -4335,8 +4335,8 @@ overcome anger-12 satiety cherry saturn earth
 1
 4 1
 2
-0 51 2 17
 0 49 0 1
+0 51 2 17
 1
 end_operator
 begin_operator
@@ -4344,8 +4344,8 @@ overcome anger-12 satiety cherry uranus saturn
 1
 4 1
 2
-0 51 2 17
 0 49 1 2
+0 51 2 17
 1
 end_operator
 begin_operator
@@ -4353,8 +4353,8 @@ overcome anger-12 satiety cherry vulcan uranus
 1
 4 1
 2
-0 51 2 17
 0 49 2 3
+0 51 2 17
 1
 end_operator
 begin_operator
@@ -4362,8 +4362,8 @@ overcome anger-12 satiety chicken saturn earth
 1
 4 2
 2
-0 51 3 17
 0 49 0 1
+0 51 3 17
 1
 end_operator
 begin_operator
@@ -4371,8 +4371,8 @@ overcome anger-12 satiety chicken uranus saturn
 1
 4 2
 2
-0 51 3 17
 0 49 1 2
+0 51 3 17
 1
 end_operator
 begin_operator
@@ -4380,8 +4380,8 @@ overcome anger-12 satiety chicken vulcan uranus
 1
 4 2
 2
-0 51 3 17
 0 49 2 3
+0 51 3 17
 1
 end_operator
 begin_operator
@@ -4389,8 +4389,8 @@ overcome anger-12 satiety lettuce saturn earth
 1
 4 3
 2
-0 51 5 17
 0 49 0 1
+0 51 5 17
 1
 end_operator
 begin_operator
@@ -4398,8 +4398,8 @@ overcome anger-12 satiety lettuce uranus saturn
 1
 4 3
 2
-0 51 5 17
 0 49 1 2
+0 51 5 17
 1
 end_operator
 begin_operator
@@ -4407,8 +4407,8 @@ overcome anger-12 satiety lettuce vulcan uranus
 1
 4 3
 2
-0 51 5 17
 0 49 2 3
+0 51 5 17
 1
 end_operator
 begin_operator
@@ -4416,8 +4416,8 @@ overcome anger-12 satiety tofu saturn earth
 1
 4 4
 2
-0 51 12 17
 0 49 0 1
+0 51 12 17
 1
 end_operator
 begin_operator
@@ -4425,8 +4425,8 @@ overcome anger-12 satiety tofu uranus saturn
 1
 4 4
 2
-0 51 12 17
 0 49 1 2
+0 51 12 17
 1
 end_operator
 begin_operator
@@ -4434,8 +4434,8 @@ overcome anger-12 satiety tofu vulcan uranus
 1
 4 4
 2
-0 51 12 17
 0 49 2 3
+0 51 12 17
 1
 end_operator
 begin_operator
@@ -4443,8 +4443,8 @@ overcome anger-12 satiety turkey saturn earth
 1
 4 5
 2
-0 51 13 17
 0 49 0 1
+0 51 13 17
 1
 end_operator
 begin_operator
@@ -4452,8 +4452,8 @@ overcome anger-12 satiety turkey uranus saturn
 1
 4 5
 2
-0 51 13 17
 0 49 1 2
+0 51 13 17
 1
 end_operator
 begin_operator
@@ -4461,8 +4461,8 @@ overcome anger-12 satiety turkey vulcan uranus
 1
 4 5
 2
-0 51 13 17
 0 49 2 3
+0 51 13 17
 1
 end_operator
 begin_operator
@@ -7205,24 +7205,24 @@ begin_operator
 overcome anxiety-4 achievement cherry saturn earth
 0
 2
-0 52 2 15
 0 35 0 1
+0 52 2 15
 1
 end_operator
 begin_operator
 overcome anxiety-4 achievement cherry uranus saturn
 0
 2
-0 52 2 15
 0 35 1 2
+0 52 2 15
 1
 end_operator
 begin_operator
 overcome anxiety-4 achievement cherry vulcan uranus
 0
 2
-0 52 2 15
 0 35 2 3
+0 52 2 15
 1
 end_operator
 begin_operator
@@ -7230,8 +7230,8 @@ overcome anxiety-4 curiosity apple saturn earth
 1
 13 0
 2
-0 52 0 16
 0 50 0 1
+0 52 0 16
 1
 end_operator
 begin_operator
@@ -7239,8 +7239,8 @@ overcome anxiety-4 curiosity apple uranus saturn
 1
 13 0
 2
-0 52 0 16
 0 50 1 2
+0 52 0 16
 1
 end_operator
 begin_operator
@@ -7248,8 +7248,8 @@ overcome anxiety-4 curiosity apple vulcan uranus
 1
 13 0
 2
-0 52 0 16
 0 50 2 3
+0 52 0 16
 1
 end_operator
 begin_operator
@@ -7257,8 +7257,8 @@ overcome anxiety-4 curiosity chocolate saturn earth
 1
 13 1
 2
-0 52 4 16
 0 50 0 1
+0 52 4 16
 1
 end_operator
 begin_operator
@@ -7266,8 +7266,8 @@ overcome anxiety-4 curiosity chocolate uranus saturn
 1
 13 1
 2
-0 52 4 16
 0 50 1 2
+0 52 4 16
 1
 end_operator
 begin_operator
@@ -7275,8 +7275,8 @@ overcome anxiety-4 curiosity chocolate vulcan uranus
 1
 13 1
 2
-0 52 4 16
 0 50 2 3
+0 52 4 16
 1
 end_operator
 begin_operator
@@ -7284,8 +7284,8 @@ overcome anxiety-4 curiosity melon saturn earth
 1
 13 2
 2
-0 52 6 16
 0 50 0 1
+0 52 6 16
 1
 end_operator
 begin_operator
@@ -7293,8 +7293,8 @@ overcome anxiety-4 curiosity melon uranus saturn
 1
 13 2
 2
-0 52 6 16
 0 50 1 2
+0 52 6 16
 1
 end_operator
 begin_operator
@@ -7302,8 +7302,8 @@ overcome anxiety-4 curiosity melon vulcan uranus
 1
 13 2
 2
-0 52 6 16
 0 50 2 3
+0 52 6 16
 1
 end_operator
 begin_operator
@@ -7311,8 +7311,8 @@ overcome anxiety-4 curiosity muffin saturn earth
 1
 13 3
 2
-0 52 7 16
 0 50 0 1
+0 52 7 16
 1
 end_operator
 begin_operator
@@ -7320,8 +7320,8 @@ overcome anxiety-4 curiosity muffin uranus saturn
 1
 13 3
 2
-0 52 7 16
 0 50 1 2
+0 52 7 16
 1
 end_operator
 begin_operator
@@ -7329,8 +7329,8 @@ overcome anxiety-4 curiosity muffin vulcan uranus
 1
 13 3
 2
-0 52 7 16
 0 50 2 3
+0 52 7 16
 1
 end_operator
 begin_operator
@@ -7338,8 +7338,8 @@ overcome anxiety-4 curiosity orange saturn earth
 1
 13 4
 2
-0 52 8 16
 0 50 0 1
+0 52 8 16
 1
 end_operator
 begin_operator
@@ -7347,8 +7347,8 @@ overcome anxiety-4 curiosity orange uranus saturn
 1
 13 4
 2
-0 52 8 16
 0 50 1 2
+0 52 8 16
 1
 end_operator
 begin_operator
@@ -7356,8 +7356,8 @@ overcome anxiety-4 curiosity orange vulcan uranus
 1
 13 4
 2
-0 52 8 16
 0 50 2 3
+0 52 8 16
 1
 end_operator
 begin_operator
@@ -7365,8 +7365,8 @@ overcome anxiety-4 curiosity pepper saturn earth
 1
 13 5
 2
-0 52 9 16
 0 50 0 1
+0 52 9 16
 1
 end_operator
 begin_operator
@@ -7374,8 +7374,8 @@ overcome anxiety-4 curiosity pepper uranus saturn
 1
 13 5
 2
-0 52 9 16
 0 50 1 2
+0 52 9 16
 1
 end_operator
 begin_operator
@@ -7383,8 +7383,8 @@ overcome anxiety-4 curiosity pepper vulcan uranus
 1
 13 5
 2
-0 52 9 16
 0 50 2 3
+0 52 9 16
 1
 end_operator
 begin_operator
@@ -7392,8 +7392,8 @@ overcome anxiety-4 curiosity potato saturn earth
 1
 13 6
 2
-0 52 10 16
 0 50 0 1
+0 52 10 16
 1
 end_operator
 begin_operator
@@ -7401,8 +7401,8 @@ overcome anxiety-4 curiosity potato uranus saturn
 1
 13 6
 2
-0 52 10 16
 0 50 1 2
+0 52 10 16
 1
 end_operator
 begin_operator
@@ -7410,8 +7410,8 @@ overcome anxiety-4 curiosity potato vulcan uranus
 1
 13 6
 2
-0 52 10 16
 0 50 2 3
+0 52 10 16
 1
 end_operator
 begin_operator
@@ -7419,8 +7419,8 @@ overcome anxiety-4 curiosity shrimp saturn earth
 1
 13 7
 2
-0 52 11 16
 0 50 0 1
+0 52 11 16
 1
 end_operator
 begin_operator
@@ -7428,8 +7428,8 @@ overcome anxiety-4 curiosity shrimp uranus saturn
 1
 13 7
 2
-0 52 11 16
 0 50 1 2
+0 52 11 16
 1
 end_operator
 begin_operator
@@ -7437,8 +7437,8 @@ overcome anxiety-4 curiosity shrimp vulcan uranus
 1
 13 7
 2
-0 52 11 16
 0 50 2 3
+0 52 11 16
 1
 end_operator
 begin_operator
@@ -7446,8 +7446,8 @@ overcome anxiety-4 curiosity tofu saturn earth
 1
 13 8
 2
-0 52 12 16
 0 50 0 1
+0 52 12 16
 1
 end_operator
 begin_operator
@@ -7455,8 +7455,8 @@ overcome anxiety-4 curiosity tofu uranus saturn
 1
 13 8
 2
-0 52 12 16
 0 50 1 2
+0 52 12 16
 1
 end_operator
 begin_operator
@@ -7464,8 +7464,8 @@ overcome anxiety-4 curiosity tofu vulcan uranus
 1
 13 8
 2
-0 52 12 16
 0 50 2 3
+0 52 12 16
 1
 end_operator
 begin_operator
@@ -7473,8 +7473,8 @@ overcome anxiety-4 curiosity wurst saturn earth
 1
 13 9
 2
-0 52 14 16
 0 50 0 1
+0 52 14 16
 1
 end_operator
 begin_operator
@@ -7482,8 +7482,8 @@ overcome anxiety-4 curiosity wurst uranus saturn
 1
 13 9
 2
-0 52 14 16
 0 50 1 2
+0 52 14 16
 1
 end_operator
 begin_operator
@@ -7491,8 +7491,8 @@ overcome anxiety-4 curiosity wurst vulcan uranus
 1
 13 9
 2
-0 52 14 16
 0 50 2 3
+0 52 14 16
 1
 end_operator
 begin_operator
@@ -7500,8 +7500,8 @@ overcome anxiety-4 satiety bacon saturn earth
 1
 4 0
 2
-0 52 1 17
 0 49 0 1
+0 52 1 17
 1
 end_operator
 begin_operator
@@ -7509,8 +7509,8 @@ overcome anxiety-4 satiety bacon uranus saturn
 1
 4 0
 2
-0 52 1 17
 0 49 1 2
+0 52 1 17
 1
 end_operator
 begin_operator
@@ -7518,8 +7518,8 @@ overcome anxiety-4 satiety bacon vulcan uranus
 1
 4 0
 2
-0 52 1 17
 0 49 2 3
+0 52 1 17
 1
 end_operator
 begin_operator
@@ -7527,8 +7527,8 @@ overcome anxiety-4 satiety cherry saturn earth
 1
 4 1
 2
-0 52 2 17
 0 49 0 1
+0 52 2 17
 1
 end_operator
 begin_operator
@@ -7536,8 +7536,8 @@ overcome anxiety-4 satiety cherry uranus saturn
 1
 4 1
 2
-0 52 2 17
 0 49 1 2
+0 52 2 17
 1
 end_operator
 begin_operator
@@ -7545,8 +7545,8 @@ overcome anxiety-4 satiety cherry vulcan uranus
 1
 4 1
 2
-0 52 2 17
 0 49 2 3
+0 52 2 17
 1
 end_operator
 begin_operator
@@ -7554,8 +7554,8 @@ overcome anxiety-4 satiety chicken saturn earth
 1
 4 2
 2
-0 52 3 17
 0 49 0 1
+0 52 3 17
 1
 end_operator
 begin_operator
@@ -7563,8 +7563,8 @@ overcome anxiety-4 satiety chicken uranus saturn
 1
 4 2
 2
-0 52 3 17
 0 49 1 2
+0 52 3 17
 1
 end_operator
 begin_operator
@@ -7572,8 +7572,8 @@ overcome anxiety-4 satiety chicken vulcan uranus
 1
 4 2
 2
-0 52 3 17
 0 49 2 3
+0 52 3 17
 1
 end_operator
 begin_operator
@@ -7581,8 +7581,8 @@ overcome anxiety-4 satiety lettuce saturn earth
 1
 4 3
 2
-0 52 5 17
 0 49 0 1
+0 52 5 17
 1
 end_operator
 begin_operator
@@ -7590,8 +7590,8 @@ overcome anxiety-4 satiety lettuce uranus saturn
 1
 4 3
 2
-0 52 5 17
 0 49 1 2
+0 52 5 17
 1
 end_operator
 begin_operator
@@ -7599,8 +7599,8 @@ overcome anxiety-4 satiety lettuce vulcan uranus
 1
 4 3
 2
-0 52 5 17
 0 49 2 3
+0 52 5 17
 1
 end_operator
 begin_operator
@@ -7608,8 +7608,8 @@ overcome anxiety-4 satiety tofu saturn earth
 1
 4 4
 2
-0 52 12 17
 0 49 0 1
+0 52 12 17
 1
 end_operator
 begin_operator
@@ -7617,8 +7617,8 @@ overcome anxiety-4 satiety tofu uranus saturn
 1
 4 4
 2
-0 52 12 17
 0 49 1 2
+0 52 12 17
 1
 end_operator
 begin_operator
@@ -7626,8 +7626,8 @@ overcome anxiety-4 satiety tofu vulcan uranus
 1
 4 4
 2
-0 52 12 17
 0 49 2 3
+0 52 12 17
 1
 end_operator
 begin_operator
@@ -7635,8 +7635,8 @@ overcome anxiety-4 satiety turkey saturn earth
 1
 4 5
 2
-0 52 13 17
 0 49 0 1
+0 52 13 17
 1
 end_operator
 begin_operator
@@ -7644,8 +7644,8 @@ overcome anxiety-4 satiety turkey uranus saturn
 1
 4 5
 2
-0 52 13 17
 0 49 1 2
+0 52 13 17
 1
 end_operator
 begin_operator
@@ -7653,8 +7653,8 @@ overcome anxiety-4 satiety turkey vulcan uranus
 1
 4 5
 2
-0 52 13 17
 0 49 2 3
+0 52 13 17
 1
 end_operator
 begin_operator
@@ -12677,24 +12677,24 @@ begin_operator
 overcome hangover-10 achievement cherry saturn earth
 0
 2
-0 36 2 15
 0 35 0 1
+0 36 2 15
 1
 end_operator
 begin_operator
 overcome hangover-10 achievement cherry uranus saturn
 0
 2
-0 36 2 15
 0 35 1 2
+0 36 2 15
 1
 end_operator
 begin_operator
 overcome hangover-10 achievement cherry vulcan uranus
 0
 2
-0 36 2 15
 0 35 2 3
+0 36 2 15
 1
 end_operator
 begin_operator
@@ -13133,24 +13133,24 @@ begin_operator
 overcome hangover-13 achievement cherry saturn earth
 0
 2
-0 37 2 15
 0 35 0 1
+0 37 2 15
 1
 end_operator
 begin_operator
 overcome hangover-13 achievement cherry uranus saturn
 0
 2
-0 37 2 15
 0 35 1 2
+0 37 2 15
 1
 end_operator
 begin_operator
 overcome hangover-13 achievement cherry vulcan uranus
 0
 2
-0 37 2 15
 0 35 2 3
+0 37 2 15
 1
 end_operator
 begin_operator
@@ -13589,24 +13589,24 @@ begin_operator
 overcome jealousy achievement cherry saturn earth
 0
 2
-0 38 2 15
 0 35 0 1
+0 38 2 15
 1
 end_operator
 begin_operator
 overcome jealousy achievement cherry uranus saturn
 0
 2
-0 38 2 15
 0 35 1 2
+0 38 2 15
 1
 end_operator
 begin_operator
 overcome jealousy achievement cherry vulcan uranus
 0
 2
-0 38 2 15
 0 35 2 3
+0 38 2 15
 1
 end_operator
 begin_operator
@@ -14045,24 +14045,24 @@ begin_operator
 overcome jealousy-8 achievement cherry saturn earth
 0
 2
-0 53 2 15
 0 35 0 1
+0 53 2 15
 1
 end_operator
 begin_operator
 overcome jealousy-8 achievement cherry uranus saturn
 0
 2
-0 53 2 15
 0 35 1 2
+0 53 2 15
 1
 end_operator
 begin_operator
 overcome jealousy-8 achievement cherry vulcan uranus
 0
 2
-0 53 2 15
 0 35 2 3
+0 53 2 15
 1
 end_operator
 begin_operator
@@ -14070,8 +14070,8 @@ overcome jealousy-8 curiosity apple saturn earth
 1
 13 0
 2
-0 53 0 16
 0 50 0 1
+0 53 0 16
 1
 end_operator
 begin_operator
@@ -14079,8 +14079,8 @@ overcome jealousy-8 curiosity apple uranus saturn
 1
 13 0
 2
-0 53 0 16
 0 50 1 2
+0 53 0 16
 1
 end_operator
 begin_operator
@@ -14088,8 +14088,8 @@ overcome jealousy-8 curiosity apple vulcan uranus
 1
 13 0
 2
-0 53 0 16
 0 50 2 3
+0 53 0 16
 1
 end_operator
 begin_operator
@@ -14097,8 +14097,8 @@ overcome jealousy-8 curiosity chocolate saturn earth
 1
 13 1
 2
-0 53 4 16
 0 50 0 1
+0 53 4 16
 1
 end_operator
 begin_operator
@@ -14106,8 +14106,8 @@ overcome jealousy-8 curiosity chocolate uranus saturn
 1
 13 1
 2
-0 53 4 16
 0 50 1 2
+0 53 4 16
 1
 end_operator
 begin_operator
@@ -14115,8 +14115,8 @@ overcome jealousy-8 curiosity chocolate vulcan uranus
 1
 13 1
 2
-0 53 4 16
 0 50 2 3
+0 53 4 16
 1
 end_operator
 begin_operator
@@ -14124,8 +14124,8 @@ overcome jealousy-8 curiosity melon saturn earth
 1
 13 2
 2
-0 53 6 16
 0 50 0 1
+0 53 6 16
 1
 end_operator
 begin_operator
@@ -14133,8 +14133,8 @@ overcome jealousy-8 curiosity melon uranus saturn
 1
 13 2
 2
-0 53 6 16
 0 50 1 2
+0 53 6 16
 1
 end_operator
 begin_operator
@@ -14142,8 +14142,8 @@ overcome jealousy-8 curiosity melon vulcan uranus
 1
 13 2
 2
-0 53 6 16
 0 50 2 3
+0 53 6 16
 1
 end_operator
 begin_operator
@@ -14151,8 +14151,8 @@ overcome jealousy-8 curiosity muffin saturn earth
 1
 13 3
 2
-0 53 7 16
 0 50 0 1
+0 53 7 16
 1
 end_operator
 begin_operator
@@ -14160,8 +14160,8 @@ overcome jealousy-8 curiosity muffin uranus saturn
 1
 13 3
 2
-0 53 7 16
 0 50 1 2
+0 53 7 16
 1
 end_operator
 begin_operator
@@ -14169,8 +14169,8 @@ overcome jealousy-8 curiosity muffin vulcan uranus
 1
 13 3
 2
-0 53 7 16
 0 50 2 3
+0 53 7 16
 1
 end_operator
 begin_operator
@@ -14178,8 +14178,8 @@ overcome jealousy-8 curiosity orange saturn earth
 1
 13 4
 2
-0 53 8 16
 0 50 0 1
+0 53 8 16
 1
 end_operator
 begin_operator
@@ -14187,8 +14187,8 @@ overcome jealousy-8 curiosity orange uranus saturn
 1
 13 4
 2
-0 53 8 16
 0 50 1 2
+0 53 8 16
 1
 end_operator
 begin_operator
@@ -14196,8 +14196,8 @@ overcome jealousy-8 curiosity orange vulcan uranus
 1
 13 4
 2
-0 53 8 16
 0 50 2 3
+0 53 8 16
 1
 end_operator
 begin_operator
@@ -14205,8 +14205,8 @@ overcome jealousy-8 curiosity pepper saturn earth
 1
 13 5
 2
-0 53 9 16
 0 50 0 1
+0 53 9 16
 1
 end_operator
 begin_operator
@@ -14214,8 +14214,8 @@ overcome jealousy-8 curiosity pepper uranus saturn
 1
 13 5
 2
-0 53 9 16
 0 50 1 2
+0 53 9 16
 1
 end_operator
 begin_operator
@@ -14223,8 +14223,8 @@ overcome jealousy-8 curiosity pepper vulcan uranus
 1
 13 5
 2
-0 53 9 16
 0 50 2 3
+0 53 9 16
 1
 end_operator
 begin_operator
@@ -14232,8 +14232,8 @@ overcome jealousy-8 curiosity potato saturn earth
 1
 13 6
 2
-0 53 10 16
 0 50 0 1
+0 53 10 16
 1
 end_operator
 begin_operator
@@ -14241,8 +14241,8 @@ overcome jealousy-8 curiosity potato uranus saturn
 1
 13 6
 2
-0 53 10 16
 0 50 1 2
+0 53 10 16
 1
 end_operator
 begin_operator
@@ -14250,8 +14250,8 @@ overcome jealousy-8 curiosity potato vulcan uranus
 1
 13 6
 2
-0 53 10 16
 0 50 2 3
+0 53 10 16
 1
 end_operator
 begin_operator
@@ -14259,8 +14259,8 @@ overcome jealousy-8 curiosity shrimp saturn earth
 1
 13 7
 2
-0 53 11 16
 0 50 0 1
+0 53 11 16
 1
 end_operator
 begin_operator
@@ -14268,8 +14268,8 @@ overcome jealousy-8 curiosity shrimp uranus saturn
 1
 13 7
 2
-0 53 11 16
 0 50 1 2
+0 53 11 16
 1
 end_operator
 begin_operator
@@ -14277,8 +14277,8 @@ overcome jealousy-8 curiosity shrimp vulcan uranus
 1
 13 7
 2
-0 53 11 16
 0 50 2 3
+0 53 11 16
 1
 end_operator
 begin_operator
@@ -14286,8 +14286,8 @@ overcome jealousy-8 curiosity tofu saturn earth
 1
 13 8
 2
-0 53 12 16
 0 50 0 1
+0 53 12 16
 1
 end_operator
 begin_operator
@@ -14295,8 +14295,8 @@ overcome jealousy-8 curiosity tofu uranus saturn
 1
 13 8
 2
-0 53 12 16
 0 50 1 2
+0 53 12 16
 1
 end_operator
 begin_operator
@@ -14304,8 +14304,8 @@ overcome jealousy-8 curiosity tofu vulcan uranus
 1
 13 8
 2
-0 53 12 16
 0 50 2 3
+0 53 12 16
 1
 end_operator
 begin_operator
@@ -14313,8 +14313,8 @@ overcome jealousy-8 curiosity wurst saturn earth
 1
 13 9
 2
-0 53 14 16
 0 50 0 1
+0 53 14 16
 1
 end_operator
 begin_operator
@@ -14322,8 +14322,8 @@ overcome jealousy-8 curiosity wurst uranus saturn
 1
 13 9
 2
-0 53 14 16
 0 50 1 2
+0 53 14 16
 1
 end_operator
 begin_operator
@@ -14331,8 +14331,8 @@ overcome jealousy-8 curiosity wurst vulcan uranus
 1
 13 9
 2
-0 53 14 16
 0 50 2 3
+0 53 14 16
 1
 end_operator
 begin_operator
@@ -14340,8 +14340,8 @@ overcome jealousy-8 satiety bacon saturn earth
 1
 4 0
 2
-0 53 1 17
 0 49 0 1
+0 53 1 17
 1
 end_operator
 begin_operator
@@ -14349,8 +14349,8 @@ overcome jealousy-8 satiety bacon uranus saturn
 1
 4 0
 2
-0 53 1 17
 0 49 1 2
+0 53 1 17
 1
 end_operator
 begin_operator
@@ -14358,8 +14358,8 @@ overcome jealousy-8 satiety bacon vulcan uranus
 1
 4 0
 2
-0 53 1 17
 0 49 2 3
+0 53 1 17
 1
 end_operator
 begin_operator
@@ -14367,8 +14367,8 @@ overcome jealousy-8 satiety cherry saturn earth
 1
 4 1
 2
-0 53 2 17
 0 49 0 1
+0 53 2 17
 1
 end_operator
 begin_operator
@@ -14376,8 +14376,8 @@ overcome jealousy-8 satiety cherry uranus saturn
 1
 4 1
 2
-0 53 2 17
 0 49 1 2
+0 53 2 17
 1
 end_operator
 begin_operator
@@ -14385,8 +14385,8 @@ overcome jealousy-8 satiety cherry vulcan uranus
 1
 4 1
 2
-0 53 2 17
 0 49 2 3
+0 53 2 17
 1
 end_operator
 begin_operator
@@ -14394,8 +14394,8 @@ overcome jealousy-8 satiety chicken saturn earth
 1
 4 2
 2
-0 53 3 17
 0 49 0 1
+0 53 3 17
 1
 end_operator
 begin_operator
@@ -14403,8 +14403,8 @@ overcome jealousy-8 satiety chicken uranus saturn
 1
 4 2
 2
-0 53 3 17
 0 49 1 2
+0 53 3 17
 1
 end_operator
 begin_operator
@@ -14412,8 +14412,8 @@ overcome jealousy-8 satiety chicken vulcan uranus
 1
 4 2
 2
-0 53 3 17
 0 49 2 3
+0 53 3 17
 1
 end_operator
 begin_operator
@@ -14421,8 +14421,8 @@ overcome jealousy-8 satiety lettuce saturn earth
 1
 4 3
 2
-0 53 5 17
 0 49 0 1
+0 53 5 17
 1
 end_operator
 begin_operator
@@ -14430,8 +14430,8 @@ overcome jealousy-8 satiety lettuce uranus saturn
 1
 4 3
 2
-0 53 5 17
 0 49 1 2
+0 53 5 17
 1
 end_operator
 begin_operator
@@ -14439,8 +14439,8 @@ overcome jealousy-8 satiety lettuce vulcan uranus
 1
 4 3
 2
-0 53 5 17
 0 49 2 3
+0 53 5 17
 1
 end_operator
 begin_operator
@@ -14448,8 +14448,8 @@ overcome jealousy-8 satiety tofu saturn earth
 1
 4 4
 2
-0 53 12 17
 0 49 0 1
+0 53 12 17
 1
 end_operator
 begin_operator
@@ -14457,8 +14457,8 @@ overcome jealousy-8 satiety tofu uranus saturn
 1
 4 4
 2
-0 53 12 17
 0 49 1 2
+0 53 12 17
 1
 end_operator
 begin_operator
@@ -14466,8 +14466,8 @@ overcome jealousy-8 satiety tofu vulcan uranus
 1
 4 4
 2
-0 53 12 17
 0 49 2 3
+0 53 12 17
 1
 end_operator
 begin_operator
@@ -14475,8 +14475,8 @@ overcome jealousy-8 satiety turkey saturn earth
 1
 4 5
 2
-0 53 13 17
 0 49 0 1
+0 53 13 17
 1
 end_operator
 begin_operator
@@ -14484,8 +14484,8 @@ overcome jealousy-8 satiety turkey uranus saturn
 1
 4 5
 2
-0 53 13 17
 0 49 1 2
+0 53 13 17
 1
 end_operator
 begin_operator
@@ -14493,32 +14493,32 @@ overcome jealousy-8 satiety turkey vulcan uranus
 1
 4 5
 2
-0 53 13 17
 0 49 2 3
+0 53 13 17
 1
 end_operator
 begin_operator
 overcome laceration achievement cherry saturn earth
 0
 2
-0 39 2 15
 0 35 0 1
+0 39 2 15
 1
 end_operator
 begin_operator
 overcome laceration achievement cherry uranus saturn
 0
 2
-0 39 2 15
 0 35 1 2
+0 39 2 15
 1
 end_operator
 begin_operator
 overcome laceration achievement cherry vulcan uranus
 0
 2
-0 39 2 15
 0 35 2 3
+0 39 2 15
 1
 end_operator
 begin_operator
@@ -14957,24 +14957,24 @@ begin_operator
 overcome laceration-7 achievement cherry saturn earth
 0
 2
-0 40 2 15
 0 35 0 1
+0 40 2 15
 1
 end_operator
 begin_operator
 overcome laceration-7 achievement cherry uranus saturn
 0
 2
-0 40 2 15
 0 35 1 2
+0 40 2 15
 1
 end_operator
 begin_operator
 overcome laceration-7 achievement cherry vulcan uranus
 0
 2
-0 40 2 15
 0 35 2 3
+0 40 2 15
 1
 end_operator
 begin_operator
@@ -15413,24 +15413,24 @@ begin_operator
 overcome loneliness achievement cherry saturn earth
 0
 2
-0 41 2 15
 0 35 0 1
+0 41 2 15
 1
 end_operator
 begin_operator
 overcome loneliness achievement cherry uranus saturn
 0
 2
-0 41 2 15
 0 35 1 2
+0 41 2 15
 1
 end_operator
 begin_operator
 overcome loneliness achievement cherry vulcan uranus
 0
 2
-0 41 2 15
 0 35 2 3
+0 41 2 15
 1
 end_operator
 begin_operator
@@ -15869,24 +15869,24 @@ begin_operator
 overcome loneliness-1 achievement cherry saturn earth
 0
 2
-0 42 2 15
 0 35 0 1
+0 42 2 15
 1
 end_operator
 begin_operator
 overcome loneliness-1 achievement cherry uranus saturn
 0
 2
-0 42 2 15
 0 35 1 2
+0 42 2 15
 1
 end_operator
 begin_operator
 overcome loneliness-1 achievement cherry vulcan uranus
 0
 2
-0 42 2 15
 0 35 2 3
+0 42 2 15
 1
 end_operator
 begin_operator
@@ -16325,24 +16325,24 @@ begin_operator
 overcome loneliness-31 achievement cherry saturn earth
 0
 2
-0 43 2 15
 0 35 0 1
+0 43 2 15
 1
 end_operator
 begin_operator
 overcome loneliness-31 achievement cherry uranus saturn
 0
 2
-0 43 2 15
 0 35 1 2
+0 43 2 15
 1
 end_operator
 begin_operator
 overcome loneliness-31 achievement cherry vulcan uranus
 0
 2
-0 43 2 15
 0 35 2 3
+0 43 2 15
 1
 end_operator
 begin_operator
@@ -16781,24 +16781,24 @@ begin_operator
 overcome prostatitis achievement cherry saturn earth
 0
 2
-0 44 2 15
 0 35 0 1
+0 44 2 15
 1
 end_operator
 begin_operator
 overcome prostatitis achievement cherry uranus saturn
 0
 2
-0 44 2 15
 0 35 1 2
+0 44 2 15
 1
 end_operator
 begin_operator
 overcome prostatitis achievement cherry vulcan uranus
 0
 2
-0 44 2 15
 0 35 2 3
+0 44 2 15
 1
 end_operator
 begin_operator
@@ -17237,24 +17237,24 @@ begin_operator
 overcome prostatitis-3 achievement cherry saturn earth
 0
 2
-0 45 2 15
 0 35 0 1
+0 45 2 15
 1
 end_operator
 begin_operator
 overcome prostatitis-3 achievement cherry uranus saturn
 0
 2
-0 45 2 15
 0 35 1 2
+0 45 2 15
 1
 end_operator
 begin_operator
 overcome prostatitis-3 achievement cherry vulcan uranus
 0
 2
-0 45 2 15
 0 35 2 3
+0 45 2 15
 1
 end_operator
 begin_operator
@@ -17693,24 +17693,24 @@ begin_operator
 overcome sciatica achievement cherry saturn earth
 0
 2
-0 46 2 15
 0 35 0 1
+0 46 2 15
 1
 end_operator
 begin_operator
 overcome sciatica achievement cherry uranus saturn
 0
 2
-0 46 2 15
 0 35 1 2
+0 46 2 15
 1
 end_operator
 begin_operator
 overcome sciatica achievement cherry vulcan uranus
 0
 2
-0 46 2 15
 0 35 2 3
+0 46 2 15
 1
 end_operator
 begin_operator
@@ -18149,24 +18149,24 @@ begin_operator
 overcome sciatica-11 achievement cherry saturn earth
 0
 2
-0 47 2 15
 0 35 0 1
+0 47 2 15
 1
 end_operator
 begin_operator
 overcome sciatica-11 achievement cherry uranus saturn
 0
 2
-0 47 2 15
 0 35 1 2
+0 47 2 15
 1
 end_operator
 begin_operator
 overcome sciatica-11 achievement cherry vulcan uranus
 0
 2
-0 47 2 15
 0 35 2 3
+0 47 2 15
 1
 end_operator
 begin_operator
@@ -18605,24 +18605,24 @@ begin_operator
 overcome sciatica-29 achievement cherry saturn earth
 0
 2
-0 48 2 15
 0 35 0 1
+0 48 2 15
 1
 end_operator
 begin_operator
 overcome sciatica-29 achievement cherry uranus saturn
 0
 2
-0 48 2 15
 0 35 1 2
+0 48 2 15
 1
 end_operator
 begin_operator
 overcome sciatica-29 achievement cherry vulcan uranus
 0
 2
-0 48 2 15
 0 35 2 3
+0 48 2 15
 1
 end_operator
 begin_operator
@@ -20885,24 +20885,24 @@ begin_operator
 succumb anger-12 achievement cherry saturn earth
 0
 2
-0 51 15 2
 0 35 1 0
+0 51 15 2
 1
 end_operator
 begin_operator
 succumb anger-12 achievement cherry uranus saturn
 0
 2
-0 51 15 2
 0 35 2 1
+0 51 15 2
 1
 end_operator
 begin_operator
 succumb anger-12 achievement cherry vulcan uranus
 0
 2
-0 51 15 2
 0 35 3 2
+0 51 15 2
 1
 end_operator
 begin_operator
@@ -20910,8 +20910,8 @@ succumb anger-12 curiosity apple saturn earth
 1
 13 0
 2
-0 51 16 0
 0 50 1 0
+0 51 16 0
 1
 end_operator
 begin_operator
@@ -20919,8 +20919,8 @@ succumb anger-12 curiosity apple uranus saturn
 1
 13 0
 2
-0 51 16 0
 0 50 2 1
+0 51 16 0
 1
 end_operator
 begin_operator
@@ -20928,8 +20928,8 @@ succumb anger-12 curiosity apple vulcan uranus
 1
 13 0
 2
-0 51 16 0
 0 50 3 2
+0 51 16 0
 1
 end_operator
 begin_operator
@@ -20937,8 +20937,8 @@ succumb anger-12 curiosity chocolate saturn earth
 1
 13 1
 2
-0 51 16 4
 0 50 1 0
+0 51 16 4
 1
 end_operator
 begin_operator
@@ -20946,8 +20946,8 @@ succumb anger-12 curiosity chocolate uranus saturn
 1
 13 1
 2
-0 51 16 4
 0 50 2 1
+0 51 16 4
 1
 end_operator
 begin_operator
@@ -20955,8 +20955,8 @@ succumb anger-12 curiosity chocolate vulcan uranus
 1
 13 1
 2
-0 51 16 4
 0 50 3 2
+0 51 16 4
 1
 end_operator
 begin_operator
@@ -20964,8 +20964,8 @@ succumb anger-12 curiosity melon saturn earth
 1
 13 2
 2
-0 51 16 6
 0 50 1 0
+0 51 16 6
 1
 end_operator
 begin_operator
@@ -20973,8 +20973,8 @@ succumb anger-12 curiosity melon uranus saturn
 1
 13 2
 2
-0 51 16 6
 0 50 2 1
+0 51 16 6
 1
 end_operator
 begin_operator
@@ -20982,8 +20982,8 @@ succumb anger-12 curiosity melon vulcan uranus
 1
 13 2
 2
-0 51 16 6
 0 50 3 2
+0 51 16 6
 1
 end_operator
 begin_operator
@@ -20991,8 +20991,8 @@ succumb anger-12 curiosity muffin saturn earth
 1
 13 3
 2
-0 51 16 7
 0 50 1 0
+0 51 16 7
 1
 end_operator
 begin_operator
@@ -21000,8 +21000,8 @@ succumb anger-12 curiosity muffin uranus saturn
 1
 13 3
 2
-0 51 16 7
 0 50 2 1
+0 51 16 7
 1
 end_operator
 begin_operator
@@ -21009,8 +21009,8 @@ succumb anger-12 curiosity muffin vulcan uranus
 1
 13 3
 2
-0 51 16 7
 0 50 3 2
+0 51 16 7
 1
 end_operator
 begin_operator
@@ -21018,8 +21018,8 @@ succumb anger-12 curiosity orange saturn earth
 1
 13 4
 2
-0 51 16 8
 0 50 1 0
+0 51 16 8
 1
 end_operator
 begin_operator
@@ -21027,8 +21027,8 @@ succumb anger-12 curiosity orange uranus saturn
 1
 13 4
 2
-0 51 16 8
 0 50 2 1
+0 51 16 8
 1
 end_operator
 begin_operator
@@ -21036,8 +21036,8 @@ succumb anger-12 curiosity orange vulcan uranus
 1
 13 4
 2
-0 51 16 8
 0 50 3 2
+0 51 16 8
 1
 end_operator
 begin_operator
@@ -21045,8 +21045,8 @@ succumb anger-12 curiosity pepper saturn earth
 1
 13 5
 2
-0 51 16 9
 0 50 1 0
+0 51 16 9
 1
 end_operator
 begin_operator
@@ -21054,8 +21054,8 @@ succumb anger-12 curiosity pepper uranus saturn
 1
 13 5
 2
-0 51 16 9
 0 50 2 1
+0 51 16 9
 1
 end_operator
 begin_operator
@@ -21063,8 +21063,8 @@ succumb anger-12 curiosity pepper vulcan uranus
 1
 13 5
 2
-0 51 16 9
 0 50 3 2
+0 51 16 9
 1
 end_operator
 begin_operator
@@ -21072,8 +21072,8 @@ succumb anger-12 curiosity potato saturn earth
 1
 13 6
 2
-0 51 16 10
 0 50 1 0
+0 51 16 10
 1
 end_operator
 begin_operator
@@ -21081,8 +21081,8 @@ succumb anger-12 curiosity potato uranus saturn
 1
 13 6
 2
-0 51 16 10
 0 50 2 1
+0 51 16 10
 1
 end_operator
 begin_operator
@@ -21090,8 +21090,8 @@ succumb anger-12 curiosity potato vulcan uranus
 1
 13 6
 2
-0 51 16 10
 0 50 3 2
+0 51 16 10
 1
 end_operator
 begin_operator
@@ -21099,8 +21099,8 @@ succumb anger-12 curiosity shrimp saturn earth
 1
 13 7
 2
-0 51 16 11
 0 50 1 0
+0 51 16 11
 1
 end_operator
 begin_operator
@@ -21108,8 +21108,8 @@ succumb anger-12 curiosity shrimp uranus saturn
 1
 13 7
 2
-0 51 16 11
 0 50 2 1
+0 51 16 11
 1
 end_operator
 begin_operator
@@ -21117,8 +21117,8 @@ succumb anger-12 curiosity shrimp vulcan uranus
 1
 13 7
 2
-0 51 16 11
 0 50 3 2
+0 51 16 11
 1
 end_operator
 begin_operator
@@ -21126,8 +21126,8 @@ succumb anger-12 curiosity tofu saturn earth
 1
 13 8
 2
-0 51 16 12
 0 50 1 0
+0 51 16 12
 1
 end_operator
 begin_operator
@@ -21135,8 +21135,8 @@ succumb anger-12 curiosity tofu uranus saturn
 1
 13 8
 2
-0 51 16 12
 0 50 2 1
+0 51 16 12
 1
 end_operator
 begin_operator
@@ -21144,8 +21144,8 @@ succumb anger-12 curiosity tofu vulcan uranus
 1
 13 8
 2
-0 51 16 12
 0 50 3 2
+0 51 16 12
 1
 end_operator
 begin_operator
@@ -21153,8 +21153,8 @@ succumb anger-12 curiosity wurst saturn earth
 1
 13 9
 2
-0 51 16 14
 0 50 1 0
+0 51 16 14
 1
 end_operator
 begin_operator
@@ -21162,8 +21162,8 @@ succumb anger-12 curiosity wurst uranus saturn
 1
 13 9
 2
-0 51 16 14
 0 50 2 1
+0 51 16 14
 1
 end_operator
 begin_operator
@@ -21171,8 +21171,8 @@ succumb anger-12 curiosity wurst vulcan uranus
 1
 13 9
 2
-0 51 16 14
 0 50 3 2
+0 51 16 14
 1
 end_operator
 begin_operator
@@ -21180,8 +21180,8 @@ succumb anger-12 satiety bacon saturn earth
 1
 4 0
 2
-0 51 17 1
 0 49 1 0
+0 51 17 1
 1
 end_operator
 begin_operator
@@ -21189,8 +21189,8 @@ succumb anger-12 satiety bacon uranus saturn
 1
 4 0
 2
-0 51 17 1
 0 49 2 1
+0 51 17 1
 1
 end_operator
 begin_operator
@@ -21198,8 +21198,8 @@ succumb anger-12 satiety bacon vulcan uranus
 1
 4 0
 2
-0 51 17 1
 0 49 3 2
+0 51 17 1
 1
 end_operator
 begin_operator
@@ -21207,8 +21207,8 @@ succumb anger-12 satiety cherry saturn earth
 1
 4 1
 2
-0 51 17 2
 0 49 1 0
+0 51 17 2
 1
 end_operator
 begin_operator
@@ -21216,8 +21216,8 @@ succumb anger-12 satiety cherry uranus saturn
 1
 4 1
 2
-0 51 17 2
 0 49 2 1
+0 51 17 2
 1
 end_operator
 begin_operator
@@ -21225,8 +21225,8 @@ succumb anger-12 satiety cherry vulcan uranus
 1
 4 1
 2
-0 51 17 2
 0 49 3 2
+0 51 17 2
 1
 end_operator
 begin_operator
@@ -21234,8 +21234,8 @@ succumb anger-12 satiety chicken saturn earth
 1
 4 2
 2
-0 51 17 3
 0 49 1 0
+0 51 17 3
 1
 end_operator
 begin_operator
@@ -21243,8 +21243,8 @@ succumb anger-12 satiety chicken uranus saturn
 1
 4 2
 2
-0 51 17 3
 0 49 2 1
+0 51 17 3
 1
 end_operator
 begin_operator
@@ -21252,8 +21252,8 @@ succumb anger-12 satiety chicken vulcan uranus
 1
 4 2
 2
-0 51 17 3
 0 49 3 2
+0 51 17 3
 1
 end_operator
 begin_operator
@@ -21261,8 +21261,8 @@ succumb anger-12 satiety lettuce saturn earth
 1
 4 3
 2
-0 51 17 5
 0 49 1 0
+0 51 17 5
 1
 end_operator
 begin_operator
@@ -21270,8 +21270,8 @@ succumb anger-12 satiety lettuce uranus saturn
 1
 4 3
 2
-0 51 17 5
 0 49 2 1
+0 51 17 5
 1
 end_operator
 begin_operator
@@ -21279,8 +21279,8 @@ succumb anger-12 satiety lettuce vulcan uranus
 1
 4 3
 2
-0 51 17 5
 0 49 3 2
+0 51 17 5
 1
 end_operator
 begin_operator
@@ -21288,8 +21288,8 @@ succumb anger-12 satiety tofu saturn earth
 1
 4 4
 2
-0 51 17 12
 0 49 1 0
+0 51 17 12
 1
 end_operator
 begin_operator
@@ -21297,8 +21297,8 @@ succumb anger-12 satiety tofu uranus saturn
 1
 4 4
 2
-0 51 17 12
 0 49 2 1
+0 51 17 12
 1
 end_operator
 begin_operator
@@ -21306,8 +21306,8 @@ succumb anger-12 satiety tofu vulcan uranus
 1
 4 4
 2
-0 51 17 12
 0 49 3 2
+0 51 17 12
 1
 end_operator
 begin_operator
@@ -21315,8 +21315,8 @@ succumb anger-12 satiety turkey saturn earth
 1
 4 5
 2
-0 51 17 13
 0 49 1 0
+0 51 17 13
 1
 end_operator
 begin_operator
@@ -21324,8 +21324,8 @@ succumb anger-12 satiety turkey uranus saturn
 1
 4 5
 2
-0 51 17 13
 0 49 2 1
+0 51 17 13
 1
 end_operator
 begin_operator
@@ -21333,8 +21333,8 @@ succumb anger-12 satiety turkey vulcan uranus
 1
 4 5
 2
-0 51 17 13
 0 49 3 2
+0 51 17 13
 1
 end_operator
 begin_operator
@@ -24077,24 +24077,24 @@ begin_operator
 succumb anxiety-4 achievement cherry saturn earth
 0
 2
-0 52 15 2
 0 35 1 0
+0 52 15 2
 1
 end_operator
 begin_operator
 succumb anxiety-4 achievement cherry uranus saturn
 0
 2
-0 52 15 2
 0 35 2 1
+0 52 15 2
 1
 end_operator
 begin_operator
 succumb anxiety-4 achievement cherry vulcan uranus
 0
 2
-0 52 15 2
 0 35 3 2
+0 52 15 2
 1
 end_operator
 begin_operator
@@ -24102,8 +24102,8 @@ succumb anxiety-4 curiosity apple saturn earth
 1
 13 0
 2
-0 52 16 0
 0 50 1 0
+0 52 16 0
 1
 end_operator
 begin_operator
@@ -24111,8 +24111,8 @@ succumb anxiety-4 curiosity apple uranus saturn
 1
 13 0
 2
-0 52 16 0
 0 50 2 1
+0 52 16 0
 1
 end_operator
 begin_operator
@@ -24120,8 +24120,8 @@ succumb anxiety-4 curiosity apple vulcan uranus
 1
 13 0
 2
-0 52 16 0
 0 50 3 2
+0 52 16 0
 1
 end_operator
 begin_operator
@@ -24129,8 +24129,8 @@ succumb anxiety-4 curiosity chocolate saturn earth
 1
 13 1
 2
-0 52 16 4
 0 50 1 0
+0 52 16 4
 1
 end_operator
 begin_operator
@@ -24138,8 +24138,8 @@ succumb anxiety-4 curiosity chocolate uranus saturn
 1
 13 1
 2
-0 52 16 4
 0 50 2 1
+0 52 16 4
 1
 end_operator
 begin_operator
@@ -24147,8 +24147,8 @@ succumb anxiety-4 curiosity chocolate vulcan uranus
 1
 13 1
 2
-0 52 16 4
 0 50 3 2
+0 52 16 4
 1
 end_operator
 begin_operator
@@ -24156,8 +24156,8 @@ succumb anxiety-4 curiosity melon saturn earth
 1
 13 2
 2
-0 52 16 6
 0 50 1 0
+0 52 16 6
 1
 end_operator
 begin_operator
@@ -24165,8 +24165,8 @@ succumb anxiety-4 curiosity melon uranus saturn
 1
 13 2
 2
-0 52 16 6
 0 50 2 1
+0 52 16 6
 1
 end_operator
 begin_operator
@@ -24174,8 +24174,8 @@ succumb anxiety-4 curiosity melon vulcan uranus
 1
 13 2
 2
-0 52 16 6
 0 50 3 2
+0 52 16 6
 1
 end_operator
 begin_operator
@@ -24183,8 +24183,8 @@ succumb anxiety-4 curiosity muffin saturn earth
 1
 13 3
 2
-0 52 16 7
 0 50 1 0
+0 52 16 7
 1
 end_operator
 begin_operator
@@ -24192,8 +24192,8 @@ succumb anxiety-4 curiosity muffin uranus saturn
 1
 13 3
 2
-0 52 16 7
 0 50 2 1
+0 52 16 7
 1
 end_operator
 begin_operator
@@ -24201,8 +24201,8 @@ succumb anxiety-4 curiosity muffin vulcan uranus
 1
 13 3
 2
-0 52 16 7
 0 50 3 2
+0 52 16 7
 1
 end_operator
 begin_operator
@@ -24210,8 +24210,8 @@ succumb anxiety-4 curiosity orange saturn earth
 1
 13 4
 2
-0 52 16 8
 0 50 1 0
+0 52 16 8
 1
 end_operator
 begin_operator
@@ -24219,8 +24219,8 @@ succumb anxiety-4 curiosity orange uranus saturn
 1
 13 4
 2
-0 52 16 8
 0 50 2 1
+0 52 16 8
 1
 end_operator
 begin_operator
@@ -24228,8 +24228,8 @@ succumb anxiety-4 curiosity orange vulcan uranus
 1
 13 4
 2
-0 52 16 8
 0 50 3 2
+0 52 16 8
 1
 end_operator
 begin_operator
@@ -24237,8 +24237,8 @@ succumb anxiety-4 curiosity pepper saturn earth
 1
 13 5
 2
-0 52 16 9
 0 50 1 0
+0 52 16 9
 1
 end_operator
 begin_operator
@@ -24246,8 +24246,8 @@ succumb anxiety-4 curiosity pepper uranus saturn
 1
 13 5
 2
-0 52 16 9
 0 50 2 1
+0 52 16 9
 1
 end_operator
 begin_operator
@@ -24255,8 +24255,8 @@ succumb anxiety-4 curiosity pepper vulcan uranus
 1
 13 5
 2
-0 52 16 9
 0 50 3 2
+0 52 16 9
 1
 end_operator
 begin_operator
@@ -24264,8 +24264,8 @@ succumb anxiety-4 curiosity potato saturn earth
 1
 13 6
 2
-0 52 16 10
 0 50 1 0
+0 52 16 10
 1
 end_operator
 begin_operator
@@ -24273,8 +24273,8 @@ succumb anxiety-4 curiosity potato uranus saturn
 1
 13 6
 2
-0 52 16 10
 0 50 2 1
+0 52 16 10
 1
 end_operator
 begin_operator
@@ -24282,8 +24282,8 @@ succumb anxiety-4 curiosity potato vulcan uranus
 1
 13 6
 2
-0 52 16 10
 0 50 3 2
+0 52 16 10
 1
 end_operator
 begin_operator
@@ -24291,8 +24291,8 @@ succumb anxiety-4 curiosity shrimp saturn earth
 1
 13 7
 2
-0 52 16 11
 0 50 1 0
+0 52 16 11
 1
 end_operator
 begin_operator
@@ -24300,8 +24300,8 @@ succumb anxiety-4 curiosity shrimp uranus saturn
 1
 13 7
 2
-0 52 16 11
 0 50 2 1
+0 52 16 11
 1
 end_operator
 begin_operator
@@ -24309,8 +24309,8 @@ succumb anxiety-4 curiosity shrimp vulcan uranus
 1
 13 7
 2
-0 52 16 11
 0 50 3 2
+0 52 16 11
 1
 end_operator
 begin_operator
@@ -24318,8 +24318,8 @@ succumb anxiety-4 curiosity tofu saturn earth
 1
 13 8
 2
-0 52 16 12
 0 50 1 0
+0 52 16 12
 1
 end_operator
 begin_operator
@@ -24327,8 +24327,8 @@ succumb anxiety-4 curiosity tofu uranus saturn
 1
 13 8
 2
-0 52 16 12
 0 50 2 1
+0 52 16 12
 1
 end_operator
 begin_operator
@@ -24336,8 +24336,8 @@ succumb anxiety-4 curiosity tofu vulcan uranus
 1
 13 8
 2
-0 52 16 12
 0 50 3 2
+0 52 16 12
 1
 end_operator
 begin_operator
@@ -24345,8 +24345,8 @@ succumb anxiety-4 curiosity wurst saturn earth
 1
 13 9
 2
-0 52 16 14
 0 50 1 0
+0 52 16 14
 1
 end_operator
 begin_operator
@@ -24354,8 +24354,8 @@ succumb anxiety-4 curiosity wurst uranus saturn
 1
 13 9
 2
-0 52 16 14
 0 50 2 1
+0 52 16 14
 1
 end_operator
 begin_operator
@@ -24363,8 +24363,8 @@ succumb anxiety-4 curiosity wurst vulcan uranus
 1
 13 9
 2
-0 52 16 14
 0 50 3 2
+0 52 16 14
 1
 end_operator
 begin_operator
@@ -24372,8 +24372,8 @@ succumb anxiety-4 satiety bacon saturn earth
 1
 4 0
 2
-0 52 17 1
 0 49 1 0
+0 52 17 1
 1
 end_operator
 begin_operator
@@ -24381,8 +24381,8 @@ succumb anxiety-4 satiety bacon uranus saturn
 1
 4 0
 2
-0 52 17 1
 0 49 2 1
+0 52 17 1
 1
 end_operator
 begin_operator
@@ -24390,8 +24390,8 @@ succumb anxiety-4 satiety bacon vulcan uranus
 1
 4 0
 2
-0 52 17 1
 0 49 3 2
+0 52 17 1
 1
 end_operator
 begin_operator
@@ -24399,8 +24399,8 @@ succumb anxiety-4 satiety cherry saturn earth
 1
 4 1
 2
-0 52 17 2
 0 49 1 0
+0 52 17 2
 1
 end_operator
 begin_operator
@@ -24408,8 +24408,8 @@ succumb anxiety-4 satiety cherry uranus saturn
 1
 4 1
 2
-0 52 17 2
 0 49 2 1
+0 52 17 2
 1
 end_operator
 begin_operator
@@ -24417,8 +24417,8 @@ succumb anxiety-4 satiety cherry vulcan uranus
 1
 4 1
 2
-0 52 17 2
 0 49 3 2
+0 52 17 2
 1
 end_operator
 begin_operator
@@ -24426,8 +24426,8 @@ succumb anxiety-4 satiety chicken saturn earth
 1
 4 2
 2
-0 52 17 3
 0 49 1 0
+0 52 17 3
 1
 end_operator
 begin_operator
@@ -24435,8 +24435,8 @@ succumb anxiety-4 satiety chicken uranus saturn
 1
 4 2
 2
-0 52 17 3
 0 49 2 1
+0 52 17 3
 1
 end_operator
 begin_operator
@@ -24444,8 +24444,8 @@ succumb anxiety-4 satiety chicken vulcan uranus
 1
 4 2
 2
-0 52 17 3
 0 49 3 2
+0 52 17 3
 1
 end_operator
 begin_operator
@@ -24453,8 +24453,8 @@ succumb anxiety-4 satiety lettuce saturn earth
 1
 4 3
 2
-0 52 17 5
 0 49 1 0
+0 52 17 5
 1
 end_operator
 begin_operator
@@ -24462,8 +24462,8 @@ succumb anxiety-4 satiety lettuce uranus saturn
 1
 4 3
 2
-0 52 17 5
 0 49 2 1
+0 52 17 5
 1
 end_operator
 begin_operator
@@ -24471,8 +24471,8 @@ succumb anxiety-4 satiety lettuce vulcan uranus
 1
 4 3
 2
-0 52 17 5
 0 49 3 2
+0 52 17 5
 1
 end_operator
 begin_operator
@@ -24480,8 +24480,8 @@ succumb anxiety-4 satiety tofu saturn earth
 1
 4 4
 2
-0 52 17 12
 0 49 1 0
+0 52 17 12
 1
 end_operator
 begin_operator
@@ -24489,8 +24489,8 @@ succumb anxiety-4 satiety tofu uranus saturn
 1
 4 4
 2
-0 52 17 12
 0 49 2 1
+0 52 17 12
 1
 end_operator
 begin_operator
@@ -24498,8 +24498,8 @@ succumb anxiety-4 satiety tofu vulcan uranus
 1
 4 4
 2
-0 52 17 12
 0 49 3 2
+0 52 17 12
 1
 end_operator
 begin_operator
@@ -24507,8 +24507,8 @@ succumb anxiety-4 satiety turkey saturn earth
 1
 4 5
 2
-0 52 17 13
 0 49 1 0
+0 52 17 13
 1
 end_operator
 begin_operator
@@ -24516,8 +24516,8 @@ succumb anxiety-4 satiety turkey uranus saturn
 1
 4 5
 2
-0 52 17 13
 0 49 2 1
+0 52 17 13
 1
 end_operator
 begin_operator
@@ -24525,8 +24525,8 @@ succumb anxiety-4 satiety turkey vulcan uranus
 1
 4 5
 2
-0 52 17 13
 0 49 3 2
+0 52 17 13
 1
 end_operator
 begin_operator
@@ -29549,24 +29549,24 @@ begin_operator
 succumb hangover-10 achievement cherry saturn earth
 0
 2
-0 36 15 2
 0 35 1 0
+0 36 15 2
 1
 end_operator
 begin_operator
 succumb hangover-10 achievement cherry uranus saturn
 0
 2
-0 36 15 2
 0 35 2 1
+0 36 15 2
 1
 end_operator
 begin_operator
 succumb hangover-10 achievement cherry vulcan uranus
 0
 2
-0 36 15 2
 0 35 3 2
+0 36 15 2
 1
 end_operator
 begin_operator
@@ -30005,24 +30005,24 @@ begin_operator
 succumb hangover-13 achievement cherry saturn earth
 0
 2
-0 37 15 2
 0 35 1 0
+0 37 15 2
 1
 end_operator
 begin_operator
 succumb hangover-13 achievement cherry uranus saturn
 0
 2
-0 37 15 2
 0 35 2 1
+0 37 15 2
 1
 end_operator
 begin_operator
 succumb hangover-13 achievement cherry vulcan uranus
 0
 2
-0 37 15 2
 0 35 3 2
+0 37 15 2
 1
 end_operator
 begin_operator
@@ -30461,24 +30461,24 @@ begin_operator
 succumb jealousy achievement cherry saturn earth
 0
 2
-0 38 15 2
 0 35 1 0
+0 38 15 2
 1
 end_operator
 begin_operator
 succumb jealousy achievement cherry uranus saturn
 0
 2
-0 38 15 2
 0 35 2 1
+0 38 15 2
 1
 end_operator
 begin_operator
 succumb jealousy achievement cherry vulcan uranus
 0
 2
-0 38 15 2
 0 35 3 2
+0 38 15 2
 1
 end_operator
 begin_operator
@@ -30917,24 +30917,24 @@ begin_operator
 succumb jealousy-8 achievement cherry saturn earth
 0
 2
-0 53 15 2
 0 35 1 0
+0 53 15 2
 1
 end_operator
 begin_operator
 succumb jealousy-8 achievement cherry uranus saturn
 0
 2
-0 53 15 2
 0 35 2 1
+0 53 15 2
 1
 end_operator
 begin_operator
 succumb jealousy-8 achievement cherry vulcan uranus
 0
 2
-0 53 15 2
 0 35 3 2
+0 53 15 2
 1
 end_operator
 begin_operator
@@ -30942,8 +30942,8 @@ succumb jealousy-8 curiosity apple saturn earth
 1
 13 0
 2
-0 53 16 0
 0 50 1 0
+0 53 16 0
 1
 end_operator
 begin_operator
@@ -30951,8 +30951,8 @@ succumb jealousy-8 curiosity apple uranus saturn
 1
 13 0
 2
-0 53 16 0
 0 50 2 1
+0 53 16 0
 1
 end_operator
 begin_operator
@@ -30960,8 +30960,8 @@ succumb jealousy-8 curiosity apple vulcan uranus
 1
 13 0
 2
-0 53 16 0
 0 50 3 2
+0 53 16 0
 1
 end_operator
 begin_operator
@@ -30969,8 +30969,8 @@ succumb jealousy-8 curiosity chocolate saturn earth
 1
 13 1
 2
-0 53 16 4
 0 50 1 0
+0 53 16 4
 1
 end_operator
 begin_operator
@@ -30978,8 +30978,8 @@ succumb jealousy-8 curiosity chocolate uranus saturn
 1
 13 1
 2
-0 53 16 4
 0 50 2 1
+0 53 16 4
 1
 end_operator
 begin_operator
@@ -30987,8 +30987,8 @@ succumb jealousy-8 curiosity chocolate vulcan uranus
 1
 13 1
 2
-0 53 16 4
 0 50 3 2
+0 53 16 4
 1
 end_operator
 begin_operator
@@ -30996,8 +30996,8 @@ succumb jealousy-8 curiosity melon saturn earth
 1
 13 2
 2
-0 53 16 6
 0 50 1 0
+0 53 16 6
 1
 end_operator
 begin_operator
@@ -31005,8 +31005,8 @@ succumb jealousy-8 curiosity melon uranus saturn
 1
 13 2
 2
-0 53 16 6
 0 50 2 1
+0 53 16 6
 1
 end_operator
 begin_operator
@@ -31014,8 +31014,8 @@ succumb jealousy-8 curiosity melon vulcan uranus
 1
 13 2
 2
-0 53 16 6
 0 50 3 2
+0 53 16 6
 1
 end_operator
 begin_operator
@@ -31023,8 +31023,8 @@ succumb jealousy-8 curiosity muffin saturn earth
 1
 13 3
 2
-0 53 16 7
 0 50 1 0
+0 53 16 7
 1
 end_operator
 begin_operator
@@ -31032,8 +31032,8 @@ succumb jealousy-8 curiosity muffin uranus saturn
 1
 13 3
 2
-0 53 16 7
 0 50 2 1
+0 53 16 7
 1
 end_operator
 begin_operator
@@ -31041,8 +31041,8 @@ succumb jealousy-8 curiosity muffin vulcan uranus
 1
 13 3
 2
-0 53 16 7
 0 50 3 2
+0 53 16 7
 1
 end_operator
 begin_operator
@@ -31050,8 +31050,8 @@ succumb jealousy-8 curiosity orange saturn earth
 1
 13 4
 2
-0 53 16 8
 0 50 1 0
+0 53 16 8
 1
 end_operator
 begin_operator
@@ -31059,8 +31059,8 @@ succumb jealousy-8 curiosity orange uranus saturn
 1
 13 4
 2
-0 53 16 8
 0 50 2 1
+0 53 16 8
 1
 end_operator
 begin_operator
@@ -31068,8 +31068,8 @@ succumb jealousy-8 curiosity orange vulcan uranus
 1
 13 4
 2
-0 53 16 8
 0 50 3 2
+0 53 16 8
 1
 end_operator
 begin_operator
@@ -31077,8 +31077,8 @@ succumb jealousy-8 curiosity pepper saturn earth
 1
 13 5
 2
-0 53 16 9
 0 50 1 0
+0 53 16 9
 1
 end_operator
 begin_operator
@@ -31086,8 +31086,8 @@ succumb jealousy-8 curiosity pepper uranus saturn
 1
 13 5
 2
-0 53 16 9
 0 50 2 1
+0 53 16 9
 1
 end_operator
 begin_operator
@@ -31095,8 +31095,8 @@ succumb jealousy-8 curiosity pepper vulcan uranus
 1
 13 5
 2
-0 53 16 9
 0 50 3 2
+0 53 16 9
 1
 end_operator
 begin_operator
@@ -31104,8 +31104,8 @@ succumb jealousy-8 curiosity potato saturn earth
 1
 13 6
 2
-0 53 16 10
 0 50 1 0
+0 53 16 10
 1
 end_operator
 begin_operator
@@ -31113,8 +31113,8 @@ succumb jealousy-8 curiosity potato uranus saturn
 1
 13 6
 2
-0 53 16 10
 0 50 2 1
+0 53 16 10
 1
 end_operator
 begin_operator
@@ -31122,8 +31122,8 @@ succumb jealousy-8 curiosity potato vulcan uranus
 1
 13 6
 2
-0 53 16 10
 0 50 3 2
+0 53 16 10
 1
 end_operator
 begin_operator
@@ -31131,8 +31131,8 @@ succumb jealousy-8 curiosity shrimp saturn earth
 1
 13 7
 2
-0 53 16 11
 0 50 1 0
+0 53 16 11
 1
 end_operator
 begin_operator
@@ -31140,8 +31140,8 @@ succumb jealousy-8 curiosity shrimp uranus saturn
 1
 13 7
 2
-0 53 16 11
 0 50 2 1
+0 53 16 11
 1
 end_operator
 begin_operator
@@ -31149,8 +31149,8 @@ succumb jealousy-8 curiosity shrimp vulcan uranus
 1
 13 7
 2
-0 53 16 11
 0 50 3 2
+0 53 16 11
 1
 end_operator
 begin_operator
@@ -31158,8 +31158,8 @@ succumb jealousy-8 curiosity tofu saturn earth
 1
 13 8
 2
-0 53 16 12
 0 50 1 0
+0 53 16 12
 1
 end_operator
 begin_operator
@@ -31167,8 +31167,8 @@ succumb jealousy-8 curiosity tofu uranus saturn
 1
 13 8
 2
-0 53 16 12
 0 50 2 1
+0 53 16 12
 1
 end_operator
 begin_operator
@@ -31176,8 +31176,8 @@ succumb jealousy-8 curiosity tofu vulcan uranus
 1
 13 8
 2
-0 53 16 12
 0 50 3 2
+0 53 16 12
 1
 end_operator
 begin_operator
@@ -31185,8 +31185,8 @@ succumb jealousy-8 curiosity wurst saturn earth
 1
 13 9
 2
-0 53 16 14
 0 50 1 0
+0 53 16 14
 1
 end_operator
 begin_operator
@@ -31194,8 +31194,8 @@ succumb jealousy-8 curiosity wurst uranus saturn
 1
 13 9
 2
-0 53 16 14
 0 50 2 1
+0 53 16 14
 1
 end_operator
 begin_operator
@@ -31203,8 +31203,8 @@ succumb jealousy-8 curiosity wurst vulcan uranus
 1
 13 9
 2
-0 53 16 14
 0 50 3 2
+0 53 16 14
 1
 end_operator
 begin_operator
@@ -31212,8 +31212,8 @@ succumb jealousy-8 satiety bacon saturn earth
 1
 4 0
 2
-0 53 17 1
 0 49 1 0
+0 53 17 1
 1
 end_operator
 begin_operator
@@ -31221,8 +31221,8 @@ succumb jealousy-8 satiety bacon uranus saturn
 1
 4 0
 2
-0 53 17 1
 0 49 2 1
+0 53 17 1
 1
 end_operator
 begin_operator
@@ -31230,8 +31230,8 @@ succumb jealousy-8 satiety bacon vulcan uranus
 1
 4 0
 2
-0 53 17 1
 0 49 3 2
+0 53 17 1
 1
 end_operator
 begin_operator
@@ -31239,8 +31239,8 @@ succumb jealousy-8 satiety cherry saturn earth
 1
 4 1
 2
-0 53 17 2
 0 49 1 0
+0 53 17 2
 1
 end_operator
 begin_operator
@@ -31248,8 +31248,8 @@ succumb jealousy-8 satiety cherry uranus saturn
 1
 4 1
 2
-0 53 17 2
 0 49 2 1
+0 53 17 2
 1
 end_operator
 begin_operator
@@ -31257,8 +31257,8 @@ succumb jealousy-8 satiety cherry vulcan uranus
 1
 4 1
 2
-0 53 17 2
 0 49 3 2
+0 53 17 2
 1
 end_operator
 begin_operator
@@ -31266,8 +31266,8 @@ succumb jealousy-8 satiety chicken saturn earth
 1
 4 2
 2
-0 53 17 3
 0 49 1 0
+0 53 17 3
 1
 end_operator
 begin_operator
@@ -31275,8 +31275,8 @@ succumb jealousy-8 satiety chicken uranus saturn
 1
 4 2
 2
-0 53 17 3
 0 49 2 1
+0 53 17 3
 1
 end_operator
 begin_operator
@@ -31284,8 +31284,8 @@ succumb jealousy-8 satiety chicken vulcan uranus
 1
 4 2
 2
-0 53 17 3
 0 49 3 2
+0 53 17 3
 1
 end_operator
 begin_operator
@@ -31293,8 +31293,8 @@ succumb jealousy-8 satiety lettuce saturn earth
 1
 4 3
 2
-0 53 17 5
 0 49 1 0
+0 53 17 5
 1
 end_operator
 begin_operator
@@ -31302,8 +31302,8 @@ succumb jealousy-8 satiety lettuce uranus saturn
 1
 4 3
 2
-0 53 17 5
 0 49 2 1
+0 53 17 5
 1
 end_operator
 begin_operator
@@ -31311,8 +31311,8 @@ succumb jealousy-8 satiety lettuce vulcan uranus
 1
 4 3
 2
-0 53 17 5
 0 49 3 2
+0 53 17 5
 1
 end_operator
 begin_operator
@@ -31320,8 +31320,8 @@ succumb jealousy-8 satiety tofu saturn earth
 1
 4 4
 2
-0 53 17 12
 0 49 1 0
+0 53 17 12
 1
 end_operator
 begin_operator
@@ -31329,8 +31329,8 @@ succumb jealousy-8 satiety tofu uranus saturn
 1
 4 4
 2
-0 53 17 12
 0 49 2 1
+0 53 17 12
 1
 end_operator
 begin_operator
@@ -31338,8 +31338,8 @@ succumb jealousy-8 satiety tofu vulcan uranus
 1
 4 4
 2
-0 53 17 12
 0 49 3 2
+0 53 17 12
 1
 end_operator
 begin_operator
@@ -31347,8 +31347,8 @@ succumb jealousy-8 satiety turkey saturn earth
 1
 4 5
 2
-0 53 17 13
 0 49 1 0
+0 53 17 13
 1
 end_operator
 begin_operator
@@ -31356,8 +31356,8 @@ succumb jealousy-8 satiety turkey uranus saturn
 1
 4 5
 2
-0 53 17 13
 0 49 2 1
+0 53 17 13
 1
 end_operator
 begin_operator
@@ -31365,32 +31365,32 @@ succumb jealousy-8 satiety turkey vulcan uranus
 1
 4 5
 2
-0 53 17 13
 0 49 3 2
+0 53 17 13
 1
 end_operator
 begin_operator
 succumb laceration achievement cherry saturn earth
 0
 2
-0 39 15 2
 0 35 1 0
+0 39 15 2
 1
 end_operator
 begin_operator
 succumb laceration achievement cherry uranus saturn
 0
 2
-0 39 15 2
 0 35 2 1
+0 39 15 2
 1
 end_operator
 begin_operator
 succumb laceration achievement cherry vulcan uranus
 0
 2
-0 39 15 2
 0 35 3 2
+0 39 15 2
 1
 end_operator
 begin_operator
@@ -31829,24 +31829,24 @@ begin_operator
 succumb laceration-7 achievement cherry saturn earth
 0
 2
-0 40 15 2
 0 35 1 0
+0 40 15 2
 1
 end_operator
 begin_operator
 succumb laceration-7 achievement cherry uranus saturn
 0
 2
-0 40 15 2
 0 35 2 1
+0 40 15 2
 1
 end_operator
 begin_operator
 succumb laceration-7 achievement cherry vulcan uranus
 0
 2
-0 40 15 2
 0 35 3 2
+0 40 15 2
 1
 end_operator
 begin_operator
@@ -32285,24 +32285,24 @@ begin_operator
 succumb loneliness achievement cherry saturn earth
 0
 2
-0 41 15 2
 0 35 1 0
+0 41 15 2
 1
 end_operator
 begin_operator
 succumb loneliness achievement cherry uranus saturn
 0
 2
-0 41 15 2
 0 35 2 1
+0 41 15 2
 1
 end_operator
 begin_operator
 succumb loneliness achievement cherry vulcan uranus
 0
 2
-0 41 15 2
 0 35 3 2
+0 41 15 2
 1
 end_operator
 begin_operator
@@ -32741,24 +32741,24 @@ begin_operator
 succumb loneliness-1 achievement cherry saturn earth
 0
 2
-0 42 15 2
 0 35 1 0
+0 42 15 2
 1
 end_operator
 begin_operator
 succumb loneliness-1 achievement cherry uranus saturn
 0
 2
-0 42 15 2
 0 35 2 1
+0 42 15 2
 1
 end_operator
 begin_operator
 succumb loneliness-1 achievement cherry vulcan uranus
 0
 2
-0 42 15 2
 0 35 3 2
+0 42 15 2
 1
 end_operator
 begin_operator
@@ -33197,24 +33197,24 @@ begin_operator
 succumb loneliness-31 achievement cherry saturn earth
 0
 2
-0 43 15 2
 0 35 1 0
+0 43 15 2
 1
 end_operator
 begin_operator
 succumb loneliness-31 achievement cherry uranus saturn
 0
 2
-0 43 15 2
 0 35 2 1
+0 43 15 2
 1
 end_operator
 begin_operator
 succumb loneliness-31 achievement cherry vulcan uranus
 0
 2
-0 43 15 2
 0 35 3 2
+0 43 15 2
 1
 end_operator
 begin_operator
@@ -33653,24 +33653,24 @@ begin_operator
 succumb prostatitis achievement cherry saturn earth
 0
 2
-0 44 15 2
 0 35 1 0
+0 44 15 2
 1
 end_operator
 begin_operator
 succumb prostatitis achievement cherry uranus saturn
 0
 2
-0 44 15 2
 0 35 2 1
+0 44 15 2
 1
 end_operator
 begin_operator
 succumb prostatitis achievement cherry vulcan uranus
 0
 2
-0 44 15 2
 0 35 3 2
+0 44 15 2
 1
 end_operator
 begin_operator
@@ -34109,24 +34109,24 @@ begin_operator
 succumb prostatitis-3 achievement cherry saturn earth
 0
 2
-0 45 15 2
 0 35 1 0
+0 45 15 2
 1
 end_operator
 begin_operator
 succumb prostatitis-3 achievement cherry uranus saturn
 0
 2
-0 45 15 2
 0 35 2 1
+0 45 15 2
 1
 end_operator
 begin_operator
 succumb prostatitis-3 achievement cherry vulcan uranus
 0
 2
-0 45 15 2
 0 35 3 2
+0 45 15 2
 1
 end_operator
 begin_operator
@@ -34565,24 +34565,24 @@ begin_operator
 succumb sciatica achievement cherry saturn earth
 0
 2
-0 46 15 2
 0 35 1 0
+0 46 15 2
 1
 end_operator
 begin_operator
 succumb sciatica achievement cherry uranus saturn
 0
 2
-0 46 15 2
 0 35 2 1
+0 46 15 2
 1
 end_operator
 begin_operator
 succumb sciatica achievement cherry vulcan uranus
 0
 2
-0 46 15 2
 0 35 3 2
+0 46 15 2
 1
 end_operator
 begin_operator
@@ -35021,24 +35021,24 @@ begin_operator
 succumb sciatica-11 achievement cherry saturn earth
 0
 2
-0 47 15 2
 0 35 1 0
+0 47 15 2
 1
 end_operator
 begin_operator
 succumb sciatica-11 achievement cherry uranus saturn
 0
 2
-0 47 15 2
 0 35 2 1
+0 47 15 2
 1
 end_operator
 begin_operator
 succumb sciatica-11 achievement cherry vulcan uranus
 0
 2
-0 47 15 2
 0 35 3 2
+0 47 15 2
 1
 end_operator
 begin_operator
@@ -35477,24 +35477,24 @@ begin_operator
 succumb sciatica-29 achievement cherry saturn earth
 0
 2
-0 48 15 2
 0 35 1 0
+0 48 15 2
 1
 end_operator
 begin_operator
 succumb sciatica-29 achievement cherry uranus saturn
 0
 2
-0 48 15 2
 0 35 2 1
+0 48 15 2
 1
 end_operator
 begin_operator
 succumb sciatica-29 achievement cherry vulcan uranus
 0
 2
-0 48 15 2
 0 35 3 2
+0 48 15 2
 1
 end_operator
 begin_operator

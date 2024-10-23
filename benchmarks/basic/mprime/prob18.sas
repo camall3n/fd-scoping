@@ -181465,8 +181465,8 @@ overcome angina curiosity bacon neptune vulcan
 1
 0 0
 2
-0 44 0 22
 0 32 3 1
+0 44 0 22
 1
 end_operator
 begin_operator
@@ -181474,8 +181474,8 @@ overcome angina curiosity bacon pluto jupiter
 1
 0 0
 2
-0 44 0 22
 0 32 0 2
+0 44 0 22
 1
 end_operator
 begin_operator
@@ -181483,8 +181483,8 @@ overcome angina curiosity bacon vulcan pluto
 1
 0 0
 2
-0 44 0 22
 0 32 2 3
+0 44 0 22
 1
 end_operator
 begin_operator
@@ -181492,8 +181492,8 @@ overcome angina curiosity broccoli neptune vulcan
 1
 0 1
 2
-0 44 1 22
 0 32 3 1
+0 44 1 22
 1
 end_operator
 begin_operator
@@ -181501,8 +181501,8 @@ overcome angina curiosity broccoli pluto jupiter
 1
 0 1
 2
-0 44 1 22
 0 32 0 2
+0 44 1 22
 1
 end_operator
 begin_operator
@@ -181510,8 +181510,8 @@ overcome angina curiosity broccoli vulcan pluto
 1
 0 1
 2
-0 44 1 22
 0 32 2 3
+0 44 1 22
 1
 end_operator
 begin_operator
@@ -181519,8 +181519,8 @@ overcome angina curiosity cantelope neptune vulcan
 1
 0 2
 2
-0 44 2 22
 0 32 3 1
+0 44 2 22
 1
 end_operator
 begin_operator
@@ -181528,8 +181528,8 @@ overcome angina curiosity cantelope pluto jupiter
 1
 0 2
 2
-0 44 2 22
 0 32 0 2
+0 44 2 22
 1
 end_operator
 begin_operator
@@ -181537,8 +181537,8 @@ overcome angina curiosity cantelope vulcan pluto
 1
 0 2
 2
-0 44 2 22
 0 32 2 3
+0 44 2 22
 1
 end_operator
 begin_operator
@@ -181546,8 +181546,8 @@ overcome angina curiosity chicken neptune vulcan
 1
 0 3
 2
-0 44 3 22
 0 32 3 1
+0 44 3 22
 1
 end_operator
 begin_operator
@@ -181555,8 +181555,8 @@ overcome angina curiosity chicken pluto jupiter
 1
 0 3
 2
-0 44 3 22
 0 32 0 2
+0 44 3 22
 1
 end_operator
 begin_operator
@@ -181564,8 +181564,8 @@ overcome angina curiosity chicken vulcan pluto
 1
 0 3
 2
-0 44 3 22
 0 32 2 3
+0 44 3 22
 1
 end_operator
 begin_operator
@@ -181573,8 +181573,8 @@ overcome angina curiosity chocolate neptune vulcan
 1
 0 4
 2
-0 44 4 22
 0 32 3 1
+0 44 4 22
 1
 end_operator
 begin_operator
@@ -181582,8 +181582,8 @@ overcome angina curiosity chocolate pluto jupiter
 1
 0 4
 2
-0 44 4 22
 0 32 0 2
+0 44 4 22
 1
 end_operator
 begin_operator
@@ -181591,8 +181591,8 @@ overcome angina curiosity chocolate vulcan pluto
 1
 0 4
 2
-0 44 4 22
 0 32 2 3
+0 44 4 22
 1
 end_operator
 begin_operator
@@ -181600,8 +181600,8 @@ overcome angina curiosity cucumber neptune vulcan
 1
 0 5
 2
-0 44 5 22
 0 32 3 1
+0 44 5 22
 1
 end_operator
 begin_operator
@@ -181609,8 +181609,8 @@ overcome angina curiosity cucumber pluto jupiter
 1
 0 5
 2
-0 44 5 22
 0 32 0 2
+0 44 5 22
 1
 end_operator
 begin_operator
@@ -181618,8 +181618,8 @@ overcome angina curiosity cucumber vulcan pluto
 1
 0 5
 2
-0 44 5 22
 0 32 2 3
+0 44 5 22
 1
 end_operator
 begin_operator
@@ -181627,8 +181627,8 @@ overcome angina curiosity endive neptune vulcan
 1
 0 6
 2
-0 44 6 22
 0 32 3 1
+0 44 6 22
 1
 end_operator
 begin_operator
@@ -181636,8 +181636,8 @@ overcome angina curiosity endive pluto jupiter
 1
 0 6
 2
-0 44 6 22
 0 32 0 2
+0 44 6 22
 1
 end_operator
 begin_operator
@@ -181645,8 +181645,8 @@ overcome angina curiosity endive vulcan pluto
 1
 0 6
 2
-0 44 6 22
 0 32 2 3
+0 44 6 22
 1
 end_operator
 begin_operator
@@ -181654,8 +181654,8 @@ overcome angina curiosity guava neptune vulcan
 1
 0 7
 2
-0 44 7 22
 0 32 3 1
+0 44 7 22
 1
 end_operator
 begin_operator
@@ -181663,8 +181663,8 @@ overcome angina curiosity guava pluto jupiter
 1
 0 7
 2
-0 44 7 22
 0 32 0 2
+0 44 7 22
 1
 end_operator
 begin_operator
@@ -181672,8 +181672,8 @@ overcome angina curiosity guava vulcan pluto
 1
 0 7
 2
-0 44 7 22
 0 32 2 3
+0 44 7 22
 1
 end_operator
 begin_operator
@@ -181681,8 +181681,8 @@ overcome angina curiosity haroset neptune vulcan
 1
 0 8
 2
-0 44 8 22
 0 32 3 1
+0 44 8 22
 1
 end_operator
 begin_operator
@@ -181690,8 +181690,8 @@ overcome angina curiosity haroset pluto jupiter
 1
 0 8
 2
-0 44 8 22
 0 32 0 2
+0 44 8 22
 1
 end_operator
 begin_operator
@@ -181699,8 +181699,8 @@ overcome angina curiosity haroset vulcan pluto
 1
 0 8
 2
-0 44 8 22
 0 32 2 3
+0 44 8 22
 1
 end_operator
 begin_operator
@@ -181708,8 +181708,8 @@ overcome angina curiosity hotdog neptune vulcan
 1
 0 9
 2
-0 44 9 22
 0 32 3 1
+0 44 9 22
 1
 end_operator
 begin_operator
@@ -181717,8 +181717,8 @@ overcome angina curiosity hotdog pluto jupiter
 1
 0 9
 2
-0 44 9 22
 0 32 0 2
+0 44 9 22
 1
 end_operator
 begin_operator
@@ -181726,8 +181726,8 @@ overcome angina curiosity hotdog vulcan pluto
 1
 0 9
 2
-0 44 9 22
 0 32 2 3
+0 44 9 22
 1
 end_operator
 begin_operator
@@ -181735,8 +181735,8 @@ overcome angina curiosity lemon neptune vulcan
 1
 0 10
 2
-0 44 10 22
 0 32 3 1
+0 44 10 22
 1
 end_operator
 begin_operator
@@ -181744,8 +181744,8 @@ overcome angina curiosity lemon pluto jupiter
 1
 0 10
 2
-0 44 10 22
 0 32 0 2
+0 44 10 22
 1
 end_operator
 begin_operator
@@ -181753,8 +181753,8 @@ overcome angina curiosity lemon vulcan pluto
 1
 0 10
 2
-0 44 10 22
 0 32 2 3
+0 44 10 22
 1
 end_operator
 begin_operator
@@ -181762,8 +181762,8 @@ overcome angina curiosity marzipan neptune vulcan
 1
 0 11
 2
-0 44 11 22
 0 32 3 1
+0 44 11 22
 1
 end_operator
 begin_operator
@@ -181771,8 +181771,8 @@ overcome angina curiosity marzipan pluto jupiter
 1
 0 11
 2
-0 44 11 22
 0 32 0 2
+0 44 11 22
 1
 end_operator
 begin_operator
@@ -181780,8 +181780,8 @@ overcome angina curiosity marzipan vulcan pluto
 1
 0 11
 2
-0 44 11 22
 0 32 2 3
+0 44 11 22
 1
 end_operator
 begin_operator
@@ -181789,8 +181789,8 @@ overcome angina curiosity orange neptune vulcan
 1
 0 12
 2
-0 44 12 22
 0 32 3 1
+0 44 12 22
 1
 end_operator
 begin_operator
@@ -181798,8 +181798,8 @@ overcome angina curiosity orange pluto jupiter
 1
 0 12
 2
-0 44 12 22
 0 32 0 2
+0 44 12 22
 1
 end_operator
 begin_operator
@@ -181807,8 +181807,8 @@ overcome angina curiosity orange vulcan pluto
 1
 0 12
 2
-0 44 12 22
 0 32 2 3
+0 44 12 22
 1
 end_operator
 begin_operator
@@ -181816,8 +181816,8 @@ overcome angina curiosity pea neptune vulcan
 1
 0 13
 2
-0 44 13 22
 0 32 3 1
+0 44 13 22
 1
 end_operator
 begin_operator
@@ -181825,8 +181825,8 @@ overcome angina curiosity pea pluto jupiter
 1
 0 13
 2
-0 44 13 22
 0 32 0 2
+0 44 13 22
 1
 end_operator
 begin_operator
@@ -181834,8 +181834,8 @@ overcome angina curiosity pea vulcan pluto
 1
 0 13
 2
-0 44 13 22
 0 32 2 3
+0 44 13 22
 1
 end_operator
 begin_operator
@@ -181843,8 +181843,8 @@ overcome angina curiosity pepper neptune vulcan
 1
 0 14
 2
-0 44 14 22
 0 32 3 1
+0 44 14 22
 1
 end_operator
 begin_operator
@@ -181852,8 +181852,8 @@ overcome angina curiosity pepper pluto jupiter
 1
 0 14
 2
-0 44 14 22
 0 32 0 2
+0 44 14 22
 1
 end_operator
 begin_operator
@@ -181861,8 +181861,8 @@ overcome angina curiosity pepper vulcan pluto
 1
 0 14
 2
-0 44 14 22
 0 32 2 3
+0 44 14 22
 1
 end_operator
 begin_operator
@@ -181870,8 +181870,8 @@ overcome angina curiosity potato neptune vulcan
 1
 0 15
 2
-0 44 15 22
 0 32 3 1
+0 44 15 22
 1
 end_operator
 begin_operator
@@ -181879,8 +181879,8 @@ overcome angina curiosity potato pluto jupiter
 1
 0 15
 2
-0 44 15 22
 0 32 0 2
+0 44 15 22
 1
 end_operator
 begin_operator
@@ -181888,8 +181888,8 @@ overcome angina curiosity potato vulcan pluto
 1
 0 15
 2
-0 44 15 22
 0 32 2 3
+0 44 15 22
 1
 end_operator
 begin_operator
@@ -181897,8 +181897,8 @@ overcome angina curiosity rice neptune vulcan
 1
 0 16
 2
-0 44 16 22
 0 32 3 1
+0 44 16 22
 1
 end_operator
 begin_operator
@@ -181906,8 +181906,8 @@ overcome angina curiosity rice pluto jupiter
 1
 0 16
 2
-0 44 16 22
 0 32 0 2
+0 44 16 22
 1
 end_operator
 begin_operator
@@ -181915,8 +181915,8 @@ overcome angina curiosity rice vulcan pluto
 1
 0 16
 2
-0 44 16 22
 0 32 2 3
+0 44 16 22
 1
 end_operator
 begin_operator
@@ -181924,8 +181924,8 @@ overcome angina curiosity scallop neptune vulcan
 1
 0 17
 2
-0 44 17 22
 0 32 3 1
+0 44 17 22
 1
 end_operator
 begin_operator
@@ -181933,8 +181933,8 @@ overcome angina curiosity scallop pluto jupiter
 1
 0 17
 2
-0 44 17 22
 0 32 0 2
+0 44 17 22
 1
 end_operator
 begin_operator
@@ -181942,8 +181942,8 @@ overcome angina curiosity scallop vulcan pluto
 1
 0 17
 2
-0 44 17 22
 0 32 2 3
+0 44 17 22
 1
 end_operator
 begin_operator
@@ -181951,8 +181951,8 @@ overcome angina curiosity tofu neptune vulcan
 1
 0 18
 2
-0 44 18 22
 0 32 3 1
+0 44 18 22
 1
 end_operator
 begin_operator
@@ -181960,8 +181960,8 @@ overcome angina curiosity tofu pluto jupiter
 1
 0 18
 2
-0 44 18 22
 0 32 0 2
+0 44 18 22
 1
 end_operator
 begin_operator
@@ -181969,8 +181969,8 @@ overcome angina curiosity tofu vulcan pluto
 1
 0 18
 2
-0 44 18 22
 0 32 2 3
+0 44 18 22
 1
 end_operator
 begin_operator
@@ -181978,8 +181978,8 @@ overcome angina curiosity turkey neptune vulcan
 1
 0 19
 2
-0 44 19 22
 0 32 3 1
+0 44 19 22
 1
 end_operator
 begin_operator
@@ -181987,8 +181987,8 @@ overcome angina curiosity turkey pluto jupiter
 1
 0 19
 2
-0 44 19 22
 0 32 0 2
+0 44 19 22
 1
 end_operator
 begin_operator
@@ -181996,8 +181996,8 @@ overcome angina curiosity turkey vulcan pluto
 1
 0 19
 2
-0 44 19 22
 0 32 2 3
+0 44 19 22
 1
 end_operator
 begin_operator
@@ -182005,8 +182005,8 @@ overcome angina curiosity wonderbread neptune vulcan
 1
 0 20
 2
-0 44 20 22
 0 32 3 1
+0 44 20 22
 1
 end_operator
 begin_operator
@@ -182014,8 +182014,8 @@ overcome angina curiosity wonderbread pluto jupiter
 1
 0 20
 2
-0 44 20 22
 0 32 0 2
+0 44 20 22
 1
 end_operator
 begin_operator
@@ -182023,8 +182023,8 @@ overcome angina curiosity wonderbread vulcan pluto
 1
 0 20
 2
-0 44 20 22
 0 32 2 3
+0 44 20 22
 1
 end_operator
 begin_operator
@@ -182032,8 +182032,8 @@ overcome angina curiosity wurst neptune vulcan
 1
 0 21
 2
-0 44 21 22
 0 32 3 1
+0 44 21 22
 1
 end_operator
 begin_operator
@@ -182041,8 +182041,8 @@ overcome angina curiosity wurst pluto jupiter
 1
 0 21
 2
-0 44 21 22
 0 32 0 2
+0 44 21 22
 1
 end_operator
 begin_operator
@@ -182050,8 +182050,8 @@ overcome angina curiosity wurst vulcan pluto
 1
 0 21
 2
-0 44 21 22
 0 32 2 3
+0 44 21 22
 1
 end_operator
 begin_operator
@@ -182059,8 +182059,8 @@ overcome angina entertainment bacon neptune vulcan
 1
 1 0
 2
-0 44 0 23
 0 33 3 1
+0 44 0 23
 1
 end_operator
 begin_operator
@@ -182068,8 +182068,8 @@ overcome angina entertainment bacon pluto jupiter
 1
 1 0
 2
-0 44 0 23
 0 33 0 2
+0 44 0 23
 1
 end_operator
 begin_operator
@@ -182077,8 +182077,8 @@ overcome angina entertainment bacon vulcan pluto
 1
 1 0
 2
-0 44 0 23
 0 33 2 3
+0 44 0 23
 1
 end_operator
 begin_operator
@@ -182086,8 +182086,8 @@ overcome angina entertainment broccoli neptune vulcan
 1
 1 1
 2
-0 44 1 23
 0 33 3 1
+0 44 1 23
 1
 end_operator
 begin_operator
@@ -182095,8 +182095,8 @@ overcome angina entertainment broccoli pluto jupiter
 1
 1 1
 2
-0 44 1 23
 0 33 0 2
+0 44 1 23
 1
 end_operator
 begin_operator
@@ -182104,8 +182104,8 @@ overcome angina entertainment broccoli vulcan pluto
 1
 1 1
 2
-0 44 1 23
 0 33 2 3
+0 44 1 23
 1
 end_operator
 begin_operator
@@ -182113,8 +182113,8 @@ overcome angina entertainment cantelope neptune vulcan
 1
 1 2
 2
-0 44 2 23
 0 33 3 1
+0 44 2 23
 1
 end_operator
 begin_operator
@@ -182122,8 +182122,8 @@ overcome angina entertainment cantelope pluto jupiter
 1
 1 2
 2
-0 44 2 23
 0 33 0 2
+0 44 2 23
 1
 end_operator
 begin_operator
@@ -182131,8 +182131,8 @@ overcome angina entertainment cantelope vulcan pluto
 1
 1 2
 2
-0 44 2 23
 0 33 2 3
+0 44 2 23
 1
 end_operator
 begin_operator
@@ -182140,8 +182140,8 @@ overcome angina entertainment chicken neptune vulcan
 1
 1 3
 2
-0 44 3 23
 0 33 3 1
+0 44 3 23
 1
 end_operator
 begin_operator
@@ -182149,8 +182149,8 @@ overcome angina entertainment chicken pluto jupiter
 1
 1 3
 2
-0 44 3 23
 0 33 0 2
+0 44 3 23
 1
 end_operator
 begin_operator
@@ -182158,8 +182158,8 @@ overcome angina entertainment chicken vulcan pluto
 1
 1 3
 2
-0 44 3 23
 0 33 2 3
+0 44 3 23
 1
 end_operator
 begin_operator
@@ -182167,8 +182167,8 @@ overcome angina entertainment chocolate neptune vulcan
 1
 1 4
 2
-0 44 4 23
 0 33 3 1
+0 44 4 23
 1
 end_operator
 begin_operator
@@ -182176,8 +182176,8 @@ overcome angina entertainment chocolate pluto jupiter
 1
 1 4
 2
-0 44 4 23
 0 33 0 2
+0 44 4 23
 1
 end_operator
 begin_operator
@@ -182185,8 +182185,8 @@ overcome angina entertainment chocolate vulcan pluto
 1
 1 4
 2
-0 44 4 23
 0 33 2 3
+0 44 4 23
 1
 end_operator
 begin_operator
@@ -182194,8 +182194,8 @@ overcome angina entertainment cucumber neptune vulcan
 1
 1 5
 2
-0 44 5 23
 0 33 3 1
+0 44 5 23
 1
 end_operator
 begin_operator
@@ -182203,8 +182203,8 @@ overcome angina entertainment cucumber pluto jupiter
 1
 1 5
 2
-0 44 5 23
 0 33 0 2
+0 44 5 23
 1
 end_operator
 begin_operator
@@ -182212,8 +182212,8 @@ overcome angina entertainment cucumber vulcan pluto
 1
 1 5
 2
-0 44 5 23
 0 33 2 3
+0 44 5 23
 1
 end_operator
 begin_operator
@@ -182221,8 +182221,8 @@ overcome angina entertainment endive neptune vulcan
 1
 1 6
 2
-0 44 6 23
 0 33 3 1
+0 44 6 23
 1
 end_operator
 begin_operator
@@ -182230,8 +182230,8 @@ overcome angina entertainment endive pluto jupiter
 1
 1 6
 2
-0 44 6 23
 0 33 0 2
+0 44 6 23
 1
 end_operator
 begin_operator
@@ -182239,8 +182239,8 @@ overcome angina entertainment endive vulcan pluto
 1
 1 6
 2
-0 44 6 23
 0 33 2 3
+0 44 6 23
 1
 end_operator
 begin_operator
@@ -182248,8 +182248,8 @@ overcome angina entertainment guava neptune vulcan
 1
 1 7
 2
-0 44 7 23
 0 33 3 1
+0 44 7 23
 1
 end_operator
 begin_operator
@@ -182257,8 +182257,8 @@ overcome angina entertainment guava pluto jupiter
 1
 1 7
 2
-0 44 7 23
 0 33 0 2
+0 44 7 23
 1
 end_operator
 begin_operator
@@ -182266,8 +182266,8 @@ overcome angina entertainment guava vulcan pluto
 1
 1 7
 2
-0 44 7 23
 0 33 2 3
+0 44 7 23
 1
 end_operator
 begin_operator
@@ -182275,8 +182275,8 @@ overcome angina entertainment haroset neptune vulcan
 1
 1 8
 2
-0 44 8 23
 0 33 3 1
+0 44 8 23
 1
 end_operator
 begin_operator
@@ -182284,8 +182284,8 @@ overcome angina entertainment haroset pluto jupiter
 1
 1 8
 2
-0 44 8 23
 0 33 0 2
+0 44 8 23
 1
 end_operator
 begin_operator
@@ -182293,8 +182293,8 @@ overcome angina entertainment haroset vulcan pluto
 1
 1 8
 2
-0 44 8 23
 0 33 2 3
+0 44 8 23
 1
 end_operator
 begin_operator
@@ -182302,8 +182302,8 @@ overcome angina entertainment hotdog neptune vulcan
 1
 1 9
 2
-0 44 9 23
 0 33 3 1
+0 44 9 23
 1
 end_operator
 begin_operator
@@ -182311,8 +182311,8 @@ overcome angina entertainment hotdog pluto jupiter
 1
 1 9
 2
-0 44 9 23
 0 33 0 2
+0 44 9 23
 1
 end_operator
 begin_operator
@@ -182320,8 +182320,8 @@ overcome angina entertainment hotdog vulcan pluto
 1
 1 9
 2
-0 44 9 23
 0 33 2 3
+0 44 9 23
 1
 end_operator
 begin_operator
@@ -182329,8 +182329,8 @@ overcome angina entertainment lemon neptune vulcan
 1
 1 10
 2
-0 44 10 23
 0 33 3 1
+0 44 10 23
 1
 end_operator
 begin_operator
@@ -182338,8 +182338,8 @@ overcome angina entertainment lemon pluto jupiter
 1
 1 10
 2
-0 44 10 23
 0 33 0 2
+0 44 10 23
 1
 end_operator
 begin_operator
@@ -182347,8 +182347,8 @@ overcome angina entertainment lemon vulcan pluto
 1
 1 10
 2
-0 44 10 23
 0 33 2 3
+0 44 10 23
 1
 end_operator
 begin_operator
@@ -182356,8 +182356,8 @@ overcome angina entertainment marzipan neptune vulcan
 1
 1 11
 2
-0 44 11 23
 0 33 3 1
+0 44 11 23
 1
 end_operator
 begin_operator
@@ -182365,8 +182365,8 @@ overcome angina entertainment marzipan pluto jupiter
 1
 1 11
 2
-0 44 11 23
 0 33 0 2
+0 44 11 23
 1
 end_operator
 begin_operator
@@ -182374,8 +182374,8 @@ overcome angina entertainment marzipan vulcan pluto
 1
 1 11
 2
-0 44 11 23
 0 33 2 3
+0 44 11 23
 1
 end_operator
 begin_operator
@@ -182383,8 +182383,8 @@ overcome angina entertainment orange neptune vulcan
 1
 1 12
 2
-0 44 12 23
 0 33 3 1
+0 44 12 23
 1
 end_operator
 begin_operator
@@ -182392,8 +182392,8 @@ overcome angina entertainment orange pluto jupiter
 1
 1 12
 2
-0 44 12 23
 0 33 0 2
+0 44 12 23
 1
 end_operator
 begin_operator
@@ -182401,8 +182401,8 @@ overcome angina entertainment orange vulcan pluto
 1
 1 12
 2
-0 44 12 23
 0 33 2 3
+0 44 12 23
 1
 end_operator
 begin_operator
@@ -182410,8 +182410,8 @@ overcome angina entertainment pea neptune vulcan
 1
 1 13
 2
-0 44 13 23
 0 33 3 1
+0 44 13 23
 1
 end_operator
 begin_operator
@@ -182419,8 +182419,8 @@ overcome angina entertainment pea pluto jupiter
 1
 1 13
 2
-0 44 13 23
 0 33 0 2
+0 44 13 23
 1
 end_operator
 begin_operator
@@ -182428,8 +182428,8 @@ overcome angina entertainment pea vulcan pluto
 1
 1 13
 2
-0 44 13 23
 0 33 2 3
+0 44 13 23
 1
 end_operator
 begin_operator
@@ -182437,8 +182437,8 @@ overcome angina entertainment pepper neptune vulcan
 1
 1 14
 2
-0 44 14 23
 0 33 3 1
+0 44 14 23
 1
 end_operator
 begin_operator
@@ -182446,8 +182446,8 @@ overcome angina entertainment pepper pluto jupiter
 1
 1 14
 2
-0 44 14 23
 0 33 0 2
+0 44 14 23
 1
 end_operator
 begin_operator
@@ -182455,8 +182455,8 @@ overcome angina entertainment pepper vulcan pluto
 1
 1 14
 2
-0 44 14 23
 0 33 2 3
+0 44 14 23
 1
 end_operator
 begin_operator
@@ -182464,8 +182464,8 @@ overcome angina entertainment potato neptune vulcan
 1
 1 15
 2
-0 44 15 23
 0 33 3 1
+0 44 15 23
 1
 end_operator
 begin_operator
@@ -182473,8 +182473,8 @@ overcome angina entertainment potato pluto jupiter
 1
 1 15
 2
-0 44 15 23
 0 33 0 2
+0 44 15 23
 1
 end_operator
 begin_operator
@@ -182482,8 +182482,8 @@ overcome angina entertainment potato vulcan pluto
 1
 1 15
 2
-0 44 15 23
 0 33 2 3
+0 44 15 23
 1
 end_operator
 begin_operator
@@ -182491,8 +182491,8 @@ overcome angina entertainment rice neptune vulcan
 1
 1 16
 2
-0 44 16 23
 0 33 3 1
+0 44 16 23
 1
 end_operator
 begin_operator
@@ -182500,8 +182500,8 @@ overcome angina entertainment rice pluto jupiter
 1
 1 16
 2
-0 44 16 23
 0 33 0 2
+0 44 16 23
 1
 end_operator
 begin_operator
@@ -182509,8 +182509,8 @@ overcome angina entertainment rice vulcan pluto
 1
 1 16
 2
-0 44 16 23
 0 33 2 3
+0 44 16 23
 1
 end_operator
 begin_operator
@@ -182518,8 +182518,8 @@ overcome angina entertainment scallop neptune vulcan
 1
 1 17
 2
-0 44 17 23
 0 33 3 1
+0 44 17 23
 1
 end_operator
 begin_operator
@@ -182527,8 +182527,8 @@ overcome angina entertainment scallop pluto jupiter
 1
 1 17
 2
-0 44 17 23
 0 33 0 2
+0 44 17 23
 1
 end_operator
 begin_operator
@@ -182536,8 +182536,8 @@ overcome angina entertainment scallop vulcan pluto
 1
 1 17
 2
-0 44 17 23
 0 33 2 3
+0 44 17 23
 1
 end_operator
 begin_operator
@@ -182545,8 +182545,8 @@ overcome angina entertainment tofu neptune vulcan
 1
 1 18
 2
-0 44 18 23
 0 33 3 1
+0 44 18 23
 1
 end_operator
 begin_operator
@@ -182554,8 +182554,8 @@ overcome angina entertainment tofu pluto jupiter
 1
 1 18
 2
-0 44 18 23
 0 33 0 2
+0 44 18 23
 1
 end_operator
 begin_operator
@@ -182563,8 +182563,8 @@ overcome angina entertainment tofu vulcan pluto
 1
 1 18
 2
-0 44 18 23
 0 33 2 3
+0 44 18 23
 1
 end_operator
 begin_operator
@@ -182572,8 +182572,8 @@ overcome angina entertainment turkey neptune vulcan
 1
 1 19
 2
-0 44 19 23
 0 33 3 1
+0 44 19 23
 1
 end_operator
 begin_operator
@@ -182581,8 +182581,8 @@ overcome angina entertainment turkey pluto jupiter
 1
 1 19
 2
-0 44 19 23
 0 33 0 2
+0 44 19 23
 1
 end_operator
 begin_operator
@@ -182590,8 +182590,8 @@ overcome angina entertainment turkey vulcan pluto
 1
 1 19
 2
-0 44 19 23
 0 33 2 3
+0 44 19 23
 1
 end_operator
 begin_operator
@@ -182599,8 +182599,8 @@ overcome angina entertainment wonderbread neptune vulcan
 1
 1 20
 2
-0 44 20 23
 0 33 3 1
+0 44 20 23
 1
 end_operator
 begin_operator
@@ -182608,8 +182608,8 @@ overcome angina entertainment wonderbread pluto jupiter
 1
 1 20
 2
-0 44 20 23
 0 33 0 2
+0 44 20 23
 1
 end_operator
 begin_operator
@@ -182617,8 +182617,8 @@ overcome angina entertainment wonderbread vulcan pluto
 1
 1 20
 2
-0 44 20 23
 0 33 2 3
+0 44 20 23
 1
 end_operator
 begin_operator
@@ -182626,8 +182626,8 @@ overcome angina entertainment wurst neptune vulcan
 1
 1 21
 2
-0 44 21 23
 0 33 3 1
+0 44 21 23
 1
 end_operator
 begin_operator
@@ -182635,8 +182635,8 @@ overcome angina entertainment wurst pluto jupiter
 1
 1 21
 2
-0 44 21 23
 0 33 0 2
+0 44 21 23
 1
 end_operator
 begin_operator
@@ -182644,8 +182644,8 @@ overcome angina entertainment wurst vulcan pluto
 1
 1 21
 2
-0 44 21 23
 0 33 2 3
+0 44 21 23
 1
 end_operator
 begin_operator
@@ -182653,8 +182653,8 @@ overcome angina expectation bacon neptune vulcan
 1
 2 0
 2
-0 44 0 24
 0 36 3 1
+0 44 0 24
 1
 end_operator
 begin_operator
@@ -182662,8 +182662,8 @@ overcome angina expectation bacon pluto jupiter
 1
 2 0
 2
-0 44 0 24
 0 36 0 2
+0 44 0 24
 1
 end_operator
 begin_operator
@@ -182671,8 +182671,8 @@ overcome angina expectation bacon vulcan pluto
 1
 2 0
 2
-0 44 0 24
 0 36 2 3
+0 44 0 24
 1
 end_operator
 begin_operator
@@ -182680,8 +182680,8 @@ overcome angina expectation broccoli neptune vulcan
 1
 2 1
 2
-0 44 1 24
 0 36 3 1
+0 44 1 24
 1
 end_operator
 begin_operator
@@ -182689,8 +182689,8 @@ overcome angina expectation broccoli pluto jupiter
 1
 2 1
 2
-0 44 1 24
 0 36 0 2
+0 44 1 24
 1
 end_operator
 begin_operator
@@ -182698,8 +182698,8 @@ overcome angina expectation broccoli vulcan pluto
 1
 2 1
 2
-0 44 1 24
 0 36 2 3
+0 44 1 24
 1
 end_operator
 begin_operator
@@ -182707,8 +182707,8 @@ overcome angina expectation cantelope neptune vulcan
 1
 2 2
 2
-0 44 2 24
 0 36 3 1
+0 44 2 24
 1
 end_operator
 begin_operator
@@ -182716,8 +182716,8 @@ overcome angina expectation cantelope pluto jupiter
 1
 2 2
 2
-0 44 2 24
 0 36 0 2
+0 44 2 24
 1
 end_operator
 begin_operator
@@ -182725,8 +182725,8 @@ overcome angina expectation cantelope vulcan pluto
 1
 2 2
 2
-0 44 2 24
 0 36 2 3
+0 44 2 24
 1
 end_operator
 begin_operator
@@ -182734,8 +182734,8 @@ overcome angina expectation chicken neptune vulcan
 1
 2 3
 2
-0 44 3 24
 0 36 3 1
+0 44 3 24
 1
 end_operator
 begin_operator
@@ -182743,8 +182743,8 @@ overcome angina expectation chicken pluto jupiter
 1
 2 3
 2
-0 44 3 24
 0 36 0 2
+0 44 3 24
 1
 end_operator
 begin_operator
@@ -182752,8 +182752,8 @@ overcome angina expectation chicken vulcan pluto
 1
 2 3
 2
-0 44 3 24
 0 36 2 3
+0 44 3 24
 1
 end_operator
 begin_operator
@@ -182761,8 +182761,8 @@ overcome angina expectation chocolate neptune vulcan
 1
 2 4
 2
-0 44 4 24
 0 36 3 1
+0 44 4 24
 1
 end_operator
 begin_operator
@@ -182770,8 +182770,8 @@ overcome angina expectation chocolate pluto jupiter
 1
 2 4
 2
-0 44 4 24
 0 36 0 2
+0 44 4 24
 1
 end_operator
 begin_operator
@@ -182779,8 +182779,8 @@ overcome angina expectation chocolate vulcan pluto
 1
 2 4
 2
-0 44 4 24
 0 36 2 3
+0 44 4 24
 1
 end_operator
 begin_operator
@@ -182788,8 +182788,8 @@ overcome angina expectation cucumber neptune vulcan
 1
 2 5
 2
-0 44 5 24
 0 36 3 1
+0 44 5 24
 1
 end_operator
 begin_operator
@@ -182797,8 +182797,8 @@ overcome angina expectation cucumber pluto jupiter
 1
 2 5
 2
-0 44 5 24
 0 36 0 2
+0 44 5 24
 1
 end_operator
 begin_operator
@@ -182806,8 +182806,8 @@ overcome angina expectation cucumber vulcan pluto
 1
 2 5
 2
-0 44 5 24
 0 36 2 3
+0 44 5 24
 1
 end_operator
 begin_operator
@@ -182815,8 +182815,8 @@ overcome angina expectation endive neptune vulcan
 1
 2 6
 2
-0 44 6 24
 0 36 3 1
+0 44 6 24
 1
 end_operator
 begin_operator
@@ -182824,8 +182824,8 @@ overcome angina expectation endive pluto jupiter
 1
 2 6
 2
-0 44 6 24
 0 36 0 2
+0 44 6 24
 1
 end_operator
 begin_operator
@@ -182833,8 +182833,8 @@ overcome angina expectation endive vulcan pluto
 1
 2 6
 2
-0 44 6 24
 0 36 2 3
+0 44 6 24
 1
 end_operator
 begin_operator
@@ -182842,8 +182842,8 @@ overcome angina expectation guava neptune vulcan
 1
 2 7
 2
-0 44 7 24
 0 36 3 1
+0 44 7 24
 1
 end_operator
 begin_operator
@@ -182851,8 +182851,8 @@ overcome angina expectation guava pluto jupiter
 1
 2 7
 2
-0 44 7 24
 0 36 0 2
+0 44 7 24
 1
 end_operator
 begin_operator
@@ -182860,8 +182860,8 @@ overcome angina expectation guava vulcan pluto
 1
 2 7
 2
-0 44 7 24
 0 36 2 3
+0 44 7 24
 1
 end_operator
 begin_operator
@@ -182869,8 +182869,8 @@ overcome angina expectation haroset neptune vulcan
 1
 2 8
 2
-0 44 8 24
 0 36 3 1
+0 44 8 24
 1
 end_operator
 begin_operator
@@ -182878,8 +182878,8 @@ overcome angina expectation haroset pluto jupiter
 1
 2 8
 2
-0 44 8 24
 0 36 0 2
+0 44 8 24
 1
 end_operator
 begin_operator
@@ -182887,8 +182887,8 @@ overcome angina expectation haroset vulcan pluto
 1
 2 8
 2
-0 44 8 24
 0 36 2 3
+0 44 8 24
 1
 end_operator
 begin_operator
@@ -182896,8 +182896,8 @@ overcome angina expectation hotdog neptune vulcan
 1
 2 9
 2
-0 44 9 24
 0 36 3 1
+0 44 9 24
 1
 end_operator
 begin_operator
@@ -182905,8 +182905,8 @@ overcome angina expectation hotdog pluto jupiter
 1
 2 9
 2
-0 44 9 24
 0 36 0 2
+0 44 9 24
 1
 end_operator
 begin_operator
@@ -182914,8 +182914,8 @@ overcome angina expectation hotdog vulcan pluto
 1
 2 9
 2
-0 44 9 24
 0 36 2 3
+0 44 9 24
 1
 end_operator
 begin_operator
@@ -182923,8 +182923,8 @@ overcome angina expectation lemon neptune vulcan
 1
 2 10
 2
-0 44 10 24
 0 36 3 1
+0 44 10 24
 1
 end_operator
 begin_operator
@@ -182932,8 +182932,8 @@ overcome angina expectation lemon pluto jupiter
 1
 2 10
 2
-0 44 10 24
 0 36 0 2
+0 44 10 24
 1
 end_operator
 begin_operator
@@ -182941,8 +182941,8 @@ overcome angina expectation lemon vulcan pluto
 1
 2 10
 2
-0 44 10 24
 0 36 2 3
+0 44 10 24
 1
 end_operator
 begin_operator
@@ -182950,8 +182950,8 @@ overcome angina expectation marzipan neptune vulcan
 1
 2 11
 2
-0 44 11 24
 0 36 3 1
+0 44 11 24
 1
 end_operator
 begin_operator
@@ -182959,8 +182959,8 @@ overcome angina expectation marzipan pluto jupiter
 1
 2 11
 2
-0 44 11 24
 0 36 0 2
+0 44 11 24
 1
 end_operator
 begin_operator
@@ -182968,8 +182968,8 @@ overcome angina expectation marzipan vulcan pluto
 1
 2 11
 2
-0 44 11 24
 0 36 2 3
+0 44 11 24
 1
 end_operator
 begin_operator
@@ -182977,8 +182977,8 @@ overcome angina expectation orange neptune vulcan
 1
 2 12
 2
-0 44 12 24
 0 36 3 1
+0 44 12 24
 1
 end_operator
 begin_operator
@@ -182986,8 +182986,8 @@ overcome angina expectation orange pluto jupiter
 1
 2 12
 2
-0 44 12 24
 0 36 0 2
+0 44 12 24
 1
 end_operator
 begin_operator
@@ -182995,8 +182995,8 @@ overcome angina expectation orange vulcan pluto
 1
 2 12
 2
-0 44 12 24
 0 36 2 3
+0 44 12 24
 1
 end_operator
 begin_operator
@@ -183004,8 +183004,8 @@ overcome angina expectation pea neptune vulcan
 1
 2 13
 2
-0 44 13 24
 0 36 3 1
+0 44 13 24
 1
 end_operator
 begin_operator
@@ -183013,8 +183013,8 @@ overcome angina expectation pea pluto jupiter
 1
 2 13
 2
-0 44 13 24
 0 36 0 2
+0 44 13 24
 1
 end_operator
 begin_operator
@@ -183022,8 +183022,8 @@ overcome angina expectation pea vulcan pluto
 1
 2 13
 2
-0 44 13 24
 0 36 2 3
+0 44 13 24
 1
 end_operator
 begin_operator
@@ -183031,8 +183031,8 @@ overcome angina expectation pepper neptune vulcan
 1
 2 14
 2
-0 44 14 24
 0 36 3 1
+0 44 14 24
 1
 end_operator
 begin_operator
@@ -183040,8 +183040,8 @@ overcome angina expectation pepper pluto jupiter
 1
 2 14
 2
-0 44 14 24
 0 36 0 2
+0 44 14 24
 1
 end_operator
 begin_operator
@@ -183049,8 +183049,8 @@ overcome angina expectation pepper vulcan pluto
 1
 2 14
 2
-0 44 14 24
 0 36 2 3
+0 44 14 24
 1
 end_operator
 begin_operator
@@ -183058,8 +183058,8 @@ overcome angina expectation potato neptune vulcan
 1
 2 15
 2
-0 44 15 24
 0 36 3 1
+0 44 15 24
 1
 end_operator
 begin_operator
@@ -183067,8 +183067,8 @@ overcome angina expectation potato pluto jupiter
 1
 2 15
 2
-0 44 15 24
 0 36 0 2
+0 44 15 24
 1
 end_operator
 begin_operator
@@ -183076,8 +183076,8 @@ overcome angina expectation potato vulcan pluto
 1
 2 15
 2
-0 44 15 24
 0 36 2 3
+0 44 15 24
 1
 end_operator
 begin_operator
@@ -183085,8 +183085,8 @@ overcome angina expectation rice neptune vulcan
 1
 2 16
 2
-0 44 16 24
 0 36 3 1
+0 44 16 24
 1
 end_operator
 begin_operator
@@ -183094,8 +183094,8 @@ overcome angina expectation rice pluto jupiter
 1
 2 16
 2
-0 44 16 24
 0 36 0 2
+0 44 16 24
 1
 end_operator
 begin_operator
@@ -183103,8 +183103,8 @@ overcome angina expectation rice vulcan pluto
 1
 2 16
 2
-0 44 16 24
 0 36 2 3
+0 44 16 24
 1
 end_operator
 begin_operator
@@ -183112,8 +183112,8 @@ overcome angina expectation scallop neptune vulcan
 1
 2 17
 2
-0 44 17 24
 0 36 3 1
+0 44 17 24
 1
 end_operator
 begin_operator
@@ -183121,8 +183121,8 @@ overcome angina expectation scallop pluto jupiter
 1
 2 17
 2
-0 44 17 24
 0 36 0 2
+0 44 17 24
 1
 end_operator
 begin_operator
@@ -183130,8 +183130,8 @@ overcome angina expectation scallop vulcan pluto
 1
 2 17
 2
-0 44 17 24
 0 36 2 3
+0 44 17 24
 1
 end_operator
 begin_operator
@@ -183139,8 +183139,8 @@ overcome angina expectation tofu neptune vulcan
 1
 2 18
 2
-0 44 18 24
 0 36 3 1
+0 44 18 24
 1
 end_operator
 begin_operator
@@ -183148,8 +183148,8 @@ overcome angina expectation tofu pluto jupiter
 1
 2 18
 2
-0 44 18 24
 0 36 0 2
+0 44 18 24
 1
 end_operator
 begin_operator
@@ -183157,8 +183157,8 @@ overcome angina expectation tofu vulcan pluto
 1
 2 18
 2
-0 44 18 24
 0 36 2 3
+0 44 18 24
 1
 end_operator
 begin_operator
@@ -183166,8 +183166,8 @@ overcome angina expectation turkey neptune vulcan
 1
 2 19
 2
-0 44 19 24
 0 36 3 1
+0 44 19 24
 1
 end_operator
 begin_operator
@@ -183175,8 +183175,8 @@ overcome angina expectation turkey pluto jupiter
 1
 2 19
 2
-0 44 19 24
 0 36 0 2
+0 44 19 24
 1
 end_operator
 begin_operator
@@ -183184,8 +183184,8 @@ overcome angina expectation turkey vulcan pluto
 1
 2 19
 2
-0 44 19 24
 0 36 2 3
+0 44 19 24
 1
 end_operator
 begin_operator
@@ -183193,8 +183193,8 @@ overcome angina expectation wonderbread neptune vulcan
 1
 2 20
 2
-0 44 20 24
 0 36 3 1
+0 44 20 24
 1
 end_operator
 begin_operator
@@ -183202,8 +183202,8 @@ overcome angina expectation wonderbread pluto jupiter
 1
 2 20
 2
-0 44 20 24
 0 36 0 2
+0 44 20 24
 1
 end_operator
 begin_operator
@@ -183211,8 +183211,8 @@ overcome angina expectation wonderbread vulcan pluto
 1
 2 20
 2
-0 44 20 24
 0 36 2 3
+0 44 20 24
 1
 end_operator
 begin_operator
@@ -183220,8 +183220,8 @@ overcome angina expectation wurst neptune vulcan
 1
 2 21
 2
-0 44 21 24
 0 36 3 1
+0 44 21 24
 1
 end_operator
 begin_operator
@@ -183229,8 +183229,8 @@ overcome angina expectation wurst pluto jupiter
 1
 2 21
 2
-0 44 21 24
 0 36 0 2
+0 44 21 24
 1
 end_operator
 begin_operator
@@ -183238,8 +183238,8 @@ overcome angina expectation wurst vulcan pluto
 1
 2 21
 2
-0 44 21 24
 0 36 2 3
+0 44 21 24
 1
 end_operator
 begin_operator
@@ -183247,8 +183247,8 @@ overcome angina learning bacon neptune vulcan
 1
 3 0
 2
-0 44 0 25
 0 37 3 1
+0 44 0 25
 1
 end_operator
 begin_operator
@@ -183256,8 +183256,8 @@ overcome angina learning bacon pluto jupiter
 1
 3 0
 2
-0 44 0 25
 0 37 0 2
+0 44 0 25
 1
 end_operator
 begin_operator
@@ -183265,8 +183265,8 @@ overcome angina learning bacon vulcan pluto
 1
 3 0
 2
-0 44 0 25
 0 37 2 3
+0 44 0 25
 1
 end_operator
 begin_operator
@@ -183274,8 +183274,8 @@ overcome angina learning broccoli neptune vulcan
 1
 3 1
 2
-0 44 1 25
 0 37 3 1
+0 44 1 25
 1
 end_operator
 begin_operator
@@ -183283,8 +183283,8 @@ overcome angina learning broccoli pluto jupiter
 1
 3 1
 2
-0 44 1 25
 0 37 0 2
+0 44 1 25
 1
 end_operator
 begin_operator
@@ -183292,8 +183292,8 @@ overcome angina learning broccoli vulcan pluto
 1
 3 1
 2
-0 44 1 25
 0 37 2 3
+0 44 1 25
 1
 end_operator
 begin_operator
@@ -183301,8 +183301,8 @@ overcome angina learning cantelope neptune vulcan
 1
 3 2
 2
-0 44 2 25
 0 37 3 1
+0 44 2 25
 1
 end_operator
 begin_operator
@@ -183310,8 +183310,8 @@ overcome angina learning cantelope pluto jupiter
 1
 3 2
 2
-0 44 2 25
 0 37 0 2
+0 44 2 25
 1
 end_operator
 begin_operator
@@ -183319,8 +183319,8 @@ overcome angina learning cantelope vulcan pluto
 1
 3 2
 2
-0 44 2 25
 0 37 2 3
+0 44 2 25
 1
 end_operator
 begin_operator
@@ -183328,8 +183328,8 @@ overcome angina learning chicken neptune vulcan
 1
 3 3
 2
-0 44 3 25
 0 37 3 1
+0 44 3 25
 1
 end_operator
 begin_operator
@@ -183337,8 +183337,8 @@ overcome angina learning chicken pluto jupiter
 1
 3 3
 2
-0 44 3 25
 0 37 0 2
+0 44 3 25
 1
 end_operator
 begin_operator
@@ -183346,8 +183346,8 @@ overcome angina learning chicken vulcan pluto
 1
 3 3
 2
-0 44 3 25
 0 37 2 3
+0 44 3 25
 1
 end_operator
 begin_operator
@@ -183355,8 +183355,8 @@ overcome angina learning chocolate neptune vulcan
 1
 3 4
 2
-0 44 4 25
 0 37 3 1
+0 44 4 25
 1
 end_operator
 begin_operator
@@ -183364,8 +183364,8 @@ overcome angina learning chocolate pluto jupiter
 1
 3 4
 2
-0 44 4 25
 0 37 0 2
+0 44 4 25
 1
 end_operator
 begin_operator
@@ -183373,8 +183373,8 @@ overcome angina learning chocolate vulcan pluto
 1
 3 4
 2
-0 44 4 25
 0 37 2 3
+0 44 4 25
 1
 end_operator
 begin_operator
@@ -183382,8 +183382,8 @@ overcome angina learning cucumber neptune vulcan
 1
 3 5
 2
-0 44 5 25
 0 37 3 1
+0 44 5 25
 1
 end_operator
 begin_operator
@@ -183391,8 +183391,8 @@ overcome angina learning cucumber pluto jupiter
 1
 3 5
 2
-0 44 5 25
 0 37 0 2
+0 44 5 25
 1
 end_operator
 begin_operator
@@ -183400,8 +183400,8 @@ overcome angina learning cucumber vulcan pluto
 1
 3 5
 2
-0 44 5 25
 0 37 2 3
+0 44 5 25
 1
 end_operator
 begin_operator
@@ -183409,8 +183409,8 @@ overcome angina learning endive neptune vulcan
 1
 3 6
 2
-0 44 6 25
 0 37 3 1
+0 44 6 25
 1
 end_operator
 begin_operator
@@ -183418,8 +183418,8 @@ overcome angina learning endive pluto jupiter
 1
 3 6
 2
-0 44 6 25
 0 37 0 2
+0 44 6 25
 1
 end_operator
 begin_operator
@@ -183427,8 +183427,8 @@ overcome angina learning endive vulcan pluto
 1
 3 6
 2
-0 44 6 25
 0 37 2 3
+0 44 6 25
 1
 end_operator
 begin_operator
@@ -183436,8 +183436,8 @@ overcome angina learning guava neptune vulcan
 1
 3 7
 2
-0 44 7 25
 0 37 3 1
+0 44 7 25
 1
 end_operator
 begin_operator
@@ -183445,8 +183445,8 @@ overcome angina learning guava pluto jupiter
 1
 3 7
 2
-0 44 7 25
 0 37 0 2
+0 44 7 25
 1
 end_operator
 begin_operator
@@ -183454,8 +183454,8 @@ overcome angina learning guava vulcan pluto
 1
 3 7
 2
-0 44 7 25
 0 37 2 3
+0 44 7 25
 1
 end_operator
 begin_operator
@@ -183463,8 +183463,8 @@ overcome angina learning haroset neptune vulcan
 1
 3 8
 2
-0 44 8 25
 0 37 3 1
+0 44 8 25
 1
 end_operator
 begin_operator
@@ -183472,8 +183472,8 @@ overcome angina learning haroset pluto jupiter
 1
 3 8
 2
-0 44 8 25
 0 37 0 2
+0 44 8 25
 1
 end_operator
 begin_operator
@@ -183481,8 +183481,8 @@ overcome angina learning haroset vulcan pluto
 1
 3 8
 2
-0 44 8 25
 0 37 2 3
+0 44 8 25
 1
 end_operator
 begin_operator
@@ -183490,8 +183490,8 @@ overcome angina learning hotdog neptune vulcan
 1
 3 9
 2
-0 44 9 25
 0 37 3 1
+0 44 9 25
 1
 end_operator
 begin_operator
@@ -183499,8 +183499,8 @@ overcome angina learning hotdog pluto jupiter
 1
 3 9
 2
-0 44 9 25
 0 37 0 2
+0 44 9 25
 1
 end_operator
 begin_operator
@@ -183508,8 +183508,8 @@ overcome angina learning hotdog vulcan pluto
 1
 3 9
 2
-0 44 9 25
 0 37 2 3
+0 44 9 25
 1
 end_operator
 begin_operator
@@ -183517,8 +183517,8 @@ overcome angina learning lemon neptune vulcan
 1
 3 10
 2
-0 44 10 25
 0 37 3 1
+0 44 10 25
 1
 end_operator
 begin_operator
@@ -183526,8 +183526,8 @@ overcome angina learning lemon pluto jupiter
 1
 3 10
 2
-0 44 10 25
 0 37 0 2
+0 44 10 25
 1
 end_operator
 begin_operator
@@ -183535,8 +183535,8 @@ overcome angina learning lemon vulcan pluto
 1
 3 10
 2
-0 44 10 25
 0 37 2 3
+0 44 10 25
 1
 end_operator
 begin_operator
@@ -183544,8 +183544,8 @@ overcome angina learning marzipan neptune vulcan
 1
 3 11
 2
-0 44 11 25
 0 37 3 1
+0 44 11 25
 1
 end_operator
 begin_operator
@@ -183553,8 +183553,8 @@ overcome angina learning marzipan pluto jupiter
 1
 3 11
 2
-0 44 11 25
 0 37 0 2
+0 44 11 25
 1
 end_operator
 begin_operator
@@ -183562,8 +183562,8 @@ overcome angina learning marzipan vulcan pluto
 1
 3 11
 2
-0 44 11 25
 0 37 2 3
+0 44 11 25
 1
 end_operator
 begin_operator
@@ -183571,8 +183571,8 @@ overcome angina learning orange neptune vulcan
 1
 3 12
 2
-0 44 12 25
 0 37 3 1
+0 44 12 25
 1
 end_operator
 begin_operator
@@ -183580,8 +183580,8 @@ overcome angina learning orange pluto jupiter
 1
 3 12
 2
-0 44 12 25
 0 37 0 2
+0 44 12 25
 1
 end_operator
 begin_operator
@@ -183589,8 +183589,8 @@ overcome angina learning orange vulcan pluto
 1
 3 12
 2
-0 44 12 25
 0 37 2 3
+0 44 12 25
 1
 end_operator
 begin_operator
@@ -183598,8 +183598,8 @@ overcome angina learning pea neptune vulcan
 1
 3 13
 2
-0 44 13 25
 0 37 3 1
+0 44 13 25
 1
 end_operator
 begin_operator
@@ -183607,8 +183607,8 @@ overcome angina learning pea pluto jupiter
 1
 3 13
 2
-0 44 13 25
 0 37 0 2
+0 44 13 25
 1
 end_operator
 begin_operator
@@ -183616,8 +183616,8 @@ overcome angina learning pea vulcan pluto
 1
 3 13
 2
-0 44 13 25
 0 37 2 3
+0 44 13 25
 1
 end_operator
 begin_operator
@@ -183625,8 +183625,8 @@ overcome angina learning pepper neptune vulcan
 1
 3 14
 2
-0 44 14 25
 0 37 3 1
+0 44 14 25
 1
 end_operator
 begin_operator
@@ -183634,8 +183634,8 @@ overcome angina learning pepper pluto jupiter
 1
 3 14
 2
-0 44 14 25
 0 37 0 2
+0 44 14 25
 1
 end_operator
 begin_operator
@@ -183643,8 +183643,8 @@ overcome angina learning pepper vulcan pluto
 1
 3 14
 2
-0 44 14 25
 0 37 2 3
+0 44 14 25
 1
 end_operator
 begin_operator
@@ -183652,8 +183652,8 @@ overcome angina learning potato neptune vulcan
 1
 3 15
 2
-0 44 15 25
 0 37 3 1
+0 44 15 25
 1
 end_operator
 begin_operator
@@ -183661,8 +183661,8 @@ overcome angina learning potato pluto jupiter
 1
 3 15
 2
-0 44 15 25
 0 37 0 2
+0 44 15 25
 1
 end_operator
 begin_operator
@@ -183670,8 +183670,8 @@ overcome angina learning potato vulcan pluto
 1
 3 15
 2
-0 44 15 25
 0 37 2 3
+0 44 15 25
 1
 end_operator
 begin_operator
@@ -183679,8 +183679,8 @@ overcome angina learning rice neptune vulcan
 1
 3 16
 2
-0 44 16 25
 0 37 3 1
+0 44 16 25
 1
 end_operator
 begin_operator
@@ -183688,8 +183688,8 @@ overcome angina learning rice pluto jupiter
 1
 3 16
 2
-0 44 16 25
 0 37 0 2
+0 44 16 25
 1
 end_operator
 begin_operator
@@ -183697,8 +183697,8 @@ overcome angina learning rice vulcan pluto
 1
 3 16
 2
-0 44 16 25
 0 37 2 3
+0 44 16 25
 1
 end_operator
 begin_operator
@@ -183706,8 +183706,8 @@ overcome angina learning scallop neptune vulcan
 1
 3 17
 2
-0 44 17 25
 0 37 3 1
+0 44 17 25
 1
 end_operator
 begin_operator
@@ -183715,8 +183715,8 @@ overcome angina learning scallop pluto jupiter
 1
 3 17
 2
-0 44 17 25
 0 37 0 2
+0 44 17 25
 1
 end_operator
 begin_operator
@@ -183724,8 +183724,8 @@ overcome angina learning scallop vulcan pluto
 1
 3 17
 2
-0 44 17 25
 0 37 2 3
+0 44 17 25
 1
 end_operator
 begin_operator
@@ -183733,8 +183733,8 @@ overcome angina learning tofu neptune vulcan
 1
 3 18
 2
-0 44 18 25
 0 37 3 1
+0 44 18 25
 1
 end_operator
 begin_operator
@@ -183742,8 +183742,8 @@ overcome angina learning tofu pluto jupiter
 1
 3 18
 2
-0 44 18 25
 0 37 0 2
+0 44 18 25
 1
 end_operator
 begin_operator
@@ -183751,8 +183751,8 @@ overcome angina learning tofu vulcan pluto
 1
 3 18
 2
-0 44 18 25
 0 37 2 3
+0 44 18 25
 1
 end_operator
 begin_operator
@@ -183760,8 +183760,8 @@ overcome angina learning turkey neptune vulcan
 1
 3 19
 2
-0 44 19 25
 0 37 3 1
+0 44 19 25
 1
 end_operator
 begin_operator
@@ -183769,8 +183769,8 @@ overcome angina learning turkey pluto jupiter
 1
 3 19
 2
-0 44 19 25
 0 37 0 2
+0 44 19 25
 1
 end_operator
 begin_operator
@@ -183778,8 +183778,8 @@ overcome angina learning turkey vulcan pluto
 1
 3 19
 2
-0 44 19 25
 0 37 2 3
+0 44 19 25
 1
 end_operator
 begin_operator
@@ -183787,8 +183787,8 @@ overcome angina learning wonderbread neptune vulcan
 1
 3 20
 2
-0 44 20 25
 0 37 3 1
+0 44 20 25
 1
 end_operator
 begin_operator
@@ -183796,8 +183796,8 @@ overcome angina learning wonderbread pluto jupiter
 1
 3 20
 2
-0 44 20 25
 0 37 0 2
+0 44 20 25
 1
 end_operator
 begin_operator
@@ -183805,8 +183805,8 @@ overcome angina learning wonderbread vulcan pluto
 1
 3 20
 2
-0 44 20 25
 0 37 2 3
+0 44 20 25
 1
 end_operator
 begin_operator
@@ -183814,8 +183814,8 @@ overcome angina learning wurst neptune vulcan
 1
 3 21
 2
-0 44 21 25
 0 37 3 1
+0 44 21 25
 1
 end_operator
 begin_operator
@@ -183823,8 +183823,8 @@ overcome angina learning wurst pluto jupiter
 1
 3 21
 2
-0 44 21 25
 0 37 0 2
+0 44 21 25
 1
 end_operator
 begin_operator
@@ -183832,8 +183832,8 @@ overcome angina learning wurst vulcan pluto
 1
 3 21
 2
-0 44 21 25
 0 37 2 3
+0 44 21 25
 1
 end_operator
 begin_operator
@@ -183841,8 +183841,8 @@ overcome angina rest bacon neptune vulcan
 1
 4 0
 2
-0 44 0 26
 0 40 3 1
+0 44 0 26
 1
 end_operator
 begin_operator
@@ -183850,8 +183850,8 @@ overcome angina rest bacon pluto jupiter
 1
 4 0
 2
-0 44 0 26
 0 40 0 2
+0 44 0 26
 1
 end_operator
 begin_operator
@@ -183859,8 +183859,8 @@ overcome angina rest bacon vulcan pluto
 1
 4 0
 2
-0 44 0 26
 0 40 2 3
+0 44 0 26
 1
 end_operator
 begin_operator
@@ -183868,8 +183868,8 @@ overcome angina rest broccoli neptune vulcan
 1
 4 1
 2
-0 44 1 26
 0 40 3 1
+0 44 1 26
 1
 end_operator
 begin_operator
@@ -183877,8 +183877,8 @@ overcome angina rest broccoli pluto jupiter
 1
 4 1
 2
-0 44 1 26
 0 40 0 2
+0 44 1 26
 1
 end_operator
 begin_operator
@@ -183886,8 +183886,8 @@ overcome angina rest broccoli vulcan pluto
 1
 4 1
 2
-0 44 1 26
 0 40 2 3
+0 44 1 26
 1
 end_operator
 begin_operator
@@ -183895,8 +183895,8 @@ overcome angina rest cantelope neptune vulcan
 1
 4 2
 2
-0 44 2 26
 0 40 3 1
+0 44 2 26
 1
 end_operator
 begin_operator
@@ -183904,8 +183904,8 @@ overcome angina rest cantelope pluto jupiter
 1
 4 2
 2
-0 44 2 26
 0 40 0 2
+0 44 2 26
 1
 end_operator
 begin_operator
@@ -183913,8 +183913,8 @@ overcome angina rest cantelope vulcan pluto
 1
 4 2
 2
-0 44 2 26
 0 40 2 3
+0 44 2 26
 1
 end_operator
 begin_operator
@@ -183922,8 +183922,8 @@ overcome angina rest chicken neptune vulcan
 1
 4 3
 2
-0 44 3 26
 0 40 3 1
+0 44 3 26
 1
 end_operator
 begin_operator
@@ -183931,8 +183931,8 @@ overcome angina rest chicken pluto jupiter
 1
 4 3
 2
-0 44 3 26
 0 40 0 2
+0 44 3 26
 1
 end_operator
 begin_operator
@@ -183940,8 +183940,8 @@ overcome angina rest chicken vulcan pluto
 1
 4 3
 2
-0 44 3 26
 0 40 2 3
+0 44 3 26
 1
 end_operator
 begin_operator
@@ -183949,8 +183949,8 @@ overcome angina rest chocolate neptune vulcan
 1
 4 4
 2
-0 44 4 26
 0 40 3 1
+0 44 4 26
 1
 end_operator
 begin_operator
@@ -183958,8 +183958,8 @@ overcome angina rest chocolate pluto jupiter
 1
 4 4
 2
-0 44 4 26
 0 40 0 2
+0 44 4 26
 1
 end_operator
 begin_operator
@@ -183967,8 +183967,8 @@ overcome angina rest chocolate vulcan pluto
 1
 4 4
 2
-0 44 4 26
 0 40 2 3
+0 44 4 26
 1
 end_operator
 begin_operator
@@ -183976,8 +183976,8 @@ overcome angina rest cucumber neptune vulcan
 1
 4 5
 2
-0 44 5 26
 0 40 3 1
+0 44 5 26
 1
 end_operator
 begin_operator
@@ -183985,8 +183985,8 @@ overcome angina rest cucumber pluto jupiter
 1
 4 5
 2
-0 44 5 26
 0 40 0 2
+0 44 5 26
 1
 end_operator
 begin_operator
@@ -183994,8 +183994,8 @@ overcome angina rest cucumber vulcan pluto
 1
 4 5
 2
-0 44 5 26
 0 40 2 3
+0 44 5 26
 1
 end_operator
 begin_operator
@@ -184003,8 +184003,8 @@ overcome angina rest endive neptune vulcan
 1
 4 6
 2
-0 44 6 26
 0 40 3 1
+0 44 6 26
 1
 end_operator
 begin_operator
@@ -184012,8 +184012,8 @@ overcome angina rest endive pluto jupiter
 1
 4 6
 2
-0 44 6 26
 0 40 0 2
+0 44 6 26
 1
 end_operator
 begin_operator
@@ -184021,8 +184021,8 @@ overcome angina rest endive vulcan pluto
 1
 4 6
 2
-0 44 6 26
 0 40 2 3
+0 44 6 26
 1
 end_operator
 begin_operator
@@ -184030,8 +184030,8 @@ overcome angina rest guava neptune vulcan
 1
 4 7
 2
-0 44 7 26
 0 40 3 1
+0 44 7 26
 1
 end_operator
 begin_operator
@@ -184039,8 +184039,8 @@ overcome angina rest guava pluto jupiter
 1
 4 7
 2
-0 44 7 26
 0 40 0 2
+0 44 7 26
 1
 end_operator
 begin_operator
@@ -184048,8 +184048,8 @@ overcome angina rest guava vulcan pluto
 1
 4 7
 2
-0 44 7 26
 0 40 2 3
+0 44 7 26
 1
 end_operator
 begin_operator
@@ -184057,8 +184057,8 @@ overcome angina rest haroset neptune vulcan
 1
 4 8
 2
-0 44 8 26
 0 40 3 1
+0 44 8 26
 1
 end_operator
 begin_operator
@@ -184066,8 +184066,8 @@ overcome angina rest haroset pluto jupiter
 1
 4 8
 2
-0 44 8 26
 0 40 0 2
+0 44 8 26
 1
 end_operator
 begin_operator
@@ -184075,8 +184075,8 @@ overcome angina rest haroset vulcan pluto
 1
 4 8
 2
-0 44 8 26
 0 40 2 3
+0 44 8 26
 1
 end_operator
 begin_operator
@@ -184084,8 +184084,8 @@ overcome angina rest hotdog neptune vulcan
 1
 4 9
 2
-0 44 9 26
 0 40 3 1
+0 44 9 26
 1
 end_operator
 begin_operator
@@ -184093,8 +184093,8 @@ overcome angina rest hotdog pluto jupiter
 1
 4 9
 2
-0 44 9 26
 0 40 0 2
+0 44 9 26
 1
 end_operator
 begin_operator
@@ -184102,8 +184102,8 @@ overcome angina rest hotdog vulcan pluto
 1
 4 9
 2
-0 44 9 26
 0 40 2 3
+0 44 9 26
 1
 end_operator
 begin_operator
@@ -184111,8 +184111,8 @@ overcome angina rest lemon neptune vulcan
 1
 4 10
 2
-0 44 10 26
 0 40 3 1
+0 44 10 26
 1
 end_operator
 begin_operator
@@ -184120,8 +184120,8 @@ overcome angina rest lemon pluto jupiter
 1
 4 10
 2
-0 44 10 26
 0 40 0 2
+0 44 10 26
 1
 end_operator
 begin_operator
@@ -184129,8 +184129,8 @@ overcome angina rest lemon vulcan pluto
 1
 4 10
 2
-0 44 10 26
 0 40 2 3
+0 44 10 26
 1
 end_operator
 begin_operator
@@ -184138,8 +184138,8 @@ overcome angina rest marzipan neptune vulcan
 1
 4 11
 2
-0 44 11 26
 0 40 3 1
+0 44 11 26
 1
 end_operator
 begin_operator
@@ -184147,8 +184147,8 @@ overcome angina rest marzipan pluto jupiter
 1
 4 11
 2
-0 44 11 26
 0 40 0 2
+0 44 11 26
 1
 end_operator
 begin_operator
@@ -184156,8 +184156,8 @@ overcome angina rest marzipan vulcan pluto
 1
 4 11
 2
-0 44 11 26
 0 40 2 3
+0 44 11 26
 1
 end_operator
 begin_operator
@@ -184165,8 +184165,8 @@ overcome angina rest orange neptune vulcan
 1
 4 12
 2
-0 44 12 26
 0 40 3 1
+0 44 12 26
 1
 end_operator
 begin_operator
@@ -184174,8 +184174,8 @@ overcome angina rest orange pluto jupiter
 1
 4 12
 2
-0 44 12 26
 0 40 0 2
+0 44 12 26
 1
 end_operator
 begin_operator
@@ -184183,8 +184183,8 @@ overcome angina rest orange vulcan pluto
 1
 4 12
 2
-0 44 12 26
 0 40 2 3
+0 44 12 26
 1
 end_operator
 begin_operator
@@ -184192,8 +184192,8 @@ overcome angina rest pea neptune vulcan
 1
 4 13
 2
-0 44 13 26
 0 40 3 1
+0 44 13 26
 1
 end_operator
 begin_operator
@@ -184201,8 +184201,8 @@ overcome angina rest pea pluto jupiter
 1
 4 13
 2
-0 44 13 26
 0 40 0 2
+0 44 13 26
 1
 end_operator
 begin_operator
@@ -184210,8 +184210,8 @@ overcome angina rest pea vulcan pluto
 1
 4 13
 2
-0 44 13 26
 0 40 2 3
+0 44 13 26
 1
 end_operator
 begin_operator
@@ -184219,8 +184219,8 @@ overcome angina rest pepper neptune vulcan
 1
 4 14
 2
-0 44 14 26
 0 40 3 1
+0 44 14 26
 1
 end_operator
 begin_operator
@@ -184228,8 +184228,8 @@ overcome angina rest pepper pluto jupiter
 1
 4 14
 2
-0 44 14 26
 0 40 0 2
+0 44 14 26
 1
 end_operator
 begin_operator
@@ -184237,8 +184237,8 @@ overcome angina rest pepper vulcan pluto
 1
 4 14
 2
-0 44 14 26
 0 40 2 3
+0 44 14 26
 1
 end_operator
 begin_operator
@@ -184246,8 +184246,8 @@ overcome angina rest potato neptune vulcan
 1
 4 15
 2
-0 44 15 26
 0 40 3 1
+0 44 15 26
 1
 end_operator
 begin_operator
@@ -184255,8 +184255,8 @@ overcome angina rest potato pluto jupiter
 1
 4 15
 2
-0 44 15 26
 0 40 0 2
+0 44 15 26
 1
 end_operator
 begin_operator
@@ -184264,8 +184264,8 @@ overcome angina rest potato vulcan pluto
 1
 4 15
 2
-0 44 15 26
 0 40 2 3
+0 44 15 26
 1
 end_operator
 begin_operator
@@ -184273,8 +184273,8 @@ overcome angina rest rice neptune vulcan
 1
 4 16
 2
-0 44 16 26
 0 40 3 1
+0 44 16 26
 1
 end_operator
 begin_operator
@@ -184282,8 +184282,8 @@ overcome angina rest rice pluto jupiter
 1
 4 16
 2
-0 44 16 26
 0 40 0 2
+0 44 16 26
 1
 end_operator
 begin_operator
@@ -184291,8 +184291,8 @@ overcome angina rest rice vulcan pluto
 1
 4 16
 2
-0 44 16 26
 0 40 2 3
+0 44 16 26
 1
 end_operator
 begin_operator
@@ -184300,8 +184300,8 @@ overcome angina rest scallop neptune vulcan
 1
 4 17
 2
-0 44 17 26
 0 40 3 1
+0 44 17 26
 1
 end_operator
 begin_operator
@@ -184309,8 +184309,8 @@ overcome angina rest scallop pluto jupiter
 1
 4 17
 2
-0 44 17 26
 0 40 0 2
+0 44 17 26
 1
 end_operator
 begin_operator
@@ -184318,8 +184318,8 @@ overcome angina rest scallop vulcan pluto
 1
 4 17
 2
-0 44 17 26
 0 40 2 3
+0 44 17 26
 1
 end_operator
 begin_operator
@@ -184327,8 +184327,8 @@ overcome angina rest tofu neptune vulcan
 1
 4 18
 2
-0 44 18 26
 0 40 3 1
+0 44 18 26
 1
 end_operator
 begin_operator
@@ -184336,8 +184336,8 @@ overcome angina rest tofu pluto jupiter
 1
 4 18
 2
-0 44 18 26
 0 40 0 2
+0 44 18 26
 1
 end_operator
 begin_operator
@@ -184345,8 +184345,8 @@ overcome angina rest tofu vulcan pluto
 1
 4 18
 2
-0 44 18 26
 0 40 2 3
+0 44 18 26
 1
 end_operator
 begin_operator
@@ -184354,8 +184354,8 @@ overcome angina rest turkey neptune vulcan
 1
 4 19
 2
-0 44 19 26
 0 40 3 1
+0 44 19 26
 1
 end_operator
 begin_operator
@@ -184363,8 +184363,8 @@ overcome angina rest turkey pluto jupiter
 1
 4 19
 2
-0 44 19 26
 0 40 0 2
+0 44 19 26
 1
 end_operator
 begin_operator
@@ -184372,8 +184372,8 @@ overcome angina rest turkey vulcan pluto
 1
 4 19
 2
-0 44 19 26
 0 40 2 3
+0 44 19 26
 1
 end_operator
 begin_operator
@@ -184381,8 +184381,8 @@ overcome angina rest wonderbread neptune vulcan
 1
 4 20
 2
-0 44 20 26
 0 40 3 1
+0 44 20 26
 1
 end_operator
 begin_operator
@@ -184390,8 +184390,8 @@ overcome angina rest wonderbread pluto jupiter
 1
 4 20
 2
-0 44 20 26
 0 40 0 2
+0 44 20 26
 1
 end_operator
 begin_operator
@@ -184399,8 +184399,8 @@ overcome angina rest wonderbread vulcan pluto
 1
 4 20
 2
-0 44 20 26
 0 40 2 3
+0 44 20 26
 1
 end_operator
 begin_operator
@@ -184408,8 +184408,8 @@ overcome angina rest wurst neptune vulcan
 1
 4 21
 2
-0 44 21 26
 0 40 3 1
+0 44 21 26
 1
 end_operator
 begin_operator
@@ -184417,8 +184417,8 @@ overcome angina rest wurst pluto jupiter
 1
 4 21
 2
-0 44 21 26
 0 40 0 2
+0 44 21 26
 1
 end_operator
 begin_operator
@@ -184426,8 +184426,8 @@ overcome angina rest wurst vulcan pluto
 1
 4 21
 2
-0 44 21 26
 0 40 2 3
+0 44 21 26
 1
 end_operator
 begin_operator
@@ -184435,8 +184435,8 @@ overcome angina satisfaction bacon neptune vulcan
 1
 5 0
 2
-0 44 0 27
 0 41 3 1
+0 44 0 27
 1
 end_operator
 begin_operator
@@ -184444,8 +184444,8 @@ overcome angina satisfaction bacon pluto jupiter
 1
 5 0
 2
-0 44 0 27
 0 41 0 2
+0 44 0 27
 1
 end_operator
 begin_operator
@@ -184453,8 +184453,8 @@ overcome angina satisfaction bacon vulcan pluto
 1
 5 0
 2
-0 44 0 27
 0 41 2 3
+0 44 0 27
 1
 end_operator
 begin_operator
@@ -184462,8 +184462,8 @@ overcome angina satisfaction broccoli neptune vulcan
 1
 5 1
 2
-0 44 1 27
 0 41 3 1
+0 44 1 27
 1
 end_operator
 begin_operator
@@ -184471,8 +184471,8 @@ overcome angina satisfaction broccoli pluto jupiter
 1
 5 1
 2
-0 44 1 27
 0 41 0 2
+0 44 1 27
 1
 end_operator
 begin_operator
@@ -184480,8 +184480,8 @@ overcome angina satisfaction broccoli vulcan pluto
 1
 5 1
 2
-0 44 1 27
 0 41 2 3
+0 44 1 27
 1
 end_operator
 begin_operator
@@ -184489,8 +184489,8 @@ overcome angina satisfaction cantelope neptune vulcan
 1
 5 2
 2
-0 44 2 27
 0 41 3 1
+0 44 2 27
 1
 end_operator
 begin_operator
@@ -184498,8 +184498,8 @@ overcome angina satisfaction cantelope pluto jupiter
 1
 5 2
 2
-0 44 2 27
 0 41 0 2
+0 44 2 27
 1
 end_operator
 begin_operator
@@ -184507,8 +184507,8 @@ overcome angina satisfaction cantelope vulcan pluto
 1
 5 2
 2
-0 44 2 27
 0 41 2 3
+0 44 2 27
 1
 end_operator
 begin_operator
@@ -184516,8 +184516,8 @@ overcome angina satisfaction chicken neptune vulcan
 1
 5 3
 2
-0 44 3 27
 0 41 3 1
+0 44 3 27
 1
 end_operator
 begin_operator
@@ -184525,8 +184525,8 @@ overcome angina satisfaction chicken pluto jupiter
 1
 5 3
 2
-0 44 3 27
 0 41 0 2
+0 44 3 27
 1
 end_operator
 begin_operator
@@ -184534,8 +184534,8 @@ overcome angina satisfaction chicken vulcan pluto
 1
 5 3
 2
-0 44 3 27
 0 41 2 3
+0 44 3 27
 1
 end_operator
 begin_operator
@@ -184543,8 +184543,8 @@ overcome angina satisfaction chocolate neptune vulcan
 1
 5 4
 2
-0 44 4 27
 0 41 3 1
+0 44 4 27
 1
 end_operator
 begin_operator
@@ -184552,8 +184552,8 @@ overcome angina satisfaction chocolate pluto jupiter
 1
 5 4
 2
-0 44 4 27
 0 41 0 2
+0 44 4 27
 1
 end_operator
 begin_operator
@@ -184561,8 +184561,8 @@ overcome angina satisfaction chocolate vulcan pluto
 1
 5 4
 2
-0 44 4 27
 0 41 2 3
+0 44 4 27
 1
 end_operator
 begin_operator
@@ -184570,8 +184570,8 @@ overcome angina satisfaction cucumber neptune vulcan
 1
 5 5
 2
-0 44 5 27
 0 41 3 1
+0 44 5 27
 1
 end_operator
 begin_operator
@@ -184579,8 +184579,8 @@ overcome angina satisfaction cucumber pluto jupiter
 1
 5 5
 2
-0 44 5 27
 0 41 0 2
+0 44 5 27
 1
 end_operator
 begin_operator
@@ -184588,8 +184588,8 @@ overcome angina satisfaction cucumber vulcan pluto
 1
 5 5
 2
-0 44 5 27
 0 41 2 3
+0 44 5 27
 1
 end_operator
 begin_operator
@@ -184597,8 +184597,8 @@ overcome angina satisfaction endive neptune vulcan
 1
 5 6
 2
-0 44 6 27
 0 41 3 1
+0 44 6 27
 1
 end_operator
 begin_operator
@@ -184606,8 +184606,8 @@ overcome angina satisfaction endive pluto jupiter
 1
 5 6
 2
-0 44 6 27
 0 41 0 2
+0 44 6 27
 1
 end_operator
 begin_operator
@@ -184615,8 +184615,8 @@ overcome angina satisfaction endive vulcan pluto
 1
 5 6
 2
-0 44 6 27
 0 41 2 3
+0 44 6 27
 1
 end_operator
 begin_operator
@@ -184624,8 +184624,8 @@ overcome angina satisfaction guava neptune vulcan
 1
 5 7
 2
-0 44 7 27
 0 41 3 1
+0 44 7 27
 1
 end_operator
 begin_operator
@@ -184633,8 +184633,8 @@ overcome angina satisfaction guava pluto jupiter
 1
 5 7
 2
-0 44 7 27
 0 41 0 2
+0 44 7 27
 1
 end_operator
 begin_operator
@@ -184642,8 +184642,8 @@ overcome angina satisfaction guava vulcan pluto
 1
 5 7
 2
-0 44 7 27
 0 41 2 3
+0 44 7 27
 1
 end_operator
 begin_operator
@@ -184651,8 +184651,8 @@ overcome angina satisfaction haroset neptune vulcan
 1
 5 8
 2
-0 44 8 27
 0 41 3 1
+0 44 8 27
 1
 end_operator
 begin_operator
@@ -184660,8 +184660,8 @@ overcome angina satisfaction haroset pluto jupiter
 1
 5 8
 2
-0 44 8 27
 0 41 0 2
+0 44 8 27
 1
 end_operator
 begin_operator
@@ -184669,8 +184669,8 @@ overcome angina satisfaction haroset vulcan pluto
 1
 5 8
 2
-0 44 8 27
 0 41 2 3
+0 44 8 27
 1
 end_operator
 begin_operator
@@ -184678,8 +184678,8 @@ overcome angina satisfaction hotdog neptune vulcan
 1
 5 9
 2
-0 44 9 27
 0 41 3 1
+0 44 9 27
 1
 end_operator
 begin_operator
@@ -184687,8 +184687,8 @@ overcome angina satisfaction hotdog pluto jupiter
 1
 5 9
 2
-0 44 9 27
 0 41 0 2
+0 44 9 27
 1
 end_operator
 begin_operator
@@ -184696,8 +184696,8 @@ overcome angina satisfaction hotdog vulcan pluto
 1
 5 9
 2
-0 44 9 27
 0 41 2 3
+0 44 9 27
 1
 end_operator
 begin_operator
@@ -184705,8 +184705,8 @@ overcome angina satisfaction lemon neptune vulcan
 1
 5 10
 2
-0 44 10 27
 0 41 3 1
+0 44 10 27
 1
 end_operator
 begin_operator
@@ -184714,8 +184714,8 @@ overcome angina satisfaction lemon pluto jupiter
 1
 5 10
 2
-0 44 10 27
 0 41 0 2
+0 44 10 27
 1
 end_operator
 begin_operator
@@ -184723,8 +184723,8 @@ overcome angina satisfaction lemon vulcan pluto
 1
 5 10
 2
-0 44 10 27
 0 41 2 3
+0 44 10 27
 1
 end_operator
 begin_operator
@@ -184732,8 +184732,8 @@ overcome angina satisfaction marzipan neptune vulcan
 1
 5 11
 2
-0 44 11 27
 0 41 3 1
+0 44 11 27
 1
 end_operator
 begin_operator
@@ -184741,8 +184741,8 @@ overcome angina satisfaction marzipan pluto jupiter
 1
 5 11
 2
-0 44 11 27
 0 41 0 2
+0 44 11 27
 1
 end_operator
 begin_operator
@@ -184750,8 +184750,8 @@ overcome angina satisfaction marzipan vulcan pluto
 1
 5 11
 2
-0 44 11 27
 0 41 2 3
+0 44 11 27
 1
 end_operator
 begin_operator
@@ -184759,8 +184759,8 @@ overcome angina satisfaction orange neptune vulcan
 1
 5 12
 2
-0 44 12 27
 0 41 3 1
+0 44 12 27
 1
 end_operator
 begin_operator
@@ -184768,8 +184768,8 @@ overcome angina satisfaction orange pluto jupiter
 1
 5 12
 2
-0 44 12 27
 0 41 0 2
+0 44 12 27
 1
 end_operator
 begin_operator
@@ -184777,8 +184777,8 @@ overcome angina satisfaction orange vulcan pluto
 1
 5 12
 2
-0 44 12 27
 0 41 2 3
+0 44 12 27
 1
 end_operator
 begin_operator
@@ -184786,8 +184786,8 @@ overcome angina satisfaction pea neptune vulcan
 1
 5 13
 2
-0 44 13 27
 0 41 3 1
+0 44 13 27
 1
 end_operator
 begin_operator
@@ -184795,8 +184795,8 @@ overcome angina satisfaction pea pluto jupiter
 1
 5 13
 2
-0 44 13 27
 0 41 0 2
+0 44 13 27
 1
 end_operator
 begin_operator
@@ -184804,8 +184804,8 @@ overcome angina satisfaction pea vulcan pluto
 1
 5 13
 2
-0 44 13 27
 0 41 2 3
+0 44 13 27
 1
 end_operator
 begin_operator
@@ -184813,8 +184813,8 @@ overcome angina satisfaction pepper neptune vulcan
 1
 5 14
 2
-0 44 14 27
 0 41 3 1
+0 44 14 27
 1
 end_operator
 begin_operator
@@ -184822,8 +184822,8 @@ overcome angina satisfaction pepper pluto jupiter
 1
 5 14
 2
-0 44 14 27
 0 41 0 2
+0 44 14 27
 1
 end_operator
 begin_operator
@@ -184831,8 +184831,8 @@ overcome angina satisfaction pepper vulcan pluto
 1
 5 14
 2
-0 44 14 27
 0 41 2 3
+0 44 14 27
 1
 end_operator
 begin_operator
@@ -184840,8 +184840,8 @@ overcome angina satisfaction potato neptune vulcan
 1
 5 15
 2
-0 44 15 27
 0 41 3 1
+0 44 15 27
 1
 end_operator
 begin_operator
@@ -184849,8 +184849,8 @@ overcome angina satisfaction potato pluto jupiter
 1
 5 15
 2
-0 44 15 27
 0 41 0 2
+0 44 15 27
 1
 end_operator
 begin_operator
@@ -184858,8 +184858,8 @@ overcome angina satisfaction potato vulcan pluto
 1
 5 15
 2
-0 44 15 27
 0 41 2 3
+0 44 15 27
 1
 end_operator
 begin_operator
@@ -184867,8 +184867,8 @@ overcome angina satisfaction rice neptune vulcan
 1
 5 16
 2
-0 44 16 27
 0 41 3 1
+0 44 16 27
 1
 end_operator
 begin_operator
@@ -184876,8 +184876,8 @@ overcome angina satisfaction rice pluto jupiter
 1
 5 16
 2
-0 44 16 27
 0 41 0 2
+0 44 16 27
 1
 end_operator
 begin_operator
@@ -184885,8 +184885,8 @@ overcome angina satisfaction rice vulcan pluto
 1
 5 16
 2
-0 44 16 27
 0 41 2 3
+0 44 16 27
 1
 end_operator
 begin_operator
@@ -184894,8 +184894,8 @@ overcome angina satisfaction scallop neptune vulcan
 1
 5 17
 2
-0 44 17 27
 0 41 3 1
+0 44 17 27
 1
 end_operator
 begin_operator
@@ -184903,8 +184903,8 @@ overcome angina satisfaction scallop pluto jupiter
 1
 5 17
 2
-0 44 17 27
 0 41 0 2
+0 44 17 27
 1
 end_operator
 begin_operator
@@ -184912,8 +184912,8 @@ overcome angina satisfaction scallop vulcan pluto
 1
 5 17
 2
-0 44 17 27
 0 41 2 3
+0 44 17 27
 1
 end_operator
 begin_operator
@@ -184921,8 +184921,8 @@ overcome angina satisfaction tofu neptune vulcan
 1
 5 18
 2
-0 44 18 27
 0 41 3 1
+0 44 18 27
 1
 end_operator
 begin_operator
@@ -184930,8 +184930,8 @@ overcome angina satisfaction tofu pluto jupiter
 1
 5 18
 2
-0 44 18 27
 0 41 0 2
+0 44 18 27
 1
 end_operator
 begin_operator
@@ -184939,8 +184939,8 @@ overcome angina satisfaction tofu vulcan pluto
 1
 5 18
 2
-0 44 18 27
 0 41 2 3
+0 44 18 27
 1
 end_operator
 begin_operator
@@ -184948,8 +184948,8 @@ overcome angina satisfaction turkey neptune vulcan
 1
 5 19
 2
-0 44 19 27
 0 41 3 1
+0 44 19 27
 1
 end_operator
 begin_operator
@@ -184957,8 +184957,8 @@ overcome angina satisfaction turkey pluto jupiter
 1
 5 19
 2
-0 44 19 27
 0 41 0 2
+0 44 19 27
 1
 end_operator
 begin_operator
@@ -184966,8 +184966,8 @@ overcome angina satisfaction turkey vulcan pluto
 1
 5 19
 2
-0 44 19 27
 0 41 2 3
+0 44 19 27
 1
 end_operator
 begin_operator
@@ -184975,8 +184975,8 @@ overcome angina satisfaction wonderbread neptune vulcan
 1
 5 20
 2
-0 44 20 27
 0 41 3 1
+0 44 20 27
 1
 end_operator
 begin_operator
@@ -184984,8 +184984,8 @@ overcome angina satisfaction wonderbread pluto jupiter
 1
 5 20
 2
-0 44 20 27
 0 41 0 2
+0 44 20 27
 1
 end_operator
 begin_operator
@@ -184993,8 +184993,8 @@ overcome angina satisfaction wonderbread vulcan pluto
 1
 5 20
 2
-0 44 20 27
 0 41 2 3
+0 44 20 27
 1
 end_operator
 begin_operator
@@ -185002,8 +185002,8 @@ overcome angina satisfaction wurst neptune vulcan
 1
 5 21
 2
-0 44 21 27
 0 41 3 1
+0 44 21 27
 1
 end_operator
 begin_operator
@@ -185011,8 +185011,8 @@ overcome angina satisfaction wurst pluto jupiter
 1
 5 21
 2
-0 44 21 27
 0 41 0 2
+0 44 21 27
 1
 end_operator
 begin_operator
@@ -185020,8 +185020,8 @@ overcome angina satisfaction wurst vulcan pluto
 1
 5 21
 2
-0 44 21 27
 0 41 2 3
+0 44 21 27
 1
 end_operator
 begin_operator
@@ -185029,8 +185029,8 @@ overcome angina triumph bacon neptune vulcan
 1
 6 0
 2
-0 44 0 28
 0 43 3 1
+0 44 0 28
 1
 end_operator
 begin_operator
@@ -185038,8 +185038,8 @@ overcome angina triumph bacon pluto jupiter
 1
 6 0
 2
-0 44 0 28
 0 43 0 2
+0 44 0 28
 1
 end_operator
 begin_operator
@@ -185047,8 +185047,8 @@ overcome angina triumph bacon vulcan pluto
 1
 6 0
 2
-0 44 0 28
 0 43 2 3
+0 44 0 28
 1
 end_operator
 begin_operator
@@ -185056,8 +185056,8 @@ overcome angina triumph broccoli neptune vulcan
 1
 6 1
 2
-0 44 1 28
 0 43 3 1
+0 44 1 28
 1
 end_operator
 begin_operator
@@ -185065,8 +185065,8 @@ overcome angina triumph broccoli pluto jupiter
 1
 6 1
 2
-0 44 1 28
 0 43 0 2
+0 44 1 28
 1
 end_operator
 begin_operator
@@ -185074,8 +185074,8 @@ overcome angina triumph broccoli vulcan pluto
 1
 6 1
 2
-0 44 1 28
 0 43 2 3
+0 44 1 28
 1
 end_operator
 begin_operator
@@ -185083,8 +185083,8 @@ overcome angina triumph cantelope neptune vulcan
 1
 6 2
 2
-0 44 2 28
 0 43 3 1
+0 44 2 28
 1
 end_operator
 begin_operator
@@ -185092,8 +185092,8 @@ overcome angina triumph cantelope pluto jupiter
 1
 6 2
 2
-0 44 2 28
 0 43 0 2
+0 44 2 28
 1
 end_operator
 begin_operator
@@ -185101,8 +185101,8 @@ overcome angina triumph cantelope vulcan pluto
 1
 6 2
 2
-0 44 2 28
 0 43 2 3
+0 44 2 28
 1
 end_operator
 begin_operator
@@ -185110,8 +185110,8 @@ overcome angina triumph chicken neptune vulcan
 1
 6 3
 2
-0 44 3 28
 0 43 3 1
+0 44 3 28
 1
 end_operator
 begin_operator
@@ -185119,8 +185119,8 @@ overcome angina triumph chicken pluto jupiter
 1
 6 3
 2
-0 44 3 28
 0 43 0 2
+0 44 3 28
 1
 end_operator
 begin_operator
@@ -185128,8 +185128,8 @@ overcome angina triumph chicken vulcan pluto
 1
 6 3
 2
-0 44 3 28
 0 43 2 3
+0 44 3 28
 1
 end_operator
 begin_operator
@@ -185137,8 +185137,8 @@ overcome angina triumph chocolate neptune vulcan
 1
 6 4
 2
-0 44 4 28
 0 43 3 1
+0 44 4 28
 1
 end_operator
 begin_operator
@@ -185146,8 +185146,8 @@ overcome angina triumph chocolate pluto jupiter
 1
 6 4
 2
-0 44 4 28
 0 43 0 2
+0 44 4 28
 1
 end_operator
 begin_operator
@@ -185155,8 +185155,8 @@ overcome angina triumph chocolate vulcan pluto
 1
 6 4
 2
-0 44 4 28
 0 43 2 3
+0 44 4 28
 1
 end_operator
 begin_operator
@@ -185164,8 +185164,8 @@ overcome angina triumph cucumber neptune vulcan
 1
 6 5
 2
-0 44 5 28
 0 43 3 1
+0 44 5 28
 1
 end_operator
 begin_operator
@@ -185173,8 +185173,8 @@ overcome angina triumph cucumber pluto jupiter
 1
 6 5
 2
-0 44 5 28
 0 43 0 2
+0 44 5 28
 1
 end_operator
 begin_operator
@@ -185182,8 +185182,8 @@ overcome angina triumph cucumber vulcan pluto
 1
 6 5
 2
-0 44 5 28
 0 43 2 3
+0 44 5 28
 1
 end_operator
 begin_operator
@@ -185191,8 +185191,8 @@ overcome angina triumph endive neptune vulcan
 1
 6 6
 2
-0 44 6 28
 0 43 3 1
+0 44 6 28
 1
 end_operator
 begin_operator
@@ -185200,8 +185200,8 @@ overcome angina triumph endive pluto jupiter
 1
 6 6
 2
-0 44 6 28
 0 43 0 2
+0 44 6 28
 1
 end_operator
 begin_operator
@@ -185209,8 +185209,8 @@ overcome angina triumph endive vulcan pluto
 1
 6 6
 2
-0 44 6 28
 0 43 2 3
+0 44 6 28
 1
 end_operator
 begin_operator
@@ -185218,8 +185218,8 @@ overcome angina triumph guava neptune vulcan
 1
 6 7
 2
-0 44 7 28
 0 43 3 1
+0 44 7 28
 1
 end_operator
 begin_operator
@@ -185227,8 +185227,8 @@ overcome angina triumph guava pluto jupiter
 1
 6 7
 2
-0 44 7 28
 0 43 0 2
+0 44 7 28
 1
 end_operator
 begin_operator
@@ -185236,8 +185236,8 @@ overcome angina triumph guava vulcan pluto
 1
 6 7
 2
-0 44 7 28
 0 43 2 3
+0 44 7 28
 1
 end_operator
 begin_operator
@@ -185245,8 +185245,8 @@ overcome angina triumph haroset neptune vulcan
 1
 6 8
 2
-0 44 8 28
 0 43 3 1
+0 44 8 28
 1
 end_operator
 begin_operator
@@ -185254,8 +185254,8 @@ overcome angina triumph haroset pluto jupiter
 1
 6 8
 2
-0 44 8 28
 0 43 0 2
+0 44 8 28
 1
 end_operator
 begin_operator
@@ -185263,8 +185263,8 @@ overcome angina triumph haroset vulcan pluto
 1
 6 8
 2
-0 44 8 28
 0 43 2 3
+0 44 8 28
 1
 end_operator
 begin_operator
@@ -185272,8 +185272,8 @@ overcome angina triumph hotdog neptune vulcan
 1
 6 9
 2
-0 44 9 28
 0 43 3 1
+0 44 9 28
 1
 end_operator
 begin_operator
@@ -185281,8 +185281,8 @@ overcome angina triumph hotdog pluto jupiter
 1
 6 9
 2
-0 44 9 28
 0 43 0 2
+0 44 9 28
 1
 end_operator
 begin_operator
@@ -185290,8 +185290,8 @@ overcome angina triumph hotdog vulcan pluto
 1
 6 9
 2
-0 44 9 28
 0 43 2 3
+0 44 9 28
 1
 end_operator
 begin_operator
@@ -185299,8 +185299,8 @@ overcome angina triumph lemon neptune vulcan
 1
 6 10
 2
-0 44 10 28
 0 43 3 1
+0 44 10 28
 1
 end_operator
 begin_operator
@@ -185308,8 +185308,8 @@ overcome angina triumph lemon pluto jupiter
 1
 6 10
 2
-0 44 10 28
 0 43 0 2
+0 44 10 28
 1
 end_operator
 begin_operator
@@ -185317,8 +185317,8 @@ overcome angina triumph lemon vulcan pluto
 1
 6 10
 2
-0 44 10 28
 0 43 2 3
+0 44 10 28
 1
 end_operator
 begin_operator
@@ -185326,8 +185326,8 @@ overcome angina triumph marzipan neptune vulcan
 1
 6 11
 2
-0 44 11 28
 0 43 3 1
+0 44 11 28
 1
 end_operator
 begin_operator
@@ -185335,8 +185335,8 @@ overcome angina triumph marzipan pluto jupiter
 1
 6 11
 2
-0 44 11 28
 0 43 0 2
+0 44 11 28
 1
 end_operator
 begin_operator
@@ -185344,8 +185344,8 @@ overcome angina triumph marzipan vulcan pluto
 1
 6 11
 2
-0 44 11 28
 0 43 2 3
+0 44 11 28
 1
 end_operator
 begin_operator
@@ -185353,8 +185353,8 @@ overcome angina triumph orange neptune vulcan
 1
 6 12
 2
-0 44 12 28
 0 43 3 1
+0 44 12 28
 1
 end_operator
 begin_operator
@@ -185362,8 +185362,8 @@ overcome angina triumph orange pluto jupiter
 1
 6 12
 2
-0 44 12 28
 0 43 0 2
+0 44 12 28
 1
 end_operator
 begin_operator
@@ -185371,8 +185371,8 @@ overcome angina triumph orange vulcan pluto
 1
 6 12
 2
-0 44 12 28
 0 43 2 3
+0 44 12 28
 1
 end_operator
 begin_operator
@@ -185380,8 +185380,8 @@ overcome angina triumph pea neptune vulcan
 1
 6 13
 2
-0 44 13 28
 0 43 3 1
+0 44 13 28
 1
 end_operator
 begin_operator
@@ -185389,8 +185389,8 @@ overcome angina triumph pea pluto jupiter
 1
 6 13
 2
-0 44 13 28
 0 43 0 2
+0 44 13 28
 1
 end_operator
 begin_operator
@@ -185398,8 +185398,8 @@ overcome angina triumph pea vulcan pluto
 1
 6 13
 2
-0 44 13 28
 0 43 2 3
+0 44 13 28
 1
 end_operator
 begin_operator
@@ -185407,8 +185407,8 @@ overcome angina triumph pepper neptune vulcan
 1
 6 14
 2
-0 44 14 28
 0 43 3 1
+0 44 14 28
 1
 end_operator
 begin_operator
@@ -185416,8 +185416,8 @@ overcome angina triumph pepper pluto jupiter
 1
 6 14
 2
-0 44 14 28
 0 43 0 2
+0 44 14 28
 1
 end_operator
 begin_operator
@@ -185425,8 +185425,8 @@ overcome angina triumph pepper vulcan pluto
 1
 6 14
 2
-0 44 14 28
 0 43 2 3
+0 44 14 28
 1
 end_operator
 begin_operator
@@ -185434,8 +185434,8 @@ overcome angina triumph potato neptune vulcan
 1
 6 15
 2
-0 44 15 28
 0 43 3 1
+0 44 15 28
 1
 end_operator
 begin_operator
@@ -185443,8 +185443,8 @@ overcome angina triumph potato pluto jupiter
 1
 6 15
 2
-0 44 15 28
 0 43 0 2
+0 44 15 28
 1
 end_operator
 begin_operator
@@ -185452,8 +185452,8 @@ overcome angina triumph potato vulcan pluto
 1
 6 15
 2
-0 44 15 28
 0 43 2 3
+0 44 15 28
 1
 end_operator
 begin_operator
@@ -185461,8 +185461,8 @@ overcome angina triumph rice neptune vulcan
 1
 6 16
 2
-0 44 16 28
 0 43 3 1
+0 44 16 28
 1
 end_operator
 begin_operator
@@ -185470,8 +185470,8 @@ overcome angina triumph rice pluto jupiter
 1
 6 16
 2
-0 44 16 28
 0 43 0 2
+0 44 16 28
 1
 end_operator
 begin_operator
@@ -185479,8 +185479,8 @@ overcome angina triumph rice vulcan pluto
 1
 6 16
 2
-0 44 16 28
 0 43 2 3
+0 44 16 28
 1
 end_operator
 begin_operator
@@ -185488,8 +185488,8 @@ overcome angina triumph scallop neptune vulcan
 1
 6 17
 2
-0 44 17 28
 0 43 3 1
+0 44 17 28
 1
 end_operator
 begin_operator
@@ -185497,8 +185497,8 @@ overcome angina triumph scallop pluto jupiter
 1
 6 17
 2
-0 44 17 28
 0 43 0 2
+0 44 17 28
 1
 end_operator
 begin_operator
@@ -185506,8 +185506,8 @@ overcome angina triumph scallop vulcan pluto
 1
 6 17
 2
-0 44 17 28
 0 43 2 3
+0 44 17 28
 1
 end_operator
 begin_operator
@@ -185515,8 +185515,8 @@ overcome angina triumph tofu neptune vulcan
 1
 6 18
 2
-0 44 18 28
 0 43 3 1
+0 44 18 28
 1
 end_operator
 begin_operator
@@ -185524,8 +185524,8 @@ overcome angina triumph tofu pluto jupiter
 1
 6 18
 2
-0 44 18 28
 0 43 0 2
+0 44 18 28
 1
 end_operator
 begin_operator
@@ -185533,8 +185533,8 @@ overcome angina triumph tofu vulcan pluto
 1
 6 18
 2
-0 44 18 28
 0 43 2 3
+0 44 18 28
 1
 end_operator
 begin_operator
@@ -185542,8 +185542,8 @@ overcome angina triumph turkey neptune vulcan
 1
 6 19
 2
-0 44 19 28
 0 43 3 1
+0 44 19 28
 1
 end_operator
 begin_operator
@@ -185551,8 +185551,8 @@ overcome angina triumph turkey pluto jupiter
 1
 6 19
 2
-0 44 19 28
 0 43 0 2
+0 44 19 28
 1
 end_operator
 begin_operator
@@ -185560,8 +185560,8 @@ overcome angina triumph turkey vulcan pluto
 1
 6 19
 2
-0 44 19 28
 0 43 2 3
+0 44 19 28
 1
 end_operator
 begin_operator
@@ -185569,8 +185569,8 @@ overcome angina triumph wonderbread neptune vulcan
 1
 6 20
 2
-0 44 20 28
 0 43 3 1
+0 44 20 28
 1
 end_operator
 begin_operator
@@ -185578,8 +185578,8 @@ overcome angina triumph wonderbread pluto jupiter
 1
 6 20
 2
-0 44 20 28
 0 43 0 2
+0 44 20 28
 1
 end_operator
 begin_operator
@@ -185587,8 +185587,8 @@ overcome angina triumph wonderbread vulcan pluto
 1
 6 20
 2
-0 44 20 28
 0 43 2 3
+0 44 20 28
 1
 end_operator
 begin_operator
@@ -185596,8 +185596,8 @@ overcome angina triumph wurst neptune vulcan
 1
 6 21
 2
-0 44 21 28
 0 43 3 1
+0 44 21 28
 1
 end_operator
 begin_operator
@@ -185605,8 +185605,8 @@ overcome angina triumph wurst pluto jupiter
 1
 6 21
 2
-0 44 21 28
 0 43 0 2
+0 44 21 28
 1
 end_operator
 begin_operator
@@ -185614,8 +185614,8 @@ overcome angina triumph wurst vulcan pluto
 1
 6 21
 2
-0 44 21 28
 0 43 2 3
+0 44 21 28
 1
 end_operator
 begin_operator
@@ -193939,8 +193939,8 @@ overcome grief curiosity bacon neptune vulcan
 1
 0 0
 2
-0 34 0 22
 0 32 3 1
+0 34 0 22
 1
 end_operator
 begin_operator
@@ -193948,8 +193948,8 @@ overcome grief curiosity bacon pluto jupiter
 1
 0 0
 2
-0 34 0 22
 0 32 0 2
+0 34 0 22
 1
 end_operator
 begin_operator
@@ -193957,8 +193957,8 @@ overcome grief curiosity bacon vulcan pluto
 1
 0 0
 2
-0 34 0 22
 0 32 2 3
+0 34 0 22
 1
 end_operator
 begin_operator
@@ -193966,8 +193966,8 @@ overcome grief curiosity broccoli neptune vulcan
 1
 0 1
 2
-0 34 1 22
 0 32 3 1
+0 34 1 22
 1
 end_operator
 begin_operator
@@ -193975,8 +193975,8 @@ overcome grief curiosity broccoli pluto jupiter
 1
 0 1
 2
-0 34 1 22
 0 32 0 2
+0 34 1 22
 1
 end_operator
 begin_operator
@@ -193984,8 +193984,8 @@ overcome grief curiosity broccoli vulcan pluto
 1
 0 1
 2
-0 34 1 22
 0 32 2 3
+0 34 1 22
 1
 end_operator
 begin_operator
@@ -193993,8 +193993,8 @@ overcome grief curiosity cantelope neptune vulcan
 1
 0 2
 2
-0 34 2 22
 0 32 3 1
+0 34 2 22
 1
 end_operator
 begin_operator
@@ -194002,8 +194002,8 @@ overcome grief curiosity cantelope pluto jupiter
 1
 0 2
 2
-0 34 2 22
 0 32 0 2
+0 34 2 22
 1
 end_operator
 begin_operator
@@ -194011,8 +194011,8 @@ overcome grief curiosity cantelope vulcan pluto
 1
 0 2
 2
-0 34 2 22
 0 32 2 3
+0 34 2 22
 1
 end_operator
 begin_operator
@@ -194020,8 +194020,8 @@ overcome grief curiosity chicken neptune vulcan
 1
 0 3
 2
-0 34 3 22
 0 32 3 1
+0 34 3 22
 1
 end_operator
 begin_operator
@@ -194029,8 +194029,8 @@ overcome grief curiosity chicken pluto jupiter
 1
 0 3
 2
-0 34 3 22
 0 32 0 2
+0 34 3 22
 1
 end_operator
 begin_operator
@@ -194038,8 +194038,8 @@ overcome grief curiosity chicken vulcan pluto
 1
 0 3
 2
-0 34 3 22
 0 32 2 3
+0 34 3 22
 1
 end_operator
 begin_operator
@@ -194047,8 +194047,8 @@ overcome grief curiosity chocolate neptune vulcan
 1
 0 4
 2
-0 34 4 22
 0 32 3 1
+0 34 4 22
 1
 end_operator
 begin_operator
@@ -194056,8 +194056,8 @@ overcome grief curiosity chocolate pluto jupiter
 1
 0 4
 2
-0 34 4 22
 0 32 0 2
+0 34 4 22
 1
 end_operator
 begin_operator
@@ -194065,8 +194065,8 @@ overcome grief curiosity chocolate vulcan pluto
 1
 0 4
 2
-0 34 4 22
 0 32 2 3
+0 34 4 22
 1
 end_operator
 begin_operator
@@ -194074,8 +194074,8 @@ overcome grief curiosity cucumber neptune vulcan
 1
 0 5
 2
-0 34 5 22
 0 32 3 1
+0 34 5 22
 1
 end_operator
 begin_operator
@@ -194083,8 +194083,8 @@ overcome grief curiosity cucumber pluto jupiter
 1
 0 5
 2
-0 34 5 22
 0 32 0 2
+0 34 5 22
 1
 end_operator
 begin_operator
@@ -194092,8 +194092,8 @@ overcome grief curiosity cucumber vulcan pluto
 1
 0 5
 2
-0 34 5 22
 0 32 2 3
+0 34 5 22
 1
 end_operator
 begin_operator
@@ -194101,8 +194101,8 @@ overcome grief curiosity endive neptune vulcan
 1
 0 6
 2
-0 34 6 22
 0 32 3 1
+0 34 6 22
 1
 end_operator
 begin_operator
@@ -194110,8 +194110,8 @@ overcome grief curiosity endive pluto jupiter
 1
 0 6
 2
-0 34 6 22
 0 32 0 2
+0 34 6 22
 1
 end_operator
 begin_operator
@@ -194119,8 +194119,8 @@ overcome grief curiosity endive vulcan pluto
 1
 0 6
 2
-0 34 6 22
 0 32 2 3
+0 34 6 22
 1
 end_operator
 begin_operator
@@ -194128,8 +194128,8 @@ overcome grief curiosity guava neptune vulcan
 1
 0 7
 2
-0 34 7 22
 0 32 3 1
+0 34 7 22
 1
 end_operator
 begin_operator
@@ -194137,8 +194137,8 @@ overcome grief curiosity guava pluto jupiter
 1
 0 7
 2
-0 34 7 22
 0 32 0 2
+0 34 7 22
 1
 end_operator
 begin_operator
@@ -194146,8 +194146,8 @@ overcome grief curiosity guava vulcan pluto
 1
 0 7
 2
-0 34 7 22
 0 32 2 3
+0 34 7 22
 1
 end_operator
 begin_operator
@@ -194155,8 +194155,8 @@ overcome grief curiosity haroset neptune vulcan
 1
 0 8
 2
-0 34 8 22
 0 32 3 1
+0 34 8 22
 1
 end_operator
 begin_operator
@@ -194164,8 +194164,8 @@ overcome grief curiosity haroset pluto jupiter
 1
 0 8
 2
-0 34 8 22
 0 32 0 2
+0 34 8 22
 1
 end_operator
 begin_operator
@@ -194173,8 +194173,8 @@ overcome grief curiosity haroset vulcan pluto
 1
 0 8
 2
-0 34 8 22
 0 32 2 3
+0 34 8 22
 1
 end_operator
 begin_operator
@@ -194182,8 +194182,8 @@ overcome grief curiosity hotdog neptune vulcan
 1
 0 9
 2
-0 34 9 22
 0 32 3 1
+0 34 9 22
 1
 end_operator
 begin_operator
@@ -194191,8 +194191,8 @@ overcome grief curiosity hotdog pluto jupiter
 1
 0 9
 2
-0 34 9 22
 0 32 0 2
+0 34 9 22
 1
 end_operator
 begin_operator
@@ -194200,8 +194200,8 @@ overcome grief curiosity hotdog vulcan pluto
 1
 0 9
 2
-0 34 9 22
 0 32 2 3
+0 34 9 22
 1
 end_operator
 begin_operator
@@ -194209,8 +194209,8 @@ overcome grief curiosity lemon neptune vulcan
 1
 0 10
 2
-0 34 10 22
 0 32 3 1
+0 34 10 22
 1
 end_operator
 begin_operator
@@ -194218,8 +194218,8 @@ overcome grief curiosity lemon pluto jupiter
 1
 0 10
 2
-0 34 10 22
 0 32 0 2
+0 34 10 22
 1
 end_operator
 begin_operator
@@ -194227,8 +194227,8 @@ overcome grief curiosity lemon vulcan pluto
 1
 0 10
 2
-0 34 10 22
 0 32 2 3
+0 34 10 22
 1
 end_operator
 begin_operator
@@ -194236,8 +194236,8 @@ overcome grief curiosity marzipan neptune vulcan
 1
 0 11
 2
-0 34 11 22
 0 32 3 1
+0 34 11 22
 1
 end_operator
 begin_operator
@@ -194245,8 +194245,8 @@ overcome grief curiosity marzipan pluto jupiter
 1
 0 11
 2
-0 34 11 22
 0 32 0 2
+0 34 11 22
 1
 end_operator
 begin_operator
@@ -194254,8 +194254,8 @@ overcome grief curiosity marzipan vulcan pluto
 1
 0 11
 2
-0 34 11 22
 0 32 2 3
+0 34 11 22
 1
 end_operator
 begin_operator
@@ -194263,8 +194263,8 @@ overcome grief curiosity orange neptune vulcan
 1
 0 12
 2
-0 34 12 22
 0 32 3 1
+0 34 12 22
 1
 end_operator
 begin_operator
@@ -194272,8 +194272,8 @@ overcome grief curiosity orange pluto jupiter
 1
 0 12
 2
-0 34 12 22
 0 32 0 2
+0 34 12 22
 1
 end_operator
 begin_operator
@@ -194281,8 +194281,8 @@ overcome grief curiosity orange vulcan pluto
 1
 0 12
 2
-0 34 12 22
 0 32 2 3
+0 34 12 22
 1
 end_operator
 begin_operator
@@ -194290,8 +194290,8 @@ overcome grief curiosity pea neptune vulcan
 1
 0 13
 2
-0 34 13 22
 0 32 3 1
+0 34 13 22
 1
 end_operator
 begin_operator
@@ -194299,8 +194299,8 @@ overcome grief curiosity pea pluto jupiter
 1
 0 13
 2
-0 34 13 22
 0 32 0 2
+0 34 13 22
 1
 end_operator
 begin_operator
@@ -194308,8 +194308,8 @@ overcome grief curiosity pea vulcan pluto
 1
 0 13
 2
-0 34 13 22
 0 32 2 3
+0 34 13 22
 1
 end_operator
 begin_operator
@@ -194317,8 +194317,8 @@ overcome grief curiosity pepper neptune vulcan
 1
 0 14
 2
-0 34 14 22
 0 32 3 1
+0 34 14 22
 1
 end_operator
 begin_operator
@@ -194326,8 +194326,8 @@ overcome grief curiosity pepper pluto jupiter
 1
 0 14
 2
-0 34 14 22
 0 32 0 2
+0 34 14 22
 1
 end_operator
 begin_operator
@@ -194335,8 +194335,8 @@ overcome grief curiosity pepper vulcan pluto
 1
 0 14
 2
-0 34 14 22
 0 32 2 3
+0 34 14 22
 1
 end_operator
 begin_operator
@@ -194344,8 +194344,8 @@ overcome grief curiosity potato neptune vulcan
 1
 0 15
 2
-0 34 15 22
 0 32 3 1
+0 34 15 22
 1
 end_operator
 begin_operator
@@ -194353,8 +194353,8 @@ overcome grief curiosity potato pluto jupiter
 1
 0 15
 2
-0 34 15 22
 0 32 0 2
+0 34 15 22
 1
 end_operator
 begin_operator
@@ -194362,8 +194362,8 @@ overcome grief curiosity potato vulcan pluto
 1
 0 15
 2
-0 34 15 22
 0 32 2 3
+0 34 15 22
 1
 end_operator
 begin_operator
@@ -194371,8 +194371,8 @@ overcome grief curiosity rice neptune vulcan
 1
 0 16
 2
-0 34 16 22
 0 32 3 1
+0 34 16 22
 1
 end_operator
 begin_operator
@@ -194380,8 +194380,8 @@ overcome grief curiosity rice pluto jupiter
 1
 0 16
 2
-0 34 16 22
 0 32 0 2
+0 34 16 22
 1
 end_operator
 begin_operator
@@ -194389,8 +194389,8 @@ overcome grief curiosity rice vulcan pluto
 1
 0 16
 2
-0 34 16 22
 0 32 2 3
+0 34 16 22
 1
 end_operator
 begin_operator
@@ -194398,8 +194398,8 @@ overcome grief curiosity scallop neptune vulcan
 1
 0 17
 2
-0 34 17 22
 0 32 3 1
+0 34 17 22
 1
 end_operator
 begin_operator
@@ -194407,8 +194407,8 @@ overcome grief curiosity scallop pluto jupiter
 1
 0 17
 2
-0 34 17 22
 0 32 0 2
+0 34 17 22
 1
 end_operator
 begin_operator
@@ -194416,8 +194416,8 @@ overcome grief curiosity scallop vulcan pluto
 1
 0 17
 2
-0 34 17 22
 0 32 2 3
+0 34 17 22
 1
 end_operator
 begin_operator
@@ -194425,8 +194425,8 @@ overcome grief curiosity tofu neptune vulcan
 1
 0 18
 2
-0 34 18 22
 0 32 3 1
+0 34 18 22
 1
 end_operator
 begin_operator
@@ -194434,8 +194434,8 @@ overcome grief curiosity tofu pluto jupiter
 1
 0 18
 2
-0 34 18 22
 0 32 0 2
+0 34 18 22
 1
 end_operator
 begin_operator
@@ -194443,8 +194443,8 @@ overcome grief curiosity tofu vulcan pluto
 1
 0 18
 2
-0 34 18 22
 0 32 2 3
+0 34 18 22
 1
 end_operator
 begin_operator
@@ -194452,8 +194452,8 @@ overcome grief curiosity turkey neptune vulcan
 1
 0 19
 2
-0 34 19 22
 0 32 3 1
+0 34 19 22
 1
 end_operator
 begin_operator
@@ -194461,8 +194461,8 @@ overcome grief curiosity turkey pluto jupiter
 1
 0 19
 2
-0 34 19 22
 0 32 0 2
+0 34 19 22
 1
 end_operator
 begin_operator
@@ -194470,8 +194470,8 @@ overcome grief curiosity turkey vulcan pluto
 1
 0 19
 2
-0 34 19 22
 0 32 2 3
+0 34 19 22
 1
 end_operator
 begin_operator
@@ -194479,8 +194479,8 @@ overcome grief curiosity wonderbread neptune vulcan
 1
 0 20
 2
-0 34 20 22
 0 32 3 1
+0 34 20 22
 1
 end_operator
 begin_operator
@@ -194488,8 +194488,8 @@ overcome grief curiosity wonderbread pluto jupiter
 1
 0 20
 2
-0 34 20 22
 0 32 0 2
+0 34 20 22
 1
 end_operator
 begin_operator
@@ -194497,8 +194497,8 @@ overcome grief curiosity wonderbread vulcan pluto
 1
 0 20
 2
-0 34 20 22
 0 32 2 3
+0 34 20 22
 1
 end_operator
 begin_operator
@@ -194506,8 +194506,8 @@ overcome grief curiosity wurst neptune vulcan
 1
 0 21
 2
-0 34 21 22
 0 32 3 1
+0 34 21 22
 1
 end_operator
 begin_operator
@@ -194515,8 +194515,8 @@ overcome grief curiosity wurst pluto jupiter
 1
 0 21
 2
-0 34 21 22
 0 32 0 2
+0 34 21 22
 1
 end_operator
 begin_operator
@@ -194524,8 +194524,8 @@ overcome grief curiosity wurst vulcan pluto
 1
 0 21
 2
-0 34 21 22
 0 32 2 3
+0 34 21 22
 1
 end_operator
 begin_operator
@@ -194533,8 +194533,8 @@ overcome grief entertainment bacon neptune vulcan
 1
 1 0
 2
-0 34 0 23
 0 33 3 1
+0 34 0 23
 1
 end_operator
 begin_operator
@@ -194542,8 +194542,8 @@ overcome grief entertainment bacon pluto jupiter
 1
 1 0
 2
-0 34 0 23
 0 33 0 2
+0 34 0 23
 1
 end_operator
 begin_operator
@@ -194551,8 +194551,8 @@ overcome grief entertainment bacon vulcan pluto
 1
 1 0
 2
-0 34 0 23
 0 33 2 3
+0 34 0 23
 1
 end_operator
 begin_operator
@@ -194560,8 +194560,8 @@ overcome grief entertainment broccoli neptune vulcan
 1
 1 1
 2
-0 34 1 23
 0 33 3 1
+0 34 1 23
 1
 end_operator
 begin_operator
@@ -194569,8 +194569,8 @@ overcome grief entertainment broccoli pluto jupiter
 1
 1 1
 2
-0 34 1 23
 0 33 0 2
+0 34 1 23
 1
 end_operator
 begin_operator
@@ -194578,8 +194578,8 @@ overcome grief entertainment broccoli vulcan pluto
 1
 1 1
 2
-0 34 1 23
 0 33 2 3
+0 34 1 23
 1
 end_operator
 begin_operator
@@ -194587,8 +194587,8 @@ overcome grief entertainment cantelope neptune vulcan
 1
 1 2
 2
-0 34 2 23
 0 33 3 1
+0 34 2 23
 1
 end_operator
 begin_operator
@@ -194596,8 +194596,8 @@ overcome grief entertainment cantelope pluto jupiter
 1
 1 2
 2
-0 34 2 23
 0 33 0 2
+0 34 2 23
 1
 end_operator
 begin_operator
@@ -194605,8 +194605,8 @@ overcome grief entertainment cantelope vulcan pluto
 1
 1 2
 2
-0 34 2 23
 0 33 2 3
+0 34 2 23
 1
 end_operator
 begin_operator
@@ -194614,8 +194614,8 @@ overcome grief entertainment chicken neptune vulcan
 1
 1 3
 2
-0 34 3 23
 0 33 3 1
+0 34 3 23
 1
 end_operator
 begin_operator
@@ -194623,8 +194623,8 @@ overcome grief entertainment chicken pluto jupiter
 1
 1 3
 2
-0 34 3 23
 0 33 0 2
+0 34 3 23
 1
 end_operator
 begin_operator
@@ -194632,8 +194632,8 @@ overcome grief entertainment chicken vulcan pluto
 1
 1 3
 2
-0 34 3 23
 0 33 2 3
+0 34 3 23
 1
 end_operator
 begin_operator
@@ -194641,8 +194641,8 @@ overcome grief entertainment chocolate neptune vulcan
 1
 1 4
 2
-0 34 4 23
 0 33 3 1
+0 34 4 23
 1
 end_operator
 begin_operator
@@ -194650,8 +194650,8 @@ overcome grief entertainment chocolate pluto jupiter
 1
 1 4
 2
-0 34 4 23
 0 33 0 2
+0 34 4 23
 1
 end_operator
 begin_operator
@@ -194659,8 +194659,8 @@ overcome grief entertainment chocolate vulcan pluto
 1
 1 4
 2
-0 34 4 23
 0 33 2 3
+0 34 4 23
 1
 end_operator
 begin_operator
@@ -194668,8 +194668,8 @@ overcome grief entertainment cucumber neptune vulcan
 1
 1 5
 2
-0 34 5 23
 0 33 3 1
+0 34 5 23
 1
 end_operator
 begin_operator
@@ -194677,8 +194677,8 @@ overcome grief entertainment cucumber pluto jupiter
 1
 1 5
 2
-0 34 5 23
 0 33 0 2
+0 34 5 23
 1
 end_operator
 begin_operator
@@ -194686,8 +194686,8 @@ overcome grief entertainment cucumber vulcan pluto
 1
 1 5
 2
-0 34 5 23
 0 33 2 3
+0 34 5 23
 1
 end_operator
 begin_operator
@@ -194695,8 +194695,8 @@ overcome grief entertainment endive neptune vulcan
 1
 1 6
 2
-0 34 6 23
 0 33 3 1
+0 34 6 23
 1
 end_operator
 begin_operator
@@ -194704,8 +194704,8 @@ overcome grief entertainment endive pluto jupiter
 1
 1 6
 2
-0 34 6 23
 0 33 0 2
+0 34 6 23
 1
 end_operator
 begin_operator
@@ -194713,8 +194713,8 @@ overcome grief entertainment endive vulcan pluto
 1
 1 6
 2
-0 34 6 23
 0 33 2 3
+0 34 6 23
 1
 end_operator
 begin_operator
@@ -194722,8 +194722,8 @@ overcome grief entertainment guava neptune vulcan
 1
 1 7
 2
-0 34 7 23
 0 33 3 1
+0 34 7 23
 1
 end_operator
 begin_operator
@@ -194731,8 +194731,8 @@ overcome grief entertainment guava pluto jupiter
 1
 1 7
 2
-0 34 7 23
 0 33 0 2
+0 34 7 23
 1
 end_operator
 begin_operator
@@ -194740,8 +194740,8 @@ overcome grief entertainment guava vulcan pluto
 1
 1 7
 2
-0 34 7 23
 0 33 2 3
+0 34 7 23
 1
 end_operator
 begin_operator
@@ -194749,8 +194749,8 @@ overcome grief entertainment haroset neptune vulcan
 1
 1 8
 2
-0 34 8 23
 0 33 3 1
+0 34 8 23
 1
 end_operator
 begin_operator
@@ -194758,8 +194758,8 @@ overcome grief entertainment haroset pluto jupiter
 1
 1 8
 2
-0 34 8 23
 0 33 0 2
+0 34 8 23
 1
 end_operator
 begin_operator
@@ -194767,8 +194767,8 @@ overcome grief entertainment haroset vulcan pluto
 1
 1 8
 2
-0 34 8 23
 0 33 2 3
+0 34 8 23
 1
 end_operator
 begin_operator
@@ -194776,8 +194776,8 @@ overcome grief entertainment hotdog neptune vulcan
 1
 1 9
 2
-0 34 9 23
 0 33 3 1
+0 34 9 23
 1
 end_operator
 begin_operator
@@ -194785,8 +194785,8 @@ overcome grief entertainment hotdog pluto jupiter
 1
 1 9
 2
-0 34 9 23
 0 33 0 2
+0 34 9 23
 1
 end_operator
 begin_operator
@@ -194794,8 +194794,8 @@ overcome grief entertainment hotdog vulcan pluto
 1
 1 9
 2
-0 34 9 23
 0 33 2 3
+0 34 9 23
 1
 end_operator
 begin_operator
@@ -194803,8 +194803,8 @@ overcome grief entertainment lemon neptune vulcan
 1
 1 10
 2
-0 34 10 23
 0 33 3 1
+0 34 10 23
 1
 end_operator
 begin_operator
@@ -194812,8 +194812,8 @@ overcome grief entertainment lemon pluto jupiter
 1
 1 10
 2
-0 34 10 23
 0 33 0 2
+0 34 10 23
 1
 end_operator
 begin_operator
@@ -194821,8 +194821,8 @@ overcome grief entertainment lemon vulcan pluto
 1
 1 10
 2
-0 34 10 23
 0 33 2 3
+0 34 10 23
 1
 end_operator
 begin_operator
@@ -194830,8 +194830,8 @@ overcome grief entertainment marzipan neptune vulcan
 1
 1 11
 2
-0 34 11 23
 0 33 3 1
+0 34 11 23
 1
 end_operator
 begin_operator
@@ -194839,8 +194839,8 @@ overcome grief entertainment marzipan pluto jupiter
 1
 1 11
 2
-0 34 11 23
 0 33 0 2
+0 34 11 23
 1
 end_operator
 begin_operator
@@ -194848,8 +194848,8 @@ overcome grief entertainment marzipan vulcan pluto
 1
 1 11
 2
-0 34 11 23
 0 33 2 3
+0 34 11 23
 1
 end_operator
 begin_operator
@@ -194857,8 +194857,8 @@ overcome grief entertainment orange neptune vulcan
 1
 1 12
 2
-0 34 12 23
 0 33 3 1
+0 34 12 23
 1
 end_operator
 begin_operator
@@ -194866,8 +194866,8 @@ overcome grief entertainment orange pluto jupiter
 1
 1 12
 2
-0 34 12 23
 0 33 0 2
+0 34 12 23
 1
 end_operator
 begin_operator
@@ -194875,8 +194875,8 @@ overcome grief entertainment orange vulcan pluto
 1
 1 12
 2
-0 34 12 23
 0 33 2 3
+0 34 12 23
 1
 end_operator
 begin_operator
@@ -194884,8 +194884,8 @@ overcome grief entertainment pea neptune vulcan
 1
 1 13
 2
-0 34 13 23
 0 33 3 1
+0 34 13 23
 1
 end_operator
 begin_operator
@@ -194893,8 +194893,8 @@ overcome grief entertainment pea pluto jupiter
 1
 1 13
 2
-0 34 13 23
 0 33 0 2
+0 34 13 23
 1
 end_operator
 begin_operator
@@ -194902,8 +194902,8 @@ overcome grief entertainment pea vulcan pluto
 1
 1 13
 2
-0 34 13 23
 0 33 2 3
+0 34 13 23
 1
 end_operator
 begin_operator
@@ -194911,8 +194911,8 @@ overcome grief entertainment pepper neptune vulcan
 1
 1 14
 2
-0 34 14 23
 0 33 3 1
+0 34 14 23
 1
 end_operator
 begin_operator
@@ -194920,8 +194920,8 @@ overcome grief entertainment pepper pluto jupiter
 1
 1 14
 2
-0 34 14 23
 0 33 0 2
+0 34 14 23
 1
 end_operator
 begin_operator
@@ -194929,8 +194929,8 @@ overcome grief entertainment pepper vulcan pluto
 1
 1 14
 2
-0 34 14 23
 0 33 2 3
+0 34 14 23
 1
 end_operator
 begin_operator
@@ -194938,8 +194938,8 @@ overcome grief entertainment potato neptune vulcan
 1
 1 15
 2
-0 34 15 23
 0 33 3 1
+0 34 15 23
 1
 end_operator
 begin_operator
@@ -194947,8 +194947,8 @@ overcome grief entertainment potato pluto jupiter
 1
 1 15
 2
-0 34 15 23
 0 33 0 2
+0 34 15 23
 1
 end_operator
 begin_operator
@@ -194956,8 +194956,8 @@ overcome grief entertainment potato vulcan pluto
 1
 1 15
 2
-0 34 15 23
 0 33 2 3
+0 34 15 23
 1
 end_operator
 begin_operator
@@ -194965,8 +194965,8 @@ overcome grief entertainment rice neptune vulcan
 1
 1 16
 2
-0 34 16 23
 0 33 3 1
+0 34 16 23
 1
 end_operator
 begin_operator
@@ -194974,8 +194974,8 @@ overcome grief entertainment rice pluto jupiter
 1
 1 16
 2
-0 34 16 23
 0 33 0 2
+0 34 16 23
 1
 end_operator
 begin_operator
@@ -194983,8 +194983,8 @@ overcome grief entertainment rice vulcan pluto
 1
 1 16
 2
-0 34 16 23
 0 33 2 3
+0 34 16 23
 1
 end_operator
 begin_operator
@@ -194992,8 +194992,8 @@ overcome grief entertainment scallop neptune vulcan
 1
 1 17
 2
-0 34 17 23
 0 33 3 1
+0 34 17 23
 1
 end_operator
 begin_operator
@@ -195001,8 +195001,8 @@ overcome grief entertainment scallop pluto jupiter
 1
 1 17
 2
-0 34 17 23
 0 33 0 2
+0 34 17 23
 1
 end_operator
 begin_operator
@@ -195010,8 +195010,8 @@ overcome grief entertainment scallop vulcan pluto
 1
 1 17
 2
-0 34 17 23
 0 33 2 3
+0 34 17 23
 1
 end_operator
 begin_operator
@@ -195019,8 +195019,8 @@ overcome grief entertainment tofu neptune vulcan
 1
 1 18
 2
-0 34 18 23
 0 33 3 1
+0 34 18 23
 1
 end_operator
 begin_operator
@@ -195028,8 +195028,8 @@ overcome grief entertainment tofu pluto jupiter
 1
 1 18
 2
-0 34 18 23
 0 33 0 2
+0 34 18 23
 1
 end_operator
 begin_operator
@@ -195037,8 +195037,8 @@ overcome grief entertainment tofu vulcan pluto
 1
 1 18
 2
-0 34 18 23
 0 33 2 3
+0 34 18 23
 1
 end_operator
 begin_operator
@@ -195046,8 +195046,8 @@ overcome grief entertainment turkey neptune vulcan
 1
 1 19
 2
-0 34 19 23
 0 33 3 1
+0 34 19 23
 1
 end_operator
 begin_operator
@@ -195055,8 +195055,8 @@ overcome grief entertainment turkey pluto jupiter
 1
 1 19
 2
-0 34 19 23
 0 33 0 2
+0 34 19 23
 1
 end_operator
 begin_operator
@@ -195064,8 +195064,8 @@ overcome grief entertainment turkey vulcan pluto
 1
 1 19
 2
-0 34 19 23
 0 33 2 3
+0 34 19 23
 1
 end_operator
 begin_operator
@@ -195073,8 +195073,8 @@ overcome grief entertainment wonderbread neptune vulcan
 1
 1 20
 2
-0 34 20 23
 0 33 3 1
+0 34 20 23
 1
 end_operator
 begin_operator
@@ -195082,8 +195082,8 @@ overcome grief entertainment wonderbread pluto jupiter
 1
 1 20
 2
-0 34 20 23
 0 33 0 2
+0 34 20 23
 1
 end_operator
 begin_operator
@@ -195091,8 +195091,8 @@ overcome grief entertainment wonderbread vulcan pluto
 1
 1 20
 2
-0 34 20 23
 0 33 2 3
+0 34 20 23
 1
 end_operator
 begin_operator
@@ -195100,8 +195100,8 @@ overcome grief entertainment wurst neptune vulcan
 1
 1 21
 2
-0 34 21 23
 0 33 3 1
+0 34 21 23
 1
 end_operator
 begin_operator
@@ -195109,8 +195109,8 @@ overcome grief entertainment wurst pluto jupiter
 1
 1 21
 2
-0 34 21 23
 0 33 0 2
+0 34 21 23
 1
 end_operator
 begin_operator
@@ -195118,8 +195118,8 @@ overcome grief entertainment wurst vulcan pluto
 1
 1 21
 2
-0 34 21 23
 0 33 2 3
+0 34 21 23
 1
 end_operator
 begin_operator
@@ -198097,8 +198097,8 @@ overcome hangover curiosity bacon neptune vulcan
 1
 0 0
 2
-0 35 0 22
 0 32 3 1
+0 35 0 22
 1
 end_operator
 begin_operator
@@ -198106,8 +198106,8 @@ overcome hangover curiosity bacon pluto jupiter
 1
 0 0
 2
-0 35 0 22
 0 32 0 2
+0 35 0 22
 1
 end_operator
 begin_operator
@@ -198115,8 +198115,8 @@ overcome hangover curiosity bacon vulcan pluto
 1
 0 0
 2
-0 35 0 22
 0 32 2 3
+0 35 0 22
 1
 end_operator
 begin_operator
@@ -198124,8 +198124,8 @@ overcome hangover curiosity broccoli neptune vulcan
 1
 0 1
 2
-0 35 1 22
 0 32 3 1
+0 35 1 22
 1
 end_operator
 begin_operator
@@ -198133,8 +198133,8 @@ overcome hangover curiosity broccoli pluto jupiter
 1
 0 1
 2
-0 35 1 22
 0 32 0 2
+0 35 1 22
 1
 end_operator
 begin_operator
@@ -198142,8 +198142,8 @@ overcome hangover curiosity broccoli vulcan pluto
 1
 0 1
 2
-0 35 1 22
 0 32 2 3
+0 35 1 22
 1
 end_operator
 begin_operator
@@ -198151,8 +198151,8 @@ overcome hangover curiosity cantelope neptune vulcan
 1
 0 2
 2
-0 35 2 22
 0 32 3 1
+0 35 2 22
 1
 end_operator
 begin_operator
@@ -198160,8 +198160,8 @@ overcome hangover curiosity cantelope pluto jupiter
 1
 0 2
 2
-0 35 2 22
 0 32 0 2
+0 35 2 22
 1
 end_operator
 begin_operator
@@ -198169,8 +198169,8 @@ overcome hangover curiosity cantelope vulcan pluto
 1
 0 2
 2
-0 35 2 22
 0 32 2 3
+0 35 2 22
 1
 end_operator
 begin_operator
@@ -198178,8 +198178,8 @@ overcome hangover curiosity chicken neptune vulcan
 1
 0 3
 2
-0 35 3 22
 0 32 3 1
+0 35 3 22
 1
 end_operator
 begin_operator
@@ -198187,8 +198187,8 @@ overcome hangover curiosity chicken pluto jupiter
 1
 0 3
 2
-0 35 3 22
 0 32 0 2
+0 35 3 22
 1
 end_operator
 begin_operator
@@ -198196,8 +198196,8 @@ overcome hangover curiosity chicken vulcan pluto
 1
 0 3
 2
-0 35 3 22
 0 32 2 3
+0 35 3 22
 1
 end_operator
 begin_operator
@@ -198205,8 +198205,8 @@ overcome hangover curiosity chocolate neptune vulcan
 1
 0 4
 2
-0 35 4 22
 0 32 3 1
+0 35 4 22
 1
 end_operator
 begin_operator
@@ -198214,8 +198214,8 @@ overcome hangover curiosity chocolate pluto jupiter
 1
 0 4
 2
-0 35 4 22
 0 32 0 2
+0 35 4 22
 1
 end_operator
 begin_operator
@@ -198223,8 +198223,8 @@ overcome hangover curiosity chocolate vulcan pluto
 1
 0 4
 2
-0 35 4 22
 0 32 2 3
+0 35 4 22
 1
 end_operator
 begin_operator
@@ -198232,8 +198232,8 @@ overcome hangover curiosity cucumber neptune vulcan
 1
 0 5
 2
-0 35 5 22
 0 32 3 1
+0 35 5 22
 1
 end_operator
 begin_operator
@@ -198241,8 +198241,8 @@ overcome hangover curiosity cucumber pluto jupiter
 1
 0 5
 2
-0 35 5 22
 0 32 0 2
+0 35 5 22
 1
 end_operator
 begin_operator
@@ -198250,8 +198250,8 @@ overcome hangover curiosity cucumber vulcan pluto
 1
 0 5
 2
-0 35 5 22
 0 32 2 3
+0 35 5 22
 1
 end_operator
 begin_operator
@@ -198259,8 +198259,8 @@ overcome hangover curiosity endive neptune vulcan
 1
 0 6
 2
-0 35 6 22
 0 32 3 1
+0 35 6 22
 1
 end_operator
 begin_operator
@@ -198268,8 +198268,8 @@ overcome hangover curiosity endive pluto jupiter
 1
 0 6
 2
-0 35 6 22
 0 32 0 2
+0 35 6 22
 1
 end_operator
 begin_operator
@@ -198277,8 +198277,8 @@ overcome hangover curiosity endive vulcan pluto
 1
 0 6
 2
-0 35 6 22
 0 32 2 3
+0 35 6 22
 1
 end_operator
 begin_operator
@@ -198286,8 +198286,8 @@ overcome hangover curiosity guava neptune vulcan
 1
 0 7
 2
-0 35 7 22
 0 32 3 1
+0 35 7 22
 1
 end_operator
 begin_operator
@@ -198295,8 +198295,8 @@ overcome hangover curiosity guava pluto jupiter
 1
 0 7
 2
-0 35 7 22
 0 32 0 2
+0 35 7 22
 1
 end_operator
 begin_operator
@@ -198304,8 +198304,8 @@ overcome hangover curiosity guava vulcan pluto
 1
 0 7
 2
-0 35 7 22
 0 32 2 3
+0 35 7 22
 1
 end_operator
 begin_operator
@@ -198313,8 +198313,8 @@ overcome hangover curiosity haroset neptune vulcan
 1
 0 8
 2
-0 35 8 22
 0 32 3 1
+0 35 8 22
 1
 end_operator
 begin_operator
@@ -198322,8 +198322,8 @@ overcome hangover curiosity haroset pluto jupiter
 1
 0 8
 2
-0 35 8 22
 0 32 0 2
+0 35 8 22
 1
 end_operator
 begin_operator
@@ -198331,8 +198331,8 @@ overcome hangover curiosity haroset vulcan pluto
 1
 0 8
 2
-0 35 8 22
 0 32 2 3
+0 35 8 22
 1
 end_operator
 begin_operator
@@ -198340,8 +198340,8 @@ overcome hangover curiosity hotdog neptune vulcan
 1
 0 9
 2
-0 35 9 22
 0 32 3 1
+0 35 9 22
 1
 end_operator
 begin_operator
@@ -198349,8 +198349,8 @@ overcome hangover curiosity hotdog pluto jupiter
 1
 0 9
 2
-0 35 9 22
 0 32 0 2
+0 35 9 22
 1
 end_operator
 begin_operator
@@ -198358,8 +198358,8 @@ overcome hangover curiosity hotdog vulcan pluto
 1
 0 9
 2
-0 35 9 22
 0 32 2 3
+0 35 9 22
 1
 end_operator
 begin_operator
@@ -198367,8 +198367,8 @@ overcome hangover curiosity lemon neptune vulcan
 1
 0 10
 2
-0 35 10 22
 0 32 3 1
+0 35 10 22
 1
 end_operator
 begin_operator
@@ -198376,8 +198376,8 @@ overcome hangover curiosity lemon pluto jupiter
 1
 0 10
 2
-0 35 10 22
 0 32 0 2
+0 35 10 22
 1
 end_operator
 begin_operator
@@ -198385,8 +198385,8 @@ overcome hangover curiosity lemon vulcan pluto
 1
 0 10
 2
-0 35 10 22
 0 32 2 3
+0 35 10 22
 1
 end_operator
 begin_operator
@@ -198394,8 +198394,8 @@ overcome hangover curiosity marzipan neptune vulcan
 1
 0 11
 2
-0 35 11 22
 0 32 3 1
+0 35 11 22
 1
 end_operator
 begin_operator
@@ -198403,8 +198403,8 @@ overcome hangover curiosity marzipan pluto jupiter
 1
 0 11
 2
-0 35 11 22
 0 32 0 2
+0 35 11 22
 1
 end_operator
 begin_operator
@@ -198412,8 +198412,8 @@ overcome hangover curiosity marzipan vulcan pluto
 1
 0 11
 2
-0 35 11 22
 0 32 2 3
+0 35 11 22
 1
 end_operator
 begin_operator
@@ -198421,8 +198421,8 @@ overcome hangover curiosity orange neptune vulcan
 1
 0 12
 2
-0 35 12 22
 0 32 3 1
+0 35 12 22
 1
 end_operator
 begin_operator
@@ -198430,8 +198430,8 @@ overcome hangover curiosity orange pluto jupiter
 1
 0 12
 2
-0 35 12 22
 0 32 0 2
+0 35 12 22
 1
 end_operator
 begin_operator
@@ -198439,8 +198439,8 @@ overcome hangover curiosity orange vulcan pluto
 1
 0 12
 2
-0 35 12 22
 0 32 2 3
+0 35 12 22
 1
 end_operator
 begin_operator
@@ -198448,8 +198448,8 @@ overcome hangover curiosity pea neptune vulcan
 1
 0 13
 2
-0 35 13 22
 0 32 3 1
+0 35 13 22
 1
 end_operator
 begin_operator
@@ -198457,8 +198457,8 @@ overcome hangover curiosity pea pluto jupiter
 1
 0 13
 2
-0 35 13 22
 0 32 0 2
+0 35 13 22
 1
 end_operator
 begin_operator
@@ -198466,8 +198466,8 @@ overcome hangover curiosity pea vulcan pluto
 1
 0 13
 2
-0 35 13 22
 0 32 2 3
+0 35 13 22
 1
 end_operator
 begin_operator
@@ -198475,8 +198475,8 @@ overcome hangover curiosity pepper neptune vulcan
 1
 0 14
 2
-0 35 14 22
 0 32 3 1
+0 35 14 22
 1
 end_operator
 begin_operator
@@ -198484,8 +198484,8 @@ overcome hangover curiosity pepper pluto jupiter
 1
 0 14
 2
-0 35 14 22
 0 32 0 2
+0 35 14 22
 1
 end_operator
 begin_operator
@@ -198493,8 +198493,8 @@ overcome hangover curiosity pepper vulcan pluto
 1
 0 14
 2
-0 35 14 22
 0 32 2 3
+0 35 14 22
 1
 end_operator
 begin_operator
@@ -198502,8 +198502,8 @@ overcome hangover curiosity potato neptune vulcan
 1
 0 15
 2
-0 35 15 22
 0 32 3 1
+0 35 15 22
 1
 end_operator
 begin_operator
@@ -198511,8 +198511,8 @@ overcome hangover curiosity potato pluto jupiter
 1
 0 15
 2
-0 35 15 22
 0 32 0 2
+0 35 15 22
 1
 end_operator
 begin_operator
@@ -198520,8 +198520,8 @@ overcome hangover curiosity potato vulcan pluto
 1
 0 15
 2
-0 35 15 22
 0 32 2 3
+0 35 15 22
 1
 end_operator
 begin_operator
@@ -198529,8 +198529,8 @@ overcome hangover curiosity rice neptune vulcan
 1
 0 16
 2
-0 35 16 22
 0 32 3 1
+0 35 16 22
 1
 end_operator
 begin_operator
@@ -198538,8 +198538,8 @@ overcome hangover curiosity rice pluto jupiter
 1
 0 16
 2
-0 35 16 22
 0 32 0 2
+0 35 16 22
 1
 end_operator
 begin_operator
@@ -198547,8 +198547,8 @@ overcome hangover curiosity rice vulcan pluto
 1
 0 16
 2
-0 35 16 22
 0 32 2 3
+0 35 16 22
 1
 end_operator
 begin_operator
@@ -198556,8 +198556,8 @@ overcome hangover curiosity scallop neptune vulcan
 1
 0 17
 2
-0 35 17 22
 0 32 3 1
+0 35 17 22
 1
 end_operator
 begin_operator
@@ -198565,8 +198565,8 @@ overcome hangover curiosity scallop pluto jupiter
 1
 0 17
 2
-0 35 17 22
 0 32 0 2
+0 35 17 22
 1
 end_operator
 begin_operator
@@ -198574,8 +198574,8 @@ overcome hangover curiosity scallop vulcan pluto
 1
 0 17
 2
-0 35 17 22
 0 32 2 3
+0 35 17 22
 1
 end_operator
 begin_operator
@@ -198583,8 +198583,8 @@ overcome hangover curiosity tofu neptune vulcan
 1
 0 18
 2
-0 35 18 22
 0 32 3 1
+0 35 18 22
 1
 end_operator
 begin_operator
@@ -198592,8 +198592,8 @@ overcome hangover curiosity tofu pluto jupiter
 1
 0 18
 2
-0 35 18 22
 0 32 0 2
+0 35 18 22
 1
 end_operator
 begin_operator
@@ -198601,8 +198601,8 @@ overcome hangover curiosity tofu vulcan pluto
 1
 0 18
 2
-0 35 18 22
 0 32 2 3
+0 35 18 22
 1
 end_operator
 begin_operator
@@ -198610,8 +198610,8 @@ overcome hangover curiosity turkey neptune vulcan
 1
 0 19
 2
-0 35 19 22
 0 32 3 1
+0 35 19 22
 1
 end_operator
 begin_operator
@@ -198619,8 +198619,8 @@ overcome hangover curiosity turkey pluto jupiter
 1
 0 19
 2
-0 35 19 22
 0 32 0 2
+0 35 19 22
 1
 end_operator
 begin_operator
@@ -198628,8 +198628,8 @@ overcome hangover curiosity turkey vulcan pluto
 1
 0 19
 2
-0 35 19 22
 0 32 2 3
+0 35 19 22
 1
 end_operator
 begin_operator
@@ -198637,8 +198637,8 @@ overcome hangover curiosity wonderbread neptune vulcan
 1
 0 20
 2
-0 35 20 22
 0 32 3 1
+0 35 20 22
 1
 end_operator
 begin_operator
@@ -198646,8 +198646,8 @@ overcome hangover curiosity wonderbread pluto jupiter
 1
 0 20
 2
-0 35 20 22
 0 32 0 2
+0 35 20 22
 1
 end_operator
 begin_operator
@@ -198655,8 +198655,8 @@ overcome hangover curiosity wonderbread vulcan pluto
 1
 0 20
 2
-0 35 20 22
 0 32 2 3
+0 35 20 22
 1
 end_operator
 begin_operator
@@ -198664,8 +198664,8 @@ overcome hangover curiosity wurst neptune vulcan
 1
 0 21
 2
-0 35 21 22
 0 32 3 1
+0 35 21 22
 1
 end_operator
 begin_operator
@@ -198673,8 +198673,8 @@ overcome hangover curiosity wurst pluto jupiter
 1
 0 21
 2
-0 35 21 22
 0 32 0 2
+0 35 21 22
 1
 end_operator
 begin_operator
@@ -198682,8 +198682,8 @@ overcome hangover curiosity wurst vulcan pluto
 1
 0 21
 2
-0 35 21 22
 0 32 2 3
+0 35 21 22
 1
 end_operator
 begin_operator
@@ -198691,8 +198691,8 @@ overcome hangover entertainment bacon neptune vulcan
 1
 1 0
 2
-0 35 0 23
 0 33 3 1
+0 35 0 23
 1
 end_operator
 begin_operator
@@ -198700,8 +198700,8 @@ overcome hangover entertainment bacon pluto jupiter
 1
 1 0
 2
-0 35 0 23
 0 33 0 2
+0 35 0 23
 1
 end_operator
 begin_operator
@@ -198709,8 +198709,8 @@ overcome hangover entertainment bacon vulcan pluto
 1
 1 0
 2
-0 35 0 23
 0 33 2 3
+0 35 0 23
 1
 end_operator
 begin_operator
@@ -198718,8 +198718,8 @@ overcome hangover entertainment broccoli neptune vulcan
 1
 1 1
 2
-0 35 1 23
 0 33 3 1
+0 35 1 23
 1
 end_operator
 begin_operator
@@ -198727,8 +198727,8 @@ overcome hangover entertainment broccoli pluto jupiter
 1
 1 1
 2
-0 35 1 23
 0 33 0 2
+0 35 1 23
 1
 end_operator
 begin_operator
@@ -198736,8 +198736,8 @@ overcome hangover entertainment broccoli vulcan pluto
 1
 1 1
 2
-0 35 1 23
 0 33 2 3
+0 35 1 23
 1
 end_operator
 begin_operator
@@ -198745,8 +198745,8 @@ overcome hangover entertainment cantelope neptune vulcan
 1
 1 2
 2
-0 35 2 23
 0 33 3 1
+0 35 2 23
 1
 end_operator
 begin_operator
@@ -198754,8 +198754,8 @@ overcome hangover entertainment cantelope pluto jupiter
 1
 1 2
 2
-0 35 2 23
 0 33 0 2
+0 35 2 23
 1
 end_operator
 begin_operator
@@ -198763,8 +198763,8 @@ overcome hangover entertainment cantelope vulcan pluto
 1
 1 2
 2
-0 35 2 23
 0 33 2 3
+0 35 2 23
 1
 end_operator
 begin_operator
@@ -198772,8 +198772,8 @@ overcome hangover entertainment chicken neptune vulcan
 1
 1 3
 2
-0 35 3 23
 0 33 3 1
+0 35 3 23
 1
 end_operator
 begin_operator
@@ -198781,8 +198781,8 @@ overcome hangover entertainment chicken pluto jupiter
 1
 1 3
 2
-0 35 3 23
 0 33 0 2
+0 35 3 23
 1
 end_operator
 begin_operator
@@ -198790,8 +198790,8 @@ overcome hangover entertainment chicken vulcan pluto
 1
 1 3
 2
-0 35 3 23
 0 33 2 3
+0 35 3 23
 1
 end_operator
 begin_operator
@@ -198799,8 +198799,8 @@ overcome hangover entertainment chocolate neptune vulcan
 1
 1 4
 2
-0 35 4 23
 0 33 3 1
+0 35 4 23
 1
 end_operator
 begin_operator
@@ -198808,8 +198808,8 @@ overcome hangover entertainment chocolate pluto jupiter
 1
 1 4
 2
-0 35 4 23
 0 33 0 2
+0 35 4 23
 1
 end_operator
 begin_operator
@@ -198817,8 +198817,8 @@ overcome hangover entertainment chocolate vulcan pluto
 1
 1 4
 2
-0 35 4 23
 0 33 2 3
+0 35 4 23
 1
 end_operator
 begin_operator
@@ -198826,8 +198826,8 @@ overcome hangover entertainment cucumber neptune vulcan
 1
 1 5
 2
-0 35 5 23
 0 33 3 1
+0 35 5 23
 1
 end_operator
 begin_operator
@@ -198835,8 +198835,8 @@ overcome hangover entertainment cucumber pluto jupiter
 1
 1 5
 2
-0 35 5 23
 0 33 0 2
+0 35 5 23
 1
 end_operator
 begin_operator
@@ -198844,8 +198844,8 @@ overcome hangover entertainment cucumber vulcan pluto
 1
 1 5
 2
-0 35 5 23
 0 33 2 3
+0 35 5 23
 1
 end_operator
 begin_operator
@@ -198853,8 +198853,8 @@ overcome hangover entertainment endive neptune vulcan
 1
 1 6
 2
-0 35 6 23
 0 33 3 1
+0 35 6 23
 1
 end_operator
 begin_operator
@@ -198862,8 +198862,8 @@ overcome hangover entertainment endive pluto jupiter
 1
 1 6
 2
-0 35 6 23
 0 33 0 2
+0 35 6 23
 1
 end_operator
 begin_operator
@@ -198871,8 +198871,8 @@ overcome hangover entertainment endive vulcan pluto
 1
 1 6
 2
-0 35 6 23
 0 33 2 3
+0 35 6 23
 1
 end_operator
 begin_operator
@@ -198880,8 +198880,8 @@ overcome hangover entertainment guava neptune vulcan
 1
 1 7
 2
-0 35 7 23
 0 33 3 1
+0 35 7 23
 1
 end_operator
 begin_operator
@@ -198889,8 +198889,8 @@ overcome hangover entertainment guava pluto jupiter
 1
 1 7
 2
-0 35 7 23
 0 33 0 2
+0 35 7 23
 1
 end_operator
 begin_operator
@@ -198898,8 +198898,8 @@ overcome hangover entertainment guava vulcan pluto
 1
 1 7
 2
-0 35 7 23
 0 33 2 3
+0 35 7 23
 1
 end_operator
 begin_operator
@@ -198907,8 +198907,8 @@ overcome hangover entertainment haroset neptune vulcan
 1
 1 8
 2
-0 35 8 23
 0 33 3 1
+0 35 8 23
 1
 end_operator
 begin_operator
@@ -198916,8 +198916,8 @@ overcome hangover entertainment haroset pluto jupiter
 1
 1 8
 2
-0 35 8 23
 0 33 0 2
+0 35 8 23
 1
 end_operator
 begin_operator
@@ -198925,8 +198925,8 @@ overcome hangover entertainment haroset vulcan pluto
 1
 1 8
 2
-0 35 8 23
 0 33 2 3
+0 35 8 23
 1
 end_operator
 begin_operator
@@ -198934,8 +198934,8 @@ overcome hangover entertainment hotdog neptune vulcan
 1
 1 9
 2
-0 35 9 23
 0 33 3 1
+0 35 9 23
 1
 end_operator
 begin_operator
@@ -198943,8 +198943,8 @@ overcome hangover entertainment hotdog pluto jupiter
 1
 1 9
 2
-0 35 9 23
 0 33 0 2
+0 35 9 23
 1
 end_operator
 begin_operator
@@ -198952,8 +198952,8 @@ overcome hangover entertainment hotdog vulcan pluto
 1
 1 9
 2
-0 35 9 23
 0 33 2 3
+0 35 9 23
 1
 end_operator
 begin_operator
@@ -198961,8 +198961,8 @@ overcome hangover entertainment lemon neptune vulcan
 1
 1 10
 2
-0 35 10 23
 0 33 3 1
+0 35 10 23
 1
 end_operator
 begin_operator
@@ -198970,8 +198970,8 @@ overcome hangover entertainment lemon pluto jupiter
 1
 1 10
 2
-0 35 10 23
 0 33 0 2
+0 35 10 23
 1
 end_operator
 begin_operator
@@ -198979,8 +198979,8 @@ overcome hangover entertainment lemon vulcan pluto
 1
 1 10
 2
-0 35 10 23
 0 33 2 3
+0 35 10 23
 1
 end_operator
 begin_operator
@@ -198988,8 +198988,8 @@ overcome hangover entertainment marzipan neptune vulcan
 1
 1 11
 2
-0 35 11 23
 0 33 3 1
+0 35 11 23
 1
 end_operator
 begin_operator
@@ -198997,8 +198997,8 @@ overcome hangover entertainment marzipan pluto jupiter
 1
 1 11
 2
-0 35 11 23
 0 33 0 2
+0 35 11 23
 1
 end_operator
 begin_operator
@@ -199006,8 +199006,8 @@ overcome hangover entertainment marzipan vulcan pluto
 1
 1 11
 2
-0 35 11 23
 0 33 2 3
+0 35 11 23
 1
 end_operator
 begin_operator
@@ -199015,8 +199015,8 @@ overcome hangover entertainment orange neptune vulcan
 1
 1 12
 2
-0 35 12 23
 0 33 3 1
+0 35 12 23
 1
 end_operator
 begin_operator
@@ -199024,8 +199024,8 @@ overcome hangover entertainment orange pluto jupiter
 1
 1 12
 2
-0 35 12 23
 0 33 0 2
+0 35 12 23
 1
 end_operator
 begin_operator
@@ -199033,8 +199033,8 @@ overcome hangover entertainment orange vulcan pluto
 1
 1 12
 2
-0 35 12 23
 0 33 2 3
+0 35 12 23
 1
 end_operator
 begin_operator
@@ -199042,8 +199042,8 @@ overcome hangover entertainment pea neptune vulcan
 1
 1 13
 2
-0 35 13 23
 0 33 3 1
+0 35 13 23
 1
 end_operator
 begin_operator
@@ -199051,8 +199051,8 @@ overcome hangover entertainment pea pluto jupiter
 1
 1 13
 2
-0 35 13 23
 0 33 0 2
+0 35 13 23
 1
 end_operator
 begin_operator
@@ -199060,8 +199060,8 @@ overcome hangover entertainment pea vulcan pluto
 1
 1 13
 2
-0 35 13 23
 0 33 2 3
+0 35 13 23
 1
 end_operator
 begin_operator
@@ -199069,8 +199069,8 @@ overcome hangover entertainment pepper neptune vulcan
 1
 1 14
 2
-0 35 14 23
 0 33 3 1
+0 35 14 23
 1
 end_operator
 begin_operator
@@ -199078,8 +199078,8 @@ overcome hangover entertainment pepper pluto jupiter
 1
 1 14
 2
-0 35 14 23
 0 33 0 2
+0 35 14 23
 1
 end_operator
 begin_operator
@@ -199087,8 +199087,8 @@ overcome hangover entertainment pepper vulcan pluto
 1
 1 14
 2
-0 35 14 23
 0 33 2 3
+0 35 14 23
 1
 end_operator
 begin_operator
@@ -199096,8 +199096,8 @@ overcome hangover entertainment potato neptune vulcan
 1
 1 15
 2
-0 35 15 23
 0 33 3 1
+0 35 15 23
 1
 end_operator
 begin_operator
@@ -199105,8 +199105,8 @@ overcome hangover entertainment potato pluto jupiter
 1
 1 15
 2
-0 35 15 23
 0 33 0 2
+0 35 15 23
 1
 end_operator
 begin_operator
@@ -199114,8 +199114,8 @@ overcome hangover entertainment potato vulcan pluto
 1
 1 15
 2
-0 35 15 23
 0 33 2 3
+0 35 15 23
 1
 end_operator
 begin_operator
@@ -199123,8 +199123,8 @@ overcome hangover entertainment rice neptune vulcan
 1
 1 16
 2
-0 35 16 23
 0 33 3 1
+0 35 16 23
 1
 end_operator
 begin_operator
@@ -199132,8 +199132,8 @@ overcome hangover entertainment rice pluto jupiter
 1
 1 16
 2
-0 35 16 23
 0 33 0 2
+0 35 16 23
 1
 end_operator
 begin_operator
@@ -199141,8 +199141,8 @@ overcome hangover entertainment rice vulcan pluto
 1
 1 16
 2
-0 35 16 23
 0 33 2 3
+0 35 16 23
 1
 end_operator
 begin_operator
@@ -199150,8 +199150,8 @@ overcome hangover entertainment scallop neptune vulcan
 1
 1 17
 2
-0 35 17 23
 0 33 3 1
+0 35 17 23
 1
 end_operator
 begin_operator
@@ -199159,8 +199159,8 @@ overcome hangover entertainment scallop pluto jupiter
 1
 1 17
 2
-0 35 17 23
 0 33 0 2
+0 35 17 23
 1
 end_operator
 begin_operator
@@ -199168,8 +199168,8 @@ overcome hangover entertainment scallop vulcan pluto
 1
 1 17
 2
-0 35 17 23
 0 33 2 3
+0 35 17 23
 1
 end_operator
 begin_operator
@@ -199177,8 +199177,8 @@ overcome hangover entertainment tofu neptune vulcan
 1
 1 18
 2
-0 35 18 23
 0 33 3 1
+0 35 18 23
 1
 end_operator
 begin_operator
@@ -199186,8 +199186,8 @@ overcome hangover entertainment tofu pluto jupiter
 1
 1 18
 2
-0 35 18 23
 0 33 0 2
+0 35 18 23
 1
 end_operator
 begin_operator
@@ -199195,8 +199195,8 @@ overcome hangover entertainment tofu vulcan pluto
 1
 1 18
 2
-0 35 18 23
 0 33 2 3
+0 35 18 23
 1
 end_operator
 begin_operator
@@ -199204,8 +199204,8 @@ overcome hangover entertainment turkey neptune vulcan
 1
 1 19
 2
-0 35 19 23
 0 33 3 1
+0 35 19 23
 1
 end_operator
 begin_operator
@@ -199213,8 +199213,8 @@ overcome hangover entertainment turkey pluto jupiter
 1
 1 19
 2
-0 35 19 23
 0 33 0 2
+0 35 19 23
 1
 end_operator
 begin_operator
@@ -199222,8 +199222,8 @@ overcome hangover entertainment turkey vulcan pluto
 1
 1 19
 2
-0 35 19 23
 0 33 2 3
+0 35 19 23
 1
 end_operator
 begin_operator
@@ -199231,8 +199231,8 @@ overcome hangover entertainment wonderbread neptune vulcan
 1
 1 20
 2
-0 35 20 23
 0 33 3 1
+0 35 20 23
 1
 end_operator
 begin_operator
@@ -199240,8 +199240,8 @@ overcome hangover entertainment wonderbread pluto jupiter
 1
 1 20
 2
-0 35 20 23
 0 33 0 2
+0 35 20 23
 1
 end_operator
 begin_operator
@@ -199249,8 +199249,8 @@ overcome hangover entertainment wonderbread vulcan pluto
 1
 1 20
 2
-0 35 20 23
 0 33 2 3
+0 35 20 23
 1
 end_operator
 begin_operator
@@ -199258,8 +199258,8 @@ overcome hangover entertainment wurst neptune vulcan
 1
 1 21
 2
-0 35 21 23
 0 33 3 1
+0 35 21 23
 1
 end_operator
 begin_operator
@@ -199267,8 +199267,8 @@ overcome hangover entertainment wurst pluto jupiter
 1
 1 21
 2
-0 35 21 23
 0 33 0 2
+0 35 21 23
 1
 end_operator
 begin_operator
@@ -199276,8 +199276,8 @@ overcome hangover entertainment wurst vulcan pluto
 1
 1 21
 2
-0 35 21 23
 0 33 2 3
+0 35 21 23
 1
 end_operator
 begin_operator
@@ -202255,8 +202255,8 @@ overcome jealousy curiosity bacon neptune vulcan
 1
 0 0
 2
-0 38 0 22
 0 32 3 1
+0 38 0 22
 1
 end_operator
 begin_operator
@@ -202264,8 +202264,8 @@ overcome jealousy curiosity bacon pluto jupiter
 1
 0 0
 2
-0 38 0 22
 0 32 0 2
+0 38 0 22
 1
 end_operator
 begin_operator
@@ -202273,8 +202273,8 @@ overcome jealousy curiosity bacon vulcan pluto
 1
 0 0
 2
-0 38 0 22
 0 32 2 3
+0 38 0 22
 1
 end_operator
 begin_operator
@@ -202282,8 +202282,8 @@ overcome jealousy curiosity broccoli neptune vulcan
 1
 0 1
 2
-0 38 1 22
 0 32 3 1
+0 38 1 22
 1
 end_operator
 begin_operator
@@ -202291,8 +202291,8 @@ overcome jealousy curiosity broccoli pluto jupiter
 1
 0 1
 2
-0 38 1 22
 0 32 0 2
+0 38 1 22
 1
 end_operator
 begin_operator
@@ -202300,8 +202300,8 @@ overcome jealousy curiosity broccoli vulcan pluto
 1
 0 1
 2
-0 38 1 22
 0 32 2 3
+0 38 1 22
 1
 end_operator
 begin_operator
@@ -202309,8 +202309,8 @@ overcome jealousy curiosity cantelope neptune vulcan
 1
 0 2
 2
-0 38 2 22
 0 32 3 1
+0 38 2 22
 1
 end_operator
 begin_operator
@@ -202318,8 +202318,8 @@ overcome jealousy curiosity cantelope pluto jupiter
 1
 0 2
 2
-0 38 2 22
 0 32 0 2
+0 38 2 22
 1
 end_operator
 begin_operator
@@ -202327,8 +202327,8 @@ overcome jealousy curiosity cantelope vulcan pluto
 1
 0 2
 2
-0 38 2 22
 0 32 2 3
+0 38 2 22
 1
 end_operator
 begin_operator
@@ -202336,8 +202336,8 @@ overcome jealousy curiosity chicken neptune vulcan
 1
 0 3
 2
-0 38 3 22
 0 32 3 1
+0 38 3 22
 1
 end_operator
 begin_operator
@@ -202345,8 +202345,8 @@ overcome jealousy curiosity chicken pluto jupiter
 1
 0 3
 2
-0 38 3 22
 0 32 0 2
+0 38 3 22
 1
 end_operator
 begin_operator
@@ -202354,8 +202354,8 @@ overcome jealousy curiosity chicken vulcan pluto
 1
 0 3
 2
-0 38 3 22
 0 32 2 3
+0 38 3 22
 1
 end_operator
 begin_operator
@@ -202363,8 +202363,8 @@ overcome jealousy curiosity chocolate neptune vulcan
 1
 0 4
 2
-0 38 4 22
 0 32 3 1
+0 38 4 22
 1
 end_operator
 begin_operator
@@ -202372,8 +202372,8 @@ overcome jealousy curiosity chocolate pluto jupiter
 1
 0 4
 2
-0 38 4 22
 0 32 0 2
+0 38 4 22
 1
 end_operator
 begin_operator
@@ -202381,8 +202381,8 @@ overcome jealousy curiosity chocolate vulcan pluto
 1
 0 4
 2
-0 38 4 22
 0 32 2 3
+0 38 4 22
 1
 end_operator
 begin_operator
@@ -202390,8 +202390,8 @@ overcome jealousy curiosity cucumber neptune vulcan
 1
 0 5
 2
-0 38 5 22
 0 32 3 1
+0 38 5 22
 1
 end_operator
 begin_operator
@@ -202399,8 +202399,8 @@ overcome jealousy curiosity cucumber pluto jupiter
 1
 0 5
 2
-0 38 5 22
 0 32 0 2
+0 38 5 22
 1
 end_operator
 begin_operator
@@ -202408,8 +202408,8 @@ overcome jealousy curiosity cucumber vulcan pluto
 1
 0 5
 2
-0 38 5 22
 0 32 2 3
+0 38 5 22
 1
 end_operator
 begin_operator
@@ -202417,8 +202417,8 @@ overcome jealousy curiosity endive neptune vulcan
 1
 0 6
 2
-0 38 6 22
 0 32 3 1
+0 38 6 22
 1
 end_operator
 begin_operator
@@ -202426,8 +202426,8 @@ overcome jealousy curiosity endive pluto jupiter
 1
 0 6
 2
-0 38 6 22
 0 32 0 2
+0 38 6 22
 1
 end_operator
 begin_operator
@@ -202435,8 +202435,8 @@ overcome jealousy curiosity endive vulcan pluto
 1
 0 6
 2
-0 38 6 22
 0 32 2 3
+0 38 6 22
 1
 end_operator
 begin_operator
@@ -202444,8 +202444,8 @@ overcome jealousy curiosity guava neptune vulcan
 1
 0 7
 2
-0 38 7 22
 0 32 3 1
+0 38 7 22
 1
 end_operator
 begin_operator
@@ -202453,8 +202453,8 @@ overcome jealousy curiosity guava pluto jupiter
 1
 0 7
 2
-0 38 7 22
 0 32 0 2
+0 38 7 22
 1
 end_operator
 begin_operator
@@ -202462,8 +202462,8 @@ overcome jealousy curiosity guava vulcan pluto
 1
 0 7
 2
-0 38 7 22
 0 32 2 3
+0 38 7 22
 1
 end_operator
 begin_operator
@@ -202471,8 +202471,8 @@ overcome jealousy curiosity haroset neptune vulcan
 1
 0 8
 2
-0 38 8 22
 0 32 3 1
+0 38 8 22
 1
 end_operator
 begin_operator
@@ -202480,8 +202480,8 @@ overcome jealousy curiosity haroset pluto jupiter
 1
 0 8
 2
-0 38 8 22
 0 32 0 2
+0 38 8 22
 1
 end_operator
 begin_operator
@@ -202489,8 +202489,8 @@ overcome jealousy curiosity haroset vulcan pluto
 1
 0 8
 2
-0 38 8 22
 0 32 2 3
+0 38 8 22
 1
 end_operator
 begin_operator
@@ -202498,8 +202498,8 @@ overcome jealousy curiosity hotdog neptune vulcan
 1
 0 9
 2
-0 38 9 22
 0 32 3 1
+0 38 9 22
 1
 end_operator
 begin_operator
@@ -202507,8 +202507,8 @@ overcome jealousy curiosity hotdog pluto jupiter
 1
 0 9
 2
-0 38 9 22
 0 32 0 2
+0 38 9 22
 1
 end_operator
 begin_operator
@@ -202516,8 +202516,8 @@ overcome jealousy curiosity hotdog vulcan pluto
 1
 0 9
 2
-0 38 9 22
 0 32 2 3
+0 38 9 22
 1
 end_operator
 begin_operator
@@ -202525,8 +202525,8 @@ overcome jealousy curiosity lemon neptune vulcan
 1
 0 10
 2
-0 38 10 22
 0 32 3 1
+0 38 10 22
 1
 end_operator
 begin_operator
@@ -202534,8 +202534,8 @@ overcome jealousy curiosity lemon pluto jupiter
 1
 0 10
 2
-0 38 10 22
 0 32 0 2
+0 38 10 22
 1
 end_operator
 begin_operator
@@ -202543,8 +202543,8 @@ overcome jealousy curiosity lemon vulcan pluto
 1
 0 10
 2
-0 38 10 22
 0 32 2 3
+0 38 10 22
 1
 end_operator
 begin_operator
@@ -202552,8 +202552,8 @@ overcome jealousy curiosity marzipan neptune vulcan
 1
 0 11
 2
-0 38 11 22
 0 32 3 1
+0 38 11 22
 1
 end_operator
 begin_operator
@@ -202561,8 +202561,8 @@ overcome jealousy curiosity marzipan pluto jupiter
 1
 0 11
 2
-0 38 11 22
 0 32 0 2
+0 38 11 22
 1
 end_operator
 begin_operator
@@ -202570,8 +202570,8 @@ overcome jealousy curiosity marzipan vulcan pluto
 1
 0 11
 2
-0 38 11 22
 0 32 2 3
+0 38 11 22
 1
 end_operator
 begin_operator
@@ -202579,8 +202579,8 @@ overcome jealousy curiosity orange neptune vulcan
 1
 0 12
 2
-0 38 12 22
 0 32 3 1
+0 38 12 22
 1
 end_operator
 begin_operator
@@ -202588,8 +202588,8 @@ overcome jealousy curiosity orange pluto jupiter
 1
 0 12
 2
-0 38 12 22
 0 32 0 2
+0 38 12 22
 1
 end_operator
 begin_operator
@@ -202597,8 +202597,8 @@ overcome jealousy curiosity orange vulcan pluto
 1
 0 12
 2
-0 38 12 22
 0 32 2 3
+0 38 12 22
 1
 end_operator
 begin_operator
@@ -202606,8 +202606,8 @@ overcome jealousy curiosity pea neptune vulcan
 1
 0 13
 2
-0 38 13 22
 0 32 3 1
+0 38 13 22
 1
 end_operator
 begin_operator
@@ -202615,8 +202615,8 @@ overcome jealousy curiosity pea pluto jupiter
 1
 0 13
 2
-0 38 13 22
 0 32 0 2
+0 38 13 22
 1
 end_operator
 begin_operator
@@ -202624,8 +202624,8 @@ overcome jealousy curiosity pea vulcan pluto
 1
 0 13
 2
-0 38 13 22
 0 32 2 3
+0 38 13 22
 1
 end_operator
 begin_operator
@@ -202633,8 +202633,8 @@ overcome jealousy curiosity pepper neptune vulcan
 1
 0 14
 2
-0 38 14 22
 0 32 3 1
+0 38 14 22
 1
 end_operator
 begin_operator
@@ -202642,8 +202642,8 @@ overcome jealousy curiosity pepper pluto jupiter
 1
 0 14
 2
-0 38 14 22
 0 32 0 2
+0 38 14 22
 1
 end_operator
 begin_operator
@@ -202651,8 +202651,8 @@ overcome jealousy curiosity pepper vulcan pluto
 1
 0 14
 2
-0 38 14 22
 0 32 2 3
+0 38 14 22
 1
 end_operator
 begin_operator
@@ -202660,8 +202660,8 @@ overcome jealousy curiosity potato neptune vulcan
 1
 0 15
 2
-0 38 15 22
 0 32 3 1
+0 38 15 22
 1
 end_operator
 begin_operator
@@ -202669,8 +202669,8 @@ overcome jealousy curiosity potato pluto jupiter
 1
 0 15
 2
-0 38 15 22
 0 32 0 2
+0 38 15 22
 1
 end_operator
 begin_operator
@@ -202678,8 +202678,8 @@ overcome jealousy curiosity potato vulcan pluto
 1
 0 15
 2
-0 38 15 22
 0 32 2 3
+0 38 15 22
 1
 end_operator
 begin_operator
@@ -202687,8 +202687,8 @@ overcome jealousy curiosity rice neptune vulcan
 1
 0 16
 2
-0 38 16 22
 0 32 3 1
+0 38 16 22
 1
 end_operator
 begin_operator
@@ -202696,8 +202696,8 @@ overcome jealousy curiosity rice pluto jupiter
 1
 0 16
 2
-0 38 16 22
 0 32 0 2
+0 38 16 22
 1
 end_operator
 begin_operator
@@ -202705,8 +202705,8 @@ overcome jealousy curiosity rice vulcan pluto
 1
 0 16
 2
-0 38 16 22
 0 32 2 3
+0 38 16 22
 1
 end_operator
 begin_operator
@@ -202714,8 +202714,8 @@ overcome jealousy curiosity scallop neptune vulcan
 1
 0 17
 2
-0 38 17 22
 0 32 3 1
+0 38 17 22
 1
 end_operator
 begin_operator
@@ -202723,8 +202723,8 @@ overcome jealousy curiosity scallop pluto jupiter
 1
 0 17
 2
-0 38 17 22
 0 32 0 2
+0 38 17 22
 1
 end_operator
 begin_operator
@@ -202732,8 +202732,8 @@ overcome jealousy curiosity scallop vulcan pluto
 1
 0 17
 2
-0 38 17 22
 0 32 2 3
+0 38 17 22
 1
 end_operator
 begin_operator
@@ -202741,8 +202741,8 @@ overcome jealousy curiosity tofu neptune vulcan
 1
 0 18
 2
-0 38 18 22
 0 32 3 1
+0 38 18 22
 1
 end_operator
 begin_operator
@@ -202750,8 +202750,8 @@ overcome jealousy curiosity tofu pluto jupiter
 1
 0 18
 2
-0 38 18 22
 0 32 0 2
+0 38 18 22
 1
 end_operator
 begin_operator
@@ -202759,8 +202759,8 @@ overcome jealousy curiosity tofu vulcan pluto
 1
 0 18
 2
-0 38 18 22
 0 32 2 3
+0 38 18 22
 1
 end_operator
 begin_operator
@@ -202768,8 +202768,8 @@ overcome jealousy curiosity turkey neptune vulcan
 1
 0 19
 2
-0 38 19 22
 0 32 3 1
+0 38 19 22
 1
 end_operator
 begin_operator
@@ -202777,8 +202777,8 @@ overcome jealousy curiosity turkey pluto jupiter
 1
 0 19
 2
-0 38 19 22
 0 32 0 2
+0 38 19 22
 1
 end_operator
 begin_operator
@@ -202786,8 +202786,8 @@ overcome jealousy curiosity turkey vulcan pluto
 1
 0 19
 2
-0 38 19 22
 0 32 2 3
+0 38 19 22
 1
 end_operator
 begin_operator
@@ -202795,8 +202795,8 @@ overcome jealousy curiosity wonderbread neptune vulcan
 1
 0 20
 2
-0 38 20 22
 0 32 3 1
+0 38 20 22
 1
 end_operator
 begin_operator
@@ -202804,8 +202804,8 @@ overcome jealousy curiosity wonderbread pluto jupiter
 1
 0 20
 2
-0 38 20 22
 0 32 0 2
+0 38 20 22
 1
 end_operator
 begin_operator
@@ -202813,8 +202813,8 @@ overcome jealousy curiosity wonderbread vulcan pluto
 1
 0 20
 2
-0 38 20 22
 0 32 2 3
+0 38 20 22
 1
 end_operator
 begin_operator
@@ -202822,8 +202822,8 @@ overcome jealousy curiosity wurst neptune vulcan
 1
 0 21
 2
-0 38 21 22
 0 32 3 1
+0 38 21 22
 1
 end_operator
 begin_operator
@@ -202831,8 +202831,8 @@ overcome jealousy curiosity wurst pluto jupiter
 1
 0 21
 2
-0 38 21 22
 0 32 0 2
+0 38 21 22
 1
 end_operator
 begin_operator
@@ -202840,8 +202840,8 @@ overcome jealousy curiosity wurst vulcan pluto
 1
 0 21
 2
-0 38 21 22
 0 32 2 3
+0 38 21 22
 1
 end_operator
 begin_operator
@@ -202849,8 +202849,8 @@ overcome jealousy entertainment bacon neptune vulcan
 1
 1 0
 2
-0 38 0 23
 0 33 3 1
+0 38 0 23
 1
 end_operator
 begin_operator
@@ -202858,8 +202858,8 @@ overcome jealousy entertainment bacon pluto jupiter
 1
 1 0
 2
-0 38 0 23
 0 33 0 2
+0 38 0 23
 1
 end_operator
 begin_operator
@@ -202867,8 +202867,8 @@ overcome jealousy entertainment bacon vulcan pluto
 1
 1 0
 2
-0 38 0 23
 0 33 2 3
+0 38 0 23
 1
 end_operator
 begin_operator
@@ -202876,8 +202876,8 @@ overcome jealousy entertainment broccoli neptune vulcan
 1
 1 1
 2
-0 38 1 23
 0 33 3 1
+0 38 1 23
 1
 end_operator
 begin_operator
@@ -202885,8 +202885,8 @@ overcome jealousy entertainment broccoli pluto jupiter
 1
 1 1
 2
-0 38 1 23
 0 33 0 2
+0 38 1 23
 1
 end_operator
 begin_operator
@@ -202894,8 +202894,8 @@ overcome jealousy entertainment broccoli vulcan pluto
 1
 1 1
 2
-0 38 1 23
 0 33 2 3
+0 38 1 23
 1
 end_operator
 begin_operator
@@ -202903,8 +202903,8 @@ overcome jealousy entertainment cantelope neptune vulcan
 1
 1 2
 2
-0 38 2 23
 0 33 3 1
+0 38 2 23
 1
 end_operator
 begin_operator
@@ -202912,8 +202912,8 @@ overcome jealousy entertainment cantelope pluto jupiter
 1
 1 2
 2
-0 38 2 23
 0 33 0 2
+0 38 2 23
 1
 end_operator
 begin_operator
@@ -202921,8 +202921,8 @@ overcome jealousy entertainment cantelope vulcan pluto
 1
 1 2
 2
-0 38 2 23
 0 33 2 3
+0 38 2 23
 1
 end_operator
 begin_operator
@@ -202930,8 +202930,8 @@ overcome jealousy entertainment chicken neptune vulcan
 1
 1 3
 2
-0 38 3 23
 0 33 3 1
+0 38 3 23
 1
 end_operator
 begin_operator
@@ -202939,8 +202939,8 @@ overcome jealousy entertainment chicken pluto jupiter
 1
 1 3
 2
-0 38 3 23
 0 33 0 2
+0 38 3 23
 1
 end_operator
 begin_operator
@@ -202948,8 +202948,8 @@ overcome jealousy entertainment chicken vulcan pluto
 1
 1 3
 2
-0 38 3 23
 0 33 2 3
+0 38 3 23
 1
 end_operator
 begin_operator
@@ -202957,8 +202957,8 @@ overcome jealousy entertainment chocolate neptune vulcan
 1
 1 4
 2
-0 38 4 23
 0 33 3 1
+0 38 4 23
 1
 end_operator
 begin_operator
@@ -202966,8 +202966,8 @@ overcome jealousy entertainment chocolate pluto jupiter
 1
 1 4
 2
-0 38 4 23
 0 33 0 2
+0 38 4 23
 1
 end_operator
 begin_operator
@@ -202975,8 +202975,8 @@ overcome jealousy entertainment chocolate vulcan pluto
 1
 1 4
 2
-0 38 4 23
 0 33 2 3
+0 38 4 23
 1
 end_operator
 begin_operator
@@ -202984,8 +202984,8 @@ overcome jealousy entertainment cucumber neptune vulcan
 1
 1 5
 2
-0 38 5 23
 0 33 3 1
+0 38 5 23
 1
 end_operator
 begin_operator
@@ -202993,8 +202993,8 @@ overcome jealousy entertainment cucumber pluto jupiter
 1
 1 5
 2
-0 38 5 23
 0 33 0 2
+0 38 5 23
 1
 end_operator
 begin_operator
@@ -203002,8 +203002,8 @@ overcome jealousy entertainment cucumber vulcan pluto
 1
 1 5
 2
-0 38 5 23
 0 33 2 3
+0 38 5 23
 1
 end_operator
 begin_operator
@@ -203011,8 +203011,8 @@ overcome jealousy entertainment endive neptune vulcan
 1
 1 6
 2
-0 38 6 23
 0 33 3 1
+0 38 6 23
 1
 end_operator
 begin_operator
@@ -203020,8 +203020,8 @@ overcome jealousy entertainment endive pluto jupiter
 1
 1 6
 2
-0 38 6 23
 0 33 0 2
+0 38 6 23
 1
 end_operator
 begin_operator
@@ -203029,8 +203029,8 @@ overcome jealousy entertainment endive vulcan pluto
 1
 1 6
 2
-0 38 6 23
 0 33 2 3
+0 38 6 23
 1
 end_operator
 begin_operator
@@ -203038,8 +203038,8 @@ overcome jealousy entertainment guava neptune vulcan
 1
 1 7
 2
-0 38 7 23
 0 33 3 1
+0 38 7 23
 1
 end_operator
 begin_operator
@@ -203047,8 +203047,8 @@ overcome jealousy entertainment guava pluto jupiter
 1
 1 7
 2
-0 38 7 23
 0 33 0 2
+0 38 7 23
 1
 end_operator
 begin_operator
@@ -203056,8 +203056,8 @@ overcome jealousy entertainment guava vulcan pluto
 1
 1 7
 2
-0 38 7 23
 0 33 2 3
+0 38 7 23
 1
 end_operator
 begin_operator
@@ -203065,8 +203065,8 @@ overcome jealousy entertainment haroset neptune vulcan
 1
 1 8
 2
-0 38 8 23
 0 33 3 1
+0 38 8 23
 1
 end_operator
 begin_operator
@@ -203074,8 +203074,8 @@ overcome jealousy entertainment haroset pluto jupiter
 1
 1 8
 2
-0 38 8 23
 0 33 0 2
+0 38 8 23
 1
 end_operator
 begin_operator
@@ -203083,8 +203083,8 @@ overcome jealousy entertainment haroset vulcan pluto
 1
 1 8
 2
-0 38 8 23
 0 33 2 3
+0 38 8 23
 1
 end_operator
 begin_operator
@@ -203092,8 +203092,8 @@ overcome jealousy entertainment hotdog neptune vulcan
 1
 1 9
 2
-0 38 9 23
 0 33 3 1
+0 38 9 23
 1
 end_operator
 begin_operator
@@ -203101,8 +203101,8 @@ overcome jealousy entertainment hotdog pluto jupiter
 1
 1 9
 2
-0 38 9 23
 0 33 0 2
+0 38 9 23
 1
 end_operator
 begin_operator
@@ -203110,8 +203110,8 @@ overcome jealousy entertainment hotdog vulcan pluto
 1
 1 9
 2
-0 38 9 23
 0 33 2 3
+0 38 9 23
 1
 end_operator
 begin_operator
@@ -203119,8 +203119,8 @@ overcome jealousy entertainment lemon neptune vulcan
 1
 1 10
 2
-0 38 10 23
 0 33 3 1
+0 38 10 23
 1
 end_operator
 begin_operator
@@ -203128,8 +203128,8 @@ overcome jealousy entertainment lemon pluto jupiter
 1
 1 10
 2
-0 38 10 23
 0 33 0 2
+0 38 10 23
 1
 end_operator
 begin_operator
@@ -203137,8 +203137,8 @@ overcome jealousy entertainment lemon vulcan pluto
 1
 1 10
 2
-0 38 10 23
 0 33 2 3
+0 38 10 23
 1
 end_operator
 begin_operator
@@ -203146,8 +203146,8 @@ overcome jealousy entertainment marzipan neptune vulcan
 1
 1 11
 2
-0 38 11 23
 0 33 3 1
+0 38 11 23
 1
 end_operator
 begin_operator
@@ -203155,8 +203155,8 @@ overcome jealousy entertainment marzipan pluto jupiter
 1
 1 11
 2
-0 38 11 23
 0 33 0 2
+0 38 11 23
 1
 end_operator
 begin_operator
@@ -203164,8 +203164,8 @@ overcome jealousy entertainment marzipan vulcan pluto
 1
 1 11
 2
-0 38 11 23
 0 33 2 3
+0 38 11 23
 1
 end_operator
 begin_operator
@@ -203173,8 +203173,8 @@ overcome jealousy entertainment orange neptune vulcan
 1
 1 12
 2
-0 38 12 23
 0 33 3 1
+0 38 12 23
 1
 end_operator
 begin_operator
@@ -203182,8 +203182,8 @@ overcome jealousy entertainment orange pluto jupiter
 1
 1 12
 2
-0 38 12 23
 0 33 0 2
+0 38 12 23
 1
 end_operator
 begin_operator
@@ -203191,8 +203191,8 @@ overcome jealousy entertainment orange vulcan pluto
 1
 1 12
 2
-0 38 12 23
 0 33 2 3
+0 38 12 23
 1
 end_operator
 begin_operator
@@ -203200,8 +203200,8 @@ overcome jealousy entertainment pea neptune vulcan
 1
 1 13
 2
-0 38 13 23
 0 33 3 1
+0 38 13 23
 1
 end_operator
 begin_operator
@@ -203209,8 +203209,8 @@ overcome jealousy entertainment pea pluto jupiter
 1
 1 13
 2
-0 38 13 23
 0 33 0 2
+0 38 13 23
 1
 end_operator
 begin_operator
@@ -203218,8 +203218,8 @@ overcome jealousy entertainment pea vulcan pluto
 1
 1 13
 2
-0 38 13 23
 0 33 2 3
+0 38 13 23
 1
 end_operator
 begin_operator
@@ -203227,8 +203227,8 @@ overcome jealousy entertainment pepper neptune vulcan
 1
 1 14
 2
-0 38 14 23
 0 33 3 1
+0 38 14 23
 1
 end_operator
 begin_operator
@@ -203236,8 +203236,8 @@ overcome jealousy entertainment pepper pluto jupiter
 1
 1 14
 2
-0 38 14 23
 0 33 0 2
+0 38 14 23
 1
 end_operator
 begin_operator
@@ -203245,8 +203245,8 @@ overcome jealousy entertainment pepper vulcan pluto
 1
 1 14
 2
-0 38 14 23
 0 33 2 3
+0 38 14 23
 1
 end_operator
 begin_operator
@@ -203254,8 +203254,8 @@ overcome jealousy entertainment potato neptune vulcan
 1
 1 15
 2
-0 38 15 23
 0 33 3 1
+0 38 15 23
 1
 end_operator
 begin_operator
@@ -203263,8 +203263,8 @@ overcome jealousy entertainment potato pluto jupiter
 1
 1 15
 2
-0 38 15 23
 0 33 0 2
+0 38 15 23
 1
 end_operator
 begin_operator
@@ -203272,8 +203272,8 @@ overcome jealousy entertainment potato vulcan pluto
 1
 1 15
 2
-0 38 15 23
 0 33 2 3
+0 38 15 23
 1
 end_operator
 begin_operator
@@ -203281,8 +203281,8 @@ overcome jealousy entertainment rice neptune vulcan
 1
 1 16
 2
-0 38 16 23
 0 33 3 1
+0 38 16 23
 1
 end_operator
 begin_operator
@@ -203290,8 +203290,8 @@ overcome jealousy entertainment rice pluto jupiter
 1
 1 16
 2
-0 38 16 23
 0 33 0 2
+0 38 16 23
 1
 end_operator
 begin_operator
@@ -203299,8 +203299,8 @@ overcome jealousy entertainment rice vulcan pluto
 1
 1 16
 2
-0 38 16 23
 0 33 2 3
+0 38 16 23
 1
 end_operator
 begin_operator
@@ -203308,8 +203308,8 @@ overcome jealousy entertainment scallop neptune vulcan
 1
 1 17
 2
-0 38 17 23
 0 33 3 1
+0 38 17 23
 1
 end_operator
 begin_operator
@@ -203317,8 +203317,8 @@ overcome jealousy entertainment scallop pluto jupiter
 1
 1 17
 2
-0 38 17 23
 0 33 0 2
+0 38 17 23
 1
 end_operator
 begin_operator
@@ -203326,8 +203326,8 @@ overcome jealousy entertainment scallop vulcan pluto
 1
 1 17
 2
-0 38 17 23
 0 33 2 3
+0 38 17 23
 1
 end_operator
 begin_operator
@@ -203335,8 +203335,8 @@ overcome jealousy entertainment tofu neptune vulcan
 1
 1 18
 2
-0 38 18 23
 0 33 3 1
+0 38 18 23
 1
 end_operator
 begin_operator
@@ -203344,8 +203344,8 @@ overcome jealousy entertainment tofu pluto jupiter
 1
 1 18
 2
-0 38 18 23
 0 33 0 2
+0 38 18 23
 1
 end_operator
 begin_operator
@@ -203353,8 +203353,8 @@ overcome jealousy entertainment tofu vulcan pluto
 1
 1 18
 2
-0 38 18 23
 0 33 2 3
+0 38 18 23
 1
 end_operator
 begin_operator
@@ -203362,8 +203362,8 @@ overcome jealousy entertainment turkey neptune vulcan
 1
 1 19
 2
-0 38 19 23
 0 33 3 1
+0 38 19 23
 1
 end_operator
 begin_operator
@@ -203371,8 +203371,8 @@ overcome jealousy entertainment turkey pluto jupiter
 1
 1 19
 2
-0 38 19 23
 0 33 0 2
+0 38 19 23
 1
 end_operator
 begin_operator
@@ -203380,8 +203380,8 @@ overcome jealousy entertainment turkey vulcan pluto
 1
 1 19
 2
-0 38 19 23
 0 33 2 3
+0 38 19 23
 1
 end_operator
 begin_operator
@@ -203389,8 +203389,8 @@ overcome jealousy entertainment wonderbread neptune vulcan
 1
 1 20
 2
-0 38 20 23
 0 33 3 1
+0 38 20 23
 1
 end_operator
 begin_operator
@@ -203398,8 +203398,8 @@ overcome jealousy entertainment wonderbread pluto jupiter
 1
 1 20
 2
-0 38 20 23
 0 33 0 2
+0 38 20 23
 1
 end_operator
 begin_operator
@@ -203407,8 +203407,8 @@ overcome jealousy entertainment wonderbread vulcan pluto
 1
 1 20
 2
-0 38 20 23
 0 33 2 3
+0 38 20 23
 1
 end_operator
 begin_operator
@@ -203416,8 +203416,8 @@ overcome jealousy entertainment wurst neptune vulcan
 1
 1 21
 2
-0 38 21 23
 0 33 3 1
+0 38 21 23
 1
 end_operator
 begin_operator
@@ -203425,8 +203425,8 @@ overcome jealousy entertainment wurst pluto jupiter
 1
 1 21
 2
-0 38 21 23
 0 33 0 2
+0 38 21 23
 1
 end_operator
 begin_operator
@@ -203434,8 +203434,8 @@ overcome jealousy entertainment wurst vulcan pluto
 1
 1 21
 2
-0 38 21 23
 0 33 2 3
+0 38 21 23
 1
 end_operator
 begin_operator
@@ -203443,8 +203443,8 @@ overcome jealousy expectation bacon neptune vulcan
 1
 2 0
 2
-0 38 0 24
 0 36 3 1
+0 38 0 24
 1
 end_operator
 begin_operator
@@ -203452,8 +203452,8 @@ overcome jealousy expectation bacon pluto jupiter
 1
 2 0
 2
-0 38 0 24
 0 36 0 2
+0 38 0 24
 1
 end_operator
 begin_operator
@@ -203461,8 +203461,8 @@ overcome jealousy expectation bacon vulcan pluto
 1
 2 0
 2
-0 38 0 24
 0 36 2 3
+0 38 0 24
 1
 end_operator
 begin_operator
@@ -203470,8 +203470,8 @@ overcome jealousy expectation broccoli neptune vulcan
 1
 2 1
 2
-0 38 1 24
 0 36 3 1
+0 38 1 24
 1
 end_operator
 begin_operator
@@ -203479,8 +203479,8 @@ overcome jealousy expectation broccoli pluto jupiter
 1
 2 1
 2
-0 38 1 24
 0 36 0 2
+0 38 1 24
 1
 end_operator
 begin_operator
@@ -203488,8 +203488,8 @@ overcome jealousy expectation broccoli vulcan pluto
 1
 2 1
 2
-0 38 1 24
 0 36 2 3
+0 38 1 24
 1
 end_operator
 begin_operator
@@ -203497,8 +203497,8 @@ overcome jealousy expectation cantelope neptune vulcan
 1
 2 2
 2
-0 38 2 24
 0 36 3 1
+0 38 2 24
 1
 end_operator
 begin_operator
@@ -203506,8 +203506,8 @@ overcome jealousy expectation cantelope pluto jupiter
 1
 2 2
 2
-0 38 2 24
 0 36 0 2
+0 38 2 24
 1
 end_operator
 begin_operator
@@ -203515,8 +203515,8 @@ overcome jealousy expectation cantelope vulcan pluto
 1
 2 2
 2
-0 38 2 24
 0 36 2 3
+0 38 2 24
 1
 end_operator
 begin_operator
@@ -203524,8 +203524,8 @@ overcome jealousy expectation chicken neptune vulcan
 1
 2 3
 2
-0 38 3 24
 0 36 3 1
+0 38 3 24
 1
 end_operator
 begin_operator
@@ -203533,8 +203533,8 @@ overcome jealousy expectation chicken pluto jupiter
 1
 2 3
 2
-0 38 3 24
 0 36 0 2
+0 38 3 24
 1
 end_operator
 begin_operator
@@ -203542,8 +203542,8 @@ overcome jealousy expectation chicken vulcan pluto
 1
 2 3
 2
-0 38 3 24
 0 36 2 3
+0 38 3 24
 1
 end_operator
 begin_operator
@@ -203551,8 +203551,8 @@ overcome jealousy expectation chocolate neptune vulcan
 1
 2 4
 2
-0 38 4 24
 0 36 3 1
+0 38 4 24
 1
 end_operator
 begin_operator
@@ -203560,8 +203560,8 @@ overcome jealousy expectation chocolate pluto jupiter
 1
 2 4
 2
-0 38 4 24
 0 36 0 2
+0 38 4 24
 1
 end_operator
 begin_operator
@@ -203569,8 +203569,8 @@ overcome jealousy expectation chocolate vulcan pluto
 1
 2 4
 2
-0 38 4 24
 0 36 2 3
+0 38 4 24
 1
 end_operator
 begin_operator
@@ -203578,8 +203578,8 @@ overcome jealousy expectation cucumber neptune vulcan
 1
 2 5
 2
-0 38 5 24
 0 36 3 1
+0 38 5 24
 1
 end_operator
 begin_operator
@@ -203587,8 +203587,8 @@ overcome jealousy expectation cucumber pluto jupiter
 1
 2 5
 2
-0 38 5 24
 0 36 0 2
+0 38 5 24
 1
 end_operator
 begin_operator
@@ -203596,8 +203596,8 @@ overcome jealousy expectation cucumber vulcan pluto
 1
 2 5
 2
-0 38 5 24
 0 36 2 3
+0 38 5 24
 1
 end_operator
 begin_operator
@@ -203605,8 +203605,8 @@ overcome jealousy expectation endive neptune vulcan
 1
 2 6
 2
-0 38 6 24
 0 36 3 1
+0 38 6 24
 1
 end_operator
 begin_operator
@@ -203614,8 +203614,8 @@ overcome jealousy expectation endive pluto jupiter
 1
 2 6
 2
-0 38 6 24
 0 36 0 2
+0 38 6 24
 1
 end_operator
 begin_operator
@@ -203623,8 +203623,8 @@ overcome jealousy expectation endive vulcan pluto
 1
 2 6
 2
-0 38 6 24
 0 36 2 3
+0 38 6 24
 1
 end_operator
 begin_operator
@@ -203632,8 +203632,8 @@ overcome jealousy expectation guava neptune vulcan
 1
 2 7
 2
-0 38 7 24
 0 36 3 1
+0 38 7 24
 1
 end_operator
 begin_operator
@@ -203641,8 +203641,8 @@ overcome jealousy expectation guava pluto jupiter
 1
 2 7
 2
-0 38 7 24
 0 36 0 2
+0 38 7 24
 1
 end_operator
 begin_operator
@@ -203650,8 +203650,8 @@ overcome jealousy expectation guava vulcan pluto
 1
 2 7
 2
-0 38 7 24
 0 36 2 3
+0 38 7 24
 1
 end_operator
 begin_operator
@@ -203659,8 +203659,8 @@ overcome jealousy expectation haroset neptune vulcan
 1
 2 8
 2
-0 38 8 24
 0 36 3 1
+0 38 8 24
 1
 end_operator
 begin_operator
@@ -203668,8 +203668,8 @@ overcome jealousy expectation haroset pluto jupiter
 1
 2 8
 2
-0 38 8 24
 0 36 0 2
+0 38 8 24
 1
 end_operator
 begin_operator
@@ -203677,8 +203677,8 @@ overcome jealousy expectation haroset vulcan pluto
 1
 2 8
 2
-0 38 8 24
 0 36 2 3
+0 38 8 24
 1
 end_operator
 begin_operator
@@ -203686,8 +203686,8 @@ overcome jealousy expectation hotdog neptune vulcan
 1
 2 9
 2
-0 38 9 24
 0 36 3 1
+0 38 9 24
 1
 end_operator
 begin_operator
@@ -203695,8 +203695,8 @@ overcome jealousy expectation hotdog pluto jupiter
 1
 2 9
 2
-0 38 9 24
 0 36 0 2
+0 38 9 24
 1
 end_operator
 begin_operator
@@ -203704,8 +203704,8 @@ overcome jealousy expectation hotdog vulcan pluto
 1
 2 9
 2
-0 38 9 24
 0 36 2 3
+0 38 9 24
 1
 end_operator
 begin_operator
@@ -203713,8 +203713,8 @@ overcome jealousy expectation lemon neptune vulcan
 1
 2 10
 2
-0 38 10 24
 0 36 3 1
+0 38 10 24
 1
 end_operator
 begin_operator
@@ -203722,8 +203722,8 @@ overcome jealousy expectation lemon pluto jupiter
 1
 2 10
 2
-0 38 10 24
 0 36 0 2
+0 38 10 24
 1
 end_operator
 begin_operator
@@ -203731,8 +203731,8 @@ overcome jealousy expectation lemon vulcan pluto
 1
 2 10
 2
-0 38 10 24
 0 36 2 3
+0 38 10 24
 1
 end_operator
 begin_operator
@@ -203740,8 +203740,8 @@ overcome jealousy expectation marzipan neptune vulcan
 1
 2 11
 2
-0 38 11 24
 0 36 3 1
+0 38 11 24
 1
 end_operator
 begin_operator
@@ -203749,8 +203749,8 @@ overcome jealousy expectation marzipan pluto jupiter
 1
 2 11
 2
-0 38 11 24
 0 36 0 2
+0 38 11 24
 1
 end_operator
 begin_operator
@@ -203758,8 +203758,8 @@ overcome jealousy expectation marzipan vulcan pluto
 1
 2 11
 2
-0 38 11 24
 0 36 2 3
+0 38 11 24
 1
 end_operator
 begin_operator
@@ -203767,8 +203767,8 @@ overcome jealousy expectation orange neptune vulcan
 1
 2 12
 2
-0 38 12 24
 0 36 3 1
+0 38 12 24
 1
 end_operator
 begin_operator
@@ -203776,8 +203776,8 @@ overcome jealousy expectation orange pluto jupiter
 1
 2 12
 2
-0 38 12 24
 0 36 0 2
+0 38 12 24
 1
 end_operator
 begin_operator
@@ -203785,8 +203785,8 @@ overcome jealousy expectation orange vulcan pluto
 1
 2 12
 2
-0 38 12 24
 0 36 2 3
+0 38 12 24
 1
 end_operator
 begin_operator
@@ -203794,8 +203794,8 @@ overcome jealousy expectation pea neptune vulcan
 1
 2 13
 2
-0 38 13 24
 0 36 3 1
+0 38 13 24
 1
 end_operator
 begin_operator
@@ -203803,8 +203803,8 @@ overcome jealousy expectation pea pluto jupiter
 1
 2 13
 2
-0 38 13 24
 0 36 0 2
+0 38 13 24
 1
 end_operator
 begin_operator
@@ -203812,8 +203812,8 @@ overcome jealousy expectation pea vulcan pluto
 1
 2 13
 2
-0 38 13 24
 0 36 2 3
+0 38 13 24
 1
 end_operator
 begin_operator
@@ -203821,8 +203821,8 @@ overcome jealousy expectation pepper neptune vulcan
 1
 2 14
 2
-0 38 14 24
 0 36 3 1
+0 38 14 24
 1
 end_operator
 begin_operator
@@ -203830,8 +203830,8 @@ overcome jealousy expectation pepper pluto jupiter
 1
 2 14
 2
-0 38 14 24
 0 36 0 2
+0 38 14 24
 1
 end_operator
 begin_operator
@@ -203839,8 +203839,8 @@ overcome jealousy expectation pepper vulcan pluto
 1
 2 14
 2
-0 38 14 24
 0 36 2 3
+0 38 14 24
 1
 end_operator
 begin_operator
@@ -203848,8 +203848,8 @@ overcome jealousy expectation potato neptune vulcan
 1
 2 15
 2
-0 38 15 24
 0 36 3 1
+0 38 15 24
 1
 end_operator
 begin_operator
@@ -203857,8 +203857,8 @@ overcome jealousy expectation potato pluto jupiter
 1
 2 15
 2
-0 38 15 24
 0 36 0 2
+0 38 15 24
 1
 end_operator
 begin_operator
@@ -203866,8 +203866,8 @@ overcome jealousy expectation potato vulcan pluto
 1
 2 15
 2
-0 38 15 24
 0 36 2 3
+0 38 15 24
 1
 end_operator
 begin_operator
@@ -203875,8 +203875,8 @@ overcome jealousy expectation rice neptune vulcan
 1
 2 16
 2
-0 38 16 24
 0 36 3 1
+0 38 16 24
 1
 end_operator
 begin_operator
@@ -203884,8 +203884,8 @@ overcome jealousy expectation rice pluto jupiter
 1
 2 16
 2
-0 38 16 24
 0 36 0 2
+0 38 16 24
 1
 end_operator
 begin_operator
@@ -203893,8 +203893,8 @@ overcome jealousy expectation rice vulcan pluto
 1
 2 16
 2
-0 38 16 24
 0 36 2 3
+0 38 16 24
 1
 end_operator
 begin_operator
@@ -203902,8 +203902,8 @@ overcome jealousy expectation scallop neptune vulcan
 1
 2 17
 2
-0 38 17 24
 0 36 3 1
+0 38 17 24
 1
 end_operator
 begin_operator
@@ -203911,8 +203911,8 @@ overcome jealousy expectation scallop pluto jupiter
 1
 2 17
 2
-0 38 17 24
 0 36 0 2
+0 38 17 24
 1
 end_operator
 begin_operator
@@ -203920,8 +203920,8 @@ overcome jealousy expectation scallop vulcan pluto
 1
 2 17
 2
-0 38 17 24
 0 36 2 3
+0 38 17 24
 1
 end_operator
 begin_operator
@@ -203929,8 +203929,8 @@ overcome jealousy expectation tofu neptune vulcan
 1
 2 18
 2
-0 38 18 24
 0 36 3 1
+0 38 18 24
 1
 end_operator
 begin_operator
@@ -203938,8 +203938,8 @@ overcome jealousy expectation tofu pluto jupiter
 1
 2 18
 2
-0 38 18 24
 0 36 0 2
+0 38 18 24
 1
 end_operator
 begin_operator
@@ -203947,8 +203947,8 @@ overcome jealousy expectation tofu vulcan pluto
 1
 2 18
 2
-0 38 18 24
 0 36 2 3
+0 38 18 24
 1
 end_operator
 begin_operator
@@ -203956,8 +203956,8 @@ overcome jealousy expectation turkey neptune vulcan
 1
 2 19
 2
-0 38 19 24
 0 36 3 1
+0 38 19 24
 1
 end_operator
 begin_operator
@@ -203965,8 +203965,8 @@ overcome jealousy expectation turkey pluto jupiter
 1
 2 19
 2
-0 38 19 24
 0 36 0 2
+0 38 19 24
 1
 end_operator
 begin_operator
@@ -203974,8 +203974,8 @@ overcome jealousy expectation turkey vulcan pluto
 1
 2 19
 2
-0 38 19 24
 0 36 2 3
+0 38 19 24
 1
 end_operator
 begin_operator
@@ -203983,8 +203983,8 @@ overcome jealousy expectation wonderbread neptune vulcan
 1
 2 20
 2
-0 38 20 24
 0 36 3 1
+0 38 20 24
 1
 end_operator
 begin_operator
@@ -203992,8 +203992,8 @@ overcome jealousy expectation wonderbread pluto jupiter
 1
 2 20
 2
-0 38 20 24
 0 36 0 2
+0 38 20 24
 1
 end_operator
 begin_operator
@@ -204001,8 +204001,8 @@ overcome jealousy expectation wonderbread vulcan pluto
 1
 2 20
 2
-0 38 20 24
 0 36 2 3
+0 38 20 24
 1
 end_operator
 begin_operator
@@ -204010,8 +204010,8 @@ overcome jealousy expectation wurst neptune vulcan
 1
 2 21
 2
-0 38 21 24
 0 36 3 1
+0 38 21 24
 1
 end_operator
 begin_operator
@@ -204019,8 +204019,8 @@ overcome jealousy expectation wurst pluto jupiter
 1
 2 21
 2
-0 38 21 24
 0 36 0 2
+0 38 21 24
 1
 end_operator
 begin_operator
@@ -204028,8 +204028,8 @@ overcome jealousy expectation wurst vulcan pluto
 1
 2 21
 2
-0 38 21 24
 0 36 2 3
+0 38 21 24
 1
 end_operator
 begin_operator
@@ -204037,8 +204037,8 @@ overcome jealousy learning bacon neptune vulcan
 1
 3 0
 2
-0 38 0 25
 0 37 3 1
+0 38 0 25
 1
 end_operator
 begin_operator
@@ -204046,8 +204046,8 @@ overcome jealousy learning bacon pluto jupiter
 1
 3 0
 2
-0 38 0 25
 0 37 0 2
+0 38 0 25
 1
 end_operator
 begin_operator
@@ -204055,8 +204055,8 @@ overcome jealousy learning bacon vulcan pluto
 1
 3 0
 2
-0 38 0 25
 0 37 2 3
+0 38 0 25
 1
 end_operator
 begin_operator
@@ -204064,8 +204064,8 @@ overcome jealousy learning broccoli neptune vulcan
 1
 3 1
 2
-0 38 1 25
 0 37 3 1
+0 38 1 25
 1
 end_operator
 begin_operator
@@ -204073,8 +204073,8 @@ overcome jealousy learning broccoli pluto jupiter
 1
 3 1
 2
-0 38 1 25
 0 37 0 2
+0 38 1 25
 1
 end_operator
 begin_operator
@@ -204082,8 +204082,8 @@ overcome jealousy learning broccoli vulcan pluto
 1
 3 1
 2
-0 38 1 25
 0 37 2 3
+0 38 1 25
 1
 end_operator
 begin_operator
@@ -204091,8 +204091,8 @@ overcome jealousy learning cantelope neptune vulcan
 1
 3 2
 2
-0 38 2 25
 0 37 3 1
+0 38 2 25
 1
 end_operator
 begin_operator
@@ -204100,8 +204100,8 @@ overcome jealousy learning cantelope pluto jupiter
 1
 3 2
 2
-0 38 2 25
 0 37 0 2
+0 38 2 25
 1
 end_operator
 begin_operator
@@ -204109,8 +204109,8 @@ overcome jealousy learning cantelope vulcan pluto
 1
 3 2
 2
-0 38 2 25
 0 37 2 3
+0 38 2 25
 1
 end_operator
 begin_operator
@@ -204118,8 +204118,8 @@ overcome jealousy learning chicken neptune vulcan
 1
 3 3
 2
-0 38 3 25
 0 37 3 1
+0 38 3 25
 1
 end_operator
 begin_operator
@@ -204127,8 +204127,8 @@ overcome jealousy learning chicken pluto jupiter
 1
 3 3
 2
-0 38 3 25
 0 37 0 2
+0 38 3 25
 1
 end_operator
 begin_operator
@@ -204136,8 +204136,8 @@ overcome jealousy learning chicken vulcan pluto
 1
 3 3
 2
-0 38 3 25
 0 37 2 3
+0 38 3 25
 1
 end_operator
 begin_operator
@@ -204145,8 +204145,8 @@ overcome jealousy learning chocolate neptune vulcan
 1
 3 4
 2
-0 38 4 25
 0 37 3 1
+0 38 4 25
 1
 end_operator
 begin_operator
@@ -204154,8 +204154,8 @@ overcome jealousy learning chocolate pluto jupiter
 1
 3 4
 2
-0 38 4 25
 0 37 0 2
+0 38 4 25
 1
 end_operator
 begin_operator
@@ -204163,8 +204163,8 @@ overcome jealousy learning chocolate vulcan pluto
 1
 3 4
 2
-0 38 4 25
 0 37 2 3
+0 38 4 25
 1
 end_operator
 begin_operator
@@ -204172,8 +204172,8 @@ overcome jealousy learning cucumber neptune vulcan
 1
 3 5
 2
-0 38 5 25
 0 37 3 1
+0 38 5 25
 1
 end_operator
 begin_operator
@@ -204181,8 +204181,8 @@ overcome jealousy learning cucumber pluto jupiter
 1
 3 5
 2
-0 38 5 25
 0 37 0 2
+0 38 5 25
 1
 end_operator
 begin_operator
@@ -204190,8 +204190,8 @@ overcome jealousy learning cucumber vulcan pluto
 1
 3 5
 2
-0 38 5 25
 0 37 2 3
+0 38 5 25
 1
 end_operator
 begin_operator
@@ -204199,8 +204199,8 @@ overcome jealousy learning endive neptune vulcan
 1
 3 6
 2
-0 38 6 25
 0 37 3 1
+0 38 6 25
 1
 end_operator
 begin_operator
@@ -204208,8 +204208,8 @@ overcome jealousy learning endive pluto jupiter
 1
 3 6
 2
-0 38 6 25
 0 37 0 2
+0 38 6 25
 1
 end_operator
 begin_operator
@@ -204217,8 +204217,8 @@ overcome jealousy learning endive vulcan pluto
 1
 3 6
 2
-0 38 6 25
 0 37 2 3
+0 38 6 25
 1
 end_operator
 begin_operator
@@ -204226,8 +204226,8 @@ overcome jealousy learning guava neptune vulcan
 1
 3 7
 2
-0 38 7 25
 0 37 3 1
+0 38 7 25
 1
 end_operator
 begin_operator
@@ -204235,8 +204235,8 @@ overcome jealousy learning guava pluto jupiter
 1
 3 7
 2
-0 38 7 25
 0 37 0 2
+0 38 7 25
 1
 end_operator
 begin_operator
@@ -204244,8 +204244,8 @@ overcome jealousy learning guava vulcan pluto
 1
 3 7
 2
-0 38 7 25
 0 37 2 3
+0 38 7 25
 1
 end_operator
 begin_operator
@@ -204253,8 +204253,8 @@ overcome jealousy learning haroset neptune vulcan
 1
 3 8
 2
-0 38 8 25
 0 37 3 1
+0 38 8 25
 1
 end_operator
 begin_operator
@@ -204262,8 +204262,8 @@ overcome jealousy learning haroset pluto jupiter
 1
 3 8
 2
-0 38 8 25
 0 37 0 2
+0 38 8 25
 1
 end_operator
 begin_operator
@@ -204271,8 +204271,8 @@ overcome jealousy learning haroset vulcan pluto
 1
 3 8
 2
-0 38 8 25
 0 37 2 3
+0 38 8 25
 1
 end_operator
 begin_operator
@@ -204280,8 +204280,8 @@ overcome jealousy learning hotdog neptune vulcan
 1
 3 9
 2
-0 38 9 25
 0 37 3 1
+0 38 9 25
 1
 end_operator
 begin_operator
@@ -204289,8 +204289,8 @@ overcome jealousy learning hotdog pluto jupiter
 1
 3 9
 2
-0 38 9 25
 0 37 0 2
+0 38 9 25
 1
 end_operator
 begin_operator
@@ -204298,8 +204298,8 @@ overcome jealousy learning hotdog vulcan pluto
 1
 3 9
 2
-0 38 9 25
 0 37 2 3
+0 38 9 25
 1
 end_operator
 begin_operator
@@ -204307,8 +204307,8 @@ overcome jealousy learning lemon neptune vulcan
 1
 3 10
 2
-0 38 10 25
 0 37 3 1
+0 38 10 25
 1
 end_operator
 begin_operator
@@ -204316,8 +204316,8 @@ overcome jealousy learning lemon pluto jupiter
 1
 3 10
 2
-0 38 10 25
 0 37 0 2
+0 38 10 25
 1
 end_operator
 begin_operator
@@ -204325,8 +204325,8 @@ overcome jealousy learning lemon vulcan pluto
 1
 3 10
 2
-0 38 10 25
 0 37 2 3
+0 38 10 25
 1
 end_operator
 begin_operator
@@ -204334,8 +204334,8 @@ overcome jealousy learning marzipan neptune vulcan
 1
 3 11
 2
-0 38 11 25
 0 37 3 1
+0 38 11 25
 1
 end_operator
 begin_operator
@@ -204343,8 +204343,8 @@ overcome jealousy learning marzipan pluto jupiter
 1
 3 11
 2
-0 38 11 25
 0 37 0 2
+0 38 11 25
 1
 end_operator
 begin_operator
@@ -204352,8 +204352,8 @@ overcome jealousy learning marzipan vulcan pluto
 1
 3 11
 2
-0 38 11 25
 0 37 2 3
+0 38 11 25
 1
 end_operator
 begin_operator
@@ -204361,8 +204361,8 @@ overcome jealousy learning orange neptune vulcan
 1
 3 12
 2
-0 38 12 25
 0 37 3 1
+0 38 12 25
 1
 end_operator
 begin_operator
@@ -204370,8 +204370,8 @@ overcome jealousy learning orange pluto jupiter
 1
 3 12
 2
-0 38 12 25
 0 37 0 2
+0 38 12 25
 1
 end_operator
 begin_operator
@@ -204379,8 +204379,8 @@ overcome jealousy learning orange vulcan pluto
 1
 3 12
 2
-0 38 12 25
 0 37 2 3
+0 38 12 25
 1
 end_operator
 begin_operator
@@ -204388,8 +204388,8 @@ overcome jealousy learning pea neptune vulcan
 1
 3 13
 2
-0 38 13 25
 0 37 3 1
+0 38 13 25
 1
 end_operator
 begin_operator
@@ -204397,8 +204397,8 @@ overcome jealousy learning pea pluto jupiter
 1
 3 13
 2
-0 38 13 25
 0 37 0 2
+0 38 13 25
 1
 end_operator
 begin_operator
@@ -204406,8 +204406,8 @@ overcome jealousy learning pea vulcan pluto
 1
 3 13
 2
-0 38 13 25
 0 37 2 3
+0 38 13 25
 1
 end_operator
 begin_operator
@@ -204415,8 +204415,8 @@ overcome jealousy learning pepper neptune vulcan
 1
 3 14
 2
-0 38 14 25
 0 37 3 1
+0 38 14 25
 1
 end_operator
 begin_operator
@@ -204424,8 +204424,8 @@ overcome jealousy learning pepper pluto jupiter
 1
 3 14
 2
-0 38 14 25
 0 37 0 2
+0 38 14 25
 1
 end_operator
 begin_operator
@@ -204433,8 +204433,8 @@ overcome jealousy learning pepper vulcan pluto
 1
 3 14
 2
-0 38 14 25
 0 37 2 3
+0 38 14 25
 1
 end_operator
 begin_operator
@@ -204442,8 +204442,8 @@ overcome jealousy learning potato neptune vulcan
 1
 3 15
 2
-0 38 15 25
 0 37 3 1
+0 38 15 25
 1
 end_operator
 begin_operator
@@ -204451,8 +204451,8 @@ overcome jealousy learning potato pluto jupiter
 1
 3 15
 2
-0 38 15 25
 0 37 0 2
+0 38 15 25
 1
 end_operator
 begin_operator
@@ -204460,8 +204460,8 @@ overcome jealousy learning potato vulcan pluto
 1
 3 15
 2
-0 38 15 25
 0 37 2 3
+0 38 15 25
 1
 end_operator
 begin_operator
@@ -204469,8 +204469,8 @@ overcome jealousy learning rice neptune vulcan
 1
 3 16
 2
-0 38 16 25
 0 37 3 1
+0 38 16 25
 1
 end_operator
 begin_operator
@@ -204478,8 +204478,8 @@ overcome jealousy learning rice pluto jupiter
 1
 3 16
 2
-0 38 16 25
 0 37 0 2
+0 38 16 25
 1
 end_operator
 begin_operator
@@ -204487,8 +204487,8 @@ overcome jealousy learning rice vulcan pluto
 1
 3 16
 2
-0 38 16 25
 0 37 2 3
+0 38 16 25
 1
 end_operator
 begin_operator
@@ -204496,8 +204496,8 @@ overcome jealousy learning scallop neptune vulcan
 1
 3 17
 2
-0 38 17 25
 0 37 3 1
+0 38 17 25
 1
 end_operator
 begin_operator
@@ -204505,8 +204505,8 @@ overcome jealousy learning scallop pluto jupiter
 1
 3 17
 2
-0 38 17 25
 0 37 0 2
+0 38 17 25
 1
 end_operator
 begin_operator
@@ -204514,8 +204514,8 @@ overcome jealousy learning scallop vulcan pluto
 1
 3 17
 2
-0 38 17 25
 0 37 2 3
+0 38 17 25
 1
 end_operator
 begin_operator
@@ -204523,8 +204523,8 @@ overcome jealousy learning tofu neptune vulcan
 1
 3 18
 2
-0 38 18 25
 0 37 3 1
+0 38 18 25
 1
 end_operator
 begin_operator
@@ -204532,8 +204532,8 @@ overcome jealousy learning tofu pluto jupiter
 1
 3 18
 2
-0 38 18 25
 0 37 0 2
+0 38 18 25
 1
 end_operator
 begin_operator
@@ -204541,8 +204541,8 @@ overcome jealousy learning tofu vulcan pluto
 1
 3 18
 2
-0 38 18 25
 0 37 2 3
+0 38 18 25
 1
 end_operator
 begin_operator
@@ -204550,8 +204550,8 @@ overcome jealousy learning turkey neptune vulcan
 1
 3 19
 2
-0 38 19 25
 0 37 3 1
+0 38 19 25
 1
 end_operator
 begin_operator
@@ -204559,8 +204559,8 @@ overcome jealousy learning turkey pluto jupiter
 1
 3 19
 2
-0 38 19 25
 0 37 0 2
+0 38 19 25
 1
 end_operator
 begin_operator
@@ -204568,8 +204568,8 @@ overcome jealousy learning turkey vulcan pluto
 1
 3 19
 2
-0 38 19 25
 0 37 2 3
+0 38 19 25
 1
 end_operator
 begin_operator
@@ -204577,8 +204577,8 @@ overcome jealousy learning wonderbread neptune vulcan
 1
 3 20
 2
-0 38 20 25
 0 37 3 1
+0 38 20 25
 1
 end_operator
 begin_operator
@@ -204586,8 +204586,8 @@ overcome jealousy learning wonderbread pluto jupiter
 1
 3 20
 2
-0 38 20 25
 0 37 0 2
+0 38 20 25
 1
 end_operator
 begin_operator
@@ -204595,8 +204595,8 @@ overcome jealousy learning wonderbread vulcan pluto
 1
 3 20
 2
-0 38 20 25
 0 37 2 3
+0 38 20 25
 1
 end_operator
 begin_operator
@@ -204604,8 +204604,8 @@ overcome jealousy learning wurst neptune vulcan
 1
 3 21
 2
-0 38 21 25
 0 37 3 1
+0 38 21 25
 1
 end_operator
 begin_operator
@@ -204613,8 +204613,8 @@ overcome jealousy learning wurst pluto jupiter
 1
 3 21
 2
-0 38 21 25
 0 37 0 2
+0 38 21 25
 1
 end_operator
 begin_operator
@@ -204622,8 +204622,8 @@ overcome jealousy learning wurst vulcan pluto
 1
 3 21
 2
-0 38 21 25
 0 37 2 3
+0 38 21 25
 1
 end_operator
 begin_operator
@@ -206413,8 +206413,8 @@ overcome prostatitis curiosity bacon neptune vulcan
 1
 0 0
 2
-0 39 0 22
 0 32 3 1
+0 39 0 22
 1
 end_operator
 begin_operator
@@ -206422,8 +206422,8 @@ overcome prostatitis curiosity bacon pluto jupiter
 1
 0 0
 2
-0 39 0 22
 0 32 0 2
+0 39 0 22
 1
 end_operator
 begin_operator
@@ -206431,8 +206431,8 @@ overcome prostatitis curiosity bacon vulcan pluto
 1
 0 0
 2
-0 39 0 22
 0 32 2 3
+0 39 0 22
 1
 end_operator
 begin_operator
@@ -206440,8 +206440,8 @@ overcome prostatitis curiosity broccoli neptune vulcan
 1
 0 1
 2
-0 39 1 22
 0 32 3 1
+0 39 1 22
 1
 end_operator
 begin_operator
@@ -206449,8 +206449,8 @@ overcome prostatitis curiosity broccoli pluto jupiter
 1
 0 1
 2
-0 39 1 22
 0 32 0 2
+0 39 1 22
 1
 end_operator
 begin_operator
@@ -206458,8 +206458,8 @@ overcome prostatitis curiosity broccoli vulcan pluto
 1
 0 1
 2
-0 39 1 22
 0 32 2 3
+0 39 1 22
 1
 end_operator
 begin_operator
@@ -206467,8 +206467,8 @@ overcome prostatitis curiosity cantelope neptune vulcan
 1
 0 2
 2
-0 39 2 22
 0 32 3 1
+0 39 2 22
 1
 end_operator
 begin_operator
@@ -206476,8 +206476,8 @@ overcome prostatitis curiosity cantelope pluto jupiter
 1
 0 2
 2
-0 39 2 22
 0 32 0 2
+0 39 2 22
 1
 end_operator
 begin_operator
@@ -206485,8 +206485,8 @@ overcome prostatitis curiosity cantelope vulcan pluto
 1
 0 2
 2
-0 39 2 22
 0 32 2 3
+0 39 2 22
 1
 end_operator
 begin_operator
@@ -206494,8 +206494,8 @@ overcome prostatitis curiosity chicken neptune vulcan
 1
 0 3
 2
-0 39 3 22
 0 32 3 1
+0 39 3 22
 1
 end_operator
 begin_operator
@@ -206503,8 +206503,8 @@ overcome prostatitis curiosity chicken pluto jupiter
 1
 0 3
 2
-0 39 3 22
 0 32 0 2
+0 39 3 22
 1
 end_operator
 begin_operator
@@ -206512,8 +206512,8 @@ overcome prostatitis curiosity chicken vulcan pluto
 1
 0 3
 2
-0 39 3 22
 0 32 2 3
+0 39 3 22
 1
 end_operator
 begin_operator
@@ -206521,8 +206521,8 @@ overcome prostatitis curiosity chocolate neptune vulcan
 1
 0 4
 2
-0 39 4 22
 0 32 3 1
+0 39 4 22
 1
 end_operator
 begin_operator
@@ -206530,8 +206530,8 @@ overcome prostatitis curiosity chocolate pluto jupiter
 1
 0 4
 2
-0 39 4 22
 0 32 0 2
+0 39 4 22
 1
 end_operator
 begin_operator
@@ -206539,8 +206539,8 @@ overcome prostatitis curiosity chocolate vulcan pluto
 1
 0 4
 2
-0 39 4 22
 0 32 2 3
+0 39 4 22
 1
 end_operator
 begin_operator
@@ -206548,8 +206548,8 @@ overcome prostatitis curiosity cucumber neptune vulcan
 1
 0 5
 2
-0 39 5 22
 0 32 3 1
+0 39 5 22
 1
 end_operator
 begin_operator
@@ -206557,8 +206557,8 @@ overcome prostatitis curiosity cucumber pluto jupiter
 1
 0 5
 2
-0 39 5 22
 0 32 0 2
+0 39 5 22
 1
 end_operator
 begin_operator
@@ -206566,8 +206566,8 @@ overcome prostatitis curiosity cucumber vulcan pluto
 1
 0 5
 2
-0 39 5 22
 0 32 2 3
+0 39 5 22
 1
 end_operator
 begin_operator
@@ -206575,8 +206575,8 @@ overcome prostatitis curiosity endive neptune vulcan
 1
 0 6
 2
-0 39 6 22
 0 32 3 1
+0 39 6 22
 1
 end_operator
 begin_operator
@@ -206584,8 +206584,8 @@ overcome prostatitis curiosity endive pluto jupiter
 1
 0 6
 2
-0 39 6 22
 0 32 0 2
+0 39 6 22
 1
 end_operator
 begin_operator
@@ -206593,8 +206593,8 @@ overcome prostatitis curiosity endive vulcan pluto
 1
 0 6
 2
-0 39 6 22
 0 32 2 3
+0 39 6 22
 1
 end_operator
 begin_operator
@@ -206602,8 +206602,8 @@ overcome prostatitis curiosity guava neptune vulcan
 1
 0 7
 2
-0 39 7 22
 0 32 3 1
+0 39 7 22
 1
 end_operator
 begin_operator
@@ -206611,8 +206611,8 @@ overcome prostatitis curiosity guava pluto jupiter
 1
 0 7
 2
-0 39 7 22
 0 32 0 2
+0 39 7 22
 1
 end_operator
 begin_operator
@@ -206620,8 +206620,8 @@ overcome prostatitis curiosity guava vulcan pluto
 1
 0 7
 2
-0 39 7 22
 0 32 2 3
+0 39 7 22
 1
 end_operator
 begin_operator
@@ -206629,8 +206629,8 @@ overcome prostatitis curiosity haroset neptune vulcan
 1
 0 8
 2
-0 39 8 22
 0 32 3 1
+0 39 8 22
 1
 end_operator
 begin_operator
@@ -206638,8 +206638,8 @@ overcome prostatitis curiosity haroset pluto jupiter
 1
 0 8
 2
-0 39 8 22
 0 32 0 2
+0 39 8 22
 1
 end_operator
 begin_operator
@@ -206647,8 +206647,8 @@ overcome prostatitis curiosity haroset vulcan pluto
 1
 0 8
 2
-0 39 8 22
 0 32 2 3
+0 39 8 22
 1
 end_operator
 begin_operator
@@ -206656,8 +206656,8 @@ overcome prostatitis curiosity hotdog neptune vulcan
 1
 0 9
 2
-0 39 9 22
 0 32 3 1
+0 39 9 22
 1
 end_operator
 begin_operator
@@ -206665,8 +206665,8 @@ overcome prostatitis curiosity hotdog pluto jupiter
 1
 0 9
 2
-0 39 9 22
 0 32 0 2
+0 39 9 22
 1
 end_operator
 begin_operator
@@ -206674,8 +206674,8 @@ overcome prostatitis curiosity hotdog vulcan pluto
 1
 0 9
 2
-0 39 9 22
 0 32 2 3
+0 39 9 22
 1
 end_operator
 begin_operator
@@ -206683,8 +206683,8 @@ overcome prostatitis curiosity lemon neptune vulcan
 1
 0 10
 2
-0 39 10 22
 0 32 3 1
+0 39 10 22
 1
 end_operator
 begin_operator
@@ -206692,8 +206692,8 @@ overcome prostatitis curiosity lemon pluto jupiter
 1
 0 10
 2
-0 39 10 22
 0 32 0 2
+0 39 10 22
 1
 end_operator
 begin_operator
@@ -206701,8 +206701,8 @@ overcome prostatitis curiosity lemon vulcan pluto
 1
 0 10
 2
-0 39 10 22
 0 32 2 3
+0 39 10 22
 1
 end_operator
 begin_operator
@@ -206710,8 +206710,8 @@ overcome prostatitis curiosity marzipan neptune vulcan
 1
 0 11
 2
-0 39 11 22
 0 32 3 1
+0 39 11 22
 1
 end_operator
 begin_operator
@@ -206719,8 +206719,8 @@ overcome prostatitis curiosity marzipan pluto jupiter
 1
 0 11
 2
-0 39 11 22
 0 32 0 2
+0 39 11 22
 1
 end_operator
 begin_operator
@@ -206728,8 +206728,8 @@ overcome prostatitis curiosity marzipan vulcan pluto
 1
 0 11
 2
-0 39 11 22
 0 32 2 3
+0 39 11 22
 1
 end_operator
 begin_operator
@@ -206737,8 +206737,8 @@ overcome prostatitis curiosity orange neptune vulcan
 1
 0 12
 2
-0 39 12 22
 0 32 3 1
+0 39 12 22
 1
 end_operator
 begin_operator
@@ -206746,8 +206746,8 @@ overcome prostatitis curiosity orange pluto jupiter
 1
 0 12
 2
-0 39 12 22
 0 32 0 2
+0 39 12 22
 1
 end_operator
 begin_operator
@@ -206755,8 +206755,8 @@ overcome prostatitis curiosity orange vulcan pluto
 1
 0 12
 2
-0 39 12 22
 0 32 2 3
+0 39 12 22
 1
 end_operator
 begin_operator
@@ -206764,8 +206764,8 @@ overcome prostatitis curiosity pea neptune vulcan
 1
 0 13
 2
-0 39 13 22
 0 32 3 1
+0 39 13 22
 1
 end_operator
 begin_operator
@@ -206773,8 +206773,8 @@ overcome prostatitis curiosity pea pluto jupiter
 1
 0 13
 2
-0 39 13 22
 0 32 0 2
+0 39 13 22
 1
 end_operator
 begin_operator
@@ -206782,8 +206782,8 @@ overcome prostatitis curiosity pea vulcan pluto
 1
 0 13
 2
-0 39 13 22
 0 32 2 3
+0 39 13 22
 1
 end_operator
 begin_operator
@@ -206791,8 +206791,8 @@ overcome prostatitis curiosity pepper neptune vulcan
 1
 0 14
 2
-0 39 14 22
 0 32 3 1
+0 39 14 22
 1
 end_operator
 begin_operator
@@ -206800,8 +206800,8 @@ overcome prostatitis curiosity pepper pluto jupiter
 1
 0 14
 2
-0 39 14 22
 0 32 0 2
+0 39 14 22
 1
 end_operator
 begin_operator
@@ -206809,8 +206809,8 @@ overcome prostatitis curiosity pepper vulcan pluto
 1
 0 14
 2
-0 39 14 22
 0 32 2 3
+0 39 14 22
 1
 end_operator
 begin_operator
@@ -206818,8 +206818,8 @@ overcome prostatitis curiosity potato neptune vulcan
 1
 0 15
 2
-0 39 15 22
 0 32 3 1
+0 39 15 22
 1
 end_operator
 begin_operator
@@ -206827,8 +206827,8 @@ overcome prostatitis curiosity potato pluto jupiter
 1
 0 15
 2
-0 39 15 22
 0 32 0 2
+0 39 15 22
 1
 end_operator
 begin_operator
@@ -206836,8 +206836,8 @@ overcome prostatitis curiosity potato vulcan pluto
 1
 0 15
 2
-0 39 15 22
 0 32 2 3
+0 39 15 22
 1
 end_operator
 begin_operator
@@ -206845,8 +206845,8 @@ overcome prostatitis curiosity rice neptune vulcan
 1
 0 16
 2
-0 39 16 22
 0 32 3 1
+0 39 16 22
 1
 end_operator
 begin_operator
@@ -206854,8 +206854,8 @@ overcome prostatitis curiosity rice pluto jupiter
 1
 0 16
 2
-0 39 16 22
 0 32 0 2
+0 39 16 22
 1
 end_operator
 begin_operator
@@ -206863,8 +206863,8 @@ overcome prostatitis curiosity rice vulcan pluto
 1
 0 16
 2
-0 39 16 22
 0 32 2 3
+0 39 16 22
 1
 end_operator
 begin_operator
@@ -206872,8 +206872,8 @@ overcome prostatitis curiosity scallop neptune vulcan
 1
 0 17
 2
-0 39 17 22
 0 32 3 1
+0 39 17 22
 1
 end_operator
 begin_operator
@@ -206881,8 +206881,8 @@ overcome prostatitis curiosity scallop pluto jupiter
 1
 0 17
 2
-0 39 17 22
 0 32 0 2
+0 39 17 22
 1
 end_operator
 begin_operator
@@ -206890,8 +206890,8 @@ overcome prostatitis curiosity scallop vulcan pluto
 1
 0 17
 2
-0 39 17 22
 0 32 2 3
+0 39 17 22
 1
 end_operator
 begin_operator
@@ -206899,8 +206899,8 @@ overcome prostatitis curiosity tofu neptune vulcan
 1
 0 18
 2
-0 39 18 22
 0 32 3 1
+0 39 18 22
 1
 end_operator
 begin_operator
@@ -206908,8 +206908,8 @@ overcome prostatitis curiosity tofu pluto jupiter
 1
 0 18
 2
-0 39 18 22
 0 32 0 2
+0 39 18 22
 1
 end_operator
 begin_operator
@@ -206917,8 +206917,8 @@ overcome prostatitis curiosity tofu vulcan pluto
 1
 0 18
 2
-0 39 18 22
 0 32 2 3
+0 39 18 22
 1
 end_operator
 begin_operator
@@ -206926,8 +206926,8 @@ overcome prostatitis curiosity turkey neptune vulcan
 1
 0 19
 2
-0 39 19 22
 0 32 3 1
+0 39 19 22
 1
 end_operator
 begin_operator
@@ -206935,8 +206935,8 @@ overcome prostatitis curiosity turkey pluto jupiter
 1
 0 19
 2
-0 39 19 22
 0 32 0 2
+0 39 19 22
 1
 end_operator
 begin_operator
@@ -206944,8 +206944,8 @@ overcome prostatitis curiosity turkey vulcan pluto
 1
 0 19
 2
-0 39 19 22
 0 32 2 3
+0 39 19 22
 1
 end_operator
 begin_operator
@@ -206953,8 +206953,8 @@ overcome prostatitis curiosity wonderbread neptune vulcan
 1
 0 20
 2
-0 39 20 22
 0 32 3 1
+0 39 20 22
 1
 end_operator
 begin_operator
@@ -206962,8 +206962,8 @@ overcome prostatitis curiosity wonderbread pluto jupiter
 1
 0 20
 2
-0 39 20 22
 0 32 0 2
+0 39 20 22
 1
 end_operator
 begin_operator
@@ -206971,8 +206971,8 @@ overcome prostatitis curiosity wonderbread vulcan pluto
 1
 0 20
 2
-0 39 20 22
 0 32 2 3
+0 39 20 22
 1
 end_operator
 begin_operator
@@ -206980,8 +206980,8 @@ overcome prostatitis curiosity wurst neptune vulcan
 1
 0 21
 2
-0 39 21 22
 0 32 3 1
+0 39 21 22
 1
 end_operator
 begin_operator
@@ -206989,8 +206989,8 @@ overcome prostatitis curiosity wurst pluto jupiter
 1
 0 21
 2
-0 39 21 22
 0 32 0 2
+0 39 21 22
 1
 end_operator
 begin_operator
@@ -206998,8 +206998,8 @@ overcome prostatitis curiosity wurst vulcan pluto
 1
 0 21
 2
-0 39 21 22
 0 32 2 3
+0 39 21 22
 1
 end_operator
 begin_operator
@@ -207007,8 +207007,8 @@ overcome prostatitis entertainment bacon neptune vulcan
 1
 1 0
 2
-0 39 0 23
 0 33 3 1
+0 39 0 23
 1
 end_operator
 begin_operator
@@ -207016,8 +207016,8 @@ overcome prostatitis entertainment bacon pluto jupiter
 1
 1 0
 2
-0 39 0 23
 0 33 0 2
+0 39 0 23
 1
 end_operator
 begin_operator
@@ -207025,8 +207025,8 @@ overcome prostatitis entertainment bacon vulcan pluto
 1
 1 0
 2
-0 39 0 23
 0 33 2 3
+0 39 0 23
 1
 end_operator
 begin_operator
@@ -207034,8 +207034,8 @@ overcome prostatitis entertainment broccoli neptune vulcan
 1
 1 1
 2
-0 39 1 23
 0 33 3 1
+0 39 1 23
 1
 end_operator
 begin_operator
@@ -207043,8 +207043,8 @@ overcome prostatitis entertainment broccoli pluto jupiter
 1
 1 1
 2
-0 39 1 23
 0 33 0 2
+0 39 1 23
 1
 end_operator
 begin_operator
@@ -207052,8 +207052,8 @@ overcome prostatitis entertainment broccoli vulcan pluto
 1
 1 1
 2
-0 39 1 23
 0 33 2 3
+0 39 1 23
 1
 end_operator
 begin_operator
@@ -207061,8 +207061,8 @@ overcome prostatitis entertainment cantelope neptune vulcan
 1
 1 2
 2
-0 39 2 23
 0 33 3 1
+0 39 2 23
 1
 end_operator
 begin_operator
@@ -207070,8 +207070,8 @@ overcome prostatitis entertainment cantelope pluto jupiter
 1
 1 2
 2
-0 39 2 23
 0 33 0 2
+0 39 2 23
 1
 end_operator
 begin_operator
@@ -207079,8 +207079,8 @@ overcome prostatitis entertainment cantelope vulcan pluto
 1
 1 2
 2
-0 39 2 23
 0 33 2 3
+0 39 2 23
 1
 end_operator
 begin_operator
@@ -207088,8 +207088,8 @@ overcome prostatitis entertainment chicken neptune vulcan
 1
 1 3
 2
-0 39 3 23
 0 33 3 1
+0 39 3 23
 1
 end_operator
 begin_operator
@@ -207097,8 +207097,8 @@ overcome prostatitis entertainment chicken pluto jupiter
 1
 1 3
 2
-0 39 3 23
 0 33 0 2
+0 39 3 23
 1
 end_operator
 begin_operator
@@ -207106,8 +207106,8 @@ overcome prostatitis entertainment chicken vulcan pluto
 1
 1 3
 2
-0 39 3 23
 0 33 2 3
+0 39 3 23
 1
 end_operator
 begin_operator
@@ -207115,8 +207115,8 @@ overcome prostatitis entertainment chocolate neptune vulcan
 1
 1 4
 2
-0 39 4 23
 0 33 3 1
+0 39 4 23
 1
 end_operator
 begin_operator
@@ -207124,8 +207124,8 @@ overcome prostatitis entertainment chocolate pluto jupiter
 1
 1 4
 2
-0 39 4 23
 0 33 0 2
+0 39 4 23
 1
 end_operator
 begin_operator
@@ -207133,8 +207133,8 @@ overcome prostatitis entertainment chocolate vulcan pluto
 1
 1 4
 2
-0 39 4 23
 0 33 2 3
+0 39 4 23
 1
 end_operator
 begin_operator
@@ -207142,8 +207142,8 @@ overcome prostatitis entertainment cucumber neptune vulcan
 1
 1 5
 2
-0 39 5 23
 0 33 3 1
+0 39 5 23
 1
 end_operator
 begin_operator
@@ -207151,8 +207151,8 @@ overcome prostatitis entertainment cucumber pluto jupiter
 1
 1 5
 2
-0 39 5 23
 0 33 0 2
+0 39 5 23
 1
 end_operator
 begin_operator
@@ -207160,8 +207160,8 @@ overcome prostatitis entertainment cucumber vulcan pluto
 1
 1 5
 2
-0 39 5 23
 0 33 2 3
+0 39 5 23
 1
 end_operator
 begin_operator
@@ -207169,8 +207169,8 @@ overcome prostatitis entertainment endive neptune vulcan
 1
 1 6
 2
-0 39 6 23
 0 33 3 1
+0 39 6 23
 1
 end_operator
 begin_operator
@@ -207178,8 +207178,8 @@ overcome prostatitis entertainment endive pluto jupiter
 1
 1 6
 2
-0 39 6 23
 0 33 0 2
+0 39 6 23
 1
 end_operator
 begin_operator
@@ -207187,8 +207187,8 @@ overcome prostatitis entertainment endive vulcan pluto
 1
 1 6
 2
-0 39 6 23
 0 33 2 3
+0 39 6 23
 1
 end_operator
 begin_operator
@@ -207196,8 +207196,8 @@ overcome prostatitis entertainment guava neptune vulcan
 1
 1 7
 2
-0 39 7 23
 0 33 3 1
+0 39 7 23
 1
 end_operator
 begin_operator
@@ -207205,8 +207205,8 @@ overcome prostatitis entertainment guava pluto jupiter
 1
 1 7
 2
-0 39 7 23
 0 33 0 2
+0 39 7 23
 1
 end_operator
 begin_operator
@@ -207214,8 +207214,8 @@ overcome prostatitis entertainment guava vulcan pluto
 1
 1 7
 2
-0 39 7 23
 0 33 2 3
+0 39 7 23
 1
 end_operator
 begin_operator
@@ -207223,8 +207223,8 @@ overcome prostatitis entertainment haroset neptune vulcan
 1
 1 8
 2
-0 39 8 23
 0 33 3 1
+0 39 8 23
 1
 end_operator
 begin_operator
@@ -207232,8 +207232,8 @@ overcome prostatitis entertainment haroset pluto jupiter
 1
 1 8
 2
-0 39 8 23
 0 33 0 2
+0 39 8 23
 1
 end_operator
 begin_operator
@@ -207241,8 +207241,8 @@ overcome prostatitis entertainment haroset vulcan pluto
 1
 1 8
 2
-0 39 8 23
 0 33 2 3
+0 39 8 23
 1
 end_operator
 begin_operator
@@ -207250,8 +207250,8 @@ overcome prostatitis entertainment hotdog neptune vulcan
 1
 1 9
 2
-0 39 9 23
 0 33 3 1
+0 39 9 23
 1
 end_operator
 begin_operator
@@ -207259,8 +207259,8 @@ overcome prostatitis entertainment hotdog pluto jupiter
 1
 1 9
 2
-0 39 9 23
 0 33 0 2
+0 39 9 23
 1
 end_operator
 begin_operator
@@ -207268,8 +207268,8 @@ overcome prostatitis entertainment hotdog vulcan pluto
 1
 1 9
 2
-0 39 9 23
 0 33 2 3
+0 39 9 23
 1
 end_operator
 begin_operator
@@ -207277,8 +207277,8 @@ overcome prostatitis entertainment lemon neptune vulcan
 1
 1 10
 2
-0 39 10 23
 0 33 3 1
+0 39 10 23
 1
 end_operator
 begin_operator
@@ -207286,8 +207286,8 @@ overcome prostatitis entertainment lemon pluto jupiter
 1
 1 10
 2
-0 39 10 23
 0 33 0 2
+0 39 10 23
 1
 end_operator
 begin_operator
@@ -207295,8 +207295,8 @@ overcome prostatitis entertainment lemon vulcan pluto
 1
 1 10
 2
-0 39 10 23
 0 33 2 3
+0 39 10 23
 1
 end_operator
 begin_operator
@@ -207304,8 +207304,8 @@ overcome prostatitis entertainment marzipan neptune vulcan
 1
 1 11
 2
-0 39 11 23
 0 33 3 1
+0 39 11 23
 1
 end_operator
 begin_operator
@@ -207313,8 +207313,8 @@ overcome prostatitis entertainment marzipan pluto jupiter
 1
 1 11
 2
-0 39 11 23
 0 33 0 2
+0 39 11 23
 1
 end_operator
 begin_operator
@@ -207322,8 +207322,8 @@ overcome prostatitis entertainment marzipan vulcan pluto
 1
 1 11
 2
-0 39 11 23
 0 33 2 3
+0 39 11 23
 1
 end_operator
 begin_operator
@@ -207331,8 +207331,8 @@ overcome prostatitis entertainment orange neptune vulcan
 1
 1 12
 2
-0 39 12 23
 0 33 3 1
+0 39 12 23
 1
 end_operator
 begin_operator
@@ -207340,8 +207340,8 @@ overcome prostatitis entertainment orange pluto jupiter
 1
 1 12
 2
-0 39 12 23
 0 33 0 2
+0 39 12 23
 1
 end_operator
 begin_operator
@@ -207349,8 +207349,8 @@ overcome prostatitis entertainment orange vulcan pluto
 1
 1 12
 2
-0 39 12 23
 0 33 2 3
+0 39 12 23
 1
 end_operator
 begin_operator
@@ -207358,8 +207358,8 @@ overcome prostatitis entertainment pea neptune vulcan
 1
 1 13
 2
-0 39 13 23
 0 33 3 1
+0 39 13 23
 1
 end_operator
 begin_operator
@@ -207367,8 +207367,8 @@ overcome prostatitis entertainment pea pluto jupiter
 1
 1 13
 2
-0 39 13 23
 0 33 0 2
+0 39 13 23
 1
 end_operator
 begin_operator
@@ -207376,8 +207376,8 @@ overcome prostatitis entertainment pea vulcan pluto
 1
 1 13
 2
-0 39 13 23
 0 33 2 3
+0 39 13 23
 1
 end_operator
 begin_operator
@@ -207385,8 +207385,8 @@ overcome prostatitis entertainment pepper neptune vulcan
 1
 1 14
 2
-0 39 14 23
 0 33 3 1
+0 39 14 23
 1
 end_operator
 begin_operator
@@ -207394,8 +207394,8 @@ overcome prostatitis entertainment pepper pluto jupiter
 1
 1 14
 2
-0 39 14 23
 0 33 0 2
+0 39 14 23
 1
 end_operator
 begin_operator
@@ -207403,8 +207403,8 @@ overcome prostatitis entertainment pepper vulcan pluto
 1
 1 14
 2
-0 39 14 23
 0 33 2 3
+0 39 14 23
 1
 end_operator
 begin_operator
@@ -207412,8 +207412,8 @@ overcome prostatitis entertainment potato neptune vulcan
 1
 1 15
 2
-0 39 15 23
 0 33 3 1
+0 39 15 23
 1
 end_operator
 begin_operator
@@ -207421,8 +207421,8 @@ overcome prostatitis entertainment potato pluto jupiter
 1
 1 15
 2
-0 39 15 23
 0 33 0 2
+0 39 15 23
 1
 end_operator
 begin_operator
@@ -207430,8 +207430,8 @@ overcome prostatitis entertainment potato vulcan pluto
 1
 1 15
 2
-0 39 15 23
 0 33 2 3
+0 39 15 23
 1
 end_operator
 begin_operator
@@ -207439,8 +207439,8 @@ overcome prostatitis entertainment rice neptune vulcan
 1
 1 16
 2
-0 39 16 23
 0 33 3 1
+0 39 16 23
 1
 end_operator
 begin_operator
@@ -207448,8 +207448,8 @@ overcome prostatitis entertainment rice pluto jupiter
 1
 1 16
 2
-0 39 16 23
 0 33 0 2
+0 39 16 23
 1
 end_operator
 begin_operator
@@ -207457,8 +207457,8 @@ overcome prostatitis entertainment rice vulcan pluto
 1
 1 16
 2
-0 39 16 23
 0 33 2 3
+0 39 16 23
 1
 end_operator
 begin_operator
@@ -207466,8 +207466,8 @@ overcome prostatitis entertainment scallop neptune vulcan
 1
 1 17
 2
-0 39 17 23
 0 33 3 1
+0 39 17 23
 1
 end_operator
 begin_operator
@@ -207475,8 +207475,8 @@ overcome prostatitis entertainment scallop pluto jupiter
 1
 1 17
 2
-0 39 17 23
 0 33 0 2
+0 39 17 23
 1
 end_operator
 begin_operator
@@ -207484,8 +207484,8 @@ overcome prostatitis entertainment scallop vulcan pluto
 1
 1 17
 2
-0 39 17 23
 0 33 2 3
+0 39 17 23
 1
 end_operator
 begin_operator
@@ -207493,8 +207493,8 @@ overcome prostatitis entertainment tofu neptune vulcan
 1
 1 18
 2
-0 39 18 23
 0 33 3 1
+0 39 18 23
 1
 end_operator
 begin_operator
@@ -207502,8 +207502,8 @@ overcome prostatitis entertainment tofu pluto jupiter
 1
 1 18
 2
-0 39 18 23
 0 33 0 2
+0 39 18 23
 1
 end_operator
 begin_operator
@@ -207511,8 +207511,8 @@ overcome prostatitis entertainment tofu vulcan pluto
 1
 1 18
 2
-0 39 18 23
 0 33 2 3
+0 39 18 23
 1
 end_operator
 begin_operator
@@ -207520,8 +207520,8 @@ overcome prostatitis entertainment turkey neptune vulcan
 1
 1 19
 2
-0 39 19 23
 0 33 3 1
+0 39 19 23
 1
 end_operator
 begin_operator
@@ -207529,8 +207529,8 @@ overcome prostatitis entertainment turkey pluto jupiter
 1
 1 19
 2
-0 39 19 23
 0 33 0 2
+0 39 19 23
 1
 end_operator
 begin_operator
@@ -207538,8 +207538,8 @@ overcome prostatitis entertainment turkey vulcan pluto
 1
 1 19
 2
-0 39 19 23
 0 33 2 3
+0 39 19 23
 1
 end_operator
 begin_operator
@@ -207547,8 +207547,8 @@ overcome prostatitis entertainment wonderbread neptune vulcan
 1
 1 20
 2
-0 39 20 23
 0 33 3 1
+0 39 20 23
 1
 end_operator
 begin_operator
@@ -207556,8 +207556,8 @@ overcome prostatitis entertainment wonderbread pluto jupiter
 1
 1 20
 2
-0 39 20 23
 0 33 0 2
+0 39 20 23
 1
 end_operator
 begin_operator
@@ -207565,8 +207565,8 @@ overcome prostatitis entertainment wonderbread vulcan pluto
 1
 1 20
 2
-0 39 20 23
 0 33 2 3
+0 39 20 23
 1
 end_operator
 begin_operator
@@ -207574,8 +207574,8 @@ overcome prostatitis entertainment wurst neptune vulcan
 1
 1 21
 2
-0 39 21 23
 0 33 3 1
+0 39 21 23
 1
 end_operator
 begin_operator
@@ -207583,8 +207583,8 @@ overcome prostatitis entertainment wurst pluto jupiter
 1
 1 21
 2
-0 39 21 23
 0 33 0 2
+0 39 21 23
 1
 end_operator
 begin_operator
@@ -207592,8 +207592,8 @@ overcome prostatitis entertainment wurst vulcan pluto
 1
 1 21
 2
-0 39 21 23
 0 33 2 3
+0 39 21 23
 1
 end_operator
 begin_operator
@@ -207601,8 +207601,8 @@ overcome prostatitis expectation bacon neptune vulcan
 1
 2 0
 2
-0 39 0 24
 0 36 3 1
+0 39 0 24
 1
 end_operator
 begin_operator
@@ -207610,8 +207610,8 @@ overcome prostatitis expectation bacon pluto jupiter
 1
 2 0
 2
-0 39 0 24
 0 36 0 2
+0 39 0 24
 1
 end_operator
 begin_operator
@@ -207619,8 +207619,8 @@ overcome prostatitis expectation bacon vulcan pluto
 1
 2 0
 2
-0 39 0 24
 0 36 2 3
+0 39 0 24
 1
 end_operator
 begin_operator
@@ -207628,8 +207628,8 @@ overcome prostatitis expectation broccoli neptune vulcan
 1
 2 1
 2
-0 39 1 24
 0 36 3 1
+0 39 1 24
 1
 end_operator
 begin_operator
@@ -207637,8 +207637,8 @@ overcome prostatitis expectation broccoli pluto jupiter
 1
 2 1
 2
-0 39 1 24
 0 36 0 2
+0 39 1 24
 1
 end_operator
 begin_operator
@@ -207646,8 +207646,8 @@ overcome prostatitis expectation broccoli vulcan pluto
 1
 2 1
 2
-0 39 1 24
 0 36 2 3
+0 39 1 24
 1
 end_operator
 begin_operator
@@ -207655,8 +207655,8 @@ overcome prostatitis expectation cantelope neptune vulcan
 1
 2 2
 2
-0 39 2 24
 0 36 3 1
+0 39 2 24
 1
 end_operator
 begin_operator
@@ -207664,8 +207664,8 @@ overcome prostatitis expectation cantelope pluto jupiter
 1
 2 2
 2
-0 39 2 24
 0 36 0 2
+0 39 2 24
 1
 end_operator
 begin_operator
@@ -207673,8 +207673,8 @@ overcome prostatitis expectation cantelope vulcan pluto
 1
 2 2
 2
-0 39 2 24
 0 36 2 3
+0 39 2 24
 1
 end_operator
 begin_operator
@@ -207682,8 +207682,8 @@ overcome prostatitis expectation chicken neptune vulcan
 1
 2 3
 2
-0 39 3 24
 0 36 3 1
+0 39 3 24
 1
 end_operator
 begin_operator
@@ -207691,8 +207691,8 @@ overcome prostatitis expectation chicken pluto jupiter
 1
 2 3
 2
-0 39 3 24
 0 36 0 2
+0 39 3 24
 1
 end_operator
 begin_operator
@@ -207700,8 +207700,8 @@ overcome prostatitis expectation chicken vulcan pluto
 1
 2 3
 2
-0 39 3 24
 0 36 2 3
+0 39 3 24
 1
 end_operator
 begin_operator
@@ -207709,8 +207709,8 @@ overcome prostatitis expectation chocolate neptune vulcan
 1
 2 4
 2
-0 39 4 24
 0 36 3 1
+0 39 4 24
 1
 end_operator
 begin_operator
@@ -207718,8 +207718,8 @@ overcome prostatitis expectation chocolate pluto jupiter
 1
 2 4
 2
-0 39 4 24
 0 36 0 2
+0 39 4 24
 1
 end_operator
 begin_operator
@@ -207727,8 +207727,8 @@ overcome prostatitis expectation chocolate vulcan pluto
 1
 2 4
 2
-0 39 4 24
 0 36 2 3
+0 39 4 24
 1
 end_operator
 begin_operator
@@ -207736,8 +207736,8 @@ overcome prostatitis expectation cucumber neptune vulcan
 1
 2 5
 2
-0 39 5 24
 0 36 3 1
+0 39 5 24
 1
 end_operator
 begin_operator
@@ -207745,8 +207745,8 @@ overcome prostatitis expectation cucumber pluto jupiter
 1
 2 5
 2
-0 39 5 24
 0 36 0 2
+0 39 5 24
 1
 end_operator
 begin_operator
@@ -207754,8 +207754,8 @@ overcome prostatitis expectation cucumber vulcan pluto
 1
 2 5
 2
-0 39 5 24
 0 36 2 3
+0 39 5 24
 1
 end_operator
 begin_operator
@@ -207763,8 +207763,8 @@ overcome prostatitis expectation endive neptune vulcan
 1
 2 6
 2
-0 39 6 24
 0 36 3 1
+0 39 6 24
 1
 end_operator
 begin_operator
@@ -207772,8 +207772,8 @@ overcome prostatitis expectation endive pluto jupiter
 1
 2 6
 2
-0 39 6 24
 0 36 0 2
+0 39 6 24
 1
 end_operator
 begin_operator
@@ -207781,8 +207781,8 @@ overcome prostatitis expectation endive vulcan pluto
 1
 2 6
 2
-0 39 6 24
 0 36 2 3
+0 39 6 24
 1
 end_operator
 begin_operator
@@ -207790,8 +207790,8 @@ overcome prostatitis expectation guava neptune vulcan
 1
 2 7
 2
-0 39 7 24
 0 36 3 1
+0 39 7 24
 1
 end_operator
 begin_operator
@@ -207799,8 +207799,8 @@ overcome prostatitis expectation guava pluto jupiter
 1
 2 7
 2
-0 39 7 24
 0 36 0 2
+0 39 7 24
 1
 end_operator
 begin_operator
@@ -207808,8 +207808,8 @@ overcome prostatitis expectation guava vulcan pluto
 1
 2 7
 2
-0 39 7 24
 0 36 2 3
+0 39 7 24
 1
 end_operator
 begin_operator
@@ -207817,8 +207817,8 @@ overcome prostatitis expectation haroset neptune vulcan
 1
 2 8
 2
-0 39 8 24
 0 36 3 1
+0 39 8 24
 1
 end_operator
 begin_operator
@@ -207826,8 +207826,8 @@ overcome prostatitis expectation haroset pluto jupiter
 1
 2 8
 2
-0 39 8 24
 0 36 0 2
+0 39 8 24
 1
 end_operator
 begin_operator
@@ -207835,8 +207835,8 @@ overcome prostatitis expectation haroset vulcan pluto
 1
 2 8
 2
-0 39 8 24
 0 36 2 3
+0 39 8 24
 1
 end_operator
 begin_operator
@@ -207844,8 +207844,8 @@ overcome prostatitis expectation hotdog neptune vulcan
 1
 2 9
 2
-0 39 9 24
 0 36 3 1
+0 39 9 24
 1
 end_operator
 begin_operator
@@ -207853,8 +207853,8 @@ overcome prostatitis expectation hotdog pluto jupiter
 1
 2 9
 2
-0 39 9 24
 0 36 0 2
+0 39 9 24
 1
 end_operator
 begin_operator
@@ -207862,8 +207862,8 @@ overcome prostatitis expectation hotdog vulcan pluto
 1
 2 9
 2
-0 39 9 24
 0 36 2 3
+0 39 9 24
 1
 end_operator
 begin_operator
@@ -207871,8 +207871,8 @@ overcome prostatitis expectation lemon neptune vulcan
 1
 2 10
 2
-0 39 10 24
 0 36 3 1
+0 39 10 24
 1
 end_operator
 begin_operator
@@ -207880,8 +207880,8 @@ overcome prostatitis expectation lemon pluto jupiter
 1
 2 10
 2
-0 39 10 24
 0 36 0 2
+0 39 10 24
 1
 end_operator
 begin_operator
@@ -207889,8 +207889,8 @@ overcome prostatitis expectation lemon vulcan pluto
 1
 2 10
 2
-0 39 10 24
 0 36 2 3
+0 39 10 24
 1
 end_operator
 begin_operator
@@ -207898,8 +207898,8 @@ overcome prostatitis expectation marzipan neptune vulcan
 1
 2 11
 2
-0 39 11 24
 0 36 3 1
+0 39 11 24
 1
 end_operator
 begin_operator
@@ -207907,8 +207907,8 @@ overcome prostatitis expectation marzipan pluto jupiter
 1
 2 11
 2
-0 39 11 24
 0 36 0 2
+0 39 11 24
 1
 end_operator
 begin_operator
@@ -207916,8 +207916,8 @@ overcome prostatitis expectation marzipan vulcan pluto
 1
 2 11
 2
-0 39 11 24
 0 36 2 3
+0 39 11 24
 1
 end_operator
 begin_operator
@@ -207925,8 +207925,8 @@ overcome prostatitis expectation orange neptune vulcan
 1
 2 12
 2
-0 39 12 24
 0 36 3 1
+0 39 12 24
 1
 end_operator
 begin_operator
@@ -207934,8 +207934,8 @@ overcome prostatitis expectation orange pluto jupiter
 1
 2 12
 2
-0 39 12 24
 0 36 0 2
+0 39 12 24
 1
 end_operator
 begin_operator
@@ -207943,8 +207943,8 @@ overcome prostatitis expectation orange vulcan pluto
 1
 2 12
 2
-0 39 12 24
 0 36 2 3
+0 39 12 24
 1
 end_operator
 begin_operator
@@ -207952,8 +207952,8 @@ overcome prostatitis expectation pea neptune vulcan
 1
 2 13
 2
-0 39 13 24
 0 36 3 1
+0 39 13 24
 1
 end_operator
 begin_operator
@@ -207961,8 +207961,8 @@ overcome prostatitis expectation pea pluto jupiter
 1
 2 13
 2
-0 39 13 24
 0 36 0 2
+0 39 13 24
 1
 end_operator
 begin_operator
@@ -207970,8 +207970,8 @@ overcome prostatitis expectation pea vulcan pluto
 1
 2 13
 2
-0 39 13 24
 0 36 2 3
+0 39 13 24
 1
 end_operator
 begin_operator
@@ -207979,8 +207979,8 @@ overcome prostatitis expectation pepper neptune vulcan
 1
 2 14
 2
-0 39 14 24
 0 36 3 1
+0 39 14 24
 1
 end_operator
 begin_operator
@@ -207988,8 +207988,8 @@ overcome prostatitis expectation pepper pluto jupiter
 1
 2 14
 2
-0 39 14 24
 0 36 0 2
+0 39 14 24
 1
 end_operator
 begin_operator
@@ -207997,8 +207997,8 @@ overcome prostatitis expectation pepper vulcan pluto
 1
 2 14
 2
-0 39 14 24
 0 36 2 3
+0 39 14 24
 1
 end_operator
 begin_operator
@@ -208006,8 +208006,8 @@ overcome prostatitis expectation potato neptune vulcan
 1
 2 15
 2
-0 39 15 24
 0 36 3 1
+0 39 15 24
 1
 end_operator
 begin_operator
@@ -208015,8 +208015,8 @@ overcome prostatitis expectation potato pluto jupiter
 1
 2 15
 2
-0 39 15 24
 0 36 0 2
+0 39 15 24
 1
 end_operator
 begin_operator
@@ -208024,8 +208024,8 @@ overcome prostatitis expectation potato vulcan pluto
 1
 2 15
 2
-0 39 15 24
 0 36 2 3
+0 39 15 24
 1
 end_operator
 begin_operator
@@ -208033,8 +208033,8 @@ overcome prostatitis expectation rice neptune vulcan
 1
 2 16
 2
-0 39 16 24
 0 36 3 1
+0 39 16 24
 1
 end_operator
 begin_operator
@@ -208042,8 +208042,8 @@ overcome prostatitis expectation rice pluto jupiter
 1
 2 16
 2
-0 39 16 24
 0 36 0 2
+0 39 16 24
 1
 end_operator
 begin_operator
@@ -208051,8 +208051,8 @@ overcome prostatitis expectation rice vulcan pluto
 1
 2 16
 2
-0 39 16 24
 0 36 2 3
+0 39 16 24
 1
 end_operator
 begin_operator
@@ -208060,8 +208060,8 @@ overcome prostatitis expectation scallop neptune vulcan
 1
 2 17
 2
-0 39 17 24
 0 36 3 1
+0 39 17 24
 1
 end_operator
 begin_operator
@@ -208069,8 +208069,8 @@ overcome prostatitis expectation scallop pluto jupiter
 1
 2 17
 2
-0 39 17 24
 0 36 0 2
+0 39 17 24
 1
 end_operator
 begin_operator
@@ -208078,8 +208078,8 @@ overcome prostatitis expectation scallop vulcan pluto
 1
 2 17
 2
-0 39 17 24
 0 36 2 3
+0 39 17 24
 1
 end_operator
 begin_operator
@@ -208087,8 +208087,8 @@ overcome prostatitis expectation tofu neptune vulcan
 1
 2 18
 2
-0 39 18 24
 0 36 3 1
+0 39 18 24
 1
 end_operator
 begin_operator
@@ -208096,8 +208096,8 @@ overcome prostatitis expectation tofu pluto jupiter
 1
 2 18
 2
-0 39 18 24
 0 36 0 2
+0 39 18 24
 1
 end_operator
 begin_operator
@@ -208105,8 +208105,8 @@ overcome prostatitis expectation tofu vulcan pluto
 1
 2 18
 2
-0 39 18 24
 0 36 2 3
+0 39 18 24
 1
 end_operator
 begin_operator
@@ -208114,8 +208114,8 @@ overcome prostatitis expectation turkey neptune vulcan
 1
 2 19
 2
-0 39 19 24
 0 36 3 1
+0 39 19 24
 1
 end_operator
 begin_operator
@@ -208123,8 +208123,8 @@ overcome prostatitis expectation turkey pluto jupiter
 1
 2 19
 2
-0 39 19 24
 0 36 0 2
+0 39 19 24
 1
 end_operator
 begin_operator
@@ -208132,8 +208132,8 @@ overcome prostatitis expectation turkey vulcan pluto
 1
 2 19
 2
-0 39 19 24
 0 36 2 3
+0 39 19 24
 1
 end_operator
 begin_operator
@@ -208141,8 +208141,8 @@ overcome prostatitis expectation wonderbread neptune vulcan
 1
 2 20
 2
-0 39 20 24
 0 36 3 1
+0 39 20 24
 1
 end_operator
 begin_operator
@@ -208150,8 +208150,8 @@ overcome prostatitis expectation wonderbread pluto jupiter
 1
 2 20
 2
-0 39 20 24
 0 36 0 2
+0 39 20 24
 1
 end_operator
 begin_operator
@@ -208159,8 +208159,8 @@ overcome prostatitis expectation wonderbread vulcan pluto
 1
 2 20
 2
-0 39 20 24
 0 36 2 3
+0 39 20 24
 1
 end_operator
 begin_operator
@@ -208168,8 +208168,8 @@ overcome prostatitis expectation wurst neptune vulcan
 1
 2 21
 2
-0 39 21 24
 0 36 3 1
+0 39 21 24
 1
 end_operator
 begin_operator
@@ -208177,8 +208177,8 @@ overcome prostatitis expectation wurst pluto jupiter
 1
 2 21
 2
-0 39 21 24
 0 36 0 2
+0 39 21 24
 1
 end_operator
 begin_operator
@@ -208186,8 +208186,8 @@ overcome prostatitis expectation wurst vulcan pluto
 1
 2 21
 2
-0 39 21 24
 0 36 2 3
+0 39 21 24
 1
 end_operator
 begin_operator
@@ -208195,8 +208195,8 @@ overcome prostatitis learning bacon neptune vulcan
 1
 3 0
 2
-0 39 0 25
 0 37 3 1
+0 39 0 25
 1
 end_operator
 begin_operator
@@ -208204,8 +208204,8 @@ overcome prostatitis learning bacon pluto jupiter
 1
 3 0
 2
-0 39 0 25
 0 37 0 2
+0 39 0 25
 1
 end_operator
 begin_operator
@@ -208213,8 +208213,8 @@ overcome prostatitis learning bacon vulcan pluto
 1
 3 0
 2
-0 39 0 25
 0 37 2 3
+0 39 0 25
 1
 end_operator
 begin_operator
@@ -208222,8 +208222,8 @@ overcome prostatitis learning broccoli neptune vulcan
 1
 3 1
 2
-0 39 1 25
 0 37 3 1
+0 39 1 25
 1
 end_operator
 begin_operator
@@ -208231,8 +208231,8 @@ overcome prostatitis learning broccoli pluto jupiter
 1
 3 1
 2
-0 39 1 25
 0 37 0 2
+0 39 1 25
 1
 end_operator
 begin_operator
@@ -208240,8 +208240,8 @@ overcome prostatitis learning broccoli vulcan pluto
 1
 3 1
 2
-0 39 1 25
 0 37 2 3
+0 39 1 25
 1
 end_operator
 begin_operator
@@ -208249,8 +208249,8 @@ overcome prostatitis learning cantelope neptune vulcan
 1
 3 2
 2
-0 39 2 25
 0 37 3 1
+0 39 2 25
 1
 end_operator
 begin_operator
@@ -208258,8 +208258,8 @@ overcome prostatitis learning cantelope pluto jupiter
 1
 3 2
 2
-0 39 2 25
 0 37 0 2
+0 39 2 25
 1
 end_operator
 begin_operator
@@ -208267,8 +208267,8 @@ overcome prostatitis learning cantelope vulcan pluto
 1
 3 2
 2
-0 39 2 25
 0 37 2 3
+0 39 2 25
 1
 end_operator
 begin_operator
@@ -208276,8 +208276,8 @@ overcome prostatitis learning chicken neptune vulcan
 1
 3 3
 2
-0 39 3 25
 0 37 3 1
+0 39 3 25
 1
 end_operator
 begin_operator
@@ -208285,8 +208285,8 @@ overcome prostatitis learning chicken pluto jupiter
 1
 3 3
 2
-0 39 3 25
 0 37 0 2
+0 39 3 25
 1
 end_operator
 begin_operator
@@ -208294,8 +208294,8 @@ overcome prostatitis learning chicken vulcan pluto
 1
 3 3
 2
-0 39 3 25
 0 37 2 3
+0 39 3 25
 1
 end_operator
 begin_operator
@@ -208303,8 +208303,8 @@ overcome prostatitis learning chocolate neptune vulcan
 1
 3 4
 2
-0 39 4 25
 0 37 3 1
+0 39 4 25
 1
 end_operator
 begin_operator
@@ -208312,8 +208312,8 @@ overcome prostatitis learning chocolate pluto jupiter
 1
 3 4
 2
-0 39 4 25
 0 37 0 2
+0 39 4 25
 1
 end_operator
 begin_operator
@@ -208321,8 +208321,8 @@ overcome prostatitis learning chocolate vulcan pluto
 1
 3 4
 2
-0 39 4 25
 0 37 2 3
+0 39 4 25
 1
 end_operator
 begin_operator
@@ -208330,8 +208330,8 @@ overcome prostatitis learning cucumber neptune vulcan
 1
 3 5
 2
-0 39 5 25
 0 37 3 1
+0 39 5 25
 1
 end_operator
 begin_operator
@@ -208339,8 +208339,8 @@ overcome prostatitis learning cucumber pluto jupiter
 1
 3 5
 2
-0 39 5 25
 0 37 0 2
+0 39 5 25
 1
 end_operator
 begin_operator
@@ -208348,8 +208348,8 @@ overcome prostatitis learning cucumber vulcan pluto
 1
 3 5
 2
-0 39 5 25
 0 37 2 3
+0 39 5 25
 1
 end_operator
 begin_operator
@@ -208357,8 +208357,8 @@ overcome prostatitis learning endive neptune vulcan
 1
 3 6
 2
-0 39 6 25
 0 37 3 1
+0 39 6 25
 1
 end_operator
 begin_operator
@@ -208366,8 +208366,8 @@ overcome prostatitis learning endive pluto jupiter
 1
 3 6
 2
-0 39 6 25
 0 37 0 2
+0 39 6 25
 1
 end_operator
 begin_operator
@@ -208375,8 +208375,8 @@ overcome prostatitis learning endive vulcan pluto
 1
 3 6
 2
-0 39 6 25
 0 37 2 3
+0 39 6 25
 1
 end_operator
 begin_operator
@@ -208384,8 +208384,8 @@ overcome prostatitis learning guava neptune vulcan
 1
 3 7
 2
-0 39 7 25
 0 37 3 1
+0 39 7 25
 1
 end_operator
 begin_operator
@@ -208393,8 +208393,8 @@ overcome prostatitis learning guava pluto jupiter
 1
 3 7
 2
-0 39 7 25
 0 37 0 2
+0 39 7 25
 1
 end_operator
 begin_operator
@@ -208402,8 +208402,8 @@ overcome prostatitis learning guava vulcan pluto
 1
 3 7
 2
-0 39 7 25
 0 37 2 3
+0 39 7 25
 1
 end_operator
 begin_operator
@@ -208411,8 +208411,8 @@ overcome prostatitis learning haroset neptune vulcan
 1
 3 8
 2
-0 39 8 25
 0 37 3 1
+0 39 8 25
 1
 end_operator
 begin_operator
@@ -208420,8 +208420,8 @@ overcome prostatitis learning haroset pluto jupiter
 1
 3 8
 2
-0 39 8 25
 0 37 0 2
+0 39 8 25
 1
 end_operator
 begin_operator
@@ -208429,8 +208429,8 @@ overcome prostatitis learning haroset vulcan pluto
 1
 3 8
 2
-0 39 8 25
 0 37 2 3
+0 39 8 25
 1
 end_operator
 begin_operator
@@ -208438,8 +208438,8 @@ overcome prostatitis learning hotdog neptune vulcan
 1
 3 9
 2
-0 39 9 25
 0 37 3 1
+0 39 9 25
 1
 end_operator
 begin_operator
@@ -208447,8 +208447,8 @@ overcome prostatitis learning hotdog pluto jupiter
 1
 3 9
 2
-0 39 9 25
 0 37 0 2
+0 39 9 25
 1
 end_operator
 begin_operator
@@ -208456,8 +208456,8 @@ overcome prostatitis learning hotdog vulcan pluto
 1
 3 9
 2
-0 39 9 25
 0 37 2 3
+0 39 9 25
 1
 end_operator
 begin_operator
@@ -208465,8 +208465,8 @@ overcome prostatitis learning lemon neptune vulcan
 1
 3 10
 2
-0 39 10 25
 0 37 3 1
+0 39 10 25
 1
 end_operator
 begin_operator
@@ -208474,8 +208474,8 @@ overcome prostatitis learning lemon pluto jupiter
 1
 3 10
 2
-0 39 10 25
 0 37 0 2
+0 39 10 25
 1
 end_operator
 begin_operator
@@ -208483,8 +208483,8 @@ overcome prostatitis learning lemon vulcan pluto
 1
 3 10
 2
-0 39 10 25
 0 37 2 3
+0 39 10 25
 1
 end_operator
 begin_operator
@@ -208492,8 +208492,8 @@ overcome prostatitis learning marzipan neptune vulcan
 1
 3 11
 2
-0 39 11 25
 0 37 3 1
+0 39 11 25
 1
 end_operator
 begin_operator
@@ -208501,8 +208501,8 @@ overcome prostatitis learning marzipan pluto jupiter
 1
 3 11
 2
-0 39 11 25
 0 37 0 2
+0 39 11 25
 1
 end_operator
 begin_operator
@@ -208510,8 +208510,8 @@ overcome prostatitis learning marzipan vulcan pluto
 1
 3 11
 2
-0 39 11 25
 0 37 2 3
+0 39 11 25
 1
 end_operator
 begin_operator
@@ -208519,8 +208519,8 @@ overcome prostatitis learning orange neptune vulcan
 1
 3 12
 2
-0 39 12 25
 0 37 3 1
+0 39 12 25
 1
 end_operator
 begin_operator
@@ -208528,8 +208528,8 @@ overcome prostatitis learning orange pluto jupiter
 1
 3 12
 2
-0 39 12 25
 0 37 0 2
+0 39 12 25
 1
 end_operator
 begin_operator
@@ -208537,8 +208537,8 @@ overcome prostatitis learning orange vulcan pluto
 1
 3 12
 2
-0 39 12 25
 0 37 2 3
+0 39 12 25
 1
 end_operator
 begin_operator
@@ -208546,8 +208546,8 @@ overcome prostatitis learning pea neptune vulcan
 1
 3 13
 2
-0 39 13 25
 0 37 3 1
+0 39 13 25
 1
 end_operator
 begin_operator
@@ -208555,8 +208555,8 @@ overcome prostatitis learning pea pluto jupiter
 1
 3 13
 2
-0 39 13 25
 0 37 0 2
+0 39 13 25
 1
 end_operator
 begin_operator
@@ -208564,8 +208564,8 @@ overcome prostatitis learning pea vulcan pluto
 1
 3 13
 2
-0 39 13 25
 0 37 2 3
+0 39 13 25
 1
 end_operator
 begin_operator
@@ -208573,8 +208573,8 @@ overcome prostatitis learning pepper neptune vulcan
 1
 3 14
 2
-0 39 14 25
 0 37 3 1
+0 39 14 25
 1
 end_operator
 begin_operator
@@ -208582,8 +208582,8 @@ overcome prostatitis learning pepper pluto jupiter
 1
 3 14
 2
-0 39 14 25
 0 37 0 2
+0 39 14 25
 1
 end_operator
 begin_operator
@@ -208591,8 +208591,8 @@ overcome prostatitis learning pepper vulcan pluto
 1
 3 14
 2
-0 39 14 25
 0 37 2 3
+0 39 14 25
 1
 end_operator
 begin_operator
@@ -208600,8 +208600,8 @@ overcome prostatitis learning potato neptune vulcan
 1
 3 15
 2
-0 39 15 25
 0 37 3 1
+0 39 15 25
 1
 end_operator
 begin_operator
@@ -208609,8 +208609,8 @@ overcome prostatitis learning potato pluto jupiter
 1
 3 15
 2
-0 39 15 25
 0 37 0 2
+0 39 15 25
 1
 end_operator
 begin_operator
@@ -208618,8 +208618,8 @@ overcome prostatitis learning potato vulcan pluto
 1
 3 15
 2
-0 39 15 25
 0 37 2 3
+0 39 15 25
 1
 end_operator
 begin_operator
@@ -208627,8 +208627,8 @@ overcome prostatitis learning rice neptune vulcan
 1
 3 16
 2
-0 39 16 25
 0 37 3 1
+0 39 16 25
 1
 end_operator
 begin_operator
@@ -208636,8 +208636,8 @@ overcome prostatitis learning rice pluto jupiter
 1
 3 16
 2
-0 39 16 25
 0 37 0 2
+0 39 16 25
 1
 end_operator
 begin_operator
@@ -208645,8 +208645,8 @@ overcome prostatitis learning rice vulcan pluto
 1
 3 16
 2
-0 39 16 25
 0 37 2 3
+0 39 16 25
 1
 end_operator
 begin_operator
@@ -208654,8 +208654,8 @@ overcome prostatitis learning scallop neptune vulcan
 1
 3 17
 2
-0 39 17 25
 0 37 3 1
+0 39 17 25
 1
 end_operator
 begin_operator
@@ -208663,8 +208663,8 @@ overcome prostatitis learning scallop pluto jupiter
 1
 3 17
 2
-0 39 17 25
 0 37 0 2
+0 39 17 25
 1
 end_operator
 begin_operator
@@ -208672,8 +208672,8 @@ overcome prostatitis learning scallop vulcan pluto
 1
 3 17
 2
-0 39 17 25
 0 37 2 3
+0 39 17 25
 1
 end_operator
 begin_operator
@@ -208681,8 +208681,8 @@ overcome prostatitis learning tofu neptune vulcan
 1
 3 18
 2
-0 39 18 25
 0 37 3 1
+0 39 18 25
 1
 end_operator
 begin_operator
@@ -208690,8 +208690,8 @@ overcome prostatitis learning tofu pluto jupiter
 1
 3 18
 2
-0 39 18 25
 0 37 0 2
+0 39 18 25
 1
 end_operator
 begin_operator
@@ -208699,8 +208699,8 @@ overcome prostatitis learning tofu vulcan pluto
 1
 3 18
 2
-0 39 18 25
 0 37 2 3
+0 39 18 25
 1
 end_operator
 begin_operator
@@ -208708,8 +208708,8 @@ overcome prostatitis learning turkey neptune vulcan
 1
 3 19
 2
-0 39 19 25
 0 37 3 1
+0 39 19 25
 1
 end_operator
 begin_operator
@@ -208717,8 +208717,8 @@ overcome prostatitis learning turkey pluto jupiter
 1
 3 19
 2
-0 39 19 25
 0 37 0 2
+0 39 19 25
 1
 end_operator
 begin_operator
@@ -208726,8 +208726,8 @@ overcome prostatitis learning turkey vulcan pluto
 1
 3 19
 2
-0 39 19 25
 0 37 2 3
+0 39 19 25
 1
 end_operator
 begin_operator
@@ -208735,8 +208735,8 @@ overcome prostatitis learning wonderbread neptune vulcan
 1
 3 20
 2
-0 39 20 25
 0 37 3 1
+0 39 20 25
 1
 end_operator
 begin_operator
@@ -208744,8 +208744,8 @@ overcome prostatitis learning wonderbread pluto jupiter
 1
 3 20
 2
-0 39 20 25
 0 37 0 2
+0 39 20 25
 1
 end_operator
 begin_operator
@@ -208753,8 +208753,8 @@ overcome prostatitis learning wonderbread vulcan pluto
 1
 3 20
 2
-0 39 20 25
 0 37 2 3
+0 39 20 25
 1
 end_operator
 begin_operator
@@ -208762,8 +208762,8 @@ overcome prostatitis learning wurst neptune vulcan
 1
 3 21
 2
-0 39 21 25
 0 37 3 1
+0 39 21 25
 1
 end_operator
 begin_operator
@@ -208771,8 +208771,8 @@ overcome prostatitis learning wurst pluto jupiter
 1
 3 21
 2
-0 39 21 25
 0 37 0 2
+0 39 21 25
 1
 end_operator
 begin_operator
@@ -208780,8 +208780,8 @@ overcome prostatitis learning wurst vulcan pluto
 1
 3 21
 2
-0 39 21 25
 0 37 2 3
+0 39 21 25
 1
 end_operator
 begin_operator
@@ -210571,8 +210571,8 @@ overcome sciatica curiosity bacon neptune vulcan
 1
 0 0
 2
-0 42 0 22
 0 32 3 1
+0 42 0 22
 1
 end_operator
 begin_operator
@@ -210580,8 +210580,8 @@ overcome sciatica curiosity bacon pluto jupiter
 1
 0 0
 2
-0 42 0 22
 0 32 0 2
+0 42 0 22
 1
 end_operator
 begin_operator
@@ -210589,8 +210589,8 @@ overcome sciatica curiosity bacon vulcan pluto
 1
 0 0
 2
-0 42 0 22
 0 32 2 3
+0 42 0 22
 1
 end_operator
 begin_operator
@@ -210598,8 +210598,8 @@ overcome sciatica curiosity broccoli neptune vulcan
 1
 0 1
 2
-0 42 1 22
 0 32 3 1
+0 42 1 22
 1
 end_operator
 begin_operator
@@ -210607,8 +210607,8 @@ overcome sciatica curiosity broccoli pluto jupiter
 1
 0 1
 2
-0 42 1 22
 0 32 0 2
+0 42 1 22
 1
 end_operator
 begin_operator
@@ -210616,8 +210616,8 @@ overcome sciatica curiosity broccoli vulcan pluto
 1
 0 1
 2
-0 42 1 22
 0 32 2 3
+0 42 1 22
 1
 end_operator
 begin_operator
@@ -210625,8 +210625,8 @@ overcome sciatica curiosity cantelope neptune vulcan
 1
 0 2
 2
-0 42 2 22
 0 32 3 1
+0 42 2 22
 1
 end_operator
 begin_operator
@@ -210634,8 +210634,8 @@ overcome sciatica curiosity cantelope pluto jupiter
 1
 0 2
 2
-0 42 2 22
 0 32 0 2
+0 42 2 22
 1
 end_operator
 begin_operator
@@ -210643,8 +210643,8 @@ overcome sciatica curiosity cantelope vulcan pluto
 1
 0 2
 2
-0 42 2 22
 0 32 2 3
+0 42 2 22
 1
 end_operator
 begin_operator
@@ -210652,8 +210652,8 @@ overcome sciatica curiosity chicken neptune vulcan
 1
 0 3
 2
-0 42 3 22
 0 32 3 1
+0 42 3 22
 1
 end_operator
 begin_operator
@@ -210661,8 +210661,8 @@ overcome sciatica curiosity chicken pluto jupiter
 1
 0 3
 2
-0 42 3 22
 0 32 0 2
+0 42 3 22
 1
 end_operator
 begin_operator
@@ -210670,8 +210670,8 @@ overcome sciatica curiosity chicken vulcan pluto
 1
 0 3
 2
-0 42 3 22
 0 32 2 3
+0 42 3 22
 1
 end_operator
 begin_operator
@@ -210679,8 +210679,8 @@ overcome sciatica curiosity chocolate neptune vulcan
 1
 0 4
 2
-0 42 4 22
 0 32 3 1
+0 42 4 22
 1
 end_operator
 begin_operator
@@ -210688,8 +210688,8 @@ overcome sciatica curiosity chocolate pluto jupiter
 1
 0 4
 2
-0 42 4 22
 0 32 0 2
+0 42 4 22
 1
 end_operator
 begin_operator
@@ -210697,8 +210697,8 @@ overcome sciatica curiosity chocolate vulcan pluto
 1
 0 4
 2
-0 42 4 22
 0 32 2 3
+0 42 4 22
 1
 end_operator
 begin_operator
@@ -210706,8 +210706,8 @@ overcome sciatica curiosity cucumber neptune vulcan
 1
 0 5
 2
-0 42 5 22
 0 32 3 1
+0 42 5 22
 1
 end_operator
 begin_operator
@@ -210715,8 +210715,8 @@ overcome sciatica curiosity cucumber pluto jupiter
 1
 0 5
 2
-0 42 5 22
 0 32 0 2
+0 42 5 22
 1
 end_operator
 begin_operator
@@ -210724,8 +210724,8 @@ overcome sciatica curiosity cucumber vulcan pluto
 1
 0 5
 2
-0 42 5 22
 0 32 2 3
+0 42 5 22
 1
 end_operator
 begin_operator
@@ -210733,8 +210733,8 @@ overcome sciatica curiosity endive neptune vulcan
 1
 0 6
 2
-0 42 6 22
 0 32 3 1
+0 42 6 22
 1
 end_operator
 begin_operator
@@ -210742,8 +210742,8 @@ overcome sciatica curiosity endive pluto jupiter
 1
 0 6
 2
-0 42 6 22
 0 32 0 2
+0 42 6 22
 1
 end_operator
 begin_operator
@@ -210751,8 +210751,8 @@ overcome sciatica curiosity endive vulcan pluto
 1
 0 6
 2
-0 42 6 22
 0 32 2 3
+0 42 6 22
 1
 end_operator
 begin_operator
@@ -210760,8 +210760,8 @@ overcome sciatica curiosity guava neptune vulcan
 1
 0 7
 2
-0 42 7 22
 0 32 3 1
+0 42 7 22
 1
 end_operator
 begin_operator
@@ -210769,8 +210769,8 @@ overcome sciatica curiosity guava pluto jupiter
 1
 0 7
 2
-0 42 7 22
 0 32 0 2
+0 42 7 22
 1
 end_operator
 begin_operator
@@ -210778,8 +210778,8 @@ overcome sciatica curiosity guava vulcan pluto
 1
 0 7
 2
-0 42 7 22
 0 32 2 3
+0 42 7 22
 1
 end_operator
 begin_operator
@@ -210787,8 +210787,8 @@ overcome sciatica curiosity haroset neptune vulcan
 1
 0 8
 2
-0 42 8 22
 0 32 3 1
+0 42 8 22
 1
 end_operator
 begin_operator
@@ -210796,8 +210796,8 @@ overcome sciatica curiosity haroset pluto jupiter
 1
 0 8
 2
-0 42 8 22
 0 32 0 2
+0 42 8 22
 1
 end_operator
 begin_operator
@@ -210805,8 +210805,8 @@ overcome sciatica curiosity haroset vulcan pluto
 1
 0 8
 2
-0 42 8 22
 0 32 2 3
+0 42 8 22
 1
 end_operator
 begin_operator
@@ -210814,8 +210814,8 @@ overcome sciatica curiosity hotdog neptune vulcan
 1
 0 9
 2
-0 42 9 22
 0 32 3 1
+0 42 9 22
 1
 end_operator
 begin_operator
@@ -210823,8 +210823,8 @@ overcome sciatica curiosity hotdog pluto jupiter
 1
 0 9
 2
-0 42 9 22
 0 32 0 2
+0 42 9 22
 1
 end_operator
 begin_operator
@@ -210832,8 +210832,8 @@ overcome sciatica curiosity hotdog vulcan pluto
 1
 0 9
 2
-0 42 9 22
 0 32 2 3
+0 42 9 22
 1
 end_operator
 begin_operator
@@ -210841,8 +210841,8 @@ overcome sciatica curiosity lemon neptune vulcan
 1
 0 10
 2
-0 42 10 22
 0 32 3 1
+0 42 10 22
 1
 end_operator
 begin_operator
@@ -210850,8 +210850,8 @@ overcome sciatica curiosity lemon pluto jupiter
 1
 0 10
 2
-0 42 10 22
 0 32 0 2
+0 42 10 22
 1
 end_operator
 begin_operator
@@ -210859,8 +210859,8 @@ overcome sciatica curiosity lemon vulcan pluto
 1
 0 10
 2
-0 42 10 22
 0 32 2 3
+0 42 10 22
 1
 end_operator
 begin_operator
@@ -210868,8 +210868,8 @@ overcome sciatica curiosity marzipan neptune vulcan
 1
 0 11
 2
-0 42 11 22
 0 32 3 1
+0 42 11 22
 1
 end_operator
 begin_operator
@@ -210877,8 +210877,8 @@ overcome sciatica curiosity marzipan pluto jupiter
 1
 0 11
 2
-0 42 11 22
 0 32 0 2
+0 42 11 22
 1
 end_operator
 begin_operator
@@ -210886,8 +210886,8 @@ overcome sciatica curiosity marzipan vulcan pluto
 1
 0 11
 2
-0 42 11 22
 0 32 2 3
+0 42 11 22
 1
 end_operator
 begin_operator
@@ -210895,8 +210895,8 @@ overcome sciatica curiosity orange neptune vulcan
 1
 0 12
 2
-0 42 12 22
 0 32 3 1
+0 42 12 22
 1
 end_operator
 begin_operator
@@ -210904,8 +210904,8 @@ overcome sciatica curiosity orange pluto jupiter
 1
 0 12
 2
-0 42 12 22
 0 32 0 2
+0 42 12 22
 1
 end_operator
 begin_operator
@@ -210913,8 +210913,8 @@ overcome sciatica curiosity orange vulcan pluto
 1
 0 12
 2
-0 42 12 22
 0 32 2 3
+0 42 12 22
 1
 end_operator
 begin_operator
@@ -210922,8 +210922,8 @@ overcome sciatica curiosity pea neptune vulcan
 1
 0 13
 2
-0 42 13 22
 0 32 3 1
+0 42 13 22
 1
 end_operator
 begin_operator
@@ -210931,8 +210931,8 @@ overcome sciatica curiosity pea pluto jupiter
 1
 0 13
 2
-0 42 13 22
 0 32 0 2
+0 42 13 22
 1
 end_operator
 begin_operator
@@ -210940,8 +210940,8 @@ overcome sciatica curiosity pea vulcan pluto
 1
 0 13
 2
-0 42 13 22
 0 32 2 3
+0 42 13 22
 1
 end_operator
 begin_operator
@@ -210949,8 +210949,8 @@ overcome sciatica curiosity pepper neptune vulcan
 1
 0 14
 2
-0 42 14 22
 0 32 3 1
+0 42 14 22
 1
 end_operator
 begin_operator
@@ -210958,8 +210958,8 @@ overcome sciatica curiosity pepper pluto jupiter
 1
 0 14
 2
-0 42 14 22
 0 32 0 2
+0 42 14 22
 1
 end_operator
 begin_operator
@@ -210967,8 +210967,8 @@ overcome sciatica curiosity pepper vulcan pluto
 1
 0 14
 2
-0 42 14 22
 0 32 2 3
+0 42 14 22
 1
 end_operator
 begin_operator
@@ -210976,8 +210976,8 @@ overcome sciatica curiosity potato neptune vulcan
 1
 0 15
 2
-0 42 15 22
 0 32 3 1
+0 42 15 22
 1
 end_operator
 begin_operator
@@ -210985,8 +210985,8 @@ overcome sciatica curiosity potato pluto jupiter
 1
 0 15
 2
-0 42 15 22
 0 32 0 2
+0 42 15 22
 1
 end_operator
 begin_operator
@@ -210994,8 +210994,8 @@ overcome sciatica curiosity potato vulcan pluto
 1
 0 15
 2
-0 42 15 22
 0 32 2 3
+0 42 15 22
 1
 end_operator
 begin_operator
@@ -211003,8 +211003,8 @@ overcome sciatica curiosity rice neptune vulcan
 1
 0 16
 2
-0 42 16 22
 0 32 3 1
+0 42 16 22
 1
 end_operator
 begin_operator
@@ -211012,8 +211012,8 @@ overcome sciatica curiosity rice pluto jupiter
 1
 0 16
 2
-0 42 16 22
 0 32 0 2
+0 42 16 22
 1
 end_operator
 begin_operator
@@ -211021,8 +211021,8 @@ overcome sciatica curiosity rice vulcan pluto
 1
 0 16
 2
-0 42 16 22
 0 32 2 3
+0 42 16 22
 1
 end_operator
 begin_operator
@@ -211030,8 +211030,8 @@ overcome sciatica curiosity scallop neptune vulcan
 1
 0 17
 2
-0 42 17 22
 0 32 3 1
+0 42 17 22
 1
 end_operator
 begin_operator
@@ -211039,8 +211039,8 @@ overcome sciatica curiosity scallop pluto jupiter
 1
 0 17
 2
-0 42 17 22
 0 32 0 2
+0 42 17 22
 1
 end_operator
 begin_operator
@@ -211048,8 +211048,8 @@ overcome sciatica curiosity scallop vulcan pluto
 1
 0 17
 2
-0 42 17 22
 0 32 2 3
+0 42 17 22
 1
 end_operator
 begin_operator
@@ -211057,8 +211057,8 @@ overcome sciatica curiosity tofu neptune vulcan
 1
 0 18
 2
-0 42 18 22
 0 32 3 1
+0 42 18 22
 1
 end_operator
 begin_operator
@@ -211066,8 +211066,8 @@ overcome sciatica curiosity tofu pluto jupiter
 1
 0 18
 2
-0 42 18 22
 0 32 0 2
+0 42 18 22
 1
 end_operator
 begin_operator
@@ -211075,8 +211075,8 @@ overcome sciatica curiosity tofu vulcan pluto
 1
 0 18
 2
-0 42 18 22
 0 32 2 3
+0 42 18 22
 1
 end_operator
 begin_operator
@@ -211084,8 +211084,8 @@ overcome sciatica curiosity turkey neptune vulcan
 1
 0 19
 2
-0 42 19 22
 0 32 3 1
+0 42 19 22
 1
 end_operator
 begin_operator
@@ -211093,8 +211093,8 @@ overcome sciatica curiosity turkey pluto jupiter
 1
 0 19
 2
-0 42 19 22
 0 32 0 2
+0 42 19 22
 1
 end_operator
 begin_operator
@@ -211102,8 +211102,8 @@ overcome sciatica curiosity turkey vulcan pluto
 1
 0 19
 2
-0 42 19 22
 0 32 2 3
+0 42 19 22
 1
 end_operator
 begin_operator
@@ -211111,8 +211111,8 @@ overcome sciatica curiosity wonderbread neptune vulcan
 1
 0 20
 2
-0 42 20 22
 0 32 3 1
+0 42 20 22
 1
 end_operator
 begin_operator
@@ -211120,8 +211120,8 @@ overcome sciatica curiosity wonderbread pluto jupiter
 1
 0 20
 2
-0 42 20 22
 0 32 0 2
+0 42 20 22
 1
 end_operator
 begin_operator
@@ -211129,8 +211129,8 @@ overcome sciatica curiosity wonderbread vulcan pluto
 1
 0 20
 2
-0 42 20 22
 0 32 2 3
+0 42 20 22
 1
 end_operator
 begin_operator
@@ -211138,8 +211138,8 @@ overcome sciatica curiosity wurst neptune vulcan
 1
 0 21
 2
-0 42 21 22
 0 32 3 1
+0 42 21 22
 1
 end_operator
 begin_operator
@@ -211147,8 +211147,8 @@ overcome sciatica curiosity wurst pluto jupiter
 1
 0 21
 2
-0 42 21 22
 0 32 0 2
+0 42 21 22
 1
 end_operator
 begin_operator
@@ -211156,8 +211156,8 @@ overcome sciatica curiosity wurst vulcan pluto
 1
 0 21
 2
-0 42 21 22
 0 32 2 3
+0 42 21 22
 1
 end_operator
 begin_operator
@@ -211165,8 +211165,8 @@ overcome sciatica entertainment bacon neptune vulcan
 1
 1 0
 2
-0 42 0 23
 0 33 3 1
+0 42 0 23
 1
 end_operator
 begin_operator
@@ -211174,8 +211174,8 @@ overcome sciatica entertainment bacon pluto jupiter
 1
 1 0
 2
-0 42 0 23
 0 33 0 2
+0 42 0 23
 1
 end_operator
 begin_operator
@@ -211183,8 +211183,8 @@ overcome sciatica entertainment bacon vulcan pluto
 1
 1 0
 2
-0 42 0 23
 0 33 2 3
+0 42 0 23
 1
 end_operator
 begin_operator
@@ -211192,8 +211192,8 @@ overcome sciatica entertainment broccoli neptune vulcan
 1
 1 1
 2
-0 42 1 23
 0 33 3 1
+0 42 1 23
 1
 end_operator
 begin_operator
@@ -211201,8 +211201,8 @@ overcome sciatica entertainment broccoli pluto jupiter
 1
 1 1
 2
-0 42 1 23
 0 33 0 2
+0 42 1 23
 1
 end_operator
 begin_operator
@@ -211210,8 +211210,8 @@ overcome sciatica entertainment broccoli vulcan pluto
 1
 1 1
 2
-0 42 1 23
 0 33 2 3
+0 42 1 23
 1
 end_operator
 begin_operator
@@ -211219,8 +211219,8 @@ overcome sciatica entertainment cantelope neptune vulcan
 1
 1 2
 2
-0 42 2 23
 0 33 3 1
+0 42 2 23
 1
 end_operator
 begin_operator
@@ -211228,8 +211228,8 @@ overcome sciatica entertainment cantelope pluto jupiter
 1
 1 2
 2
-0 42 2 23
 0 33 0 2
+0 42 2 23
 1
 end_operator
 begin_operator
@@ -211237,8 +211237,8 @@ overcome sciatica entertainment cantelope vulcan pluto
 1
 1 2
 2
-0 42 2 23
 0 33 2 3
+0 42 2 23
 1
 end_operator
 begin_operator
@@ -211246,8 +211246,8 @@ overcome sciatica entertainment chicken neptune vulcan
 1
 1 3
 2
-0 42 3 23
 0 33 3 1
+0 42 3 23
 1
 end_operator
 begin_operator
@@ -211255,8 +211255,8 @@ overcome sciatica entertainment chicken pluto jupiter
 1
 1 3
 2
-0 42 3 23
 0 33 0 2
+0 42 3 23
 1
 end_operator
 begin_operator
@@ -211264,8 +211264,8 @@ overcome sciatica entertainment chicken vulcan pluto
 1
 1 3
 2
-0 42 3 23
 0 33 2 3
+0 42 3 23
 1
 end_operator
 begin_operator
@@ -211273,8 +211273,8 @@ overcome sciatica entertainment chocolate neptune vulcan
 1
 1 4
 2
-0 42 4 23
 0 33 3 1
+0 42 4 23
 1
 end_operator
 begin_operator
@@ -211282,8 +211282,8 @@ overcome sciatica entertainment chocolate pluto jupiter
 1
 1 4
 2
-0 42 4 23
 0 33 0 2
+0 42 4 23
 1
 end_operator
 begin_operator
@@ -211291,8 +211291,8 @@ overcome sciatica entertainment chocolate vulcan pluto
 1
 1 4
 2
-0 42 4 23
 0 33 2 3
+0 42 4 23
 1
 end_operator
 begin_operator
@@ -211300,8 +211300,8 @@ overcome sciatica entertainment cucumber neptune vulcan
 1
 1 5
 2
-0 42 5 23
 0 33 3 1
+0 42 5 23
 1
 end_operator
 begin_operator
@@ -211309,8 +211309,8 @@ overcome sciatica entertainment cucumber pluto jupiter
 1
 1 5
 2
-0 42 5 23
 0 33 0 2
+0 42 5 23
 1
 end_operator
 begin_operator
@@ -211318,8 +211318,8 @@ overcome sciatica entertainment cucumber vulcan pluto
 1
 1 5
 2
-0 42 5 23
 0 33 2 3
+0 42 5 23
 1
 end_operator
 begin_operator
@@ -211327,8 +211327,8 @@ overcome sciatica entertainment endive neptune vulcan
 1
 1 6
 2
-0 42 6 23
 0 33 3 1
+0 42 6 23
 1
 end_operator
 begin_operator
@@ -211336,8 +211336,8 @@ overcome sciatica entertainment endive pluto jupiter
 1
 1 6
 2
-0 42 6 23
 0 33 0 2
+0 42 6 23
 1
 end_operator
 begin_operator
@@ -211345,8 +211345,8 @@ overcome sciatica entertainment endive vulcan pluto
 1
 1 6
 2
-0 42 6 23
 0 33 2 3
+0 42 6 23
 1
 end_operator
 begin_operator
@@ -211354,8 +211354,8 @@ overcome sciatica entertainment guava neptune vulcan
 1
 1 7
 2
-0 42 7 23
 0 33 3 1
+0 42 7 23
 1
 end_operator
 begin_operator
@@ -211363,8 +211363,8 @@ overcome sciatica entertainment guava pluto jupiter
 1
 1 7
 2
-0 42 7 23
 0 33 0 2
+0 42 7 23
 1
 end_operator
 begin_operator
@@ -211372,8 +211372,8 @@ overcome sciatica entertainment guava vulcan pluto
 1
 1 7
 2
-0 42 7 23
 0 33 2 3
+0 42 7 23
 1
 end_operator
 begin_operator
@@ -211381,8 +211381,8 @@ overcome sciatica entertainment haroset neptune vulcan
 1
 1 8
 2
-0 42 8 23
 0 33 3 1
+0 42 8 23
 1
 end_operator
 begin_operator
@@ -211390,8 +211390,8 @@ overcome sciatica entertainment haroset pluto jupiter
 1
 1 8
 2
-0 42 8 23
 0 33 0 2
+0 42 8 23
 1
 end_operator
 begin_operator
@@ -211399,8 +211399,8 @@ overcome sciatica entertainment haroset vulcan pluto
 1
 1 8
 2
-0 42 8 23
 0 33 2 3
+0 42 8 23
 1
 end_operator
 begin_operator
@@ -211408,8 +211408,8 @@ overcome sciatica entertainment hotdog neptune vulcan
 1
 1 9
 2
-0 42 9 23
 0 33 3 1
+0 42 9 23
 1
 end_operator
 begin_operator
@@ -211417,8 +211417,8 @@ overcome sciatica entertainment hotdog pluto jupiter
 1
 1 9
 2
-0 42 9 23
 0 33 0 2
+0 42 9 23
 1
 end_operator
 begin_operator
@@ -211426,8 +211426,8 @@ overcome sciatica entertainment hotdog vulcan pluto
 1
 1 9
 2
-0 42 9 23
 0 33 2 3
+0 42 9 23
 1
 end_operator
 begin_operator
@@ -211435,8 +211435,8 @@ overcome sciatica entertainment lemon neptune vulcan
 1
 1 10
 2
-0 42 10 23
 0 33 3 1
+0 42 10 23
 1
 end_operator
 begin_operator
@@ -211444,8 +211444,8 @@ overcome sciatica entertainment lemon pluto jupiter
 1
 1 10
 2
-0 42 10 23
 0 33 0 2
+0 42 10 23
 1
 end_operator
 begin_operator
@@ -211453,8 +211453,8 @@ overcome sciatica entertainment lemon vulcan pluto
 1
 1 10
 2
-0 42 10 23
 0 33 2 3
+0 42 10 23
 1
 end_operator
 begin_operator
@@ -211462,8 +211462,8 @@ overcome sciatica entertainment marzipan neptune vulcan
 1
 1 11
 2
-0 42 11 23
 0 33 3 1
+0 42 11 23
 1
 end_operator
 begin_operator
@@ -211471,8 +211471,8 @@ overcome sciatica entertainment marzipan pluto jupiter
 1
 1 11
 2
-0 42 11 23
 0 33 0 2
+0 42 11 23
 1
 end_operator
 begin_operator
@@ -211480,8 +211480,8 @@ overcome sciatica entertainment marzipan vulcan pluto
 1
 1 11
 2
-0 42 11 23
 0 33 2 3
+0 42 11 23
 1
 end_operator
 begin_operator
@@ -211489,8 +211489,8 @@ overcome sciatica entertainment orange neptune vulcan
 1
 1 12
 2
-0 42 12 23
 0 33 3 1
+0 42 12 23
 1
 end_operator
 begin_operator
@@ -211498,8 +211498,8 @@ overcome sciatica entertainment orange pluto jupiter
 1
 1 12
 2
-0 42 12 23
 0 33 0 2
+0 42 12 23
 1
 end_operator
 begin_operator
@@ -211507,8 +211507,8 @@ overcome sciatica entertainment orange vulcan pluto
 1
 1 12
 2
-0 42 12 23
 0 33 2 3
+0 42 12 23
 1
 end_operator
 begin_operator
@@ -211516,8 +211516,8 @@ overcome sciatica entertainment pea neptune vulcan
 1
 1 13
 2
-0 42 13 23
 0 33 3 1
+0 42 13 23
 1
 end_operator
 begin_operator
@@ -211525,8 +211525,8 @@ overcome sciatica entertainment pea pluto jupiter
 1
 1 13
 2
-0 42 13 23
 0 33 0 2
+0 42 13 23
 1
 end_operator
 begin_operator
@@ -211534,8 +211534,8 @@ overcome sciatica entertainment pea vulcan pluto
 1
 1 13
 2
-0 42 13 23
 0 33 2 3
+0 42 13 23
 1
 end_operator
 begin_operator
@@ -211543,8 +211543,8 @@ overcome sciatica entertainment pepper neptune vulcan
 1
 1 14
 2
-0 42 14 23
 0 33 3 1
+0 42 14 23
 1
 end_operator
 begin_operator
@@ -211552,8 +211552,8 @@ overcome sciatica entertainment pepper pluto jupiter
 1
 1 14
 2
-0 42 14 23
 0 33 0 2
+0 42 14 23
 1
 end_operator
 begin_operator
@@ -211561,8 +211561,8 @@ overcome sciatica entertainment pepper vulcan pluto
 1
 1 14
 2
-0 42 14 23
 0 33 2 3
+0 42 14 23
 1
 end_operator
 begin_operator
@@ -211570,8 +211570,8 @@ overcome sciatica entertainment potato neptune vulcan
 1
 1 15
 2
-0 42 15 23
 0 33 3 1
+0 42 15 23
 1
 end_operator
 begin_operator
@@ -211579,8 +211579,8 @@ overcome sciatica entertainment potato pluto jupiter
 1
 1 15
 2
-0 42 15 23
 0 33 0 2
+0 42 15 23
 1
 end_operator
 begin_operator
@@ -211588,8 +211588,8 @@ overcome sciatica entertainment potato vulcan pluto
 1
 1 15
 2
-0 42 15 23
 0 33 2 3
+0 42 15 23
 1
 end_operator
 begin_operator
@@ -211597,8 +211597,8 @@ overcome sciatica entertainment rice neptune vulcan
 1
 1 16
 2
-0 42 16 23
 0 33 3 1
+0 42 16 23
 1
 end_operator
 begin_operator
@@ -211606,8 +211606,8 @@ overcome sciatica entertainment rice pluto jupiter
 1
 1 16
 2
-0 42 16 23
 0 33 0 2
+0 42 16 23
 1
 end_operator
 begin_operator
@@ -211615,8 +211615,8 @@ overcome sciatica entertainment rice vulcan pluto
 1
 1 16
 2
-0 42 16 23
 0 33 2 3
+0 42 16 23
 1
 end_operator
 begin_operator
@@ -211624,8 +211624,8 @@ overcome sciatica entertainment scallop neptune vulcan
 1
 1 17
 2
-0 42 17 23
 0 33 3 1
+0 42 17 23
 1
 end_operator
 begin_operator
@@ -211633,8 +211633,8 @@ overcome sciatica entertainment scallop pluto jupiter
 1
 1 17
 2
-0 42 17 23
 0 33 0 2
+0 42 17 23
 1
 end_operator
 begin_operator
@@ -211642,8 +211642,8 @@ overcome sciatica entertainment scallop vulcan pluto
 1
 1 17
 2
-0 42 17 23
 0 33 2 3
+0 42 17 23
 1
 end_operator
 begin_operator
@@ -211651,8 +211651,8 @@ overcome sciatica entertainment tofu neptune vulcan
 1
 1 18
 2
-0 42 18 23
 0 33 3 1
+0 42 18 23
 1
 end_operator
 begin_operator
@@ -211660,8 +211660,8 @@ overcome sciatica entertainment tofu pluto jupiter
 1
 1 18
 2
-0 42 18 23
 0 33 0 2
+0 42 18 23
 1
 end_operator
 begin_operator
@@ -211669,8 +211669,8 @@ overcome sciatica entertainment tofu vulcan pluto
 1
 1 18
 2
-0 42 18 23
 0 33 2 3
+0 42 18 23
 1
 end_operator
 begin_operator
@@ -211678,8 +211678,8 @@ overcome sciatica entertainment turkey neptune vulcan
 1
 1 19
 2
-0 42 19 23
 0 33 3 1
+0 42 19 23
 1
 end_operator
 begin_operator
@@ -211687,8 +211687,8 @@ overcome sciatica entertainment turkey pluto jupiter
 1
 1 19
 2
-0 42 19 23
 0 33 0 2
+0 42 19 23
 1
 end_operator
 begin_operator
@@ -211696,8 +211696,8 @@ overcome sciatica entertainment turkey vulcan pluto
 1
 1 19
 2
-0 42 19 23
 0 33 2 3
+0 42 19 23
 1
 end_operator
 begin_operator
@@ -211705,8 +211705,8 @@ overcome sciatica entertainment wonderbread neptune vulcan
 1
 1 20
 2
-0 42 20 23
 0 33 3 1
+0 42 20 23
 1
 end_operator
 begin_operator
@@ -211714,8 +211714,8 @@ overcome sciatica entertainment wonderbread pluto jupiter
 1
 1 20
 2
-0 42 20 23
 0 33 0 2
+0 42 20 23
 1
 end_operator
 begin_operator
@@ -211723,8 +211723,8 @@ overcome sciatica entertainment wonderbread vulcan pluto
 1
 1 20
 2
-0 42 20 23
 0 33 2 3
+0 42 20 23
 1
 end_operator
 begin_operator
@@ -211732,8 +211732,8 @@ overcome sciatica entertainment wurst neptune vulcan
 1
 1 21
 2
-0 42 21 23
 0 33 3 1
+0 42 21 23
 1
 end_operator
 begin_operator
@@ -211741,8 +211741,8 @@ overcome sciatica entertainment wurst pluto jupiter
 1
 1 21
 2
-0 42 21 23
 0 33 0 2
+0 42 21 23
 1
 end_operator
 begin_operator
@@ -211750,8 +211750,8 @@ overcome sciatica entertainment wurst vulcan pluto
 1
 1 21
 2
-0 42 21 23
 0 33 2 3
+0 42 21 23
 1
 end_operator
 begin_operator
@@ -211759,8 +211759,8 @@ overcome sciatica expectation bacon neptune vulcan
 1
 2 0
 2
-0 42 0 24
 0 36 3 1
+0 42 0 24
 1
 end_operator
 begin_operator
@@ -211768,8 +211768,8 @@ overcome sciatica expectation bacon pluto jupiter
 1
 2 0
 2
-0 42 0 24
 0 36 0 2
+0 42 0 24
 1
 end_operator
 begin_operator
@@ -211777,8 +211777,8 @@ overcome sciatica expectation bacon vulcan pluto
 1
 2 0
 2
-0 42 0 24
 0 36 2 3
+0 42 0 24
 1
 end_operator
 begin_operator
@@ -211786,8 +211786,8 @@ overcome sciatica expectation broccoli neptune vulcan
 1
 2 1
 2
-0 42 1 24
 0 36 3 1
+0 42 1 24
 1
 end_operator
 begin_operator
@@ -211795,8 +211795,8 @@ overcome sciatica expectation broccoli pluto jupiter
 1
 2 1
 2
-0 42 1 24
 0 36 0 2
+0 42 1 24
 1
 end_operator
 begin_operator
@@ -211804,8 +211804,8 @@ overcome sciatica expectation broccoli vulcan pluto
 1
 2 1
 2
-0 42 1 24
 0 36 2 3
+0 42 1 24
 1
 end_operator
 begin_operator
@@ -211813,8 +211813,8 @@ overcome sciatica expectation cantelope neptune vulcan
 1
 2 2
 2
-0 42 2 24
 0 36 3 1
+0 42 2 24
 1
 end_operator
 begin_operator
@@ -211822,8 +211822,8 @@ overcome sciatica expectation cantelope pluto jupiter
 1
 2 2
 2
-0 42 2 24
 0 36 0 2
+0 42 2 24
 1
 end_operator
 begin_operator
@@ -211831,8 +211831,8 @@ overcome sciatica expectation cantelope vulcan pluto
 1
 2 2
 2
-0 42 2 24
 0 36 2 3
+0 42 2 24
 1
 end_operator
 begin_operator
@@ -211840,8 +211840,8 @@ overcome sciatica expectation chicken neptune vulcan
 1
 2 3
 2
-0 42 3 24
 0 36 3 1
+0 42 3 24
 1
 end_operator
 begin_operator
@@ -211849,8 +211849,8 @@ overcome sciatica expectation chicken pluto jupiter
 1
 2 3
 2
-0 42 3 24
 0 36 0 2
+0 42 3 24
 1
 end_operator
 begin_operator
@@ -211858,8 +211858,8 @@ overcome sciatica expectation chicken vulcan pluto
 1
 2 3
 2
-0 42 3 24
 0 36 2 3
+0 42 3 24
 1
 end_operator
 begin_operator
@@ -211867,8 +211867,8 @@ overcome sciatica expectation chocolate neptune vulcan
 1
 2 4
 2
-0 42 4 24
 0 36 3 1
+0 42 4 24
 1
 end_operator
 begin_operator
@@ -211876,8 +211876,8 @@ overcome sciatica expectation chocolate pluto jupiter
 1
 2 4
 2
-0 42 4 24
 0 36 0 2
+0 42 4 24
 1
 end_operator
 begin_operator
@@ -211885,8 +211885,8 @@ overcome sciatica expectation chocolate vulcan pluto
 1
 2 4
 2
-0 42 4 24
 0 36 2 3
+0 42 4 24
 1
 end_operator
 begin_operator
@@ -211894,8 +211894,8 @@ overcome sciatica expectation cucumber neptune vulcan
 1
 2 5
 2
-0 42 5 24
 0 36 3 1
+0 42 5 24
 1
 end_operator
 begin_operator
@@ -211903,8 +211903,8 @@ overcome sciatica expectation cucumber pluto jupiter
 1
 2 5
 2
-0 42 5 24
 0 36 0 2
+0 42 5 24
 1
 end_operator
 begin_operator
@@ -211912,8 +211912,8 @@ overcome sciatica expectation cucumber vulcan pluto
 1
 2 5
 2
-0 42 5 24
 0 36 2 3
+0 42 5 24
 1
 end_operator
 begin_operator
@@ -211921,8 +211921,8 @@ overcome sciatica expectation endive neptune vulcan
 1
 2 6
 2
-0 42 6 24
 0 36 3 1
+0 42 6 24
 1
 end_operator
 begin_operator
@@ -211930,8 +211930,8 @@ overcome sciatica expectation endive pluto jupiter
 1
 2 6
 2
-0 42 6 24
 0 36 0 2
+0 42 6 24
 1
 end_operator
 begin_operator
@@ -211939,8 +211939,8 @@ overcome sciatica expectation endive vulcan pluto
 1
 2 6
 2
-0 42 6 24
 0 36 2 3
+0 42 6 24
 1
 end_operator
 begin_operator
@@ -211948,8 +211948,8 @@ overcome sciatica expectation guava neptune vulcan
 1
 2 7
 2
-0 42 7 24
 0 36 3 1
+0 42 7 24
 1
 end_operator
 begin_operator
@@ -211957,8 +211957,8 @@ overcome sciatica expectation guava pluto jupiter
 1
 2 7
 2
-0 42 7 24
 0 36 0 2
+0 42 7 24
 1
 end_operator
 begin_operator
@@ -211966,8 +211966,8 @@ overcome sciatica expectation guava vulcan pluto
 1
 2 7
 2
-0 42 7 24
 0 36 2 3
+0 42 7 24
 1
 end_operator
 begin_operator
@@ -211975,8 +211975,8 @@ overcome sciatica expectation haroset neptune vulcan
 1
 2 8
 2
-0 42 8 24
 0 36 3 1
+0 42 8 24
 1
 end_operator
 begin_operator
@@ -211984,8 +211984,8 @@ overcome sciatica expectation haroset pluto jupiter
 1
 2 8
 2
-0 42 8 24
 0 36 0 2
+0 42 8 24
 1
 end_operator
 begin_operator
@@ -211993,8 +211993,8 @@ overcome sciatica expectation haroset vulcan pluto
 1
 2 8
 2
-0 42 8 24
 0 36 2 3
+0 42 8 24
 1
 end_operator
 begin_operator
@@ -212002,8 +212002,8 @@ overcome sciatica expectation hotdog neptune vulcan
 1
 2 9
 2
-0 42 9 24
 0 36 3 1
+0 42 9 24
 1
 end_operator
 begin_operator
@@ -212011,8 +212011,8 @@ overcome sciatica expectation hotdog pluto jupiter
 1
 2 9
 2
-0 42 9 24
 0 36 0 2
+0 42 9 24
 1
 end_operator
 begin_operator
@@ -212020,8 +212020,8 @@ overcome sciatica expectation hotdog vulcan pluto
 1
 2 9
 2
-0 42 9 24
 0 36 2 3
+0 42 9 24
 1
 end_operator
 begin_operator
@@ -212029,8 +212029,8 @@ overcome sciatica expectation lemon neptune vulcan
 1
 2 10
 2
-0 42 10 24
 0 36 3 1
+0 42 10 24
 1
 end_operator
 begin_operator
@@ -212038,8 +212038,8 @@ overcome sciatica expectation lemon pluto jupiter
 1
 2 10
 2
-0 42 10 24
 0 36 0 2
+0 42 10 24
 1
 end_operator
 begin_operator
@@ -212047,8 +212047,8 @@ overcome sciatica expectation lemon vulcan pluto
 1
 2 10
 2
-0 42 10 24
 0 36 2 3
+0 42 10 24
 1
 end_operator
 begin_operator
@@ -212056,8 +212056,8 @@ overcome sciatica expectation marzipan neptune vulcan
 1
 2 11
 2
-0 42 11 24
 0 36 3 1
+0 42 11 24
 1
 end_operator
 begin_operator
@@ -212065,8 +212065,8 @@ overcome sciatica expectation marzipan pluto jupiter
 1
 2 11
 2
-0 42 11 24
 0 36 0 2
+0 42 11 24
 1
 end_operator
 begin_operator
@@ -212074,8 +212074,8 @@ overcome sciatica expectation marzipan vulcan pluto
 1
 2 11
 2
-0 42 11 24
 0 36 2 3
+0 42 11 24
 1
 end_operator
 begin_operator
@@ -212083,8 +212083,8 @@ overcome sciatica expectation orange neptune vulcan
 1
 2 12
 2
-0 42 12 24
 0 36 3 1
+0 42 12 24
 1
 end_operator
 begin_operator
@@ -212092,8 +212092,8 @@ overcome sciatica expectation orange pluto jupiter
 1
 2 12
 2
-0 42 12 24
 0 36 0 2
+0 42 12 24
 1
 end_operator
 begin_operator
@@ -212101,8 +212101,8 @@ overcome sciatica expectation orange vulcan pluto
 1
 2 12
 2
-0 42 12 24
 0 36 2 3
+0 42 12 24
 1
 end_operator
 begin_operator
@@ -212110,8 +212110,8 @@ overcome sciatica expectation pea neptune vulcan
 1
 2 13
 2
-0 42 13 24
 0 36 3 1
+0 42 13 24
 1
 end_operator
 begin_operator
@@ -212119,8 +212119,8 @@ overcome sciatica expectation pea pluto jupiter
 1
 2 13
 2
-0 42 13 24
 0 36 0 2
+0 42 13 24
 1
 end_operator
 begin_operator
@@ -212128,8 +212128,8 @@ overcome sciatica expectation pea vulcan pluto
 1
 2 13
 2
-0 42 13 24
 0 36 2 3
+0 42 13 24
 1
 end_operator
 begin_operator
@@ -212137,8 +212137,8 @@ overcome sciatica expectation pepper neptune vulcan
 1
 2 14
 2
-0 42 14 24
 0 36 3 1
+0 42 14 24
 1
 end_operator
 begin_operator
@@ -212146,8 +212146,8 @@ overcome sciatica expectation pepper pluto jupiter
 1
 2 14
 2
-0 42 14 24
 0 36 0 2
+0 42 14 24
 1
 end_operator
 begin_operator
@@ -212155,8 +212155,8 @@ overcome sciatica expectation pepper vulcan pluto
 1
 2 14
 2
-0 42 14 24
 0 36 2 3
+0 42 14 24
 1
 end_operator
 begin_operator
@@ -212164,8 +212164,8 @@ overcome sciatica expectation potato neptune vulcan
 1
 2 15
 2
-0 42 15 24
 0 36 3 1
+0 42 15 24
 1
 end_operator
 begin_operator
@@ -212173,8 +212173,8 @@ overcome sciatica expectation potato pluto jupiter
 1
 2 15
 2
-0 42 15 24
 0 36 0 2
+0 42 15 24
 1
 end_operator
 begin_operator
@@ -212182,8 +212182,8 @@ overcome sciatica expectation potato vulcan pluto
 1
 2 15
 2
-0 42 15 24
 0 36 2 3
+0 42 15 24
 1
 end_operator
 begin_operator
@@ -212191,8 +212191,8 @@ overcome sciatica expectation rice neptune vulcan
 1
 2 16
 2
-0 42 16 24
 0 36 3 1
+0 42 16 24
 1
 end_operator
 begin_operator
@@ -212200,8 +212200,8 @@ overcome sciatica expectation rice pluto jupiter
 1
 2 16
 2
-0 42 16 24
 0 36 0 2
+0 42 16 24
 1
 end_operator
 begin_operator
@@ -212209,8 +212209,8 @@ overcome sciatica expectation rice vulcan pluto
 1
 2 16
 2
-0 42 16 24
 0 36 2 3
+0 42 16 24
 1
 end_operator
 begin_operator
@@ -212218,8 +212218,8 @@ overcome sciatica expectation scallop neptune vulcan
 1
 2 17
 2
-0 42 17 24
 0 36 3 1
+0 42 17 24
 1
 end_operator
 begin_operator
@@ -212227,8 +212227,8 @@ overcome sciatica expectation scallop pluto jupiter
 1
 2 17
 2
-0 42 17 24
 0 36 0 2
+0 42 17 24
 1
 end_operator
 begin_operator
@@ -212236,8 +212236,8 @@ overcome sciatica expectation scallop vulcan pluto
 1
 2 17
 2
-0 42 17 24
 0 36 2 3
+0 42 17 24
 1
 end_operator
 begin_operator
@@ -212245,8 +212245,8 @@ overcome sciatica expectation tofu neptune vulcan
 1
 2 18
 2
-0 42 18 24
 0 36 3 1
+0 42 18 24
 1
 end_operator
 begin_operator
@@ -212254,8 +212254,8 @@ overcome sciatica expectation tofu pluto jupiter
 1
 2 18
 2
-0 42 18 24
 0 36 0 2
+0 42 18 24
 1
 end_operator
 begin_operator
@@ -212263,8 +212263,8 @@ overcome sciatica expectation tofu vulcan pluto
 1
 2 18
 2
-0 42 18 24
 0 36 2 3
+0 42 18 24
 1
 end_operator
 begin_operator
@@ -212272,8 +212272,8 @@ overcome sciatica expectation turkey neptune vulcan
 1
 2 19
 2
-0 42 19 24
 0 36 3 1
+0 42 19 24
 1
 end_operator
 begin_operator
@@ -212281,8 +212281,8 @@ overcome sciatica expectation turkey pluto jupiter
 1
 2 19
 2
-0 42 19 24
 0 36 0 2
+0 42 19 24
 1
 end_operator
 begin_operator
@@ -212290,8 +212290,8 @@ overcome sciatica expectation turkey vulcan pluto
 1
 2 19
 2
-0 42 19 24
 0 36 2 3
+0 42 19 24
 1
 end_operator
 begin_operator
@@ -212299,8 +212299,8 @@ overcome sciatica expectation wonderbread neptune vulcan
 1
 2 20
 2
-0 42 20 24
 0 36 3 1
+0 42 20 24
 1
 end_operator
 begin_operator
@@ -212308,8 +212308,8 @@ overcome sciatica expectation wonderbread pluto jupiter
 1
 2 20
 2
-0 42 20 24
 0 36 0 2
+0 42 20 24
 1
 end_operator
 begin_operator
@@ -212317,8 +212317,8 @@ overcome sciatica expectation wonderbread vulcan pluto
 1
 2 20
 2
-0 42 20 24
 0 36 2 3
+0 42 20 24
 1
 end_operator
 begin_operator
@@ -212326,8 +212326,8 @@ overcome sciatica expectation wurst neptune vulcan
 1
 2 21
 2
-0 42 21 24
 0 36 3 1
+0 42 21 24
 1
 end_operator
 begin_operator
@@ -212335,8 +212335,8 @@ overcome sciatica expectation wurst pluto jupiter
 1
 2 21
 2
-0 42 21 24
 0 36 0 2
+0 42 21 24
 1
 end_operator
 begin_operator
@@ -212344,8 +212344,8 @@ overcome sciatica expectation wurst vulcan pluto
 1
 2 21
 2
-0 42 21 24
 0 36 2 3
+0 42 21 24
 1
 end_operator
 begin_operator
@@ -212353,8 +212353,8 @@ overcome sciatica learning bacon neptune vulcan
 1
 3 0
 2
-0 42 0 25
 0 37 3 1
+0 42 0 25
 1
 end_operator
 begin_operator
@@ -212362,8 +212362,8 @@ overcome sciatica learning bacon pluto jupiter
 1
 3 0
 2
-0 42 0 25
 0 37 0 2
+0 42 0 25
 1
 end_operator
 begin_operator
@@ -212371,8 +212371,8 @@ overcome sciatica learning bacon vulcan pluto
 1
 3 0
 2
-0 42 0 25
 0 37 2 3
+0 42 0 25
 1
 end_operator
 begin_operator
@@ -212380,8 +212380,8 @@ overcome sciatica learning broccoli neptune vulcan
 1
 3 1
 2
-0 42 1 25
 0 37 3 1
+0 42 1 25
 1
 end_operator
 begin_operator
@@ -212389,8 +212389,8 @@ overcome sciatica learning broccoli pluto jupiter
 1
 3 1
 2
-0 42 1 25
 0 37 0 2
+0 42 1 25
 1
 end_operator
 begin_operator
@@ -212398,8 +212398,8 @@ overcome sciatica learning broccoli vulcan pluto
 1
 3 1
 2
-0 42 1 25
 0 37 2 3
+0 42 1 25
 1
 end_operator
 begin_operator
@@ -212407,8 +212407,8 @@ overcome sciatica learning cantelope neptune vulcan
 1
 3 2
 2
-0 42 2 25
 0 37 3 1
+0 42 2 25
 1
 end_operator
 begin_operator
@@ -212416,8 +212416,8 @@ overcome sciatica learning cantelope pluto jupiter
 1
 3 2
 2
-0 42 2 25
 0 37 0 2
+0 42 2 25
 1
 end_operator
 begin_operator
@@ -212425,8 +212425,8 @@ overcome sciatica learning cantelope vulcan pluto
 1
 3 2
 2
-0 42 2 25
 0 37 2 3
+0 42 2 25
 1
 end_operator
 begin_operator
@@ -212434,8 +212434,8 @@ overcome sciatica learning chicken neptune vulcan
 1
 3 3
 2
-0 42 3 25
 0 37 3 1
+0 42 3 25
 1
 end_operator
 begin_operator
@@ -212443,8 +212443,8 @@ overcome sciatica learning chicken pluto jupiter
 1
 3 3
 2
-0 42 3 25
 0 37 0 2
+0 42 3 25
 1
 end_operator
 begin_operator
@@ -212452,8 +212452,8 @@ overcome sciatica learning chicken vulcan pluto
 1
 3 3
 2
-0 42 3 25
 0 37 2 3
+0 42 3 25
 1
 end_operator
 begin_operator
@@ -212461,8 +212461,8 @@ overcome sciatica learning chocolate neptune vulcan
 1
 3 4
 2
-0 42 4 25
 0 37 3 1
+0 42 4 25
 1
 end_operator
 begin_operator
@@ -212470,8 +212470,8 @@ overcome sciatica learning chocolate pluto jupiter
 1
 3 4
 2
-0 42 4 25
 0 37 0 2
+0 42 4 25
 1
 end_operator
 begin_operator
@@ -212479,8 +212479,8 @@ overcome sciatica learning chocolate vulcan pluto
 1
 3 4
 2
-0 42 4 25
 0 37 2 3
+0 42 4 25
 1
 end_operator
 begin_operator
@@ -212488,8 +212488,8 @@ overcome sciatica learning cucumber neptune vulcan
 1
 3 5
 2
-0 42 5 25
 0 37 3 1
+0 42 5 25
 1
 end_operator
 begin_operator
@@ -212497,8 +212497,8 @@ overcome sciatica learning cucumber pluto jupiter
 1
 3 5
 2
-0 42 5 25
 0 37 0 2
+0 42 5 25
 1
 end_operator
 begin_operator
@@ -212506,8 +212506,8 @@ overcome sciatica learning cucumber vulcan pluto
 1
 3 5
 2
-0 42 5 25
 0 37 2 3
+0 42 5 25
 1
 end_operator
 begin_operator
@@ -212515,8 +212515,8 @@ overcome sciatica learning endive neptune vulcan
 1
 3 6
 2
-0 42 6 25
 0 37 3 1
+0 42 6 25
 1
 end_operator
 begin_operator
@@ -212524,8 +212524,8 @@ overcome sciatica learning endive pluto jupiter
 1
 3 6
 2
-0 42 6 25
 0 37 0 2
+0 42 6 25
 1
 end_operator
 begin_operator
@@ -212533,8 +212533,8 @@ overcome sciatica learning endive vulcan pluto
 1
 3 6
 2
-0 42 6 25
 0 37 2 3
+0 42 6 25
 1
 end_operator
 begin_operator
@@ -212542,8 +212542,8 @@ overcome sciatica learning guava neptune vulcan
 1
 3 7
 2
-0 42 7 25
 0 37 3 1
+0 42 7 25
 1
 end_operator
 begin_operator
@@ -212551,8 +212551,8 @@ overcome sciatica learning guava pluto jupiter
 1
 3 7
 2
-0 42 7 25
 0 37 0 2
+0 42 7 25
 1
 end_operator
 begin_operator
@@ -212560,8 +212560,8 @@ overcome sciatica learning guava vulcan pluto
 1
 3 7
 2
-0 42 7 25
 0 37 2 3
+0 42 7 25
 1
 end_operator
 begin_operator
@@ -212569,8 +212569,8 @@ overcome sciatica learning haroset neptune vulcan
 1
 3 8
 2
-0 42 8 25
 0 37 3 1
+0 42 8 25
 1
 end_operator
 begin_operator
@@ -212578,8 +212578,8 @@ overcome sciatica learning haroset pluto jupiter
 1
 3 8
 2
-0 42 8 25
 0 37 0 2
+0 42 8 25
 1
 end_operator
 begin_operator
@@ -212587,8 +212587,8 @@ overcome sciatica learning haroset vulcan pluto
 1
 3 8
 2
-0 42 8 25
 0 37 2 3
+0 42 8 25
 1
 end_operator
 begin_operator
@@ -212596,8 +212596,8 @@ overcome sciatica learning hotdog neptune vulcan
 1
 3 9
 2
-0 42 9 25
 0 37 3 1
+0 42 9 25
 1
 end_operator
 begin_operator
@@ -212605,8 +212605,8 @@ overcome sciatica learning hotdog pluto jupiter
 1
 3 9
 2
-0 42 9 25
 0 37 0 2
+0 42 9 25
 1
 end_operator
 begin_operator
@@ -212614,8 +212614,8 @@ overcome sciatica learning hotdog vulcan pluto
 1
 3 9
 2
-0 42 9 25
 0 37 2 3
+0 42 9 25
 1
 end_operator
 begin_operator
@@ -212623,8 +212623,8 @@ overcome sciatica learning lemon neptune vulcan
 1
 3 10
 2
-0 42 10 25
 0 37 3 1
+0 42 10 25
 1
 end_operator
 begin_operator
@@ -212632,8 +212632,8 @@ overcome sciatica learning lemon pluto jupiter
 1
 3 10
 2
-0 42 10 25
 0 37 0 2
+0 42 10 25
 1
 end_operator
 begin_operator
@@ -212641,8 +212641,8 @@ overcome sciatica learning lemon vulcan pluto
 1
 3 10
 2
-0 42 10 25
 0 37 2 3
+0 42 10 25
 1
 end_operator
 begin_operator
@@ -212650,8 +212650,8 @@ overcome sciatica learning marzipan neptune vulcan
 1
 3 11
 2
-0 42 11 25
 0 37 3 1
+0 42 11 25
 1
 end_operator
 begin_operator
@@ -212659,8 +212659,8 @@ overcome sciatica learning marzipan pluto jupiter
 1
 3 11
 2
-0 42 11 25
 0 37 0 2
+0 42 11 25
 1
 end_operator
 begin_operator
@@ -212668,8 +212668,8 @@ overcome sciatica learning marzipan vulcan pluto
 1
 3 11
 2
-0 42 11 25
 0 37 2 3
+0 42 11 25
 1
 end_operator
 begin_operator
@@ -212677,8 +212677,8 @@ overcome sciatica learning orange neptune vulcan
 1
 3 12
 2
-0 42 12 25
 0 37 3 1
+0 42 12 25
 1
 end_operator
 begin_operator
@@ -212686,8 +212686,8 @@ overcome sciatica learning orange pluto jupiter
 1
 3 12
 2
-0 42 12 25
 0 37 0 2
+0 42 12 25
 1
 end_operator
 begin_operator
@@ -212695,8 +212695,8 @@ overcome sciatica learning orange vulcan pluto
 1
 3 12
 2
-0 42 12 25
 0 37 2 3
+0 42 12 25
 1
 end_operator
 begin_operator
@@ -212704,8 +212704,8 @@ overcome sciatica learning pea neptune vulcan
 1
 3 13
 2
-0 42 13 25
 0 37 3 1
+0 42 13 25
 1
 end_operator
 begin_operator
@@ -212713,8 +212713,8 @@ overcome sciatica learning pea pluto jupiter
 1
 3 13
 2
-0 42 13 25
 0 37 0 2
+0 42 13 25
 1
 end_operator
 begin_operator
@@ -212722,8 +212722,8 @@ overcome sciatica learning pea vulcan pluto
 1
 3 13
 2
-0 42 13 25
 0 37 2 3
+0 42 13 25
 1
 end_operator
 begin_operator
@@ -212731,8 +212731,8 @@ overcome sciatica learning pepper neptune vulcan
 1
 3 14
 2
-0 42 14 25
 0 37 3 1
+0 42 14 25
 1
 end_operator
 begin_operator
@@ -212740,8 +212740,8 @@ overcome sciatica learning pepper pluto jupiter
 1
 3 14
 2
-0 42 14 25
 0 37 0 2
+0 42 14 25
 1
 end_operator
 begin_operator
@@ -212749,8 +212749,8 @@ overcome sciatica learning pepper vulcan pluto
 1
 3 14
 2
-0 42 14 25
 0 37 2 3
+0 42 14 25
 1
 end_operator
 begin_operator
@@ -212758,8 +212758,8 @@ overcome sciatica learning potato neptune vulcan
 1
 3 15
 2
-0 42 15 25
 0 37 3 1
+0 42 15 25
 1
 end_operator
 begin_operator
@@ -212767,8 +212767,8 @@ overcome sciatica learning potato pluto jupiter
 1
 3 15
 2
-0 42 15 25
 0 37 0 2
+0 42 15 25
 1
 end_operator
 begin_operator
@@ -212776,8 +212776,8 @@ overcome sciatica learning potato vulcan pluto
 1
 3 15
 2
-0 42 15 25
 0 37 2 3
+0 42 15 25
 1
 end_operator
 begin_operator
@@ -212785,8 +212785,8 @@ overcome sciatica learning rice neptune vulcan
 1
 3 16
 2
-0 42 16 25
 0 37 3 1
+0 42 16 25
 1
 end_operator
 begin_operator
@@ -212794,8 +212794,8 @@ overcome sciatica learning rice pluto jupiter
 1
 3 16
 2
-0 42 16 25
 0 37 0 2
+0 42 16 25
 1
 end_operator
 begin_operator
@@ -212803,8 +212803,8 @@ overcome sciatica learning rice vulcan pluto
 1
 3 16
 2
-0 42 16 25
 0 37 2 3
+0 42 16 25
 1
 end_operator
 begin_operator
@@ -212812,8 +212812,8 @@ overcome sciatica learning scallop neptune vulcan
 1
 3 17
 2
-0 42 17 25
 0 37 3 1
+0 42 17 25
 1
 end_operator
 begin_operator
@@ -212821,8 +212821,8 @@ overcome sciatica learning scallop pluto jupiter
 1
 3 17
 2
-0 42 17 25
 0 37 0 2
+0 42 17 25
 1
 end_operator
 begin_operator
@@ -212830,8 +212830,8 @@ overcome sciatica learning scallop vulcan pluto
 1
 3 17
 2
-0 42 17 25
 0 37 2 3
+0 42 17 25
 1
 end_operator
 begin_operator
@@ -212839,8 +212839,8 @@ overcome sciatica learning tofu neptune vulcan
 1
 3 18
 2
-0 42 18 25
 0 37 3 1
+0 42 18 25
 1
 end_operator
 begin_operator
@@ -212848,8 +212848,8 @@ overcome sciatica learning tofu pluto jupiter
 1
 3 18
 2
-0 42 18 25
 0 37 0 2
+0 42 18 25
 1
 end_operator
 begin_operator
@@ -212857,8 +212857,8 @@ overcome sciatica learning tofu vulcan pluto
 1
 3 18
 2
-0 42 18 25
 0 37 2 3
+0 42 18 25
 1
 end_operator
 begin_operator
@@ -212866,8 +212866,8 @@ overcome sciatica learning turkey neptune vulcan
 1
 3 19
 2
-0 42 19 25
 0 37 3 1
+0 42 19 25
 1
 end_operator
 begin_operator
@@ -212875,8 +212875,8 @@ overcome sciatica learning turkey pluto jupiter
 1
 3 19
 2
-0 42 19 25
 0 37 0 2
+0 42 19 25
 1
 end_operator
 begin_operator
@@ -212884,8 +212884,8 @@ overcome sciatica learning turkey vulcan pluto
 1
 3 19
 2
-0 42 19 25
 0 37 2 3
+0 42 19 25
 1
 end_operator
 begin_operator
@@ -212893,8 +212893,8 @@ overcome sciatica learning wonderbread neptune vulcan
 1
 3 20
 2
-0 42 20 25
 0 37 3 1
+0 42 20 25
 1
 end_operator
 begin_operator
@@ -212902,8 +212902,8 @@ overcome sciatica learning wonderbread pluto jupiter
 1
 3 20
 2
-0 42 20 25
 0 37 0 2
+0 42 20 25
 1
 end_operator
 begin_operator
@@ -212911,8 +212911,8 @@ overcome sciatica learning wonderbread vulcan pluto
 1
 3 20
 2
-0 42 20 25
 0 37 2 3
+0 42 20 25
 1
 end_operator
 begin_operator
@@ -212920,8 +212920,8 @@ overcome sciatica learning wurst neptune vulcan
 1
 3 21
 2
-0 42 21 25
 0 37 3 1
+0 42 21 25
 1
 end_operator
 begin_operator
@@ -212929,8 +212929,8 @@ overcome sciatica learning wurst pluto jupiter
 1
 3 21
 2
-0 42 21 25
 0 37 0 2
+0 42 21 25
 1
 end_operator
 begin_operator
@@ -212938,8 +212938,8 @@ overcome sciatica learning wurst vulcan pluto
 1
 3 21
 2
-0 42 21 25
 0 37 2 3
+0 42 21 25
 1
 end_operator
 begin_operator
@@ -212947,8 +212947,8 @@ overcome sciatica rest bacon neptune vulcan
 1
 4 0
 2
-0 42 0 26
 0 40 3 1
+0 42 0 26
 1
 end_operator
 begin_operator
@@ -212956,8 +212956,8 @@ overcome sciatica rest bacon pluto jupiter
 1
 4 0
 2
-0 42 0 26
 0 40 0 2
+0 42 0 26
 1
 end_operator
 begin_operator
@@ -212965,8 +212965,8 @@ overcome sciatica rest bacon vulcan pluto
 1
 4 0
 2
-0 42 0 26
 0 40 2 3
+0 42 0 26
 1
 end_operator
 begin_operator
@@ -212974,8 +212974,8 @@ overcome sciatica rest broccoli neptune vulcan
 1
 4 1
 2
-0 42 1 26
 0 40 3 1
+0 42 1 26
 1
 end_operator
 begin_operator
@@ -212983,8 +212983,8 @@ overcome sciatica rest broccoli pluto jupiter
 1
 4 1
 2
-0 42 1 26
 0 40 0 2
+0 42 1 26
 1
 end_operator
 begin_operator
@@ -212992,8 +212992,8 @@ overcome sciatica rest broccoli vulcan pluto
 1
 4 1
 2
-0 42 1 26
 0 40 2 3
+0 42 1 26
 1
 end_operator
 begin_operator
@@ -213001,8 +213001,8 @@ overcome sciatica rest cantelope neptune vulcan
 1
 4 2
 2
-0 42 2 26
 0 40 3 1
+0 42 2 26
 1
 end_operator
 begin_operator
@@ -213010,8 +213010,8 @@ overcome sciatica rest cantelope pluto jupiter
 1
 4 2
 2
-0 42 2 26
 0 40 0 2
+0 42 2 26
 1
 end_operator
 begin_operator
@@ -213019,8 +213019,8 @@ overcome sciatica rest cantelope vulcan pluto
 1
 4 2
 2
-0 42 2 26
 0 40 2 3
+0 42 2 26
 1
 end_operator
 begin_operator
@@ -213028,8 +213028,8 @@ overcome sciatica rest chicken neptune vulcan
 1
 4 3
 2
-0 42 3 26
 0 40 3 1
+0 42 3 26
 1
 end_operator
 begin_operator
@@ -213037,8 +213037,8 @@ overcome sciatica rest chicken pluto jupiter
 1
 4 3
 2
-0 42 3 26
 0 40 0 2
+0 42 3 26
 1
 end_operator
 begin_operator
@@ -213046,8 +213046,8 @@ overcome sciatica rest chicken vulcan pluto
 1
 4 3
 2
-0 42 3 26
 0 40 2 3
+0 42 3 26
 1
 end_operator
 begin_operator
@@ -213055,8 +213055,8 @@ overcome sciatica rest chocolate neptune vulcan
 1
 4 4
 2
-0 42 4 26
 0 40 3 1
+0 42 4 26
 1
 end_operator
 begin_operator
@@ -213064,8 +213064,8 @@ overcome sciatica rest chocolate pluto jupiter
 1
 4 4
 2
-0 42 4 26
 0 40 0 2
+0 42 4 26
 1
 end_operator
 begin_operator
@@ -213073,8 +213073,8 @@ overcome sciatica rest chocolate vulcan pluto
 1
 4 4
 2
-0 42 4 26
 0 40 2 3
+0 42 4 26
 1
 end_operator
 begin_operator
@@ -213082,8 +213082,8 @@ overcome sciatica rest cucumber neptune vulcan
 1
 4 5
 2
-0 42 5 26
 0 40 3 1
+0 42 5 26
 1
 end_operator
 begin_operator
@@ -213091,8 +213091,8 @@ overcome sciatica rest cucumber pluto jupiter
 1
 4 5
 2
-0 42 5 26
 0 40 0 2
+0 42 5 26
 1
 end_operator
 begin_operator
@@ -213100,8 +213100,8 @@ overcome sciatica rest cucumber vulcan pluto
 1
 4 5
 2
-0 42 5 26
 0 40 2 3
+0 42 5 26
 1
 end_operator
 begin_operator
@@ -213109,8 +213109,8 @@ overcome sciatica rest endive neptune vulcan
 1
 4 6
 2
-0 42 6 26
 0 40 3 1
+0 42 6 26
 1
 end_operator
 begin_operator
@@ -213118,8 +213118,8 @@ overcome sciatica rest endive pluto jupiter
 1
 4 6
 2
-0 42 6 26
 0 40 0 2
+0 42 6 26
 1
 end_operator
 begin_operator
@@ -213127,8 +213127,8 @@ overcome sciatica rest endive vulcan pluto
 1
 4 6
 2
-0 42 6 26
 0 40 2 3
+0 42 6 26
 1
 end_operator
 begin_operator
@@ -213136,8 +213136,8 @@ overcome sciatica rest guava neptune vulcan
 1
 4 7
 2
-0 42 7 26
 0 40 3 1
+0 42 7 26
 1
 end_operator
 begin_operator
@@ -213145,8 +213145,8 @@ overcome sciatica rest guava pluto jupiter
 1
 4 7
 2
-0 42 7 26
 0 40 0 2
+0 42 7 26
 1
 end_operator
 begin_operator
@@ -213154,8 +213154,8 @@ overcome sciatica rest guava vulcan pluto
 1
 4 7
 2
-0 42 7 26
 0 40 2 3
+0 42 7 26
 1
 end_operator
 begin_operator
@@ -213163,8 +213163,8 @@ overcome sciatica rest haroset neptune vulcan
 1
 4 8
 2
-0 42 8 26
 0 40 3 1
+0 42 8 26
 1
 end_operator
 begin_operator
@@ -213172,8 +213172,8 @@ overcome sciatica rest haroset pluto jupiter
 1
 4 8
 2
-0 42 8 26
 0 40 0 2
+0 42 8 26
 1
 end_operator
 begin_operator
@@ -213181,8 +213181,8 @@ overcome sciatica rest haroset vulcan pluto
 1
 4 8
 2
-0 42 8 26
 0 40 2 3
+0 42 8 26
 1
 end_operator
 begin_operator
@@ -213190,8 +213190,8 @@ overcome sciatica rest hotdog neptune vulcan
 1
 4 9
 2
-0 42 9 26
 0 40 3 1
+0 42 9 26
 1
 end_operator
 begin_operator
@@ -213199,8 +213199,8 @@ overcome sciatica rest hotdog pluto jupiter
 1
 4 9
 2
-0 42 9 26
 0 40 0 2
+0 42 9 26
 1
 end_operator
 begin_operator
@@ -213208,8 +213208,8 @@ overcome sciatica rest hotdog vulcan pluto
 1
 4 9
 2
-0 42 9 26
 0 40 2 3
+0 42 9 26
 1
 end_operator
 begin_operator
@@ -213217,8 +213217,8 @@ overcome sciatica rest lemon neptune vulcan
 1
 4 10
 2
-0 42 10 26
 0 40 3 1
+0 42 10 26
 1
 end_operator
 begin_operator
@@ -213226,8 +213226,8 @@ overcome sciatica rest lemon pluto jupiter
 1
 4 10
 2
-0 42 10 26
 0 40 0 2
+0 42 10 26
 1
 end_operator
 begin_operator
@@ -213235,8 +213235,8 @@ overcome sciatica rest lemon vulcan pluto
 1
 4 10
 2
-0 42 10 26
 0 40 2 3
+0 42 10 26
 1
 end_operator
 begin_operator
@@ -213244,8 +213244,8 @@ overcome sciatica rest marzipan neptune vulcan
 1
 4 11
 2
-0 42 11 26
 0 40 3 1
+0 42 11 26
 1
 end_operator
 begin_operator
@@ -213253,8 +213253,8 @@ overcome sciatica rest marzipan pluto jupiter
 1
 4 11
 2
-0 42 11 26
 0 40 0 2
+0 42 11 26
 1
 end_operator
 begin_operator
@@ -213262,8 +213262,8 @@ overcome sciatica rest marzipan vulcan pluto
 1
 4 11
 2
-0 42 11 26
 0 40 2 3
+0 42 11 26
 1
 end_operator
 begin_operator
@@ -213271,8 +213271,8 @@ overcome sciatica rest orange neptune vulcan
 1
 4 12
 2
-0 42 12 26
 0 40 3 1
+0 42 12 26
 1
 end_operator
 begin_operator
@@ -213280,8 +213280,8 @@ overcome sciatica rest orange pluto jupiter
 1
 4 12
 2
-0 42 12 26
 0 40 0 2
+0 42 12 26
 1
 end_operator
 begin_operator
@@ -213289,8 +213289,8 @@ overcome sciatica rest orange vulcan pluto
 1
 4 12
 2
-0 42 12 26
 0 40 2 3
+0 42 12 26
 1
 end_operator
 begin_operator
@@ -213298,8 +213298,8 @@ overcome sciatica rest pea neptune vulcan
 1
 4 13
 2
-0 42 13 26
 0 40 3 1
+0 42 13 26
 1
 end_operator
 begin_operator
@@ -213307,8 +213307,8 @@ overcome sciatica rest pea pluto jupiter
 1
 4 13
 2
-0 42 13 26
 0 40 0 2
+0 42 13 26
 1
 end_operator
 begin_operator
@@ -213316,8 +213316,8 @@ overcome sciatica rest pea vulcan pluto
 1
 4 13
 2
-0 42 13 26
 0 40 2 3
+0 42 13 26
 1
 end_operator
 begin_operator
@@ -213325,8 +213325,8 @@ overcome sciatica rest pepper neptune vulcan
 1
 4 14
 2
-0 42 14 26
 0 40 3 1
+0 42 14 26
 1
 end_operator
 begin_operator
@@ -213334,8 +213334,8 @@ overcome sciatica rest pepper pluto jupiter
 1
 4 14
 2
-0 42 14 26
 0 40 0 2
+0 42 14 26
 1
 end_operator
 begin_operator
@@ -213343,8 +213343,8 @@ overcome sciatica rest pepper vulcan pluto
 1
 4 14
 2
-0 42 14 26
 0 40 2 3
+0 42 14 26
 1
 end_operator
 begin_operator
@@ -213352,8 +213352,8 @@ overcome sciatica rest potato neptune vulcan
 1
 4 15
 2
-0 42 15 26
 0 40 3 1
+0 42 15 26
 1
 end_operator
 begin_operator
@@ -213361,8 +213361,8 @@ overcome sciatica rest potato pluto jupiter
 1
 4 15
 2
-0 42 15 26
 0 40 0 2
+0 42 15 26
 1
 end_operator
 begin_operator
@@ -213370,8 +213370,8 @@ overcome sciatica rest potato vulcan pluto
 1
 4 15
 2
-0 42 15 26
 0 40 2 3
+0 42 15 26
 1
 end_operator
 begin_operator
@@ -213379,8 +213379,8 @@ overcome sciatica rest rice neptune vulcan
 1
 4 16
 2
-0 42 16 26
 0 40 3 1
+0 42 16 26
 1
 end_operator
 begin_operator
@@ -213388,8 +213388,8 @@ overcome sciatica rest rice pluto jupiter
 1
 4 16
 2
-0 42 16 26
 0 40 0 2
+0 42 16 26
 1
 end_operator
 begin_operator
@@ -213397,8 +213397,8 @@ overcome sciatica rest rice vulcan pluto
 1
 4 16
 2
-0 42 16 26
 0 40 2 3
+0 42 16 26
 1
 end_operator
 begin_operator
@@ -213406,8 +213406,8 @@ overcome sciatica rest scallop neptune vulcan
 1
 4 17
 2
-0 42 17 26
 0 40 3 1
+0 42 17 26
 1
 end_operator
 begin_operator
@@ -213415,8 +213415,8 @@ overcome sciatica rest scallop pluto jupiter
 1
 4 17
 2
-0 42 17 26
 0 40 0 2
+0 42 17 26
 1
 end_operator
 begin_operator
@@ -213424,8 +213424,8 @@ overcome sciatica rest scallop vulcan pluto
 1
 4 17
 2
-0 42 17 26
 0 40 2 3
+0 42 17 26
 1
 end_operator
 begin_operator
@@ -213433,8 +213433,8 @@ overcome sciatica rest tofu neptune vulcan
 1
 4 18
 2
-0 42 18 26
 0 40 3 1
+0 42 18 26
 1
 end_operator
 begin_operator
@@ -213442,8 +213442,8 @@ overcome sciatica rest tofu pluto jupiter
 1
 4 18
 2
-0 42 18 26
 0 40 0 2
+0 42 18 26
 1
 end_operator
 begin_operator
@@ -213451,8 +213451,8 @@ overcome sciatica rest tofu vulcan pluto
 1
 4 18
 2
-0 42 18 26
 0 40 2 3
+0 42 18 26
 1
 end_operator
 begin_operator
@@ -213460,8 +213460,8 @@ overcome sciatica rest turkey neptune vulcan
 1
 4 19
 2
-0 42 19 26
 0 40 3 1
+0 42 19 26
 1
 end_operator
 begin_operator
@@ -213469,8 +213469,8 @@ overcome sciatica rest turkey pluto jupiter
 1
 4 19
 2
-0 42 19 26
 0 40 0 2
+0 42 19 26
 1
 end_operator
 begin_operator
@@ -213478,8 +213478,8 @@ overcome sciatica rest turkey vulcan pluto
 1
 4 19
 2
-0 42 19 26
 0 40 2 3
+0 42 19 26
 1
 end_operator
 begin_operator
@@ -213487,8 +213487,8 @@ overcome sciatica rest wonderbread neptune vulcan
 1
 4 20
 2
-0 42 20 26
 0 40 3 1
+0 42 20 26
 1
 end_operator
 begin_operator
@@ -213496,8 +213496,8 @@ overcome sciatica rest wonderbread pluto jupiter
 1
 4 20
 2
-0 42 20 26
 0 40 0 2
+0 42 20 26
 1
 end_operator
 begin_operator
@@ -213505,8 +213505,8 @@ overcome sciatica rest wonderbread vulcan pluto
 1
 4 20
 2
-0 42 20 26
 0 40 2 3
+0 42 20 26
 1
 end_operator
 begin_operator
@@ -213514,8 +213514,8 @@ overcome sciatica rest wurst neptune vulcan
 1
 4 21
 2
-0 42 21 26
 0 40 3 1
+0 42 21 26
 1
 end_operator
 begin_operator
@@ -213523,8 +213523,8 @@ overcome sciatica rest wurst pluto jupiter
 1
 4 21
 2
-0 42 21 26
 0 40 0 2
+0 42 21 26
 1
 end_operator
 begin_operator
@@ -213532,8 +213532,8 @@ overcome sciatica rest wurst vulcan pluto
 1
 4 21
 2
-0 42 21 26
 0 40 2 3
+0 42 21 26
 1
 end_operator
 begin_operator
@@ -213541,8 +213541,8 @@ overcome sciatica satisfaction bacon neptune vulcan
 1
 5 0
 2
-0 42 0 27
 0 41 3 1
+0 42 0 27
 1
 end_operator
 begin_operator
@@ -213550,8 +213550,8 @@ overcome sciatica satisfaction bacon pluto jupiter
 1
 5 0
 2
-0 42 0 27
 0 41 0 2
+0 42 0 27
 1
 end_operator
 begin_operator
@@ -213559,8 +213559,8 @@ overcome sciatica satisfaction bacon vulcan pluto
 1
 5 0
 2
-0 42 0 27
 0 41 2 3
+0 42 0 27
 1
 end_operator
 begin_operator
@@ -213568,8 +213568,8 @@ overcome sciatica satisfaction broccoli neptune vulcan
 1
 5 1
 2
-0 42 1 27
 0 41 3 1
+0 42 1 27
 1
 end_operator
 begin_operator
@@ -213577,8 +213577,8 @@ overcome sciatica satisfaction broccoli pluto jupiter
 1
 5 1
 2
-0 42 1 27
 0 41 0 2
+0 42 1 27
 1
 end_operator
 begin_operator
@@ -213586,8 +213586,8 @@ overcome sciatica satisfaction broccoli vulcan pluto
 1
 5 1
 2
-0 42 1 27
 0 41 2 3
+0 42 1 27
 1
 end_operator
 begin_operator
@@ -213595,8 +213595,8 @@ overcome sciatica satisfaction cantelope neptune vulcan
 1
 5 2
 2
-0 42 2 27
 0 41 3 1
+0 42 2 27
 1
 end_operator
 begin_operator
@@ -213604,8 +213604,8 @@ overcome sciatica satisfaction cantelope pluto jupiter
 1
 5 2
 2
-0 42 2 27
 0 41 0 2
+0 42 2 27
 1
 end_operator
 begin_operator
@@ -213613,8 +213613,8 @@ overcome sciatica satisfaction cantelope vulcan pluto
 1
 5 2
 2
-0 42 2 27
 0 41 2 3
+0 42 2 27
 1
 end_operator
 begin_operator
@@ -213622,8 +213622,8 @@ overcome sciatica satisfaction chicken neptune vulcan
 1
 5 3
 2
-0 42 3 27
 0 41 3 1
+0 42 3 27
 1
 end_operator
 begin_operator
@@ -213631,8 +213631,8 @@ overcome sciatica satisfaction chicken pluto jupiter
 1
 5 3
 2
-0 42 3 27
 0 41 0 2
+0 42 3 27
 1
 end_operator
 begin_operator
@@ -213640,8 +213640,8 @@ overcome sciatica satisfaction chicken vulcan pluto
 1
 5 3
 2
-0 42 3 27
 0 41 2 3
+0 42 3 27
 1
 end_operator
 begin_operator
@@ -213649,8 +213649,8 @@ overcome sciatica satisfaction chocolate neptune vulcan
 1
 5 4
 2
-0 42 4 27
 0 41 3 1
+0 42 4 27
 1
 end_operator
 begin_operator
@@ -213658,8 +213658,8 @@ overcome sciatica satisfaction chocolate pluto jupiter
 1
 5 4
 2
-0 42 4 27
 0 41 0 2
+0 42 4 27
 1
 end_operator
 begin_operator
@@ -213667,8 +213667,8 @@ overcome sciatica satisfaction chocolate vulcan pluto
 1
 5 4
 2
-0 42 4 27
 0 41 2 3
+0 42 4 27
 1
 end_operator
 begin_operator
@@ -213676,8 +213676,8 @@ overcome sciatica satisfaction cucumber neptune vulcan
 1
 5 5
 2
-0 42 5 27
 0 41 3 1
+0 42 5 27
 1
 end_operator
 begin_operator
@@ -213685,8 +213685,8 @@ overcome sciatica satisfaction cucumber pluto jupiter
 1
 5 5
 2
-0 42 5 27
 0 41 0 2
+0 42 5 27
 1
 end_operator
 begin_operator
@@ -213694,8 +213694,8 @@ overcome sciatica satisfaction cucumber vulcan pluto
 1
 5 5
 2
-0 42 5 27
 0 41 2 3
+0 42 5 27
 1
 end_operator
 begin_operator
@@ -213703,8 +213703,8 @@ overcome sciatica satisfaction endive neptune vulcan
 1
 5 6
 2
-0 42 6 27
 0 41 3 1
+0 42 6 27
 1
 end_operator
 begin_operator
@@ -213712,8 +213712,8 @@ overcome sciatica satisfaction endive pluto jupiter
 1
 5 6
 2
-0 42 6 27
 0 41 0 2
+0 42 6 27
 1
 end_operator
 begin_operator
@@ -213721,8 +213721,8 @@ overcome sciatica satisfaction endive vulcan pluto
 1
 5 6
 2
-0 42 6 27
 0 41 2 3
+0 42 6 27
 1
 end_operator
 begin_operator
@@ -213730,8 +213730,8 @@ overcome sciatica satisfaction guava neptune vulcan
 1
 5 7
 2
-0 42 7 27
 0 41 3 1
+0 42 7 27
 1
 end_operator
 begin_operator
@@ -213739,8 +213739,8 @@ overcome sciatica satisfaction guava pluto jupiter
 1
 5 7
 2
-0 42 7 27
 0 41 0 2
+0 42 7 27
 1
 end_operator
 begin_operator
@@ -213748,8 +213748,8 @@ overcome sciatica satisfaction guava vulcan pluto
 1
 5 7
 2
-0 42 7 27
 0 41 2 3
+0 42 7 27
 1
 end_operator
 begin_operator
@@ -213757,8 +213757,8 @@ overcome sciatica satisfaction haroset neptune vulcan
 1
 5 8
 2
-0 42 8 27
 0 41 3 1
+0 42 8 27
 1
 end_operator
 begin_operator
@@ -213766,8 +213766,8 @@ overcome sciatica satisfaction haroset pluto jupiter
 1
 5 8
 2
-0 42 8 27
 0 41 0 2
+0 42 8 27
 1
 end_operator
 begin_operator
@@ -213775,8 +213775,8 @@ overcome sciatica satisfaction haroset vulcan pluto
 1
 5 8
 2
-0 42 8 27
 0 41 2 3
+0 42 8 27
 1
 end_operator
 begin_operator
@@ -213784,8 +213784,8 @@ overcome sciatica satisfaction hotdog neptune vulcan
 1
 5 9
 2
-0 42 9 27
 0 41 3 1
+0 42 9 27
 1
 end_operator
 begin_operator
@@ -213793,8 +213793,8 @@ overcome sciatica satisfaction hotdog pluto jupiter
 1
 5 9
 2
-0 42 9 27
 0 41 0 2
+0 42 9 27
 1
 end_operator
 begin_operator
@@ -213802,8 +213802,8 @@ overcome sciatica satisfaction hotdog vulcan pluto
 1
 5 9
 2
-0 42 9 27
 0 41 2 3
+0 42 9 27
 1
 end_operator
 begin_operator
@@ -213811,8 +213811,8 @@ overcome sciatica satisfaction lemon neptune vulcan
 1
 5 10
 2
-0 42 10 27
 0 41 3 1
+0 42 10 27
 1
 end_operator
 begin_operator
@@ -213820,8 +213820,8 @@ overcome sciatica satisfaction lemon pluto jupiter
 1
 5 10
 2
-0 42 10 27
 0 41 0 2
+0 42 10 27
 1
 end_operator
 begin_operator
@@ -213829,8 +213829,8 @@ overcome sciatica satisfaction lemon vulcan pluto
 1
 5 10
 2
-0 42 10 27
 0 41 2 3
+0 42 10 27
 1
 end_operator
 begin_operator
@@ -213838,8 +213838,8 @@ overcome sciatica satisfaction marzipan neptune vulcan
 1
 5 11
 2
-0 42 11 27
 0 41 3 1
+0 42 11 27
 1
 end_operator
 begin_operator
@@ -213847,8 +213847,8 @@ overcome sciatica satisfaction marzipan pluto jupiter
 1
 5 11
 2
-0 42 11 27
 0 41 0 2
+0 42 11 27
 1
 end_operator
 begin_operator
@@ -213856,8 +213856,8 @@ overcome sciatica satisfaction marzipan vulcan pluto
 1
 5 11
 2
-0 42 11 27
 0 41 2 3
+0 42 11 27
 1
 end_operator
 begin_operator
@@ -213865,8 +213865,8 @@ overcome sciatica satisfaction orange neptune vulcan
 1
 5 12
 2
-0 42 12 27
 0 41 3 1
+0 42 12 27
 1
 end_operator
 begin_operator
@@ -213874,8 +213874,8 @@ overcome sciatica satisfaction orange pluto jupiter
 1
 5 12
 2
-0 42 12 27
 0 41 0 2
+0 42 12 27
 1
 end_operator
 begin_operator
@@ -213883,8 +213883,8 @@ overcome sciatica satisfaction orange vulcan pluto
 1
 5 12
 2
-0 42 12 27
 0 41 2 3
+0 42 12 27
 1
 end_operator
 begin_operator
@@ -213892,8 +213892,8 @@ overcome sciatica satisfaction pea neptune vulcan
 1
 5 13
 2
-0 42 13 27
 0 41 3 1
+0 42 13 27
 1
 end_operator
 begin_operator
@@ -213901,8 +213901,8 @@ overcome sciatica satisfaction pea pluto jupiter
 1
 5 13
 2
-0 42 13 27
 0 41 0 2
+0 42 13 27
 1
 end_operator
 begin_operator
@@ -213910,8 +213910,8 @@ overcome sciatica satisfaction pea vulcan pluto
 1
 5 13
 2
-0 42 13 27
 0 41 2 3
+0 42 13 27
 1
 end_operator
 begin_operator
@@ -213919,8 +213919,8 @@ overcome sciatica satisfaction pepper neptune vulcan
 1
 5 14
 2
-0 42 14 27
 0 41 3 1
+0 42 14 27
 1
 end_operator
 begin_operator
@@ -213928,8 +213928,8 @@ overcome sciatica satisfaction pepper pluto jupiter
 1
 5 14
 2
-0 42 14 27
 0 41 0 2
+0 42 14 27
 1
 end_operator
 begin_operator
@@ -213937,8 +213937,8 @@ overcome sciatica satisfaction pepper vulcan pluto
 1
 5 14
 2
-0 42 14 27
 0 41 2 3
+0 42 14 27
 1
 end_operator
 begin_operator
@@ -213946,8 +213946,8 @@ overcome sciatica satisfaction potato neptune vulcan
 1
 5 15
 2
-0 42 15 27
 0 41 3 1
+0 42 15 27
 1
 end_operator
 begin_operator
@@ -213955,8 +213955,8 @@ overcome sciatica satisfaction potato pluto jupiter
 1
 5 15
 2
-0 42 15 27
 0 41 0 2
+0 42 15 27
 1
 end_operator
 begin_operator
@@ -213964,8 +213964,8 @@ overcome sciatica satisfaction potato vulcan pluto
 1
 5 15
 2
-0 42 15 27
 0 41 2 3
+0 42 15 27
 1
 end_operator
 begin_operator
@@ -213973,8 +213973,8 @@ overcome sciatica satisfaction rice neptune vulcan
 1
 5 16
 2
-0 42 16 27
 0 41 3 1
+0 42 16 27
 1
 end_operator
 begin_operator
@@ -213982,8 +213982,8 @@ overcome sciatica satisfaction rice pluto jupiter
 1
 5 16
 2
-0 42 16 27
 0 41 0 2
+0 42 16 27
 1
 end_operator
 begin_operator
@@ -213991,8 +213991,8 @@ overcome sciatica satisfaction rice vulcan pluto
 1
 5 16
 2
-0 42 16 27
 0 41 2 3
+0 42 16 27
 1
 end_operator
 begin_operator
@@ -214000,8 +214000,8 @@ overcome sciatica satisfaction scallop neptune vulcan
 1
 5 17
 2
-0 42 17 27
 0 41 3 1
+0 42 17 27
 1
 end_operator
 begin_operator
@@ -214009,8 +214009,8 @@ overcome sciatica satisfaction scallop pluto jupiter
 1
 5 17
 2
-0 42 17 27
 0 41 0 2
+0 42 17 27
 1
 end_operator
 begin_operator
@@ -214018,8 +214018,8 @@ overcome sciatica satisfaction scallop vulcan pluto
 1
 5 17
 2
-0 42 17 27
 0 41 2 3
+0 42 17 27
 1
 end_operator
 begin_operator
@@ -214027,8 +214027,8 @@ overcome sciatica satisfaction tofu neptune vulcan
 1
 5 18
 2
-0 42 18 27
 0 41 3 1
+0 42 18 27
 1
 end_operator
 begin_operator
@@ -214036,8 +214036,8 @@ overcome sciatica satisfaction tofu pluto jupiter
 1
 5 18
 2
-0 42 18 27
 0 41 0 2
+0 42 18 27
 1
 end_operator
 begin_operator
@@ -214045,8 +214045,8 @@ overcome sciatica satisfaction tofu vulcan pluto
 1
 5 18
 2
-0 42 18 27
 0 41 2 3
+0 42 18 27
 1
 end_operator
 begin_operator
@@ -214054,8 +214054,8 @@ overcome sciatica satisfaction turkey neptune vulcan
 1
 5 19
 2
-0 42 19 27
 0 41 3 1
+0 42 19 27
 1
 end_operator
 begin_operator
@@ -214063,8 +214063,8 @@ overcome sciatica satisfaction turkey pluto jupiter
 1
 5 19
 2
-0 42 19 27
 0 41 0 2
+0 42 19 27
 1
 end_operator
 begin_operator
@@ -214072,8 +214072,8 @@ overcome sciatica satisfaction turkey vulcan pluto
 1
 5 19
 2
-0 42 19 27
 0 41 2 3
+0 42 19 27
 1
 end_operator
 begin_operator
@@ -214081,8 +214081,8 @@ overcome sciatica satisfaction wonderbread neptune vulcan
 1
 5 20
 2
-0 42 20 27
 0 41 3 1
+0 42 20 27
 1
 end_operator
 begin_operator
@@ -214090,8 +214090,8 @@ overcome sciatica satisfaction wonderbread pluto jupiter
 1
 5 20
 2
-0 42 20 27
 0 41 0 2
+0 42 20 27
 1
 end_operator
 begin_operator
@@ -214099,8 +214099,8 @@ overcome sciatica satisfaction wonderbread vulcan pluto
 1
 5 20
 2
-0 42 20 27
 0 41 2 3
+0 42 20 27
 1
 end_operator
 begin_operator
@@ -214108,8 +214108,8 @@ overcome sciatica satisfaction wurst neptune vulcan
 1
 5 21
 2
-0 42 21 27
 0 41 3 1
+0 42 21 27
 1
 end_operator
 begin_operator
@@ -214117,8 +214117,8 @@ overcome sciatica satisfaction wurst pluto jupiter
 1
 5 21
 2
-0 42 21 27
 0 41 0 2
+0 42 21 27
 1
 end_operator
 begin_operator
@@ -214126,8 +214126,8 @@ overcome sciatica satisfaction wurst vulcan pluto
 1
 5 21
 2
-0 42 21 27
 0 41 2 3
+0 42 21 27
 1
 end_operator
 begin_operator
@@ -218887,8 +218887,8 @@ succumb angina curiosity bacon neptune vulcan
 1
 0 0
 2
-0 44 22 0
 0 32 1 3
+0 44 22 0
 1
 end_operator
 begin_operator
@@ -218896,8 +218896,8 @@ succumb angina curiosity bacon pluto jupiter
 1
 0 0
 2
-0 44 22 0
 0 32 2 0
+0 44 22 0
 1
 end_operator
 begin_operator
@@ -218905,8 +218905,8 @@ succumb angina curiosity bacon vulcan pluto
 1
 0 0
 2
-0 44 22 0
 0 32 3 2
+0 44 22 0
 1
 end_operator
 begin_operator
@@ -218914,8 +218914,8 @@ succumb angina curiosity broccoli neptune vulcan
 1
 0 1
 2
-0 44 22 1
 0 32 1 3
+0 44 22 1
 1
 end_operator
 begin_operator
@@ -218923,8 +218923,8 @@ succumb angina curiosity broccoli pluto jupiter
 1
 0 1
 2
-0 44 22 1
 0 32 2 0
+0 44 22 1
 1
 end_operator
 begin_operator
@@ -218932,8 +218932,8 @@ succumb angina curiosity broccoli vulcan pluto
 1
 0 1
 2
-0 44 22 1
 0 32 3 2
+0 44 22 1
 1
 end_operator
 begin_operator
@@ -218941,8 +218941,8 @@ succumb angina curiosity cantelope neptune vulcan
 1
 0 2
 2
-0 44 22 2
 0 32 1 3
+0 44 22 2
 1
 end_operator
 begin_operator
@@ -218950,8 +218950,8 @@ succumb angina curiosity cantelope pluto jupiter
 1
 0 2
 2
-0 44 22 2
 0 32 2 0
+0 44 22 2
 1
 end_operator
 begin_operator
@@ -218959,8 +218959,8 @@ succumb angina curiosity cantelope vulcan pluto
 1
 0 2
 2
-0 44 22 2
 0 32 3 2
+0 44 22 2
 1
 end_operator
 begin_operator
@@ -218968,8 +218968,8 @@ succumb angina curiosity chicken neptune vulcan
 1
 0 3
 2
-0 44 22 3
 0 32 1 3
+0 44 22 3
 1
 end_operator
 begin_operator
@@ -218977,8 +218977,8 @@ succumb angina curiosity chicken pluto jupiter
 1
 0 3
 2
-0 44 22 3
 0 32 2 0
+0 44 22 3
 1
 end_operator
 begin_operator
@@ -218986,8 +218986,8 @@ succumb angina curiosity chicken vulcan pluto
 1
 0 3
 2
-0 44 22 3
 0 32 3 2
+0 44 22 3
 1
 end_operator
 begin_operator
@@ -218995,8 +218995,8 @@ succumb angina curiosity chocolate neptune vulcan
 1
 0 4
 2
-0 44 22 4
 0 32 1 3
+0 44 22 4
 1
 end_operator
 begin_operator
@@ -219004,8 +219004,8 @@ succumb angina curiosity chocolate pluto jupiter
 1
 0 4
 2
-0 44 22 4
 0 32 2 0
+0 44 22 4
 1
 end_operator
 begin_operator
@@ -219013,8 +219013,8 @@ succumb angina curiosity chocolate vulcan pluto
 1
 0 4
 2
-0 44 22 4
 0 32 3 2
+0 44 22 4
 1
 end_operator
 begin_operator
@@ -219022,8 +219022,8 @@ succumb angina curiosity cucumber neptune vulcan
 1
 0 5
 2
-0 44 22 5
 0 32 1 3
+0 44 22 5
 1
 end_operator
 begin_operator
@@ -219031,8 +219031,8 @@ succumb angina curiosity cucumber pluto jupiter
 1
 0 5
 2
-0 44 22 5
 0 32 2 0
+0 44 22 5
 1
 end_operator
 begin_operator
@@ -219040,8 +219040,8 @@ succumb angina curiosity cucumber vulcan pluto
 1
 0 5
 2
-0 44 22 5
 0 32 3 2
+0 44 22 5
 1
 end_operator
 begin_operator
@@ -219049,8 +219049,8 @@ succumb angina curiosity endive neptune vulcan
 1
 0 6
 2
-0 44 22 6
 0 32 1 3
+0 44 22 6
 1
 end_operator
 begin_operator
@@ -219058,8 +219058,8 @@ succumb angina curiosity endive pluto jupiter
 1
 0 6
 2
-0 44 22 6
 0 32 2 0
+0 44 22 6
 1
 end_operator
 begin_operator
@@ -219067,8 +219067,8 @@ succumb angina curiosity endive vulcan pluto
 1
 0 6
 2
-0 44 22 6
 0 32 3 2
+0 44 22 6
 1
 end_operator
 begin_operator
@@ -219076,8 +219076,8 @@ succumb angina curiosity guava neptune vulcan
 1
 0 7
 2
-0 44 22 7
 0 32 1 3
+0 44 22 7
 1
 end_operator
 begin_operator
@@ -219085,8 +219085,8 @@ succumb angina curiosity guava pluto jupiter
 1
 0 7
 2
-0 44 22 7
 0 32 2 0
+0 44 22 7
 1
 end_operator
 begin_operator
@@ -219094,8 +219094,8 @@ succumb angina curiosity guava vulcan pluto
 1
 0 7
 2
-0 44 22 7
 0 32 3 2
+0 44 22 7
 1
 end_operator
 begin_operator
@@ -219103,8 +219103,8 @@ succumb angina curiosity haroset neptune vulcan
 1
 0 8
 2
-0 44 22 8
 0 32 1 3
+0 44 22 8
 1
 end_operator
 begin_operator
@@ -219112,8 +219112,8 @@ succumb angina curiosity haroset pluto jupiter
 1
 0 8
 2
-0 44 22 8
 0 32 2 0
+0 44 22 8
 1
 end_operator
 begin_operator
@@ -219121,8 +219121,8 @@ succumb angina curiosity haroset vulcan pluto
 1
 0 8
 2
-0 44 22 8
 0 32 3 2
+0 44 22 8
 1
 end_operator
 begin_operator
@@ -219130,8 +219130,8 @@ succumb angina curiosity hotdog neptune vulcan
 1
 0 9
 2
-0 44 22 9
 0 32 1 3
+0 44 22 9
 1
 end_operator
 begin_operator
@@ -219139,8 +219139,8 @@ succumb angina curiosity hotdog pluto jupiter
 1
 0 9
 2
-0 44 22 9
 0 32 2 0
+0 44 22 9
 1
 end_operator
 begin_operator
@@ -219148,8 +219148,8 @@ succumb angina curiosity hotdog vulcan pluto
 1
 0 9
 2
-0 44 22 9
 0 32 3 2
+0 44 22 9
 1
 end_operator
 begin_operator
@@ -219157,8 +219157,8 @@ succumb angina curiosity lemon neptune vulcan
 1
 0 10
 2
-0 44 22 10
 0 32 1 3
+0 44 22 10
 1
 end_operator
 begin_operator
@@ -219166,8 +219166,8 @@ succumb angina curiosity lemon pluto jupiter
 1
 0 10
 2
-0 44 22 10
 0 32 2 0
+0 44 22 10
 1
 end_operator
 begin_operator
@@ -219175,8 +219175,8 @@ succumb angina curiosity lemon vulcan pluto
 1
 0 10
 2
-0 44 22 10
 0 32 3 2
+0 44 22 10
 1
 end_operator
 begin_operator
@@ -219184,8 +219184,8 @@ succumb angina curiosity marzipan neptune vulcan
 1
 0 11
 2
-0 44 22 11
 0 32 1 3
+0 44 22 11
 1
 end_operator
 begin_operator
@@ -219193,8 +219193,8 @@ succumb angina curiosity marzipan pluto jupiter
 1
 0 11
 2
-0 44 22 11
 0 32 2 0
+0 44 22 11
 1
 end_operator
 begin_operator
@@ -219202,8 +219202,8 @@ succumb angina curiosity marzipan vulcan pluto
 1
 0 11
 2
-0 44 22 11
 0 32 3 2
+0 44 22 11
 1
 end_operator
 begin_operator
@@ -219211,8 +219211,8 @@ succumb angina curiosity orange neptune vulcan
 1
 0 12
 2
-0 44 22 12
 0 32 1 3
+0 44 22 12
 1
 end_operator
 begin_operator
@@ -219220,8 +219220,8 @@ succumb angina curiosity orange pluto jupiter
 1
 0 12
 2
-0 44 22 12
 0 32 2 0
+0 44 22 12
 1
 end_operator
 begin_operator
@@ -219229,8 +219229,8 @@ succumb angina curiosity orange vulcan pluto
 1
 0 12
 2
-0 44 22 12
 0 32 3 2
+0 44 22 12
 1
 end_operator
 begin_operator
@@ -219238,8 +219238,8 @@ succumb angina curiosity pea neptune vulcan
 1
 0 13
 2
-0 44 22 13
 0 32 1 3
+0 44 22 13
 1
 end_operator
 begin_operator
@@ -219247,8 +219247,8 @@ succumb angina curiosity pea pluto jupiter
 1
 0 13
 2
-0 44 22 13
 0 32 2 0
+0 44 22 13
 1
 end_operator
 begin_operator
@@ -219256,8 +219256,8 @@ succumb angina curiosity pea vulcan pluto
 1
 0 13
 2
-0 44 22 13
 0 32 3 2
+0 44 22 13
 1
 end_operator
 begin_operator
@@ -219265,8 +219265,8 @@ succumb angina curiosity pepper neptune vulcan
 1
 0 14
 2
-0 44 22 14
 0 32 1 3
+0 44 22 14
 1
 end_operator
 begin_operator
@@ -219274,8 +219274,8 @@ succumb angina curiosity pepper pluto jupiter
 1
 0 14
 2
-0 44 22 14
 0 32 2 0
+0 44 22 14
 1
 end_operator
 begin_operator
@@ -219283,8 +219283,8 @@ succumb angina curiosity pepper vulcan pluto
 1
 0 14
 2
-0 44 22 14
 0 32 3 2
+0 44 22 14
 1
 end_operator
 begin_operator
@@ -219292,8 +219292,8 @@ succumb angina curiosity potato neptune vulcan
 1
 0 15
 2
-0 44 22 15
 0 32 1 3
+0 44 22 15
 1
 end_operator
 begin_operator
@@ -219301,8 +219301,8 @@ succumb angina curiosity potato pluto jupiter
 1
 0 15
 2
-0 44 22 15
 0 32 2 0
+0 44 22 15
 1
 end_operator
 begin_operator
@@ -219310,8 +219310,8 @@ succumb angina curiosity potato vulcan pluto
 1
 0 15
 2
-0 44 22 15
 0 32 3 2
+0 44 22 15
 1
 end_operator
 begin_operator
@@ -219319,8 +219319,8 @@ succumb angina curiosity rice neptune vulcan
 1
 0 16
 2
-0 44 22 16
 0 32 1 3
+0 44 22 16
 1
 end_operator
 begin_operator
@@ -219328,8 +219328,8 @@ succumb angina curiosity rice pluto jupiter
 1
 0 16
 2
-0 44 22 16
 0 32 2 0
+0 44 22 16
 1
 end_operator
 begin_operator
@@ -219337,8 +219337,8 @@ succumb angina curiosity rice vulcan pluto
 1
 0 16
 2
-0 44 22 16
 0 32 3 2
+0 44 22 16
 1
 end_operator
 begin_operator
@@ -219346,8 +219346,8 @@ succumb angina curiosity scallop neptune vulcan
 1
 0 17
 2
-0 44 22 17
 0 32 1 3
+0 44 22 17
 1
 end_operator
 begin_operator
@@ -219355,8 +219355,8 @@ succumb angina curiosity scallop pluto jupiter
 1
 0 17
 2
-0 44 22 17
 0 32 2 0
+0 44 22 17
 1
 end_operator
 begin_operator
@@ -219364,8 +219364,8 @@ succumb angina curiosity scallop vulcan pluto
 1
 0 17
 2
-0 44 22 17
 0 32 3 2
+0 44 22 17
 1
 end_operator
 begin_operator
@@ -219373,8 +219373,8 @@ succumb angina curiosity tofu neptune vulcan
 1
 0 18
 2
-0 44 22 18
 0 32 1 3
+0 44 22 18
 1
 end_operator
 begin_operator
@@ -219382,8 +219382,8 @@ succumb angina curiosity tofu pluto jupiter
 1
 0 18
 2
-0 44 22 18
 0 32 2 0
+0 44 22 18
 1
 end_operator
 begin_operator
@@ -219391,8 +219391,8 @@ succumb angina curiosity tofu vulcan pluto
 1
 0 18
 2
-0 44 22 18
 0 32 3 2
+0 44 22 18
 1
 end_operator
 begin_operator
@@ -219400,8 +219400,8 @@ succumb angina curiosity turkey neptune vulcan
 1
 0 19
 2
-0 44 22 19
 0 32 1 3
+0 44 22 19
 1
 end_operator
 begin_operator
@@ -219409,8 +219409,8 @@ succumb angina curiosity turkey pluto jupiter
 1
 0 19
 2
-0 44 22 19
 0 32 2 0
+0 44 22 19
 1
 end_operator
 begin_operator
@@ -219418,8 +219418,8 @@ succumb angina curiosity turkey vulcan pluto
 1
 0 19
 2
-0 44 22 19
 0 32 3 2
+0 44 22 19
 1
 end_operator
 begin_operator
@@ -219427,8 +219427,8 @@ succumb angina curiosity wonderbread neptune vulcan
 1
 0 20
 2
-0 44 22 20
 0 32 1 3
+0 44 22 20
 1
 end_operator
 begin_operator
@@ -219436,8 +219436,8 @@ succumb angina curiosity wonderbread pluto jupiter
 1
 0 20
 2
-0 44 22 20
 0 32 2 0
+0 44 22 20
 1
 end_operator
 begin_operator
@@ -219445,8 +219445,8 @@ succumb angina curiosity wonderbread vulcan pluto
 1
 0 20
 2
-0 44 22 20
 0 32 3 2
+0 44 22 20
 1
 end_operator
 begin_operator
@@ -219454,8 +219454,8 @@ succumb angina curiosity wurst neptune vulcan
 1
 0 21
 2
-0 44 22 21
 0 32 1 3
+0 44 22 21
 1
 end_operator
 begin_operator
@@ -219463,8 +219463,8 @@ succumb angina curiosity wurst pluto jupiter
 1
 0 21
 2
-0 44 22 21
 0 32 2 0
+0 44 22 21
 1
 end_operator
 begin_operator
@@ -219472,8 +219472,8 @@ succumb angina curiosity wurst vulcan pluto
 1
 0 21
 2
-0 44 22 21
 0 32 3 2
+0 44 22 21
 1
 end_operator
 begin_operator
@@ -219481,8 +219481,8 @@ succumb angina entertainment bacon neptune vulcan
 1
 1 0
 2
-0 44 23 0
 0 33 1 3
+0 44 23 0
 1
 end_operator
 begin_operator
@@ -219490,8 +219490,8 @@ succumb angina entertainment bacon pluto jupiter
 1
 1 0
 2
-0 44 23 0
 0 33 2 0
+0 44 23 0
 1
 end_operator
 begin_operator
@@ -219499,8 +219499,8 @@ succumb angina entertainment bacon vulcan pluto
 1
 1 0
 2
-0 44 23 0
 0 33 3 2
+0 44 23 0
 1
 end_operator
 begin_operator
@@ -219508,8 +219508,8 @@ succumb angina entertainment broccoli neptune vulcan
 1
 1 1
 2
-0 44 23 1
 0 33 1 3
+0 44 23 1
 1
 end_operator
 begin_operator
@@ -219517,8 +219517,8 @@ succumb angina entertainment broccoli pluto jupiter
 1
 1 1
 2
-0 44 23 1
 0 33 2 0
+0 44 23 1
 1
 end_operator
 begin_operator
@@ -219526,8 +219526,8 @@ succumb angina entertainment broccoli vulcan pluto
 1
 1 1
 2
-0 44 23 1
 0 33 3 2
+0 44 23 1
 1
 end_operator
 begin_operator
@@ -219535,8 +219535,8 @@ succumb angina entertainment cantelope neptune vulcan
 1
 1 2
 2
-0 44 23 2
 0 33 1 3
+0 44 23 2
 1
 end_operator
 begin_operator
@@ -219544,8 +219544,8 @@ succumb angina entertainment cantelope pluto jupiter
 1
 1 2
 2
-0 44 23 2
 0 33 2 0
+0 44 23 2
 1
 end_operator
 begin_operator
@@ -219553,8 +219553,8 @@ succumb angina entertainment cantelope vulcan pluto
 1
 1 2
 2
-0 44 23 2
 0 33 3 2
+0 44 23 2
 1
 end_operator
 begin_operator
@@ -219562,8 +219562,8 @@ succumb angina entertainment chicken neptune vulcan
 1
 1 3
 2
-0 44 23 3
 0 33 1 3
+0 44 23 3
 1
 end_operator
 begin_operator
@@ -219571,8 +219571,8 @@ succumb angina entertainment chicken pluto jupiter
 1
 1 3
 2
-0 44 23 3
 0 33 2 0
+0 44 23 3
 1
 end_operator
 begin_operator
@@ -219580,8 +219580,8 @@ succumb angina entertainment chicken vulcan pluto
 1
 1 3
 2
-0 44 23 3
 0 33 3 2
+0 44 23 3
 1
 end_operator
 begin_operator
@@ -219589,8 +219589,8 @@ succumb angina entertainment chocolate neptune vulcan
 1
 1 4
 2
-0 44 23 4
 0 33 1 3
+0 44 23 4
 1
 end_operator
 begin_operator
@@ -219598,8 +219598,8 @@ succumb angina entertainment chocolate pluto jupiter
 1
 1 4
 2
-0 44 23 4
 0 33 2 0
+0 44 23 4
 1
 end_operator
 begin_operator
@@ -219607,8 +219607,8 @@ succumb angina entertainment chocolate vulcan pluto
 1
 1 4
 2
-0 44 23 4
 0 33 3 2
+0 44 23 4
 1
 end_operator
 begin_operator
@@ -219616,8 +219616,8 @@ succumb angina entertainment cucumber neptune vulcan
 1
 1 5
 2
-0 44 23 5
 0 33 1 3
+0 44 23 5
 1
 end_operator
 begin_operator
@@ -219625,8 +219625,8 @@ succumb angina entertainment cucumber pluto jupiter
 1
 1 5
 2
-0 44 23 5
 0 33 2 0
+0 44 23 5
 1
 end_operator
 begin_operator
@@ -219634,8 +219634,8 @@ succumb angina entertainment cucumber vulcan pluto
 1
 1 5
 2
-0 44 23 5
 0 33 3 2
+0 44 23 5
 1
 end_operator
 begin_operator
@@ -219643,8 +219643,8 @@ succumb angina entertainment endive neptune vulcan
 1
 1 6
 2
-0 44 23 6
 0 33 1 3
+0 44 23 6
 1
 end_operator
 begin_operator
@@ -219652,8 +219652,8 @@ succumb angina entertainment endive pluto jupiter
 1
 1 6
 2
-0 44 23 6
 0 33 2 0
+0 44 23 6
 1
 end_operator
 begin_operator
@@ -219661,8 +219661,8 @@ succumb angina entertainment endive vulcan pluto
 1
 1 6
 2
-0 44 23 6
 0 33 3 2
+0 44 23 6
 1
 end_operator
 begin_operator
@@ -219670,8 +219670,8 @@ succumb angina entertainment guava neptune vulcan
 1
 1 7
 2
-0 44 23 7
 0 33 1 3
+0 44 23 7
 1
 end_operator
 begin_operator
@@ -219679,8 +219679,8 @@ succumb angina entertainment guava pluto jupiter
 1
 1 7
 2
-0 44 23 7
 0 33 2 0
+0 44 23 7
 1
 end_operator
 begin_operator
@@ -219688,8 +219688,8 @@ succumb angina entertainment guava vulcan pluto
 1
 1 7
 2
-0 44 23 7
 0 33 3 2
+0 44 23 7
 1
 end_operator
 begin_operator
@@ -219697,8 +219697,8 @@ succumb angina entertainment haroset neptune vulcan
 1
 1 8
 2
-0 44 23 8
 0 33 1 3
+0 44 23 8
 1
 end_operator
 begin_operator
@@ -219706,8 +219706,8 @@ succumb angina entertainment haroset pluto jupiter
 1
 1 8
 2
-0 44 23 8
 0 33 2 0
+0 44 23 8
 1
 end_operator
 begin_operator
@@ -219715,8 +219715,8 @@ succumb angina entertainment haroset vulcan pluto
 1
 1 8
 2
-0 44 23 8
 0 33 3 2
+0 44 23 8
 1
 end_operator
 begin_operator
@@ -219724,8 +219724,8 @@ succumb angina entertainment hotdog neptune vulcan
 1
 1 9
 2
-0 44 23 9
 0 33 1 3
+0 44 23 9
 1
 end_operator
 begin_operator
@@ -219733,8 +219733,8 @@ succumb angina entertainment hotdog pluto jupiter
 1
 1 9
 2
-0 44 23 9
 0 33 2 0
+0 44 23 9
 1
 end_operator
 begin_operator
@@ -219742,8 +219742,8 @@ succumb angina entertainment hotdog vulcan pluto
 1
 1 9
 2
-0 44 23 9
 0 33 3 2
+0 44 23 9
 1
 end_operator
 begin_operator
@@ -219751,8 +219751,8 @@ succumb angina entertainment lemon neptune vulcan
 1
 1 10
 2
-0 44 23 10
 0 33 1 3
+0 44 23 10
 1
 end_operator
 begin_operator
@@ -219760,8 +219760,8 @@ succumb angina entertainment lemon pluto jupiter
 1
 1 10
 2
-0 44 23 10
 0 33 2 0
+0 44 23 10
 1
 end_operator
 begin_operator
@@ -219769,8 +219769,8 @@ succumb angina entertainment lemon vulcan pluto
 1
 1 10
 2
-0 44 23 10
 0 33 3 2
+0 44 23 10
 1
 end_operator
 begin_operator
@@ -219778,8 +219778,8 @@ succumb angina entertainment marzipan neptune vulcan
 1
 1 11
 2
-0 44 23 11
 0 33 1 3
+0 44 23 11
 1
 end_operator
 begin_operator
@@ -219787,8 +219787,8 @@ succumb angina entertainment marzipan pluto jupiter
 1
 1 11
 2
-0 44 23 11
 0 33 2 0
+0 44 23 11
 1
 end_operator
 begin_operator
@@ -219796,8 +219796,8 @@ succumb angina entertainment marzipan vulcan pluto
 1
 1 11
 2
-0 44 23 11
 0 33 3 2
+0 44 23 11
 1
 end_operator
 begin_operator
@@ -219805,8 +219805,8 @@ succumb angina entertainment orange neptune vulcan
 1
 1 12
 2
-0 44 23 12
 0 33 1 3
+0 44 23 12
 1
 end_operator
 begin_operator
@@ -219814,8 +219814,8 @@ succumb angina entertainment orange pluto jupiter
 1
 1 12
 2
-0 44 23 12
 0 33 2 0
+0 44 23 12
 1
 end_operator
 begin_operator
@@ -219823,8 +219823,8 @@ succumb angina entertainment orange vulcan pluto
 1
 1 12
 2
-0 44 23 12
 0 33 3 2
+0 44 23 12
 1
 end_operator
 begin_operator
@@ -219832,8 +219832,8 @@ succumb angina entertainment pea neptune vulcan
 1
 1 13
 2
-0 44 23 13
 0 33 1 3
+0 44 23 13
 1
 end_operator
 begin_operator
@@ -219841,8 +219841,8 @@ succumb angina entertainment pea pluto jupiter
 1
 1 13
 2
-0 44 23 13
 0 33 2 0
+0 44 23 13
 1
 end_operator
 begin_operator
@@ -219850,8 +219850,8 @@ succumb angina entertainment pea vulcan pluto
 1
 1 13
 2
-0 44 23 13
 0 33 3 2
+0 44 23 13
 1
 end_operator
 begin_operator
@@ -219859,8 +219859,8 @@ succumb angina entertainment pepper neptune vulcan
 1
 1 14
 2
-0 44 23 14
 0 33 1 3
+0 44 23 14
 1
 end_operator
 begin_operator
@@ -219868,8 +219868,8 @@ succumb angina entertainment pepper pluto jupiter
 1
 1 14
 2
-0 44 23 14
 0 33 2 0
+0 44 23 14
 1
 end_operator
 begin_operator
@@ -219877,8 +219877,8 @@ succumb angina entertainment pepper vulcan pluto
 1
 1 14
 2
-0 44 23 14
 0 33 3 2
+0 44 23 14
 1
 end_operator
 begin_operator
@@ -219886,8 +219886,8 @@ succumb angina entertainment potato neptune vulcan
 1
 1 15
 2
-0 44 23 15
 0 33 1 3
+0 44 23 15
 1
 end_operator
 begin_operator
@@ -219895,8 +219895,8 @@ succumb angina entertainment potato pluto jupiter
 1
 1 15
 2
-0 44 23 15
 0 33 2 0
+0 44 23 15
 1
 end_operator
 begin_operator
@@ -219904,8 +219904,8 @@ succumb angina entertainment potato vulcan pluto
 1
 1 15
 2
-0 44 23 15
 0 33 3 2
+0 44 23 15
 1
 end_operator
 begin_operator
@@ -219913,8 +219913,8 @@ succumb angina entertainment rice neptune vulcan
 1
 1 16
 2
-0 44 23 16
 0 33 1 3
+0 44 23 16
 1
 end_operator
 begin_operator
@@ -219922,8 +219922,8 @@ succumb angina entertainment rice pluto jupiter
 1
 1 16
 2
-0 44 23 16
 0 33 2 0
+0 44 23 16
 1
 end_operator
 begin_operator
@@ -219931,8 +219931,8 @@ succumb angina entertainment rice vulcan pluto
 1
 1 16
 2
-0 44 23 16
 0 33 3 2
+0 44 23 16
 1
 end_operator
 begin_operator
@@ -219940,8 +219940,8 @@ succumb angina entertainment scallop neptune vulcan
 1
 1 17
 2
-0 44 23 17
 0 33 1 3
+0 44 23 17
 1
 end_operator
 begin_operator
@@ -219949,8 +219949,8 @@ succumb angina entertainment scallop pluto jupiter
 1
 1 17
 2
-0 44 23 17
 0 33 2 0
+0 44 23 17
 1
 end_operator
 begin_operator
@@ -219958,8 +219958,8 @@ succumb angina entertainment scallop vulcan pluto
 1
 1 17
 2
-0 44 23 17
 0 33 3 2
+0 44 23 17
 1
 end_operator
 begin_operator
@@ -219967,8 +219967,8 @@ succumb angina entertainment tofu neptune vulcan
 1
 1 18
 2
-0 44 23 18
 0 33 1 3
+0 44 23 18
 1
 end_operator
 begin_operator
@@ -219976,8 +219976,8 @@ succumb angina entertainment tofu pluto jupiter
 1
 1 18
 2
-0 44 23 18
 0 33 2 0
+0 44 23 18
 1
 end_operator
 begin_operator
@@ -219985,8 +219985,8 @@ succumb angina entertainment tofu vulcan pluto
 1
 1 18
 2
-0 44 23 18
 0 33 3 2
+0 44 23 18
 1
 end_operator
 begin_operator
@@ -219994,8 +219994,8 @@ succumb angina entertainment turkey neptune vulcan
 1
 1 19
 2
-0 44 23 19
 0 33 1 3
+0 44 23 19
 1
 end_operator
 begin_operator
@@ -220003,8 +220003,8 @@ succumb angina entertainment turkey pluto jupiter
 1
 1 19
 2
-0 44 23 19
 0 33 2 0
+0 44 23 19
 1
 end_operator
 begin_operator
@@ -220012,8 +220012,8 @@ succumb angina entertainment turkey vulcan pluto
 1
 1 19
 2
-0 44 23 19
 0 33 3 2
+0 44 23 19
 1
 end_operator
 begin_operator
@@ -220021,8 +220021,8 @@ succumb angina entertainment wonderbread neptune vulcan
 1
 1 20
 2
-0 44 23 20
 0 33 1 3
+0 44 23 20
 1
 end_operator
 begin_operator
@@ -220030,8 +220030,8 @@ succumb angina entertainment wonderbread pluto jupiter
 1
 1 20
 2
-0 44 23 20
 0 33 2 0
+0 44 23 20
 1
 end_operator
 begin_operator
@@ -220039,8 +220039,8 @@ succumb angina entertainment wonderbread vulcan pluto
 1
 1 20
 2
-0 44 23 20
 0 33 3 2
+0 44 23 20
 1
 end_operator
 begin_operator
@@ -220048,8 +220048,8 @@ succumb angina entertainment wurst neptune vulcan
 1
 1 21
 2
-0 44 23 21
 0 33 1 3
+0 44 23 21
 1
 end_operator
 begin_operator
@@ -220057,8 +220057,8 @@ succumb angina entertainment wurst pluto jupiter
 1
 1 21
 2
-0 44 23 21
 0 33 2 0
+0 44 23 21
 1
 end_operator
 begin_operator
@@ -220066,8 +220066,8 @@ succumb angina entertainment wurst vulcan pluto
 1
 1 21
 2
-0 44 23 21
 0 33 3 2
+0 44 23 21
 1
 end_operator
 begin_operator
@@ -220075,8 +220075,8 @@ succumb angina expectation bacon neptune vulcan
 1
 2 0
 2
-0 44 24 0
 0 36 1 3
+0 44 24 0
 1
 end_operator
 begin_operator
@@ -220084,8 +220084,8 @@ succumb angina expectation bacon pluto jupiter
 1
 2 0
 2
-0 44 24 0
 0 36 2 0
+0 44 24 0
 1
 end_operator
 begin_operator
@@ -220093,8 +220093,8 @@ succumb angina expectation bacon vulcan pluto
 1
 2 0
 2
-0 44 24 0
 0 36 3 2
+0 44 24 0
 1
 end_operator
 begin_operator
@@ -220102,8 +220102,8 @@ succumb angina expectation broccoli neptune vulcan
 1
 2 1
 2
-0 44 24 1
 0 36 1 3
+0 44 24 1
 1
 end_operator
 begin_operator
@@ -220111,8 +220111,8 @@ succumb angina expectation broccoli pluto jupiter
 1
 2 1
 2
-0 44 24 1
 0 36 2 0
+0 44 24 1
 1
 end_operator
 begin_operator
@@ -220120,8 +220120,8 @@ succumb angina expectation broccoli vulcan pluto
 1
 2 1
 2
-0 44 24 1
 0 36 3 2
+0 44 24 1
 1
 end_operator
 begin_operator
@@ -220129,8 +220129,8 @@ succumb angina expectation cantelope neptune vulcan
 1
 2 2
 2
-0 44 24 2
 0 36 1 3
+0 44 24 2
 1
 end_operator
 begin_operator
@@ -220138,8 +220138,8 @@ succumb angina expectation cantelope pluto jupiter
 1
 2 2
 2
-0 44 24 2
 0 36 2 0
+0 44 24 2
 1
 end_operator
 begin_operator
@@ -220147,8 +220147,8 @@ succumb angina expectation cantelope vulcan pluto
 1
 2 2
 2
-0 44 24 2
 0 36 3 2
+0 44 24 2
 1
 end_operator
 begin_operator
@@ -220156,8 +220156,8 @@ succumb angina expectation chicken neptune vulcan
 1
 2 3
 2
-0 44 24 3
 0 36 1 3
+0 44 24 3
 1
 end_operator
 begin_operator
@@ -220165,8 +220165,8 @@ succumb angina expectation chicken pluto jupiter
 1
 2 3
 2
-0 44 24 3
 0 36 2 0
+0 44 24 3
 1
 end_operator
 begin_operator
@@ -220174,8 +220174,8 @@ succumb angina expectation chicken vulcan pluto
 1
 2 3
 2
-0 44 24 3
 0 36 3 2
+0 44 24 3
 1
 end_operator
 begin_operator
@@ -220183,8 +220183,8 @@ succumb angina expectation chocolate neptune vulcan
 1
 2 4
 2
-0 44 24 4
 0 36 1 3
+0 44 24 4
 1
 end_operator
 begin_operator
@@ -220192,8 +220192,8 @@ succumb angina expectation chocolate pluto jupiter
 1
 2 4
 2
-0 44 24 4
 0 36 2 0
+0 44 24 4
 1
 end_operator
 begin_operator
@@ -220201,8 +220201,8 @@ succumb angina expectation chocolate vulcan pluto
 1
 2 4
 2
-0 44 24 4
 0 36 3 2
+0 44 24 4
 1
 end_operator
 begin_operator
@@ -220210,8 +220210,8 @@ succumb angina expectation cucumber neptune vulcan
 1
 2 5
 2
-0 44 24 5
 0 36 1 3
+0 44 24 5
 1
 end_operator
 begin_operator
@@ -220219,8 +220219,8 @@ succumb angina expectation cucumber pluto jupiter
 1
 2 5
 2
-0 44 24 5
 0 36 2 0
+0 44 24 5
 1
 end_operator
 begin_operator
@@ -220228,8 +220228,8 @@ succumb angina expectation cucumber vulcan pluto
 1
 2 5
 2
-0 44 24 5
 0 36 3 2
+0 44 24 5
 1
 end_operator
 begin_operator
@@ -220237,8 +220237,8 @@ succumb angina expectation endive neptune vulcan
 1
 2 6
 2
-0 44 24 6
 0 36 1 3
+0 44 24 6
 1
 end_operator
 begin_operator
@@ -220246,8 +220246,8 @@ succumb angina expectation endive pluto jupiter
 1
 2 6
 2
-0 44 24 6
 0 36 2 0
+0 44 24 6
 1
 end_operator
 begin_operator
@@ -220255,8 +220255,8 @@ succumb angina expectation endive vulcan pluto
 1
 2 6
 2
-0 44 24 6
 0 36 3 2
+0 44 24 6
 1
 end_operator
 begin_operator
@@ -220264,8 +220264,8 @@ succumb angina expectation guava neptune vulcan
 1
 2 7
 2
-0 44 24 7
 0 36 1 3
+0 44 24 7
 1
 end_operator
 begin_operator
@@ -220273,8 +220273,8 @@ succumb angina expectation guava pluto jupiter
 1
 2 7
 2
-0 44 24 7
 0 36 2 0
+0 44 24 7
 1
 end_operator
 begin_operator
@@ -220282,8 +220282,8 @@ succumb angina expectation guava vulcan pluto
 1
 2 7
 2
-0 44 24 7
 0 36 3 2
+0 44 24 7
 1
 end_operator
 begin_operator
@@ -220291,8 +220291,8 @@ succumb angina expectation haroset neptune vulcan
 1
 2 8
 2
-0 44 24 8
 0 36 1 3
+0 44 24 8
 1
 end_operator
 begin_operator
@@ -220300,8 +220300,8 @@ succumb angina expectation haroset pluto jupiter
 1
 2 8
 2
-0 44 24 8
 0 36 2 0
+0 44 24 8
 1
 end_operator
 begin_operator
@@ -220309,8 +220309,8 @@ succumb angina expectation haroset vulcan pluto
 1
 2 8
 2
-0 44 24 8
 0 36 3 2
+0 44 24 8
 1
 end_operator
 begin_operator
@@ -220318,8 +220318,8 @@ succumb angina expectation hotdog neptune vulcan
 1
 2 9
 2
-0 44 24 9
 0 36 1 3
+0 44 24 9
 1
 end_operator
 begin_operator
@@ -220327,8 +220327,8 @@ succumb angina expectation hotdog pluto jupiter
 1
 2 9
 2
-0 44 24 9
 0 36 2 0
+0 44 24 9
 1
 end_operator
 begin_operator
@@ -220336,8 +220336,8 @@ succumb angina expectation hotdog vulcan pluto
 1
 2 9
 2
-0 44 24 9
 0 36 3 2
+0 44 24 9
 1
 end_operator
 begin_operator
@@ -220345,8 +220345,8 @@ succumb angina expectation lemon neptune vulcan
 1
 2 10
 2
-0 44 24 10
 0 36 1 3
+0 44 24 10
 1
 end_operator
 begin_operator
@@ -220354,8 +220354,8 @@ succumb angina expectation lemon pluto jupiter
 1
 2 10
 2
-0 44 24 10
 0 36 2 0
+0 44 24 10
 1
 end_operator
 begin_operator
@@ -220363,8 +220363,8 @@ succumb angina expectation lemon vulcan pluto
 1
 2 10
 2
-0 44 24 10
 0 36 3 2
+0 44 24 10
 1
 end_operator
 begin_operator
@@ -220372,8 +220372,8 @@ succumb angina expectation marzipan neptune vulcan
 1
 2 11
 2
-0 44 24 11
 0 36 1 3
+0 44 24 11
 1
 end_operator
 begin_operator
@@ -220381,8 +220381,8 @@ succumb angina expectation marzipan pluto jupiter
 1
 2 11
 2
-0 44 24 11
 0 36 2 0
+0 44 24 11
 1
 end_operator
 begin_operator
@@ -220390,8 +220390,8 @@ succumb angina expectation marzipan vulcan pluto
 1
 2 11
 2
-0 44 24 11
 0 36 3 2
+0 44 24 11
 1
 end_operator
 begin_operator
@@ -220399,8 +220399,8 @@ succumb angina expectation orange neptune vulcan
 1
 2 12
 2
-0 44 24 12
 0 36 1 3
+0 44 24 12
 1
 end_operator
 begin_operator
@@ -220408,8 +220408,8 @@ succumb angina expectation orange pluto jupiter
 1
 2 12
 2
-0 44 24 12
 0 36 2 0
+0 44 24 12
 1
 end_operator
 begin_operator
@@ -220417,8 +220417,8 @@ succumb angina expectation orange vulcan pluto
 1
 2 12
 2
-0 44 24 12
 0 36 3 2
+0 44 24 12
 1
 end_operator
 begin_operator
@@ -220426,8 +220426,8 @@ succumb angina expectation pea neptune vulcan
 1
 2 13
 2
-0 44 24 13
 0 36 1 3
+0 44 24 13
 1
 end_operator
 begin_operator
@@ -220435,8 +220435,8 @@ succumb angina expectation pea pluto jupiter
 1
 2 13
 2
-0 44 24 13
 0 36 2 0
+0 44 24 13
 1
 end_operator
 begin_operator
@@ -220444,8 +220444,8 @@ succumb angina expectation pea vulcan pluto
 1
 2 13
 2
-0 44 24 13
 0 36 3 2
+0 44 24 13
 1
 end_operator
 begin_operator
@@ -220453,8 +220453,8 @@ succumb angina expectation pepper neptune vulcan
 1
 2 14
 2
-0 44 24 14
 0 36 1 3
+0 44 24 14
 1
 end_operator
 begin_operator
@@ -220462,8 +220462,8 @@ succumb angina expectation pepper pluto jupiter
 1
 2 14
 2
-0 44 24 14
 0 36 2 0
+0 44 24 14
 1
 end_operator
 begin_operator
@@ -220471,8 +220471,8 @@ succumb angina expectation pepper vulcan pluto
 1
 2 14
 2
-0 44 24 14
 0 36 3 2
+0 44 24 14
 1
 end_operator
 begin_operator
@@ -220480,8 +220480,8 @@ succumb angina expectation potato neptune vulcan
 1
 2 15
 2
-0 44 24 15
 0 36 1 3
+0 44 24 15
 1
 end_operator
 begin_operator
@@ -220489,8 +220489,8 @@ succumb angina expectation potato pluto jupiter
 1
 2 15
 2
-0 44 24 15
 0 36 2 0
+0 44 24 15
 1
 end_operator
 begin_operator
@@ -220498,8 +220498,8 @@ succumb angina expectation potato vulcan pluto
 1
 2 15
 2
-0 44 24 15
 0 36 3 2
+0 44 24 15
 1
 end_operator
 begin_operator
@@ -220507,8 +220507,8 @@ succumb angina expectation rice neptune vulcan
 1
 2 16
 2
-0 44 24 16
 0 36 1 3
+0 44 24 16
 1
 end_operator
 begin_operator
@@ -220516,8 +220516,8 @@ succumb angina expectation rice pluto jupiter
 1
 2 16
 2
-0 44 24 16
 0 36 2 0
+0 44 24 16
 1
 end_operator
 begin_operator
@@ -220525,8 +220525,8 @@ succumb angina expectation rice vulcan pluto
 1
 2 16
 2
-0 44 24 16
 0 36 3 2
+0 44 24 16
 1
 end_operator
 begin_operator
@@ -220534,8 +220534,8 @@ succumb angina expectation scallop neptune vulcan
 1
 2 17
 2
-0 44 24 17
 0 36 1 3
+0 44 24 17
 1
 end_operator
 begin_operator
@@ -220543,8 +220543,8 @@ succumb angina expectation scallop pluto jupiter
 1
 2 17
 2
-0 44 24 17
 0 36 2 0
+0 44 24 17
 1
 end_operator
 begin_operator
@@ -220552,8 +220552,8 @@ succumb angina expectation scallop vulcan pluto
 1
 2 17
 2
-0 44 24 17
 0 36 3 2
+0 44 24 17
 1
 end_operator
 begin_operator
@@ -220561,8 +220561,8 @@ succumb angina expectation tofu neptune vulcan
 1
 2 18
 2
-0 44 24 18
 0 36 1 3
+0 44 24 18
 1
 end_operator
 begin_operator
@@ -220570,8 +220570,8 @@ succumb angina expectation tofu pluto jupiter
 1
 2 18
 2
-0 44 24 18
 0 36 2 0
+0 44 24 18
 1
 end_operator
 begin_operator
@@ -220579,8 +220579,8 @@ succumb angina expectation tofu vulcan pluto
 1
 2 18
 2
-0 44 24 18
 0 36 3 2
+0 44 24 18
 1
 end_operator
 begin_operator
@@ -220588,8 +220588,8 @@ succumb angina expectation turkey neptune vulcan
 1
 2 19
 2
-0 44 24 19
 0 36 1 3
+0 44 24 19
 1
 end_operator
 begin_operator
@@ -220597,8 +220597,8 @@ succumb angina expectation turkey pluto jupiter
 1
 2 19
 2
-0 44 24 19
 0 36 2 0
+0 44 24 19
 1
 end_operator
 begin_operator
@@ -220606,8 +220606,8 @@ succumb angina expectation turkey vulcan pluto
 1
 2 19
 2
-0 44 24 19
 0 36 3 2
+0 44 24 19
 1
 end_operator
 begin_operator
@@ -220615,8 +220615,8 @@ succumb angina expectation wonderbread neptune vulcan
 1
 2 20
 2
-0 44 24 20
 0 36 1 3
+0 44 24 20
 1
 end_operator
 begin_operator
@@ -220624,8 +220624,8 @@ succumb angina expectation wonderbread pluto jupiter
 1
 2 20
 2
-0 44 24 20
 0 36 2 0
+0 44 24 20
 1
 end_operator
 begin_operator
@@ -220633,8 +220633,8 @@ succumb angina expectation wonderbread vulcan pluto
 1
 2 20
 2
-0 44 24 20
 0 36 3 2
+0 44 24 20
 1
 end_operator
 begin_operator
@@ -220642,8 +220642,8 @@ succumb angina expectation wurst neptune vulcan
 1
 2 21
 2
-0 44 24 21
 0 36 1 3
+0 44 24 21
 1
 end_operator
 begin_operator
@@ -220651,8 +220651,8 @@ succumb angina expectation wurst pluto jupiter
 1
 2 21
 2
-0 44 24 21
 0 36 2 0
+0 44 24 21
 1
 end_operator
 begin_operator
@@ -220660,8 +220660,8 @@ succumb angina expectation wurst vulcan pluto
 1
 2 21
 2
-0 44 24 21
 0 36 3 2
+0 44 24 21
 1
 end_operator
 begin_operator
@@ -220669,8 +220669,8 @@ succumb angina learning bacon neptune vulcan
 1
 3 0
 2
-0 44 25 0
 0 37 1 3
+0 44 25 0
 1
 end_operator
 begin_operator
@@ -220678,8 +220678,8 @@ succumb angina learning bacon pluto jupiter
 1
 3 0
 2
-0 44 25 0
 0 37 2 0
+0 44 25 0
 1
 end_operator
 begin_operator
@@ -220687,8 +220687,8 @@ succumb angina learning bacon vulcan pluto
 1
 3 0
 2
-0 44 25 0
 0 37 3 2
+0 44 25 0
 1
 end_operator
 begin_operator
@@ -220696,8 +220696,8 @@ succumb angina learning broccoli neptune vulcan
 1
 3 1
 2
-0 44 25 1
 0 37 1 3
+0 44 25 1
 1
 end_operator
 begin_operator
@@ -220705,8 +220705,8 @@ succumb angina learning broccoli pluto jupiter
 1
 3 1
 2
-0 44 25 1
 0 37 2 0
+0 44 25 1
 1
 end_operator
 begin_operator
@@ -220714,8 +220714,8 @@ succumb angina learning broccoli vulcan pluto
 1
 3 1
 2
-0 44 25 1
 0 37 3 2
+0 44 25 1
 1
 end_operator
 begin_operator
@@ -220723,8 +220723,8 @@ succumb angina learning cantelope neptune vulcan
 1
 3 2
 2
-0 44 25 2
 0 37 1 3
+0 44 25 2
 1
 end_operator
 begin_operator
@@ -220732,8 +220732,8 @@ succumb angina learning cantelope pluto jupiter
 1
 3 2
 2
-0 44 25 2
 0 37 2 0
+0 44 25 2
 1
 end_operator
 begin_operator
@@ -220741,8 +220741,8 @@ succumb angina learning cantelope vulcan pluto
 1
 3 2
 2
-0 44 25 2
 0 37 3 2
+0 44 25 2
 1
 end_operator
 begin_operator
@@ -220750,8 +220750,8 @@ succumb angina learning chicken neptune vulcan
 1
 3 3
 2
-0 44 25 3
 0 37 1 3
+0 44 25 3
 1
 end_operator
 begin_operator
@@ -220759,8 +220759,8 @@ succumb angina learning chicken pluto jupiter
 1
 3 3
 2
-0 44 25 3
 0 37 2 0
+0 44 25 3
 1
 end_operator
 begin_operator
@@ -220768,8 +220768,8 @@ succumb angina learning chicken vulcan pluto
 1
 3 3
 2
-0 44 25 3
 0 37 3 2
+0 44 25 3
 1
 end_operator
 begin_operator
@@ -220777,8 +220777,8 @@ succumb angina learning chocolate neptune vulcan
 1
 3 4
 2
-0 44 25 4
 0 37 1 3
+0 44 25 4
 1
 end_operator
 begin_operator
@@ -220786,8 +220786,8 @@ succumb angina learning chocolate pluto jupiter
 1
 3 4
 2
-0 44 25 4
 0 37 2 0
+0 44 25 4
 1
 end_operator
 begin_operator
@@ -220795,8 +220795,8 @@ succumb angina learning chocolate vulcan pluto
 1
 3 4
 2
-0 44 25 4
 0 37 3 2
+0 44 25 4
 1
 end_operator
 begin_operator
@@ -220804,8 +220804,8 @@ succumb angina learning cucumber neptune vulcan
 1
 3 5
 2
-0 44 25 5
 0 37 1 3
+0 44 25 5
 1
 end_operator
 begin_operator
@@ -220813,8 +220813,8 @@ succumb angina learning cucumber pluto jupiter
 1
 3 5
 2
-0 44 25 5
 0 37 2 0
+0 44 25 5
 1
 end_operator
 begin_operator
@@ -220822,8 +220822,8 @@ succumb angina learning cucumber vulcan pluto
 1
 3 5
 2
-0 44 25 5
 0 37 3 2
+0 44 25 5
 1
 end_operator
 begin_operator
@@ -220831,8 +220831,8 @@ succumb angina learning endive neptune vulcan
 1
 3 6
 2
-0 44 25 6
 0 37 1 3
+0 44 25 6
 1
 end_operator
 begin_operator
@@ -220840,8 +220840,8 @@ succumb angina learning endive pluto jupiter
 1
 3 6
 2
-0 44 25 6
 0 37 2 0
+0 44 25 6
 1
 end_operator
 begin_operator
@@ -220849,8 +220849,8 @@ succumb angina learning endive vulcan pluto
 1
 3 6
 2
-0 44 25 6
 0 37 3 2
+0 44 25 6
 1
 end_operator
 begin_operator
@@ -220858,8 +220858,8 @@ succumb angina learning guava neptune vulcan
 1
 3 7
 2
-0 44 25 7
 0 37 1 3
+0 44 25 7
 1
 end_operator
 begin_operator
@@ -220867,8 +220867,8 @@ succumb angina learning guava pluto jupiter
 1
 3 7
 2
-0 44 25 7
 0 37 2 0
+0 44 25 7
 1
 end_operator
 begin_operator
@@ -220876,8 +220876,8 @@ succumb angina learning guava vulcan pluto
 1
 3 7
 2
-0 44 25 7
 0 37 3 2
+0 44 25 7
 1
 end_operator
 begin_operator
@@ -220885,8 +220885,8 @@ succumb angina learning haroset neptune vulcan
 1
 3 8
 2
-0 44 25 8
 0 37 1 3
+0 44 25 8
 1
 end_operator
 begin_operator
@@ -220894,8 +220894,8 @@ succumb angina learning haroset pluto jupiter
 1
 3 8
 2
-0 44 25 8
 0 37 2 0
+0 44 25 8
 1
 end_operator
 begin_operator
@@ -220903,8 +220903,8 @@ succumb angina learning haroset vulcan pluto
 1
 3 8
 2
-0 44 25 8
 0 37 3 2
+0 44 25 8
 1
 end_operator
 begin_operator
@@ -220912,8 +220912,8 @@ succumb angina learning hotdog neptune vulcan
 1
 3 9
 2
-0 44 25 9
 0 37 1 3
+0 44 25 9
 1
 end_operator
 begin_operator
@@ -220921,8 +220921,8 @@ succumb angina learning hotdog pluto jupiter
 1
 3 9
 2
-0 44 25 9
 0 37 2 0
+0 44 25 9
 1
 end_operator
 begin_operator
@@ -220930,8 +220930,8 @@ succumb angina learning hotdog vulcan pluto
 1
 3 9
 2
-0 44 25 9
 0 37 3 2
+0 44 25 9
 1
 end_operator
 begin_operator
@@ -220939,8 +220939,8 @@ succumb angina learning lemon neptune vulcan
 1
 3 10
 2
-0 44 25 10
 0 37 1 3
+0 44 25 10
 1
 end_operator
 begin_operator
@@ -220948,8 +220948,8 @@ succumb angina learning lemon pluto jupiter
 1
 3 10
 2
-0 44 25 10
 0 37 2 0
+0 44 25 10
 1
 end_operator
 begin_operator
@@ -220957,8 +220957,8 @@ succumb angina learning lemon vulcan pluto
 1
 3 10
 2
-0 44 25 10
 0 37 3 2
+0 44 25 10
 1
 end_operator
 begin_operator
@@ -220966,8 +220966,8 @@ succumb angina learning marzipan neptune vulcan
 1
 3 11
 2
-0 44 25 11
 0 37 1 3
+0 44 25 11
 1
 end_operator
 begin_operator
@@ -220975,8 +220975,8 @@ succumb angina learning marzipan pluto jupiter
 1
 3 11
 2
-0 44 25 11
 0 37 2 0
+0 44 25 11
 1
 end_operator
 begin_operator
@@ -220984,8 +220984,8 @@ succumb angina learning marzipan vulcan pluto
 1
 3 11
 2
-0 44 25 11
 0 37 3 2
+0 44 25 11
 1
 end_operator
 begin_operator
@@ -220993,8 +220993,8 @@ succumb angina learning orange neptune vulcan
 1
 3 12
 2
-0 44 25 12
 0 37 1 3
+0 44 25 12
 1
 end_operator
 begin_operator
@@ -221002,8 +221002,8 @@ succumb angina learning orange pluto jupiter
 1
 3 12
 2
-0 44 25 12
 0 37 2 0
+0 44 25 12
 1
 end_operator
 begin_operator
@@ -221011,8 +221011,8 @@ succumb angina learning orange vulcan pluto
 1
 3 12
 2
-0 44 25 12
 0 37 3 2
+0 44 25 12
 1
 end_operator
 begin_operator
@@ -221020,8 +221020,8 @@ succumb angina learning pea neptune vulcan
 1
 3 13
 2
-0 44 25 13
 0 37 1 3
+0 44 25 13
 1
 end_operator
 begin_operator
@@ -221029,8 +221029,8 @@ succumb angina learning pea pluto jupiter
 1
 3 13
 2
-0 44 25 13
 0 37 2 0
+0 44 25 13
 1
 end_operator
 begin_operator
@@ -221038,8 +221038,8 @@ succumb angina learning pea vulcan pluto
 1
 3 13
 2
-0 44 25 13
 0 37 3 2
+0 44 25 13
 1
 end_operator
 begin_operator
@@ -221047,8 +221047,8 @@ succumb angina learning pepper neptune vulcan
 1
 3 14
 2
-0 44 25 14
 0 37 1 3
+0 44 25 14
 1
 end_operator
 begin_operator
@@ -221056,8 +221056,8 @@ succumb angina learning pepper pluto jupiter
 1
 3 14
 2
-0 44 25 14
 0 37 2 0
+0 44 25 14
 1
 end_operator
 begin_operator
@@ -221065,8 +221065,8 @@ succumb angina learning pepper vulcan pluto
 1
 3 14
 2
-0 44 25 14
 0 37 3 2
+0 44 25 14
 1
 end_operator
 begin_operator
@@ -221074,8 +221074,8 @@ succumb angina learning potato neptune vulcan
 1
 3 15
 2
-0 44 25 15
 0 37 1 3
+0 44 25 15
 1
 end_operator
 begin_operator
@@ -221083,8 +221083,8 @@ succumb angina learning potato pluto jupiter
 1
 3 15
 2
-0 44 25 15
 0 37 2 0
+0 44 25 15
 1
 end_operator
 begin_operator
@@ -221092,8 +221092,8 @@ succumb angina learning potato vulcan pluto
 1
 3 15
 2
-0 44 25 15
 0 37 3 2
+0 44 25 15
 1
 end_operator
 begin_operator
@@ -221101,8 +221101,8 @@ succumb angina learning rice neptune vulcan
 1
 3 16
 2
-0 44 25 16
 0 37 1 3
+0 44 25 16
 1
 end_operator
 begin_operator
@@ -221110,8 +221110,8 @@ succumb angina learning rice pluto jupiter
 1
 3 16
 2
-0 44 25 16
 0 37 2 0
+0 44 25 16
 1
 end_operator
 begin_operator
@@ -221119,8 +221119,8 @@ succumb angina learning rice vulcan pluto
 1
 3 16
 2
-0 44 25 16
 0 37 3 2
+0 44 25 16
 1
 end_operator
 begin_operator
@@ -221128,8 +221128,8 @@ succumb angina learning scallop neptune vulcan
 1
 3 17
 2
-0 44 25 17
 0 37 1 3
+0 44 25 17
 1
 end_operator
 begin_operator
@@ -221137,8 +221137,8 @@ succumb angina learning scallop pluto jupiter
 1
 3 17
 2
-0 44 25 17
 0 37 2 0
+0 44 25 17
 1
 end_operator
 begin_operator
@@ -221146,8 +221146,8 @@ succumb angina learning scallop vulcan pluto
 1
 3 17
 2
-0 44 25 17
 0 37 3 2
+0 44 25 17
 1
 end_operator
 begin_operator
@@ -221155,8 +221155,8 @@ succumb angina learning tofu neptune vulcan
 1
 3 18
 2
-0 44 25 18
 0 37 1 3
+0 44 25 18
 1
 end_operator
 begin_operator
@@ -221164,8 +221164,8 @@ succumb angina learning tofu pluto jupiter
 1
 3 18
 2
-0 44 25 18
 0 37 2 0
+0 44 25 18
 1
 end_operator
 begin_operator
@@ -221173,8 +221173,8 @@ succumb angina learning tofu vulcan pluto
 1
 3 18
 2
-0 44 25 18
 0 37 3 2
+0 44 25 18
 1
 end_operator
 begin_operator
@@ -221182,8 +221182,8 @@ succumb angina learning turkey neptune vulcan
 1
 3 19
 2
-0 44 25 19
 0 37 1 3
+0 44 25 19
 1
 end_operator
 begin_operator
@@ -221191,8 +221191,8 @@ succumb angina learning turkey pluto jupiter
 1
 3 19
 2
-0 44 25 19
 0 37 2 0
+0 44 25 19
 1
 end_operator
 begin_operator
@@ -221200,8 +221200,8 @@ succumb angina learning turkey vulcan pluto
 1
 3 19
 2
-0 44 25 19
 0 37 3 2
+0 44 25 19
 1
 end_operator
 begin_operator
@@ -221209,8 +221209,8 @@ succumb angina learning wonderbread neptune vulcan
 1
 3 20
 2
-0 44 25 20
 0 37 1 3
+0 44 25 20
 1
 end_operator
 begin_operator
@@ -221218,8 +221218,8 @@ succumb angina learning wonderbread pluto jupiter
 1
 3 20
 2
-0 44 25 20
 0 37 2 0
+0 44 25 20
 1
 end_operator
 begin_operator
@@ -221227,8 +221227,8 @@ succumb angina learning wonderbread vulcan pluto
 1
 3 20
 2
-0 44 25 20
 0 37 3 2
+0 44 25 20
 1
 end_operator
 begin_operator
@@ -221236,8 +221236,8 @@ succumb angina learning wurst neptune vulcan
 1
 3 21
 2
-0 44 25 21
 0 37 1 3
+0 44 25 21
 1
 end_operator
 begin_operator
@@ -221245,8 +221245,8 @@ succumb angina learning wurst pluto jupiter
 1
 3 21
 2
-0 44 25 21
 0 37 2 0
+0 44 25 21
 1
 end_operator
 begin_operator
@@ -221254,8 +221254,8 @@ succumb angina learning wurst vulcan pluto
 1
 3 21
 2
-0 44 25 21
 0 37 3 2
+0 44 25 21
 1
 end_operator
 begin_operator
@@ -221263,8 +221263,8 @@ succumb angina rest bacon neptune vulcan
 1
 4 0
 2
-0 44 26 0
 0 40 1 3
+0 44 26 0
 1
 end_operator
 begin_operator
@@ -221272,8 +221272,8 @@ succumb angina rest bacon pluto jupiter
 1
 4 0
 2
-0 44 26 0
 0 40 2 0
+0 44 26 0
 1
 end_operator
 begin_operator
@@ -221281,8 +221281,8 @@ succumb angina rest bacon vulcan pluto
 1
 4 0
 2
-0 44 26 0
 0 40 3 2
+0 44 26 0
 1
 end_operator
 begin_operator
@@ -221290,8 +221290,8 @@ succumb angina rest broccoli neptune vulcan
 1
 4 1
 2
-0 44 26 1
 0 40 1 3
+0 44 26 1
 1
 end_operator
 begin_operator
@@ -221299,8 +221299,8 @@ succumb angina rest broccoli pluto jupiter
 1
 4 1
 2
-0 44 26 1
 0 40 2 0
+0 44 26 1
 1
 end_operator
 begin_operator
@@ -221308,8 +221308,8 @@ succumb angina rest broccoli vulcan pluto
 1
 4 1
 2
-0 44 26 1
 0 40 3 2
+0 44 26 1
 1
 end_operator
 begin_operator
@@ -221317,8 +221317,8 @@ succumb angina rest cantelope neptune vulcan
 1
 4 2
 2
-0 44 26 2
 0 40 1 3
+0 44 26 2
 1
 end_operator
 begin_operator
@@ -221326,8 +221326,8 @@ succumb angina rest cantelope pluto jupiter
 1
 4 2
 2
-0 44 26 2
 0 40 2 0
+0 44 26 2
 1
 end_operator
 begin_operator
@@ -221335,8 +221335,8 @@ succumb angina rest cantelope vulcan pluto
 1
 4 2
 2
-0 44 26 2
 0 40 3 2
+0 44 26 2
 1
 end_operator
 begin_operator
@@ -221344,8 +221344,8 @@ succumb angina rest chicken neptune vulcan
 1
 4 3
 2
-0 44 26 3
 0 40 1 3
+0 44 26 3
 1
 end_operator
 begin_operator
@@ -221353,8 +221353,8 @@ succumb angina rest chicken pluto jupiter
 1
 4 3
 2
-0 44 26 3
 0 40 2 0
+0 44 26 3
 1
 end_operator
 begin_operator
@@ -221362,8 +221362,8 @@ succumb angina rest chicken vulcan pluto
 1
 4 3
 2
-0 44 26 3
 0 40 3 2
+0 44 26 3
 1
 end_operator
 begin_operator
@@ -221371,8 +221371,8 @@ succumb angina rest chocolate neptune vulcan
 1
 4 4
 2
-0 44 26 4
 0 40 1 3
+0 44 26 4
 1
 end_operator
 begin_operator
@@ -221380,8 +221380,8 @@ succumb angina rest chocolate pluto jupiter
 1
 4 4
 2
-0 44 26 4
 0 40 2 0
+0 44 26 4
 1
 end_operator
 begin_operator
@@ -221389,8 +221389,8 @@ succumb angina rest chocolate vulcan pluto
 1
 4 4
 2
-0 44 26 4
 0 40 3 2
+0 44 26 4
 1
 end_operator
 begin_operator
@@ -221398,8 +221398,8 @@ succumb angina rest cucumber neptune vulcan
 1
 4 5
 2
-0 44 26 5
 0 40 1 3
+0 44 26 5
 1
 end_operator
 begin_operator
@@ -221407,8 +221407,8 @@ succumb angina rest cucumber pluto jupiter
 1
 4 5
 2
-0 44 26 5
 0 40 2 0
+0 44 26 5
 1
 end_operator
 begin_operator
@@ -221416,8 +221416,8 @@ succumb angina rest cucumber vulcan pluto
 1
 4 5
 2
-0 44 26 5
 0 40 3 2
+0 44 26 5
 1
 end_operator
 begin_operator
@@ -221425,8 +221425,8 @@ succumb angina rest endive neptune vulcan
 1
 4 6
 2
-0 44 26 6
 0 40 1 3
+0 44 26 6
 1
 end_operator
 begin_operator
@@ -221434,8 +221434,8 @@ succumb angina rest endive pluto jupiter
 1
 4 6
 2
-0 44 26 6
 0 40 2 0
+0 44 26 6
 1
 end_operator
 begin_operator
@@ -221443,8 +221443,8 @@ succumb angina rest endive vulcan pluto
 1
 4 6
 2
-0 44 26 6
 0 40 3 2
+0 44 26 6
 1
 end_operator
 begin_operator
@@ -221452,8 +221452,8 @@ succumb angina rest guava neptune vulcan
 1
 4 7
 2
-0 44 26 7
 0 40 1 3
+0 44 26 7
 1
 end_operator
 begin_operator
@@ -221461,8 +221461,8 @@ succumb angina rest guava pluto jupiter
 1
 4 7
 2
-0 44 26 7
 0 40 2 0
+0 44 26 7
 1
 end_operator
 begin_operator
@@ -221470,8 +221470,8 @@ succumb angina rest guava vulcan pluto
 1
 4 7
 2
-0 44 26 7
 0 40 3 2
+0 44 26 7
 1
 end_operator
 begin_operator
@@ -221479,8 +221479,8 @@ succumb angina rest haroset neptune vulcan
 1
 4 8
 2
-0 44 26 8
 0 40 1 3
+0 44 26 8
 1
 end_operator
 begin_operator
@@ -221488,8 +221488,8 @@ succumb angina rest haroset pluto jupiter
 1
 4 8
 2
-0 44 26 8
 0 40 2 0
+0 44 26 8
 1
 end_operator
 begin_operator
@@ -221497,8 +221497,8 @@ succumb angina rest haroset vulcan pluto
 1
 4 8
 2
-0 44 26 8
 0 40 3 2
+0 44 26 8
 1
 end_operator
 begin_operator
@@ -221506,8 +221506,8 @@ succumb angina rest hotdog neptune vulcan
 1
 4 9
 2
-0 44 26 9
 0 40 1 3
+0 44 26 9
 1
 end_operator
 begin_operator
@@ -221515,8 +221515,8 @@ succumb angina rest hotdog pluto jupiter
 1
 4 9
 2
-0 44 26 9
 0 40 2 0
+0 44 26 9
 1
 end_operator
 begin_operator
@@ -221524,8 +221524,8 @@ succumb angina rest hotdog vulcan pluto
 1
 4 9
 2
-0 44 26 9
 0 40 3 2
+0 44 26 9
 1
 end_operator
 begin_operator
@@ -221533,8 +221533,8 @@ succumb angina rest lemon neptune vulcan
 1
 4 10
 2
-0 44 26 10
 0 40 1 3
+0 44 26 10
 1
 end_operator
 begin_operator
@@ -221542,8 +221542,8 @@ succumb angina rest lemon pluto jupiter
 1
 4 10
 2
-0 44 26 10
 0 40 2 0
+0 44 26 10
 1
 end_operator
 begin_operator
@@ -221551,8 +221551,8 @@ succumb angina rest lemon vulcan pluto
 1
 4 10
 2
-0 44 26 10
 0 40 3 2
+0 44 26 10
 1
 end_operator
 begin_operator
@@ -221560,8 +221560,8 @@ succumb angina rest marzipan neptune vulcan
 1
 4 11
 2
-0 44 26 11
 0 40 1 3
+0 44 26 11
 1
 end_operator
 begin_operator
@@ -221569,8 +221569,8 @@ succumb angina rest marzipan pluto jupiter
 1
 4 11
 2
-0 44 26 11
 0 40 2 0
+0 44 26 11
 1
 end_operator
 begin_operator
@@ -221578,8 +221578,8 @@ succumb angina rest marzipan vulcan pluto
 1
 4 11
 2
-0 44 26 11
 0 40 3 2
+0 44 26 11
 1
 end_operator
 begin_operator
@@ -221587,8 +221587,8 @@ succumb angina rest orange neptune vulcan
 1
 4 12
 2
-0 44 26 12
 0 40 1 3
+0 44 26 12
 1
 end_operator
 begin_operator
@@ -221596,8 +221596,8 @@ succumb angina rest orange pluto jupiter
 1
 4 12
 2
-0 44 26 12
 0 40 2 0
+0 44 26 12
 1
 end_operator
 begin_operator
@@ -221605,8 +221605,8 @@ succumb angina rest orange vulcan pluto
 1
 4 12
 2
-0 44 26 12
 0 40 3 2
+0 44 26 12
 1
 end_operator
 begin_operator
@@ -221614,8 +221614,8 @@ succumb angina rest pea neptune vulcan
 1
 4 13
 2
-0 44 26 13
 0 40 1 3
+0 44 26 13
 1
 end_operator
 begin_operator
@@ -221623,8 +221623,8 @@ succumb angina rest pea pluto jupiter
 1
 4 13
 2
-0 44 26 13
 0 40 2 0
+0 44 26 13
 1
 end_operator
 begin_operator
@@ -221632,8 +221632,8 @@ succumb angina rest pea vulcan pluto
 1
 4 13
 2
-0 44 26 13
 0 40 3 2
+0 44 26 13
 1
 end_operator
 begin_operator
@@ -221641,8 +221641,8 @@ succumb angina rest pepper neptune vulcan
 1
 4 14
 2
-0 44 26 14
 0 40 1 3
+0 44 26 14
 1
 end_operator
 begin_operator
@@ -221650,8 +221650,8 @@ succumb angina rest pepper pluto jupiter
 1
 4 14
 2
-0 44 26 14
 0 40 2 0
+0 44 26 14
 1
 end_operator
 begin_operator
@@ -221659,8 +221659,8 @@ succumb angina rest pepper vulcan pluto
 1
 4 14
 2
-0 44 26 14
 0 40 3 2
+0 44 26 14
 1
 end_operator
 begin_operator
@@ -221668,8 +221668,8 @@ succumb angina rest potato neptune vulcan
 1
 4 15
 2
-0 44 26 15
 0 40 1 3
+0 44 26 15
 1
 end_operator
 begin_operator
@@ -221677,8 +221677,8 @@ succumb angina rest potato pluto jupiter
 1
 4 15
 2
-0 44 26 15
 0 40 2 0
+0 44 26 15
 1
 end_operator
 begin_operator
@@ -221686,8 +221686,8 @@ succumb angina rest potato vulcan pluto
 1
 4 15
 2
-0 44 26 15
 0 40 3 2
+0 44 26 15
 1
 end_operator
 begin_operator
@@ -221695,8 +221695,8 @@ succumb angina rest rice neptune vulcan
 1
 4 16
 2
-0 44 26 16
 0 40 1 3
+0 44 26 16
 1
 end_operator
 begin_operator
@@ -221704,8 +221704,8 @@ succumb angina rest rice pluto jupiter
 1
 4 16
 2
-0 44 26 16
 0 40 2 0
+0 44 26 16
 1
 end_operator
 begin_operator
@@ -221713,8 +221713,8 @@ succumb angina rest rice vulcan pluto
 1
 4 16
 2
-0 44 26 16
 0 40 3 2
+0 44 26 16
 1
 end_operator
 begin_operator
@@ -221722,8 +221722,8 @@ succumb angina rest scallop neptune vulcan
 1
 4 17
 2
-0 44 26 17
 0 40 1 3
+0 44 26 17
 1
 end_operator
 begin_operator
@@ -221731,8 +221731,8 @@ succumb angina rest scallop pluto jupiter
 1
 4 17
 2
-0 44 26 17
 0 40 2 0
+0 44 26 17
 1
 end_operator
 begin_operator
@@ -221740,8 +221740,8 @@ succumb angina rest scallop vulcan pluto
 1
 4 17
 2
-0 44 26 17
 0 40 3 2
+0 44 26 17
 1
 end_operator
 begin_operator
@@ -221749,8 +221749,8 @@ succumb angina rest tofu neptune vulcan
 1
 4 18
 2
-0 44 26 18
 0 40 1 3
+0 44 26 18
 1
 end_operator
 begin_operator
@@ -221758,8 +221758,8 @@ succumb angina rest tofu pluto jupiter
 1
 4 18
 2
-0 44 26 18
 0 40 2 0
+0 44 26 18
 1
 end_operator
 begin_operator
@@ -221767,8 +221767,8 @@ succumb angina rest tofu vulcan pluto
 1
 4 18
 2
-0 44 26 18
 0 40 3 2
+0 44 26 18
 1
 end_operator
 begin_operator
@@ -221776,8 +221776,8 @@ succumb angina rest turkey neptune vulcan
 1
 4 19
 2
-0 44 26 19
 0 40 1 3
+0 44 26 19
 1
 end_operator
 begin_operator
@@ -221785,8 +221785,8 @@ succumb angina rest turkey pluto jupiter
 1
 4 19
 2
-0 44 26 19
 0 40 2 0
+0 44 26 19
 1
 end_operator
 begin_operator
@@ -221794,8 +221794,8 @@ succumb angina rest turkey vulcan pluto
 1
 4 19
 2
-0 44 26 19
 0 40 3 2
+0 44 26 19
 1
 end_operator
 begin_operator
@@ -221803,8 +221803,8 @@ succumb angina rest wonderbread neptune vulcan
 1
 4 20
 2
-0 44 26 20
 0 40 1 3
+0 44 26 20
 1
 end_operator
 begin_operator
@@ -221812,8 +221812,8 @@ succumb angina rest wonderbread pluto jupiter
 1
 4 20
 2
-0 44 26 20
 0 40 2 0
+0 44 26 20
 1
 end_operator
 begin_operator
@@ -221821,8 +221821,8 @@ succumb angina rest wonderbread vulcan pluto
 1
 4 20
 2
-0 44 26 20
 0 40 3 2
+0 44 26 20
 1
 end_operator
 begin_operator
@@ -221830,8 +221830,8 @@ succumb angina rest wurst neptune vulcan
 1
 4 21
 2
-0 44 26 21
 0 40 1 3
+0 44 26 21
 1
 end_operator
 begin_operator
@@ -221839,8 +221839,8 @@ succumb angina rest wurst pluto jupiter
 1
 4 21
 2
-0 44 26 21
 0 40 2 0
+0 44 26 21
 1
 end_operator
 begin_operator
@@ -221848,8 +221848,8 @@ succumb angina rest wurst vulcan pluto
 1
 4 21
 2
-0 44 26 21
 0 40 3 2
+0 44 26 21
 1
 end_operator
 begin_operator
@@ -221857,8 +221857,8 @@ succumb angina satisfaction bacon neptune vulcan
 1
 5 0
 2
-0 44 27 0
 0 41 1 3
+0 44 27 0
 1
 end_operator
 begin_operator
@@ -221866,8 +221866,8 @@ succumb angina satisfaction bacon pluto jupiter
 1
 5 0
 2
-0 44 27 0
 0 41 2 0
+0 44 27 0
 1
 end_operator
 begin_operator
@@ -221875,8 +221875,8 @@ succumb angina satisfaction bacon vulcan pluto
 1
 5 0
 2
-0 44 27 0
 0 41 3 2
+0 44 27 0
 1
 end_operator
 begin_operator
@@ -221884,8 +221884,8 @@ succumb angina satisfaction broccoli neptune vulcan
 1
 5 1
 2
-0 44 27 1
 0 41 1 3
+0 44 27 1
 1
 end_operator
 begin_operator
@@ -221893,8 +221893,8 @@ succumb angina satisfaction broccoli pluto jupiter
 1
 5 1
 2
-0 44 27 1
 0 41 2 0
+0 44 27 1
 1
 end_operator
 begin_operator
@@ -221902,8 +221902,8 @@ succumb angina satisfaction broccoli vulcan pluto
 1
 5 1
 2
-0 44 27 1
 0 41 3 2
+0 44 27 1
 1
 end_operator
 begin_operator
@@ -221911,8 +221911,8 @@ succumb angina satisfaction cantelope neptune vulcan
 1
 5 2
 2
-0 44 27 2
 0 41 1 3
+0 44 27 2
 1
 end_operator
 begin_operator
@@ -221920,8 +221920,8 @@ succumb angina satisfaction cantelope pluto jupiter
 1
 5 2
 2
-0 44 27 2
 0 41 2 0
+0 44 27 2
 1
 end_operator
 begin_operator
@@ -221929,8 +221929,8 @@ succumb angina satisfaction cantelope vulcan pluto
 1
 5 2
 2
-0 44 27 2
 0 41 3 2
+0 44 27 2
 1
 end_operator
 begin_operator
@@ -221938,8 +221938,8 @@ succumb angina satisfaction chicken neptune vulcan
 1
 5 3
 2
-0 44 27 3
 0 41 1 3
+0 44 27 3
 1
 end_operator
 begin_operator
@@ -221947,8 +221947,8 @@ succumb angina satisfaction chicken pluto jupiter
 1
 5 3
 2
-0 44 27 3
 0 41 2 0
+0 44 27 3
 1
 end_operator
 begin_operator
@@ -221956,8 +221956,8 @@ succumb angina satisfaction chicken vulcan pluto
 1
 5 3
 2
-0 44 27 3
 0 41 3 2
+0 44 27 3
 1
 end_operator
 begin_operator
@@ -221965,8 +221965,8 @@ succumb angina satisfaction chocolate neptune vulcan
 1
 5 4
 2
-0 44 27 4
 0 41 1 3
+0 44 27 4
 1
 end_operator
 begin_operator
@@ -221974,8 +221974,8 @@ succumb angina satisfaction chocolate pluto jupiter
 1
 5 4
 2
-0 44 27 4
 0 41 2 0
+0 44 27 4
 1
 end_operator
 begin_operator
@@ -221983,8 +221983,8 @@ succumb angina satisfaction chocolate vulcan pluto
 1
 5 4
 2
-0 44 27 4
 0 41 3 2
+0 44 27 4
 1
 end_operator
 begin_operator
@@ -221992,8 +221992,8 @@ succumb angina satisfaction cucumber neptune vulcan
 1
 5 5
 2
-0 44 27 5
 0 41 1 3
+0 44 27 5
 1
 end_operator
 begin_operator
@@ -222001,8 +222001,8 @@ succumb angina satisfaction cucumber pluto jupiter
 1
 5 5
 2
-0 44 27 5
 0 41 2 0
+0 44 27 5
 1
 end_operator
 begin_operator
@@ -222010,8 +222010,8 @@ succumb angina satisfaction cucumber vulcan pluto
 1
 5 5
 2
-0 44 27 5
 0 41 3 2
+0 44 27 5
 1
 end_operator
 begin_operator
@@ -222019,8 +222019,8 @@ succumb angina satisfaction endive neptune vulcan
 1
 5 6
 2
-0 44 27 6
 0 41 1 3
+0 44 27 6
 1
 end_operator
 begin_operator
@@ -222028,8 +222028,8 @@ succumb angina satisfaction endive pluto jupiter
 1
 5 6
 2
-0 44 27 6
 0 41 2 0
+0 44 27 6
 1
 end_operator
 begin_operator
@@ -222037,8 +222037,8 @@ succumb angina satisfaction endive vulcan pluto
 1
 5 6
 2
-0 44 27 6
 0 41 3 2
+0 44 27 6
 1
 end_operator
 begin_operator
@@ -222046,8 +222046,8 @@ succumb angina satisfaction guava neptune vulcan
 1
 5 7
 2
-0 44 27 7
 0 41 1 3
+0 44 27 7
 1
 end_operator
 begin_operator
@@ -222055,8 +222055,8 @@ succumb angina satisfaction guava pluto jupiter
 1
 5 7
 2
-0 44 27 7
 0 41 2 0
+0 44 27 7
 1
 end_operator
 begin_operator
@@ -222064,8 +222064,8 @@ succumb angina satisfaction guava vulcan pluto
 1
 5 7
 2
-0 44 27 7
 0 41 3 2
+0 44 27 7
 1
 end_operator
 begin_operator
@@ -222073,8 +222073,8 @@ succumb angina satisfaction haroset neptune vulcan
 1
 5 8
 2
-0 44 27 8
 0 41 1 3
+0 44 27 8
 1
 end_operator
 begin_operator
@@ -222082,8 +222082,8 @@ succumb angina satisfaction haroset pluto jupiter
 1
 5 8
 2
-0 44 27 8
 0 41 2 0
+0 44 27 8
 1
 end_operator
 begin_operator
@@ -222091,8 +222091,8 @@ succumb angina satisfaction haroset vulcan pluto
 1
 5 8
 2
-0 44 27 8
 0 41 3 2
+0 44 27 8
 1
 end_operator
 begin_operator
@@ -222100,8 +222100,8 @@ succumb angina satisfaction hotdog neptune vulcan
 1
 5 9
 2
-0 44 27 9
 0 41 1 3
+0 44 27 9
 1
 end_operator
 begin_operator
@@ -222109,8 +222109,8 @@ succumb angina satisfaction hotdog pluto jupiter
 1
 5 9
 2
-0 44 27 9
 0 41 2 0
+0 44 27 9
 1
 end_operator
 begin_operator
@@ -222118,8 +222118,8 @@ succumb angina satisfaction hotdog vulcan pluto
 1
 5 9
 2
-0 44 27 9
 0 41 3 2
+0 44 27 9
 1
 end_operator
 begin_operator
@@ -222127,8 +222127,8 @@ succumb angina satisfaction lemon neptune vulcan
 1
 5 10
 2
-0 44 27 10
 0 41 1 3
+0 44 27 10
 1
 end_operator
 begin_operator
@@ -222136,8 +222136,8 @@ succumb angina satisfaction lemon pluto jupiter
 1
 5 10
 2
-0 44 27 10
 0 41 2 0
+0 44 27 10
 1
 end_operator
 begin_operator
@@ -222145,8 +222145,8 @@ succumb angina satisfaction lemon vulcan pluto
 1
 5 10
 2
-0 44 27 10
 0 41 3 2
+0 44 27 10
 1
 end_operator
 begin_operator
@@ -222154,8 +222154,8 @@ succumb angina satisfaction marzipan neptune vulcan
 1
 5 11
 2
-0 44 27 11
 0 41 1 3
+0 44 27 11
 1
 end_operator
 begin_operator
@@ -222163,8 +222163,8 @@ succumb angina satisfaction marzipan pluto jupiter
 1
 5 11
 2
-0 44 27 11
 0 41 2 0
+0 44 27 11
 1
 end_operator
 begin_operator
@@ -222172,8 +222172,8 @@ succumb angina satisfaction marzipan vulcan pluto
 1
 5 11
 2
-0 44 27 11
 0 41 3 2
+0 44 27 11
 1
 end_operator
 begin_operator
@@ -222181,8 +222181,8 @@ succumb angina satisfaction orange neptune vulcan
 1
 5 12
 2
-0 44 27 12
 0 41 1 3
+0 44 27 12
 1
 end_operator
 begin_operator
@@ -222190,8 +222190,8 @@ succumb angina satisfaction orange pluto jupiter
 1
 5 12
 2
-0 44 27 12
 0 41 2 0
+0 44 27 12
 1
 end_operator
 begin_operator
@@ -222199,8 +222199,8 @@ succumb angina satisfaction orange vulcan pluto
 1
 5 12
 2
-0 44 27 12
 0 41 3 2
+0 44 27 12
 1
 end_operator
 begin_operator
@@ -222208,8 +222208,8 @@ succumb angina satisfaction pea neptune vulcan
 1
 5 13
 2
-0 44 27 13
 0 41 1 3
+0 44 27 13
 1
 end_operator
 begin_operator
@@ -222217,8 +222217,8 @@ succumb angina satisfaction pea pluto jupiter
 1
 5 13
 2
-0 44 27 13
 0 41 2 0
+0 44 27 13
 1
 end_operator
 begin_operator
@@ -222226,8 +222226,8 @@ succumb angina satisfaction pea vulcan pluto
 1
 5 13
 2
-0 44 27 13
 0 41 3 2
+0 44 27 13
 1
 end_operator
 begin_operator
@@ -222235,8 +222235,8 @@ succumb angina satisfaction pepper neptune vulcan
 1
 5 14
 2
-0 44 27 14
 0 41 1 3
+0 44 27 14
 1
 end_operator
 begin_operator
@@ -222244,8 +222244,8 @@ succumb angina satisfaction pepper pluto jupiter
 1
 5 14
 2
-0 44 27 14
 0 41 2 0
+0 44 27 14
 1
 end_operator
 begin_operator
@@ -222253,8 +222253,8 @@ succumb angina satisfaction pepper vulcan pluto
 1
 5 14
 2
-0 44 27 14
 0 41 3 2
+0 44 27 14
 1
 end_operator
 begin_operator
@@ -222262,8 +222262,8 @@ succumb angina satisfaction potato neptune vulcan
 1
 5 15
 2
-0 44 27 15
 0 41 1 3
+0 44 27 15
 1
 end_operator
 begin_operator
@@ -222271,8 +222271,8 @@ succumb angina satisfaction potato pluto jupiter
 1
 5 15
 2
-0 44 27 15
 0 41 2 0
+0 44 27 15
 1
 end_operator
 begin_operator
@@ -222280,8 +222280,8 @@ succumb angina satisfaction potato vulcan pluto
 1
 5 15
 2
-0 44 27 15
 0 41 3 2
+0 44 27 15
 1
 end_operator
 begin_operator
@@ -222289,8 +222289,8 @@ succumb angina satisfaction rice neptune vulcan
 1
 5 16
 2
-0 44 27 16
 0 41 1 3
+0 44 27 16
 1
 end_operator
 begin_operator
@@ -222298,8 +222298,8 @@ succumb angina satisfaction rice pluto jupiter
 1
 5 16
 2
-0 44 27 16
 0 41 2 0
+0 44 27 16
 1
 end_operator
 begin_operator
@@ -222307,8 +222307,8 @@ succumb angina satisfaction rice vulcan pluto
 1
 5 16
 2
-0 44 27 16
 0 41 3 2
+0 44 27 16
 1
 end_operator
 begin_operator
@@ -222316,8 +222316,8 @@ succumb angina satisfaction scallop neptune vulcan
 1
 5 17
 2
-0 44 27 17
 0 41 1 3
+0 44 27 17
 1
 end_operator
 begin_operator
@@ -222325,8 +222325,8 @@ succumb angina satisfaction scallop pluto jupiter
 1
 5 17
 2
-0 44 27 17
 0 41 2 0
+0 44 27 17
 1
 end_operator
 begin_operator
@@ -222334,8 +222334,8 @@ succumb angina satisfaction scallop vulcan pluto
 1
 5 17
 2
-0 44 27 17
 0 41 3 2
+0 44 27 17
 1
 end_operator
 begin_operator
@@ -222343,8 +222343,8 @@ succumb angina satisfaction tofu neptune vulcan
 1
 5 18
 2
-0 44 27 18
 0 41 1 3
+0 44 27 18
 1
 end_operator
 begin_operator
@@ -222352,8 +222352,8 @@ succumb angina satisfaction tofu pluto jupiter
 1
 5 18
 2
-0 44 27 18
 0 41 2 0
+0 44 27 18
 1
 end_operator
 begin_operator
@@ -222361,8 +222361,8 @@ succumb angina satisfaction tofu vulcan pluto
 1
 5 18
 2
-0 44 27 18
 0 41 3 2
+0 44 27 18
 1
 end_operator
 begin_operator
@@ -222370,8 +222370,8 @@ succumb angina satisfaction turkey neptune vulcan
 1
 5 19
 2
-0 44 27 19
 0 41 1 3
+0 44 27 19
 1
 end_operator
 begin_operator
@@ -222379,8 +222379,8 @@ succumb angina satisfaction turkey pluto jupiter
 1
 5 19
 2
-0 44 27 19
 0 41 2 0
+0 44 27 19
 1
 end_operator
 begin_operator
@@ -222388,8 +222388,8 @@ succumb angina satisfaction turkey vulcan pluto
 1
 5 19
 2
-0 44 27 19
 0 41 3 2
+0 44 27 19
 1
 end_operator
 begin_operator
@@ -222397,8 +222397,8 @@ succumb angina satisfaction wonderbread neptune vulcan
 1
 5 20
 2
-0 44 27 20
 0 41 1 3
+0 44 27 20
 1
 end_operator
 begin_operator
@@ -222406,8 +222406,8 @@ succumb angina satisfaction wonderbread pluto jupiter
 1
 5 20
 2
-0 44 27 20
 0 41 2 0
+0 44 27 20
 1
 end_operator
 begin_operator
@@ -222415,8 +222415,8 @@ succumb angina satisfaction wonderbread vulcan pluto
 1
 5 20
 2
-0 44 27 20
 0 41 3 2
+0 44 27 20
 1
 end_operator
 begin_operator
@@ -222424,8 +222424,8 @@ succumb angina satisfaction wurst neptune vulcan
 1
 5 21
 2
-0 44 27 21
 0 41 1 3
+0 44 27 21
 1
 end_operator
 begin_operator
@@ -222433,8 +222433,8 @@ succumb angina satisfaction wurst pluto jupiter
 1
 5 21
 2
-0 44 27 21
 0 41 2 0
+0 44 27 21
 1
 end_operator
 begin_operator
@@ -222442,8 +222442,8 @@ succumb angina satisfaction wurst vulcan pluto
 1
 5 21
 2
-0 44 27 21
 0 41 3 2
+0 44 27 21
 1
 end_operator
 begin_operator
@@ -222451,8 +222451,8 @@ succumb angina triumph bacon neptune vulcan
 1
 6 0
 2
-0 44 28 0
 0 43 1 3
+0 44 28 0
 1
 end_operator
 begin_operator
@@ -222460,8 +222460,8 @@ succumb angina triumph bacon pluto jupiter
 1
 6 0
 2
-0 44 28 0
 0 43 2 0
+0 44 28 0
 1
 end_operator
 begin_operator
@@ -222469,8 +222469,8 @@ succumb angina triumph bacon vulcan pluto
 1
 6 0
 2
-0 44 28 0
 0 43 3 2
+0 44 28 0
 1
 end_operator
 begin_operator
@@ -222478,8 +222478,8 @@ succumb angina triumph broccoli neptune vulcan
 1
 6 1
 2
-0 44 28 1
 0 43 1 3
+0 44 28 1
 1
 end_operator
 begin_operator
@@ -222487,8 +222487,8 @@ succumb angina triumph broccoli pluto jupiter
 1
 6 1
 2
-0 44 28 1
 0 43 2 0
+0 44 28 1
 1
 end_operator
 begin_operator
@@ -222496,8 +222496,8 @@ succumb angina triumph broccoli vulcan pluto
 1
 6 1
 2
-0 44 28 1
 0 43 3 2
+0 44 28 1
 1
 end_operator
 begin_operator
@@ -222505,8 +222505,8 @@ succumb angina triumph cantelope neptune vulcan
 1
 6 2
 2
-0 44 28 2
 0 43 1 3
+0 44 28 2
 1
 end_operator
 begin_operator
@@ -222514,8 +222514,8 @@ succumb angina triumph cantelope pluto jupiter
 1
 6 2
 2
-0 44 28 2
 0 43 2 0
+0 44 28 2
 1
 end_operator
 begin_operator
@@ -222523,8 +222523,8 @@ succumb angina triumph cantelope vulcan pluto
 1
 6 2
 2
-0 44 28 2
 0 43 3 2
+0 44 28 2
 1
 end_operator
 begin_operator
@@ -222532,8 +222532,8 @@ succumb angina triumph chicken neptune vulcan
 1
 6 3
 2
-0 44 28 3
 0 43 1 3
+0 44 28 3
 1
 end_operator
 begin_operator
@@ -222541,8 +222541,8 @@ succumb angina triumph chicken pluto jupiter
 1
 6 3
 2
-0 44 28 3
 0 43 2 0
+0 44 28 3
 1
 end_operator
 begin_operator
@@ -222550,8 +222550,8 @@ succumb angina triumph chicken vulcan pluto
 1
 6 3
 2
-0 44 28 3
 0 43 3 2
+0 44 28 3
 1
 end_operator
 begin_operator
@@ -222559,8 +222559,8 @@ succumb angina triumph chocolate neptune vulcan
 1
 6 4
 2
-0 44 28 4
 0 43 1 3
+0 44 28 4
 1
 end_operator
 begin_operator
@@ -222568,8 +222568,8 @@ succumb angina triumph chocolate pluto jupiter
 1
 6 4
 2
-0 44 28 4
 0 43 2 0
+0 44 28 4
 1
 end_operator
 begin_operator
@@ -222577,8 +222577,8 @@ succumb angina triumph chocolate vulcan pluto
 1
 6 4
 2
-0 44 28 4
 0 43 3 2
+0 44 28 4
 1
 end_operator
 begin_operator
@@ -222586,8 +222586,8 @@ succumb angina triumph cucumber neptune vulcan
 1
 6 5
 2
-0 44 28 5
 0 43 1 3
+0 44 28 5
 1
 end_operator
 begin_operator
@@ -222595,8 +222595,8 @@ succumb angina triumph cucumber pluto jupiter
 1
 6 5
 2
-0 44 28 5
 0 43 2 0
+0 44 28 5
 1
 end_operator
 begin_operator
@@ -222604,8 +222604,8 @@ succumb angina triumph cucumber vulcan pluto
 1
 6 5
 2
-0 44 28 5
 0 43 3 2
+0 44 28 5
 1
 end_operator
 begin_operator
@@ -222613,8 +222613,8 @@ succumb angina triumph endive neptune vulcan
 1
 6 6
 2
-0 44 28 6
 0 43 1 3
+0 44 28 6
 1
 end_operator
 begin_operator
@@ -222622,8 +222622,8 @@ succumb angina triumph endive pluto jupiter
 1
 6 6
 2
-0 44 28 6
 0 43 2 0
+0 44 28 6
 1
 end_operator
 begin_operator
@@ -222631,8 +222631,8 @@ succumb angina triumph endive vulcan pluto
 1
 6 6
 2
-0 44 28 6
 0 43 3 2
+0 44 28 6
 1
 end_operator
 begin_operator
@@ -222640,8 +222640,8 @@ succumb angina triumph guava neptune vulcan
 1
 6 7
 2
-0 44 28 7
 0 43 1 3
+0 44 28 7
 1
 end_operator
 begin_operator
@@ -222649,8 +222649,8 @@ succumb angina triumph guava pluto jupiter
 1
 6 7
 2
-0 44 28 7
 0 43 2 0
+0 44 28 7
 1
 end_operator
 begin_operator
@@ -222658,8 +222658,8 @@ succumb angina triumph guava vulcan pluto
 1
 6 7
 2
-0 44 28 7
 0 43 3 2
+0 44 28 7
 1
 end_operator
 begin_operator
@@ -222667,8 +222667,8 @@ succumb angina triumph haroset neptune vulcan
 1
 6 8
 2
-0 44 28 8
 0 43 1 3
+0 44 28 8
 1
 end_operator
 begin_operator
@@ -222676,8 +222676,8 @@ succumb angina triumph haroset pluto jupiter
 1
 6 8
 2
-0 44 28 8
 0 43 2 0
+0 44 28 8
 1
 end_operator
 begin_operator
@@ -222685,8 +222685,8 @@ succumb angina triumph haroset vulcan pluto
 1
 6 8
 2
-0 44 28 8
 0 43 3 2
+0 44 28 8
 1
 end_operator
 begin_operator
@@ -222694,8 +222694,8 @@ succumb angina triumph hotdog neptune vulcan
 1
 6 9
 2
-0 44 28 9
 0 43 1 3
+0 44 28 9
 1
 end_operator
 begin_operator
@@ -222703,8 +222703,8 @@ succumb angina triumph hotdog pluto jupiter
 1
 6 9
 2
-0 44 28 9
 0 43 2 0
+0 44 28 9
 1
 end_operator
 begin_operator
@@ -222712,8 +222712,8 @@ succumb angina triumph hotdog vulcan pluto
 1
 6 9
 2
-0 44 28 9
 0 43 3 2
+0 44 28 9
 1
 end_operator
 begin_operator
@@ -222721,8 +222721,8 @@ succumb angina triumph lemon neptune vulcan
 1
 6 10
 2
-0 44 28 10
 0 43 1 3
+0 44 28 10
 1
 end_operator
 begin_operator
@@ -222730,8 +222730,8 @@ succumb angina triumph lemon pluto jupiter
 1
 6 10
 2
-0 44 28 10
 0 43 2 0
+0 44 28 10
 1
 end_operator
 begin_operator
@@ -222739,8 +222739,8 @@ succumb angina triumph lemon vulcan pluto
 1
 6 10
 2
-0 44 28 10
 0 43 3 2
+0 44 28 10
 1
 end_operator
 begin_operator
@@ -222748,8 +222748,8 @@ succumb angina triumph marzipan neptune vulcan
 1
 6 11
 2
-0 44 28 11
 0 43 1 3
+0 44 28 11
 1
 end_operator
 begin_operator
@@ -222757,8 +222757,8 @@ succumb angina triumph marzipan pluto jupiter
 1
 6 11
 2
-0 44 28 11
 0 43 2 0
+0 44 28 11
 1
 end_operator
 begin_operator
@@ -222766,8 +222766,8 @@ succumb angina triumph marzipan vulcan pluto
 1
 6 11
 2
-0 44 28 11
 0 43 3 2
+0 44 28 11
 1
 end_operator
 begin_operator
@@ -222775,8 +222775,8 @@ succumb angina triumph orange neptune vulcan
 1
 6 12
 2
-0 44 28 12
 0 43 1 3
+0 44 28 12
 1
 end_operator
 begin_operator
@@ -222784,8 +222784,8 @@ succumb angina triumph orange pluto jupiter
 1
 6 12
 2
-0 44 28 12
 0 43 2 0
+0 44 28 12
 1
 end_operator
 begin_operator
@@ -222793,8 +222793,8 @@ succumb angina triumph orange vulcan pluto
 1
 6 12
 2
-0 44 28 12
 0 43 3 2
+0 44 28 12
 1
 end_operator
 begin_operator
@@ -222802,8 +222802,8 @@ succumb angina triumph pea neptune vulcan
 1
 6 13
 2
-0 44 28 13
 0 43 1 3
+0 44 28 13
 1
 end_operator
 begin_operator
@@ -222811,8 +222811,8 @@ succumb angina triumph pea pluto jupiter
 1
 6 13
 2
-0 44 28 13
 0 43 2 0
+0 44 28 13
 1
 end_operator
 begin_operator
@@ -222820,8 +222820,8 @@ succumb angina triumph pea vulcan pluto
 1
 6 13
 2
-0 44 28 13
 0 43 3 2
+0 44 28 13
 1
 end_operator
 begin_operator
@@ -222829,8 +222829,8 @@ succumb angina triumph pepper neptune vulcan
 1
 6 14
 2
-0 44 28 14
 0 43 1 3
+0 44 28 14
 1
 end_operator
 begin_operator
@@ -222838,8 +222838,8 @@ succumb angina triumph pepper pluto jupiter
 1
 6 14
 2
-0 44 28 14
 0 43 2 0
+0 44 28 14
 1
 end_operator
 begin_operator
@@ -222847,8 +222847,8 @@ succumb angina triumph pepper vulcan pluto
 1
 6 14
 2
-0 44 28 14
 0 43 3 2
+0 44 28 14
 1
 end_operator
 begin_operator
@@ -222856,8 +222856,8 @@ succumb angina triumph potato neptune vulcan
 1
 6 15
 2
-0 44 28 15
 0 43 1 3
+0 44 28 15
 1
 end_operator
 begin_operator
@@ -222865,8 +222865,8 @@ succumb angina triumph potato pluto jupiter
 1
 6 15
 2
-0 44 28 15
 0 43 2 0
+0 44 28 15
 1
 end_operator
 begin_operator
@@ -222874,8 +222874,8 @@ succumb angina triumph potato vulcan pluto
 1
 6 15
 2
-0 44 28 15
 0 43 3 2
+0 44 28 15
 1
 end_operator
 begin_operator
@@ -222883,8 +222883,8 @@ succumb angina triumph rice neptune vulcan
 1
 6 16
 2
-0 44 28 16
 0 43 1 3
+0 44 28 16
 1
 end_operator
 begin_operator
@@ -222892,8 +222892,8 @@ succumb angina triumph rice pluto jupiter
 1
 6 16
 2
-0 44 28 16
 0 43 2 0
+0 44 28 16
 1
 end_operator
 begin_operator
@@ -222901,8 +222901,8 @@ succumb angina triumph rice vulcan pluto
 1
 6 16
 2
-0 44 28 16
 0 43 3 2
+0 44 28 16
 1
 end_operator
 begin_operator
@@ -222910,8 +222910,8 @@ succumb angina triumph scallop neptune vulcan
 1
 6 17
 2
-0 44 28 17
 0 43 1 3
+0 44 28 17
 1
 end_operator
 begin_operator
@@ -222919,8 +222919,8 @@ succumb angina triumph scallop pluto jupiter
 1
 6 17
 2
-0 44 28 17
 0 43 2 0
+0 44 28 17
 1
 end_operator
 begin_operator
@@ -222928,8 +222928,8 @@ succumb angina triumph scallop vulcan pluto
 1
 6 17
 2
-0 44 28 17
 0 43 3 2
+0 44 28 17
 1
 end_operator
 begin_operator
@@ -222937,8 +222937,8 @@ succumb angina triumph tofu neptune vulcan
 1
 6 18
 2
-0 44 28 18
 0 43 1 3
+0 44 28 18
 1
 end_operator
 begin_operator
@@ -222946,8 +222946,8 @@ succumb angina triumph tofu pluto jupiter
 1
 6 18
 2
-0 44 28 18
 0 43 2 0
+0 44 28 18
 1
 end_operator
 begin_operator
@@ -222955,8 +222955,8 @@ succumb angina triumph tofu vulcan pluto
 1
 6 18
 2
-0 44 28 18
 0 43 3 2
+0 44 28 18
 1
 end_operator
 begin_operator
@@ -222964,8 +222964,8 @@ succumb angina triumph turkey neptune vulcan
 1
 6 19
 2
-0 44 28 19
 0 43 1 3
+0 44 28 19
 1
 end_operator
 begin_operator
@@ -222973,8 +222973,8 @@ succumb angina triumph turkey pluto jupiter
 1
 6 19
 2
-0 44 28 19
 0 43 2 0
+0 44 28 19
 1
 end_operator
 begin_operator
@@ -222982,8 +222982,8 @@ succumb angina triumph turkey vulcan pluto
 1
 6 19
 2
-0 44 28 19
 0 43 3 2
+0 44 28 19
 1
 end_operator
 begin_operator
@@ -222991,8 +222991,8 @@ succumb angina triumph wonderbread neptune vulcan
 1
 6 20
 2
-0 44 28 20
 0 43 1 3
+0 44 28 20
 1
 end_operator
 begin_operator
@@ -223000,8 +223000,8 @@ succumb angina triumph wonderbread pluto jupiter
 1
 6 20
 2
-0 44 28 20
 0 43 2 0
+0 44 28 20
 1
 end_operator
 begin_operator
@@ -223009,8 +223009,8 @@ succumb angina triumph wonderbread vulcan pluto
 1
 6 20
 2
-0 44 28 20
 0 43 3 2
+0 44 28 20
 1
 end_operator
 begin_operator
@@ -223018,8 +223018,8 @@ succumb angina triumph wurst neptune vulcan
 1
 6 21
 2
-0 44 28 21
 0 43 1 3
+0 44 28 21
 1
 end_operator
 begin_operator
@@ -223027,8 +223027,8 @@ succumb angina triumph wurst pluto jupiter
 1
 6 21
 2
-0 44 28 21
 0 43 2 0
+0 44 28 21
 1
 end_operator
 begin_operator
@@ -223036,8 +223036,8 @@ succumb angina triumph wurst vulcan pluto
 1
 6 21
 2
-0 44 28 21
 0 43 3 2
+0 44 28 21
 1
 end_operator
 begin_operator
@@ -231361,8 +231361,8 @@ succumb grief curiosity bacon neptune vulcan
 1
 0 0
 2
-0 34 22 0
 0 32 1 3
+0 34 22 0
 1
 end_operator
 begin_operator
@@ -231370,8 +231370,8 @@ succumb grief curiosity bacon pluto jupiter
 1
 0 0
 2
-0 34 22 0
 0 32 2 0
+0 34 22 0
 1
 end_operator
 begin_operator
@@ -231379,8 +231379,8 @@ succumb grief curiosity bacon vulcan pluto
 1
 0 0
 2
-0 34 22 0
 0 32 3 2
+0 34 22 0
 1
 end_operator
 begin_operator
@@ -231388,8 +231388,8 @@ succumb grief curiosity broccoli neptune vulcan
 1
 0 1
 2
-0 34 22 1
 0 32 1 3
+0 34 22 1
 1
 end_operator
 begin_operator
@@ -231397,8 +231397,8 @@ succumb grief curiosity broccoli pluto jupiter
 1
 0 1
 2
-0 34 22 1
 0 32 2 0
+0 34 22 1
 1
 end_operator
 begin_operator
@@ -231406,8 +231406,8 @@ succumb grief curiosity broccoli vulcan pluto
 1
 0 1
 2
-0 34 22 1
 0 32 3 2
+0 34 22 1
 1
 end_operator
 begin_operator
@@ -231415,8 +231415,8 @@ succumb grief curiosity cantelope neptune vulcan
 1
 0 2
 2
-0 34 22 2
 0 32 1 3
+0 34 22 2
 1
 end_operator
 begin_operator
@@ -231424,8 +231424,8 @@ succumb grief curiosity cantelope pluto jupiter
 1
 0 2
 2
-0 34 22 2
 0 32 2 0
+0 34 22 2
 1
 end_operator
 begin_operator
@@ -231433,8 +231433,8 @@ succumb grief curiosity cantelope vulcan pluto
 1
 0 2
 2
-0 34 22 2
 0 32 3 2
+0 34 22 2
 1
 end_operator
 begin_operator
@@ -231442,8 +231442,8 @@ succumb grief curiosity chicken neptune vulcan
 1
 0 3
 2
-0 34 22 3
 0 32 1 3
+0 34 22 3
 1
 end_operator
 begin_operator
@@ -231451,8 +231451,8 @@ succumb grief curiosity chicken pluto jupiter
 1
 0 3
 2
-0 34 22 3
 0 32 2 0
+0 34 22 3
 1
 end_operator
 begin_operator
@@ -231460,8 +231460,8 @@ succumb grief curiosity chicken vulcan pluto
 1
 0 3
 2
-0 34 22 3
 0 32 3 2
+0 34 22 3
 1
 end_operator
 begin_operator
@@ -231469,8 +231469,8 @@ succumb grief curiosity chocolate neptune vulcan
 1
 0 4
 2
-0 34 22 4
 0 32 1 3
+0 34 22 4
 1
 end_operator
 begin_operator
@@ -231478,8 +231478,8 @@ succumb grief curiosity chocolate pluto jupiter
 1
 0 4
 2
-0 34 22 4
 0 32 2 0
+0 34 22 4
 1
 end_operator
 begin_operator
@@ -231487,8 +231487,8 @@ succumb grief curiosity chocolate vulcan pluto
 1
 0 4
 2
-0 34 22 4
 0 32 3 2
+0 34 22 4
 1
 end_operator
 begin_operator
@@ -231496,8 +231496,8 @@ succumb grief curiosity cucumber neptune vulcan
 1
 0 5
 2
-0 34 22 5
 0 32 1 3
+0 34 22 5
 1
 end_operator
 begin_operator
@@ -231505,8 +231505,8 @@ succumb grief curiosity cucumber pluto jupiter
 1
 0 5
 2
-0 34 22 5
 0 32 2 0
+0 34 22 5
 1
 end_operator
 begin_operator
@@ -231514,8 +231514,8 @@ succumb grief curiosity cucumber vulcan pluto
 1
 0 5
 2
-0 34 22 5
 0 32 3 2
+0 34 22 5
 1
 end_operator
 begin_operator
@@ -231523,8 +231523,8 @@ succumb grief curiosity endive neptune vulcan
 1
 0 6
 2
-0 34 22 6
 0 32 1 3
+0 34 22 6
 1
 end_operator
 begin_operator
@@ -231532,8 +231532,8 @@ succumb grief curiosity endive pluto jupiter
 1
 0 6
 2
-0 34 22 6
 0 32 2 0
+0 34 22 6
 1
 end_operator
 begin_operator
@@ -231541,8 +231541,8 @@ succumb grief curiosity endive vulcan pluto
 1
 0 6
 2
-0 34 22 6
 0 32 3 2
+0 34 22 6
 1
 end_operator
 begin_operator
@@ -231550,8 +231550,8 @@ succumb grief curiosity guava neptune vulcan
 1
 0 7
 2
-0 34 22 7
 0 32 1 3
+0 34 22 7
 1
 end_operator
 begin_operator
@@ -231559,8 +231559,8 @@ succumb grief curiosity guava pluto jupiter
 1
 0 7
 2
-0 34 22 7
 0 32 2 0
+0 34 22 7
 1
 end_operator
 begin_operator
@@ -231568,8 +231568,8 @@ succumb grief curiosity guava vulcan pluto
 1
 0 7
 2
-0 34 22 7
 0 32 3 2
+0 34 22 7
 1
 end_operator
 begin_operator
@@ -231577,8 +231577,8 @@ succumb grief curiosity haroset neptune vulcan
 1
 0 8
 2
-0 34 22 8
 0 32 1 3
+0 34 22 8
 1
 end_operator
 begin_operator
@@ -231586,8 +231586,8 @@ succumb grief curiosity haroset pluto jupiter
 1
 0 8
 2
-0 34 22 8
 0 32 2 0
+0 34 22 8
 1
 end_operator
 begin_operator
@@ -231595,8 +231595,8 @@ succumb grief curiosity haroset vulcan pluto
 1
 0 8
 2
-0 34 22 8
 0 32 3 2
+0 34 22 8
 1
 end_operator
 begin_operator
@@ -231604,8 +231604,8 @@ succumb grief curiosity hotdog neptune vulcan
 1
 0 9
 2
-0 34 22 9
 0 32 1 3
+0 34 22 9
 1
 end_operator
 begin_operator
@@ -231613,8 +231613,8 @@ succumb grief curiosity hotdog pluto jupiter
 1
 0 9
 2
-0 34 22 9
 0 32 2 0
+0 34 22 9
 1
 end_operator
 begin_operator
@@ -231622,8 +231622,8 @@ succumb grief curiosity hotdog vulcan pluto
 1
 0 9
 2
-0 34 22 9
 0 32 3 2
+0 34 22 9
 1
 end_operator
 begin_operator
@@ -231631,8 +231631,8 @@ succumb grief curiosity lemon neptune vulcan
 1
 0 10
 2
-0 34 22 10
 0 32 1 3
+0 34 22 10
 1
 end_operator
 begin_operator
@@ -231640,8 +231640,8 @@ succumb grief curiosity lemon pluto jupiter
 1
 0 10
 2
-0 34 22 10
 0 32 2 0
+0 34 22 10
 1
 end_operator
 begin_operator
@@ -231649,8 +231649,8 @@ succumb grief curiosity lemon vulcan pluto
 1
 0 10
 2
-0 34 22 10
 0 32 3 2
+0 34 22 10
 1
 end_operator
 begin_operator
@@ -231658,8 +231658,8 @@ succumb grief curiosity marzipan neptune vulcan
 1
 0 11
 2
-0 34 22 11
 0 32 1 3
+0 34 22 11
 1
 end_operator
 begin_operator
@@ -231667,8 +231667,8 @@ succumb grief curiosity marzipan pluto jupiter
 1
 0 11
 2
-0 34 22 11
 0 32 2 0
+0 34 22 11
 1
 end_operator
 begin_operator
@@ -231676,8 +231676,8 @@ succumb grief curiosity marzipan vulcan pluto
 1
 0 11
 2
-0 34 22 11
 0 32 3 2
+0 34 22 11
 1
 end_operator
 begin_operator
@@ -231685,8 +231685,8 @@ succumb grief curiosity orange neptune vulcan
 1
 0 12
 2
-0 34 22 12
 0 32 1 3
+0 34 22 12
 1
 end_operator
 begin_operator
@@ -231694,8 +231694,8 @@ succumb grief curiosity orange pluto jupiter
 1
 0 12
 2
-0 34 22 12
 0 32 2 0
+0 34 22 12
 1
 end_operator
 begin_operator
@@ -231703,8 +231703,8 @@ succumb grief curiosity orange vulcan pluto
 1
 0 12
 2
-0 34 22 12
 0 32 3 2
+0 34 22 12
 1
 end_operator
 begin_operator
@@ -231712,8 +231712,8 @@ succumb grief curiosity pea neptune vulcan
 1
 0 13
 2
-0 34 22 13
 0 32 1 3
+0 34 22 13
 1
 end_operator
 begin_operator
@@ -231721,8 +231721,8 @@ succumb grief curiosity pea pluto jupiter
 1
 0 13
 2
-0 34 22 13
 0 32 2 0
+0 34 22 13
 1
 end_operator
 begin_operator
@@ -231730,8 +231730,8 @@ succumb grief curiosity pea vulcan pluto
 1
 0 13
 2
-0 34 22 13
 0 32 3 2
+0 34 22 13
 1
 end_operator
 begin_operator
@@ -231739,8 +231739,8 @@ succumb grief curiosity pepper neptune vulcan
 1
 0 14
 2
-0 34 22 14
 0 32 1 3
+0 34 22 14
 1
 end_operator
 begin_operator
@@ -231748,8 +231748,8 @@ succumb grief curiosity pepper pluto jupiter
 1
 0 14
 2
-0 34 22 14
 0 32 2 0
+0 34 22 14
 1
 end_operator
 begin_operator
@@ -231757,8 +231757,8 @@ succumb grief curiosity pepper vulcan pluto
 1
 0 14
 2
-0 34 22 14
 0 32 3 2
+0 34 22 14
 1
 end_operator
 begin_operator
@@ -231766,8 +231766,8 @@ succumb grief curiosity potato neptune vulcan
 1
 0 15
 2
-0 34 22 15
 0 32 1 3
+0 34 22 15
 1
 end_operator
 begin_operator
@@ -231775,8 +231775,8 @@ succumb grief curiosity potato pluto jupiter
 1
 0 15
 2
-0 34 22 15
 0 32 2 0
+0 34 22 15
 1
 end_operator
 begin_operator
@@ -231784,8 +231784,8 @@ succumb grief curiosity potato vulcan pluto
 1
 0 15
 2
-0 34 22 15
 0 32 3 2
+0 34 22 15
 1
 end_operator
 begin_operator
@@ -231793,8 +231793,8 @@ succumb grief curiosity rice neptune vulcan
 1
 0 16
 2
-0 34 22 16
 0 32 1 3
+0 34 22 16
 1
 end_operator
 begin_operator
@@ -231802,8 +231802,8 @@ succumb grief curiosity rice pluto jupiter
 1
 0 16
 2
-0 34 22 16
 0 32 2 0
+0 34 22 16
 1
 end_operator
 begin_operator
@@ -231811,8 +231811,8 @@ succumb grief curiosity rice vulcan pluto
 1
 0 16
 2
-0 34 22 16
 0 32 3 2
+0 34 22 16
 1
 end_operator
 begin_operator
@@ -231820,8 +231820,8 @@ succumb grief curiosity scallop neptune vulcan
 1
 0 17
 2
-0 34 22 17
 0 32 1 3
+0 34 22 17
 1
 end_operator
 begin_operator
@@ -231829,8 +231829,8 @@ succumb grief curiosity scallop pluto jupiter
 1
 0 17
 2
-0 34 22 17
 0 32 2 0
+0 34 22 17
 1
 end_operator
 begin_operator
@@ -231838,8 +231838,8 @@ succumb grief curiosity scallop vulcan pluto
 1
 0 17
 2
-0 34 22 17
 0 32 3 2
+0 34 22 17
 1
 end_operator
 begin_operator
@@ -231847,8 +231847,8 @@ succumb grief curiosity tofu neptune vulcan
 1
 0 18
 2
-0 34 22 18
 0 32 1 3
+0 34 22 18
 1
 end_operator
 begin_operator
@@ -231856,8 +231856,8 @@ succumb grief curiosity tofu pluto jupiter
 1
 0 18
 2
-0 34 22 18
 0 32 2 0
+0 34 22 18
 1
 end_operator
 begin_operator
@@ -231865,8 +231865,8 @@ succumb grief curiosity tofu vulcan pluto
 1
 0 18
 2
-0 34 22 18
 0 32 3 2
+0 34 22 18
 1
 end_operator
 begin_operator
@@ -231874,8 +231874,8 @@ succumb grief curiosity turkey neptune vulcan
 1
 0 19
 2
-0 34 22 19
 0 32 1 3
+0 34 22 19
 1
 end_operator
 begin_operator
@@ -231883,8 +231883,8 @@ succumb grief curiosity turkey pluto jupiter
 1
 0 19
 2
-0 34 22 19
 0 32 2 0
+0 34 22 19
 1
 end_operator
 begin_operator
@@ -231892,8 +231892,8 @@ succumb grief curiosity turkey vulcan pluto
 1
 0 19
 2
-0 34 22 19
 0 32 3 2
+0 34 22 19
 1
 end_operator
 begin_operator
@@ -231901,8 +231901,8 @@ succumb grief curiosity wonderbread neptune vulcan
 1
 0 20
 2
-0 34 22 20
 0 32 1 3
+0 34 22 20
 1
 end_operator
 begin_operator
@@ -231910,8 +231910,8 @@ succumb grief curiosity wonderbread pluto jupiter
 1
 0 20
 2
-0 34 22 20
 0 32 2 0
+0 34 22 20
 1
 end_operator
 begin_operator
@@ -231919,8 +231919,8 @@ succumb grief curiosity wonderbread vulcan pluto
 1
 0 20
 2
-0 34 22 20
 0 32 3 2
+0 34 22 20
 1
 end_operator
 begin_operator
@@ -231928,8 +231928,8 @@ succumb grief curiosity wurst neptune vulcan
 1
 0 21
 2
-0 34 22 21
 0 32 1 3
+0 34 22 21
 1
 end_operator
 begin_operator
@@ -231937,8 +231937,8 @@ succumb grief curiosity wurst pluto jupiter
 1
 0 21
 2
-0 34 22 21
 0 32 2 0
+0 34 22 21
 1
 end_operator
 begin_operator
@@ -231946,8 +231946,8 @@ succumb grief curiosity wurst vulcan pluto
 1
 0 21
 2
-0 34 22 21
 0 32 3 2
+0 34 22 21
 1
 end_operator
 begin_operator
@@ -231955,8 +231955,8 @@ succumb grief entertainment bacon neptune vulcan
 1
 1 0
 2
-0 34 23 0
 0 33 1 3
+0 34 23 0
 1
 end_operator
 begin_operator
@@ -231964,8 +231964,8 @@ succumb grief entertainment bacon pluto jupiter
 1
 1 0
 2
-0 34 23 0
 0 33 2 0
+0 34 23 0
 1
 end_operator
 begin_operator
@@ -231973,8 +231973,8 @@ succumb grief entertainment bacon vulcan pluto
 1
 1 0
 2
-0 34 23 0
 0 33 3 2
+0 34 23 0
 1
 end_operator
 begin_operator
@@ -231982,8 +231982,8 @@ succumb grief entertainment broccoli neptune vulcan
 1
 1 1
 2
-0 34 23 1
 0 33 1 3
+0 34 23 1
 1
 end_operator
 begin_operator
@@ -231991,8 +231991,8 @@ succumb grief entertainment broccoli pluto jupiter
 1
 1 1
 2
-0 34 23 1
 0 33 2 0
+0 34 23 1
 1
 end_operator
 begin_operator
@@ -232000,8 +232000,8 @@ succumb grief entertainment broccoli vulcan pluto
 1
 1 1
 2
-0 34 23 1
 0 33 3 2
+0 34 23 1
 1
 end_operator
 begin_operator
@@ -232009,8 +232009,8 @@ succumb grief entertainment cantelope neptune vulcan
 1
 1 2
 2
-0 34 23 2
 0 33 1 3
+0 34 23 2
 1
 end_operator
 begin_operator
@@ -232018,8 +232018,8 @@ succumb grief entertainment cantelope pluto jupiter
 1
 1 2
 2
-0 34 23 2
 0 33 2 0
+0 34 23 2
 1
 end_operator
 begin_operator
@@ -232027,8 +232027,8 @@ succumb grief entertainment cantelope vulcan pluto
 1
 1 2
 2
-0 34 23 2
 0 33 3 2
+0 34 23 2
 1
 end_operator
 begin_operator
@@ -232036,8 +232036,8 @@ succumb grief entertainment chicken neptune vulcan
 1
 1 3
 2
-0 34 23 3
 0 33 1 3
+0 34 23 3
 1
 end_operator
 begin_operator
@@ -232045,8 +232045,8 @@ succumb grief entertainment chicken pluto jupiter
 1
 1 3
 2
-0 34 23 3
 0 33 2 0
+0 34 23 3
 1
 end_operator
 begin_operator
@@ -232054,8 +232054,8 @@ succumb grief entertainment chicken vulcan pluto
 1
 1 3
 2
-0 34 23 3
 0 33 3 2
+0 34 23 3
 1
 end_operator
 begin_operator
@@ -232063,8 +232063,8 @@ succumb grief entertainment chocolate neptune vulcan
 1
 1 4
 2
-0 34 23 4
 0 33 1 3
+0 34 23 4
 1
 end_operator
 begin_operator
@@ -232072,8 +232072,8 @@ succumb grief entertainment chocolate pluto jupiter
 1
 1 4
 2
-0 34 23 4
 0 33 2 0
+0 34 23 4
 1
 end_operator
 begin_operator
@@ -232081,8 +232081,8 @@ succumb grief entertainment chocolate vulcan pluto
 1
 1 4
 2
-0 34 23 4
 0 33 3 2
+0 34 23 4
 1
 end_operator
 begin_operator
@@ -232090,8 +232090,8 @@ succumb grief entertainment cucumber neptune vulcan
 1
 1 5
 2
-0 34 23 5
 0 33 1 3
+0 34 23 5
 1
 end_operator
 begin_operator
@@ -232099,8 +232099,8 @@ succumb grief entertainment cucumber pluto jupiter
 1
 1 5
 2
-0 34 23 5
 0 33 2 0
+0 34 23 5
 1
 end_operator
 begin_operator
@@ -232108,8 +232108,8 @@ succumb grief entertainment cucumber vulcan pluto
 1
 1 5
 2
-0 34 23 5
 0 33 3 2
+0 34 23 5
 1
 end_operator
 begin_operator
@@ -232117,8 +232117,8 @@ succumb grief entertainment endive neptune vulcan
 1
 1 6
 2
-0 34 23 6
 0 33 1 3
+0 34 23 6
 1
 end_operator
 begin_operator
@@ -232126,8 +232126,8 @@ succumb grief entertainment endive pluto jupiter
 1
 1 6
 2
-0 34 23 6
 0 33 2 0
+0 34 23 6
 1
 end_operator
 begin_operator
@@ -232135,8 +232135,8 @@ succumb grief entertainment endive vulcan pluto
 1
 1 6
 2
-0 34 23 6
 0 33 3 2
+0 34 23 6
 1
 end_operator
 begin_operator
@@ -232144,8 +232144,8 @@ succumb grief entertainment guava neptune vulcan
 1
 1 7
 2
-0 34 23 7
 0 33 1 3
+0 34 23 7
 1
 end_operator
 begin_operator
@@ -232153,8 +232153,8 @@ succumb grief entertainment guava pluto jupiter
 1
 1 7
 2
-0 34 23 7
 0 33 2 0
+0 34 23 7
 1
 end_operator
 begin_operator
@@ -232162,8 +232162,8 @@ succumb grief entertainment guava vulcan pluto
 1
 1 7
 2
-0 34 23 7
 0 33 3 2
+0 34 23 7
 1
 end_operator
 begin_operator
@@ -232171,8 +232171,8 @@ succumb grief entertainment haroset neptune vulcan
 1
 1 8
 2
-0 34 23 8
 0 33 1 3
+0 34 23 8
 1
 end_operator
 begin_operator
@@ -232180,8 +232180,8 @@ succumb grief entertainment haroset pluto jupiter
 1
 1 8
 2
-0 34 23 8
 0 33 2 0
+0 34 23 8
 1
 end_operator
 begin_operator
@@ -232189,8 +232189,8 @@ succumb grief entertainment haroset vulcan pluto
 1
 1 8
 2
-0 34 23 8
 0 33 3 2
+0 34 23 8
 1
 end_operator
 begin_operator
@@ -232198,8 +232198,8 @@ succumb grief entertainment hotdog neptune vulcan
 1
 1 9
 2
-0 34 23 9
 0 33 1 3
+0 34 23 9
 1
 end_operator
 begin_operator
@@ -232207,8 +232207,8 @@ succumb grief entertainment hotdog pluto jupiter
 1
 1 9
 2
-0 34 23 9
 0 33 2 0
+0 34 23 9
 1
 end_operator
 begin_operator
@@ -232216,8 +232216,8 @@ succumb grief entertainment hotdog vulcan pluto
 1
 1 9
 2
-0 34 23 9
 0 33 3 2
+0 34 23 9
 1
 end_operator
 begin_operator
@@ -232225,8 +232225,8 @@ succumb grief entertainment lemon neptune vulcan
 1
 1 10
 2
-0 34 23 10
 0 33 1 3
+0 34 23 10
 1
 end_operator
 begin_operator
@@ -232234,8 +232234,8 @@ succumb grief entertainment lemon pluto jupiter
 1
 1 10
 2
-0 34 23 10
 0 33 2 0
+0 34 23 10
 1
 end_operator
 begin_operator
@@ -232243,8 +232243,8 @@ succumb grief entertainment lemon vulcan pluto
 1
 1 10
 2
-0 34 23 10
 0 33 3 2
+0 34 23 10
 1
 end_operator
 begin_operator
@@ -232252,8 +232252,8 @@ succumb grief entertainment marzipan neptune vulcan
 1
 1 11
 2
-0 34 23 11
 0 33 1 3
+0 34 23 11
 1
 end_operator
 begin_operator
@@ -232261,8 +232261,8 @@ succumb grief entertainment marzipan pluto jupiter
 1
 1 11
 2
-0 34 23 11
 0 33 2 0
+0 34 23 11
 1
 end_operator
 begin_operator
@@ -232270,8 +232270,8 @@ succumb grief entertainment marzipan vulcan pluto
 1
 1 11
 2
-0 34 23 11
 0 33 3 2
+0 34 23 11
 1
 end_operator
 begin_operator
@@ -232279,8 +232279,8 @@ succumb grief entertainment orange neptune vulcan
 1
 1 12
 2
-0 34 23 12
 0 33 1 3
+0 34 23 12
 1
 end_operator
 begin_operator
@@ -232288,8 +232288,8 @@ succumb grief entertainment orange pluto jupiter
 1
 1 12
 2
-0 34 23 12
 0 33 2 0
+0 34 23 12
 1
 end_operator
 begin_operator
@@ -232297,8 +232297,8 @@ succumb grief entertainment orange vulcan pluto
 1
 1 12
 2
-0 34 23 12
 0 33 3 2
+0 34 23 12
 1
 end_operator
 begin_operator
@@ -232306,8 +232306,8 @@ succumb grief entertainment pea neptune vulcan
 1
 1 13
 2
-0 34 23 13
 0 33 1 3
+0 34 23 13
 1
 end_operator
 begin_operator
@@ -232315,8 +232315,8 @@ succumb grief entertainment pea pluto jupiter
 1
 1 13
 2
-0 34 23 13
 0 33 2 0
+0 34 23 13
 1
 end_operator
 begin_operator
@@ -232324,8 +232324,8 @@ succumb grief entertainment pea vulcan pluto
 1
 1 13
 2
-0 34 23 13
 0 33 3 2
+0 34 23 13
 1
 end_operator
 begin_operator
@@ -232333,8 +232333,8 @@ succumb grief entertainment pepper neptune vulcan
 1
 1 14
 2
-0 34 23 14
 0 33 1 3
+0 34 23 14
 1
 end_operator
 begin_operator
@@ -232342,8 +232342,8 @@ succumb grief entertainment pepper pluto jupiter
 1
 1 14
 2
-0 34 23 14
 0 33 2 0
+0 34 23 14
 1
 end_operator
 begin_operator
@@ -232351,8 +232351,8 @@ succumb grief entertainment pepper vulcan pluto
 1
 1 14
 2
-0 34 23 14
 0 33 3 2
+0 34 23 14
 1
 end_operator
 begin_operator
@@ -232360,8 +232360,8 @@ succumb grief entertainment potato neptune vulcan
 1
 1 15
 2
-0 34 23 15
 0 33 1 3
+0 34 23 15
 1
 end_operator
 begin_operator
@@ -232369,8 +232369,8 @@ succumb grief entertainment potato pluto jupiter
 1
 1 15
 2
-0 34 23 15
 0 33 2 0
+0 34 23 15
 1
 end_operator
 begin_operator
@@ -232378,8 +232378,8 @@ succumb grief entertainment potato vulcan pluto
 1
 1 15
 2
-0 34 23 15
 0 33 3 2
+0 34 23 15
 1
 end_operator
 begin_operator
@@ -232387,8 +232387,8 @@ succumb grief entertainment rice neptune vulcan
 1
 1 16
 2
-0 34 23 16
 0 33 1 3
+0 34 23 16
 1
 end_operator
 begin_operator
@@ -232396,8 +232396,8 @@ succumb grief entertainment rice pluto jupiter
 1
 1 16
 2
-0 34 23 16
 0 33 2 0
+0 34 23 16
 1
 end_operator
 begin_operator
@@ -232405,8 +232405,8 @@ succumb grief entertainment rice vulcan pluto
 1
 1 16
 2
-0 34 23 16
 0 33 3 2
+0 34 23 16
 1
 end_operator
 begin_operator
@@ -232414,8 +232414,8 @@ succumb grief entertainment scallop neptune vulcan
 1
 1 17
 2
-0 34 23 17
 0 33 1 3
+0 34 23 17
 1
 end_operator
 begin_operator
@@ -232423,8 +232423,8 @@ succumb grief entertainment scallop pluto jupiter
 1
 1 17
 2
-0 34 23 17
 0 33 2 0
+0 34 23 17
 1
 end_operator
 begin_operator
@@ -232432,8 +232432,8 @@ succumb grief entertainment scallop vulcan pluto
 1
 1 17
 2
-0 34 23 17
 0 33 3 2
+0 34 23 17
 1
 end_operator
 begin_operator
@@ -232441,8 +232441,8 @@ succumb grief entertainment tofu neptune vulcan
 1
 1 18
 2
-0 34 23 18
 0 33 1 3
+0 34 23 18
 1
 end_operator
 begin_operator
@@ -232450,8 +232450,8 @@ succumb grief entertainment tofu pluto jupiter
 1
 1 18
 2
-0 34 23 18
 0 33 2 0
+0 34 23 18
 1
 end_operator
 begin_operator
@@ -232459,8 +232459,8 @@ succumb grief entertainment tofu vulcan pluto
 1
 1 18
 2
-0 34 23 18
 0 33 3 2
+0 34 23 18
 1
 end_operator
 begin_operator
@@ -232468,8 +232468,8 @@ succumb grief entertainment turkey neptune vulcan
 1
 1 19
 2
-0 34 23 19
 0 33 1 3
+0 34 23 19
 1
 end_operator
 begin_operator
@@ -232477,8 +232477,8 @@ succumb grief entertainment turkey pluto jupiter
 1
 1 19
 2
-0 34 23 19
 0 33 2 0
+0 34 23 19
 1
 end_operator
 begin_operator
@@ -232486,8 +232486,8 @@ succumb grief entertainment turkey vulcan pluto
 1
 1 19
 2
-0 34 23 19
 0 33 3 2
+0 34 23 19
 1
 end_operator
 begin_operator
@@ -232495,8 +232495,8 @@ succumb grief entertainment wonderbread neptune vulcan
 1
 1 20
 2
-0 34 23 20
 0 33 1 3
+0 34 23 20
 1
 end_operator
 begin_operator
@@ -232504,8 +232504,8 @@ succumb grief entertainment wonderbread pluto jupiter
 1
 1 20
 2
-0 34 23 20
 0 33 2 0
+0 34 23 20
 1
 end_operator
 begin_operator
@@ -232513,8 +232513,8 @@ succumb grief entertainment wonderbread vulcan pluto
 1
 1 20
 2
-0 34 23 20
 0 33 3 2
+0 34 23 20
 1
 end_operator
 begin_operator
@@ -232522,8 +232522,8 @@ succumb grief entertainment wurst neptune vulcan
 1
 1 21
 2
-0 34 23 21
 0 33 1 3
+0 34 23 21
 1
 end_operator
 begin_operator
@@ -232531,8 +232531,8 @@ succumb grief entertainment wurst pluto jupiter
 1
 1 21
 2
-0 34 23 21
 0 33 2 0
+0 34 23 21
 1
 end_operator
 begin_operator
@@ -232540,8 +232540,8 @@ succumb grief entertainment wurst vulcan pluto
 1
 1 21
 2
-0 34 23 21
 0 33 3 2
+0 34 23 21
 1
 end_operator
 begin_operator
@@ -235519,8 +235519,8 @@ succumb hangover curiosity bacon neptune vulcan
 1
 0 0
 2
-0 35 22 0
 0 32 1 3
+0 35 22 0
 1
 end_operator
 begin_operator
@@ -235528,8 +235528,8 @@ succumb hangover curiosity bacon pluto jupiter
 1
 0 0
 2
-0 35 22 0
 0 32 2 0
+0 35 22 0
 1
 end_operator
 begin_operator
@@ -235537,8 +235537,8 @@ succumb hangover curiosity bacon vulcan pluto
 1
 0 0
 2
-0 35 22 0
 0 32 3 2
+0 35 22 0
 1
 end_operator
 begin_operator
@@ -235546,8 +235546,8 @@ succumb hangover curiosity broccoli neptune vulcan
 1
 0 1
 2
-0 35 22 1
 0 32 1 3
+0 35 22 1
 1
 end_operator
 begin_operator
@@ -235555,8 +235555,8 @@ succumb hangover curiosity broccoli pluto jupiter
 1
 0 1
 2
-0 35 22 1
 0 32 2 0
+0 35 22 1
 1
 end_operator
 begin_operator
@@ -235564,8 +235564,8 @@ succumb hangover curiosity broccoli vulcan pluto
 1
 0 1
 2
-0 35 22 1
 0 32 3 2
+0 35 22 1
 1
 end_operator
 begin_operator
@@ -235573,8 +235573,8 @@ succumb hangover curiosity cantelope neptune vulcan
 1
 0 2
 2
-0 35 22 2
 0 32 1 3
+0 35 22 2
 1
 end_operator
 begin_operator
@@ -235582,8 +235582,8 @@ succumb hangover curiosity cantelope pluto jupiter
 1
 0 2
 2
-0 35 22 2
 0 32 2 0
+0 35 22 2
 1
 end_operator
 begin_operator
@@ -235591,8 +235591,8 @@ succumb hangover curiosity cantelope vulcan pluto
 1
 0 2
 2
-0 35 22 2
 0 32 3 2
+0 35 22 2
 1
 end_operator
 begin_operator
@@ -235600,8 +235600,8 @@ succumb hangover curiosity chicken neptune vulcan
 1
 0 3
 2
-0 35 22 3
 0 32 1 3
+0 35 22 3
 1
 end_operator
 begin_operator
@@ -235609,8 +235609,8 @@ succumb hangover curiosity chicken pluto jupiter
 1
 0 3
 2
-0 35 22 3
 0 32 2 0
+0 35 22 3
 1
 end_operator
 begin_operator
@@ -235618,8 +235618,8 @@ succumb hangover curiosity chicken vulcan pluto
 1
 0 3
 2
-0 35 22 3
 0 32 3 2
+0 35 22 3
 1
 end_operator
 begin_operator
@@ -235627,8 +235627,8 @@ succumb hangover curiosity chocolate neptune vulcan
 1
 0 4
 2
-0 35 22 4
 0 32 1 3
+0 35 22 4
 1
 end_operator
 begin_operator
@@ -235636,8 +235636,8 @@ succumb hangover curiosity chocolate pluto jupiter
 1
 0 4
 2
-0 35 22 4
 0 32 2 0
+0 35 22 4
 1
 end_operator
 begin_operator
@@ -235645,8 +235645,8 @@ succumb hangover curiosity chocolate vulcan pluto
 1
 0 4
 2
-0 35 22 4
 0 32 3 2
+0 35 22 4
 1
 end_operator
 begin_operator
@@ -235654,8 +235654,8 @@ succumb hangover curiosity cucumber neptune vulcan
 1
 0 5
 2
-0 35 22 5
 0 32 1 3
+0 35 22 5
 1
 end_operator
 begin_operator
@@ -235663,8 +235663,8 @@ succumb hangover curiosity cucumber pluto jupiter
 1
 0 5
 2
-0 35 22 5
 0 32 2 0
+0 35 22 5
 1
 end_operator
 begin_operator
@@ -235672,8 +235672,8 @@ succumb hangover curiosity cucumber vulcan pluto
 1
 0 5
 2
-0 35 22 5
 0 32 3 2
+0 35 22 5
 1
 end_operator
 begin_operator
@@ -235681,8 +235681,8 @@ succumb hangover curiosity endive neptune vulcan
 1
 0 6
 2
-0 35 22 6
 0 32 1 3
+0 35 22 6
 1
 end_operator
 begin_operator
@@ -235690,8 +235690,8 @@ succumb hangover curiosity endive pluto jupiter
 1
 0 6
 2
-0 35 22 6
 0 32 2 0
+0 35 22 6
 1
 end_operator
 begin_operator
@@ -235699,8 +235699,8 @@ succumb hangover curiosity endive vulcan pluto
 1
 0 6
 2
-0 35 22 6
 0 32 3 2
+0 35 22 6
 1
 end_operator
 begin_operator
@@ -235708,8 +235708,8 @@ succumb hangover curiosity guava neptune vulcan
 1
 0 7
 2
-0 35 22 7
 0 32 1 3
+0 35 22 7
 1
 end_operator
 begin_operator
@@ -235717,8 +235717,8 @@ succumb hangover curiosity guava pluto jupiter
 1
 0 7
 2
-0 35 22 7
 0 32 2 0
+0 35 22 7
 1
 end_operator
 begin_operator
@@ -235726,8 +235726,8 @@ succumb hangover curiosity guava vulcan pluto
 1
 0 7
 2
-0 35 22 7
 0 32 3 2
+0 35 22 7
 1
 end_operator
 begin_operator
@@ -235735,8 +235735,8 @@ succumb hangover curiosity haroset neptune vulcan
 1
 0 8
 2
-0 35 22 8
 0 32 1 3
+0 35 22 8
 1
 end_operator
 begin_operator
@@ -235744,8 +235744,8 @@ succumb hangover curiosity haroset pluto jupiter
 1
 0 8
 2
-0 35 22 8
 0 32 2 0
+0 35 22 8
 1
 end_operator
 begin_operator
@@ -235753,8 +235753,8 @@ succumb hangover curiosity haroset vulcan pluto
 1
 0 8
 2
-0 35 22 8
 0 32 3 2
+0 35 22 8
 1
 end_operator
 begin_operator
@@ -235762,8 +235762,8 @@ succumb hangover curiosity hotdog neptune vulcan
 1
 0 9
 2
-0 35 22 9
 0 32 1 3
+0 35 22 9
 1
 end_operator
 begin_operator
@@ -235771,8 +235771,8 @@ succumb hangover curiosity hotdog pluto jupiter
 1
 0 9
 2
-0 35 22 9
 0 32 2 0
+0 35 22 9
 1
 end_operator
 begin_operator
@@ -235780,8 +235780,8 @@ succumb hangover curiosity hotdog vulcan pluto
 1
 0 9
 2
-0 35 22 9
 0 32 3 2
+0 35 22 9
 1
 end_operator
 begin_operator
@@ -235789,8 +235789,8 @@ succumb hangover curiosity lemon neptune vulcan
 1
 0 10
 2
-0 35 22 10
 0 32 1 3
+0 35 22 10
 1
 end_operator
 begin_operator
@@ -235798,8 +235798,8 @@ succumb hangover curiosity lemon pluto jupiter
 1
 0 10
 2
-0 35 22 10
 0 32 2 0
+0 35 22 10
 1
 end_operator
 begin_operator
@@ -235807,8 +235807,8 @@ succumb hangover curiosity lemon vulcan pluto
 1
 0 10
 2
-0 35 22 10
 0 32 3 2
+0 35 22 10
 1
 end_operator
 begin_operator
@@ -235816,8 +235816,8 @@ succumb hangover curiosity marzipan neptune vulcan
 1
 0 11
 2
-0 35 22 11
 0 32 1 3
+0 35 22 11
 1
 end_operator
 begin_operator
@@ -235825,8 +235825,8 @@ succumb hangover curiosity marzipan pluto jupiter
 1
 0 11
 2
-0 35 22 11
 0 32 2 0
+0 35 22 11
 1
 end_operator
 begin_operator
@@ -235834,8 +235834,8 @@ succumb hangover curiosity marzipan vulcan pluto
 1
 0 11
 2
-0 35 22 11
 0 32 3 2
+0 35 22 11
 1
 end_operator
 begin_operator
@@ -235843,8 +235843,8 @@ succumb hangover curiosity orange neptune vulcan
 1
 0 12
 2
-0 35 22 12
 0 32 1 3
+0 35 22 12
 1
 end_operator
 begin_operator
@@ -235852,8 +235852,8 @@ succumb hangover curiosity orange pluto jupiter
 1
 0 12
 2
-0 35 22 12
 0 32 2 0
+0 35 22 12
 1
 end_operator
 begin_operator
@@ -235861,8 +235861,8 @@ succumb hangover curiosity orange vulcan pluto
 1
 0 12
 2
-0 35 22 12
 0 32 3 2
+0 35 22 12
 1
 end_operator
 begin_operator
@@ -235870,8 +235870,8 @@ succumb hangover curiosity pea neptune vulcan
 1
 0 13
 2
-0 35 22 13
 0 32 1 3
+0 35 22 13
 1
 end_operator
 begin_operator
@@ -235879,8 +235879,8 @@ succumb hangover curiosity pea pluto jupiter
 1
 0 13
 2
-0 35 22 13
 0 32 2 0
+0 35 22 13
 1
 end_operator
 begin_operator
@@ -235888,8 +235888,8 @@ succumb hangover curiosity pea vulcan pluto
 1
 0 13
 2
-0 35 22 13
 0 32 3 2
+0 35 22 13
 1
 end_operator
 begin_operator
@@ -235897,8 +235897,8 @@ succumb hangover curiosity pepper neptune vulcan
 1
 0 14
 2
-0 35 22 14
 0 32 1 3
+0 35 22 14
 1
 end_operator
 begin_operator
@@ -235906,8 +235906,8 @@ succumb hangover curiosity pepper pluto jupiter
 1
 0 14
 2
-0 35 22 14
 0 32 2 0
+0 35 22 14
 1
 end_operator
 begin_operator
@@ -235915,8 +235915,8 @@ succumb hangover curiosity pepper vulcan pluto
 1
 0 14
 2
-0 35 22 14
 0 32 3 2
+0 35 22 14
 1
 end_operator
 begin_operator
@@ -235924,8 +235924,8 @@ succumb hangover curiosity potato neptune vulcan
 1
 0 15
 2
-0 35 22 15
 0 32 1 3
+0 35 22 15
 1
 end_operator
 begin_operator
@@ -235933,8 +235933,8 @@ succumb hangover curiosity potato pluto jupiter
 1
 0 15
 2
-0 35 22 15
 0 32 2 0
+0 35 22 15
 1
 end_operator
 begin_operator
@@ -235942,8 +235942,8 @@ succumb hangover curiosity potato vulcan pluto
 1
 0 15
 2
-0 35 22 15
 0 32 3 2
+0 35 22 15
 1
 end_operator
 begin_operator
@@ -235951,8 +235951,8 @@ succumb hangover curiosity rice neptune vulcan
 1
 0 16
 2
-0 35 22 16
 0 32 1 3
+0 35 22 16
 1
 end_operator
 begin_operator
@@ -235960,8 +235960,8 @@ succumb hangover curiosity rice pluto jupiter
 1
 0 16
 2
-0 35 22 16
 0 32 2 0
+0 35 22 16
 1
 end_operator
 begin_operator
@@ -235969,8 +235969,8 @@ succumb hangover curiosity rice vulcan pluto
 1
 0 16
 2
-0 35 22 16
 0 32 3 2
+0 35 22 16
 1
 end_operator
 begin_operator
@@ -235978,8 +235978,8 @@ succumb hangover curiosity scallop neptune vulcan
 1
 0 17
 2
-0 35 22 17
 0 32 1 3
+0 35 22 17
 1
 end_operator
 begin_operator
@@ -235987,8 +235987,8 @@ succumb hangover curiosity scallop pluto jupiter
 1
 0 17
 2
-0 35 22 17
 0 32 2 0
+0 35 22 17
 1
 end_operator
 begin_operator
@@ -235996,8 +235996,8 @@ succumb hangover curiosity scallop vulcan pluto
 1
 0 17
 2
-0 35 22 17
 0 32 3 2
+0 35 22 17
 1
 end_operator
 begin_operator
@@ -236005,8 +236005,8 @@ succumb hangover curiosity tofu neptune vulcan
 1
 0 18
 2
-0 35 22 18
 0 32 1 3
+0 35 22 18
 1
 end_operator
 begin_operator
@@ -236014,8 +236014,8 @@ succumb hangover curiosity tofu pluto jupiter
 1
 0 18
 2
-0 35 22 18
 0 32 2 0
+0 35 22 18
 1
 end_operator
 begin_operator
@@ -236023,8 +236023,8 @@ succumb hangover curiosity tofu vulcan pluto
 1
 0 18
 2
-0 35 22 18
 0 32 3 2
+0 35 22 18
 1
 end_operator
 begin_operator
@@ -236032,8 +236032,8 @@ succumb hangover curiosity turkey neptune vulcan
 1
 0 19
 2
-0 35 22 19
 0 32 1 3
+0 35 22 19
 1
 end_operator
 begin_operator
@@ -236041,8 +236041,8 @@ succumb hangover curiosity turkey pluto jupiter
 1
 0 19
 2
-0 35 22 19
 0 32 2 0
+0 35 22 19
 1
 end_operator
 begin_operator
@@ -236050,8 +236050,8 @@ succumb hangover curiosity turkey vulcan pluto
 1
 0 19
 2
-0 35 22 19
 0 32 3 2
+0 35 22 19
 1
 end_operator
 begin_operator
@@ -236059,8 +236059,8 @@ succumb hangover curiosity wonderbread neptune vulcan
 1
 0 20
 2
-0 35 22 20
 0 32 1 3
+0 35 22 20
 1
 end_operator
 begin_operator
@@ -236068,8 +236068,8 @@ succumb hangover curiosity wonderbread pluto jupiter
 1
 0 20
 2
-0 35 22 20
 0 32 2 0
+0 35 22 20
 1
 end_operator
 begin_operator
@@ -236077,8 +236077,8 @@ succumb hangover curiosity wonderbread vulcan pluto
 1
 0 20
 2
-0 35 22 20
 0 32 3 2
+0 35 22 20
 1
 end_operator
 begin_operator
@@ -236086,8 +236086,8 @@ succumb hangover curiosity wurst neptune vulcan
 1
 0 21
 2
-0 35 22 21
 0 32 1 3
+0 35 22 21
 1
 end_operator
 begin_operator
@@ -236095,8 +236095,8 @@ succumb hangover curiosity wurst pluto jupiter
 1
 0 21
 2
-0 35 22 21
 0 32 2 0
+0 35 22 21
 1
 end_operator
 begin_operator
@@ -236104,8 +236104,8 @@ succumb hangover curiosity wurst vulcan pluto
 1
 0 21
 2
-0 35 22 21
 0 32 3 2
+0 35 22 21
 1
 end_operator
 begin_operator
@@ -236113,8 +236113,8 @@ succumb hangover entertainment bacon neptune vulcan
 1
 1 0
 2
-0 35 23 0
 0 33 1 3
+0 35 23 0
 1
 end_operator
 begin_operator
@@ -236122,8 +236122,8 @@ succumb hangover entertainment bacon pluto jupiter
 1
 1 0
 2
-0 35 23 0
 0 33 2 0
+0 35 23 0
 1
 end_operator
 begin_operator
@@ -236131,8 +236131,8 @@ succumb hangover entertainment bacon vulcan pluto
 1
 1 0
 2
-0 35 23 0
 0 33 3 2
+0 35 23 0
 1
 end_operator
 begin_operator
@@ -236140,8 +236140,8 @@ succumb hangover entertainment broccoli neptune vulcan
 1
 1 1
 2
-0 35 23 1
 0 33 1 3
+0 35 23 1
 1
 end_operator
 begin_operator
@@ -236149,8 +236149,8 @@ succumb hangover entertainment broccoli pluto jupiter
 1
 1 1
 2
-0 35 23 1
 0 33 2 0
+0 35 23 1
 1
 end_operator
 begin_operator
@@ -236158,8 +236158,8 @@ succumb hangover entertainment broccoli vulcan pluto
 1
 1 1
 2
-0 35 23 1
 0 33 3 2
+0 35 23 1
 1
 end_operator
 begin_operator
@@ -236167,8 +236167,8 @@ succumb hangover entertainment cantelope neptune vulcan
 1
 1 2
 2
-0 35 23 2
 0 33 1 3
+0 35 23 2
 1
 end_operator
 begin_operator
@@ -236176,8 +236176,8 @@ succumb hangover entertainment cantelope pluto jupiter
 1
 1 2
 2
-0 35 23 2
 0 33 2 0
+0 35 23 2
 1
 end_operator
 begin_operator
@@ -236185,8 +236185,8 @@ succumb hangover entertainment cantelope vulcan pluto
 1
 1 2
 2
-0 35 23 2
 0 33 3 2
+0 35 23 2
 1
 end_operator
 begin_operator
@@ -236194,8 +236194,8 @@ succumb hangover entertainment chicken neptune vulcan
 1
 1 3
 2
-0 35 23 3
 0 33 1 3
+0 35 23 3
 1
 end_operator
 begin_operator
@@ -236203,8 +236203,8 @@ succumb hangover entertainment chicken pluto jupiter
 1
 1 3
 2
-0 35 23 3
 0 33 2 0
+0 35 23 3
 1
 end_operator
 begin_operator
@@ -236212,8 +236212,8 @@ succumb hangover entertainment chicken vulcan pluto
 1
 1 3
 2
-0 35 23 3
 0 33 3 2
+0 35 23 3
 1
 end_operator
 begin_operator
@@ -236221,8 +236221,8 @@ succumb hangover entertainment chocolate neptune vulcan
 1
 1 4
 2
-0 35 23 4
 0 33 1 3
+0 35 23 4
 1
 end_operator
 begin_operator
@@ -236230,8 +236230,8 @@ succumb hangover entertainment chocolate pluto jupiter
 1
 1 4
 2
-0 35 23 4
 0 33 2 0
+0 35 23 4
 1
 end_operator
 begin_operator
@@ -236239,8 +236239,8 @@ succumb hangover entertainment chocolate vulcan pluto
 1
 1 4
 2
-0 35 23 4
 0 33 3 2
+0 35 23 4
 1
 end_operator
 begin_operator
@@ -236248,8 +236248,8 @@ succumb hangover entertainment cucumber neptune vulcan
 1
 1 5
 2
-0 35 23 5
 0 33 1 3
+0 35 23 5
 1
 end_operator
 begin_operator
@@ -236257,8 +236257,8 @@ succumb hangover entertainment cucumber pluto jupiter
 1
 1 5
 2
-0 35 23 5
 0 33 2 0
+0 35 23 5
 1
 end_operator
 begin_operator
@@ -236266,8 +236266,8 @@ succumb hangover entertainment cucumber vulcan pluto
 1
 1 5
 2
-0 35 23 5
 0 33 3 2
+0 35 23 5
 1
 end_operator
 begin_operator
@@ -236275,8 +236275,8 @@ succumb hangover entertainment endive neptune vulcan
 1
 1 6
 2
-0 35 23 6
 0 33 1 3
+0 35 23 6
 1
 end_operator
 begin_operator
@@ -236284,8 +236284,8 @@ succumb hangover entertainment endive pluto jupiter
 1
 1 6
 2
-0 35 23 6
 0 33 2 0
+0 35 23 6
 1
 end_operator
 begin_operator
@@ -236293,8 +236293,8 @@ succumb hangover entertainment endive vulcan pluto
 1
 1 6
 2
-0 35 23 6
 0 33 3 2
+0 35 23 6
 1
 end_operator
 begin_operator
@@ -236302,8 +236302,8 @@ succumb hangover entertainment guava neptune vulcan
 1
 1 7
 2
-0 35 23 7
 0 33 1 3
+0 35 23 7
 1
 end_operator
 begin_operator
@@ -236311,8 +236311,8 @@ succumb hangover entertainment guava pluto jupiter
 1
 1 7
 2
-0 35 23 7
 0 33 2 0
+0 35 23 7
 1
 end_operator
 begin_operator
@@ -236320,8 +236320,8 @@ succumb hangover entertainment guava vulcan pluto
 1
 1 7
 2
-0 35 23 7
 0 33 3 2
+0 35 23 7
 1
 end_operator
 begin_operator
@@ -236329,8 +236329,8 @@ succumb hangover entertainment haroset neptune vulcan
 1
 1 8
 2
-0 35 23 8
 0 33 1 3
+0 35 23 8
 1
 end_operator
 begin_operator
@@ -236338,8 +236338,8 @@ succumb hangover entertainment haroset pluto jupiter
 1
 1 8
 2
-0 35 23 8
 0 33 2 0
+0 35 23 8
 1
 end_operator
 begin_operator
@@ -236347,8 +236347,8 @@ succumb hangover entertainment haroset vulcan pluto
 1
 1 8
 2
-0 35 23 8
 0 33 3 2
+0 35 23 8
 1
 end_operator
 begin_operator
@@ -236356,8 +236356,8 @@ succumb hangover entertainment hotdog neptune vulcan
 1
 1 9
 2
-0 35 23 9
 0 33 1 3
+0 35 23 9
 1
 end_operator
 begin_operator
@@ -236365,8 +236365,8 @@ succumb hangover entertainment hotdog pluto jupiter
 1
 1 9
 2
-0 35 23 9
 0 33 2 0
+0 35 23 9
 1
 end_operator
 begin_operator
@@ -236374,8 +236374,8 @@ succumb hangover entertainment hotdog vulcan pluto
 1
 1 9
 2
-0 35 23 9
 0 33 3 2
+0 35 23 9
 1
 end_operator
 begin_operator
@@ -236383,8 +236383,8 @@ succumb hangover entertainment lemon neptune vulcan
 1
 1 10
 2
-0 35 23 10
 0 33 1 3
+0 35 23 10
 1
 end_operator
 begin_operator
@@ -236392,8 +236392,8 @@ succumb hangover entertainment lemon pluto jupiter
 1
 1 10
 2
-0 35 23 10
 0 33 2 0
+0 35 23 10
 1
 end_operator
 begin_operator
@@ -236401,8 +236401,8 @@ succumb hangover entertainment lemon vulcan pluto
 1
 1 10
 2
-0 35 23 10
 0 33 3 2
+0 35 23 10
 1
 end_operator
 begin_operator
@@ -236410,8 +236410,8 @@ succumb hangover entertainment marzipan neptune vulcan
 1
 1 11
 2
-0 35 23 11
 0 33 1 3
+0 35 23 11
 1
 end_operator
 begin_operator
@@ -236419,8 +236419,8 @@ succumb hangover entertainment marzipan pluto jupiter
 1
 1 11
 2
-0 35 23 11
 0 33 2 0
+0 35 23 11
 1
 end_operator
 begin_operator
@@ -236428,8 +236428,8 @@ succumb hangover entertainment marzipan vulcan pluto
 1
 1 11
 2
-0 35 23 11
 0 33 3 2
+0 35 23 11
 1
 end_operator
 begin_operator
@@ -236437,8 +236437,8 @@ succumb hangover entertainment orange neptune vulcan
 1
 1 12
 2
-0 35 23 12
 0 33 1 3
+0 35 23 12
 1
 end_operator
 begin_operator
@@ -236446,8 +236446,8 @@ succumb hangover entertainment orange pluto jupiter
 1
 1 12
 2
-0 35 23 12
 0 33 2 0
+0 35 23 12
 1
 end_operator
 begin_operator
@@ -236455,8 +236455,8 @@ succumb hangover entertainment orange vulcan pluto
 1
 1 12
 2
-0 35 23 12
 0 33 3 2
+0 35 23 12
 1
 end_operator
 begin_operator
@@ -236464,8 +236464,8 @@ succumb hangover entertainment pea neptune vulcan
 1
 1 13
 2
-0 35 23 13
 0 33 1 3
+0 35 23 13
 1
 end_operator
 begin_operator
@@ -236473,8 +236473,8 @@ succumb hangover entertainment pea pluto jupiter
 1
 1 13
 2
-0 35 23 13
 0 33 2 0
+0 35 23 13
 1
 end_operator
 begin_operator
@@ -236482,8 +236482,8 @@ succumb hangover entertainment pea vulcan pluto
 1
 1 13
 2
-0 35 23 13
 0 33 3 2
+0 35 23 13
 1
 end_operator
 begin_operator
@@ -236491,8 +236491,8 @@ succumb hangover entertainment pepper neptune vulcan
 1
 1 14
 2
-0 35 23 14
 0 33 1 3
+0 35 23 14
 1
 end_operator
 begin_operator
@@ -236500,8 +236500,8 @@ succumb hangover entertainment pepper pluto jupiter
 1
 1 14
 2
-0 35 23 14
 0 33 2 0
+0 35 23 14
 1
 end_operator
 begin_operator
@@ -236509,8 +236509,8 @@ succumb hangover entertainment pepper vulcan pluto
 1
 1 14
 2
-0 35 23 14
 0 33 3 2
+0 35 23 14
 1
 end_operator
 begin_operator
@@ -236518,8 +236518,8 @@ succumb hangover entertainment potato neptune vulcan
 1
 1 15
 2
-0 35 23 15
 0 33 1 3
+0 35 23 15
 1
 end_operator
 begin_operator
@@ -236527,8 +236527,8 @@ succumb hangover entertainment potato pluto jupiter
 1
 1 15
 2
-0 35 23 15
 0 33 2 0
+0 35 23 15
 1
 end_operator
 begin_operator
@@ -236536,8 +236536,8 @@ succumb hangover entertainment potato vulcan pluto
 1
 1 15
 2
-0 35 23 15
 0 33 3 2
+0 35 23 15
 1
 end_operator
 begin_operator
@@ -236545,8 +236545,8 @@ succumb hangover entertainment rice neptune vulcan
 1
 1 16
 2
-0 35 23 16
 0 33 1 3
+0 35 23 16
 1
 end_operator
 begin_operator
@@ -236554,8 +236554,8 @@ succumb hangover entertainment rice pluto jupiter
 1
 1 16
 2
-0 35 23 16
 0 33 2 0
+0 35 23 16
 1
 end_operator
 begin_operator
@@ -236563,8 +236563,8 @@ succumb hangover entertainment rice vulcan pluto
 1
 1 16
 2
-0 35 23 16
 0 33 3 2
+0 35 23 16
 1
 end_operator
 begin_operator
@@ -236572,8 +236572,8 @@ succumb hangover entertainment scallop neptune vulcan
 1
 1 17
 2
-0 35 23 17
 0 33 1 3
+0 35 23 17
 1
 end_operator
 begin_operator
@@ -236581,8 +236581,8 @@ succumb hangover entertainment scallop pluto jupiter
 1
 1 17
 2
-0 35 23 17
 0 33 2 0
+0 35 23 17
 1
 end_operator
 begin_operator
@@ -236590,8 +236590,8 @@ succumb hangover entertainment scallop vulcan pluto
 1
 1 17
 2
-0 35 23 17
 0 33 3 2
+0 35 23 17
 1
 end_operator
 begin_operator
@@ -236599,8 +236599,8 @@ succumb hangover entertainment tofu neptune vulcan
 1
 1 18
 2
-0 35 23 18
 0 33 1 3
+0 35 23 18
 1
 end_operator
 begin_operator
@@ -236608,8 +236608,8 @@ succumb hangover entertainment tofu pluto jupiter
 1
 1 18
 2
-0 35 23 18
 0 33 2 0
+0 35 23 18
 1
 end_operator
 begin_operator
@@ -236617,8 +236617,8 @@ succumb hangover entertainment tofu vulcan pluto
 1
 1 18
 2
-0 35 23 18
 0 33 3 2
+0 35 23 18
 1
 end_operator
 begin_operator
@@ -236626,8 +236626,8 @@ succumb hangover entertainment turkey neptune vulcan
 1
 1 19
 2
-0 35 23 19
 0 33 1 3
+0 35 23 19
 1
 end_operator
 begin_operator
@@ -236635,8 +236635,8 @@ succumb hangover entertainment turkey pluto jupiter
 1
 1 19
 2
-0 35 23 19
 0 33 2 0
+0 35 23 19
 1
 end_operator
 begin_operator
@@ -236644,8 +236644,8 @@ succumb hangover entertainment turkey vulcan pluto
 1
 1 19
 2
-0 35 23 19
 0 33 3 2
+0 35 23 19
 1
 end_operator
 begin_operator
@@ -236653,8 +236653,8 @@ succumb hangover entertainment wonderbread neptune vulcan
 1
 1 20
 2
-0 35 23 20
 0 33 1 3
+0 35 23 20
 1
 end_operator
 begin_operator
@@ -236662,8 +236662,8 @@ succumb hangover entertainment wonderbread pluto jupiter
 1
 1 20
 2
-0 35 23 20
 0 33 2 0
+0 35 23 20
 1
 end_operator
 begin_operator
@@ -236671,8 +236671,8 @@ succumb hangover entertainment wonderbread vulcan pluto
 1
 1 20
 2
-0 35 23 20
 0 33 3 2
+0 35 23 20
 1
 end_operator
 begin_operator
@@ -236680,8 +236680,8 @@ succumb hangover entertainment wurst neptune vulcan
 1
 1 21
 2
-0 35 23 21
 0 33 1 3
+0 35 23 21
 1
 end_operator
 begin_operator
@@ -236689,8 +236689,8 @@ succumb hangover entertainment wurst pluto jupiter
 1
 1 21
 2
-0 35 23 21
 0 33 2 0
+0 35 23 21
 1
 end_operator
 begin_operator
@@ -236698,8 +236698,8 @@ succumb hangover entertainment wurst vulcan pluto
 1
 1 21
 2
-0 35 23 21
 0 33 3 2
+0 35 23 21
 1
 end_operator
 begin_operator
@@ -239677,8 +239677,8 @@ succumb jealousy curiosity bacon neptune vulcan
 1
 0 0
 2
-0 38 22 0
 0 32 1 3
+0 38 22 0
 1
 end_operator
 begin_operator
@@ -239686,8 +239686,8 @@ succumb jealousy curiosity bacon pluto jupiter
 1
 0 0
 2
-0 38 22 0
 0 32 2 0
+0 38 22 0
 1
 end_operator
 begin_operator
@@ -239695,8 +239695,8 @@ succumb jealousy curiosity bacon vulcan pluto
 1
 0 0
 2
-0 38 22 0
 0 32 3 2
+0 38 22 0
 1
 end_operator
 begin_operator
@@ -239704,8 +239704,8 @@ succumb jealousy curiosity broccoli neptune vulcan
 1
 0 1
 2
-0 38 22 1
 0 32 1 3
+0 38 22 1
 1
 end_operator
 begin_operator
@@ -239713,8 +239713,8 @@ succumb jealousy curiosity broccoli pluto jupiter
 1
 0 1
 2
-0 38 22 1
 0 32 2 0
+0 38 22 1
 1
 end_operator
 begin_operator
@@ -239722,8 +239722,8 @@ succumb jealousy curiosity broccoli vulcan pluto
 1
 0 1
 2
-0 38 22 1
 0 32 3 2
+0 38 22 1
 1
 end_operator
 begin_operator
@@ -239731,8 +239731,8 @@ succumb jealousy curiosity cantelope neptune vulcan
 1
 0 2
 2
-0 38 22 2
 0 32 1 3
+0 38 22 2
 1
 end_operator
 begin_operator
@@ -239740,8 +239740,8 @@ succumb jealousy curiosity cantelope pluto jupiter
 1
 0 2
 2
-0 38 22 2
 0 32 2 0
+0 38 22 2
 1
 end_operator
 begin_operator
@@ -239749,8 +239749,8 @@ succumb jealousy curiosity cantelope vulcan pluto
 1
 0 2
 2
-0 38 22 2
 0 32 3 2
+0 38 22 2
 1
 end_operator
 begin_operator
@@ -239758,8 +239758,8 @@ succumb jealousy curiosity chicken neptune vulcan
 1
 0 3
 2
-0 38 22 3
 0 32 1 3
+0 38 22 3
 1
 end_operator
 begin_operator
@@ -239767,8 +239767,8 @@ succumb jealousy curiosity chicken pluto jupiter
 1
 0 3
 2
-0 38 22 3
 0 32 2 0
+0 38 22 3
 1
 end_operator
 begin_operator
@@ -239776,8 +239776,8 @@ succumb jealousy curiosity chicken vulcan pluto
 1
 0 3
 2
-0 38 22 3
 0 32 3 2
+0 38 22 3
 1
 end_operator
 begin_operator
@@ -239785,8 +239785,8 @@ succumb jealousy curiosity chocolate neptune vulcan
 1
 0 4
 2
-0 38 22 4
 0 32 1 3
+0 38 22 4
 1
 end_operator
 begin_operator
@@ -239794,8 +239794,8 @@ succumb jealousy curiosity chocolate pluto jupiter
 1
 0 4
 2
-0 38 22 4
 0 32 2 0
+0 38 22 4
 1
 end_operator
 begin_operator
@@ -239803,8 +239803,8 @@ succumb jealousy curiosity chocolate vulcan pluto
 1
 0 4
 2
-0 38 22 4
 0 32 3 2
+0 38 22 4
 1
 end_operator
 begin_operator
@@ -239812,8 +239812,8 @@ succumb jealousy curiosity cucumber neptune vulcan
 1
 0 5
 2
-0 38 22 5
 0 32 1 3
+0 38 22 5
 1
 end_operator
 begin_operator
@@ -239821,8 +239821,8 @@ succumb jealousy curiosity cucumber pluto jupiter
 1
 0 5
 2
-0 38 22 5
 0 32 2 0
+0 38 22 5
 1
 end_operator
 begin_operator
@@ -239830,8 +239830,8 @@ succumb jealousy curiosity cucumber vulcan pluto
 1
 0 5
 2
-0 38 22 5
 0 32 3 2
+0 38 22 5
 1
 end_operator
 begin_operator
@@ -239839,8 +239839,8 @@ succumb jealousy curiosity endive neptune vulcan
 1
 0 6
 2
-0 38 22 6
 0 32 1 3
+0 38 22 6
 1
 end_operator
 begin_operator
@@ -239848,8 +239848,8 @@ succumb jealousy curiosity endive pluto jupiter
 1
 0 6
 2
-0 38 22 6
 0 32 2 0
+0 38 22 6
 1
 end_operator
 begin_operator
@@ -239857,8 +239857,8 @@ succumb jealousy curiosity endive vulcan pluto
 1
 0 6
 2
-0 38 22 6
 0 32 3 2
+0 38 22 6
 1
 end_operator
 begin_operator
@@ -239866,8 +239866,8 @@ succumb jealousy curiosity guava neptune vulcan
 1
 0 7
 2
-0 38 22 7
 0 32 1 3
+0 38 22 7
 1
 end_operator
 begin_operator
@@ -239875,8 +239875,8 @@ succumb jealousy curiosity guava pluto jupiter
 1
 0 7
 2
-0 38 22 7
 0 32 2 0
+0 38 22 7
 1
 end_operator
 begin_operator
@@ -239884,8 +239884,8 @@ succumb jealousy curiosity guava vulcan pluto
 1
 0 7
 2
-0 38 22 7
 0 32 3 2
+0 38 22 7
 1
 end_operator
 begin_operator
@@ -239893,8 +239893,8 @@ succumb jealousy curiosity haroset neptune vulcan
 1
 0 8
 2
-0 38 22 8
 0 32 1 3
+0 38 22 8
 1
 end_operator
 begin_operator
@@ -239902,8 +239902,8 @@ succumb jealousy curiosity haroset pluto jupiter
 1
 0 8
 2
-0 38 22 8
 0 32 2 0
+0 38 22 8
 1
 end_operator
 begin_operator
@@ -239911,8 +239911,8 @@ succumb jealousy curiosity haroset vulcan pluto
 1
 0 8
 2
-0 38 22 8
 0 32 3 2
+0 38 22 8
 1
 end_operator
 begin_operator
@@ -239920,8 +239920,8 @@ succumb jealousy curiosity hotdog neptune vulcan
 1
 0 9
 2
-0 38 22 9
 0 32 1 3
+0 38 22 9
 1
 end_operator
 begin_operator
@@ -239929,8 +239929,8 @@ succumb jealousy curiosity hotdog pluto jupiter
 1
 0 9
 2
-0 38 22 9
 0 32 2 0
+0 38 22 9
 1
 end_operator
 begin_operator
@@ -239938,8 +239938,8 @@ succumb jealousy curiosity hotdog vulcan pluto
 1
 0 9
 2
-0 38 22 9
 0 32 3 2
+0 38 22 9
 1
 end_operator
 begin_operator
@@ -239947,8 +239947,8 @@ succumb jealousy curiosity lemon neptune vulcan
 1
 0 10
 2
-0 38 22 10
 0 32 1 3
+0 38 22 10
 1
 end_operator
 begin_operator
@@ -239956,8 +239956,8 @@ succumb jealousy curiosity lemon pluto jupiter
 1
 0 10
 2
-0 38 22 10
 0 32 2 0
+0 38 22 10
 1
 end_operator
 begin_operator
@@ -239965,8 +239965,8 @@ succumb jealousy curiosity lemon vulcan pluto
 1
 0 10
 2
-0 38 22 10
 0 32 3 2
+0 38 22 10
 1
 end_operator
 begin_operator
@@ -239974,8 +239974,8 @@ succumb jealousy curiosity marzipan neptune vulcan
 1
 0 11
 2
-0 38 22 11
 0 32 1 3
+0 38 22 11
 1
 end_operator
 begin_operator
@@ -239983,8 +239983,8 @@ succumb jealousy curiosity marzipan pluto jupiter
 1
 0 11
 2
-0 38 22 11
 0 32 2 0
+0 38 22 11
 1
 end_operator
 begin_operator
@@ -239992,8 +239992,8 @@ succumb jealousy curiosity marzipan vulcan pluto
 1
 0 11
 2
-0 38 22 11
 0 32 3 2
+0 38 22 11
 1
 end_operator
 begin_operator
@@ -240001,8 +240001,8 @@ succumb jealousy curiosity orange neptune vulcan
 1
 0 12
 2
-0 38 22 12
 0 32 1 3
+0 38 22 12
 1
 end_operator
 begin_operator
@@ -240010,8 +240010,8 @@ succumb jealousy curiosity orange pluto jupiter
 1
 0 12
 2
-0 38 22 12
 0 32 2 0
+0 38 22 12
 1
 end_operator
 begin_operator
@@ -240019,8 +240019,8 @@ succumb jealousy curiosity orange vulcan pluto
 1
 0 12
 2
-0 38 22 12
 0 32 3 2
+0 38 22 12
 1
 end_operator
 begin_operator
@@ -240028,8 +240028,8 @@ succumb jealousy curiosity pea neptune vulcan
 1
 0 13
 2
-0 38 22 13
 0 32 1 3
+0 38 22 13
 1
 end_operator
 begin_operator
@@ -240037,8 +240037,8 @@ succumb jealousy curiosity pea pluto jupiter
 1
 0 13
 2
-0 38 22 13
 0 32 2 0
+0 38 22 13
 1
 end_operator
 begin_operator
@@ -240046,8 +240046,8 @@ succumb jealousy curiosity pea vulcan pluto
 1
 0 13
 2
-0 38 22 13
 0 32 3 2
+0 38 22 13
 1
 end_operator
 begin_operator
@@ -240055,8 +240055,8 @@ succumb jealousy curiosity pepper neptune vulcan
 1
 0 14
 2
-0 38 22 14
 0 32 1 3
+0 38 22 14
 1
 end_operator
 begin_operator
@@ -240064,8 +240064,8 @@ succumb jealousy curiosity pepper pluto jupiter
 1
 0 14
 2
-0 38 22 14
 0 32 2 0
+0 38 22 14
 1
 end_operator
 begin_operator
@@ -240073,8 +240073,8 @@ succumb jealousy curiosity pepper vulcan pluto
 1
 0 14
 2
-0 38 22 14
 0 32 3 2
+0 38 22 14
 1
 end_operator
 begin_operator
@@ -240082,8 +240082,8 @@ succumb jealousy curiosity potato neptune vulcan
 1
 0 15
 2
-0 38 22 15
 0 32 1 3
+0 38 22 15
 1
 end_operator
 begin_operator
@@ -240091,8 +240091,8 @@ succumb jealousy curiosity potato pluto jupiter
 1
 0 15
 2
-0 38 22 15
 0 32 2 0
+0 38 22 15
 1
 end_operator
 begin_operator
@@ -240100,8 +240100,8 @@ succumb jealousy curiosity potato vulcan pluto
 1
 0 15
 2
-0 38 22 15
 0 32 3 2
+0 38 22 15
 1
 end_operator
 begin_operator
@@ -240109,8 +240109,8 @@ succumb jealousy curiosity rice neptune vulcan
 1
 0 16
 2
-0 38 22 16
 0 32 1 3
+0 38 22 16
 1
 end_operator
 begin_operator
@@ -240118,8 +240118,8 @@ succumb jealousy curiosity rice pluto jupiter
 1
 0 16
 2
-0 38 22 16
 0 32 2 0
+0 38 22 16
 1
 end_operator
 begin_operator
@@ -240127,8 +240127,8 @@ succumb jealousy curiosity rice vulcan pluto
 1
 0 16
 2
-0 38 22 16
 0 32 3 2
+0 38 22 16
 1
 end_operator
 begin_operator
@@ -240136,8 +240136,8 @@ succumb jealousy curiosity scallop neptune vulcan
 1
 0 17
 2
-0 38 22 17
 0 32 1 3
+0 38 22 17
 1
 end_operator
 begin_operator
@@ -240145,8 +240145,8 @@ succumb jealousy curiosity scallop pluto jupiter
 1
 0 17
 2
-0 38 22 17
 0 32 2 0
+0 38 22 17
 1
 end_operator
 begin_operator
@@ -240154,8 +240154,8 @@ succumb jealousy curiosity scallop vulcan pluto
 1
 0 17
 2
-0 38 22 17
 0 32 3 2
+0 38 22 17
 1
 end_operator
 begin_operator
@@ -240163,8 +240163,8 @@ succumb jealousy curiosity tofu neptune vulcan
 1
 0 18
 2
-0 38 22 18
 0 32 1 3
+0 38 22 18
 1
 end_operator
 begin_operator
@@ -240172,8 +240172,8 @@ succumb jealousy curiosity tofu pluto jupiter
 1
 0 18
 2
-0 38 22 18
 0 32 2 0
+0 38 22 18
 1
 end_operator
 begin_operator
@@ -240181,8 +240181,8 @@ succumb jealousy curiosity tofu vulcan pluto
 1
 0 18
 2
-0 38 22 18
 0 32 3 2
+0 38 22 18
 1
 end_operator
 begin_operator
@@ -240190,8 +240190,8 @@ succumb jealousy curiosity turkey neptune vulcan
 1
 0 19
 2
-0 38 22 19
 0 32 1 3
+0 38 22 19
 1
 end_operator
 begin_operator
@@ -240199,8 +240199,8 @@ succumb jealousy curiosity turkey pluto jupiter
 1
 0 19
 2
-0 38 22 19
 0 32 2 0
+0 38 22 19
 1
 end_operator
 begin_operator
@@ -240208,8 +240208,8 @@ succumb jealousy curiosity turkey vulcan pluto
 1
 0 19
 2
-0 38 22 19
 0 32 3 2
+0 38 22 19
 1
 end_operator
 begin_operator
@@ -240217,8 +240217,8 @@ succumb jealousy curiosity wonderbread neptune vulcan
 1
 0 20
 2
-0 38 22 20
 0 32 1 3
+0 38 22 20
 1
 end_operator
 begin_operator
@@ -240226,8 +240226,8 @@ succumb jealousy curiosity wonderbread pluto jupiter
 1
 0 20
 2
-0 38 22 20
 0 32 2 0
+0 38 22 20
 1
 end_operator
 begin_operator
@@ -240235,8 +240235,8 @@ succumb jealousy curiosity wonderbread vulcan pluto
 1
 0 20
 2
-0 38 22 20
 0 32 3 2
+0 38 22 20
 1
 end_operator
 begin_operator
@@ -240244,8 +240244,8 @@ succumb jealousy curiosity wurst neptune vulcan
 1
 0 21
 2
-0 38 22 21
 0 32 1 3
+0 38 22 21
 1
 end_operator
 begin_operator
@@ -240253,8 +240253,8 @@ succumb jealousy curiosity wurst pluto jupiter
 1
 0 21
 2
-0 38 22 21
 0 32 2 0
+0 38 22 21
 1
 end_operator
 begin_operator
@@ -240262,8 +240262,8 @@ succumb jealousy curiosity wurst vulcan pluto
 1
 0 21
 2
-0 38 22 21
 0 32 3 2
+0 38 22 21
 1
 end_operator
 begin_operator
@@ -240271,8 +240271,8 @@ succumb jealousy entertainment bacon neptune vulcan
 1
 1 0
 2
-0 38 23 0
 0 33 1 3
+0 38 23 0
 1
 end_operator
 begin_operator
@@ -240280,8 +240280,8 @@ succumb jealousy entertainment bacon pluto jupiter
 1
 1 0
 2
-0 38 23 0
 0 33 2 0
+0 38 23 0
 1
 end_operator
 begin_operator
@@ -240289,8 +240289,8 @@ succumb jealousy entertainment bacon vulcan pluto
 1
 1 0
 2
-0 38 23 0
 0 33 3 2
+0 38 23 0
 1
 end_operator
 begin_operator
@@ -240298,8 +240298,8 @@ succumb jealousy entertainment broccoli neptune vulcan
 1
 1 1
 2
-0 38 23 1
 0 33 1 3
+0 38 23 1
 1
 end_operator
 begin_operator
@@ -240307,8 +240307,8 @@ succumb jealousy entertainment broccoli pluto jupiter
 1
 1 1
 2
-0 38 23 1
 0 33 2 0
+0 38 23 1
 1
 end_operator
 begin_operator
@@ -240316,8 +240316,8 @@ succumb jealousy entertainment broccoli vulcan pluto
 1
 1 1
 2
-0 38 23 1
 0 33 3 2
+0 38 23 1
 1
 end_operator
 begin_operator
@@ -240325,8 +240325,8 @@ succumb jealousy entertainment cantelope neptune vulcan
 1
 1 2
 2
-0 38 23 2
 0 33 1 3
+0 38 23 2
 1
 end_operator
 begin_operator
@@ -240334,8 +240334,8 @@ succumb jealousy entertainment cantelope pluto jupiter
 1
 1 2
 2
-0 38 23 2
 0 33 2 0
+0 38 23 2
 1
 end_operator
 begin_operator
@@ -240343,8 +240343,8 @@ succumb jealousy entertainment cantelope vulcan pluto
 1
 1 2
 2
-0 38 23 2
 0 33 3 2
+0 38 23 2
 1
 end_operator
 begin_operator
@@ -240352,8 +240352,8 @@ succumb jealousy entertainment chicken neptune vulcan
 1
 1 3
 2
-0 38 23 3
 0 33 1 3
+0 38 23 3
 1
 end_operator
 begin_operator
@@ -240361,8 +240361,8 @@ succumb jealousy entertainment chicken pluto jupiter
 1
 1 3
 2
-0 38 23 3
 0 33 2 0
+0 38 23 3
 1
 end_operator
 begin_operator
@@ -240370,8 +240370,8 @@ succumb jealousy entertainment chicken vulcan pluto
 1
 1 3
 2
-0 38 23 3
 0 33 3 2
+0 38 23 3
 1
 end_operator
 begin_operator
@@ -240379,8 +240379,8 @@ succumb jealousy entertainment chocolate neptune vulcan
 1
 1 4
 2
-0 38 23 4
 0 33 1 3
+0 38 23 4
 1
 end_operator
 begin_operator
@@ -240388,8 +240388,8 @@ succumb jealousy entertainment chocolate pluto jupiter
 1
 1 4
 2
-0 38 23 4
 0 33 2 0
+0 38 23 4
 1
 end_operator
 begin_operator
@@ -240397,8 +240397,8 @@ succumb jealousy entertainment chocolate vulcan pluto
 1
 1 4
 2
-0 38 23 4
 0 33 3 2
+0 38 23 4
 1
 end_operator
 begin_operator
@@ -240406,8 +240406,8 @@ succumb jealousy entertainment cucumber neptune vulcan
 1
 1 5
 2
-0 38 23 5
 0 33 1 3
+0 38 23 5
 1
 end_operator
 begin_operator
@@ -240415,8 +240415,8 @@ succumb jealousy entertainment cucumber pluto jupiter
 1
 1 5
 2
-0 38 23 5
 0 33 2 0
+0 38 23 5
 1
 end_operator
 begin_operator
@@ -240424,8 +240424,8 @@ succumb jealousy entertainment cucumber vulcan pluto
 1
 1 5
 2
-0 38 23 5
 0 33 3 2
+0 38 23 5
 1
 end_operator
 begin_operator
@@ -240433,8 +240433,8 @@ succumb jealousy entertainment endive neptune vulcan
 1
 1 6
 2
-0 38 23 6
 0 33 1 3
+0 38 23 6
 1
 end_operator
 begin_operator
@@ -240442,8 +240442,8 @@ succumb jealousy entertainment endive pluto jupiter
 1
 1 6
 2
-0 38 23 6
 0 33 2 0
+0 38 23 6
 1
 end_operator
 begin_operator
@@ -240451,8 +240451,8 @@ succumb jealousy entertainment endive vulcan pluto
 1
 1 6
 2
-0 38 23 6
 0 33 3 2
+0 38 23 6
 1
 end_operator
 begin_operator
@@ -240460,8 +240460,8 @@ succumb jealousy entertainment guava neptune vulcan
 1
 1 7
 2
-0 38 23 7
 0 33 1 3
+0 38 23 7
 1
 end_operator
 begin_operator
@@ -240469,8 +240469,8 @@ succumb jealousy entertainment guava pluto jupiter
 1
 1 7
 2
-0 38 23 7
 0 33 2 0
+0 38 23 7
 1
 end_operator
 begin_operator
@@ -240478,8 +240478,8 @@ succumb jealousy entertainment guava vulcan pluto
 1
 1 7
 2
-0 38 23 7
 0 33 3 2
+0 38 23 7
 1
 end_operator
 begin_operator
@@ -240487,8 +240487,8 @@ succumb jealousy entertainment haroset neptune vulcan
 1
 1 8
 2
-0 38 23 8
 0 33 1 3
+0 38 23 8
 1
 end_operator
 begin_operator
@@ -240496,8 +240496,8 @@ succumb jealousy entertainment haroset pluto jupiter
 1
 1 8
 2
-0 38 23 8
 0 33 2 0
+0 38 23 8
 1
 end_operator
 begin_operator
@@ -240505,8 +240505,8 @@ succumb jealousy entertainment haroset vulcan pluto
 1
 1 8
 2
-0 38 23 8
 0 33 3 2
+0 38 23 8
 1
 end_operator
 begin_operator
@@ -240514,8 +240514,8 @@ succumb jealousy entertainment hotdog neptune vulcan
 1
 1 9
 2
-0 38 23 9
 0 33 1 3
+0 38 23 9
 1
 end_operator
 begin_operator
@@ -240523,8 +240523,8 @@ succumb jealousy entertainment hotdog pluto jupiter
 1
 1 9
 2
-0 38 23 9
 0 33 2 0
+0 38 23 9
 1
 end_operator
 begin_operator
@@ -240532,8 +240532,8 @@ succumb jealousy entertainment hotdog vulcan pluto
 1
 1 9
 2
-0 38 23 9
 0 33 3 2
+0 38 23 9
 1
 end_operator
 begin_operator
@@ -240541,8 +240541,8 @@ succumb jealousy entertainment lemon neptune vulcan
 1
 1 10
 2
-0 38 23 10
 0 33 1 3
+0 38 23 10
 1
 end_operator
 begin_operator
@@ -240550,8 +240550,8 @@ succumb jealousy entertainment lemon pluto jupiter
 1
 1 10
 2
-0 38 23 10
 0 33 2 0
+0 38 23 10
 1
 end_operator
 begin_operator
@@ -240559,8 +240559,8 @@ succumb jealousy entertainment lemon vulcan pluto
 1
 1 10
 2
-0 38 23 10
 0 33 3 2
+0 38 23 10
 1
 end_operator
 begin_operator
@@ -240568,8 +240568,8 @@ succumb jealousy entertainment marzipan neptune vulcan
 1
 1 11
 2
-0 38 23 11
 0 33 1 3
+0 38 23 11
 1
 end_operator
 begin_operator
@@ -240577,8 +240577,8 @@ succumb jealousy entertainment marzipan pluto jupiter
 1
 1 11
 2
-0 38 23 11
 0 33 2 0
+0 38 23 11
 1
 end_operator
 begin_operator
@@ -240586,8 +240586,8 @@ succumb jealousy entertainment marzipan vulcan pluto
 1
 1 11
 2
-0 38 23 11
 0 33 3 2
+0 38 23 11
 1
 end_operator
 begin_operator
@@ -240595,8 +240595,8 @@ succumb jealousy entertainment orange neptune vulcan
 1
 1 12
 2
-0 38 23 12
 0 33 1 3
+0 38 23 12
 1
 end_operator
 begin_operator
@@ -240604,8 +240604,8 @@ succumb jealousy entertainment orange pluto jupiter
 1
 1 12
 2
-0 38 23 12
 0 33 2 0
+0 38 23 12
 1
 end_operator
 begin_operator
@@ -240613,8 +240613,8 @@ succumb jealousy entertainment orange vulcan pluto
 1
 1 12
 2
-0 38 23 12
 0 33 3 2
+0 38 23 12
 1
 end_operator
 begin_operator
@@ -240622,8 +240622,8 @@ succumb jealousy entertainment pea neptune vulcan
 1
 1 13
 2
-0 38 23 13
 0 33 1 3
+0 38 23 13
 1
 end_operator
 begin_operator
@@ -240631,8 +240631,8 @@ succumb jealousy entertainment pea pluto jupiter
 1
 1 13
 2
-0 38 23 13
 0 33 2 0
+0 38 23 13
 1
 end_operator
 begin_operator
@@ -240640,8 +240640,8 @@ succumb jealousy entertainment pea vulcan pluto
 1
 1 13
 2
-0 38 23 13
 0 33 3 2
+0 38 23 13
 1
 end_operator
 begin_operator
@@ -240649,8 +240649,8 @@ succumb jealousy entertainment pepper neptune vulcan
 1
 1 14
 2
-0 38 23 14
 0 33 1 3
+0 38 23 14
 1
 end_operator
 begin_operator
@@ -240658,8 +240658,8 @@ succumb jealousy entertainment pepper pluto jupiter
 1
 1 14
 2
-0 38 23 14
 0 33 2 0
+0 38 23 14
 1
 end_operator
 begin_operator
@@ -240667,8 +240667,8 @@ succumb jealousy entertainment pepper vulcan pluto
 1
 1 14
 2
-0 38 23 14
 0 33 3 2
+0 38 23 14
 1
 end_operator
 begin_operator
@@ -240676,8 +240676,8 @@ succumb jealousy entertainment potato neptune vulcan
 1
 1 15
 2
-0 38 23 15
 0 33 1 3
+0 38 23 15
 1
 end_operator
 begin_operator
@@ -240685,8 +240685,8 @@ succumb jealousy entertainment potato pluto jupiter
 1
 1 15
 2
-0 38 23 15
 0 33 2 0
+0 38 23 15
 1
 end_operator
 begin_operator
@@ -240694,8 +240694,8 @@ succumb jealousy entertainment potato vulcan pluto
 1
 1 15
 2
-0 38 23 15
 0 33 3 2
+0 38 23 15
 1
 end_operator
 begin_operator
@@ -240703,8 +240703,8 @@ succumb jealousy entertainment rice neptune vulcan
 1
 1 16
 2
-0 38 23 16
 0 33 1 3
+0 38 23 16
 1
 end_operator
 begin_operator
@@ -240712,8 +240712,8 @@ succumb jealousy entertainment rice pluto jupiter
 1
 1 16
 2
-0 38 23 16
 0 33 2 0
+0 38 23 16
 1
 end_operator
 begin_operator
@@ -240721,8 +240721,8 @@ succumb jealousy entertainment rice vulcan pluto
 1
 1 16
 2
-0 38 23 16
 0 33 3 2
+0 38 23 16
 1
 end_operator
 begin_operator
@@ -240730,8 +240730,8 @@ succumb jealousy entertainment scallop neptune vulcan
 1
 1 17
 2
-0 38 23 17
 0 33 1 3
+0 38 23 17
 1
 end_operator
 begin_operator
@@ -240739,8 +240739,8 @@ succumb jealousy entertainment scallop pluto jupiter
 1
 1 17
 2
-0 38 23 17
 0 33 2 0
+0 38 23 17
 1
 end_operator
 begin_operator
@@ -240748,8 +240748,8 @@ succumb jealousy entertainment scallop vulcan pluto
 1
 1 17
 2
-0 38 23 17
 0 33 3 2
+0 38 23 17
 1
 end_operator
 begin_operator
@@ -240757,8 +240757,8 @@ succumb jealousy entertainment tofu neptune vulcan
 1
 1 18
 2
-0 38 23 18
 0 33 1 3
+0 38 23 18
 1
 end_operator
 begin_operator
@@ -240766,8 +240766,8 @@ succumb jealousy entertainment tofu pluto jupiter
 1
 1 18
 2
-0 38 23 18
 0 33 2 0
+0 38 23 18
 1
 end_operator
 begin_operator
@@ -240775,8 +240775,8 @@ succumb jealousy entertainment tofu vulcan pluto
 1
 1 18
 2
-0 38 23 18
 0 33 3 2
+0 38 23 18
 1
 end_operator
 begin_operator
@@ -240784,8 +240784,8 @@ succumb jealousy entertainment turkey neptune vulcan
 1
 1 19
 2
-0 38 23 19
 0 33 1 3
+0 38 23 19
 1
 end_operator
 begin_operator
@@ -240793,8 +240793,8 @@ succumb jealousy entertainment turkey pluto jupiter
 1
 1 19
 2
-0 38 23 19
 0 33 2 0
+0 38 23 19
 1
 end_operator
 begin_operator
@@ -240802,8 +240802,8 @@ succumb jealousy entertainment turkey vulcan pluto
 1
 1 19
 2
-0 38 23 19
 0 33 3 2
+0 38 23 19
 1
 end_operator
 begin_operator
@@ -240811,8 +240811,8 @@ succumb jealousy entertainment wonderbread neptune vulcan
 1
 1 20
 2
-0 38 23 20
 0 33 1 3
+0 38 23 20
 1
 end_operator
 begin_operator
@@ -240820,8 +240820,8 @@ succumb jealousy entertainment wonderbread pluto jupiter
 1
 1 20
 2
-0 38 23 20
 0 33 2 0
+0 38 23 20
 1
 end_operator
 begin_operator
@@ -240829,8 +240829,8 @@ succumb jealousy entertainment wonderbread vulcan pluto
 1
 1 20
 2
-0 38 23 20
 0 33 3 2
+0 38 23 20
 1
 end_operator
 begin_operator
@@ -240838,8 +240838,8 @@ succumb jealousy entertainment wurst neptune vulcan
 1
 1 21
 2
-0 38 23 21
 0 33 1 3
+0 38 23 21
 1
 end_operator
 begin_operator
@@ -240847,8 +240847,8 @@ succumb jealousy entertainment wurst pluto jupiter
 1
 1 21
 2
-0 38 23 21
 0 33 2 0
+0 38 23 21
 1
 end_operator
 begin_operator
@@ -240856,8 +240856,8 @@ succumb jealousy entertainment wurst vulcan pluto
 1
 1 21
 2
-0 38 23 21
 0 33 3 2
+0 38 23 21
 1
 end_operator
 begin_operator
@@ -240865,8 +240865,8 @@ succumb jealousy expectation bacon neptune vulcan
 1
 2 0
 2
-0 38 24 0
 0 36 1 3
+0 38 24 0
 1
 end_operator
 begin_operator
@@ -240874,8 +240874,8 @@ succumb jealousy expectation bacon pluto jupiter
 1
 2 0
 2
-0 38 24 0
 0 36 2 0
+0 38 24 0
 1
 end_operator
 begin_operator
@@ -240883,8 +240883,8 @@ succumb jealousy expectation bacon vulcan pluto
 1
 2 0
 2
-0 38 24 0
 0 36 3 2
+0 38 24 0
 1
 end_operator
 begin_operator
@@ -240892,8 +240892,8 @@ succumb jealousy expectation broccoli neptune vulcan
 1
 2 1
 2
-0 38 24 1
 0 36 1 3
+0 38 24 1
 1
 end_operator
 begin_operator
@@ -240901,8 +240901,8 @@ succumb jealousy expectation broccoli pluto jupiter
 1
 2 1
 2
-0 38 24 1
 0 36 2 0
+0 38 24 1
 1
 end_operator
 begin_operator
@@ -240910,8 +240910,8 @@ succumb jealousy expectation broccoli vulcan pluto
 1
 2 1
 2
-0 38 24 1
 0 36 3 2
+0 38 24 1
 1
 end_operator
 begin_operator
@@ -240919,8 +240919,8 @@ succumb jealousy expectation cantelope neptune vulcan
 1
 2 2
 2
-0 38 24 2
 0 36 1 3
+0 38 24 2
 1
 end_operator
 begin_operator
@@ -240928,8 +240928,8 @@ succumb jealousy expectation cantelope pluto jupiter
 1
 2 2
 2
-0 38 24 2
 0 36 2 0
+0 38 24 2
 1
 end_operator
 begin_operator
@@ -240937,8 +240937,8 @@ succumb jealousy expectation cantelope vulcan pluto
 1
 2 2
 2
-0 38 24 2
 0 36 3 2
+0 38 24 2
 1
 end_operator
 begin_operator
@@ -240946,8 +240946,8 @@ succumb jealousy expectation chicken neptune vulcan
 1
 2 3
 2
-0 38 24 3
 0 36 1 3
+0 38 24 3
 1
 end_operator
 begin_operator
@@ -240955,8 +240955,8 @@ succumb jealousy expectation chicken pluto jupiter
 1
 2 3
 2
-0 38 24 3
 0 36 2 0
+0 38 24 3
 1
 end_operator
 begin_operator
@@ -240964,8 +240964,8 @@ succumb jealousy expectation chicken vulcan pluto
 1
 2 3
 2
-0 38 24 3
 0 36 3 2
+0 38 24 3
 1
 end_operator
 begin_operator
@@ -240973,8 +240973,8 @@ succumb jealousy expectation chocolate neptune vulcan
 1
 2 4
 2
-0 38 24 4
 0 36 1 3
+0 38 24 4
 1
 end_operator
 begin_operator
@@ -240982,8 +240982,8 @@ succumb jealousy expectation chocolate pluto jupiter
 1
 2 4
 2
-0 38 24 4
 0 36 2 0
+0 38 24 4
 1
 end_operator
 begin_operator
@@ -240991,8 +240991,8 @@ succumb jealousy expectation chocolate vulcan pluto
 1
 2 4
 2
-0 38 24 4
 0 36 3 2
+0 38 24 4
 1
 end_operator
 begin_operator
@@ -241000,8 +241000,8 @@ succumb jealousy expectation cucumber neptune vulcan
 1
 2 5
 2
-0 38 24 5
 0 36 1 3
+0 38 24 5
 1
 end_operator
 begin_operator
@@ -241009,8 +241009,8 @@ succumb jealousy expectation cucumber pluto jupiter
 1
 2 5
 2
-0 38 24 5
 0 36 2 0
+0 38 24 5
 1
 end_operator
 begin_operator
@@ -241018,8 +241018,8 @@ succumb jealousy expectation cucumber vulcan pluto
 1
 2 5
 2
-0 38 24 5
 0 36 3 2
+0 38 24 5
 1
 end_operator
 begin_operator
@@ -241027,8 +241027,8 @@ succumb jealousy expectation endive neptune vulcan
 1
 2 6
 2
-0 38 24 6
 0 36 1 3
+0 38 24 6
 1
 end_operator
 begin_operator
@@ -241036,8 +241036,8 @@ succumb jealousy expectation endive pluto jupiter
 1
 2 6
 2
-0 38 24 6
 0 36 2 0
+0 38 24 6
 1
 end_operator
 begin_operator
@@ -241045,8 +241045,8 @@ succumb jealousy expectation endive vulcan pluto
 1
 2 6
 2
-0 38 24 6
 0 36 3 2
+0 38 24 6
 1
 end_operator
 begin_operator
@@ -241054,8 +241054,8 @@ succumb jealousy expectation guava neptune vulcan
 1
 2 7
 2
-0 38 24 7
 0 36 1 3
+0 38 24 7
 1
 end_operator
 begin_operator
@@ -241063,8 +241063,8 @@ succumb jealousy expectation guava pluto jupiter
 1
 2 7
 2
-0 38 24 7
 0 36 2 0
+0 38 24 7
 1
 end_operator
 begin_operator
@@ -241072,8 +241072,8 @@ succumb jealousy expectation guava vulcan pluto
 1
 2 7
 2
-0 38 24 7
 0 36 3 2
+0 38 24 7
 1
 end_operator
 begin_operator
@@ -241081,8 +241081,8 @@ succumb jealousy expectation haroset neptune vulcan
 1
 2 8
 2
-0 38 24 8
 0 36 1 3
+0 38 24 8
 1
 end_operator
 begin_operator
@@ -241090,8 +241090,8 @@ succumb jealousy expectation haroset pluto jupiter
 1
 2 8
 2
-0 38 24 8
 0 36 2 0
+0 38 24 8
 1
 end_operator
 begin_operator
@@ -241099,8 +241099,8 @@ succumb jealousy expectation haroset vulcan pluto
 1
 2 8
 2
-0 38 24 8
 0 36 3 2
+0 38 24 8
 1
 end_operator
 begin_operator
@@ -241108,8 +241108,8 @@ succumb jealousy expectation hotdog neptune vulcan
 1
 2 9
 2
-0 38 24 9
 0 36 1 3
+0 38 24 9
 1
 end_operator
 begin_operator
@@ -241117,8 +241117,8 @@ succumb jealousy expectation hotdog pluto jupiter
 1
 2 9
 2
-0 38 24 9
 0 36 2 0
+0 38 24 9
 1
 end_operator
 begin_operator
@@ -241126,8 +241126,8 @@ succumb jealousy expectation hotdog vulcan pluto
 1
 2 9
 2
-0 38 24 9
 0 36 3 2
+0 38 24 9
 1
 end_operator
 begin_operator
@@ -241135,8 +241135,8 @@ succumb jealousy expectation lemon neptune vulcan
 1
 2 10
 2
-0 38 24 10
 0 36 1 3
+0 38 24 10
 1
 end_operator
 begin_operator
@@ -241144,8 +241144,8 @@ succumb jealousy expectation lemon pluto jupiter
 1
 2 10
 2
-0 38 24 10
 0 36 2 0
+0 38 24 10
 1
 end_operator
 begin_operator
@@ -241153,8 +241153,8 @@ succumb jealousy expectation lemon vulcan pluto
 1
 2 10
 2
-0 38 24 10
 0 36 3 2
+0 38 24 10
 1
 end_operator
 begin_operator
@@ -241162,8 +241162,8 @@ succumb jealousy expectation marzipan neptune vulcan
 1
 2 11
 2
-0 38 24 11
 0 36 1 3
+0 38 24 11
 1
 end_operator
 begin_operator
@@ -241171,8 +241171,8 @@ succumb jealousy expectation marzipan pluto jupiter
 1
 2 11
 2
-0 38 24 11
 0 36 2 0
+0 38 24 11
 1
 end_operator
 begin_operator
@@ -241180,8 +241180,8 @@ succumb jealousy expectation marzipan vulcan pluto
 1
 2 11
 2
-0 38 24 11
 0 36 3 2
+0 38 24 11
 1
 end_operator
 begin_operator
@@ -241189,8 +241189,8 @@ succumb jealousy expectation orange neptune vulcan
 1
 2 12
 2
-0 38 24 12
 0 36 1 3
+0 38 24 12
 1
 end_operator
 begin_operator
@@ -241198,8 +241198,8 @@ succumb jealousy expectation orange pluto jupiter
 1
 2 12
 2
-0 38 24 12
 0 36 2 0
+0 38 24 12
 1
 end_operator
 begin_operator
@@ -241207,8 +241207,8 @@ succumb jealousy expectation orange vulcan pluto
 1
 2 12
 2
-0 38 24 12
 0 36 3 2
+0 38 24 12
 1
 end_operator
 begin_operator
@@ -241216,8 +241216,8 @@ succumb jealousy expectation pea neptune vulcan
 1
 2 13
 2
-0 38 24 13
 0 36 1 3
+0 38 24 13
 1
 end_operator
 begin_operator
@@ -241225,8 +241225,8 @@ succumb jealousy expectation pea pluto jupiter
 1
 2 13
 2
-0 38 24 13
 0 36 2 0
+0 38 24 13
 1
 end_operator
 begin_operator
@@ -241234,8 +241234,8 @@ succumb jealousy expectation pea vulcan pluto
 1
 2 13
 2
-0 38 24 13
 0 36 3 2
+0 38 24 13
 1
 end_operator
 begin_operator
@@ -241243,8 +241243,8 @@ succumb jealousy expectation pepper neptune vulcan
 1
 2 14
 2
-0 38 24 14
 0 36 1 3
+0 38 24 14
 1
 end_operator
 begin_operator
@@ -241252,8 +241252,8 @@ succumb jealousy expectation pepper pluto jupiter
 1
 2 14
 2
-0 38 24 14
 0 36 2 0
+0 38 24 14
 1
 end_operator
 begin_operator
@@ -241261,8 +241261,8 @@ succumb jealousy expectation pepper vulcan pluto
 1
 2 14
 2
-0 38 24 14
 0 36 3 2
+0 38 24 14
 1
 end_operator
 begin_operator
@@ -241270,8 +241270,8 @@ succumb jealousy expectation potato neptune vulcan
 1
 2 15
 2
-0 38 24 15
 0 36 1 3
+0 38 24 15
 1
 end_operator
 begin_operator
@@ -241279,8 +241279,8 @@ succumb jealousy expectation potato pluto jupiter
 1
 2 15
 2
-0 38 24 15
 0 36 2 0
+0 38 24 15
 1
 end_operator
 begin_operator
@@ -241288,8 +241288,8 @@ succumb jealousy expectation potato vulcan pluto
 1
 2 15
 2
-0 38 24 15
 0 36 3 2
+0 38 24 15
 1
 end_operator
 begin_operator
@@ -241297,8 +241297,8 @@ succumb jealousy expectation rice neptune vulcan
 1
 2 16
 2
-0 38 24 16
 0 36 1 3
+0 38 24 16
 1
 end_operator
 begin_operator
@@ -241306,8 +241306,8 @@ succumb jealousy expectation rice pluto jupiter
 1
 2 16
 2
-0 38 24 16
 0 36 2 0
+0 38 24 16
 1
 end_operator
 begin_operator
@@ -241315,8 +241315,8 @@ succumb jealousy expectation rice vulcan pluto
 1
 2 16
 2
-0 38 24 16
 0 36 3 2
+0 38 24 16
 1
 end_operator
 begin_operator
@@ -241324,8 +241324,8 @@ succumb jealousy expectation scallop neptune vulcan
 1
 2 17
 2
-0 38 24 17
 0 36 1 3
+0 38 24 17
 1
 end_operator
 begin_operator
@@ -241333,8 +241333,8 @@ succumb jealousy expectation scallop pluto jupiter
 1
 2 17
 2
-0 38 24 17
 0 36 2 0
+0 38 24 17
 1
 end_operator
 begin_operator
@@ -241342,8 +241342,8 @@ succumb jealousy expectation scallop vulcan pluto
 1
 2 17
 2
-0 38 24 17
 0 36 3 2
+0 38 24 17
 1
 end_operator
 begin_operator
@@ -241351,8 +241351,8 @@ succumb jealousy expectation tofu neptune vulcan
 1
 2 18
 2
-0 38 24 18
 0 36 1 3
+0 38 24 18
 1
 end_operator
 begin_operator
@@ -241360,8 +241360,8 @@ succumb jealousy expectation tofu pluto jupiter
 1
 2 18
 2
-0 38 24 18
 0 36 2 0
+0 38 24 18
 1
 end_operator
 begin_operator
@@ -241369,8 +241369,8 @@ succumb jealousy expectation tofu vulcan pluto
 1
 2 18
 2
-0 38 24 18
 0 36 3 2
+0 38 24 18
 1
 end_operator
 begin_operator
@@ -241378,8 +241378,8 @@ succumb jealousy expectation turkey neptune vulcan
 1
 2 19
 2
-0 38 24 19
 0 36 1 3
+0 38 24 19
 1
 end_operator
 begin_operator
@@ -241387,8 +241387,8 @@ succumb jealousy expectation turkey pluto jupiter
 1
 2 19
 2
-0 38 24 19
 0 36 2 0
+0 38 24 19
 1
 end_operator
 begin_operator
@@ -241396,8 +241396,8 @@ succumb jealousy expectation turkey vulcan pluto
 1
 2 19
 2
-0 38 24 19
 0 36 3 2
+0 38 24 19
 1
 end_operator
 begin_operator
@@ -241405,8 +241405,8 @@ succumb jealousy expectation wonderbread neptune vulcan
 1
 2 20
 2
-0 38 24 20
 0 36 1 3
+0 38 24 20
 1
 end_operator
 begin_operator
@@ -241414,8 +241414,8 @@ succumb jealousy expectation wonderbread pluto jupiter
 1
 2 20
 2
-0 38 24 20
 0 36 2 0
+0 38 24 20
 1
 end_operator
 begin_operator
@@ -241423,8 +241423,8 @@ succumb jealousy expectation wonderbread vulcan pluto
 1
 2 20
 2
-0 38 24 20
 0 36 3 2
+0 38 24 20
 1
 end_operator
 begin_operator
@@ -241432,8 +241432,8 @@ succumb jealousy expectation wurst neptune vulcan
 1
 2 21
 2
-0 38 24 21
 0 36 1 3
+0 38 24 21
 1
 end_operator
 begin_operator
@@ -241441,8 +241441,8 @@ succumb jealousy expectation wurst pluto jupiter
 1
 2 21
 2
-0 38 24 21
 0 36 2 0
+0 38 24 21
 1
 end_operator
 begin_operator
@@ -241450,8 +241450,8 @@ succumb jealousy expectation wurst vulcan pluto
 1
 2 21
 2
-0 38 24 21
 0 36 3 2
+0 38 24 21
 1
 end_operator
 begin_operator
@@ -241459,8 +241459,8 @@ succumb jealousy learning bacon neptune vulcan
 1
 3 0
 2
-0 38 25 0
 0 37 1 3
+0 38 25 0
 1
 end_operator
 begin_operator
@@ -241468,8 +241468,8 @@ succumb jealousy learning bacon pluto jupiter
 1
 3 0
 2
-0 38 25 0
 0 37 2 0
+0 38 25 0
 1
 end_operator
 begin_operator
@@ -241477,8 +241477,8 @@ succumb jealousy learning bacon vulcan pluto
 1
 3 0
 2
-0 38 25 0
 0 37 3 2
+0 38 25 0
 1
 end_operator
 begin_operator
@@ -241486,8 +241486,8 @@ succumb jealousy learning broccoli neptune vulcan
 1
 3 1
 2
-0 38 25 1
 0 37 1 3
+0 38 25 1
 1
 end_operator
 begin_operator
@@ -241495,8 +241495,8 @@ succumb jealousy learning broccoli pluto jupiter
 1
 3 1
 2
-0 38 25 1
 0 37 2 0
+0 38 25 1
 1
 end_operator
 begin_operator
@@ -241504,8 +241504,8 @@ succumb jealousy learning broccoli vulcan pluto
 1
 3 1
 2
-0 38 25 1
 0 37 3 2
+0 38 25 1
 1
 end_operator
 begin_operator
@@ -241513,8 +241513,8 @@ succumb jealousy learning cantelope neptune vulcan
 1
 3 2
 2
-0 38 25 2
 0 37 1 3
+0 38 25 2
 1
 end_operator
 begin_operator
@@ -241522,8 +241522,8 @@ succumb jealousy learning cantelope pluto jupiter
 1
 3 2
 2
-0 38 25 2
 0 37 2 0
+0 38 25 2
 1
 end_operator
 begin_operator
@@ -241531,8 +241531,8 @@ succumb jealousy learning cantelope vulcan pluto
 1
 3 2
 2
-0 38 25 2
 0 37 3 2
+0 38 25 2
 1
 end_operator
 begin_operator
@@ -241540,8 +241540,8 @@ succumb jealousy learning chicken neptune vulcan
 1
 3 3
 2
-0 38 25 3
 0 37 1 3
+0 38 25 3
 1
 end_operator
 begin_operator
@@ -241549,8 +241549,8 @@ succumb jealousy learning chicken pluto jupiter
 1
 3 3
 2
-0 38 25 3
 0 37 2 0
+0 38 25 3
 1
 end_operator
 begin_operator
@@ -241558,8 +241558,8 @@ succumb jealousy learning chicken vulcan pluto
 1
 3 3
 2
-0 38 25 3
 0 37 3 2
+0 38 25 3
 1
 end_operator
 begin_operator
@@ -241567,8 +241567,8 @@ succumb jealousy learning chocolate neptune vulcan
 1
 3 4
 2
-0 38 25 4
 0 37 1 3
+0 38 25 4
 1
 end_operator
 begin_operator
@@ -241576,8 +241576,8 @@ succumb jealousy learning chocolate pluto jupiter
 1
 3 4
 2
-0 38 25 4
 0 37 2 0
+0 38 25 4
 1
 end_operator
 begin_operator
@@ -241585,8 +241585,8 @@ succumb jealousy learning chocolate vulcan pluto
 1
 3 4
 2
-0 38 25 4
 0 37 3 2
+0 38 25 4
 1
 end_operator
 begin_operator
@@ -241594,8 +241594,8 @@ succumb jealousy learning cucumber neptune vulcan
 1
 3 5
 2
-0 38 25 5
 0 37 1 3
+0 38 25 5
 1
 end_operator
 begin_operator
@@ -241603,8 +241603,8 @@ succumb jealousy learning cucumber pluto jupiter
 1
 3 5
 2
-0 38 25 5
 0 37 2 0
+0 38 25 5
 1
 end_operator
 begin_operator
@@ -241612,8 +241612,8 @@ succumb jealousy learning cucumber vulcan pluto
 1
 3 5
 2
-0 38 25 5
 0 37 3 2
+0 38 25 5
 1
 end_operator
 begin_operator
@@ -241621,8 +241621,8 @@ succumb jealousy learning endive neptune vulcan
 1
 3 6
 2
-0 38 25 6
 0 37 1 3
+0 38 25 6
 1
 end_operator
 begin_operator
@@ -241630,8 +241630,8 @@ succumb jealousy learning endive pluto jupiter
 1
 3 6
 2
-0 38 25 6
 0 37 2 0
+0 38 25 6
 1
 end_operator
 begin_operator
@@ -241639,8 +241639,8 @@ succumb jealousy learning endive vulcan pluto
 1
 3 6
 2
-0 38 25 6
 0 37 3 2
+0 38 25 6
 1
 end_operator
 begin_operator
@@ -241648,8 +241648,8 @@ succumb jealousy learning guava neptune vulcan
 1
 3 7
 2
-0 38 25 7
 0 37 1 3
+0 38 25 7
 1
 end_operator
 begin_operator
@@ -241657,8 +241657,8 @@ succumb jealousy learning guava pluto jupiter
 1
 3 7
 2
-0 38 25 7
 0 37 2 0
+0 38 25 7
 1
 end_operator
 begin_operator
@@ -241666,8 +241666,8 @@ succumb jealousy learning guava vulcan pluto
 1
 3 7
 2
-0 38 25 7
 0 37 3 2
+0 38 25 7
 1
 end_operator
 begin_operator
@@ -241675,8 +241675,8 @@ succumb jealousy learning haroset neptune vulcan
 1
 3 8
 2
-0 38 25 8
 0 37 1 3
+0 38 25 8
 1
 end_operator
 begin_operator
@@ -241684,8 +241684,8 @@ succumb jealousy learning haroset pluto jupiter
 1
 3 8
 2
-0 38 25 8
 0 37 2 0
+0 38 25 8
 1
 end_operator
 begin_operator
@@ -241693,8 +241693,8 @@ succumb jealousy learning haroset vulcan pluto
 1
 3 8
 2
-0 38 25 8
 0 37 3 2
+0 38 25 8
 1
 end_operator
 begin_operator
@@ -241702,8 +241702,8 @@ succumb jealousy learning hotdog neptune vulcan
 1
 3 9
 2
-0 38 25 9
 0 37 1 3
+0 38 25 9
 1
 end_operator
 begin_operator
@@ -241711,8 +241711,8 @@ succumb jealousy learning hotdog pluto jupiter
 1
 3 9
 2
-0 38 25 9
 0 37 2 0
+0 38 25 9
 1
 end_operator
 begin_operator
@@ -241720,8 +241720,8 @@ succumb jealousy learning hotdog vulcan pluto
 1
 3 9
 2
-0 38 25 9
 0 37 3 2
+0 38 25 9
 1
 end_operator
 begin_operator
@@ -241729,8 +241729,8 @@ succumb jealousy learning lemon neptune vulcan
 1
 3 10
 2
-0 38 25 10
 0 37 1 3
+0 38 25 10
 1
 end_operator
 begin_operator
@@ -241738,8 +241738,8 @@ succumb jealousy learning lemon pluto jupiter
 1
 3 10
 2
-0 38 25 10
 0 37 2 0
+0 38 25 10
 1
 end_operator
 begin_operator
@@ -241747,8 +241747,8 @@ succumb jealousy learning lemon vulcan pluto
 1
 3 10
 2
-0 38 25 10
 0 37 3 2
+0 38 25 10
 1
 end_operator
 begin_operator
@@ -241756,8 +241756,8 @@ succumb jealousy learning marzipan neptune vulcan
 1
 3 11
 2
-0 38 25 11
 0 37 1 3
+0 38 25 11
 1
 end_operator
 begin_operator
@@ -241765,8 +241765,8 @@ succumb jealousy learning marzipan pluto jupiter
 1
 3 11
 2
-0 38 25 11
 0 37 2 0
+0 38 25 11
 1
 end_operator
 begin_operator
@@ -241774,8 +241774,8 @@ succumb jealousy learning marzipan vulcan pluto
 1
 3 11
 2
-0 38 25 11
 0 37 3 2
+0 38 25 11
 1
 end_operator
 begin_operator
@@ -241783,8 +241783,8 @@ succumb jealousy learning orange neptune vulcan
 1
 3 12
 2
-0 38 25 12
 0 37 1 3
+0 38 25 12
 1
 end_operator
 begin_operator
@@ -241792,8 +241792,8 @@ succumb jealousy learning orange pluto jupiter
 1
 3 12
 2
-0 38 25 12
 0 37 2 0
+0 38 25 12
 1
 end_operator
 begin_operator
@@ -241801,8 +241801,8 @@ succumb jealousy learning orange vulcan pluto
 1
 3 12
 2
-0 38 25 12
 0 37 3 2
+0 38 25 12
 1
 end_operator
 begin_operator
@@ -241810,8 +241810,8 @@ succumb jealousy learning pea neptune vulcan
 1
 3 13
 2
-0 38 25 13
 0 37 1 3
+0 38 25 13
 1
 end_operator
 begin_operator
@@ -241819,8 +241819,8 @@ succumb jealousy learning pea pluto jupiter
 1
 3 13
 2
-0 38 25 13
 0 37 2 0
+0 38 25 13
 1
 end_operator
 begin_operator
@@ -241828,8 +241828,8 @@ succumb jealousy learning pea vulcan pluto
 1
 3 13
 2
-0 38 25 13
 0 37 3 2
+0 38 25 13
 1
 end_operator
 begin_operator
@@ -241837,8 +241837,8 @@ succumb jealousy learning pepper neptune vulcan
 1
 3 14
 2
-0 38 25 14
 0 37 1 3
+0 38 25 14
 1
 end_operator
 begin_operator
@@ -241846,8 +241846,8 @@ succumb jealousy learning pepper pluto jupiter
 1
 3 14
 2
-0 38 25 14
 0 37 2 0
+0 38 25 14
 1
 end_operator
 begin_operator
@@ -241855,8 +241855,8 @@ succumb jealousy learning pepper vulcan pluto
 1
 3 14
 2
-0 38 25 14
 0 37 3 2
+0 38 25 14
 1
 end_operator
 begin_operator
@@ -241864,8 +241864,8 @@ succumb jealousy learning potato neptune vulcan
 1
 3 15
 2
-0 38 25 15
 0 37 1 3
+0 38 25 15
 1
 end_operator
 begin_operator
@@ -241873,8 +241873,8 @@ succumb jealousy learning potato pluto jupiter
 1
 3 15
 2
-0 38 25 15
 0 37 2 0
+0 38 25 15
 1
 end_operator
 begin_operator
@@ -241882,8 +241882,8 @@ succumb jealousy learning potato vulcan pluto
 1
 3 15
 2
-0 38 25 15
 0 37 3 2
+0 38 25 15
 1
 end_operator
 begin_operator
@@ -241891,8 +241891,8 @@ succumb jealousy learning rice neptune vulcan
 1
 3 16
 2
-0 38 25 16
 0 37 1 3
+0 38 25 16
 1
 end_operator
 begin_operator
@@ -241900,8 +241900,8 @@ succumb jealousy learning rice pluto jupiter
 1
 3 16
 2
-0 38 25 16
 0 37 2 0
+0 38 25 16
 1
 end_operator
 begin_operator
@@ -241909,8 +241909,8 @@ succumb jealousy learning rice vulcan pluto
 1
 3 16
 2
-0 38 25 16
 0 37 3 2
+0 38 25 16
 1
 end_operator
 begin_operator
@@ -241918,8 +241918,8 @@ succumb jealousy learning scallop neptune vulcan
 1
 3 17
 2
-0 38 25 17
 0 37 1 3
+0 38 25 17
 1
 end_operator
 begin_operator
@@ -241927,8 +241927,8 @@ succumb jealousy learning scallop pluto jupiter
 1
 3 17
 2
-0 38 25 17
 0 37 2 0
+0 38 25 17
 1
 end_operator
 begin_operator
@@ -241936,8 +241936,8 @@ succumb jealousy learning scallop vulcan pluto
 1
 3 17
 2
-0 38 25 17
 0 37 3 2
+0 38 25 17
 1
 end_operator
 begin_operator
@@ -241945,8 +241945,8 @@ succumb jealousy learning tofu neptune vulcan
 1
 3 18
 2
-0 38 25 18
 0 37 1 3
+0 38 25 18
 1
 end_operator
 begin_operator
@@ -241954,8 +241954,8 @@ succumb jealousy learning tofu pluto jupiter
 1
 3 18
 2
-0 38 25 18
 0 37 2 0
+0 38 25 18
 1
 end_operator
 begin_operator
@@ -241963,8 +241963,8 @@ succumb jealousy learning tofu vulcan pluto
 1
 3 18
 2
-0 38 25 18
 0 37 3 2
+0 38 25 18
 1
 end_operator
 begin_operator
@@ -241972,8 +241972,8 @@ succumb jealousy learning turkey neptune vulcan
 1
 3 19
 2
-0 38 25 19
 0 37 1 3
+0 38 25 19
 1
 end_operator
 begin_operator
@@ -241981,8 +241981,8 @@ succumb jealousy learning turkey pluto jupiter
 1
 3 19
 2
-0 38 25 19
 0 37 2 0
+0 38 25 19
 1
 end_operator
 begin_operator
@@ -241990,8 +241990,8 @@ succumb jealousy learning turkey vulcan pluto
 1
 3 19
 2
-0 38 25 19
 0 37 3 2
+0 38 25 19
 1
 end_operator
 begin_operator
@@ -241999,8 +241999,8 @@ succumb jealousy learning wonderbread neptune vulcan
 1
 3 20
 2
-0 38 25 20
 0 37 1 3
+0 38 25 20
 1
 end_operator
 begin_operator
@@ -242008,8 +242008,8 @@ succumb jealousy learning wonderbread pluto jupiter
 1
 3 20
 2
-0 38 25 20
 0 37 2 0
+0 38 25 20
 1
 end_operator
 begin_operator
@@ -242017,8 +242017,8 @@ succumb jealousy learning wonderbread vulcan pluto
 1
 3 20
 2
-0 38 25 20
 0 37 3 2
+0 38 25 20
 1
 end_operator
 begin_operator
@@ -242026,8 +242026,8 @@ succumb jealousy learning wurst neptune vulcan
 1
 3 21
 2
-0 38 25 21
 0 37 1 3
+0 38 25 21
 1
 end_operator
 begin_operator
@@ -242035,8 +242035,8 @@ succumb jealousy learning wurst pluto jupiter
 1
 3 21
 2
-0 38 25 21
 0 37 2 0
+0 38 25 21
 1
 end_operator
 begin_operator
@@ -242044,8 +242044,8 @@ succumb jealousy learning wurst vulcan pluto
 1
 3 21
 2
-0 38 25 21
 0 37 3 2
+0 38 25 21
 1
 end_operator
 begin_operator
@@ -243835,8 +243835,8 @@ succumb prostatitis curiosity bacon neptune vulcan
 1
 0 0
 2
-0 39 22 0
 0 32 1 3
+0 39 22 0
 1
 end_operator
 begin_operator
@@ -243844,8 +243844,8 @@ succumb prostatitis curiosity bacon pluto jupiter
 1
 0 0
 2
-0 39 22 0
 0 32 2 0
+0 39 22 0
 1
 end_operator
 begin_operator
@@ -243853,8 +243853,8 @@ succumb prostatitis curiosity bacon vulcan pluto
 1
 0 0
 2
-0 39 22 0
 0 32 3 2
+0 39 22 0
 1
 end_operator
 begin_operator
@@ -243862,8 +243862,8 @@ succumb prostatitis curiosity broccoli neptune vulcan
 1
 0 1
 2
-0 39 22 1
 0 32 1 3
+0 39 22 1
 1
 end_operator
 begin_operator
@@ -243871,8 +243871,8 @@ succumb prostatitis curiosity broccoli pluto jupiter
 1
 0 1
 2
-0 39 22 1
 0 32 2 0
+0 39 22 1
 1
 end_operator
 begin_operator
@@ -243880,8 +243880,8 @@ succumb prostatitis curiosity broccoli vulcan pluto
 1
 0 1
 2
-0 39 22 1
 0 32 3 2
+0 39 22 1
 1
 end_operator
 begin_operator
@@ -243889,8 +243889,8 @@ succumb prostatitis curiosity cantelope neptune vulcan
 1
 0 2
 2
-0 39 22 2
 0 32 1 3
+0 39 22 2
 1
 end_operator
 begin_operator
@@ -243898,8 +243898,8 @@ succumb prostatitis curiosity cantelope pluto jupiter
 1
 0 2
 2
-0 39 22 2
 0 32 2 0
+0 39 22 2
 1
 end_operator
 begin_operator
@@ -243907,8 +243907,8 @@ succumb prostatitis curiosity cantelope vulcan pluto
 1
 0 2
 2
-0 39 22 2
 0 32 3 2
+0 39 22 2
 1
 end_operator
 begin_operator
@@ -243916,8 +243916,8 @@ succumb prostatitis curiosity chicken neptune vulcan
 1
 0 3
 2
-0 39 22 3
 0 32 1 3
+0 39 22 3
 1
 end_operator
 begin_operator
@@ -243925,8 +243925,8 @@ succumb prostatitis curiosity chicken pluto jupiter
 1
 0 3
 2
-0 39 22 3
 0 32 2 0
+0 39 22 3
 1
 end_operator
 begin_operator
@@ -243934,8 +243934,8 @@ succumb prostatitis curiosity chicken vulcan pluto
 1
 0 3
 2
-0 39 22 3
 0 32 3 2
+0 39 22 3
 1
 end_operator
 begin_operator
@@ -243943,8 +243943,8 @@ succumb prostatitis curiosity chocolate neptune vulcan
 1
 0 4
 2
-0 39 22 4
 0 32 1 3
+0 39 22 4
 1
 end_operator
 begin_operator
@@ -243952,8 +243952,8 @@ succumb prostatitis curiosity chocolate pluto jupiter
 1
 0 4
 2
-0 39 22 4
 0 32 2 0
+0 39 22 4
 1
 end_operator
 begin_operator
@@ -243961,8 +243961,8 @@ succumb prostatitis curiosity chocolate vulcan pluto
 1
 0 4
 2
-0 39 22 4
 0 32 3 2
+0 39 22 4
 1
 end_operator
 begin_operator
@@ -243970,8 +243970,8 @@ succumb prostatitis curiosity cucumber neptune vulcan
 1
 0 5
 2
-0 39 22 5
 0 32 1 3
+0 39 22 5
 1
 end_operator
 begin_operator
@@ -243979,8 +243979,8 @@ succumb prostatitis curiosity cucumber pluto jupiter
 1
 0 5
 2
-0 39 22 5
 0 32 2 0
+0 39 22 5
 1
 end_operator
 begin_operator
@@ -243988,8 +243988,8 @@ succumb prostatitis curiosity cucumber vulcan pluto
 1
 0 5
 2
-0 39 22 5
 0 32 3 2
+0 39 22 5
 1
 end_operator
 begin_operator
@@ -243997,8 +243997,8 @@ succumb prostatitis curiosity endive neptune vulcan
 1
 0 6
 2
-0 39 22 6
 0 32 1 3
+0 39 22 6
 1
 end_operator
 begin_operator
@@ -244006,8 +244006,8 @@ succumb prostatitis curiosity endive pluto jupiter
 1
 0 6
 2
-0 39 22 6
 0 32 2 0
+0 39 22 6
 1
 end_operator
 begin_operator
@@ -244015,8 +244015,8 @@ succumb prostatitis curiosity endive vulcan pluto
 1
 0 6
 2
-0 39 22 6
 0 32 3 2
+0 39 22 6
 1
 end_operator
 begin_operator
@@ -244024,8 +244024,8 @@ succumb prostatitis curiosity guava neptune vulcan
 1
 0 7
 2
-0 39 22 7
 0 32 1 3
+0 39 22 7
 1
 end_operator
 begin_operator
@@ -244033,8 +244033,8 @@ succumb prostatitis curiosity guava pluto jupiter
 1
 0 7
 2
-0 39 22 7
 0 32 2 0
+0 39 22 7
 1
 end_operator
 begin_operator
@@ -244042,8 +244042,8 @@ succumb prostatitis curiosity guava vulcan pluto
 1
 0 7
 2
-0 39 22 7
 0 32 3 2
+0 39 22 7
 1
 end_operator
 begin_operator
@@ -244051,8 +244051,8 @@ succumb prostatitis curiosity haroset neptune vulcan
 1
 0 8
 2
-0 39 22 8
 0 32 1 3
+0 39 22 8
 1
 end_operator
 begin_operator
@@ -244060,8 +244060,8 @@ succumb prostatitis curiosity haroset pluto jupiter
 1
 0 8
 2
-0 39 22 8
 0 32 2 0
+0 39 22 8
 1
 end_operator
 begin_operator
@@ -244069,8 +244069,8 @@ succumb prostatitis curiosity haroset vulcan pluto
 1
 0 8
 2
-0 39 22 8
 0 32 3 2
+0 39 22 8
 1
 end_operator
 begin_operator
@@ -244078,8 +244078,8 @@ succumb prostatitis curiosity hotdog neptune vulcan
 1
 0 9
 2
-0 39 22 9
 0 32 1 3
+0 39 22 9
 1
 end_operator
 begin_operator
@@ -244087,8 +244087,8 @@ succumb prostatitis curiosity hotdog pluto jupiter
 1
 0 9
 2
-0 39 22 9
 0 32 2 0
+0 39 22 9
 1
 end_operator
 begin_operator
@@ -244096,8 +244096,8 @@ succumb prostatitis curiosity hotdog vulcan pluto
 1
 0 9
 2
-0 39 22 9
 0 32 3 2
+0 39 22 9
 1
 end_operator
 begin_operator
@@ -244105,8 +244105,8 @@ succumb prostatitis curiosity lemon neptune vulcan
 1
 0 10
 2
-0 39 22 10
 0 32 1 3
+0 39 22 10
 1
 end_operator
 begin_operator
@@ -244114,8 +244114,8 @@ succumb prostatitis curiosity lemon pluto jupiter
 1
 0 10
 2
-0 39 22 10
 0 32 2 0
+0 39 22 10
 1
 end_operator
 begin_operator
@@ -244123,8 +244123,8 @@ succumb prostatitis curiosity lemon vulcan pluto
 1
 0 10
 2
-0 39 22 10
 0 32 3 2
+0 39 22 10
 1
 end_operator
 begin_operator
@@ -244132,8 +244132,8 @@ succumb prostatitis curiosity marzipan neptune vulcan
 1
 0 11
 2
-0 39 22 11
 0 32 1 3
+0 39 22 11
 1
 end_operator
 begin_operator
@@ -244141,8 +244141,8 @@ succumb prostatitis curiosity marzipan pluto jupiter
 1
 0 11
 2
-0 39 22 11
 0 32 2 0
+0 39 22 11
 1
 end_operator
 begin_operator
@@ -244150,8 +244150,8 @@ succumb prostatitis curiosity marzipan vulcan pluto
 1
 0 11
 2
-0 39 22 11
 0 32 3 2
+0 39 22 11
 1
 end_operator
 begin_operator
@@ -244159,8 +244159,8 @@ succumb prostatitis curiosity orange neptune vulcan
 1
 0 12
 2
-0 39 22 12
 0 32 1 3
+0 39 22 12
 1
 end_operator
 begin_operator
@@ -244168,8 +244168,8 @@ succumb prostatitis curiosity orange pluto jupiter
 1
 0 12
 2
-0 39 22 12
 0 32 2 0
+0 39 22 12
 1
 end_operator
 begin_operator
@@ -244177,8 +244177,8 @@ succumb prostatitis curiosity orange vulcan pluto
 1
 0 12
 2
-0 39 22 12
 0 32 3 2
+0 39 22 12
 1
 end_operator
 begin_operator
@@ -244186,8 +244186,8 @@ succumb prostatitis curiosity pea neptune vulcan
 1
 0 13
 2
-0 39 22 13
 0 32 1 3
+0 39 22 13
 1
 end_operator
 begin_operator
@@ -244195,8 +244195,8 @@ succumb prostatitis curiosity pea pluto jupiter
 1
 0 13
 2
-0 39 22 13
 0 32 2 0
+0 39 22 13
 1
 end_operator
 begin_operator
@@ -244204,8 +244204,8 @@ succumb prostatitis curiosity pea vulcan pluto
 1
 0 13
 2
-0 39 22 13
 0 32 3 2
+0 39 22 13
 1
 end_operator
 begin_operator
@@ -244213,8 +244213,8 @@ succumb prostatitis curiosity pepper neptune vulcan
 1
 0 14
 2
-0 39 22 14
 0 32 1 3
+0 39 22 14
 1
 end_operator
 begin_operator
@@ -244222,8 +244222,8 @@ succumb prostatitis curiosity pepper pluto jupiter
 1
 0 14
 2
-0 39 22 14
 0 32 2 0
+0 39 22 14
 1
 end_operator
 begin_operator
@@ -244231,8 +244231,8 @@ succumb prostatitis curiosity pepper vulcan pluto
 1
 0 14
 2
-0 39 22 14
 0 32 3 2
+0 39 22 14
 1
 end_operator
 begin_operator
@@ -244240,8 +244240,8 @@ succumb prostatitis curiosity potato neptune vulcan
 1
 0 15
 2
-0 39 22 15
 0 32 1 3
+0 39 22 15
 1
 end_operator
 begin_operator
@@ -244249,8 +244249,8 @@ succumb prostatitis curiosity potato pluto jupiter
 1
 0 15
 2
-0 39 22 15
 0 32 2 0
+0 39 22 15
 1
 end_operator
 begin_operator
@@ -244258,8 +244258,8 @@ succumb prostatitis curiosity potato vulcan pluto
 1
 0 15
 2
-0 39 22 15
 0 32 3 2
+0 39 22 15
 1
 end_operator
 begin_operator
@@ -244267,8 +244267,8 @@ succumb prostatitis curiosity rice neptune vulcan
 1
 0 16
 2
-0 39 22 16
 0 32 1 3
+0 39 22 16
 1
 end_operator
 begin_operator
@@ -244276,8 +244276,8 @@ succumb prostatitis curiosity rice pluto jupiter
 1
 0 16
 2
-0 39 22 16
 0 32 2 0
+0 39 22 16
 1
 end_operator
 begin_operator
@@ -244285,8 +244285,8 @@ succumb prostatitis curiosity rice vulcan pluto
 1
 0 16
 2
-0 39 22 16
 0 32 3 2
+0 39 22 16
 1
 end_operator
 begin_operator
@@ -244294,8 +244294,8 @@ succumb prostatitis curiosity scallop neptune vulcan
 1
 0 17
 2
-0 39 22 17
 0 32 1 3
+0 39 22 17
 1
 end_operator
 begin_operator
@@ -244303,8 +244303,8 @@ succumb prostatitis curiosity scallop pluto jupiter
 1
 0 17
 2
-0 39 22 17
 0 32 2 0
+0 39 22 17
 1
 end_operator
 begin_operator
@@ -244312,8 +244312,8 @@ succumb prostatitis curiosity scallop vulcan pluto
 1
 0 17
 2
-0 39 22 17
 0 32 3 2
+0 39 22 17
 1
 end_operator
 begin_operator
@@ -244321,8 +244321,8 @@ succumb prostatitis curiosity tofu neptune vulcan
 1
 0 18
 2
-0 39 22 18
 0 32 1 3
+0 39 22 18
 1
 end_operator
 begin_operator
@@ -244330,8 +244330,8 @@ succumb prostatitis curiosity tofu pluto jupiter
 1
 0 18
 2
-0 39 22 18
 0 32 2 0
+0 39 22 18
 1
 end_operator
 begin_operator
@@ -244339,8 +244339,8 @@ succumb prostatitis curiosity tofu vulcan pluto
 1
 0 18
 2
-0 39 22 18
 0 32 3 2
+0 39 22 18
 1
 end_operator
 begin_operator
@@ -244348,8 +244348,8 @@ succumb prostatitis curiosity turkey neptune vulcan
 1
 0 19
 2
-0 39 22 19
 0 32 1 3
+0 39 22 19
 1
 end_operator
 begin_operator
@@ -244357,8 +244357,8 @@ succumb prostatitis curiosity turkey pluto jupiter
 1
 0 19
 2
-0 39 22 19
 0 32 2 0
+0 39 22 19
 1
 end_operator
 begin_operator
@@ -244366,8 +244366,8 @@ succumb prostatitis curiosity turkey vulcan pluto
 1
 0 19
 2
-0 39 22 19
 0 32 3 2
+0 39 22 19
 1
 end_operator
 begin_operator
@@ -244375,8 +244375,8 @@ succumb prostatitis curiosity wonderbread neptune vulcan
 1
 0 20
 2
-0 39 22 20
 0 32 1 3
+0 39 22 20
 1
 end_operator
 begin_operator
@@ -244384,8 +244384,8 @@ succumb prostatitis curiosity wonderbread pluto jupiter
 1
 0 20
 2
-0 39 22 20
 0 32 2 0
+0 39 22 20
 1
 end_operator
 begin_operator
@@ -244393,8 +244393,8 @@ succumb prostatitis curiosity wonderbread vulcan pluto
 1
 0 20
 2
-0 39 22 20
 0 32 3 2
+0 39 22 20
 1
 end_operator
 begin_operator
@@ -244402,8 +244402,8 @@ succumb prostatitis curiosity wurst neptune vulcan
 1
 0 21
 2
-0 39 22 21
 0 32 1 3
+0 39 22 21
 1
 end_operator
 begin_operator
@@ -244411,8 +244411,8 @@ succumb prostatitis curiosity wurst pluto jupiter
 1
 0 21
 2
-0 39 22 21
 0 32 2 0
+0 39 22 21
 1
 end_operator
 begin_operator
@@ -244420,8 +244420,8 @@ succumb prostatitis curiosity wurst vulcan pluto
 1
 0 21
 2
-0 39 22 21
 0 32 3 2
+0 39 22 21
 1
 end_operator
 begin_operator
@@ -244429,8 +244429,8 @@ succumb prostatitis entertainment bacon neptune vulcan
 1
 1 0
 2
-0 39 23 0
 0 33 1 3
+0 39 23 0
 1
 end_operator
 begin_operator
@@ -244438,8 +244438,8 @@ succumb prostatitis entertainment bacon pluto jupiter
 1
 1 0
 2
-0 39 23 0
 0 33 2 0
+0 39 23 0
 1
 end_operator
 begin_operator
@@ -244447,8 +244447,8 @@ succumb prostatitis entertainment bacon vulcan pluto
 1
 1 0
 2
-0 39 23 0
 0 33 3 2
+0 39 23 0
 1
 end_operator
 begin_operator
@@ -244456,8 +244456,8 @@ succumb prostatitis entertainment broccoli neptune vulcan
 1
 1 1
 2
-0 39 23 1
 0 33 1 3
+0 39 23 1
 1
 end_operator
 begin_operator
@@ -244465,8 +244465,8 @@ succumb prostatitis entertainment broccoli pluto jupiter
 1
 1 1
 2
-0 39 23 1
 0 33 2 0
+0 39 23 1
 1
 end_operator
 begin_operator
@@ -244474,8 +244474,8 @@ succumb prostatitis entertainment broccoli vulcan pluto
 1
 1 1
 2
-0 39 23 1
 0 33 3 2
+0 39 23 1
 1
 end_operator
 begin_operator
@@ -244483,8 +244483,8 @@ succumb prostatitis entertainment cantelope neptune vulcan
 1
 1 2
 2
-0 39 23 2
 0 33 1 3
+0 39 23 2
 1
 end_operator
 begin_operator
@@ -244492,8 +244492,8 @@ succumb prostatitis entertainment cantelope pluto jupiter
 1
 1 2
 2
-0 39 23 2
 0 33 2 0
+0 39 23 2
 1
 end_operator
 begin_operator
@@ -244501,8 +244501,8 @@ succumb prostatitis entertainment cantelope vulcan pluto
 1
 1 2
 2
-0 39 23 2
 0 33 3 2
+0 39 23 2
 1
 end_operator
 begin_operator
@@ -244510,8 +244510,8 @@ succumb prostatitis entertainment chicken neptune vulcan
 1
 1 3
 2
-0 39 23 3
 0 33 1 3
+0 39 23 3
 1
 end_operator
 begin_operator
@@ -244519,8 +244519,8 @@ succumb prostatitis entertainment chicken pluto jupiter
 1
 1 3
 2
-0 39 23 3
 0 33 2 0
+0 39 23 3
 1
 end_operator
 begin_operator
@@ -244528,8 +244528,8 @@ succumb prostatitis entertainment chicken vulcan pluto
 1
 1 3
 2
-0 39 23 3
 0 33 3 2
+0 39 23 3
 1
 end_operator
 begin_operator
@@ -244537,8 +244537,8 @@ succumb prostatitis entertainment chocolate neptune vulcan
 1
 1 4
 2
-0 39 23 4
 0 33 1 3
+0 39 23 4
 1
 end_operator
 begin_operator
@@ -244546,8 +244546,8 @@ succumb prostatitis entertainment chocolate pluto jupiter
 1
 1 4
 2
-0 39 23 4
 0 33 2 0
+0 39 23 4
 1
 end_operator
 begin_operator
@@ -244555,8 +244555,8 @@ succumb prostatitis entertainment chocolate vulcan pluto
 1
 1 4
 2
-0 39 23 4
 0 33 3 2
+0 39 23 4
 1
 end_operator
 begin_operator
@@ -244564,8 +244564,8 @@ succumb prostatitis entertainment cucumber neptune vulcan
 1
 1 5
 2
-0 39 23 5
 0 33 1 3
+0 39 23 5
 1
 end_operator
 begin_operator
@@ -244573,8 +244573,8 @@ succumb prostatitis entertainment cucumber pluto jupiter
 1
 1 5
 2
-0 39 23 5
 0 33 2 0
+0 39 23 5
 1
 end_operator
 begin_operator
@@ -244582,8 +244582,8 @@ succumb prostatitis entertainment cucumber vulcan pluto
 1
 1 5
 2
-0 39 23 5
 0 33 3 2
+0 39 23 5
 1
 end_operator
 begin_operator
@@ -244591,8 +244591,8 @@ succumb prostatitis entertainment endive neptune vulcan
 1
 1 6
 2
-0 39 23 6
 0 33 1 3
+0 39 23 6
 1
 end_operator
 begin_operator
@@ -244600,8 +244600,8 @@ succumb prostatitis entertainment endive pluto jupiter
 1
 1 6
 2
-0 39 23 6
 0 33 2 0
+0 39 23 6
 1
 end_operator
 begin_operator
@@ -244609,8 +244609,8 @@ succumb prostatitis entertainment endive vulcan pluto
 1
 1 6
 2
-0 39 23 6
 0 33 3 2
+0 39 23 6
 1
 end_operator
 begin_operator
@@ -244618,8 +244618,8 @@ succumb prostatitis entertainment guava neptune vulcan
 1
 1 7
 2
-0 39 23 7
 0 33 1 3
+0 39 23 7
 1
 end_operator
 begin_operator
@@ -244627,8 +244627,8 @@ succumb prostatitis entertainment guava pluto jupiter
 1
 1 7
 2
-0 39 23 7
 0 33 2 0
+0 39 23 7
 1
 end_operator
 begin_operator
@@ -244636,8 +244636,8 @@ succumb prostatitis entertainment guava vulcan pluto
 1
 1 7
 2
-0 39 23 7
 0 33 3 2
+0 39 23 7
 1
 end_operator
 begin_operator
@@ -244645,8 +244645,8 @@ succumb prostatitis entertainment haroset neptune vulcan
 1
 1 8
 2
-0 39 23 8
 0 33 1 3
+0 39 23 8
 1
 end_operator
 begin_operator
@@ -244654,8 +244654,8 @@ succumb prostatitis entertainment haroset pluto jupiter
 1
 1 8
 2
-0 39 23 8
 0 33 2 0
+0 39 23 8
 1
 end_operator
 begin_operator
@@ -244663,8 +244663,8 @@ succumb prostatitis entertainment haroset vulcan pluto
 1
 1 8
 2
-0 39 23 8
 0 33 3 2
+0 39 23 8
 1
 end_operator
 begin_operator
@@ -244672,8 +244672,8 @@ succumb prostatitis entertainment hotdog neptune vulcan
 1
 1 9
 2
-0 39 23 9
 0 33 1 3
+0 39 23 9
 1
 end_operator
 begin_operator
@@ -244681,8 +244681,8 @@ succumb prostatitis entertainment hotdog pluto jupiter
 1
 1 9
 2
-0 39 23 9
 0 33 2 0
+0 39 23 9
 1
 end_operator
 begin_operator
@@ -244690,8 +244690,8 @@ succumb prostatitis entertainment hotdog vulcan pluto
 1
 1 9
 2
-0 39 23 9
 0 33 3 2
+0 39 23 9
 1
 end_operator
 begin_operator
@@ -244699,8 +244699,8 @@ succumb prostatitis entertainment lemon neptune vulcan
 1
 1 10
 2
-0 39 23 10
 0 33 1 3
+0 39 23 10
 1
 end_operator
 begin_operator
@@ -244708,8 +244708,8 @@ succumb prostatitis entertainment lemon pluto jupiter
 1
 1 10
 2
-0 39 23 10
 0 33 2 0
+0 39 23 10
 1
 end_operator
 begin_operator
@@ -244717,8 +244717,8 @@ succumb prostatitis entertainment lemon vulcan pluto
 1
 1 10
 2
-0 39 23 10
 0 33 3 2
+0 39 23 10
 1
 end_operator
 begin_operator
@@ -244726,8 +244726,8 @@ succumb prostatitis entertainment marzipan neptune vulcan
 1
 1 11
 2
-0 39 23 11
 0 33 1 3
+0 39 23 11
 1
 end_operator
 begin_operator
@@ -244735,8 +244735,8 @@ succumb prostatitis entertainment marzipan pluto jupiter
 1
 1 11
 2
-0 39 23 11
 0 33 2 0
+0 39 23 11
 1
 end_operator
 begin_operator
@@ -244744,8 +244744,8 @@ succumb prostatitis entertainment marzipan vulcan pluto
 1
 1 11
 2
-0 39 23 11
 0 33 3 2
+0 39 23 11
 1
 end_operator
 begin_operator
@@ -244753,8 +244753,8 @@ succumb prostatitis entertainment orange neptune vulcan
 1
 1 12
 2
-0 39 23 12
 0 33 1 3
+0 39 23 12
 1
 end_operator
 begin_operator
@@ -244762,8 +244762,8 @@ succumb prostatitis entertainment orange pluto jupiter
 1
 1 12
 2
-0 39 23 12
 0 33 2 0
+0 39 23 12
 1
 end_operator
 begin_operator
@@ -244771,8 +244771,8 @@ succumb prostatitis entertainment orange vulcan pluto
 1
 1 12
 2
-0 39 23 12
 0 33 3 2
+0 39 23 12
 1
 end_operator
 begin_operator
@@ -244780,8 +244780,8 @@ succumb prostatitis entertainment pea neptune vulcan
 1
 1 13
 2
-0 39 23 13
 0 33 1 3
+0 39 23 13
 1
 end_operator
 begin_operator
@@ -244789,8 +244789,8 @@ succumb prostatitis entertainment pea pluto jupiter
 1
 1 13
 2
-0 39 23 13
 0 33 2 0
+0 39 23 13
 1
 end_operator
 begin_operator
@@ -244798,8 +244798,8 @@ succumb prostatitis entertainment pea vulcan pluto
 1
 1 13
 2
-0 39 23 13
 0 33 3 2
+0 39 23 13
 1
 end_operator
 begin_operator
@@ -244807,8 +244807,8 @@ succumb prostatitis entertainment pepper neptune vulcan
 1
 1 14
 2
-0 39 23 14
 0 33 1 3
+0 39 23 14
 1
 end_operator
 begin_operator
@@ -244816,8 +244816,8 @@ succumb prostatitis entertainment pepper pluto jupiter
 1
 1 14
 2
-0 39 23 14
 0 33 2 0
+0 39 23 14
 1
 end_operator
 begin_operator
@@ -244825,8 +244825,8 @@ succumb prostatitis entertainment pepper vulcan pluto
 1
 1 14
 2
-0 39 23 14
 0 33 3 2
+0 39 23 14
 1
 end_operator
 begin_operator
@@ -244834,8 +244834,8 @@ succumb prostatitis entertainment potato neptune vulcan
 1
 1 15
 2
-0 39 23 15
 0 33 1 3
+0 39 23 15
 1
 end_operator
 begin_operator
@@ -244843,8 +244843,8 @@ succumb prostatitis entertainment potato pluto jupiter
 1
 1 15
 2
-0 39 23 15
 0 33 2 0
+0 39 23 15
 1
 end_operator
 begin_operator
@@ -244852,8 +244852,8 @@ succumb prostatitis entertainment potato vulcan pluto
 1
 1 15
 2
-0 39 23 15
 0 33 3 2
+0 39 23 15
 1
 end_operator
 begin_operator
@@ -244861,8 +244861,8 @@ succumb prostatitis entertainment rice neptune vulcan
 1
 1 16
 2
-0 39 23 16
 0 33 1 3
+0 39 23 16
 1
 end_operator
 begin_operator
@@ -244870,8 +244870,8 @@ succumb prostatitis entertainment rice pluto jupiter
 1
 1 16
 2
-0 39 23 16
 0 33 2 0
+0 39 23 16
 1
 end_operator
 begin_operator
@@ -244879,8 +244879,8 @@ succumb prostatitis entertainment rice vulcan pluto
 1
 1 16
 2
-0 39 23 16
 0 33 3 2
+0 39 23 16
 1
 end_operator
 begin_operator
@@ -244888,8 +244888,8 @@ succumb prostatitis entertainment scallop neptune vulcan
 1
 1 17
 2
-0 39 23 17
 0 33 1 3
+0 39 23 17
 1
 end_operator
 begin_operator
@@ -244897,8 +244897,8 @@ succumb prostatitis entertainment scallop pluto jupiter
 1
 1 17
 2
-0 39 23 17
 0 33 2 0
+0 39 23 17
 1
 end_operator
 begin_operator
@@ -244906,8 +244906,8 @@ succumb prostatitis entertainment scallop vulcan pluto
 1
 1 17
 2
-0 39 23 17
 0 33 3 2
+0 39 23 17
 1
 end_operator
 begin_operator
@@ -244915,8 +244915,8 @@ succumb prostatitis entertainment tofu neptune vulcan
 1
 1 18
 2
-0 39 23 18
 0 33 1 3
+0 39 23 18
 1
 end_operator
 begin_operator
@@ -244924,8 +244924,8 @@ succumb prostatitis entertainment tofu pluto jupiter
 1
 1 18
 2
-0 39 23 18
 0 33 2 0
+0 39 23 18
 1
 end_operator
 begin_operator
@@ -244933,8 +244933,8 @@ succumb prostatitis entertainment tofu vulcan pluto
 1
 1 18
 2
-0 39 23 18
 0 33 3 2
+0 39 23 18
 1
 end_operator
 begin_operator
@@ -244942,8 +244942,8 @@ succumb prostatitis entertainment turkey neptune vulcan
 1
 1 19
 2
-0 39 23 19
 0 33 1 3
+0 39 23 19
 1
 end_operator
 begin_operator
@@ -244951,8 +244951,8 @@ succumb prostatitis entertainment turkey pluto jupiter
 1
 1 19
 2
-0 39 23 19
 0 33 2 0
+0 39 23 19
 1
 end_operator
 begin_operator
@@ -244960,8 +244960,8 @@ succumb prostatitis entertainment turkey vulcan pluto
 1
 1 19
 2
-0 39 23 19
 0 33 3 2
+0 39 23 19
 1
 end_operator
 begin_operator
@@ -244969,8 +244969,8 @@ succumb prostatitis entertainment wonderbread neptune vulcan
 1
 1 20
 2
-0 39 23 20
 0 33 1 3
+0 39 23 20
 1
 end_operator
 begin_operator
@@ -244978,8 +244978,8 @@ succumb prostatitis entertainment wonderbread pluto jupiter
 1
 1 20
 2
-0 39 23 20
 0 33 2 0
+0 39 23 20
 1
 end_operator
 begin_operator
@@ -244987,8 +244987,8 @@ succumb prostatitis entertainment wonderbread vulcan pluto
 1
 1 20
 2
-0 39 23 20
 0 33 3 2
+0 39 23 20
 1
 end_operator
 begin_operator
@@ -244996,8 +244996,8 @@ succumb prostatitis entertainment wurst neptune vulcan
 1
 1 21
 2
-0 39 23 21
 0 33 1 3
+0 39 23 21
 1
 end_operator
 begin_operator
@@ -245005,8 +245005,8 @@ succumb prostatitis entertainment wurst pluto jupiter
 1
 1 21
 2
-0 39 23 21
 0 33 2 0
+0 39 23 21
 1
 end_operator
 begin_operator
@@ -245014,8 +245014,8 @@ succumb prostatitis entertainment wurst vulcan pluto
 1
 1 21
 2
-0 39 23 21
 0 33 3 2
+0 39 23 21
 1
 end_operator
 begin_operator
@@ -245023,8 +245023,8 @@ succumb prostatitis expectation bacon neptune vulcan
 1
 2 0
 2
-0 39 24 0
 0 36 1 3
+0 39 24 0
 1
 end_operator
 begin_operator
@@ -245032,8 +245032,8 @@ succumb prostatitis expectation bacon pluto jupiter
 1
 2 0
 2
-0 39 24 0
 0 36 2 0
+0 39 24 0
 1
 end_operator
 begin_operator
@@ -245041,8 +245041,8 @@ succumb prostatitis expectation bacon vulcan pluto
 1
 2 0
 2
-0 39 24 0
 0 36 3 2
+0 39 24 0
 1
 end_operator
 begin_operator
@@ -245050,8 +245050,8 @@ succumb prostatitis expectation broccoli neptune vulcan
 1
 2 1
 2
-0 39 24 1
 0 36 1 3
+0 39 24 1
 1
 end_operator
 begin_operator
@@ -245059,8 +245059,8 @@ succumb prostatitis expectation broccoli pluto jupiter
 1
 2 1
 2
-0 39 24 1
 0 36 2 0
+0 39 24 1
 1
 end_operator
 begin_operator
@@ -245068,8 +245068,8 @@ succumb prostatitis expectation broccoli vulcan pluto
 1
 2 1
 2
-0 39 24 1
 0 36 3 2
+0 39 24 1
 1
 end_operator
 begin_operator
@@ -245077,8 +245077,8 @@ succumb prostatitis expectation cantelope neptune vulcan
 1
 2 2
 2
-0 39 24 2
 0 36 1 3
+0 39 24 2
 1
 end_operator
 begin_operator
@@ -245086,8 +245086,8 @@ succumb prostatitis expectation cantelope pluto jupiter
 1
 2 2
 2
-0 39 24 2
 0 36 2 0
+0 39 24 2
 1
 end_operator
 begin_operator
@@ -245095,8 +245095,8 @@ succumb prostatitis expectation cantelope vulcan pluto
 1
 2 2
 2
-0 39 24 2
 0 36 3 2
+0 39 24 2
 1
 end_operator
 begin_operator
@@ -245104,8 +245104,8 @@ succumb prostatitis expectation chicken neptune vulcan
 1
 2 3
 2
-0 39 24 3
 0 36 1 3
+0 39 24 3
 1
 end_operator
 begin_operator
@@ -245113,8 +245113,8 @@ succumb prostatitis expectation chicken pluto jupiter
 1
 2 3
 2
-0 39 24 3
 0 36 2 0
+0 39 24 3
 1
 end_operator
 begin_operator
@@ -245122,8 +245122,8 @@ succumb prostatitis expectation chicken vulcan pluto
 1
 2 3
 2
-0 39 24 3
 0 36 3 2
+0 39 24 3
 1
 end_operator
 begin_operator
@@ -245131,8 +245131,8 @@ succumb prostatitis expectation chocolate neptune vulcan
 1
 2 4
 2
-0 39 24 4
 0 36 1 3
+0 39 24 4
 1
 end_operator
 begin_operator
@@ -245140,8 +245140,8 @@ succumb prostatitis expectation chocolate pluto jupiter
 1
 2 4
 2
-0 39 24 4
 0 36 2 0
+0 39 24 4
 1
 end_operator
 begin_operator
@@ -245149,8 +245149,8 @@ succumb prostatitis expectation chocolate vulcan pluto
 1
 2 4
 2
-0 39 24 4
 0 36 3 2
+0 39 24 4
 1
 end_operator
 begin_operator
@@ -245158,8 +245158,8 @@ succumb prostatitis expectation cucumber neptune vulcan
 1
 2 5
 2
-0 39 24 5
 0 36 1 3
+0 39 24 5
 1
 end_operator
 begin_operator
@@ -245167,8 +245167,8 @@ succumb prostatitis expectation cucumber pluto jupiter
 1
 2 5
 2
-0 39 24 5
 0 36 2 0
+0 39 24 5
 1
 end_operator
 begin_operator
@@ -245176,8 +245176,8 @@ succumb prostatitis expectation cucumber vulcan pluto
 1
 2 5
 2
-0 39 24 5
 0 36 3 2
+0 39 24 5
 1
 end_operator
 begin_operator
@@ -245185,8 +245185,8 @@ succumb prostatitis expectation endive neptune vulcan
 1
 2 6
 2
-0 39 24 6
 0 36 1 3
+0 39 24 6
 1
 end_operator
 begin_operator
@@ -245194,8 +245194,8 @@ succumb prostatitis expectation endive pluto jupiter
 1
 2 6
 2
-0 39 24 6
 0 36 2 0
+0 39 24 6
 1
 end_operator
 begin_operator
@@ -245203,8 +245203,8 @@ succumb prostatitis expectation endive vulcan pluto
 1
 2 6
 2
-0 39 24 6
 0 36 3 2
+0 39 24 6
 1
 end_operator
 begin_operator
@@ -245212,8 +245212,8 @@ succumb prostatitis expectation guava neptune vulcan
 1
 2 7
 2
-0 39 24 7
 0 36 1 3
+0 39 24 7
 1
 end_operator
 begin_operator
@@ -245221,8 +245221,8 @@ succumb prostatitis expectation guava pluto jupiter
 1
 2 7
 2
-0 39 24 7
 0 36 2 0
+0 39 24 7
 1
 end_operator
 begin_operator
@@ -245230,8 +245230,8 @@ succumb prostatitis expectation guava vulcan pluto
 1
 2 7
 2
-0 39 24 7
 0 36 3 2
+0 39 24 7
 1
 end_operator
 begin_operator
@@ -245239,8 +245239,8 @@ succumb prostatitis expectation haroset neptune vulcan
 1
 2 8
 2
-0 39 24 8
 0 36 1 3
+0 39 24 8
 1
 end_operator
 begin_operator
@@ -245248,8 +245248,8 @@ succumb prostatitis expectation haroset pluto jupiter
 1
 2 8
 2
-0 39 24 8
 0 36 2 0
+0 39 24 8
 1
 end_operator
 begin_operator
@@ -245257,8 +245257,8 @@ succumb prostatitis expectation haroset vulcan pluto
 1
 2 8
 2
-0 39 24 8
 0 36 3 2
+0 39 24 8
 1
 end_operator
 begin_operator
@@ -245266,8 +245266,8 @@ succumb prostatitis expectation hotdog neptune vulcan
 1
 2 9
 2
-0 39 24 9
 0 36 1 3
+0 39 24 9
 1
 end_operator
 begin_operator
@@ -245275,8 +245275,8 @@ succumb prostatitis expectation hotdog pluto jupiter
 1
 2 9
 2
-0 39 24 9
 0 36 2 0
+0 39 24 9
 1
 end_operator
 begin_operator
@@ -245284,8 +245284,8 @@ succumb prostatitis expectation hotdog vulcan pluto
 1
 2 9
 2
-0 39 24 9
 0 36 3 2
+0 39 24 9
 1
 end_operator
 begin_operator
@@ -245293,8 +245293,8 @@ succumb prostatitis expectation lemon neptune vulcan
 1
 2 10
 2
-0 39 24 10
 0 36 1 3
+0 39 24 10
 1
 end_operator
 begin_operator
@@ -245302,8 +245302,8 @@ succumb prostatitis expectation lemon pluto jupiter
 1
 2 10
 2
-0 39 24 10
 0 36 2 0
+0 39 24 10
 1
 end_operator
 begin_operator
@@ -245311,8 +245311,8 @@ succumb prostatitis expectation lemon vulcan pluto
 1
 2 10
 2
-0 39 24 10
 0 36 3 2
+0 39 24 10
 1
 end_operator
 begin_operator
@@ -245320,8 +245320,8 @@ succumb prostatitis expectation marzipan neptune vulcan
 1
 2 11
 2
-0 39 24 11
 0 36 1 3
+0 39 24 11
 1
 end_operator
 begin_operator
@@ -245329,8 +245329,8 @@ succumb prostatitis expectation marzipan pluto jupiter
 1
 2 11
 2
-0 39 24 11
 0 36 2 0
+0 39 24 11
 1
 end_operator
 begin_operator
@@ -245338,8 +245338,8 @@ succumb prostatitis expectation marzipan vulcan pluto
 1
 2 11
 2
-0 39 24 11
 0 36 3 2
+0 39 24 11
 1
 end_operator
 begin_operator
@@ -245347,8 +245347,8 @@ succumb prostatitis expectation orange neptune vulcan
 1
 2 12
 2
-0 39 24 12
 0 36 1 3
+0 39 24 12
 1
 end_operator
 begin_operator
@@ -245356,8 +245356,8 @@ succumb prostatitis expectation orange pluto jupiter
 1
 2 12
 2
-0 39 24 12
 0 36 2 0
+0 39 24 12
 1
 end_operator
 begin_operator
@@ -245365,8 +245365,8 @@ succumb prostatitis expectation orange vulcan pluto
 1
 2 12
 2
-0 39 24 12
 0 36 3 2
+0 39 24 12
 1
 end_operator
 begin_operator
@@ -245374,8 +245374,8 @@ succumb prostatitis expectation pea neptune vulcan
 1
 2 13
 2
-0 39 24 13
 0 36 1 3
+0 39 24 13
 1
 end_operator
 begin_operator
@@ -245383,8 +245383,8 @@ succumb prostatitis expectation pea pluto jupiter
 1
 2 13
 2
-0 39 24 13
 0 36 2 0
+0 39 24 13
 1
 end_operator
 begin_operator
@@ -245392,8 +245392,8 @@ succumb prostatitis expectation pea vulcan pluto
 1
 2 13
 2
-0 39 24 13
 0 36 3 2
+0 39 24 13
 1
 end_operator
 begin_operator
@@ -245401,8 +245401,8 @@ succumb prostatitis expectation pepper neptune vulcan
 1
 2 14
 2
-0 39 24 14
 0 36 1 3
+0 39 24 14
 1
 end_operator
 begin_operator
@@ -245410,8 +245410,8 @@ succumb prostatitis expectation pepper pluto jupiter
 1
 2 14
 2
-0 39 24 14
 0 36 2 0
+0 39 24 14
 1
 end_operator
 begin_operator
@@ -245419,8 +245419,8 @@ succumb prostatitis expectation pepper vulcan pluto
 1
 2 14
 2
-0 39 24 14
 0 36 3 2
+0 39 24 14
 1
 end_operator
 begin_operator
@@ -245428,8 +245428,8 @@ succumb prostatitis expectation potato neptune vulcan
 1
 2 15
 2
-0 39 24 15
 0 36 1 3
+0 39 24 15
 1
 end_operator
 begin_operator
@@ -245437,8 +245437,8 @@ succumb prostatitis expectation potato pluto jupiter
 1
 2 15
 2
-0 39 24 15
 0 36 2 0
+0 39 24 15
 1
 end_operator
 begin_operator
@@ -245446,8 +245446,8 @@ succumb prostatitis expectation potato vulcan pluto
 1
 2 15
 2
-0 39 24 15
 0 36 3 2
+0 39 24 15
 1
 end_operator
 begin_operator
@@ -245455,8 +245455,8 @@ succumb prostatitis expectation rice neptune vulcan
 1
 2 16
 2
-0 39 24 16
 0 36 1 3
+0 39 24 16
 1
 end_operator
 begin_operator
@@ -245464,8 +245464,8 @@ succumb prostatitis expectation rice pluto jupiter
 1
 2 16
 2
-0 39 24 16
 0 36 2 0
+0 39 24 16
 1
 end_operator
 begin_operator
@@ -245473,8 +245473,8 @@ succumb prostatitis expectation rice vulcan pluto
 1
 2 16
 2
-0 39 24 16
 0 36 3 2
+0 39 24 16
 1
 end_operator
 begin_operator
@@ -245482,8 +245482,8 @@ succumb prostatitis expectation scallop neptune vulcan
 1
 2 17
 2
-0 39 24 17
 0 36 1 3
+0 39 24 17
 1
 end_operator
 begin_operator
@@ -245491,8 +245491,8 @@ succumb prostatitis expectation scallop pluto jupiter
 1
 2 17
 2
-0 39 24 17
 0 36 2 0
+0 39 24 17
 1
 end_operator
 begin_operator
@@ -245500,8 +245500,8 @@ succumb prostatitis expectation scallop vulcan pluto
 1
 2 17
 2
-0 39 24 17
 0 36 3 2
+0 39 24 17
 1
 end_operator
 begin_operator
@@ -245509,8 +245509,8 @@ succumb prostatitis expectation tofu neptune vulcan
 1
 2 18
 2
-0 39 24 18
 0 36 1 3
+0 39 24 18
 1
 end_operator
 begin_operator
@@ -245518,8 +245518,8 @@ succumb prostatitis expectation tofu pluto jupiter
 1
 2 18
 2
-0 39 24 18
 0 36 2 0
+0 39 24 18
 1
 end_operator
 begin_operator
@@ -245527,8 +245527,8 @@ succumb prostatitis expectation tofu vulcan pluto
 1
 2 18
 2
-0 39 24 18
 0 36 3 2
+0 39 24 18
 1
 end_operator
 begin_operator
@@ -245536,8 +245536,8 @@ succumb prostatitis expectation turkey neptune vulcan
 1
 2 19
 2
-0 39 24 19
 0 36 1 3
+0 39 24 19
 1
 end_operator
 begin_operator
@@ -245545,8 +245545,8 @@ succumb prostatitis expectation turkey pluto jupiter
 1
 2 19
 2
-0 39 24 19
 0 36 2 0
+0 39 24 19
 1
 end_operator
 begin_operator
@@ -245554,8 +245554,8 @@ succumb prostatitis expectation turkey vulcan pluto
 1
 2 19
 2
-0 39 24 19
 0 36 3 2
+0 39 24 19
 1
 end_operator
 begin_operator
@@ -245563,8 +245563,8 @@ succumb prostatitis expectation wonderbread neptune vulcan
 1
 2 20
 2
-0 39 24 20
 0 36 1 3
+0 39 24 20
 1
 end_operator
 begin_operator
@@ -245572,8 +245572,8 @@ succumb prostatitis expectation wonderbread pluto jupiter
 1
 2 20
 2
-0 39 24 20
 0 36 2 0
+0 39 24 20
 1
 end_operator
 begin_operator
@@ -245581,8 +245581,8 @@ succumb prostatitis expectation wonderbread vulcan pluto
 1
 2 20
 2
-0 39 24 20
 0 36 3 2
+0 39 24 20
 1
 end_operator
 begin_operator
@@ -245590,8 +245590,8 @@ succumb prostatitis expectation wurst neptune vulcan
 1
 2 21
 2
-0 39 24 21
 0 36 1 3
+0 39 24 21
 1
 end_operator
 begin_operator
@@ -245599,8 +245599,8 @@ succumb prostatitis expectation wurst pluto jupiter
 1
 2 21
 2
-0 39 24 21
 0 36 2 0
+0 39 24 21
 1
 end_operator
 begin_operator
@@ -245608,8 +245608,8 @@ succumb prostatitis expectation wurst vulcan pluto
 1
 2 21
 2
-0 39 24 21
 0 36 3 2
+0 39 24 21
 1
 end_operator
 begin_operator
@@ -245617,8 +245617,8 @@ succumb prostatitis learning bacon neptune vulcan
 1
 3 0
 2
-0 39 25 0
 0 37 1 3
+0 39 25 0
 1
 end_operator
 begin_operator
@@ -245626,8 +245626,8 @@ succumb prostatitis learning bacon pluto jupiter
 1
 3 0
 2
-0 39 25 0
 0 37 2 0
+0 39 25 0
 1
 end_operator
 begin_operator
@@ -245635,8 +245635,8 @@ succumb prostatitis learning bacon vulcan pluto
 1
 3 0
 2
-0 39 25 0
 0 37 3 2
+0 39 25 0
 1
 end_operator
 begin_operator
@@ -245644,8 +245644,8 @@ succumb prostatitis learning broccoli neptune vulcan
 1
 3 1
 2
-0 39 25 1
 0 37 1 3
+0 39 25 1
 1
 end_operator
 begin_operator
@@ -245653,8 +245653,8 @@ succumb prostatitis learning broccoli pluto jupiter
 1
 3 1
 2
-0 39 25 1
 0 37 2 0
+0 39 25 1
 1
 end_operator
 begin_operator
@@ -245662,8 +245662,8 @@ succumb prostatitis learning broccoli vulcan pluto
 1
 3 1
 2
-0 39 25 1
 0 37 3 2
+0 39 25 1
 1
 end_operator
 begin_operator
@@ -245671,8 +245671,8 @@ succumb prostatitis learning cantelope neptune vulcan
 1
 3 2
 2
-0 39 25 2
 0 37 1 3
+0 39 25 2
 1
 end_operator
 begin_operator
@@ -245680,8 +245680,8 @@ succumb prostatitis learning cantelope pluto jupiter
 1
 3 2
 2
-0 39 25 2
 0 37 2 0
+0 39 25 2
 1
 end_operator
 begin_operator
@@ -245689,8 +245689,8 @@ succumb prostatitis learning cantelope vulcan pluto
 1
 3 2
 2
-0 39 25 2
 0 37 3 2
+0 39 25 2
 1
 end_operator
 begin_operator
@@ -245698,8 +245698,8 @@ succumb prostatitis learning chicken neptune vulcan
 1
 3 3
 2
-0 39 25 3
 0 37 1 3
+0 39 25 3
 1
 end_operator
 begin_operator
@@ -245707,8 +245707,8 @@ succumb prostatitis learning chicken pluto jupiter
 1
 3 3
 2
-0 39 25 3
 0 37 2 0
+0 39 25 3
 1
 end_operator
 begin_operator
@@ -245716,8 +245716,8 @@ succumb prostatitis learning chicken vulcan pluto
 1
 3 3
 2
-0 39 25 3
 0 37 3 2
+0 39 25 3
 1
 end_operator
 begin_operator
@@ -245725,8 +245725,8 @@ succumb prostatitis learning chocolate neptune vulcan
 1
 3 4
 2
-0 39 25 4
 0 37 1 3
+0 39 25 4
 1
 end_operator
 begin_operator
@@ -245734,8 +245734,8 @@ succumb prostatitis learning chocolate pluto jupiter
 1
 3 4
 2
-0 39 25 4
 0 37 2 0
+0 39 25 4
 1
 end_operator
 begin_operator
@@ -245743,8 +245743,8 @@ succumb prostatitis learning chocolate vulcan pluto
 1
 3 4
 2
-0 39 25 4
 0 37 3 2
+0 39 25 4
 1
 end_operator
 begin_operator
@@ -245752,8 +245752,8 @@ succumb prostatitis learning cucumber neptune vulcan
 1
 3 5
 2
-0 39 25 5
 0 37 1 3
+0 39 25 5
 1
 end_operator
 begin_operator
@@ -245761,8 +245761,8 @@ succumb prostatitis learning cucumber pluto jupiter
 1
 3 5
 2
-0 39 25 5
 0 37 2 0
+0 39 25 5
 1
 end_operator
 begin_operator
@@ -245770,8 +245770,8 @@ succumb prostatitis learning cucumber vulcan pluto
 1
 3 5
 2
-0 39 25 5
 0 37 3 2
+0 39 25 5
 1
 end_operator
 begin_operator
@@ -245779,8 +245779,8 @@ succumb prostatitis learning endive neptune vulcan
 1
 3 6
 2
-0 39 25 6
 0 37 1 3
+0 39 25 6
 1
 end_operator
 begin_operator
@@ -245788,8 +245788,8 @@ succumb prostatitis learning endive pluto jupiter
 1
 3 6
 2
-0 39 25 6
 0 37 2 0
+0 39 25 6
 1
 end_operator
 begin_operator
@@ -245797,8 +245797,8 @@ succumb prostatitis learning endive vulcan pluto
 1
 3 6
 2
-0 39 25 6
 0 37 3 2
+0 39 25 6
 1
 end_operator
 begin_operator
@@ -245806,8 +245806,8 @@ succumb prostatitis learning guava neptune vulcan
 1
 3 7
 2
-0 39 25 7
 0 37 1 3
+0 39 25 7
 1
 end_operator
 begin_operator
@@ -245815,8 +245815,8 @@ succumb prostatitis learning guava pluto jupiter
 1
 3 7
 2
-0 39 25 7
 0 37 2 0
+0 39 25 7
 1
 end_operator
 begin_operator
@@ -245824,8 +245824,8 @@ succumb prostatitis learning guava vulcan pluto
 1
 3 7
 2
-0 39 25 7
 0 37 3 2
+0 39 25 7
 1
 end_operator
 begin_operator
@@ -245833,8 +245833,8 @@ succumb prostatitis learning haroset neptune vulcan
 1
 3 8
 2
-0 39 25 8
 0 37 1 3
+0 39 25 8
 1
 end_operator
 begin_operator
@@ -245842,8 +245842,8 @@ succumb prostatitis learning haroset pluto jupiter
 1
 3 8
 2
-0 39 25 8
 0 37 2 0
+0 39 25 8
 1
 end_operator
 begin_operator
@@ -245851,8 +245851,8 @@ succumb prostatitis learning haroset vulcan pluto
 1
 3 8
 2
-0 39 25 8
 0 37 3 2
+0 39 25 8
 1
 end_operator
 begin_operator
@@ -245860,8 +245860,8 @@ succumb prostatitis learning hotdog neptune vulcan
 1
 3 9
 2
-0 39 25 9
 0 37 1 3
+0 39 25 9
 1
 end_operator
 begin_operator
@@ -245869,8 +245869,8 @@ succumb prostatitis learning hotdog pluto jupiter
 1
 3 9
 2
-0 39 25 9
 0 37 2 0
+0 39 25 9
 1
 end_operator
 begin_operator
@@ -245878,8 +245878,8 @@ succumb prostatitis learning hotdog vulcan pluto
 1
 3 9
 2
-0 39 25 9
 0 37 3 2
+0 39 25 9
 1
 end_operator
 begin_operator
@@ -245887,8 +245887,8 @@ succumb prostatitis learning lemon neptune vulcan
 1
 3 10
 2
-0 39 25 10
 0 37 1 3
+0 39 25 10
 1
 end_operator
 begin_operator
@@ -245896,8 +245896,8 @@ succumb prostatitis learning lemon pluto jupiter
 1
 3 10
 2
-0 39 25 10
 0 37 2 0
+0 39 25 10
 1
 end_operator
 begin_operator
@@ -245905,8 +245905,8 @@ succumb prostatitis learning lemon vulcan pluto
 1
 3 10
 2
-0 39 25 10
 0 37 3 2
+0 39 25 10
 1
 end_operator
 begin_operator
@@ -245914,8 +245914,8 @@ succumb prostatitis learning marzipan neptune vulcan
 1
 3 11
 2
-0 39 25 11
 0 37 1 3
+0 39 25 11
 1
 end_operator
 begin_operator
@@ -245923,8 +245923,8 @@ succumb prostatitis learning marzipan pluto jupiter
 1
 3 11
 2
-0 39 25 11
 0 37 2 0
+0 39 25 11
 1
 end_operator
 begin_operator
@@ -245932,8 +245932,8 @@ succumb prostatitis learning marzipan vulcan pluto
 1
 3 11
 2
-0 39 25 11
 0 37 3 2
+0 39 25 11
 1
 end_operator
 begin_operator
@@ -245941,8 +245941,8 @@ succumb prostatitis learning orange neptune vulcan
 1
 3 12
 2
-0 39 25 12
 0 37 1 3
+0 39 25 12
 1
 end_operator
 begin_operator
@@ -245950,8 +245950,8 @@ succumb prostatitis learning orange pluto jupiter
 1
 3 12
 2
-0 39 25 12
 0 37 2 0
+0 39 25 12
 1
 end_operator
 begin_operator
@@ -245959,8 +245959,8 @@ succumb prostatitis learning orange vulcan pluto
 1
 3 12
 2
-0 39 25 12
 0 37 3 2
+0 39 25 12
 1
 end_operator
 begin_operator
@@ -245968,8 +245968,8 @@ succumb prostatitis learning pea neptune vulcan
 1
 3 13
 2
-0 39 25 13
 0 37 1 3
+0 39 25 13
 1
 end_operator
 begin_operator
@@ -245977,8 +245977,8 @@ succumb prostatitis learning pea pluto jupiter
 1
 3 13
 2
-0 39 25 13
 0 37 2 0
+0 39 25 13
 1
 end_operator
 begin_operator
@@ -245986,8 +245986,8 @@ succumb prostatitis learning pea vulcan pluto
 1
 3 13
 2
-0 39 25 13
 0 37 3 2
+0 39 25 13
 1
 end_operator
 begin_operator
@@ -245995,8 +245995,8 @@ succumb prostatitis learning pepper neptune vulcan
 1
 3 14
 2
-0 39 25 14
 0 37 1 3
+0 39 25 14
 1
 end_operator
 begin_operator
@@ -246004,8 +246004,8 @@ succumb prostatitis learning pepper pluto jupiter
 1
 3 14
 2
-0 39 25 14
 0 37 2 0
+0 39 25 14
 1
 end_operator
 begin_operator
@@ -246013,8 +246013,8 @@ succumb prostatitis learning pepper vulcan pluto
 1
 3 14
 2
-0 39 25 14
 0 37 3 2
+0 39 25 14
 1
 end_operator
 begin_operator
@@ -246022,8 +246022,8 @@ succumb prostatitis learning potato neptune vulcan
 1
 3 15
 2
-0 39 25 15
 0 37 1 3
+0 39 25 15
 1
 end_operator
 begin_operator
@@ -246031,8 +246031,8 @@ succumb prostatitis learning potato pluto jupiter
 1
 3 15
 2
-0 39 25 15
 0 37 2 0
+0 39 25 15
 1
 end_operator
 begin_operator
@@ -246040,8 +246040,8 @@ succumb prostatitis learning potato vulcan pluto
 1
 3 15
 2
-0 39 25 15
 0 37 3 2
+0 39 25 15
 1
 end_operator
 begin_operator
@@ -246049,8 +246049,8 @@ succumb prostatitis learning rice neptune vulcan
 1
 3 16
 2
-0 39 25 16
 0 37 1 3
+0 39 25 16
 1
 end_operator
 begin_operator
@@ -246058,8 +246058,8 @@ succumb prostatitis learning rice pluto jupiter
 1
 3 16
 2
-0 39 25 16
 0 37 2 0
+0 39 25 16
 1
 end_operator
 begin_operator
@@ -246067,8 +246067,8 @@ succumb prostatitis learning rice vulcan pluto
 1
 3 16
 2
-0 39 25 16
 0 37 3 2
+0 39 25 16
 1
 end_operator
 begin_operator
@@ -246076,8 +246076,8 @@ succumb prostatitis learning scallop neptune vulcan
 1
 3 17
 2
-0 39 25 17
 0 37 1 3
+0 39 25 17
 1
 end_operator
 begin_operator
@@ -246085,8 +246085,8 @@ succumb prostatitis learning scallop pluto jupiter
 1
 3 17
 2
-0 39 25 17
 0 37 2 0
+0 39 25 17
 1
 end_operator
 begin_operator
@@ -246094,8 +246094,8 @@ succumb prostatitis learning scallop vulcan pluto
 1
 3 17
 2
-0 39 25 17
 0 37 3 2
+0 39 25 17
 1
 end_operator
 begin_operator
@@ -246103,8 +246103,8 @@ succumb prostatitis learning tofu neptune vulcan
 1
 3 18
 2
-0 39 25 18
 0 37 1 3
+0 39 25 18
 1
 end_operator
 begin_operator
@@ -246112,8 +246112,8 @@ succumb prostatitis learning tofu pluto jupiter
 1
 3 18
 2
-0 39 25 18
 0 37 2 0
+0 39 25 18
 1
 end_operator
 begin_operator
@@ -246121,8 +246121,8 @@ succumb prostatitis learning tofu vulcan pluto
 1
 3 18
 2
-0 39 25 18
 0 37 3 2
+0 39 25 18
 1
 end_operator
 begin_operator
@@ -246130,8 +246130,8 @@ succumb prostatitis learning turkey neptune vulcan
 1
 3 19
 2
-0 39 25 19
 0 37 1 3
+0 39 25 19
 1
 end_operator
 begin_operator
@@ -246139,8 +246139,8 @@ succumb prostatitis learning turkey pluto jupiter
 1
 3 19
 2
-0 39 25 19
 0 37 2 0
+0 39 25 19
 1
 end_operator
 begin_operator
@@ -246148,8 +246148,8 @@ succumb prostatitis learning turkey vulcan pluto
 1
 3 19
 2
-0 39 25 19
 0 37 3 2
+0 39 25 19
 1
 end_operator
 begin_operator
@@ -246157,8 +246157,8 @@ succumb prostatitis learning wonderbread neptune vulcan
 1
 3 20
 2
-0 39 25 20
 0 37 1 3
+0 39 25 20
 1
 end_operator
 begin_operator
@@ -246166,8 +246166,8 @@ succumb prostatitis learning wonderbread pluto jupiter
 1
 3 20
 2
-0 39 25 20
 0 37 2 0
+0 39 25 20
 1
 end_operator
 begin_operator
@@ -246175,8 +246175,8 @@ succumb prostatitis learning wonderbread vulcan pluto
 1
 3 20
 2
-0 39 25 20
 0 37 3 2
+0 39 25 20
 1
 end_operator
 begin_operator
@@ -246184,8 +246184,8 @@ succumb prostatitis learning wurst neptune vulcan
 1
 3 21
 2
-0 39 25 21
 0 37 1 3
+0 39 25 21
 1
 end_operator
 begin_operator
@@ -246193,8 +246193,8 @@ succumb prostatitis learning wurst pluto jupiter
 1
 3 21
 2
-0 39 25 21
 0 37 2 0
+0 39 25 21
 1
 end_operator
 begin_operator
@@ -246202,8 +246202,8 @@ succumb prostatitis learning wurst vulcan pluto
 1
 3 21
 2
-0 39 25 21
 0 37 3 2
+0 39 25 21
 1
 end_operator
 begin_operator
@@ -247993,8 +247993,8 @@ succumb sciatica curiosity bacon neptune vulcan
 1
 0 0
 2
-0 42 22 0
 0 32 1 3
+0 42 22 0
 1
 end_operator
 begin_operator
@@ -248002,8 +248002,8 @@ succumb sciatica curiosity bacon pluto jupiter
 1
 0 0
 2
-0 42 22 0
 0 32 2 0
+0 42 22 0
 1
 end_operator
 begin_operator
@@ -248011,8 +248011,8 @@ succumb sciatica curiosity bacon vulcan pluto
 1
 0 0
 2
-0 42 22 0
 0 32 3 2
+0 42 22 0
 1
 end_operator
 begin_operator
@@ -248020,8 +248020,8 @@ succumb sciatica curiosity broccoli neptune vulcan
 1
 0 1
 2
-0 42 22 1
 0 32 1 3
+0 42 22 1
 1
 end_operator
 begin_operator
@@ -248029,8 +248029,8 @@ succumb sciatica curiosity broccoli pluto jupiter
 1
 0 1
 2
-0 42 22 1
 0 32 2 0
+0 42 22 1
 1
 end_operator
 begin_operator
@@ -248038,8 +248038,8 @@ succumb sciatica curiosity broccoli vulcan pluto
 1
 0 1
 2
-0 42 22 1
 0 32 3 2
+0 42 22 1
 1
 end_operator
 begin_operator
@@ -248047,8 +248047,8 @@ succumb sciatica curiosity cantelope neptune vulcan
 1
 0 2
 2
-0 42 22 2
 0 32 1 3
+0 42 22 2
 1
 end_operator
 begin_operator
@@ -248056,8 +248056,8 @@ succumb sciatica curiosity cantelope pluto jupiter
 1
 0 2
 2
-0 42 22 2
 0 32 2 0
+0 42 22 2
 1
 end_operator
 begin_operator
@@ -248065,8 +248065,8 @@ succumb sciatica curiosity cantelope vulcan pluto
 1
 0 2
 2
-0 42 22 2
 0 32 3 2
+0 42 22 2
 1
 end_operator
 begin_operator
@@ -248074,8 +248074,8 @@ succumb sciatica curiosity chicken neptune vulcan
 1
 0 3
 2
-0 42 22 3
 0 32 1 3
+0 42 22 3
 1
 end_operator
 begin_operator
@@ -248083,8 +248083,8 @@ succumb sciatica curiosity chicken pluto jupiter
 1
 0 3
 2
-0 42 22 3
 0 32 2 0
+0 42 22 3
 1
 end_operator
 begin_operator
@@ -248092,8 +248092,8 @@ succumb sciatica curiosity chicken vulcan pluto
 1
 0 3
 2
-0 42 22 3
 0 32 3 2
+0 42 22 3
 1
 end_operator
 begin_operator
@@ -248101,8 +248101,8 @@ succumb sciatica curiosity chocolate neptune vulcan
 1
 0 4
 2
-0 42 22 4
 0 32 1 3
+0 42 22 4
 1
 end_operator
 begin_operator
@@ -248110,8 +248110,8 @@ succumb sciatica curiosity chocolate pluto jupiter
 1
 0 4
 2
-0 42 22 4
 0 32 2 0
+0 42 22 4
 1
 end_operator
 begin_operator
@@ -248119,8 +248119,8 @@ succumb sciatica curiosity chocolate vulcan pluto
 1
 0 4
 2
-0 42 22 4
 0 32 3 2
+0 42 22 4
 1
 end_operator
 begin_operator
@@ -248128,8 +248128,8 @@ succumb sciatica curiosity cucumber neptune vulcan
 1
 0 5
 2
-0 42 22 5
 0 32 1 3
+0 42 22 5
 1
 end_operator
 begin_operator
@@ -248137,8 +248137,8 @@ succumb sciatica curiosity cucumber pluto jupiter
 1
 0 5
 2
-0 42 22 5
 0 32 2 0
+0 42 22 5
 1
 end_operator
 begin_operator
@@ -248146,8 +248146,8 @@ succumb sciatica curiosity cucumber vulcan pluto
 1
 0 5
 2
-0 42 22 5
 0 32 3 2
+0 42 22 5
 1
 end_operator
 begin_operator
@@ -248155,8 +248155,8 @@ succumb sciatica curiosity endive neptune vulcan
 1
 0 6
 2
-0 42 22 6
 0 32 1 3
+0 42 22 6
 1
 end_operator
 begin_operator
@@ -248164,8 +248164,8 @@ succumb sciatica curiosity endive pluto jupiter
 1
 0 6
 2
-0 42 22 6
 0 32 2 0
+0 42 22 6
 1
 end_operator
 begin_operator
@@ -248173,8 +248173,8 @@ succumb sciatica curiosity endive vulcan pluto
 1
 0 6
 2
-0 42 22 6
 0 32 3 2
+0 42 22 6
 1
 end_operator
 begin_operator
@@ -248182,8 +248182,8 @@ succumb sciatica curiosity guava neptune vulcan
 1
 0 7
 2
-0 42 22 7
 0 32 1 3
+0 42 22 7
 1
 end_operator
 begin_operator
@@ -248191,8 +248191,8 @@ succumb sciatica curiosity guava pluto jupiter
 1
 0 7
 2
-0 42 22 7
 0 32 2 0
+0 42 22 7
 1
 end_operator
 begin_operator
@@ -248200,8 +248200,8 @@ succumb sciatica curiosity guava vulcan pluto
 1
 0 7
 2
-0 42 22 7
 0 32 3 2
+0 42 22 7
 1
 end_operator
 begin_operator
@@ -248209,8 +248209,8 @@ succumb sciatica curiosity haroset neptune vulcan
 1
 0 8
 2
-0 42 22 8
 0 32 1 3
+0 42 22 8
 1
 end_operator
 begin_operator
@@ -248218,8 +248218,8 @@ succumb sciatica curiosity haroset pluto jupiter
 1
 0 8
 2
-0 42 22 8
 0 32 2 0
+0 42 22 8
 1
 end_operator
 begin_operator
@@ -248227,8 +248227,8 @@ succumb sciatica curiosity haroset vulcan pluto
 1
 0 8
 2
-0 42 22 8
 0 32 3 2
+0 42 22 8
 1
 end_operator
 begin_operator
@@ -248236,8 +248236,8 @@ succumb sciatica curiosity hotdog neptune vulcan
 1
 0 9
 2
-0 42 22 9
 0 32 1 3
+0 42 22 9
 1
 end_operator
 begin_operator
@@ -248245,8 +248245,8 @@ succumb sciatica curiosity hotdog pluto jupiter
 1
 0 9
 2
-0 42 22 9
 0 32 2 0
+0 42 22 9
 1
 end_operator
 begin_operator
@@ -248254,8 +248254,8 @@ succumb sciatica curiosity hotdog vulcan pluto
 1
 0 9
 2
-0 42 22 9
 0 32 3 2
+0 42 22 9
 1
 end_operator
 begin_operator
@@ -248263,8 +248263,8 @@ succumb sciatica curiosity lemon neptune vulcan
 1
 0 10
 2
-0 42 22 10
 0 32 1 3
+0 42 22 10
 1
 end_operator
 begin_operator
@@ -248272,8 +248272,8 @@ succumb sciatica curiosity lemon pluto jupiter
 1
 0 10
 2
-0 42 22 10
 0 32 2 0
+0 42 22 10
 1
 end_operator
 begin_operator
@@ -248281,8 +248281,8 @@ succumb sciatica curiosity lemon vulcan pluto
 1
 0 10
 2
-0 42 22 10
 0 32 3 2
+0 42 22 10
 1
 end_operator
 begin_operator
@@ -248290,8 +248290,8 @@ succumb sciatica curiosity marzipan neptune vulcan
 1
 0 11
 2
-0 42 22 11
 0 32 1 3
+0 42 22 11
 1
 end_operator
 begin_operator
@@ -248299,8 +248299,8 @@ succumb sciatica curiosity marzipan pluto jupiter
 1
 0 11
 2
-0 42 22 11
 0 32 2 0
+0 42 22 11
 1
 end_operator
 begin_operator
@@ -248308,8 +248308,8 @@ succumb sciatica curiosity marzipan vulcan pluto
 1
 0 11
 2
-0 42 22 11
 0 32 3 2
+0 42 22 11
 1
 end_operator
 begin_operator
@@ -248317,8 +248317,8 @@ succumb sciatica curiosity orange neptune vulcan
 1
 0 12
 2
-0 42 22 12
 0 32 1 3
+0 42 22 12
 1
 end_operator
 begin_operator
@@ -248326,8 +248326,8 @@ succumb sciatica curiosity orange pluto jupiter
 1
 0 12
 2
-0 42 22 12
 0 32 2 0
+0 42 22 12
 1
 end_operator
 begin_operator
@@ -248335,8 +248335,8 @@ succumb sciatica curiosity orange vulcan pluto
 1
 0 12
 2
-0 42 22 12
 0 32 3 2
+0 42 22 12
 1
 end_operator
 begin_operator
@@ -248344,8 +248344,8 @@ succumb sciatica curiosity pea neptune vulcan
 1
 0 13
 2
-0 42 22 13
 0 32 1 3
+0 42 22 13
 1
 end_operator
 begin_operator
@@ -248353,8 +248353,8 @@ succumb sciatica curiosity pea pluto jupiter
 1
 0 13
 2
-0 42 22 13
 0 32 2 0
+0 42 22 13
 1
 end_operator
 begin_operator
@@ -248362,8 +248362,8 @@ succumb sciatica curiosity pea vulcan pluto
 1
 0 13
 2
-0 42 22 13
 0 32 3 2
+0 42 22 13
 1
 end_operator
 begin_operator
@@ -248371,8 +248371,8 @@ succumb sciatica curiosity pepper neptune vulcan
 1
 0 14
 2
-0 42 22 14
 0 32 1 3
+0 42 22 14
 1
 end_operator
 begin_operator
@@ -248380,8 +248380,8 @@ succumb sciatica curiosity pepper pluto jupiter
 1
 0 14
 2
-0 42 22 14
 0 32 2 0
+0 42 22 14
 1
 end_operator
 begin_operator
@@ -248389,8 +248389,8 @@ succumb sciatica curiosity pepper vulcan pluto
 1
 0 14
 2
-0 42 22 14
 0 32 3 2
+0 42 22 14
 1
 end_operator
 begin_operator
@@ -248398,8 +248398,8 @@ succumb sciatica curiosity potato neptune vulcan
 1
 0 15
 2
-0 42 22 15
 0 32 1 3
+0 42 22 15
 1
 end_operator
 begin_operator
@@ -248407,8 +248407,8 @@ succumb sciatica curiosity potato pluto jupiter
 1
 0 15
 2
-0 42 22 15
 0 32 2 0
+0 42 22 15
 1
 end_operator
 begin_operator
@@ -248416,8 +248416,8 @@ succumb sciatica curiosity potato vulcan pluto
 1
 0 15
 2
-0 42 22 15
 0 32 3 2
+0 42 22 15
 1
 end_operator
 begin_operator
@@ -248425,8 +248425,8 @@ succumb sciatica curiosity rice neptune vulcan
 1
 0 16
 2
-0 42 22 16
 0 32 1 3
+0 42 22 16
 1
 end_operator
 begin_operator
@@ -248434,8 +248434,8 @@ succumb sciatica curiosity rice pluto jupiter
 1
 0 16
 2
-0 42 22 16
 0 32 2 0
+0 42 22 16
 1
 end_operator
 begin_operator
@@ -248443,8 +248443,8 @@ succumb sciatica curiosity rice vulcan pluto
 1
 0 16
 2
-0 42 22 16
 0 32 3 2
+0 42 22 16
 1
 end_operator
 begin_operator
@@ -248452,8 +248452,8 @@ succumb sciatica curiosity scallop neptune vulcan
 1
 0 17
 2
-0 42 22 17
 0 32 1 3
+0 42 22 17
 1
 end_operator
 begin_operator
@@ -248461,8 +248461,8 @@ succumb sciatica curiosity scallop pluto jupiter
 1
 0 17
 2
-0 42 22 17
 0 32 2 0
+0 42 22 17
 1
 end_operator
 begin_operator
@@ -248470,8 +248470,8 @@ succumb sciatica curiosity scallop vulcan pluto
 1
 0 17
 2
-0 42 22 17
 0 32 3 2
+0 42 22 17
 1
 end_operator
 begin_operator
@@ -248479,8 +248479,8 @@ succumb sciatica curiosity tofu neptune vulcan
 1
 0 18
 2
-0 42 22 18
 0 32 1 3
+0 42 22 18
 1
 end_operator
 begin_operator
@@ -248488,8 +248488,8 @@ succumb sciatica curiosity tofu pluto jupiter
 1
 0 18
 2
-0 42 22 18
 0 32 2 0
+0 42 22 18
 1
 end_operator
 begin_operator
@@ -248497,8 +248497,8 @@ succumb sciatica curiosity tofu vulcan pluto
 1
 0 18
 2
-0 42 22 18
 0 32 3 2
+0 42 22 18
 1
 end_operator
 begin_operator
@@ -248506,8 +248506,8 @@ succumb sciatica curiosity turkey neptune vulcan
 1
 0 19
 2
-0 42 22 19
 0 32 1 3
+0 42 22 19
 1
 end_operator
 begin_operator
@@ -248515,8 +248515,8 @@ succumb sciatica curiosity turkey pluto jupiter
 1
 0 19
 2
-0 42 22 19
 0 32 2 0
+0 42 22 19
 1
 end_operator
 begin_operator
@@ -248524,8 +248524,8 @@ succumb sciatica curiosity turkey vulcan pluto
 1
 0 19
 2
-0 42 22 19
 0 32 3 2
+0 42 22 19
 1
 end_operator
 begin_operator
@@ -248533,8 +248533,8 @@ succumb sciatica curiosity wonderbread neptune vulcan
 1
 0 20
 2
-0 42 22 20
 0 32 1 3
+0 42 22 20
 1
 end_operator
 begin_operator
@@ -248542,8 +248542,8 @@ succumb sciatica curiosity wonderbread pluto jupiter
 1
 0 20
 2
-0 42 22 20
 0 32 2 0
+0 42 22 20
 1
 end_operator
 begin_operator
@@ -248551,8 +248551,8 @@ succumb sciatica curiosity wonderbread vulcan pluto
 1
 0 20
 2
-0 42 22 20
 0 32 3 2
+0 42 22 20
 1
 end_operator
 begin_operator
@@ -248560,8 +248560,8 @@ succumb sciatica curiosity wurst neptune vulcan
 1
 0 21
 2
-0 42 22 21
 0 32 1 3
+0 42 22 21
 1
 end_operator
 begin_operator
@@ -248569,8 +248569,8 @@ succumb sciatica curiosity wurst pluto jupiter
 1
 0 21
 2
-0 42 22 21
 0 32 2 0
+0 42 22 21
 1
 end_operator
 begin_operator
@@ -248578,8 +248578,8 @@ succumb sciatica curiosity wurst vulcan pluto
 1
 0 21
 2
-0 42 22 21
 0 32 3 2
+0 42 22 21
 1
 end_operator
 begin_operator
@@ -248587,8 +248587,8 @@ succumb sciatica entertainment bacon neptune vulcan
 1
 1 0
 2
-0 42 23 0
 0 33 1 3
+0 42 23 0
 1
 end_operator
 begin_operator
@@ -248596,8 +248596,8 @@ succumb sciatica entertainment bacon pluto jupiter
 1
 1 0
 2
-0 42 23 0
 0 33 2 0
+0 42 23 0
 1
 end_operator
 begin_operator
@@ -248605,8 +248605,8 @@ succumb sciatica entertainment bacon vulcan pluto
 1
 1 0
 2
-0 42 23 0
 0 33 3 2
+0 42 23 0
 1
 end_operator
 begin_operator
@@ -248614,8 +248614,8 @@ succumb sciatica entertainment broccoli neptune vulcan
 1
 1 1
 2
-0 42 23 1
 0 33 1 3
+0 42 23 1
 1
 end_operator
 begin_operator
@@ -248623,8 +248623,8 @@ succumb sciatica entertainment broccoli pluto jupiter
 1
 1 1
 2
-0 42 23 1
 0 33 2 0
+0 42 23 1
 1
 end_operator
 begin_operator
@@ -248632,8 +248632,8 @@ succumb sciatica entertainment broccoli vulcan pluto
 1
 1 1
 2
-0 42 23 1
 0 33 3 2
+0 42 23 1
 1
 end_operator
 begin_operator
@@ -248641,8 +248641,8 @@ succumb sciatica entertainment cantelope neptune vulcan
 1
 1 2
 2
-0 42 23 2
 0 33 1 3
+0 42 23 2
 1
 end_operator
 begin_operator
@@ -248650,8 +248650,8 @@ succumb sciatica entertainment cantelope pluto jupiter
 1
 1 2
 2
-0 42 23 2
 0 33 2 0
+0 42 23 2
 1
 end_operator
 begin_operator
@@ -248659,8 +248659,8 @@ succumb sciatica entertainment cantelope vulcan pluto
 1
 1 2
 2
-0 42 23 2
 0 33 3 2
+0 42 23 2
 1
 end_operator
 begin_operator
@@ -248668,8 +248668,8 @@ succumb sciatica entertainment chicken neptune vulcan
 1
 1 3
 2
-0 42 23 3
 0 33 1 3
+0 42 23 3
 1
 end_operator
 begin_operator
@@ -248677,8 +248677,8 @@ succumb sciatica entertainment chicken pluto jupiter
 1
 1 3
 2
-0 42 23 3
 0 33 2 0
+0 42 23 3
 1
 end_operator
 begin_operator
@@ -248686,8 +248686,8 @@ succumb sciatica entertainment chicken vulcan pluto
 1
 1 3
 2
-0 42 23 3
 0 33 3 2
+0 42 23 3
 1
 end_operator
 begin_operator
@@ -248695,8 +248695,8 @@ succumb sciatica entertainment chocolate neptune vulcan
 1
 1 4
 2
-0 42 23 4
 0 33 1 3
+0 42 23 4
 1
 end_operator
 begin_operator
@@ -248704,8 +248704,8 @@ succumb sciatica entertainment chocolate pluto jupiter
 1
 1 4
 2
-0 42 23 4
 0 33 2 0
+0 42 23 4
 1
 end_operator
 begin_operator
@@ -248713,8 +248713,8 @@ succumb sciatica entertainment chocolate vulcan pluto
 1
 1 4
 2
-0 42 23 4
 0 33 3 2
+0 42 23 4
 1
 end_operator
 begin_operator
@@ -248722,8 +248722,8 @@ succumb sciatica entertainment cucumber neptune vulcan
 1
 1 5
 2
-0 42 23 5
 0 33 1 3
+0 42 23 5
 1
 end_operator
 begin_operator
@@ -248731,8 +248731,8 @@ succumb sciatica entertainment cucumber pluto jupiter
 1
 1 5
 2
-0 42 23 5
 0 33 2 0
+0 42 23 5
 1
 end_operator
 begin_operator
@@ -248740,8 +248740,8 @@ succumb sciatica entertainment cucumber vulcan pluto
 1
 1 5
 2
-0 42 23 5
 0 33 3 2
+0 42 23 5
 1
 end_operator
 begin_operator
@@ -248749,8 +248749,8 @@ succumb sciatica entertainment endive neptune vulcan
 1
 1 6
 2
-0 42 23 6
 0 33 1 3
+0 42 23 6
 1
 end_operator
 begin_operator
@@ -248758,8 +248758,8 @@ succumb sciatica entertainment endive pluto jupiter
 1
 1 6
 2
-0 42 23 6
 0 33 2 0
+0 42 23 6
 1
 end_operator
 begin_operator
@@ -248767,8 +248767,8 @@ succumb sciatica entertainment endive vulcan pluto
 1
 1 6
 2
-0 42 23 6
 0 33 3 2
+0 42 23 6
 1
 end_operator
 begin_operator
@@ -248776,8 +248776,8 @@ succumb sciatica entertainment guava neptune vulcan
 1
 1 7
 2
-0 42 23 7
 0 33 1 3
+0 42 23 7
 1
 end_operator
 begin_operator
@@ -248785,8 +248785,8 @@ succumb sciatica entertainment guava pluto jupiter
 1
 1 7
 2
-0 42 23 7
 0 33 2 0
+0 42 23 7
 1
 end_operator
 begin_operator
@@ -248794,8 +248794,8 @@ succumb sciatica entertainment guava vulcan pluto
 1
 1 7
 2
-0 42 23 7
 0 33 3 2
+0 42 23 7
 1
 end_operator
 begin_operator
@@ -248803,8 +248803,8 @@ succumb sciatica entertainment haroset neptune vulcan
 1
 1 8
 2
-0 42 23 8
 0 33 1 3
+0 42 23 8
 1
 end_operator
 begin_operator
@@ -248812,8 +248812,8 @@ succumb sciatica entertainment haroset pluto jupiter
 1
 1 8
 2
-0 42 23 8
 0 33 2 0
+0 42 23 8
 1
 end_operator
 begin_operator
@@ -248821,8 +248821,8 @@ succumb sciatica entertainment haroset vulcan pluto
 1
 1 8
 2
-0 42 23 8
 0 33 3 2
+0 42 23 8
 1
 end_operator
 begin_operator
@@ -248830,8 +248830,8 @@ succumb sciatica entertainment hotdog neptune vulcan
 1
 1 9
 2
-0 42 23 9
 0 33 1 3
+0 42 23 9
 1
 end_operator
 begin_operator
@@ -248839,8 +248839,8 @@ succumb sciatica entertainment hotdog pluto jupiter
 1
 1 9
 2
-0 42 23 9
 0 33 2 0
+0 42 23 9
 1
 end_operator
 begin_operator
@@ -248848,8 +248848,8 @@ succumb sciatica entertainment hotdog vulcan pluto
 1
 1 9
 2
-0 42 23 9
 0 33 3 2
+0 42 23 9
 1
 end_operator
 begin_operator
@@ -248857,8 +248857,8 @@ succumb sciatica entertainment lemon neptune vulcan
 1
 1 10
 2
-0 42 23 10
 0 33 1 3
+0 42 23 10
 1
 end_operator
 begin_operator
@@ -248866,8 +248866,8 @@ succumb sciatica entertainment lemon pluto jupiter
 1
 1 10
 2
-0 42 23 10
 0 33 2 0
+0 42 23 10
 1
 end_operator
 begin_operator
@@ -248875,8 +248875,8 @@ succumb sciatica entertainment lemon vulcan pluto
 1
 1 10
 2
-0 42 23 10
 0 33 3 2
+0 42 23 10
 1
 end_operator
 begin_operator
@@ -248884,8 +248884,8 @@ succumb sciatica entertainment marzipan neptune vulcan
 1
 1 11
 2
-0 42 23 11
 0 33 1 3
+0 42 23 11
 1
 end_operator
 begin_operator
@@ -248893,8 +248893,8 @@ succumb sciatica entertainment marzipan pluto jupiter
 1
 1 11
 2
-0 42 23 11
 0 33 2 0
+0 42 23 11
 1
 end_operator
 begin_operator
@@ -248902,8 +248902,8 @@ succumb sciatica entertainment marzipan vulcan pluto
 1
 1 11
 2
-0 42 23 11
 0 33 3 2
+0 42 23 11
 1
 end_operator
 begin_operator
@@ -248911,8 +248911,8 @@ succumb sciatica entertainment orange neptune vulcan
 1
 1 12
 2
-0 42 23 12
 0 33 1 3
+0 42 23 12
 1
 end_operator
 begin_operator
@@ -248920,8 +248920,8 @@ succumb sciatica entertainment orange pluto jupiter
 1
 1 12
 2
-0 42 23 12
 0 33 2 0
+0 42 23 12
 1
 end_operator
 begin_operator
@@ -248929,8 +248929,8 @@ succumb sciatica entertainment orange vulcan pluto
 1
 1 12
 2
-0 42 23 12
 0 33 3 2
+0 42 23 12
 1
 end_operator
 begin_operator
@@ -248938,8 +248938,8 @@ succumb sciatica entertainment pea neptune vulcan
 1
 1 13
 2
-0 42 23 13
 0 33 1 3
+0 42 23 13
 1
 end_operator
 begin_operator
@@ -248947,8 +248947,8 @@ succumb sciatica entertainment pea pluto jupiter
 1
 1 13
 2
-0 42 23 13
 0 33 2 0
+0 42 23 13
 1
 end_operator
 begin_operator
@@ -248956,8 +248956,8 @@ succumb sciatica entertainment pea vulcan pluto
 1
 1 13
 2
-0 42 23 13
 0 33 3 2
+0 42 23 13
 1
 end_operator
 begin_operator
@@ -248965,8 +248965,8 @@ succumb sciatica entertainment pepper neptune vulcan
 1
 1 14
 2
-0 42 23 14
 0 33 1 3
+0 42 23 14
 1
 end_operator
 begin_operator
@@ -248974,8 +248974,8 @@ succumb sciatica entertainment pepper pluto jupiter
 1
 1 14
 2
-0 42 23 14
 0 33 2 0
+0 42 23 14
 1
 end_operator
 begin_operator
@@ -248983,8 +248983,8 @@ succumb sciatica entertainment pepper vulcan pluto
 1
 1 14
 2
-0 42 23 14
 0 33 3 2
+0 42 23 14
 1
 end_operator
 begin_operator
@@ -248992,8 +248992,8 @@ succumb sciatica entertainment potato neptune vulcan
 1
 1 15
 2
-0 42 23 15
 0 33 1 3
+0 42 23 15
 1
 end_operator
 begin_operator
@@ -249001,8 +249001,8 @@ succumb sciatica entertainment potato pluto jupiter
 1
 1 15
 2
-0 42 23 15
 0 33 2 0
+0 42 23 15
 1
 end_operator
 begin_operator
@@ -249010,8 +249010,8 @@ succumb sciatica entertainment potato vulcan pluto
 1
 1 15
 2
-0 42 23 15
 0 33 3 2
+0 42 23 15
 1
 end_operator
 begin_operator
@@ -249019,8 +249019,8 @@ succumb sciatica entertainment rice neptune vulcan
 1
 1 16
 2
-0 42 23 16
 0 33 1 3
+0 42 23 16
 1
 end_operator
 begin_operator
@@ -249028,8 +249028,8 @@ succumb sciatica entertainment rice pluto jupiter
 1
 1 16
 2
-0 42 23 16
 0 33 2 0
+0 42 23 16
 1
 end_operator
 begin_operator
@@ -249037,8 +249037,8 @@ succumb sciatica entertainment rice vulcan pluto
 1
 1 16
 2
-0 42 23 16
 0 33 3 2
+0 42 23 16
 1
 end_operator
 begin_operator
@@ -249046,8 +249046,8 @@ succumb sciatica entertainment scallop neptune vulcan
 1
 1 17
 2
-0 42 23 17
 0 33 1 3
+0 42 23 17
 1
 end_operator
 begin_operator
@@ -249055,8 +249055,8 @@ succumb sciatica entertainment scallop pluto jupiter
 1
 1 17
 2
-0 42 23 17
 0 33 2 0
+0 42 23 17
 1
 end_operator
 begin_operator
@@ -249064,8 +249064,8 @@ succumb sciatica entertainment scallop vulcan pluto
 1
 1 17
 2
-0 42 23 17
 0 33 3 2
+0 42 23 17
 1
 end_operator
 begin_operator
@@ -249073,8 +249073,8 @@ succumb sciatica entertainment tofu neptune vulcan
 1
 1 18
 2
-0 42 23 18
 0 33 1 3
+0 42 23 18
 1
 end_operator
 begin_operator
@@ -249082,8 +249082,8 @@ succumb sciatica entertainment tofu pluto jupiter
 1
 1 18
 2
-0 42 23 18
 0 33 2 0
+0 42 23 18
 1
 end_operator
 begin_operator
@@ -249091,8 +249091,8 @@ succumb sciatica entertainment tofu vulcan pluto
 1
 1 18
 2
-0 42 23 18
 0 33 3 2
+0 42 23 18
 1
 end_operator
 begin_operator
@@ -249100,8 +249100,8 @@ succumb sciatica entertainment turkey neptune vulcan
 1
 1 19
 2
-0 42 23 19
 0 33 1 3
+0 42 23 19
 1
 end_operator
 begin_operator
@@ -249109,8 +249109,8 @@ succumb sciatica entertainment turkey pluto jupiter
 1
 1 19
 2
-0 42 23 19
 0 33 2 0
+0 42 23 19
 1
 end_operator
 begin_operator
@@ -249118,8 +249118,8 @@ succumb sciatica entertainment turkey vulcan pluto
 1
 1 19
 2
-0 42 23 19
 0 33 3 2
+0 42 23 19
 1
 end_operator
 begin_operator
@@ -249127,8 +249127,8 @@ succumb sciatica entertainment wonderbread neptune vulcan
 1
 1 20
 2
-0 42 23 20
 0 33 1 3
+0 42 23 20
 1
 end_operator
 begin_operator
@@ -249136,8 +249136,8 @@ succumb sciatica entertainment wonderbread pluto jupiter
 1
 1 20
 2
-0 42 23 20
 0 33 2 0
+0 42 23 20
 1
 end_operator
 begin_operator
@@ -249145,8 +249145,8 @@ succumb sciatica entertainment wonderbread vulcan pluto
 1
 1 20
 2
-0 42 23 20
 0 33 3 2
+0 42 23 20
 1
 end_operator
 begin_operator
@@ -249154,8 +249154,8 @@ succumb sciatica entertainment wurst neptune vulcan
 1
 1 21
 2
-0 42 23 21
 0 33 1 3
+0 42 23 21
 1
 end_operator
 begin_operator
@@ -249163,8 +249163,8 @@ succumb sciatica entertainment wurst pluto jupiter
 1
 1 21
 2
-0 42 23 21
 0 33 2 0
+0 42 23 21
 1
 end_operator
 begin_operator
@@ -249172,8 +249172,8 @@ succumb sciatica entertainment wurst vulcan pluto
 1
 1 21
 2
-0 42 23 21
 0 33 3 2
+0 42 23 21
 1
 end_operator
 begin_operator
@@ -249181,8 +249181,8 @@ succumb sciatica expectation bacon neptune vulcan
 1
 2 0
 2
-0 42 24 0
 0 36 1 3
+0 42 24 0
 1
 end_operator
 begin_operator
@@ -249190,8 +249190,8 @@ succumb sciatica expectation bacon pluto jupiter
 1
 2 0
 2
-0 42 24 0
 0 36 2 0
+0 42 24 0
 1
 end_operator
 begin_operator
@@ -249199,8 +249199,8 @@ succumb sciatica expectation bacon vulcan pluto
 1
 2 0
 2
-0 42 24 0
 0 36 3 2
+0 42 24 0
 1
 end_operator
 begin_operator
@@ -249208,8 +249208,8 @@ succumb sciatica expectation broccoli neptune vulcan
 1
 2 1
 2
-0 42 24 1
 0 36 1 3
+0 42 24 1
 1
 end_operator
 begin_operator
@@ -249217,8 +249217,8 @@ succumb sciatica expectation broccoli pluto jupiter
 1
 2 1
 2
-0 42 24 1
 0 36 2 0
+0 42 24 1
 1
 end_operator
 begin_operator
@@ -249226,8 +249226,8 @@ succumb sciatica expectation broccoli vulcan pluto
 1
 2 1
 2
-0 42 24 1
 0 36 3 2
+0 42 24 1
 1
 end_operator
 begin_operator
@@ -249235,8 +249235,8 @@ succumb sciatica expectation cantelope neptune vulcan
 1
 2 2
 2
-0 42 24 2
 0 36 1 3
+0 42 24 2
 1
 end_operator
 begin_operator
@@ -249244,8 +249244,8 @@ succumb sciatica expectation cantelope pluto jupiter
 1
 2 2
 2
-0 42 24 2
 0 36 2 0
+0 42 24 2
 1
 end_operator
 begin_operator
@@ -249253,8 +249253,8 @@ succumb sciatica expectation cantelope vulcan pluto
 1
 2 2
 2
-0 42 24 2
 0 36 3 2
+0 42 24 2
 1
 end_operator
 begin_operator
@@ -249262,8 +249262,8 @@ succumb sciatica expectation chicken neptune vulcan
 1
 2 3
 2
-0 42 24 3
 0 36 1 3
+0 42 24 3
 1
 end_operator
 begin_operator
@@ -249271,8 +249271,8 @@ succumb sciatica expectation chicken pluto jupiter
 1
 2 3
 2
-0 42 24 3
 0 36 2 0
+0 42 24 3
 1
 end_operator
 begin_operator
@@ -249280,8 +249280,8 @@ succumb sciatica expectation chicken vulcan pluto
 1
 2 3
 2
-0 42 24 3
 0 36 3 2
+0 42 24 3
 1
 end_operator
 begin_operator
@@ -249289,8 +249289,8 @@ succumb sciatica expectation chocolate neptune vulcan
 1
 2 4
 2
-0 42 24 4
 0 36 1 3
+0 42 24 4
 1
 end_operator
 begin_operator
@@ -249298,8 +249298,8 @@ succumb sciatica expectation chocolate pluto jupiter
 1
 2 4
 2
-0 42 24 4
 0 36 2 0
+0 42 24 4
 1
 end_operator
 begin_operator
@@ -249307,8 +249307,8 @@ succumb sciatica expectation chocolate vulcan pluto
 1
 2 4
 2
-0 42 24 4
 0 36 3 2
+0 42 24 4
 1
 end_operator
 begin_operator
@@ -249316,8 +249316,8 @@ succumb sciatica expectation cucumber neptune vulcan
 1
 2 5
 2
-0 42 24 5
 0 36 1 3
+0 42 24 5
 1
 end_operator
 begin_operator
@@ -249325,8 +249325,8 @@ succumb sciatica expectation cucumber pluto jupiter
 1
 2 5
 2
-0 42 24 5
 0 36 2 0
+0 42 24 5
 1
 end_operator
 begin_operator
@@ -249334,8 +249334,8 @@ succumb sciatica expectation cucumber vulcan pluto
 1
 2 5
 2
-0 42 24 5
 0 36 3 2
+0 42 24 5
 1
 end_operator
 begin_operator
@@ -249343,8 +249343,8 @@ succumb sciatica expectation endive neptune vulcan
 1
 2 6
 2
-0 42 24 6
 0 36 1 3
+0 42 24 6
 1
 end_operator
 begin_operator
@@ -249352,8 +249352,8 @@ succumb sciatica expectation endive pluto jupiter
 1
 2 6
 2
-0 42 24 6
 0 36 2 0
+0 42 24 6
 1
 end_operator
 begin_operator
@@ -249361,8 +249361,8 @@ succumb sciatica expectation endive vulcan pluto
 1
 2 6
 2
-0 42 24 6
 0 36 3 2
+0 42 24 6
 1
 end_operator
 begin_operator
@@ -249370,8 +249370,8 @@ succumb sciatica expectation guava neptune vulcan
 1
 2 7
 2
-0 42 24 7
 0 36 1 3
+0 42 24 7
 1
 end_operator
 begin_operator
@@ -249379,8 +249379,8 @@ succumb sciatica expectation guava pluto jupiter
 1
 2 7
 2
-0 42 24 7
 0 36 2 0
+0 42 24 7
 1
 end_operator
 begin_operator
@@ -249388,8 +249388,8 @@ succumb sciatica expectation guava vulcan pluto
 1
 2 7
 2
-0 42 24 7
 0 36 3 2
+0 42 24 7
 1
 end_operator
 begin_operator
@@ -249397,8 +249397,8 @@ succumb sciatica expectation haroset neptune vulcan
 1
 2 8
 2
-0 42 24 8
 0 36 1 3
+0 42 24 8
 1
 end_operator
 begin_operator
@@ -249406,8 +249406,8 @@ succumb sciatica expectation haroset pluto jupiter
 1
 2 8
 2
-0 42 24 8
 0 36 2 0
+0 42 24 8
 1
 end_operator
 begin_operator
@@ -249415,8 +249415,8 @@ succumb sciatica expectation haroset vulcan pluto
 1
 2 8
 2
-0 42 24 8
 0 36 3 2
+0 42 24 8
 1
 end_operator
 begin_operator
@@ -249424,8 +249424,8 @@ succumb sciatica expectation hotdog neptune vulcan
 1
 2 9
 2
-0 42 24 9
 0 36 1 3
+0 42 24 9
 1
 end_operator
 begin_operator
@@ -249433,8 +249433,8 @@ succumb sciatica expectation hotdog pluto jupiter
 1
 2 9
 2
-0 42 24 9
 0 36 2 0
+0 42 24 9
 1
 end_operator
 begin_operator
@@ -249442,8 +249442,8 @@ succumb sciatica expectation hotdog vulcan pluto
 1
 2 9
 2
-0 42 24 9
 0 36 3 2
+0 42 24 9
 1
 end_operator
 begin_operator
@@ -249451,8 +249451,8 @@ succumb sciatica expectation lemon neptune vulcan
 1
 2 10
 2
-0 42 24 10
 0 36 1 3
+0 42 24 10
 1
 end_operator
 begin_operator
@@ -249460,8 +249460,8 @@ succumb sciatica expectation lemon pluto jupiter
 1
 2 10
 2
-0 42 24 10
 0 36 2 0
+0 42 24 10
 1
 end_operator
 begin_operator
@@ -249469,8 +249469,8 @@ succumb sciatica expectation lemon vulcan pluto
 1
 2 10
 2
-0 42 24 10
 0 36 3 2
+0 42 24 10
 1
 end_operator
 begin_operator
@@ -249478,8 +249478,8 @@ succumb sciatica expectation marzipan neptune vulcan
 1
 2 11
 2
-0 42 24 11
 0 36 1 3
+0 42 24 11
 1
 end_operator
 begin_operator
@@ -249487,8 +249487,8 @@ succumb sciatica expectation marzipan pluto jupiter
 1
 2 11
 2
-0 42 24 11
 0 36 2 0
+0 42 24 11
 1
 end_operator
 begin_operator
@@ -249496,8 +249496,8 @@ succumb sciatica expectation marzipan vulcan pluto
 1
 2 11
 2
-0 42 24 11
 0 36 3 2
+0 42 24 11
 1
 end_operator
 begin_operator
@@ -249505,8 +249505,8 @@ succumb sciatica expectation orange neptune vulcan
 1
 2 12
 2
-0 42 24 12
 0 36 1 3
+0 42 24 12
 1
 end_operator
 begin_operator
@@ -249514,8 +249514,8 @@ succumb sciatica expectation orange pluto jupiter
 1
 2 12
 2
-0 42 24 12
 0 36 2 0
+0 42 24 12
 1
 end_operator
 begin_operator
@@ -249523,8 +249523,8 @@ succumb sciatica expectation orange vulcan pluto
 1
 2 12
 2
-0 42 24 12
 0 36 3 2
+0 42 24 12
 1
 end_operator
 begin_operator
@@ -249532,8 +249532,8 @@ succumb sciatica expectation pea neptune vulcan
 1
 2 13
 2
-0 42 24 13
 0 36 1 3
+0 42 24 13
 1
 end_operator
 begin_operator
@@ -249541,8 +249541,8 @@ succumb sciatica expectation pea pluto jupiter
 1
 2 13
 2
-0 42 24 13
 0 36 2 0
+0 42 24 13
 1
 end_operator
 begin_operator
@@ -249550,8 +249550,8 @@ succumb sciatica expectation pea vulcan pluto
 1
 2 13
 2
-0 42 24 13
 0 36 3 2
+0 42 24 13
 1
 end_operator
 begin_operator
@@ -249559,8 +249559,8 @@ succumb sciatica expectation pepper neptune vulcan
 1
 2 14
 2
-0 42 24 14
 0 36 1 3
+0 42 24 14
 1
 end_operator
 begin_operator
@@ -249568,8 +249568,8 @@ succumb sciatica expectation pepper pluto jupiter
 1
 2 14
 2
-0 42 24 14
 0 36 2 0
+0 42 24 14
 1
 end_operator
 begin_operator
@@ -249577,8 +249577,8 @@ succumb sciatica expectation pepper vulcan pluto
 1
 2 14
 2
-0 42 24 14
 0 36 3 2
+0 42 24 14
 1
 end_operator
 begin_operator
@@ -249586,8 +249586,8 @@ succumb sciatica expectation potato neptune vulcan
 1
 2 15
 2
-0 42 24 15
 0 36 1 3
+0 42 24 15
 1
 end_operator
 begin_operator
@@ -249595,8 +249595,8 @@ succumb sciatica expectation potato pluto jupiter
 1
 2 15
 2
-0 42 24 15
 0 36 2 0
+0 42 24 15
 1
 end_operator
 begin_operator
@@ -249604,8 +249604,8 @@ succumb sciatica expectation potato vulcan pluto
 1
 2 15
 2
-0 42 24 15
 0 36 3 2
+0 42 24 15
 1
 end_operator
 begin_operator
@@ -249613,8 +249613,8 @@ succumb sciatica expectation rice neptune vulcan
 1
 2 16
 2
-0 42 24 16
 0 36 1 3
+0 42 24 16
 1
 end_operator
 begin_operator
@@ -249622,8 +249622,8 @@ succumb sciatica expectation rice pluto jupiter
 1
 2 16
 2
-0 42 24 16
 0 36 2 0
+0 42 24 16
 1
 end_operator
 begin_operator
@@ -249631,8 +249631,8 @@ succumb sciatica expectation rice vulcan pluto
 1
 2 16
 2
-0 42 24 16
 0 36 3 2
+0 42 24 16
 1
 end_operator
 begin_operator
@@ -249640,8 +249640,8 @@ succumb sciatica expectation scallop neptune vulcan
 1
 2 17
 2
-0 42 24 17
 0 36 1 3
+0 42 24 17
 1
 end_operator
 begin_operator
@@ -249649,8 +249649,8 @@ succumb sciatica expectation scallop pluto jupiter
 1
 2 17
 2
-0 42 24 17
 0 36 2 0
+0 42 24 17
 1
 end_operator
 begin_operator
@@ -249658,8 +249658,8 @@ succumb sciatica expectation scallop vulcan pluto
 1
 2 17
 2
-0 42 24 17
 0 36 3 2
+0 42 24 17
 1
 end_operator
 begin_operator
@@ -249667,8 +249667,8 @@ succumb sciatica expectation tofu neptune vulcan
 1
 2 18
 2
-0 42 24 18
 0 36 1 3
+0 42 24 18
 1
 end_operator
 begin_operator
@@ -249676,8 +249676,8 @@ succumb sciatica expectation tofu pluto jupiter
 1
 2 18
 2
-0 42 24 18
 0 36 2 0
+0 42 24 18
 1
 end_operator
 begin_operator
@@ -249685,8 +249685,8 @@ succumb sciatica expectation tofu vulcan pluto
 1
 2 18
 2
-0 42 24 18
 0 36 3 2
+0 42 24 18
 1
 end_operator
 begin_operator
@@ -249694,8 +249694,8 @@ succumb sciatica expectation turkey neptune vulcan
 1
 2 19
 2
-0 42 24 19
 0 36 1 3
+0 42 24 19
 1
 end_operator
 begin_operator
@@ -249703,8 +249703,8 @@ succumb sciatica expectation turkey pluto jupiter
 1
 2 19
 2
-0 42 24 19
 0 36 2 0
+0 42 24 19
 1
 end_operator
 begin_operator
@@ -249712,8 +249712,8 @@ succumb sciatica expectation turkey vulcan pluto
 1
 2 19
 2
-0 42 24 19
 0 36 3 2
+0 42 24 19
 1
 end_operator
 begin_operator
@@ -249721,8 +249721,8 @@ succumb sciatica expectation wonderbread neptune vulcan
 1
 2 20
 2
-0 42 24 20
 0 36 1 3
+0 42 24 20
 1
 end_operator
 begin_operator
@@ -249730,8 +249730,8 @@ succumb sciatica expectation wonderbread pluto jupiter
 1
 2 20
 2
-0 42 24 20
 0 36 2 0
+0 42 24 20
 1
 end_operator
 begin_operator
@@ -249739,8 +249739,8 @@ succumb sciatica expectation wonderbread vulcan pluto
 1
 2 20
 2
-0 42 24 20
 0 36 3 2
+0 42 24 20
 1
 end_operator
 begin_operator
@@ -249748,8 +249748,8 @@ succumb sciatica expectation wurst neptune vulcan
 1
 2 21
 2
-0 42 24 21
 0 36 1 3
+0 42 24 21
 1
 end_operator
 begin_operator
@@ -249757,8 +249757,8 @@ succumb sciatica expectation wurst pluto jupiter
 1
 2 21
 2
-0 42 24 21
 0 36 2 0
+0 42 24 21
 1
 end_operator
 begin_operator
@@ -249766,8 +249766,8 @@ succumb sciatica expectation wurst vulcan pluto
 1
 2 21
 2
-0 42 24 21
 0 36 3 2
+0 42 24 21
 1
 end_operator
 begin_operator
@@ -249775,8 +249775,8 @@ succumb sciatica learning bacon neptune vulcan
 1
 3 0
 2
-0 42 25 0
 0 37 1 3
+0 42 25 0
 1
 end_operator
 begin_operator
@@ -249784,8 +249784,8 @@ succumb sciatica learning bacon pluto jupiter
 1
 3 0
 2
-0 42 25 0
 0 37 2 0
+0 42 25 0
 1
 end_operator
 begin_operator
@@ -249793,8 +249793,8 @@ succumb sciatica learning bacon vulcan pluto
 1
 3 0
 2
-0 42 25 0
 0 37 3 2
+0 42 25 0
 1
 end_operator
 begin_operator
@@ -249802,8 +249802,8 @@ succumb sciatica learning broccoli neptune vulcan
 1
 3 1
 2
-0 42 25 1
 0 37 1 3
+0 42 25 1
 1
 end_operator
 begin_operator
@@ -249811,8 +249811,8 @@ succumb sciatica learning broccoli pluto jupiter
 1
 3 1
 2
-0 42 25 1
 0 37 2 0
+0 42 25 1
 1
 end_operator
 begin_operator
@@ -249820,8 +249820,8 @@ succumb sciatica learning broccoli vulcan pluto
 1
 3 1
 2
-0 42 25 1
 0 37 3 2
+0 42 25 1
 1
 end_operator
 begin_operator
@@ -249829,8 +249829,8 @@ succumb sciatica learning cantelope neptune vulcan
 1
 3 2
 2
-0 42 25 2
 0 37 1 3
+0 42 25 2
 1
 end_operator
 begin_operator
@@ -249838,8 +249838,8 @@ succumb sciatica learning cantelope pluto jupiter
 1
 3 2
 2
-0 42 25 2
 0 37 2 0
+0 42 25 2
 1
 end_operator
 begin_operator
@@ -249847,8 +249847,8 @@ succumb sciatica learning cantelope vulcan pluto
 1
 3 2
 2
-0 42 25 2
 0 37 3 2
+0 42 25 2
 1
 end_operator
 begin_operator
@@ -249856,8 +249856,8 @@ succumb sciatica learning chicken neptune vulcan
 1
 3 3
 2
-0 42 25 3
 0 37 1 3
+0 42 25 3
 1
 end_operator
 begin_operator
@@ -249865,8 +249865,8 @@ succumb sciatica learning chicken pluto jupiter
 1
 3 3
 2
-0 42 25 3
 0 37 2 0
+0 42 25 3
 1
 end_operator
 begin_operator
@@ -249874,8 +249874,8 @@ succumb sciatica learning chicken vulcan pluto
 1
 3 3
 2
-0 42 25 3
 0 37 3 2
+0 42 25 3
 1
 end_operator
 begin_operator
@@ -249883,8 +249883,8 @@ succumb sciatica learning chocolate neptune vulcan
 1
 3 4
 2
-0 42 25 4
 0 37 1 3
+0 42 25 4
 1
 end_operator
 begin_operator
@@ -249892,8 +249892,8 @@ succumb sciatica learning chocolate pluto jupiter
 1
 3 4
 2
-0 42 25 4
 0 37 2 0
+0 42 25 4
 1
 end_operator
 begin_operator
@@ -249901,8 +249901,8 @@ succumb sciatica learning chocolate vulcan pluto
 1
 3 4
 2
-0 42 25 4
 0 37 3 2
+0 42 25 4
 1
 end_operator
 begin_operator
@@ -249910,8 +249910,8 @@ succumb sciatica learning cucumber neptune vulcan
 1
 3 5
 2
-0 42 25 5
 0 37 1 3
+0 42 25 5
 1
 end_operator
 begin_operator
@@ -249919,8 +249919,8 @@ succumb sciatica learning cucumber pluto jupiter
 1
 3 5
 2
-0 42 25 5
 0 37 2 0
+0 42 25 5
 1
 end_operator
 begin_operator
@@ -249928,8 +249928,8 @@ succumb sciatica learning cucumber vulcan pluto
 1
 3 5
 2
-0 42 25 5
 0 37 3 2
+0 42 25 5
 1
 end_operator
 begin_operator
@@ -249937,8 +249937,8 @@ succumb sciatica learning endive neptune vulcan
 1
 3 6
 2
-0 42 25 6
 0 37 1 3
+0 42 25 6
 1
 end_operator
 begin_operator
@@ -249946,8 +249946,8 @@ succumb sciatica learning endive pluto jupiter
 1
 3 6
 2
-0 42 25 6
 0 37 2 0
+0 42 25 6
 1
 end_operator
 begin_operator
@@ -249955,8 +249955,8 @@ succumb sciatica learning endive vulcan pluto
 1
 3 6
 2
-0 42 25 6
 0 37 3 2
+0 42 25 6
 1
 end_operator
 begin_operator
@@ -249964,8 +249964,8 @@ succumb sciatica learning guava neptune vulcan
 1
 3 7
 2
-0 42 25 7
 0 37 1 3
+0 42 25 7
 1
 end_operator
 begin_operator
@@ -249973,8 +249973,8 @@ succumb sciatica learning guava pluto jupiter
 1
 3 7
 2
-0 42 25 7
 0 37 2 0
+0 42 25 7
 1
 end_operator
 begin_operator
@@ -249982,8 +249982,8 @@ succumb sciatica learning guava vulcan pluto
 1
 3 7
 2
-0 42 25 7
 0 37 3 2
+0 42 25 7
 1
 end_operator
 begin_operator
@@ -249991,8 +249991,8 @@ succumb sciatica learning haroset neptune vulcan
 1
 3 8
 2
-0 42 25 8
 0 37 1 3
+0 42 25 8
 1
 end_operator
 begin_operator
@@ -250000,8 +250000,8 @@ succumb sciatica learning haroset pluto jupiter
 1
 3 8
 2
-0 42 25 8
 0 37 2 0
+0 42 25 8
 1
 end_operator
 begin_operator
@@ -250009,8 +250009,8 @@ succumb sciatica learning haroset vulcan pluto
 1
 3 8
 2
-0 42 25 8
 0 37 3 2
+0 42 25 8
 1
 end_operator
 begin_operator
@@ -250018,8 +250018,8 @@ succumb sciatica learning hotdog neptune vulcan
 1
 3 9
 2
-0 42 25 9
 0 37 1 3
+0 42 25 9
 1
 end_operator
 begin_operator
@@ -250027,8 +250027,8 @@ succumb sciatica learning hotdog pluto jupiter
 1
 3 9
 2
-0 42 25 9
 0 37 2 0
+0 42 25 9
 1
 end_operator
 begin_operator
@@ -250036,8 +250036,8 @@ succumb sciatica learning hotdog vulcan pluto
 1
 3 9
 2
-0 42 25 9
 0 37 3 2
+0 42 25 9
 1
 end_operator
 begin_operator
@@ -250045,8 +250045,8 @@ succumb sciatica learning lemon neptune vulcan
 1
 3 10
 2
-0 42 25 10
 0 37 1 3
+0 42 25 10
 1
 end_operator
 begin_operator
@@ -250054,8 +250054,8 @@ succumb sciatica learning lemon pluto jupiter
 1
 3 10
 2
-0 42 25 10
 0 37 2 0
+0 42 25 10
 1
 end_operator
 begin_operator
@@ -250063,8 +250063,8 @@ succumb sciatica learning lemon vulcan pluto
 1
 3 10
 2
-0 42 25 10
 0 37 3 2
+0 42 25 10
 1
 end_operator
 begin_operator
@@ -250072,8 +250072,8 @@ succumb sciatica learning marzipan neptune vulcan
 1
 3 11
 2
-0 42 25 11
 0 37 1 3
+0 42 25 11
 1
 end_operator
 begin_operator
@@ -250081,8 +250081,8 @@ succumb sciatica learning marzipan pluto jupiter
 1
 3 11
 2
-0 42 25 11
 0 37 2 0
+0 42 25 11
 1
 end_operator
 begin_operator
@@ -250090,8 +250090,8 @@ succumb sciatica learning marzipan vulcan pluto
 1
 3 11
 2
-0 42 25 11
 0 37 3 2
+0 42 25 11
 1
 end_operator
 begin_operator
@@ -250099,8 +250099,8 @@ succumb sciatica learning orange neptune vulcan
 1
 3 12
 2
-0 42 25 12
 0 37 1 3
+0 42 25 12
 1
 end_operator
 begin_operator
@@ -250108,8 +250108,8 @@ succumb sciatica learning orange pluto jupiter
 1
 3 12
 2
-0 42 25 12
 0 37 2 0
+0 42 25 12
 1
 end_operator
 begin_operator
@@ -250117,8 +250117,8 @@ succumb sciatica learning orange vulcan pluto
 1
 3 12
 2
-0 42 25 12
 0 37 3 2
+0 42 25 12
 1
 end_operator
 begin_operator
@@ -250126,8 +250126,8 @@ succumb sciatica learning pea neptune vulcan
 1
 3 13
 2
-0 42 25 13
 0 37 1 3
+0 42 25 13
 1
 end_operator
 begin_operator
@@ -250135,8 +250135,8 @@ succumb sciatica learning pea pluto jupiter
 1
 3 13
 2
-0 42 25 13
 0 37 2 0
+0 42 25 13
 1
 end_operator
 begin_operator
@@ -250144,8 +250144,8 @@ succumb sciatica learning pea vulcan pluto
 1
 3 13
 2
-0 42 25 13
 0 37 3 2
+0 42 25 13
 1
 end_operator
 begin_operator
@@ -250153,8 +250153,8 @@ succumb sciatica learning pepper neptune vulcan
 1
 3 14
 2
-0 42 25 14
 0 37 1 3
+0 42 25 14
 1
 end_operator
 begin_operator
@@ -250162,8 +250162,8 @@ succumb sciatica learning pepper pluto jupiter
 1
 3 14
 2
-0 42 25 14
 0 37 2 0
+0 42 25 14
 1
 end_operator
 begin_operator
@@ -250171,8 +250171,8 @@ succumb sciatica learning pepper vulcan pluto
 1
 3 14
 2
-0 42 25 14
 0 37 3 2
+0 42 25 14
 1
 end_operator
 begin_operator
@@ -250180,8 +250180,8 @@ succumb sciatica learning potato neptune vulcan
 1
 3 15
 2
-0 42 25 15
 0 37 1 3
+0 42 25 15
 1
 end_operator
 begin_operator
@@ -250189,8 +250189,8 @@ succumb sciatica learning potato pluto jupiter
 1
 3 15
 2
-0 42 25 15
 0 37 2 0
+0 42 25 15
 1
 end_operator
 begin_operator
@@ -250198,8 +250198,8 @@ succumb sciatica learning potato vulcan pluto
 1
 3 15
 2
-0 42 25 15
 0 37 3 2
+0 42 25 15
 1
 end_operator
 begin_operator
@@ -250207,8 +250207,8 @@ succumb sciatica learning rice neptune vulcan
 1
 3 16
 2
-0 42 25 16
 0 37 1 3
+0 42 25 16
 1
 end_operator
 begin_operator
@@ -250216,8 +250216,8 @@ succumb sciatica learning rice pluto jupiter
 1
 3 16
 2
-0 42 25 16
 0 37 2 0
+0 42 25 16
 1
 end_operator
 begin_operator
@@ -250225,8 +250225,8 @@ succumb sciatica learning rice vulcan pluto
 1
 3 16
 2
-0 42 25 16
 0 37 3 2
+0 42 25 16
 1
 end_operator
 begin_operator
@@ -250234,8 +250234,8 @@ succumb sciatica learning scallop neptune vulcan
 1
 3 17
 2
-0 42 25 17
 0 37 1 3
+0 42 25 17
 1
 end_operator
 begin_operator
@@ -250243,8 +250243,8 @@ succumb sciatica learning scallop pluto jupiter
 1
 3 17
 2
-0 42 25 17
 0 37 2 0
+0 42 25 17
 1
 end_operator
 begin_operator
@@ -250252,8 +250252,8 @@ succumb sciatica learning scallop vulcan pluto
 1
 3 17
 2
-0 42 25 17
 0 37 3 2
+0 42 25 17
 1
 end_operator
 begin_operator
@@ -250261,8 +250261,8 @@ succumb sciatica learning tofu neptune vulcan
 1
 3 18
 2
-0 42 25 18
 0 37 1 3
+0 42 25 18
 1
 end_operator
 begin_operator
@@ -250270,8 +250270,8 @@ succumb sciatica learning tofu pluto jupiter
 1
 3 18
 2
-0 42 25 18
 0 37 2 0
+0 42 25 18
 1
 end_operator
 begin_operator
@@ -250279,8 +250279,8 @@ succumb sciatica learning tofu vulcan pluto
 1
 3 18
 2
-0 42 25 18
 0 37 3 2
+0 42 25 18
 1
 end_operator
 begin_operator
@@ -250288,8 +250288,8 @@ succumb sciatica learning turkey neptune vulcan
 1
 3 19
 2
-0 42 25 19
 0 37 1 3
+0 42 25 19
 1
 end_operator
 begin_operator
@@ -250297,8 +250297,8 @@ succumb sciatica learning turkey pluto jupiter
 1
 3 19
 2
-0 42 25 19
 0 37 2 0
+0 42 25 19
 1
 end_operator
 begin_operator
@@ -250306,8 +250306,8 @@ succumb sciatica learning turkey vulcan pluto
 1
 3 19
 2
-0 42 25 19
 0 37 3 2
+0 42 25 19
 1
 end_operator
 begin_operator
@@ -250315,8 +250315,8 @@ succumb sciatica learning wonderbread neptune vulcan
 1
 3 20
 2
-0 42 25 20
 0 37 1 3
+0 42 25 20
 1
 end_operator
 begin_operator
@@ -250324,8 +250324,8 @@ succumb sciatica learning wonderbread pluto jupiter
 1
 3 20
 2
-0 42 25 20
 0 37 2 0
+0 42 25 20
 1
 end_operator
 begin_operator
@@ -250333,8 +250333,8 @@ succumb sciatica learning wonderbread vulcan pluto
 1
 3 20
 2
-0 42 25 20
 0 37 3 2
+0 42 25 20
 1
 end_operator
 begin_operator
@@ -250342,8 +250342,8 @@ succumb sciatica learning wurst neptune vulcan
 1
 3 21
 2
-0 42 25 21
 0 37 1 3
+0 42 25 21
 1
 end_operator
 begin_operator
@@ -250351,8 +250351,8 @@ succumb sciatica learning wurst pluto jupiter
 1
 3 21
 2
-0 42 25 21
 0 37 2 0
+0 42 25 21
 1
 end_operator
 begin_operator
@@ -250360,8 +250360,8 @@ succumb sciatica learning wurst vulcan pluto
 1
 3 21
 2
-0 42 25 21
 0 37 3 2
+0 42 25 21
 1
 end_operator
 begin_operator
@@ -250369,8 +250369,8 @@ succumb sciatica rest bacon neptune vulcan
 1
 4 0
 2
-0 42 26 0
 0 40 1 3
+0 42 26 0
 1
 end_operator
 begin_operator
@@ -250378,8 +250378,8 @@ succumb sciatica rest bacon pluto jupiter
 1
 4 0
 2
-0 42 26 0
 0 40 2 0
+0 42 26 0
 1
 end_operator
 begin_operator
@@ -250387,8 +250387,8 @@ succumb sciatica rest bacon vulcan pluto
 1
 4 0
 2
-0 42 26 0
 0 40 3 2
+0 42 26 0
 1
 end_operator
 begin_operator
@@ -250396,8 +250396,8 @@ succumb sciatica rest broccoli neptune vulcan
 1
 4 1
 2
-0 42 26 1
 0 40 1 3
+0 42 26 1
 1
 end_operator
 begin_operator
@@ -250405,8 +250405,8 @@ succumb sciatica rest broccoli pluto jupiter
 1
 4 1
 2
-0 42 26 1
 0 40 2 0
+0 42 26 1
 1
 end_operator
 begin_operator
@@ -250414,8 +250414,8 @@ succumb sciatica rest broccoli vulcan pluto
 1
 4 1
 2
-0 42 26 1
 0 40 3 2
+0 42 26 1
 1
 end_operator
 begin_operator
@@ -250423,8 +250423,8 @@ succumb sciatica rest cantelope neptune vulcan
 1
 4 2
 2
-0 42 26 2
 0 40 1 3
+0 42 26 2
 1
 end_operator
 begin_operator
@@ -250432,8 +250432,8 @@ succumb sciatica rest cantelope pluto jupiter
 1
 4 2
 2
-0 42 26 2
 0 40 2 0
+0 42 26 2
 1
 end_operator
 begin_operator
@@ -250441,8 +250441,8 @@ succumb sciatica rest cantelope vulcan pluto
 1
 4 2
 2
-0 42 26 2
 0 40 3 2
+0 42 26 2
 1
 end_operator
 begin_operator
@@ -250450,8 +250450,8 @@ succumb sciatica rest chicken neptune vulcan
 1
 4 3
 2
-0 42 26 3
 0 40 1 3
+0 42 26 3
 1
 end_operator
 begin_operator
@@ -250459,8 +250459,8 @@ succumb sciatica rest chicken pluto jupiter
 1
 4 3
 2
-0 42 26 3
 0 40 2 0
+0 42 26 3
 1
 end_operator
 begin_operator
@@ -250468,8 +250468,8 @@ succumb sciatica rest chicken vulcan pluto
 1
 4 3
 2
-0 42 26 3
 0 40 3 2
+0 42 26 3
 1
 end_operator
 begin_operator
@@ -250477,8 +250477,8 @@ succumb sciatica rest chocolate neptune vulcan
 1
 4 4
 2
-0 42 26 4
 0 40 1 3
+0 42 26 4
 1
 end_operator
 begin_operator
@@ -250486,8 +250486,8 @@ succumb sciatica rest chocolate pluto jupiter
 1
 4 4
 2
-0 42 26 4
 0 40 2 0
+0 42 26 4
 1
 end_operator
 begin_operator
@@ -250495,8 +250495,8 @@ succumb sciatica rest chocolate vulcan pluto
 1
 4 4
 2
-0 42 26 4
 0 40 3 2
+0 42 26 4
 1
 end_operator
 begin_operator
@@ -250504,8 +250504,8 @@ succumb sciatica rest cucumber neptune vulcan
 1
 4 5
 2
-0 42 26 5
 0 40 1 3
+0 42 26 5
 1
 end_operator
 begin_operator
@@ -250513,8 +250513,8 @@ succumb sciatica rest cucumber pluto jupiter
 1
 4 5
 2
-0 42 26 5
 0 40 2 0
+0 42 26 5
 1
 end_operator
 begin_operator
@@ -250522,8 +250522,8 @@ succumb sciatica rest cucumber vulcan pluto
 1
 4 5
 2
-0 42 26 5
 0 40 3 2
+0 42 26 5
 1
 end_operator
 begin_operator
@@ -250531,8 +250531,8 @@ succumb sciatica rest endive neptune vulcan
 1
 4 6
 2
-0 42 26 6
 0 40 1 3
+0 42 26 6
 1
 end_operator
 begin_operator
@@ -250540,8 +250540,8 @@ succumb sciatica rest endive pluto jupiter
 1
 4 6
 2
-0 42 26 6
 0 40 2 0
+0 42 26 6
 1
 end_operator
 begin_operator
@@ -250549,8 +250549,8 @@ succumb sciatica rest endive vulcan pluto
 1
 4 6
 2
-0 42 26 6
 0 40 3 2
+0 42 26 6
 1
 end_operator
 begin_operator
@@ -250558,8 +250558,8 @@ succumb sciatica rest guava neptune vulcan
 1
 4 7
 2
-0 42 26 7
 0 40 1 3
+0 42 26 7
 1
 end_operator
 begin_operator
@@ -250567,8 +250567,8 @@ succumb sciatica rest guava pluto jupiter
 1
 4 7
 2
-0 42 26 7
 0 40 2 0
+0 42 26 7
 1
 end_operator
 begin_operator
@@ -250576,8 +250576,8 @@ succumb sciatica rest guava vulcan pluto
 1
 4 7
 2
-0 42 26 7
 0 40 3 2
+0 42 26 7
 1
 end_operator
 begin_operator
@@ -250585,8 +250585,8 @@ succumb sciatica rest haroset neptune vulcan
 1
 4 8
 2
-0 42 26 8
 0 40 1 3
+0 42 26 8
 1
 end_operator
 begin_operator
@@ -250594,8 +250594,8 @@ succumb sciatica rest haroset pluto jupiter
 1
 4 8
 2
-0 42 26 8
 0 40 2 0
+0 42 26 8
 1
 end_operator
 begin_operator
@@ -250603,8 +250603,8 @@ succumb sciatica rest haroset vulcan pluto
 1
 4 8
 2
-0 42 26 8
 0 40 3 2
+0 42 26 8
 1
 end_operator
 begin_operator
@@ -250612,8 +250612,8 @@ succumb sciatica rest hotdog neptune vulcan
 1
 4 9
 2
-0 42 26 9
 0 40 1 3
+0 42 26 9
 1
 end_operator
 begin_operator
@@ -250621,8 +250621,8 @@ succumb sciatica rest hotdog pluto jupiter
 1
 4 9
 2
-0 42 26 9
 0 40 2 0
+0 42 26 9
 1
 end_operator
 begin_operator
@@ -250630,8 +250630,8 @@ succumb sciatica rest hotdog vulcan pluto
 1
 4 9
 2
-0 42 26 9
 0 40 3 2
+0 42 26 9
 1
 end_operator
 begin_operator
@@ -250639,8 +250639,8 @@ succumb sciatica rest lemon neptune vulcan
 1
 4 10
 2
-0 42 26 10
 0 40 1 3
+0 42 26 10
 1
 end_operator
 begin_operator
@@ -250648,8 +250648,8 @@ succumb sciatica rest lemon pluto jupiter
 1
 4 10
 2
-0 42 26 10
 0 40 2 0
+0 42 26 10
 1
 end_operator
 begin_operator
@@ -250657,8 +250657,8 @@ succumb sciatica rest lemon vulcan pluto
 1
 4 10
 2
-0 42 26 10
 0 40 3 2
+0 42 26 10
 1
 end_operator
 begin_operator
@@ -250666,8 +250666,8 @@ succumb sciatica rest marzipan neptune vulcan
 1
 4 11
 2
-0 42 26 11
 0 40 1 3
+0 42 26 11
 1
 end_operator
 begin_operator
@@ -250675,8 +250675,8 @@ succumb sciatica rest marzipan pluto jupiter
 1
 4 11
 2
-0 42 26 11
 0 40 2 0
+0 42 26 11
 1
 end_operator
 begin_operator
@@ -250684,8 +250684,8 @@ succumb sciatica rest marzipan vulcan pluto
 1
 4 11
 2
-0 42 26 11
 0 40 3 2
+0 42 26 11
 1
 end_operator
 begin_operator
@@ -250693,8 +250693,8 @@ succumb sciatica rest orange neptune vulcan
 1
 4 12
 2
-0 42 26 12
 0 40 1 3
+0 42 26 12
 1
 end_operator
 begin_operator
@@ -250702,8 +250702,8 @@ succumb sciatica rest orange pluto jupiter
 1
 4 12
 2
-0 42 26 12
 0 40 2 0
+0 42 26 12
 1
 end_operator
 begin_operator
@@ -250711,8 +250711,8 @@ succumb sciatica rest orange vulcan pluto
 1
 4 12
 2
-0 42 26 12
 0 40 3 2
+0 42 26 12
 1
 end_operator
 begin_operator
@@ -250720,8 +250720,8 @@ succumb sciatica rest pea neptune vulcan
 1
 4 13
 2
-0 42 26 13
 0 40 1 3
+0 42 26 13
 1
 end_operator
 begin_operator
@@ -250729,8 +250729,8 @@ succumb sciatica rest pea pluto jupiter
 1
 4 13
 2
-0 42 26 13
 0 40 2 0
+0 42 26 13
 1
 end_operator
 begin_operator
@@ -250738,8 +250738,8 @@ succumb sciatica rest pea vulcan pluto
 1
 4 13
 2
-0 42 26 13
 0 40 3 2
+0 42 26 13
 1
 end_operator
 begin_operator
@@ -250747,8 +250747,8 @@ succumb sciatica rest pepper neptune vulcan
 1
 4 14
 2
-0 42 26 14
 0 40 1 3
+0 42 26 14
 1
 end_operator
 begin_operator
@@ -250756,8 +250756,8 @@ succumb sciatica rest pepper pluto jupiter
 1
 4 14
 2
-0 42 26 14
 0 40 2 0
+0 42 26 14
 1
 end_operator
 begin_operator
@@ -250765,8 +250765,8 @@ succumb sciatica rest pepper vulcan pluto
 1
 4 14
 2
-0 42 26 14
 0 40 3 2
+0 42 26 14
 1
 end_operator
 begin_operator
@@ -250774,8 +250774,8 @@ succumb sciatica rest potato neptune vulcan
 1
 4 15
 2
-0 42 26 15
 0 40 1 3
+0 42 26 15
 1
 end_operator
 begin_operator
@@ -250783,8 +250783,8 @@ succumb sciatica rest potato pluto jupiter
 1
 4 15
 2
-0 42 26 15
 0 40 2 0
+0 42 26 15
 1
 end_operator
 begin_operator
@@ -250792,8 +250792,8 @@ succumb sciatica rest potato vulcan pluto
 1
 4 15
 2
-0 42 26 15
 0 40 3 2
+0 42 26 15
 1
 end_operator
 begin_operator
@@ -250801,8 +250801,8 @@ succumb sciatica rest rice neptune vulcan
 1
 4 16
 2
-0 42 26 16
 0 40 1 3
+0 42 26 16
 1
 end_operator
 begin_operator
@@ -250810,8 +250810,8 @@ succumb sciatica rest rice pluto jupiter
 1
 4 16
 2
-0 42 26 16
 0 40 2 0
+0 42 26 16
 1
 end_operator
 begin_operator
@@ -250819,8 +250819,8 @@ succumb sciatica rest rice vulcan pluto
 1
 4 16
 2
-0 42 26 16
 0 40 3 2
+0 42 26 16
 1
 end_operator
 begin_operator
@@ -250828,8 +250828,8 @@ succumb sciatica rest scallop neptune vulcan
 1
 4 17
 2
-0 42 26 17
 0 40 1 3
+0 42 26 17
 1
 end_operator
 begin_operator
@@ -250837,8 +250837,8 @@ succumb sciatica rest scallop pluto jupiter
 1
 4 17
 2
-0 42 26 17
 0 40 2 0
+0 42 26 17
 1
 end_operator
 begin_operator
@@ -250846,8 +250846,8 @@ succumb sciatica rest scallop vulcan pluto
 1
 4 17
 2
-0 42 26 17
 0 40 3 2
+0 42 26 17
 1
 end_operator
 begin_operator
@@ -250855,8 +250855,8 @@ succumb sciatica rest tofu neptune vulcan
 1
 4 18
 2
-0 42 26 18
 0 40 1 3
+0 42 26 18
 1
 end_operator
 begin_operator
@@ -250864,8 +250864,8 @@ succumb sciatica rest tofu pluto jupiter
 1
 4 18
 2
-0 42 26 18
 0 40 2 0
+0 42 26 18
 1
 end_operator
 begin_operator
@@ -250873,8 +250873,8 @@ succumb sciatica rest tofu vulcan pluto
 1
 4 18
 2
-0 42 26 18
 0 40 3 2
+0 42 26 18
 1
 end_operator
 begin_operator
@@ -250882,8 +250882,8 @@ succumb sciatica rest turkey neptune vulcan
 1
 4 19
 2
-0 42 26 19
 0 40 1 3
+0 42 26 19
 1
 end_operator
 begin_operator
@@ -250891,8 +250891,8 @@ succumb sciatica rest turkey pluto jupiter
 1
 4 19
 2
-0 42 26 19
 0 40 2 0
+0 42 26 19
 1
 end_operator
 begin_operator
@@ -250900,8 +250900,8 @@ succumb sciatica rest turkey vulcan pluto
 1
 4 19
 2
-0 42 26 19
 0 40 3 2
+0 42 26 19
 1
 end_operator
 begin_operator
@@ -250909,8 +250909,8 @@ succumb sciatica rest wonderbread neptune vulcan
 1
 4 20
 2
-0 42 26 20
 0 40 1 3
+0 42 26 20
 1
 end_operator
 begin_operator
@@ -250918,8 +250918,8 @@ succumb sciatica rest wonderbread pluto jupiter
 1
 4 20
 2
-0 42 26 20
 0 40 2 0
+0 42 26 20
 1
 end_operator
 begin_operator
@@ -250927,8 +250927,8 @@ succumb sciatica rest wonderbread vulcan pluto
 1
 4 20
 2
-0 42 26 20
 0 40 3 2
+0 42 26 20
 1
 end_operator
 begin_operator
@@ -250936,8 +250936,8 @@ succumb sciatica rest wurst neptune vulcan
 1
 4 21
 2
-0 42 26 21
 0 40 1 3
+0 42 26 21
 1
 end_operator
 begin_operator
@@ -250945,8 +250945,8 @@ succumb sciatica rest wurst pluto jupiter
 1
 4 21
 2
-0 42 26 21
 0 40 2 0
+0 42 26 21
 1
 end_operator
 begin_operator
@@ -250954,8 +250954,8 @@ succumb sciatica rest wurst vulcan pluto
 1
 4 21
 2
-0 42 26 21
 0 40 3 2
+0 42 26 21
 1
 end_operator
 begin_operator
@@ -250963,8 +250963,8 @@ succumb sciatica satisfaction bacon neptune vulcan
 1
 5 0
 2
-0 42 27 0
 0 41 1 3
+0 42 27 0
 1
 end_operator
 begin_operator
@@ -250972,8 +250972,8 @@ succumb sciatica satisfaction bacon pluto jupiter
 1
 5 0
 2
-0 42 27 0
 0 41 2 0
+0 42 27 0
 1
 end_operator
 begin_operator
@@ -250981,8 +250981,8 @@ succumb sciatica satisfaction bacon vulcan pluto
 1
 5 0
 2
-0 42 27 0
 0 41 3 2
+0 42 27 0
 1
 end_operator
 begin_operator
@@ -250990,8 +250990,8 @@ succumb sciatica satisfaction broccoli neptune vulcan
 1
 5 1
 2
-0 42 27 1
 0 41 1 3
+0 42 27 1
 1
 end_operator
 begin_operator
@@ -250999,8 +250999,8 @@ succumb sciatica satisfaction broccoli pluto jupiter
 1
 5 1
 2
-0 42 27 1
 0 41 2 0
+0 42 27 1
 1
 end_operator
 begin_operator
@@ -251008,8 +251008,8 @@ succumb sciatica satisfaction broccoli vulcan pluto
 1
 5 1
 2
-0 42 27 1
 0 41 3 2
+0 42 27 1
 1
 end_operator
 begin_operator
@@ -251017,8 +251017,8 @@ succumb sciatica satisfaction cantelope neptune vulcan
 1
 5 2
 2
-0 42 27 2
 0 41 1 3
+0 42 27 2
 1
 end_operator
 begin_operator
@@ -251026,8 +251026,8 @@ succumb sciatica satisfaction cantelope pluto jupiter
 1
 5 2
 2
-0 42 27 2
 0 41 2 0
+0 42 27 2
 1
 end_operator
 begin_operator
@@ -251035,8 +251035,8 @@ succumb sciatica satisfaction cantelope vulcan pluto
 1
 5 2
 2
-0 42 27 2
 0 41 3 2
+0 42 27 2
 1
 end_operator
 begin_operator
@@ -251044,8 +251044,8 @@ succumb sciatica satisfaction chicken neptune vulcan
 1
 5 3
 2
-0 42 27 3
 0 41 1 3
+0 42 27 3
 1
 end_operator
 begin_operator
@@ -251053,8 +251053,8 @@ succumb sciatica satisfaction chicken pluto jupiter
 1
 5 3
 2
-0 42 27 3
 0 41 2 0
+0 42 27 3
 1
 end_operator
 begin_operator
@@ -251062,8 +251062,8 @@ succumb sciatica satisfaction chicken vulcan pluto
 1
 5 3
 2
-0 42 27 3
 0 41 3 2
+0 42 27 3
 1
 end_operator
 begin_operator
@@ -251071,8 +251071,8 @@ succumb sciatica satisfaction chocolate neptune vulcan
 1
 5 4
 2
-0 42 27 4
 0 41 1 3
+0 42 27 4
 1
 end_operator
 begin_operator
@@ -251080,8 +251080,8 @@ succumb sciatica satisfaction chocolate pluto jupiter
 1
 5 4
 2
-0 42 27 4
 0 41 2 0
+0 42 27 4
 1
 end_operator
 begin_operator
@@ -251089,8 +251089,8 @@ succumb sciatica satisfaction chocolate vulcan pluto
 1
 5 4
 2
-0 42 27 4
 0 41 3 2
+0 42 27 4
 1
 end_operator
 begin_operator
@@ -251098,8 +251098,8 @@ succumb sciatica satisfaction cucumber neptune vulcan
 1
 5 5
 2
-0 42 27 5
 0 41 1 3
+0 42 27 5
 1
 end_operator
 begin_operator
@@ -251107,8 +251107,8 @@ succumb sciatica satisfaction cucumber pluto jupiter
 1
 5 5
 2
-0 42 27 5
 0 41 2 0
+0 42 27 5
 1
 end_operator
 begin_operator
@@ -251116,8 +251116,8 @@ succumb sciatica satisfaction cucumber vulcan pluto
 1
 5 5
 2
-0 42 27 5
 0 41 3 2
+0 42 27 5
 1
 end_operator
 begin_operator
@@ -251125,8 +251125,8 @@ succumb sciatica satisfaction endive neptune vulcan
 1
 5 6
 2
-0 42 27 6
 0 41 1 3
+0 42 27 6
 1
 end_operator
 begin_operator
@@ -251134,8 +251134,8 @@ succumb sciatica satisfaction endive pluto jupiter
 1
 5 6
 2
-0 42 27 6
 0 41 2 0
+0 42 27 6
 1
 end_operator
 begin_operator
@@ -251143,8 +251143,8 @@ succumb sciatica satisfaction endive vulcan pluto
 1
 5 6
 2
-0 42 27 6
 0 41 3 2
+0 42 27 6
 1
 end_operator
 begin_operator
@@ -251152,8 +251152,8 @@ succumb sciatica satisfaction guava neptune vulcan
 1
 5 7
 2
-0 42 27 7
 0 41 1 3
+0 42 27 7
 1
 end_operator
 begin_operator
@@ -251161,8 +251161,8 @@ succumb sciatica satisfaction guava pluto jupiter
 1
 5 7
 2
-0 42 27 7
 0 41 2 0
+0 42 27 7
 1
 end_operator
 begin_operator
@@ -251170,8 +251170,8 @@ succumb sciatica satisfaction guava vulcan pluto
 1
 5 7
 2
-0 42 27 7
 0 41 3 2
+0 42 27 7
 1
 end_operator
 begin_operator
@@ -251179,8 +251179,8 @@ succumb sciatica satisfaction haroset neptune vulcan
 1
 5 8
 2
-0 42 27 8
 0 41 1 3
+0 42 27 8
 1
 end_operator
 begin_operator
@@ -251188,8 +251188,8 @@ succumb sciatica satisfaction haroset pluto jupiter
 1
 5 8
 2
-0 42 27 8
 0 41 2 0
+0 42 27 8
 1
 end_operator
 begin_operator
@@ -251197,8 +251197,8 @@ succumb sciatica satisfaction haroset vulcan pluto
 1
 5 8
 2
-0 42 27 8
 0 41 3 2
+0 42 27 8
 1
 end_operator
 begin_operator
@@ -251206,8 +251206,8 @@ succumb sciatica satisfaction hotdog neptune vulcan
 1
 5 9
 2
-0 42 27 9
 0 41 1 3
+0 42 27 9
 1
 end_operator
 begin_operator
@@ -251215,8 +251215,8 @@ succumb sciatica satisfaction hotdog pluto jupiter
 1
 5 9
 2
-0 42 27 9
 0 41 2 0
+0 42 27 9
 1
 end_operator
 begin_operator
@@ -251224,8 +251224,8 @@ succumb sciatica satisfaction hotdog vulcan pluto
 1
 5 9
 2
-0 42 27 9
 0 41 3 2
+0 42 27 9
 1
 end_operator
 begin_operator
@@ -251233,8 +251233,8 @@ succumb sciatica satisfaction lemon neptune vulcan
 1
 5 10
 2
-0 42 27 10
 0 41 1 3
+0 42 27 10
 1
 end_operator
 begin_operator
@@ -251242,8 +251242,8 @@ succumb sciatica satisfaction lemon pluto jupiter
 1
 5 10
 2
-0 42 27 10
 0 41 2 0
+0 42 27 10
 1
 end_operator
 begin_operator
@@ -251251,8 +251251,8 @@ succumb sciatica satisfaction lemon vulcan pluto
 1
 5 10
 2
-0 42 27 10
 0 41 3 2
+0 42 27 10
 1
 end_operator
 begin_operator
@@ -251260,8 +251260,8 @@ succumb sciatica satisfaction marzipan neptune vulcan
 1
 5 11
 2
-0 42 27 11
 0 41 1 3
+0 42 27 11
 1
 end_operator
 begin_operator
@@ -251269,8 +251269,8 @@ succumb sciatica satisfaction marzipan pluto jupiter
 1
 5 11
 2
-0 42 27 11
 0 41 2 0
+0 42 27 11
 1
 end_operator
 begin_operator
@@ -251278,8 +251278,8 @@ succumb sciatica satisfaction marzipan vulcan pluto
 1
 5 11
 2
-0 42 27 11
 0 41 3 2
+0 42 27 11
 1
 end_operator
 begin_operator
@@ -251287,8 +251287,8 @@ succumb sciatica satisfaction orange neptune vulcan
 1
 5 12
 2
-0 42 27 12
 0 41 1 3
+0 42 27 12
 1
 end_operator
 begin_operator
@@ -251296,8 +251296,8 @@ succumb sciatica satisfaction orange pluto jupiter
 1
 5 12
 2
-0 42 27 12
 0 41 2 0
+0 42 27 12
 1
 end_operator
 begin_operator
@@ -251305,8 +251305,8 @@ succumb sciatica satisfaction orange vulcan pluto
 1
 5 12
 2
-0 42 27 12
 0 41 3 2
+0 42 27 12
 1
 end_operator
 begin_operator
@@ -251314,8 +251314,8 @@ succumb sciatica satisfaction pea neptune vulcan
 1
 5 13
 2
-0 42 27 13
 0 41 1 3
+0 42 27 13
 1
 end_operator
 begin_operator
@@ -251323,8 +251323,8 @@ succumb sciatica satisfaction pea pluto jupiter
 1
 5 13
 2
-0 42 27 13
 0 41 2 0
+0 42 27 13
 1
 end_operator
 begin_operator
@@ -251332,8 +251332,8 @@ succumb sciatica satisfaction pea vulcan pluto
 1
 5 13
 2
-0 42 27 13
 0 41 3 2
+0 42 27 13
 1
 end_operator
 begin_operator
@@ -251341,8 +251341,8 @@ succumb sciatica satisfaction pepper neptune vulcan
 1
 5 14
 2
-0 42 27 14
 0 41 1 3
+0 42 27 14
 1
 end_operator
 begin_operator
@@ -251350,8 +251350,8 @@ succumb sciatica satisfaction pepper pluto jupiter
 1
 5 14
 2
-0 42 27 14
 0 41 2 0
+0 42 27 14
 1
 end_operator
 begin_operator
@@ -251359,8 +251359,8 @@ succumb sciatica satisfaction pepper vulcan pluto
 1
 5 14
 2
-0 42 27 14
 0 41 3 2
+0 42 27 14
 1
 end_operator
 begin_operator
@@ -251368,8 +251368,8 @@ succumb sciatica satisfaction potato neptune vulcan
 1
 5 15
 2
-0 42 27 15
 0 41 1 3
+0 42 27 15
 1
 end_operator
 begin_operator
@@ -251377,8 +251377,8 @@ succumb sciatica satisfaction potato pluto jupiter
 1
 5 15
 2
-0 42 27 15
 0 41 2 0
+0 42 27 15
 1
 end_operator
 begin_operator
@@ -251386,8 +251386,8 @@ succumb sciatica satisfaction potato vulcan pluto
 1
 5 15
 2
-0 42 27 15
 0 41 3 2
+0 42 27 15
 1
 end_operator
 begin_operator
@@ -251395,8 +251395,8 @@ succumb sciatica satisfaction rice neptune vulcan
 1
 5 16
 2
-0 42 27 16
 0 41 1 3
+0 42 27 16
 1
 end_operator
 begin_operator
@@ -251404,8 +251404,8 @@ succumb sciatica satisfaction rice pluto jupiter
 1
 5 16
 2
-0 42 27 16
 0 41 2 0
+0 42 27 16
 1
 end_operator
 begin_operator
@@ -251413,8 +251413,8 @@ succumb sciatica satisfaction rice vulcan pluto
 1
 5 16
 2
-0 42 27 16
 0 41 3 2
+0 42 27 16
 1
 end_operator
 begin_operator
@@ -251422,8 +251422,8 @@ succumb sciatica satisfaction scallop neptune vulcan
 1
 5 17
 2
-0 42 27 17
 0 41 1 3
+0 42 27 17
 1
 end_operator
 begin_operator
@@ -251431,8 +251431,8 @@ succumb sciatica satisfaction scallop pluto jupiter
 1
 5 17
 2
-0 42 27 17
 0 41 2 0
+0 42 27 17
 1
 end_operator
 begin_operator
@@ -251440,8 +251440,8 @@ succumb sciatica satisfaction scallop vulcan pluto
 1
 5 17
 2
-0 42 27 17
 0 41 3 2
+0 42 27 17
 1
 end_operator
 begin_operator
@@ -251449,8 +251449,8 @@ succumb sciatica satisfaction tofu neptune vulcan
 1
 5 18
 2
-0 42 27 18
 0 41 1 3
+0 42 27 18
 1
 end_operator
 begin_operator
@@ -251458,8 +251458,8 @@ succumb sciatica satisfaction tofu pluto jupiter
 1
 5 18
 2
-0 42 27 18
 0 41 2 0
+0 42 27 18
 1
 end_operator
 begin_operator
@@ -251467,8 +251467,8 @@ succumb sciatica satisfaction tofu vulcan pluto
 1
 5 18
 2
-0 42 27 18
 0 41 3 2
+0 42 27 18
 1
 end_operator
 begin_operator
@@ -251476,8 +251476,8 @@ succumb sciatica satisfaction turkey neptune vulcan
 1
 5 19
 2
-0 42 27 19
 0 41 1 3
+0 42 27 19
 1
 end_operator
 begin_operator
@@ -251485,8 +251485,8 @@ succumb sciatica satisfaction turkey pluto jupiter
 1
 5 19
 2
-0 42 27 19
 0 41 2 0
+0 42 27 19
 1
 end_operator
 begin_operator
@@ -251494,8 +251494,8 @@ succumb sciatica satisfaction turkey vulcan pluto
 1
 5 19
 2
-0 42 27 19
 0 41 3 2
+0 42 27 19
 1
 end_operator
 begin_operator
@@ -251503,8 +251503,8 @@ succumb sciatica satisfaction wonderbread neptune vulcan
 1
 5 20
 2
-0 42 27 20
 0 41 1 3
+0 42 27 20
 1
 end_operator
 begin_operator
@@ -251512,8 +251512,8 @@ succumb sciatica satisfaction wonderbread pluto jupiter
 1
 5 20
 2
-0 42 27 20
 0 41 2 0
+0 42 27 20
 1
 end_operator
 begin_operator
@@ -251521,8 +251521,8 @@ succumb sciatica satisfaction wonderbread vulcan pluto
 1
 5 20
 2
-0 42 27 20
 0 41 3 2
+0 42 27 20
 1
 end_operator
 begin_operator
@@ -251530,8 +251530,8 @@ succumb sciatica satisfaction wurst neptune vulcan
 1
 5 21
 2
-0 42 27 21
 0 41 1 3
+0 42 27 21
 1
 end_operator
 begin_operator
@@ -251539,8 +251539,8 @@ succumb sciatica satisfaction wurst pluto jupiter
 1
 5 21
 2
-0 42 27 21
 0 41 2 0
+0 42 27 21
 1
 end_operator
 begin_operator
@@ -251548,8 +251548,8 @@ succumb sciatica satisfaction wurst vulcan pluto
 1
 5 21
 2
-0 42 27 21
 0 41 3 2
+0 42 27 21
 1
 end_operator
 begin_operator

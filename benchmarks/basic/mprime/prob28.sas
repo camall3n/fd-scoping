@@ -7585,8 +7585,8 @@ overcome anger intoxication broccoli neptune vulcan
 1
 0 0
 2
-0 12 0 5
 0 11 2 1
+0 12 0 5
 1
 end_operator
 begin_operator
@@ -7594,8 +7594,8 @@ overcome anger intoxication broccoli vulcan earth
 1
 0 0
 2
-0 12 0 5
 0 11 0 2
+0 12 0 5
 1
 end_operator
 begin_operator
@@ -7603,8 +7603,8 @@ overcome anger intoxication lamb neptune vulcan
 1
 0 1
 2
-0 12 1 5
 0 11 2 1
+0 12 1 5
 1
 end_operator
 begin_operator
@@ -7612,8 +7612,8 @@ overcome anger intoxication lamb vulcan earth
 1
 0 1
 2
-0 12 1 5
 0 11 0 2
+0 12 1 5
 1
 end_operator
 begin_operator
@@ -7621,8 +7621,8 @@ overcome anger intoxication muffin neptune vulcan
 1
 0 2
 2
-0 12 2 5
 0 11 2 1
+0 12 2 5
 1
 end_operator
 begin_operator
@@ -7630,8 +7630,8 @@ overcome anger intoxication muffin vulcan earth
 1
 0 2
 2
-0 12 2 5
 0 11 0 2
+0 12 2 5
 1
 end_operator
 begin_operator
@@ -7639,8 +7639,8 @@ overcome anger intoxication shrimp neptune vulcan
 1
 0 3
 2
-0 12 3 5
 0 11 2 1
+0 12 3 5
 1
 end_operator
 begin_operator
@@ -7648,8 +7648,8 @@ overcome anger intoxication shrimp vulcan earth
 1
 0 3
 2
-0 12 3 5
 0 11 0 2
+0 12 3 5
 1
 end_operator
 begin_operator
@@ -7657,8 +7657,8 @@ overcome anger intoxication wurst neptune vulcan
 1
 0 4
 2
-0 12 4 5
 0 11 2 1
+0 12 4 5
 1
 end_operator
 begin_operator
@@ -7666,8 +7666,8 @@ overcome anger intoxication wurst vulcan earth
 1
 0 4
 2
-0 12 4 5
 0 11 0 2
+0 12 4 5
 1
 end_operator
 begin_operator
@@ -7855,8 +7855,8 @@ overcome boils intoxication broccoli neptune vulcan
 1
 0 0
 2
-0 13 0 5
 0 11 2 1
+0 13 0 5
 1
 end_operator
 begin_operator
@@ -7864,8 +7864,8 @@ overcome boils intoxication broccoli vulcan earth
 1
 0 0
 2
-0 13 0 5
 0 11 0 2
+0 13 0 5
 1
 end_operator
 begin_operator
@@ -7873,8 +7873,8 @@ overcome boils intoxication lamb neptune vulcan
 1
 0 1
 2
-0 13 1 5
 0 11 2 1
+0 13 1 5
 1
 end_operator
 begin_operator
@@ -7882,8 +7882,8 @@ overcome boils intoxication lamb vulcan earth
 1
 0 1
 2
-0 13 1 5
 0 11 0 2
+0 13 1 5
 1
 end_operator
 begin_operator
@@ -7891,8 +7891,8 @@ overcome boils intoxication muffin neptune vulcan
 1
 0 2
 2
-0 13 2 5
 0 11 2 1
+0 13 2 5
 1
 end_operator
 begin_operator
@@ -7900,8 +7900,8 @@ overcome boils intoxication muffin vulcan earth
 1
 0 2
 2
-0 13 2 5
 0 11 0 2
+0 13 2 5
 1
 end_operator
 begin_operator
@@ -7909,8 +7909,8 @@ overcome boils intoxication shrimp neptune vulcan
 1
 0 3
 2
-0 13 3 5
 0 11 2 1
+0 13 3 5
 1
 end_operator
 begin_operator
@@ -7918,8 +7918,8 @@ overcome boils intoxication shrimp vulcan earth
 1
 0 3
 2
-0 13 3 5
 0 11 0 2
+0 13 3 5
 1
 end_operator
 begin_operator
@@ -7927,8 +7927,8 @@ overcome boils intoxication wurst neptune vulcan
 1
 0 4
 2
-0 13 4 5
 0 11 2 1
+0 13 4 5
 1
 end_operator
 begin_operator
@@ -7936,8 +7936,8 @@ overcome boils intoxication wurst vulcan earth
 1
 0 4
 2
-0 13 4 5
 0 11 0 2
+0 13 4 5
 1
 end_operator
 begin_operator
@@ -8215,8 +8215,8 @@ succumb anger intoxication broccoli neptune vulcan
 1
 0 0
 2
-0 12 5 0
 0 11 1 2
+0 12 5 0
 1
 end_operator
 begin_operator
@@ -8224,8 +8224,8 @@ succumb anger intoxication broccoli vulcan earth
 1
 0 0
 2
-0 12 5 0
 0 11 2 0
+0 12 5 0
 1
 end_operator
 begin_operator
@@ -8233,8 +8233,8 @@ succumb anger intoxication lamb neptune vulcan
 1
 0 1
 2
-0 12 5 1
 0 11 1 2
+0 12 5 1
 1
 end_operator
 begin_operator
@@ -8242,8 +8242,8 @@ succumb anger intoxication lamb vulcan earth
 1
 0 1
 2
-0 12 5 1
 0 11 2 0
+0 12 5 1
 1
 end_operator
 begin_operator
@@ -8251,8 +8251,8 @@ succumb anger intoxication muffin neptune vulcan
 1
 0 2
 2
-0 12 5 2
 0 11 1 2
+0 12 5 2
 1
 end_operator
 begin_operator
@@ -8260,8 +8260,8 @@ succumb anger intoxication muffin vulcan earth
 1
 0 2
 2
-0 12 5 2
 0 11 2 0
+0 12 5 2
 1
 end_operator
 begin_operator
@@ -8269,8 +8269,8 @@ succumb anger intoxication shrimp neptune vulcan
 1
 0 3
 2
-0 12 5 3
 0 11 1 2
+0 12 5 3
 1
 end_operator
 begin_operator
@@ -8278,8 +8278,8 @@ succumb anger intoxication shrimp vulcan earth
 1
 0 3
 2
-0 12 5 3
 0 11 2 0
+0 12 5 3
 1
 end_operator
 begin_operator
@@ -8287,8 +8287,8 @@ succumb anger intoxication wurst neptune vulcan
 1
 0 4
 2
-0 12 5 4
 0 11 1 2
+0 12 5 4
 1
 end_operator
 begin_operator
@@ -8296,8 +8296,8 @@ succumb anger intoxication wurst vulcan earth
 1
 0 4
 2
-0 12 5 4
 0 11 2 0
+0 12 5 4
 1
 end_operator
 begin_operator
@@ -8485,8 +8485,8 @@ succumb boils intoxication broccoli neptune vulcan
 1
 0 0
 2
-0 13 5 0
 0 11 1 2
+0 13 5 0
 1
 end_operator
 begin_operator
@@ -8494,8 +8494,8 @@ succumb boils intoxication broccoli vulcan earth
 1
 0 0
 2
-0 13 5 0
 0 11 2 0
+0 13 5 0
 1
 end_operator
 begin_operator
@@ -8503,8 +8503,8 @@ succumb boils intoxication lamb neptune vulcan
 1
 0 1
 2
-0 13 5 1
 0 11 1 2
+0 13 5 1
 1
 end_operator
 begin_operator
@@ -8512,8 +8512,8 @@ succumb boils intoxication lamb vulcan earth
 1
 0 1
 2
-0 13 5 1
 0 11 2 0
+0 13 5 1
 1
 end_operator
 begin_operator
@@ -8521,8 +8521,8 @@ succumb boils intoxication muffin neptune vulcan
 1
 0 2
 2
-0 13 5 2
 0 11 1 2
+0 13 5 2
 1
 end_operator
 begin_operator
@@ -8530,8 +8530,8 @@ succumb boils intoxication muffin vulcan earth
 1
 0 2
 2
-0 13 5 2
 0 11 2 0
+0 13 5 2
 1
 end_operator
 begin_operator
@@ -8539,8 +8539,8 @@ succumb boils intoxication shrimp neptune vulcan
 1
 0 3
 2
-0 13 5 3
 0 11 1 2
+0 13 5 3
 1
 end_operator
 begin_operator
@@ -8548,8 +8548,8 @@ succumb boils intoxication shrimp vulcan earth
 1
 0 3
 2
-0 13 5 3
 0 11 2 0
+0 13 5 3
 1
 end_operator
 begin_operator
@@ -8557,8 +8557,8 @@ succumb boils intoxication wurst neptune vulcan
 1
 0 4
 2
-0 13 5 4
 0 11 1 2
+0 13 5 4
 1
 end_operator
 begin_operator
@@ -8566,8 +8566,8 @@ succumb boils intoxication wurst vulcan earth
 1
 0 4
 2
-0 13 5 4
 0 11 2 0
+0 13 5 4
 1
 end_operator
 begin_operator

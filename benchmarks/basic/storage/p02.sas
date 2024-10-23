@@ -90,8 +90,8 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 2
-6 0
 5 1
+6 0
 end_mutex_group
 begin_state
 1
@@ -115,10 +115,10 @@ drop hoist0 crate0 container-0-0 loadarea container0
 1
 0 3
 4
-0 4 -1 0
 0 2 0 1
-0 8 -1 0
+0 4 -1 0
 0 5 0 2
+0 8 -1 0
 1
 end_operator
 begin_operator
@@ -127,9 +127,9 @@ drop hoist0 crate0 depot0-1-1 depot0-1-2 depot0
 0 2
 4
 0 4 -1 0
+0 5 0 3
 0 7 0 1
 0 9 -1 0
-0 5 0 3
 1
 end_operator
 begin_operator
@@ -138,9 +138,9 @@ drop hoist0 crate0 depot0-1-1 loadarea depot0
 0 3
 4
 0 4 -1 0
+0 5 0 3
 0 7 0 1
 0 9 -1 0
-0 5 0 3
 1
 end_operator
 begin_operator
@@ -148,10 +148,10 @@ drop hoist0 crate0 depot0-1-2 depot0-1-1 depot0
 1
 0 1
 4
-0 4 -1 0
 0 3 0 1
-0 9 -1 0
+0 4 -1 0
 0 5 0 4
+0 9 -1 0
 1
 end_operator
 begin_operator
@@ -159,10 +159,10 @@ drop hoist1 crate0 container-0-0 loadarea container0
 1
 1 3
 4
-0 6 -1 0
 0 2 0 1
-0 8 -1 0
 0 5 1 2
+0 6 -1 0
+0 8 -1 0
 1
 end_operator
 begin_operator
@@ -170,10 +170,10 @@ drop hoist1 crate0 depot0-1-1 depot0-1-2 depot0
 1
 1 2
 4
+0 5 1 3
 0 6 -1 0
 0 7 0 1
 0 9 -1 0
-0 5 1 3
 1
 end_operator
 begin_operator
@@ -181,10 +181,10 @@ drop hoist1 crate0 depot0-1-1 loadarea depot0
 1
 1 3
 4
+0 5 1 3
 0 6 -1 0
 0 7 0 1
 0 9 -1 0
-0 5 1 3
 1
 end_operator
 begin_operator
@@ -192,10 +192,10 @@ drop hoist1 crate0 depot0-1-2 depot0-1-1 depot0
 1
 1 1
 4
-0 6 -1 0
 0 3 0 1
-0 9 -1 0
 0 5 1 4
+0 6 -1 0
+0 9 -1 0
 1
 end_operator
 begin_operator
@@ -267,10 +267,10 @@ lift hoist0 crate0 container-0-0 loadarea container0
 1
 0 3
 4
-0 4 0 1
 0 2 -1 0
-0 8 -1 1
+0 4 0 1
 0 5 2 0
+0 8 -1 1
 1
 end_operator
 begin_operator
@@ -279,9 +279,9 @@ lift hoist0 crate0 depot0-1-1 depot0-1-2 depot0
 0 2
 4
 0 4 0 1
+0 5 3 0
 0 7 -1 0
 0 9 -1 1
-0 5 3 0
 1
 end_operator
 begin_operator
@@ -290,9 +290,9 @@ lift hoist0 crate0 depot0-1-1 loadarea depot0
 0 3
 4
 0 4 0 1
+0 5 3 0
 0 7 -1 0
 0 9 -1 1
-0 5 3 0
 1
 end_operator
 begin_operator
@@ -300,10 +300,10 @@ lift hoist0 crate0 depot0-1-2 depot0-1-1 depot0
 1
 0 1
 4
-0 4 0 1
 0 3 -1 0
-0 9 -1 1
+0 4 0 1
 0 5 4 0
+0 9 -1 1
 1
 end_operator
 begin_operator
@@ -311,10 +311,10 @@ lift hoist1 crate0 container-0-0 loadarea container0
 1
 1 3
 4
-0 6 0 1
 0 2 -1 0
-0 8 -1 1
 0 5 2 1
+0 6 0 1
+0 8 -1 1
 1
 end_operator
 begin_operator
@@ -322,10 +322,10 @@ lift hoist1 crate0 depot0-1-1 depot0-1-2 depot0
 1
 1 2
 4
+0 5 3 1
 0 6 0 1
 0 7 -1 0
 0 9 -1 1
-0 5 3 1
 1
 end_operator
 begin_operator
@@ -333,10 +333,10 @@ lift hoist1 crate0 depot0-1-1 loadarea depot0
 1
 1 3
 4
+0 5 3 1
 0 6 0 1
 0 7 -1 0
 0 9 -1 1
-0 5 3 1
 1
 end_operator
 begin_operator
@@ -344,10 +344,10 @@ lift hoist1 crate0 depot0-1-2 depot0-1-1 depot0
 1
 1 1
 4
-0 6 0 1
 0 3 -1 0
-0 9 -1 1
 0 5 4 1
+0 6 0 1
+0 9 -1 1
 1
 end_operator
 begin_operator
@@ -355,8 +355,8 @@ move hoist0 depot0-1-1 depot0-1-2
 0
 3
 0 0 1 2
-0 7 -1 0
 0 3 0 1
+0 7 -1 0
 1
 end_operator
 begin_operator
@@ -364,8 +364,8 @@ move hoist0 depot0-1-2 depot0-1-1
 0
 3
 0 0 2 1
-0 7 0 1
 0 3 -1 0
+0 7 0 1
 1
 end_operator
 begin_operator
@@ -373,8 +373,8 @@ move hoist1 depot0-1-1 depot0-1-2
 0
 3
 0 1 1 2
-0 7 -1 0
 0 3 0 1
+0 7 -1 0
 1
 end_operator
 begin_operator
@@ -382,8 +382,8 @@ move hoist1 depot0-1-2 depot0-1-1
 0
 3
 0 1 2 1
-0 7 0 1
 0 3 -1 0
+0 7 0 1
 1
 end_operator
 0

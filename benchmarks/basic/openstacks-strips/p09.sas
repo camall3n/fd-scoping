@@ -901,6001 +901,6001 @@ end_goal
 begin_operator
 make-product-p1-n0 
 3
-103 1
-94 1
 28 0
+94 1
+103 1
 4
-0 91 -1 0
-0 18 0 1
 0 0 -1 0
 0 3 -1 1
+0 18 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p1-n1 
 3
-103 1
-94 1
 62 0
+94 1
+103 1
 4
-0 91 -1 0
-0 18 0 1
 0 0 -1 0
 0 3 -1 1
+0 18 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p1-n10 
 3
-103 1
-94 1
 77 0
+94 1
+103 1
 4
-0 91 -1 0
-0 18 0 1
 0 0 -1 0
 0 3 -1 1
+0 18 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p1-n11 
 3
-103 1
-94 1
 78 0
+94 1
+103 1
 4
-0 91 -1 0
-0 18 0 1
 0 0 -1 0
 0 3 -1 1
+0 18 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p1-n12 
 3
-103 1
-94 1
 79 0
+94 1
+103 1
 4
-0 91 -1 0
-0 18 0 1
 0 0 -1 0
 0 3 -1 1
+0 18 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p1-n13 
 3
-103 1
-94 1
 80 0
+94 1
+103 1
 4
-0 91 -1 0
-0 18 0 1
 0 0 -1 0
 0 3 -1 1
+0 18 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p1-n14 
 3
-103 1
-94 1
 81 0
+94 1
+103 1
 4
-0 91 -1 0
-0 18 0 1
 0 0 -1 0
 0 3 -1 1
+0 18 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p1-n15 
 3
-103 1
-94 1
 29 0
+94 1
+103 1
 4
-0 91 -1 0
-0 18 0 1
 0 0 -1 0
 0 3 -1 1
+0 18 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p1-n2 
 3
-103 1
-94 1
 63 0
+94 1
+103 1
 4
-0 91 -1 0
-0 18 0 1
 0 0 -1 0
 0 3 -1 1
+0 18 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p1-n3 
 3
-103 1
-94 1
 64 0
+94 1
+103 1
 4
-0 91 -1 0
-0 18 0 1
 0 0 -1 0
 0 3 -1 1
+0 18 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p1-n4 
 3
-103 1
-94 1
 65 0
+94 1
+103 1
 4
-0 91 -1 0
-0 18 0 1
 0 0 -1 0
 0 3 -1 1
+0 18 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p1-n5 
 3
-103 1
-94 1
 66 0
+94 1
+103 1
 4
-0 91 -1 0
-0 18 0 1
 0 0 -1 0
 0 3 -1 1
+0 18 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p1-n6 
 3
-103 1
-94 1
 67 0
+94 1
+103 1
 4
-0 91 -1 0
-0 18 0 1
 0 0 -1 0
 0 3 -1 1
+0 18 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p1-n7 
 3
-103 1
-94 1
 68 0
+94 1
+103 1
 4
-0 91 -1 0
-0 18 0 1
 0 0 -1 0
 0 3 -1 1
+0 18 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p1-n8 
 3
-103 1
-94 1
 75 0
+94 1
+103 1
 4
-0 91 -1 0
-0 18 0 1
 0 0 -1 0
 0 3 -1 1
+0 18 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p1-n9 
 3
-103 1
-94 1
 76 0
+94 1
+103 1
 4
-0 91 -1 0
-0 18 0 1
 0 0 -1 0
 0 3 -1 1
+0 18 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p10-n0 
 4
+28 0
 94 1
 96 1
 104 1
-28 0
 4
-0 91 -1 0
-0 30 0 1
 0 7 -1 0
 0 12 -1 1
+0 30 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p10-n1 
 4
+62 0
 94 1
 96 1
 104 1
-62 0
 4
-0 91 -1 0
-0 30 0 1
 0 7 -1 0
 0 12 -1 1
+0 30 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p10-n10 
 4
+77 0
 94 1
 96 1
 104 1
-77 0
 4
-0 91 -1 0
-0 30 0 1
 0 7 -1 0
 0 12 -1 1
+0 30 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p10-n11 
 4
+78 0
 94 1
 96 1
 104 1
-78 0
 4
-0 91 -1 0
-0 30 0 1
 0 7 -1 0
 0 12 -1 1
+0 30 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p10-n12 
 4
+79 0
 94 1
 96 1
 104 1
-79 0
 4
-0 91 -1 0
-0 30 0 1
 0 7 -1 0
 0 12 -1 1
+0 30 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p10-n13 
 4
+80 0
 94 1
 96 1
 104 1
-80 0
 4
-0 91 -1 0
-0 30 0 1
 0 7 -1 0
 0 12 -1 1
+0 30 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p10-n14 
 4
+81 0
 94 1
 96 1
 104 1
-81 0
 4
-0 91 -1 0
-0 30 0 1
 0 7 -1 0
 0 12 -1 1
+0 30 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p10-n15 
 4
+29 0
 94 1
 96 1
 104 1
-29 0
 4
-0 91 -1 0
-0 30 0 1
 0 7 -1 0
 0 12 -1 1
+0 30 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p10-n2 
 4
+63 0
 94 1
 96 1
 104 1
-63 0
 4
-0 91 -1 0
-0 30 0 1
 0 7 -1 0
 0 12 -1 1
+0 30 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p10-n3 
 4
+64 0
 94 1
 96 1
 104 1
-64 0
 4
-0 91 -1 0
-0 30 0 1
 0 7 -1 0
 0 12 -1 1
+0 30 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p10-n4 
 4
+65 0
 94 1
 96 1
 104 1
-65 0
 4
-0 91 -1 0
-0 30 0 1
 0 7 -1 0
 0 12 -1 1
+0 30 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p10-n5 
 4
+66 0
 94 1
 96 1
 104 1
-66 0
 4
-0 91 -1 0
-0 30 0 1
 0 7 -1 0
 0 12 -1 1
+0 30 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p10-n6 
 4
+67 0
 94 1
 96 1
 104 1
-67 0
 4
-0 91 -1 0
-0 30 0 1
 0 7 -1 0
 0 12 -1 1
+0 30 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p10-n7 
 4
+68 0
 94 1
 96 1
 104 1
-68 0
 4
-0 91 -1 0
-0 30 0 1
 0 7 -1 0
 0 12 -1 1
+0 30 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p10-n8 
 4
+75 0
 94 1
 96 1
 104 1
-75 0
 4
-0 91 -1 0
-0 30 0 1
 0 7 -1 0
 0 12 -1 1
+0 30 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p10-n9 
 4
+76 0
 94 1
 96 1
 104 1
-76 0
 4
-0 91 -1 0
-0 30 0 1
 0 7 -1 0
 0 12 -1 1
+0 30 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p11-n0 
 5
-103 1
-105 1
+28 0
 97 1
 100 1
-28 0
+103 1
+105 1
 4
-0 91 -1 0
-0 43 0 1
 0 21 -1 0
 0 36 -1 1
+0 43 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p11-n1 
 5
-103 1
-105 1
+62 0
 97 1
 100 1
-62 0
+103 1
+105 1
 4
-0 91 -1 0
-0 43 0 1
 0 21 -1 0
 0 36 -1 1
+0 43 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p11-n10 
 5
-103 1
-105 1
+77 0
 97 1
 100 1
-77 0
+103 1
+105 1
 4
-0 91 -1 0
-0 43 0 1
 0 21 -1 0
 0 36 -1 1
+0 43 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p11-n11 
 5
-103 1
-105 1
+78 0
 97 1
 100 1
-78 0
+103 1
+105 1
 4
-0 91 -1 0
-0 43 0 1
 0 21 -1 0
 0 36 -1 1
+0 43 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p11-n12 
 5
-103 1
-105 1
+79 0
 97 1
 100 1
-79 0
+103 1
+105 1
 4
-0 91 -1 0
-0 43 0 1
 0 21 -1 0
 0 36 -1 1
+0 43 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p11-n13 
 5
-103 1
-105 1
+80 0
 97 1
 100 1
-80 0
+103 1
+105 1
 4
-0 91 -1 0
-0 43 0 1
 0 21 -1 0
 0 36 -1 1
+0 43 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p11-n14 
 5
-103 1
-105 1
+81 0
 97 1
 100 1
-81 0
+103 1
+105 1
 4
-0 91 -1 0
-0 43 0 1
 0 21 -1 0
 0 36 -1 1
+0 43 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p11-n15 
 5
-103 1
-105 1
+29 0
 97 1
 100 1
-29 0
+103 1
+105 1
 4
-0 91 -1 0
-0 43 0 1
 0 21 -1 0
 0 36 -1 1
+0 43 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p11-n2 
 5
-103 1
-105 1
+63 0
 97 1
 100 1
-63 0
+103 1
+105 1
 4
-0 91 -1 0
-0 43 0 1
 0 21 -1 0
 0 36 -1 1
+0 43 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p11-n3 
 5
-103 1
-105 1
+64 0
 97 1
 100 1
-64 0
+103 1
+105 1
 4
-0 91 -1 0
-0 43 0 1
 0 21 -1 0
 0 36 -1 1
+0 43 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p11-n4 
 5
-103 1
-105 1
+65 0
 97 1
 100 1
-65 0
+103 1
+105 1
 4
-0 91 -1 0
-0 43 0 1
 0 21 -1 0
 0 36 -1 1
+0 43 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p11-n5 
 5
-103 1
-105 1
+66 0
 97 1
 100 1
-66 0
+103 1
+105 1
 4
-0 91 -1 0
-0 43 0 1
 0 21 -1 0
 0 36 -1 1
+0 43 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p11-n6 
 5
-103 1
-105 1
+67 0
 97 1
 100 1
-67 0
+103 1
+105 1
 4
-0 91 -1 0
-0 43 0 1
 0 21 -1 0
 0 36 -1 1
+0 43 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p11-n7 
 5
-103 1
-105 1
+68 0
 97 1
 100 1
-68 0
+103 1
+105 1
 4
-0 91 -1 0
-0 43 0 1
 0 21 -1 0
 0 36 -1 1
+0 43 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p11-n8 
 5
-103 1
-105 1
+75 0
 97 1
 100 1
-75 0
+103 1
+105 1
 4
-0 91 -1 0
-0 43 0 1
 0 21 -1 0
 0 36 -1 1
+0 43 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p11-n9 
 5
-103 1
-105 1
+76 0
 97 1
 100 1
-76 0
+103 1
+105 1
 4
-0 91 -1 0
-0 43 0 1
 0 21 -1 0
 0 36 -1 1
+0 43 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p12-n0 
 6
-103 1
-105 1
-97 1
-92 1
-104 1
 28 0
+92 1
+97 1
+103 1
+104 1
+105 1
 4
-0 91 -1 0
-0 69 0 1
 0 50 -1 0
 0 56 -1 1
+0 69 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p12-n1 
 6
-103 1
-105 1
-97 1
-92 1
-104 1
 62 0
+92 1
+97 1
+103 1
+104 1
+105 1
 4
-0 91 -1 0
-0 69 0 1
 0 50 -1 0
 0 56 -1 1
+0 69 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p12-n10 
 6
-103 1
-105 1
-97 1
-92 1
-104 1
 77 0
+92 1
+97 1
+103 1
+104 1
+105 1
 4
-0 91 -1 0
-0 69 0 1
 0 50 -1 0
 0 56 -1 1
+0 69 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p12-n11 
 6
-103 1
-105 1
-97 1
-92 1
-104 1
 78 0
+92 1
+97 1
+103 1
+104 1
+105 1
 4
-0 91 -1 0
-0 69 0 1
 0 50 -1 0
 0 56 -1 1
+0 69 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p12-n12 
 6
-103 1
-105 1
-97 1
-92 1
-104 1
 79 0
+92 1
+97 1
+103 1
+104 1
+105 1
 4
-0 91 -1 0
-0 69 0 1
 0 50 -1 0
 0 56 -1 1
+0 69 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p12-n13 
 6
-103 1
-105 1
-97 1
-92 1
-104 1
 80 0
+92 1
+97 1
+103 1
+104 1
+105 1
 4
-0 91 -1 0
-0 69 0 1
 0 50 -1 0
 0 56 -1 1
+0 69 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p12-n14 
 6
-103 1
-105 1
-97 1
-92 1
-104 1
 81 0
+92 1
+97 1
+103 1
+104 1
+105 1
 4
-0 91 -1 0
-0 69 0 1
 0 50 -1 0
 0 56 -1 1
+0 69 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p12-n15 
 6
-103 1
-105 1
-97 1
-92 1
-104 1
 29 0
+92 1
+97 1
+103 1
+104 1
+105 1
 4
-0 91 -1 0
-0 69 0 1
 0 50 -1 0
 0 56 -1 1
+0 69 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p12-n2 
 6
-103 1
-105 1
-97 1
-92 1
-104 1
 63 0
+92 1
+97 1
+103 1
+104 1
+105 1
 4
-0 91 -1 0
-0 69 0 1
 0 50 -1 0
 0 56 -1 1
+0 69 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p12-n3 
 6
-103 1
-105 1
-97 1
-92 1
-104 1
 64 0
+92 1
+97 1
+103 1
+104 1
+105 1
 4
-0 91 -1 0
-0 69 0 1
 0 50 -1 0
 0 56 -1 1
+0 69 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p12-n4 
 6
-103 1
-105 1
-97 1
-92 1
-104 1
 65 0
+92 1
+97 1
+103 1
+104 1
+105 1
 4
-0 91 -1 0
-0 69 0 1
 0 50 -1 0
 0 56 -1 1
+0 69 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p12-n5 
 6
-103 1
-105 1
-97 1
-92 1
-104 1
 66 0
+92 1
+97 1
+103 1
+104 1
+105 1
 4
-0 91 -1 0
-0 69 0 1
 0 50 -1 0
 0 56 -1 1
+0 69 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p12-n6 
 6
-103 1
-105 1
-97 1
-92 1
-104 1
 67 0
+92 1
+97 1
+103 1
+104 1
+105 1
 4
-0 91 -1 0
-0 69 0 1
 0 50 -1 0
 0 56 -1 1
+0 69 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p12-n7 
 6
-103 1
-105 1
-97 1
-92 1
-104 1
 68 0
+92 1
+97 1
+103 1
+104 1
+105 1
 4
-0 91 -1 0
-0 69 0 1
 0 50 -1 0
 0 56 -1 1
+0 69 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p12-n8 
 6
-103 1
-105 1
-97 1
-92 1
-104 1
 75 0
+92 1
+97 1
+103 1
+104 1
+105 1
 4
-0 91 -1 0
-0 69 0 1
 0 50 -1 0
 0 56 -1 1
+0 69 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p12-n9 
 6
-103 1
-105 1
-97 1
-92 1
-104 1
 76 0
+92 1
+97 1
+103 1
+104 1
+105 1
 4
-0 91 -1 0
-0 69 0 1
 0 50 -1 0
 0 56 -1 1
+0 69 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p13-n0 
 4
-103 1
-95 1
-104 1
 28 0
+95 1
+103 1
+104 1
 4
-0 91 -1 0
-0 31 0 1
 0 9 -1 0
 0 13 -1 1
+0 31 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p13-n1 
 4
-103 1
-95 1
-104 1
 62 0
+95 1
+103 1
+104 1
 4
-0 91 -1 0
-0 31 0 1
 0 9 -1 0
 0 13 -1 1
+0 31 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p13-n10 
 4
-103 1
-95 1
-104 1
 77 0
+95 1
+103 1
+104 1
 4
-0 91 -1 0
-0 31 0 1
 0 9 -1 0
 0 13 -1 1
+0 31 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p13-n11 
 4
-103 1
-95 1
-104 1
 78 0
+95 1
+103 1
+104 1
 4
-0 91 -1 0
-0 31 0 1
 0 9 -1 0
 0 13 -1 1
+0 31 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p13-n12 
 4
-103 1
-95 1
-104 1
 79 0
+95 1
+103 1
+104 1
 4
-0 91 -1 0
-0 31 0 1
 0 9 -1 0
 0 13 -1 1
+0 31 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p13-n13 
 4
-103 1
-95 1
-104 1
 80 0
+95 1
+103 1
+104 1
 4
-0 91 -1 0
-0 31 0 1
 0 9 -1 0
 0 13 -1 1
+0 31 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p13-n14 
 4
-103 1
-95 1
-104 1
 81 0
+95 1
+103 1
+104 1
 4
-0 91 -1 0
-0 31 0 1
 0 9 -1 0
 0 13 -1 1
+0 31 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p13-n15 
 4
-103 1
-95 1
-104 1
 29 0
+95 1
+103 1
+104 1
 4
-0 91 -1 0
-0 31 0 1
 0 9 -1 0
 0 13 -1 1
+0 31 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p13-n2 
 4
-103 1
-95 1
-104 1
 63 0
+95 1
+103 1
+104 1
 4
-0 91 -1 0
-0 31 0 1
 0 9 -1 0
 0 13 -1 1
+0 31 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p13-n3 
 4
-103 1
-95 1
-104 1
 64 0
+95 1
+103 1
+104 1
 4
-0 91 -1 0
-0 31 0 1
 0 9 -1 0
 0 13 -1 1
+0 31 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p13-n4 
 4
-103 1
-95 1
-104 1
 65 0
+95 1
+103 1
+104 1
 4
-0 91 -1 0
-0 31 0 1
 0 9 -1 0
 0 13 -1 1
+0 31 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p13-n5 
 4
-103 1
-95 1
-104 1
 66 0
+95 1
+103 1
+104 1
 4
-0 91 -1 0
-0 31 0 1
 0 9 -1 0
 0 13 -1 1
+0 31 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p13-n6 
 4
-103 1
-95 1
-104 1
 67 0
+95 1
+103 1
+104 1
 4
-0 91 -1 0
-0 31 0 1
 0 9 -1 0
 0 13 -1 1
+0 31 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p13-n7 
 4
-103 1
-95 1
-104 1
 68 0
+95 1
+103 1
+104 1
 4
-0 91 -1 0
-0 31 0 1
 0 9 -1 0
 0 13 -1 1
+0 31 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p13-n8 
 4
-103 1
-95 1
-104 1
 75 0
+95 1
+103 1
+104 1
 4
-0 91 -1 0
-0 31 0 1
 0 9 -1 0
 0 13 -1 1
+0 31 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p13-n9 
 4
-103 1
-95 1
-104 1
 76 0
+95 1
+103 1
+104 1
 4
-0 91 -1 0
-0 31 0 1
 0 9 -1 0
 0 13 -1 1
+0 31 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p14-n0 
 5
+28 0
 98 1
-106 1
 99 1
 100 1
-28 0
+106 1
 4
-0 91 -1 0
-0 44 0 1
 0 22 -1 0
 0 37 -1 1
+0 44 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p14-n1 
 5
+62 0
 98 1
-106 1
 99 1
 100 1
-62 0
+106 1
 4
-0 91 -1 0
-0 44 0 1
 0 22 -1 0
 0 37 -1 1
+0 44 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p14-n10 
 5
+77 0
 98 1
-106 1
 99 1
 100 1
-77 0
+106 1
 4
-0 91 -1 0
-0 44 0 1
 0 22 -1 0
 0 37 -1 1
+0 44 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p14-n11 
 5
+78 0
 98 1
-106 1
 99 1
 100 1
-78 0
+106 1
 4
-0 91 -1 0
-0 44 0 1
 0 22 -1 0
 0 37 -1 1
+0 44 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p14-n12 
 5
+79 0
 98 1
-106 1
 99 1
 100 1
-79 0
+106 1
 4
-0 91 -1 0
-0 44 0 1
 0 22 -1 0
 0 37 -1 1
+0 44 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p14-n13 
 5
+80 0
 98 1
-106 1
 99 1
 100 1
-80 0
+106 1
 4
-0 91 -1 0
-0 44 0 1
 0 22 -1 0
 0 37 -1 1
+0 44 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p14-n14 
 5
+81 0
 98 1
-106 1
 99 1
 100 1
-81 0
+106 1
 4
-0 91 -1 0
-0 44 0 1
 0 22 -1 0
 0 37 -1 1
+0 44 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p14-n15 
 5
+29 0
 98 1
-106 1
 99 1
 100 1
-29 0
+106 1
 4
-0 91 -1 0
-0 44 0 1
 0 22 -1 0
 0 37 -1 1
+0 44 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p14-n2 
 5
+63 0
 98 1
-106 1
 99 1
 100 1
-63 0
+106 1
 4
-0 91 -1 0
-0 44 0 1
 0 22 -1 0
 0 37 -1 1
+0 44 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p14-n3 
 5
+64 0
 98 1
-106 1
 99 1
 100 1
-64 0
+106 1
 4
-0 91 -1 0
-0 44 0 1
 0 22 -1 0
 0 37 -1 1
+0 44 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p14-n4 
 5
+65 0
 98 1
-106 1
 99 1
 100 1
-65 0
+106 1
 4
-0 91 -1 0
-0 44 0 1
 0 22 -1 0
 0 37 -1 1
+0 44 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p14-n5 
 5
+66 0
 98 1
-106 1
 99 1
 100 1
-66 0
+106 1
 4
-0 91 -1 0
-0 44 0 1
 0 22 -1 0
 0 37 -1 1
+0 44 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p14-n6 
 5
+67 0
 98 1
-106 1
 99 1
 100 1
-67 0
+106 1
 4
-0 91 -1 0
-0 44 0 1
 0 22 -1 0
 0 37 -1 1
+0 44 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p14-n7 
 5
+68 0
 98 1
-106 1
 99 1
 100 1
-68 0
+106 1
 4
-0 91 -1 0
-0 44 0 1
 0 22 -1 0
 0 37 -1 1
+0 44 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p14-n8 
 5
+75 0
 98 1
-106 1
 99 1
 100 1
-75 0
+106 1
 4
-0 91 -1 0
-0 44 0 1
 0 22 -1 0
 0 37 -1 1
+0 44 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p14-n9 
 5
+76 0
 98 1
-106 1
 99 1
 100 1
-76 0
+106 1
 4
-0 91 -1 0
-0 44 0 1
 0 22 -1 0
 0 37 -1 1
+0 44 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p15-n0 
 7
+28 0
+97 1
 98 1
+99 1
+102 1
 105 1
 106 1
-99 1
-97 1
-102 1
-28 0
 4
-0 91 -1 0
-0 88 0 1
 0 82 -1 0
 0 85 -1 1
+0 88 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p15-n1 
 7
+62 0
+97 1
 98 1
+99 1
+102 1
 105 1
 106 1
-99 1
-97 1
-102 1
-62 0
 4
-0 91 -1 0
-0 88 0 1
 0 82 -1 0
 0 85 -1 1
+0 88 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p15-n10 
 7
+77 0
+97 1
 98 1
+99 1
+102 1
 105 1
 106 1
-99 1
-97 1
-102 1
-77 0
 4
-0 91 -1 0
-0 88 0 1
 0 82 -1 0
 0 85 -1 1
+0 88 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p15-n11 
 7
+78 0
+97 1
 98 1
+99 1
+102 1
 105 1
 106 1
-99 1
-97 1
-102 1
-78 0
 4
-0 91 -1 0
-0 88 0 1
 0 82 -1 0
 0 85 -1 1
+0 88 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p15-n12 
 7
+79 0
+97 1
 98 1
+99 1
+102 1
 105 1
 106 1
-99 1
-97 1
-102 1
-79 0
 4
-0 91 -1 0
-0 88 0 1
 0 82 -1 0
 0 85 -1 1
+0 88 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p15-n13 
 7
+80 0
+97 1
 98 1
+99 1
+102 1
 105 1
 106 1
-99 1
-97 1
-102 1
-80 0
 4
-0 91 -1 0
-0 88 0 1
 0 82 -1 0
 0 85 -1 1
+0 88 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p15-n14 
 7
+81 0
+97 1
 98 1
+99 1
+102 1
 105 1
 106 1
-99 1
-97 1
-102 1
-81 0
 4
-0 91 -1 0
-0 88 0 1
 0 82 -1 0
 0 85 -1 1
+0 88 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p15-n15 
 7
+29 0
+97 1
 98 1
+99 1
+102 1
 105 1
 106 1
-99 1
-97 1
-102 1
-29 0
 4
-0 91 -1 0
-0 88 0 1
 0 82 -1 0
 0 85 -1 1
+0 88 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p15-n2 
 7
+63 0
+97 1
 98 1
+99 1
+102 1
 105 1
 106 1
-99 1
-97 1
-102 1
-63 0
 4
-0 91 -1 0
-0 88 0 1
 0 82 -1 0
 0 85 -1 1
+0 88 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p15-n3 
 7
+64 0
+97 1
 98 1
+99 1
+102 1
 105 1
 106 1
-99 1
-97 1
-102 1
-64 0
 4
-0 91 -1 0
-0 88 0 1
 0 82 -1 0
 0 85 -1 1
+0 88 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p15-n4 
 7
+65 0
+97 1
 98 1
+99 1
+102 1
 105 1
 106 1
-99 1
-97 1
-102 1
-65 0
 4
-0 91 -1 0
-0 88 0 1
 0 82 -1 0
 0 85 -1 1
+0 88 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p15-n5 
 7
+66 0
+97 1
 98 1
+99 1
+102 1
 105 1
 106 1
-99 1
-97 1
-102 1
-66 0
 4
-0 91 -1 0
-0 88 0 1
 0 82 -1 0
 0 85 -1 1
+0 88 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p15-n6 
 7
+67 0
+97 1
 98 1
+99 1
+102 1
 105 1
 106 1
-99 1
-97 1
-102 1
-67 0
 4
-0 91 -1 0
-0 88 0 1
 0 82 -1 0
 0 85 -1 1
+0 88 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p15-n7 
 7
+68 0
+97 1
 98 1
+99 1
+102 1
 105 1
 106 1
-99 1
-97 1
-102 1
-68 0
 4
-0 91 -1 0
-0 88 0 1
 0 82 -1 0
 0 85 -1 1
+0 88 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p15-n8 
 7
+75 0
+97 1
 98 1
+99 1
+102 1
 105 1
 106 1
-99 1
-97 1
-102 1
-75 0
 4
-0 91 -1 0
-0 88 0 1
 0 82 -1 0
 0 85 -1 1
+0 88 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p15-n9 
 7
+76 0
+97 1
 98 1
+99 1
+102 1
 105 1
 106 1
-99 1
-97 1
-102 1
-76 0
 4
-0 91 -1 0
-0 88 0 1
 0 82 -1 0
 0 85 -1 1
+0 88 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p16-n0 
 3
-106 1
-101 1
 28 0
+101 1
+106 1
 4
-0 91 -1 0
-0 19 0 1
 0 1 -1 0
 0 4 -1 1
+0 19 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p16-n1 
 3
-106 1
-101 1
 62 0
+101 1
+106 1
 4
-0 91 -1 0
-0 19 0 1
 0 1 -1 0
 0 4 -1 1
+0 19 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p16-n10 
 3
-106 1
-101 1
 77 0
+101 1
+106 1
 4
-0 91 -1 0
-0 19 0 1
 0 1 -1 0
 0 4 -1 1
+0 19 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p16-n11 
 3
-106 1
-101 1
 78 0
+101 1
+106 1
 4
-0 91 -1 0
-0 19 0 1
 0 1 -1 0
 0 4 -1 1
+0 19 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p16-n12 
 3
-106 1
-101 1
 79 0
+101 1
+106 1
 4
-0 91 -1 0
-0 19 0 1
 0 1 -1 0
 0 4 -1 1
+0 19 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p16-n13 
 3
-106 1
-101 1
 80 0
+101 1
+106 1
 4
-0 91 -1 0
-0 19 0 1
 0 1 -1 0
 0 4 -1 1
+0 19 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p16-n14 
 3
-106 1
-101 1
 81 0
+101 1
+106 1
 4
-0 91 -1 0
-0 19 0 1
 0 1 -1 0
 0 4 -1 1
+0 19 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p16-n15 
 3
-106 1
-101 1
 29 0
+101 1
+106 1
 4
-0 91 -1 0
-0 19 0 1
 0 1 -1 0
 0 4 -1 1
+0 19 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p16-n2 
 3
-106 1
-101 1
 63 0
+101 1
+106 1
 4
-0 91 -1 0
-0 19 0 1
 0 1 -1 0
 0 4 -1 1
+0 19 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p16-n3 
 3
-106 1
-101 1
 64 0
+101 1
+106 1
 4
-0 91 -1 0
-0 19 0 1
 0 1 -1 0
 0 4 -1 1
+0 19 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p16-n4 
 3
-106 1
-101 1
 65 0
+101 1
+106 1
 4
-0 91 -1 0
-0 19 0 1
 0 1 -1 0
 0 4 -1 1
+0 19 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p16-n5 
 3
-106 1
-101 1
 66 0
+101 1
+106 1
 4
-0 91 -1 0
-0 19 0 1
 0 1 -1 0
 0 4 -1 1
+0 19 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p16-n6 
 3
-106 1
-101 1
 67 0
+101 1
+106 1
 4
-0 91 -1 0
-0 19 0 1
 0 1 -1 0
 0 4 -1 1
+0 19 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p16-n7 
 3
-106 1
-101 1
 68 0
+101 1
+106 1
 4
-0 91 -1 0
-0 19 0 1
 0 1 -1 0
 0 4 -1 1
+0 19 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p16-n8 
 3
-106 1
-101 1
 75 0
+101 1
+106 1
 4
-0 91 -1 0
-0 19 0 1
 0 1 -1 0
 0 4 -1 1
+0 19 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p16-n9 
 3
-106 1
-101 1
 76 0
+101 1
+106 1
 4
-0 91 -1 0
-0 19 0 1
 0 1 -1 0
 0 4 -1 1
+0 19 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p17-n0 
 7
+28 0
 98 1
-105 1
 99 1
 100 1
-102 1
 101 1
-28 0
+102 1
+105 1
 4
-0 91 -1 0
-0 89 0 1
 0 83 -1 0
 0 86 -1 1
+0 89 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p17-n1 
 7
+62 0
 98 1
-105 1
 99 1
 100 1
-102 1
 101 1
-62 0
+102 1
+105 1
 4
-0 91 -1 0
-0 89 0 1
 0 83 -1 0
 0 86 -1 1
+0 89 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p17-n10 
 7
+77 0
 98 1
-105 1
 99 1
 100 1
-102 1
 101 1
-77 0
+102 1
+105 1
 4
-0 91 -1 0
-0 89 0 1
 0 83 -1 0
 0 86 -1 1
+0 89 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p17-n11 
 7
+78 0
 98 1
-105 1
 99 1
 100 1
-102 1
 101 1
-78 0
+102 1
+105 1
 4
-0 91 -1 0
-0 89 0 1
 0 83 -1 0
 0 86 -1 1
+0 89 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p17-n12 
 7
+79 0
 98 1
-105 1
 99 1
 100 1
-102 1
 101 1
-79 0
+102 1
+105 1
 4
-0 91 -1 0
-0 89 0 1
 0 83 -1 0
 0 86 -1 1
+0 89 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p17-n13 
 7
+80 0
 98 1
-105 1
 99 1
 100 1
-102 1
 101 1
-80 0
+102 1
+105 1
 4
-0 91 -1 0
-0 89 0 1
 0 83 -1 0
 0 86 -1 1
+0 89 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p17-n14 
 7
+81 0
 98 1
-105 1
 99 1
 100 1
-102 1
 101 1
-81 0
+102 1
+105 1
 4
-0 91 -1 0
-0 89 0 1
 0 83 -1 0
 0 86 -1 1
+0 89 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p17-n15 
 7
+29 0
 98 1
-105 1
 99 1
 100 1
-102 1
 101 1
-29 0
+102 1
+105 1
 4
-0 91 -1 0
-0 89 0 1
 0 83 -1 0
 0 86 -1 1
+0 89 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p17-n2 
 7
+63 0
 98 1
-105 1
 99 1
 100 1
-102 1
 101 1
-63 0
+102 1
+105 1
 4
-0 91 -1 0
-0 89 0 1
 0 83 -1 0
 0 86 -1 1
+0 89 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p17-n3 
 7
+64 0
 98 1
-105 1
 99 1
 100 1
-102 1
 101 1
-64 0
+102 1
+105 1
 4
-0 91 -1 0
-0 89 0 1
 0 83 -1 0
 0 86 -1 1
+0 89 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p17-n4 
 7
+65 0
 98 1
-105 1
 99 1
 100 1
-102 1
 101 1
-65 0
+102 1
+105 1
 4
-0 91 -1 0
-0 89 0 1
 0 83 -1 0
 0 86 -1 1
+0 89 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p17-n5 
 7
+66 0
 98 1
-105 1
 99 1
 100 1
-102 1
 101 1
-66 0
+102 1
+105 1
 4
-0 91 -1 0
-0 89 0 1
 0 83 -1 0
 0 86 -1 1
+0 89 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p17-n6 
 7
+67 0
 98 1
-105 1
 99 1
 100 1
-102 1
 101 1
-67 0
+102 1
+105 1
 4
-0 91 -1 0
-0 89 0 1
 0 83 -1 0
 0 86 -1 1
+0 89 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p17-n7 
 7
+68 0
 98 1
-105 1
 99 1
 100 1
-102 1
 101 1
-68 0
+102 1
+105 1
 4
-0 91 -1 0
-0 89 0 1
 0 83 -1 0
 0 86 -1 1
+0 89 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p17-n8 
 7
+75 0
 98 1
-105 1
 99 1
 100 1
-102 1
 101 1
-75 0
+102 1
+105 1
 4
-0 91 -1 0
-0 89 0 1
 0 83 -1 0
 0 86 -1 1
+0 89 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p17-n9 
 7
+76 0
 98 1
-105 1
 99 1
 100 1
-102 1
 101 1
-76 0
+102 1
+105 1
 4
-0 91 -1 0
-0 89 0 1
 0 83 -1 0
 0 86 -1 1
+0 89 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p18-n0 
 5
-106 1
-100 1
-102 1
-101 1
 28 0
+100 1
+101 1
+102 1
+106 1
 4
-0 91 -1 0
-0 45 0 1
 0 24 -1 0
 0 38 -1 1
+0 45 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p18-n1 
 5
-106 1
-100 1
-102 1
-101 1
 62 0
+100 1
+101 1
+102 1
+106 1
 4
-0 91 -1 0
-0 45 0 1
 0 24 -1 0
 0 38 -1 1
+0 45 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p18-n10 
 5
-106 1
-100 1
-102 1
-101 1
 77 0
+100 1
+101 1
+102 1
+106 1
 4
-0 91 -1 0
-0 45 0 1
 0 24 -1 0
 0 38 -1 1
+0 45 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p18-n11 
 5
-106 1
-100 1
-102 1
-101 1
 78 0
+100 1
+101 1
+102 1
+106 1
 4
-0 91 -1 0
-0 45 0 1
 0 24 -1 0
 0 38 -1 1
+0 45 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p18-n12 
 5
-106 1
-100 1
-102 1
-101 1
 79 0
+100 1
+101 1
+102 1
+106 1
 4
-0 91 -1 0
-0 45 0 1
 0 24 -1 0
 0 38 -1 1
+0 45 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p18-n13 
 5
-106 1
-100 1
-102 1
-101 1
 80 0
+100 1
+101 1
+102 1
+106 1
 4
-0 91 -1 0
-0 45 0 1
 0 24 -1 0
 0 38 -1 1
+0 45 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p18-n14 
 5
-106 1
-100 1
-102 1
-101 1
 81 0
+100 1
+101 1
+102 1
+106 1
 4
-0 91 -1 0
-0 45 0 1
 0 24 -1 0
 0 38 -1 1
+0 45 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p18-n15 
 5
-106 1
-100 1
-102 1
-101 1
 29 0
+100 1
+101 1
+102 1
+106 1
 4
-0 91 -1 0
-0 45 0 1
 0 24 -1 0
 0 38 -1 1
+0 45 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p18-n2 
 5
-106 1
-100 1
-102 1
-101 1
 63 0
+100 1
+101 1
+102 1
+106 1
 4
-0 91 -1 0
-0 45 0 1
 0 24 -1 0
 0 38 -1 1
+0 45 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p18-n3 
 5
-106 1
-100 1
-102 1
-101 1
 64 0
+100 1
+101 1
+102 1
+106 1
 4
-0 91 -1 0
-0 45 0 1
 0 24 -1 0
 0 38 -1 1
+0 45 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p18-n4 
 5
-106 1
-100 1
-102 1
-101 1
 65 0
+100 1
+101 1
+102 1
+106 1
 4
-0 91 -1 0
-0 45 0 1
 0 24 -1 0
 0 38 -1 1
+0 45 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p18-n5 
 5
-106 1
-100 1
-102 1
-101 1
 66 0
+100 1
+101 1
+102 1
+106 1
 4
-0 91 -1 0
-0 45 0 1
 0 24 -1 0
 0 38 -1 1
+0 45 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p18-n6 
 5
-106 1
-100 1
-102 1
-101 1
 67 0
+100 1
+101 1
+102 1
+106 1
 4
-0 91 -1 0
-0 45 0 1
 0 24 -1 0
 0 38 -1 1
+0 45 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p18-n7 
 5
-106 1
-100 1
-102 1
-101 1
 68 0
+100 1
+101 1
+102 1
+106 1
 4
-0 91 -1 0
-0 45 0 1
 0 24 -1 0
 0 38 -1 1
+0 45 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p18-n8 
 5
-106 1
-100 1
-102 1
-101 1
 75 0
+100 1
+101 1
+102 1
+106 1
 4
-0 91 -1 0
-0 45 0 1
 0 24 -1 0
 0 38 -1 1
+0 45 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p18-n9 
 5
-106 1
-100 1
-102 1
-101 1
 76 0
+100 1
+101 1
+102 1
+106 1
 4
-0 91 -1 0
-0 45 0 1
 0 24 -1 0
 0 38 -1 1
+0 45 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p19-n0 
 4
+28 0
 98 1
 99 1
 101 1
-28 0
 4
-0 91 -1 0
-0 32 0 1
 0 6 -1 0
 0 14 -1 1
+0 32 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p19-n1 
 4
+62 0
 98 1
 99 1
 101 1
-62 0
 4
-0 91 -1 0
-0 32 0 1
 0 6 -1 0
 0 14 -1 1
+0 32 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p19-n10 
 4
+77 0
 98 1
 99 1
 101 1
-77 0
 4
-0 91 -1 0
-0 32 0 1
 0 6 -1 0
 0 14 -1 1
+0 32 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p19-n11 
 4
+78 0
 98 1
 99 1
 101 1
-78 0
 4
-0 91 -1 0
-0 32 0 1
 0 6 -1 0
 0 14 -1 1
+0 32 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p19-n12 
 4
+79 0
 98 1
 99 1
 101 1
-79 0
 4
-0 91 -1 0
-0 32 0 1
 0 6 -1 0
 0 14 -1 1
+0 32 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p19-n13 
 4
+80 0
 98 1
 99 1
 101 1
-80 0
 4
-0 91 -1 0
-0 32 0 1
 0 6 -1 0
 0 14 -1 1
+0 32 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p19-n14 
 4
+81 0
 98 1
 99 1
 101 1
-81 0
 4
-0 91 -1 0
-0 32 0 1
 0 6 -1 0
 0 14 -1 1
+0 32 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p19-n15 
 4
+29 0
 98 1
 99 1
 101 1
-29 0
 4
-0 91 -1 0
-0 32 0 1
 0 6 -1 0
 0 14 -1 1
+0 32 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p19-n2 
 4
+63 0
 98 1
 99 1
 101 1
-63 0
 4
-0 91 -1 0
-0 32 0 1
 0 6 -1 0
 0 14 -1 1
+0 32 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p19-n3 
 4
+64 0
 98 1
 99 1
 101 1
-64 0
 4
-0 91 -1 0
-0 32 0 1
 0 6 -1 0
 0 14 -1 1
+0 32 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p19-n4 
 4
+65 0
 98 1
 99 1
 101 1
-65 0
 4
-0 91 -1 0
-0 32 0 1
 0 6 -1 0
 0 14 -1 1
+0 32 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p19-n5 
 4
+66 0
 98 1
 99 1
 101 1
-66 0
 4
-0 91 -1 0
-0 32 0 1
 0 6 -1 0
 0 14 -1 1
+0 32 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p19-n6 
 4
+67 0
 98 1
 99 1
 101 1
-67 0
 4
-0 91 -1 0
-0 32 0 1
 0 6 -1 0
 0 14 -1 1
+0 32 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p19-n7 
 4
+68 0
 98 1
 99 1
 101 1
-68 0
 4
-0 91 -1 0
-0 32 0 1
 0 6 -1 0
 0 14 -1 1
+0 32 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p19-n8 
 4
+75 0
 98 1
 99 1
 101 1
-75 0
 4
-0 91 -1 0
-0 32 0 1
 0 6 -1 0
 0 14 -1 1
+0 32 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p19-n9 
 4
+76 0
 98 1
 99 1
 101 1
-76 0
 4
-0 91 -1 0
-0 32 0 1
 0 6 -1 0
 0 14 -1 1
+0 32 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p2-n0 
 6
-105 1
+28 0
 93 1
 94 1
 95 1
 96 1
-28 0
+105 1
 4
-0 91 -1 0
-0 70 0 1
 0 51 -1 0
 0 57 -1 1
+0 70 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p2-n1 
 6
-105 1
+62 0
 93 1
 94 1
 95 1
 96 1
-62 0
+105 1
 4
-0 91 -1 0
-0 70 0 1
 0 51 -1 0
 0 57 -1 1
+0 70 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p2-n10 
 6
-105 1
+77 0
 93 1
 94 1
 95 1
 96 1
-77 0
+105 1
 4
-0 91 -1 0
-0 70 0 1
 0 51 -1 0
 0 57 -1 1
+0 70 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p2-n11 
 6
-105 1
+78 0
 93 1
 94 1
 95 1
 96 1
-78 0
+105 1
 4
-0 91 -1 0
-0 70 0 1
 0 51 -1 0
 0 57 -1 1
+0 70 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p2-n12 
 6
-105 1
+79 0
 93 1
 94 1
 95 1
 96 1
-79 0
+105 1
 4
-0 91 -1 0
-0 70 0 1
 0 51 -1 0
 0 57 -1 1
+0 70 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p2-n13 
 6
-105 1
+80 0
 93 1
 94 1
 95 1
 96 1
-80 0
+105 1
 4
-0 91 -1 0
-0 70 0 1
 0 51 -1 0
 0 57 -1 1
+0 70 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p2-n14 
 6
-105 1
+81 0
 93 1
 94 1
 95 1
 96 1
-81 0
+105 1
 4
-0 91 -1 0
-0 70 0 1
 0 51 -1 0
 0 57 -1 1
+0 70 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p2-n15 
 6
-105 1
+29 0
 93 1
 94 1
 95 1
 96 1
-29 0
+105 1
 4
-0 91 -1 0
-0 70 0 1
 0 51 -1 0
 0 57 -1 1
+0 70 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p2-n2 
 6
-105 1
+63 0
 93 1
 94 1
 95 1
 96 1
-63 0
+105 1
 4
-0 91 -1 0
-0 70 0 1
 0 51 -1 0
 0 57 -1 1
+0 70 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p2-n3 
 6
-105 1
+64 0
 93 1
 94 1
 95 1
 96 1
-64 0
+105 1
 4
-0 91 -1 0
-0 70 0 1
 0 51 -1 0
 0 57 -1 1
+0 70 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p2-n4 
 6
-105 1
+65 0
 93 1
 94 1
 95 1
 96 1
-65 0
+105 1
 4
-0 91 -1 0
-0 70 0 1
 0 51 -1 0
 0 57 -1 1
+0 70 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p2-n5 
 6
-105 1
+66 0
 93 1
 94 1
 95 1
 96 1
-66 0
+105 1
 4
-0 91 -1 0
-0 70 0 1
 0 51 -1 0
 0 57 -1 1
+0 70 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p2-n6 
 6
-105 1
+67 0
 93 1
 94 1
 95 1
 96 1
-67 0
+105 1
 4
-0 91 -1 0
-0 70 0 1
 0 51 -1 0
 0 57 -1 1
+0 70 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p2-n7 
 6
-105 1
+68 0
 93 1
 94 1
 95 1
 96 1
-68 0
+105 1
 4
-0 91 -1 0
-0 70 0 1
 0 51 -1 0
 0 57 -1 1
+0 70 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p2-n8 
 6
-105 1
+75 0
 93 1
 94 1
 95 1
 96 1
-75 0
+105 1
 4
-0 91 -1 0
-0 70 0 1
 0 51 -1 0
 0 57 -1 1
+0 70 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p2-n9 
 6
-105 1
+76 0
 93 1
 94 1
 95 1
 96 1
-76 0
+105 1
 4
-0 91 -1 0
-0 70 0 1
 0 51 -1 0
 0 57 -1 1
+0 70 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p20-n0 
 4
-97 1
-92 1
-104 1
 28 0
+92 1
+97 1
+104 1
 4
-0 91 -1 0
-0 33 0 1
 0 8 -1 0
 0 15 -1 1
+0 33 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p20-n1 
 4
-97 1
-92 1
-104 1
 62 0
+92 1
+97 1
+104 1
 4
-0 91 -1 0
-0 33 0 1
 0 8 -1 0
 0 15 -1 1
+0 33 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p20-n10 
 4
-97 1
-92 1
-104 1
 77 0
+92 1
+97 1
+104 1
 4
-0 91 -1 0
-0 33 0 1
 0 8 -1 0
 0 15 -1 1
+0 33 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p20-n11 
 4
-97 1
-92 1
-104 1
 78 0
+92 1
+97 1
+104 1
 4
-0 91 -1 0
-0 33 0 1
 0 8 -1 0
 0 15 -1 1
+0 33 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p20-n12 
 4
-97 1
-92 1
-104 1
 79 0
+92 1
+97 1
+104 1
 4
-0 91 -1 0
-0 33 0 1
 0 8 -1 0
 0 15 -1 1
+0 33 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p20-n13 
 4
-97 1
-92 1
-104 1
 80 0
+92 1
+97 1
+104 1
 4
-0 91 -1 0
-0 33 0 1
 0 8 -1 0
 0 15 -1 1
+0 33 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p20-n14 
 4
-97 1
-92 1
-104 1
 81 0
+92 1
+97 1
+104 1
 4
-0 91 -1 0
-0 33 0 1
 0 8 -1 0
 0 15 -1 1
+0 33 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p20-n15 
 4
-97 1
-92 1
-104 1
 29 0
+92 1
+97 1
+104 1
 4
-0 91 -1 0
-0 33 0 1
 0 8 -1 0
 0 15 -1 1
+0 33 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p20-n2 
 4
-97 1
-92 1
-104 1
 63 0
+92 1
+97 1
+104 1
 4
-0 91 -1 0
-0 33 0 1
 0 8 -1 0
 0 15 -1 1
+0 33 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p20-n3 
 4
-97 1
-92 1
-104 1
 64 0
+92 1
+97 1
+104 1
 4
-0 91 -1 0
-0 33 0 1
 0 8 -1 0
 0 15 -1 1
+0 33 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p20-n4 
 4
-97 1
-92 1
-104 1
 65 0
+92 1
+97 1
+104 1
 4
-0 91 -1 0
-0 33 0 1
 0 8 -1 0
 0 15 -1 1
+0 33 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p20-n5 
 4
-97 1
-92 1
-104 1
 66 0
+92 1
+97 1
+104 1
 4
-0 91 -1 0
-0 33 0 1
 0 8 -1 0
 0 15 -1 1
+0 33 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p20-n6 
 4
-97 1
-92 1
-104 1
 67 0
+92 1
+97 1
+104 1
 4
-0 91 -1 0
-0 33 0 1
 0 8 -1 0
 0 15 -1 1
+0 33 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p20-n7 
 4
-97 1
-92 1
-104 1
 68 0
+92 1
+97 1
+104 1
 4
-0 91 -1 0
-0 33 0 1
 0 8 -1 0
 0 15 -1 1
+0 33 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p20-n8 
 4
-97 1
-92 1
-104 1
 75 0
+92 1
+97 1
+104 1
 4
-0 91 -1 0
-0 33 0 1
 0 8 -1 0
 0 15 -1 1
+0 33 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p20-n9 
 4
-97 1
-92 1
-104 1
 76 0
+92 1
+97 1
+104 1
 4
-0 91 -1 0
-0 33 0 1
 0 8 -1 0
 0 15 -1 1
+0 33 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p21-n0 
 7
+28 0
 98 1
-106 1
 99 1
 100 1
-102 1
 101 1
-28 0
+102 1
+106 1
 4
-0 91 -1 0
-0 90 0 1
 0 84 -1 0
 0 87 -1 1
+0 90 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p21-n1 
 7
+62 0
 98 1
-106 1
 99 1
 100 1
-102 1
 101 1
-62 0
+102 1
+106 1
 4
-0 91 -1 0
-0 90 0 1
 0 84 -1 0
 0 87 -1 1
+0 90 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p21-n10 
 7
+77 0
 98 1
-106 1
 99 1
 100 1
-102 1
 101 1
-77 0
+102 1
+106 1
 4
-0 91 -1 0
-0 90 0 1
 0 84 -1 0
 0 87 -1 1
+0 90 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p21-n11 
 7
+78 0
 98 1
-106 1
 99 1
 100 1
-102 1
 101 1
-78 0
+102 1
+106 1
 4
-0 91 -1 0
-0 90 0 1
 0 84 -1 0
 0 87 -1 1
+0 90 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p21-n12 
 7
+79 0
 98 1
-106 1
 99 1
 100 1
-102 1
 101 1
-79 0
+102 1
+106 1
 4
-0 91 -1 0
-0 90 0 1
 0 84 -1 0
 0 87 -1 1
+0 90 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p21-n13 
 7
+80 0
 98 1
-106 1
 99 1
 100 1
-102 1
 101 1
-80 0
+102 1
+106 1
 4
-0 91 -1 0
-0 90 0 1
 0 84 -1 0
 0 87 -1 1
+0 90 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p21-n14 
 7
+81 0
 98 1
-106 1
 99 1
 100 1
-102 1
 101 1
-81 0
+102 1
+106 1
 4
-0 91 -1 0
-0 90 0 1
 0 84 -1 0
 0 87 -1 1
+0 90 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p21-n15 
 7
+29 0
 98 1
-106 1
 99 1
 100 1
-102 1
 101 1
-29 0
+102 1
+106 1
 4
-0 91 -1 0
-0 90 0 1
 0 84 -1 0
 0 87 -1 1
+0 90 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p21-n2 
 7
+63 0
 98 1
-106 1
 99 1
 100 1
-102 1
 101 1
-63 0
+102 1
+106 1
 4
-0 91 -1 0
-0 90 0 1
 0 84 -1 0
 0 87 -1 1
+0 90 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p21-n3 
 7
+64 0
 98 1
-106 1
 99 1
 100 1
-102 1
 101 1
-64 0
+102 1
+106 1
 4
-0 91 -1 0
-0 90 0 1
 0 84 -1 0
 0 87 -1 1
+0 90 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p21-n4 
 7
+65 0
 98 1
-106 1
 99 1
 100 1
-102 1
 101 1
-65 0
+102 1
+106 1
 4
-0 91 -1 0
-0 90 0 1
 0 84 -1 0
 0 87 -1 1
+0 90 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p21-n5 
 7
+66 0
 98 1
-106 1
 99 1
 100 1
-102 1
 101 1
-66 0
+102 1
+106 1
 4
-0 91 -1 0
-0 90 0 1
 0 84 -1 0
 0 87 -1 1
+0 90 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p21-n6 
 7
+67 0
 98 1
-106 1
 99 1
 100 1
-102 1
 101 1
-67 0
+102 1
+106 1
 4
-0 91 -1 0
-0 90 0 1
 0 84 -1 0
 0 87 -1 1
+0 90 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p21-n7 
 7
+68 0
 98 1
-106 1
 99 1
 100 1
-102 1
 101 1
-68 0
+102 1
+106 1
 4
-0 91 -1 0
-0 90 0 1
 0 84 -1 0
 0 87 -1 1
+0 90 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p21-n8 
 7
+75 0
 98 1
-106 1
 99 1
 100 1
-102 1
 101 1
-75 0
+102 1
+106 1
 4
-0 91 -1 0
-0 90 0 1
 0 84 -1 0
 0 87 -1 1
+0 90 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p21-n9 
 7
+76 0
 98 1
-106 1
 99 1
 100 1
-102 1
 101 1
-76 0
+102 1
+106 1
 4
-0 91 -1 0
-0 90 0 1
 0 84 -1 0
 0 87 -1 1
+0 90 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p22-n0 
 5
-106 1
+28 0
 92 1
 95 1
 96 1
-28 0
+106 1
 4
-0 91 -1 0
-0 46 0 1
 0 23 -1 0
 0 39 -1 1
+0 46 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p22-n1 
 5
-106 1
+62 0
 92 1
 95 1
 96 1
-62 0
+106 1
 4
-0 91 -1 0
-0 46 0 1
 0 23 -1 0
 0 39 -1 1
+0 46 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p22-n10 
 5
-106 1
+77 0
 92 1
 95 1
 96 1
-77 0
+106 1
 4
-0 91 -1 0
-0 46 0 1
 0 23 -1 0
 0 39 -1 1
+0 46 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p22-n11 
 5
-106 1
+78 0
 92 1
 95 1
 96 1
-78 0
+106 1
 4
-0 91 -1 0
-0 46 0 1
 0 23 -1 0
 0 39 -1 1
+0 46 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p22-n12 
 5
-106 1
+79 0
 92 1
 95 1
 96 1
-79 0
+106 1
 4
-0 91 -1 0
-0 46 0 1
 0 23 -1 0
 0 39 -1 1
+0 46 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p22-n13 
 5
-106 1
+80 0
 92 1
 95 1
 96 1
-80 0
+106 1
 4
-0 91 -1 0
-0 46 0 1
 0 23 -1 0
 0 39 -1 1
+0 46 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p22-n14 
 5
-106 1
+81 0
 92 1
 95 1
 96 1
-81 0
+106 1
 4
-0 91 -1 0
-0 46 0 1
 0 23 -1 0
 0 39 -1 1
+0 46 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p22-n15 
 5
-106 1
+29 0
 92 1
 95 1
 96 1
-29 0
+106 1
 4
-0 91 -1 0
-0 46 0 1
 0 23 -1 0
 0 39 -1 1
+0 46 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p22-n2 
 5
-106 1
+63 0
 92 1
 95 1
 96 1
-63 0
+106 1
 4
-0 91 -1 0
-0 46 0 1
 0 23 -1 0
 0 39 -1 1
+0 46 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p22-n3 
 5
-106 1
+64 0
 92 1
 95 1
 96 1
-64 0
+106 1
 4
-0 91 -1 0
-0 46 0 1
 0 23 -1 0
 0 39 -1 1
+0 46 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p22-n4 
 5
-106 1
+65 0
 92 1
 95 1
 96 1
-65 0
+106 1
 4
-0 91 -1 0
-0 46 0 1
 0 23 -1 0
 0 39 -1 1
+0 46 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p22-n5 
 5
-106 1
+66 0
 92 1
 95 1
 96 1
-66 0
+106 1
 4
-0 91 -1 0
-0 46 0 1
 0 23 -1 0
 0 39 -1 1
+0 46 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p22-n6 
 5
-106 1
+67 0
 92 1
 95 1
 96 1
-67 0
+106 1
 4
-0 91 -1 0
-0 46 0 1
 0 23 -1 0
 0 39 -1 1
+0 46 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p22-n7 
 5
-106 1
+68 0
 92 1
 95 1
 96 1
-68 0
+106 1
 4
-0 91 -1 0
-0 46 0 1
 0 23 -1 0
 0 39 -1 1
+0 46 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p22-n8 
 5
-106 1
+75 0
 92 1
 95 1
 96 1
-75 0
+106 1
 4
-0 91 -1 0
-0 46 0 1
 0 23 -1 0
 0 39 -1 1
+0 46 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p22-n9 
 5
-106 1
+76 0
 92 1
 95 1
 96 1
-76 0
+106 1
 4
-0 91 -1 0
-0 46 0 1
 0 23 -1 0
 0 39 -1 1
+0 46 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p23-n0 
 6
-105 1
+28 0
 93 1
 94 1
 96 1
 104 1
-28 0
+105 1
 4
-0 91 -1 0
-0 71 0 1
 0 52 -1 0
 0 58 -1 1
+0 71 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p23-n1 
 6
-105 1
+62 0
 93 1
 94 1
 96 1
 104 1
-62 0
+105 1
 4
-0 91 -1 0
-0 71 0 1
 0 52 -1 0
 0 58 -1 1
+0 71 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p23-n10 
 6
-105 1
+77 0
 93 1
 94 1
 96 1
 104 1
-77 0
+105 1
 4
-0 91 -1 0
-0 71 0 1
 0 52 -1 0
 0 58 -1 1
+0 71 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p23-n11 
 6
-105 1
+78 0
 93 1
 94 1
 96 1
 104 1
-78 0
+105 1
 4
-0 91 -1 0
-0 71 0 1
 0 52 -1 0
 0 58 -1 1
+0 71 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p23-n12 
 6
-105 1
+79 0
 93 1
 94 1
 96 1
 104 1
-79 0
+105 1
 4
-0 91 -1 0
-0 71 0 1
 0 52 -1 0
 0 58 -1 1
+0 71 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p23-n13 
 6
-105 1
+80 0
 93 1
 94 1
 96 1
 104 1
-80 0
+105 1
 4
-0 91 -1 0
-0 71 0 1
 0 52 -1 0
 0 58 -1 1
+0 71 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p23-n14 
 6
-105 1
+81 0
 93 1
 94 1
 96 1
 104 1
-81 0
+105 1
 4
-0 91 -1 0
-0 71 0 1
 0 52 -1 0
 0 58 -1 1
+0 71 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p23-n15 
 6
-105 1
+29 0
 93 1
 94 1
 96 1
 104 1
-29 0
+105 1
 4
-0 91 -1 0
-0 71 0 1
 0 52 -1 0
 0 58 -1 1
+0 71 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p23-n2 
 6
-105 1
+63 0
 93 1
 94 1
 96 1
 104 1
-63 0
+105 1
 4
-0 91 -1 0
-0 71 0 1
 0 52 -1 0
 0 58 -1 1
+0 71 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p23-n3 
 6
-105 1
+64 0
 93 1
 94 1
 96 1
 104 1
-64 0
+105 1
 4
-0 91 -1 0
-0 71 0 1
 0 52 -1 0
 0 58 -1 1
+0 71 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p23-n4 
 6
-105 1
+65 0
 93 1
 94 1
 96 1
 104 1
-65 0
+105 1
 4
-0 91 -1 0
-0 71 0 1
 0 52 -1 0
 0 58 -1 1
+0 71 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p23-n5 
 6
-105 1
+66 0
 93 1
 94 1
 96 1
 104 1
-66 0
+105 1
 4
-0 91 -1 0
-0 71 0 1
 0 52 -1 0
 0 58 -1 1
+0 71 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p23-n6 
 6
-105 1
+67 0
 93 1
 94 1
 96 1
 104 1
-67 0
+105 1
 4
-0 91 -1 0
-0 71 0 1
 0 52 -1 0
 0 58 -1 1
+0 71 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p23-n7 
 6
-105 1
+68 0
 93 1
 94 1
 96 1
 104 1
-68 0
+105 1
 4
-0 91 -1 0
-0 71 0 1
 0 52 -1 0
 0 58 -1 1
+0 71 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p23-n8 
 6
-105 1
+75 0
 93 1
 94 1
 96 1
 104 1
-75 0
+105 1
 4
-0 91 -1 0
-0 71 0 1
 0 52 -1 0
 0 58 -1 1
+0 71 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p23-n9 
 6
-105 1
+76 0
 93 1
 94 1
 96 1
 104 1
-76 0
+105 1
 4
-0 91 -1 0
-0 71 0 1
 0 52 -1 0
 0 58 -1 1
+0 71 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p24-n0 
 6
-103 1
+28 0
 92 1
 95 1
 96 1
+103 1
 104 1
-28 0
 4
-0 91 -1 0
-0 72 0 1
 0 53 -1 0
 0 59 -1 1
+0 72 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p24-n1 
 6
-103 1
+62 0
 92 1
 95 1
 96 1
+103 1
 104 1
-62 0
 4
-0 91 -1 0
-0 72 0 1
 0 53 -1 0
 0 59 -1 1
+0 72 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p24-n10 
 6
-103 1
+77 0
 92 1
 95 1
 96 1
+103 1
 104 1
-77 0
 4
-0 91 -1 0
-0 72 0 1
 0 53 -1 0
 0 59 -1 1
+0 72 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p24-n11 
 6
-103 1
+78 0
 92 1
 95 1
 96 1
+103 1
 104 1
-78 0
 4
-0 91 -1 0
-0 72 0 1
 0 53 -1 0
 0 59 -1 1
+0 72 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p24-n12 
 6
-103 1
+79 0
 92 1
 95 1
 96 1
+103 1
 104 1
-79 0
 4
-0 91 -1 0
-0 72 0 1
 0 53 -1 0
 0 59 -1 1
+0 72 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p24-n13 
 6
-103 1
+80 0
 92 1
 95 1
 96 1
+103 1
 104 1
-80 0
 4
-0 91 -1 0
-0 72 0 1
 0 53 -1 0
 0 59 -1 1
+0 72 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p24-n14 
 6
-103 1
+81 0
 92 1
 95 1
 96 1
+103 1
 104 1
-81 0
 4
-0 91 -1 0
-0 72 0 1
 0 53 -1 0
 0 59 -1 1
+0 72 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p24-n15 
 6
-103 1
+29 0
 92 1
 95 1
 96 1
+103 1
 104 1
-29 0
 4
-0 91 -1 0
-0 72 0 1
 0 53 -1 0
 0 59 -1 1
+0 72 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p24-n2 
 6
-103 1
+63 0
 92 1
 95 1
 96 1
+103 1
 104 1
-63 0
 4
-0 91 -1 0
-0 72 0 1
 0 53 -1 0
 0 59 -1 1
+0 72 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p24-n3 
 6
-103 1
+64 0
 92 1
 95 1
 96 1
+103 1
 104 1
-64 0
 4
-0 91 -1 0
-0 72 0 1
 0 53 -1 0
 0 59 -1 1
+0 72 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p24-n4 
 6
-103 1
+65 0
 92 1
 95 1
 96 1
+103 1
 104 1
-65 0
 4
-0 91 -1 0
-0 72 0 1
 0 53 -1 0
 0 59 -1 1
+0 72 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p24-n5 
 6
-103 1
+66 0
 92 1
 95 1
 96 1
+103 1
 104 1
-66 0
 4
-0 91 -1 0
-0 72 0 1
 0 53 -1 0
 0 59 -1 1
+0 72 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p24-n6 
 6
-103 1
+67 0
 92 1
 95 1
 96 1
+103 1
 104 1
-67 0
 4
-0 91 -1 0
-0 72 0 1
 0 53 -1 0
 0 59 -1 1
+0 72 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p24-n7 
 6
-103 1
+68 0
 92 1
 95 1
 96 1
+103 1
 104 1
-68 0
 4
-0 91 -1 0
-0 72 0 1
 0 53 -1 0
 0 59 -1 1
+0 72 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p24-n8 
 6
-103 1
+75 0
 92 1
 95 1
 96 1
+103 1
 104 1
-75 0
 4
-0 91 -1 0
-0 72 0 1
 0 53 -1 0
 0 59 -1 1
+0 72 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p24-n9 
 6
-103 1
+76 0
 92 1
 95 1
 96 1
+103 1
 104 1
-76 0
 4
-0 91 -1 0
-0 72 0 1
 0 53 -1 0
 0 59 -1 1
+0 72 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p25-n0 
 5
-103 1
-97 1
-92 1
-102 1
 28 0
+92 1
+97 1
+102 1
+103 1
 4
-0 91 -1 0
-0 47 0 1
 0 25 -1 0
 0 40 -1 1
+0 47 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p25-n1 
 5
-103 1
-97 1
-92 1
-102 1
 62 0
+92 1
+97 1
+102 1
+103 1
 4
-0 91 -1 0
-0 47 0 1
 0 25 -1 0
 0 40 -1 1
+0 47 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p25-n10 
 5
-103 1
-97 1
-92 1
-102 1
 77 0
+92 1
+97 1
+102 1
+103 1
 4
-0 91 -1 0
-0 47 0 1
 0 25 -1 0
 0 40 -1 1
+0 47 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p25-n11 
 5
-103 1
-97 1
-92 1
-102 1
 78 0
+92 1
+97 1
+102 1
+103 1
 4
-0 91 -1 0
-0 47 0 1
 0 25 -1 0
 0 40 -1 1
+0 47 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p25-n12 
 5
-103 1
-97 1
-92 1
-102 1
 79 0
+92 1
+97 1
+102 1
+103 1
 4
-0 91 -1 0
-0 47 0 1
 0 25 -1 0
 0 40 -1 1
+0 47 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p25-n13 
 5
-103 1
-97 1
-92 1
-102 1
 80 0
+92 1
+97 1
+102 1
+103 1
 4
-0 91 -1 0
-0 47 0 1
 0 25 -1 0
 0 40 -1 1
+0 47 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p25-n14 
 5
-103 1
-97 1
-92 1
-102 1
 81 0
+92 1
+97 1
+102 1
+103 1
 4
-0 91 -1 0
-0 47 0 1
 0 25 -1 0
 0 40 -1 1
+0 47 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p25-n15 
 5
-103 1
-97 1
-92 1
-102 1
 29 0
+92 1
+97 1
+102 1
+103 1
 4
-0 91 -1 0
-0 47 0 1
 0 25 -1 0
 0 40 -1 1
+0 47 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p25-n2 
 5
-103 1
-97 1
-92 1
-102 1
 63 0
+92 1
+97 1
+102 1
+103 1
 4
-0 91 -1 0
-0 47 0 1
 0 25 -1 0
 0 40 -1 1
+0 47 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p25-n3 
 5
-103 1
-97 1
-92 1
-102 1
 64 0
+92 1
+97 1
+102 1
+103 1
 4
-0 91 -1 0
-0 47 0 1
 0 25 -1 0
 0 40 -1 1
+0 47 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p25-n4 
 5
-103 1
-97 1
-92 1
-102 1
 65 0
+92 1
+97 1
+102 1
+103 1
 4
-0 91 -1 0
-0 47 0 1
 0 25 -1 0
 0 40 -1 1
+0 47 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p25-n5 
 5
-103 1
-97 1
-92 1
-102 1
 66 0
+92 1
+97 1
+102 1
+103 1
 4
-0 91 -1 0
-0 47 0 1
 0 25 -1 0
 0 40 -1 1
+0 47 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p25-n6 
 5
-103 1
-97 1
-92 1
-102 1
 67 0
+92 1
+97 1
+102 1
+103 1
 4
-0 91 -1 0
-0 47 0 1
 0 25 -1 0
 0 40 -1 1
+0 47 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p25-n7 
 5
-103 1
-97 1
-92 1
-102 1
 68 0
+92 1
+97 1
+102 1
+103 1
 4
-0 91 -1 0
-0 47 0 1
 0 25 -1 0
 0 40 -1 1
+0 47 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p25-n8 
 5
-103 1
-97 1
-92 1
-102 1
 75 0
+92 1
+97 1
+102 1
+103 1
 4
-0 91 -1 0
-0 47 0 1
 0 25 -1 0
 0 40 -1 1
+0 47 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p25-n9 
 5
-103 1
-97 1
-92 1
-102 1
 76 0
+92 1
+97 1
+102 1
+103 1
 4
-0 91 -1 0
-0 47 0 1
 0 25 -1 0
 0 40 -1 1
+0 47 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p3-n0 
 6
-106 1
+28 0
 93 1
 95 1
 96 1
 104 1
-28 0
+106 1
 4
-0 91 -1 0
-0 73 0 1
 0 54 -1 0
 0 60 -1 1
+0 73 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p3-n1 
 6
-106 1
+62 0
 93 1
 95 1
 96 1
 104 1
-62 0
+106 1
 4
-0 91 -1 0
-0 73 0 1
 0 54 -1 0
 0 60 -1 1
+0 73 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p3-n10 
 6
-106 1
+77 0
 93 1
 95 1
 96 1
 104 1
-77 0
+106 1
 4
-0 91 -1 0
-0 73 0 1
 0 54 -1 0
 0 60 -1 1
+0 73 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p3-n11 
 6
-106 1
+78 0
 93 1
 95 1
 96 1
 104 1
-78 0
+106 1
 4
-0 91 -1 0
-0 73 0 1
 0 54 -1 0
 0 60 -1 1
+0 73 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p3-n12 
 6
-106 1
+79 0
 93 1
 95 1
 96 1
 104 1
-79 0
+106 1
 4
-0 91 -1 0
-0 73 0 1
 0 54 -1 0
 0 60 -1 1
+0 73 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p3-n13 
 6
-106 1
+80 0
 93 1
 95 1
 96 1
 104 1
-80 0
+106 1
 4
-0 91 -1 0
-0 73 0 1
 0 54 -1 0
 0 60 -1 1
+0 73 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p3-n14 
 6
-106 1
+81 0
 93 1
 95 1
 96 1
 104 1
-81 0
+106 1
 4
-0 91 -1 0
-0 73 0 1
 0 54 -1 0
 0 60 -1 1
+0 73 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p3-n15 
 6
-106 1
+29 0
 93 1
 95 1
 96 1
 104 1
-29 0
+106 1
 4
-0 91 -1 0
-0 73 0 1
 0 54 -1 0
 0 60 -1 1
+0 73 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p3-n2 
 6
-106 1
+63 0
 93 1
 95 1
 96 1
 104 1
-63 0
+106 1
 4
-0 91 -1 0
-0 73 0 1
 0 54 -1 0
 0 60 -1 1
+0 73 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p3-n3 
 6
-106 1
+64 0
 93 1
 95 1
 96 1
 104 1
-64 0
+106 1
 4
-0 91 -1 0
-0 73 0 1
 0 54 -1 0
 0 60 -1 1
+0 73 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p3-n4 
 6
-106 1
+65 0
 93 1
 95 1
 96 1
 104 1
-65 0
+106 1
 4
-0 91 -1 0
-0 73 0 1
 0 54 -1 0
 0 60 -1 1
+0 73 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p3-n5 
 6
-106 1
+66 0
 93 1
 95 1
 96 1
 104 1
-66 0
+106 1
 4
-0 91 -1 0
-0 73 0 1
 0 54 -1 0
 0 60 -1 1
+0 73 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p3-n6 
 6
-106 1
+67 0
 93 1
 95 1
 96 1
 104 1
-67 0
+106 1
 4
-0 91 -1 0
-0 73 0 1
 0 54 -1 0
 0 60 -1 1
+0 73 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p3-n7 
 6
-106 1
+68 0
 93 1
 95 1
 96 1
 104 1
-68 0
+106 1
 4
-0 91 -1 0
-0 73 0 1
 0 54 -1 0
 0 60 -1 1
+0 73 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p3-n8 
 6
-106 1
+75 0
 93 1
 95 1
 96 1
 104 1
-75 0
+106 1
 4
-0 91 -1 0
-0 73 0 1
 0 54 -1 0
 0 60 -1 1
+0 73 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p3-n9 
 6
-106 1
+76 0
 93 1
 95 1
 96 1
 104 1
-76 0
+106 1
 4
-0 91 -1 0
-0 73 0 1
 0 54 -1 0
 0 60 -1 1
+0 73 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p4-n0 
 5
+28 0
 98 1
-106 1
 99 1
 101 1
-28 0
+106 1
 4
-0 91 -1 0
-0 48 0 1
 0 26 -1 0
 0 41 -1 1
+0 48 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p4-n1 
 5
+62 0
 98 1
-106 1
 99 1
 101 1
-62 0
+106 1
 4
-0 91 -1 0
-0 48 0 1
 0 26 -1 0
 0 41 -1 1
+0 48 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p4-n10 
 5
+77 0
 98 1
-106 1
 99 1
 101 1
-77 0
+106 1
 4
-0 91 -1 0
-0 48 0 1
 0 26 -1 0
 0 41 -1 1
+0 48 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p4-n11 
 5
+78 0
 98 1
-106 1
 99 1
 101 1
-78 0
+106 1
 4
-0 91 -1 0
-0 48 0 1
 0 26 -1 0
 0 41 -1 1
+0 48 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p4-n12 
 5
+79 0
 98 1
-106 1
 99 1
 101 1
-79 0
+106 1
 4
-0 91 -1 0
-0 48 0 1
 0 26 -1 0
 0 41 -1 1
+0 48 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p4-n13 
 5
+80 0
 98 1
-106 1
 99 1
 101 1
-80 0
+106 1
 4
-0 91 -1 0
-0 48 0 1
 0 26 -1 0
 0 41 -1 1
+0 48 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p4-n14 
 5
+81 0
 98 1
-106 1
 99 1
 101 1
-81 0
+106 1
 4
-0 91 -1 0
-0 48 0 1
 0 26 -1 0
 0 41 -1 1
+0 48 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p4-n15 
 5
+29 0
 98 1
-106 1
 99 1
 101 1
-29 0
+106 1
 4
-0 91 -1 0
-0 48 0 1
 0 26 -1 0
 0 41 -1 1
+0 48 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p4-n2 
 5
+63 0
 98 1
-106 1
 99 1
 101 1
-63 0
+106 1
 4
-0 91 -1 0
-0 48 0 1
 0 26 -1 0
 0 41 -1 1
+0 48 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p4-n3 
 5
+64 0
 98 1
-106 1
 99 1
 101 1
-64 0
+106 1
 4
-0 91 -1 0
-0 48 0 1
 0 26 -1 0
 0 41 -1 1
+0 48 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p4-n4 
 5
+65 0
 98 1
-106 1
 99 1
 101 1
-65 0
+106 1
 4
-0 91 -1 0
-0 48 0 1
 0 26 -1 0
 0 41 -1 1
+0 48 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p4-n5 
 5
+66 0
 98 1
-106 1
 99 1
 101 1
-66 0
+106 1
 4
-0 91 -1 0
-0 48 0 1
 0 26 -1 0
 0 41 -1 1
+0 48 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p4-n6 
 5
+67 0
 98 1
-106 1
 99 1
 101 1
-67 0
+106 1
 4
-0 91 -1 0
-0 48 0 1
 0 26 -1 0
 0 41 -1 1
+0 48 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p4-n7 
 5
+68 0
 98 1
-106 1
 99 1
 101 1
-68 0
+106 1
 4
-0 91 -1 0
-0 48 0 1
 0 26 -1 0
 0 41 -1 1
+0 48 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p4-n8 
 5
+75 0
 98 1
-106 1
 99 1
 101 1
-75 0
+106 1
 4
-0 91 -1 0
-0 48 0 1
 0 26 -1 0
 0 41 -1 1
+0 48 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p4-n9 
 5
+76 0
 98 1
-106 1
 99 1
 101 1
-76 0
+106 1
 4
-0 91 -1 0
-0 48 0 1
 0 26 -1 0
 0 41 -1 1
+0 48 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p5-n0 
 3
-103 1
-93 1
 28 0
+93 1
+103 1
 4
-0 91 -1 0
-0 20 0 1
 0 2 -1 0
 0 5 -1 1
+0 20 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p5-n1 
 3
-103 1
-93 1
 62 0
+93 1
+103 1
 4
-0 91 -1 0
-0 20 0 1
 0 2 -1 0
 0 5 -1 1
+0 20 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p5-n10 
 3
-103 1
-93 1
 77 0
+93 1
+103 1
 4
-0 91 -1 0
-0 20 0 1
 0 2 -1 0
 0 5 -1 1
+0 20 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p5-n11 
 3
-103 1
-93 1
 78 0
+93 1
+103 1
 4
-0 91 -1 0
-0 20 0 1
 0 2 -1 0
 0 5 -1 1
+0 20 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p5-n12 
 3
-103 1
-93 1
 79 0
+93 1
+103 1
 4
-0 91 -1 0
-0 20 0 1
 0 2 -1 0
 0 5 -1 1
+0 20 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p5-n13 
 3
-103 1
-93 1
 80 0
+93 1
+103 1
 4
-0 91 -1 0
-0 20 0 1
 0 2 -1 0
 0 5 -1 1
+0 20 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p5-n14 
 3
-103 1
-93 1
 81 0
+93 1
+103 1
 4
-0 91 -1 0
-0 20 0 1
 0 2 -1 0
 0 5 -1 1
+0 20 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p5-n15 
 3
-103 1
-93 1
 29 0
+93 1
+103 1
 4
-0 91 -1 0
-0 20 0 1
 0 2 -1 0
 0 5 -1 1
+0 20 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p5-n2 
 3
-103 1
-93 1
 63 0
+93 1
+103 1
 4
-0 91 -1 0
-0 20 0 1
 0 2 -1 0
 0 5 -1 1
+0 20 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p5-n3 
 3
-103 1
-93 1
 64 0
+93 1
+103 1
 4
-0 91 -1 0
-0 20 0 1
 0 2 -1 0
 0 5 -1 1
+0 20 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p5-n4 
 3
-103 1
-93 1
 65 0
+93 1
+103 1
 4
-0 91 -1 0
-0 20 0 1
 0 2 -1 0
 0 5 -1 1
+0 20 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p5-n5 
 3
-103 1
-93 1
 66 0
+93 1
+103 1
 4
-0 91 -1 0
-0 20 0 1
 0 2 -1 0
 0 5 -1 1
+0 20 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p5-n6 
 3
-103 1
-93 1
 67 0
+93 1
+103 1
 4
-0 91 -1 0
-0 20 0 1
 0 2 -1 0
 0 5 -1 1
+0 20 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p5-n7 
 3
-103 1
-93 1
 68 0
+93 1
+103 1
 4
-0 91 -1 0
-0 20 0 1
 0 2 -1 0
 0 5 -1 1
+0 20 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p5-n8 
 3
-103 1
-93 1
 75 0
+93 1
+103 1
 4
-0 91 -1 0
-0 20 0 1
 0 2 -1 0
 0 5 -1 1
+0 20 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p5-n9 
 3
-103 1
-93 1
 76 0
+93 1
+103 1
 4
-0 91 -1 0
-0 20 0 1
 0 2 -1 0
 0 5 -1 1
+0 20 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p6-n0 
 4
+28 0
 93 1
 94 1
 95 1
-28 0
 4
-0 91 -1 0
-0 34 0 1
 0 10 -1 0
 0 16 -1 1
+0 34 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p6-n1 
 4
+62 0
 93 1
 94 1
 95 1
-62 0
 4
-0 91 -1 0
-0 34 0 1
 0 10 -1 0
 0 16 -1 1
+0 34 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p6-n10 
 4
+77 0
 93 1
 94 1
 95 1
-77 0
 4
-0 91 -1 0
-0 34 0 1
 0 10 -1 0
 0 16 -1 1
+0 34 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p6-n11 
 4
+78 0
 93 1
 94 1
 95 1
-78 0
 4
-0 91 -1 0
-0 34 0 1
 0 10 -1 0
 0 16 -1 1
+0 34 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p6-n12 
 4
+79 0
 93 1
 94 1
 95 1
-79 0
 4
-0 91 -1 0
-0 34 0 1
 0 10 -1 0
 0 16 -1 1
+0 34 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p6-n13 
 4
+80 0
 93 1
 94 1
 95 1
-80 0
 4
-0 91 -1 0
-0 34 0 1
 0 10 -1 0
 0 16 -1 1
+0 34 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p6-n14 
 4
+81 0
 93 1
 94 1
 95 1
-81 0
 4
-0 91 -1 0
-0 34 0 1
 0 10 -1 0
 0 16 -1 1
+0 34 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p6-n15 
 4
+29 0
 93 1
 94 1
 95 1
-29 0
 4
-0 91 -1 0
-0 34 0 1
 0 10 -1 0
 0 16 -1 1
+0 34 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p6-n2 
 4
+63 0
 93 1
 94 1
 95 1
-63 0
 4
-0 91 -1 0
-0 34 0 1
 0 10 -1 0
 0 16 -1 1
+0 34 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p6-n3 
 4
+64 0
 93 1
 94 1
 95 1
-64 0
 4
-0 91 -1 0
-0 34 0 1
 0 10 -1 0
 0 16 -1 1
+0 34 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p6-n4 
 4
+65 0
 93 1
 94 1
 95 1
-65 0
 4
-0 91 -1 0
-0 34 0 1
 0 10 -1 0
 0 16 -1 1
+0 34 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p6-n5 
 4
+66 0
 93 1
 94 1
 95 1
-66 0
 4
-0 91 -1 0
-0 34 0 1
 0 10 -1 0
 0 16 -1 1
+0 34 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p6-n6 
 4
+67 0
 93 1
 94 1
 95 1
-67 0
 4
-0 91 -1 0
-0 34 0 1
 0 10 -1 0
 0 16 -1 1
+0 34 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p6-n7 
 4
+68 0
 93 1
 94 1
 95 1
-68 0
 4
-0 91 -1 0
-0 34 0 1
 0 10 -1 0
 0 16 -1 1
+0 34 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p6-n8 
 4
+75 0
 93 1
 94 1
 95 1
-75 0
 4
-0 91 -1 0
-0 34 0 1
 0 10 -1 0
 0 16 -1 1
+0 34 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p6-n9 
 4
+76 0
 93 1
 94 1
 95 1
-76 0
 4
-0 91 -1 0
-0 34 0 1
 0 10 -1 0
 0 16 -1 1
+0 34 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p7-n0 
 5
-103 1
-105 1
+28 0
 92 1
 102 1
-28 0
+103 1
+105 1
 4
-0 91 -1 0
-0 49 0 1
 0 27 -1 0
 0 42 -1 1
+0 49 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p7-n1 
 5
-103 1
-105 1
+62 0
 92 1
 102 1
-62 0
+103 1
+105 1
 4
-0 91 -1 0
-0 49 0 1
 0 27 -1 0
 0 42 -1 1
+0 49 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p7-n10 
 5
-103 1
-105 1
+77 0
 92 1
 102 1
-77 0
+103 1
+105 1
 4
-0 91 -1 0
-0 49 0 1
 0 27 -1 0
 0 42 -1 1
+0 49 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p7-n11 
 5
-103 1
-105 1
+78 0
 92 1
 102 1
-78 0
+103 1
+105 1
 4
-0 91 -1 0
-0 49 0 1
 0 27 -1 0
 0 42 -1 1
+0 49 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p7-n12 
 5
-103 1
-105 1
+79 0
 92 1
 102 1
-79 0
+103 1
+105 1
 4
-0 91 -1 0
-0 49 0 1
 0 27 -1 0
 0 42 -1 1
+0 49 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p7-n13 
 5
-103 1
-105 1
+80 0
 92 1
 102 1
-80 0
+103 1
+105 1
 4
-0 91 -1 0
-0 49 0 1
 0 27 -1 0
 0 42 -1 1
+0 49 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p7-n14 
 5
-103 1
-105 1
+81 0
 92 1
 102 1
-81 0
+103 1
+105 1
 4
-0 91 -1 0
-0 49 0 1
 0 27 -1 0
 0 42 -1 1
+0 49 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p7-n15 
 5
-103 1
-105 1
+29 0
 92 1
 102 1
-29 0
+103 1
+105 1
 4
-0 91 -1 0
-0 49 0 1
 0 27 -1 0
 0 42 -1 1
+0 49 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p7-n2 
 5
-103 1
-105 1
+63 0
 92 1
 102 1
-63 0
+103 1
+105 1
 4
-0 91 -1 0
-0 49 0 1
 0 27 -1 0
 0 42 -1 1
+0 49 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p7-n3 
 5
-103 1
-105 1
+64 0
 92 1
 102 1
-64 0
+103 1
+105 1
 4
-0 91 -1 0
-0 49 0 1
 0 27 -1 0
 0 42 -1 1
+0 49 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p7-n4 
 5
-103 1
-105 1
+65 0
 92 1
 102 1
-65 0
+103 1
+105 1
 4
-0 91 -1 0
-0 49 0 1
 0 27 -1 0
 0 42 -1 1
+0 49 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p7-n5 
 5
-103 1
-105 1
+66 0
 92 1
 102 1
-66 0
+103 1
+105 1
 4
-0 91 -1 0
-0 49 0 1
 0 27 -1 0
 0 42 -1 1
+0 49 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p7-n6 
 5
-103 1
-105 1
+67 0
 92 1
 102 1
-67 0
+103 1
+105 1
 4
-0 91 -1 0
-0 49 0 1
 0 27 -1 0
 0 42 -1 1
+0 49 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p7-n7 
 5
-103 1
-105 1
+68 0
 92 1
 102 1
-68 0
+103 1
+105 1
 4
-0 91 -1 0
-0 49 0 1
 0 27 -1 0
 0 42 -1 1
+0 49 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p7-n8 
 5
-103 1
-105 1
+75 0
 92 1
 102 1
-75 0
+103 1
+105 1
 4
-0 91 -1 0
-0 49 0 1
 0 27 -1 0
 0 42 -1 1
+0 49 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p7-n9 
 5
-103 1
-105 1
+76 0
 92 1
 102 1
-76 0
+103 1
+105 1
 4
-0 91 -1 0
-0 49 0 1
 0 27 -1 0
 0 42 -1 1
+0 49 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p8-n0 
 4
+28 0
 93 1
 94 1
 104 1
-28 0
 4
-0 91 -1 0
-0 35 0 1
 0 11 -1 0
 0 17 -1 1
+0 35 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p8-n1 
 4
+62 0
 93 1
 94 1
 104 1
-62 0
 4
-0 91 -1 0
-0 35 0 1
 0 11 -1 0
 0 17 -1 1
+0 35 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p8-n10 
 4
+77 0
 93 1
 94 1
 104 1
-77 0
 4
-0 91 -1 0
-0 35 0 1
 0 11 -1 0
 0 17 -1 1
+0 35 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p8-n11 
 4
+78 0
 93 1
 94 1
 104 1
-78 0
 4
-0 91 -1 0
-0 35 0 1
 0 11 -1 0
 0 17 -1 1
+0 35 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p8-n12 
 4
+79 0
 93 1
 94 1
 104 1
-79 0
 4
-0 91 -1 0
-0 35 0 1
 0 11 -1 0
 0 17 -1 1
+0 35 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p8-n13 
 4
+80 0
 93 1
 94 1
 104 1
-80 0
 4
-0 91 -1 0
-0 35 0 1
 0 11 -1 0
 0 17 -1 1
+0 35 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p8-n14 
 4
+81 0
 93 1
 94 1
 104 1
-81 0
 4
-0 91 -1 0
-0 35 0 1
 0 11 -1 0
 0 17 -1 1
+0 35 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p8-n15 
 4
+29 0
 93 1
 94 1
 104 1
-29 0
 4
-0 91 -1 0
-0 35 0 1
 0 11 -1 0
 0 17 -1 1
+0 35 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p8-n2 
 4
+63 0
 93 1
 94 1
 104 1
-63 0
 4
-0 91 -1 0
-0 35 0 1
 0 11 -1 0
 0 17 -1 1
+0 35 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p8-n3 
 4
+64 0
 93 1
 94 1
 104 1
-64 0
 4
-0 91 -1 0
-0 35 0 1
 0 11 -1 0
 0 17 -1 1
+0 35 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p8-n4 
 4
+65 0
 93 1
 94 1
 104 1
-65 0
 4
-0 91 -1 0
-0 35 0 1
 0 11 -1 0
 0 17 -1 1
+0 35 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p8-n5 
 4
+66 0
 93 1
 94 1
 104 1
-66 0
 4
-0 91 -1 0
-0 35 0 1
 0 11 -1 0
 0 17 -1 1
+0 35 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p8-n6 
 4
+67 0
 93 1
 94 1
 104 1
-67 0
 4
-0 91 -1 0
-0 35 0 1
 0 11 -1 0
 0 17 -1 1
+0 35 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p8-n7 
 4
+68 0
 93 1
 94 1
 104 1
-68 0
 4
-0 91 -1 0
-0 35 0 1
 0 11 -1 0
 0 17 -1 1
+0 35 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p8-n8 
 4
+75 0
 93 1
 94 1
 104 1
-75 0
 4
-0 91 -1 0
-0 35 0 1
 0 11 -1 0
 0 17 -1 1
+0 35 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p8-n9 
 4
+76 0
 93 1
 94 1
 104 1
-76 0
 4
-0 91 -1 0
-0 35 0 1
 0 11 -1 0
 0 17 -1 1
+0 35 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p9-n0 
 6
-105 1
-106 1
+28 0
 97 1
 100 1
 102 1
-28 0
+105 1
+106 1
 4
-0 91 -1 0
-0 74 0 1
 0 55 -1 0
 0 61 -1 1
+0 74 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p9-n1 
 6
-105 1
-106 1
+62 0
 97 1
 100 1
 102 1
-62 0
+105 1
+106 1
 4
-0 91 -1 0
-0 74 0 1
 0 55 -1 0
 0 61 -1 1
+0 74 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p9-n10 
 6
-105 1
-106 1
+77 0
 97 1
 100 1
 102 1
-77 0
+105 1
+106 1
 4
-0 91 -1 0
-0 74 0 1
 0 55 -1 0
 0 61 -1 1
+0 74 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p9-n11 
 6
-105 1
-106 1
+78 0
 97 1
 100 1
 102 1
-78 0
+105 1
+106 1
 4
-0 91 -1 0
-0 74 0 1
 0 55 -1 0
 0 61 -1 1
+0 74 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p9-n12 
 6
-105 1
-106 1
+79 0
 97 1
 100 1
 102 1
-79 0
+105 1
+106 1
 4
-0 91 -1 0
-0 74 0 1
 0 55 -1 0
 0 61 -1 1
+0 74 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p9-n13 
 6
-105 1
-106 1
+80 0
 97 1
 100 1
 102 1
-80 0
+105 1
+106 1
 4
-0 91 -1 0
-0 74 0 1
 0 55 -1 0
 0 61 -1 1
+0 74 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p9-n14 
 6
-105 1
-106 1
+81 0
 97 1
 100 1
 102 1
-81 0
+105 1
+106 1
 4
-0 91 -1 0
-0 74 0 1
 0 55 -1 0
 0 61 -1 1
+0 74 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p9-n15 
 6
-105 1
-106 1
+29 0
 97 1
 100 1
 102 1
-29 0
+105 1
+106 1
 4
-0 91 -1 0
-0 74 0 1
 0 55 -1 0
 0 61 -1 1
+0 74 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p9-n2 
 6
-105 1
-106 1
+63 0
 97 1
 100 1
 102 1
-63 0
+105 1
+106 1
 4
-0 91 -1 0
-0 74 0 1
 0 55 -1 0
 0 61 -1 1
+0 74 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p9-n3 
 6
-105 1
-106 1
+64 0
 97 1
 100 1
 102 1
-64 0
+105 1
+106 1
 4
-0 91 -1 0
-0 74 0 1
 0 55 -1 0
 0 61 -1 1
+0 74 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p9-n4 
 6
-105 1
-106 1
+65 0
 97 1
 100 1
 102 1
-65 0
+105 1
+106 1
 4
-0 91 -1 0
-0 74 0 1
 0 55 -1 0
 0 61 -1 1
+0 74 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p9-n5 
 6
-105 1
-106 1
+66 0
 97 1
 100 1
 102 1
-66 0
+105 1
+106 1
 4
-0 91 -1 0
-0 74 0 1
 0 55 -1 0
 0 61 -1 1
+0 74 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p9-n6 
 6
-105 1
-106 1
+67 0
 97 1
 100 1
 102 1
-67 0
+105 1
+106 1
 4
-0 91 -1 0
-0 74 0 1
 0 55 -1 0
 0 61 -1 1
+0 74 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p9-n7 
 6
-105 1
-106 1
+68 0
 97 1
 100 1
 102 1
-68 0
+105 1
+106 1
 4
-0 91 -1 0
-0 74 0 1
 0 55 -1 0
 0 61 -1 1
+0 74 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p9-n8 
 6
-105 1
-106 1
+75 0
 97 1
 100 1
 102 1
-75 0
+105 1
+106 1
 4
-0 91 -1 0
-0 74 0 1
 0 55 -1 0
 0 61 -1 1
+0 74 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
 make-product-p9-n9 
 6
-105 1
-106 1
+76 0
 97 1
 100 1
 102 1
-76 0
+105 1
+106 1
 4
-0 91 -1 0
-0 74 0 1
 0 55 -1 0
 0 61 -1 1
+0 74 0 1
+0 91 -1 0
 1
 end_operator
 begin_operator
@@ -6950,8 +6950,8 @@ begin_operator
 open-new-stack-n14-n15 
 0
 2
-0 81 0 1
 0 29 -1 0
+0 81 0 1
 1
 end_operator
 begin_operator
@@ -7014,8 +7014,8 @@ begin_operator
 open-new-stack-n9-n10 
 0
 2
-0 77 -1 0
 0 76 0 1
+0 77 -1 0
 1
 end_operator
 begin_operator
@@ -7024,8 +7024,8 @@ setup-machine-p1-n0
 3 0
 28 0
 2
-0 91 0 1
 0 18 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7034,8 +7034,8 @@ setup-machine-p1-n1
 3 0
 62 0
 2
-0 91 0 1
 0 18 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7044,8 +7044,8 @@ setup-machine-p1-n10
 3 0
 77 0
 2
-0 91 0 1
 0 18 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7054,8 +7054,8 @@ setup-machine-p1-n11
 3 0
 78 0
 2
-0 91 0 1
 0 18 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7064,8 +7064,8 @@ setup-machine-p1-n12
 3 0
 79 0
 2
-0 91 0 1
 0 18 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7074,8 +7074,8 @@ setup-machine-p1-n13
 3 0
 80 0
 2
-0 91 0 1
 0 18 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7084,8 +7084,8 @@ setup-machine-p1-n14
 3 0
 81 0
 2
-0 91 0 1
 0 18 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7094,8 +7094,8 @@ setup-machine-p1-n15
 3 0
 29 0
 2
-0 91 0 1
 0 18 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7104,8 +7104,8 @@ setup-machine-p1-n2
 3 0
 63 0
 2
-0 91 0 1
 0 18 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7114,8 +7114,8 @@ setup-machine-p1-n3
 3 0
 64 0
 2
-0 91 0 1
 0 18 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7124,8 +7124,8 @@ setup-machine-p1-n4
 3 0
 65 0
 2
-0 91 0 1
 0 18 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7134,8 +7134,8 @@ setup-machine-p1-n5
 3 0
 66 0
 2
-0 91 0 1
 0 18 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7144,8 +7144,8 @@ setup-machine-p1-n6
 3 0
 67 0
 2
-0 91 0 1
 0 18 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7154,8 +7154,8 @@ setup-machine-p1-n7
 3 0
 68 0
 2
-0 91 0 1
 0 18 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7164,8 +7164,8 @@ setup-machine-p1-n8
 3 0
 75 0
 2
-0 91 0 1
 0 18 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7174,8 +7174,8 @@ setup-machine-p1-n9
 3 0
 76 0
 2
-0 91 0 1
 0 18 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7184,8 +7184,8 @@ setup-machine-p10-n0
 12 0
 28 0
 2
-0 91 0 1
 0 30 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7194,8 +7194,8 @@ setup-machine-p10-n1
 12 0
 62 0
 2
-0 91 0 1
 0 30 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7204,8 +7204,8 @@ setup-machine-p10-n10
 12 0
 77 0
 2
-0 91 0 1
 0 30 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7214,8 +7214,8 @@ setup-machine-p10-n11
 12 0
 78 0
 2
-0 91 0 1
 0 30 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7224,8 +7224,8 @@ setup-machine-p10-n12
 12 0
 79 0
 2
-0 91 0 1
 0 30 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7234,8 +7234,8 @@ setup-machine-p10-n13
 12 0
 80 0
 2
-0 91 0 1
 0 30 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7244,8 +7244,8 @@ setup-machine-p10-n14
 12 0
 81 0
 2
-0 91 0 1
 0 30 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7254,8 +7254,8 @@ setup-machine-p10-n15
 12 0
 29 0
 2
-0 91 0 1
 0 30 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7264,8 +7264,8 @@ setup-machine-p10-n2
 12 0
 63 0
 2
-0 91 0 1
 0 30 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7274,8 +7274,8 @@ setup-machine-p10-n3
 12 0
 64 0
 2
-0 91 0 1
 0 30 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7284,8 +7284,8 @@ setup-machine-p10-n4
 12 0
 65 0
 2
-0 91 0 1
 0 30 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7294,8 +7294,8 @@ setup-machine-p10-n5
 12 0
 66 0
 2
-0 91 0 1
 0 30 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7304,8 +7304,8 @@ setup-machine-p10-n6
 12 0
 67 0
 2
-0 91 0 1
 0 30 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7314,8 +7314,8 @@ setup-machine-p10-n7
 12 0
 68 0
 2
-0 91 0 1
 0 30 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7324,8 +7324,8 @@ setup-machine-p10-n8
 12 0
 75 0
 2
-0 91 0 1
 0 30 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7334,18 +7334,18 @@ setup-machine-p10-n9
 12 0
 76 0
 2
-0 91 0 1
 0 30 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p11-n0 
 2
-36 0
 28 0
+36 0
 2
-0 91 0 1
 0 43 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7354,8 +7354,8 @@ setup-machine-p11-n1
 36 0
 62 0
 2
-0 91 0 1
 0 43 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7364,8 +7364,8 @@ setup-machine-p11-n10
 36 0
 77 0
 2
-0 91 0 1
 0 43 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7374,8 +7374,8 @@ setup-machine-p11-n11
 36 0
 78 0
 2
-0 91 0 1
 0 43 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7384,8 +7384,8 @@ setup-machine-p11-n12
 36 0
 79 0
 2
-0 91 0 1
 0 43 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7394,8 +7394,8 @@ setup-machine-p11-n13
 36 0
 80 0
 2
-0 91 0 1
 0 43 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7404,18 +7404,18 @@ setup-machine-p11-n14
 36 0
 81 0
 2
-0 91 0 1
 0 43 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p11-n15 
 2
-36 0
 29 0
+36 0
 2
-0 91 0 1
 0 43 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7424,8 +7424,8 @@ setup-machine-p11-n2
 36 0
 63 0
 2
-0 91 0 1
 0 43 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7434,8 +7434,8 @@ setup-machine-p11-n3
 36 0
 64 0
 2
-0 91 0 1
 0 43 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7444,8 +7444,8 @@ setup-machine-p11-n4
 36 0
 65 0
 2
-0 91 0 1
 0 43 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7454,8 +7454,8 @@ setup-machine-p11-n5
 36 0
 66 0
 2
-0 91 0 1
 0 43 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7464,8 +7464,8 @@ setup-machine-p11-n6
 36 0
 67 0
 2
-0 91 0 1
 0 43 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7474,8 +7474,8 @@ setup-machine-p11-n7
 36 0
 68 0
 2
-0 91 0 1
 0 43 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7484,8 +7484,8 @@ setup-machine-p11-n8
 36 0
 75 0
 2
-0 91 0 1
 0 43 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7494,18 +7494,18 @@ setup-machine-p11-n9
 36 0
 76 0
 2
-0 91 0 1
 0 43 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p12-n0 
 2
-56 0
 28 0
+56 0
 2
-0 91 0 1
 0 69 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7514,8 +7514,8 @@ setup-machine-p12-n1
 56 0
 62 0
 2
-0 91 0 1
 0 69 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7524,8 +7524,8 @@ setup-machine-p12-n10
 56 0
 77 0
 2
-0 91 0 1
 0 69 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7534,8 +7534,8 @@ setup-machine-p12-n11
 56 0
 78 0
 2
-0 91 0 1
 0 69 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7544,8 +7544,8 @@ setup-machine-p12-n12
 56 0
 79 0
 2
-0 91 0 1
 0 69 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7554,8 +7554,8 @@ setup-machine-p12-n13
 56 0
 80 0
 2
-0 91 0 1
 0 69 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7564,18 +7564,18 @@ setup-machine-p12-n14
 56 0
 81 0
 2
-0 91 0 1
 0 69 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p12-n15 
 2
-56 0
 29 0
+56 0
 2
-0 91 0 1
 0 69 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7584,8 +7584,8 @@ setup-machine-p12-n2
 56 0
 63 0
 2
-0 91 0 1
 0 69 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7594,8 +7594,8 @@ setup-machine-p12-n3
 56 0
 64 0
 2
-0 91 0 1
 0 69 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7604,8 +7604,8 @@ setup-machine-p12-n4
 56 0
 65 0
 2
-0 91 0 1
 0 69 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7614,8 +7614,8 @@ setup-machine-p12-n5
 56 0
 66 0
 2
-0 91 0 1
 0 69 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7624,8 +7624,8 @@ setup-machine-p12-n6
 56 0
 67 0
 2
-0 91 0 1
 0 69 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7634,8 +7634,8 @@ setup-machine-p12-n7
 56 0
 68 0
 2
-0 91 0 1
 0 69 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7644,8 +7644,8 @@ setup-machine-p12-n8
 56 0
 75 0
 2
-0 91 0 1
 0 69 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7654,8 +7654,8 @@ setup-machine-p12-n9
 56 0
 76 0
 2
-0 91 0 1
 0 69 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7664,8 +7664,8 @@ setup-machine-p13-n0
 13 0
 28 0
 2
-0 91 0 1
 0 31 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7674,8 +7674,8 @@ setup-machine-p13-n1
 13 0
 62 0
 2
-0 91 0 1
 0 31 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7684,8 +7684,8 @@ setup-machine-p13-n10
 13 0
 77 0
 2
-0 91 0 1
 0 31 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7694,8 +7694,8 @@ setup-machine-p13-n11
 13 0
 78 0
 2
-0 91 0 1
 0 31 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7704,8 +7704,8 @@ setup-machine-p13-n12
 13 0
 79 0
 2
-0 91 0 1
 0 31 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7714,8 +7714,8 @@ setup-machine-p13-n13
 13 0
 80 0
 2
-0 91 0 1
 0 31 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7724,8 +7724,8 @@ setup-machine-p13-n14
 13 0
 81 0
 2
-0 91 0 1
 0 31 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7734,8 +7734,8 @@ setup-machine-p13-n15
 13 0
 29 0
 2
-0 91 0 1
 0 31 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7744,8 +7744,8 @@ setup-machine-p13-n2
 13 0
 63 0
 2
-0 91 0 1
 0 31 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7754,8 +7754,8 @@ setup-machine-p13-n3
 13 0
 64 0
 2
-0 91 0 1
 0 31 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7764,8 +7764,8 @@ setup-machine-p13-n4
 13 0
 65 0
 2
-0 91 0 1
 0 31 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7774,8 +7774,8 @@ setup-machine-p13-n5
 13 0
 66 0
 2
-0 91 0 1
 0 31 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7784,8 +7784,8 @@ setup-machine-p13-n6
 13 0
 67 0
 2
-0 91 0 1
 0 31 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7794,8 +7794,8 @@ setup-machine-p13-n7
 13 0
 68 0
 2
-0 91 0 1
 0 31 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7804,8 +7804,8 @@ setup-machine-p13-n8
 13 0
 75 0
 2
-0 91 0 1
 0 31 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7814,18 +7814,18 @@ setup-machine-p13-n9
 13 0
 76 0
 2
-0 91 0 1
 0 31 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p14-n0 
 2
-37 0
 28 0
+37 0
 2
-0 91 0 1
 0 44 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7834,8 +7834,8 @@ setup-machine-p14-n1
 37 0
 62 0
 2
-0 91 0 1
 0 44 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7844,8 +7844,8 @@ setup-machine-p14-n10
 37 0
 77 0
 2
-0 91 0 1
 0 44 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7854,8 +7854,8 @@ setup-machine-p14-n11
 37 0
 78 0
 2
-0 91 0 1
 0 44 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7864,8 +7864,8 @@ setup-machine-p14-n12
 37 0
 79 0
 2
-0 91 0 1
 0 44 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7874,8 +7874,8 @@ setup-machine-p14-n13
 37 0
 80 0
 2
-0 91 0 1
 0 44 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7884,18 +7884,18 @@ setup-machine-p14-n14
 37 0
 81 0
 2
-0 91 0 1
 0 44 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p14-n15 
 2
-37 0
 29 0
+37 0
 2
-0 91 0 1
 0 44 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7904,8 +7904,8 @@ setup-machine-p14-n2
 37 0
 63 0
 2
-0 91 0 1
 0 44 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7914,8 +7914,8 @@ setup-machine-p14-n3
 37 0
 64 0
 2
-0 91 0 1
 0 44 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7924,8 +7924,8 @@ setup-machine-p14-n4
 37 0
 65 0
 2
-0 91 0 1
 0 44 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7934,8 +7934,8 @@ setup-machine-p14-n5
 37 0
 66 0
 2
-0 91 0 1
 0 44 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7944,8 +7944,8 @@ setup-machine-p14-n6
 37 0
 67 0
 2
-0 91 0 1
 0 44 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7954,8 +7954,8 @@ setup-machine-p14-n7
 37 0
 68 0
 2
-0 91 0 1
 0 44 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7964,8 +7964,8 @@ setup-machine-p14-n8
 37 0
 75 0
 2
-0 91 0 1
 0 44 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -7974,168 +7974,168 @@ setup-machine-p14-n9
 37 0
 76 0
 2
-0 91 0 1
 0 44 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p15-n0 
 2
-85 0
 28 0
+85 0
 2
-0 91 0 1
 0 88 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p15-n1 
 2
-85 0
 62 0
+85 0
 2
-0 91 0 1
 0 88 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p15-n10 
 2
-85 0
 77 0
+85 0
 2
-0 91 0 1
 0 88 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p15-n11 
 2
-85 0
 78 0
+85 0
 2
-0 91 0 1
 0 88 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p15-n12 
 2
-85 0
 79 0
+85 0
 2
-0 91 0 1
 0 88 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p15-n13 
 2
-85 0
 80 0
+85 0
 2
-0 91 0 1
 0 88 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p15-n14 
 2
-85 0
 81 0
+85 0
 2
-0 91 0 1
 0 88 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p15-n15 
 2
-85 0
 29 0
+85 0
 2
-0 91 0 1
 0 88 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p15-n2 
 2
-85 0
 63 0
+85 0
 2
-0 91 0 1
 0 88 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p15-n3 
 2
-85 0
 64 0
+85 0
 2
-0 91 0 1
 0 88 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p15-n4 
 2
-85 0
 65 0
+85 0
 2
-0 91 0 1
 0 88 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p15-n5 
 2
-85 0
 66 0
+85 0
 2
-0 91 0 1
 0 88 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p15-n6 
 2
-85 0
 67 0
+85 0
 2
-0 91 0 1
 0 88 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p15-n7 
 2
-85 0
 68 0
+85 0
 2
-0 91 0 1
 0 88 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p15-n8 
 2
-85 0
 75 0
+85 0
 2
-0 91 0 1
 0 88 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p15-n9 
 2
-85 0
 76 0
+85 0
 2
-0 91 0 1
 0 88 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8144,8 +8144,8 @@ setup-machine-p16-n0
 4 0
 28 0
 2
-0 91 0 1
 0 19 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8154,8 +8154,8 @@ setup-machine-p16-n1
 4 0
 62 0
 2
-0 91 0 1
 0 19 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8164,8 +8164,8 @@ setup-machine-p16-n10
 4 0
 77 0
 2
-0 91 0 1
 0 19 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8174,8 +8174,8 @@ setup-machine-p16-n11
 4 0
 78 0
 2
-0 91 0 1
 0 19 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8184,8 +8184,8 @@ setup-machine-p16-n12
 4 0
 79 0
 2
-0 91 0 1
 0 19 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8194,8 +8194,8 @@ setup-machine-p16-n13
 4 0
 80 0
 2
-0 91 0 1
 0 19 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8204,8 +8204,8 @@ setup-machine-p16-n14
 4 0
 81 0
 2
-0 91 0 1
 0 19 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8214,8 +8214,8 @@ setup-machine-p16-n15
 4 0
 29 0
 2
-0 91 0 1
 0 19 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8224,8 +8224,8 @@ setup-machine-p16-n2
 4 0
 63 0
 2
-0 91 0 1
 0 19 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8234,8 +8234,8 @@ setup-machine-p16-n3
 4 0
 64 0
 2
-0 91 0 1
 0 19 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8244,8 +8244,8 @@ setup-machine-p16-n4
 4 0
 65 0
 2
-0 91 0 1
 0 19 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8254,8 +8254,8 @@ setup-machine-p16-n5
 4 0
 66 0
 2
-0 91 0 1
 0 19 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8264,8 +8264,8 @@ setup-machine-p16-n6
 4 0
 67 0
 2
-0 91 0 1
 0 19 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8274,8 +8274,8 @@ setup-machine-p16-n7
 4 0
 68 0
 2
-0 91 0 1
 0 19 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8284,8 +8284,8 @@ setup-machine-p16-n8
 4 0
 75 0
 2
-0 91 0 1
 0 19 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8294,178 +8294,178 @@ setup-machine-p16-n9
 4 0
 76 0
 2
-0 91 0 1
 0 19 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p17-n0 
 2
-86 0
 28 0
+86 0
 2
-0 91 0 1
 0 89 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p17-n1 
 2
-86 0
 62 0
+86 0
 2
-0 91 0 1
 0 89 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p17-n10 
 2
-86 0
 77 0
+86 0
 2
-0 91 0 1
 0 89 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p17-n11 
 2
-86 0
 78 0
+86 0
 2
-0 91 0 1
 0 89 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p17-n12 
 2
-86 0
 79 0
+86 0
 2
-0 91 0 1
 0 89 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p17-n13 
 2
-86 0
 80 0
+86 0
 2
-0 91 0 1
 0 89 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p17-n14 
 2
-86 0
 81 0
+86 0
 2
-0 91 0 1
 0 89 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p17-n15 
 2
-86 0
 29 0
+86 0
 2
-0 91 0 1
 0 89 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p17-n2 
 2
-86 0
 63 0
+86 0
 2
-0 91 0 1
 0 89 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p17-n3 
 2
-86 0
 64 0
+86 0
 2
-0 91 0 1
 0 89 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p17-n4 
 2
-86 0
 65 0
+86 0
 2
-0 91 0 1
 0 89 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p17-n5 
 2
-86 0
 66 0
+86 0
 2
-0 91 0 1
 0 89 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p17-n6 
 2
-86 0
 67 0
+86 0
 2
-0 91 0 1
 0 89 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p17-n7 
 2
-86 0
 68 0
+86 0
 2
-0 91 0 1
 0 89 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p17-n8 
 2
-86 0
 75 0
+86 0
 2
-0 91 0 1
 0 89 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p17-n9 
 2
-86 0
 76 0
+86 0
 2
-0 91 0 1
 0 89 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p18-n0 
 2
-38 0
 28 0
+38 0
 2
-0 91 0 1
 0 45 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8474,8 +8474,8 @@ setup-machine-p18-n1
 38 0
 62 0
 2
-0 91 0 1
 0 45 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8484,8 +8484,8 @@ setup-machine-p18-n10
 38 0
 77 0
 2
-0 91 0 1
 0 45 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8494,8 +8494,8 @@ setup-machine-p18-n11
 38 0
 78 0
 2
-0 91 0 1
 0 45 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8504,8 +8504,8 @@ setup-machine-p18-n12
 38 0
 79 0
 2
-0 91 0 1
 0 45 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8514,8 +8514,8 @@ setup-machine-p18-n13
 38 0
 80 0
 2
-0 91 0 1
 0 45 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8524,18 +8524,18 @@ setup-machine-p18-n14
 38 0
 81 0
 2
-0 91 0 1
 0 45 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p18-n15 
 2
-38 0
 29 0
+38 0
 2
-0 91 0 1
 0 45 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8544,8 +8544,8 @@ setup-machine-p18-n2
 38 0
 63 0
 2
-0 91 0 1
 0 45 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8554,8 +8554,8 @@ setup-machine-p18-n3
 38 0
 64 0
 2
-0 91 0 1
 0 45 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8564,8 +8564,8 @@ setup-machine-p18-n4
 38 0
 65 0
 2
-0 91 0 1
 0 45 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8574,8 +8574,8 @@ setup-machine-p18-n5
 38 0
 66 0
 2
-0 91 0 1
 0 45 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8584,8 +8584,8 @@ setup-machine-p18-n6
 38 0
 67 0
 2
-0 91 0 1
 0 45 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8594,8 +8594,8 @@ setup-machine-p18-n7
 38 0
 68 0
 2
-0 91 0 1
 0 45 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8604,8 +8604,8 @@ setup-machine-p18-n8
 38 0
 75 0
 2
-0 91 0 1
 0 45 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8614,8 +8614,8 @@ setup-machine-p18-n9
 38 0
 76 0
 2
-0 91 0 1
 0 45 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8624,8 +8624,8 @@ setup-machine-p19-n0
 14 0
 28 0
 2
-0 91 0 1
 0 32 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8634,8 +8634,8 @@ setup-machine-p19-n1
 14 0
 62 0
 2
-0 91 0 1
 0 32 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8644,8 +8644,8 @@ setup-machine-p19-n10
 14 0
 77 0
 2
-0 91 0 1
 0 32 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8654,8 +8654,8 @@ setup-machine-p19-n11
 14 0
 78 0
 2
-0 91 0 1
 0 32 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8664,8 +8664,8 @@ setup-machine-p19-n12
 14 0
 79 0
 2
-0 91 0 1
 0 32 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8674,8 +8674,8 @@ setup-machine-p19-n13
 14 0
 80 0
 2
-0 91 0 1
 0 32 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8684,8 +8684,8 @@ setup-machine-p19-n14
 14 0
 81 0
 2
-0 91 0 1
 0 32 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8694,8 +8694,8 @@ setup-machine-p19-n15
 14 0
 29 0
 2
-0 91 0 1
 0 32 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8704,8 +8704,8 @@ setup-machine-p19-n2
 14 0
 63 0
 2
-0 91 0 1
 0 32 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8714,8 +8714,8 @@ setup-machine-p19-n3
 14 0
 64 0
 2
-0 91 0 1
 0 32 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8724,8 +8724,8 @@ setup-machine-p19-n4
 14 0
 65 0
 2
-0 91 0 1
 0 32 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8734,8 +8734,8 @@ setup-machine-p19-n5
 14 0
 66 0
 2
-0 91 0 1
 0 32 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8744,8 +8744,8 @@ setup-machine-p19-n6
 14 0
 67 0
 2
-0 91 0 1
 0 32 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8754,8 +8754,8 @@ setup-machine-p19-n7
 14 0
 68 0
 2
-0 91 0 1
 0 32 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8764,8 +8764,8 @@ setup-machine-p19-n8
 14 0
 75 0
 2
-0 91 0 1
 0 32 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8774,18 +8774,18 @@ setup-machine-p19-n9
 14 0
 76 0
 2
-0 91 0 1
 0 32 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p2-n0 
 2
-57 0
 28 0
+57 0
 2
-0 91 0 1
 0 70 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8794,8 +8794,8 @@ setup-machine-p2-n1
 57 0
 62 0
 2
-0 91 0 1
 0 70 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8804,8 +8804,8 @@ setup-machine-p2-n10
 57 0
 77 0
 2
-0 91 0 1
 0 70 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8814,8 +8814,8 @@ setup-machine-p2-n11
 57 0
 78 0
 2
-0 91 0 1
 0 70 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8824,8 +8824,8 @@ setup-machine-p2-n12
 57 0
 79 0
 2
-0 91 0 1
 0 70 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8834,8 +8834,8 @@ setup-machine-p2-n13
 57 0
 80 0
 2
-0 91 0 1
 0 70 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8844,18 +8844,18 @@ setup-machine-p2-n14
 57 0
 81 0
 2
-0 91 0 1
 0 70 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p2-n15 
 2
-57 0
 29 0
+57 0
 2
-0 91 0 1
 0 70 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8864,8 +8864,8 @@ setup-machine-p2-n2
 57 0
 63 0
 2
-0 91 0 1
 0 70 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8874,8 +8874,8 @@ setup-machine-p2-n3
 57 0
 64 0
 2
-0 91 0 1
 0 70 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8884,8 +8884,8 @@ setup-machine-p2-n4
 57 0
 65 0
 2
-0 91 0 1
 0 70 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8894,8 +8894,8 @@ setup-machine-p2-n5
 57 0
 66 0
 2
-0 91 0 1
 0 70 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8904,8 +8904,8 @@ setup-machine-p2-n6
 57 0
 67 0
 2
-0 91 0 1
 0 70 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8914,8 +8914,8 @@ setup-machine-p2-n7
 57 0
 68 0
 2
-0 91 0 1
 0 70 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8924,8 +8924,8 @@ setup-machine-p2-n8
 57 0
 75 0
 2
-0 91 0 1
 0 70 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8934,8 +8934,8 @@ setup-machine-p2-n9
 57 0
 76 0
 2
-0 91 0 1
 0 70 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8944,8 +8944,8 @@ setup-machine-p20-n0
 15 0
 28 0
 2
-0 91 0 1
 0 33 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8954,8 +8954,8 @@ setup-machine-p20-n1
 15 0
 62 0
 2
-0 91 0 1
 0 33 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8964,8 +8964,8 @@ setup-machine-p20-n10
 15 0
 77 0
 2
-0 91 0 1
 0 33 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8974,8 +8974,8 @@ setup-machine-p20-n11
 15 0
 78 0
 2
-0 91 0 1
 0 33 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8984,8 +8984,8 @@ setup-machine-p20-n12
 15 0
 79 0
 2
-0 91 0 1
 0 33 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -8994,8 +8994,8 @@ setup-machine-p20-n13
 15 0
 80 0
 2
-0 91 0 1
 0 33 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9004,8 +9004,8 @@ setup-machine-p20-n14
 15 0
 81 0
 2
-0 91 0 1
 0 33 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9014,8 +9014,8 @@ setup-machine-p20-n15
 15 0
 29 0
 2
-0 91 0 1
 0 33 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9024,8 +9024,8 @@ setup-machine-p20-n2
 15 0
 63 0
 2
-0 91 0 1
 0 33 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9034,8 +9034,8 @@ setup-machine-p20-n3
 15 0
 64 0
 2
-0 91 0 1
 0 33 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9044,8 +9044,8 @@ setup-machine-p20-n4
 15 0
 65 0
 2
-0 91 0 1
 0 33 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9054,8 +9054,8 @@ setup-machine-p20-n5
 15 0
 66 0
 2
-0 91 0 1
 0 33 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9064,8 +9064,8 @@ setup-machine-p20-n6
 15 0
 67 0
 2
-0 91 0 1
 0 33 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9074,8 +9074,8 @@ setup-machine-p20-n7
 15 0
 68 0
 2
-0 91 0 1
 0 33 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9084,8 +9084,8 @@ setup-machine-p20-n8
 15 0
 75 0
 2
-0 91 0 1
 0 33 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9094,178 +9094,178 @@ setup-machine-p20-n9
 15 0
 76 0
 2
-0 91 0 1
 0 33 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p21-n0 
 2
-87 0
 28 0
+87 0
 2
-0 91 0 1
 0 90 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p21-n1 
 2
-87 0
 62 0
+87 0
 2
-0 91 0 1
 0 90 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p21-n10 
 2
-87 0
 77 0
+87 0
 2
-0 91 0 1
 0 90 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p21-n11 
 2
-87 0
 78 0
+87 0
 2
-0 91 0 1
 0 90 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p21-n12 
 2
-87 0
 79 0
+87 0
 2
-0 91 0 1
 0 90 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p21-n13 
 2
-87 0
 80 0
+87 0
 2
-0 91 0 1
 0 90 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p21-n14 
 2
-87 0
 81 0
+87 0
 2
-0 91 0 1
 0 90 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p21-n15 
 2
-87 0
 29 0
+87 0
 2
-0 91 0 1
 0 90 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p21-n2 
 2
-87 0
 63 0
+87 0
 2
-0 91 0 1
 0 90 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p21-n3 
 2
-87 0
 64 0
+87 0
 2
-0 91 0 1
 0 90 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p21-n4 
 2
-87 0
 65 0
+87 0
 2
-0 91 0 1
 0 90 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p21-n5 
 2
-87 0
 66 0
+87 0
 2
-0 91 0 1
 0 90 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p21-n6 
 2
-87 0
 67 0
+87 0
 2
-0 91 0 1
 0 90 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p21-n7 
 2
-87 0
 68 0
+87 0
 2
-0 91 0 1
 0 90 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p21-n8 
 2
-87 0
 75 0
+87 0
 2
-0 91 0 1
 0 90 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p21-n9 
 2
-87 0
 76 0
+87 0
 2
-0 91 0 1
 0 90 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p22-n0 
 2
-39 0
 28 0
+39 0
 2
-0 91 0 1
 0 46 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9274,8 +9274,8 @@ setup-machine-p22-n1
 39 0
 62 0
 2
-0 91 0 1
 0 46 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9284,8 +9284,8 @@ setup-machine-p22-n10
 39 0
 77 0
 2
-0 91 0 1
 0 46 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9294,8 +9294,8 @@ setup-machine-p22-n11
 39 0
 78 0
 2
-0 91 0 1
 0 46 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9304,8 +9304,8 @@ setup-machine-p22-n12
 39 0
 79 0
 2
-0 91 0 1
 0 46 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9314,8 +9314,8 @@ setup-machine-p22-n13
 39 0
 80 0
 2
-0 91 0 1
 0 46 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9324,18 +9324,18 @@ setup-machine-p22-n14
 39 0
 81 0
 2
-0 91 0 1
 0 46 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p22-n15 
 2
-39 0
 29 0
+39 0
 2
-0 91 0 1
 0 46 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9344,8 +9344,8 @@ setup-machine-p22-n2
 39 0
 63 0
 2
-0 91 0 1
 0 46 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9354,8 +9354,8 @@ setup-machine-p22-n3
 39 0
 64 0
 2
-0 91 0 1
 0 46 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9364,8 +9364,8 @@ setup-machine-p22-n4
 39 0
 65 0
 2
-0 91 0 1
 0 46 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9374,8 +9374,8 @@ setup-machine-p22-n5
 39 0
 66 0
 2
-0 91 0 1
 0 46 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9384,8 +9384,8 @@ setup-machine-p22-n6
 39 0
 67 0
 2
-0 91 0 1
 0 46 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9394,8 +9394,8 @@ setup-machine-p22-n7
 39 0
 68 0
 2
-0 91 0 1
 0 46 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9404,8 +9404,8 @@ setup-machine-p22-n8
 39 0
 75 0
 2
-0 91 0 1
 0 46 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9414,18 +9414,18 @@ setup-machine-p22-n9
 39 0
 76 0
 2
-0 91 0 1
 0 46 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p23-n0 
 2
-58 0
 28 0
+58 0
 2
-0 91 0 1
 0 71 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9434,8 +9434,8 @@ setup-machine-p23-n1
 58 0
 62 0
 2
-0 91 0 1
 0 71 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9444,8 +9444,8 @@ setup-machine-p23-n10
 58 0
 77 0
 2
-0 91 0 1
 0 71 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9454,8 +9454,8 @@ setup-machine-p23-n11
 58 0
 78 0
 2
-0 91 0 1
 0 71 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9464,8 +9464,8 @@ setup-machine-p23-n12
 58 0
 79 0
 2
-0 91 0 1
 0 71 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9474,8 +9474,8 @@ setup-machine-p23-n13
 58 0
 80 0
 2
-0 91 0 1
 0 71 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9484,18 +9484,18 @@ setup-machine-p23-n14
 58 0
 81 0
 2
-0 91 0 1
 0 71 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p23-n15 
 2
-58 0
 29 0
+58 0
 2
-0 91 0 1
 0 71 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9504,8 +9504,8 @@ setup-machine-p23-n2
 58 0
 63 0
 2
-0 91 0 1
 0 71 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9514,8 +9514,8 @@ setup-machine-p23-n3
 58 0
 64 0
 2
-0 91 0 1
 0 71 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9524,8 +9524,8 @@ setup-machine-p23-n4
 58 0
 65 0
 2
-0 91 0 1
 0 71 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9534,8 +9534,8 @@ setup-machine-p23-n5
 58 0
 66 0
 2
-0 91 0 1
 0 71 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9544,8 +9544,8 @@ setup-machine-p23-n6
 58 0
 67 0
 2
-0 91 0 1
 0 71 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9554,8 +9554,8 @@ setup-machine-p23-n7
 58 0
 68 0
 2
-0 91 0 1
 0 71 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9564,8 +9564,8 @@ setup-machine-p23-n8
 58 0
 75 0
 2
-0 91 0 1
 0 71 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9574,18 +9574,18 @@ setup-machine-p23-n9
 58 0
 76 0
 2
-0 91 0 1
 0 71 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p24-n0 
 2
-59 0
 28 0
+59 0
 2
-0 91 0 1
 0 72 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9594,8 +9594,8 @@ setup-machine-p24-n1
 59 0
 62 0
 2
-0 91 0 1
 0 72 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9604,8 +9604,8 @@ setup-machine-p24-n10
 59 0
 77 0
 2
-0 91 0 1
 0 72 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9614,8 +9614,8 @@ setup-machine-p24-n11
 59 0
 78 0
 2
-0 91 0 1
 0 72 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9624,8 +9624,8 @@ setup-machine-p24-n12
 59 0
 79 0
 2
-0 91 0 1
 0 72 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9634,8 +9634,8 @@ setup-machine-p24-n13
 59 0
 80 0
 2
-0 91 0 1
 0 72 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9644,18 +9644,18 @@ setup-machine-p24-n14
 59 0
 81 0
 2
-0 91 0 1
 0 72 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p24-n15 
 2
-59 0
 29 0
+59 0
 2
-0 91 0 1
 0 72 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9664,8 +9664,8 @@ setup-machine-p24-n2
 59 0
 63 0
 2
-0 91 0 1
 0 72 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9674,8 +9674,8 @@ setup-machine-p24-n3
 59 0
 64 0
 2
-0 91 0 1
 0 72 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9684,8 +9684,8 @@ setup-machine-p24-n4
 59 0
 65 0
 2
-0 91 0 1
 0 72 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9694,8 +9694,8 @@ setup-machine-p24-n5
 59 0
 66 0
 2
-0 91 0 1
 0 72 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9704,8 +9704,8 @@ setup-machine-p24-n6
 59 0
 67 0
 2
-0 91 0 1
 0 72 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9714,8 +9714,8 @@ setup-machine-p24-n7
 59 0
 68 0
 2
-0 91 0 1
 0 72 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9724,8 +9724,8 @@ setup-machine-p24-n8
 59 0
 75 0
 2
-0 91 0 1
 0 72 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9734,18 +9734,18 @@ setup-machine-p24-n9
 59 0
 76 0
 2
-0 91 0 1
 0 72 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p25-n0 
 2
-40 0
 28 0
+40 0
 2
-0 91 0 1
 0 47 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9754,8 +9754,8 @@ setup-machine-p25-n1
 40 0
 62 0
 2
-0 91 0 1
 0 47 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9764,8 +9764,8 @@ setup-machine-p25-n10
 40 0
 77 0
 2
-0 91 0 1
 0 47 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9774,8 +9774,8 @@ setup-machine-p25-n11
 40 0
 78 0
 2
-0 91 0 1
 0 47 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9784,8 +9784,8 @@ setup-machine-p25-n12
 40 0
 79 0
 2
-0 91 0 1
 0 47 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9794,8 +9794,8 @@ setup-machine-p25-n13
 40 0
 80 0
 2
-0 91 0 1
 0 47 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9804,18 +9804,18 @@ setup-machine-p25-n14
 40 0
 81 0
 2
-0 91 0 1
 0 47 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p25-n15 
 2
-40 0
 29 0
+40 0
 2
-0 91 0 1
 0 47 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9824,8 +9824,8 @@ setup-machine-p25-n2
 40 0
 63 0
 2
-0 91 0 1
 0 47 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9834,8 +9834,8 @@ setup-machine-p25-n3
 40 0
 64 0
 2
-0 91 0 1
 0 47 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9844,8 +9844,8 @@ setup-machine-p25-n4
 40 0
 65 0
 2
-0 91 0 1
 0 47 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9854,8 +9854,8 @@ setup-machine-p25-n5
 40 0
 66 0
 2
-0 91 0 1
 0 47 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9864,8 +9864,8 @@ setup-machine-p25-n6
 40 0
 67 0
 2
-0 91 0 1
 0 47 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9874,8 +9874,8 @@ setup-machine-p25-n7
 40 0
 68 0
 2
-0 91 0 1
 0 47 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9884,8 +9884,8 @@ setup-machine-p25-n8
 40 0
 75 0
 2
-0 91 0 1
 0 47 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9894,18 +9894,18 @@ setup-machine-p25-n9
 40 0
 76 0
 2
-0 91 0 1
 0 47 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p3-n0 
 2
-60 0
 28 0
+60 0
 2
-0 91 0 1
 0 73 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9914,8 +9914,8 @@ setup-machine-p3-n1
 60 0
 62 0
 2
-0 91 0 1
 0 73 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9924,8 +9924,8 @@ setup-machine-p3-n10
 60 0
 77 0
 2
-0 91 0 1
 0 73 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9934,8 +9934,8 @@ setup-machine-p3-n11
 60 0
 78 0
 2
-0 91 0 1
 0 73 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9944,8 +9944,8 @@ setup-machine-p3-n12
 60 0
 79 0
 2
-0 91 0 1
 0 73 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9954,8 +9954,8 @@ setup-machine-p3-n13
 60 0
 80 0
 2
-0 91 0 1
 0 73 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9964,18 +9964,18 @@ setup-machine-p3-n14
 60 0
 81 0
 2
-0 91 0 1
 0 73 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p3-n15 
 2
-60 0
 29 0
+60 0
 2
-0 91 0 1
 0 73 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9984,8 +9984,8 @@ setup-machine-p3-n2
 60 0
 63 0
 2
-0 91 0 1
 0 73 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -9994,8 +9994,8 @@ setup-machine-p3-n3
 60 0
 64 0
 2
-0 91 0 1
 0 73 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10004,8 +10004,8 @@ setup-machine-p3-n4
 60 0
 65 0
 2
-0 91 0 1
 0 73 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10014,8 +10014,8 @@ setup-machine-p3-n5
 60 0
 66 0
 2
-0 91 0 1
 0 73 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10024,8 +10024,8 @@ setup-machine-p3-n6
 60 0
 67 0
 2
-0 91 0 1
 0 73 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10034,8 +10034,8 @@ setup-machine-p3-n7
 60 0
 68 0
 2
-0 91 0 1
 0 73 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10044,8 +10044,8 @@ setup-machine-p3-n8
 60 0
 75 0
 2
-0 91 0 1
 0 73 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10054,18 +10054,18 @@ setup-machine-p3-n9
 60 0
 76 0
 2
-0 91 0 1
 0 73 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p4-n0 
 2
-41 0
 28 0
+41 0
 2
-0 91 0 1
 0 48 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10074,8 +10074,8 @@ setup-machine-p4-n1
 41 0
 62 0
 2
-0 91 0 1
 0 48 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10084,8 +10084,8 @@ setup-machine-p4-n10
 41 0
 77 0
 2
-0 91 0 1
 0 48 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10094,8 +10094,8 @@ setup-machine-p4-n11
 41 0
 78 0
 2
-0 91 0 1
 0 48 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10104,8 +10104,8 @@ setup-machine-p4-n12
 41 0
 79 0
 2
-0 91 0 1
 0 48 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10114,8 +10114,8 @@ setup-machine-p4-n13
 41 0
 80 0
 2
-0 91 0 1
 0 48 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10124,18 +10124,18 @@ setup-machine-p4-n14
 41 0
 81 0
 2
-0 91 0 1
 0 48 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p4-n15 
 2
-41 0
 29 0
+41 0
 2
-0 91 0 1
 0 48 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10144,8 +10144,8 @@ setup-machine-p4-n2
 41 0
 63 0
 2
-0 91 0 1
 0 48 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10154,8 +10154,8 @@ setup-machine-p4-n3
 41 0
 64 0
 2
-0 91 0 1
 0 48 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10164,8 +10164,8 @@ setup-machine-p4-n4
 41 0
 65 0
 2
-0 91 0 1
 0 48 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10174,8 +10174,8 @@ setup-machine-p4-n5
 41 0
 66 0
 2
-0 91 0 1
 0 48 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10184,8 +10184,8 @@ setup-machine-p4-n6
 41 0
 67 0
 2
-0 91 0 1
 0 48 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10194,8 +10194,8 @@ setup-machine-p4-n7
 41 0
 68 0
 2
-0 91 0 1
 0 48 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10204,8 +10204,8 @@ setup-machine-p4-n8
 41 0
 75 0
 2
-0 91 0 1
 0 48 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10214,8 +10214,8 @@ setup-machine-p4-n9
 41 0
 76 0
 2
-0 91 0 1
 0 48 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10224,8 +10224,8 @@ setup-machine-p5-n0
 5 0
 28 0
 2
-0 91 0 1
 0 20 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10234,8 +10234,8 @@ setup-machine-p5-n1
 5 0
 62 0
 2
-0 91 0 1
 0 20 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10244,8 +10244,8 @@ setup-machine-p5-n10
 5 0
 77 0
 2
-0 91 0 1
 0 20 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10254,8 +10254,8 @@ setup-machine-p5-n11
 5 0
 78 0
 2
-0 91 0 1
 0 20 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10264,8 +10264,8 @@ setup-machine-p5-n12
 5 0
 79 0
 2
-0 91 0 1
 0 20 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10274,8 +10274,8 @@ setup-machine-p5-n13
 5 0
 80 0
 2
-0 91 0 1
 0 20 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10284,8 +10284,8 @@ setup-machine-p5-n14
 5 0
 81 0
 2
-0 91 0 1
 0 20 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10294,8 +10294,8 @@ setup-machine-p5-n15
 5 0
 29 0
 2
-0 91 0 1
 0 20 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10304,8 +10304,8 @@ setup-machine-p5-n2
 5 0
 63 0
 2
-0 91 0 1
 0 20 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10314,8 +10314,8 @@ setup-machine-p5-n3
 5 0
 64 0
 2
-0 91 0 1
 0 20 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10324,8 +10324,8 @@ setup-machine-p5-n4
 5 0
 65 0
 2
-0 91 0 1
 0 20 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10334,8 +10334,8 @@ setup-machine-p5-n5
 5 0
 66 0
 2
-0 91 0 1
 0 20 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10344,8 +10344,8 @@ setup-machine-p5-n6
 5 0
 67 0
 2
-0 91 0 1
 0 20 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10354,8 +10354,8 @@ setup-machine-p5-n7
 5 0
 68 0
 2
-0 91 0 1
 0 20 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10364,8 +10364,8 @@ setup-machine-p5-n8
 5 0
 75 0
 2
-0 91 0 1
 0 20 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10374,8 +10374,8 @@ setup-machine-p5-n9
 5 0
 76 0
 2
-0 91 0 1
 0 20 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10384,8 +10384,8 @@ setup-machine-p6-n0
 16 0
 28 0
 2
-0 91 0 1
 0 34 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10394,8 +10394,8 @@ setup-machine-p6-n1
 16 0
 62 0
 2
-0 91 0 1
 0 34 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10404,8 +10404,8 @@ setup-machine-p6-n10
 16 0
 77 0
 2
-0 91 0 1
 0 34 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10414,8 +10414,8 @@ setup-machine-p6-n11
 16 0
 78 0
 2
-0 91 0 1
 0 34 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10424,8 +10424,8 @@ setup-machine-p6-n12
 16 0
 79 0
 2
-0 91 0 1
 0 34 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10434,8 +10434,8 @@ setup-machine-p6-n13
 16 0
 80 0
 2
-0 91 0 1
 0 34 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10444,8 +10444,8 @@ setup-machine-p6-n14
 16 0
 81 0
 2
-0 91 0 1
 0 34 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10454,8 +10454,8 @@ setup-machine-p6-n15
 16 0
 29 0
 2
-0 91 0 1
 0 34 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10464,8 +10464,8 @@ setup-machine-p6-n2
 16 0
 63 0
 2
-0 91 0 1
 0 34 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10474,8 +10474,8 @@ setup-machine-p6-n3
 16 0
 64 0
 2
-0 91 0 1
 0 34 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10484,8 +10484,8 @@ setup-machine-p6-n4
 16 0
 65 0
 2
-0 91 0 1
 0 34 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10494,8 +10494,8 @@ setup-machine-p6-n5
 16 0
 66 0
 2
-0 91 0 1
 0 34 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10504,8 +10504,8 @@ setup-machine-p6-n6
 16 0
 67 0
 2
-0 91 0 1
 0 34 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10514,8 +10514,8 @@ setup-machine-p6-n7
 16 0
 68 0
 2
-0 91 0 1
 0 34 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10524,8 +10524,8 @@ setup-machine-p6-n8
 16 0
 75 0
 2
-0 91 0 1
 0 34 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10534,18 +10534,18 @@ setup-machine-p6-n9
 16 0
 76 0
 2
-0 91 0 1
 0 34 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p7-n0 
 2
-42 0
 28 0
+42 0
 2
-0 91 0 1
 0 49 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10554,8 +10554,8 @@ setup-machine-p7-n1
 42 0
 62 0
 2
-0 91 0 1
 0 49 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10564,8 +10564,8 @@ setup-machine-p7-n10
 42 0
 77 0
 2
-0 91 0 1
 0 49 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10574,8 +10574,8 @@ setup-machine-p7-n11
 42 0
 78 0
 2
-0 91 0 1
 0 49 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10584,8 +10584,8 @@ setup-machine-p7-n12
 42 0
 79 0
 2
-0 91 0 1
 0 49 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10594,8 +10594,8 @@ setup-machine-p7-n13
 42 0
 80 0
 2
-0 91 0 1
 0 49 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10604,18 +10604,18 @@ setup-machine-p7-n14
 42 0
 81 0
 2
-0 91 0 1
 0 49 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p7-n15 
 2
-42 0
 29 0
+42 0
 2
-0 91 0 1
 0 49 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10624,8 +10624,8 @@ setup-machine-p7-n2
 42 0
 63 0
 2
-0 91 0 1
 0 49 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10634,8 +10634,8 @@ setup-machine-p7-n3
 42 0
 64 0
 2
-0 91 0 1
 0 49 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10644,8 +10644,8 @@ setup-machine-p7-n4
 42 0
 65 0
 2
-0 91 0 1
 0 49 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10654,8 +10654,8 @@ setup-machine-p7-n5
 42 0
 66 0
 2
-0 91 0 1
 0 49 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10664,8 +10664,8 @@ setup-machine-p7-n6
 42 0
 67 0
 2
-0 91 0 1
 0 49 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10674,8 +10674,8 @@ setup-machine-p7-n7
 42 0
 68 0
 2
-0 91 0 1
 0 49 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10684,8 +10684,8 @@ setup-machine-p7-n8
 42 0
 75 0
 2
-0 91 0 1
 0 49 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10694,8 +10694,8 @@ setup-machine-p7-n9
 42 0
 76 0
 2
-0 91 0 1
 0 49 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10704,8 +10704,8 @@ setup-machine-p8-n0
 17 0
 28 0
 2
-0 91 0 1
 0 35 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10714,8 +10714,8 @@ setup-machine-p8-n1
 17 0
 62 0
 2
-0 91 0 1
 0 35 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10724,8 +10724,8 @@ setup-machine-p8-n10
 17 0
 77 0
 2
-0 91 0 1
 0 35 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10734,8 +10734,8 @@ setup-machine-p8-n11
 17 0
 78 0
 2
-0 91 0 1
 0 35 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10744,8 +10744,8 @@ setup-machine-p8-n12
 17 0
 79 0
 2
-0 91 0 1
 0 35 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10754,8 +10754,8 @@ setup-machine-p8-n13
 17 0
 80 0
 2
-0 91 0 1
 0 35 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10764,8 +10764,8 @@ setup-machine-p8-n14
 17 0
 81 0
 2
-0 91 0 1
 0 35 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10774,8 +10774,8 @@ setup-machine-p8-n15
 17 0
 29 0
 2
-0 91 0 1
 0 35 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10784,8 +10784,8 @@ setup-machine-p8-n2
 17 0
 63 0
 2
-0 91 0 1
 0 35 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10794,8 +10794,8 @@ setup-machine-p8-n3
 17 0
 64 0
 2
-0 91 0 1
 0 35 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10804,8 +10804,8 @@ setup-machine-p8-n4
 17 0
 65 0
 2
-0 91 0 1
 0 35 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10814,8 +10814,8 @@ setup-machine-p8-n5
 17 0
 66 0
 2
-0 91 0 1
 0 35 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10824,8 +10824,8 @@ setup-machine-p8-n6
 17 0
 67 0
 2
-0 91 0 1
 0 35 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10834,8 +10834,8 @@ setup-machine-p8-n7
 17 0
 68 0
 2
-0 91 0 1
 0 35 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10844,8 +10844,8 @@ setup-machine-p8-n8
 17 0
 75 0
 2
-0 91 0 1
 0 35 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10854,18 +10854,18 @@ setup-machine-p8-n9
 17 0
 76 0
 2
-0 91 0 1
 0 35 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p9-n0 
 2
-61 0
 28 0
+61 0
 2
-0 91 0 1
 0 74 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10874,8 +10874,8 @@ setup-machine-p9-n1
 61 0
 62 0
 2
-0 91 0 1
 0 74 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10884,8 +10884,8 @@ setup-machine-p9-n10
 61 0
 77 0
 2
-0 91 0 1
 0 74 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10894,8 +10894,8 @@ setup-machine-p9-n11
 61 0
 78 0
 2
-0 91 0 1
 0 74 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10904,8 +10904,8 @@ setup-machine-p9-n12
 61 0
 79 0
 2
-0 91 0 1
 0 74 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10914,8 +10914,8 @@ setup-machine-p9-n13
 61 0
 80 0
 2
-0 91 0 1
 0 74 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10924,18 +10924,18 @@ setup-machine-p9-n14
 61 0
 81 0
 2
-0 91 0 1
 0 74 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 setup-machine-p9-n15 
 2
-61 0
 29 0
+61 0
 2
-0 91 0 1
 0 74 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10944,8 +10944,8 @@ setup-machine-p9-n2
 61 0
 63 0
 2
-0 91 0 1
 0 74 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10954,8 +10954,8 @@ setup-machine-p9-n3
 61 0
 64 0
 2
-0 91 0 1
 0 74 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10964,8 +10964,8 @@ setup-machine-p9-n4
 61 0
 65 0
 2
-0 91 0 1
 0 74 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10974,8 +10974,8 @@ setup-machine-p9-n5
 61 0
 66 0
 2
-0 91 0 1
 0 74 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10984,8 +10984,8 @@ setup-machine-p9-n6
 61 0
 67 0
 2
-0 91 0 1
 0 74 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -10994,8 +10994,8 @@ setup-machine-p9-n7
 61 0
 68 0
 2
-0 91 0 1
 0 74 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -11004,8 +11004,8 @@ setup-machine-p9-n8
 61 0
 75 0
 2
-0 91 0 1
 0 74 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
@@ -11014,1913 +11014,1913 @@ setup-machine-p9-n9
 61 0
 76 0
 2
-0 91 0 1
 0 74 -1 0
+0 91 0 1
 1
 end_operator
 begin_operator
 ship-order-o1-n0-n1 
 8
 0 0
-21 0
-50 0
-9 0
-53 0
-25 0
 2 0
+9 0
+21 0
+25 0
 27 0
+50 0
+53 0
 3
-0 103 1 0
 0 28 0 1
 0 62 -1 0
+0 103 1 0
 1
 end_operator
 begin_operator
 ship-order-o1-n1-n2 
 8
 0 0
-21 0
-50 0
-9 0
-53 0
-25 0
 2 0
+9 0
+21 0
+25 0
 27 0
+50 0
+53 0
 3
-0 103 1 0
 0 62 0 1
 0 63 -1 0
+0 103 1 0
 1
 end_operator
 begin_operator
 ship-order-o1-n10-n11 
 8
 0 0
-21 0
-50 0
-9 0
-53 0
-25 0
 2 0
+9 0
+21 0
+25 0
 27 0
+50 0
+53 0
 3
-0 103 1 0
 0 77 0 1
 0 78 -1 0
+0 103 1 0
 1
 end_operator
 begin_operator
 ship-order-o1-n11-n12 
 8
 0 0
-21 0
-50 0
-9 0
-53 0
-25 0
 2 0
+9 0
+21 0
+25 0
 27 0
+50 0
+53 0
 3
-0 103 1 0
 0 78 0 1
 0 79 -1 0
+0 103 1 0
 1
 end_operator
 begin_operator
 ship-order-o1-n12-n13 
 8
 0 0
-21 0
-50 0
-9 0
-53 0
-25 0
 2 0
+9 0
+21 0
+25 0
 27 0
+50 0
+53 0
 3
-0 103 1 0
 0 79 0 1
 0 80 -1 0
+0 103 1 0
 1
 end_operator
 begin_operator
 ship-order-o1-n13-n14 
 8
 0 0
-21 0
-50 0
-9 0
-53 0
-25 0
 2 0
+9 0
+21 0
+25 0
 27 0
+50 0
+53 0
 3
-0 103 1 0
 0 80 0 1
 0 81 -1 0
+0 103 1 0
 1
 end_operator
 begin_operator
 ship-order-o1-n14-n15 
 8
 0 0
-21 0
-50 0
-9 0
-53 0
-25 0
 2 0
+9 0
+21 0
+25 0
 27 0
+50 0
+53 0
 3
-0 103 1 0
-0 81 0 1
 0 29 -1 0
+0 81 0 1
+0 103 1 0
 1
 end_operator
 begin_operator
 ship-order-o1-n2-n3 
 8
 0 0
-21 0
-50 0
-9 0
-53 0
-25 0
 2 0
+9 0
+21 0
+25 0
 27 0
+50 0
+53 0
 3
-0 103 1 0
 0 63 0 1
 0 64 -1 0
+0 103 1 0
 1
 end_operator
 begin_operator
 ship-order-o1-n3-n4 
 8
 0 0
-21 0
-50 0
-9 0
-53 0
-25 0
 2 0
+9 0
+21 0
+25 0
 27 0
+50 0
+53 0
 3
-0 103 1 0
 0 64 0 1
 0 65 -1 0
+0 103 1 0
 1
 end_operator
 begin_operator
 ship-order-o1-n4-n5 
 8
 0 0
-21 0
-50 0
-9 0
-53 0
-25 0
 2 0
+9 0
+21 0
+25 0
 27 0
+50 0
+53 0
 3
-0 103 1 0
 0 65 0 1
 0 66 -1 0
+0 103 1 0
 1
 end_operator
 begin_operator
 ship-order-o1-n5-n6 
 8
 0 0
-21 0
-50 0
-9 0
-53 0
-25 0
 2 0
+9 0
+21 0
+25 0
 27 0
+50 0
+53 0
 3
-0 103 1 0
 0 66 0 1
 0 67 -1 0
+0 103 1 0
 1
 end_operator
 begin_operator
 ship-order-o1-n6-n7 
 8
 0 0
-21 0
-50 0
-9 0
-53 0
-25 0
 2 0
+9 0
+21 0
+25 0
 27 0
+50 0
+53 0
 3
-0 103 1 0
 0 67 0 1
 0 68 -1 0
+0 103 1 0
 1
 end_operator
 begin_operator
 ship-order-o1-n7-n8 
 8
 0 0
-21 0
-50 0
-9 0
-53 0
-25 0
 2 0
+9 0
+21 0
+25 0
 27 0
+50 0
+53 0
 3
-0 103 1 0
 0 68 0 1
 0 75 -1 0
+0 103 1 0
 1
 end_operator
 begin_operator
 ship-order-o1-n8-n9 
 8
 0 0
-21 0
-50 0
-9 0
-53 0
-25 0
 2 0
+9 0
+21 0
+25 0
 27 0
+50 0
+53 0
 3
-0 103 1 0
 0 75 0 1
 0 76 -1 0
+0 103 1 0
 1
 end_operator
 begin_operator
 ship-order-o1-n9-n10 
 8
 0 0
-21 0
-50 0
-9 0
-53 0
-25 0
 2 0
+9 0
+21 0
+25 0
 27 0
+50 0
+53 0
 3
-0 103 1 0
-0 77 -1 0
 0 76 0 1
+0 77 -1 0
+0 103 1 0
 1
 end_operator
 begin_operator
 ship-order-o10-n0-n1 
 6
+6 0
 22 0
+26 0
 82 0
 83 0
-6 0
 84 0
-26 0
 3
-0 98 1 0
 0 28 0 1
 0 62 -1 0
+0 98 1 0
 1
 end_operator
 begin_operator
 ship-order-o10-n1-n2 
 6
+6 0
 22 0
+26 0
 82 0
 83 0
-6 0
 84 0
-26 0
 3
-0 98 1 0
 0 62 0 1
 0 63 -1 0
+0 98 1 0
 1
 end_operator
 begin_operator
 ship-order-o10-n10-n11 
 6
+6 0
 22 0
+26 0
 82 0
 83 0
-6 0
 84 0
-26 0
 3
-0 98 1 0
 0 77 0 1
 0 78 -1 0
+0 98 1 0
 1
 end_operator
 begin_operator
 ship-order-o10-n11-n12 
 6
+6 0
 22 0
+26 0
 82 0
 83 0
-6 0
 84 0
-26 0
 3
-0 98 1 0
 0 78 0 1
 0 79 -1 0
+0 98 1 0
 1
 end_operator
 begin_operator
 ship-order-o10-n12-n13 
 6
+6 0
 22 0
+26 0
 82 0
 83 0
-6 0
 84 0
-26 0
 3
-0 98 1 0
 0 79 0 1
 0 80 -1 0
+0 98 1 0
 1
 end_operator
 begin_operator
 ship-order-o10-n13-n14 
 6
+6 0
 22 0
+26 0
 82 0
 83 0
-6 0
 84 0
-26 0
 3
-0 98 1 0
 0 80 0 1
 0 81 -1 0
+0 98 1 0
 1
 end_operator
 begin_operator
 ship-order-o10-n14-n15 
 6
+6 0
 22 0
+26 0
 82 0
 83 0
-6 0
 84 0
-26 0
 3
-0 98 1 0
-0 81 0 1
 0 29 -1 0
+0 81 0 1
+0 98 1 0
 1
 end_operator
 begin_operator
 ship-order-o10-n2-n3 
 6
+6 0
 22 0
+26 0
 82 0
 83 0
-6 0
 84 0
-26 0
 3
-0 98 1 0
 0 63 0 1
 0 64 -1 0
+0 98 1 0
 1
 end_operator
 begin_operator
 ship-order-o10-n3-n4 
 6
+6 0
 22 0
+26 0
 82 0
 83 0
-6 0
 84 0
-26 0
 3
-0 98 1 0
 0 64 0 1
 0 65 -1 0
+0 98 1 0
 1
 end_operator
 begin_operator
 ship-order-o10-n4-n5 
 6
+6 0
 22 0
+26 0
 82 0
 83 0
-6 0
 84 0
-26 0
 3
-0 98 1 0
 0 65 0 1
 0 66 -1 0
+0 98 1 0
 1
 end_operator
 begin_operator
 ship-order-o10-n5-n6 
 6
+6 0
 22 0
+26 0
 82 0
 83 0
-6 0
 84 0
-26 0
 3
-0 98 1 0
 0 66 0 1
 0 67 -1 0
+0 98 1 0
 1
 end_operator
 begin_operator
 ship-order-o10-n6-n7 
 6
+6 0
 22 0
+26 0
 82 0
 83 0
-6 0
 84 0
-26 0
 3
-0 98 1 0
 0 67 0 1
 0 68 -1 0
+0 98 1 0
 1
 end_operator
 begin_operator
 ship-order-o10-n7-n8 
 6
+6 0
 22 0
+26 0
 82 0
 83 0
-6 0
 84 0
-26 0
 3
-0 98 1 0
 0 68 0 1
 0 75 -1 0
+0 98 1 0
 1
 end_operator
 begin_operator
 ship-order-o10-n8-n9 
 6
+6 0
 22 0
+26 0
 82 0
 83 0
-6 0
 84 0
-26 0
 3
-0 98 1 0
 0 75 0 1
 0 76 -1 0
+0 98 1 0
 1
 end_operator
 begin_operator
 ship-order-o10-n9-n10 
 6
+6 0
 22 0
+26 0
 82 0
 83 0
-6 0
 84 0
-26 0
 3
-0 98 1 0
-0 77 -1 0
 0 76 0 1
+0 77 -1 0
+0 98 1 0
 1
 end_operator
 begin_operator
 ship-order-o11-n0-n1 
 8
 21 0
+27 0
 50 0
-82 0
-83 0
 51 0
 52 0
-27 0
 55 0
+82 0
+83 0
 3
-0 105 1 0
 0 28 0 1
 0 62 -1 0
+0 105 1 0
 1
 end_operator
 begin_operator
 ship-order-o11-n1-n2 
 8
 21 0
+27 0
 50 0
-82 0
-83 0
 51 0
 52 0
-27 0
 55 0
+82 0
+83 0
 3
-0 105 1 0
 0 62 0 1
 0 63 -1 0
+0 105 1 0
 1
 end_operator
 begin_operator
 ship-order-o11-n10-n11 
 8
 21 0
+27 0
 50 0
-82 0
-83 0
 51 0
 52 0
-27 0
 55 0
+82 0
+83 0
 3
-0 105 1 0
 0 77 0 1
 0 78 -1 0
+0 105 1 0
 1
 end_operator
 begin_operator
 ship-order-o11-n11-n12 
 8
 21 0
+27 0
 50 0
-82 0
-83 0
 51 0
 52 0
-27 0
 55 0
+82 0
+83 0
 3
-0 105 1 0
 0 78 0 1
 0 79 -1 0
+0 105 1 0
 1
 end_operator
 begin_operator
 ship-order-o11-n12-n13 
 8
 21 0
+27 0
 50 0
-82 0
-83 0
 51 0
 52 0
-27 0
 55 0
+82 0
+83 0
 3
-0 105 1 0
 0 79 0 1
 0 80 -1 0
+0 105 1 0
 1
 end_operator
 begin_operator
 ship-order-o11-n13-n14 
 8
 21 0
+27 0
 50 0
-82 0
-83 0
 51 0
 52 0
-27 0
 55 0
+82 0
+83 0
 3
-0 105 1 0
 0 80 0 1
 0 81 -1 0
+0 105 1 0
 1
 end_operator
 begin_operator
 ship-order-o11-n14-n15 
 8
 21 0
+27 0
 50 0
-82 0
-83 0
 51 0
 52 0
-27 0
 55 0
+82 0
+83 0
 3
-0 105 1 0
-0 81 0 1
 0 29 -1 0
+0 81 0 1
+0 105 1 0
 1
 end_operator
 begin_operator
 ship-order-o11-n2-n3 
 8
 21 0
+27 0
 50 0
-82 0
-83 0
 51 0
 52 0
-27 0
 55 0
+82 0
+83 0
 3
-0 105 1 0
 0 63 0 1
 0 64 -1 0
+0 105 1 0
 1
 end_operator
 begin_operator
 ship-order-o11-n3-n4 
 8
 21 0
+27 0
 50 0
-82 0
-83 0
 51 0
 52 0
-27 0
 55 0
+82 0
+83 0
 3
-0 105 1 0
 0 64 0 1
 0 65 -1 0
+0 105 1 0
 1
 end_operator
 begin_operator
 ship-order-o11-n4-n5 
 8
 21 0
+27 0
 50 0
-82 0
-83 0
 51 0
 52 0
-27 0
 55 0
+82 0
+83 0
 3
-0 105 1 0
 0 65 0 1
 0 66 -1 0
+0 105 1 0
 1
 end_operator
 begin_operator
 ship-order-o11-n5-n6 
 8
 21 0
+27 0
 50 0
-82 0
-83 0
 51 0
 52 0
-27 0
 55 0
+82 0
+83 0
 3
-0 105 1 0
 0 66 0 1
 0 67 -1 0
+0 105 1 0
 1
 end_operator
 begin_operator
 ship-order-o11-n6-n7 
 8
 21 0
+27 0
 50 0
-82 0
-83 0
 51 0
 52 0
-27 0
 55 0
+82 0
+83 0
 3
-0 105 1 0
 0 67 0 1
 0 68 -1 0
+0 105 1 0
 1
 end_operator
 begin_operator
 ship-order-o11-n7-n8 
 8
 21 0
+27 0
 50 0
-82 0
-83 0
 51 0
 52 0
-27 0
 55 0
+82 0
+83 0
 3
-0 105 1 0
 0 68 0 1
 0 75 -1 0
+0 105 1 0
 1
 end_operator
 begin_operator
 ship-order-o11-n8-n9 
 8
 21 0
+27 0
 50 0
-82 0
-83 0
 51 0
 52 0
-27 0
 55 0
+82 0
+83 0
 3
-0 105 1 0
 0 75 0 1
 0 76 -1 0
+0 105 1 0
 1
 end_operator
 begin_operator
 ship-order-o11-n9-n10 
 8
 21 0
+27 0
 50 0
-82 0
-83 0
 51 0
 52 0
-27 0
 55 0
+82 0
+83 0
 3
-0 105 1 0
-0 77 -1 0
 0 76 0 1
+0 77 -1 0
+0 105 1 0
 1
 end_operator
 begin_operator
 ship-order-o12-n0-n1 
 9
-22 0
-82 0
 1 0
-24 0
-84 0
+22 0
 23 0
-54 0
+24 0
 26 0
+54 0
 55 0
+82 0
+84 0
 3
-0 106 1 0
 0 28 0 1
 0 62 -1 0
+0 106 1 0
 1
 end_operator
 begin_operator
 ship-order-o12-n1-n2 
 9
-22 0
-82 0
 1 0
-24 0
-84 0
+22 0
 23 0
-54 0
+24 0
 26 0
+54 0
 55 0
+82 0
+84 0
 3
-0 106 1 0
 0 62 0 1
 0 63 -1 0
+0 106 1 0
 1
 end_operator
 begin_operator
 ship-order-o12-n10-n11 
 9
-22 0
-82 0
 1 0
-24 0
-84 0
+22 0
 23 0
-54 0
+24 0
 26 0
+54 0
 55 0
+82 0
+84 0
 3
-0 106 1 0
 0 77 0 1
 0 78 -1 0
+0 106 1 0
 1
 end_operator
 begin_operator
 ship-order-o12-n11-n12 
 9
-22 0
-82 0
 1 0
-24 0
-84 0
+22 0
 23 0
-54 0
+24 0
 26 0
+54 0
 55 0
+82 0
+84 0
 3
-0 106 1 0
 0 78 0 1
 0 79 -1 0
+0 106 1 0
 1
 end_operator
 begin_operator
 ship-order-o12-n12-n13 
 9
-22 0
-82 0
 1 0
-24 0
-84 0
+22 0
 23 0
-54 0
+24 0
 26 0
+54 0
 55 0
+82 0
+84 0
 3
-0 106 1 0
 0 79 0 1
 0 80 -1 0
+0 106 1 0
 1
 end_operator
 begin_operator
 ship-order-o12-n13-n14 
 9
-22 0
-82 0
 1 0
-24 0
-84 0
+22 0
 23 0
-54 0
+24 0
 26 0
+54 0
 55 0
+82 0
+84 0
 3
-0 106 1 0
 0 80 0 1
 0 81 -1 0
+0 106 1 0
 1
 end_operator
 begin_operator
 ship-order-o12-n14-n15 
 9
-22 0
-82 0
 1 0
-24 0
-84 0
+22 0
 23 0
-54 0
+24 0
 26 0
+54 0
 55 0
+82 0
+84 0
 3
-0 106 1 0
-0 81 0 1
 0 29 -1 0
+0 81 0 1
+0 106 1 0
 1
 end_operator
 begin_operator
 ship-order-o12-n2-n3 
 9
-22 0
-82 0
 1 0
-24 0
-84 0
+22 0
 23 0
-54 0
+24 0
 26 0
+54 0
 55 0
+82 0
+84 0
 3
-0 106 1 0
 0 63 0 1
 0 64 -1 0
+0 106 1 0
 1
 end_operator
 begin_operator
 ship-order-o12-n3-n4 
 9
-22 0
-82 0
 1 0
-24 0
-84 0
+22 0
 23 0
-54 0
+24 0
 26 0
+54 0
 55 0
+82 0
+84 0
 3
-0 106 1 0
 0 64 0 1
 0 65 -1 0
+0 106 1 0
 1
 end_operator
 begin_operator
 ship-order-o12-n4-n5 
 9
-22 0
-82 0
 1 0
-24 0
-84 0
+22 0
 23 0
-54 0
+24 0
 26 0
+54 0
 55 0
+82 0
+84 0
 3
-0 106 1 0
 0 65 0 1
 0 66 -1 0
+0 106 1 0
 1
 end_operator
 begin_operator
 ship-order-o12-n5-n6 
 9
-22 0
-82 0
 1 0
-24 0
-84 0
+22 0
 23 0
-54 0
+24 0
 26 0
+54 0
 55 0
+82 0
+84 0
 3
-0 106 1 0
 0 66 0 1
 0 67 -1 0
+0 106 1 0
 1
 end_operator
 begin_operator
 ship-order-o12-n6-n7 
 9
-22 0
-82 0
 1 0
-24 0
-84 0
+22 0
 23 0
-54 0
+24 0
 26 0
+54 0
 55 0
+82 0
+84 0
 3
-0 106 1 0
 0 67 0 1
 0 68 -1 0
+0 106 1 0
 1
 end_operator
 begin_operator
 ship-order-o12-n7-n8 
 9
-22 0
-82 0
 1 0
-24 0
-84 0
+22 0
 23 0
-54 0
+24 0
 26 0
+54 0
 55 0
+82 0
+84 0
 3
-0 106 1 0
 0 68 0 1
 0 75 -1 0
+0 106 1 0
 1
 end_operator
 begin_operator
 ship-order-o12-n8-n9 
 9
-22 0
-82 0
 1 0
-24 0
-84 0
+22 0
 23 0
-54 0
+24 0
 26 0
+54 0
 55 0
+82 0
+84 0
 3
-0 106 1 0
 0 75 0 1
 0 76 -1 0
+0 106 1 0
 1
 end_operator
 begin_operator
 ship-order-o12-n9-n10 
 9
-22 0
-82 0
 1 0
-24 0
-84 0
+22 0
 23 0
-54 0
+24 0
 26 0
+54 0
 55 0
+82 0
+84 0
 3
-0 106 1 0
-0 77 -1 0
 0 76 0 1
+0 77 -1 0
+0 106 1 0
 1
 end_operator
 begin_operator
 ship-order-o13-n0-n1 
 6
+6 0
 22 0
+26 0
 82 0
 83 0
-6 0
 84 0
-26 0
 3
-0 99 1 0
 0 28 0 1
 0 62 -1 0
+0 99 1 0
 1
 end_operator
 begin_operator
 ship-order-o13-n1-n2 
 6
+6 0
 22 0
+26 0
 82 0
 83 0
-6 0
 84 0
-26 0
 3
-0 99 1 0
 0 62 0 1
 0 63 -1 0
+0 99 1 0
 1
 end_operator
 begin_operator
 ship-order-o13-n10-n11 
 6
+6 0
 22 0
+26 0
 82 0
 83 0
-6 0
 84 0
-26 0
 3
-0 99 1 0
 0 77 0 1
 0 78 -1 0
+0 99 1 0
 1
 end_operator
 begin_operator
 ship-order-o13-n11-n12 
 6
+6 0
 22 0
+26 0
 82 0
 83 0
-6 0
 84 0
-26 0
 3
-0 99 1 0
 0 78 0 1
 0 79 -1 0
+0 99 1 0
 1
 end_operator
 begin_operator
 ship-order-o13-n12-n13 
 6
+6 0
 22 0
+26 0
 82 0
 83 0
-6 0
 84 0
-26 0
 3
-0 99 1 0
 0 79 0 1
 0 80 -1 0
+0 99 1 0
 1
 end_operator
 begin_operator
 ship-order-o13-n13-n14 
 6
+6 0
 22 0
+26 0
 82 0
 83 0
-6 0
 84 0
-26 0
 3
-0 99 1 0
 0 80 0 1
 0 81 -1 0
+0 99 1 0
 1
 end_operator
 begin_operator
 ship-order-o13-n14-n15 
 6
+6 0
 22 0
+26 0
 82 0
 83 0
-6 0
 84 0
-26 0
 3
-0 99 1 0
-0 81 0 1
 0 29 -1 0
+0 81 0 1
+0 99 1 0
 1
 end_operator
 begin_operator
 ship-order-o13-n2-n3 
 6
+6 0
 22 0
+26 0
 82 0
 83 0
-6 0
 84 0
-26 0
 3
-0 99 1 0
 0 63 0 1
 0 64 -1 0
+0 99 1 0
 1
 end_operator
 begin_operator
 ship-order-o13-n3-n4 
 6
+6 0
 22 0
+26 0
 82 0
 83 0
-6 0
 84 0
-26 0
 3
-0 99 1 0
 0 64 0 1
 0 65 -1 0
+0 99 1 0
 1
 end_operator
 begin_operator
 ship-order-o13-n4-n5 
 6
+6 0
 22 0
+26 0
 82 0
 83 0
-6 0
 84 0
-26 0
 3
-0 99 1 0
 0 65 0 1
 0 66 -1 0
+0 99 1 0
 1
 end_operator
 begin_operator
 ship-order-o13-n5-n6 
 6
+6 0
 22 0
+26 0
 82 0
 83 0
-6 0
 84 0
-26 0
 3
-0 99 1 0
 0 66 0 1
 0 67 -1 0
+0 99 1 0
 1
 end_operator
 begin_operator
 ship-order-o13-n6-n7 
 6
+6 0
 22 0
+26 0
 82 0
 83 0
-6 0
 84 0
-26 0
 3
-0 99 1 0
 0 67 0 1
 0 68 -1 0
+0 99 1 0
 1
 end_operator
 begin_operator
 ship-order-o13-n7-n8 
 6
+6 0
 22 0
+26 0
 82 0
 83 0
-6 0
 84 0
-26 0
 3
-0 99 1 0
 0 68 0 1
 0 75 -1 0
+0 99 1 0
 1
 end_operator
 begin_operator
 ship-order-o13-n8-n9 
 6
+6 0
 22 0
+26 0
 82 0
 83 0
-6 0
 84 0
-26 0
 3
-0 99 1 0
 0 75 0 1
 0 76 -1 0
+0 99 1 0
 1
 end_operator
 begin_operator
 ship-order-o13-n9-n10 
 6
+6 0
 22 0
+26 0
 82 0
 83 0
-6 0
 84 0
-26 0
 3
-0 99 1 0
-0 77 -1 0
 0 76 0 1
+0 77 -1 0
+0 99 1 0
 1
 end_operator
 begin_operator
 ship-order-o14-n0-n1 
 6
-21 0
-50 0
-82 0
 8 0
+21 0
 25 0
+50 0
 55 0
+82 0
 3
-0 97 1 0
 0 28 0 1
 0 62 -1 0
+0 97 1 0
 1
 end_operator
 begin_operator
 ship-order-o14-n1-n2 
 6
-21 0
-50 0
-82 0
 8 0
+21 0
 25 0
+50 0
 55 0
+82 0
 3
-0 97 1 0
 0 62 0 1
 0 63 -1 0
+0 97 1 0
 1
 end_operator
 begin_operator
 ship-order-o14-n10-n11 
 6
-21 0
-50 0
-82 0
 8 0
+21 0
 25 0
+50 0
 55 0
+82 0
 3
-0 97 1 0
 0 77 0 1
 0 78 -1 0
+0 97 1 0
 1
 end_operator
 begin_operator
 ship-order-o14-n11-n12 
 6
-21 0
-50 0
-82 0
 8 0
+21 0
 25 0
+50 0
 55 0
+82 0
 3
-0 97 1 0
 0 78 0 1
 0 79 -1 0
+0 97 1 0
 1
 end_operator
 begin_operator
 ship-order-o14-n12-n13 
 6
-21 0
-50 0
-82 0
 8 0
+21 0
 25 0
+50 0
 55 0
+82 0
 3
-0 97 1 0
 0 79 0 1
 0 80 -1 0
+0 97 1 0
 1
 end_operator
 begin_operator
 ship-order-o14-n13-n14 
 6
-21 0
-50 0
-82 0
 8 0
+21 0
 25 0
+50 0
 55 0
+82 0
 3
-0 97 1 0
 0 80 0 1
 0 81 -1 0
+0 97 1 0
 1
 end_operator
 begin_operator
 ship-order-o14-n14-n15 
 6
-21 0
-50 0
-82 0
 8 0
+21 0
 25 0
+50 0
 55 0
+82 0
 3
-0 97 1 0
-0 81 0 1
 0 29 -1 0
+0 81 0 1
+0 97 1 0
 1
 end_operator
 begin_operator
 ship-order-o14-n2-n3 
 6
-21 0
-50 0
-82 0
 8 0
+21 0
 25 0
+50 0
 55 0
+82 0
 3
-0 97 1 0
 0 63 0 1
 0 64 -1 0
+0 97 1 0
 1
 end_operator
 begin_operator
 ship-order-o14-n3-n4 
 6
-21 0
-50 0
-82 0
 8 0
+21 0
 25 0
+50 0
 55 0
+82 0
 3
-0 97 1 0
 0 64 0 1
 0 65 -1 0
+0 97 1 0
 1
 end_operator
 begin_operator
 ship-order-o14-n4-n5 
 6
-21 0
-50 0
-82 0
 8 0
+21 0
 25 0
+50 0
 55 0
+82 0
 3
-0 97 1 0
 0 65 0 1
 0 66 -1 0
+0 97 1 0
 1
 end_operator
 begin_operator
 ship-order-o14-n5-n6 
 6
-21 0
-50 0
-82 0
 8 0
+21 0
 25 0
+50 0
 55 0
+82 0
 3
-0 97 1 0
 0 66 0 1
 0 67 -1 0
+0 97 1 0
 1
 end_operator
 begin_operator
 ship-order-o14-n6-n7 
 6
-21 0
-50 0
-82 0
 8 0
+21 0
 25 0
+50 0
 55 0
+82 0
 3
-0 97 1 0
 0 67 0 1
 0 68 -1 0
+0 97 1 0
 1
 end_operator
 begin_operator
 ship-order-o14-n7-n8 
 6
-21 0
-50 0
-82 0
 8 0
+21 0
 25 0
+50 0
 55 0
+82 0
 3
-0 97 1 0
 0 68 0 1
 0 75 -1 0
+0 97 1 0
 1
 end_operator
 begin_operator
 ship-order-o14-n8-n9 
 6
-21 0
-50 0
-82 0
 8 0
+21 0
 25 0
+50 0
 55 0
+82 0
 3
-0 97 1 0
 0 75 0 1
 0 76 -1 0
+0 97 1 0
 1
 end_operator
 begin_operator
 ship-order-o14-n9-n10 
 6
-21 0
-50 0
-82 0
 8 0
+21 0
 25 0
+50 0
 55 0
+82 0
 3
-0 97 1 0
-0 77 -1 0
 0 76 0 1
+0 77 -1 0
+0 97 1 0
 1
 end_operator
 begin_operator
 ship-order-o15-n0-n1 
 6
-50 0
 8 0
 23 0
-53 0
 25 0
 27 0
+50 0
+53 0
 3
-0 92 1 0
 0 28 0 1
 0 62 -1 0
+0 92 1 0
 1
 end_operator
 begin_operator
 ship-order-o15-n1-n2 
 6
-50 0
 8 0
 23 0
-53 0
 25 0
 27 0
+50 0
+53 0
 3
-0 92 1 0
 0 62 0 1
 0 63 -1 0
+0 92 1 0
 1
 end_operator
 begin_operator
 ship-order-o15-n10-n11 
 6
-50 0
 8 0
 23 0
-53 0
 25 0
 27 0
+50 0
+53 0
 3
-0 92 1 0
 0 77 0 1
 0 78 -1 0
+0 92 1 0
 1
 end_operator
 begin_operator
 ship-order-o15-n11-n12 
 6
-50 0
 8 0
 23 0
-53 0
 25 0
 27 0
+50 0
+53 0
 3
-0 92 1 0
 0 78 0 1
 0 79 -1 0
+0 92 1 0
 1
 end_operator
 begin_operator
 ship-order-o15-n12-n13 
 6
-50 0
 8 0
 23 0
-53 0
 25 0
 27 0
+50 0
+53 0
 3
-0 92 1 0
 0 79 0 1
 0 80 -1 0
+0 92 1 0
 1
 end_operator
 begin_operator
 ship-order-o15-n13-n14 
 6
-50 0
 8 0
 23 0
-53 0
 25 0
 27 0
+50 0
+53 0
 3
-0 92 1 0
 0 80 0 1
 0 81 -1 0
+0 92 1 0
 1
 end_operator
 begin_operator
 ship-order-o15-n14-n15 
 6
-50 0
 8 0
 23 0
-53 0
 25 0
 27 0
+50 0
+53 0
 3
-0 92 1 0
-0 81 0 1
 0 29 -1 0
+0 81 0 1
+0 92 1 0
 1
 end_operator
 begin_operator
 ship-order-o15-n2-n3 
 6
-50 0
 8 0
 23 0
-53 0
 25 0
 27 0
+50 0
+53 0
 3
-0 92 1 0
 0 63 0 1
 0 64 -1 0
+0 92 1 0
 1
 end_operator
 begin_operator
 ship-order-o15-n3-n4 
 6
-50 0
 8 0
 23 0
-53 0
 25 0
 27 0
+50 0
+53 0
 3
-0 92 1 0
 0 64 0 1
 0 65 -1 0
+0 92 1 0
 1
 end_operator
 begin_operator
 ship-order-o15-n4-n5 
 6
-50 0
 8 0
 23 0
-53 0
 25 0
 27 0
+50 0
+53 0
 3
-0 92 1 0
 0 65 0 1
 0 66 -1 0
+0 92 1 0
 1
 end_operator
 begin_operator
 ship-order-o15-n5-n6 
 6
-50 0
 8 0
 23 0
-53 0
 25 0
 27 0
+50 0
+53 0
 3
-0 92 1 0
 0 66 0 1
 0 67 -1 0
+0 92 1 0
 1
 end_operator
 begin_operator
 ship-order-o15-n6-n7 
 6
-50 0
 8 0
 23 0
-53 0
 25 0
 27 0
+50 0
+53 0
 3
-0 92 1 0
 0 67 0 1
 0 68 -1 0
+0 92 1 0
 1
 end_operator
 begin_operator
 ship-order-o15-n7-n8 
 6
-50 0
 8 0
 23 0
-53 0
 25 0
 27 0
+50 0
+53 0
 3
-0 92 1 0
 0 68 0 1
 0 75 -1 0
+0 92 1 0
 1
 end_operator
 begin_operator
 ship-order-o15-n8-n9 
 6
-50 0
 8 0
 23 0
-53 0
 25 0
 27 0
+50 0
+53 0
 3
-0 92 1 0
 0 75 0 1
 0 76 -1 0
+0 92 1 0
 1
 end_operator
 begin_operator
 ship-order-o15-n9-n10 
 6
-50 0
 8 0
 23 0
-53 0
 25 0
 27 0
+50 0
+53 0
 3
-0 92 1 0
-0 77 -1 0
 0 76 0 1
+0 77 -1 0
+0 92 1 0
 1
 end_operator
 begin_operator
 ship-order-o2-n0-n1 
 6
-51 0
-52 0
-54 0
 2 0
 10 0
 11 0
+51 0
+52 0
+54 0
 3
-0 93 1 0
 0 28 0 1
 0 62 -1 0
+0 93 1 0
 1
 end_operator
 begin_operator
 ship-order-o2-n1-n2 
 6
-51 0
-52 0
-54 0
 2 0
 10 0
 11 0
+51 0
+52 0
+54 0
 3
-0 93 1 0
 0 62 0 1
 0 63 -1 0
+0 93 1 0
 1
 end_operator
 begin_operator
 ship-order-o2-n10-n11 
 6
-51 0
-52 0
-54 0
 2 0
 10 0
 11 0
+51 0
+52 0
+54 0
 3
-0 93 1 0
 0 77 0 1
 0 78 -1 0
+0 93 1 0
 1
 end_operator
 begin_operator
 ship-order-o2-n11-n12 
 6
-51 0
-52 0
-54 0
 2 0
 10 0
 11 0
+51 0
+52 0
+54 0
 3
-0 93 1 0
 0 78 0 1
 0 79 -1 0
+0 93 1 0
 1
 end_operator
 begin_operator
 ship-order-o2-n12-n13 
 6
-51 0
-52 0
-54 0
 2 0
 10 0
 11 0
+51 0
+52 0
+54 0
 3
-0 93 1 0
 0 79 0 1
 0 80 -1 0
+0 93 1 0
 1
 end_operator
 begin_operator
 ship-order-o2-n13-n14 
 6
-51 0
-52 0
-54 0
 2 0
 10 0
 11 0
+51 0
+52 0
+54 0
 3
-0 93 1 0
 0 80 0 1
 0 81 -1 0
+0 93 1 0
 1
 end_operator
 begin_operator
 ship-order-o2-n14-n15 
 6
-51 0
-52 0
-54 0
 2 0
 10 0
 11 0
+51 0
+52 0
+54 0
 3
-0 93 1 0
-0 81 0 1
 0 29 -1 0
+0 81 0 1
+0 93 1 0
 1
 end_operator
 begin_operator
 ship-order-o2-n2-n3 
 6
-51 0
-52 0
-54 0
 2 0
 10 0
 11 0
+51 0
+52 0
+54 0
 3
-0 93 1 0
 0 63 0 1
 0 64 -1 0
+0 93 1 0
 1
 end_operator
 begin_operator
 ship-order-o2-n3-n4 
 6
-51 0
-52 0
-54 0
 2 0
 10 0
 11 0
+51 0
+52 0
+54 0
 3
-0 93 1 0
 0 64 0 1
 0 65 -1 0
+0 93 1 0
 1
 end_operator
 begin_operator
 ship-order-o2-n4-n5 
 6
-51 0
-52 0
-54 0
 2 0
 10 0
 11 0
+51 0
+52 0
+54 0
 3
-0 93 1 0
 0 65 0 1
 0 66 -1 0
+0 93 1 0
 1
 end_operator
 begin_operator
 ship-order-o2-n5-n6 
 6
-51 0
-52 0
-54 0
 2 0
 10 0
 11 0
+51 0
+52 0
+54 0
 3
-0 93 1 0
 0 66 0 1
 0 67 -1 0
+0 93 1 0
 1
 end_operator
 begin_operator
 ship-order-o2-n6-n7 
 6
-51 0
-52 0
-54 0
 2 0
 10 0
 11 0
+51 0
+52 0
+54 0
 3
-0 93 1 0
 0 67 0 1
 0 68 -1 0
+0 93 1 0
 1
 end_operator
 begin_operator
 ship-order-o2-n7-n8 
 6
-51 0
-52 0
-54 0
 2 0
 10 0
 11 0
+51 0
+52 0
+54 0
 3
-0 93 1 0
 0 68 0 1
 0 75 -1 0
+0 93 1 0
 1
 end_operator
 begin_operator
 ship-order-o2-n8-n9 
 6
-51 0
-52 0
-54 0
 2 0
 10 0
 11 0
+51 0
+52 0
+54 0
 3
-0 93 1 0
 0 75 0 1
 0 76 -1 0
+0 93 1 0
 1
 end_operator
 begin_operator
 ship-order-o2-n9-n10 
 6
-51 0
-52 0
-54 0
 2 0
 10 0
 11 0
+51 0
+52 0
+54 0
 3
-0 93 1 0
-0 77 -1 0
 0 76 0 1
+0 77 -1 0
+0 93 1 0
 1
 end_operator
 begin_operator
@@ -12928,14 +12928,14 @@ ship-order-o3-n0-n1
 6
 0 0
 7 0
-51 0
-52 0
 10 0
 11 0
+51 0
+52 0
 3
-0 94 1 0
 0 28 0 1
 0 62 -1 0
+0 94 1 0
 1
 end_operator
 begin_operator
@@ -12943,14 +12943,14 @@ ship-order-o3-n1-n2
 6
 0 0
 7 0
-51 0
-52 0
 10 0
 11 0
+51 0
+52 0
 3
-0 94 1 0
 0 62 0 1
 0 63 -1 0
+0 94 1 0
 1
 end_operator
 begin_operator
@@ -12958,14 +12958,14 @@ ship-order-o3-n10-n11
 6
 0 0
 7 0
-51 0
-52 0
 10 0
 11 0
+51 0
+52 0
 3
-0 94 1 0
 0 77 0 1
 0 78 -1 0
+0 94 1 0
 1
 end_operator
 begin_operator
@@ -12973,14 +12973,14 @@ ship-order-o3-n11-n12
 6
 0 0
 7 0
-51 0
-52 0
 10 0
 11 0
+51 0
+52 0
 3
-0 94 1 0
 0 78 0 1
 0 79 -1 0
+0 94 1 0
 1
 end_operator
 begin_operator
@@ -12988,14 +12988,14 @@ ship-order-o3-n12-n13
 6
 0 0
 7 0
-51 0
-52 0
 10 0
 11 0
+51 0
+52 0
 3
-0 94 1 0
 0 79 0 1
 0 80 -1 0
+0 94 1 0
 1
 end_operator
 begin_operator
@@ -13003,14 +13003,14 @@ ship-order-o3-n13-n14
 6
 0 0
 7 0
-51 0
-52 0
 10 0
 11 0
+51 0
+52 0
 3
-0 94 1 0
 0 80 0 1
 0 81 -1 0
+0 94 1 0
 1
 end_operator
 begin_operator
@@ -13018,14 +13018,14 @@ ship-order-o3-n14-n15
 6
 0 0
 7 0
-51 0
-52 0
 10 0
 11 0
+51 0
+52 0
 3
-0 94 1 0
-0 81 0 1
 0 29 -1 0
+0 81 0 1
+0 94 1 0
 1
 end_operator
 begin_operator
@@ -13033,14 +13033,14 @@ ship-order-o3-n2-n3
 6
 0 0
 7 0
-51 0
-52 0
 10 0
 11 0
+51 0
+52 0
 3
-0 94 1 0
 0 63 0 1
 0 64 -1 0
+0 94 1 0
 1
 end_operator
 begin_operator
@@ -13048,14 +13048,14 @@ ship-order-o3-n3-n4
 6
 0 0
 7 0
-51 0
-52 0
 10 0
 11 0
+51 0
+52 0
 3
-0 94 1 0
 0 64 0 1
 0 65 -1 0
+0 94 1 0
 1
 end_operator
 begin_operator
@@ -13063,14 +13063,14 @@ ship-order-o3-n4-n5
 6
 0 0
 7 0
-51 0
-52 0
 10 0
 11 0
+51 0
+52 0
 3
-0 94 1 0
 0 65 0 1
 0 66 -1 0
+0 94 1 0
 1
 end_operator
 begin_operator
@@ -13078,14 +13078,14 @@ ship-order-o3-n5-n6
 6
 0 0
 7 0
-51 0
-52 0
 10 0
 11 0
+51 0
+52 0
 3
-0 94 1 0
 0 66 0 1
 0 67 -1 0
+0 94 1 0
 1
 end_operator
 begin_operator
@@ -13093,14 +13093,14 @@ ship-order-o3-n6-n7
 6
 0 0
 7 0
-51 0
-52 0
 10 0
 11 0
+51 0
+52 0
 3
-0 94 1 0
 0 67 0 1
 0 68 -1 0
+0 94 1 0
 1
 end_operator
 begin_operator
@@ -13108,14 +13108,14 @@ ship-order-o3-n7-n8
 6
 0 0
 7 0
-51 0
-52 0
 10 0
 11 0
+51 0
+52 0
 3
-0 94 1 0
 0 68 0 1
 0 75 -1 0
+0 94 1 0
 1
 end_operator
 begin_operator
@@ -13123,14 +13123,14 @@ ship-order-o3-n8-n9
 6
 0 0
 7 0
-51 0
-52 0
 10 0
 11 0
+51 0
+52 0
 3
-0 94 1 0
 0 75 0 1
 0 76 -1 0
+0 94 1 0
 1
 end_operator
 begin_operator
@@ -13138,14 +13138,14 @@ ship-order-o3-n9-n10
 6
 0 0
 7 0
-51 0
-52 0
 10 0
 11 0
+51 0
+52 0
 3
-0 94 1 0
-0 77 -1 0
 0 76 0 1
+0 77 -1 0
+0 94 1 0
 1
 end_operator
 begin_operator
@@ -13153,14 +13153,14 @@ ship-order-o4-n0-n1
 6
 21 0
 22 0
-83 0
 24 0
-84 0
 55 0
+83 0
+84 0
 3
-0 100 1 0
 0 28 0 1
 0 62 -1 0
+0 100 1 0
 1
 end_operator
 begin_operator
@@ -13168,14 +13168,14 @@ ship-order-o4-n1-n2
 6
 21 0
 22 0
-83 0
 24 0
-84 0
 55 0
+83 0
+84 0
 3
-0 100 1 0
 0 62 0 1
 0 63 -1 0
+0 100 1 0
 1
 end_operator
 begin_operator
@@ -13183,14 +13183,14 @@ ship-order-o4-n10-n11
 6
 21 0
 22 0
-83 0
 24 0
-84 0
 55 0
+83 0
+84 0
 3
-0 100 1 0
 0 77 0 1
 0 78 -1 0
+0 100 1 0
 1
 end_operator
 begin_operator
@@ -13198,14 +13198,14 @@ ship-order-o4-n11-n12
 6
 21 0
 22 0
-83 0
 24 0
-84 0
 55 0
+83 0
+84 0
 3
-0 100 1 0
 0 78 0 1
 0 79 -1 0
+0 100 1 0
 1
 end_operator
 begin_operator
@@ -13213,14 +13213,14 @@ ship-order-o4-n12-n13
 6
 21 0
 22 0
-83 0
 24 0
-84 0
 55 0
+83 0
+84 0
 3
-0 100 1 0
 0 79 0 1
 0 80 -1 0
+0 100 1 0
 1
 end_operator
 begin_operator
@@ -13228,14 +13228,14 @@ ship-order-o4-n13-n14
 6
 21 0
 22 0
-83 0
 24 0
-84 0
 55 0
+83 0
+84 0
 3
-0 100 1 0
 0 80 0 1
 0 81 -1 0
+0 100 1 0
 1
 end_operator
 begin_operator
@@ -13243,14 +13243,14 @@ ship-order-o4-n14-n15
 6
 21 0
 22 0
-83 0
 24 0
-84 0
 55 0
+83 0
+84 0
 3
-0 100 1 0
-0 81 0 1
 0 29 -1 0
+0 81 0 1
+0 100 1 0
 1
 end_operator
 begin_operator
@@ -13258,14 +13258,14 @@ ship-order-o4-n2-n3
 6
 21 0
 22 0
-83 0
 24 0
-84 0
 55 0
+83 0
+84 0
 3
-0 100 1 0
 0 63 0 1
 0 64 -1 0
+0 100 1 0
 1
 end_operator
 begin_operator
@@ -13273,14 +13273,14 @@ ship-order-o4-n3-n4
 6
 21 0
 22 0
-83 0
 24 0
-84 0
 55 0
+83 0
+84 0
 3
-0 100 1 0
 0 64 0 1
 0 65 -1 0
+0 100 1 0
 1
 end_operator
 begin_operator
@@ -13288,14 +13288,14 @@ ship-order-o4-n4-n5
 6
 21 0
 22 0
-83 0
 24 0
-84 0
 55 0
+83 0
+84 0
 3
-0 100 1 0
 0 65 0 1
 0 66 -1 0
+0 100 1 0
 1
 end_operator
 begin_operator
@@ -13303,14 +13303,14 @@ ship-order-o4-n5-n6
 6
 21 0
 22 0
-83 0
 24 0
-84 0
 55 0
+83 0
+84 0
 3
-0 100 1 0
 0 66 0 1
 0 67 -1 0
+0 100 1 0
 1
 end_operator
 begin_operator
@@ -13318,14 +13318,14 @@ ship-order-o4-n6-n7
 6
 21 0
 22 0
-83 0
 24 0
-84 0
 55 0
+83 0
+84 0
 3
-0 100 1 0
 0 67 0 1
 0 68 -1 0
+0 100 1 0
 1
 end_operator
 begin_operator
@@ -13333,14 +13333,14 @@ ship-order-o4-n7-n8
 6
 21 0
 22 0
-83 0
 24 0
-84 0
 55 0
+83 0
+84 0
 3
-0 100 1 0
 0 68 0 1
 0 75 -1 0
+0 100 1 0
 1
 end_operator
 begin_operator
@@ -13348,14 +13348,14 @@ ship-order-o4-n8-n9
 6
 21 0
 22 0
-83 0
 24 0
-84 0
 55 0
+83 0
+84 0
 3
-0 100 1 0
 0 75 0 1
 0 76 -1 0
+0 100 1 0
 1
 end_operator
 begin_operator
@@ -13363,3209 +13363,3209 @@ ship-order-o4-n9-n10
 6
 21 0
 22 0
-83 0
 24 0
-84 0
 55 0
+83 0
+84 0
 3
-0 100 1 0
-0 77 -1 0
 0 76 0 1
+0 77 -1 0
+0 100 1 0
 1
 end_operator
 begin_operator
 ship-order-o5-n0-n1 
 7
-82 0
-83 0
 24 0
-84 0
 25 0
 27 0
 55 0
+82 0
+83 0
+84 0
 3
-0 102 1 0
 0 28 0 1
 0 62 -1 0
+0 102 1 0
 1
 end_operator
 begin_operator
 ship-order-o5-n1-n2 
 7
-82 0
-83 0
 24 0
-84 0
 25 0
 27 0
 55 0
+82 0
+83 0
+84 0
 3
-0 102 1 0
 0 62 0 1
 0 63 -1 0
+0 102 1 0
 1
 end_operator
 begin_operator
 ship-order-o5-n10-n11 
 7
-82 0
-83 0
 24 0
-84 0
 25 0
 27 0
 55 0
+82 0
+83 0
+84 0
 3
-0 102 1 0
 0 77 0 1
 0 78 -1 0
+0 102 1 0
 1
 end_operator
 begin_operator
 ship-order-o5-n11-n12 
 7
-82 0
-83 0
 24 0
-84 0
 25 0
 27 0
 55 0
+82 0
+83 0
+84 0
 3
-0 102 1 0
 0 78 0 1
 0 79 -1 0
+0 102 1 0
 1
 end_operator
 begin_operator
 ship-order-o5-n12-n13 
 7
-82 0
-83 0
 24 0
-84 0
 25 0
 27 0
 55 0
+82 0
+83 0
+84 0
 3
-0 102 1 0
 0 79 0 1
 0 80 -1 0
+0 102 1 0
 1
 end_operator
 begin_operator
 ship-order-o5-n13-n14 
 7
-82 0
-83 0
 24 0
-84 0
 25 0
 27 0
 55 0
+82 0
+83 0
+84 0
 3
-0 102 1 0
 0 80 0 1
 0 81 -1 0
+0 102 1 0
 1
 end_operator
 begin_operator
 ship-order-o5-n14-n15 
 7
-82 0
-83 0
 24 0
-84 0
 25 0
 27 0
 55 0
+82 0
+83 0
+84 0
 3
-0 102 1 0
-0 81 0 1
 0 29 -1 0
+0 81 0 1
+0 102 1 0
 1
 end_operator
 begin_operator
 ship-order-o5-n2-n3 
 7
-82 0
-83 0
 24 0
-84 0
 25 0
 27 0
 55 0
+82 0
+83 0
+84 0
 3
-0 102 1 0
 0 63 0 1
 0 64 -1 0
+0 102 1 0
 1
 end_operator
 begin_operator
 ship-order-o5-n3-n4 
 7
-82 0
-83 0
 24 0
-84 0
 25 0
 27 0
 55 0
+82 0
+83 0
+84 0
 3
-0 102 1 0
 0 64 0 1
 0 65 -1 0
+0 102 1 0
 1
 end_operator
 begin_operator
 ship-order-o5-n4-n5 
 7
-82 0
-83 0
 24 0
-84 0
 25 0
 27 0
 55 0
+82 0
+83 0
+84 0
 3
-0 102 1 0
 0 65 0 1
 0 66 -1 0
+0 102 1 0
 1
 end_operator
 begin_operator
 ship-order-o5-n5-n6 
 7
-82 0
-83 0
 24 0
-84 0
 25 0
 27 0
 55 0
+82 0
+83 0
+84 0
 3
-0 102 1 0
 0 66 0 1
 0 67 -1 0
+0 102 1 0
 1
 end_operator
 begin_operator
 ship-order-o5-n6-n7 
 7
-82 0
-83 0
 24 0
-84 0
 25 0
 27 0
 55 0
+82 0
+83 0
+84 0
 3
-0 102 1 0
 0 67 0 1
 0 68 -1 0
+0 102 1 0
 1
 end_operator
 begin_operator
 ship-order-o5-n7-n8 
 7
-82 0
-83 0
 24 0
-84 0
 25 0
 27 0
 55 0
+82 0
+83 0
+84 0
 3
-0 102 1 0
 0 68 0 1
 0 75 -1 0
+0 102 1 0
 1
 end_operator
 begin_operator
 ship-order-o5-n8-n9 
 7
-82 0
-83 0
 24 0
-84 0
 25 0
 27 0
 55 0
+82 0
+83 0
+84 0
 3
-0 102 1 0
 0 75 0 1
 0 76 -1 0
+0 102 1 0
 1
 end_operator
 begin_operator
 ship-order-o5-n9-n10 
 7
-82 0
-83 0
 24 0
-84 0
 25 0
 27 0
 55 0
+82 0
+83 0
+84 0
 3
-0 102 1 0
-0 77 -1 0
 0 76 0 1
+0 77 -1 0
+0 102 1 0
 1
 end_operator
 begin_operator
 ship-order-o6-n0-n1 
 6
 1 0
-83 0
-24 0
 6 0
-84 0
+24 0
 26 0
+83 0
+84 0
 3
-0 101 1 0
 0 28 0 1
 0 62 -1 0
+0 101 1 0
 1
 end_operator
 begin_operator
 ship-order-o6-n1-n2 
 6
 1 0
-83 0
-24 0
 6 0
-84 0
+24 0
 26 0
+83 0
+84 0
 3
-0 101 1 0
 0 62 0 1
 0 63 -1 0
+0 101 1 0
 1
 end_operator
 begin_operator
 ship-order-o6-n10-n11 
 6
 1 0
-83 0
-24 0
 6 0
-84 0
+24 0
 26 0
+83 0
+84 0
 3
-0 101 1 0
 0 77 0 1
 0 78 -1 0
+0 101 1 0
 1
 end_operator
 begin_operator
 ship-order-o6-n11-n12 
 6
 1 0
-83 0
-24 0
 6 0
-84 0
+24 0
 26 0
+83 0
+84 0
 3
-0 101 1 0
 0 78 0 1
 0 79 -1 0
+0 101 1 0
 1
 end_operator
 begin_operator
 ship-order-o6-n12-n13 
 6
 1 0
-83 0
-24 0
 6 0
-84 0
+24 0
 26 0
+83 0
+84 0
 3
-0 101 1 0
 0 79 0 1
 0 80 -1 0
+0 101 1 0
 1
 end_operator
 begin_operator
 ship-order-o6-n13-n14 
 6
 1 0
-83 0
-24 0
 6 0
-84 0
+24 0
 26 0
+83 0
+84 0
 3
-0 101 1 0
 0 80 0 1
 0 81 -1 0
+0 101 1 0
 1
 end_operator
 begin_operator
 ship-order-o6-n14-n15 
 6
 1 0
-83 0
-24 0
 6 0
-84 0
+24 0
 26 0
+83 0
+84 0
 3
-0 101 1 0
-0 81 0 1
 0 29 -1 0
+0 81 0 1
+0 101 1 0
 1
 end_operator
 begin_operator
 ship-order-o6-n2-n3 
 6
 1 0
-83 0
-24 0
 6 0
-84 0
+24 0
 26 0
+83 0
+84 0
 3
-0 101 1 0
 0 63 0 1
 0 64 -1 0
+0 101 1 0
 1
 end_operator
 begin_operator
 ship-order-o6-n3-n4 
 6
 1 0
-83 0
-24 0
 6 0
-84 0
+24 0
 26 0
+83 0
+84 0
 3
-0 101 1 0
 0 64 0 1
 0 65 -1 0
+0 101 1 0
 1
 end_operator
 begin_operator
 ship-order-o6-n4-n5 
 6
 1 0
-83 0
-24 0
 6 0
-84 0
+24 0
 26 0
+83 0
+84 0
 3
-0 101 1 0
 0 65 0 1
 0 66 -1 0
+0 101 1 0
 1
 end_operator
 begin_operator
 ship-order-o6-n5-n6 
 6
 1 0
-83 0
-24 0
 6 0
-84 0
+24 0
 26 0
+83 0
+84 0
 3
-0 101 1 0
 0 66 0 1
 0 67 -1 0
+0 101 1 0
 1
 end_operator
 begin_operator
 ship-order-o6-n6-n7 
 6
 1 0
-83 0
-24 0
 6 0
-84 0
+24 0
 26 0
+83 0
+84 0
 3
-0 101 1 0
 0 67 0 1
 0 68 -1 0
+0 101 1 0
 1
 end_operator
 begin_operator
 ship-order-o6-n7-n8 
 6
 1 0
-83 0
-24 0
 6 0
-84 0
+24 0
 26 0
+83 0
+84 0
 3
-0 101 1 0
 0 68 0 1
 0 75 -1 0
+0 101 1 0
 1
 end_operator
 begin_operator
 ship-order-o6-n8-n9 
 6
 1 0
-83 0
-24 0
 6 0
-84 0
+24 0
 26 0
+83 0
+84 0
 3
-0 101 1 0
 0 75 0 1
 0 76 -1 0
+0 101 1 0
 1
 end_operator
 begin_operator
 ship-order-o6-n9-n10 
 6
 1 0
-83 0
-24 0
 6 0
-84 0
+24 0
 26 0
+83 0
+84 0
 3
-0 101 1 0
-0 77 -1 0
 0 76 0 1
+0 77 -1 0
+0 101 1 0
 1
 end_operator
 begin_operator
 ship-order-o7-n0-n1 
 6
 9 0
-51 0
+10 0
 23 0
+51 0
 53 0
 54 0
-10 0
 3
-0 95 1 0
 0 28 0 1
 0 62 -1 0
+0 95 1 0
 1
 end_operator
 begin_operator
 ship-order-o7-n1-n2 
 6
 9 0
-51 0
+10 0
 23 0
+51 0
 53 0
 54 0
-10 0
 3
-0 95 1 0
 0 62 0 1
 0 63 -1 0
+0 95 1 0
 1
 end_operator
 begin_operator
 ship-order-o7-n10-n11 
 6
 9 0
-51 0
+10 0
 23 0
+51 0
 53 0
 54 0
-10 0
 3
-0 95 1 0
 0 77 0 1
 0 78 -1 0
+0 95 1 0
 1
 end_operator
 begin_operator
 ship-order-o7-n11-n12 
 6
 9 0
-51 0
+10 0
 23 0
+51 0
 53 0
 54 0
-10 0
 3
-0 95 1 0
 0 78 0 1
 0 79 -1 0
+0 95 1 0
 1
 end_operator
 begin_operator
 ship-order-o7-n12-n13 
 6
 9 0
-51 0
+10 0
 23 0
+51 0
 53 0
 54 0
-10 0
 3
-0 95 1 0
 0 79 0 1
 0 80 -1 0
+0 95 1 0
 1
 end_operator
 begin_operator
 ship-order-o7-n13-n14 
 6
 9 0
-51 0
+10 0
 23 0
+51 0
 53 0
 54 0
-10 0
 3
-0 95 1 0
 0 80 0 1
 0 81 -1 0
+0 95 1 0
 1
 end_operator
 begin_operator
 ship-order-o7-n14-n15 
 6
 9 0
-51 0
+10 0
 23 0
+51 0
 53 0
 54 0
-10 0
 3
-0 95 1 0
-0 81 0 1
 0 29 -1 0
+0 81 0 1
+0 95 1 0
 1
 end_operator
 begin_operator
 ship-order-o7-n2-n3 
 6
 9 0
-51 0
+10 0
 23 0
+51 0
 53 0
 54 0
-10 0
 3
-0 95 1 0
 0 63 0 1
 0 64 -1 0
+0 95 1 0
 1
 end_operator
 begin_operator
 ship-order-o7-n3-n4 
 6
 9 0
-51 0
+10 0
 23 0
+51 0
 53 0
 54 0
-10 0
 3
-0 95 1 0
 0 64 0 1
 0 65 -1 0
+0 95 1 0
 1
 end_operator
 begin_operator
 ship-order-o7-n4-n5 
 6
 9 0
-51 0
+10 0
 23 0
+51 0
 53 0
 54 0
-10 0
 3
-0 95 1 0
 0 65 0 1
 0 66 -1 0
+0 95 1 0
 1
 end_operator
 begin_operator
 ship-order-o7-n5-n6 
 6
 9 0
-51 0
+10 0
 23 0
+51 0
 53 0
 54 0
-10 0
 3
-0 95 1 0
 0 66 0 1
 0 67 -1 0
+0 95 1 0
 1
 end_operator
 begin_operator
 ship-order-o7-n6-n7 
 6
 9 0
-51 0
+10 0
 23 0
+51 0
 53 0
 54 0
-10 0
 3
-0 95 1 0
 0 67 0 1
 0 68 -1 0
+0 95 1 0
 1
 end_operator
 begin_operator
 ship-order-o7-n7-n8 
 6
 9 0
-51 0
+10 0
 23 0
+51 0
 53 0
 54 0
-10 0
 3
-0 95 1 0
 0 68 0 1
 0 75 -1 0
+0 95 1 0
 1
 end_operator
 begin_operator
 ship-order-o7-n8-n9 
 6
 9 0
-51 0
+10 0
 23 0
+51 0
 53 0
 54 0
-10 0
 3
-0 95 1 0
 0 75 0 1
 0 76 -1 0
+0 95 1 0
 1
 end_operator
 begin_operator
 ship-order-o7-n9-n10 
 6
 9 0
-51 0
+10 0
 23 0
+51 0
 53 0
 54 0
-10 0
 3
-0 95 1 0
-0 77 -1 0
 0 76 0 1
+0 77 -1 0
+0 95 1 0
 1
 end_operator
 begin_operator
 ship-order-o8-n0-n1 
 6
 7 0
-51 0
 23 0
+51 0
 52 0
 53 0
 54 0
 3
-0 96 1 0
 0 28 0 1
 0 62 -1 0
+0 96 1 0
 1
 end_operator
 begin_operator
 ship-order-o8-n1-n2 
 6
 7 0
-51 0
 23 0
+51 0
 52 0
 53 0
 54 0
 3
-0 96 1 0
 0 62 0 1
 0 63 -1 0
+0 96 1 0
 1
 end_operator
 begin_operator
 ship-order-o8-n10-n11 
 6
 7 0
-51 0
 23 0
+51 0
 52 0
 53 0
 54 0
 3
-0 96 1 0
 0 77 0 1
 0 78 -1 0
+0 96 1 0
 1
 end_operator
 begin_operator
 ship-order-o8-n11-n12 
 6
 7 0
-51 0
 23 0
+51 0
 52 0
 53 0
 54 0
 3
-0 96 1 0
 0 78 0 1
 0 79 -1 0
+0 96 1 0
 1
 end_operator
 begin_operator
 ship-order-o8-n12-n13 
 6
 7 0
-51 0
 23 0
+51 0
 52 0
 53 0
 54 0
 3
-0 96 1 0
 0 79 0 1
 0 80 -1 0
+0 96 1 0
 1
 end_operator
 begin_operator
 ship-order-o8-n13-n14 
 6
 7 0
-51 0
 23 0
+51 0
 52 0
 53 0
 54 0
 3
-0 96 1 0
 0 80 0 1
 0 81 -1 0
+0 96 1 0
 1
 end_operator
 begin_operator
 ship-order-o8-n14-n15 
 6
 7 0
-51 0
 23 0
+51 0
 52 0
 53 0
 54 0
 3
-0 96 1 0
-0 81 0 1
 0 29 -1 0
+0 81 0 1
+0 96 1 0
 1
 end_operator
 begin_operator
 ship-order-o8-n2-n3 
 6
 7 0
-51 0
 23 0
+51 0
 52 0
 53 0
 54 0
 3
-0 96 1 0
 0 63 0 1
 0 64 -1 0
+0 96 1 0
 1
 end_operator
 begin_operator
 ship-order-o8-n3-n4 
 6
 7 0
-51 0
 23 0
+51 0
 52 0
 53 0
 54 0
 3
-0 96 1 0
 0 64 0 1
 0 65 -1 0
+0 96 1 0
 1
 end_operator
 begin_operator
 ship-order-o8-n4-n5 
 6
 7 0
-51 0
 23 0
+51 0
 52 0
 53 0
 54 0
 3
-0 96 1 0
 0 65 0 1
 0 66 -1 0
+0 96 1 0
 1
 end_operator
 begin_operator
 ship-order-o8-n5-n6 
 6
 7 0
-51 0
 23 0
+51 0
 52 0
 53 0
 54 0
 3
-0 96 1 0
 0 66 0 1
 0 67 -1 0
+0 96 1 0
 1
 end_operator
 begin_operator
 ship-order-o8-n6-n7 
 6
 7 0
-51 0
 23 0
+51 0
 52 0
 53 0
 54 0
 3
-0 96 1 0
 0 67 0 1
 0 68 -1 0
+0 96 1 0
 1
 end_operator
 begin_operator
 ship-order-o8-n7-n8 
 6
 7 0
-51 0
 23 0
+51 0
 52 0
 53 0
 54 0
 3
-0 96 1 0
 0 68 0 1
 0 75 -1 0
+0 96 1 0
 1
 end_operator
 begin_operator
 ship-order-o8-n8-n9 
 6
 7 0
-51 0
 23 0
+51 0
 52 0
 53 0
 54 0
 3
-0 96 1 0
 0 75 0 1
 0 76 -1 0
+0 96 1 0
 1
 end_operator
 begin_operator
 ship-order-o8-n9-n10 
 6
 7 0
-51 0
 23 0
+51 0
 52 0
 53 0
 54 0
 3
-0 96 1 0
-0 77 -1 0
 0 76 0 1
+0 77 -1 0
+0 96 1 0
 1
 end_operator
 begin_operator
 ship-order-o9-n0-n1 
 8
 7 0
-50 0
-9 0
 8 0
+9 0
+11 0
+50 0
 52 0
 53 0
 54 0
-11 0
 3
-0 104 1 0
 0 28 0 1
 0 62 -1 0
+0 104 1 0
 1
 end_operator
 begin_operator
 ship-order-o9-n1-n2 
 8
 7 0
-50 0
-9 0
 8 0
+9 0
+11 0
+50 0
 52 0
 53 0
 54 0
-11 0
 3
-0 104 1 0
 0 62 0 1
 0 63 -1 0
+0 104 1 0
 1
 end_operator
 begin_operator
 ship-order-o9-n10-n11 
 8
 7 0
-50 0
-9 0
 8 0
+9 0
+11 0
+50 0
 52 0
 53 0
 54 0
-11 0
 3
-0 104 1 0
 0 77 0 1
 0 78 -1 0
+0 104 1 0
 1
 end_operator
 begin_operator
 ship-order-o9-n11-n12 
 8
 7 0
-50 0
-9 0
 8 0
+9 0
+11 0
+50 0
 52 0
 53 0
 54 0
-11 0
 3
-0 104 1 0
 0 78 0 1
 0 79 -1 0
+0 104 1 0
 1
 end_operator
 begin_operator
 ship-order-o9-n12-n13 
 8
 7 0
-50 0
-9 0
 8 0
+9 0
+11 0
+50 0
 52 0
 53 0
 54 0
-11 0
 3
-0 104 1 0
 0 79 0 1
 0 80 -1 0
+0 104 1 0
 1
 end_operator
 begin_operator
 ship-order-o9-n13-n14 
 8
 7 0
-50 0
-9 0
 8 0
+9 0
+11 0
+50 0
 52 0
 53 0
 54 0
-11 0
 3
-0 104 1 0
 0 80 0 1
 0 81 -1 0
+0 104 1 0
 1
 end_operator
 begin_operator
 ship-order-o9-n14-n15 
 8
 7 0
-50 0
-9 0
 8 0
+9 0
+11 0
+50 0
 52 0
 53 0
 54 0
-11 0
 3
-0 104 1 0
-0 81 0 1
 0 29 -1 0
+0 81 0 1
+0 104 1 0
 1
 end_operator
 begin_operator
 ship-order-o9-n2-n3 
 8
 7 0
-50 0
-9 0
 8 0
+9 0
+11 0
+50 0
 52 0
 53 0
 54 0
-11 0
 3
-0 104 1 0
 0 63 0 1
 0 64 -1 0
+0 104 1 0
 1
 end_operator
 begin_operator
 ship-order-o9-n3-n4 
 8
 7 0
-50 0
-9 0
 8 0
+9 0
+11 0
+50 0
 52 0
 53 0
 54 0
-11 0
 3
-0 104 1 0
 0 64 0 1
 0 65 -1 0
+0 104 1 0
 1
 end_operator
 begin_operator
 ship-order-o9-n4-n5 
 8
 7 0
-50 0
-9 0
 8 0
+9 0
+11 0
+50 0
 52 0
 53 0
 54 0
-11 0
 3
-0 104 1 0
 0 65 0 1
 0 66 -1 0
+0 104 1 0
 1
 end_operator
 begin_operator
 ship-order-o9-n5-n6 
 8
 7 0
-50 0
-9 0
 8 0
+9 0
+11 0
+50 0
 52 0
 53 0
 54 0
-11 0
 3
-0 104 1 0
 0 66 0 1
 0 67 -1 0
+0 104 1 0
 1
 end_operator
 begin_operator
 ship-order-o9-n6-n7 
 8
 7 0
-50 0
-9 0
 8 0
+9 0
+11 0
+50 0
 52 0
 53 0
 54 0
-11 0
 3
-0 104 1 0
 0 67 0 1
 0 68 -1 0
+0 104 1 0
 1
 end_operator
 begin_operator
 ship-order-o9-n7-n8 
 8
 7 0
-50 0
-9 0
 8 0
+9 0
+11 0
+50 0
 52 0
 53 0
 54 0
-11 0
 3
-0 104 1 0
 0 68 0 1
 0 75 -1 0
+0 104 1 0
 1
 end_operator
 begin_operator
 ship-order-o9-n8-n9 
 8
 7 0
-50 0
-9 0
 8 0
+9 0
+11 0
+50 0
 52 0
 53 0
 54 0
-11 0
 3
-0 104 1 0
 0 75 0 1
 0 76 -1 0
+0 104 1 0
 1
 end_operator
 begin_operator
 ship-order-o9-n9-n10 
 8
 7 0
-50 0
-9 0
 8 0
+9 0
+11 0
+50 0
 52 0
 53 0
 54 0
-11 0
 3
-0 104 1 0
-0 77 -1 0
 0 76 0 1
+0 77 -1 0
+0 104 1 0
 1
 end_operator
 begin_operator
 start-order-o1-n1-n0 
 0
 3
-0 103 2 1
 0 28 -1 0
 0 62 0 1
+0 103 2 1
 1
 end_operator
 begin_operator
 start-order-o1-n10-n9 
 0
 3
-0 103 2 1
-0 77 0 1
 0 76 -1 0
+0 77 0 1
+0 103 2 1
 1
 end_operator
 begin_operator
 start-order-o1-n11-n10 
 0
 3
-0 103 2 1
 0 77 -1 0
 0 78 0 1
+0 103 2 1
 1
 end_operator
 begin_operator
 start-order-o1-n12-n11 
 0
 3
-0 103 2 1
 0 78 -1 0
 0 79 0 1
+0 103 2 1
 1
 end_operator
 begin_operator
 start-order-o1-n13-n12 
 0
 3
-0 103 2 1
 0 79 -1 0
 0 80 0 1
+0 103 2 1
 1
 end_operator
 begin_operator
 start-order-o1-n14-n13 
 0
 3
-0 103 2 1
 0 80 -1 0
 0 81 0 1
+0 103 2 1
 1
 end_operator
 begin_operator
 start-order-o1-n15-n14 
 0
 3
-0 103 2 1
-0 81 -1 0
 0 29 0 1
+0 81 -1 0
+0 103 2 1
 1
 end_operator
 begin_operator
 start-order-o1-n2-n1 
 0
 3
-0 103 2 1
 0 62 -1 0
 0 63 0 1
+0 103 2 1
 1
 end_operator
 begin_operator
 start-order-o1-n3-n2 
 0
 3
-0 103 2 1
 0 63 -1 0
 0 64 0 1
+0 103 2 1
 1
 end_operator
 begin_operator
 start-order-o1-n4-n3 
 0
 3
-0 103 2 1
 0 64 -1 0
 0 65 0 1
+0 103 2 1
 1
 end_operator
 begin_operator
 start-order-o1-n5-n4 
 0
 3
-0 103 2 1
 0 65 -1 0
 0 66 0 1
+0 103 2 1
 1
 end_operator
 begin_operator
 start-order-o1-n6-n5 
 0
 3
-0 103 2 1
 0 66 -1 0
 0 67 0 1
+0 103 2 1
 1
 end_operator
 begin_operator
 start-order-o1-n7-n6 
 0
 3
-0 103 2 1
 0 67 -1 0
 0 68 0 1
+0 103 2 1
 1
 end_operator
 begin_operator
 start-order-o1-n8-n7 
 0
 3
-0 103 2 1
 0 68 -1 0
 0 75 0 1
+0 103 2 1
 1
 end_operator
 begin_operator
 start-order-o1-n9-n8 
 0
 3
-0 103 2 1
 0 75 -1 0
 0 76 0 1
+0 103 2 1
 1
 end_operator
 begin_operator
 start-order-o10-n1-n0 
 0
 3
-0 98 2 1
 0 28 -1 0
 0 62 0 1
+0 98 2 1
 1
 end_operator
 begin_operator
 start-order-o10-n10-n9 
 0
 3
-0 98 2 1
-0 77 0 1
 0 76 -1 0
+0 77 0 1
+0 98 2 1
 1
 end_operator
 begin_operator
 start-order-o10-n11-n10 
 0
 3
-0 98 2 1
 0 77 -1 0
 0 78 0 1
+0 98 2 1
 1
 end_operator
 begin_operator
 start-order-o10-n12-n11 
 0
 3
-0 98 2 1
 0 78 -1 0
 0 79 0 1
+0 98 2 1
 1
 end_operator
 begin_operator
 start-order-o10-n13-n12 
 0
 3
-0 98 2 1
 0 79 -1 0
 0 80 0 1
+0 98 2 1
 1
 end_operator
 begin_operator
 start-order-o10-n14-n13 
 0
 3
-0 98 2 1
 0 80 -1 0
 0 81 0 1
+0 98 2 1
 1
 end_operator
 begin_operator
 start-order-o10-n15-n14 
 0
 3
-0 98 2 1
-0 81 -1 0
 0 29 0 1
+0 81 -1 0
+0 98 2 1
 1
 end_operator
 begin_operator
 start-order-o10-n2-n1 
 0
 3
-0 98 2 1
 0 62 -1 0
 0 63 0 1
+0 98 2 1
 1
 end_operator
 begin_operator
 start-order-o10-n3-n2 
 0
 3
-0 98 2 1
 0 63 -1 0
 0 64 0 1
+0 98 2 1
 1
 end_operator
 begin_operator
 start-order-o10-n4-n3 
 0
 3
-0 98 2 1
 0 64 -1 0
 0 65 0 1
+0 98 2 1
 1
 end_operator
 begin_operator
 start-order-o10-n5-n4 
 0
 3
-0 98 2 1
 0 65 -1 0
 0 66 0 1
+0 98 2 1
 1
 end_operator
 begin_operator
 start-order-o10-n6-n5 
 0
 3
-0 98 2 1
 0 66 -1 0
 0 67 0 1
+0 98 2 1
 1
 end_operator
 begin_operator
 start-order-o10-n7-n6 
 0
 3
-0 98 2 1
 0 67 -1 0
 0 68 0 1
+0 98 2 1
 1
 end_operator
 begin_operator
 start-order-o10-n8-n7 
 0
 3
-0 98 2 1
 0 68 -1 0
 0 75 0 1
+0 98 2 1
 1
 end_operator
 begin_operator
 start-order-o10-n9-n8 
 0
 3
-0 98 2 1
 0 75 -1 0
 0 76 0 1
+0 98 2 1
 1
 end_operator
 begin_operator
 start-order-o11-n1-n0 
 0
 3
-0 105 2 1
 0 28 -1 0
 0 62 0 1
+0 105 2 1
 1
 end_operator
 begin_operator
 start-order-o11-n10-n9 
 0
 3
-0 105 2 1
-0 77 0 1
 0 76 -1 0
+0 77 0 1
+0 105 2 1
 1
 end_operator
 begin_operator
 start-order-o11-n11-n10 
 0
 3
-0 105 2 1
 0 77 -1 0
 0 78 0 1
+0 105 2 1
 1
 end_operator
 begin_operator
 start-order-o11-n12-n11 
 0
 3
-0 105 2 1
 0 78 -1 0
 0 79 0 1
+0 105 2 1
 1
 end_operator
 begin_operator
 start-order-o11-n13-n12 
 0
 3
-0 105 2 1
 0 79 -1 0
 0 80 0 1
+0 105 2 1
 1
 end_operator
 begin_operator
 start-order-o11-n14-n13 
 0
 3
-0 105 2 1
 0 80 -1 0
 0 81 0 1
+0 105 2 1
 1
 end_operator
 begin_operator
 start-order-o11-n15-n14 
 0
 3
-0 105 2 1
-0 81 -1 0
 0 29 0 1
+0 81 -1 0
+0 105 2 1
 1
 end_operator
 begin_operator
 start-order-o11-n2-n1 
 0
 3
-0 105 2 1
 0 62 -1 0
 0 63 0 1
+0 105 2 1
 1
 end_operator
 begin_operator
 start-order-o11-n3-n2 
 0
 3
-0 105 2 1
 0 63 -1 0
 0 64 0 1
+0 105 2 1
 1
 end_operator
 begin_operator
 start-order-o11-n4-n3 
 0
 3
-0 105 2 1
 0 64 -1 0
 0 65 0 1
+0 105 2 1
 1
 end_operator
 begin_operator
 start-order-o11-n5-n4 
 0
 3
-0 105 2 1
 0 65 -1 0
 0 66 0 1
+0 105 2 1
 1
 end_operator
 begin_operator
 start-order-o11-n6-n5 
 0
 3
-0 105 2 1
 0 66 -1 0
 0 67 0 1
+0 105 2 1
 1
 end_operator
 begin_operator
 start-order-o11-n7-n6 
 0
 3
-0 105 2 1
 0 67 -1 0
 0 68 0 1
+0 105 2 1
 1
 end_operator
 begin_operator
 start-order-o11-n8-n7 
 0
 3
-0 105 2 1
 0 68 -1 0
 0 75 0 1
+0 105 2 1
 1
 end_operator
 begin_operator
 start-order-o11-n9-n8 
 0
 3
-0 105 2 1
 0 75 -1 0
 0 76 0 1
+0 105 2 1
 1
 end_operator
 begin_operator
 start-order-o12-n1-n0 
 0
 3
-0 106 2 1
 0 28 -1 0
 0 62 0 1
+0 106 2 1
 1
 end_operator
 begin_operator
 start-order-o12-n10-n9 
 0
 3
-0 106 2 1
-0 77 0 1
 0 76 -1 0
+0 77 0 1
+0 106 2 1
 1
 end_operator
 begin_operator
 start-order-o12-n11-n10 
 0
 3
-0 106 2 1
 0 77 -1 0
 0 78 0 1
+0 106 2 1
 1
 end_operator
 begin_operator
 start-order-o12-n12-n11 
 0
 3
-0 106 2 1
 0 78 -1 0
 0 79 0 1
+0 106 2 1
 1
 end_operator
 begin_operator
 start-order-o12-n13-n12 
 0
 3
-0 106 2 1
 0 79 -1 0
 0 80 0 1
+0 106 2 1
 1
 end_operator
 begin_operator
 start-order-o12-n14-n13 
 0
 3
-0 106 2 1
 0 80 -1 0
 0 81 0 1
+0 106 2 1
 1
 end_operator
 begin_operator
 start-order-o12-n15-n14 
 0
 3
-0 106 2 1
-0 81 -1 0
 0 29 0 1
+0 81 -1 0
+0 106 2 1
 1
 end_operator
 begin_operator
 start-order-o12-n2-n1 
 0
 3
-0 106 2 1
 0 62 -1 0
 0 63 0 1
+0 106 2 1
 1
 end_operator
 begin_operator
 start-order-o12-n3-n2 
 0
 3
-0 106 2 1
 0 63 -1 0
 0 64 0 1
+0 106 2 1
 1
 end_operator
 begin_operator
 start-order-o12-n4-n3 
 0
 3
-0 106 2 1
 0 64 -1 0
 0 65 0 1
+0 106 2 1
 1
 end_operator
 begin_operator
 start-order-o12-n5-n4 
 0
 3
-0 106 2 1
 0 65 -1 0
 0 66 0 1
+0 106 2 1
 1
 end_operator
 begin_operator
 start-order-o12-n6-n5 
 0
 3
-0 106 2 1
 0 66 -1 0
 0 67 0 1
+0 106 2 1
 1
 end_operator
 begin_operator
 start-order-o12-n7-n6 
 0
 3
-0 106 2 1
 0 67 -1 0
 0 68 0 1
+0 106 2 1
 1
 end_operator
 begin_operator
 start-order-o12-n8-n7 
 0
 3
-0 106 2 1
 0 68 -1 0
 0 75 0 1
+0 106 2 1
 1
 end_operator
 begin_operator
 start-order-o12-n9-n8 
 0
 3
-0 106 2 1
 0 75 -1 0
 0 76 0 1
+0 106 2 1
 1
 end_operator
 begin_operator
 start-order-o13-n1-n0 
 0
 3
-0 99 2 1
 0 28 -1 0
 0 62 0 1
+0 99 2 1
 1
 end_operator
 begin_operator
 start-order-o13-n10-n9 
 0
 3
-0 99 2 1
-0 77 0 1
 0 76 -1 0
+0 77 0 1
+0 99 2 1
 1
 end_operator
 begin_operator
 start-order-o13-n11-n10 
 0
 3
-0 99 2 1
 0 77 -1 0
 0 78 0 1
+0 99 2 1
 1
 end_operator
 begin_operator
 start-order-o13-n12-n11 
 0
 3
-0 99 2 1
 0 78 -1 0
 0 79 0 1
+0 99 2 1
 1
 end_operator
 begin_operator
 start-order-o13-n13-n12 
 0
 3
-0 99 2 1
 0 79 -1 0
 0 80 0 1
+0 99 2 1
 1
 end_operator
 begin_operator
 start-order-o13-n14-n13 
 0
 3
-0 99 2 1
 0 80 -1 0
 0 81 0 1
+0 99 2 1
 1
 end_operator
 begin_operator
 start-order-o13-n15-n14 
 0
 3
-0 99 2 1
-0 81 -1 0
 0 29 0 1
+0 81 -1 0
+0 99 2 1
 1
 end_operator
 begin_operator
 start-order-o13-n2-n1 
 0
 3
-0 99 2 1
 0 62 -1 0
 0 63 0 1
+0 99 2 1
 1
 end_operator
 begin_operator
 start-order-o13-n3-n2 
 0
 3
-0 99 2 1
 0 63 -1 0
 0 64 0 1
+0 99 2 1
 1
 end_operator
 begin_operator
 start-order-o13-n4-n3 
 0
 3
-0 99 2 1
 0 64 -1 0
 0 65 0 1
+0 99 2 1
 1
 end_operator
 begin_operator
 start-order-o13-n5-n4 
 0
 3
-0 99 2 1
 0 65 -1 0
 0 66 0 1
+0 99 2 1
 1
 end_operator
 begin_operator
 start-order-o13-n6-n5 
 0
 3
-0 99 2 1
 0 66 -1 0
 0 67 0 1
+0 99 2 1
 1
 end_operator
 begin_operator
 start-order-o13-n7-n6 
 0
 3
-0 99 2 1
 0 67 -1 0
 0 68 0 1
+0 99 2 1
 1
 end_operator
 begin_operator
 start-order-o13-n8-n7 
 0
 3
-0 99 2 1
 0 68 -1 0
 0 75 0 1
+0 99 2 1
 1
 end_operator
 begin_operator
 start-order-o13-n9-n8 
 0
 3
-0 99 2 1
 0 75 -1 0
 0 76 0 1
+0 99 2 1
 1
 end_operator
 begin_operator
 start-order-o14-n1-n0 
 0
 3
-0 97 2 1
 0 28 -1 0
 0 62 0 1
+0 97 2 1
 1
 end_operator
 begin_operator
 start-order-o14-n10-n9 
 0
 3
-0 97 2 1
-0 77 0 1
 0 76 -1 0
+0 77 0 1
+0 97 2 1
 1
 end_operator
 begin_operator
 start-order-o14-n11-n10 
 0
 3
-0 97 2 1
 0 77 -1 0
 0 78 0 1
+0 97 2 1
 1
 end_operator
 begin_operator
 start-order-o14-n12-n11 
 0
 3
-0 97 2 1
 0 78 -1 0
 0 79 0 1
+0 97 2 1
 1
 end_operator
 begin_operator
 start-order-o14-n13-n12 
 0
 3
-0 97 2 1
 0 79 -1 0
 0 80 0 1
+0 97 2 1
 1
 end_operator
 begin_operator
 start-order-o14-n14-n13 
 0
 3
-0 97 2 1
 0 80 -1 0
 0 81 0 1
+0 97 2 1
 1
 end_operator
 begin_operator
 start-order-o14-n15-n14 
 0
 3
-0 97 2 1
-0 81 -1 0
 0 29 0 1
+0 81 -1 0
+0 97 2 1
 1
 end_operator
 begin_operator
 start-order-o14-n2-n1 
 0
 3
-0 97 2 1
 0 62 -1 0
 0 63 0 1
+0 97 2 1
 1
 end_operator
 begin_operator
 start-order-o14-n3-n2 
 0
 3
-0 97 2 1
 0 63 -1 0
 0 64 0 1
+0 97 2 1
 1
 end_operator
 begin_operator
 start-order-o14-n4-n3 
 0
 3
-0 97 2 1
 0 64 -1 0
 0 65 0 1
+0 97 2 1
 1
 end_operator
 begin_operator
 start-order-o14-n5-n4 
 0
 3
-0 97 2 1
 0 65 -1 0
 0 66 0 1
+0 97 2 1
 1
 end_operator
 begin_operator
 start-order-o14-n6-n5 
 0
 3
-0 97 2 1
 0 66 -1 0
 0 67 0 1
+0 97 2 1
 1
 end_operator
 begin_operator
 start-order-o14-n7-n6 
 0
 3
-0 97 2 1
 0 67 -1 0
 0 68 0 1
+0 97 2 1
 1
 end_operator
 begin_operator
 start-order-o14-n8-n7 
 0
 3
-0 97 2 1
 0 68 -1 0
 0 75 0 1
+0 97 2 1
 1
 end_operator
 begin_operator
 start-order-o14-n9-n8 
 0
 3
-0 97 2 1
 0 75 -1 0
 0 76 0 1
+0 97 2 1
 1
 end_operator
 begin_operator
 start-order-o15-n1-n0 
 0
 3
-0 92 2 1
 0 28 -1 0
 0 62 0 1
+0 92 2 1
 1
 end_operator
 begin_operator
 start-order-o15-n10-n9 
 0
 3
-0 92 2 1
-0 77 0 1
 0 76 -1 0
+0 77 0 1
+0 92 2 1
 1
 end_operator
 begin_operator
 start-order-o15-n11-n10 
 0
 3
-0 92 2 1
 0 77 -1 0
 0 78 0 1
+0 92 2 1
 1
 end_operator
 begin_operator
 start-order-o15-n12-n11 
 0
 3
-0 92 2 1
 0 78 -1 0
 0 79 0 1
+0 92 2 1
 1
 end_operator
 begin_operator
 start-order-o15-n13-n12 
 0
 3
-0 92 2 1
 0 79 -1 0
 0 80 0 1
+0 92 2 1
 1
 end_operator
 begin_operator
 start-order-o15-n14-n13 
 0
 3
-0 92 2 1
 0 80 -1 0
 0 81 0 1
+0 92 2 1
 1
 end_operator
 begin_operator
 start-order-o15-n15-n14 
 0
 3
-0 92 2 1
-0 81 -1 0
 0 29 0 1
+0 81 -1 0
+0 92 2 1
 1
 end_operator
 begin_operator
 start-order-o15-n2-n1 
 0
 3
-0 92 2 1
 0 62 -1 0
 0 63 0 1
+0 92 2 1
 1
 end_operator
 begin_operator
 start-order-o15-n3-n2 
 0
 3
-0 92 2 1
 0 63 -1 0
 0 64 0 1
+0 92 2 1
 1
 end_operator
 begin_operator
 start-order-o15-n4-n3 
 0
 3
-0 92 2 1
 0 64 -1 0
 0 65 0 1
+0 92 2 1
 1
 end_operator
 begin_operator
 start-order-o15-n5-n4 
 0
 3
-0 92 2 1
 0 65 -1 0
 0 66 0 1
+0 92 2 1
 1
 end_operator
 begin_operator
 start-order-o15-n6-n5 
 0
 3
-0 92 2 1
 0 66 -1 0
 0 67 0 1
+0 92 2 1
 1
 end_operator
 begin_operator
 start-order-o15-n7-n6 
 0
 3
-0 92 2 1
 0 67 -1 0
 0 68 0 1
+0 92 2 1
 1
 end_operator
 begin_operator
 start-order-o15-n8-n7 
 0
 3
-0 92 2 1
 0 68 -1 0
 0 75 0 1
+0 92 2 1
 1
 end_operator
 begin_operator
 start-order-o15-n9-n8 
 0
 3
-0 92 2 1
 0 75 -1 0
 0 76 0 1
+0 92 2 1
 1
 end_operator
 begin_operator
 start-order-o2-n1-n0 
 0
 3
-0 93 2 1
 0 28 -1 0
 0 62 0 1
+0 93 2 1
 1
 end_operator
 begin_operator
 start-order-o2-n10-n9 
 0
 3
-0 93 2 1
-0 77 0 1
 0 76 -1 0
+0 77 0 1
+0 93 2 1
 1
 end_operator
 begin_operator
 start-order-o2-n11-n10 
 0
 3
-0 93 2 1
 0 77 -1 0
 0 78 0 1
+0 93 2 1
 1
 end_operator
 begin_operator
 start-order-o2-n12-n11 
 0
 3
-0 93 2 1
 0 78 -1 0
 0 79 0 1
+0 93 2 1
 1
 end_operator
 begin_operator
 start-order-o2-n13-n12 
 0
 3
-0 93 2 1
 0 79 -1 0
 0 80 0 1
+0 93 2 1
 1
 end_operator
 begin_operator
 start-order-o2-n14-n13 
 0
 3
-0 93 2 1
 0 80 -1 0
 0 81 0 1
+0 93 2 1
 1
 end_operator
 begin_operator
 start-order-o2-n15-n14 
 0
 3
-0 93 2 1
-0 81 -1 0
 0 29 0 1
+0 81 -1 0
+0 93 2 1
 1
 end_operator
 begin_operator
 start-order-o2-n2-n1 
 0
 3
-0 93 2 1
 0 62 -1 0
 0 63 0 1
+0 93 2 1
 1
 end_operator
 begin_operator
 start-order-o2-n3-n2 
 0
 3
-0 93 2 1
 0 63 -1 0
 0 64 0 1
+0 93 2 1
 1
 end_operator
 begin_operator
 start-order-o2-n4-n3 
 0
 3
-0 93 2 1
 0 64 -1 0
 0 65 0 1
+0 93 2 1
 1
 end_operator
 begin_operator
 start-order-o2-n5-n4 
 0
 3
-0 93 2 1
 0 65 -1 0
 0 66 0 1
+0 93 2 1
 1
 end_operator
 begin_operator
 start-order-o2-n6-n5 
 0
 3
-0 93 2 1
 0 66 -1 0
 0 67 0 1
+0 93 2 1
 1
 end_operator
 begin_operator
 start-order-o2-n7-n6 
 0
 3
-0 93 2 1
 0 67 -1 0
 0 68 0 1
+0 93 2 1
 1
 end_operator
 begin_operator
 start-order-o2-n8-n7 
 0
 3
-0 93 2 1
 0 68 -1 0
 0 75 0 1
+0 93 2 1
 1
 end_operator
 begin_operator
 start-order-o2-n9-n8 
 0
 3
-0 93 2 1
 0 75 -1 0
 0 76 0 1
+0 93 2 1
 1
 end_operator
 begin_operator
 start-order-o3-n1-n0 
 0
 3
-0 94 2 1
 0 28 -1 0
 0 62 0 1
+0 94 2 1
 1
 end_operator
 begin_operator
 start-order-o3-n10-n9 
 0
 3
-0 94 2 1
-0 77 0 1
 0 76 -1 0
+0 77 0 1
+0 94 2 1
 1
 end_operator
 begin_operator
 start-order-o3-n11-n10 
 0
 3
-0 94 2 1
 0 77 -1 0
 0 78 0 1
+0 94 2 1
 1
 end_operator
 begin_operator
 start-order-o3-n12-n11 
 0
 3
-0 94 2 1
 0 78 -1 0
 0 79 0 1
+0 94 2 1
 1
 end_operator
 begin_operator
 start-order-o3-n13-n12 
 0
 3
-0 94 2 1
 0 79 -1 0
 0 80 0 1
+0 94 2 1
 1
 end_operator
 begin_operator
 start-order-o3-n14-n13 
 0
 3
-0 94 2 1
 0 80 -1 0
 0 81 0 1
+0 94 2 1
 1
 end_operator
 begin_operator
 start-order-o3-n15-n14 
 0
 3
-0 94 2 1
-0 81 -1 0
 0 29 0 1
+0 81 -1 0
+0 94 2 1
 1
 end_operator
 begin_operator
 start-order-o3-n2-n1 
 0
 3
-0 94 2 1
 0 62 -1 0
 0 63 0 1
+0 94 2 1
 1
 end_operator
 begin_operator
 start-order-o3-n3-n2 
 0
 3
-0 94 2 1
 0 63 -1 0
 0 64 0 1
+0 94 2 1
 1
 end_operator
 begin_operator
 start-order-o3-n4-n3 
 0
 3
-0 94 2 1
 0 64 -1 0
 0 65 0 1
+0 94 2 1
 1
 end_operator
 begin_operator
 start-order-o3-n5-n4 
 0
 3
-0 94 2 1
 0 65 -1 0
 0 66 0 1
+0 94 2 1
 1
 end_operator
 begin_operator
 start-order-o3-n6-n5 
 0
 3
-0 94 2 1
 0 66 -1 0
 0 67 0 1
+0 94 2 1
 1
 end_operator
 begin_operator
 start-order-o3-n7-n6 
 0
 3
-0 94 2 1
 0 67 -1 0
 0 68 0 1
+0 94 2 1
 1
 end_operator
 begin_operator
 start-order-o3-n8-n7 
 0
 3
-0 94 2 1
 0 68 -1 0
 0 75 0 1
+0 94 2 1
 1
 end_operator
 begin_operator
 start-order-o3-n9-n8 
 0
 3
-0 94 2 1
 0 75 -1 0
 0 76 0 1
+0 94 2 1
 1
 end_operator
 begin_operator
 start-order-o4-n1-n0 
 0
 3
-0 100 2 1
 0 28 -1 0
 0 62 0 1
+0 100 2 1
 1
 end_operator
 begin_operator
 start-order-o4-n10-n9 
 0
 3
-0 100 2 1
-0 77 0 1
 0 76 -1 0
+0 77 0 1
+0 100 2 1
 1
 end_operator
 begin_operator
 start-order-o4-n11-n10 
 0
 3
-0 100 2 1
 0 77 -1 0
 0 78 0 1
+0 100 2 1
 1
 end_operator
 begin_operator
 start-order-o4-n12-n11 
 0
 3
-0 100 2 1
 0 78 -1 0
 0 79 0 1
+0 100 2 1
 1
 end_operator
 begin_operator
 start-order-o4-n13-n12 
 0
 3
-0 100 2 1
 0 79 -1 0
 0 80 0 1
+0 100 2 1
 1
 end_operator
 begin_operator
 start-order-o4-n14-n13 
 0
 3
-0 100 2 1
 0 80 -1 0
 0 81 0 1
+0 100 2 1
 1
 end_operator
 begin_operator
 start-order-o4-n15-n14 
 0
 3
-0 100 2 1
-0 81 -1 0
 0 29 0 1
+0 81 -1 0
+0 100 2 1
 1
 end_operator
 begin_operator
 start-order-o4-n2-n1 
 0
 3
-0 100 2 1
 0 62 -1 0
 0 63 0 1
+0 100 2 1
 1
 end_operator
 begin_operator
 start-order-o4-n3-n2 
 0
 3
-0 100 2 1
 0 63 -1 0
 0 64 0 1
+0 100 2 1
 1
 end_operator
 begin_operator
 start-order-o4-n4-n3 
 0
 3
-0 100 2 1
 0 64 -1 0
 0 65 0 1
+0 100 2 1
 1
 end_operator
 begin_operator
 start-order-o4-n5-n4 
 0
 3
-0 100 2 1
 0 65 -1 0
 0 66 0 1
+0 100 2 1
 1
 end_operator
 begin_operator
 start-order-o4-n6-n5 
 0
 3
-0 100 2 1
 0 66 -1 0
 0 67 0 1
+0 100 2 1
 1
 end_operator
 begin_operator
 start-order-o4-n7-n6 
 0
 3
-0 100 2 1
 0 67 -1 0
 0 68 0 1
+0 100 2 1
 1
 end_operator
 begin_operator
 start-order-o4-n8-n7 
 0
 3
-0 100 2 1
 0 68 -1 0
 0 75 0 1
+0 100 2 1
 1
 end_operator
 begin_operator
 start-order-o4-n9-n8 
 0
 3
-0 100 2 1
 0 75 -1 0
 0 76 0 1
+0 100 2 1
 1
 end_operator
 begin_operator
 start-order-o5-n1-n0 
 0
 3
-0 102 2 1
 0 28 -1 0
 0 62 0 1
+0 102 2 1
 1
 end_operator
 begin_operator
 start-order-o5-n10-n9 
 0
 3
-0 102 2 1
-0 77 0 1
 0 76 -1 0
+0 77 0 1
+0 102 2 1
 1
 end_operator
 begin_operator
 start-order-o5-n11-n10 
 0
 3
-0 102 2 1
 0 77 -1 0
 0 78 0 1
+0 102 2 1
 1
 end_operator
 begin_operator
 start-order-o5-n12-n11 
 0
 3
-0 102 2 1
 0 78 -1 0
 0 79 0 1
+0 102 2 1
 1
 end_operator
 begin_operator
 start-order-o5-n13-n12 
 0
 3
-0 102 2 1
 0 79 -1 0
 0 80 0 1
+0 102 2 1
 1
 end_operator
 begin_operator
 start-order-o5-n14-n13 
 0
 3
-0 102 2 1
 0 80 -1 0
 0 81 0 1
+0 102 2 1
 1
 end_operator
 begin_operator
 start-order-o5-n15-n14 
 0
 3
-0 102 2 1
-0 81 -1 0
 0 29 0 1
+0 81 -1 0
+0 102 2 1
 1
 end_operator
 begin_operator
 start-order-o5-n2-n1 
 0
 3
-0 102 2 1
 0 62 -1 0
 0 63 0 1
+0 102 2 1
 1
 end_operator
 begin_operator
 start-order-o5-n3-n2 
 0
 3
-0 102 2 1
 0 63 -1 0
 0 64 0 1
+0 102 2 1
 1
 end_operator
 begin_operator
 start-order-o5-n4-n3 
 0
 3
-0 102 2 1
 0 64 -1 0
 0 65 0 1
+0 102 2 1
 1
 end_operator
 begin_operator
 start-order-o5-n5-n4 
 0
 3
-0 102 2 1
 0 65 -1 0
 0 66 0 1
+0 102 2 1
 1
 end_operator
 begin_operator
 start-order-o5-n6-n5 
 0
 3
-0 102 2 1
 0 66 -1 0
 0 67 0 1
+0 102 2 1
 1
 end_operator
 begin_operator
 start-order-o5-n7-n6 
 0
 3
-0 102 2 1
 0 67 -1 0
 0 68 0 1
+0 102 2 1
 1
 end_operator
 begin_operator
 start-order-o5-n8-n7 
 0
 3
-0 102 2 1
 0 68 -1 0
 0 75 0 1
+0 102 2 1
 1
 end_operator
 begin_operator
 start-order-o5-n9-n8 
 0
 3
-0 102 2 1
 0 75 -1 0
 0 76 0 1
+0 102 2 1
 1
 end_operator
 begin_operator
 start-order-o6-n1-n0 
 0
 3
-0 101 2 1
 0 28 -1 0
 0 62 0 1
+0 101 2 1
 1
 end_operator
 begin_operator
 start-order-o6-n10-n9 
 0
 3
-0 101 2 1
-0 77 0 1
 0 76 -1 0
+0 77 0 1
+0 101 2 1
 1
 end_operator
 begin_operator
 start-order-o6-n11-n10 
 0
 3
-0 101 2 1
 0 77 -1 0
 0 78 0 1
+0 101 2 1
 1
 end_operator
 begin_operator
 start-order-o6-n12-n11 
 0
 3
-0 101 2 1
 0 78 -1 0
 0 79 0 1
+0 101 2 1
 1
 end_operator
 begin_operator
 start-order-o6-n13-n12 
 0
 3
-0 101 2 1
 0 79 -1 0
 0 80 0 1
+0 101 2 1
 1
 end_operator
 begin_operator
 start-order-o6-n14-n13 
 0
 3
-0 101 2 1
 0 80 -1 0
 0 81 0 1
+0 101 2 1
 1
 end_operator
 begin_operator
 start-order-o6-n15-n14 
 0
 3
-0 101 2 1
-0 81 -1 0
 0 29 0 1
+0 81 -1 0
+0 101 2 1
 1
 end_operator
 begin_operator
 start-order-o6-n2-n1 
 0
 3
-0 101 2 1
 0 62 -1 0
 0 63 0 1
+0 101 2 1
 1
 end_operator
 begin_operator
 start-order-o6-n3-n2 
 0
 3
-0 101 2 1
 0 63 -1 0
 0 64 0 1
+0 101 2 1
 1
 end_operator
 begin_operator
 start-order-o6-n4-n3 
 0
 3
-0 101 2 1
 0 64 -1 0
 0 65 0 1
+0 101 2 1
 1
 end_operator
 begin_operator
 start-order-o6-n5-n4 
 0
 3
-0 101 2 1
 0 65 -1 0
 0 66 0 1
+0 101 2 1
 1
 end_operator
 begin_operator
 start-order-o6-n6-n5 
 0
 3
-0 101 2 1
 0 66 -1 0
 0 67 0 1
+0 101 2 1
 1
 end_operator
 begin_operator
 start-order-o6-n7-n6 
 0
 3
-0 101 2 1
 0 67 -1 0
 0 68 0 1
+0 101 2 1
 1
 end_operator
 begin_operator
 start-order-o6-n8-n7 
 0
 3
-0 101 2 1
 0 68 -1 0
 0 75 0 1
+0 101 2 1
 1
 end_operator
 begin_operator
 start-order-o6-n9-n8 
 0
 3
-0 101 2 1
 0 75 -1 0
 0 76 0 1
+0 101 2 1
 1
 end_operator
 begin_operator
 start-order-o7-n1-n0 
 0
 3
-0 95 2 1
 0 28 -1 0
 0 62 0 1
+0 95 2 1
 1
 end_operator
 begin_operator
 start-order-o7-n10-n9 
 0
 3
-0 95 2 1
-0 77 0 1
 0 76 -1 0
+0 77 0 1
+0 95 2 1
 1
 end_operator
 begin_operator
 start-order-o7-n11-n10 
 0
 3
-0 95 2 1
 0 77 -1 0
 0 78 0 1
+0 95 2 1
 1
 end_operator
 begin_operator
 start-order-o7-n12-n11 
 0
 3
-0 95 2 1
 0 78 -1 0
 0 79 0 1
+0 95 2 1
 1
 end_operator
 begin_operator
 start-order-o7-n13-n12 
 0
 3
-0 95 2 1
 0 79 -1 0
 0 80 0 1
+0 95 2 1
 1
 end_operator
 begin_operator
 start-order-o7-n14-n13 
 0
 3
-0 95 2 1
 0 80 -1 0
 0 81 0 1
+0 95 2 1
 1
 end_operator
 begin_operator
 start-order-o7-n15-n14 
 0
 3
-0 95 2 1
-0 81 -1 0
 0 29 0 1
+0 81 -1 0
+0 95 2 1
 1
 end_operator
 begin_operator
 start-order-o7-n2-n1 
 0
 3
-0 95 2 1
 0 62 -1 0
 0 63 0 1
+0 95 2 1
 1
 end_operator
 begin_operator
 start-order-o7-n3-n2 
 0
 3
-0 95 2 1
 0 63 -1 0
 0 64 0 1
+0 95 2 1
 1
 end_operator
 begin_operator
 start-order-o7-n4-n3 
 0
 3
-0 95 2 1
 0 64 -1 0
 0 65 0 1
+0 95 2 1
 1
 end_operator
 begin_operator
 start-order-o7-n5-n4 
 0
 3
-0 95 2 1
 0 65 -1 0
 0 66 0 1
+0 95 2 1
 1
 end_operator
 begin_operator
 start-order-o7-n6-n5 
 0
 3
-0 95 2 1
 0 66 -1 0
 0 67 0 1
+0 95 2 1
 1
 end_operator
 begin_operator
 start-order-o7-n7-n6 
 0
 3
-0 95 2 1
 0 67 -1 0
 0 68 0 1
+0 95 2 1
 1
 end_operator
 begin_operator
 start-order-o7-n8-n7 
 0
 3
-0 95 2 1
 0 68 -1 0
 0 75 0 1
+0 95 2 1
 1
 end_operator
 begin_operator
 start-order-o7-n9-n8 
 0
 3
-0 95 2 1
 0 75 -1 0
 0 76 0 1
+0 95 2 1
 1
 end_operator
 begin_operator
 start-order-o8-n1-n0 
 0
 3
-0 96 2 1
 0 28 -1 0
 0 62 0 1
+0 96 2 1
 1
 end_operator
 begin_operator
 start-order-o8-n10-n9 
 0
 3
-0 96 2 1
-0 77 0 1
 0 76 -1 0
+0 77 0 1
+0 96 2 1
 1
 end_operator
 begin_operator
 start-order-o8-n11-n10 
 0
 3
-0 96 2 1
 0 77 -1 0
 0 78 0 1
+0 96 2 1
 1
 end_operator
 begin_operator
 start-order-o8-n12-n11 
 0
 3
-0 96 2 1
 0 78 -1 0
 0 79 0 1
+0 96 2 1
 1
 end_operator
 begin_operator
 start-order-o8-n13-n12 
 0
 3
-0 96 2 1
 0 79 -1 0
 0 80 0 1
+0 96 2 1
 1
 end_operator
 begin_operator
 start-order-o8-n14-n13 
 0
 3
-0 96 2 1
 0 80 -1 0
 0 81 0 1
+0 96 2 1
 1
 end_operator
 begin_operator
 start-order-o8-n15-n14 
 0
 3
-0 96 2 1
-0 81 -1 0
 0 29 0 1
+0 81 -1 0
+0 96 2 1
 1
 end_operator
 begin_operator
 start-order-o8-n2-n1 
 0
 3
-0 96 2 1
 0 62 -1 0
 0 63 0 1
+0 96 2 1
 1
 end_operator
 begin_operator
 start-order-o8-n3-n2 
 0
 3
-0 96 2 1
 0 63 -1 0
 0 64 0 1
+0 96 2 1
 1
 end_operator
 begin_operator
 start-order-o8-n4-n3 
 0
 3
-0 96 2 1
 0 64 -1 0
 0 65 0 1
+0 96 2 1
 1
 end_operator
 begin_operator
 start-order-o8-n5-n4 
 0
 3
-0 96 2 1
 0 65 -1 0
 0 66 0 1
+0 96 2 1
 1
 end_operator
 begin_operator
 start-order-o8-n6-n5 
 0
 3
-0 96 2 1
 0 66 -1 0
 0 67 0 1
+0 96 2 1
 1
 end_operator
 begin_operator
 start-order-o8-n7-n6 
 0
 3
-0 96 2 1
 0 67 -1 0
 0 68 0 1
+0 96 2 1
 1
 end_operator
 begin_operator
 start-order-o8-n8-n7 
 0
 3
-0 96 2 1
 0 68 -1 0
 0 75 0 1
+0 96 2 1
 1
 end_operator
 begin_operator
 start-order-o8-n9-n8 
 0
 3
-0 96 2 1
 0 75 -1 0
 0 76 0 1
+0 96 2 1
 1
 end_operator
 begin_operator
 start-order-o9-n1-n0 
 0
 3
-0 104 2 1
 0 28 -1 0
 0 62 0 1
+0 104 2 1
 1
 end_operator
 begin_operator
 start-order-o9-n10-n9 
 0
 3
-0 104 2 1
-0 77 0 1
 0 76 -1 0
+0 77 0 1
+0 104 2 1
 1
 end_operator
 begin_operator
 start-order-o9-n11-n10 
 0
 3
-0 104 2 1
 0 77 -1 0
 0 78 0 1
+0 104 2 1
 1
 end_operator
 begin_operator
 start-order-o9-n12-n11 
 0
 3
-0 104 2 1
 0 78 -1 0
 0 79 0 1
+0 104 2 1
 1
 end_operator
 begin_operator
 start-order-o9-n13-n12 
 0
 3
-0 104 2 1
 0 79 -1 0
 0 80 0 1
+0 104 2 1
 1
 end_operator
 begin_operator
 start-order-o9-n14-n13 
 0
 3
-0 104 2 1
 0 80 -1 0
 0 81 0 1
+0 104 2 1
 1
 end_operator
 begin_operator
 start-order-o9-n15-n14 
 0
 3
-0 104 2 1
-0 81 -1 0
 0 29 0 1
+0 81 -1 0
+0 104 2 1
 1
 end_operator
 begin_operator
 start-order-o9-n2-n1 
 0
 3
-0 104 2 1
 0 62 -1 0
 0 63 0 1
+0 104 2 1
 1
 end_operator
 begin_operator
 start-order-o9-n3-n2 
 0
 3
-0 104 2 1
 0 63 -1 0
 0 64 0 1
+0 104 2 1
 1
 end_operator
 begin_operator
 start-order-o9-n4-n3 
 0
 3
-0 104 2 1
 0 64 -1 0
 0 65 0 1
+0 104 2 1
 1
 end_operator
 begin_operator
 start-order-o9-n5-n4 
 0
 3
-0 104 2 1
 0 65 -1 0
 0 66 0 1
+0 104 2 1
 1
 end_operator
 begin_operator
 start-order-o9-n6-n5 
 0
 3
-0 104 2 1
 0 66 -1 0
 0 67 0 1
+0 104 2 1
 1
 end_operator
 begin_operator
 start-order-o9-n7-n6 
 0
 3
-0 104 2 1
 0 67 -1 0
 0 68 0 1
+0 104 2 1
 1
 end_operator
 begin_operator
 start-order-o9-n8-n7 
 0
 3
-0 104 2 1
 0 68 -1 0
 0 75 0 1
+0 104 2 1
 1
 end_operator
 begin_operator
 start-order-o9-n9-n8 
 0
 3
-0 104 2 1
 0 75 -1 0
 0 76 0 1
+0 104 2 1
 1
 end_operator
 0

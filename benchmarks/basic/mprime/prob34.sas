@@ -755,96 +755,96 @@ begin_operator
 drink lemon lobster quebec surrey alsace alsace surrey
 0
 2
-0 12 1 2
 0 2 0 2
+0 12 1 2
 1
 end_operator
 begin_operator
 drink lemon lobster quebec surrey alsace surrey quebec
 0
 2
-0 12 1 2
 0 2 2 1
+0 12 1 2
 1
 end_operator
 begin_operator
 drink lemon melon quebec surrey alsace alsace surrey
 0
 2
-0 12 1 2
 0 5 0 2
+0 12 1 2
 1
 end_operator
 begin_operator
 drink lemon melon quebec surrey alsace surrey quebec
 0
 2
-0 12 1 2
 0 5 2 1
+0 12 1 2
 1
 end_operator
 begin_operator
 drink lemon muffin quebec surrey alsace alsace surrey
 0
 2
-0 12 1 2
 0 10 0 2
+0 12 1 2
 1
 end_operator
 begin_operator
 drink lemon muffin quebec surrey alsace surrey quebec
 0
 2
-0 12 1 2
 0 10 2 1
+0 12 1 2
 1
 end_operator
 begin_operator
 drink lemon pepper quebec surrey alsace alsace surrey
 0
 2
-0 12 1 2
 0 3 0 2
+0 12 1 2
 1
 end_operator
 begin_operator
 drink lemon pepper quebec surrey alsace surrey quebec
 0
 2
-0 12 1 2
 0 3 2 1
+0 12 1 2
 1
 end_operator
 begin_operator
 drink lemon potato quebec surrey alsace alsace surrey
 0
 2
-0 12 1 2
 0 7 0 2
+0 12 1 2
 1
 end_operator
 begin_operator
 drink lemon potato quebec surrey alsace surrey quebec
 0
 2
-0 12 1 2
 0 7 2 1
+0 12 1 2
 1
 end_operator
 begin_operator
 drink lemon wurst quebec surrey alsace alsace surrey
 0
 2
-0 12 1 2
 0 8 0 2
+0 12 1 2
 1
 end_operator
 begin_operator
 drink lemon wurst quebec surrey alsace surrey quebec
 0
 2
-0 12 1 2
 0 8 2 1
+0 12 1 2
 1
 end_operator
 begin_operator
@@ -867,16 +867,16 @@ begin_operator
 drink lobster lemon quebec surrey alsace alsace surrey
 0
 2
-0 12 0 2
 0 2 1 2
+0 12 0 2
 1
 end_operator
 begin_operator
 drink lobster lemon quebec surrey alsace surrey quebec
 0
 2
-0 12 2 1
 0 2 1 2
+0 12 2 1
 1
 end_operator
 begin_operator
@@ -979,16 +979,16 @@ begin_operator
 drink melon lemon quebec surrey alsace alsace surrey
 0
 2
-0 12 0 2
 0 5 1 2
+0 12 0 2
 1
 end_operator
 begin_operator
 drink melon lemon quebec surrey alsace surrey quebec
 0
 2
-0 12 2 1
 0 5 1 2
+0 12 2 1
 1
 end_operator
 begin_operator
@@ -1027,16 +1027,16 @@ begin_operator
 drink melon pepper quebec surrey alsace alsace surrey
 0
 2
-0 5 1 2
 0 3 0 2
+0 5 1 2
 1
 end_operator
 begin_operator
 drink melon pepper quebec surrey alsace surrey quebec
 0
 2
-0 5 1 2
 0 3 2 1
+0 5 1 2
 1
 end_operator
 begin_operator
@@ -1091,16 +1091,16 @@ begin_operator
 drink muffin lemon quebec surrey alsace alsace surrey
 0
 2
-0 12 0 2
 0 10 1 2
+0 12 0 2
 1
 end_operator
 begin_operator
 drink muffin lemon quebec surrey alsace surrey quebec
 0
 2
-0 12 2 1
 0 10 1 2
+0 12 2 1
 1
 end_operator
 begin_operator
@@ -1139,48 +1139,48 @@ begin_operator
 drink muffin pepper quebec surrey alsace alsace surrey
 0
 2
-0 10 1 2
 0 3 0 2
+0 10 1 2
 1
 end_operator
 begin_operator
 drink muffin pepper quebec surrey alsace surrey quebec
 0
 2
-0 10 1 2
 0 3 2 1
+0 10 1 2
 1
 end_operator
 begin_operator
 drink muffin potato quebec surrey alsace alsace surrey
 0
 2
-0 10 1 2
 0 7 0 2
+0 10 1 2
 1
 end_operator
 begin_operator
 drink muffin potato quebec surrey alsace surrey quebec
 0
 2
-0 10 1 2
 0 7 2 1
+0 10 1 2
 1
 end_operator
 begin_operator
 drink muffin wurst quebec surrey alsace alsace surrey
 0
 2
-0 10 1 2
 0 8 0 2
+0 10 1 2
 1
 end_operator
 begin_operator
 drink muffin wurst quebec surrey alsace surrey quebec
 0
 2
-0 10 1 2
 0 8 2 1
+0 10 1 2
 1
 end_operator
 begin_operator
@@ -1203,16 +1203,16 @@ begin_operator
 drink pepper lemon quebec surrey alsace alsace surrey
 0
 2
-0 12 0 2
 0 3 1 2
+0 12 0 2
 1
 end_operator
 begin_operator
 drink pepper lemon quebec surrey alsace surrey quebec
 0
 2
-0 12 2 1
 0 3 1 2
+0 12 2 1
 1
 end_operator
 begin_operator
@@ -1235,32 +1235,32 @@ begin_operator
 drink pepper melon quebec surrey alsace alsace surrey
 0
 2
-0 5 0 2
 0 3 1 2
+0 5 0 2
 1
 end_operator
 begin_operator
 drink pepper melon quebec surrey alsace surrey quebec
 0
 2
-0 5 2 1
 0 3 1 2
+0 5 2 1
 1
 end_operator
 begin_operator
 drink pepper muffin quebec surrey alsace alsace surrey
 0
 2
-0 10 0 2
 0 3 1 2
+0 10 0 2
 1
 end_operator
 begin_operator
 drink pepper muffin quebec surrey alsace surrey quebec
 0
 2
-0 10 2 1
 0 3 1 2
+0 10 2 1
 1
 end_operator
 begin_operator
@@ -1315,16 +1315,16 @@ begin_operator
 drink potato lemon quebec surrey alsace alsace surrey
 0
 2
-0 12 0 2
 0 7 1 2
+0 12 0 2
 1
 end_operator
 begin_operator
 drink potato lemon quebec surrey alsace surrey quebec
 0
 2
-0 12 2 1
 0 7 1 2
+0 12 2 1
 1
 end_operator
 begin_operator
@@ -1363,16 +1363,16 @@ begin_operator
 drink potato muffin quebec surrey alsace alsace surrey
 0
 2
-0 10 0 2
 0 7 1 2
+0 10 0 2
 1
 end_operator
 begin_operator
 drink potato muffin quebec surrey alsace surrey quebec
 0
 2
-0 10 2 1
 0 7 1 2
+0 10 2 1
 1
 end_operator
 begin_operator
@@ -1427,16 +1427,16 @@ begin_operator
 drink wurst lemon quebec surrey alsace alsace surrey
 0
 2
-0 12 0 2
 0 8 1 2
+0 12 0 2
 1
 end_operator
 begin_operator
 drink wurst lemon quebec surrey alsace surrey quebec
 0
 2
-0 12 2 1
 0 8 1 2
+0 12 2 1
 1
 end_operator
 begin_operator
@@ -1475,16 +1475,16 @@ begin_operator
 drink wurst muffin quebec surrey alsace alsace surrey
 0
 2
-0 10 0 2
 0 8 1 2
+0 10 0 2
 1
 end_operator
 begin_operator
 drink wurst muffin quebec surrey alsace surrey quebec
 0
 2
-0 10 2 1
 0 8 1 2
+0 10 2 1
 1
 end_operator
 begin_operator
@@ -1907,32 +1907,32 @@ begin_operator
 feast intoxication hamburger lemon alsace surrey
 0
 2
-0 4 0 1
 0 1 2 0
+0 4 0 1
 1
 end_operator
 begin_operator
 feast intoxication hamburger lemon surrey quebec
 0
 2
-0 4 0 1
 0 1 1 2
+0 4 0 1
 1
 end_operator
 begin_operator
 feast intoxication hamburger potato alsace surrey
 0
 2
-0 4 0 6
 0 1 2 0
+0 4 0 6
 1
 end_operator
 begin_operator
 feast intoxication hamburger potato surrey quebec
 0
 2
-0 4 0 6
 0 1 1 2
+0 4 0 6
 1
 end_operator
 begin_operator
@@ -2019,32 +2019,32 @@ begin_operator
 feast intoxication lobster lemon alsace surrey
 0
 2
-0 4 2 1
 0 2 2 0
+0 4 2 1
 1
 end_operator
 begin_operator
 feast intoxication lobster lemon surrey quebec
 0
 2
-0 4 2 1
 0 2 1 2
+0 4 2 1
 1
 end_operator
 begin_operator
 feast intoxication lobster melon alsace surrey
 0
 2
-0 4 2 3
 0 2 2 0
+0 4 2 3
 1
 end_operator
 begin_operator
 feast intoxication lobster melon surrey quebec
 0
 2
-0 4 2 3
 0 2 1 2
+0 4 2 3
 1
 end_operator
 begin_operator
@@ -2163,32 +2163,32 @@ begin_operator
 feast intoxication pepper muffin alsace surrey
 0
 2
-0 4 5 4
 0 3 2 0
+0 4 5 4
 1
 end_operator
 begin_operator
 feast intoxication pepper muffin surrey quebec
 0
 2
-0 4 5 4
 0 3 1 2
+0 4 5 4
 1
 end_operator
 begin_operator
 feast intoxication pepper wurst alsace surrey
 0
 2
-0 4 5 7
 0 3 2 0
+0 4 5 7
 1
 end_operator
 begin_operator
 feast intoxication pepper wurst surrey quebec
 0
 2
-0 4 5 7
 0 3 1 2
+0 4 5 7
 1
 end_operator
 begin_operator
@@ -2291,32 +2291,32 @@ begin_operator
 feast learning hamburger lemon alsace surrey
 0
 2
-0 6 0 1
 0 1 2 0
+0 6 0 1
 1
 end_operator
 begin_operator
 feast learning hamburger lemon surrey quebec
 0
 2
-0 6 0 1
 0 1 1 2
+0 6 0 1
 1
 end_operator
 begin_operator
 feast learning hamburger potato alsace surrey
 0
 2
-0 6 0 6
 0 1 2 0
+0 6 0 6
 1
 end_operator
 begin_operator
 feast learning hamburger potato surrey quebec
 0
 2
-0 6 0 6
 0 1 1 2
+0 6 0 6
 1
 end_operator
 begin_operator
@@ -2403,80 +2403,80 @@ begin_operator
 feast learning lobster lemon alsace surrey
 0
 2
-0 6 2 1
 0 2 2 0
+0 6 2 1
 1
 end_operator
 begin_operator
 feast learning lobster lemon surrey quebec
 0
 2
-0 6 2 1
 0 2 1 2
+0 6 2 1
 1
 end_operator
 begin_operator
 feast learning lobster melon alsace surrey
 0
 2
-0 6 2 3
 0 2 2 0
+0 6 2 3
 1
 end_operator
 begin_operator
 feast learning lobster melon surrey quebec
 0
 2
-0 6 2 3
 0 2 1 2
+0 6 2 3
 1
 end_operator
 begin_operator
 feast learning melon lemon alsace surrey
 0
 2
-0 6 3 1
 0 5 2 0
+0 6 3 1
 1
 end_operator
 begin_operator
 feast learning melon lemon surrey quebec
 0
 2
-0 6 3 1
 0 5 1 2
+0 6 3 1
 1
 end_operator
 begin_operator
 feast learning melon lobster alsace surrey
 0
 2
-0 6 3 2
 0 5 2 0
+0 6 3 2
 1
 end_operator
 begin_operator
 feast learning melon lobster surrey quebec
 0
 2
-0 6 3 2
 0 5 1 2
+0 6 3 2
 1
 end_operator
 begin_operator
 feast learning melon muffin alsace surrey
 0
 2
-0 6 3 4
 0 5 2 0
+0 6 3 4
 1
 end_operator
 begin_operator
 feast learning melon muffin surrey quebec
 0
 2
-0 6 3 4
 0 5 1 2
+0 6 3 4
 1
 end_operator
 begin_operator
@@ -2547,32 +2547,32 @@ begin_operator
 feast learning pepper muffin alsace surrey
 0
 2
-0 6 5 4
 0 3 2 0
+0 6 5 4
 1
 end_operator
 begin_operator
 feast learning pepper muffin surrey quebec
 0
 2
-0 6 5 4
 0 3 1 2
+0 6 5 4
 1
 end_operator
 begin_operator
 feast learning pepper wurst alsace surrey
 0
 2
-0 6 5 7
 0 3 2 0
+0 6 5 7
 1
 end_operator
 begin_operator
 feast learning pepper wurst surrey quebec
 0
 2
-0 6 5 7
 0 3 1 2
+0 6 5 7
 1
 end_operator
 begin_operator
@@ -2675,32 +2675,32 @@ begin_operator
 feast rest hamburger lemon alsace surrey
 0
 2
-0 9 0 1
 0 1 2 0
+0 9 0 1
 1
 end_operator
 begin_operator
 feast rest hamburger lemon surrey quebec
 0
 2
-0 9 0 1
 0 1 1 2
+0 9 0 1
 1
 end_operator
 begin_operator
 feast rest hamburger potato alsace surrey
 0
 2
-0 9 0 6
 0 1 2 0
+0 9 0 6
 1
 end_operator
 begin_operator
 feast rest hamburger potato surrey quebec
 0
 2
-0 9 0 6
 0 1 1 2
+0 9 0 6
 1
 end_operator
 begin_operator
@@ -2787,80 +2787,80 @@ begin_operator
 feast rest lobster lemon alsace surrey
 0
 2
-0 9 2 1
 0 2 2 0
+0 9 2 1
 1
 end_operator
 begin_operator
 feast rest lobster lemon surrey quebec
 0
 2
-0 9 2 1
 0 2 1 2
+0 9 2 1
 1
 end_operator
 begin_operator
 feast rest lobster melon alsace surrey
 0
 2
-0 9 2 3
 0 2 2 0
+0 9 2 3
 1
 end_operator
 begin_operator
 feast rest lobster melon surrey quebec
 0
 2
-0 9 2 3
 0 2 1 2
+0 9 2 3
 1
 end_operator
 begin_operator
 feast rest melon lemon alsace surrey
 0
 2
-0 9 3 1
 0 5 2 0
+0 9 3 1
 1
 end_operator
 begin_operator
 feast rest melon lemon surrey quebec
 0
 2
-0 9 3 1
 0 5 1 2
+0 9 3 1
 1
 end_operator
 begin_operator
 feast rest melon lobster alsace surrey
 0
 2
-0 9 3 2
 0 5 2 0
+0 9 3 2
 1
 end_operator
 begin_operator
 feast rest melon lobster surrey quebec
 0
 2
-0 9 3 2
 0 5 1 2
+0 9 3 2
 1
 end_operator
 begin_operator
 feast rest melon muffin alsace surrey
 0
 2
-0 9 3 4
 0 5 2 0
+0 9 3 4
 1
 end_operator
 begin_operator
 feast rest melon muffin surrey quebec
 0
 2
-0 9 3 4
 0 5 1 2
+0 9 3 4
 1
 end_operator
 begin_operator
@@ -2931,160 +2931,160 @@ begin_operator
 feast rest pepper muffin alsace surrey
 0
 2
-0 9 5 4
 0 3 2 0
+0 9 5 4
 1
 end_operator
 begin_operator
 feast rest pepper muffin surrey quebec
 0
 2
-0 9 5 4
 0 3 1 2
+0 9 5 4
 1
 end_operator
 begin_operator
 feast rest pepper wurst alsace surrey
 0
 2
-0 9 5 7
 0 3 2 0
+0 9 5 7
 1
 end_operator
 begin_operator
 feast rest pepper wurst surrey quebec
 0
 2
-0 9 5 7
 0 3 1 2
+0 9 5 7
 1
 end_operator
 begin_operator
 feast rest potato hamburger alsace surrey
 0
 2
-0 9 6 0
 0 7 2 0
+0 9 6 0
 1
 end_operator
 begin_operator
 feast rest potato hamburger surrey quebec
 0
 2
-0 9 6 0
 0 7 1 2
+0 9 6 0
 1
 end_operator
 begin_operator
 feast rest potato muffin alsace surrey
 0
 2
-0 9 6 4
 0 7 2 0
+0 9 6 4
 1
 end_operator
 begin_operator
 feast rest potato muffin surrey quebec
 0
 2
-0 9 6 4
 0 7 1 2
+0 9 6 4
 1
 end_operator
 begin_operator
 feast rest potato wurst alsace surrey
 0
 2
-0 9 6 7
 0 7 2 0
+0 9 6 7
 1
 end_operator
 begin_operator
 feast rest potato wurst surrey quebec
 0
 2
-0 9 6 7
 0 7 1 2
+0 9 6 7
 1
 end_operator
 begin_operator
 feast rest wurst lemon alsace surrey
 0
 2
-0 9 7 1
 0 8 2 0
+0 9 7 1
 1
 end_operator
 begin_operator
 feast rest wurst lemon surrey quebec
 0
 2
-0 9 7 1
 0 8 1 2
+0 9 7 1
 1
 end_operator
 begin_operator
 feast rest wurst pepper alsace surrey
 0
 2
-0 9 7 5
 0 8 2 0
+0 9 7 5
 1
 end_operator
 begin_operator
 feast rest wurst pepper surrey quebec
 0
 2
-0 9 7 5
 0 8 1 2
+0 9 7 5
 1
 end_operator
 begin_operator
 feast rest wurst potato alsace surrey
 0
 2
-0 9 7 6
 0 8 2 0
+0 9 7 6
 1
 end_operator
 begin_operator
 feast rest wurst potato surrey quebec
 0
 2
-0 9 7 6
 0 8 1 2
+0 9 7 6
 1
 end_operator
 begin_operator
 feast satiety hamburger lemon alsace surrey
 0
 2
-0 11 0 1
 0 1 2 0
+0 11 0 1
 1
 end_operator
 begin_operator
 feast satiety hamburger lemon surrey quebec
 0
 2
-0 11 0 1
 0 1 1 2
+0 11 0 1
 1
 end_operator
 begin_operator
 feast satiety hamburger potato alsace surrey
 0
 2
-0 11 0 6
 0 1 2 0
+0 11 0 6
 1
 end_operator
 begin_operator
 feast satiety hamburger potato surrey quebec
 0
 2
-0 11 0 6
 0 1 1 2
+0 11 0 6
 1
 end_operator
 begin_operator
@@ -3171,272 +3171,272 @@ begin_operator
 feast satiety lobster lemon alsace surrey
 0
 2
-0 11 2 1
 0 2 2 0
+0 11 2 1
 1
 end_operator
 begin_operator
 feast satiety lobster lemon surrey quebec
 0
 2
-0 11 2 1
 0 2 1 2
+0 11 2 1
 1
 end_operator
 begin_operator
 feast satiety lobster melon alsace surrey
 0
 2
-0 11 2 3
 0 2 2 0
+0 11 2 3
 1
 end_operator
 begin_operator
 feast satiety lobster melon surrey quebec
 0
 2
-0 11 2 3
 0 2 1 2
+0 11 2 3
 1
 end_operator
 begin_operator
 feast satiety melon lemon alsace surrey
 0
 2
-0 11 3 1
 0 5 2 0
+0 11 3 1
 1
 end_operator
 begin_operator
 feast satiety melon lemon surrey quebec
 0
 2
-0 11 3 1
 0 5 1 2
+0 11 3 1
 1
 end_operator
 begin_operator
 feast satiety melon lobster alsace surrey
 0
 2
-0 11 3 2
 0 5 2 0
+0 11 3 2
 1
 end_operator
 begin_operator
 feast satiety melon lobster surrey quebec
 0
 2
-0 11 3 2
 0 5 1 2
+0 11 3 2
 1
 end_operator
 begin_operator
 feast satiety melon muffin alsace surrey
 0
 2
-0 11 3 4
 0 5 2 0
+0 11 3 4
 1
 end_operator
 begin_operator
 feast satiety melon muffin surrey quebec
 0
 2
-0 11 3 4
 0 5 1 2
+0 11 3 4
 1
 end_operator
 begin_operator
 feast satiety muffin lemon alsace surrey
 0
 2
-0 11 4 1
 0 10 2 0
+0 11 4 1
 1
 end_operator
 begin_operator
 feast satiety muffin lemon surrey quebec
 0
 2
-0 11 4 1
 0 10 1 2
+0 11 4 1
 1
 end_operator
 begin_operator
 feast satiety muffin melon alsace surrey
 0
 2
-0 11 4 3
 0 10 2 0
+0 11 4 3
 1
 end_operator
 begin_operator
 feast satiety muffin melon surrey quebec
 0
 2
-0 11 4 3
 0 10 1 2
+0 11 4 3
 1
 end_operator
 begin_operator
 feast satiety muffin pepper alsace surrey
 0
 2
-0 11 4 5
 0 10 2 0
+0 11 4 5
 1
 end_operator
 begin_operator
 feast satiety muffin pepper surrey quebec
 0
 2
-0 11 4 5
 0 10 1 2
+0 11 4 5
 1
 end_operator
 begin_operator
 feast satiety muffin potato alsace surrey
 0
 2
-0 11 4 6
 0 10 2 0
+0 11 4 6
 1
 end_operator
 begin_operator
 feast satiety muffin potato surrey quebec
 0
 2
-0 11 4 6
 0 10 1 2
+0 11 4 6
 1
 end_operator
 begin_operator
 feast satiety pepper muffin alsace surrey
 0
 2
-0 11 5 4
 0 3 2 0
+0 11 5 4
 1
 end_operator
 begin_operator
 feast satiety pepper muffin surrey quebec
 0
 2
-0 11 5 4
 0 3 1 2
+0 11 5 4
 1
 end_operator
 begin_operator
 feast satiety pepper wurst alsace surrey
 0
 2
-0 11 5 7
 0 3 2 0
+0 11 5 7
 1
 end_operator
 begin_operator
 feast satiety pepper wurst surrey quebec
 0
 2
-0 11 5 7
 0 3 1 2
+0 11 5 7
 1
 end_operator
 begin_operator
 feast satiety potato hamburger alsace surrey
 0
 2
-0 11 6 0
 0 7 2 0
+0 11 6 0
 1
 end_operator
 begin_operator
 feast satiety potato hamburger surrey quebec
 0
 2
-0 11 6 0
 0 7 1 2
+0 11 6 0
 1
 end_operator
 begin_operator
 feast satiety potato muffin alsace surrey
 0
 2
-0 11 6 4
 0 7 2 0
+0 11 6 4
 1
 end_operator
 begin_operator
 feast satiety potato muffin surrey quebec
 0
 2
-0 11 6 4
 0 7 1 2
+0 11 6 4
 1
 end_operator
 begin_operator
 feast satiety potato wurst alsace surrey
 0
 2
-0 11 6 7
 0 7 2 0
+0 11 6 7
 1
 end_operator
 begin_operator
 feast satiety potato wurst surrey quebec
 0
 2
-0 11 6 7
 0 7 1 2
+0 11 6 7
 1
 end_operator
 begin_operator
 feast satiety wurst lemon alsace surrey
 0
 2
-0 11 7 1
 0 8 2 0
+0 11 7 1
 1
 end_operator
 begin_operator
 feast satiety wurst lemon surrey quebec
 0
 2
-0 11 7 1
 0 8 1 2
+0 11 7 1
 1
 end_operator
 begin_operator
 feast satiety wurst pepper alsace surrey
 0
 2
-0 11 7 5
 0 8 2 0
+0 11 7 5
 1
 end_operator
 begin_operator
 feast satiety wurst pepper surrey quebec
 0
 2
-0 11 7 5
 0 8 1 2
+0 11 7 5
 1
 end_operator
 begin_operator
 feast satiety wurst potato alsace surrey
 0
 2
-0 11 7 6
 0 8 2 0
+0 11 7 6
 1
 end_operator
 begin_operator
 feast satiety wurst potato surrey quebec
 0
 2
-0 11 7 6
 0 8 1 2
+0 11 7 6
 1
 end_operator
 begin_operator
@@ -6684,8 +6684,8 @@ overcome angina excitement hamburger earth mars
 1
 0 0
 2
-0 39 0 8
 0 31 1 0
+0 39 0 8
 1
 end_operator
 begin_operator
@@ -6693,8 +6693,8 @@ overcome angina excitement hamburger mars saturn
 1
 0 0
 2
-0 39 0 8
 0 31 2 1
+0 39 0 8
 1
 end_operator
 begin_operator
@@ -6702,8 +6702,8 @@ overcome angina excitement hamburger uranus earth
 1
 0 0
 2
-0 39 0 8
 0 31 0 3
+0 39 0 8
 1
 end_operator
 begin_operator
@@ -6711,8 +6711,8 @@ overcome angina excitement lemon earth mars
 1
 0 1
 2
-0 39 1 8
 0 31 1 0
+0 39 1 8
 1
 end_operator
 begin_operator
@@ -6720,8 +6720,8 @@ overcome angina excitement lemon mars saturn
 1
 0 1
 2
-0 39 1 8
 0 31 2 1
+0 39 1 8
 1
 end_operator
 begin_operator
@@ -6729,8 +6729,8 @@ overcome angina excitement lemon uranus earth
 1
 0 1
 2
-0 39 1 8
 0 31 0 3
+0 39 1 8
 1
 end_operator
 begin_operator
@@ -6738,8 +6738,8 @@ overcome angina excitement lobster earth mars
 1
 0 2
 2
-0 39 2 8
 0 31 1 0
+0 39 2 8
 1
 end_operator
 begin_operator
@@ -6747,8 +6747,8 @@ overcome angina excitement lobster mars saturn
 1
 0 2
 2
-0 39 2 8
 0 31 2 1
+0 39 2 8
 1
 end_operator
 begin_operator
@@ -6756,8 +6756,8 @@ overcome angina excitement lobster uranus earth
 1
 0 2
 2
-0 39 2 8
 0 31 0 3
+0 39 2 8
 1
 end_operator
 begin_operator
@@ -6765,8 +6765,8 @@ overcome angina excitement melon earth mars
 1
 0 3
 2
-0 39 3 8
 0 31 1 0
+0 39 3 8
 1
 end_operator
 begin_operator
@@ -6774,8 +6774,8 @@ overcome angina excitement melon mars saturn
 1
 0 3
 2
-0 39 3 8
 0 31 2 1
+0 39 3 8
 1
 end_operator
 begin_operator
@@ -6783,8 +6783,8 @@ overcome angina excitement melon uranus earth
 1
 0 3
 2
-0 39 3 8
 0 31 0 3
+0 39 3 8
 1
 end_operator
 begin_operator
@@ -6792,8 +6792,8 @@ overcome angina excitement muffin earth mars
 1
 0 4
 2
-0 39 4 8
 0 31 1 0
+0 39 4 8
 1
 end_operator
 begin_operator
@@ -6801,8 +6801,8 @@ overcome angina excitement muffin mars saturn
 1
 0 4
 2
-0 39 4 8
 0 31 2 1
+0 39 4 8
 1
 end_operator
 begin_operator
@@ -6810,8 +6810,8 @@ overcome angina excitement muffin uranus earth
 1
 0 4
 2
-0 39 4 8
 0 31 0 3
+0 39 4 8
 1
 end_operator
 begin_operator
@@ -6819,8 +6819,8 @@ overcome angina excitement pepper earth mars
 1
 0 5
 2
-0 39 5 8
 0 31 1 0
+0 39 5 8
 1
 end_operator
 begin_operator
@@ -6828,8 +6828,8 @@ overcome angina excitement pepper mars saturn
 1
 0 5
 2
-0 39 5 8
 0 31 2 1
+0 39 5 8
 1
 end_operator
 begin_operator
@@ -6837,8 +6837,8 @@ overcome angina excitement pepper uranus earth
 1
 0 5
 2
-0 39 5 8
 0 31 0 3
+0 39 5 8
 1
 end_operator
 begin_operator
@@ -6846,8 +6846,8 @@ overcome angina excitement potato earth mars
 1
 0 6
 2
-0 39 6 8
 0 31 1 0
+0 39 6 8
 1
 end_operator
 begin_operator
@@ -6855,8 +6855,8 @@ overcome angina excitement potato mars saturn
 1
 0 6
 2
-0 39 6 8
 0 31 2 1
+0 39 6 8
 1
 end_operator
 begin_operator
@@ -6864,8 +6864,8 @@ overcome angina excitement potato uranus earth
 1
 0 6
 2
-0 39 6 8
 0 31 0 3
+0 39 6 8
 1
 end_operator
 begin_operator
@@ -6873,8 +6873,8 @@ overcome angina excitement wurst earth mars
 1
 0 7
 2
-0 39 7 8
 0 31 1 0
+0 39 7 8
 1
 end_operator
 begin_operator
@@ -6882,8 +6882,8 @@ overcome angina excitement wurst mars saturn
 1
 0 7
 2
-0 39 7 8
 0 31 2 1
+0 39 7 8
 1
 end_operator
 begin_operator
@@ -6891,8 +6891,8 @@ overcome angina excitement wurst uranus earth
 1
 0 7
 2
-0 39 7 8
 0 31 0 3
+0 39 7 8
 1
 end_operator
 begin_operator
@@ -6900,8 +6900,8 @@ overcome angina intoxication hamburger earth mars
 1
 4 0
 2
-0 39 0 9
 0 32 1 0
+0 39 0 9
 1
 end_operator
 begin_operator
@@ -6909,8 +6909,8 @@ overcome angina intoxication hamburger mars saturn
 1
 4 0
 2
-0 39 0 9
 0 32 2 1
+0 39 0 9
 1
 end_operator
 begin_operator
@@ -6918,8 +6918,8 @@ overcome angina intoxication hamburger uranus earth
 1
 4 0
 2
-0 39 0 9
 0 32 0 3
+0 39 0 9
 1
 end_operator
 begin_operator
@@ -6927,8 +6927,8 @@ overcome angina intoxication lemon earth mars
 1
 4 1
 2
-0 39 1 9
 0 32 1 0
+0 39 1 9
 1
 end_operator
 begin_operator
@@ -6936,8 +6936,8 @@ overcome angina intoxication lemon mars saturn
 1
 4 1
 2
-0 39 1 9
 0 32 2 1
+0 39 1 9
 1
 end_operator
 begin_operator
@@ -6945,8 +6945,8 @@ overcome angina intoxication lemon uranus earth
 1
 4 1
 2
-0 39 1 9
 0 32 0 3
+0 39 1 9
 1
 end_operator
 begin_operator
@@ -6954,8 +6954,8 @@ overcome angina intoxication lobster earth mars
 1
 4 2
 2
-0 39 2 9
 0 32 1 0
+0 39 2 9
 1
 end_operator
 begin_operator
@@ -6963,8 +6963,8 @@ overcome angina intoxication lobster mars saturn
 1
 4 2
 2
-0 39 2 9
 0 32 2 1
+0 39 2 9
 1
 end_operator
 begin_operator
@@ -6972,8 +6972,8 @@ overcome angina intoxication lobster uranus earth
 1
 4 2
 2
-0 39 2 9
 0 32 0 3
+0 39 2 9
 1
 end_operator
 begin_operator
@@ -6981,8 +6981,8 @@ overcome angina intoxication melon earth mars
 1
 4 3
 2
-0 39 3 9
 0 32 1 0
+0 39 3 9
 1
 end_operator
 begin_operator
@@ -6990,8 +6990,8 @@ overcome angina intoxication melon mars saturn
 1
 4 3
 2
-0 39 3 9
 0 32 2 1
+0 39 3 9
 1
 end_operator
 begin_operator
@@ -6999,8 +6999,8 @@ overcome angina intoxication melon uranus earth
 1
 4 3
 2
-0 39 3 9
 0 32 0 3
+0 39 3 9
 1
 end_operator
 begin_operator
@@ -7008,8 +7008,8 @@ overcome angina intoxication muffin earth mars
 1
 4 4
 2
-0 39 4 9
 0 32 1 0
+0 39 4 9
 1
 end_operator
 begin_operator
@@ -7017,8 +7017,8 @@ overcome angina intoxication muffin mars saturn
 1
 4 4
 2
-0 39 4 9
 0 32 2 1
+0 39 4 9
 1
 end_operator
 begin_operator
@@ -7026,8 +7026,8 @@ overcome angina intoxication muffin uranus earth
 1
 4 4
 2
-0 39 4 9
 0 32 0 3
+0 39 4 9
 1
 end_operator
 begin_operator
@@ -7035,8 +7035,8 @@ overcome angina intoxication pepper earth mars
 1
 4 5
 2
-0 39 5 9
 0 32 1 0
+0 39 5 9
 1
 end_operator
 begin_operator
@@ -7044,8 +7044,8 @@ overcome angina intoxication pepper mars saturn
 1
 4 5
 2
-0 39 5 9
 0 32 2 1
+0 39 5 9
 1
 end_operator
 begin_operator
@@ -7053,8 +7053,8 @@ overcome angina intoxication pepper uranus earth
 1
 4 5
 2
-0 39 5 9
 0 32 0 3
+0 39 5 9
 1
 end_operator
 begin_operator
@@ -7062,8 +7062,8 @@ overcome angina intoxication potato earth mars
 1
 4 6
 2
-0 39 6 9
 0 32 1 0
+0 39 6 9
 1
 end_operator
 begin_operator
@@ -7071,8 +7071,8 @@ overcome angina intoxication potato mars saturn
 1
 4 6
 2
-0 39 6 9
 0 32 2 1
+0 39 6 9
 1
 end_operator
 begin_operator
@@ -7080,8 +7080,8 @@ overcome angina intoxication potato uranus earth
 1
 4 6
 2
-0 39 6 9
 0 32 0 3
+0 39 6 9
 1
 end_operator
 begin_operator
@@ -7089,8 +7089,8 @@ overcome angina intoxication wurst earth mars
 1
 4 7
 2
-0 39 7 9
 0 32 1 0
+0 39 7 9
 1
 end_operator
 begin_operator
@@ -7098,8 +7098,8 @@ overcome angina intoxication wurst mars saturn
 1
 4 7
 2
-0 39 7 9
 0 32 2 1
+0 39 7 9
 1
 end_operator
 begin_operator
@@ -7107,8 +7107,8 @@ overcome angina intoxication wurst uranus earth
 1
 4 7
 2
-0 39 7 9
 0 32 0 3
+0 39 7 9
 1
 end_operator
 begin_operator
@@ -7116,8 +7116,8 @@ overcome angina learning hamburger earth mars
 1
 6 0
 2
-0 39 0 10
 0 35 1 0
+0 39 0 10
 1
 end_operator
 begin_operator
@@ -7125,8 +7125,8 @@ overcome angina learning hamburger mars saturn
 1
 6 0
 2
-0 39 0 10
 0 35 2 1
+0 39 0 10
 1
 end_operator
 begin_operator
@@ -7134,8 +7134,8 @@ overcome angina learning hamburger uranus earth
 1
 6 0
 2
-0 39 0 10
 0 35 0 3
+0 39 0 10
 1
 end_operator
 begin_operator
@@ -7143,8 +7143,8 @@ overcome angina learning lemon earth mars
 1
 6 1
 2
-0 39 1 10
 0 35 1 0
+0 39 1 10
 1
 end_operator
 begin_operator
@@ -7152,8 +7152,8 @@ overcome angina learning lemon mars saturn
 1
 6 1
 2
-0 39 1 10
 0 35 2 1
+0 39 1 10
 1
 end_operator
 begin_operator
@@ -7161,8 +7161,8 @@ overcome angina learning lemon uranus earth
 1
 6 1
 2
-0 39 1 10
 0 35 0 3
+0 39 1 10
 1
 end_operator
 begin_operator
@@ -7170,8 +7170,8 @@ overcome angina learning lobster earth mars
 1
 6 2
 2
-0 39 2 10
 0 35 1 0
+0 39 2 10
 1
 end_operator
 begin_operator
@@ -7179,8 +7179,8 @@ overcome angina learning lobster mars saturn
 1
 6 2
 2
-0 39 2 10
 0 35 2 1
+0 39 2 10
 1
 end_operator
 begin_operator
@@ -7188,8 +7188,8 @@ overcome angina learning lobster uranus earth
 1
 6 2
 2
-0 39 2 10
 0 35 0 3
+0 39 2 10
 1
 end_operator
 begin_operator
@@ -7197,8 +7197,8 @@ overcome angina learning melon earth mars
 1
 6 3
 2
-0 39 3 10
 0 35 1 0
+0 39 3 10
 1
 end_operator
 begin_operator
@@ -7206,8 +7206,8 @@ overcome angina learning melon mars saturn
 1
 6 3
 2
-0 39 3 10
 0 35 2 1
+0 39 3 10
 1
 end_operator
 begin_operator
@@ -7215,8 +7215,8 @@ overcome angina learning melon uranus earth
 1
 6 3
 2
-0 39 3 10
 0 35 0 3
+0 39 3 10
 1
 end_operator
 begin_operator
@@ -7224,8 +7224,8 @@ overcome angina learning muffin earth mars
 1
 6 4
 2
-0 39 4 10
 0 35 1 0
+0 39 4 10
 1
 end_operator
 begin_operator
@@ -7233,8 +7233,8 @@ overcome angina learning muffin mars saturn
 1
 6 4
 2
-0 39 4 10
 0 35 2 1
+0 39 4 10
 1
 end_operator
 begin_operator
@@ -7242,8 +7242,8 @@ overcome angina learning muffin uranus earth
 1
 6 4
 2
-0 39 4 10
 0 35 0 3
+0 39 4 10
 1
 end_operator
 begin_operator
@@ -7251,8 +7251,8 @@ overcome angina learning pepper earth mars
 1
 6 5
 2
-0 39 5 10
 0 35 1 0
+0 39 5 10
 1
 end_operator
 begin_operator
@@ -7260,8 +7260,8 @@ overcome angina learning pepper mars saturn
 1
 6 5
 2
-0 39 5 10
 0 35 2 1
+0 39 5 10
 1
 end_operator
 begin_operator
@@ -7269,8 +7269,8 @@ overcome angina learning pepper uranus earth
 1
 6 5
 2
-0 39 5 10
 0 35 0 3
+0 39 5 10
 1
 end_operator
 begin_operator
@@ -7278,8 +7278,8 @@ overcome angina learning potato earth mars
 1
 6 6
 2
-0 39 6 10
 0 35 1 0
+0 39 6 10
 1
 end_operator
 begin_operator
@@ -7287,8 +7287,8 @@ overcome angina learning potato mars saturn
 1
 6 6
 2
-0 39 6 10
 0 35 2 1
+0 39 6 10
 1
 end_operator
 begin_operator
@@ -7296,8 +7296,8 @@ overcome angina learning potato uranus earth
 1
 6 6
 2
-0 39 6 10
 0 35 0 3
+0 39 6 10
 1
 end_operator
 begin_operator
@@ -7305,8 +7305,8 @@ overcome angina learning wurst earth mars
 1
 6 7
 2
-0 39 7 10
 0 35 1 0
+0 39 7 10
 1
 end_operator
 begin_operator
@@ -7314,8 +7314,8 @@ overcome angina learning wurst mars saturn
 1
 6 7
 2
-0 39 7 10
 0 35 2 1
+0 39 7 10
 1
 end_operator
 begin_operator
@@ -7323,8 +7323,8 @@ overcome angina learning wurst uranus earth
 1
 6 7
 2
-0 39 7 10
 0 35 0 3
+0 39 7 10
 1
 end_operator
 begin_operator
@@ -7332,8 +7332,8 @@ overcome angina rest hamburger earth mars
 1
 9 0
 2
-0 39 0 11
 0 36 1 0
+0 39 0 11
 1
 end_operator
 begin_operator
@@ -7341,8 +7341,8 @@ overcome angina rest hamburger mars saturn
 1
 9 0
 2
-0 39 0 11
 0 36 2 1
+0 39 0 11
 1
 end_operator
 begin_operator
@@ -7350,8 +7350,8 @@ overcome angina rest hamburger uranus earth
 1
 9 0
 2
-0 39 0 11
 0 36 0 3
+0 39 0 11
 1
 end_operator
 begin_operator
@@ -7359,8 +7359,8 @@ overcome angina rest lemon earth mars
 1
 9 1
 2
-0 39 1 11
 0 36 1 0
+0 39 1 11
 1
 end_operator
 begin_operator
@@ -7368,8 +7368,8 @@ overcome angina rest lemon mars saturn
 1
 9 1
 2
-0 39 1 11
 0 36 2 1
+0 39 1 11
 1
 end_operator
 begin_operator
@@ -7377,8 +7377,8 @@ overcome angina rest lemon uranus earth
 1
 9 1
 2
-0 39 1 11
 0 36 0 3
+0 39 1 11
 1
 end_operator
 begin_operator
@@ -7386,8 +7386,8 @@ overcome angina rest lobster earth mars
 1
 9 2
 2
-0 39 2 11
 0 36 1 0
+0 39 2 11
 1
 end_operator
 begin_operator
@@ -7395,8 +7395,8 @@ overcome angina rest lobster mars saturn
 1
 9 2
 2
-0 39 2 11
 0 36 2 1
+0 39 2 11
 1
 end_operator
 begin_operator
@@ -7404,8 +7404,8 @@ overcome angina rest lobster uranus earth
 1
 9 2
 2
-0 39 2 11
 0 36 0 3
+0 39 2 11
 1
 end_operator
 begin_operator
@@ -7413,8 +7413,8 @@ overcome angina rest melon earth mars
 1
 9 3
 2
-0 39 3 11
 0 36 1 0
+0 39 3 11
 1
 end_operator
 begin_operator
@@ -7422,8 +7422,8 @@ overcome angina rest melon mars saturn
 1
 9 3
 2
-0 39 3 11
 0 36 2 1
+0 39 3 11
 1
 end_operator
 begin_operator
@@ -7431,8 +7431,8 @@ overcome angina rest melon uranus earth
 1
 9 3
 2
-0 39 3 11
 0 36 0 3
+0 39 3 11
 1
 end_operator
 begin_operator
@@ -7440,8 +7440,8 @@ overcome angina rest muffin earth mars
 1
 9 4
 2
-0 39 4 11
 0 36 1 0
+0 39 4 11
 1
 end_operator
 begin_operator
@@ -7449,8 +7449,8 @@ overcome angina rest muffin mars saturn
 1
 9 4
 2
-0 39 4 11
 0 36 2 1
+0 39 4 11
 1
 end_operator
 begin_operator
@@ -7458,8 +7458,8 @@ overcome angina rest muffin uranus earth
 1
 9 4
 2
-0 39 4 11
 0 36 0 3
+0 39 4 11
 1
 end_operator
 begin_operator
@@ -7467,8 +7467,8 @@ overcome angina rest pepper earth mars
 1
 9 5
 2
-0 39 5 11
 0 36 1 0
+0 39 5 11
 1
 end_operator
 begin_operator
@@ -7476,8 +7476,8 @@ overcome angina rest pepper mars saturn
 1
 9 5
 2
-0 39 5 11
 0 36 2 1
+0 39 5 11
 1
 end_operator
 begin_operator
@@ -7485,8 +7485,8 @@ overcome angina rest pepper uranus earth
 1
 9 5
 2
-0 39 5 11
 0 36 0 3
+0 39 5 11
 1
 end_operator
 begin_operator
@@ -7494,8 +7494,8 @@ overcome angina rest potato earth mars
 1
 9 6
 2
-0 39 6 11
 0 36 1 0
+0 39 6 11
 1
 end_operator
 begin_operator
@@ -7503,8 +7503,8 @@ overcome angina rest potato mars saturn
 1
 9 6
 2
-0 39 6 11
 0 36 2 1
+0 39 6 11
 1
 end_operator
 begin_operator
@@ -7512,8 +7512,8 @@ overcome angina rest potato uranus earth
 1
 9 6
 2
-0 39 6 11
 0 36 0 3
+0 39 6 11
 1
 end_operator
 begin_operator
@@ -7521,8 +7521,8 @@ overcome angina rest wurst earth mars
 1
 9 7
 2
-0 39 7 11
 0 36 1 0
+0 39 7 11
 1
 end_operator
 begin_operator
@@ -7530,8 +7530,8 @@ overcome angina rest wurst mars saturn
 1
 9 7
 2
-0 39 7 11
 0 36 2 1
+0 39 7 11
 1
 end_operator
 begin_operator
@@ -7539,8 +7539,8 @@ overcome angina rest wurst uranus earth
 1
 9 7
 2
-0 39 7 11
 0 36 0 3
+0 39 7 11
 1
 end_operator
 begin_operator
@@ -7548,8 +7548,8 @@ overcome angina satiety hamburger earth mars
 1
 11 0
 2
-0 39 0 12
 0 38 1 0
+0 39 0 12
 1
 end_operator
 begin_operator
@@ -7557,8 +7557,8 @@ overcome angina satiety hamburger mars saturn
 1
 11 0
 2
-0 39 0 12
 0 38 2 1
+0 39 0 12
 1
 end_operator
 begin_operator
@@ -7566,8 +7566,8 @@ overcome angina satiety hamburger uranus earth
 1
 11 0
 2
-0 39 0 12
 0 38 0 3
+0 39 0 12
 1
 end_operator
 begin_operator
@@ -7575,8 +7575,8 @@ overcome angina satiety lemon earth mars
 1
 11 1
 2
-0 39 1 12
 0 38 1 0
+0 39 1 12
 1
 end_operator
 begin_operator
@@ -7584,8 +7584,8 @@ overcome angina satiety lemon mars saturn
 1
 11 1
 2
-0 39 1 12
 0 38 2 1
+0 39 1 12
 1
 end_operator
 begin_operator
@@ -7593,8 +7593,8 @@ overcome angina satiety lemon uranus earth
 1
 11 1
 2
-0 39 1 12
 0 38 0 3
+0 39 1 12
 1
 end_operator
 begin_operator
@@ -7602,8 +7602,8 @@ overcome angina satiety lobster earth mars
 1
 11 2
 2
-0 39 2 12
 0 38 1 0
+0 39 2 12
 1
 end_operator
 begin_operator
@@ -7611,8 +7611,8 @@ overcome angina satiety lobster mars saturn
 1
 11 2
 2
-0 39 2 12
 0 38 2 1
+0 39 2 12
 1
 end_operator
 begin_operator
@@ -7620,8 +7620,8 @@ overcome angina satiety lobster uranus earth
 1
 11 2
 2
-0 39 2 12
 0 38 0 3
+0 39 2 12
 1
 end_operator
 begin_operator
@@ -7629,8 +7629,8 @@ overcome angina satiety melon earth mars
 1
 11 3
 2
-0 39 3 12
 0 38 1 0
+0 39 3 12
 1
 end_operator
 begin_operator
@@ -7638,8 +7638,8 @@ overcome angina satiety melon mars saturn
 1
 11 3
 2
-0 39 3 12
 0 38 2 1
+0 39 3 12
 1
 end_operator
 begin_operator
@@ -7647,8 +7647,8 @@ overcome angina satiety melon uranus earth
 1
 11 3
 2
-0 39 3 12
 0 38 0 3
+0 39 3 12
 1
 end_operator
 begin_operator
@@ -7656,8 +7656,8 @@ overcome angina satiety muffin earth mars
 1
 11 4
 2
-0 39 4 12
 0 38 1 0
+0 39 4 12
 1
 end_operator
 begin_operator
@@ -7665,8 +7665,8 @@ overcome angina satiety muffin mars saturn
 1
 11 4
 2
-0 39 4 12
 0 38 2 1
+0 39 4 12
 1
 end_operator
 begin_operator
@@ -7674,8 +7674,8 @@ overcome angina satiety muffin uranus earth
 1
 11 4
 2
-0 39 4 12
 0 38 0 3
+0 39 4 12
 1
 end_operator
 begin_operator
@@ -7683,8 +7683,8 @@ overcome angina satiety pepper earth mars
 1
 11 5
 2
-0 39 5 12
 0 38 1 0
+0 39 5 12
 1
 end_operator
 begin_operator
@@ -7692,8 +7692,8 @@ overcome angina satiety pepper mars saturn
 1
 11 5
 2
-0 39 5 12
 0 38 2 1
+0 39 5 12
 1
 end_operator
 begin_operator
@@ -7701,8 +7701,8 @@ overcome angina satiety pepper uranus earth
 1
 11 5
 2
-0 39 5 12
 0 38 0 3
+0 39 5 12
 1
 end_operator
 begin_operator
@@ -7710,8 +7710,8 @@ overcome angina satiety potato earth mars
 1
 11 6
 2
-0 39 6 12
 0 38 1 0
+0 39 6 12
 1
 end_operator
 begin_operator
@@ -7719,8 +7719,8 @@ overcome angina satiety potato mars saturn
 1
 11 6
 2
-0 39 6 12
 0 38 2 1
+0 39 6 12
 1
 end_operator
 begin_operator
@@ -7728,8 +7728,8 @@ overcome angina satiety potato uranus earth
 1
 11 6
 2
-0 39 6 12
 0 38 0 3
+0 39 6 12
 1
 end_operator
 begin_operator
@@ -7737,8 +7737,8 @@ overcome angina satiety wurst earth mars
 1
 11 7
 2
-0 39 7 12
 0 38 1 0
+0 39 7 12
 1
 end_operator
 begin_operator
@@ -7746,8 +7746,8 @@ overcome angina satiety wurst mars saturn
 1
 11 7
 2
-0 39 7 12
 0 38 2 1
+0 39 7 12
 1
 end_operator
 begin_operator
@@ -7755,8 +7755,8 @@ overcome angina satiety wurst uranus earth
 1
 11 7
 2
-0 39 7 12
 0 38 0 3
+0 39 7 12
 1
 end_operator
 begin_operator
@@ -23964,8 +23964,8 @@ overcome prostatitis-3 excitement hamburger earth mars
 1
 0 0
 2
-0 33 0 8
 0 31 1 0
+0 33 0 8
 1
 end_operator
 begin_operator
@@ -23973,8 +23973,8 @@ overcome prostatitis-3 excitement hamburger mars saturn
 1
 0 0
 2
-0 33 0 8
 0 31 2 1
+0 33 0 8
 1
 end_operator
 begin_operator
@@ -23982,8 +23982,8 @@ overcome prostatitis-3 excitement hamburger uranus earth
 1
 0 0
 2
-0 33 0 8
 0 31 0 3
+0 33 0 8
 1
 end_operator
 begin_operator
@@ -23991,8 +23991,8 @@ overcome prostatitis-3 excitement lemon earth mars
 1
 0 1
 2
-0 33 1 8
 0 31 1 0
+0 33 1 8
 1
 end_operator
 begin_operator
@@ -24000,8 +24000,8 @@ overcome prostatitis-3 excitement lemon mars saturn
 1
 0 1
 2
-0 33 1 8
 0 31 2 1
+0 33 1 8
 1
 end_operator
 begin_operator
@@ -24009,8 +24009,8 @@ overcome prostatitis-3 excitement lemon uranus earth
 1
 0 1
 2
-0 33 1 8
 0 31 0 3
+0 33 1 8
 1
 end_operator
 begin_operator
@@ -24018,8 +24018,8 @@ overcome prostatitis-3 excitement lobster earth mars
 1
 0 2
 2
-0 33 2 8
 0 31 1 0
+0 33 2 8
 1
 end_operator
 begin_operator
@@ -24027,8 +24027,8 @@ overcome prostatitis-3 excitement lobster mars saturn
 1
 0 2
 2
-0 33 2 8
 0 31 2 1
+0 33 2 8
 1
 end_operator
 begin_operator
@@ -24036,8 +24036,8 @@ overcome prostatitis-3 excitement lobster uranus earth
 1
 0 2
 2
-0 33 2 8
 0 31 0 3
+0 33 2 8
 1
 end_operator
 begin_operator
@@ -24045,8 +24045,8 @@ overcome prostatitis-3 excitement melon earth mars
 1
 0 3
 2
-0 33 3 8
 0 31 1 0
+0 33 3 8
 1
 end_operator
 begin_operator
@@ -24054,8 +24054,8 @@ overcome prostatitis-3 excitement melon mars saturn
 1
 0 3
 2
-0 33 3 8
 0 31 2 1
+0 33 3 8
 1
 end_operator
 begin_operator
@@ -24063,8 +24063,8 @@ overcome prostatitis-3 excitement melon uranus earth
 1
 0 3
 2
-0 33 3 8
 0 31 0 3
+0 33 3 8
 1
 end_operator
 begin_operator
@@ -24072,8 +24072,8 @@ overcome prostatitis-3 excitement muffin earth mars
 1
 0 4
 2
-0 33 4 8
 0 31 1 0
+0 33 4 8
 1
 end_operator
 begin_operator
@@ -24081,8 +24081,8 @@ overcome prostatitis-3 excitement muffin mars saturn
 1
 0 4
 2
-0 33 4 8
 0 31 2 1
+0 33 4 8
 1
 end_operator
 begin_operator
@@ -24090,8 +24090,8 @@ overcome prostatitis-3 excitement muffin uranus earth
 1
 0 4
 2
-0 33 4 8
 0 31 0 3
+0 33 4 8
 1
 end_operator
 begin_operator
@@ -24099,8 +24099,8 @@ overcome prostatitis-3 excitement pepper earth mars
 1
 0 5
 2
-0 33 5 8
 0 31 1 0
+0 33 5 8
 1
 end_operator
 begin_operator
@@ -24108,8 +24108,8 @@ overcome prostatitis-3 excitement pepper mars saturn
 1
 0 5
 2
-0 33 5 8
 0 31 2 1
+0 33 5 8
 1
 end_operator
 begin_operator
@@ -24117,8 +24117,8 @@ overcome prostatitis-3 excitement pepper uranus earth
 1
 0 5
 2
-0 33 5 8
 0 31 0 3
+0 33 5 8
 1
 end_operator
 begin_operator
@@ -24126,8 +24126,8 @@ overcome prostatitis-3 excitement potato earth mars
 1
 0 6
 2
-0 33 6 8
 0 31 1 0
+0 33 6 8
 1
 end_operator
 begin_operator
@@ -24135,8 +24135,8 @@ overcome prostatitis-3 excitement potato mars saturn
 1
 0 6
 2
-0 33 6 8
 0 31 2 1
+0 33 6 8
 1
 end_operator
 begin_operator
@@ -24144,8 +24144,8 @@ overcome prostatitis-3 excitement potato uranus earth
 1
 0 6
 2
-0 33 6 8
 0 31 0 3
+0 33 6 8
 1
 end_operator
 begin_operator
@@ -24153,8 +24153,8 @@ overcome prostatitis-3 excitement wurst earth mars
 1
 0 7
 2
-0 33 7 8
 0 31 1 0
+0 33 7 8
 1
 end_operator
 begin_operator
@@ -24162,8 +24162,8 @@ overcome prostatitis-3 excitement wurst mars saturn
 1
 0 7
 2
-0 33 7 8
 0 31 2 1
+0 33 7 8
 1
 end_operator
 begin_operator
@@ -24171,8 +24171,8 @@ overcome prostatitis-3 excitement wurst uranus earth
 1
 0 7
 2
-0 33 7 8
 0 31 0 3
+0 33 7 8
 1
 end_operator
 begin_operator
@@ -24180,8 +24180,8 @@ overcome prostatitis-3 intoxication hamburger earth mars
 1
 4 0
 2
-0 33 0 9
 0 32 1 0
+0 33 0 9
 1
 end_operator
 begin_operator
@@ -24189,8 +24189,8 @@ overcome prostatitis-3 intoxication hamburger mars saturn
 1
 4 0
 2
-0 33 0 9
 0 32 2 1
+0 33 0 9
 1
 end_operator
 begin_operator
@@ -24198,8 +24198,8 @@ overcome prostatitis-3 intoxication hamburger uranus earth
 1
 4 0
 2
-0 33 0 9
 0 32 0 3
+0 33 0 9
 1
 end_operator
 begin_operator
@@ -24207,8 +24207,8 @@ overcome prostatitis-3 intoxication lemon earth mars
 1
 4 1
 2
-0 33 1 9
 0 32 1 0
+0 33 1 9
 1
 end_operator
 begin_operator
@@ -24216,8 +24216,8 @@ overcome prostatitis-3 intoxication lemon mars saturn
 1
 4 1
 2
-0 33 1 9
 0 32 2 1
+0 33 1 9
 1
 end_operator
 begin_operator
@@ -24225,8 +24225,8 @@ overcome prostatitis-3 intoxication lemon uranus earth
 1
 4 1
 2
-0 33 1 9
 0 32 0 3
+0 33 1 9
 1
 end_operator
 begin_operator
@@ -24234,8 +24234,8 @@ overcome prostatitis-3 intoxication lobster earth mars
 1
 4 2
 2
-0 33 2 9
 0 32 1 0
+0 33 2 9
 1
 end_operator
 begin_operator
@@ -24243,8 +24243,8 @@ overcome prostatitis-3 intoxication lobster mars saturn
 1
 4 2
 2
-0 33 2 9
 0 32 2 1
+0 33 2 9
 1
 end_operator
 begin_operator
@@ -24252,8 +24252,8 @@ overcome prostatitis-3 intoxication lobster uranus earth
 1
 4 2
 2
-0 33 2 9
 0 32 0 3
+0 33 2 9
 1
 end_operator
 begin_operator
@@ -24261,8 +24261,8 @@ overcome prostatitis-3 intoxication melon earth mars
 1
 4 3
 2
-0 33 3 9
 0 32 1 0
+0 33 3 9
 1
 end_operator
 begin_operator
@@ -24270,8 +24270,8 @@ overcome prostatitis-3 intoxication melon mars saturn
 1
 4 3
 2
-0 33 3 9
 0 32 2 1
+0 33 3 9
 1
 end_operator
 begin_operator
@@ -24279,8 +24279,8 @@ overcome prostatitis-3 intoxication melon uranus earth
 1
 4 3
 2
-0 33 3 9
 0 32 0 3
+0 33 3 9
 1
 end_operator
 begin_operator
@@ -24288,8 +24288,8 @@ overcome prostatitis-3 intoxication muffin earth mars
 1
 4 4
 2
-0 33 4 9
 0 32 1 0
+0 33 4 9
 1
 end_operator
 begin_operator
@@ -24297,8 +24297,8 @@ overcome prostatitis-3 intoxication muffin mars saturn
 1
 4 4
 2
-0 33 4 9
 0 32 2 1
+0 33 4 9
 1
 end_operator
 begin_operator
@@ -24306,8 +24306,8 @@ overcome prostatitis-3 intoxication muffin uranus earth
 1
 4 4
 2
-0 33 4 9
 0 32 0 3
+0 33 4 9
 1
 end_operator
 begin_operator
@@ -24315,8 +24315,8 @@ overcome prostatitis-3 intoxication pepper earth mars
 1
 4 5
 2
-0 33 5 9
 0 32 1 0
+0 33 5 9
 1
 end_operator
 begin_operator
@@ -24324,8 +24324,8 @@ overcome prostatitis-3 intoxication pepper mars saturn
 1
 4 5
 2
-0 33 5 9
 0 32 2 1
+0 33 5 9
 1
 end_operator
 begin_operator
@@ -24333,8 +24333,8 @@ overcome prostatitis-3 intoxication pepper uranus earth
 1
 4 5
 2
-0 33 5 9
 0 32 0 3
+0 33 5 9
 1
 end_operator
 begin_operator
@@ -24342,8 +24342,8 @@ overcome prostatitis-3 intoxication potato earth mars
 1
 4 6
 2
-0 33 6 9
 0 32 1 0
+0 33 6 9
 1
 end_operator
 begin_operator
@@ -24351,8 +24351,8 @@ overcome prostatitis-3 intoxication potato mars saturn
 1
 4 6
 2
-0 33 6 9
 0 32 2 1
+0 33 6 9
 1
 end_operator
 begin_operator
@@ -24360,8 +24360,8 @@ overcome prostatitis-3 intoxication potato uranus earth
 1
 4 6
 2
-0 33 6 9
 0 32 0 3
+0 33 6 9
 1
 end_operator
 begin_operator
@@ -24369,8 +24369,8 @@ overcome prostatitis-3 intoxication wurst earth mars
 1
 4 7
 2
-0 33 7 9
 0 32 1 0
+0 33 7 9
 1
 end_operator
 begin_operator
@@ -24378,8 +24378,8 @@ overcome prostatitis-3 intoxication wurst mars saturn
 1
 4 7
 2
-0 33 7 9
 0 32 2 1
+0 33 7 9
 1
 end_operator
 begin_operator
@@ -24387,8 +24387,8 @@ overcome prostatitis-3 intoxication wurst uranus earth
 1
 4 7
 2
-0 33 7 9
 0 32 0 3
+0 33 7 9
 1
 end_operator
 begin_operator
@@ -25044,8 +25044,8 @@ overcome sciatica excitement hamburger earth mars
 1
 0 0
 2
-0 34 0 8
 0 31 1 0
+0 34 0 8
 1
 end_operator
 begin_operator
@@ -25053,8 +25053,8 @@ overcome sciatica excitement hamburger mars saturn
 1
 0 0
 2
-0 34 0 8
 0 31 2 1
+0 34 0 8
 1
 end_operator
 begin_operator
@@ -25062,8 +25062,8 @@ overcome sciatica excitement hamburger uranus earth
 1
 0 0
 2
-0 34 0 8
 0 31 0 3
+0 34 0 8
 1
 end_operator
 begin_operator
@@ -25071,8 +25071,8 @@ overcome sciatica excitement lemon earth mars
 1
 0 1
 2
-0 34 1 8
 0 31 1 0
+0 34 1 8
 1
 end_operator
 begin_operator
@@ -25080,8 +25080,8 @@ overcome sciatica excitement lemon mars saturn
 1
 0 1
 2
-0 34 1 8
 0 31 2 1
+0 34 1 8
 1
 end_operator
 begin_operator
@@ -25089,8 +25089,8 @@ overcome sciatica excitement lemon uranus earth
 1
 0 1
 2
-0 34 1 8
 0 31 0 3
+0 34 1 8
 1
 end_operator
 begin_operator
@@ -25098,8 +25098,8 @@ overcome sciatica excitement lobster earth mars
 1
 0 2
 2
-0 34 2 8
 0 31 1 0
+0 34 2 8
 1
 end_operator
 begin_operator
@@ -25107,8 +25107,8 @@ overcome sciatica excitement lobster mars saturn
 1
 0 2
 2
-0 34 2 8
 0 31 2 1
+0 34 2 8
 1
 end_operator
 begin_operator
@@ -25116,8 +25116,8 @@ overcome sciatica excitement lobster uranus earth
 1
 0 2
 2
-0 34 2 8
 0 31 0 3
+0 34 2 8
 1
 end_operator
 begin_operator
@@ -25125,8 +25125,8 @@ overcome sciatica excitement melon earth mars
 1
 0 3
 2
-0 34 3 8
 0 31 1 0
+0 34 3 8
 1
 end_operator
 begin_operator
@@ -25134,8 +25134,8 @@ overcome sciatica excitement melon mars saturn
 1
 0 3
 2
-0 34 3 8
 0 31 2 1
+0 34 3 8
 1
 end_operator
 begin_operator
@@ -25143,8 +25143,8 @@ overcome sciatica excitement melon uranus earth
 1
 0 3
 2
-0 34 3 8
 0 31 0 3
+0 34 3 8
 1
 end_operator
 begin_operator
@@ -25152,8 +25152,8 @@ overcome sciatica excitement muffin earth mars
 1
 0 4
 2
-0 34 4 8
 0 31 1 0
+0 34 4 8
 1
 end_operator
 begin_operator
@@ -25161,8 +25161,8 @@ overcome sciatica excitement muffin mars saturn
 1
 0 4
 2
-0 34 4 8
 0 31 2 1
+0 34 4 8
 1
 end_operator
 begin_operator
@@ -25170,8 +25170,8 @@ overcome sciatica excitement muffin uranus earth
 1
 0 4
 2
-0 34 4 8
 0 31 0 3
+0 34 4 8
 1
 end_operator
 begin_operator
@@ -25179,8 +25179,8 @@ overcome sciatica excitement pepper earth mars
 1
 0 5
 2
-0 34 5 8
 0 31 1 0
+0 34 5 8
 1
 end_operator
 begin_operator
@@ -25188,8 +25188,8 @@ overcome sciatica excitement pepper mars saturn
 1
 0 5
 2
-0 34 5 8
 0 31 2 1
+0 34 5 8
 1
 end_operator
 begin_operator
@@ -25197,8 +25197,8 @@ overcome sciatica excitement pepper uranus earth
 1
 0 5
 2
-0 34 5 8
 0 31 0 3
+0 34 5 8
 1
 end_operator
 begin_operator
@@ -25206,8 +25206,8 @@ overcome sciatica excitement potato earth mars
 1
 0 6
 2
-0 34 6 8
 0 31 1 0
+0 34 6 8
 1
 end_operator
 begin_operator
@@ -25215,8 +25215,8 @@ overcome sciatica excitement potato mars saturn
 1
 0 6
 2
-0 34 6 8
 0 31 2 1
+0 34 6 8
 1
 end_operator
 begin_operator
@@ -25224,8 +25224,8 @@ overcome sciatica excitement potato uranus earth
 1
 0 6
 2
-0 34 6 8
 0 31 0 3
+0 34 6 8
 1
 end_operator
 begin_operator
@@ -25233,8 +25233,8 @@ overcome sciatica excitement wurst earth mars
 1
 0 7
 2
-0 34 7 8
 0 31 1 0
+0 34 7 8
 1
 end_operator
 begin_operator
@@ -25242,8 +25242,8 @@ overcome sciatica excitement wurst mars saturn
 1
 0 7
 2
-0 34 7 8
 0 31 2 1
+0 34 7 8
 1
 end_operator
 begin_operator
@@ -25251,8 +25251,8 @@ overcome sciatica excitement wurst uranus earth
 1
 0 7
 2
-0 34 7 8
 0 31 0 3
+0 34 7 8
 1
 end_operator
 begin_operator
@@ -25260,8 +25260,8 @@ overcome sciatica intoxication hamburger earth mars
 1
 4 0
 2
-0 34 0 9
 0 32 1 0
+0 34 0 9
 1
 end_operator
 begin_operator
@@ -25269,8 +25269,8 @@ overcome sciatica intoxication hamburger mars saturn
 1
 4 0
 2
-0 34 0 9
 0 32 2 1
+0 34 0 9
 1
 end_operator
 begin_operator
@@ -25278,8 +25278,8 @@ overcome sciatica intoxication hamburger uranus earth
 1
 4 0
 2
-0 34 0 9
 0 32 0 3
+0 34 0 9
 1
 end_operator
 begin_operator
@@ -25287,8 +25287,8 @@ overcome sciatica intoxication lemon earth mars
 1
 4 1
 2
-0 34 1 9
 0 32 1 0
+0 34 1 9
 1
 end_operator
 begin_operator
@@ -25296,8 +25296,8 @@ overcome sciatica intoxication lemon mars saturn
 1
 4 1
 2
-0 34 1 9
 0 32 2 1
+0 34 1 9
 1
 end_operator
 begin_operator
@@ -25305,8 +25305,8 @@ overcome sciatica intoxication lemon uranus earth
 1
 4 1
 2
-0 34 1 9
 0 32 0 3
+0 34 1 9
 1
 end_operator
 begin_operator
@@ -25314,8 +25314,8 @@ overcome sciatica intoxication lobster earth mars
 1
 4 2
 2
-0 34 2 9
 0 32 1 0
+0 34 2 9
 1
 end_operator
 begin_operator
@@ -25323,8 +25323,8 @@ overcome sciatica intoxication lobster mars saturn
 1
 4 2
 2
-0 34 2 9
 0 32 2 1
+0 34 2 9
 1
 end_operator
 begin_operator
@@ -25332,8 +25332,8 @@ overcome sciatica intoxication lobster uranus earth
 1
 4 2
 2
-0 34 2 9
 0 32 0 3
+0 34 2 9
 1
 end_operator
 begin_operator
@@ -25341,8 +25341,8 @@ overcome sciatica intoxication melon earth mars
 1
 4 3
 2
-0 34 3 9
 0 32 1 0
+0 34 3 9
 1
 end_operator
 begin_operator
@@ -25350,8 +25350,8 @@ overcome sciatica intoxication melon mars saturn
 1
 4 3
 2
-0 34 3 9
 0 32 2 1
+0 34 3 9
 1
 end_operator
 begin_operator
@@ -25359,8 +25359,8 @@ overcome sciatica intoxication melon uranus earth
 1
 4 3
 2
-0 34 3 9
 0 32 0 3
+0 34 3 9
 1
 end_operator
 begin_operator
@@ -25368,8 +25368,8 @@ overcome sciatica intoxication muffin earth mars
 1
 4 4
 2
-0 34 4 9
 0 32 1 0
+0 34 4 9
 1
 end_operator
 begin_operator
@@ -25377,8 +25377,8 @@ overcome sciatica intoxication muffin mars saturn
 1
 4 4
 2
-0 34 4 9
 0 32 2 1
+0 34 4 9
 1
 end_operator
 begin_operator
@@ -25386,8 +25386,8 @@ overcome sciatica intoxication muffin uranus earth
 1
 4 4
 2
-0 34 4 9
 0 32 0 3
+0 34 4 9
 1
 end_operator
 begin_operator
@@ -25395,8 +25395,8 @@ overcome sciatica intoxication pepper earth mars
 1
 4 5
 2
-0 34 5 9
 0 32 1 0
+0 34 5 9
 1
 end_operator
 begin_operator
@@ -25404,8 +25404,8 @@ overcome sciatica intoxication pepper mars saturn
 1
 4 5
 2
-0 34 5 9
 0 32 2 1
+0 34 5 9
 1
 end_operator
 begin_operator
@@ -25413,8 +25413,8 @@ overcome sciatica intoxication pepper uranus earth
 1
 4 5
 2
-0 34 5 9
 0 32 0 3
+0 34 5 9
 1
 end_operator
 begin_operator
@@ -25422,8 +25422,8 @@ overcome sciatica intoxication potato earth mars
 1
 4 6
 2
-0 34 6 9
 0 32 1 0
+0 34 6 9
 1
 end_operator
 begin_operator
@@ -25431,8 +25431,8 @@ overcome sciatica intoxication potato mars saturn
 1
 4 6
 2
-0 34 6 9
 0 32 2 1
+0 34 6 9
 1
 end_operator
 begin_operator
@@ -25440,8 +25440,8 @@ overcome sciatica intoxication potato uranus earth
 1
 4 6
 2
-0 34 6 9
 0 32 0 3
+0 34 6 9
 1
 end_operator
 begin_operator
@@ -25449,8 +25449,8 @@ overcome sciatica intoxication wurst earth mars
 1
 4 7
 2
-0 34 7 9
 0 32 1 0
+0 34 7 9
 1
 end_operator
 begin_operator
@@ -25458,8 +25458,8 @@ overcome sciatica intoxication wurst mars saturn
 1
 4 7
 2
-0 34 7 9
 0 32 2 1
+0 34 7 9
 1
 end_operator
 begin_operator
@@ -25467,8 +25467,8 @@ overcome sciatica intoxication wurst uranus earth
 1
 4 7
 2
-0 34 7 9
 0 32 0 3
+0 34 7 9
 1
 end_operator
 begin_operator
@@ -26124,8 +26124,8 @@ overcome sciatica-5 excitement hamburger earth mars
 1
 0 0
 2
-0 37 0 8
 0 31 1 0
+0 37 0 8
 1
 end_operator
 begin_operator
@@ -26133,8 +26133,8 @@ overcome sciatica-5 excitement hamburger mars saturn
 1
 0 0
 2
-0 37 0 8
 0 31 2 1
+0 37 0 8
 1
 end_operator
 begin_operator
@@ -26142,8 +26142,8 @@ overcome sciatica-5 excitement hamburger uranus earth
 1
 0 0
 2
-0 37 0 8
 0 31 0 3
+0 37 0 8
 1
 end_operator
 begin_operator
@@ -26151,8 +26151,8 @@ overcome sciatica-5 excitement lemon earth mars
 1
 0 1
 2
-0 37 1 8
 0 31 1 0
+0 37 1 8
 1
 end_operator
 begin_operator
@@ -26160,8 +26160,8 @@ overcome sciatica-5 excitement lemon mars saturn
 1
 0 1
 2
-0 37 1 8
 0 31 2 1
+0 37 1 8
 1
 end_operator
 begin_operator
@@ -26169,8 +26169,8 @@ overcome sciatica-5 excitement lemon uranus earth
 1
 0 1
 2
-0 37 1 8
 0 31 0 3
+0 37 1 8
 1
 end_operator
 begin_operator
@@ -26178,8 +26178,8 @@ overcome sciatica-5 excitement lobster earth mars
 1
 0 2
 2
-0 37 2 8
 0 31 1 0
+0 37 2 8
 1
 end_operator
 begin_operator
@@ -26187,8 +26187,8 @@ overcome sciatica-5 excitement lobster mars saturn
 1
 0 2
 2
-0 37 2 8
 0 31 2 1
+0 37 2 8
 1
 end_operator
 begin_operator
@@ -26196,8 +26196,8 @@ overcome sciatica-5 excitement lobster uranus earth
 1
 0 2
 2
-0 37 2 8
 0 31 0 3
+0 37 2 8
 1
 end_operator
 begin_operator
@@ -26205,8 +26205,8 @@ overcome sciatica-5 excitement melon earth mars
 1
 0 3
 2
-0 37 3 8
 0 31 1 0
+0 37 3 8
 1
 end_operator
 begin_operator
@@ -26214,8 +26214,8 @@ overcome sciatica-5 excitement melon mars saturn
 1
 0 3
 2
-0 37 3 8
 0 31 2 1
+0 37 3 8
 1
 end_operator
 begin_operator
@@ -26223,8 +26223,8 @@ overcome sciatica-5 excitement melon uranus earth
 1
 0 3
 2
-0 37 3 8
 0 31 0 3
+0 37 3 8
 1
 end_operator
 begin_operator
@@ -26232,8 +26232,8 @@ overcome sciatica-5 excitement muffin earth mars
 1
 0 4
 2
-0 37 4 8
 0 31 1 0
+0 37 4 8
 1
 end_operator
 begin_operator
@@ -26241,8 +26241,8 @@ overcome sciatica-5 excitement muffin mars saturn
 1
 0 4
 2
-0 37 4 8
 0 31 2 1
+0 37 4 8
 1
 end_operator
 begin_operator
@@ -26250,8 +26250,8 @@ overcome sciatica-5 excitement muffin uranus earth
 1
 0 4
 2
-0 37 4 8
 0 31 0 3
+0 37 4 8
 1
 end_operator
 begin_operator
@@ -26259,8 +26259,8 @@ overcome sciatica-5 excitement pepper earth mars
 1
 0 5
 2
-0 37 5 8
 0 31 1 0
+0 37 5 8
 1
 end_operator
 begin_operator
@@ -26268,8 +26268,8 @@ overcome sciatica-5 excitement pepper mars saturn
 1
 0 5
 2
-0 37 5 8
 0 31 2 1
+0 37 5 8
 1
 end_operator
 begin_operator
@@ -26277,8 +26277,8 @@ overcome sciatica-5 excitement pepper uranus earth
 1
 0 5
 2
-0 37 5 8
 0 31 0 3
+0 37 5 8
 1
 end_operator
 begin_operator
@@ -26286,8 +26286,8 @@ overcome sciatica-5 excitement potato earth mars
 1
 0 6
 2
-0 37 6 8
 0 31 1 0
+0 37 6 8
 1
 end_operator
 begin_operator
@@ -26295,8 +26295,8 @@ overcome sciatica-5 excitement potato mars saturn
 1
 0 6
 2
-0 37 6 8
 0 31 2 1
+0 37 6 8
 1
 end_operator
 begin_operator
@@ -26304,8 +26304,8 @@ overcome sciatica-5 excitement potato uranus earth
 1
 0 6
 2
-0 37 6 8
 0 31 0 3
+0 37 6 8
 1
 end_operator
 begin_operator
@@ -26313,8 +26313,8 @@ overcome sciatica-5 excitement wurst earth mars
 1
 0 7
 2
-0 37 7 8
 0 31 1 0
+0 37 7 8
 1
 end_operator
 begin_operator
@@ -26322,8 +26322,8 @@ overcome sciatica-5 excitement wurst mars saturn
 1
 0 7
 2
-0 37 7 8
 0 31 2 1
+0 37 7 8
 1
 end_operator
 begin_operator
@@ -26331,8 +26331,8 @@ overcome sciatica-5 excitement wurst uranus earth
 1
 0 7
 2
-0 37 7 8
 0 31 0 3
+0 37 7 8
 1
 end_operator
 begin_operator
@@ -26340,8 +26340,8 @@ overcome sciatica-5 intoxication hamburger earth mars
 1
 4 0
 2
-0 37 0 9
 0 32 1 0
+0 37 0 9
 1
 end_operator
 begin_operator
@@ -26349,8 +26349,8 @@ overcome sciatica-5 intoxication hamburger mars saturn
 1
 4 0
 2
-0 37 0 9
 0 32 2 1
+0 37 0 9
 1
 end_operator
 begin_operator
@@ -26358,8 +26358,8 @@ overcome sciatica-5 intoxication hamburger uranus earth
 1
 4 0
 2
-0 37 0 9
 0 32 0 3
+0 37 0 9
 1
 end_operator
 begin_operator
@@ -26367,8 +26367,8 @@ overcome sciatica-5 intoxication lemon earth mars
 1
 4 1
 2
-0 37 1 9
 0 32 1 0
+0 37 1 9
 1
 end_operator
 begin_operator
@@ -26376,8 +26376,8 @@ overcome sciatica-5 intoxication lemon mars saturn
 1
 4 1
 2
-0 37 1 9
 0 32 2 1
+0 37 1 9
 1
 end_operator
 begin_operator
@@ -26385,8 +26385,8 @@ overcome sciatica-5 intoxication lemon uranus earth
 1
 4 1
 2
-0 37 1 9
 0 32 0 3
+0 37 1 9
 1
 end_operator
 begin_operator
@@ -26394,8 +26394,8 @@ overcome sciatica-5 intoxication lobster earth mars
 1
 4 2
 2
-0 37 2 9
 0 32 1 0
+0 37 2 9
 1
 end_operator
 begin_operator
@@ -26403,8 +26403,8 @@ overcome sciatica-5 intoxication lobster mars saturn
 1
 4 2
 2
-0 37 2 9
 0 32 2 1
+0 37 2 9
 1
 end_operator
 begin_operator
@@ -26412,8 +26412,8 @@ overcome sciatica-5 intoxication lobster uranus earth
 1
 4 2
 2
-0 37 2 9
 0 32 0 3
+0 37 2 9
 1
 end_operator
 begin_operator
@@ -26421,8 +26421,8 @@ overcome sciatica-5 intoxication melon earth mars
 1
 4 3
 2
-0 37 3 9
 0 32 1 0
+0 37 3 9
 1
 end_operator
 begin_operator
@@ -26430,8 +26430,8 @@ overcome sciatica-5 intoxication melon mars saturn
 1
 4 3
 2
-0 37 3 9
 0 32 2 1
+0 37 3 9
 1
 end_operator
 begin_operator
@@ -26439,8 +26439,8 @@ overcome sciatica-5 intoxication melon uranus earth
 1
 4 3
 2
-0 37 3 9
 0 32 0 3
+0 37 3 9
 1
 end_operator
 begin_operator
@@ -26448,8 +26448,8 @@ overcome sciatica-5 intoxication muffin earth mars
 1
 4 4
 2
-0 37 4 9
 0 32 1 0
+0 37 4 9
 1
 end_operator
 begin_operator
@@ -26457,8 +26457,8 @@ overcome sciatica-5 intoxication muffin mars saturn
 1
 4 4
 2
-0 37 4 9
 0 32 2 1
+0 37 4 9
 1
 end_operator
 begin_operator
@@ -26466,8 +26466,8 @@ overcome sciatica-5 intoxication muffin uranus earth
 1
 4 4
 2
-0 37 4 9
 0 32 0 3
+0 37 4 9
 1
 end_operator
 begin_operator
@@ -26475,8 +26475,8 @@ overcome sciatica-5 intoxication pepper earth mars
 1
 4 5
 2
-0 37 5 9
 0 32 1 0
+0 37 5 9
 1
 end_operator
 begin_operator
@@ -26484,8 +26484,8 @@ overcome sciatica-5 intoxication pepper mars saturn
 1
 4 5
 2
-0 37 5 9
 0 32 2 1
+0 37 5 9
 1
 end_operator
 begin_operator
@@ -26493,8 +26493,8 @@ overcome sciatica-5 intoxication pepper uranus earth
 1
 4 5
 2
-0 37 5 9
 0 32 0 3
+0 37 5 9
 1
 end_operator
 begin_operator
@@ -26502,8 +26502,8 @@ overcome sciatica-5 intoxication potato earth mars
 1
 4 6
 2
-0 37 6 9
 0 32 1 0
+0 37 6 9
 1
 end_operator
 begin_operator
@@ -26511,8 +26511,8 @@ overcome sciatica-5 intoxication potato mars saturn
 1
 4 6
 2
-0 37 6 9
 0 32 2 1
+0 37 6 9
 1
 end_operator
 begin_operator
@@ -26520,8 +26520,8 @@ overcome sciatica-5 intoxication potato uranus earth
 1
 4 6
 2
-0 37 6 9
 0 32 0 3
+0 37 6 9
 1
 end_operator
 begin_operator
@@ -26529,8 +26529,8 @@ overcome sciatica-5 intoxication wurst earth mars
 1
 4 7
 2
-0 37 7 9
 0 32 1 0
+0 37 7 9
 1
 end_operator
 begin_operator
@@ -26538,8 +26538,8 @@ overcome sciatica-5 intoxication wurst mars saturn
 1
 4 7
 2
-0 37 7 9
 0 32 2 1
+0 37 7 9
 1
 end_operator
 begin_operator
@@ -26547,8 +26547,8 @@ overcome sciatica-5 intoxication wurst uranus earth
 1
 4 7
 2
-0 37 7 9
 0 32 0 3
+0 37 7 9
 1
 end_operator
 begin_operator
@@ -26556,8 +26556,8 @@ overcome sciatica-5 learning hamburger earth mars
 1
 6 0
 2
-0 37 0 10
 0 35 1 0
+0 37 0 10
 1
 end_operator
 begin_operator
@@ -26565,8 +26565,8 @@ overcome sciatica-5 learning hamburger mars saturn
 1
 6 0
 2
-0 37 0 10
 0 35 2 1
+0 37 0 10
 1
 end_operator
 begin_operator
@@ -26574,8 +26574,8 @@ overcome sciatica-5 learning hamburger uranus earth
 1
 6 0
 2
-0 37 0 10
 0 35 0 3
+0 37 0 10
 1
 end_operator
 begin_operator
@@ -26583,8 +26583,8 @@ overcome sciatica-5 learning lemon earth mars
 1
 6 1
 2
-0 37 1 10
 0 35 1 0
+0 37 1 10
 1
 end_operator
 begin_operator
@@ -26592,8 +26592,8 @@ overcome sciatica-5 learning lemon mars saturn
 1
 6 1
 2
-0 37 1 10
 0 35 2 1
+0 37 1 10
 1
 end_operator
 begin_operator
@@ -26601,8 +26601,8 @@ overcome sciatica-5 learning lemon uranus earth
 1
 6 1
 2
-0 37 1 10
 0 35 0 3
+0 37 1 10
 1
 end_operator
 begin_operator
@@ -26610,8 +26610,8 @@ overcome sciatica-5 learning lobster earth mars
 1
 6 2
 2
-0 37 2 10
 0 35 1 0
+0 37 2 10
 1
 end_operator
 begin_operator
@@ -26619,8 +26619,8 @@ overcome sciatica-5 learning lobster mars saturn
 1
 6 2
 2
-0 37 2 10
 0 35 2 1
+0 37 2 10
 1
 end_operator
 begin_operator
@@ -26628,8 +26628,8 @@ overcome sciatica-5 learning lobster uranus earth
 1
 6 2
 2
-0 37 2 10
 0 35 0 3
+0 37 2 10
 1
 end_operator
 begin_operator
@@ -26637,8 +26637,8 @@ overcome sciatica-5 learning melon earth mars
 1
 6 3
 2
-0 37 3 10
 0 35 1 0
+0 37 3 10
 1
 end_operator
 begin_operator
@@ -26646,8 +26646,8 @@ overcome sciatica-5 learning melon mars saturn
 1
 6 3
 2
-0 37 3 10
 0 35 2 1
+0 37 3 10
 1
 end_operator
 begin_operator
@@ -26655,8 +26655,8 @@ overcome sciatica-5 learning melon uranus earth
 1
 6 3
 2
-0 37 3 10
 0 35 0 3
+0 37 3 10
 1
 end_operator
 begin_operator
@@ -26664,8 +26664,8 @@ overcome sciatica-5 learning muffin earth mars
 1
 6 4
 2
-0 37 4 10
 0 35 1 0
+0 37 4 10
 1
 end_operator
 begin_operator
@@ -26673,8 +26673,8 @@ overcome sciatica-5 learning muffin mars saturn
 1
 6 4
 2
-0 37 4 10
 0 35 2 1
+0 37 4 10
 1
 end_operator
 begin_operator
@@ -26682,8 +26682,8 @@ overcome sciatica-5 learning muffin uranus earth
 1
 6 4
 2
-0 37 4 10
 0 35 0 3
+0 37 4 10
 1
 end_operator
 begin_operator
@@ -26691,8 +26691,8 @@ overcome sciatica-5 learning pepper earth mars
 1
 6 5
 2
-0 37 5 10
 0 35 1 0
+0 37 5 10
 1
 end_operator
 begin_operator
@@ -26700,8 +26700,8 @@ overcome sciatica-5 learning pepper mars saturn
 1
 6 5
 2
-0 37 5 10
 0 35 2 1
+0 37 5 10
 1
 end_operator
 begin_operator
@@ -26709,8 +26709,8 @@ overcome sciatica-5 learning pepper uranus earth
 1
 6 5
 2
-0 37 5 10
 0 35 0 3
+0 37 5 10
 1
 end_operator
 begin_operator
@@ -26718,8 +26718,8 @@ overcome sciatica-5 learning potato earth mars
 1
 6 6
 2
-0 37 6 10
 0 35 1 0
+0 37 6 10
 1
 end_operator
 begin_operator
@@ -26727,8 +26727,8 @@ overcome sciatica-5 learning potato mars saturn
 1
 6 6
 2
-0 37 6 10
 0 35 2 1
+0 37 6 10
 1
 end_operator
 begin_operator
@@ -26736,8 +26736,8 @@ overcome sciatica-5 learning potato uranus earth
 1
 6 6
 2
-0 37 6 10
 0 35 0 3
+0 37 6 10
 1
 end_operator
 begin_operator
@@ -26745,8 +26745,8 @@ overcome sciatica-5 learning wurst earth mars
 1
 6 7
 2
-0 37 7 10
 0 35 1 0
+0 37 7 10
 1
 end_operator
 begin_operator
@@ -26754,8 +26754,8 @@ overcome sciatica-5 learning wurst mars saturn
 1
 6 7
 2
-0 37 7 10
 0 35 2 1
+0 37 7 10
 1
 end_operator
 begin_operator
@@ -26763,8 +26763,8 @@ overcome sciatica-5 learning wurst uranus earth
 1
 6 7
 2
-0 37 7 10
 0 35 0 3
+0 37 7 10
 1
 end_operator
 begin_operator
@@ -26772,8 +26772,8 @@ overcome sciatica-5 rest hamburger earth mars
 1
 9 0
 2
-0 37 0 11
 0 36 1 0
+0 37 0 11
 1
 end_operator
 begin_operator
@@ -26781,8 +26781,8 @@ overcome sciatica-5 rest hamburger mars saturn
 1
 9 0
 2
-0 37 0 11
 0 36 2 1
+0 37 0 11
 1
 end_operator
 begin_operator
@@ -26790,8 +26790,8 @@ overcome sciatica-5 rest hamburger uranus earth
 1
 9 0
 2
-0 37 0 11
 0 36 0 3
+0 37 0 11
 1
 end_operator
 begin_operator
@@ -26799,8 +26799,8 @@ overcome sciatica-5 rest lemon earth mars
 1
 9 1
 2
-0 37 1 11
 0 36 1 0
+0 37 1 11
 1
 end_operator
 begin_operator
@@ -26808,8 +26808,8 @@ overcome sciatica-5 rest lemon mars saturn
 1
 9 1
 2
-0 37 1 11
 0 36 2 1
+0 37 1 11
 1
 end_operator
 begin_operator
@@ -26817,8 +26817,8 @@ overcome sciatica-5 rest lemon uranus earth
 1
 9 1
 2
-0 37 1 11
 0 36 0 3
+0 37 1 11
 1
 end_operator
 begin_operator
@@ -26826,8 +26826,8 @@ overcome sciatica-5 rest lobster earth mars
 1
 9 2
 2
-0 37 2 11
 0 36 1 0
+0 37 2 11
 1
 end_operator
 begin_operator
@@ -26835,8 +26835,8 @@ overcome sciatica-5 rest lobster mars saturn
 1
 9 2
 2
-0 37 2 11
 0 36 2 1
+0 37 2 11
 1
 end_operator
 begin_operator
@@ -26844,8 +26844,8 @@ overcome sciatica-5 rest lobster uranus earth
 1
 9 2
 2
-0 37 2 11
 0 36 0 3
+0 37 2 11
 1
 end_operator
 begin_operator
@@ -26853,8 +26853,8 @@ overcome sciatica-5 rest melon earth mars
 1
 9 3
 2
-0 37 3 11
 0 36 1 0
+0 37 3 11
 1
 end_operator
 begin_operator
@@ -26862,8 +26862,8 @@ overcome sciatica-5 rest melon mars saturn
 1
 9 3
 2
-0 37 3 11
 0 36 2 1
+0 37 3 11
 1
 end_operator
 begin_operator
@@ -26871,8 +26871,8 @@ overcome sciatica-5 rest melon uranus earth
 1
 9 3
 2
-0 37 3 11
 0 36 0 3
+0 37 3 11
 1
 end_operator
 begin_operator
@@ -26880,8 +26880,8 @@ overcome sciatica-5 rest muffin earth mars
 1
 9 4
 2
-0 37 4 11
 0 36 1 0
+0 37 4 11
 1
 end_operator
 begin_operator
@@ -26889,8 +26889,8 @@ overcome sciatica-5 rest muffin mars saturn
 1
 9 4
 2
-0 37 4 11
 0 36 2 1
+0 37 4 11
 1
 end_operator
 begin_operator
@@ -26898,8 +26898,8 @@ overcome sciatica-5 rest muffin uranus earth
 1
 9 4
 2
-0 37 4 11
 0 36 0 3
+0 37 4 11
 1
 end_operator
 begin_operator
@@ -26907,8 +26907,8 @@ overcome sciatica-5 rest pepper earth mars
 1
 9 5
 2
-0 37 5 11
 0 36 1 0
+0 37 5 11
 1
 end_operator
 begin_operator
@@ -26916,8 +26916,8 @@ overcome sciatica-5 rest pepper mars saturn
 1
 9 5
 2
-0 37 5 11
 0 36 2 1
+0 37 5 11
 1
 end_operator
 begin_operator
@@ -26925,8 +26925,8 @@ overcome sciatica-5 rest pepper uranus earth
 1
 9 5
 2
-0 37 5 11
 0 36 0 3
+0 37 5 11
 1
 end_operator
 begin_operator
@@ -26934,8 +26934,8 @@ overcome sciatica-5 rest potato earth mars
 1
 9 6
 2
-0 37 6 11
 0 36 1 0
+0 37 6 11
 1
 end_operator
 begin_operator
@@ -26943,8 +26943,8 @@ overcome sciatica-5 rest potato mars saturn
 1
 9 6
 2
-0 37 6 11
 0 36 2 1
+0 37 6 11
 1
 end_operator
 begin_operator
@@ -26952,8 +26952,8 @@ overcome sciatica-5 rest potato uranus earth
 1
 9 6
 2
-0 37 6 11
 0 36 0 3
+0 37 6 11
 1
 end_operator
 begin_operator
@@ -26961,8 +26961,8 @@ overcome sciatica-5 rest wurst earth mars
 1
 9 7
 2
-0 37 7 11
 0 36 1 0
+0 37 7 11
 1
 end_operator
 begin_operator
@@ -26970,8 +26970,8 @@ overcome sciatica-5 rest wurst mars saturn
 1
 9 7
 2
-0 37 7 11
 0 36 2 1
+0 37 7 11
 1
 end_operator
 begin_operator
@@ -26979,8 +26979,8 @@ overcome sciatica-5 rest wurst uranus earth
 1
 9 7
 2
-0 37 7 11
 0 36 0 3
+0 37 7 11
 1
 end_operator
 begin_operator
@@ -30444,8 +30444,8 @@ succumb angina excitement hamburger earth mars
 1
 0 0
 2
-0 39 8 0
 0 31 0 1
+0 39 8 0
 1
 end_operator
 begin_operator
@@ -30453,8 +30453,8 @@ succumb angina excitement hamburger mars saturn
 1
 0 0
 2
-0 39 8 0
 0 31 1 2
+0 39 8 0
 1
 end_operator
 begin_operator
@@ -30462,8 +30462,8 @@ succumb angina excitement hamburger uranus earth
 1
 0 0
 2
-0 39 8 0
 0 31 3 0
+0 39 8 0
 1
 end_operator
 begin_operator
@@ -30471,8 +30471,8 @@ succumb angina excitement lemon earth mars
 1
 0 1
 2
-0 39 8 1
 0 31 0 1
+0 39 8 1
 1
 end_operator
 begin_operator
@@ -30480,8 +30480,8 @@ succumb angina excitement lemon mars saturn
 1
 0 1
 2
-0 39 8 1
 0 31 1 2
+0 39 8 1
 1
 end_operator
 begin_operator
@@ -30489,8 +30489,8 @@ succumb angina excitement lemon uranus earth
 1
 0 1
 2
-0 39 8 1
 0 31 3 0
+0 39 8 1
 1
 end_operator
 begin_operator
@@ -30498,8 +30498,8 @@ succumb angina excitement lobster earth mars
 1
 0 2
 2
-0 39 8 2
 0 31 0 1
+0 39 8 2
 1
 end_operator
 begin_operator
@@ -30507,8 +30507,8 @@ succumb angina excitement lobster mars saturn
 1
 0 2
 2
-0 39 8 2
 0 31 1 2
+0 39 8 2
 1
 end_operator
 begin_operator
@@ -30516,8 +30516,8 @@ succumb angina excitement lobster uranus earth
 1
 0 2
 2
-0 39 8 2
 0 31 3 0
+0 39 8 2
 1
 end_operator
 begin_operator
@@ -30525,8 +30525,8 @@ succumb angina excitement melon earth mars
 1
 0 3
 2
-0 39 8 3
 0 31 0 1
+0 39 8 3
 1
 end_operator
 begin_operator
@@ -30534,8 +30534,8 @@ succumb angina excitement melon mars saturn
 1
 0 3
 2
-0 39 8 3
 0 31 1 2
+0 39 8 3
 1
 end_operator
 begin_operator
@@ -30543,8 +30543,8 @@ succumb angina excitement melon uranus earth
 1
 0 3
 2
-0 39 8 3
 0 31 3 0
+0 39 8 3
 1
 end_operator
 begin_operator
@@ -30552,8 +30552,8 @@ succumb angina excitement muffin earth mars
 1
 0 4
 2
-0 39 8 4
 0 31 0 1
+0 39 8 4
 1
 end_operator
 begin_operator
@@ -30561,8 +30561,8 @@ succumb angina excitement muffin mars saturn
 1
 0 4
 2
-0 39 8 4
 0 31 1 2
+0 39 8 4
 1
 end_operator
 begin_operator
@@ -30570,8 +30570,8 @@ succumb angina excitement muffin uranus earth
 1
 0 4
 2
-0 39 8 4
 0 31 3 0
+0 39 8 4
 1
 end_operator
 begin_operator
@@ -30579,8 +30579,8 @@ succumb angina excitement pepper earth mars
 1
 0 5
 2
-0 39 8 5
 0 31 0 1
+0 39 8 5
 1
 end_operator
 begin_operator
@@ -30588,8 +30588,8 @@ succumb angina excitement pepper mars saturn
 1
 0 5
 2
-0 39 8 5
 0 31 1 2
+0 39 8 5
 1
 end_operator
 begin_operator
@@ -30597,8 +30597,8 @@ succumb angina excitement pepper uranus earth
 1
 0 5
 2
-0 39 8 5
 0 31 3 0
+0 39 8 5
 1
 end_operator
 begin_operator
@@ -30606,8 +30606,8 @@ succumb angina excitement potato earth mars
 1
 0 6
 2
-0 39 8 6
 0 31 0 1
+0 39 8 6
 1
 end_operator
 begin_operator
@@ -30615,8 +30615,8 @@ succumb angina excitement potato mars saturn
 1
 0 6
 2
-0 39 8 6
 0 31 1 2
+0 39 8 6
 1
 end_operator
 begin_operator
@@ -30624,8 +30624,8 @@ succumb angina excitement potato uranus earth
 1
 0 6
 2
-0 39 8 6
 0 31 3 0
+0 39 8 6
 1
 end_operator
 begin_operator
@@ -30633,8 +30633,8 @@ succumb angina excitement wurst earth mars
 1
 0 7
 2
-0 39 8 7
 0 31 0 1
+0 39 8 7
 1
 end_operator
 begin_operator
@@ -30642,8 +30642,8 @@ succumb angina excitement wurst mars saturn
 1
 0 7
 2
-0 39 8 7
 0 31 1 2
+0 39 8 7
 1
 end_operator
 begin_operator
@@ -30651,8 +30651,8 @@ succumb angina excitement wurst uranus earth
 1
 0 7
 2
-0 39 8 7
 0 31 3 0
+0 39 8 7
 1
 end_operator
 begin_operator
@@ -30660,8 +30660,8 @@ succumb angina intoxication hamburger earth mars
 1
 4 0
 2
-0 39 9 0
 0 32 0 1
+0 39 9 0
 1
 end_operator
 begin_operator
@@ -30669,8 +30669,8 @@ succumb angina intoxication hamburger mars saturn
 1
 4 0
 2
-0 39 9 0
 0 32 1 2
+0 39 9 0
 1
 end_operator
 begin_operator
@@ -30678,8 +30678,8 @@ succumb angina intoxication hamburger uranus earth
 1
 4 0
 2
-0 39 9 0
 0 32 3 0
+0 39 9 0
 1
 end_operator
 begin_operator
@@ -30687,8 +30687,8 @@ succumb angina intoxication lemon earth mars
 1
 4 1
 2
-0 39 9 1
 0 32 0 1
+0 39 9 1
 1
 end_operator
 begin_operator
@@ -30696,8 +30696,8 @@ succumb angina intoxication lemon mars saturn
 1
 4 1
 2
-0 39 9 1
 0 32 1 2
+0 39 9 1
 1
 end_operator
 begin_operator
@@ -30705,8 +30705,8 @@ succumb angina intoxication lemon uranus earth
 1
 4 1
 2
-0 39 9 1
 0 32 3 0
+0 39 9 1
 1
 end_operator
 begin_operator
@@ -30714,8 +30714,8 @@ succumb angina intoxication lobster earth mars
 1
 4 2
 2
-0 39 9 2
 0 32 0 1
+0 39 9 2
 1
 end_operator
 begin_operator
@@ -30723,8 +30723,8 @@ succumb angina intoxication lobster mars saturn
 1
 4 2
 2
-0 39 9 2
 0 32 1 2
+0 39 9 2
 1
 end_operator
 begin_operator
@@ -30732,8 +30732,8 @@ succumb angina intoxication lobster uranus earth
 1
 4 2
 2
-0 39 9 2
 0 32 3 0
+0 39 9 2
 1
 end_operator
 begin_operator
@@ -30741,8 +30741,8 @@ succumb angina intoxication melon earth mars
 1
 4 3
 2
-0 39 9 3
 0 32 0 1
+0 39 9 3
 1
 end_operator
 begin_operator
@@ -30750,8 +30750,8 @@ succumb angina intoxication melon mars saturn
 1
 4 3
 2
-0 39 9 3
 0 32 1 2
+0 39 9 3
 1
 end_operator
 begin_operator
@@ -30759,8 +30759,8 @@ succumb angina intoxication melon uranus earth
 1
 4 3
 2
-0 39 9 3
 0 32 3 0
+0 39 9 3
 1
 end_operator
 begin_operator
@@ -30768,8 +30768,8 @@ succumb angina intoxication muffin earth mars
 1
 4 4
 2
-0 39 9 4
 0 32 0 1
+0 39 9 4
 1
 end_operator
 begin_operator
@@ -30777,8 +30777,8 @@ succumb angina intoxication muffin mars saturn
 1
 4 4
 2
-0 39 9 4
 0 32 1 2
+0 39 9 4
 1
 end_operator
 begin_operator
@@ -30786,8 +30786,8 @@ succumb angina intoxication muffin uranus earth
 1
 4 4
 2
-0 39 9 4
 0 32 3 0
+0 39 9 4
 1
 end_operator
 begin_operator
@@ -30795,8 +30795,8 @@ succumb angina intoxication pepper earth mars
 1
 4 5
 2
-0 39 9 5
 0 32 0 1
+0 39 9 5
 1
 end_operator
 begin_operator
@@ -30804,8 +30804,8 @@ succumb angina intoxication pepper mars saturn
 1
 4 5
 2
-0 39 9 5
 0 32 1 2
+0 39 9 5
 1
 end_operator
 begin_operator
@@ -30813,8 +30813,8 @@ succumb angina intoxication pepper uranus earth
 1
 4 5
 2
-0 39 9 5
 0 32 3 0
+0 39 9 5
 1
 end_operator
 begin_operator
@@ -30822,8 +30822,8 @@ succumb angina intoxication potato earth mars
 1
 4 6
 2
-0 39 9 6
 0 32 0 1
+0 39 9 6
 1
 end_operator
 begin_operator
@@ -30831,8 +30831,8 @@ succumb angina intoxication potato mars saturn
 1
 4 6
 2
-0 39 9 6
 0 32 1 2
+0 39 9 6
 1
 end_operator
 begin_operator
@@ -30840,8 +30840,8 @@ succumb angina intoxication potato uranus earth
 1
 4 6
 2
-0 39 9 6
 0 32 3 0
+0 39 9 6
 1
 end_operator
 begin_operator
@@ -30849,8 +30849,8 @@ succumb angina intoxication wurst earth mars
 1
 4 7
 2
-0 39 9 7
 0 32 0 1
+0 39 9 7
 1
 end_operator
 begin_operator
@@ -30858,8 +30858,8 @@ succumb angina intoxication wurst mars saturn
 1
 4 7
 2
-0 39 9 7
 0 32 1 2
+0 39 9 7
 1
 end_operator
 begin_operator
@@ -30867,8 +30867,8 @@ succumb angina intoxication wurst uranus earth
 1
 4 7
 2
-0 39 9 7
 0 32 3 0
+0 39 9 7
 1
 end_operator
 begin_operator
@@ -30876,8 +30876,8 @@ succumb angina learning hamburger earth mars
 1
 6 0
 2
-0 39 10 0
 0 35 0 1
+0 39 10 0
 1
 end_operator
 begin_operator
@@ -30885,8 +30885,8 @@ succumb angina learning hamburger mars saturn
 1
 6 0
 2
-0 39 10 0
 0 35 1 2
+0 39 10 0
 1
 end_operator
 begin_operator
@@ -30894,8 +30894,8 @@ succumb angina learning hamburger uranus earth
 1
 6 0
 2
-0 39 10 0
 0 35 3 0
+0 39 10 0
 1
 end_operator
 begin_operator
@@ -30903,8 +30903,8 @@ succumb angina learning lemon earth mars
 1
 6 1
 2
-0 39 10 1
 0 35 0 1
+0 39 10 1
 1
 end_operator
 begin_operator
@@ -30912,8 +30912,8 @@ succumb angina learning lemon mars saturn
 1
 6 1
 2
-0 39 10 1
 0 35 1 2
+0 39 10 1
 1
 end_operator
 begin_operator
@@ -30921,8 +30921,8 @@ succumb angina learning lemon uranus earth
 1
 6 1
 2
-0 39 10 1
 0 35 3 0
+0 39 10 1
 1
 end_operator
 begin_operator
@@ -30930,8 +30930,8 @@ succumb angina learning lobster earth mars
 1
 6 2
 2
-0 39 10 2
 0 35 0 1
+0 39 10 2
 1
 end_operator
 begin_operator
@@ -30939,8 +30939,8 @@ succumb angina learning lobster mars saturn
 1
 6 2
 2
-0 39 10 2
 0 35 1 2
+0 39 10 2
 1
 end_operator
 begin_operator
@@ -30948,8 +30948,8 @@ succumb angina learning lobster uranus earth
 1
 6 2
 2
-0 39 10 2
 0 35 3 0
+0 39 10 2
 1
 end_operator
 begin_operator
@@ -30957,8 +30957,8 @@ succumb angina learning melon earth mars
 1
 6 3
 2
-0 39 10 3
 0 35 0 1
+0 39 10 3
 1
 end_operator
 begin_operator
@@ -30966,8 +30966,8 @@ succumb angina learning melon mars saturn
 1
 6 3
 2
-0 39 10 3
 0 35 1 2
+0 39 10 3
 1
 end_operator
 begin_operator
@@ -30975,8 +30975,8 @@ succumb angina learning melon uranus earth
 1
 6 3
 2
-0 39 10 3
 0 35 3 0
+0 39 10 3
 1
 end_operator
 begin_operator
@@ -30984,8 +30984,8 @@ succumb angina learning muffin earth mars
 1
 6 4
 2
-0 39 10 4
 0 35 0 1
+0 39 10 4
 1
 end_operator
 begin_operator
@@ -30993,8 +30993,8 @@ succumb angina learning muffin mars saturn
 1
 6 4
 2
-0 39 10 4
 0 35 1 2
+0 39 10 4
 1
 end_operator
 begin_operator
@@ -31002,8 +31002,8 @@ succumb angina learning muffin uranus earth
 1
 6 4
 2
-0 39 10 4
 0 35 3 0
+0 39 10 4
 1
 end_operator
 begin_operator
@@ -31011,8 +31011,8 @@ succumb angina learning pepper earth mars
 1
 6 5
 2
-0 39 10 5
 0 35 0 1
+0 39 10 5
 1
 end_operator
 begin_operator
@@ -31020,8 +31020,8 @@ succumb angina learning pepper mars saturn
 1
 6 5
 2
-0 39 10 5
 0 35 1 2
+0 39 10 5
 1
 end_operator
 begin_operator
@@ -31029,8 +31029,8 @@ succumb angina learning pepper uranus earth
 1
 6 5
 2
-0 39 10 5
 0 35 3 0
+0 39 10 5
 1
 end_operator
 begin_operator
@@ -31038,8 +31038,8 @@ succumb angina learning potato earth mars
 1
 6 6
 2
-0 39 10 6
 0 35 0 1
+0 39 10 6
 1
 end_operator
 begin_operator
@@ -31047,8 +31047,8 @@ succumb angina learning potato mars saturn
 1
 6 6
 2
-0 39 10 6
 0 35 1 2
+0 39 10 6
 1
 end_operator
 begin_operator
@@ -31056,8 +31056,8 @@ succumb angina learning potato uranus earth
 1
 6 6
 2
-0 39 10 6
 0 35 3 0
+0 39 10 6
 1
 end_operator
 begin_operator
@@ -31065,8 +31065,8 @@ succumb angina learning wurst earth mars
 1
 6 7
 2
-0 39 10 7
 0 35 0 1
+0 39 10 7
 1
 end_operator
 begin_operator
@@ -31074,8 +31074,8 @@ succumb angina learning wurst mars saturn
 1
 6 7
 2
-0 39 10 7
 0 35 1 2
+0 39 10 7
 1
 end_operator
 begin_operator
@@ -31083,8 +31083,8 @@ succumb angina learning wurst uranus earth
 1
 6 7
 2
-0 39 10 7
 0 35 3 0
+0 39 10 7
 1
 end_operator
 begin_operator
@@ -31092,8 +31092,8 @@ succumb angina rest hamburger earth mars
 1
 9 0
 2
-0 39 11 0
 0 36 0 1
+0 39 11 0
 1
 end_operator
 begin_operator
@@ -31101,8 +31101,8 @@ succumb angina rest hamburger mars saturn
 1
 9 0
 2
-0 39 11 0
 0 36 1 2
+0 39 11 0
 1
 end_operator
 begin_operator
@@ -31110,8 +31110,8 @@ succumb angina rest hamburger uranus earth
 1
 9 0
 2
-0 39 11 0
 0 36 3 0
+0 39 11 0
 1
 end_operator
 begin_operator
@@ -31119,8 +31119,8 @@ succumb angina rest lemon earth mars
 1
 9 1
 2
-0 39 11 1
 0 36 0 1
+0 39 11 1
 1
 end_operator
 begin_operator
@@ -31128,8 +31128,8 @@ succumb angina rest lemon mars saturn
 1
 9 1
 2
-0 39 11 1
 0 36 1 2
+0 39 11 1
 1
 end_operator
 begin_operator
@@ -31137,8 +31137,8 @@ succumb angina rest lemon uranus earth
 1
 9 1
 2
-0 39 11 1
 0 36 3 0
+0 39 11 1
 1
 end_operator
 begin_operator
@@ -31146,8 +31146,8 @@ succumb angina rest lobster earth mars
 1
 9 2
 2
-0 39 11 2
 0 36 0 1
+0 39 11 2
 1
 end_operator
 begin_operator
@@ -31155,8 +31155,8 @@ succumb angina rest lobster mars saturn
 1
 9 2
 2
-0 39 11 2
 0 36 1 2
+0 39 11 2
 1
 end_operator
 begin_operator
@@ -31164,8 +31164,8 @@ succumb angina rest lobster uranus earth
 1
 9 2
 2
-0 39 11 2
 0 36 3 0
+0 39 11 2
 1
 end_operator
 begin_operator
@@ -31173,8 +31173,8 @@ succumb angina rest melon earth mars
 1
 9 3
 2
-0 39 11 3
 0 36 0 1
+0 39 11 3
 1
 end_operator
 begin_operator
@@ -31182,8 +31182,8 @@ succumb angina rest melon mars saturn
 1
 9 3
 2
-0 39 11 3
 0 36 1 2
+0 39 11 3
 1
 end_operator
 begin_operator
@@ -31191,8 +31191,8 @@ succumb angina rest melon uranus earth
 1
 9 3
 2
-0 39 11 3
 0 36 3 0
+0 39 11 3
 1
 end_operator
 begin_operator
@@ -31200,8 +31200,8 @@ succumb angina rest muffin earth mars
 1
 9 4
 2
-0 39 11 4
 0 36 0 1
+0 39 11 4
 1
 end_operator
 begin_operator
@@ -31209,8 +31209,8 @@ succumb angina rest muffin mars saturn
 1
 9 4
 2
-0 39 11 4
 0 36 1 2
+0 39 11 4
 1
 end_operator
 begin_operator
@@ -31218,8 +31218,8 @@ succumb angina rest muffin uranus earth
 1
 9 4
 2
-0 39 11 4
 0 36 3 0
+0 39 11 4
 1
 end_operator
 begin_operator
@@ -31227,8 +31227,8 @@ succumb angina rest pepper earth mars
 1
 9 5
 2
-0 39 11 5
 0 36 0 1
+0 39 11 5
 1
 end_operator
 begin_operator
@@ -31236,8 +31236,8 @@ succumb angina rest pepper mars saturn
 1
 9 5
 2
-0 39 11 5
 0 36 1 2
+0 39 11 5
 1
 end_operator
 begin_operator
@@ -31245,8 +31245,8 @@ succumb angina rest pepper uranus earth
 1
 9 5
 2
-0 39 11 5
 0 36 3 0
+0 39 11 5
 1
 end_operator
 begin_operator
@@ -31254,8 +31254,8 @@ succumb angina rest potato earth mars
 1
 9 6
 2
-0 39 11 6
 0 36 0 1
+0 39 11 6
 1
 end_operator
 begin_operator
@@ -31263,8 +31263,8 @@ succumb angina rest potato mars saturn
 1
 9 6
 2
-0 39 11 6
 0 36 1 2
+0 39 11 6
 1
 end_operator
 begin_operator
@@ -31272,8 +31272,8 @@ succumb angina rest potato uranus earth
 1
 9 6
 2
-0 39 11 6
 0 36 3 0
+0 39 11 6
 1
 end_operator
 begin_operator
@@ -31281,8 +31281,8 @@ succumb angina rest wurst earth mars
 1
 9 7
 2
-0 39 11 7
 0 36 0 1
+0 39 11 7
 1
 end_operator
 begin_operator
@@ -31290,8 +31290,8 @@ succumb angina rest wurst mars saturn
 1
 9 7
 2
-0 39 11 7
 0 36 1 2
+0 39 11 7
 1
 end_operator
 begin_operator
@@ -31299,8 +31299,8 @@ succumb angina rest wurst uranus earth
 1
 9 7
 2
-0 39 11 7
 0 36 3 0
+0 39 11 7
 1
 end_operator
 begin_operator
@@ -31308,8 +31308,8 @@ succumb angina satiety hamburger earth mars
 1
 11 0
 2
-0 39 12 0
 0 38 0 1
+0 39 12 0
 1
 end_operator
 begin_operator
@@ -31317,8 +31317,8 @@ succumb angina satiety hamburger mars saturn
 1
 11 0
 2
-0 39 12 0
 0 38 1 2
+0 39 12 0
 1
 end_operator
 begin_operator
@@ -31326,8 +31326,8 @@ succumb angina satiety hamburger uranus earth
 1
 11 0
 2
-0 39 12 0
 0 38 3 0
+0 39 12 0
 1
 end_operator
 begin_operator
@@ -31335,8 +31335,8 @@ succumb angina satiety lemon earth mars
 1
 11 1
 2
-0 39 12 1
 0 38 0 1
+0 39 12 1
 1
 end_operator
 begin_operator
@@ -31344,8 +31344,8 @@ succumb angina satiety lemon mars saturn
 1
 11 1
 2
-0 39 12 1
 0 38 1 2
+0 39 12 1
 1
 end_operator
 begin_operator
@@ -31353,8 +31353,8 @@ succumb angina satiety lemon uranus earth
 1
 11 1
 2
-0 39 12 1
 0 38 3 0
+0 39 12 1
 1
 end_operator
 begin_operator
@@ -31362,8 +31362,8 @@ succumb angina satiety lobster earth mars
 1
 11 2
 2
-0 39 12 2
 0 38 0 1
+0 39 12 2
 1
 end_operator
 begin_operator
@@ -31371,8 +31371,8 @@ succumb angina satiety lobster mars saturn
 1
 11 2
 2
-0 39 12 2
 0 38 1 2
+0 39 12 2
 1
 end_operator
 begin_operator
@@ -31380,8 +31380,8 @@ succumb angina satiety lobster uranus earth
 1
 11 2
 2
-0 39 12 2
 0 38 3 0
+0 39 12 2
 1
 end_operator
 begin_operator
@@ -31389,8 +31389,8 @@ succumb angina satiety melon earth mars
 1
 11 3
 2
-0 39 12 3
 0 38 0 1
+0 39 12 3
 1
 end_operator
 begin_operator
@@ -31398,8 +31398,8 @@ succumb angina satiety melon mars saturn
 1
 11 3
 2
-0 39 12 3
 0 38 1 2
+0 39 12 3
 1
 end_operator
 begin_operator
@@ -31407,8 +31407,8 @@ succumb angina satiety melon uranus earth
 1
 11 3
 2
-0 39 12 3
 0 38 3 0
+0 39 12 3
 1
 end_operator
 begin_operator
@@ -31416,8 +31416,8 @@ succumb angina satiety muffin earth mars
 1
 11 4
 2
-0 39 12 4
 0 38 0 1
+0 39 12 4
 1
 end_operator
 begin_operator
@@ -31425,8 +31425,8 @@ succumb angina satiety muffin mars saturn
 1
 11 4
 2
-0 39 12 4
 0 38 1 2
+0 39 12 4
 1
 end_operator
 begin_operator
@@ -31434,8 +31434,8 @@ succumb angina satiety muffin uranus earth
 1
 11 4
 2
-0 39 12 4
 0 38 3 0
+0 39 12 4
 1
 end_operator
 begin_operator
@@ -31443,8 +31443,8 @@ succumb angina satiety pepper earth mars
 1
 11 5
 2
-0 39 12 5
 0 38 0 1
+0 39 12 5
 1
 end_operator
 begin_operator
@@ -31452,8 +31452,8 @@ succumb angina satiety pepper mars saturn
 1
 11 5
 2
-0 39 12 5
 0 38 1 2
+0 39 12 5
 1
 end_operator
 begin_operator
@@ -31461,8 +31461,8 @@ succumb angina satiety pepper uranus earth
 1
 11 5
 2
-0 39 12 5
 0 38 3 0
+0 39 12 5
 1
 end_operator
 begin_operator
@@ -31470,8 +31470,8 @@ succumb angina satiety potato earth mars
 1
 11 6
 2
-0 39 12 6
 0 38 0 1
+0 39 12 6
 1
 end_operator
 begin_operator
@@ -31479,8 +31479,8 @@ succumb angina satiety potato mars saturn
 1
 11 6
 2
-0 39 12 6
 0 38 1 2
+0 39 12 6
 1
 end_operator
 begin_operator
@@ -31488,8 +31488,8 @@ succumb angina satiety potato uranus earth
 1
 11 6
 2
-0 39 12 6
 0 38 3 0
+0 39 12 6
 1
 end_operator
 begin_operator
@@ -31497,8 +31497,8 @@ succumb angina satiety wurst earth mars
 1
 11 7
 2
-0 39 12 7
 0 38 0 1
+0 39 12 7
 1
 end_operator
 begin_operator
@@ -31506,8 +31506,8 @@ succumb angina satiety wurst mars saturn
 1
 11 7
 2
-0 39 12 7
 0 38 1 2
+0 39 12 7
 1
 end_operator
 begin_operator
@@ -31515,8 +31515,8 @@ succumb angina satiety wurst uranus earth
 1
 11 7
 2
-0 39 12 7
 0 38 3 0
+0 39 12 7
 1
 end_operator
 begin_operator
@@ -47724,8 +47724,8 @@ succumb prostatitis-3 excitement hamburger earth mars
 1
 0 0
 2
-0 33 8 0
 0 31 0 1
+0 33 8 0
 1
 end_operator
 begin_operator
@@ -47733,8 +47733,8 @@ succumb prostatitis-3 excitement hamburger mars saturn
 1
 0 0
 2
-0 33 8 0
 0 31 1 2
+0 33 8 0
 1
 end_operator
 begin_operator
@@ -47742,8 +47742,8 @@ succumb prostatitis-3 excitement hamburger uranus earth
 1
 0 0
 2
-0 33 8 0
 0 31 3 0
+0 33 8 0
 1
 end_operator
 begin_operator
@@ -47751,8 +47751,8 @@ succumb prostatitis-3 excitement lemon earth mars
 1
 0 1
 2
-0 33 8 1
 0 31 0 1
+0 33 8 1
 1
 end_operator
 begin_operator
@@ -47760,8 +47760,8 @@ succumb prostatitis-3 excitement lemon mars saturn
 1
 0 1
 2
-0 33 8 1
 0 31 1 2
+0 33 8 1
 1
 end_operator
 begin_operator
@@ -47769,8 +47769,8 @@ succumb prostatitis-3 excitement lemon uranus earth
 1
 0 1
 2
-0 33 8 1
 0 31 3 0
+0 33 8 1
 1
 end_operator
 begin_operator
@@ -47778,8 +47778,8 @@ succumb prostatitis-3 excitement lobster earth mars
 1
 0 2
 2
-0 33 8 2
 0 31 0 1
+0 33 8 2
 1
 end_operator
 begin_operator
@@ -47787,8 +47787,8 @@ succumb prostatitis-3 excitement lobster mars saturn
 1
 0 2
 2
-0 33 8 2
 0 31 1 2
+0 33 8 2
 1
 end_operator
 begin_operator
@@ -47796,8 +47796,8 @@ succumb prostatitis-3 excitement lobster uranus earth
 1
 0 2
 2
-0 33 8 2
 0 31 3 0
+0 33 8 2
 1
 end_operator
 begin_operator
@@ -47805,8 +47805,8 @@ succumb prostatitis-3 excitement melon earth mars
 1
 0 3
 2
-0 33 8 3
 0 31 0 1
+0 33 8 3
 1
 end_operator
 begin_operator
@@ -47814,8 +47814,8 @@ succumb prostatitis-3 excitement melon mars saturn
 1
 0 3
 2
-0 33 8 3
 0 31 1 2
+0 33 8 3
 1
 end_operator
 begin_operator
@@ -47823,8 +47823,8 @@ succumb prostatitis-3 excitement melon uranus earth
 1
 0 3
 2
-0 33 8 3
 0 31 3 0
+0 33 8 3
 1
 end_operator
 begin_operator
@@ -47832,8 +47832,8 @@ succumb prostatitis-3 excitement muffin earth mars
 1
 0 4
 2
-0 33 8 4
 0 31 0 1
+0 33 8 4
 1
 end_operator
 begin_operator
@@ -47841,8 +47841,8 @@ succumb prostatitis-3 excitement muffin mars saturn
 1
 0 4
 2
-0 33 8 4
 0 31 1 2
+0 33 8 4
 1
 end_operator
 begin_operator
@@ -47850,8 +47850,8 @@ succumb prostatitis-3 excitement muffin uranus earth
 1
 0 4
 2
-0 33 8 4
 0 31 3 0
+0 33 8 4
 1
 end_operator
 begin_operator
@@ -47859,8 +47859,8 @@ succumb prostatitis-3 excitement pepper earth mars
 1
 0 5
 2
-0 33 8 5
 0 31 0 1
+0 33 8 5
 1
 end_operator
 begin_operator
@@ -47868,8 +47868,8 @@ succumb prostatitis-3 excitement pepper mars saturn
 1
 0 5
 2
-0 33 8 5
 0 31 1 2
+0 33 8 5
 1
 end_operator
 begin_operator
@@ -47877,8 +47877,8 @@ succumb prostatitis-3 excitement pepper uranus earth
 1
 0 5
 2
-0 33 8 5
 0 31 3 0
+0 33 8 5
 1
 end_operator
 begin_operator
@@ -47886,8 +47886,8 @@ succumb prostatitis-3 excitement potato earth mars
 1
 0 6
 2
-0 33 8 6
 0 31 0 1
+0 33 8 6
 1
 end_operator
 begin_operator
@@ -47895,8 +47895,8 @@ succumb prostatitis-3 excitement potato mars saturn
 1
 0 6
 2
-0 33 8 6
 0 31 1 2
+0 33 8 6
 1
 end_operator
 begin_operator
@@ -47904,8 +47904,8 @@ succumb prostatitis-3 excitement potato uranus earth
 1
 0 6
 2
-0 33 8 6
 0 31 3 0
+0 33 8 6
 1
 end_operator
 begin_operator
@@ -47913,8 +47913,8 @@ succumb prostatitis-3 excitement wurst earth mars
 1
 0 7
 2
-0 33 8 7
 0 31 0 1
+0 33 8 7
 1
 end_operator
 begin_operator
@@ -47922,8 +47922,8 @@ succumb prostatitis-3 excitement wurst mars saturn
 1
 0 7
 2
-0 33 8 7
 0 31 1 2
+0 33 8 7
 1
 end_operator
 begin_operator
@@ -47931,8 +47931,8 @@ succumb prostatitis-3 excitement wurst uranus earth
 1
 0 7
 2
-0 33 8 7
 0 31 3 0
+0 33 8 7
 1
 end_operator
 begin_operator
@@ -47940,8 +47940,8 @@ succumb prostatitis-3 intoxication hamburger earth mars
 1
 4 0
 2
-0 33 9 0
 0 32 0 1
+0 33 9 0
 1
 end_operator
 begin_operator
@@ -47949,8 +47949,8 @@ succumb prostatitis-3 intoxication hamburger mars saturn
 1
 4 0
 2
-0 33 9 0
 0 32 1 2
+0 33 9 0
 1
 end_operator
 begin_operator
@@ -47958,8 +47958,8 @@ succumb prostatitis-3 intoxication hamburger uranus earth
 1
 4 0
 2
-0 33 9 0
 0 32 3 0
+0 33 9 0
 1
 end_operator
 begin_operator
@@ -47967,8 +47967,8 @@ succumb prostatitis-3 intoxication lemon earth mars
 1
 4 1
 2
-0 33 9 1
 0 32 0 1
+0 33 9 1
 1
 end_operator
 begin_operator
@@ -47976,8 +47976,8 @@ succumb prostatitis-3 intoxication lemon mars saturn
 1
 4 1
 2
-0 33 9 1
 0 32 1 2
+0 33 9 1
 1
 end_operator
 begin_operator
@@ -47985,8 +47985,8 @@ succumb prostatitis-3 intoxication lemon uranus earth
 1
 4 1
 2
-0 33 9 1
 0 32 3 0
+0 33 9 1
 1
 end_operator
 begin_operator
@@ -47994,8 +47994,8 @@ succumb prostatitis-3 intoxication lobster earth mars
 1
 4 2
 2
-0 33 9 2
 0 32 0 1
+0 33 9 2
 1
 end_operator
 begin_operator
@@ -48003,8 +48003,8 @@ succumb prostatitis-3 intoxication lobster mars saturn
 1
 4 2
 2
-0 33 9 2
 0 32 1 2
+0 33 9 2
 1
 end_operator
 begin_operator
@@ -48012,8 +48012,8 @@ succumb prostatitis-3 intoxication lobster uranus earth
 1
 4 2
 2
-0 33 9 2
 0 32 3 0
+0 33 9 2
 1
 end_operator
 begin_operator
@@ -48021,8 +48021,8 @@ succumb prostatitis-3 intoxication melon earth mars
 1
 4 3
 2
-0 33 9 3
 0 32 0 1
+0 33 9 3
 1
 end_operator
 begin_operator
@@ -48030,8 +48030,8 @@ succumb prostatitis-3 intoxication melon mars saturn
 1
 4 3
 2
-0 33 9 3
 0 32 1 2
+0 33 9 3
 1
 end_operator
 begin_operator
@@ -48039,8 +48039,8 @@ succumb prostatitis-3 intoxication melon uranus earth
 1
 4 3
 2
-0 33 9 3
 0 32 3 0
+0 33 9 3
 1
 end_operator
 begin_operator
@@ -48048,8 +48048,8 @@ succumb prostatitis-3 intoxication muffin earth mars
 1
 4 4
 2
-0 33 9 4
 0 32 0 1
+0 33 9 4
 1
 end_operator
 begin_operator
@@ -48057,8 +48057,8 @@ succumb prostatitis-3 intoxication muffin mars saturn
 1
 4 4
 2
-0 33 9 4
 0 32 1 2
+0 33 9 4
 1
 end_operator
 begin_operator
@@ -48066,8 +48066,8 @@ succumb prostatitis-3 intoxication muffin uranus earth
 1
 4 4
 2
-0 33 9 4
 0 32 3 0
+0 33 9 4
 1
 end_operator
 begin_operator
@@ -48075,8 +48075,8 @@ succumb prostatitis-3 intoxication pepper earth mars
 1
 4 5
 2
-0 33 9 5
 0 32 0 1
+0 33 9 5
 1
 end_operator
 begin_operator
@@ -48084,8 +48084,8 @@ succumb prostatitis-3 intoxication pepper mars saturn
 1
 4 5
 2
-0 33 9 5
 0 32 1 2
+0 33 9 5
 1
 end_operator
 begin_operator
@@ -48093,8 +48093,8 @@ succumb prostatitis-3 intoxication pepper uranus earth
 1
 4 5
 2
-0 33 9 5
 0 32 3 0
+0 33 9 5
 1
 end_operator
 begin_operator
@@ -48102,8 +48102,8 @@ succumb prostatitis-3 intoxication potato earth mars
 1
 4 6
 2
-0 33 9 6
 0 32 0 1
+0 33 9 6
 1
 end_operator
 begin_operator
@@ -48111,8 +48111,8 @@ succumb prostatitis-3 intoxication potato mars saturn
 1
 4 6
 2
-0 33 9 6
 0 32 1 2
+0 33 9 6
 1
 end_operator
 begin_operator
@@ -48120,8 +48120,8 @@ succumb prostatitis-3 intoxication potato uranus earth
 1
 4 6
 2
-0 33 9 6
 0 32 3 0
+0 33 9 6
 1
 end_operator
 begin_operator
@@ -48129,8 +48129,8 @@ succumb prostatitis-3 intoxication wurst earth mars
 1
 4 7
 2
-0 33 9 7
 0 32 0 1
+0 33 9 7
 1
 end_operator
 begin_operator
@@ -48138,8 +48138,8 @@ succumb prostatitis-3 intoxication wurst mars saturn
 1
 4 7
 2
-0 33 9 7
 0 32 1 2
+0 33 9 7
 1
 end_operator
 begin_operator
@@ -48147,8 +48147,8 @@ succumb prostatitis-3 intoxication wurst uranus earth
 1
 4 7
 2
-0 33 9 7
 0 32 3 0
+0 33 9 7
 1
 end_operator
 begin_operator
@@ -48804,8 +48804,8 @@ succumb sciatica excitement hamburger earth mars
 1
 0 0
 2
-0 34 8 0
 0 31 0 1
+0 34 8 0
 1
 end_operator
 begin_operator
@@ -48813,8 +48813,8 @@ succumb sciatica excitement hamburger mars saturn
 1
 0 0
 2
-0 34 8 0
 0 31 1 2
+0 34 8 0
 1
 end_operator
 begin_operator
@@ -48822,8 +48822,8 @@ succumb sciatica excitement hamburger uranus earth
 1
 0 0
 2
-0 34 8 0
 0 31 3 0
+0 34 8 0
 1
 end_operator
 begin_operator
@@ -48831,8 +48831,8 @@ succumb sciatica excitement lemon earth mars
 1
 0 1
 2
-0 34 8 1
 0 31 0 1
+0 34 8 1
 1
 end_operator
 begin_operator
@@ -48840,8 +48840,8 @@ succumb sciatica excitement lemon mars saturn
 1
 0 1
 2
-0 34 8 1
 0 31 1 2
+0 34 8 1
 1
 end_operator
 begin_operator
@@ -48849,8 +48849,8 @@ succumb sciatica excitement lemon uranus earth
 1
 0 1
 2
-0 34 8 1
 0 31 3 0
+0 34 8 1
 1
 end_operator
 begin_operator
@@ -48858,8 +48858,8 @@ succumb sciatica excitement lobster earth mars
 1
 0 2
 2
-0 34 8 2
 0 31 0 1
+0 34 8 2
 1
 end_operator
 begin_operator
@@ -48867,8 +48867,8 @@ succumb sciatica excitement lobster mars saturn
 1
 0 2
 2
-0 34 8 2
 0 31 1 2
+0 34 8 2
 1
 end_operator
 begin_operator
@@ -48876,8 +48876,8 @@ succumb sciatica excitement lobster uranus earth
 1
 0 2
 2
-0 34 8 2
 0 31 3 0
+0 34 8 2
 1
 end_operator
 begin_operator
@@ -48885,8 +48885,8 @@ succumb sciatica excitement melon earth mars
 1
 0 3
 2
-0 34 8 3
 0 31 0 1
+0 34 8 3
 1
 end_operator
 begin_operator
@@ -48894,8 +48894,8 @@ succumb sciatica excitement melon mars saturn
 1
 0 3
 2
-0 34 8 3
 0 31 1 2
+0 34 8 3
 1
 end_operator
 begin_operator
@@ -48903,8 +48903,8 @@ succumb sciatica excitement melon uranus earth
 1
 0 3
 2
-0 34 8 3
 0 31 3 0
+0 34 8 3
 1
 end_operator
 begin_operator
@@ -48912,8 +48912,8 @@ succumb sciatica excitement muffin earth mars
 1
 0 4
 2
-0 34 8 4
 0 31 0 1
+0 34 8 4
 1
 end_operator
 begin_operator
@@ -48921,8 +48921,8 @@ succumb sciatica excitement muffin mars saturn
 1
 0 4
 2
-0 34 8 4
 0 31 1 2
+0 34 8 4
 1
 end_operator
 begin_operator
@@ -48930,8 +48930,8 @@ succumb sciatica excitement muffin uranus earth
 1
 0 4
 2
-0 34 8 4
 0 31 3 0
+0 34 8 4
 1
 end_operator
 begin_operator
@@ -48939,8 +48939,8 @@ succumb sciatica excitement pepper earth mars
 1
 0 5
 2
-0 34 8 5
 0 31 0 1
+0 34 8 5
 1
 end_operator
 begin_operator
@@ -48948,8 +48948,8 @@ succumb sciatica excitement pepper mars saturn
 1
 0 5
 2
-0 34 8 5
 0 31 1 2
+0 34 8 5
 1
 end_operator
 begin_operator
@@ -48957,8 +48957,8 @@ succumb sciatica excitement pepper uranus earth
 1
 0 5
 2
-0 34 8 5
 0 31 3 0
+0 34 8 5
 1
 end_operator
 begin_operator
@@ -48966,8 +48966,8 @@ succumb sciatica excitement potato earth mars
 1
 0 6
 2
-0 34 8 6
 0 31 0 1
+0 34 8 6
 1
 end_operator
 begin_operator
@@ -48975,8 +48975,8 @@ succumb sciatica excitement potato mars saturn
 1
 0 6
 2
-0 34 8 6
 0 31 1 2
+0 34 8 6
 1
 end_operator
 begin_operator
@@ -48984,8 +48984,8 @@ succumb sciatica excitement potato uranus earth
 1
 0 6
 2
-0 34 8 6
 0 31 3 0
+0 34 8 6
 1
 end_operator
 begin_operator
@@ -48993,8 +48993,8 @@ succumb sciatica excitement wurst earth mars
 1
 0 7
 2
-0 34 8 7
 0 31 0 1
+0 34 8 7
 1
 end_operator
 begin_operator
@@ -49002,8 +49002,8 @@ succumb sciatica excitement wurst mars saturn
 1
 0 7
 2
-0 34 8 7
 0 31 1 2
+0 34 8 7
 1
 end_operator
 begin_operator
@@ -49011,8 +49011,8 @@ succumb sciatica excitement wurst uranus earth
 1
 0 7
 2
-0 34 8 7
 0 31 3 0
+0 34 8 7
 1
 end_operator
 begin_operator
@@ -49020,8 +49020,8 @@ succumb sciatica intoxication hamburger earth mars
 1
 4 0
 2
-0 34 9 0
 0 32 0 1
+0 34 9 0
 1
 end_operator
 begin_operator
@@ -49029,8 +49029,8 @@ succumb sciatica intoxication hamburger mars saturn
 1
 4 0
 2
-0 34 9 0
 0 32 1 2
+0 34 9 0
 1
 end_operator
 begin_operator
@@ -49038,8 +49038,8 @@ succumb sciatica intoxication hamburger uranus earth
 1
 4 0
 2
-0 34 9 0
 0 32 3 0
+0 34 9 0
 1
 end_operator
 begin_operator
@@ -49047,8 +49047,8 @@ succumb sciatica intoxication lemon earth mars
 1
 4 1
 2
-0 34 9 1
 0 32 0 1
+0 34 9 1
 1
 end_operator
 begin_operator
@@ -49056,8 +49056,8 @@ succumb sciatica intoxication lemon mars saturn
 1
 4 1
 2
-0 34 9 1
 0 32 1 2
+0 34 9 1
 1
 end_operator
 begin_operator
@@ -49065,8 +49065,8 @@ succumb sciatica intoxication lemon uranus earth
 1
 4 1
 2
-0 34 9 1
 0 32 3 0
+0 34 9 1
 1
 end_operator
 begin_operator
@@ -49074,8 +49074,8 @@ succumb sciatica intoxication lobster earth mars
 1
 4 2
 2
-0 34 9 2
 0 32 0 1
+0 34 9 2
 1
 end_operator
 begin_operator
@@ -49083,8 +49083,8 @@ succumb sciatica intoxication lobster mars saturn
 1
 4 2
 2
-0 34 9 2
 0 32 1 2
+0 34 9 2
 1
 end_operator
 begin_operator
@@ -49092,8 +49092,8 @@ succumb sciatica intoxication lobster uranus earth
 1
 4 2
 2
-0 34 9 2
 0 32 3 0
+0 34 9 2
 1
 end_operator
 begin_operator
@@ -49101,8 +49101,8 @@ succumb sciatica intoxication melon earth mars
 1
 4 3
 2
-0 34 9 3
 0 32 0 1
+0 34 9 3
 1
 end_operator
 begin_operator
@@ -49110,8 +49110,8 @@ succumb sciatica intoxication melon mars saturn
 1
 4 3
 2
-0 34 9 3
 0 32 1 2
+0 34 9 3
 1
 end_operator
 begin_operator
@@ -49119,8 +49119,8 @@ succumb sciatica intoxication melon uranus earth
 1
 4 3
 2
-0 34 9 3
 0 32 3 0
+0 34 9 3
 1
 end_operator
 begin_operator
@@ -49128,8 +49128,8 @@ succumb sciatica intoxication muffin earth mars
 1
 4 4
 2
-0 34 9 4
 0 32 0 1
+0 34 9 4
 1
 end_operator
 begin_operator
@@ -49137,8 +49137,8 @@ succumb sciatica intoxication muffin mars saturn
 1
 4 4
 2
-0 34 9 4
 0 32 1 2
+0 34 9 4
 1
 end_operator
 begin_operator
@@ -49146,8 +49146,8 @@ succumb sciatica intoxication muffin uranus earth
 1
 4 4
 2
-0 34 9 4
 0 32 3 0
+0 34 9 4
 1
 end_operator
 begin_operator
@@ -49155,8 +49155,8 @@ succumb sciatica intoxication pepper earth mars
 1
 4 5
 2
-0 34 9 5
 0 32 0 1
+0 34 9 5
 1
 end_operator
 begin_operator
@@ -49164,8 +49164,8 @@ succumb sciatica intoxication pepper mars saturn
 1
 4 5
 2
-0 34 9 5
 0 32 1 2
+0 34 9 5
 1
 end_operator
 begin_operator
@@ -49173,8 +49173,8 @@ succumb sciatica intoxication pepper uranus earth
 1
 4 5
 2
-0 34 9 5
 0 32 3 0
+0 34 9 5
 1
 end_operator
 begin_operator
@@ -49182,8 +49182,8 @@ succumb sciatica intoxication potato earth mars
 1
 4 6
 2
-0 34 9 6
 0 32 0 1
+0 34 9 6
 1
 end_operator
 begin_operator
@@ -49191,8 +49191,8 @@ succumb sciatica intoxication potato mars saturn
 1
 4 6
 2
-0 34 9 6
 0 32 1 2
+0 34 9 6
 1
 end_operator
 begin_operator
@@ -49200,8 +49200,8 @@ succumb sciatica intoxication potato uranus earth
 1
 4 6
 2
-0 34 9 6
 0 32 3 0
+0 34 9 6
 1
 end_operator
 begin_operator
@@ -49209,8 +49209,8 @@ succumb sciatica intoxication wurst earth mars
 1
 4 7
 2
-0 34 9 7
 0 32 0 1
+0 34 9 7
 1
 end_operator
 begin_operator
@@ -49218,8 +49218,8 @@ succumb sciatica intoxication wurst mars saturn
 1
 4 7
 2
-0 34 9 7
 0 32 1 2
+0 34 9 7
 1
 end_operator
 begin_operator
@@ -49227,8 +49227,8 @@ succumb sciatica intoxication wurst uranus earth
 1
 4 7
 2
-0 34 9 7
 0 32 3 0
+0 34 9 7
 1
 end_operator
 begin_operator
@@ -49884,8 +49884,8 @@ succumb sciatica-5 excitement hamburger earth mars
 1
 0 0
 2
-0 37 8 0
 0 31 0 1
+0 37 8 0
 1
 end_operator
 begin_operator
@@ -49893,8 +49893,8 @@ succumb sciatica-5 excitement hamburger mars saturn
 1
 0 0
 2
-0 37 8 0
 0 31 1 2
+0 37 8 0
 1
 end_operator
 begin_operator
@@ -49902,8 +49902,8 @@ succumb sciatica-5 excitement hamburger uranus earth
 1
 0 0
 2
-0 37 8 0
 0 31 3 0
+0 37 8 0
 1
 end_operator
 begin_operator
@@ -49911,8 +49911,8 @@ succumb sciatica-5 excitement lemon earth mars
 1
 0 1
 2
-0 37 8 1
 0 31 0 1
+0 37 8 1
 1
 end_operator
 begin_operator
@@ -49920,8 +49920,8 @@ succumb sciatica-5 excitement lemon mars saturn
 1
 0 1
 2
-0 37 8 1
 0 31 1 2
+0 37 8 1
 1
 end_operator
 begin_operator
@@ -49929,8 +49929,8 @@ succumb sciatica-5 excitement lemon uranus earth
 1
 0 1
 2
-0 37 8 1
 0 31 3 0
+0 37 8 1
 1
 end_operator
 begin_operator
@@ -49938,8 +49938,8 @@ succumb sciatica-5 excitement lobster earth mars
 1
 0 2
 2
-0 37 8 2
 0 31 0 1
+0 37 8 2
 1
 end_operator
 begin_operator
@@ -49947,8 +49947,8 @@ succumb sciatica-5 excitement lobster mars saturn
 1
 0 2
 2
-0 37 8 2
 0 31 1 2
+0 37 8 2
 1
 end_operator
 begin_operator
@@ -49956,8 +49956,8 @@ succumb sciatica-5 excitement lobster uranus earth
 1
 0 2
 2
-0 37 8 2
 0 31 3 0
+0 37 8 2
 1
 end_operator
 begin_operator
@@ -49965,8 +49965,8 @@ succumb sciatica-5 excitement melon earth mars
 1
 0 3
 2
-0 37 8 3
 0 31 0 1
+0 37 8 3
 1
 end_operator
 begin_operator
@@ -49974,8 +49974,8 @@ succumb sciatica-5 excitement melon mars saturn
 1
 0 3
 2
-0 37 8 3
 0 31 1 2
+0 37 8 3
 1
 end_operator
 begin_operator
@@ -49983,8 +49983,8 @@ succumb sciatica-5 excitement melon uranus earth
 1
 0 3
 2
-0 37 8 3
 0 31 3 0
+0 37 8 3
 1
 end_operator
 begin_operator
@@ -49992,8 +49992,8 @@ succumb sciatica-5 excitement muffin earth mars
 1
 0 4
 2
-0 37 8 4
 0 31 0 1
+0 37 8 4
 1
 end_operator
 begin_operator
@@ -50001,8 +50001,8 @@ succumb sciatica-5 excitement muffin mars saturn
 1
 0 4
 2
-0 37 8 4
 0 31 1 2
+0 37 8 4
 1
 end_operator
 begin_operator
@@ -50010,8 +50010,8 @@ succumb sciatica-5 excitement muffin uranus earth
 1
 0 4
 2
-0 37 8 4
 0 31 3 0
+0 37 8 4
 1
 end_operator
 begin_operator
@@ -50019,8 +50019,8 @@ succumb sciatica-5 excitement pepper earth mars
 1
 0 5
 2
-0 37 8 5
 0 31 0 1
+0 37 8 5
 1
 end_operator
 begin_operator
@@ -50028,8 +50028,8 @@ succumb sciatica-5 excitement pepper mars saturn
 1
 0 5
 2
-0 37 8 5
 0 31 1 2
+0 37 8 5
 1
 end_operator
 begin_operator
@@ -50037,8 +50037,8 @@ succumb sciatica-5 excitement pepper uranus earth
 1
 0 5
 2
-0 37 8 5
 0 31 3 0
+0 37 8 5
 1
 end_operator
 begin_operator
@@ -50046,8 +50046,8 @@ succumb sciatica-5 excitement potato earth mars
 1
 0 6
 2
-0 37 8 6
 0 31 0 1
+0 37 8 6
 1
 end_operator
 begin_operator
@@ -50055,8 +50055,8 @@ succumb sciatica-5 excitement potato mars saturn
 1
 0 6
 2
-0 37 8 6
 0 31 1 2
+0 37 8 6
 1
 end_operator
 begin_operator
@@ -50064,8 +50064,8 @@ succumb sciatica-5 excitement potato uranus earth
 1
 0 6
 2
-0 37 8 6
 0 31 3 0
+0 37 8 6
 1
 end_operator
 begin_operator
@@ -50073,8 +50073,8 @@ succumb sciatica-5 excitement wurst earth mars
 1
 0 7
 2
-0 37 8 7
 0 31 0 1
+0 37 8 7
 1
 end_operator
 begin_operator
@@ -50082,8 +50082,8 @@ succumb sciatica-5 excitement wurst mars saturn
 1
 0 7
 2
-0 37 8 7
 0 31 1 2
+0 37 8 7
 1
 end_operator
 begin_operator
@@ -50091,8 +50091,8 @@ succumb sciatica-5 excitement wurst uranus earth
 1
 0 7
 2
-0 37 8 7
 0 31 3 0
+0 37 8 7
 1
 end_operator
 begin_operator
@@ -50100,8 +50100,8 @@ succumb sciatica-5 intoxication hamburger earth mars
 1
 4 0
 2
-0 37 9 0
 0 32 0 1
+0 37 9 0
 1
 end_operator
 begin_operator
@@ -50109,8 +50109,8 @@ succumb sciatica-5 intoxication hamburger mars saturn
 1
 4 0
 2
-0 37 9 0
 0 32 1 2
+0 37 9 0
 1
 end_operator
 begin_operator
@@ -50118,8 +50118,8 @@ succumb sciatica-5 intoxication hamburger uranus earth
 1
 4 0
 2
-0 37 9 0
 0 32 3 0
+0 37 9 0
 1
 end_operator
 begin_operator
@@ -50127,8 +50127,8 @@ succumb sciatica-5 intoxication lemon earth mars
 1
 4 1
 2
-0 37 9 1
 0 32 0 1
+0 37 9 1
 1
 end_operator
 begin_operator
@@ -50136,8 +50136,8 @@ succumb sciatica-5 intoxication lemon mars saturn
 1
 4 1
 2
-0 37 9 1
 0 32 1 2
+0 37 9 1
 1
 end_operator
 begin_operator
@@ -50145,8 +50145,8 @@ succumb sciatica-5 intoxication lemon uranus earth
 1
 4 1
 2
-0 37 9 1
 0 32 3 0
+0 37 9 1
 1
 end_operator
 begin_operator
@@ -50154,8 +50154,8 @@ succumb sciatica-5 intoxication lobster earth mars
 1
 4 2
 2
-0 37 9 2
 0 32 0 1
+0 37 9 2
 1
 end_operator
 begin_operator
@@ -50163,8 +50163,8 @@ succumb sciatica-5 intoxication lobster mars saturn
 1
 4 2
 2
-0 37 9 2
 0 32 1 2
+0 37 9 2
 1
 end_operator
 begin_operator
@@ -50172,8 +50172,8 @@ succumb sciatica-5 intoxication lobster uranus earth
 1
 4 2
 2
-0 37 9 2
 0 32 3 0
+0 37 9 2
 1
 end_operator
 begin_operator
@@ -50181,8 +50181,8 @@ succumb sciatica-5 intoxication melon earth mars
 1
 4 3
 2
-0 37 9 3
 0 32 0 1
+0 37 9 3
 1
 end_operator
 begin_operator
@@ -50190,8 +50190,8 @@ succumb sciatica-5 intoxication melon mars saturn
 1
 4 3
 2
-0 37 9 3
 0 32 1 2
+0 37 9 3
 1
 end_operator
 begin_operator
@@ -50199,8 +50199,8 @@ succumb sciatica-5 intoxication melon uranus earth
 1
 4 3
 2
-0 37 9 3
 0 32 3 0
+0 37 9 3
 1
 end_operator
 begin_operator
@@ -50208,8 +50208,8 @@ succumb sciatica-5 intoxication muffin earth mars
 1
 4 4
 2
-0 37 9 4
 0 32 0 1
+0 37 9 4
 1
 end_operator
 begin_operator
@@ -50217,8 +50217,8 @@ succumb sciatica-5 intoxication muffin mars saturn
 1
 4 4
 2
-0 37 9 4
 0 32 1 2
+0 37 9 4
 1
 end_operator
 begin_operator
@@ -50226,8 +50226,8 @@ succumb sciatica-5 intoxication muffin uranus earth
 1
 4 4
 2
-0 37 9 4
 0 32 3 0
+0 37 9 4
 1
 end_operator
 begin_operator
@@ -50235,8 +50235,8 @@ succumb sciatica-5 intoxication pepper earth mars
 1
 4 5
 2
-0 37 9 5
 0 32 0 1
+0 37 9 5
 1
 end_operator
 begin_operator
@@ -50244,8 +50244,8 @@ succumb sciatica-5 intoxication pepper mars saturn
 1
 4 5
 2
-0 37 9 5
 0 32 1 2
+0 37 9 5
 1
 end_operator
 begin_operator
@@ -50253,8 +50253,8 @@ succumb sciatica-5 intoxication pepper uranus earth
 1
 4 5
 2
-0 37 9 5
 0 32 3 0
+0 37 9 5
 1
 end_operator
 begin_operator
@@ -50262,8 +50262,8 @@ succumb sciatica-5 intoxication potato earth mars
 1
 4 6
 2
-0 37 9 6
 0 32 0 1
+0 37 9 6
 1
 end_operator
 begin_operator
@@ -50271,8 +50271,8 @@ succumb sciatica-5 intoxication potato mars saturn
 1
 4 6
 2
-0 37 9 6
 0 32 1 2
+0 37 9 6
 1
 end_operator
 begin_operator
@@ -50280,8 +50280,8 @@ succumb sciatica-5 intoxication potato uranus earth
 1
 4 6
 2
-0 37 9 6
 0 32 3 0
+0 37 9 6
 1
 end_operator
 begin_operator
@@ -50289,8 +50289,8 @@ succumb sciatica-5 intoxication wurst earth mars
 1
 4 7
 2
-0 37 9 7
 0 32 0 1
+0 37 9 7
 1
 end_operator
 begin_operator
@@ -50298,8 +50298,8 @@ succumb sciatica-5 intoxication wurst mars saturn
 1
 4 7
 2
-0 37 9 7
 0 32 1 2
+0 37 9 7
 1
 end_operator
 begin_operator
@@ -50307,8 +50307,8 @@ succumb sciatica-5 intoxication wurst uranus earth
 1
 4 7
 2
-0 37 9 7
 0 32 3 0
+0 37 9 7
 1
 end_operator
 begin_operator
@@ -50316,8 +50316,8 @@ succumb sciatica-5 learning hamburger earth mars
 1
 6 0
 2
-0 37 10 0
 0 35 0 1
+0 37 10 0
 1
 end_operator
 begin_operator
@@ -50325,8 +50325,8 @@ succumb sciatica-5 learning hamburger mars saturn
 1
 6 0
 2
-0 37 10 0
 0 35 1 2
+0 37 10 0
 1
 end_operator
 begin_operator
@@ -50334,8 +50334,8 @@ succumb sciatica-5 learning hamburger uranus earth
 1
 6 0
 2
-0 37 10 0
 0 35 3 0
+0 37 10 0
 1
 end_operator
 begin_operator
@@ -50343,8 +50343,8 @@ succumb sciatica-5 learning lemon earth mars
 1
 6 1
 2
-0 37 10 1
 0 35 0 1
+0 37 10 1
 1
 end_operator
 begin_operator
@@ -50352,8 +50352,8 @@ succumb sciatica-5 learning lemon mars saturn
 1
 6 1
 2
-0 37 10 1
 0 35 1 2
+0 37 10 1
 1
 end_operator
 begin_operator
@@ -50361,8 +50361,8 @@ succumb sciatica-5 learning lemon uranus earth
 1
 6 1
 2
-0 37 10 1
 0 35 3 0
+0 37 10 1
 1
 end_operator
 begin_operator
@@ -50370,8 +50370,8 @@ succumb sciatica-5 learning lobster earth mars
 1
 6 2
 2
-0 37 10 2
 0 35 0 1
+0 37 10 2
 1
 end_operator
 begin_operator
@@ -50379,8 +50379,8 @@ succumb sciatica-5 learning lobster mars saturn
 1
 6 2
 2
-0 37 10 2
 0 35 1 2
+0 37 10 2
 1
 end_operator
 begin_operator
@@ -50388,8 +50388,8 @@ succumb sciatica-5 learning lobster uranus earth
 1
 6 2
 2
-0 37 10 2
 0 35 3 0
+0 37 10 2
 1
 end_operator
 begin_operator
@@ -50397,8 +50397,8 @@ succumb sciatica-5 learning melon earth mars
 1
 6 3
 2
-0 37 10 3
 0 35 0 1
+0 37 10 3
 1
 end_operator
 begin_operator
@@ -50406,8 +50406,8 @@ succumb sciatica-5 learning melon mars saturn
 1
 6 3
 2
-0 37 10 3
 0 35 1 2
+0 37 10 3
 1
 end_operator
 begin_operator
@@ -50415,8 +50415,8 @@ succumb sciatica-5 learning melon uranus earth
 1
 6 3
 2
-0 37 10 3
 0 35 3 0
+0 37 10 3
 1
 end_operator
 begin_operator
@@ -50424,8 +50424,8 @@ succumb sciatica-5 learning muffin earth mars
 1
 6 4
 2
-0 37 10 4
 0 35 0 1
+0 37 10 4
 1
 end_operator
 begin_operator
@@ -50433,8 +50433,8 @@ succumb sciatica-5 learning muffin mars saturn
 1
 6 4
 2
-0 37 10 4
 0 35 1 2
+0 37 10 4
 1
 end_operator
 begin_operator
@@ -50442,8 +50442,8 @@ succumb sciatica-5 learning muffin uranus earth
 1
 6 4
 2
-0 37 10 4
 0 35 3 0
+0 37 10 4
 1
 end_operator
 begin_operator
@@ -50451,8 +50451,8 @@ succumb sciatica-5 learning pepper earth mars
 1
 6 5
 2
-0 37 10 5
 0 35 0 1
+0 37 10 5
 1
 end_operator
 begin_operator
@@ -50460,8 +50460,8 @@ succumb sciatica-5 learning pepper mars saturn
 1
 6 5
 2
-0 37 10 5
 0 35 1 2
+0 37 10 5
 1
 end_operator
 begin_operator
@@ -50469,8 +50469,8 @@ succumb sciatica-5 learning pepper uranus earth
 1
 6 5
 2
-0 37 10 5
 0 35 3 0
+0 37 10 5
 1
 end_operator
 begin_operator
@@ -50478,8 +50478,8 @@ succumb sciatica-5 learning potato earth mars
 1
 6 6
 2
-0 37 10 6
 0 35 0 1
+0 37 10 6
 1
 end_operator
 begin_operator
@@ -50487,8 +50487,8 @@ succumb sciatica-5 learning potato mars saturn
 1
 6 6
 2
-0 37 10 6
 0 35 1 2
+0 37 10 6
 1
 end_operator
 begin_operator
@@ -50496,8 +50496,8 @@ succumb sciatica-5 learning potato uranus earth
 1
 6 6
 2
-0 37 10 6
 0 35 3 0
+0 37 10 6
 1
 end_operator
 begin_operator
@@ -50505,8 +50505,8 @@ succumb sciatica-5 learning wurst earth mars
 1
 6 7
 2
-0 37 10 7
 0 35 0 1
+0 37 10 7
 1
 end_operator
 begin_operator
@@ -50514,8 +50514,8 @@ succumb sciatica-5 learning wurst mars saturn
 1
 6 7
 2
-0 37 10 7
 0 35 1 2
+0 37 10 7
 1
 end_operator
 begin_operator
@@ -50523,8 +50523,8 @@ succumb sciatica-5 learning wurst uranus earth
 1
 6 7
 2
-0 37 10 7
 0 35 3 0
+0 37 10 7
 1
 end_operator
 begin_operator
@@ -50532,8 +50532,8 @@ succumb sciatica-5 rest hamburger earth mars
 1
 9 0
 2
-0 37 11 0
 0 36 0 1
+0 37 11 0
 1
 end_operator
 begin_operator
@@ -50541,8 +50541,8 @@ succumb sciatica-5 rest hamburger mars saturn
 1
 9 0
 2
-0 37 11 0
 0 36 1 2
+0 37 11 0
 1
 end_operator
 begin_operator
@@ -50550,8 +50550,8 @@ succumb sciatica-5 rest hamburger uranus earth
 1
 9 0
 2
-0 37 11 0
 0 36 3 0
+0 37 11 0
 1
 end_operator
 begin_operator
@@ -50559,8 +50559,8 @@ succumb sciatica-5 rest lemon earth mars
 1
 9 1
 2
-0 37 11 1
 0 36 0 1
+0 37 11 1
 1
 end_operator
 begin_operator
@@ -50568,8 +50568,8 @@ succumb sciatica-5 rest lemon mars saturn
 1
 9 1
 2
-0 37 11 1
 0 36 1 2
+0 37 11 1
 1
 end_operator
 begin_operator
@@ -50577,8 +50577,8 @@ succumb sciatica-5 rest lemon uranus earth
 1
 9 1
 2
-0 37 11 1
 0 36 3 0
+0 37 11 1
 1
 end_operator
 begin_operator
@@ -50586,8 +50586,8 @@ succumb sciatica-5 rest lobster earth mars
 1
 9 2
 2
-0 37 11 2
 0 36 0 1
+0 37 11 2
 1
 end_operator
 begin_operator
@@ -50595,8 +50595,8 @@ succumb sciatica-5 rest lobster mars saturn
 1
 9 2
 2
-0 37 11 2
 0 36 1 2
+0 37 11 2
 1
 end_operator
 begin_operator
@@ -50604,8 +50604,8 @@ succumb sciatica-5 rest lobster uranus earth
 1
 9 2
 2
-0 37 11 2
 0 36 3 0
+0 37 11 2
 1
 end_operator
 begin_operator
@@ -50613,8 +50613,8 @@ succumb sciatica-5 rest melon earth mars
 1
 9 3
 2
-0 37 11 3
 0 36 0 1
+0 37 11 3
 1
 end_operator
 begin_operator
@@ -50622,8 +50622,8 @@ succumb sciatica-5 rest melon mars saturn
 1
 9 3
 2
-0 37 11 3
 0 36 1 2
+0 37 11 3
 1
 end_operator
 begin_operator
@@ -50631,8 +50631,8 @@ succumb sciatica-5 rest melon uranus earth
 1
 9 3
 2
-0 37 11 3
 0 36 3 0
+0 37 11 3
 1
 end_operator
 begin_operator
@@ -50640,8 +50640,8 @@ succumb sciatica-5 rest muffin earth mars
 1
 9 4
 2
-0 37 11 4
 0 36 0 1
+0 37 11 4
 1
 end_operator
 begin_operator
@@ -50649,8 +50649,8 @@ succumb sciatica-5 rest muffin mars saturn
 1
 9 4
 2
-0 37 11 4
 0 36 1 2
+0 37 11 4
 1
 end_operator
 begin_operator
@@ -50658,8 +50658,8 @@ succumb sciatica-5 rest muffin uranus earth
 1
 9 4
 2
-0 37 11 4
 0 36 3 0
+0 37 11 4
 1
 end_operator
 begin_operator
@@ -50667,8 +50667,8 @@ succumb sciatica-5 rest pepper earth mars
 1
 9 5
 2
-0 37 11 5
 0 36 0 1
+0 37 11 5
 1
 end_operator
 begin_operator
@@ -50676,8 +50676,8 @@ succumb sciatica-5 rest pepper mars saturn
 1
 9 5
 2
-0 37 11 5
 0 36 1 2
+0 37 11 5
 1
 end_operator
 begin_operator
@@ -50685,8 +50685,8 @@ succumb sciatica-5 rest pepper uranus earth
 1
 9 5
 2
-0 37 11 5
 0 36 3 0
+0 37 11 5
 1
 end_operator
 begin_operator
@@ -50694,8 +50694,8 @@ succumb sciatica-5 rest potato earth mars
 1
 9 6
 2
-0 37 11 6
 0 36 0 1
+0 37 11 6
 1
 end_operator
 begin_operator
@@ -50703,8 +50703,8 @@ succumb sciatica-5 rest potato mars saturn
 1
 9 6
 2
-0 37 11 6
 0 36 1 2
+0 37 11 6
 1
 end_operator
 begin_operator
@@ -50712,8 +50712,8 @@ succumb sciatica-5 rest potato uranus earth
 1
 9 6
 2
-0 37 11 6
 0 36 3 0
+0 37 11 6
 1
 end_operator
 begin_operator
@@ -50721,8 +50721,8 @@ succumb sciatica-5 rest wurst earth mars
 1
 9 7
 2
-0 37 11 7
 0 36 0 1
+0 37 11 7
 1
 end_operator
 begin_operator
@@ -50730,8 +50730,8 @@ succumb sciatica-5 rest wurst mars saturn
 1
 9 7
 2
-0 37 11 7
 0 36 1 2
+0 37 11 7
 1
 end_operator
 begin_operator
@@ -50739,8 +50739,8 @@ succumb sciatica-5 rest wurst uranus earth
 1
 9 7
 2
-0 37 11 7
 0 36 3 0
+0 37 11 7
 1
 end_operator
 begin_operator

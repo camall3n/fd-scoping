@@ -42159,8 +42159,8 @@ overcome abrasion achievement arugula earth uranus
 1
 0 0
 2
-0 32 0 18
 0 27 2 0
+0 32 0 18
 1
 end_operator
 begin_operator
@@ -42168,8 +42168,8 @@ overcome abrasion achievement arugula uranus vulcan
 1
 0 0
 2
-0 32 0 18
 0 27 3 2
+0 32 0 18
 1
 end_operator
 begin_operator
@@ -42177,8 +42177,8 @@ overcome abrasion achievement arugula vulcan jupiter
 1
 0 0
 2
-0 32 0 18
 0 27 1 3
+0 32 0 18
 1
 end_operator
 begin_operator
@@ -42186,8 +42186,8 @@ overcome abrasion achievement baguette earth uranus
 1
 0 1
 2
-0 32 1 18
 0 27 2 0
+0 32 1 18
 1
 end_operator
 begin_operator
@@ -42195,8 +42195,8 @@ overcome abrasion achievement baguette uranus vulcan
 1
 0 1
 2
-0 32 1 18
 0 27 3 2
+0 32 1 18
 1
 end_operator
 begin_operator
@@ -42204,8 +42204,8 @@ overcome abrasion achievement baguette vulcan jupiter
 1
 0 1
 2
-0 32 1 18
 0 27 1 3
+0 32 1 18
 1
 end_operator
 begin_operator
@@ -42213,8 +42213,8 @@ overcome abrasion achievement cantelope earth uranus
 1
 0 2
 2
-0 32 2 18
 0 27 2 0
+0 32 2 18
 1
 end_operator
 begin_operator
@@ -42222,8 +42222,8 @@ overcome abrasion achievement cantelope uranus vulcan
 1
 0 2
 2
-0 32 2 18
 0 27 3 2
+0 32 2 18
 1
 end_operator
 begin_operator
@@ -42231,8 +42231,8 @@ overcome abrasion achievement cantelope vulcan jupiter
 1
 0 2
 2
-0 32 2 18
 0 27 1 3
+0 32 2 18
 1
 end_operator
 begin_operator
@@ -42240,8 +42240,8 @@ overcome abrasion achievement flounder earth uranus
 1
 0 3
 2
-0 32 3 18
 0 27 2 0
+0 32 3 18
 1
 end_operator
 begin_operator
@@ -42249,8 +42249,8 @@ overcome abrasion achievement flounder uranus vulcan
 1
 0 3
 2
-0 32 3 18
 0 27 3 2
+0 32 3 18
 1
 end_operator
 begin_operator
@@ -42258,8 +42258,8 @@ overcome abrasion achievement flounder vulcan jupiter
 1
 0 3
 2
-0 32 3 18
 0 27 1 3
+0 32 3 18
 1
 end_operator
 begin_operator
@@ -42267,8 +42267,8 @@ overcome abrasion achievement hotdog earth uranus
 1
 0 4
 2
-0 32 4 18
 0 27 2 0
+0 32 4 18
 1
 end_operator
 begin_operator
@@ -42276,8 +42276,8 @@ overcome abrasion achievement hotdog uranus vulcan
 1
 0 4
 2
-0 32 4 18
 0 27 3 2
+0 32 4 18
 1
 end_operator
 begin_operator
@@ -42285,8 +42285,8 @@ overcome abrasion achievement hotdog vulcan jupiter
 1
 0 4
 2
-0 32 4 18
 0 27 1 3
+0 32 4 18
 1
 end_operator
 begin_operator
@@ -42294,8 +42294,8 @@ overcome abrasion achievement lobster earth uranus
 1
 0 5
 2
-0 32 5 18
 0 27 2 0
+0 32 5 18
 1
 end_operator
 begin_operator
@@ -42303,8 +42303,8 @@ overcome abrasion achievement lobster uranus vulcan
 1
 0 5
 2
-0 32 5 18
 0 27 3 2
+0 32 5 18
 1
 end_operator
 begin_operator
@@ -42312,8 +42312,8 @@ overcome abrasion achievement lobster vulcan jupiter
 1
 0 5
 2
-0 32 5 18
 0 27 1 3
+0 32 5 18
 1
 end_operator
 begin_operator
@@ -42321,8 +42321,8 @@ overcome abrasion achievement muffin earth uranus
 1
 0 6
 2
-0 32 6 18
 0 27 2 0
+0 32 6 18
 1
 end_operator
 begin_operator
@@ -42330,8 +42330,8 @@ overcome abrasion achievement muffin uranus vulcan
 1
 0 6
 2
-0 32 6 18
 0 27 3 2
+0 32 6 18
 1
 end_operator
 begin_operator
@@ -42339,8 +42339,8 @@ overcome abrasion achievement muffin vulcan jupiter
 1
 0 6
 2
-0 32 6 18
 0 27 1 3
+0 32 6 18
 1
 end_operator
 begin_operator
@@ -42348,8 +42348,8 @@ overcome abrasion achievement okra earth uranus
 1
 0 7
 2
-0 32 7 18
 0 27 2 0
+0 32 7 18
 1
 end_operator
 begin_operator
@@ -42357,8 +42357,8 @@ overcome abrasion achievement okra uranus vulcan
 1
 0 7
 2
-0 32 7 18
 0 27 3 2
+0 32 7 18
 1
 end_operator
 begin_operator
@@ -42366,8 +42366,8 @@ overcome abrasion achievement okra vulcan jupiter
 1
 0 7
 2
-0 32 7 18
 0 27 1 3
+0 32 7 18
 1
 end_operator
 begin_operator
@@ -42375,8 +42375,8 @@ overcome abrasion achievement pepper earth uranus
 1
 0 8
 2
-0 32 8 18
 0 27 2 0
+0 32 8 18
 1
 end_operator
 begin_operator
@@ -42384,8 +42384,8 @@ overcome abrasion achievement pepper uranus vulcan
 1
 0 8
 2
-0 32 8 18
 0 27 3 2
+0 32 8 18
 1
 end_operator
 begin_operator
@@ -42393,8 +42393,8 @@ overcome abrasion achievement pepper vulcan jupiter
 1
 0 8
 2
-0 32 8 18
 0 27 1 3
+0 32 8 18
 1
 end_operator
 begin_operator
@@ -42402,8 +42402,8 @@ overcome abrasion achievement pistachio earth uranus
 1
 0 9
 2
-0 32 9 18
 0 27 2 0
+0 32 9 18
 1
 end_operator
 begin_operator
@@ -42411,8 +42411,8 @@ overcome abrasion achievement pistachio uranus vulcan
 1
 0 9
 2
-0 32 9 18
 0 27 3 2
+0 32 9 18
 1
 end_operator
 begin_operator
@@ -42420,8 +42420,8 @@ overcome abrasion achievement pistachio vulcan jupiter
 1
 0 9
 2
-0 32 9 18
 0 27 1 3
+0 32 9 18
 1
 end_operator
 begin_operator
@@ -42429,8 +42429,8 @@ overcome abrasion achievement pork earth uranus
 1
 0 10
 2
-0 32 10 18
 0 27 2 0
+0 32 10 18
 1
 end_operator
 begin_operator
@@ -42438,8 +42438,8 @@ overcome abrasion achievement pork uranus vulcan
 1
 0 10
 2
-0 32 10 18
 0 27 3 2
+0 32 10 18
 1
 end_operator
 begin_operator
@@ -42447,8 +42447,8 @@ overcome abrasion achievement pork vulcan jupiter
 1
 0 10
 2
-0 32 10 18
 0 27 1 3
+0 32 10 18
 1
 end_operator
 begin_operator
@@ -42456,8 +42456,8 @@ overcome abrasion achievement rice earth uranus
 1
 0 11
 2
-0 32 11 18
 0 27 2 0
+0 32 11 18
 1
 end_operator
 begin_operator
@@ -42465,8 +42465,8 @@ overcome abrasion achievement rice uranus vulcan
 1
 0 11
 2
-0 32 11 18
 0 27 3 2
+0 32 11 18
 1
 end_operator
 begin_operator
@@ -42474,8 +42474,8 @@ overcome abrasion achievement rice vulcan jupiter
 1
 0 11
 2
-0 32 11 18
 0 27 1 3
+0 32 11 18
 1
 end_operator
 begin_operator
@@ -42483,8 +42483,8 @@ overcome abrasion achievement scallop earth uranus
 1
 0 12
 2
-0 32 12 18
 0 27 2 0
+0 32 12 18
 1
 end_operator
 begin_operator
@@ -42492,8 +42492,8 @@ overcome abrasion achievement scallop uranus vulcan
 1
 0 12
 2
-0 32 12 18
 0 27 3 2
+0 32 12 18
 1
 end_operator
 begin_operator
@@ -42501,8 +42501,8 @@ overcome abrasion achievement scallop vulcan jupiter
 1
 0 12
 2
-0 32 12 18
 0 27 1 3
+0 32 12 18
 1
 end_operator
 begin_operator
@@ -42510,8 +42510,8 @@ overcome abrasion achievement tofu earth uranus
 1
 0 13
 2
-0 32 13 18
 0 27 2 0
+0 32 13 18
 1
 end_operator
 begin_operator
@@ -42519,8 +42519,8 @@ overcome abrasion achievement tofu uranus vulcan
 1
 0 13
 2
-0 32 13 18
 0 27 3 2
+0 32 13 18
 1
 end_operator
 begin_operator
@@ -42528,8 +42528,8 @@ overcome abrasion achievement tofu vulcan jupiter
 1
 0 13
 2
-0 32 13 18
 0 27 1 3
+0 32 13 18
 1
 end_operator
 begin_operator
@@ -42537,8 +42537,8 @@ overcome abrasion achievement tomato earth uranus
 1
 0 14
 2
-0 32 14 18
 0 27 2 0
+0 32 14 18
 1
 end_operator
 begin_operator
@@ -42546,8 +42546,8 @@ overcome abrasion achievement tomato uranus vulcan
 1
 0 14
 2
-0 32 14 18
 0 27 3 2
+0 32 14 18
 1
 end_operator
 begin_operator
@@ -42555,8 +42555,8 @@ overcome abrasion achievement tomato vulcan jupiter
 1
 0 14
 2
-0 32 14 18
 0 27 1 3
+0 32 14 18
 1
 end_operator
 begin_operator
@@ -42564,8 +42564,8 @@ overcome abrasion achievement tuna earth uranus
 1
 0 15
 2
-0 32 15 18
 0 27 2 0
+0 32 15 18
 1
 end_operator
 begin_operator
@@ -42573,8 +42573,8 @@ overcome abrasion achievement tuna uranus vulcan
 1
 0 15
 2
-0 32 15 18
 0 27 3 2
+0 32 15 18
 1
 end_operator
 begin_operator
@@ -42582,8 +42582,8 @@ overcome abrasion achievement tuna vulcan jupiter
 1
 0 15
 2
-0 32 15 18
 0 27 1 3
+0 32 15 18
 1
 end_operator
 begin_operator
@@ -42591,8 +42591,8 @@ overcome abrasion achievement turkey earth uranus
 1
 0 16
 2
-0 32 16 18
 0 27 2 0
+0 32 16 18
 1
 end_operator
 begin_operator
@@ -42600,8 +42600,8 @@ overcome abrasion achievement turkey uranus vulcan
 1
 0 16
 2
-0 32 16 18
 0 27 3 2
+0 32 16 18
 1
 end_operator
 begin_operator
@@ -42609,8 +42609,8 @@ overcome abrasion achievement turkey vulcan jupiter
 1
 0 16
 2
-0 32 16 18
 0 27 1 3
+0 32 16 18
 1
 end_operator
 begin_operator
@@ -42618,8 +42618,8 @@ overcome abrasion achievement wonderbread earth uranus
 1
 0 17
 2
-0 32 17 18
 0 27 2 0
+0 32 17 18
 1
 end_operator
 begin_operator
@@ -42627,8 +42627,8 @@ overcome abrasion achievement wonderbread uranus vulcan
 1
 0 17
 2
-0 32 17 18
 0 27 3 2
+0 32 17 18
 1
 end_operator
 begin_operator
@@ -42636,8 +42636,8 @@ overcome abrasion achievement wonderbread vulcan jupiter
 1
 0 17
 2
-0 32 17 18
 0 27 1 3
+0 32 17 18
 1
 end_operator
 begin_operator
@@ -42645,8 +42645,8 @@ overcome abrasion aesthetics arugula earth uranus
 1
 1 0
 2
-0 32 0 19
 0 28 2 0
+0 32 0 19
 1
 end_operator
 begin_operator
@@ -42654,8 +42654,8 @@ overcome abrasion aesthetics arugula uranus vulcan
 1
 1 0
 2
-0 32 0 19
 0 28 3 2
+0 32 0 19
 1
 end_operator
 begin_operator
@@ -42663,8 +42663,8 @@ overcome abrasion aesthetics arugula vulcan jupiter
 1
 1 0
 2
-0 32 0 19
 0 28 1 3
+0 32 0 19
 1
 end_operator
 begin_operator
@@ -42672,8 +42672,8 @@ overcome abrasion aesthetics baguette earth uranus
 1
 1 1
 2
-0 32 1 19
 0 28 2 0
+0 32 1 19
 1
 end_operator
 begin_operator
@@ -42681,8 +42681,8 @@ overcome abrasion aesthetics baguette uranus vulcan
 1
 1 1
 2
-0 32 1 19
 0 28 3 2
+0 32 1 19
 1
 end_operator
 begin_operator
@@ -42690,8 +42690,8 @@ overcome abrasion aesthetics baguette vulcan jupiter
 1
 1 1
 2
-0 32 1 19
 0 28 1 3
+0 32 1 19
 1
 end_operator
 begin_operator
@@ -42699,8 +42699,8 @@ overcome abrasion aesthetics cantelope earth uranus
 1
 1 2
 2
-0 32 2 19
 0 28 2 0
+0 32 2 19
 1
 end_operator
 begin_operator
@@ -42708,8 +42708,8 @@ overcome abrasion aesthetics cantelope uranus vulcan
 1
 1 2
 2
-0 32 2 19
 0 28 3 2
+0 32 2 19
 1
 end_operator
 begin_operator
@@ -42717,8 +42717,8 @@ overcome abrasion aesthetics cantelope vulcan jupiter
 1
 1 2
 2
-0 32 2 19
 0 28 1 3
+0 32 2 19
 1
 end_operator
 begin_operator
@@ -42726,8 +42726,8 @@ overcome abrasion aesthetics flounder earth uranus
 1
 1 3
 2
-0 32 3 19
 0 28 2 0
+0 32 3 19
 1
 end_operator
 begin_operator
@@ -42735,8 +42735,8 @@ overcome abrasion aesthetics flounder uranus vulcan
 1
 1 3
 2
-0 32 3 19
 0 28 3 2
+0 32 3 19
 1
 end_operator
 begin_operator
@@ -42744,8 +42744,8 @@ overcome abrasion aesthetics flounder vulcan jupiter
 1
 1 3
 2
-0 32 3 19
 0 28 1 3
+0 32 3 19
 1
 end_operator
 begin_operator
@@ -42753,8 +42753,8 @@ overcome abrasion aesthetics hotdog earth uranus
 1
 1 4
 2
-0 32 4 19
 0 28 2 0
+0 32 4 19
 1
 end_operator
 begin_operator
@@ -42762,8 +42762,8 @@ overcome abrasion aesthetics hotdog uranus vulcan
 1
 1 4
 2
-0 32 4 19
 0 28 3 2
+0 32 4 19
 1
 end_operator
 begin_operator
@@ -42771,8 +42771,8 @@ overcome abrasion aesthetics hotdog vulcan jupiter
 1
 1 4
 2
-0 32 4 19
 0 28 1 3
+0 32 4 19
 1
 end_operator
 begin_operator
@@ -42780,8 +42780,8 @@ overcome abrasion aesthetics lobster earth uranus
 1
 1 5
 2
-0 32 5 19
 0 28 2 0
+0 32 5 19
 1
 end_operator
 begin_operator
@@ -42789,8 +42789,8 @@ overcome abrasion aesthetics lobster uranus vulcan
 1
 1 5
 2
-0 32 5 19
 0 28 3 2
+0 32 5 19
 1
 end_operator
 begin_operator
@@ -42798,8 +42798,8 @@ overcome abrasion aesthetics lobster vulcan jupiter
 1
 1 5
 2
-0 32 5 19
 0 28 1 3
+0 32 5 19
 1
 end_operator
 begin_operator
@@ -42807,8 +42807,8 @@ overcome abrasion aesthetics muffin earth uranus
 1
 1 6
 2
-0 32 6 19
 0 28 2 0
+0 32 6 19
 1
 end_operator
 begin_operator
@@ -42816,8 +42816,8 @@ overcome abrasion aesthetics muffin uranus vulcan
 1
 1 6
 2
-0 32 6 19
 0 28 3 2
+0 32 6 19
 1
 end_operator
 begin_operator
@@ -42825,8 +42825,8 @@ overcome abrasion aesthetics muffin vulcan jupiter
 1
 1 6
 2
-0 32 6 19
 0 28 1 3
+0 32 6 19
 1
 end_operator
 begin_operator
@@ -42834,8 +42834,8 @@ overcome abrasion aesthetics okra earth uranus
 1
 1 7
 2
-0 32 7 19
 0 28 2 0
+0 32 7 19
 1
 end_operator
 begin_operator
@@ -42843,8 +42843,8 @@ overcome abrasion aesthetics okra uranus vulcan
 1
 1 7
 2
-0 32 7 19
 0 28 3 2
+0 32 7 19
 1
 end_operator
 begin_operator
@@ -42852,8 +42852,8 @@ overcome abrasion aesthetics okra vulcan jupiter
 1
 1 7
 2
-0 32 7 19
 0 28 1 3
+0 32 7 19
 1
 end_operator
 begin_operator
@@ -42861,8 +42861,8 @@ overcome abrasion aesthetics pepper earth uranus
 1
 1 8
 2
-0 32 8 19
 0 28 2 0
+0 32 8 19
 1
 end_operator
 begin_operator
@@ -42870,8 +42870,8 @@ overcome abrasion aesthetics pepper uranus vulcan
 1
 1 8
 2
-0 32 8 19
 0 28 3 2
+0 32 8 19
 1
 end_operator
 begin_operator
@@ -42879,8 +42879,8 @@ overcome abrasion aesthetics pepper vulcan jupiter
 1
 1 8
 2
-0 32 8 19
 0 28 1 3
+0 32 8 19
 1
 end_operator
 begin_operator
@@ -42888,8 +42888,8 @@ overcome abrasion aesthetics pistachio earth uranus
 1
 1 9
 2
-0 32 9 19
 0 28 2 0
+0 32 9 19
 1
 end_operator
 begin_operator
@@ -42897,8 +42897,8 @@ overcome abrasion aesthetics pistachio uranus vulcan
 1
 1 9
 2
-0 32 9 19
 0 28 3 2
+0 32 9 19
 1
 end_operator
 begin_operator
@@ -42906,8 +42906,8 @@ overcome abrasion aesthetics pistachio vulcan jupiter
 1
 1 9
 2
-0 32 9 19
 0 28 1 3
+0 32 9 19
 1
 end_operator
 begin_operator
@@ -42915,8 +42915,8 @@ overcome abrasion aesthetics pork earth uranus
 1
 1 10
 2
-0 32 10 19
 0 28 2 0
+0 32 10 19
 1
 end_operator
 begin_operator
@@ -42924,8 +42924,8 @@ overcome abrasion aesthetics pork uranus vulcan
 1
 1 10
 2
-0 32 10 19
 0 28 3 2
+0 32 10 19
 1
 end_operator
 begin_operator
@@ -42933,8 +42933,8 @@ overcome abrasion aesthetics pork vulcan jupiter
 1
 1 10
 2
-0 32 10 19
 0 28 1 3
+0 32 10 19
 1
 end_operator
 begin_operator
@@ -42942,8 +42942,8 @@ overcome abrasion aesthetics rice earth uranus
 1
 1 11
 2
-0 32 11 19
 0 28 2 0
+0 32 11 19
 1
 end_operator
 begin_operator
@@ -42951,8 +42951,8 @@ overcome abrasion aesthetics rice uranus vulcan
 1
 1 11
 2
-0 32 11 19
 0 28 3 2
+0 32 11 19
 1
 end_operator
 begin_operator
@@ -42960,8 +42960,8 @@ overcome abrasion aesthetics rice vulcan jupiter
 1
 1 11
 2
-0 32 11 19
 0 28 1 3
+0 32 11 19
 1
 end_operator
 begin_operator
@@ -42969,8 +42969,8 @@ overcome abrasion aesthetics scallop earth uranus
 1
 1 12
 2
-0 32 12 19
 0 28 2 0
+0 32 12 19
 1
 end_operator
 begin_operator
@@ -42978,8 +42978,8 @@ overcome abrasion aesthetics scallop uranus vulcan
 1
 1 12
 2
-0 32 12 19
 0 28 3 2
+0 32 12 19
 1
 end_operator
 begin_operator
@@ -42987,8 +42987,8 @@ overcome abrasion aesthetics scallop vulcan jupiter
 1
 1 12
 2
-0 32 12 19
 0 28 1 3
+0 32 12 19
 1
 end_operator
 begin_operator
@@ -42996,8 +42996,8 @@ overcome abrasion aesthetics tofu earth uranus
 1
 1 13
 2
-0 32 13 19
 0 28 2 0
+0 32 13 19
 1
 end_operator
 begin_operator
@@ -43005,8 +43005,8 @@ overcome abrasion aesthetics tofu uranus vulcan
 1
 1 13
 2
-0 32 13 19
 0 28 3 2
+0 32 13 19
 1
 end_operator
 begin_operator
@@ -43014,8 +43014,8 @@ overcome abrasion aesthetics tofu vulcan jupiter
 1
 1 13
 2
-0 32 13 19
 0 28 1 3
+0 32 13 19
 1
 end_operator
 begin_operator
@@ -43023,8 +43023,8 @@ overcome abrasion aesthetics tomato earth uranus
 1
 1 14
 2
-0 32 14 19
 0 28 2 0
+0 32 14 19
 1
 end_operator
 begin_operator
@@ -43032,8 +43032,8 @@ overcome abrasion aesthetics tomato uranus vulcan
 1
 1 14
 2
-0 32 14 19
 0 28 3 2
+0 32 14 19
 1
 end_operator
 begin_operator
@@ -43041,8 +43041,8 @@ overcome abrasion aesthetics tomato vulcan jupiter
 1
 1 14
 2
-0 32 14 19
 0 28 1 3
+0 32 14 19
 1
 end_operator
 begin_operator
@@ -43050,8 +43050,8 @@ overcome abrasion aesthetics tuna earth uranus
 1
 1 15
 2
-0 32 15 19
 0 28 2 0
+0 32 15 19
 1
 end_operator
 begin_operator
@@ -43059,8 +43059,8 @@ overcome abrasion aesthetics tuna uranus vulcan
 1
 1 15
 2
-0 32 15 19
 0 28 3 2
+0 32 15 19
 1
 end_operator
 begin_operator
@@ -43068,8 +43068,8 @@ overcome abrasion aesthetics tuna vulcan jupiter
 1
 1 15
 2
-0 32 15 19
 0 28 1 3
+0 32 15 19
 1
 end_operator
 begin_operator
@@ -43077,8 +43077,8 @@ overcome abrasion aesthetics turkey earth uranus
 1
 1 16
 2
-0 32 16 19
 0 28 2 0
+0 32 16 19
 1
 end_operator
 begin_operator
@@ -43086,8 +43086,8 @@ overcome abrasion aesthetics turkey uranus vulcan
 1
 1 16
 2
-0 32 16 19
 0 28 3 2
+0 32 16 19
 1
 end_operator
 begin_operator
@@ -43095,8 +43095,8 @@ overcome abrasion aesthetics turkey vulcan jupiter
 1
 1 16
 2
-0 32 16 19
 0 28 1 3
+0 32 16 19
 1
 end_operator
 begin_operator
@@ -43104,8 +43104,8 @@ overcome abrasion aesthetics wonderbread earth uranus
 1
 1 17
 2
-0 32 17 19
 0 28 2 0
+0 32 17 19
 1
 end_operator
 begin_operator
@@ -43113,8 +43113,8 @@ overcome abrasion aesthetics wonderbread uranus vulcan
 1
 1 17
 2
-0 32 17 19
 0 28 3 2
+0 32 17 19
 1
 end_operator
 begin_operator
@@ -43122,8 +43122,8 @@ overcome abrasion aesthetics wonderbread vulcan jupiter
 1
 1 17
 2
-0 32 17 19
 0 28 1 3
+0 32 17 19
 1
 end_operator
 begin_operator
@@ -43131,8 +43131,8 @@ overcome abrasion excitement arugula earth uranus
 1
 2 0
 2
-0 32 0 20
 0 29 2 0
+0 32 0 20
 1
 end_operator
 begin_operator
@@ -43140,8 +43140,8 @@ overcome abrasion excitement arugula uranus vulcan
 1
 2 0
 2
-0 32 0 20
 0 29 3 2
+0 32 0 20
 1
 end_operator
 begin_operator
@@ -43149,8 +43149,8 @@ overcome abrasion excitement arugula vulcan jupiter
 1
 2 0
 2
-0 32 0 20
 0 29 1 3
+0 32 0 20
 1
 end_operator
 begin_operator
@@ -43158,8 +43158,8 @@ overcome abrasion excitement baguette earth uranus
 1
 2 1
 2
-0 32 1 20
 0 29 2 0
+0 32 1 20
 1
 end_operator
 begin_operator
@@ -43167,8 +43167,8 @@ overcome abrasion excitement baguette uranus vulcan
 1
 2 1
 2
-0 32 1 20
 0 29 3 2
+0 32 1 20
 1
 end_operator
 begin_operator
@@ -43176,8 +43176,8 @@ overcome abrasion excitement baguette vulcan jupiter
 1
 2 1
 2
-0 32 1 20
 0 29 1 3
+0 32 1 20
 1
 end_operator
 begin_operator
@@ -43185,8 +43185,8 @@ overcome abrasion excitement cantelope earth uranus
 1
 2 2
 2
-0 32 2 20
 0 29 2 0
+0 32 2 20
 1
 end_operator
 begin_operator
@@ -43194,8 +43194,8 @@ overcome abrasion excitement cantelope uranus vulcan
 1
 2 2
 2
-0 32 2 20
 0 29 3 2
+0 32 2 20
 1
 end_operator
 begin_operator
@@ -43203,8 +43203,8 @@ overcome abrasion excitement cantelope vulcan jupiter
 1
 2 2
 2
-0 32 2 20
 0 29 1 3
+0 32 2 20
 1
 end_operator
 begin_operator
@@ -43212,8 +43212,8 @@ overcome abrasion excitement flounder earth uranus
 1
 2 3
 2
-0 32 3 20
 0 29 2 0
+0 32 3 20
 1
 end_operator
 begin_operator
@@ -43221,8 +43221,8 @@ overcome abrasion excitement flounder uranus vulcan
 1
 2 3
 2
-0 32 3 20
 0 29 3 2
+0 32 3 20
 1
 end_operator
 begin_operator
@@ -43230,8 +43230,8 @@ overcome abrasion excitement flounder vulcan jupiter
 1
 2 3
 2
-0 32 3 20
 0 29 1 3
+0 32 3 20
 1
 end_operator
 begin_operator
@@ -43239,8 +43239,8 @@ overcome abrasion excitement hotdog earth uranus
 1
 2 4
 2
-0 32 4 20
 0 29 2 0
+0 32 4 20
 1
 end_operator
 begin_operator
@@ -43248,8 +43248,8 @@ overcome abrasion excitement hotdog uranus vulcan
 1
 2 4
 2
-0 32 4 20
 0 29 3 2
+0 32 4 20
 1
 end_operator
 begin_operator
@@ -43257,8 +43257,8 @@ overcome abrasion excitement hotdog vulcan jupiter
 1
 2 4
 2
-0 32 4 20
 0 29 1 3
+0 32 4 20
 1
 end_operator
 begin_operator
@@ -43266,8 +43266,8 @@ overcome abrasion excitement lobster earth uranus
 1
 2 5
 2
-0 32 5 20
 0 29 2 0
+0 32 5 20
 1
 end_operator
 begin_operator
@@ -43275,8 +43275,8 @@ overcome abrasion excitement lobster uranus vulcan
 1
 2 5
 2
-0 32 5 20
 0 29 3 2
+0 32 5 20
 1
 end_operator
 begin_operator
@@ -43284,8 +43284,8 @@ overcome abrasion excitement lobster vulcan jupiter
 1
 2 5
 2
-0 32 5 20
 0 29 1 3
+0 32 5 20
 1
 end_operator
 begin_operator
@@ -43293,8 +43293,8 @@ overcome abrasion excitement muffin earth uranus
 1
 2 6
 2
-0 32 6 20
 0 29 2 0
+0 32 6 20
 1
 end_operator
 begin_operator
@@ -43302,8 +43302,8 @@ overcome abrasion excitement muffin uranus vulcan
 1
 2 6
 2
-0 32 6 20
 0 29 3 2
+0 32 6 20
 1
 end_operator
 begin_operator
@@ -43311,8 +43311,8 @@ overcome abrasion excitement muffin vulcan jupiter
 1
 2 6
 2
-0 32 6 20
 0 29 1 3
+0 32 6 20
 1
 end_operator
 begin_operator
@@ -43320,8 +43320,8 @@ overcome abrasion excitement okra earth uranus
 1
 2 7
 2
-0 32 7 20
 0 29 2 0
+0 32 7 20
 1
 end_operator
 begin_operator
@@ -43329,8 +43329,8 @@ overcome abrasion excitement okra uranus vulcan
 1
 2 7
 2
-0 32 7 20
 0 29 3 2
+0 32 7 20
 1
 end_operator
 begin_operator
@@ -43338,8 +43338,8 @@ overcome abrasion excitement okra vulcan jupiter
 1
 2 7
 2
-0 32 7 20
 0 29 1 3
+0 32 7 20
 1
 end_operator
 begin_operator
@@ -43347,8 +43347,8 @@ overcome abrasion excitement pepper earth uranus
 1
 2 8
 2
-0 32 8 20
 0 29 2 0
+0 32 8 20
 1
 end_operator
 begin_operator
@@ -43356,8 +43356,8 @@ overcome abrasion excitement pepper uranus vulcan
 1
 2 8
 2
-0 32 8 20
 0 29 3 2
+0 32 8 20
 1
 end_operator
 begin_operator
@@ -43365,8 +43365,8 @@ overcome abrasion excitement pepper vulcan jupiter
 1
 2 8
 2
-0 32 8 20
 0 29 1 3
+0 32 8 20
 1
 end_operator
 begin_operator
@@ -43374,8 +43374,8 @@ overcome abrasion excitement pistachio earth uranus
 1
 2 9
 2
-0 32 9 20
 0 29 2 0
+0 32 9 20
 1
 end_operator
 begin_operator
@@ -43383,8 +43383,8 @@ overcome abrasion excitement pistachio uranus vulcan
 1
 2 9
 2
-0 32 9 20
 0 29 3 2
+0 32 9 20
 1
 end_operator
 begin_operator
@@ -43392,8 +43392,8 @@ overcome abrasion excitement pistachio vulcan jupiter
 1
 2 9
 2
-0 32 9 20
 0 29 1 3
+0 32 9 20
 1
 end_operator
 begin_operator
@@ -43401,8 +43401,8 @@ overcome abrasion excitement pork earth uranus
 1
 2 10
 2
-0 32 10 20
 0 29 2 0
+0 32 10 20
 1
 end_operator
 begin_operator
@@ -43410,8 +43410,8 @@ overcome abrasion excitement pork uranus vulcan
 1
 2 10
 2
-0 32 10 20
 0 29 3 2
+0 32 10 20
 1
 end_operator
 begin_operator
@@ -43419,8 +43419,8 @@ overcome abrasion excitement pork vulcan jupiter
 1
 2 10
 2
-0 32 10 20
 0 29 1 3
+0 32 10 20
 1
 end_operator
 begin_operator
@@ -43428,8 +43428,8 @@ overcome abrasion excitement rice earth uranus
 1
 2 11
 2
-0 32 11 20
 0 29 2 0
+0 32 11 20
 1
 end_operator
 begin_operator
@@ -43437,8 +43437,8 @@ overcome abrasion excitement rice uranus vulcan
 1
 2 11
 2
-0 32 11 20
 0 29 3 2
+0 32 11 20
 1
 end_operator
 begin_operator
@@ -43446,8 +43446,8 @@ overcome abrasion excitement rice vulcan jupiter
 1
 2 11
 2
-0 32 11 20
 0 29 1 3
+0 32 11 20
 1
 end_operator
 begin_operator
@@ -43455,8 +43455,8 @@ overcome abrasion excitement scallop earth uranus
 1
 2 12
 2
-0 32 12 20
 0 29 2 0
+0 32 12 20
 1
 end_operator
 begin_operator
@@ -43464,8 +43464,8 @@ overcome abrasion excitement scallop uranus vulcan
 1
 2 12
 2
-0 32 12 20
 0 29 3 2
+0 32 12 20
 1
 end_operator
 begin_operator
@@ -43473,8 +43473,8 @@ overcome abrasion excitement scallop vulcan jupiter
 1
 2 12
 2
-0 32 12 20
 0 29 1 3
+0 32 12 20
 1
 end_operator
 begin_operator
@@ -43482,8 +43482,8 @@ overcome abrasion excitement tofu earth uranus
 1
 2 13
 2
-0 32 13 20
 0 29 2 0
+0 32 13 20
 1
 end_operator
 begin_operator
@@ -43491,8 +43491,8 @@ overcome abrasion excitement tofu uranus vulcan
 1
 2 13
 2
-0 32 13 20
 0 29 3 2
+0 32 13 20
 1
 end_operator
 begin_operator
@@ -43500,8 +43500,8 @@ overcome abrasion excitement tofu vulcan jupiter
 1
 2 13
 2
-0 32 13 20
 0 29 1 3
+0 32 13 20
 1
 end_operator
 begin_operator
@@ -43509,8 +43509,8 @@ overcome abrasion excitement tomato earth uranus
 1
 2 14
 2
-0 32 14 20
 0 29 2 0
+0 32 14 20
 1
 end_operator
 begin_operator
@@ -43518,8 +43518,8 @@ overcome abrasion excitement tomato uranus vulcan
 1
 2 14
 2
-0 32 14 20
 0 29 3 2
+0 32 14 20
 1
 end_operator
 begin_operator
@@ -43527,8 +43527,8 @@ overcome abrasion excitement tomato vulcan jupiter
 1
 2 14
 2
-0 32 14 20
 0 29 1 3
+0 32 14 20
 1
 end_operator
 begin_operator
@@ -43536,8 +43536,8 @@ overcome abrasion excitement tuna earth uranus
 1
 2 15
 2
-0 32 15 20
 0 29 2 0
+0 32 15 20
 1
 end_operator
 begin_operator
@@ -43545,8 +43545,8 @@ overcome abrasion excitement tuna uranus vulcan
 1
 2 15
 2
-0 32 15 20
 0 29 3 2
+0 32 15 20
 1
 end_operator
 begin_operator
@@ -43554,8 +43554,8 @@ overcome abrasion excitement tuna vulcan jupiter
 1
 2 15
 2
-0 32 15 20
 0 29 1 3
+0 32 15 20
 1
 end_operator
 begin_operator
@@ -43563,8 +43563,8 @@ overcome abrasion excitement turkey earth uranus
 1
 2 16
 2
-0 32 16 20
 0 29 2 0
+0 32 16 20
 1
 end_operator
 begin_operator
@@ -43572,8 +43572,8 @@ overcome abrasion excitement turkey uranus vulcan
 1
 2 16
 2
-0 32 16 20
 0 29 3 2
+0 32 16 20
 1
 end_operator
 begin_operator
@@ -43581,8 +43581,8 @@ overcome abrasion excitement turkey vulcan jupiter
 1
 2 16
 2
-0 32 16 20
 0 29 1 3
+0 32 16 20
 1
 end_operator
 begin_operator
@@ -43590,8 +43590,8 @@ overcome abrasion excitement wonderbread earth uranus
 1
 2 17
 2
-0 32 17 20
 0 29 2 0
+0 32 17 20
 1
 end_operator
 begin_operator
@@ -43599,8 +43599,8 @@ overcome abrasion excitement wonderbread uranus vulcan
 1
 2 17
 2
-0 32 17 20
 0 29 3 2
+0 32 17 20
 1
 end_operator
 begin_operator
@@ -43608,8 +43608,8 @@ overcome abrasion excitement wonderbread vulcan jupiter
 1
 2 17
 2
-0 32 17 20
 0 29 1 3
+0 32 17 20
 1
 end_operator
 begin_operator
@@ -43617,8 +43617,8 @@ overcome abrasion learning arugula earth uranus
 1
 3 0
 2
-0 32 0 21
 0 30 2 0
+0 32 0 21
 1
 end_operator
 begin_operator
@@ -43626,8 +43626,8 @@ overcome abrasion learning arugula uranus vulcan
 1
 3 0
 2
-0 32 0 21
 0 30 3 2
+0 32 0 21
 1
 end_operator
 begin_operator
@@ -43635,8 +43635,8 @@ overcome abrasion learning arugula vulcan jupiter
 1
 3 0
 2
-0 32 0 21
 0 30 1 3
+0 32 0 21
 1
 end_operator
 begin_operator
@@ -43644,8 +43644,8 @@ overcome abrasion learning baguette earth uranus
 1
 3 1
 2
-0 32 1 21
 0 30 2 0
+0 32 1 21
 1
 end_operator
 begin_operator
@@ -43653,8 +43653,8 @@ overcome abrasion learning baguette uranus vulcan
 1
 3 1
 2
-0 32 1 21
 0 30 3 2
+0 32 1 21
 1
 end_operator
 begin_operator
@@ -43662,8 +43662,8 @@ overcome abrasion learning baguette vulcan jupiter
 1
 3 1
 2
-0 32 1 21
 0 30 1 3
+0 32 1 21
 1
 end_operator
 begin_operator
@@ -43671,8 +43671,8 @@ overcome abrasion learning cantelope earth uranus
 1
 3 2
 2
-0 32 2 21
 0 30 2 0
+0 32 2 21
 1
 end_operator
 begin_operator
@@ -43680,8 +43680,8 @@ overcome abrasion learning cantelope uranus vulcan
 1
 3 2
 2
-0 32 2 21
 0 30 3 2
+0 32 2 21
 1
 end_operator
 begin_operator
@@ -43689,8 +43689,8 @@ overcome abrasion learning cantelope vulcan jupiter
 1
 3 2
 2
-0 32 2 21
 0 30 1 3
+0 32 2 21
 1
 end_operator
 begin_operator
@@ -43698,8 +43698,8 @@ overcome abrasion learning flounder earth uranus
 1
 3 3
 2
-0 32 3 21
 0 30 2 0
+0 32 3 21
 1
 end_operator
 begin_operator
@@ -43707,8 +43707,8 @@ overcome abrasion learning flounder uranus vulcan
 1
 3 3
 2
-0 32 3 21
 0 30 3 2
+0 32 3 21
 1
 end_operator
 begin_operator
@@ -43716,8 +43716,8 @@ overcome abrasion learning flounder vulcan jupiter
 1
 3 3
 2
-0 32 3 21
 0 30 1 3
+0 32 3 21
 1
 end_operator
 begin_operator
@@ -43725,8 +43725,8 @@ overcome abrasion learning hotdog earth uranus
 1
 3 4
 2
-0 32 4 21
 0 30 2 0
+0 32 4 21
 1
 end_operator
 begin_operator
@@ -43734,8 +43734,8 @@ overcome abrasion learning hotdog uranus vulcan
 1
 3 4
 2
-0 32 4 21
 0 30 3 2
+0 32 4 21
 1
 end_operator
 begin_operator
@@ -43743,8 +43743,8 @@ overcome abrasion learning hotdog vulcan jupiter
 1
 3 4
 2
-0 32 4 21
 0 30 1 3
+0 32 4 21
 1
 end_operator
 begin_operator
@@ -43752,8 +43752,8 @@ overcome abrasion learning lobster earth uranus
 1
 3 5
 2
-0 32 5 21
 0 30 2 0
+0 32 5 21
 1
 end_operator
 begin_operator
@@ -43761,8 +43761,8 @@ overcome abrasion learning lobster uranus vulcan
 1
 3 5
 2
-0 32 5 21
 0 30 3 2
+0 32 5 21
 1
 end_operator
 begin_operator
@@ -43770,8 +43770,8 @@ overcome abrasion learning lobster vulcan jupiter
 1
 3 5
 2
-0 32 5 21
 0 30 1 3
+0 32 5 21
 1
 end_operator
 begin_operator
@@ -43779,8 +43779,8 @@ overcome abrasion learning muffin earth uranus
 1
 3 6
 2
-0 32 6 21
 0 30 2 0
+0 32 6 21
 1
 end_operator
 begin_operator
@@ -43788,8 +43788,8 @@ overcome abrasion learning muffin uranus vulcan
 1
 3 6
 2
-0 32 6 21
 0 30 3 2
+0 32 6 21
 1
 end_operator
 begin_operator
@@ -43797,8 +43797,8 @@ overcome abrasion learning muffin vulcan jupiter
 1
 3 6
 2
-0 32 6 21
 0 30 1 3
+0 32 6 21
 1
 end_operator
 begin_operator
@@ -43806,8 +43806,8 @@ overcome abrasion learning okra earth uranus
 1
 3 7
 2
-0 32 7 21
 0 30 2 0
+0 32 7 21
 1
 end_operator
 begin_operator
@@ -43815,8 +43815,8 @@ overcome abrasion learning okra uranus vulcan
 1
 3 7
 2
-0 32 7 21
 0 30 3 2
+0 32 7 21
 1
 end_operator
 begin_operator
@@ -43824,8 +43824,8 @@ overcome abrasion learning okra vulcan jupiter
 1
 3 7
 2
-0 32 7 21
 0 30 1 3
+0 32 7 21
 1
 end_operator
 begin_operator
@@ -43833,8 +43833,8 @@ overcome abrasion learning pepper earth uranus
 1
 3 8
 2
-0 32 8 21
 0 30 2 0
+0 32 8 21
 1
 end_operator
 begin_operator
@@ -43842,8 +43842,8 @@ overcome abrasion learning pepper uranus vulcan
 1
 3 8
 2
-0 32 8 21
 0 30 3 2
+0 32 8 21
 1
 end_operator
 begin_operator
@@ -43851,8 +43851,8 @@ overcome abrasion learning pepper vulcan jupiter
 1
 3 8
 2
-0 32 8 21
 0 30 1 3
+0 32 8 21
 1
 end_operator
 begin_operator
@@ -43860,8 +43860,8 @@ overcome abrasion learning pistachio earth uranus
 1
 3 9
 2
-0 32 9 21
 0 30 2 0
+0 32 9 21
 1
 end_operator
 begin_operator
@@ -43869,8 +43869,8 @@ overcome abrasion learning pistachio uranus vulcan
 1
 3 9
 2
-0 32 9 21
 0 30 3 2
+0 32 9 21
 1
 end_operator
 begin_operator
@@ -43878,8 +43878,8 @@ overcome abrasion learning pistachio vulcan jupiter
 1
 3 9
 2
-0 32 9 21
 0 30 1 3
+0 32 9 21
 1
 end_operator
 begin_operator
@@ -43887,8 +43887,8 @@ overcome abrasion learning pork earth uranus
 1
 3 10
 2
-0 32 10 21
 0 30 2 0
+0 32 10 21
 1
 end_operator
 begin_operator
@@ -43896,8 +43896,8 @@ overcome abrasion learning pork uranus vulcan
 1
 3 10
 2
-0 32 10 21
 0 30 3 2
+0 32 10 21
 1
 end_operator
 begin_operator
@@ -43905,8 +43905,8 @@ overcome abrasion learning pork vulcan jupiter
 1
 3 10
 2
-0 32 10 21
 0 30 1 3
+0 32 10 21
 1
 end_operator
 begin_operator
@@ -43914,8 +43914,8 @@ overcome abrasion learning rice earth uranus
 1
 3 11
 2
-0 32 11 21
 0 30 2 0
+0 32 11 21
 1
 end_operator
 begin_operator
@@ -43923,8 +43923,8 @@ overcome abrasion learning rice uranus vulcan
 1
 3 11
 2
-0 32 11 21
 0 30 3 2
+0 32 11 21
 1
 end_operator
 begin_operator
@@ -43932,8 +43932,8 @@ overcome abrasion learning rice vulcan jupiter
 1
 3 11
 2
-0 32 11 21
 0 30 1 3
+0 32 11 21
 1
 end_operator
 begin_operator
@@ -43941,8 +43941,8 @@ overcome abrasion learning scallop earth uranus
 1
 3 12
 2
-0 32 12 21
 0 30 2 0
+0 32 12 21
 1
 end_operator
 begin_operator
@@ -43950,8 +43950,8 @@ overcome abrasion learning scallop uranus vulcan
 1
 3 12
 2
-0 32 12 21
 0 30 3 2
+0 32 12 21
 1
 end_operator
 begin_operator
@@ -43959,8 +43959,8 @@ overcome abrasion learning scallop vulcan jupiter
 1
 3 12
 2
-0 32 12 21
 0 30 1 3
+0 32 12 21
 1
 end_operator
 begin_operator
@@ -43968,8 +43968,8 @@ overcome abrasion learning tofu earth uranus
 1
 3 13
 2
-0 32 13 21
 0 30 2 0
+0 32 13 21
 1
 end_operator
 begin_operator
@@ -43977,8 +43977,8 @@ overcome abrasion learning tofu uranus vulcan
 1
 3 13
 2
-0 32 13 21
 0 30 3 2
+0 32 13 21
 1
 end_operator
 begin_operator
@@ -43986,8 +43986,8 @@ overcome abrasion learning tofu vulcan jupiter
 1
 3 13
 2
-0 32 13 21
 0 30 1 3
+0 32 13 21
 1
 end_operator
 begin_operator
@@ -43995,8 +43995,8 @@ overcome abrasion learning tomato earth uranus
 1
 3 14
 2
-0 32 14 21
 0 30 2 0
+0 32 14 21
 1
 end_operator
 begin_operator
@@ -44004,8 +44004,8 @@ overcome abrasion learning tomato uranus vulcan
 1
 3 14
 2
-0 32 14 21
 0 30 3 2
+0 32 14 21
 1
 end_operator
 begin_operator
@@ -44013,8 +44013,8 @@ overcome abrasion learning tomato vulcan jupiter
 1
 3 14
 2
-0 32 14 21
 0 30 1 3
+0 32 14 21
 1
 end_operator
 begin_operator
@@ -44022,8 +44022,8 @@ overcome abrasion learning tuna earth uranus
 1
 3 15
 2
-0 32 15 21
 0 30 2 0
+0 32 15 21
 1
 end_operator
 begin_operator
@@ -44031,8 +44031,8 @@ overcome abrasion learning tuna uranus vulcan
 1
 3 15
 2
-0 32 15 21
 0 30 3 2
+0 32 15 21
 1
 end_operator
 begin_operator
@@ -44040,8 +44040,8 @@ overcome abrasion learning tuna vulcan jupiter
 1
 3 15
 2
-0 32 15 21
 0 30 1 3
+0 32 15 21
 1
 end_operator
 begin_operator
@@ -44049,8 +44049,8 @@ overcome abrasion learning turkey earth uranus
 1
 3 16
 2
-0 32 16 21
 0 30 2 0
+0 32 16 21
 1
 end_operator
 begin_operator
@@ -44058,8 +44058,8 @@ overcome abrasion learning turkey uranus vulcan
 1
 3 16
 2
-0 32 16 21
 0 30 3 2
+0 32 16 21
 1
 end_operator
 begin_operator
@@ -44067,8 +44067,8 @@ overcome abrasion learning turkey vulcan jupiter
 1
 3 16
 2
-0 32 16 21
 0 30 1 3
+0 32 16 21
 1
 end_operator
 begin_operator
@@ -44076,8 +44076,8 @@ overcome abrasion learning wonderbread earth uranus
 1
 3 17
 2
-0 32 17 21
 0 30 2 0
+0 32 17 21
 1
 end_operator
 begin_operator
@@ -44085,8 +44085,8 @@ overcome abrasion learning wonderbread uranus vulcan
 1
 3 17
 2
-0 32 17 21
 0 30 3 2
+0 32 17 21
 1
 end_operator
 begin_operator
@@ -44094,8 +44094,8 @@ overcome abrasion learning wonderbread vulcan jupiter
 1
 3 17
 2
-0 32 17 21
 0 30 1 3
+0 32 17 21
 1
 end_operator
 begin_operator
@@ -44103,8 +44103,8 @@ overcome abrasion love arugula earth uranus
 1
 4 0
 2
-0 32 0 22
 0 31 2 0
+0 32 0 22
 1
 end_operator
 begin_operator
@@ -44112,8 +44112,8 @@ overcome abrasion love arugula uranus vulcan
 1
 4 0
 2
-0 32 0 22
 0 31 3 2
+0 32 0 22
 1
 end_operator
 begin_operator
@@ -44121,8 +44121,8 @@ overcome abrasion love arugula vulcan jupiter
 1
 4 0
 2
-0 32 0 22
 0 31 1 3
+0 32 0 22
 1
 end_operator
 begin_operator
@@ -44130,8 +44130,8 @@ overcome abrasion love baguette earth uranus
 1
 4 1
 2
-0 32 1 22
 0 31 2 0
+0 32 1 22
 1
 end_operator
 begin_operator
@@ -44139,8 +44139,8 @@ overcome abrasion love baguette uranus vulcan
 1
 4 1
 2
-0 32 1 22
 0 31 3 2
+0 32 1 22
 1
 end_operator
 begin_operator
@@ -44148,8 +44148,8 @@ overcome abrasion love baguette vulcan jupiter
 1
 4 1
 2
-0 32 1 22
 0 31 1 3
+0 32 1 22
 1
 end_operator
 begin_operator
@@ -44157,8 +44157,8 @@ overcome abrasion love cantelope earth uranus
 1
 4 2
 2
-0 32 2 22
 0 31 2 0
+0 32 2 22
 1
 end_operator
 begin_operator
@@ -44166,8 +44166,8 @@ overcome abrasion love cantelope uranus vulcan
 1
 4 2
 2
-0 32 2 22
 0 31 3 2
+0 32 2 22
 1
 end_operator
 begin_operator
@@ -44175,8 +44175,8 @@ overcome abrasion love cantelope vulcan jupiter
 1
 4 2
 2
-0 32 2 22
 0 31 1 3
+0 32 2 22
 1
 end_operator
 begin_operator
@@ -44184,8 +44184,8 @@ overcome abrasion love flounder earth uranus
 1
 4 3
 2
-0 32 3 22
 0 31 2 0
+0 32 3 22
 1
 end_operator
 begin_operator
@@ -44193,8 +44193,8 @@ overcome abrasion love flounder uranus vulcan
 1
 4 3
 2
-0 32 3 22
 0 31 3 2
+0 32 3 22
 1
 end_operator
 begin_operator
@@ -44202,8 +44202,8 @@ overcome abrasion love flounder vulcan jupiter
 1
 4 3
 2
-0 32 3 22
 0 31 1 3
+0 32 3 22
 1
 end_operator
 begin_operator
@@ -44211,8 +44211,8 @@ overcome abrasion love hotdog earth uranus
 1
 4 4
 2
-0 32 4 22
 0 31 2 0
+0 32 4 22
 1
 end_operator
 begin_operator
@@ -44220,8 +44220,8 @@ overcome abrasion love hotdog uranus vulcan
 1
 4 4
 2
-0 32 4 22
 0 31 3 2
+0 32 4 22
 1
 end_operator
 begin_operator
@@ -44229,8 +44229,8 @@ overcome abrasion love hotdog vulcan jupiter
 1
 4 4
 2
-0 32 4 22
 0 31 1 3
+0 32 4 22
 1
 end_operator
 begin_operator
@@ -44238,8 +44238,8 @@ overcome abrasion love lobster earth uranus
 1
 4 5
 2
-0 32 5 22
 0 31 2 0
+0 32 5 22
 1
 end_operator
 begin_operator
@@ -44247,8 +44247,8 @@ overcome abrasion love lobster uranus vulcan
 1
 4 5
 2
-0 32 5 22
 0 31 3 2
+0 32 5 22
 1
 end_operator
 begin_operator
@@ -44256,8 +44256,8 @@ overcome abrasion love lobster vulcan jupiter
 1
 4 5
 2
-0 32 5 22
 0 31 1 3
+0 32 5 22
 1
 end_operator
 begin_operator
@@ -44265,8 +44265,8 @@ overcome abrasion love muffin earth uranus
 1
 4 6
 2
-0 32 6 22
 0 31 2 0
+0 32 6 22
 1
 end_operator
 begin_operator
@@ -44274,8 +44274,8 @@ overcome abrasion love muffin uranus vulcan
 1
 4 6
 2
-0 32 6 22
 0 31 3 2
+0 32 6 22
 1
 end_operator
 begin_operator
@@ -44283,8 +44283,8 @@ overcome abrasion love muffin vulcan jupiter
 1
 4 6
 2
-0 32 6 22
 0 31 1 3
+0 32 6 22
 1
 end_operator
 begin_operator
@@ -44292,8 +44292,8 @@ overcome abrasion love okra earth uranus
 1
 4 7
 2
-0 32 7 22
 0 31 2 0
+0 32 7 22
 1
 end_operator
 begin_operator
@@ -44301,8 +44301,8 @@ overcome abrasion love okra uranus vulcan
 1
 4 7
 2
-0 32 7 22
 0 31 3 2
+0 32 7 22
 1
 end_operator
 begin_operator
@@ -44310,8 +44310,8 @@ overcome abrasion love okra vulcan jupiter
 1
 4 7
 2
-0 32 7 22
 0 31 1 3
+0 32 7 22
 1
 end_operator
 begin_operator
@@ -44319,8 +44319,8 @@ overcome abrasion love pepper earth uranus
 1
 4 8
 2
-0 32 8 22
 0 31 2 0
+0 32 8 22
 1
 end_operator
 begin_operator
@@ -44328,8 +44328,8 @@ overcome abrasion love pepper uranus vulcan
 1
 4 8
 2
-0 32 8 22
 0 31 3 2
+0 32 8 22
 1
 end_operator
 begin_operator
@@ -44337,8 +44337,8 @@ overcome abrasion love pepper vulcan jupiter
 1
 4 8
 2
-0 32 8 22
 0 31 1 3
+0 32 8 22
 1
 end_operator
 begin_operator
@@ -44346,8 +44346,8 @@ overcome abrasion love pistachio earth uranus
 1
 4 9
 2
-0 32 9 22
 0 31 2 0
+0 32 9 22
 1
 end_operator
 begin_operator
@@ -44355,8 +44355,8 @@ overcome abrasion love pistachio uranus vulcan
 1
 4 9
 2
-0 32 9 22
 0 31 3 2
+0 32 9 22
 1
 end_operator
 begin_operator
@@ -44364,8 +44364,8 @@ overcome abrasion love pistachio vulcan jupiter
 1
 4 9
 2
-0 32 9 22
 0 31 1 3
+0 32 9 22
 1
 end_operator
 begin_operator
@@ -44373,8 +44373,8 @@ overcome abrasion love pork earth uranus
 1
 4 10
 2
-0 32 10 22
 0 31 2 0
+0 32 10 22
 1
 end_operator
 begin_operator
@@ -44382,8 +44382,8 @@ overcome abrasion love pork uranus vulcan
 1
 4 10
 2
-0 32 10 22
 0 31 3 2
+0 32 10 22
 1
 end_operator
 begin_operator
@@ -44391,8 +44391,8 @@ overcome abrasion love pork vulcan jupiter
 1
 4 10
 2
-0 32 10 22
 0 31 1 3
+0 32 10 22
 1
 end_operator
 begin_operator
@@ -44400,8 +44400,8 @@ overcome abrasion love rice earth uranus
 1
 4 11
 2
-0 32 11 22
 0 31 2 0
+0 32 11 22
 1
 end_operator
 begin_operator
@@ -44409,8 +44409,8 @@ overcome abrasion love rice uranus vulcan
 1
 4 11
 2
-0 32 11 22
 0 31 3 2
+0 32 11 22
 1
 end_operator
 begin_operator
@@ -44418,8 +44418,8 @@ overcome abrasion love rice vulcan jupiter
 1
 4 11
 2
-0 32 11 22
 0 31 1 3
+0 32 11 22
 1
 end_operator
 begin_operator
@@ -44427,8 +44427,8 @@ overcome abrasion love scallop earth uranus
 1
 4 12
 2
-0 32 12 22
 0 31 2 0
+0 32 12 22
 1
 end_operator
 begin_operator
@@ -44436,8 +44436,8 @@ overcome abrasion love scallop uranus vulcan
 1
 4 12
 2
-0 32 12 22
 0 31 3 2
+0 32 12 22
 1
 end_operator
 begin_operator
@@ -44445,8 +44445,8 @@ overcome abrasion love scallop vulcan jupiter
 1
 4 12
 2
-0 32 12 22
 0 31 1 3
+0 32 12 22
 1
 end_operator
 begin_operator
@@ -44454,8 +44454,8 @@ overcome abrasion love tofu earth uranus
 1
 4 13
 2
-0 32 13 22
 0 31 2 0
+0 32 13 22
 1
 end_operator
 begin_operator
@@ -44463,8 +44463,8 @@ overcome abrasion love tofu uranus vulcan
 1
 4 13
 2
-0 32 13 22
 0 31 3 2
+0 32 13 22
 1
 end_operator
 begin_operator
@@ -44472,8 +44472,8 @@ overcome abrasion love tofu vulcan jupiter
 1
 4 13
 2
-0 32 13 22
 0 31 1 3
+0 32 13 22
 1
 end_operator
 begin_operator
@@ -44481,8 +44481,8 @@ overcome abrasion love tomato earth uranus
 1
 4 14
 2
-0 32 14 22
 0 31 2 0
+0 32 14 22
 1
 end_operator
 begin_operator
@@ -44490,8 +44490,8 @@ overcome abrasion love tomato uranus vulcan
 1
 4 14
 2
-0 32 14 22
 0 31 3 2
+0 32 14 22
 1
 end_operator
 begin_operator
@@ -44499,8 +44499,8 @@ overcome abrasion love tomato vulcan jupiter
 1
 4 14
 2
-0 32 14 22
 0 31 1 3
+0 32 14 22
 1
 end_operator
 begin_operator
@@ -44508,8 +44508,8 @@ overcome abrasion love tuna earth uranus
 1
 4 15
 2
-0 32 15 22
 0 31 2 0
+0 32 15 22
 1
 end_operator
 begin_operator
@@ -44517,8 +44517,8 @@ overcome abrasion love tuna uranus vulcan
 1
 4 15
 2
-0 32 15 22
 0 31 3 2
+0 32 15 22
 1
 end_operator
 begin_operator
@@ -44526,8 +44526,8 @@ overcome abrasion love tuna vulcan jupiter
 1
 4 15
 2
-0 32 15 22
 0 31 1 3
+0 32 15 22
 1
 end_operator
 begin_operator
@@ -44535,8 +44535,8 @@ overcome abrasion love turkey earth uranus
 1
 4 16
 2
-0 32 16 22
 0 31 2 0
+0 32 16 22
 1
 end_operator
 begin_operator
@@ -44544,8 +44544,8 @@ overcome abrasion love turkey uranus vulcan
 1
 4 16
 2
-0 32 16 22
 0 31 3 2
+0 32 16 22
 1
 end_operator
 begin_operator
@@ -44553,8 +44553,8 @@ overcome abrasion love turkey vulcan jupiter
 1
 4 16
 2
-0 32 16 22
 0 31 1 3
+0 32 16 22
 1
 end_operator
 begin_operator
@@ -44562,8 +44562,8 @@ overcome abrasion love wonderbread earth uranus
 1
 4 17
 2
-0 32 17 22
 0 31 2 0
+0 32 17 22
 1
 end_operator
 begin_operator
@@ -44571,8 +44571,8 @@ overcome abrasion love wonderbread uranus vulcan
 1
 4 17
 2
-0 32 17 22
 0 31 3 2
+0 32 17 22
 1
 end_operator
 begin_operator
@@ -44580,8 +44580,8 @@ overcome abrasion love wonderbread vulcan jupiter
 1
 4 17
 2
-0 32 17 22
 0 31 1 3
+0 32 17 22
 1
 end_operator
 begin_operator
@@ -46533,8 +46533,8 @@ overcome anger achievement arugula earth uranus
 1
 0 0
 2
-0 33 0 18
 0 27 2 0
+0 33 0 18
 1
 end_operator
 begin_operator
@@ -46542,8 +46542,8 @@ overcome anger achievement arugula uranus vulcan
 1
 0 0
 2
-0 33 0 18
 0 27 3 2
+0 33 0 18
 1
 end_operator
 begin_operator
@@ -46551,8 +46551,8 @@ overcome anger achievement arugula vulcan jupiter
 1
 0 0
 2
-0 33 0 18
 0 27 1 3
+0 33 0 18
 1
 end_operator
 begin_operator
@@ -46560,8 +46560,8 @@ overcome anger achievement baguette earth uranus
 1
 0 1
 2
-0 33 1 18
 0 27 2 0
+0 33 1 18
 1
 end_operator
 begin_operator
@@ -46569,8 +46569,8 @@ overcome anger achievement baguette uranus vulcan
 1
 0 1
 2
-0 33 1 18
 0 27 3 2
+0 33 1 18
 1
 end_operator
 begin_operator
@@ -46578,8 +46578,8 @@ overcome anger achievement baguette vulcan jupiter
 1
 0 1
 2
-0 33 1 18
 0 27 1 3
+0 33 1 18
 1
 end_operator
 begin_operator
@@ -46587,8 +46587,8 @@ overcome anger achievement cantelope earth uranus
 1
 0 2
 2
-0 33 2 18
 0 27 2 0
+0 33 2 18
 1
 end_operator
 begin_operator
@@ -46596,8 +46596,8 @@ overcome anger achievement cantelope uranus vulcan
 1
 0 2
 2
-0 33 2 18
 0 27 3 2
+0 33 2 18
 1
 end_operator
 begin_operator
@@ -46605,8 +46605,8 @@ overcome anger achievement cantelope vulcan jupiter
 1
 0 2
 2
-0 33 2 18
 0 27 1 3
+0 33 2 18
 1
 end_operator
 begin_operator
@@ -46614,8 +46614,8 @@ overcome anger achievement flounder earth uranus
 1
 0 3
 2
-0 33 3 18
 0 27 2 0
+0 33 3 18
 1
 end_operator
 begin_operator
@@ -46623,8 +46623,8 @@ overcome anger achievement flounder uranus vulcan
 1
 0 3
 2
-0 33 3 18
 0 27 3 2
+0 33 3 18
 1
 end_operator
 begin_operator
@@ -46632,8 +46632,8 @@ overcome anger achievement flounder vulcan jupiter
 1
 0 3
 2
-0 33 3 18
 0 27 1 3
+0 33 3 18
 1
 end_operator
 begin_operator
@@ -46641,8 +46641,8 @@ overcome anger achievement hotdog earth uranus
 1
 0 4
 2
-0 33 4 18
 0 27 2 0
+0 33 4 18
 1
 end_operator
 begin_operator
@@ -46650,8 +46650,8 @@ overcome anger achievement hotdog uranus vulcan
 1
 0 4
 2
-0 33 4 18
 0 27 3 2
+0 33 4 18
 1
 end_operator
 begin_operator
@@ -46659,8 +46659,8 @@ overcome anger achievement hotdog vulcan jupiter
 1
 0 4
 2
-0 33 4 18
 0 27 1 3
+0 33 4 18
 1
 end_operator
 begin_operator
@@ -46668,8 +46668,8 @@ overcome anger achievement lobster earth uranus
 1
 0 5
 2
-0 33 5 18
 0 27 2 0
+0 33 5 18
 1
 end_operator
 begin_operator
@@ -46677,8 +46677,8 @@ overcome anger achievement lobster uranus vulcan
 1
 0 5
 2
-0 33 5 18
 0 27 3 2
+0 33 5 18
 1
 end_operator
 begin_operator
@@ -46686,8 +46686,8 @@ overcome anger achievement lobster vulcan jupiter
 1
 0 5
 2
-0 33 5 18
 0 27 1 3
+0 33 5 18
 1
 end_operator
 begin_operator
@@ -46695,8 +46695,8 @@ overcome anger achievement muffin earth uranus
 1
 0 6
 2
-0 33 6 18
 0 27 2 0
+0 33 6 18
 1
 end_operator
 begin_operator
@@ -46704,8 +46704,8 @@ overcome anger achievement muffin uranus vulcan
 1
 0 6
 2
-0 33 6 18
 0 27 3 2
+0 33 6 18
 1
 end_operator
 begin_operator
@@ -46713,8 +46713,8 @@ overcome anger achievement muffin vulcan jupiter
 1
 0 6
 2
-0 33 6 18
 0 27 1 3
+0 33 6 18
 1
 end_operator
 begin_operator
@@ -46722,8 +46722,8 @@ overcome anger achievement okra earth uranus
 1
 0 7
 2
-0 33 7 18
 0 27 2 0
+0 33 7 18
 1
 end_operator
 begin_operator
@@ -46731,8 +46731,8 @@ overcome anger achievement okra uranus vulcan
 1
 0 7
 2
-0 33 7 18
 0 27 3 2
+0 33 7 18
 1
 end_operator
 begin_operator
@@ -46740,8 +46740,8 @@ overcome anger achievement okra vulcan jupiter
 1
 0 7
 2
-0 33 7 18
 0 27 1 3
+0 33 7 18
 1
 end_operator
 begin_operator
@@ -46749,8 +46749,8 @@ overcome anger achievement pepper earth uranus
 1
 0 8
 2
-0 33 8 18
 0 27 2 0
+0 33 8 18
 1
 end_operator
 begin_operator
@@ -46758,8 +46758,8 @@ overcome anger achievement pepper uranus vulcan
 1
 0 8
 2
-0 33 8 18
 0 27 3 2
+0 33 8 18
 1
 end_operator
 begin_operator
@@ -46767,8 +46767,8 @@ overcome anger achievement pepper vulcan jupiter
 1
 0 8
 2
-0 33 8 18
 0 27 1 3
+0 33 8 18
 1
 end_operator
 begin_operator
@@ -46776,8 +46776,8 @@ overcome anger achievement pistachio earth uranus
 1
 0 9
 2
-0 33 9 18
 0 27 2 0
+0 33 9 18
 1
 end_operator
 begin_operator
@@ -46785,8 +46785,8 @@ overcome anger achievement pistachio uranus vulcan
 1
 0 9
 2
-0 33 9 18
 0 27 3 2
+0 33 9 18
 1
 end_operator
 begin_operator
@@ -46794,8 +46794,8 @@ overcome anger achievement pistachio vulcan jupiter
 1
 0 9
 2
-0 33 9 18
 0 27 1 3
+0 33 9 18
 1
 end_operator
 begin_operator
@@ -46803,8 +46803,8 @@ overcome anger achievement pork earth uranus
 1
 0 10
 2
-0 33 10 18
 0 27 2 0
+0 33 10 18
 1
 end_operator
 begin_operator
@@ -46812,8 +46812,8 @@ overcome anger achievement pork uranus vulcan
 1
 0 10
 2
-0 33 10 18
 0 27 3 2
+0 33 10 18
 1
 end_operator
 begin_operator
@@ -46821,8 +46821,8 @@ overcome anger achievement pork vulcan jupiter
 1
 0 10
 2
-0 33 10 18
 0 27 1 3
+0 33 10 18
 1
 end_operator
 begin_operator
@@ -46830,8 +46830,8 @@ overcome anger achievement rice earth uranus
 1
 0 11
 2
-0 33 11 18
 0 27 2 0
+0 33 11 18
 1
 end_operator
 begin_operator
@@ -46839,8 +46839,8 @@ overcome anger achievement rice uranus vulcan
 1
 0 11
 2
-0 33 11 18
 0 27 3 2
+0 33 11 18
 1
 end_operator
 begin_operator
@@ -46848,8 +46848,8 @@ overcome anger achievement rice vulcan jupiter
 1
 0 11
 2
-0 33 11 18
 0 27 1 3
+0 33 11 18
 1
 end_operator
 begin_operator
@@ -46857,8 +46857,8 @@ overcome anger achievement scallop earth uranus
 1
 0 12
 2
-0 33 12 18
 0 27 2 0
+0 33 12 18
 1
 end_operator
 begin_operator
@@ -46866,8 +46866,8 @@ overcome anger achievement scallop uranus vulcan
 1
 0 12
 2
-0 33 12 18
 0 27 3 2
+0 33 12 18
 1
 end_operator
 begin_operator
@@ -46875,8 +46875,8 @@ overcome anger achievement scallop vulcan jupiter
 1
 0 12
 2
-0 33 12 18
 0 27 1 3
+0 33 12 18
 1
 end_operator
 begin_operator
@@ -46884,8 +46884,8 @@ overcome anger achievement tofu earth uranus
 1
 0 13
 2
-0 33 13 18
 0 27 2 0
+0 33 13 18
 1
 end_operator
 begin_operator
@@ -46893,8 +46893,8 @@ overcome anger achievement tofu uranus vulcan
 1
 0 13
 2
-0 33 13 18
 0 27 3 2
+0 33 13 18
 1
 end_operator
 begin_operator
@@ -46902,8 +46902,8 @@ overcome anger achievement tofu vulcan jupiter
 1
 0 13
 2
-0 33 13 18
 0 27 1 3
+0 33 13 18
 1
 end_operator
 begin_operator
@@ -46911,8 +46911,8 @@ overcome anger achievement tomato earth uranus
 1
 0 14
 2
-0 33 14 18
 0 27 2 0
+0 33 14 18
 1
 end_operator
 begin_operator
@@ -46920,8 +46920,8 @@ overcome anger achievement tomato uranus vulcan
 1
 0 14
 2
-0 33 14 18
 0 27 3 2
+0 33 14 18
 1
 end_operator
 begin_operator
@@ -46929,8 +46929,8 @@ overcome anger achievement tomato vulcan jupiter
 1
 0 14
 2
-0 33 14 18
 0 27 1 3
+0 33 14 18
 1
 end_operator
 begin_operator
@@ -46938,8 +46938,8 @@ overcome anger achievement tuna earth uranus
 1
 0 15
 2
-0 33 15 18
 0 27 2 0
+0 33 15 18
 1
 end_operator
 begin_operator
@@ -46947,8 +46947,8 @@ overcome anger achievement tuna uranus vulcan
 1
 0 15
 2
-0 33 15 18
 0 27 3 2
+0 33 15 18
 1
 end_operator
 begin_operator
@@ -46956,8 +46956,8 @@ overcome anger achievement tuna vulcan jupiter
 1
 0 15
 2
-0 33 15 18
 0 27 1 3
+0 33 15 18
 1
 end_operator
 begin_operator
@@ -46965,8 +46965,8 @@ overcome anger achievement turkey earth uranus
 1
 0 16
 2
-0 33 16 18
 0 27 2 0
+0 33 16 18
 1
 end_operator
 begin_operator
@@ -46974,8 +46974,8 @@ overcome anger achievement turkey uranus vulcan
 1
 0 16
 2
-0 33 16 18
 0 27 3 2
+0 33 16 18
 1
 end_operator
 begin_operator
@@ -46983,8 +46983,8 @@ overcome anger achievement turkey vulcan jupiter
 1
 0 16
 2
-0 33 16 18
 0 27 1 3
+0 33 16 18
 1
 end_operator
 begin_operator
@@ -46992,8 +46992,8 @@ overcome anger achievement wonderbread earth uranus
 1
 0 17
 2
-0 33 17 18
 0 27 2 0
+0 33 17 18
 1
 end_operator
 begin_operator
@@ -47001,8 +47001,8 @@ overcome anger achievement wonderbread uranus vulcan
 1
 0 17
 2
-0 33 17 18
 0 27 3 2
+0 33 17 18
 1
 end_operator
 begin_operator
@@ -47010,8 +47010,8 @@ overcome anger achievement wonderbread vulcan jupiter
 1
 0 17
 2
-0 33 17 18
 0 27 1 3
+0 33 17 18
 1
 end_operator
 begin_operator
@@ -47019,8 +47019,8 @@ overcome anger aesthetics arugula earth uranus
 1
 1 0
 2
-0 33 0 19
 0 28 2 0
+0 33 0 19
 1
 end_operator
 begin_operator
@@ -47028,8 +47028,8 @@ overcome anger aesthetics arugula uranus vulcan
 1
 1 0
 2
-0 33 0 19
 0 28 3 2
+0 33 0 19
 1
 end_operator
 begin_operator
@@ -47037,8 +47037,8 @@ overcome anger aesthetics arugula vulcan jupiter
 1
 1 0
 2
-0 33 0 19
 0 28 1 3
+0 33 0 19
 1
 end_operator
 begin_operator
@@ -47046,8 +47046,8 @@ overcome anger aesthetics baguette earth uranus
 1
 1 1
 2
-0 33 1 19
 0 28 2 0
+0 33 1 19
 1
 end_operator
 begin_operator
@@ -47055,8 +47055,8 @@ overcome anger aesthetics baguette uranus vulcan
 1
 1 1
 2
-0 33 1 19
 0 28 3 2
+0 33 1 19
 1
 end_operator
 begin_operator
@@ -47064,8 +47064,8 @@ overcome anger aesthetics baguette vulcan jupiter
 1
 1 1
 2
-0 33 1 19
 0 28 1 3
+0 33 1 19
 1
 end_operator
 begin_operator
@@ -47073,8 +47073,8 @@ overcome anger aesthetics cantelope earth uranus
 1
 1 2
 2
-0 33 2 19
 0 28 2 0
+0 33 2 19
 1
 end_operator
 begin_operator
@@ -47082,8 +47082,8 @@ overcome anger aesthetics cantelope uranus vulcan
 1
 1 2
 2
-0 33 2 19
 0 28 3 2
+0 33 2 19
 1
 end_operator
 begin_operator
@@ -47091,8 +47091,8 @@ overcome anger aesthetics cantelope vulcan jupiter
 1
 1 2
 2
-0 33 2 19
 0 28 1 3
+0 33 2 19
 1
 end_operator
 begin_operator
@@ -47100,8 +47100,8 @@ overcome anger aesthetics flounder earth uranus
 1
 1 3
 2
-0 33 3 19
 0 28 2 0
+0 33 3 19
 1
 end_operator
 begin_operator
@@ -47109,8 +47109,8 @@ overcome anger aesthetics flounder uranus vulcan
 1
 1 3
 2
-0 33 3 19
 0 28 3 2
+0 33 3 19
 1
 end_operator
 begin_operator
@@ -47118,8 +47118,8 @@ overcome anger aesthetics flounder vulcan jupiter
 1
 1 3
 2
-0 33 3 19
 0 28 1 3
+0 33 3 19
 1
 end_operator
 begin_operator
@@ -47127,8 +47127,8 @@ overcome anger aesthetics hotdog earth uranus
 1
 1 4
 2
-0 33 4 19
 0 28 2 0
+0 33 4 19
 1
 end_operator
 begin_operator
@@ -47136,8 +47136,8 @@ overcome anger aesthetics hotdog uranus vulcan
 1
 1 4
 2
-0 33 4 19
 0 28 3 2
+0 33 4 19
 1
 end_operator
 begin_operator
@@ -47145,8 +47145,8 @@ overcome anger aesthetics hotdog vulcan jupiter
 1
 1 4
 2
-0 33 4 19
 0 28 1 3
+0 33 4 19
 1
 end_operator
 begin_operator
@@ -47154,8 +47154,8 @@ overcome anger aesthetics lobster earth uranus
 1
 1 5
 2
-0 33 5 19
 0 28 2 0
+0 33 5 19
 1
 end_operator
 begin_operator
@@ -47163,8 +47163,8 @@ overcome anger aesthetics lobster uranus vulcan
 1
 1 5
 2
-0 33 5 19
 0 28 3 2
+0 33 5 19
 1
 end_operator
 begin_operator
@@ -47172,8 +47172,8 @@ overcome anger aesthetics lobster vulcan jupiter
 1
 1 5
 2
-0 33 5 19
 0 28 1 3
+0 33 5 19
 1
 end_operator
 begin_operator
@@ -47181,8 +47181,8 @@ overcome anger aesthetics muffin earth uranus
 1
 1 6
 2
-0 33 6 19
 0 28 2 0
+0 33 6 19
 1
 end_operator
 begin_operator
@@ -47190,8 +47190,8 @@ overcome anger aesthetics muffin uranus vulcan
 1
 1 6
 2
-0 33 6 19
 0 28 3 2
+0 33 6 19
 1
 end_operator
 begin_operator
@@ -47199,8 +47199,8 @@ overcome anger aesthetics muffin vulcan jupiter
 1
 1 6
 2
-0 33 6 19
 0 28 1 3
+0 33 6 19
 1
 end_operator
 begin_operator
@@ -47208,8 +47208,8 @@ overcome anger aesthetics okra earth uranus
 1
 1 7
 2
-0 33 7 19
 0 28 2 0
+0 33 7 19
 1
 end_operator
 begin_operator
@@ -47217,8 +47217,8 @@ overcome anger aesthetics okra uranus vulcan
 1
 1 7
 2
-0 33 7 19
 0 28 3 2
+0 33 7 19
 1
 end_operator
 begin_operator
@@ -47226,8 +47226,8 @@ overcome anger aesthetics okra vulcan jupiter
 1
 1 7
 2
-0 33 7 19
 0 28 1 3
+0 33 7 19
 1
 end_operator
 begin_operator
@@ -47235,8 +47235,8 @@ overcome anger aesthetics pepper earth uranus
 1
 1 8
 2
-0 33 8 19
 0 28 2 0
+0 33 8 19
 1
 end_operator
 begin_operator
@@ -47244,8 +47244,8 @@ overcome anger aesthetics pepper uranus vulcan
 1
 1 8
 2
-0 33 8 19
 0 28 3 2
+0 33 8 19
 1
 end_operator
 begin_operator
@@ -47253,8 +47253,8 @@ overcome anger aesthetics pepper vulcan jupiter
 1
 1 8
 2
-0 33 8 19
 0 28 1 3
+0 33 8 19
 1
 end_operator
 begin_operator
@@ -47262,8 +47262,8 @@ overcome anger aesthetics pistachio earth uranus
 1
 1 9
 2
-0 33 9 19
 0 28 2 0
+0 33 9 19
 1
 end_operator
 begin_operator
@@ -47271,8 +47271,8 @@ overcome anger aesthetics pistachio uranus vulcan
 1
 1 9
 2
-0 33 9 19
 0 28 3 2
+0 33 9 19
 1
 end_operator
 begin_operator
@@ -47280,8 +47280,8 @@ overcome anger aesthetics pistachio vulcan jupiter
 1
 1 9
 2
-0 33 9 19
 0 28 1 3
+0 33 9 19
 1
 end_operator
 begin_operator
@@ -47289,8 +47289,8 @@ overcome anger aesthetics pork earth uranus
 1
 1 10
 2
-0 33 10 19
 0 28 2 0
+0 33 10 19
 1
 end_operator
 begin_operator
@@ -47298,8 +47298,8 @@ overcome anger aesthetics pork uranus vulcan
 1
 1 10
 2
-0 33 10 19
 0 28 3 2
+0 33 10 19
 1
 end_operator
 begin_operator
@@ -47307,8 +47307,8 @@ overcome anger aesthetics pork vulcan jupiter
 1
 1 10
 2
-0 33 10 19
 0 28 1 3
+0 33 10 19
 1
 end_operator
 begin_operator
@@ -47316,8 +47316,8 @@ overcome anger aesthetics rice earth uranus
 1
 1 11
 2
-0 33 11 19
 0 28 2 0
+0 33 11 19
 1
 end_operator
 begin_operator
@@ -47325,8 +47325,8 @@ overcome anger aesthetics rice uranus vulcan
 1
 1 11
 2
-0 33 11 19
 0 28 3 2
+0 33 11 19
 1
 end_operator
 begin_operator
@@ -47334,8 +47334,8 @@ overcome anger aesthetics rice vulcan jupiter
 1
 1 11
 2
-0 33 11 19
 0 28 1 3
+0 33 11 19
 1
 end_operator
 begin_operator
@@ -47343,8 +47343,8 @@ overcome anger aesthetics scallop earth uranus
 1
 1 12
 2
-0 33 12 19
 0 28 2 0
+0 33 12 19
 1
 end_operator
 begin_operator
@@ -47352,8 +47352,8 @@ overcome anger aesthetics scallop uranus vulcan
 1
 1 12
 2
-0 33 12 19
 0 28 3 2
+0 33 12 19
 1
 end_operator
 begin_operator
@@ -47361,8 +47361,8 @@ overcome anger aesthetics scallop vulcan jupiter
 1
 1 12
 2
-0 33 12 19
 0 28 1 3
+0 33 12 19
 1
 end_operator
 begin_operator
@@ -47370,8 +47370,8 @@ overcome anger aesthetics tofu earth uranus
 1
 1 13
 2
-0 33 13 19
 0 28 2 0
+0 33 13 19
 1
 end_operator
 begin_operator
@@ -47379,8 +47379,8 @@ overcome anger aesthetics tofu uranus vulcan
 1
 1 13
 2
-0 33 13 19
 0 28 3 2
+0 33 13 19
 1
 end_operator
 begin_operator
@@ -47388,8 +47388,8 @@ overcome anger aesthetics tofu vulcan jupiter
 1
 1 13
 2
-0 33 13 19
 0 28 1 3
+0 33 13 19
 1
 end_operator
 begin_operator
@@ -47397,8 +47397,8 @@ overcome anger aesthetics tomato earth uranus
 1
 1 14
 2
-0 33 14 19
 0 28 2 0
+0 33 14 19
 1
 end_operator
 begin_operator
@@ -47406,8 +47406,8 @@ overcome anger aesthetics tomato uranus vulcan
 1
 1 14
 2
-0 33 14 19
 0 28 3 2
+0 33 14 19
 1
 end_operator
 begin_operator
@@ -47415,8 +47415,8 @@ overcome anger aesthetics tomato vulcan jupiter
 1
 1 14
 2
-0 33 14 19
 0 28 1 3
+0 33 14 19
 1
 end_operator
 begin_operator
@@ -47424,8 +47424,8 @@ overcome anger aesthetics tuna earth uranus
 1
 1 15
 2
-0 33 15 19
 0 28 2 0
+0 33 15 19
 1
 end_operator
 begin_operator
@@ -47433,8 +47433,8 @@ overcome anger aesthetics tuna uranus vulcan
 1
 1 15
 2
-0 33 15 19
 0 28 3 2
+0 33 15 19
 1
 end_operator
 begin_operator
@@ -47442,8 +47442,8 @@ overcome anger aesthetics tuna vulcan jupiter
 1
 1 15
 2
-0 33 15 19
 0 28 1 3
+0 33 15 19
 1
 end_operator
 begin_operator
@@ -47451,8 +47451,8 @@ overcome anger aesthetics turkey earth uranus
 1
 1 16
 2
-0 33 16 19
 0 28 2 0
+0 33 16 19
 1
 end_operator
 begin_operator
@@ -47460,8 +47460,8 @@ overcome anger aesthetics turkey uranus vulcan
 1
 1 16
 2
-0 33 16 19
 0 28 3 2
+0 33 16 19
 1
 end_operator
 begin_operator
@@ -47469,8 +47469,8 @@ overcome anger aesthetics turkey vulcan jupiter
 1
 1 16
 2
-0 33 16 19
 0 28 1 3
+0 33 16 19
 1
 end_operator
 begin_operator
@@ -47478,8 +47478,8 @@ overcome anger aesthetics wonderbread earth uranus
 1
 1 17
 2
-0 33 17 19
 0 28 2 0
+0 33 17 19
 1
 end_operator
 begin_operator
@@ -47487,8 +47487,8 @@ overcome anger aesthetics wonderbread uranus vulcan
 1
 1 17
 2
-0 33 17 19
 0 28 3 2
+0 33 17 19
 1
 end_operator
 begin_operator
@@ -47496,8 +47496,8 @@ overcome anger aesthetics wonderbread vulcan jupiter
 1
 1 17
 2
-0 33 17 19
 0 28 1 3
+0 33 17 19
 1
 end_operator
 begin_operator
@@ -47505,8 +47505,8 @@ overcome anger excitement arugula earth uranus
 1
 2 0
 2
-0 33 0 20
 0 29 2 0
+0 33 0 20
 1
 end_operator
 begin_operator
@@ -47514,8 +47514,8 @@ overcome anger excitement arugula uranus vulcan
 1
 2 0
 2
-0 33 0 20
 0 29 3 2
+0 33 0 20
 1
 end_operator
 begin_operator
@@ -47523,8 +47523,8 @@ overcome anger excitement arugula vulcan jupiter
 1
 2 0
 2
-0 33 0 20
 0 29 1 3
+0 33 0 20
 1
 end_operator
 begin_operator
@@ -47532,8 +47532,8 @@ overcome anger excitement baguette earth uranus
 1
 2 1
 2
-0 33 1 20
 0 29 2 0
+0 33 1 20
 1
 end_operator
 begin_operator
@@ -47541,8 +47541,8 @@ overcome anger excitement baguette uranus vulcan
 1
 2 1
 2
-0 33 1 20
 0 29 3 2
+0 33 1 20
 1
 end_operator
 begin_operator
@@ -47550,8 +47550,8 @@ overcome anger excitement baguette vulcan jupiter
 1
 2 1
 2
-0 33 1 20
 0 29 1 3
+0 33 1 20
 1
 end_operator
 begin_operator
@@ -47559,8 +47559,8 @@ overcome anger excitement cantelope earth uranus
 1
 2 2
 2
-0 33 2 20
 0 29 2 0
+0 33 2 20
 1
 end_operator
 begin_operator
@@ -47568,8 +47568,8 @@ overcome anger excitement cantelope uranus vulcan
 1
 2 2
 2
-0 33 2 20
 0 29 3 2
+0 33 2 20
 1
 end_operator
 begin_operator
@@ -47577,8 +47577,8 @@ overcome anger excitement cantelope vulcan jupiter
 1
 2 2
 2
-0 33 2 20
 0 29 1 3
+0 33 2 20
 1
 end_operator
 begin_operator
@@ -47586,8 +47586,8 @@ overcome anger excitement flounder earth uranus
 1
 2 3
 2
-0 33 3 20
 0 29 2 0
+0 33 3 20
 1
 end_operator
 begin_operator
@@ -47595,8 +47595,8 @@ overcome anger excitement flounder uranus vulcan
 1
 2 3
 2
-0 33 3 20
 0 29 3 2
+0 33 3 20
 1
 end_operator
 begin_operator
@@ -47604,8 +47604,8 @@ overcome anger excitement flounder vulcan jupiter
 1
 2 3
 2
-0 33 3 20
 0 29 1 3
+0 33 3 20
 1
 end_operator
 begin_operator
@@ -47613,8 +47613,8 @@ overcome anger excitement hotdog earth uranus
 1
 2 4
 2
-0 33 4 20
 0 29 2 0
+0 33 4 20
 1
 end_operator
 begin_operator
@@ -47622,8 +47622,8 @@ overcome anger excitement hotdog uranus vulcan
 1
 2 4
 2
-0 33 4 20
 0 29 3 2
+0 33 4 20
 1
 end_operator
 begin_operator
@@ -47631,8 +47631,8 @@ overcome anger excitement hotdog vulcan jupiter
 1
 2 4
 2
-0 33 4 20
 0 29 1 3
+0 33 4 20
 1
 end_operator
 begin_operator
@@ -47640,8 +47640,8 @@ overcome anger excitement lobster earth uranus
 1
 2 5
 2
-0 33 5 20
 0 29 2 0
+0 33 5 20
 1
 end_operator
 begin_operator
@@ -47649,8 +47649,8 @@ overcome anger excitement lobster uranus vulcan
 1
 2 5
 2
-0 33 5 20
 0 29 3 2
+0 33 5 20
 1
 end_operator
 begin_operator
@@ -47658,8 +47658,8 @@ overcome anger excitement lobster vulcan jupiter
 1
 2 5
 2
-0 33 5 20
 0 29 1 3
+0 33 5 20
 1
 end_operator
 begin_operator
@@ -47667,8 +47667,8 @@ overcome anger excitement muffin earth uranus
 1
 2 6
 2
-0 33 6 20
 0 29 2 0
+0 33 6 20
 1
 end_operator
 begin_operator
@@ -47676,8 +47676,8 @@ overcome anger excitement muffin uranus vulcan
 1
 2 6
 2
-0 33 6 20
 0 29 3 2
+0 33 6 20
 1
 end_operator
 begin_operator
@@ -47685,8 +47685,8 @@ overcome anger excitement muffin vulcan jupiter
 1
 2 6
 2
-0 33 6 20
 0 29 1 3
+0 33 6 20
 1
 end_operator
 begin_operator
@@ -47694,8 +47694,8 @@ overcome anger excitement okra earth uranus
 1
 2 7
 2
-0 33 7 20
 0 29 2 0
+0 33 7 20
 1
 end_operator
 begin_operator
@@ -47703,8 +47703,8 @@ overcome anger excitement okra uranus vulcan
 1
 2 7
 2
-0 33 7 20
 0 29 3 2
+0 33 7 20
 1
 end_operator
 begin_operator
@@ -47712,8 +47712,8 @@ overcome anger excitement okra vulcan jupiter
 1
 2 7
 2
-0 33 7 20
 0 29 1 3
+0 33 7 20
 1
 end_operator
 begin_operator
@@ -47721,8 +47721,8 @@ overcome anger excitement pepper earth uranus
 1
 2 8
 2
-0 33 8 20
 0 29 2 0
+0 33 8 20
 1
 end_operator
 begin_operator
@@ -47730,8 +47730,8 @@ overcome anger excitement pepper uranus vulcan
 1
 2 8
 2
-0 33 8 20
 0 29 3 2
+0 33 8 20
 1
 end_operator
 begin_operator
@@ -47739,8 +47739,8 @@ overcome anger excitement pepper vulcan jupiter
 1
 2 8
 2
-0 33 8 20
 0 29 1 3
+0 33 8 20
 1
 end_operator
 begin_operator
@@ -47748,8 +47748,8 @@ overcome anger excitement pistachio earth uranus
 1
 2 9
 2
-0 33 9 20
 0 29 2 0
+0 33 9 20
 1
 end_operator
 begin_operator
@@ -47757,8 +47757,8 @@ overcome anger excitement pistachio uranus vulcan
 1
 2 9
 2
-0 33 9 20
 0 29 3 2
+0 33 9 20
 1
 end_operator
 begin_operator
@@ -47766,8 +47766,8 @@ overcome anger excitement pistachio vulcan jupiter
 1
 2 9
 2
-0 33 9 20
 0 29 1 3
+0 33 9 20
 1
 end_operator
 begin_operator
@@ -47775,8 +47775,8 @@ overcome anger excitement pork earth uranus
 1
 2 10
 2
-0 33 10 20
 0 29 2 0
+0 33 10 20
 1
 end_operator
 begin_operator
@@ -47784,8 +47784,8 @@ overcome anger excitement pork uranus vulcan
 1
 2 10
 2
-0 33 10 20
 0 29 3 2
+0 33 10 20
 1
 end_operator
 begin_operator
@@ -47793,8 +47793,8 @@ overcome anger excitement pork vulcan jupiter
 1
 2 10
 2
-0 33 10 20
 0 29 1 3
+0 33 10 20
 1
 end_operator
 begin_operator
@@ -47802,8 +47802,8 @@ overcome anger excitement rice earth uranus
 1
 2 11
 2
-0 33 11 20
 0 29 2 0
+0 33 11 20
 1
 end_operator
 begin_operator
@@ -47811,8 +47811,8 @@ overcome anger excitement rice uranus vulcan
 1
 2 11
 2
-0 33 11 20
 0 29 3 2
+0 33 11 20
 1
 end_operator
 begin_operator
@@ -47820,8 +47820,8 @@ overcome anger excitement rice vulcan jupiter
 1
 2 11
 2
-0 33 11 20
 0 29 1 3
+0 33 11 20
 1
 end_operator
 begin_operator
@@ -47829,8 +47829,8 @@ overcome anger excitement scallop earth uranus
 1
 2 12
 2
-0 33 12 20
 0 29 2 0
+0 33 12 20
 1
 end_operator
 begin_operator
@@ -47838,8 +47838,8 @@ overcome anger excitement scallop uranus vulcan
 1
 2 12
 2
-0 33 12 20
 0 29 3 2
+0 33 12 20
 1
 end_operator
 begin_operator
@@ -47847,8 +47847,8 @@ overcome anger excitement scallop vulcan jupiter
 1
 2 12
 2
-0 33 12 20
 0 29 1 3
+0 33 12 20
 1
 end_operator
 begin_operator
@@ -47856,8 +47856,8 @@ overcome anger excitement tofu earth uranus
 1
 2 13
 2
-0 33 13 20
 0 29 2 0
+0 33 13 20
 1
 end_operator
 begin_operator
@@ -47865,8 +47865,8 @@ overcome anger excitement tofu uranus vulcan
 1
 2 13
 2
-0 33 13 20
 0 29 3 2
+0 33 13 20
 1
 end_operator
 begin_operator
@@ -47874,8 +47874,8 @@ overcome anger excitement tofu vulcan jupiter
 1
 2 13
 2
-0 33 13 20
 0 29 1 3
+0 33 13 20
 1
 end_operator
 begin_operator
@@ -47883,8 +47883,8 @@ overcome anger excitement tomato earth uranus
 1
 2 14
 2
-0 33 14 20
 0 29 2 0
+0 33 14 20
 1
 end_operator
 begin_operator
@@ -47892,8 +47892,8 @@ overcome anger excitement tomato uranus vulcan
 1
 2 14
 2
-0 33 14 20
 0 29 3 2
+0 33 14 20
 1
 end_operator
 begin_operator
@@ -47901,8 +47901,8 @@ overcome anger excitement tomato vulcan jupiter
 1
 2 14
 2
-0 33 14 20
 0 29 1 3
+0 33 14 20
 1
 end_operator
 begin_operator
@@ -47910,8 +47910,8 @@ overcome anger excitement tuna earth uranus
 1
 2 15
 2
-0 33 15 20
 0 29 2 0
+0 33 15 20
 1
 end_operator
 begin_operator
@@ -47919,8 +47919,8 @@ overcome anger excitement tuna uranus vulcan
 1
 2 15
 2
-0 33 15 20
 0 29 3 2
+0 33 15 20
 1
 end_operator
 begin_operator
@@ -47928,8 +47928,8 @@ overcome anger excitement tuna vulcan jupiter
 1
 2 15
 2
-0 33 15 20
 0 29 1 3
+0 33 15 20
 1
 end_operator
 begin_operator
@@ -47937,8 +47937,8 @@ overcome anger excitement turkey earth uranus
 1
 2 16
 2
-0 33 16 20
 0 29 2 0
+0 33 16 20
 1
 end_operator
 begin_operator
@@ -47946,8 +47946,8 @@ overcome anger excitement turkey uranus vulcan
 1
 2 16
 2
-0 33 16 20
 0 29 3 2
+0 33 16 20
 1
 end_operator
 begin_operator
@@ -47955,8 +47955,8 @@ overcome anger excitement turkey vulcan jupiter
 1
 2 16
 2
-0 33 16 20
 0 29 1 3
+0 33 16 20
 1
 end_operator
 begin_operator
@@ -47964,8 +47964,8 @@ overcome anger excitement wonderbread earth uranus
 1
 2 17
 2
-0 33 17 20
 0 29 2 0
+0 33 17 20
 1
 end_operator
 begin_operator
@@ -47973,8 +47973,8 @@ overcome anger excitement wonderbread uranus vulcan
 1
 2 17
 2
-0 33 17 20
 0 29 3 2
+0 33 17 20
 1
 end_operator
 begin_operator
@@ -47982,8 +47982,8 @@ overcome anger excitement wonderbread vulcan jupiter
 1
 2 17
 2
-0 33 17 20
 0 29 1 3
+0 33 17 20
 1
 end_operator
 begin_operator
@@ -47991,8 +47991,8 @@ overcome anger learning arugula earth uranus
 1
 3 0
 2
-0 33 0 21
 0 30 2 0
+0 33 0 21
 1
 end_operator
 begin_operator
@@ -48000,8 +48000,8 @@ overcome anger learning arugula uranus vulcan
 1
 3 0
 2
-0 33 0 21
 0 30 3 2
+0 33 0 21
 1
 end_operator
 begin_operator
@@ -48009,8 +48009,8 @@ overcome anger learning arugula vulcan jupiter
 1
 3 0
 2
-0 33 0 21
 0 30 1 3
+0 33 0 21
 1
 end_operator
 begin_operator
@@ -48018,8 +48018,8 @@ overcome anger learning baguette earth uranus
 1
 3 1
 2
-0 33 1 21
 0 30 2 0
+0 33 1 21
 1
 end_operator
 begin_operator
@@ -48027,8 +48027,8 @@ overcome anger learning baguette uranus vulcan
 1
 3 1
 2
-0 33 1 21
 0 30 3 2
+0 33 1 21
 1
 end_operator
 begin_operator
@@ -48036,8 +48036,8 @@ overcome anger learning baguette vulcan jupiter
 1
 3 1
 2
-0 33 1 21
 0 30 1 3
+0 33 1 21
 1
 end_operator
 begin_operator
@@ -48045,8 +48045,8 @@ overcome anger learning cantelope earth uranus
 1
 3 2
 2
-0 33 2 21
 0 30 2 0
+0 33 2 21
 1
 end_operator
 begin_operator
@@ -48054,8 +48054,8 @@ overcome anger learning cantelope uranus vulcan
 1
 3 2
 2
-0 33 2 21
 0 30 3 2
+0 33 2 21
 1
 end_operator
 begin_operator
@@ -48063,8 +48063,8 @@ overcome anger learning cantelope vulcan jupiter
 1
 3 2
 2
-0 33 2 21
 0 30 1 3
+0 33 2 21
 1
 end_operator
 begin_operator
@@ -48072,8 +48072,8 @@ overcome anger learning flounder earth uranus
 1
 3 3
 2
-0 33 3 21
 0 30 2 0
+0 33 3 21
 1
 end_operator
 begin_operator
@@ -48081,8 +48081,8 @@ overcome anger learning flounder uranus vulcan
 1
 3 3
 2
-0 33 3 21
 0 30 3 2
+0 33 3 21
 1
 end_operator
 begin_operator
@@ -48090,8 +48090,8 @@ overcome anger learning flounder vulcan jupiter
 1
 3 3
 2
-0 33 3 21
 0 30 1 3
+0 33 3 21
 1
 end_operator
 begin_operator
@@ -48099,8 +48099,8 @@ overcome anger learning hotdog earth uranus
 1
 3 4
 2
-0 33 4 21
 0 30 2 0
+0 33 4 21
 1
 end_operator
 begin_operator
@@ -48108,8 +48108,8 @@ overcome anger learning hotdog uranus vulcan
 1
 3 4
 2
-0 33 4 21
 0 30 3 2
+0 33 4 21
 1
 end_operator
 begin_operator
@@ -48117,8 +48117,8 @@ overcome anger learning hotdog vulcan jupiter
 1
 3 4
 2
-0 33 4 21
 0 30 1 3
+0 33 4 21
 1
 end_operator
 begin_operator
@@ -48126,8 +48126,8 @@ overcome anger learning lobster earth uranus
 1
 3 5
 2
-0 33 5 21
 0 30 2 0
+0 33 5 21
 1
 end_operator
 begin_operator
@@ -48135,8 +48135,8 @@ overcome anger learning lobster uranus vulcan
 1
 3 5
 2
-0 33 5 21
 0 30 3 2
+0 33 5 21
 1
 end_operator
 begin_operator
@@ -48144,8 +48144,8 @@ overcome anger learning lobster vulcan jupiter
 1
 3 5
 2
-0 33 5 21
 0 30 1 3
+0 33 5 21
 1
 end_operator
 begin_operator
@@ -48153,8 +48153,8 @@ overcome anger learning muffin earth uranus
 1
 3 6
 2
-0 33 6 21
 0 30 2 0
+0 33 6 21
 1
 end_operator
 begin_operator
@@ -48162,8 +48162,8 @@ overcome anger learning muffin uranus vulcan
 1
 3 6
 2
-0 33 6 21
 0 30 3 2
+0 33 6 21
 1
 end_operator
 begin_operator
@@ -48171,8 +48171,8 @@ overcome anger learning muffin vulcan jupiter
 1
 3 6
 2
-0 33 6 21
 0 30 1 3
+0 33 6 21
 1
 end_operator
 begin_operator
@@ -48180,8 +48180,8 @@ overcome anger learning okra earth uranus
 1
 3 7
 2
-0 33 7 21
 0 30 2 0
+0 33 7 21
 1
 end_operator
 begin_operator
@@ -48189,8 +48189,8 @@ overcome anger learning okra uranus vulcan
 1
 3 7
 2
-0 33 7 21
 0 30 3 2
+0 33 7 21
 1
 end_operator
 begin_operator
@@ -48198,8 +48198,8 @@ overcome anger learning okra vulcan jupiter
 1
 3 7
 2
-0 33 7 21
 0 30 1 3
+0 33 7 21
 1
 end_operator
 begin_operator
@@ -48207,8 +48207,8 @@ overcome anger learning pepper earth uranus
 1
 3 8
 2
-0 33 8 21
 0 30 2 0
+0 33 8 21
 1
 end_operator
 begin_operator
@@ -48216,8 +48216,8 @@ overcome anger learning pepper uranus vulcan
 1
 3 8
 2
-0 33 8 21
 0 30 3 2
+0 33 8 21
 1
 end_operator
 begin_operator
@@ -48225,8 +48225,8 @@ overcome anger learning pepper vulcan jupiter
 1
 3 8
 2
-0 33 8 21
 0 30 1 3
+0 33 8 21
 1
 end_operator
 begin_operator
@@ -48234,8 +48234,8 @@ overcome anger learning pistachio earth uranus
 1
 3 9
 2
-0 33 9 21
 0 30 2 0
+0 33 9 21
 1
 end_operator
 begin_operator
@@ -48243,8 +48243,8 @@ overcome anger learning pistachio uranus vulcan
 1
 3 9
 2
-0 33 9 21
 0 30 3 2
+0 33 9 21
 1
 end_operator
 begin_operator
@@ -48252,8 +48252,8 @@ overcome anger learning pistachio vulcan jupiter
 1
 3 9
 2
-0 33 9 21
 0 30 1 3
+0 33 9 21
 1
 end_operator
 begin_operator
@@ -48261,8 +48261,8 @@ overcome anger learning pork earth uranus
 1
 3 10
 2
-0 33 10 21
 0 30 2 0
+0 33 10 21
 1
 end_operator
 begin_operator
@@ -48270,8 +48270,8 @@ overcome anger learning pork uranus vulcan
 1
 3 10
 2
-0 33 10 21
 0 30 3 2
+0 33 10 21
 1
 end_operator
 begin_operator
@@ -48279,8 +48279,8 @@ overcome anger learning pork vulcan jupiter
 1
 3 10
 2
-0 33 10 21
 0 30 1 3
+0 33 10 21
 1
 end_operator
 begin_operator
@@ -48288,8 +48288,8 @@ overcome anger learning rice earth uranus
 1
 3 11
 2
-0 33 11 21
 0 30 2 0
+0 33 11 21
 1
 end_operator
 begin_operator
@@ -48297,8 +48297,8 @@ overcome anger learning rice uranus vulcan
 1
 3 11
 2
-0 33 11 21
 0 30 3 2
+0 33 11 21
 1
 end_operator
 begin_operator
@@ -48306,8 +48306,8 @@ overcome anger learning rice vulcan jupiter
 1
 3 11
 2
-0 33 11 21
 0 30 1 3
+0 33 11 21
 1
 end_operator
 begin_operator
@@ -48315,8 +48315,8 @@ overcome anger learning scallop earth uranus
 1
 3 12
 2
-0 33 12 21
 0 30 2 0
+0 33 12 21
 1
 end_operator
 begin_operator
@@ -48324,8 +48324,8 @@ overcome anger learning scallop uranus vulcan
 1
 3 12
 2
-0 33 12 21
 0 30 3 2
+0 33 12 21
 1
 end_operator
 begin_operator
@@ -48333,8 +48333,8 @@ overcome anger learning scallop vulcan jupiter
 1
 3 12
 2
-0 33 12 21
 0 30 1 3
+0 33 12 21
 1
 end_operator
 begin_operator
@@ -48342,8 +48342,8 @@ overcome anger learning tofu earth uranus
 1
 3 13
 2
-0 33 13 21
 0 30 2 0
+0 33 13 21
 1
 end_operator
 begin_operator
@@ -48351,8 +48351,8 @@ overcome anger learning tofu uranus vulcan
 1
 3 13
 2
-0 33 13 21
 0 30 3 2
+0 33 13 21
 1
 end_operator
 begin_operator
@@ -48360,8 +48360,8 @@ overcome anger learning tofu vulcan jupiter
 1
 3 13
 2
-0 33 13 21
 0 30 1 3
+0 33 13 21
 1
 end_operator
 begin_operator
@@ -48369,8 +48369,8 @@ overcome anger learning tomato earth uranus
 1
 3 14
 2
-0 33 14 21
 0 30 2 0
+0 33 14 21
 1
 end_operator
 begin_operator
@@ -48378,8 +48378,8 @@ overcome anger learning tomato uranus vulcan
 1
 3 14
 2
-0 33 14 21
 0 30 3 2
+0 33 14 21
 1
 end_operator
 begin_operator
@@ -48387,8 +48387,8 @@ overcome anger learning tomato vulcan jupiter
 1
 3 14
 2
-0 33 14 21
 0 30 1 3
+0 33 14 21
 1
 end_operator
 begin_operator
@@ -48396,8 +48396,8 @@ overcome anger learning tuna earth uranus
 1
 3 15
 2
-0 33 15 21
 0 30 2 0
+0 33 15 21
 1
 end_operator
 begin_operator
@@ -48405,8 +48405,8 @@ overcome anger learning tuna uranus vulcan
 1
 3 15
 2
-0 33 15 21
 0 30 3 2
+0 33 15 21
 1
 end_operator
 begin_operator
@@ -48414,8 +48414,8 @@ overcome anger learning tuna vulcan jupiter
 1
 3 15
 2
-0 33 15 21
 0 30 1 3
+0 33 15 21
 1
 end_operator
 begin_operator
@@ -48423,8 +48423,8 @@ overcome anger learning turkey earth uranus
 1
 3 16
 2
-0 33 16 21
 0 30 2 0
+0 33 16 21
 1
 end_operator
 begin_operator
@@ -48432,8 +48432,8 @@ overcome anger learning turkey uranus vulcan
 1
 3 16
 2
-0 33 16 21
 0 30 3 2
+0 33 16 21
 1
 end_operator
 begin_operator
@@ -48441,8 +48441,8 @@ overcome anger learning turkey vulcan jupiter
 1
 3 16
 2
-0 33 16 21
 0 30 1 3
+0 33 16 21
 1
 end_operator
 begin_operator
@@ -48450,8 +48450,8 @@ overcome anger learning wonderbread earth uranus
 1
 3 17
 2
-0 33 17 21
 0 30 2 0
+0 33 17 21
 1
 end_operator
 begin_operator
@@ -48459,8 +48459,8 @@ overcome anger learning wonderbread uranus vulcan
 1
 3 17
 2
-0 33 17 21
 0 30 3 2
+0 33 17 21
 1
 end_operator
 begin_operator
@@ -48468,8 +48468,8 @@ overcome anger learning wonderbread vulcan jupiter
 1
 3 17
 2
-0 33 17 21
 0 30 1 3
+0 33 17 21
 1
 end_operator
 begin_operator
@@ -48477,8 +48477,8 @@ overcome anger love arugula earth uranus
 1
 4 0
 2
-0 33 0 22
 0 31 2 0
+0 33 0 22
 1
 end_operator
 begin_operator
@@ -48486,8 +48486,8 @@ overcome anger love arugula uranus vulcan
 1
 4 0
 2
-0 33 0 22
 0 31 3 2
+0 33 0 22
 1
 end_operator
 begin_operator
@@ -48495,8 +48495,8 @@ overcome anger love arugula vulcan jupiter
 1
 4 0
 2
-0 33 0 22
 0 31 1 3
+0 33 0 22
 1
 end_operator
 begin_operator
@@ -48504,8 +48504,8 @@ overcome anger love baguette earth uranus
 1
 4 1
 2
-0 33 1 22
 0 31 2 0
+0 33 1 22
 1
 end_operator
 begin_operator
@@ -48513,8 +48513,8 @@ overcome anger love baguette uranus vulcan
 1
 4 1
 2
-0 33 1 22
 0 31 3 2
+0 33 1 22
 1
 end_operator
 begin_operator
@@ -48522,8 +48522,8 @@ overcome anger love baguette vulcan jupiter
 1
 4 1
 2
-0 33 1 22
 0 31 1 3
+0 33 1 22
 1
 end_operator
 begin_operator
@@ -48531,8 +48531,8 @@ overcome anger love cantelope earth uranus
 1
 4 2
 2
-0 33 2 22
 0 31 2 0
+0 33 2 22
 1
 end_operator
 begin_operator
@@ -48540,8 +48540,8 @@ overcome anger love cantelope uranus vulcan
 1
 4 2
 2
-0 33 2 22
 0 31 3 2
+0 33 2 22
 1
 end_operator
 begin_operator
@@ -48549,8 +48549,8 @@ overcome anger love cantelope vulcan jupiter
 1
 4 2
 2
-0 33 2 22
 0 31 1 3
+0 33 2 22
 1
 end_operator
 begin_operator
@@ -48558,8 +48558,8 @@ overcome anger love flounder earth uranus
 1
 4 3
 2
-0 33 3 22
 0 31 2 0
+0 33 3 22
 1
 end_operator
 begin_operator
@@ -48567,8 +48567,8 @@ overcome anger love flounder uranus vulcan
 1
 4 3
 2
-0 33 3 22
 0 31 3 2
+0 33 3 22
 1
 end_operator
 begin_operator
@@ -48576,8 +48576,8 @@ overcome anger love flounder vulcan jupiter
 1
 4 3
 2
-0 33 3 22
 0 31 1 3
+0 33 3 22
 1
 end_operator
 begin_operator
@@ -48585,8 +48585,8 @@ overcome anger love hotdog earth uranus
 1
 4 4
 2
-0 33 4 22
 0 31 2 0
+0 33 4 22
 1
 end_operator
 begin_operator
@@ -48594,8 +48594,8 @@ overcome anger love hotdog uranus vulcan
 1
 4 4
 2
-0 33 4 22
 0 31 3 2
+0 33 4 22
 1
 end_operator
 begin_operator
@@ -48603,8 +48603,8 @@ overcome anger love hotdog vulcan jupiter
 1
 4 4
 2
-0 33 4 22
 0 31 1 3
+0 33 4 22
 1
 end_operator
 begin_operator
@@ -48612,8 +48612,8 @@ overcome anger love lobster earth uranus
 1
 4 5
 2
-0 33 5 22
 0 31 2 0
+0 33 5 22
 1
 end_operator
 begin_operator
@@ -48621,8 +48621,8 @@ overcome anger love lobster uranus vulcan
 1
 4 5
 2
-0 33 5 22
 0 31 3 2
+0 33 5 22
 1
 end_operator
 begin_operator
@@ -48630,8 +48630,8 @@ overcome anger love lobster vulcan jupiter
 1
 4 5
 2
-0 33 5 22
 0 31 1 3
+0 33 5 22
 1
 end_operator
 begin_operator
@@ -48639,8 +48639,8 @@ overcome anger love muffin earth uranus
 1
 4 6
 2
-0 33 6 22
 0 31 2 0
+0 33 6 22
 1
 end_operator
 begin_operator
@@ -48648,8 +48648,8 @@ overcome anger love muffin uranus vulcan
 1
 4 6
 2
-0 33 6 22
 0 31 3 2
+0 33 6 22
 1
 end_operator
 begin_operator
@@ -48657,8 +48657,8 @@ overcome anger love muffin vulcan jupiter
 1
 4 6
 2
-0 33 6 22
 0 31 1 3
+0 33 6 22
 1
 end_operator
 begin_operator
@@ -48666,8 +48666,8 @@ overcome anger love okra earth uranus
 1
 4 7
 2
-0 33 7 22
 0 31 2 0
+0 33 7 22
 1
 end_operator
 begin_operator
@@ -48675,8 +48675,8 @@ overcome anger love okra uranus vulcan
 1
 4 7
 2
-0 33 7 22
 0 31 3 2
+0 33 7 22
 1
 end_operator
 begin_operator
@@ -48684,8 +48684,8 @@ overcome anger love okra vulcan jupiter
 1
 4 7
 2
-0 33 7 22
 0 31 1 3
+0 33 7 22
 1
 end_operator
 begin_operator
@@ -48693,8 +48693,8 @@ overcome anger love pepper earth uranus
 1
 4 8
 2
-0 33 8 22
 0 31 2 0
+0 33 8 22
 1
 end_operator
 begin_operator
@@ -48702,8 +48702,8 @@ overcome anger love pepper uranus vulcan
 1
 4 8
 2
-0 33 8 22
 0 31 3 2
+0 33 8 22
 1
 end_operator
 begin_operator
@@ -48711,8 +48711,8 @@ overcome anger love pepper vulcan jupiter
 1
 4 8
 2
-0 33 8 22
 0 31 1 3
+0 33 8 22
 1
 end_operator
 begin_operator
@@ -48720,8 +48720,8 @@ overcome anger love pistachio earth uranus
 1
 4 9
 2
-0 33 9 22
 0 31 2 0
+0 33 9 22
 1
 end_operator
 begin_operator
@@ -48729,8 +48729,8 @@ overcome anger love pistachio uranus vulcan
 1
 4 9
 2
-0 33 9 22
 0 31 3 2
+0 33 9 22
 1
 end_operator
 begin_operator
@@ -48738,8 +48738,8 @@ overcome anger love pistachio vulcan jupiter
 1
 4 9
 2
-0 33 9 22
 0 31 1 3
+0 33 9 22
 1
 end_operator
 begin_operator
@@ -48747,8 +48747,8 @@ overcome anger love pork earth uranus
 1
 4 10
 2
-0 33 10 22
 0 31 2 0
+0 33 10 22
 1
 end_operator
 begin_operator
@@ -48756,8 +48756,8 @@ overcome anger love pork uranus vulcan
 1
 4 10
 2
-0 33 10 22
 0 31 3 2
+0 33 10 22
 1
 end_operator
 begin_operator
@@ -48765,8 +48765,8 @@ overcome anger love pork vulcan jupiter
 1
 4 10
 2
-0 33 10 22
 0 31 1 3
+0 33 10 22
 1
 end_operator
 begin_operator
@@ -48774,8 +48774,8 @@ overcome anger love rice earth uranus
 1
 4 11
 2
-0 33 11 22
 0 31 2 0
+0 33 11 22
 1
 end_operator
 begin_operator
@@ -48783,8 +48783,8 @@ overcome anger love rice uranus vulcan
 1
 4 11
 2
-0 33 11 22
 0 31 3 2
+0 33 11 22
 1
 end_operator
 begin_operator
@@ -48792,8 +48792,8 @@ overcome anger love rice vulcan jupiter
 1
 4 11
 2
-0 33 11 22
 0 31 1 3
+0 33 11 22
 1
 end_operator
 begin_operator
@@ -48801,8 +48801,8 @@ overcome anger love scallop earth uranus
 1
 4 12
 2
-0 33 12 22
 0 31 2 0
+0 33 12 22
 1
 end_operator
 begin_operator
@@ -48810,8 +48810,8 @@ overcome anger love scallop uranus vulcan
 1
 4 12
 2
-0 33 12 22
 0 31 3 2
+0 33 12 22
 1
 end_operator
 begin_operator
@@ -48819,8 +48819,8 @@ overcome anger love scallop vulcan jupiter
 1
 4 12
 2
-0 33 12 22
 0 31 1 3
+0 33 12 22
 1
 end_operator
 begin_operator
@@ -48828,8 +48828,8 @@ overcome anger love tofu earth uranus
 1
 4 13
 2
-0 33 13 22
 0 31 2 0
+0 33 13 22
 1
 end_operator
 begin_operator
@@ -48837,8 +48837,8 @@ overcome anger love tofu uranus vulcan
 1
 4 13
 2
-0 33 13 22
 0 31 3 2
+0 33 13 22
 1
 end_operator
 begin_operator
@@ -48846,8 +48846,8 @@ overcome anger love tofu vulcan jupiter
 1
 4 13
 2
-0 33 13 22
 0 31 1 3
+0 33 13 22
 1
 end_operator
 begin_operator
@@ -48855,8 +48855,8 @@ overcome anger love tomato earth uranus
 1
 4 14
 2
-0 33 14 22
 0 31 2 0
+0 33 14 22
 1
 end_operator
 begin_operator
@@ -48864,8 +48864,8 @@ overcome anger love tomato uranus vulcan
 1
 4 14
 2
-0 33 14 22
 0 31 3 2
+0 33 14 22
 1
 end_operator
 begin_operator
@@ -48873,8 +48873,8 @@ overcome anger love tomato vulcan jupiter
 1
 4 14
 2
-0 33 14 22
 0 31 1 3
+0 33 14 22
 1
 end_operator
 begin_operator
@@ -48882,8 +48882,8 @@ overcome anger love tuna earth uranus
 1
 4 15
 2
-0 33 15 22
 0 31 2 0
+0 33 15 22
 1
 end_operator
 begin_operator
@@ -48891,8 +48891,8 @@ overcome anger love tuna uranus vulcan
 1
 4 15
 2
-0 33 15 22
 0 31 3 2
+0 33 15 22
 1
 end_operator
 begin_operator
@@ -48900,8 +48900,8 @@ overcome anger love tuna vulcan jupiter
 1
 4 15
 2
-0 33 15 22
 0 31 1 3
+0 33 15 22
 1
 end_operator
 begin_operator
@@ -48909,8 +48909,8 @@ overcome anger love turkey earth uranus
 1
 4 16
 2
-0 33 16 22
 0 31 2 0
+0 33 16 22
 1
 end_operator
 begin_operator
@@ -48918,8 +48918,8 @@ overcome anger love turkey uranus vulcan
 1
 4 16
 2
-0 33 16 22
 0 31 3 2
+0 33 16 22
 1
 end_operator
 begin_operator
@@ -48927,8 +48927,8 @@ overcome anger love turkey vulcan jupiter
 1
 4 16
 2
-0 33 16 22
 0 31 1 3
+0 33 16 22
 1
 end_operator
 begin_operator
@@ -48936,8 +48936,8 @@ overcome anger love wonderbread earth uranus
 1
 4 17
 2
-0 33 17 22
 0 31 2 0
+0 33 17 22
 1
 end_operator
 begin_operator
@@ -48945,8 +48945,8 @@ overcome anger love wonderbread uranus vulcan
 1
 4 17
 2
-0 33 17 22
 0 31 3 2
+0 33 17 22
 1
 end_operator
 begin_operator
@@ -48954,8 +48954,8 @@ overcome anger love wonderbread vulcan jupiter
 1
 4 17
 2
-0 33 17 22
 0 31 1 3
+0 33 17 22
 1
 end_operator
 begin_operator
@@ -50907,8 +50907,8 @@ overcome anxiety achievement arugula earth uranus
 1
 0 0
 2
-0 40 0 18
 0 27 2 0
+0 40 0 18
 1
 end_operator
 begin_operator
@@ -50916,8 +50916,8 @@ overcome anxiety achievement arugula uranus vulcan
 1
 0 0
 2
-0 40 0 18
 0 27 3 2
+0 40 0 18
 1
 end_operator
 begin_operator
@@ -50925,8 +50925,8 @@ overcome anxiety achievement arugula vulcan jupiter
 1
 0 0
 2
-0 40 0 18
 0 27 1 3
+0 40 0 18
 1
 end_operator
 begin_operator
@@ -50934,8 +50934,8 @@ overcome anxiety achievement baguette earth uranus
 1
 0 1
 2
-0 40 1 18
 0 27 2 0
+0 40 1 18
 1
 end_operator
 begin_operator
@@ -50943,8 +50943,8 @@ overcome anxiety achievement baguette uranus vulcan
 1
 0 1
 2
-0 40 1 18
 0 27 3 2
+0 40 1 18
 1
 end_operator
 begin_operator
@@ -50952,8 +50952,8 @@ overcome anxiety achievement baguette vulcan jupiter
 1
 0 1
 2
-0 40 1 18
 0 27 1 3
+0 40 1 18
 1
 end_operator
 begin_operator
@@ -50961,8 +50961,8 @@ overcome anxiety achievement cantelope earth uranus
 1
 0 2
 2
-0 40 2 18
 0 27 2 0
+0 40 2 18
 1
 end_operator
 begin_operator
@@ -50970,8 +50970,8 @@ overcome anxiety achievement cantelope uranus vulcan
 1
 0 2
 2
-0 40 2 18
 0 27 3 2
+0 40 2 18
 1
 end_operator
 begin_operator
@@ -50979,8 +50979,8 @@ overcome anxiety achievement cantelope vulcan jupiter
 1
 0 2
 2
-0 40 2 18
 0 27 1 3
+0 40 2 18
 1
 end_operator
 begin_operator
@@ -50988,8 +50988,8 @@ overcome anxiety achievement flounder earth uranus
 1
 0 3
 2
-0 40 3 18
 0 27 2 0
+0 40 3 18
 1
 end_operator
 begin_operator
@@ -50997,8 +50997,8 @@ overcome anxiety achievement flounder uranus vulcan
 1
 0 3
 2
-0 40 3 18
 0 27 3 2
+0 40 3 18
 1
 end_operator
 begin_operator
@@ -51006,8 +51006,8 @@ overcome anxiety achievement flounder vulcan jupiter
 1
 0 3
 2
-0 40 3 18
 0 27 1 3
+0 40 3 18
 1
 end_operator
 begin_operator
@@ -51015,8 +51015,8 @@ overcome anxiety achievement hotdog earth uranus
 1
 0 4
 2
-0 40 4 18
 0 27 2 0
+0 40 4 18
 1
 end_operator
 begin_operator
@@ -51024,8 +51024,8 @@ overcome anxiety achievement hotdog uranus vulcan
 1
 0 4
 2
-0 40 4 18
 0 27 3 2
+0 40 4 18
 1
 end_operator
 begin_operator
@@ -51033,8 +51033,8 @@ overcome anxiety achievement hotdog vulcan jupiter
 1
 0 4
 2
-0 40 4 18
 0 27 1 3
+0 40 4 18
 1
 end_operator
 begin_operator
@@ -51042,8 +51042,8 @@ overcome anxiety achievement lobster earth uranus
 1
 0 5
 2
-0 40 5 18
 0 27 2 0
+0 40 5 18
 1
 end_operator
 begin_operator
@@ -51051,8 +51051,8 @@ overcome anxiety achievement lobster uranus vulcan
 1
 0 5
 2
-0 40 5 18
 0 27 3 2
+0 40 5 18
 1
 end_operator
 begin_operator
@@ -51060,8 +51060,8 @@ overcome anxiety achievement lobster vulcan jupiter
 1
 0 5
 2
-0 40 5 18
 0 27 1 3
+0 40 5 18
 1
 end_operator
 begin_operator
@@ -51069,8 +51069,8 @@ overcome anxiety achievement muffin earth uranus
 1
 0 6
 2
-0 40 6 18
 0 27 2 0
+0 40 6 18
 1
 end_operator
 begin_operator
@@ -51078,8 +51078,8 @@ overcome anxiety achievement muffin uranus vulcan
 1
 0 6
 2
-0 40 6 18
 0 27 3 2
+0 40 6 18
 1
 end_operator
 begin_operator
@@ -51087,8 +51087,8 @@ overcome anxiety achievement muffin vulcan jupiter
 1
 0 6
 2
-0 40 6 18
 0 27 1 3
+0 40 6 18
 1
 end_operator
 begin_operator
@@ -51096,8 +51096,8 @@ overcome anxiety achievement okra earth uranus
 1
 0 7
 2
-0 40 7 18
 0 27 2 0
+0 40 7 18
 1
 end_operator
 begin_operator
@@ -51105,8 +51105,8 @@ overcome anxiety achievement okra uranus vulcan
 1
 0 7
 2
-0 40 7 18
 0 27 3 2
+0 40 7 18
 1
 end_operator
 begin_operator
@@ -51114,8 +51114,8 @@ overcome anxiety achievement okra vulcan jupiter
 1
 0 7
 2
-0 40 7 18
 0 27 1 3
+0 40 7 18
 1
 end_operator
 begin_operator
@@ -51123,8 +51123,8 @@ overcome anxiety achievement pepper earth uranus
 1
 0 8
 2
-0 40 8 18
 0 27 2 0
+0 40 8 18
 1
 end_operator
 begin_operator
@@ -51132,8 +51132,8 @@ overcome anxiety achievement pepper uranus vulcan
 1
 0 8
 2
-0 40 8 18
 0 27 3 2
+0 40 8 18
 1
 end_operator
 begin_operator
@@ -51141,8 +51141,8 @@ overcome anxiety achievement pepper vulcan jupiter
 1
 0 8
 2
-0 40 8 18
 0 27 1 3
+0 40 8 18
 1
 end_operator
 begin_operator
@@ -51150,8 +51150,8 @@ overcome anxiety achievement pistachio earth uranus
 1
 0 9
 2
-0 40 9 18
 0 27 2 0
+0 40 9 18
 1
 end_operator
 begin_operator
@@ -51159,8 +51159,8 @@ overcome anxiety achievement pistachio uranus vulcan
 1
 0 9
 2
-0 40 9 18
 0 27 3 2
+0 40 9 18
 1
 end_operator
 begin_operator
@@ -51168,8 +51168,8 @@ overcome anxiety achievement pistachio vulcan jupiter
 1
 0 9
 2
-0 40 9 18
 0 27 1 3
+0 40 9 18
 1
 end_operator
 begin_operator
@@ -51177,8 +51177,8 @@ overcome anxiety achievement pork earth uranus
 1
 0 10
 2
-0 40 10 18
 0 27 2 0
+0 40 10 18
 1
 end_operator
 begin_operator
@@ -51186,8 +51186,8 @@ overcome anxiety achievement pork uranus vulcan
 1
 0 10
 2
-0 40 10 18
 0 27 3 2
+0 40 10 18
 1
 end_operator
 begin_operator
@@ -51195,8 +51195,8 @@ overcome anxiety achievement pork vulcan jupiter
 1
 0 10
 2
-0 40 10 18
 0 27 1 3
+0 40 10 18
 1
 end_operator
 begin_operator
@@ -51204,8 +51204,8 @@ overcome anxiety achievement rice earth uranus
 1
 0 11
 2
-0 40 11 18
 0 27 2 0
+0 40 11 18
 1
 end_operator
 begin_operator
@@ -51213,8 +51213,8 @@ overcome anxiety achievement rice uranus vulcan
 1
 0 11
 2
-0 40 11 18
 0 27 3 2
+0 40 11 18
 1
 end_operator
 begin_operator
@@ -51222,8 +51222,8 @@ overcome anxiety achievement rice vulcan jupiter
 1
 0 11
 2
-0 40 11 18
 0 27 1 3
+0 40 11 18
 1
 end_operator
 begin_operator
@@ -51231,8 +51231,8 @@ overcome anxiety achievement scallop earth uranus
 1
 0 12
 2
-0 40 12 18
 0 27 2 0
+0 40 12 18
 1
 end_operator
 begin_operator
@@ -51240,8 +51240,8 @@ overcome anxiety achievement scallop uranus vulcan
 1
 0 12
 2
-0 40 12 18
 0 27 3 2
+0 40 12 18
 1
 end_operator
 begin_operator
@@ -51249,8 +51249,8 @@ overcome anxiety achievement scallop vulcan jupiter
 1
 0 12
 2
-0 40 12 18
 0 27 1 3
+0 40 12 18
 1
 end_operator
 begin_operator
@@ -51258,8 +51258,8 @@ overcome anxiety achievement tofu earth uranus
 1
 0 13
 2
-0 40 13 18
 0 27 2 0
+0 40 13 18
 1
 end_operator
 begin_operator
@@ -51267,8 +51267,8 @@ overcome anxiety achievement tofu uranus vulcan
 1
 0 13
 2
-0 40 13 18
 0 27 3 2
+0 40 13 18
 1
 end_operator
 begin_operator
@@ -51276,8 +51276,8 @@ overcome anxiety achievement tofu vulcan jupiter
 1
 0 13
 2
-0 40 13 18
 0 27 1 3
+0 40 13 18
 1
 end_operator
 begin_operator
@@ -51285,8 +51285,8 @@ overcome anxiety achievement tomato earth uranus
 1
 0 14
 2
-0 40 14 18
 0 27 2 0
+0 40 14 18
 1
 end_operator
 begin_operator
@@ -51294,8 +51294,8 @@ overcome anxiety achievement tomato uranus vulcan
 1
 0 14
 2
-0 40 14 18
 0 27 3 2
+0 40 14 18
 1
 end_operator
 begin_operator
@@ -51303,8 +51303,8 @@ overcome anxiety achievement tomato vulcan jupiter
 1
 0 14
 2
-0 40 14 18
 0 27 1 3
+0 40 14 18
 1
 end_operator
 begin_operator
@@ -51312,8 +51312,8 @@ overcome anxiety achievement tuna earth uranus
 1
 0 15
 2
-0 40 15 18
 0 27 2 0
+0 40 15 18
 1
 end_operator
 begin_operator
@@ -51321,8 +51321,8 @@ overcome anxiety achievement tuna uranus vulcan
 1
 0 15
 2
-0 40 15 18
 0 27 3 2
+0 40 15 18
 1
 end_operator
 begin_operator
@@ -51330,8 +51330,8 @@ overcome anxiety achievement tuna vulcan jupiter
 1
 0 15
 2
-0 40 15 18
 0 27 1 3
+0 40 15 18
 1
 end_operator
 begin_operator
@@ -51339,8 +51339,8 @@ overcome anxiety achievement turkey earth uranus
 1
 0 16
 2
-0 40 16 18
 0 27 2 0
+0 40 16 18
 1
 end_operator
 begin_operator
@@ -51348,8 +51348,8 @@ overcome anxiety achievement turkey uranus vulcan
 1
 0 16
 2
-0 40 16 18
 0 27 3 2
+0 40 16 18
 1
 end_operator
 begin_operator
@@ -51357,8 +51357,8 @@ overcome anxiety achievement turkey vulcan jupiter
 1
 0 16
 2
-0 40 16 18
 0 27 1 3
+0 40 16 18
 1
 end_operator
 begin_operator
@@ -51366,8 +51366,8 @@ overcome anxiety achievement wonderbread earth uranus
 1
 0 17
 2
-0 40 17 18
 0 27 2 0
+0 40 17 18
 1
 end_operator
 begin_operator
@@ -51375,8 +51375,8 @@ overcome anxiety achievement wonderbread uranus vulcan
 1
 0 17
 2
-0 40 17 18
 0 27 3 2
+0 40 17 18
 1
 end_operator
 begin_operator
@@ -51384,8 +51384,8 @@ overcome anxiety achievement wonderbread vulcan jupiter
 1
 0 17
 2
-0 40 17 18
 0 27 1 3
+0 40 17 18
 1
 end_operator
 begin_operator
@@ -51393,8 +51393,8 @@ overcome anxiety aesthetics arugula earth uranus
 1
 1 0
 2
-0 40 0 19
 0 28 2 0
+0 40 0 19
 1
 end_operator
 begin_operator
@@ -51402,8 +51402,8 @@ overcome anxiety aesthetics arugula uranus vulcan
 1
 1 0
 2
-0 40 0 19
 0 28 3 2
+0 40 0 19
 1
 end_operator
 begin_operator
@@ -51411,8 +51411,8 @@ overcome anxiety aesthetics arugula vulcan jupiter
 1
 1 0
 2
-0 40 0 19
 0 28 1 3
+0 40 0 19
 1
 end_operator
 begin_operator
@@ -51420,8 +51420,8 @@ overcome anxiety aesthetics baguette earth uranus
 1
 1 1
 2
-0 40 1 19
 0 28 2 0
+0 40 1 19
 1
 end_operator
 begin_operator
@@ -51429,8 +51429,8 @@ overcome anxiety aesthetics baguette uranus vulcan
 1
 1 1
 2
-0 40 1 19
 0 28 3 2
+0 40 1 19
 1
 end_operator
 begin_operator
@@ -51438,8 +51438,8 @@ overcome anxiety aesthetics baguette vulcan jupiter
 1
 1 1
 2
-0 40 1 19
 0 28 1 3
+0 40 1 19
 1
 end_operator
 begin_operator
@@ -51447,8 +51447,8 @@ overcome anxiety aesthetics cantelope earth uranus
 1
 1 2
 2
-0 40 2 19
 0 28 2 0
+0 40 2 19
 1
 end_operator
 begin_operator
@@ -51456,8 +51456,8 @@ overcome anxiety aesthetics cantelope uranus vulcan
 1
 1 2
 2
-0 40 2 19
 0 28 3 2
+0 40 2 19
 1
 end_operator
 begin_operator
@@ -51465,8 +51465,8 @@ overcome anxiety aesthetics cantelope vulcan jupiter
 1
 1 2
 2
-0 40 2 19
 0 28 1 3
+0 40 2 19
 1
 end_operator
 begin_operator
@@ -51474,8 +51474,8 @@ overcome anxiety aesthetics flounder earth uranus
 1
 1 3
 2
-0 40 3 19
 0 28 2 0
+0 40 3 19
 1
 end_operator
 begin_operator
@@ -51483,8 +51483,8 @@ overcome anxiety aesthetics flounder uranus vulcan
 1
 1 3
 2
-0 40 3 19
 0 28 3 2
+0 40 3 19
 1
 end_operator
 begin_operator
@@ -51492,8 +51492,8 @@ overcome anxiety aesthetics flounder vulcan jupiter
 1
 1 3
 2
-0 40 3 19
 0 28 1 3
+0 40 3 19
 1
 end_operator
 begin_operator
@@ -51501,8 +51501,8 @@ overcome anxiety aesthetics hotdog earth uranus
 1
 1 4
 2
-0 40 4 19
 0 28 2 0
+0 40 4 19
 1
 end_operator
 begin_operator
@@ -51510,8 +51510,8 @@ overcome anxiety aesthetics hotdog uranus vulcan
 1
 1 4
 2
-0 40 4 19
 0 28 3 2
+0 40 4 19
 1
 end_operator
 begin_operator
@@ -51519,8 +51519,8 @@ overcome anxiety aesthetics hotdog vulcan jupiter
 1
 1 4
 2
-0 40 4 19
 0 28 1 3
+0 40 4 19
 1
 end_operator
 begin_operator
@@ -51528,8 +51528,8 @@ overcome anxiety aesthetics lobster earth uranus
 1
 1 5
 2
-0 40 5 19
 0 28 2 0
+0 40 5 19
 1
 end_operator
 begin_operator
@@ -51537,8 +51537,8 @@ overcome anxiety aesthetics lobster uranus vulcan
 1
 1 5
 2
-0 40 5 19
 0 28 3 2
+0 40 5 19
 1
 end_operator
 begin_operator
@@ -51546,8 +51546,8 @@ overcome anxiety aesthetics lobster vulcan jupiter
 1
 1 5
 2
-0 40 5 19
 0 28 1 3
+0 40 5 19
 1
 end_operator
 begin_operator
@@ -51555,8 +51555,8 @@ overcome anxiety aesthetics muffin earth uranus
 1
 1 6
 2
-0 40 6 19
 0 28 2 0
+0 40 6 19
 1
 end_operator
 begin_operator
@@ -51564,8 +51564,8 @@ overcome anxiety aesthetics muffin uranus vulcan
 1
 1 6
 2
-0 40 6 19
 0 28 3 2
+0 40 6 19
 1
 end_operator
 begin_operator
@@ -51573,8 +51573,8 @@ overcome anxiety aesthetics muffin vulcan jupiter
 1
 1 6
 2
-0 40 6 19
 0 28 1 3
+0 40 6 19
 1
 end_operator
 begin_operator
@@ -51582,8 +51582,8 @@ overcome anxiety aesthetics okra earth uranus
 1
 1 7
 2
-0 40 7 19
 0 28 2 0
+0 40 7 19
 1
 end_operator
 begin_operator
@@ -51591,8 +51591,8 @@ overcome anxiety aesthetics okra uranus vulcan
 1
 1 7
 2
-0 40 7 19
 0 28 3 2
+0 40 7 19
 1
 end_operator
 begin_operator
@@ -51600,8 +51600,8 @@ overcome anxiety aesthetics okra vulcan jupiter
 1
 1 7
 2
-0 40 7 19
 0 28 1 3
+0 40 7 19
 1
 end_operator
 begin_operator
@@ -51609,8 +51609,8 @@ overcome anxiety aesthetics pepper earth uranus
 1
 1 8
 2
-0 40 8 19
 0 28 2 0
+0 40 8 19
 1
 end_operator
 begin_operator
@@ -51618,8 +51618,8 @@ overcome anxiety aesthetics pepper uranus vulcan
 1
 1 8
 2
-0 40 8 19
 0 28 3 2
+0 40 8 19
 1
 end_operator
 begin_operator
@@ -51627,8 +51627,8 @@ overcome anxiety aesthetics pepper vulcan jupiter
 1
 1 8
 2
-0 40 8 19
 0 28 1 3
+0 40 8 19
 1
 end_operator
 begin_operator
@@ -51636,8 +51636,8 @@ overcome anxiety aesthetics pistachio earth uranus
 1
 1 9
 2
-0 40 9 19
 0 28 2 0
+0 40 9 19
 1
 end_operator
 begin_operator
@@ -51645,8 +51645,8 @@ overcome anxiety aesthetics pistachio uranus vulcan
 1
 1 9
 2
-0 40 9 19
 0 28 3 2
+0 40 9 19
 1
 end_operator
 begin_operator
@@ -51654,8 +51654,8 @@ overcome anxiety aesthetics pistachio vulcan jupiter
 1
 1 9
 2
-0 40 9 19
 0 28 1 3
+0 40 9 19
 1
 end_operator
 begin_operator
@@ -51663,8 +51663,8 @@ overcome anxiety aesthetics pork earth uranus
 1
 1 10
 2
-0 40 10 19
 0 28 2 0
+0 40 10 19
 1
 end_operator
 begin_operator
@@ -51672,8 +51672,8 @@ overcome anxiety aesthetics pork uranus vulcan
 1
 1 10
 2
-0 40 10 19
 0 28 3 2
+0 40 10 19
 1
 end_operator
 begin_operator
@@ -51681,8 +51681,8 @@ overcome anxiety aesthetics pork vulcan jupiter
 1
 1 10
 2
-0 40 10 19
 0 28 1 3
+0 40 10 19
 1
 end_operator
 begin_operator
@@ -51690,8 +51690,8 @@ overcome anxiety aesthetics rice earth uranus
 1
 1 11
 2
-0 40 11 19
 0 28 2 0
+0 40 11 19
 1
 end_operator
 begin_operator
@@ -51699,8 +51699,8 @@ overcome anxiety aesthetics rice uranus vulcan
 1
 1 11
 2
-0 40 11 19
 0 28 3 2
+0 40 11 19
 1
 end_operator
 begin_operator
@@ -51708,8 +51708,8 @@ overcome anxiety aesthetics rice vulcan jupiter
 1
 1 11
 2
-0 40 11 19
 0 28 1 3
+0 40 11 19
 1
 end_operator
 begin_operator
@@ -51717,8 +51717,8 @@ overcome anxiety aesthetics scallop earth uranus
 1
 1 12
 2
-0 40 12 19
 0 28 2 0
+0 40 12 19
 1
 end_operator
 begin_operator
@@ -51726,8 +51726,8 @@ overcome anxiety aesthetics scallop uranus vulcan
 1
 1 12
 2
-0 40 12 19
 0 28 3 2
+0 40 12 19
 1
 end_operator
 begin_operator
@@ -51735,8 +51735,8 @@ overcome anxiety aesthetics scallop vulcan jupiter
 1
 1 12
 2
-0 40 12 19
 0 28 1 3
+0 40 12 19
 1
 end_operator
 begin_operator
@@ -51744,8 +51744,8 @@ overcome anxiety aesthetics tofu earth uranus
 1
 1 13
 2
-0 40 13 19
 0 28 2 0
+0 40 13 19
 1
 end_operator
 begin_operator
@@ -51753,8 +51753,8 @@ overcome anxiety aesthetics tofu uranus vulcan
 1
 1 13
 2
-0 40 13 19
 0 28 3 2
+0 40 13 19
 1
 end_operator
 begin_operator
@@ -51762,8 +51762,8 @@ overcome anxiety aesthetics tofu vulcan jupiter
 1
 1 13
 2
-0 40 13 19
 0 28 1 3
+0 40 13 19
 1
 end_operator
 begin_operator
@@ -51771,8 +51771,8 @@ overcome anxiety aesthetics tomato earth uranus
 1
 1 14
 2
-0 40 14 19
 0 28 2 0
+0 40 14 19
 1
 end_operator
 begin_operator
@@ -51780,8 +51780,8 @@ overcome anxiety aesthetics tomato uranus vulcan
 1
 1 14
 2
-0 40 14 19
 0 28 3 2
+0 40 14 19
 1
 end_operator
 begin_operator
@@ -51789,8 +51789,8 @@ overcome anxiety aesthetics tomato vulcan jupiter
 1
 1 14
 2
-0 40 14 19
 0 28 1 3
+0 40 14 19
 1
 end_operator
 begin_operator
@@ -51798,8 +51798,8 @@ overcome anxiety aesthetics tuna earth uranus
 1
 1 15
 2
-0 40 15 19
 0 28 2 0
+0 40 15 19
 1
 end_operator
 begin_operator
@@ -51807,8 +51807,8 @@ overcome anxiety aesthetics tuna uranus vulcan
 1
 1 15
 2
-0 40 15 19
 0 28 3 2
+0 40 15 19
 1
 end_operator
 begin_operator
@@ -51816,8 +51816,8 @@ overcome anxiety aesthetics tuna vulcan jupiter
 1
 1 15
 2
-0 40 15 19
 0 28 1 3
+0 40 15 19
 1
 end_operator
 begin_operator
@@ -51825,8 +51825,8 @@ overcome anxiety aesthetics turkey earth uranus
 1
 1 16
 2
-0 40 16 19
 0 28 2 0
+0 40 16 19
 1
 end_operator
 begin_operator
@@ -51834,8 +51834,8 @@ overcome anxiety aesthetics turkey uranus vulcan
 1
 1 16
 2
-0 40 16 19
 0 28 3 2
+0 40 16 19
 1
 end_operator
 begin_operator
@@ -51843,8 +51843,8 @@ overcome anxiety aesthetics turkey vulcan jupiter
 1
 1 16
 2
-0 40 16 19
 0 28 1 3
+0 40 16 19
 1
 end_operator
 begin_operator
@@ -51852,8 +51852,8 @@ overcome anxiety aesthetics wonderbread earth uranus
 1
 1 17
 2
-0 40 17 19
 0 28 2 0
+0 40 17 19
 1
 end_operator
 begin_operator
@@ -51861,8 +51861,8 @@ overcome anxiety aesthetics wonderbread uranus vulcan
 1
 1 17
 2
-0 40 17 19
 0 28 3 2
+0 40 17 19
 1
 end_operator
 begin_operator
@@ -51870,8 +51870,8 @@ overcome anxiety aesthetics wonderbread vulcan jupiter
 1
 1 17
 2
-0 40 17 19
 0 28 1 3
+0 40 17 19
 1
 end_operator
 begin_operator
@@ -51879,8 +51879,8 @@ overcome anxiety excitement arugula earth uranus
 1
 2 0
 2
-0 40 0 20
 0 29 2 0
+0 40 0 20
 1
 end_operator
 begin_operator
@@ -51888,8 +51888,8 @@ overcome anxiety excitement arugula uranus vulcan
 1
 2 0
 2
-0 40 0 20
 0 29 3 2
+0 40 0 20
 1
 end_operator
 begin_operator
@@ -51897,8 +51897,8 @@ overcome anxiety excitement arugula vulcan jupiter
 1
 2 0
 2
-0 40 0 20
 0 29 1 3
+0 40 0 20
 1
 end_operator
 begin_operator
@@ -51906,8 +51906,8 @@ overcome anxiety excitement baguette earth uranus
 1
 2 1
 2
-0 40 1 20
 0 29 2 0
+0 40 1 20
 1
 end_operator
 begin_operator
@@ -51915,8 +51915,8 @@ overcome anxiety excitement baguette uranus vulcan
 1
 2 1
 2
-0 40 1 20
 0 29 3 2
+0 40 1 20
 1
 end_operator
 begin_operator
@@ -51924,8 +51924,8 @@ overcome anxiety excitement baguette vulcan jupiter
 1
 2 1
 2
-0 40 1 20
 0 29 1 3
+0 40 1 20
 1
 end_operator
 begin_operator
@@ -51933,8 +51933,8 @@ overcome anxiety excitement cantelope earth uranus
 1
 2 2
 2
-0 40 2 20
 0 29 2 0
+0 40 2 20
 1
 end_operator
 begin_operator
@@ -51942,8 +51942,8 @@ overcome anxiety excitement cantelope uranus vulcan
 1
 2 2
 2
-0 40 2 20
 0 29 3 2
+0 40 2 20
 1
 end_operator
 begin_operator
@@ -51951,8 +51951,8 @@ overcome anxiety excitement cantelope vulcan jupiter
 1
 2 2
 2
-0 40 2 20
 0 29 1 3
+0 40 2 20
 1
 end_operator
 begin_operator
@@ -51960,8 +51960,8 @@ overcome anxiety excitement flounder earth uranus
 1
 2 3
 2
-0 40 3 20
 0 29 2 0
+0 40 3 20
 1
 end_operator
 begin_operator
@@ -51969,8 +51969,8 @@ overcome anxiety excitement flounder uranus vulcan
 1
 2 3
 2
-0 40 3 20
 0 29 3 2
+0 40 3 20
 1
 end_operator
 begin_operator
@@ -51978,8 +51978,8 @@ overcome anxiety excitement flounder vulcan jupiter
 1
 2 3
 2
-0 40 3 20
 0 29 1 3
+0 40 3 20
 1
 end_operator
 begin_operator
@@ -51987,8 +51987,8 @@ overcome anxiety excitement hotdog earth uranus
 1
 2 4
 2
-0 40 4 20
 0 29 2 0
+0 40 4 20
 1
 end_operator
 begin_operator
@@ -51996,8 +51996,8 @@ overcome anxiety excitement hotdog uranus vulcan
 1
 2 4
 2
-0 40 4 20
 0 29 3 2
+0 40 4 20
 1
 end_operator
 begin_operator
@@ -52005,8 +52005,8 @@ overcome anxiety excitement hotdog vulcan jupiter
 1
 2 4
 2
-0 40 4 20
 0 29 1 3
+0 40 4 20
 1
 end_operator
 begin_operator
@@ -52014,8 +52014,8 @@ overcome anxiety excitement lobster earth uranus
 1
 2 5
 2
-0 40 5 20
 0 29 2 0
+0 40 5 20
 1
 end_operator
 begin_operator
@@ -52023,8 +52023,8 @@ overcome anxiety excitement lobster uranus vulcan
 1
 2 5
 2
-0 40 5 20
 0 29 3 2
+0 40 5 20
 1
 end_operator
 begin_operator
@@ -52032,8 +52032,8 @@ overcome anxiety excitement lobster vulcan jupiter
 1
 2 5
 2
-0 40 5 20
 0 29 1 3
+0 40 5 20
 1
 end_operator
 begin_operator
@@ -52041,8 +52041,8 @@ overcome anxiety excitement muffin earth uranus
 1
 2 6
 2
-0 40 6 20
 0 29 2 0
+0 40 6 20
 1
 end_operator
 begin_operator
@@ -52050,8 +52050,8 @@ overcome anxiety excitement muffin uranus vulcan
 1
 2 6
 2
-0 40 6 20
 0 29 3 2
+0 40 6 20
 1
 end_operator
 begin_operator
@@ -52059,8 +52059,8 @@ overcome anxiety excitement muffin vulcan jupiter
 1
 2 6
 2
-0 40 6 20
 0 29 1 3
+0 40 6 20
 1
 end_operator
 begin_operator
@@ -52068,8 +52068,8 @@ overcome anxiety excitement okra earth uranus
 1
 2 7
 2
-0 40 7 20
 0 29 2 0
+0 40 7 20
 1
 end_operator
 begin_operator
@@ -52077,8 +52077,8 @@ overcome anxiety excitement okra uranus vulcan
 1
 2 7
 2
-0 40 7 20
 0 29 3 2
+0 40 7 20
 1
 end_operator
 begin_operator
@@ -52086,8 +52086,8 @@ overcome anxiety excitement okra vulcan jupiter
 1
 2 7
 2
-0 40 7 20
 0 29 1 3
+0 40 7 20
 1
 end_operator
 begin_operator
@@ -52095,8 +52095,8 @@ overcome anxiety excitement pepper earth uranus
 1
 2 8
 2
-0 40 8 20
 0 29 2 0
+0 40 8 20
 1
 end_operator
 begin_operator
@@ -52104,8 +52104,8 @@ overcome anxiety excitement pepper uranus vulcan
 1
 2 8
 2
-0 40 8 20
 0 29 3 2
+0 40 8 20
 1
 end_operator
 begin_operator
@@ -52113,8 +52113,8 @@ overcome anxiety excitement pepper vulcan jupiter
 1
 2 8
 2
-0 40 8 20
 0 29 1 3
+0 40 8 20
 1
 end_operator
 begin_operator
@@ -52122,8 +52122,8 @@ overcome anxiety excitement pistachio earth uranus
 1
 2 9
 2
-0 40 9 20
 0 29 2 0
+0 40 9 20
 1
 end_operator
 begin_operator
@@ -52131,8 +52131,8 @@ overcome anxiety excitement pistachio uranus vulcan
 1
 2 9
 2
-0 40 9 20
 0 29 3 2
+0 40 9 20
 1
 end_operator
 begin_operator
@@ -52140,8 +52140,8 @@ overcome anxiety excitement pistachio vulcan jupiter
 1
 2 9
 2
-0 40 9 20
 0 29 1 3
+0 40 9 20
 1
 end_operator
 begin_operator
@@ -52149,8 +52149,8 @@ overcome anxiety excitement pork earth uranus
 1
 2 10
 2
-0 40 10 20
 0 29 2 0
+0 40 10 20
 1
 end_operator
 begin_operator
@@ -52158,8 +52158,8 @@ overcome anxiety excitement pork uranus vulcan
 1
 2 10
 2
-0 40 10 20
 0 29 3 2
+0 40 10 20
 1
 end_operator
 begin_operator
@@ -52167,8 +52167,8 @@ overcome anxiety excitement pork vulcan jupiter
 1
 2 10
 2
-0 40 10 20
 0 29 1 3
+0 40 10 20
 1
 end_operator
 begin_operator
@@ -52176,8 +52176,8 @@ overcome anxiety excitement rice earth uranus
 1
 2 11
 2
-0 40 11 20
 0 29 2 0
+0 40 11 20
 1
 end_operator
 begin_operator
@@ -52185,8 +52185,8 @@ overcome anxiety excitement rice uranus vulcan
 1
 2 11
 2
-0 40 11 20
 0 29 3 2
+0 40 11 20
 1
 end_operator
 begin_operator
@@ -52194,8 +52194,8 @@ overcome anxiety excitement rice vulcan jupiter
 1
 2 11
 2
-0 40 11 20
 0 29 1 3
+0 40 11 20
 1
 end_operator
 begin_operator
@@ -52203,8 +52203,8 @@ overcome anxiety excitement scallop earth uranus
 1
 2 12
 2
-0 40 12 20
 0 29 2 0
+0 40 12 20
 1
 end_operator
 begin_operator
@@ -52212,8 +52212,8 @@ overcome anxiety excitement scallop uranus vulcan
 1
 2 12
 2
-0 40 12 20
 0 29 3 2
+0 40 12 20
 1
 end_operator
 begin_operator
@@ -52221,8 +52221,8 @@ overcome anxiety excitement scallop vulcan jupiter
 1
 2 12
 2
-0 40 12 20
 0 29 1 3
+0 40 12 20
 1
 end_operator
 begin_operator
@@ -52230,8 +52230,8 @@ overcome anxiety excitement tofu earth uranus
 1
 2 13
 2
-0 40 13 20
 0 29 2 0
+0 40 13 20
 1
 end_operator
 begin_operator
@@ -52239,8 +52239,8 @@ overcome anxiety excitement tofu uranus vulcan
 1
 2 13
 2
-0 40 13 20
 0 29 3 2
+0 40 13 20
 1
 end_operator
 begin_operator
@@ -52248,8 +52248,8 @@ overcome anxiety excitement tofu vulcan jupiter
 1
 2 13
 2
-0 40 13 20
 0 29 1 3
+0 40 13 20
 1
 end_operator
 begin_operator
@@ -52257,8 +52257,8 @@ overcome anxiety excitement tomato earth uranus
 1
 2 14
 2
-0 40 14 20
 0 29 2 0
+0 40 14 20
 1
 end_operator
 begin_operator
@@ -52266,8 +52266,8 @@ overcome anxiety excitement tomato uranus vulcan
 1
 2 14
 2
-0 40 14 20
 0 29 3 2
+0 40 14 20
 1
 end_operator
 begin_operator
@@ -52275,8 +52275,8 @@ overcome anxiety excitement tomato vulcan jupiter
 1
 2 14
 2
-0 40 14 20
 0 29 1 3
+0 40 14 20
 1
 end_operator
 begin_operator
@@ -52284,8 +52284,8 @@ overcome anxiety excitement tuna earth uranus
 1
 2 15
 2
-0 40 15 20
 0 29 2 0
+0 40 15 20
 1
 end_operator
 begin_operator
@@ -52293,8 +52293,8 @@ overcome anxiety excitement tuna uranus vulcan
 1
 2 15
 2
-0 40 15 20
 0 29 3 2
+0 40 15 20
 1
 end_operator
 begin_operator
@@ -52302,8 +52302,8 @@ overcome anxiety excitement tuna vulcan jupiter
 1
 2 15
 2
-0 40 15 20
 0 29 1 3
+0 40 15 20
 1
 end_operator
 begin_operator
@@ -52311,8 +52311,8 @@ overcome anxiety excitement turkey earth uranus
 1
 2 16
 2
-0 40 16 20
 0 29 2 0
+0 40 16 20
 1
 end_operator
 begin_operator
@@ -52320,8 +52320,8 @@ overcome anxiety excitement turkey uranus vulcan
 1
 2 16
 2
-0 40 16 20
 0 29 3 2
+0 40 16 20
 1
 end_operator
 begin_operator
@@ -52329,8 +52329,8 @@ overcome anxiety excitement turkey vulcan jupiter
 1
 2 16
 2
-0 40 16 20
 0 29 1 3
+0 40 16 20
 1
 end_operator
 begin_operator
@@ -52338,8 +52338,8 @@ overcome anxiety excitement wonderbread earth uranus
 1
 2 17
 2
-0 40 17 20
 0 29 2 0
+0 40 17 20
 1
 end_operator
 begin_operator
@@ -52347,8 +52347,8 @@ overcome anxiety excitement wonderbread uranus vulcan
 1
 2 17
 2
-0 40 17 20
 0 29 3 2
+0 40 17 20
 1
 end_operator
 begin_operator
@@ -52356,8 +52356,8 @@ overcome anxiety excitement wonderbread vulcan jupiter
 1
 2 17
 2
-0 40 17 20
 0 29 1 3
+0 40 17 20
 1
 end_operator
 begin_operator
@@ -52365,8 +52365,8 @@ overcome anxiety learning arugula earth uranus
 1
 3 0
 2
-0 40 0 21
 0 30 2 0
+0 40 0 21
 1
 end_operator
 begin_operator
@@ -52374,8 +52374,8 @@ overcome anxiety learning arugula uranus vulcan
 1
 3 0
 2
-0 40 0 21
 0 30 3 2
+0 40 0 21
 1
 end_operator
 begin_operator
@@ -52383,8 +52383,8 @@ overcome anxiety learning arugula vulcan jupiter
 1
 3 0
 2
-0 40 0 21
 0 30 1 3
+0 40 0 21
 1
 end_operator
 begin_operator
@@ -52392,8 +52392,8 @@ overcome anxiety learning baguette earth uranus
 1
 3 1
 2
-0 40 1 21
 0 30 2 0
+0 40 1 21
 1
 end_operator
 begin_operator
@@ -52401,8 +52401,8 @@ overcome anxiety learning baguette uranus vulcan
 1
 3 1
 2
-0 40 1 21
 0 30 3 2
+0 40 1 21
 1
 end_operator
 begin_operator
@@ -52410,8 +52410,8 @@ overcome anxiety learning baguette vulcan jupiter
 1
 3 1
 2
-0 40 1 21
 0 30 1 3
+0 40 1 21
 1
 end_operator
 begin_operator
@@ -52419,8 +52419,8 @@ overcome anxiety learning cantelope earth uranus
 1
 3 2
 2
-0 40 2 21
 0 30 2 0
+0 40 2 21
 1
 end_operator
 begin_operator
@@ -52428,8 +52428,8 @@ overcome anxiety learning cantelope uranus vulcan
 1
 3 2
 2
-0 40 2 21
 0 30 3 2
+0 40 2 21
 1
 end_operator
 begin_operator
@@ -52437,8 +52437,8 @@ overcome anxiety learning cantelope vulcan jupiter
 1
 3 2
 2
-0 40 2 21
 0 30 1 3
+0 40 2 21
 1
 end_operator
 begin_operator
@@ -52446,8 +52446,8 @@ overcome anxiety learning flounder earth uranus
 1
 3 3
 2
-0 40 3 21
 0 30 2 0
+0 40 3 21
 1
 end_operator
 begin_operator
@@ -52455,8 +52455,8 @@ overcome anxiety learning flounder uranus vulcan
 1
 3 3
 2
-0 40 3 21
 0 30 3 2
+0 40 3 21
 1
 end_operator
 begin_operator
@@ -52464,8 +52464,8 @@ overcome anxiety learning flounder vulcan jupiter
 1
 3 3
 2
-0 40 3 21
 0 30 1 3
+0 40 3 21
 1
 end_operator
 begin_operator
@@ -52473,8 +52473,8 @@ overcome anxiety learning hotdog earth uranus
 1
 3 4
 2
-0 40 4 21
 0 30 2 0
+0 40 4 21
 1
 end_operator
 begin_operator
@@ -52482,8 +52482,8 @@ overcome anxiety learning hotdog uranus vulcan
 1
 3 4
 2
-0 40 4 21
 0 30 3 2
+0 40 4 21
 1
 end_operator
 begin_operator
@@ -52491,8 +52491,8 @@ overcome anxiety learning hotdog vulcan jupiter
 1
 3 4
 2
-0 40 4 21
 0 30 1 3
+0 40 4 21
 1
 end_operator
 begin_operator
@@ -52500,8 +52500,8 @@ overcome anxiety learning lobster earth uranus
 1
 3 5
 2
-0 40 5 21
 0 30 2 0
+0 40 5 21
 1
 end_operator
 begin_operator
@@ -52509,8 +52509,8 @@ overcome anxiety learning lobster uranus vulcan
 1
 3 5
 2
-0 40 5 21
 0 30 3 2
+0 40 5 21
 1
 end_operator
 begin_operator
@@ -52518,8 +52518,8 @@ overcome anxiety learning lobster vulcan jupiter
 1
 3 5
 2
-0 40 5 21
 0 30 1 3
+0 40 5 21
 1
 end_operator
 begin_operator
@@ -52527,8 +52527,8 @@ overcome anxiety learning muffin earth uranus
 1
 3 6
 2
-0 40 6 21
 0 30 2 0
+0 40 6 21
 1
 end_operator
 begin_operator
@@ -52536,8 +52536,8 @@ overcome anxiety learning muffin uranus vulcan
 1
 3 6
 2
-0 40 6 21
 0 30 3 2
+0 40 6 21
 1
 end_operator
 begin_operator
@@ -52545,8 +52545,8 @@ overcome anxiety learning muffin vulcan jupiter
 1
 3 6
 2
-0 40 6 21
 0 30 1 3
+0 40 6 21
 1
 end_operator
 begin_operator
@@ -52554,8 +52554,8 @@ overcome anxiety learning okra earth uranus
 1
 3 7
 2
-0 40 7 21
 0 30 2 0
+0 40 7 21
 1
 end_operator
 begin_operator
@@ -52563,8 +52563,8 @@ overcome anxiety learning okra uranus vulcan
 1
 3 7
 2
-0 40 7 21
 0 30 3 2
+0 40 7 21
 1
 end_operator
 begin_operator
@@ -52572,8 +52572,8 @@ overcome anxiety learning okra vulcan jupiter
 1
 3 7
 2
-0 40 7 21
 0 30 1 3
+0 40 7 21
 1
 end_operator
 begin_operator
@@ -52581,8 +52581,8 @@ overcome anxiety learning pepper earth uranus
 1
 3 8
 2
-0 40 8 21
 0 30 2 0
+0 40 8 21
 1
 end_operator
 begin_operator
@@ -52590,8 +52590,8 @@ overcome anxiety learning pepper uranus vulcan
 1
 3 8
 2
-0 40 8 21
 0 30 3 2
+0 40 8 21
 1
 end_operator
 begin_operator
@@ -52599,8 +52599,8 @@ overcome anxiety learning pepper vulcan jupiter
 1
 3 8
 2
-0 40 8 21
 0 30 1 3
+0 40 8 21
 1
 end_operator
 begin_operator
@@ -52608,8 +52608,8 @@ overcome anxiety learning pistachio earth uranus
 1
 3 9
 2
-0 40 9 21
 0 30 2 0
+0 40 9 21
 1
 end_operator
 begin_operator
@@ -52617,8 +52617,8 @@ overcome anxiety learning pistachio uranus vulcan
 1
 3 9
 2
-0 40 9 21
 0 30 3 2
+0 40 9 21
 1
 end_operator
 begin_operator
@@ -52626,8 +52626,8 @@ overcome anxiety learning pistachio vulcan jupiter
 1
 3 9
 2
-0 40 9 21
 0 30 1 3
+0 40 9 21
 1
 end_operator
 begin_operator
@@ -52635,8 +52635,8 @@ overcome anxiety learning pork earth uranus
 1
 3 10
 2
-0 40 10 21
 0 30 2 0
+0 40 10 21
 1
 end_operator
 begin_operator
@@ -52644,8 +52644,8 @@ overcome anxiety learning pork uranus vulcan
 1
 3 10
 2
-0 40 10 21
 0 30 3 2
+0 40 10 21
 1
 end_operator
 begin_operator
@@ -52653,8 +52653,8 @@ overcome anxiety learning pork vulcan jupiter
 1
 3 10
 2
-0 40 10 21
 0 30 1 3
+0 40 10 21
 1
 end_operator
 begin_operator
@@ -52662,8 +52662,8 @@ overcome anxiety learning rice earth uranus
 1
 3 11
 2
-0 40 11 21
 0 30 2 0
+0 40 11 21
 1
 end_operator
 begin_operator
@@ -52671,8 +52671,8 @@ overcome anxiety learning rice uranus vulcan
 1
 3 11
 2
-0 40 11 21
 0 30 3 2
+0 40 11 21
 1
 end_operator
 begin_operator
@@ -52680,8 +52680,8 @@ overcome anxiety learning rice vulcan jupiter
 1
 3 11
 2
-0 40 11 21
 0 30 1 3
+0 40 11 21
 1
 end_operator
 begin_operator
@@ -52689,8 +52689,8 @@ overcome anxiety learning scallop earth uranus
 1
 3 12
 2
-0 40 12 21
 0 30 2 0
+0 40 12 21
 1
 end_operator
 begin_operator
@@ -52698,8 +52698,8 @@ overcome anxiety learning scallop uranus vulcan
 1
 3 12
 2
-0 40 12 21
 0 30 3 2
+0 40 12 21
 1
 end_operator
 begin_operator
@@ -52707,8 +52707,8 @@ overcome anxiety learning scallop vulcan jupiter
 1
 3 12
 2
-0 40 12 21
 0 30 1 3
+0 40 12 21
 1
 end_operator
 begin_operator
@@ -52716,8 +52716,8 @@ overcome anxiety learning tofu earth uranus
 1
 3 13
 2
-0 40 13 21
 0 30 2 0
+0 40 13 21
 1
 end_operator
 begin_operator
@@ -52725,8 +52725,8 @@ overcome anxiety learning tofu uranus vulcan
 1
 3 13
 2
-0 40 13 21
 0 30 3 2
+0 40 13 21
 1
 end_operator
 begin_operator
@@ -52734,8 +52734,8 @@ overcome anxiety learning tofu vulcan jupiter
 1
 3 13
 2
-0 40 13 21
 0 30 1 3
+0 40 13 21
 1
 end_operator
 begin_operator
@@ -52743,8 +52743,8 @@ overcome anxiety learning tomato earth uranus
 1
 3 14
 2
-0 40 14 21
 0 30 2 0
+0 40 14 21
 1
 end_operator
 begin_operator
@@ -52752,8 +52752,8 @@ overcome anxiety learning tomato uranus vulcan
 1
 3 14
 2
-0 40 14 21
 0 30 3 2
+0 40 14 21
 1
 end_operator
 begin_operator
@@ -52761,8 +52761,8 @@ overcome anxiety learning tomato vulcan jupiter
 1
 3 14
 2
-0 40 14 21
 0 30 1 3
+0 40 14 21
 1
 end_operator
 begin_operator
@@ -52770,8 +52770,8 @@ overcome anxiety learning tuna earth uranus
 1
 3 15
 2
-0 40 15 21
 0 30 2 0
+0 40 15 21
 1
 end_operator
 begin_operator
@@ -52779,8 +52779,8 @@ overcome anxiety learning tuna uranus vulcan
 1
 3 15
 2
-0 40 15 21
 0 30 3 2
+0 40 15 21
 1
 end_operator
 begin_operator
@@ -52788,8 +52788,8 @@ overcome anxiety learning tuna vulcan jupiter
 1
 3 15
 2
-0 40 15 21
 0 30 1 3
+0 40 15 21
 1
 end_operator
 begin_operator
@@ -52797,8 +52797,8 @@ overcome anxiety learning turkey earth uranus
 1
 3 16
 2
-0 40 16 21
 0 30 2 0
+0 40 16 21
 1
 end_operator
 begin_operator
@@ -52806,8 +52806,8 @@ overcome anxiety learning turkey uranus vulcan
 1
 3 16
 2
-0 40 16 21
 0 30 3 2
+0 40 16 21
 1
 end_operator
 begin_operator
@@ -52815,8 +52815,8 @@ overcome anxiety learning turkey vulcan jupiter
 1
 3 16
 2
-0 40 16 21
 0 30 1 3
+0 40 16 21
 1
 end_operator
 begin_operator
@@ -52824,8 +52824,8 @@ overcome anxiety learning wonderbread earth uranus
 1
 3 17
 2
-0 40 17 21
 0 30 2 0
+0 40 17 21
 1
 end_operator
 begin_operator
@@ -52833,8 +52833,8 @@ overcome anxiety learning wonderbread uranus vulcan
 1
 3 17
 2
-0 40 17 21
 0 30 3 2
+0 40 17 21
 1
 end_operator
 begin_operator
@@ -52842,8 +52842,8 @@ overcome anxiety learning wonderbread vulcan jupiter
 1
 3 17
 2
-0 40 17 21
 0 30 1 3
+0 40 17 21
 1
 end_operator
 begin_operator
@@ -52851,8 +52851,8 @@ overcome anxiety love arugula earth uranus
 1
 4 0
 2
-0 40 0 22
 0 31 2 0
+0 40 0 22
 1
 end_operator
 begin_operator
@@ -52860,8 +52860,8 @@ overcome anxiety love arugula uranus vulcan
 1
 4 0
 2
-0 40 0 22
 0 31 3 2
+0 40 0 22
 1
 end_operator
 begin_operator
@@ -52869,8 +52869,8 @@ overcome anxiety love arugula vulcan jupiter
 1
 4 0
 2
-0 40 0 22
 0 31 1 3
+0 40 0 22
 1
 end_operator
 begin_operator
@@ -52878,8 +52878,8 @@ overcome anxiety love baguette earth uranus
 1
 4 1
 2
-0 40 1 22
 0 31 2 0
+0 40 1 22
 1
 end_operator
 begin_operator
@@ -52887,8 +52887,8 @@ overcome anxiety love baguette uranus vulcan
 1
 4 1
 2
-0 40 1 22
 0 31 3 2
+0 40 1 22
 1
 end_operator
 begin_operator
@@ -52896,8 +52896,8 @@ overcome anxiety love baguette vulcan jupiter
 1
 4 1
 2
-0 40 1 22
 0 31 1 3
+0 40 1 22
 1
 end_operator
 begin_operator
@@ -52905,8 +52905,8 @@ overcome anxiety love cantelope earth uranus
 1
 4 2
 2
-0 40 2 22
 0 31 2 0
+0 40 2 22
 1
 end_operator
 begin_operator
@@ -52914,8 +52914,8 @@ overcome anxiety love cantelope uranus vulcan
 1
 4 2
 2
-0 40 2 22
 0 31 3 2
+0 40 2 22
 1
 end_operator
 begin_operator
@@ -52923,8 +52923,8 @@ overcome anxiety love cantelope vulcan jupiter
 1
 4 2
 2
-0 40 2 22
 0 31 1 3
+0 40 2 22
 1
 end_operator
 begin_operator
@@ -52932,8 +52932,8 @@ overcome anxiety love flounder earth uranus
 1
 4 3
 2
-0 40 3 22
 0 31 2 0
+0 40 3 22
 1
 end_operator
 begin_operator
@@ -52941,8 +52941,8 @@ overcome anxiety love flounder uranus vulcan
 1
 4 3
 2
-0 40 3 22
 0 31 3 2
+0 40 3 22
 1
 end_operator
 begin_operator
@@ -52950,8 +52950,8 @@ overcome anxiety love flounder vulcan jupiter
 1
 4 3
 2
-0 40 3 22
 0 31 1 3
+0 40 3 22
 1
 end_operator
 begin_operator
@@ -52959,8 +52959,8 @@ overcome anxiety love hotdog earth uranus
 1
 4 4
 2
-0 40 4 22
 0 31 2 0
+0 40 4 22
 1
 end_operator
 begin_operator
@@ -52968,8 +52968,8 @@ overcome anxiety love hotdog uranus vulcan
 1
 4 4
 2
-0 40 4 22
 0 31 3 2
+0 40 4 22
 1
 end_operator
 begin_operator
@@ -52977,8 +52977,8 @@ overcome anxiety love hotdog vulcan jupiter
 1
 4 4
 2
-0 40 4 22
 0 31 1 3
+0 40 4 22
 1
 end_operator
 begin_operator
@@ -52986,8 +52986,8 @@ overcome anxiety love lobster earth uranus
 1
 4 5
 2
-0 40 5 22
 0 31 2 0
+0 40 5 22
 1
 end_operator
 begin_operator
@@ -52995,8 +52995,8 @@ overcome anxiety love lobster uranus vulcan
 1
 4 5
 2
-0 40 5 22
 0 31 3 2
+0 40 5 22
 1
 end_operator
 begin_operator
@@ -53004,8 +53004,8 @@ overcome anxiety love lobster vulcan jupiter
 1
 4 5
 2
-0 40 5 22
 0 31 1 3
+0 40 5 22
 1
 end_operator
 begin_operator
@@ -53013,8 +53013,8 @@ overcome anxiety love muffin earth uranus
 1
 4 6
 2
-0 40 6 22
 0 31 2 0
+0 40 6 22
 1
 end_operator
 begin_operator
@@ -53022,8 +53022,8 @@ overcome anxiety love muffin uranus vulcan
 1
 4 6
 2
-0 40 6 22
 0 31 3 2
+0 40 6 22
 1
 end_operator
 begin_operator
@@ -53031,8 +53031,8 @@ overcome anxiety love muffin vulcan jupiter
 1
 4 6
 2
-0 40 6 22
 0 31 1 3
+0 40 6 22
 1
 end_operator
 begin_operator
@@ -53040,8 +53040,8 @@ overcome anxiety love okra earth uranus
 1
 4 7
 2
-0 40 7 22
 0 31 2 0
+0 40 7 22
 1
 end_operator
 begin_operator
@@ -53049,8 +53049,8 @@ overcome anxiety love okra uranus vulcan
 1
 4 7
 2
-0 40 7 22
 0 31 3 2
+0 40 7 22
 1
 end_operator
 begin_operator
@@ -53058,8 +53058,8 @@ overcome anxiety love okra vulcan jupiter
 1
 4 7
 2
-0 40 7 22
 0 31 1 3
+0 40 7 22
 1
 end_operator
 begin_operator
@@ -53067,8 +53067,8 @@ overcome anxiety love pepper earth uranus
 1
 4 8
 2
-0 40 8 22
 0 31 2 0
+0 40 8 22
 1
 end_operator
 begin_operator
@@ -53076,8 +53076,8 @@ overcome anxiety love pepper uranus vulcan
 1
 4 8
 2
-0 40 8 22
 0 31 3 2
+0 40 8 22
 1
 end_operator
 begin_operator
@@ -53085,8 +53085,8 @@ overcome anxiety love pepper vulcan jupiter
 1
 4 8
 2
-0 40 8 22
 0 31 1 3
+0 40 8 22
 1
 end_operator
 begin_operator
@@ -53094,8 +53094,8 @@ overcome anxiety love pistachio earth uranus
 1
 4 9
 2
-0 40 9 22
 0 31 2 0
+0 40 9 22
 1
 end_operator
 begin_operator
@@ -53103,8 +53103,8 @@ overcome anxiety love pistachio uranus vulcan
 1
 4 9
 2
-0 40 9 22
 0 31 3 2
+0 40 9 22
 1
 end_operator
 begin_operator
@@ -53112,8 +53112,8 @@ overcome anxiety love pistachio vulcan jupiter
 1
 4 9
 2
-0 40 9 22
 0 31 1 3
+0 40 9 22
 1
 end_operator
 begin_operator
@@ -53121,8 +53121,8 @@ overcome anxiety love pork earth uranus
 1
 4 10
 2
-0 40 10 22
 0 31 2 0
+0 40 10 22
 1
 end_operator
 begin_operator
@@ -53130,8 +53130,8 @@ overcome anxiety love pork uranus vulcan
 1
 4 10
 2
-0 40 10 22
 0 31 3 2
+0 40 10 22
 1
 end_operator
 begin_operator
@@ -53139,8 +53139,8 @@ overcome anxiety love pork vulcan jupiter
 1
 4 10
 2
-0 40 10 22
 0 31 1 3
+0 40 10 22
 1
 end_operator
 begin_operator
@@ -53148,8 +53148,8 @@ overcome anxiety love rice earth uranus
 1
 4 11
 2
-0 40 11 22
 0 31 2 0
+0 40 11 22
 1
 end_operator
 begin_operator
@@ -53157,8 +53157,8 @@ overcome anxiety love rice uranus vulcan
 1
 4 11
 2
-0 40 11 22
 0 31 3 2
+0 40 11 22
 1
 end_operator
 begin_operator
@@ -53166,8 +53166,8 @@ overcome anxiety love rice vulcan jupiter
 1
 4 11
 2
-0 40 11 22
 0 31 1 3
+0 40 11 22
 1
 end_operator
 begin_operator
@@ -53175,8 +53175,8 @@ overcome anxiety love scallop earth uranus
 1
 4 12
 2
-0 40 12 22
 0 31 2 0
+0 40 12 22
 1
 end_operator
 begin_operator
@@ -53184,8 +53184,8 @@ overcome anxiety love scallop uranus vulcan
 1
 4 12
 2
-0 40 12 22
 0 31 3 2
+0 40 12 22
 1
 end_operator
 begin_operator
@@ -53193,8 +53193,8 @@ overcome anxiety love scallop vulcan jupiter
 1
 4 12
 2
-0 40 12 22
 0 31 1 3
+0 40 12 22
 1
 end_operator
 begin_operator
@@ -53202,8 +53202,8 @@ overcome anxiety love tofu earth uranus
 1
 4 13
 2
-0 40 13 22
 0 31 2 0
+0 40 13 22
 1
 end_operator
 begin_operator
@@ -53211,8 +53211,8 @@ overcome anxiety love tofu uranus vulcan
 1
 4 13
 2
-0 40 13 22
 0 31 3 2
+0 40 13 22
 1
 end_operator
 begin_operator
@@ -53220,8 +53220,8 @@ overcome anxiety love tofu vulcan jupiter
 1
 4 13
 2
-0 40 13 22
 0 31 1 3
+0 40 13 22
 1
 end_operator
 begin_operator
@@ -53229,8 +53229,8 @@ overcome anxiety love tomato earth uranus
 1
 4 14
 2
-0 40 14 22
 0 31 2 0
+0 40 14 22
 1
 end_operator
 begin_operator
@@ -53238,8 +53238,8 @@ overcome anxiety love tomato uranus vulcan
 1
 4 14
 2
-0 40 14 22
 0 31 3 2
+0 40 14 22
 1
 end_operator
 begin_operator
@@ -53247,8 +53247,8 @@ overcome anxiety love tomato vulcan jupiter
 1
 4 14
 2
-0 40 14 22
 0 31 1 3
+0 40 14 22
 1
 end_operator
 begin_operator
@@ -53256,8 +53256,8 @@ overcome anxiety love tuna earth uranus
 1
 4 15
 2
-0 40 15 22
 0 31 2 0
+0 40 15 22
 1
 end_operator
 begin_operator
@@ -53265,8 +53265,8 @@ overcome anxiety love tuna uranus vulcan
 1
 4 15
 2
-0 40 15 22
 0 31 3 2
+0 40 15 22
 1
 end_operator
 begin_operator
@@ -53274,8 +53274,8 @@ overcome anxiety love tuna vulcan jupiter
 1
 4 15
 2
-0 40 15 22
 0 31 1 3
+0 40 15 22
 1
 end_operator
 begin_operator
@@ -53283,8 +53283,8 @@ overcome anxiety love turkey earth uranus
 1
 4 16
 2
-0 40 16 22
 0 31 2 0
+0 40 16 22
 1
 end_operator
 begin_operator
@@ -53292,8 +53292,8 @@ overcome anxiety love turkey uranus vulcan
 1
 4 16
 2
-0 40 16 22
 0 31 3 2
+0 40 16 22
 1
 end_operator
 begin_operator
@@ -53301,8 +53301,8 @@ overcome anxiety love turkey vulcan jupiter
 1
 4 16
 2
-0 40 16 22
 0 31 1 3
+0 40 16 22
 1
 end_operator
 begin_operator
@@ -53310,8 +53310,8 @@ overcome anxiety love wonderbread earth uranus
 1
 4 17
 2
-0 40 17 22
 0 31 2 0
+0 40 17 22
 1
 end_operator
 begin_operator
@@ -53319,8 +53319,8 @@ overcome anxiety love wonderbread uranus vulcan
 1
 4 17
 2
-0 40 17 22
 0 31 3 2
+0 40 17 22
 1
 end_operator
 begin_operator
@@ -53328,8 +53328,8 @@ overcome anxiety love wonderbread vulcan jupiter
 1
 4 17
 2
-0 40 17 22
 0 31 1 3
+0 40 17 22
 1
 end_operator
 begin_operator
@@ -53337,8 +53337,8 @@ overcome anxiety lubricity arugula earth uranus
 1
 5 0
 2
-0 40 0 23
 0 34 2 0
+0 40 0 23
 1
 end_operator
 begin_operator
@@ -53346,8 +53346,8 @@ overcome anxiety lubricity arugula uranus vulcan
 1
 5 0
 2
-0 40 0 23
 0 34 3 2
+0 40 0 23
 1
 end_operator
 begin_operator
@@ -53355,8 +53355,8 @@ overcome anxiety lubricity arugula vulcan jupiter
 1
 5 0
 2
-0 40 0 23
 0 34 1 3
+0 40 0 23
 1
 end_operator
 begin_operator
@@ -53364,8 +53364,8 @@ overcome anxiety lubricity baguette earth uranus
 1
 5 1
 2
-0 40 1 23
 0 34 2 0
+0 40 1 23
 1
 end_operator
 begin_operator
@@ -53373,8 +53373,8 @@ overcome anxiety lubricity baguette uranus vulcan
 1
 5 1
 2
-0 40 1 23
 0 34 3 2
+0 40 1 23
 1
 end_operator
 begin_operator
@@ -53382,8 +53382,8 @@ overcome anxiety lubricity baguette vulcan jupiter
 1
 5 1
 2
-0 40 1 23
 0 34 1 3
+0 40 1 23
 1
 end_operator
 begin_operator
@@ -53391,8 +53391,8 @@ overcome anxiety lubricity cantelope earth uranus
 1
 5 2
 2
-0 40 2 23
 0 34 2 0
+0 40 2 23
 1
 end_operator
 begin_operator
@@ -53400,8 +53400,8 @@ overcome anxiety lubricity cantelope uranus vulcan
 1
 5 2
 2
-0 40 2 23
 0 34 3 2
+0 40 2 23
 1
 end_operator
 begin_operator
@@ -53409,8 +53409,8 @@ overcome anxiety lubricity cantelope vulcan jupiter
 1
 5 2
 2
-0 40 2 23
 0 34 1 3
+0 40 2 23
 1
 end_operator
 begin_operator
@@ -53418,8 +53418,8 @@ overcome anxiety lubricity flounder earth uranus
 1
 5 3
 2
-0 40 3 23
 0 34 2 0
+0 40 3 23
 1
 end_operator
 begin_operator
@@ -53427,8 +53427,8 @@ overcome anxiety lubricity flounder uranus vulcan
 1
 5 3
 2
-0 40 3 23
 0 34 3 2
+0 40 3 23
 1
 end_operator
 begin_operator
@@ -53436,8 +53436,8 @@ overcome anxiety lubricity flounder vulcan jupiter
 1
 5 3
 2
-0 40 3 23
 0 34 1 3
+0 40 3 23
 1
 end_operator
 begin_operator
@@ -53445,8 +53445,8 @@ overcome anxiety lubricity hotdog earth uranus
 1
 5 4
 2
-0 40 4 23
 0 34 2 0
+0 40 4 23
 1
 end_operator
 begin_operator
@@ -53454,8 +53454,8 @@ overcome anxiety lubricity hotdog uranus vulcan
 1
 5 4
 2
-0 40 4 23
 0 34 3 2
+0 40 4 23
 1
 end_operator
 begin_operator
@@ -53463,8 +53463,8 @@ overcome anxiety lubricity hotdog vulcan jupiter
 1
 5 4
 2
-0 40 4 23
 0 34 1 3
+0 40 4 23
 1
 end_operator
 begin_operator
@@ -53472,8 +53472,8 @@ overcome anxiety lubricity lobster earth uranus
 1
 5 5
 2
-0 40 5 23
 0 34 2 0
+0 40 5 23
 1
 end_operator
 begin_operator
@@ -53481,8 +53481,8 @@ overcome anxiety lubricity lobster uranus vulcan
 1
 5 5
 2
-0 40 5 23
 0 34 3 2
+0 40 5 23
 1
 end_operator
 begin_operator
@@ -53490,8 +53490,8 @@ overcome anxiety lubricity lobster vulcan jupiter
 1
 5 5
 2
-0 40 5 23
 0 34 1 3
+0 40 5 23
 1
 end_operator
 begin_operator
@@ -53499,8 +53499,8 @@ overcome anxiety lubricity muffin earth uranus
 1
 5 6
 2
-0 40 6 23
 0 34 2 0
+0 40 6 23
 1
 end_operator
 begin_operator
@@ -53508,8 +53508,8 @@ overcome anxiety lubricity muffin uranus vulcan
 1
 5 6
 2
-0 40 6 23
 0 34 3 2
+0 40 6 23
 1
 end_operator
 begin_operator
@@ -53517,8 +53517,8 @@ overcome anxiety lubricity muffin vulcan jupiter
 1
 5 6
 2
-0 40 6 23
 0 34 1 3
+0 40 6 23
 1
 end_operator
 begin_operator
@@ -53526,8 +53526,8 @@ overcome anxiety lubricity okra earth uranus
 1
 5 7
 2
-0 40 7 23
 0 34 2 0
+0 40 7 23
 1
 end_operator
 begin_operator
@@ -53535,8 +53535,8 @@ overcome anxiety lubricity okra uranus vulcan
 1
 5 7
 2
-0 40 7 23
 0 34 3 2
+0 40 7 23
 1
 end_operator
 begin_operator
@@ -53544,8 +53544,8 @@ overcome anxiety lubricity okra vulcan jupiter
 1
 5 7
 2
-0 40 7 23
 0 34 1 3
+0 40 7 23
 1
 end_operator
 begin_operator
@@ -53553,8 +53553,8 @@ overcome anxiety lubricity pepper earth uranus
 1
 5 8
 2
-0 40 8 23
 0 34 2 0
+0 40 8 23
 1
 end_operator
 begin_operator
@@ -53562,8 +53562,8 @@ overcome anxiety lubricity pepper uranus vulcan
 1
 5 8
 2
-0 40 8 23
 0 34 3 2
+0 40 8 23
 1
 end_operator
 begin_operator
@@ -53571,8 +53571,8 @@ overcome anxiety lubricity pepper vulcan jupiter
 1
 5 8
 2
-0 40 8 23
 0 34 1 3
+0 40 8 23
 1
 end_operator
 begin_operator
@@ -53580,8 +53580,8 @@ overcome anxiety lubricity pistachio earth uranus
 1
 5 9
 2
-0 40 9 23
 0 34 2 0
+0 40 9 23
 1
 end_operator
 begin_operator
@@ -53589,8 +53589,8 @@ overcome anxiety lubricity pistachio uranus vulcan
 1
 5 9
 2
-0 40 9 23
 0 34 3 2
+0 40 9 23
 1
 end_operator
 begin_operator
@@ -53598,8 +53598,8 @@ overcome anxiety lubricity pistachio vulcan jupiter
 1
 5 9
 2
-0 40 9 23
 0 34 1 3
+0 40 9 23
 1
 end_operator
 begin_operator
@@ -53607,8 +53607,8 @@ overcome anxiety lubricity pork earth uranus
 1
 5 10
 2
-0 40 10 23
 0 34 2 0
+0 40 10 23
 1
 end_operator
 begin_operator
@@ -53616,8 +53616,8 @@ overcome anxiety lubricity pork uranus vulcan
 1
 5 10
 2
-0 40 10 23
 0 34 3 2
+0 40 10 23
 1
 end_operator
 begin_operator
@@ -53625,8 +53625,8 @@ overcome anxiety lubricity pork vulcan jupiter
 1
 5 10
 2
-0 40 10 23
 0 34 1 3
+0 40 10 23
 1
 end_operator
 begin_operator
@@ -53634,8 +53634,8 @@ overcome anxiety lubricity rice earth uranus
 1
 5 11
 2
-0 40 11 23
 0 34 2 0
+0 40 11 23
 1
 end_operator
 begin_operator
@@ -53643,8 +53643,8 @@ overcome anxiety lubricity rice uranus vulcan
 1
 5 11
 2
-0 40 11 23
 0 34 3 2
+0 40 11 23
 1
 end_operator
 begin_operator
@@ -53652,8 +53652,8 @@ overcome anxiety lubricity rice vulcan jupiter
 1
 5 11
 2
-0 40 11 23
 0 34 1 3
+0 40 11 23
 1
 end_operator
 begin_operator
@@ -53661,8 +53661,8 @@ overcome anxiety lubricity scallop earth uranus
 1
 5 12
 2
-0 40 12 23
 0 34 2 0
+0 40 12 23
 1
 end_operator
 begin_operator
@@ -53670,8 +53670,8 @@ overcome anxiety lubricity scallop uranus vulcan
 1
 5 12
 2
-0 40 12 23
 0 34 3 2
+0 40 12 23
 1
 end_operator
 begin_operator
@@ -53679,8 +53679,8 @@ overcome anxiety lubricity scallop vulcan jupiter
 1
 5 12
 2
-0 40 12 23
 0 34 1 3
+0 40 12 23
 1
 end_operator
 begin_operator
@@ -53688,8 +53688,8 @@ overcome anxiety lubricity tofu earth uranus
 1
 5 13
 2
-0 40 13 23
 0 34 2 0
+0 40 13 23
 1
 end_operator
 begin_operator
@@ -53697,8 +53697,8 @@ overcome anxiety lubricity tofu uranus vulcan
 1
 5 13
 2
-0 40 13 23
 0 34 3 2
+0 40 13 23
 1
 end_operator
 begin_operator
@@ -53706,8 +53706,8 @@ overcome anxiety lubricity tofu vulcan jupiter
 1
 5 13
 2
-0 40 13 23
 0 34 1 3
+0 40 13 23
 1
 end_operator
 begin_operator
@@ -53715,8 +53715,8 @@ overcome anxiety lubricity tomato earth uranus
 1
 5 14
 2
-0 40 14 23
 0 34 2 0
+0 40 14 23
 1
 end_operator
 begin_operator
@@ -53724,8 +53724,8 @@ overcome anxiety lubricity tomato uranus vulcan
 1
 5 14
 2
-0 40 14 23
 0 34 3 2
+0 40 14 23
 1
 end_operator
 begin_operator
@@ -53733,8 +53733,8 @@ overcome anxiety lubricity tomato vulcan jupiter
 1
 5 14
 2
-0 40 14 23
 0 34 1 3
+0 40 14 23
 1
 end_operator
 begin_operator
@@ -53742,8 +53742,8 @@ overcome anxiety lubricity tuna earth uranus
 1
 5 15
 2
-0 40 15 23
 0 34 2 0
+0 40 15 23
 1
 end_operator
 begin_operator
@@ -53751,8 +53751,8 @@ overcome anxiety lubricity tuna uranus vulcan
 1
 5 15
 2
-0 40 15 23
 0 34 3 2
+0 40 15 23
 1
 end_operator
 begin_operator
@@ -53760,8 +53760,8 @@ overcome anxiety lubricity tuna vulcan jupiter
 1
 5 15
 2
-0 40 15 23
 0 34 1 3
+0 40 15 23
 1
 end_operator
 begin_operator
@@ -53769,8 +53769,8 @@ overcome anxiety lubricity turkey earth uranus
 1
 5 16
 2
-0 40 16 23
 0 34 2 0
+0 40 16 23
 1
 end_operator
 begin_operator
@@ -53778,8 +53778,8 @@ overcome anxiety lubricity turkey uranus vulcan
 1
 5 16
 2
-0 40 16 23
 0 34 3 2
+0 40 16 23
 1
 end_operator
 begin_operator
@@ -53787,8 +53787,8 @@ overcome anxiety lubricity turkey vulcan jupiter
 1
 5 16
 2
-0 40 16 23
 0 34 1 3
+0 40 16 23
 1
 end_operator
 begin_operator
@@ -53796,8 +53796,8 @@ overcome anxiety lubricity wonderbread earth uranus
 1
 5 17
 2
-0 40 17 23
 0 34 2 0
+0 40 17 23
 1
 end_operator
 begin_operator
@@ -53805,8 +53805,8 @@ overcome anxiety lubricity wonderbread uranus vulcan
 1
 5 17
 2
-0 40 17 23
 0 34 3 2
+0 40 17 23
 1
 end_operator
 begin_operator
@@ -53814,8 +53814,8 @@ overcome anxiety lubricity wonderbread vulcan jupiter
 1
 5 17
 2
-0 40 17 23
 0 34 1 3
+0 40 17 23
 1
 end_operator
 begin_operator
@@ -53823,8 +53823,8 @@ overcome anxiety rest arugula earth uranus
 1
 6 0
 2
-0 40 0 24
 0 35 2 0
+0 40 0 24
 1
 end_operator
 begin_operator
@@ -53832,8 +53832,8 @@ overcome anxiety rest arugula uranus vulcan
 1
 6 0
 2
-0 40 0 24
 0 35 3 2
+0 40 0 24
 1
 end_operator
 begin_operator
@@ -53841,8 +53841,8 @@ overcome anxiety rest arugula vulcan jupiter
 1
 6 0
 2
-0 40 0 24
 0 35 1 3
+0 40 0 24
 1
 end_operator
 begin_operator
@@ -53850,8 +53850,8 @@ overcome anxiety rest baguette earth uranus
 1
 6 1
 2
-0 40 1 24
 0 35 2 0
+0 40 1 24
 1
 end_operator
 begin_operator
@@ -53859,8 +53859,8 @@ overcome anxiety rest baguette uranus vulcan
 1
 6 1
 2
-0 40 1 24
 0 35 3 2
+0 40 1 24
 1
 end_operator
 begin_operator
@@ -53868,8 +53868,8 @@ overcome anxiety rest baguette vulcan jupiter
 1
 6 1
 2
-0 40 1 24
 0 35 1 3
+0 40 1 24
 1
 end_operator
 begin_operator
@@ -53877,8 +53877,8 @@ overcome anxiety rest cantelope earth uranus
 1
 6 2
 2
-0 40 2 24
 0 35 2 0
+0 40 2 24
 1
 end_operator
 begin_operator
@@ -53886,8 +53886,8 @@ overcome anxiety rest cantelope uranus vulcan
 1
 6 2
 2
-0 40 2 24
 0 35 3 2
+0 40 2 24
 1
 end_operator
 begin_operator
@@ -53895,8 +53895,8 @@ overcome anxiety rest cantelope vulcan jupiter
 1
 6 2
 2
-0 40 2 24
 0 35 1 3
+0 40 2 24
 1
 end_operator
 begin_operator
@@ -53904,8 +53904,8 @@ overcome anxiety rest flounder earth uranus
 1
 6 3
 2
-0 40 3 24
 0 35 2 0
+0 40 3 24
 1
 end_operator
 begin_operator
@@ -53913,8 +53913,8 @@ overcome anxiety rest flounder uranus vulcan
 1
 6 3
 2
-0 40 3 24
 0 35 3 2
+0 40 3 24
 1
 end_operator
 begin_operator
@@ -53922,8 +53922,8 @@ overcome anxiety rest flounder vulcan jupiter
 1
 6 3
 2
-0 40 3 24
 0 35 1 3
+0 40 3 24
 1
 end_operator
 begin_operator
@@ -53931,8 +53931,8 @@ overcome anxiety rest hotdog earth uranus
 1
 6 4
 2
-0 40 4 24
 0 35 2 0
+0 40 4 24
 1
 end_operator
 begin_operator
@@ -53940,8 +53940,8 @@ overcome anxiety rest hotdog uranus vulcan
 1
 6 4
 2
-0 40 4 24
 0 35 3 2
+0 40 4 24
 1
 end_operator
 begin_operator
@@ -53949,8 +53949,8 @@ overcome anxiety rest hotdog vulcan jupiter
 1
 6 4
 2
-0 40 4 24
 0 35 1 3
+0 40 4 24
 1
 end_operator
 begin_operator
@@ -53958,8 +53958,8 @@ overcome anxiety rest lobster earth uranus
 1
 6 5
 2
-0 40 5 24
 0 35 2 0
+0 40 5 24
 1
 end_operator
 begin_operator
@@ -53967,8 +53967,8 @@ overcome anxiety rest lobster uranus vulcan
 1
 6 5
 2
-0 40 5 24
 0 35 3 2
+0 40 5 24
 1
 end_operator
 begin_operator
@@ -53976,8 +53976,8 @@ overcome anxiety rest lobster vulcan jupiter
 1
 6 5
 2
-0 40 5 24
 0 35 1 3
+0 40 5 24
 1
 end_operator
 begin_operator
@@ -53985,8 +53985,8 @@ overcome anxiety rest muffin earth uranus
 1
 6 6
 2
-0 40 6 24
 0 35 2 0
+0 40 6 24
 1
 end_operator
 begin_operator
@@ -53994,8 +53994,8 @@ overcome anxiety rest muffin uranus vulcan
 1
 6 6
 2
-0 40 6 24
 0 35 3 2
+0 40 6 24
 1
 end_operator
 begin_operator
@@ -54003,8 +54003,8 @@ overcome anxiety rest muffin vulcan jupiter
 1
 6 6
 2
-0 40 6 24
 0 35 1 3
+0 40 6 24
 1
 end_operator
 begin_operator
@@ -54012,8 +54012,8 @@ overcome anxiety rest okra earth uranus
 1
 6 7
 2
-0 40 7 24
 0 35 2 0
+0 40 7 24
 1
 end_operator
 begin_operator
@@ -54021,8 +54021,8 @@ overcome anxiety rest okra uranus vulcan
 1
 6 7
 2
-0 40 7 24
 0 35 3 2
+0 40 7 24
 1
 end_operator
 begin_operator
@@ -54030,8 +54030,8 @@ overcome anxiety rest okra vulcan jupiter
 1
 6 7
 2
-0 40 7 24
 0 35 1 3
+0 40 7 24
 1
 end_operator
 begin_operator
@@ -54039,8 +54039,8 @@ overcome anxiety rest pepper earth uranus
 1
 6 8
 2
-0 40 8 24
 0 35 2 0
+0 40 8 24
 1
 end_operator
 begin_operator
@@ -54048,8 +54048,8 @@ overcome anxiety rest pepper uranus vulcan
 1
 6 8
 2
-0 40 8 24
 0 35 3 2
+0 40 8 24
 1
 end_operator
 begin_operator
@@ -54057,8 +54057,8 @@ overcome anxiety rest pepper vulcan jupiter
 1
 6 8
 2
-0 40 8 24
 0 35 1 3
+0 40 8 24
 1
 end_operator
 begin_operator
@@ -54066,8 +54066,8 @@ overcome anxiety rest pistachio earth uranus
 1
 6 9
 2
-0 40 9 24
 0 35 2 0
+0 40 9 24
 1
 end_operator
 begin_operator
@@ -54075,8 +54075,8 @@ overcome anxiety rest pistachio uranus vulcan
 1
 6 9
 2
-0 40 9 24
 0 35 3 2
+0 40 9 24
 1
 end_operator
 begin_operator
@@ -54084,8 +54084,8 @@ overcome anxiety rest pistachio vulcan jupiter
 1
 6 9
 2
-0 40 9 24
 0 35 1 3
+0 40 9 24
 1
 end_operator
 begin_operator
@@ -54093,8 +54093,8 @@ overcome anxiety rest pork earth uranus
 1
 6 10
 2
-0 40 10 24
 0 35 2 0
+0 40 10 24
 1
 end_operator
 begin_operator
@@ -54102,8 +54102,8 @@ overcome anxiety rest pork uranus vulcan
 1
 6 10
 2
-0 40 10 24
 0 35 3 2
+0 40 10 24
 1
 end_operator
 begin_operator
@@ -54111,8 +54111,8 @@ overcome anxiety rest pork vulcan jupiter
 1
 6 10
 2
-0 40 10 24
 0 35 1 3
+0 40 10 24
 1
 end_operator
 begin_operator
@@ -54120,8 +54120,8 @@ overcome anxiety rest rice earth uranus
 1
 6 11
 2
-0 40 11 24
 0 35 2 0
+0 40 11 24
 1
 end_operator
 begin_operator
@@ -54129,8 +54129,8 @@ overcome anxiety rest rice uranus vulcan
 1
 6 11
 2
-0 40 11 24
 0 35 3 2
+0 40 11 24
 1
 end_operator
 begin_operator
@@ -54138,8 +54138,8 @@ overcome anxiety rest rice vulcan jupiter
 1
 6 11
 2
-0 40 11 24
 0 35 1 3
+0 40 11 24
 1
 end_operator
 begin_operator
@@ -54147,8 +54147,8 @@ overcome anxiety rest scallop earth uranus
 1
 6 12
 2
-0 40 12 24
 0 35 2 0
+0 40 12 24
 1
 end_operator
 begin_operator
@@ -54156,8 +54156,8 @@ overcome anxiety rest scallop uranus vulcan
 1
 6 12
 2
-0 40 12 24
 0 35 3 2
+0 40 12 24
 1
 end_operator
 begin_operator
@@ -54165,8 +54165,8 @@ overcome anxiety rest scallop vulcan jupiter
 1
 6 12
 2
-0 40 12 24
 0 35 1 3
+0 40 12 24
 1
 end_operator
 begin_operator
@@ -54174,8 +54174,8 @@ overcome anxiety rest tofu earth uranus
 1
 6 13
 2
-0 40 13 24
 0 35 2 0
+0 40 13 24
 1
 end_operator
 begin_operator
@@ -54183,8 +54183,8 @@ overcome anxiety rest tofu uranus vulcan
 1
 6 13
 2
-0 40 13 24
 0 35 3 2
+0 40 13 24
 1
 end_operator
 begin_operator
@@ -54192,8 +54192,8 @@ overcome anxiety rest tofu vulcan jupiter
 1
 6 13
 2
-0 40 13 24
 0 35 1 3
+0 40 13 24
 1
 end_operator
 begin_operator
@@ -54201,8 +54201,8 @@ overcome anxiety rest tomato earth uranus
 1
 6 14
 2
-0 40 14 24
 0 35 2 0
+0 40 14 24
 1
 end_operator
 begin_operator
@@ -54210,8 +54210,8 @@ overcome anxiety rest tomato uranus vulcan
 1
 6 14
 2
-0 40 14 24
 0 35 3 2
+0 40 14 24
 1
 end_operator
 begin_operator
@@ -54219,8 +54219,8 @@ overcome anxiety rest tomato vulcan jupiter
 1
 6 14
 2
-0 40 14 24
 0 35 1 3
+0 40 14 24
 1
 end_operator
 begin_operator
@@ -54228,8 +54228,8 @@ overcome anxiety rest tuna earth uranus
 1
 6 15
 2
-0 40 15 24
 0 35 2 0
+0 40 15 24
 1
 end_operator
 begin_operator
@@ -54237,8 +54237,8 @@ overcome anxiety rest tuna uranus vulcan
 1
 6 15
 2
-0 40 15 24
 0 35 3 2
+0 40 15 24
 1
 end_operator
 begin_operator
@@ -54246,8 +54246,8 @@ overcome anxiety rest tuna vulcan jupiter
 1
 6 15
 2
-0 40 15 24
 0 35 1 3
+0 40 15 24
 1
 end_operator
 begin_operator
@@ -54255,8 +54255,8 @@ overcome anxiety rest turkey earth uranus
 1
 6 16
 2
-0 40 16 24
 0 35 2 0
+0 40 16 24
 1
 end_operator
 begin_operator
@@ -54264,8 +54264,8 @@ overcome anxiety rest turkey uranus vulcan
 1
 6 16
 2
-0 40 16 24
 0 35 3 2
+0 40 16 24
 1
 end_operator
 begin_operator
@@ -54273,8 +54273,8 @@ overcome anxiety rest turkey vulcan jupiter
 1
 6 16
 2
-0 40 16 24
 0 35 1 3
+0 40 16 24
 1
 end_operator
 begin_operator
@@ -54282,8 +54282,8 @@ overcome anxiety rest wonderbread earth uranus
 1
 6 17
 2
-0 40 17 24
 0 35 2 0
+0 40 17 24
 1
 end_operator
 begin_operator
@@ -54291,8 +54291,8 @@ overcome anxiety rest wonderbread uranus vulcan
 1
 6 17
 2
-0 40 17 24
 0 35 3 2
+0 40 17 24
 1
 end_operator
 begin_operator
@@ -54300,8 +54300,8 @@ overcome anxiety rest wonderbread vulcan jupiter
 1
 6 17
 2
-0 40 17 24
 0 35 1 3
+0 40 17 24
 1
 end_operator
 begin_operator
@@ -54309,8 +54309,8 @@ overcome anxiety stimulation arugula earth uranus
 1
 7 0
 2
-0 40 0 25
 0 38 2 0
+0 40 0 25
 1
 end_operator
 begin_operator
@@ -54318,8 +54318,8 @@ overcome anxiety stimulation arugula uranus vulcan
 1
 7 0
 2
-0 40 0 25
 0 38 3 2
+0 40 0 25
 1
 end_operator
 begin_operator
@@ -54327,8 +54327,8 @@ overcome anxiety stimulation arugula vulcan jupiter
 1
 7 0
 2
-0 40 0 25
 0 38 1 3
+0 40 0 25
 1
 end_operator
 begin_operator
@@ -54336,8 +54336,8 @@ overcome anxiety stimulation baguette earth uranus
 1
 7 1
 2
-0 40 1 25
 0 38 2 0
+0 40 1 25
 1
 end_operator
 begin_operator
@@ -54345,8 +54345,8 @@ overcome anxiety stimulation baguette uranus vulcan
 1
 7 1
 2
-0 40 1 25
 0 38 3 2
+0 40 1 25
 1
 end_operator
 begin_operator
@@ -54354,8 +54354,8 @@ overcome anxiety stimulation baguette vulcan jupiter
 1
 7 1
 2
-0 40 1 25
 0 38 1 3
+0 40 1 25
 1
 end_operator
 begin_operator
@@ -54363,8 +54363,8 @@ overcome anxiety stimulation cantelope earth uranus
 1
 7 2
 2
-0 40 2 25
 0 38 2 0
+0 40 2 25
 1
 end_operator
 begin_operator
@@ -54372,8 +54372,8 @@ overcome anxiety stimulation cantelope uranus vulcan
 1
 7 2
 2
-0 40 2 25
 0 38 3 2
+0 40 2 25
 1
 end_operator
 begin_operator
@@ -54381,8 +54381,8 @@ overcome anxiety stimulation cantelope vulcan jupiter
 1
 7 2
 2
-0 40 2 25
 0 38 1 3
+0 40 2 25
 1
 end_operator
 begin_operator
@@ -54390,8 +54390,8 @@ overcome anxiety stimulation flounder earth uranus
 1
 7 3
 2
-0 40 3 25
 0 38 2 0
+0 40 3 25
 1
 end_operator
 begin_operator
@@ -54399,8 +54399,8 @@ overcome anxiety stimulation flounder uranus vulcan
 1
 7 3
 2
-0 40 3 25
 0 38 3 2
+0 40 3 25
 1
 end_operator
 begin_operator
@@ -54408,8 +54408,8 @@ overcome anxiety stimulation flounder vulcan jupiter
 1
 7 3
 2
-0 40 3 25
 0 38 1 3
+0 40 3 25
 1
 end_operator
 begin_operator
@@ -54417,8 +54417,8 @@ overcome anxiety stimulation hotdog earth uranus
 1
 7 4
 2
-0 40 4 25
 0 38 2 0
+0 40 4 25
 1
 end_operator
 begin_operator
@@ -54426,8 +54426,8 @@ overcome anxiety stimulation hotdog uranus vulcan
 1
 7 4
 2
-0 40 4 25
 0 38 3 2
+0 40 4 25
 1
 end_operator
 begin_operator
@@ -54435,8 +54435,8 @@ overcome anxiety stimulation hotdog vulcan jupiter
 1
 7 4
 2
-0 40 4 25
 0 38 1 3
+0 40 4 25
 1
 end_operator
 begin_operator
@@ -54444,8 +54444,8 @@ overcome anxiety stimulation lobster earth uranus
 1
 7 5
 2
-0 40 5 25
 0 38 2 0
+0 40 5 25
 1
 end_operator
 begin_operator
@@ -54453,8 +54453,8 @@ overcome anxiety stimulation lobster uranus vulcan
 1
 7 5
 2
-0 40 5 25
 0 38 3 2
+0 40 5 25
 1
 end_operator
 begin_operator
@@ -54462,8 +54462,8 @@ overcome anxiety stimulation lobster vulcan jupiter
 1
 7 5
 2
-0 40 5 25
 0 38 1 3
+0 40 5 25
 1
 end_operator
 begin_operator
@@ -54471,8 +54471,8 @@ overcome anxiety stimulation muffin earth uranus
 1
 7 6
 2
-0 40 6 25
 0 38 2 0
+0 40 6 25
 1
 end_operator
 begin_operator
@@ -54480,8 +54480,8 @@ overcome anxiety stimulation muffin uranus vulcan
 1
 7 6
 2
-0 40 6 25
 0 38 3 2
+0 40 6 25
 1
 end_operator
 begin_operator
@@ -54489,8 +54489,8 @@ overcome anxiety stimulation muffin vulcan jupiter
 1
 7 6
 2
-0 40 6 25
 0 38 1 3
+0 40 6 25
 1
 end_operator
 begin_operator
@@ -54498,8 +54498,8 @@ overcome anxiety stimulation okra earth uranus
 1
 7 7
 2
-0 40 7 25
 0 38 2 0
+0 40 7 25
 1
 end_operator
 begin_operator
@@ -54507,8 +54507,8 @@ overcome anxiety stimulation okra uranus vulcan
 1
 7 7
 2
-0 40 7 25
 0 38 3 2
+0 40 7 25
 1
 end_operator
 begin_operator
@@ -54516,8 +54516,8 @@ overcome anxiety stimulation okra vulcan jupiter
 1
 7 7
 2
-0 40 7 25
 0 38 1 3
+0 40 7 25
 1
 end_operator
 begin_operator
@@ -54525,8 +54525,8 @@ overcome anxiety stimulation pepper earth uranus
 1
 7 8
 2
-0 40 8 25
 0 38 2 0
+0 40 8 25
 1
 end_operator
 begin_operator
@@ -54534,8 +54534,8 @@ overcome anxiety stimulation pepper uranus vulcan
 1
 7 8
 2
-0 40 8 25
 0 38 3 2
+0 40 8 25
 1
 end_operator
 begin_operator
@@ -54543,8 +54543,8 @@ overcome anxiety stimulation pepper vulcan jupiter
 1
 7 8
 2
-0 40 8 25
 0 38 1 3
+0 40 8 25
 1
 end_operator
 begin_operator
@@ -54552,8 +54552,8 @@ overcome anxiety stimulation pistachio earth uranus
 1
 7 9
 2
-0 40 9 25
 0 38 2 0
+0 40 9 25
 1
 end_operator
 begin_operator
@@ -54561,8 +54561,8 @@ overcome anxiety stimulation pistachio uranus vulcan
 1
 7 9
 2
-0 40 9 25
 0 38 3 2
+0 40 9 25
 1
 end_operator
 begin_operator
@@ -54570,8 +54570,8 @@ overcome anxiety stimulation pistachio vulcan jupiter
 1
 7 9
 2
-0 40 9 25
 0 38 1 3
+0 40 9 25
 1
 end_operator
 begin_operator
@@ -54579,8 +54579,8 @@ overcome anxiety stimulation pork earth uranus
 1
 7 10
 2
-0 40 10 25
 0 38 2 0
+0 40 10 25
 1
 end_operator
 begin_operator
@@ -54588,8 +54588,8 @@ overcome anxiety stimulation pork uranus vulcan
 1
 7 10
 2
-0 40 10 25
 0 38 3 2
+0 40 10 25
 1
 end_operator
 begin_operator
@@ -54597,8 +54597,8 @@ overcome anxiety stimulation pork vulcan jupiter
 1
 7 10
 2
-0 40 10 25
 0 38 1 3
+0 40 10 25
 1
 end_operator
 begin_operator
@@ -54606,8 +54606,8 @@ overcome anxiety stimulation rice earth uranus
 1
 7 11
 2
-0 40 11 25
 0 38 2 0
+0 40 11 25
 1
 end_operator
 begin_operator
@@ -54615,8 +54615,8 @@ overcome anxiety stimulation rice uranus vulcan
 1
 7 11
 2
-0 40 11 25
 0 38 3 2
+0 40 11 25
 1
 end_operator
 begin_operator
@@ -54624,8 +54624,8 @@ overcome anxiety stimulation rice vulcan jupiter
 1
 7 11
 2
-0 40 11 25
 0 38 1 3
+0 40 11 25
 1
 end_operator
 begin_operator
@@ -54633,8 +54633,8 @@ overcome anxiety stimulation scallop earth uranus
 1
 7 12
 2
-0 40 12 25
 0 38 2 0
+0 40 12 25
 1
 end_operator
 begin_operator
@@ -54642,8 +54642,8 @@ overcome anxiety stimulation scallop uranus vulcan
 1
 7 12
 2
-0 40 12 25
 0 38 3 2
+0 40 12 25
 1
 end_operator
 begin_operator
@@ -54651,8 +54651,8 @@ overcome anxiety stimulation scallop vulcan jupiter
 1
 7 12
 2
-0 40 12 25
 0 38 1 3
+0 40 12 25
 1
 end_operator
 begin_operator
@@ -54660,8 +54660,8 @@ overcome anxiety stimulation tofu earth uranus
 1
 7 13
 2
-0 40 13 25
 0 38 2 0
+0 40 13 25
 1
 end_operator
 begin_operator
@@ -54669,8 +54669,8 @@ overcome anxiety stimulation tofu uranus vulcan
 1
 7 13
 2
-0 40 13 25
 0 38 3 2
+0 40 13 25
 1
 end_operator
 begin_operator
@@ -54678,8 +54678,8 @@ overcome anxiety stimulation tofu vulcan jupiter
 1
 7 13
 2
-0 40 13 25
 0 38 1 3
+0 40 13 25
 1
 end_operator
 begin_operator
@@ -54687,8 +54687,8 @@ overcome anxiety stimulation tomato earth uranus
 1
 7 14
 2
-0 40 14 25
 0 38 2 0
+0 40 14 25
 1
 end_operator
 begin_operator
@@ -54696,8 +54696,8 @@ overcome anxiety stimulation tomato uranus vulcan
 1
 7 14
 2
-0 40 14 25
 0 38 3 2
+0 40 14 25
 1
 end_operator
 begin_operator
@@ -54705,8 +54705,8 @@ overcome anxiety stimulation tomato vulcan jupiter
 1
 7 14
 2
-0 40 14 25
 0 38 1 3
+0 40 14 25
 1
 end_operator
 begin_operator
@@ -54714,8 +54714,8 @@ overcome anxiety stimulation tuna earth uranus
 1
 7 15
 2
-0 40 15 25
 0 38 2 0
+0 40 15 25
 1
 end_operator
 begin_operator
@@ -54723,8 +54723,8 @@ overcome anxiety stimulation tuna uranus vulcan
 1
 7 15
 2
-0 40 15 25
 0 38 3 2
+0 40 15 25
 1
 end_operator
 begin_operator
@@ -54732,8 +54732,8 @@ overcome anxiety stimulation tuna vulcan jupiter
 1
 7 15
 2
-0 40 15 25
 0 38 1 3
+0 40 15 25
 1
 end_operator
 begin_operator
@@ -54741,8 +54741,8 @@ overcome anxiety stimulation turkey earth uranus
 1
 7 16
 2
-0 40 16 25
 0 38 2 0
+0 40 16 25
 1
 end_operator
 begin_operator
@@ -54750,8 +54750,8 @@ overcome anxiety stimulation turkey uranus vulcan
 1
 7 16
 2
-0 40 16 25
 0 38 3 2
+0 40 16 25
 1
 end_operator
 begin_operator
@@ -54759,8 +54759,8 @@ overcome anxiety stimulation turkey vulcan jupiter
 1
 7 16
 2
-0 40 16 25
 0 38 1 3
+0 40 16 25
 1
 end_operator
 begin_operator
@@ -54768,8 +54768,8 @@ overcome anxiety stimulation wonderbread earth uranus
 1
 7 17
 2
-0 40 17 25
 0 38 2 0
+0 40 17 25
 1
 end_operator
 begin_operator
@@ -54777,8 +54777,8 @@ overcome anxiety stimulation wonderbread uranus vulcan
 1
 7 17
 2
-0 40 17 25
 0 38 3 2
+0 40 17 25
 1
 end_operator
 begin_operator
@@ -54786,8 +54786,8 @@ overcome anxiety stimulation wonderbread vulcan jupiter
 1
 7 17
 2
-0 40 17 25
 0 38 1 3
+0 40 17 25
 1
 end_operator
 begin_operator
@@ -54795,8 +54795,8 @@ overcome anxiety triumph arugula earth uranus
 1
 8 0
 2
-0 40 0 26
 0 39 2 0
+0 40 0 26
 1
 end_operator
 begin_operator
@@ -54804,8 +54804,8 @@ overcome anxiety triumph arugula uranus vulcan
 1
 8 0
 2
-0 40 0 26
 0 39 3 2
+0 40 0 26
 1
 end_operator
 begin_operator
@@ -54813,8 +54813,8 @@ overcome anxiety triumph arugula vulcan jupiter
 1
 8 0
 2
-0 40 0 26
 0 39 1 3
+0 40 0 26
 1
 end_operator
 begin_operator
@@ -54822,8 +54822,8 @@ overcome anxiety triumph baguette earth uranus
 1
 8 1
 2
-0 40 1 26
 0 39 2 0
+0 40 1 26
 1
 end_operator
 begin_operator
@@ -54831,8 +54831,8 @@ overcome anxiety triumph baguette uranus vulcan
 1
 8 1
 2
-0 40 1 26
 0 39 3 2
+0 40 1 26
 1
 end_operator
 begin_operator
@@ -54840,8 +54840,8 @@ overcome anxiety triumph baguette vulcan jupiter
 1
 8 1
 2
-0 40 1 26
 0 39 1 3
+0 40 1 26
 1
 end_operator
 begin_operator
@@ -54849,8 +54849,8 @@ overcome anxiety triumph cantelope earth uranus
 1
 8 2
 2
-0 40 2 26
 0 39 2 0
+0 40 2 26
 1
 end_operator
 begin_operator
@@ -54858,8 +54858,8 @@ overcome anxiety triumph cantelope uranus vulcan
 1
 8 2
 2
-0 40 2 26
 0 39 3 2
+0 40 2 26
 1
 end_operator
 begin_operator
@@ -54867,8 +54867,8 @@ overcome anxiety triumph cantelope vulcan jupiter
 1
 8 2
 2
-0 40 2 26
 0 39 1 3
+0 40 2 26
 1
 end_operator
 begin_operator
@@ -54876,8 +54876,8 @@ overcome anxiety triumph flounder earth uranus
 1
 8 3
 2
-0 40 3 26
 0 39 2 0
+0 40 3 26
 1
 end_operator
 begin_operator
@@ -54885,8 +54885,8 @@ overcome anxiety triumph flounder uranus vulcan
 1
 8 3
 2
-0 40 3 26
 0 39 3 2
+0 40 3 26
 1
 end_operator
 begin_operator
@@ -54894,8 +54894,8 @@ overcome anxiety triumph flounder vulcan jupiter
 1
 8 3
 2
-0 40 3 26
 0 39 1 3
+0 40 3 26
 1
 end_operator
 begin_operator
@@ -54903,8 +54903,8 @@ overcome anxiety triumph hotdog earth uranus
 1
 8 4
 2
-0 40 4 26
 0 39 2 0
+0 40 4 26
 1
 end_operator
 begin_operator
@@ -54912,8 +54912,8 @@ overcome anxiety triumph hotdog uranus vulcan
 1
 8 4
 2
-0 40 4 26
 0 39 3 2
+0 40 4 26
 1
 end_operator
 begin_operator
@@ -54921,8 +54921,8 @@ overcome anxiety triumph hotdog vulcan jupiter
 1
 8 4
 2
-0 40 4 26
 0 39 1 3
+0 40 4 26
 1
 end_operator
 begin_operator
@@ -54930,8 +54930,8 @@ overcome anxiety triumph lobster earth uranus
 1
 8 5
 2
-0 40 5 26
 0 39 2 0
+0 40 5 26
 1
 end_operator
 begin_operator
@@ -54939,8 +54939,8 @@ overcome anxiety triumph lobster uranus vulcan
 1
 8 5
 2
-0 40 5 26
 0 39 3 2
+0 40 5 26
 1
 end_operator
 begin_operator
@@ -54948,8 +54948,8 @@ overcome anxiety triumph lobster vulcan jupiter
 1
 8 5
 2
-0 40 5 26
 0 39 1 3
+0 40 5 26
 1
 end_operator
 begin_operator
@@ -54957,8 +54957,8 @@ overcome anxiety triumph muffin earth uranus
 1
 8 6
 2
-0 40 6 26
 0 39 2 0
+0 40 6 26
 1
 end_operator
 begin_operator
@@ -54966,8 +54966,8 @@ overcome anxiety triumph muffin uranus vulcan
 1
 8 6
 2
-0 40 6 26
 0 39 3 2
+0 40 6 26
 1
 end_operator
 begin_operator
@@ -54975,8 +54975,8 @@ overcome anxiety triumph muffin vulcan jupiter
 1
 8 6
 2
-0 40 6 26
 0 39 1 3
+0 40 6 26
 1
 end_operator
 begin_operator
@@ -54984,8 +54984,8 @@ overcome anxiety triumph okra earth uranus
 1
 8 7
 2
-0 40 7 26
 0 39 2 0
+0 40 7 26
 1
 end_operator
 begin_operator
@@ -54993,8 +54993,8 @@ overcome anxiety triumph okra uranus vulcan
 1
 8 7
 2
-0 40 7 26
 0 39 3 2
+0 40 7 26
 1
 end_operator
 begin_operator
@@ -55002,8 +55002,8 @@ overcome anxiety triumph okra vulcan jupiter
 1
 8 7
 2
-0 40 7 26
 0 39 1 3
+0 40 7 26
 1
 end_operator
 begin_operator
@@ -55011,8 +55011,8 @@ overcome anxiety triumph pepper earth uranus
 1
 8 8
 2
-0 40 8 26
 0 39 2 0
+0 40 8 26
 1
 end_operator
 begin_operator
@@ -55020,8 +55020,8 @@ overcome anxiety triumph pepper uranus vulcan
 1
 8 8
 2
-0 40 8 26
 0 39 3 2
+0 40 8 26
 1
 end_operator
 begin_operator
@@ -55029,8 +55029,8 @@ overcome anxiety triumph pepper vulcan jupiter
 1
 8 8
 2
-0 40 8 26
 0 39 1 3
+0 40 8 26
 1
 end_operator
 begin_operator
@@ -55038,8 +55038,8 @@ overcome anxiety triumph pistachio earth uranus
 1
 8 9
 2
-0 40 9 26
 0 39 2 0
+0 40 9 26
 1
 end_operator
 begin_operator
@@ -55047,8 +55047,8 @@ overcome anxiety triumph pistachio uranus vulcan
 1
 8 9
 2
-0 40 9 26
 0 39 3 2
+0 40 9 26
 1
 end_operator
 begin_operator
@@ -55056,8 +55056,8 @@ overcome anxiety triumph pistachio vulcan jupiter
 1
 8 9
 2
-0 40 9 26
 0 39 1 3
+0 40 9 26
 1
 end_operator
 begin_operator
@@ -55065,8 +55065,8 @@ overcome anxiety triumph pork earth uranus
 1
 8 10
 2
-0 40 10 26
 0 39 2 0
+0 40 10 26
 1
 end_operator
 begin_operator
@@ -55074,8 +55074,8 @@ overcome anxiety triumph pork uranus vulcan
 1
 8 10
 2
-0 40 10 26
 0 39 3 2
+0 40 10 26
 1
 end_operator
 begin_operator
@@ -55083,8 +55083,8 @@ overcome anxiety triumph pork vulcan jupiter
 1
 8 10
 2
-0 40 10 26
 0 39 1 3
+0 40 10 26
 1
 end_operator
 begin_operator
@@ -55092,8 +55092,8 @@ overcome anxiety triumph rice earth uranus
 1
 8 11
 2
-0 40 11 26
 0 39 2 0
+0 40 11 26
 1
 end_operator
 begin_operator
@@ -55101,8 +55101,8 @@ overcome anxiety triumph rice uranus vulcan
 1
 8 11
 2
-0 40 11 26
 0 39 3 2
+0 40 11 26
 1
 end_operator
 begin_operator
@@ -55110,8 +55110,8 @@ overcome anxiety triumph rice vulcan jupiter
 1
 8 11
 2
-0 40 11 26
 0 39 1 3
+0 40 11 26
 1
 end_operator
 begin_operator
@@ -55119,8 +55119,8 @@ overcome anxiety triumph scallop earth uranus
 1
 8 12
 2
-0 40 12 26
 0 39 2 0
+0 40 12 26
 1
 end_operator
 begin_operator
@@ -55128,8 +55128,8 @@ overcome anxiety triumph scallop uranus vulcan
 1
 8 12
 2
-0 40 12 26
 0 39 3 2
+0 40 12 26
 1
 end_operator
 begin_operator
@@ -55137,8 +55137,8 @@ overcome anxiety triumph scallop vulcan jupiter
 1
 8 12
 2
-0 40 12 26
 0 39 1 3
+0 40 12 26
 1
 end_operator
 begin_operator
@@ -55146,8 +55146,8 @@ overcome anxiety triumph tofu earth uranus
 1
 8 13
 2
-0 40 13 26
 0 39 2 0
+0 40 13 26
 1
 end_operator
 begin_operator
@@ -55155,8 +55155,8 @@ overcome anxiety triumph tofu uranus vulcan
 1
 8 13
 2
-0 40 13 26
 0 39 3 2
+0 40 13 26
 1
 end_operator
 begin_operator
@@ -55164,8 +55164,8 @@ overcome anxiety triumph tofu vulcan jupiter
 1
 8 13
 2
-0 40 13 26
 0 39 1 3
+0 40 13 26
 1
 end_operator
 begin_operator
@@ -55173,8 +55173,8 @@ overcome anxiety triumph tomato earth uranus
 1
 8 14
 2
-0 40 14 26
 0 39 2 0
+0 40 14 26
 1
 end_operator
 begin_operator
@@ -55182,8 +55182,8 @@ overcome anxiety triumph tomato uranus vulcan
 1
 8 14
 2
-0 40 14 26
 0 39 3 2
+0 40 14 26
 1
 end_operator
 begin_operator
@@ -55191,8 +55191,8 @@ overcome anxiety triumph tomato vulcan jupiter
 1
 8 14
 2
-0 40 14 26
 0 39 1 3
+0 40 14 26
 1
 end_operator
 begin_operator
@@ -55200,8 +55200,8 @@ overcome anxiety triumph tuna earth uranus
 1
 8 15
 2
-0 40 15 26
 0 39 2 0
+0 40 15 26
 1
 end_operator
 begin_operator
@@ -55209,8 +55209,8 @@ overcome anxiety triumph tuna uranus vulcan
 1
 8 15
 2
-0 40 15 26
 0 39 3 2
+0 40 15 26
 1
 end_operator
 begin_operator
@@ -55218,8 +55218,8 @@ overcome anxiety triumph tuna vulcan jupiter
 1
 8 15
 2
-0 40 15 26
 0 39 1 3
+0 40 15 26
 1
 end_operator
 begin_operator
@@ -55227,8 +55227,8 @@ overcome anxiety triumph turkey earth uranus
 1
 8 16
 2
-0 40 16 26
 0 39 2 0
+0 40 16 26
 1
 end_operator
 begin_operator
@@ -55236,8 +55236,8 @@ overcome anxiety triumph turkey uranus vulcan
 1
 8 16
 2
-0 40 16 26
 0 39 3 2
+0 40 16 26
 1
 end_operator
 begin_operator
@@ -55245,8 +55245,8 @@ overcome anxiety triumph turkey vulcan jupiter
 1
 8 16
 2
-0 40 16 26
 0 39 1 3
+0 40 16 26
 1
 end_operator
 begin_operator
@@ -55254,8 +55254,8 @@ overcome anxiety triumph wonderbread earth uranus
 1
 8 17
 2
-0 40 17 26
 0 39 2 0
+0 40 17 26
 1
 end_operator
 begin_operator
@@ -55263,8 +55263,8 @@ overcome anxiety triumph wonderbread uranus vulcan
 1
 8 17
 2
-0 40 17 26
 0 39 3 2
+0 40 17 26
 1
 end_operator
 begin_operator
@@ -55272,8 +55272,8 @@ overcome anxiety triumph wonderbread vulcan jupiter
 1
 8 17
 2
-0 40 17 26
 0 39 1 3
+0 40 17 26
 1
 end_operator
 begin_operator
@@ -55281,8 +55281,8 @@ overcome hangover achievement arugula earth uranus
 1
 0 0
 2
-0 36 0 18
 0 27 2 0
+0 36 0 18
 1
 end_operator
 begin_operator
@@ -55290,8 +55290,8 @@ overcome hangover achievement arugula uranus vulcan
 1
 0 0
 2
-0 36 0 18
 0 27 3 2
+0 36 0 18
 1
 end_operator
 begin_operator
@@ -55299,8 +55299,8 @@ overcome hangover achievement arugula vulcan jupiter
 1
 0 0
 2
-0 36 0 18
 0 27 1 3
+0 36 0 18
 1
 end_operator
 begin_operator
@@ -55308,8 +55308,8 @@ overcome hangover achievement baguette earth uranus
 1
 0 1
 2
-0 36 1 18
 0 27 2 0
+0 36 1 18
 1
 end_operator
 begin_operator
@@ -55317,8 +55317,8 @@ overcome hangover achievement baguette uranus vulcan
 1
 0 1
 2
-0 36 1 18
 0 27 3 2
+0 36 1 18
 1
 end_operator
 begin_operator
@@ -55326,8 +55326,8 @@ overcome hangover achievement baguette vulcan jupiter
 1
 0 1
 2
-0 36 1 18
 0 27 1 3
+0 36 1 18
 1
 end_operator
 begin_operator
@@ -55335,8 +55335,8 @@ overcome hangover achievement cantelope earth uranus
 1
 0 2
 2
-0 36 2 18
 0 27 2 0
+0 36 2 18
 1
 end_operator
 begin_operator
@@ -55344,8 +55344,8 @@ overcome hangover achievement cantelope uranus vulcan
 1
 0 2
 2
-0 36 2 18
 0 27 3 2
+0 36 2 18
 1
 end_operator
 begin_operator
@@ -55353,8 +55353,8 @@ overcome hangover achievement cantelope vulcan jupiter
 1
 0 2
 2
-0 36 2 18
 0 27 1 3
+0 36 2 18
 1
 end_operator
 begin_operator
@@ -55362,8 +55362,8 @@ overcome hangover achievement flounder earth uranus
 1
 0 3
 2
-0 36 3 18
 0 27 2 0
+0 36 3 18
 1
 end_operator
 begin_operator
@@ -55371,8 +55371,8 @@ overcome hangover achievement flounder uranus vulcan
 1
 0 3
 2
-0 36 3 18
 0 27 3 2
+0 36 3 18
 1
 end_operator
 begin_operator
@@ -55380,8 +55380,8 @@ overcome hangover achievement flounder vulcan jupiter
 1
 0 3
 2
-0 36 3 18
 0 27 1 3
+0 36 3 18
 1
 end_operator
 begin_operator
@@ -55389,8 +55389,8 @@ overcome hangover achievement hotdog earth uranus
 1
 0 4
 2
-0 36 4 18
 0 27 2 0
+0 36 4 18
 1
 end_operator
 begin_operator
@@ -55398,8 +55398,8 @@ overcome hangover achievement hotdog uranus vulcan
 1
 0 4
 2
-0 36 4 18
 0 27 3 2
+0 36 4 18
 1
 end_operator
 begin_operator
@@ -55407,8 +55407,8 @@ overcome hangover achievement hotdog vulcan jupiter
 1
 0 4
 2
-0 36 4 18
 0 27 1 3
+0 36 4 18
 1
 end_operator
 begin_operator
@@ -55416,8 +55416,8 @@ overcome hangover achievement lobster earth uranus
 1
 0 5
 2
-0 36 5 18
 0 27 2 0
+0 36 5 18
 1
 end_operator
 begin_operator
@@ -55425,8 +55425,8 @@ overcome hangover achievement lobster uranus vulcan
 1
 0 5
 2
-0 36 5 18
 0 27 3 2
+0 36 5 18
 1
 end_operator
 begin_operator
@@ -55434,8 +55434,8 @@ overcome hangover achievement lobster vulcan jupiter
 1
 0 5
 2
-0 36 5 18
 0 27 1 3
+0 36 5 18
 1
 end_operator
 begin_operator
@@ -55443,8 +55443,8 @@ overcome hangover achievement muffin earth uranus
 1
 0 6
 2
-0 36 6 18
 0 27 2 0
+0 36 6 18
 1
 end_operator
 begin_operator
@@ -55452,8 +55452,8 @@ overcome hangover achievement muffin uranus vulcan
 1
 0 6
 2
-0 36 6 18
 0 27 3 2
+0 36 6 18
 1
 end_operator
 begin_operator
@@ -55461,8 +55461,8 @@ overcome hangover achievement muffin vulcan jupiter
 1
 0 6
 2
-0 36 6 18
 0 27 1 3
+0 36 6 18
 1
 end_operator
 begin_operator
@@ -55470,8 +55470,8 @@ overcome hangover achievement okra earth uranus
 1
 0 7
 2
-0 36 7 18
 0 27 2 0
+0 36 7 18
 1
 end_operator
 begin_operator
@@ -55479,8 +55479,8 @@ overcome hangover achievement okra uranus vulcan
 1
 0 7
 2
-0 36 7 18
 0 27 3 2
+0 36 7 18
 1
 end_operator
 begin_operator
@@ -55488,8 +55488,8 @@ overcome hangover achievement okra vulcan jupiter
 1
 0 7
 2
-0 36 7 18
 0 27 1 3
+0 36 7 18
 1
 end_operator
 begin_operator
@@ -55497,8 +55497,8 @@ overcome hangover achievement pepper earth uranus
 1
 0 8
 2
-0 36 8 18
 0 27 2 0
+0 36 8 18
 1
 end_operator
 begin_operator
@@ -55506,8 +55506,8 @@ overcome hangover achievement pepper uranus vulcan
 1
 0 8
 2
-0 36 8 18
 0 27 3 2
+0 36 8 18
 1
 end_operator
 begin_operator
@@ -55515,8 +55515,8 @@ overcome hangover achievement pepper vulcan jupiter
 1
 0 8
 2
-0 36 8 18
 0 27 1 3
+0 36 8 18
 1
 end_operator
 begin_operator
@@ -55524,8 +55524,8 @@ overcome hangover achievement pistachio earth uranus
 1
 0 9
 2
-0 36 9 18
 0 27 2 0
+0 36 9 18
 1
 end_operator
 begin_operator
@@ -55533,8 +55533,8 @@ overcome hangover achievement pistachio uranus vulcan
 1
 0 9
 2
-0 36 9 18
 0 27 3 2
+0 36 9 18
 1
 end_operator
 begin_operator
@@ -55542,8 +55542,8 @@ overcome hangover achievement pistachio vulcan jupiter
 1
 0 9
 2
-0 36 9 18
 0 27 1 3
+0 36 9 18
 1
 end_operator
 begin_operator
@@ -55551,8 +55551,8 @@ overcome hangover achievement pork earth uranus
 1
 0 10
 2
-0 36 10 18
 0 27 2 0
+0 36 10 18
 1
 end_operator
 begin_operator
@@ -55560,8 +55560,8 @@ overcome hangover achievement pork uranus vulcan
 1
 0 10
 2
-0 36 10 18
 0 27 3 2
+0 36 10 18
 1
 end_operator
 begin_operator
@@ -55569,8 +55569,8 @@ overcome hangover achievement pork vulcan jupiter
 1
 0 10
 2
-0 36 10 18
 0 27 1 3
+0 36 10 18
 1
 end_operator
 begin_operator
@@ -55578,8 +55578,8 @@ overcome hangover achievement rice earth uranus
 1
 0 11
 2
-0 36 11 18
 0 27 2 0
+0 36 11 18
 1
 end_operator
 begin_operator
@@ -55587,8 +55587,8 @@ overcome hangover achievement rice uranus vulcan
 1
 0 11
 2
-0 36 11 18
 0 27 3 2
+0 36 11 18
 1
 end_operator
 begin_operator
@@ -55596,8 +55596,8 @@ overcome hangover achievement rice vulcan jupiter
 1
 0 11
 2
-0 36 11 18
 0 27 1 3
+0 36 11 18
 1
 end_operator
 begin_operator
@@ -55605,8 +55605,8 @@ overcome hangover achievement scallop earth uranus
 1
 0 12
 2
-0 36 12 18
 0 27 2 0
+0 36 12 18
 1
 end_operator
 begin_operator
@@ -55614,8 +55614,8 @@ overcome hangover achievement scallop uranus vulcan
 1
 0 12
 2
-0 36 12 18
 0 27 3 2
+0 36 12 18
 1
 end_operator
 begin_operator
@@ -55623,8 +55623,8 @@ overcome hangover achievement scallop vulcan jupiter
 1
 0 12
 2
-0 36 12 18
 0 27 1 3
+0 36 12 18
 1
 end_operator
 begin_operator
@@ -55632,8 +55632,8 @@ overcome hangover achievement tofu earth uranus
 1
 0 13
 2
-0 36 13 18
 0 27 2 0
+0 36 13 18
 1
 end_operator
 begin_operator
@@ -55641,8 +55641,8 @@ overcome hangover achievement tofu uranus vulcan
 1
 0 13
 2
-0 36 13 18
 0 27 3 2
+0 36 13 18
 1
 end_operator
 begin_operator
@@ -55650,8 +55650,8 @@ overcome hangover achievement tofu vulcan jupiter
 1
 0 13
 2
-0 36 13 18
 0 27 1 3
+0 36 13 18
 1
 end_operator
 begin_operator
@@ -55659,8 +55659,8 @@ overcome hangover achievement tomato earth uranus
 1
 0 14
 2
-0 36 14 18
 0 27 2 0
+0 36 14 18
 1
 end_operator
 begin_operator
@@ -55668,8 +55668,8 @@ overcome hangover achievement tomato uranus vulcan
 1
 0 14
 2
-0 36 14 18
 0 27 3 2
+0 36 14 18
 1
 end_operator
 begin_operator
@@ -55677,8 +55677,8 @@ overcome hangover achievement tomato vulcan jupiter
 1
 0 14
 2
-0 36 14 18
 0 27 1 3
+0 36 14 18
 1
 end_operator
 begin_operator
@@ -55686,8 +55686,8 @@ overcome hangover achievement tuna earth uranus
 1
 0 15
 2
-0 36 15 18
 0 27 2 0
+0 36 15 18
 1
 end_operator
 begin_operator
@@ -55695,8 +55695,8 @@ overcome hangover achievement tuna uranus vulcan
 1
 0 15
 2
-0 36 15 18
 0 27 3 2
+0 36 15 18
 1
 end_operator
 begin_operator
@@ -55704,8 +55704,8 @@ overcome hangover achievement tuna vulcan jupiter
 1
 0 15
 2
-0 36 15 18
 0 27 1 3
+0 36 15 18
 1
 end_operator
 begin_operator
@@ -55713,8 +55713,8 @@ overcome hangover achievement turkey earth uranus
 1
 0 16
 2
-0 36 16 18
 0 27 2 0
+0 36 16 18
 1
 end_operator
 begin_operator
@@ -55722,8 +55722,8 @@ overcome hangover achievement turkey uranus vulcan
 1
 0 16
 2
-0 36 16 18
 0 27 3 2
+0 36 16 18
 1
 end_operator
 begin_operator
@@ -55731,8 +55731,8 @@ overcome hangover achievement turkey vulcan jupiter
 1
 0 16
 2
-0 36 16 18
 0 27 1 3
+0 36 16 18
 1
 end_operator
 begin_operator
@@ -55740,8 +55740,8 @@ overcome hangover achievement wonderbread earth uranus
 1
 0 17
 2
-0 36 17 18
 0 27 2 0
+0 36 17 18
 1
 end_operator
 begin_operator
@@ -55749,8 +55749,8 @@ overcome hangover achievement wonderbread uranus vulcan
 1
 0 17
 2
-0 36 17 18
 0 27 3 2
+0 36 17 18
 1
 end_operator
 begin_operator
@@ -55758,8 +55758,8 @@ overcome hangover achievement wonderbread vulcan jupiter
 1
 0 17
 2
-0 36 17 18
 0 27 1 3
+0 36 17 18
 1
 end_operator
 begin_operator
@@ -55767,8 +55767,8 @@ overcome hangover aesthetics arugula earth uranus
 1
 1 0
 2
-0 36 0 19
 0 28 2 0
+0 36 0 19
 1
 end_operator
 begin_operator
@@ -55776,8 +55776,8 @@ overcome hangover aesthetics arugula uranus vulcan
 1
 1 0
 2
-0 36 0 19
 0 28 3 2
+0 36 0 19
 1
 end_operator
 begin_operator
@@ -55785,8 +55785,8 @@ overcome hangover aesthetics arugula vulcan jupiter
 1
 1 0
 2
-0 36 0 19
 0 28 1 3
+0 36 0 19
 1
 end_operator
 begin_operator
@@ -55794,8 +55794,8 @@ overcome hangover aesthetics baguette earth uranus
 1
 1 1
 2
-0 36 1 19
 0 28 2 0
+0 36 1 19
 1
 end_operator
 begin_operator
@@ -55803,8 +55803,8 @@ overcome hangover aesthetics baguette uranus vulcan
 1
 1 1
 2
-0 36 1 19
 0 28 3 2
+0 36 1 19
 1
 end_operator
 begin_operator
@@ -55812,8 +55812,8 @@ overcome hangover aesthetics baguette vulcan jupiter
 1
 1 1
 2
-0 36 1 19
 0 28 1 3
+0 36 1 19
 1
 end_operator
 begin_operator
@@ -55821,8 +55821,8 @@ overcome hangover aesthetics cantelope earth uranus
 1
 1 2
 2
-0 36 2 19
 0 28 2 0
+0 36 2 19
 1
 end_operator
 begin_operator
@@ -55830,8 +55830,8 @@ overcome hangover aesthetics cantelope uranus vulcan
 1
 1 2
 2
-0 36 2 19
 0 28 3 2
+0 36 2 19
 1
 end_operator
 begin_operator
@@ -55839,8 +55839,8 @@ overcome hangover aesthetics cantelope vulcan jupiter
 1
 1 2
 2
-0 36 2 19
 0 28 1 3
+0 36 2 19
 1
 end_operator
 begin_operator
@@ -55848,8 +55848,8 @@ overcome hangover aesthetics flounder earth uranus
 1
 1 3
 2
-0 36 3 19
 0 28 2 0
+0 36 3 19
 1
 end_operator
 begin_operator
@@ -55857,8 +55857,8 @@ overcome hangover aesthetics flounder uranus vulcan
 1
 1 3
 2
-0 36 3 19
 0 28 3 2
+0 36 3 19
 1
 end_operator
 begin_operator
@@ -55866,8 +55866,8 @@ overcome hangover aesthetics flounder vulcan jupiter
 1
 1 3
 2
-0 36 3 19
 0 28 1 3
+0 36 3 19
 1
 end_operator
 begin_operator
@@ -55875,8 +55875,8 @@ overcome hangover aesthetics hotdog earth uranus
 1
 1 4
 2
-0 36 4 19
 0 28 2 0
+0 36 4 19
 1
 end_operator
 begin_operator
@@ -55884,8 +55884,8 @@ overcome hangover aesthetics hotdog uranus vulcan
 1
 1 4
 2
-0 36 4 19
 0 28 3 2
+0 36 4 19
 1
 end_operator
 begin_operator
@@ -55893,8 +55893,8 @@ overcome hangover aesthetics hotdog vulcan jupiter
 1
 1 4
 2
-0 36 4 19
 0 28 1 3
+0 36 4 19
 1
 end_operator
 begin_operator
@@ -55902,8 +55902,8 @@ overcome hangover aesthetics lobster earth uranus
 1
 1 5
 2
-0 36 5 19
 0 28 2 0
+0 36 5 19
 1
 end_operator
 begin_operator
@@ -55911,8 +55911,8 @@ overcome hangover aesthetics lobster uranus vulcan
 1
 1 5
 2
-0 36 5 19
 0 28 3 2
+0 36 5 19
 1
 end_operator
 begin_operator
@@ -55920,8 +55920,8 @@ overcome hangover aesthetics lobster vulcan jupiter
 1
 1 5
 2
-0 36 5 19
 0 28 1 3
+0 36 5 19
 1
 end_operator
 begin_operator
@@ -55929,8 +55929,8 @@ overcome hangover aesthetics muffin earth uranus
 1
 1 6
 2
-0 36 6 19
 0 28 2 0
+0 36 6 19
 1
 end_operator
 begin_operator
@@ -55938,8 +55938,8 @@ overcome hangover aesthetics muffin uranus vulcan
 1
 1 6
 2
-0 36 6 19
 0 28 3 2
+0 36 6 19
 1
 end_operator
 begin_operator
@@ -55947,8 +55947,8 @@ overcome hangover aesthetics muffin vulcan jupiter
 1
 1 6
 2
-0 36 6 19
 0 28 1 3
+0 36 6 19
 1
 end_operator
 begin_operator
@@ -55956,8 +55956,8 @@ overcome hangover aesthetics okra earth uranus
 1
 1 7
 2
-0 36 7 19
 0 28 2 0
+0 36 7 19
 1
 end_operator
 begin_operator
@@ -55965,8 +55965,8 @@ overcome hangover aesthetics okra uranus vulcan
 1
 1 7
 2
-0 36 7 19
 0 28 3 2
+0 36 7 19
 1
 end_operator
 begin_operator
@@ -55974,8 +55974,8 @@ overcome hangover aesthetics okra vulcan jupiter
 1
 1 7
 2
-0 36 7 19
 0 28 1 3
+0 36 7 19
 1
 end_operator
 begin_operator
@@ -55983,8 +55983,8 @@ overcome hangover aesthetics pepper earth uranus
 1
 1 8
 2
-0 36 8 19
 0 28 2 0
+0 36 8 19
 1
 end_operator
 begin_operator
@@ -55992,8 +55992,8 @@ overcome hangover aesthetics pepper uranus vulcan
 1
 1 8
 2
-0 36 8 19
 0 28 3 2
+0 36 8 19
 1
 end_operator
 begin_operator
@@ -56001,8 +56001,8 @@ overcome hangover aesthetics pepper vulcan jupiter
 1
 1 8
 2
-0 36 8 19
 0 28 1 3
+0 36 8 19
 1
 end_operator
 begin_operator
@@ -56010,8 +56010,8 @@ overcome hangover aesthetics pistachio earth uranus
 1
 1 9
 2
-0 36 9 19
 0 28 2 0
+0 36 9 19
 1
 end_operator
 begin_operator
@@ -56019,8 +56019,8 @@ overcome hangover aesthetics pistachio uranus vulcan
 1
 1 9
 2
-0 36 9 19
 0 28 3 2
+0 36 9 19
 1
 end_operator
 begin_operator
@@ -56028,8 +56028,8 @@ overcome hangover aesthetics pistachio vulcan jupiter
 1
 1 9
 2
-0 36 9 19
 0 28 1 3
+0 36 9 19
 1
 end_operator
 begin_operator
@@ -56037,8 +56037,8 @@ overcome hangover aesthetics pork earth uranus
 1
 1 10
 2
-0 36 10 19
 0 28 2 0
+0 36 10 19
 1
 end_operator
 begin_operator
@@ -56046,8 +56046,8 @@ overcome hangover aesthetics pork uranus vulcan
 1
 1 10
 2
-0 36 10 19
 0 28 3 2
+0 36 10 19
 1
 end_operator
 begin_operator
@@ -56055,8 +56055,8 @@ overcome hangover aesthetics pork vulcan jupiter
 1
 1 10
 2
-0 36 10 19
 0 28 1 3
+0 36 10 19
 1
 end_operator
 begin_operator
@@ -56064,8 +56064,8 @@ overcome hangover aesthetics rice earth uranus
 1
 1 11
 2
-0 36 11 19
 0 28 2 0
+0 36 11 19
 1
 end_operator
 begin_operator
@@ -56073,8 +56073,8 @@ overcome hangover aesthetics rice uranus vulcan
 1
 1 11
 2
-0 36 11 19
 0 28 3 2
+0 36 11 19
 1
 end_operator
 begin_operator
@@ -56082,8 +56082,8 @@ overcome hangover aesthetics rice vulcan jupiter
 1
 1 11
 2
-0 36 11 19
 0 28 1 3
+0 36 11 19
 1
 end_operator
 begin_operator
@@ -56091,8 +56091,8 @@ overcome hangover aesthetics scallop earth uranus
 1
 1 12
 2
-0 36 12 19
 0 28 2 0
+0 36 12 19
 1
 end_operator
 begin_operator
@@ -56100,8 +56100,8 @@ overcome hangover aesthetics scallop uranus vulcan
 1
 1 12
 2
-0 36 12 19
 0 28 3 2
+0 36 12 19
 1
 end_operator
 begin_operator
@@ -56109,8 +56109,8 @@ overcome hangover aesthetics scallop vulcan jupiter
 1
 1 12
 2
-0 36 12 19
 0 28 1 3
+0 36 12 19
 1
 end_operator
 begin_operator
@@ -56118,8 +56118,8 @@ overcome hangover aesthetics tofu earth uranus
 1
 1 13
 2
-0 36 13 19
 0 28 2 0
+0 36 13 19
 1
 end_operator
 begin_operator
@@ -56127,8 +56127,8 @@ overcome hangover aesthetics tofu uranus vulcan
 1
 1 13
 2
-0 36 13 19
 0 28 3 2
+0 36 13 19
 1
 end_operator
 begin_operator
@@ -56136,8 +56136,8 @@ overcome hangover aesthetics tofu vulcan jupiter
 1
 1 13
 2
-0 36 13 19
 0 28 1 3
+0 36 13 19
 1
 end_operator
 begin_operator
@@ -56145,8 +56145,8 @@ overcome hangover aesthetics tomato earth uranus
 1
 1 14
 2
-0 36 14 19
 0 28 2 0
+0 36 14 19
 1
 end_operator
 begin_operator
@@ -56154,8 +56154,8 @@ overcome hangover aesthetics tomato uranus vulcan
 1
 1 14
 2
-0 36 14 19
 0 28 3 2
+0 36 14 19
 1
 end_operator
 begin_operator
@@ -56163,8 +56163,8 @@ overcome hangover aesthetics tomato vulcan jupiter
 1
 1 14
 2
-0 36 14 19
 0 28 1 3
+0 36 14 19
 1
 end_operator
 begin_operator
@@ -56172,8 +56172,8 @@ overcome hangover aesthetics tuna earth uranus
 1
 1 15
 2
-0 36 15 19
 0 28 2 0
+0 36 15 19
 1
 end_operator
 begin_operator
@@ -56181,8 +56181,8 @@ overcome hangover aesthetics tuna uranus vulcan
 1
 1 15
 2
-0 36 15 19
 0 28 3 2
+0 36 15 19
 1
 end_operator
 begin_operator
@@ -56190,8 +56190,8 @@ overcome hangover aesthetics tuna vulcan jupiter
 1
 1 15
 2
-0 36 15 19
 0 28 1 3
+0 36 15 19
 1
 end_operator
 begin_operator
@@ -56199,8 +56199,8 @@ overcome hangover aesthetics turkey earth uranus
 1
 1 16
 2
-0 36 16 19
 0 28 2 0
+0 36 16 19
 1
 end_operator
 begin_operator
@@ -56208,8 +56208,8 @@ overcome hangover aesthetics turkey uranus vulcan
 1
 1 16
 2
-0 36 16 19
 0 28 3 2
+0 36 16 19
 1
 end_operator
 begin_operator
@@ -56217,8 +56217,8 @@ overcome hangover aesthetics turkey vulcan jupiter
 1
 1 16
 2
-0 36 16 19
 0 28 1 3
+0 36 16 19
 1
 end_operator
 begin_operator
@@ -56226,8 +56226,8 @@ overcome hangover aesthetics wonderbread earth uranus
 1
 1 17
 2
-0 36 17 19
 0 28 2 0
+0 36 17 19
 1
 end_operator
 begin_operator
@@ -56235,8 +56235,8 @@ overcome hangover aesthetics wonderbread uranus vulcan
 1
 1 17
 2
-0 36 17 19
 0 28 3 2
+0 36 17 19
 1
 end_operator
 begin_operator
@@ -56244,8 +56244,8 @@ overcome hangover aesthetics wonderbread vulcan jupiter
 1
 1 17
 2
-0 36 17 19
 0 28 1 3
+0 36 17 19
 1
 end_operator
 begin_operator
@@ -56253,8 +56253,8 @@ overcome hangover excitement arugula earth uranus
 1
 2 0
 2
-0 36 0 20
 0 29 2 0
+0 36 0 20
 1
 end_operator
 begin_operator
@@ -56262,8 +56262,8 @@ overcome hangover excitement arugula uranus vulcan
 1
 2 0
 2
-0 36 0 20
 0 29 3 2
+0 36 0 20
 1
 end_operator
 begin_operator
@@ -56271,8 +56271,8 @@ overcome hangover excitement arugula vulcan jupiter
 1
 2 0
 2
-0 36 0 20
 0 29 1 3
+0 36 0 20
 1
 end_operator
 begin_operator
@@ -56280,8 +56280,8 @@ overcome hangover excitement baguette earth uranus
 1
 2 1
 2
-0 36 1 20
 0 29 2 0
+0 36 1 20
 1
 end_operator
 begin_operator
@@ -56289,8 +56289,8 @@ overcome hangover excitement baguette uranus vulcan
 1
 2 1
 2
-0 36 1 20
 0 29 3 2
+0 36 1 20
 1
 end_operator
 begin_operator
@@ -56298,8 +56298,8 @@ overcome hangover excitement baguette vulcan jupiter
 1
 2 1
 2
-0 36 1 20
 0 29 1 3
+0 36 1 20
 1
 end_operator
 begin_operator
@@ -56307,8 +56307,8 @@ overcome hangover excitement cantelope earth uranus
 1
 2 2
 2
-0 36 2 20
 0 29 2 0
+0 36 2 20
 1
 end_operator
 begin_operator
@@ -56316,8 +56316,8 @@ overcome hangover excitement cantelope uranus vulcan
 1
 2 2
 2
-0 36 2 20
 0 29 3 2
+0 36 2 20
 1
 end_operator
 begin_operator
@@ -56325,8 +56325,8 @@ overcome hangover excitement cantelope vulcan jupiter
 1
 2 2
 2
-0 36 2 20
 0 29 1 3
+0 36 2 20
 1
 end_operator
 begin_operator
@@ -56334,8 +56334,8 @@ overcome hangover excitement flounder earth uranus
 1
 2 3
 2
-0 36 3 20
 0 29 2 0
+0 36 3 20
 1
 end_operator
 begin_operator
@@ -56343,8 +56343,8 @@ overcome hangover excitement flounder uranus vulcan
 1
 2 3
 2
-0 36 3 20
 0 29 3 2
+0 36 3 20
 1
 end_operator
 begin_operator
@@ -56352,8 +56352,8 @@ overcome hangover excitement flounder vulcan jupiter
 1
 2 3
 2
-0 36 3 20
 0 29 1 3
+0 36 3 20
 1
 end_operator
 begin_operator
@@ -56361,8 +56361,8 @@ overcome hangover excitement hotdog earth uranus
 1
 2 4
 2
-0 36 4 20
 0 29 2 0
+0 36 4 20
 1
 end_operator
 begin_operator
@@ -56370,8 +56370,8 @@ overcome hangover excitement hotdog uranus vulcan
 1
 2 4
 2
-0 36 4 20
 0 29 3 2
+0 36 4 20
 1
 end_operator
 begin_operator
@@ -56379,8 +56379,8 @@ overcome hangover excitement hotdog vulcan jupiter
 1
 2 4
 2
-0 36 4 20
 0 29 1 3
+0 36 4 20
 1
 end_operator
 begin_operator
@@ -56388,8 +56388,8 @@ overcome hangover excitement lobster earth uranus
 1
 2 5
 2
-0 36 5 20
 0 29 2 0
+0 36 5 20
 1
 end_operator
 begin_operator
@@ -56397,8 +56397,8 @@ overcome hangover excitement lobster uranus vulcan
 1
 2 5
 2
-0 36 5 20
 0 29 3 2
+0 36 5 20
 1
 end_operator
 begin_operator
@@ -56406,8 +56406,8 @@ overcome hangover excitement lobster vulcan jupiter
 1
 2 5
 2
-0 36 5 20
 0 29 1 3
+0 36 5 20
 1
 end_operator
 begin_operator
@@ -56415,8 +56415,8 @@ overcome hangover excitement muffin earth uranus
 1
 2 6
 2
-0 36 6 20
 0 29 2 0
+0 36 6 20
 1
 end_operator
 begin_operator
@@ -56424,8 +56424,8 @@ overcome hangover excitement muffin uranus vulcan
 1
 2 6
 2
-0 36 6 20
 0 29 3 2
+0 36 6 20
 1
 end_operator
 begin_operator
@@ -56433,8 +56433,8 @@ overcome hangover excitement muffin vulcan jupiter
 1
 2 6
 2
-0 36 6 20
 0 29 1 3
+0 36 6 20
 1
 end_operator
 begin_operator
@@ -56442,8 +56442,8 @@ overcome hangover excitement okra earth uranus
 1
 2 7
 2
-0 36 7 20
 0 29 2 0
+0 36 7 20
 1
 end_operator
 begin_operator
@@ -56451,8 +56451,8 @@ overcome hangover excitement okra uranus vulcan
 1
 2 7
 2
-0 36 7 20
 0 29 3 2
+0 36 7 20
 1
 end_operator
 begin_operator
@@ -56460,8 +56460,8 @@ overcome hangover excitement okra vulcan jupiter
 1
 2 7
 2
-0 36 7 20
 0 29 1 3
+0 36 7 20
 1
 end_operator
 begin_operator
@@ -56469,8 +56469,8 @@ overcome hangover excitement pepper earth uranus
 1
 2 8
 2
-0 36 8 20
 0 29 2 0
+0 36 8 20
 1
 end_operator
 begin_operator
@@ -56478,8 +56478,8 @@ overcome hangover excitement pepper uranus vulcan
 1
 2 8
 2
-0 36 8 20
 0 29 3 2
+0 36 8 20
 1
 end_operator
 begin_operator
@@ -56487,8 +56487,8 @@ overcome hangover excitement pepper vulcan jupiter
 1
 2 8
 2
-0 36 8 20
 0 29 1 3
+0 36 8 20
 1
 end_operator
 begin_operator
@@ -56496,8 +56496,8 @@ overcome hangover excitement pistachio earth uranus
 1
 2 9
 2
-0 36 9 20
 0 29 2 0
+0 36 9 20
 1
 end_operator
 begin_operator
@@ -56505,8 +56505,8 @@ overcome hangover excitement pistachio uranus vulcan
 1
 2 9
 2
-0 36 9 20
 0 29 3 2
+0 36 9 20
 1
 end_operator
 begin_operator
@@ -56514,8 +56514,8 @@ overcome hangover excitement pistachio vulcan jupiter
 1
 2 9
 2
-0 36 9 20
 0 29 1 3
+0 36 9 20
 1
 end_operator
 begin_operator
@@ -56523,8 +56523,8 @@ overcome hangover excitement pork earth uranus
 1
 2 10
 2
-0 36 10 20
 0 29 2 0
+0 36 10 20
 1
 end_operator
 begin_operator
@@ -56532,8 +56532,8 @@ overcome hangover excitement pork uranus vulcan
 1
 2 10
 2
-0 36 10 20
 0 29 3 2
+0 36 10 20
 1
 end_operator
 begin_operator
@@ -56541,8 +56541,8 @@ overcome hangover excitement pork vulcan jupiter
 1
 2 10
 2
-0 36 10 20
 0 29 1 3
+0 36 10 20
 1
 end_operator
 begin_operator
@@ -56550,8 +56550,8 @@ overcome hangover excitement rice earth uranus
 1
 2 11
 2
-0 36 11 20
 0 29 2 0
+0 36 11 20
 1
 end_operator
 begin_operator
@@ -56559,8 +56559,8 @@ overcome hangover excitement rice uranus vulcan
 1
 2 11
 2
-0 36 11 20
 0 29 3 2
+0 36 11 20
 1
 end_operator
 begin_operator
@@ -56568,8 +56568,8 @@ overcome hangover excitement rice vulcan jupiter
 1
 2 11
 2
-0 36 11 20
 0 29 1 3
+0 36 11 20
 1
 end_operator
 begin_operator
@@ -56577,8 +56577,8 @@ overcome hangover excitement scallop earth uranus
 1
 2 12
 2
-0 36 12 20
 0 29 2 0
+0 36 12 20
 1
 end_operator
 begin_operator
@@ -56586,8 +56586,8 @@ overcome hangover excitement scallop uranus vulcan
 1
 2 12
 2
-0 36 12 20
 0 29 3 2
+0 36 12 20
 1
 end_operator
 begin_operator
@@ -56595,8 +56595,8 @@ overcome hangover excitement scallop vulcan jupiter
 1
 2 12
 2
-0 36 12 20
 0 29 1 3
+0 36 12 20
 1
 end_operator
 begin_operator
@@ -56604,8 +56604,8 @@ overcome hangover excitement tofu earth uranus
 1
 2 13
 2
-0 36 13 20
 0 29 2 0
+0 36 13 20
 1
 end_operator
 begin_operator
@@ -56613,8 +56613,8 @@ overcome hangover excitement tofu uranus vulcan
 1
 2 13
 2
-0 36 13 20
 0 29 3 2
+0 36 13 20
 1
 end_operator
 begin_operator
@@ -56622,8 +56622,8 @@ overcome hangover excitement tofu vulcan jupiter
 1
 2 13
 2
-0 36 13 20
 0 29 1 3
+0 36 13 20
 1
 end_operator
 begin_operator
@@ -56631,8 +56631,8 @@ overcome hangover excitement tomato earth uranus
 1
 2 14
 2
-0 36 14 20
 0 29 2 0
+0 36 14 20
 1
 end_operator
 begin_operator
@@ -56640,8 +56640,8 @@ overcome hangover excitement tomato uranus vulcan
 1
 2 14
 2
-0 36 14 20
 0 29 3 2
+0 36 14 20
 1
 end_operator
 begin_operator
@@ -56649,8 +56649,8 @@ overcome hangover excitement tomato vulcan jupiter
 1
 2 14
 2
-0 36 14 20
 0 29 1 3
+0 36 14 20
 1
 end_operator
 begin_operator
@@ -56658,8 +56658,8 @@ overcome hangover excitement tuna earth uranus
 1
 2 15
 2
-0 36 15 20
 0 29 2 0
+0 36 15 20
 1
 end_operator
 begin_operator
@@ -56667,8 +56667,8 @@ overcome hangover excitement tuna uranus vulcan
 1
 2 15
 2
-0 36 15 20
 0 29 3 2
+0 36 15 20
 1
 end_operator
 begin_operator
@@ -56676,8 +56676,8 @@ overcome hangover excitement tuna vulcan jupiter
 1
 2 15
 2
-0 36 15 20
 0 29 1 3
+0 36 15 20
 1
 end_operator
 begin_operator
@@ -56685,8 +56685,8 @@ overcome hangover excitement turkey earth uranus
 1
 2 16
 2
-0 36 16 20
 0 29 2 0
+0 36 16 20
 1
 end_operator
 begin_operator
@@ -56694,8 +56694,8 @@ overcome hangover excitement turkey uranus vulcan
 1
 2 16
 2
-0 36 16 20
 0 29 3 2
+0 36 16 20
 1
 end_operator
 begin_operator
@@ -56703,8 +56703,8 @@ overcome hangover excitement turkey vulcan jupiter
 1
 2 16
 2
-0 36 16 20
 0 29 1 3
+0 36 16 20
 1
 end_operator
 begin_operator
@@ -56712,8 +56712,8 @@ overcome hangover excitement wonderbread earth uranus
 1
 2 17
 2
-0 36 17 20
 0 29 2 0
+0 36 17 20
 1
 end_operator
 begin_operator
@@ -56721,8 +56721,8 @@ overcome hangover excitement wonderbread uranus vulcan
 1
 2 17
 2
-0 36 17 20
 0 29 3 2
+0 36 17 20
 1
 end_operator
 begin_operator
@@ -56730,8 +56730,8 @@ overcome hangover excitement wonderbread vulcan jupiter
 1
 2 17
 2
-0 36 17 20
 0 29 1 3
+0 36 17 20
 1
 end_operator
 begin_operator
@@ -56739,8 +56739,8 @@ overcome hangover learning arugula earth uranus
 1
 3 0
 2
-0 36 0 21
 0 30 2 0
+0 36 0 21
 1
 end_operator
 begin_operator
@@ -56748,8 +56748,8 @@ overcome hangover learning arugula uranus vulcan
 1
 3 0
 2
-0 36 0 21
 0 30 3 2
+0 36 0 21
 1
 end_operator
 begin_operator
@@ -56757,8 +56757,8 @@ overcome hangover learning arugula vulcan jupiter
 1
 3 0
 2
-0 36 0 21
 0 30 1 3
+0 36 0 21
 1
 end_operator
 begin_operator
@@ -56766,8 +56766,8 @@ overcome hangover learning baguette earth uranus
 1
 3 1
 2
-0 36 1 21
 0 30 2 0
+0 36 1 21
 1
 end_operator
 begin_operator
@@ -56775,8 +56775,8 @@ overcome hangover learning baguette uranus vulcan
 1
 3 1
 2
-0 36 1 21
 0 30 3 2
+0 36 1 21
 1
 end_operator
 begin_operator
@@ -56784,8 +56784,8 @@ overcome hangover learning baguette vulcan jupiter
 1
 3 1
 2
-0 36 1 21
 0 30 1 3
+0 36 1 21
 1
 end_operator
 begin_operator
@@ -56793,8 +56793,8 @@ overcome hangover learning cantelope earth uranus
 1
 3 2
 2
-0 36 2 21
 0 30 2 0
+0 36 2 21
 1
 end_operator
 begin_operator
@@ -56802,8 +56802,8 @@ overcome hangover learning cantelope uranus vulcan
 1
 3 2
 2
-0 36 2 21
 0 30 3 2
+0 36 2 21
 1
 end_operator
 begin_operator
@@ -56811,8 +56811,8 @@ overcome hangover learning cantelope vulcan jupiter
 1
 3 2
 2
-0 36 2 21
 0 30 1 3
+0 36 2 21
 1
 end_operator
 begin_operator
@@ -56820,8 +56820,8 @@ overcome hangover learning flounder earth uranus
 1
 3 3
 2
-0 36 3 21
 0 30 2 0
+0 36 3 21
 1
 end_operator
 begin_operator
@@ -56829,8 +56829,8 @@ overcome hangover learning flounder uranus vulcan
 1
 3 3
 2
-0 36 3 21
 0 30 3 2
+0 36 3 21
 1
 end_operator
 begin_operator
@@ -56838,8 +56838,8 @@ overcome hangover learning flounder vulcan jupiter
 1
 3 3
 2
-0 36 3 21
 0 30 1 3
+0 36 3 21
 1
 end_operator
 begin_operator
@@ -56847,8 +56847,8 @@ overcome hangover learning hotdog earth uranus
 1
 3 4
 2
-0 36 4 21
 0 30 2 0
+0 36 4 21
 1
 end_operator
 begin_operator
@@ -56856,8 +56856,8 @@ overcome hangover learning hotdog uranus vulcan
 1
 3 4
 2
-0 36 4 21
 0 30 3 2
+0 36 4 21
 1
 end_operator
 begin_operator
@@ -56865,8 +56865,8 @@ overcome hangover learning hotdog vulcan jupiter
 1
 3 4
 2
-0 36 4 21
 0 30 1 3
+0 36 4 21
 1
 end_operator
 begin_operator
@@ -56874,8 +56874,8 @@ overcome hangover learning lobster earth uranus
 1
 3 5
 2
-0 36 5 21
 0 30 2 0
+0 36 5 21
 1
 end_operator
 begin_operator
@@ -56883,8 +56883,8 @@ overcome hangover learning lobster uranus vulcan
 1
 3 5
 2
-0 36 5 21
 0 30 3 2
+0 36 5 21
 1
 end_operator
 begin_operator
@@ -56892,8 +56892,8 @@ overcome hangover learning lobster vulcan jupiter
 1
 3 5
 2
-0 36 5 21
 0 30 1 3
+0 36 5 21
 1
 end_operator
 begin_operator
@@ -56901,8 +56901,8 @@ overcome hangover learning muffin earth uranus
 1
 3 6
 2
-0 36 6 21
 0 30 2 0
+0 36 6 21
 1
 end_operator
 begin_operator
@@ -56910,8 +56910,8 @@ overcome hangover learning muffin uranus vulcan
 1
 3 6
 2
-0 36 6 21
 0 30 3 2
+0 36 6 21
 1
 end_operator
 begin_operator
@@ -56919,8 +56919,8 @@ overcome hangover learning muffin vulcan jupiter
 1
 3 6
 2
-0 36 6 21
 0 30 1 3
+0 36 6 21
 1
 end_operator
 begin_operator
@@ -56928,8 +56928,8 @@ overcome hangover learning okra earth uranus
 1
 3 7
 2
-0 36 7 21
 0 30 2 0
+0 36 7 21
 1
 end_operator
 begin_operator
@@ -56937,8 +56937,8 @@ overcome hangover learning okra uranus vulcan
 1
 3 7
 2
-0 36 7 21
 0 30 3 2
+0 36 7 21
 1
 end_operator
 begin_operator
@@ -56946,8 +56946,8 @@ overcome hangover learning okra vulcan jupiter
 1
 3 7
 2
-0 36 7 21
 0 30 1 3
+0 36 7 21
 1
 end_operator
 begin_operator
@@ -56955,8 +56955,8 @@ overcome hangover learning pepper earth uranus
 1
 3 8
 2
-0 36 8 21
 0 30 2 0
+0 36 8 21
 1
 end_operator
 begin_operator
@@ -56964,8 +56964,8 @@ overcome hangover learning pepper uranus vulcan
 1
 3 8
 2
-0 36 8 21
 0 30 3 2
+0 36 8 21
 1
 end_operator
 begin_operator
@@ -56973,8 +56973,8 @@ overcome hangover learning pepper vulcan jupiter
 1
 3 8
 2
-0 36 8 21
 0 30 1 3
+0 36 8 21
 1
 end_operator
 begin_operator
@@ -56982,8 +56982,8 @@ overcome hangover learning pistachio earth uranus
 1
 3 9
 2
-0 36 9 21
 0 30 2 0
+0 36 9 21
 1
 end_operator
 begin_operator
@@ -56991,8 +56991,8 @@ overcome hangover learning pistachio uranus vulcan
 1
 3 9
 2
-0 36 9 21
 0 30 3 2
+0 36 9 21
 1
 end_operator
 begin_operator
@@ -57000,8 +57000,8 @@ overcome hangover learning pistachio vulcan jupiter
 1
 3 9
 2
-0 36 9 21
 0 30 1 3
+0 36 9 21
 1
 end_operator
 begin_operator
@@ -57009,8 +57009,8 @@ overcome hangover learning pork earth uranus
 1
 3 10
 2
-0 36 10 21
 0 30 2 0
+0 36 10 21
 1
 end_operator
 begin_operator
@@ -57018,8 +57018,8 @@ overcome hangover learning pork uranus vulcan
 1
 3 10
 2
-0 36 10 21
 0 30 3 2
+0 36 10 21
 1
 end_operator
 begin_operator
@@ -57027,8 +57027,8 @@ overcome hangover learning pork vulcan jupiter
 1
 3 10
 2
-0 36 10 21
 0 30 1 3
+0 36 10 21
 1
 end_operator
 begin_operator
@@ -57036,8 +57036,8 @@ overcome hangover learning rice earth uranus
 1
 3 11
 2
-0 36 11 21
 0 30 2 0
+0 36 11 21
 1
 end_operator
 begin_operator
@@ -57045,8 +57045,8 @@ overcome hangover learning rice uranus vulcan
 1
 3 11
 2
-0 36 11 21
 0 30 3 2
+0 36 11 21
 1
 end_operator
 begin_operator
@@ -57054,8 +57054,8 @@ overcome hangover learning rice vulcan jupiter
 1
 3 11
 2
-0 36 11 21
 0 30 1 3
+0 36 11 21
 1
 end_operator
 begin_operator
@@ -57063,8 +57063,8 @@ overcome hangover learning scallop earth uranus
 1
 3 12
 2
-0 36 12 21
 0 30 2 0
+0 36 12 21
 1
 end_operator
 begin_operator
@@ -57072,8 +57072,8 @@ overcome hangover learning scallop uranus vulcan
 1
 3 12
 2
-0 36 12 21
 0 30 3 2
+0 36 12 21
 1
 end_operator
 begin_operator
@@ -57081,8 +57081,8 @@ overcome hangover learning scallop vulcan jupiter
 1
 3 12
 2
-0 36 12 21
 0 30 1 3
+0 36 12 21
 1
 end_operator
 begin_operator
@@ -57090,8 +57090,8 @@ overcome hangover learning tofu earth uranus
 1
 3 13
 2
-0 36 13 21
 0 30 2 0
+0 36 13 21
 1
 end_operator
 begin_operator
@@ -57099,8 +57099,8 @@ overcome hangover learning tofu uranus vulcan
 1
 3 13
 2
-0 36 13 21
 0 30 3 2
+0 36 13 21
 1
 end_operator
 begin_operator
@@ -57108,8 +57108,8 @@ overcome hangover learning tofu vulcan jupiter
 1
 3 13
 2
-0 36 13 21
 0 30 1 3
+0 36 13 21
 1
 end_operator
 begin_operator
@@ -57117,8 +57117,8 @@ overcome hangover learning tomato earth uranus
 1
 3 14
 2
-0 36 14 21
 0 30 2 0
+0 36 14 21
 1
 end_operator
 begin_operator
@@ -57126,8 +57126,8 @@ overcome hangover learning tomato uranus vulcan
 1
 3 14
 2
-0 36 14 21
 0 30 3 2
+0 36 14 21
 1
 end_operator
 begin_operator
@@ -57135,8 +57135,8 @@ overcome hangover learning tomato vulcan jupiter
 1
 3 14
 2
-0 36 14 21
 0 30 1 3
+0 36 14 21
 1
 end_operator
 begin_operator
@@ -57144,8 +57144,8 @@ overcome hangover learning tuna earth uranus
 1
 3 15
 2
-0 36 15 21
 0 30 2 0
+0 36 15 21
 1
 end_operator
 begin_operator
@@ -57153,8 +57153,8 @@ overcome hangover learning tuna uranus vulcan
 1
 3 15
 2
-0 36 15 21
 0 30 3 2
+0 36 15 21
 1
 end_operator
 begin_operator
@@ -57162,8 +57162,8 @@ overcome hangover learning tuna vulcan jupiter
 1
 3 15
 2
-0 36 15 21
 0 30 1 3
+0 36 15 21
 1
 end_operator
 begin_operator
@@ -57171,8 +57171,8 @@ overcome hangover learning turkey earth uranus
 1
 3 16
 2
-0 36 16 21
 0 30 2 0
+0 36 16 21
 1
 end_operator
 begin_operator
@@ -57180,8 +57180,8 @@ overcome hangover learning turkey uranus vulcan
 1
 3 16
 2
-0 36 16 21
 0 30 3 2
+0 36 16 21
 1
 end_operator
 begin_operator
@@ -57189,8 +57189,8 @@ overcome hangover learning turkey vulcan jupiter
 1
 3 16
 2
-0 36 16 21
 0 30 1 3
+0 36 16 21
 1
 end_operator
 begin_operator
@@ -57198,8 +57198,8 @@ overcome hangover learning wonderbread earth uranus
 1
 3 17
 2
-0 36 17 21
 0 30 2 0
+0 36 17 21
 1
 end_operator
 begin_operator
@@ -57207,8 +57207,8 @@ overcome hangover learning wonderbread uranus vulcan
 1
 3 17
 2
-0 36 17 21
 0 30 3 2
+0 36 17 21
 1
 end_operator
 begin_operator
@@ -57216,8 +57216,8 @@ overcome hangover learning wonderbread vulcan jupiter
 1
 3 17
 2
-0 36 17 21
 0 30 1 3
+0 36 17 21
 1
 end_operator
 begin_operator
@@ -57225,8 +57225,8 @@ overcome hangover love arugula earth uranus
 1
 4 0
 2
-0 36 0 22
 0 31 2 0
+0 36 0 22
 1
 end_operator
 begin_operator
@@ -57234,8 +57234,8 @@ overcome hangover love arugula uranus vulcan
 1
 4 0
 2
-0 36 0 22
 0 31 3 2
+0 36 0 22
 1
 end_operator
 begin_operator
@@ -57243,8 +57243,8 @@ overcome hangover love arugula vulcan jupiter
 1
 4 0
 2
-0 36 0 22
 0 31 1 3
+0 36 0 22
 1
 end_operator
 begin_operator
@@ -57252,8 +57252,8 @@ overcome hangover love baguette earth uranus
 1
 4 1
 2
-0 36 1 22
 0 31 2 0
+0 36 1 22
 1
 end_operator
 begin_operator
@@ -57261,8 +57261,8 @@ overcome hangover love baguette uranus vulcan
 1
 4 1
 2
-0 36 1 22
 0 31 3 2
+0 36 1 22
 1
 end_operator
 begin_operator
@@ -57270,8 +57270,8 @@ overcome hangover love baguette vulcan jupiter
 1
 4 1
 2
-0 36 1 22
 0 31 1 3
+0 36 1 22
 1
 end_operator
 begin_operator
@@ -57279,8 +57279,8 @@ overcome hangover love cantelope earth uranus
 1
 4 2
 2
-0 36 2 22
 0 31 2 0
+0 36 2 22
 1
 end_operator
 begin_operator
@@ -57288,8 +57288,8 @@ overcome hangover love cantelope uranus vulcan
 1
 4 2
 2
-0 36 2 22
 0 31 3 2
+0 36 2 22
 1
 end_operator
 begin_operator
@@ -57297,8 +57297,8 @@ overcome hangover love cantelope vulcan jupiter
 1
 4 2
 2
-0 36 2 22
 0 31 1 3
+0 36 2 22
 1
 end_operator
 begin_operator
@@ -57306,8 +57306,8 @@ overcome hangover love flounder earth uranus
 1
 4 3
 2
-0 36 3 22
 0 31 2 0
+0 36 3 22
 1
 end_operator
 begin_operator
@@ -57315,8 +57315,8 @@ overcome hangover love flounder uranus vulcan
 1
 4 3
 2
-0 36 3 22
 0 31 3 2
+0 36 3 22
 1
 end_operator
 begin_operator
@@ -57324,8 +57324,8 @@ overcome hangover love flounder vulcan jupiter
 1
 4 3
 2
-0 36 3 22
 0 31 1 3
+0 36 3 22
 1
 end_operator
 begin_operator
@@ -57333,8 +57333,8 @@ overcome hangover love hotdog earth uranus
 1
 4 4
 2
-0 36 4 22
 0 31 2 0
+0 36 4 22
 1
 end_operator
 begin_operator
@@ -57342,8 +57342,8 @@ overcome hangover love hotdog uranus vulcan
 1
 4 4
 2
-0 36 4 22
 0 31 3 2
+0 36 4 22
 1
 end_operator
 begin_operator
@@ -57351,8 +57351,8 @@ overcome hangover love hotdog vulcan jupiter
 1
 4 4
 2
-0 36 4 22
 0 31 1 3
+0 36 4 22
 1
 end_operator
 begin_operator
@@ -57360,8 +57360,8 @@ overcome hangover love lobster earth uranus
 1
 4 5
 2
-0 36 5 22
 0 31 2 0
+0 36 5 22
 1
 end_operator
 begin_operator
@@ -57369,8 +57369,8 @@ overcome hangover love lobster uranus vulcan
 1
 4 5
 2
-0 36 5 22
 0 31 3 2
+0 36 5 22
 1
 end_operator
 begin_operator
@@ -57378,8 +57378,8 @@ overcome hangover love lobster vulcan jupiter
 1
 4 5
 2
-0 36 5 22
 0 31 1 3
+0 36 5 22
 1
 end_operator
 begin_operator
@@ -57387,8 +57387,8 @@ overcome hangover love muffin earth uranus
 1
 4 6
 2
-0 36 6 22
 0 31 2 0
+0 36 6 22
 1
 end_operator
 begin_operator
@@ -57396,8 +57396,8 @@ overcome hangover love muffin uranus vulcan
 1
 4 6
 2
-0 36 6 22
 0 31 3 2
+0 36 6 22
 1
 end_operator
 begin_operator
@@ -57405,8 +57405,8 @@ overcome hangover love muffin vulcan jupiter
 1
 4 6
 2
-0 36 6 22
 0 31 1 3
+0 36 6 22
 1
 end_operator
 begin_operator
@@ -57414,8 +57414,8 @@ overcome hangover love okra earth uranus
 1
 4 7
 2
-0 36 7 22
 0 31 2 0
+0 36 7 22
 1
 end_operator
 begin_operator
@@ -57423,8 +57423,8 @@ overcome hangover love okra uranus vulcan
 1
 4 7
 2
-0 36 7 22
 0 31 3 2
+0 36 7 22
 1
 end_operator
 begin_operator
@@ -57432,8 +57432,8 @@ overcome hangover love okra vulcan jupiter
 1
 4 7
 2
-0 36 7 22
 0 31 1 3
+0 36 7 22
 1
 end_operator
 begin_operator
@@ -57441,8 +57441,8 @@ overcome hangover love pepper earth uranus
 1
 4 8
 2
-0 36 8 22
 0 31 2 0
+0 36 8 22
 1
 end_operator
 begin_operator
@@ -57450,8 +57450,8 @@ overcome hangover love pepper uranus vulcan
 1
 4 8
 2
-0 36 8 22
 0 31 3 2
+0 36 8 22
 1
 end_operator
 begin_operator
@@ -57459,8 +57459,8 @@ overcome hangover love pepper vulcan jupiter
 1
 4 8
 2
-0 36 8 22
 0 31 1 3
+0 36 8 22
 1
 end_operator
 begin_operator
@@ -57468,8 +57468,8 @@ overcome hangover love pistachio earth uranus
 1
 4 9
 2
-0 36 9 22
 0 31 2 0
+0 36 9 22
 1
 end_operator
 begin_operator
@@ -57477,8 +57477,8 @@ overcome hangover love pistachio uranus vulcan
 1
 4 9
 2
-0 36 9 22
 0 31 3 2
+0 36 9 22
 1
 end_operator
 begin_operator
@@ -57486,8 +57486,8 @@ overcome hangover love pistachio vulcan jupiter
 1
 4 9
 2
-0 36 9 22
 0 31 1 3
+0 36 9 22
 1
 end_operator
 begin_operator
@@ -57495,8 +57495,8 @@ overcome hangover love pork earth uranus
 1
 4 10
 2
-0 36 10 22
 0 31 2 0
+0 36 10 22
 1
 end_operator
 begin_operator
@@ -57504,8 +57504,8 @@ overcome hangover love pork uranus vulcan
 1
 4 10
 2
-0 36 10 22
 0 31 3 2
+0 36 10 22
 1
 end_operator
 begin_operator
@@ -57513,8 +57513,8 @@ overcome hangover love pork vulcan jupiter
 1
 4 10
 2
-0 36 10 22
 0 31 1 3
+0 36 10 22
 1
 end_operator
 begin_operator
@@ -57522,8 +57522,8 @@ overcome hangover love rice earth uranus
 1
 4 11
 2
-0 36 11 22
 0 31 2 0
+0 36 11 22
 1
 end_operator
 begin_operator
@@ -57531,8 +57531,8 @@ overcome hangover love rice uranus vulcan
 1
 4 11
 2
-0 36 11 22
 0 31 3 2
+0 36 11 22
 1
 end_operator
 begin_operator
@@ -57540,8 +57540,8 @@ overcome hangover love rice vulcan jupiter
 1
 4 11
 2
-0 36 11 22
 0 31 1 3
+0 36 11 22
 1
 end_operator
 begin_operator
@@ -57549,8 +57549,8 @@ overcome hangover love scallop earth uranus
 1
 4 12
 2
-0 36 12 22
 0 31 2 0
+0 36 12 22
 1
 end_operator
 begin_operator
@@ -57558,8 +57558,8 @@ overcome hangover love scallop uranus vulcan
 1
 4 12
 2
-0 36 12 22
 0 31 3 2
+0 36 12 22
 1
 end_operator
 begin_operator
@@ -57567,8 +57567,8 @@ overcome hangover love scallop vulcan jupiter
 1
 4 12
 2
-0 36 12 22
 0 31 1 3
+0 36 12 22
 1
 end_operator
 begin_operator
@@ -57576,8 +57576,8 @@ overcome hangover love tofu earth uranus
 1
 4 13
 2
-0 36 13 22
 0 31 2 0
+0 36 13 22
 1
 end_operator
 begin_operator
@@ -57585,8 +57585,8 @@ overcome hangover love tofu uranus vulcan
 1
 4 13
 2
-0 36 13 22
 0 31 3 2
+0 36 13 22
 1
 end_operator
 begin_operator
@@ -57594,8 +57594,8 @@ overcome hangover love tofu vulcan jupiter
 1
 4 13
 2
-0 36 13 22
 0 31 1 3
+0 36 13 22
 1
 end_operator
 begin_operator
@@ -57603,8 +57603,8 @@ overcome hangover love tomato earth uranus
 1
 4 14
 2
-0 36 14 22
 0 31 2 0
+0 36 14 22
 1
 end_operator
 begin_operator
@@ -57612,8 +57612,8 @@ overcome hangover love tomato uranus vulcan
 1
 4 14
 2
-0 36 14 22
 0 31 3 2
+0 36 14 22
 1
 end_operator
 begin_operator
@@ -57621,8 +57621,8 @@ overcome hangover love tomato vulcan jupiter
 1
 4 14
 2
-0 36 14 22
 0 31 1 3
+0 36 14 22
 1
 end_operator
 begin_operator
@@ -57630,8 +57630,8 @@ overcome hangover love tuna earth uranus
 1
 4 15
 2
-0 36 15 22
 0 31 2 0
+0 36 15 22
 1
 end_operator
 begin_operator
@@ -57639,8 +57639,8 @@ overcome hangover love tuna uranus vulcan
 1
 4 15
 2
-0 36 15 22
 0 31 3 2
+0 36 15 22
 1
 end_operator
 begin_operator
@@ -57648,8 +57648,8 @@ overcome hangover love tuna vulcan jupiter
 1
 4 15
 2
-0 36 15 22
 0 31 1 3
+0 36 15 22
 1
 end_operator
 begin_operator
@@ -57657,8 +57657,8 @@ overcome hangover love turkey earth uranus
 1
 4 16
 2
-0 36 16 22
 0 31 2 0
+0 36 16 22
 1
 end_operator
 begin_operator
@@ -57666,8 +57666,8 @@ overcome hangover love turkey uranus vulcan
 1
 4 16
 2
-0 36 16 22
 0 31 3 2
+0 36 16 22
 1
 end_operator
 begin_operator
@@ -57675,8 +57675,8 @@ overcome hangover love turkey vulcan jupiter
 1
 4 16
 2
-0 36 16 22
 0 31 1 3
+0 36 16 22
 1
 end_operator
 begin_operator
@@ -57684,8 +57684,8 @@ overcome hangover love wonderbread earth uranus
 1
 4 17
 2
-0 36 17 22
 0 31 2 0
+0 36 17 22
 1
 end_operator
 begin_operator
@@ -57693,8 +57693,8 @@ overcome hangover love wonderbread uranus vulcan
 1
 4 17
 2
-0 36 17 22
 0 31 3 2
+0 36 17 22
 1
 end_operator
 begin_operator
@@ -57702,8 +57702,8 @@ overcome hangover love wonderbread vulcan jupiter
 1
 4 17
 2
-0 36 17 22
 0 31 1 3
+0 36 17 22
 1
 end_operator
 begin_operator
@@ -57711,8 +57711,8 @@ overcome hangover lubricity arugula earth uranus
 1
 5 0
 2
-0 36 0 23
 0 34 2 0
+0 36 0 23
 1
 end_operator
 begin_operator
@@ -57720,8 +57720,8 @@ overcome hangover lubricity arugula uranus vulcan
 1
 5 0
 2
-0 36 0 23
 0 34 3 2
+0 36 0 23
 1
 end_operator
 begin_operator
@@ -57729,8 +57729,8 @@ overcome hangover lubricity arugula vulcan jupiter
 1
 5 0
 2
-0 36 0 23
 0 34 1 3
+0 36 0 23
 1
 end_operator
 begin_operator
@@ -57738,8 +57738,8 @@ overcome hangover lubricity baguette earth uranus
 1
 5 1
 2
-0 36 1 23
 0 34 2 0
+0 36 1 23
 1
 end_operator
 begin_operator
@@ -57747,8 +57747,8 @@ overcome hangover lubricity baguette uranus vulcan
 1
 5 1
 2
-0 36 1 23
 0 34 3 2
+0 36 1 23
 1
 end_operator
 begin_operator
@@ -57756,8 +57756,8 @@ overcome hangover lubricity baguette vulcan jupiter
 1
 5 1
 2
-0 36 1 23
 0 34 1 3
+0 36 1 23
 1
 end_operator
 begin_operator
@@ -57765,8 +57765,8 @@ overcome hangover lubricity cantelope earth uranus
 1
 5 2
 2
-0 36 2 23
 0 34 2 0
+0 36 2 23
 1
 end_operator
 begin_operator
@@ -57774,8 +57774,8 @@ overcome hangover lubricity cantelope uranus vulcan
 1
 5 2
 2
-0 36 2 23
 0 34 3 2
+0 36 2 23
 1
 end_operator
 begin_operator
@@ -57783,8 +57783,8 @@ overcome hangover lubricity cantelope vulcan jupiter
 1
 5 2
 2
-0 36 2 23
 0 34 1 3
+0 36 2 23
 1
 end_operator
 begin_operator
@@ -57792,8 +57792,8 @@ overcome hangover lubricity flounder earth uranus
 1
 5 3
 2
-0 36 3 23
 0 34 2 0
+0 36 3 23
 1
 end_operator
 begin_operator
@@ -57801,8 +57801,8 @@ overcome hangover lubricity flounder uranus vulcan
 1
 5 3
 2
-0 36 3 23
 0 34 3 2
+0 36 3 23
 1
 end_operator
 begin_operator
@@ -57810,8 +57810,8 @@ overcome hangover lubricity flounder vulcan jupiter
 1
 5 3
 2
-0 36 3 23
 0 34 1 3
+0 36 3 23
 1
 end_operator
 begin_operator
@@ -57819,8 +57819,8 @@ overcome hangover lubricity hotdog earth uranus
 1
 5 4
 2
-0 36 4 23
 0 34 2 0
+0 36 4 23
 1
 end_operator
 begin_operator
@@ -57828,8 +57828,8 @@ overcome hangover lubricity hotdog uranus vulcan
 1
 5 4
 2
-0 36 4 23
 0 34 3 2
+0 36 4 23
 1
 end_operator
 begin_operator
@@ -57837,8 +57837,8 @@ overcome hangover lubricity hotdog vulcan jupiter
 1
 5 4
 2
-0 36 4 23
 0 34 1 3
+0 36 4 23
 1
 end_operator
 begin_operator
@@ -57846,8 +57846,8 @@ overcome hangover lubricity lobster earth uranus
 1
 5 5
 2
-0 36 5 23
 0 34 2 0
+0 36 5 23
 1
 end_operator
 begin_operator
@@ -57855,8 +57855,8 @@ overcome hangover lubricity lobster uranus vulcan
 1
 5 5
 2
-0 36 5 23
 0 34 3 2
+0 36 5 23
 1
 end_operator
 begin_operator
@@ -57864,8 +57864,8 @@ overcome hangover lubricity lobster vulcan jupiter
 1
 5 5
 2
-0 36 5 23
 0 34 1 3
+0 36 5 23
 1
 end_operator
 begin_operator
@@ -57873,8 +57873,8 @@ overcome hangover lubricity muffin earth uranus
 1
 5 6
 2
-0 36 6 23
 0 34 2 0
+0 36 6 23
 1
 end_operator
 begin_operator
@@ -57882,8 +57882,8 @@ overcome hangover lubricity muffin uranus vulcan
 1
 5 6
 2
-0 36 6 23
 0 34 3 2
+0 36 6 23
 1
 end_operator
 begin_operator
@@ -57891,8 +57891,8 @@ overcome hangover lubricity muffin vulcan jupiter
 1
 5 6
 2
-0 36 6 23
 0 34 1 3
+0 36 6 23
 1
 end_operator
 begin_operator
@@ -57900,8 +57900,8 @@ overcome hangover lubricity okra earth uranus
 1
 5 7
 2
-0 36 7 23
 0 34 2 0
+0 36 7 23
 1
 end_operator
 begin_operator
@@ -57909,8 +57909,8 @@ overcome hangover lubricity okra uranus vulcan
 1
 5 7
 2
-0 36 7 23
 0 34 3 2
+0 36 7 23
 1
 end_operator
 begin_operator
@@ -57918,8 +57918,8 @@ overcome hangover lubricity okra vulcan jupiter
 1
 5 7
 2
-0 36 7 23
 0 34 1 3
+0 36 7 23
 1
 end_operator
 begin_operator
@@ -57927,8 +57927,8 @@ overcome hangover lubricity pepper earth uranus
 1
 5 8
 2
-0 36 8 23
 0 34 2 0
+0 36 8 23
 1
 end_operator
 begin_operator
@@ -57936,8 +57936,8 @@ overcome hangover lubricity pepper uranus vulcan
 1
 5 8
 2
-0 36 8 23
 0 34 3 2
+0 36 8 23
 1
 end_operator
 begin_operator
@@ -57945,8 +57945,8 @@ overcome hangover lubricity pepper vulcan jupiter
 1
 5 8
 2
-0 36 8 23
 0 34 1 3
+0 36 8 23
 1
 end_operator
 begin_operator
@@ -57954,8 +57954,8 @@ overcome hangover lubricity pistachio earth uranus
 1
 5 9
 2
-0 36 9 23
 0 34 2 0
+0 36 9 23
 1
 end_operator
 begin_operator
@@ -57963,8 +57963,8 @@ overcome hangover lubricity pistachio uranus vulcan
 1
 5 9
 2
-0 36 9 23
 0 34 3 2
+0 36 9 23
 1
 end_operator
 begin_operator
@@ -57972,8 +57972,8 @@ overcome hangover lubricity pistachio vulcan jupiter
 1
 5 9
 2
-0 36 9 23
 0 34 1 3
+0 36 9 23
 1
 end_operator
 begin_operator
@@ -57981,8 +57981,8 @@ overcome hangover lubricity pork earth uranus
 1
 5 10
 2
-0 36 10 23
 0 34 2 0
+0 36 10 23
 1
 end_operator
 begin_operator
@@ -57990,8 +57990,8 @@ overcome hangover lubricity pork uranus vulcan
 1
 5 10
 2
-0 36 10 23
 0 34 3 2
+0 36 10 23
 1
 end_operator
 begin_operator
@@ -57999,8 +57999,8 @@ overcome hangover lubricity pork vulcan jupiter
 1
 5 10
 2
-0 36 10 23
 0 34 1 3
+0 36 10 23
 1
 end_operator
 begin_operator
@@ -58008,8 +58008,8 @@ overcome hangover lubricity rice earth uranus
 1
 5 11
 2
-0 36 11 23
 0 34 2 0
+0 36 11 23
 1
 end_operator
 begin_operator
@@ -58017,8 +58017,8 @@ overcome hangover lubricity rice uranus vulcan
 1
 5 11
 2
-0 36 11 23
 0 34 3 2
+0 36 11 23
 1
 end_operator
 begin_operator
@@ -58026,8 +58026,8 @@ overcome hangover lubricity rice vulcan jupiter
 1
 5 11
 2
-0 36 11 23
 0 34 1 3
+0 36 11 23
 1
 end_operator
 begin_operator
@@ -58035,8 +58035,8 @@ overcome hangover lubricity scallop earth uranus
 1
 5 12
 2
-0 36 12 23
 0 34 2 0
+0 36 12 23
 1
 end_operator
 begin_operator
@@ -58044,8 +58044,8 @@ overcome hangover lubricity scallop uranus vulcan
 1
 5 12
 2
-0 36 12 23
 0 34 3 2
+0 36 12 23
 1
 end_operator
 begin_operator
@@ -58053,8 +58053,8 @@ overcome hangover lubricity scallop vulcan jupiter
 1
 5 12
 2
-0 36 12 23
 0 34 1 3
+0 36 12 23
 1
 end_operator
 begin_operator
@@ -58062,8 +58062,8 @@ overcome hangover lubricity tofu earth uranus
 1
 5 13
 2
-0 36 13 23
 0 34 2 0
+0 36 13 23
 1
 end_operator
 begin_operator
@@ -58071,8 +58071,8 @@ overcome hangover lubricity tofu uranus vulcan
 1
 5 13
 2
-0 36 13 23
 0 34 3 2
+0 36 13 23
 1
 end_operator
 begin_operator
@@ -58080,8 +58080,8 @@ overcome hangover lubricity tofu vulcan jupiter
 1
 5 13
 2
-0 36 13 23
 0 34 1 3
+0 36 13 23
 1
 end_operator
 begin_operator
@@ -58089,8 +58089,8 @@ overcome hangover lubricity tomato earth uranus
 1
 5 14
 2
-0 36 14 23
 0 34 2 0
+0 36 14 23
 1
 end_operator
 begin_operator
@@ -58098,8 +58098,8 @@ overcome hangover lubricity tomato uranus vulcan
 1
 5 14
 2
-0 36 14 23
 0 34 3 2
+0 36 14 23
 1
 end_operator
 begin_operator
@@ -58107,8 +58107,8 @@ overcome hangover lubricity tomato vulcan jupiter
 1
 5 14
 2
-0 36 14 23
 0 34 1 3
+0 36 14 23
 1
 end_operator
 begin_operator
@@ -58116,8 +58116,8 @@ overcome hangover lubricity tuna earth uranus
 1
 5 15
 2
-0 36 15 23
 0 34 2 0
+0 36 15 23
 1
 end_operator
 begin_operator
@@ -58125,8 +58125,8 @@ overcome hangover lubricity tuna uranus vulcan
 1
 5 15
 2
-0 36 15 23
 0 34 3 2
+0 36 15 23
 1
 end_operator
 begin_operator
@@ -58134,8 +58134,8 @@ overcome hangover lubricity tuna vulcan jupiter
 1
 5 15
 2
-0 36 15 23
 0 34 1 3
+0 36 15 23
 1
 end_operator
 begin_operator
@@ -58143,8 +58143,8 @@ overcome hangover lubricity turkey earth uranus
 1
 5 16
 2
-0 36 16 23
 0 34 2 0
+0 36 16 23
 1
 end_operator
 begin_operator
@@ -58152,8 +58152,8 @@ overcome hangover lubricity turkey uranus vulcan
 1
 5 16
 2
-0 36 16 23
 0 34 3 2
+0 36 16 23
 1
 end_operator
 begin_operator
@@ -58161,8 +58161,8 @@ overcome hangover lubricity turkey vulcan jupiter
 1
 5 16
 2
-0 36 16 23
 0 34 1 3
+0 36 16 23
 1
 end_operator
 begin_operator
@@ -58170,8 +58170,8 @@ overcome hangover lubricity wonderbread earth uranus
 1
 5 17
 2
-0 36 17 23
 0 34 2 0
+0 36 17 23
 1
 end_operator
 begin_operator
@@ -58179,8 +58179,8 @@ overcome hangover lubricity wonderbread uranus vulcan
 1
 5 17
 2
-0 36 17 23
 0 34 3 2
+0 36 17 23
 1
 end_operator
 begin_operator
@@ -58188,8 +58188,8 @@ overcome hangover lubricity wonderbread vulcan jupiter
 1
 5 17
 2
-0 36 17 23
 0 34 1 3
+0 36 17 23
 1
 end_operator
 begin_operator
@@ -58197,8 +58197,8 @@ overcome hangover rest arugula earth uranus
 1
 6 0
 2
-0 36 0 24
 0 35 2 0
+0 36 0 24
 1
 end_operator
 begin_operator
@@ -58206,8 +58206,8 @@ overcome hangover rest arugula uranus vulcan
 1
 6 0
 2
-0 36 0 24
 0 35 3 2
+0 36 0 24
 1
 end_operator
 begin_operator
@@ -58215,8 +58215,8 @@ overcome hangover rest arugula vulcan jupiter
 1
 6 0
 2
-0 36 0 24
 0 35 1 3
+0 36 0 24
 1
 end_operator
 begin_operator
@@ -58224,8 +58224,8 @@ overcome hangover rest baguette earth uranus
 1
 6 1
 2
-0 36 1 24
 0 35 2 0
+0 36 1 24
 1
 end_operator
 begin_operator
@@ -58233,8 +58233,8 @@ overcome hangover rest baguette uranus vulcan
 1
 6 1
 2
-0 36 1 24
 0 35 3 2
+0 36 1 24
 1
 end_operator
 begin_operator
@@ -58242,8 +58242,8 @@ overcome hangover rest baguette vulcan jupiter
 1
 6 1
 2
-0 36 1 24
 0 35 1 3
+0 36 1 24
 1
 end_operator
 begin_operator
@@ -58251,8 +58251,8 @@ overcome hangover rest cantelope earth uranus
 1
 6 2
 2
-0 36 2 24
 0 35 2 0
+0 36 2 24
 1
 end_operator
 begin_operator
@@ -58260,8 +58260,8 @@ overcome hangover rest cantelope uranus vulcan
 1
 6 2
 2
-0 36 2 24
 0 35 3 2
+0 36 2 24
 1
 end_operator
 begin_operator
@@ -58269,8 +58269,8 @@ overcome hangover rest cantelope vulcan jupiter
 1
 6 2
 2
-0 36 2 24
 0 35 1 3
+0 36 2 24
 1
 end_operator
 begin_operator
@@ -58278,8 +58278,8 @@ overcome hangover rest flounder earth uranus
 1
 6 3
 2
-0 36 3 24
 0 35 2 0
+0 36 3 24
 1
 end_operator
 begin_operator
@@ -58287,8 +58287,8 @@ overcome hangover rest flounder uranus vulcan
 1
 6 3
 2
-0 36 3 24
 0 35 3 2
+0 36 3 24
 1
 end_operator
 begin_operator
@@ -58296,8 +58296,8 @@ overcome hangover rest flounder vulcan jupiter
 1
 6 3
 2
-0 36 3 24
 0 35 1 3
+0 36 3 24
 1
 end_operator
 begin_operator
@@ -58305,8 +58305,8 @@ overcome hangover rest hotdog earth uranus
 1
 6 4
 2
-0 36 4 24
 0 35 2 0
+0 36 4 24
 1
 end_operator
 begin_operator
@@ -58314,8 +58314,8 @@ overcome hangover rest hotdog uranus vulcan
 1
 6 4
 2
-0 36 4 24
 0 35 3 2
+0 36 4 24
 1
 end_operator
 begin_operator
@@ -58323,8 +58323,8 @@ overcome hangover rest hotdog vulcan jupiter
 1
 6 4
 2
-0 36 4 24
 0 35 1 3
+0 36 4 24
 1
 end_operator
 begin_operator
@@ -58332,8 +58332,8 @@ overcome hangover rest lobster earth uranus
 1
 6 5
 2
-0 36 5 24
 0 35 2 0
+0 36 5 24
 1
 end_operator
 begin_operator
@@ -58341,8 +58341,8 @@ overcome hangover rest lobster uranus vulcan
 1
 6 5
 2
-0 36 5 24
 0 35 3 2
+0 36 5 24
 1
 end_operator
 begin_operator
@@ -58350,8 +58350,8 @@ overcome hangover rest lobster vulcan jupiter
 1
 6 5
 2
-0 36 5 24
 0 35 1 3
+0 36 5 24
 1
 end_operator
 begin_operator
@@ -58359,8 +58359,8 @@ overcome hangover rest muffin earth uranus
 1
 6 6
 2
-0 36 6 24
 0 35 2 0
+0 36 6 24
 1
 end_operator
 begin_operator
@@ -58368,8 +58368,8 @@ overcome hangover rest muffin uranus vulcan
 1
 6 6
 2
-0 36 6 24
 0 35 3 2
+0 36 6 24
 1
 end_operator
 begin_operator
@@ -58377,8 +58377,8 @@ overcome hangover rest muffin vulcan jupiter
 1
 6 6
 2
-0 36 6 24
 0 35 1 3
+0 36 6 24
 1
 end_operator
 begin_operator
@@ -58386,8 +58386,8 @@ overcome hangover rest okra earth uranus
 1
 6 7
 2
-0 36 7 24
 0 35 2 0
+0 36 7 24
 1
 end_operator
 begin_operator
@@ -58395,8 +58395,8 @@ overcome hangover rest okra uranus vulcan
 1
 6 7
 2
-0 36 7 24
 0 35 3 2
+0 36 7 24
 1
 end_operator
 begin_operator
@@ -58404,8 +58404,8 @@ overcome hangover rest okra vulcan jupiter
 1
 6 7
 2
-0 36 7 24
 0 35 1 3
+0 36 7 24
 1
 end_operator
 begin_operator
@@ -58413,8 +58413,8 @@ overcome hangover rest pepper earth uranus
 1
 6 8
 2
-0 36 8 24
 0 35 2 0
+0 36 8 24
 1
 end_operator
 begin_operator
@@ -58422,8 +58422,8 @@ overcome hangover rest pepper uranus vulcan
 1
 6 8
 2
-0 36 8 24
 0 35 3 2
+0 36 8 24
 1
 end_operator
 begin_operator
@@ -58431,8 +58431,8 @@ overcome hangover rest pepper vulcan jupiter
 1
 6 8
 2
-0 36 8 24
 0 35 1 3
+0 36 8 24
 1
 end_operator
 begin_operator
@@ -58440,8 +58440,8 @@ overcome hangover rest pistachio earth uranus
 1
 6 9
 2
-0 36 9 24
 0 35 2 0
+0 36 9 24
 1
 end_operator
 begin_operator
@@ -58449,8 +58449,8 @@ overcome hangover rest pistachio uranus vulcan
 1
 6 9
 2
-0 36 9 24
 0 35 3 2
+0 36 9 24
 1
 end_operator
 begin_operator
@@ -58458,8 +58458,8 @@ overcome hangover rest pistachio vulcan jupiter
 1
 6 9
 2
-0 36 9 24
 0 35 1 3
+0 36 9 24
 1
 end_operator
 begin_operator
@@ -58467,8 +58467,8 @@ overcome hangover rest pork earth uranus
 1
 6 10
 2
-0 36 10 24
 0 35 2 0
+0 36 10 24
 1
 end_operator
 begin_operator
@@ -58476,8 +58476,8 @@ overcome hangover rest pork uranus vulcan
 1
 6 10
 2
-0 36 10 24
 0 35 3 2
+0 36 10 24
 1
 end_operator
 begin_operator
@@ -58485,8 +58485,8 @@ overcome hangover rest pork vulcan jupiter
 1
 6 10
 2
-0 36 10 24
 0 35 1 3
+0 36 10 24
 1
 end_operator
 begin_operator
@@ -58494,8 +58494,8 @@ overcome hangover rest rice earth uranus
 1
 6 11
 2
-0 36 11 24
 0 35 2 0
+0 36 11 24
 1
 end_operator
 begin_operator
@@ -58503,8 +58503,8 @@ overcome hangover rest rice uranus vulcan
 1
 6 11
 2
-0 36 11 24
 0 35 3 2
+0 36 11 24
 1
 end_operator
 begin_operator
@@ -58512,8 +58512,8 @@ overcome hangover rest rice vulcan jupiter
 1
 6 11
 2
-0 36 11 24
 0 35 1 3
+0 36 11 24
 1
 end_operator
 begin_operator
@@ -58521,8 +58521,8 @@ overcome hangover rest scallop earth uranus
 1
 6 12
 2
-0 36 12 24
 0 35 2 0
+0 36 12 24
 1
 end_operator
 begin_operator
@@ -58530,8 +58530,8 @@ overcome hangover rest scallop uranus vulcan
 1
 6 12
 2
-0 36 12 24
 0 35 3 2
+0 36 12 24
 1
 end_operator
 begin_operator
@@ -58539,8 +58539,8 @@ overcome hangover rest scallop vulcan jupiter
 1
 6 12
 2
-0 36 12 24
 0 35 1 3
+0 36 12 24
 1
 end_operator
 begin_operator
@@ -58548,8 +58548,8 @@ overcome hangover rest tofu earth uranus
 1
 6 13
 2
-0 36 13 24
 0 35 2 0
+0 36 13 24
 1
 end_operator
 begin_operator
@@ -58557,8 +58557,8 @@ overcome hangover rest tofu uranus vulcan
 1
 6 13
 2
-0 36 13 24
 0 35 3 2
+0 36 13 24
 1
 end_operator
 begin_operator
@@ -58566,8 +58566,8 @@ overcome hangover rest tofu vulcan jupiter
 1
 6 13
 2
-0 36 13 24
 0 35 1 3
+0 36 13 24
 1
 end_operator
 begin_operator
@@ -58575,8 +58575,8 @@ overcome hangover rest tomato earth uranus
 1
 6 14
 2
-0 36 14 24
 0 35 2 0
+0 36 14 24
 1
 end_operator
 begin_operator
@@ -58584,8 +58584,8 @@ overcome hangover rest tomato uranus vulcan
 1
 6 14
 2
-0 36 14 24
 0 35 3 2
+0 36 14 24
 1
 end_operator
 begin_operator
@@ -58593,8 +58593,8 @@ overcome hangover rest tomato vulcan jupiter
 1
 6 14
 2
-0 36 14 24
 0 35 1 3
+0 36 14 24
 1
 end_operator
 begin_operator
@@ -58602,8 +58602,8 @@ overcome hangover rest tuna earth uranus
 1
 6 15
 2
-0 36 15 24
 0 35 2 0
+0 36 15 24
 1
 end_operator
 begin_operator
@@ -58611,8 +58611,8 @@ overcome hangover rest tuna uranus vulcan
 1
 6 15
 2
-0 36 15 24
 0 35 3 2
+0 36 15 24
 1
 end_operator
 begin_operator
@@ -58620,8 +58620,8 @@ overcome hangover rest tuna vulcan jupiter
 1
 6 15
 2
-0 36 15 24
 0 35 1 3
+0 36 15 24
 1
 end_operator
 begin_operator
@@ -58629,8 +58629,8 @@ overcome hangover rest turkey earth uranus
 1
 6 16
 2
-0 36 16 24
 0 35 2 0
+0 36 16 24
 1
 end_operator
 begin_operator
@@ -58638,8 +58638,8 @@ overcome hangover rest turkey uranus vulcan
 1
 6 16
 2
-0 36 16 24
 0 35 3 2
+0 36 16 24
 1
 end_operator
 begin_operator
@@ -58647,8 +58647,8 @@ overcome hangover rest turkey vulcan jupiter
 1
 6 16
 2
-0 36 16 24
 0 35 1 3
+0 36 16 24
 1
 end_operator
 begin_operator
@@ -58656,8 +58656,8 @@ overcome hangover rest wonderbread earth uranus
 1
 6 17
 2
-0 36 17 24
 0 35 2 0
+0 36 17 24
 1
 end_operator
 begin_operator
@@ -58665,8 +58665,8 @@ overcome hangover rest wonderbread uranus vulcan
 1
 6 17
 2
-0 36 17 24
 0 35 3 2
+0 36 17 24
 1
 end_operator
 begin_operator
@@ -58674,8 +58674,8 @@ overcome hangover rest wonderbread vulcan jupiter
 1
 6 17
 2
-0 36 17 24
 0 35 1 3
+0 36 17 24
 1
 end_operator
 begin_operator
@@ -59655,8 +59655,8 @@ overcome sciatica achievement arugula earth uranus
 1
 0 0
 2
-0 37 0 18
 0 27 2 0
+0 37 0 18
 1
 end_operator
 begin_operator
@@ -59664,8 +59664,8 @@ overcome sciatica achievement arugula uranus vulcan
 1
 0 0
 2
-0 37 0 18
 0 27 3 2
+0 37 0 18
 1
 end_operator
 begin_operator
@@ -59673,8 +59673,8 @@ overcome sciatica achievement arugula vulcan jupiter
 1
 0 0
 2
-0 37 0 18
 0 27 1 3
+0 37 0 18
 1
 end_operator
 begin_operator
@@ -59682,8 +59682,8 @@ overcome sciatica achievement baguette earth uranus
 1
 0 1
 2
-0 37 1 18
 0 27 2 0
+0 37 1 18
 1
 end_operator
 begin_operator
@@ -59691,8 +59691,8 @@ overcome sciatica achievement baguette uranus vulcan
 1
 0 1
 2
-0 37 1 18
 0 27 3 2
+0 37 1 18
 1
 end_operator
 begin_operator
@@ -59700,8 +59700,8 @@ overcome sciatica achievement baguette vulcan jupiter
 1
 0 1
 2
-0 37 1 18
 0 27 1 3
+0 37 1 18
 1
 end_operator
 begin_operator
@@ -59709,8 +59709,8 @@ overcome sciatica achievement cantelope earth uranus
 1
 0 2
 2
-0 37 2 18
 0 27 2 0
+0 37 2 18
 1
 end_operator
 begin_operator
@@ -59718,8 +59718,8 @@ overcome sciatica achievement cantelope uranus vulcan
 1
 0 2
 2
-0 37 2 18
 0 27 3 2
+0 37 2 18
 1
 end_operator
 begin_operator
@@ -59727,8 +59727,8 @@ overcome sciatica achievement cantelope vulcan jupiter
 1
 0 2
 2
-0 37 2 18
 0 27 1 3
+0 37 2 18
 1
 end_operator
 begin_operator
@@ -59736,8 +59736,8 @@ overcome sciatica achievement flounder earth uranus
 1
 0 3
 2
-0 37 3 18
 0 27 2 0
+0 37 3 18
 1
 end_operator
 begin_operator
@@ -59745,8 +59745,8 @@ overcome sciatica achievement flounder uranus vulcan
 1
 0 3
 2
-0 37 3 18
 0 27 3 2
+0 37 3 18
 1
 end_operator
 begin_operator
@@ -59754,8 +59754,8 @@ overcome sciatica achievement flounder vulcan jupiter
 1
 0 3
 2
-0 37 3 18
 0 27 1 3
+0 37 3 18
 1
 end_operator
 begin_operator
@@ -59763,8 +59763,8 @@ overcome sciatica achievement hotdog earth uranus
 1
 0 4
 2
-0 37 4 18
 0 27 2 0
+0 37 4 18
 1
 end_operator
 begin_operator
@@ -59772,8 +59772,8 @@ overcome sciatica achievement hotdog uranus vulcan
 1
 0 4
 2
-0 37 4 18
 0 27 3 2
+0 37 4 18
 1
 end_operator
 begin_operator
@@ -59781,8 +59781,8 @@ overcome sciatica achievement hotdog vulcan jupiter
 1
 0 4
 2
-0 37 4 18
 0 27 1 3
+0 37 4 18
 1
 end_operator
 begin_operator
@@ -59790,8 +59790,8 @@ overcome sciatica achievement lobster earth uranus
 1
 0 5
 2
-0 37 5 18
 0 27 2 0
+0 37 5 18
 1
 end_operator
 begin_operator
@@ -59799,8 +59799,8 @@ overcome sciatica achievement lobster uranus vulcan
 1
 0 5
 2
-0 37 5 18
 0 27 3 2
+0 37 5 18
 1
 end_operator
 begin_operator
@@ -59808,8 +59808,8 @@ overcome sciatica achievement lobster vulcan jupiter
 1
 0 5
 2
-0 37 5 18
 0 27 1 3
+0 37 5 18
 1
 end_operator
 begin_operator
@@ -59817,8 +59817,8 @@ overcome sciatica achievement muffin earth uranus
 1
 0 6
 2
-0 37 6 18
 0 27 2 0
+0 37 6 18
 1
 end_operator
 begin_operator
@@ -59826,8 +59826,8 @@ overcome sciatica achievement muffin uranus vulcan
 1
 0 6
 2
-0 37 6 18
 0 27 3 2
+0 37 6 18
 1
 end_operator
 begin_operator
@@ -59835,8 +59835,8 @@ overcome sciatica achievement muffin vulcan jupiter
 1
 0 6
 2
-0 37 6 18
 0 27 1 3
+0 37 6 18
 1
 end_operator
 begin_operator
@@ -59844,8 +59844,8 @@ overcome sciatica achievement okra earth uranus
 1
 0 7
 2
-0 37 7 18
 0 27 2 0
+0 37 7 18
 1
 end_operator
 begin_operator
@@ -59853,8 +59853,8 @@ overcome sciatica achievement okra uranus vulcan
 1
 0 7
 2
-0 37 7 18
 0 27 3 2
+0 37 7 18
 1
 end_operator
 begin_operator
@@ -59862,8 +59862,8 @@ overcome sciatica achievement okra vulcan jupiter
 1
 0 7
 2
-0 37 7 18
 0 27 1 3
+0 37 7 18
 1
 end_operator
 begin_operator
@@ -59871,8 +59871,8 @@ overcome sciatica achievement pepper earth uranus
 1
 0 8
 2
-0 37 8 18
 0 27 2 0
+0 37 8 18
 1
 end_operator
 begin_operator
@@ -59880,8 +59880,8 @@ overcome sciatica achievement pepper uranus vulcan
 1
 0 8
 2
-0 37 8 18
 0 27 3 2
+0 37 8 18
 1
 end_operator
 begin_operator
@@ -59889,8 +59889,8 @@ overcome sciatica achievement pepper vulcan jupiter
 1
 0 8
 2
-0 37 8 18
 0 27 1 3
+0 37 8 18
 1
 end_operator
 begin_operator
@@ -59898,8 +59898,8 @@ overcome sciatica achievement pistachio earth uranus
 1
 0 9
 2
-0 37 9 18
 0 27 2 0
+0 37 9 18
 1
 end_operator
 begin_operator
@@ -59907,8 +59907,8 @@ overcome sciatica achievement pistachio uranus vulcan
 1
 0 9
 2
-0 37 9 18
 0 27 3 2
+0 37 9 18
 1
 end_operator
 begin_operator
@@ -59916,8 +59916,8 @@ overcome sciatica achievement pistachio vulcan jupiter
 1
 0 9
 2
-0 37 9 18
 0 27 1 3
+0 37 9 18
 1
 end_operator
 begin_operator
@@ -59925,8 +59925,8 @@ overcome sciatica achievement pork earth uranus
 1
 0 10
 2
-0 37 10 18
 0 27 2 0
+0 37 10 18
 1
 end_operator
 begin_operator
@@ -59934,8 +59934,8 @@ overcome sciatica achievement pork uranus vulcan
 1
 0 10
 2
-0 37 10 18
 0 27 3 2
+0 37 10 18
 1
 end_operator
 begin_operator
@@ -59943,8 +59943,8 @@ overcome sciatica achievement pork vulcan jupiter
 1
 0 10
 2
-0 37 10 18
 0 27 1 3
+0 37 10 18
 1
 end_operator
 begin_operator
@@ -59952,8 +59952,8 @@ overcome sciatica achievement rice earth uranus
 1
 0 11
 2
-0 37 11 18
 0 27 2 0
+0 37 11 18
 1
 end_operator
 begin_operator
@@ -59961,8 +59961,8 @@ overcome sciatica achievement rice uranus vulcan
 1
 0 11
 2
-0 37 11 18
 0 27 3 2
+0 37 11 18
 1
 end_operator
 begin_operator
@@ -59970,8 +59970,8 @@ overcome sciatica achievement rice vulcan jupiter
 1
 0 11
 2
-0 37 11 18
 0 27 1 3
+0 37 11 18
 1
 end_operator
 begin_operator
@@ -59979,8 +59979,8 @@ overcome sciatica achievement scallop earth uranus
 1
 0 12
 2
-0 37 12 18
 0 27 2 0
+0 37 12 18
 1
 end_operator
 begin_operator
@@ -59988,8 +59988,8 @@ overcome sciatica achievement scallop uranus vulcan
 1
 0 12
 2
-0 37 12 18
 0 27 3 2
+0 37 12 18
 1
 end_operator
 begin_operator
@@ -59997,8 +59997,8 @@ overcome sciatica achievement scallop vulcan jupiter
 1
 0 12
 2
-0 37 12 18
 0 27 1 3
+0 37 12 18
 1
 end_operator
 begin_operator
@@ -60006,8 +60006,8 @@ overcome sciatica achievement tofu earth uranus
 1
 0 13
 2
-0 37 13 18
 0 27 2 0
+0 37 13 18
 1
 end_operator
 begin_operator
@@ -60015,8 +60015,8 @@ overcome sciatica achievement tofu uranus vulcan
 1
 0 13
 2
-0 37 13 18
 0 27 3 2
+0 37 13 18
 1
 end_operator
 begin_operator
@@ -60024,8 +60024,8 @@ overcome sciatica achievement tofu vulcan jupiter
 1
 0 13
 2
-0 37 13 18
 0 27 1 3
+0 37 13 18
 1
 end_operator
 begin_operator
@@ -60033,8 +60033,8 @@ overcome sciatica achievement tomato earth uranus
 1
 0 14
 2
-0 37 14 18
 0 27 2 0
+0 37 14 18
 1
 end_operator
 begin_operator
@@ -60042,8 +60042,8 @@ overcome sciatica achievement tomato uranus vulcan
 1
 0 14
 2
-0 37 14 18
 0 27 3 2
+0 37 14 18
 1
 end_operator
 begin_operator
@@ -60051,8 +60051,8 @@ overcome sciatica achievement tomato vulcan jupiter
 1
 0 14
 2
-0 37 14 18
 0 27 1 3
+0 37 14 18
 1
 end_operator
 begin_operator
@@ -60060,8 +60060,8 @@ overcome sciatica achievement tuna earth uranus
 1
 0 15
 2
-0 37 15 18
 0 27 2 0
+0 37 15 18
 1
 end_operator
 begin_operator
@@ -60069,8 +60069,8 @@ overcome sciatica achievement tuna uranus vulcan
 1
 0 15
 2
-0 37 15 18
 0 27 3 2
+0 37 15 18
 1
 end_operator
 begin_operator
@@ -60078,8 +60078,8 @@ overcome sciatica achievement tuna vulcan jupiter
 1
 0 15
 2
-0 37 15 18
 0 27 1 3
+0 37 15 18
 1
 end_operator
 begin_operator
@@ -60087,8 +60087,8 @@ overcome sciatica achievement turkey earth uranus
 1
 0 16
 2
-0 37 16 18
 0 27 2 0
+0 37 16 18
 1
 end_operator
 begin_operator
@@ -60096,8 +60096,8 @@ overcome sciatica achievement turkey uranus vulcan
 1
 0 16
 2
-0 37 16 18
 0 27 3 2
+0 37 16 18
 1
 end_operator
 begin_operator
@@ -60105,8 +60105,8 @@ overcome sciatica achievement turkey vulcan jupiter
 1
 0 16
 2
-0 37 16 18
 0 27 1 3
+0 37 16 18
 1
 end_operator
 begin_operator
@@ -60114,8 +60114,8 @@ overcome sciatica achievement wonderbread earth uranus
 1
 0 17
 2
-0 37 17 18
 0 27 2 0
+0 37 17 18
 1
 end_operator
 begin_operator
@@ -60123,8 +60123,8 @@ overcome sciatica achievement wonderbread uranus vulcan
 1
 0 17
 2
-0 37 17 18
 0 27 3 2
+0 37 17 18
 1
 end_operator
 begin_operator
@@ -60132,8 +60132,8 @@ overcome sciatica achievement wonderbread vulcan jupiter
 1
 0 17
 2
-0 37 17 18
 0 27 1 3
+0 37 17 18
 1
 end_operator
 begin_operator
@@ -60141,8 +60141,8 @@ overcome sciatica aesthetics arugula earth uranus
 1
 1 0
 2
-0 37 0 19
 0 28 2 0
+0 37 0 19
 1
 end_operator
 begin_operator
@@ -60150,8 +60150,8 @@ overcome sciatica aesthetics arugula uranus vulcan
 1
 1 0
 2
-0 37 0 19
 0 28 3 2
+0 37 0 19
 1
 end_operator
 begin_operator
@@ -60159,8 +60159,8 @@ overcome sciatica aesthetics arugula vulcan jupiter
 1
 1 0
 2
-0 37 0 19
 0 28 1 3
+0 37 0 19
 1
 end_operator
 begin_operator
@@ -60168,8 +60168,8 @@ overcome sciatica aesthetics baguette earth uranus
 1
 1 1
 2
-0 37 1 19
 0 28 2 0
+0 37 1 19
 1
 end_operator
 begin_operator
@@ -60177,8 +60177,8 @@ overcome sciatica aesthetics baguette uranus vulcan
 1
 1 1
 2
-0 37 1 19
 0 28 3 2
+0 37 1 19
 1
 end_operator
 begin_operator
@@ -60186,8 +60186,8 @@ overcome sciatica aesthetics baguette vulcan jupiter
 1
 1 1
 2
-0 37 1 19
 0 28 1 3
+0 37 1 19
 1
 end_operator
 begin_operator
@@ -60195,8 +60195,8 @@ overcome sciatica aesthetics cantelope earth uranus
 1
 1 2
 2
-0 37 2 19
 0 28 2 0
+0 37 2 19
 1
 end_operator
 begin_operator
@@ -60204,8 +60204,8 @@ overcome sciatica aesthetics cantelope uranus vulcan
 1
 1 2
 2
-0 37 2 19
 0 28 3 2
+0 37 2 19
 1
 end_operator
 begin_operator
@@ -60213,8 +60213,8 @@ overcome sciatica aesthetics cantelope vulcan jupiter
 1
 1 2
 2
-0 37 2 19
 0 28 1 3
+0 37 2 19
 1
 end_operator
 begin_operator
@@ -60222,8 +60222,8 @@ overcome sciatica aesthetics flounder earth uranus
 1
 1 3
 2
-0 37 3 19
 0 28 2 0
+0 37 3 19
 1
 end_operator
 begin_operator
@@ -60231,8 +60231,8 @@ overcome sciatica aesthetics flounder uranus vulcan
 1
 1 3
 2
-0 37 3 19
 0 28 3 2
+0 37 3 19
 1
 end_operator
 begin_operator
@@ -60240,8 +60240,8 @@ overcome sciatica aesthetics flounder vulcan jupiter
 1
 1 3
 2
-0 37 3 19
 0 28 1 3
+0 37 3 19
 1
 end_operator
 begin_operator
@@ -60249,8 +60249,8 @@ overcome sciatica aesthetics hotdog earth uranus
 1
 1 4
 2
-0 37 4 19
 0 28 2 0
+0 37 4 19
 1
 end_operator
 begin_operator
@@ -60258,8 +60258,8 @@ overcome sciatica aesthetics hotdog uranus vulcan
 1
 1 4
 2
-0 37 4 19
 0 28 3 2
+0 37 4 19
 1
 end_operator
 begin_operator
@@ -60267,8 +60267,8 @@ overcome sciatica aesthetics hotdog vulcan jupiter
 1
 1 4
 2
-0 37 4 19
 0 28 1 3
+0 37 4 19
 1
 end_operator
 begin_operator
@@ -60276,8 +60276,8 @@ overcome sciatica aesthetics lobster earth uranus
 1
 1 5
 2
-0 37 5 19
 0 28 2 0
+0 37 5 19
 1
 end_operator
 begin_operator
@@ -60285,8 +60285,8 @@ overcome sciatica aesthetics lobster uranus vulcan
 1
 1 5
 2
-0 37 5 19
 0 28 3 2
+0 37 5 19
 1
 end_operator
 begin_operator
@@ -60294,8 +60294,8 @@ overcome sciatica aesthetics lobster vulcan jupiter
 1
 1 5
 2
-0 37 5 19
 0 28 1 3
+0 37 5 19
 1
 end_operator
 begin_operator
@@ -60303,8 +60303,8 @@ overcome sciatica aesthetics muffin earth uranus
 1
 1 6
 2
-0 37 6 19
 0 28 2 0
+0 37 6 19
 1
 end_operator
 begin_operator
@@ -60312,8 +60312,8 @@ overcome sciatica aesthetics muffin uranus vulcan
 1
 1 6
 2
-0 37 6 19
 0 28 3 2
+0 37 6 19
 1
 end_operator
 begin_operator
@@ -60321,8 +60321,8 @@ overcome sciatica aesthetics muffin vulcan jupiter
 1
 1 6
 2
-0 37 6 19
 0 28 1 3
+0 37 6 19
 1
 end_operator
 begin_operator
@@ -60330,8 +60330,8 @@ overcome sciatica aesthetics okra earth uranus
 1
 1 7
 2
-0 37 7 19
 0 28 2 0
+0 37 7 19
 1
 end_operator
 begin_operator
@@ -60339,8 +60339,8 @@ overcome sciatica aesthetics okra uranus vulcan
 1
 1 7
 2
-0 37 7 19
 0 28 3 2
+0 37 7 19
 1
 end_operator
 begin_operator
@@ -60348,8 +60348,8 @@ overcome sciatica aesthetics okra vulcan jupiter
 1
 1 7
 2
-0 37 7 19
 0 28 1 3
+0 37 7 19
 1
 end_operator
 begin_operator
@@ -60357,8 +60357,8 @@ overcome sciatica aesthetics pepper earth uranus
 1
 1 8
 2
-0 37 8 19
 0 28 2 0
+0 37 8 19
 1
 end_operator
 begin_operator
@@ -60366,8 +60366,8 @@ overcome sciatica aesthetics pepper uranus vulcan
 1
 1 8
 2
-0 37 8 19
 0 28 3 2
+0 37 8 19
 1
 end_operator
 begin_operator
@@ -60375,8 +60375,8 @@ overcome sciatica aesthetics pepper vulcan jupiter
 1
 1 8
 2
-0 37 8 19
 0 28 1 3
+0 37 8 19
 1
 end_operator
 begin_operator
@@ -60384,8 +60384,8 @@ overcome sciatica aesthetics pistachio earth uranus
 1
 1 9
 2
-0 37 9 19
 0 28 2 0
+0 37 9 19
 1
 end_operator
 begin_operator
@@ -60393,8 +60393,8 @@ overcome sciatica aesthetics pistachio uranus vulcan
 1
 1 9
 2
-0 37 9 19
 0 28 3 2
+0 37 9 19
 1
 end_operator
 begin_operator
@@ -60402,8 +60402,8 @@ overcome sciatica aesthetics pistachio vulcan jupiter
 1
 1 9
 2
-0 37 9 19
 0 28 1 3
+0 37 9 19
 1
 end_operator
 begin_operator
@@ -60411,8 +60411,8 @@ overcome sciatica aesthetics pork earth uranus
 1
 1 10
 2
-0 37 10 19
 0 28 2 0
+0 37 10 19
 1
 end_operator
 begin_operator
@@ -60420,8 +60420,8 @@ overcome sciatica aesthetics pork uranus vulcan
 1
 1 10
 2
-0 37 10 19
 0 28 3 2
+0 37 10 19
 1
 end_operator
 begin_operator
@@ -60429,8 +60429,8 @@ overcome sciatica aesthetics pork vulcan jupiter
 1
 1 10
 2
-0 37 10 19
 0 28 1 3
+0 37 10 19
 1
 end_operator
 begin_operator
@@ -60438,8 +60438,8 @@ overcome sciatica aesthetics rice earth uranus
 1
 1 11
 2
-0 37 11 19
 0 28 2 0
+0 37 11 19
 1
 end_operator
 begin_operator
@@ -60447,8 +60447,8 @@ overcome sciatica aesthetics rice uranus vulcan
 1
 1 11
 2
-0 37 11 19
 0 28 3 2
+0 37 11 19
 1
 end_operator
 begin_operator
@@ -60456,8 +60456,8 @@ overcome sciatica aesthetics rice vulcan jupiter
 1
 1 11
 2
-0 37 11 19
 0 28 1 3
+0 37 11 19
 1
 end_operator
 begin_operator
@@ -60465,8 +60465,8 @@ overcome sciatica aesthetics scallop earth uranus
 1
 1 12
 2
-0 37 12 19
 0 28 2 0
+0 37 12 19
 1
 end_operator
 begin_operator
@@ -60474,8 +60474,8 @@ overcome sciatica aesthetics scallop uranus vulcan
 1
 1 12
 2
-0 37 12 19
 0 28 3 2
+0 37 12 19
 1
 end_operator
 begin_operator
@@ -60483,8 +60483,8 @@ overcome sciatica aesthetics scallop vulcan jupiter
 1
 1 12
 2
-0 37 12 19
 0 28 1 3
+0 37 12 19
 1
 end_operator
 begin_operator
@@ -60492,8 +60492,8 @@ overcome sciatica aesthetics tofu earth uranus
 1
 1 13
 2
-0 37 13 19
 0 28 2 0
+0 37 13 19
 1
 end_operator
 begin_operator
@@ -60501,8 +60501,8 @@ overcome sciatica aesthetics tofu uranus vulcan
 1
 1 13
 2
-0 37 13 19
 0 28 3 2
+0 37 13 19
 1
 end_operator
 begin_operator
@@ -60510,8 +60510,8 @@ overcome sciatica aesthetics tofu vulcan jupiter
 1
 1 13
 2
-0 37 13 19
 0 28 1 3
+0 37 13 19
 1
 end_operator
 begin_operator
@@ -60519,8 +60519,8 @@ overcome sciatica aesthetics tomato earth uranus
 1
 1 14
 2
-0 37 14 19
 0 28 2 0
+0 37 14 19
 1
 end_operator
 begin_operator
@@ -60528,8 +60528,8 @@ overcome sciatica aesthetics tomato uranus vulcan
 1
 1 14
 2
-0 37 14 19
 0 28 3 2
+0 37 14 19
 1
 end_operator
 begin_operator
@@ -60537,8 +60537,8 @@ overcome sciatica aesthetics tomato vulcan jupiter
 1
 1 14
 2
-0 37 14 19
 0 28 1 3
+0 37 14 19
 1
 end_operator
 begin_operator
@@ -60546,8 +60546,8 @@ overcome sciatica aesthetics tuna earth uranus
 1
 1 15
 2
-0 37 15 19
 0 28 2 0
+0 37 15 19
 1
 end_operator
 begin_operator
@@ -60555,8 +60555,8 @@ overcome sciatica aesthetics tuna uranus vulcan
 1
 1 15
 2
-0 37 15 19
 0 28 3 2
+0 37 15 19
 1
 end_operator
 begin_operator
@@ -60564,8 +60564,8 @@ overcome sciatica aesthetics tuna vulcan jupiter
 1
 1 15
 2
-0 37 15 19
 0 28 1 3
+0 37 15 19
 1
 end_operator
 begin_operator
@@ -60573,8 +60573,8 @@ overcome sciatica aesthetics turkey earth uranus
 1
 1 16
 2
-0 37 16 19
 0 28 2 0
+0 37 16 19
 1
 end_operator
 begin_operator
@@ -60582,8 +60582,8 @@ overcome sciatica aesthetics turkey uranus vulcan
 1
 1 16
 2
-0 37 16 19
 0 28 3 2
+0 37 16 19
 1
 end_operator
 begin_operator
@@ -60591,8 +60591,8 @@ overcome sciatica aesthetics turkey vulcan jupiter
 1
 1 16
 2
-0 37 16 19
 0 28 1 3
+0 37 16 19
 1
 end_operator
 begin_operator
@@ -60600,8 +60600,8 @@ overcome sciatica aesthetics wonderbread earth uranus
 1
 1 17
 2
-0 37 17 19
 0 28 2 0
+0 37 17 19
 1
 end_operator
 begin_operator
@@ -60609,8 +60609,8 @@ overcome sciatica aesthetics wonderbread uranus vulcan
 1
 1 17
 2
-0 37 17 19
 0 28 3 2
+0 37 17 19
 1
 end_operator
 begin_operator
@@ -60618,8 +60618,8 @@ overcome sciatica aesthetics wonderbread vulcan jupiter
 1
 1 17
 2
-0 37 17 19
 0 28 1 3
+0 37 17 19
 1
 end_operator
 begin_operator
@@ -60627,8 +60627,8 @@ overcome sciatica excitement arugula earth uranus
 1
 2 0
 2
-0 37 0 20
 0 29 2 0
+0 37 0 20
 1
 end_operator
 begin_operator
@@ -60636,8 +60636,8 @@ overcome sciatica excitement arugula uranus vulcan
 1
 2 0
 2
-0 37 0 20
 0 29 3 2
+0 37 0 20
 1
 end_operator
 begin_operator
@@ -60645,8 +60645,8 @@ overcome sciatica excitement arugula vulcan jupiter
 1
 2 0
 2
-0 37 0 20
 0 29 1 3
+0 37 0 20
 1
 end_operator
 begin_operator
@@ -60654,8 +60654,8 @@ overcome sciatica excitement baguette earth uranus
 1
 2 1
 2
-0 37 1 20
 0 29 2 0
+0 37 1 20
 1
 end_operator
 begin_operator
@@ -60663,8 +60663,8 @@ overcome sciatica excitement baguette uranus vulcan
 1
 2 1
 2
-0 37 1 20
 0 29 3 2
+0 37 1 20
 1
 end_operator
 begin_operator
@@ -60672,8 +60672,8 @@ overcome sciatica excitement baguette vulcan jupiter
 1
 2 1
 2
-0 37 1 20
 0 29 1 3
+0 37 1 20
 1
 end_operator
 begin_operator
@@ -60681,8 +60681,8 @@ overcome sciatica excitement cantelope earth uranus
 1
 2 2
 2
-0 37 2 20
 0 29 2 0
+0 37 2 20
 1
 end_operator
 begin_operator
@@ -60690,8 +60690,8 @@ overcome sciatica excitement cantelope uranus vulcan
 1
 2 2
 2
-0 37 2 20
 0 29 3 2
+0 37 2 20
 1
 end_operator
 begin_operator
@@ -60699,8 +60699,8 @@ overcome sciatica excitement cantelope vulcan jupiter
 1
 2 2
 2
-0 37 2 20
 0 29 1 3
+0 37 2 20
 1
 end_operator
 begin_operator
@@ -60708,8 +60708,8 @@ overcome sciatica excitement flounder earth uranus
 1
 2 3
 2
-0 37 3 20
 0 29 2 0
+0 37 3 20
 1
 end_operator
 begin_operator
@@ -60717,8 +60717,8 @@ overcome sciatica excitement flounder uranus vulcan
 1
 2 3
 2
-0 37 3 20
 0 29 3 2
+0 37 3 20
 1
 end_operator
 begin_operator
@@ -60726,8 +60726,8 @@ overcome sciatica excitement flounder vulcan jupiter
 1
 2 3
 2
-0 37 3 20
 0 29 1 3
+0 37 3 20
 1
 end_operator
 begin_operator
@@ -60735,8 +60735,8 @@ overcome sciatica excitement hotdog earth uranus
 1
 2 4
 2
-0 37 4 20
 0 29 2 0
+0 37 4 20
 1
 end_operator
 begin_operator
@@ -60744,8 +60744,8 @@ overcome sciatica excitement hotdog uranus vulcan
 1
 2 4
 2
-0 37 4 20
 0 29 3 2
+0 37 4 20
 1
 end_operator
 begin_operator
@@ -60753,8 +60753,8 @@ overcome sciatica excitement hotdog vulcan jupiter
 1
 2 4
 2
-0 37 4 20
 0 29 1 3
+0 37 4 20
 1
 end_operator
 begin_operator
@@ -60762,8 +60762,8 @@ overcome sciatica excitement lobster earth uranus
 1
 2 5
 2
-0 37 5 20
 0 29 2 0
+0 37 5 20
 1
 end_operator
 begin_operator
@@ -60771,8 +60771,8 @@ overcome sciatica excitement lobster uranus vulcan
 1
 2 5
 2
-0 37 5 20
 0 29 3 2
+0 37 5 20
 1
 end_operator
 begin_operator
@@ -60780,8 +60780,8 @@ overcome sciatica excitement lobster vulcan jupiter
 1
 2 5
 2
-0 37 5 20
 0 29 1 3
+0 37 5 20
 1
 end_operator
 begin_operator
@@ -60789,8 +60789,8 @@ overcome sciatica excitement muffin earth uranus
 1
 2 6
 2
-0 37 6 20
 0 29 2 0
+0 37 6 20
 1
 end_operator
 begin_operator
@@ -60798,8 +60798,8 @@ overcome sciatica excitement muffin uranus vulcan
 1
 2 6
 2
-0 37 6 20
 0 29 3 2
+0 37 6 20
 1
 end_operator
 begin_operator
@@ -60807,8 +60807,8 @@ overcome sciatica excitement muffin vulcan jupiter
 1
 2 6
 2
-0 37 6 20
 0 29 1 3
+0 37 6 20
 1
 end_operator
 begin_operator
@@ -60816,8 +60816,8 @@ overcome sciatica excitement okra earth uranus
 1
 2 7
 2
-0 37 7 20
 0 29 2 0
+0 37 7 20
 1
 end_operator
 begin_operator
@@ -60825,8 +60825,8 @@ overcome sciatica excitement okra uranus vulcan
 1
 2 7
 2
-0 37 7 20
 0 29 3 2
+0 37 7 20
 1
 end_operator
 begin_operator
@@ -60834,8 +60834,8 @@ overcome sciatica excitement okra vulcan jupiter
 1
 2 7
 2
-0 37 7 20
 0 29 1 3
+0 37 7 20
 1
 end_operator
 begin_operator
@@ -60843,8 +60843,8 @@ overcome sciatica excitement pepper earth uranus
 1
 2 8
 2
-0 37 8 20
 0 29 2 0
+0 37 8 20
 1
 end_operator
 begin_operator
@@ -60852,8 +60852,8 @@ overcome sciatica excitement pepper uranus vulcan
 1
 2 8
 2
-0 37 8 20
 0 29 3 2
+0 37 8 20
 1
 end_operator
 begin_operator
@@ -60861,8 +60861,8 @@ overcome sciatica excitement pepper vulcan jupiter
 1
 2 8
 2
-0 37 8 20
 0 29 1 3
+0 37 8 20
 1
 end_operator
 begin_operator
@@ -60870,8 +60870,8 @@ overcome sciatica excitement pistachio earth uranus
 1
 2 9
 2
-0 37 9 20
 0 29 2 0
+0 37 9 20
 1
 end_operator
 begin_operator
@@ -60879,8 +60879,8 @@ overcome sciatica excitement pistachio uranus vulcan
 1
 2 9
 2
-0 37 9 20
 0 29 3 2
+0 37 9 20
 1
 end_operator
 begin_operator
@@ -60888,8 +60888,8 @@ overcome sciatica excitement pistachio vulcan jupiter
 1
 2 9
 2
-0 37 9 20
 0 29 1 3
+0 37 9 20
 1
 end_operator
 begin_operator
@@ -60897,8 +60897,8 @@ overcome sciatica excitement pork earth uranus
 1
 2 10
 2
-0 37 10 20
 0 29 2 0
+0 37 10 20
 1
 end_operator
 begin_operator
@@ -60906,8 +60906,8 @@ overcome sciatica excitement pork uranus vulcan
 1
 2 10
 2
-0 37 10 20
 0 29 3 2
+0 37 10 20
 1
 end_operator
 begin_operator
@@ -60915,8 +60915,8 @@ overcome sciatica excitement pork vulcan jupiter
 1
 2 10
 2
-0 37 10 20
 0 29 1 3
+0 37 10 20
 1
 end_operator
 begin_operator
@@ -60924,8 +60924,8 @@ overcome sciatica excitement rice earth uranus
 1
 2 11
 2
-0 37 11 20
 0 29 2 0
+0 37 11 20
 1
 end_operator
 begin_operator
@@ -60933,8 +60933,8 @@ overcome sciatica excitement rice uranus vulcan
 1
 2 11
 2
-0 37 11 20
 0 29 3 2
+0 37 11 20
 1
 end_operator
 begin_operator
@@ -60942,8 +60942,8 @@ overcome sciatica excitement rice vulcan jupiter
 1
 2 11
 2
-0 37 11 20
 0 29 1 3
+0 37 11 20
 1
 end_operator
 begin_operator
@@ -60951,8 +60951,8 @@ overcome sciatica excitement scallop earth uranus
 1
 2 12
 2
-0 37 12 20
 0 29 2 0
+0 37 12 20
 1
 end_operator
 begin_operator
@@ -60960,8 +60960,8 @@ overcome sciatica excitement scallop uranus vulcan
 1
 2 12
 2
-0 37 12 20
 0 29 3 2
+0 37 12 20
 1
 end_operator
 begin_operator
@@ -60969,8 +60969,8 @@ overcome sciatica excitement scallop vulcan jupiter
 1
 2 12
 2
-0 37 12 20
 0 29 1 3
+0 37 12 20
 1
 end_operator
 begin_operator
@@ -60978,8 +60978,8 @@ overcome sciatica excitement tofu earth uranus
 1
 2 13
 2
-0 37 13 20
 0 29 2 0
+0 37 13 20
 1
 end_operator
 begin_operator
@@ -60987,8 +60987,8 @@ overcome sciatica excitement tofu uranus vulcan
 1
 2 13
 2
-0 37 13 20
 0 29 3 2
+0 37 13 20
 1
 end_operator
 begin_operator
@@ -60996,8 +60996,8 @@ overcome sciatica excitement tofu vulcan jupiter
 1
 2 13
 2
-0 37 13 20
 0 29 1 3
+0 37 13 20
 1
 end_operator
 begin_operator
@@ -61005,8 +61005,8 @@ overcome sciatica excitement tomato earth uranus
 1
 2 14
 2
-0 37 14 20
 0 29 2 0
+0 37 14 20
 1
 end_operator
 begin_operator
@@ -61014,8 +61014,8 @@ overcome sciatica excitement tomato uranus vulcan
 1
 2 14
 2
-0 37 14 20
 0 29 3 2
+0 37 14 20
 1
 end_operator
 begin_operator
@@ -61023,8 +61023,8 @@ overcome sciatica excitement tomato vulcan jupiter
 1
 2 14
 2
-0 37 14 20
 0 29 1 3
+0 37 14 20
 1
 end_operator
 begin_operator
@@ -61032,8 +61032,8 @@ overcome sciatica excitement tuna earth uranus
 1
 2 15
 2
-0 37 15 20
 0 29 2 0
+0 37 15 20
 1
 end_operator
 begin_operator
@@ -61041,8 +61041,8 @@ overcome sciatica excitement tuna uranus vulcan
 1
 2 15
 2
-0 37 15 20
 0 29 3 2
+0 37 15 20
 1
 end_operator
 begin_operator
@@ -61050,8 +61050,8 @@ overcome sciatica excitement tuna vulcan jupiter
 1
 2 15
 2
-0 37 15 20
 0 29 1 3
+0 37 15 20
 1
 end_operator
 begin_operator
@@ -61059,8 +61059,8 @@ overcome sciatica excitement turkey earth uranus
 1
 2 16
 2
-0 37 16 20
 0 29 2 0
+0 37 16 20
 1
 end_operator
 begin_operator
@@ -61068,8 +61068,8 @@ overcome sciatica excitement turkey uranus vulcan
 1
 2 16
 2
-0 37 16 20
 0 29 3 2
+0 37 16 20
 1
 end_operator
 begin_operator
@@ -61077,8 +61077,8 @@ overcome sciatica excitement turkey vulcan jupiter
 1
 2 16
 2
-0 37 16 20
 0 29 1 3
+0 37 16 20
 1
 end_operator
 begin_operator
@@ -61086,8 +61086,8 @@ overcome sciatica excitement wonderbread earth uranus
 1
 2 17
 2
-0 37 17 20
 0 29 2 0
+0 37 17 20
 1
 end_operator
 begin_operator
@@ -61095,8 +61095,8 @@ overcome sciatica excitement wonderbread uranus vulcan
 1
 2 17
 2
-0 37 17 20
 0 29 3 2
+0 37 17 20
 1
 end_operator
 begin_operator
@@ -61104,8 +61104,8 @@ overcome sciatica excitement wonderbread vulcan jupiter
 1
 2 17
 2
-0 37 17 20
 0 29 1 3
+0 37 17 20
 1
 end_operator
 begin_operator
@@ -61113,8 +61113,8 @@ overcome sciatica learning arugula earth uranus
 1
 3 0
 2
-0 37 0 21
 0 30 2 0
+0 37 0 21
 1
 end_operator
 begin_operator
@@ -61122,8 +61122,8 @@ overcome sciatica learning arugula uranus vulcan
 1
 3 0
 2
-0 37 0 21
 0 30 3 2
+0 37 0 21
 1
 end_operator
 begin_operator
@@ -61131,8 +61131,8 @@ overcome sciatica learning arugula vulcan jupiter
 1
 3 0
 2
-0 37 0 21
 0 30 1 3
+0 37 0 21
 1
 end_operator
 begin_operator
@@ -61140,8 +61140,8 @@ overcome sciatica learning baguette earth uranus
 1
 3 1
 2
-0 37 1 21
 0 30 2 0
+0 37 1 21
 1
 end_operator
 begin_operator
@@ -61149,8 +61149,8 @@ overcome sciatica learning baguette uranus vulcan
 1
 3 1
 2
-0 37 1 21
 0 30 3 2
+0 37 1 21
 1
 end_operator
 begin_operator
@@ -61158,8 +61158,8 @@ overcome sciatica learning baguette vulcan jupiter
 1
 3 1
 2
-0 37 1 21
 0 30 1 3
+0 37 1 21
 1
 end_operator
 begin_operator
@@ -61167,8 +61167,8 @@ overcome sciatica learning cantelope earth uranus
 1
 3 2
 2
-0 37 2 21
 0 30 2 0
+0 37 2 21
 1
 end_operator
 begin_operator
@@ -61176,8 +61176,8 @@ overcome sciatica learning cantelope uranus vulcan
 1
 3 2
 2
-0 37 2 21
 0 30 3 2
+0 37 2 21
 1
 end_operator
 begin_operator
@@ -61185,8 +61185,8 @@ overcome sciatica learning cantelope vulcan jupiter
 1
 3 2
 2
-0 37 2 21
 0 30 1 3
+0 37 2 21
 1
 end_operator
 begin_operator
@@ -61194,8 +61194,8 @@ overcome sciatica learning flounder earth uranus
 1
 3 3
 2
-0 37 3 21
 0 30 2 0
+0 37 3 21
 1
 end_operator
 begin_operator
@@ -61203,8 +61203,8 @@ overcome sciatica learning flounder uranus vulcan
 1
 3 3
 2
-0 37 3 21
 0 30 3 2
+0 37 3 21
 1
 end_operator
 begin_operator
@@ -61212,8 +61212,8 @@ overcome sciatica learning flounder vulcan jupiter
 1
 3 3
 2
-0 37 3 21
 0 30 1 3
+0 37 3 21
 1
 end_operator
 begin_operator
@@ -61221,8 +61221,8 @@ overcome sciatica learning hotdog earth uranus
 1
 3 4
 2
-0 37 4 21
 0 30 2 0
+0 37 4 21
 1
 end_operator
 begin_operator
@@ -61230,8 +61230,8 @@ overcome sciatica learning hotdog uranus vulcan
 1
 3 4
 2
-0 37 4 21
 0 30 3 2
+0 37 4 21
 1
 end_operator
 begin_operator
@@ -61239,8 +61239,8 @@ overcome sciatica learning hotdog vulcan jupiter
 1
 3 4
 2
-0 37 4 21
 0 30 1 3
+0 37 4 21
 1
 end_operator
 begin_operator
@@ -61248,8 +61248,8 @@ overcome sciatica learning lobster earth uranus
 1
 3 5
 2
-0 37 5 21
 0 30 2 0
+0 37 5 21
 1
 end_operator
 begin_operator
@@ -61257,8 +61257,8 @@ overcome sciatica learning lobster uranus vulcan
 1
 3 5
 2
-0 37 5 21
 0 30 3 2
+0 37 5 21
 1
 end_operator
 begin_operator
@@ -61266,8 +61266,8 @@ overcome sciatica learning lobster vulcan jupiter
 1
 3 5
 2
-0 37 5 21
 0 30 1 3
+0 37 5 21
 1
 end_operator
 begin_operator
@@ -61275,8 +61275,8 @@ overcome sciatica learning muffin earth uranus
 1
 3 6
 2
-0 37 6 21
 0 30 2 0
+0 37 6 21
 1
 end_operator
 begin_operator
@@ -61284,8 +61284,8 @@ overcome sciatica learning muffin uranus vulcan
 1
 3 6
 2
-0 37 6 21
 0 30 3 2
+0 37 6 21
 1
 end_operator
 begin_operator
@@ -61293,8 +61293,8 @@ overcome sciatica learning muffin vulcan jupiter
 1
 3 6
 2
-0 37 6 21
 0 30 1 3
+0 37 6 21
 1
 end_operator
 begin_operator
@@ -61302,8 +61302,8 @@ overcome sciatica learning okra earth uranus
 1
 3 7
 2
-0 37 7 21
 0 30 2 0
+0 37 7 21
 1
 end_operator
 begin_operator
@@ -61311,8 +61311,8 @@ overcome sciatica learning okra uranus vulcan
 1
 3 7
 2
-0 37 7 21
 0 30 3 2
+0 37 7 21
 1
 end_operator
 begin_operator
@@ -61320,8 +61320,8 @@ overcome sciatica learning okra vulcan jupiter
 1
 3 7
 2
-0 37 7 21
 0 30 1 3
+0 37 7 21
 1
 end_operator
 begin_operator
@@ -61329,8 +61329,8 @@ overcome sciatica learning pepper earth uranus
 1
 3 8
 2
-0 37 8 21
 0 30 2 0
+0 37 8 21
 1
 end_operator
 begin_operator
@@ -61338,8 +61338,8 @@ overcome sciatica learning pepper uranus vulcan
 1
 3 8
 2
-0 37 8 21
 0 30 3 2
+0 37 8 21
 1
 end_operator
 begin_operator
@@ -61347,8 +61347,8 @@ overcome sciatica learning pepper vulcan jupiter
 1
 3 8
 2
-0 37 8 21
 0 30 1 3
+0 37 8 21
 1
 end_operator
 begin_operator
@@ -61356,8 +61356,8 @@ overcome sciatica learning pistachio earth uranus
 1
 3 9
 2
-0 37 9 21
 0 30 2 0
+0 37 9 21
 1
 end_operator
 begin_operator
@@ -61365,8 +61365,8 @@ overcome sciatica learning pistachio uranus vulcan
 1
 3 9
 2
-0 37 9 21
 0 30 3 2
+0 37 9 21
 1
 end_operator
 begin_operator
@@ -61374,8 +61374,8 @@ overcome sciatica learning pistachio vulcan jupiter
 1
 3 9
 2
-0 37 9 21
 0 30 1 3
+0 37 9 21
 1
 end_operator
 begin_operator
@@ -61383,8 +61383,8 @@ overcome sciatica learning pork earth uranus
 1
 3 10
 2
-0 37 10 21
 0 30 2 0
+0 37 10 21
 1
 end_operator
 begin_operator
@@ -61392,8 +61392,8 @@ overcome sciatica learning pork uranus vulcan
 1
 3 10
 2
-0 37 10 21
 0 30 3 2
+0 37 10 21
 1
 end_operator
 begin_operator
@@ -61401,8 +61401,8 @@ overcome sciatica learning pork vulcan jupiter
 1
 3 10
 2
-0 37 10 21
 0 30 1 3
+0 37 10 21
 1
 end_operator
 begin_operator
@@ -61410,8 +61410,8 @@ overcome sciatica learning rice earth uranus
 1
 3 11
 2
-0 37 11 21
 0 30 2 0
+0 37 11 21
 1
 end_operator
 begin_operator
@@ -61419,8 +61419,8 @@ overcome sciatica learning rice uranus vulcan
 1
 3 11
 2
-0 37 11 21
 0 30 3 2
+0 37 11 21
 1
 end_operator
 begin_operator
@@ -61428,8 +61428,8 @@ overcome sciatica learning rice vulcan jupiter
 1
 3 11
 2
-0 37 11 21
 0 30 1 3
+0 37 11 21
 1
 end_operator
 begin_operator
@@ -61437,8 +61437,8 @@ overcome sciatica learning scallop earth uranus
 1
 3 12
 2
-0 37 12 21
 0 30 2 0
+0 37 12 21
 1
 end_operator
 begin_operator
@@ -61446,8 +61446,8 @@ overcome sciatica learning scallop uranus vulcan
 1
 3 12
 2
-0 37 12 21
 0 30 3 2
+0 37 12 21
 1
 end_operator
 begin_operator
@@ -61455,8 +61455,8 @@ overcome sciatica learning scallop vulcan jupiter
 1
 3 12
 2
-0 37 12 21
 0 30 1 3
+0 37 12 21
 1
 end_operator
 begin_operator
@@ -61464,8 +61464,8 @@ overcome sciatica learning tofu earth uranus
 1
 3 13
 2
-0 37 13 21
 0 30 2 0
+0 37 13 21
 1
 end_operator
 begin_operator
@@ -61473,8 +61473,8 @@ overcome sciatica learning tofu uranus vulcan
 1
 3 13
 2
-0 37 13 21
 0 30 3 2
+0 37 13 21
 1
 end_operator
 begin_operator
@@ -61482,8 +61482,8 @@ overcome sciatica learning tofu vulcan jupiter
 1
 3 13
 2
-0 37 13 21
 0 30 1 3
+0 37 13 21
 1
 end_operator
 begin_operator
@@ -61491,8 +61491,8 @@ overcome sciatica learning tomato earth uranus
 1
 3 14
 2
-0 37 14 21
 0 30 2 0
+0 37 14 21
 1
 end_operator
 begin_operator
@@ -61500,8 +61500,8 @@ overcome sciatica learning tomato uranus vulcan
 1
 3 14
 2
-0 37 14 21
 0 30 3 2
+0 37 14 21
 1
 end_operator
 begin_operator
@@ -61509,8 +61509,8 @@ overcome sciatica learning tomato vulcan jupiter
 1
 3 14
 2
-0 37 14 21
 0 30 1 3
+0 37 14 21
 1
 end_operator
 begin_operator
@@ -61518,8 +61518,8 @@ overcome sciatica learning tuna earth uranus
 1
 3 15
 2
-0 37 15 21
 0 30 2 0
+0 37 15 21
 1
 end_operator
 begin_operator
@@ -61527,8 +61527,8 @@ overcome sciatica learning tuna uranus vulcan
 1
 3 15
 2
-0 37 15 21
 0 30 3 2
+0 37 15 21
 1
 end_operator
 begin_operator
@@ -61536,8 +61536,8 @@ overcome sciatica learning tuna vulcan jupiter
 1
 3 15
 2
-0 37 15 21
 0 30 1 3
+0 37 15 21
 1
 end_operator
 begin_operator
@@ -61545,8 +61545,8 @@ overcome sciatica learning turkey earth uranus
 1
 3 16
 2
-0 37 16 21
 0 30 2 0
+0 37 16 21
 1
 end_operator
 begin_operator
@@ -61554,8 +61554,8 @@ overcome sciatica learning turkey uranus vulcan
 1
 3 16
 2
-0 37 16 21
 0 30 3 2
+0 37 16 21
 1
 end_operator
 begin_operator
@@ -61563,8 +61563,8 @@ overcome sciatica learning turkey vulcan jupiter
 1
 3 16
 2
-0 37 16 21
 0 30 1 3
+0 37 16 21
 1
 end_operator
 begin_operator
@@ -61572,8 +61572,8 @@ overcome sciatica learning wonderbread earth uranus
 1
 3 17
 2
-0 37 17 21
 0 30 2 0
+0 37 17 21
 1
 end_operator
 begin_operator
@@ -61581,8 +61581,8 @@ overcome sciatica learning wonderbread uranus vulcan
 1
 3 17
 2
-0 37 17 21
 0 30 3 2
+0 37 17 21
 1
 end_operator
 begin_operator
@@ -61590,8 +61590,8 @@ overcome sciatica learning wonderbread vulcan jupiter
 1
 3 17
 2
-0 37 17 21
 0 30 1 3
+0 37 17 21
 1
 end_operator
 begin_operator
@@ -61599,8 +61599,8 @@ overcome sciatica love arugula earth uranus
 1
 4 0
 2
-0 37 0 22
 0 31 2 0
+0 37 0 22
 1
 end_operator
 begin_operator
@@ -61608,8 +61608,8 @@ overcome sciatica love arugula uranus vulcan
 1
 4 0
 2
-0 37 0 22
 0 31 3 2
+0 37 0 22
 1
 end_operator
 begin_operator
@@ -61617,8 +61617,8 @@ overcome sciatica love arugula vulcan jupiter
 1
 4 0
 2
-0 37 0 22
 0 31 1 3
+0 37 0 22
 1
 end_operator
 begin_operator
@@ -61626,8 +61626,8 @@ overcome sciatica love baguette earth uranus
 1
 4 1
 2
-0 37 1 22
 0 31 2 0
+0 37 1 22
 1
 end_operator
 begin_operator
@@ -61635,8 +61635,8 @@ overcome sciatica love baguette uranus vulcan
 1
 4 1
 2
-0 37 1 22
 0 31 3 2
+0 37 1 22
 1
 end_operator
 begin_operator
@@ -61644,8 +61644,8 @@ overcome sciatica love baguette vulcan jupiter
 1
 4 1
 2
-0 37 1 22
 0 31 1 3
+0 37 1 22
 1
 end_operator
 begin_operator
@@ -61653,8 +61653,8 @@ overcome sciatica love cantelope earth uranus
 1
 4 2
 2
-0 37 2 22
 0 31 2 0
+0 37 2 22
 1
 end_operator
 begin_operator
@@ -61662,8 +61662,8 @@ overcome sciatica love cantelope uranus vulcan
 1
 4 2
 2
-0 37 2 22
 0 31 3 2
+0 37 2 22
 1
 end_operator
 begin_operator
@@ -61671,8 +61671,8 @@ overcome sciatica love cantelope vulcan jupiter
 1
 4 2
 2
-0 37 2 22
 0 31 1 3
+0 37 2 22
 1
 end_operator
 begin_operator
@@ -61680,8 +61680,8 @@ overcome sciatica love flounder earth uranus
 1
 4 3
 2
-0 37 3 22
 0 31 2 0
+0 37 3 22
 1
 end_operator
 begin_operator
@@ -61689,8 +61689,8 @@ overcome sciatica love flounder uranus vulcan
 1
 4 3
 2
-0 37 3 22
 0 31 3 2
+0 37 3 22
 1
 end_operator
 begin_operator
@@ -61698,8 +61698,8 @@ overcome sciatica love flounder vulcan jupiter
 1
 4 3
 2
-0 37 3 22
 0 31 1 3
+0 37 3 22
 1
 end_operator
 begin_operator
@@ -61707,8 +61707,8 @@ overcome sciatica love hotdog earth uranus
 1
 4 4
 2
-0 37 4 22
 0 31 2 0
+0 37 4 22
 1
 end_operator
 begin_operator
@@ -61716,8 +61716,8 @@ overcome sciatica love hotdog uranus vulcan
 1
 4 4
 2
-0 37 4 22
 0 31 3 2
+0 37 4 22
 1
 end_operator
 begin_operator
@@ -61725,8 +61725,8 @@ overcome sciatica love hotdog vulcan jupiter
 1
 4 4
 2
-0 37 4 22
 0 31 1 3
+0 37 4 22
 1
 end_operator
 begin_operator
@@ -61734,8 +61734,8 @@ overcome sciatica love lobster earth uranus
 1
 4 5
 2
-0 37 5 22
 0 31 2 0
+0 37 5 22
 1
 end_operator
 begin_operator
@@ -61743,8 +61743,8 @@ overcome sciatica love lobster uranus vulcan
 1
 4 5
 2
-0 37 5 22
 0 31 3 2
+0 37 5 22
 1
 end_operator
 begin_operator
@@ -61752,8 +61752,8 @@ overcome sciatica love lobster vulcan jupiter
 1
 4 5
 2
-0 37 5 22
 0 31 1 3
+0 37 5 22
 1
 end_operator
 begin_operator
@@ -61761,8 +61761,8 @@ overcome sciatica love muffin earth uranus
 1
 4 6
 2
-0 37 6 22
 0 31 2 0
+0 37 6 22
 1
 end_operator
 begin_operator
@@ -61770,8 +61770,8 @@ overcome sciatica love muffin uranus vulcan
 1
 4 6
 2
-0 37 6 22
 0 31 3 2
+0 37 6 22
 1
 end_operator
 begin_operator
@@ -61779,8 +61779,8 @@ overcome sciatica love muffin vulcan jupiter
 1
 4 6
 2
-0 37 6 22
 0 31 1 3
+0 37 6 22
 1
 end_operator
 begin_operator
@@ -61788,8 +61788,8 @@ overcome sciatica love okra earth uranus
 1
 4 7
 2
-0 37 7 22
 0 31 2 0
+0 37 7 22
 1
 end_operator
 begin_operator
@@ -61797,8 +61797,8 @@ overcome sciatica love okra uranus vulcan
 1
 4 7
 2
-0 37 7 22
 0 31 3 2
+0 37 7 22
 1
 end_operator
 begin_operator
@@ -61806,8 +61806,8 @@ overcome sciatica love okra vulcan jupiter
 1
 4 7
 2
-0 37 7 22
 0 31 1 3
+0 37 7 22
 1
 end_operator
 begin_operator
@@ -61815,8 +61815,8 @@ overcome sciatica love pepper earth uranus
 1
 4 8
 2
-0 37 8 22
 0 31 2 0
+0 37 8 22
 1
 end_operator
 begin_operator
@@ -61824,8 +61824,8 @@ overcome sciatica love pepper uranus vulcan
 1
 4 8
 2
-0 37 8 22
 0 31 3 2
+0 37 8 22
 1
 end_operator
 begin_operator
@@ -61833,8 +61833,8 @@ overcome sciatica love pepper vulcan jupiter
 1
 4 8
 2
-0 37 8 22
 0 31 1 3
+0 37 8 22
 1
 end_operator
 begin_operator
@@ -61842,8 +61842,8 @@ overcome sciatica love pistachio earth uranus
 1
 4 9
 2
-0 37 9 22
 0 31 2 0
+0 37 9 22
 1
 end_operator
 begin_operator
@@ -61851,8 +61851,8 @@ overcome sciatica love pistachio uranus vulcan
 1
 4 9
 2
-0 37 9 22
 0 31 3 2
+0 37 9 22
 1
 end_operator
 begin_operator
@@ -61860,8 +61860,8 @@ overcome sciatica love pistachio vulcan jupiter
 1
 4 9
 2
-0 37 9 22
 0 31 1 3
+0 37 9 22
 1
 end_operator
 begin_operator
@@ -61869,8 +61869,8 @@ overcome sciatica love pork earth uranus
 1
 4 10
 2
-0 37 10 22
 0 31 2 0
+0 37 10 22
 1
 end_operator
 begin_operator
@@ -61878,8 +61878,8 @@ overcome sciatica love pork uranus vulcan
 1
 4 10
 2
-0 37 10 22
 0 31 3 2
+0 37 10 22
 1
 end_operator
 begin_operator
@@ -61887,8 +61887,8 @@ overcome sciatica love pork vulcan jupiter
 1
 4 10
 2
-0 37 10 22
 0 31 1 3
+0 37 10 22
 1
 end_operator
 begin_operator
@@ -61896,8 +61896,8 @@ overcome sciatica love rice earth uranus
 1
 4 11
 2
-0 37 11 22
 0 31 2 0
+0 37 11 22
 1
 end_operator
 begin_operator
@@ -61905,8 +61905,8 @@ overcome sciatica love rice uranus vulcan
 1
 4 11
 2
-0 37 11 22
 0 31 3 2
+0 37 11 22
 1
 end_operator
 begin_operator
@@ -61914,8 +61914,8 @@ overcome sciatica love rice vulcan jupiter
 1
 4 11
 2
-0 37 11 22
 0 31 1 3
+0 37 11 22
 1
 end_operator
 begin_operator
@@ -61923,8 +61923,8 @@ overcome sciatica love scallop earth uranus
 1
 4 12
 2
-0 37 12 22
 0 31 2 0
+0 37 12 22
 1
 end_operator
 begin_operator
@@ -61932,8 +61932,8 @@ overcome sciatica love scallop uranus vulcan
 1
 4 12
 2
-0 37 12 22
 0 31 3 2
+0 37 12 22
 1
 end_operator
 begin_operator
@@ -61941,8 +61941,8 @@ overcome sciatica love scallop vulcan jupiter
 1
 4 12
 2
-0 37 12 22
 0 31 1 3
+0 37 12 22
 1
 end_operator
 begin_operator
@@ -61950,8 +61950,8 @@ overcome sciatica love tofu earth uranus
 1
 4 13
 2
-0 37 13 22
 0 31 2 0
+0 37 13 22
 1
 end_operator
 begin_operator
@@ -61959,8 +61959,8 @@ overcome sciatica love tofu uranus vulcan
 1
 4 13
 2
-0 37 13 22
 0 31 3 2
+0 37 13 22
 1
 end_operator
 begin_operator
@@ -61968,8 +61968,8 @@ overcome sciatica love tofu vulcan jupiter
 1
 4 13
 2
-0 37 13 22
 0 31 1 3
+0 37 13 22
 1
 end_operator
 begin_operator
@@ -61977,8 +61977,8 @@ overcome sciatica love tomato earth uranus
 1
 4 14
 2
-0 37 14 22
 0 31 2 0
+0 37 14 22
 1
 end_operator
 begin_operator
@@ -61986,8 +61986,8 @@ overcome sciatica love tomato uranus vulcan
 1
 4 14
 2
-0 37 14 22
 0 31 3 2
+0 37 14 22
 1
 end_operator
 begin_operator
@@ -61995,8 +61995,8 @@ overcome sciatica love tomato vulcan jupiter
 1
 4 14
 2
-0 37 14 22
 0 31 1 3
+0 37 14 22
 1
 end_operator
 begin_operator
@@ -62004,8 +62004,8 @@ overcome sciatica love tuna earth uranus
 1
 4 15
 2
-0 37 15 22
 0 31 2 0
+0 37 15 22
 1
 end_operator
 begin_operator
@@ -62013,8 +62013,8 @@ overcome sciatica love tuna uranus vulcan
 1
 4 15
 2
-0 37 15 22
 0 31 3 2
+0 37 15 22
 1
 end_operator
 begin_operator
@@ -62022,8 +62022,8 @@ overcome sciatica love tuna vulcan jupiter
 1
 4 15
 2
-0 37 15 22
 0 31 1 3
+0 37 15 22
 1
 end_operator
 begin_operator
@@ -62031,8 +62031,8 @@ overcome sciatica love turkey earth uranus
 1
 4 16
 2
-0 37 16 22
 0 31 2 0
+0 37 16 22
 1
 end_operator
 begin_operator
@@ -62040,8 +62040,8 @@ overcome sciatica love turkey uranus vulcan
 1
 4 16
 2
-0 37 16 22
 0 31 3 2
+0 37 16 22
 1
 end_operator
 begin_operator
@@ -62049,8 +62049,8 @@ overcome sciatica love turkey vulcan jupiter
 1
 4 16
 2
-0 37 16 22
 0 31 1 3
+0 37 16 22
 1
 end_operator
 begin_operator
@@ -62058,8 +62058,8 @@ overcome sciatica love wonderbread earth uranus
 1
 4 17
 2
-0 37 17 22
 0 31 2 0
+0 37 17 22
 1
 end_operator
 begin_operator
@@ -62067,8 +62067,8 @@ overcome sciatica love wonderbread uranus vulcan
 1
 4 17
 2
-0 37 17 22
 0 31 3 2
+0 37 17 22
 1
 end_operator
 begin_operator
@@ -62076,8 +62076,8 @@ overcome sciatica love wonderbread vulcan jupiter
 1
 4 17
 2
-0 37 17 22
 0 31 1 3
+0 37 17 22
 1
 end_operator
 begin_operator
@@ -62085,8 +62085,8 @@ overcome sciatica lubricity arugula earth uranus
 1
 5 0
 2
-0 37 0 23
 0 34 2 0
+0 37 0 23
 1
 end_operator
 begin_operator
@@ -62094,8 +62094,8 @@ overcome sciatica lubricity arugula uranus vulcan
 1
 5 0
 2
-0 37 0 23
 0 34 3 2
+0 37 0 23
 1
 end_operator
 begin_operator
@@ -62103,8 +62103,8 @@ overcome sciatica lubricity arugula vulcan jupiter
 1
 5 0
 2
-0 37 0 23
 0 34 1 3
+0 37 0 23
 1
 end_operator
 begin_operator
@@ -62112,8 +62112,8 @@ overcome sciatica lubricity baguette earth uranus
 1
 5 1
 2
-0 37 1 23
 0 34 2 0
+0 37 1 23
 1
 end_operator
 begin_operator
@@ -62121,8 +62121,8 @@ overcome sciatica lubricity baguette uranus vulcan
 1
 5 1
 2
-0 37 1 23
 0 34 3 2
+0 37 1 23
 1
 end_operator
 begin_operator
@@ -62130,8 +62130,8 @@ overcome sciatica lubricity baguette vulcan jupiter
 1
 5 1
 2
-0 37 1 23
 0 34 1 3
+0 37 1 23
 1
 end_operator
 begin_operator
@@ -62139,8 +62139,8 @@ overcome sciatica lubricity cantelope earth uranus
 1
 5 2
 2
-0 37 2 23
 0 34 2 0
+0 37 2 23
 1
 end_operator
 begin_operator
@@ -62148,8 +62148,8 @@ overcome sciatica lubricity cantelope uranus vulcan
 1
 5 2
 2
-0 37 2 23
 0 34 3 2
+0 37 2 23
 1
 end_operator
 begin_operator
@@ -62157,8 +62157,8 @@ overcome sciatica lubricity cantelope vulcan jupiter
 1
 5 2
 2
-0 37 2 23
 0 34 1 3
+0 37 2 23
 1
 end_operator
 begin_operator
@@ -62166,8 +62166,8 @@ overcome sciatica lubricity flounder earth uranus
 1
 5 3
 2
-0 37 3 23
 0 34 2 0
+0 37 3 23
 1
 end_operator
 begin_operator
@@ -62175,8 +62175,8 @@ overcome sciatica lubricity flounder uranus vulcan
 1
 5 3
 2
-0 37 3 23
 0 34 3 2
+0 37 3 23
 1
 end_operator
 begin_operator
@@ -62184,8 +62184,8 @@ overcome sciatica lubricity flounder vulcan jupiter
 1
 5 3
 2
-0 37 3 23
 0 34 1 3
+0 37 3 23
 1
 end_operator
 begin_operator
@@ -62193,8 +62193,8 @@ overcome sciatica lubricity hotdog earth uranus
 1
 5 4
 2
-0 37 4 23
 0 34 2 0
+0 37 4 23
 1
 end_operator
 begin_operator
@@ -62202,8 +62202,8 @@ overcome sciatica lubricity hotdog uranus vulcan
 1
 5 4
 2
-0 37 4 23
 0 34 3 2
+0 37 4 23
 1
 end_operator
 begin_operator
@@ -62211,8 +62211,8 @@ overcome sciatica lubricity hotdog vulcan jupiter
 1
 5 4
 2
-0 37 4 23
 0 34 1 3
+0 37 4 23
 1
 end_operator
 begin_operator
@@ -62220,8 +62220,8 @@ overcome sciatica lubricity lobster earth uranus
 1
 5 5
 2
-0 37 5 23
 0 34 2 0
+0 37 5 23
 1
 end_operator
 begin_operator
@@ -62229,8 +62229,8 @@ overcome sciatica lubricity lobster uranus vulcan
 1
 5 5
 2
-0 37 5 23
 0 34 3 2
+0 37 5 23
 1
 end_operator
 begin_operator
@@ -62238,8 +62238,8 @@ overcome sciatica lubricity lobster vulcan jupiter
 1
 5 5
 2
-0 37 5 23
 0 34 1 3
+0 37 5 23
 1
 end_operator
 begin_operator
@@ -62247,8 +62247,8 @@ overcome sciatica lubricity muffin earth uranus
 1
 5 6
 2
-0 37 6 23
 0 34 2 0
+0 37 6 23
 1
 end_operator
 begin_operator
@@ -62256,8 +62256,8 @@ overcome sciatica lubricity muffin uranus vulcan
 1
 5 6
 2
-0 37 6 23
 0 34 3 2
+0 37 6 23
 1
 end_operator
 begin_operator
@@ -62265,8 +62265,8 @@ overcome sciatica lubricity muffin vulcan jupiter
 1
 5 6
 2
-0 37 6 23
 0 34 1 3
+0 37 6 23
 1
 end_operator
 begin_operator
@@ -62274,8 +62274,8 @@ overcome sciatica lubricity okra earth uranus
 1
 5 7
 2
-0 37 7 23
 0 34 2 0
+0 37 7 23
 1
 end_operator
 begin_operator
@@ -62283,8 +62283,8 @@ overcome sciatica lubricity okra uranus vulcan
 1
 5 7
 2
-0 37 7 23
 0 34 3 2
+0 37 7 23
 1
 end_operator
 begin_operator
@@ -62292,8 +62292,8 @@ overcome sciatica lubricity okra vulcan jupiter
 1
 5 7
 2
-0 37 7 23
 0 34 1 3
+0 37 7 23
 1
 end_operator
 begin_operator
@@ -62301,8 +62301,8 @@ overcome sciatica lubricity pepper earth uranus
 1
 5 8
 2
-0 37 8 23
 0 34 2 0
+0 37 8 23
 1
 end_operator
 begin_operator
@@ -62310,8 +62310,8 @@ overcome sciatica lubricity pepper uranus vulcan
 1
 5 8
 2
-0 37 8 23
 0 34 3 2
+0 37 8 23
 1
 end_operator
 begin_operator
@@ -62319,8 +62319,8 @@ overcome sciatica lubricity pepper vulcan jupiter
 1
 5 8
 2
-0 37 8 23
 0 34 1 3
+0 37 8 23
 1
 end_operator
 begin_operator
@@ -62328,8 +62328,8 @@ overcome sciatica lubricity pistachio earth uranus
 1
 5 9
 2
-0 37 9 23
 0 34 2 0
+0 37 9 23
 1
 end_operator
 begin_operator
@@ -62337,8 +62337,8 @@ overcome sciatica lubricity pistachio uranus vulcan
 1
 5 9
 2
-0 37 9 23
 0 34 3 2
+0 37 9 23
 1
 end_operator
 begin_operator
@@ -62346,8 +62346,8 @@ overcome sciatica lubricity pistachio vulcan jupiter
 1
 5 9
 2
-0 37 9 23
 0 34 1 3
+0 37 9 23
 1
 end_operator
 begin_operator
@@ -62355,8 +62355,8 @@ overcome sciatica lubricity pork earth uranus
 1
 5 10
 2
-0 37 10 23
 0 34 2 0
+0 37 10 23
 1
 end_operator
 begin_operator
@@ -62364,8 +62364,8 @@ overcome sciatica lubricity pork uranus vulcan
 1
 5 10
 2
-0 37 10 23
 0 34 3 2
+0 37 10 23
 1
 end_operator
 begin_operator
@@ -62373,8 +62373,8 @@ overcome sciatica lubricity pork vulcan jupiter
 1
 5 10
 2
-0 37 10 23
 0 34 1 3
+0 37 10 23
 1
 end_operator
 begin_operator
@@ -62382,8 +62382,8 @@ overcome sciatica lubricity rice earth uranus
 1
 5 11
 2
-0 37 11 23
 0 34 2 0
+0 37 11 23
 1
 end_operator
 begin_operator
@@ -62391,8 +62391,8 @@ overcome sciatica lubricity rice uranus vulcan
 1
 5 11
 2
-0 37 11 23
 0 34 3 2
+0 37 11 23
 1
 end_operator
 begin_operator
@@ -62400,8 +62400,8 @@ overcome sciatica lubricity rice vulcan jupiter
 1
 5 11
 2
-0 37 11 23
 0 34 1 3
+0 37 11 23
 1
 end_operator
 begin_operator
@@ -62409,8 +62409,8 @@ overcome sciatica lubricity scallop earth uranus
 1
 5 12
 2
-0 37 12 23
 0 34 2 0
+0 37 12 23
 1
 end_operator
 begin_operator
@@ -62418,8 +62418,8 @@ overcome sciatica lubricity scallop uranus vulcan
 1
 5 12
 2
-0 37 12 23
 0 34 3 2
+0 37 12 23
 1
 end_operator
 begin_operator
@@ -62427,8 +62427,8 @@ overcome sciatica lubricity scallop vulcan jupiter
 1
 5 12
 2
-0 37 12 23
 0 34 1 3
+0 37 12 23
 1
 end_operator
 begin_operator
@@ -62436,8 +62436,8 @@ overcome sciatica lubricity tofu earth uranus
 1
 5 13
 2
-0 37 13 23
 0 34 2 0
+0 37 13 23
 1
 end_operator
 begin_operator
@@ -62445,8 +62445,8 @@ overcome sciatica lubricity tofu uranus vulcan
 1
 5 13
 2
-0 37 13 23
 0 34 3 2
+0 37 13 23
 1
 end_operator
 begin_operator
@@ -62454,8 +62454,8 @@ overcome sciatica lubricity tofu vulcan jupiter
 1
 5 13
 2
-0 37 13 23
 0 34 1 3
+0 37 13 23
 1
 end_operator
 begin_operator
@@ -62463,8 +62463,8 @@ overcome sciatica lubricity tomato earth uranus
 1
 5 14
 2
-0 37 14 23
 0 34 2 0
+0 37 14 23
 1
 end_operator
 begin_operator
@@ -62472,8 +62472,8 @@ overcome sciatica lubricity tomato uranus vulcan
 1
 5 14
 2
-0 37 14 23
 0 34 3 2
+0 37 14 23
 1
 end_operator
 begin_operator
@@ -62481,8 +62481,8 @@ overcome sciatica lubricity tomato vulcan jupiter
 1
 5 14
 2
-0 37 14 23
 0 34 1 3
+0 37 14 23
 1
 end_operator
 begin_operator
@@ -62490,8 +62490,8 @@ overcome sciatica lubricity tuna earth uranus
 1
 5 15
 2
-0 37 15 23
 0 34 2 0
+0 37 15 23
 1
 end_operator
 begin_operator
@@ -62499,8 +62499,8 @@ overcome sciatica lubricity tuna uranus vulcan
 1
 5 15
 2
-0 37 15 23
 0 34 3 2
+0 37 15 23
 1
 end_operator
 begin_operator
@@ -62508,8 +62508,8 @@ overcome sciatica lubricity tuna vulcan jupiter
 1
 5 15
 2
-0 37 15 23
 0 34 1 3
+0 37 15 23
 1
 end_operator
 begin_operator
@@ -62517,8 +62517,8 @@ overcome sciatica lubricity turkey earth uranus
 1
 5 16
 2
-0 37 16 23
 0 34 2 0
+0 37 16 23
 1
 end_operator
 begin_operator
@@ -62526,8 +62526,8 @@ overcome sciatica lubricity turkey uranus vulcan
 1
 5 16
 2
-0 37 16 23
 0 34 3 2
+0 37 16 23
 1
 end_operator
 begin_operator
@@ -62535,8 +62535,8 @@ overcome sciatica lubricity turkey vulcan jupiter
 1
 5 16
 2
-0 37 16 23
 0 34 1 3
+0 37 16 23
 1
 end_operator
 begin_operator
@@ -62544,8 +62544,8 @@ overcome sciatica lubricity wonderbread earth uranus
 1
 5 17
 2
-0 37 17 23
 0 34 2 0
+0 37 17 23
 1
 end_operator
 begin_operator
@@ -62553,8 +62553,8 @@ overcome sciatica lubricity wonderbread uranus vulcan
 1
 5 17
 2
-0 37 17 23
 0 34 3 2
+0 37 17 23
 1
 end_operator
 begin_operator
@@ -62562,8 +62562,8 @@ overcome sciatica lubricity wonderbread vulcan jupiter
 1
 5 17
 2
-0 37 17 23
 0 34 1 3
+0 37 17 23
 1
 end_operator
 begin_operator
@@ -62571,8 +62571,8 @@ overcome sciatica rest arugula earth uranus
 1
 6 0
 2
-0 37 0 24
 0 35 2 0
+0 37 0 24
 1
 end_operator
 begin_operator
@@ -62580,8 +62580,8 @@ overcome sciatica rest arugula uranus vulcan
 1
 6 0
 2
-0 37 0 24
 0 35 3 2
+0 37 0 24
 1
 end_operator
 begin_operator
@@ -62589,8 +62589,8 @@ overcome sciatica rest arugula vulcan jupiter
 1
 6 0
 2
-0 37 0 24
 0 35 1 3
+0 37 0 24
 1
 end_operator
 begin_operator
@@ -62598,8 +62598,8 @@ overcome sciatica rest baguette earth uranus
 1
 6 1
 2
-0 37 1 24
 0 35 2 0
+0 37 1 24
 1
 end_operator
 begin_operator
@@ -62607,8 +62607,8 @@ overcome sciatica rest baguette uranus vulcan
 1
 6 1
 2
-0 37 1 24
 0 35 3 2
+0 37 1 24
 1
 end_operator
 begin_operator
@@ -62616,8 +62616,8 @@ overcome sciatica rest baguette vulcan jupiter
 1
 6 1
 2
-0 37 1 24
 0 35 1 3
+0 37 1 24
 1
 end_operator
 begin_operator
@@ -62625,8 +62625,8 @@ overcome sciatica rest cantelope earth uranus
 1
 6 2
 2
-0 37 2 24
 0 35 2 0
+0 37 2 24
 1
 end_operator
 begin_operator
@@ -62634,8 +62634,8 @@ overcome sciatica rest cantelope uranus vulcan
 1
 6 2
 2
-0 37 2 24
 0 35 3 2
+0 37 2 24
 1
 end_operator
 begin_operator
@@ -62643,8 +62643,8 @@ overcome sciatica rest cantelope vulcan jupiter
 1
 6 2
 2
-0 37 2 24
 0 35 1 3
+0 37 2 24
 1
 end_operator
 begin_operator
@@ -62652,8 +62652,8 @@ overcome sciatica rest flounder earth uranus
 1
 6 3
 2
-0 37 3 24
 0 35 2 0
+0 37 3 24
 1
 end_operator
 begin_operator
@@ -62661,8 +62661,8 @@ overcome sciatica rest flounder uranus vulcan
 1
 6 3
 2
-0 37 3 24
 0 35 3 2
+0 37 3 24
 1
 end_operator
 begin_operator
@@ -62670,8 +62670,8 @@ overcome sciatica rest flounder vulcan jupiter
 1
 6 3
 2
-0 37 3 24
 0 35 1 3
+0 37 3 24
 1
 end_operator
 begin_operator
@@ -62679,8 +62679,8 @@ overcome sciatica rest hotdog earth uranus
 1
 6 4
 2
-0 37 4 24
 0 35 2 0
+0 37 4 24
 1
 end_operator
 begin_operator
@@ -62688,8 +62688,8 @@ overcome sciatica rest hotdog uranus vulcan
 1
 6 4
 2
-0 37 4 24
 0 35 3 2
+0 37 4 24
 1
 end_operator
 begin_operator
@@ -62697,8 +62697,8 @@ overcome sciatica rest hotdog vulcan jupiter
 1
 6 4
 2
-0 37 4 24
 0 35 1 3
+0 37 4 24
 1
 end_operator
 begin_operator
@@ -62706,8 +62706,8 @@ overcome sciatica rest lobster earth uranus
 1
 6 5
 2
-0 37 5 24
 0 35 2 0
+0 37 5 24
 1
 end_operator
 begin_operator
@@ -62715,8 +62715,8 @@ overcome sciatica rest lobster uranus vulcan
 1
 6 5
 2
-0 37 5 24
 0 35 3 2
+0 37 5 24
 1
 end_operator
 begin_operator
@@ -62724,8 +62724,8 @@ overcome sciatica rest lobster vulcan jupiter
 1
 6 5
 2
-0 37 5 24
 0 35 1 3
+0 37 5 24
 1
 end_operator
 begin_operator
@@ -62733,8 +62733,8 @@ overcome sciatica rest muffin earth uranus
 1
 6 6
 2
-0 37 6 24
 0 35 2 0
+0 37 6 24
 1
 end_operator
 begin_operator
@@ -62742,8 +62742,8 @@ overcome sciatica rest muffin uranus vulcan
 1
 6 6
 2
-0 37 6 24
 0 35 3 2
+0 37 6 24
 1
 end_operator
 begin_operator
@@ -62751,8 +62751,8 @@ overcome sciatica rest muffin vulcan jupiter
 1
 6 6
 2
-0 37 6 24
 0 35 1 3
+0 37 6 24
 1
 end_operator
 begin_operator
@@ -62760,8 +62760,8 @@ overcome sciatica rest okra earth uranus
 1
 6 7
 2
-0 37 7 24
 0 35 2 0
+0 37 7 24
 1
 end_operator
 begin_operator
@@ -62769,8 +62769,8 @@ overcome sciatica rest okra uranus vulcan
 1
 6 7
 2
-0 37 7 24
 0 35 3 2
+0 37 7 24
 1
 end_operator
 begin_operator
@@ -62778,8 +62778,8 @@ overcome sciatica rest okra vulcan jupiter
 1
 6 7
 2
-0 37 7 24
 0 35 1 3
+0 37 7 24
 1
 end_operator
 begin_operator
@@ -62787,8 +62787,8 @@ overcome sciatica rest pepper earth uranus
 1
 6 8
 2
-0 37 8 24
 0 35 2 0
+0 37 8 24
 1
 end_operator
 begin_operator
@@ -62796,8 +62796,8 @@ overcome sciatica rest pepper uranus vulcan
 1
 6 8
 2
-0 37 8 24
 0 35 3 2
+0 37 8 24
 1
 end_operator
 begin_operator
@@ -62805,8 +62805,8 @@ overcome sciatica rest pepper vulcan jupiter
 1
 6 8
 2
-0 37 8 24
 0 35 1 3
+0 37 8 24
 1
 end_operator
 begin_operator
@@ -62814,8 +62814,8 @@ overcome sciatica rest pistachio earth uranus
 1
 6 9
 2
-0 37 9 24
 0 35 2 0
+0 37 9 24
 1
 end_operator
 begin_operator
@@ -62823,8 +62823,8 @@ overcome sciatica rest pistachio uranus vulcan
 1
 6 9
 2
-0 37 9 24
 0 35 3 2
+0 37 9 24
 1
 end_operator
 begin_operator
@@ -62832,8 +62832,8 @@ overcome sciatica rest pistachio vulcan jupiter
 1
 6 9
 2
-0 37 9 24
 0 35 1 3
+0 37 9 24
 1
 end_operator
 begin_operator
@@ -62841,8 +62841,8 @@ overcome sciatica rest pork earth uranus
 1
 6 10
 2
-0 37 10 24
 0 35 2 0
+0 37 10 24
 1
 end_operator
 begin_operator
@@ -62850,8 +62850,8 @@ overcome sciatica rest pork uranus vulcan
 1
 6 10
 2
-0 37 10 24
 0 35 3 2
+0 37 10 24
 1
 end_operator
 begin_operator
@@ -62859,8 +62859,8 @@ overcome sciatica rest pork vulcan jupiter
 1
 6 10
 2
-0 37 10 24
 0 35 1 3
+0 37 10 24
 1
 end_operator
 begin_operator
@@ -62868,8 +62868,8 @@ overcome sciatica rest rice earth uranus
 1
 6 11
 2
-0 37 11 24
 0 35 2 0
+0 37 11 24
 1
 end_operator
 begin_operator
@@ -62877,8 +62877,8 @@ overcome sciatica rest rice uranus vulcan
 1
 6 11
 2
-0 37 11 24
 0 35 3 2
+0 37 11 24
 1
 end_operator
 begin_operator
@@ -62886,8 +62886,8 @@ overcome sciatica rest rice vulcan jupiter
 1
 6 11
 2
-0 37 11 24
 0 35 1 3
+0 37 11 24
 1
 end_operator
 begin_operator
@@ -62895,8 +62895,8 @@ overcome sciatica rest scallop earth uranus
 1
 6 12
 2
-0 37 12 24
 0 35 2 0
+0 37 12 24
 1
 end_operator
 begin_operator
@@ -62904,8 +62904,8 @@ overcome sciatica rest scallop uranus vulcan
 1
 6 12
 2
-0 37 12 24
 0 35 3 2
+0 37 12 24
 1
 end_operator
 begin_operator
@@ -62913,8 +62913,8 @@ overcome sciatica rest scallop vulcan jupiter
 1
 6 12
 2
-0 37 12 24
 0 35 1 3
+0 37 12 24
 1
 end_operator
 begin_operator
@@ -62922,8 +62922,8 @@ overcome sciatica rest tofu earth uranus
 1
 6 13
 2
-0 37 13 24
 0 35 2 0
+0 37 13 24
 1
 end_operator
 begin_operator
@@ -62931,8 +62931,8 @@ overcome sciatica rest tofu uranus vulcan
 1
 6 13
 2
-0 37 13 24
 0 35 3 2
+0 37 13 24
 1
 end_operator
 begin_operator
@@ -62940,8 +62940,8 @@ overcome sciatica rest tofu vulcan jupiter
 1
 6 13
 2
-0 37 13 24
 0 35 1 3
+0 37 13 24
 1
 end_operator
 begin_operator
@@ -62949,8 +62949,8 @@ overcome sciatica rest tomato earth uranus
 1
 6 14
 2
-0 37 14 24
 0 35 2 0
+0 37 14 24
 1
 end_operator
 begin_operator
@@ -62958,8 +62958,8 @@ overcome sciatica rest tomato uranus vulcan
 1
 6 14
 2
-0 37 14 24
 0 35 3 2
+0 37 14 24
 1
 end_operator
 begin_operator
@@ -62967,8 +62967,8 @@ overcome sciatica rest tomato vulcan jupiter
 1
 6 14
 2
-0 37 14 24
 0 35 1 3
+0 37 14 24
 1
 end_operator
 begin_operator
@@ -62976,8 +62976,8 @@ overcome sciatica rest tuna earth uranus
 1
 6 15
 2
-0 37 15 24
 0 35 2 0
+0 37 15 24
 1
 end_operator
 begin_operator
@@ -62985,8 +62985,8 @@ overcome sciatica rest tuna uranus vulcan
 1
 6 15
 2
-0 37 15 24
 0 35 3 2
+0 37 15 24
 1
 end_operator
 begin_operator
@@ -62994,8 +62994,8 @@ overcome sciatica rest tuna vulcan jupiter
 1
 6 15
 2
-0 37 15 24
 0 35 1 3
+0 37 15 24
 1
 end_operator
 begin_operator
@@ -63003,8 +63003,8 @@ overcome sciatica rest turkey earth uranus
 1
 6 16
 2
-0 37 16 24
 0 35 2 0
+0 37 16 24
 1
 end_operator
 begin_operator
@@ -63012,8 +63012,8 @@ overcome sciatica rest turkey uranus vulcan
 1
 6 16
 2
-0 37 16 24
 0 35 3 2
+0 37 16 24
 1
 end_operator
 begin_operator
@@ -63021,8 +63021,8 @@ overcome sciatica rest turkey vulcan jupiter
 1
 6 16
 2
-0 37 16 24
 0 35 1 3
+0 37 16 24
 1
 end_operator
 begin_operator
@@ -63030,8 +63030,8 @@ overcome sciatica rest wonderbread earth uranus
 1
 6 17
 2
-0 37 17 24
 0 35 2 0
+0 37 17 24
 1
 end_operator
 begin_operator
@@ -63039,8 +63039,8 @@ overcome sciatica rest wonderbread uranus vulcan
 1
 6 17
 2
-0 37 17 24
 0 35 3 2
+0 37 17 24
 1
 end_operator
 begin_operator
@@ -63048,8 +63048,8 @@ overcome sciatica rest wonderbread vulcan jupiter
 1
 6 17
 2
-0 37 17 24
 0 35 1 3
+0 37 17 24
 1
 end_operator
 begin_operator
@@ -64029,8 +64029,8 @@ succumb abrasion achievement arugula earth uranus
 1
 0 0
 2
-0 32 18 0
 0 27 0 2
+0 32 18 0
 1
 end_operator
 begin_operator
@@ -64038,8 +64038,8 @@ succumb abrasion achievement arugula uranus vulcan
 1
 0 0
 2
-0 32 18 0
 0 27 2 3
+0 32 18 0
 1
 end_operator
 begin_operator
@@ -64047,8 +64047,8 @@ succumb abrasion achievement arugula vulcan jupiter
 1
 0 0
 2
-0 32 18 0
 0 27 3 1
+0 32 18 0
 1
 end_operator
 begin_operator
@@ -64056,8 +64056,8 @@ succumb abrasion achievement baguette earth uranus
 1
 0 1
 2
-0 32 18 1
 0 27 0 2
+0 32 18 1
 1
 end_operator
 begin_operator
@@ -64065,8 +64065,8 @@ succumb abrasion achievement baguette uranus vulcan
 1
 0 1
 2
-0 32 18 1
 0 27 2 3
+0 32 18 1
 1
 end_operator
 begin_operator
@@ -64074,8 +64074,8 @@ succumb abrasion achievement baguette vulcan jupiter
 1
 0 1
 2
-0 32 18 1
 0 27 3 1
+0 32 18 1
 1
 end_operator
 begin_operator
@@ -64083,8 +64083,8 @@ succumb abrasion achievement cantelope earth uranus
 1
 0 2
 2
-0 32 18 2
 0 27 0 2
+0 32 18 2
 1
 end_operator
 begin_operator
@@ -64092,8 +64092,8 @@ succumb abrasion achievement cantelope uranus vulcan
 1
 0 2
 2
-0 32 18 2
 0 27 2 3
+0 32 18 2
 1
 end_operator
 begin_operator
@@ -64101,8 +64101,8 @@ succumb abrasion achievement cantelope vulcan jupiter
 1
 0 2
 2
-0 32 18 2
 0 27 3 1
+0 32 18 2
 1
 end_operator
 begin_operator
@@ -64110,8 +64110,8 @@ succumb abrasion achievement flounder earth uranus
 1
 0 3
 2
-0 32 18 3
 0 27 0 2
+0 32 18 3
 1
 end_operator
 begin_operator
@@ -64119,8 +64119,8 @@ succumb abrasion achievement flounder uranus vulcan
 1
 0 3
 2
-0 32 18 3
 0 27 2 3
+0 32 18 3
 1
 end_operator
 begin_operator
@@ -64128,8 +64128,8 @@ succumb abrasion achievement flounder vulcan jupiter
 1
 0 3
 2
-0 32 18 3
 0 27 3 1
+0 32 18 3
 1
 end_operator
 begin_operator
@@ -64137,8 +64137,8 @@ succumb abrasion achievement hotdog earth uranus
 1
 0 4
 2
-0 32 18 4
 0 27 0 2
+0 32 18 4
 1
 end_operator
 begin_operator
@@ -64146,8 +64146,8 @@ succumb abrasion achievement hotdog uranus vulcan
 1
 0 4
 2
-0 32 18 4
 0 27 2 3
+0 32 18 4
 1
 end_operator
 begin_operator
@@ -64155,8 +64155,8 @@ succumb abrasion achievement hotdog vulcan jupiter
 1
 0 4
 2
-0 32 18 4
 0 27 3 1
+0 32 18 4
 1
 end_operator
 begin_operator
@@ -64164,8 +64164,8 @@ succumb abrasion achievement lobster earth uranus
 1
 0 5
 2
-0 32 18 5
 0 27 0 2
+0 32 18 5
 1
 end_operator
 begin_operator
@@ -64173,8 +64173,8 @@ succumb abrasion achievement lobster uranus vulcan
 1
 0 5
 2
-0 32 18 5
 0 27 2 3
+0 32 18 5
 1
 end_operator
 begin_operator
@@ -64182,8 +64182,8 @@ succumb abrasion achievement lobster vulcan jupiter
 1
 0 5
 2
-0 32 18 5
 0 27 3 1
+0 32 18 5
 1
 end_operator
 begin_operator
@@ -64191,8 +64191,8 @@ succumb abrasion achievement muffin earth uranus
 1
 0 6
 2
-0 32 18 6
 0 27 0 2
+0 32 18 6
 1
 end_operator
 begin_operator
@@ -64200,8 +64200,8 @@ succumb abrasion achievement muffin uranus vulcan
 1
 0 6
 2
-0 32 18 6
 0 27 2 3
+0 32 18 6
 1
 end_operator
 begin_operator
@@ -64209,8 +64209,8 @@ succumb abrasion achievement muffin vulcan jupiter
 1
 0 6
 2
-0 32 18 6
 0 27 3 1
+0 32 18 6
 1
 end_operator
 begin_operator
@@ -64218,8 +64218,8 @@ succumb abrasion achievement okra earth uranus
 1
 0 7
 2
-0 32 18 7
 0 27 0 2
+0 32 18 7
 1
 end_operator
 begin_operator
@@ -64227,8 +64227,8 @@ succumb abrasion achievement okra uranus vulcan
 1
 0 7
 2
-0 32 18 7
 0 27 2 3
+0 32 18 7
 1
 end_operator
 begin_operator
@@ -64236,8 +64236,8 @@ succumb abrasion achievement okra vulcan jupiter
 1
 0 7
 2
-0 32 18 7
 0 27 3 1
+0 32 18 7
 1
 end_operator
 begin_operator
@@ -64245,8 +64245,8 @@ succumb abrasion achievement pepper earth uranus
 1
 0 8
 2
-0 32 18 8
 0 27 0 2
+0 32 18 8
 1
 end_operator
 begin_operator
@@ -64254,8 +64254,8 @@ succumb abrasion achievement pepper uranus vulcan
 1
 0 8
 2
-0 32 18 8
 0 27 2 3
+0 32 18 8
 1
 end_operator
 begin_operator
@@ -64263,8 +64263,8 @@ succumb abrasion achievement pepper vulcan jupiter
 1
 0 8
 2
-0 32 18 8
 0 27 3 1
+0 32 18 8
 1
 end_operator
 begin_operator
@@ -64272,8 +64272,8 @@ succumb abrasion achievement pistachio earth uranus
 1
 0 9
 2
-0 32 18 9
 0 27 0 2
+0 32 18 9
 1
 end_operator
 begin_operator
@@ -64281,8 +64281,8 @@ succumb abrasion achievement pistachio uranus vulcan
 1
 0 9
 2
-0 32 18 9
 0 27 2 3
+0 32 18 9
 1
 end_operator
 begin_operator
@@ -64290,8 +64290,8 @@ succumb abrasion achievement pistachio vulcan jupiter
 1
 0 9
 2
-0 32 18 9
 0 27 3 1
+0 32 18 9
 1
 end_operator
 begin_operator
@@ -64299,8 +64299,8 @@ succumb abrasion achievement pork earth uranus
 1
 0 10
 2
-0 32 18 10
 0 27 0 2
+0 32 18 10
 1
 end_operator
 begin_operator
@@ -64308,8 +64308,8 @@ succumb abrasion achievement pork uranus vulcan
 1
 0 10
 2
-0 32 18 10
 0 27 2 3
+0 32 18 10
 1
 end_operator
 begin_operator
@@ -64317,8 +64317,8 @@ succumb abrasion achievement pork vulcan jupiter
 1
 0 10
 2
-0 32 18 10
 0 27 3 1
+0 32 18 10
 1
 end_operator
 begin_operator
@@ -64326,8 +64326,8 @@ succumb abrasion achievement rice earth uranus
 1
 0 11
 2
-0 32 18 11
 0 27 0 2
+0 32 18 11
 1
 end_operator
 begin_operator
@@ -64335,8 +64335,8 @@ succumb abrasion achievement rice uranus vulcan
 1
 0 11
 2
-0 32 18 11
 0 27 2 3
+0 32 18 11
 1
 end_operator
 begin_operator
@@ -64344,8 +64344,8 @@ succumb abrasion achievement rice vulcan jupiter
 1
 0 11
 2
-0 32 18 11
 0 27 3 1
+0 32 18 11
 1
 end_operator
 begin_operator
@@ -64353,8 +64353,8 @@ succumb abrasion achievement scallop earth uranus
 1
 0 12
 2
-0 32 18 12
 0 27 0 2
+0 32 18 12
 1
 end_operator
 begin_operator
@@ -64362,8 +64362,8 @@ succumb abrasion achievement scallop uranus vulcan
 1
 0 12
 2
-0 32 18 12
 0 27 2 3
+0 32 18 12
 1
 end_operator
 begin_operator
@@ -64371,8 +64371,8 @@ succumb abrasion achievement scallop vulcan jupiter
 1
 0 12
 2
-0 32 18 12
 0 27 3 1
+0 32 18 12
 1
 end_operator
 begin_operator
@@ -64380,8 +64380,8 @@ succumb abrasion achievement tofu earth uranus
 1
 0 13
 2
-0 32 18 13
 0 27 0 2
+0 32 18 13
 1
 end_operator
 begin_operator
@@ -64389,8 +64389,8 @@ succumb abrasion achievement tofu uranus vulcan
 1
 0 13
 2
-0 32 18 13
 0 27 2 3
+0 32 18 13
 1
 end_operator
 begin_operator
@@ -64398,8 +64398,8 @@ succumb abrasion achievement tofu vulcan jupiter
 1
 0 13
 2
-0 32 18 13
 0 27 3 1
+0 32 18 13
 1
 end_operator
 begin_operator
@@ -64407,8 +64407,8 @@ succumb abrasion achievement tomato earth uranus
 1
 0 14
 2
-0 32 18 14
 0 27 0 2
+0 32 18 14
 1
 end_operator
 begin_operator
@@ -64416,8 +64416,8 @@ succumb abrasion achievement tomato uranus vulcan
 1
 0 14
 2
-0 32 18 14
 0 27 2 3
+0 32 18 14
 1
 end_operator
 begin_operator
@@ -64425,8 +64425,8 @@ succumb abrasion achievement tomato vulcan jupiter
 1
 0 14
 2
-0 32 18 14
 0 27 3 1
+0 32 18 14
 1
 end_operator
 begin_operator
@@ -64434,8 +64434,8 @@ succumb abrasion achievement tuna earth uranus
 1
 0 15
 2
-0 32 18 15
 0 27 0 2
+0 32 18 15
 1
 end_operator
 begin_operator
@@ -64443,8 +64443,8 @@ succumb abrasion achievement tuna uranus vulcan
 1
 0 15
 2
-0 32 18 15
 0 27 2 3
+0 32 18 15
 1
 end_operator
 begin_operator
@@ -64452,8 +64452,8 @@ succumb abrasion achievement tuna vulcan jupiter
 1
 0 15
 2
-0 32 18 15
 0 27 3 1
+0 32 18 15
 1
 end_operator
 begin_operator
@@ -64461,8 +64461,8 @@ succumb abrasion achievement turkey earth uranus
 1
 0 16
 2
-0 32 18 16
 0 27 0 2
+0 32 18 16
 1
 end_operator
 begin_operator
@@ -64470,8 +64470,8 @@ succumb abrasion achievement turkey uranus vulcan
 1
 0 16
 2
-0 32 18 16
 0 27 2 3
+0 32 18 16
 1
 end_operator
 begin_operator
@@ -64479,8 +64479,8 @@ succumb abrasion achievement turkey vulcan jupiter
 1
 0 16
 2
-0 32 18 16
 0 27 3 1
+0 32 18 16
 1
 end_operator
 begin_operator
@@ -64488,8 +64488,8 @@ succumb abrasion achievement wonderbread earth uranus
 1
 0 17
 2
-0 32 18 17
 0 27 0 2
+0 32 18 17
 1
 end_operator
 begin_operator
@@ -64497,8 +64497,8 @@ succumb abrasion achievement wonderbread uranus vulcan
 1
 0 17
 2
-0 32 18 17
 0 27 2 3
+0 32 18 17
 1
 end_operator
 begin_operator
@@ -64506,8 +64506,8 @@ succumb abrasion achievement wonderbread vulcan jupiter
 1
 0 17
 2
-0 32 18 17
 0 27 3 1
+0 32 18 17
 1
 end_operator
 begin_operator
@@ -64515,8 +64515,8 @@ succumb abrasion aesthetics arugula earth uranus
 1
 1 0
 2
-0 32 19 0
 0 28 0 2
+0 32 19 0
 1
 end_operator
 begin_operator
@@ -64524,8 +64524,8 @@ succumb abrasion aesthetics arugula uranus vulcan
 1
 1 0
 2
-0 32 19 0
 0 28 2 3
+0 32 19 0
 1
 end_operator
 begin_operator
@@ -64533,8 +64533,8 @@ succumb abrasion aesthetics arugula vulcan jupiter
 1
 1 0
 2
-0 32 19 0
 0 28 3 1
+0 32 19 0
 1
 end_operator
 begin_operator
@@ -64542,8 +64542,8 @@ succumb abrasion aesthetics baguette earth uranus
 1
 1 1
 2
-0 32 19 1
 0 28 0 2
+0 32 19 1
 1
 end_operator
 begin_operator
@@ -64551,8 +64551,8 @@ succumb abrasion aesthetics baguette uranus vulcan
 1
 1 1
 2
-0 32 19 1
 0 28 2 3
+0 32 19 1
 1
 end_operator
 begin_operator
@@ -64560,8 +64560,8 @@ succumb abrasion aesthetics baguette vulcan jupiter
 1
 1 1
 2
-0 32 19 1
 0 28 3 1
+0 32 19 1
 1
 end_operator
 begin_operator
@@ -64569,8 +64569,8 @@ succumb abrasion aesthetics cantelope earth uranus
 1
 1 2
 2
-0 32 19 2
 0 28 0 2
+0 32 19 2
 1
 end_operator
 begin_operator
@@ -64578,8 +64578,8 @@ succumb abrasion aesthetics cantelope uranus vulcan
 1
 1 2
 2
-0 32 19 2
 0 28 2 3
+0 32 19 2
 1
 end_operator
 begin_operator
@@ -64587,8 +64587,8 @@ succumb abrasion aesthetics cantelope vulcan jupiter
 1
 1 2
 2
-0 32 19 2
 0 28 3 1
+0 32 19 2
 1
 end_operator
 begin_operator
@@ -64596,8 +64596,8 @@ succumb abrasion aesthetics flounder earth uranus
 1
 1 3
 2
-0 32 19 3
 0 28 0 2
+0 32 19 3
 1
 end_operator
 begin_operator
@@ -64605,8 +64605,8 @@ succumb abrasion aesthetics flounder uranus vulcan
 1
 1 3
 2
-0 32 19 3
 0 28 2 3
+0 32 19 3
 1
 end_operator
 begin_operator
@@ -64614,8 +64614,8 @@ succumb abrasion aesthetics flounder vulcan jupiter
 1
 1 3
 2
-0 32 19 3
 0 28 3 1
+0 32 19 3
 1
 end_operator
 begin_operator
@@ -64623,8 +64623,8 @@ succumb abrasion aesthetics hotdog earth uranus
 1
 1 4
 2
-0 32 19 4
 0 28 0 2
+0 32 19 4
 1
 end_operator
 begin_operator
@@ -64632,8 +64632,8 @@ succumb abrasion aesthetics hotdog uranus vulcan
 1
 1 4
 2
-0 32 19 4
 0 28 2 3
+0 32 19 4
 1
 end_operator
 begin_operator
@@ -64641,8 +64641,8 @@ succumb abrasion aesthetics hotdog vulcan jupiter
 1
 1 4
 2
-0 32 19 4
 0 28 3 1
+0 32 19 4
 1
 end_operator
 begin_operator
@@ -64650,8 +64650,8 @@ succumb abrasion aesthetics lobster earth uranus
 1
 1 5
 2
-0 32 19 5
 0 28 0 2
+0 32 19 5
 1
 end_operator
 begin_operator
@@ -64659,8 +64659,8 @@ succumb abrasion aesthetics lobster uranus vulcan
 1
 1 5
 2
-0 32 19 5
 0 28 2 3
+0 32 19 5
 1
 end_operator
 begin_operator
@@ -64668,8 +64668,8 @@ succumb abrasion aesthetics lobster vulcan jupiter
 1
 1 5
 2
-0 32 19 5
 0 28 3 1
+0 32 19 5
 1
 end_operator
 begin_operator
@@ -64677,8 +64677,8 @@ succumb abrasion aesthetics muffin earth uranus
 1
 1 6
 2
-0 32 19 6
 0 28 0 2
+0 32 19 6
 1
 end_operator
 begin_operator
@@ -64686,8 +64686,8 @@ succumb abrasion aesthetics muffin uranus vulcan
 1
 1 6
 2
-0 32 19 6
 0 28 2 3
+0 32 19 6
 1
 end_operator
 begin_operator
@@ -64695,8 +64695,8 @@ succumb abrasion aesthetics muffin vulcan jupiter
 1
 1 6
 2
-0 32 19 6
 0 28 3 1
+0 32 19 6
 1
 end_operator
 begin_operator
@@ -64704,8 +64704,8 @@ succumb abrasion aesthetics okra earth uranus
 1
 1 7
 2
-0 32 19 7
 0 28 0 2
+0 32 19 7
 1
 end_operator
 begin_operator
@@ -64713,8 +64713,8 @@ succumb abrasion aesthetics okra uranus vulcan
 1
 1 7
 2
-0 32 19 7
 0 28 2 3
+0 32 19 7
 1
 end_operator
 begin_operator
@@ -64722,8 +64722,8 @@ succumb abrasion aesthetics okra vulcan jupiter
 1
 1 7
 2
-0 32 19 7
 0 28 3 1
+0 32 19 7
 1
 end_operator
 begin_operator
@@ -64731,8 +64731,8 @@ succumb abrasion aesthetics pepper earth uranus
 1
 1 8
 2
-0 32 19 8
 0 28 0 2
+0 32 19 8
 1
 end_operator
 begin_operator
@@ -64740,8 +64740,8 @@ succumb abrasion aesthetics pepper uranus vulcan
 1
 1 8
 2
-0 32 19 8
 0 28 2 3
+0 32 19 8
 1
 end_operator
 begin_operator
@@ -64749,8 +64749,8 @@ succumb abrasion aesthetics pepper vulcan jupiter
 1
 1 8
 2
-0 32 19 8
 0 28 3 1
+0 32 19 8
 1
 end_operator
 begin_operator
@@ -64758,8 +64758,8 @@ succumb abrasion aesthetics pistachio earth uranus
 1
 1 9
 2
-0 32 19 9
 0 28 0 2
+0 32 19 9
 1
 end_operator
 begin_operator
@@ -64767,8 +64767,8 @@ succumb abrasion aesthetics pistachio uranus vulcan
 1
 1 9
 2
-0 32 19 9
 0 28 2 3
+0 32 19 9
 1
 end_operator
 begin_operator
@@ -64776,8 +64776,8 @@ succumb abrasion aesthetics pistachio vulcan jupiter
 1
 1 9
 2
-0 32 19 9
 0 28 3 1
+0 32 19 9
 1
 end_operator
 begin_operator
@@ -64785,8 +64785,8 @@ succumb abrasion aesthetics pork earth uranus
 1
 1 10
 2
-0 32 19 10
 0 28 0 2
+0 32 19 10
 1
 end_operator
 begin_operator
@@ -64794,8 +64794,8 @@ succumb abrasion aesthetics pork uranus vulcan
 1
 1 10
 2
-0 32 19 10
 0 28 2 3
+0 32 19 10
 1
 end_operator
 begin_operator
@@ -64803,8 +64803,8 @@ succumb abrasion aesthetics pork vulcan jupiter
 1
 1 10
 2
-0 32 19 10
 0 28 3 1
+0 32 19 10
 1
 end_operator
 begin_operator
@@ -64812,8 +64812,8 @@ succumb abrasion aesthetics rice earth uranus
 1
 1 11
 2
-0 32 19 11
 0 28 0 2
+0 32 19 11
 1
 end_operator
 begin_operator
@@ -64821,8 +64821,8 @@ succumb abrasion aesthetics rice uranus vulcan
 1
 1 11
 2
-0 32 19 11
 0 28 2 3
+0 32 19 11
 1
 end_operator
 begin_operator
@@ -64830,8 +64830,8 @@ succumb abrasion aesthetics rice vulcan jupiter
 1
 1 11
 2
-0 32 19 11
 0 28 3 1
+0 32 19 11
 1
 end_operator
 begin_operator
@@ -64839,8 +64839,8 @@ succumb abrasion aesthetics scallop earth uranus
 1
 1 12
 2
-0 32 19 12
 0 28 0 2
+0 32 19 12
 1
 end_operator
 begin_operator
@@ -64848,8 +64848,8 @@ succumb abrasion aesthetics scallop uranus vulcan
 1
 1 12
 2
-0 32 19 12
 0 28 2 3
+0 32 19 12
 1
 end_operator
 begin_operator
@@ -64857,8 +64857,8 @@ succumb abrasion aesthetics scallop vulcan jupiter
 1
 1 12
 2
-0 32 19 12
 0 28 3 1
+0 32 19 12
 1
 end_operator
 begin_operator
@@ -64866,8 +64866,8 @@ succumb abrasion aesthetics tofu earth uranus
 1
 1 13
 2
-0 32 19 13
 0 28 0 2
+0 32 19 13
 1
 end_operator
 begin_operator
@@ -64875,8 +64875,8 @@ succumb abrasion aesthetics tofu uranus vulcan
 1
 1 13
 2
-0 32 19 13
 0 28 2 3
+0 32 19 13
 1
 end_operator
 begin_operator
@@ -64884,8 +64884,8 @@ succumb abrasion aesthetics tofu vulcan jupiter
 1
 1 13
 2
-0 32 19 13
 0 28 3 1
+0 32 19 13
 1
 end_operator
 begin_operator
@@ -64893,8 +64893,8 @@ succumb abrasion aesthetics tomato earth uranus
 1
 1 14
 2
-0 32 19 14
 0 28 0 2
+0 32 19 14
 1
 end_operator
 begin_operator
@@ -64902,8 +64902,8 @@ succumb abrasion aesthetics tomato uranus vulcan
 1
 1 14
 2
-0 32 19 14
 0 28 2 3
+0 32 19 14
 1
 end_operator
 begin_operator
@@ -64911,8 +64911,8 @@ succumb abrasion aesthetics tomato vulcan jupiter
 1
 1 14
 2
-0 32 19 14
 0 28 3 1
+0 32 19 14
 1
 end_operator
 begin_operator
@@ -64920,8 +64920,8 @@ succumb abrasion aesthetics tuna earth uranus
 1
 1 15
 2
-0 32 19 15
 0 28 0 2
+0 32 19 15
 1
 end_operator
 begin_operator
@@ -64929,8 +64929,8 @@ succumb abrasion aesthetics tuna uranus vulcan
 1
 1 15
 2
-0 32 19 15
 0 28 2 3
+0 32 19 15
 1
 end_operator
 begin_operator
@@ -64938,8 +64938,8 @@ succumb abrasion aesthetics tuna vulcan jupiter
 1
 1 15
 2
-0 32 19 15
 0 28 3 1
+0 32 19 15
 1
 end_operator
 begin_operator
@@ -64947,8 +64947,8 @@ succumb abrasion aesthetics turkey earth uranus
 1
 1 16
 2
-0 32 19 16
 0 28 0 2
+0 32 19 16
 1
 end_operator
 begin_operator
@@ -64956,8 +64956,8 @@ succumb abrasion aesthetics turkey uranus vulcan
 1
 1 16
 2
-0 32 19 16
 0 28 2 3
+0 32 19 16
 1
 end_operator
 begin_operator
@@ -64965,8 +64965,8 @@ succumb abrasion aesthetics turkey vulcan jupiter
 1
 1 16
 2
-0 32 19 16
 0 28 3 1
+0 32 19 16
 1
 end_operator
 begin_operator
@@ -64974,8 +64974,8 @@ succumb abrasion aesthetics wonderbread earth uranus
 1
 1 17
 2
-0 32 19 17
 0 28 0 2
+0 32 19 17
 1
 end_operator
 begin_operator
@@ -64983,8 +64983,8 @@ succumb abrasion aesthetics wonderbread uranus vulcan
 1
 1 17
 2
-0 32 19 17
 0 28 2 3
+0 32 19 17
 1
 end_operator
 begin_operator
@@ -64992,8 +64992,8 @@ succumb abrasion aesthetics wonderbread vulcan jupiter
 1
 1 17
 2
-0 32 19 17
 0 28 3 1
+0 32 19 17
 1
 end_operator
 begin_operator
@@ -65001,8 +65001,8 @@ succumb abrasion excitement arugula earth uranus
 1
 2 0
 2
-0 32 20 0
 0 29 0 2
+0 32 20 0
 1
 end_operator
 begin_operator
@@ -65010,8 +65010,8 @@ succumb abrasion excitement arugula uranus vulcan
 1
 2 0
 2
-0 32 20 0
 0 29 2 3
+0 32 20 0
 1
 end_operator
 begin_operator
@@ -65019,8 +65019,8 @@ succumb abrasion excitement arugula vulcan jupiter
 1
 2 0
 2
-0 32 20 0
 0 29 3 1
+0 32 20 0
 1
 end_operator
 begin_operator
@@ -65028,8 +65028,8 @@ succumb abrasion excitement baguette earth uranus
 1
 2 1
 2
-0 32 20 1
 0 29 0 2
+0 32 20 1
 1
 end_operator
 begin_operator
@@ -65037,8 +65037,8 @@ succumb abrasion excitement baguette uranus vulcan
 1
 2 1
 2
-0 32 20 1
 0 29 2 3
+0 32 20 1
 1
 end_operator
 begin_operator
@@ -65046,8 +65046,8 @@ succumb abrasion excitement baguette vulcan jupiter
 1
 2 1
 2
-0 32 20 1
 0 29 3 1
+0 32 20 1
 1
 end_operator
 begin_operator
@@ -65055,8 +65055,8 @@ succumb abrasion excitement cantelope earth uranus
 1
 2 2
 2
-0 32 20 2
 0 29 0 2
+0 32 20 2
 1
 end_operator
 begin_operator
@@ -65064,8 +65064,8 @@ succumb abrasion excitement cantelope uranus vulcan
 1
 2 2
 2
-0 32 20 2
 0 29 2 3
+0 32 20 2
 1
 end_operator
 begin_operator
@@ -65073,8 +65073,8 @@ succumb abrasion excitement cantelope vulcan jupiter
 1
 2 2
 2
-0 32 20 2
 0 29 3 1
+0 32 20 2
 1
 end_operator
 begin_operator
@@ -65082,8 +65082,8 @@ succumb abrasion excitement flounder earth uranus
 1
 2 3
 2
-0 32 20 3
 0 29 0 2
+0 32 20 3
 1
 end_operator
 begin_operator
@@ -65091,8 +65091,8 @@ succumb abrasion excitement flounder uranus vulcan
 1
 2 3
 2
-0 32 20 3
 0 29 2 3
+0 32 20 3
 1
 end_operator
 begin_operator
@@ -65100,8 +65100,8 @@ succumb abrasion excitement flounder vulcan jupiter
 1
 2 3
 2
-0 32 20 3
 0 29 3 1
+0 32 20 3
 1
 end_operator
 begin_operator
@@ -65109,8 +65109,8 @@ succumb abrasion excitement hotdog earth uranus
 1
 2 4
 2
-0 32 20 4
 0 29 0 2
+0 32 20 4
 1
 end_operator
 begin_operator
@@ -65118,8 +65118,8 @@ succumb abrasion excitement hotdog uranus vulcan
 1
 2 4
 2
-0 32 20 4
 0 29 2 3
+0 32 20 4
 1
 end_operator
 begin_operator
@@ -65127,8 +65127,8 @@ succumb abrasion excitement hotdog vulcan jupiter
 1
 2 4
 2
-0 32 20 4
 0 29 3 1
+0 32 20 4
 1
 end_operator
 begin_operator
@@ -65136,8 +65136,8 @@ succumb abrasion excitement lobster earth uranus
 1
 2 5
 2
-0 32 20 5
 0 29 0 2
+0 32 20 5
 1
 end_operator
 begin_operator
@@ -65145,8 +65145,8 @@ succumb abrasion excitement lobster uranus vulcan
 1
 2 5
 2
-0 32 20 5
 0 29 2 3
+0 32 20 5
 1
 end_operator
 begin_operator
@@ -65154,8 +65154,8 @@ succumb abrasion excitement lobster vulcan jupiter
 1
 2 5
 2
-0 32 20 5
 0 29 3 1
+0 32 20 5
 1
 end_operator
 begin_operator
@@ -65163,8 +65163,8 @@ succumb abrasion excitement muffin earth uranus
 1
 2 6
 2
-0 32 20 6
 0 29 0 2
+0 32 20 6
 1
 end_operator
 begin_operator
@@ -65172,8 +65172,8 @@ succumb abrasion excitement muffin uranus vulcan
 1
 2 6
 2
-0 32 20 6
 0 29 2 3
+0 32 20 6
 1
 end_operator
 begin_operator
@@ -65181,8 +65181,8 @@ succumb abrasion excitement muffin vulcan jupiter
 1
 2 6
 2
-0 32 20 6
 0 29 3 1
+0 32 20 6
 1
 end_operator
 begin_operator
@@ -65190,8 +65190,8 @@ succumb abrasion excitement okra earth uranus
 1
 2 7
 2
-0 32 20 7
 0 29 0 2
+0 32 20 7
 1
 end_operator
 begin_operator
@@ -65199,8 +65199,8 @@ succumb abrasion excitement okra uranus vulcan
 1
 2 7
 2
-0 32 20 7
 0 29 2 3
+0 32 20 7
 1
 end_operator
 begin_operator
@@ -65208,8 +65208,8 @@ succumb abrasion excitement okra vulcan jupiter
 1
 2 7
 2
-0 32 20 7
 0 29 3 1
+0 32 20 7
 1
 end_operator
 begin_operator
@@ -65217,8 +65217,8 @@ succumb abrasion excitement pepper earth uranus
 1
 2 8
 2
-0 32 20 8
 0 29 0 2
+0 32 20 8
 1
 end_operator
 begin_operator
@@ -65226,8 +65226,8 @@ succumb abrasion excitement pepper uranus vulcan
 1
 2 8
 2
-0 32 20 8
 0 29 2 3
+0 32 20 8
 1
 end_operator
 begin_operator
@@ -65235,8 +65235,8 @@ succumb abrasion excitement pepper vulcan jupiter
 1
 2 8
 2
-0 32 20 8
 0 29 3 1
+0 32 20 8
 1
 end_operator
 begin_operator
@@ -65244,8 +65244,8 @@ succumb abrasion excitement pistachio earth uranus
 1
 2 9
 2
-0 32 20 9
 0 29 0 2
+0 32 20 9
 1
 end_operator
 begin_operator
@@ -65253,8 +65253,8 @@ succumb abrasion excitement pistachio uranus vulcan
 1
 2 9
 2
-0 32 20 9
 0 29 2 3
+0 32 20 9
 1
 end_operator
 begin_operator
@@ -65262,8 +65262,8 @@ succumb abrasion excitement pistachio vulcan jupiter
 1
 2 9
 2
-0 32 20 9
 0 29 3 1
+0 32 20 9
 1
 end_operator
 begin_operator
@@ -65271,8 +65271,8 @@ succumb abrasion excitement pork earth uranus
 1
 2 10
 2
-0 32 20 10
 0 29 0 2
+0 32 20 10
 1
 end_operator
 begin_operator
@@ -65280,8 +65280,8 @@ succumb abrasion excitement pork uranus vulcan
 1
 2 10
 2
-0 32 20 10
 0 29 2 3
+0 32 20 10
 1
 end_operator
 begin_operator
@@ -65289,8 +65289,8 @@ succumb abrasion excitement pork vulcan jupiter
 1
 2 10
 2
-0 32 20 10
 0 29 3 1
+0 32 20 10
 1
 end_operator
 begin_operator
@@ -65298,8 +65298,8 @@ succumb abrasion excitement rice earth uranus
 1
 2 11
 2
-0 32 20 11
 0 29 0 2
+0 32 20 11
 1
 end_operator
 begin_operator
@@ -65307,8 +65307,8 @@ succumb abrasion excitement rice uranus vulcan
 1
 2 11
 2
-0 32 20 11
 0 29 2 3
+0 32 20 11
 1
 end_operator
 begin_operator
@@ -65316,8 +65316,8 @@ succumb abrasion excitement rice vulcan jupiter
 1
 2 11
 2
-0 32 20 11
 0 29 3 1
+0 32 20 11
 1
 end_operator
 begin_operator
@@ -65325,8 +65325,8 @@ succumb abrasion excitement scallop earth uranus
 1
 2 12
 2
-0 32 20 12
 0 29 0 2
+0 32 20 12
 1
 end_operator
 begin_operator
@@ -65334,8 +65334,8 @@ succumb abrasion excitement scallop uranus vulcan
 1
 2 12
 2
-0 32 20 12
 0 29 2 3
+0 32 20 12
 1
 end_operator
 begin_operator
@@ -65343,8 +65343,8 @@ succumb abrasion excitement scallop vulcan jupiter
 1
 2 12
 2
-0 32 20 12
 0 29 3 1
+0 32 20 12
 1
 end_operator
 begin_operator
@@ -65352,8 +65352,8 @@ succumb abrasion excitement tofu earth uranus
 1
 2 13
 2
-0 32 20 13
 0 29 0 2
+0 32 20 13
 1
 end_operator
 begin_operator
@@ -65361,8 +65361,8 @@ succumb abrasion excitement tofu uranus vulcan
 1
 2 13
 2
-0 32 20 13
 0 29 2 3
+0 32 20 13
 1
 end_operator
 begin_operator
@@ -65370,8 +65370,8 @@ succumb abrasion excitement tofu vulcan jupiter
 1
 2 13
 2
-0 32 20 13
 0 29 3 1
+0 32 20 13
 1
 end_operator
 begin_operator
@@ -65379,8 +65379,8 @@ succumb abrasion excitement tomato earth uranus
 1
 2 14
 2
-0 32 20 14
 0 29 0 2
+0 32 20 14
 1
 end_operator
 begin_operator
@@ -65388,8 +65388,8 @@ succumb abrasion excitement tomato uranus vulcan
 1
 2 14
 2
-0 32 20 14
 0 29 2 3
+0 32 20 14
 1
 end_operator
 begin_operator
@@ -65397,8 +65397,8 @@ succumb abrasion excitement tomato vulcan jupiter
 1
 2 14
 2
-0 32 20 14
 0 29 3 1
+0 32 20 14
 1
 end_operator
 begin_operator
@@ -65406,8 +65406,8 @@ succumb abrasion excitement tuna earth uranus
 1
 2 15
 2
-0 32 20 15
 0 29 0 2
+0 32 20 15
 1
 end_operator
 begin_operator
@@ -65415,8 +65415,8 @@ succumb abrasion excitement tuna uranus vulcan
 1
 2 15
 2
-0 32 20 15
 0 29 2 3
+0 32 20 15
 1
 end_operator
 begin_operator
@@ -65424,8 +65424,8 @@ succumb abrasion excitement tuna vulcan jupiter
 1
 2 15
 2
-0 32 20 15
 0 29 3 1
+0 32 20 15
 1
 end_operator
 begin_operator
@@ -65433,8 +65433,8 @@ succumb abrasion excitement turkey earth uranus
 1
 2 16
 2
-0 32 20 16
 0 29 0 2
+0 32 20 16
 1
 end_operator
 begin_operator
@@ -65442,8 +65442,8 @@ succumb abrasion excitement turkey uranus vulcan
 1
 2 16
 2
-0 32 20 16
 0 29 2 3
+0 32 20 16
 1
 end_operator
 begin_operator
@@ -65451,8 +65451,8 @@ succumb abrasion excitement turkey vulcan jupiter
 1
 2 16
 2
-0 32 20 16
 0 29 3 1
+0 32 20 16
 1
 end_operator
 begin_operator
@@ -65460,8 +65460,8 @@ succumb abrasion excitement wonderbread earth uranus
 1
 2 17
 2
-0 32 20 17
 0 29 0 2
+0 32 20 17
 1
 end_operator
 begin_operator
@@ -65469,8 +65469,8 @@ succumb abrasion excitement wonderbread uranus vulcan
 1
 2 17
 2
-0 32 20 17
 0 29 2 3
+0 32 20 17
 1
 end_operator
 begin_operator
@@ -65478,8 +65478,8 @@ succumb abrasion excitement wonderbread vulcan jupiter
 1
 2 17
 2
-0 32 20 17
 0 29 3 1
+0 32 20 17
 1
 end_operator
 begin_operator
@@ -65487,8 +65487,8 @@ succumb abrasion learning arugula earth uranus
 1
 3 0
 2
-0 32 21 0
 0 30 0 2
+0 32 21 0
 1
 end_operator
 begin_operator
@@ -65496,8 +65496,8 @@ succumb abrasion learning arugula uranus vulcan
 1
 3 0
 2
-0 32 21 0
 0 30 2 3
+0 32 21 0
 1
 end_operator
 begin_operator
@@ -65505,8 +65505,8 @@ succumb abrasion learning arugula vulcan jupiter
 1
 3 0
 2
-0 32 21 0
 0 30 3 1
+0 32 21 0
 1
 end_operator
 begin_operator
@@ -65514,8 +65514,8 @@ succumb abrasion learning baguette earth uranus
 1
 3 1
 2
-0 32 21 1
 0 30 0 2
+0 32 21 1
 1
 end_operator
 begin_operator
@@ -65523,8 +65523,8 @@ succumb abrasion learning baguette uranus vulcan
 1
 3 1
 2
-0 32 21 1
 0 30 2 3
+0 32 21 1
 1
 end_operator
 begin_operator
@@ -65532,8 +65532,8 @@ succumb abrasion learning baguette vulcan jupiter
 1
 3 1
 2
-0 32 21 1
 0 30 3 1
+0 32 21 1
 1
 end_operator
 begin_operator
@@ -65541,8 +65541,8 @@ succumb abrasion learning cantelope earth uranus
 1
 3 2
 2
-0 32 21 2
 0 30 0 2
+0 32 21 2
 1
 end_operator
 begin_operator
@@ -65550,8 +65550,8 @@ succumb abrasion learning cantelope uranus vulcan
 1
 3 2
 2
-0 32 21 2
 0 30 2 3
+0 32 21 2
 1
 end_operator
 begin_operator
@@ -65559,8 +65559,8 @@ succumb abrasion learning cantelope vulcan jupiter
 1
 3 2
 2
-0 32 21 2
 0 30 3 1
+0 32 21 2
 1
 end_operator
 begin_operator
@@ -65568,8 +65568,8 @@ succumb abrasion learning flounder earth uranus
 1
 3 3
 2
-0 32 21 3
 0 30 0 2
+0 32 21 3
 1
 end_operator
 begin_operator
@@ -65577,8 +65577,8 @@ succumb abrasion learning flounder uranus vulcan
 1
 3 3
 2
-0 32 21 3
 0 30 2 3
+0 32 21 3
 1
 end_operator
 begin_operator
@@ -65586,8 +65586,8 @@ succumb abrasion learning flounder vulcan jupiter
 1
 3 3
 2
-0 32 21 3
 0 30 3 1
+0 32 21 3
 1
 end_operator
 begin_operator
@@ -65595,8 +65595,8 @@ succumb abrasion learning hotdog earth uranus
 1
 3 4
 2
-0 32 21 4
 0 30 0 2
+0 32 21 4
 1
 end_operator
 begin_operator
@@ -65604,8 +65604,8 @@ succumb abrasion learning hotdog uranus vulcan
 1
 3 4
 2
-0 32 21 4
 0 30 2 3
+0 32 21 4
 1
 end_operator
 begin_operator
@@ -65613,8 +65613,8 @@ succumb abrasion learning hotdog vulcan jupiter
 1
 3 4
 2
-0 32 21 4
 0 30 3 1
+0 32 21 4
 1
 end_operator
 begin_operator
@@ -65622,8 +65622,8 @@ succumb abrasion learning lobster earth uranus
 1
 3 5
 2
-0 32 21 5
 0 30 0 2
+0 32 21 5
 1
 end_operator
 begin_operator
@@ -65631,8 +65631,8 @@ succumb abrasion learning lobster uranus vulcan
 1
 3 5
 2
-0 32 21 5
 0 30 2 3
+0 32 21 5
 1
 end_operator
 begin_operator
@@ -65640,8 +65640,8 @@ succumb abrasion learning lobster vulcan jupiter
 1
 3 5
 2
-0 32 21 5
 0 30 3 1
+0 32 21 5
 1
 end_operator
 begin_operator
@@ -65649,8 +65649,8 @@ succumb abrasion learning muffin earth uranus
 1
 3 6
 2
-0 32 21 6
 0 30 0 2
+0 32 21 6
 1
 end_operator
 begin_operator
@@ -65658,8 +65658,8 @@ succumb abrasion learning muffin uranus vulcan
 1
 3 6
 2
-0 32 21 6
 0 30 2 3
+0 32 21 6
 1
 end_operator
 begin_operator
@@ -65667,8 +65667,8 @@ succumb abrasion learning muffin vulcan jupiter
 1
 3 6
 2
-0 32 21 6
 0 30 3 1
+0 32 21 6
 1
 end_operator
 begin_operator
@@ -65676,8 +65676,8 @@ succumb abrasion learning okra earth uranus
 1
 3 7
 2
-0 32 21 7
 0 30 0 2
+0 32 21 7
 1
 end_operator
 begin_operator
@@ -65685,8 +65685,8 @@ succumb abrasion learning okra uranus vulcan
 1
 3 7
 2
-0 32 21 7
 0 30 2 3
+0 32 21 7
 1
 end_operator
 begin_operator
@@ -65694,8 +65694,8 @@ succumb abrasion learning okra vulcan jupiter
 1
 3 7
 2
-0 32 21 7
 0 30 3 1
+0 32 21 7
 1
 end_operator
 begin_operator
@@ -65703,8 +65703,8 @@ succumb abrasion learning pepper earth uranus
 1
 3 8
 2
-0 32 21 8
 0 30 0 2
+0 32 21 8
 1
 end_operator
 begin_operator
@@ -65712,8 +65712,8 @@ succumb abrasion learning pepper uranus vulcan
 1
 3 8
 2
-0 32 21 8
 0 30 2 3
+0 32 21 8
 1
 end_operator
 begin_operator
@@ -65721,8 +65721,8 @@ succumb abrasion learning pepper vulcan jupiter
 1
 3 8
 2
-0 32 21 8
 0 30 3 1
+0 32 21 8
 1
 end_operator
 begin_operator
@@ -65730,8 +65730,8 @@ succumb abrasion learning pistachio earth uranus
 1
 3 9
 2
-0 32 21 9
 0 30 0 2
+0 32 21 9
 1
 end_operator
 begin_operator
@@ -65739,8 +65739,8 @@ succumb abrasion learning pistachio uranus vulcan
 1
 3 9
 2
-0 32 21 9
 0 30 2 3
+0 32 21 9
 1
 end_operator
 begin_operator
@@ -65748,8 +65748,8 @@ succumb abrasion learning pistachio vulcan jupiter
 1
 3 9
 2
-0 32 21 9
 0 30 3 1
+0 32 21 9
 1
 end_operator
 begin_operator
@@ -65757,8 +65757,8 @@ succumb abrasion learning pork earth uranus
 1
 3 10
 2
-0 32 21 10
 0 30 0 2
+0 32 21 10
 1
 end_operator
 begin_operator
@@ -65766,8 +65766,8 @@ succumb abrasion learning pork uranus vulcan
 1
 3 10
 2
-0 32 21 10
 0 30 2 3
+0 32 21 10
 1
 end_operator
 begin_operator
@@ -65775,8 +65775,8 @@ succumb abrasion learning pork vulcan jupiter
 1
 3 10
 2
-0 32 21 10
 0 30 3 1
+0 32 21 10
 1
 end_operator
 begin_operator
@@ -65784,8 +65784,8 @@ succumb abrasion learning rice earth uranus
 1
 3 11
 2
-0 32 21 11
 0 30 0 2
+0 32 21 11
 1
 end_operator
 begin_operator
@@ -65793,8 +65793,8 @@ succumb abrasion learning rice uranus vulcan
 1
 3 11
 2
-0 32 21 11
 0 30 2 3
+0 32 21 11
 1
 end_operator
 begin_operator
@@ -65802,8 +65802,8 @@ succumb abrasion learning rice vulcan jupiter
 1
 3 11
 2
-0 32 21 11
 0 30 3 1
+0 32 21 11
 1
 end_operator
 begin_operator
@@ -65811,8 +65811,8 @@ succumb abrasion learning scallop earth uranus
 1
 3 12
 2
-0 32 21 12
 0 30 0 2
+0 32 21 12
 1
 end_operator
 begin_operator
@@ -65820,8 +65820,8 @@ succumb abrasion learning scallop uranus vulcan
 1
 3 12
 2
-0 32 21 12
 0 30 2 3
+0 32 21 12
 1
 end_operator
 begin_operator
@@ -65829,8 +65829,8 @@ succumb abrasion learning scallop vulcan jupiter
 1
 3 12
 2
-0 32 21 12
 0 30 3 1
+0 32 21 12
 1
 end_operator
 begin_operator
@@ -65838,8 +65838,8 @@ succumb abrasion learning tofu earth uranus
 1
 3 13
 2
-0 32 21 13
 0 30 0 2
+0 32 21 13
 1
 end_operator
 begin_operator
@@ -65847,8 +65847,8 @@ succumb abrasion learning tofu uranus vulcan
 1
 3 13
 2
-0 32 21 13
 0 30 2 3
+0 32 21 13
 1
 end_operator
 begin_operator
@@ -65856,8 +65856,8 @@ succumb abrasion learning tofu vulcan jupiter
 1
 3 13
 2
-0 32 21 13
 0 30 3 1
+0 32 21 13
 1
 end_operator
 begin_operator
@@ -65865,8 +65865,8 @@ succumb abrasion learning tomato earth uranus
 1
 3 14
 2
-0 32 21 14
 0 30 0 2
+0 32 21 14
 1
 end_operator
 begin_operator
@@ -65874,8 +65874,8 @@ succumb abrasion learning tomato uranus vulcan
 1
 3 14
 2
-0 32 21 14
 0 30 2 3
+0 32 21 14
 1
 end_operator
 begin_operator
@@ -65883,8 +65883,8 @@ succumb abrasion learning tomato vulcan jupiter
 1
 3 14
 2
-0 32 21 14
 0 30 3 1
+0 32 21 14
 1
 end_operator
 begin_operator
@@ -65892,8 +65892,8 @@ succumb abrasion learning tuna earth uranus
 1
 3 15
 2
-0 32 21 15
 0 30 0 2
+0 32 21 15
 1
 end_operator
 begin_operator
@@ -65901,8 +65901,8 @@ succumb abrasion learning tuna uranus vulcan
 1
 3 15
 2
-0 32 21 15
 0 30 2 3
+0 32 21 15
 1
 end_operator
 begin_operator
@@ -65910,8 +65910,8 @@ succumb abrasion learning tuna vulcan jupiter
 1
 3 15
 2
-0 32 21 15
 0 30 3 1
+0 32 21 15
 1
 end_operator
 begin_operator
@@ -65919,8 +65919,8 @@ succumb abrasion learning turkey earth uranus
 1
 3 16
 2
-0 32 21 16
 0 30 0 2
+0 32 21 16
 1
 end_operator
 begin_operator
@@ -65928,8 +65928,8 @@ succumb abrasion learning turkey uranus vulcan
 1
 3 16
 2
-0 32 21 16
 0 30 2 3
+0 32 21 16
 1
 end_operator
 begin_operator
@@ -65937,8 +65937,8 @@ succumb abrasion learning turkey vulcan jupiter
 1
 3 16
 2
-0 32 21 16
 0 30 3 1
+0 32 21 16
 1
 end_operator
 begin_operator
@@ -65946,8 +65946,8 @@ succumb abrasion learning wonderbread earth uranus
 1
 3 17
 2
-0 32 21 17
 0 30 0 2
+0 32 21 17
 1
 end_operator
 begin_operator
@@ -65955,8 +65955,8 @@ succumb abrasion learning wonderbread uranus vulcan
 1
 3 17
 2
-0 32 21 17
 0 30 2 3
+0 32 21 17
 1
 end_operator
 begin_operator
@@ -65964,8 +65964,8 @@ succumb abrasion learning wonderbread vulcan jupiter
 1
 3 17
 2
-0 32 21 17
 0 30 3 1
+0 32 21 17
 1
 end_operator
 begin_operator
@@ -65973,8 +65973,8 @@ succumb abrasion love arugula earth uranus
 1
 4 0
 2
-0 32 22 0
 0 31 0 2
+0 32 22 0
 1
 end_operator
 begin_operator
@@ -65982,8 +65982,8 @@ succumb abrasion love arugula uranus vulcan
 1
 4 0
 2
-0 32 22 0
 0 31 2 3
+0 32 22 0
 1
 end_operator
 begin_operator
@@ -65991,8 +65991,8 @@ succumb abrasion love arugula vulcan jupiter
 1
 4 0
 2
-0 32 22 0
 0 31 3 1
+0 32 22 0
 1
 end_operator
 begin_operator
@@ -66000,8 +66000,8 @@ succumb abrasion love baguette earth uranus
 1
 4 1
 2
-0 32 22 1
 0 31 0 2
+0 32 22 1
 1
 end_operator
 begin_operator
@@ -66009,8 +66009,8 @@ succumb abrasion love baguette uranus vulcan
 1
 4 1
 2
-0 32 22 1
 0 31 2 3
+0 32 22 1
 1
 end_operator
 begin_operator
@@ -66018,8 +66018,8 @@ succumb abrasion love baguette vulcan jupiter
 1
 4 1
 2
-0 32 22 1
 0 31 3 1
+0 32 22 1
 1
 end_operator
 begin_operator
@@ -66027,8 +66027,8 @@ succumb abrasion love cantelope earth uranus
 1
 4 2
 2
-0 32 22 2
 0 31 0 2
+0 32 22 2
 1
 end_operator
 begin_operator
@@ -66036,8 +66036,8 @@ succumb abrasion love cantelope uranus vulcan
 1
 4 2
 2
-0 32 22 2
 0 31 2 3
+0 32 22 2
 1
 end_operator
 begin_operator
@@ -66045,8 +66045,8 @@ succumb abrasion love cantelope vulcan jupiter
 1
 4 2
 2
-0 32 22 2
 0 31 3 1
+0 32 22 2
 1
 end_operator
 begin_operator
@@ -66054,8 +66054,8 @@ succumb abrasion love flounder earth uranus
 1
 4 3
 2
-0 32 22 3
 0 31 0 2
+0 32 22 3
 1
 end_operator
 begin_operator
@@ -66063,8 +66063,8 @@ succumb abrasion love flounder uranus vulcan
 1
 4 3
 2
-0 32 22 3
 0 31 2 3
+0 32 22 3
 1
 end_operator
 begin_operator
@@ -66072,8 +66072,8 @@ succumb abrasion love flounder vulcan jupiter
 1
 4 3
 2
-0 32 22 3
 0 31 3 1
+0 32 22 3
 1
 end_operator
 begin_operator
@@ -66081,8 +66081,8 @@ succumb abrasion love hotdog earth uranus
 1
 4 4
 2
-0 32 22 4
 0 31 0 2
+0 32 22 4
 1
 end_operator
 begin_operator
@@ -66090,8 +66090,8 @@ succumb abrasion love hotdog uranus vulcan
 1
 4 4
 2
-0 32 22 4
 0 31 2 3
+0 32 22 4
 1
 end_operator
 begin_operator
@@ -66099,8 +66099,8 @@ succumb abrasion love hotdog vulcan jupiter
 1
 4 4
 2
-0 32 22 4
 0 31 3 1
+0 32 22 4
 1
 end_operator
 begin_operator
@@ -66108,8 +66108,8 @@ succumb abrasion love lobster earth uranus
 1
 4 5
 2
-0 32 22 5
 0 31 0 2
+0 32 22 5
 1
 end_operator
 begin_operator
@@ -66117,8 +66117,8 @@ succumb abrasion love lobster uranus vulcan
 1
 4 5
 2
-0 32 22 5
 0 31 2 3
+0 32 22 5
 1
 end_operator
 begin_operator
@@ -66126,8 +66126,8 @@ succumb abrasion love lobster vulcan jupiter
 1
 4 5
 2
-0 32 22 5
 0 31 3 1
+0 32 22 5
 1
 end_operator
 begin_operator
@@ -66135,8 +66135,8 @@ succumb abrasion love muffin earth uranus
 1
 4 6
 2
-0 32 22 6
 0 31 0 2
+0 32 22 6
 1
 end_operator
 begin_operator
@@ -66144,8 +66144,8 @@ succumb abrasion love muffin uranus vulcan
 1
 4 6
 2
-0 32 22 6
 0 31 2 3
+0 32 22 6
 1
 end_operator
 begin_operator
@@ -66153,8 +66153,8 @@ succumb abrasion love muffin vulcan jupiter
 1
 4 6
 2
-0 32 22 6
 0 31 3 1
+0 32 22 6
 1
 end_operator
 begin_operator
@@ -66162,8 +66162,8 @@ succumb abrasion love okra earth uranus
 1
 4 7
 2
-0 32 22 7
 0 31 0 2
+0 32 22 7
 1
 end_operator
 begin_operator
@@ -66171,8 +66171,8 @@ succumb abrasion love okra uranus vulcan
 1
 4 7
 2
-0 32 22 7
 0 31 2 3
+0 32 22 7
 1
 end_operator
 begin_operator
@@ -66180,8 +66180,8 @@ succumb abrasion love okra vulcan jupiter
 1
 4 7
 2
-0 32 22 7
 0 31 3 1
+0 32 22 7
 1
 end_operator
 begin_operator
@@ -66189,8 +66189,8 @@ succumb abrasion love pepper earth uranus
 1
 4 8
 2
-0 32 22 8
 0 31 0 2
+0 32 22 8
 1
 end_operator
 begin_operator
@@ -66198,8 +66198,8 @@ succumb abrasion love pepper uranus vulcan
 1
 4 8
 2
-0 32 22 8
 0 31 2 3
+0 32 22 8
 1
 end_operator
 begin_operator
@@ -66207,8 +66207,8 @@ succumb abrasion love pepper vulcan jupiter
 1
 4 8
 2
-0 32 22 8
 0 31 3 1
+0 32 22 8
 1
 end_operator
 begin_operator
@@ -66216,8 +66216,8 @@ succumb abrasion love pistachio earth uranus
 1
 4 9
 2
-0 32 22 9
 0 31 0 2
+0 32 22 9
 1
 end_operator
 begin_operator
@@ -66225,8 +66225,8 @@ succumb abrasion love pistachio uranus vulcan
 1
 4 9
 2
-0 32 22 9
 0 31 2 3
+0 32 22 9
 1
 end_operator
 begin_operator
@@ -66234,8 +66234,8 @@ succumb abrasion love pistachio vulcan jupiter
 1
 4 9
 2
-0 32 22 9
 0 31 3 1
+0 32 22 9
 1
 end_operator
 begin_operator
@@ -66243,8 +66243,8 @@ succumb abrasion love pork earth uranus
 1
 4 10
 2
-0 32 22 10
 0 31 0 2
+0 32 22 10
 1
 end_operator
 begin_operator
@@ -66252,8 +66252,8 @@ succumb abrasion love pork uranus vulcan
 1
 4 10
 2
-0 32 22 10
 0 31 2 3
+0 32 22 10
 1
 end_operator
 begin_operator
@@ -66261,8 +66261,8 @@ succumb abrasion love pork vulcan jupiter
 1
 4 10
 2
-0 32 22 10
 0 31 3 1
+0 32 22 10
 1
 end_operator
 begin_operator
@@ -66270,8 +66270,8 @@ succumb abrasion love rice earth uranus
 1
 4 11
 2
-0 32 22 11
 0 31 0 2
+0 32 22 11
 1
 end_operator
 begin_operator
@@ -66279,8 +66279,8 @@ succumb abrasion love rice uranus vulcan
 1
 4 11
 2
-0 32 22 11
 0 31 2 3
+0 32 22 11
 1
 end_operator
 begin_operator
@@ -66288,8 +66288,8 @@ succumb abrasion love rice vulcan jupiter
 1
 4 11
 2
-0 32 22 11
 0 31 3 1
+0 32 22 11
 1
 end_operator
 begin_operator
@@ -66297,8 +66297,8 @@ succumb abrasion love scallop earth uranus
 1
 4 12
 2
-0 32 22 12
 0 31 0 2
+0 32 22 12
 1
 end_operator
 begin_operator
@@ -66306,8 +66306,8 @@ succumb abrasion love scallop uranus vulcan
 1
 4 12
 2
-0 32 22 12
 0 31 2 3
+0 32 22 12
 1
 end_operator
 begin_operator
@@ -66315,8 +66315,8 @@ succumb abrasion love scallop vulcan jupiter
 1
 4 12
 2
-0 32 22 12
 0 31 3 1
+0 32 22 12
 1
 end_operator
 begin_operator
@@ -66324,8 +66324,8 @@ succumb abrasion love tofu earth uranus
 1
 4 13
 2
-0 32 22 13
 0 31 0 2
+0 32 22 13
 1
 end_operator
 begin_operator
@@ -66333,8 +66333,8 @@ succumb abrasion love tofu uranus vulcan
 1
 4 13
 2
-0 32 22 13
 0 31 2 3
+0 32 22 13
 1
 end_operator
 begin_operator
@@ -66342,8 +66342,8 @@ succumb abrasion love tofu vulcan jupiter
 1
 4 13
 2
-0 32 22 13
 0 31 3 1
+0 32 22 13
 1
 end_operator
 begin_operator
@@ -66351,8 +66351,8 @@ succumb abrasion love tomato earth uranus
 1
 4 14
 2
-0 32 22 14
 0 31 0 2
+0 32 22 14
 1
 end_operator
 begin_operator
@@ -66360,8 +66360,8 @@ succumb abrasion love tomato uranus vulcan
 1
 4 14
 2
-0 32 22 14
 0 31 2 3
+0 32 22 14
 1
 end_operator
 begin_operator
@@ -66369,8 +66369,8 @@ succumb abrasion love tomato vulcan jupiter
 1
 4 14
 2
-0 32 22 14
 0 31 3 1
+0 32 22 14
 1
 end_operator
 begin_operator
@@ -66378,8 +66378,8 @@ succumb abrasion love tuna earth uranus
 1
 4 15
 2
-0 32 22 15
 0 31 0 2
+0 32 22 15
 1
 end_operator
 begin_operator
@@ -66387,8 +66387,8 @@ succumb abrasion love tuna uranus vulcan
 1
 4 15
 2
-0 32 22 15
 0 31 2 3
+0 32 22 15
 1
 end_operator
 begin_operator
@@ -66396,8 +66396,8 @@ succumb abrasion love tuna vulcan jupiter
 1
 4 15
 2
-0 32 22 15
 0 31 3 1
+0 32 22 15
 1
 end_operator
 begin_operator
@@ -66405,8 +66405,8 @@ succumb abrasion love turkey earth uranus
 1
 4 16
 2
-0 32 22 16
 0 31 0 2
+0 32 22 16
 1
 end_operator
 begin_operator
@@ -66414,8 +66414,8 @@ succumb abrasion love turkey uranus vulcan
 1
 4 16
 2
-0 32 22 16
 0 31 2 3
+0 32 22 16
 1
 end_operator
 begin_operator
@@ -66423,8 +66423,8 @@ succumb abrasion love turkey vulcan jupiter
 1
 4 16
 2
-0 32 22 16
 0 31 3 1
+0 32 22 16
 1
 end_operator
 begin_operator
@@ -66432,8 +66432,8 @@ succumb abrasion love wonderbread earth uranus
 1
 4 17
 2
-0 32 22 17
 0 31 0 2
+0 32 22 17
 1
 end_operator
 begin_operator
@@ -66441,8 +66441,8 @@ succumb abrasion love wonderbread uranus vulcan
 1
 4 17
 2
-0 32 22 17
 0 31 2 3
+0 32 22 17
 1
 end_operator
 begin_operator
@@ -66450,8 +66450,8 @@ succumb abrasion love wonderbread vulcan jupiter
 1
 4 17
 2
-0 32 22 17
 0 31 3 1
+0 32 22 17
 1
 end_operator
 begin_operator
@@ -68403,8 +68403,8 @@ succumb anger achievement arugula earth uranus
 1
 0 0
 2
-0 33 18 0
 0 27 0 2
+0 33 18 0
 1
 end_operator
 begin_operator
@@ -68412,8 +68412,8 @@ succumb anger achievement arugula uranus vulcan
 1
 0 0
 2
-0 33 18 0
 0 27 2 3
+0 33 18 0
 1
 end_operator
 begin_operator
@@ -68421,8 +68421,8 @@ succumb anger achievement arugula vulcan jupiter
 1
 0 0
 2
-0 33 18 0
 0 27 3 1
+0 33 18 0
 1
 end_operator
 begin_operator
@@ -68430,8 +68430,8 @@ succumb anger achievement baguette earth uranus
 1
 0 1
 2
-0 33 18 1
 0 27 0 2
+0 33 18 1
 1
 end_operator
 begin_operator
@@ -68439,8 +68439,8 @@ succumb anger achievement baguette uranus vulcan
 1
 0 1
 2
-0 33 18 1
 0 27 2 3
+0 33 18 1
 1
 end_operator
 begin_operator
@@ -68448,8 +68448,8 @@ succumb anger achievement baguette vulcan jupiter
 1
 0 1
 2
-0 33 18 1
 0 27 3 1
+0 33 18 1
 1
 end_operator
 begin_operator
@@ -68457,8 +68457,8 @@ succumb anger achievement cantelope earth uranus
 1
 0 2
 2
-0 33 18 2
 0 27 0 2
+0 33 18 2
 1
 end_operator
 begin_operator
@@ -68466,8 +68466,8 @@ succumb anger achievement cantelope uranus vulcan
 1
 0 2
 2
-0 33 18 2
 0 27 2 3
+0 33 18 2
 1
 end_operator
 begin_operator
@@ -68475,8 +68475,8 @@ succumb anger achievement cantelope vulcan jupiter
 1
 0 2
 2
-0 33 18 2
 0 27 3 1
+0 33 18 2
 1
 end_operator
 begin_operator
@@ -68484,8 +68484,8 @@ succumb anger achievement flounder earth uranus
 1
 0 3
 2
-0 33 18 3
 0 27 0 2
+0 33 18 3
 1
 end_operator
 begin_operator
@@ -68493,8 +68493,8 @@ succumb anger achievement flounder uranus vulcan
 1
 0 3
 2
-0 33 18 3
 0 27 2 3
+0 33 18 3
 1
 end_operator
 begin_operator
@@ -68502,8 +68502,8 @@ succumb anger achievement flounder vulcan jupiter
 1
 0 3
 2
-0 33 18 3
 0 27 3 1
+0 33 18 3
 1
 end_operator
 begin_operator
@@ -68511,8 +68511,8 @@ succumb anger achievement hotdog earth uranus
 1
 0 4
 2
-0 33 18 4
 0 27 0 2
+0 33 18 4
 1
 end_operator
 begin_operator
@@ -68520,8 +68520,8 @@ succumb anger achievement hotdog uranus vulcan
 1
 0 4
 2
-0 33 18 4
 0 27 2 3
+0 33 18 4
 1
 end_operator
 begin_operator
@@ -68529,8 +68529,8 @@ succumb anger achievement hotdog vulcan jupiter
 1
 0 4
 2
-0 33 18 4
 0 27 3 1
+0 33 18 4
 1
 end_operator
 begin_operator
@@ -68538,8 +68538,8 @@ succumb anger achievement lobster earth uranus
 1
 0 5
 2
-0 33 18 5
 0 27 0 2
+0 33 18 5
 1
 end_operator
 begin_operator
@@ -68547,8 +68547,8 @@ succumb anger achievement lobster uranus vulcan
 1
 0 5
 2
-0 33 18 5
 0 27 2 3
+0 33 18 5
 1
 end_operator
 begin_operator
@@ -68556,8 +68556,8 @@ succumb anger achievement lobster vulcan jupiter
 1
 0 5
 2
-0 33 18 5
 0 27 3 1
+0 33 18 5
 1
 end_operator
 begin_operator
@@ -68565,8 +68565,8 @@ succumb anger achievement muffin earth uranus
 1
 0 6
 2
-0 33 18 6
 0 27 0 2
+0 33 18 6
 1
 end_operator
 begin_operator
@@ -68574,8 +68574,8 @@ succumb anger achievement muffin uranus vulcan
 1
 0 6
 2
-0 33 18 6
 0 27 2 3
+0 33 18 6
 1
 end_operator
 begin_operator
@@ -68583,8 +68583,8 @@ succumb anger achievement muffin vulcan jupiter
 1
 0 6
 2
-0 33 18 6
 0 27 3 1
+0 33 18 6
 1
 end_operator
 begin_operator
@@ -68592,8 +68592,8 @@ succumb anger achievement okra earth uranus
 1
 0 7
 2
-0 33 18 7
 0 27 0 2
+0 33 18 7
 1
 end_operator
 begin_operator
@@ -68601,8 +68601,8 @@ succumb anger achievement okra uranus vulcan
 1
 0 7
 2
-0 33 18 7
 0 27 2 3
+0 33 18 7
 1
 end_operator
 begin_operator
@@ -68610,8 +68610,8 @@ succumb anger achievement okra vulcan jupiter
 1
 0 7
 2
-0 33 18 7
 0 27 3 1
+0 33 18 7
 1
 end_operator
 begin_operator
@@ -68619,8 +68619,8 @@ succumb anger achievement pepper earth uranus
 1
 0 8
 2
-0 33 18 8
 0 27 0 2
+0 33 18 8
 1
 end_operator
 begin_operator
@@ -68628,8 +68628,8 @@ succumb anger achievement pepper uranus vulcan
 1
 0 8
 2
-0 33 18 8
 0 27 2 3
+0 33 18 8
 1
 end_operator
 begin_operator
@@ -68637,8 +68637,8 @@ succumb anger achievement pepper vulcan jupiter
 1
 0 8
 2
-0 33 18 8
 0 27 3 1
+0 33 18 8
 1
 end_operator
 begin_operator
@@ -68646,8 +68646,8 @@ succumb anger achievement pistachio earth uranus
 1
 0 9
 2
-0 33 18 9
 0 27 0 2
+0 33 18 9
 1
 end_operator
 begin_operator
@@ -68655,8 +68655,8 @@ succumb anger achievement pistachio uranus vulcan
 1
 0 9
 2
-0 33 18 9
 0 27 2 3
+0 33 18 9
 1
 end_operator
 begin_operator
@@ -68664,8 +68664,8 @@ succumb anger achievement pistachio vulcan jupiter
 1
 0 9
 2
-0 33 18 9
 0 27 3 1
+0 33 18 9
 1
 end_operator
 begin_operator
@@ -68673,8 +68673,8 @@ succumb anger achievement pork earth uranus
 1
 0 10
 2
-0 33 18 10
 0 27 0 2
+0 33 18 10
 1
 end_operator
 begin_operator
@@ -68682,8 +68682,8 @@ succumb anger achievement pork uranus vulcan
 1
 0 10
 2
-0 33 18 10
 0 27 2 3
+0 33 18 10
 1
 end_operator
 begin_operator
@@ -68691,8 +68691,8 @@ succumb anger achievement pork vulcan jupiter
 1
 0 10
 2
-0 33 18 10
 0 27 3 1
+0 33 18 10
 1
 end_operator
 begin_operator
@@ -68700,8 +68700,8 @@ succumb anger achievement rice earth uranus
 1
 0 11
 2
-0 33 18 11
 0 27 0 2
+0 33 18 11
 1
 end_operator
 begin_operator
@@ -68709,8 +68709,8 @@ succumb anger achievement rice uranus vulcan
 1
 0 11
 2
-0 33 18 11
 0 27 2 3
+0 33 18 11
 1
 end_operator
 begin_operator
@@ -68718,8 +68718,8 @@ succumb anger achievement rice vulcan jupiter
 1
 0 11
 2
-0 33 18 11
 0 27 3 1
+0 33 18 11
 1
 end_operator
 begin_operator
@@ -68727,8 +68727,8 @@ succumb anger achievement scallop earth uranus
 1
 0 12
 2
-0 33 18 12
 0 27 0 2
+0 33 18 12
 1
 end_operator
 begin_operator
@@ -68736,8 +68736,8 @@ succumb anger achievement scallop uranus vulcan
 1
 0 12
 2
-0 33 18 12
 0 27 2 3
+0 33 18 12
 1
 end_operator
 begin_operator
@@ -68745,8 +68745,8 @@ succumb anger achievement scallop vulcan jupiter
 1
 0 12
 2
-0 33 18 12
 0 27 3 1
+0 33 18 12
 1
 end_operator
 begin_operator
@@ -68754,8 +68754,8 @@ succumb anger achievement tofu earth uranus
 1
 0 13
 2
-0 33 18 13
 0 27 0 2
+0 33 18 13
 1
 end_operator
 begin_operator
@@ -68763,8 +68763,8 @@ succumb anger achievement tofu uranus vulcan
 1
 0 13
 2
-0 33 18 13
 0 27 2 3
+0 33 18 13
 1
 end_operator
 begin_operator
@@ -68772,8 +68772,8 @@ succumb anger achievement tofu vulcan jupiter
 1
 0 13
 2
-0 33 18 13
 0 27 3 1
+0 33 18 13
 1
 end_operator
 begin_operator
@@ -68781,8 +68781,8 @@ succumb anger achievement tomato earth uranus
 1
 0 14
 2
-0 33 18 14
 0 27 0 2
+0 33 18 14
 1
 end_operator
 begin_operator
@@ -68790,8 +68790,8 @@ succumb anger achievement tomato uranus vulcan
 1
 0 14
 2
-0 33 18 14
 0 27 2 3
+0 33 18 14
 1
 end_operator
 begin_operator
@@ -68799,8 +68799,8 @@ succumb anger achievement tomato vulcan jupiter
 1
 0 14
 2
-0 33 18 14
 0 27 3 1
+0 33 18 14
 1
 end_operator
 begin_operator
@@ -68808,8 +68808,8 @@ succumb anger achievement tuna earth uranus
 1
 0 15
 2
-0 33 18 15
 0 27 0 2
+0 33 18 15
 1
 end_operator
 begin_operator
@@ -68817,8 +68817,8 @@ succumb anger achievement tuna uranus vulcan
 1
 0 15
 2
-0 33 18 15
 0 27 2 3
+0 33 18 15
 1
 end_operator
 begin_operator
@@ -68826,8 +68826,8 @@ succumb anger achievement tuna vulcan jupiter
 1
 0 15
 2
-0 33 18 15
 0 27 3 1
+0 33 18 15
 1
 end_operator
 begin_operator
@@ -68835,8 +68835,8 @@ succumb anger achievement turkey earth uranus
 1
 0 16
 2
-0 33 18 16
 0 27 0 2
+0 33 18 16
 1
 end_operator
 begin_operator
@@ -68844,8 +68844,8 @@ succumb anger achievement turkey uranus vulcan
 1
 0 16
 2
-0 33 18 16
 0 27 2 3
+0 33 18 16
 1
 end_operator
 begin_operator
@@ -68853,8 +68853,8 @@ succumb anger achievement turkey vulcan jupiter
 1
 0 16
 2
-0 33 18 16
 0 27 3 1
+0 33 18 16
 1
 end_operator
 begin_operator
@@ -68862,8 +68862,8 @@ succumb anger achievement wonderbread earth uranus
 1
 0 17
 2
-0 33 18 17
 0 27 0 2
+0 33 18 17
 1
 end_operator
 begin_operator
@@ -68871,8 +68871,8 @@ succumb anger achievement wonderbread uranus vulcan
 1
 0 17
 2
-0 33 18 17
 0 27 2 3
+0 33 18 17
 1
 end_operator
 begin_operator
@@ -68880,8 +68880,8 @@ succumb anger achievement wonderbread vulcan jupiter
 1
 0 17
 2
-0 33 18 17
 0 27 3 1
+0 33 18 17
 1
 end_operator
 begin_operator
@@ -68889,8 +68889,8 @@ succumb anger aesthetics arugula earth uranus
 1
 1 0
 2
-0 33 19 0
 0 28 0 2
+0 33 19 0
 1
 end_operator
 begin_operator
@@ -68898,8 +68898,8 @@ succumb anger aesthetics arugula uranus vulcan
 1
 1 0
 2
-0 33 19 0
 0 28 2 3
+0 33 19 0
 1
 end_operator
 begin_operator
@@ -68907,8 +68907,8 @@ succumb anger aesthetics arugula vulcan jupiter
 1
 1 0
 2
-0 33 19 0
 0 28 3 1
+0 33 19 0
 1
 end_operator
 begin_operator
@@ -68916,8 +68916,8 @@ succumb anger aesthetics baguette earth uranus
 1
 1 1
 2
-0 33 19 1
 0 28 0 2
+0 33 19 1
 1
 end_operator
 begin_operator
@@ -68925,8 +68925,8 @@ succumb anger aesthetics baguette uranus vulcan
 1
 1 1
 2
-0 33 19 1
 0 28 2 3
+0 33 19 1
 1
 end_operator
 begin_operator
@@ -68934,8 +68934,8 @@ succumb anger aesthetics baguette vulcan jupiter
 1
 1 1
 2
-0 33 19 1
 0 28 3 1
+0 33 19 1
 1
 end_operator
 begin_operator
@@ -68943,8 +68943,8 @@ succumb anger aesthetics cantelope earth uranus
 1
 1 2
 2
-0 33 19 2
 0 28 0 2
+0 33 19 2
 1
 end_operator
 begin_operator
@@ -68952,8 +68952,8 @@ succumb anger aesthetics cantelope uranus vulcan
 1
 1 2
 2
-0 33 19 2
 0 28 2 3
+0 33 19 2
 1
 end_operator
 begin_operator
@@ -68961,8 +68961,8 @@ succumb anger aesthetics cantelope vulcan jupiter
 1
 1 2
 2
-0 33 19 2
 0 28 3 1
+0 33 19 2
 1
 end_operator
 begin_operator
@@ -68970,8 +68970,8 @@ succumb anger aesthetics flounder earth uranus
 1
 1 3
 2
-0 33 19 3
 0 28 0 2
+0 33 19 3
 1
 end_operator
 begin_operator
@@ -68979,8 +68979,8 @@ succumb anger aesthetics flounder uranus vulcan
 1
 1 3
 2
-0 33 19 3
 0 28 2 3
+0 33 19 3
 1
 end_operator
 begin_operator
@@ -68988,8 +68988,8 @@ succumb anger aesthetics flounder vulcan jupiter
 1
 1 3
 2
-0 33 19 3
 0 28 3 1
+0 33 19 3
 1
 end_operator
 begin_operator
@@ -68997,8 +68997,8 @@ succumb anger aesthetics hotdog earth uranus
 1
 1 4
 2
-0 33 19 4
 0 28 0 2
+0 33 19 4
 1
 end_operator
 begin_operator
@@ -69006,8 +69006,8 @@ succumb anger aesthetics hotdog uranus vulcan
 1
 1 4
 2
-0 33 19 4
 0 28 2 3
+0 33 19 4
 1
 end_operator
 begin_operator
@@ -69015,8 +69015,8 @@ succumb anger aesthetics hotdog vulcan jupiter
 1
 1 4
 2
-0 33 19 4
 0 28 3 1
+0 33 19 4
 1
 end_operator
 begin_operator
@@ -69024,8 +69024,8 @@ succumb anger aesthetics lobster earth uranus
 1
 1 5
 2
-0 33 19 5
 0 28 0 2
+0 33 19 5
 1
 end_operator
 begin_operator
@@ -69033,8 +69033,8 @@ succumb anger aesthetics lobster uranus vulcan
 1
 1 5
 2
-0 33 19 5
 0 28 2 3
+0 33 19 5
 1
 end_operator
 begin_operator
@@ -69042,8 +69042,8 @@ succumb anger aesthetics lobster vulcan jupiter
 1
 1 5
 2
-0 33 19 5
 0 28 3 1
+0 33 19 5
 1
 end_operator
 begin_operator
@@ -69051,8 +69051,8 @@ succumb anger aesthetics muffin earth uranus
 1
 1 6
 2
-0 33 19 6
 0 28 0 2
+0 33 19 6
 1
 end_operator
 begin_operator
@@ -69060,8 +69060,8 @@ succumb anger aesthetics muffin uranus vulcan
 1
 1 6
 2
-0 33 19 6
 0 28 2 3
+0 33 19 6
 1
 end_operator
 begin_operator
@@ -69069,8 +69069,8 @@ succumb anger aesthetics muffin vulcan jupiter
 1
 1 6
 2
-0 33 19 6
 0 28 3 1
+0 33 19 6
 1
 end_operator
 begin_operator
@@ -69078,8 +69078,8 @@ succumb anger aesthetics okra earth uranus
 1
 1 7
 2
-0 33 19 7
 0 28 0 2
+0 33 19 7
 1
 end_operator
 begin_operator
@@ -69087,8 +69087,8 @@ succumb anger aesthetics okra uranus vulcan
 1
 1 7
 2
-0 33 19 7
 0 28 2 3
+0 33 19 7
 1
 end_operator
 begin_operator
@@ -69096,8 +69096,8 @@ succumb anger aesthetics okra vulcan jupiter
 1
 1 7
 2
-0 33 19 7
 0 28 3 1
+0 33 19 7
 1
 end_operator
 begin_operator
@@ -69105,8 +69105,8 @@ succumb anger aesthetics pepper earth uranus
 1
 1 8
 2
-0 33 19 8
 0 28 0 2
+0 33 19 8
 1
 end_operator
 begin_operator
@@ -69114,8 +69114,8 @@ succumb anger aesthetics pepper uranus vulcan
 1
 1 8
 2
-0 33 19 8
 0 28 2 3
+0 33 19 8
 1
 end_operator
 begin_operator
@@ -69123,8 +69123,8 @@ succumb anger aesthetics pepper vulcan jupiter
 1
 1 8
 2
-0 33 19 8
 0 28 3 1
+0 33 19 8
 1
 end_operator
 begin_operator
@@ -69132,8 +69132,8 @@ succumb anger aesthetics pistachio earth uranus
 1
 1 9
 2
-0 33 19 9
 0 28 0 2
+0 33 19 9
 1
 end_operator
 begin_operator
@@ -69141,8 +69141,8 @@ succumb anger aesthetics pistachio uranus vulcan
 1
 1 9
 2
-0 33 19 9
 0 28 2 3
+0 33 19 9
 1
 end_operator
 begin_operator
@@ -69150,8 +69150,8 @@ succumb anger aesthetics pistachio vulcan jupiter
 1
 1 9
 2
-0 33 19 9
 0 28 3 1
+0 33 19 9
 1
 end_operator
 begin_operator
@@ -69159,8 +69159,8 @@ succumb anger aesthetics pork earth uranus
 1
 1 10
 2
-0 33 19 10
 0 28 0 2
+0 33 19 10
 1
 end_operator
 begin_operator
@@ -69168,8 +69168,8 @@ succumb anger aesthetics pork uranus vulcan
 1
 1 10
 2
-0 33 19 10
 0 28 2 3
+0 33 19 10
 1
 end_operator
 begin_operator
@@ -69177,8 +69177,8 @@ succumb anger aesthetics pork vulcan jupiter
 1
 1 10
 2
-0 33 19 10
 0 28 3 1
+0 33 19 10
 1
 end_operator
 begin_operator
@@ -69186,8 +69186,8 @@ succumb anger aesthetics rice earth uranus
 1
 1 11
 2
-0 33 19 11
 0 28 0 2
+0 33 19 11
 1
 end_operator
 begin_operator
@@ -69195,8 +69195,8 @@ succumb anger aesthetics rice uranus vulcan
 1
 1 11
 2
-0 33 19 11
 0 28 2 3
+0 33 19 11
 1
 end_operator
 begin_operator
@@ -69204,8 +69204,8 @@ succumb anger aesthetics rice vulcan jupiter
 1
 1 11
 2
-0 33 19 11
 0 28 3 1
+0 33 19 11
 1
 end_operator
 begin_operator
@@ -69213,8 +69213,8 @@ succumb anger aesthetics scallop earth uranus
 1
 1 12
 2
-0 33 19 12
 0 28 0 2
+0 33 19 12
 1
 end_operator
 begin_operator
@@ -69222,8 +69222,8 @@ succumb anger aesthetics scallop uranus vulcan
 1
 1 12
 2
-0 33 19 12
 0 28 2 3
+0 33 19 12
 1
 end_operator
 begin_operator
@@ -69231,8 +69231,8 @@ succumb anger aesthetics scallop vulcan jupiter
 1
 1 12
 2
-0 33 19 12
 0 28 3 1
+0 33 19 12
 1
 end_operator
 begin_operator
@@ -69240,8 +69240,8 @@ succumb anger aesthetics tofu earth uranus
 1
 1 13
 2
-0 33 19 13
 0 28 0 2
+0 33 19 13
 1
 end_operator
 begin_operator
@@ -69249,8 +69249,8 @@ succumb anger aesthetics tofu uranus vulcan
 1
 1 13
 2
-0 33 19 13
 0 28 2 3
+0 33 19 13
 1
 end_operator
 begin_operator
@@ -69258,8 +69258,8 @@ succumb anger aesthetics tofu vulcan jupiter
 1
 1 13
 2
-0 33 19 13
 0 28 3 1
+0 33 19 13
 1
 end_operator
 begin_operator
@@ -69267,8 +69267,8 @@ succumb anger aesthetics tomato earth uranus
 1
 1 14
 2
-0 33 19 14
 0 28 0 2
+0 33 19 14
 1
 end_operator
 begin_operator
@@ -69276,8 +69276,8 @@ succumb anger aesthetics tomato uranus vulcan
 1
 1 14
 2
-0 33 19 14
 0 28 2 3
+0 33 19 14
 1
 end_operator
 begin_operator
@@ -69285,8 +69285,8 @@ succumb anger aesthetics tomato vulcan jupiter
 1
 1 14
 2
-0 33 19 14
 0 28 3 1
+0 33 19 14
 1
 end_operator
 begin_operator
@@ -69294,8 +69294,8 @@ succumb anger aesthetics tuna earth uranus
 1
 1 15
 2
-0 33 19 15
 0 28 0 2
+0 33 19 15
 1
 end_operator
 begin_operator
@@ -69303,8 +69303,8 @@ succumb anger aesthetics tuna uranus vulcan
 1
 1 15
 2
-0 33 19 15
 0 28 2 3
+0 33 19 15
 1
 end_operator
 begin_operator
@@ -69312,8 +69312,8 @@ succumb anger aesthetics tuna vulcan jupiter
 1
 1 15
 2
-0 33 19 15
 0 28 3 1
+0 33 19 15
 1
 end_operator
 begin_operator
@@ -69321,8 +69321,8 @@ succumb anger aesthetics turkey earth uranus
 1
 1 16
 2
-0 33 19 16
 0 28 0 2
+0 33 19 16
 1
 end_operator
 begin_operator
@@ -69330,8 +69330,8 @@ succumb anger aesthetics turkey uranus vulcan
 1
 1 16
 2
-0 33 19 16
 0 28 2 3
+0 33 19 16
 1
 end_operator
 begin_operator
@@ -69339,8 +69339,8 @@ succumb anger aesthetics turkey vulcan jupiter
 1
 1 16
 2
-0 33 19 16
 0 28 3 1
+0 33 19 16
 1
 end_operator
 begin_operator
@@ -69348,8 +69348,8 @@ succumb anger aesthetics wonderbread earth uranus
 1
 1 17
 2
-0 33 19 17
 0 28 0 2
+0 33 19 17
 1
 end_operator
 begin_operator
@@ -69357,8 +69357,8 @@ succumb anger aesthetics wonderbread uranus vulcan
 1
 1 17
 2
-0 33 19 17
 0 28 2 3
+0 33 19 17
 1
 end_operator
 begin_operator
@@ -69366,8 +69366,8 @@ succumb anger aesthetics wonderbread vulcan jupiter
 1
 1 17
 2
-0 33 19 17
 0 28 3 1
+0 33 19 17
 1
 end_operator
 begin_operator
@@ -69375,8 +69375,8 @@ succumb anger excitement arugula earth uranus
 1
 2 0
 2
-0 33 20 0
 0 29 0 2
+0 33 20 0
 1
 end_operator
 begin_operator
@@ -69384,8 +69384,8 @@ succumb anger excitement arugula uranus vulcan
 1
 2 0
 2
-0 33 20 0
 0 29 2 3
+0 33 20 0
 1
 end_operator
 begin_operator
@@ -69393,8 +69393,8 @@ succumb anger excitement arugula vulcan jupiter
 1
 2 0
 2
-0 33 20 0
 0 29 3 1
+0 33 20 0
 1
 end_operator
 begin_operator
@@ -69402,8 +69402,8 @@ succumb anger excitement baguette earth uranus
 1
 2 1
 2
-0 33 20 1
 0 29 0 2
+0 33 20 1
 1
 end_operator
 begin_operator
@@ -69411,8 +69411,8 @@ succumb anger excitement baguette uranus vulcan
 1
 2 1
 2
-0 33 20 1
 0 29 2 3
+0 33 20 1
 1
 end_operator
 begin_operator
@@ -69420,8 +69420,8 @@ succumb anger excitement baguette vulcan jupiter
 1
 2 1
 2
-0 33 20 1
 0 29 3 1
+0 33 20 1
 1
 end_operator
 begin_operator
@@ -69429,8 +69429,8 @@ succumb anger excitement cantelope earth uranus
 1
 2 2
 2
-0 33 20 2
 0 29 0 2
+0 33 20 2
 1
 end_operator
 begin_operator
@@ -69438,8 +69438,8 @@ succumb anger excitement cantelope uranus vulcan
 1
 2 2
 2
-0 33 20 2
 0 29 2 3
+0 33 20 2
 1
 end_operator
 begin_operator
@@ -69447,8 +69447,8 @@ succumb anger excitement cantelope vulcan jupiter
 1
 2 2
 2
-0 33 20 2
 0 29 3 1
+0 33 20 2
 1
 end_operator
 begin_operator
@@ -69456,8 +69456,8 @@ succumb anger excitement flounder earth uranus
 1
 2 3
 2
-0 33 20 3
 0 29 0 2
+0 33 20 3
 1
 end_operator
 begin_operator
@@ -69465,8 +69465,8 @@ succumb anger excitement flounder uranus vulcan
 1
 2 3
 2
-0 33 20 3
 0 29 2 3
+0 33 20 3
 1
 end_operator
 begin_operator
@@ -69474,8 +69474,8 @@ succumb anger excitement flounder vulcan jupiter
 1
 2 3
 2
-0 33 20 3
 0 29 3 1
+0 33 20 3
 1
 end_operator
 begin_operator
@@ -69483,8 +69483,8 @@ succumb anger excitement hotdog earth uranus
 1
 2 4
 2
-0 33 20 4
 0 29 0 2
+0 33 20 4
 1
 end_operator
 begin_operator
@@ -69492,8 +69492,8 @@ succumb anger excitement hotdog uranus vulcan
 1
 2 4
 2
-0 33 20 4
 0 29 2 3
+0 33 20 4
 1
 end_operator
 begin_operator
@@ -69501,8 +69501,8 @@ succumb anger excitement hotdog vulcan jupiter
 1
 2 4
 2
-0 33 20 4
 0 29 3 1
+0 33 20 4
 1
 end_operator
 begin_operator
@@ -69510,8 +69510,8 @@ succumb anger excitement lobster earth uranus
 1
 2 5
 2
-0 33 20 5
 0 29 0 2
+0 33 20 5
 1
 end_operator
 begin_operator
@@ -69519,8 +69519,8 @@ succumb anger excitement lobster uranus vulcan
 1
 2 5
 2
-0 33 20 5
 0 29 2 3
+0 33 20 5
 1
 end_operator
 begin_operator
@@ -69528,8 +69528,8 @@ succumb anger excitement lobster vulcan jupiter
 1
 2 5
 2
-0 33 20 5
 0 29 3 1
+0 33 20 5
 1
 end_operator
 begin_operator
@@ -69537,8 +69537,8 @@ succumb anger excitement muffin earth uranus
 1
 2 6
 2
-0 33 20 6
 0 29 0 2
+0 33 20 6
 1
 end_operator
 begin_operator
@@ -69546,8 +69546,8 @@ succumb anger excitement muffin uranus vulcan
 1
 2 6
 2
-0 33 20 6
 0 29 2 3
+0 33 20 6
 1
 end_operator
 begin_operator
@@ -69555,8 +69555,8 @@ succumb anger excitement muffin vulcan jupiter
 1
 2 6
 2
-0 33 20 6
 0 29 3 1
+0 33 20 6
 1
 end_operator
 begin_operator
@@ -69564,8 +69564,8 @@ succumb anger excitement okra earth uranus
 1
 2 7
 2
-0 33 20 7
 0 29 0 2
+0 33 20 7
 1
 end_operator
 begin_operator
@@ -69573,8 +69573,8 @@ succumb anger excitement okra uranus vulcan
 1
 2 7
 2
-0 33 20 7
 0 29 2 3
+0 33 20 7
 1
 end_operator
 begin_operator
@@ -69582,8 +69582,8 @@ succumb anger excitement okra vulcan jupiter
 1
 2 7
 2
-0 33 20 7
 0 29 3 1
+0 33 20 7
 1
 end_operator
 begin_operator
@@ -69591,8 +69591,8 @@ succumb anger excitement pepper earth uranus
 1
 2 8
 2
-0 33 20 8
 0 29 0 2
+0 33 20 8
 1
 end_operator
 begin_operator
@@ -69600,8 +69600,8 @@ succumb anger excitement pepper uranus vulcan
 1
 2 8
 2
-0 33 20 8
 0 29 2 3
+0 33 20 8
 1
 end_operator
 begin_operator
@@ -69609,8 +69609,8 @@ succumb anger excitement pepper vulcan jupiter
 1
 2 8
 2
-0 33 20 8
 0 29 3 1
+0 33 20 8
 1
 end_operator
 begin_operator
@@ -69618,8 +69618,8 @@ succumb anger excitement pistachio earth uranus
 1
 2 9
 2
-0 33 20 9
 0 29 0 2
+0 33 20 9
 1
 end_operator
 begin_operator
@@ -69627,8 +69627,8 @@ succumb anger excitement pistachio uranus vulcan
 1
 2 9
 2
-0 33 20 9
 0 29 2 3
+0 33 20 9
 1
 end_operator
 begin_operator
@@ -69636,8 +69636,8 @@ succumb anger excitement pistachio vulcan jupiter
 1
 2 9
 2
-0 33 20 9
 0 29 3 1
+0 33 20 9
 1
 end_operator
 begin_operator
@@ -69645,8 +69645,8 @@ succumb anger excitement pork earth uranus
 1
 2 10
 2
-0 33 20 10
 0 29 0 2
+0 33 20 10
 1
 end_operator
 begin_operator
@@ -69654,8 +69654,8 @@ succumb anger excitement pork uranus vulcan
 1
 2 10
 2
-0 33 20 10
 0 29 2 3
+0 33 20 10
 1
 end_operator
 begin_operator
@@ -69663,8 +69663,8 @@ succumb anger excitement pork vulcan jupiter
 1
 2 10
 2
-0 33 20 10
 0 29 3 1
+0 33 20 10
 1
 end_operator
 begin_operator
@@ -69672,8 +69672,8 @@ succumb anger excitement rice earth uranus
 1
 2 11
 2
-0 33 20 11
 0 29 0 2
+0 33 20 11
 1
 end_operator
 begin_operator
@@ -69681,8 +69681,8 @@ succumb anger excitement rice uranus vulcan
 1
 2 11
 2
-0 33 20 11
 0 29 2 3
+0 33 20 11
 1
 end_operator
 begin_operator
@@ -69690,8 +69690,8 @@ succumb anger excitement rice vulcan jupiter
 1
 2 11
 2
-0 33 20 11
 0 29 3 1
+0 33 20 11
 1
 end_operator
 begin_operator
@@ -69699,8 +69699,8 @@ succumb anger excitement scallop earth uranus
 1
 2 12
 2
-0 33 20 12
 0 29 0 2
+0 33 20 12
 1
 end_operator
 begin_operator
@@ -69708,8 +69708,8 @@ succumb anger excitement scallop uranus vulcan
 1
 2 12
 2
-0 33 20 12
 0 29 2 3
+0 33 20 12
 1
 end_operator
 begin_operator
@@ -69717,8 +69717,8 @@ succumb anger excitement scallop vulcan jupiter
 1
 2 12
 2
-0 33 20 12
 0 29 3 1
+0 33 20 12
 1
 end_operator
 begin_operator
@@ -69726,8 +69726,8 @@ succumb anger excitement tofu earth uranus
 1
 2 13
 2
-0 33 20 13
 0 29 0 2
+0 33 20 13
 1
 end_operator
 begin_operator
@@ -69735,8 +69735,8 @@ succumb anger excitement tofu uranus vulcan
 1
 2 13
 2
-0 33 20 13
 0 29 2 3
+0 33 20 13
 1
 end_operator
 begin_operator
@@ -69744,8 +69744,8 @@ succumb anger excitement tofu vulcan jupiter
 1
 2 13
 2
-0 33 20 13
 0 29 3 1
+0 33 20 13
 1
 end_operator
 begin_operator
@@ -69753,8 +69753,8 @@ succumb anger excitement tomato earth uranus
 1
 2 14
 2
-0 33 20 14
 0 29 0 2
+0 33 20 14
 1
 end_operator
 begin_operator
@@ -69762,8 +69762,8 @@ succumb anger excitement tomato uranus vulcan
 1
 2 14
 2
-0 33 20 14
 0 29 2 3
+0 33 20 14
 1
 end_operator
 begin_operator
@@ -69771,8 +69771,8 @@ succumb anger excitement tomato vulcan jupiter
 1
 2 14
 2
-0 33 20 14
 0 29 3 1
+0 33 20 14
 1
 end_operator
 begin_operator
@@ -69780,8 +69780,8 @@ succumb anger excitement tuna earth uranus
 1
 2 15
 2
-0 33 20 15
 0 29 0 2
+0 33 20 15
 1
 end_operator
 begin_operator
@@ -69789,8 +69789,8 @@ succumb anger excitement tuna uranus vulcan
 1
 2 15
 2
-0 33 20 15
 0 29 2 3
+0 33 20 15
 1
 end_operator
 begin_operator
@@ -69798,8 +69798,8 @@ succumb anger excitement tuna vulcan jupiter
 1
 2 15
 2
-0 33 20 15
 0 29 3 1
+0 33 20 15
 1
 end_operator
 begin_operator
@@ -69807,8 +69807,8 @@ succumb anger excitement turkey earth uranus
 1
 2 16
 2
-0 33 20 16
 0 29 0 2
+0 33 20 16
 1
 end_operator
 begin_operator
@@ -69816,8 +69816,8 @@ succumb anger excitement turkey uranus vulcan
 1
 2 16
 2
-0 33 20 16
 0 29 2 3
+0 33 20 16
 1
 end_operator
 begin_operator
@@ -69825,8 +69825,8 @@ succumb anger excitement turkey vulcan jupiter
 1
 2 16
 2
-0 33 20 16
 0 29 3 1
+0 33 20 16
 1
 end_operator
 begin_operator
@@ -69834,8 +69834,8 @@ succumb anger excitement wonderbread earth uranus
 1
 2 17
 2
-0 33 20 17
 0 29 0 2
+0 33 20 17
 1
 end_operator
 begin_operator
@@ -69843,8 +69843,8 @@ succumb anger excitement wonderbread uranus vulcan
 1
 2 17
 2
-0 33 20 17
 0 29 2 3
+0 33 20 17
 1
 end_operator
 begin_operator
@@ -69852,8 +69852,8 @@ succumb anger excitement wonderbread vulcan jupiter
 1
 2 17
 2
-0 33 20 17
 0 29 3 1
+0 33 20 17
 1
 end_operator
 begin_operator
@@ -69861,8 +69861,8 @@ succumb anger learning arugula earth uranus
 1
 3 0
 2
-0 33 21 0
 0 30 0 2
+0 33 21 0
 1
 end_operator
 begin_operator
@@ -69870,8 +69870,8 @@ succumb anger learning arugula uranus vulcan
 1
 3 0
 2
-0 33 21 0
 0 30 2 3
+0 33 21 0
 1
 end_operator
 begin_operator
@@ -69879,8 +69879,8 @@ succumb anger learning arugula vulcan jupiter
 1
 3 0
 2
-0 33 21 0
 0 30 3 1
+0 33 21 0
 1
 end_operator
 begin_operator
@@ -69888,8 +69888,8 @@ succumb anger learning baguette earth uranus
 1
 3 1
 2
-0 33 21 1
 0 30 0 2
+0 33 21 1
 1
 end_operator
 begin_operator
@@ -69897,8 +69897,8 @@ succumb anger learning baguette uranus vulcan
 1
 3 1
 2
-0 33 21 1
 0 30 2 3
+0 33 21 1
 1
 end_operator
 begin_operator
@@ -69906,8 +69906,8 @@ succumb anger learning baguette vulcan jupiter
 1
 3 1
 2
-0 33 21 1
 0 30 3 1
+0 33 21 1
 1
 end_operator
 begin_operator
@@ -69915,8 +69915,8 @@ succumb anger learning cantelope earth uranus
 1
 3 2
 2
-0 33 21 2
 0 30 0 2
+0 33 21 2
 1
 end_operator
 begin_operator
@@ -69924,8 +69924,8 @@ succumb anger learning cantelope uranus vulcan
 1
 3 2
 2
-0 33 21 2
 0 30 2 3
+0 33 21 2
 1
 end_operator
 begin_operator
@@ -69933,8 +69933,8 @@ succumb anger learning cantelope vulcan jupiter
 1
 3 2
 2
-0 33 21 2
 0 30 3 1
+0 33 21 2
 1
 end_operator
 begin_operator
@@ -69942,8 +69942,8 @@ succumb anger learning flounder earth uranus
 1
 3 3
 2
-0 33 21 3
 0 30 0 2
+0 33 21 3
 1
 end_operator
 begin_operator
@@ -69951,8 +69951,8 @@ succumb anger learning flounder uranus vulcan
 1
 3 3
 2
-0 33 21 3
 0 30 2 3
+0 33 21 3
 1
 end_operator
 begin_operator
@@ -69960,8 +69960,8 @@ succumb anger learning flounder vulcan jupiter
 1
 3 3
 2
-0 33 21 3
 0 30 3 1
+0 33 21 3
 1
 end_operator
 begin_operator
@@ -69969,8 +69969,8 @@ succumb anger learning hotdog earth uranus
 1
 3 4
 2
-0 33 21 4
 0 30 0 2
+0 33 21 4
 1
 end_operator
 begin_operator
@@ -69978,8 +69978,8 @@ succumb anger learning hotdog uranus vulcan
 1
 3 4
 2
-0 33 21 4
 0 30 2 3
+0 33 21 4
 1
 end_operator
 begin_operator
@@ -69987,8 +69987,8 @@ succumb anger learning hotdog vulcan jupiter
 1
 3 4
 2
-0 33 21 4
 0 30 3 1
+0 33 21 4
 1
 end_operator
 begin_operator
@@ -69996,8 +69996,8 @@ succumb anger learning lobster earth uranus
 1
 3 5
 2
-0 33 21 5
 0 30 0 2
+0 33 21 5
 1
 end_operator
 begin_operator
@@ -70005,8 +70005,8 @@ succumb anger learning lobster uranus vulcan
 1
 3 5
 2
-0 33 21 5
 0 30 2 3
+0 33 21 5
 1
 end_operator
 begin_operator
@@ -70014,8 +70014,8 @@ succumb anger learning lobster vulcan jupiter
 1
 3 5
 2
-0 33 21 5
 0 30 3 1
+0 33 21 5
 1
 end_operator
 begin_operator
@@ -70023,8 +70023,8 @@ succumb anger learning muffin earth uranus
 1
 3 6
 2
-0 33 21 6
 0 30 0 2
+0 33 21 6
 1
 end_operator
 begin_operator
@@ -70032,8 +70032,8 @@ succumb anger learning muffin uranus vulcan
 1
 3 6
 2
-0 33 21 6
 0 30 2 3
+0 33 21 6
 1
 end_operator
 begin_operator
@@ -70041,8 +70041,8 @@ succumb anger learning muffin vulcan jupiter
 1
 3 6
 2
-0 33 21 6
 0 30 3 1
+0 33 21 6
 1
 end_operator
 begin_operator
@@ -70050,8 +70050,8 @@ succumb anger learning okra earth uranus
 1
 3 7
 2
-0 33 21 7
 0 30 0 2
+0 33 21 7
 1
 end_operator
 begin_operator
@@ -70059,8 +70059,8 @@ succumb anger learning okra uranus vulcan
 1
 3 7
 2
-0 33 21 7
 0 30 2 3
+0 33 21 7
 1
 end_operator
 begin_operator
@@ -70068,8 +70068,8 @@ succumb anger learning okra vulcan jupiter
 1
 3 7
 2
-0 33 21 7
 0 30 3 1
+0 33 21 7
 1
 end_operator
 begin_operator
@@ -70077,8 +70077,8 @@ succumb anger learning pepper earth uranus
 1
 3 8
 2
-0 33 21 8
 0 30 0 2
+0 33 21 8
 1
 end_operator
 begin_operator
@@ -70086,8 +70086,8 @@ succumb anger learning pepper uranus vulcan
 1
 3 8
 2
-0 33 21 8
 0 30 2 3
+0 33 21 8
 1
 end_operator
 begin_operator
@@ -70095,8 +70095,8 @@ succumb anger learning pepper vulcan jupiter
 1
 3 8
 2
-0 33 21 8
 0 30 3 1
+0 33 21 8
 1
 end_operator
 begin_operator
@@ -70104,8 +70104,8 @@ succumb anger learning pistachio earth uranus
 1
 3 9
 2
-0 33 21 9
 0 30 0 2
+0 33 21 9
 1
 end_operator
 begin_operator
@@ -70113,8 +70113,8 @@ succumb anger learning pistachio uranus vulcan
 1
 3 9
 2
-0 33 21 9
 0 30 2 3
+0 33 21 9
 1
 end_operator
 begin_operator
@@ -70122,8 +70122,8 @@ succumb anger learning pistachio vulcan jupiter
 1
 3 9
 2
-0 33 21 9
 0 30 3 1
+0 33 21 9
 1
 end_operator
 begin_operator
@@ -70131,8 +70131,8 @@ succumb anger learning pork earth uranus
 1
 3 10
 2
-0 33 21 10
 0 30 0 2
+0 33 21 10
 1
 end_operator
 begin_operator
@@ -70140,8 +70140,8 @@ succumb anger learning pork uranus vulcan
 1
 3 10
 2
-0 33 21 10
 0 30 2 3
+0 33 21 10
 1
 end_operator
 begin_operator
@@ -70149,8 +70149,8 @@ succumb anger learning pork vulcan jupiter
 1
 3 10
 2
-0 33 21 10
 0 30 3 1
+0 33 21 10
 1
 end_operator
 begin_operator
@@ -70158,8 +70158,8 @@ succumb anger learning rice earth uranus
 1
 3 11
 2
-0 33 21 11
 0 30 0 2
+0 33 21 11
 1
 end_operator
 begin_operator
@@ -70167,8 +70167,8 @@ succumb anger learning rice uranus vulcan
 1
 3 11
 2
-0 33 21 11
 0 30 2 3
+0 33 21 11
 1
 end_operator
 begin_operator
@@ -70176,8 +70176,8 @@ succumb anger learning rice vulcan jupiter
 1
 3 11
 2
-0 33 21 11
 0 30 3 1
+0 33 21 11
 1
 end_operator
 begin_operator
@@ -70185,8 +70185,8 @@ succumb anger learning scallop earth uranus
 1
 3 12
 2
-0 33 21 12
 0 30 0 2
+0 33 21 12
 1
 end_operator
 begin_operator
@@ -70194,8 +70194,8 @@ succumb anger learning scallop uranus vulcan
 1
 3 12
 2
-0 33 21 12
 0 30 2 3
+0 33 21 12
 1
 end_operator
 begin_operator
@@ -70203,8 +70203,8 @@ succumb anger learning scallop vulcan jupiter
 1
 3 12
 2
-0 33 21 12
 0 30 3 1
+0 33 21 12
 1
 end_operator
 begin_operator
@@ -70212,8 +70212,8 @@ succumb anger learning tofu earth uranus
 1
 3 13
 2
-0 33 21 13
 0 30 0 2
+0 33 21 13
 1
 end_operator
 begin_operator
@@ -70221,8 +70221,8 @@ succumb anger learning tofu uranus vulcan
 1
 3 13
 2
-0 33 21 13
 0 30 2 3
+0 33 21 13
 1
 end_operator
 begin_operator
@@ -70230,8 +70230,8 @@ succumb anger learning tofu vulcan jupiter
 1
 3 13
 2
-0 33 21 13
 0 30 3 1
+0 33 21 13
 1
 end_operator
 begin_operator
@@ -70239,8 +70239,8 @@ succumb anger learning tomato earth uranus
 1
 3 14
 2
-0 33 21 14
 0 30 0 2
+0 33 21 14
 1
 end_operator
 begin_operator
@@ -70248,8 +70248,8 @@ succumb anger learning tomato uranus vulcan
 1
 3 14
 2
-0 33 21 14
 0 30 2 3
+0 33 21 14
 1
 end_operator
 begin_operator
@@ -70257,8 +70257,8 @@ succumb anger learning tomato vulcan jupiter
 1
 3 14
 2
-0 33 21 14
 0 30 3 1
+0 33 21 14
 1
 end_operator
 begin_operator
@@ -70266,8 +70266,8 @@ succumb anger learning tuna earth uranus
 1
 3 15
 2
-0 33 21 15
 0 30 0 2
+0 33 21 15
 1
 end_operator
 begin_operator
@@ -70275,8 +70275,8 @@ succumb anger learning tuna uranus vulcan
 1
 3 15
 2
-0 33 21 15
 0 30 2 3
+0 33 21 15
 1
 end_operator
 begin_operator
@@ -70284,8 +70284,8 @@ succumb anger learning tuna vulcan jupiter
 1
 3 15
 2
-0 33 21 15
 0 30 3 1
+0 33 21 15
 1
 end_operator
 begin_operator
@@ -70293,8 +70293,8 @@ succumb anger learning turkey earth uranus
 1
 3 16
 2
-0 33 21 16
 0 30 0 2
+0 33 21 16
 1
 end_operator
 begin_operator
@@ -70302,8 +70302,8 @@ succumb anger learning turkey uranus vulcan
 1
 3 16
 2
-0 33 21 16
 0 30 2 3
+0 33 21 16
 1
 end_operator
 begin_operator
@@ -70311,8 +70311,8 @@ succumb anger learning turkey vulcan jupiter
 1
 3 16
 2
-0 33 21 16
 0 30 3 1
+0 33 21 16
 1
 end_operator
 begin_operator
@@ -70320,8 +70320,8 @@ succumb anger learning wonderbread earth uranus
 1
 3 17
 2
-0 33 21 17
 0 30 0 2
+0 33 21 17
 1
 end_operator
 begin_operator
@@ -70329,8 +70329,8 @@ succumb anger learning wonderbread uranus vulcan
 1
 3 17
 2
-0 33 21 17
 0 30 2 3
+0 33 21 17
 1
 end_operator
 begin_operator
@@ -70338,8 +70338,8 @@ succumb anger learning wonderbread vulcan jupiter
 1
 3 17
 2
-0 33 21 17
 0 30 3 1
+0 33 21 17
 1
 end_operator
 begin_operator
@@ -70347,8 +70347,8 @@ succumb anger love arugula earth uranus
 1
 4 0
 2
-0 33 22 0
 0 31 0 2
+0 33 22 0
 1
 end_operator
 begin_operator
@@ -70356,8 +70356,8 @@ succumb anger love arugula uranus vulcan
 1
 4 0
 2
-0 33 22 0
 0 31 2 3
+0 33 22 0
 1
 end_operator
 begin_operator
@@ -70365,8 +70365,8 @@ succumb anger love arugula vulcan jupiter
 1
 4 0
 2
-0 33 22 0
 0 31 3 1
+0 33 22 0
 1
 end_operator
 begin_operator
@@ -70374,8 +70374,8 @@ succumb anger love baguette earth uranus
 1
 4 1
 2
-0 33 22 1
 0 31 0 2
+0 33 22 1
 1
 end_operator
 begin_operator
@@ -70383,8 +70383,8 @@ succumb anger love baguette uranus vulcan
 1
 4 1
 2
-0 33 22 1
 0 31 2 3
+0 33 22 1
 1
 end_operator
 begin_operator
@@ -70392,8 +70392,8 @@ succumb anger love baguette vulcan jupiter
 1
 4 1
 2
-0 33 22 1
 0 31 3 1
+0 33 22 1
 1
 end_operator
 begin_operator
@@ -70401,8 +70401,8 @@ succumb anger love cantelope earth uranus
 1
 4 2
 2
-0 33 22 2
 0 31 0 2
+0 33 22 2
 1
 end_operator
 begin_operator
@@ -70410,8 +70410,8 @@ succumb anger love cantelope uranus vulcan
 1
 4 2
 2
-0 33 22 2
 0 31 2 3
+0 33 22 2
 1
 end_operator
 begin_operator
@@ -70419,8 +70419,8 @@ succumb anger love cantelope vulcan jupiter
 1
 4 2
 2
-0 33 22 2
 0 31 3 1
+0 33 22 2
 1
 end_operator
 begin_operator
@@ -70428,8 +70428,8 @@ succumb anger love flounder earth uranus
 1
 4 3
 2
-0 33 22 3
 0 31 0 2
+0 33 22 3
 1
 end_operator
 begin_operator
@@ -70437,8 +70437,8 @@ succumb anger love flounder uranus vulcan
 1
 4 3
 2
-0 33 22 3
 0 31 2 3
+0 33 22 3
 1
 end_operator
 begin_operator
@@ -70446,8 +70446,8 @@ succumb anger love flounder vulcan jupiter
 1
 4 3
 2
-0 33 22 3
 0 31 3 1
+0 33 22 3
 1
 end_operator
 begin_operator
@@ -70455,8 +70455,8 @@ succumb anger love hotdog earth uranus
 1
 4 4
 2
-0 33 22 4
 0 31 0 2
+0 33 22 4
 1
 end_operator
 begin_operator
@@ -70464,8 +70464,8 @@ succumb anger love hotdog uranus vulcan
 1
 4 4
 2
-0 33 22 4
 0 31 2 3
+0 33 22 4
 1
 end_operator
 begin_operator
@@ -70473,8 +70473,8 @@ succumb anger love hotdog vulcan jupiter
 1
 4 4
 2
-0 33 22 4
 0 31 3 1
+0 33 22 4
 1
 end_operator
 begin_operator
@@ -70482,8 +70482,8 @@ succumb anger love lobster earth uranus
 1
 4 5
 2
-0 33 22 5
 0 31 0 2
+0 33 22 5
 1
 end_operator
 begin_operator
@@ -70491,8 +70491,8 @@ succumb anger love lobster uranus vulcan
 1
 4 5
 2
-0 33 22 5
 0 31 2 3
+0 33 22 5
 1
 end_operator
 begin_operator
@@ -70500,8 +70500,8 @@ succumb anger love lobster vulcan jupiter
 1
 4 5
 2
-0 33 22 5
 0 31 3 1
+0 33 22 5
 1
 end_operator
 begin_operator
@@ -70509,8 +70509,8 @@ succumb anger love muffin earth uranus
 1
 4 6
 2
-0 33 22 6
 0 31 0 2
+0 33 22 6
 1
 end_operator
 begin_operator
@@ -70518,8 +70518,8 @@ succumb anger love muffin uranus vulcan
 1
 4 6
 2
-0 33 22 6
 0 31 2 3
+0 33 22 6
 1
 end_operator
 begin_operator
@@ -70527,8 +70527,8 @@ succumb anger love muffin vulcan jupiter
 1
 4 6
 2
-0 33 22 6
 0 31 3 1
+0 33 22 6
 1
 end_operator
 begin_operator
@@ -70536,8 +70536,8 @@ succumb anger love okra earth uranus
 1
 4 7
 2
-0 33 22 7
 0 31 0 2
+0 33 22 7
 1
 end_operator
 begin_operator
@@ -70545,8 +70545,8 @@ succumb anger love okra uranus vulcan
 1
 4 7
 2
-0 33 22 7
 0 31 2 3
+0 33 22 7
 1
 end_operator
 begin_operator
@@ -70554,8 +70554,8 @@ succumb anger love okra vulcan jupiter
 1
 4 7
 2
-0 33 22 7
 0 31 3 1
+0 33 22 7
 1
 end_operator
 begin_operator
@@ -70563,8 +70563,8 @@ succumb anger love pepper earth uranus
 1
 4 8
 2
-0 33 22 8
 0 31 0 2
+0 33 22 8
 1
 end_operator
 begin_operator
@@ -70572,8 +70572,8 @@ succumb anger love pepper uranus vulcan
 1
 4 8
 2
-0 33 22 8
 0 31 2 3
+0 33 22 8
 1
 end_operator
 begin_operator
@@ -70581,8 +70581,8 @@ succumb anger love pepper vulcan jupiter
 1
 4 8
 2
-0 33 22 8
 0 31 3 1
+0 33 22 8
 1
 end_operator
 begin_operator
@@ -70590,8 +70590,8 @@ succumb anger love pistachio earth uranus
 1
 4 9
 2
-0 33 22 9
 0 31 0 2
+0 33 22 9
 1
 end_operator
 begin_operator
@@ -70599,8 +70599,8 @@ succumb anger love pistachio uranus vulcan
 1
 4 9
 2
-0 33 22 9
 0 31 2 3
+0 33 22 9
 1
 end_operator
 begin_operator
@@ -70608,8 +70608,8 @@ succumb anger love pistachio vulcan jupiter
 1
 4 9
 2
-0 33 22 9
 0 31 3 1
+0 33 22 9
 1
 end_operator
 begin_operator
@@ -70617,8 +70617,8 @@ succumb anger love pork earth uranus
 1
 4 10
 2
-0 33 22 10
 0 31 0 2
+0 33 22 10
 1
 end_operator
 begin_operator
@@ -70626,8 +70626,8 @@ succumb anger love pork uranus vulcan
 1
 4 10
 2
-0 33 22 10
 0 31 2 3
+0 33 22 10
 1
 end_operator
 begin_operator
@@ -70635,8 +70635,8 @@ succumb anger love pork vulcan jupiter
 1
 4 10
 2
-0 33 22 10
 0 31 3 1
+0 33 22 10
 1
 end_operator
 begin_operator
@@ -70644,8 +70644,8 @@ succumb anger love rice earth uranus
 1
 4 11
 2
-0 33 22 11
 0 31 0 2
+0 33 22 11
 1
 end_operator
 begin_operator
@@ -70653,8 +70653,8 @@ succumb anger love rice uranus vulcan
 1
 4 11
 2
-0 33 22 11
 0 31 2 3
+0 33 22 11
 1
 end_operator
 begin_operator
@@ -70662,8 +70662,8 @@ succumb anger love rice vulcan jupiter
 1
 4 11
 2
-0 33 22 11
 0 31 3 1
+0 33 22 11
 1
 end_operator
 begin_operator
@@ -70671,8 +70671,8 @@ succumb anger love scallop earth uranus
 1
 4 12
 2
-0 33 22 12
 0 31 0 2
+0 33 22 12
 1
 end_operator
 begin_operator
@@ -70680,8 +70680,8 @@ succumb anger love scallop uranus vulcan
 1
 4 12
 2
-0 33 22 12
 0 31 2 3
+0 33 22 12
 1
 end_operator
 begin_operator
@@ -70689,8 +70689,8 @@ succumb anger love scallop vulcan jupiter
 1
 4 12
 2
-0 33 22 12
 0 31 3 1
+0 33 22 12
 1
 end_operator
 begin_operator
@@ -70698,8 +70698,8 @@ succumb anger love tofu earth uranus
 1
 4 13
 2
-0 33 22 13
 0 31 0 2
+0 33 22 13
 1
 end_operator
 begin_operator
@@ -70707,8 +70707,8 @@ succumb anger love tofu uranus vulcan
 1
 4 13
 2
-0 33 22 13
 0 31 2 3
+0 33 22 13
 1
 end_operator
 begin_operator
@@ -70716,8 +70716,8 @@ succumb anger love tofu vulcan jupiter
 1
 4 13
 2
-0 33 22 13
 0 31 3 1
+0 33 22 13
 1
 end_operator
 begin_operator
@@ -70725,8 +70725,8 @@ succumb anger love tomato earth uranus
 1
 4 14
 2
-0 33 22 14
 0 31 0 2
+0 33 22 14
 1
 end_operator
 begin_operator
@@ -70734,8 +70734,8 @@ succumb anger love tomato uranus vulcan
 1
 4 14
 2
-0 33 22 14
 0 31 2 3
+0 33 22 14
 1
 end_operator
 begin_operator
@@ -70743,8 +70743,8 @@ succumb anger love tomato vulcan jupiter
 1
 4 14
 2
-0 33 22 14
 0 31 3 1
+0 33 22 14
 1
 end_operator
 begin_operator
@@ -70752,8 +70752,8 @@ succumb anger love tuna earth uranus
 1
 4 15
 2
-0 33 22 15
 0 31 0 2
+0 33 22 15
 1
 end_operator
 begin_operator
@@ -70761,8 +70761,8 @@ succumb anger love tuna uranus vulcan
 1
 4 15
 2
-0 33 22 15
 0 31 2 3
+0 33 22 15
 1
 end_operator
 begin_operator
@@ -70770,8 +70770,8 @@ succumb anger love tuna vulcan jupiter
 1
 4 15
 2
-0 33 22 15
 0 31 3 1
+0 33 22 15
 1
 end_operator
 begin_operator
@@ -70779,8 +70779,8 @@ succumb anger love turkey earth uranus
 1
 4 16
 2
-0 33 22 16
 0 31 0 2
+0 33 22 16
 1
 end_operator
 begin_operator
@@ -70788,8 +70788,8 @@ succumb anger love turkey uranus vulcan
 1
 4 16
 2
-0 33 22 16
 0 31 2 3
+0 33 22 16
 1
 end_operator
 begin_operator
@@ -70797,8 +70797,8 @@ succumb anger love turkey vulcan jupiter
 1
 4 16
 2
-0 33 22 16
 0 31 3 1
+0 33 22 16
 1
 end_operator
 begin_operator
@@ -70806,8 +70806,8 @@ succumb anger love wonderbread earth uranus
 1
 4 17
 2
-0 33 22 17
 0 31 0 2
+0 33 22 17
 1
 end_operator
 begin_operator
@@ -70815,8 +70815,8 @@ succumb anger love wonderbread uranus vulcan
 1
 4 17
 2
-0 33 22 17
 0 31 2 3
+0 33 22 17
 1
 end_operator
 begin_operator
@@ -70824,8 +70824,8 @@ succumb anger love wonderbread vulcan jupiter
 1
 4 17
 2
-0 33 22 17
 0 31 3 1
+0 33 22 17
 1
 end_operator
 begin_operator
@@ -72777,8 +72777,8 @@ succumb anxiety achievement arugula earth uranus
 1
 0 0
 2
-0 40 18 0
 0 27 0 2
+0 40 18 0
 1
 end_operator
 begin_operator
@@ -72786,8 +72786,8 @@ succumb anxiety achievement arugula uranus vulcan
 1
 0 0
 2
-0 40 18 0
 0 27 2 3
+0 40 18 0
 1
 end_operator
 begin_operator
@@ -72795,8 +72795,8 @@ succumb anxiety achievement arugula vulcan jupiter
 1
 0 0
 2
-0 40 18 0
 0 27 3 1
+0 40 18 0
 1
 end_operator
 begin_operator
@@ -72804,8 +72804,8 @@ succumb anxiety achievement baguette earth uranus
 1
 0 1
 2
-0 40 18 1
 0 27 0 2
+0 40 18 1
 1
 end_operator
 begin_operator
@@ -72813,8 +72813,8 @@ succumb anxiety achievement baguette uranus vulcan
 1
 0 1
 2
-0 40 18 1
 0 27 2 3
+0 40 18 1
 1
 end_operator
 begin_operator
@@ -72822,8 +72822,8 @@ succumb anxiety achievement baguette vulcan jupiter
 1
 0 1
 2
-0 40 18 1
 0 27 3 1
+0 40 18 1
 1
 end_operator
 begin_operator
@@ -72831,8 +72831,8 @@ succumb anxiety achievement cantelope earth uranus
 1
 0 2
 2
-0 40 18 2
 0 27 0 2
+0 40 18 2
 1
 end_operator
 begin_operator
@@ -72840,8 +72840,8 @@ succumb anxiety achievement cantelope uranus vulcan
 1
 0 2
 2
-0 40 18 2
 0 27 2 3
+0 40 18 2
 1
 end_operator
 begin_operator
@@ -72849,8 +72849,8 @@ succumb anxiety achievement cantelope vulcan jupiter
 1
 0 2
 2
-0 40 18 2
 0 27 3 1
+0 40 18 2
 1
 end_operator
 begin_operator
@@ -72858,8 +72858,8 @@ succumb anxiety achievement flounder earth uranus
 1
 0 3
 2
-0 40 18 3
 0 27 0 2
+0 40 18 3
 1
 end_operator
 begin_operator
@@ -72867,8 +72867,8 @@ succumb anxiety achievement flounder uranus vulcan
 1
 0 3
 2
-0 40 18 3
 0 27 2 3
+0 40 18 3
 1
 end_operator
 begin_operator
@@ -72876,8 +72876,8 @@ succumb anxiety achievement flounder vulcan jupiter
 1
 0 3
 2
-0 40 18 3
 0 27 3 1
+0 40 18 3
 1
 end_operator
 begin_operator
@@ -72885,8 +72885,8 @@ succumb anxiety achievement hotdog earth uranus
 1
 0 4
 2
-0 40 18 4
 0 27 0 2
+0 40 18 4
 1
 end_operator
 begin_operator
@@ -72894,8 +72894,8 @@ succumb anxiety achievement hotdog uranus vulcan
 1
 0 4
 2
-0 40 18 4
 0 27 2 3
+0 40 18 4
 1
 end_operator
 begin_operator
@@ -72903,8 +72903,8 @@ succumb anxiety achievement hotdog vulcan jupiter
 1
 0 4
 2
-0 40 18 4
 0 27 3 1
+0 40 18 4
 1
 end_operator
 begin_operator
@@ -72912,8 +72912,8 @@ succumb anxiety achievement lobster earth uranus
 1
 0 5
 2
-0 40 18 5
 0 27 0 2
+0 40 18 5
 1
 end_operator
 begin_operator
@@ -72921,8 +72921,8 @@ succumb anxiety achievement lobster uranus vulcan
 1
 0 5
 2
-0 40 18 5
 0 27 2 3
+0 40 18 5
 1
 end_operator
 begin_operator
@@ -72930,8 +72930,8 @@ succumb anxiety achievement lobster vulcan jupiter
 1
 0 5
 2
-0 40 18 5
 0 27 3 1
+0 40 18 5
 1
 end_operator
 begin_operator
@@ -72939,8 +72939,8 @@ succumb anxiety achievement muffin earth uranus
 1
 0 6
 2
-0 40 18 6
 0 27 0 2
+0 40 18 6
 1
 end_operator
 begin_operator
@@ -72948,8 +72948,8 @@ succumb anxiety achievement muffin uranus vulcan
 1
 0 6
 2
-0 40 18 6
 0 27 2 3
+0 40 18 6
 1
 end_operator
 begin_operator
@@ -72957,8 +72957,8 @@ succumb anxiety achievement muffin vulcan jupiter
 1
 0 6
 2
-0 40 18 6
 0 27 3 1
+0 40 18 6
 1
 end_operator
 begin_operator
@@ -72966,8 +72966,8 @@ succumb anxiety achievement okra earth uranus
 1
 0 7
 2
-0 40 18 7
 0 27 0 2
+0 40 18 7
 1
 end_operator
 begin_operator
@@ -72975,8 +72975,8 @@ succumb anxiety achievement okra uranus vulcan
 1
 0 7
 2
-0 40 18 7
 0 27 2 3
+0 40 18 7
 1
 end_operator
 begin_operator
@@ -72984,8 +72984,8 @@ succumb anxiety achievement okra vulcan jupiter
 1
 0 7
 2
-0 40 18 7
 0 27 3 1
+0 40 18 7
 1
 end_operator
 begin_operator
@@ -72993,8 +72993,8 @@ succumb anxiety achievement pepper earth uranus
 1
 0 8
 2
-0 40 18 8
 0 27 0 2
+0 40 18 8
 1
 end_operator
 begin_operator
@@ -73002,8 +73002,8 @@ succumb anxiety achievement pepper uranus vulcan
 1
 0 8
 2
-0 40 18 8
 0 27 2 3
+0 40 18 8
 1
 end_operator
 begin_operator
@@ -73011,8 +73011,8 @@ succumb anxiety achievement pepper vulcan jupiter
 1
 0 8
 2
-0 40 18 8
 0 27 3 1
+0 40 18 8
 1
 end_operator
 begin_operator
@@ -73020,8 +73020,8 @@ succumb anxiety achievement pistachio earth uranus
 1
 0 9
 2
-0 40 18 9
 0 27 0 2
+0 40 18 9
 1
 end_operator
 begin_operator
@@ -73029,8 +73029,8 @@ succumb anxiety achievement pistachio uranus vulcan
 1
 0 9
 2
-0 40 18 9
 0 27 2 3
+0 40 18 9
 1
 end_operator
 begin_operator
@@ -73038,8 +73038,8 @@ succumb anxiety achievement pistachio vulcan jupiter
 1
 0 9
 2
-0 40 18 9
 0 27 3 1
+0 40 18 9
 1
 end_operator
 begin_operator
@@ -73047,8 +73047,8 @@ succumb anxiety achievement pork earth uranus
 1
 0 10
 2
-0 40 18 10
 0 27 0 2
+0 40 18 10
 1
 end_operator
 begin_operator
@@ -73056,8 +73056,8 @@ succumb anxiety achievement pork uranus vulcan
 1
 0 10
 2
-0 40 18 10
 0 27 2 3
+0 40 18 10
 1
 end_operator
 begin_operator
@@ -73065,8 +73065,8 @@ succumb anxiety achievement pork vulcan jupiter
 1
 0 10
 2
-0 40 18 10
 0 27 3 1
+0 40 18 10
 1
 end_operator
 begin_operator
@@ -73074,8 +73074,8 @@ succumb anxiety achievement rice earth uranus
 1
 0 11
 2
-0 40 18 11
 0 27 0 2
+0 40 18 11
 1
 end_operator
 begin_operator
@@ -73083,8 +73083,8 @@ succumb anxiety achievement rice uranus vulcan
 1
 0 11
 2
-0 40 18 11
 0 27 2 3
+0 40 18 11
 1
 end_operator
 begin_operator
@@ -73092,8 +73092,8 @@ succumb anxiety achievement rice vulcan jupiter
 1
 0 11
 2
-0 40 18 11
 0 27 3 1
+0 40 18 11
 1
 end_operator
 begin_operator
@@ -73101,8 +73101,8 @@ succumb anxiety achievement scallop earth uranus
 1
 0 12
 2
-0 40 18 12
 0 27 0 2
+0 40 18 12
 1
 end_operator
 begin_operator
@@ -73110,8 +73110,8 @@ succumb anxiety achievement scallop uranus vulcan
 1
 0 12
 2
-0 40 18 12
 0 27 2 3
+0 40 18 12
 1
 end_operator
 begin_operator
@@ -73119,8 +73119,8 @@ succumb anxiety achievement scallop vulcan jupiter
 1
 0 12
 2
-0 40 18 12
 0 27 3 1
+0 40 18 12
 1
 end_operator
 begin_operator
@@ -73128,8 +73128,8 @@ succumb anxiety achievement tofu earth uranus
 1
 0 13
 2
-0 40 18 13
 0 27 0 2
+0 40 18 13
 1
 end_operator
 begin_operator
@@ -73137,8 +73137,8 @@ succumb anxiety achievement tofu uranus vulcan
 1
 0 13
 2
-0 40 18 13
 0 27 2 3
+0 40 18 13
 1
 end_operator
 begin_operator
@@ -73146,8 +73146,8 @@ succumb anxiety achievement tofu vulcan jupiter
 1
 0 13
 2
-0 40 18 13
 0 27 3 1
+0 40 18 13
 1
 end_operator
 begin_operator
@@ -73155,8 +73155,8 @@ succumb anxiety achievement tomato earth uranus
 1
 0 14
 2
-0 40 18 14
 0 27 0 2
+0 40 18 14
 1
 end_operator
 begin_operator
@@ -73164,8 +73164,8 @@ succumb anxiety achievement tomato uranus vulcan
 1
 0 14
 2
-0 40 18 14
 0 27 2 3
+0 40 18 14
 1
 end_operator
 begin_operator
@@ -73173,8 +73173,8 @@ succumb anxiety achievement tomato vulcan jupiter
 1
 0 14
 2
-0 40 18 14
 0 27 3 1
+0 40 18 14
 1
 end_operator
 begin_operator
@@ -73182,8 +73182,8 @@ succumb anxiety achievement tuna earth uranus
 1
 0 15
 2
-0 40 18 15
 0 27 0 2
+0 40 18 15
 1
 end_operator
 begin_operator
@@ -73191,8 +73191,8 @@ succumb anxiety achievement tuna uranus vulcan
 1
 0 15
 2
-0 40 18 15
 0 27 2 3
+0 40 18 15
 1
 end_operator
 begin_operator
@@ -73200,8 +73200,8 @@ succumb anxiety achievement tuna vulcan jupiter
 1
 0 15
 2
-0 40 18 15
 0 27 3 1
+0 40 18 15
 1
 end_operator
 begin_operator
@@ -73209,8 +73209,8 @@ succumb anxiety achievement turkey earth uranus
 1
 0 16
 2
-0 40 18 16
 0 27 0 2
+0 40 18 16
 1
 end_operator
 begin_operator
@@ -73218,8 +73218,8 @@ succumb anxiety achievement turkey uranus vulcan
 1
 0 16
 2
-0 40 18 16
 0 27 2 3
+0 40 18 16
 1
 end_operator
 begin_operator
@@ -73227,8 +73227,8 @@ succumb anxiety achievement turkey vulcan jupiter
 1
 0 16
 2
-0 40 18 16
 0 27 3 1
+0 40 18 16
 1
 end_operator
 begin_operator
@@ -73236,8 +73236,8 @@ succumb anxiety achievement wonderbread earth uranus
 1
 0 17
 2
-0 40 18 17
 0 27 0 2
+0 40 18 17
 1
 end_operator
 begin_operator
@@ -73245,8 +73245,8 @@ succumb anxiety achievement wonderbread uranus vulcan
 1
 0 17
 2
-0 40 18 17
 0 27 2 3
+0 40 18 17
 1
 end_operator
 begin_operator
@@ -73254,8 +73254,8 @@ succumb anxiety achievement wonderbread vulcan jupiter
 1
 0 17
 2
-0 40 18 17
 0 27 3 1
+0 40 18 17
 1
 end_operator
 begin_operator
@@ -73263,8 +73263,8 @@ succumb anxiety aesthetics arugula earth uranus
 1
 1 0
 2
-0 40 19 0
 0 28 0 2
+0 40 19 0
 1
 end_operator
 begin_operator
@@ -73272,8 +73272,8 @@ succumb anxiety aesthetics arugula uranus vulcan
 1
 1 0
 2
-0 40 19 0
 0 28 2 3
+0 40 19 0
 1
 end_operator
 begin_operator
@@ -73281,8 +73281,8 @@ succumb anxiety aesthetics arugula vulcan jupiter
 1
 1 0
 2
-0 40 19 0
 0 28 3 1
+0 40 19 0
 1
 end_operator
 begin_operator
@@ -73290,8 +73290,8 @@ succumb anxiety aesthetics baguette earth uranus
 1
 1 1
 2
-0 40 19 1
 0 28 0 2
+0 40 19 1
 1
 end_operator
 begin_operator
@@ -73299,8 +73299,8 @@ succumb anxiety aesthetics baguette uranus vulcan
 1
 1 1
 2
-0 40 19 1
 0 28 2 3
+0 40 19 1
 1
 end_operator
 begin_operator
@@ -73308,8 +73308,8 @@ succumb anxiety aesthetics baguette vulcan jupiter
 1
 1 1
 2
-0 40 19 1
 0 28 3 1
+0 40 19 1
 1
 end_operator
 begin_operator
@@ -73317,8 +73317,8 @@ succumb anxiety aesthetics cantelope earth uranus
 1
 1 2
 2
-0 40 19 2
 0 28 0 2
+0 40 19 2
 1
 end_operator
 begin_operator
@@ -73326,8 +73326,8 @@ succumb anxiety aesthetics cantelope uranus vulcan
 1
 1 2
 2
-0 40 19 2
 0 28 2 3
+0 40 19 2
 1
 end_operator
 begin_operator
@@ -73335,8 +73335,8 @@ succumb anxiety aesthetics cantelope vulcan jupiter
 1
 1 2
 2
-0 40 19 2
 0 28 3 1
+0 40 19 2
 1
 end_operator
 begin_operator
@@ -73344,8 +73344,8 @@ succumb anxiety aesthetics flounder earth uranus
 1
 1 3
 2
-0 40 19 3
 0 28 0 2
+0 40 19 3
 1
 end_operator
 begin_operator
@@ -73353,8 +73353,8 @@ succumb anxiety aesthetics flounder uranus vulcan
 1
 1 3
 2
-0 40 19 3
 0 28 2 3
+0 40 19 3
 1
 end_operator
 begin_operator
@@ -73362,8 +73362,8 @@ succumb anxiety aesthetics flounder vulcan jupiter
 1
 1 3
 2
-0 40 19 3
 0 28 3 1
+0 40 19 3
 1
 end_operator
 begin_operator
@@ -73371,8 +73371,8 @@ succumb anxiety aesthetics hotdog earth uranus
 1
 1 4
 2
-0 40 19 4
 0 28 0 2
+0 40 19 4
 1
 end_operator
 begin_operator
@@ -73380,8 +73380,8 @@ succumb anxiety aesthetics hotdog uranus vulcan
 1
 1 4
 2
-0 40 19 4
 0 28 2 3
+0 40 19 4
 1
 end_operator
 begin_operator
@@ -73389,8 +73389,8 @@ succumb anxiety aesthetics hotdog vulcan jupiter
 1
 1 4
 2
-0 40 19 4
 0 28 3 1
+0 40 19 4
 1
 end_operator
 begin_operator
@@ -73398,8 +73398,8 @@ succumb anxiety aesthetics lobster earth uranus
 1
 1 5
 2
-0 40 19 5
 0 28 0 2
+0 40 19 5
 1
 end_operator
 begin_operator
@@ -73407,8 +73407,8 @@ succumb anxiety aesthetics lobster uranus vulcan
 1
 1 5
 2
-0 40 19 5
 0 28 2 3
+0 40 19 5
 1
 end_operator
 begin_operator
@@ -73416,8 +73416,8 @@ succumb anxiety aesthetics lobster vulcan jupiter
 1
 1 5
 2
-0 40 19 5
 0 28 3 1
+0 40 19 5
 1
 end_operator
 begin_operator
@@ -73425,8 +73425,8 @@ succumb anxiety aesthetics muffin earth uranus
 1
 1 6
 2
-0 40 19 6
 0 28 0 2
+0 40 19 6
 1
 end_operator
 begin_operator
@@ -73434,8 +73434,8 @@ succumb anxiety aesthetics muffin uranus vulcan
 1
 1 6
 2
-0 40 19 6
 0 28 2 3
+0 40 19 6
 1
 end_operator
 begin_operator
@@ -73443,8 +73443,8 @@ succumb anxiety aesthetics muffin vulcan jupiter
 1
 1 6
 2
-0 40 19 6
 0 28 3 1
+0 40 19 6
 1
 end_operator
 begin_operator
@@ -73452,8 +73452,8 @@ succumb anxiety aesthetics okra earth uranus
 1
 1 7
 2
-0 40 19 7
 0 28 0 2
+0 40 19 7
 1
 end_operator
 begin_operator
@@ -73461,8 +73461,8 @@ succumb anxiety aesthetics okra uranus vulcan
 1
 1 7
 2
-0 40 19 7
 0 28 2 3
+0 40 19 7
 1
 end_operator
 begin_operator
@@ -73470,8 +73470,8 @@ succumb anxiety aesthetics okra vulcan jupiter
 1
 1 7
 2
-0 40 19 7
 0 28 3 1
+0 40 19 7
 1
 end_operator
 begin_operator
@@ -73479,8 +73479,8 @@ succumb anxiety aesthetics pepper earth uranus
 1
 1 8
 2
-0 40 19 8
 0 28 0 2
+0 40 19 8
 1
 end_operator
 begin_operator
@@ -73488,8 +73488,8 @@ succumb anxiety aesthetics pepper uranus vulcan
 1
 1 8
 2
-0 40 19 8
 0 28 2 3
+0 40 19 8
 1
 end_operator
 begin_operator
@@ -73497,8 +73497,8 @@ succumb anxiety aesthetics pepper vulcan jupiter
 1
 1 8
 2
-0 40 19 8
 0 28 3 1
+0 40 19 8
 1
 end_operator
 begin_operator
@@ -73506,8 +73506,8 @@ succumb anxiety aesthetics pistachio earth uranus
 1
 1 9
 2
-0 40 19 9
 0 28 0 2
+0 40 19 9
 1
 end_operator
 begin_operator
@@ -73515,8 +73515,8 @@ succumb anxiety aesthetics pistachio uranus vulcan
 1
 1 9
 2
-0 40 19 9
 0 28 2 3
+0 40 19 9
 1
 end_operator
 begin_operator
@@ -73524,8 +73524,8 @@ succumb anxiety aesthetics pistachio vulcan jupiter
 1
 1 9
 2
-0 40 19 9
 0 28 3 1
+0 40 19 9
 1
 end_operator
 begin_operator
@@ -73533,8 +73533,8 @@ succumb anxiety aesthetics pork earth uranus
 1
 1 10
 2
-0 40 19 10
 0 28 0 2
+0 40 19 10
 1
 end_operator
 begin_operator
@@ -73542,8 +73542,8 @@ succumb anxiety aesthetics pork uranus vulcan
 1
 1 10
 2
-0 40 19 10
 0 28 2 3
+0 40 19 10
 1
 end_operator
 begin_operator
@@ -73551,8 +73551,8 @@ succumb anxiety aesthetics pork vulcan jupiter
 1
 1 10
 2
-0 40 19 10
 0 28 3 1
+0 40 19 10
 1
 end_operator
 begin_operator
@@ -73560,8 +73560,8 @@ succumb anxiety aesthetics rice earth uranus
 1
 1 11
 2
-0 40 19 11
 0 28 0 2
+0 40 19 11
 1
 end_operator
 begin_operator
@@ -73569,8 +73569,8 @@ succumb anxiety aesthetics rice uranus vulcan
 1
 1 11
 2
-0 40 19 11
 0 28 2 3
+0 40 19 11
 1
 end_operator
 begin_operator
@@ -73578,8 +73578,8 @@ succumb anxiety aesthetics rice vulcan jupiter
 1
 1 11
 2
-0 40 19 11
 0 28 3 1
+0 40 19 11
 1
 end_operator
 begin_operator
@@ -73587,8 +73587,8 @@ succumb anxiety aesthetics scallop earth uranus
 1
 1 12
 2
-0 40 19 12
 0 28 0 2
+0 40 19 12
 1
 end_operator
 begin_operator
@@ -73596,8 +73596,8 @@ succumb anxiety aesthetics scallop uranus vulcan
 1
 1 12
 2
-0 40 19 12
 0 28 2 3
+0 40 19 12
 1
 end_operator
 begin_operator
@@ -73605,8 +73605,8 @@ succumb anxiety aesthetics scallop vulcan jupiter
 1
 1 12
 2
-0 40 19 12
 0 28 3 1
+0 40 19 12
 1
 end_operator
 begin_operator
@@ -73614,8 +73614,8 @@ succumb anxiety aesthetics tofu earth uranus
 1
 1 13
 2
-0 40 19 13
 0 28 0 2
+0 40 19 13
 1
 end_operator
 begin_operator
@@ -73623,8 +73623,8 @@ succumb anxiety aesthetics tofu uranus vulcan
 1
 1 13
 2
-0 40 19 13
 0 28 2 3
+0 40 19 13
 1
 end_operator
 begin_operator
@@ -73632,8 +73632,8 @@ succumb anxiety aesthetics tofu vulcan jupiter
 1
 1 13
 2
-0 40 19 13
 0 28 3 1
+0 40 19 13
 1
 end_operator
 begin_operator
@@ -73641,8 +73641,8 @@ succumb anxiety aesthetics tomato earth uranus
 1
 1 14
 2
-0 40 19 14
 0 28 0 2
+0 40 19 14
 1
 end_operator
 begin_operator
@@ -73650,8 +73650,8 @@ succumb anxiety aesthetics tomato uranus vulcan
 1
 1 14
 2
-0 40 19 14
 0 28 2 3
+0 40 19 14
 1
 end_operator
 begin_operator
@@ -73659,8 +73659,8 @@ succumb anxiety aesthetics tomato vulcan jupiter
 1
 1 14
 2
-0 40 19 14
 0 28 3 1
+0 40 19 14
 1
 end_operator
 begin_operator
@@ -73668,8 +73668,8 @@ succumb anxiety aesthetics tuna earth uranus
 1
 1 15
 2
-0 40 19 15
 0 28 0 2
+0 40 19 15
 1
 end_operator
 begin_operator
@@ -73677,8 +73677,8 @@ succumb anxiety aesthetics tuna uranus vulcan
 1
 1 15
 2
-0 40 19 15
 0 28 2 3
+0 40 19 15
 1
 end_operator
 begin_operator
@@ -73686,8 +73686,8 @@ succumb anxiety aesthetics tuna vulcan jupiter
 1
 1 15
 2
-0 40 19 15
 0 28 3 1
+0 40 19 15
 1
 end_operator
 begin_operator
@@ -73695,8 +73695,8 @@ succumb anxiety aesthetics turkey earth uranus
 1
 1 16
 2
-0 40 19 16
 0 28 0 2
+0 40 19 16
 1
 end_operator
 begin_operator
@@ -73704,8 +73704,8 @@ succumb anxiety aesthetics turkey uranus vulcan
 1
 1 16
 2
-0 40 19 16
 0 28 2 3
+0 40 19 16
 1
 end_operator
 begin_operator
@@ -73713,8 +73713,8 @@ succumb anxiety aesthetics turkey vulcan jupiter
 1
 1 16
 2
-0 40 19 16
 0 28 3 1
+0 40 19 16
 1
 end_operator
 begin_operator
@@ -73722,8 +73722,8 @@ succumb anxiety aesthetics wonderbread earth uranus
 1
 1 17
 2
-0 40 19 17
 0 28 0 2
+0 40 19 17
 1
 end_operator
 begin_operator
@@ -73731,8 +73731,8 @@ succumb anxiety aesthetics wonderbread uranus vulcan
 1
 1 17
 2
-0 40 19 17
 0 28 2 3
+0 40 19 17
 1
 end_operator
 begin_operator
@@ -73740,8 +73740,8 @@ succumb anxiety aesthetics wonderbread vulcan jupiter
 1
 1 17
 2
-0 40 19 17
 0 28 3 1
+0 40 19 17
 1
 end_operator
 begin_operator
@@ -73749,8 +73749,8 @@ succumb anxiety excitement arugula earth uranus
 1
 2 0
 2
-0 40 20 0
 0 29 0 2
+0 40 20 0
 1
 end_operator
 begin_operator
@@ -73758,8 +73758,8 @@ succumb anxiety excitement arugula uranus vulcan
 1
 2 0
 2
-0 40 20 0
 0 29 2 3
+0 40 20 0
 1
 end_operator
 begin_operator
@@ -73767,8 +73767,8 @@ succumb anxiety excitement arugula vulcan jupiter
 1
 2 0
 2
-0 40 20 0
 0 29 3 1
+0 40 20 0
 1
 end_operator
 begin_operator
@@ -73776,8 +73776,8 @@ succumb anxiety excitement baguette earth uranus
 1
 2 1
 2
-0 40 20 1
 0 29 0 2
+0 40 20 1
 1
 end_operator
 begin_operator
@@ -73785,8 +73785,8 @@ succumb anxiety excitement baguette uranus vulcan
 1
 2 1
 2
-0 40 20 1
 0 29 2 3
+0 40 20 1
 1
 end_operator
 begin_operator
@@ -73794,8 +73794,8 @@ succumb anxiety excitement baguette vulcan jupiter
 1
 2 1
 2
-0 40 20 1
 0 29 3 1
+0 40 20 1
 1
 end_operator
 begin_operator
@@ -73803,8 +73803,8 @@ succumb anxiety excitement cantelope earth uranus
 1
 2 2
 2
-0 40 20 2
 0 29 0 2
+0 40 20 2
 1
 end_operator
 begin_operator
@@ -73812,8 +73812,8 @@ succumb anxiety excitement cantelope uranus vulcan
 1
 2 2
 2
-0 40 20 2
 0 29 2 3
+0 40 20 2
 1
 end_operator
 begin_operator
@@ -73821,8 +73821,8 @@ succumb anxiety excitement cantelope vulcan jupiter
 1
 2 2
 2
-0 40 20 2
 0 29 3 1
+0 40 20 2
 1
 end_operator
 begin_operator
@@ -73830,8 +73830,8 @@ succumb anxiety excitement flounder earth uranus
 1
 2 3
 2
-0 40 20 3
 0 29 0 2
+0 40 20 3
 1
 end_operator
 begin_operator
@@ -73839,8 +73839,8 @@ succumb anxiety excitement flounder uranus vulcan
 1
 2 3
 2
-0 40 20 3
 0 29 2 3
+0 40 20 3
 1
 end_operator
 begin_operator
@@ -73848,8 +73848,8 @@ succumb anxiety excitement flounder vulcan jupiter
 1
 2 3
 2
-0 40 20 3
 0 29 3 1
+0 40 20 3
 1
 end_operator
 begin_operator
@@ -73857,8 +73857,8 @@ succumb anxiety excitement hotdog earth uranus
 1
 2 4
 2
-0 40 20 4
 0 29 0 2
+0 40 20 4
 1
 end_operator
 begin_operator
@@ -73866,8 +73866,8 @@ succumb anxiety excitement hotdog uranus vulcan
 1
 2 4
 2
-0 40 20 4
 0 29 2 3
+0 40 20 4
 1
 end_operator
 begin_operator
@@ -73875,8 +73875,8 @@ succumb anxiety excitement hotdog vulcan jupiter
 1
 2 4
 2
-0 40 20 4
 0 29 3 1
+0 40 20 4
 1
 end_operator
 begin_operator
@@ -73884,8 +73884,8 @@ succumb anxiety excitement lobster earth uranus
 1
 2 5
 2
-0 40 20 5
 0 29 0 2
+0 40 20 5
 1
 end_operator
 begin_operator
@@ -73893,8 +73893,8 @@ succumb anxiety excitement lobster uranus vulcan
 1
 2 5
 2
-0 40 20 5
 0 29 2 3
+0 40 20 5
 1
 end_operator
 begin_operator
@@ -73902,8 +73902,8 @@ succumb anxiety excitement lobster vulcan jupiter
 1
 2 5
 2
-0 40 20 5
 0 29 3 1
+0 40 20 5
 1
 end_operator
 begin_operator
@@ -73911,8 +73911,8 @@ succumb anxiety excitement muffin earth uranus
 1
 2 6
 2
-0 40 20 6
 0 29 0 2
+0 40 20 6
 1
 end_operator
 begin_operator
@@ -73920,8 +73920,8 @@ succumb anxiety excitement muffin uranus vulcan
 1
 2 6
 2
-0 40 20 6
 0 29 2 3
+0 40 20 6
 1
 end_operator
 begin_operator
@@ -73929,8 +73929,8 @@ succumb anxiety excitement muffin vulcan jupiter
 1
 2 6
 2
-0 40 20 6
 0 29 3 1
+0 40 20 6
 1
 end_operator
 begin_operator
@@ -73938,8 +73938,8 @@ succumb anxiety excitement okra earth uranus
 1
 2 7
 2
-0 40 20 7
 0 29 0 2
+0 40 20 7
 1
 end_operator
 begin_operator
@@ -73947,8 +73947,8 @@ succumb anxiety excitement okra uranus vulcan
 1
 2 7
 2
-0 40 20 7
 0 29 2 3
+0 40 20 7
 1
 end_operator
 begin_operator
@@ -73956,8 +73956,8 @@ succumb anxiety excitement okra vulcan jupiter
 1
 2 7
 2
-0 40 20 7
 0 29 3 1
+0 40 20 7
 1
 end_operator
 begin_operator
@@ -73965,8 +73965,8 @@ succumb anxiety excitement pepper earth uranus
 1
 2 8
 2
-0 40 20 8
 0 29 0 2
+0 40 20 8
 1
 end_operator
 begin_operator
@@ -73974,8 +73974,8 @@ succumb anxiety excitement pepper uranus vulcan
 1
 2 8
 2
-0 40 20 8
 0 29 2 3
+0 40 20 8
 1
 end_operator
 begin_operator
@@ -73983,8 +73983,8 @@ succumb anxiety excitement pepper vulcan jupiter
 1
 2 8
 2
-0 40 20 8
 0 29 3 1
+0 40 20 8
 1
 end_operator
 begin_operator
@@ -73992,8 +73992,8 @@ succumb anxiety excitement pistachio earth uranus
 1
 2 9
 2
-0 40 20 9
 0 29 0 2
+0 40 20 9
 1
 end_operator
 begin_operator
@@ -74001,8 +74001,8 @@ succumb anxiety excitement pistachio uranus vulcan
 1
 2 9
 2
-0 40 20 9
 0 29 2 3
+0 40 20 9
 1
 end_operator
 begin_operator
@@ -74010,8 +74010,8 @@ succumb anxiety excitement pistachio vulcan jupiter
 1
 2 9
 2
-0 40 20 9
 0 29 3 1
+0 40 20 9
 1
 end_operator
 begin_operator
@@ -74019,8 +74019,8 @@ succumb anxiety excitement pork earth uranus
 1
 2 10
 2
-0 40 20 10
 0 29 0 2
+0 40 20 10
 1
 end_operator
 begin_operator
@@ -74028,8 +74028,8 @@ succumb anxiety excitement pork uranus vulcan
 1
 2 10
 2
-0 40 20 10
 0 29 2 3
+0 40 20 10
 1
 end_operator
 begin_operator
@@ -74037,8 +74037,8 @@ succumb anxiety excitement pork vulcan jupiter
 1
 2 10
 2
-0 40 20 10
 0 29 3 1
+0 40 20 10
 1
 end_operator
 begin_operator
@@ -74046,8 +74046,8 @@ succumb anxiety excitement rice earth uranus
 1
 2 11
 2
-0 40 20 11
 0 29 0 2
+0 40 20 11
 1
 end_operator
 begin_operator
@@ -74055,8 +74055,8 @@ succumb anxiety excitement rice uranus vulcan
 1
 2 11
 2
-0 40 20 11
 0 29 2 3
+0 40 20 11
 1
 end_operator
 begin_operator
@@ -74064,8 +74064,8 @@ succumb anxiety excitement rice vulcan jupiter
 1
 2 11
 2
-0 40 20 11
 0 29 3 1
+0 40 20 11
 1
 end_operator
 begin_operator
@@ -74073,8 +74073,8 @@ succumb anxiety excitement scallop earth uranus
 1
 2 12
 2
-0 40 20 12
 0 29 0 2
+0 40 20 12
 1
 end_operator
 begin_operator
@@ -74082,8 +74082,8 @@ succumb anxiety excitement scallop uranus vulcan
 1
 2 12
 2
-0 40 20 12
 0 29 2 3
+0 40 20 12
 1
 end_operator
 begin_operator
@@ -74091,8 +74091,8 @@ succumb anxiety excitement scallop vulcan jupiter
 1
 2 12
 2
-0 40 20 12
 0 29 3 1
+0 40 20 12
 1
 end_operator
 begin_operator
@@ -74100,8 +74100,8 @@ succumb anxiety excitement tofu earth uranus
 1
 2 13
 2
-0 40 20 13
 0 29 0 2
+0 40 20 13
 1
 end_operator
 begin_operator
@@ -74109,8 +74109,8 @@ succumb anxiety excitement tofu uranus vulcan
 1
 2 13
 2
-0 40 20 13
 0 29 2 3
+0 40 20 13
 1
 end_operator
 begin_operator
@@ -74118,8 +74118,8 @@ succumb anxiety excitement tofu vulcan jupiter
 1
 2 13
 2
-0 40 20 13
 0 29 3 1
+0 40 20 13
 1
 end_operator
 begin_operator
@@ -74127,8 +74127,8 @@ succumb anxiety excitement tomato earth uranus
 1
 2 14
 2
-0 40 20 14
 0 29 0 2
+0 40 20 14
 1
 end_operator
 begin_operator
@@ -74136,8 +74136,8 @@ succumb anxiety excitement tomato uranus vulcan
 1
 2 14
 2
-0 40 20 14
 0 29 2 3
+0 40 20 14
 1
 end_operator
 begin_operator
@@ -74145,8 +74145,8 @@ succumb anxiety excitement tomato vulcan jupiter
 1
 2 14
 2
-0 40 20 14
 0 29 3 1
+0 40 20 14
 1
 end_operator
 begin_operator
@@ -74154,8 +74154,8 @@ succumb anxiety excitement tuna earth uranus
 1
 2 15
 2
-0 40 20 15
 0 29 0 2
+0 40 20 15
 1
 end_operator
 begin_operator
@@ -74163,8 +74163,8 @@ succumb anxiety excitement tuna uranus vulcan
 1
 2 15
 2
-0 40 20 15
 0 29 2 3
+0 40 20 15
 1
 end_operator
 begin_operator
@@ -74172,8 +74172,8 @@ succumb anxiety excitement tuna vulcan jupiter
 1
 2 15
 2
-0 40 20 15
 0 29 3 1
+0 40 20 15
 1
 end_operator
 begin_operator
@@ -74181,8 +74181,8 @@ succumb anxiety excitement turkey earth uranus
 1
 2 16
 2
-0 40 20 16
 0 29 0 2
+0 40 20 16
 1
 end_operator
 begin_operator
@@ -74190,8 +74190,8 @@ succumb anxiety excitement turkey uranus vulcan
 1
 2 16
 2
-0 40 20 16
 0 29 2 3
+0 40 20 16
 1
 end_operator
 begin_operator
@@ -74199,8 +74199,8 @@ succumb anxiety excitement turkey vulcan jupiter
 1
 2 16
 2
-0 40 20 16
 0 29 3 1
+0 40 20 16
 1
 end_operator
 begin_operator
@@ -74208,8 +74208,8 @@ succumb anxiety excitement wonderbread earth uranus
 1
 2 17
 2
-0 40 20 17
 0 29 0 2
+0 40 20 17
 1
 end_operator
 begin_operator
@@ -74217,8 +74217,8 @@ succumb anxiety excitement wonderbread uranus vulcan
 1
 2 17
 2
-0 40 20 17
 0 29 2 3
+0 40 20 17
 1
 end_operator
 begin_operator
@@ -74226,8 +74226,8 @@ succumb anxiety excitement wonderbread vulcan jupiter
 1
 2 17
 2
-0 40 20 17
 0 29 3 1
+0 40 20 17
 1
 end_operator
 begin_operator
@@ -74235,8 +74235,8 @@ succumb anxiety learning arugula earth uranus
 1
 3 0
 2
-0 40 21 0
 0 30 0 2
+0 40 21 0
 1
 end_operator
 begin_operator
@@ -74244,8 +74244,8 @@ succumb anxiety learning arugula uranus vulcan
 1
 3 0
 2
-0 40 21 0
 0 30 2 3
+0 40 21 0
 1
 end_operator
 begin_operator
@@ -74253,8 +74253,8 @@ succumb anxiety learning arugula vulcan jupiter
 1
 3 0
 2
-0 40 21 0
 0 30 3 1
+0 40 21 0
 1
 end_operator
 begin_operator
@@ -74262,8 +74262,8 @@ succumb anxiety learning baguette earth uranus
 1
 3 1
 2
-0 40 21 1
 0 30 0 2
+0 40 21 1
 1
 end_operator
 begin_operator
@@ -74271,8 +74271,8 @@ succumb anxiety learning baguette uranus vulcan
 1
 3 1
 2
-0 40 21 1
 0 30 2 3
+0 40 21 1
 1
 end_operator
 begin_operator
@@ -74280,8 +74280,8 @@ succumb anxiety learning baguette vulcan jupiter
 1
 3 1
 2
-0 40 21 1
 0 30 3 1
+0 40 21 1
 1
 end_operator
 begin_operator
@@ -74289,8 +74289,8 @@ succumb anxiety learning cantelope earth uranus
 1
 3 2
 2
-0 40 21 2
 0 30 0 2
+0 40 21 2
 1
 end_operator
 begin_operator
@@ -74298,8 +74298,8 @@ succumb anxiety learning cantelope uranus vulcan
 1
 3 2
 2
-0 40 21 2
 0 30 2 3
+0 40 21 2
 1
 end_operator
 begin_operator
@@ -74307,8 +74307,8 @@ succumb anxiety learning cantelope vulcan jupiter
 1
 3 2
 2
-0 40 21 2
 0 30 3 1
+0 40 21 2
 1
 end_operator
 begin_operator
@@ -74316,8 +74316,8 @@ succumb anxiety learning flounder earth uranus
 1
 3 3
 2
-0 40 21 3
 0 30 0 2
+0 40 21 3
 1
 end_operator
 begin_operator
@@ -74325,8 +74325,8 @@ succumb anxiety learning flounder uranus vulcan
 1
 3 3
 2
-0 40 21 3
 0 30 2 3
+0 40 21 3
 1
 end_operator
 begin_operator
@@ -74334,8 +74334,8 @@ succumb anxiety learning flounder vulcan jupiter
 1
 3 3
 2
-0 40 21 3
 0 30 3 1
+0 40 21 3
 1
 end_operator
 begin_operator
@@ -74343,8 +74343,8 @@ succumb anxiety learning hotdog earth uranus
 1
 3 4
 2
-0 40 21 4
 0 30 0 2
+0 40 21 4
 1
 end_operator
 begin_operator
@@ -74352,8 +74352,8 @@ succumb anxiety learning hotdog uranus vulcan
 1
 3 4
 2
-0 40 21 4
 0 30 2 3
+0 40 21 4
 1
 end_operator
 begin_operator
@@ -74361,8 +74361,8 @@ succumb anxiety learning hotdog vulcan jupiter
 1
 3 4
 2
-0 40 21 4
 0 30 3 1
+0 40 21 4
 1
 end_operator
 begin_operator
@@ -74370,8 +74370,8 @@ succumb anxiety learning lobster earth uranus
 1
 3 5
 2
-0 40 21 5
 0 30 0 2
+0 40 21 5
 1
 end_operator
 begin_operator
@@ -74379,8 +74379,8 @@ succumb anxiety learning lobster uranus vulcan
 1
 3 5
 2
-0 40 21 5
 0 30 2 3
+0 40 21 5
 1
 end_operator
 begin_operator
@@ -74388,8 +74388,8 @@ succumb anxiety learning lobster vulcan jupiter
 1
 3 5
 2
-0 40 21 5
 0 30 3 1
+0 40 21 5
 1
 end_operator
 begin_operator
@@ -74397,8 +74397,8 @@ succumb anxiety learning muffin earth uranus
 1
 3 6
 2
-0 40 21 6
 0 30 0 2
+0 40 21 6
 1
 end_operator
 begin_operator
@@ -74406,8 +74406,8 @@ succumb anxiety learning muffin uranus vulcan
 1
 3 6
 2
-0 40 21 6
 0 30 2 3
+0 40 21 6
 1
 end_operator
 begin_operator
@@ -74415,8 +74415,8 @@ succumb anxiety learning muffin vulcan jupiter
 1
 3 6
 2
-0 40 21 6
 0 30 3 1
+0 40 21 6
 1
 end_operator
 begin_operator
@@ -74424,8 +74424,8 @@ succumb anxiety learning okra earth uranus
 1
 3 7
 2
-0 40 21 7
 0 30 0 2
+0 40 21 7
 1
 end_operator
 begin_operator
@@ -74433,8 +74433,8 @@ succumb anxiety learning okra uranus vulcan
 1
 3 7
 2
-0 40 21 7
 0 30 2 3
+0 40 21 7
 1
 end_operator
 begin_operator
@@ -74442,8 +74442,8 @@ succumb anxiety learning okra vulcan jupiter
 1
 3 7
 2
-0 40 21 7
 0 30 3 1
+0 40 21 7
 1
 end_operator
 begin_operator
@@ -74451,8 +74451,8 @@ succumb anxiety learning pepper earth uranus
 1
 3 8
 2
-0 40 21 8
 0 30 0 2
+0 40 21 8
 1
 end_operator
 begin_operator
@@ -74460,8 +74460,8 @@ succumb anxiety learning pepper uranus vulcan
 1
 3 8
 2
-0 40 21 8
 0 30 2 3
+0 40 21 8
 1
 end_operator
 begin_operator
@@ -74469,8 +74469,8 @@ succumb anxiety learning pepper vulcan jupiter
 1
 3 8
 2
-0 40 21 8
 0 30 3 1
+0 40 21 8
 1
 end_operator
 begin_operator
@@ -74478,8 +74478,8 @@ succumb anxiety learning pistachio earth uranus
 1
 3 9
 2
-0 40 21 9
 0 30 0 2
+0 40 21 9
 1
 end_operator
 begin_operator
@@ -74487,8 +74487,8 @@ succumb anxiety learning pistachio uranus vulcan
 1
 3 9
 2
-0 40 21 9
 0 30 2 3
+0 40 21 9
 1
 end_operator
 begin_operator
@@ -74496,8 +74496,8 @@ succumb anxiety learning pistachio vulcan jupiter
 1
 3 9
 2
-0 40 21 9
 0 30 3 1
+0 40 21 9
 1
 end_operator
 begin_operator
@@ -74505,8 +74505,8 @@ succumb anxiety learning pork earth uranus
 1
 3 10
 2
-0 40 21 10
 0 30 0 2
+0 40 21 10
 1
 end_operator
 begin_operator
@@ -74514,8 +74514,8 @@ succumb anxiety learning pork uranus vulcan
 1
 3 10
 2
-0 40 21 10
 0 30 2 3
+0 40 21 10
 1
 end_operator
 begin_operator
@@ -74523,8 +74523,8 @@ succumb anxiety learning pork vulcan jupiter
 1
 3 10
 2
-0 40 21 10
 0 30 3 1
+0 40 21 10
 1
 end_operator
 begin_operator
@@ -74532,8 +74532,8 @@ succumb anxiety learning rice earth uranus
 1
 3 11
 2
-0 40 21 11
 0 30 0 2
+0 40 21 11
 1
 end_operator
 begin_operator
@@ -74541,8 +74541,8 @@ succumb anxiety learning rice uranus vulcan
 1
 3 11
 2
-0 40 21 11
 0 30 2 3
+0 40 21 11
 1
 end_operator
 begin_operator
@@ -74550,8 +74550,8 @@ succumb anxiety learning rice vulcan jupiter
 1
 3 11
 2
-0 40 21 11
 0 30 3 1
+0 40 21 11
 1
 end_operator
 begin_operator
@@ -74559,8 +74559,8 @@ succumb anxiety learning scallop earth uranus
 1
 3 12
 2
-0 40 21 12
 0 30 0 2
+0 40 21 12
 1
 end_operator
 begin_operator
@@ -74568,8 +74568,8 @@ succumb anxiety learning scallop uranus vulcan
 1
 3 12
 2
-0 40 21 12
 0 30 2 3
+0 40 21 12
 1
 end_operator
 begin_operator
@@ -74577,8 +74577,8 @@ succumb anxiety learning scallop vulcan jupiter
 1
 3 12
 2
-0 40 21 12
 0 30 3 1
+0 40 21 12
 1
 end_operator
 begin_operator
@@ -74586,8 +74586,8 @@ succumb anxiety learning tofu earth uranus
 1
 3 13
 2
-0 40 21 13
 0 30 0 2
+0 40 21 13
 1
 end_operator
 begin_operator
@@ -74595,8 +74595,8 @@ succumb anxiety learning tofu uranus vulcan
 1
 3 13
 2
-0 40 21 13
 0 30 2 3
+0 40 21 13
 1
 end_operator
 begin_operator
@@ -74604,8 +74604,8 @@ succumb anxiety learning tofu vulcan jupiter
 1
 3 13
 2
-0 40 21 13
 0 30 3 1
+0 40 21 13
 1
 end_operator
 begin_operator
@@ -74613,8 +74613,8 @@ succumb anxiety learning tomato earth uranus
 1
 3 14
 2
-0 40 21 14
 0 30 0 2
+0 40 21 14
 1
 end_operator
 begin_operator
@@ -74622,8 +74622,8 @@ succumb anxiety learning tomato uranus vulcan
 1
 3 14
 2
-0 40 21 14
 0 30 2 3
+0 40 21 14
 1
 end_operator
 begin_operator
@@ -74631,8 +74631,8 @@ succumb anxiety learning tomato vulcan jupiter
 1
 3 14
 2
-0 40 21 14
 0 30 3 1
+0 40 21 14
 1
 end_operator
 begin_operator
@@ -74640,8 +74640,8 @@ succumb anxiety learning tuna earth uranus
 1
 3 15
 2
-0 40 21 15
 0 30 0 2
+0 40 21 15
 1
 end_operator
 begin_operator
@@ -74649,8 +74649,8 @@ succumb anxiety learning tuna uranus vulcan
 1
 3 15
 2
-0 40 21 15
 0 30 2 3
+0 40 21 15
 1
 end_operator
 begin_operator
@@ -74658,8 +74658,8 @@ succumb anxiety learning tuna vulcan jupiter
 1
 3 15
 2
-0 40 21 15
 0 30 3 1
+0 40 21 15
 1
 end_operator
 begin_operator
@@ -74667,8 +74667,8 @@ succumb anxiety learning turkey earth uranus
 1
 3 16
 2
-0 40 21 16
 0 30 0 2
+0 40 21 16
 1
 end_operator
 begin_operator
@@ -74676,8 +74676,8 @@ succumb anxiety learning turkey uranus vulcan
 1
 3 16
 2
-0 40 21 16
 0 30 2 3
+0 40 21 16
 1
 end_operator
 begin_operator
@@ -74685,8 +74685,8 @@ succumb anxiety learning turkey vulcan jupiter
 1
 3 16
 2
-0 40 21 16
 0 30 3 1
+0 40 21 16
 1
 end_operator
 begin_operator
@@ -74694,8 +74694,8 @@ succumb anxiety learning wonderbread earth uranus
 1
 3 17
 2
-0 40 21 17
 0 30 0 2
+0 40 21 17
 1
 end_operator
 begin_operator
@@ -74703,8 +74703,8 @@ succumb anxiety learning wonderbread uranus vulcan
 1
 3 17
 2
-0 40 21 17
 0 30 2 3
+0 40 21 17
 1
 end_operator
 begin_operator
@@ -74712,8 +74712,8 @@ succumb anxiety learning wonderbread vulcan jupiter
 1
 3 17
 2
-0 40 21 17
 0 30 3 1
+0 40 21 17
 1
 end_operator
 begin_operator
@@ -74721,8 +74721,8 @@ succumb anxiety love arugula earth uranus
 1
 4 0
 2
-0 40 22 0
 0 31 0 2
+0 40 22 0
 1
 end_operator
 begin_operator
@@ -74730,8 +74730,8 @@ succumb anxiety love arugula uranus vulcan
 1
 4 0
 2
-0 40 22 0
 0 31 2 3
+0 40 22 0
 1
 end_operator
 begin_operator
@@ -74739,8 +74739,8 @@ succumb anxiety love arugula vulcan jupiter
 1
 4 0
 2
-0 40 22 0
 0 31 3 1
+0 40 22 0
 1
 end_operator
 begin_operator
@@ -74748,8 +74748,8 @@ succumb anxiety love baguette earth uranus
 1
 4 1
 2
-0 40 22 1
 0 31 0 2
+0 40 22 1
 1
 end_operator
 begin_operator
@@ -74757,8 +74757,8 @@ succumb anxiety love baguette uranus vulcan
 1
 4 1
 2
-0 40 22 1
 0 31 2 3
+0 40 22 1
 1
 end_operator
 begin_operator
@@ -74766,8 +74766,8 @@ succumb anxiety love baguette vulcan jupiter
 1
 4 1
 2
-0 40 22 1
 0 31 3 1
+0 40 22 1
 1
 end_operator
 begin_operator
@@ -74775,8 +74775,8 @@ succumb anxiety love cantelope earth uranus
 1
 4 2
 2
-0 40 22 2
 0 31 0 2
+0 40 22 2
 1
 end_operator
 begin_operator
@@ -74784,8 +74784,8 @@ succumb anxiety love cantelope uranus vulcan
 1
 4 2
 2
-0 40 22 2
 0 31 2 3
+0 40 22 2
 1
 end_operator
 begin_operator
@@ -74793,8 +74793,8 @@ succumb anxiety love cantelope vulcan jupiter
 1
 4 2
 2
-0 40 22 2
 0 31 3 1
+0 40 22 2
 1
 end_operator
 begin_operator
@@ -74802,8 +74802,8 @@ succumb anxiety love flounder earth uranus
 1
 4 3
 2
-0 40 22 3
 0 31 0 2
+0 40 22 3
 1
 end_operator
 begin_operator
@@ -74811,8 +74811,8 @@ succumb anxiety love flounder uranus vulcan
 1
 4 3
 2
-0 40 22 3
 0 31 2 3
+0 40 22 3
 1
 end_operator
 begin_operator
@@ -74820,8 +74820,8 @@ succumb anxiety love flounder vulcan jupiter
 1
 4 3
 2
-0 40 22 3
 0 31 3 1
+0 40 22 3
 1
 end_operator
 begin_operator
@@ -74829,8 +74829,8 @@ succumb anxiety love hotdog earth uranus
 1
 4 4
 2
-0 40 22 4
 0 31 0 2
+0 40 22 4
 1
 end_operator
 begin_operator
@@ -74838,8 +74838,8 @@ succumb anxiety love hotdog uranus vulcan
 1
 4 4
 2
-0 40 22 4
 0 31 2 3
+0 40 22 4
 1
 end_operator
 begin_operator
@@ -74847,8 +74847,8 @@ succumb anxiety love hotdog vulcan jupiter
 1
 4 4
 2
-0 40 22 4
 0 31 3 1
+0 40 22 4
 1
 end_operator
 begin_operator
@@ -74856,8 +74856,8 @@ succumb anxiety love lobster earth uranus
 1
 4 5
 2
-0 40 22 5
 0 31 0 2
+0 40 22 5
 1
 end_operator
 begin_operator
@@ -74865,8 +74865,8 @@ succumb anxiety love lobster uranus vulcan
 1
 4 5
 2
-0 40 22 5
 0 31 2 3
+0 40 22 5
 1
 end_operator
 begin_operator
@@ -74874,8 +74874,8 @@ succumb anxiety love lobster vulcan jupiter
 1
 4 5
 2
-0 40 22 5
 0 31 3 1
+0 40 22 5
 1
 end_operator
 begin_operator
@@ -74883,8 +74883,8 @@ succumb anxiety love muffin earth uranus
 1
 4 6
 2
-0 40 22 6
 0 31 0 2
+0 40 22 6
 1
 end_operator
 begin_operator
@@ -74892,8 +74892,8 @@ succumb anxiety love muffin uranus vulcan
 1
 4 6
 2
-0 40 22 6
 0 31 2 3
+0 40 22 6
 1
 end_operator
 begin_operator
@@ -74901,8 +74901,8 @@ succumb anxiety love muffin vulcan jupiter
 1
 4 6
 2
-0 40 22 6
 0 31 3 1
+0 40 22 6
 1
 end_operator
 begin_operator
@@ -74910,8 +74910,8 @@ succumb anxiety love okra earth uranus
 1
 4 7
 2
-0 40 22 7
 0 31 0 2
+0 40 22 7
 1
 end_operator
 begin_operator
@@ -74919,8 +74919,8 @@ succumb anxiety love okra uranus vulcan
 1
 4 7
 2
-0 40 22 7
 0 31 2 3
+0 40 22 7
 1
 end_operator
 begin_operator
@@ -74928,8 +74928,8 @@ succumb anxiety love okra vulcan jupiter
 1
 4 7
 2
-0 40 22 7
 0 31 3 1
+0 40 22 7
 1
 end_operator
 begin_operator
@@ -74937,8 +74937,8 @@ succumb anxiety love pepper earth uranus
 1
 4 8
 2
-0 40 22 8
 0 31 0 2
+0 40 22 8
 1
 end_operator
 begin_operator
@@ -74946,8 +74946,8 @@ succumb anxiety love pepper uranus vulcan
 1
 4 8
 2
-0 40 22 8
 0 31 2 3
+0 40 22 8
 1
 end_operator
 begin_operator
@@ -74955,8 +74955,8 @@ succumb anxiety love pepper vulcan jupiter
 1
 4 8
 2
-0 40 22 8
 0 31 3 1
+0 40 22 8
 1
 end_operator
 begin_operator
@@ -74964,8 +74964,8 @@ succumb anxiety love pistachio earth uranus
 1
 4 9
 2
-0 40 22 9
 0 31 0 2
+0 40 22 9
 1
 end_operator
 begin_operator
@@ -74973,8 +74973,8 @@ succumb anxiety love pistachio uranus vulcan
 1
 4 9
 2
-0 40 22 9
 0 31 2 3
+0 40 22 9
 1
 end_operator
 begin_operator
@@ -74982,8 +74982,8 @@ succumb anxiety love pistachio vulcan jupiter
 1
 4 9
 2
-0 40 22 9
 0 31 3 1
+0 40 22 9
 1
 end_operator
 begin_operator
@@ -74991,8 +74991,8 @@ succumb anxiety love pork earth uranus
 1
 4 10
 2
-0 40 22 10
 0 31 0 2
+0 40 22 10
 1
 end_operator
 begin_operator
@@ -75000,8 +75000,8 @@ succumb anxiety love pork uranus vulcan
 1
 4 10
 2
-0 40 22 10
 0 31 2 3
+0 40 22 10
 1
 end_operator
 begin_operator
@@ -75009,8 +75009,8 @@ succumb anxiety love pork vulcan jupiter
 1
 4 10
 2
-0 40 22 10
 0 31 3 1
+0 40 22 10
 1
 end_operator
 begin_operator
@@ -75018,8 +75018,8 @@ succumb anxiety love rice earth uranus
 1
 4 11
 2
-0 40 22 11
 0 31 0 2
+0 40 22 11
 1
 end_operator
 begin_operator
@@ -75027,8 +75027,8 @@ succumb anxiety love rice uranus vulcan
 1
 4 11
 2
-0 40 22 11
 0 31 2 3
+0 40 22 11
 1
 end_operator
 begin_operator
@@ -75036,8 +75036,8 @@ succumb anxiety love rice vulcan jupiter
 1
 4 11
 2
-0 40 22 11
 0 31 3 1
+0 40 22 11
 1
 end_operator
 begin_operator
@@ -75045,8 +75045,8 @@ succumb anxiety love scallop earth uranus
 1
 4 12
 2
-0 40 22 12
 0 31 0 2
+0 40 22 12
 1
 end_operator
 begin_operator
@@ -75054,8 +75054,8 @@ succumb anxiety love scallop uranus vulcan
 1
 4 12
 2
-0 40 22 12
 0 31 2 3
+0 40 22 12
 1
 end_operator
 begin_operator
@@ -75063,8 +75063,8 @@ succumb anxiety love scallop vulcan jupiter
 1
 4 12
 2
-0 40 22 12
 0 31 3 1
+0 40 22 12
 1
 end_operator
 begin_operator
@@ -75072,8 +75072,8 @@ succumb anxiety love tofu earth uranus
 1
 4 13
 2
-0 40 22 13
 0 31 0 2
+0 40 22 13
 1
 end_operator
 begin_operator
@@ -75081,8 +75081,8 @@ succumb anxiety love tofu uranus vulcan
 1
 4 13
 2
-0 40 22 13
 0 31 2 3
+0 40 22 13
 1
 end_operator
 begin_operator
@@ -75090,8 +75090,8 @@ succumb anxiety love tofu vulcan jupiter
 1
 4 13
 2
-0 40 22 13
 0 31 3 1
+0 40 22 13
 1
 end_operator
 begin_operator
@@ -75099,8 +75099,8 @@ succumb anxiety love tomato earth uranus
 1
 4 14
 2
-0 40 22 14
 0 31 0 2
+0 40 22 14
 1
 end_operator
 begin_operator
@@ -75108,8 +75108,8 @@ succumb anxiety love tomato uranus vulcan
 1
 4 14
 2
-0 40 22 14
 0 31 2 3
+0 40 22 14
 1
 end_operator
 begin_operator
@@ -75117,8 +75117,8 @@ succumb anxiety love tomato vulcan jupiter
 1
 4 14
 2
-0 40 22 14
 0 31 3 1
+0 40 22 14
 1
 end_operator
 begin_operator
@@ -75126,8 +75126,8 @@ succumb anxiety love tuna earth uranus
 1
 4 15
 2
-0 40 22 15
 0 31 0 2
+0 40 22 15
 1
 end_operator
 begin_operator
@@ -75135,8 +75135,8 @@ succumb anxiety love tuna uranus vulcan
 1
 4 15
 2
-0 40 22 15
 0 31 2 3
+0 40 22 15
 1
 end_operator
 begin_operator
@@ -75144,8 +75144,8 @@ succumb anxiety love tuna vulcan jupiter
 1
 4 15
 2
-0 40 22 15
 0 31 3 1
+0 40 22 15
 1
 end_operator
 begin_operator
@@ -75153,8 +75153,8 @@ succumb anxiety love turkey earth uranus
 1
 4 16
 2
-0 40 22 16
 0 31 0 2
+0 40 22 16
 1
 end_operator
 begin_operator
@@ -75162,8 +75162,8 @@ succumb anxiety love turkey uranus vulcan
 1
 4 16
 2
-0 40 22 16
 0 31 2 3
+0 40 22 16
 1
 end_operator
 begin_operator
@@ -75171,8 +75171,8 @@ succumb anxiety love turkey vulcan jupiter
 1
 4 16
 2
-0 40 22 16
 0 31 3 1
+0 40 22 16
 1
 end_operator
 begin_operator
@@ -75180,8 +75180,8 @@ succumb anxiety love wonderbread earth uranus
 1
 4 17
 2
-0 40 22 17
 0 31 0 2
+0 40 22 17
 1
 end_operator
 begin_operator
@@ -75189,8 +75189,8 @@ succumb anxiety love wonderbread uranus vulcan
 1
 4 17
 2
-0 40 22 17
 0 31 2 3
+0 40 22 17
 1
 end_operator
 begin_operator
@@ -75198,8 +75198,8 @@ succumb anxiety love wonderbread vulcan jupiter
 1
 4 17
 2
-0 40 22 17
 0 31 3 1
+0 40 22 17
 1
 end_operator
 begin_operator
@@ -75207,8 +75207,8 @@ succumb anxiety lubricity arugula earth uranus
 1
 5 0
 2
-0 40 23 0
 0 34 0 2
+0 40 23 0
 1
 end_operator
 begin_operator
@@ -75216,8 +75216,8 @@ succumb anxiety lubricity arugula uranus vulcan
 1
 5 0
 2
-0 40 23 0
 0 34 2 3
+0 40 23 0
 1
 end_operator
 begin_operator
@@ -75225,8 +75225,8 @@ succumb anxiety lubricity arugula vulcan jupiter
 1
 5 0
 2
-0 40 23 0
 0 34 3 1
+0 40 23 0
 1
 end_operator
 begin_operator
@@ -75234,8 +75234,8 @@ succumb anxiety lubricity baguette earth uranus
 1
 5 1
 2
-0 40 23 1
 0 34 0 2
+0 40 23 1
 1
 end_operator
 begin_operator
@@ -75243,8 +75243,8 @@ succumb anxiety lubricity baguette uranus vulcan
 1
 5 1
 2
-0 40 23 1
 0 34 2 3
+0 40 23 1
 1
 end_operator
 begin_operator
@@ -75252,8 +75252,8 @@ succumb anxiety lubricity baguette vulcan jupiter
 1
 5 1
 2
-0 40 23 1
 0 34 3 1
+0 40 23 1
 1
 end_operator
 begin_operator
@@ -75261,8 +75261,8 @@ succumb anxiety lubricity cantelope earth uranus
 1
 5 2
 2
-0 40 23 2
 0 34 0 2
+0 40 23 2
 1
 end_operator
 begin_operator
@@ -75270,8 +75270,8 @@ succumb anxiety lubricity cantelope uranus vulcan
 1
 5 2
 2
-0 40 23 2
 0 34 2 3
+0 40 23 2
 1
 end_operator
 begin_operator
@@ -75279,8 +75279,8 @@ succumb anxiety lubricity cantelope vulcan jupiter
 1
 5 2
 2
-0 40 23 2
 0 34 3 1
+0 40 23 2
 1
 end_operator
 begin_operator
@@ -75288,8 +75288,8 @@ succumb anxiety lubricity flounder earth uranus
 1
 5 3
 2
-0 40 23 3
 0 34 0 2
+0 40 23 3
 1
 end_operator
 begin_operator
@@ -75297,8 +75297,8 @@ succumb anxiety lubricity flounder uranus vulcan
 1
 5 3
 2
-0 40 23 3
 0 34 2 3
+0 40 23 3
 1
 end_operator
 begin_operator
@@ -75306,8 +75306,8 @@ succumb anxiety lubricity flounder vulcan jupiter
 1
 5 3
 2
-0 40 23 3
 0 34 3 1
+0 40 23 3
 1
 end_operator
 begin_operator
@@ -75315,8 +75315,8 @@ succumb anxiety lubricity hotdog earth uranus
 1
 5 4
 2
-0 40 23 4
 0 34 0 2
+0 40 23 4
 1
 end_operator
 begin_operator
@@ -75324,8 +75324,8 @@ succumb anxiety lubricity hotdog uranus vulcan
 1
 5 4
 2
-0 40 23 4
 0 34 2 3
+0 40 23 4
 1
 end_operator
 begin_operator
@@ -75333,8 +75333,8 @@ succumb anxiety lubricity hotdog vulcan jupiter
 1
 5 4
 2
-0 40 23 4
 0 34 3 1
+0 40 23 4
 1
 end_operator
 begin_operator
@@ -75342,8 +75342,8 @@ succumb anxiety lubricity lobster earth uranus
 1
 5 5
 2
-0 40 23 5
 0 34 0 2
+0 40 23 5
 1
 end_operator
 begin_operator
@@ -75351,8 +75351,8 @@ succumb anxiety lubricity lobster uranus vulcan
 1
 5 5
 2
-0 40 23 5
 0 34 2 3
+0 40 23 5
 1
 end_operator
 begin_operator
@@ -75360,8 +75360,8 @@ succumb anxiety lubricity lobster vulcan jupiter
 1
 5 5
 2
-0 40 23 5
 0 34 3 1
+0 40 23 5
 1
 end_operator
 begin_operator
@@ -75369,8 +75369,8 @@ succumb anxiety lubricity muffin earth uranus
 1
 5 6
 2
-0 40 23 6
 0 34 0 2
+0 40 23 6
 1
 end_operator
 begin_operator
@@ -75378,8 +75378,8 @@ succumb anxiety lubricity muffin uranus vulcan
 1
 5 6
 2
-0 40 23 6
 0 34 2 3
+0 40 23 6
 1
 end_operator
 begin_operator
@@ -75387,8 +75387,8 @@ succumb anxiety lubricity muffin vulcan jupiter
 1
 5 6
 2
-0 40 23 6
 0 34 3 1
+0 40 23 6
 1
 end_operator
 begin_operator
@@ -75396,8 +75396,8 @@ succumb anxiety lubricity okra earth uranus
 1
 5 7
 2
-0 40 23 7
 0 34 0 2
+0 40 23 7
 1
 end_operator
 begin_operator
@@ -75405,8 +75405,8 @@ succumb anxiety lubricity okra uranus vulcan
 1
 5 7
 2
-0 40 23 7
 0 34 2 3
+0 40 23 7
 1
 end_operator
 begin_operator
@@ -75414,8 +75414,8 @@ succumb anxiety lubricity okra vulcan jupiter
 1
 5 7
 2
-0 40 23 7
 0 34 3 1
+0 40 23 7
 1
 end_operator
 begin_operator
@@ -75423,8 +75423,8 @@ succumb anxiety lubricity pepper earth uranus
 1
 5 8
 2
-0 40 23 8
 0 34 0 2
+0 40 23 8
 1
 end_operator
 begin_operator
@@ -75432,8 +75432,8 @@ succumb anxiety lubricity pepper uranus vulcan
 1
 5 8
 2
-0 40 23 8
 0 34 2 3
+0 40 23 8
 1
 end_operator
 begin_operator
@@ -75441,8 +75441,8 @@ succumb anxiety lubricity pepper vulcan jupiter
 1
 5 8
 2
-0 40 23 8
 0 34 3 1
+0 40 23 8
 1
 end_operator
 begin_operator
@@ -75450,8 +75450,8 @@ succumb anxiety lubricity pistachio earth uranus
 1
 5 9
 2
-0 40 23 9
 0 34 0 2
+0 40 23 9
 1
 end_operator
 begin_operator
@@ -75459,8 +75459,8 @@ succumb anxiety lubricity pistachio uranus vulcan
 1
 5 9
 2
-0 40 23 9
 0 34 2 3
+0 40 23 9
 1
 end_operator
 begin_operator
@@ -75468,8 +75468,8 @@ succumb anxiety lubricity pistachio vulcan jupiter
 1
 5 9
 2
-0 40 23 9
 0 34 3 1
+0 40 23 9
 1
 end_operator
 begin_operator
@@ -75477,8 +75477,8 @@ succumb anxiety lubricity pork earth uranus
 1
 5 10
 2
-0 40 23 10
 0 34 0 2
+0 40 23 10
 1
 end_operator
 begin_operator
@@ -75486,8 +75486,8 @@ succumb anxiety lubricity pork uranus vulcan
 1
 5 10
 2
-0 40 23 10
 0 34 2 3
+0 40 23 10
 1
 end_operator
 begin_operator
@@ -75495,8 +75495,8 @@ succumb anxiety lubricity pork vulcan jupiter
 1
 5 10
 2
-0 40 23 10
 0 34 3 1
+0 40 23 10
 1
 end_operator
 begin_operator
@@ -75504,8 +75504,8 @@ succumb anxiety lubricity rice earth uranus
 1
 5 11
 2
-0 40 23 11
 0 34 0 2
+0 40 23 11
 1
 end_operator
 begin_operator
@@ -75513,8 +75513,8 @@ succumb anxiety lubricity rice uranus vulcan
 1
 5 11
 2
-0 40 23 11
 0 34 2 3
+0 40 23 11
 1
 end_operator
 begin_operator
@@ -75522,8 +75522,8 @@ succumb anxiety lubricity rice vulcan jupiter
 1
 5 11
 2
-0 40 23 11
 0 34 3 1
+0 40 23 11
 1
 end_operator
 begin_operator
@@ -75531,8 +75531,8 @@ succumb anxiety lubricity scallop earth uranus
 1
 5 12
 2
-0 40 23 12
 0 34 0 2
+0 40 23 12
 1
 end_operator
 begin_operator
@@ -75540,8 +75540,8 @@ succumb anxiety lubricity scallop uranus vulcan
 1
 5 12
 2
-0 40 23 12
 0 34 2 3
+0 40 23 12
 1
 end_operator
 begin_operator
@@ -75549,8 +75549,8 @@ succumb anxiety lubricity scallop vulcan jupiter
 1
 5 12
 2
-0 40 23 12
 0 34 3 1
+0 40 23 12
 1
 end_operator
 begin_operator
@@ -75558,8 +75558,8 @@ succumb anxiety lubricity tofu earth uranus
 1
 5 13
 2
-0 40 23 13
 0 34 0 2
+0 40 23 13
 1
 end_operator
 begin_operator
@@ -75567,8 +75567,8 @@ succumb anxiety lubricity tofu uranus vulcan
 1
 5 13
 2
-0 40 23 13
 0 34 2 3
+0 40 23 13
 1
 end_operator
 begin_operator
@@ -75576,8 +75576,8 @@ succumb anxiety lubricity tofu vulcan jupiter
 1
 5 13
 2
-0 40 23 13
 0 34 3 1
+0 40 23 13
 1
 end_operator
 begin_operator
@@ -75585,8 +75585,8 @@ succumb anxiety lubricity tomato earth uranus
 1
 5 14
 2
-0 40 23 14
 0 34 0 2
+0 40 23 14
 1
 end_operator
 begin_operator
@@ -75594,8 +75594,8 @@ succumb anxiety lubricity tomato uranus vulcan
 1
 5 14
 2
-0 40 23 14
 0 34 2 3
+0 40 23 14
 1
 end_operator
 begin_operator
@@ -75603,8 +75603,8 @@ succumb anxiety lubricity tomato vulcan jupiter
 1
 5 14
 2
-0 40 23 14
 0 34 3 1
+0 40 23 14
 1
 end_operator
 begin_operator
@@ -75612,8 +75612,8 @@ succumb anxiety lubricity tuna earth uranus
 1
 5 15
 2
-0 40 23 15
 0 34 0 2
+0 40 23 15
 1
 end_operator
 begin_operator
@@ -75621,8 +75621,8 @@ succumb anxiety lubricity tuna uranus vulcan
 1
 5 15
 2
-0 40 23 15
 0 34 2 3
+0 40 23 15
 1
 end_operator
 begin_operator
@@ -75630,8 +75630,8 @@ succumb anxiety lubricity tuna vulcan jupiter
 1
 5 15
 2
-0 40 23 15
 0 34 3 1
+0 40 23 15
 1
 end_operator
 begin_operator
@@ -75639,8 +75639,8 @@ succumb anxiety lubricity turkey earth uranus
 1
 5 16
 2
-0 40 23 16
 0 34 0 2
+0 40 23 16
 1
 end_operator
 begin_operator
@@ -75648,8 +75648,8 @@ succumb anxiety lubricity turkey uranus vulcan
 1
 5 16
 2
-0 40 23 16
 0 34 2 3
+0 40 23 16
 1
 end_operator
 begin_operator
@@ -75657,8 +75657,8 @@ succumb anxiety lubricity turkey vulcan jupiter
 1
 5 16
 2
-0 40 23 16
 0 34 3 1
+0 40 23 16
 1
 end_operator
 begin_operator
@@ -75666,8 +75666,8 @@ succumb anxiety lubricity wonderbread earth uranus
 1
 5 17
 2
-0 40 23 17
 0 34 0 2
+0 40 23 17
 1
 end_operator
 begin_operator
@@ -75675,8 +75675,8 @@ succumb anxiety lubricity wonderbread uranus vulcan
 1
 5 17
 2
-0 40 23 17
 0 34 2 3
+0 40 23 17
 1
 end_operator
 begin_operator
@@ -75684,8 +75684,8 @@ succumb anxiety lubricity wonderbread vulcan jupiter
 1
 5 17
 2
-0 40 23 17
 0 34 3 1
+0 40 23 17
 1
 end_operator
 begin_operator
@@ -75693,8 +75693,8 @@ succumb anxiety rest arugula earth uranus
 1
 6 0
 2
-0 40 24 0
 0 35 0 2
+0 40 24 0
 1
 end_operator
 begin_operator
@@ -75702,8 +75702,8 @@ succumb anxiety rest arugula uranus vulcan
 1
 6 0
 2
-0 40 24 0
 0 35 2 3
+0 40 24 0
 1
 end_operator
 begin_operator
@@ -75711,8 +75711,8 @@ succumb anxiety rest arugula vulcan jupiter
 1
 6 0
 2
-0 40 24 0
 0 35 3 1
+0 40 24 0
 1
 end_operator
 begin_operator
@@ -75720,8 +75720,8 @@ succumb anxiety rest baguette earth uranus
 1
 6 1
 2
-0 40 24 1
 0 35 0 2
+0 40 24 1
 1
 end_operator
 begin_operator
@@ -75729,8 +75729,8 @@ succumb anxiety rest baguette uranus vulcan
 1
 6 1
 2
-0 40 24 1
 0 35 2 3
+0 40 24 1
 1
 end_operator
 begin_operator
@@ -75738,8 +75738,8 @@ succumb anxiety rest baguette vulcan jupiter
 1
 6 1
 2
-0 40 24 1
 0 35 3 1
+0 40 24 1
 1
 end_operator
 begin_operator
@@ -75747,8 +75747,8 @@ succumb anxiety rest cantelope earth uranus
 1
 6 2
 2
-0 40 24 2
 0 35 0 2
+0 40 24 2
 1
 end_operator
 begin_operator
@@ -75756,8 +75756,8 @@ succumb anxiety rest cantelope uranus vulcan
 1
 6 2
 2
-0 40 24 2
 0 35 2 3
+0 40 24 2
 1
 end_operator
 begin_operator
@@ -75765,8 +75765,8 @@ succumb anxiety rest cantelope vulcan jupiter
 1
 6 2
 2
-0 40 24 2
 0 35 3 1
+0 40 24 2
 1
 end_operator
 begin_operator
@@ -75774,8 +75774,8 @@ succumb anxiety rest flounder earth uranus
 1
 6 3
 2
-0 40 24 3
 0 35 0 2
+0 40 24 3
 1
 end_operator
 begin_operator
@@ -75783,8 +75783,8 @@ succumb anxiety rest flounder uranus vulcan
 1
 6 3
 2
-0 40 24 3
 0 35 2 3
+0 40 24 3
 1
 end_operator
 begin_operator
@@ -75792,8 +75792,8 @@ succumb anxiety rest flounder vulcan jupiter
 1
 6 3
 2
-0 40 24 3
 0 35 3 1
+0 40 24 3
 1
 end_operator
 begin_operator
@@ -75801,8 +75801,8 @@ succumb anxiety rest hotdog earth uranus
 1
 6 4
 2
-0 40 24 4
 0 35 0 2
+0 40 24 4
 1
 end_operator
 begin_operator
@@ -75810,8 +75810,8 @@ succumb anxiety rest hotdog uranus vulcan
 1
 6 4
 2
-0 40 24 4
 0 35 2 3
+0 40 24 4
 1
 end_operator
 begin_operator
@@ -75819,8 +75819,8 @@ succumb anxiety rest hotdog vulcan jupiter
 1
 6 4
 2
-0 40 24 4
 0 35 3 1
+0 40 24 4
 1
 end_operator
 begin_operator
@@ -75828,8 +75828,8 @@ succumb anxiety rest lobster earth uranus
 1
 6 5
 2
-0 40 24 5
 0 35 0 2
+0 40 24 5
 1
 end_operator
 begin_operator
@@ -75837,8 +75837,8 @@ succumb anxiety rest lobster uranus vulcan
 1
 6 5
 2
-0 40 24 5
 0 35 2 3
+0 40 24 5
 1
 end_operator
 begin_operator
@@ -75846,8 +75846,8 @@ succumb anxiety rest lobster vulcan jupiter
 1
 6 5
 2
-0 40 24 5
 0 35 3 1
+0 40 24 5
 1
 end_operator
 begin_operator
@@ -75855,8 +75855,8 @@ succumb anxiety rest muffin earth uranus
 1
 6 6
 2
-0 40 24 6
 0 35 0 2
+0 40 24 6
 1
 end_operator
 begin_operator
@@ -75864,8 +75864,8 @@ succumb anxiety rest muffin uranus vulcan
 1
 6 6
 2
-0 40 24 6
 0 35 2 3
+0 40 24 6
 1
 end_operator
 begin_operator
@@ -75873,8 +75873,8 @@ succumb anxiety rest muffin vulcan jupiter
 1
 6 6
 2
-0 40 24 6
 0 35 3 1
+0 40 24 6
 1
 end_operator
 begin_operator
@@ -75882,8 +75882,8 @@ succumb anxiety rest okra earth uranus
 1
 6 7
 2
-0 40 24 7
 0 35 0 2
+0 40 24 7
 1
 end_operator
 begin_operator
@@ -75891,8 +75891,8 @@ succumb anxiety rest okra uranus vulcan
 1
 6 7
 2
-0 40 24 7
 0 35 2 3
+0 40 24 7
 1
 end_operator
 begin_operator
@@ -75900,8 +75900,8 @@ succumb anxiety rest okra vulcan jupiter
 1
 6 7
 2
-0 40 24 7
 0 35 3 1
+0 40 24 7
 1
 end_operator
 begin_operator
@@ -75909,8 +75909,8 @@ succumb anxiety rest pepper earth uranus
 1
 6 8
 2
-0 40 24 8
 0 35 0 2
+0 40 24 8
 1
 end_operator
 begin_operator
@@ -75918,8 +75918,8 @@ succumb anxiety rest pepper uranus vulcan
 1
 6 8
 2
-0 40 24 8
 0 35 2 3
+0 40 24 8
 1
 end_operator
 begin_operator
@@ -75927,8 +75927,8 @@ succumb anxiety rest pepper vulcan jupiter
 1
 6 8
 2
-0 40 24 8
 0 35 3 1
+0 40 24 8
 1
 end_operator
 begin_operator
@@ -75936,8 +75936,8 @@ succumb anxiety rest pistachio earth uranus
 1
 6 9
 2
-0 40 24 9
 0 35 0 2
+0 40 24 9
 1
 end_operator
 begin_operator
@@ -75945,8 +75945,8 @@ succumb anxiety rest pistachio uranus vulcan
 1
 6 9
 2
-0 40 24 9
 0 35 2 3
+0 40 24 9
 1
 end_operator
 begin_operator
@@ -75954,8 +75954,8 @@ succumb anxiety rest pistachio vulcan jupiter
 1
 6 9
 2
-0 40 24 9
 0 35 3 1
+0 40 24 9
 1
 end_operator
 begin_operator
@@ -75963,8 +75963,8 @@ succumb anxiety rest pork earth uranus
 1
 6 10
 2
-0 40 24 10
 0 35 0 2
+0 40 24 10
 1
 end_operator
 begin_operator
@@ -75972,8 +75972,8 @@ succumb anxiety rest pork uranus vulcan
 1
 6 10
 2
-0 40 24 10
 0 35 2 3
+0 40 24 10
 1
 end_operator
 begin_operator
@@ -75981,8 +75981,8 @@ succumb anxiety rest pork vulcan jupiter
 1
 6 10
 2
-0 40 24 10
 0 35 3 1
+0 40 24 10
 1
 end_operator
 begin_operator
@@ -75990,8 +75990,8 @@ succumb anxiety rest rice earth uranus
 1
 6 11
 2
-0 40 24 11
 0 35 0 2
+0 40 24 11
 1
 end_operator
 begin_operator
@@ -75999,8 +75999,8 @@ succumb anxiety rest rice uranus vulcan
 1
 6 11
 2
-0 40 24 11
 0 35 2 3
+0 40 24 11
 1
 end_operator
 begin_operator
@@ -76008,8 +76008,8 @@ succumb anxiety rest rice vulcan jupiter
 1
 6 11
 2
-0 40 24 11
 0 35 3 1
+0 40 24 11
 1
 end_operator
 begin_operator
@@ -76017,8 +76017,8 @@ succumb anxiety rest scallop earth uranus
 1
 6 12
 2
-0 40 24 12
 0 35 0 2
+0 40 24 12
 1
 end_operator
 begin_operator
@@ -76026,8 +76026,8 @@ succumb anxiety rest scallop uranus vulcan
 1
 6 12
 2
-0 40 24 12
 0 35 2 3
+0 40 24 12
 1
 end_operator
 begin_operator
@@ -76035,8 +76035,8 @@ succumb anxiety rest scallop vulcan jupiter
 1
 6 12
 2
-0 40 24 12
 0 35 3 1
+0 40 24 12
 1
 end_operator
 begin_operator
@@ -76044,8 +76044,8 @@ succumb anxiety rest tofu earth uranus
 1
 6 13
 2
-0 40 24 13
 0 35 0 2
+0 40 24 13
 1
 end_operator
 begin_operator
@@ -76053,8 +76053,8 @@ succumb anxiety rest tofu uranus vulcan
 1
 6 13
 2
-0 40 24 13
 0 35 2 3
+0 40 24 13
 1
 end_operator
 begin_operator
@@ -76062,8 +76062,8 @@ succumb anxiety rest tofu vulcan jupiter
 1
 6 13
 2
-0 40 24 13
 0 35 3 1
+0 40 24 13
 1
 end_operator
 begin_operator
@@ -76071,8 +76071,8 @@ succumb anxiety rest tomato earth uranus
 1
 6 14
 2
-0 40 24 14
 0 35 0 2
+0 40 24 14
 1
 end_operator
 begin_operator
@@ -76080,8 +76080,8 @@ succumb anxiety rest tomato uranus vulcan
 1
 6 14
 2
-0 40 24 14
 0 35 2 3
+0 40 24 14
 1
 end_operator
 begin_operator
@@ -76089,8 +76089,8 @@ succumb anxiety rest tomato vulcan jupiter
 1
 6 14
 2
-0 40 24 14
 0 35 3 1
+0 40 24 14
 1
 end_operator
 begin_operator
@@ -76098,8 +76098,8 @@ succumb anxiety rest tuna earth uranus
 1
 6 15
 2
-0 40 24 15
 0 35 0 2
+0 40 24 15
 1
 end_operator
 begin_operator
@@ -76107,8 +76107,8 @@ succumb anxiety rest tuna uranus vulcan
 1
 6 15
 2
-0 40 24 15
 0 35 2 3
+0 40 24 15
 1
 end_operator
 begin_operator
@@ -76116,8 +76116,8 @@ succumb anxiety rest tuna vulcan jupiter
 1
 6 15
 2
-0 40 24 15
 0 35 3 1
+0 40 24 15
 1
 end_operator
 begin_operator
@@ -76125,8 +76125,8 @@ succumb anxiety rest turkey earth uranus
 1
 6 16
 2
-0 40 24 16
 0 35 0 2
+0 40 24 16
 1
 end_operator
 begin_operator
@@ -76134,8 +76134,8 @@ succumb anxiety rest turkey uranus vulcan
 1
 6 16
 2
-0 40 24 16
 0 35 2 3
+0 40 24 16
 1
 end_operator
 begin_operator
@@ -76143,8 +76143,8 @@ succumb anxiety rest turkey vulcan jupiter
 1
 6 16
 2
-0 40 24 16
 0 35 3 1
+0 40 24 16
 1
 end_operator
 begin_operator
@@ -76152,8 +76152,8 @@ succumb anxiety rest wonderbread earth uranus
 1
 6 17
 2
-0 40 24 17
 0 35 0 2
+0 40 24 17
 1
 end_operator
 begin_operator
@@ -76161,8 +76161,8 @@ succumb anxiety rest wonderbread uranus vulcan
 1
 6 17
 2
-0 40 24 17
 0 35 2 3
+0 40 24 17
 1
 end_operator
 begin_operator
@@ -76170,8 +76170,8 @@ succumb anxiety rest wonderbread vulcan jupiter
 1
 6 17
 2
-0 40 24 17
 0 35 3 1
+0 40 24 17
 1
 end_operator
 begin_operator
@@ -76179,8 +76179,8 @@ succumb anxiety stimulation arugula earth uranus
 1
 7 0
 2
-0 40 25 0
 0 38 0 2
+0 40 25 0
 1
 end_operator
 begin_operator
@@ -76188,8 +76188,8 @@ succumb anxiety stimulation arugula uranus vulcan
 1
 7 0
 2
-0 40 25 0
 0 38 2 3
+0 40 25 0
 1
 end_operator
 begin_operator
@@ -76197,8 +76197,8 @@ succumb anxiety stimulation arugula vulcan jupiter
 1
 7 0
 2
-0 40 25 0
 0 38 3 1
+0 40 25 0
 1
 end_operator
 begin_operator
@@ -76206,8 +76206,8 @@ succumb anxiety stimulation baguette earth uranus
 1
 7 1
 2
-0 40 25 1
 0 38 0 2
+0 40 25 1
 1
 end_operator
 begin_operator
@@ -76215,8 +76215,8 @@ succumb anxiety stimulation baguette uranus vulcan
 1
 7 1
 2
-0 40 25 1
 0 38 2 3
+0 40 25 1
 1
 end_operator
 begin_operator
@@ -76224,8 +76224,8 @@ succumb anxiety stimulation baguette vulcan jupiter
 1
 7 1
 2
-0 40 25 1
 0 38 3 1
+0 40 25 1
 1
 end_operator
 begin_operator
@@ -76233,8 +76233,8 @@ succumb anxiety stimulation cantelope earth uranus
 1
 7 2
 2
-0 40 25 2
 0 38 0 2
+0 40 25 2
 1
 end_operator
 begin_operator
@@ -76242,8 +76242,8 @@ succumb anxiety stimulation cantelope uranus vulcan
 1
 7 2
 2
-0 40 25 2
 0 38 2 3
+0 40 25 2
 1
 end_operator
 begin_operator
@@ -76251,8 +76251,8 @@ succumb anxiety stimulation cantelope vulcan jupiter
 1
 7 2
 2
-0 40 25 2
 0 38 3 1
+0 40 25 2
 1
 end_operator
 begin_operator
@@ -76260,8 +76260,8 @@ succumb anxiety stimulation flounder earth uranus
 1
 7 3
 2
-0 40 25 3
 0 38 0 2
+0 40 25 3
 1
 end_operator
 begin_operator
@@ -76269,8 +76269,8 @@ succumb anxiety stimulation flounder uranus vulcan
 1
 7 3
 2
-0 40 25 3
 0 38 2 3
+0 40 25 3
 1
 end_operator
 begin_operator
@@ -76278,8 +76278,8 @@ succumb anxiety stimulation flounder vulcan jupiter
 1
 7 3
 2
-0 40 25 3
 0 38 3 1
+0 40 25 3
 1
 end_operator
 begin_operator
@@ -76287,8 +76287,8 @@ succumb anxiety stimulation hotdog earth uranus
 1
 7 4
 2
-0 40 25 4
 0 38 0 2
+0 40 25 4
 1
 end_operator
 begin_operator
@@ -76296,8 +76296,8 @@ succumb anxiety stimulation hotdog uranus vulcan
 1
 7 4
 2
-0 40 25 4
 0 38 2 3
+0 40 25 4
 1
 end_operator
 begin_operator
@@ -76305,8 +76305,8 @@ succumb anxiety stimulation hotdog vulcan jupiter
 1
 7 4
 2
-0 40 25 4
 0 38 3 1
+0 40 25 4
 1
 end_operator
 begin_operator
@@ -76314,8 +76314,8 @@ succumb anxiety stimulation lobster earth uranus
 1
 7 5
 2
-0 40 25 5
 0 38 0 2
+0 40 25 5
 1
 end_operator
 begin_operator
@@ -76323,8 +76323,8 @@ succumb anxiety stimulation lobster uranus vulcan
 1
 7 5
 2
-0 40 25 5
 0 38 2 3
+0 40 25 5
 1
 end_operator
 begin_operator
@@ -76332,8 +76332,8 @@ succumb anxiety stimulation lobster vulcan jupiter
 1
 7 5
 2
-0 40 25 5
 0 38 3 1
+0 40 25 5
 1
 end_operator
 begin_operator
@@ -76341,8 +76341,8 @@ succumb anxiety stimulation muffin earth uranus
 1
 7 6
 2
-0 40 25 6
 0 38 0 2
+0 40 25 6
 1
 end_operator
 begin_operator
@@ -76350,8 +76350,8 @@ succumb anxiety stimulation muffin uranus vulcan
 1
 7 6
 2
-0 40 25 6
 0 38 2 3
+0 40 25 6
 1
 end_operator
 begin_operator
@@ -76359,8 +76359,8 @@ succumb anxiety stimulation muffin vulcan jupiter
 1
 7 6
 2
-0 40 25 6
 0 38 3 1
+0 40 25 6
 1
 end_operator
 begin_operator
@@ -76368,8 +76368,8 @@ succumb anxiety stimulation okra earth uranus
 1
 7 7
 2
-0 40 25 7
 0 38 0 2
+0 40 25 7
 1
 end_operator
 begin_operator
@@ -76377,8 +76377,8 @@ succumb anxiety stimulation okra uranus vulcan
 1
 7 7
 2
-0 40 25 7
 0 38 2 3
+0 40 25 7
 1
 end_operator
 begin_operator
@@ -76386,8 +76386,8 @@ succumb anxiety stimulation okra vulcan jupiter
 1
 7 7
 2
-0 40 25 7
 0 38 3 1
+0 40 25 7
 1
 end_operator
 begin_operator
@@ -76395,8 +76395,8 @@ succumb anxiety stimulation pepper earth uranus
 1
 7 8
 2
-0 40 25 8
 0 38 0 2
+0 40 25 8
 1
 end_operator
 begin_operator
@@ -76404,8 +76404,8 @@ succumb anxiety stimulation pepper uranus vulcan
 1
 7 8
 2
-0 40 25 8
 0 38 2 3
+0 40 25 8
 1
 end_operator
 begin_operator
@@ -76413,8 +76413,8 @@ succumb anxiety stimulation pepper vulcan jupiter
 1
 7 8
 2
-0 40 25 8
 0 38 3 1
+0 40 25 8
 1
 end_operator
 begin_operator
@@ -76422,8 +76422,8 @@ succumb anxiety stimulation pistachio earth uranus
 1
 7 9
 2
-0 40 25 9
 0 38 0 2
+0 40 25 9
 1
 end_operator
 begin_operator
@@ -76431,8 +76431,8 @@ succumb anxiety stimulation pistachio uranus vulcan
 1
 7 9
 2
-0 40 25 9
 0 38 2 3
+0 40 25 9
 1
 end_operator
 begin_operator
@@ -76440,8 +76440,8 @@ succumb anxiety stimulation pistachio vulcan jupiter
 1
 7 9
 2
-0 40 25 9
 0 38 3 1
+0 40 25 9
 1
 end_operator
 begin_operator
@@ -76449,8 +76449,8 @@ succumb anxiety stimulation pork earth uranus
 1
 7 10
 2
-0 40 25 10
 0 38 0 2
+0 40 25 10
 1
 end_operator
 begin_operator
@@ -76458,8 +76458,8 @@ succumb anxiety stimulation pork uranus vulcan
 1
 7 10
 2
-0 40 25 10
 0 38 2 3
+0 40 25 10
 1
 end_operator
 begin_operator
@@ -76467,8 +76467,8 @@ succumb anxiety stimulation pork vulcan jupiter
 1
 7 10
 2
-0 40 25 10
 0 38 3 1
+0 40 25 10
 1
 end_operator
 begin_operator
@@ -76476,8 +76476,8 @@ succumb anxiety stimulation rice earth uranus
 1
 7 11
 2
-0 40 25 11
 0 38 0 2
+0 40 25 11
 1
 end_operator
 begin_operator
@@ -76485,8 +76485,8 @@ succumb anxiety stimulation rice uranus vulcan
 1
 7 11
 2
-0 40 25 11
 0 38 2 3
+0 40 25 11
 1
 end_operator
 begin_operator
@@ -76494,8 +76494,8 @@ succumb anxiety stimulation rice vulcan jupiter
 1
 7 11
 2
-0 40 25 11
 0 38 3 1
+0 40 25 11
 1
 end_operator
 begin_operator
@@ -76503,8 +76503,8 @@ succumb anxiety stimulation scallop earth uranus
 1
 7 12
 2
-0 40 25 12
 0 38 0 2
+0 40 25 12
 1
 end_operator
 begin_operator
@@ -76512,8 +76512,8 @@ succumb anxiety stimulation scallop uranus vulcan
 1
 7 12
 2
-0 40 25 12
 0 38 2 3
+0 40 25 12
 1
 end_operator
 begin_operator
@@ -76521,8 +76521,8 @@ succumb anxiety stimulation scallop vulcan jupiter
 1
 7 12
 2
-0 40 25 12
 0 38 3 1
+0 40 25 12
 1
 end_operator
 begin_operator
@@ -76530,8 +76530,8 @@ succumb anxiety stimulation tofu earth uranus
 1
 7 13
 2
-0 40 25 13
 0 38 0 2
+0 40 25 13
 1
 end_operator
 begin_operator
@@ -76539,8 +76539,8 @@ succumb anxiety stimulation tofu uranus vulcan
 1
 7 13
 2
-0 40 25 13
 0 38 2 3
+0 40 25 13
 1
 end_operator
 begin_operator
@@ -76548,8 +76548,8 @@ succumb anxiety stimulation tofu vulcan jupiter
 1
 7 13
 2
-0 40 25 13
 0 38 3 1
+0 40 25 13
 1
 end_operator
 begin_operator
@@ -76557,8 +76557,8 @@ succumb anxiety stimulation tomato earth uranus
 1
 7 14
 2
-0 40 25 14
 0 38 0 2
+0 40 25 14
 1
 end_operator
 begin_operator
@@ -76566,8 +76566,8 @@ succumb anxiety stimulation tomato uranus vulcan
 1
 7 14
 2
-0 40 25 14
 0 38 2 3
+0 40 25 14
 1
 end_operator
 begin_operator
@@ -76575,8 +76575,8 @@ succumb anxiety stimulation tomato vulcan jupiter
 1
 7 14
 2
-0 40 25 14
 0 38 3 1
+0 40 25 14
 1
 end_operator
 begin_operator
@@ -76584,8 +76584,8 @@ succumb anxiety stimulation tuna earth uranus
 1
 7 15
 2
-0 40 25 15
 0 38 0 2
+0 40 25 15
 1
 end_operator
 begin_operator
@@ -76593,8 +76593,8 @@ succumb anxiety stimulation tuna uranus vulcan
 1
 7 15
 2
-0 40 25 15
 0 38 2 3
+0 40 25 15
 1
 end_operator
 begin_operator
@@ -76602,8 +76602,8 @@ succumb anxiety stimulation tuna vulcan jupiter
 1
 7 15
 2
-0 40 25 15
 0 38 3 1
+0 40 25 15
 1
 end_operator
 begin_operator
@@ -76611,8 +76611,8 @@ succumb anxiety stimulation turkey earth uranus
 1
 7 16
 2
-0 40 25 16
 0 38 0 2
+0 40 25 16
 1
 end_operator
 begin_operator
@@ -76620,8 +76620,8 @@ succumb anxiety stimulation turkey uranus vulcan
 1
 7 16
 2
-0 40 25 16
 0 38 2 3
+0 40 25 16
 1
 end_operator
 begin_operator
@@ -76629,8 +76629,8 @@ succumb anxiety stimulation turkey vulcan jupiter
 1
 7 16
 2
-0 40 25 16
 0 38 3 1
+0 40 25 16
 1
 end_operator
 begin_operator
@@ -76638,8 +76638,8 @@ succumb anxiety stimulation wonderbread earth uranus
 1
 7 17
 2
-0 40 25 17
 0 38 0 2
+0 40 25 17
 1
 end_operator
 begin_operator
@@ -76647,8 +76647,8 @@ succumb anxiety stimulation wonderbread uranus vulcan
 1
 7 17
 2
-0 40 25 17
 0 38 2 3
+0 40 25 17
 1
 end_operator
 begin_operator
@@ -76656,8 +76656,8 @@ succumb anxiety stimulation wonderbread vulcan jupiter
 1
 7 17
 2
-0 40 25 17
 0 38 3 1
+0 40 25 17
 1
 end_operator
 begin_operator
@@ -76665,8 +76665,8 @@ succumb anxiety triumph arugula earth uranus
 1
 8 0
 2
-0 40 26 0
 0 39 0 2
+0 40 26 0
 1
 end_operator
 begin_operator
@@ -76674,8 +76674,8 @@ succumb anxiety triumph arugula uranus vulcan
 1
 8 0
 2
-0 40 26 0
 0 39 2 3
+0 40 26 0
 1
 end_operator
 begin_operator
@@ -76683,8 +76683,8 @@ succumb anxiety triumph arugula vulcan jupiter
 1
 8 0
 2
-0 40 26 0
 0 39 3 1
+0 40 26 0
 1
 end_operator
 begin_operator
@@ -76692,8 +76692,8 @@ succumb anxiety triumph baguette earth uranus
 1
 8 1
 2
-0 40 26 1
 0 39 0 2
+0 40 26 1
 1
 end_operator
 begin_operator
@@ -76701,8 +76701,8 @@ succumb anxiety triumph baguette uranus vulcan
 1
 8 1
 2
-0 40 26 1
 0 39 2 3
+0 40 26 1
 1
 end_operator
 begin_operator
@@ -76710,8 +76710,8 @@ succumb anxiety triumph baguette vulcan jupiter
 1
 8 1
 2
-0 40 26 1
 0 39 3 1
+0 40 26 1
 1
 end_operator
 begin_operator
@@ -76719,8 +76719,8 @@ succumb anxiety triumph cantelope earth uranus
 1
 8 2
 2
-0 40 26 2
 0 39 0 2
+0 40 26 2
 1
 end_operator
 begin_operator
@@ -76728,8 +76728,8 @@ succumb anxiety triumph cantelope uranus vulcan
 1
 8 2
 2
-0 40 26 2
 0 39 2 3
+0 40 26 2
 1
 end_operator
 begin_operator
@@ -76737,8 +76737,8 @@ succumb anxiety triumph cantelope vulcan jupiter
 1
 8 2
 2
-0 40 26 2
 0 39 3 1
+0 40 26 2
 1
 end_operator
 begin_operator
@@ -76746,8 +76746,8 @@ succumb anxiety triumph flounder earth uranus
 1
 8 3
 2
-0 40 26 3
 0 39 0 2
+0 40 26 3
 1
 end_operator
 begin_operator
@@ -76755,8 +76755,8 @@ succumb anxiety triumph flounder uranus vulcan
 1
 8 3
 2
-0 40 26 3
 0 39 2 3
+0 40 26 3
 1
 end_operator
 begin_operator
@@ -76764,8 +76764,8 @@ succumb anxiety triumph flounder vulcan jupiter
 1
 8 3
 2
-0 40 26 3
 0 39 3 1
+0 40 26 3
 1
 end_operator
 begin_operator
@@ -76773,8 +76773,8 @@ succumb anxiety triumph hotdog earth uranus
 1
 8 4
 2
-0 40 26 4
 0 39 0 2
+0 40 26 4
 1
 end_operator
 begin_operator
@@ -76782,8 +76782,8 @@ succumb anxiety triumph hotdog uranus vulcan
 1
 8 4
 2
-0 40 26 4
 0 39 2 3
+0 40 26 4
 1
 end_operator
 begin_operator
@@ -76791,8 +76791,8 @@ succumb anxiety triumph hotdog vulcan jupiter
 1
 8 4
 2
-0 40 26 4
 0 39 3 1
+0 40 26 4
 1
 end_operator
 begin_operator
@@ -76800,8 +76800,8 @@ succumb anxiety triumph lobster earth uranus
 1
 8 5
 2
-0 40 26 5
 0 39 0 2
+0 40 26 5
 1
 end_operator
 begin_operator
@@ -76809,8 +76809,8 @@ succumb anxiety triumph lobster uranus vulcan
 1
 8 5
 2
-0 40 26 5
 0 39 2 3
+0 40 26 5
 1
 end_operator
 begin_operator
@@ -76818,8 +76818,8 @@ succumb anxiety triumph lobster vulcan jupiter
 1
 8 5
 2
-0 40 26 5
 0 39 3 1
+0 40 26 5
 1
 end_operator
 begin_operator
@@ -76827,8 +76827,8 @@ succumb anxiety triumph muffin earth uranus
 1
 8 6
 2
-0 40 26 6
 0 39 0 2
+0 40 26 6
 1
 end_operator
 begin_operator
@@ -76836,8 +76836,8 @@ succumb anxiety triumph muffin uranus vulcan
 1
 8 6
 2
-0 40 26 6
 0 39 2 3
+0 40 26 6
 1
 end_operator
 begin_operator
@@ -76845,8 +76845,8 @@ succumb anxiety triumph muffin vulcan jupiter
 1
 8 6
 2
-0 40 26 6
 0 39 3 1
+0 40 26 6
 1
 end_operator
 begin_operator
@@ -76854,8 +76854,8 @@ succumb anxiety triumph okra earth uranus
 1
 8 7
 2
-0 40 26 7
 0 39 0 2
+0 40 26 7
 1
 end_operator
 begin_operator
@@ -76863,8 +76863,8 @@ succumb anxiety triumph okra uranus vulcan
 1
 8 7
 2
-0 40 26 7
 0 39 2 3
+0 40 26 7
 1
 end_operator
 begin_operator
@@ -76872,8 +76872,8 @@ succumb anxiety triumph okra vulcan jupiter
 1
 8 7
 2
-0 40 26 7
 0 39 3 1
+0 40 26 7
 1
 end_operator
 begin_operator
@@ -76881,8 +76881,8 @@ succumb anxiety triumph pepper earth uranus
 1
 8 8
 2
-0 40 26 8
 0 39 0 2
+0 40 26 8
 1
 end_operator
 begin_operator
@@ -76890,8 +76890,8 @@ succumb anxiety triumph pepper uranus vulcan
 1
 8 8
 2
-0 40 26 8
 0 39 2 3
+0 40 26 8
 1
 end_operator
 begin_operator
@@ -76899,8 +76899,8 @@ succumb anxiety triumph pepper vulcan jupiter
 1
 8 8
 2
-0 40 26 8
 0 39 3 1
+0 40 26 8
 1
 end_operator
 begin_operator
@@ -76908,8 +76908,8 @@ succumb anxiety triumph pistachio earth uranus
 1
 8 9
 2
-0 40 26 9
 0 39 0 2
+0 40 26 9
 1
 end_operator
 begin_operator
@@ -76917,8 +76917,8 @@ succumb anxiety triumph pistachio uranus vulcan
 1
 8 9
 2
-0 40 26 9
 0 39 2 3
+0 40 26 9
 1
 end_operator
 begin_operator
@@ -76926,8 +76926,8 @@ succumb anxiety triumph pistachio vulcan jupiter
 1
 8 9
 2
-0 40 26 9
 0 39 3 1
+0 40 26 9
 1
 end_operator
 begin_operator
@@ -76935,8 +76935,8 @@ succumb anxiety triumph pork earth uranus
 1
 8 10
 2
-0 40 26 10
 0 39 0 2
+0 40 26 10
 1
 end_operator
 begin_operator
@@ -76944,8 +76944,8 @@ succumb anxiety triumph pork uranus vulcan
 1
 8 10
 2
-0 40 26 10
 0 39 2 3
+0 40 26 10
 1
 end_operator
 begin_operator
@@ -76953,8 +76953,8 @@ succumb anxiety triumph pork vulcan jupiter
 1
 8 10
 2
-0 40 26 10
 0 39 3 1
+0 40 26 10
 1
 end_operator
 begin_operator
@@ -76962,8 +76962,8 @@ succumb anxiety triumph rice earth uranus
 1
 8 11
 2
-0 40 26 11
 0 39 0 2
+0 40 26 11
 1
 end_operator
 begin_operator
@@ -76971,8 +76971,8 @@ succumb anxiety triumph rice uranus vulcan
 1
 8 11
 2
-0 40 26 11
 0 39 2 3
+0 40 26 11
 1
 end_operator
 begin_operator
@@ -76980,8 +76980,8 @@ succumb anxiety triumph rice vulcan jupiter
 1
 8 11
 2
-0 40 26 11
 0 39 3 1
+0 40 26 11
 1
 end_operator
 begin_operator
@@ -76989,8 +76989,8 @@ succumb anxiety triumph scallop earth uranus
 1
 8 12
 2
-0 40 26 12
 0 39 0 2
+0 40 26 12
 1
 end_operator
 begin_operator
@@ -76998,8 +76998,8 @@ succumb anxiety triumph scallop uranus vulcan
 1
 8 12
 2
-0 40 26 12
 0 39 2 3
+0 40 26 12
 1
 end_operator
 begin_operator
@@ -77007,8 +77007,8 @@ succumb anxiety triumph scallop vulcan jupiter
 1
 8 12
 2
-0 40 26 12
 0 39 3 1
+0 40 26 12
 1
 end_operator
 begin_operator
@@ -77016,8 +77016,8 @@ succumb anxiety triumph tofu earth uranus
 1
 8 13
 2
-0 40 26 13
 0 39 0 2
+0 40 26 13
 1
 end_operator
 begin_operator
@@ -77025,8 +77025,8 @@ succumb anxiety triumph tofu uranus vulcan
 1
 8 13
 2
-0 40 26 13
 0 39 2 3
+0 40 26 13
 1
 end_operator
 begin_operator
@@ -77034,8 +77034,8 @@ succumb anxiety triumph tofu vulcan jupiter
 1
 8 13
 2
-0 40 26 13
 0 39 3 1
+0 40 26 13
 1
 end_operator
 begin_operator
@@ -77043,8 +77043,8 @@ succumb anxiety triumph tomato earth uranus
 1
 8 14
 2
-0 40 26 14
 0 39 0 2
+0 40 26 14
 1
 end_operator
 begin_operator
@@ -77052,8 +77052,8 @@ succumb anxiety triumph tomato uranus vulcan
 1
 8 14
 2
-0 40 26 14
 0 39 2 3
+0 40 26 14
 1
 end_operator
 begin_operator
@@ -77061,8 +77061,8 @@ succumb anxiety triumph tomato vulcan jupiter
 1
 8 14
 2
-0 40 26 14
 0 39 3 1
+0 40 26 14
 1
 end_operator
 begin_operator
@@ -77070,8 +77070,8 @@ succumb anxiety triumph tuna earth uranus
 1
 8 15
 2
-0 40 26 15
 0 39 0 2
+0 40 26 15
 1
 end_operator
 begin_operator
@@ -77079,8 +77079,8 @@ succumb anxiety triumph tuna uranus vulcan
 1
 8 15
 2
-0 40 26 15
 0 39 2 3
+0 40 26 15
 1
 end_operator
 begin_operator
@@ -77088,8 +77088,8 @@ succumb anxiety triumph tuna vulcan jupiter
 1
 8 15
 2
-0 40 26 15
 0 39 3 1
+0 40 26 15
 1
 end_operator
 begin_operator
@@ -77097,8 +77097,8 @@ succumb anxiety triumph turkey earth uranus
 1
 8 16
 2
-0 40 26 16
 0 39 0 2
+0 40 26 16
 1
 end_operator
 begin_operator
@@ -77106,8 +77106,8 @@ succumb anxiety triumph turkey uranus vulcan
 1
 8 16
 2
-0 40 26 16
 0 39 2 3
+0 40 26 16
 1
 end_operator
 begin_operator
@@ -77115,8 +77115,8 @@ succumb anxiety triumph turkey vulcan jupiter
 1
 8 16
 2
-0 40 26 16
 0 39 3 1
+0 40 26 16
 1
 end_operator
 begin_operator
@@ -77124,8 +77124,8 @@ succumb anxiety triumph wonderbread earth uranus
 1
 8 17
 2
-0 40 26 17
 0 39 0 2
+0 40 26 17
 1
 end_operator
 begin_operator
@@ -77133,8 +77133,8 @@ succumb anxiety triumph wonderbread uranus vulcan
 1
 8 17
 2
-0 40 26 17
 0 39 2 3
+0 40 26 17
 1
 end_operator
 begin_operator
@@ -77142,8 +77142,8 @@ succumb anxiety triumph wonderbread vulcan jupiter
 1
 8 17
 2
-0 40 26 17
 0 39 3 1
+0 40 26 17
 1
 end_operator
 begin_operator
@@ -77151,8 +77151,8 @@ succumb hangover achievement arugula earth uranus
 1
 0 0
 2
-0 36 18 0
 0 27 0 2
+0 36 18 0
 1
 end_operator
 begin_operator
@@ -77160,8 +77160,8 @@ succumb hangover achievement arugula uranus vulcan
 1
 0 0
 2
-0 36 18 0
 0 27 2 3
+0 36 18 0
 1
 end_operator
 begin_operator
@@ -77169,8 +77169,8 @@ succumb hangover achievement arugula vulcan jupiter
 1
 0 0
 2
-0 36 18 0
 0 27 3 1
+0 36 18 0
 1
 end_operator
 begin_operator
@@ -77178,8 +77178,8 @@ succumb hangover achievement baguette earth uranus
 1
 0 1
 2
-0 36 18 1
 0 27 0 2
+0 36 18 1
 1
 end_operator
 begin_operator
@@ -77187,8 +77187,8 @@ succumb hangover achievement baguette uranus vulcan
 1
 0 1
 2
-0 36 18 1
 0 27 2 3
+0 36 18 1
 1
 end_operator
 begin_operator
@@ -77196,8 +77196,8 @@ succumb hangover achievement baguette vulcan jupiter
 1
 0 1
 2
-0 36 18 1
 0 27 3 1
+0 36 18 1
 1
 end_operator
 begin_operator
@@ -77205,8 +77205,8 @@ succumb hangover achievement cantelope earth uranus
 1
 0 2
 2
-0 36 18 2
 0 27 0 2
+0 36 18 2
 1
 end_operator
 begin_operator
@@ -77214,8 +77214,8 @@ succumb hangover achievement cantelope uranus vulcan
 1
 0 2
 2
-0 36 18 2
 0 27 2 3
+0 36 18 2
 1
 end_operator
 begin_operator
@@ -77223,8 +77223,8 @@ succumb hangover achievement cantelope vulcan jupiter
 1
 0 2
 2
-0 36 18 2
 0 27 3 1
+0 36 18 2
 1
 end_operator
 begin_operator
@@ -77232,8 +77232,8 @@ succumb hangover achievement flounder earth uranus
 1
 0 3
 2
-0 36 18 3
 0 27 0 2
+0 36 18 3
 1
 end_operator
 begin_operator
@@ -77241,8 +77241,8 @@ succumb hangover achievement flounder uranus vulcan
 1
 0 3
 2
-0 36 18 3
 0 27 2 3
+0 36 18 3
 1
 end_operator
 begin_operator
@@ -77250,8 +77250,8 @@ succumb hangover achievement flounder vulcan jupiter
 1
 0 3
 2
-0 36 18 3
 0 27 3 1
+0 36 18 3
 1
 end_operator
 begin_operator
@@ -77259,8 +77259,8 @@ succumb hangover achievement hotdog earth uranus
 1
 0 4
 2
-0 36 18 4
 0 27 0 2
+0 36 18 4
 1
 end_operator
 begin_operator
@@ -77268,8 +77268,8 @@ succumb hangover achievement hotdog uranus vulcan
 1
 0 4
 2
-0 36 18 4
 0 27 2 3
+0 36 18 4
 1
 end_operator
 begin_operator
@@ -77277,8 +77277,8 @@ succumb hangover achievement hotdog vulcan jupiter
 1
 0 4
 2
-0 36 18 4
 0 27 3 1
+0 36 18 4
 1
 end_operator
 begin_operator
@@ -77286,8 +77286,8 @@ succumb hangover achievement lobster earth uranus
 1
 0 5
 2
-0 36 18 5
 0 27 0 2
+0 36 18 5
 1
 end_operator
 begin_operator
@@ -77295,8 +77295,8 @@ succumb hangover achievement lobster uranus vulcan
 1
 0 5
 2
-0 36 18 5
 0 27 2 3
+0 36 18 5
 1
 end_operator
 begin_operator
@@ -77304,8 +77304,8 @@ succumb hangover achievement lobster vulcan jupiter
 1
 0 5
 2
-0 36 18 5
 0 27 3 1
+0 36 18 5
 1
 end_operator
 begin_operator
@@ -77313,8 +77313,8 @@ succumb hangover achievement muffin earth uranus
 1
 0 6
 2
-0 36 18 6
 0 27 0 2
+0 36 18 6
 1
 end_operator
 begin_operator
@@ -77322,8 +77322,8 @@ succumb hangover achievement muffin uranus vulcan
 1
 0 6
 2
-0 36 18 6
 0 27 2 3
+0 36 18 6
 1
 end_operator
 begin_operator
@@ -77331,8 +77331,8 @@ succumb hangover achievement muffin vulcan jupiter
 1
 0 6
 2
-0 36 18 6
 0 27 3 1
+0 36 18 6
 1
 end_operator
 begin_operator
@@ -77340,8 +77340,8 @@ succumb hangover achievement okra earth uranus
 1
 0 7
 2
-0 36 18 7
 0 27 0 2
+0 36 18 7
 1
 end_operator
 begin_operator
@@ -77349,8 +77349,8 @@ succumb hangover achievement okra uranus vulcan
 1
 0 7
 2
-0 36 18 7
 0 27 2 3
+0 36 18 7
 1
 end_operator
 begin_operator
@@ -77358,8 +77358,8 @@ succumb hangover achievement okra vulcan jupiter
 1
 0 7
 2
-0 36 18 7
 0 27 3 1
+0 36 18 7
 1
 end_operator
 begin_operator
@@ -77367,8 +77367,8 @@ succumb hangover achievement pepper earth uranus
 1
 0 8
 2
-0 36 18 8
 0 27 0 2
+0 36 18 8
 1
 end_operator
 begin_operator
@@ -77376,8 +77376,8 @@ succumb hangover achievement pepper uranus vulcan
 1
 0 8
 2
-0 36 18 8
 0 27 2 3
+0 36 18 8
 1
 end_operator
 begin_operator
@@ -77385,8 +77385,8 @@ succumb hangover achievement pepper vulcan jupiter
 1
 0 8
 2
-0 36 18 8
 0 27 3 1
+0 36 18 8
 1
 end_operator
 begin_operator
@@ -77394,8 +77394,8 @@ succumb hangover achievement pistachio earth uranus
 1
 0 9
 2
-0 36 18 9
 0 27 0 2
+0 36 18 9
 1
 end_operator
 begin_operator
@@ -77403,8 +77403,8 @@ succumb hangover achievement pistachio uranus vulcan
 1
 0 9
 2
-0 36 18 9
 0 27 2 3
+0 36 18 9
 1
 end_operator
 begin_operator
@@ -77412,8 +77412,8 @@ succumb hangover achievement pistachio vulcan jupiter
 1
 0 9
 2
-0 36 18 9
 0 27 3 1
+0 36 18 9
 1
 end_operator
 begin_operator
@@ -77421,8 +77421,8 @@ succumb hangover achievement pork earth uranus
 1
 0 10
 2
-0 36 18 10
 0 27 0 2
+0 36 18 10
 1
 end_operator
 begin_operator
@@ -77430,8 +77430,8 @@ succumb hangover achievement pork uranus vulcan
 1
 0 10
 2
-0 36 18 10
 0 27 2 3
+0 36 18 10
 1
 end_operator
 begin_operator
@@ -77439,8 +77439,8 @@ succumb hangover achievement pork vulcan jupiter
 1
 0 10
 2
-0 36 18 10
 0 27 3 1
+0 36 18 10
 1
 end_operator
 begin_operator
@@ -77448,8 +77448,8 @@ succumb hangover achievement rice earth uranus
 1
 0 11
 2
-0 36 18 11
 0 27 0 2
+0 36 18 11
 1
 end_operator
 begin_operator
@@ -77457,8 +77457,8 @@ succumb hangover achievement rice uranus vulcan
 1
 0 11
 2
-0 36 18 11
 0 27 2 3
+0 36 18 11
 1
 end_operator
 begin_operator
@@ -77466,8 +77466,8 @@ succumb hangover achievement rice vulcan jupiter
 1
 0 11
 2
-0 36 18 11
 0 27 3 1
+0 36 18 11
 1
 end_operator
 begin_operator
@@ -77475,8 +77475,8 @@ succumb hangover achievement scallop earth uranus
 1
 0 12
 2
-0 36 18 12
 0 27 0 2
+0 36 18 12
 1
 end_operator
 begin_operator
@@ -77484,8 +77484,8 @@ succumb hangover achievement scallop uranus vulcan
 1
 0 12
 2
-0 36 18 12
 0 27 2 3
+0 36 18 12
 1
 end_operator
 begin_operator
@@ -77493,8 +77493,8 @@ succumb hangover achievement scallop vulcan jupiter
 1
 0 12
 2
-0 36 18 12
 0 27 3 1
+0 36 18 12
 1
 end_operator
 begin_operator
@@ -77502,8 +77502,8 @@ succumb hangover achievement tofu earth uranus
 1
 0 13
 2
-0 36 18 13
 0 27 0 2
+0 36 18 13
 1
 end_operator
 begin_operator
@@ -77511,8 +77511,8 @@ succumb hangover achievement tofu uranus vulcan
 1
 0 13
 2
-0 36 18 13
 0 27 2 3
+0 36 18 13
 1
 end_operator
 begin_operator
@@ -77520,8 +77520,8 @@ succumb hangover achievement tofu vulcan jupiter
 1
 0 13
 2
-0 36 18 13
 0 27 3 1
+0 36 18 13
 1
 end_operator
 begin_operator
@@ -77529,8 +77529,8 @@ succumb hangover achievement tomato earth uranus
 1
 0 14
 2
-0 36 18 14
 0 27 0 2
+0 36 18 14
 1
 end_operator
 begin_operator
@@ -77538,8 +77538,8 @@ succumb hangover achievement tomato uranus vulcan
 1
 0 14
 2
-0 36 18 14
 0 27 2 3
+0 36 18 14
 1
 end_operator
 begin_operator
@@ -77547,8 +77547,8 @@ succumb hangover achievement tomato vulcan jupiter
 1
 0 14
 2
-0 36 18 14
 0 27 3 1
+0 36 18 14
 1
 end_operator
 begin_operator
@@ -77556,8 +77556,8 @@ succumb hangover achievement tuna earth uranus
 1
 0 15
 2
-0 36 18 15
 0 27 0 2
+0 36 18 15
 1
 end_operator
 begin_operator
@@ -77565,8 +77565,8 @@ succumb hangover achievement tuna uranus vulcan
 1
 0 15
 2
-0 36 18 15
 0 27 2 3
+0 36 18 15
 1
 end_operator
 begin_operator
@@ -77574,8 +77574,8 @@ succumb hangover achievement tuna vulcan jupiter
 1
 0 15
 2
-0 36 18 15
 0 27 3 1
+0 36 18 15
 1
 end_operator
 begin_operator
@@ -77583,8 +77583,8 @@ succumb hangover achievement turkey earth uranus
 1
 0 16
 2
-0 36 18 16
 0 27 0 2
+0 36 18 16
 1
 end_operator
 begin_operator
@@ -77592,8 +77592,8 @@ succumb hangover achievement turkey uranus vulcan
 1
 0 16
 2
-0 36 18 16
 0 27 2 3
+0 36 18 16
 1
 end_operator
 begin_operator
@@ -77601,8 +77601,8 @@ succumb hangover achievement turkey vulcan jupiter
 1
 0 16
 2
-0 36 18 16
 0 27 3 1
+0 36 18 16
 1
 end_operator
 begin_operator
@@ -77610,8 +77610,8 @@ succumb hangover achievement wonderbread earth uranus
 1
 0 17
 2
-0 36 18 17
 0 27 0 2
+0 36 18 17
 1
 end_operator
 begin_operator
@@ -77619,8 +77619,8 @@ succumb hangover achievement wonderbread uranus vulcan
 1
 0 17
 2
-0 36 18 17
 0 27 2 3
+0 36 18 17
 1
 end_operator
 begin_operator
@@ -77628,8 +77628,8 @@ succumb hangover achievement wonderbread vulcan jupiter
 1
 0 17
 2
-0 36 18 17
 0 27 3 1
+0 36 18 17
 1
 end_operator
 begin_operator
@@ -77637,8 +77637,8 @@ succumb hangover aesthetics arugula earth uranus
 1
 1 0
 2
-0 36 19 0
 0 28 0 2
+0 36 19 0
 1
 end_operator
 begin_operator
@@ -77646,8 +77646,8 @@ succumb hangover aesthetics arugula uranus vulcan
 1
 1 0
 2
-0 36 19 0
 0 28 2 3
+0 36 19 0
 1
 end_operator
 begin_operator
@@ -77655,8 +77655,8 @@ succumb hangover aesthetics arugula vulcan jupiter
 1
 1 0
 2
-0 36 19 0
 0 28 3 1
+0 36 19 0
 1
 end_operator
 begin_operator
@@ -77664,8 +77664,8 @@ succumb hangover aesthetics baguette earth uranus
 1
 1 1
 2
-0 36 19 1
 0 28 0 2
+0 36 19 1
 1
 end_operator
 begin_operator
@@ -77673,8 +77673,8 @@ succumb hangover aesthetics baguette uranus vulcan
 1
 1 1
 2
-0 36 19 1
 0 28 2 3
+0 36 19 1
 1
 end_operator
 begin_operator
@@ -77682,8 +77682,8 @@ succumb hangover aesthetics baguette vulcan jupiter
 1
 1 1
 2
-0 36 19 1
 0 28 3 1
+0 36 19 1
 1
 end_operator
 begin_operator
@@ -77691,8 +77691,8 @@ succumb hangover aesthetics cantelope earth uranus
 1
 1 2
 2
-0 36 19 2
 0 28 0 2
+0 36 19 2
 1
 end_operator
 begin_operator
@@ -77700,8 +77700,8 @@ succumb hangover aesthetics cantelope uranus vulcan
 1
 1 2
 2
-0 36 19 2
 0 28 2 3
+0 36 19 2
 1
 end_operator
 begin_operator
@@ -77709,8 +77709,8 @@ succumb hangover aesthetics cantelope vulcan jupiter
 1
 1 2
 2
-0 36 19 2
 0 28 3 1
+0 36 19 2
 1
 end_operator
 begin_operator
@@ -77718,8 +77718,8 @@ succumb hangover aesthetics flounder earth uranus
 1
 1 3
 2
-0 36 19 3
 0 28 0 2
+0 36 19 3
 1
 end_operator
 begin_operator
@@ -77727,8 +77727,8 @@ succumb hangover aesthetics flounder uranus vulcan
 1
 1 3
 2
-0 36 19 3
 0 28 2 3
+0 36 19 3
 1
 end_operator
 begin_operator
@@ -77736,8 +77736,8 @@ succumb hangover aesthetics flounder vulcan jupiter
 1
 1 3
 2
-0 36 19 3
 0 28 3 1
+0 36 19 3
 1
 end_operator
 begin_operator
@@ -77745,8 +77745,8 @@ succumb hangover aesthetics hotdog earth uranus
 1
 1 4
 2
-0 36 19 4
 0 28 0 2
+0 36 19 4
 1
 end_operator
 begin_operator
@@ -77754,8 +77754,8 @@ succumb hangover aesthetics hotdog uranus vulcan
 1
 1 4
 2
-0 36 19 4
 0 28 2 3
+0 36 19 4
 1
 end_operator
 begin_operator
@@ -77763,8 +77763,8 @@ succumb hangover aesthetics hotdog vulcan jupiter
 1
 1 4
 2
-0 36 19 4
 0 28 3 1
+0 36 19 4
 1
 end_operator
 begin_operator
@@ -77772,8 +77772,8 @@ succumb hangover aesthetics lobster earth uranus
 1
 1 5
 2
-0 36 19 5
 0 28 0 2
+0 36 19 5
 1
 end_operator
 begin_operator
@@ -77781,8 +77781,8 @@ succumb hangover aesthetics lobster uranus vulcan
 1
 1 5
 2
-0 36 19 5
 0 28 2 3
+0 36 19 5
 1
 end_operator
 begin_operator
@@ -77790,8 +77790,8 @@ succumb hangover aesthetics lobster vulcan jupiter
 1
 1 5
 2
-0 36 19 5
 0 28 3 1
+0 36 19 5
 1
 end_operator
 begin_operator
@@ -77799,8 +77799,8 @@ succumb hangover aesthetics muffin earth uranus
 1
 1 6
 2
-0 36 19 6
 0 28 0 2
+0 36 19 6
 1
 end_operator
 begin_operator
@@ -77808,8 +77808,8 @@ succumb hangover aesthetics muffin uranus vulcan
 1
 1 6
 2
-0 36 19 6
 0 28 2 3
+0 36 19 6
 1
 end_operator
 begin_operator
@@ -77817,8 +77817,8 @@ succumb hangover aesthetics muffin vulcan jupiter
 1
 1 6
 2
-0 36 19 6
 0 28 3 1
+0 36 19 6
 1
 end_operator
 begin_operator
@@ -77826,8 +77826,8 @@ succumb hangover aesthetics okra earth uranus
 1
 1 7
 2
-0 36 19 7
 0 28 0 2
+0 36 19 7
 1
 end_operator
 begin_operator
@@ -77835,8 +77835,8 @@ succumb hangover aesthetics okra uranus vulcan
 1
 1 7
 2
-0 36 19 7
 0 28 2 3
+0 36 19 7
 1
 end_operator
 begin_operator
@@ -77844,8 +77844,8 @@ succumb hangover aesthetics okra vulcan jupiter
 1
 1 7
 2
-0 36 19 7
 0 28 3 1
+0 36 19 7
 1
 end_operator
 begin_operator
@@ -77853,8 +77853,8 @@ succumb hangover aesthetics pepper earth uranus
 1
 1 8
 2
-0 36 19 8
 0 28 0 2
+0 36 19 8
 1
 end_operator
 begin_operator
@@ -77862,8 +77862,8 @@ succumb hangover aesthetics pepper uranus vulcan
 1
 1 8
 2
-0 36 19 8
 0 28 2 3
+0 36 19 8
 1
 end_operator
 begin_operator
@@ -77871,8 +77871,8 @@ succumb hangover aesthetics pepper vulcan jupiter
 1
 1 8
 2
-0 36 19 8
 0 28 3 1
+0 36 19 8
 1
 end_operator
 begin_operator
@@ -77880,8 +77880,8 @@ succumb hangover aesthetics pistachio earth uranus
 1
 1 9
 2
-0 36 19 9
 0 28 0 2
+0 36 19 9
 1
 end_operator
 begin_operator
@@ -77889,8 +77889,8 @@ succumb hangover aesthetics pistachio uranus vulcan
 1
 1 9
 2
-0 36 19 9
 0 28 2 3
+0 36 19 9
 1
 end_operator
 begin_operator
@@ -77898,8 +77898,8 @@ succumb hangover aesthetics pistachio vulcan jupiter
 1
 1 9
 2
-0 36 19 9
 0 28 3 1
+0 36 19 9
 1
 end_operator
 begin_operator
@@ -77907,8 +77907,8 @@ succumb hangover aesthetics pork earth uranus
 1
 1 10
 2
-0 36 19 10
 0 28 0 2
+0 36 19 10
 1
 end_operator
 begin_operator
@@ -77916,8 +77916,8 @@ succumb hangover aesthetics pork uranus vulcan
 1
 1 10
 2
-0 36 19 10
 0 28 2 3
+0 36 19 10
 1
 end_operator
 begin_operator
@@ -77925,8 +77925,8 @@ succumb hangover aesthetics pork vulcan jupiter
 1
 1 10
 2
-0 36 19 10
 0 28 3 1
+0 36 19 10
 1
 end_operator
 begin_operator
@@ -77934,8 +77934,8 @@ succumb hangover aesthetics rice earth uranus
 1
 1 11
 2
-0 36 19 11
 0 28 0 2
+0 36 19 11
 1
 end_operator
 begin_operator
@@ -77943,8 +77943,8 @@ succumb hangover aesthetics rice uranus vulcan
 1
 1 11
 2
-0 36 19 11
 0 28 2 3
+0 36 19 11
 1
 end_operator
 begin_operator
@@ -77952,8 +77952,8 @@ succumb hangover aesthetics rice vulcan jupiter
 1
 1 11
 2
-0 36 19 11
 0 28 3 1
+0 36 19 11
 1
 end_operator
 begin_operator
@@ -77961,8 +77961,8 @@ succumb hangover aesthetics scallop earth uranus
 1
 1 12
 2
-0 36 19 12
 0 28 0 2
+0 36 19 12
 1
 end_operator
 begin_operator
@@ -77970,8 +77970,8 @@ succumb hangover aesthetics scallop uranus vulcan
 1
 1 12
 2
-0 36 19 12
 0 28 2 3
+0 36 19 12
 1
 end_operator
 begin_operator
@@ -77979,8 +77979,8 @@ succumb hangover aesthetics scallop vulcan jupiter
 1
 1 12
 2
-0 36 19 12
 0 28 3 1
+0 36 19 12
 1
 end_operator
 begin_operator
@@ -77988,8 +77988,8 @@ succumb hangover aesthetics tofu earth uranus
 1
 1 13
 2
-0 36 19 13
 0 28 0 2
+0 36 19 13
 1
 end_operator
 begin_operator
@@ -77997,8 +77997,8 @@ succumb hangover aesthetics tofu uranus vulcan
 1
 1 13
 2
-0 36 19 13
 0 28 2 3
+0 36 19 13
 1
 end_operator
 begin_operator
@@ -78006,8 +78006,8 @@ succumb hangover aesthetics tofu vulcan jupiter
 1
 1 13
 2
-0 36 19 13
 0 28 3 1
+0 36 19 13
 1
 end_operator
 begin_operator
@@ -78015,8 +78015,8 @@ succumb hangover aesthetics tomato earth uranus
 1
 1 14
 2
-0 36 19 14
 0 28 0 2
+0 36 19 14
 1
 end_operator
 begin_operator
@@ -78024,8 +78024,8 @@ succumb hangover aesthetics tomato uranus vulcan
 1
 1 14
 2
-0 36 19 14
 0 28 2 3
+0 36 19 14
 1
 end_operator
 begin_operator
@@ -78033,8 +78033,8 @@ succumb hangover aesthetics tomato vulcan jupiter
 1
 1 14
 2
-0 36 19 14
 0 28 3 1
+0 36 19 14
 1
 end_operator
 begin_operator
@@ -78042,8 +78042,8 @@ succumb hangover aesthetics tuna earth uranus
 1
 1 15
 2
-0 36 19 15
 0 28 0 2
+0 36 19 15
 1
 end_operator
 begin_operator
@@ -78051,8 +78051,8 @@ succumb hangover aesthetics tuna uranus vulcan
 1
 1 15
 2
-0 36 19 15
 0 28 2 3
+0 36 19 15
 1
 end_operator
 begin_operator
@@ -78060,8 +78060,8 @@ succumb hangover aesthetics tuna vulcan jupiter
 1
 1 15
 2
-0 36 19 15
 0 28 3 1
+0 36 19 15
 1
 end_operator
 begin_operator
@@ -78069,8 +78069,8 @@ succumb hangover aesthetics turkey earth uranus
 1
 1 16
 2
-0 36 19 16
 0 28 0 2
+0 36 19 16
 1
 end_operator
 begin_operator
@@ -78078,8 +78078,8 @@ succumb hangover aesthetics turkey uranus vulcan
 1
 1 16
 2
-0 36 19 16
 0 28 2 3
+0 36 19 16
 1
 end_operator
 begin_operator
@@ -78087,8 +78087,8 @@ succumb hangover aesthetics turkey vulcan jupiter
 1
 1 16
 2
-0 36 19 16
 0 28 3 1
+0 36 19 16
 1
 end_operator
 begin_operator
@@ -78096,8 +78096,8 @@ succumb hangover aesthetics wonderbread earth uranus
 1
 1 17
 2
-0 36 19 17
 0 28 0 2
+0 36 19 17
 1
 end_operator
 begin_operator
@@ -78105,8 +78105,8 @@ succumb hangover aesthetics wonderbread uranus vulcan
 1
 1 17
 2
-0 36 19 17
 0 28 2 3
+0 36 19 17
 1
 end_operator
 begin_operator
@@ -78114,8 +78114,8 @@ succumb hangover aesthetics wonderbread vulcan jupiter
 1
 1 17
 2
-0 36 19 17
 0 28 3 1
+0 36 19 17
 1
 end_operator
 begin_operator
@@ -78123,8 +78123,8 @@ succumb hangover excitement arugula earth uranus
 1
 2 0
 2
-0 36 20 0
 0 29 0 2
+0 36 20 0
 1
 end_operator
 begin_operator
@@ -78132,8 +78132,8 @@ succumb hangover excitement arugula uranus vulcan
 1
 2 0
 2
-0 36 20 0
 0 29 2 3
+0 36 20 0
 1
 end_operator
 begin_operator
@@ -78141,8 +78141,8 @@ succumb hangover excitement arugula vulcan jupiter
 1
 2 0
 2
-0 36 20 0
 0 29 3 1
+0 36 20 0
 1
 end_operator
 begin_operator
@@ -78150,8 +78150,8 @@ succumb hangover excitement baguette earth uranus
 1
 2 1
 2
-0 36 20 1
 0 29 0 2
+0 36 20 1
 1
 end_operator
 begin_operator
@@ -78159,8 +78159,8 @@ succumb hangover excitement baguette uranus vulcan
 1
 2 1
 2
-0 36 20 1
 0 29 2 3
+0 36 20 1
 1
 end_operator
 begin_operator
@@ -78168,8 +78168,8 @@ succumb hangover excitement baguette vulcan jupiter
 1
 2 1
 2
-0 36 20 1
 0 29 3 1
+0 36 20 1
 1
 end_operator
 begin_operator
@@ -78177,8 +78177,8 @@ succumb hangover excitement cantelope earth uranus
 1
 2 2
 2
-0 36 20 2
 0 29 0 2
+0 36 20 2
 1
 end_operator
 begin_operator
@@ -78186,8 +78186,8 @@ succumb hangover excitement cantelope uranus vulcan
 1
 2 2
 2
-0 36 20 2
 0 29 2 3
+0 36 20 2
 1
 end_operator
 begin_operator
@@ -78195,8 +78195,8 @@ succumb hangover excitement cantelope vulcan jupiter
 1
 2 2
 2
-0 36 20 2
 0 29 3 1
+0 36 20 2
 1
 end_operator
 begin_operator
@@ -78204,8 +78204,8 @@ succumb hangover excitement flounder earth uranus
 1
 2 3
 2
-0 36 20 3
 0 29 0 2
+0 36 20 3
 1
 end_operator
 begin_operator
@@ -78213,8 +78213,8 @@ succumb hangover excitement flounder uranus vulcan
 1
 2 3
 2
-0 36 20 3
 0 29 2 3
+0 36 20 3
 1
 end_operator
 begin_operator
@@ -78222,8 +78222,8 @@ succumb hangover excitement flounder vulcan jupiter
 1
 2 3
 2
-0 36 20 3
 0 29 3 1
+0 36 20 3
 1
 end_operator
 begin_operator
@@ -78231,8 +78231,8 @@ succumb hangover excitement hotdog earth uranus
 1
 2 4
 2
-0 36 20 4
 0 29 0 2
+0 36 20 4
 1
 end_operator
 begin_operator
@@ -78240,8 +78240,8 @@ succumb hangover excitement hotdog uranus vulcan
 1
 2 4
 2
-0 36 20 4
 0 29 2 3
+0 36 20 4
 1
 end_operator
 begin_operator
@@ -78249,8 +78249,8 @@ succumb hangover excitement hotdog vulcan jupiter
 1
 2 4
 2
-0 36 20 4
 0 29 3 1
+0 36 20 4
 1
 end_operator
 begin_operator
@@ -78258,8 +78258,8 @@ succumb hangover excitement lobster earth uranus
 1
 2 5
 2
-0 36 20 5
 0 29 0 2
+0 36 20 5
 1
 end_operator
 begin_operator
@@ -78267,8 +78267,8 @@ succumb hangover excitement lobster uranus vulcan
 1
 2 5
 2
-0 36 20 5
 0 29 2 3
+0 36 20 5
 1
 end_operator
 begin_operator
@@ -78276,8 +78276,8 @@ succumb hangover excitement lobster vulcan jupiter
 1
 2 5
 2
-0 36 20 5
 0 29 3 1
+0 36 20 5
 1
 end_operator
 begin_operator
@@ -78285,8 +78285,8 @@ succumb hangover excitement muffin earth uranus
 1
 2 6
 2
-0 36 20 6
 0 29 0 2
+0 36 20 6
 1
 end_operator
 begin_operator
@@ -78294,8 +78294,8 @@ succumb hangover excitement muffin uranus vulcan
 1
 2 6
 2
-0 36 20 6
 0 29 2 3
+0 36 20 6
 1
 end_operator
 begin_operator
@@ -78303,8 +78303,8 @@ succumb hangover excitement muffin vulcan jupiter
 1
 2 6
 2
-0 36 20 6
 0 29 3 1
+0 36 20 6
 1
 end_operator
 begin_operator
@@ -78312,8 +78312,8 @@ succumb hangover excitement okra earth uranus
 1
 2 7
 2
-0 36 20 7
 0 29 0 2
+0 36 20 7
 1
 end_operator
 begin_operator
@@ -78321,8 +78321,8 @@ succumb hangover excitement okra uranus vulcan
 1
 2 7
 2
-0 36 20 7
 0 29 2 3
+0 36 20 7
 1
 end_operator
 begin_operator
@@ -78330,8 +78330,8 @@ succumb hangover excitement okra vulcan jupiter
 1
 2 7
 2
-0 36 20 7
 0 29 3 1
+0 36 20 7
 1
 end_operator
 begin_operator
@@ -78339,8 +78339,8 @@ succumb hangover excitement pepper earth uranus
 1
 2 8
 2
-0 36 20 8
 0 29 0 2
+0 36 20 8
 1
 end_operator
 begin_operator
@@ -78348,8 +78348,8 @@ succumb hangover excitement pepper uranus vulcan
 1
 2 8
 2
-0 36 20 8
 0 29 2 3
+0 36 20 8
 1
 end_operator
 begin_operator
@@ -78357,8 +78357,8 @@ succumb hangover excitement pepper vulcan jupiter
 1
 2 8
 2
-0 36 20 8
 0 29 3 1
+0 36 20 8
 1
 end_operator
 begin_operator
@@ -78366,8 +78366,8 @@ succumb hangover excitement pistachio earth uranus
 1
 2 9
 2
-0 36 20 9
 0 29 0 2
+0 36 20 9
 1
 end_operator
 begin_operator
@@ -78375,8 +78375,8 @@ succumb hangover excitement pistachio uranus vulcan
 1
 2 9
 2
-0 36 20 9
 0 29 2 3
+0 36 20 9
 1
 end_operator
 begin_operator
@@ -78384,8 +78384,8 @@ succumb hangover excitement pistachio vulcan jupiter
 1
 2 9
 2
-0 36 20 9
 0 29 3 1
+0 36 20 9
 1
 end_operator
 begin_operator
@@ -78393,8 +78393,8 @@ succumb hangover excitement pork earth uranus
 1
 2 10
 2
-0 36 20 10
 0 29 0 2
+0 36 20 10
 1
 end_operator
 begin_operator
@@ -78402,8 +78402,8 @@ succumb hangover excitement pork uranus vulcan
 1
 2 10
 2
-0 36 20 10
 0 29 2 3
+0 36 20 10
 1
 end_operator
 begin_operator
@@ -78411,8 +78411,8 @@ succumb hangover excitement pork vulcan jupiter
 1
 2 10
 2
-0 36 20 10
 0 29 3 1
+0 36 20 10
 1
 end_operator
 begin_operator
@@ -78420,8 +78420,8 @@ succumb hangover excitement rice earth uranus
 1
 2 11
 2
-0 36 20 11
 0 29 0 2
+0 36 20 11
 1
 end_operator
 begin_operator
@@ -78429,8 +78429,8 @@ succumb hangover excitement rice uranus vulcan
 1
 2 11
 2
-0 36 20 11
 0 29 2 3
+0 36 20 11
 1
 end_operator
 begin_operator
@@ -78438,8 +78438,8 @@ succumb hangover excitement rice vulcan jupiter
 1
 2 11
 2
-0 36 20 11
 0 29 3 1
+0 36 20 11
 1
 end_operator
 begin_operator
@@ -78447,8 +78447,8 @@ succumb hangover excitement scallop earth uranus
 1
 2 12
 2
-0 36 20 12
 0 29 0 2
+0 36 20 12
 1
 end_operator
 begin_operator
@@ -78456,8 +78456,8 @@ succumb hangover excitement scallop uranus vulcan
 1
 2 12
 2
-0 36 20 12
 0 29 2 3
+0 36 20 12
 1
 end_operator
 begin_operator
@@ -78465,8 +78465,8 @@ succumb hangover excitement scallop vulcan jupiter
 1
 2 12
 2
-0 36 20 12
 0 29 3 1
+0 36 20 12
 1
 end_operator
 begin_operator
@@ -78474,8 +78474,8 @@ succumb hangover excitement tofu earth uranus
 1
 2 13
 2
-0 36 20 13
 0 29 0 2
+0 36 20 13
 1
 end_operator
 begin_operator
@@ -78483,8 +78483,8 @@ succumb hangover excitement tofu uranus vulcan
 1
 2 13
 2
-0 36 20 13
 0 29 2 3
+0 36 20 13
 1
 end_operator
 begin_operator
@@ -78492,8 +78492,8 @@ succumb hangover excitement tofu vulcan jupiter
 1
 2 13
 2
-0 36 20 13
 0 29 3 1
+0 36 20 13
 1
 end_operator
 begin_operator
@@ -78501,8 +78501,8 @@ succumb hangover excitement tomato earth uranus
 1
 2 14
 2
-0 36 20 14
 0 29 0 2
+0 36 20 14
 1
 end_operator
 begin_operator
@@ -78510,8 +78510,8 @@ succumb hangover excitement tomato uranus vulcan
 1
 2 14
 2
-0 36 20 14
 0 29 2 3
+0 36 20 14
 1
 end_operator
 begin_operator
@@ -78519,8 +78519,8 @@ succumb hangover excitement tomato vulcan jupiter
 1
 2 14
 2
-0 36 20 14
 0 29 3 1
+0 36 20 14
 1
 end_operator
 begin_operator
@@ -78528,8 +78528,8 @@ succumb hangover excitement tuna earth uranus
 1
 2 15
 2
-0 36 20 15
 0 29 0 2
+0 36 20 15
 1
 end_operator
 begin_operator
@@ -78537,8 +78537,8 @@ succumb hangover excitement tuna uranus vulcan
 1
 2 15
 2
-0 36 20 15
 0 29 2 3
+0 36 20 15
 1
 end_operator
 begin_operator
@@ -78546,8 +78546,8 @@ succumb hangover excitement tuna vulcan jupiter
 1
 2 15
 2
-0 36 20 15
 0 29 3 1
+0 36 20 15
 1
 end_operator
 begin_operator
@@ -78555,8 +78555,8 @@ succumb hangover excitement turkey earth uranus
 1
 2 16
 2
-0 36 20 16
 0 29 0 2
+0 36 20 16
 1
 end_operator
 begin_operator
@@ -78564,8 +78564,8 @@ succumb hangover excitement turkey uranus vulcan
 1
 2 16
 2
-0 36 20 16
 0 29 2 3
+0 36 20 16
 1
 end_operator
 begin_operator
@@ -78573,8 +78573,8 @@ succumb hangover excitement turkey vulcan jupiter
 1
 2 16
 2
-0 36 20 16
 0 29 3 1
+0 36 20 16
 1
 end_operator
 begin_operator
@@ -78582,8 +78582,8 @@ succumb hangover excitement wonderbread earth uranus
 1
 2 17
 2
-0 36 20 17
 0 29 0 2
+0 36 20 17
 1
 end_operator
 begin_operator
@@ -78591,8 +78591,8 @@ succumb hangover excitement wonderbread uranus vulcan
 1
 2 17
 2
-0 36 20 17
 0 29 2 3
+0 36 20 17
 1
 end_operator
 begin_operator
@@ -78600,8 +78600,8 @@ succumb hangover excitement wonderbread vulcan jupiter
 1
 2 17
 2
-0 36 20 17
 0 29 3 1
+0 36 20 17
 1
 end_operator
 begin_operator
@@ -78609,8 +78609,8 @@ succumb hangover learning arugula earth uranus
 1
 3 0
 2
-0 36 21 0
 0 30 0 2
+0 36 21 0
 1
 end_operator
 begin_operator
@@ -78618,8 +78618,8 @@ succumb hangover learning arugula uranus vulcan
 1
 3 0
 2
-0 36 21 0
 0 30 2 3
+0 36 21 0
 1
 end_operator
 begin_operator
@@ -78627,8 +78627,8 @@ succumb hangover learning arugula vulcan jupiter
 1
 3 0
 2
-0 36 21 0
 0 30 3 1
+0 36 21 0
 1
 end_operator
 begin_operator
@@ -78636,8 +78636,8 @@ succumb hangover learning baguette earth uranus
 1
 3 1
 2
-0 36 21 1
 0 30 0 2
+0 36 21 1
 1
 end_operator
 begin_operator
@@ -78645,8 +78645,8 @@ succumb hangover learning baguette uranus vulcan
 1
 3 1
 2
-0 36 21 1
 0 30 2 3
+0 36 21 1
 1
 end_operator
 begin_operator
@@ -78654,8 +78654,8 @@ succumb hangover learning baguette vulcan jupiter
 1
 3 1
 2
-0 36 21 1
 0 30 3 1
+0 36 21 1
 1
 end_operator
 begin_operator
@@ -78663,8 +78663,8 @@ succumb hangover learning cantelope earth uranus
 1
 3 2
 2
-0 36 21 2
 0 30 0 2
+0 36 21 2
 1
 end_operator
 begin_operator
@@ -78672,8 +78672,8 @@ succumb hangover learning cantelope uranus vulcan
 1
 3 2
 2
-0 36 21 2
 0 30 2 3
+0 36 21 2
 1
 end_operator
 begin_operator
@@ -78681,8 +78681,8 @@ succumb hangover learning cantelope vulcan jupiter
 1
 3 2
 2
-0 36 21 2
 0 30 3 1
+0 36 21 2
 1
 end_operator
 begin_operator
@@ -78690,8 +78690,8 @@ succumb hangover learning flounder earth uranus
 1
 3 3
 2
-0 36 21 3
 0 30 0 2
+0 36 21 3
 1
 end_operator
 begin_operator
@@ -78699,8 +78699,8 @@ succumb hangover learning flounder uranus vulcan
 1
 3 3
 2
-0 36 21 3
 0 30 2 3
+0 36 21 3
 1
 end_operator
 begin_operator
@@ -78708,8 +78708,8 @@ succumb hangover learning flounder vulcan jupiter
 1
 3 3
 2
-0 36 21 3
 0 30 3 1
+0 36 21 3
 1
 end_operator
 begin_operator
@@ -78717,8 +78717,8 @@ succumb hangover learning hotdog earth uranus
 1
 3 4
 2
-0 36 21 4
 0 30 0 2
+0 36 21 4
 1
 end_operator
 begin_operator
@@ -78726,8 +78726,8 @@ succumb hangover learning hotdog uranus vulcan
 1
 3 4
 2
-0 36 21 4
 0 30 2 3
+0 36 21 4
 1
 end_operator
 begin_operator
@@ -78735,8 +78735,8 @@ succumb hangover learning hotdog vulcan jupiter
 1
 3 4
 2
-0 36 21 4
 0 30 3 1
+0 36 21 4
 1
 end_operator
 begin_operator
@@ -78744,8 +78744,8 @@ succumb hangover learning lobster earth uranus
 1
 3 5
 2
-0 36 21 5
 0 30 0 2
+0 36 21 5
 1
 end_operator
 begin_operator
@@ -78753,8 +78753,8 @@ succumb hangover learning lobster uranus vulcan
 1
 3 5
 2
-0 36 21 5
 0 30 2 3
+0 36 21 5
 1
 end_operator
 begin_operator
@@ -78762,8 +78762,8 @@ succumb hangover learning lobster vulcan jupiter
 1
 3 5
 2
-0 36 21 5
 0 30 3 1
+0 36 21 5
 1
 end_operator
 begin_operator
@@ -78771,8 +78771,8 @@ succumb hangover learning muffin earth uranus
 1
 3 6
 2
-0 36 21 6
 0 30 0 2
+0 36 21 6
 1
 end_operator
 begin_operator
@@ -78780,8 +78780,8 @@ succumb hangover learning muffin uranus vulcan
 1
 3 6
 2
-0 36 21 6
 0 30 2 3
+0 36 21 6
 1
 end_operator
 begin_operator
@@ -78789,8 +78789,8 @@ succumb hangover learning muffin vulcan jupiter
 1
 3 6
 2
-0 36 21 6
 0 30 3 1
+0 36 21 6
 1
 end_operator
 begin_operator
@@ -78798,8 +78798,8 @@ succumb hangover learning okra earth uranus
 1
 3 7
 2
-0 36 21 7
 0 30 0 2
+0 36 21 7
 1
 end_operator
 begin_operator
@@ -78807,8 +78807,8 @@ succumb hangover learning okra uranus vulcan
 1
 3 7
 2
-0 36 21 7
 0 30 2 3
+0 36 21 7
 1
 end_operator
 begin_operator
@@ -78816,8 +78816,8 @@ succumb hangover learning okra vulcan jupiter
 1
 3 7
 2
-0 36 21 7
 0 30 3 1
+0 36 21 7
 1
 end_operator
 begin_operator
@@ -78825,8 +78825,8 @@ succumb hangover learning pepper earth uranus
 1
 3 8
 2
-0 36 21 8
 0 30 0 2
+0 36 21 8
 1
 end_operator
 begin_operator
@@ -78834,8 +78834,8 @@ succumb hangover learning pepper uranus vulcan
 1
 3 8
 2
-0 36 21 8
 0 30 2 3
+0 36 21 8
 1
 end_operator
 begin_operator
@@ -78843,8 +78843,8 @@ succumb hangover learning pepper vulcan jupiter
 1
 3 8
 2
-0 36 21 8
 0 30 3 1
+0 36 21 8
 1
 end_operator
 begin_operator
@@ -78852,8 +78852,8 @@ succumb hangover learning pistachio earth uranus
 1
 3 9
 2
-0 36 21 9
 0 30 0 2
+0 36 21 9
 1
 end_operator
 begin_operator
@@ -78861,8 +78861,8 @@ succumb hangover learning pistachio uranus vulcan
 1
 3 9
 2
-0 36 21 9
 0 30 2 3
+0 36 21 9
 1
 end_operator
 begin_operator
@@ -78870,8 +78870,8 @@ succumb hangover learning pistachio vulcan jupiter
 1
 3 9
 2
-0 36 21 9
 0 30 3 1
+0 36 21 9
 1
 end_operator
 begin_operator
@@ -78879,8 +78879,8 @@ succumb hangover learning pork earth uranus
 1
 3 10
 2
-0 36 21 10
 0 30 0 2
+0 36 21 10
 1
 end_operator
 begin_operator
@@ -78888,8 +78888,8 @@ succumb hangover learning pork uranus vulcan
 1
 3 10
 2
-0 36 21 10
 0 30 2 3
+0 36 21 10
 1
 end_operator
 begin_operator
@@ -78897,8 +78897,8 @@ succumb hangover learning pork vulcan jupiter
 1
 3 10
 2
-0 36 21 10
 0 30 3 1
+0 36 21 10
 1
 end_operator
 begin_operator
@@ -78906,8 +78906,8 @@ succumb hangover learning rice earth uranus
 1
 3 11
 2
-0 36 21 11
 0 30 0 2
+0 36 21 11
 1
 end_operator
 begin_operator
@@ -78915,8 +78915,8 @@ succumb hangover learning rice uranus vulcan
 1
 3 11
 2
-0 36 21 11
 0 30 2 3
+0 36 21 11
 1
 end_operator
 begin_operator
@@ -78924,8 +78924,8 @@ succumb hangover learning rice vulcan jupiter
 1
 3 11
 2
-0 36 21 11
 0 30 3 1
+0 36 21 11
 1
 end_operator
 begin_operator
@@ -78933,8 +78933,8 @@ succumb hangover learning scallop earth uranus
 1
 3 12
 2
-0 36 21 12
 0 30 0 2
+0 36 21 12
 1
 end_operator
 begin_operator
@@ -78942,8 +78942,8 @@ succumb hangover learning scallop uranus vulcan
 1
 3 12
 2
-0 36 21 12
 0 30 2 3
+0 36 21 12
 1
 end_operator
 begin_operator
@@ -78951,8 +78951,8 @@ succumb hangover learning scallop vulcan jupiter
 1
 3 12
 2
-0 36 21 12
 0 30 3 1
+0 36 21 12
 1
 end_operator
 begin_operator
@@ -78960,8 +78960,8 @@ succumb hangover learning tofu earth uranus
 1
 3 13
 2
-0 36 21 13
 0 30 0 2
+0 36 21 13
 1
 end_operator
 begin_operator
@@ -78969,8 +78969,8 @@ succumb hangover learning tofu uranus vulcan
 1
 3 13
 2
-0 36 21 13
 0 30 2 3
+0 36 21 13
 1
 end_operator
 begin_operator
@@ -78978,8 +78978,8 @@ succumb hangover learning tofu vulcan jupiter
 1
 3 13
 2
-0 36 21 13
 0 30 3 1
+0 36 21 13
 1
 end_operator
 begin_operator
@@ -78987,8 +78987,8 @@ succumb hangover learning tomato earth uranus
 1
 3 14
 2
-0 36 21 14
 0 30 0 2
+0 36 21 14
 1
 end_operator
 begin_operator
@@ -78996,8 +78996,8 @@ succumb hangover learning tomato uranus vulcan
 1
 3 14
 2
-0 36 21 14
 0 30 2 3
+0 36 21 14
 1
 end_operator
 begin_operator
@@ -79005,8 +79005,8 @@ succumb hangover learning tomato vulcan jupiter
 1
 3 14
 2
-0 36 21 14
 0 30 3 1
+0 36 21 14
 1
 end_operator
 begin_operator
@@ -79014,8 +79014,8 @@ succumb hangover learning tuna earth uranus
 1
 3 15
 2
-0 36 21 15
 0 30 0 2
+0 36 21 15
 1
 end_operator
 begin_operator
@@ -79023,8 +79023,8 @@ succumb hangover learning tuna uranus vulcan
 1
 3 15
 2
-0 36 21 15
 0 30 2 3
+0 36 21 15
 1
 end_operator
 begin_operator
@@ -79032,8 +79032,8 @@ succumb hangover learning tuna vulcan jupiter
 1
 3 15
 2
-0 36 21 15
 0 30 3 1
+0 36 21 15
 1
 end_operator
 begin_operator
@@ -79041,8 +79041,8 @@ succumb hangover learning turkey earth uranus
 1
 3 16
 2
-0 36 21 16
 0 30 0 2
+0 36 21 16
 1
 end_operator
 begin_operator
@@ -79050,8 +79050,8 @@ succumb hangover learning turkey uranus vulcan
 1
 3 16
 2
-0 36 21 16
 0 30 2 3
+0 36 21 16
 1
 end_operator
 begin_operator
@@ -79059,8 +79059,8 @@ succumb hangover learning turkey vulcan jupiter
 1
 3 16
 2
-0 36 21 16
 0 30 3 1
+0 36 21 16
 1
 end_operator
 begin_operator
@@ -79068,8 +79068,8 @@ succumb hangover learning wonderbread earth uranus
 1
 3 17
 2
-0 36 21 17
 0 30 0 2
+0 36 21 17
 1
 end_operator
 begin_operator
@@ -79077,8 +79077,8 @@ succumb hangover learning wonderbread uranus vulcan
 1
 3 17
 2
-0 36 21 17
 0 30 2 3
+0 36 21 17
 1
 end_operator
 begin_operator
@@ -79086,8 +79086,8 @@ succumb hangover learning wonderbread vulcan jupiter
 1
 3 17
 2
-0 36 21 17
 0 30 3 1
+0 36 21 17
 1
 end_operator
 begin_operator
@@ -79095,8 +79095,8 @@ succumb hangover love arugula earth uranus
 1
 4 0
 2
-0 36 22 0
 0 31 0 2
+0 36 22 0
 1
 end_operator
 begin_operator
@@ -79104,8 +79104,8 @@ succumb hangover love arugula uranus vulcan
 1
 4 0
 2
-0 36 22 0
 0 31 2 3
+0 36 22 0
 1
 end_operator
 begin_operator
@@ -79113,8 +79113,8 @@ succumb hangover love arugula vulcan jupiter
 1
 4 0
 2
-0 36 22 0
 0 31 3 1
+0 36 22 0
 1
 end_operator
 begin_operator
@@ -79122,8 +79122,8 @@ succumb hangover love baguette earth uranus
 1
 4 1
 2
-0 36 22 1
 0 31 0 2
+0 36 22 1
 1
 end_operator
 begin_operator
@@ -79131,8 +79131,8 @@ succumb hangover love baguette uranus vulcan
 1
 4 1
 2
-0 36 22 1
 0 31 2 3
+0 36 22 1
 1
 end_operator
 begin_operator
@@ -79140,8 +79140,8 @@ succumb hangover love baguette vulcan jupiter
 1
 4 1
 2
-0 36 22 1
 0 31 3 1
+0 36 22 1
 1
 end_operator
 begin_operator
@@ -79149,8 +79149,8 @@ succumb hangover love cantelope earth uranus
 1
 4 2
 2
-0 36 22 2
 0 31 0 2
+0 36 22 2
 1
 end_operator
 begin_operator
@@ -79158,8 +79158,8 @@ succumb hangover love cantelope uranus vulcan
 1
 4 2
 2
-0 36 22 2
 0 31 2 3
+0 36 22 2
 1
 end_operator
 begin_operator
@@ -79167,8 +79167,8 @@ succumb hangover love cantelope vulcan jupiter
 1
 4 2
 2
-0 36 22 2
 0 31 3 1
+0 36 22 2
 1
 end_operator
 begin_operator
@@ -79176,8 +79176,8 @@ succumb hangover love flounder earth uranus
 1
 4 3
 2
-0 36 22 3
 0 31 0 2
+0 36 22 3
 1
 end_operator
 begin_operator
@@ -79185,8 +79185,8 @@ succumb hangover love flounder uranus vulcan
 1
 4 3
 2
-0 36 22 3
 0 31 2 3
+0 36 22 3
 1
 end_operator
 begin_operator
@@ -79194,8 +79194,8 @@ succumb hangover love flounder vulcan jupiter
 1
 4 3
 2
-0 36 22 3
 0 31 3 1
+0 36 22 3
 1
 end_operator
 begin_operator
@@ -79203,8 +79203,8 @@ succumb hangover love hotdog earth uranus
 1
 4 4
 2
-0 36 22 4
 0 31 0 2
+0 36 22 4
 1
 end_operator
 begin_operator
@@ -79212,8 +79212,8 @@ succumb hangover love hotdog uranus vulcan
 1
 4 4
 2
-0 36 22 4
 0 31 2 3
+0 36 22 4
 1
 end_operator
 begin_operator
@@ -79221,8 +79221,8 @@ succumb hangover love hotdog vulcan jupiter
 1
 4 4
 2
-0 36 22 4
 0 31 3 1
+0 36 22 4
 1
 end_operator
 begin_operator
@@ -79230,8 +79230,8 @@ succumb hangover love lobster earth uranus
 1
 4 5
 2
-0 36 22 5
 0 31 0 2
+0 36 22 5
 1
 end_operator
 begin_operator
@@ -79239,8 +79239,8 @@ succumb hangover love lobster uranus vulcan
 1
 4 5
 2
-0 36 22 5
 0 31 2 3
+0 36 22 5
 1
 end_operator
 begin_operator
@@ -79248,8 +79248,8 @@ succumb hangover love lobster vulcan jupiter
 1
 4 5
 2
-0 36 22 5
 0 31 3 1
+0 36 22 5
 1
 end_operator
 begin_operator
@@ -79257,8 +79257,8 @@ succumb hangover love muffin earth uranus
 1
 4 6
 2
-0 36 22 6
 0 31 0 2
+0 36 22 6
 1
 end_operator
 begin_operator
@@ -79266,8 +79266,8 @@ succumb hangover love muffin uranus vulcan
 1
 4 6
 2
-0 36 22 6
 0 31 2 3
+0 36 22 6
 1
 end_operator
 begin_operator
@@ -79275,8 +79275,8 @@ succumb hangover love muffin vulcan jupiter
 1
 4 6
 2
-0 36 22 6
 0 31 3 1
+0 36 22 6
 1
 end_operator
 begin_operator
@@ -79284,8 +79284,8 @@ succumb hangover love okra earth uranus
 1
 4 7
 2
-0 36 22 7
 0 31 0 2
+0 36 22 7
 1
 end_operator
 begin_operator
@@ -79293,8 +79293,8 @@ succumb hangover love okra uranus vulcan
 1
 4 7
 2
-0 36 22 7
 0 31 2 3
+0 36 22 7
 1
 end_operator
 begin_operator
@@ -79302,8 +79302,8 @@ succumb hangover love okra vulcan jupiter
 1
 4 7
 2
-0 36 22 7
 0 31 3 1
+0 36 22 7
 1
 end_operator
 begin_operator
@@ -79311,8 +79311,8 @@ succumb hangover love pepper earth uranus
 1
 4 8
 2
-0 36 22 8
 0 31 0 2
+0 36 22 8
 1
 end_operator
 begin_operator
@@ -79320,8 +79320,8 @@ succumb hangover love pepper uranus vulcan
 1
 4 8
 2
-0 36 22 8
 0 31 2 3
+0 36 22 8
 1
 end_operator
 begin_operator
@@ -79329,8 +79329,8 @@ succumb hangover love pepper vulcan jupiter
 1
 4 8
 2
-0 36 22 8
 0 31 3 1
+0 36 22 8
 1
 end_operator
 begin_operator
@@ -79338,8 +79338,8 @@ succumb hangover love pistachio earth uranus
 1
 4 9
 2
-0 36 22 9
 0 31 0 2
+0 36 22 9
 1
 end_operator
 begin_operator
@@ -79347,8 +79347,8 @@ succumb hangover love pistachio uranus vulcan
 1
 4 9
 2
-0 36 22 9
 0 31 2 3
+0 36 22 9
 1
 end_operator
 begin_operator
@@ -79356,8 +79356,8 @@ succumb hangover love pistachio vulcan jupiter
 1
 4 9
 2
-0 36 22 9
 0 31 3 1
+0 36 22 9
 1
 end_operator
 begin_operator
@@ -79365,8 +79365,8 @@ succumb hangover love pork earth uranus
 1
 4 10
 2
-0 36 22 10
 0 31 0 2
+0 36 22 10
 1
 end_operator
 begin_operator
@@ -79374,8 +79374,8 @@ succumb hangover love pork uranus vulcan
 1
 4 10
 2
-0 36 22 10
 0 31 2 3
+0 36 22 10
 1
 end_operator
 begin_operator
@@ -79383,8 +79383,8 @@ succumb hangover love pork vulcan jupiter
 1
 4 10
 2
-0 36 22 10
 0 31 3 1
+0 36 22 10
 1
 end_operator
 begin_operator
@@ -79392,8 +79392,8 @@ succumb hangover love rice earth uranus
 1
 4 11
 2
-0 36 22 11
 0 31 0 2
+0 36 22 11
 1
 end_operator
 begin_operator
@@ -79401,8 +79401,8 @@ succumb hangover love rice uranus vulcan
 1
 4 11
 2
-0 36 22 11
 0 31 2 3
+0 36 22 11
 1
 end_operator
 begin_operator
@@ -79410,8 +79410,8 @@ succumb hangover love rice vulcan jupiter
 1
 4 11
 2
-0 36 22 11
 0 31 3 1
+0 36 22 11
 1
 end_operator
 begin_operator
@@ -79419,8 +79419,8 @@ succumb hangover love scallop earth uranus
 1
 4 12
 2
-0 36 22 12
 0 31 0 2
+0 36 22 12
 1
 end_operator
 begin_operator
@@ -79428,8 +79428,8 @@ succumb hangover love scallop uranus vulcan
 1
 4 12
 2
-0 36 22 12
 0 31 2 3
+0 36 22 12
 1
 end_operator
 begin_operator
@@ -79437,8 +79437,8 @@ succumb hangover love scallop vulcan jupiter
 1
 4 12
 2
-0 36 22 12
 0 31 3 1
+0 36 22 12
 1
 end_operator
 begin_operator
@@ -79446,8 +79446,8 @@ succumb hangover love tofu earth uranus
 1
 4 13
 2
-0 36 22 13
 0 31 0 2
+0 36 22 13
 1
 end_operator
 begin_operator
@@ -79455,8 +79455,8 @@ succumb hangover love tofu uranus vulcan
 1
 4 13
 2
-0 36 22 13
 0 31 2 3
+0 36 22 13
 1
 end_operator
 begin_operator
@@ -79464,8 +79464,8 @@ succumb hangover love tofu vulcan jupiter
 1
 4 13
 2
-0 36 22 13
 0 31 3 1
+0 36 22 13
 1
 end_operator
 begin_operator
@@ -79473,8 +79473,8 @@ succumb hangover love tomato earth uranus
 1
 4 14
 2
-0 36 22 14
 0 31 0 2
+0 36 22 14
 1
 end_operator
 begin_operator
@@ -79482,8 +79482,8 @@ succumb hangover love tomato uranus vulcan
 1
 4 14
 2
-0 36 22 14
 0 31 2 3
+0 36 22 14
 1
 end_operator
 begin_operator
@@ -79491,8 +79491,8 @@ succumb hangover love tomato vulcan jupiter
 1
 4 14
 2
-0 36 22 14
 0 31 3 1
+0 36 22 14
 1
 end_operator
 begin_operator
@@ -79500,8 +79500,8 @@ succumb hangover love tuna earth uranus
 1
 4 15
 2
-0 36 22 15
 0 31 0 2
+0 36 22 15
 1
 end_operator
 begin_operator
@@ -79509,8 +79509,8 @@ succumb hangover love tuna uranus vulcan
 1
 4 15
 2
-0 36 22 15
 0 31 2 3
+0 36 22 15
 1
 end_operator
 begin_operator
@@ -79518,8 +79518,8 @@ succumb hangover love tuna vulcan jupiter
 1
 4 15
 2
-0 36 22 15
 0 31 3 1
+0 36 22 15
 1
 end_operator
 begin_operator
@@ -79527,8 +79527,8 @@ succumb hangover love turkey earth uranus
 1
 4 16
 2
-0 36 22 16
 0 31 0 2
+0 36 22 16
 1
 end_operator
 begin_operator
@@ -79536,8 +79536,8 @@ succumb hangover love turkey uranus vulcan
 1
 4 16
 2
-0 36 22 16
 0 31 2 3
+0 36 22 16
 1
 end_operator
 begin_operator
@@ -79545,8 +79545,8 @@ succumb hangover love turkey vulcan jupiter
 1
 4 16
 2
-0 36 22 16
 0 31 3 1
+0 36 22 16
 1
 end_operator
 begin_operator
@@ -79554,8 +79554,8 @@ succumb hangover love wonderbread earth uranus
 1
 4 17
 2
-0 36 22 17
 0 31 0 2
+0 36 22 17
 1
 end_operator
 begin_operator
@@ -79563,8 +79563,8 @@ succumb hangover love wonderbread uranus vulcan
 1
 4 17
 2
-0 36 22 17
 0 31 2 3
+0 36 22 17
 1
 end_operator
 begin_operator
@@ -79572,8 +79572,8 @@ succumb hangover love wonderbread vulcan jupiter
 1
 4 17
 2
-0 36 22 17
 0 31 3 1
+0 36 22 17
 1
 end_operator
 begin_operator
@@ -79581,8 +79581,8 @@ succumb hangover lubricity arugula earth uranus
 1
 5 0
 2
-0 36 23 0
 0 34 0 2
+0 36 23 0
 1
 end_operator
 begin_operator
@@ -79590,8 +79590,8 @@ succumb hangover lubricity arugula uranus vulcan
 1
 5 0
 2
-0 36 23 0
 0 34 2 3
+0 36 23 0
 1
 end_operator
 begin_operator
@@ -79599,8 +79599,8 @@ succumb hangover lubricity arugula vulcan jupiter
 1
 5 0
 2
-0 36 23 0
 0 34 3 1
+0 36 23 0
 1
 end_operator
 begin_operator
@@ -79608,8 +79608,8 @@ succumb hangover lubricity baguette earth uranus
 1
 5 1
 2
-0 36 23 1
 0 34 0 2
+0 36 23 1
 1
 end_operator
 begin_operator
@@ -79617,8 +79617,8 @@ succumb hangover lubricity baguette uranus vulcan
 1
 5 1
 2
-0 36 23 1
 0 34 2 3
+0 36 23 1
 1
 end_operator
 begin_operator
@@ -79626,8 +79626,8 @@ succumb hangover lubricity baguette vulcan jupiter
 1
 5 1
 2
-0 36 23 1
 0 34 3 1
+0 36 23 1
 1
 end_operator
 begin_operator
@@ -79635,8 +79635,8 @@ succumb hangover lubricity cantelope earth uranus
 1
 5 2
 2
-0 36 23 2
 0 34 0 2
+0 36 23 2
 1
 end_operator
 begin_operator
@@ -79644,8 +79644,8 @@ succumb hangover lubricity cantelope uranus vulcan
 1
 5 2
 2
-0 36 23 2
 0 34 2 3
+0 36 23 2
 1
 end_operator
 begin_operator
@@ -79653,8 +79653,8 @@ succumb hangover lubricity cantelope vulcan jupiter
 1
 5 2
 2
-0 36 23 2
 0 34 3 1
+0 36 23 2
 1
 end_operator
 begin_operator
@@ -79662,8 +79662,8 @@ succumb hangover lubricity flounder earth uranus
 1
 5 3
 2
-0 36 23 3
 0 34 0 2
+0 36 23 3
 1
 end_operator
 begin_operator
@@ -79671,8 +79671,8 @@ succumb hangover lubricity flounder uranus vulcan
 1
 5 3
 2
-0 36 23 3
 0 34 2 3
+0 36 23 3
 1
 end_operator
 begin_operator
@@ -79680,8 +79680,8 @@ succumb hangover lubricity flounder vulcan jupiter
 1
 5 3
 2
-0 36 23 3
 0 34 3 1
+0 36 23 3
 1
 end_operator
 begin_operator
@@ -79689,8 +79689,8 @@ succumb hangover lubricity hotdog earth uranus
 1
 5 4
 2
-0 36 23 4
 0 34 0 2
+0 36 23 4
 1
 end_operator
 begin_operator
@@ -79698,8 +79698,8 @@ succumb hangover lubricity hotdog uranus vulcan
 1
 5 4
 2
-0 36 23 4
 0 34 2 3
+0 36 23 4
 1
 end_operator
 begin_operator
@@ -79707,8 +79707,8 @@ succumb hangover lubricity hotdog vulcan jupiter
 1
 5 4
 2
-0 36 23 4
 0 34 3 1
+0 36 23 4
 1
 end_operator
 begin_operator
@@ -79716,8 +79716,8 @@ succumb hangover lubricity lobster earth uranus
 1
 5 5
 2
-0 36 23 5
 0 34 0 2
+0 36 23 5
 1
 end_operator
 begin_operator
@@ -79725,8 +79725,8 @@ succumb hangover lubricity lobster uranus vulcan
 1
 5 5
 2
-0 36 23 5
 0 34 2 3
+0 36 23 5
 1
 end_operator
 begin_operator
@@ -79734,8 +79734,8 @@ succumb hangover lubricity lobster vulcan jupiter
 1
 5 5
 2
-0 36 23 5
 0 34 3 1
+0 36 23 5
 1
 end_operator
 begin_operator
@@ -79743,8 +79743,8 @@ succumb hangover lubricity muffin earth uranus
 1
 5 6
 2
-0 36 23 6
 0 34 0 2
+0 36 23 6
 1
 end_operator
 begin_operator
@@ -79752,8 +79752,8 @@ succumb hangover lubricity muffin uranus vulcan
 1
 5 6
 2
-0 36 23 6
 0 34 2 3
+0 36 23 6
 1
 end_operator
 begin_operator
@@ -79761,8 +79761,8 @@ succumb hangover lubricity muffin vulcan jupiter
 1
 5 6
 2
-0 36 23 6
 0 34 3 1
+0 36 23 6
 1
 end_operator
 begin_operator
@@ -79770,8 +79770,8 @@ succumb hangover lubricity okra earth uranus
 1
 5 7
 2
-0 36 23 7
 0 34 0 2
+0 36 23 7
 1
 end_operator
 begin_operator
@@ -79779,8 +79779,8 @@ succumb hangover lubricity okra uranus vulcan
 1
 5 7
 2
-0 36 23 7
 0 34 2 3
+0 36 23 7
 1
 end_operator
 begin_operator
@@ -79788,8 +79788,8 @@ succumb hangover lubricity okra vulcan jupiter
 1
 5 7
 2
-0 36 23 7
 0 34 3 1
+0 36 23 7
 1
 end_operator
 begin_operator
@@ -79797,8 +79797,8 @@ succumb hangover lubricity pepper earth uranus
 1
 5 8
 2
-0 36 23 8
 0 34 0 2
+0 36 23 8
 1
 end_operator
 begin_operator
@@ -79806,8 +79806,8 @@ succumb hangover lubricity pepper uranus vulcan
 1
 5 8
 2
-0 36 23 8
 0 34 2 3
+0 36 23 8
 1
 end_operator
 begin_operator
@@ -79815,8 +79815,8 @@ succumb hangover lubricity pepper vulcan jupiter
 1
 5 8
 2
-0 36 23 8
 0 34 3 1
+0 36 23 8
 1
 end_operator
 begin_operator
@@ -79824,8 +79824,8 @@ succumb hangover lubricity pistachio earth uranus
 1
 5 9
 2
-0 36 23 9
 0 34 0 2
+0 36 23 9
 1
 end_operator
 begin_operator
@@ -79833,8 +79833,8 @@ succumb hangover lubricity pistachio uranus vulcan
 1
 5 9
 2
-0 36 23 9
 0 34 2 3
+0 36 23 9
 1
 end_operator
 begin_operator
@@ -79842,8 +79842,8 @@ succumb hangover lubricity pistachio vulcan jupiter
 1
 5 9
 2
-0 36 23 9
 0 34 3 1
+0 36 23 9
 1
 end_operator
 begin_operator
@@ -79851,8 +79851,8 @@ succumb hangover lubricity pork earth uranus
 1
 5 10
 2
-0 36 23 10
 0 34 0 2
+0 36 23 10
 1
 end_operator
 begin_operator
@@ -79860,8 +79860,8 @@ succumb hangover lubricity pork uranus vulcan
 1
 5 10
 2
-0 36 23 10
 0 34 2 3
+0 36 23 10
 1
 end_operator
 begin_operator
@@ -79869,8 +79869,8 @@ succumb hangover lubricity pork vulcan jupiter
 1
 5 10
 2
-0 36 23 10
 0 34 3 1
+0 36 23 10
 1
 end_operator
 begin_operator
@@ -79878,8 +79878,8 @@ succumb hangover lubricity rice earth uranus
 1
 5 11
 2
-0 36 23 11
 0 34 0 2
+0 36 23 11
 1
 end_operator
 begin_operator
@@ -79887,8 +79887,8 @@ succumb hangover lubricity rice uranus vulcan
 1
 5 11
 2
-0 36 23 11
 0 34 2 3
+0 36 23 11
 1
 end_operator
 begin_operator
@@ -79896,8 +79896,8 @@ succumb hangover lubricity rice vulcan jupiter
 1
 5 11
 2
-0 36 23 11
 0 34 3 1
+0 36 23 11
 1
 end_operator
 begin_operator
@@ -79905,8 +79905,8 @@ succumb hangover lubricity scallop earth uranus
 1
 5 12
 2
-0 36 23 12
 0 34 0 2
+0 36 23 12
 1
 end_operator
 begin_operator
@@ -79914,8 +79914,8 @@ succumb hangover lubricity scallop uranus vulcan
 1
 5 12
 2
-0 36 23 12
 0 34 2 3
+0 36 23 12
 1
 end_operator
 begin_operator
@@ -79923,8 +79923,8 @@ succumb hangover lubricity scallop vulcan jupiter
 1
 5 12
 2
-0 36 23 12
 0 34 3 1
+0 36 23 12
 1
 end_operator
 begin_operator
@@ -79932,8 +79932,8 @@ succumb hangover lubricity tofu earth uranus
 1
 5 13
 2
-0 36 23 13
 0 34 0 2
+0 36 23 13
 1
 end_operator
 begin_operator
@@ -79941,8 +79941,8 @@ succumb hangover lubricity tofu uranus vulcan
 1
 5 13
 2
-0 36 23 13
 0 34 2 3
+0 36 23 13
 1
 end_operator
 begin_operator
@@ -79950,8 +79950,8 @@ succumb hangover lubricity tofu vulcan jupiter
 1
 5 13
 2
-0 36 23 13
 0 34 3 1
+0 36 23 13
 1
 end_operator
 begin_operator
@@ -79959,8 +79959,8 @@ succumb hangover lubricity tomato earth uranus
 1
 5 14
 2
-0 36 23 14
 0 34 0 2
+0 36 23 14
 1
 end_operator
 begin_operator
@@ -79968,8 +79968,8 @@ succumb hangover lubricity tomato uranus vulcan
 1
 5 14
 2
-0 36 23 14
 0 34 2 3
+0 36 23 14
 1
 end_operator
 begin_operator
@@ -79977,8 +79977,8 @@ succumb hangover lubricity tomato vulcan jupiter
 1
 5 14
 2
-0 36 23 14
 0 34 3 1
+0 36 23 14
 1
 end_operator
 begin_operator
@@ -79986,8 +79986,8 @@ succumb hangover lubricity tuna earth uranus
 1
 5 15
 2
-0 36 23 15
 0 34 0 2
+0 36 23 15
 1
 end_operator
 begin_operator
@@ -79995,8 +79995,8 @@ succumb hangover lubricity tuna uranus vulcan
 1
 5 15
 2
-0 36 23 15
 0 34 2 3
+0 36 23 15
 1
 end_operator
 begin_operator
@@ -80004,8 +80004,8 @@ succumb hangover lubricity tuna vulcan jupiter
 1
 5 15
 2
-0 36 23 15
 0 34 3 1
+0 36 23 15
 1
 end_operator
 begin_operator
@@ -80013,8 +80013,8 @@ succumb hangover lubricity turkey earth uranus
 1
 5 16
 2
-0 36 23 16
 0 34 0 2
+0 36 23 16
 1
 end_operator
 begin_operator
@@ -80022,8 +80022,8 @@ succumb hangover lubricity turkey uranus vulcan
 1
 5 16
 2
-0 36 23 16
 0 34 2 3
+0 36 23 16
 1
 end_operator
 begin_operator
@@ -80031,8 +80031,8 @@ succumb hangover lubricity turkey vulcan jupiter
 1
 5 16
 2
-0 36 23 16
 0 34 3 1
+0 36 23 16
 1
 end_operator
 begin_operator
@@ -80040,8 +80040,8 @@ succumb hangover lubricity wonderbread earth uranus
 1
 5 17
 2
-0 36 23 17
 0 34 0 2
+0 36 23 17
 1
 end_operator
 begin_operator
@@ -80049,8 +80049,8 @@ succumb hangover lubricity wonderbread uranus vulcan
 1
 5 17
 2
-0 36 23 17
 0 34 2 3
+0 36 23 17
 1
 end_operator
 begin_operator
@@ -80058,8 +80058,8 @@ succumb hangover lubricity wonderbread vulcan jupiter
 1
 5 17
 2
-0 36 23 17
 0 34 3 1
+0 36 23 17
 1
 end_operator
 begin_operator
@@ -80067,8 +80067,8 @@ succumb hangover rest arugula earth uranus
 1
 6 0
 2
-0 36 24 0
 0 35 0 2
+0 36 24 0
 1
 end_operator
 begin_operator
@@ -80076,8 +80076,8 @@ succumb hangover rest arugula uranus vulcan
 1
 6 0
 2
-0 36 24 0
 0 35 2 3
+0 36 24 0
 1
 end_operator
 begin_operator
@@ -80085,8 +80085,8 @@ succumb hangover rest arugula vulcan jupiter
 1
 6 0
 2
-0 36 24 0
 0 35 3 1
+0 36 24 0
 1
 end_operator
 begin_operator
@@ -80094,8 +80094,8 @@ succumb hangover rest baguette earth uranus
 1
 6 1
 2
-0 36 24 1
 0 35 0 2
+0 36 24 1
 1
 end_operator
 begin_operator
@@ -80103,8 +80103,8 @@ succumb hangover rest baguette uranus vulcan
 1
 6 1
 2
-0 36 24 1
 0 35 2 3
+0 36 24 1
 1
 end_operator
 begin_operator
@@ -80112,8 +80112,8 @@ succumb hangover rest baguette vulcan jupiter
 1
 6 1
 2
-0 36 24 1
 0 35 3 1
+0 36 24 1
 1
 end_operator
 begin_operator
@@ -80121,8 +80121,8 @@ succumb hangover rest cantelope earth uranus
 1
 6 2
 2
-0 36 24 2
 0 35 0 2
+0 36 24 2
 1
 end_operator
 begin_operator
@@ -80130,8 +80130,8 @@ succumb hangover rest cantelope uranus vulcan
 1
 6 2
 2
-0 36 24 2
 0 35 2 3
+0 36 24 2
 1
 end_operator
 begin_operator
@@ -80139,8 +80139,8 @@ succumb hangover rest cantelope vulcan jupiter
 1
 6 2
 2
-0 36 24 2
 0 35 3 1
+0 36 24 2
 1
 end_operator
 begin_operator
@@ -80148,8 +80148,8 @@ succumb hangover rest flounder earth uranus
 1
 6 3
 2
-0 36 24 3
 0 35 0 2
+0 36 24 3
 1
 end_operator
 begin_operator
@@ -80157,8 +80157,8 @@ succumb hangover rest flounder uranus vulcan
 1
 6 3
 2
-0 36 24 3
 0 35 2 3
+0 36 24 3
 1
 end_operator
 begin_operator
@@ -80166,8 +80166,8 @@ succumb hangover rest flounder vulcan jupiter
 1
 6 3
 2
-0 36 24 3
 0 35 3 1
+0 36 24 3
 1
 end_operator
 begin_operator
@@ -80175,8 +80175,8 @@ succumb hangover rest hotdog earth uranus
 1
 6 4
 2
-0 36 24 4
 0 35 0 2
+0 36 24 4
 1
 end_operator
 begin_operator
@@ -80184,8 +80184,8 @@ succumb hangover rest hotdog uranus vulcan
 1
 6 4
 2
-0 36 24 4
 0 35 2 3
+0 36 24 4
 1
 end_operator
 begin_operator
@@ -80193,8 +80193,8 @@ succumb hangover rest hotdog vulcan jupiter
 1
 6 4
 2
-0 36 24 4
 0 35 3 1
+0 36 24 4
 1
 end_operator
 begin_operator
@@ -80202,8 +80202,8 @@ succumb hangover rest lobster earth uranus
 1
 6 5
 2
-0 36 24 5
 0 35 0 2
+0 36 24 5
 1
 end_operator
 begin_operator
@@ -80211,8 +80211,8 @@ succumb hangover rest lobster uranus vulcan
 1
 6 5
 2
-0 36 24 5
 0 35 2 3
+0 36 24 5
 1
 end_operator
 begin_operator
@@ -80220,8 +80220,8 @@ succumb hangover rest lobster vulcan jupiter
 1
 6 5
 2
-0 36 24 5
 0 35 3 1
+0 36 24 5
 1
 end_operator
 begin_operator
@@ -80229,8 +80229,8 @@ succumb hangover rest muffin earth uranus
 1
 6 6
 2
-0 36 24 6
 0 35 0 2
+0 36 24 6
 1
 end_operator
 begin_operator
@@ -80238,8 +80238,8 @@ succumb hangover rest muffin uranus vulcan
 1
 6 6
 2
-0 36 24 6
 0 35 2 3
+0 36 24 6
 1
 end_operator
 begin_operator
@@ -80247,8 +80247,8 @@ succumb hangover rest muffin vulcan jupiter
 1
 6 6
 2
-0 36 24 6
 0 35 3 1
+0 36 24 6
 1
 end_operator
 begin_operator
@@ -80256,8 +80256,8 @@ succumb hangover rest okra earth uranus
 1
 6 7
 2
-0 36 24 7
 0 35 0 2
+0 36 24 7
 1
 end_operator
 begin_operator
@@ -80265,8 +80265,8 @@ succumb hangover rest okra uranus vulcan
 1
 6 7
 2
-0 36 24 7
 0 35 2 3
+0 36 24 7
 1
 end_operator
 begin_operator
@@ -80274,8 +80274,8 @@ succumb hangover rest okra vulcan jupiter
 1
 6 7
 2
-0 36 24 7
 0 35 3 1
+0 36 24 7
 1
 end_operator
 begin_operator
@@ -80283,8 +80283,8 @@ succumb hangover rest pepper earth uranus
 1
 6 8
 2
-0 36 24 8
 0 35 0 2
+0 36 24 8
 1
 end_operator
 begin_operator
@@ -80292,8 +80292,8 @@ succumb hangover rest pepper uranus vulcan
 1
 6 8
 2
-0 36 24 8
 0 35 2 3
+0 36 24 8
 1
 end_operator
 begin_operator
@@ -80301,8 +80301,8 @@ succumb hangover rest pepper vulcan jupiter
 1
 6 8
 2
-0 36 24 8
 0 35 3 1
+0 36 24 8
 1
 end_operator
 begin_operator
@@ -80310,8 +80310,8 @@ succumb hangover rest pistachio earth uranus
 1
 6 9
 2
-0 36 24 9
 0 35 0 2
+0 36 24 9
 1
 end_operator
 begin_operator
@@ -80319,8 +80319,8 @@ succumb hangover rest pistachio uranus vulcan
 1
 6 9
 2
-0 36 24 9
 0 35 2 3
+0 36 24 9
 1
 end_operator
 begin_operator
@@ -80328,8 +80328,8 @@ succumb hangover rest pistachio vulcan jupiter
 1
 6 9
 2
-0 36 24 9
 0 35 3 1
+0 36 24 9
 1
 end_operator
 begin_operator
@@ -80337,8 +80337,8 @@ succumb hangover rest pork earth uranus
 1
 6 10
 2
-0 36 24 10
 0 35 0 2
+0 36 24 10
 1
 end_operator
 begin_operator
@@ -80346,8 +80346,8 @@ succumb hangover rest pork uranus vulcan
 1
 6 10
 2
-0 36 24 10
 0 35 2 3
+0 36 24 10
 1
 end_operator
 begin_operator
@@ -80355,8 +80355,8 @@ succumb hangover rest pork vulcan jupiter
 1
 6 10
 2
-0 36 24 10
 0 35 3 1
+0 36 24 10
 1
 end_operator
 begin_operator
@@ -80364,8 +80364,8 @@ succumb hangover rest rice earth uranus
 1
 6 11
 2
-0 36 24 11
 0 35 0 2
+0 36 24 11
 1
 end_operator
 begin_operator
@@ -80373,8 +80373,8 @@ succumb hangover rest rice uranus vulcan
 1
 6 11
 2
-0 36 24 11
 0 35 2 3
+0 36 24 11
 1
 end_operator
 begin_operator
@@ -80382,8 +80382,8 @@ succumb hangover rest rice vulcan jupiter
 1
 6 11
 2
-0 36 24 11
 0 35 3 1
+0 36 24 11
 1
 end_operator
 begin_operator
@@ -80391,8 +80391,8 @@ succumb hangover rest scallop earth uranus
 1
 6 12
 2
-0 36 24 12
 0 35 0 2
+0 36 24 12
 1
 end_operator
 begin_operator
@@ -80400,8 +80400,8 @@ succumb hangover rest scallop uranus vulcan
 1
 6 12
 2
-0 36 24 12
 0 35 2 3
+0 36 24 12
 1
 end_operator
 begin_operator
@@ -80409,8 +80409,8 @@ succumb hangover rest scallop vulcan jupiter
 1
 6 12
 2
-0 36 24 12
 0 35 3 1
+0 36 24 12
 1
 end_operator
 begin_operator
@@ -80418,8 +80418,8 @@ succumb hangover rest tofu earth uranus
 1
 6 13
 2
-0 36 24 13
 0 35 0 2
+0 36 24 13
 1
 end_operator
 begin_operator
@@ -80427,8 +80427,8 @@ succumb hangover rest tofu uranus vulcan
 1
 6 13
 2
-0 36 24 13
 0 35 2 3
+0 36 24 13
 1
 end_operator
 begin_operator
@@ -80436,8 +80436,8 @@ succumb hangover rest tofu vulcan jupiter
 1
 6 13
 2
-0 36 24 13
 0 35 3 1
+0 36 24 13
 1
 end_operator
 begin_operator
@@ -80445,8 +80445,8 @@ succumb hangover rest tomato earth uranus
 1
 6 14
 2
-0 36 24 14
 0 35 0 2
+0 36 24 14
 1
 end_operator
 begin_operator
@@ -80454,8 +80454,8 @@ succumb hangover rest tomato uranus vulcan
 1
 6 14
 2
-0 36 24 14
 0 35 2 3
+0 36 24 14
 1
 end_operator
 begin_operator
@@ -80463,8 +80463,8 @@ succumb hangover rest tomato vulcan jupiter
 1
 6 14
 2
-0 36 24 14
 0 35 3 1
+0 36 24 14
 1
 end_operator
 begin_operator
@@ -80472,8 +80472,8 @@ succumb hangover rest tuna earth uranus
 1
 6 15
 2
-0 36 24 15
 0 35 0 2
+0 36 24 15
 1
 end_operator
 begin_operator
@@ -80481,8 +80481,8 @@ succumb hangover rest tuna uranus vulcan
 1
 6 15
 2
-0 36 24 15
 0 35 2 3
+0 36 24 15
 1
 end_operator
 begin_operator
@@ -80490,8 +80490,8 @@ succumb hangover rest tuna vulcan jupiter
 1
 6 15
 2
-0 36 24 15
 0 35 3 1
+0 36 24 15
 1
 end_operator
 begin_operator
@@ -80499,8 +80499,8 @@ succumb hangover rest turkey earth uranus
 1
 6 16
 2
-0 36 24 16
 0 35 0 2
+0 36 24 16
 1
 end_operator
 begin_operator
@@ -80508,8 +80508,8 @@ succumb hangover rest turkey uranus vulcan
 1
 6 16
 2
-0 36 24 16
 0 35 2 3
+0 36 24 16
 1
 end_operator
 begin_operator
@@ -80517,8 +80517,8 @@ succumb hangover rest turkey vulcan jupiter
 1
 6 16
 2
-0 36 24 16
 0 35 3 1
+0 36 24 16
 1
 end_operator
 begin_operator
@@ -80526,8 +80526,8 @@ succumb hangover rest wonderbread earth uranus
 1
 6 17
 2
-0 36 24 17
 0 35 0 2
+0 36 24 17
 1
 end_operator
 begin_operator
@@ -80535,8 +80535,8 @@ succumb hangover rest wonderbread uranus vulcan
 1
 6 17
 2
-0 36 24 17
 0 35 2 3
+0 36 24 17
 1
 end_operator
 begin_operator
@@ -80544,8 +80544,8 @@ succumb hangover rest wonderbread vulcan jupiter
 1
 6 17
 2
-0 36 24 17
 0 35 3 1
+0 36 24 17
 1
 end_operator
 begin_operator
@@ -81525,8 +81525,8 @@ succumb sciatica achievement arugula earth uranus
 1
 0 0
 2
-0 37 18 0
 0 27 0 2
+0 37 18 0
 1
 end_operator
 begin_operator
@@ -81534,8 +81534,8 @@ succumb sciatica achievement arugula uranus vulcan
 1
 0 0
 2
-0 37 18 0
 0 27 2 3
+0 37 18 0
 1
 end_operator
 begin_operator
@@ -81543,8 +81543,8 @@ succumb sciatica achievement arugula vulcan jupiter
 1
 0 0
 2
-0 37 18 0
 0 27 3 1
+0 37 18 0
 1
 end_operator
 begin_operator
@@ -81552,8 +81552,8 @@ succumb sciatica achievement baguette earth uranus
 1
 0 1
 2
-0 37 18 1
 0 27 0 2
+0 37 18 1
 1
 end_operator
 begin_operator
@@ -81561,8 +81561,8 @@ succumb sciatica achievement baguette uranus vulcan
 1
 0 1
 2
-0 37 18 1
 0 27 2 3
+0 37 18 1
 1
 end_operator
 begin_operator
@@ -81570,8 +81570,8 @@ succumb sciatica achievement baguette vulcan jupiter
 1
 0 1
 2
-0 37 18 1
 0 27 3 1
+0 37 18 1
 1
 end_operator
 begin_operator
@@ -81579,8 +81579,8 @@ succumb sciatica achievement cantelope earth uranus
 1
 0 2
 2
-0 37 18 2
 0 27 0 2
+0 37 18 2
 1
 end_operator
 begin_operator
@@ -81588,8 +81588,8 @@ succumb sciatica achievement cantelope uranus vulcan
 1
 0 2
 2
-0 37 18 2
 0 27 2 3
+0 37 18 2
 1
 end_operator
 begin_operator
@@ -81597,8 +81597,8 @@ succumb sciatica achievement cantelope vulcan jupiter
 1
 0 2
 2
-0 37 18 2
 0 27 3 1
+0 37 18 2
 1
 end_operator
 begin_operator
@@ -81606,8 +81606,8 @@ succumb sciatica achievement flounder earth uranus
 1
 0 3
 2
-0 37 18 3
 0 27 0 2
+0 37 18 3
 1
 end_operator
 begin_operator
@@ -81615,8 +81615,8 @@ succumb sciatica achievement flounder uranus vulcan
 1
 0 3
 2
-0 37 18 3
 0 27 2 3
+0 37 18 3
 1
 end_operator
 begin_operator
@@ -81624,8 +81624,8 @@ succumb sciatica achievement flounder vulcan jupiter
 1
 0 3
 2
-0 37 18 3
 0 27 3 1
+0 37 18 3
 1
 end_operator
 begin_operator
@@ -81633,8 +81633,8 @@ succumb sciatica achievement hotdog earth uranus
 1
 0 4
 2
-0 37 18 4
 0 27 0 2
+0 37 18 4
 1
 end_operator
 begin_operator
@@ -81642,8 +81642,8 @@ succumb sciatica achievement hotdog uranus vulcan
 1
 0 4
 2
-0 37 18 4
 0 27 2 3
+0 37 18 4
 1
 end_operator
 begin_operator
@@ -81651,8 +81651,8 @@ succumb sciatica achievement hotdog vulcan jupiter
 1
 0 4
 2
-0 37 18 4
 0 27 3 1
+0 37 18 4
 1
 end_operator
 begin_operator
@@ -81660,8 +81660,8 @@ succumb sciatica achievement lobster earth uranus
 1
 0 5
 2
-0 37 18 5
 0 27 0 2
+0 37 18 5
 1
 end_operator
 begin_operator
@@ -81669,8 +81669,8 @@ succumb sciatica achievement lobster uranus vulcan
 1
 0 5
 2
-0 37 18 5
 0 27 2 3
+0 37 18 5
 1
 end_operator
 begin_operator
@@ -81678,8 +81678,8 @@ succumb sciatica achievement lobster vulcan jupiter
 1
 0 5
 2
-0 37 18 5
 0 27 3 1
+0 37 18 5
 1
 end_operator
 begin_operator
@@ -81687,8 +81687,8 @@ succumb sciatica achievement muffin earth uranus
 1
 0 6
 2
-0 37 18 6
 0 27 0 2
+0 37 18 6
 1
 end_operator
 begin_operator
@@ -81696,8 +81696,8 @@ succumb sciatica achievement muffin uranus vulcan
 1
 0 6
 2
-0 37 18 6
 0 27 2 3
+0 37 18 6
 1
 end_operator
 begin_operator
@@ -81705,8 +81705,8 @@ succumb sciatica achievement muffin vulcan jupiter
 1
 0 6
 2
-0 37 18 6
 0 27 3 1
+0 37 18 6
 1
 end_operator
 begin_operator
@@ -81714,8 +81714,8 @@ succumb sciatica achievement okra earth uranus
 1
 0 7
 2
-0 37 18 7
 0 27 0 2
+0 37 18 7
 1
 end_operator
 begin_operator
@@ -81723,8 +81723,8 @@ succumb sciatica achievement okra uranus vulcan
 1
 0 7
 2
-0 37 18 7
 0 27 2 3
+0 37 18 7
 1
 end_operator
 begin_operator
@@ -81732,8 +81732,8 @@ succumb sciatica achievement okra vulcan jupiter
 1
 0 7
 2
-0 37 18 7
 0 27 3 1
+0 37 18 7
 1
 end_operator
 begin_operator
@@ -81741,8 +81741,8 @@ succumb sciatica achievement pepper earth uranus
 1
 0 8
 2
-0 37 18 8
 0 27 0 2
+0 37 18 8
 1
 end_operator
 begin_operator
@@ -81750,8 +81750,8 @@ succumb sciatica achievement pepper uranus vulcan
 1
 0 8
 2
-0 37 18 8
 0 27 2 3
+0 37 18 8
 1
 end_operator
 begin_operator
@@ -81759,8 +81759,8 @@ succumb sciatica achievement pepper vulcan jupiter
 1
 0 8
 2
-0 37 18 8
 0 27 3 1
+0 37 18 8
 1
 end_operator
 begin_operator
@@ -81768,8 +81768,8 @@ succumb sciatica achievement pistachio earth uranus
 1
 0 9
 2
-0 37 18 9
 0 27 0 2
+0 37 18 9
 1
 end_operator
 begin_operator
@@ -81777,8 +81777,8 @@ succumb sciatica achievement pistachio uranus vulcan
 1
 0 9
 2
-0 37 18 9
 0 27 2 3
+0 37 18 9
 1
 end_operator
 begin_operator
@@ -81786,8 +81786,8 @@ succumb sciatica achievement pistachio vulcan jupiter
 1
 0 9
 2
-0 37 18 9
 0 27 3 1
+0 37 18 9
 1
 end_operator
 begin_operator
@@ -81795,8 +81795,8 @@ succumb sciatica achievement pork earth uranus
 1
 0 10
 2
-0 37 18 10
 0 27 0 2
+0 37 18 10
 1
 end_operator
 begin_operator
@@ -81804,8 +81804,8 @@ succumb sciatica achievement pork uranus vulcan
 1
 0 10
 2
-0 37 18 10
 0 27 2 3
+0 37 18 10
 1
 end_operator
 begin_operator
@@ -81813,8 +81813,8 @@ succumb sciatica achievement pork vulcan jupiter
 1
 0 10
 2
-0 37 18 10
 0 27 3 1
+0 37 18 10
 1
 end_operator
 begin_operator
@@ -81822,8 +81822,8 @@ succumb sciatica achievement rice earth uranus
 1
 0 11
 2
-0 37 18 11
 0 27 0 2
+0 37 18 11
 1
 end_operator
 begin_operator
@@ -81831,8 +81831,8 @@ succumb sciatica achievement rice uranus vulcan
 1
 0 11
 2
-0 37 18 11
 0 27 2 3
+0 37 18 11
 1
 end_operator
 begin_operator
@@ -81840,8 +81840,8 @@ succumb sciatica achievement rice vulcan jupiter
 1
 0 11
 2
-0 37 18 11
 0 27 3 1
+0 37 18 11
 1
 end_operator
 begin_operator
@@ -81849,8 +81849,8 @@ succumb sciatica achievement scallop earth uranus
 1
 0 12
 2
-0 37 18 12
 0 27 0 2
+0 37 18 12
 1
 end_operator
 begin_operator
@@ -81858,8 +81858,8 @@ succumb sciatica achievement scallop uranus vulcan
 1
 0 12
 2
-0 37 18 12
 0 27 2 3
+0 37 18 12
 1
 end_operator
 begin_operator
@@ -81867,8 +81867,8 @@ succumb sciatica achievement scallop vulcan jupiter
 1
 0 12
 2
-0 37 18 12
 0 27 3 1
+0 37 18 12
 1
 end_operator
 begin_operator
@@ -81876,8 +81876,8 @@ succumb sciatica achievement tofu earth uranus
 1
 0 13
 2
-0 37 18 13
 0 27 0 2
+0 37 18 13
 1
 end_operator
 begin_operator
@@ -81885,8 +81885,8 @@ succumb sciatica achievement tofu uranus vulcan
 1
 0 13
 2
-0 37 18 13
 0 27 2 3
+0 37 18 13
 1
 end_operator
 begin_operator
@@ -81894,8 +81894,8 @@ succumb sciatica achievement tofu vulcan jupiter
 1
 0 13
 2
-0 37 18 13
 0 27 3 1
+0 37 18 13
 1
 end_operator
 begin_operator
@@ -81903,8 +81903,8 @@ succumb sciatica achievement tomato earth uranus
 1
 0 14
 2
-0 37 18 14
 0 27 0 2
+0 37 18 14
 1
 end_operator
 begin_operator
@@ -81912,8 +81912,8 @@ succumb sciatica achievement tomato uranus vulcan
 1
 0 14
 2
-0 37 18 14
 0 27 2 3
+0 37 18 14
 1
 end_operator
 begin_operator
@@ -81921,8 +81921,8 @@ succumb sciatica achievement tomato vulcan jupiter
 1
 0 14
 2
-0 37 18 14
 0 27 3 1
+0 37 18 14
 1
 end_operator
 begin_operator
@@ -81930,8 +81930,8 @@ succumb sciatica achievement tuna earth uranus
 1
 0 15
 2
-0 37 18 15
 0 27 0 2
+0 37 18 15
 1
 end_operator
 begin_operator
@@ -81939,8 +81939,8 @@ succumb sciatica achievement tuna uranus vulcan
 1
 0 15
 2
-0 37 18 15
 0 27 2 3
+0 37 18 15
 1
 end_operator
 begin_operator
@@ -81948,8 +81948,8 @@ succumb sciatica achievement tuna vulcan jupiter
 1
 0 15
 2
-0 37 18 15
 0 27 3 1
+0 37 18 15
 1
 end_operator
 begin_operator
@@ -81957,8 +81957,8 @@ succumb sciatica achievement turkey earth uranus
 1
 0 16
 2
-0 37 18 16
 0 27 0 2
+0 37 18 16
 1
 end_operator
 begin_operator
@@ -81966,8 +81966,8 @@ succumb sciatica achievement turkey uranus vulcan
 1
 0 16
 2
-0 37 18 16
 0 27 2 3
+0 37 18 16
 1
 end_operator
 begin_operator
@@ -81975,8 +81975,8 @@ succumb sciatica achievement turkey vulcan jupiter
 1
 0 16
 2
-0 37 18 16
 0 27 3 1
+0 37 18 16
 1
 end_operator
 begin_operator
@@ -81984,8 +81984,8 @@ succumb sciatica achievement wonderbread earth uranus
 1
 0 17
 2
-0 37 18 17
 0 27 0 2
+0 37 18 17
 1
 end_operator
 begin_operator
@@ -81993,8 +81993,8 @@ succumb sciatica achievement wonderbread uranus vulcan
 1
 0 17
 2
-0 37 18 17
 0 27 2 3
+0 37 18 17
 1
 end_operator
 begin_operator
@@ -82002,8 +82002,8 @@ succumb sciatica achievement wonderbread vulcan jupiter
 1
 0 17
 2
-0 37 18 17
 0 27 3 1
+0 37 18 17
 1
 end_operator
 begin_operator
@@ -82011,8 +82011,8 @@ succumb sciatica aesthetics arugula earth uranus
 1
 1 0
 2
-0 37 19 0
 0 28 0 2
+0 37 19 0
 1
 end_operator
 begin_operator
@@ -82020,8 +82020,8 @@ succumb sciatica aesthetics arugula uranus vulcan
 1
 1 0
 2
-0 37 19 0
 0 28 2 3
+0 37 19 0
 1
 end_operator
 begin_operator
@@ -82029,8 +82029,8 @@ succumb sciatica aesthetics arugula vulcan jupiter
 1
 1 0
 2
-0 37 19 0
 0 28 3 1
+0 37 19 0
 1
 end_operator
 begin_operator
@@ -82038,8 +82038,8 @@ succumb sciatica aesthetics baguette earth uranus
 1
 1 1
 2
-0 37 19 1
 0 28 0 2
+0 37 19 1
 1
 end_operator
 begin_operator
@@ -82047,8 +82047,8 @@ succumb sciatica aesthetics baguette uranus vulcan
 1
 1 1
 2
-0 37 19 1
 0 28 2 3
+0 37 19 1
 1
 end_operator
 begin_operator
@@ -82056,8 +82056,8 @@ succumb sciatica aesthetics baguette vulcan jupiter
 1
 1 1
 2
-0 37 19 1
 0 28 3 1
+0 37 19 1
 1
 end_operator
 begin_operator
@@ -82065,8 +82065,8 @@ succumb sciatica aesthetics cantelope earth uranus
 1
 1 2
 2
-0 37 19 2
 0 28 0 2
+0 37 19 2
 1
 end_operator
 begin_operator
@@ -82074,8 +82074,8 @@ succumb sciatica aesthetics cantelope uranus vulcan
 1
 1 2
 2
-0 37 19 2
 0 28 2 3
+0 37 19 2
 1
 end_operator
 begin_operator
@@ -82083,8 +82083,8 @@ succumb sciatica aesthetics cantelope vulcan jupiter
 1
 1 2
 2
-0 37 19 2
 0 28 3 1
+0 37 19 2
 1
 end_operator
 begin_operator
@@ -82092,8 +82092,8 @@ succumb sciatica aesthetics flounder earth uranus
 1
 1 3
 2
-0 37 19 3
 0 28 0 2
+0 37 19 3
 1
 end_operator
 begin_operator
@@ -82101,8 +82101,8 @@ succumb sciatica aesthetics flounder uranus vulcan
 1
 1 3
 2
-0 37 19 3
 0 28 2 3
+0 37 19 3
 1
 end_operator
 begin_operator
@@ -82110,8 +82110,8 @@ succumb sciatica aesthetics flounder vulcan jupiter
 1
 1 3
 2
-0 37 19 3
 0 28 3 1
+0 37 19 3
 1
 end_operator
 begin_operator
@@ -82119,8 +82119,8 @@ succumb sciatica aesthetics hotdog earth uranus
 1
 1 4
 2
-0 37 19 4
 0 28 0 2
+0 37 19 4
 1
 end_operator
 begin_operator
@@ -82128,8 +82128,8 @@ succumb sciatica aesthetics hotdog uranus vulcan
 1
 1 4
 2
-0 37 19 4
 0 28 2 3
+0 37 19 4
 1
 end_operator
 begin_operator
@@ -82137,8 +82137,8 @@ succumb sciatica aesthetics hotdog vulcan jupiter
 1
 1 4
 2
-0 37 19 4
 0 28 3 1
+0 37 19 4
 1
 end_operator
 begin_operator
@@ -82146,8 +82146,8 @@ succumb sciatica aesthetics lobster earth uranus
 1
 1 5
 2
-0 37 19 5
 0 28 0 2
+0 37 19 5
 1
 end_operator
 begin_operator
@@ -82155,8 +82155,8 @@ succumb sciatica aesthetics lobster uranus vulcan
 1
 1 5
 2
-0 37 19 5
 0 28 2 3
+0 37 19 5
 1
 end_operator
 begin_operator
@@ -82164,8 +82164,8 @@ succumb sciatica aesthetics lobster vulcan jupiter
 1
 1 5
 2
-0 37 19 5
 0 28 3 1
+0 37 19 5
 1
 end_operator
 begin_operator
@@ -82173,8 +82173,8 @@ succumb sciatica aesthetics muffin earth uranus
 1
 1 6
 2
-0 37 19 6
 0 28 0 2
+0 37 19 6
 1
 end_operator
 begin_operator
@@ -82182,8 +82182,8 @@ succumb sciatica aesthetics muffin uranus vulcan
 1
 1 6
 2
-0 37 19 6
 0 28 2 3
+0 37 19 6
 1
 end_operator
 begin_operator
@@ -82191,8 +82191,8 @@ succumb sciatica aesthetics muffin vulcan jupiter
 1
 1 6
 2
-0 37 19 6
 0 28 3 1
+0 37 19 6
 1
 end_operator
 begin_operator
@@ -82200,8 +82200,8 @@ succumb sciatica aesthetics okra earth uranus
 1
 1 7
 2
-0 37 19 7
 0 28 0 2
+0 37 19 7
 1
 end_operator
 begin_operator
@@ -82209,8 +82209,8 @@ succumb sciatica aesthetics okra uranus vulcan
 1
 1 7
 2
-0 37 19 7
 0 28 2 3
+0 37 19 7
 1
 end_operator
 begin_operator
@@ -82218,8 +82218,8 @@ succumb sciatica aesthetics okra vulcan jupiter
 1
 1 7
 2
-0 37 19 7
 0 28 3 1
+0 37 19 7
 1
 end_operator
 begin_operator
@@ -82227,8 +82227,8 @@ succumb sciatica aesthetics pepper earth uranus
 1
 1 8
 2
-0 37 19 8
 0 28 0 2
+0 37 19 8
 1
 end_operator
 begin_operator
@@ -82236,8 +82236,8 @@ succumb sciatica aesthetics pepper uranus vulcan
 1
 1 8
 2
-0 37 19 8
 0 28 2 3
+0 37 19 8
 1
 end_operator
 begin_operator
@@ -82245,8 +82245,8 @@ succumb sciatica aesthetics pepper vulcan jupiter
 1
 1 8
 2
-0 37 19 8
 0 28 3 1
+0 37 19 8
 1
 end_operator
 begin_operator
@@ -82254,8 +82254,8 @@ succumb sciatica aesthetics pistachio earth uranus
 1
 1 9
 2
-0 37 19 9
 0 28 0 2
+0 37 19 9
 1
 end_operator
 begin_operator
@@ -82263,8 +82263,8 @@ succumb sciatica aesthetics pistachio uranus vulcan
 1
 1 9
 2
-0 37 19 9
 0 28 2 3
+0 37 19 9
 1
 end_operator
 begin_operator
@@ -82272,8 +82272,8 @@ succumb sciatica aesthetics pistachio vulcan jupiter
 1
 1 9
 2
-0 37 19 9
 0 28 3 1
+0 37 19 9
 1
 end_operator
 begin_operator
@@ -82281,8 +82281,8 @@ succumb sciatica aesthetics pork earth uranus
 1
 1 10
 2
-0 37 19 10
 0 28 0 2
+0 37 19 10
 1
 end_operator
 begin_operator
@@ -82290,8 +82290,8 @@ succumb sciatica aesthetics pork uranus vulcan
 1
 1 10
 2
-0 37 19 10
 0 28 2 3
+0 37 19 10
 1
 end_operator
 begin_operator
@@ -82299,8 +82299,8 @@ succumb sciatica aesthetics pork vulcan jupiter
 1
 1 10
 2
-0 37 19 10
 0 28 3 1
+0 37 19 10
 1
 end_operator
 begin_operator
@@ -82308,8 +82308,8 @@ succumb sciatica aesthetics rice earth uranus
 1
 1 11
 2
-0 37 19 11
 0 28 0 2
+0 37 19 11
 1
 end_operator
 begin_operator
@@ -82317,8 +82317,8 @@ succumb sciatica aesthetics rice uranus vulcan
 1
 1 11
 2
-0 37 19 11
 0 28 2 3
+0 37 19 11
 1
 end_operator
 begin_operator
@@ -82326,8 +82326,8 @@ succumb sciatica aesthetics rice vulcan jupiter
 1
 1 11
 2
-0 37 19 11
 0 28 3 1
+0 37 19 11
 1
 end_operator
 begin_operator
@@ -82335,8 +82335,8 @@ succumb sciatica aesthetics scallop earth uranus
 1
 1 12
 2
-0 37 19 12
 0 28 0 2
+0 37 19 12
 1
 end_operator
 begin_operator
@@ -82344,8 +82344,8 @@ succumb sciatica aesthetics scallop uranus vulcan
 1
 1 12
 2
-0 37 19 12
 0 28 2 3
+0 37 19 12
 1
 end_operator
 begin_operator
@@ -82353,8 +82353,8 @@ succumb sciatica aesthetics scallop vulcan jupiter
 1
 1 12
 2
-0 37 19 12
 0 28 3 1
+0 37 19 12
 1
 end_operator
 begin_operator
@@ -82362,8 +82362,8 @@ succumb sciatica aesthetics tofu earth uranus
 1
 1 13
 2
-0 37 19 13
 0 28 0 2
+0 37 19 13
 1
 end_operator
 begin_operator
@@ -82371,8 +82371,8 @@ succumb sciatica aesthetics tofu uranus vulcan
 1
 1 13
 2
-0 37 19 13
 0 28 2 3
+0 37 19 13
 1
 end_operator
 begin_operator
@@ -82380,8 +82380,8 @@ succumb sciatica aesthetics tofu vulcan jupiter
 1
 1 13
 2
-0 37 19 13
 0 28 3 1
+0 37 19 13
 1
 end_operator
 begin_operator
@@ -82389,8 +82389,8 @@ succumb sciatica aesthetics tomato earth uranus
 1
 1 14
 2
-0 37 19 14
 0 28 0 2
+0 37 19 14
 1
 end_operator
 begin_operator
@@ -82398,8 +82398,8 @@ succumb sciatica aesthetics tomato uranus vulcan
 1
 1 14
 2
-0 37 19 14
 0 28 2 3
+0 37 19 14
 1
 end_operator
 begin_operator
@@ -82407,8 +82407,8 @@ succumb sciatica aesthetics tomato vulcan jupiter
 1
 1 14
 2
-0 37 19 14
 0 28 3 1
+0 37 19 14
 1
 end_operator
 begin_operator
@@ -82416,8 +82416,8 @@ succumb sciatica aesthetics tuna earth uranus
 1
 1 15
 2
-0 37 19 15
 0 28 0 2
+0 37 19 15
 1
 end_operator
 begin_operator
@@ -82425,8 +82425,8 @@ succumb sciatica aesthetics tuna uranus vulcan
 1
 1 15
 2
-0 37 19 15
 0 28 2 3
+0 37 19 15
 1
 end_operator
 begin_operator
@@ -82434,8 +82434,8 @@ succumb sciatica aesthetics tuna vulcan jupiter
 1
 1 15
 2
-0 37 19 15
 0 28 3 1
+0 37 19 15
 1
 end_operator
 begin_operator
@@ -82443,8 +82443,8 @@ succumb sciatica aesthetics turkey earth uranus
 1
 1 16
 2
-0 37 19 16
 0 28 0 2
+0 37 19 16
 1
 end_operator
 begin_operator
@@ -82452,8 +82452,8 @@ succumb sciatica aesthetics turkey uranus vulcan
 1
 1 16
 2
-0 37 19 16
 0 28 2 3
+0 37 19 16
 1
 end_operator
 begin_operator
@@ -82461,8 +82461,8 @@ succumb sciatica aesthetics turkey vulcan jupiter
 1
 1 16
 2
-0 37 19 16
 0 28 3 1
+0 37 19 16
 1
 end_operator
 begin_operator
@@ -82470,8 +82470,8 @@ succumb sciatica aesthetics wonderbread earth uranus
 1
 1 17
 2
-0 37 19 17
 0 28 0 2
+0 37 19 17
 1
 end_operator
 begin_operator
@@ -82479,8 +82479,8 @@ succumb sciatica aesthetics wonderbread uranus vulcan
 1
 1 17
 2
-0 37 19 17
 0 28 2 3
+0 37 19 17
 1
 end_operator
 begin_operator
@@ -82488,8 +82488,8 @@ succumb sciatica aesthetics wonderbread vulcan jupiter
 1
 1 17
 2
-0 37 19 17
 0 28 3 1
+0 37 19 17
 1
 end_operator
 begin_operator
@@ -82497,8 +82497,8 @@ succumb sciatica excitement arugula earth uranus
 1
 2 0
 2
-0 37 20 0
 0 29 0 2
+0 37 20 0
 1
 end_operator
 begin_operator
@@ -82506,8 +82506,8 @@ succumb sciatica excitement arugula uranus vulcan
 1
 2 0
 2
-0 37 20 0
 0 29 2 3
+0 37 20 0
 1
 end_operator
 begin_operator
@@ -82515,8 +82515,8 @@ succumb sciatica excitement arugula vulcan jupiter
 1
 2 0
 2
-0 37 20 0
 0 29 3 1
+0 37 20 0
 1
 end_operator
 begin_operator
@@ -82524,8 +82524,8 @@ succumb sciatica excitement baguette earth uranus
 1
 2 1
 2
-0 37 20 1
 0 29 0 2
+0 37 20 1
 1
 end_operator
 begin_operator
@@ -82533,8 +82533,8 @@ succumb sciatica excitement baguette uranus vulcan
 1
 2 1
 2
-0 37 20 1
 0 29 2 3
+0 37 20 1
 1
 end_operator
 begin_operator
@@ -82542,8 +82542,8 @@ succumb sciatica excitement baguette vulcan jupiter
 1
 2 1
 2
-0 37 20 1
 0 29 3 1
+0 37 20 1
 1
 end_operator
 begin_operator
@@ -82551,8 +82551,8 @@ succumb sciatica excitement cantelope earth uranus
 1
 2 2
 2
-0 37 20 2
 0 29 0 2
+0 37 20 2
 1
 end_operator
 begin_operator
@@ -82560,8 +82560,8 @@ succumb sciatica excitement cantelope uranus vulcan
 1
 2 2
 2
-0 37 20 2
 0 29 2 3
+0 37 20 2
 1
 end_operator
 begin_operator
@@ -82569,8 +82569,8 @@ succumb sciatica excitement cantelope vulcan jupiter
 1
 2 2
 2
-0 37 20 2
 0 29 3 1
+0 37 20 2
 1
 end_operator
 begin_operator
@@ -82578,8 +82578,8 @@ succumb sciatica excitement flounder earth uranus
 1
 2 3
 2
-0 37 20 3
 0 29 0 2
+0 37 20 3
 1
 end_operator
 begin_operator
@@ -82587,8 +82587,8 @@ succumb sciatica excitement flounder uranus vulcan
 1
 2 3
 2
-0 37 20 3
 0 29 2 3
+0 37 20 3
 1
 end_operator
 begin_operator
@@ -82596,8 +82596,8 @@ succumb sciatica excitement flounder vulcan jupiter
 1
 2 3
 2
-0 37 20 3
 0 29 3 1
+0 37 20 3
 1
 end_operator
 begin_operator
@@ -82605,8 +82605,8 @@ succumb sciatica excitement hotdog earth uranus
 1
 2 4
 2
-0 37 20 4
 0 29 0 2
+0 37 20 4
 1
 end_operator
 begin_operator
@@ -82614,8 +82614,8 @@ succumb sciatica excitement hotdog uranus vulcan
 1
 2 4
 2
-0 37 20 4
 0 29 2 3
+0 37 20 4
 1
 end_operator
 begin_operator
@@ -82623,8 +82623,8 @@ succumb sciatica excitement hotdog vulcan jupiter
 1
 2 4
 2
-0 37 20 4
 0 29 3 1
+0 37 20 4
 1
 end_operator
 begin_operator
@@ -82632,8 +82632,8 @@ succumb sciatica excitement lobster earth uranus
 1
 2 5
 2
-0 37 20 5
 0 29 0 2
+0 37 20 5
 1
 end_operator
 begin_operator
@@ -82641,8 +82641,8 @@ succumb sciatica excitement lobster uranus vulcan
 1
 2 5
 2
-0 37 20 5
 0 29 2 3
+0 37 20 5
 1
 end_operator
 begin_operator
@@ -82650,8 +82650,8 @@ succumb sciatica excitement lobster vulcan jupiter
 1
 2 5
 2
-0 37 20 5
 0 29 3 1
+0 37 20 5
 1
 end_operator
 begin_operator
@@ -82659,8 +82659,8 @@ succumb sciatica excitement muffin earth uranus
 1
 2 6
 2
-0 37 20 6
 0 29 0 2
+0 37 20 6
 1
 end_operator
 begin_operator
@@ -82668,8 +82668,8 @@ succumb sciatica excitement muffin uranus vulcan
 1
 2 6
 2
-0 37 20 6
 0 29 2 3
+0 37 20 6
 1
 end_operator
 begin_operator
@@ -82677,8 +82677,8 @@ succumb sciatica excitement muffin vulcan jupiter
 1
 2 6
 2
-0 37 20 6
 0 29 3 1
+0 37 20 6
 1
 end_operator
 begin_operator
@@ -82686,8 +82686,8 @@ succumb sciatica excitement okra earth uranus
 1
 2 7
 2
-0 37 20 7
 0 29 0 2
+0 37 20 7
 1
 end_operator
 begin_operator
@@ -82695,8 +82695,8 @@ succumb sciatica excitement okra uranus vulcan
 1
 2 7
 2
-0 37 20 7
 0 29 2 3
+0 37 20 7
 1
 end_operator
 begin_operator
@@ -82704,8 +82704,8 @@ succumb sciatica excitement okra vulcan jupiter
 1
 2 7
 2
-0 37 20 7
 0 29 3 1
+0 37 20 7
 1
 end_operator
 begin_operator
@@ -82713,8 +82713,8 @@ succumb sciatica excitement pepper earth uranus
 1
 2 8
 2
-0 37 20 8
 0 29 0 2
+0 37 20 8
 1
 end_operator
 begin_operator
@@ -82722,8 +82722,8 @@ succumb sciatica excitement pepper uranus vulcan
 1
 2 8
 2
-0 37 20 8
 0 29 2 3
+0 37 20 8
 1
 end_operator
 begin_operator
@@ -82731,8 +82731,8 @@ succumb sciatica excitement pepper vulcan jupiter
 1
 2 8
 2
-0 37 20 8
 0 29 3 1
+0 37 20 8
 1
 end_operator
 begin_operator
@@ -82740,8 +82740,8 @@ succumb sciatica excitement pistachio earth uranus
 1
 2 9
 2
-0 37 20 9
 0 29 0 2
+0 37 20 9
 1
 end_operator
 begin_operator
@@ -82749,8 +82749,8 @@ succumb sciatica excitement pistachio uranus vulcan
 1
 2 9
 2
-0 37 20 9
 0 29 2 3
+0 37 20 9
 1
 end_operator
 begin_operator
@@ -82758,8 +82758,8 @@ succumb sciatica excitement pistachio vulcan jupiter
 1
 2 9
 2
-0 37 20 9
 0 29 3 1
+0 37 20 9
 1
 end_operator
 begin_operator
@@ -82767,8 +82767,8 @@ succumb sciatica excitement pork earth uranus
 1
 2 10
 2
-0 37 20 10
 0 29 0 2
+0 37 20 10
 1
 end_operator
 begin_operator
@@ -82776,8 +82776,8 @@ succumb sciatica excitement pork uranus vulcan
 1
 2 10
 2
-0 37 20 10
 0 29 2 3
+0 37 20 10
 1
 end_operator
 begin_operator
@@ -82785,8 +82785,8 @@ succumb sciatica excitement pork vulcan jupiter
 1
 2 10
 2
-0 37 20 10
 0 29 3 1
+0 37 20 10
 1
 end_operator
 begin_operator
@@ -82794,8 +82794,8 @@ succumb sciatica excitement rice earth uranus
 1
 2 11
 2
-0 37 20 11
 0 29 0 2
+0 37 20 11
 1
 end_operator
 begin_operator
@@ -82803,8 +82803,8 @@ succumb sciatica excitement rice uranus vulcan
 1
 2 11
 2
-0 37 20 11
 0 29 2 3
+0 37 20 11
 1
 end_operator
 begin_operator
@@ -82812,8 +82812,8 @@ succumb sciatica excitement rice vulcan jupiter
 1
 2 11
 2
-0 37 20 11
 0 29 3 1
+0 37 20 11
 1
 end_operator
 begin_operator
@@ -82821,8 +82821,8 @@ succumb sciatica excitement scallop earth uranus
 1
 2 12
 2
-0 37 20 12
 0 29 0 2
+0 37 20 12
 1
 end_operator
 begin_operator
@@ -82830,8 +82830,8 @@ succumb sciatica excitement scallop uranus vulcan
 1
 2 12
 2
-0 37 20 12
 0 29 2 3
+0 37 20 12
 1
 end_operator
 begin_operator
@@ -82839,8 +82839,8 @@ succumb sciatica excitement scallop vulcan jupiter
 1
 2 12
 2
-0 37 20 12
 0 29 3 1
+0 37 20 12
 1
 end_operator
 begin_operator
@@ -82848,8 +82848,8 @@ succumb sciatica excitement tofu earth uranus
 1
 2 13
 2
-0 37 20 13
 0 29 0 2
+0 37 20 13
 1
 end_operator
 begin_operator
@@ -82857,8 +82857,8 @@ succumb sciatica excitement tofu uranus vulcan
 1
 2 13
 2
-0 37 20 13
 0 29 2 3
+0 37 20 13
 1
 end_operator
 begin_operator
@@ -82866,8 +82866,8 @@ succumb sciatica excitement tofu vulcan jupiter
 1
 2 13
 2
-0 37 20 13
 0 29 3 1
+0 37 20 13
 1
 end_operator
 begin_operator
@@ -82875,8 +82875,8 @@ succumb sciatica excitement tomato earth uranus
 1
 2 14
 2
-0 37 20 14
 0 29 0 2
+0 37 20 14
 1
 end_operator
 begin_operator
@@ -82884,8 +82884,8 @@ succumb sciatica excitement tomato uranus vulcan
 1
 2 14
 2
-0 37 20 14
 0 29 2 3
+0 37 20 14
 1
 end_operator
 begin_operator
@@ -82893,8 +82893,8 @@ succumb sciatica excitement tomato vulcan jupiter
 1
 2 14
 2
-0 37 20 14
 0 29 3 1
+0 37 20 14
 1
 end_operator
 begin_operator
@@ -82902,8 +82902,8 @@ succumb sciatica excitement tuna earth uranus
 1
 2 15
 2
-0 37 20 15
 0 29 0 2
+0 37 20 15
 1
 end_operator
 begin_operator
@@ -82911,8 +82911,8 @@ succumb sciatica excitement tuna uranus vulcan
 1
 2 15
 2
-0 37 20 15
 0 29 2 3
+0 37 20 15
 1
 end_operator
 begin_operator
@@ -82920,8 +82920,8 @@ succumb sciatica excitement tuna vulcan jupiter
 1
 2 15
 2
-0 37 20 15
 0 29 3 1
+0 37 20 15
 1
 end_operator
 begin_operator
@@ -82929,8 +82929,8 @@ succumb sciatica excitement turkey earth uranus
 1
 2 16
 2
-0 37 20 16
 0 29 0 2
+0 37 20 16
 1
 end_operator
 begin_operator
@@ -82938,8 +82938,8 @@ succumb sciatica excitement turkey uranus vulcan
 1
 2 16
 2
-0 37 20 16
 0 29 2 3
+0 37 20 16
 1
 end_operator
 begin_operator
@@ -82947,8 +82947,8 @@ succumb sciatica excitement turkey vulcan jupiter
 1
 2 16
 2
-0 37 20 16
 0 29 3 1
+0 37 20 16
 1
 end_operator
 begin_operator
@@ -82956,8 +82956,8 @@ succumb sciatica excitement wonderbread earth uranus
 1
 2 17
 2
-0 37 20 17
 0 29 0 2
+0 37 20 17
 1
 end_operator
 begin_operator
@@ -82965,8 +82965,8 @@ succumb sciatica excitement wonderbread uranus vulcan
 1
 2 17
 2
-0 37 20 17
 0 29 2 3
+0 37 20 17
 1
 end_operator
 begin_operator
@@ -82974,8 +82974,8 @@ succumb sciatica excitement wonderbread vulcan jupiter
 1
 2 17
 2
-0 37 20 17
 0 29 3 1
+0 37 20 17
 1
 end_operator
 begin_operator
@@ -82983,8 +82983,8 @@ succumb sciatica learning arugula earth uranus
 1
 3 0
 2
-0 37 21 0
 0 30 0 2
+0 37 21 0
 1
 end_operator
 begin_operator
@@ -82992,8 +82992,8 @@ succumb sciatica learning arugula uranus vulcan
 1
 3 0
 2
-0 37 21 0
 0 30 2 3
+0 37 21 0
 1
 end_operator
 begin_operator
@@ -83001,8 +83001,8 @@ succumb sciatica learning arugula vulcan jupiter
 1
 3 0
 2
-0 37 21 0
 0 30 3 1
+0 37 21 0
 1
 end_operator
 begin_operator
@@ -83010,8 +83010,8 @@ succumb sciatica learning baguette earth uranus
 1
 3 1
 2
-0 37 21 1
 0 30 0 2
+0 37 21 1
 1
 end_operator
 begin_operator
@@ -83019,8 +83019,8 @@ succumb sciatica learning baguette uranus vulcan
 1
 3 1
 2
-0 37 21 1
 0 30 2 3
+0 37 21 1
 1
 end_operator
 begin_operator
@@ -83028,8 +83028,8 @@ succumb sciatica learning baguette vulcan jupiter
 1
 3 1
 2
-0 37 21 1
 0 30 3 1
+0 37 21 1
 1
 end_operator
 begin_operator
@@ -83037,8 +83037,8 @@ succumb sciatica learning cantelope earth uranus
 1
 3 2
 2
-0 37 21 2
 0 30 0 2
+0 37 21 2
 1
 end_operator
 begin_operator
@@ -83046,8 +83046,8 @@ succumb sciatica learning cantelope uranus vulcan
 1
 3 2
 2
-0 37 21 2
 0 30 2 3
+0 37 21 2
 1
 end_operator
 begin_operator
@@ -83055,8 +83055,8 @@ succumb sciatica learning cantelope vulcan jupiter
 1
 3 2
 2
-0 37 21 2
 0 30 3 1
+0 37 21 2
 1
 end_operator
 begin_operator
@@ -83064,8 +83064,8 @@ succumb sciatica learning flounder earth uranus
 1
 3 3
 2
-0 37 21 3
 0 30 0 2
+0 37 21 3
 1
 end_operator
 begin_operator
@@ -83073,8 +83073,8 @@ succumb sciatica learning flounder uranus vulcan
 1
 3 3
 2
-0 37 21 3
 0 30 2 3
+0 37 21 3
 1
 end_operator
 begin_operator
@@ -83082,8 +83082,8 @@ succumb sciatica learning flounder vulcan jupiter
 1
 3 3
 2
-0 37 21 3
 0 30 3 1
+0 37 21 3
 1
 end_operator
 begin_operator
@@ -83091,8 +83091,8 @@ succumb sciatica learning hotdog earth uranus
 1
 3 4
 2
-0 37 21 4
 0 30 0 2
+0 37 21 4
 1
 end_operator
 begin_operator
@@ -83100,8 +83100,8 @@ succumb sciatica learning hotdog uranus vulcan
 1
 3 4
 2
-0 37 21 4
 0 30 2 3
+0 37 21 4
 1
 end_operator
 begin_operator
@@ -83109,8 +83109,8 @@ succumb sciatica learning hotdog vulcan jupiter
 1
 3 4
 2
-0 37 21 4
 0 30 3 1
+0 37 21 4
 1
 end_operator
 begin_operator
@@ -83118,8 +83118,8 @@ succumb sciatica learning lobster earth uranus
 1
 3 5
 2
-0 37 21 5
 0 30 0 2
+0 37 21 5
 1
 end_operator
 begin_operator
@@ -83127,8 +83127,8 @@ succumb sciatica learning lobster uranus vulcan
 1
 3 5
 2
-0 37 21 5
 0 30 2 3
+0 37 21 5
 1
 end_operator
 begin_operator
@@ -83136,8 +83136,8 @@ succumb sciatica learning lobster vulcan jupiter
 1
 3 5
 2
-0 37 21 5
 0 30 3 1
+0 37 21 5
 1
 end_operator
 begin_operator
@@ -83145,8 +83145,8 @@ succumb sciatica learning muffin earth uranus
 1
 3 6
 2
-0 37 21 6
 0 30 0 2
+0 37 21 6
 1
 end_operator
 begin_operator
@@ -83154,8 +83154,8 @@ succumb sciatica learning muffin uranus vulcan
 1
 3 6
 2
-0 37 21 6
 0 30 2 3
+0 37 21 6
 1
 end_operator
 begin_operator
@@ -83163,8 +83163,8 @@ succumb sciatica learning muffin vulcan jupiter
 1
 3 6
 2
-0 37 21 6
 0 30 3 1
+0 37 21 6
 1
 end_operator
 begin_operator
@@ -83172,8 +83172,8 @@ succumb sciatica learning okra earth uranus
 1
 3 7
 2
-0 37 21 7
 0 30 0 2
+0 37 21 7
 1
 end_operator
 begin_operator
@@ -83181,8 +83181,8 @@ succumb sciatica learning okra uranus vulcan
 1
 3 7
 2
-0 37 21 7
 0 30 2 3
+0 37 21 7
 1
 end_operator
 begin_operator
@@ -83190,8 +83190,8 @@ succumb sciatica learning okra vulcan jupiter
 1
 3 7
 2
-0 37 21 7
 0 30 3 1
+0 37 21 7
 1
 end_operator
 begin_operator
@@ -83199,8 +83199,8 @@ succumb sciatica learning pepper earth uranus
 1
 3 8
 2
-0 37 21 8
 0 30 0 2
+0 37 21 8
 1
 end_operator
 begin_operator
@@ -83208,8 +83208,8 @@ succumb sciatica learning pepper uranus vulcan
 1
 3 8
 2
-0 37 21 8
 0 30 2 3
+0 37 21 8
 1
 end_operator
 begin_operator
@@ -83217,8 +83217,8 @@ succumb sciatica learning pepper vulcan jupiter
 1
 3 8
 2
-0 37 21 8
 0 30 3 1
+0 37 21 8
 1
 end_operator
 begin_operator
@@ -83226,8 +83226,8 @@ succumb sciatica learning pistachio earth uranus
 1
 3 9
 2
-0 37 21 9
 0 30 0 2
+0 37 21 9
 1
 end_operator
 begin_operator
@@ -83235,8 +83235,8 @@ succumb sciatica learning pistachio uranus vulcan
 1
 3 9
 2
-0 37 21 9
 0 30 2 3
+0 37 21 9
 1
 end_operator
 begin_operator
@@ -83244,8 +83244,8 @@ succumb sciatica learning pistachio vulcan jupiter
 1
 3 9
 2
-0 37 21 9
 0 30 3 1
+0 37 21 9
 1
 end_operator
 begin_operator
@@ -83253,8 +83253,8 @@ succumb sciatica learning pork earth uranus
 1
 3 10
 2
-0 37 21 10
 0 30 0 2
+0 37 21 10
 1
 end_operator
 begin_operator
@@ -83262,8 +83262,8 @@ succumb sciatica learning pork uranus vulcan
 1
 3 10
 2
-0 37 21 10
 0 30 2 3
+0 37 21 10
 1
 end_operator
 begin_operator
@@ -83271,8 +83271,8 @@ succumb sciatica learning pork vulcan jupiter
 1
 3 10
 2
-0 37 21 10
 0 30 3 1
+0 37 21 10
 1
 end_operator
 begin_operator
@@ -83280,8 +83280,8 @@ succumb sciatica learning rice earth uranus
 1
 3 11
 2
-0 37 21 11
 0 30 0 2
+0 37 21 11
 1
 end_operator
 begin_operator
@@ -83289,8 +83289,8 @@ succumb sciatica learning rice uranus vulcan
 1
 3 11
 2
-0 37 21 11
 0 30 2 3
+0 37 21 11
 1
 end_operator
 begin_operator
@@ -83298,8 +83298,8 @@ succumb sciatica learning rice vulcan jupiter
 1
 3 11
 2
-0 37 21 11
 0 30 3 1
+0 37 21 11
 1
 end_operator
 begin_operator
@@ -83307,8 +83307,8 @@ succumb sciatica learning scallop earth uranus
 1
 3 12
 2
-0 37 21 12
 0 30 0 2
+0 37 21 12
 1
 end_operator
 begin_operator
@@ -83316,8 +83316,8 @@ succumb sciatica learning scallop uranus vulcan
 1
 3 12
 2
-0 37 21 12
 0 30 2 3
+0 37 21 12
 1
 end_operator
 begin_operator
@@ -83325,8 +83325,8 @@ succumb sciatica learning scallop vulcan jupiter
 1
 3 12
 2
-0 37 21 12
 0 30 3 1
+0 37 21 12
 1
 end_operator
 begin_operator
@@ -83334,8 +83334,8 @@ succumb sciatica learning tofu earth uranus
 1
 3 13
 2
-0 37 21 13
 0 30 0 2
+0 37 21 13
 1
 end_operator
 begin_operator
@@ -83343,8 +83343,8 @@ succumb sciatica learning tofu uranus vulcan
 1
 3 13
 2
-0 37 21 13
 0 30 2 3
+0 37 21 13
 1
 end_operator
 begin_operator
@@ -83352,8 +83352,8 @@ succumb sciatica learning tofu vulcan jupiter
 1
 3 13
 2
-0 37 21 13
 0 30 3 1
+0 37 21 13
 1
 end_operator
 begin_operator
@@ -83361,8 +83361,8 @@ succumb sciatica learning tomato earth uranus
 1
 3 14
 2
-0 37 21 14
 0 30 0 2
+0 37 21 14
 1
 end_operator
 begin_operator
@@ -83370,8 +83370,8 @@ succumb sciatica learning tomato uranus vulcan
 1
 3 14
 2
-0 37 21 14
 0 30 2 3
+0 37 21 14
 1
 end_operator
 begin_operator
@@ -83379,8 +83379,8 @@ succumb sciatica learning tomato vulcan jupiter
 1
 3 14
 2
-0 37 21 14
 0 30 3 1
+0 37 21 14
 1
 end_operator
 begin_operator
@@ -83388,8 +83388,8 @@ succumb sciatica learning tuna earth uranus
 1
 3 15
 2
-0 37 21 15
 0 30 0 2
+0 37 21 15
 1
 end_operator
 begin_operator
@@ -83397,8 +83397,8 @@ succumb sciatica learning tuna uranus vulcan
 1
 3 15
 2
-0 37 21 15
 0 30 2 3
+0 37 21 15
 1
 end_operator
 begin_operator
@@ -83406,8 +83406,8 @@ succumb sciatica learning tuna vulcan jupiter
 1
 3 15
 2
-0 37 21 15
 0 30 3 1
+0 37 21 15
 1
 end_operator
 begin_operator
@@ -83415,8 +83415,8 @@ succumb sciatica learning turkey earth uranus
 1
 3 16
 2
-0 37 21 16
 0 30 0 2
+0 37 21 16
 1
 end_operator
 begin_operator
@@ -83424,8 +83424,8 @@ succumb sciatica learning turkey uranus vulcan
 1
 3 16
 2
-0 37 21 16
 0 30 2 3
+0 37 21 16
 1
 end_operator
 begin_operator
@@ -83433,8 +83433,8 @@ succumb sciatica learning turkey vulcan jupiter
 1
 3 16
 2
-0 37 21 16
 0 30 3 1
+0 37 21 16
 1
 end_operator
 begin_operator
@@ -83442,8 +83442,8 @@ succumb sciatica learning wonderbread earth uranus
 1
 3 17
 2
-0 37 21 17
 0 30 0 2
+0 37 21 17
 1
 end_operator
 begin_operator
@@ -83451,8 +83451,8 @@ succumb sciatica learning wonderbread uranus vulcan
 1
 3 17
 2
-0 37 21 17
 0 30 2 3
+0 37 21 17
 1
 end_operator
 begin_operator
@@ -83460,8 +83460,8 @@ succumb sciatica learning wonderbread vulcan jupiter
 1
 3 17
 2
-0 37 21 17
 0 30 3 1
+0 37 21 17
 1
 end_operator
 begin_operator
@@ -83469,8 +83469,8 @@ succumb sciatica love arugula earth uranus
 1
 4 0
 2
-0 37 22 0
 0 31 0 2
+0 37 22 0
 1
 end_operator
 begin_operator
@@ -83478,8 +83478,8 @@ succumb sciatica love arugula uranus vulcan
 1
 4 0
 2
-0 37 22 0
 0 31 2 3
+0 37 22 0
 1
 end_operator
 begin_operator
@@ -83487,8 +83487,8 @@ succumb sciatica love arugula vulcan jupiter
 1
 4 0
 2
-0 37 22 0
 0 31 3 1
+0 37 22 0
 1
 end_operator
 begin_operator
@@ -83496,8 +83496,8 @@ succumb sciatica love baguette earth uranus
 1
 4 1
 2
-0 37 22 1
 0 31 0 2
+0 37 22 1
 1
 end_operator
 begin_operator
@@ -83505,8 +83505,8 @@ succumb sciatica love baguette uranus vulcan
 1
 4 1
 2
-0 37 22 1
 0 31 2 3
+0 37 22 1
 1
 end_operator
 begin_operator
@@ -83514,8 +83514,8 @@ succumb sciatica love baguette vulcan jupiter
 1
 4 1
 2
-0 37 22 1
 0 31 3 1
+0 37 22 1
 1
 end_operator
 begin_operator
@@ -83523,8 +83523,8 @@ succumb sciatica love cantelope earth uranus
 1
 4 2
 2
-0 37 22 2
 0 31 0 2
+0 37 22 2
 1
 end_operator
 begin_operator
@@ -83532,8 +83532,8 @@ succumb sciatica love cantelope uranus vulcan
 1
 4 2
 2
-0 37 22 2
 0 31 2 3
+0 37 22 2
 1
 end_operator
 begin_operator
@@ -83541,8 +83541,8 @@ succumb sciatica love cantelope vulcan jupiter
 1
 4 2
 2
-0 37 22 2
 0 31 3 1
+0 37 22 2
 1
 end_operator
 begin_operator
@@ -83550,8 +83550,8 @@ succumb sciatica love flounder earth uranus
 1
 4 3
 2
-0 37 22 3
 0 31 0 2
+0 37 22 3
 1
 end_operator
 begin_operator
@@ -83559,8 +83559,8 @@ succumb sciatica love flounder uranus vulcan
 1
 4 3
 2
-0 37 22 3
 0 31 2 3
+0 37 22 3
 1
 end_operator
 begin_operator
@@ -83568,8 +83568,8 @@ succumb sciatica love flounder vulcan jupiter
 1
 4 3
 2
-0 37 22 3
 0 31 3 1
+0 37 22 3
 1
 end_operator
 begin_operator
@@ -83577,8 +83577,8 @@ succumb sciatica love hotdog earth uranus
 1
 4 4
 2
-0 37 22 4
 0 31 0 2
+0 37 22 4
 1
 end_operator
 begin_operator
@@ -83586,8 +83586,8 @@ succumb sciatica love hotdog uranus vulcan
 1
 4 4
 2
-0 37 22 4
 0 31 2 3
+0 37 22 4
 1
 end_operator
 begin_operator
@@ -83595,8 +83595,8 @@ succumb sciatica love hotdog vulcan jupiter
 1
 4 4
 2
-0 37 22 4
 0 31 3 1
+0 37 22 4
 1
 end_operator
 begin_operator
@@ -83604,8 +83604,8 @@ succumb sciatica love lobster earth uranus
 1
 4 5
 2
-0 37 22 5
 0 31 0 2
+0 37 22 5
 1
 end_operator
 begin_operator
@@ -83613,8 +83613,8 @@ succumb sciatica love lobster uranus vulcan
 1
 4 5
 2
-0 37 22 5
 0 31 2 3
+0 37 22 5
 1
 end_operator
 begin_operator
@@ -83622,8 +83622,8 @@ succumb sciatica love lobster vulcan jupiter
 1
 4 5
 2
-0 37 22 5
 0 31 3 1
+0 37 22 5
 1
 end_operator
 begin_operator
@@ -83631,8 +83631,8 @@ succumb sciatica love muffin earth uranus
 1
 4 6
 2
-0 37 22 6
 0 31 0 2
+0 37 22 6
 1
 end_operator
 begin_operator
@@ -83640,8 +83640,8 @@ succumb sciatica love muffin uranus vulcan
 1
 4 6
 2
-0 37 22 6
 0 31 2 3
+0 37 22 6
 1
 end_operator
 begin_operator
@@ -83649,8 +83649,8 @@ succumb sciatica love muffin vulcan jupiter
 1
 4 6
 2
-0 37 22 6
 0 31 3 1
+0 37 22 6
 1
 end_operator
 begin_operator
@@ -83658,8 +83658,8 @@ succumb sciatica love okra earth uranus
 1
 4 7
 2
-0 37 22 7
 0 31 0 2
+0 37 22 7
 1
 end_operator
 begin_operator
@@ -83667,8 +83667,8 @@ succumb sciatica love okra uranus vulcan
 1
 4 7
 2
-0 37 22 7
 0 31 2 3
+0 37 22 7
 1
 end_operator
 begin_operator
@@ -83676,8 +83676,8 @@ succumb sciatica love okra vulcan jupiter
 1
 4 7
 2
-0 37 22 7
 0 31 3 1
+0 37 22 7
 1
 end_operator
 begin_operator
@@ -83685,8 +83685,8 @@ succumb sciatica love pepper earth uranus
 1
 4 8
 2
-0 37 22 8
 0 31 0 2
+0 37 22 8
 1
 end_operator
 begin_operator
@@ -83694,8 +83694,8 @@ succumb sciatica love pepper uranus vulcan
 1
 4 8
 2
-0 37 22 8
 0 31 2 3
+0 37 22 8
 1
 end_operator
 begin_operator
@@ -83703,8 +83703,8 @@ succumb sciatica love pepper vulcan jupiter
 1
 4 8
 2
-0 37 22 8
 0 31 3 1
+0 37 22 8
 1
 end_operator
 begin_operator
@@ -83712,8 +83712,8 @@ succumb sciatica love pistachio earth uranus
 1
 4 9
 2
-0 37 22 9
 0 31 0 2
+0 37 22 9
 1
 end_operator
 begin_operator
@@ -83721,8 +83721,8 @@ succumb sciatica love pistachio uranus vulcan
 1
 4 9
 2
-0 37 22 9
 0 31 2 3
+0 37 22 9
 1
 end_operator
 begin_operator
@@ -83730,8 +83730,8 @@ succumb sciatica love pistachio vulcan jupiter
 1
 4 9
 2
-0 37 22 9
 0 31 3 1
+0 37 22 9
 1
 end_operator
 begin_operator
@@ -83739,8 +83739,8 @@ succumb sciatica love pork earth uranus
 1
 4 10
 2
-0 37 22 10
 0 31 0 2
+0 37 22 10
 1
 end_operator
 begin_operator
@@ -83748,8 +83748,8 @@ succumb sciatica love pork uranus vulcan
 1
 4 10
 2
-0 37 22 10
 0 31 2 3
+0 37 22 10
 1
 end_operator
 begin_operator
@@ -83757,8 +83757,8 @@ succumb sciatica love pork vulcan jupiter
 1
 4 10
 2
-0 37 22 10
 0 31 3 1
+0 37 22 10
 1
 end_operator
 begin_operator
@@ -83766,8 +83766,8 @@ succumb sciatica love rice earth uranus
 1
 4 11
 2
-0 37 22 11
 0 31 0 2
+0 37 22 11
 1
 end_operator
 begin_operator
@@ -83775,8 +83775,8 @@ succumb sciatica love rice uranus vulcan
 1
 4 11
 2
-0 37 22 11
 0 31 2 3
+0 37 22 11
 1
 end_operator
 begin_operator
@@ -83784,8 +83784,8 @@ succumb sciatica love rice vulcan jupiter
 1
 4 11
 2
-0 37 22 11
 0 31 3 1
+0 37 22 11
 1
 end_operator
 begin_operator
@@ -83793,8 +83793,8 @@ succumb sciatica love scallop earth uranus
 1
 4 12
 2
-0 37 22 12
 0 31 0 2
+0 37 22 12
 1
 end_operator
 begin_operator
@@ -83802,8 +83802,8 @@ succumb sciatica love scallop uranus vulcan
 1
 4 12
 2
-0 37 22 12
 0 31 2 3
+0 37 22 12
 1
 end_operator
 begin_operator
@@ -83811,8 +83811,8 @@ succumb sciatica love scallop vulcan jupiter
 1
 4 12
 2
-0 37 22 12
 0 31 3 1
+0 37 22 12
 1
 end_operator
 begin_operator
@@ -83820,8 +83820,8 @@ succumb sciatica love tofu earth uranus
 1
 4 13
 2
-0 37 22 13
 0 31 0 2
+0 37 22 13
 1
 end_operator
 begin_operator
@@ -83829,8 +83829,8 @@ succumb sciatica love tofu uranus vulcan
 1
 4 13
 2
-0 37 22 13
 0 31 2 3
+0 37 22 13
 1
 end_operator
 begin_operator
@@ -83838,8 +83838,8 @@ succumb sciatica love tofu vulcan jupiter
 1
 4 13
 2
-0 37 22 13
 0 31 3 1
+0 37 22 13
 1
 end_operator
 begin_operator
@@ -83847,8 +83847,8 @@ succumb sciatica love tomato earth uranus
 1
 4 14
 2
-0 37 22 14
 0 31 0 2
+0 37 22 14
 1
 end_operator
 begin_operator
@@ -83856,8 +83856,8 @@ succumb sciatica love tomato uranus vulcan
 1
 4 14
 2
-0 37 22 14
 0 31 2 3
+0 37 22 14
 1
 end_operator
 begin_operator
@@ -83865,8 +83865,8 @@ succumb sciatica love tomato vulcan jupiter
 1
 4 14
 2
-0 37 22 14
 0 31 3 1
+0 37 22 14
 1
 end_operator
 begin_operator
@@ -83874,8 +83874,8 @@ succumb sciatica love tuna earth uranus
 1
 4 15
 2
-0 37 22 15
 0 31 0 2
+0 37 22 15
 1
 end_operator
 begin_operator
@@ -83883,8 +83883,8 @@ succumb sciatica love tuna uranus vulcan
 1
 4 15
 2
-0 37 22 15
 0 31 2 3
+0 37 22 15
 1
 end_operator
 begin_operator
@@ -83892,8 +83892,8 @@ succumb sciatica love tuna vulcan jupiter
 1
 4 15
 2
-0 37 22 15
 0 31 3 1
+0 37 22 15
 1
 end_operator
 begin_operator
@@ -83901,8 +83901,8 @@ succumb sciatica love turkey earth uranus
 1
 4 16
 2
-0 37 22 16
 0 31 0 2
+0 37 22 16
 1
 end_operator
 begin_operator
@@ -83910,8 +83910,8 @@ succumb sciatica love turkey uranus vulcan
 1
 4 16
 2
-0 37 22 16
 0 31 2 3
+0 37 22 16
 1
 end_operator
 begin_operator
@@ -83919,8 +83919,8 @@ succumb sciatica love turkey vulcan jupiter
 1
 4 16
 2
-0 37 22 16
 0 31 3 1
+0 37 22 16
 1
 end_operator
 begin_operator
@@ -83928,8 +83928,8 @@ succumb sciatica love wonderbread earth uranus
 1
 4 17
 2
-0 37 22 17
 0 31 0 2
+0 37 22 17
 1
 end_operator
 begin_operator
@@ -83937,8 +83937,8 @@ succumb sciatica love wonderbread uranus vulcan
 1
 4 17
 2
-0 37 22 17
 0 31 2 3
+0 37 22 17
 1
 end_operator
 begin_operator
@@ -83946,8 +83946,8 @@ succumb sciatica love wonderbread vulcan jupiter
 1
 4 17
 2
-0 37 22 17
 0 31 3 1
+0 37 22 17
 1
 end_operator
 begin_operator
@@ -83955,8 +83955,8 @@ succumb sciatica lubricity arugula earth uranus
 1
 5 0
 2
-0 37 23 0
 0 34 0 2
+0 37 23 0
 1
 end_operator
 begin_operator
@@ -83964,8 +83964,8 @@ succumb sciatica lubricity arugula uranus vulcan
 1
 5 0
 2
-0 37 23 0
 0 34 2 3
+0 37 23 0
 1
 end_operator
 begin_operator
@@ -83973,8 +83973,8 @@ succumb sciatica lubricity arugula vulcan jupiter
 1
 5 0
 2
-0 37 23 0
 0 34 3 1
+0 37 23 0
 1
 end_operator
 begin_operator
@@ -83982,8 +83982,8 @@ succumb sciatica lubricity baguette earth uranus
 1
 5 1
 2
-0 37 23 1
 0 34 0 2
+0 37 23 1
 1
 end_operator
 begin_operator
@@ -83991,8 +83991,8 @@ succumb sciatica lubricity baguette uranus vulcan
 1
 5 1
 2
-0 37 23 1
 0 34 2 3
+0 37 23 1
 1
 end_operator
 begin_operator
@@ -84000,8 +84000,8 @@ succumb sciatica lubricity baguette vulcan jupiter
 1
 5 1
 2
-0 37 23 1
 0 34 3 1
+0 37 23 1
 1
 end_operator
 begin_operator
@@ -84009,8 +84009,8 @@ succumb sciatica lubricity cantelope earth uranus
 1
 5 2
 2
-0 37 23 2
 0 34 0 2
+0 37 23 2
 1
 end_operator
 begin_operator
@@ -84018,8 +84018,8 @@ succumb sciatica lubricity cantelope uranus vulcan
 1
 5 2
 2
-0 37 23 2
 0 34 2 3
+0 37 23 2
 1
 end_operator
 begin_operator
@@ -84027,8 +84027,8 @@ succumb sciatica lubricity cantelope vulcan jupiter
 1
 5 2
 2
-0 37 23 2
 0 34 3 1
+0 37 23 2
 1
 end_operator
 begin_operator
@@ -84036,8 +84036,8 @@ succumb sciatica lubricity flounder earth uranus
 1
 5 3
 2
-0 37 23 3
 0 34 0 2
+0 37 23 3
 1
 end_operator
 begin_operator
@@ -84045,8 +84045,8 @@ succumb sciatica lubricity flounder uranus vulcan
 1
 5 3
 2
-0 37 23 3
 0 34 2 3
+0 37 23 3
 1
 end_operator
 begin_operator
@@ -84054,8 +84054,8 @@ succumb sciatica lubricity flounder vulcan jupiter
 1
 5 3
 2
-0 37 23 3
 0 34 3 1
+0 37 23 3
 1
 end_operator
 begin_operator
@@ -84063,8 +84063,8 @@ succumb sciatica lubricity hotdog earth uranus
 1
 5 4
 2
-0 37 23 4
 0 34 0 2
+0 37 23 4
 1
 end_operator
 begin_operator
@@ -84072,8 +84072,8 @@ succumb sciatica lubricity hotdog uranus vulcan
 1
 5 4
 2
-0 37 23 4
 0 34 2 3
+0 37 23 4
 1
 end_operator
 begin_operator
@@ -84081,8 +84081,8 @@ succumb sciatica lubricity hotdog vulcan jupiter
 1
 5 4
 2
-0 37 23 4
 0 34 3 1
+0 37 23 4
 1
 end_operator
 begin_operator
@@ -84090,8 +84090,8 @@ succumb sciatica lubricity lobster earth uranus
 1
 5 5
 2
-0 37 23 5
 0 34 0 2
+0 37 23 5
 1
 end_operator
 begin_operator
@@ -84099,8 +84099,8 @@ succumb sciatica lubricity lobster uranus vulcan
 1
 5 5
 2
-0 37 23 5
 0 34 2 3
+0 37 23 5
 1
 end_operator
 begin_operator
@@ -84108,8 +84108,8 @@ succumb sciatica lubricity lobster vulcan jupiter
 1
 5 5
 2
-0 37 23 5
 0 34 3 1
+0 37 23 5
 1
 end_operator
 begin_operator
@@ -84117,8 +84117,8 @@ succumb sciatica lubricity muffin earth uranus
 1
 5 6
 2
-0 37 23 6
 0 34 0 2
+0 37 23 6
 1
 end_operator
 begin_operator
@@ -84126,8 +84126,8 @@ succumb sciatica lubricity muffin uranus vulcan
 1
 5 6
 2
-0 37 23 6
 0 34 2 3
+0 37 23 6
 1
 end_operator
 begin_operator
@@ -84135,8 +84135,8 @@ succumb sciatica lubricity muffin vulcan jupiter
 1
 5 6
 2
-0 37 23 6
 0 34 3 1
+0 37 23 6
 1
 end_operator
 begin_operator
@@ -84144,8 +84144,8 @@ succumb sciatica lubricity okra earth uranus
 1
 5 7
 2
-0 37 23 7
 0 34 0 2
+0 37 23 7
 1
 end_operator
 begin_operator
@@ -84153,8 +84153,8 @@ succumb sciatica lubricity okra uranus vulcan
 1
 5 7
 2
-0 37 23 7
 0 34 2 3
+0 37 23 7
 1
 end_operator
 begin_operator
@@ -84162,8 +84162,8 @@ succumb sciatica lubricity okra vulcan jupiter
 1
 5 7
 2
-0 37 23 7
 0 34 3 1
+0 37 23 7
 1
 end_operator
 begin_operator
@@ -84171,8 +84171,8 @@ succumb sciatica lubricity pepper earth uranus
 1
 5 8
 2
-0 37 23 8
 0 34 0 2
+0 37 23 8
 1
 end_operator
 begin_operator
@@ -84180,8 +84180,8 @@ succumb sciatica lubricity pepper uranus vulcan
 1
 5 8
 2
-0 37 23 8
 0 34 2 3
+0 37 23 8
 1
 end_operator
 begin_operator
@@ -84189,8 +84189,8 @@ succumb sciatica lubricity pepper vulcan jupiter
 1
 5 8
 2
-0 37 23 8
 0 34 3 1
+0 37 23 8
 1
 end_operator
 begin_operator
@@ -84198,8 +84198,8 @@ succumb sciatica lubricity pistachio earth uranus
 1
 5 9
 2
-0 37 23 9
 0 34 0 2
+0 37 23 9
 1
 end_operator
 begin_operator
@@ -84207,8 +84207,8 @@ succumb sciatica lubricity pistachio uranus vulcan
 1
 5 9
 2
-0 37 23 9
 0 34 2 3
+0 37 23 9
 1
 end_operator
 begin_operator
@@ -84216,8 +84216,8 @@ succumb sciatica lubricity pistachio vulcan jupiter
 1
 5 9
 2
-0 37 23 9
 0 34 3 1
+0 37 23 9
 1
 end_operator
 begin_operator
@@ -84225,8 +84225,8 @@ succumb sciatica lubricity pork earth uranus
 1
 5 10
 2
-0 37 23 10
 0 34 0 2
+0 37 23 10
 1
 end_operator
 begin_operator
@@ -84234,8 +84234,8 @@ succumb sciatica lubricity pork uranus vulcan
 1
 5 10
 2
-0 37 23 10
 0 34 2 3
+0 37 23 10
 1
 end_operator
 begin_operator
@@ -84243,8 +84243,8 @@ succumb sciatica lubricity pork vulcan jupiter
 1
 5 10
 2
-0 37 23 10
 0 34 3 1
+0 37 23 10
 1
 end_operator
 begin_operator
@@ -84252,8 +84252,8 @@ succumb sciatica lubricity rice earth uranus
 1
 5 11
 2
-0 37 23 11
 0 34 0 2
+0 37 23 11
 1
 end_operator
 begin_operator
@@ -84261,8 +84261,8 @@ succumb sciatica lubricity rice uranus vulcan
 1
 5 11
 2
-0 37 23 11
 0 34 2 3
+0 37 23 11
 1
 end_operator
 begin_operator
@@ -84270,8 +84270,8 @@ succumb sciatica lubricity rice vulcan jupiter
 1
 5 11
 2
-0 37 23 11
 0 34 3 1
+0 37 23 11
 1
 end_operator
 begin_operator
@@ -84279,8 +84279,8 @@ succumb sciatica lubricity scallop earth uranus
 1
 5 12
 2
-0 37 23 12
 0 34 0 2
+0 37 23 12
 1
 end_operator
 begin_operator
@@ -84288,8 +84288,8 @@ succumb sciatica lubricity scallop uranus vulcan
 1
 5 12
 2
-0 37 23 12
 0 34 2 3
+0 37 23 12
 1
 end_operator
 begin_operator
@@ -84297,8 +84297,8 @@ succumb sciatica lubricity scallop vulcan jupiter
 1
 5 12
 2
-0 37 23 12
 0 34 3 1
+0 37 23 12
 1
 end_operator
 begin_operator
@@ -84306,8 +84306,8 @@ succumb sciatica lubricity tofu earth uranus
 1
 5 13
 2
-0 37 23 13
 0 34 0 2
+0 37 23 13
 1
 end_operator
 begin_operator
@@ -84315,8 +84315,8 @@ succumb sciatica lubricity tofu uranus vulcan
 1
 5 13
 2
-0 37 23 13
 0 34 2 3
+0 37 23 13
 1
 end_operator
 begin_operator
@@ -84324,8 +84324,8 @@ succumb sciatica lubricity tofu vulcan jupiter
 1
 5 13
 2
-0 37 23 13
 0 34 3 1
+0 37 23 13
 1
 end_operator
 begin_operator
@@ -84333,8 +84333,8 @@ succumb sciatica lubricity tomato earth uranus
 1
 5 14
 2
-0 37 23 14
 0 34 0 2
+0 37 23 14
 1
 end_operator
 begin_operator
@@ -84342,8 +84342,8 @@ succumb sciatica lubricity tomato uranus vulcan
 1
 5 14
 2
-0 37 23 14
 0 34 2 3
+0 37 23 14
 1
 end_operator
 begin_operator
@@ -84351,8 +84351,8 @@ succumb sciatica lubricity tomato vulcan jupiter
 1
 5 14
 2
-0 37 23 14
 0 34 3 1
+0 37 23 14
 1
 end_operator
 begin_operator
@@ -84360,8 +84360,8 @@ succumb sciatica lubricity tuna earth uranus
 1
 5 15
 2
-0 37 23 15
 0 34 0 2
+0 37 23 15
 1
 end_operator
 begin_operator
@@ -84369,8 +84369,8 @@ succumb sciatica lubricity tuna uranus vulcan
 1
 5 15
 2
-0 37 23 15
 0 34 2 3
+0 37 23 15
 1
 end_operator
 begin_operator
@@ -84378,8 +84378,8 @@ succumb sciatica lubricity tuna vulcan jupiter
 1
 5 15
 2
-0 37 23 15
 0 34 3 1
+0 37 23 15
 1
 end_operator
 begin_operator
@@ -84387,8 +84387,8 @@ succumb sciatica lubricity turkey earth uranus
 1
 5 16
 2
-0 37 23 16
 0 34 0 2
+0 37 23 16
 1
 end_operator
 begin_operator
@@ -84396,8 +84396,8 @@ succumb sciatica lubricity turkey uranus vulcan
 1
 5 16
 2
-0 37 23 16
 0 34 2 3
+0 37 23 16
 1
 end_operator
 begin_operator
@@ -84405,8 +84405,8 @@ succumb sciatica lubricity turkey vulcan jupiter
 1
 5 16
 2
-0 37 23 16
 0 34 3 1
+0 37 23 16
 1
 end_operator
 begin_operator
@@ -84414,8 +84414,8 @@ succumb sciatica lubricity wonderbread earth uranus
 1
 5 17
 2
-0 37 23 17
 0 34 0 2
+0 37 23 17
 1
 end_operator
 begin_operator
@@ -84423,8 +84423,8 @@ succumb sciatica lubricity wonderbread uranus vulcan
 1
 5 17
 2
-0 37 23 17
 0 34 2 3
+0 37 23 17
 1
 end_operator
 begin_operator
@@ -84432,8 +84432,8 @@ succumb sciatica lubricity wonderbread vulcan jupiter
 1
 5 17
 2
-0 37 23 17
 0 34 3 1
+0 37 23 17
 1
 end_operator
 begin_operator
@@ -84441,8 +84441,8 @@ succumb sciatica rest arugula earth uranus
 1
 6 0
 2
-0 37 24 0
 0 35 0 2
+0 37 24 0
 1
 end_operator
 begin_operator
@@ -84450,8 +84450,8 @@ succumb sciatica rest arugula uranus vulcan
 1
 6 0
 2
-0 37 24 0
 0 35 2 3
+0 37 24 0
 1
 end_operator
 begin_operator
@@ -84459,8 +84459,8 @@ succumb sciatica rest arugula vulcan jupiter
 1
 6 0
 2
-0 37 24 0
 0 35 3 1
+0 37 24 0
 1
 end_operator
 begin_operator
@@ -84468,8 +84468,8 @@ succumb sciatica rest baguette earth uranus
 1
 6 1
 2
-0 37 24 1
 0 35 0 2
+0 37 24 1
 1
 end_operator
 begin_operator
@@ -84477,8 +84477,8 @@ succumb sciatica rest baguette uranus vulcan
 1
 6 1
 2
-0 37 24 1
 0 35 2 3
+0 37 24 1
 1
 end_operator
 begin_operator
@@ -84486,8 +84486,8 @@ succumb sciatica rest baguette vulcan jupiter
 1
 6 1
 2
-0 37 24 1
 0 35 3 1
+0 37 24 1
 1
 end_operator
 begin_operator
@@ -84495,8 +84495,8 @@ succumb sciatica rest cantelope earth uranus
 1
 6 2
 2
-0 37 24 2
 0 35 0 2
+0 37 24 2
 1
 end_operator
 begin_operator
@@ -84504,8 +84504,8 @@ succumb sciatica rest cantelope uranus vulcan
 1
 6 2
 2
-0 37 24 2
 0 35 2 3
+0 37 24 2
 1
 end_operator
 begin_operator
@@ -84513,8 +84513,8 @@ succumb sciatica rest cantelope vulcan jupiter
 1
 6 2
 2
-0 37 24 2
 0 35 3 1
+0 37 24 2
 1
 end_operator
 begin_operator
@@ -84522,8 +84522,8 @@ succumb sciatica rest flounder earth uranus
 1
 6 3
 2
-0 37 24 3
 0 35 0 2
+0 37 24 3
 1
 end_operator
 begin_operator
@@ -84531,8 +84531,8 @@ succumb sciatica rest flounder uranus vulcan
 1
 6 3
 2
-0 37 24 3
 0 35 2 3
+0 37 24 3
 1
 end_operator
 begin_operator
@@ -84540,8 +84540,8 @@ succumb sciatica rest flounder vulcan jupiter
 1
 6 3
 2
-0 37 24 3
 0 35 3 1
+0 37 24 3
 1
 end_operator
 begin_operator
@@ -84549,8 +84549,8 @@ succumb sciatica rest hotdog earth uranus
 1
 6 4
 2
-0 37 24 4
 0 35 0 2
+0 37 24 4
 1
 end_operator
 begin_operator
@@ -84558,8 +84558,8 @@ succumb sciatica rest hotdog uranus vulcan
 1
 6 4
 2
-0 37 24 4
 0 35 2 3
+0 37 24 4
 1
 end_operator
 begin_operator
@@ -84567,8 +84567,8 @@ succumb sciatica rest hotdog vulcan jupiter
 1
 6 4
 2
-0 37 24 4
 0 35 3 1
+0 37 24 4
 1
 end_operator
 begin_operator
@@ -84576,8 +84576,8 @@ succumb sciatica rest lobster earth uranus
 1
 6 5
 2
-0 37 24 5
 0 35 0 2
+0 37 24 5
 1
 end_operator
 begin_operator
@@ -84585,8 +84585,8 @@ succumb sciatica rest lobster uranus vulcan
 1
 6 5
 2
-0 37 24 5
 0 35 2 3
+0 37 24 5
 1
 end_operator
 begin_operator
@@ -84594,8 +84594,8 @@ succumb sciatica rest lobster vulcan jupiter
 1
 6 5
 2
-0 37 24 5
 0 35 3 1
+0 37 24 5
 1
 end_operator
 begin_operator
@@ -84603,8 +84603,8 @@ succumb sciatica rest muffin earth uranus
 1
 6 6
 2
-0 37 24 6
 0 35 0 2
+0 37 24 6
 1
 end_operator
 begin_operator
@@ -84612,8 +84612,8 @@ succumb sciatica rest muffin uranus vulcan
 1
 6 6
 2
-0 37 24 6
 0 35 2 3
+0 37 24 6
 1
 end_operator
 begin_operator
@@ -84621,8 +84621,8 @@ succumb sciatica rest muffin vulcan jupiter
 1
 6 6
 2
-0 37 24 6
 0 35 3 1
+0 37 24 6
 1
 end_operator
 begin_operator
@@ -84630,8 +84630,8 @@ succumb sciatica rest okra earth uranus
 1
 6 7
 2
-0 37 24 7
 0 35 0 2
+0 37 24 7
 1
 end_operator
 begin_operator
@@ -84639,8 +84639,8 @@ succumb sciatica rest okra uranus vulcan
 1
 6 7
 2
-0 37 24 7
 0 35 2 3
+0 37 24 7
 1
 end_operator
 begin_operator
@@ -84648,8 +84648,8 @@ succumb sciatica rest okra vulcan jupiter
 1
 6 7
 2
-0 37 24 7
 0 35 3 1
+0 37 24 7
 1
 end_operator
 begin_operator
@@ -84657,8 +84657,8 @@ succumb sciatica rest pepper earth uranus
 1
 6 8
 2
-0 37 24 8
 0 35 0 2
+0 37 24 8
 1
 end_operator
 begin_operator
@@ -84666,8 +84666,8 @@ succumb sciatica rest pepper uranus vulcan
 1
 6 8
 2
-0 37 24 8
 0 35 2 3
+0 37 24 8
 1
 end_operator
 begin_operator
@@ -84675,8 +84675,8 @@ succumb sciatica rest pepper vulcan jupiter
 1
 6 8
 2
-0 37 24 8
 0 35 3 1
+0 37 24 8
 1
 end_operator
 begin_operator
@@ -84684,8 +84684,8 @@ succumb sciatica rest pistachio earth uranus
 1
 6 9
 2
-0 37 24 9
 0 35 0 2
+0 37 24 9
 1
 end_operator
 begin_operator
@@ -84693,8 +84693,8 @@ succumb sciatica rest pistachio uranus vulcan
 1
 6 9
 2
-0 37 24 9
 0 35 2 3
+0 37 24 9
 1
 end_operator
 begin_operator
@@ -84702,8 +84702,8 @@ succumb sciatica rest pistachio vulcan jupiter
 1
 6 9
 2
-0 37 24 9
 0 35 3 1
+0 37 24 9
 1
 end_operator
 begin_operator
@@ -84711,8 +84711,8 @@ succumb sciatica rest pork earth uranus
 1
 6 10
 2
-0 37 24 10
 0 35 0 2
+0 37 24 10
 1
 end_operator
 begin_operator
@@ -84720,8 +84720,8 @@ succumb sciatica rest pork uranus vulcan
 1
 6 10
 2
-0 37 24 10
 0 35 2 3
+0 37 24 10
 1
 end_operator
 begin_operator
@@ -84729,8 +84729,8 @@ succumb sciatica rest pork vulcan jupiter
 1
 6 10
 2
-0 37 24 10
 0 35 3 1
+0 37 24 10
 1
 end_operator
 begin_operator
@@ -84738,8 +84738,8 @@ succumb sciatica rest rice earth uranus
 1
 6 11
 2
-0 37 24 11
 0 35 0 2
+0 37 24 11
 1
 end_operator
 begin_operator
@@ -84747,8 +84747,8 @@ succumb sciatica rest rice uranus vulcan
 1
 6 11
 2
-0 37 24 11
 0 35 2 3
+0 37 24 11
 1
 end_operator
 begin_operator
@@ -84756,8 +84756,8 @@ succumb sciatica rest rice vulcan jupiter
 1
 6 11
 2
-0 37 24 11
 0 35 3 1
+0 37 24 11
 1
 end_operator
 begin_operator
@@ -84765,8 +84765,8 @@ succumb sciatica rest scallop earth uranus
 1
 6 12
 2
-0 37 24 12
 0 35 0 2
+0 37 24 12
 1
 end_operator
 begin_operator
@@ -84774,8 +84774,8 @@ succumb sciatica rest scallop uranus vulcan
 1
 6 12
 2
-0 37 24 12
 0 35 2 3
+0 37 24 12
 1
 end_operator
 begin_operator
@@ -84783,8 +84783,8 @@ succumb sciatica rest scallop vulcan jupiter
 1
 6 12
 2
-0 37 24 12
 0 35 3 1
+0 37 24 12
 1
 end_operator
 begin_operator
@@ -84792,8 +84792,8 @@ succumb sciatica rest tofu earth uranus
 1
 6 13
 2
-0 37 24 13
 0 35 0 2
+0 37 24 13
 1
 end_operator
 begin_operator
@@ -84801,8 +84801,8 @@ succumb sciatica rest tofu uranus vulcan
 1
 6 13
 2
-0 37 24 13
 0 35 2 3
+0 37 24 13
 1
 end_operator
 begin_operator
@@ -84810,8 +84810,8 @@ succumb sciatica rest tofu vulcan jupiter
 1
 6 13
 2
-0 37 24 13
 0 35 3 1
+0 37 24 13
 1
 end_operator
 begin_operator
@@ -84819,8 +84819,8 @@ succumb sciatica rest tomato earth uranus
 1
 6 14
 2
-0 37 24 14
 0 35 0 2
+0 37 24 14
 1
 end_operator
 begin_operator
@@ -84828,8 +84828,8 @@ succumb sciatica rest tomato uranus vulcan
 1
 6 14
 2
-0 37 24 14
 0 35 2 3
+0 37 24 14
 1
 end_operator
 begin_operator
@@ -84837,8 +84837,8 @@ succumb sciatica rest tomato vulcan jupiter
 1
 6 14
 2
-0 37 24 14
 0 35 3 1
+0 37 24 14
 1
 end_operator
 begin_operator
@@ -84846,8 +84846,8 @@ succumb sciatica rest tuna earth uranus
 1
 6 15
 2
-0 37 24 15
 0 35 0 2
+0 37 24 15
 1
 end_operator
 begin_operator
@@ -84855,8 +84855,8 @@ succumb sciatica rest tuna uranus vulcan
 1
 6 15
 2
-0 37 24 15
 0 35 2 3
+0 37 24 15
 1
 end_operator
 begin_operator
@@ -84864,8 +84864,8 @@ succumb sciatica rest tuna vulcan jupiter
 1
 6 15
 2
-0 37 24 15
 0 35 3 1
+0 37 24 15
 1
 end_operator
 begin_operator
@@ -84873,8 +84873,8 @@ succumb sciatica rest turkey earth uranus
 1
 6 16
 2
-0 37 24 16
 0 35 0 2
+0 37 24 16
 1
 end_operator
 begin_operator
@@ -84882,8 +84882,8 @@ succumb sciatica rest turkey uranus vulcan
 1
 6 16
 2
-0 37 24 16
 0 35 2 3
+0 37 24 16
 1
 end_operator
 begin_operator
@@ -84891,8 +84891,8 @@ succumb sciatica rest turkey vulcan jupiter
 1
 6 16
 2
-0 37 24 16
 0 35 3 1
+0 37 24 16
 1
 end_operator
 begin_operator
@@ -84900,8 +84900,8 @@ succumb sciatica rest wonderbread earth uranus
 1
 6 17
 2
-0 37 24 17
 0 35 0 2
+0 37 24 17
 1
 end_operator
 begin_operator
@@ -84909,8 +84909,8 @@ succumb sciatica rest wonderbread uranus vulcan
 1
 6 17
 2
-0 37 24 17
 0 35 2 3
+0 37 24 17
 1
 end_operator
 begin_operator
@@ -84918,8 +84918,8 @@ succumb sciatica rest wonderbread vulcan jupiter
 1
 6 17
 2
-0 37 24 17
 0 35 3 1
+0 37 24 17
 1
 end_operator
 begin_operator

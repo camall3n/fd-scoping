@@ -385,64 +385,64 @@ begin_operator
 feast curiosity apple guava bavaria arizona
 0
 2
-0 4 0 2
 0 2 0 1
+0 4 0 2
 1
 end_operator
 begin_operator
 feast curiosity apple guava bosnia bavaria
 0
 2
-0 4 0 2
 0 2 1 2
+0 4 0 2
 1
 end_operator
 begin_operator
 feast curiosity apple hotdog bavaria arizona
 0
 2
-0 4 0 5
 0 2 0 1
+0 4 0 5
 1
 end_operator
 begin_operator
 feast curiosity apple hotdog bosnia bavaria
 0
 2
-0 4 0 5
 0 2 1 2
+0 4 0 5
 1
 end_operator
 begin_operator
 feast curiosity flounder hamburger bavaria arizona
 0
 2
-0 4 1 3
 0 3 0 1
+0 4 1 3
 1
 end_operator
 begin_operator
 feast curiosity flounder hamburger bosnia bavaria
 0
 2
-0 4 1 3
 0 3 1 2
+0 4 1 3
 1
 end_operator
 begin_operator
 feast curiosity flounder wurst bavaria arizona
 0
 2
-0 4 1 6
 0 3 0 1
+0 4 1 6
 1
 end_operator
 begin_operator
 feast curiosity flounder wurst bosnia bavaria
 0
 2
-0 4 1 6
 0 3 1 2
+0 4 1 6
 1
 end_operator
 begin_operator
@@ -545,96 +545,96 @@ begin_operator
 feast curiosity hotdog apple bosnia bavaria
 0
 2
-0 4 5 0
 0 0 0 1
+0 4 5 0
 1
 end_operator
 begin_operator
 feast curiosity hotdog wurst bosnia bavaria
 0
 2
-0 4 5 6
 0 0 0 1
+0 4 5 6
 1
 end_operator
 begin_operator
 feast curiosity wurst flounder bosnia bavaria
 0
 2
-0 4 6 1
 0 1 0 1
+0 4 6 1
 1
 end_operator
 begin_operator
 feast curiosity wurst hotdog bosnia bavaria
 0
 2
-0 4 6 5
 0 1 0 1
+0 4 6 5
 1
 end_operator
 begin_operator
 feast entertainment apple guava bavaria arizona
 0
 2
-0 5 0 2
 0 2 0 1
+0 5 0 2
 1
 end_operator
 begin_operator
 feast entertainment apple guava bosnia bavaria
 0
 2
-0 5 0 2
 0 2 1 2
+0 5 0 2
 1
 end_operator
 begin_operator
 feast entertainment apple hotdog bavaria arizona
 0
 2
-0 5 0 5
 0 2 0 1
+0 5 0 5
 1
 end_operator
 begin_operator
 feast entertainment apple hotdog bosnia bavaria
 0
 2
-0 5 0 5
 0 2 1 2
+0 5 0 5
 1
 end_operator
 begin_operator
 feast entertainment flounder hamburger bavaria arizona
 0
 2
-0 5 1 3
 0 3 0 1
+0 5 1 3
 1
 end_operator
 begin_operator
 feast entertainment flounder hamburger bosnia bavaria
 0
 2
-0 5 1 3
 0 3 1 2
+0 5 1 3
 1
 end_operator
 begin_operator
 feast entertainment flounder wurst bavaria arizona
 0
 2
-0 5 1 6
 0 3 0 1
+0 5 1 6
 1
 end_operator
 begin_operator
 feast entertainment flounder wurst bosnia bavaria
 0
 2
-0 5 1 6
 0 3 1 2
+0 5 1 6
 1
 end_operator
 begin_operator
@@ -737,96 +737,96 @@ begin_operator
 feast entertainment hotdog apple bosnia bavaria
 0
 2
-0 5 5 0
 0 0 0 1
+0 5 5 0
 1
 end_operator
 begin_operator
 feast entertainment hotdog wurst bosnia bavaria
 0
 2
-0 5 5 6
 0 0 0 1
+0 5 5 6
 1
 end_operator
 begin_operator
 feast entertainment wurst flounder bosnia bavaria
 0
 2
-0 5 6 1
 0 1 0 1
+0 5 6 1
 1
 end_operator
 begin_operator
 feast entertainment wurst hotdog bosnia bavaria
 0
 2
-0 5 6 5
 0 1 0 1
+0 5 6 5
 1
 end_operator
 begin_operator
 feast excitement apple guava bavaria arizona
 0
 2
-0 7 0 2
 0 2 0 1
+0 7 0 2
 1
 end_operator
 begin_operator
 feast excitement apple guava bosnia bavaria
 0
 2
-0 7 0 2
 0 2 1 2
+0 7 0 2
 1
 end_operator
 begin_operator
 feast excitement apple hotdog bavaria arizona
 0
 2
-0 7 0 5
 0 2 0 1
+0 7 0 5
 1
 end_operator
 begin_operator
 feast excitement apple hotdog bosnia bavaria
 0
 2
-0 7 0 5
 0 2 1 2
+0 7 0 5
 1
 end_operator
 begin_operator
 feast excitement flounder hamburger bavaria arizona
 0
 2
-0 7 1 3
 0 3 0 1
+0 7 1 3
 1
 end_operator
 begin_operator
 feast excitement flounder hamburger bosnia bavaria
 0
 2
-0 7 1 3
 0 3 1 2
+0 7 1 3
 1
 end_operator
 begin_operator
 feast excitement flounder wurst bavaria arizona
 0
 2
-0 7 1 6
 0 3 0 1
+0 7 1 6
 1
 end_operator
 begin_operator
 feast excitement flounder wurst bosnia bavaria
 0
 2
-0 7 1 6
 0 3 1 2
+0 7 1 6
 1
 end_operator
 begin_operator
@@ -897,128 +897,128 @@ begin_operator
 feast excitement haroset guava bavaria arizona
 0
 2
-0 7 4 2
 0 6 0 1
+0 7 4 2
 1
 end_operator
 begin_operator
 feast excitement haroset guava bosnia bavaria
 0
 2
-0 7 4 2
 0 6 1 2
+0 7 4 2
 1
 end_operator
 begin_operator
 feast excitement haroset hamburger bavaria arizona
 0
 2
-0 7 4 3
 0 6 0 1
+0 7 4 3
 1
 end_operator
 begin_operator
 feast excitement haroset hamburger bosnia bavaria
 0
 2
-0 7 4 3
 0 6 1 2
+0 7 4 3
 1
 end_operator
 begin_operator
 feast excitement hotdog apple bosnia bavaria
 0
 2
-0 7 5 0
 0 0 0 1
+0 7 5 0
 1
 end_operator
 begin_operator
 feast excitement hotdog wurst bosnia bavaria
 0
 2
-0 7 5 6
 0 0 0 1
+0 7 5 6
 1
 end_operator
 begin_operator
 feast excitement wurst flounder bosnia bavaria
 0
 2
-0 7 6 1
 0 1 0 1
+0 7 6 1
 1
 end_operator
 begin_operator
 feast excitement wurst hotdog bosnia bavaria
 0
 2
-0 7 6 5
 0 1 0 1
+0 7 6 5
 1
 end_operator
 begin_operator
 feast intoxication apple guava bavaria arizona
 0
 2
-0 8 0 2
 0 2 0 1
+0 8 0 2
 1
 end_operator
 begin_operator
 feast intoxication apple guava bosnia bavaria
 0
 2
-0 8 0 2
 0 2 1 2
+0 8 0 2
 1
 end_operator
 begin_operator
 feast intoxication apple hotdog bavaria arizona
 0
 2
-0 8 0 5
 0 2 0 1
+0 8 0 5
 1
 end_operator
 begin_operator
 feast intoxication apple hotdog bosnia bavaria
 0
 2
-0 8 0 5
 0 2 1 2
+0 8 0 5
 1
 end_operator
 begin_operator
 feast intoxication flounder hamburger bavaria arizona
 0
 2
-0 8 1 3
 0 3 0 1
+0 8 1 3
 1
 end_operator
 begin_operator
 feast intoxication flounder hamburger bosnia bavaria
 0
 2
-0 8 1 3
 0 3 1 2
+0 8 1 3
 1
 end_operator
 begin_operator
 feast intoxication flounder wurst bavaria arizona
 0
 2
-0 8 1 6
 0 3 0 1
+0 8 1 6
 1
 end_operator
 begin_operator
 feast intoxication flounder wurst bosnia bavaria
 0
 2
-0 8 1 6
 0 3 1 2
+0 8 1 6
 1
 end_operator
 begin_operator
@@ -1089,64 +1089,64 @@ begin_operator
 feast intoxication haroset guava bavaria arizona
 0
 2
-0 8 4 2
 0 6 0 1
+0 8 4 2
 1
 end_operator
 begin_operator
 feast intoxication haroset guava bosnia bavaria
 0
 2
-0 8 4 2
 0 6 1 2
+0 8 4 2
 1
 end_operator
 begin_operator
 feast intoxication haroset hamburger bavaria arizona
 0
 2
-0 8 4 3
 0 6 0 1
+0 8 4 3
 1
 end_operator
 begin_operator
 feast intoxication haroset hamburger bosnia bavaria
 0
 2
-0 8 4 3
 0 6 1 2
+0 8 4 3
 1
 end_operator
 begin_operator
 feast intoxication hotdog apple bosnia bavaria
 0
 2
-0 8 5 0
 0 0 0 1
+0 8 5 0
 1
 end_operator
 begin_operator
 feast intoxication hotdog wurst bosnia bavaria
 0
 2
-0 8 5 6
 0 0 0 1
+0 8 5 6
 1
 end_operator
 begin_operator
 feast intoxication wurst flounder bosnia bavaria
 0
 2
-0 8 6 1
 0 1 0 1
+0 8 6 1
 1
 end_operator
 begin_operator
 feast intoxication wurst hotdog bosnia bavaria
 0
 2
-0 8 6 5
 0 1 0 1
+0 8 6 5
 1
 end_operator
 begin_operator
@@ -7202,8 +7202,8 @@ overcome jealousy curiosity apple earth uranus
 1
 4 0
 2
-0 25 0 7
 0 20 2 0
+0 25 0 7
 1
 end_operator
 begin_operator
@@ -7211,8 +7211,8 @@ overcome jealousy curiosity apple saturn venus
 1
 4 0
 2
-0 25 0 7
 0 20 3 1
+0 25 0 7
 1
 end_operator
 begin_operator
@@ -7220,8 +7220,8 @@ overcome jealousy curiosity apple uranus saturn
 1
 4 0
 2
-0 25 0 7
 0 20 1 2
+0 25 0 7
 1
 end_operator
 begin_operator
@@ -7229,8 +7229,8 @@ overcome jealousy curiosity flounder earth uranus
 1
 4 1
 2
-0 25 1 7
 0 20 2 0
+0 25 1 7
 1
 end_operator
 begin_operator
@@ -7238,8 +7238,8 @@ overcome jealousy curiosity flounder saturn venus
 1
 4 1
 2
-0 25 1 7
 0 20 3 1
+0 25 1 7
 1
 end_operator
 begin_operator
@@ -7247,8 +7247,8 @@ overcome jealousy curiosity flounder uranus saturn
 1
 4 1
 2
-0 25 1 7
 0 20 1 2
+0 25 1 7
 1
 end_operator
 begin_operator
@@ -7256,8 +7256,8 @@ overcome jealousy curiosity guava earth uranus
 1
 4 2
 2
-0 25 2 7
 0 20 2 0
+0 25 2 7
 1
 end_operator
 begin_operator
@@ -7265,8 +7265,8 @@ overcome jealousy curiosity guava saturn venus
 1
 4 2
 2
-0 25 2 7
 0 20 3 1
+0 25 2 7
 1
 end_operator
 begin_operator
@@ -7274,8 +7274,8 @@ overcome jealousy curiosity guava uranus saturn
 1
 4 2
 2
-0 25 2 7
 0 20 1 2
+0 25 2 7
 1
 end_operator
 begin_operator
@@ -7283,8 +7283,8 @@ overcome jealousy curiosity hamburger earth uranus
 1
 4 3
 2
-0 25 3 7
 0 20 2 0
+0 25 3 7
 1
 end_operator
 begin_operator
@@ -7292,8 +7292,8 @@ overcome jealousy curiosity hamburger saturn venus
 1
 4 3
 2
-0 25 3 7
 0 20 3 1
+0 25 3 7
 1
 end_operator
 begin_operator
@@ -7301,8 +7301,8 @@ overcome jealousy curiosity hamburger uranus saturn
 1
 4 3
 2
-0 25 3 7
 0 20 1 2
+0 25 3 7
 1
 end_operator
 begin_operator
@@ -7310,8 +7310,8 @@ overcome jealousy curiosity haroset earth uranus
 1
 4 4
 2
-0 25 4 7
 0 20 2 0
+0 25 4 7
 1
 end_operator
 begin_operator
@@ -7319,8 +7319,8 @@ overcome jealousy curiosity haroset saturn venus
 1
 4 4
 2
-0 25 4 7
 0 20 3 1
+0 25 4 7
 1
 end_operator
 begin_operator
@@ -7328,8 +7328,8 @@ overcome jealousy curiosity haroset uranus saturn
 1
 4 4
 2
-0 25 4 7
 0 20 1 2
+0 25 4 7
 1
 end_operator
 begin_operator
@@ -7337,8 +7337,8 @@ overcome jealousy curiosity hotdog earth uranus
 1
 4 5
 2
-0 25 5 7
 0 20 2 0
+0 25 5 7
 1
 end_operator
 begin_operator
@@ -7346,8 +7346,8 @@ overcome jealousy curiosity hotdog saturn venus
 1
 4 5
 2
-0 25 5 7
 0 20 3 1
+0 25 5 7
 1
 end_operator
 begin_operator
@@ -7355,8 +7355,8 @@ overcome jealousy curiosity hotdog uranus saturn
 1
 4 5
 2
-0 25 5 7
 0 20 1 2
+0 25 5 7
 1
 end_operator
 begin_operator
@@ -7364,8 +7364,8 @@ overcome jealousy curiosity wurst earth uranus
 1
 4 6
 2
-0 25 6 7
 0 20 2 0
+0 25 6 7
 1
 end_operator
 begin_operator
@@ -7373,8 +7373,8 @@ overcome jealousy curiosity wurst saturn venus
 1
 4 6
 2
-0 25 6 7
 0 20 3 1
+0 25 6 7
 1
 end_operator
 begin_operator
@@ -7382,8 +7382,8 @@ overcome jealousy curiosity wurst uranus saturn
 1
 4 6
 2
-0 25 6 7
 0 20 1 2
+0 25 6 7
 1
 end_operator
 begin_operator
@@ -7391,8 +7391,8 @@ overcome jealousy entertainment apple earth uranus
 1
 5 0
 2
-0 25 0 8
 0 21 2 0
+0 25 0 8
 1
 end_operator
 begin_operator
@@ -7400,8 +7400,8 @@ overcome jealousy entertainment apple saturn venus
 1
 5 0
 2
-0 25 0 8
 0 21 3 1
+0 25 0 8
 1
 end_operator
 begin_operator
@@ -7409,8 +7409,8 @@ overcome jealousy entertainment apple uranus saturn
 1
 5 0
 2
-0 25 0 8
 0 21 1 2
+0 25 0 8
 1
 end_operator
 begin_operator
@@ -7418,8 +7418,8 @@ overcome jealousy entertainment flounder earth uranus
 1
 5 1
 2
-0 25 1 8
 0 21 2 0
+0 25 1 8
 1
 end_operator
 begin_operator
@@ -7427,8 +7427,8 @@ overcome jealousy entertainment flounder saturn venus
 1
 5 1
 2
-0 25 1 8
 0 21 3 1
+0 25 1 8
 1
 end_operator
 begin_operator
@@ -7436,8 +7436,8 @@ overcome jealousy entertainment flounder uranus saturn
 1
 5 1
 2
-0 25 1 8
 0 21 1 2
+0 25 1 8
 1
 end_operator
 begin_operator
@@ -7445,8 +7445,8 @@ overcome jealousy entertainment guava earth uranus
 1
 5 2
 2
-0 25 2 8
 0 21 2 0
+0 25 2 8
 1
 end_operator
 begin_operator
@@ -7454,8 +7454,8 @@ overcome jealousy entertainment guava saturn venus
 1
 5 2
 2
-0 25 2 8
 0 21 3 1
+0 25 2 8
 1
 end_operator
 begin_operator
@@ -7463,8 +7463,8 @@ overcome jealousy entertainment guava uranus saturn
 1
 5 2
 2
-0 25 2 8
 0 21 1 2
+0 25 2 8
 1
 end_operator
 begin_operator
@@ -7472,8 +7472,8 @@ overcome jealousy entertainment hamburger earth uranus
 1
 5 3
 2
-0 25 3 8
 0 21 2 0
+0 25 3 8
 1
 end_operator
 begin_operator
@@ -7481,8 +7481,8 @@ overcome jealousy entertainment hamburger saturn venus
 1
 5 3
 2
-0 25 3 8
 0 21 3 1
+0 25 3 8
 1
 end_operator
 begin_operator
@@ -7490,8 +7490,8 @@ overcome jealousy entertainment hamburger uranus saturn
 1
 5 3
 2
-0 25 3 8
 0 21 1 2
+0 25 3 8
 1
 end_operator
 begin_operator
@@ -7499,8 +7499,8 @@ overcome jealousy entertainment haroset earth uranus
 1
 5 4
 2
-0 25 4 8
 0 21 2 0
+0 25 4 8
 1
 end_operator
 begin_operator
@@ -7508,8 +7508,8 @@ overcome jealousy entertainment haroset saturn venus
 1
 5 4
 2
-0 25 4 8
 0 21 3 1
+0 25 4 8
 1
 end_operator
 begin_operator
@@ -7517,8 +7517,8 @@ overcome jealousy entertainment haroset uranus saturn
 1
 5 4
 2
-0 25 4 8
 0 21 1 2
+0 25 4 8
 1
 end_operator
 begin_operator
@@ -7526,8 +7526,8 @@ overcome jealousy entertainment hotdog earth uranus
 1
 5 5
 2
-0 25 5 8
 0 21 2 0
+0 25 5 8
 1
 end_operator
 begin_operator
@@ -7535,8 +7535,8 @@ overcome jealousy entertainment hotdog saturn venus
 1
 5 5
 2
-0 25 5 8
 0 21 3 1
+0 25 5 8
 1
 end_operator
 begin_operator
@@ -7544,8 +7544,8 @@ overcome jealousy entertainment hotdog uranus saturn
 1
 5 5
 2
-0 25 5 8
 0 21 1 2
+0 25 5 8
 1
 end_operator
 begin_operator
@@ -7553,8 +7553,8 @@ overcome jealousy entertainment wurst earth uranus
 1
 5 6
 2
-0 25 6 8
 0 21 2 0
+0 25 6 8
 1
 end_operator
 begin_operator
@@ -7562,8 +7562,8 @@ overcome jealousy entertainment wurst saturn venus
 1
 5 6
 2
-0 25 6 8
 0 21 3 1
+0 25 6 8
 1
 end_operator
 begin_operator
@@ -7571,8 +7571,8 @@ overcome jealousy entertainment wurst uranus saturn
 1
 5 6
 2
-0 25 6 8
 0 21 1 2
+0 25 6 8
 1
 end_operator
 begin_operator
@@ -7580,8 +7580,8 @@ overcome jealousy excitement apple earth uranus
 1
 7 0
 2
-0 25 0 9
 0 23 2 0
+0 25 0 9
 1
 end_operator
 begin_operator
@@ -7589,8 +7589,8 @@ overcome jealousy excitement apple saturn venus
 1
 7 0
 2
-0 25 0 9
 0 23 3 1
+0 25 0 9
 1
 end_operator
 begin_operator
@@ -7598,8 +7598,8 @@ overcome jealousy excitement apple uranus saturn
 1
 7 0
 2
-0 25 0 9
 0 23 1 2
+0 25 0 9
 1
 end_operator
 begin_operator
@@ -7607,8 +7607,8 @@ overcome jealousy excitement flounder earth uranus
 1
 7 1
 2
-0 25 1 9
 0 23 2 0
+0 25 1 9
 1
 end_operator
 begin_operator
@@ -7616,8 +7616,8 @@ overcome jealousy excitement flounder saturn venus
 1
 7 1
 2
-0 25 1 9
 0 23 3 1
+0 25 1 9
 1
 end_operator
 begin_operator
@@ -7625,8 +7625,8 @@ overcome jealousy excitement flounder uranus saturn
 1
 7 1
 2
-0 25 1 9
 0 23 1 2
+0 25 1 9
 1
 end_operator
 begin_operator
@@ -7634,8 +7634,8 @@ overcome jealousy excitement guava earth uranus
 1
 7 2
 2
-0 25 2 9
 0 23 2 0
+0 25 2 9
 1
 end_operator
 begin_operator
@@ -7643,8 +7643,8 @@ overcome jealousy excitement guava saturn venus
 1
 7 2
 2
-0 25 2 9
 0 23 3 1
+0 25 2 9
 1
 end_operator
 begin_operator
@@ -7652,8 +7652,8 @@ overcome jealousy excitement guava uranus saturn
 1
 7 2
 2
-0 25 2 9
 0 23 1 2
+0 25 2 9
 1
 end_operator
 begin_operator
@@ -7661,8 +7661,8 @@ overcome jealousy excitement hamburger earth uranus
 1
 7 3
 2
-0 25 3 9
 0 23 2 0
+0 25 3 9
 1
 end_operator
 begin_operator
@@ -7670,8 +7670,8 @@ overcome jealousy excitement hamburger saturn venus
 1
 7 3
 2
-0 25 3 9
 0 23 3 1
+0 25 3 9
 1
 end_operator
 begin_operator
@@ -7679,8 +7679,8 @@ overcome jealousy excitement hamburger uranus saturn
 1
 7 3
 2
-0 25 3 9
 0 23 1 2
+0 25 3 9
 1
 end_operator
 begin_operator
@@ -7688,8 +7688,8 @@ overcome jealousy excitement haroset earth uranus
 1
 7 4
 2
-0 25 4 9
 0 23 2 0
+0 25 4 9
 1
 end_operator
 begin_operator
@@ -7697,8 +7697,8 @@ overcome jealousy excitement haroset saturn venus
 1
 7 4
 2
-0 25 4 9
 0 23 3 1
+0 25 4 9
 1
 end_operator
 begin_operator
@@ -7706,8 +7706,8 @@ overcome jealousy excitement haroset uranus saturn
 1
 7 4
 2
-0 25 4 9
 0 23 1 2
+0 25 4 9
 1
 end_operator
 begin_operator
@@ -7715,8 +7715,8 @@ overcome jealousy excitement hotdog earth uranus
 1
 7 5
 2
-0 25 5 9
 0 23 2 0
+0 25 5 9
 1
 end_operator
 begin_operator
@@ -7724,8 +7724,8 @@ overcome jealousy excitement hotdog saturn venus
 1
 7 5
 2
-0 25 5 9
 0 23 3 1
+0 25 5 9
 1
 end_operator
 begin_operator
@@ -7733,8 +7733,8 @@ overcome jealousy excitement hotdog uranus saturn
 1
 7 5
 2
-0 25 5 9
 0 23 1 2
+0 25 5 9
 1
 end_operator
 begin_operator
@@ -7742,8 +7742,8 @@ overcome jealousy excitement wurst earth uranus
 1
 7 6
 2
-0 25 6 9
 0 23 2 0
+0 25 6 9
 1
 end_operator
 begin_operator
@@ -7751,8 +7751,8 @@ overcome jealousy excitement wurst saturn venus
 1
 7 6
 2
-0 25 6 9
 0 23 3 1
+0 25 6 9
 1
 end_operator
 begin_operator
@@ -7760,8 +7760,8 @@ overcome jealousy excitement wurst uranus saturn
 1
 7 6
 2
-0 25 6 9
 0 23 1 2
+0 25 6 9
 1
 end_operator
 begin_operator
@@ -7769,8 +7769,8 @@ overcome jealousy intoxication apple earth uranus
 1
 8 0
 2
-0 25 0 10
 0 24 2 0
+0 25 0 10
 1
 end_operator
 begin_operator
@@ -7778,8 +7778,8 @@ overcome jealousy intoxication apple saturn venus
 1
 8 0
 2
-0 25 0 10
 0 24 3 1
+0 25 0 10
 1
 end_operator
 begin_operator
@@ -7787,8 +7787,8 @@ overcome jealousy intoxication apple uranus saturn
 1
 8 0
 2
-0 25 0 10
 0 24 1 2
+0 25 0 10
 1
 end_operator
 begin_operator
@@ -7796,8 +7796,8 @@ overcome jealousy intoxication flounder earth uranus
 1
 8 1
 2
-0 25 1 10
 0 24 2 0
+0 25 1 10
 1
 end_operator
 begin_operator
@@ -7805,8 +7805,8 @@ overcome jealousy intoxication flounder saturn venus
 1
 8 1
 2
-0 25 1 10
 0 24 3 1
+0 25 1 10
 1
 end_operator
 begin_operator
@@ -7814,8 +7814,8 @@ overcome jealousy intoxication flounder uranus saturn
 1
 8 1
 2
-0 25 1 10
 0 24 1 2
+0 25 1 10
 1
 end_operator
 begin_operator
@@ -7823,8 +7823,8 @@ overcome jealousy intoxication guava earth uranus
 1
 8 2
 2
-0 25 2 10
 0 24 2 0
+0 25 2 10
 1
 end_operator
 begin_operator
@@ -7832,8 +7832,8 @@ overcome jealousy intoxication guava saturn venus
 1
 8 2
 2
-0 25 2 10
 0 24 3 1
+0 25 2 10
 1
 end_operator
 begin_operator
@@ -7841,8 +7841,8 @@ overcome jealousy intoxication guava uranus saturn
 1
 8 2
 2
-0 25 2 10
 0 24 1 2
+0 25 2 10
 1
 end_operator
 begin_operator
@@ -7850,8 +7850,8 @@ overcome jealousy intoxication hamburger earth uranus
 1
 8 3
 2
-0 25 3 10
 0 24 2 0
+0 25 3 10
 1
 end_operator
 begin_operator
@@ -7859,8 +7859,8 @@ overcome jealousy intoxication hamburger saturn venus
 1
 8 3
 2
-0 25 3 10
 0 24 3 1
+0 25 3 10
 1
 end_operator
 begin_operator
@@ -7868,8 +7868,8 @@ overcome jealousy intoxication hamburger uranus saturn
 1
 8 3
 2
-0 25 3 10
 0 24 1 2
+0 25 3 10
 1
 end_operator
 begin_operator
@@ -7877,8 +7877,8 @@ overcome jealousy intoxication haroset earth uranus
 1
 8 4
 2
-0 25 4 10
 0 24 2 0
+0 25 4 10
 1
 end_operator
 begin_operator
@@ -7886,8 +7886,8 @@ overcome jealousy intoxication haroset saturn venus
 1
 8 4
 2
-0 25 4 10
 0 24 3 1
+0 25 4 10
 1
 end_operator
 begin_operator
@@ -7895,8 +7895,8 @@ overcome jealousy intoxication haroset uranus saturn
 1
 8 4
 2
-0 25 4 10
 0 24 1 2
+0 25 4 10
 1
 end_operator
 begin_operator
@@ -7904,8 +7904,8 @@ overcome jealousy intoxication hotdog earth uranus
 1
 8 5
 2
-0 25 5 10
 0 24 2 0
+0 25 5 10
 1
 end_operator
 begin_operator
@@ -7913,8 +7913,8 @@ overcome jealousy intoxication hotdog saturn venus
 1
 8 5
 2
-0 25 5 10
 0 24 3 1
+0 25 5 10
 1
 end_operator
 begin_operator
@@ -7922,8 +7922,8 @@ overcome jealousy intoxication hotdog uranus saturn
 1
 8 5
 2
-0 25 5 10
 0 24 1 2
+0 25 5 10
 1
 end_operator
 begin_operator
@@ -7931,8 +7931,8 @@ overcome jealousy intoxication wurst earth uranus
 1
 8 6
 2
-0 25 6 10
 0 24 2 0
+0 25 6 10
 1
 end_operator
 begin_operator
@@ -7940,8 +7940,8 @@ overcome jealousy intoxication wurst saturn venus
 1
 8 6
 2
-0 25 6 10
 0 24 3 1
+0 25 6 10
 1
 end_operator
 begin_operator
@@ -7949,8 +7949,8 @@ overcome jealousy intoxication wurst uranus saturn
 1
 8 6
 2
-0 25 6 10
 0 24 1 2
+0 25 6 10
 1
 end_operator
 begin_operator
@@ -9470,8 +9470,8 @@ overcome prostatitis curiosity apple earth uranus
 1
 4 0
 2
-0 22 0 7
 0 20 2 0
+0 22 0 7
 1
 end_operator
 begin_operator
@@ -9479,8 +9479,8 @@ overcome prostatitis curiosity apple saturn venus
 1
 4 0
 2
-0 22 0 7
 0 20 3 1
+0 22 0 7
 1
 end_operator
 begin_operator
@@ -9488,8 +9488,8 @@ overcome prostatitis curiosity apple uranus saturn
 1
 4 0
 2
-0 22 0 7
 0 20 1 2
+0 22 0 7
 1
 end_operator
 begin_operator
@@ -9497,8 +9497,8 @@ overcome prostatitis curiosity flounder earth uranus
 1
 4 1
 2
-0 22 1 7
 0 20 2 0
+0 22 1 7
 1
 end_operator
 begin_operator
@@ -9506,8 +9506,8 @@ overcome prostatitis curiosity flounder saturn venus
 1
 4 1
 2
-0 22 1 7
 0 20 3 1
+0 22 1 7
 1
 end_operator
 begin_operator
@@ -9515,8 +9515,8 @@ overcome prostatitis curiosity flounder uranus saturn
 1
 4 1
 2
-0 22 1 7
 0 20 1 2
+0 22 1 7
 1
 end_operator
 begin_operator
@@ -9524,8 +9524,8 @@ overcome prostatitis curiosity guava earth uranus
 1
 4 2
 2
-0 22 2 7
 0 20 2 0
+0 22 2 7
 1
 end_operator
 begin_operator
@@ -9533,8 +9533,8 @@ overcome prostatitis curiosity guava saturn venus
 1
 4 2
 2
-0 22 2 7
 0 20 3 1
+0 22 2 7
 1
 end_operator
 begin_operator
@@ -9542,8 +9542,8 @@ overcome prostatitis curiosity guava uranus saturn
 1
 4 2
 2
-0 22 2 7
 0 20 1 2
+0 22 2 7
 1
 end_operator
 begin_operator
@@ -9551,8 +9551,8 @@ overcome prostatitis curiosity hamburger earth uranus
 1
 4 3
 2
-0 22 3 7
 0 20 2 0
+0 22 3 7
 1
 end_operator
 begin_operator
@@ -9560,8 +9560,8 @@ overcome prostatitis curiosity hamburger saturn venus
 1
 4 3
 2
-0 22 3 7
 0 20 3 1
+0 22 3 7
 1
 end_operator
 begin_operator
@@ -9569,8 +9569,8 @@ overcome prostatitis curiosity hamburger uranus saturn
 1
 4 3
 2
-0 22 3 7
 0 20 1 2
+0 22 3 7
 1
 end_operator
 begin_operator
@@ -9578,8 +9578,8 @@ overcome prostatitis curiosity haroset earth uranus
 1
 4 4
 2
-0 22 4 7
 0 20 2 0
+0 22 4 7
 1
 end_operator
 begin_operator
@@ -9587,8 +9587,8 @@ overcome prostatitis curiosity haroset saturn venus
 1
 4 4
 2
-0 22 4 7
 0 20 3 1
+0 22 4 7
 1
 end_operator
 begin_operator
@@ -9596,8 +9596,8 @@ overcome prostatitis curiosity haroset uranus saturn
 1
 4 4
 2
-0 22 4 7
 0 20 1 2
+0 22 4 7
 1
 end_operator
 begin_operator
@@ -9605,8 +9605,8 @@ overcome prostatitis curiosity hotdog earth uranus
 1
 4 5
 2
-0 22 5 7
 0 20 2 0
+0 22 5 7
 1
 end_operator
 begin_operator
@@ -9614,8 +9614,8 @@ overcome prostatitis curiosity hotdog saturn venus
 1
 4 5
 2
-0 22 5 7
 0 20 3 1
+0 22 5 7
 1
 end_operator
 begin_operator
@@ -9623,8 +9623,8 @@ overcome prostatitis curiosity hotdog uranus saturn
 1
 4 5
 2
-0 22 5 7
 0 20 1 2
+0 22 5 7
 1
 end_operator
 begin_operator
@@ -9632,8 +9632,8 @@ overcome prostatitis curiosity wurst earth uranus
 1
 4 6
 2
-0 22 6 7
 0 20 2 0
+0 22 6 7
 1
 end_operator
 begin_operator
@@ -9641,8 +9641,8 @@ overcome prostatitis curiosity wurst saturn venus
 1
 4 6
 2
-0 22 6 7
 0 20 3 1
+0 22 6 7
 1
 end_operator
 begin_operator
@@ -9650,8 +9650,8 @@ overcome prostatitis curiosity wurst uranus saturn
 1
 4 6
 2
-0 22 6 7
 0 20 1 2
+0 22 6 7
 1
 end_operator
 begin_operator
@@ -9659,8 +9659,8 @@ overcome prostatitis entertainment apple earth uranus
 1
 5 0
 2
-0 22 0 8
 0 21 2 0
+0 22 0 8
 1
 end_operator
 begin_operator
@@ -9668,8 +9668,8 @@ overcome prostatitis entertainment apple saturn venus
 1
 5 0
 2
-0 22 0 8
 0 21 3 1
+0 22 0 8
 1
 end_operator
 begin_operator
@@ -9677,8 +9677,8 @@ overcome prostatitis entertainment apple uranus saturn
 1
 5 0
 2
-0 22 0 8
 0 21 1 2
+0 22 0 8
 1
 end_operator
 begin_operator
@@ -9686,8 +9686,8 @@ overcome prostatitis entertainment flounder earth uranus
 1
 5 1
 2
-0 22 1 8
 0 21 2 0
+0 22 1 8
 1
 end_operator
 begin_operator
@@ -9695,8 +9695,8 @@ overcome prostatitis entertainment flounder saturn venus
 1
 5 1
 2
-0 22 1 8
 0 21 3 1
+0 22 1 8
 1
 end_operator
 begin_operator
@@ -9704,8 +9704,8 @@ overcome prostatitis entertainment flounder uranus saturn
 1
 5 1
 2
-0 22 1 8
 0 21 1 2
+0 22 1 8
 1
 end_operator
 begin_operator
@@ -9713,8 +9713,8 @@ overcome prostatitis entertainment guava earth uranus
 1
 5 2
 2
-0 22 2 8
 0 21 2 0
+0 22 2 8
 1
 end_operator
 begin_operator
@@ -9722,8 +9722,8 @@ overcome prostatitis entertainment guava saturn venus
 1
 5 2
 2
-0 22 2 8
 0 21 3 1
+0 22 2 8
 1
 end_operator
 begin_operator
@@ -9731,8 +9731,8 @@ overcome prostatitis entertainment guava uranus saturn
 1
 5 2
 2
-0 22 2 8
 0 21 1 2
+0 22 2 8
 1
 end_operator
 begin_operator
@@ -9740,8 +9740,8 @@ overcome prostatitis entertainment hamburger earth uranus
 1
 5 3
 2
-0 22 3 8
 0 21 2 0
+0 22 3 8
 1
 end_operator
 begin_operator
@@ -9749,8 +9749,8 @@ overcome prostatitis entertainment hamburger saturn venus
 1
 5 3
 2
-0 22 3 8
 0 21 3 1
+0 22 3 8
 1
 end_operator
 begin_operator
@@ -9758,8 +9758,8 @@ overcome prostatitis entertainment hamburger uranus saturn
 1
 5 3
 2
-0 22 3 8
 0 21 1 2
+0 22 3 8
 1
 end_operator
 begin_operator
@@ -9767,8 +9767,8 @@ overcome prostatitis entertainment haroset earth uranus
 1
 5 4
 2
-0 22 4 8
 0 21 2 0
+0 22 4 8
 1
 end_operator
 begin_operator
@@ -9776,8 +9776,8 @@ overcome prostatitis entertainment haroset saturn venus
 1
 5 4
 2
-0 22 4 8
 0 21 3 1
+0 22 4 8
 1
 end_operator
 begin_operator
@@ -9785,8 +9785,8 @@ overcome prostatitis entertainment haroset uranus saturn
 1
 5 4
 2
-0 22 4 8
 0 21 1 2
+0 22 4 8
 1
 end_operator
 begin_operator
@@ -9794,8 +9794,8 @@ overcome prostatitis entertainment hotdog earth uranus
 1
 5 5
 2
-0 22 5 8
 0 21 2 0
+0 22 5 8
 1
 end_operator
 begin_operator
@@ -9803,8 +9803,8 @@ overcome prostatitis entertainment hotdog saturn venus
 1
 5 5
 2
-0 22 5 8
 0 21 3 1
+0 22 5 8
 1
 end_operator
 begin_operator
@@ -9812,8 +9812,8 @@ overcome prostatitis entertainment hotdog uranus saturn
 1
 5 5
 2
-0 22 5 8
 0 21 1 2
+0 22 5 8
 1
 end_operator
 begin_operator
@@ -9821,8 +9821,8 @@ overcome prostatitis entertainment wurst earth uranus
 1
 5 6
 2
-0 22 6 8
 0 21 2 0
+0 22 6 8
 1
 end_operator
 begin_operator
@@ -9830,8 +9830,8 @@ overcome prostatitis entertainment wurst saturn venus
 1
 5 6
 2
-0 22 6 8
 0 21 3 1
+0 22 6 8
 1
 end_operator
 begin_operator
@@ -9839,8 +9839,8 @@ overcome prostatitis entertainment wurst uranus saturn
 1
 5 6
 2
-0 22 6 8
 0 21 1 2
+0 22 6 8
 1
 end_operator
 begin_operator
@@ -10226,8 +10226,8 @@ overcome sciatica curiosity apple earth uranus
 1
 4 0
 2
-0 26 0 7
 0 20 2 0
+0 26 0 7
 1
 end_operator
 begin_operator
@@ -10235,8 +10235,8 @@ overcome sciatica curiosity apple saturn venus
 1
 4 0
 2
-0 26 0 7
 0 20 3 1
+0 26 0 7
 1
 end_operator
 begin_operator
@@ -10244,8 +10244,8 @@ overcome sciatica curiosity apple uranus saturn
 1
 4 0
 2
-0 26 0 7
 0 20 1 2
+0 26 0 7
 1
 end_operator
 begin_operator
@@ -10253,8 +10253,8 @@ overcome sciatica curiosity flounder earth uranus
 1
 4 1
 2
-0 26 1 7
 0 20 2 0
+0 26 1 7
 1
 end_operator
 begin_operator
@@ -10262,8 +10262,8 @@ overcome sciatica curiosity flounder saturn venus
 1
 4 1
 2
-0 26 1 7
 0 20 3 1
+0 26 1 7
 1
 end_operator
 begin_operator
@@ -10271,8 +10271,8 @@ overcome sciatica curiosity flounder uranus saturn
 1
 4 1
 2
-0 26 1 7
 0 20 1 2
+0 26 1 7
 1
 end_operator
 begin_operator
@@ -10280,8 +10280,8 @@ overcome sciatica curiosity guava earth uranus
 1
 4 2
 2
-0 26 2 7
 0 20 2 0
+0 26 2 7
 1
 end_operator
 begin_operator
@@ -10289,8 +10289,8 @@ overcome sciatica curiosity guava saturn venus
 1
 4 2
 2
-0 26 2 7
 0 20 3 1
+0 26 2 7
 1
 end_operator
 begin_operator
@@ -10298,8 +10298,8 @@ overcome sciatica curiosity guava uranus saturn
 1
 4 2
 2
-0 26 2 7
 0 20 1 2
+0 26 2 7
 1
 end_operator
 begin_operator
@@ -10307,8 +10307,8 @@ overcome sciatica curiosity hamburger earth uranus
 1
 4 3
 2
-0 26 3 7
 0 20 2 0
+0 26 3 7
 1
 end_operator
 begin_operator
@@ -10316,8 +10316,8 @@ overcome sciatica curiosity hamburger saturn venus
 1
 4 3
 2
-0 26 3 7
 0 20 3 1
+0 26 3 7
 1
 end_operator
 begin_operator
@@ -10325,8 +10325,8 @@ overcome sciatica curiosity hamburger uranus saturn
 1
 4 3
 2
-0 26 3 7
 0 20 1 2
+0 26 3 7
 1
 end_operator
 begin_operator
@@ -10334,8 +10334,8 @@ overcome sciatica curiosity haroset earth uranus
 1
 4 4
 2
-0 26 4 7
 0 20 2 0
+0 26 4 7
 1
 end_operator
 begin_operator
@@ -10343,8 +10343,8 @@ overcome sciatica curiosity haroset saturn venus
 1
 4 4
 2
-0 26 4 7
 0 20 3 1
+0 26 4 7
 1
 end_operator
 begin_operator
@@ -10352,8 +10352,8 @@ overcome sciatica curiosity haroset uranus saturn
 1
 4 4
 2
-0 26 4 7
 0 20 1 2
+0 26 4 7
 1
 end_operator
 begin_operator
@@ -10361,8 +10361,8 @@ overcome sciatica curiosity hotdog earth uranus
 1
 4 5
 2
-0 26 5 7
 0 20 2 0
+0 26 5 7
 1
 end_operator
 begin_operator
@@ -10370,8 +10370,8 @@ overcome sciatica curiosity hotdog saturn venus
 1
 4 5
 2
-0 26 5 7
 0 20 3 1
+0 26 5 7
 1
 end_operator
 begin_operator
@@ -10379,8 +10379,8 @@ overcome sciatica curiosity hotdog uranus saturn
 1
 4 5
 2
-0 26 5 7
 0 20 1 2
+0 26 5 7
 1
 end_operator
 begin_operator
@@ -10388,8 +10388,8 @@ overcome sciatica curiosity wurst earth uranus
 1
 4 6
 2
-0 26 6 7
 0 20 2 0
+0 26 6 7
 1
 end_operator
 begin_operator
@@ -10397,8 +10397,8 @@ overcome sciatica curiosity wurst saturn venus
 1
 4 6
 2
-0 26 6 7
 0 20 3 1
+0 26 6 7
 1
 end_operator
 begin_operator
@@ -10406,8 +10406,8 @@ overcome sciatica curiosity wurst uranus saturn
 1
 4 6
 2
-0 26 6 7
 0 20 1 2
+0 26 6 7
 1
 end_operator
 begin_operator
@@ -10415,8 +10415,8 @@ overcome sciatica entertainment apple earth uranus
 1
 5 0
 2
-0 26 0 8
 0 21 2 0
+0 26 0 8
 1
 end_operator
 begin_operator
@@ -10424,8 +10424,8 @@ overcome sciatica entertainment apple saturn venus
 1
 5 0
 2
-0 26 0 8
 0 21 3 1
+0 26 0 8
 1
 end_operator
 begin_operator
@@ -10433,8 +10433,8 @@ overcome sciatica entertainment apple uranus saturn
 1
 5 0
 2
-0 26 0 8
 0 21 1 2
+0 26 0 8
 1
 end_operator
 begin_operator
@@ -10442,8 +10442,8 @@ overcome sciatica entertainment flounder earth uranus
 1
 5 1
 2
-0 26 1 8
 0 21 2 0
+0 26 1 8
 1
 end_operator
 begin_operator
@@ -10451,8 +10451,8 @@ overcome sciatica entertainment flounder saturn venus
 1
 5 1
 2
-0 26 1 8
 0 21 3 1
+0 26 1 8
 1
 end_operator
 begin_operator
@@ -10460,8 +10460,8 @@ overcome sciatica entertainment flounder uranus saturn
 1
 5 1
 2
-0 26 1 8
 0 21 1 2
+0 26 1 8
 1
 end_operator
 begin_operator
@@ -10469,8 +10469,8 @@ overcome sciatica entertainment guava earth uranus
 1
 5 2
 2
-0 26 2 8
 0 21 2 0
+0 26 2 8
 1
 end_operator
 begin_operator
@@ -10478,8 +10478,8 @@ overcome sciatica entertainment guava saturn venus
 1
 5 2
 2
-0 26 2 8
 0 21 3 1
+0 26 2 8
 1
 end_operator
 begin_operator
@@ -10487,8 +10487,8 @@ overcome sciatica entertainment guava uranus saturn
 1
 5 2
 2
-0 26 2 8
 0 21 1 2
+0 26 2 8
 1
 end_operator
 begin_operator
@@ -10496,8 +10496,8 @@ overcome sciatica entertainment hamburger earth uranus
 1
 5 3
 2
-0 26 3 8
 0 21 2 0
+0 26 3 8
 1
 end_operator
 begin_operator
@@ -10505,8 +10505,8 @@ overcome sciatica entertainment hamburger saturn venus
 1
 5 3
 2
-0 26 3 8
 0 21 3 1
+0 26 3 8
 1
 end_operator
 begin_operator
@@ -10514,8 +10514,8 @@ overcome sciatica entertainment hamburger uranus saturn
 1
 5 3
 2
-0 26 3 8
 0 21 1 2
+0 26 3 8
 1
 end_operator
 begin_operator
@@ -10523,8 +10523,8 @@ overcome sciatica entertainment haroset earth uranus
 1
 5 4
 2
-0 26 4 8
 0 21 2 0
+0 26 4 8
 1
 end_operator
 begin_operator
@@ -10532,8 +10532,8 @@ overcome sciatica entertainment haroset saturn venus
 1
 5 4
 2
-0 26 4 8
 0 21 3 1
+0 26 4 8
 1
 end_operator
 begin_operator
@@ -10541,8 +10541,8 @@ overcome sciatica entertainment haroset uranus saturn
 1
 5 4
 2
-0 26 4 8
 0 21 1 2
+0 26 4 8
 1
 end_operator
 begin_operator
@@ -10550,8 +10550,8 @@ overcome sciatica entertainment hotdog earth uranus
 1
 5 5
 2
-0 26 5 8
 0 21 2 0
+0 26 5 8
 1
 end_operator
 begin_operator
@@ -10559,8 +10559,8 @@ overcome sciatica entertainment hotdog saturn venus
 1
 5 5
 2
-0 26 5 8
 0 21 3 1
+0 26 5 8
 1
 end_operator
 begin_operator
@@ -10568,8 +10568,8 @@ overcome sciatica entertainment hotdog uranus saturn
 1
 5 5
 2
-0 26 5 8
 0 21 1 2
+0 26 5 8
 1
 end_operator
 begin_operator
@@ -10577,8 +10577,8 @@ overcome sciatica entertainment wurst earth uranus
 1
 5 6
 2
-0 26 6 8
 0 21 2 0
+0 26 6 8
 1
 end_operator
 begin_operator
@@ -10586,8 +10586,8 @@ overcome sciatica entertainment wurst saturn venus
 1
 5 6
 2
-0 26 6 8
 0 21 3 1
+0 26 6 8
 1
 end_operator
 begin_operator
@@ -10595,8 +10595,8 @@ overcome sciatica entertainment wurst uranus saturn
 1
 5 6
 2
-0 26 6 8
 0 21 1 2
+0 26 6 8
 1
 end_operator
 begin_operator
@@ -10604,8 +10604,8 @@ overcome sciatica excitement apple earth uranus
 1
 7 0
 2
-0 26 0 9
 0 23 2 0
+0 26 0 9
 1
 end_operator
 begin_operator
@@ -10613,8 +10613,8 @@ overcome sciatica excitement apple saturn venus
 1
 7 0
 2
-0 26 0 9
 0 23 3 1
+0 26 0 9
 1
 end_operator
 begin_operator
@@ -10622,8 +10622,8 @@ overcome sciatica excitement apple uranus saturn
 1
 7 0
 2
-0 26 0 9
 0 23 1 2
+0 26 0 9
 1
 end_operator
 begin_operator
@@ -10631,8 +10631,8 @@ overcome sciatica excitement flounder earth uranus
 1
 7 1
 2
-0 26 1 9
 0 23 2 0
+0 26 1 9
 1
 end_operator
 begin_operator
@@ -10640,8 +10640,8 @@ overcome sciatica excitement flounder saturn venus
 1
 7 1
 2
-0 26 1 9
 0 23 3 1
+0 26 1 9
 1
 end_operator
 begin_operator
@@ -10649,8 +10649,8 @@ overcome sciatica excitement flounder uranus saturn
 1
 7 1
 2
-0 26 1 9
 0 23 1 2
+0 26 1 9
 1
 end_operator
 begin_operator
@@ -10658,8 +10658,8 @@ overcome sciatica excitement guava earth uranus
 1
 7 2
 2
-0 26 2 9
 0 23 2 0
+0 26 2 9
 1
 end_operator
 begin_operator
@@ -10667,8 +10667,8 @@ overcome sciatica excitement guava saturn venus
 1
 7 2
 2
-0 26 2 9
 0 23 3 1
+0 26 2 9
 1
 end_operator
 begin_operator
@@ -10676,8 +10676,8 @@ overcome sciatica excitement guava uranus saturn
 1
 7 2
 2
-0 26 2 9
 0 23 1 2
+0 26 2 9
 1
 end_operator
 begin_operator
@@ -10685,8 +10685,8 @@ overcome sciatica excitement hamburger earth uranus
 1
 7 3
 2
-0 26 3 9
 0 23 2 0
+0 26 3 9
 1
 end_operator
 begin_operator
@@ -10694,8 +10694,8 @@ overcome sciatica excitement hamburger saturn venus
 1
 7 3
 2
-0 26 3 9
 0 23 3 1
+0 26 3 9
 1
 end_operator
 begin_operator
@@ -10703,8 +10703,8 @@ overcome sciatica excitement hamburger uranus saturn
 1
 7 3
 2
-0 26 3 9
 0 23 1 2
+0 26 3 9
 1
 end_operator
 begin_operator
@@ -10712,8 +10712,8 @@ overcome sciatica excitement haroset earth uranus
 1
 7 4
 2
-0 26 4 9
 0 23 2 0
+0 26 4 9
 1
 end_operator
 begin_operator
@@ -10721,8 +10721,8 @@ overcome sciatica excitement haroset saturn venus
 1
 7 4
 2
-0 26 4 9
 0 23 3 1
+0 26 4 9
 1
 end_operator
 begin_operator
@@ -10730,8 +10730,8 @@ overcome sciatica excitement haroset uranus saturn
 1
 7 4
 2
-0 26 4 9
 0 23 1 2
+0 26 4 9
 1
 end_operator
 begin_operator
@@ -10739,8 +10739,8 @@ overcome sciatica excitement hotdog earth uranus
 1
 7 5
 2
-0 26 5 9
 0 23 2 0
+0 26 5 9
 1
 end_operator
 begin_operator
@@ -10748,8 +10748,8 @@ overcome sciatica excitement hotdog saturn venus
 1
 7 5
 2
-0 26 5 9
 0 23 3 1
+0 26 5 9
 1
 end_operator
 begin_operator
@@ -10757,8 +10757,8 @@ overcome sciatica excitement hotdog uranus saturn
 1
 7 5
 2
-0 26 5 9
 0 23 1 2
+0 26 5 9
 1
 end_operator
 begin_operator
@@ -10766,8 +10766,8 @@ overcome sciatica excitement wurst earth uranus
 1
 7 6
 2
-0 26 6 9
 0 23 2 0
+0 26 6 9
 1
 end_operator
 begin_operator
@@ -10775,8 +10775,8 @@ overcome sciatica excitement wurst saturn venus
 1
 7 6
 2
-0 26 6 9
 0 23 3 1
+0 26 6 9
 1
 end_operator
 begin_operator
@@ -10784,8 +10784,8 @@ overcome sciatica excitement wurst uranus saturn
 1
 7 6
 2
-0 26 6 9
 0 23 1 2
+0 26 6 9
 1
 end_operator
 begin_operator
@@ -10793,8 +10793,8 @@ overcome sciatica intoxication apple earth uranus
 1
 8 0
 2
-0 26 0 10
 0 24 2 0
+0 26 0 10
 1
 end_operator
 begin_operator
@@ -10802,8 +10802,8 @@ overcome sciatica intoxication apple saturn venus
 1
 8 0
 2
-0 26 0 10
 0 24 3 1
+0 26 0 10
 1
 end_operator
 begin_operator
@@ -10811,8 +10811,8 @@ overcome sciatica intoxication apple uranus saturn
 1
 8 0
 2
-0 26 0 10
 0 24 1 2
+0 26 0 10
 1
 end_operator
 begin_operator
@@ -10820,8 +10820,8 @@ overcome sciatica intoxication flounder earth uranus
 1
 8 1
 2
-0 26 1 10
 0 24 2 0
+0 26 1 10
 1
 end_operator
 begin_operator
@@ -10829,8 +10829,8 @@ overcome sciatica intoxication flounder saturn venus
 1
 8 1
 2
-0 26 1 10
 0 24 3 1
+0 26 1 10
 1
 end_operator
 begin_operator
@@ -10838,8 +10838,8 @@ overcome sciatica intoxication flounder uranus saturn
 1
 8 1
 2
-0 26 1 10
 0 24 1 2
+0 26 1 10
 1
 end_operator
 begin_operator
@@ -10847,8 +10847,8 @@ overcome sciatica intoxication guava earth uranus
 1
 8 2
 2
-0 26 2 10
 0 24 2 0
+0 26 2 10
 1
 end_operator
 begin_operator
@@ -10856,8 +10856,8 @@ overcome sciatica intoxication guava saturn venus
 1
 8 2
 2
-0 26 2 10
 0 24 3 1
+0 26 2 10
 1
 end_operator
 begin_operator
@@ -10865,8 +10865,8 @@ overcome sciatica intoxication guava uranus saturn
 1
 8 2
 2
-0 26 2 10
 0 24 1 2
+0 26 2 10
 1
 end_operator
 begin_operator
@@ -10874,8 +10874,8 @@ overcome sciatica intoxication hamburger earth uranus
 1
 8 3
 2
-0 26 3 10
 0 24 2 0
+0 26 3 10
 1
 end_operator
 begin_operator
@@ -10883,8 +10883,8 @@ overcome sciatica intoxication hamburger saturn venus
 1
 8 3
 2
-0 26 3 10
 0 24 3 1
+0 26 3 10
 1
 end_operator
 begin_operator
@@ -10892,8 +10892,8 @@ overcome sciatica intoxication hamburger uranus saturn
 1
 8 3
 2
-0 26 3 10
 0 24 1 2
+0 26 3 10
 1
 end_operator
 begin_operator
@@ -10901,8 +10901,8 @@ overcome sciatica intoxication haroset earth uranus
 1
 8 4
 2
-0 26 4 10
 0 24 2 0
+0 26 4 10
 1
 end_operator
 begin_operator
@@ -10910,8 +10910,8 @@ overcome sciatica intoxication haroset saturn venus
 1
 8 4
 2
-0 26 4 10
 0 24 3 1
+0 26 4 10
 1
 end_operator
 begin_operator
@@ -10919,8 +10919,8 @@ overcome sciatica intoxication haroset uranus saturn
 1
 8 4
 2
-0 26 4 10
 0 24 1 2
+0 26 4 10
 1
 end_operator
 begin_operator
@@ -10928,8 +10928,8 @@ overcome sciatica intoxication hotdog earth uranus
 1
 8 5
 2
-0 26 5 10
 0 24 2 0
+0 26 5 10
 1
 end_operator
 begin_operator
@@ -10937,8 +10937,8 @@ overcome sciatica intoxication hotdog saturn venus
 1
 8 5
 2
-0 26 5 10
 0 24 3 1
+0 26 5 10
 1
 end_operator
 begin_operator
@@ -10946,8 +10946,8 @@ overcome sciatica intoxication hotdog uranus saturn
 1
 8 5
 2
-0 26 5 10
 0 24 1 2
+0 26 5 10
 1
 end_operator
 begin_operator
@@ -10955,8 +10955,8 @@ overcome sciatica intoxication wurst earth uranus
 1
 8 6
 2
-0 26 6 10
 0 24 2 0
+0 26 6 10
 1
 end_operator
 begin_operator
@@ -10964,8 +10964,8 @@ overcome sciatica intoxication wurst saturn venus
 1
 8 6
 2
-0 26 6 10
 0 24 3 1
+0 26 6 10
 1
 end_operator
 begin_operator
@@ -10973,8 +10973,8 @@ overcome sciatica intoxication wurst uranus saturn
 1
 8 6
 2
-0 26 6 10
 0 24 1 2
+0 26 6 10
 1
 end_operator
 begin_operator
@@ -17030,8 +17030,8 @@ succumb jealousy curiosity apple earth uranus
 1
 4 0
 2
-0 25 7 0
 0 20 0 2
+0 25 7 0
 1
 end_operator
 begin_operator
@@ -17039,8 +17039,8 @@ succumb jealousy curiosity apple saturn venus
 1
 4 0
 2
-0 25 7 0
 0 20 1 3
+0 25 7 0
 1
 end_operator
 begin_operator
@@ -17048,8 +17048,8 @@ succumb jealousy curiosity apple uranus saturn
 1
 4 0
 2
-0 25 7 0
 0 20 2 1
+0 25 7 0
 1
 end_operator
 begin_operator
@@ -17057,8 +17057,8 @@ succumb jealousy curiosity flounder earth uranus
 1
 4 1
 2
-0 25 7 1
 0 20 0 2
+0 25 7 1
 1
 end_operator
 begin_operator
@@ -17066,8 +17066,8 @@ succumb jealousy curiosity flounder saturn venus
 1
 4 1
 2
-0 25 7 1
 0 20 1 3
+0 25 7 1
 1
 end_operator
 begin_operator
@@ -17075,8 +17075,8 @@ succumb jealousy curiosity flounder uranus saturn
 1
 4 1
 2
-0 25 7 1
 0 20 2 1
+0 25 7 1
 1
 end_operator
 begin_operator
@@ -17084,8 +17084,8 @@ succumb jealousy curiosity guava earth uranus
 1
 4 2
 2
-0 25 7 2
 0 20 0 2
+0 25 7 2
 1
 end_operator
 begin_operator
@@ -17093,8 +17093,8 @@ succumb jealousy curiosity guava saturn venus
 1
 4 2
 2
-0 25 7 2
 0 20 1 3
+0 25 7 2
 1
 end_operator
 begin_operator
@@ -17102,8 +17102,8 @@ succumb jealousy curiosity guava uranus saturn
 1
 4 2
 2
-0 25 7 2
 0 20 2 1
+0 25 7 2
 1
 end_operator
 begin_operator
@@ -17111,8 +17111,8 @@ succumb jealousy curiosity hamburger earth uranus
 1
 4 3
 2
-0 25 7 3
 0 20 0 2
+0 25 7 3
 1
 end_operator
 begin_operator
@@ -17120,8 +17120,8 @@ succumb jealousy curiosity hamburger saturn venus
 1
 4 3
 2
-0 25 7 3
 0 20 1 3
+0 25 7 3
 1
 end_operator
 begin_operator
@@ -17129,8 +17129,8 @@ succumb jealousy curiosity hamburger uranus saturn
 1
 4 3
 2
-0 25 7 3
 0 20 2 1
+0 25 7 3
 1
 end_operator
 begin_operator
@@ -17138,8 +17138,8 @@ succumb jealousy curiosity haroset earth uranus
 1
 4 4
 2
-0 25 7 4
 0 20 0 2
+0 25 7 4
 1
 end_operator
 begin_operator
@@ -17147,8 +17147,8 @@ succumb jealousy curiosity haroset saturn venus
 1
 4 4
 2
-0 25 7 4
 0 20 1 3
+0 25 7 4
 1
 end_operator
 begin_operator
@@ -17156,8 +17156,8 @@ succumb jealousy curiosity haroset uranus saturn
 1
 4 4
 2
-0 25 7 4
 0 20 2 1
+0 25 7 4
 1
 end_operator
 begin_operator
@@ -17165,8 +17165,8 @@ succumb jealousy curiosity hotdog earth uranus
 1
 4 5
 2
-0 25 7 5
 0 20 0 2
+0 25 7 5
 1
 end_operator
 begin_operator
@@ -17174,8 +17174,8 @@ succumb jealousy curiosity hotdog saturn venus
 1
 4 5
 2
-0 25 7 5
 0 20 1 3
+0 25 7 5
 1
 end_operator
 begin_operator
@@ -17183,8 +17183,8 @@ succumb jealousy curiosity hotdog uranus saturn
 1
 4 5
 2
-0 25 7 5
 0 20 2 1
+0 25 7 5
 1
 end_operator
 begin_operator
@@ -17192,8 +17192,8 @@ succumb jealousy curiosity wurst earth uranus
 1
 4 6
 2
-0 25 7 6
 0 20 0 2
+0 25 7 6
 1
 end_operator
 begin_operator
@@ -17201,8 +17201,8 @@ succumb jealousy curiosity wurst saturn venus
 1
 4 6
 2
-0 25 7 6
 0 20 1 3
+0 25 7 6
 1
 end_operator
 begin_operator
@@ -17210,8 +17210,8 @@ succumb jealousy curiosity wurst uranus saturn
 1
 4 6
 2
-0 25 7 6
 0 20 2 1
+0 25 7 6
 1
 end_operator
 begin_operator
@@ -17219,8 +17219,8 @@ succumb jealousy entertainment apple earth uranus
 1
 5 0
 2
-0 25 8 0
 0 21 0 2
+0 25 8 0
 1
 end_operator
 begin_operator
@@ -17228,8 +17228,8 @@ succumb jealousy entertainment apple saturn venus
 1
 5 0
 2
-0 25 8 0
 0 21 1 3
+0 25 8 0
 1
 end_operator
 begin_operator
@@ -17237,8 +17237,8 @@ succumb jealousy entertainment apple uranus saturn
 1
 5 0
 2
-0 25 8 0
 0 21 2 1
+0 25 8 0
 1
 end_operator
 begin_operator
@@ -17246,8 +17246,8 @@ succumb jealousy entertainment flounder earth uranus
 1
 5 1
 2
-0 25 8 1
 0 21 0 2
+0 25 8 1
 1
 end_operator
 begin_operator
@@ -17255,8 +17255,8 @@ succumb jealousy entertainment flounder saturn venus
 1
 5 1
 2
-0 25 8 1
 0 21 1 3
+0 25 8 1
 1
 end_operator
 begin_operator
@@ -17264,8 +17264,8 @@ succumb jealousy entertainment flounder uranus saturn
 1
 5 1
 2
-0 25 8 1
 0 21 2 1
+0 25 8 1
 1
 end_operator
 begin_operator
@@ -17273,8 +17273,8 @@ succumb jealousy entertainment guava earth uranus
 1
 5 2
 2
-0 25 8 2
 0 21 0 2
+0 25 8 2
 1
 end_operator
 begin_operator
@@ -17282,8 +17282,8 @@ succumb jealousy entertainment guava saturn venus
 1
 5 2
 2
-0 25 8 2
 0 21 1 3
+0 25 8 2
 1
 end_operator
 begin_operator
@@ -17291,8 +17291,8 @@ succumb jealousy entertainment guava uranus saturn
 1
 5 2
 2
-0 25 8 2
 0 21 2 1
+0 25 8 2
 1
 end_operator
 begin_operator
@@ -17300,8 +17300,8 @@ succumb jealousy entertainment hamburger earth uranus
 1
 5 3
 2
-0 25 8 3
 0 21 0 2
+0 25 8 3
 1
 end_operator
 begin_operator
@@ -17309,8 +17309,8 @@ succumb jealousy entertainment hamburger saturn venus
 1
 5 3
 2
-0 25 8 3
 0 21 1 3
+0 25 8 3
 1
 end_operator
 begin_operator
@@ -17318,8 +17318,8 @@ succumb jealousy entertainment hamburger uranus saturn
 1
 5 3
 2
-0 25 8 3
 0 21 2 1
+0 25 8 3
 1
 end_operator
 begin_operator
@@ -17327,8 +17327,8 @@ succumb jealousy entertainment haroset earth uranus
 1
 5 4
 2
-0 25 8 4
 0 21 0 2
+0 25 8 4
 1
 end_operator
 begin_operator
@@ -17336,8 +17336,8 @@ succumb jealousy entertainment haroset saturn venus
 1
 5 4
 2
-0 25 8 4
 0 21 1 3
+0 25 8 4
 1
 end_operator
 begin_operator
@@ -17345,8 +17345,8 @@ succumb jealousy entertainment haroset uranus saturn
 1
 5 4
 2
-0 25 8 4
 0 21 2 1
+0 25 8 4
 1
 end_operator
 begin_operator
@@ -17354,8 +17354,8 @@ succumb jealousy entertainment hotdog earth uranus
 1
 5 5
 2
-0 25 8 5
 0 21 0 2
+0 25 8 5
 1
 end_operator
 begin_operator
@@ -17363,8 +17363,8 @@ succumb jealousy entertainment hotdog saturn venus
 1
 5 5
 2
-0 25 8 5
 0 21 1 3
+0 25 8 5
 1
 end_operator
 begin_operator
@@ -17372,8 +17372,8 @@ succumb jealousy entertainment hotdog uranus saturn
 1
 5 5
 2
-0 25 8 5
 0 21 2 1
+0 25 8 5
 1
 end_operator
 begin_operator
@@ -17381,8 +17381,8 @@ succumb jealousy entertainment wurst earth uranus
 1
 5 6
 2
-0 25 8 6
 0 21 0 2
+0 25 8 6
 1
 end_operator
 begin_operator
@@ -17390,8 +17390,8 @@ succumb jealousy entertainment wurst saturn venus
 1
 5 6
 2
-0 25 8 6
 0 21 1 3
+0 25 8 6
 1
 end_operator
 begin_operator
@@ -17399,8 +17399,8 @@ succumb jealousy entertainment wurst uranus saturn
 1
 5 6
 2
-0 25 8 6
 0 21 2 1
+0 25 8 6
 1
 end_operator
 begin_operator
@@ -17408,8 +17408,8 @@ succumb jealousy excitement apple earth uranus
 1
 7 0
 2
-0 25 9 0
 0 23 0 2
+0 25 9 0
 1
 end_operator
 begin_operator
@@ -17417,8 +17417,8 @@ succumb jealousy excitement apple saturn venus
 1
 7 0
 2
-0 25 9 0
 0 23 1 3
+0 25 9 0
 1
 end_operator
 begin_operator
@@ -17426,8 +17426,8 @@ succumb jealousy excitement apple uranus saturn
 1
 7 0
 2
-0 25 9 0
 0 23 2 1
+0 25 9 0
 1
 end_operator
 begin_operator
@@ -17435,8 +17435,8 @@ succumb jealousy excitement flounder earth uranus
 1
 7 1
 2
-0 25 9 1
 0 23 0 2
+0 25 9 1
 1
 end_operator
 begin_operator
@@ -17444,8 +17444,8 @@ succumb jealousy excitement flounder saturn venus
 1
 7 1
 2
-0 25 9 1
 0 23 1 3
+0 25 9 1
 1
 end_operator
 begin_operator
@@ -17453,8 +17453,8 @@ succumb jealousy excitement flounder uranus saturn
 1
 7 1
 2
-0 25 9 1
 0 23 2 1
+0 25 9 1
 1
 end_operator
 begin_operator
@@ -17462,8 +17462,8 @@ succumb jealousy excitement guava earth uranus
 1
 7 2
 2
-0 25 9 2
 0 23 0 2
+0 25 9 2
 1
 end_operator
 begin_operator
@@ -17471,8 +17471,8 @@ succumb jealousy excitement guava saturn venus
 1
 7 2
 2
-0 25 9 2
 0 23 1 3
+0 25 9 2
 1
 end_operator
 begin_operator
@@ -17480,8 +17480,8 @@ succumb jealousy excitement guava uranus saturn
 1
 7 2
 2
-0 25 9 2
 0 23 2 1
+0 25 9 2
 1
 end_operator
 begin_operator
@@ -17489,8 +17489,8 @@ succumb jealousy excitement hamburger earth uranus
 1
 7 3
 2
-0 25 9 3
 0 23 0 2
+0 25 9 3
 1
 end_operator
 begin_operator
@@ -17498,8 +17498,8 @@ succumb jealousy excitement hamburger saturn venus
 1
 7 3
 2
-0 25 9 3
 0 23 1 3
+0 25 9 3
 1
 end_operator
 begin_operator
@@ -17507,8 +17507,8 @@ succumb jealousy excitement hamburger uranus saturn
 1
 7 3
 2
-0 25 9 3
 0 23 2 1
+0 25 9 3
 1
 end_operator
 begin_operator
@@ -17516,8 +17516,8 @@ succumb jealousy excitement haroset earth uranus
 1
 7 4
 2
-0 25 9 4
 0 23 0 2
+0 25 9 4
 1
 end_operator
 begin_operator
@@ -17525,8 +17525,8 @@ succumb jealousy excitement haroset saturn venus
 1
 7 4
 2
-0 25 9 4
 0 23 1 3
+0 25 9 4
 1
 end_operator
 begin_operator
@@ -17534,8 +17534,8 @@ succumb jealousy excitement haroset uranus saturn
 1
 7 4
 2
-0 25 9 4
 0 23 2 1
+0 25 9 4
 1
 end_operator
 begin_operator
@@ -17543,8 +17543,8 @@ succumb jealousy excitement hotdog earth uranus
 1
 7 5
 2
-0 25 9 5
 0 23 0 2
+0 25 9 5
 1
 end_operator
 begin_operator
@@ -17552,8 +17552,8 @@ succumb jealousy excitement hotdog saturn venus
 1
 7 5
 2
-0 25 9 5
 0 23 1 3
+0 25 9 5
 1
 end_operator
 begin_operator
@@ -17561,8 +17561,8 @@ succumb jealousy excitement hotdog uranus saturn
 1
 7 5
 2
-0 25 9 5
 0 23 2 1
+0 25 9 5
 1
 end_operator
 begin_operator
@@ -17570,8 +17570,8 @@ succumb jealousy excitement wurst earth uranus
 1
 7 6
 2
-0 25 9 6
 0 23 0 2
+0 25 9 6
 1
 end_operator
 begin_operator
@@ -17579,8 +17579,8 @@ succumb jealousy excitement wurst saturn venus
 1
 7 6
 2
-0 25 9 6
 0 23 1 3
+0 25 9 6
 1
 end_operator
 begin_operator
@@ -17588,8 +17588,8 @@ succumb jealousy excitement wurst uranus saturn
 1
 7 6
 2
-0 25 9 6
 0 23 2 1
+0 25 9 6
 1
 end_operator
 begin_operator
@@ -17597,8 +17597,8 @@ succumb jealousy intoxication apple earth uranus
 1
 8 0
 2
-0 25 10 0
 0 24 0 2
+0 25 10 0
 1
 end_operator
 begin_operator
@@ -17606,8 +17606,8 @@ succumb jealousy intoxication apple saturn venus
 1
 8 0
 2
-0 25 10 0
 0 24 1 3
+0 25 10 0
 1
 end_operator
 begin_operator
@@ -17615,8 +17615,8 @@ succumb jealousy intoxication apple uranus saturn
 1
 8 0
 2
-0 25 10 0
 0 24 2 1
+0 25 10 0
 1
 end_operator
 begin_operator
@@ -17624,8 +17624,8 @@ succumb jealousy intoxication flounder earth uranus
 1
 8 1
 2
-0 25 10 1
 0 24 0 2
+0 25 10 1
 1
 end_operator
 begin_operator
@@ -17633,8 +17633,8 @@ succumb jealousy intoxication flounder saturn venus
 1
 8 1
 2
-0 25 10 1
 0 24 1 3
+0 25 10 1
 1
 end_operator
 begin_operator
@@ -17642,8 +17642,8 @@ succumb jealousy intoxication flounder uranus saturn
 1
 8 1
 2
-0 25 10 1
 0 24 2 1
+0 25 10 1
 1
 end_operator
 begin_operator
@@ -17651,8 +17651,8 @@ succumb jealousy intoxication guava earth uranus
 1
 8 2
 2
-0 25 10 2
 0 24 0 2
+0 25 10 2
 1
 end_operator
 begin_operator
@@ -17660,8 +17660,8 @@ succumb jealousy intoxication guava saturn venus
 1
 8 2
 2
-0 25 10 2
 0 24 1 3
+0 25 10 2
 1
 end_operator
 begin_operator
@@ -17669,8 +17669,8 @@ succumb jealousy intoxication guava uranus saturn
 1
 8 2
 2
-0 25 10 2
 0 24 2 1
+0 25 10 2
 1
 end_operator
 begin_operator
@@ -17678,8 +17678,8 @@ succumb jealousy intoxication hamburger earth uranus
 1
 8 3
 2
-0 25 10 3
 0 24 0 2
+0 25 10 3
 1
 end_operator
 begin_operator
@@ -17687,8 +17687,8 @@ succumb jealousy intoxication hamburger saturn venus
 1
 8 3
 2
-0 25 10 3
 0 24 1 3
+0 25 10 3
 1
 end_operator
 begin_operator
@@ -17696,8 +17696,8 @@ succumb jealousy intoxication hamburger uranus saturn
 1
 8 3
 2
-0 25 10 3
 0 24 2 1
+0 25 10 3
 1
 end_operator
 begin_operator
@@ -17705,8 +17705,8 @@ succumb jealousy intoxication haroset earth uranus
 1
 8 4
 2
-0 25 10 4
 0 24 0 2
+0 25 10 4
 1
 end_operator
 begin_operator
@@ -17714,8 +17714,8 @@ succumb jealousy intoxication haroset saturn venus
 1
 8 4
 2
-0 25 10 4
 0 24 1 3
+0 25 10 4
 1
 end_operator
 begin_operator
@@ -17723,8 +17723,8 @@ succumb jealousy intoxication haroset uranus saturn
 1
 8 4
 2
-0 25 10 4
 0 24 2 1
+0 25 10 4
 1
 end_operator
 begin_operator
@@ -17732,8 +17732,8 @@ succumb jealousy intoxication hotdog earth uranus
 1
 8 5
 2
-0 25 10 5
 0 24 0 2
+0 25 10 5
 1
 end_operator
 begin_operator
@@ -17741,8 +17741,8 @@ succumb jealousy intoxication hotdog saturn venus
 1
 8 5
 2
-0 25 10 5
 0 24 1 3
+0 25 10 5
 1
 end_operator
 begin_operator
@@ -17750,8 +17750,8 @@ succumb jealousy intoxication hotdog uranus saturn
 1
 8 5
 2
-0 25 10 5
 0 24 2 1
+0 25 10 5
 1
 end_operator
 begin_operator
@@ -17759,8 +17759,8 @@ succumb jealousy intoxication wurst earth uranus
 1
 8 6
 2
-0 25 10 6
 0 24 0 2
+0 25 10 6
 1
 end_operator
 begin_operator
@@ -17768,8 +17768,8 @@ succumb jealousy intoxication wurst saturn venus
 1
 8 6
 2
-0 25 10 6
 0 24 1 3
+0 25 10 6
 1
 end_operator
 begin_operator
@@ -17777,8 +17777,8 @@ succumb jealousy intoxication wurst uranus saturn
 1
 8 6
 2
-0 25 10 6
 0 24 2 1
+0 25 10 6
 1
 end_operator
 begin_operator
@@ -19298,8 +19298,8 @@ succumb prostatitis curiosity apple earth uranus
 1
 4 0
 2
-0 22 7 0
 0 20 0 2
+0 22 7 0
 1
 end_operator
 begin_operator
@@ -19307,8 +19307,8 @@ succumb prostatitis curiosity apple saturn venus
 1
 4 0
 2
-0 22 7 0
 0 20 1 3
+0 22 7 0
 1
 end_operator
 begin_operator
@@ -19316,8 +19316,8 @@ succumb prostatitis curiosity apple uranus saturn
 1
 4 0
 2
-0 22 7 0
 0 20 2 1
+0 22 7 0
 1
 end_operator
 begin_operator
@@ -19325,8 +19325,8 @@ succumb prostatitis curiosity flounder earth uranus
 1
 4 1
 2
-0 22 7 1
 0 20 0 2
+0 22 7 1
 1
 end_operator
 begin_operator
@@ -19334,8 +19334,8 @@ succumb prostatitis curiosity flounder saturn venus
 1
 4 1
 2
-0 22 7 1
 0 20 1 3
+0 22 7 1
 1
 end_operator
 begin_operator
@@ -19343,8 +19343,8 @@ succumb prostatitis curiosity flounder uranus saturn
 1
 4 1
 2
-0 22 7 1
 0 20 2 1
+0 22 7 1
 1
 end_operator
 begin_operator
@@ -19352,8 +19352,8 @@ succumb prostatitis curiosity guava earth uranus
 1
 4 2
 2
-0 22 7 2
 0 20 0 2
+0 22 7 2
 1
 end_operator
 begin_operator
@@ -19361,8 +19361,8 @@ succumb prostatitis curiosity guava saturn venus
 1
 4 2
 2
-0 22 7 2
 0 20 1 3
+0 22 7 2
 1
 end_operator
 begin_operator
@@ -19370,8 +19370,8 @@ succumb prostatitis curiosity guava uranus saturn
 1
 4 2
 2
-0 22 7 2
 0 20 2 1
+0 22 7 2
 1
 end_operator
 begin_operator
@@ -19379,8 +19379,8 @@ succumb prostatitis curiosity hamburger earth uranus
 1
 4 3
 2
-0 22 7 3
 0 20 0 2
+0 22 7 3
 1
 end_operator
 begin_operator
@@ -19388,8 +19388,8 @@ succumb prostatitis curiosity hamburger saturn venus
 1
 4 3
 2
-0 22 7 3
 0 20 1 3
+0 22 7 3
 1
 end_operator
 begin_operator
@@ -19397,8 +19397,8 @@ succumb prostatitis curiosity hamburger uranus saturn
 1
 4 3
 2
-0 22 7 3
 0 20 2 1
+0 22 7 3
 1
 end_operator
 begin_operator
@@ -19406,8 +19406,8 @@ succumb prostatitis curiosity haroset earth uranus
 1
 4 4
 2
-0 22 7 4
 0 20 0 2
+0 22 7 4
 1
 end_operator
 begin_operator
@@ -19415,8 +19415,8 @@ succumb prostatitis curiosity haroset saturn venus
 1
 4 4
 2
-0 22 7 4
 0 20 1 3
+0 22 7 4
 1
 end_operator
 begin_operator
@@ -19424,8 +19424,8 @@ succumb prostatitis curiosity haroset uranus saturn
 1
 4 4
 2
-0 22 7 4
 0 20 2 1
+0 22 7 4
 1
 end_operator
 begin_operator
@@ -19433,8 +19433,8 @@ succumb prostatitis curiosity hotdog earth uranus
 1
 4 5
 2
-0 22 7 5
 0 20 0 2
+0 22 7 5
 1
 end_operator
 begin_operator
@@ -19442,8 +19442,8 @@ succumb prostatitis curiosity hotdog saturn venus
 1
 4 5
 2
-0 22 7 5
 0 20 1 3
+0 22 7 5
 1
 end_operator
 begin_operator
@@ -19451,8 +19451,8 @@ succumb prostatitis curiosity hotdog uranus saturn
 1
 4 5
 2
-0 22 7 5
 0 20 2 1
+0 22 7 5
 1
 end_operator
 begin_operator
@@ -19460,8 +19460,8 @@ succumb prostatitis curiosity wurst earth uranus
 1
 4 6
 2
-0 22 7 6
 0 20 0 2
+0 22 7 6
 1
 end_operator
 begin_operator
@@ -19469,8 +19469,8 @@ succumb prostatitis curiosity wurst saturn venus
 1
 4 6
 2
-0 22 7 6
 0 20 1 3
+0 22 7 6
 1
 end_operator
 begin_operator
@@ -19478,8 +19478,8 @@ succumb prostatitis curiosity wurst uranus saturn
 1
 4 6
 2
-0 22 7 6
 0 20 2 1
+0 22 7 6
 1
 end_operator
 begin_operator
@@ -19487,8 +19487,8 @@ succumb prostatitis entertainment apple earth uranus
 1
 5 0
 2
-0 22 8 0
 0 21 0 2
+0 22 8 0
 1
 end_operator
 begin_operator
@@ -19496,8 +19496,8 @@ succumb prostatitis entertainment apple saturn venus
 1
 5 0
 2
-0 22 8 0
 0 21 1 3
+0 22 8 0
 1
 end_operator
 begin_operator
@@ -19505,8 +19505,8 @@ succumb prostatitis entertainment apple uranus saturn
 1
 5 0
 2
-0 22 8 0
 0 21 2 1
+0 22 8 0
 1
 end_operator
 begin_operator
@@ -19514,8 +19514,8 @@ succumb prostatitis entertainment flounder earth uranus
 1
 5 1
 2
-0 22 8 1
 0 21 0 2
+0 22 8 1
 1
 end_operator
 begin_operator
@@ -19523,8 +19523,8 @@ succumb prostatitis entertainment flounder saturn venus
 1
 5 1
 2
-0 22 8 1
 0 21 1 3
+0 22 8 1
 1
 end_operator
 begin_operator
@@ -19532,8 +19532,8 @@ succumb prostatitis entertainment flounder uranus saturn
 1
 5 1
 2
-0 22 8 1
 0 21 2 1
+0 22 8 1
 1
 end_operator
 begin_operator
@@ -19541,8 +19541,8 @@ succumb prostatitis entertainment guava earth uranus
 1
 5 2
 2
-0 22 8 2
 0 21 0 2
+0 22 8 2
 1
 end_operator
 begin_operator
@@ -19550,8 +19550,8 @@ succumb prostatitis entertainment guava saturn venus
 1
 5 2
 2
-0 22 8 2
 0 21 1 3
+0 22 8 2
 1
 end_operator
 begin_operator
@@ -19559,8 +19559,8 @@ succumb prostatitis entertainment guava uranus saturn
 1
 5 2
 2
-0 22 8 2
 0 21 2 1
+0 22 8 2
 1
 end_operator
 begin_operator
@@ -19568,8 +19568,8 @@ succumb prostatitis entertainment hamburger earth uranus
 1
 5 3
 2
-0 22 8 3
 0 21 0 2
+0 22 8 3
 1
 end_operator
 begin_operator
@@ -19577,8 +19577,8 @@ succumb prostatitis entertainment hamburger saturn venus
 1
 5 3
 2
-0 22 8 3
 0 21 1 3
+0 22 8 3
 1
 end_operator
 begin_operator
@@ -19586,8 +19586,8 @@ succumb prostatitis entertainment hamburger uranus saturn
 1
 5 3
 2
-0 22 8 3
 0 21 2 1
+0 22 8 3
 1
 end_operator
 begin_operator
@@ -19595,8 +19595,8 @@ succumb prostatitis entertainment haroset earth uranus
 1
 5 4
 2
-0 22 8 4
 0 21 0 2
+0 22 8 4
 1
 end_operator
 begin_operator
@@ -19604,8 +19604,8 @@ succumb prostatitis entertainment haroset saturn venus
 1
 5 4
 2
-0 22 8 4
 0 21 1 3
+0 22 8 4
 1
 end_operator
 begin_operator
@@ -19613,8 +19613,8 @@ succumb prostatitis entertainment haroset uranus saturn
 1
 5 4
 2
-0 22 8 4
 0 21 2 1
+0 22 8 4
 1
 end_operator
 begin_operator
@@ -19622,8 +19622,8 @@ succumb prostatitis entertainment hotdog earth uranus
 1
 5 5
 2
-0 22 8 5
 0 21 0 2
+0 22 8 5
 1
 end_operator
 begin_operator
@@ -19631,8 +19631,8 @@ succumb prostatitis entertainment hotdog saturn venus
 1
 5 5
 2
-0 22 8 5
 0 21 1 3
+0 22 8 5
 1
 end_operator
 begin_operator
@@ -19640,8 +19640,8 @@ succumb prostatitis entertainment hotdog uranus saturn
 1
 5 5
 2
-0 22 8 5
 0 21 2 1
+0 22 8 5
 1
 end_operator
 begin_operator
@@ -19649,8 +19649,8 @@ succumb prostatitis entertainment wurst earth uranus
 1
 5 6
 2
-0 22 8 6
 0 21 0 2
+0 22 8 6
 1
 end_operator
 begin_operator
@@ -19658,8 +19658,8 @@ succumb prostatitis entertainment wurst saturn venus
 1
 5 6
 2
-0 22 8 6
 0 21 1 3
+0 22 8 6
 1
 end_operator
 begin_operator
@@ -19667,8 +19667,8 @@ succumb prostatitis entertainment wurst uranus saturn
 1
 5 6
 2
-0 22 8 6
 0 21 2 1
+0 22 8 6
 1
 end_operator
 begin_operator
@@ -20054,8 +20054,8 @@ succumb sciatica curiosity apple earth uranus
 1
 4 0
 2
-0 26 7 0
 0 20 0 2
+0 26 7 0
 1
 end_operator
 begin_operator
@@ -20063,8 +20063,8 @@ succumb sciatica curiosity apple saturn venus
 1
 4 0
 2
-0 26 7 0
 0 20 1 3
+0 26 7 0
 1
 end_operator
 begin_operator
@@ -20072,8 +20072,8 @@ succumb sciatica curiosity apple uranus saturn
 1
 4 0
 2
-0 26 7 0
 0 20 2 1
+0 26 7 0
 1
 end_operator
 begin_operator
@@ -20081,8 +20081,8 @@ succumb sciatica curiosity flounder earth uranus
 1
 4 1
 2
-0 26 7 1
 0 20 0 2
+0 26 7 1
 1
 end_operator
 begin_operator
@@ -20090,8 +20090,8 @@ succumb sciatica curiosity flounder saturn venus
 1
 4 1
 2
-0 26 7 1
 0 20 1 3
+0 26 7 1
 1
 end_operator
 begin_operator
@@ -20099,8 +20099,8 @@ succumb sciatica curiosity flounder uranus saturn
 1
 4 1
 2
-0 26 7 1
 0 20 2 1
+0 26 7 1
 1
 end_operator
 begin_operator
@@ -20108,8 +20108,8 @@ succumb sciatica curiosity guava earth uranus
 1
 4 2
 2
-0 26 7 2
 0 20 0 2
+0 26 7 2
 1
 end_operator
 begin_operator
@@ -20117,8 +20117,8 @@ succumb sciatica curiosity guava saturn venus
 1
 4 2
 2
-0 26 7 2
 0 20 1 3
+0 26 7 2
 1
 end_operator
 begin_operator
@@ -20126,8 +20126,8 @@ succumb sciatica curiosity guava uranus saturn
 1
 4 2
 2
-0 26 7 2
 0 20 2 1
+0 26 7 2
 1
 end_operator
 begin_operator
@@ -20135,8 +20135,8 @@ succumb sciatica curiosity hamburger earth uranus
 1
 4 3
 2
-0 26 7 3
 0 20 0 2
+0 26 7 3
 1
 end_operator
 begin_operator
@@ -20144,8 +20144,8 @@ succumb sciatica curiosity hamburger saturn venus
 1
 4 3
 2
-0 26 7 3
 0 20 1 3
+0 26 7 3
 1
 end_operator
 begin_operator
@@ -20153,8 +20153,8 @@ succumb sciatica curiosity hamburger uranus saturn
 1
 4 3
 2
-0 26 7 3
 0 20 2 1
+0 26 7 3
 1
 end_operator
 begin_operator
@@ -20162,8 +20162,8 @@ succumb sciatica curiosity haroset earth uranus
 1
 4 4
 2
-0 26 7 4
 0 20 0 2
+0 26 7 4
 1
 end_operator
 begin_operator
@@ -20171,8 +20171,8 @@ succumb sciatica curiosity haroset saturn venus
 1
 4 4
 2
-0 26 7 4
 0 20 1 3
+0 26 7 4
 1
 end_operator
 begin_operator
@@ -20180,8 +20180,8 @@ succumb sciatica curiosity haroset uranus saturn
 1
 4 4
 2
-0 26 7 4
 0 20 2 1
+0 26 7 4
 1
 end_operator
 begin_operator
@@ -20189,8 +20189,8 @@ succumb sciatica curiosity hotdog earth uranus
 1
 4 5
 2
-0 26 7 5
 0 20 0 2
+0 26 7 5
 1
 end_operator
 begin_operator
@@ -20198,8 +20198,8 @@ succumb sciatica curiosity hotdog saturn venus
 1
 4 5
 2
-0 26 7 5
 0 20 1 3
+0 26 7 5
 1
 end_operator
 begin_operator
@@ -20207,8 +20207,8 @@ succumb sciatica curiosity hotdog uranus saturn
 1
 4 5
 2
-0 26 7 5
 0 20 2 1
+0 26 7 5
 1
 end_operator
 begin_operator
@@ -20216,8 +20216,8 @@ succumb sciatica curiosity wurst earth uranus
 1
 4 6
 2
-0 26 7 6
 0 20 0 2
+0 26 7 6
 1
 end_operator
 begin_operator
@@ -20225,8 +20225,8 @@ succumb sciatica curiosity wurst saturn venus
 1
 4 6
 2
-0 26 7 6
 0 20 1 3
+0 26 7 6
 1
 end_operator
 begin_operator
@@ -20234,8 +20234,8 @@ succumb sciatica curiosity wurst uranus saturn
 1
 4 6
 2
-0 26 7 6
 0 20 2 1
+0 26 7 6
 1
 end_operator
 begin_operator
@@ -20243,8 +20243,8 @@ succumb sciatica entertainment apple earth uranus
 1
 5 0
 2
-0 26 8 0
 0 21 0 2
+0 26 8 0
 1
 end_operator
 begin_operator
@@ -20252,8 +20252,8 @@ succumb sciatica entertainment apple saturn venus
 1
 5 0
 2
-0 26 8 0
 0 21 1 3
+0 26 8 0
 1
 end_operator
 begin_operator
@@ -20261,8 +20261,8 @@ succumb sciatica entertainment apple uranus saturn
 1
 5 0
 2
-0 26 8 0
 0 21 2 1
+0 26 8 0
 1
 end_operator
 begin_operator
@@ -20270,8 +20270,8 @@ succumb sciatica entertainment flounder earth uranus
 1
 5 1
 2
-0 26 8 1
 0 21 0 2
+0 26 8 1
 1
 end_operator
 begin_operator
@@ -20279,8 +20279,8 @@ succumb sciatica entertainment flounder saturn venus
 1
 5 1
 2
-0 26 8 1
 0 21 1 3
+0 26 8 1
 1
 end_operator
 begin_operator
@@ -20288,8 +20288,8 @@ succumb sciatica entertainment flounder uranus saturn
 1
 5 1
 2
-0 26 8 1
 0 21 2 1
+0 26 8 1
 1
 end_operator
 begin_operator
@@ -20297,8 +20297,8 @@ succumb sciatica entertainment guava earth uranus
 1
 5 2
 2
-0 26 8 2
 0 21 0 2
+0 26 8 2
 1
 end_operator
 begin_operator
@@ -20306,8 +20306,8 @@ succumb sciatica entertainment guava saturn venus
 1
 5 2
 2
-0 26 8 2
 0 21 1 3
+0 26 8 2
 1
 end_operator
 begin_operator
@@ -20315,8 +20315,8 @@ succumb sciatica entertainment guava uranus saturn
 1
 5 2
 2
-0 26 8 2
 0 21 2 1
+0 26 8 2
 1
 end_operator
 begin_operator
@@ -20324,8 +20324,8 @@ succumb sciatica entertainment hamburger earth uranus
 1
 5 3
 2
-0 26 8 3
 0 21 0 2
+0 26 8 3
 1
 end_operator
 begin_operator
@@ -20333,8 +20333,8 @@ succumb sciatica entertainment hamburger saturn venus
 1
 5 3
 2
-0 26 8 3
 0 21 1 3
+0 26 8 3
 1
 end_operator
 begin_operator
@@ -20342,8 +20342,8 @@ succumb sciatica entertainment hamburger uranus saturn
 1
 5 3
 2
-0 26 8 3
 0 21 2 1
+0 26 8 3
 1
 end_operator
 begin_operator
@@ -20351,8 +20351,8 @@ succumb sciatica entertainment haroset earth uranus
 1
 5 4
 2
-0 26 8 4
 0 21 0 2
+0 26 8 4
 1
 end_operator
 begin_operator
@@ -20360,8 +20360,8 @@ succumb sciatica entertainment haroset saturn venus
 1
 5 4
 2
-0 26 8 4
 0 21 1 3
+0 26 8 4
 1
 end_operator
 begin_operator
@@ -20369,8 +20369,8 @@ succumb sciatica entertainment haroset uranus saturn
 1
 5 4
 2
-0 26 8 4
 0 21 2 1
+0 26 8 4
 1
 end_operator
 begin_operator
@@ -20378,8 +20378,8 @@ succumb sciatica entertainment hotdog earth uranus
 1
 5 5
 2
-0 26 8 5
 0 21 0 2
+0 26 8 5
 1
 end_operator
 begin_operator
@@ -20387,8 +20387,8 @@ succumb sciatica entertainment hotdog saturn venus
 1
 5 5
 2
-0 26 8 5
 0 21 1 3
+0 26 8 5
 1
 end_operator
 begin_operator
@@ -20396,8 +20396,8 @@ succumb sciatica entertainment hotdog uranus saturn
 1
 5 5
 2
-0 26 8 5
 0 21 2 1
+0 26 8 5
 1
 end_operator
 begin_operator
@@ -20405,8 +20405,8 @@ succumb sciatica entertainment wurst earth uranus
 1
 5 6
 2
-0 26 8 6
 0 21 0 2
+0 26 8 6
 1
 end_operator
 begin_operator
@@ -20414,8 +20414,8 @@ succumb sciatica entertainment wurst saturn venus
 1
 5 6
 2
-0 26 8 6
 0 21 1 3
+0 26 8 6
 1
 end_operator
 begin_operator
@@ -20423,8 +20423,8 @@ succumb sciatica entertainment wurst uranus saturn
 1
 5 6
 2
-0 26 8 6
 0 21 2 1
+0 26 8 6
 1
 end_operator
 begin_operator
@@ -20432,8 +20432,8 @@ succumb sciatica excitement apple earth uranus
 1
 7 0
 2
-0 26 9 0
 0 23 0 2
+0 26 9 0
 1
 end_operator
 begin_operator
@@ -20441,8 +20441,8 @@ succumb sciatica excitement apple saturn venus
 1
 7 0
 2
-0 26 9 0
 0 23 1 3
+0 26 9 0
 1
 end_operator
 begin_operator
@@ -20450,8 +20450,8 @@ succumb sciatica excitement apple uranus saturn
 1
 7 0
 2
-0 26 9 0
 0 23 2 1
+0 26 9 0
 1
 end_operator
 begin_operator
@@ -20459,8 +20459,8 @@ succumb sciatica excitement flounder earth uranus
 1
 7 1
 2
-0 26 9 1
 0 23 0 2
+0 26 9 1
 1
 end_operator
 begin_operator
@@ -20468,8 +20468,8 @@ succumb sciatica excitement flounder saturn venus
 1
 7 1
 2
-0 26 9 1
 0 23 1 3
+0 26 9 1
 1
 end_operator
 begin_operator
@@ -20477,8 +20477,8 @@ succumb sciatica excitement flounder uranus saturn
 1
 7 1
 2
-0 26 9 1
 0 23 2 1
+0 26 9 1
 1
 end_operator
 begin_operator
@@ -20486,8 +20486,8 @@ succumb sciatica excitement guava earth uranus
 1
 7 2
 2
-0 26 9 2
 0 23 0 2
+0 26 9 2
 1
 end_operator
 begin_operator
@@ -20495,8 +20495,8 @@ succumb sciatica excitement guava saturn venus
 1
 7 2
 2
-0 26 9 2
 0 23 1 3
+0 26 9 2
 1
 end_operator
 begin_operator
@@ -20504,8 +20504,8 @@ succumb sciatica excitement guava uranus saturn
 1
 7 2
 2
-0 26 9 2
 0 23 2 1
+0 26 9 2
 1
 end_operator
 begin_operator
@@ -20513,8 +20513,8 @@ succumb sciatica excitement hamburger earth uranus
 1
 7 3
 2
-0 26 9 3
 0 23 0 2
+0 26 9 3
 1
 end_operator
 begin_operator
@@ -20522,8 +20522,8 @@ succumb sciatica excitement hamburger saturn venus
 1
 7 3
 2
-0 26 9 3
 0 23 1 3
+0 26 9 3
 1
 end_operator
 begin_operator
@@ -20531,8 +20531,8 @@ succumb sciatica excitement hamburger uranus saturn
 1
 7 3
 2
-0 26 9 3
 0 23 2 1
+0 26 9 3
 1
 end_operator
 begin_operator
@@ -20540,8 +20540,8 @@ succumb sciatica excitement haroset earth uranus
 1
 7 4
 2
-0 26 9 4
 0 23 0 2
+0 26 9 4
 1
 end_operator
 begin_operator
@@ -20549,8 +20549,8 @@ succumb sciatica excitement haroset saturn venus
 1
 7 4
 2
-0 26 9 4
 0 23 1 3
+0 26 9 4
 1
 end_operator
 begin_operator
@@ -20558,8 +20558,8 @@ succumb sciatica excitement haroset uranus saturn
 1
 7 4
 2
-0 26 9 4
 0 23 2 1
+0 26 9 4
 1
 end_operator
 begin_operator
@@ -20567,8 +20567,8 @@ succumb sciatica excitement hotdog earth uranus
 1
 7 5
 2
-0 26 9 5
 0 23 0 2
+0 26 9 5
 1
 end_operator
 begin_operator
@@ -20576,8 +20576,8 @@ succumb sciatica excitement hotdog saturn venus
 1
 7 5
 2
-0 26 9 5
 0 23 1 3
+0 26 9 5
 1
 end_operator
 begin_operator
@@ -20585,8 +20585,8 @@ succumb sciatica excitement hotdog uranus saturn
 1
 7 5
 2
-0 26 9 5
 0 23 2 1
+0 26 9 5
 1
 end_operator
 begin_operator
@@ -20594,8 +20594,8 @@ succumb sciatica excitement wurst earth uranus
 1
 7 6
 2
-0 26 9 6
 0 23 0 2
+0 26 9 6
 1
 end_operator
 begin_operator
@@ -20603,8 +20603,8 @@ succumb sciatica excitement wurst saturn venus
 1
 7 6
 2
-0 26 9 6
 0 23 1 3
+0 26 9 6
 1
 end_operator
 begin_operator
@@ -20612,8 +20612,8 @@ succumb sciatica excitement wurst uranus saturn
 1
 7 6
 2
-0 26 9 6
 0 23 2 1
+0 26 9 6
 1
 end_operator
 begin_operator
@@ -20621,8 +20621,8 @@ succumb sciatica intoxication apple earth uranus
 1
 8 0
 2
-0 26 10 0
 0 24 0 2
+0 26 10 0
 1
 end_operator
 begin_operator
@@ -20630,8 +20630,8 @@ succumb sciatica intoxication apple saturn venus
 1
 8 0
 2
-0 26 10 0
 0 24 1 3
+0 26 10 0
 1
 end_operator
 begin_operator
@@ -20639,8 +20639,8 @@ succumb sciatica intoxication apple uranus saturn
 1
 8 0
 2
-0 26 10 0
 0 24 2 1
+0 26 10 0
 1
 end_operator
 begin_operator
@@ -20648,8 +20648,8 @@ succumb sciatica intoxication flounder earth uranus
 1
 8 1
 2
-0 26 10 1
 0 24 0 2
+0 26 10 1
 1
 end_operator
 begin_operator
@@ -20657,8 +20657,8 @@ succumb sciatica intoxication flounder saturn venus
 1
 8 1
 2
-0 26 10 1
 0 24 1 3
+0 26 10 1
 1
 end_operator
 begin_operator
@@ -20666,8 +20666,8 @@ succumb sciatica intoxication flounder uranus saturn
 1
 8 1
 2
-0 26 10 1
 0 24 2 1
+0 26 10 1
 1
 end_operator
 begin_operator
@@ -20675,8 +20675,8 @@ succumb sciatica intoxication guava earth uranus
 1
 8 2
 2
-0 26 10 2
 0 24 0 2
+0 26 10 2
 1
 end_operator
 begin_operator
@@ -20684,8 +20684,8 @@ succumb sciatica intoxication guava saturn venus
 1
 8 2
 2
-0 26 10 2
 0 24 1 3
+0 26 10 2
 1
 end_operator
 begin_operator
@@ -20693,8 +20693,8 @@ succumb sciatica intoxication guava uranus saturn
 1
 8 2
 2
-0 26 10 2
 0 24 2 1
+0 26 10 2
 1
 end_operator
 begin_operator
@@ -20702,8 +20702,8 @@ succumb sciatica intoxication hamburger earth uranus
 1
 8 3
 2
-0 26 10 3
 0 24 0 2
+0 26 10 3
 1
 end_operator
 begin_operator
@@ -20711,8 +20711,8 @@ succumb sciatica intoxication hamburger saturn venus
 1
 8 3
 2
-0 26 10 3
 0 24 1 3
+0 26 10 3
 1
 end_operator
 begin_operator
@@ -20720,8 +20720,8 @@ succumb sciatica intoxication hamburger uranus saturn
 1
 8 3
 2
-0 26 10 3
 0 24 2 1
+0 26 10 3
 1
 end_operator
 begin_operator
@@ -20729,8 +20729,8 @@ succumb sciatica intoxication haroset earth uranus
 1
 8 4
 2
-0 26 10 4
 0 24 0 2
+0 26 10 4
 1
 end_operator
 begin_operator
@@ -20738,8 +20738,8 @@ succumb sciatica intoxication haroset saturn venus
 1
 8 4
 2
-0 26 10 4
 0 24 1 3
+0 26 10 4
 1
 end_operator
 begin_operator
@@ -20747,8 +20747,8 @@ succumb sciatica intoxication haroset uranus saturn
 1
 8 4
 2
-0 26 10 4
 0 24 2 1
+0 26 10 4
 1
 end_operator
 begin_operator
@@ -20756,8 +20756,8 @@ succumb sciatica intoxication hotdog earth uranus
 1
 8 5
 2
-0 26 10 5
 0 24 0 2
+0 26 10 5
 1
 end_operator
 begin_operator
@@ -20765,8 +20765,8 @@ succumb sciatica intoxication hotdog saturn venus
 1
 8 5
 2
-0 26 10 5
 0 24 1 3
+0 26 10 5
 1
 end_operator
 begin_operator
@@ -20774,8 +20774,8 @@ succumb sciatica intoxication hotdog uranus saturn
 1
 8 5
 2
-0 26 10 5
 0 24 2 1
+0 26 10 5
 1
 end_operator
 begin_operator
@@ -20783,8 +20783,8 @@ succumb sciatica intoxication wurst earth uranus
 1
 8 6
 2
-0 26 10 6
 0 24 0 2
+0 26 10 6
 1
 end_operator
 begin_operator
@@ -20792,8 +20792,8 @@ succumb sciatica intoxication wurst saturn venus
 1
 8 6
 2
-0 26 10 6
 0 24 1 3
+0 26 10 6
 1
 end_operator
 begin_operator
@@ -20801,8 +20801,8 @@ succumb sciatica intoxication wurst uranus saturn
 1
 8 6
 2
-0 26 10 6
 0 24 2 1
+0 26 10 6
 1
 end_operator
 0

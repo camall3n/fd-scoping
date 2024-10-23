@@ -308,32 +308,32 @@ begin_operator
 sandmeyerreaction cl1 n br1 n2 c1 cu1
 0
 10
-0 35 -1 0
 0 0 0 1
-0 33 -1 0
-0 32 -1 1
 0 2 -1 0
 0 6 0 1
-0 15 -1 1
-0 17 -1 0
 0 7 0 1
 0 11 -1 1
+0 15 -1 1
+0 17 -1 0
+0 32 -1 1
+0 33 -1 0
+0 35 -1 0
 1
 end_operator
 begin_operator
 sandmeyerreaction cl1 n br2 n2 c1 cu2
 0
 10
-0 25 -1 0
 0 1 0 1
-0 23 -1 0
-0 32 -1 1
 0 4 -1 0
 0 6 0 1
-0 14 -1 1
-0 13 -1 0
 0 7 0 1
 0 11 -1 1
+0 13 -1 0
+0 14 -1 1
+0 23 -1 0
+0 25 -1 0
+0 32 -1 1
 1
 end_operator
 begin_operator
@@ -341,13 +341,13 @@ sandmeyerreaction cl1 n cl1 n2 c1 cu1
 1
 2 0
 7
-0 29 -1 0
-0 32 -1 1
-0 27 -1 0
 0 6 0 1
-0 17 -1 0
 0 7 0 1
 0 11 -1 1
+0 17 -1 0
+0 27 -1 0
+0 29 -1 0
+0 32 -1 1
 1
 end_operator
 begin_operator
@@ -355,109 +355,109 @@ sandmeyerreaction cl1 n cl1 n2 c1 cu2
 1
 4 0
 7
-0 29 -1 0
-0 32 -1 1
-0 27 -1 0
 0 6 0 1
-0 13 -1 0
 0 7 0 1
 0 11 -1 1
+0 13 -1 0
+0 27 -1 0
+0 29 -1 0
+0 32 -1 1
 1
 end_operator
 begin_operator
 sandmeyerreaction cl1 n cl2 n2 c1 cu1
 0
 10
-0 21 -1 0
-0 32 -1 1
 0 2 -1 0
-0 6 0 1
-0 19 -1 0
 0 3 0 1
-0 17 -1 0
-0 16 -1 1
+0 6 0 1
 0 7 0 1
 0 11 -1 1
+0 16 -1 1
+0 17 -1 0
+0 19 -1 0
+0 21 -1 0
+0 32 -1 1
 1
 end_operator
 begin_operator
 sandmeyerreaction cl1 n cl2 n2 c1 cu2
 0
 10
-0 21 -1 0
-0 32 -1 1
 0 4 -1 0
-0 6 0 1
-0 19 -1 0
 0 5 0 1
-0 13 -1 0
-0 12 -1 1
+0 6 0 1
 0 7 0 1
 0 11 -1 1
+0 12 -1 1
+0 13 -1 0
+0 19 -1 0
+0 21 -1 0
+0 32 -1 1
 1
 end_operator
 begin_operator
 sandmeyerreaction cl2 n3 br1 n4 c3 cu1
 0
 10
-0 34 -1 0
 0 0 0 1
-0 31 -1 0
-0 30 -1 1
 0 3 -1 0
 0 8 0 1
-0 15 -1 1
-0 16 -1 0
 0 9 0 1
 0 10 -1 1
+0 15 -1 1
+0 16 -1 0
+0 30 -1 1
+0 31 -1 0
+0 34 -1 0
 1
 end_operator
 begin_operator
 sandmeyerreaction cl2 n3 br2 n4 c3 cu2
 0
 10
-0 24 -1 0
 0 1 0 1
-0 22 -1 0
-0 30 -1 1
 0 5 -1 0
 0 8 0 1
-0 14 -1 1
-0 12 -1 0
 0 9 0 1
 0 10 -1 1
+0 12 -1 0
+0 14 -1 1
+0 22 -1 0
+0 24 -1 0
+0 30 -1 1
 1
 end_operator
 begin_operator
 sandmeyerreaction cl2 n3 cl1 n4 c3 cu1
 0
 10
-0 28 -1 0
-0 30 -1 1
-0 26 -1 0
 0 2 0 1
 0 3 -1 0
 0 8 0 1
-0 17 -1 1
-0 16 -1 0
 0 9 0 1
 0 10 -1 1
+0 16 -1 0
+0 17 -1 1
+0 26 -1 0
+0 28 -1 0
+0 30 -1 1
 1
 end_operator
 begin_operator
 sandmeyerreaction cl2 n3 cl1 n4 c3 cu2
 0
 10
-0 28 -1 0
-0 30 -1 1
-0 26 -1 0
 0 4 0 1
 0 5 -1 0
 0 8 0 1
-0 13 -1 1
-0 12 -1 0
 0 9 0 1
 0 10 -1 1
+0 12 -1 0
+0 13 -1 1
+0 26 -1 0
+0 28 -1 0
+0 30 -1 1
 1
 end_operator
 begin_operator
@@ -465,13 +465,13 @@ sandmeyerreaction cl2 n3 cl2 n4 c3 cu1
 1
 3 0
 7
-0 20 -1 0
-0 30 -1 1
-0 18 -1 0
 0 8 0 1
-0 16 -1 0
 0 9 0 1
 0 10 -1 1
+0 16 -1 0
+0 18 -1 0
+0 20 -1 0
+0 30 -1 1
 1
 end_operator
 begin_operator
@@ -479,13 +479,13 @@ sandmeyerreaction cl2 n3 cl2 n4 c3 cu2
 1
 5 0
 7
-0 20 -1 0
-0 30 -1 1
-0 18 -1 0
 0 8 0 1
-0 12 -1 0
 0 9 0 1
 0 10 -1 1
+0 12 -1 0
+0 18 -1 0
+0 20 -1 0
+0 30 -1 1
 1
 end_operator
 0

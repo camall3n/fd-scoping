@@ -128,16 +128,16 @@ end_variable
 begin_mutex_group
 4
 0 6
-6 6
 1 6
 2 0
+6 6
 end_mutex_group
 begin_mutex_group
 4
 0 7
-6 7
 1 7
 3 0
+6 7
 end_mutex_group
 begin_state
 4
@@ -224,8 +224,8 @@ board-truck driver2 truck1 s0
 1
 4 0
 2
-0 6 3 6
 0 2 0 1
+0 6 3 6
 1
 end_operator
 begin_operator
@@ -233,8 +233,8 @@ board-truck driver2 truck1 s1
 1
 4 1
 2
-0 6 4 6
 0 2 0 1
+0 6 4 6
 1
 end_operator
 begin_operator
@@ -242,8 +242,8 @@ board-truck driver2 truck1 s2
 1
 4 2
 2
-0 6 5 6
 0 2 0 1
+0 6 5 6
 1
 end_operator
 begin_operator
@@ -251,8 +251,8 @@ board-truck driver2 truck2 s0
 1
 5 0
 2
-0 6 3 7
 0 3 0 1
+0 6 3 7
 1
 end_operator
 begin_operator
@@ -260,8 +260,8 @@ board-truck driver2 truck2 s1
 1
 5 1
 2
-0 6 4 7
 0 3 0 1
+0 6 4 7
 1
 end_operator
 begin_operator
@@ -269,8 +269,8 @@ board-truck driver2 truck2 s2
 1
 5 2
 2
-0 6 5 7
 0 3 0 1
+0 6 5 7
 1
 end_operator
 begin_operator
@@ -386,8 +386,8 @@ disembark-truck driver2 truck1 s0
 1
 4 0
 2
-0 6 6 3
 0 2 -1 0
+0 6 6 3
 1
 end_operator
 begin_operator
@@ -395,8 +395,8 @@ disembark-truck driver2 truck1 s1
 1
 4 1
 2
-0 6 6 4
 0 2 -1 0
+0 6 6 4
 1
 end_operator
 begin_operator
@@ -404,8 +404,8 @@ disembark-truck driver2 truck1 s2
 1
 4 2
 2
-0 6 6 5
 0 2 -1 0
+0 6 6 5
 1
 end_operator
 begin_operator
@@ -413,8 +413,8 @@ disembark-truck driver2 truck2 s0
 1
 5 0
 2
-0 6 7 3
 0 3 -1 0
+0 6 7 3
 1
 end_operator
 begin_operator
@@ -422,8 +422,8 @@ disembark-truck driver2 truck2 s1
 1
 5 1
 2
-0 6 7 4
 0 3 -1 0
+0 6 7 4
 1
 end_operator
 begin_operator
@@ -431,8 +431,8 @@ disembark-truck driver2 truck2 s2
 1
 5 2
 2
-0 6 7 5
 0 3 -1 0
+0 6 7 5
 1
 end_operator
 begin_operator

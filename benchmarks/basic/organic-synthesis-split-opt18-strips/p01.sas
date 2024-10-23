@@ -2071,8 +2071,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_1 o066 c016
 0
 3
-0 103 -1 0
 0 74 -1 0
+0 103 -1 0
 0 199 0 1
 5
 end_operator
@@ -2081,8 +2081,8 @@ additionofrohacrossgemdisubstitutedalkene_1 o066 c032
 1
 73 0
 3
-0 103 -1 0
 0 74 -1 0
+0 103 -1 0
 0 199 0 1
 5
 end_operator
@@ -2091,8 +2091,8 @@ additionofrohacrossgemdisubstitutedalkene_1 o066 c033
 1
 194 0
 3
-0 103 -1 0
 0 74 -1 0
+0 103 -1 0
 0 199 0 1
 5
 end_operator
@@ -2101,8 +2101,8 @@ additionofrohacrossgemdisubstitutedalkene_1 o066 c034
 1
 92 0
 3
-0 103 -1 0
 0 74 -1 0
+0 103 -1 0
 0 199 0 1
 5
 end_operator
@@ -2111,8 +2111,8 @@ additionofrohacrossgemdisubstitutedalkene_1 o066 c035
 1
 59 0
 3
-0 103 -1 0
 0 74 -1 0
+0 103 -1 0
 0 199 0 1
 5
 end_operator
@@ -2121,8 +2121,8 @@ additionofrohacrossgemdisubstitutedalkene_1 o066 c036
 1
 60 0
 3
-0 103 -1 0
 0 74 -1 0
+0 103 -1 0
 0 199 0 1
 5
 end_operator
@@ -2131,8 +2131,8 @@ additionofrohacrossgemdisubstitutedalkene_1 o066 c037
 1
 61 0
 3
-0 103 -1 0
 0 74 -1 0
+0 103 -1 0
 0 199 0 1
 5
 end_operator
@@ -2141,8 +2141,8 @@ additionofrohacrossgemdisubstitutedalkene_1 o066 c038
 1
 62 0
 3
-0 103 -1 0
 0 74 -1 0
+0 103 -1 0
 0 199 0 1
 5
 end_operator
@@ -2151,8 +2151,8 @@ additionofrohacrossgemdisubstitutedalkene_1 o066 h061
 1
 46 0
 3
-0 103 -1 0
 0 74 -1 0
+0 103 -1 0
 0 199 0 1
 5
 end_operator
@@ -2161,8 +2161,8 @@ additionofrohacrossgemdisubstitutedalkene_10 c016 o066
 0
 4
 0 78 0 1
-0 103 0 1
 0 93 0 1
+0 103 0 1
 0 199 -1 0
 4
 end_operator
@@ -2170,24 +2170,24 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_10 c032 o066
 0
 6
+0 73 -1 0
+0 93 0 1
 0 102 0 1
 0 103 0 1
-0 73 -1 0
-0 206 -1 0
-0 93 0 1
 0 199 -1 0
+0 206 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_10 c033 o066
 0
 6
+0 93 0 1
 0 98 0 1
 0 103 0 1
 0 194 -1 0
-0 205 -1 0
-0 93 0 1
 0 199 -1 0
+0 205 -1 0
 4
 end_operator
 begin_operator
@@ -2195,59 +2195,59 @@ additionofrohacrossgemdisubstitutedalkene_10 c034 o066
 0
 6
 0 79 0 1
-0 103 0 1
 0 92 -1 0
-0 204 -1 0
 0 93 0 1
+0 103 0 1
 0 199 -1 0
+0 204 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_10 c035 o066
 0
 6
-0 80 0 1
-0 103 0 1
 0 59 -1 0
-0 203 -1 0
+0 80 0 1
 0 93 0 1
+0 103 0 1
 0 199 -1 0
+0 203 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_10 c036 o066
 0
 6
-0 81 0 1
-0 103 0 1
 0 60 -1 0
-0 202 -1 0
+0 81 0 1
 0 93 0 1
+0 103 0 1
 0 199 -1 0
+0 202 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_10 c037 o066
 0
 6
-0 82 0 1
-0 103 0 1
 0 61 -1 0
-0 201 -1 0
+0 82 0 1
 0 93 0 1
+0 103 0 1
 0 199 -1 0
+0 201 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_10 c038 o066
 0
 6
-0 85 0 1
-0 103 0 1
 0 62 -1 0
-0 200 -1 0
+0 85 0 1
 0 93 0 1
+0 103 0 1
 0 199 -1 0
+0 200 -1 0
 4
 end_operator
 begin_operator
@@ -2255,8 +2255,8 @@ additionofrohacrossgemdisubstitutedalkene_2 c016 h061
 1
 31 0
 3
-0 78 -1 0
 0 74 0 1
+0 78 -1 0
 0 89 -1 0
 4
 end_operator
@@ -2264,8 +2264,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_2 c016 h106
 0
 3
-0 78 -1 0
 0 74 0 1
+0 78 -1 0
 0 89 -1 0
 4
 end_operator
@@ -2273,8 +2273,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_2 c016 h107
 0
 3
-0 78 -1 0
 0 74 0 1
+0 78 -1 0
 0 89 -1 0
 4
 end_operator
@@ -2282,8 +2282,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_2 c016 h108
 0
 3
-0 78 -1 0
 0 74 0 1
+0 78 -1 0
 0 89 -1 0
 4
 end_operator
@@ -2292,9 +2292,9 @@ additionofrohacrossgemdisubstitutedalkene_2 c032 c033
 1
 198 0
 3
-0 102 -1 0
 0 74 0 1
 0 89 -1 0
+0 102 -1 0
 4
 end_operator
 begin_operator
@@ -2302,27 +2302,27 @@ additionofrohacrossgemdisubstitutedalkene_2 c032 h061
 1
 196 0
 3
-0 102 -1 0
 0 74 0 1
 0 89 -1 0
+0 102 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_2 c032 h133
 0
 3
-0 102 -1 0
 0 74 0 1
 0 89 -1 0
+0 102 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_2 c032 h134
 0
 3
-0 102 -1 0
 0 74 0 1
 0 89 -1 0
+0 102 -1 0
 4
 end_operator
 begin_operator
@@ -2330,27 +2330,27 @@ additionofrohacrossgemdisubstitutedalkene_2 c033 c032
 1
 197 0
 3
-0 98 -1 0
 0 74 0 1
 0 89 -1 0
+0 98 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_2 c033 c034
 0
 3
-0 98 -1 0
 0 74 0 1
 0 89 -1 0
+0 98 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_2 c033 c038
 0
 3
-0 98 -1 0
 0 74 0 1
 0 89 -1 0
+0 98 -1 0
 4
 end_operator
 begin_operator
@@ -2358,17 +2358,17 @@ additionofrohacrossgemdisubstitutedalkene_2 c033 h061
 1
 33 0
 3
-0 98 -1 0
 0 74 0 1
 0 89 -1 0
+0 98 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_2 c034 c033
 0
 3
-0 79 -1 0
 0 74 0 1
+0 79 -1 0
 0 89 -1 0
 4
 end_operator
@@ -2376,8 +2376,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_2 c034 c035
 0
 3
-0 79 -1 0
 0 74 0 1
+0 79 -1 0
 0 89 -1 0
 4
 end_operator
@@ -2386,8 +2386,8 @@ additionofrohacrossgemdisubstitutedalkene_2 c034 h061
 1
 35 0
 3
-0 79 -1 0
 0 74 0 1
+0 79 -1 0
 0 89 -1 0
 4
 end_operator
@@ -2395,8 +2395,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_2 c034 h135
 0
 3
-0 79 -1 0
 0 74 0 1
+0 79 -1 0
 0 89 -1 0
 4
 end_operator
@@ -2404,8 +2404,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_2 c034 h136
 0
 3
-0 79 -1 0
 0 74 0 1
+0 79 -1 0
 0 89 -1 0
 4
 end_operator
@@ -2413,8 +2413,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_2 c035 c034
 0
 3
-0 80 -1 0
 0 74 0 1
+0 80 -1 0
 0 89 -1 0
 4
 end_operator
@@ -2422,8 +2422,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_2 c035 c036
 0
 3
-0 80 -1 0
 0 74 0 1
+0 80 -1 0
 0 89 -1 0
 4
 end_operator
@@ -2432,8 +2432,8 @@ additionofrohacrossgemdisubstitutedalkene_2 c035 h061
 1
 39 0
 3
-0 80 -1 0
 0 74 0 1
+0 80 -1 0
 0 89 -1 0
 4
 end_operator
@@ -2441,8 +2441,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_2 c035 h137
 0
 3
-0 80 -1 0
 0 74 0 1
+0 80 -1 0
 0 89 -1 0
 4
 end_operator
@@ -2450,8 +2450,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_2 c035 h138
 0
 3
-0 80 -1 0
 0 74 0 1
+0 80 -1 0
 0 89 -1 0
 4
 end_operator
@@ -2459,8 +2459,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_2 c036 c035
 0
 3
-0 81 -1 0
 0 74 0 1
+0 81 -1 0
 0 89 -1 0
 4
 end_operator
@@ -2468,8 +2468,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_2 c036 c037
 0
 3
-0 81 -1 0
 0 74 0 1
+0 81 -1 0
 0 89 -1 0
 4
 end_operator
@@ -2478,8 +2478,8 @@ additionofrohacrossgemdisubstitutedalkene_2 c036 h061
 1
 41 0
 3
-0 81 -1 0
 0 74 0 1
+0 81 -1 0
 0 89 -1 0
 4
 end_operator
@@ -2487,8 +2487,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_2 c036 h139
 0
 3
-0 81 -1 0
 0 74 0 1
+0 81 -1 0
 0 89 -1 0
 4
 end_operator
@@ -2496,8 +2496,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_2 c036 h140
 0
 3
-0 81 -1 0
 0 74 0 1
+0 81 -1 0
 0 89 -1 0
 4
 end_operator
@@ -2505,8 +2505,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_2 c037 c036
 0
 3
-0 82 -1 0
 0 74 0 1
+0 82 -1 0
 0 89 -1 0
 4
 end_operator
@@ -2514,8 +2514,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_2 c037 c038
 0
 3
-0 82 -1 0
 0 74 0 1
+0 82 -1 0
 0 89 -1 0
 4
 end_operator
@@ -2524,8 +2524,8 @@ additionofrohacrossgemdisubstitutedalkene_2 c037 h061
 1
 45 0
 3
-0 82 -1 0
 0 74 0 1
+0 82 -1 0
 0 89 -1 0
 4
 end_operator
@@ -2533,8 +2533,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_2 c037 h141
 0
 3
-0 82 -1 0
 0 74 0 1
+0 82 -1 0
 0 89 -1 0
 4
 end_operator
@@ -2542,8 +2542,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_2 c037 h142
 0
 3
-0 82 -1 0
 0 74 0 1
+0 82 -1 0
 0 89 -1 0
 4
 end_operator
@@ -2551,8 +2551,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_2 c038 c033
 0
 3
-0 85 -1 0
 0 74 0 1
+0 85 -1 0
 0 89 -1 0
 4
 end_operator
@@ -2560,8 +2560,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_2 c038 c037
 0
 3
-0 85 -1 0
 0 74 0 1
+0 85 -1 0
 0 89 -1 0
 4
 end_operator
@@ -2570,8 +2570,8 @@ additionofrohacrossgemdisubstitutedalkene_2 c038 h061
 1
 37 0
 3
-0 85 -1 0
 0 74 0 1
+0 85 -1 0
 0 89 -1 0
 4
 end_operator
@@ -2579,8 +2579,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_2 c038 h143
 0
 3
-0 85 -1 0
 0 74 0 1
+0 85 -1 0
 0 89 -1 0
 4
 end_operator
@@ -2588,8 +2588,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_2 c038 h144
 0
 3
-0 85 -1 0
 0 74 0 1
+0 85 -1 0
 0 89 -1 0
 4
 end_operator
@@ -2727,9 +2727,9 @@ additionofrohacrossgemdisubstitutedalkene_4 c016 h061
 30 0
 4
 0 9 -1 0
-0 170 -1 0
 0 90 0 1
 0 91 -1 0
+0 170 -1 0
 4
 end_operator
 begin_operator
@@ -2737,9 +2737,9 @@ additionofrohacrossgemdisubstitutedalkene_4 c016 h106
 0
 4
 0 9 -1 0
-0 171 -1 0
 0 90 0 1
 0 91 -1 0
+0 171 -1 0
 4
 end_operator
 begin_operator
@@ -2747,9 +2747,9 @@ additionofrohacrossgemdisubstitutedalkene_4 c016 h107
 0
 4
 0 9 -1 0
-0 173 -1 0
 0 90 0 1
 0 91 -1 0
+0 173 -1 0
 4
 end_operator
 begin_operator
@@ -2757,9 +2757,9 @@ additionofrohacrossgemdisubstitutedalkene_4 c016 h108
 0
 4
 0 9 -1 0
-0 175 -1 0
 0 90 0 1
 0 91 -1 0
+0 175 -1 0
 4
 end_operator
 begin_operator
@@ -2768,9 +2768,9 @@ additionofrohacrossgemdisubstitutedalkene_4 c032 h061
 195 0
 4
 0 15 -1 0
-0 170 -1 0
 0 90 0 1
 0 91 -1 0
+0 170 -1 0
 4
 end_operator
 begin_operator
@@ -2778,9 +2778,9 @@ additionofrohacrossgemdisubstitutedalkene_4 c032 h133
 0
 4
 0 15 -1 0
-0 176 -1 0
 0 90 0 1
 0 91 -1 0
+0 176 -1 0
 4
 end_operator
 begin_operator
@@ -2788,9 +2788,9 @@ additionofrohacrossgemdisubstitutedalkene_4 c032 h134
 0
 4
 0 15 -1 0
-0 178 -1 0
 0 90 0 1
 0 91 -1 0
+0 178 -1 0
 4
 end_operator
 begin_operator
@@ -2799,9 +2799,9 @@ additionofrohacrossgemdisubstitutedalkene_4 c033 h061
 32 0
 4
 0 17 -1 0
-0 170 -1 0
 0 90 0 1
 0 91 -1 0
+0 170 -1 0
 4
 end_operator
 begin_operator
@@ -2810,9 +2810,9 @@ additionofrohacrossgemdisubstitutedalkene_4 c034 h061
 34 0
 4
 0 22 -1 0
-0 170 -1 0
 0 90 0 1
 0 91 -1 0
+0 170 -1 0
 4
 end_operator
 begin_operator
@@ -2820,9 +2820,9 @@ additionofrohacrossgemdisubstitutedalkene_4 c034 h135
 0
 4
 0 22 -1 0
-0 180 -1 0
 0 90 0 1
 0 91 -1 0
+0 180 -1 0
 4
 end_operator
 begin_operator
@@ -2830,9 +2830,9 @@ additionofrohacrossgemdisubstitutedalkene_4 c034 h136
 0
 4
 0 22 -1 0
-0 160 -1 0
 0 90 0 1
 0 91 -1 0
+0 160 -1 0
 4
 end_operator
 begin_operator
@@ -2841,9 +2841,9 @@ additionofrohacrossgemdisubstitutedalkene_4 c035 h061
 38 0
 4
 0 16 -1 0
-0 170 -1 0
 0 90 0 1
 0 91 -1 0
+0 170 -1 0
 4
 end_operator
 begin_operator
@@ -2851,9 +2851,9 @@ additionofrohacrossgemdisubstitutedalkene_4 c035 h137
 0
 4
 0 16 -1 0
-0 161 -1 0
 0 90 0 1
 0 91 -1 0
+0 161 -1 0
 4
 end_operator
 begin_operator
@@ -2861,9 +2861,9 @@ additionofrohacrossgemdisubstitutedalkene_4 c035 h138
 0
 4
 0 16 -1 0
-0 182 -1 0
 0 90 0 1
 0 91 -1 0
+0 182 -1 0
 4
 end_operator
 begin_operator
@@ -2872,9 +2872,9 @@ additionofrohacrossgemdisubstitutedalkene_4 c036 h061
 40 0
 4
 0 20 -1 0
-0 170 -1 0
 0 90 0 1
 0 91 -1 0
+0 170 -1 0
 4
 end_operator
 begin_operator
@@ -2882,9 +2882,9 @@ additionofrohacrossgemdisubstitutedalkene_4 c036 h139
 0
 4
 0 20 -1 0
-0 163 -1 0
 0 90 0 1
 0 91 -1 0
+0 163 -1 0
 4
 end_operator
 begin_operator
@@ -2892,9 +2892,9 @@ additionofrohacrossgemdisubstitutedalkene_4 c036 h140
 0
 4
 0 20 -1 0
-0 164 -1 0
 0 90 0 1
 0 91 -1 0
+0 164 -1 0
 4
 end_operator
 begin_operator
@@ -2903,9 +2903,9 @@ additionofrohacrossgemdisubstitutedalkene_4 c037 h061
 44 0
 4
 0 23 -1 0
-0 170 -1 0
 0 90 0 1
 0 91 -1 0
+0 170 -1 0
 4
 end_operator
 begin_operator
@@ -2913,9 +2913,9 @@ additionofrohacrossgemdisubstitutedalkene_4 c037 h141
 0
 4
 0 23 -1 0
-0 185 -1 0
 0 90 0 1
 0 91 -1 0
+0 185 -1 0
 4
 end_operator
 begin_operator
@@ -2923,9 +2923,9 @@ additionofrohacrossgemdisubstitutedalkene_4 c037 h142
 0
 4
 0 23 -1 0
-0 166 -1 0
 0 90 0 1
 0 91 -1 0
+0 166 -1 0
 4
 end_operator
 begin_operator
@@ -2934,9 +2934,9 @@ additionofrohacrossgemdisubstitutedalkene_4 c038 h061
 36 0
 4
 0 24 -1 0
-0 170 -1 0
 0 90 0 1
 0 91 -1 0
+0 170 -1 0
 4
 end_operator
 begin_operator
@@ -2944,9 +2944,9 @@ additionofrohacrossgemdisubstitutedalkene_4 c038 h143
 0
 4
 0 24 -1 0
-0 188 -1 0
 0 90 0 1
 0 91 -1 0
+0 188 -1 0
 4
 end_operator
 begin_operator
@@ -2954,9 +2954,9 @@ additionofrohacrossgemdisubstitutedalkene_4 c038 h144
 0
 4
 0 24 -1 0
-0 168 -1 0
 0 90 0 1
 0 91 -1 0
+0 168 -1 0
 4
 end_operator
 begin_operator
@@ -2965,9 +2965,9 @@ additionofrohacrossgemdisubstitutedalkene_5 c016 h061
 9 0
 30 0
 3
-0 191 -1 0
 0 91 0 1
 0 184 -1 0
+0 191 -1 0
 4
 end_operator
 begin_operator
@@ -2975,8 +2975,8 @@ additionofrohacrossgemdisubstitutedalkene_5 c016 h106
 1
 9 0
 3
-0 154 -1 0
 0 91 0 1
+0 154 -1 0
 0 184 -1 0
 4
 end_operator
@@ -2985,8 +2985,8 @@ additionofrohacrossgemdisubstitutedalkene_5 c016 h107
 1
 9 0
 3
-0 155 -1 0
 0 91 0 1
+0 155 -1 0
 0 184 -1 0
 4
 end_operator
@@ -2995,8 +2995,8 @@ additionofrohacrossgemdisubstitutedalkene_5 c016 h108
 1
 9 0
 3
-0 156 -1 0
 0 91 0 1
+0 156 -1 0
 0 184 -1 0
 4
 end_operator
@@ -3006,9 +3006,9 @@ additionofrohacrossgemdisubstitutedalkene_5 c032 h061
 15 0
 195 0
 3
-0 191 -1 0
 0 91 0 1
 0 184 -1 0
+0 191 -1 0
 4
 end_operator
 begin_operator
@@ -3016,8 +3016,8 @@ additionofrohacrossgemdisubstitutedalkene_5 c032 h133
 1
 15 0
 3
-0 157 -1 0
 0 91 0 1
+0 157 -1 0
 0 184 -1 0
 4
 end_operator
@@ -3026,8 +3026,8 @@ additionofrohacrossgemdisubstitutedalkene_5 c032 h134
 1
 15 0
 3
-0 158 -1 0
 0 91 0 1
+0 158 -1 0
 0 184 -1 0
 4
 end_operator
@@ -3037,9 +3037,9 @@ additionofrohacrossgemdisubstitutedalkene_5 c033 h061
 17 0
 32 0
 3
-0 191 -1 0
 0 91 0 1
 0 184 -1 0
+0 191 -1 0
 4
 end_operator
 begin_operator
@@ -3048,9 +3048,9 @@ additionofrohacrossgemdisubstitutedalkene_5 c034 h061
 22 0
 34 0
 3
-0 191 -1 0
 0 91 0 1
 0 184 -1 0
+0 191 -1 0
 4
 end_operator
 begin_operator
@@ -3058,8 +3058,8 @@ additionofrohacrossgemdisubstitutedalkene_5 c034 h135
 1
 22 0
 3
-0 159 -1 0
 0 91 0 1
+0 159 -1 0
 0 184 -1 0
 4
 end_operator
@@ -3068,8 +3068,8 @@ additionofrohacrossgemdisubstitutedalkene_5 c034 h136
 1
 22 0
 3
-0 172 -1 0
 0 91 0 1
+0 172 -1 0
 0 184 -1 0
 4
 end_operator
@@ -3079,9 +3079,9 @@ additionofrohacrossgemdisubstitutedalkene_5 c035 h061
 16 0
 38 0
 3
-0 191 -1 0
 0 91 0 1
 0 184 -1 0
+0 191 -1 0
 4
 end_operator
 begin_operator
@@ -3089,8 +3089,8 @@ additionofrohacrossgemdisubstitutedalkene_5 c035 h137
 1
 16 0
 3
-0 174 -1 0
 0 91 0 1
+0 174 -1 0
 0 184 -1 0
 4
 end_operator
@@ -3099,8 +3099,8 @@ additionofrohacrossgemdisubstitutedalkene_5 c035 h138
 1
 16 0
 3
-0 162 -1 0
 0 91 0 1
+0 162 -1 0
 0 184 -1 0
 4
 end_operator
@@ -3110,9 +3110,9 @@ additionofrohacrossgemdisubstitutedalkene_5 c036 h061
 20 0
 40 0
 3
-0 191 -1 0
 0 91 0 1
 0 184 -1 0
+0 191 -1 0
 4
 end_operator
 begin_operator
@@ -3120,8 +3120,8 @@ additionofrohacrossgemdisubstitutedalkene_5 c036 h139
 1
 20 0
 3
-0 177 -1 0
 0 91 0 1
+0 177 -1 0
 0 184 -1 0
 4
 end_operator
@@ -3130,8 +3130,8 @@ additionofrohacrossgemdisubstitutedalkene_5 c036 h140
 1
 20 0
 3
-0 179 -1 0
 0 91 0 1
+0 179 -1 0
 0 184 -1 0
 4
 end_operator
@@ -3141,9 +3141,9 @@ additionofrohacrossgemdisubstitutedalkene_5 c037 h061
 23 0
 44 0
 3
-0 191 -1 0
 0 91 0 1
 0 184 -1 0
+0 191 -1 0
 4
 end_operator
 begin_operator
@@ -3151,8 +3151,8 @@ additionofrohacrossgemdisubstitutedalkene_5 c037 h141
 1
 23 0
 3
-0 165 -1 0
 0 91 0 1
+0 165 -1 0
 0 184 -1 0
 4
 end_operator
@@ -3161,8 +3161,8 @@ additionofrohacrossgemdisubstitutedalkene_5 c037 h142
 1
 23 0
 3
-0 183 -1 0
 0 91 0 1
+0 183 -1 0
 0 184 -1 0
 4
 end_operator
@@ -3172,9 +3172,9 @@ additionofrohacrossgemdisubstitutedalkene_5 c038 h061
 24 0
 36 0
 3
-0 191 -1 0
 0 91 0 1
 0 184 -1 0
+0 191 -1 0
 4
 end_operator
 begin_operator
@@ -3182,8 +3182,8 @@ additionofrohacrossgemdisubstitutedalkene_5 c038 h143
 1
 24 0
 3
-0 167 -1 0
 0 91 0 1
+0 167 -1 0
 0 184 -1 0
 4
 end_operator
@@ -3192,8 +3192,8 @@ additionofrohacrossgemdisubstitutedalkene_5 c038 h144
 1
 24 0
 3
-0 169 -1 0
 0 91 0 1
+0 169 -1 0
 0 184 -1 0
 4
 end_operator
@@ -3201,8 +3201,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h061 h106
 0
 4
-0 170 0 1
 0 154 0 1
+0 170 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3211,8 +3211,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h061 h107
 0
 4
-0 170 0 1
 0 155 0 1
+0 170 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3221,8 +3221,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h061 h108
 0
 4
-0 170 0 1
 0 156 0 1
+0 170 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3231,8 +3231,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h061 h133
 0
 4
-0 170 0 1
 0 157 0 1
+0 170 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3241,8 +3241,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h061 h134
 0
 4
-0 170 0 1
 0 158 0 1
+0 170 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3251,8 +3251,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h061 h135
 0
 4
-0 170 0 1
 0 159 0 1
+0 170 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3281,8 +3281,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h061 h138
 0
 4
-0 170 0 1
 0 162 0 1
+0 170 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3311,8 +3311,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h061 h141
 0
 4
-0 170 0 1
 0 165 0 1
+0 170 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3331,8 +3331,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h061 h143
 0
 4
-0 170 0 1
 0 167 0 1
+0 170 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3341,8 +3341,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h061 h144
 0
 4
-0 170 0 1
 0 169 0 1
+0 170 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3352,17 +3352,17 @@ additionofrohacrossgemdisubstitutedalkene_6 h106 h061
 0
 4
 0 171 0 1
-0 191 0 1
 0 184 0 1
 0 186 -1 0
+0 191 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h106 h107
 0
 4
-0 171 0 1
 0 155 0 1
+0 171 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3371,8 +3371,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h106 h108
 0
 4
-0 171 0 1
 0 156 0 1
+0 171 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3381,8 +3381,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h106 h133
 0
 4
-0 171 0 1
 0 157 0 1
+0 171 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3391,8 +3391,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h106 h134
 0
 4
-0 171 0 1
 0 158 0 1
+0 171 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3401,8 +3401,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h106 h135
 0
 4
-0 171 0 1
 0 159 0 1
+0 171 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3431,8 +3431,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h106 h138
 0
 4
-0 171 0 1
 0 162 0 1
+0 171 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3461,8 +3461,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h106 h141
 0
 4
-0 171 0 1
 0 165 0 1
+0 171 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3481,8 +3481,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h106 h143
 0
 4
-0 171 0 1
 0 167 0 1
+0 171 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3491,8 +3491,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h106 h144
 0
 4
-0 171 0 1
 0 169 0 1
+0 171 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3502,17 +3502,17 @@ additionofrohacrossgemdisubstitutedalkene_6 h107 h061
 0
 4
 0 173 0 1
-0 191 0 1
 0 184 0 1
 0 186 -1 0
+0 191 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h107 h106
 0
 4
-0 173 0 1
 0 154 0 1
+0 173 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3521,8 +3521,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h107 h108
 0
 4
-0 173 0 1
 0 156 0 1
+0 173 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3531,8 +3531,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h107 h133
 0
 4
-0 173 0 1
 0 157 0 1
+0 173 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3541,8 +3541,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h107 h134
 0
 4
-0 173 0 1
 0 158 0 1
+0 173 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3551,8 +3551,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h107 h135
 0
 4
-0 173 0 1
 0 159 0 1
+0 173 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3561,8 +3561,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h107 h136
 0
 4
-0 173 0 1
 0 172 0 1
+0 173 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3581,8 +3581,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h107 h138
 0
 4
-0 173 0 1
 0 162 0 1
+0 173 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3611,8 +3611,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h107 h141
 0
 4
-0 173 0 1
 0 165 0 1
+0 173 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3631,8 +3631,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h107 h143
 0
 4
-0 173 0 1
 0 167 0 1
+0 173 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3641,8 +3641,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h107 h144
 0
 4
-0 173 0 1
 0 169 0 1
+0 173 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3652,17 +3652,17 @@ additionofrohacrossgemdisubstitutedalkene_6 h108 h061
 0
 4
 0 175 0 1
-0 191 0 1
 0 184 0 1
 0 186 -1 0
+0 191 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h108 h106
 0
 4
-0 175 0 1
 0 154 0 1
+0 175 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3671,8 +3671,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h108 h107
 0
 4
-0 175 0 1
 0 155 0 1
+0 175 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3681,8 +3681,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h108 h133
 0
 4
-0 175 0 1
 0 157 0 1
+0 175 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3691,8 +3691,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h108 h134
 0
 4
-0 175 0 1
 0 158 0 1
+0 175 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3701,8 +3701,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h108 h135
 0
 4
-0 175 0 1
 0 159 0 1
+0 175 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3711,8 +3711,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h108 h136
 0
 4
-0 175 0 1
 0 172 0 1
+0 175 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3721,8 +3721,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h108 h137
 0
 4
-0 175 0 1
 0 174 0 1
+0 175 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3731,8 +3731,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h108 h138
 0
 4
-0 175 0 1
 0 162 0 1
+0 175 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3761,8 +3761,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h108 h141
 0
 4
-0 175 0 1
 0 165 0 1
+0 175 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3781,8 +3781,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h108 h143
 0
 4
-0 175 0 1
 0 167 0 1
+0 175 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3791,8 +3791,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h108 h144
 0
 4
-0 175 0 1
 0 169 0 1
+0 175 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3802,17 +3802,17 @@ additionofrohacrossgemdisubstitutedalkene_6 h133 h061
 0
 4
 0 176 0 1
-0 191 0 1
 0 184 0 1
 0 186 -1 0
+0 191 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h133 h106
 0
 4
-0 176 0 1
 0 154 0 1
+0 176 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3821,8 +3821,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h133 h107
 0
 4
-0 176 0 1
 0 155 0 1
+0 176 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3831,8 +3831,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h133 h108
 0
 4
-0 176 0 1
 0 156 0 1
+0 176 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3841,8 +3841,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h133 h134
 0
 4
-0 176 0 1
 0 158 0 1
+0 176 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3851,8 +3851,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h133 h135
 0
 4
-0 176 0 1
 0 159 0 1
+0 176 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3861,8 +3861,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h133 h136
 0
 4
-0 176 0 1
 0 172 0 1
+0 176 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3871,8 +3871,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h133 h137
 0
 4
-0 176 0 1
 0 174 0 1
+0 176 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3881,8 +3881,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h133 h138
 0
 4
-0 176 0 1
 0 162 0 1
+0 176 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3911,8 +3911,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h133 h141
 0
 4
-0 176 0 1
 0 165 0 1
+0 176 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3931,8 +3931,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h133 h143
 0
 4
-0 176 0 1
 0 167 0 1
+0 176 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3941,8 +3941,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h133 h144
 0
 4
-0 176 0 1
 0 169 0 1
+0 176 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3952,17 +3952,17 @@ additionofrohacrossgemdisubstitutedalkene_6 h134 h061
 0
 4
 0 178 0 1
-0 191 0 1
 0 184 0 1
 0 186 -1 0
+0 191 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h134 h106
 0
 4
-0 178 0 1
 0 154 0 1
+0 178 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3971,8 +3971,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h134 h107
 0
 4
-0 178 0 1
 0 155 0 1
+0 178 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3981,8 +3981,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h134 h108
 0
 4
-0 178 0 1
 0 156 0 1
+0 178 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -3991,8 +3991,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h134 h133
 0
 4
-0 178 0 1
 0 157 0 1
+0 178 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4001,8 +4001,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h134 h135
 0
 4
-0 178 0 1
 0 159 0 1
+0 178 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4011,8 +4011,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h134 h136
 0
 4
-0 178 0 1
 0 172 0 1
+0 178 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4021,8 +4021,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h134 h137
 0
 4
-0 178 0 1
 0 174 0 1
+0 178 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4031,8 +4031,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h134 h138
 0
 4
-0 178 0 1
 0 162 0 1
+0 178 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4041,8 +4041,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h134 h139
 0
 4
-0 178 0 1
 0 177 0 1
+0 178 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4061,8 +4061,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h134 h141
 0
 4
-0 178 0 1
 0 165 0 1
+0 178 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4081,8 +4081,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h134 h143
 0
 4
-0 178 0 1
 0 167 0 1
+0 178 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4091,8 +4091,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h134 h144
 0
 4
-0 178 0 1
 0 169 0 1
+0 178 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4102,17 +4102,17 @@ additionofrohacrossgemdisubstitutedalkene_6 h135 h061
 0
 4
 0 180 0 1
-0 191 0 1
 0 184 0 1
 0 186 -1 0
+0 191 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h135 h106
 0
 4
-0 180 0 1
 0 154 0 1
+0 180 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4121,8 +4121,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h135 h107
 0
 4
-0 180 0 1
 0 155 0 1
+0 180 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4131,8 +4131,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h135 h108
 0
 4
-0 180 0 1
 0 156 0 1
+0 180 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4141,8 +4141,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h135 h133
 0
 4
-0 180 0 1
 0 157 0 1
+0 180 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4151,8 +4151,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h135 h134
 0
 4
-0 180 0 1
 0 158 0 1
+0 180 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4161,8 +4161,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h135 h136
 0
 4
-0 180 0 1
 0 172 0 1
+0 180 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4171,8 +4171,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h135 h137
 0
 4
-0 180 0 1
 0 174 0 1
+0 180 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4181,8 +4181,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h135 h138
 0
 4
-0 180 0 1
 0 162 0 1
+0 180 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4191,8 +4191,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h135 h139
 0
 4
-0 180 0 1
 0 177 0 1
+0 180 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4201,8 +4201,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h135 h140
 0
 4
-0 180 0 1
 0 179 0 1
+0 180 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4211,8 +4211,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h135 h141
 0
 4
-0 180 0 1
 0 165 0 1
+0 180 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4231,8 +4231,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h135 h143
 0
 4
-0 180 0 1
 0 167 0 1
+0 180 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4241,8 +4241,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h135 h144
 0
 4
-0 180 0 1
 0 169 0 1
+0 180 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4252,17 +4252,17 @@ additionofrohacrossgemdisubstitutedalkene_6 h136 h061
 0
 4
 0 160 0 1
-0 191 0 1
 0 184 0 1
 0 186 -1 0
+0 191 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h136 h106
 0
 4
-0 160 0 1
 0 154 0 1
+0 160 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4271,8 +4271,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h136 h107
 0
 4
-0 160 0 1
 0 155 0 1
+0 160 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4281,8 +4281,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h136 h108
 0
 4
-0 160 0 1
 0 156 0 1
+0 160 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4291,8 +4291,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h136 h133
 0
 4
-0 160 0 1
 0 157 0 1
+0 160 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4301,8 +4301,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h136 h134
 0
 4
-0 160 0 1
 0 158 0 1
+0 160 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4311,8 +4311,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h136 h135
 0
 4
-0 160 0 1
 0 159 0 1
+0 160 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4402,17 +4402,17 @@ additionofrohacrossgemdisubstitutedalkene_6 h137 h061
 0
 4
 0 161 0 1
-0 191 0 1
 0 184 0 1
 0 186 -1 0
+0 191 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h137 h106
 0
 4
-0 161 0 1
 0 154 0 1
+0 161 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4421,8 +4421,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h137 h107
 0
 4
-0 161 0 1
 0 155 0 1
+0 161 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4431,8 +4431,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h137 h108
 0
 4
-0 161 0 1
 0 156 0 1
+0 161 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4441,8 +4441,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h137 h133
 0
 4
-0 161 0 1
 0 157 0 1
+0 161 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4451,8 +4451,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h137 h134
 0
 4
-0 161 0 1
 0 158 0 1
+0 161 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4461,8 +4461,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h137 h135
 0
 4
-0 161 0 1
 0 159 0 1
+0 161 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4552,17 +4552,17 @@ additionofrohacrossgemdisubstitutedalkene_6 h138 h061
 0
 4
 0 182 0 1
-0 191 0 1
 0 184 0 1
 0 186 -1 0
+0 191 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h138 h106
 0
 4
-0 182 0 1
 0 154 0 1
+0 182 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4571,8 +4571,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h138 h107
 0
 4
-0 182 0 1
 0 155 0 1
+0 182 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4581,8 +4581,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h138 h108
 0
 4
-0 182 0 1
 0 156 0 1
+0 182 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4591,8 +4591,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h138 h133
 0
 4
-0 182 0 1
 0 157 0 1
+0 182 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4601,8 +4601,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h138 h134
 0
 4
-0 182 0 1
 0 158 0 1
+0 182 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4611,8 +4611,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h138 h135
 0
 4
-0 182 0 1
 0 159 0 1
+0 182 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4621,8 +4621,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h138 h136
 0
 4
-0 182 0 1
 0 172 0 1
+0 182 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4631,8 +4631,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h138 h137
 0
 4
-0 182 0 1
 0 174 0 1
+0 182 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4641,8 +4641,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h138 h139
 0
 4
-0 182 0 1
 0 177 0 1
+0 182 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4651,8 +4651,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h138 h140
 0
 4
-0 182 0 1
 0 179 0 1
+0 182 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4661,8 +4661,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h138 h141
 0
 4
-0 182 0 1
 0 165 0 1
+0 182 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4681,8 +4681,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h138 h143
 0
 4
-0 182 0 1
 0 167 0 1
+0 182 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4691,8 +4691,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h138 h144
 0
 4
-0 182 0 1
 0 169 0 1
+0 182 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4702,17 +4702,17 @@ additionofrohacrossgemdisubstitutedalkene_6 h139 h061
 0
 4
 0 163 0 1
-0 191 0 1
 0 184 0 1
 0 186 -1 0
+0 191 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h139 h106
 0
 4
-0 163 0 1
 0 154 0 1
+0 163 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4721,8 +4721,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h139 h107
 0
 4
-0 163 0 1
 0 155 0 1
+0 163 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4731,8 +4731,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h139 h108
 0
 4
-0 163 0 1
 0 156 0 1
+0 163 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4741,8 +4741,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h139 h133
 0
 4
-0 163 0 1
 0 157 0 1
+0 163 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4751,8 +4751,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h139 h134
 0
 4
-0 163 0 1
 0 158 0 1
+0 163 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4761,8 +4761,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h139 h135
 0
 4
-0 163 0 1
 0 159 0 1
+0 163 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4791,8 +4791,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h139 h138
 0
 4
-0 163 0 1
 0 162 0 1
+0 163 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4852,17 +4852,17 @@ additionofrohacrossgemdisubstitutedalkene_6 h140 h061
 0
 4
 0 164 0 1
-0 191 0 1
 0 184 0 1
 0 186 -1 0
+0 191 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h140 h106
 0
 4
-0 164 0 1
 0 154 0 1
+0 164 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4871,8 +4871,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h140 h107
 0
 4
-0 164 0 1
 0 155 0 1
+0 164 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4881,8 +4881,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h140 h108
 0
 4
-0 164 0 1
 0 156 0 1
+0 164 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4891,8 +4891,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h140 h133
 0
 4
-0 164 0 1
 0 157 0 1
+0 164 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4901,8 +4901,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h140 h134
 0
 4
-0 164 0 1
 0 158 0 1
+0 164 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4911,8 +4911,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h140 h135
 0
 4
-0 164 0 1
 0 159 0 1
+0 164 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -4941,8 +4941,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h140 h138
 0
 4
-0 164 0 1
 0 162 0 1
+0 164 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -5001,19 +5001,19 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h141 h061
 0
 4
-0 185 0 1
-0 191 0 1
 0 184 0 1
+0 185 0 1
 0 186 -1 0
+0 191 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h141 h106
 0
 4
-0 185 0 1
 0 154 0 1
 0 184 0 1
+0 185 0 1
 0 186 -1 0
 4
 end_operator
@@ -5021,9 +5021,9 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h141 h107
 0
 4
-0 185 0 1
 0 155 0 1
 0 184 0 1
+0 185 0 1
 0 186 -1 0
 4
 end_operator
@@ -5031,9 +5031,9 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h141 h108
 0
 4
-0 185 0 1
 0 156 0 1
 0 184 0 1
+0 185 0 1
 0 186 -1 0
 4
 end_operator
@@ -5041,9 +5041,9 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h141 h133
 0
 4
-0 185 0 1
 0 157 0 1
 0 184 0 1
+0 185 0 1
 0 186 -1 0
 4
 end_operator
@@ -5051,9 +5051,9 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h141 h134
 0
 4
-0 185 0 1
 0 158 0 1
 0 184 0 1
+0 185 0 1
 0 186 -1 0
 4
 end_operator
@@ -5061,9 +5061,9 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h141 h135
 0
 4
-0 185 0 1
 0 159 0 1
 0 184 0 1
+0 185 0 1
 0 186 -1 0
 4
 end_operator
@@ -5071,9 +5071,9 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h141 h136
 0
 4
-0 185 0 1
 0 172 0 1
 0 184 0 1
+0 185 0 1
 0 186 -1 0
 4
 end_operator
@@ -5081,9 +5081,9 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h141 h137
 0
 4
-0 185 0 1
 0 174 0 1
 0 184 0 1
+0 185 0 1
 0 186 -1 0
 4
 end_operator
@@ -5091,9 +5091,9 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h141 h138
 0
 4
-0 185 0 1
 0 162 0 1
 0 184 0 1
+0 185 0 1
 0 186 -1 0
 4
 end_operator
@@ -5101,9 +5101,9 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h141 h139
 0
 4
-0 185 0 1
 0 177 0 1
 0 184 0 1
+0 185 0 1
 0 186 -1 0
 4
 end_operator
@@ -5111,9 +5111,9 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h141 h140
 0
 4
-0 185 0 1
 0 179 0 1
 0 184 0 1
+0 185 0 1
 0 186 -1 0
 4
 end_operator
@@ -5121,9 +5121,9 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h141 h142
 0
 4
-0 185 0 1
 0 183 0 1
 0 184 0 1
+0 185 0 1
 0 186 -1 0
 4
 end_operator
@@ -5131,9 +5131,9 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h141 h143
 0
 4
-0 185 0 1
 0 167 0 1
 0 184 0 1
+0 185 0 1
 0 186 -1 0
 4
 end_operator
@@ -5141,9 +5141,9 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h141 h144
 0
 4
-0 185 0 1
 0 169 0 1
 0 184 0 1
+0 185 0 1
 0 186 -1 0
 4
 end_operator
@@ -5152,17 +5152,17 @@ additionofrohacrossgemdisubstitutedalkene_6 h142 h061
 0
 4
 0 166 0 1
-0 191 0 1
 0 184 0 1
 0 186 -1 0
+0 191 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h142 h106
 0
 4
-0 166 0 1
 0 154 0 1
+0 166 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -5171,8 +5171,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h142 h107
 0
 4
-0 166 0 1
 0 155 0 1
+0 166 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -5181,8 +5181,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h142 h108
 0
 4
-0 166 0 1
 0 156 0 1
+0 166 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -5191,8 +5191,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h142 h133
 0
 4
-0 166 0 1
 0 157 0 1
+0 166 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -5201,8 +5201,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h142 h134
 0
 4
-0 166 0 1
 0 158 0 1
+0 166 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -5211,8 +5211,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h142 h135
 0
 4
-0 166 0 1
 0 159 0 1
+0 166 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -5241,8 +5241,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h142 h138
 0
 4
-0 166 0 1
 0 162 0 1
+0 166 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -5271,8 +5271,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h142 h141
 0
 4
-0 166 0 1
 0 165 0 1
+0 166 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -5301,150 +5301,150 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h143 h061
 0
 4
-0 188 0 1
-0 191 0 1
 0 184 0 1
 0 186 -1 0
+0 188 0 1
+0 191 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h143 h106
 0
 4
-0 188 0 1
 0 154 0 1
 0 184 0 1
 0 186 -1 0
+0 188 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h143 h107
 0
 4
-0 188 0 1
 0 155 0 1
 0 184 0 1
 0 186 -1 0
+0 188 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h143 h108
 0
 4
-0 188 0 1
 0 156 0 1
 0 184 0 1
 0 186 -1 0
+0 188 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h143 h133
 0
 4
-0 188 0 1
 0 157 0 1
 0 184 0 1
 0 186 -1 0
+0 188 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h143 h134
 0
 4
-0 188 0 1
 0 158 0 1
 0 184 0 1
 0 186 -1 0
+0 188 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h143 h135
 0
 4
-0 188 0 1
 0 159 0 1
 0 184 0 1
 0 186 -1 0
+0 188 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h143 h136
 0
 4
-0 188 0 1
 0 172 0 1
 0 184 0 1
 0 186 -1 0
+0 188 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h143 h137
 0
 4
-0 188 0 1
 0 174 0 1
 0 184 0 1
 0 186 -1 0
+0 188 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h143 h138
 0
 4
-0 188 0 1
 0 162 0 1
 0 184 0 1
 0 186 -1 0
+0 188 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h143 h139
 0
 4
-0 188 0 1
 0 177 0 1
 0 184 0 1
 0 186 -1 0
+0 188 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h143 h140
 0
 4
-0 188 0 1
 0 179 0 1
 0 184 0 1
 0 186 -1 0
+0 188 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h143 h141
 0
 4
-0 188 0 1
 0 165 0 1
 0 184 0 1
 0 186 -1 0
+0 188 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h143 h142
 0
 4
-0 188 0 1
 0 183 0 1
 0 184 0 1
 0 186 -1 0
+0 188 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h143 h144
 0
 4
-0 188 0 1
 0 169 0 1
 0 184 0 1
 0 186 -1 0
+0 188 0 1
 4
 end_operator
 begin_operator
@@ -5452,17 +5452,17 @@ additionofrohacrossgemdisubstitutedalkene_6 h144 h061
 0
 4
 0 168 0 1
-0 191 0 1
 0 184 0 1
 0 186 -1 0
+0 191 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h144 h106
 0
 4
-0 168 0 1
 0 154 0 1
+0 168 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -5471,8 +5471,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h144 h107
 0
 4
-0 168 0 1
 0 155 0 1
+0 168 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -5481,8 +5481,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h144 h108
 0
 4
-0 168 0 1
 0 156 0 1
+0 168 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -5491,8 +5491,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h144 h133
 0
 4
-0 168 0 1
 0 157 0 1
+0 168 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -5501,8 +5501,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h144 h134
 0
 4
-0 168 0 1
 0 158 0 1
+0 168 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -5511,8 +5511,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h144 h135
 0
 4
-0 168 0 1
 0 159 0 1
+0 168 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -5541,8 +5541,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h144 h138
 0
 4
-0 168 0 1
 0 162 0 1
+0 168 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -5571,8 +5571,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h144 h141
 0
 4
-0 168 0 1
 0 165 0 1
+0 168 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -5591,8 +5591,8 @@ begin_operator
 additionofrohacrossgemdisubstitutedalkene_6 h144 h143
 0
 4
-0 168 0 1
 0 167 0 1
+0 168 0 1
 0 184 0 1
 0 186 -1 0
 4
@@ -5602,39 +5602,39 @@ additionofrohacrossgemdisubstitutedalkene_7 h061 o066
 1
 103 0
 5
-0 52 -1 0
-0 46 -1 1
-0 28 0 1
-0 186 0 1
 0 11 -1 0
+0 28 0 1
+0 46 -1 1
+0 52 -1 0
+0 186 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_8 c032 c033
 2
-102 0
 17 0
+102 0
 6
-0 197 -1 0
-0 198 -1 0
 0 11 0 1
 0 49 -1 0
 0 99 0 1
 0 100 -1 1
+0 197 -1 0
+0 198 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossgemdisubstitutedalkene_8 c033 c032
 2
-98 0
 15 0
+98 0
 6
-0 197 -1 0
-0 198 -1 0
 0 11 0 1
 0 49 -1 0
 0 99 -1 1
 0 100 0 1
+0 197 -1 0
+0 198 -1 0
 4
 end_operator
 begin_operator
@@ -5642,11 +5642,11 @@ additionofrohacrossgemdisubstitutedalkene_9 c016 h061
 0
 6
 0 9 0 1
-0 52 0 1
 0 30 -1 0
 0 31 -1 0
-0 93 -1 0
 0 49 0 1
+0 52 0 1
+0 93 -1 0
 4
 end_operator
 begin_operator
@@ -5654,11 +5654,11 @@ additionofrohacrossgemdisubstitutedalkene_9 c032 h061
 0
 6
 0 15 0 1
+0 49 0 1
 0 52 0 1
+0 93 -1 0
 0 195 -1 0
 0 196 -1 0
-0 93 -1 0
-0 49 0 1
 4
 end_operator
 begin_operator
@@ -5666,11 +5666,11 @@ additionofrohacrossgemdisubstitutedalkene_9 c033 h061
 0
 6
 0 17 0 1
-0 52 0 1
 0 32 -1 0
 0 33 -1 0
-0 93 -1 0
 0 49 0 1
+0 52 0 1
+0 93 -1 0
 4
 end_operator
 begin_operator
@@ -5678,11 +5678,11 @@ additionofrohacrossgemdisubstitutedalkene_9 c034 h061
 0
 6
 0 22 0 1
-0 52 0 1
 0 34 -1 0
 0 35 -1 0
-0 93 -1 0
 0 49 0 1
+0 52 0 1
+0 93 -1 0
 4
 end_operator
 begin_operator
@@ -5690,11 +5690,11 @@ additionofrohacrossgemdisubstitutedalkene_9 c035 h061
 0
 6
 0 16 0 1
-0 52 0 1
 0 38 -1 0
 0 39 -1 0
-0 93 -1 0
 0 49 0 1
+0 52 0 1
+0 93 -1 0
 4
 end_operator
 begin_operator
@@ -5702,11 +5702,11 @@ additionofrohacrossgemdisubstitutedalkene_9 c036 h061
 0
 6
 0 20 0 1
-0 52 0 1
 0 40 -1 0
 0 41 -1 0
-0 93 -1 0
 0 49 0 1
+0 52 0 1
+0 93 -1 0
 4
 end_operator
 begin_operator
@@ -5714,11 +5714,11 @@ additionofrohacrossgemdisubstitutedalkene_9 c037 h061
 0
 6
 0 23 0 1
-0 52 0 1
 0 44 -1 0
 0 45 -1 0
-0 93 -1 0
 0 49 0 1
+0 52 0 1
+0 93 -1 0
 4
 end_operator
 begin_operator
@@ -5726,19 +5726,19 @@ additionofrohacrossgemdisubstitutedalkene_9 c038 h061
 0
 6
 0 24 0 1
-0 52 0 1
 0 36 -1 0
 0 37 -1 0
-0 93 -1 0
 0 49 0 1
+0 52 0 1
+0 93 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_1 o066 c016
 0
 3
-0 101 -1 0
 0 75 -1 0
+0 101 -1 0
 0 199 0 1
 4
 end_operator
@@ -5747,8 +5747,8 @@ additionofrohacrossmonosubstitutedalkene_1 o066 c032
 1
 73 0
 3
-0 101 -1 0
 0 75 -1 0
+0 101 -1 0
 0 199 0 1
 4
 end_operator
@@ -5757,8 +5757,8 @@ additionofrohacrossmonosubstitutedalkene_1 o066 c033
 1
 194 0
 3
-0 101 -1 0
 0 75 -1 0
+0 101 -1 0
 0 199 0 1
 4
 end_operator
@@ -5767,8 +5767,8 @@ additionofrohacrossmonosubstitutedalkene_1 o066 c034
 1
 92 0
 3
-0 101 -1 0
 0 75 -1 0
+0 101 -1 0
 0 199 0 1
 4
 end_operator
@@ -5777,8 +5777,8 @@ additionofrohacrossmonosubstitutedalkene_1 o066 c035
 1
 59 0
 3
-0 101 -1 0
 0 75 -1 0
+0 101 -1 0
 0 199 0 1
 4
 end_operator
@@ -5787,8 +5787,8 @@ additionofrohacrossmonosubstitutedalkene_1 o066 c036
 1
 60 0
 3
-0 101 -1 0
 0 75 -1 0
+0 101 -1 0
 0 199 0 1
 4
 end_operator
@@ -5797,8 +5797,8 @@ additionofrohacrossmonosubstitutedalkene_1 o066 c037
 1
 61 0
 3
-0 101 -1 0
 0 75 -1 0
+0 101 -1 0
 0 199 0 1
 4
 end_operator
@@ -5807,8 +5807,8 @@ additionofrohacrossmonosubstitutedalkene_1 o066 c038
 1
 62 0
 3
-0 101 -1 0
 0 75 -1 0
+0 101 -1 0
 0 199 0 1
 4
 end_operator
@@ -5817,47 +5817,47 @@ additionofrohacrossmonosubstitutedalkene_1 o066 h061
 1
 46 0
 3
-0 101 -1 0
 0 75 -1 0
+0 101 -1 0
 0 199 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_10 c032 c033
 2
-102 0
 19 0
+102 0
 6
-0 197 -1 0
-0 198 -1 0
 0 12 0 1
 0 48 -1 0
 0 99 0 1
 0 100 -1 1
+0 197 -1 0
+0 198 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_10 c033 c032
 2
-98 0
 18 0
+98 0
 6
-0 197 -1 0
-0 198 -1 0
 0 12 0 1
 0 48 -1 0
 0 99 -1 1
 0 100 0 1
+0 197 -1 0
+0 198 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_11 h061 c016
 0
 6
-0 47 0 1
 0 10 0 1
 0 30 -1 0
 0 31 -1 0
+0 47 0 1
 0 48 0 1
 0 94 -1 0
 3
@@ -5866,22 +5866,22 @@ begin_operator
 additionofrohacrossmonosubstitutedalkene_11 h061 c032
 0
 6
-0 47 0 1
 0 18 0 1
-0 195 -1 0
-0 196 -1 0
+0 47 0 1
 0 48 0 1
 0 94 -1 0
+0 195 -1 0
+0 196 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_11 h061 c033
 0
 6
-0 47 0 1
 0 19 0 1
 0 32 -1 0
 0 33 -1 0
+0 47 0 1
 0 48 0 1
 0 94 -1 0
 3
@@ -5890,10 +5890,10 @@ begin_operator
 additionofrohacrossmonosubstitutedalkene_11 h061 c034
 0
 6
-0 47 0 1
 0 21 0 1
 0 34 -1 0
 0 35 -1 0
+0 47 0 1
 0 48 0 1
 0 94 -1 0
 3
@@ -5902,10 +5902,10 @@ begin_operator
 additionofrohacrossmonosubstitutedalkene_11 h061 c035
 0
 6
-0 47 0 1
 0 26 0 1
 0 38 -1 0
 0 39 -1 0
+0 47 0 1
 0 48 0 1
 0 94 -1 0
 3
@@ -5914,10 +5914,10 @@ begin_operator
 additionofrohacrossmonosubstitutedalkene_11 h061 c036
 0
 6
-0 47 0 1
 0 27 0 1
 0 40 -1 0
 0 41 -1 0
+0 47 0 1
 0 48 0 1
 0 94 -1 0
 3
@@ -5926,10 +5926,10 @@ begin_operator
 additionofrohacrossmonosubstitutedalkene_11 h061 c037
 0
 6
-0 47 0 1
 0 29 0 1
 0 44 -1 0
 0 45 -1 0
+0 47 0 1
 0 48 0 1
 0 94 -1 0
 3
@@ -5938,10 +5938,10 @@ begin_operator
 additionofrohacrossmonosubstitutedalkene_11 h061 c038
 0
 6
-0 47 0 1
 0 25 0 1
 0 36 -1 0
 0 37 -1 0
+0 47 0 1
 0 48 0 1
 0 94 -1 0
 3
@@ -5951,8 +5951,8 @@ additionofrohacrossmonosubstitutedalkene_12 c016 o066
 0
 4
 0 78 0 1
-0 101 0 1
 0 94 0 1
+0 101 0 1
 0 199 -1 0
 3
 end_operator
@@ -5960,24 +5960,24 @@ begin_operator
 additionofrohacrossmonosubstitutedalkene_12 c032 o066
 0
 6
-0 102 0 1
-0 101 0 1
 0 73 -1 0
-0 206 -1 0
 0 94 0 1
+0 101 0 1
+0 102 0 1
 0 199 -1 0
+0 206 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_12 c033 o066
 0
 6
+0 94 0 1
 0 98 0 1
 0 101 0 1
 0 194 -1 0
-0 205 -1 0
-0 94 0 1
 0 199 -1 0
+0 205 -1 0
 3
 end_operator
 begin_operator
@@ -5985,59 +5985,59 @@ additionofrohacrossmonosubstitutedalkene_12 c034 o066
 0
 6
 0 79 0 1
-0 101 0 1
 0 92 -1 0
-0 204 -1 0
 0 94 0 1
+0 101 0 1
 0 199 -1 0
+0 204 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_12 c035 o066
 0
 6
-0 80 0 1
-0 101 0 1
 0 59 -1 0
-0 203 -1 0
+0 80 0 1
 0 94 0 1
+0 101 0 1
 0 199 -1 0
+0 203 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_12 c036 o066
 0
 6
-0 81 0 1
-0 101 0 1
 0 60 -1 0
-0 202 -1 0
+0 81 0 1
 0 94 0 1
+0 101 0 1
 0 199 -1 0
+0 202 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_12 c037 o066
 0
 6
-0 82 0 1
-0 101 0 1
 0 61 -1 0
-0 201 -1 0
+0 82 0 1
 0 94 0 1
+0 101 0 1
 0 199 -1 0
+0 201 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_12 c038 o066
 0
 6
-0 85 0 1
-0 101 0 1
 0 62 -1 0
-0 200 -1 0
+0 85 0 1
 0 94 0 1
+0 101 0 1
 0 199 -1 0
+0 200 -1 0
 3
 end_operator
 begin_operator
@@ -6045,36 +6045,36 @@ additionofrohacrossmonosubstitutedalkene_2 c016 h061
 1
 31 0
 3
-0 78 -1 0
 0 75 0 1
 0 76 -1 0
+0 78 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_2 c016 h106
 0
 3
-0 78 -1 0
 0 75 0 1
 0 76 -1 0
+0 78 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_2 c016 h107
 0
 3
-0 78 -1 0
 0 75 0 1
 0 76 -1 0
+0 78 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_2 c016 h108
 0
 3
-0 78 -1 0
 0 75 0 1
 0 76 -1 0
+0 78 -1 0
 4
 end_operator
 begin_operator
@@ -6082,9 +6082,9 @@ additionofrohacrossmonosubstitutedalkene_2 c032 c033
 1
 198 0
 3
-0 102 -1 0
 0 75 0 1
 0 76 -1 0
+0 102 -1 0
 4
 end_operator
 begin_operator
@@ -6092,27 +6092,27 @@ additionofrohacrossmonosubstitutedalkene_2 c032 h061
 1
 196 0
 3
-0 102 -1 0
 0 75 0 1
 0 76 -1 0
+0 102 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_2 c032 h133
 0
 3
-0 102 -1 0
 0 75 0 1
 0 76 -1 0
+0 102 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_2 c032 h134
 0
 3
-0 102 -1 0
 0 75 0 1
 0 76 -1 0
+0 102 -1 0
 4
 end_operator
 begin_operator
@@ -6120,27 +6120,27 @@ additionofrohacrossmonosubstitutedalkene_2 c033 c032
 1
 197 0
 3
-0 98 -1 0
 0 75 0 1
 0 76 -1 0
+0 98 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_2 c033 c034
 0
 3
-0 98 -1 0
 0 75 0 1
 0 76 -1 0
+0 98 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_2 c033 c038
 0
 3
-0 98 -1 0
 0 75 0 1
 0 76 -1 0
+0 98 -1 0
 4
 end_operator
 begin_operator
@@ -6148,27 +6148,27 @@ additionofrohacrossmonosubstitutedalkene_2 c033 h061
 1
 33 0
 3
-0 98 -1 0
 0 75 0 1
 0 76 -1 0
+0 98 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_2 c034 c033
 0
 3
-0 79 -1 0
 0 75 0 1
 0 76 -1 0
+0 79 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_2 c034 c035
 0
 3
-0 79 -1 0
 0 75 0 1
 0 76 -1 0
+0 79 -1 0
 4
 end_operator
 begin_operator
@@ -6176,45 +6176,45 @@ additionofrohacrossmonosubstitutedalkene_2 c034 h061
 1
 35 0
 3
-0 79 -1 0
 0 75 0 1
 0 76 -1 0
+0 79 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_2 c034 h135
 0
 3
-0 79 -1 0
 0 75 0 1
 0 76 -1 0
+0 79 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_2 c034 h136
 0
 3
-0 79 -1 0
 0 75 0 1
 0 76 -1 0
+0 79 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_2 c035 c034
 0
 3
-0 80 -1 0
 0 75 0 1
 0 76 -1 0
+0 80 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_2 c035 c036
 0
 3
-0 80 -1 0
 0 75 0 1
 0 76 -1 0
+0 80 -1 0
 4
 end_operator
 begin_operator
@@ -6222,45 +6222,45 @@ additionofrohacrossmonosubstitutedalkene_2 c035 h061
 1
 39 0
 3
-0 80 -1 0
 0 75 0 1
 0 76 -1 0
+0 80 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_2 c035 h137
 0
 3
-0 80 -1 0
 0 75 0 1
 0 76 -1 0
+0 80 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_2 c035 h138
 0
 3
-0 80 -1 0
 0 75 0 1
 0 76 -1 0
+0 80 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_2 c036 c035
 0
 3
-0 81 -1 0
 0 75 0 1
 0 76 -1 0
+0 81 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_2 c036 c037
 0
 3
-0 81 -1 0
 0 75 0 1
 0 76 -1 0
+0 81 -1 0
 4
 end_operator
 begin_operator
@@ -6268,45 +6268,45 @@ additionofrohacrossmonosubstitutedalkene_2 c036 h061
 1
 41 0
 3
-0 81 -1 0
 0 75 0 1
 0 76 -1 0
+0 81 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_2 c036 h139
 0
 3
-0 81 -1 0
 0 75 0 1
 0 76 -1 0
+0 81 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_2 c036 h140
 0
 3
-0 81 -1 0
 0 75 0 1
 0 76 -1 0
+0 81 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_2 c037 c036
 0
 3
-0 82 -1 0
 0 75 0 1
 0 76 -1 0
+0 82 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_2 c037 c038
 0
 3
-0 82 -1 0
 0 75 0 1
 0 76 -1 0
+0 82 -1 0
 4
 end_operator
 begin_operator
@@ -6314,45 +6314,45 @@ additionofrohacrossmonosubstitutedalkene_2 c037 h061
 1
 45 0
 3
-0 82 -1 0
 0 75 0 1
 0 76 -1 0
+0 82 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_2 c037 h141
 0
 3
-0 82 -1 0
 0 75 0 1
 0 76 -1 0
+0 82 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_2 c037 h142
 0
 3
-0 82 -1 0
 0 75 0 1
 0 76 -1 0
+0 82 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_2 c038 c033
 0
 3
-0 85 -1 0
 0 75 0 1
 0 76 -1 0
+0 85 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_2 c038 c037
 0
 3
-0 85 -1 0
 0 75 0 1
 0 76 -1 0
+0 85 -1 0
 4
 end_operator
 begin_operator
@@ -6360,27 +6360,27 @@ additionofrohacrossmonosubstitutedalkene_2 c038 h061
 1
 37 0
 3
-0 85 -1 0
 0 75 0 1
 0 76 -1 0
+0 85 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_2 c038 h143
 0
 3
-0 85 -1 0
 0 75 0 1
 0 76 -1 0
+0 85 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_2 c038 h144
 0
 3
-0 85 -1 0
 0 75 0 1
 0 76 -1 0
+0 85 -1 0
 4
 end_operator
 begin_operator
@@ -6389,9 +6389,9 @@ additionofrohacrossmonosubstitutedalkene_3 c016 h061
 30 0
 4
 0 10 -1 0
-0 170 -1 0
 0 76 0 1
 0 77 -1 0
+0 170 -1 0
 4
 end_operator
 begin_operator
@@ -6399,9 +6399,9 @@ additionofrohacrossmonosubstitutedalkene_3 c016 h106
 0
 4
 0 10 -1 0
-0 171 -1 0
 0 76 0 1
 0 77 -1 0
+0 171 -1 0
 4
 end_operator
 begin_operator
@@ -6409,9 +6409,9 @@ additionofrohacrossmonosubstitutedalkene_3 c016 h107
 0
 4
 0 10 -1 0
-0 173 -1 0
 0 76 0 1
 0 77 -1 0
+0 173 -1 0
 4
 end_operator
 begin_operator
@@ -6419,9 +6419,9 @@ additionofrohacrossmonosubstitutedalkene_3 c016 h108
 0
 4
 0 10 -1 0
-0 175 -1 0
 0 76 0 1
 0 77 -1 0
+0 175 -1 0
 4
 end_operator
 begin_operator
@@ -6430,9 +6430,9 @@ additionofrohacrossmonosubstitutedalkene_3 c032 h061
 195 0
 4
 0 18 -1 0
-0 170 -1 0
 0 76 0 1
 0 77 -1 0
+0 170 -1 0
 4
 end_operator
 begin_operator
@@ -6440,9 +6440,9 @@ additionofrohacrossmonosubstitutedalkene_3 c032 h133
 0
 4
 0 18 -1 0
-0 176 -1 0
 0 76 0 1
 0 77 -1 0
+0 176 -1 0
 4
 end_operator
 begin_operator
@@ -6450,9 +6450,9 @@ additionofrohacrossmonosubstitutedalkene_3 c032 h134
 0
 4
 0 18 -1 0
-0 178 -1 0
 0 76 0 1
 0 77 -1 0
+0 178 -1 0
 4
 end_operator
 begin_operator
@@ -6461,9 +6461,9 @@ additionofrohacrossmonosubstitutedalkene_3 c033 h061
 32 0
 4
 0 19 -1 0
-0 170 -1 0
 0 76 0 1
 0 77 -1 0
+0 170 -1 0
 4
 end_operator
 begin_operator
@@ -6472,9 +6472,9 @@ additionofrohacrossmonosubstitutedalkene_3 c034 h061
 34 0
 4
 0 21 -1 0
-0 170 -1 0
 0 76 0 1
 0 77 -1 0
+0 170 -1 0
 4
 end_operator
 begin_operator
@@ -6482,9 +6482,9 @@ additionofrohacrossmonosubstitutedalkene_3 c034 h135
 0
 4
 0 21 -1 0
-0 180 -1 0
 0 76 0 1
 0 77 -1 0
+0 180 -1 0
 4
 end_operator
 begin_operator
@@ -6492,9 +6492,9 @@ additionofrohacrossmonosubstitutedalkene_3 c034 h136
 0
 4
 0 21 -1 0
-0 160 -1 0
 0 76 0 1
 0 77 -1 0
+0 160 -1 0
 4
 end_operator
 begin_operator
@@ -6503,9 +6503,9 @@ additionofrohacrossmonosubstitutedalkene_3 c035 h061
 38 0
 4
 0 26 -1 0
-0 170 -1 0
 0 76 0 1
 0 77 -1 0
+0 170 -1 0
 4
 end_operator
 begin_operator
@@ -6513,9 +6513,9 @@ additionofrohacrossmonosubstitutedalkene_3 c035 h137
 0
 4
 0 26 -1 0
-0 161 -1 0
 0 76 0 1
 0 77 -1 0
+0 161 -1 0
 4
 end_operator
 begin_operator
@@ -6523,9 +6523,9 @@ additionofrohacrossmonosubstitutedalkene_3 c035 h138
 0
 4
 0 26 -1 0
-0 182 -1 0
 0 76 0 1
 0 77 -1 0
+0 182 -1 0
 4
 end_operator
 begin_operator
@@ -6534,9 +6534,9 @@ additionofrohacrossmonosubstitutedalkene_3 c036 h061
 40 0
 4
 0 27 -1 0
-0 170 -1 0
 0 76 0 1
 0 77 -1 0
+0 170 -1 0
 4
 end_operator
 begin_operator
@@ -6544,9 +6544,9 @@ additionofrohacrossmonosubstitutedalkene_3 c036 h139
 0
 4
 0 27 -1 0
-0 163 -1 0
 0 76 0 1
 0 77 -1 0
+0 163 -1 0
 4
 end_operator
 begin_operator
@@ -6554,9 +6554,9 @@ additionofrohacrossmonosubstitutedalkene_3 c036 h140
 0
 4
 0 27 -1 0
-0 164 -1 0
 0 76 0 1
 0 77 -1 0
+0 164 -1 0
 4
 end_operator
 begin_operator
@@ -6565,9 +6565,9 @@ additionofrohacrossmonosubstitutedalkene_3 c037 h061
 44 0
 4
 0 29 -1 0
-0 170 -1 0
 0 76 0 1
 0 77 -1 0
+0 170 -1 0
 4
 end_operator
 begin_operator
@@ -6575,9 +6575,9 @@ additionofrohacrossmonosubstitutedalkene_3 c037 h141
 0
 4
 0 29 -1 0
-0 185 -1 0
 0 76 0 1
 0 77 -1 0
+0 185 -1 0
 4
 end_operator
 begin_operator
@@ -6585,9 +6585,9 @@ additionofrohacrossmonosubstitutedalkene_3 c037 h142
 0
 4
 0 29 -1 0
-0 166 -1 0
 0 76 0 1
 0 77 -1 0
+0 166 -1 0
 4
 end_operator
 begin_operator
@@ -6596,9 +6596,9 @@ additionofrohacrossmonosubstitutedalkene_3 c038 h061
 36 0
 4
 0 25 -1 0
-0 170 -1 0
 0 76 0 1
 0 77 -1 0
+0 170 -1 0
 4
 end_operator
 begin_operator
@@ -6606,9 +6606,9 @@ additionofrohacrossmonosubstitutedalkene_3 c038 h143
 0
 4
 0 25 -1 0
-0 188 -1 0
 0 76 0 1
 0 77 -1 0
+0 188 -1 0
 4
 end_operator
 begin_operator
@@ -6616,9 +6616,9 @@ additionofrohacrossmonosubstitutedalkene_3 c038 h144
 0
 4
 0 25 -1 0
-0 168 -1 0
 0 76 0 1
 0 77 -1 0
+0 168 -1 0
 4
 end_operator
 begin_operator
@@ -6627,9 +6627,9 @@ additionofrohacrossmonosubstitutedalkene_4 c016 h061
 10 0
 30 0
 3
-0 152 -1 0
 0 77 0 1
 0 83 -1 0
+0 152 -1 0
 4
 end_operator
 begin_operator
@@ -6637,9 +6637,9 @@ additionofrohacrossmonosubstitutedalkene_4 c016 h106
 1
 10 0
 3
-0 112 -1 0
 0 77 0 1
 0 83 -1 0
+0 112 -1 0
 4
 end_operator
 begin_operator
@@ -6647,9 +6647,9 @@ additionofrohacrossmonosubstitutedalkene_4 c016 h107
 1
 10 0
 3
-0 113 -1 0
 0 77 0 1
 0 83 -1 0
+0 113 -1 0
 4
 end_operator
 begin_operator
@@ -6657,9 +6657,9 @@ additionofrohacrossmonosubstitutedalkene_4 c016 h108
 1
 10 0
 3
-0 114 -1 0
 0 77 0 1
 0 83 -1 0
+0 114 -1 0
 4
 end_operator
 begin_operator
@@ -6668,9 +6668,9 @@ additionofrohacrossmonosubstitutedalkene_4 c032 h061
 18 0
 195 0
 3
-0 152 -1 0
 0 77 0 1
 0 83 -1 0
+0 152 -1 0
 4
 end_operator
 begin_operator
@@ -6678,9 +6678,9 @@ additionofrohacrossmonosubstitutedalkene_4 c032 h133
 1
 18 0
 3
-0 115 -1 0
 0 77 0 1
 0 83 -1 0
+0 115 -1 0
 4
 end_operator
 begin_operator
@@ -6688,9 +6688,9 @@ additionofrohacrossmonosubstitutedalkene_4 c032 h134
 1
 18 0
 3
-0 116 -1 0
 0 77 0 1
 0 83 -1 0
+0 116 -1 0
 4
 end_operator
 begin_operator
@@ -6699,9 +6699,9 @@ additionofrohacrossmonosubstitutedalkene_4 c033 h061
 19 0
 32 0
 3
-0 152 -1 0
 0 77 0 1
 0 83 -1 0
+0 152 -1 0
 4
 end_operator
 begin_operator
@@ -6710,9 +6710,9 @@ additionofrohacrossmonosubstitutedalkene_4 c034 h061
 21 0
 34 0
 3
-0 152 -1 0
 0 77 0 1
 0 83 -1 0
+0 152 -1 0
 4
 end_operator
 begin_operator
@@ -6720,9 +6720,9 @@ additionofrohacrossmonosubstitutedalkene_4 c034 h135
 1
 21 0
 3
-0 117 -1 0
 0 77 0 1
 0 83 -1 0
+0 117 -1 0
 4
 end_operator
 begin_operator
@@ -6730,9 +6730,9 @@ additionofrohacrossmonosubstitutedalkene_4 c034 h136
 1
 21 0
 3
-0 118 -1 0
 0 77 0 1
 0 83 -1 0
+0 118 -1 0
 4
 end_operator
 begin_operator
@@ -6741,9 +6741,9 @@ additionofrohacrossmonosubstitutedalkene_4 c035 h061
 26 0
 38 0
 3
-0 152 -1 0
 0 77 0 1
 0 83 -1 0
+0 152 -1 0
 4
 end_operator
 begin_operator
@@ -6751,9 +6751,9 @@ additionofrohacrossmonosubstitutedalkene_4 c035 h137
 1
 26 0
 3
-0 119 -1 0
 0 77 0 1
 0 83 -1 0
+0 119 -1 0
 4
 end_operator
 begin_operator
@@ -6761,9 +6761,9 @@ additionofrohacrossmonosubstitutedalkene_4 c035 h138
 1
 26 0
 3
-0 120 -1 0
 0 77 0 1
 0 83 -1 0
+0 120 -1 0
 4
 end_operator
 begin_operator
@@ -6772,9 +6772,9 @@ additionofrohacrossmonosubstitutedalkene_4 c036 h061
 27 0
 40 0
 3
-0 152 -1 0
 0 77 0 1
 0 83 -1 0
+0 152 -1 0
 4
 end_operator
 begin_operator
@@ -6782,9 +6782,9 @@ additionofrohacrossmonosubstitutedalkene_4 c036 h139
 1
 27 0
 3
-0 121 -1 0
 0 77 0 1
 0 83 -1 0
+0 121 -1 0
 4
 end_operator
 begin_operator
@@ -6792,9 +6792,9 @@ additionofrohacrossmonosubstitutedalkene_4 c036 h140
 1
 27 0
 3
-0 122 -1 0
 0 77 0 1
 0 83 -1 0
+0 122 -1 0
 4
 end_operator
 begin_operator
@@ -6803,9 +6803,9 @@ additionofrohacrossmonosubstitutedalkene_4 c037 h061
 29 0
 44 0
 3
-0 152 -1 0
 0 77 0 1
 0 83 -1 0
+0 152 -1 0
 4
 end_operator
 begin_operator
@@ -6813,9 +6813,9 @@ additionofrohacrossmonosubstitutedalkene_4 c037 h141
 1
 29 0
 3
-0 123 -1 0
 0 77 0 1
 0 83 -1 0
+0 123 -1 0
 4
 end_operator
 begin_operator
@@ -6823,9 +6823,9 @@ additionofrohacrossmonosubstitutedalkene_4 c037 h142
 1
 29 0
 3
-0 124 -1 0
 0 77 0 1
 0 83 -1 0
+0 124 -1 0
 4
 end_operator
 begin_operator
@@ -6834,9 +6834,9 @@ additionofrohacrossmonosubstitutedalkene_4 c038 h061
 25 0
 36 0
 3
-0 152 -1 0
 0 77 0 1
 0 83 -1 0
+0 152 -1 0
 4
 end_operator
 begin_operator
@@ -6844,9 +6844,9 @@ additionofrohacrossmonosubstitutedalkene_4 c038 h143
 1
 25 0
 3
-0 125 -1 0
 0 77 0 1
 0 83 -1 0
+0 125 -1 0
 4
 end_operator
 begin_operator
@@ -6854,20 +6854,20 @@ additionofrohacrossmonosubstitutedalkene_4 c038 h144
 1
 25 0
 3
-0 126 -1 0
 0 77 0 1
 0 83 -1 0
+0 126 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_5 c016 h061
 2
-78 0
 30 0
+78 0
 3
-0 191 -1 0
 0 83 0 1
 0 181 -1 0
+0 191 -1 0
 4
 end_operator
 begin_operator
@@ -6875,8 +6875,8 @@ additionofrohacrossmonosubstitutedalkene_5 c016 h106
 1
 78 0
 3
-0 154 -1 0
 0 83 0 1
+0 154 -1 0
 0 181 -1 0
 4
 end_operator
@@ -6885,8 +6885,8 @@ additionofrohacrossmonosubstitutedalkene_5 c016 h107
 1
 78 0
 3
-0 155 -1 0
 0 83 0 1
+0 155 -1 0
 0 181 -1 0
 4
 end_operator
@@ -6895,8 +6895,8 @@ additionofrohacrossmonosubstitutedalkene_5 c016 h108
 1
 78 0
 3
-0 156 -1 0
 0 83 0 1
+0 156 -1 0
 0 181 -1 0
 4
 end_operator
@@ -6906,9 +6906,9 @@ additionofrohacrossmonosubstitutedalkene_5 c032 h061
 102 0
 195 0
 3
-0 191 -1 0
 0 83 0 1
 0 181 -1 0
+0 191 -1 0
 4
 end_operator
 begin_operator
@@ -6916,8 +6916,8 @@ additionofrohacrossmonosubstitutedalkene_5 c032 h133
 1
 102 0
 3
-0 157 -1 0
 0 83 0 1
+0 157 -1 0
 0 181 -1 0
 4
 end_operator
@@ -6926,31 +6926,31 @@ additionofrohacrossmonosubstitutedalkene_5 c032 h134
 1
 102 0
 3
-0 158 -1 0
 0 83 0 1
+0 158 -1 0
 0 181 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_5 c033 h061
 2
-98 0
 32 0
+98 0
 3
-0 191 -1 0
 0 83 0 1
 0 181 -1 0
+0 191 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_5 c034 h061
 2
-79 0
 34 0
+79 0
 3
-0 191 -1 0
 0 83 0 1
 0 181 -1 0
+0 191 -1 0
 4
 end_operator
 begin_operator
@@ -6958,8 +6958,8 @@ additionofrohacrossmonosubstitutedalkene_5 c034 h135
 1
 79 0
 3
-0 159 -1 0
 0 83 0 1
+0 159 -1 0
 0 181 -1 0
 4
 end_operator
@@ -6968,20 +6968,20 @@ additionofrohacrossmonosubstitutedalkene_5 c034 h136
 1
 79 0
 3
-0 172 -1 0
 0 83 0 1
+0 172 -1 0
 0 181 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_5 c035 h061
 2
-80 0
 38 0
+80 0
 3
-0 191 -1 0
 0 83 0 1
 0 181 -1 0
+0 191 -1 0
 4
 end_operator
 begin_operator
@@ -6989,8 +6989,8 @@ additionofrohacrossmonosubstitutedalkene_5 c035 h137
 1
 80 0
 3
-0 174 -1 0
 0 83 0 1
+0 174 -1 0
 0 181 -1 0
 4
 end_operator
@@ -6999,20 +6999,20 @@ additionofrohacrossmonosubstitutedalkene_5 c035 h138
 1
 80 0
 3
-0 162 -1 0
 0 83 0 1
+0 162 -1 0
 0 181 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_5 c036 h061
 2
-81 0
 40 0
+81 0
 3
-0 191 -1 0
 0 83 0 1
 0 181 -1 0
+0 191 -1 0
 4
 end_operator
 begin_operator
@@ -7020,8 +7020,8 @@ additionofrohacrossmonosubstitutedalkene_5 c036 h139
 1
 81 0
 3
-0 177 -1 0
 0 83 0 1
+0 177 -1 0
 0 181 -1 0
 4
 end_operator
@@ -7030,20 +7030,20 @@ additionofrohacrossmonosubstitutedalkene_5 c036 h140
 1
 81 0
 3
-0 179 -1 0
 0 83 0 1
+0 179 -1 0
 0 181 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_5 c037 h061
 2
-82 0
 44 0
+82 0
 3
-0 191 -1 0
 0 83 0 1
 0 181 -1 0
+0 191 -1 0
 4
 end_operator
 begin_operator
@@ -7051,8 +7051,8 @@ additionofrohacrossmonosubstitutedalkene_5 c037 h141
 1
 82 0
 3
-0 165 -1 0
 0 83 0 1
+0 165 -1 0
 0 181 -1 0
 4
 end_operator
@@ -7061,20 +7061,20 @@ additionofrohacrossmonosubstitutedalkene_5 c037 h142
 1
 82 0
 3
-0 183 -1 0
 0 83 0 1
 0 181 -1 0
+0 183 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_5 c038 h061
 2
-85 0
 36 0
+85 0
 3
-0 191 -1 0
 0 83 0 1
 0 181 -1 0
+0 191 -1 0
 4
 end_operator
 begin_operator
@@ -7082,8 +7082,8 @@ additionofrohacrossmonosubstitutedalkene_5 c038 h143
 1
 85 0
 3
-0 167 -1 0
 0 83 0 1
+0 167 -1 0
 0 181 -1 0
 4
 end_operator
@@ -7092,16 +7092,16 @@ additionofrohacrossmonosubstitutedalkene_5 c038 h144
 1
 85 0
 3
-0 169 -1 0
 0 83 0 1
+0 169 -1 0
 0 181 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h061 h106
 2
-170 0
 112 0
+170 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7110,8 +7110,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h061 h107
 2
-170 0
 113 0
+170 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7120,8 +7120,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h061 h108
 2
-170 0
 114 0
+170 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7130,8 +7130,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h061 h133
 2
-170 0
 115 0
+170 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7140,8 +7140,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h061 h134
 2
-170 0
 116 0
+170 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7150,8 +7150,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h061 h135
 2
-170 0
 117 0
+170 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7160,8 +7160,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h061 h136
 2
-170 0
 118 0
+170 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7170,8 +7170,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h061 h137
 2
-170 0
 119 0
+170 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7180,8 +7180,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h061 h138
 2
-170 0
 120 0
+170 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7190,8 +7190,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h061 h139
 2
-170 0
 121 0
+170 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7200,8 +7200,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h061 h140
 2
-170 0
 122 0
+170 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7210,8 +7210,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h061 h141
 2
-170 0
 123 0
+170 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7220,8 +7220,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h061 h142
 2
-170 0
 124 0
+170 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7230,8 +7230,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h061 h143
 2
-170 0
 125 0
+170 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7240,8 +7240,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h061 h144
 2
-170 0
 126 0
+170 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7250,8 +7250,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h106 h061
 2
-171 0
 152 0
+171 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7260,8 +7260,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h106 h107
 2
-171 0
 113 0
+171 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7270,8 +7270,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h106 h108
 2
-171 0
 114 0
+171 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7280,8 +7280,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h106 h133
 2
-171 0
 115 0
+171 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7290,8 +7290,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h106 h134
 2
-171 0
 116 0
+171 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7300,8 +7300,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h106 h135
 2
-171 0
 117 0
+171 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7310,8 +7310,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h106 h136
 2
-171 0
 118 0
+171 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7320,8 +7320,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h106 h137
 2
-171 0
 119 0
+171 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7330,8 +7330,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h106 h138
 2
-171 0
 120 0
+171 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7340,8 +7340,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h106 h139
 2
-171 0
 121 0
+171 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7350,8 +7350,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h106 h140
 2
-171 0
 122 0
+171 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7360,8 +7360,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h106 h141
 2
-171 0
 123 0
+171 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7370,8 +7370,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h106 h142
 2
-171 0
 124 0
+171 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7380,8 +7380,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h106 h143
 2
-171 0
 125 0
+171 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7390,8 +7390,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h106 h144
 2
-171 0
 126 0
+171 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7400,8 +7400,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h107 h061
 2
-173 0
 152 0
+173 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7410,8 +7410,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h107 h106
 2
-173 0
 112 0
+173 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7420,8 +7420,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h107 h108
 2
-173 0
 114 0
+173 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7430,8 +7430,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h107 h133
 2
-173 0
 115 0
+173 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7440,8 +7440,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h107 h134
 2
-173 0
 116 0
+173 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7450,8 +7450,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h107 h135
 2
-173 0
 117 0
+173 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7460,8 +7460,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h107 h136
 2
-173 0
 118 0
+173 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7470,8 +7470,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h107 h137
 2
-173 0
 119 0
+173 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7480,8 +7480,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h107 h138
 2
-173 0
 120 0
+173 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7490,8 +7490,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h107 h139
 2
-173 0
 121 0
+173 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7500,8 +7500,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h107 h140
 2
-173 0
 122 0
+173 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7510,8 +7510,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h107 h141
 2
-173 0
 123 0
+173 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7520,8 +7520,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h107 h142
 2
-173 0
 124 0
+173 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7530,8 +7530,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h107 h143
 2
-173 0
 125 0
+173 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7540,8 +7540,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h107 h144
 2
-173 0
 126 0
+173 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7550,8 +7550,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h108 h061
 2
-175 0
 152 0
+175 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7560,8 +7560,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h108 h106
 2
-175 0
 112 0
+175 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7570,8 +7570,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h108 h107
 2
-175 0
 113 0
+175 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7580,8 +7580,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h108 h133
 2
-175 0
 115 0
+175 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7590,8 +7590,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h108 h134
 2
-175 0
 116 0
+175 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7600,8 +7600,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h108 h135
 2
-175 0
 117 0
+175 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7610,8 +7610,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h108 h136
 2
-175 0
 118 0
+175 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7620,8 +7620,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h108 h137
 2
-175 0
 119 0
+175 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7630,8 +7630,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h108 h138
 2
-175 0
 120 0
+175 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7640,8 +7640,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h108 h139
 2
-175 0
 121 0
+175 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7650,8 +7650,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h108 h140
 2
-175 0
 122 0
+175 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7660,8 +7660,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h108 h141
 2
-175 0
 123 0
+175 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7670,8 +7670,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h108 h142
 2
-175 0
 124 0
+175 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7680,8 +7680,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h108 h143
 2
-175 0
 125 0
+175 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7690,8 +7690,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h108 h144
 2
-175 0
 126 0
+175 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7700,8 +7700,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h133 h061
 2
-176 0
 152 0
+176 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7710,8 +7710,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h133 h106
 2
-176 0
 112 0
+176 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7720,8 +7720,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h133 h107
 2
-176 0
 113 0
+176 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7730,8 +7730,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h133 h108
 2
-176 0
 114 0
+176 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7740,8 +7740,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h133 h134
 2
-176 0
 116 0
+176 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7750,8 +7750,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h133 h135
 2
-176 0
 117 0
+176 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7760,8 +7760,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h133 h136
 2
-176 0
 118 0
+176 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7770,8 +7770,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h133 h137
 2
-176 0
 119 0
+176 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7780,8 +7780,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h133 h138
 2
-176 0
 120 0
+176 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7790,8 +7790,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h133 h139
 2
-176 0
 121 0
+176 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7800,8 +7800,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h133 h140
 2
-176 0
 122 0
+176 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7810,8 +7810,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h133 h141
 2
-176 0
 123 0
+176 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7820,8 +7820,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h133 h142
 2
-176 0
 124 0
+176 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7830,8 +7830,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h133 h143
 2
-176 0
 125 0
+176 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7840,8 +7840,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h133 h144
 2
-176 0
 126 0
+176 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7850,8 +7850,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h134 h061
 2
-178 0
 152 0
+178 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7860,8 +7860,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h134 h106
 2
-178 0
 112 0
+178 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7870,8 +7870,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h134 h107
 2
-178 0
 113 0
+178 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7880,8 +7880,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h134 h108
 2
-178 0
 114 0
+178 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7890,8 +7890,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h134 h133
 2
-178 0
 115 0
+178 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7900,8 +7900,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h134 h135
 2
-178 0
 117 0
+178 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7910,8 +7910,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h134 h136
 2
-178 0
 118 0
+178 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7920,8 +7920,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h134 h137
 2
-178 0
 119 0
+178 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7930,8 +7930,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h134 h138
 2
-178 0
 120 0
+178 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7940,8 +7940,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h134 h139
 2
-178 0
 121 0
+178 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7950,8 +7950,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h134 h140
 2
-178 0
 122 0
+178 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7960,8 +7960,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h134 h141
 2
-178 0
 123 0
+178 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7970,8 +7970,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h134 h142
 2
-178 0
 124 0
+178 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7980,8 +7980,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h134 h143
 2
-178 0
 125 0
+178 0
 2
 0 181 0 1
 0 189 -1 0
@@ -7990,8 +7990,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h134 h144
 2
-178 0
 126 0
+178 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8000,8 +8000,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h135 h061
 2
-180 0
 152 0
+180 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8010,8 +8010,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h135 h106
 2
-180 0
 112 0
+180 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8020,8 +8020,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h135 h107
 2
-180 0
 113 0
+180 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8030,8 +8030,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h135 h108
 2
-180 0
 114 0
+180 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8040,8 +8040,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h135 h133
 2
-180 0
 115 0
+180 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8050,8 +8050,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h135 h134
 2
-180 0
 116 0
+180 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8060,8 +8060,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h135 h136
 2
-180 0
 118 0
+180 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8070,8 +8070,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h135 h137
 2
-180 0
 119 0
+180 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8080,8 +8080,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h135 h138
 2
-180 0
 120 0
+180 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8090,8 +8090,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h135 h139
 2
-180 0
 121 0
+180 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8100,8 +8100,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h135 h140
 2
-180 0
 122 0
+180 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8110,8 +8110,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h135 h141
 2
-180 0
 123 0
+180 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8120,8 +8120,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h135 h142
 2
-180 0
 124 0
+180 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8130,8 +8130,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h135 h143
 2
-180 0
 125 0
+180 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8140,8 +8140,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h135 h144
 2
-180 0
 126 0
+180 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8150,8 +8150,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h136 h061
 2
-160 0
 152 0
+160 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8160,8 +8160,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h136 h106
 2
-160 0
 112 0
+160 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8170,8 +8170,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h136 h107
 2
-160 0
 113 0
+160 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8180,8 +8180,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h136 h108
 2
-160 0
 114 0
+160 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8190,8 +8190,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h136 h133
 2
-160 0
 115 0
+160 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8200,8 +8200,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h136 h134
 2
-160 0
 116 0
+160 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8210,8 +8210,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h136 h135
 2
-160 0
 117 0
+160 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8220,8 +8220,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h136 h137
 2
-160 0
 119 0
+160 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8230,8 +8230,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h136 h138
 2
-160 0
 120 0
+160 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8240,8 +8240,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h136 h139
 2
-160 0
 121 0
+160 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8250,8 +8250,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h136 h140
 2
-160 0
 122 0
+160 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8260,8 +8260,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h136 h141
 2
-160 0
 123 0
+160 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8270,8 +8270,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h136 h142
 2
-160 0
 124 0
+160 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8280,8 +8280,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h136 h143
 2
-160 0
 125 0
+160 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8290,8 +8290,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h136 h144
 2
-160 0
 126 0
+160 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8300,8 +8300,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h137 h061
 2
-161 0
 152 0
+161 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8310,8 +8310,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h137 h106
 2
-161 0
 112 0
+161 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8320,8 +8320,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h137 h107
 2
-161 0
 113 0
+161 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8330,8 +8330,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h137 h108
 2
-161 0
 114 0
+161 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8340,8 +8340,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h137 h133
 2
-161 0
 115 0
+161 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8350,8 +8350,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h137 h134
 2
-161 0
 116 0
+161 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8360,8 +8360,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h137 h135
 2
-161 0
 117 0
+161 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8370,8 +8370,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h137 h136
 2
-161 0
 118 0
+161 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8380,8 +8380,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h137 h138
 2
-161 0
 120 0
+161 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8390,8 +8390,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h137 h139
 2
-161 0
 121 0
+161 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8400,8 +8400,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h137 h140
 2
-161 0
 122 0
+161 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8410,8 +8410,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h137 h141
 2
-161 0
 123 0
+161 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8420,8 +8420,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h137 h142
 2
-161 0
 124 0
+161 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8430,8 +8430,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h137 h143
 2
-161 0
 125 0
+161 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8440,8 +8440,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h137 h144
 2
-161 0
 126 0
+161 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8450,8 +8450,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h138 h061
 2
-182 0
 152 0
+182 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8460,8 +8460,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h138 h106
 2
-182 0
 112 0
+182 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8470,8 +8470,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h138 h107
 2
-182 0
 113 0
+182 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8480,8 +8480,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h138 h108
 2
-182 0
 114 0
+182 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8490,8 +8490,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h138 h133
 2
-182 0
 115 0
+182 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8500,8 +8500,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h138 h134
 2
-182 0
 116 0
+182 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8510,8 +8510,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h138 h135
 2
-182 0
 117 0
+182 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8520,8 +8520,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h138 h136
 2
-182 0
 118 0
+182 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8530,8 +8530,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h138 h137
 2
-182 0
 119 0
+182 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8540,8 +8540,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h138 h139
 2
-182 0
 121 0
+182 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8550,8 +8550,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h138 h140
 2
-182 0
 122 0
+182 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8560,8 +8560,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h138 h141
 2
-182 0
 123 0
+182 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8570,8 +8570,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h138 h142
 2
-182 0
 124 0
+182 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8580,8 +8580,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h138 h143
 2
-182 0
 125 0
+182 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8590,8 +8590,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h138 h144
 2
-182 0
 126 0
+182 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8600,8 +8600,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h139 h061
 2
-163 0
 152 0
+163 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8610,8 +8610,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h139 h106
 2
-163 0
 112 0
+163 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8620,8 +8620,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h139 h107
 2
-163 0
 113 0
+163 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8630,8 +8630,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h139 h108
 2
-163 0
 114 0
+163 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8640,8 +8640,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h139 h133
 2
-163 0
 115 0
+163 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8650,8 +8650,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h139 h134
 2
-163 0
 116 0
+163 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8660,8 +8660,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h139 h135
 2
-163 0
 117 0
+163 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8670,8 +8670,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h139 h136
 2
-163 0
 118 0
+163 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8680,8 +8680,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h139 h137
 2
-163 0
 119 0
+163 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8690,8 +8690,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h139 h138
 2
-163 0
 120 0
+163 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8700,8 +8700,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h139 h140
 2
-163 0
 122 0
+163 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8710,8 +8710,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h139 h141
 2
-163 0
 123 0
+163 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8720,8 +8720,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h139 h142
 2
-163 0
 124 0
+163 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8730,8 +8730,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h139 h143
 2
-163 0
 125 0
+163 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8740,8 +8740,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h139 h144
 2
-163 0
 126 0
+163 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8750,8 +8750,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h140 h061
 2
-164 0
 152 0
+164 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8760,8 +8760,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h140 h106
 2
-164 0
 112 0
+164 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8770,8 +8770,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h140 h107
 2
-164 0
 113 0
+164 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8780,8 +8780,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h140 h108
 2
-164 0
 114 0
+164 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8790,8 +8790,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h140 h133
 2
-164 0
 115 0
+164 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8800,8 +8800,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h140 h134
 2
-164 0
 116 0
+164 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8810,8 +8810,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h140 h135
 2
-164 0
 117 0
+164 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8820,8 +8820,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h140 h136
 2
-164 0
 118 0
+164 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8830,8 +8830,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h140 h137
 2
-164 0
 119 0
+164 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8840,8 +8840,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h140 h138
 2
-164 0
 120 0
+164 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8850,8 +8850,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h140 h139
 2
-164 0
 121 0
+164 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8860,8 +8860,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h140 h141
 2
-164 0
 123 0
+164 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8870,8 +8870,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h140 h142
 2
-164 0
 124 0
+164 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8880,8 +8880,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h140 h143
 2
-164 0
 125 0
+164 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8890,8 +8890,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h140 h144
 2
-164 0
 126 0
+164 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8900,8 +8900,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h141 h061
 2
-185 0
 152 0
+185 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8910,8 +8910,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h141 h106
 2
-185 0
 112 0
+185 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8920,8 +8920,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h141 h107
 2
-185 0
 113 0
+185 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8930,8 +8930,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h141 h108
 2
-185 0
 114 0
+185 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8940,8 +8940,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h141 h133
 2
-185 0
 115 0
+185 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8950,8 +8950,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h141 h134
 2
-185 0
 116 0
+185 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8960,8 +8960,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h141 h135
 2
-185 0
 117 0
+185 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8970,8 +8970,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h141 h136
 2
-185 0
 118 0
+185 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8980,8 +8980,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h141 h137
 2
-185 0
 119 0
+185 0
 2
 0 181 0 1
 0 189 -1 0
@@ -8990,8 +8990,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h141 h138
 2
-185 0
 120 0
+185 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9000,8 +9000,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h141 h139
 2
-185 0
 121 0
+185 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9010,8 +9010,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h141 h140
 2
-185 0
 122 0
+185 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9020,8 +9020,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h141 h142
 2
-185 0
 124 0
+185 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9030,8 +9030,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h141 h143
 2
-185 0
 125 0
+185 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9040,8 +9040,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h141 h144
 2
-185 0
 126 0
+185 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9050,8 +9050,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h142 h061
 2
-166 0
 152 0
+166 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9060,8 +9060,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h142 h106
 2
-166 0
 112 0
+166 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9070,8 +9070,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h142 h107
 2
-166 0
 113 0
+166 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9080,8 +9080,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h142 h108
 2
-166 0
 114 0
+166 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9090,8 +9090,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h142 h133
 2
-166 0
 115 0
+166 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9100,8 +9100,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h142 h134
 2
-166 0
 116 0
+166 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9110,8 +9110,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h142 h135
 2
-166 0
 117 0
+166 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9120,8 +9120,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h142 h136
 2
-166 0
 118 0
+166 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9130,8 +9130,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h142 h137
 2
-166 0
 119 0
+166 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9140,8 +9140,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h142 h138
 2
-166 0
 120 0
+166 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9150,8 +9150,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h142 h139
 2
-166 0
 121 0
+166 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9160,8 +9160,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h142 h140
 2
-166 0
 122 0
+166 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9170,8 +9170,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h142 h141
 2
-166 0
 123 0
+166 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9180,8 +9180,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h142 h143
 2
-166 0
 125 0
+166 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9190,8 +9190,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h142 h144
 2
-166 0
 126 0
+166 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9200,8 +9200,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h143 h061
 2
-188 0
 152 0
+188 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9210,8 +9210,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h143 h106
 2
-188 0
 112 0
+188 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9220,8 +9220,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h143 h107
 2
-188 0
 113 0
+188 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9230,8 +9230,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h143 h108
 2
-188 0
 114 0
+188 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9240,8 +9240,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h143 h133
 2
-188 0
 115 0
+188 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9250,8 +9250,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h143 h134
 2
-188 0
 116 0
+188 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9260,8 +9260,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h143 h135
 2
-188 0
 117 0
+188 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9270,8 +9270,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h143 h136
 2
-188 0
 118 0
+188 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9280,8 +9280,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h143 h137
 2
-188 0
 119 0
+188 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9290,8 +9290,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h143 h138
 2
-188 0
 120 0
+188 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9300,8 +9300,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h143 h139
 2
-188 0
 121 0
+188 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9310,8 +9310,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h143 h140
 2
-188 0
 122 0
+188 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9320,8 +9320,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h143 h141
 2
-188 0
 123 0
+188 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9330,8 +9330,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h143 h142
 2
-188 0
 124 0
+188 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9340,8 +9340,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h143 h144
 2
-188 0
 126 0
+188 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9350,8 +9350,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h144 h061
 2
-168 0
 152 0
+168 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9360,8 +9360,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h144 h106
 2
-168 0
 112 0
+168 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9370,8 +9370,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h144 h107
 2
-168 0
 113 0
+168 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9380,8 +9380,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h144 h108
 2
-168 0
 114 0
+168 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9390,8 +9390,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h144 h133
 2
-168 0
 115 0
+168 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9400,8 +9400,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h144 h134
 2
-168 0
 116 0
+168 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9410,8 +9410,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h144 h135
 2
-168 0
 117 0
+168 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9420,8 +9420,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h144 h136
 2
-168 0
 118 0
+168 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9430,8 +9430,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h144 h137
 2
-168 0
 119 0
+168 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9440,8 +9440,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h144 h138
 2
-168 0
 120 0
+168 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9450,8 +9450,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h144 h139
 2
-168 0
 121 0
+168 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9460,8 +9460,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h144 h140
 2
-168 0
 122 0
+168 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9470,8 +9470,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h144 h141
 2
-168 0
 123 0
+168 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9480,8 +9480,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h144 h142
 2
-168 0
 124 0
+168 0
 2
 0 181 0 1
 0 189 -1 0
@@ -9490,8 +9490,8 @@ end_operator
 begin_operator
 additionofrohacrossmonosubstitutedalkene_6 h144 h143
 2
-168 0
 125 0
+168 0
 2
 0 181 0 1
 0 189 -1 0
@@ -14302,10 +14302,10 @@ additionofrohacrossmonosubstitutedalkene_9 h061 o066
 1
 101 0
 5
-0 47 -1 0
-0 46 -1 1
-0 28 0 1
 0 12 -1 0
+0 28 0 1
+0 46 -1 1
+0 47 -1 0
 0 193 0 1
 3
 end_operator
@@ -14313,8 +14313,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_1 o066 c016
 0
 3
-0 111 -1 0
 0 63 -1 0
+0 111 -1 0
 0 199 0 1
 3
 end_operator
@@ -14323,8 +14323,8 @@ additionofrohacrosstetrasubstitutedalkene_1 o066 c032
 1
 73 0
 3
-0 111 -1 0
 0 63 -1 0
+0 111 -1 0
 0 199 0 1
 3
 end_operator
@@ -14333,8 +14333,8 @@ additionofrohacrosstetrasubstitutedalkene_1 o066 c033
 1
 194 0
 3
-0 111 -1 0
 0 63 -1 0
+0 111 -1 0
 0 199 0 1
 3
 end_operator
@@ -14343,8 +14343,8 @@ additionofrohacrosstetrasubstitutedalkene_1 o066 c034
 1
 92 0
 3
-0 111 -1 0
 0 63 -1 0
+0 111 -1 0
 0 199 0 1
 3
 end_operator
@@ -14353,8 +14353,8 @@ additionofrohacrosstetrasubstitutedalkene_1 o066 c035
 1
 59 0
 3
-0 111 -1 0
 0 63 -1 0
+0 111 -1 0
 0 199 0 1
 3
 end_operator
@@ -14363,8 +14363,8 @@ additionofrohacrosstetrasubstitutedalkene_1 o066 c036
 1
 60 0
 3
-0 111 -1 0
 0 63 -1 0
+0 111 -1 0
 0 199 0 1
 3
 end_operator
@@ -14373,8 +14373,8 @@ additionofrohacrosstetrasubstitutedalkene_1 o066 c037
 1
 61 0
 3
-0 111 -1 0
 0 63 -1 0
+0 111 -1 0
 0 199 0 1
 3
 end_operator
@@ -14383,8 +14383,8 @@ additionofrohacrosstetrasubstitutedalkene_1 o066 c038
 1
 62 0
 3
-0 111 -1 0
 0 63 -1 0
+0 111 -1 0
 0 199 0 1
 3
 end_operator
@@ -14393,8 +14393,8 @@ additionofrohacrosstetrasubstitutedalkene_1 o066 h061
 1
 46 0
 3
-0 111 -1 0
 0 63 -1 0
+0 111 -1 0
 0 199 0 1
 3
 end_operator
@@ -14822,8 +14822,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c032 c033
 0
 4
-0 138 0 1
 0 110 0 1
+0 138 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -14832,8 +14832,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c032 c034
 0
 4
-0 138 0 1
 0 104 0 1
+0 138 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -14842,8 +14842,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c032 c035
 0
 4
-0 138 0 1
 0 105 0 1
+0 138 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -14852,8 +14852,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c032 c036
 0
 4
-0 138 0 1
 0 106 0 1
+0 138 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -14862,8 +14862,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c032 c037
 0
 4
-0 138 0 1
 0 107 0 1
+0 138 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -14872,8 +14872,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c032 c038
 0
 4
-0 138 0 1
 0 108 0 1
+0 138 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -14882,68 +14882,68 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c033 c032
 0
 4
-0 151 0 1
 0 109 0 1
 0 146 0 1
 0 147 -1 0
+0 151 0 1
 3
 end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c033 c034
 0
 4
-0 151 0 1
 0 104 0 1
 0 146 0 1
 0 147 -1 0
+0 151 0 1
 3
 end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c033 c035
 0
 4
-0 151 0 1
 0 105 0 1
 0 146 0 1
 0 147 -1 0
+0 151 0 1
 3
 end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c033 c036
 0
 4
-0 151 0 1
 0 106 0 1
 0 146 0 1
 0 147 -1 0
+0 151 0 1
 3
 end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c033 c037
 0
 4
-0 151 0 1
 0 107 0 1
 0 146 0 1
 0 147 -1 0
+0 151 0 1
 3
 end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c033 c038
 0
 4
-0 151 0 1
 0 108 0 1
 0 146 0 1
 0 147 -1 0
+0 151 0 1
 3
 end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c034 c032
 0
 4
-0 133 0 1
 0 109 0 1
+0 133 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -14952,8 +14952,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c034 c033
 0
 4
-0 133 0 1
 0 110 0 1
+0 133 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -14962,8 +14962,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c034 c035
 0
 4
-0 133 0 1
 0 105 0 1
+0 133 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -14972,8 +14972,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c034 c036
 0
 4
-0 133 0 1
 0 106 0 1
+0 133 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -14982,8 +14982,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c034 c037
 0
 4
-0 133 0 1
 0 107 0 1
+0 133 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -14992,8 +14992,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c034 c038
 0
 4
-0 133 0 1
 0 108 0 1
+0 133 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -15002,8 +15002,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c035 c032
 0
 4
-0 128 0 1
 0 109 0 1
+0 128 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -15012,8 +15012,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c035 c033
 0
 4
-0 128 0 1
 0 110 0 1
+0 128 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -15022,8 +15022,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c035 c034
 0
 4
-0 128 0 1
 0 104 0 1
+0 128 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -15032,8 +15032,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c035 c036
 0
 4
-0 128 0 1
 0 106 0 1
+0 128 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -15042,8 +15042,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c035 c037
 0
 4
-0 128 0 1
 0 107 0 1
+0 128 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -15052,8 +15052,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c035 c038
 0
 4
-0 128 0 1
 0 108 0 1
+0 128 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -15062,8 +15062,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c036 c032
 0
 4
-0 129 0 1
 0 109 0 1
+0 129 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -15072,8 +15072,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c036 c033
 0
 4
-0 129 0 1
 0 110 0 1
+0 129 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -15082,8 +15082,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c036 c034
 0
 4
-0 129 0 1
 0 104 0 1
+0 129 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -15092,8 +15092,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c036 c035
 0
 4
-0 129 0 1
 0 105 0 1
+0 129 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -15102,8 +15102,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c036 c037
 0
 4
-0 129 0 1
 0 107 0 1
+0 129 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -15112,8 +15112,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c036 c038
 0
 4
-0 129 0 1
 0 108 0 1
+0 129 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -15122,8 +15122,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c037 c032
 0
 4
-0 137 0 1
 0 109 0 1
+0 137 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -15132,8 +15132,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c037 c033
 0
 4
-0 137 0 1
 0 110 0 1
+0 137 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -15142,8 +15142,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c037 c034
 0
 4
-0 137 0 1
 0 104 0 1
+0 137 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -15152,8 +15152,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c037 c035
 0
 4
-0 137 0 1
 0 105 0 1
+0 137 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -15162,8 +15162,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c037 c036
 0
 4
-0 137 0 1
 0 106 0 1
+0 137 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -15172,8 +15172,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c037 c038
 0
 4
-0 137 0 1
 0 108 0 1
+0 137 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -15182,8 +15182,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c038 c032
 0
 4
-0 132 0 1
 0 109 0 1
+0 132 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -15192,8 +15192,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c038 c033
 0
 4
-0 132 0 1
 0 110 0 1
+0 132 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -15202,8 +15202,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c038 c034
 0
 4
-0 132 0 1
 0 104 0 1
+0 132 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -15212,8 +15212,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c038 c035
 0
 4
-0 132 0 1
 0 105 0 1
+0 132 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -15222,8 +15222,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c038 c036
 0
 4
-0 132 0 1
 0 106 0 1
+0 132 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -15232,8 +15232,8 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_11 c038 c037
 0
 4
-0 132 0 1
 0 107 0 1
+0 132 0 1
 0 146 0 1
 0 147 -1 0
 3
@@ -15243,39 +15243,39 @@ additionofrohacrosstetrasubstitutedalkene_12 o066 h061
 1
 111 0
 5
+0 8 -1 0
+0 28 0 1
 0 42 -1 0
 0 46 -1 1
-0 28 0 1
 0 147 0 1
-0 8 -1 0
 2
 end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_13 c032 c033
 2
-102 0
 7 0
+102 0
 6
-0 197 -1 0
-0 198 -1 0
 0 8 0 1
 0 43 -1 0
 0 99 0 1
 0 100 -1 1
+0 197 -1 0
+0 198 -1 0
 2
 end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_13 c033 c032
 2
-98 0
 2 0
+98 0
 6
-0 197 -1 0
-0 198 -1 0
 0 8 0 1
 0 43 -1 0
 0 99 -1 1
 0 100 0 1
+0 197 -1 0
+0 198 -1 0
 2
 end_operator
 begin_operator
@@ -15283,9 +15283,9 @@ additionofrohacrosstetrasubstitutedalkene_14 c016 h061
 0
 6
 0 0 0 1
-0 42 0 1
 0 30 -1 0
 0 31 -1 0
+0 42 0 1
 0 43 0 1
 0 95 -1 0
 2
@@ -15296,10 +15296,10 @@ additionofrohacrosstetrasubstitutedalkene_14 c032 h061
 6
 0 2 0 1
 0 42 0 1
-0 195 -1 0
-0 196 -1 0
 0 43 0 1
 0 95 -1 0
+0 195 -1 0
+0 196 -1 0
 2
 end_operator
 begin_operator
@@ -15307,9 +15307,9 @@ additionofrohacrosstetrasubstitutedalkene_14 c033 h061
 0
 6
 0 7 0 1
-0 42 0 1
 0 32 -1 0
 0 33 -1 0
+0 42 0 1
 0 43 0 1
 0 95 -1 0
 2
@@ -15319,9 +15319,9 @@ additionofrohacrosstetrasubstitutedalkene_14 c034 h061
 0
 6
 0 6 0 1
-0 42 0 1
 0 34 -1 0
 0 35 -1 0
+0 42 0 1
 0 43 0 1
 0 95 -1 0
 2
@@ -15331,9 +15331,9 @@ additionofrohacrosstetrasubstitutedalkene_14 c035 h061
 0
 6
 0 1 0 1
-0 42 0 1
 0 38 -1 0
 0 39 -1 0
+0 42 0 1
 0 43 0 1
 0 95 -1 0
 2
@@ -15343,9 +15343,9 @@ additionofrohacrosstetrasubstitutedalkene_14 c036 h061
 0
 6
 0 3 0 1
-0 42 0 1
 0 40 -1 0
 0 41 -1 0
+0 42 0 1
 0 43 0 1
 0 95 -1 0
 2
@@ -15356,9 +15356,9 @@ additionofrohacrosstetrasubstitutedalkene_14 c037 h061
 6
 0 4 0 1
 0 42 0 1
+0 43 0 1
 0 44 -1 0
 0 45 -1 0
-0 43 0 1
 0 95 -1 0
 2
 end_operator
@@ -15367,9 +15367,9 @@ additionofrohacrosstetrasubstitutedalkene_14 c038 h061
 0
 6
 0 5 0 1
-0 42 0 1
 0 36 -1 0
 0 37 -1 0
+0 42 0 1
 0 43 0 1
 0 95 -1 0
 2
@@ -15379,8 +15379,8 @@ additionofrohacrosstetrasubstitutedalkene_15 c016 o066
 0
 4
 0 78 0 1
-0 111 0 1
 0 95 0 1
+0 111 0 1
 0 199 -1 0
 2
 end_operator
@@ -15388,24 +15388,24 @@ begin_operator
 additionofrohacrosstetrasubstitutedalkene_15 c032 o066
 0
 6
+0 73 -1 0
+0 95 0 1
 0 102 0 1
 0 111 0 1
-0 73 -1 0
-0 206 -1 0
-0 95 0 1
 0 199 -1 0
+0 206 -1 0
 2
 end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_15 c033 o066
 0
 6
+0 95 0 1
 0 98 0 1
 0 111 0 1
 0 194 -1 0
-0 205 -1 0
-0 95 0 1
 0 199 -1 0
+0 205 -1 0
 2
 end_operator
 begin_operator
@@ -15413,59 +15413,59 @@ additionofrohacrosstetrasubstitutedalkene_15 c034 o066
 0
 6
 0 79 0 1
-0 111 0 1
 0 92 -1 0
-0 204 -1 0
 0 95 0 1
+0 111 0 1
 0 199 -1 0
+0 204 -1 0
 2
 end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_15 c035 o066
 0
 6
-0 80 0 1
-0 111 0 1
 0 59 -1 0
-0 203 -1 0
+0 80 0 1
 0 95 0 1
+0 111 0 1
 0 199 -1 0
+0 203 -1 0
 2
 end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_15 c036 o066
 0
 6
-0 81 0 1
-0 111 0 1
 0 60 -1 0
-0 202 -1 0
+0 81 0 1
 0 95 0 1
+0 111 0 1
 0 199 -1 0
+0 202 -1 0
 2
 end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_15 c037 o066
 0
 6
-0 82 0 1
-0 111 0 1
 0 61 -1 0
-0 201 -1 0
+0 82 0 1
 0 95 0 1
+0 111 0 1
 0 199 -1 0
+0 201 -1 0
 2
 end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_15 c038 o066
 0
 6
-0 85 0 1
-0 111 0 1
 0 62 -1 0
-0 200 -1 0
+0 85 0 1
 0 95 0 1
+0 111 0 1
 0 199 -1 0
+0 200 -1 0
 2
 end_operator
 begin_operator
@@ -15473,10 +15473,10 @@ additionofrohacrosstetrasubstitutedalkene_2 c032 c033
 1
 198 0
 4
-0 102 -1 0
-0 110 -1 0
 0 63 0 1
 0 64 -1 0
+0 102 -1 0
+0 110 -1 0
 3
 end_operator
 begin_operator
@@ -15484,130 +15484,130 @@ additionofrohacrosstetrasubstitutedalkene_2 c033 c032
 1
 197 0
 4
-0 98 -1 0
-0 109 -1 0
 0 63 0 1
 0 64 -1 0
+0 98 -1 0
+0 109 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_2 c033 c034
 0
 4
-0 98 -1 0
-0 104 -1 0
 0 63 0 1
 0 64 -1 0
+0 98 -1 0
+0 104 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_2 c033 c038
 0
 4
-0 98 -1 0
-0 108 -1 0
 0 63 0 1
 0 64 -1 0
+0 98 -1 0
+0 108 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_2 c034 c033
 0
 4
-0 79 -1 0
-0 110 -1 0
 0 63 0 1
 0 64 -1 0
+0 79 -1 0
+0 110 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_2 c034 c035
 0
 4
-0 79 -1 0
-0 105 -1 0
 0 63 0 1
 0 64 -1 0
+0 79 -1 0
+0 105 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_2 c035 c034
 0
 4
-0 80 -1 0
-0 104 -1 0
 0 63 0 1
 0 64 -1 0
+0 80 -1 0
+0 104 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_2 c035 c036
 0
 4
-0 80 -1 0
-0 106 -1 0
 0 63 0 1
 0 64 -1 0
+0 80 -1 0
+0 106 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_2 c036 c035
 0
 4
-0 81 -1 0
-0 105 -1 0
 0 63 0 1
 0 64 -1 0
+0 81 -1 0
+0 105 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_2 c036 c037
 0
 4
-0 81 -1 0
-0 107 -1 0
 0 63 0 1
 0 64 -1 0
+0 81 -1 0
+0 107 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_2 c037 c036
 0
 4
-0 82 -1 0
-0 106 -1 0
 0 63 0 1
 0 64 -1 0
+0 82 -1 0
+0 106 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_2 c037 c038
 0
 4
-0 82 -1 0
-0 108 -1 0
 0 63 0 1
 0 64 -1 0
+0 82 -1 0
+0 108 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_2 c038 c033
 0
 4
-0 85 -1 0
-0 110 -1 0
 0 63 0 1
 0 64 -1 0
+0 85 -1 0
+0 110 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_2 c038 c037
 0
 4
-0 85 -1 0
-0 107 -1 0
 0 63 0 1
 0 64 -1 0
+0 85 -1 0
+0 107 -1 0
 3
 end_operator
 begin_operator
@@ -15616,8 +15616,8 @@ additionofrohacrosstetrasubstitutedalkene_3 c032 c033
 197 0
 4
 0 2 -1 0
-0 65 -1 0
 0 64 0 1
+0 65 -1 0
 0 86 -1 0
 3
 end_operator
@@ -15657,8 +15657,8 @@ additionofrohacrosstetrasubstitutedalkene_3 c034 c033
 0
 4
 0 6 -1 0
-0 65 -1 0
 0 64 0 1
+0 65 -1 0
 0 86 -1 0
 3
 end_operator
@@ -15737,8 +15737,8 @@ additionofrohacrosstetrasubstitutedalkene_3 c038 c033
 0
 4
 0 5 -1 0
-0 65 -1 0
 0 64 0 1
+0 65 -1 0
 0 86 -1 0
 3
 end_operator
@@ -15758,9 +15758,9 @@ additionofrohacrosstetrasubstitutedalkene_4 c032 c033
 102 0
 197 0
 3
-0 141 -1 0
 0 86 0 1
 0 88 -1 0
+0 141 -1 0
 3
 end_operator
 begin_operator
@@ -15769,9 +15769,9 @@ additionofrohacrosstetrasubstitutedalkene_4 c033 c032
 98 0
 198 0
 3
-0 148 -1 0
 0 86 0 1
 0 88 -1 0
+0 148 -1 0
 3
 end_operator
 begin_operator
@@ -15779,9 +15779,9 @@ additionofrohacrosstetrasubstitutedalkene_4 c033 c034
 1
 98 0
 3
-0 127 -1 0
 0 86 0 1
 0 88 -1 0
+0 127 -1 0
 3
 end_operator
 begin_operator
@@ -15789,9 +15789,9 @@ additionofrohacrosstetrasubstitutedalkene_4 c033 c038
 1
 98 0
 3
-0 131 -1 0
 0 86 0 1
 0 88 -1 0
+0 131 -1 0
 3
 end_operator
 begin_operator
@@ -15799,9 +15799,9 @@ additionofrohacrosstetrasubstitutedalkene_4 c034 c033
 1
 79 0
 3
-0 141 -1 0
 0 86 0 1
 0 88 -1 0
+0 141 -1 0
 3
 end_operator
 begin_operator
@@ -15809,9 +15809,9 @@ additionofrohacrosstetrasubstitutedalkene_4 c034 c035
 1
 79 0
 3
-0 134 -1 0
 0 86 0 1
 0 88 -1 0
+0 134 -1 0
 3
 end_operator
 begin_operator
@@ -15819,9 +15819,9 @@ additionofrohacrosstetrasubstitutedalkene_4 c035 c034
 1
 80 0
 3
-0 127 -1 0
 0 86 0 1
 0 88 -1 0
+0 127 -1 0
 3
 end_operator
 begin_operator
@@ -15829,9 +15829,9 @@ additionofrohacrosstetrasubstitutedalkene_4 c035 c036
 1
 80 0
 3
-0 136 -1 0
 0 86 0 1
 0 88 -1 0
+0 136 -1 0
 3
 end_operator
 begin_operator
@@ -15839,9 +15839,9 @@ additionofrohacrosstetrasubstitutedalkene_4 c036 c035
 1
 81 0
 3
-0 134 -1 0
 0 86 0 1
 0 88 -1 0
+0 134 -1 0
 3
 end_operator
 begin_operator
@@ -15849,9 +15849,9 @@ additionofrohacrosstetrasubstitutedalkene_4 c036 c037
 1
 81 0
 3
-0 130 -1 0
 0 86 0 1
 0 88 -1 0
+0 130 -1 0
 3
 end_operator
 begin_operator
@@ -15859,9 +15859,9 @@ additionofrohacrosstetrasubstitutedalkene_4 c037 c036
 1
 82 0
 3
-0 136 -1 0
 0 86 0 1
 0 88 -1 0
+0 136 -1 0
 3
 end_operator
 begin_operator
@@ -15869,9 +15869,9 @@ additionofrohacrosstetrasubstitutedalkene_4 c037 c038
 1
 82 0
 3
-0 131 -1 0
 0 86 0 1
 0 88 -1 0
+0 131 -1 0
 3
 end_operator
 begin_operator
@@ -15879,9 +15879,9 @@ additionofrohacrosstetrasubstitutedalkene_4 c038 c033
 1
 85 0
 3
-0 141 -1 0
 0 86 0 1
 0 88 -1 0
+0 141 -1 0
 3
 end_operator
 begin_operator
@@ -15889,9 +15889,9 @@ additionofrohacrosstetrasubstitutedalkene_4 c038 c037
 1
 85 0
 3
-0 130 -1 0
 0 86 0 1
 0 88 -1 0
+0 130 -1 0
 3
 end_operator
 begin_operator
@@ -15900,9 +15900,9 @@ additionofrohacrosstetrasubstitutedalkene_5 c032 c033
 2 0
 197 0
 3
-0 151 -1 0
 0 88 0 1
 0 140 -1 0
+0 151 -1 0
 3
 end_operator
 begin_operator
@@ -15911,8 +15911,8 @@ additionofrohacrosstetrasubstitutedalkene_5 c033 c032
 7 0
 198 0
 3
-0 138 -1 0
 0 88 0 1
+0 138 -1 0
 0 140 -1 0
 3
 end_operator
@@ -15921,8 +15921,8 @@ additionofrohacrosstetrasubstitutedalkene_5 c033 c034
 1
 7 0
 3
-0 133 -1 0
 0 88 0 1
+0 133 -1 0
 0 140 -1 0
 3
 end_operator
@@ -15931,8 +15931,8 @@ additionofrohacrosstetrasubstitutedalkene_5 c033 c038
 1
 7 0
 3
-0 132 -1 0
 0 88 0 1
+0 132 -1 0
 0 140 -1 0
 3
 end_operator
@@ -15941,9 +15941,9 @@ additionofrohacrosstetrasubstitutedalkene_5 c034 c033
 1
 6 0
 3
-0 151 -1 0
 0 88 0 1
 0 140 -1 0
+0 151 -1 0
 3
 end_operator
 begin_operator
@@ -15951,8 +15951,8 @@ additionofrohacrosstetrasubstitutedalkene_5 c034 c035
 1
 6 0
 3
-0 128 -1 0
 0 88 0 1
+0 128 -1 0
 0 140 -1 0
 3
 end_operator
@@ -15961,8 +15961,8 @@ additionofrohacrosstetrasubstitutedalkene_5 c035 c034
 1
 1 0
 3
-0 133 -1 0
 0 88 0 1
+0 133 -1 0
 0 140 -1 0
 3
 end_operator
@@ -15971,8 +15971,8 @@ additionofrohacrosstetrasubstitutedalkene_5 c035 c036
 1
 1 0
 3
-0 129 -1 0
 0 88 0 1
+0 129 -1 0
 0 140 -1 0
 3
 end_operator
@@ -15981,8 +15981,8 @@ additionofrohacrosstetrasubstitutedalkene_5 c036 c035
 1
 3 0
 3
-0 128 -1 0
 0 88 0 1
+0 128 -1 0
 0 140 -1 0
 3
 end_operator
@@ -15991,8 +15991,8 @@ additionofrohacrosstetrasubstitutedalkene_5 c036 c037
 1
 3 0
 3
-0 137 -1 0
 0 88 0 1
+0 137 -1 0
 0 140 -1 0
 3
 end_operator
@@ -16001,8 +16001,8 @@ additionofrohacrosstetrasubstitutedalkene_5 c037 c036
 1
 4 0
 3
-0 129 -1 0
 0 88 0 1
+0 129 -1 0
 0 140 -1 0
 3
 end_operator
@@ -16011,8 +16011,8 @@ additionofrohacrosstetrasubstitutedalkene_5 c037 c038
 1
 4 0
 3
-0 132 -1 0
 0 88 0 1
+0 132 -1 0
 0 140 -1 0
 3
 end_operator
@@ -16021,9 +16021,9 @@ additionofrohacrosstetrasubstitutedalkene_5 c038 c033
 1
 5 0
 3
-0 151 -1 0
 0 88 0 1
 0 140 -1 0
+0 151 -1 0
 3
 end_operator
 begin_operator
@@ -16031,8 +16031,8 @@ additionofrohacrosstetrasubstitutedalkene_5 c038 c037
 1
 5 0
 3
-0 137 -1 0
 0 88 0 1
+0 137 -1 0
 0 140 -1 0
 3
 end_operator
@@ -16049,8 +16049,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_6 c032 c034
 2
-148 0
 133 0
+148 0
 2
 0 140 0 1
 0 142 -1 0
@@ -16059,8 +16059,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_6 c032 c035
 2
-148 0
 128 0
+148 0
 2
 0 140 0 1
 0 142 -1 0
@@ -16069,8 +16069,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_6 c032 c036
 2
-148 0
 129 0
+148 0
 2
 0 140 0 1
 0 142 -1 0
@@ -16079,8 +16079,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_6 c032 c037
 2
-148 0
 137 0
+148 0
 2
 0 140 0 1
 0 142 -1 0
@@ -16089,8 +16089,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_6 c032 c038
 2
-148 0
 132 0
+148 0
 2
 0 140 0 1
 0 142 -1 0
@@ -16099,8 +16099,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_6 c033 c032
 2
-141 0
 138 0
+141 0
 2
 0 140 0 1
 0 142 -1 0
@@ -16109,8 +16109,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_6 c033 c034
 2
-141 0
 133 0
+141 0
 2
 0 140 0 1
 0 142 -1 0
@@ -16119,8 +16119,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_6 c033 c035
 2
-141 0
 128 0
+141 0
 2
 0 140 0 1
 0 142 -1 0
@@ -16129,8 +16129,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_6 c033 c036
 2
-141 0
 129 0
+141 0
 2
 0 140 0 1
 0 142 -1 0
@@ -16139,8 +16139,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_6 c033 c037
 2
-141 0
 137 0
+141 0
 2
 0 140 0 1
 0 142 -1 0
@@ -16149,8 +16149,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_6 c033 c038
 2
-141 0
 132 0
+141 0
 2
 0 140 0 1
 0 142 -1 0
@@ -16239,8 +16239,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_6 c035 c034
 2
-134 0
 133 0
+134 0
 2
 0 140 0 1
 0 142 -1 0
@@ -16249,8 +16249,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_6 c035 c036
 2
-134 0
 129 0
+134 0
 2
 0 140 0 1
 0 142 -1 0
@@ -16269,8 +16269,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_6 c035 c038
 2
-134 0
 132 0
+134 0
 2
 0 140 0 1
 0 142 -1 0
@@ -16299,8 +16299,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_6 c036 c034
 2
-136 0
 133 0
+136 0
 2
 0 140 0 1
 0 142 -1 0
@@ -16309,8 +16309,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_6 c036 c035
 2
-136 0
 128 0
+136 0
 2
 0 140 0 1
 0 142 -1 0
@@ -16329,8 +16329,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_6 c036 c038
 2
-136 0
 132 0
+136 0
 2
 0 140 0 1
 0 142 -1 0
@@ -16369,8 +16369,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_6 c037 c035
 2
-130 0
 128 0
+130 0
 2
 0 140 0 1
 0 142 -1 0
@@ -16379,8 +16379,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_6 c037 c036
 2
-130 0
 129 0
+130 0
 2
 0 140 0 1
 0 142 -1 0
@@ -16429,8 +16429,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_6 c038 c035
 2
-131 0
 128 0
+131 0
 2
 0 140 0 1
 0 142 -1 0
@@ -16439,8 +16439,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_6 c038 c036
 2
-131 0
 129 0
+131 0
 2
 0 140 0 1
 0 142 -1 0
@@ -16459,8 +16459,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c032 c033
 2
-148 0
 65 0
+148 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16469,8 +16469,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c032 c034
 2
-148 0
 54 0
+148 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16479,8 +16479,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c032 c035
 2
-148 0
 55 0
+148 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16489,8 +16489,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c032 c036
 2
-148 0
 56 0
+148 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16499,8 +16499,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c032 c037
 2
-148 0
 57 0
+148 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16509,8 +16509,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c032 c038
 2
-148 0
 58 0
+148 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16519,8 +16519,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c033 c032
 2
-141 0
 53 0
+141 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16529,8 +16529,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c033 c034
 2
-141 0
 54 0
+141 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16539,8 +16539,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c033 c035
 2
-141 0
 55 0
+141 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16549,8 +16549,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c033 c036
 2
-141 0
 56 0
+141 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16559,8 +16559,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c033 c037
 2
-141 0
 57 0
+141 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16569,8 +16569,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c033 c038
 2
-141 0
 58 0
+141 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16579,8 +16579,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c034 c032
 2
-127 0
 53 0
+127 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16589,8 +16589,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c034 c033
 2
-127 0
 65 0
+127 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16599,8 +16599,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c034 c035
 2
-127 0
 55 0
+127 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16609,8 +16609,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c034 c036
 2
-127 0
 56 0
+127 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16619,8 +16619,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c034 c037
 2
-127 0
 57 0
+127 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16629,8 +16629,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c034 c038
 2
-127 0
 58 0
+127 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16639,8 +16639,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c035 c032
 2
-134 0
 53 0
+134 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16649,8 +16649,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c035 c033
 2
-134 0
 65 0
+134 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16659,8 +16659,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c035 c034
 2
-134 0
 54 0
+134 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16669,8 +16669,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c035 c036
 2
-134 0
 56 0
+134 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16679,8 +16679,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c035 c037
 2
-134 0
 57 0
+134 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16689,8 +16689,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c035 c038
 2
-134 0
 58 0
+134 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16699,8 +16699,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c036 c032
 2
-136 0
 53 0
+136 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16709,8 +16709,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c036 c033
 2
-136 0
 65 0
+136 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16719,8 +16719,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c036 c034
 2
-136 0
 54 0
+136 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16729,8 +16729,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c036 c035
 2
-136 0
 55 0
+136 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16739,8 +16739,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c036 c037
 2
-136 0
 57 0
+136 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16749,8 +16749,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c036 c038
 2
-136 0
 58 0
+136 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16759,8 +16759,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c037 c032
 2
-130 0
 53 0
+130 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16769,8 +16769,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c037 c033
 2
-130 0
 65 0
+130 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16779,8 +16779,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c037 c034
 2
-130 0
 54 0
+130 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16789,8 +16789,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c037 c035
 2
-130 0
 55 0
+130 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16799,8 +16799,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c037 c036
 2
-130 0
 56 0
+130 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16809,8 +16809,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c037 c038
 2
-130 0
 58 0
+130 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16819,8 +16819,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c038 c032
 2
-131 0
 53 0
+131 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16829,8 +16829,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c038 c033
 2
-131 0
 65 0
+131 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16839,8 +16839,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c038 c034
 2
-131 0
 54 0
+131 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16849,8 +16849,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c038 c035
 2
-131 0
 55 0
+131 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16859,8 +16859,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c038 c036
 2
-131 0
 56 0
+131 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16869,8 +16869,8 @@ end_operator
 begin_operator
 additionofrohacrosstetrasubstitutedalkene_7 c038 c037
 2
-131 0
 57 0
+131 0
 2
 0 142 0 1
 0 143 -1 0
@@ -16881,9 +16881,9 @@ additionofrohacrosstetrasubstitutedalkene_8 c032 c033
 1
 110 0
 3
-0 148 0 1
 0 143 0 1
 0 144 -1 0
+0 148 0 1
 3
 end_operator
 begin_operator
@@ -16891,9 +16891,9 @@ additionofrohacrosstetrasubstitutedalkene_8 c032 c034
 1
 104 0
 3
-0 148 0 1
 0 143 0 1
 0 144 -1 0
+0 148 0 1
 3
 end_operator
 begin_operator
@@ -16901,9 +16901,9 @@ additionofrohacrosstetrasubstitutedalkene_8 c032 c035
 1
 105 0
 3
-0 148 0 1
 0 143 0 1
 0 144 -1 0
+0 148 0 1
 3
 end_operator
 begin_operator
@@ -16911,9 +16911,9 @@ additionofrohacrosstetrasubstitutedalkene_8 c032 c036
 1
 106 0
 3
-0 148 0 1
 0 143 0 1
 0 144 -1 0
+0 148 0 1
 3
 end_operator
 begin_operator
@@ -16921,9 +16921,9 @@ additionofrohacrosstetrasubstitutedalkene_8 c032 c037
 1
 107 0
 3
-0 148 0 1
 0 143 0 1
 0 144 -1 0
+0 148 0 1
 3
 end_operator
 begin_operator
@@ -16931,9 +16931,9 @@ additionofrohacrosstetrasubstitutedalkene_8 c032 c038
 1
 108 0
 3
-0 148 0 1
 0 143 0 1
 0 144 -1 0
+0 148 0 1
 3
 end_operator
 begin_operator
@@ -17302,8 +17302,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c032 c033
 53 0
 110 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17312,8 +17312,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c032 c034
 53 0
 104 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17322,8 +17322,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c032 c035
 53 0
 105 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17332,8 +17332,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c032 c036
 53 0
 106 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17342,8 +17342,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c032 c037
 53 0
 107 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17352,8 +17352,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c032 c038
 53 0
 108 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17362,8 +17362,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c033 c032
 65 0
 109 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17372,8 +17372,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c033 c034
 65 0
 104 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17382,8 +17382,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c033 c035
 65 0
 105 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17392,8 +17392,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c033 c036
 65 0
 106 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17402,8 +17402,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c033 c037
 65 0
 107 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17412,8 +17412,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c033 c038
 65 0
 108 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17422,8 +17422,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c034 c032
 54 0
 109 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17432,8 +17432,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c034 c033
 54 0
 110 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17442,8 +17442,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c034 c035
 54 0
 105 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17452,8 +17452,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c034 c036
 54 0
 106 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17462,8 +17462,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c034 c037
 54 0
 107 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17472,8 +17472,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c034 c038
 54 0
 108 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17482,8 +17482,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c035 c032
 55 0
 109 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17492,8 +17492,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c035 c033
 55 0
 110 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17502,8 +17502,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c035 c034
 55 0
 104 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17512,8 +17512,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c035 c036
 55 0
 106 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17522,8 +17522,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c035 c037
 55 0
 107 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17532,8 +17532,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c035 c038
 55 0
 108 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17542,8 +17542,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c036 c032
 56 0
 109 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17552,8 +17552,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c036 c033
 56 0
 110 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17562,8 +17562,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c036 c034
 56 0
 104 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17572,8 +17572,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c036 c035
 56 0
 105 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17582,8 +17582,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c036 c037
 56 0
 107 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17592,8 +17592,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c036 c038
 56 0
 108 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17602,8 +17602,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c037 c032
 57 0
 109 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17612,8 +17612,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c037 c033
 57 0
 110 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17622,8 +17622,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c037 c034
 57 0
 104 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17632,8 +17632,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c037 c035
 57 0
 105 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17642,8 +17642,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c037 c036
 57 0
 106 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17652,8 +17652,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c037 c038
 57 0
 108 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17662,8 +17662,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c038 c032
 58 0
 109 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17672,8 +17672,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c038 c033
 58 0
 110 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17682,8 +17682,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c038 c034
 58 0
 104 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17692,8 +17692,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c038 c035
 58 0
 105 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17702,8 +17702,8 @@ additionofrohacrosstetrasubstitutedalkene_9 c038 c036
 58 0
 106 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
@@ -17712,16 +17712,16 @@ additionofrohacrosstetrasubstitutedalkene_9 c038 c037
 58 0
 107 0
 2
-0 145 -1 0
 0 144 0 1
+0 145 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_1 o066 c016
 0
 3
-0 111 -1 0
 0 66 -1 0
+0 111 -1 0
 0 199 0 1
 4
 end_operator
@@ -17730,8 +17730,8 @@ additionofrohacrosstrisubstitutedalkene_1 o066 c032
 1
 73 0
 3
-0 111 -1 0
 0 66 -1 0
+0 111 -1 0
 0 199 0 1
 4
 end_operator
@@ -17740,8 +17740,8 @@ additionofrohacrosstrisubstitutedalkene_1 o066 c033
 1
 194 0
 3
-0 111 -1 0
 0 66 -1 0
+0 111 -1 0
 0 199 0 1
 4
 end_operator
@@ -17750,8 +17750,8 @@ additionofrohacrosstrisubstitutedalkene_1 o066 c034
 1
 92 0
 3
-0 111 -1 0
 0 66 -1 0
+0 111 -1 0
 0 199 0 1
 4
 end_operator
@@ -17760,8 +17760,8 @@ additionofrohacrosstrisubstitutedalkene_1 o066 c035
 1
 59 0
 3
-0 111 -1 0
 0 66 -1 0
+0 111 -1 0
 0 199 0 1
 4
 end_operator
@@ -17770,8 +17770,8 @@ additionofrohacrosstrisubstitutedalkene_1 o066 c036
 1
 60 0
 3
-0 111 -1 0
 0 66 -1 0
+0 111 -1 0
 0 199 0 1
 4
 end_operator
@@ -17780,8 +17780,8 @@ additionofrohacrosstrisubstitutedalkene_1 o066 c037
 1
 61 0
 3
-0 111 -1 0
 0 66 -1 0
+0 111 -1 0
 0 199 0 1
 4
 end_operator
@@ -17790,8 +17790,8 @@ additionofrohacrosstrisubstitutedalkene_1 o066 c038
 1
 62 0
 3
-0 111 -1 0
 0 66 -1 0
+0 111 -1 0
 0 199 0 1
 4
 end_operator
@@ -17800,48 +17800,48 @@ additionofrohacrosstrisubstitutedalkene_1 o066 h061
 1
 46 0
 3
-0 111 -1 0
 0 66 -1 0
+0 111 -1 0
 0 199 0 1
 4
 end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_10 c032 c033
 2
-102 0
 19 0
+102 0
 6
-0 197 -1 0
-0 198 -1 0
 0 13 0 1
 0 51 -1 0
 0 99 0 1
 0 100 -1 1
+0 197 -1 0
+0 198 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_10 c033 c032
 2
-98 0
 18 0
+98 0
 6
-0 197 -1 0
-0 198 -1 0
 0 13 0 1
 0 51 -1 0
 0 99 -1 1
 0 100 0 1
+0 197 -1 0
+0 198 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_11 h061 c016
 0
 6
-0 52 0 1
 0 10 0 1
 0 30 -1 0
 0 31 -1 0
 0 51 0 1
+0 52 0 1
 0 96 -1 0
 3
 end_operator
@@ -17849,23 +17849,23 @@ begin_operator
 additionofrohacrosstrisubstitutedalkene_11 h061 c032
 0
 6
-0 52 0 1
 0 18 0 1
+0 51 0 1
+0 52 0 1
+0 96 -1 0
 0 195 -1 0
 0 196 -1 0
-0 51 0 1
-0 96 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_11 h061 c033
 0
 6
-0 52 0 1
 0 19 0 1
 0 32 -1 0
 0 33 -1 0
 0 51 0 1
+0 52 0 1
 0 96 -1 0
 3
 end_operator
@@ -17873,11 +17873,11 @@ begin_operator
 additionofrohacrosstrisubstitutedalkene_11 h061 c034
 0
 6
-0 52 0 1
 0 21 0 1
 0 34 -1 0
 0 35 -1 0
 0 51 0 1
+0 52 0 1
 0 96 -1 0
 3
 end_operator
@@ -17885,11 +17885,11 @@ begin_operator
 additionofrohacrosstrisubstitutedalkene_11 h061 c035
 0
 6
-0 52 0 1
 0 26 0 1
 0 38 -1 0
 0 39 -1 0
 0 51 0 1
+0 52 0 1
 0 96 -1 0
 3
 end_operator
@@ -17897,11 +17897,11 @@ begin_operator
 additionofrohacrosstrisubstitutedalkene_11 h061 c036
 0
 6
-0 52 0 1
 0 27 0 1
 0 40 -1 0
 0 41 -1 0
 0 51 0 1
+0 52 0 1
 0 96 -1 0
 3
 end_operator
@@ -17909,11 +17909,11 @@ begin_operator
 additionofrohacrosstrisubstitutedalkene_11 h061 c037
 0
 6
-0 52 0 1
 0 29 0 1
 0 44 -1 0
 0 45 -1 0
 0 51 0 1
+0 52 0 1
 0 96 -1 0
 3
 end_operator
@@ -17921,11 +17921,11 @@ begin_operator
 additionofrohacrosstrisubstitutedalkene_11 h061 c038
 0
 6
-0 52 0 1
 0 25 0 1
 0 36 -1 0
 0 37 -1 0
 0 51 0 1
+0 52 0 1
 0 96 -1 0
 3
 end_operator
@@ -17934,8 +17934,8 @@ additionofrohacrosstrisubstitutedalkene_12 c016 o066
 0
 4
 0 78 0 1
-0 111 0 1
 0 96 0 1
+0 111 0 1
 0 199 -1 0
 3
 end_operator
@@ -17943,24 +17943,24 @@ begin_operator
 additionofrohacrosstrisubstitutedalkene_12 c032 o066
 0
 6
+0 73 -1 0
+0 96 0 1
 0 102 0 1
 0 111 0 1
-0 73 -1 0
-0 206 -1 0
-0 96 0 1
 0 199 -1 0
+0 206 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_12 c033 o066
 0
 6
+0 96 0 1
 0 98 0 1
 0 111 0 1
 0 194 -1 0
-0 205 -1 0
-0 96 0 1
 0 199 -1 0
+0 205 -1 0
 3
 end_operator
 begin_operator
@@ -17968,59 +17968,59 @@ additionofrohacrosstrisubstitutedalkene_12 c034 o066
 0
 6
 0 79 0 1
-0 111 0 1
 0 92 -1 0
-0 204 -1 0
 0 96 0 1
+0 111 0 1
 0 199 -1 0
+0 204 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_12 c035 o066
 0
 6
-0 80 0 1
-0 111 0 1
 0 59 -1 0
-0 203 -1 0
+0 80 0 1
 0 96 0 1
+0 111 0 1
 0 199 -1 0
+0 203 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_12 c036 o066
 0
 6
-0 81 0 1
-0 111 0 1
 0 60 -1 0
-0 202 -1 0
+0 81 0 1
 0 96 0 1
+0 111 0 1
 0 199 -1 0
+0 202 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_12 c037 o066
 0
 6
-0 82 0 1
-0 111 0 1
 0 61 -1 0
-0 201 -1 0
+0 82 0 1
 0 96 0 1
+0 111 0 1
 0 199 -1 0
+0 201 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_12 c038 o066
 0
 6
-0 85 0 1
-0 111 0 1
 0 62 -1 0
-0 200 -1 0
+0 85 0 1
 0 96 0 1
+0 111 0 1
 0 199 -1 0
+0 200 -1 0
 3
 end_operator
 begin_operator
@@ -18029,9 +18029,9 @@ additionofrohacrosstrisubstitutedalkene_2 c032 c033
 197 0
 4
 0 18 -1 0
-0 141 -1 0
 0 66 0 1
 0 67 -1 0
+0 141 -1 0
 4
 end_operator
 begin_operator
@@ -18040,9 +18040,9 @@ additionofrohacrosstrisubstitutedalkene_2 c033 c032
 198 0
 4
 0 19 -1 0
-0 148 -1 0
 0 66 0 1
 0 67 -1 0
+0 148 -1 0
 4
 end_operator
 begin_operator
@@ -18050,9 +18050,9 @@ additionofrohacrosstrisubstitutedalkene_2 c033 c034
 0
 4
 0 19 -1 0
-0 127 -1 0
 0 66 0 1
 0 67 -1 0
+0 127 -1 0
 4
 end_operator
 begin_operator
@@ -18060,9 +18060,9 @@ additionofrohacrosstrisubstitutedalkene_2 c033 c038
 0
 4
 0 19 -1 0
-0 131 -1 0
 0 66 0 1
 0 67 -1 0
+0 131 -1 0
 4
 end_operator
 begin_operator
@@ -18070,9 +18070,9 @@ additionofrohacrosstrisubstitutedalkene_2 c034 c033
 0
 4
 0 21 -1 0
-0 141 -1 0
 0 66 0 1
 0 67 -1 0
+0 141 -1 0
 4
 end_operator
 begin_operator
@@ -18080,9 +18080,9 @@ additionofrohacrosstrisubstitutedalkene_2 c034 c035
 0
 4
 0 21 -1 0
-0 134 -1 0
 0 66 0 1
 0 67 -1 0
+0 134 -1 0
 4
 end_operator
 begin_operator
@@ -18090,9 +18090,9 @@ additionofrohacrosstrisubstitutedalkene_2 c035 c034
 0
 4
 0 26 -1 0
-0 127 -1 0
 0 66 0 1
 0 67 -1 0
+0 127 -1 0
 4
 end_operator
 begin_operator
@@ -18100,9 +18100,9 @@ additionofrohacrosstrisubstitutedalkene_2 c035 c036
 0
 4
 0 26 -1 0
-0 136 -1 0
 0 66 0 1
 0 67 -1 0
+0 136 -1 0
 4
 end_operator
 begin_operator
@@ -18110,9 +18110,9 @@ additionofrohacrosstrisubstitutedalkene_2 c036 c035
 0
 4
 0 27 -1 0
-0 134 -1 0
 0 66 0 1
 0 67 -1 0
+0 134 -1 0
 4
 end_operator
 begin_operator
@@ -18120,9 +18120,9 @@ additionofrohacrosstrisubstitutedalkene_2 c036 c037
 0
 4
 0 27 -1 0
-0 130 -1 0
 0 66 0 1
 0 67 -1 0
+0 130 -1 0
 4
 end_operator
 begin_operator
@@ -18130,9 +18130,9 @@ additionofrohacrosstrisubstitutedalkene_2 c037 c036
 0
 4
 0 29 -1 0
-0 136 -1 0
 0 66 0 1
 0 67 -1 0
+0 136 -1 0
 4
 end_operator
 begin_operator
@@ -18140,9 +18140,9 @@ additionofrohacrosstrisubstitutedalkene_2 c037 c038
 0
 4
 0 29 -1 0
-0 131 -1 0
 0 66 0 1
 0 67 -1 0
+0 131 -1 0
 4
 end_operator
 begin_operator
@@ -18150,9 +18150,9 @@ additionofrohacrosstrisubstitutedalkene_2 c038 c033
 0
 4
 0 25 -1 0
-0 141 -1 0
 0 66 0 1
 0 67 -1 0
+0 141 -1 0
 4
 end_operator
 begin_operator
@@ -18160,9 +18160,9 @@ additionofrohacrosstrisubstitutedalkene_2 c038 c037
 0
 4
 0 25 -1 0
-0 130 -1 0
 0 66 0 1
 0 67 -1 0
+0 130 -1 0
 4
 end_operator
 begin_operator
@@ -18385,10 +18385,10 @@ additionofrohacrosstrisubstitutedalkene_4 c032 c033
 1
 197 0
 4
-0 102 -1 0
-0 110 -1 0
 0 68 0 1
 0 87 -1 0
+0 102 -1 0
+0 110 -1 0
 4
 end_operator
 begin_operator
@@ -18396,130 +18396,130 @@ additionofrohacrosstrisubstitutedalkene_4 c033 c032
 1
 198 0
 4
-0 98 -1 0
-0 109 -1 0
 0 68 0 1
 0 87 -1 0
+0 98 -1 0
+0 109 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_4 c033 c034
 0
 4
-0 98 -1 0
-0 104 -1 0
 0 68 0 1
 0 87 -1 0
+0 98 -1 0
+0 104 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_4 c033 c038
 0
 4
-0 98 -1 0
-0 108 -1 0
 0 68 0 1
 0 87 -1 0
+0 98 -1 0
+0 108 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_4 c034 c033
 0
 4
-0 79 -1 0
-0 110 -1 0
 0 68 0 1
+0 79 -1 0
 0 87 -1 0
+0 110 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_4 c034 c035
 0
 4
-0 79 -1 0
-0 105 -1 0
 0 68 0 1
+0 79 -1 0
 0 87 -1 0
+0 105 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_4 c035 c034
 0
 4
-0 80 -1 0
-0 104 -1 0
 0 68 0 1
+0 80 -1 0
 0 87 -1 0
+0 104 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_4 c035 c036
 0
 4
-0 80 -1 0
-0 106 -1 0
 0 68 0 1
+0 80 -1 0
 0 87 -1 0
+0 106 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_4 c036 c035
 0
 4
-0 81 -1 0
-0 105 -1 0
 0 68 0 1
+0 81 -1 0
 0 87 -1 0
+0 105 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_4 c036 c037
 0
 4
-0 81 -1 0
-0 107 -1 0
 0 68 0 1
+0 81 -1 0
 0 87 -1 0
+0 107 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_4 c037 c036
 0
 4
-0 82 -1 0
-0 106 -1 0
 0 68 0 1
+0 82 -1 0
 0 87 -1 0
+0 106 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_4 c037 c038
 0
 4
-0 82 -1 0
-0 108 -1 0
 0 68 0 1
+0 82 -1 0
 0 87 -1 0
+0 108 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_4 c038 c033
 0
 4
-0 85 -1 0
-0 110 -1 0
 0 68 0 1
+0 85 -1 0
 0 87 -1 0
+0 110 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_4 c038 c037
 0
 4
-0 85 -1 0
-0 107 -1 0
 0 68 0 1
+0 85 -1 0
 0 87 -1 0
+0 107 -1 0
 4
 end_operator
 begin_operator
@@ -18528,9 +18528,9 @@ additionofrohacrosstrisubstitutedalkene_5 c032 c033
 102 0
 198 0
 3
-0 151 -1 0
 0 87 0 1
 0 135 -1 0
+0 151 -1 0
 4
 end_operator
 begin_operator
@@ -18539,9 +18539,9 @@ additionofrohacrosstrisubstitutedalkene_5 c033 c032
 98 0
 197 0
 3
-0 138 -1 0
 0 87 0 1
 0 135 -1 0
+0 138 -1 0
 4
 end_operator
 begin_operator
@@ -18549,8 +18549,8 @@ additionofrohacrosstrisubstitutedalkene_5 c033 c034
 1
 98 0
 3
-0 133 -1 0
 0 87 0 1
+0 133 -1 0
 0 135 -1 0
 4
 end_operator
@@ -18559,8 +18559,8 @@ additionofrohacrosstrisubstitutedalkene_5 c033 c038
 1
 98 0
 3
-0 132 -1 0
 0 87 0 1
+0 132 -1 0
 0 135 -1 0
 4
 end_operator
@@ -18569,9 +18569,9 @@ additionofrohacrosstrisubstitutedalkene_5 c034 c033
 1
 79 0
 3
-0 151 -1 0
 0 87 0 1
 0 135 -1 0
+0 151 -1 0
 4
 end_operator
 begin_operator
@@ -18579,8 +18579,8 @@ additionofrohacrosstrisubstitutedalkene_5 c034 c035
 1
 79 0
 3
-0 128 -1 0
 0 87 0 1
+0 128 -1 0
 0 135 -1 0
 4
 end_operator
@@ -18589,8 +18589,8 @@ additionofrohacrosstrisubstitutedalkene_5 c035 c034
 1
 80 0
 3
-0 133 -1 0
 0 87 0 1
+0 133 -1 0
 0 135 -1 0
 4
 end_operator
@@ -18599,8 +18599,8 @@ additionofrohacrosstrisubstitutedalkene_5 c035 c036
 1
 80 0
 3
-0 129 -1 0
 0 87 0 1
+0 129 -1 0
 0 135 -1 0
 4
 end_operator
@@ -18609,8 +18609,8 @@ additionofrohacrosstrisubstitutedalkene_5 c036 c035
 1
 81 0
 3
-0 128 -1 0
 0 87 0 1
+0 128 -1 0
 0 135 -1 0
 4
 end_operator
@@ -18619,9 +18619,9 @@ additionofrohacrosstrisubstitutedalkene_5 c036 c037
 1
 81 0
 3
-0 137 -1 0
 0 87 0 1
 0 135 -1 0
+0 137 -1 0
 4
 end_operator
 begin_operator
@@ -18629,8 +18629,8 @@ additionofrohacrosstrisubstitutedalkene_5 c037 c036
 1
 82 0
 3
-0 129 -1 0
 0 87 0 1
+0 129 -1 0
 0 135 -1 0
 4
 end_operator
@@ -18639,8 +18639,8 @@ additionofrohacrosstrisubstitutedalkene_5 c037 c038
 1
 82 0
 3
-0 132 -1 0
 0 87 0 1
+0 132 -1 0
 0 135 -1 0
 4
 end_operator
@@ -18649,9 +18649,9 @@ additionofrohacrosstrisubstitutedalkene_5 c038 c033
 1
 85 0
 3
-0 151 -1 0
 0 87 0 1
 0 135 -1 0
+0 151 -1 0
 4
 end_operator
 begin_operator
@@ -18659,16 +18659,16 @@ additionofrohacrosstrisubstitutedalkene_5 c038 c037
 1
 85 0
 3
-0 137 -1 0
 0 87 0 1
 0 135 -1 0
+0 137 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c032 c033
 2
-148 0
 110 0
+148 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18677,8 +18677,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c032 c034
 2
-148 0
 104 0
+148 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18687,8 +18687,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c032 c035
 2
-148 0
 105 0
+148 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18697,8 +18697,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c032 c036
 2
-148 0
 106 0
+148 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18707,8 +18707,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c032 c037
 2
-148 0
 107 0
+148 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18717,8 +18717,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c032 c038
 2
-148 0
 108 0
+148 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18727,8 +18727,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c033 c032
 2
-141 0
 109 0
+141 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18737,8 +18737,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c033 c034
 2
-141 0
 104 0
+141 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18747,8 +18747,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c033 c035
 2
-141 0
 105 0
+141 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18757,8 +18757,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c033 c036
 2
-141 0
 106 0
+141 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18767,8 +18767,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c033 c037
 2
-141 0
 107 0
+141 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18777,8 +18777,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c033 c038
 2
-141 0
 108 0
+141 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18787,8 +18787,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c034 c032
 2
-127 0
 109 0
+127 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18797,8 +18797,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c034 c033
 2
-127 0
 110 0
+127 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18807,8 +18807,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c034 c035
 2
-127 0
 105 0
+127 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18817,8 +18817,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c034 c036
 2
-127 0
 106 0
+127 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18827,8 +18827,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c034 c037
 2
-127 0
 107 0
+127 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18837,8 +18837,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c034 c038
 2
-127 0
 108 0
+127 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18847,8 +18847,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c035 c032
 2
-134 0
 109 0
+134 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18857,8 +18857,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c035 c033
 2
-134 0
 110 0
+134 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18867,8 +18867,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c035 c034
 2
-134 0
 104 0
+134 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18877,8 +18877,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c035 c036
 2
-134 0
 106 0
+134 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18887,8 +18887,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c035 c037
 2
-134 0
 107 0
+134 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18897,8 +18897,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c035 c038
 2
-134 0
 108 0
+134 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18907,8 +18907,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c036 c032
 2
-136 0
 109 0
+136 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18917,8 +18917,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c036 c033
 2
-136 0
 110 0
+136 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18927,8 +18927,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c036 c034
 2
-136 0
 104 0
+136 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18937,8 +18937,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c036 c035
 2
-136 0
 105 0
+136 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18947,8 +18947,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c036 c037
 2
-136 0
 107 0
+136 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18957,8 +18957,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c036 c038
 2
-136 0
 108 0
+136 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18967,8 +18967,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c037 c032
 2
-130 0
 109 0
+130 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18977,8 +18977,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c037 c033
 2
-130 0
 110 0
+130 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18987,8 +18987,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c037 c034
 2
-130 0
 104 0
+130 0
 2
 0 135 0 1
 0 139 -1 0
@@ -18997,8 +18997,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c037 c035
 2
-130 0
 105 0
+130 0
 2
 0 135 0 1
 0 139 -1 0
@@ -19007,8 +19007,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c037 c036
 2
-130 0
 106 0
+130 0
 2
 0 135 0 1
 0 139 -1 0
@@ -19017,8 +19017,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c037 c038
 2
-130 0
 108 0
+130 0
 2
 0 135 0 1
 0 139 -1 0
@@ -19027,8 +19027,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c038 c032
 2
-131 0
 109 0
+131 0
 2
 0 135 0 1
 0 139 -1 0
@@ -19037,8 +19037,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c038 c033
 2
-131 0
 110 0
+131 0
 2
 0 135 0 1
 0 139 -1 0
@@ -19047,8 +19047,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c038 c034
 2
-131 0
 104 0
+131 0
 2
 0 135 0 1
 0 139 -1 0
@@ -19057,8 +19057,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c038 c035
 2
-131 0
 105 0
+131 0
 2
 0 135 0 1
 0 139 -1 0
@@ -19067,8 +19067,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c038 c036
 2
-131 0
 106 0
+131 0
 2
 0 135 0 1
 0 139 -1 0
@@ -19077,8 +19077,8 @@ end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_6 c038 c037
 2
-131 0
 107 0
+131 0
 2
 0 135 0 1
 0 139 -1 0
@@ -19509,17 +19509,17 @@ additionofrohacrosstrisubstitutedalkene_8 c032 c033
 0
 4
 0 148 0 1
-0 151 0 1
 0 149 0 1
 0 150 -1 0
+0 151 0 1
 3
 end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_8 c032 c034
 0
 4
-0 148 0 1
 0 133 0 1
+0 148 0 1
 0 149 0 1
 0 150 -1 0
 3
@@ -19528,8 +19528,8 @@ begin_operator
 additionofrohacrosstrisubstitutedalkene_8 c032 c035
 0
 4
-0 148 0 1
 0 128 0 1
+0 148 0 1
 0 149 0 1
 0 150 -1 0
 3
@@ -19538,8 +19538,8 @@ begin_operator
 additionofrohacrosstrisubstitutedalkene_8 c032 c036
 0
 4
-0 148 0 1
 0 129 0 1
+0 148 0 1
 0 149 0 1
 0 150 -1 0
 3
@@ -19548,8 +19548,8 @@ begin_operator
 additionofrohacrosstrisubstitutedalkene_8 c032 c037
 0
 4
-0 148 0 1
 0 137 0 1
+0 148 0 1
 0 149 0 1
 0 150 -1 0
 3
@@ -19558,8 +19558,8 @@ begin_operator
 additionofrohacrosstrisubstitutedalkene_8 c032 c038
 0
 4
-0 148 0 1
 0 132 0 1
+0 148 0 1
 0 149 0 1
 0 150 -1 0
 3
@@ -19568,8 +19568,8 @@ begin_operator
 additionofrohacrosstrisubstitutedalkene_8 c033 c032
 0
 4
-0 141 0 1
 0 138 0 1
+0 141 0 1
 0 149 0 1
 0 150 -1 0
 3
@@ -19578,8 +19578,8 @@ begin_operator
 additionofrohacrosstrisubstitutedalkene_8 c033 c034
 0
 4
-0 141 0 1
 0 133 0 1
+0 141 0 1
 0 149 0 1
 0 150 -1 0
 3
@@ -19588,8 +19588,8 @@ begin_operator
 additionofrohacrosstrisubstitutedalkene_8 c033 c035
 0
 4
-0 141 0 1
 0 128 0 1
+0 141 0 1
 0 149 0 1
 0 150 -1 0
 3
@@ -19598,8 +19598,8 @@ begin_operator
 additionofrohacrosstrisubstitutedalkene_8 c033 c036
 0
 4
-0 141 0 1
 0 129 0 1
+0 141 0 1
 0 149 0 1
 0 150 -1 0
 3
@@ -19608,8 +19608,8 @@ begin_operator
 additionofrohacrosstrisubstitutedalkene_8 c033 c037
 0
 4
-0 141 0 1
 0 137 0 1
+0 141 0 1
 0 149 0 1
 0 150 -1 0
 3
@@ -19618,8 +19618,8 @@ begin_operator
 additionofrohacrosstrisubstitutedalkene_8 c033 c038
 0
 4
-0 141 0 1
 0 132 0 1
+0 141 0 1
 0 149 0 1
 0 150 -1 0
 3
@@ -19639,9 +19639,9 @@ additionofrohacrosstrisubstitutedalkene_8 c034 c033
 0
 4
 0 127 0 1
-0 151 0 1
 0 149 0 1
 0 150 -1 0
+0 151 0 1
 3
 end_operator
 begin_operator
@@ -19699,17 +19699,17 @@ additionofrohacrosstrisubstitutedalkene_8 c035 c033
 0
 4
 0 134 0 1
-0 151 0 1
 0 149 0 1
 0 150 -1 0
+0 151 0 1
 3
 end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_8 c035 c034
 0
 4
-0 134 0 1
 0 133 0 1
+0 134 0 1
 0 149 0 1
 0 150 -1 0
 3
@@ -19718,8 +19718,8 @@ begin_operator
 additionofrohacrosstrisubstitutedalkene_8 c035 c036
 0
 4
-0 134 0 1
 0 129 0 1
+0 134 0 1
 0 149 0 1
 0 150 -1 0
 3
@@ -19738,8 +19738,8 @@ begin_operator
 additionofrohacrosstrisubstitutedalkene_8 c035 c038
 0
 4
-0 134 0 1
 0 132 0 1
+0 134 0 1
 0 149 0 1
 0 150 -1 0
 3
@@ -19759,17 +19759,17 @@ additionofrohacrosstrisubstitutedalkene_8 c036 c033
 0
 4
 0 136 0 1
-0 151 0 1
 0 149 0 1
 0 150 -1 0
+0 151 0 1
 3
 end_operator
 begin_operator
 additionofrohacrosstrisubstitutedalkene_8 c036 c034
 0
 4
-0 136 0 1
 0 133 0 1
+0 136 0 1
 0 149 0 1
 0 150 -1 0
 3
@@ -19778,8 +19778,8 @@ begin_operator
 additionofrohacrosstrisubstitutedalkene_8 c036 c035
 0
 4
-0 136 0 1
 0 128 0 1
+0 136 0 1
 0 149 0 1
 0 150 -1 0
 3
@@ -19798,8 +19798,8 @@ begin_operator
 additionofrohacrosstrisubstitutedalkene_8 c036 c038
 0
 4
-0 136 0 1
 0 132 0 1
+0 136 0 1
 0 149 0 1
 0 150 -1 0
 3
@@ -19819,9 +19819,9 @@ additionofrohacrosstrisubstitutedalkene_8 c037 c033
 0
 4
 0 130 0 1
-0 151 0 1
 0 149 0 1
 0 150 -1 0
+0 151 0 1
 3
 end_operator
 begin_operator
@@ -19838,8 +19838,8 @@ begin_operator
 additionofrohacrosstrisubstitutedalkene_8 c037 c035
 0
 4
-0 130 0 1
 0 128 0 1
+0 130 0 1
 0 149 0 1
 0 150 -1 0
 3
@@ -19848,8 +19848,8 @@ begin_operator
 additionofrohacrosstrisubstitutedalkene_8 c037 c036
 0
 4
-0 130 0 1
 0 129 0 1
+0 130 0 1
 0 149 0 1
 0 150 -1 0
 3
@@ -19879,9 +19879,9 @@ additionofrohacrosstrisubstitutedalkene_8 c038 c033
 0
 4
 0 131 0 1
-0 151 0 1
 0 149 0 1
 0 150 -1 0
+0 151 0 1
 3
 end_operator
 begin_operator
@@ -19898,8 +19898,8 @@ begin_operator
 additionofrohacrosstrisubstitutedalkene_8 c038 c035
 0
 4
-0 131 0 1
 0 128 0 1
+0 131 0 1
 0 149 0 1
 0 150 -1 0
 3
@@ -19908,8 +19908,8 @@ begin_operator
 additionofrohacrosstrisubstitutedalkene_8 c038 c036
 0
 4
-0 131 0 1
 0 129 0 1
+0 131 0 1
 0 149 0 1
 0 150 -1 0
 3
@@ -19929,10 +19929,10 @@ additionofrohacrosstrisubstitutedalkene_9 o066 h061
 1
 111 0
 5
-0 52 -1 0
-0 46 -1 1
-0 28 0 1
 0 13 -1 0
+0 28 0 1
+0 46 -1 1
+0 52 -1 0
 0 150 0 1
 3
 end_operator
@@ -19940,8 +19940,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_1 o066 c016
 0
 3
-0 103 -1 0
 0 69 -1 0
+0 103 -1 0
 0 199 0 1
 4
 end_operator
@@ -19950,8 +19950,8 @@ additionofrohacrossvicdisubstitutedalkene_1 o066 c032
 1
 73 0
 3
-0 103 -1 0
 0 69 -1 0
+0 103 -1 0
 0 199 0 1
 4
 end_operator
@@ -19960,8 +19960,8 @@ additionofrohacrossvicdisubstitutedalkene_1 o066 c033
 1
 194 0
 3
-0 103 -1 0
 0 69 -1 0
+0 103 -1 0
 0 199 0 1
 4
 end_operator
@@ -19970,8 +19970,8 @@ additionofrohacrossvicdisubstitutedalkene_1 o066 c034
 1
 92 0
 3
-0 103 -1 0
 0 69 -1 0
+0 103 -1 0
 0 199 0 1
 4
 end_operator
@@ -19980,8 +19980,8 @@ additionofrohacrossvicdisubstitutedalkene_1 o066 c035
 1
 59 0
 3
-0 103 -1 0
 0 69 -1 0
+0 103 -1 0
 0 199 0 1
 4
 end_operator
@@ -19990,8 +19990,8 @@ additionofrohacrossvicdisubstitutedalkene_1 o066 c036
 1
 60 0
 3
-0 103 -1 0
 0 69 -1 0
+0 103 -1 0
 0 199 0 1
 4
 end_operator
@@ -20000,8 +20000,8 @@ additionofrohacrossvicdisubstitutedalkene_1 o066 c037
 1
 61 0
 3
-0 103 -1 0
 0 69 -1 0
+0 103 -1 0
 0 199 0 1
 4
 end_operator
@@ -20010,8 +20010,8 @@ additionofrohacrossvicdisubstitutedalkene_1 o066 c038
 1
 62 0
 3
-0 103 -1 0
 0 69 -1 0
+0 103 -1 0
 0 199 0 1
 4
 end_operator
@@ -20020,8 +20020,8 @@ additionofrohacrossvicdisubstitutedalkene_1 o066 h061
 1
 46 0
 3
-0 103 -1 0
 0 69 -1 0
+0 103 -1 0
 0 199 0 1
 4
 end_operator
@@ -20030,10 +20030,10 @@ additionofrohacrossvicdisubstitutedalkene_10 c016 h061
 0
 6
 0 9 0 1
-0 52 0 1
 0 30 -1 0
 0 31 -1 0
 0 50 0 1
+0 52 0 1
 0 97 -1 0
 3
 end_operator
@@ -20042,11 +20042,11 @@ additionofrohacrossvicdisubstitutedalkene_10 c032 h061
 0
 6
 0 15 0 1
+0 50 0 1
 0 52 0 1
+0 97 -1 0
 0 195 -1 0
 0 196 -1 0
-0 50 0 1
-0 97 -1 0
 3
 end_operator
 begin_operator
@@ -20054,10 +20054,10 @@ additionofrohacrossvicdisubstitutedalkene_10 c033 h061
 0
 6
 0 17 0 1
-0 52 0 1
 0 32 -1 0
 0 33 -1 0
 0 50 0 1
+0 52 0 1
 0 97 -1 0
 3
 end_operator
@@ -20066,10 +20066,10 @@ additionofrohacrossvicdisubstitutedalkene_10 c034 h061
 0
 6
 0 22 0 1
-0 52 0 1
 0 34 -1 0
 0 35 -1 0
 0 50 0 1
+0 52 0 1
 0 97 -1 0
 3
 end_operator
@@ -20078,10 +20078,10 @@ additionofrohacrossvicdisubstitutedalkene_10 c035 h061
 0
 6
 0 16 0 1
-0 52 0 1
 0 38 -1 0
 0 39 -1 0
 0 50 0 1
+0 52 0 1
 0 97 -1 0
 3
 end_operator
@@ -20090,10 +20090,10 @@ additionofrohacrossvicdisubstitutedalkene_10 c036 h061
 0
 6
 0 20 0 1
-0 52 0 1
 0 40 -1 0
 0 41 -1 0
 0 50 0 1
+0 52 0 1
 0 97 -1 0
 3
 end_operator
@@ -20102,10 +20102,10 @@ additionofrohacrossvicdisubstitutedalkene_10 c037 h061
 0
 6
 0 23 0 1
-0 52 0 1
 0 44 -1 0
 0 45 -1 0
 0 50 0 1
+0 52 0 1
 0 97 -1 0
 3
 end_operator
@@ -20114,10 +20114,10 @@ additionofrohacrossvicdisubstitutedalkene_10 c038 h061
 0
 6
 0 24 0 1
-0 52 0 1
 0 36 -1 0
 0 37 -1 0
 0 50 0 1
+0 52 0 1
 0 97 -1 0
 3
 end_operator
@@ -20126,8 +20126,8 @@ additionofrohacrossvicdisubstitutedalkene_11 c016 o066
 0
 4
 0 78 0 1
-0 103 0 1
 0 97 0 1
+0 103 0 1
 0 199 -1 0
 3
 end_operator
@@ -20135,24 +20135,24 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_11 c032 o066
 0
 6
+0 73 -1 0
+0 97 0 1
 0 102 0 1
 0 103 0 1
-0 73 -1 0
-0 206 -1 0
-0 97 0 1
 0 199 -1 0
+0 206 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_11 c033 o066
 0
 6
+0 97 0 1
 0 98 0 1
 0 103 0 1
 0 194 -1 0
-0 205 -1 0
-0 97 0 1
 0 199 -1 0
+0 205 -1 0
 3
 end_operator
 begin_operator
@@ -20160,59 +20160,59 @@ additionofrohacrossvicdisubstitutedalkene_11 c034 o066
 0
 6
 0 79 0 1
-0 103 0 1
 0 92 -1 0
-0 204 -1 0
 0 97 0 1
+0 103 0 1
 0 199 -1 0
+0 204 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_11 c035 o066
 0
 6
-0 80 0 1
-0 103 0 1
 0 59 -1 0
-0 203 -1 0
+0 80 0 1
 0 97 0 1
+0 103 0 1
 0 199 -1 0
+0 203 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_11 c036 o066
 0
 6
-0 81 0 1
-0 103 0 1
 0 60 -1 0
-0 202 -1 0
+0 81 0 1
 0 97 0 1
+0 103 0 1
 0 199 -1 0
+0 202 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_11 c037 o066
 0
 6
-0 82 0 1
-0 103 0 1
 0 61 -1 0
-0 201 -1 0
+0 82 0 1
 0 97 0 1
+0 103 0 1
 0 199 -1 0
+0 201 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_11 c038 o066
 0
 6
-0 85 0 1
-0 103 0 1
 0 62 -1 0
-0 200 -1 0
+0 85 0 1
 0 97 0 1
+0 103 0 1
 0 199 -1 0
+0 200 -1 0
 3
 end_operator
 begin_operator
@@ -20220,10 +20220,10 @@ additionofrohacrossvicdisubstitutedalkene_2 c032 c033
 1
 198 0
 4
-0 102 -1 0
-0 151 -1 0
 0 69 0 1
 0 70 -1 0
+0 102 -1 0
+0 151 -1 0
 4
 end_operator
 begin_operator
@@ -20231,130 +20231,130 @@ additionofrohacrossvicdisubstitutedalkene_2 c033 c032
 1
 197 0
 4
-0 98 -1 0
-0 138 -1 0
 0 69 0 1
 0 70 -1 0
+0 98 -1 0
+0 138 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_2 c033 c034
 0
 4
-0 98 -1 0
-0 133 -1 0
 0 69 0 1
 0 70 -1 0
+0 98 -1 0
+0 133 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_2 c033 c038
 0
 4
-0 98 -1 0
-0 132 -1 0
 0 69 0 1
 0 70 -1 0
+0 98 -1 0
+0 132 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_2 c034 c033
 0
 4
-0 79 -1 0
-0 151 -1 0
 0 69 0 1
 0 70 -1 0
+0 79 -1 0
+0 151 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_2 c034 c035
 0
 4
-0 79 -1 0
-0 128 -1 0
 0 69 0 1
 0 70 -1 0
+0 79 -1 0
+0 128 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_2 c035 c034
 0
 4
-0 80 -1 0
-0 133 -1 0
 0 69 0 1
 0 70 -1 0
+0 80 -1 0
+0 133 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_2 c035 c036
 0
 4
-0 80 -1 0
-0 129 -1 0
 0 69 0 1
 0 70 -1 0
+0 80 -1 0
+0 129 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_2 c036 c035
 0
 4
-0 81 -1 0
-0 128 -1 0
 0 69 0 1
 0 70 -1 0
+0 81 -1 0
+0 128 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_2 c036 c037
 0
 4
-0 81 -1 0
-0 137 -1 0
 0 69 0 1
 0 70 -1 0
+0 81 -1 0
+0 137 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_2 c037 c036
 0
 4
-0 82 -1 0
-0 129 -1 0
 0 69 0 1
 0 70 -1 0
+0 82 -1 0
+0 129 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_2 c037 c038
 0
 4
-0 82 -1 0
-0 132 -1 0
 0 69 0 1
 0 70 -1 0
+0 82 -1 0
+0 132 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_2 c038 c033
 0
 4
-0 85 -1 0
-0 151 -1 0
 0 69 0 1
 0 70 -1 0
+0 85 -1 0
+0 151 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_2 c038 c037
 0
 4
-0 85 -1 0
-0 137 -1 0
 0 69 0 1
 0 70 -1 0
+0 85 -1 0
+0 137 -1 0
 4
 end_operator
 begin_operator
@@ -20363,9 +20363,9 @@ additionofrohacrossvicdisubstitutedalkene_3 c032 c033
 197 0
 4
 0 15 -1 0
-0 141 -1 0
 0 70 0 1
 0 71 -1 0
+0 141 -1 0
 4
 end_operator
 begin_operator
@@ -20374,9 +20374,9 @@ additionofrohacrossvicdisubstitutedalkene_3 c033 c032
 198 0
 4
 0 17 -1 0
-0 148 -1 0
 0 70 0 1
 0 71 -1 0
+0 148 -1 0
 4
 end_operator
 begin_operator
@@ -20384,9 +20384,9 @@ additionofrohacrossvicdisubstitutedalkene_3 c033 c034
 0
 4
 0 17 -1 0
-0 127 -1 0
 0 70 0 1
 0 71 -1 0
+0 127 -1 0
 4
 end_operator
 begin_operator
@@ -20394,9 +20394,9 @@ additionofrohacrossvicdisubstitutedalkene_3 c033 c038
 0
 4
 0 17 -1 0
-0 131 -1 0
 0 70 0 1
 0 71 -1 0
+0 131 -1 0
 4
 end_operator
 begin_operator
@@ -20404,9 +20404,9 @@ additionofrohacrossvicdisubstitutedalkene_3 c034 c033
 0
 4
 0 22 -1 0
-0 141 -1 0
 0 70 0 1
 0 71 -1 0
+0 141 -1 0
 4
 end_operator
 begin_operator
@@ -20414,9 +20414,9 @@ additionofrohacrossvicdisubstitutedalkene_3 c034 c035
 0
 4
 0 22 -1 0
-0 134 -1 0
 0 70 0 1
 0 71 -1 0
+0 134 -1 0
 4
 end_operator
 begin_operator
@@ -20424,9 +20424,9 @@ additionofrohacrossvicdisubstitutedalkene_3 c035 c034
 0
 4
 0 16 -1 0
-0 127 -1 0
 0 70 0 1
 0 71 -1 0
+0 127 -1 0
 4
 end_operator
 begin_operator
@@ -20434,9 +20434,9 @@ additionofrohacrossvicdisubstitutedalkene_3 c035 c036
 0
 4
 0 16 -1 0
-0 136 -1 0
 0 70 0 1
 0 71 -1 0
+0 136 -1 0
 4
 end_operator
 begin_operator
@@ -20444,9 +20444,9 @@ additionofrohacrossvicdisubstitutedalkene_3 c036 c035
 0
 4
 0 20 -1 0
-0 134 -1 0
 0 70 0 1
 0 71 -1 0
+0 134 -1 0
 4
 end_operator
 begin_operator
@@ -20454,9 +20454,9 @@ additionofrohacrossvicdisubstitutedalkene_3 c036 c037
 0
 4
 0 20 -1 0
-0 130 -1 0
 0 70 0 1
 0 71 -1 0
+0 130 -1 0
 4
 end_operator
 begin_operator
@@ -20464,9 +20464,9 @@ additionofrohacrossvicdisubstitutedalkene_3 c037 c036
 0
 4
 0 23 -1 0
-0 136 -1 0
 0 70 0 1
 0 71 -1 0
+0 136 -1 0
 4
 end_operator
 begin_operator
@@ -20474,9 +20474,9 @@ additionofrohacrossvicdisubstitutedalkene_3 c037 c038
 0
 4
 0 23 -1 0
-0 131 -1 0
 0 70 0 1
 0 71 -1 0
+0 131 -1 0
 4
 end_operator
 begin_operator
@@ -20484,9 +20484,9 @@ additionofrohacrossvicdisubstitutedalkene_3 c038 c033
 0
 4
 0 24 -1 0
-0 141 -1 0
 0 70 0 1
 0 71 -1 0
+0 141 -1 0
 4
 end_operator
 begin_operator
@@ -20494,9 +20494,9 @@ additionofrohacrossvicdisubstitutedalkene_3 c038 c037
 0
 4
 0 24 -1 0
-0 130 -1 0
 0 70 0 1
 0 71 -1 0
+0 130 -1 0
 4
 end_operator
 begin_operator
@@ -20505,9 +20505,9 @@ additionofrohacrossvicdisubstitutedalkene_4 c016 h061
 9 0
 30 0
 3
-0 170 -1 0
 0 71 0 1
 0 84 -1 0
+0 170 -1 0
 4
 end_operator
 begin_operator
@@ -20515,9 +20515,9 @@ additionofrohacrossvicdisubstitutedalkene_4 c016 h106
 1
 9 0
 3
-0 171 -1 0
 0 71 0 1
 0 84 -1 0
+0 171 -1 0
 4
 end_operator
 begin_operator
@@ -20525,9 +20525,9 @@ additionofrohacrossvicdisubstitutedalkene_4 c016 h107
 1
 9 0
 3
-0 173 -1 0
 0 71 0 1
 0 84 -1 0
+0 173 -1 0
 4
 end_operator
 begin_operator
@@ -20535,9 +20535,9 @@ additionofrohacrossvicdisubstitutedalkene_4 c016 h108
 1
 9 0
 3
-0 175 -1 0
 0 71 0 1
 0 84 -1 0
+0 175 -1 0
 4
 end_operator
 begin_operator
@@ -20546,9 +20546,9 @@ additionofrohacrossvicdisubstitutedalkene_4 c032 h061
 15 0
 195 0
 3
-0 170 -1 0
 0 71 0 1
 0 84 -1 0
+0 170 -1 0
 4
 end_operator
 begin_operator
@@ -20556,9 +20556,9 @@ additionofrohacrossvicdisubstitutedalkene_4 c032 h133
 1
 15 0
 3
-0 176 -1 0
 0 71 0 1
 0 84 -1 0
+0 176 -1 0
 4
 end_operator
 begin_operator
@@ -20566,9 +20566,9 @@ additionofrohacrossvicdisubstitutedalkene_4 c032 h134
 1
 15 0
 3
-0 178 -1 0
 0 71 0 1
 0 84 -1 0
+0 178 -1 0
 4
 end_operator
 begin_operator
@@ -20577,9 +20577,9 @@ additionofrohacrossvicdisubstitutedalkene_4 c033 h061
 17 0
 32 0
 3
-0 170 -1 0
 0 71 0 1
 0 84 -1 0
+0 170 -1 0
 4
 end_operator
 begin_operator
@@ -20588,9 +20588,9 @@ additionofrohacrossvicdisubstitutedalkene_4 c034 h061
 22 0
 34 0
 3
-0 170 -1 0
 0 71 0 1
 0 84 -1 0
+0 170 -1 0
 4
 end_operator
 begin_operator
@@ -20598,9 +20598,9 @@ additionofrohacrossvicdisubstitutedalkene_4 c034 h135
 1
 22 0
 3
-0 180 -1 0
 0 71 0 1
 0 84 -1 0
+0 180 -1 0
 4
 end_operator
 begin_operator
@@ -20608,9 +20608,9 @@ additionofrohacrossvicdisubstitutedalkene_4 c034 h136
 1
 22 0
 3
-0 160 -1 0
 0 71 0 1
 0 84 -1 0
+0 160 -1 0
 4
 end_operator
 begin_operator
@@ -20619,9 +20619,9 @@ additionofrohacrossvicdisubstitutedalkene_4 c035 h061
 16 0
 38 0
 3
-0 170 -1 0
 0 71 0 1
 0 84 -1 0
+0 170 -1 0
 4
 end_operator
 begin_operator
@@ -20629,9 +20629,9 @@ additionofrohacrossvicdisubstitutedalkene_4 c035 h137
 1
 16 0
 3
-0 161 -1 0
 0 71 0 1
 0 84 -1 0
+0 161 -1 0
 4
 end_operator
 begin_operator
@@ -20639,9 +20639,9 @@ additionofrohacrossvicdisubstitutedalkene_4 c035 h138
 1
 16 0
 3
-0 182 -1 0
 0 71 0 1
 0 84 -1 0
+0 182 -1 0
 4
 end_operator
 begin_operator
@@ -20650,9 +20650,9 @@ additionofrohacrossvicdisubstitutedalkene_4 c036 h061
 20 0
 40 0
 3
-0 170 -1 0
 0 71 0 1
 0 84 -1 0
+0 170 -1 0
 4
 end_operator
 begin_operator
@@ -20660,9 +20660,9 @@ additionofrohacrossvicdisubstitutedalkene_4 c036 h139
 1
 20 0
 3
-0 163 -1 0
 0 71 0 1
 0 84 -1 0
+0 163 -1 0
 4
 end_operator
 begin_operator
@@ -20670,9 +20670,9 @@ additionofrohacrossvicdisubstitutedalkene_4 c036 h140
 1
 20 0
 3
-0 164 -1 0
 0 71 0 1
 0 84 -1 0
+0 164 -1 0
 4
 end_operator
 begin_operator
@@ -20681,9 +20681,9 @@ additionofrohacrossvicdisubstitutedalkene_4 c037 h061
 23 0
 44 0
 3
-0 170 -1 0
 0 71 0 1
 0 84 -1 0
+0 170 -1 0
 4
 end_operator
 begin_operator
@@ -20691,9 +20691,9 @@ additionofrohacrossvicdisubstitutedalkene_4 c037 h141
 1
 23 0
 3
-0 185 -1 0
 0 71 0 1
 0 84 -1 0
+0 185 -1 0
 4
 end_operator
 begin_operator
@@ -20701,9 +20701,9 @@ additionofrohacrossvicdisubstitutedalkene_4 c037 h142
 1
 23 0
 3
-0 166 -1 0
 0 71 0 1
 0 84 -1 0
+0 166 -1 0
 4
 end_operator
 begin_operator
@@ -20712,9 +20712,9 @@ additionofrohacrossvicdisubstitutedalkene_4 c038 h061
 24 0
 36 0
 3
-0 170 -1 0
 0 71 0 1
 0 84 -1 0
+0 170 -1 0
 4
 end_operator
 begin_operator
@@ -20722,9 +20722,9 @@ additionofrohacrossvicdisubstitutedalkene_4 c038 h143
 1
 24 0
 3
-0 188 -1 0
 0 71 0 1
 0 84 -1 0
+0 188 -1 0
 4
 end_operator
 begin_operator
@@ -20732,20 +20732,20 @@ additionofrohacrossvicdisubstitutedalkene_4 c038 h144
 1
 24 0
 3
-0 168 -1 0
 0 71 0 1
 0 84 -1 0
+0 168 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_5 c016 h061
 2
-78 0
 30 0
+78 0
 3
-0 191 -1 0
 0 84 0 1
 0 187 -1 0
+0 191 -1 0
 4
 end_operator
 begin_operator
@@ -20753,8 +20753,8 @@ additionofrohacrossvicdisubstitutedalkene_5 c016 h106
 1
 78 0
 3
-0 154 -1 0
 0 84 0 1
+0 154 -1 0
 0 187 -1 0
 4
 end_operator
@@ -20763,8 +20763,8 @@ additionofrohacrossvicdisubstitutedalkene_5 c016 h107
 1
 78 0
 3
-0 155 -1 0
 0 84 0 1
+0 155 -1 0
 0 187 -1 0
 4
 end_operator
@@ -20773,8 +20773,8 @@ additionofrohacrossvicdisubstitutedalkene_5 c016 h108
 1
 78 0
 3
-0 156 -1 0
 0 84 0 1
+0 156 -1 0
 0 187 -1 0
 4
 end_operator
@@ -20784,9 +20784,9 @@ additionofrohacrossvicdisubstitutedalkene_5 c032 h061
 102 0
 195 0
 3
-0 191 -1 0
 0 84 0 1
 0 187 -1 0
+0 191 -1 0
 4
 end_operator
 begin_operator
@@ -20794,8 +20794,8 @@ additionofrohacrossvicdisubstitutedalkene_5 c032 h133
 1
 102 0
 3
-0 157 -1 0
 0 84 0 1
+0 157 -1 0
 0 187 -1 0
 4
 end_operator
@@ -20804,31 +20804,31 @@ additionofrohacrossvicdisubstitutedalkene_5 c032 h134
 1
 102 0
 3
-0 158 -1 0
 0 84 0 1
+0 158 -1 0
 0 187 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_5 c033 h061
 2
-98 0
 32 0
+98 0
 3
-0 191 -1 0
 0 84 0 1
 0 187 -1 0
+0 191 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_5 c034 h061
 2
-79 0
 34 0
+79 0
 3
-0 191 -1 0
 0 84 0 1
 0 187 -1 0
+0 191 -1 0
 4
 end_operator
 begin_operator
@@ -20836,8 +20836,8 @@ additionofrohacrossvicdisubstitutedalkene_5 c034 h135
 1
 79 0
 3
-0 159 -1 0
 0 84 0 1
+0 159 -1 0
 0 187 -1 0
 4
 end_operator
@@ -20846,20 +20846,20 @@ additionofrohacrossvicdisubstitutedalkene_5 c034 h136
 1
 79 0
 3
-0 172 -1 0
 0 84 0 1
+0 172 -1 0
 0 187 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_5 c035 h061
 2
-80 0
 38 0
+80 0
 3
-0 191 -1 0
 0 84 0 1
 0 187 -1 0
+0 191 -1 0
 4
 end_operator
 begin_operator
@@ -20867,8 +20867,8 @@ additionofrohacrossvicdisubstitutedalkene_5 c035 h137
 1
 80 0
 3
-0 174 -1 0
 0 84 0 1
+0 174 -1 0
 0 187 -1 0
 4
 end_operator
@@ -20877,20 +20877,20 @@ additionofrohacrossvicdisubstitutedalkene_5 c035 h138
 1
 80 0
 3
-0 162 -1 0
 0 84 0 1
+0 162 -1 0
 0 187 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_5 c036 h061
 2
-81 0
 40 0
+81 0
 3
-0 191 -1 0
 0 84 0 1
 0 187 -1 0
+0 191 -1 0
 4
 end_operator
 begin_operator
@@ -20898,8 +20898,8 @@ additionofrohacrossvicdisubstitutedalkene_5 c036 h139
 1
 81 0
 3
-0 177 -1 0
 0 84 0 1
+0 177 -1 0
 0 187 -1 0
 4
 end_operator
@@ -20908,20 +20908,20 @@ additionofrohacrossvicdisubstitutedalkene_5 c036 h140
 1
 81 0
 3
-0 179 -1 0
 0 84 0 1
+0 179 -1 0
 0 187 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_5 c037 h061
 2
-82 0
 44 0
+82 0
 3
-0 191 -1 0
 0 84 0 1
 0 187 -1 0
+0 191 -1 0
 4
 end_operator
 begin_operator
@@ -20929,8 +20929,8 @@ additionofrohacrossvicdisubstitutedalkene_5 c037 h141
 1
 82 0
 3
-0 165 -1 0
 0 84 0 1
+0 165 -1 0
 0 187 -1 0
 4
 end_operator
@@ -20939,20 +20939,20 @@ additionofrohacrossvicdisubstitutedalkene_5 c037 h142
 1
 82 0
 3
-0 183 -1 0
 0 84 0 1
+0 183 -1 0
 0 187 -1 0
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_5 c038 h061
 2
-85 0
 36 0
+85 0
 3
-0 191 -1 0
 0 84 0 1
 0 187 -1 0
+0 191 -1 0
 4
 end_operator
 begin_operator
@@ -20960,8 +20960,8 @@ additionofrohacrossvicdisubstitutedalkene_5 c038 h143
 1
 85 0
 3
-0 167 -1 0
 0 84 0 1
+0 167 -1 0
 0 187 -1 0
 4
 end_operator
@@ -20970,8 +20970,8 @@ additionofrohacrossvicdisubstitutedalkene_5 c038 h144
 1
 85 0
 3
-0 169 -1 0
 0 84 0 1
+0 169 -1 0
 0 187 -1 0
 4
 end_operator
@@ -20979,8 +20979,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h061 h106
 0
 4
-0 170 0 1
 0 154 0 1
+0 170 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -20989,8 +20989,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h061 h107
 0
 4
-0 170 0 1
 0 155 0 1
+0 170 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -20999,8 +20999,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h061 h108
 0
 4
-0 170 0 1
 0 156 0 1
+0 170 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21009,8 +21009,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h061 h133
 0
 4
-0 170 0 1
 0 157 0 1
+0 170 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21019,8 +21019,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h061 h134
 0
 4
-0 170 0 1
 0 158 0 1
+0 170 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21029,8 +21029,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h061 h135
 0
 4
-0 170 0 1
 0 159 0 1
+0 170 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21059,8 +21059,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h061 h138
 0
 4
-0 170 0 1
 0 162 0 1
+0 170 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21089,8 +21089,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h061 h141
 0
 4
-0 170 0 1
 0 165 0 1
+0 170 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21109,8 +21109,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h061 h143
 0
 4
-0 170 0 1
 0 167 0 1
+0 170 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21119,8 +21119,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h061 h144
 0
 4
-0 170 0 1
 0 169 0 1
+0 170 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21130,17 +21130,17 @@ additionofrohacrossvicdisubstitutedalkene_6 h106 h061
 0
 4
 0 171 0 1
-0 191 0 1
 0 187 0 1
 0 190 -1 0
+0 191 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h106 h107
 0
 4
-0 171 0 1
 0 155 0 1
+0 171 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21149,8 +21149,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h106 h108
 0
 4
-0 171 0 1
 0 156 0 1
+0 171 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21159,8 +21159,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h106 h133
 0
 4
-0 171 0 1
 0 157 0 1
+0 171 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21169,8 +21169,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h106 h134
 0
 4
-0 171 0 1
 0 158 0 1
+0 171 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21179,8 +21179,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h106 h135
 0
 4
-0 171 0 1
 0 159 0 1
+0 171 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21209,8 +21209,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h106 h138
 0
 4
-0 171 0 1
 0 162 0 1
+0 171 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21239,8 +21239,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h106 h141
 0
 4
-0 171 0 1
 0 165 0 1
+0 171 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21259,8 +21259,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h106 h143
 0
 4
-0 171 0 1
 0 167 0 1
+0 171 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21269,8 +21269,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h106 h144
 0
 4
-0 171 0 1
 0 169 0 1
+0 171 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21280,17 +21280,17 @@ additionofrohacrossvicdisubstitutedalkene_6 h107 h061
 0
 4
 0 173 0 1
-0 191 0 1
 0 187 0 1
 0 190 -1 0
+0 191 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h107 h106
 0
 4
-0 173 0 1
 0 154 0 1
+0 173 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21299,8 +21299,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h107 h108
 0
 4
-0 173 0 1
 0 156 0 1
+0 173 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21309,8 +21309,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h107 h133
 0
 4
-0 173 0 1
 0 157 0 1
+0 173 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21319,8 +21319,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h107 h134
 0
 4
-0 173 0 1
 0 158 0 1
+0 173 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21329,8 +21329,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h107 h135
 0
 4
-0 173 0 1
 0 159 0 1
+0 173 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21339,8 +21339,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h107 h136
 0
 4
-0 173 0 1
 0 172 0 1
+0 173 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21359,8 +21359,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h107 h138
 0
 4
-0 173 0 1
 0 162 0 1
+0 173 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21389,8 +21389,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h107 h141
 0
 4
-0 173 0 1
 0 165 0 1
+0 173 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21409,8 +21409,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h107 h143
 0
 4
-0 173 0 1
 0 167 0 1
+0 173 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21419,8 +21419,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h107 h144
 0
 4
-0 173 0 1
 0 169 0 1
+0 173 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21430,17 +21430,17 @@ additionofrohacrossvicdisubstitutedalkene_6 h108 h061
 0
 4
 0 175 0 1
-0 191 0 1
 0 187 0 1
 0 190 -1 0
+0 191 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h108 h106
 0
 4
-0 175 0 1
 0 154 0 1
+0 175 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21449,8 +21449,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h108 h107
 0
 4
-0 175 0 1
 0 155 0 1
+0 175 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21459,8 +21459,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h108 h133
 0
 4
-0 175 0 1
 0 157 0 1
+0 175 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21469,8 +21469,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h108 h134
 0
 4
-0 175 0 1
 0 158 0 1
+0 175 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21479,8 +21479,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h108 h135
 0
 4
-0 175 0 1
 0 159 0 1
+0 175 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21489,8 +21489,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h108 h136
 0
 4
-0 175 0 1
 0 172 0 1
+0 175 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21499,8 +21499,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h108 h137
 0
 4
-0 175 0 1
 0 174 0 1
+0 175 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21509,8 +21509,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h108 h138
 0
 4
-0 175 0 1
 0 162 0 1
+0 175 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21539,8 +21539,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h108 h141
 0
 4
-0 175 0 1
 0 165 0 1
+0 175 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21559,8 +21559,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h108 h143
 0
 4
-0 175 0 1
 0 167 0 1
+0 175 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21569,8 +21569,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h108 h144
 0
 4
-0 175 0 1
 0 169 0 1
+0 175 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21580,17 +21580,17 @@ additionofrohacrossvicdisubstitutedalkene_6 h133 h061
 0
 4
 0 176 0 1
-0 191 0 1
 0 187 0 1
 0 190 -1 0
+0 191 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h133 h106
 0
 4
-0 176 0 1
 0 154 0 1
+0 176 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21599,8 +21599,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h133 h107
 0
 4
-0 176 0 1
 0 155 0 1
+0 176 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21609,8 +21609,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h133 h108
 0
 4
-0 176 0 1
 0 156 0 1
+0 176 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21619,8 +21619,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h133 h134
 0
 4
-0 176 0 1
 0 158 0 1
+0 176 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21629,8 +21629,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h133 h135
 0
 4
-0 176 0 1
 0 159 0 1
+0 176 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21639,8 +21639,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h133 h136
 0
 4
-0 176 0 1
 0 172 0 1
+0 176 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21649,8 +21649,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h133 h137
 0
 4
-0 176 0 1
 0 174 0 1
+0 176 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21659,8 +21659,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h133 h138
 0
 4
-0 176 0 1
 0 162 0 1
+0 176 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21689,8 +21689,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h133 h141
 0
 4
-0 176 0 1
 0 165 0 1
+0 176 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21709,8 +21709,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h133 h143
 0
 4
-0 176 0 1
 0 167 0 1
+0 176 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21719,8 +21719,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h133 h144
 0
 4
-0 176 0 1
 0 169 0 1
+0 176 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21730,17 +21730,17 @@ additionofrohacrossvicdisubstitutedalkene_6 h134 h061
 0
 4
 0 178 0 1
-0 191 0 1
 0 187 0 1
 0 190 -1 0
+0 191 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h134 h106
 0
 4
-0 178 0 1
 0 154 0 1
+0 178 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21749,8 +21749,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h134 h107
 0
 4
-0 178 0 1
 0 155 0 1
+0 178 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21759,8 +21759,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h134 h108
 0
 4
-0 178 0 1
 0 156 0 1
+0 178 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21769,8 +21769,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h134 h133
 0
 4
-0 178 0 1
 0 157 0 1
+0 178 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21779,8 +21779,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h134 h135
 0
 4
-0 178 0 1
 0 159 0 1
+0 178 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21789,8 +21789,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h134 h136
 0
 4
-0 178 0 1
 0 172 0 1
+0 178 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21799,8 +21799,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h134 h137
 0
 4
-0 178 0 1
 0 174 0 1
+0 178 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21809,8 +21809,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h134 h138
 0
 4
-0 178 0 1
 0 162 0 1
+0 178 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21819,8 +21819,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h134 h139
 0
 4
-0 178 0 1
 0 177 0 1
+0 178 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21839,8 +21839,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h134 h141
 0
 4
-0 178 0 1
 0 165 0 1
+0 178 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21859,8 +21859,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h134 h143
 0
 4
-0 178 0 1
 0 167 0 1
+0 178 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21869,8 +21869,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h134 h144
 0
 4
-0 178 0 1
 0 169 0 1
+0 178 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21880,17 +21880,17 @@ additionofrohacrossvicdisubstitutedalkene_6 h135 h061
 0
 4
 0 180 0 1
-0 191 0 1
 0 187 0 1
 0 190 -1 0
+0 191 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h135 h106
 0
 4
-0 180 0 1
 0 154 0 1
+0 180 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21899,8 +21899,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h135 h107
 0
 4
-0 180 0 1
 0 155 0 1
+0 180 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21909,8 +21909,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h135 h108
 0
 4
-0 180 0 1
 0 156 0 1
+0 180 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21919,8 +21919,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h135 h133
 0
 4
-0 180 0 1
 0 157 0 1
+0 180 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21929,8 +21929,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h135 h134
 0
 4
-0 180 0 1
 0 158 0 1
+0 180 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21939,8 +21939,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h135 h136
 0
 4
-0 180 0 1
 0 172 0 1
+0 180 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21949,8 +21949,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h135 h137
 0
 4
-0 180 0 1
 0 174 0 1
+0 180 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21959,8 +21959,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h135 h138
 0
 4
-0 180 0 1
 0 162 0 1
+0 180 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21969,8 +21969,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h135 h139
 0
 4
-0 180 0 1
 0 177 0 1
+0 180 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21979,8 +21979,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h135 h140
 0
 4
-0 180 0 1
 0 179 0 1
+0 180 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -21989,8 +21989,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h135 h141
 0
 4
-0 180 0 1
 0 165 0 1
+0 180 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22009,8 +22009,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h135 h143
 0
 4
-0 180 0 1
 0 167 0 1
+0 180 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22019,8 +22019,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h135 h144
 0
 4
-0 180 0 1
 0 169 0 1
+0 180 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22030,17 +22030,17 @@ additionofrohacrossvicdisubstitutedalkene_6 h136 h061
 0
 4
 0 160 0 1
-0 191 0 1
 0 187 0 1
 0 190 -1 0
+0 191 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h136 h106
 0
 4
-0 160 0 1
 0 154 0 1
+0 160 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22049,8 +22049,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h136 h107
 0
 4
-0 160 0 1
 0 155 0 1
+0 160 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22059,8 +22059,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h136 h108
 0
 4
-0 160 0 1
 0 156 0 1
+0 160 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22069,8 +22069,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h136 h133
 0
 4
-0 160 0 1
 0 157 0 1
+0 160 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22079,8 +22079,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h136 h134
 0
 4
-0 160 0 1
 0 158 0 1
+0 160 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22089,8 +22089,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h136 h135
 0
 4
-0 160 0 1
 0 159 0 1
+0 160 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22180,17 +22180,17 @@ additionofrohacrossvicdisubstitutedalkene_6 h137 h061
 0
 4
 0 161 0 1
-0 191 0 1
 0 187 0 1
 0 190 -1 0
+0 191 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h137 h106
 0
 4
-0 161 0 1
 0 154 0 1
+0 161 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22199,8 +22199,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h137 h107
 0
 4
-0 161 0 1
 0 155 0 1
+0 161 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22209,8 +22209,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h137 h108
 0
 4
-0 161 0 1
 0 156 0 1
+0 161 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22219,8 +22219,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h137 h133
 0
 4
-0 161 0 1
 0 157 0 1
+0 161 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22229,8 +22229,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h137 h134
 0
 4
-0 161 0 1
 0 158 0 1
+0 161 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22239,8 +22239,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h137 h135
 0
 4
-0 161 0 1
 0 159 0 1
+0 161 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22330,17 +22330,17 @@ additionofrohacrossvicdisubstitutedalkene_6 h138 h061
 0
 4
 0 182 0 1
-0 191 0 1
 0 187 0 1
 0 190 -1 0
+0 191 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h138 h106
 0
 4
-0 182 0 1
 0 154 0 1
+0 182 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22349,8 +22349,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h138 h107
 0
 4
-0 182 0 1
 0 155 0 1
+0 182 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22359,8 +22359,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h138 h108
 0
 4
-0 182 0 1
 0 156 0 1
+0 182 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22369,8 +22369,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h138 h133
 0
 4
-0 182 0 1
 0 157 0 1
+0 182 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22379,8 +22379,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h138 h134
 0
 4
-0 182 0 1
 0 158 0 1
+0 182 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22389,8 +22389,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h138 h135
 0
 4
-0 182 0 1
 0 159 0 1
+0 182 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22399,8 +22399,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h138 h136
 0
 4
-0 182 0 1
 0 172 0 1
+0 182 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22409,8 +22409,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h138 h137
 0
 4
-0 182 0 1
 0 174 0 1
+0 182 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22419,8 +22419,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h138 h139
 0
 4
-0 182 0 1
 0 177 0 1
+0 182 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22429,8 +22429,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h138 h140
 0
 4
-0 182 0 1
 0 179 0 1
+0 182 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22439,8 +22439,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h138 h141
 0
 4
-0 182 0 1
 0 165 0 1
+0 182 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22459,8 +22459,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h138 h143
 0
 4
-0 182 0 1
 0 167 0 1
+0 182 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22469,8 +22469,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h138 h144
 0
 4
-0 182 0 1
 0 169 0 1
+0 182 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22480,17 +22480,17 @@ additionofrohacrossvicdisubstitutedalkene_6 h139 h061
 0
 4
 0 163 0 1
-0 191 0 1
 0 187 0 1
 0 190 -1 0
+0 191 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h139 h106
 0
 4
-0 163 0 1
 0 154 0 1
+0 163 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22499,8 +22499,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h139 h107
 0
 4
-0 163 0 1
 0 155 0 1
+0 163 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22509,8 +22509,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h139 h108
 0
 4
-0 163 0 1
 0 156 0 1
+0 163 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22519,8 +22519,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h139 h133
 0
 4
-0 163 0 1
 0 157 0 1
+0 163 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22529,8 +22529,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h139 h134
 0
 4
-0 163 0 1
 0 158 0 1
+0 163 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22539,8 +22539,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h139 h135
 0
 4
-0 163 0 1
 0 159 0 1
+0 163 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22569,8 +22569,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h139 h138
 0
 4
-0 163 0 1
 0 162 0 1
+0 163 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22630,17 +22630,17 @@ additionofrohacrossvicdisubstitutedalkene_6 h140 h061
 0
 4
 0 164 0 1
-0 191 0 1
 0 187 0 1
 0 190 -1 0
+0 191 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h140 h106
 0
 4
-0 164 0 1
 0 154 0 1
+0 164 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22649,8 +22649,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h140 h107
 0
 4
-0 164 0 1
 0 155 0 1
+0 164 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22659,8 +22659,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h140 h108
 0
 4
-0 164 0 1
 0 156 0 1
+0 164 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22669,8 +22669,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h140 h133
 0
 4
-0 164 0 1
 0 157 0 1
+0 164 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22679,8 +22679,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h140 h134
 0
 4
-0 164 0 1
 0 158 0 1
+0 164 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22689,8 +22689,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h140 h135
 0
 4
-0 164 0 1
 0 159 0 1
+0 164 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22719,8 +22719,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h140 h138
 0
 4
-0 164 0 1
 0 162 0 1
+0 164 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22780,17 +22780,17 @@ additionofrohacrossvicdisubstitutedalkene_6 h141 h061
 0
 4
 0 185 0 1
-0 191 0 1
 0 187 0 1
 0 190 -1 0
+0 191 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h141 h106
 0
 4
-0 185 0 1
 0 154 0 1
+0 185 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22799,8 +22799,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h141 h107
 0
 4
-0 185 0 1
 0 155 0 1
+0 185 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22809,8 +22809,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h141 h108
 0
 4
-0 185 0 1
 0 156 0 1
+0 185 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22819,8 +22819,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h141 h133
 0
 4
-0 185 0 1
 0 157 0 1
+0 185 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22829,8 +22829,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h141 h134
 0
 4
-0 185 0 1
 0 158 0 1
+0 185 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22839,8 +22839,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h141 h135
 0
 4
-0 185 0 1
 0 159 0 1
+0 185 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22849,8 +22849,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h141 h136
 0
 4
-0 185 0 1
 0 172 0 1
+0 185 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22859,8 +22859,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h141 h137
 0
 4
-0 185 0 1
 0 174 0 1
+0 185 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22869,8 +22869,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h141 h138
 0
 4
-0 185 0 1
 0 162 0 1
+0 185 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22879,8 +22879,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h141 h139
 0
 4
-0 185 0 1
 0 177 0 1
+0 185 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22889,8 +22889,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h141 h140
 0
 4
-0 185 0 1
 0 179 0 1
+0 185 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22899,8 +22899,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h141 h142
 0
 4
-0 185 0 1
 0 183 0 1
+0 185 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22909,8 +22909,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h141 h143
 0
 4
-0 185 0 1
 0 167 0 1
+0 185 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22919,8 +22919,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h141 h144
 0
 4
-0 185 0 1
 0 169 0 1
+0 185 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22930,17 +22930,17 @@ additionofrohacrossvicdisubstitutedalkene_6 h142 h061
 0
 4
 0 166 0 1
-0 191 0 1
 0 187 0 1
 0 190 -1 0
+0 191 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h142 h106
 0
 4
-0 166 0 1
 0 154 0 1
+0 166 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22949,8 +22949,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h142 h107
 0
 4
-0 166 0 1
 0 155 0 1
+0 166 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22959,8 +22959,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h142 h108
 0
 4
-0 166 0 1
 0 156 0 1
+0 166 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22969,8 +22969,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h142 h133
 0
 4
-0 166 0 1
 0 157 0 1
+0 166 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22979,8 +22979,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h142 h134
 0
 4
-0 166 0 1
 0 158 0 1
+0 166 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -22989,8 +22989,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h142 h135
 0
 4
-0 166 0 1
 0 159 0 1
+0 166 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -23019,8 +23019,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h142 h138
 0
 4
-0 166 0 1
 0 162 0 1
+0 166 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -23049,8 +23049,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h142 h141
 0
 4
-0 166 0 1
 0 165 0 1
+0 166 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -23079,19 +23079,19 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h143 h061
 0
 4
-0 188 0 1
-0 191 0 1
 0 187 0 1
+0 188 0 1
 0 190 -1 0
+0 191 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h143 h106
 0
 4
-0 188 0 1
 0 154 0 1
 0 187 0 1
+0 188 0 1
 0 190 -1 0
 4
 end_operator
@@ -23099,9 +23099,9 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h143 h107
 0
 4
-0 188 0 1
 0 155 0 1
 0 187 0 1
+0 188 0 1
 0 190 -1 0
 4
 end_operator
@@ -23109,9 +23109,9 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h143 h108
 0
 4
-0 188 0 1
 0 156 0 1
 0 187 0 1
+0 188 0 1
 0 190 -1 0
 4
 end_operator
@@ -23119,9 +23119,9 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h143 h133
 0
 4
-0 188 0 1
 0 157 0 1
 0 187 0 1
+0 188 0 1
 0 190 -1 0
 4
 end_operator
@@ -23129,9 +23129,9 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h143 h134
 0
 4
-0 188 0 1
 0 158 0 1
 0 187 0 1
+0 188 0 1
 0 190 -1 0
 4
 end_operator
@@ -23139,9 +23139,9 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h143 h135
 0
 4
-0 188 0 1
 0 159 0 1
 0 187 0 1
+0 188 0 1
 0 190 -1 0
 4
 end_operator
@@ -23149,9 +23149,9 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h143 h136
 0
 4
-0 188 0 1
 0 172 0 1
 0 187 0 1
+0 188 0 1
 0 190 -1 0
 4
 end_operator
@@ -23159,9 +23159,9 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h143 h137
 0
 4
-0 188 0 1
 0 174 0 1
 0 187 0 1
+0 188 0 1
 0 190 -1 0
 4
 end_operator
@@ -23169,9 +23169,9 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h143 h138
 0
 4
-0 188 0 1
 0 162 0 1
 0 187 0 1
+0 188 0 1
 0 190 -1 0
 4
 end_operator
@@ -23179,9 +23179,9 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h143 h139
 0
 4
-0 188 0 1
 0 177 0 1
 0 187 0 1
+0 188 0 1
 0 190 -1 0
 4
 end_operator
@@ -23189,9 +23189,9 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h143 h140
 0
 4
-0 188 0 1
 0 179 0 1
 0 187 0 1
+0 188 0 1
 0 190 -1 0
 4
 end_operator
@@ -23199,9 +23199,9 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h143 h141
 0
 4
-0 188 0 1
 0 165 0 1
 0 187 0 1
+0 188 0 1
 0 190 -1 0
 4
 end_operator
@@ -23209,9 +23209,9 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h143 h142
 0
 4
-0 188 0 1
 0 183 0 1
 0 187 0 1
+0 188 0 1
 0 190 -1 0
 4
 end_operator
@@ -23219,9 +23219,9 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h143 h144
 0
 4
-0 188 0 1
 0 169 0 1
 0 187 0 1
+0 188 0 1
 0 190 -1 0
 4
 end_operator
@@ -23230,17 +23230,17 @@ additionofrohacrossvicdisubstitutedalkene_6 h144 h061
 0
 4
 0 168 0 1
-0 191 0 1
 0 187 0 1
 0 190 -1 0
+0 191 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h144 h106
 0
 4
-0 168 0 1
 0 154 0 1
+0 168 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -23249,8 +23249,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h144 h107
 0
 4
-0 168 0 1
 0 155 0 1
+0 168 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -23259,8 +23259,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h144 h108
 0
 4
-0 168 0 1
 0 156 0 1
+0 168 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -23269,8 +23269,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h144 h133
 0
 4
-0 168 0 1
 0 157 0 1
+0 168 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -23279,8 +23279,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h144 h134
 0
 4
-0 168 0 1
 0 158 0 1
+0 168 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -23289,8 +23289,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h144 h135
 0
 4
-0 168 0 1
 0 159 0 1
+0 168 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -23319,8 +23319,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h144 h138
 0
 4
-0 168 0 1
 0 162 0 1
+0 168 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -23349,8 +23349,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h144 h141
 0
 4
-0 168 0 1
 0 165 0 1
+0 168 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -23369,8 +23369,8 @@ begin_operator
 additionofrohacrossvicdisubstitutedalkene_6 h144 h143
 0
 4
-0 168 0 1
 0 167 0 1
+0 168 0 1
 0 187 0 1
 0 190 -1 0
 4
@@ -23381,118 +23381,118 @@ additionofrohacrossvicdisubstitutedalkene_7 c032 c033
 4
 0 148 0 1
 0 151 0 1
-0 190 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_7 c032 c034
 0
 4
-0 148 0 1
 0 133 0 1
-0 190 0 1
+0 148 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_7 c032 c035
 0
 4
-0 148 0 1
 0 128 0 1
-0 190 0 1
+0 148 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_7 c032 c036
 0
 4
-0 148 0 1
 0 129 0 1
-0 190 0 1
+0 148 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_7 c032 c037
 0
 4
-0 148 0 1
 0 137 0 1
-0 190 0 1
+0 148 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_7 c032 c038
 0
 4
-0 148 0 1
 0 132 0 1
-0 190 0 1
+0 148 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_7 c033 c032
 0
 4
-0 141 0 1
 0 138 0 1
-0 190 0 1
+0 141 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_7 c033 c034
 0
 4
-0 141 0 1
 0 133 0 1
-0 190 0 1
+0 141 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_7 c033 c035
 0
 4
-0 141 0 1
 0 128 0 1
-0 190 0 1
+0 141 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_7 c033 c036
 0
 4
-0 141 0 1
 0 129 0 1
-0 190 0 1
+0 141 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_7 c033 c037
 0
 4
-0 141 0 1
 0 137 0 1
-0 190 0 1
+0 141 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_7 c033 c038
 0
 4
-0 141 0 1
 0 132 0 1
-0 190 0 1
+0 141 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
@@ -23501,8 +23501,8 @@ additionofrohacrossvicdisubstitutedalkene_7 c034 c032
 4
 0 127 0 1
 0 138 0 1
-0 190 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
@@ -23511,8 +23511,8 @@ additionofrohacrossvicdisubstitutedalkene_7 c034 c033
 4
 0 127 0 1
 0 151 0 1
-0 190 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
@@ -23521,8 +23521,8 @@ additionofrohacrossvicdisubstitutedalkene_7 c034 c035
 4
 0 127 0 1
 0 128 0 1
-0 190 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
@@ -23531,8 +23531,8 @@ additionofrohacrossvicdisubstitutedalkene_7 c034 c036
 4
 0 127 0 1
 0 129 0 1
-0 190 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
@@ -23541,8 +23541,8 @@ additionofrohacrossvicdisubstitutedalkene_7 c034 c037
 4
 0 127 0 1
 0 137 0 1
-0 190 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
@@ -23551,8 +23551,8 @@ additionofrohacrossvicdisubstitutedalkene_7 c034 c038
 4
 0 127 0 1
 0 132 0 1
-0 190 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
@@ -23561,8 +23561,8 @@ additionofrohacrossvicdisubstitutedalkene_7 c035 c032
 4
 0 134 0 1
 0 138 0 1
-0 190 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
@@ -23571,28 +23571,28 @@ additionofrohacrossvicdisubstitutedalkene_7 c035 c033
 4
 0 134 0 1
 0 151 0 1
-0 190 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_7 c035 c034
 0
 4
-0 134 0 1
 0 133 0 1
-0 190 0 1
+0 134 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_7 c035 c036
 0
 4
-0 134 0 1
 0 129 0 1
-0 190 0 1
+0 134 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
@@ -23601,18 +23601,18 @@ additionofrohacrossvicdisubstitutedalkene_7 c035 c037
 4
 0 134 0 1
 0 137 0 1
-0 190 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_7 c035 c038
 0
 4
-0 134 0 1
 0 132 0 1
-0 190 0 1
+0 134 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
@@ -23621,8 +23621,8 @@ additionofrohacrossvicdisubstitutedalkene_7 c036 c032
 4
 0 136 0 1
 0 138 0 1
-0 190 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
@@ -23631,28 +23631,28 @@ additionofrohacrossvicdisubstitutedalkene_7 c036 c033
 4
 0 136 0 1
 0 151 0 1
-0 190 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_7 c036 c034
 0
 4
-0 136 0 1
 0 133 0 1
-0 190 0 1
+0 136 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_7 c036 c035
 0
 4
-0 136 0 1
 0 128 0 1
-0 190 0 1
+0 136 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
@@ -23661,18 +23661,18 @@ additionofrohacrossvicdisubstitutedalkene_7 c036 c037
 4
 0 136 0 1
 0 137 0 1
-0 190 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_7 c036 c038
 0
 4
-0 136 0 1
 0 132 0 1
-0 190 0 1
+0 136 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
@@ -23681,8 +23681,8 @@ additionofrohacrossvicdisubstitutedalkene_7 c037 c032
 4
 0 130 0 1
 0 138 0 1
-0 190 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
@@ -23691,8 +23691,8 @@ additionofrohacrossvicdisubstitutedalkene_7 c037 c033
 4
 0 130 0 1
 0 151 0 1
-0 190 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
@@ -23701,28 +23701,28 @@ additionofrohacrossvicdisubstitutedalkene_7 c037 c034
 4
 0 130 0 1
 0 133 0 1
-0 190 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_7 c037 c035
 0
 4
-0 130 0 1
 0 128 0 1
-0 190 0 1
+0 130 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_7 c037 c036
 0
 4
-0 130 0 1
 0 129 0 1
-0 190 0 1
+0 130 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
@@ -23731,8 +23731,8 @@ additionofrohacrossvicdisubstitutedalkene_7 c037 c038
 4
 0 130 0 1
 0 132 0 1
-0 190 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
@@ -23741,8 +23741,8 @@ additionofrohacrossvicdisubstitutedalkene_7 c038 c032
 4
 0 131 0 1
 0 138 0 1
-0 190 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
@@ -23751,8 +23751,8 @@ additionofrohacrossvicdisubstitutedalkene_7 c038 c033
 4
 0 131 0 1
 0 151 0 1
-0 190 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
@@ -23761,28 +23761,28 @@ additionofrohacrossvicdisubstitutedalkene_7 c038 c034
 4
 0 131 0 1
 0 133 0 1
-0 190 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_7 c038 c035
 0
 4
-0 131 0 1
 0 128 0 1
-0 190 0 1
+0 131 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_7 c038 c036
 0
 4
-0 131 0 1
 0 129 0 1
-0 190 0 1
+0 131 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
@@ -23791,8 +23791,8 @@ additionofrohacrossvicdisubstitutedalkene_7 c038 c037
 4
 0 131 0 1
 0 137 0 1
-0 190 0 1
 0 153 -1 0
+0 190 0 1
 4
 end_operator
 begin_operator
@@ -23800,47 +23800,47 @@ additionofrohacrossvicdisubstitutedalkene_8 h061 o066
 1
 103 0
 5
-0 52 -1 0
-0 46 -1 1
-0 28 0 1
-0 153 0 1
 0 14 -1 0
+0 28 0 1
+0 46 -1 1
+0 52 -1 0
+0 153 0 1
 4
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_9 c032 c033
 2
-102 0
 17 0
+102 0
 6
-0 197 -1 0
-0 198 -1 0
-0 50 -1 0
 0 14 0 1
+0 50 -1 0
 0 99 0 1
 0 100 -1 1
+0 197 -1 0
+0 198 -1 0
 3
 end_operator
 begin_operator
 additionofrohacrossvicdisubstitutedalkene_9 c033 c032
 2
-98 0
 15 0
+98 0
 6
-0 197 -1 0
-0 198 -1 0
-0 50 -1 0
 0 14 0 1
+0 50 -1 0
 0 99 -1 1
 0 100 0 1
+0 197 -1 0
+0 198 -1 0
 3
 end_operator
 begin_operator
 etherformationbysulfonatedisplacement_1 o066 c016
 0
 3
-0 111 -1 0
 0 72 -1 0
+0 111 -1 0
 0 199 0 1
 3
 end_operator
@@ -23849,8 +23849,8 @@ etherformationbysulfonatedisplacement_1 o066 c032
 1
 73 0
 3
-0 111 -1 0
 0 72 -1 0
+0 111 -1 0
 0 199 0 1
 3
 end_operator
@@ -23859,8 +23859,8 @@ etherformationbysulfonatedisplacement_1 o066 c033
 1
 194 0
 3
-0 111 -1 0
 0 72 -1 0
+0 111 -1 0
 0 199 0 1
 3
 end_operator
@@ -23869,8 +23869,8 @@ etherformationbysulfonatedisplacement_1 o066 c034
 1
 92 0
 3
-0 111 -1 0
 0 72 -1 0
+0 111 -1 0
 0 199 0 1
 3
 end_operator
@@ -23879,8 +23879,8 @@ etherformationbysulfonatedisplacement_1 o066 c035
 1
 59 0
 3
-0 111 -1 0
 0 72 -1 0
+0 111 -1 0
 0 199 0 1
 3
 end_operator
@@ -23889,8 +23889,8 @@ etherformationbysulfonatedisplacement_1 o066 c036
 1
 60 0
 3
-0 111 -1 0
 0 72 -1 0
+0 111 -1 0
 0 199 0 1
 3
 end_operator
@@ -23899,8 +23899,8 @@ etherformationbysulfonatedisplacement_1 o066 c037
 1
 61 0
 3
-0 111 -1 0
 0 72 -1 0
+0 111 -1 0
 0 199 0 1
 3
 end_operator
@@ -23909,8 +23909,8 @@ etherformationbysulfonatedisplacement_1 o066 c038
 1
 62 0
 3
-0 111 -1 0
 0 72 -1 0
+0 111 -1 0
 0 199 0 1
 3
 end_operator
@@ -23919,8 +23919,8 @@ etherformationbysulfonatedisplacement_2 c016 o066
 0
 4
 0 0 -1 0
-0 103 -1 0
 0 72 0 1
+0 103 -1 0
 0 207 -1 0
 3
 end_operator
@@ -23930,8 +23930,8 @@ etherformationbysulfonatedisplacement_2 c032 o066
 73 0
 4
 0 2 -1 0
-0 103 -1 0
 0 72 0 1
+0 103 -1 0
 0 207 -1 0
 3
 end_operator
@@ -23941,8 +23941,8 @@ etherformationbysulfonatedisplacement_2 c033 o066
 194 0
 4
 0 7 -1 0
-0 103 -1 0
 0 72 0 1
+0 103 -1 0
 0 207 -1 0
 3
 end_operator
@@ -23952,8 +23952,8 @@ etherformationbysulfonatedisplacement_2 c034 o066
 92 0
 4
 0 6 -1 0
-0 103 -1 0
 0 72 0 1
+0 103 -1 0
 0 207 -1 0
 3
 end_operator
@@ -23963,8 +23963,8 @@ etherformationbysulfonatedisplacement_2 c035 o066
 59 0
 4
 0 1 -1 0
-0 103 -1 0
 0 72 0 1
+0 103 -1 0
 0 207 -1 0
 3
 end_operator
@@ -23974,8 +23974,8 @@ etherformationbysulfonatedisplacement_2 c036 o066
 60 0
 4
 0 3 -1 0
-0 103 -1 0
 0 72 0 1
+0 103 -1 0
 0 207 -1 0
 3
 end_operator
@@ -23985,8 +23985,8 @@ etherformationbysulfonatedisplacement_2 c037 o066
 61 0
 4
 0 4 -1 0
-0 103 -1 0
 0 72 0 1
+0 103 -1 0
 0 207 -1 0
 3
 end_operator
@@ -23996,8 +23996,8 @@ etherformationbysulfonatedisplacement_2 c038 o066
 62 0
 4
 0 5 -1 0
-0 103 -1 0
 0 72 0 1
+0 103 -1 0
 0 207 -1 0
 3
 end_operator
@@ -24007,9 +24007,9 @@ etherformationbysulfonatedisplacement_3 c016 h061
 0 0
 30 0
 3
-0 255 -1 0
 0 207 0 1
 0 208 -1 0
+0 255 -1 0
 3
 end_operator
 begin_operator
@@ -24017,9 +24017,9 @@ etherformationbysulfonatedisplacement_3 c016 h106
 1
 0 0
 3
-0 254 -1 0
 0 207 0 1
 0 208 -1 0
+0 254 -1 0
 3
 end_operator
 begin_operator
@@ -24027,9 +24027,9 @@ etherformationbysulfonatedisplacement_3 c016 h107
 1
 0 0
 3
-0 253 -1 0
 0 207 0 1
 0 208 -1 0
+0 253 -1 0
 3
 end_operator
 begin_operator
@@ -24037,9 +24037,9 @@ etherformationbysulfonatedisplacement_3 c016 h108
 1
 0 0
 3
-0 252 -1 0
 0 207 0 1
 0 208 -1 0
+0 252 -1 0
 3
 end_operator
 begin_operator
@@ -24048,9 +24048,9 @@ etherformationbysulfonatedisplacement_3 c032 c033
 2 0
 197 0
 3
-0 239 -1 0
 0 207 0 1
 0 208 -1 0
+0 239 -1 0
 3
 end_operator
 begin_operator
@@ -24059,9 +24059,9 @@ etherformationbysulfonatedisplacement_3 c032 h061
 2 0
 195 0
 3
-0 255 -1 0
 0 207 0 1
 0 208 -1 0
+0 255 -1 0
 3
 end_operator
 begin_operator
@@ -24069,9 +24069,9 @@ etherformationbysulfonatedisplacement_3 c032 h133
 1
 2 0
 3
-0 237 -1 0
 0 207 0 1
 0 208 -1 0
+0 237 -1 0
 3
 end_operator
 begin_operator
@@ -24079,9 +24079,9 @@ etherformationbysulfonatedisplacement_3 c032 h134
 1
 2 0
 3
-0 236 -1 0
 0 207 0 1
 0 208 -1 0
+0 236 -1 0
 3
 end_operator
 begin_operator
@@ -24090,9 +24090,9 @@ etherformationbysulfonatedisplacement_3 c033 c032
 7 0
 198 0
 3
-0 233 -1 0
 0 207 0 1
 0 208 -1 0
+0 233 -1 0
 3
 end_operator
 begin_operator
@@ -24100,9 +24100,9 @@ etherformationbysulfonatedisplacement_3 c033 c034
 1
 7 0
 3
-0 247 -1 0
 0 207 0 1
 0 208 -1 0
+0 247 -1 0
 3
 end_operator
 begin_operator
@@ -24110,9 +24110,9 @@ etherformationbysulfonatedisplacement_3 c033 c038
 1
 7 0
 3
-0 231 -1 0
 0 207 0 1
 0 208 -1 0
+0 231 -1 0
 3
 end_operator
 begin_operator
@@ -24121,9 +24121,9 @@ etherformationbysulfonatedisplacement_3 c033 h061
 7 0
 32 0
 3
-0 255 -1 0
 0 207 0 1
 0 208 -1 0
+0 255 -1 0
 3
 end_operator
 begin_operator
@@ -24131,9 +24131,9 @@ etherformationbysulfonatedisplacement_3 c034 c033
 1
 6 0
 3
-0 239 -1 0
 0 207 0 1
 0 208 -1 0
+0 239 -1 0
 3
 end_operator
 begin_operator
@@ -24141,9 +24141,9 @@ etherformationbysulfonatedisplacement_3 c034 c035
 1
 6 0
 3
-0 229 -1 0
 0 207 0 1
 0 208 -1 0
+0 229 -1 0
 3
 end_operator
 begin_operator
@@ -24152,9 +24152,9 @@ etherformationbysulfonatedisplacement_3 c034 h061
 6 0
 34 0
 3
-0 255 -1 0
 0 207 0 1
 0 208 -1 0
+0 255 -1 0
 3
 end_operator
 begin_operator
@@ -24162,9 +24162,9 @@ etherformationbysulfonatedisplacement_3 c034 h135
 1
 6 0
 3
-0 213 -1 0
 0 207 0 1
 0 208 -1 0
+0 213 -1 0
 3
 end_operator
 begin_operator
@@ -24172,9 +24172,9 @@ etherformationbysulfonatedisplacement_3 c034 h136
 1
 6 0
 3
-0 212 -1 0
 0 207 0 1
 0 208 -1 0
+0 212 -1 0
 3
 end_operator
 begin_operator
@@ -24182,9 +24182,9 @@ etherformationbysulfonatedisplacement_3 c035 c034
 1
 1 0
 3
-0 247 -1 0
 0 207 0 1
 0 208 -1 0
+0 247 -1 0
 3
 end_operator
 begin_operator
@@ -24192,9 +24192,9 @@ etherformationbysulfonatedisplacement_3 c035 c036
 1
 1 0
 3
-0 246 -1 0
 0 207 0 1
 0 208 -1 0
+0 246 -1 0
 3
 end_operator
 begin_operator
@@ -24203,9 +24203,9 @@ etherformationbysulfonatedisplacement_3 c035 h061
 1 0
 38 0
 3
-0 255 -1 0
 0 207 0 1
 0 208 -1 0
+0 255 -1 0
 3
 end_operator
 begin_operator
@@ -24213,9 +24213,9 @@ etherformationbysulfonatedisplacement_3 c035 h137
 1
 1 0
 3
-0 245 -1 0
 0 207 0 1
 0 208 -1 0
+0 245 -1 0
 3
 end_operator
 begin_operator
@@ -24223,9 +24223,9 @@ etherformationbysulfonatedisplacement_3 c035 h138
 1
 1 0
 3
-0 244 -1 0
 0 207 0 1
 0 208 -1 0
+0 244 -1 0
 3
 end_operator
 begin_operator
@@ -24233,9 +24233,9 @@ etherformationbysulfonatedisplacement_3 c036 c035
 1
 3 0
 3
-0 229 -1 0
 0 207 0 1
 0 208 -1 0
+0 229 -1 0
 3
 end_operator
 begin_operator
@@ -24243,9 +24243,9 @@ etherformationbysulfonatedisplacement_3 c036 c037
 1
 3 0
 3
-0 228 -1 0
 0 207 0 1
 0 208 -1 0
+0 228 -1 0
 3
 end_operator
 begin_operator
@@ -24254,9 +24254,9 @@ etherformationbysulfonatedisplacement_3 c036 h061
 3 0
 40 0
 3
-0 255 -1 0
 0 207 0 1
 0 208 -1 0
+0 255 -1 0
 3
 end_operator
 begin_operator
@@ -24264,9 +24264,9 @@ etherformationbysulfonatedisplacement_3 c036 h139
 1
 3 0
 3
-0 227 -1 0
 0 207 0 1
 0 208 -1 0
+0 227 -1 0
 3
 end_operator
 begin_operator
@@ -24274,9 +24274,9 @@ etherformationbysulfonatedisplacement_3 c036 h140
 1
 3 0
 3
-0 226 -1 0
 0 207 0 1
 0 208 -1 0
+0 226 -1 0
 3
 end_operator
 begin_operator
@@ -24284,9 +24284,9 @@ etherformationbysulfonatedisplacement_3 c037 c036
 1
 4 0
 3
-0 246 -1 0
 0 207 0 1
 0 208 -1 0
+0 246 -1 0
 3
 end_operator
 begin_operator
@@ -24294,9 +24294,9 @@ etherformationbysulfonatedisplacement_3 c037 c038
 1
 4 0
 3
-0 231 -1 0
 0 207 0 1
 0 208 -1 0
+0 231 -1 0
 3
 end_operator
 begin_operator
@@ -24305,9 +24305,9 @@ etherformationbysulfonatedisplacement_3 c037 h061
 4 0
 44 0
 3
-0 255 -1 0
 0 207 0 1
 0 208 -1 0
+0 255 -1 0
 3
 end_operator
 begin_operator
@@ -24315,9 +24315,9 @@ etherformationbysulfonatedisplacement_3 c037 h141
 1
 4 0
 3
-0 221 -1 0
 0 207 0 1
 0 208 -1 0
+0 221 -1 0
 3
 end_operator
 begin_operator
@@ -24325,9 +24325,9 @@ etherformationbysulfonatedisplacement_3 c037 h142
 1
 4 0
 3
-0 220 -1 0
 0 207 0 1
 0 208 -1 0
+0 220 -1 0
 3
 end_operator
 begin_operator
@@ -24335,9 +24335,9 @@ etherformationbysulfonatedisplacement_3 c038 c033
 1
 5 0
 3
-0 239 -1 0
 0 207 0 1
 0 208 -1 0
+0 239 -1 0
 3
 end_operator
 begin_operator
@@ -24345,9 +24345,9 @@ etherformationbysulfonatedisplacement_3 c038 c037
 1
 5 0
 3
-0 228 -1 0
 0 207 0 1
 0 208 -1 0
+0 228 -1 0
 3
 end_operator
 begin_operator
@@ -24356,9 +24356,9 @@ etherformationbysulfonatedisplacement_3 c038 h061
 5 0
 36 0
 3
-0 255 -1 0
 0 207 0 1
 0 208 -1 0
+0 255 -1 0
 3
 end_operator
 begin_operator
@@ -24366,9 +24366,9 @@ etherformationbysulfonatedisplacement_3 c038 h143
 1
 5 0
 3
-0 217 -1 0
 0 207 0 1
 0 208 -1 0
+0 217 -1 0
 3
 end_operator
 begin_operator
@@ -24376,9 +24376,9 @@ etherformationbysulfonatedisplacement_3 c038 h144
 1
 5 0
 3
-0 216 -1 0
 0 207 0 1
 0 208 -1 0
+0 216 -1 0
 3
 end_operator
 begin_operator
@@ -24387,9 +24387,9 @@ etherformationbysulfonatedisplacement_4 c016 h061
 0 0
 30 0
 3
-0 251 -1 0
 0 208 0 1
 0 209 -1 0
+0 251 -1 0
 3
 end_operator
 begin_operator
@@ -24397,9 +24397,9 @@ etherformationbysulfonatedisplacement_4 c016 h106
 1
 0 0
 3
-0 250 -1 0
 0 208 0 1
 0 209 -1 0
+0 250 -1 0
 3
 end_operator
 begin_operator
@@ -24407,9 +24407,9 @@ etherformationbysulfonatedisplacement_4 c016 h107
 1
 0 0
 3
-0 249 -1 0
 0 208 0 1
 0 209 -1 0
+0 249 -1 0
 3
 end_operator
 begin_operator
@@ -24417,9 +24417,9 @@ etherformationbysulfonatedisplacement_4 c016 h108
 1
 0 0
 3
-0 248 -1 0
 0 208 0 1
 0 209 -1 0
+0 248 -1 0
 3
 end_operator
 begin_operator
@@ -24428,9 +24428,9 @@ etherformationbysulfonatedisplacement_4 c032 c033
 2 0
 197 0
 3
-0 238 -1 0
 0 208 0 1
 0 209 -1 0
+0 238 -1 0
 3
 end_operator
 begin_operator
@@ -24439,9 +24439,9 @@ etherformationbysulfonatedisplacement_4 c032 h061
 2 0
 195 0
 3
-0 251 -1 0
 0 208 0 1
 0 209 -1 0
+0 251 -1 0
 3
 end_operator
 begin_operator
@@ -24449,9 +24449,9 @@ etherformationbysulfonatedisplacement_4 c032 h133
 1
 2 0
 3
-0 235 -1 0
 0 208 0 1
 0 209 -1 0
+0 235 -1 0
 3
 end_operator
 begin_operator
@@ -24459,9 +24459,9 @@ etherformationbysulfonatedisplacement_4 c032 h134
 1
 2 0
 3
-0 234 -1 0
 0 208 0 1
 0 209 -1 0
+0 234 -1 0
 3
 end_operator
 begin_operator
@@ -24470,9 +24470,9 @@ etherformationbysulfonatedisplacement_4 c033 c032
 7 0
 198 0
 3
-0 232 -1 0
 0 208 0 1
 0 209 -1 0
+0 232 -1 0
 3
 end_operator
 begin_operator
@@ -24480,9 +24480,9 @@ etherformationbysulfonatedisplacement_4 c033 c034
 1
 7 0
 3
-0 243 -1 0
 0 208 0 1
 0 209 -1 0
+0 243 -1 0
 3
 end_operator
 begin_operator
@@ -24490,9 +24490,9 @@ etherformationbysulfonatedisplacement_4 c033 c038
 1
 7 0
 3
-0 230 -1 0
 0 208 0 1
 0 209 -1 0
+0 230 -1 0
 3
 end_operator
 begin_operator
@@ -24501,9 +24501,9 @@ etherformationbysulfonatedisplacement_4 c033 h061
 7 0
 32 0
 3
-0 251 -1 0
 0 208 0 1
 0 209 -1 0
+0 251 -1 0
 3
 end_operator
 begin_operator
@@ -24511,9 +24511,9 @@ etherformationbysulfonatedisplacement_4 c034 c033
 1
 6 0
 3
-0 238 -1 0
 0 208 0 1
 0 209 -1 0
+0 238 -1 0
 3
 end_operator
 begin_operator
@@ -24521,9 +24521,9 @@ etherformationbysulfonatedisplacement_4 c034 c035
 1
 6 0
 3
-0 225 -1 0
 0 208 0 1
 0 209 -1 0
+0 225 -1 0
 3
 end_operator
 begin_operator
@@ -24532,9 +24532,9 @@ etherformationbysulfonatedisplacement_4 c034 h061
 6 0
 34 0
 3
-0 251 -1 0
 0 208 0 1
 0 209 -1 0
+0 251 -1 0
 3
 end_operator
 begin_operator
@@ -24542,9 +24542,9 @@ etherformationbysulfonatedisplacement_4 c034 h135
 1
 6 0
 3
-0 211 -1 0
 0 208 0 1
 0 209 -1 0
+0 211 -1 0
 3
 end_operator
 begin_operator
@@ -24552,9 +24552,9 @@ etherformationbysulfonatedisplacement_4 c034 h136
 1
 6 0
 3
-0 210 -1 0
 0 208 0 1
 0 209 -1 0
+0 210 -1 0
 3
 end_operator
 begin_operator
@@ -24562,9 +24562,9 @@ etherformationbysulfonatedisplacement_4 c035 c034
 1
 1 0
 3
-0 243 -1 0
 0 208 0 1
 0 209 -1 0
+0 243 -1 0
 3
 end_operator
 begin_operator
@@ -24572,9 +24572,9 @@ etherformationbysulfonatedisplacement_4 c035 c036
 1
 1 0
 3
-0 242 -1 0
 0 208 0 1
 0 209 -1 0
+0 242 -1 0
 3
 end_operator
 begin_operator
@@ -24583,9 +24583,9 @@ etherformationbysulfonatedisplacement_4 c035 h061
 1 0
 38 0
 3
-0 251 -1 0
 0 208 0 1
 0 209 -1 0
+0 251 -1 0
 3
 end_operator
 begin_operator
@@ -24593,9 +24593,9 @@ etherformationbysulfonatedisplacement_4 c035 h137
 1
 1 0
 3
-0 241 -1 0
 0 208 0 1
 0 209 -1 0
+0 241 -1 0
 3
 end_operator
 begin_operator
@@ -24603,9 +24603,9 @@ etherformationbysulfonatedisplacement_4 c035 h138
 1
 1 0
 3
-0 240 -1 0
 0 208 0 1
 0 209 -1 0
+0 240 -1 0
 3
 end_operator
 begin_operator
@@ -24613,9 +24613,9 @@ etherformationbysulfonatedisplacement_4 c036 c035
 1
 3 0
 3
-0 225 -1 0
 0 208 0 1
 0 209 -1 0
+0 225 -1 0
 3
 end_operator
 begin_operator
@@ -24623,9 +24623,9 @@ etherformationbysulfonatedisplacement_4 c036 c037
 1
 3 0
 3
-0 224 -1 0
 0 208 0 1
 0 209 -1 0
+0 224 -1 0
 3
 end_operator
 begin_operator
@@ -24634,9 +24634,9 @@ etherformationbysulfonatedisplacement_4 c036 h061
 3 0
 40 0
 3
-0 251 -1 0
 0 208 0 1
 0 209 -1 0
+0 251 -1 0
 3
 end_operator
 begin_operator
@@ -24644,9 +24644,9 @@ etherformationbysulfonatedisplacement_4 c036 h139
 1
 3 0
 3
-0 223 -1 0
 0 208 0 1
 0 209 -1 0
+0 223 -1 0
 3
 end_operator
 begin_operator
@@ -24654,9 +24654,9 @@ etherformationbysulfonatedisplacement_4 c036 h140
 1
 3 0
 3
-0 222 -1 0
 0 208 0 1
 0 209 -1 0
+0 222 -1 0
 3
 end_operator
 begin_operator
@@ -24664,9 +24664,9 @@ etherformationbysulfonatedisplacement_4 c037 c036
 1
 4 0
 3
-0 242 -1 0
 0 208 0 1
 0 209 -1 0
+0 242 -1 0
 3
 end_operator
 begin_operator
@@ -24674,9 +24674,9 @@ etherformationbysulfonatedisplacement_4 c037 c038
 1
 4 0
 3
-0 230 -1 0
 0 208 0 1
 0 209 -1 0
+0 230 -1 0
 3
 end_operator
 begin_operator
@@ -24685,9 +24685,9 @@ etherformationbysulfonatedisplacement_4 c037 h061
 4 0
 44 0
 3
-0 251 -1 0
 0 208 0 1
 0 209 -1 0
+0 251 -1 0
 3
 end_operator
 begin_operator
@@ -24695,9 +24695,9 @@ etherformationbysulfonatedisplacement_4 c037 h141
 1
 4 0
 3
-0 219 -1 0
 0 208 0 1
 0 209 -1 0
+0 219 -1 0
 3
 end_operator
 begin_operator
@@ -24705,9 +24705,9 @@ etherformationbysulfonatedisplacement_4 c037 h142
 1
 4 0
 3
-0 218 -1 0
 0 208 0 1
 0 209 -1 0
+0 218 -1 0
 3
 end_operator
 begin_operator
@@ -24715,9 +24715,9 @@ etherformationbysulfonatedisplacement_4 c038 c033
 1
 5 0
 3
-0 238 -1 0
 0 208 0 1
 0 209 -1 0
+0 238 -1 0
 3
 end_operator
 begin_operator
@@ -24725,9 +24725,9 @@ etherformationbysulfonatedisplacement_4 c038 c037
 1
 5 0
 3
-0 224 -1 0
 0 208 0 1
 0 209 -1 0
+0 224 -1 0
 3
 end_operator
 begin_operator
@@ -24736,9 +24736,9 @@ etherformationbysulfonatedisplacement_4 c038 h061
 5 0
 36 0
 3
-0 251 -1 0
 0 208 0 1
 0 209 -1 0
+0 251 -1 0
 3
 end_operator
 begin_operator
@@ -24746,9 +24746,9 @@ etherformationbysulfonatedisplacement_4 c038 h143
 1
 5 0
 3
-0 215 -1 0
 0 208 0 1
 0 209 -1 0
+0 215 -1 0
 3
 end_operator
 begin_operator
@@ -24756,9 +24756,9 @@ etherformationbysulfonatedisplacement_4 c038 h144
 1
 5 0
 3
-0 214 -1 0
 0 208 0 1
 0 209 -1 0
+0 214 -1 0
 3
 end_operator
 0

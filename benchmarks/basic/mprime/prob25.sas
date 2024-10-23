@@ -3066,8 +3066,8 @@ overcome depression expectation chicken jupiter uranus
 1
 0 0
 2
-0 9 0 4
 0 7 3 1
+0 9 0 4
 1
 end_operator
 begin_operator
@@ -3075,8 +3075,8 @@ overcome depression expectation chicken neptune earth
 1
 0 0
 2
-0 9 0 4
 0 7 0 2
+0 9 0 4
 1
 end_operator
 begin_operator
@@ -3084,8 +3084,8 @@ overcome depression expectation chicken uranus neptune
 1
 0 0
 2
-0 9 0 4
 0 7 2 3
+0 9 0 4
 1
 end_operator
 begin_operator
@@ -3093,8 +3093,8 @@ overcome depression expectation pistachio jupiter uranus
 1
 0 1
 2
-0 9 1 4
 0 7 3 1
+0 9 1 4
 1
 end_operator
 begin_operator
@@ -3102,8 +3102,8 @@ overcome depression expectation pistachio neptune earth
 1
 0 1
 2
-0 9 1 4
 0 7 0 2
+0 9 1 4
 1
 end_operator
 begin_operator
@@ -3111,8 +3111,8 @@ overcome depression expectation pistachio uranus neptune
 1
 0 1
 2
-0 9 1 4
 0 7 2 3
+0 9 1 4
 1
 end_operator
 begin_operator
@@ -3120,8 +3120,8 @@ overcome depression expectation tuna jupiter uranus
 1
 0 2
 2
-0 9 2 4
 0 7 3 1
+0 9 2 4
 1
 end_operator
 begin_operator
@@ -3129,8 +3129,8 @@ overcome depression expectation tuna neptune earth
 1
 0 2
 2
-0 9 2 4
 0 7 0 2
+0 9 2 4
 1
 end_operator
 begin_operator
@@ -3138,8 +3138,8 @@ overcome depression expectation tuna uranus neptune
 1
 0 2
 2
-0 9 2 4
 0 7 2 3
+0 9 2 4
 1
 end_operator
 begin_operator
@@ -3147,8 +3147,8 @@ overcome depression expectation wurst jupiter uranus
 1
 0 3
 2
-0 9 3 4
 0 7 3 1
+0 9 3 4
 1
 end_operator
 begin_operator
@@ -3156,8 +3156,8 @@ overcome depression expectation wurst neptune earth
 1
 0 3
 2
-0 9 3 4
 0 7 0 2
+0 9 3 4
 1
 end_operator
 begin_operator
@@ -3165,8 +3165,8 @@ overcome depression expectation wurst uranus neptune
 1
 0 3
 2
-0 9 3 4
 0 7 2 3
+0 9 3 4
 1
 end_operator
 begin_operator
@@ -3174,8 +3174,8 @@ overcome depression rest chicken jupiter uranus
 1
 1 0
 2
-0 9 0 5
 0 8 3 1
+0 9 0 5
 1
 end_operator
 begin_operator
@@ -3183,8 +3183,8 @@ overcome depression rest chicken neptune earth
 1
 1 0
 2
-0 9 0 5
 0 8 0 2
+0 9 0 5
 1
 end_operator
 begin_operator
@@ -3192,8 +3192,8 @@ overcome depression rest chicken uranus neptune
 1
 1 0
 2
-0 9 0 5
 0 8 2 3
+0 9 0 5
 1
 end_operator
 begin_operator
@@ -3201,8 +3201,8 @@ overcome depression rest pistachio jupiter uranus
 1
 1 1
 2
-0 9 1 5
 0 8 3 1
+0 9 1 5
 1
 end_operator
 begin_operator
@@ -3210,8 +3210,8 @@ overcome depression rest pistachio neptune earth
 1
 1 1
 2
-0 9 1 5
 0 8 0 2
+0 9 1 5
 1
 end_operator
 begin_operator
@@ -3219,8 +3219,8 @@ overcome depression rest pistachio uranus neptune
 1
 1 1
 2
-0 9 1 5
 0 8 2 3
+0 9 1 5
 1
 end_operator
 begin_operator
@@ -3228,8 +3228,8 @@ overcome depression rest tuna jupiter uranus
 1
 1 2
 2
-0 9 2 5
 0 8 3 1
+0 9 2 5
 1
 end_operator
 begin_operator
@@ -3237,8 +3237,8 @@ overcome depression rest tuna neptune earth
 1
 1 2
 2
-0 9 2 5
 0 8 0 2
+0 9 2 5
 1
 end_operator
 begin_operator
@@ -3246,8 +3246,8 @@ overcome depression rest tuna uranus neptune
 1
 1 2
 2
-0 9 2 5
 0 8 2 3
+0 9 2 5
 1
 end_operator
 begin_operator
@@ -3255,8 +3255,8 @@ overcome depression rest wurst jupiter uranus
 1
 1 3
 2
-0 9 3 5
 0 8 3 1
+0 9 3 5
 1
 end_operator
 begin_operator
@@ -3264,8 +3264,8 @@ overcome depression rest wurst neptune earth
 1
 1 3
 2
-0 9 3 5
 0 8 0 2
+0 9 3 5
 1
 end_operator
 begin_operator
@@ -3273,8 +3273,8 @@ overcome depression rest wurst uranus neptune
 1
 1 3
 2
-0 9 3 5
 0 8 2 3
+0 9 3 5
 1
 end_operator
 begin_operator
@@ -3498,8 +3498,8 @@ succumb depression expectation chicken jupiter uranus
 1
 0 0
 2
-0 9 4 0
 0 7 1 3
+0 9 4 0
 1
 end_operator
 begin_operator
@@ -3507,8 +3507,8 @@ succumb depression expectation chicken neptune earth
 1
 0 0
 2
-0 9 4 0
 0 7 2 0
+0 9 4 0
 1
 end_operator
 begin_operator
@@ -3516,8 +3516,8 @@ succumb depression expectation chicken uranus neptune
 1
 0 0
 2
-0 9 4 0
 0 7 3 2
+0 9 4 0
 1
 end_operator
 begin_operator
@@ -3525,8 +3525,8 @@ succumb depression expectation pistachio jupiter uranus
 1
 0 1
 2
-0 9 4 1
 0 7 1 3
+0 9 4 1
 1
 end_operator
 begin_operator
@@ -3534,8 +3534,8 @@ succumb depression expectation pistachio neptune earth
 1
 0 1
 2
-0 9 4 1
 0 7 2 0
+0 9 4 1
 1
 end_operator
 begin_operator
@@ -3543,8 +3543,8 @@ succumb depression expectation pistachio uranus neptune
 1
 0 1
 2
-0 9 4 1
 0 7 3 2
+0 9 4 1
 1
 end_operator
 begin_operator
@@ -3552,8 +3552,8 @@ succumb depression expectation tuna jupiter uranus
 1
 0 2
 2
-0 9 4 2
 0 7 1 3
+0 9 4 2
 1
 end_operator
 begin_operator
@@ -3561,8 +3561,8 @@ succumb depression expectation tuna neptune earth
 1
 0 2
 2
-0 9 4 2
 0 7 2 0
+0 9 4 2
 1
 end_operator
 begin_operator
@@ -3570,8 +3570,8 @@ succumb depression expectation tuna uranus neptune
 1
 0 2
 2
-0 9 4 2
 0 7 3 2
+0 9 4 2
 1
 end_operator
 begin_operator
@@ -3579,8 +3579,8 @@ succumb depression expectation wurst jupiter uranus
 1
 0 3
 2
-0 9 4 3
 0 7 1 3
+0 9 4 3
 1
 end_operator
 begin_operator
@@ -3588,8 +3588,8 @@ succumb depression expectation wurst neptune earth
 1
 0 3
 2
-0 9 4 3
 0 7 2 0
+0 9 4 3
 1
 end_operator
 begin_operator
@@ -3597,8 +3597,8 @@ succumb depression expectation wurst uranus neptune
 1
 0 3
 2
-0 9 4 3
 0 7 3 2
+0 9 4 3
 1
 end_operator
 begin_operator
@@ -3606,8 +3606,8 @@ succumb depression rest chicken jupiter uranus
 1
 1 0
 2
-0 9 5 0
 0 8 1 3
+0 9 5 0
 1
 end_operator
 begin_operator
@@ -3615,8 +3615,8 @@ succumb depression rest chicken neptune earth
 1
 1 0
 2
-0 9 5 0
 0 8 2 0
+0 9 5 0
 1
 end_operator
 begin_operator
@@ -3624,8 +3624,8 @@ succumb depression rest chicken uranus neptune
 1
 1 0
 2
-0 9 5 0
 0 8 3 2
+0 9 5 0
 1
 end_operator
 begin_operator
@@ -3633,8 +3633,8 @@ succumb depression rest pistachio jupiter uranus
 1
 1 1
 2
-0 9 5 1
 0 8 1 3
+0 9 5 1
 1
 end_operator
 begin_operator
@@ -3642,8 +3642,8 @@ succumb depression rest pistachio neptune earth
 1
 1 1
 2
-0 9 5 1
 0 8 2 0
+0 9 5 1
 1
 end_operator
 begin_operator
@@ -3651,8 +3651,8 @@ succumb depression rest pistachio uranus neptune
 1
 1 1
 2
-0 9 5 1
 0 8 3 2
+0 9 5 1
 1
 end_operator
 begin_operator
@@ -3660,8 +3660,8 @@ succumb depression rest tuna jupiter uranus
 1
 1 2
 2
-0 9 5 2
 0 8 1 3
+0 9 5 2
 1
 end_operator
 begin_operator
@@ -3669,8 +3669,8 @@ succumb depression rest tuna neptune earth
 1
 1 2
 2
-0 9 5 2
 0 8 2 0
+0 9 5 2
 1
 end_operator
 begin_operator
@@ -3678,8 +3678,8 @@ succumb depression rest tuna uranus neptune
 1
 1 2
 2
-0 9 5 2
 0 8 3 2
+0 9 5 2
 1
 end_operator
 begin_operator
@@ -3687,8 +3687,8 @@ succumb depression rest wurst jupiter uranus
 1
 1 3
 2
-0 9 5 3
 0 8 1 3
+0 9 5 3
 1
 end_operator
 begin_operator
@@ -3696,8 +3696,8 @@ succumb depression rest wurst neptune earth
 1
 1 3
 2
-0 9 5 3
 0 8 2 0
+0 9 5 3
 1
 end_operator
 begin_operator
@@ -3705,8 +3705,8 @@ succumb depression rest wurst uranus neptune
 1
 1 3
 2
-0 9 5 3
 0 8 3 2
+0 9 5 3
 1
 end_operator
 0

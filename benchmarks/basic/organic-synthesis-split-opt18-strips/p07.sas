@@ -2077,208 +2077,208 @@ begin_operator
 aromaticnitration_1 c1 c2
 0
 3
-0 196 -1 0
-0 59 -1 0
 0 57 0 1
+0 59 -1 0
+0 196 -1 0
 5
 end_operator
 begin_operator
 aromaticnitration_1 c1 c6
 0
 3
-0 196 -1 0
-0 59 -1 0
 0 57 0 1
+0 59 -1 0
+0 196 -1 0
 5
 end_operator
 begin_operator
 aromaticnitration_1 c2 c1
 0
 3
-0 92 -1 0
-0 59 -1 0
 0 57 0 1
+0 59 -1 0
+0 92 -1 0
 5
 end_operator
 begin_operator
 aromaticnitration_1 c2 c3
 0
 3
-0 92 -1 0
-0 59 -1 0
 0 57 0 1
+0 59 -1 0
+0 92 -1 0
 5
 end_operator
 begin_operator
 aromaticnitration_1 c3 c2
 0
 3
-0 191 -1 0
-0 59 -1 0
 0 57 0 1
+0 59 -1 0
+0 191 -1 0
 5
 end_operator
 begin_operator
 aromaticnitration_1 c3 c4
 0
 3
-0 191 -1 0
-0 59 -1 0
 0 57 0 1
+0 59 -1 0
+0 191 -1 0
 5
 end_operator
 begin_operator
 aromaticnitration_1 c4 c3
 0
 3
-0 91 -1 0
-0 59 -1 0
 0 57 0 1
+0 59 -1 0
+0 91 -1 0
 5
 end_operator
 begin_operator
 aromaticnitration_1 c4 c5
 0
 3
-0 91 -1 0
-0 59 -1 0
 0 57 0 1
+0 59 -1 0
+0 91 -1 0
 5
 end_operator
 begin_operator
 aromaticnitration_1 c5 c4
 0
 3
-0 90 -1 0
-0 59 -1 0
 0 57 0 1
+0 59 -1 0
+0 90 -1 0
 5
 end_operator
 begin_operator
 aromaticnitration_1 c5 c6
 0
 3
-0 90 -1 0
-0 59 -1 0
 0 57 0 1
+0 59 -1 0
+0 90 -1 0
 5
 end_operator
 begin_operator
 aromaticnitration_1 c6 c1
 0
 3
-0 89 -1 0
-0 59 -1 0
 0 57 0 1
+0 59 -1 0
+0 89 -1 0
 5
 end_operator
 begin_operator
 aromaticnitration_1 c6 c5
 0
 3
-0 89 -1 0
-0 59 -1 0
 0 57 0 1
+0 59 -1 0
+0 89 -1 0
 5
 end_operator
 begin_operator
 cyanohydrinformation_1 c5 h3
 0
 4
-0 122 -1 0
-0 241 -1 0
-0 123 -1 0
 0 57 0 1
+0 122 -1 0
+0 123 -1 0
+0 241 -1 0
 16
 end_operator
 begin_operator
 cyanohydrinformation_1 c7 h4
 0
 4
-0 121 -1 0
-0 242 -1 0
-0 123 -1 0
 0 57 0 1
+0 121 -1 0
+0 123 -1 0
+0 242 -1 0
 16
 end_operator
 begin_operator
 cyanohydrinformation_1 c7 h5
 0
 4
-0 121 -1 0
-0 243 -1 0
-0 123 -1 0
 0 57 0 1
+0 121 -1 0
+0 123 -1 0
+0 243 -1 0
 16
 end_operator
 begin_operator
 cyanohydrinformation_1 c7 h6
 0
 4
-0 121 -1 0
-0 244 -1 0
-0 123 -1 0
 0 57 0 1
+0 121 -1 0
+0 123 -1 0
+0 244 -1 0
 16
 end_operator
 begin_operator
 cyanohydrinformation_1 c8 h12
 0
 4
-0 120 -1 0
-0 235 -1 0
-0 123 -1 0
 0 57 0 1
+0 120 -1 0
+0 123 -1 0
+0 235 -1 0
 16
 end_operator
 begin_operator
 cyanohydrinformation_1 c8 h7
 0
 4
-0 120 -1 0
-0 246 -1 0
-0 123 -1 0
 0 57 0 1
+0 120 -1 0
+0 123 -1 0
+0 246 -1 0
 16
 end_operator
 begin_operator
 cyanohydrinformation_1 c8 h8
 0
 4
-0 120 -1 0
-0 247 -1 0
-0 123 -1 0
 0 57 0 1
+0 120 -1 0
+0 123 -1 0
+0 247 -1 0
 16
 end_operator
 begin_operator
 cyanohydrinformation_1 c9 h13
 0
 4
-0 119 -1 0
-0 236 -1 0
-0 123 -1 0
 0 57 0 1
+0 119 -1 0
+0 123 -1 0
+0 236 -1 0
 16
 end_operator
 begin_operator
 cyanohydrinformation_1 c9 h14
 0
 4
-0 119 -1 0
-0 239 -1 0
-0 123 -1 0
 0 57 0 1
+0 119 -1 0
+0 123 -1 0
+0 239 -1 0
 16
 end_operator
 begin_operator
 cyanohydrinformation_1 c9 h15
 0
 4
-0 119 -1 0
-0 240 -1 0
-0 123 -1 0
 0 57 0 1
+0 119 -1 0
+0 123 -1 0
+0 240 -1 0
 16
 end_operator
 begin_operator
@@ -2286,8 +2286,8 @@ cyanohydrinformation_2 c5 h3
 1
 122 0
 3
-0 224 -1 0
 0 123 0 1
+0 224 -1 0
 0 245 -1 0
 16
 end_operator
@@ -2296,8 +2296,8 @@ cyanohydrinformation_2 c7 h4
 1
 121 0
 3
-0 225 -1 0
 0 123 0 1
+0 225 -1 0
 0 245 -1 0
 16
 end_operator
@@ -2306,8 +2306,8 @@ cyanohydrinformation_2 c7 h5
 1
 121 0
 3
-0 226 -1 0
 0 123 0 1
+0 226 -1 0
 0 245 -1 0
 16
 end_operator
@@ -2316,8 +2316,8 @@ cyanohydrinformation_2 c7 h6
 1
 121 0
 3
-0 227 -1 0
 0 123 0 1
+0 227 -1 0
 0 245 -1 0
 16
 end_operator
@@ -2326,8 +2326,8 @@ cyanohydrinformation_2 c8 h12
 1
 120 0
 3
-0 220 -1 0
 0 123 0 1
+0 220 -1 0
 0 245 -1 0
 16
 end_operator
@@ -2336,8 +2336,8 @@ cyanohydrinformation_2 c8 h7
 1
 120 0
 3
-0 228 -1 0
 0 123 0 1
+0 228 -1 0
 0 245 -1 0
 16
 end_operator
@@ -2346,8 +2346,8 @@ cyanohydrinformation_2 c8 h8
 1
 120 0
 3
-0 229 -1 0
 0 123 0 1
+0 229 -1 0
 0 245 -1 0
 16
 end_operator
@@ -2356,8 +2356,8 @@ cyanohydrinformation_2 c9 h13
 1
 119 0
 3
-0 221 -1 0
 0 123 0 1
+0 221 -1 0
 0 245 -1 0
 16
 end_operator
@@ -2366,8 +2366,8 @@ cyanohydrinformation_2 c9 h14
 1
 119 0
 3
-0 222 -1 0
 0 123 0 1
+0 222 -1 0
 0 245 -1 0
 16
 end_operator
@@ -2376,8 +2376,8 @@ cyanohydrinformation_2 c9 h15
 1
 119 0
 3
-0 223 -1 0
 0 123 0 1
+0 223 -1 0
 0 245 -1 0
 16
 end_operator
@@ -2466,8 +2466,8 @@ cyanohydrinformation_3 c2 h7
 0
 4
 0 230 0 1
-0 246 0 1
 0 245 0 1
+0 246 0 1
 0 254 -1 0
 16
 end_operator
@@ -2476,8 +2476,8 @@ cyanohydrinformation_3 c2 h8
 0
 4
 0 230 0 1
-0 247 0 1
 0 245 0 1
+0 247 0 1
 0 254 -1 0
 16
 end_operator
@@ -2566,8 +2566,8 @@ cyanohydrinformation_3 c4 h7
 0
 4
 0 231 0 1
-0 246 0 1
 0 245 0 1
+0 246 0 1
 0 254 -1 0
 16
 end_operator
@@ -2576,8 +2576,8 @@ cyanohydrinformation_3 c4 h8
 0
 4
 0 231 0 1
-0 247 0 1
 0 245 0 1
+0 247 0 1
 0 254 -1 0
 16
 end_operator
@@ -2666,8 +2666,8 @@ cyanohydrinformation_3 c5 h7
 0
 4
 0 232 0 1
-0 246 0 1
 0 245 0 1
+0 246 0 1
 0 254 -1 0
 16
 end_operator
@@ -2676,8 +2676,8 @@ cyanohydrinformation_3 c5 h8
 0
 4
 0 232 0 1
-0 247 0 1
 0 245 0 1
+0 247 0 1
 0 254 -1 0
 16
 end_operator
@@ -2766,8 +2766,8 @@ cyanohydrinformation_3 c6 h7
 0
 4
 0 233 0 1
-0 246 0 1
 0 245 0 1
+0 246 0 1
 0 254 -1 0
 16
 end_operator
@@ -2776,8 +2776,8 @@ cyanohydrinformation_3 c6 h8
 0
 4
 0 233 0 1
-0 247 0 1
 0 245 0 1
+0 247 0 1
 0 254 -1 0
 16
 end_operator
@@ -2866,8 +2866,8 @@ cyanohydrinformation_3 c7 h7
 0
 4
 0 234 0 1
-0 246 0 1
 0 245 0 1
+0 246 0 1
 0 254 -1 0
 16
 end_operator
@@ -2876,8 +2876,8 @@ cyanohydrinformation_3 c7 h8
 0
 4
 0 234 0 1
-0 247 0 1
 0 245 0 1
+0 247 0 1
 0 254 -1 0
 16
 end_operator
@@ -2885,8 +2885,8 @@ begin_operator
 cyanohydrinformation_3 c8 h12
 0
 4
-0 237 0 1
 0 235 0 1
+0 237 0 1
 0 245 0 1
 0 254 -1 0
 16
@@ -2895,8 +2895,8 @@ begin_operator
 cyanohydrinformation_3 c8 h13
 0
 4
-0 237 0 1
 0 236 0 1
+0 237 0 1
 0 245 0 1
 0 254 -1 0
 16
@@ -2966,8 +2966,8 @@ cyanohydrinformation_3 c8 h7
 0
 4
 0 237 0 1
-0 246 0 1
 0 245 0 1
+0 246 0 1
 0 254 -1 0
 16
 end_operator
@@ -2976,8 +2976,8 @@ cyanohydrinformation_3 c8 h8
 0
 4
 0 237 0 1
-0 247 0 1
 0 245 0 1
+0 247 0 1
 0 254 -1 0
 16
 end_operator
@@ -2985,8 +2985,8 @@ begin_operator
 cyanohydrinformation_3 c9 h12
 0
 4
-0 238 0 1
 0 235 0 1
+0 238 0 1
 0 245 0 1
 0 254 -1 0
 16
@@ -2995,8 +2995,8 @@ begin_operator
 cyanohydrinformation_3 c9 h13
 0
 4
-0 238 0 1
 0 236 0 1
+0 238 0 1
 0 245 0 1
 0 254 -1 0
 16
@@ -3066,8 +3066,8 @@ cyanohydrinformation_3 c9 h7
 0
 4
 0 238 0 1
-0 246 0 1
 0 245 0 1
+0 246 0 1
 0 254 -1 0
 16
 end_operator
@@ -3076,8 +3076,8 @@ cyanohydrinformation_3 c9 h8
 0
 4
 0 238 0 1
-0 247 0 1
 0 245 0 1
+0 247 0 1
 0 254 -1 0
 16
 end_operator
@@ -3156,8 +3156,8 @@ cyanohydrinformation_3 h12 h7
 0
 4
 0 220 0 1
-0 246 0 1
 0 245 0 1
+0 246 0 1
 0 254 -1 0
 16
 end_operator
@@ -3166,8 +3166,8 @@ cyanohydrinformation_3 h12 h8
 0
 4
 0 220 0 1
-0 247 0 1
 0 245 0 1
+0 247 0 1
 0 254 -1 0
 16
 end_operator
@@ -3246,8 +3246,8 @@ cyanohydrinformation_3 h13 h7
 0
 4
 0 221 0 1
-0 246 0 1
 0 245 0 1
+0 246 0 1
 0 254 -1 0
 16
 end_operator
@@ -3256,8 +3256,8 @@ cyanohydrinformation_3 h13 h8
 0
 4
 0 221 0 1
-0 247 0 1
 0 245 0 1
+0 247 0 1
 0 254 -1 0
 16
 end_operator
@@ -3336,8 +3336,8 @@ cyanohydrinformation_3 h14 h7
 0
 4
 0 222 0 1
-0 246 0 1
 0 245 0 1
+0 246 0 1
 0 254 -1 0
 16
 end_operator
@@ -3346,8 +3346,8 @@ cyanohydrinformation_3 h14 h8
 0
 4
 0 222 0 1
-0 247 0 1
 0 245 0 1
+0 247 0 1
 0 254 -1 0
 16
 end_operator
@@ -3426,8 +3426,8 @@ cyanohydrinformation_3 h15 h7
 0
 4
 0 223 0 1
-0 246 0 1
 0 245 0 1
+0 246 0 1
 0 254 -1 0
 16
 end_operator
@@ -3436,8 +3436,8 @@ cyanohydrinformation_3 h15 h8
 0
 4
 0 223 0 1
-0 247 0 1
 0 245 0 1
+0 247 0 1
 0 254 -1 0
 16
 end_operator
@@ -3516,8 +3516,8 @@ cyanohydrinformation_3 h3 h7
 0
 4
 0 224 0 1
-0 246 0 1
 0 245 0 1
+0 246 0 1
 0 254 -1 0
 16
 end_operator
@@ -3526,8 +3526,8 @@ cyanohydrinformation_3 h3 h8
 0
 4
 0 224 0 1
-0 247 0 1
 0 245 0 1
+0 247 0 1
 0 254 -1 0
 16
 end_operator
@@ -3606,8 +3606,8 @@ cyanohydrinformation_3 h4 h7
 0
 4
 0 225 0 1
-0 246 0 1
 0 245 0 1
+0 246 0 1
 0 254 -1 0
 16
 end_operator
@@ -3616,8 +3616,8 @@ cyanohydrinformation_3 h4 h8
 0
 4
 0 225 0 1
-0 247 0 1
 0 245 0 1
+0 247 0 1
 0 254 -1 0
 16
 end_operator
@@ -3696,8 +3696,8 @@ cyanohydrinformation_3 h5 h7
 0
 4
 0 226 0 1
-0 246 0 1
 0 245 0 1
+0 246 0 1
 0 254 -1 0
 16
 end_operator
@@ -3706,8 +3706,8 @@ cyanohydrinformation_3 h5 h8
 0
 4
 0 226 0 1
-0 247 0 1
 0 245 0 1
+0 247 0 1
 0 254 -1 0
 16
 end_operator
@@ -3786,8 +3786,8 @@ cyanohydrinformation_3 h6 h7
 0
 4
 0 227 0 1
-0 246 0 1
 0 245 0 1
+0 246 0 1
 0 254 -1 0
 16
 end_operator
@@ -3796,8 +3796,8 @@ cyanohydrinformation_3 h6 h8
 0
 4
 0 227 0 1
-0 247 0 1
 0 245 0 1
+0 247 0 1
 0 254 -1 0
 16
 end_operator
@@ -3886,8 +3886,8 @@ cyanohydrinformation_3 h7 h8
 0
 4
 0 228 0 1
-0 247 0 1
 0 245 0 1
+0 247 0 1
 0 254 -1 0
 16
 end_operator
@@ -3976,8 +3976,8 @@ cyanohydrinformation_3 h8 h7
 0
 4
 0 229 0 1
-0 246 0 1
 0 245 0 1
+0 246 0 1
 0 254 -1 0
 16
 end_operator
@@ -3986,9 +3986,9 @@ dehydrationofamides_1 c1 br1
 1
 55 0
 3
-0 196 -1 0
-0 195 -1 0
 0 57 0 1
+0 195 -1 0
+0 196 -1 0
 7
 end_operator
 begin_operator
@@ -3996,9 +3996,9 @@ dehydrationofamides_1 c1 br2
 1
 25 0
 3
-0 196 -1 0
-0 195 -1 0
 0 57 0 1
+0 195 -1 0
+0 196 -1 0
 7
 end_operator
 begin_operator
@@ -4006,9 +4006,9 @@ dehydrationofamides_1 c1 cl1
 1
 22 0
 3
-0 196 -1 0
-0 195 -1 0
 0 57 0 1
+0 195 -1 0
+0 196 -1 0
 7
 end_operator
 begin_operator
@@ -4016,9 +4016,9 @@ dehydrationofamides_1 c1 cl2
 1
 23 0
 3
-0 196 -1 0
-0 195 -1 0
 0 57 0 1
+0 195 -1 0
+0 196 -1 0
 7
 end_operator
 begin_operator
@@ -4026,18 +4026,18 @@ dehydrationofamides_1 c1 n
 1
 0 0
 3
-0 196 -1 0
-0 195 -1 0
 0 57 0 1
+0 195 -1 0
+0 196 -1 0
 7
 end_operator
 begin_operator
 dehydrationofamides_1 c2 o1
 0
 3
+0 57 0 1
 0 92 -1 0
 0 195 -1 0
-0 57 0 1
 7
 end_operator
 begin_operator
@@ -4045,9 +4045,9 @@ dehydrationofamides_1 c3 br1
 1
 26 0
 3
+0 57 0 1
 0 191 -1 0
 0 195 -1 0
-0 57 0 1
 7
 end_operator
 begin_operator
@@ -4055,9 +4055,9 @@ dehydrationofamides_1 c3 br2
 1
 56 0
 3
+0 57 0 1
 0 191 -1 0
 0 195 -1 0
-0 57 0 1
 7
 end_operator
 begin_operator
@@ -4065,9 +4065,9 @@ dehydrationofamides_1 c3 cl1
 1
 27 0
 3
+0 57 0 1
 0 191 -1 0
 0 195 -1 0
-0 57 0 1
 7
 end_operator
 begin_operator
@@ -4075,9 +4075,9 @@ dehydrationofamides_1 c3 cl2
 1
 24 0
 3
+0 57 0 1
 0 191 -1 0
 0 195 -1 0
-0 57 0 1
 7
 end_operator
 begin_operator
@@ -4085,340 +4085,340 @@ dehydrationofamides_1 c3 n3
 1
 1 0
 3
+0 57 0 1
 0 191 -1 0
 0 195 -1 0
-0 57 0 1
 7
 end_operator
 begin_operator
 dehydrationofamides_1 c4 o9
 0
 3
+0 57 0 1
 0 91 -1 0
 0 195 -1 0
-0 57 0 1
 7
 end_operator
 begin_operator
 dehydrationofamides_1 c5 h3
 0
 3
+0 57 0 1
 0 90 -1 0
 0 195 -1 0
-0 57 0 1
 7
 end_operator
 begin_operator
 dehydrationofamides_1 c6 o10
 0
 3
+0 57 0 1
 0 89 -1 0
 0 195 -1 0
-0 57 0 1
 7
 end_operator
 begin_operator
 dehydrationofamides_1 c7 h4
 0
 3
+0 57 0 1
 0 88 -1 0
 0 195 -1 0
-0 57 0 1
 7
 end_operator
 begin_operator
 dehydrationofamides_1 c7 h5
 0
 3
+0 57 0 1
 0 88 -1 0
 0 195 -1 0
-0 57 0 1
 7
 end_operator
 begin_operator
 dehydrationofamides_1 c7 h6
 0
 3
+0 57 0 1
 0 88 -1 0
 0 195 -1 0
-0 57 0 1
 7
 end_operator
 begin_operator
 dehydrationofamides_1 c7 o1
 0
 3
+0 57 0 1
 0 88 -1 0
 0 195 -1 0
-0 57 0 1
 7
 end_operator
 begin_operator
 dehydrationofamides_1 c8 h12
 0
 3
+0 57 0 1
 0 87 -1 0
 0 195 -1 0
-0 57 0 1
 7
 end_operator
 begin_operator
 dehydrationofamides_1 c8 h7
 0
 3
+0 57 0 1
 0 87 -1 0
 0 195 -1 0
-0 57 0 1
 7
 end_operator
 begin_operator
 dehydrationofamides_1 c8 h8
 0
 3
+0 57 0 1
 0 87 -1 0
 0 195 -1 0
-0 57 0 1
 7
 end_operator
 begin_operator
 dehydrationofamides_1 c8 o9
 0
 3
+0 57 0 1
 0 87 -1 0
 0 195 -1 0
-0 57 0 1
 7
 end_operator
 begin_operator
 dehydrationofamides_1 c9 h13
 0
 3
+0 57 0 1
 0 86 -1 0
 0 195 -1 0
-0 57 0 1
 7
 end_operator
 begin_operator
 dehydrationofamides_1 c9 h14
 0
 3
+0 57 0 1
 0 86 -1 0
 0 195 -1 0
-0 57 0 1
 7
 end_operator
 begin_operator
 dehydrationofamides_1 c9 h15
 0
 3
+0 57 0 1
 0 86 -1 0
 0 195 -1 0
-0 57 0 1
 7
 end_operator
 begin_operator
 dehydrationofamides_1 c9 o10
 0
 3
+0 57 0 1
 0 86 -1 0
 0 195 -1 0
-0 57 0 1
 7
 end_operator
 begin_operator
 diazotization_1 n n2
 0
 4
+0 57 0 1
+0 67 -1 0
 0 99 -1 0
 0 209 -1 0
-0 67 -1 0
-0 57 0 1
 8
 end_operator
 begin_operator
 diazotization_1 n n3
 0
 6
-0 99 -1 0
-0 205 -1 0
-0 67 -1 0
-0 57 0 1
 0 2 -1 0
 0 6 -1 0
+0 57 0 1
+0 67 -1 0
+0 99 -1 0
+0 205 -1 0
 8
 end_operator
 begin_operator
 diazotization_1 n n4
 0
 6
-0 99 -1 0
-0 210 -1 0
-0 67 -1 0
-0 57 0 1
 0 3 -1 0
 0 8 -1 0
+0 57 0 1
+0 67 -1 0
+0 99 -1 0
+0 210 -1 0
 8
 end_operator
 begin_operator
 diazotization_1 n2 n
 0
 4
+0 57 0 1
+0 67 -1 0
 0 98 -1 0
 0 204 -1 0
-0 67 -1 0
-0 57 0 1
 8
 end_operator
 begin_operator
 diazotization_1 n2 n3
 0
 6
-0 98 -1 0
-0 205 -1 0
-0 67 -1 0
-0 57 0 1
 0 4 -1 0
 0 7 -1 0
+0 57 0 1
+0 67 -1 0
+0 98 -1 0
+0 205 -1 0
 8
 end_operator
 begin_operator
 diazotization_1 n2 n4
 0
 6
-0 98 -1 0
-0 210 -1 0
-0 67 -1 0
-0 57 0 1
 0 5 -1 0
 0 9 -1 0
+0 57 0 1
+0 67 -1 0
+0 98 -1 0
+0 210 -1 0
 8
 end_operator
 begin_operator
 diazotization_1 n3 n
 0
 6
-0 97 -1 0
-0 204 -1 0
-0 67 -1 0
-0 57 0 1
 0 2 -1 0
 0 6 -1 0
+0 57 0 1
+0 67 -1 0
+0 97 -1 0
+0 204 -1 0
 8
 end_operator
 begin_operator
 diazotization_1 n3 n2
 0
 6
-0 97 -1 0
-0 209 -1 0
-0 67 -1 0
-0 57 0 1
 0 4 -1 0
 0 7 -1 0
+0 57 0 1
+0 67 -1 0
+0 97 -1 0
+0 209 -1 0
 8
 end_operator
 begin_operator
 diazotization_1 n3 n4
 0
 4
+0 57 0 1
+0 67 -1 0
 0 97 -1 0
 0 210 -1 0
-0 67 -1 0
-0 57 0 1
 8
 end_operator
 begin_operator
 diazotization_1 n4 n
 0
 6
-0 96 -1 0
-0 204 -1 0
-0 67 -1 0
-0 57 0 1
 0 3 -1 0
 0 8 -1 0
+0 57 0 1
+0 67 -1 0
+0 96 -1 0
+0 204 -1 0
 8
 end_operator
 begin_operator
 diazotization_1 n4 n2
 0
 6
-0 96 -1 0
-0 209 -1 0
-0 67 -1 0
-0 57 0 1
 0 5 -1 0
 0 9 -1 0
+0 57 0 1
+0 67 -1 0
+0 96 -1 0
+0 209 -1 0
 8
 end_operator
 begin_operator
 diazotization_1 n4 n3
 0
 4
+0 57 0 1
+0 67 -1 0
 0 96 -1 0
 0 205 -1 0
-0 67 -1 0
-0 57 0 1
 8
 end_operator
 begin_operator
 enolateattackonalkylhalidesn2_1 o1 c2
 0
 4
-0 185 -1 0
-0 230 -1 0
-0 190 -1 0
 0 57 0 1
+0 185 -1 0
+0 190 -1 0
+0 230 -1 0
 13
 end_operator
 begin_operator
 enolateattackonalkylhalidesn2_1 o1 c7
 0
 4
-0 185 -1 0
-0 234 -1 0
-0 190 -1 0
 0 57 0 1
+0 185 -1 0
+0 190 -1 0
+0 234 -1 0
 13
 end_operator
 begin_operator
 enolateattackonalkylhalidesn2_1 o10 c6
 0
 4
-0 184 -1 0
-0 233 -1 0
-0 190 -1 0
 0 57 0 1
+0 184 -1 0
+0 190 -1 0
+0 233 -1 0
 13
 end_operator
 begin_operator
 enolateattackonalkylhalidesn2_1 o10 c9
 0
 4
-0 184 -1 0
-0 238 -1 0
-0 190 -1 0
 0 57 0 1
+0 184 -1 0
+0 190 -1 0
+0 238 -1 0
 13
 end_operator
 begin_operator
 enolateattackonalkylhalidesn2_1 o9 c4
 0
 4
-0 183 -1 0
-0 231 -1 0
-0 190 -1 0
 0 57 0 1
+0 183 -1 0
+0 190 -1 0
+0 231 -1 0
 13
 end_operator
 begin_operator
 enolateattackonalkylhalidesn2_1 o9 c8
 0
 4
-0 183 -1 0
-0 237 -1 0
-0 190 -1 0
 0 57 0 1
+0 183 -1 0
+0 190 -1 0
+0 237 -1 0
 13
 end_operator
 begin_operator
@@ -4426,9 +4426,9 @@ enolateattackonalkylhalidesn2_2 br1 c1
 1
 55 0
 4
+0 190 0 1
 0 194 -1 0
 0 196 -1 0
-0 190 0 1
 0 249 -1 0
 13
 end_operator
@@ -4437,9 +4437,9 @@ enolateattackonalkylhalidesn2_2 br1 c3
 1
 26 0
 4
-0 194 -1 0
-0 191 -1 0
 0 190 0 1
+0 191 -1 0
+0 194 -1 0
 0 249 -1 0
 13
 end_operator
@@ -4448,9 +4448,9 @@ enolateattackonalkylhalidesn2_2 br2 c1
 1
 25 0
 4
+0 190 0 1
 0 193 -1 0
 0 196 -1 0
-0 190 0 1
 0 249 -1 0
 13
 end_operator
@@ -4459,9 +4459,9 @@ enolateattackonalkylhalidesn2_2 br2 c3
 1
 56 0
 4
-0 193 -1 0
-0 191 -1 0
 0 190 0 1
+0 191 -1 0
+0 193 -1 0
 0 249 -1 0
 13
 end_operator
@@ -4470,9 +4470,9 @@ enolateattackonalkylhalidesn2_2 cl1 c1
 1
 22 0
 4
-0 197 -1 0
-0 196 -1 0
 0 190 0 1
+0 196 -1 0
+0 197 -1 0
 0 249 -1 0
 13
 end_operator
@@ -4481,9 +4481,9 @@ enolateattackonalkylhalidesn2_2 cl1 c3
 1
 27 0
 4
-0 197 -1 0
-0 191 -1 0
 0 190 0 1
+0 191 -1 0
+0 197 -1 0
 0 249 -1 0
 13
 end_operator
@@ -4492,9 +4492,9 @@ enolateattackonalkylhalidesn2_2 cl2 c1
 1
 23 0
 4
+0 190 0 1
 0 192 -1 0
 0 196 -1 0
-0 190 0 1
 0 249 -1 0
 13
 end_operator
@@ -4503,9 +4503,9 @@ enolateattackonalkylhalidesn2_2 cl2 c3
 1
 24 0
 4
-0 192 -1 0
-0 191 -1 0
 0 190 0 1
+0 191 -1 0
+0 192 -1 0
 0 249 -1 0
 13
 end_operator
@@ -5073,96 +5073,96 @@ begin_operator
 grignardreagentformation_1 c1 br1
 0
 6
-0 198 -1 0
 0 42 -1 0
-0 55 -1 1
 0 53 0 1
-0 118 -1 0
+0 55 -1 1
 0 57 0 1
+0 118 -1 0
+0 198 -1 0
 42
 end_operator
 begin_operator
 grignardreagentformation_1 c1 br2
 0
 6
-0 198 -1 0
-0 43 -1 0
-0 25 -1 1
 0 17 0 1
-0 118 -1 0
+0 25 -1 1
+0 43 -1 0
 0 57 0 1
+0 118 -1 0
+0 198 -1 0
 42
 end_operator
 begin_operator
 grignardreagentformation_1 c1 cl1
 0
 6
-0 198 -1 0
-0 38 -1 0
 0 14 0 1
 0 22 -1 1
-0 118 -1 0
+0 38 -1 0
 0 57 0 1
+0 118 -1 0
+0 198 -1 0
 42
 end_operator
 begin_operator
 grignardreagentformation_1 c1 cl2
 0
 6
-0 198 -1 0
-0 39 -1 0
 0 15 0 1
 0 23 -1 1
-0 118 -1 0
+0 39 -1 0
 0 57 0 1
+0 118 -1 0
+0 198 -1 0
 42
 end_operator
 begin_operator
 grignardreagentformation_1 c3 br1
 0
 6
-0 134 -1 0
-0 42 -1 0
-0 26 -1 1
 0 18 0 1
-0 118 -1 0
+0 26 -1 1
+0 42 -1 0
 0 57 0 1
+0 118 -1 0
+0 134 -1 0
 42
 end_operator
 begin_operator
 grignardreagentformation_1 c3 br2
 0
 6
-0 134 -1 0
 0 43 -1 0
-0 56 -1 1
 0 54 0 1
-0 118 -1 0
+0 56 -1 1
 0 57 0 1
+0 118 -1 0
+0 134 -1 0
 42
 end_operator
 begin_operator
 grignardreagentformation_1 c3 cl1
 0
 6
-0 134 -1 0
-0 38 -1 0
 0 19 0 1
 0 27 -1 1
-0 118 -1 0
+0 38 -1 0
 0 57 0 1
+0 118 -1 0
+0 134 -1 0
 42
 end_operator
 begin_operator
 grignardreagentformation_1 c3 cl2
 0
 6
-0 134 -1 0
-0 39 -1 0
 0 16 0 1
 0 24 -1 1
-0 118 -1 0
+0 39 -1 0
 0 57 0 1
+0 118 -1 0
+0 134 -1 0
 42
 end_operator
 begin_operator
@@ -5170,10 +5170,10 @@ hydrationofaldehydesandketones_1 c1 br1
 1
 55 0
 4
-0 198 -1 0
-0 201 -1 0
-0 199 -1 0
 0 57 0 1
+0 198 -1 0
+0 199 -1 0
+0 201 -1 0
 13
 end_operator
 begin_operator
@@ -5181,10 +5181,10 @@ hydrationofaldehydesandketones_1 c1 br2
 1
 25 0
 4
-0 198 -1 0
-0 200 -1 0
-0 199 -1 0
 0 57 0 1
+0 198 -1 0
+0 199 -1 0
+0 200 -1 0
 13
 end_operator
 begin_operator
@@ -5192,10 +5192,10 @@ hydrationofaldehydesandketones_1 c1 cl1
 1
 22 0
 4
-0 198 -1 0
-0 202 -1 0
-0 199 -1 0
 0 57 0 1
+0 198 -1 0
+0 199 -1 0
+0 202 -1 0
 13
 end_operator
 begin_operator
@@ -5203,10 +5203,10 @@ hydrationofaldehydesandketones_1 c1 cl2
 1
 23 0
 4
-0 198 -1 0
-0 203 -1 0
-0 199 -1 0
 0 57 0 1
+0 198 -1 0
+0 199 -1 0
+0 203 -1 0
 13
 end_operator
 begin_operator
@@ -5214,20 +5214,20 @@ hydrationofaldehydesandketones_1 c1 n
 1
 0 0
 4
-0 198 -1 0
-0 204 -1 0
-0 199 -1 0
 0 57 0 1
+0 198 -1 0
+0 199 -1 0
+0 204 -1 0
 13
 end_operator
 begin_operator
 hydrationofaldehydesandketones_1 c2 o1
 0
 4
-0 135 -1 0
-0 206 -1 0
-0 199 -1 0
 0 57 0 1
+0 135 -1 0
+0 199 -1 0
+0 206 -1 0
 13
 end_operator
 begin_operator
@@ -5235,10 +5235,10 @@ hydrationofaldehydesandketones_1 c3 br1
 1
 26 0
 4
-0 134 -1 0
-0 201 -1 0
-0 199 -1 0
 0 57 0 1
+0 134 -1 0
+0 199 -1 0
+0 201 -1 0
 13
 end_operator
 begin_operator
@@ -5246,10 +5246,10 @@ hydrationofaldehydesandketones_1 c3 br2
 1
 56 0
 4
-0 134 -1 0
-0 200 -1 0
-0 199 -1 0
 0 57 0 1
+0 134 -1 0
+0 199 -1 0
+0 200 -1 0
 13
 end_operator
 begin_operator
@@ -5257,10 +5257,10 @@ hydrationofaldehydesandketones_1 c3 cl1
 1
 27 0
 4
-0 134 -1 0
-0 202 -1 0
-0 199 -1 0
 0 57 0 1
+0 134 -1 0
+0 199 -1 0
+0 202 -1 0
 13
 end_operator
 begin_operator
@@ -5268,10 +5268,10 @@ hydrationofaldehydesandketones_1 c3 cl2
 1
 24 0
 4
-0 134 -1 0
-0 203 -1 0
-0 199 -1 0
 0 57 0 1
+0 134 -1 0
+0 199 -1 0
+0 203 -1 0
 13
 end_operator
 begin_operator
@@ -5279,214 +5279,214 @@ hydrationofaldehydesandketones_1 c3 n3
 1
 1 0
 4
-0 134 -1 0
-0 205 -1 0
-0 199 -1 0
 0 57 0 1
+0 134 -1 0
+0 199 -1 0
+0 205 -1 0
 13
 end_operator
 begin_operator
 hydrationofaldehydesandketones_1 c4 o9
 0
 4
-0 133 -1 0
-0 208 -1 0
-0 199 -1 0
 0 57 0 1
+0 133 -1 0
+0 199 -1 0
+0 208 -1 0
 13
 end_operator
 begin_operator
 hydrationofaldehydesandketones_1 c5 h3
 0
 4
-0 132 -1 0
-0 224 -1 0
-0 199 -1 0
 0 57 0 1
+0 132 -1 0
+0 199 -1 0
+0 224 -1 0
 13
 end_operator
 begin_operator
 hydrationofaldehydesandketones_1 c6 o10
 0
 4
-0 131 -1 0
-0 207 -1 0
-0 199 -1 0
 0 57 0 1
+0 131 -1 0
+0 199 -1 0
+0 207 -1 0
 13
 end_operator
 begin_operator
 hydrationofaldehydesandketones_1 c7 h4
 0
 4
-0 130 -1 0
-0 225 -1 0
-0 199 -1 0
 0 57 0 1
+0 130 -1 0
+0 199 -1 0
+0 225 -1 0
 13
 end_operator
 begin_operator
 hydrationofaldehydesandketones_1 c7 h5
 0
 4
-0 130 -1 0
-0 226 -1 0
-0 199 -1 0
 0 57 0 1
+0 130 -1 0
+0 199 -1 0
+0 226 -1 0
 13
 end_operator
 begin_operator
 hydrationofaldehydesandketones_1 c7 h6
 0
 4
-0 130 -1 0
-0 227 -1 0
-0 199 -1 0
 0 57 0 1
+0 130 -1 0
+0 199 -1 0
+0 227 -1 0
 13
 end_operator
 begin_operator
 hydrationofaldehydesandketones_1 c7 o1
 0
 4
-0 130 -1 0
-0 206 -1 0
-0 199 -1 0
 0 57 0 1
+0 130 -1 0
+0 199 -1 0
+0 206 -1 0
 13
 end_operator
 begin_operator
 hydrationofaldehydesandketones_1 c8 h12
 0
 4
-0 129 -1 0
-0 220 -1 0
-0 199 -1 0
 0 57 0 1
+0 129 -1 0
+0 199 -1 0
+0 220 -1 0
 13
 end_operator
 begin_operator
 hydrationofaldehydesandketones_1 c8 h7
 0
 4
-0 129 -1 0
-0 228 -1 0
-0 199 -1 0
 0 57 0 1
+0 129 -1 0
+0 199 -1 0
+0 228 -1 0
 13
 end_operator
 begin_operator
 hydrationofaldehydesandketones_1 c8 h8
 0
 4
-0 129 -1 0
-0 229 -1 0
-0 199 -1 0
 0 57 0 1
+0 129 -1 0
+0 199 -1 0
+0 229 -1 0
 13
 end_operator
 begin_operator
 hydrationofaldehydesandketones_1 c8 o9
 0
 4
-0 129 -1 0
-0 208 -1 0
-0 199 -1 0
 0 57 0 1
+0 129 -1 0
+0 199 -1 0
+0 208 -1 0
 13
 end_operator
 begin_operator
 hydrationofaldehydesandketones_1 c9 h13
 0
 4
-0 128 -1 0
-0 221 -1 0
-0 199 -1 0
 0 57 0 1
+0 128 -1 0
+0 199 -1 0
+0 221 -1 0
 13
 end_operator
 begin_operator
 hydrationofaldehydesandketones_1 c9 h14
 0
 4
-0 128 -1 0
-0 222 -1 0
-0 199 -1 0
 0 57 0 1
+0 128 -1 0
+0 199 -1 0
+0 222 -1 0
 13
 end_operator
 begin_operator
 hydrationofaldehydesandketones_1 c9 h15
 0
 4
-0 128 -1 0
-0 223 -1 0
-0 199 -1 0
 0 57 0 1
+0 128 -1 0
+0 199 -1 0
+0 223 -1 0
 13
 end_operator
 begin_operator
 hydrationofaldehydesandketones_1 c9 o10
 0
 4
-0 128 -1 0
-0 207 -1 0
-0 199 -1 0
 0 57 0 1
+0 128 -1 0
+0 199 -1 0
+0 207 -1 0
 13
 end_operator
 begin_operator
 hydrationofaldehydesandketones_2 c1 br1
 2
-198 0
 53 0
+198 0
 3
-0 211 -1 0
 0 199 0 1
+0 211 -1 0
 0 248 -1 0
 13
 end_operator
 begin_operator
 hydrationofaldehydesandketones_2 c1 br2
 2
-198 0
 17 0
+198 0
 3
-0 212 -1 0
 0 199 0 1
+0 212 -1 0
 0 248 -1 0
 13
 end_operator
 begin_operator
 hydrationofaldehydesandketones_2 c1 cl1
 2
-198 0
 14 0
+198 0
 3
-0 213 -1 0
 0 199 0 1
+0 213 -1 0
 0 248 -1 0
 13
 end_operator
 begin_operator
 hydrationofaldehydesandketones_2 c1 cl2
 2
-198 0
 15 0
+198 0
 3
-0 214 -1 0
 0 199 0 1
+0 214 -1 0
 0 248 -1 0
 13
 end_operator
 begin_operator
 hydrationofaldehydesandketones_2 c1 n
 2
-198 0
 127 0
+198 0
 3
-0 215 -1 0
 0 199 0 1
+0 215 -1 0
 0 248 -1 0
 13
 end_operator
@@ -5495,63 +5495,63 @@ hydrationofaldehydesandketones_2 c2 o1
 1
 135 0
 3
-0 217 -1 0
 0 199 0 1
+0 217 -1 0
 0 248 -1 0
 13
 end_operator
 begin_operator
 hydrationofaldehydesandketones_2 c3 br1
 2
-134 0
 18 0
+134 0
 3
-0 211 -1 0
 0 199 0 1
+0 211 -1 0
 0 248 -1 0
 13
 end_operator
 begin_operator
 hydrationofaldehydesandketones_2 c3 br2
 2
-134 0
 54 0
+134 0
 3
-0 212 -1 0
 0 199 0 1
+0 212 -1 0
 0 248 -1 0
 13
 end_operator
 begin_operator
 hydrationofaldehydesandketones_2 c3 cl1
 2
-134 0
 19 0
+134 0
 3
-0 213 -1 0
 0 199 0 1
+0 213 -1 0
 0 248 -1 0
 13
 end_operator
 begin_operator
 hydrationofaldehydesandketones_2 c3 cl2
 2
-134 0
 16 0
+134 0
 3
-0 214 -1 0
 0 199 0 1
+0 214 -1 0
 0 248 -1 0
 13
 end_operator
 begin_operator
 hydrationofaldehydesandketones_2 c3 n3
 2
-134 0
 126 0
+134 0
 3
-0 216 -1 0
 0 199 0 1
+0 216 -1 0
 0 248 -1 0
 13
 end_operator
@@ -5560,8 +5560,8 @@ hydrationofaldehydesandketones_2 c4 o9
 1
 133 0
 3
-0 219 -1 0
 0 199 0 1
+0 219 -1 0
 0 248 -1 0
 13
 end_operator
@@ -5570,8 +5570,8 @@ hydrationofaldehydesandketones_2 c5 h3
 1
 132 0
 3
-0 241 -1 0
 0 199 0 1
+0 241 -1 0
 0 248 -1 0
 13
 end_operator
@@ -5580,8 +5580,8 @@ hydrationofaldehydesandketones_2 c6 o10
 1
 131 0
 3
-0 218 -1 0
 0 199 0 1
+0 218 -1 0
 0 248 -1 0
 13
 end_operator
@@ -5590,8 +5590,8 @@ hydrationofaldehydesandketones_2 c7 h4
 1
 130 0
 3
-0 242 -1 0
 0 199 0 1
+0 242 -1 0
 0 248 -1 0
 13
 end_operator
@@ -5600,8 +5600,8 @@ hydrationofaldehydesandketones_2 c7 h5
 1
 130 0
 3
-0 243 -1 0
 0 199 0 1
+0 243 -1 0
 0 248 -1 0
 13
 end_operator
@@ -5610,8 +5610,8 @@ hydrationofaldehydesandketones_2 c7 h6
 1
 130 0
 3
-0 244 -1 0
 0 199 0 1
+0 244 -1 0
 0 248 -1 0
 13
 end_operator
@@ -5620,8 +5620,8 @@ hydrationofaldehydesandketones_2 c7 o1
 1
 130 0
 3
-0 217 -1 0
 0 199 0 1
+0 217 -1 0
 0 248 -1 0
 13
 end_operator
@@ -5630,8 +5630,8 @@ hydrationofaldehydesandketones_2 c8 h12
 1
 129 0
 3
-0 235 -1 0
 0 199 0 1
+0 235 -1 0
 0 248 -1 0
 13
 end_operator
@@ -5640,8 +5640,8 @@ hydrationofaldehydesandketones_2 c8 h7
 1
 129 0
 3
-0 246 -1 0
 0 199 0 1
+0 246 -1 0
 0 248 -1 0
 13
 end_operator
@@ -5650,8 +5650,8 @@ hydrationofaldehydesandketones_2 c8 h8
 1
 129 0
 3
-0 247 -1 0
 0 199 0 1
+0 247 -1 0
 0 248 -1 0
 13
 end_operator
@@ -5660,8 +5660,8 @@ hydrationofaldehydesandketones_2 c8 o9
 1
 129 0
 3
-0 219 -1 0
 0 199 0 1
+0 219 -1 0
 0 248 -1 0
 13
 end_operator
@@ -5670,8 +5670,8 @@ hydrationofaldehydesandketones_2 c9 h13
 1
 128 0
 3
-0 236 -1 0
 0 199 0 1
+0 236 -1 0
 0 248 -1 0
 13
 end_operator
@@ -5680,8 +5680,8 @@ hydrationofaldehydesandketones_2 c9 h14
 1
 128 0
 3
-0 239 -1 0
 0 199 0 1
+0 239 -1 0
 0 248 -1 0
 13
 end_operator
@@ -5690,8 +5690,8 @@ hydrationofaldehydesandketones_2 c9 h15
 1
 128 0
 3
-0 240 -1 0
 0 199 0 1
+0 240 -1 0
 0 248 -1 0
 13
 end_operator
@@ -5700,8 +5700,8 @@ hydrationofaldehydesandketones_2 c9 o10
 1
 128 0
 3
-0 218 -1 0
 0 199 0 1
+0 218 -1 0
 0 248 -1 0
 13
 end_operator
@@ -6069,8 +6069,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c2 br1
 0
 4
-0 230 0 1
 0 211 0 1
+0 230 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6079,8 +6079,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c2 br2
 0
 4
-0 230 0 1
 0 212 0 1
+0 230 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6089,8 +6089,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c2 cl1
 0
 4
-0 230 0 1
 0 213 0 1
+0 230 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6099,8 +6099,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c2 cl2
 0
 4
-0 230 0 1
 0 214 0 1
+0 230 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6209,8 +6209,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c2 n
 0
 4
-0 230 0 1
 0 215 0 1
+0 230 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6219,8 +6219,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c2 n3
 0
 4
-0 230 0 1
 0 216 0 1
+0 230 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6229,8 +6229,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c2 o1
 0
 4
-0 230 0 1
 0 217 0 1
+0 230 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6239,8 +6239,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c2 o10
 0
 4
-0 230 0 1
 0 218 0 1
+0 230 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6249,8 +6249,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c2 o9
 0
 4
-0 230 0 1
 0 219 0 1
+0 230 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6259,8 +6259,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c4 br1
 0
 4
-0 231 0 1
 0 211 0 1
+0 231 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6269,8 +6269,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c4 br2
 0
 4
-0 231 0 1
 0 212 0 1
+0 231 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6279,8 +6279,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c4 cl1
 0
 4
-0 231 0 1
 0 213 0 1
+0 231 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6289,8 +6289,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c4 cl2
 0
 4
-0 231 0 1
 0 214 0 1
+0 231 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6399,8 +6399,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c4 n
 0
 4
-0 231 0 1
 0 215 0 1
+0 231 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6409,8 +6409,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c4 n3
 0
 4
-0 231 0 1
 0 216 0 1
+0 231 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6419,8 +6419,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c4 o1
 0
 4
-0 231 0 1
 0 217 0 1
+0 231 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6429,8 +6429,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c4 o10
 0
 4
-0 231 0 1
 0 218 0 1
+0 231 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6439,8 +6439,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c4 o9
 0
 4
-0 231 0 1
 0 219 0 1
+0 231 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6449,8 +6449,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c5 br1
 0
 4
-0 232 0 1
 0 211 0 1
+0 232 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6459,8 +6459,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c5 br2
 0
 4
-0 232 0 1
 0 212 0 1
+0 232 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6469,8 +6469,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c5 cl1
 0
 4
-0 232 0 1
 0 213 0 1
+0 232 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6479,8 +6479,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c5 cl2
 0
 4
-0 232 0 1
 0 214 0 1
+0 232 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6589,8 +6589,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c5 n
 0
 4
-0 232 0 1
 0 215 0 1
+0 232 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6599,8 +6599,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c5 n3
 0
 4
-0 232 0 1
 0 216 0 1
+0 232 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6609,8 +6609,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c5 o1
 0
 4
-0 232 0 1
 0 217 0 1
+0 232 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6619,8 +6619,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c5 o10
 0
 4
-0 232 0 1
 0 218 0 1
+0 232 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6629,8 +6629,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c5 o9
 0
 4
-0 232 0 1
 0 219 0 1
+0 232 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6639,8 +6639,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c6 br1
 0
 4
-0 233 0 1
 0 211 0 1
+0 233 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6649,8 +6649,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c6 br2
 0
 4
-0 233 0 1
 0 212 0 1
+0 233 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6659,8 +6659,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c6 cl1
 0
 4
-0 233 0 1
 0 213 0 1
+0 233 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6669,8 +6669,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c6 cl2
 0
 4
-0 233 0 1
 0 214 0 1
+0 233 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6779,8 +6779,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c6 n
 0
 4
-0 233 0 1
 0 215 0 1
+0 233 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6789,8 +6789,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c6 n3
 0
 4
-0 233 0 1
 0 216 0 1
+0 233 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6799,8 +6799,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c6 o1
 0
 4
-0 233 0 1
 0 217 0 1
+0 233 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6809,8 +6809,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c6 o10
 0
 4
-0 233 0 1
 0 218 0 1
+0 233 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6819,8 +6819,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c6 o9
 0
 4
-0 233 0 1
 0 219 0 1
+0 233 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6829,8 +6829,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c7 br1
 0
 4
-0 234 0 1
 0 211 0 1
+0 234 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6839,8 +6839,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c7 br2
 0
 4
-0 234 0 1
 0 212 0 1
+0 234 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6849,8 +6849,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c7 cl1
 0
 4
-0 234 0 1
 0 213 0 1
+0 234 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6859,8 +6859,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c7 cl2
 0
 4
-0 234 0 1
 0 214 0 1
+0 234 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6969,8 +6969,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c7 n
 0
 4
-0 234 0 1
 0 215 0 1
+0 234 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6979,8 +6979,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c7 n3
 0
 4
-0 234 0 1
 0 216 0 1
+0 234 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6989,8 +6989,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c7 o1
 0
 4
-0 234 0 1
 0 217 0 1
+0 234 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -6999,8 +6999,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c7 o10
 0
 4
-0 234 0 1
 0 218 0 1
+0 234 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7009,8 +7009,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c7 o9
 0
 4
-0 234 0 1
 0 219 0 1
+0 234 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7019,8 +7019,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c8 br1
 0
 4
-0 237 0 1
 0 211 0 1
+0 237 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7029,8 +7029,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c8 br2
 0
 4
-0 237 0 1
 0 212 0 1
+0 237 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7039,8 +7039,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c8 cl1
 0
 4
-0 237 0 1
 0 213 0 1
+0 237 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7049,8 +7049,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c8 cl2
 0
 4
-0 237 0 1
 0 214 0 1
+0 237 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7059,8 +7059,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c8 h12
 0
 4
-0 237 0 1
 0 235 0 1
+0 237 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7069,8 +7069,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c8 h13
 0
 4
-0 237 0 1
 0 236 0 1
+0 237 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7159,8 +7159,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c8 n
 0
 4
-0 237 0 1
 0 215 0 1
+0 237 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7169,8 +7169,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c8 n3
 0
 4
-0 237 0 1
 0 216 0 1
+0 237 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7179,8 +7179,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c8 o1
 0
 4
-0 237 0 1
 0 217 0 1
+0 237 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7189,8 +7189,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c8 o10
 0
 4
-0 237 0 1
 0 218 0 1
+0 237 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7199,8 +7199,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c8 o9
 0
 4
-0 237 0 1
 0 219 0 1
+0 237 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7209,8 +7209,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c9 br1
 0
 4
-0 238 0 1
 0 211 0 1
+0 238 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7219,8 +7219,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c9 br2
 0
 4
-0 238 0 1
 0 212 0 1
+0 238 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7229,8 +7229,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c9 cl1
 0
 4
-0 238 0 1
 0 213 0 1
+0 238 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7239,8 +7239,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c9 cl2
 0
 4
-0 238 0 1
 0 214 0 1
+0 238 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7249,8 +7249,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c9 h12
 0
 4
-0 238 0 1
 0 235 0 1
+0 238 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7259,8 +7259,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c9 h13
 0
 4
-0 238 0 1
 0 236 0 1
+0 238 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7349,8 +7349,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c9 n
 0
 4
-0 238 0 1
 0 215 0 1
+0 238 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7359,8 +7359,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c9 n3
 0
 4
-0 238 0 1
 0 216 0 1
+0 238 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7369,8 +7369,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c9 o1
 0
 4
-0 238 0 1
 0 217 0 1
+0 238 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7379,8 +7379,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c9 o10
 0
 4
-0 238 0 1
 0 218 0 1
+0 238 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7389,8 +7389,8 @@ begin_operator
 hydrationofaldehydesandketones_3 c9 o9
 0
 4
-0 238 0 1
 0 219 0 1
+0 238 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7759,8 +7759,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h12 br1
 0
 4
-0 220 0 1
 0 211 0 1
+0 220 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7769,8 +7769,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h12 br2
 0
 4
-0 220 0 1
 0 212 0 1
+0 220 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7779,8 +7779,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h12 cl1
 0
 4
-0 220 0 1
 0 213 0 1
+0 220 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7789,8 +7789,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h12 cl2
 0
 4
-0 220 0 1
 0 214 0 1
+0 220 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7889,8 +7889,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h12 n
 0
 4
-0 220 0 1
 0 215 0 1
+0 220 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7899,8 +7899,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h12 n3
 0
 4
-0 220 0 1
 0 216 0 1
+0 220 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7909,8 +7909,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h12 o1
 0
 4
-0 220 0 1
 0 217 0 1
+0 220 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7919,8 +7919,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h12 o10
 0
 4
-0 220 0 1
 0 218 0 1
+0 220 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7929,8 +7929,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h12 o9
 0
 4
-0 220 0 1
 0 219 0 1
+0 220 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7939,8 +7939,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h13 br1
 0
 4
-0 221 0 1
 0 211 0 1
+0 221 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7949,8 +7949,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h13 br2
 0
 4
-0 221 0 1
 0 212 0 1
+0 221 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7959,8 +7959,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h13 cl1
 0
 4
-0 221 0 1
 0 213 0 1
+0 221 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -7969,8 +7969,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h13 cl2
 0
 4
-0 221 0 1
 0 214 0 1
+0 221 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8069,8 +8069,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h13 n
 0
 4
-0 221 0 1
 0 215 0 1
+0 221 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8079,8 +8079,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h13 n3
 0
 4
-0 221 0 1
 0 216 0 1
+0 221 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8089,8 +8089,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h13 o1
 0
 4
-0 221 0 1
 0 217 0 1
+0 221 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8099,8 +8099,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h13 o10
 0
 4
-0 221 0 1
 0 218 0 1
+0 221 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8109,8 +8109,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h13 o9
 0
 4
-0 221 0 1
 0 219 0 1
+0 221 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8119,8 +8119,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h14 br1
 0
 4
-0 222 0 1
 0 211 0 1
+0 222 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8129,8 +8129,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h14 br2
 0
 4
-0 222 0 1
 0 212 0 1
+0 222 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8139,8 +8139,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h14 cl1
 0
 4
-0 222 0 1
 0 213 0 1
+0 222 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8149,8 +8149,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h14 cl2
 0
 4
-0 222 0 1
 0 214 0 1
+0 222 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8249,8 +8249,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h14 n
 0
 4
-0 222 0 1
 0 215 0 1
+0 222 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8259,8 +8259,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h14 n3
 0
 4
-0 222 0 1
 0 216 0 1
+0 222 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8269,8 +8269,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h14 o1
 0
 4
-0 222 0 1
 0 217 0 1
+0 222 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8279,8 +8279,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h14 o10
 0
 4
-0 222 0 1
 0 218 0 1
+0 222 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8289,8 +8289,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h14 o9
 0
 4
-0 222 0 1
 0 219 0 1
+0 222 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8299,8 +8299,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h15 br1
 0
 4
-0 223 0 1
 0 211 0 1
+0 223 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8309,8 +8309,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h15 br2
 0
 4
-0 223 0 1
 0 212 0 1
+0 223 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8319,8 +8319,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h15 cl1
 0
 4
-0 223 0 1
 0 213 0 1
+0 223 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8329,8 +8329,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h15 cl2
 0
 4
-0 223 0 1
 0 214 0 1
+0 223 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8429,8 +8429,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h15 n
 0
 4
-0 223 0 1
 0 215 0 1
+0 223 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8439,8 +8439,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h15 n3
 0
 4
-0 223 0 1
 0 216 0 1
+0 223 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8449,8 +8449,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h15 o1
 0
 4
-0 223 0 1
 0 217 0 1
+0 223 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8459,8 +8459,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h15 o10
 0
 4
-0 223 0 1
 0 218 0 1
+0 223 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8469,8 +8469,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h15 o9
 0
 4
-0 223 0 1
 0 219 0 1
+0 223 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8479,8 +8479,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h3 br1
 0
 4
-0 224 0 1
 0 211 0 1
+0 224 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8489,8 +8489,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h3 br2
 0
 4
-0 224 0 1
 0 212 0 1
+0 224 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8499,8 +8499,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h3 cl1
 0
 4
-0 224 0 1
 0 213 0 1
+0 224 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8509,8 +8509,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h3 cl2
 0
 4
-0 224 0 1
 0 214 0 1
+0 224 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8609,8 +8609,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h3 n
 0
 4
-0 224 0 1
 0 215 0 1
+0 224 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8619,8 +8619,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h3 n3
 0
 4
-0 224 0 1
 0 216 0 1
+0 224 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8629,8 +8629,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h3 o1
 0
 4
-0 224 0 1
 0 217 0 1
+0 224 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8639,8 +8639,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h3 o10
 0
 4
-0 224 0 1
 0 218 0 1
+0 224 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8649,8 +8649,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h3 o9
 0
 4
-0 224 0 1
 0 219 0 1
+0 224 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8659,8 +8659,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h4 br1
 0
 4
-0 225 0 1
 0 211 0 1
+0 225 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8669,8 +8669,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h4 br2
 0
 4
-0 225 0 1
 0 212 0 1
+0 225 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8679,8 +8679,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h4 cl1
 0
 4
-0 225 0 1
 0 213 0 1
+0 225 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8689,8 +8689,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h4 cl2
 0
 4
-0 225 0 1
 0 214 0 1
+0 225 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8789,8 +8789,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h4 n
 0
 4
-0 225 0 1
 0 215 0 1
+0 225 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8799,8 +8799,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h4 n3
 0
 4
-0 225 0 1
 0 216 0 1
+0 225 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8809,8 +8809,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h4 o1
 0
 4
-0 225 0 1
 0 217 0 1
+0 225 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8819,8 +8819,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h4 o10
 0
 4
-0 225 0 1
 0 218 0 1
+0 225 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8829,8 +8829,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h4 o9
 0
 4
-0 225 0 1
 0 219 0 1
+0 225 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8839,8 +8839,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h5 br1
 0
 4
-0 226 0 1
 0 211 0 1
+0 226 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8849,8 +8849,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h5 br2
 0
 4
-0 226 0 1
 0 212 0 1
+0 226 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8859,8 +8859,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h5 cl1
 0
 4
-0 226 0 1
 0 213 0 1
+0 226 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8869,8 +8869,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h5 cl2
 0
 4
-0 226 0 1
 0 214 0 1
+0 226 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8969,8 +8969,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h5 n
 0
 4
-0 226 0 1
 0 215 0 1
+0 226 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8979,8 +8979,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h5 n3
 0
 4
-0 226 0 1
 0 216 0 1
+0 226 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8989,8 +8989,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h5 o1
 0
 4
-0 226 0 1
 0 217 0 1
+0 226 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -8999,8 +8999,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h5 o10
 0
 4
-0 226 0 1
 0 218 0 1
+0 226 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -9009,8 +9009,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h5 o9
 0
 4
-0 226 0 1
 0 219 0 1
+0 226 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -9019,8 +9019,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h6 br1
 0
 4
-0 227 0 1
 0 211 0 1
+0 227 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -9029,8 +9029,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h6 br2
 0
 4
-0 227 0 1
 0 212 0 1
+0 227 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -9039,8 +9039,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h6 cl1
 0
 4
-0 227 0 1
 0 213 0 1
+0 227 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -9049,8 +9049,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h6 cl2
 0
 4
-0 227 0 1
 0 214 0 1
+0 227 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -9149,8 +9149,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h6 n
 0
 4
-0 227 0 1
 0 215 0 1
+0 227 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -9159,8 +9159,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h6 n3
 0
 4
-0 227 0 1
 0 216 0 1
+0 227 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -9169,8 +9169,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h6 o1
 0
 4
-0 227 0 1
 0 217 0 1
+0 227 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -9179,8 +9179,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h6 o10
 0
 4
-0 227 0 1
 0 218 0 1
+0 227 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -9189,8 +9189,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h6 o9
 0
 4
-0 227 0 1
 0 219 0 1
+0 227 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -9199,8 +9199,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h7 br1
 0
 4
-0 228 0 1
 0 211 0 1
+0 228 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -9209,8 +9209,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h7 br2
 0
 4
-0 228 0 1
 0 212 0 1
+0 228 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -9219,8 +9219,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h7 cl1
 0
 4
-0 228 0 1
 0 213 0 1
+0 228 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -9229,8 +9229,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h7 cl2
 0
 4
-0 228 0 1
 0 214 0 1
+0 228 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -9329,8 +9329,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h7 n
 0
 4
-0 228 0 1
 0 215 0 1
+0 228 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -9339,8 +9339,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h7 n3
 0
 4
-0 228 0 1
 0 216 0 1
+0 228 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -9349,8 +9349,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h7 o1
 0
 4
-0 228 0 1
 0 217 0 1
+0 228 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -9359,8 +9359,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h7 o10
 0
 4
-0 228 0 1
 0 218 0 1
+0 228 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -9369,8 +9369,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h7 o9
 0
 4
-0 228 0 1
 0 219 0 1
+0 228 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -9379,8 +9379,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h8 br1
 0
 4
-0 229 0 1
 0 211 0 1
+0 229 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -9389,8 +9389,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h8 br2
 0
 4
-0 229 0 1
 0 212 0 1
+0 229 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -9399,8 +9399,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h8 cl1
 0
 4
-0 229 0 1
 0 213 0 1
+0 229 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -9409,8 +9409,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h8 cl2
 0
 4
-0 229 0 1
 0 214 0 1
+0 229 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -9509,8 +9509,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h8 n
 0
 4
-0 229 0 1
 0 215 0 1
+0 229 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -9519,8 +9519,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h8 n3
 0
 4
-0 229 0 1
 0 216 0 1
+0 229 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -9529,8 +9529,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h8 o1
 0
 4
-0 229 0 1
 0 217 0 1
+0 229 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -9539,8 +9539,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h8 o10
 0
 4
-0 229 0 1
 0 218 0 1
+0 229 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -9549,8 +9549,8 @@ begin_operator
 hydrationofaldehydesandketones_3 h8 o9
 0
 4
-0 229 0 1
 0 219 0 1
+0 229 0 1
 0 248 0 1
 0 253 -1 0
 13
@@ -10839,9 +10839,9 @@ begin_operator
 hydroxylsubstitutionofdiazoniumionsn1_1 n n2
 0
 3
-0 189 -1 0
-0 66 -1 0
 0 57 0 1
+0 66 -1 0
+0 189 -1 0
 18
 end_operator
 begin_operator
@@ -10849,9 +10849,9 @@ hydroxylsubstitutionofdiazoniumionsn1_1 n n3
 1
 6 0
 3
-0 189 -1 0
-0 66 -1 0
 0 57 0 1
+0 66 -1 0
+0 189 -1 0
 18
 end_operator
 begin_operator
@@ -10859,18 +10859,18 @@ hydroxylsubstitutionofdiazoniumionsn1_1 n n4
 1
 8 0
 3
-0 189 -1 0
-0 66 -1 0
 0 57 0 1
+0 66 -1 0
+0 189 -1 0
 18
 end_operator
 begin_operator
 hydroxylsubstitutionofdiazoniumionsn1_1 n2 n
 0
 3
-0 188 -1 0
-0 66 -1 0
 0 57 0 1
+0 66 -1 0
+0 188 -1 0
 18
 end_operator
 begin_operator
@@ -10878,9 +10878,9 @@ hydroxylsubstitutionofdiazoniumionsn1_1 n2 n3
 1
 7 0
 3
-0 188 -1 0
-0 66 -1 0
 0 57 0 1
+0 66 -1 0
+0 188 -1 0
 18
 end_operator
 begin_operator
@@ -10888,9 +10888,9 @@ hydroxylsubstitutionofdiazoniumionsn1_1 n2 n4
 1
 9 0
 3
-0 188 -1 0
-0 66 -1 0
 0 57 0 1
+0 66 -1 0
+0 188 -1 0
 18
 end_operator
 begin_operator
@@ -10898,9 +10898,9 @@ hydroxylsubstitutionofdiazoniumionsn1_1 n3 n
 1
 2 0
 3
-0 187 -1 0
-0 66 -1 0
 0 57 0 1
+0 66 -1 0
+0 187 -1 0
 18
 end_operator
 begin_operator
@@ -10908,18 +10908,18 @@ hydroxylsubstitutionofdiazoniumionsn1_1 n3 n2
 1
 4 0
 3
-0 187 -1 0
-0 66 -1 0
 0 57 0 1
+0 66 -1 0
+0 187 -1 0
 18
 end_operator
 begin_operator
 hydroxylsubstitutionofdiazoniumionsn1_1 n3 n4
 0
 3
-0 187 -1 0
-0 66 -1 0
 0 57 0 1
+0 66 -1 0
+0 187 -1 0
 18
 end_operator
 begin_operator
@@ -10927,9 +10927,9 @@ hydroxylsubstitutionofdiazoniumionsn1_1 n4 n
 1
 3 0
 3
-0 186 -1 0
-0 66 -1 0
 0 57 0 1
+0 66 -1 0
+0 186 -1 0
 18
 end_operator
 begin_operator
@@ -10937,978 +10937,978 @@ hydroxylsubstitutionofdiazoniumionsn1_1 n4 n2
 1
 5 0
 3
-0 186 -1 0
-0 66 -1 0
 0 57 0 1
+0 66 -1 0
+0 186 -1 0
 18
 end_operator
 begin_operator
 hydroxylsubstitutionofdiazoniumionsn1_1 n4 n3
 0
 3
-0 186 -1 0
-0 66 -1 0
 0 57 0 1
+0 66 -1 0
+0 186 -1 0
 18
 end_operator
 begin_operator
 imineformation_1 h12 h13
 0
 4
-0 109 -1 0
-0 80 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 80 -1 0
+0 109 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h12 h14
 0
 4
-0 109 -1 0
-0 79 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 79 -1 0
+0 109 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h12 h15
 0
 4
-0 109 -1 0
-0 78 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 78 -1 0
+0 109 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h12 h3
 0
 4
-0 109 -1 0
-0 77 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 77 -1 0
+0 109 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h12 h4
 0
 4
-0 109 -1 0
-0 76 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 76 -1 0
+0 109 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h12 h5
 0
 4
-0 109 -1 0
-0 75 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 75 -1 0
+0 109 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h12 h6
 0
 4
-0 109 -1 0
-0 74 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 74 -1 0
+0 109 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h12 h7
 0
 4
-0 109 -1 0
-0 73 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 73 -1 0
+0 109 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h12 h8
 0
 4
-0 109 -1 0
-0 72 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 72 -1 0
+0 109 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h13 h12
 0
 4
-0 108 -1 0
-0 81 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 81 -1 0
+0 108 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h13 h14
 0
 4
-0 108 -1 0
-0 79 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 79 -1 0
+0 108 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h13 h15
 0
 4
-0 108 -1 0
-0 78 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 78 -1 0
+0 108 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h13 h3
 0
 4
-0 108 -1 0
-0 77 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 77 -1 0
+0 108 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h13 h4
 0
 4
-0 108 -1 0
-0 76 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 76 -1 0
+0 108 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h13 h5
 0
 4
-0 108 -1 0
-0 75 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 75 -1 0
+0 108 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h13 h6
 0
 4
-0 108 -1 0
-0 74 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 74 -1 0
+0 108 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h13 h7
 0
 4
-0 108 -1 0
-0 73 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 73 -1 0
+0 108 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h13 h8
 0
 4
-0 108 -1 0
-0 72 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 72 -1 0
+0 108 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h14 h12
 0
 4
-0 107 -1 0
-0 81 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 81 -1 0
+0 107 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h14 h13
 0
 4
-0 107 -1 0
-0 80 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 80 -1 0
+0 107 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h14 h15
 0
 4
-0 107 -1 0
-0 78 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 78 -1 0
+0 107 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h14 h3
 0
 4
-0 107 -1 0
-0 77 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 77 -1 0
+0 107 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h14 h4
 0
 4
-0 107 -1 0
-0 76 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 76 -1 0
+0 107 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h14 h5
 0
 4
-0 107 -1 0
-0 75 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 75 -1 0
+0 107 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h14 h6
 0
 4
-0 107 -1 0
-0 74 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 74 -1 0
+0 107 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h14 h7
 0
 4
-0 107 -1 0
-0 73 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 73 -1 0
+0 107 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h14 h8
 0
 4
-0 107 -1 0
-0 72 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 72 -1 0
+0 107 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h15 h12
 0
 4
-0 106 -1 0
-0 81 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 81 -1 0
+0 106 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h15 h13
 0
 4
-0 106 -1 0
-0 80 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 80 -1 0
+0 106 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h15 h14
 0
 4
-0 106 -1 0
-0 79 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 79 -1 0
+0 106 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h15 h3
 0
 4
-0 106 -1 0
-0 77 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 77 -1 0
+0 106 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h15 h4
 0
 4
-0 106 -1 0
-0 76 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 76 -1 0
+0 106 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h15 h5
 0
 4
-0 106 -1 0
-0 75 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 75 -1 0
+0 106 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h15 h6
 0
 4
-0 106 -1 0
-0 74 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 74 -1 0
+0 106 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h15 h7
 0
 4
-0 106 -1 0
-0 73 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 73 -1 0
+0 106 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h15 h8
 0
 4
-0 106 -1 0
-0 72 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 72 -1 0
+0 106 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h3 h12
 0
 4
-0 105 -1 0
-0 81 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 81 -1 0
+0 105 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h3 h13
 0
 4
-0 105 -1 0
-0 80 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 80 -1 0
+0 105 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h3 h14
 0
 4
-0 105 -1 0
-0 79 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 79 -1 0
+0 105 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h3 h15
 0
 4
-0 105 -1 0
-0 78 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 78 -1 0
+0 105 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h3 h4
 0
 4
-0 105 -1 0
-0 76 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 76 -1 0
+0 105 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h3 h5
 0
 4
-0 105 -1 0
-0 75 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 75 -1 0
+0 105 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h3 h6
 0
 4
-0 105 -1 0
-0 74 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 74 -1 0
+0 105 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h3 h7
 0
 4
-0 105 -1 0
-0 73 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 73 -1 0
+0 105 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h3 h8
 0
 4
-0 105 -1 0
-0 72 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 72 -1 0
+0 105 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h4 h12
 0
 4
-0 104 -1 0
-0 81 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 81 -1 0
+0 104 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h4 h13
 0
 4
-0 104 -1 0
-0 80 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 80 -1 0
+0 104 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h4 h14
 0
 4
-0 104 -1 0
-0 79 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 79 -1 0
+0 104 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h4 h15
 0
 4
-0 104 -1 0
-0 78 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 78 -1 0
+0 104 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h4 h3
 0
 4
-0 104 -1 0
-0 77 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 77 -1 0
+0 104 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h4 h5
 0
 4
-0 104 -1 0
-0 75 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 75 -1 0
+0 104 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h4 h6
 0
 4
-0 104 -1 0
-0 74 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 74 -1 0
+0 104 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h4 h7
 0
 4
-0 104 -1 0
-0 73 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 73 -1 0
+0 104 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h4 h8
 0
 4
-0 104 -1 0
-0 72 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 72 -1 0
+0 104 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h5 h12
 0
 4
-0 103 -1 0
-0 81 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 81 -1 0
+0 103 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h5 h13
 0
 4
-0 103 -1 0
-0 80 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 80 -1 0
+0 103 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h5 h14
 0
 4
-0 103 -1 0
-0 79 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 79 -1 0
+0 103 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h5 h15
 0
 4
-0 103 -1 0
-0 78 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 78 -1 0
+0 103 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h5 h3
 0
 4
-0 103 -1 0
-0 77 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 77 -1 0
+0 103 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h5 h4
 0
 4
-0 103 -1 0
-0 76 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 76 -1 0
+0 103 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h5 h6
 0
 4
-0 103 -1 0
-0 74 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 74 -1 0
+0 103 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h5 h7
 0
 4
-0 103 -1 0
-0 73 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 73 -1 0
+0 103 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h5 h8
 0
 4
-0 103 -1 0
-0 72 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 72 -1 0
+0 103 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h6 h12
 0
 4
-0 102 -1 0
-0 81 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 81 -1 0
+0 102 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h6 h13
 0
 4
-0 102 -1 0
-0 80 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 80 -1 0
+0 102 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h6 h14
 0
 4
-0 102 -1 0
-0 79 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 79 -1 0
+0 102 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h6 h15
 0
 4
-0 102 -1 0
-0 78 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 78 -1 0
+0 102 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h6 h3
 0
 4
-0 102 -1 0
-0 77 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 77 -1 0
+0 102 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h6 h4
 0
 4
-0 102 -1 0
-0 76 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 76 -1 0
+0 102 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h6 h5
 0
 4
-0 102 -1 0
-0 75 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 75 -1 0
+0 102 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h6 h7
 0
 4
-0 102 -1 0
-0 73 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 73 -1 0
+0 102 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h6 h8
 0
 4
-0 102 -1 0
-0 72 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 72 -1 0
+0 102 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h7 h12
 0
 4
-0 101 -1 0
-0 81 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 81 -1 0
+0 101 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h7 h13
 0
 4
-0 101 -1 0
-0 80 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 80 -1 0
+0 101 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h7 h14
 0
 4
-0 101 -1 0
-0 79 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 79 -1 0
+0 101 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h7 h15
 0
 4
-0 101 -1 0
-0 78 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 78 -1 0
+0 101 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h7 h3
 0
 4
-0 101 -1 0
-0 77 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 77 -1 0
+0 101 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h7 h4
 0
 4
-0 101 -1 0
-0 76 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 76 -1 0
+0 101 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h7 h5
 0
 4
-0 101 -1 0
-0 75 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 75 -1 0
+0 101 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h7 h6
 0
 4
-0 101 -1 0
-0 74 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 74 -1 0
+0 101 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h7 h8
 0
 4
-0 101 -1 0
-0 72 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 72 -1 0
+0 101 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h8 h12
 0
 4
-0 100 -1 0
-0 81 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 81 -1 0
+0 100 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h8 h13
 0
 4
-0 100 -1 0
-0 80 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 80 -1 0
+0 100 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h8 h14
 0
 4
-0 100 -1 0
-0 79 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 79 -1 0
+0 100 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h8 h15
 0
 4
-0 100 -1 0
-0 78 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 78 -1 0
+0 100 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h8 h3
 0
 4
-0 100 -1 0
-0 77 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 77 -1 0
+0 100 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h8 h4
 0
 4
-0 100 -1 0
-0 76 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 76 -1 0
+0 100 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h8 h5
 0
 4
-0 100 -1 0
-0 75 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 75 -1 0
+0 100 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h8 h6
 0
 4
-0 100 -1 0
-0 74 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 74 -1 0
+0 100 -1 0
 11
 end_operator
 begin_operator
 imineformation_1 h8 h7
 0
 4
-0 100 -1 0
-0 73 -1 0
-0 65 -1 0
 0 57 0 1
+0 65 -1 0
+0 73 -1 0
+0 100 -1 0
 11
 end_operator
 begin_operator
 lahreductionofanhydrides_1 o1 o10
 0
 4
-0 70 -1 0
-0 207 -1 0
-0 71 -1 0
 0 57 0 1
+0 70 -1 0
+0 71 -1 0
+0 207 -1 0
 3
 end_operator
 begin_operator
 lahreductionofanhydrides_1 o1 o9
 0
 4
-0 70 -1 0
-0 208 -1 0
-0 71 -1 0
 0 57 0 1
+0 70 -1 0
+0 71 -1 0
+0 208 -1 0
 3
 end_operator
 begin_operator
 lahreductionofanhydrides_1 o10 o1
 0
 4
-0 69 -1 0
-0 206 -1 0
-0 71 -1 0
 0 57 0 1
+0 69 -1 0
+0 71 -1 0
+0 206 -1 0
 3
 end_operator
 begin_operator
 lahreductionofanhydrides_1 o10 o9
 0
 4
-0 69 -1 0
-0 208 -1 0
-0 71 -1 0
 0 57 0 1
+0 69 -1 0
+0 71 -1 0
+0 208 -1 0
 3
 end_operator
 begin_operator
 lahreductionofanhydrides_1 o9 o1
 0
 4
-0 68 -1 0
-0 206 -1 0
-0 71 -1 0
 0 57 0 1
+0 68 -1 0
+0 71 -1 0
+0 206 -1 0
 3
 end_operator
 begin_operator
 lahreductionofanhydrides_1 o9 o10
 0
 4
-0 68 -1 0
-0 207 -1 0
-0 71 -1 0
 0 57 0 1
+0 68 -1 0
+0 71 -1 0
+0 207 -1 0
 3
 end_operator
 begin_operator
@@ -11916,8 +11916,8 @@ lahreductionofanhydrides_2 o1 o10
 1
 70 0
 3
-0 181 -1 0
 0 71 0 1
+0 181 -1 0
 0 251 -1 0
 3
 end_operator
@@ -11926,8 +11926,8 @@ lahreductionofanhydrides_2 o1 o9
 1
 70 0
 3
-0 180 -1 0
 0 71 0 1
+0 180 -1 0
 0 251 -1 0
 3
 end_operator
@@ -11936,8 +11936,8 @@ lahreductionofanhydrides_2 o10 o1
 1
 69 0
 3
-0 182 -1 0
 0 71 0 1
+0 182 -1 0
 0 251 -1 0
 3
 end_operator
@@ -11946,8 +11946,8 @@ lahreductionofanhydrides_2 o10 o9
 1
 69 0
 3
-0 180 -1 0
 0 71 0 1
+0 180 -1 0
 0 251 -1 0
 3
 end_operator
@@ -11956,8 +11956,8 @@ lahreductionofanhydrides_2 o9 o1
 1
 68 0
 3
-0 182 -1 0
 0 71 0 1
+0 182 -1 0
 0 251 -1 0
 3
 end_operator
@@ -11966,8 +11966,8 @@ lahreductionofanhydrides_2 o9 o10
 1
 68 0
 3
-0 181 -1 0
 0 71 0 1
+0 181 -1 0
 0 251 -1 0
 3
 end_operator
@@ -12036,8 +12036,8 @@ nitrilesubstitutionofdiazoniumionsn1_1 n n2
 0
 3
 0 45 -1 0
-0 64 -1 0
 0 57 0 1
+0 64 -1 0
 21
 end_operator
 begin_operator
@@ -12046,8 +12046,8 @@ nitrilesubstitutionofdiazoniumionsn1_1 n n3
 6 0
 3
 0 45 -1 0
-0 64 -1 0
 0 57 0 1
+0 64 -1 0
 21
 end_operator
 begin_operator
@@ -12056,8 +12056,8 @@ nitrilesubstitutionofdiazoniumionsn1_1 n n4
 8 0
 3
 0 45 -1 0
-0 64 -1 0
 0 57 0 1
+0 64 -1 0
 21
 end_operator
 begin_operator
@@ -12065,8 +12065,8 @@ nitrilesubstitutionofdiazoniumionsn1_1 n2 n
 0
 3
 0 47 -1 0
-0 64 -1 0
 0 57 0 1
+0 64 -1 0
 21
 end_operator
 begin_operator
@@ -12075,8 +12075,8 @@ nitrilesubstitutionofdiazoniumionsn1_1 n2 n3
 7 0
 3
 0 47 -1 0
-0 64 -1 0
 0 57 0 1
+0 64 -1 0
 21
 end_operator
 begin_operator
@@ -12085,8 +12085,8 @@ nitrilesubstitutionofdiazoniumionsn1_1 n2 n4
 9 0
 3
 0 47 -1 0
-0 64 -1 0
 0 57 0 1
+0 64 -1 0
 21
 end_operator
 begin_operator
@@ -12095,8 +12095,8 @@ nitrilesubstitutionofdiazoniumionsn1_1 n3 n
 2 0
 3
 0 50 -1 0
-0 64 -1 0
 0 57 0 1
+0 64 -1 0
 21
 end_operator
 begin_operator
@@ -12105,8 +12105,8 @@ nitrilesubstitutionofdiazoniumionsn1_1 n3 n2
 4 0
 3
 0 50 -1 0
-0 64 -1 0
 0 57 0 1
+0 64 -1 0
 21
 end_operator
 begin_operator
@@ -12114,8 +12114,8 @@ nitrilesubstitutionofdiazoniumionsn1_1 n3 n4
 0
 3
 0 50 -1 0
-0 64 -1 0
 0 57 0 1
+0 64 -1 0
 21
 end_operator
 begin_operator
@@ -12124,8 +12124,8 @@ nitrilesubstitutionofdiazoniumionsn1_1 n4 n
 3 0
 3
 0 51 -1 0
-0 64 -1 0
 0 57 0 1
+0 64 -1 0
 21
 end_operator
 begin_operator
@@ -12134,8 +12134,8 @@ nitrilesubstitutionofdiazoniumionsn1_1 n4 n2
 5 0
 3
 0 51 -1 0
-0 64 -1 0
 0 57 0 1
+0 64 -1 0
 21
 end_operator
 begin_operator
@@ -12143,128 +12143,128 @@ nitrilesubstitutionofdiazoniumionsn1_1 n4 n3
 0
 3
 0 51 -1 0
-0 64 -1 0
 0 57 0 1
+0 64 -1 0
 21
 end_operator
 begin_operator
 oxidationofalcoholswithpcc_1 c1 c2
 0
 4
-0 179 -1 0
+0 57 0 1
 0 143 -1 0
 0 145 -1 0
-0 57 0 1
+0 179 -1 0
 4
 end_operator
 begin_operator
 oxidationofalcoholswithpcc_1 c1 c6
 0
 4
-0 179 -1 0
+0 57 0 1
 0 139 -1 0
 0 145 -1 0
-0 57 0 1
+0 179 -1 0
 4
 end_operator
 begin_operator
 oxidationofalcoholswithpcc_1 c2 c1
 0
 4
-0 178 -1 0
+0 57 0 1
 0 144 -1 0
 0 145 -1 0
-0 57 0 1
+0 178 -1 0
 4
 end_operator
 begin_operator
 oxidationofalcoholswithpcc_1 c2 c3
 0
 4
-0 178 -1 0
+0 57 0 1
 0 142 -1 0
 0 145 -1 0
-0 57 0 1
+0 178 -1 0
 4
 end_operator
 begin_operator
 oxidationofalcoholswithpcc_1 c3 c2
 0
 4
-0 177 -1 0
+0 57 0 1
 0 143 -1 0
 0 145 -1 0
-0 57 0 1
+0 177 -1 0
 4
 end_operator
 begin_operator
 oxidationofalcoholswithpcc_1 c3 c4
 0
 4
-0 177 -1 0
+0 57 0 1
 0 141 -1 0
 0 145 -1 0
-0 57 0 1
+0 177 -1 0
 4
 end_operator
 begin_operator
 oxidationofalcoholswithpcc_1 c4 c3
 0
 4
-0 176 -1 0
+0 57 0 1
 0 142 -1 0
 0 145 -1 0
-0 57 0 1
+0 176 -1 0
 4
 end_operator
 begin_operator
 oxidationofalcoholswithpcc_1 c4 c5
 0
 4
-0 176 -1 0
+0 57 0 1
 0 140 -1 0
 0 145 -1 0
-0 57 0 1
+0 176 -1 0
 4
 end_operator
 begin_operator
 oxidationofalcoholswithpcc_1 c5 c4
 0
 4
-0 175 -1 0
+0 57 0 1
 0 141 -1 0
 0 145 -1 0
-0 57 0 1
+0 175 -1 0
 4
 end_operator
 begin_operator
 oxidationofalcoholswithpcc_1 c5 c6
 0
 4
-0 175 -1 0
+0 57 0 1
 0 139 -1 0
 0 145 -1 0
-0 57 0 1
+0 175 -1 0
 4
 end_operator
 begin_operator
 oxidationofalcoholswithpcc_1 c6 c1
 0
 4
-0 174 -1 0
+0 57 0 1
 0 144 -1 0
 0 145 -1 0
-0 57 0 1
+0 174 -1 0
 4
 end_operator
 begin_operator
 oxidationofalcoholswithpcc_1 c6 c5
 0
 4
-0 174 -1 0
+0 57 0 1
 0 140 -1 0
 0 145 -1 0
-0 57 0 1
+0 174 -1 0
 4
 end_operator
 begin_operator
@@ -12272,9 +12272,9 @@ oxidationofalcoholswithpcc_2 c1 c2
 1
 143 0
 3
-0 162 -1 0
 0 145 0 1
 0 146 -1 0
+0 162 -1 0
 4
 end_operator
 begin_operator
@@ -12282,9 +12282,9 @@ oxidationofalcoholswithpcc_2 c1 c6
 1
 139 0
 3
-0 162 -1 0
 0 145 0 1
 0 146 -1 0
+0 162 -1 0
 4
 end_operator
 begin_operator
@@ -12292,9 +12292,9 @@ oxidationofalcoholswithpcc_2 c2 c1
 1
 144 0
 3
-0 164 -1 0
 0 145 0 1
 0 146 -1 0
+0 164 -1 0
 4
 end_operator
 begin_operator
@@ -12302,9 +12302,9 @@ oxidationofalcoholswithpcc_2 c2 c3
 1
 142 0
 3
-0 164 -1 0
 0 145 0 1
 0 146 -1 0
+0 164 -1 0
 4
 end_operator
 begin_operator
@@ -12312,9 +12312,9 @@ oxidationofalcoholswithpcc_2 c3 c2
 1
 143 0
 3
-0 161 -1 0
 0 145 0 1
 0 146 -1 0
+0 161 -1 0
 4
 end_operator
 begin_operator
@@ -12322,9 +12322,9 @@ oxidationofalcoholswithpcc_2 c3 c4
 1
 141 0
 3
-0 161 -1 0
 0 145 0 1
 0 146 -1 0
+0 161 -1 0
 4
 end_operator
 begin_operator
@@ -12332,9 +12332,9 @@ oxidationofalcoholswithpcc_2 c4 c3
 1
 142 0
 3
-0 160 -1 0
 0 145 0 1
 0 146 -1 0
+0 160 -1 0
 4
 end_operator
 begin_operator
@@ -12342,9 +12342,9 @@ oxidationofalcoholswithpcc_2 c4 c5
 1
 140 0
 3
-0 160 -1 0
 0 145 0 1
 0 146 -1 0
+0 160 -1 0
 4
 end_operator
 begin_operator
@@ -12352,9 +12352,9 @@ oxidationofalcoholswithpcc_2 c5 c4
 1
 141 0
 3
-0 159 -1 0
 0 145 0 1
 0 146 -1 0
+0 159 -1 0
 4
 end_operator
 begin_operator
@@ -12362,9 +12362,9 @@ oxidationofalcoholswithpcc_2 c5 c6
 1
 139 0
 3
-0 159 -1 0
 0 145 0 1
 0 146 -1 0
+0 159 -1 0
 4
 end_operator
 begin_operator
@@ -12372,9 +12372,9 @@ oxidationofalcoholswithpcc_2 c6 c1
 1
 144 0
 3
-0 163 -1 0
 0 145 0 1
 0 146 -1 0
+0 163 -1 0
 4
 end_operator
 begin_operator
@@ -12382,18 +12382,18 @@ oxidationofalcoholswithpcc_2 c6 c5
 1
 140 0
 3
-0 163 -1 0
 0 145 0 1
 0 146 -1 0
+0 163 -1 0
 4
 end_operator
 begin_operator
 oxidationofalcoholswithpcc_3 c1 c2
 0
 4
-0 157 -1 0
-0 152 -1 0
 0 146 0 1
+0 152 -1 0
+0 157 -1 0
 0 165 -1 0
 4
 end_operator
@@ -12401,9 +12401,9 @@ begin_operator
 oxidationofalcoholswithpcc_3 c1 c6
 0
 4
-0 153 -1 0
-0 152 -1 0
 0 146 0 1
+0 152 -1 0
+0 153 -1 0
 0 165 -1 0
 4
 end_operator
@@ -12411,9 +12411,9 @@ begin_operator
 oxidationofalcoholswithpcc_3 c2 c1
 0
 4
-0 158 -1 0
-0 151 -1 0
 0 146 0 1
+0 151 -1 0
+0 158 -1 0
 0 165 -1 0
 4
 end_operator
@@ -12421,9 +12421,9 @@ begin_operator
 oxidationofalcoholswithpcc_3 c2 c3
 0
 4
-0 156 -1 0
-0 151 -1 0
 0 146 0 1
+0 151 -1 0
+0 156 -1 0
 0 165 -1 0
 4
 end_operator
@@ -12431,9 +12431,9 @@ begin_operator
 oxidationofalcoholswithpcc_3 c3 c2
 0
 4
-0 157 -1 0
-0 150 -1 0
 0 146 0 1
+0 150 -1 0
+0 157 -1 0
 0 165 -1 0
 4
 end_operator
@@ -12441,9 +12441,9 @@ begin_operator
 oxidationofalcoholswithpcc_3 c3 c4
 0
 4
-0 155 -1 0
-0 150 -1 0
 0 146 0 1
+0 150 -1 0
+0 155 -1 0
 0 165 -1 0
 4
 end_operator
@@ -12451,9 +12451,9 @@ begin_operator
 oxidationofalcoholswithpcc_3 c4 c3
 0
 4
-0 156 -1 0
-0 149 -1 0
 0 146 0 1
+0 149 -1 0
+0 156 -1 0
 0 165 -1 0
 4
 end_operator
@@ -12461,9 +12461,9 @@ begin_operator
 oxidationofalcoholswithpcc_3 c4 c5
 0
 4
-0 154 -1 0
-0 149 -1 0
 0 146 0 1
+0 149 -1 0
+0 154 -1 0
 0 165 -1 0
 4
 end_operator
@@ -12471,9 +12471,9 @@ begin_operator
 oxidationofalcoholswithpcc_3 c5 c4
 0
 4
-0 155 -1 0
-0 148 -1 0
 0 146 0 1
+0 148 -1 0
+0 155 -1 0
 0 165 -1 0
 4
 end_operator
@@ -12481,9 +12481,9 @@ begin_operator
 oxidationofalcoholswithpcc_3 c5 c6
 0
 4
-0 153 -1 0
-0 148 -1 0
 0 146 0 1
+0 148 -1 0
+0 153 -1 0
 0 165 -1 0
 4
 end_operator
@@ -12491,9 +12491,9 @@ begin_operator
 oxidationofalcoholswithpcc_3 c6 c1
 0
 4
-0 158 -1 0
-0 147 -1 0
 0 146 0 1
+0 147 -1 0
+0 158 -1 0
 0 165 -1 0
 4
 end_operator
@@ -12501,17 +12501,17 @@ begin_operator
 oxidationofalcoholswithpcc_3 c6 c5
 0
 4
-0 154 -1 0
-0 147 -1 0
 0 146 0 1
+0 147 -1 0
+0 154 -1 0
 0 165 -1 0
 4
 end_operator
 begin_operator
 oxidationofalcoholswithpcc_4 c1 c2
 2
-162 0
 157 0
+162 0
 2
 0 165 0 1
 0 166 -1 0
@@ -12520,8 +12520,8 @@ end_operator
 begin_operator
 oxidationofalcoholswithpcc_4 c1 c6
 2
-162 0
 153 0
+162 0
 2
 0 165 0 1
 0 166 -1 0
@@ -12530,8 +12530,8 @@ end_operator
 begin_operator
 oxidationofalcoholswithpcc_4 c2 c1
 2
-164 0
 158 0
+164 0
 2
 0 165 0 1
 0 166 -1 0
@@ -12540,8 +12540,8 @@ end_operator
 begin_operator
 oxidationofalcoholswithpcc_4 c2 c3
 2
-164 0
 156 0
+164 0
 2
 0 165 0 1
 0 166 -1 0
@@ -12550,8 +12550,8 @@ end_operator
 begin_operator
 oxidationofalcoholswithpcc_4 c3 c2
 2
-161 0
 157 0
+161 0
 2
 0 165 0 1
 0 166 -1 0
@@ -12560,8 +12560,8 @@ end_operator
 begin_operator
 oxidationofalcoholswithpcc_4 c3 c4
 2
-161 0
 155 0
+161 0
 2
 0 165 0 1
 0 166 -1 0
@@ -12570,8 +12570,8 @@ end_operator
 begin_operator
 oxidationofalcoholswithpcc_4 c4 c3
 2
-160 0
 156 0
+160 0
 2
 0 165 0 1
 0 166 -1 0
@@ -12580,8 +12580,8 @@ end_operator
 begin_operator
 oxidationofalcoholswithpcc_4 c4 c5
 2
-160 0
 154 0
+160 0
 2
 0 165 0 1
 0 166 -1 0
@@ -12590,8 +12590,8 @@ end_operator
 begin_operator
 oxidationofalcoholswithpcc_4 c5 c4
 2
-159 0
 155 0
+159 0
 2
 0 165 0 1
 0 166 -1 0
@@ -12600,8 +12600,8 @@ end_operator
 begin_operator
 oxidationofalcoholswithpcc_4 c5 c6
 2
-159 0
 153 0
+159 0
 2
 0 165 0 1
 0 166 -1 0
@@ -12610,8 +12610,8 @@ end_operator
 begin_operator
 oxidationofalcoholswithpcc_4 c6 c1
 2
-163 0
 158 0
+163 0
 2
 0 165 0 1
 0 166 -1 0
@@ -12620,8 +12620,8 @@ end_operator
 begin_operator
 oxidationofalcoholswithpcc_4 c6 c5
 2
-163 0
 154 0
+163 0
 2
 0 165 0 1
 0 166 -1 0
@@ -12631,160 +12631,160 @@ begin_operator
 oxidationofalcoholswithpcc_5 o1 o10
 0
 4
-0 185 -1 0
-0 169 -1 0
 0 166 0 1
 0 167 -1 0
+0 169 -1 0
+0 185 -1 0
 4
 end_operator
 begin_operator
 oxidationofalcoholswithpcc_5 o1 o9
 0
 4
-0 185 -1 0
-0 168 -1 0
 0 166 0 1
 0 167 -1 0
+0 168 -1 0
+0 185 -1 0
 4
 end_operator
 begin_operator
 oxidationofalcoholswithpcc_5 o10 o1
 0
 4
-0 184 -1 0
-0 170 -1 0
 0 166 0 1
 0 167 -1 0
+0 170 -1 0
+0 184 -1 0
 4
 end_operator
 begin_operator
 oxidationofalcoholswithpcc_5 o10 o9
 0
 4
-0 184 -1 0
-0 168 -1 0
 0 166 0 1
 0 167 -1 0
+0 168 -1 0
+0 184 -1 0
 4
 end_operator
 begin_operator
 oxidationofalcoholswithpcc_5 o9 o1
 0
 4
-0 183 -1 0
-0 170 -1 0
 0 166 0 1
 0 167 -1 0
+0 170 -1 0
+0 183 -1 0
 4
 end_operator
 begin_operator
 oxidationofalcoholswithpcc_5 o9 o10
 0
 4
-0 183 -1 0
-0 169 -1 0
 0 166 0 1
 0 167 -1 0
+0 169 -1 0
+0 183 -1 0
 4
 end_operator
 begin_operator
 oxidationofprimaryalcoholwithpotassiumpermanganate_1 c5 h3
 0
 4
+0 57 0 1
+0 63 -1 0
 0 232 -1 0
 0 241 -1 0
-0 63 -1 0
-0 57 0 1
 5
 end_operator
 begin_operator
 oxidationofprimaryalcoholwithpotassiumpermanganate_1 c7 h4
 0
 4
+0 57 0 1
+0 63 -1 0
 0 234 -1 0
 0 242 -1 0
-0 63 -1 0
-0 57 0 1
 5
 end_operator
 begin_operator
 oxidationofprimaryalcoholwithpotassiumpermanganate_1 c7 h5
 0
 4
+0 57 0 1
+0 63 -1 0
 0 234 -1 0
 0 243 -1 0
-0 63 -1 0
-0 57 0 1
 5
 end_operator
 begin_operator
 oxidationofprimaryalcoholwithpotassiumpermanganate_1 c7 h6
 0
 4
+0 57 0 1
+0 63 -1 0
 0 234 -1 0
 0 244 -1 0
-0 63 -1 0
-0 57 0 1
 5
 end_operator
 begin_operator
 oxidationofprimaryalcoholwithpotassiumpermanganate_1 c8 h12
 0
 4
-0 237 -1 0
-0 235 -1 0
-0 63 -1 0
 0 57 0 1
+0 63 -1 0
+0 235 -1 0
+0 237 -1 0
 5
 end_operator
 begin_operator
 oxidationofprimaryalcoholwithpotassiumpermanganate_1 c8 h7
 0
 4
+0 57 0 1
+0 63 -1 0
 0 237 -1 0
 0 246 -1 0
-0 63 -1 0
-0 57 0 1
 5
 end_operator
 begin_operator
 oxidationofprimaryalcoholwithpotassiumpermanganate_1 c8 h8
 0
 4
+0 57 0 1
+0 63 -1 0
 0 237 -1 0
 0 247 -1 0
-0 63 -1 0
-0 57 0 1
 5
 end_operator
 begin_operator
 oxidationofprimaryalcoholwithpotassiumpermanganate_1 c9 h13
 0
 4
-0 238 -1 0
-0 236 -1 0
-0 63 -1 0
 0 57 0 1
+0 63 -1 0
+0 236 -1 0
+0 238 -1 0
 5
 end_operator
 begin_operator
 oxidationofprimaryalcoholwithpotassiumpermanganate_1 c9 h14
 0
 4
+0 57 0 1
+0 63 -1 0
 0 238 -1 0
 0 239 -1 0
-0 63 -1 0
-0 57 0 1
 5
 end_operator
 begin_operator
 oxidationofprimaryalcoholwithpotassiumpermanganate_1 c9 h15
 0
 4
+0 57 0 1
+0 63 -1 0
 0 238 -1 0
 0 240 -1 0
-0 63 -1 0
-0 57 0 1
 5
 end_operator
 begin_operator
@@ -12823,10 +12823,10 @@ begin_operator
 sandmeyerreaction_1 n2 n
 0
 4
-0 125 -1 0
 0 45 -1 0
 0 52 -1 0
 0 57 0 1
+0 125 -1 0
 16
 end_operator
 begin_operator
@@ -12834,10 +12834,10 @@ sandmeyerreaction_1 n2 n3
 1
 7 0
 4
-0 125 -1 0
 0 50 -1 0
 0 52 -1 0
 0 57 0 1
+0 125 -1 0
 16
 end_operator
 begin_operator
@@ -12845,10 +12845,10 @@ sandmeyerreaction_1 n2 n4
 1
 9 0
 4
-0 125 -1 0
 0 51 -1 0
 0 52 -1 0
 0 57 0 1
+0 125 -1 0
 16
 end_operator
 begin_operator
@@ -12888,10 +12888,10 @@ sandmeyerreaction_1 n4 n
 1
 3 0
 4
-0 124 -1 0
 0 45 -1 0
 0 52 -1 0
 0 57 0 1
+0 124 -1 0
 16
 end_operator
 begin_operator
@@ -12899,42 +12899,42 @@ sandmeyerreaction_1 n4 n2
 1
 5 0
 4
-0 124 -1 0
 0 47 -1 0
 0 52 -1 0
 0 57 0 1
+0 124 -1 0
 16
 end_operator
 begin_operator
 sandmeyerreaction_1 n4 n3
 0
 4
-0 124 -1 0
 0 50 -1 0
 0 52 -1 0
 0 57 0 1
+0 124 -1 0
 16
 end_operator
 begin_operator
 sandmeyerreaction_2 cl1 n2
 2
-47 0
 10 0
+47 0
 3
+0 31 -1 0
 0 35 -1 0
 0 52 0 1
-0 31 -1 0
 16
 end_operator
 begin_operator
 sandmeyerreaction_2 cl2 n4
 2
-51 0
 13 0
+51 0
 3
+0 31 -1 0
 0 36 -1 0
 0 52 0 1
-0 31 -1 0
 16
 end_operator
 begin_operator
@@ -12942,10 +12942,10 @@ sandmeyerreaction_3 br1 cu1
 1
 11 0
 4
-0 42 -1 0
-0 33 -1 0
 0 31 0 1
 0 32 -1 0
+0 33 -1 0
+0 42 -1 0
 16
 end_operator
 begin_operator
@@ -12953,10 +12953,10 @@ sandmeyerreaction_3 br2 cu2
 1
 12 0
 4
-0 43 -1 0
-0 34 -1 0
 0 31 0 1
 0 32 -1 0
+0 34 -1 0
+0 43 -1 0
 16
 end_operator
 begin_operator
@@ -12964,10 +12964,10 @@ sandmeyerreaction_3 cl1 cu1
 1
 29 0
 4
-0 38 -1 0
-0 33 -1 0
 0 31 0 1
 0 32 -1 0
+0 33 -1 0
+0 38 -1 0
 16
 end_operator
 begin_operator
@@ -12975,10 +12975,10 @@ sandmeyerreaction_3 cl1 cu2
 1
 30 0
 4
-0 38 -1 0
-0 34 -1 0
 0 31 0 1
 0 32 -1 0
+0 34 -1 0
+0 38 -1 0
 16
 end_operator
 begin_operator
@@ -12986,10 +12986,10 @@ sandmeyerreaction_3 cl2 cu1
 1
 28 0
 4
-0 39 -1 0
-0 33 -1 0
 0 31 0 1
 0 32 -1 0
+0 33 -1 0
+0 39 -1 0
 16
 end_operator
 begin_operator
@@ -12997,34 +12997,34 @@ sandmeyerreaction_3 cl2 cu2
 1
 37 0
 4
-0 39 -1 0
-0 34 -1 0
 0 31 0 1
 0 32 -1 0
+0 34 -1 0
+0 39 -1 0
 16
 end_operator
 begin_operator
 sandmeyerreaction_4 n c1
 0
 6
-0 21 0 1
-0 40 -1 0
-0 127 -1 1
 0 0 0 1
+0 21 0 1
 0 32 0 1
+0 40 -1 0
 0 46 -1 0
+0 127 -1 1
 16
 end_operator
 begin_operator
 sandmeyerreaction_4 n3 c3
 0
 6
-0 20 0 1
-0 41 -1 0
-0 126 -1 1
 0 1 0 1
+0 20 0 1
 0 32 0 1
+0 41 -1 0
 0 46 -1 0
+0 126 -1 1
 16
 end_operator
 begin_operator
@@ -13042,11 +13042,11 @@ sandmeyerreaction_5 cl1 n2
 1
 35 0
 5
-0 47 0 1
 0 10 -1 1
-0 58 -1 1
 0 46 0 1
+0 47 0 1
 0 48 -1 0
+0 58 -1 1
 16
 end_operator
 begin_operator
@@ -13054,9 +13054,9 @@ sandmeyerreaction_5 cl1 n3
 1
 35 0
 3
-0 50 0 1
 0 46 0 1
 0 48 -1 0
+0 50 0 1
 16
 end_operator
 begin_operator
@@ -13064,9 +13064,9 @@ sandmeyerreaction_5 cl1 n4
 1
 35 0
 3
-0 51 0 1
 0 46 0 1
 0 48 -1 0
+0 51 0 1
 16
 end_operator
 begin_operator
@@ -13084,8 +13084,8 @@ sandmeyerreaction_5 cl2 n2
 1
 36 0
 3
-0 47 0 1
 0 46 0 1
+0 47 0 1
 0 48 -1 0
 16
 end_operator
@@ -13094,9 +13094,9 @@ sandmeyerreaction_5 cl2 n3
 1
 36 0
 3
-0 50 0 1
 0 46 0 1
 0 48 -1 0
+0 50 0 1
 16
 end_operator
 begin_operator
@@ -13104,30 +13104,30 @@ sandmeyerreaction_5 cl2 n4
 1
 36 0
 5
-0 51 0 1
 0 13 -1 1
-0 85 -1 1
 0 46 0 1
 0 48 -1 0
+0 51 0 1
+0 85 -1 1
 16
 end_operator
 begin_operator
 sandmeyerreaction_6 br1 cu1
 2
-42 0
 33 0
+42 0
 4
 0 11 -1 1
-0 110 -1 1
 0 48 0 1
 0 49 -1 0
+0 110 -1 1
 16
 end_operator
 begin_operator
 sandmeyerreaction_6 br1 cu2
 2
-42 0
 34 0
+42 0
 2
 0 48 0 1
 0 49 -1 0
@@ -13136,8 +13136,8 @@ end_operator
 begin_operator
 sandmeyerreaction_6 br2 cu1
 2
-43 0
 33 0
+43 0
 2
 0 48 0 1
 0 49 -1 0
@@ -13146,120 +13146,120 @@ end_operator
 begin_operator
 sandmeyerreaction_6 br2 cu2
 2
-43 0
 34 0
+43 0
 4
 0 12 -1 1
-0 115 -1 1
 0 48 0 1
 0 49 -1 0
+0 115 -1 1
 16
 end_operator
 begin_operator
 sandmeyerreaction_6 cl1 cu1
 2
-38 0
 33 0
+38 0
 4
 0 29 -1 1
-0 112 -1 1
 0 48 0 1
 0 49 -1 0
+0 112 -1 1
 16
 end_operator
 begin_operator
 sandmeyerreaction_6 cl1 cu2
 2
-38 0
 34 0
+38 0
 4
 0 30 -1 1
-0 114 -1 1
 0 48 0 1
 0 49 -1 0
+0 114 -1 1
 16
 end_operator
 begin_operator
 sandmeyerreaction_6 cl2 cu1
 2
-39 0
 33 0
+39 0
 4
 0 28 -1 1
-0 111 -1 1
 0 48 0 1
 0 49 -1 0
+0 111 -1 1
 16
 end_operator
 begin_operator
 sandmeyerreaction_6 cl2 cu2
 2
-39 0
 34 0
+39 0
 4
 0 37 -1 1
-0 113 -1 1
 0 48 0 1
 0 49 -1 0
+0 113 -1 1
 16
 end_operator
 begin_operator
 sandmeyerreaction_7 cl1 cu1
 0
 6
-0 35 0 1
-0 33 0 1
 0 29 -1 0
-0 112 -1 0
-0 49 0 1
+0 33 0 1
+0 35 0 1
 0 44 -1 0
+0 49 0 1
+0 112 -1 0
 15
 end_operator
 begin_operator
 sandmeyerreaction_7 cl1 cu2
 0
 6
-0 35 0 1
-0 34 0 1
 0 30 -1 0
-0 114 -1 0
-0 49 0 1
+0 34 0 1
+0 35 0 1
 0 44 -1 0
+0 49 0 1
+0 114 -1 0
 15
 end_operator
 begin_operator
 sandmeyerreaction_7 cl2 cu1
 0
 6
-0 36 0 1
-0 33 0 1
 0 28 -1 0
-0 111 -1 0
-0 49 0 1
+0 33 0 1
+0 36 0 1
 0 44 -1 0
+0 49 0 1
+0 111 -1 0
 15
 end_operator
 begin_operator
 sandmeyerreaction_7 cl2 cu2
 0
 6
-0 36 0 1
 0 34 0 1
+0 36 0 1
 0 37 -1 0
-0 113 -1 0
-0 49 0 1
 0 44 -1 0
+0 49 0 1
+0 113 -1 0
 15
 end_operator
 begin_operator
 sandmeyerreaction_8 br1 c1
 0
 6
-0 42 0 1
 0 40 0 1
-0 55 -1 0
-0 53 -1 0
+0 42 0 1
 0 44 0 1
+0 53 -1 0
+0 55 -1 0
 0 57 -1 0
 15
 end_operator
@@ -13267,10 +13267,10 @@ begin_operator
 sandmeyerreaction_8 br1 c3
 0
 6
-0 42 0 1
-0 41 0 1
-0 26 -1 0
 0 18 -1 0
+0 26 -1 0
+0 41 0 1
+0 42 0 1
 0 44 0 1
 0 57 -1 0
 15
@@ -13279,10 +13279,10 @@ begin_operator
 sandmeyerreaction_8 br2 c1
 0
 6
-0 43 0 1
-0 40 0 1
-0 25 -1 0
 0 17 -1 0
+0 25 -1 0
+0 40 0 1
+0 43 0 1
 0 44 0 1
 0 57 -1 0
 15
@@ -13291,11 +13291,11 @@ begin_operator
 sandmeyerreaction_8 br2 c3
 0
 6
-0 43 0 1
 0 41 0 1
-0 56 -1 0
-0 54 -1 0
+0 43 0 1
 0 44 0 1
+0 54 -1 0
+0 56 -1 0
 0 57 -1 0
 15
 end_operator
@@ -13303,10 +13303,10 @@ begin_operator
 sandmeyerreaction_8 cl1 c1
 0
 6
-0 38 0 1
-0 40 0 1
 0 14 -1 0
 0 22 -1 0
+0 38 0 1
+0 40 0 1
 0 44 0 1
 0 57 -1 0
 15
@@ -13315,10 +13315,10 @@ begin_operator
 sandmeyerreaction_8 cl1 c3
 0
 6
-0 38 0 1
-0 41 0 1
 0 19 -1 0
 0 27 -1 0
+0 38 0 1
+0 41 0 1
 0 44 0 1
 0 57 -1 0
 15
@@ -13327,10 +13327,10 @@ begin_operator
 sandmeyerreaction_8 cl2 c1
 0
 6
-0 39 0 1
-0 40 0 1
 0 15 -1 0
 0 23 -1 0
+0 39 0 1
+0 40 0 1
 0 44 0 1
 0 57 -1 0
 15
@@ -13339,10 +13339,10 @@ begin_operator
 sandmeyerreaction_8 cl2 c3
 0
 6
-0 39 0 1
-0 41 0 1
 0 16 -1 0
 0 24 -1 0
+0 39 0 1
+0 41 0 1
 0 44 0 1
 0 57 -1 0
 15
@@ -13351,228 +13351,228 @@ begin_operator
 sodiumdichromateoxidationofprimaryalcohol_1 o1 o10
 0
 4
-0 182 -1 0
-0 137 -1 0
-0 62 -1 0
 0 57 0 1
+0 62 -1 0
+0 137 -1 0
+0 182 -1 0
 1
 end_operator
 begin_operator
 sodiumdichromateoxidationofprimaryalcohol_1 o1 o9
 0
 4
-0 182 -1 0
-0 136 -1 0
-0 62 -1 0
 0 57 0 1
+0 62 -1 0
+0 136 -1 0
+0 182 -1 0
 1
 end_operator
 begin_operator
 sodiumdichromateoxidationofprimaryalcohol_1 o10 o1
 0
 4
-0 181 -1 0
-0 138 -1 0
-0 62 -1 0
 0 57 0 1
+0 62 -1 0
+0 138 -1 0
+0 181 -1 0
 1
 end_operator
 begin_operator
 sodiumdichromateoxidationofprimaryalcohol_1 o10 o9
 0
 4
-0 181 -1 0
-0 136 -1 0
-0 62 -1 0
 0 57 0 1
+0 62 -1 0
+0 136 -1 0
+0 181 -1 0
 1
 end_operator
 begin_operator
 sodiumdichromateoxidationofprimaryalcohol_1 o9 o1
 0
 4
-0 180 -1 0
-0 138 -1 0
-0 62 -1 0
 0 57 0 1
+0 62 -1 0
+0 138 -1 0
+0 180 -1 0
 1
 end_operator
 begin_operator
 sodiumdichromateoxidationofprimaryalcohol_1 o9 o10
 0
 4
-0 180 -1 0
-0 137 -1 0
-0 62 -1 0
 0 57 0 1
+0 62 -1 0
+0 137 -1 0
+0 180 -1 0
 1
 end_operator
 begin_operator
 sodiumdichromateoxidationofsecondaryalcohol_1 o1 o10
 0
 4
-0 182 -1 0
-0 172 -1 0
-0 61 -1 0
 0 57 0 1
+0 61 -1 0
+0 172 -1 0
+0 182 -1 0
 2
 end_operator
 begin_operator
 sodiumdichromateoxidationofsecondaryalcohol_1 o1 o9
 0
 4
-0 182 -1 0
-0 171 -1 0
-0 61 -1 0
 0 57 0 1
+0 61 -1 0
+0 171 -1 0
+0 182 -1 0
 2
 end_operator
 begin_operator
 sodiumdichromateoxidationofsecondaryalcohol_1 o10 o1
 0
 4
-0 181 -1 0
-0 173 -1 0
-0 61 -1 0
 0 57 0 1
+0 61 -1 0
+0 173 -1 0
+0 181 -1 0
 2
 end_operator
 begin_operator
 sodiumdichromateoxidationofsecondaryalcohol_1 o10 o9
 0
 4
-0 181 -1 0
-0 171 -1 0
-0 61 -1 0
 0 57 0 1
+0 61 -1 0
+0 171 -1 0
+0 181 -1 0
 2
 end_operator
 begin_operator
 sodiumdichromateoxidationofsecondaryalcohol_1 o9 o1
 0
 4
-0 180 -1 0
-0 173 -1 0
-0 61 -1 0
 0 57 0 1
+0 61 -1 0
+0 173 -1 0
+0 180 -1 0
 2
 end_operator
 begin_operator
 sodiumdichromateoxidationofsecondaryalcohol_1 o9 o10
 0
 4
-0 180 -1 0
-0 172 -1 0
-0 61 -1 0
 0 57 0 1
+0 61 -1 0
+0 172 -1 0
+0 180 -1 0
 2
 end_operator
 begin_operator
 tosylationofalcohols_1 o1 c2
 0
 3
-0 95 -1 0
-0 60 -1 0
 0 57 0 1
+0 60 -1 0
+0 95 -1 0
 13
 end_operator
 begin_operator
 tosylationofalcohols_1 o1 c7
 0
 3
-0 95 -1 0
-0 60 -1 0
 0 57 0 1
+0 60 -1 0
+0 95 -1 0
 13
 end_operator
 begin_operator
 tosylationofalcohols_1 o10 c6
 0
 3
-0 94 -1 0
-0 60 -1 0
 0 57 0 1
+0 60 -1 0
+0 94 -1 0
 13
 end_operator
 begin_operator
 tosylationofalcohols_1 o10 c9
 0
 3
-0 94 -1 0
-0 60 -1 0
 0 57 0 1
+0 60 -1 0
+0 94 -1 0
 13
 end_operator
 begin_operator
 tosylationofalcohols_1 o9 c4
 0
 3
-0 93 -1 0
-0 60 -1 0
 0 57 0 1
+0 60 -1 0
+0 93 -1 0
 13
 end_operator
 begin_operator
 tosylationofalcohols_1 o9 c8
 0
 3
-0 93 -1 0
-0 60 -1 0
 0 57 0 1
+0 60 -1 0
+0 93 -1 0
 13
 end_operator
 begin_operator
 williamsonethersynthesis_1 o1 c2
 0
 3
+0 57 0 1
 0 84 -1 0
 0 116 -1 0
-0 57 0 1
 21
 end_operator
 begin_operator
 williamsonethersynthesis_1 o1 c7
 0
 3
+0 57 0 1
 0 84 -1 0
 0 116 -1 0
-0 57 0 1
 21
 end_operator
 begin_operator
 williamsonethersynthesis_1 o10 c6
 0
 3
+0 57 0 1
 0 83 -1 0
 0 116 -1 0
-0 57 0 1
 21
 end_operator
 begin_operator
 williamsonethersynthesis_1 o10 c9
 0
 3
+0 57 0 1
 0 83 -1 0
 0 116 -1 0
-0 57 0 1
 21
 end_operator
 begin_operator
 williamsonethersynthesis_1 o9 c4
 0
 3
+0 57 0 1
 0 82 -1 0
 0 116 -1 0
-0 57 0 1
 21
 end_operator
 begin_operator
 williamsonethersynthesis_1 o9 c8
 0
 3
+0 57 0 1
 0 82 -1 0
 0 116 -1 0
-0 57 0 1
 21
 end_operator
 begin_operator
@@ -13580,10 +13580,10 @@ williamsonethersynthesis_2 c1 br1
 1
 53 0
 4
-0 256 -1 0
-0 194 -1 0
 0 116 0 1
 0 117 -1 0
+0 194 -1 0
+0 256 -1 0
 21
 end_operator
 begin_operator
@@ -13591,10 +13591,10 @@ williamsonethersynthesis_2 c1 br2
 1
 17 0
 4
-0 256 -1 0
-0 193 -1 0
 0 116 0 1
 0 117 -1 0
+0 193 -1 0
+0 256 -1 0
 21
 end_operator
 begin_operator
@@ -13602,10 +13602,10 @@ williamsonethersynthesis_2 c1 cl1
 1
 14 0
 4
-0 256 -1 0
-0 197 -1 0
 0 116 0 1
 0 117 -1 0
+0 197 -1 0
+0 256 -1 0
 21
 end_operator
 begin_operator
@@ -13613,10 +13613,10 @@ williamsonethersynthesis_2 c1 cl2
 1
 15 0
 4
-0 256 -1 0
-0 192 -1 0
 0 116 0 1
 0 117 -1 0
+0 192 -1 0
+0 256 -1 0
 21
 end_operator
 begin_operator
@@ -13624,10 +13624,10 @@ williamsonethersynthesis_2 c3 br1
 1
 18 0
 4
-0 255 -1 0
-0 194 -1 0
 0 116 0 1
 0 117 -1 0
+0 194 -1 0
+0 255 -1 0
 21
 end_operator
 begin_operator
@@ -13635,10 +13635,10 @@ williamsonethersynthesis_2 c3 br2
 1
 54 0
 4
-0 255 -1 0
-0 193 -1 0
 0 116 0 1
 0 117 -1 0
+0 193 -1 0
+0 255 -1 0
 21
 end_operator
 begin_operator
@@ -13646,10 +13646,10 @@ williamsonethersynthesis_2 c3 cl1
 1
 19 0
 4
-0 255 -1 0
-0 197 -1 0
 0 116 0 1
 0 117 -1 0
+0 197 -1 0
+0 255 -1 0
 21
 end_operator
 begin_operator
@@ -13657,10 +13657,10 @@ williamsonethersynthesis_2 c3 cl2
 1
 16 0
 4
-0 255 -1 0
-0 192 -1 0
 0 116 0 1
 0 117 -1 0
+0 192 -1 0
+0 255 -1 0
 21
 end_operator
 0

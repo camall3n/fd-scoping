@@ -2928,8 +2928,8 @@ sample_soil rover0 rover0store waypoint9
 1
 27 9
 2
-0 55 0 1
 0 53 0 1
+0 55 0 1
 1
 end_operator
 begin_operator
@@ -2964,8 +2964,8 @@ sample_soil rover1 rover1store waypoint9
 1
 16 9
 2
-0 55 0 2
 0 54 0 1
+0 55 0 2
 1
 end_operator
 begin_operator

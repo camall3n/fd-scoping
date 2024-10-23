@@ -282,31 +282,31 @@ end_variable
 36
 begin_mutex_group
 5
-17 0
 16 1
 16 2
-29 3
+17 0
 26 3
+29 3
 end_mutex_group
 begin_mutex_group
 4
-17 0
 16 2
-29 3
+17 0
 26 3
+29 3
 end_mutex_group
 begin_mutex_group
 4
 6 0
+11 3
 28 1
 28 2
-11 3
 end_mutex_group
 begin_mutex_group
 3
 6 0
-28 2
 11 3
+28 2
 end_mutex_group
 begin_mutex_group
 6
@@ -327,18 +327,18 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 5
-23 0
-28 3
 22 1
 22 2
+23 0
 27 3
+28 3
 end_mutex_group
 begin_mutex_group
 4
-23 0
-28 3
 22 2
+23 0
 27 3
+28 3
 end_mutex_group
 begin_mutex_group
 3
@@ -353,35 +353,35 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 6
+11 4
 15 0
 15 1
 15 2
 15 3
 15 4
-11 4
 end_mutex_group
 begin_mutex_group
 5
+11 4
 15 0
 15 2
 15 3
 15 4
-11 4
 end_mutex_group
 begin_mutex_group
 5
 18 0
-28 4
 19 1
 19 2
 27 4
+28 4
 end_mutex_group
 begin_mutex_group
 4
 18 0
-28 4
 19 2
 27 4
+28 4
 end_mutex_group
 begin_mutex_group
 3
@@ -396,33 +396,33 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 5
+11 5
 12 0
 12 1
 12 2
 12 3
-11 5
 end_mutex_group
 begin_mutex_group
 4
+11 5
 12 0
 12 2
 12 3
-11 5
 end_mutex_group
 begin_mutex_group
 5
 10 0
-29 5
-26 4
 11 1
 11 2
+26 4
+29 5
 end_mutex_group
 begin_mutex_group
 4
 10 0
-29 5
-26 4
 11 2
+26 4
+29 5
 end_mutex_group
 begin_mutex_group
 4
@@ -439,96 +439,96 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 5
-15 3
 12 3
+15 3
 16 0
 16 1
 16 2
 end_mutex_group
 begin_mutex_group
 4
-15 3
 12 3
+15 3
 16 0
 16 2
 end_mutex_group
 begin_mutex_group
 3
+20 0
 21 1
 21 2
-20 0
 end_mutex_group
 begin_mutex_group
 2
-21 2
 20 0
+21 2
 end_mutex_group
 begin_mutex_group
 5
-21 3
 8 3
+21 3
 22 0
 22 1
 22 2
 end_mutex_group
 begin_mutex_group
 4
-21 3
 8 3
+21 3
 22 0
 22 2
 end_mutex_group
 begin_mutex_group
 3
+14 0
 15 1
 15 2
-14 0
 end_mutex_group
 begin_mutex_group
 2
-15 2
 14 0
+15 2
 end_mutex_group
 begin_mutex_group
 5
-21 4
 8 4
 19 0
 19 1
 19 2
+21 4
 end_mutex_group
 begin_mutex_group
 4
-21 4
 8 4
 19 0
 19 2
+21 4
 end_mutex_group
 begin_mutex_group
 4
+7 1
 12 1
 12 2
-7 1
 13 0
 end_mutex_group
 begin_mutex_group
 3
-12 2
 7 1
+12 2
 13 0
 end_mutex_group
 begin_mutex_group
 4
-15 4
 8 1
 8 2
 9 0
+15 4
 end_mutex_group
 begin_mutex_group
 3
-15 4
 8 2
 9 0
+15 4
 end_mutex_group
 begin_state
 0
@@ -574,8 +574,8 @@ begin_operator
 colfromfreecell c2 d3 n0 n1
 0
 3
-0 24 0 1
 0 16 2 0
+0 24 0 1
 0 29 0 3
 1
 end_operator
@@ -583,8 +583,8 @@ begin_operator
 colfromfreecell c2 d3 n1 n2
 0
 3
-0 24 1 6
 0 16 2 0
+0 24 1 6
 0 29 0 3
 1
 end_operator
@@ -592,8 +592,8 @@ begin_operator
 colfromfreecell c2 d3 n10 n11
 0
 3
-0 24 2 3
 0 16 2 0
+0 24 2 3
 0 29 0 3
 1
 end_operator
@@ -601,8 +601,8 @@ begin_operator
 colfromfreecell c2 d3 n11 n12
 0
 3
-0 24 3 4
 0 16 2 0
+0 24 3 4
 0 29 0 3
 1
 end_operator
@@ -610,8 +610,8 @@ begin_operator
 colfromfreecell c2 d3 n12 n13
 0
 3
-0 24 4 5
 0 16 2 0
+0 24 4 5
 0 29 0 3
 1
 end_operator
@@ -619,8 +619,8 @@ begin_operator
 colfromfreecell c2 d3 n2 n3
 0
 3
-0 24 6 7
 0 16 2 0
+0 24 6 7
 0 29 0 3
 1
 end_operator
@@ -628,8 +628,8 @@ begin_operator
 colfromfreecell c2 d3 n3 n4
 0
 3
-0 24 7 8
 0 16 2 0
+0 24 7 8
 0 29 0 3
 1
 end_operator
@@ -637,8 +637,8 @@ begin_operator
 colfromfreecell c2 d3 n4 n5
 0
 3
-0 24 8 9
 0 16 2 0
+0 24 8 9
 0 29 0 3
 1
 end_operator
@@ -646,8 +646,8 @@ begin_operator
 colfromfreecell c2 d3 n5 n6
 0
 3
-0 24 9 10
 0 16 2 0
+0 24 9 10
 0 29 0 3
 1
 end_operator
@@ -655,8 +655,8 @@ begin_operator
 colfromfreecell c2 d3 n6 n7
 0
 3
-0 24 10 11
 0 16 2 0
+0 24 10 11
 0 29 0 3
 1
 end_operator
@@ -664,8 +664,8 @@ begin_operator
 colfromfreecell c2 d3 n7 n8
 0
 3
-0 24 11 12
 0 16 2 0
+0 24 11 12
 0 29 0 3
 1
 end_operator
@@ -673,8 +673,8 @@ begin_operator
 colfromfreecell c2 d3 n8 n9
 0
 3
-0 24 12 13
 0 16 2 0
+0 24 12 13
 0 29 0 3
 1
 end_operator
@@ -682,8 +682,8 @@ begin_operator
 colfromfreecell c2 d3 n9 n10
 0
 3
-0 24 13 2
 0 16 2 0
+0 24 13 2
 0 29 0 3
 1
 end_operator
@@ -691,8 +691,8 @@ begin_operator
 colfromfreecell c2 h3 n0 n1
 0
 3
-0 24 0 1
 0 16 2 0
+0 24 0 1
 0 26 0 3
 1
 end_operator
@@ -700,8 +700,8 @@ begin_operator
 colfromfreecell c2 h3 n1 n2
 0
 3
-0 24 1 6
 0 16 2 0
+0 24 1 6
 0 26 0 3
 1
 end_operator
@@ -709,8 +709,8 @@ begin_operator
 colfromfreecell c2 h3 n10 n11
 0
 3
-0 24 2 3
 0 16 2 0
+0 24 2 3
 0 26 0 3
 1
 end_operator
@@ -718,8 +718,8 @@ begin_operator
 colfromfreecell c2 h3 n11 n12
 0
 3
-0 24 3 4
 0 16 2 0
+0 24 3 4
 0 26 0 3
 1
 end_operator
@@ -727,8 +727,8 @@ begin_operator
 colfromfreecell c2 h3 n12 n13
 0
 3
-0 24 4 5
 0 16 2 0
+0 24 4 5
 0 26 0 3
 1
 end_operator
@@ -736,8 +736,8 @@ begin_operator
 colfromfreecell c2 h3 n2 n3
 0
 3
-0 24 6 7
 0 16 2 0
+0 24 6 7
 0 26 0 3
 1
 end_operator
@@ -745,8 +745,8 @@ begin_operator
 colfromfreecell c2 h3 n3 n4
 0
 3
-0 24 7 8
 0 16 2 0
+0 24 7 8
 0 26 0 3
 1
 end_operator
@@ -754,8 +754,8 @@ begin_operator
 colfromfreecell c2 h3 n4 n5
 0
 3
-0 24 8 9
 0 16 2 0
+0 24 8 9
 0 26 0 3
 1
 end_operator
@@ -763,8 +763,8 @@ begin_operator
 colfromfreecell c2 h3 n5 n6
 0
 3
-0 24 9 10
 0 16 2 0
+0 24 9 10
 0 26 0 3
 1
 end_operator
@@ -772,8 +772,8 @@ begin_operator
 colfromfreecell c2 h3 n6 n7
 0
 3
-0 24 10 11
 0 16 2 0
+0 24 10 11
 0 26 0 3
 1
 end_operator
@@ -781,8 +781,8 @@ begin_operator
 colfromfreecell c2 h3 n7 n8
 0
 3
-0 24 11 12
 0 16 2 0
+0 24 11 12
 0 26 0 3
 1
 end_operator
@@ -790,8 +790,8 @@ begin_operator
 colfromfreecell c2 h3 n8 n9
 0
 3
-0 24 12 13
 0 16 2 0
+0 24 12 13
 0 26 0 3
 1
 end_operator
@@ -799,8 +799,8 @@ begin_operator
 colfromfreecell c2 h3 n9 n10
 0
 3
-0 24 13 2
 0 16 2 0
+0 24 13 2
 0 26 0 3
 1
 end_operator
@@ -808,385 +808,385 @@ begin_operator
 colfromfreecell ca d2 n0 n1
 0
 4
-0 21 2 3
-0 24 0 1
 0 20 -1 0
+0 21 2 3
 0 22 0 3
+0 24 0 1
 1
 end_operator
 begin_operator
 colfromfreecell ca d2 n1 n2
 0
 4
-0 21 2 3
-0 24 1 6
 0 20 -1 0
+0 21 2 3
 0 22 0 3
+0 24 1 6
 1
 end_operator
 begin_operator
 colfromfreecell ca d2 n10 n11
 0
 4
-0 21 2 3
-0 24 2 3
 0 20 -1 0
+0 21 2 3
 0 22 0 3
+0 24 2 3
 1
 end_operator
 begin_operator
 colfromfreecell ca d2 n11 n12
 0
 4
-0 21 2 3
-0 24 3 4
 0 20 -1 0
+0 21 2 3
 0 22 0 3
+0 24 3 4
 1
 end_operator
 begin_operator
 colfromfreecell ca d2 n12 n13
 0
 4
-0 21 2 3
-0 24 4 5
 0 20 -1 0
+0 21 2 3
 0 22 0 3
+0 24 4 5
 1
 end_operator
 begin_operator
 colfromfreecell ca d2 n2 n3
 0
 4
-0 21 2 3
-0 24 6 7
 0 20 -1 0
+0 21 2 3
 0 22 0 3
+0 24 6 7
 1
 end_operator
 begin_operator
 colfromfreecell ca d2 n3 n4
 0
 4
-0 21 2 3
-0 24 7 8
 0 20 -1 0
+0 21 2 3
 0 22 0 3
+0 24 7 8
 1
 end_operator
 begin_operator
 colfromfreecell ca d2 n4 n5
 0
 4
-0 21 2 3
-0 24 8 9
 0 20 -1 0
+0 21 2 3
 0 22 0 3
+0 24 8 9
 1
 end_operator
 begin_operator
 colfromfreecell ca d2 n5 n6
 0
 4
-0 21 2 3
-0 24 9 10
 0 20 -1 0
+0 21 2 3
 0 22 0 3
+0 24 9 10
 1
 end_operator
 begin_operator
 colfromfreecell ca d2 n6 n7
 0
 4
-0 21 2 3
-0 24 10 11
 0 20 -1 0
+0 21 2 3
 0 22 0 3
+0 24 10 11
 1
 end_operator
 begin_operator
 colfromfreecell ca d2 n7 n8
 0
 4
-0 21 2 3
-0 24 11 12
 0 20 -1 0
+0 21 2 3
 0 22 0 3
+0 24 11 12
 1
 end_operator
 begin_operator
 colfromfreecell ca d2 n8 n9
 0
 4
-0 21 2 3
-0 24 12 13
 0 20 -1 0
+0 21 2 3
 0 22 0 3
+0 24 12 13
 1
 end_operator
 begin_operator
 colfromfreecell ca d2 n9 n10
 0
 4
-0 21 2 3
-0 24 13 2
 0 20 -1 0
+0 21 2 3
 0 22 0 3
+0 24 13 2
 1
 end_operator
 begin_operator
 colfromfreecell ca h2 n0 n1
 0
 4
+0 19 0 3
+0 20 -1 0
 0 21 2 4
 0 24 0 1
-0 20 -1 0
-0 19 0 3
 1
 end_operator
 begin_operator
 colfromfreecell ca h2 n1 n2
 0
 4
+0 19 0 3
+0 20 -1 0
 0 21 2 4
 0 24 1 6
-0 20 -1 0
-0 19 0 3
 1
 end_operator
 begin_operator
 colfromfreecell ca h2 n10 n11
 0
 4
+0 19 0 3
+0 20 -1 0
 0 21 2 4
 0 24 2 3
-0 20 -1 0
-0 19 0 3
 1
 end_operator
 begin_operator
 colfromfreecell ca h2 n11 n12
 0
 4
+0 19 0 3
+0 20 -1 0
 0 21 2 4
 0 24 3 4
-0 20 -1 0
-0 19 0 3
 1
 end_operator
 begin_operator
 colfromfreecell ca h2 n12 n13
 0
 4
+0 19 0 3
+0 20 -1 0
 0 21 2 4
 0 24 4 5
-0 20 -1 0
-0 19 0 3
 1
 end_operator
 begin_operator
 colfromfreecell ca h2 n2 n3
 0
 4
+0 19 0 3
+0 20 -1 0
 0 21 2 4
 0 24 6 7
-0 20 -1 0
-0 19 0 3
 1
 end_operator
 begin_operator
 colfromfreecell ca h2 n3 n4
 0
 4
+0 19 0 3
+0 20 -1 0
 0 21 2 4
 0 24 7 8
-0 20 -1 0
-0 19 0 3
 1
 end_operator
 begin_operator
 colfromfreecell ca h2 n4 n5
 0
 4
+0 19 0 3
+0 20 -1 0
 0 21 2 4
 0 24 8 9
-0 20 -1 0
-0 19 0 3
 1
 end_operator
 begin_operator
 colfromfreecell ca h2 n5 n6
 0
 4
+0 19 0 3
+0 20 -1 0
 0 21 2 4
 0 24 9 10
-0 20 -1 0
-0 19 0 3
 1
 end_operator
 begin_operator
 colfromfreecell ca h2 n6 n7
 0
 4
+0 19 0 3
+0 20 -1 0
 0 21 2 4
 0 24 10 11
-0 20 -1 0
-0 19 0 3
 1
 end_operator
 begin_operator
 colfromfreecell ca h2 n7 n8
 0
 4
+0 19 0 3
+0 20 -1 0
 0 21 2 4
 0 24 11 12
-0 20 -1 0
-0 19 0 3
 1
 end_operator
 begin_operator
 colfromfreecell ca h2 n8 n9
 0
 4
+0 19 0 3
+0 20 -1 0
 0 21 2 4
 0 24 12 13
-0 20 -1 0
-0 19 0 3
 1
 end_operator
 begin_operator
 colfromfreecell ca h2 n9 n10
 0
 4
+0 19 0 3
+0 20 -1 0
 0 21 2 4
 0 24 13 2
-0 20 -1 0
-0 19 0 3
 1
 end_operator
 begin_operator
 colfromfreecell d2 c3 n0 n1
 0
 3
+0 22 2 0
 0 24 0 1
 0 28 0 3
-0 22 2 0
 1
 end_operator
 begin_operator
 colfromfreecell d2 c3 n1 n2
 0
 3
+0 22 2 0
 0 24 1 6
 0 28 0 3
-0 22 2 0
 1
 end_operator
 begin_operator
 colfromfreecell d2 c3 n10 n11
 0
 3
+0 22 2 0
 0 24 2 3
 0 28 0 3
-0 22 2 0
 1
 end_operator
 begin_operator
 colfromfreecell d2 c3 n11 n12
 0
 3
+0 22 2 0
 0 24 3 4
 0 28 0 3
-0 22 2 0
 1
 end_operator
 begin_operator
 colfromfreecell d2 c3 n12 n13
 0
 3
+0 22 2 0
 0 24 4 5
 0 28 0 3
-0 22 2 0
 1
 end_operator
 begin_operator
 colfromfreecell d2 c3 n2 n3
 0
 3
+0 22 2 0
 0 24 6 7
 0 28 0 3
-0 22 2 0
 1
 end_operator
 begin_operator
 colfromfreecell d2 c3 n3 n4
 0
 3
+0 22 2 0
 0 24 7 8
 0 28 0 3
-0 22 2 0
 1
 end_operator
 begin_operator
 colfromfreecell d2 c3 n4 n5
 0
 3
+0 22 2 0
 0 24 8 9
 0 28 0 3
-0 22 2 0
 1
 end_operator
 begin_operator
 colfromfreecell d2 c3 n5 n6
 0
 3
+0 22 2 0
 0 24 9 10
 0 28 0 3
-0 22 2 0
 1
 end_operator
 begin_operator
 colfromfreecell d2 c3 n6 n7
 0
 3
+0 22 2 0
 0 24 10 11
 0 28 0 3
-0 22 2 0
 1
 end_operator
 begin_operator
 colfromfreecell d2 c3 n7 n8
 0
 3
+0 22 2 0
 0 24 11 12
 0 28 0 3
-0 22 2 0
 1
 end_operator
 begin_operator
 colfromfreecell d2 c3 n8 n9
 0
 3
+0 22 2 0
 0 24 12 13
 0 28 0 3
-0 22 2 0
 1
 end_operator
 begin_operator
 colfromfreecell d2 c3 n9 n10
 0
 3
+0 22 2 0
 0 24 13 2
 0 28 0 3
-0 22 2 0
 1
 end_operator
 begin_operator
 colfromfreecell d2 s3 n0 n1
 0
 3
-0 24 0 1
 0 22 2 0
+0 24 0 1
 0 27 0 3
 1
 end_operator
@@ -1194,8 +1194,8 @@ begin_operator
 colfromfreecell d2 s3 n1 n2
 0
 3
-0 24 1 6
 0 22 2 0
+0 24 1 6
 0 27 0 3
 1
 end_operator
@@ -1203,8 +1203,8 @@ begin_operator
 colfromfreecell d2 s3 n10 n11
 0
 3
-0 24 2 3
 0 22 2 0
+0 24 2 3
 0 27 0 3
 1
 end_operator
@@ -1212,8 +1212,8 @@ begin_operator
 colfromfreecell d2 s3 n11 n12
 0
 3
-0 24 3 4
 0 22 2 0
+0 24 3 4
 0 27 0 3
 1
 end_operator
@@ -1221,8 +1221,8 @@ begin_operator
 colfromfreecell d2 s3 n12 n13
 0
 3
-0 24 4 5
 0 22 2 0
+0 24 4 5
 0 27 0 3
 1
 end_operator
@@ -1230,8 +1230,8 @@ begin_operator
 colfromfreecell d2 s3 n2 n3
 0
 3
-0 24 6 7
 0 22 2 0
+0 24 6 7
 0 27 0 3
 1
 end_operator
@@ -1239,8 +1239,8 @@ begin_operator
 colfromfreecell d2 s3 n3 n4
 0
 3
-0 24 7 8
 0 22 2 0
+0 24 7 8
 0 27 0 3
 1
 end_operator
@@ -1248,8 +1248,8 @@ begin_operator
 colfromfreecell d2 s3 n4 n5
 0
 3
-0 24 8 9
 0 22 2 0
+0 24 8 9
 0 27 0 3
 1
 end_operator
@@ -1257,8 +1257,8 @@ begin_operator
 colfromfreecell d2 s3 n5 n6
 0
 3
-0 24 9 10
 0 22 2 0
+0 24 9 10
 0 27 0 3
 1
 end_operator
@@ -1266,8 +1266,8 @@ begin_operator
 colfromfreecell d2 s3 n6 n7
 0
 3
-0 24 10 11
 0 22 2 0
+0 24 10 11
 0 27 0 3
 1
 end_operator
@@ -1275,8 +1275,8 @@ begin_operator
 colfromfreecell d2 s3 n7 n8
 0
 3
-0 24 11 12
 0 22 2 0
+0 24 11 12
 0 27 0 3
 1
 end_operator
@@ -1284,8 +1284,8 @@ begin_operator
 colfromfreecell d2 s3 n8 n9
 0
 3
-0 24 12 13
 0 22 2 0
+0 24 12 13
 0 27 0 3
 1
 end_operator
@@ -1293,8 +1293,8 @@ begin_operator
 colfromfreecell d2 s3 n9 n10
 0
 3
-0 24 13 2
 0 22 2 0
+0 24 13 2
 0 27 0 3
 1
 end_operator
@@ -1302,385 +1302,385 @@ begin_operator
 colfromfreecell da c2 n0 n1
 0
 4
-0 15 2 3
-0 24 0 1
-0 16 0 3
 0 14 -1 0
+0 15 2 3
+0 16 0 3
+0 24 0 1
 1
 end_operator
 begin_operator
 colfromfreecell da c2 n1 n2
 0
 4
-0 15 2 3
-0 24 1 6
-0 16 0 3
 0 14 -1 0
+0 15 2 3
+0 16 0 3
+0 24 1 6
 1
 end_operator
 begin_operator
 colfromfreecell da c2 n10 n11
 0
 4
-0 15 2 3
-0 24 2 3
-0 16 0 3
 0 14 -1 0
+0 15 2 3
+0 16 0 3
+0 24 2 3
 1
 end_operator
 begin_operator
 colfromfreecell da c2 n11 n12
 0
 4
-0 15 2 3
-0 24 3 4
-0 16 0 3
 0 14 -1 0
+0 15 2 3
+0 16 0 3
+0 24 3 4
 1
 end_operator
 begin_operator
 colfromfreecell da c2 n12 n13
 0
 4
-0 15 2 3
-0 24 4 5
-0 16 0 3
 0 14 -1 0
+0 15 2 3
+0 16 0 3
+0 24 4 5
 1
 end_operator
 begin_operator
 colfromfreecell da c2 n2 n3
 0
 4
-0 15 2 3
-0 24 6 7
-0 16 0 3
 0 14 -1 0
+0 15 2 3
+0 16 0 3
+0 24 6 7
 1
 end_operator
 begin_operator
 colfromfreecell da c2 n3 n4
 0
 4
-0 15 2 3
-0 24 7 8
-0 16 0 3
 0 14 -1 0
+0 15 2 3
+0 16 0 3
+0 24 7 8
 1
 end_operator
 begin_operator
 colfromfreecell da c2 n4 n5
 0
 4
-0 15 2 3
-0 24 8 9
-0 16 0 3
 0 14 -1 0
+0 15 2 3
+0 16 0 3
+0 24 8 9
 1
 end_operator
 begin_operator
 colfromfreecell da c2 n5 n6
 0
 4
-0 15 2 3
-0 24 9 10
-0 16 0 3
 0 14 -1 0
+0 15 2 3
+0 16 0 3
+0 24 9 10
 1
 end_operator
 begin_operator
 colfromfreecell da c2 n6 n7
 0
 4
-0 15 2 3
-0 24 10 11
-0 16 0 3
 0 14 -1 0
+0 15 2 3
+0 16 0 3
+0 24 10 11
 1
 end_operator
 begin_operator
 colfromfreecell da c2 n7 n8
 0
 4
-0 15 2 3
-0 24 11 12
-0 16 0 3
 0 14 -1 0
+0 15 2 3
+0 16 0 3
+0 24 11 12
 1
 end_operator
 begin_operator
 colfromfreecell da c2 n8 n9
 0
 4
-0 15 2 3
-0 24 12 13
-0 16 0 3
 0 14 -1 0
+0 15 2 3
+0 16 0 3
+0 24 12 13
 1
 end_operator
 begin_operator
 colfromfreecell da c2 n9 n10
 0
 4
-0 15 2 3
-0 24 13 2
-0 16 0 3
 0 14 -1 0
+0 15 2 3
+0 16 0 3
+0 24 13 2
 1
 end_operator
 begin_operator
 colfromfreecell da s2 n0 n1
 0
 4
+0 11 0 4
+0 14 -1 0
 0 15 2 5
 0 24 0 1
-0 14 -1 0
-0 11 0 4
 1
 end_operator
 begin_operator
 colfromfreecell da s2 n1 n2
 0
 4
+0 11 0 4
+0 14 -1 0
 0 15 2 5
 0 24 1 6
-0 14 -1 0
-0 11 0 4
 1
 end_operator
 begin_operator
 colfromfreecell da s2 n10 n11
 0
 4
+0 11 0 4
+0 14 -1 0
 0 15 2 5
 0 24 2 3
-0 14 -1 0
-0 11 0 4
 1
 end_operator
 begin_operator
 colfromfreecell da s2 n11 n12
 0
 4
+0 11 0 4
+0 14 -1 0
 0 15 2 5
 0 24 3 4
-0 14 -1 0
-0 11 0 4
 1
 end_operator
 begin_operator
 colfromfreecell da s2 n12 n13
 0
 4
+0 11 0 4
+0 14 -1 0
 0 15 2 5
 0 24 4 5
-0 14 -1 0
-0 11 0 4
 1
 end_operator
 begin_operator
 colfromfreecell da s2 n2 n3
 0
 4
+0 11 0 4
+0 14 -1 0
 0 15 2 5
 0 24 6 7
-0 14 -1 0
-0 11 0 4
 1
 end_operator
 begin_operator
 colfromfreecell da s2 n3 n4
 0
 4
+0 11 0 4
+0 14 -1 0
 0 15 2 5
 0 24 7 8
-0 14 -1 0
-0 11 0 4
 1
 end_operator
 begin_operator
 colfromfreecell da s2 n4 n5
 0
 4
+0 11 0 4
+0 14 -1 0
 0 15 2 5
 0 24 8 9
-0 14 -1 0
-0 11 0 4
 1
 end_operator
 begin_operator
 colfromfreecell da s2 n5 n6
 0
 4
+0 11 0 4
+0 14 -1 0
 0 15 2 5
 0 24 9 10
-0 14 -1 0
-0 11 0 4
 1
 end_operator
 begin_operator
 colfromfreecell da s2 n6 n7
 0
 4
+0 11 0 4
+0 14 -1 0
 0 15 2 5
 0 24 10 11
-0 14 -1 0
-0 11 0 4
 1
 end_operator
 begin_operator
 colfromfreecell da s2 n7 n8
 0
 4
+0 11 0 4
+0 14 -1 0
 0 15 2 5
 0 24 11 12
-0 14 -1 0
-0 11 0 4
 1
 end_operator
 begin_operator
 colfromfreecell da s2 n8 n9
 0
 4
+0 11 0 4
+0 14 -1 0
 0 15 2 5
 0 24 12 13
-0 14 -1 0
-0 11 0 4
 1
 end_operator
 begin_operator
 colfromfreecell da s2 n9 n10
 0
 4
+0 11 0 4
+0 14 -1 0
 0 15 2 5
 0 24 13 2
-0 14 -1 0
-0 11 0 4
 1
 end_operator
 begin_operator
 colfromfreecell h2 c3 n0 n1
 0
 3
+0 19 2 0
 0 24 0 1
 0 28 0 4
-0 19 2 0
 1
 end_operator
 begin_operator
 colfromfreecell h2 c3 n1 n2
 0
 3
+0 19 2 0
 0 24 1 6
 0 28 0 4
-0 19 2 0
 1
 end_operator
 begin_operator
 colfromfreecell h2 c3 n10 n11
 0
 3
+0 19 2 0
 0 24 2 3
 0 28 0 4
-0 19 2 0
 1
 end_operator
 begin_operator
 colfromfreecell h2 c3 n11 n12
 0
 3
+0 19 2 0
 0 24 3 4
 0 28 0 4
-0 19 2 0
 1
 end_operator
 begin_operator
 colfromfreecell h2 c3 n12 n13
 0
 3
+0 19 2 0
 0 24 4 5
 0 28 0 4
-0 19 2 0
 1
 end_operator
 begin_operator
 colfromfreecell h2 c3 n2 n3
 0
 3
+0 19 2 0
 0 24 6 7
 0 28 0 4
-0 19 2 0
 1
 end_operator
 begin_operator
 colfromfreecell h2 c3 n3 n4
 0
 3
+0 19 2 0
 0 24 7 8
 0 28 0 4
-0 19 2 0
 1
 end_operator
 begin_operator
 colfromfreecell h2 c3 n4 n5
 0
 3
+0 19 2 0
 0 24 8 9
 0 28 0 4
-0 19 2 0
 1
 end_operator
 begin_operator
 colfromfreecell h2 c3 n5 n6
 0
 3
+0 19 2 0
 0 24 9 10
 0 28 0 4
-0 19 2 0
 1
 end_operator
 begin_operator
 colfromfreecell h2 c3 n6 n7
 0
 3
+0 19 2 0
 0 24 10 11
 0 28 0 4
-0 19 2 0
 1
 end_operator
 begin_operator
 colfromfreecell h2 c3 n7 n8
 0
 3
+0 19 2 0
 0 24 11 12
 0 28 0 4
-0 19 2 0
 1
 end_operator
 begin_operator
 colfromfreecell h2 c3 n8 n9
 0
 3
+0 19 2 0
 0 24 12 13
 0 28 0 4
-0 19 2 0
 1
 end_operator
 begin_operator
 colfromfreecell h2 c3 n9 n10
 0
 3
+0 19 2 0
 0 24 13 2
 0 28 0 4
-0 19 2 0
 1
 end_operator
 begin_operator
 colfromfreecell h2 s3 n0 n1
 0
 3
-0 24 0 1
 0 19 2 0
+0 24 0 1
 0 27 0 4
 1
 end_operator
@@ -1688,8 +1688,8 @@ begin_operator
 colfromfreecell h2 s3 n1 n2
 0
 3
-0 24 1 6
 0 19 2 0
+0 24 1 6
 0 27 0 4
 1
 end_operator
@@ -1697,8 +1697,8 @@ begin_operator
 colfromfreecell h2 s3 n10 n11
 0
 3
-0 24 2 3
 0 19 2 0
+0 24 2 3
 0 27 0 4
 1
 end_operator
@@ -1706,8 +1706,8 @@ begin_operator
 colfromfreecell h2 s3 n11 n12
 0
 3
-0 24 3 4
 0 19 2 0
+0 24 3 4
 0 27 0 4
 1
 end_operator
@@ -1715,8 +1715,8 @@ begin_operator
 colfromfreecell h2 s3 n12 n13
 0
 3
-0 24 4 5
 0 19 2 0
+0 24 4 5
 0 27 0 4
 1
 end_operator
@@ -1724,8 +1724,8 @@ begin_operator
 colfromfreecell h2 s3 n2 n3
 0
 3
-0 24 6 7
 0 19 2 0
+0 24 6 7
 0 27 0 4
 1
 end_operator
@@ -1733,8 +1733,8 @@ begin_operator
 colfromfreecell h2 s3 n3 n4
 0
 3
-0 24 7 8
 0 19 2 0
+0 24 7 8
 0 27 0 4
 1
 end_operator
@@ -1742,8 +1742,8 @@ begin_operator
 colfromfreecell h2 s3 n4 n5
 0
 3
-0 24 8 9
 0 19 2 0
+0 24 8 9
 0 27 0 4
 1
 end_operator
@@ -1751,8 +1751,8 @@ begin_operator
 colfromfreecell h2 s3 n5 n6
 0
 3
-0 24 9 10
 0 19 2 0
+0 24 9 10
 0 27 0 4
 1
 end_operator
@@ -1760,8 +1760,8 @@ begin_operator
 colfromfreecell h2 s3 n6 n7
 0
 3
-0 24 10 11
 0 19 2 0
+0 24 10 11
 0 27 0 4
 1
 end_operator
@@ -1769,8 +1769,8 @@ begin_operator
 colfromfreecell h2 s3 n7 n8
 0
 3
-0 24 11 12
 0 19 2 0
+0 24 11 12
 0 27 0 4
 1
 end_operator
@@ -1778,8 +1778,8 @@ begin_operator
 colfromfreecell h2 s3 n8 n9
 0
 3
-0 24 12 13
 0 19 2 0
+0 24 12 13
 0 27 0 4
 1
 end_operator
@@ -1787,8 +1787,8 @@ begin_operator
 colfromfreecell h2 s3 n9 n10
 0
 3
-0 24 13 2
 0 19 2 0
+0 24 13 2
 0 27 0 4
 1
 end_operator
@@ -1797,9 +1797,9 @@ colfromfreecell ha c2 n0 n1
 0
 4
 0 12 2 3
-0 24 0 1
-0 16 0 3
 0 13 -1 0
+0 16 0 3
+0 24 0 1
 1
 end_operator
 begin_operator
@@ -1807,9 +1807,9 @@ colfromfreecell ha c2 n1 n2
 0
 4
 0 12 2 3
-0 24 1 6
-0 16 0 3
 0 13 -1 0
+0 16 0 3
+0 24 1 6
 1
 end_operator
 begin_operator
@@ -1817,9 +1817,9 @@ colfromfreecell ha c2 n10 n11
 0
 4
 0 12 2 3
-0 24 2 3
-0 16 0 3
 0 13 -1 0
+0 16 0 3
+0 24 2 3
 1
 end_operator
 begin_operator
@@ -1827,9 +1827,9 @@ colfromfreecell ha c2 n11 n12
 0
 4
 0 12 2 3
-0 24 3 4
-0 16 0 3
 0 13 -1 0
+0 16 0 3
+0 24 3 4
 1
 end_operator
 begin_operator
@@ -1837,9 +1837,9 @@ colfromfreecell ha c2 n12 n13
 0
 4
 0 12 2 3
-0 24 4 5
-0 16 0 3
 0 13 -1 0
+0 16 0 3
+0 24 4 5
 1
 end_operator
 begin_operator
@@ -1847,9 +1847,9 @@ colfromfreecell ha c2 n2 n3
 0
 4
 0 12 2 3
-0 24 6 7
-0 16 0 3
 0 13 -1 0
+0 16 0 3
+0 24 6 7
 1
 end_operator
 begin_operator
@@ -1857,9 +1857,9 @@ colfromfreecell ha c2 n3 n4
 0
 4
 0 12 2 3
-0 24 7 8
-0 16 0 3
 0 13 -1 0
+0 16 0 3
+0 24 7 8
 1
 end_operator
 begin_operator
@@ -1867,9 +1867,9 @@ colfromfreecell ha c2 n4 n5
 0
 4
 0 12 2 3
-0 24 8 9
-0 16 0 3
 0 13 -1 0
+0 16 0 3
+0 24 8 9
 1
 end_operator
 begin_operator
@@ -1877,9 +1877,9 @@ colfromfreecell ha c2 n5 n6
 0
 4
 0 12 2 3
-0 24 9 10
-0 16 0 3
 0 13 -1 0
+0 16 0 3
+0 24 9 10
 1
 end_operator
 begin_operator
@@ -1887,9 +1887,9 @@ colfromfreecell ha c2 n6 n7
 0
 4
 0 12 2 3
-0 24 10 11
-0 16 0 3
 0 13 -1 0
+0 16 0 3
+0 24 10 11
 1
 end_operator
 begin_operator
@@ -1897,9 +1897,9 @@ colfromfreecell ha c2 n7 n8
 0
 4
 0 12 2 3
-0 24 11 12
-0 16 0 3
 0 13 -1 0
+0 16 0 3
+0 24 11 12
 1
 end_operator
 begin_operator
@@ -1907,9 +1907,9 @@ colfromfreecell ha c2 n8 n9
 0
 4
 0 12 2 3
-0 24 12 13
-0 16 0 3
 0 13 -1 0
+0 16 0 3
+0 24 12 13
 1
 end_operator
 begin_operator
@@ -1917,373 +1917,373 @@ colfromfreecell ha c2 n9 n10
 0
 4
 0 12 2 3
-0 24 13 2
-0 16 0 3
 0 13 -1 0
+0 16 0 3
+0 24 13 2
 1
 end_operator
 begin_operator
 colfromfreecell ha s2 n0 n1
 0
 4
-0 12 2 4
-0 24 0 1
-0 13 -1 0
 0 11 0 5
+0 12 2 4
+0 13 -1 0
+0 24 0 1
 1
 end_operator
 begin_operator
 colfromfreecell ha s2 n1 n2
 0
 4
-0 12 2 4
-0 24 1 6
-0 13 -1 0
 0 11 0 5
+0 12 2 4
+0 13 -1 0
+0 24 1 6
 1
 end_operator
 begin_operator
 colfromfreecell ha s2 n10 n11
 0
 4
-0 12 2 4
-0 24 2 3
-0 13 -1 0
 0 11 0 5
+0 12 2 4
+0 13 -1 0
+0 24 2 3
 1
 end_operator
 begin_operator
 colfromfreecell ha s2 n11 n12
 0
 4
-0 12 2 4
-0 24 3 4
-0 13 -1 0
 0 11 0 5
+0 12 2 4
+0 13 -1 0
+0 24 3 4
 1
 end_operator
 begin_operator
 colfromfreecell ha s2 n12 n13
 0
 4
-0 12 2 4
-0 24 4 5
-0 13 -1 0
 0 11 0 5
+0 12 2 4
+0 13 -1 0
+0 24 4 5
 1
 end_operator
 begin_operator
 colfromfreecell ha s2 n2 n3
 0
 4
-0 12 2 4
-0 24 6 7
-0 13 -1 0
 0 11 0 5
+0 12 2 4
+0 13 -1 0
+0 24 6 7
 1
 end_operator
 begin_operator
 colfromfreecell ha s2 n3 n4
 0
 4
-0 12 2 4
-0 24 7 8
-0 13 -1 0
 0 11 0 5
+0 12 2 4
+0 13 -1 0
+0 24 7 8
 1
 end_operator
 begin_operator
 colfromfreecell ha s2 n4 n5
 0
 4
-0 12 2 4
-0 24 8 9
-0 13 -1 0
 0 11 0 5
+0 12 2 4
+0 13 -1 0
+0 24 8 9
 1
 end_operator
 begin_operator
 colfromfreecell ha s2 n5 n6
 0
 4
-0 12 2 4
-0 24 9 10
-0 13 -1 0
 0 11 0 5
+0 12 2 4
+0 13 -1 0
+0 24 9 10
 1
 end_operator
 begin_operator
 colfromfreecell ha s2 n6 n7
 0
 4
-0 12 2 4
-0 24 10 11
-0 13 -1 0
 0 11 0 5
+0 12 2 4
+0 13 -1 0
+0 24 10 11
 1
 end_operator
 begin_operator
 colfromfreecell ha s2 n7 n8
 0
 4
-0 12 2 4
-0 24 11 12
-0 13 -1 0
 0 11 0 5
+0 12 2 4
+0 13 -1 0
+0 24 11 12
 1
 end_operator
 begin_operator
 colfromfreecell ha s2 n8 n9
 0
 4
-0 12 2 4
-0 24 12 13
-0 13 -1 0
 0 11 0 5
+0 12 2 4
+0 13 -1 0
+0 24 12 13
 1
 end_operator
 begin_operator
 colfromfreecell ha s2 n9 n10
 0
 4
-0 12 2 4
-0 24 13 2
-0 13 -1 0
 0 11 0 5
+0 12 2 4
+0 13 -1 0
+0 24 13 2
 1
 end_operator
 begin_operator
 colfromfreecell s2 d3 n0 n1
 0
 3
+0 11 2 0
 0 24 0 1
 0 29 0 5
-0 11 2 0
 1
 end_operator
 begin_operator
 colfromfreecell s2 d3 n1 n2
 0
 3
+0 11 2 0
 0 24 1 6
 0 29 0 5
-0 11 2 0
 1
 end_operator
 begin_operator
 colfromfreecell s2 d3 n10 n11
 0
 3
+0 11 2 0
 0 24 2 3
 0 29 0 5
-0 11 2 0
 1
 end_operator
 begin_operator
 colfromfreecell s2 d3 n11 n12
 0
 3
+0 11 2 0
 0 24 3 4
 0 29 0 5
-0 11 2 0
 1
 end_operator
 begin_operator
 colfromfreecell s2 d3 n12 n13
 0
 3
+0 11 2 0
 0 24 4 5
 0 29 0 5
-0 11 2 0
 1
 end_operator
 begin_operator
 colfromfreecell s2 d3 n2 n3
 0
 3
+0 11 2 0
 0 24 6 7
 0 29 0 5
-0 11 2 0
 1
 end_operator
 begin_operator
 colfromfreecell s2 d3 n3 n4
 0
 3
+0 11 2 0
 0 24 7 8
 0 29 0 5
-0 11 2 0
 1
 end_operator
 begin_operator
 colfromfreecell s2 d3 n4 n5
 0
 3
+0 11 2 0
 0 24 8 9
 0 29 0 5
-0 11 2 0
 1
 end_operator
 begin_operator
 colfromfreecell s2 d3 n5 n6
 0
 3
+0 11 2 0
 0 24 9 10
 0 29 0 5
-0 11 2 0
 1
 end_operator
 begin_operator
 colfromfreecell s2 d3 n6 n7
 0
 3
+0 11 2 0
 0 24 10 11
 0 29 0 5
-0 11 2 0
 1
 end_operator
 begin_operator
 colfromfreecell s2 d3 n7 n8
 0
 3
+0 11 2 0
 0 24 11 12
 0 29 0 5
-0 11 2 0
 1
 end_operator
 begin_operator
 colfromfreecell s2 d3 n8 n9
 0
 3
+0 11 2 0
 0 24 12 13
 0 29 0 5
-0 11 2 0
 1
 end_operator
 begin_operator
 colfromfreecell s2 d3 n9 n10
 0
 3
+0 11 2 0
 0 24 13 2
 0 29 0 5
-0 11 2 0
 1
 end_operator
 begin_operator
 colfromfreecell s2 h3 n0 n1
 0
 3
+0 11 2 0
 0 24 0 1
 0 26 0 4
-0 11 2 0
 1
 end_operator
 begin_operator
 colfromfreecell s2 h3 n1 n2
 0
 3
+0 11 2 0
 0 24 1 6
 0 26 0 4
-0 11 2 0
 1
 end_operator
 begin_operator
 colfromfreecell s2 h3 n10 n11
 0
 3
+0 11 2 0
 0 24 2 3
 0 26 0 4
-0 11 2 0
 1
 end_operator
 begin_operator
 colfromfreecell s2 h3 n11 n12
 0
 3
+0 11 2 0
 0 24 3 4
 0 26 0 4
-0 11 2 0
 1
 end_operator
 begin_operator
 colfromfreecell s2 h3 n12 n13
 0
 3
+0 11 2 0
 0 24 4 5
 0 26 0 4
-0 11 2 0
 1
 end_operator
 begin_operator
 colfromfreecell s2 h3 n2 n3
 0
 3
+0 11 2 0
 0 24 6 7
 0 26 0 4
-0 11 2 0
 1
 end_operator
 begin_operator
 colfromfreecell s2 h3 n3 n4
 0
 3
+0 11 2 0
 0 24 7 8
 0 26 0 4
-0 11 2 0
 1
 end_operator
 begin_operator
 colfromfreecell s2 h3 n4 n5
 0
 3
+0 11 2 0
 0 24 8 9
 0 26 0 4
-0 11 2 0
 1
 end_operator
 begin_operator
 colfromfreecell s2 h3 n5 n6
 0
 3
+0 11 2 0
 0 24 9 10
 0 26 0 4
-0 11 2 0
 1
 end_operator
 begin_operator
 colfromfreecell s2 h3 n6 n7
 0
 3
+0 11 2 0
 0 24 10 11
 0 26 0 4
-0 11 2 0
 1
 end_operator
 begin_operator
 colfromfreecell s2 h3 n7 n8
 0
 3
+0 11 2 0
 0 24 11 12
 0 26 0 4
-0 11 2 0
 1
 end_operator
 begin_operator
 colfromfreecell s2 h3 n8 n9
 0
 3
+0 11 2 0
 0 24 12 13
 0 26 0 4
-0 11 2 0
 1
 end_operator
 begin_operator
 colfromfreecell s2 h3 n9 n10
 0
 3
+0 11 2 0
 0 24 13 2
 0 26 0 4
-0 11 2 0
 1
 end_operator
 begin_operator
@@ -2291,9 +2291,9 @@ colfromfreecell sa d2 n0 n1
 0
 4
 0 8 2 3
-0 24 0 1
-0 22 0 3
 0 9 -1 0
+0 22 0 3
+0 24 0 1
 1
 end_operator
 begin_operator
@@ -2301,9 +2301,9 @@ colfromfreecell sa d2 n1 n2
 0
 4
 0 8 2 3
-0 24 1 6
-0 22 0 3
 0 9 -1 0
+0 22 0 3
+0 24 1 6
 1
 end_operator
 begin_operator
@@ -2311,9 +2311,9 @@ colfromfreecell sa d2 n10 n11
 0
 4
 0 8 2 3
-0 24 2 3
-0 22 0 3
 0 9 -1 0
+0 22 0 3
+0 24 2 3
 1
 end_operator
 begin_operator
@@ -2321,9 +2321,9 @@ colfromfreecell sa d2 n11 n12
 0
 4
 0 8 2 3
-0 24 3 4
-0 22 0 3
 0 9 -1 0
+0 22 0 3
+0 24 3 4
 1
 end_operator
 begin_operator
@@ -2331,9 +2331,9 @@ colfromfreecell sa d2 n12 n13
 0
 4
 0 8 2 3
-0 24 4 5
-0 22 0 3
 0 9 -1 0
+0 22 0 3
+0 24 4 5
 1
 end_operator
 begin_operator
@@ -2341,9 +2341,9 @@ colfromfreecell sa d2 n2 n3
 0
 4
 0 8 2 3
-0 24 6 7
-0 22 0 3
 0 9 -1 0
+0 22 0 3
+0 24 6 7
 1
 end_operator
 begin_operator
@@ -2351,9 +2351,9 @@ colfromfreecell sa d2 n3 n4
 0
 4
 0 8 2 3
-0 24 7 8
-0 22 0 3
 0 9 -1 0
+0 22 0 3
+0 24 7 8
 1
 end_operator
 begin_operator
@@ -2361,9 +2361,9 @@ colfromfreecell sa d2 n4 n5
 0
 4
 0 8 2 3
-0 24 8 9
-0 22 0 3
 0 9 -1 0
+0 22 0 3
+0 24 8 9
 1
 end_operator
 begin_operator
@@ -2371,9 +2371,9 @@ colfromfreecell sa d2 n5 n6
 0
 4
 0 8 2 3
-0 24 9 10
-0 22 0 3
 0 9 -1 0
+0 22 0 3
+0 24 9 10
 1
 end_operator
 begin_operator
@@ -2381,9 +2381,9 @@ colfromfreecell sa d2 n6 n7
 0
 4
 0 8 2 3
-0 24 10 11
-0 22 0 3
 0 9 -1 0
+0 22 0 3
+0 24 10 11
 1
 end_operator
 begin_operator
@@ -2391,9 +2391,9 @@ colfromfreecell sa d2 n7 n8
 0
 4
 0 8 2 3
-0 24 11 12
-0 22 0 3
 0 9 -1 0
+0 22 0 3
+0 24 11 12
 1
 end_operator
 begin_operator
@@ -2401,9 +2401,9 @@ colfromfreecell sa d2 n8 n9
 0
 4
 0 8 2 3
-0 24 12 13
-0 22 0 3
 0 9 -1 0
+0 22 0 3
+0 24 12 13
 1
 end_operator
 begin_operator
@@ -2411,9 +2411,9 @@ colfromfreecell sa d2 n9 n10
 0
 4
 0 8 2 3
-0 24 13 2
-0 22 0 3
 0 9 -1 0
+0 22 0 3
+0 24 13 2
 1
 end_operator
 begin_operator
@@ -2421,9 +2421,9 @@ colfromfreecell sa h2 n0 n1
 0
 4
 0 8 2 4
-0 24 0 1
-0 19 0 3
 0 9 -1 0
+0 19 0 3
+0 24 0 1
 1
 end_operator
 begin_operator
@@ -2431,9 +2431,9 @@ colfromfreecell sa h2 n1 n2
 0
 4
 0 8 2 4
-0 24 1 6
-0 19 0 3
 0 9 -1 0
+0 19 0 3
+0 24 1 6
 1
 end_operator
 begin_operator
@@ -2441,9 +2441,9 @@ colfromfreecell sa h2 n10 n11
 0
 4
 0 8 2 4
-0 24 2 3
-0 19 0 3
 0 9 -1 0
+0 19 0 3
+0 24 2 3
 1
 end_operator
 begin_operator
@@ -2451,9 +2451,9 @@ colfromfreecell sa h2 n11 n12
 0
 4
 0 8 2 4
-0 24 3 4
-0 19 0 3
 0 9 -1 0
+0 19 0 3
+0 24 3 4
 1
 end_operator
 begin_operator
@@ -2461,9 +2461,9 @@ colfromfreecell sa h2 n12 n13
 0
 4
 0 8 2 4
-0 24 4 5
-0 19 0 3
 0 9 -1 0
+0 19 0 3
+0 24 4 5
 1
 end_operator
 begin_operator
@@ -2471,9 +2471,9 @@ colfromfreecell sa h2 n2 n3
 0
 4
 0 8 2 4
-0 24 6 7
-0 19 0 3
 0 9 -1 0
+0 19 0 3
+0 24 6 7
 1
 end_operator
 begin_operator
@@ -2481,9 +2481,9 @@ colfromfreecell sa h2 n3 n4
 0
 4
 0 8 2 4
-0 24 7 8
-0 19 0 3
 0 9 -1 0
+0 19 0 3
+0 24 7 8
 1
 end_operator
 begin_operator
@@ -2491,9 +2491,9 @@ colfromfreecell sa h2 n4 n5
 0
 4
 0 8 2 4
-0 24 8 9
-0 19 0 3
 0 9 -1 0
+0 19 0 3
+0 24 8 9
 1
 end_operator
 begin_operator
@@ -2501,9 +2501,9 @@ colfromfreecell sa h2 n5 n6
 0
 4
 0 8 2 4
-0 24 9 10
-0 19 0 3
 0 9 -1 0
+0 19 0 3
+0 24 9 10
 1
 end_operator
 begin_operator
@@ -2511,9 +2511,9 @@ colfromfreecell sa h2 n6 n7
 0
 4
 0 8 2 4
-0 24 10 11
-0 19 0 3
 0 9 -1 0
+0 19 0 3
+0 24 10 11
 1
 end_operator
 begin_operator
@@ -2521,9 +2521,9 @@ colfromfreecell sa h2 n7 n8
 0
 4
 0 8 2 4
-0 24 11 12
-0 19 0 3
 0 9 -1 0
+0 19 0 3
+0 24 11 12
 1
 end_operator
 begin_operator
@@ -2531,9 +2531,9 @@ colfromfreecell sa h2 n8 n9
 0
 4
 0 8 2 4
-0 24 12 13
-0 19 0 3
 0 9 -1 0
+0 19 0 3
+0 24 12 13
 1
 end_operator
 begin_operator
@@ -2541,134 +2541,134 @@ colfromfreecell sa h2 n9 n10
 0
 4
 0 8 2 4
-0 24 13 2
-0 19 0 3
 0 9 -1 0
+0 19 0 3
+0 24 13 2
 1
 end_operator
 begin_operator
 homefromfreecell c2 c n2 ca n1 n0 n1
 0
 3
+0 16 2 1
 0 21 1 5
 0 24 0 1
-0 16 2 1
 1
 end_operator
 begin_operator
 homefromfreecell c2 c n2 ca n1 n1 n2
 0
 3
+0 16 2 1
 0 21 1 5
 0 24 1 6
-0 16 2 1
 1
 end_operator
 begin_operator
 homefromfreecell c2 c n2 ca n1 n10 n11
 0
 3
+0 16 2 1
 0 21 1 5
 0 24 2 3
-0 16 2 1
 1
 end_operator
 begin_operator
 homefromfreecell c2 c n2 ca n1 n11 n12
 0
 3
+0 16 2 1
 0 21 1 5
 0 24 3 4
-0 16 2 1
 1
 end_operator
 begin_operator
 homefromfreecell c2 c n2 ca n1 n12 n13
 0
 3
+0 16 2 1
 0 21 1 5
 0 24 4 5
-0 16 2 1
 1
 end_operator
 begin_operator
 homefromfreecell c2 c n2 ca n1 n2 n3
 0
 3
+0 16 2 1
 0 21 1 5
 0 24 6 7
-0 16 2 1
 1
 end_operator
 begin_operator
 homefromfreecell c2 c n2 ca n1 n3 n4
 0
 3
+0 16 2 1
 0 21 1 5
 0 24 7 8
-0 16 2 1
 1
 end_operator
 begin_operator
 homefromfreecell c2 c n2 ca n1 n4 n5
 0
 3
+0 16 2 1
 0 21 1 5
 0 24 8 9
-0 16 2 1
 1
 end_operator
 begin_operator
 homefromfreecell c2 c n2 ca n1 n5 n6
 0
 3
+0 16 2 1
 0 21 1 5
 0 24 9 10
-0 16 2 1
 1
 end_operator
 begin_operator
 homefromfreecell c2 c n2 ca n1 n6 n7
 0
 3
+0 16 2 1
 0 21 1 5
 0 24 10 11
-0 16 2 1
 1
 end_operator
 begin_operator
 homefromfreecell c2 c n2 ca n1 n7 n8
 0
 3
+0 16 2 1
 0 21 1 5
 0 24 11 12
-0 16 2 1
 1
 end_operator
 begin_operator
 homefromfreecell c2 c n2 ca n1 n8 n9
 0
 3
+0 16 2 1
 0 21 1 5
 0 24 12 13
-0 16 2 1
 1
 end_operator
 begin_operator
 homefromfreecell c2 c n2 ca n1 n9 n10
 0
 3
+0 16 2 1
 0 21 1 5
 0 24 13 2
-0 16 2 1
 1
 end_operator
 begin_operator
 homefromfreecell c3 c n3 c2 n2 n0 n1
 0
 3
-0 24 0 1
 0 16 1 3
+0 24 0 1
 0 28 2 1
 1
 end_operator
@@ -2676,8 +2676,8 @@ begin_operator
 homefromfreecell c3 c n3 c2 n2 n1 n2
 0
 3
-0 24 1 6
 0 16 1 3
+0 24 1 6
 0 28 2 1
 1
 end_operator
@@ -2685,8 +2685,8 @@ begin_operator
 homefromfreecell c3 c n3 c2 n2 n10 n11
 0
 3
-0 24 2 3
 0 16 1 3
+0 24 2 3
 0 28 2 1
 1
 end_operator
@@ -2694,8 +2694,8 @@ begin_operator
 homefromfreecell c3 c n3 c2 n2 n11 n12
 0
 3
-0 24 3 4
 0 16 1 3
+0 24 3 4
 0 28 2 1
 1
 end_operator
@@ -2703,8 +2703,8 @@ begin_operator
 homefromfreecell c3 c n3 c2 n2 n12 n13
 0
 3
-0 24 4 5
 0 16 1 3
+0 24 4 5
 0 28 2 1
 1
 end_operator
@@ -2712,8 +2712,8 @@ begin_operator
 homefromfreecell c3 c n3 c2 n2 n2 n3
 0
 3
-0 24 6 7
 0 16 1 3
+0 24 6 7
 0 28 2 1
 1
 end_operator
@@ -2721,8 +2721,8 @@ begin_operator
 homefromfreecell c3 c n3 c2 n2 n3 n4
 0
 3
-0 24 7 8
 0 16 1 3
+0 24 7 8
 0 28 2 1
 1
 end_operator
@@ -2730,8 +2730,8 @@ begin_operator
 homefromfreecell c3 c n3 c2 n2 n4 n5
 0
 3
-0 24 8 9
 0 16 1 3
+0 24 8 9
 0 28 2 1
 1
 end_operator
@@ -2739,8 +2739,8 @@ begin_operator
 homefromfreecell c3 c n3 c2 n2 n5 n6
 0
 3
-0 24 9 10
 0 16 1 3
+0 24 9 10
 0 28 2 1
 1
 end_operator
@@ -2748,8 +2748,8 @@ begin_operator
 homefromfreecell c3 c n3 c2 n2 n6 n7
 0
 3
-0 24 10 11
 0 16 1 3
+0 24 10 11
 0 28 2 1
 1
 end_operator
@@ -2757,8 +2757,8 @@ begin_operator
 homefromfreecell c3 c n3 c2 n2 n7 n8
 0
 3
-0 24 11 12
 0 16 1 3
+0 24 11 12
 0 28 2 1
 1
 end_operator
@@ -2766,8 +2766,8 @@ begin_operator
 homefromfreecell c3 c n3 c2 n2 n8 n9
 0
 3
-0 24 12 13
 0 16 1 3
+0 24 12 13
 0 28 2 1
 1
 end_operator
@@ -2775,8 +2775,8 @@ begin_operator
 homefromfreecell c3 c n3 c2 n2 n9 n10
 0
 3
-0 24 13 2
 0 16 1 3
+0 24 13 2
 0 28 2 1
 1
 end_operator
@@ -2784,117 +2784,117 @@ begin_operator
 homefromfreecell ca c n1 c0 n0 n0 n1
 0
 3
+0 3 0 1
 0 21 2 1
 0 24 0 1
-0 3 0 1
 1
 end_operator
 begin_operator
 homefromfreecell ca c n1 c0 n0 n1 n2
 0
 3
+0 3 0 1
 0 21 2 1
 0 24 1 6
-0 3 0 1
 1
 end_operator
 begin_operator
 homefromfreecell ca c n1 c0 n0 n10 n11
 0
 3
+0 3 0 1
 0 21 2 1
 0 24 2 3
-0 3 0 1
 1
 end_operator
 begin_operator
 homefromfreecell ca c n1 c0 n0 n11 n12
 0
 3
+0 3 0 1
 0 21 2 1
 0 24 3 4
-0 3 0 1
 1
 end_operator
 begin_operator
 homefromfreecell ca c n1 c0 n0 n12 n13
 0
 3
+0 3 0 1
 0 21 2 1
 0 24 4 5
-0 3 0 1
 1
 end_operator
 begin_operator
 homefromfreecell ca c n1 c0 n0 n2 n3
 0
 3
+0 3 0 1
 0 21 2 1
 0 24 6 7
-0 3 0 1
 1
 end_operator
 begin_operator
 homefromfreecell ca c n1 c0 n0 n3 n4
 0
 3
+0 3 0 1
 0 21 2 1
 0 24 7 8
-0 3 0 1
 1
 end_operator
 begin_operator
 homefromfreecell ca c n1 c0 n0 n4 n5
 0
 3
+0 3 0 1
 0 21 2 1
 0 24 8 9
-0 3 0 1
 1
 end_operator
 begin_operator
 homefromfreecell ca c n1 c0 n0 n5 n6
 0
 3
+0 3 0 1
 0 21 2 1
 0 24 9 10
-0 3 0 1
 1
 end_operator
 begin_operator
 homefromfreecell ca c n1 c0 n0 n6 n7
 0
 3
+0 3 0 1
 0 21 2 1
 0 24 10 11
-0 3 0 1
 1
 end_operator
 begin_operator
 homefromfreecell ca c n1 c0 n0 n7 n8
 0
 3
+0 3 0 1
 0 21 2 1
 0 24 11 12
-0 3 0 1
 1
 end_operator
 begin_operator
 homefromfreecell ca c n1 c0 n0 n8 n9
 0
 3
+0 3 0 1
 0 21 2 1
 0 24 12 13
-0 3 0 1
 1
 end_operator
 begin_operator
 homefromfreecell ca c n1 c0 n0 n9 n10
 0
 3
+0 3 0 1
 0 21 2 1
 0 24 13 2
-0 3 0 1
 1
 end_operator
 begin_operator
@@ -2902,8 +2902,8 @@ homefromfreecell d2 d n2 da n1 n0 n1
 0
 3
 0 15 1 5
-0 24 0 1
 0 22 2 1
+0 24 0 1
 1
 end_operator
 begin_operator
@@ -2911,8 +2911,8 @@ homefromfreecell d2 d n2 da n1 n1 n2
 0
 3
 0 15 1 5
-0 24 1 6
 0 22 2 1
+0 24 1 6
 1
 end_operator
 begin_operator
@@ -2920,8 +2920,8 @@ homefromfreecell d2 d n2 da n1 n10 n11
 0
 3
 0 15 1 5
-0 24 2 3
 0 22 2 1
+0 24 2 3
 1
 end_operator
 begin_operator
@@ -2929,8 +2929,8 @@ homefromfreecell d2 d n2 da n1 n11 n12
 0
 3
 0 15 1 5
-0 24 3 4
 0 22 2 1
+0 24 3 4
 1
 end_operator
 begin_operator
@@ -2938,8 +2938,8 @@ homefromfreecell d2 d n2 da n1 n12 n13
 0
 3
 0 15 1 5
-0 24 4 5
 0 22 2 1
+0 24 4 5
 1
 end_operator
 begin_operator
@@ -2947,8 +2947,8 @@ homefromfreecell d2 d n2 da n1 n2 n3
 0
 3
 0 15 1 5
-0 24 6 7
 0 22 2 1
+0 24 6 7
 1
 end_operator
 begin_operator
@@ -2956,8 +2956,8 @@ homefromfreecell d2 d n2 da n1 n3 n4
 0
 3
 0 15 1 5
-0 24 7 8
 0 22 2 1
+0 24 7 8
 1
 end_operator
 begin_operator
@@ -2965,8 +2965,8 @@ homefromfreecell d2 d n2 da n1 n4 n5
 0
 3
 0 15 1 5
-0 24 8 9
 0 22 2 1
+0 24 8 9
 1
 end_operator
 begin_operator
@@ -2974,8 +2974,8 @@ homefromfreecell d2 d n2 da n1 n5 n6
 0
 3
 0 15 1 5
-0 24 9 10
 0 22 2 1
+0 24 9 10
 1
 end_operator
 begin_operator
@@ -2983,8 +2983,8 @@ homefromfreecell d2 d n2 da n1 n6 n7
 0
 3
 0 15 1 5
-0 24 10 11
 0 22 2 1
+0 24 10 11
 1
 end_operator
 begin_operator
@@ -2992,8 +2992,8 @@ homefromfreecell d2 d n2 da n1 n7 n8
 0
 3
 0 15 1 5
-0 24 11 12
 0 22 2 1
+0 24 11 12
 1
 end_operator
 begin_operator
@@ -3001,8 +3001,8 @@ homefromfreecell d2 d n2 da n1 n8 n9
 0
 3
 0 15 1 5
-0 24 12 13
 0 22 2 1
+0 24 12 13
 1
 end_operator
 begin_operator
@@ -3010,16 +3010,16 @@ homefromfreecell d2 d n2 da n1 n9 n10
 0
 3
 0 15 1 5
-0 24 13 2
 0 22 2 1
+0 24 13 2
 1
 end_operator
 begin_operator
 homefromfreecell d3 d n3 d2 n2 n0 n1
 0
 3
-0 24 0 1
 0 22 1 3
+0 24 0 1
 0 29 2 1
 1
 end_operator
@@ -3027,8 +3027,8 @@ begin_operator
 homefromfreecell d3 d n3 d2 n2 n1 n2
 0
 3
-0 24 1 6
 0 22 1 3
+0 24 1 6
 0 29 2 1
 1
 end_operator
@@ -3036,8 +3036,8 @@ begin_operator
 homefromfreecell d3 d n3 d2 n2 n10 n11
 0
 3
-0 24 2 3
 0 22 1 3
+0 24 2 3
 0 29 2 1
 1
 end_operator
@@ -3045,8 +3045,8 @@ begin_operator
 homefromfreecell d3 d n3 d2 n2 n11 n12
 0
 3
-0 24 3 4
 0 22 1 3
+0 24 3 4
 0 29 2 1
 1
 end_operator
@@ -3054,8 +3054,8 @@ begin_operator
 homefromfreecell d3 d n3 d2 n2 n12 n13
 0
 3
-0 24 4 5
 0 22 1 3
+0 24 4 5
 0 29 2 1
 1
 end_operator
@@ -3063,8 +3063,8 @@ begin_operator
 homefromfreecell d3 d n3 d2 n2 n2 n3
 0
 3
-0 24 6 7
 0 22 1 3
+0 24 6 7
 0 29 2 1
 1
 end_operator
@@ -3072,8 +3072,8 @@ begin_operator
 homefromfreecell d3 d n3 d2 n2 n3 n4
 0
 3
-0 24 7 8
 0 22 1 3
+0 24 7 8
 0 29 2 1
 1
 end_operator
@@ -3081,8 +3081,8 @@ begin_operator
 homefromfreecell d3 d n3 d2 n2 n4 n5
 0
 3
-0 24 8 9
 0 22 1 3
+0 24 8 9
 0 29 2 1
 1
 end_operator
@@ -3090,8 +3090,8 @@ begin_operator
 homefromfreecell d3 d n3 d2 n2 n5 n6
 0
 3
-0 24 9 10
 0 22 1 3
+0 24 9 10
 0 29 2 1
 1
 end_operator
@@ -3099,8 +3099,8 @@ begin_operator
 homefromfreecell d3 d n3 d2 n2 n6 n7
 0
 3
-0 24 10 11
 0 22 1 3
+0 24 10 11
 0 29 2 1
 1
 end_operator
@@ -3108,8 +3108,8 @@ begin_operator
 homefromfreecell d3 d n3 d2 n2 n7 n8
 0
 3
-0 24 11 12
 0 22 1 3
+0 24 11 12
 0 29 2 1
 1
 end_operator
@@ -3117,8 +3117,8 @@ begin_operator
 homefromfreecell d3 d n3 d2 n2 n8 n9
 0
 3
-0 24 12 13
 0 22 1 3
+0 24 12 13
 0 29 2 1
 1
 end_operator
@@ -3126,8 +3126,8 @@ begin_operator
 homefromfreecell d3 d n3 d2 n2 n9 n10
 0
 3
-0 24 13 2
 0 22 1 3
+0 24 13 2
 0 29 2 1
 1
 end_operator
@@ -3135,117 +3135,117 @@ begin_operator
 homefromfreecell da d n1 d0 n0 n0 n1
 0
 3
+0 2 0 1
 0 15 2 1
 0 24 0 1
-0 2 0 1
 1
 end_operator
 begin_operator
 homefromfreecell da d n1 d0 n0 n1 n2
 0
 3
+0 2 0 1
 0 15 2 1
 0 24 1 6
-0 2 0 1
 1
 end_operator
 begin_operator
 homefromfreecell da d n1 d0 n0 n10 n11
 0
 3
+0 2 0 1
 0 15 2 1
 0 24 2 3
-0 2 0 1
 1
 end_operator
 begin_operator
 homefromfreecell da d n1 d0 n0 n11 n12
 0
 3
+0 2 0 1
 0 15 2 1
 0 24 3 4
-0 2 0 1
 1
 end_operator
 begin_operator
 homefromfreecell da d n1 d0 n0 n12 n13
 0
 3
+0 2 0 1
 0 15 2 1
 0 24 4 5
-0 2 0 1
 1
 end_operator
 begin_operator
 homefromfreecell da d n1 d0 n0 n2 n3
 0
 3
+0 2 0 1
 0 15 2 1
 0 24 6 7
-0 2 0 1
 1
 end_operator
 begin_operator
 homefromfreecell da d n1 d0 n0 n3 n4
 0
 3
+0 2 0 1
 0 15 2 1
 0 24 7 8
-0 2 0 1
 1
 end_operator
 begin_operator
 homefromfreecell da d n1 d0 n0 n4 n5
 0
 3
+0 2 0 1
 0 15 2 1
 0 24 8 9
-0 2 0 1
 1
 end_operator
 begin_operator
 homefromfreecell da d n1 d0 n0 n5 n6
 0
 3
+0 2 0 1
 0 15 2 1
 0 24 9 10
-0 2 0 1
 1
 end_operator
 begin_operator
 homefromfreecell da d n1 d0 n0 n6 n7
 0
 3
+0 2 0 1
 0 15 2 1
 0 24 10 11
-0 2 0 1
 1
 end_operator
 begin_operator
 homefromfreecell da d n1 d0 n0 n7 n8
 0
 3
+0 2 0 1
 0 15 2 1
 0 24 11 12
-0 2 0 1
 1
 end_operator
 begin_operator
 homefromfreecell da d n1 d0 n0 n8 n9
 0
 3
+0 2 0 1
 0 15 2 1
 0 24 12 13
-0 2 0 1
 1
 end_operator
 begin_operator
 homefromfreecell da d n1 d0 n0 n9 n10
 0
 3
+0 2 0 1
 0 15 2 1
 0 24 13 2
-0 2 0 1
 1
 end_operator
 begin_operator
@@ -3253,8 +3253,8 @@ homefromfreecell h2 h n2 ha n1 n0 n1
 0
 3
 0 12 1 4
-0 24 0 1
 0 19 2 1
+0 24 0 1
 1
 end_operator
 begin_operator
@@ -3262,8 +3262,8 @@ homefromfreecell h2 h n2 ha n1 n1 n2
 0
 3
 0 12 1 4
-0 24 1 6
 0 19 2 1
+0 24 1 6
 1
 end_operator
 begin_operator
@@ -3271,8 +3271,8 @@ homefromfreecell h2 h n2 ha n1 n10 n11
 0
 3
 0 12 1 4
-0 24 2 3
 0 19 2 1
+0 24 2 3
 1
 end_operator
 begin_operator
@@ -3280,8 +3280,8 @@ homefromfreecell h2 h n2 ha n1 n11 n12
 0
 3
 0 12 1 4
-0 24 3 4
 0 19 2 1
+0 24 3 4
 1
 end_operator
 begin_operator
@@ -3289,8 +3289,8 @@ homefromfreecell h2 h n2 ha n1 n12 n13
 0
 3
 0 12 1 4
-0 24 4 5
 0 19 2 1
+0 24 4 5
 1
 end_operator
 begin_operator
@@ -3298,8 +3298,8 @@ homefromfreecell h2 h n2 ha n1 n2 n3
 0
 3
 0 12 1 4
-0 24 6 7
 0 19 2 1
+0 24 6 7
 1
 end_operator
 begin_operator
@@ -3307,8 +3307,8 @@ homefromfreecell h2 h n2 ha n1 n3 n4
 0
 3
 0 12 1 4
-0 24 7 8
 0 19 2 1
+0 24 7 8
 1
 end_operator
 begin_operator
@@ -3316,8 +3316,8 @@ homefromfreecell h2 h n2 ha n1 n4 n5
 0
 3
 0 12 1 4
-0 24 8 9
 0 19 2 1
+0 24 8 9
 1
 end_operator
 begin_operator
@@ -3325,8 +3325,8 @@ homefromfreecell h2 h n2 ha n1 n5 n6
 0
 3
 0 12 1 4
-0 24 9 10
 0 19 2 1
+0 24 9 10
 1
 end_operator
 begin_operator
@@ -3334,8 +3334,8 @@ homefromfreecell h2 h n2 ha n1 n6 n7
 0
 3
 0 12 1 4
-0 24 10 11
 0 19 2 1
+0 24 10 11
 1
 end_operator
 begin_operator
@@ -3343,8 +3343,8 @@ homefromfreecell h2 h n2 ha n1 n7 n8
 0
 3
 0 12 1 4
-0 24 11 12
 0 19 2 1
+0 24 11 12
 1
 end_operator
 begin_operator
@@ -3352,8 +3352,8 @@ homefromfreecell h2 h n2 ha n1 n8 n9
 0
 3
 0 12 1 4
-0 24 12 13
 0 19 2 1
+0 24 12 13
 1
 end_operator
 begin_operator
@@ -3361,16 +3361,16 @@ homefromfreecell h2 h n2 ha n1 n9 n10
 0
 3
 0 12 1 4
-0 24 13 2
 0 19 2 1
+0 24 13 2
 1
 end_operator
 begin_operator
 homefromfreecell h3 h n3 h2 n2 n0 n1
 0
 3
-0 24 0 1
 0 19 1 3
+0 24 0 1
 0 26 2 1
 1
 end_operator
@@ -3378,8 +3378,8 @@ begin_operator
 homefromfreecell h3 h n3 h2 n2 n1 n2
 0
 3
-0 24 1 6
 0 19 1 3
+0 24 1 6
 0 26 2 1
 1
 end_operator
@@ -3387,8 +3387,8 @@ begin_operator
 homefromfreecell h3 h n3 h2 n2 n10 n11
 0
 3
-0 24 2 3
 0 19 1 3
+0 24 2 3
 0 26 2 1
 1
 end_operator
@@ -3396,8 +3396,8 @@ begin_operator
 homefromfreecell h3 h n3 h2 n2 n11 n12
 0
 3
-0 24 3 4
 0 19 1 3
+0 24 3 4
 0 26 2 1
 1
 end_operator
@@ -3405,8 +3405,8 @@ begin_operator
 homefromfreecell h3 h n3 h2 n2 n12 n13
 0
 3
-0 24 4 5
 0 19 1 3
+0 24 4 5
 0 26 2 1
 1
 end_operator
@@ -3414,8 +3414,8 @@ begin_operator
 homefromfreecell h3 h n3 h2 n2 n2 n3
 0
 3
-0 24 6 7
 0 19 1 3
+0 24 6 7
 0 26 2 1
 1
 end_operator
@@ -3423,8 +3423,8 @@ begin_operator
 homefromfreecell h3 h n3 h2 n2 n3 n4
 0
 3
-0 24 7 8
 0 19 1 3
+0 24 7 8
 0 26 2 1
 1
 end_operator
@@ -3432,8 +3432,8 @@ begin_operator
 homefromfreecell h3 h n3 h2 n2 n4 n5
 0
 3
-0 24 8 9
 0 19 1 3
+0 24 8 9
 0 26 2 1
 1
 end_operator
@@ -3441,8 +3441,8 @@ begin_operator
 homefromfreecell h3 h n3 h2 n2 n5 n6
 0
 3
-0 24 9 10
 0 19 1 3
+0 24 9 10
 0 26 2 1
 1
 end_operator
@@ -3450,8 +3450,8 @@ begin_operator
 homefromfreecell h3 h n3 h2 n2 n6 n7
 0
 3
-0 24 10 11
 0 19 1 3
+0 24 10 11
 0 26 2 1
 1
 end_operator
@@ -3459,8 +3459,8 @@ begin_operator
 homefromfreecell h3 h n3 h2 n2 n7 n8
 0
 3
-0 24 11 12
 0 19 1 3
+0 24 11 12
 0 26 2 1
 1
 end_operator
@@ -3468,8 +3468,8 @@ begin_operator
 homefromfreecell h3 h n3 h2 n2 n8 n9
 0
 3
-0 24 12 13
 0 19 1 3
+0 24 12 13
 0 26 2 1
 1
 end_operator
@@ -3477,8 +3477,8 @@ begin_operator
 homefromfreecell h3 h n3 h2 n2 n9 n10
 0
 3
-0 24 13 2
 0 19 1 3
+0 24 13 2
 0 26 2 1
 1
 end_operator
@@ -3486,117 +3486,117 @@ begin_operator
 homefromfreecell ha h n1 h0 n0 n0 n1
 0
 3
+0 1 0 1
 0 12 2 1
 0 24 0 1
-0 1 0 1
 1
 end_operator
 begin_operator
 homefromfreecell ha h n1 h0 n0 n1 n2
 0
 3
+0 1 0 1
 0 12 2 1
 0 24 1 6
-0 1 0 1
 1
 end_operator
 begin_operator
 homefromfreecell ha h n1 h0 n0 n10 n11
 0
 3
+0 1 0 1
 0 12 2 1
 0 24 2 3
-0 1 0 1
 1
 end_operator
 begin_operator
 homefromfreecell ha h n1 h0 n0 n11 n12
 0
 3
+0 1 0 1
 0 12 2 1
 0 24 3 4
-0 1 0 1
 1
 end_operator
 begin_operator
 homefromfreecell ha h n1 h0 n0 n12 n13
 0
 3
+0 1 0 1
 0 12 2 1
 0 24 4 5
-0 1 0 1
 1
 end_operator
 begin_operator
 homefromfreecell ha h n1 h0 n0 n2 n3
 0
 3
+0 1 0 1
 0 12 2 1
 0 24 6 7
-0 1 0 1
 1
 end_operator
 begin_operator
 homefromfreecell ha h n1 h0 n0 n3 n4
 0
 3
+0 1 0 1
 0 12 2 1
 0 24 7 8
-0 1 0 1
 1
 end_operator
 begin_operator
 homefromfreecell ha h n1 h0 n0 n4 n5
 0
 3
+0 1 0 1
 0 12 2 1
 0 24 8 9
-0 1 0 1
 1
 end_operator
 begin_operator
 homefromfreecell ha h n1 h0 n0 n5 n6
 0
 3
+0 1 0 1
 0 12 2 1
 0 24 9 10
-0 1 0 1
 1
 end_operator
 begin_operator
 homefromfreecell ha h n1 h0 n0 n6 n7
 0
 3
+0 1 0 1
 0 12 2 1
 0 24 10 11
-0 1 0 1
 1
 end_operator
 begin_operator
 homefromfreecell ha h n1 h0 n0 n7 n8
 0
 3
+0 1 0 1
 0 12 2 1
 0 24 11 12
-0 1 0 1
 1
 end_operator
 begin_operator
 homefromfreecell ha h n1 h0 n0 n8 n9
 0
 3
+0 1 0 1
 0 12 2 1
 0 24 12 13
-0 1 0 1
 1
 end_operator
 begin_operator
 homefromfreecell ha h n1 h0 n0 n9 n10
 0
 3
+0 1 0 1
 0 12 2 1
 0 24 13 2
-0 1 0 1
 1
 end_operator
 begin_operator
@@ -3604,8 +3604,8 @@ homefromfreecell s2 s n2 sa n1 n0 n1
 0
 3
 0 8 1 5
-0 24 0 1
 0 11 2 1
+0 24 0 1
 1
 end_operator
 begin_operator
@@ -3613,8 +3613,8 @@ homefromfreecell s2 s n2 sa n1 n1 n2
 0
 3
 0 8 1 5
-0 24 1 6
 0 11 2 1
+0 24 1 6
 1
 end_operator
 begin_operator
@@ -3622,8 +3622,8 @@ homefromfreecell s2 s n2 sa n1 n10 n11
 0
 3
 0 8 1 5
-0 24 2 3
 0 11 2 1
+0 24 2 3
 1
 end_operator
 begin_operator
@@ -3631,8 +3631,8 @@ homefromfreecell s2 s n2 sa n1 n11 n12
 0
 3
 0 8 1 5
-0 24 3 4
 0 11 2 1
+0 24 3 4
 1
 end_operator
 begin_operator
@@ -3640,8 +3640,8 @@ homefromfreecell s2 s n2 sa n1 n12 n13
 0
 3
 0 8 1 5
-0 24 4 5
 0 11 2 1
+0 24 4 5
 1
 end_operator
 begin_operator
@@ -3649,8 +3649,8 @@ homefromfreecell s2 s n2 sa n1 n2 n3
 0
 3
 0 8 1 5
-0 24 6 7
 0 11 2 1
+0 24 6 7
 1
 end_operator
 begin_operator
@@ -3658,8 +3658,8 @@ homefromfreecell s2 s n2 sa n1 n3 n4
 0
 3
 0 8 1 5
-0 24 7 8
 0 11 2 1
+0 24 7 8
 1
 end_operator
 begin_operator
@@ -3667,8 +3667,8 @@ homefromfreecell s2 s n2 sa n1 n4 n5
 0
 3
 0 8 1 5
-0 24 8 9
 0 11 2 1
+0 24 8 9
 1
 end_operator
 begin_operator
@@ -3676,8 +3676,8 @@ homefromfreecell s2 s n2 sa n1 n5 n6
 0
 3
 0 8 1 5
-0 24 9 10
 0 11 2 1
+0 24 9 10
 1
 end_operator
 begin_operator
@@ -3685,8 +3685,8 @@ homefromfreecell s2 s n2 sa n1 n6 n7
 0
 3
 0 8 1 5
-0 24 10 11
 0 11 2 1
+0 24 10 11
 1
 end_operator
 begin_operator
@@ -3694,8 +3694,8 @@ homefromfreecell s2 s n2 sa n1 n7 n8
 0
 3
 0 8 1 5
-0 24 11 12
 0 11 2 1
+0 24 11 12
 1
 end_operator
 begin_operator
@@ -3703,8 +3703,8 @@ homefromfreecell s2 s n2 sa n1 n8 n9
 0
 3
 0 8 1 5
-0 24 12 13
 0 11 2 1
+0 24 12 13
 1
 end_operator
 begin_operator
@@ -3712,16 +3712,16 @@ homefromfreecell s2 s n2 sa n1 n9 n10
 0
 3
 0 8 1 5
-0 24 13 2
 0 11 2 1
+0 24 13 2
 1
 end_operator
 begin_operator
 homefromfreecell s3 s n3 s2 n2 n0 n1
 0
 3
-0 24 0 1
 0 11 1 6
+0 24 0 1
 0 27 2 1
 1
 end_operator
@@ -3729,8 +3729,8 @@ begin_operator
 homefromfreecell s3 s n3 s2 n2 n1 n2
 0
 3
-0 24 1 6
 0 11 1 6
+0 24 1 6
 0 27 2 1
 1
 end_operator
@@ -3738,8 +3738,8 @@ begin_operator
 homefromfreecell s3 s n3 s2 n2 n10 n11
 0
 3
-0 24 2 3
 0 11 1 6
+0 24 2 3
 0 27 2 1
 1
 end_operator
@@ -3747,8 +3747,8 @@ begin_operator
 homefromfreecell s3 s n3 s2 n2 n11 n12
 0
 3
-0 24 3 4
 0 11 1 6
+0 24 3 4
 0 27 2 1
 1
 end_operator
@@ -3756,8 +3756,8 @@ begin_operator
 homefromfreecell s3 s n3 s2 n2 n12 n13
 0
 3
-0 24 4 5
 0 11 1 6
+0 24 4 5
 0 27 2 1
 1
 end_operator
@@ -3765,8 +3765,8 @@ begin_operator
 homefromfreecell s3 s n3 s2 n2 n2 n3
 0
 3
-0 24 6 7
 0 11 1 6
+0 24 6 7
 0 27 2 1
 1
 end_operator
@@ -3774,8 +3774,8 @@ begin_operator
 homefromfreecell s3 s n3 s2 n2 n3 n4
 0
 3
-0 24 7 8
 0 11 1 6
+0 24 7 8
 0 27 2 1
 1
 end_operator
@@ -3783,8 +3783,8 @@ begin_operator
 homefromfreecell s3 s n3 s2 n2 n4 n5
 0
 3
-0 24 8 9
 0 11 1 6
+0 24 8 9
 0 27 2 1
 1
 end_operator
@@ -3792,8 +3792,8 @@ begin_operator
 homefromfreecell s3 s n3 s2 n2 n5 n6
 0
 3
-0 24 9 10
 0 11 1 6
+0 24 9 10
 0 27 2 1
 1
 end_operator
@@ -3801,8 +3801,8 @@ begin_operator
 homefromfreecell s3 s n3 s2 n2 n6 n7
 0
 3
-0 24 10 11
 0 11 1 6
+0 24 10 11
 0 27 2 1
 1
 end_operator
@@ -3810,8 +3810,8 @@ begin_operator
 homefromfreecell s3 s n3 s2 n2 n7 n8
 0
 3
-0 24 11 12
 0 11 1 6
+0 24 11 12
 0 27 2 1
 1
 end_operator
@@ -3819,8 +3819,8 @@ begin_operator
 homefromfreecell s3 s n3 s2 n2 n8 n9
 0
 3
-0 24 12 13
 0 11 1 6
+0 24 12 13
 0 27 2 1
 1
 end_operator
@@ -3828,8 +3828,8 @@ begin_operator
 homefromfreecell s3 s n3 s2 n2 n9 n10
 0
 3
-0 24 13 2
 0 11 1 6
+0 24 13 2
 0 27 2 1
 1
 end_operator
@@ -3837,117 +3837,117 @@ begin_operator
 homefromfreecell sa s n1 s0 n0 n0 n1
 0
 3
+0 0 0 1
 0 8 2 1
 0 24 0 1
-0 0 0 1
 1
 end_operator
 begin_operator
 homefromfreecell sa s n1 s0 n0 n1 n2
 0
 3
+0 0 0 1
 0 8 2 1
 0 24 1 6
-0 0 0 1
 1
 end_operator
 begin_operator
 homefromfreecell sa s n1 s0 n0 n10 n11
 0
 3
+0 0 0 1
 0 8 2 1
 0 24 2 3
-0 0 0 1
 1
 end_operator
 begin_operator
 homefromfreecell sa s n1 s0 n0 n11 n12
 0
 3
+0 0 0 1
 0 8 2 1
 0 24 3 4
-0 0 0 1
 1
 end_operator
 begin_operator
 homefromfreecell sa s n1 s0 n0 n12 n13
 0
 3
+0 0 0 1
 0 8 2 1
 0 24 4 5
-0 0 0 1
 1
 end_operator
 begin_operator
 homefromfreecell sa s n1 s0 n0 n2 n3
 0
 3
+0 0 0 1
 0 8 2 1
 0 24 6 7
-0 0 0 1
 1
 end_operator
 begin_operator
 homefromfreecell sa s n1 s0 n0 n3 n4
 0
 3
+0 0 0 1
 0 8 2 1
 0 24 7 8
-0 0 0 1
 1
 end_operator
 begin_operator
 homefromfreecell sa s n1 s0 n0 n4 n5
 0
 3
+0 0 0 1
 0 8 2 1
 0 24 8 9
-0 0 0 1
 1
 end_operator
 begin_operator
 homefromfreecell sa s n1 s0 n0 n5 n6
 0
 3
+0 0 0 1
 0 8 2 1
 0 24 9 10
-0 0 0 1
 1
 end_operator
 begin_operator
 homefromfreecell sa s n1 s0 n0 n6 n7
 0
 3
+0 0 0 1
 0 8 2 1
 0 24 10 11
-0 0 0 1
 1
 end_operator
 begin_operator
 homefromfreecell sa s n1 s0 n0 n7 n8
 0
 3
+0 0 0 1
 0 8 2 1
 0 24 11 12
-0 0 0 1
 1
 end_operator
 begin_operator
 homefromfreecell sa s n1 s0 n0 n8 n9
 0
 3
+0 0 0 1
 0 8 2 1
 0 24 12 13
-0 0 0 1
 1
 end_operator
 begin_operator
 homefromfreecell sa s n1 s0 n0 n9 n10
 0
 3
+0 0 0 1
 0 8 2 1
 0 24 13 2
-0 0 0 1
 1
 end_operator
 begin_operator
@@ -3955,8 +3955,8 @@ move c2 d3 h3
 1
 16 0
 2
-0 29 3 0
 0 26 0 3
+0 29 3 0
 1
 end_operator
 begin_operator
@@ -3964,8 +3964,8 @@ move c2 h3 d3
 1
 16 0
 2
-0 29 0 3
 0 26 3 0
+0 29 0 3
 1
 end_operator
 begin_operator
@@ -3973,9 +3973,9 @@ move ca d2 h2
 1
 20 0
 3
+0 19 0 3
 0 21 3 4
 0 22 -1 0
-0 19 0 3
 1
 end_operator
 begin_operator
@@ -3993,9 +3993,9 @@ move ca d3 h2
 1
 20 0
 3
+0 19 0 3
 0 21 -1 4
 0 29 4 0
-0 19 0 3
 1
 end_operator
 begin_operator
@@ -4003,9 +4003,9 @@ move ca h2 d2
 1
 20 0
 3
+0 19 -1 0
 0 21 4 3
 0 22 0 3
-0 19 -1 0
 1
 end_operator
 begin_operator
@@ -4013,8 +4013,8 @@ move d2 c3 s3
 1
 22 0
 2
-0 28 3 0
 0 27 0 3
+0 28 3 0
 1
 end_operator
 begin_operator
@@ -4022,8 +4022,8 @@ move d2 s3 c3
 1
 22 0
 2
-0 28 0 3
 0 27 3 0
+0 28 0 3
 1
 end_operator
 begin_operator
@@ -4031,9 +4031,9 @@ move da c2 s2
 1
 14 0
 3
+0 11 0 4
 0 15 3 5
 0 16 -1 0
-0 11 0 4
 1
 end_operator
 begin_operator
@@ -4041,9 +4041,9 @@ move da s2 c2
 1
 14 0
 3
+0 11 4 0
 0 15 -1 3
 0 16 0 3
-0 11 4 0
 1
 end_operator
 begin_operator
@@ -4051,9 +4051,9 @@ move da sa c2
 1
 14 0
 3
+0 9 -1 0
 0 15 4 3
 0 16 0 3
-0 9 -1 0
 1
 end_operator
 begin_operator
@@ -4061,9 +4061,9 @@ move da sa s2
 1
 14 0
 3
-0 15 4 5
-0 11 0 4
 0 9 -1 0
+0 11 0 4
+0 15 4 5
 1
 end_operator
 begin_operator
@@ -4071,8 +4071,8 @@ move h2 c3 s3
 1
 19 0
 2
-0 28 4 0
 0 27 0 4
+0 28 4 0
 1
 end_operator
 begin_operator
@@ -4080,8 +4080,8 @@ move h2 s3 c3
 1
 19 0
 2
-0 28 0 4
 0 27 4 0
+0 28 0 4
 1
 end_operator
 begin_operator
@@ -4089,9 +4089,9 @@ move ha c2 s2
 1
 13 0
 3
+0 11 0 5
 0 12 3 4
 0 16 -1 0
-0 11 0 5
 1
 end_operator
 begin_operator
@@ -4099,9 +4099,9 @@ move ha s2 c2
 1
 13 0
 3
+0 11 5 0
 0 12 -1 3
 0 16 0 3
-0 11 5 0
 1
 end_operator
 begin_operator
@@ -4109,8 +4109,8 @@ move s2 d3 h3
 1
 11 0
 2
-0 29 5 0
 0 26 0 4
+0 29 5 0
 1
 end_operator
 begin_operator
@@ -4118,8 +4118,8 @@ move s2 h3 d3
 1
 11 0
 2
-0 29 0 5
 0 26 4 0
+0 29 0 5
 1
 end_operator
 begin_operator
@@ -4128,8 +4128,8 @@ move sa d2 h2
 9 0
 3
 0 8 3 4
-0 22 -1 0
 0 19 0 3
+0 22 -1 0
 1
 end_operator
 begin_operator
@@ -4138,8 +4138,8 @@ move sa h2 d2
 9 0
 3
 0 8 4 3
-0 22 0 3
 0 19 -1 0
+0 22 0 3
 1
 end_operator
 begin_operator
@@ -4148,8 +4148,8 @@ move-b c2 d3 n0 n1
 16 0
 3
 0 17 0 1
-0 29 0 3
 0 25 0 1
+0 29 0 3
 1
 end_operator
 begin_operator
@@ -4158,8 +4158,8 @@ move-b c2 d3 n1 n2
 16 0
 3
 0 17 0 1
-0 29 0 3
 0 25 1 6
+0 29 0 3
 1
 end_operator
 begin_operator
@@ -4168,8 +4168,8 @@ move-b c2 d3 n10 n11
 16 0
 3
 0 17 0 1
-0 29 0 3
 0 25 2 3
+0 29 0 3
 1
 end_operator
 begin_operator
@@ -4178,8 +4178,8 @@ move-b c2 d3 n11 n12
 16 0
 3
 0 17 0 1
-0 29 0 3
 0 25 3 4
+0 29 0 3
 1
 end_operator
 begin_operator
@@ -4188,8 +4188,8 @@ move-b c2 d3 n12 n13
 16 0
 3
 0 17 0 1
-0 29 0 3
 0 25 4 5
+0 29 0 3
 1
 end_operator
 begin_operator
@@ -4198,8 +4198,8 @@ move-b c2 d3 n2 n3
 16 0
 3
 0 17 0 1
-0 29 0 3
 0 25 6 7
+0 29 0 3
 1
 end_operator
 begin_operator
@@ -4208,8 +4208,8 @@ move-b c2 d3 n3 n4
 16 0
 3
 0 17 0 1
-0 29 0 3
 0 25 7 8
+0 29 0 3
 1
 end_operator
 begin_operator
@@ -4218,8 +4218,8 @@ move-b c2 d3 n4 n5
 16 0
 3
 0 17 0 1
-0 29 0 3
 0 25 8 9
+0 29 0 3
 1
 end_operator
 begin_operator
@@ -4228,8 +4228,8 @@ move-b c2 d3 n5 n6
 16 0
 3
 0 17 0 1
-0 29 0 3
 0 25 9 10
+0 29 0 3
 1
 end_operator
 begin_operator
@@ -4238,8 +4238,8 @@ move-b c2 d3 n6 n7
 16 0
 3
 0 17 0 1
-0 29 0 3
 0 25 10 11
+0 29 0 3
 1
 end_operator
 begin_operator
@@ -4248,8 +4248,8 @@ move-b c2 d3 n7 n8
 16 0
 3
 0 17 0 1
-0 29 0 3
 0 25 11 12
+0 29 0 3
 1
 end_operator
 begin_operator
@@ -4258,8 +4258,8 @@ move-b c2 d3 n8 n9
 16 0
 3
 0 17 0 1
-0 29 0 3
 0 25 12 13
+0 29 0 3
 1
 end_operator
 begin_operator
@@ -4268,8 +4268,8 @@ move-b c2 d3 n9 n10
 16 0
 3
 0 17 0 1
-0 29 0 3
 0 25 13 2
+0 29 0 3
 1
 end_operator
 begin_operator
@@ -4278,8 +4278,8 @@ move-b c2 h3 n0 n1
 16 0
 3
 0 17 0 1
-0 26 0 3
 0 25 0 1
+0 26 0 3
 1
 end_operator
 begin_operator
@@ -4288,8 +4288,8 @@ move-b c2 h3 n1 n2
 16 0
 3
 0 17 0 1
-0 26 0 3
 0 25 1 6
+0 26 0 3
 1
 end_operator
 begin_operator
@@ -4298,8 +4298,8 @@ move-b c2 h3 n10 n11
 16 0
 3
 0 17 0 1
-0 26 0 3
 0 25 2 3
+0 26 0 3
 1
 end_operator
 begin_operator
@@ -4308,8 +4308,8 @@ move-b c2 h3 n11 n12
 16 0
 3
 0 17 0 1
-0 26 0 3
 0 25 3 4
+0 26 0 3
 1
 end_operator
 begin_operator
@@ -4318,8 +4318,8 @@ move-b c2 h3 n12 n13
 16 0
 3
 0 17 0 1
-0 26 0 3
 0 25 4 5
+0 26 0 3
 1
 end_operator
 begin_operator
@@ -4328,8 +4328,8 @@ move-b c2 h3 n2 n3
 16 0
 3
 0 17 0 1
-0 26 0 3
 0 25 6 7
+0 26 0 3
 1
 end_operator
 begin_operator
@@ -4338,8 +4338,8 @@ move-b c2 h3 n3 n4
 16 0
 3
 0 17 0 1
-0 26 0 3
 0 25 7 8
+0 26 0 3
 1
 end_operator
 begin_operator
@@ -4348,8 +4348,8 @@ move-b c2 h3 n4 n5
 16 0
 3
 0 17 0 1
-0 26 0 3
 0 25 8 9
+0 26 0 3
 1
 end_operator
 begin_operator
@@ -4358,8 +4358,8 @@ move-b c2 h3 n5 n6
 16 0
 3
 0 17 0 1
-0 26 0 3
 0 25 9 10
+0 26 0 3
 1
 end_operator
 begin_operator
@@ -4368,8 +4368,8 @@ move-b c2 h3 n6 n7
 16 0
 3
 0 17 0 1
-0 26 0 3
 0 25 10 11
+0 26 0 3
 1
 end_operator
 begin_operator
@@ -4378,8 +4378,8 @@ move-b c2 h3 n7 n8
 16 0
 3
 0 17 0 1
-0 26 0 3
 0 25 11 12
+0 26 0 3
 1
 end_operator
 begin_operator
@@ -4388,8 +4388,8 @@ move-b c2 h3 n8 n9
 16 0
 3
 0 17 0 1
-0 26 0 3
 0 25 12 13
+0 26 0 3
 1
 end_operator
 begin_operator
@@ -4398,8 +4398,8 @@ move-b c2 h3 n9 n10
 16 0
 3
 0 17 0 1
-0 26 0 3
 0 25 13 2
+0 26 0 3
 1
 end_operator
 begin_operator
@@ -4537,8 +4537,8 @@ move-b ca h2 n0 n1
 1
 20 0
 3
-0 21 0 4
 0 19 0 3
+0 21 0 4
 0 25 0 1
 1
 end_operator
@@ -4547,8 +4547,8 @@ move-b ca h2 n1 n2
 1
 20 0
 3
-0 21 0 4
 0 19 0 3
+0 21 0 4
 0 25 1 6
 1
 end_operator
@@ -4557,8 +4557,8 @@ move-b ca h2 n10 n11
 1
 20 0
 3
-0 21 0 4
 0 19 0 3
+0 21 0 4
 0 25 2 3
 1
 end_operator
@@ -4567,8 +4567,8 @@ move-b ca h2 n11 n12
 1
 20 0
 3
-0 21 0 4
 0 19 0 3
+0 21 0 4
 0 25 3 4
 1
 end_operator
@@ -4577,8 +4577,8 @@ move-b ca h2 n12 n13
 1
 20 0
 3
-0 21 0 4
 0 19 0 3
+0 21 0 4
 0 25 4 5
 1
 end_operator
@@ -4587,8 +4587,8 @@ move-b ca h2 n2 n3
 1
 20 0
 3
-0 21 0 4
 0 19 0 3
+0 21 0 4
 0 25 6 7
 1
 end_operator
@@ -4597,8 +4597,8 @@ move-b ca h2 n3 n4
 1
 20 0
 3
-0 21 0 4
 0 19 0 3
+0 21 0 4
 0 25 7 8
 1
 end_operator
@@ -4607,8 +4607,8 @@ move-b ca h2 n4 n5
 1
 20 0
 3
-0 21 0 4
 0 19 0 3
+0 21 0 4
 0 25 8 9
 1
 end_operator
@@ -4617,8 +4617,8 @@ move-b ca h2 n5 n6
 1
 20 0
 3
-0 21 0 4
 0 19 0 3
+0 21 0 4
 0 25 9 10
 1
 end_operator
@@ -4627,8 +4627,8 @@ move-b ca h2 n6 n7
 1
 20 0
 3
-0 21 0 4
 0 19 0 3
+0 21 0 4
 0 25 10 11
 1
 end_operator
@@ -4637,8 +4637,8 @@ move-b ca h2 n7 n8
 1
 20 0
 3
-0 21 0 4
 0 19 0 3
+0 21 0 4
 0 25 11 12
 1
 end_operator
@@ -4647,8 +4647,8 @@ move-b ca h2 n8 n9
 1
 20 0
 3
-0 21 0 4
 0 19 0 3
+0 21 0 4
 0 25 12 13
 1
 end_operator
@@ -4657,8 +4657,8 @@ move-b ca h2 n9 n10
 1
 20 0
 3
-0 21 0 4
 0 19 0 3
+0 21 0 4
 0 25 13 2
 1
 end_operator
@@ -4668,8 +4668,8 @@ move-b d2 c3 n0 n1
 22 0
 3
 0 23 0 1
-0 28 0 3
 0 25 0 1
+0 28 0 3
 1
 end_operator
 begin_operator
@@ -4678,8 +4678,8 @@ move-b d2 c3 n1 n2
 22 0
 3
 0 23 0 1
-0 28 0 3
 0 25 1 6
+0 28 0 3
 1
 end_operator
 begin_operator
@@ -4688,8 +4688,8 @@ move-b d2 c3 n10 n11
 22 0
 3
 0 23 0 1
-0 28 0 3
 0 25 2 3
+0 28 0 3
 1
 end_operator
 begin_operator
@@ -4698,8 +4698,8 @@ move-b d2 c3 n11 n12
 22 0
 3
 0 23 0 1
-0 28 0 3
 0 25 3 4
+0 28 0 3
 1
 end_operator
 begin_operator
@@ -4708,8 +4708,8 @@ move-b d2 c3 n12 n13
 22 0
 3
 0 23 0 1
-0 28 0 3
 0 25 4 5
+0 28 0 3
 1
 end_operator
 begin_operator
@@ -4718,8 +4718,8 @@ move-b d2 c3 n2 n3
 22 0
 3
 0 23 0 1
-0 28 0 3
 0 25 6 7
+0 28 0 3
 1
 end_operator
 begin_operator
@@ -4728,8 +4728,8 @@ move-b d2 c3 n3 n4
 22 0
 3
 0 23 0 1
-0 28 0 3
 0 25 7 8
+0 28 0 3
 1
 end_operator
 begin_operator
@@ -4738,8 +4738,8 @@ move-b d2 c3 n4 n5
 22 0
 3
 0 23 0 1
-0 28 0 3
 0 25 8 9
+0 28 0 3
 1
 end_operator
 begin_operator
@@ -4748,8 +4748,8 @@ move-b d2 c3 n5 n6
 22 0
 3
 0 23 0 1
-0 28 0 3
 0 25 9 10
+0 28 0 3
 1
 end_operator
 begin_operator
@@ -4758,8 +4758,8 @@ move-b d2 c3 n6 n7
 22 0
 3
 0 23 0 1
-0 28 0 3
 0 25 10 11
+0 28 0 3
 1
 end_operator
 begin_operator
@@ -4768,8 +4768,8 @@ move-b d2 c3 n7 n8
 22 0
 3
 0 23 0 1
-0 28 0 3
 0 25 11 12
+0 28 0 3
 1
 end_operator
 begin_operator
@@ -4778,8 +4778,8 @@ move-b d2 c3 n8 n9
 22 0
 3
 0 23 0 1
-0 28 0 3
 0 25 12 13
+0 28 0 3
 1
 end_operator
 begin_operator
@@ -4788,8 +4788,8 @@ move-b d2 c3 n9 n10
 22 0
 3
 0 23 0 1
-0 28 0 3
 0 25 13 2
+0 28 0 3
 1
 end_operator
 begin_operator
@@ -4798,8 +4798,8 @@ move-b d2 s3 n0 n1
 22 0
 3
 0 23 0 1
-0 27 0 3
 0 25 0 1
+0 27 0 3
 1
 end_operator
 begin_operator
@@ -4808,8 +4808,8 @@ move-b d2 s3 n1 n2
 22 0
 3
 0 23 0 1
-0 27 0 3
 0 25 1 6
+0 27 0 3
 1
 end_operator
 begin_operator
@@ -4818,8 +4818,8 @@ move-b d2 s3 n10 n11
 22 0
 3
 0 23 0 1
-0 27 0 3
 0 25 2 3
+0 27 0 3
 1
 end_operator
 begin_operator
@@ -4828,8 +4828,8 @@ move-b d2 s3 n11 n12
 22 0
 3
 0 23 0 1
-0 27 0 3
 0 25 3 4
+0 27 0 3
 1
 end_operator
 begin_operator
@@ -4838,8 +4838,8 @@ move-b d2 s3 n12 n13
 22 0
 3
 0 23 0 1
-0 27 0 3
 0 25 4 5
+0 27 0 3
 1
 end_operator
 begin_operator
@@ -4848,8 +4848,8 @@ move-b d2 s3 n2 n3
 22 0
 3
 0 23 0 1
-0 27 0 3
 0 25 6 7
+0 27 0 3
 1
 end_operator
 begin_operator
@@ -4858,8 +4858,8 @@ move-b d2 s3 n3 n4
 22 0
 3
 0 23 0 1
-0 27 0 3
 0 25 7 8
+0 27 0 3
 1
 end_operator
 begin_operator
@@ -4868,8 +4868,8 @@ move-b d2 s3 n4 n5
 22 0
 3
 0 23 0 1
-0 27 0 3
 0 25 8 9
+0 27 0 3
 1
 end_operator
 begin_operator
@@ -4878,8 +4878,8 @@ move-b d2 s3 n5 n6
 22 0
 3
 0 23 0 1
-0 27 0 3
 0 25 9 10
+0 27 0 3
 1
 end_operator
 begin_operator
@@ -4888,8 +4888,8 @@ move-b d2 s3 n6 n7
 22 0
 3
 0 23 0 1
-0 27 0 3
 0 25 10 11
+0 27 0 3
 1
 end_operator
 begin_operator
@@ -4898,8 +4898,8 @@ move-b d2 s3 n7 n8
 22 0
 3
 0 23 0 1
-0 27 0 3
 0 25 11 12
+0 27 0 3
 1
 end_operator
 begin_operator
@@ -4908,8 +4908,8 @@ move-b d2 s3 n8 n9
 22 0
 3
 0 23 0 1
-0 27 0 3
 0 25 12 13
+0 27 0 3
 1
 end_operator
 begin_operator
@@ -4918,8 +4918,8 @@ move-b d2 s3 n9 n10
 22 0
 3
 0 23 0 1
-0 27 0 3
 0 25 13 2
+0 27 0 3
 1
 end_operator
 begin_operator
@@ -5057,8 +5057,8 @@ move-b da s2 n0 n1
 1
 14 0
 3
-0 15 0 5
 0 11 0 4
+0 15 0 5
 0 25 0 1
 1
 end_operator
@@ -5067,8 +5067,8 @@ move-b da s2 n1 n2
 1
 14 0
 3
-0 15 0 5
 0 11 0 4
+0 15 0 5
 0 25 1 6
 1
 end_operator
@@ -5077,8 +5077,8 @@ move-b da s2 n10 n11
 1
 14 0
 3
-0 15 0 5
 0 11 0 4
+0 15 0 5
 0 25 2 3
 1
 end_operator
@@ -5087,8 +5087,8 @@ move-b da s2 n11 n12
 1
 14 0
 3
-0 15 0 5
 0 11 0 4
+0 15 0 5
 0 25 3 4
 1
 end_operator
@@ -5097,8 +5097,8 @@ move-b da s2 n12 n13
 1
 14 0
 3
-0 15 0 5
 0 11 0 4
+0 15 0 5
 0 25 4 5
 1
 end_operator
@@ -5107,8 +5107,8 @@ move-b da s2 n2 n3
 1
 14 0
 3
-0 15 0 5
 0 11 0 4
+0 15 0 5
 0 25 6 7
 1
 end_operator
@@ -5117,8 +5117,8 @@ move-b da s2 n3 n4
 1
 14 0
 3
-0 15 0 5
 0 11 0 4
+0 15 0 5
 0 25 7 8
 1
 end_operator
@@ -5127,8 +5127,8 @@ move-b da s2 n4 n5
 1
 14 0
 3
-0 15 0 5
 0 11 0 4
+0 15 0 5
 0 25 8 9
 1
 end_operator
@@ -5137,8 +5137,8 @@ move-b da s2 n5 n6
 1
 14 0
 3
-0 15 0 5
 0 11 0 4
+0 15 0 5
 0 25 9 10
 1
 end_operator
@@ -5147,8 +5147,8 @@ move-b da s2 n6 n7
 1
 14 0
 3
-0 15 0 5
 0 11 0 4
+0 15 0 5
 0 25 10 11
 1
 end_operator
@@ -5157,8 +5157,8 @@ move-b da s2 n7 n8
 1
 14 0
 3
-0 15 0 5
 0 11 0 4
+0 15 0 5
 0 25 11 12
 1
 end_operator
@@ -5167,8 +5167,8 @@ move-b da s2 n8 n9
 1
 14 0
 3
-0 15 0 5
 0 11 0 4
+0 15 0 5
 0 25 12 13
 1
 end_operator
@@ -5177,8 +5177,8 @@ move-b da s2 n9 n10
 1
 14 0
 3
-0 15 0 5
 0 11 0 4
+0 15 0 5
 0 25 13 2
 1
 end_operator
@@ -5188,8 +5188,8 @@ move-b h2 c3 n0 n1
 19 0
 3
 0 18 0 1
-0 28 0 4
 0 25 0 1
+0 28 0 4
 1
 end_operator
 begin_operator
@@ -5198,8 +5198,8 @@ move-b h2 c3 n1 n2
 19 0
 3
 0 18 0 1
-0 28 0 4
 0 25 1 6
+0 28 0 4
 1
 end_operator
 begin_operator
@@ -5208,8 +5208,8 @@ move-b h2 c3 n10 n11
 19 0
 3
 0 18 0 1
-0 28 0 4
 0 25 2 3
+0 28 0 4
 1
 end_operator
 begin_operator
@@ -5218,8 +5218,8 @@ move-b h2 c3 n11 n12
 19 0
 3
 0 18 0 1
-0 28 0 4
 0 25 3 4
+0 28 0 4
 1
 end_operator
 begin_operator
@@ -5228,8 +5228,8 @@ move-b h2 c3 n12 n13
 19 0
 3
 0 18 0 1
-0 28 0 4
 0 25 4 5
+0 28 0 4
 1
 end_operator
 begin_operator
@@ -5238,8 +5238,8 @@ move-b h2 c3 n2 n3
 19 0
 3
 0 18 0 1
-0 28 0 4
 0 25 6 7
+0 28 0 4
 1
 end_operator
 begin_operator
@@ -5248,8 +5248,8 @@ move-b h2 c3 n3 n4
 19 0
 3
 0 18 0 1
-0 28 0 4
 0 25 7 8
+0 28 0 4
 1
 end_operator
 begin_operator
@@ -5258,8 +5258,8 @@ move-b h2 c3 n4 n5
 19 0
 3
 0 18 0 1
-0 28 0 4
 0 25 8 9
+0 28 0 4
 1
 end_operator
 begin_operator
@@ -5268,8 +5268,8 @@ move-b h2 c3 n5 n6
 19 0
 3
 0 18 0 1
-0 28 0 4
 0 25 9 10
+0 28 0 4
 1
 end_operator
 begin_operator
@@ -5278,8 +5278,8 @@ move-b h2 c3 n6 n7
 19 0
 3
 0 18 0 1
-0 28 0 4
 0 25 10 11
+0 28 0 4
 1
 end_operator
 begin_operator
@@ -5288,8 +5288,8 @@ move-b h2 c3 n7 n8
 19 0
 3
 0 18 0 1
-0 28 0 4
 0 25 11 12
+0 28 0 4
 1
 end_operator
 begin_operator
@@ -5298,8 +5298,8 @@ move-b h2 c3 n8 n9
 19 0
 3
 0 18 0 1
-0 28 0 4
 0 25 12 13
+0 28 0 4
 1
 end_operator
 begin_operator
@@ -5308,8 +5308,8 @@ move-b h2 c3 n9 n10
 19 0
 3
 0 18 0 1
-0 28 0 4
 0 25 13 2
+0 28 0 4
 1
 end_operator
 begin_operator
@@ -5318,8 +5318,8 @@ move-b h2 s3 n0 n1
 19 0
 3
 0 18 0 1
-0 27 0 4
 0 25 0 1
+0 27 0 4
 1
 end_operator
 begin_operator
@@ -5328,8 +5328,8 @@ move-b h2 s3 n1 n2
 19 0
 3
 0 18 0 1
-0 27 0 4
 0 25 1 6
+0 27 0 4
 1
 end_operator
 begin_operator
@@ -5338,8 +5338,8 @@ move-b h2 s3 n10 n11
 19 0
 3
 0 18 0 1
-0 27 0 4
 0 25 2 3
+0 27 0 4
 1
 end_operator
 begin_operator
@@ -5348,8 +5348,8 @@ move-b h2 s3 n11 n12
 19 0
 3
 0 18 0 1
-0 27 0 4
 0 25 3 4
+0 27 0 4
 1
 end_operator
 begin_operator
@@ -5358,8 +5358,8 @@ move-b h2 s3 n12 n13
 19 0
 3
 0 18 0 1
-0 27 0 4
 0 25 4 5
+0 27 0 4
 1
 end_operator
 begin_operator
@@ -5368,8 +5368,8 @@ move-b h2 s3 n2 n3
 19 0
 3
 0 18 0 1
-0 27 0 4
 0 25 6 7
+0 27 0 4
 1
 end_operator
 begin_operator
@@ -5378,8 +5378,8 @@ move-b h2 s3 n3 n4
 19 0
 3
 0 18 0 1
-0 27 0 4
 0 25 7 8
+0 27 0 4
 1
 end_operator
 begin_operator
@@ -5388,8 +5388,8 @@ move-b h2 s3 n4 n5
 19 0
 3
 0 18 0 1
-0 27 0 4
 0 25 8 9
+0 27 0 4
 1
 end_operator
 begin_operator
@@ -5398,8 +5398,8 @@ move-b h2 s3 n5 n6
 19 0
 3
 0 18 0 1
-0 27 0 4
 0 25 9 10
+0 27 0 4
 1
 end_operator
 begin_operator
@@ -5408,8 +5408,8 @@ move-b h2 s3 n6 n7
 19 0
 3
 0 18 0 1
-0 27 0 4
 0 25 10 11
+0 27 0 4
 1
 end_operator
 begin_operator
@@ -5418,8 +5418,8 @@ move-b h2 s3 n7 n8
 19 0
 3
 0 18 0 1
-0 27 0 4
 0 25 11 12
+0 27 0 4
 1
 end_operator
 begin_operator
@@ -5428,8 +5428,8 @@ move-b h2 s3 n8 n9
 19 0
 3
 0 18 0 1
-0 27 0 4
 0 25 12 13
+0 27 0 4
 1
 end_operator
 begin_operator
@@ -5438,8 +5438,8 @@ move-b h2 s3 n9 n10
 19 0
 3
 0 18 0 1
-0 27 0 4
 0 25 13 2
+0 27 0 4
 1
 end_operator
 begin_operator
@@ -5577,8 +5577,8 @@ move-b ha s2 n0 n1
 1
 13 0
 3
-0 12 0 4
 0 11 0 5
+0 12 0 4
 0 25 0 1
 1
 end_operator
@@ -5587,8 +5587,8 @@ move-b ha s2 n1 n2
 1
 13 0
 3
-0 12 0 4
 0 11 0 5
+0 12 0 4
 0 25 1 6
 1
 end_operator
@@ -5597,8 +5597,8 @@ move-b ha s2 n10 n11
 1
 13 0
 3
-0 12 0 4
 0 11 0 5
+0 12 0 4
 0 25 2 3
 1
 end_operator
@@ -5607,8 +5607,8 @@ move-b ha s2 n11 n12
 1
 13 0
 3
-0 12 0 4
 0 11 0 5
+0 12 0 4
 0 25 3 4
 1
 end_operator
@@ -5617,8 +5617,8 @@ move-b ha s2 n12 n13
 1
 13 0
 3
-0 12 0 4
 0 11 0 5
+0 12 0 4
 0 25 4 5
 1
 end_operator
@@ -5627,8 +5627,8 @@ move-b ha s2 n2 n3
 1
 13 0
 3
-0 12 0 4
 0 11 0 5
+0 12 0 4
 0 25 6 7
 1
 end_operator
@@ -5637,8 +5637,8 @@ move-b ha s2 n3 n4
 1
 13 0
 3
-0 12 0 4
 0 11 0 5
+0 12 0 4
 0 25 7 8
 1
 end_operator
@@ -5647,8 +5647,8 @@ move-b ha s2 n4 n5
 1
 13 0
 3
-0 12 0 4
 0 11 0 5
+0 12 0 4
 0 25 8 9
 1
 end_operator
@@ -5657,8 +5657,8 @@ move-b ha s2 n5 n6
 1
 13 0
 3
-0 12 0 4
 0 11 0 5
+0 12 0 4
 0 25 9 10
 1
 end_operator
@@ -5667,8 +5667,8 @@ move-b ha s2 n6 n7
 1
 13 0
 3
-0 12 0 4
 0 11 0 5
+0 12 0 4
 0 25 10 11
 1
 end_operator
@@ -5677,8 +5677,8 @@ move-b ha s2 n7 n8
 1
 13 0
 3
-0 12 0 4
 0 11 0 5
+0 12 0 4
 0 25 11 12
 1
 end_operator
@@ -5687,8 +5687,8 @@ move-b ha s2 n8 n9
 1
 13 0
 3
-0 12 0 4
 0 11 0 5
+0 12 0 4
 0 25 12 13
 1
 end_operator
@@ -5697,8 +5697,8 @@ move-b ha s2 n9 n10
 1
 13 0
 3
-0 12 0 4
 0 11 0 5
+0 12 0 4
 0 25 13 2
 1
 end_operator
@@ -5708,8 +5708,8 @@ move-b s2 d3 n0 n1
 11 0
 3
 0 10 0 1
-0 29 0 5
 0 25 0 1
+0 29 0 5
 1
 end_operator
 begin_operator
@@ -5718,8 +5718,8 @@ move-b s2 d3 n1 n2
 11 0
 3
 0 10 0 1
-0 29 0 5
 0 25 1 6
+0 29 0 5
 1
 end_operator
 begin_operator
@@ -5728,8 +5728,8 @@ move-b s2 d3 n10 n11
 11 0
 3
 0 10 0 1
-0 29 0 5
 0 25 2 3
+0 29 0 5
 1
 end_operator
 begin_operator
@@ -5738,8 +5738,8 @@ move-b s2 d3 n11 n12
 11 0
 3
 0 10 0 1
-0 29 0 5
 0 25 3 4
+0 29 0 5
 1
 end_operator
 begin_operator
@@ -5748,8 +5748,8 @@ move-b s2 d3 n12 n13
 11 0
 3
 0 10 0 1
-0 29 0 5
 0 25 4 5
+0 29 0 5
 1
 end_operator
 begin_operator
@@ -5758,8 +5758,8 @@ move-b s2 d3 n2 n3
 11 0
 3
 0 10 0 1
-0 29 0 5
 0 25 6 7
+0 29 0 5
 1
 end_operator
 begin_operator
@@ -5768,8 +5768,8 @@ move-b s2 d3 n3 n4
 11 0
 3
 0 10 0 1
-0 29 0 5
 0 25 7 8
+0 29 0 5
 1
 end_operator
 begin_operator
@@ -5778,8 +5778,8 @@ move-b s2 d3 n4 n5
 11 0
 3
 0 10 0 1
-0 29 0 5
 0 25 8 9
+0 29 0 5
 1
 end_operator
 begin_operator
@@ -5788,8 +5788,8 @@ move-b s2 d3 n5 n6
 11 0
 3
 0 10 0 1
-0 29 0 5
 0 25 9 10
+0 29 0 5
 1
 end_operator
 begin_operator
@@ -5798,8 +5798,8 @@ move-b s2 d3 n6 n7
 11 0
 3
 0 10 0 1
-0 29 0 5
 0 25 10 11
+0 29 0 5
 1
 end_operator
 begin_operator
@@ -5808,8 +5808,8 @@ move-b s2 d3 n7 n8
 11 0
 3
 0 10 0 1
-0 29 0 5
 0 25 11 12
+0 29 0 5
 1
 end_operator
 begin_operator
@@ -5818,8 +5818,8 @@ move-b s2 d3 n8 n9
 11 0
 3
 0 10 0 1
-0 29 0 5
 0 25 12 13
+0 29 0 5
 1
 end_operator
 begin_operator
@@ -5828,8 +5828,8 @@ move-b s2 d3 n9 n10
 11 0
 3
 0 10 0 1
-0 29 0 5
 0 25 13 2
+0 29 0 5
 1
 end_operator
 begin_operator
@@ -5838,8 +5838,8 @@ move-b s2 h3 n0 n1
 11 0
 3
 0 10 0 1
-0 26 0 4
 0 25 0 1
+0 26 0 4
 1
 end_operator
 begin_operator
@@ -5848,8 +5848,8 @@ move-b s2 h3 n1 n2
 11 0
 3
 0 10 0 1
-0 26 0 4
 0 25 1 6
+0 26 0 4
 1
 end_operator
 begin_operator
@@ -5858,8 +5858,8 @@ move-b s2 h3 n10 n11
 11 0
 3
 0 10 0 1
-0 26 0 4
 0 25 2 3
+0 26 0 4
 1
 end_operator
 begin_operator
@@ -5868,8 +5868,8 @@ move-b s2 h3 n11 n12
 11 0
 3
 0 10 0 1
-0 26 0 4
 0 25 3 4
+0 26 0 4
 1
 end_operator
 begin_operator
@@ -5878,8 +5878,8 @@ move-b s2 h3 n12 n13
 11 0
 3
 0 10 0 1
-0 26 0 4
 0 25 4 5
+0 26 0 4
 1
 end_operator
 begin_operator
@@ -5888,8 +5888,8 @@ move-b s2 h3 n2 n3
 11 0
 3
 0 10 0 1
-0 26 0 4
 0 25 6 7
+0 26 0 4
 1
 end_operator
 begin_operator
@@ -5898,8 +5898,8 @@ move-b s2 h3 n3 n4
 11 0
 3
 0 10 0 1
-0 26 0 4
 0 25 7 8
+0 26 0 4
 1
 end_operator
 begin_operator
@@ -5908,8 +5908,8 @@ move-b s2 h3 n4 n5
 11 0
 3
 0 10 0 1
-0 26 0 4
 0 25 8 9
+0 26 0 4
 1
 end_operator
 begin_operator
@@ -5918,8 +5918,8 @@ move-b s2 h3 n5 n6
 11 0
 3
 0 10 0 1
-0 26 0 4
 0 25 9 10
+0 26 0 4
 1
 end_operator
 begin_operator
@@ -5928,8 +5928,8 @@ move-b s2 h3 n6 n7
 11 0
 3
 0 10 0 1
-0 26 0 4
 0 25 10 11
+0 26 0 4
 1
 end_operator
 begin_operator
@@ -5938,8 +5938,8 @@ move-b s2 h3 n7 n8
 11 0
 3
 0 10 0 1
-0 26 0 4
 0 25 11 12
+0 26 0 4
 1
 end_operator
 begin_operator
@@ -5948,8 +5948,8 @@ move-b s2 h3 n8 n9
 11 0
 3
 0 10 0 1
-0 26 0 4
 0 25 12 13
+0 26 0 4
 1
 end_operator
 begin_operator
@@ -5958,8 +5958,8 @@ move-b s2 h3 n9 n10
 11 0
 3
 0 10 0 1
-0 26 0 4
 0 25 13 2
+0 26 0 4
 1
 end_operator
 begin_operator
@@ -6226,9 +6226,9 @@ begin_operator
 newcolfromfreecell c2 n1 n0 n0 n1
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 0 1
-0 16 2 0
 0 25 1 0
 1
 end_operator
@@ -6236,9 +6236,9 @@ begin_operator
 newcolfromfreecell c2 n1 n0 n1 n2
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 1 6
-0 16 2 0
 0 25 1 0
 1
 end_operator
@@ -6246,9 +6246,9 @@ begin_operator
 newcolfromfreecell c2 n1 n0 n10 n11
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 2 3
-0 16 2 0
 0 25 1 0
 1
 end_operator
@@ -6256,9 +6256,9 @@ begin_operator
 newcolfromfreecell c2 n1 n0 n11 n12
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 3 4
-0 16 2 0
 0 25 1 0
 1
 end_operator
@@ -6266,9 +6266,9 @@ begin_operator
 newcolfromfreecell c2 n1 n0 n12 n13
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 4 5
-0 16 2 0
 0 25 1 0
 1
 end_operator
@@ -6276,9 +6276,9 @@ begin_operator
 newcolfromfreecell c2 n1 n0 n2 n3
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 6 7
-0 16 2 0
 0 25 1 0
 1
 end_operator
@@ -6286,9 +6286,9 @@ begin_operator
 newcolfromfreecell c2 n1 n0 n3 n4
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 7 8
-0 16 2 0
 0 25 1 0
 1
 end_operator
@@ -6296,9 +6296,9 @@ begin_operator
 newcolfromfreecell c2 n1 n0 n4 n5
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 8 9
-0 16 2 0
 0 25 1 0
 1
 end_operator
@@ -6306,9 +6306,9 @@ begin_operator
 newcolfromfreecell c2 n1 n0 n5 n6
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 9 10
-0 16 2 0
 0 25 1 0
 1
 end_operator
@@ -6316,9 +6316,9 @@ begin_operator
 newcolfromfreecell c2 n1 n0 n6 n7
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 10 11
-0 16 2 0
 0 25 1 0
 1
 end_operator
@@ -6326,9 +6326,9 @@ begin_operator
 newcolfromfreecell c2 n1 n0 n7 n8
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 11 12
-0 16 2 0
 0 25 1 0
 1
 end_operator
@@ -6336,9 +6336,9 @@ begin_operator
 newcolfromfreecell c2 n1 n0 n8 n9
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 12 13
-0 16 2 0
 0 25 1 0
 1
 end_operator
@@ -6346,9 +6346,9 @@ begin_operator
 newcolfromfreecell c2 n1 n0 n9 n10
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 13 2
-0 16 2 0
 0 25 1 0
 1
 end_operator
@@ -6356,9 +6356,9 @@ begin_operator
 newcolfromfreecell c2 n10 n9 n0 n1
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 0 1
-0 16 2 0
 0 25 2 13
 1
 end_operator
@@ -6366,9 +6366,9 @@ begin_operator
 newcolfromfreecell c2 n10 n9 n1 n2
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 1 6
-0 16 2 0
 0 25 2 13
 1
 end_operator
@@ -6376,9 +6376,9 @@ begin_operator
 newcolfromfreecell c2 n10 n9 n10 n11
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 2 3
-0 16 2 0
 0 25 2 13
 1
 end_operator
@@ -6386,9 +6386,9 @@ begin_operator
 newcolfromfreecell c2 n10 n9 n11 n12
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 3 4
-0 16 2 0
 0 25 2 13
 1
 end_operator
@@ -6396,9 +6396,9 @@ begin_operator
 newcolfromfreecell c2 n10 n9 n12 n13
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 4 5
-0 16 2 0
 0 25 2 13
 1
 end_operator
@@ -6406,9 +6406,9 @@ begin_operator
 newcolfromfreecell c2 n10 n9 n2 n3
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 6 7
-0 16 2 0
 0 25 2 13
 1
 end_operator
@@ -6416,9 +6416,9 @@ begin_operator
 newcolfromfreecell c2 n10 n9 n3 n4
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 7 8
-0 16 2 0
 0 25 2 13
 1
 end_operator
@@ -6426,9 +6426,9 @@ begin_operator
 newcolfromfreecell c2 n10 n9 n4 n5
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 8 9
-0 16 2 0
 0 25 2 13
 1
 end_operator
@@ -6436,9 +6436,9 @@ begin_operator
 newcolfromfreecell c2 n10 n9 n5 n6
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 9 10
-0 16 2 0
 0 25 2 13
 1
 end_operator
@@ -6446,9 +6446,9 @@ begin_operator
 newcolfromfreecell c2 n10 n9 n6 n7
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 10 11
-0 16 2 0
 0 25 2 13
 1
 end_operator
@@ -6456,9 +6456,9 @@ begin_operator
 newcolfromfreecell c2 n10 n9 n7 n8
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 11 12
-0 16 2 0
 0 25 2 13
 1
 end_operator
@@ -6466,9 +6466,9 @@ begin_operator
 newcolfromfreecell c2 n10 n9 n8 n9
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 12 13
-0 16 2 0
 0 25 2 13
 1
 end_operator
@@ -6476,9 +6476,9 @@ begin_operator
 newcolfromfreecell c2 n10 n9 n9 n10
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 13 2
-0 16 2 0
 0 25 2 13
 1
 end_operator
@@ -6486,9 +6486,9 @@ begin_operator
 newcolfromfreecell c2 n11 n10 n0 n1
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 0 1
-0 16 2 0
 0 25 3 2
 1
 end_operator
@@ -6496,9 +6496,9 @@ begin_operator
 newcolfromfreecell c2 n11 n10 n1 n2
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 1 6
-0 16 2 0
 0 25 3 2
 1
 end_operator
@@ -6506,9 +6506,9 @@ begin_operator
 newcolfromfreecell c2 n11 n10 n10 n11
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 2 3
-0 16 2 0
 0 25 3 2
 1
 end_operator
@@ -6516,9 +6516,9 @@ begin_operator
 newcolfromfreecell c2 n11 n10 n11 n12
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 3 4
-0 16 2 0
 0 25 3 2
 1
 end_operator
@@ -6526,9 +6526,9 @@ begin_operator
 newcolfromfreecell c2 n11 n10 n12 n13
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 4 5
-0 16 2 0
 0 25 3 2
 1
 end_operator
@@ -6536,9 +6536,9 @@ begin_operator
 newcolfromfreecell c2 n11 n10 n2 n3
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 6 7
-0 16 2 0
 0 25 3 2
 1
 end_operator
@@ -6546,9 +6546,9 @@ begin_operator
 newcolfromfreecell c2 n11 n10 n3 n4
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 7 8
-0 16 2 0
 0 25 3 2
 1
 end_operator
@@ -6556,9 +6556,9 @@ begin_operator
 newcolfromfreecell c2 n11 n10 n4 n5
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 8 9
-0 16 2 0
 0 25 3 2
 1
 end_operator
@@ -6566,9 +6566,9 @@ begin_operator
 newcolfromfreecell c2 n11 n10 n5 n6
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 9 10
-0 16 2 0
 0 25 3 2
 1
 end_operator
@@ -6576,9 +6576,9 @@ begin_operator
 newcolfromfreecell c2 n11 n10 n6 n7
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 10 11
-0 16 2 0
 0 25 3 2
 1
 end_operator
@@ -6586,9 +6586,9 @@ begin_operator
 newcolfromfreecell c2 n11 n10 n7 n8
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 11 12
-0 16 2 0
 0 25 3 2
 1
 end_operator
@@ -6596,9 +6596,9 @@ begin_operator
 newcolfromfreecell c2 n11 n10 n8 n9
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 12 13
-0 16 2 0
 0 25 3 2
 1
 end_operator
@@ -6606,9 +6606,9 @@ begin_operator
 newcolfromfreecell c2 n11 n10 n9 n10
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 13 2
-0 16 2 0
 0 25 3 2
 1
 end_operator
@@ -6616,9 +6616,9 @@ begin_operator
 newcolfromfreecell c2 n12 n11 n0 n1
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 0 1
-0 16 2 0
 0 25 4 3
 1
 end_operator
@@ -6626,9 +6626,9 @@ begin_operator
 newcolfromfreecell c2 n12 n11 n1 n2
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 1 6
-0 16 2 0
 0 25 4 3
 1
 end_operator
@@ -6636,9 +6636,9 @@ begin_operator
 newcolfromfreecell c2 n12 n11 n10 n11
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 2 3
-0 16 2 0
 0 25 4 3
 1
 end_operator
@@ -6646,9 +6646,9 @@ begin_operator
 newcolfromfreecell c2 n12 n11 n11 n12
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 3 4
-0 16 2 0
 0 25 4 3
 1
 end_operator
@@ -6656,9 +6656,9 @@ begin_operator
 newcolfromfreecell c2 n12 n11 n12 n13
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 4 5
-0 16 2 0
 0 25 4 3
 1
 end_operator
@@ -6666,9 +6666,9 @@ begin_operator
 newcolfromfreecell c2 n12 n11 n2 n3
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 6 7
-0 16 2 0
 0 25 4 3
 1
 end_operator
@@ -6676,9 +6676,9 @@ begin_operator
 newcolfromfreecell c2 n12 n11 n3 n4
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 7 8
-0 16 2 0
 0 25 4 3
 1
 end_operator
@@ -6686,9 +6686,9 @@ begin_operator
 newcolfromfreecell c2 n12 n11 n4 n5
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 8 9
-0 16 2 0
 0 25 4 3
 1
 end_operator
@@ -6696,9 +6696,9 @@ begin_operator
 newcolfromfreecell c2 n12 n11 n5 n6
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 9 10
-0 16 2 0
 0 25 4 3
 1
 end_operator
@@ -6706,9 +6706,9 @@ begin_operator
 newcolfromfreecell c2 n12 n11 n6 n7
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 10 11
-0 16 2 0
 0 25 4 3
 1
 end_operator
@@ -6716,9 +6716,9 @@ begin_operator
 newcolfromfreecell c2 n12 n11 n7 n8
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 11 12
-0 16 2 0
 0 25 4 3
 1
 end_operator
@@ -6726,9 +6726,9 @@ begin_operator
 newcolfromfreecell c2 n12 n11 n8 n9
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 12 13
-0 16 2 0
 0 25 4 3
 1
 end_operator
@@ -6736,9 +6736,9 @@ begin_operator
 newcolfromfreecell c2 n12 n11 n9 n10
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 13 2
-0 16 2 0
 0 25 4 3
 1
 end_operator
@@ -6746,9 +6746,9 @@ begin_operator
 newcolfromfreecell c2 n13 n12 n0 n1
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 0 1
-0 16 2 0
 0 25 5 4
 1
 end_operator
@@ -6756,9 +6756,9 @@ begin_operator
 newcolfromfreecell c2 n13 n12 n1 n2
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 1 6
-0 16 2 0
 0 25 5 4
 1
 end_operator
@@ -6766,9 +6766,9 @@ begin_operator
 newcolfromfreecell c2 n13 n12 n10 n11
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 2 3
-0 16 2 0
 0 25 5 4
 1
 end_operator
@@ -6776,9 +6776,9 @@ begin_operator
 newcolfromfreecell c2 n13 n12 n11 n12
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 3 4
-0 16 2 0
 0 25 5 4
 1
 end_operator
@@ -6786,9 +6786,9 @@ begin_operator
 newcolfromfreecell c2 n13 n12 n12 n13
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 4 5
-0 16 2 0
 0 25 5 4
 1
 end_operator
@@ -6796,9 +6796,9 @@ begin_operator
 newcolfromfreecell c2 n13 n12 n2 n3
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 6 7
-0 16 2 0
 0 25 5 4
 1
 end_operator
@@ -6806,9 +6806,9 @@ begin_operator
 newcolfromfreecell c2 n13 n12 n3 n4
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 7 8
-0 16 2 0
 0 25 5 4
 1
 end_operator
@@ -6816,9 +6816,9 @@ begin_operator
 newcolfromfreecell c2 n13 n12 n4 n5
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 8 9
-0 16 2 0
 0 25 5 4
 1
 end_operator
@@ -6826,9 +6826,9 @@ begin_operator
 newcolfromfreecell c2 n13 n12 n5 n6
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 9 10
-0 16 2 0
 0 25 5 4
 1
 end_operator
@@ -6836,9 +6836,9 @@ begin_operator
 newcolfromfreecell c2 n13 n12 n6 n7
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 10 11
-0 16 2 0
 0 25 5 4
 1
 end_operator
@@ -6846,9 +6846,9 @@ begin_operator
 newcolfromfreecell c2 n13 n12 n7 n8
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 11 12
-0 16 2 0
 0 25 5 4
 1
 end_operator
@@ -6856,9 +6856,9 @@ begin_operator
 newcolfromfreecell c2 n13 n12 n8 n9
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 12 13
-0 16 2 0
 0 25 5 4
 1
 end_operator
@@ -6866,9 +6866,9 @@ begin_operator
 newcolfromfreecell c2 n13 n12 n9 n10
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 13 2
-0 16 2 0
 0 25 5 4
 1
 end_operator
@@ -6876,9 +6876,9 @@ begin_operator
 newcolfromfreecell c2 n2 n1 n0 n1
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 0 1
-0 16 2 0
 0 25 6 1
 1
 end_operator
@@ -6886,9 +6886,9 @@ begin_operator
 newcolfromfreecell c2 n2 n1 n1 n2
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 1 6
-0 16 2 0
 0 25 6 1
 1
 end_operator
@@ -6896,9 +6896,9 @@ begin_operator
 newcolfromfreecell c2 n2 n1 n10 n11
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 2 3
-0 16 2 0
 0 25 6 1
 1
 end_operator
@@ -6906,9 +6906,9 @@ begin_operator
 newcolfromfreecell c2 n2 n1 n11 n12
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 3 4
-0 16 2 0
 0 25 6 1
 1
 end_operator
@@ -6916,9 +6916,9 @@ begin_operator
 newcolfromfreecell c2 n2 n1 n12 n13
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 4 5
-0 16 2 0
 0 25 6 1
 1
 end_operator
@@ -6926,9 +6926,9 @@ begin_operator
 newcolfromfreecell c2 n2 n1 n2 n3
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 6 7
-0 16 2 0
 0 25 6 1
 1
 end_operator
@@ -6936,9 +6936,9 @@ begin_operator
 newcolfromfreecell c2 n2 n1 n3 n4
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 7 8
-0 16 2 0
 0 25 6 1
 1
 end_operator
@@ -6946,9 +6946,9 @@ begin_operator
 newcolfromfreecell c2 n2 n1 n4 n5
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 8 9
-0 16 2 0
 0 25 6 1
 1
 end_operator
@@ -6956,9 +6956,9 @@ begin_operator
 newcolfromfreecell c2 n2 n1 n5 n6
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 9 10
-0 16 2 0
 0 25 6 1
 1
 end_operator
@@ -6966,9 +6966,9 @@ begin_operator
 newcolfromfreecell c2 n2 n1 n6 n7
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 10 11
-0 16 2 0
 0 25 6 1
 1
 end_operator
@@ -6976,9 +6976,9 @@ begin_operator
 newcolfromfreecell c2 n2 n1 n7 n8
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 11 12
-0 16 2 0
 0 25 6 1
 1
 end_operator
@@ -6986,9 +6986,9 @@ begin_operator
 newcolfromfreecell c2 n2 n1 n8 n9
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 12 13
-0 16 2 0
 0 25 6 1
 1
 end_operator
@@ -6996,9 +6996,9 @@ begin_operator
 newcolfromfreecell c2 n2 n1 n9 n10
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 13 2
-0 16 2 0
 0 25 6 1
 1
 end_operator
@@ -7006,9 +7006,9 @@ begin_operator
 newcolfromfreecell c2 n3 n2 n0 n1
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 0 1
-0 16 2 0
 0 25 7 6
 1
 end_operator
@@ -7016,9 +7016,9 @@ begin_operator
 newcolfromfreecell c2 n3 n2 n1 n2
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 1 6
-0 16 2 0
 0 25 7 6
 1
 end_operator
@@ -7026,9 +7026,9 @@ begin_operator
 newcolfromfreecell c2 n3 n2 n10 n11
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 2 3
-0 16 2 0
 0 25 7 6
 1
 end_operator
@@ -7036,9 +7036,9 @@ begin_operator
 newcolfromfreecell c2 n3 n2 n11 n12
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 3 4
-0 16 2 0
 0 25 7 6
 1
 end_operator
@@ -7046,9 +7046,9 @@ begin_operator
 newcolfromfreecell c2 n3 n2 n12 n13
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 4 5
-0 16 2 0
 0 25 7 6
 1
 end_operator
@@ -7056,9 +7056,9 @@ begin_operator
 newcolfromfreecell c2 n3 n2 n2 n3
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 6 7
-0 16 2 0
 0 25 7 6
 1
 end_operator
@@ -7066,9 +7066,9 @@ begin_operator
 newcolfromfreecell c2 n3 n2 n3 n4
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 7 8
-0 16 2 0
 0 25 7 6
 1
 end_operator
@@ -7076,9 +7076,9 @@ begin_operator
 newcolfromfreecell c2 n3 n2 n4 n5
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 8 9
-0 16 2 0
 0 25 7 6
 1
 end_operator
@@ -7086,9 +7086,9 @@ begin_operator
 newcolfromfreecell c2 n3 n2 n5 n6
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 9 10
-0 16 2 0
 0 25 7 6
 1
 end_operator
@@ -7096,9 +7096,9 @@ begin_operator
 newcolfromfreecell c2 n3 n2 n6 n7
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 10 11
-0 16 2 0
 0 25 7 6
 1
 end_operator
@@ -7106,9 +7106,9 @@ begin_operator
 newcolfromfreecell c2 n3 n2 n7 n8
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 11 12
-0 16 2 0
 0 25 7 6
 1
 end_operator
@@ -7116,9 +7116,9 @@ begin_operator
 newcolfromfreecell c2 n3 n2 n8 n9
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 12 13
-0 16 2 0
 0 25 7 6
 1
 end_operator
@@ -7126,9 +7126,9 @@ begin_operator
 newcolfromfreecell c2 n3 n2 n9 n10
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 13 2
-0 16 2 0
 0 25 7 6
 1
 end_operator
@@ -7136,9 +7136,9 @@ begin_operator
 newcolfromfreecell c2 n4 n3 n0 n1
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 0 1
-0 16 2 0
 0 25 8 7
 1
 end_operator
@@ -7146,9 +7146,9 @@ begin_operator
 newcolfromfreecell c2 n4 n3 n1 n2
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 1 6
-0 16 2 0
 0 25 8 7
 1
 end_operator
@@ -7156,9 +7156,9 @@ begin_operator
 newcolfromfreecell c2 n4 n3 n10 n11
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 2 3
-0 16 2 0
 0 25 8 7
 1
 end_operator
@@ -7166,9 +7166,9 @@ begin_operator
 newcolfromfreecell c2 n4 n3 n11 n12
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 3 4
-0 16 2 0
 0 25 8 7
 1
 end_operator
@@ -7176,9 +7176,9 @@ begin_operator
 newcolfromfreecell c2 n4 n3 n12 n13
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 4 5
-0 16 2 0
 0 25 8 7
 1
 end_operator
@@ -7186,9 +7186,9 @@ begin_operator
 newcolfromfreecell c2 n4 n3 n2 n3
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 6 7
-0 16 2 0
 0 25 8 7
 1
 end_operator
@@ -7196,9 +7196,9 @@ begin_operator
 newcolfromfreecell c2 n4 n3 n3 n4
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 7 8
-0 16 2 0
 0 25 8 7
 1
 end_operator
@@ -7206,9 +7206,9 @@ begin_operator
 newcolfromfreecell c2 n4 n3 n4 n5
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 8 9
-0 16 2 0
 0 25 8 7
 1
 end_operator
@@ -7216,9 +7216,9 @@ begin_operator
 newcolfromfreecell c2 n4 n3 n5 n6
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 9 10
-0 16 2 0
 0 25 8 7
 1
 end_operator
@@ -7226,9 +7226,9 @@ begin_operator
 newcolfromfreecell c2 n4 n3 n6 n7
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 10 11
-0 16 2 0
 0 25 8 7
 1
 end_operator
@@ -7236,9 +7236,9 @@ begin_operator
 newcolfromfreecell c2 n4 n3 n7 n8
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 11 12
-0 16 2 0
 0 25 8 7
 1
 end_operator
@@ -7246,9 +7246,9 @@ begin_operator
 newcolfromfreecell c2 n4 n3 n8 n9
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 12 13
-0 16 2 0
 0 25 8 7
 1
 end_operator
@@ -7256,9 +7256,9 @@ begin_operator
 newcolfromfreecell c2 n4 n3 n9 n10
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 13 2
-0 16 2 0
 0 25 8 7
 1
 end_operator
@@ -7266,9 +7266,9 @@ begin_operator
 newcolfromfreecell c2 n5 n4 n0 n1
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 0 1
-0 16 2 0
 0 25 9 8
 1
 end_operator
@@ -7276,9 +7276,9 @@ begin_operator
 newcolfromfreecell c2 n5 n4 n1 n2
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 1 6
-0 16 2 0
 0 25 9 8
 1
 end_operator
@@ -7286,9 +7286,9 @@ begin_operator
 newcolfromfreecell c2 n5 n4 n10 n11
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 2 3
-0 16 2 0
 0 25 9 8
 1
 end_operator
@@ -7296,9 +7296,9 @@ begin_operator
 newcolfromfreecell c2 n5 n4 n11 n12
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 3 4
-0 16 2 0
 0 25 9 8
 1
 end_operator
@@ -7306,9 +7306,9 @@ begin_operator
 newcolfromfreecell c2 n5 n4 n12 n13
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 4 5
-0 16 2 0
 0 25 9 8
 1
 end_operator
@@ -7316,9 +7316,9 @@ begin_operator
 newcolfromfreecell c2 n5 n4 n2 n3
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 6 7
-0 16 2 0
 0 25 9 8
 1
 end_operator
@@ -7326,9 +7326,9 @@ begin_operator
 newcolfromfreecell c2 n5 n4 n3 n4
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 7 8
-0 16 2 0
 0 25 9 8
 1
 end_operator
@@ -7336,9 +7336,9 @@ begin_operator
 newcolfromfreecell c2 n5 n4 n4 n5
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 8 9
-0 16 2 0
 0 25 9 8
 1
 end_operator
@@ -7346,9 +7346,9 @@ begin_operator
 newcolfromfreecell c2 n5 n4 n5 n6
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 9 10
-0 16 2 0
 0 25 9 8
 1
 end_operator
@@ -7356,9 +7356,9 @@ begin_operator
 newcolfromfreecell c2 n5 n4 n6 n7
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 10 11
-0 16 2 0
 0 25 9 8
 1
 end_operator
@@ -7366,9 +7366,9 @@ begin_operator
 newcolfromfreecell c2 n5 n4 n7 n8
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 11 12
-0 16 2 0
 0 25 9 8
 1
 end_operator
@@ -7376,9 +7376,9 @@ begin_operator
 newcolfromfreecell c2 n5 n4 n8 n9
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 12 13
-0 16 2 0
 0 25 9 8
 1
 end_operator
@@ -7386,9 +7386,9 @@ begin_operator
 newcolfromfreecell c2 n5 n4 n9 n10
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 13 2
-0 16 2 0
 0 25 9 8
 1
 end_operator
@@ -7396,9 +7396,9 @@ begin_operator
 newcolfromfreecell c2 n6 n5 n0 n1
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 0 1
-0 16 2 0
 0 25 10 9
 1
 end_operator
@@ -7406,9 +7406,9 @@ begin_operator
 newcolfromfreecell c2 n6 n5 n1 n2
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 1 6
-0 16 2 0
 0 25 10 9
 1
 end_operator
@@ -7416,9 +7416,9 @@ begin_operator
 newcolfromfreecell c2 n6 n5 n10 n11
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 2 3
-0 16 2 0
 0 25 10 9
 1
 end_operator
@@ -7426,9 +7426,9 @@ begin_operator
 newcolfromfreecell c2 n6 n5 n11 n12
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 3 4
-0 16 2 0
 0 25 10 9
 1
 end_operator
@@ -7436,9 +7436,9 @@ begin_operator
 newcolfromfreecell c2 n6 n5 n12 n13
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 4 5
-0 16 2 0
 0 25 10 9
 1
 end_operator
@@ -7446,9 +7446,9 @@ begin_operator
 newcolfromfreecell c2 n6 n5 n2 n3
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 6 7
-0 16 2 0
 0 25 10 9
 1
 end_operator
@@ -7456,9 +7456,9 @@ begin_operator
 newcolfromfreecell c2 n6 n5 n3 n4
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 7 8
-0 16 2 0
 0 25 10 9
 1
 end_operator
@@ -7466,9 +7466,9 @@ begin_operator
 newcolfromfreecell c2 n6 n5 n4 n5
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 8 9
-0 16 2 0
 0 25 10 9
 1
 end_operator
@@ -7476,9 +7476,9 @@ begin_operator
 newcolfromfreecell c2 n6 n5 n5 n6
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 9 10
-0 16 2 0
 0 25 10 9
 1
 end_operator
@@ -7486,9 +7486,9 @@ begin_operator
 newcolfromfreecell c2 n6 n5 n6 n7
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 10 11
-0 16 2 0
 0 25 10 9
 1
 end_operator
@@ -7496,9 +7496,9 @@ begin_operator
 newcolfromfreecell c2 n6 n5 n7 n8
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 11 12
-0 16 2 0
 0 25 10 9
 1
 end_operator
@@ -7506,9 +7506,9 @@ begin_operator
 newcolfromfreecell c2 n6 n5 n8 n9
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 12 13
-0 16 2 0
 0 25 10 9
 1
 end_operator
@@ -7516,9 +7516,9 @@ begin_operator
 newcolfromfreecell c2 n6 n5 n9 n10
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 13 2
-0 16 2 0
 0 25 10 9
 1
 end_operator
@@ -7526,9 +7526,9 @@ begin_operator
 newcolfromfreecell c2 n7 n6 n0 n1
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 0 1
-0 16 2 0
 0 25 11 10
 1
 end_operator
@@ -7536,9 +7536,9 @@ begin_operator
 newcolfromfreecell c2 n7 n6 n1 n2
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 1 6
-0 16 2 0
 0 25 11 10
 1
 end_operator
@@ -7546,9 +7546,9 @@ begin_operator
 newcolfromfreecell c2 n7 n6 n10 n11
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 2 3
-0 16 2 0
 0 25 11 10
 1
 end_operator
@@ -7556,9 +7556,9 @@ begin_operator
 newcolfromfreecell c2 n7 n6 n11 n12
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 3 4
-0 16 2 0
 0 25 11 10
 1
 end_operator
@@ -7566,9 +7566,9 @@ begin_operator
 newcolfromfreecell c2 n7 n6 n12 n13
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 4 5
-0 16 2 0
 0 25 11 10
 1
 end_operator
@@ -7576,9 +7576,9 @@ begin_operator
 newcolfromfreecell c2 n7 n6 n2 n3
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 6 7
-0 16 2 0
 0 25 11 10
 1
 end_operator
@@ -7586,9 +7586,9 @@ begin_operator
 newcolfromfreecell c2 n7 n6 n3 n4
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 7 8
-0 16 2 0
 0 25 11 10
 1
 end_operator
@@ -7596,9 +7596,9 @@ begin_operator
 newcolfromfreecell c2 n7 n6 n4 n5
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 8 9
-0 16 2 0
 0 25 11 10
 1
 end_operator
@@ -7606,9 +7606,9 @@ begin_operator
 newcolfromfreecell c2 n7 n6 n5 n6
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 9 10
-0 16 2 0
 0 25 11 10
 1
 end_operator
@@ -7616,9 +7616,9 @@ begin_operator
 newcolfromfreecell c2 n7 n6 n6 n7
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 10 11
-0 16 2 0
 0 25 11 10
 1
 end_operator
@@ -7626,9 +7626,9 @@ begin_operator
 newcolfromfreecell c2 n7 n6 n7 n8
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 11 12
-0 16 2 0
 0 25 11 10
 1
 end_operator
@@ -7636,9 +7636,9 @@ begin_operator
 newcolfromfreecell c2 n7 n6 n8 n9
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 12 13
-0 16 2 0
 0 25 11 10
 1
 end_operator
@@ -7646,9 +7646,9 @@ begin_operator
 newcolfromfreecell c2 n7 n6 n9 n10
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 13 2
-0 16 2 0
 0 25 11 10
 1
 end_operator
@@ -7656,9 +7656,9 @@ begin_operator
 newcolfromfreecell c2 n8 n7 n0 n1
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 0 1
-0 16 2 0
 0 25 12 11
 1
 end_operator
@@ -7666,9 +7666,9 @@ begin_operator
 newcolfromfreecell c2 n8 n7 n1 n2
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 1 6
-0 16 2 0
 0 25 12 11
 1
 end_operator
@@ -7676,9 +7676,9 @@ begin_operator
 newcolfromfreecell c2 n8 n7 n10 n11
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 2 3
-0 16 2 0
 0 25 12 11
 1
 end_operator
@@ -7686,9 +7686,9 @@ begin_operator
 newcolfromfreecell c2 n8 n7 n11 n12
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 3 4
-0 16 2 0
 0 25 12 11
 1
 end_operator
@@ -7696,9 +7696,9 @@ begin_operator
 newcolfromfreecell c2 n8 n7 n12 n13
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 4 5
-0 16 2 0
 0 25 12 11
 1
 end_operator
@@ -7706,9 +7706,9 @@ begin_operator
 newcolfromfreecell c2 n8 n7 n2 n3
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 6 7
-0 16 2 0
 0 25 12 11
 1
 end_operator
@@ -7716,9 +7716,9 @@ begin_operator
 newcolfromfreecell c2 n8 n7 n3 n4
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 7 8
-0 16 2 0
 0 25 12 11
 1
 end_operator
@@ -7726,9 +7726,9 @@ begin_operator
 newcolfromfreecell c2 n8 n7 n4 n5
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 8 9
-0 16 2 0
 0 25 12 11
 1
 end_operator
@@ -7736,9 +7736,9 @@ begin_operator
 newcolfromfreecell c2 n8 n7 n5 n6
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 9 10
-0 16 2 0
 0 25 12 11
 1
 end_operator
@@ -7746,9 +7746,9 @@ begin_operator
 newcolfromfreecell c2 n8 n7 n6 n7
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 10 11
-0 16 2 0
 0 25 12 11
 1
 end_operator
@@ -7756,9 +7756,9 @@ begin_operator
 newcolfromfreecell c2 n8 n7 n7 n8
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 11 12
-0 16 2 0
 0 25 12 11
 1
 end_operator
@@ -7766,9 +7766,9 @@ begin_operator
 newcolfromfreecell c2 n8 n7 n8 n9
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 12 13
-0 16 2 0
 0 25 12 11
 1
 end_operator
@@ -7776,9 +7776,9 @@ begin_operator
 newcolfromfreecell c2 n8 n7 n9 n10
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 13 2
-0 16 2 0
 0 25 12 11
 1
 end_operator
@@ -7786,9 +7786,9 @@ begin_operator
 newcolfromfreecell c2 n9 n8 n0 n1
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 0 1
-0 16 2 0
 0 25 13 12
 1
 end_operator
@@ -7796,9 +7796,9 @@ begin_operator
 newcolfromfreecell c2 n9 n8 n1 n2
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 1 6
-0 16 2 0
 0 25 13 12
 1
 end_operator
@@ -7806,9 +7806,9 @@ begin_operator
 newcolfromfreecell c2 n9 n8 n10 n11
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 2 3
-0 16 2 0
 0 25 13 12
 1
 end_operator
@@ -7816,9 +7816,9 @@ begin_operator
 newcolfromfreecell c2 n9 n8 n11 n12
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 3 4
-0 16 2 0
 0 25 13 12
 1
 end_operator
@@ -7826,9 +7826,9 @@ begin_operator
 newcolfromfreecell c2 n9 n8 n12 n13
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 4 5
-0 16 2 0
 0 25 13 12
 1
 end_operator
@@ -7836,9 +7836,9 @@ begin_operator
 newcolfromfreecell c2 n9 n8 n2 n3
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 6 7
-0 16 2 0
 0 25 13 12
 1
 end_operator
@@ -7846,9 +7846,9 @@ begin_operator
 newcolfromfreecell c2 n9 n8 n3 n4
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 7 8
-0 16 2 0
 0 25 13 12
 1
 end_operator
@@ -7856,9 +7856,9 @@ begin_operator
 newcolfromfreecell c2 n9 n8 n4 n5
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 8 9
-0 16 2 0
 0 25 13 12
 1
 end_operator
@@ -7866,9 +7866,9 @@ begin_operator
 newcolfromfreecell c2 n9 n8 n5 n6
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 9 10
-0 16 2 0
 0 25 13 12
 1
 end_operator
@@ -7876,9 +7876,9 @@ begin_operator
 newcolfromfreecell c2 n9 n8 n6 n7
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 10 11
-0 16 2 0
 0 25 13 12
 1
 end_operator
@@ -7886,9 +7886,9 @@ begin_operator
 newcolfromfreecell c2 n9 n8 n7 n8
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 11 12
-0 16 2 0
 0 25 13 12
 1
 end_operator
@@ -7896,9 +7896,9 @@ begin_operator
 newcolfromfreecell c2 n9 n8 n8 n9
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 12 13
-0 16 2 0
 0 25 13 12
 1
 end_operator
@@ -7906,9 +7906,9 @@ begin_operator
 newcolfromfreecell c2 n9 n8 n9 n10
 0
 4
+0 16 2 0
 0 17 -1 0
 0 24 13 2
-0 16 2 0
 0 25 13 12
 1
 end_operator
@@ -7918,8 +7918,8 @@ newcolfromfreecell c3 n1 n0 n0 n1
 4
 0 6 -1 0
 0 24 0 1
-0 28 2 0
 0 25 1 0
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -7928,8 +7928,8 @@ newcolfromfreecell c3 n1 n0 n1 n2
 4
 0 6 -1 0
 0 24 1 6
-0 28 2 0
 0 25 1 0
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -7938,8 +7938,8 @@ newcolfromfreecell c3 n1 n0 n10 n11
 4
 0 6 -1 0
 0 24 2 3
-0 28 2 0
 0 25 1 0
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -7948,8 +7948,8 @@ newcolfromfreecell c3 n1 n0 n11 n12
 4
 0 6 -1 0
 0 24 3 4
-0 28 2 0
 0 25 1 0
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -7958,8 +7958,8 @@ newcolfromfreecell c3 n1 n0 n12 n13
 4
 0 6 -1 0
 0 24 4 5
-0 28 2 0
 0 25 1 0
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -7968,8 +7968,8 @@ newcolfromfreecell c3 n1 n0 n2 n3
 4
 0 6 -1 0
 0 24 6 7
-0 28 2 0
 0 25 1 0
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -7978,8 +7978,8 @@ newcolfromfreecell c3 n1 n0 n3 n4
 4
 0 6 -1 0
 0 24 7 8
-0 28 2 0
 0 25 1 0
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -7988,8 +7988,8 @@ newcolfromfreecell c3 n1 n0 n4 n5
 4
 0 6 -1 0
 0 24 8 9
-0 28 2 0
 0 25 1 0
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -7998,8 +7998,8 @@ newcolfromfreecell c3 n1 n0 n5 n6
 4
 0 6 -1 0
 0 24 9 10
-0 28 2 0
 0 25 1 0
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8008,8 +8008,8 @@ newcolfromfreecell c3 n1 n0 n6 n7
 4
 0 6 -1 0
 0 24 10 11
-0 28 2 0
 0 25 1 0
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8018,8 +8018,8 @@ newcolfromfreecell c3 n1 n0 n7 n8
 4
 0 6 -1 0
 0 24 11 12
-0 28 2 0
 0 25 1 0
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8028,8 +8028,8 @@ newcolfromfreecell c3 n1 n0 n8 n9
 4
 0 6 -1 0
 0 24 12 13
-0 28 2 0
 0 25 1 0
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8038,8 +8038,8 @@ newcolfromfreecell c3 n1 n0 n9 n10
 4
 0 6 -1 0
 0 24 13 2
-0 28 2 0
 0 25 1 0
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8048,8 +8048,8 @@ newcolfromfreecell c3 n10 n9 n0 n1
 4
 0 6 -1 0
 0 24 0 1
-0 28 2 0
 0 25 2 13
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8058,8 +8058,8 @@ newcolfromfreecell c3 n10 n9 n1 n2
 4
 0 6 -1 0
 0 24 1 6
-0 28 2 0
 0 25 2 13
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8068,8 +8068,8 @@ newcolfromfreecell c3 n10 n9 n10 n11
 4
 0 6 -1 0
 0 24 2 3
-0 28 2 0
 0 25 2 13
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8078,8 +8078,8 @@ newcolfromfreecell c3 n10 n9 n11 n12
 4
 0 6 -1 0
 0 24 3 4
-0 28 2 0
 0 25 2 13
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8088,8 +8088,8 @@ newcolfromfreecell c3 n10 n9 n12 n13
 4
 0 6 -1 0
 0 24 4 5
-0 28 2 0
 0 25 2 13
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8098,8 +8098,8 @@ newcolfromfreecell c3 n10 n9 n2 n3
 4
 0 6 -1 0
 0 24 6 7
-0 28 2 0
 0 25 2 13
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8108,8 +8108,8 @@ newcolfromfreecell c3 n10 n9 n3 n4
 4
 0 6 -1 0
 0 24 7 8
-0 28 2 0
 0 25 2 13
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8118,8 +8118,8 @@ newcolfromfreecell c3 n10 n9 n4 n5
 4
 0 6 -1 0
 0 24 8 9
-0 28 2 0
 0 25 2 13
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8128,8 +8128,8 @@ newcolfromfreecell c3 n10 n9 n5 n6
 4
 0 6 -1 0
 0 24 9 10
-0 28 2 0
 0 25 2 13
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8138,8 +8138,8 @@ newcolfromfreecell c3 n10 n9 n6 n7
 4
 0 6 -1 0
 0 24 10 11
-0 28 2 0
 0 25 2 13
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8148,8 +8148,8 @@ newcolfromfreecell c3 n10 n9 n7 n8
 4
 0 6 -1 0
 0 24 11 12
-0 28 2 0
 0 25 2 13
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8158,8 +8158,8 @@ newcolfromfreecell c3 n10 n9 n8 n9
 4
 0 6 -1 0
 0 24 12 13
-0 28 2 0
 0 25 2 13
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8168,8 +8168,8 @@ newcolfromfreecell c3 n10 n9 n9 n10
 4
 0 6 -1 0
 0 24 13 2
-0 28 2 0
 0 25 2 13
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8178,8 +8178,8 @@ newcolfromfreecell c3 n11 n10 n0 n1
 4
 0 6 -1 0
 0 24 0 1
-0 28 2 0
 0 25 3 2
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8188,8 +8188,8 @@ newcolfromfreecell c3 n11 n10 n1 n2
 4
 0 6 -1 0
 0 24 1 6
-0 28 2 0
 0 25 3 2
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8198,8 +8198,8 @@ newcolfromfreecell c3 n11 n10 n10 n11
 4
 0 6 -1 0
 0 24 2 3
-0 28 2 0
 0 25 3 2
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8208,8 +8208,8 @@ newcolfromfreecell c3 n11 n10 n11 n12
 4
 0 6 -1 0
 0 24 3 4
-0 28 2 0
 0 25 3 2
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8218,8 +8218,8 @@ newcolfromfreecell c3 n11 n10 n12 n13
 4
 0 6 -1 0
 0 24 4 5
-0 28 2 0
 0 25 3 2
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8228,8 +8228,8 @@ newcolfromfreecell c3 n11 n10 n2 n3
 4
 0 6 -1 0
 0 24 6 7
-0 28 2 0
 0 25 3 2
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8238,8 +8238,8 @@ newcolfromfreecell c3 n11 n10 n3 n4
 4
 0 6 -1 0
 0 24 7 8
-0 28 2 0
 0 25 3 2
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8248,8 +8248,8 @@ newcolfromfreecell c3 n11 n10 n4 n5
 4
 0 6 -1 0
 0 24 8 9
-0 28 2 0
 0 25 3 2
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8258,8 +8258,8 @@ newcolfromfreecell c3 n11 n10 n5 n6
 4
 0 6 -1 0
 0 24 9 10
-0 28 2 0
 0 25 3 2
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8268,8 +8268,8 @@ newcolfromfreecell c3 n11 n10 n6 n7
 4
 0 6 -1 0
 0 24 10 11
-0 28 2 0
 0 25 3 2
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8278,8 +8278,8 @@ newcolfromfreecell c3 n11 n10 n7 n8
 4
 0 6 -1 0
 0 24 11 12
-0 28 2 0
 0 25 3 2
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8288,8 +8288,8 @@ newcolfromfreecell c3 n11 n10 n8 n9
 4
 0 6 -1 0
 0 24 12 13
-0 28 2 0
 0 25 3 2
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8298,8 +8298,8 @@ newcolfromfreecell c3 n11 n10 n9 n10
 4
 0 6 -1 0
 0 24 13 2
-0 28 2 0
 0 25 3 2
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8308,8 +8308,8 @@ newcolfromfreecell c3 n12 n11 n0 n1
 4
 0 6 -1 0
 0 24 0 1
-0 28 2 0
 0 25 4 3
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8318,8 +8318,8 @@ newcolfromfreecell c3 n12 n11 n1 n2
 4
 0 6 -1 0
 0 24 1 6
-0 28 2 0
 0 25 4 3
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8328,8 +8328,8 @@ newcolfromfreecell c3 n12 n11 n10 n11
 4
 0 6 -1 0
 0 24 2 3
-0 28 2 0
 0 25 4 3
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8338,8 +8338,8 @@ newcolfromfreecell c3 n12 n11 n11 n12
 4
 0 6 -1 0
 0 24 3 4
-0 28 2 0
 0 25 4 3
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8348,8 +8348,8 @@ newcolfromfreecell c3 n12 n11 n12 n13
 4
 0 6 -1 0
 0 24 4 5
-0 28 2 0
 0 25 4 3
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8358,8 +8358,8 @@ newcolfromfreecell c3 n12 n11 n2 n3
 4
 0 6 -1 0
 0 24 6 7
-0 28 2 0
 0 25 4 3
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8368,8 +8368,8 @@ newcolfromfreecell c3 n12 n11 n3 n4
 4
 0 6 -1 0
 0 24 7 8
-0 28 2 0
 0 25 4 3
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8378,8 +8378,8 @@ newcolfromfreecell c3 n12 n11 n4 n5
 4
 0 6 -1 0
 0 24 8 9
-0 28 2 0
 0 25 4 3
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8388,8 +8388,8 @@ newcolfromfreecell c3 n12 n11 n5 n6
 4
 0 6 -1 0
 0 24 9 10
-0 28 2 0
 0 25 4 3
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8398,8 +8398,8 @@ newcolfromfreecell c3 n12 n11 n6 n7
 4
 0 6 -1 0
 0 24 10 11
-0 28 2 0
 0 25 4 3
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8408,8 +8408,8 @@ newcolfromfreecell c3 n12 n11 n7 n8
 4
 0 6 -1 0
 0 24 11 12
-0 28 2 0
 0 25 4 3
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8418,8 +8418,8 @@ newcolfromfreecell c3 n12 n11 n8 n9
 4
 0 6 -1 0
 0 24 12 13
-0 28 2 0
 0 25 4 3
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8428,8 +8428,8 @@ newcolfromfreecell c3 n12 n11 n9 n10
 4
 0 6 -1 0
 0 24 13 2
-0 28 2 0
 0 25 4 3
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8438,8 +8438,8 @@ newcolfromfreecell c3 n13 n12 n0 n1
 4
 0 6 -1 0
 0 24 0 1
-0 28 2 0
 0 25 5 4
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8448,8 +8448,8 @@ newcolfromfreecell c3 n13 n12 n1 n2
 4
 0 6 -1 0
 0 24 1 6
-0 28 2 0
 0 25 5 4
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8458,8 +8458,8 @@ newcolfromfreecell c3 n13 n12 n10 n11
 4
 0 6 -1 0
 0 24 2 3
-0 28 2 0
 0 25 5 4
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8468,8 +8468,8 @@ newcolfromfreecell c3 n13 n12 n11 n12
 4
 0 6 -1 0
 0 24 3 4
-0 28 2 0
 0 25 5 4
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8478,8 +8478,8 @@ newcolfromfreecell c3 n13 n12 n12 n13
 4
 0 6 -1 0
 0 24 4 5
-0 28 2 0
 0 25 5 4
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8488,8 +8488,8 @@ newcolfromfreecell c3 n13 n12 n2 n3
 4
 0 6 -1 0
 0 24 6 7
-0 28 2 0
 0 25 5 4
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8498,8 +8498,8 @@ newcolfromfreecell c3 n13 n12 n3 n4
 4
 0 6 -1 0
 0 24 7 8
-0 28 2 0
 0 25 5 4
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8508,8 +8508,8 @@ newcolfromfreecell c3 n13 n12 n4 n5
 4
 0 6 -1 0
 0 24 8 9
-0 28 2 0
 0 25 5 4
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8518,8 +8518,8 @@ newcolfromfreecell c3 n13 n12 n5 n6
 4
 0 6 -1 0
 0 24 9 10
-0 28 2 0
 0 25 5 4
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8528,8 +8528,8 @@ newcolfromfreecell c3 n13 n12 n6 n7
 4
 0 6 -1 0
 0 24 10 11
-0 28 2 0
 0 25 5 4
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8538,8 +8538,8 @@ newcolfromfreecell c3 n13 n12 n7 n8
 4
 0 6 -1 0
 0 24 11 12
-0 28 2 0
 0 25 5 4
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8548,8 +8548,8 @@ newcolfromfreecell c3 n13 n12 n8 n9
 4
 0 6 -1 0
 0 24 12 13
-0 28 2 0
 0 25 5 4
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8558,8 +8558,8 @@ newcolfromfreecell c3 n13 n12 n9 n10
 4
 0 6 -1 0
 0 24 13 2
-0 28 2 0
 0 25 5 4
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8568,8 +8568,8 @@ newcolfromfreecell c3 n2 n1 n0 n1
 4
 0 6 -1 0
 0 24 0 1
-0 28 2 0
 0 25 6 1
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8578,8 +8578,8 @@ newcolfromfreecell c3 n2 n1 n1 n2
 4
 0 6 -1 0
 0 24 1 6
-0 28 2 0
 0 25 6 1
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8588,8 +8588,8 @@ newcolfromfreecell c3 n2 n1 n10 n11
 4
 0 6 -1 0
 0 24 2 3
-0 28 2 0
 0 25 6 1
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8598,8 +8598,8 @@ newcolfromfreecell c3 n2 n1 n11 n12
 4
 0 6 -1 0
 0 24 3 4
-0 28 2 0
 0 25 6 1
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8608,8 +8608,8 @@ newcolfromfreecell c3 n2 n1 n12 n13
 4
 0 6 -1 0
 0 24 4 5
-0 28 2 0
 0 25 6 1
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8618,8 +8618,8 @@ newcolfromfreecell c3 n2 n1 n2 n3
 4
 0 6 -1 0
 0 24 6 7
-0 28 2 0
 0 25 6 1
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8628,8 +8628,8 @@ newcolfromfreecell c3 n2 n1 n3 n4
 4
 0 6 -1 0
 0 24 7 8
-0 28 2 0
 0 25 6 1
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8638,8 +8638,8 @@ newcolfromfreecell c3 n2 n1 n4 n5
 4
 0 6 -1 0
 0 24 8 9
-0 28 2 0
 0 25 6 1
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8648,8 +8648,8 @@ newcolfromfreecell c3 n2 n1 n5 n6
 4
 0 6 -1 0
 0 24 9 10
-0 28 2 0
 0 25 6 1
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8658,8 +8658,8 @@ newcolfromfreecell c3 n2 n1 n6 n7
 4
 0 6 -1 0
 0 24 10 11
-0 28 2 0
 0 25 6 1
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8668,8 +8668,8 @@ newcolfromfreecell c3 n2 n1 n7 n8
 4
 0 6 -1 0
 0 24 11 12
-0 28 2 0
 0 25 6 1
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8678,8 +8678,8 @@ newcolfromfreecell c3 n2 n1 n8 n9
 4
 0 6 -1 0
 0 24 12 13
-0 28 2 0
 0 25 6 1
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8688,8 +8688,8 @@ newcolfromfreecell c3 n2 n1 n9 n10
 4
 0 6 -1 0
 0 24 13 2
-0 28 2 0
 0 25 6 1
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8698,8 +8698,8 @@ newcolfromfreecell c3 n3 n2 n0 n1
 4
 0 6 -1 0
 0 24 0 1
-0 28 2 0
 0 25 7 6
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8708,8 +8708,8 @@ newcolfromfreecell c3 n3 n2 n1 n2
 4
 0 6 -1 0
 0 24 1 6
-0 28 2 0
 0 25 7 6
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8718,8 +8718,8 @@ newcolfromfreecell c3 n3 n2 n10 n11
 4
 0 6 -1 0
 0 24 2 3
-0 28 2 0
 0 25 7 6
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8728,8 +8728,8 @@ newcolfromfreecell c3 n3 n2 n11 n12
 4
 0 6 -1 0
 0 24 3 4
-0 28 2 0
 0 25 7 6
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8738,8 +8738,8 @@ newcolfromfreecell c3 n3 n2 n12 n13
 4
 0 6 -1 0
 0 24 4 5
-0 28 2 0
 0 25 7 6
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8748,8 +8748,8 @@ newcolfromfreecell c3 n3 n2 n2 n3
 4
 0 6 -1 0
 0 24 6 7
-0 28 2 0
 0 25 7 6
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8758,8 +8758,8 @@ newcolfromfreecell c3 n3 n2 n3 n4
 4
 0 6 -1 0
 0 24 7 8
-0 28 2 0
 0 25 7 6
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8768,8 +8768,8 @@ newcolfromfreecell c3 n3 n2 n4 n5
 4
 0 6 -1 0
 0 24 8 9
-0 28 2 0
 0 25 7 6
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8778,8 +8778,8 @@ newcolfromfreecell c3 n3 n2 n5 n6
 4
 0 6 -1 0
 0 24 9 10
-0 28 2 0
 0 25 7 6
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8788,8 +8788,8 @@ newcolfromfreecell c3 n3 n2 n6 n7
 4
 0 6 -1 0
 0 24 10 11
-0 28 2 0
 0 25 7 6
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8798,8 +8798,8 @@ newcolfromfreecell c3 n3 n2 n7 n8
 4
 0 6 -1 0
 0 24 11 12
-0 28 2 0
 0 25 7 6
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8808,8 +8808,8 @@ newcolfromfreecell c3 n3 n2 n8 n9
 4
 0 6 -1 0
 0 24 12 13
-0 28 2 0
 0 25 7 6
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8818,8 +8818,8 @@ newcolfromfreecell c3 n3 n2 n9 n10
 4
 0 6 -1 0
 0 24 13 2
-0 28 2 0
 0 25 7 6
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8828,8 +8828,8 @@ newcolfromfreecell c3 n4 n3 n0 n1
 4
 0 6 -1 0
 0 24 0 1
-0 28 2 0
 0 25 8 7
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8838,8 +8838,8 @@ newcolfromfreecell c3 n4 n3 n1 n2
 4
 0 6 -1 0
 0 24 1 6
-0 28 2 0
 0 25 8 7
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8848,8 +8848,8 @@ newcolfromfreecell c3 n4 n3 n10 n11
 4
 0 6 -1 0
 0 24 2 3
-0 28 2 0
 0 25 8 7
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8858,8 +8858,8 @@ newcolfromfreecell c3 n4 n3 n11 n12
 4
 0 6 -1 0
 0 24 3 4
-0 28 2 0
 0 25 8 7
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8868,8 +8868,8 @@ newcolfromfreecell c3 n4 n3 n12 n13
 4
 0 6 -1 0
 0 24 4 5
-0 28 2 0
 0 25 8 7
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8878,8 +8878,8 @@ newcolfromfreecell c3 n4 n3 n2 n3
 4
 0 6 -1 0
 0 24 6 7
-0 28 2 0
 0 25 8 7
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8888,8 +8888,8 @@ newcolfromfreecell c3 n4 n3 n3 n4
 4
 0 6 -1 0
 0 24 7 8
-0 28 2 0
 0 25 8 7
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8898,8 +8898,8 @@ newcolfromfreecell c3 n4 n3 n4 n5
 4
 0 6 -1 0
 0 24 8 9
-0 28 2 0
 0 25 8 7
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8908,8 +8908,8 @@ newcolfromfreecell c3 n4 n3 n5 n6
 4
 0 6 -1 0
 0 24 9 10
-0 28 2 0
 0 25 8 7
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8918,8 +8918,8 @@ newcolfromfreecell c3 n4 n3 n6 n7
 4
 0 6 -1 0
 0 24 10 11
-0 28 2 0
 0 25 8 7
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8928,8 +8928,8 @@ newcolfromfreecell c3 n4 n3 n7 n8
 4
 0 6 -1 0
 0 24 11 12
-0 28 2 0
 0 25 8 7
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8938,8 +8938,8 @@ newcolfromfreecell c3 n4 n3 n8 n9
 4
 0 6 -1 0
 0 24 12 13
-0 28 2 0
 0 25 8 7
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8948,8 +8948,8 @@ newcolfromfreecell c3 n4 n3 n9 n10
 4
 0 6 -1 0
 0 24 13 2
-0 28 2 0
 0 25 8 7
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8958,8 +8958,8 @@ newcolfromfreecell c3 n5 n4 n0 n1
 4
 0 6 -1 0
 0 24 0 1
-0 28 2 0
 0 25 9 8
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8968,8 +8968,8 @@ newcolfromfreecell c3 n5 n4 n1 n2
 4
 0 6 -1 0
 0 24 1 6
-0 28 2 0
 0 25 9 8
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8978,8 +8978,8 @@ newcolfromfreecell c3 n5 n4 n10 n11
 4
 0 6 -1 0
 0 24 2 3
-0 28 2 0
 0 25 9 8
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8988,8 +8988,8 @@ newcolfromfreecell c3 n5 n4 n11 n12
 4
 0 6 -1 0
 0 24 3 4
-0 28 2 0
 0 25 9 8
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -8998,8 +8998,8 @@ newcolfromfreecell c3 n5 n4 n12 n13
 4
 0 6 -1 0
 0 24 4 5
-0 28 2 0
 0 25 9 8
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9008,8 +9008,8 @@ newcolfromfreecell c3 n5 n4 n2 n3
 4
 0 6 -1 0
 0 24 6 7
-0 28 2 0
 0 25 9 8
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9018,8 +9018,8 @@ newcolfromfreecell c3 n5 n4 n3 n4
 4
 0 6 -1 0
 0 24 7 8
-0 28 2 0
 0 25 9 8
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9028,8 +9028,8 @@ newcolfromfreecell c3 n5 n4 n4 n5
 4
 0 6 -1 0
 0 24 8 9
-0 28 2 0
 0 25 9 8
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9038,8 +9038,8 @@ newcolfromfreecell c3 n5 n4 n5 n6
 4
 0 6 -1 0
 0 24 9 10
-0 28 2 0
 0 25 9 8
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9048,8 +9048,8 @@ newcolfromfreecell c3 n5 n4 n6 n7
 4
 0 6 -1 0
 0 24 10 11
-0 28 2 0
 0 25 9 8
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9058,8 +9058,8 @@ newcolfromfreecell c3 n5 n4 n7 n8
 4
 0 6 -1 0
 0 24 11 12
-0 28 2 0
 0 25 9 8
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9068,8 +9068,8 @@ newcolfromfreecell c3 n5 n4 n8 n9
 4
 0 6 -1 0
 0 24 12 13
-0 28 2 0
 0 25 9 8
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9078,8 +9078,8 @@ newcolfromfreecell c3 n5 n4 n9 n10
 4
 0 6 -1 0
 0 24 13 2
-0 28 2 0
 0 25 9 8
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9088,8 +9088,8 @@ newcolfromfreecell c3 n6 n5 n0 n1
 4
 0 6 -1 0
 0 24 0 1
-0 28 2 0
 0 25 10 9
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9098,8 +9098,8 @@ newcolfromfreecell c3 n6 n5 n1 n2
 4
 0 6 -1 0
 0 24 1 6
-0 28 2 0
 0 25 10 9
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9108,8 +9108,8 @@ newcolfromfreecell c3 n6 n5 n10 n11
 4
 0 6 -1 0
 0 24 2 3
-0 28 2 0
 0 25 10 9
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9118,8 +9118,8 @@ newcolfromfreecell c3 n6 n5 n11 n12
 4
 0 6 -1 0
 0 24 3 4
-0 28 2 0
 0 25 10 9
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9128,8 +9128,8 @@ newcolfromfreecell c3 n6 n5 n12 n13
 4
 0 6 -1 0
 0 24 4 5
-0 28 2 0
 0 25 10 9
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9138,8 +9138,8 @@ newcolfromfreecell c3 n6 n5 n2 n3
 4
 0 6 -1 0
 0 24 6 7
-0 28 2 0
 0 25 10 9
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9148,8 +9148,8 @@ newcolfromfreecell c3 n6 n5 n3 n4
 4
 0 6 -1 0
 0 24 7 8
-0 28 2 0
 0 25 10 9
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9158,8 +9158,8 @@ newcolfromfreecell c3 n6 n5 n4 n5
 4
 0 6 -1 0
 0 24 8 9
-0 28 2 0
 0 25 10 9
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9168,8 +9168,8 @@ newcolfromfreecell c3 n6 n5 n5 n6
 4
 0 6 -1 0
 0 24 9 10
-0 28 2 0
 0 25 10 9
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9178,8 +9178,8 @@ newcolfromfreecell c3 n6 n5 n6 n7
 4
 0 6 -1 0
 0 24 10 11
-0 28 2 0
 0 25 10 9
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9188,8 +9188,8 @@ newcolfromfreecell c3 n6 n5 n7 n8
 4
 0 6 -1 0
 0 24 11 12
-0 28 2 0
 0 25 10 9
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9198,8 +9198,8 @@ newcolfromfreecell c3 n6 n5 n8 n9
 4
 0 6 -1 0
 0 24 12 13
-0 28 2 0
 0 25 10 9
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9208,8 +9208,8 @@ newcolfromfreecell c3 n6 n5 n9 n10
 4
 0 6 -1 0
 0 24 13 2
-0 28 2 0
 0 25 10 9
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9218,8 +9218,8 @@ newcolfromfreecell c3 n7 n6 n0 n1
 4
 0 6 -1 0
 0 24 0 1
-0 28 2 0
 0 25 11 10
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9228,8 +9228,8 @@ newcolfromfreecell c3 n7 n6 n1 n2
 4
 0 6 -1 0
 0 24 1 6
-0 28 2 0
 0 25 11 10
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9238,8 +9238,8 @@ newcolfromfreecell c3 n7 n6 n10 n11
 4
 0 6 -1 0
 0 24 2 3
-0 28 2 0
 0 25 11 10
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9248,8 +9248,8 @@ newcolfromfreecell c3 n7 n6 n11 n12
 4
 0 6 -1 0
 0 24 3 4
-0 28 2 0
 0 25 11 10
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9258,8 +9258,8 @@ newcolfromfreecell c3 n7 n6 n12 n13
 4
 0 6 -1 0
 0 24 4 5
-0 28 2 0
 0 25 11 10
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9268,8 +9268,8 @@ newcolfromfreecell c3 n7 n6 n2 n3
 4
 0 6 -1 0
 0 24 6 7
-0 28 2 0
 0 25 11 10
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9278,8 +9278,8 @@ newcolfromfreecell c3 n7 n6 n3 n4
 4
 0 6 -1 0
 0 24 7 8
-0 28 2 0
 0 25 11 10
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9288,8 +9288,8 @@ newcolfromfreecell c3 n7 n6 n4 n5
 4
 0 6 -1 0
 0 24 8 9
-0 28 2 0
 0 25 11 10
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9298,8 +9298,8 @@ newcolfromfreecell c3 n7 n6 n5 n6
 4
 0 6 -1 0
 0 24 9 10
-0 28 2 0
 0 25 11 10
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9308,8 +9308,8 @@ newcolfromfreecell c3 n7 n6 n6 n7
 4
 0 6 -1 0
 0 24 10 11
-0 28 2 0
 0 25 11 10
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9318,8 +9318,8 @@ newcolfromfreecell c3 n7 n6 n7 n8
 4
 0 6 -1 0
 0 24 11 12
-0 28 2 0
 0 25 11 10
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9328,8 +9328,8 @@ newcolfromfreecell c3 n7 n6 n8 n9
 4
 0 6 -1 0
 0 24 12 13
-0 28 2 0
 0 25 11 10
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9338,8 +9338,8 @@ newcolfromfreecell c3 n7 n6 n9 n10
 4
 0 6 -1 0
 0 24 13 2
-0 28 2 0
 0 25 11 10
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9348,8 +9348,8 @@ newcolfromfreecell c3 n8 n7 n0 n1
 4
 0 6 -1 0
 0 24 0 1
-0 28 2 0
 0 25 12 11
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9358,8 +9358,8 @@ newcolfromfreecell c3 n8 n7 n1 n2
 4
 0 6 -1 0
 0 24 1 6
-0 28 2 0
 0 25 12 11
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9368,8 +9368,8 @@ newcolfromfreecell c3 n8 n7 n10 n11
 4
 0 6 -1 0
 0 24 2 3
-0 28 2 0
 0 25 12 11
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9378,8 +9378,8 @@ newcolfromfreecell c3 n8 n7 n11 n12
 4
 0 6 -1 0
 0 24 3 4
-0 28 2 0
 0 25 12 11
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9388,8 +9388,8 @@ newcolfromfreecell c3 n8 n7 n12 n13
 4
 0 6 -1 0
 0 24 4 5
-0 28 2 0
 0 25 12 11
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9398,8 +9398,8 @@ newcolfromfreecell c3 n8 n7 n2 n3
 4
 0 6 -1 0
 0 24 6 7
-0 28 2 0
 0 25 12 11
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9408,8 +9408,8 @@ newcolfromfreecell c3 n8 n7 n3 n4
 4
 0 6 -1 0
 0 24 7 8
-0 28 2 0
 0 25 12 11
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9418,8 +9418,8 @@ newcolfromfreecell c3 n8 n7 n4 n5
 4
 0 6 -1 0
 0 24 8 9
-0 28 2 0
 0 25 12 11
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9428,8 +9428,8 @@ newcolfromfreecell c3 n8 n7 n5 n6
 4
 0 6 -1 0
 0 24 9 10
-0 28 2 0
 0 25 12 11
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9438,8 +9438,8 @@ newcolfromfreecell c3 n8 n7 n6 n7
 4
 0 6 -1 0
 0 24 10 11
-0 28 2 0
 0 25 12 11
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9448,8 +9448,8 @@ newcolfromfreecell c3 n8 n7 n7 n8
 4
 0 6 -1 0
 0 24 11 12
-0 28 2 0
 0 25 12 11
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9458,8 +9458,8 @@ newcolfromfreecell c3 n8 n7 n8 n9
 4
 0 6 -1 0
 0 24 12 13
-0 28 2 0
 0 25 12 11
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9468,8 +9468,8 @@ newcolfromfreecell c3 n8 n7 n9 n10
 4
 0 6 -1 0
 0 24 13 2
-0 28 2 0
 0 25 12 11
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9478,8 +9478,8 @@ newcolfromfreecell c3 n9 n8 n0 n1
 4
 0 6 -1 0
 0 24 0 1
-0 28 2 0
 0 25 13 12
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9488,8 +9488,8 @@ newcolfromfreecell c3 n9 n8 n1 n2
 4
 0 6 -1 0
 0 24 1 6
-0 28 2 0
 0 25 13 12
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9498,8 +9498,8 @@ newcolfromfreecell c3 n9 n8 n10 n11
 4
 0 6 -1 0
 0 24 2 3
-0 28 2 0
 0 25 13 12
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9508,8 +9508,8 @@ newcolfromfreecell c3 n9 n8 n11 n12
 4
 0 6 -1 0
 0 24 3 4
-0 28 2 0
 0 25 13 12
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9518,8 +9518,8 @@ newcolfromfreecell c3 n9 n8 n12 n13
 4
 0 6 -1 0
 0 24 4 5
-0 28 2 0
 0 25 13 12
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9528,8 +9528,8 @@ newcolfromfreecell c3 n9 n8 n2 n3
 4
 0 6 -1 0
 0 24 6 7
-0 28 2 0
 0 25 13 12
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9538,8 +9538,8 @@ newcolfromfreecell c3 n9 n8 n3 n4
 4
 0 6 -1 0
 0 24 7 8
-0 28 2 0
 0 25 13 12
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9548,8 +9548,8 @@ newcolfromfreecell c3 n9 n8 n4 n5
 4
 0 6 -1 0
 0 24 8 9
-0 28 2 0
 0 25 13 12
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9558,8 +9558,8 @@ newcolfromfreecell c3 n9 n8 n5 n6
 4
 0 6 -1 0
 0 24 9 10
-0 28 2 0
 0 25 13 12
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9568,8 +9568,8 @@ newcolfromfreecell c3 n9 n8 n6 n7
 4
 0 6 -1 0
 0 24 10 11
-0 28 2 0
 0 25 13 12
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9578,8 +9578,8 @@ newcolfromfreecell c3 n9 n8 n7 n8
 4
 0 6 -1 0
 0 24 11 12
-0 28 2 0
 0 25 13 12
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9588,8 +9588,8 @@ newcolfromfreecell c3 n9 n8 n8 n9
 4
 0 6 -1 0
 0 24 12 13
-0 28 2 0
 0 25 13 12
+0 28 2 0
 1
 end_operator
 begin_operator
@@ -9598,17 +9598,17 @@ newcolfromfreecell c3 n9 n8 n9 n10
 4
 0 6 -1 0
 0 24 13 2
-0 28 2 0
 0 25 13 12
+0 28 2 0
 1
 end_operator
 begin_operator
 newcolfromfreecell ca n1 n0 n0 n1
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 0 1
-0 20 -1 0
 0 25 1 0
 1
 end_operator
@@ -9616,9 +9616,9 @@ begin_operator
 newcolfromfreecell ca n1 n0 n1 n2
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 1 6
-0 20 -1 0
 0 25 1 0
 1
 end_operator
@@ -9626,9 +9626,9 @@ begin_operator
 newcolfromfreecell ca n1 n0 n10 n11
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 2 3
-0 20 -1 0
 0 25 1 0
 1
 end_operator
@@ -9636,9 +9636,9 @@ begin_operator
 newcolfromfreecell ca n1 n0 n11 n12
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 3 4
-0 20 -1 0
 0 25 1 0
 1
 end_operator
@@ -9646,9 +9646,9 @@ begin_operator
 newcolfromfreecell ca n1 n0 n12 n13
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 4 5
-0 20 -1 0
 0 25 1 0
 1
 end_operator
@@ -9656,9 +9656,9 @@ begin_operator
 newcolfromfreecell ca n1 n0 n2 n3
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 6 7
-0 20 -1 0
 0 25 1 0
 1
 end_operator
@@ -9666,9 +9666,9 @@ begin_operator
 newcolfromfreecell ca n1 n0 n3 n4
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 7 8
-0 20 -1 0
 0 25 1 0
 1
 end_operator
@@ -9676,9 +9676,9 @@ begin_operator
 newcolfromfreecell ca n1 n0 n4 n5
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 8 9
-0 20 -1 0
 0 25 1 0
 1
 end_operator
@@ -9686,9 +9686,9 @@ begin_operator
 newcolfromfreecell ca n1 n0 n5 n6
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 9 10
-0 20 -1 0
 0 25 1 0
 1
 end_operator
@@ -9696,9 +9696,9 @@ begin_operator
 newcolfromfreecell ca n1 n0 n6 n7
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 10 11
-0 20 -1 0
 0 25 1 0
 1
 end_operator
@@ -9706,9 +9706,9 @@ begin_operator
 newcolfromfreecell ca n1 n0 n7 n8
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 11 12
-0 20 -1 0
 0 25 1 0
 1
 end_operator
@@ -9716,9 +9716,9 @@ begin_operator
 newcolfromfreecell ca n1 n0 n8 n9
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 12 13
-0 20 -1 0
 0 25 1 0
 1
 end_operator
@@ -9726,9 +9726,9 @@ begin_operator
 newcolfromfreecell ca n1 n0 n9 n10
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 13 2
-0 20 -1 0
 0 25 1 0
 1
 end_operator
@@ -9736,9 +9736,9 @@ begin_operator
 newcolfromfreecell ca n10 n9 n0 n1
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 0 1
-0 20 -1 0
 0 25 2 13
 1
 end_operator
@@ -9746,9 +9746,9 @@ begin_operator
 newcolfromfreecell ca n10 n9 n1 n2
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 1 6
-0 20 -1 0
 0 25 2 13
 1
 end_operator
@@ -9756,9 +9756,9 @@ begin_operator
 newcolfromfreecell ca n10 n9 n10 n11
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 2 3
-0 20 -1 0
 0 25 2 13
 1
 end_operator
@@ -9766,9 +9766,9 @@ begin_operator
 newcolfromfreecell ca n10 n9 n11 n12
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 3 4
-0 20 -1 0
 0 25 2 13
 1
 end_operator
@@ -9776,9 +9776,9 @@ begin_operator
 newcolfromfreecell ca n10 n9 n12 n13
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 4 5
-0 20 -1 0
 0 25 2 13
 1
 end_operator
@@ -9786,9 +9786,9 @@ begin_operator
 newcolfromfreecell ca n10 n9 n2 n3
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 6 7
-0 20 -1 0
 0 25 2 13
 1
 end_operator
@@ -9796,9 +9796,9 @@ begin_operator
 newcolfromfreecell ca n10 n9 n3 n4
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 7 8
-0 20 -1 0
 0 25 2 13
 1
 end_operator
@@ -9806,9 +9806,9 @@ begin_operator
 newcolfromfreecell ca n10 n9 n4 n5
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 8 9
-0 20 -1 0
 0 25 2 13
 1
 end_operator
@@ -9816,9 +9816,9 @@ begin_operator
 newcolfromfreecell ca n10 n9 n5 n6
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 9 10
-0 20 -1 0
 0 25 2 13
 1
 end_operator
@@ -9826,9 +9826,9 @@ begin_operator
 newcolfromfreecell ca n10 n9 n6 n7
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 10 11
-0 20 -1 0
 0 25 2 13
 1
 end_operator
@@ -9836,9 +9836,9 @@ begin_operator
 newcolfromfreecell ca n10 n9 n7 n8
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 11 12
-0 20 -1 0
 0 25 2 13
 1
 end_operator
@@ -9846,9 +9846,9 @@ begin_operator
 newcolfromfreecell ca n10 n9 n8 n9
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 12 13
-0 20 -1 0
 0 25 2 13
 1
 end_operator
@@ -9856,9 +9856,9 @@ begin_operator
 newcolfromfreecell ca n10 n9 n9 n10
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 13 2
-0 20 -1 0
 0 25 2 13
 1
 end_operator
@@ -9866,9 +9866,9 @@ begin_operator
 newcolfromfreecell ca n11 n10 n0 n1
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 0 1
-0 20 -1 0
 0 25 3 2
 1
 end_operator
@@ -9876,9 +9876,9 @@ begin_operator
 newcolfromfreecell ca n11 n10 n1 n2
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 1 6
-0 20 -1 0
 0 25 3 2
 1
 end_operator
@@ -9886,9 +9886,9 @@ begin_operator
 newcolfromfreecell ca n11 n10 n10 n11
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 2 3
-0 20 -1 0
 0 25 3 2
 1
 end_operator
@@ -9896,9 +9896,9 @@ begin_operator
 newcolfromfreecell ca n11 n10 n11 n12
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 3 4
-0 20 -1 0
 0 25 3 2
 1
 end_operator
@@ -9906,9 +9906,9 @@ begin_operator
 newcolfromfreecell ca n11 n10 n12 n13
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 4 5
-0 20 -1 0
 0 25 3 2
 1
 end_operator
@@ -9916,9 +9916,9 @@ begin_operator
 newcolfromfreecell ca n11 n10 n2 n3
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 6 7
-0 20 -1 0
 0 25 3 2
 1
 end_operator
@@ -9926,9 +9926,9 @@ begin_operator
 newcolfromfreecell ca n11 n10 n3 n4
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 7 8
-0 20 -1 0
 0 25 3 2
 1
 end_operator
@@ -9936,9 +9936,9 @@ begin_operator
 newcolfromfreecell ca n11 n10 n4 n5
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 8 9
-0 20 -1 0
 0 25 3 2
 1
 end_operator
@@ -9946,9 +9946,9 @@ begin_operator
 newcolfromfreecell ca n11 n10 n5 n6
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 9 10
-0 20 -1 0
 0 25 3 2
 1
 end_operator
@@ -9956,9 +9956,9 @@ begin_operator
 newcolfromfreecell ca n11 n10 n6 n7
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 10 11
-0 20 -1 0
 0 25 3 2
 1
 end_operator
@@ -9966,9 +9966,9 @@ begin_operator
 newcolfromfreecell ca n11 n10 n7 n8
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 11 12
-0 20 -1 0
 0 25 3 2
 1
 end_operator
@@ -9976,9 +9976,9 @@ begin_operator
 newcolfromfreecell ca n11 n10 n8 n9
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 12 13
-0 20 -1 0
 0 25 3 2
 1
 end_operator
@@ -9986,9 +9986,9 @@ begin_operator
 newcolfromfreecell ca n11 n10 n9 n10
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 13 2
-0 20 -1 0
 0 25 3 2
 1
 end_operator
@@ -9996,9 +9996,9 @@ begin_operator
 newcolfromfreecell ca n12 n11 n0 n1
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 0 1
-0 20 -1 0
 0 25 4 3
 1
 end_operator
@@ -10006,9 +10006,9 @@ begin_operator
 newcolfromfreecell ca n12 n11 n1 n2
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 1 6
-0 20 -1 0
 0 25 4 3
 1
 end_operator
@@ -10016,9 +10016,9 @@ begin_operator
 newcolfromfreecell ca n12 n11 n10 n11
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 2 3
-0 20 -1 0
 0 25 4 3
 1
 end_operator
@@ -10026,9 +10026,9 @@ begin_operator
 newcolfromfreecell ca n12 n11 n11 n12
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 3 4
-0 20 -1 0
 0 25 4 3
 1
 end_operator
@@ -10036,9 +10036,9 @@ begin_operator
 newcolfromfreecell ca n12 n11 n12 n13
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 4 5
-0 20 -1 0
 0 25 4 3
 1
 end_operator
@@ -10046,9 +10046,9 @@ begin_operator
 newcolfromfreecell ca n12 n11 n2 n3
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 6 7
-0 20 -1 0
 0 25 4 3
 1
 end_operator
@@ -10056,9 +10056,9 @@ begin_operator
 newcolfromfreecell ca n12 n11 n3 n4
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 7 8
-0 20 -1 0
 0 25 4 3
 1
 end_operator
@@ -10066,9 +10066,9 @@ begin_operator
 newcolfromfreecell ca n12 n11 n4 n5
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 8 9
-0 20 -1 0
 0 25 4 3
 1
 end_operator
@@ -10076,9 +10076,9 @@ begin_operator
 newcolfromfreecell ca n12 n11 n5 n6
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 9 10
-0 20 -1 0
 0 25 4 3
 1
 end_operator
@@ -10086,9 +10086,9 @@ begin_operator
 newcolfromfreecell ca n12 n11 n6 n7
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 10 11
-0 20 -1 0
 0 25 4 3
 1
 end_operator
@@ -10096,9 +10096,9 @@ begin_operator
 newcolfromfreecell ca n12 n11 n7 n8
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 11 12
-0 20 -1 0
 0 25 4 3
 1
 end_operator
@@ -10106,9 +10106,9 @@ begin_operator
 newcolfromfreecell ca n12 n11 n8 n9
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 12 13
-0 20 -1 0
 0 25 4 3
 1
 end_operator
@@ -10116,9 +10116,9 @@ begin_operator
 newcolfromfreecell ca n12 n11 n9 n10
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 13 2
-0 20 -1 0
 0 25 4 3
 1
 end_operator
@@ -10126,9 +10126,9 @@ begin_operator
 newcolfromfreecell ca n13 n12 n0 n1
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 0 1
-0 20 -1 0
 0 25 5 4
 1
 end_operator
@@ -10136,9 +10136,9 @@ begin_operator
 newcolfromfreecell ca n13 n12 n1 n2
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 1 6
-0 20 -1 0
 0 25 5 4
 1
 end_operator
@@ -10146,9 +10146,9 @@ begin_operator
 newcolfromfreecell ca n13 n12 n10 n11
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 2 3
-0 20 -1 0
 0 25 5 4
 1
 end_operator
@@ -10156,9 +10156,9 @@ begin_operator
 newcolfromfreecell ca n13 n12 n11 n12
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 3 4
-0 20 -1 0
 0 25 5 4
 1
 end_operator
@@ -10166,9 +10166,9 @@ begin_operator
 newcolfromfreecell ca n13 n12 n12 n13
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 4 5
-0 20 -1 0
 0 25 5 4
 1
 end_operator
@@ -10176,9 +10176,9 @@ begin_operator
 newcolfromfreecell ca n13 n12 n2 n3
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 6 7
-0 20 -1 0
 0 25 5 4
 1
 end_operator
@@ -10186,9 +10186,9 @@ begin_operator
 newcolfromfreecell ca n13 n12 n3 n4
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 7 8
-0 20 -1 0
 0 25 5 4
 1
 end_operator
@@ -10196,9 +10196,9 @@ begin_operator
 newcolfromfreecell ca n13 n12 n4 n5
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 8 9
-0 20 -1 0
 0 25 5 4
 1
 end_operator
@@ -10206,9 +10206,9 @@ begin_operator
 newcolfromfreecell ca n13 n12 n5 n6
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 9 10
-0 20 -1 0
 0 25 5 4
 1
 end_operator
@@ -10216,9 +10216,9 @@ begin_operator
 newcolfromfreecell ca n13 n12 n6 n7
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 10 11
-0 20 -1 0
 0 25 5 4
 1
 end_operator
@@ -10226,9 +10226,9 @@ begin_operator
 newcolfromfreecell ca n13 n12 n7 n8
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 11 12
-0 20 -1 0
 0 25 5 4
 1
 end_operator
@@ -10236,9 +10236,9 @@ begin_operator
 newcolfromfreecell ca n13 n12 n8 n9
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 12 13
-0 20 -1 0
 0 25 5 4
 1
 end_operator
@@ -10246,9 +10246,9 @@ begin_operator
 newcolfromfreecell ca n13 n12 n9 n10
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 13 2
-0 20 -1 0
 0 25 5 4
 1
 end_operator
@@ -10256,9 +10256,9 @@ begin_operator
 newcolfromfreecell ca n2 n1 n0 n1
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 0 1
-0 20 -1 0
 0 25 6 1
 1
 end_operator
@@ -10266,9 +10266,9 @@ begin_operator
 newcolfromfreecell ca n2 n1 n1 n2
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 1 6
-0 20 -1 0
 0 25 6 1
 1
 end_operator
@@ -10276,9 +10276,9 @@ begin_operator
 newcolfromfreecell ca n2 n1 n10 n11
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 2 3
-0 20 -1 0
 0 25 6 1
 1
 end_operator
@@ -10286,9 +10286,9 @@ begin_operator
 newcolfromfreecell ca n2 n1 n11 n12
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 3 4
-0 20 -1 0
 0 25 6 1
 1
 end_operator
@@ -10296,9 +10296,9 @@ begin_operator
 newcolfromfreecell ca n2 n1 n12 n13
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 4 5
-0 20 -1 0
 0 25 6 1
 1
 end_operator
@@ -10306,9 +10306,9 @@ begin_operator
 newcolfromfreecell ca n2 n1 n2 n3
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 6 7
-0 20 -1 0
 0 25 6 1
 1
 end_operator
@@ -10316,9 +10316,9 @@ begin_operator
 newcolfromfreecell ca n2 n1 n3 n4
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 7 8
-0 20 -1 0
 0 25 6 1
 1
 end_operator
@@ -10326,9 +10326,9 @@ begin_operator
 newcolfromfreecell ca n2 n1 n4 n5
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 8 9
-0 20 -1 0
 0 25 6 1
 1
 end_operator
@@ -10336,9 +10336,9 @@ begin_operator
 newcolfromfreecell ca n2 n1 n5 n6
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 9 10
-0 20 -1 0
 0 25 6 1
 1
 end_operator
@@ -10346,9 +10346,9 @@ begin_operator
 newcolfromfreecell ca n2 n1 n6 n7
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 10 11
-0 20 -1 0
 0 25 6 1
 1
 end_operator
@@ -10356,9 +10356,9 @@ begin_operator
 newcolfromfreecell ca n2 n1 n7 n8
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 11 12
-0 20 -1 0
 0 25 6 1
 1
 end_operator
@@ -10366,9 +10366,9 @@ begin_operator
 newcolfromfreecell ca n2 n1 n8 n9
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 12 13
-0 20 -1 0
 0 25 6 1
 1
 end_operator
@@ -10376,9 +10376,9 @@ begin_operator
 newcolfromfreecell ca n2 n1 n9 n10
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 13 2
-0 20 -1 0
 0 25 6 1
 1
 end_operator
@@ -10386,9 +10386,9 @@ begin_operator
 newcolfromfreecell ca n3 n2 n0 n1
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 0 1
-0 20 -1 0
 0 25 7 6
 1
 end_operator
@@ -10396,9 +10396,9 @@ begin_operator
 newcolfromfreecell ca n3 n2 n1 n2
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 1 6
-0 20 -1 0
 0 25 7 6
 1
 end_operator
@@ -10406,9 +10406,9 @@ begin_operator
 newcolfromfreecell ca n3 n2 n10 n11
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 2 3
-0 20 -1 0
 0 25 7 6
 1
 end_operator
@@ -10416,9 +10416,9 @@ begin_operator
 newcolfromfreecell ca n3 n2 n11 n12
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 3 4
-0 20 -1 0
 0 25 7 6
 1
 end_operator
@@ -10426,9 +10426,9 @@ begin_operator
 newcolfromfreecell ca n3 n2 n12 n13
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 4 5
-0 20 -1 0
 0 25 7 6
 1
 end_operator
@@ -10436,9 +10436,9 @@ begin_operator
 newcolfromfreecell ca n3 n2 n2 n3
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 6 7
-0 20 -1 0
 0 25 7 6
 1
 end_operator
@@ -10446,9 +10446,9 @@ begin_operator
 newcolfromfreecell ca n3 n2 n3 n4
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 7 8
-0 20 -1 0
 0 25 7 6
 1
 end_operator
@@ -10456,9 +10456,9 @@ begin_operator
 newcolfromfreecell ca n3 n2 n4 n5
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 8 9
-0 20 -1 0
 0 25 7 6
 1
 end_operator
@@ -10466,9 +10466,9 @@ begin_operator
 newcolfromfreecell ca n3 n2 n5 n6
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 9 10
-0 20 -1 0
 0 25 7 6
 1
 end_operator
@@ -10476,9 +10476,9 @@ begin_operator
 newcolfromfreecell ca n3 n2 n6 n7
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 10 11
-0 20 -1 0
 0 25 7 6
 1
 end_operator
@@ -10486,9 +10486,9 @@ begin_operator
 newcolfromfreecell ca n3 n2 n7 n8
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 11 12
-0 20 -1 0
 0 25 7 6
 1
 end_operator
@@ -10496,9 +10496,9 @@ begin_operator
 newcolfromfreecell ca n3 n2 n8 n9
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 12 13
-0 20 -1 0
 0 25 7 6
 1
 end_operator
@@ -10506,9 +10506,9 @@ begin_operator
 newcolfromfreecell ca n3 n2 n9 n10
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 13 2
-0 20 -1 0
 0 25 7 6
 1
 end_operator
@@ -10516,9 +10516,9 @@ begin_operator
 newcolfromfreecell ca n4 n3 n0 n1
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 0 1
-0 20 -1 0
 0 25 8 7
 1
 end_operator
@@ -10526,9 +10526,9 @@ begin_operator
 newcolfromfreecell ca n4 n3 n1 n2
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 1 6
-0 20 -1 0
 0 25 8 7
 1
 end_operator
@@ -10536,9 +10536,9 @@ begin_operator
 newcolfromfreecell ca n4 n3 n10 n11
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 2 3
-0 20 -1 0
 0 25 8 7
 1
 end_operator
@@ -10546,9 +10546,9 @@ begin_operator
 newcolfromfreecell ca n4 n3 n11 n12
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 3 4
-0 20 -1 0
 0 25 8 7
 1
 end_operator
@@ -10556,9 +10556,9 @@ begin_operator
 newcolfromfreecell ca n4 n3 n12 n13
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 4 5
-0 20 -1 0
 0 25 8 7
 1
 end_operator
@@ -10566,9 +10566,9 @@ begin_operator
 newcolfromfreecell ca n4 n3 n2 n3
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 6 7
-0 20 -1 0
 0 25 8 7
 1
 end_operator
@@ -10576,9 +10576,9 @@ begin_operator
 newcolfromfreecell ca n4 n3 n3 n4
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 7 8
-0 20 -1 0
 0 25 8 7
 1
 end_operator
@@ -10586,9 +10586,9 @@ begin_operator
 newcolfromfreecell ca n4 n3 n4 n5
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 8 9
-0 20 -1 0
 0 25 8 7
 1
 end_operator
@@ -10596,9 +10596,9 @@ begin_operator
 newcolfromfreecell ca n4 n3 n5 n6
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 9 10
-0 20 -1 0
 0 25 8 7
 1
 end_operator
@@ -10606,9 +10606,9 @@ begin_operator
 newcolfromfreecell ca n4 n3 n6 n7
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 10 11
-0 20 -1 0
 0 25 8 7
 1
 end_operator
@@ -10616,9 +10616,9 @@ begin_operator
 newcolfromfreecell ca n4 n3 n7 n8
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 11 12
-0 20 -1 0
 0 25 8 7
 1
 end_operator
@@ -10626,9 +10626,9 @@ begin_operator
 newcolfromfreecell ca n4 n3 n8 n9
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 12 13
-0 20 -1 0
 0 25 8 7
 1
 end_operator
@@ -10636,9 +10636,9 @@ begin_operator
 newcolfromfreecell ca n4 n3 n9 n10
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 13 2
-0 20 -1 0
 0 25 8 7
 1
 end_operator
@@ -10646,9 +10646,9 @@ begin_operator
 newcolfromfreecell ca n5 n4 n0 n1
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 0 1
-0 20 -1 0
 0 25 9 8
 1
 end_operator
@@ -10656,9 +10656,9 @@ begin_operator
 newcolfromfreecell ca n5 n4 n1 n2
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 1 6
-0 20 -1 0
 0 25 9 8
 1
 end_operator
@@ -10666,9 +10666,9 @@ begin_operator
 newcolfromfreecell ca n5 n4 n10 n11
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 2 3
-0 20 -1 0
 0 25 9 8
 1
 end_operator
@@ -10676,9 +10676,9 @@ begin_operator
 newcolfromfreecell ca n5 n4 n11 n12
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 3 4
-0 20 -1 0
 0 25 9 8
 1
 end_operator
@@ -10686,9 +10686,9 @@ begin_operator
 newcolfromfreecell ca n5 n4 n12 n13
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 4 5
-0 20 -1 0
 0 25 9 8
 1
 end_operator
@@ -10696,9 +10696,9 @@ begin_operator
 newcolfromfreecell ca n5 n4 n2 n3
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 6 7
-0 20 -1 0
 0 25 9 8
 1
 end_operator
@@ -10706,9 +10706,9 @@ begin_operator
 newcolfromfreecell ca n5 n4 n3 n4
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 7 8
-0 20 -1 0
 0 25 9 8
 1
 end_operator
@@ -10716,9 +10716,9 @@ begin_operator
 newcolfromfreecell ca n5 n4 n4 n5
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 8 9
-0 20 -1 0
 0 25 9 8
 1
 end_operator
@@ -10726,9 +10726,9 @@ begin_operator
 newcolfromfreecell ca n5 n4 n5 n6
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 9 10
-0 20 -1 0
 0 25 9 8
 1
 end_operator
@@ -10736,9 +10736,9 @@ begin_operator
 newcolfromfreecell ca n5 n4 n6 n7
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 10 11
-0 20 -1 0
 0 25 9 8
 1
 end_operator
@@ -10746,9 +10746,9 @@ begin_operator
 newcolfromfreecell ca n5 n4 n7 n8
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 11 12
-0 20 -1 0
 0 25 9 8
 1
 end_operator
@@ -10756,9 +10756,9 @@ begin_operator
 newcolfromfreecell ca n5 n4 n8 n9
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 12 13
-0 20 -1 0
 0 25 9 8
 1
 end_operator
@@ -10766,9 +10766,9 @@ begin_operator
 newcolfromfreecell ca n5 n4 n9 n10
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 13 2
-0 20 -1 0
 0 25 9 8
 1
 end_operator
@@ -10776,9 +10776,9 @@ begin_operator
 newcolfromfreecell ca n6 n5 n0 n1
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 0 1
-0 20 -1 0
 0 25 10 9
 1
 end_operator
@@ -10786,9 +10786,9 @@ begin_operator
 newcolfromfreecell ca n6 n5 n1 n2
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 1 6
-0 20 -1 0
 0 25 10 9
 1
 end_operator
@@ -10796,9 +10796,9 @@ begin_operator
 newcolfromfreecell ca n6 n5 n10 n11
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 2 3
-0 20 -1 0
 0 25 10 9
 1
 end_operator
@@ -10806,9 +10806,9 @@ begin_operator
 newcolfromfreecell ca n6 n5 n11 n12
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 3 4
-0 20 -1 0
 0 25 10 9
 1
 end_operator
@@ -10816,9 +10816,9 @@ begin_operator
 newcolfromfreecell ca n6 n5 n12 n13
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 4 5
-0 20 -1 0
 0 25 10 9
 1
 end_operator
@@ -10826,9 +10826,9 @@ begin_operator
 newcolfromfreecell ca n6 n5 n2 n3
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 6 7
-0 20 -1 0
 0 25 10 9
 1
 end_operator
@@ -10836,9 +10836,9 @@ begin_operator
 newcolfromfreecell ca n6 n5 n3 n4
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 7 8
-0 20 -1 0
 0 25 10 9
 1
 end_operator
@@ -10846,9 +10846,9 @@ begin_operator
 newcolfromfreecell ca n6 n5 n4 n5
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 8 9
-0 20 -1 0
 0 25 10 9
 1
 end_operator
@@ -10856,9 +10856,9 @@ begin_operator
 newcolfromfreecell ca n6 n5 n5 n6
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 9 10
-0 20 -1 0
 0 25 10 9
 1
 end_operator
@@ -10866,9 +10866,9 @@ begin_operator
 newcolfromfreecell ca n6 n5 n6 n7
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 10 11
-0 20 -1 0
 0 25 10 9
 1
 end_operator
@@ -10876,9 +10876,9 @@ begin_operator
 newcolfromfreecell ca n6 n5 n7 n8
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 11 12
-0 20 -1 0
 0 25 10 9
 1
 end_operator
@@ -10886,9 +10886,9 @@ begin_operator
 newcolfromfreecell ca n6 n5 n8 n9
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 12 13
-0 20 -1 0
 0 25 10 9
 1
 end_operator
@@ -10896,9 +10896,9 @@ begin_operator
 newcolfromfreecell ca n6 n5 n9 n10
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 13 2
-0 20 -1 0
 0 25 10 9
 1
 end_operator
@@ -10906,9 +10906,9 @@ begin_operator
 newcolfromfreecell ca n7 n6 n0 n1
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 0 1
-0 20 -1 0
 0 25 11 10
 1
 end_operator
@@ -10916,9 +10916,9 @@ begin_operator
 newcolfromfreecell ca n7 n6 n1 n2
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 1 6
-0 20 -1 0
 0 25 11 10
 1
 end_operator
@@ -10926,9 +10926,9 @@ begin_operator
 newcolfromfreecell ca n7 n6 n10 n11
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 2 3
-0 20 -1 0
 0 25 11 10
 1
 end_operator
@@ -10936,9 +10936,9 @@ begin_operator
 newcolfromfreecell ca n7 n6 n11 n12
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 3 4
-0 20 -1 0
 0 25 11 10
 1
 end_operator
@@ -10946,9 +10946,9 @@ begin_operator
 newcolfromfreecell ca n7 n6 n12 n13
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 4 5
-0 20 -1 0
 0 25 11 10
 1
 end_operator
@@ -10956,9 +10956,9 @@ begin_operator
 newcolfromfreecell ca n7 n6 n2 n3
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 6 7
-0 20 -1 0
 0 25 11 10
 1
 end_operator
@@ -10966,9 +10966,9 @@ begin_operator
 newcolfromfreecell ca n7 n6 n3 n4
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 7 8
-0 20 -1 0
 0 25 11 10
 1
 end_operator
@@ -10976,9 +10976,9 @@ begin_operator
 newcolfromfreecell ca n7 n6 n4 n5
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 8 9
-0 20 -1 0
 0 25 11 10
 1
 end_operator
@@ -10986,9 +10986,9 @@ begin_operator
 newcolfromfreecell ca n7 n6 n5 n6
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 9 10
-0 20 -1 0
 0 25 11 10
 1
 end_operator
@@ -10996,9 +10996,9 @@ begin_operator
 newcolfromfreecell ca n7 n6 n6 n7
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 10 11
-0 20 -1 0
 0 25 11 10
 1
 end_operator
@@ -11006,9 +11006,9 @@ begin_operator
 newcolfromfreecell ca n7 n6 n7 n8
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 11 12
-0 20 -1 0
 0 25 11 10
 1
 end_operator
@@ -11016,9 +11016,9 @@ begin_operator
 newcolfromfreecell ca n7 n6 n8 n9
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 12 13
-0 20 -1 0
 0 25 11 10
 1
 end_operator
@@ -11026,9 +11026,9 @@ begin_operator
 newcolfromfreecell ca n7 n6 n9 n10
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 13 2
-0 20 -1 0
 0 25 11 10
 1
 end_operator
@@ -11036,9 +11036,9 @@ begin_operator
 newcolfromfreecell ca n8 n7 n0 n1
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 0 1
-0 20 -1 0
 0 25 12 11
 1
 end_operator
@@ -11046,9 +11046,9 @@ begin_operator
 newcolfromfreecell ca n8 n7 n1 n2
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 1 6
-0 20 -1 0
 0 25 12 11
 1
 end_operator
@@ -11056,9 +11056,9 @@ begin_operator
 newcolfromfreecell ca n8 n7 n10 n11
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 2 3
-0 20 -1 0
 0 25 12 11
 1
 end_operator
@@ -11066,9 +11066,9 @@ begin_operator
 newcolfromfreecell ca n8 n7 n11 n12
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 3 4
-0 20 -1 0
 0 25 12 11
 1
 end_operator
@@ -11076,9 +11076,9 @@ begin_operator
 newcolfromfreecell ca n8 n7 n12 n13
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 4 5
-0 20 -1 0
 0 25 12 11
 1
 end_operator
@@ -11086,9 +11086,9 @@ begin_operator
 newcolfromfreecell ca n8 n7 n2 n3
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 6 7
-0 20 -1 0
 0 25 12 11
 1
 end_operator
@@ -11096,9 +11096,9 @@ begin_operator
 newcolfromfreecell ca n8 n7 n3 n4
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 7 8
-0 20 -1 0
 0 25 12 11
 1
 end_operator
@@ -11106,9 +11106,9 @@ begin_operator
 newcolfromfreecell ca n8 n7 n4 n5
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 8 9
-0 20 -1 0
 0 25 12 11
 1
 end_operator
@@ -11116,9 +11116,9 @@ begin_operator
 newcolfromfreecell ca n8 n7 n5 n6
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 9 10
-0 20 -1 0
 0 25 12 11
 1
 end_operator
@@ -11126,9 +11126,9 @@ begin_operator
 newcolfromfreecell ca n8 n7 n6 n7
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 10 11
-0 20 -1 0
 0 25 12 11
 1
 end_operator
@@ -11136,9 +11136,9 @@ begin_operator
 newcolfromfreecell ca n8 n7 n7 n8
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 11 12
-0 20 -1 0
 0 25 12 11
 1
 end_operator
@@ -11146,9 +11146,9 @@ begin_operator
 newcolfromfreecell ca n8 n7 n8 n9
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 12 13
-0 20 -1 0
 0 25 12 11
 1
 end_operator
@@ -11156,9 +11156,9 @@ begin_operator
 newcolfromfreecell ca n8 n7 n9 n10
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 13 2
-0 20 -1 0
 0 25 12 11
 1
 end_operator
@@ -11166,9 +11166,9 @@ begin_operator
 newcolfromfreecell ca n9 n8 n0 n1
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 0 1
-0 20 -1 0
 0 25 13 12
 1
 end_operator
@@ -11176,9 +11176,9 @@ begin_operator
 newcolfromfreecell ca n9 n8 n1 n2
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 1 6
-0 20 -1 0
 0 25 13 12
 1
 end_operator
@@ -11186,9 +11186,9 @@ begin_operator
 newcolfromfreecell ca n9 n8 n10 n11
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 2 3
-0 20 -1 0
 0 25 13 12
 1
 end_operator
@@ -11196,9 +11196,9 @@ begin_operator
 newcolfromfreecell ca n9 n8 n11 n12
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 3 4
-0 20 -1 0
 0 25 13 12
 1
 end_operator
@@ -11206,9 +11206,9 @@ begin_operator
 newcolfromfreecell ca n9 n8 n12 n13
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 4 5
-0 20 -1 0
 0 25 13 12
 1
 end_operator
@@ -11216,9 +11216,9 @@ begin_operator
 newcolfromfreecell ca n9 n8 n2 n3
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 6 7
-0 20 -1 0
 0 25 13 12
 1
 end_operator
@@ -11226,9 +11226,9 @@ begin_operator
 newcolfromfreecell ca n9 n8 n3 n4
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 7 8
-0 20 -1 0
 0 25 13 12
 1
 end_operator
@@ -11236,9 +11236,9 @@ begin_operator
 newcolfromfreecell ca n9 n8 n4 n5
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 8 9
-0 20 -1 0
 0 25 13 12
 1
 end_operator
@@ -11246,9 +11246,9 @@ begin_operator
 newcolfromfreecell ca n9 n8 n5 n6
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 9 10
-0 20 -1 0
 0 25 13 12
 1
 end_operator
@@ -11256,9 +11256,9 @@ begin_operator
 newcolfromfreecell ca n9 n8 n6 n7
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 10 11
-0 20 -1 0
 0 25 13 12
 1
 end_operator
@@ -11266,9 +11266,9 @@ begin_operator
 newcolfromfreecell ca n9 n8 n7 n8
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 11 12
-0 20 -1 0
 0 25 13 12
 1
 end_operator
@@ -11276,9 +11276,9 @@ begin_operator
 newcolfromfreecell ca n9 n8 n8 n9
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 12 13
-0 20 -1 0
 0 25 13 12
 1
 end_operator
@@ -11286,9 +11286,9 @@ begin_operator
 newcolfromfreecell ca n9 n8 n9 n10
 0
 4
+0 20 -1 0
 0 21 2 0
 0 24 13 2
-0 20 -1 0
 0 25 13 12
 1
 end_operator
@@ -11296,9 +11296,9 @@ begin_operator
 newcolfromfreecell d2 n1 n0 n0 n1
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 0 1
-0 22 2 0
 0 25 1 0
 1
 end_operator
@@ -11306,9 +11306,9 @@ begin_operator
 newcolfromfreecell d2 n1 n0 n1 n2
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 1 6
-0 22 2 0
 0 25 1 0
 1
 end_operator
@@ -11316,9 +11316,9 @@ begin_operator
 newcolfromfreecell d2 n1 n0 n10 n11
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 2 3
-0 22 2 0
 0 25 1 0
 1
 end_operator
@@ -11326,9 +11326,9 @@ begin_operator
 newcolfromfreecell d2 n1 n0 n11 n12
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 3 4
-0 22 2 0
 0 25 1 0
 1
 end_operator
@@ -11336,9 +11336,9 @@ begin_operator
 newcolfromfreecell d2 n1 n0 n12 n13
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 4 5
-0 22 2 0
 0 25 1 0
 1
 end_operator
@@ -11346,9 +11346,9 @@ begin_operator
 newcolfromfreecell d2 n1 n0 n2 n3
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 6 7
-0 22 2 0
 0 25 1 0
 1
 end_operator
@@ -11356,9 +11356,9 @@ begin_operator
 newcolfromfreecell d2 n1 n0 n3 n4
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 7 8
-0 22 2 0
 0 25 1 0
 1
 end_operator
@@ -11366,9 +11366,9 @@ begin_operator
 newcolfromfreecell d2 n1 n0 n4 n5
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 8 9
-0 22 2 0
 0 25 1 0
 1
 end_operator
@@ -11376,9 +11376,9 @@ begin_operator
 newcolfromfreecell d2 n1 n0 n5 n6
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 9 10
-0 22 2 0
 0 25 1 0
 1
 end_operator
@@ -11386,9 +11386,9 @@ begin_operator
 newcolfromfreecell d2 n1 n0 n6 n7
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 10 11
-0 22 2 0
 0 25 1 0
 1
 end_operator
@@ -11396,9 +11396,9 @@ begin_operator
 newcolfromfreecell d2 n1 n0 n7 n8
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 11 12
-0 22 2 0
 0 25 1 0
 1
 end_operator
@@ -11406,9 +11406,9 @@ begin_operator
 newcolfromfreecell d2 n1 n0 n8 n9
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 12 13
-0 22 2 0
 0 25 1 0
 1
 end_operator
@@ -11416,9 +11416,9 @@ begin_operator
 newcolfromfreecell d2 n1 n0 n9 n10
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 13 2
-0 22 2 0
 0 25 1 0
 1
 end_operator
@@ -11426,9 +11426,9 @@ begin_operator
 newcolfromfreecell d2 n10 n9 n0 n1
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 0 1
-0 22 2 0
 0 25 2 13
 1
 end_operator
@@ -11436,9 +11436,9 @@ begin_operator
 newcolfromfreecell d2 n10 n9 n1 n2
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 1 6
-0 22 2 0
 0 25 2 13
 1
 end_operator
@@ -11446,9 +11446,9 @@ begin_operator
 newcolfromfreecell d2 n10 n9 n10 n11
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 2 3
-0 22 2 0
 0 25 2 13
 1
 end_operator
@@ -11456,9 +11456,9 @@ begin_operator
 newcolfromfreecell d2 n10 n9 n11 n12
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 3 4
-0 22 2 0
 0 25 2 13
 1
 end_operator
@@ -11466,9 +11466,9 @@ begin_operator
 newcolfromfreecell d2 n10 n9 n12 n13
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 4 5
-0 22 2 0
 0 25 2 13
 1
 end_operator
@@ -11476,9 +11476,9 @@ begin_operator
 newcolfromfreecell d2 n10 n9 n2 n3
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 6 7
-0 22 2 0
 0 25 2 13
 1
 end_operator
@@ -11486,9 +11486,9 @@ begin_operator
 newcolfromfreecell d2 n10 n9 n3 n4
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 7 8
-0 22 2 0
 0 25 2 13
 1
 end_operator
@@ -11496,9 +11496,9 @@ begin_operator
 newcolfromfreecell d2 n10 n9 n4 n5
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 8 9
-0 22 2 0
 0 25 2 13
 1
 end_operator
@@ -11506,9 +11506,9 @@ begin_operator
 newcolfromfreecell d2 n10 n9 n5 n6
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 9 10
-0 22 2 0
 0 25 2 13
 1
 end_operator
@@ -11516,9 +11516,9 @@ begin_operator
 newcolfromfreecell d2 n10 n9 n6 n7
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 10 11
-0 22 2 0
 0 25 2 13
 1
 end_operator
@@ -11526,9 +11526,9 @@ begin_operator
 newcolfromfreecell d2 n10 n9 n7 n8
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 11 12
-0 22 2 0
 0 25 2 13
 1
 end_operator
@@ -11536,9 +11536,9 @@ begin_operator
 newcolfromfreecell d2 n10 n9 n8 n9
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 12 13
-0 22 2 0
 0 25 2 13
 1
 end_operator
@@ -11546,9 +11546,9 @@ begin_operator
 newcolfromfreecell d2 n10 n9 n9 n10
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 13 2
-0 22 2 0
 0 25 2 13
 1
 end_operator
@@ -11556,9 +11556,9 @@ begin_operator
 newcolfromfreecell d2 n11 n10 n0 n1
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 0 1
-0 22 2 0
 0 25 3 2
 1
 end_operator
@@ -11566,9 +11566,9 @@ begin_operator
 newcolfromfreecell d2 n11 n10 n1 n2
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 1 6
-0 22 2 0
 0 25 3 2
 1
 end_operator
@@ -11576,9 +11576,9 @@ begin_operator
 newcolfromfreecell d2 n11 n10 n10 n11
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 2 3
-0 22 2 0
 0 25 3 2
 1
 end_operator
@@ -11586,9 +11586,9 @@ begin_operator
 newcolfromfreecell d2 n11 n10 n11 n12
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 3 4
-0 22 2 0
 0 25 3 2
 1
 end_operator
@@ -11596,9 +11596,9 @@ begin_operator
 newcolfromfreecell d2 n11 n10 n12 n13
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 4 5
-0 22 2 0
 0 25 3 2
 1
 end_operator
@@ -11606,9 +11606,9 @@ begin_operator
 newcolfromfreecell d2 n11 n10 n2 n3
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 6 7
-0 22 2 0
 0 25 3 2
 1
 end_operator
@@ -11616,9 +11616,9 @@ begin_operator
 newcolfromfreecell d2 n11 n10 n3 n4
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 7 8
-0 22 2 0
 0 25 3 2
 1
 end_operator
@@ -11626,9 +11626,9 @@ begin_operator
 newcolfromfreecell d2 n11 n10 n4 n5
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 8 9
-0 22 2 0
 0 25 3 2
 1
 end_operator
@@ -11636,9 +11636,9 @@ begin_operator
 newcolfromfreecell d2 n11 n10 n5 n6
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 9 10
-0 22 2 0
 0 25 3 2
 1
 end_operator
@@ -11646,9 +11646,9 @@ begin_operator
 newcolfromfreecell d2 n11 n10 n6 n7
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 10 11
-0 22 2 0
 0 25 3 2
 1
 end_operator
@@ -11656,9 +11656,9 @@ begin_operator
 newcolfromfreecell d2 n11 n10 n7 n8
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 11 12
-0 22 2 0
 0 25 3 2
 1
 end_operator
@@ -11666,9 +11666,9 @@ begin_operator
 newcolfromfreecell d2 n11 n10 n8 n9
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 12 13
-0 22 2 0
 0 25 3 2
 1
 end_operator
@@ -11676,9 +11676,9 @@ begin_operator
 newcolfromfreecell d2 n11 n10 n9 n10
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 13 2
-0 22 2 0
 0 25 3 2
 1
 end_operator
@@ -11686,9 +11686,9 @@ begin_operator
 newcolfromfreecell d2 n12 n11 n0 n1
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 0 1
-0 22 2 0
 0 25 4 3
 1
 end_operator
@@ -11696,9 +11696,9 @@ begin_operator
 newcolfromfreecell d2 n12 n11 n1 n2
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 1 6
-0 22 2 0
 0 25 4 3
 1
 end_operator
@@ -11706,9 +11706,9 @@ begin_operator
 newcolfromfreecell d2 n12 n11 n10 n11
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 2 3
-0 22 2 0
 0 25 4 3
 1
 end_operator
@@ -11716,9 +11716,9 @@ begin_operator
 newcolfromfreecell d2 n12 n11 n11 n12
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 3 4
-0 22 2 0
 0 25 4 3
 1
 end_operator
@@ -11726,9 +11726,9 @@ begin_operator
 newcolfromfreecell d2 n12 n11 n12 n13
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 4 5
-0 22 2 0
 0 25 4 3
 1
 end_operator
@@ -11736,9 +11736,9 @@ begin_operator
 newcolfromfreecell d2 n12 n11 n2 n3
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 6 7
-0 22 2 0
 0 25 4 3
 1
 end_operator
@@ -11746,9 +11746,9 @@ begin_operator
 newcolfromfreecell d2 n12 n11 n3 n4
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 7 8
-0 22 2 0
 0 25 4 3
 1
 end_operator
@@ -11756,9 +11756,9 @@ begin_operator
 newcolfromfreecell d2 n12 n11 n4 n5
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 8 9
-0 22 2 0
 0 25 4 3
 1
 end_operator
@@ -11766,9 +11766,9 @@ begin_operator
 newcolfromfreecell d2 n12 n11 n5 n6
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 9 10
-0 22 2 0
 0 25 4 3
 1
 end_operator
@@ -11776,9 +11776,9 @@ begin_operator
 newcolfromfreecell d2 n12 n11 n6 n7
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 10 11
-0 22 2 0
 0 25 4 3
 1
 end_operator
@@ -11786,9 +11786,9 @@ begin_operator
 newcolfromfreecell d2 n12 n11 n7 n8
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 11 12
-0 22 2 0
 0 25 4 3
 1
 end_operator
@@ -11796,9 +11796,9 @@ begin_operator
 newcolfromfreecell d2 n12 n11 n8 n9
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 12 13
-0 22 2 0
 0 25 4 3
 1
 end_operator
@@ -11806,9 +11806,9 @@ begin_operator
 newcolfromfreecell d2 n12 n11 n9 n10
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 13 2
-0 22 2 0
 0 25 4 3
 1
 end_operator
@@ -11816,9 +11816,9 @@ begin_operator
 newcolfromfreecell d2 n13 n12 n0 n1
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 0 1
-0 22 2 0
 0 25 5 4
 1
 end_operator
@@ -11826,9 +11826,9 @@ begin_operator
 newcolfromfreecell d2 n13 n12 n1 n2
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 1 6
-0 22 2 0
 0 25 5 4
 1
 end_operator
@@ -11836,9 +11836,9 @@ begin_operator
 newcolfromfreecell d2 n13 n12 n10 n11
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 2 3
-0 22 2 0
 0 25 5 4
 1
 end_operator
@@ -11846,9 +11846,9 @@ begin_operator
 newcolfromfreecell d2 n13 n12 n11 n12
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 3 4
-0 22 2 0
 0 25 5 4
 1
 end_operator
@@ -11856,9 +11856,9 @@ begin_operator
 newcolfromfreecell d2 n13 n12 n12 n13
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 4 5
-0 22 2 0
 0 25 5 4
 1
 end_operator
@@ -11866,9 +11866,9 @@ begin_operator
 newcolfromfreecell d2 n13 n12 n2 n3
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 6 7
-0 22 2 0
 0 25 5 4
 1
 end_operator
@@ -11876,9 +11876,9 @@ begin_operator
 newcolfromfreecell d2 n13 n12 n3 n4
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 7 8
-0 22 2 0
 0 25 5 4
 1
 end_operator
@@ -11886,9 +11886,9 @@ begin_operator
 newcolfromfreecell d2 n13 n12 n4 n5
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 8 9
-0 22 2 0
 0 25 5 4
 1
 end_operator
@@ -11896,9 +11896,9 @@ begin_operator
 newcolfromfreecell d2 n13 n12 n5 n6
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 9 10
-0 22 2 0
 0 25 5 4
 1
 end_operator
@@ -11906,9 +11906,9 @@ begin_operator
 newcolfromfreecell d2 n13 n12 n6 n7
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 10 11
-0 22 2 0
 0 25 5 4
 1
 end_operator
@@ -11916,9 +11916,9 @@ begin_operator
 newcolfromfreecell d2 n13 n12 n7 n8
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 11 12
-0 22 2 0
 0 25 5 4
 1
 end_operator
@@ -11926,9 +11926,9 @@ begin_operator
 newcolfromfreecell d2 n13 n12 n8 n9
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 12 13
-0 22 2 0
 0 25 5 4
 1
 end_operator
@@ -11936,9 +11936,9 @@ begin_operator
 newcolfromfreecell d2 n13 n12 n9 n10
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 13 2
-0 22 2 0
 0 25 5 4
 1
 end_operator
@@ -11946,9 +11946,9 @@ begin_operator
 newcolfromfreecell d2 n2 n1 n0 n1
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 0 1
-0 22 2 0
 0 25 6 1
 1
 end_operator
@@ -11956,9 +11956,9 @@ begin_operator
 newcolfromfreecell d2 n2 n1 n1 n2
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 1 6
-0 22 2 0
 0 25 6 1
 1
 end_operator
@@ -11966,9 +11966,9 @@ begin_operator
 newcolfromfreecell d2 n2 n1 n10 n11
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 2 3
-0 22 2 0
 0 25 6 1
 1
 end_operator
@@ -11976,9 +11976,9 @@ begin_operator
 newcolfromfreecell d2 n2 n1 n11 n12
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 3 4
-0 22 2 0
 0 25 6 1
 1
 end_operator
@@ -11986,9 +11986,9 @@ begin_operator
 newcolfromfreecell d2 n2 n1 n12 n13
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 4 5
-0 22 2 0
 0 25 6 1
 1
 end_operator
@@ -11996,9 +11996,9 @@ begin_operator
 newcolfromfreecell d2 n2 n1 n2 n3
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 6 7
-0 22 2 0
 0 25 6 1
 1
 end_operator
@@ -12006,9 +12006,9 @@ begin_operator
 newcolfromfreecell d2 n2 n1 n3 n4
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 7 8
-0 22 2 0
 0 25 6 1
 1
 end_operator
@@ -12016,9 +12016,9 @@ begin_operator
 newcolfromfreecell d2 n2 n1 n4 n5
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 8 9
-0 22 2 0
 0 25 6 1
 1
 end_operator
@@ -12026,9 +12026,9 @@ begin_operator
 newcolfromfreecell d2 n2 n1 n5 n6
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 9 10
-0 22 2 0
 0 25 6 1
 1
 end_operator
@@ -12036,9 +12036,9 @@ begin_operator
 newcolfromfreecell d2 n2 n1 n6 n7
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 10 11
-0 22 2 0
 0 25 6 1
 1
 end_operator
@@ -12046,9 +12046,9 @@ begin_operator
 newcolfromfreecell d2 n2 n1 n7 n8
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 11 12
-0 22 2 0
 0 25 6 1
 1
 end_operator
@@ -12056,9 +12056,9 @@ begin_operator
 newcolfromfreecell d2 n2 n1 n8 n9
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 12 13
-0 22 2 0
 0 25 6 1
 1
 end_operator
@@ -12066,9 +12066,9 @@ begin_operator
 newcolfromfreecell d2 n2 n1 n9 n10
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 13 2
-0 22 2 0
 0 25 6 1
 1
 end_operator
@@ -12076,9 +12076,9 @@ begin_operator
 newcolfromfreecell d2 n3 n2 n0 n1
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 0 1
-0 22 2 0
 0 25 7 6
 1
 end_operator
@@ -12086,9 +12086,9 @@ begin_operator
 newcolfromfreecell d2 n3 n2 n1 n2
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 1 6
-0 22 2 0
 0 25 7 6
 1
 end_operator
@@ -12096,9 +12096,9 @@ begin_operator
 newcolfromfreecell d2 n3 n2 n10 n11
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 2 3
-0 22 2 0
 0 25 7 6
 1
 end_operator
@@ -12106,9 +12106,9 @@ begin_operator
 newcolfromfreecell d2 n3 n2 n11 n12
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 3 4
-0 22 2 0
 0 25 7 6
 1
 end_operator
@@ -12116,9 +12116,9 @@ begin_operator
 newcolfromfreecell d2 n3 n2 n12 n13
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 4 5
-0 22 2 0
 0 25 7 6
 1
 end_operator
@@ -12126,9 +12126,9 @@ begin_operator
 newcolfromfreecell d2 n3 n2 n2 n3
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 6 7
-0 22 2 0
 0 25 7 6
 1
 end_operator
@@ -12136,9 +12136,9 @@ begin_operator
 newcolfromfreecell d2 n3 n2 n3 n4
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 7 8
-0 22 2 0
 0 25 7 6
 1
 end_operator
@@ -12146,9 +12146,9 @@ begin_operator
 newcolfromfreecell d2 n3 n2 n4 n5
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 8 9
-0 22 2 0
 0 25 7 6
 1
 end_operator
@@ -12156,9 +12156,9 @@ begin_operator
 newcolfromfreecell d2 n3 n2 n5 n6
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 9 10
-0 22 2 0
 0 25 7 6
 1
 end_operator
@@ -12166,9 +12166,9 @@ begin_operator
 newcolfromfreecell d2 n3 n2 n6 n7
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 10 11
-0 22 2 0
 0 25 7 6
 1
 end_operator
@@ -12176,9 +12176,9 @@ begin_operator
 newcolfromfreecell d2 n3 n2 n7 n8
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 11 12
-0 22 2 0
 0 25 7 6
 1
 end_operator
@@ -12186,9 +12186,9 @@ begin_operator
 newcolfromfreecell d2 n3 n2 n8 n9
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 12 13
-0 22 2 0
 0 25 7 6
 1
 end_operator
@@ -12196,9 +12196,9 @@ begin_operator
 newcolfromfreecell d2 n3 n2 n9 n10
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 13 2
-0 22 2 0
 0 25 7 6
 1
 end_operator
@@ -12206,9 +12206,9 @@ begin_operator
 newcolfromfreecell d2 n4 n3 n0 n1
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 0 1
-0 22 2 0
 0 25 8 7
 1
 end_operator
@@ -12216,9 +12216,9 @@ begin_operator
 newcolfromfreecell d2 n4 n3 n1 n2
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 1 6
-0 22 2 0
 0 25 8 7
 1
 end_operator
@@ -12226,9 +12226,9 @@ begin_operator
 newcolfromfreecell d2 n4 n3 n10 n11
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 2 3
-0 22 2 0
 0 25 8 7
 1
 end_operator
@@ -12236,9 +12236,9 @@ begin_operator
 newcolfromfreecell d2 n4 n3 n11 n12
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 3 4
-0 22 2 0
 0 25 8 7
 1
 end_operator
@@ -12246,9 +12246,9 @@ begin_operator
 newcolfromfreecell d2 n4 n3 n12 n13
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 4 5
-0 22 2 0
 0 25 8 7
 1
 end_operator
@@ -12256,9 +12256,9 @@ begin_operator
 newcolfromfreecell d2 n4 n3 n2 n3
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 6 7
-0 22 2 0
 0 25 8 7
 1
 end_operator
@@ -12266,9 +12266,9 @@ begin_operator
 newcolfromfreecell d2 n4 n3 n3 n4
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 7 8
-0 22 2 0
 0 25 8 7
 1
 end_operator
@@ -12276,9 +12276,9 @@ begin_operator
 newcolfromfreecell d2 n4 n3 n4 n5
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 8 9
-0 22 2 0
 0 25 8 7
 1
 end_operator
@@ -12286,9 +12286,9 @@ begin_operator
 newcolfromfreecell d2 n4 n3 n5 n6
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 9 10
-0 22 2 0
 0 25 8 7
 1
 end_operator
@@ -12296,9 +12296,9 @@ begin_operator
 newcolfromfreecell d2 n4 n3 n6 n7
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 10 11
-0 22 2 0
 0 25 8 7
 1
 end_operator
@@ -12306,9 +12306,9 @@ begin_operator
 newcolfromfreecell d2 n4 n3 n7 n8
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 11 12
-0 22 2 0
 0 25 8 7
 1
 end_operator
@@ -12316,9 +12316,9 @@ begin_operator
 newcolfromfreecell d2 n4 n3 n8 n9
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 12 13
-0 22 2 0
 0 25 8 7
 1
 end_operator
@@ -12326,9 +12326,9 @@ begin_operator
 newcolfromfreecell d2 n4 n3 n9 n10
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 13 2
-0 22 2 0
 0 25 8 7
 1
 end_operator
@@ -12336,9 +12336,9 @@ begin_operator
 newcolfromfreecell d2 n5 n4 n0 n1
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 0 1
-0 22 2 0
 0 25 9 8
 1
 end_operator
@@ -12346,9 +12346,9 @@ begin_operator
 newcolfromfreecell d2 n5 n4 n1 n2
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 1 6
-0 22 2 0
 0 25 9 8
 1
 end_operator
@@ -12356,9 +12356,9 @@ begin_operator
 newcolfromfreecell d2 n5 n4 n10 n11
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 2 3
-0 22 2 0
 0 25 9 8
 1
 end_operator
@@ -12366,9 +12366,9 @@ begin_operator
 newcolfromfreecell d2 n5 n4 n11 n12
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 3 4
-0 22 2 0
 0 25 9 8
 1
 end_operator
@@ -12376,9 +12376,9 @@ begin_operator
 newcolfromfreecell d2 n5 n4 n12 n13
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 4 5
-0 22 2 0
 0 25 9 8
 1
 end_operator
@@ -12386,9 +12386,9 @@ begin_operator
 newcolfromfreecell d2 n5 n4 n2 n3
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 6 7
-0 22 2 0
 0 25 9 8
 1
 end_operator
@@ -12396,9 +12396,9 @@ begin_operator
 newcolfromfreecell d2 n5 n4 n3 n4
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 7 8
-0 22 2 0
 0 25 9 8
 1
 end_operator
@@ -12406,9 +12406,9 @@ begin_operator
 newcolfromfreecell d2 n5 n4 n4 n5
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 8 9
-0 22 2 0
 0 25 9 8
 1
 end_operator
@@ -12416,9 +12416,9 @@ begin_operator
 newcolfromfreecell d2 n5 n4 n5 n6
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 9 10
-0 22 2 0
 0 25 9 8
 1
 end_operator
@@ -12426,9 +12426,9 @@ begin_operator
 newcolfromfreecell d2 n5 n4 n6 n7
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 10 11
-0 22 2 0
 0 25 9 8
 1
 end_operator
@@ -12436,9 +12436,9 @@ begin_operator
 newcolfromfreecell d2 n5 n4 n7 n8
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 11 12
-0 22 2 0
 0 25 9 8
 1
 end_operator
@@ -12446,9 +12446,9 @@ begin_operator
 newcolfromfreecell d2 n5 n4 n8 n9
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 12 13
-0 22 2 0
 0 25 9 8
 1
 end_operator
@@ -12456,9 +12456,9 @@ begin_operator
 newcolfromfreecell d2 n5 n4 n9 n10
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 13 2
-0 22 2 0
 0 25 9 8
 1
 end_operator
@@ -12466,9 +12466,9 @@ begin_operator
 newcolfromfreecell d2 n6 n5 n0 n1
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 0 1
-0 22 2 0
 0 25 10 9
 1
 end_operator
@@ -12476,9 +12476,9 @@ begin_operator
 newcolfromfreecell d2 n6 n5 n1 n2
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 1 6
-0 22 2 0
 0 25 10 9
 1
 end_operator
@@ -12486,9 +12486,9 @@ begin_operator
 newcolfromfreecell d2 n6 n5 n10 n11
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 2 3
-0 22 2 0
 0 25 10 9
 1
 end_operator
@@ -12496,9 +12496,9 @@ begin_operator
 newcolfromfreecell d2 n6 n5 n11 n12
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 3 4
-0 22 2 0
 0 25 10 9
 1
 end_operator
@@ -12506,9 +12506,9 @@ begin_operator
 newcolfromfreecell d2 n6 n5 n12 n13
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 4 5
-0 22 2 0
 0 25 10 9
 1
 end_operator
@@ -12516,9 +12516,9 @@ begin_operator
 newcolfromfreecell d2 n6 n5 n2 n3
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 6 7
-0 22 2 0
 0 25 10 9
 1
 end_operator
@@ -12526,9 +12526,9 @@ begin_operator
 newcolfromfreecell d2 n6 n5 n3 n4
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 7 8
-0 22 2 0
 0 25 10 9
 1
 end_operator
@@ -12536,9 +12536,9 @@ begin_operator
 newcolfromfreecell d2 n6 n5 n4 n5
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 8 9
-0 22 2 0
 0 25 10 9
 1
 end_operator
@@ -12546,9 +12546,9 @@ begin_operator
 newcolfromfreecell d2 n6 n5 n5 n6
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 9 10
-0 22 2 0
 0 25 10 9
 1
 end_operator
@@ -12556,9 +12556,9 @@ begin_operator
 newcolfromfreecell d2 n6 n5 n6 n7
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 10 11
-0 22 2 0
 0 25 10 9
 1
 end_operator
@@ -12566,9 +12566,9 @@ begin_operator
 newcolfromfreecell d2 n6 n5 n7 n8
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 11 12
-0 22 2 0
 0 25 10 9
 1
 end_operator
@@ -12576,9 +12576,9 @@ begin_operator
 newcolfromfreecell d2 n6 n5 n8 n9
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 12 13
-0 22 2 0
 0 25 10 9
 1
 end_operator
@@ -12586,9 +12586,9 @@ begin_operator
 newcolfromfreecell d2 n6 n5 n9 n10
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 13 2
-0 22 2 0
 0 25 10 9
 1
 end_operator
@@ -12596,9 +12596,9 @@ begin_operator
 newcolfromfreecell d2 n7 n6 n0 n1
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 0 1
-0 22 2 0
 0 25 11 10
 1
 end_operator
@@ -12606,9 +12606,9 @@ begin_operator
 newcolfromfreecell d2 n7 n6 n1 n2
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 1 6
-0 22 2 0
 0 25 11 10
 1
 end_operator
@@ -12616,9 +12616,9 @@ begin_operator
 newcolfromfreecell d2 n7 n6 n10 n11
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 2 3
-0 22 2 0
 0 25 11 10
 1
 end_operator
@@ -12626,9 +12626,9 @@ begin_operator
 newcolfromfreecell d2 n7 n6 n11 n12
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 3 4
-0 22 2 0
 0 25 11 10
 1
 end_operator
@@ -12636,9 +12636,9 @@ begin_operator
 newcolfromfreecell d2 n7 n6 n12 n13
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 4 5
-0 22 2 0
 0 25 11 10
 1
 end_operator
@@ -12646,9 +12646,9 @@ begin_operator
 newcolfromfreecell d2 n7 n6 n2 n3
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 6 7
-0 22 2 0
 0 25 11 10
 1
 end_operator
@@ -12656,9 +12656,9 @@ begin_operator
 newcolfromfreecell d2 n7 n6 n3 n4
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 7 8
-0 22 2 0
 0 25 11 10
 1
 end_operator
@@ -12666,9 +12666,9 @@ begin_operator
 newcolfromfreecell d2 n7 n6 n4 n5
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 8 9
-0 22 2 0
 0 25 11 10
 1
 end_operator
@@ -12676,9 +12676,9 @@ begin_operator
 newcolfromfreecell d2 n7 n6 n5 n6
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 9 10
-0 22 2 0
 0 25 11 10
 1
 end_operator
@@ -12686,9 +12686,9 @@ begin_operator
 newcolfromfreecell d2 n7 n6 n6 n7
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 10 11
-0 22 2 0
 0 25 11 10
 1
 end_operator
@@ -12696,9 +12696,9 @@ begin_operator
 newcolfromfreecell d2 n7 n6 n7 n8
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 11 12
-0 22 2 0
 0 25 11 10
 1
 end_operator
@@ -12706,9 +12706,9 @@ begin_operator
 newcolfromfreecell d2 n7 n6 n8 n9
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 12 13
-0 22 2 0
 0 25 11 10
 1
 end_operator
@@ -12716,9 +12716,9 @@ begin_operator
 newcolfromfreecell d2 n7 n6 n9 n10
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 13 2
-0 22 2 0
 0 25 11 10
 1
 end_operator
@@ -12726,9 +12726,9 @@ begin_operator
 newcolfromfreecell d2 n8 n7 n0 n1
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 0 1
-0 22 2 0
 0 25 12 11
 1
 end_operator
@@ -12736,9 +12736,9 @@ begin_operator
 newcolfromfreecell d2 n8 n7 n1 n2
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 1 6
-0 22 2 0
 0 25 12 11
 1
 end_operator
@@ -12746,9 +12746,9 @@ begin_operator
 newcolfromfreecell d2 n8 n7 n10 n11
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 2 3
-0 22 2 0
 0 25 12 11
 1
 end_operator
@@ -12756,9 +12756,9 @@ begin_operator
 newcolfromfreecell d2 n8 n7 n11 n12
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 3 4
-0 22 2 0
 0 25 12 11
 1
 end_operator
@@ -12766,9 +12766,9 @@ begin_operator
 newcolfromfreecell d2 n8 n7 n12 n13
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 4 5
-0 22 2 0
 0 25 12 11
 1
 end_operator
@@ -12776,9 +12776,9 @@ begin_operator
 newcolfromfreecell d2 n8 n7 n2 n3
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 6 7
-0 22 2 0
 0 25 12 11
 1
 end_operator
@@ -12786,9 +12786,9 @@ begin_operator
 newcolfromfreecell d2 n8 n7 n3 n4
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 7 8
-0 22 2 0
 0 25 12 11
 1
 end_operator
@@ -12796,9 +12796,9 @@ begin_operator
 newcolfromfreecell d2 n8 n7 n4 n5
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 8 9
-0 22 2 0
 0 25 12 11
 1
 end_operator
@@ -12806,9 +12806,9 @@ begin_operator
 newcolfromfreecell d2 n8 n7 n5 n6
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 9 10
-0 22 2 0
 0 25 12 11
 1
 end_operator
@@ -12816,9 +12816,9 @@ begin_operator
 newcolfromfreecell d2 n8 n7 n6 n7
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 10 11
-0 22 2 0
 0 25 12 11
 1
 end_operator
@@ -12826,9 +12826,9 @@ begin_operator
 newcolfromfreecell d2 n8 n7 n7 n8
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 11 12
-0 22 2 0
 0 25 12 11
 1
 end_operator
@@ -12836,9 +12836,9 @@ begin_operator
 newcolfromfreecell d2 n8 n7 n8 n9
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 12 13
-0 22 2 0
 0 25 12 11
 1
 end_operator
@@ -12846,9 +12846,9 @@ begin_operator
 newcolfromfreecell d2 n8 n7 n9 n10
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 13 2
-0 22 2 0
 0 25 12 11
 1
 end_operator
@@ -12856,9 +12856,9 @@ begin_operator
 newcolfromfreecell d2 n9 n8 n0 n1
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 0 1
-0 22 2 0
 0 25 13 12
 1
 end_operator
@@ -12866,9 +12866,9 @@ begin_operator
 newcolfromfreecell d2 n9 n8 n1 n2
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 1 6
-0 22 2 0
 0 25 13 12
 1
 end_operator
@@ -12876,9 +12876,9 @@ begin_operator
 newcolfromfreecell d2 n9 n8 n10 n11
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 2 3
-0 22 2 0
 0 25 13 12
 1
 end_operator
@@ -12886,9 +12886,9 @@ begin_operator
 newcolfromfreecell d2 n9 n8 n11 n12
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 3 4
-0 22 2 0
 0 25 13 12
 1
 end_operator
@@ -12896,9 +12896,9 @@ begin_operator
 newcolfromfreecell d2 n9 n8 n12 n13
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 4 5
-0 22 2 0
 0 25 13 12
 1
 end_operator
@@ -12906,9 +12906,9 @@ begin_operator
 newcolfromfreecell d2 n9 n8 n2 n3
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 6 7
-0 22 2 0
 0 25 13 12
 1
 end_operator
@@ -12916,9 +12916,9 @@ begin_operator
 newcolfromfreecell d2 n9 n8 n3 n4
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 7 8
-0 22 2 0
 0 25 13 12
 1
 end_operator
@@ -12926,9 +12926,9 @@ begin_operator
 newcolfromfreecell d2 n9 n8 n4 n5
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 8 9
-0 22 2 0
 0 25 13 12
 1
 end_operator
@@ -12936,9 +12936,9 @@ begin_operator
 newcolfromfreecell d2 n9 n8 n5 n6
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 9 10
-0 22 2 0
 0 25 13 12
 1
 end_operator
@@ -12946,9 +12946,9 @@ begin_operator
 newcolfromfreecell d2 n9 n8 n6 n7
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 10 11
-0 22 2 0
 0 25 13 12
 1
 end_operator
@@ -12956,9 +12956,9 @@ begin_operator
 newcolfromfreecell d2 n9 n8 n7 n8
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 11 12
-0 22 2 0
 0 25 13 12
 1
 end_operator
@@ -12966,9 +12966,9 @@ begin_operator
 newcolfromfreecell d2 n9 n8 n8 n9
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 12 13
-0 22 2 0
 0 25 13 12
 1
 end_operator
@@ -12976,9 +12976,9 @@ begin_operator
 newcolfromfreecell d2 n9 n8 n9 n10
 0
 4
+0 22 2 0
 0 23 -1 0
 0 24 13 2
-0 22 2 0
 0 25 13 12
 1
 end_operator
@@ -12988,8 +12988,8 @@ newcolfromfreecell d3 n1 n0 n0 n1
 4
 0 5 -1 0
 0 24 0 1
-0 29 2 0
 0 25 1 0
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -12998,8 +12998,8 @@ newcolfromfreecell d3 n1 n0 n1 n2
 4
 0 5 -1 0
 0 24 1 6
-0 29 2 0
 0 25 1 0
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13008,8 +13008,8 @@ newcolfromfreecell d3 n1 n0 n10 n11
 4
 0 5 -1 0
 0 24 2 3
-0 29 2 0
 0 25 1 0
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13018,8 +13018,8 @@ newcolfromfreecell d3 n1 n0 n11 n12
 4
 0 5 -1 0
 0 24 3 4
-0 29 2 0
 0 25 1 0
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13028,8 +13028,8 @@ newcolfromfreecell d3 n1 n0 n12 n13
 4
 0 5 -1 0
 0 24 4 5
-0 29 2 0
 0 25 1 0
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13038,8 +13038,8 @@ newcolfromfreecell d3 n1 n0 n2 n3
 4
 0 5 -1 0
 0 24 6 7
-0 29 2 0
 0 25 1 0
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13048,8 +13048,8 @@ newcolfromfreecell d3 n1 n0 n3 n4
 4
 0 5 -1 0
 0 24 7 8
-0 29 2 0
 0 25 1 0
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13058,8 +13058,8 @@ newcolfromfreecell d3 n1 n0 n4 n5
 4
 0 5 -1 0
 0 24 8 9
-0 29 2 0
 0 25 1 0
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13068,8 +13068,8 @@ newcolfromfreecell d3 n1 n0 n5 n6
 4
 0 5 -1 0
 0 24 9 10
-0 29 2 0
 0 25 1 0
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13078,8 +13078,8 @@ newcolfromfreecell d3 n1 n0 n6 n7
 4
 0 5 -1 0
 0 24 10 11
-0 29 2 0
 0 25 1 0
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13088,8 +13088,8 @@ newcolfromfreecell d3 n1 n0 n7 n8
 4
 0 5 -1 0
 0 24 11 12
-0 29 2 0
 0 25 1 0
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13098,8 +13098,8 @@ newcolfromfreecell d3 n1 n0 n8 n9
 4
 0 5 -1 0
 0 24 12 13
-0 29 2 0
 0 25 1 0
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13108,8 +13108,8 @@ newcolfromfreecell d3 n1 n0 n9 n10
 4
 0 5 -1 0
 0 24 13 2
-0 29 2 0
 0 25 1 0
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13118,8 +13118,8 @@ newcolfromfreecell d3 n10 n9 n0 n1
 4
 0 5 -1 0
 0 24 0 1
-0 29 2 0
 0 25 2 13
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13128,8 +13128,8 @@ newcolfromfreecell d3 n10 n9 n1 n2
 4
 0 5 -1 0
 0 24 1 6
-0 29 2 0
 0 25 2 13
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13138,8 +13138,8 @@ newcolfromfreecell d3 n10 n9 n10 n11
 4
 0 5 -1 0
 0 24 2 3
-0 29 2 0
 0 25 2 13
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13148,8 +13148,8 @@ newcolfromfreecell d3 n10 n9 n11 n12
 4
 0 5 -1 0
 0 24 3 4
-0 29 2 0
 0 25 2 13
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13158,8 +13158,8 @@ newcolfromfreecell d3 n10 n9 n12 n13
 4
 0 5 -1 0
 0 24 4 5
-0 29 2 0
 0 25 2 13
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13168,8 +13168,8 @@ newcolfromfreecell d3 n10 n9 n2 n3
 4
 0 5 -1 0
 0 24 6 7
-0 29 2 0
 0 25 2 13
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13178,8 +13178,8 @@ newcolfromfreecell d3 n10 n9 n3 n4
 4
 0 5 -1 0
 0 24 7 8
-0 29 2 0
 0 25 2 13
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13188,8 +13188,8 @@ newcolfromfreecell d3 n10 n9 n4 n5
 4
 0 5 -1 0
 0 24 8 9
-0 29 2 0
 0 25 2 13
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13198,8 +13198,8 @@ newcolfromfreecell d3 n10 n9 n5 n6
 4
 0 5 -1 0
 0 24 9 10
-0 29 2 0
 0 25 2 13
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13208,8 +13208,8 @@ newcolfromfreecell d3 n10 n9 n6 n7
 4
 0 5 -1 0
 0 24 10 11
-0 29 2 0
 0 25 2 13
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13218,8 +13218,8 @@ newcolfromfreecell d3 n10 n9 n7 n8
 4
 0 5 -1 0
 0 24 11 12
-0 29 2 0
 0 25 2 13
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13228,8 +13228,8 @@ newcolfromfreecell d3 n10 n9 n8 n9
 4
 0 5 -1 0
 0 24 12 13
-0 29 2 0
 0 25 2 13
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13238,8 +13238,8 @@ newcolfromfreecell d3 n10 n9 n9 n10
 4
 0 5 -1 0
 0 24 13 2
-0 29 2 0
 0 25 2 13
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13248,8 +13248,8 @@ newcolfromfreecell d3 n11 n10 n0 n1
 4
 0 5 -1 0
 0 24 0 1
-0 29 2 0
 0 25 3 2
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13258,8 +13258,8 @@ newcolfromfreecell d3 n11 n10 n1 n2
 4
 0 5 -1 0
 0 24 1 6
-0 29 2 0
 0 25 3 2
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13268,8 +13268,8 @@ newcolfromfreecell d3 n11 n10 n10 n11
 4
 0 5 -1 0
 0 24 2 3
-0 29 2 0
 0 25 3 2
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13278,8 +13278,8 @@ newcolfromfreecell d3 n11 n10 n11 n12
 4
 0 5 -1 0
 0 24 3 4
-0 29 2 0
 0 25 3 2
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13288,8 +13288,8 @@ newcolfromfreecell d3 n11 n10 n12 n13
 4
 0 5 -1 0
 0 24 4 5
-0 29 2 0
 0 25 3 2
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13298,8 +13298,8 @@ newcolfromfreecell d3 n11 n10 n2 n3
 4
 0 5 -1 0
 0 24 6 7
-0 29 2 0
 0 25 3 2
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13308,8 +13308,8 @@ newcolfromfreecell d3 n11 n10 n3 n4
 4
 0 5 -1 0
 0 24 7 8
-0 29 2 0
 0 25 3 2
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13318,8 +13318,8 @@ newcolfromfreecell d3 n11 n10 n4 n5
 4
 0 5 -1 0
 0 24 8 9
-0 29 2 0
 0 25 3 2
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13328,8 +13328,8 @@ newcolfromfreecell d3 n11 n10 n5 n6
 4
 0 5 -1 0
 0 24 9 10
-0 29 2 0
 0 25 3 2
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13338,8 +13338,8 @@ newcolfromfreecell d3 n11 n10 n6 n7
 4
 0 5 -1 0
 0 24 10 11
-0 29 2 0
 0 25 3 2
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13348,8 +13348,8 @@ newcolfromfreecell d3 n11 n10 n7 n8
 4
 0 5 -1 0
 0 24 11 12
-0 29 2 0
 0 25 3 2
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13358,8 +13358,8 @@ newcolfromfreecell d3 n11 n10 n8 n9
 4
 0 5 -1 0
 0 24 12 13
-0 29 2 0
 0 25 3 2
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13368,8 +13368,8 @@ newcolfromfreecell d3 n11 n10 n9 n10
 4
 0 5 -1 0
 0 24 13 2
-0 29 2 0
 0 25 3 2
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13378,8 +13378,8 @@ newcolfromfreecell d3 n12 n11 n0 n1
 4
 0 5 -1 0
 0 24 0 1
-0 29 2 0
 0 25 4 3
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13388,8 +13388,8 @@ newcolfromfreecell d3 n12 n11 n1 n2
 4
 0 5 -1 0
 0 24 1 6
-0 29 2 0
 0 25 4 3
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13398,8 +13398,8 @@ newcolfromfreecell d3 n12 n11 n10 n11
 4
 0 5 -1 0
 0 24 2 3
-0 29 2 0
 0 25 4 3
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13408,8 +13408,8 @@ newcolfromfreecell d3 n12 n11 n11 n12
 4
 0 5 -1 0
 0 24 3 4
-0 29 2 0
 0 25 4 3
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13418,8 +13418,8 @@ newcolfromfreecell d3 n12 n11 n12 n13
 4
 0 5 -1 0
 0 24 4 5
-0 29 2 0
 0 25 4 3
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13428,8 +13428,8 @@ newcolfromfreecell d3 n12 n11 n2 n3
 4
 0 5 -1 0
 0 24 6 7
-0 29 2 0
 0 25 4 3
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13438,8 +13438,8 @@ newcolfromfreecell d3 n12 n11 n3 n4
 4
 0 5 -1 0
 0 24 7 8
-0 29 2 0
 0 25 4 3
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13448,8 +13448,8 @@ newcolfromfreecell d3 n12 n11 n4 n5
 4
 0 5 -1 0
 0 24 8 9
-0 29 2 0
 0 25 4 3
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13458,8 +13458,8 @@ newcolfromfreecell d3 n12 n11 n5 n6
 4
 0 5 -1 0
 0 24 9 10
-0 29 2 0
 0 25 4 3
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13468,8 +13468,8 @@ newcolfromfreecell d3 n12 n11 n6 n7
 4
 0 5 -1 0
 0 24 10 11
-0 29 2 0
 0 25 4 3
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13478,8 +13478,8 @@ newcolfromfreecell d3 n12 n11 n7 n8
 4
 0 5 -1 0
 0 24 11 12
-0 29 2 0
 0 25 4 3
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13488,8 +13488,8 @@ newcolfromfreecell d3 n12 n11 n8 n9
 4
 0 5 -1 0
 0 24 12 13
-0 29 2 0
 0 25 4 3
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13498,8 +13498,8 @@ newcolfromfreecell d3 n12 n11 n9 n10
 4
 0 5 -1 0
 0 24 13 2
-0 29 2 0
 0 25 4 3
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13508,8 +13508,8 @@ newcolfromfreecell d3 n13 n12 n0 n1
 4
 0 5 -1 0
 0 24 0 1
-0 29 2 0
 0 25 5 4
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13518,8 +13518,8 @@ newcolfromfreecell d3 n13 n12 n1 n2
 4
 0 5 -1 0
 0 24 1 6
-0 29 2 0
 0 25 5 4
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13528,8 +13528,8 @@ newcolfromfreecell d3 n13 n12 n10 n11
 4
 0 5 -1 0
 0 24 2 3
-0 29 2 0
 0 25 5 4
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13538,8 +13538,8 @@ newcolfromfreecell d3 n13 n12 n11 n12
 4
 0 5 -1 0
 0 24 3 4
-0 29 2 0
 0 25 5 4
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13548,8 +13548,8 @@ newcolfromfreecell d3 n13 n12 n12 n13
 4
 0 5 -1 0
 0 24 4 5
-0 29 2 0
 0 25 5 4
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13558,8 +13558,8 @@ newcolfromfreecell d3 n13 n12 n2 n3
 4
 0 5 -1 0
 0 24 6 7
-0 29 2 0
 0 25 5 4
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13568,8 +13568,8 @@ newcolfromfreecell d3 n13 n12 n3 n4
 4
 0 5 -1 0
 0 24 7 8
-0 29 2 0
 0 25 5 4
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13578,8 +13578,8 @@ newcolfromfreecell d3 n13 n12 n4 n5
 4
 0 5 -1 0
 0 24 8 9
-0 29 2 0
 0 25 5 4
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13588,8 +13588,8 @@ newcolfromfreecell d3 n13 n12 n5 n6
 4
 0 5 -1 0
 0 24 9 10
-0 29 2 0
 0 25 5 4
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13598,8 +13598,8 @@ newcolfromfreecell d3 n13 n12 n6 n7
 4
 0 5 -1 0
 0 24 10 11
-0 29 2 0
 0 25 5 4
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13608,8 +13608,8 @@ newcolfromfreecell d3 n13 n12 n7 n8
 4
 0 5 -1 0
 0 24 11 12
-0 29 2 0
 0 25 5 4
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13618,8 +13618,8 @@ newcolfromfreecell d3 n13 n12 n8 n9
 4
 0 5 -1 0
 0 24 12 13
-0 29 2 0
 0 25 5 4
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13628,8 +13628,8 @@ newcolfromfreecell d3 n13 n12 n9 n10
 4
 0 5 -1 0
 0 24 13 2
-0 29 2 0
 0 25 5 4
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13638,8 +13638,8 @@ newcolfromfreecell d3 n2 n1 n0 n1
 4
 0 5 -1 0
 0 24 0 1
-0 29 2 0
 0 25 6 1
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13648,8 +13648,8 @@ newcolfromfreecell d3 n2 n1 n1 n2
 4
 0 5 -1 0
 0 24 1 6
-0 29 2 0
 0 25 6 1
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13658,8 +13658,8 @@ newcolfromfreecell d3 n2 n1 n10 n11
 4
 0 5 -1 0
 0 24 2 3
-0 29 2 0
 0 25 6 1
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13668,8 +13668,8 @@ newcolfromfreecell d3 n2 n1 n11 n12
 4
 0 5 -1 0
 0 24 3 4
-0 29 2 0
 0 25 6 1
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13678,8 +13678,8 @@ newcolfromfreecell d3 n2 n1 n12 n13
 4
 0 5 -1 0
 0 24 4 5
-0 29 2 0
 0 25 6 1
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13688,8 +13688,8 @@ newcolfromfreecell d3 n2 n1 n2 n3
 4
 0 5 -1 0
 0 24 6 7
-0 29 2 0
 0 25 6 1
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13698,8 +13698,8 @@ newcolfromfreecell d3 n2 n1 n3 n4
 4
 0 5 -1 0
 0 24 7 8
-0 29 2 0
 0 25 6 1
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13708,8 +13708,8 @@ newcolfromfreecell d3 n2 n1 n4 n5
 4
 0 5 -1 0
 0 24 8 9
-0 29 2 0
 0 25 6 1
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13718,8 +13718,8 @@ newcolfromfreecell d3 n2 n1 n5 n6
 4
 0 5 -1 0
 0 24 9 10
-0 29 2 0
 0 25 6 1
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13728,8 +13728,8 @@ newcolfromfreecell d3 n2 n1 n6 n7
 4
 0 5 -1 0
 0 24 10 11
-0 29 2 0
 0 25 6 1
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13738,8 +13738,8 @@ newcolfromfreecell d3 n2 n1 n7 n8
 4
 0 5 -1 0
 0 24 11 12
-0 29 2 0
 0 25 6 1
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13748,8 +13748,8 @@ newcolfromfreecell d3 n2 n1 n8 n9
 4
 0 5 -1 0
 0 24 12 13
-0 29 2 0
 0 25 6 1
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13758,8 +13758,8 @@ newcolfromfreecell d3 n2 n1 n9 n10
 4
 0 5 -1 0
 0 24 13 2
-0 29 2 0
 0 25 6 1
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13768,8 +13768,8 @@ newcolfromfreecell d3 n3 n2 n0 n1
 4
 0 5 -1 0
 0 24 0 1
-0 29 2 0
 0 25 7 6
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13778,8 +13778,8 @@ newcolfromfreecell d3 n3 n2 n1 n2
 4
 0 5 -1 0
 0 24 1 6
-0 29 2 0
 0 25 7 6
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13788,8 +13788,8 @@ newcolfromfreecell d3 n3 n2 n10 n11
 4
 0 5 -1 0
 0 24 2 3
-0 29 2 0
 0 25 7 6
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13798,8 +13798,8 @@ newcolfromfreecell d3 n3 n2 n11 n12
 4
 0 5 -1 0
 0 24 3 4
-0 29 2 0
 0 25 7 6
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13808,8 +13808,8 @@ newcolfromfreecell d3 n3 n2 n12 n13
 4
 0 5 -1 0
 0 24 4 5
-0 29 2 0
 0 25 7 6
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13818,8 +13818,8 @@ newcolfromfreecell d3 n3 n2 n2 n3
 4
 0 5 -1 0
 0 24 6 7
-0 29 2 0
 0 25 7 6
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13828,8 +13828,8 @@ newcolfromfreecell d3 n3 n2 n3 n4
 4
 0 5 -1 0
 0 24 7 8
-0 29 2 0
 0 25 7 6
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13838,8 +13838,8 @@ newcolfromfreecell d3 n3 n2 n4 n5
 4
 0 5 -1 0
 0 24 8 9
-0 29 2 0
 0 25 7 6
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13848,8 +13848,8 @@ newcolfromfreecell d3 n3 n2 n5 n6
 4
 0 5 -1 0
 0 24 9 10
-0 29 2 0
 0 25 7 6
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13858,8 +13858,8 @@ newcolfromfreecell d3 n3 n2 n6 n7
 4
 0 5 -1 0
 0 24 10 11
-0 29 2 0
 0 25 7 6
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13868,8 +13868,8 @@ newcolfromfreecell d3 n3 n2 n7 n8
 4
 0 5 -1 0
 0 24 11 12
-0 29 2 0
 0 25 7 6
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13878,8 +13878,8 @@ newcolfromfreecell d3 n3 n2 n8 n9
 4
 0 5 -1 0
 0 24 12 13
-0 29 2 0
 0 25 7 6
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13888,8 +13888,8 @@ newcolfromfreecell d3 n3 n2 n9 n10
 4
 0 5 -1 0
 0 24 13 2
-0 29 2 0
 0 25 7 6
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13898,8 +13898,8 @@ newcolfromfreecell d3 n4 n3 n0 n1
 4
 0 5 -1 0
 0 24 0 1
-0 29 2 0
 0 25 8 7
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13908,8 +13908,8 @@ newcolfromfreecell d3 n4 n3 n1 n2
 4
 0 5 -1 0
 0 24 1 6
-0 29 2 0
 0 25 8 7
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13918,8 +13918,8 @@ newcolfromfreecell d3 n4 n3 n10 n11
 4
 0 5 -1 0
 0 24 2 3
-0 29 2 0
 0 25 8 7
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13928,8 +13928,8 @@ newcolfromfreecell d3 n4 n3 n11 n12
 4
 0 5 -1 0
 0 24 3 4
-0 29 2 0
 0 25 8 7
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13938,8 +13938,8 @@ newcolfromfreecell d3 n4 n3 n12 n13
 4
 0 5 -1 0
 0 24 4 5
-0 29 2 0
 0 25 8 7
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13948,8 +13948,8 @@ newcolfromfreecell d3 n4 n3 n2 n3
 4
 0 5 -1 0
 0 24 6 7
-0 29 2 0
 0 25 8 7
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13958,8 +13958,8 @@ newcolfromfreecell d3 n4 n3 n3 n4
 4
 0 5 -1 0
 0 24 7 8
-0 29 2 0
 0 25 8 7
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13968,8 +13968,8 @@ newcolfromfreecell d3 n4 n3 n4 n5
 4
 0 5 -1 0
 0 24 8 9
-0 29 2 0
 0 25 8 7
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13978,8 +13978,8 @@ newcolfromfreecell d3 n4 n3 n5 n6
 4
 0 5 -1 0
 0 24 9 10
-0 29 2 0
 0 25 8 7
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13988,8 +13988,8 @@ newcolfromfreecell d3 n4 n3 n6 n7
 4
 0 5 -1 0
 0 24 10 11
-0 29 2 0
 0 25 8 7
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -13998,8 +13998,8 @@ newcolfromfreecell d3 n4 n3 n7 n8
 4
 0 5 -1 0
 0 24 11 12
-0 29 2 0
 0 25 8 7
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14008,8 +14008,8 @@ newcolfromfreecell d3 n4 n3 n8 n9
 4
 0 5 -1 0
 0 24 12 13
-0 29 2 0
 0 25 8 7
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14018,8 +14018,8 @@ newcolfromfreecell d3 n4 n3 n9 n10
 4
 0 5 -1 0
 0 24 13 2
-0 29 2 0
 0 25 8 7
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14028,8 +14028,8 @@ newcolfromfreecell d3 n5 n4 n0 n1
 4
 0 5 -1 0
 0 24 0 1
-0 29 2 0
 0 25 9 8
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14038,8 +14038,8 @@ newcolfromfreecell d3 n5 n4 n1 n2
 4
 0 5 -1 0
 0 24 1 6
-0 29 2 0
 0 25 9 8
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14048,8 +14048,8 @@ newcolfromfreecell d3 n5 n4 n10 n11
 4
 0 5 -1 0
 0 24 2 3
-0 29 2 0
 0 25 9 8
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14058,8 +14058,8 @@ newcolfromfreecell d3 n5 n4 n11 n12
 4
 0 5 -1 0
 0 24 3 4
-0 29 2 0
 0 25 9 8
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14068,8 +14068,8 @@ newcolfromfreecell d3 n5 n4 n12 n13
 4
 0 5 -1 0
 0 24 4 5
-0 29 2 0
 0 25 9 8
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14078,8 +14078,8 @@ newcolfromfreecell d3 n5 n4 n2 n3
 4
 0 5 -1 0
 0 24 6 7
-0 29 2 0
 0 25 9 8
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14088,8 +14088,8 @@ newcolfromfreecell d3 n5 n4 n3 n4
 4
 0 5 -1 0
 0 24 7 8
-0 29 2 0
 0 25 9 8
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14098,8 +14098,8 @@ newcolfromfreecell d3 n5 n4 n4 n5
 4
 0 5 -1 0
 0 24 8 9
-0 29 2 0
 0 25 9 8
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14108,8 +14108,8 @@ newcolfromfreecell d3 n5 n4 n5 n6
 4
 0 5 -1 0
 0 24 9 10
-0 29 2 0
 0 25 9 8
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14118,8 +14118,8 @@ newcolfromfreecell d3 n5 n4 n6 n7
 4
 0 5 -1 0
 0 24 10 11
-0 29 2 0
 0 25 9 8
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14128,8 +14128,8 @@ newcolfromfreecell d3 n5 n4 n7 n8
 4
 0 5 -1 0
 0 24 11 12
-0 29 2 0
 0 25 9 8
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14138,8 +14138,8 @@ newcolfromfreecell d3 n5 n4 n8 n9
 4
 0 5 -1 0
 0 24 12 13
-0 29 2 0
 0 25 9 8
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14148,8 +14148,8 @@ newcolfromfreecell d3 n5 n4 n9 n10
 4
 0 5 -1 0
 0 24 13 2
-0 29 2 0
 0 25 9 8
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14158,8 +14158,8 @@ newcolfromfreecell d3 n6 n5 n0 n1
 4
 0 5 -1 0
 0 24 0 1
-0 29 2 0
 0 25 10 9
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14168,8 +14168,8 @@ newcolfromfreecell d3 n6 n5 n1 n2
 4
 0 5 -1 0
 0 24 1 6
-0 29 2 0
 0 25 10 9
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14178,8 +14178,8 @@ newcolfromfreecell d3 n6 n5 n10 n11
 4
 0 5 -1 0
 0 24 2 3
-0 29 2 0
 0 25 10 9
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14188,8 +14188,8 @@ newcolfromfreecell d3 n6 n5 n11 n12
 4
 0 5 -1 0
 0 24 3 4
-0 29 2 0
 0 25 10 9
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14198,8 +14198,8 @@ newcolfromfreecell d3 n6 n5 n12 n13
 4
 0 5 -1 0
 0 24 4 5
-0 29 2 0
 0 25 10 9
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14208,8 +14208,8 @@ newcolfromfreecell d3 n6 n5 n2 n3
 4
 0 5 -1 0
 0 24 6 7
-0 29 2 0
 0 25 10 9
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14218,8 +14218,8 @@ newcolfromfreecell d3 n6 n5 n3 n4
 4
 0 5 -1 0
 0 24 7 8
-0 29 2 0
 0 25 10 9
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14228,8 +14228,8 @@ newcolfromfreecell d3 n6 n5 n4 n5
 4
 0 5 -1 0
 0 24 8 9
-0 29 2 0
 0 25 10 9
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14238,8 +14238,8 @@ newcolfromfreecell d3 n6 n5 n5 n6
 4
 0 5 -1 0
 0 24 9 10
-0 29 2 0
 0 25 10 9
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14248,8 +14248,8 @@ newcolfromfreecell d3 n6 n5 n6 n7
 4
 0 5 -1 0
 0 24 10 11
-0 29 2 0
 0 25 10 9
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14258,8 +14258,8 @@ newcolfromfreecell d3 n6 n5 n7 n8
 4
 0 5 -1 0
 0 24 11 12
-0 29 2 0
 0 25 10 9
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14268,8 +14268,8 @@ newcolfromfreecell d3 n6 n5 n8 n9
 4
 0 5 -1 0
 0 24 12 13
-0 29 2 0
 0 25 10 9
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14278,8 +14278,8 @@ newcolfromfreecell d3 n6 n5 n9 n10
 4
 0 5 -1 0
 0 24 13 2
-0 29 2 0
 0 25 10 9
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14288,8 +14288,8 @@ newcolfromfreecell d3 n7 n6 n0 n1
 4
 0 5 -1 0
 0 24 0 1
-0 29 2 0
 0 25 11 10
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14298,8 +14298,8 @@ newcolfromfreecell d3 n7 n6 n1 n2
 4
 0 5 -1 0
 0 24 1 6
-0 29 2 0
 0 25 11 10
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14308,8 +14308,8 @@ newcolfromfreecell d3 n7 n6 n10 n11
 4
 0 5 -1 0
 0 24 2 3
-0 29 2 0
 0 25 11 10
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14318,8 +14318,8 @@ newcolfromfreecell d3 n7 n6 n11 n12
 4
 0 5 -1 0
 0 24 3 4
-0 29 2 0
 0 25 11 10
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14328,8 +14328,8 @@ newcolfromfreecell d3 n7 n6 n12 n13
 4
 0 5 -1 0
 0 24 4 5
-0 29 2 0
 0 25 11 10
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14338,8 +14338,8 @@ newcolfromfreecell d3 n7 n6 n2 n3
 4
 0 5 -1 0
 0 24 6 7
-0 29 2 0
 0 25 11 10
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14348,8 +14348,8 @@ newcolfromfreecell d3 n7 n6 n3 n4
 4
 0 5 -1 0
 0 24 7 8
-0 29 2 0
 0 25 11 10
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14358,8 +14358,8 @@ newcolfromfreecell d3 n7 n6 n4 n5
 4
 0 5 -1 0
 0 24 8 9
-0 29 2 0
 0 25 11 10
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14368,8 +14368,8 @@ newcolfromfreecell d3 n7 n6 n5 n6
 4
 0 5 -1 0
 0 24 9 10
-0 29 2 0
 0 25 11 10
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14378,8 +14378,8 @@ newcolfromfreecell d3 n7 n6 n6 n7
 4
 0 5 -1 0
 0 24 10 11
-0 29 2 0
 0 25 11 10
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14388,8 +14388,8 @@ newcolfromfreecell d3 n7 n6 n7 n8
 4
 0 5 -1 0
 0 24 11 12
-0 29 2 0
 0 25 11 10
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14398,8 +14398,8 @@ newcolfromfreecell d3 n7 n6 n8 n9
 4
 0 5 -1 0
 0 24 12 13
-0 29 2 0
 0 25 11 10
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14408,8 +14408,8 @@ newcolfromfreecell d3 n7 n6 n9 n10
 4
 0 5 -1 0
 0 24 13 2
-0 29 2 0
 0 25 11 10
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14418,8 +14418,8 @@ newcolfromfreecell d3 n8 n7 n0 n1
 4
 0 5 -1 0
 0 24 0 1
-0 29 2 0
 0 25 12 11
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14428,8 +14428,8 @@ newcolfromfreecell d3 n8 n7 n1 n2
 4
 0 5 -1 0
 0 24 1 6
-0 29 2 0
 0 25 12 11
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14438,8 +14438,8 @@ newcolfromfreecell d3 n8 n7 n10 n11
 4
 0 5 -1 0
 0 24 2 3
-0 29 2 0
 0 25 12 11
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14448,8 +14448,8 @@ newcolfromfreecell d3 n8 n7 n11 n12
 4
 0 5 -1 0
 0 24 3 4
-0 29 2 0
 0 25 12 11
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14458,8 +14458,8 @@ newcolfromfreecell d3 n8 n7 n12 n13
 4
 0 5 -1 0
 0 24 4 5
-0 29 2 0
 0 25 12 11
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14468,8 +14468,8 @@ newcolfromfreecell d3 n8 n7 n2 n3
 4
 0 5 -1 0
 0 24 6 7
-0 29 2 0
 0 25 12 11
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14478,8 +14478,8 @@ newcolfromfreecell d3 n8 n7 n3 n4
 4
 0 5 -1 0
 0 24 7 8
-0 29 2 0
 0 25 12 11
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14488,8 +14488,8 @@ newcolfromfreecell d3 n8 n7 n4 n5
 4
 0 5 -1 0
 0 24 8 9
-0 29 2 0
 0 25 12 11
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14498,8 +14498,8 @@ newcolfromfreecell d3 n8 n7 n5 n6
 4
 0 5 -1 0
 0 24 9 10
-0 29 2 0
 0 25 12 11
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14508,8 +14508,8 @@ newcolfromfreecell d3 n8 n7 n6 n7
 4
 0 5 -1 0
 0 24 10 11
-0 29 2 0
 0 25 12 11
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14518,8 +14518,8 @@ newcolfromfreecell d3 n8 n7 n7 n8
 4
 0 5 -1 0
 0 24 11 12
-0 29 2 0
 0 25 12 11
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14528,8 +14528,8 @@ newcolfromfreecell d3 n8 n7 n8 n9
 4
 0 5 -1 0
 0 24 12 13
-0 29 2 0
 0 25 12 11
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14538,8 +14538,8 @@ newcolfromfreecell d3 n8 n7 n9 n10
 4
 0 5 -1 0
 0 24 13 2
-0 29 2 0
 0 25 12 11
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14548,8 +14548,8 @@ newcolfromfreecell d3 n9 n8 n0 n1
 4
 0 5 -1 0
 0 24 0 1
-0 29 2 0
 0 25 13 12
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14558,8 +14558,8 @@ newcolfromfreecell d3 n9 n8 n1 n2
 4
 0 5 -1 0
 0 24 1 6
-0 29 2 0
 0 25 13 12
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14568,8 +14568,8 @@ newcolfromfreecell d3 n9 n8 n10 n11
 4
 0 5 -1 0
 0 24 2 3
-0 29 2 0
 0 25 13 12
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14578,8 +14578,8 @@ newcolfromfreecell d3 n9 n8 n11 n12
 4
 0 5 -1 0
 0 24 3 4
-0 29 2 0
 0 25 13 12
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14588,8 +14588,8 @@ newcolfromfreecell d3 n9 n8 n12 n13
 4
 0 5 -1 0
 0 24 4 5
-0 29 2 0
 0 25 13 12
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14598,8 +14598,8 @@ newcolfromfreecell d3 n9 n8 n2 n3
 4
 0 5 -1 0
 0 24 6 7
-0 29 2 0
 0 25 13 12
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14608,8 +14608,8 @@ newcolfromfreecell d3 n9 n8 n3 n4
 4
 0 5 -1 0
 0 24 7 8
-0 29 2 0
 0 25 13 12
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14618,8 +14618,8 @@ newcolfromfreecell d3 n9 n8 n4 n5
 4
 0 5 -1 0
 0 24 8 9
-0 29 2 0
 0 25 13 12
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14628,8 +14628,8 @@ newcolfromfreecell d3 n9 n8 n5 n6
 4
 0 5 -1 0
 0 24 9 10
-0 29 2 0
 0 25 13 12
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14638,8 +14638,8 @@ newcolfromfreecell d3 n9 n8 n6 n7
 4
 0 5 -1 0
 0 24 10 11
-0 29 2 0
 0 25 13 12
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14648,8 +14648,8 @@ newcolfromfreecell d3 n9 n8 n7 n8
 4
 0 5 -1 0
 0 24 11 12
-0 29 2 0
 0 25 13 12
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14658,8 +14658,8 @@ newcolfromfreecell d3 n9 n8 n8 n9
 4
 0 5 -1 0
 0 24 12 13
-0 29 2 0
 0 25 13 12
+0 29 2 0
 1
 end_operator
 begin_operator
@@ -14668,17 +14668,17 @@ newcolfromfreecell d3 n9 n8 n9 n10
 4
 0 5 -1 0
 0 24 13 2
-0 29 2 0
 0 25 13 12
+0 29 2 0
 1
 end_operator
 begin_operator
 newcolfromfreecell da n1 n0 n0 n1
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 0 1
-0 14 -1 0
 0 25 1 0
 1
 end_operator
@@ -14686,9 +14686,9 @@ begin_operator
 newcolfromfreecell da n1 n0 n1 n2
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 1 6
-0 14 -1 0
 0 25 1 0
 1
 end_operator
@@ -14696,9 +14696,9 @@ begin_operator
 newcolfromfreecell da n1 n0 n10 n11
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 2 3
-0 14 -1 0
 0 25 1 0
 1
 end_operator
@@ -14706,9 +14706,9 @@ begin_operator
 newcolfromfreecell da n1 n0 n11 n12
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 3 4
-0 14 -1 0
 0 25 1 0
 1
 end_operator
@@ -14716,9 +14716,9 @@ begin_operator
 newcolfromfreecell da n1 n0 n12 n13
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 4 5
-0 14 -1 0
 0 25 1 0
 1
 end_operator
@@ -14726,9 +14726,9 @@ begin_operator
 newcolfromfreecell da n1 n0 n2 n3
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 6 7
-0 14 -1 0
 0 25 1 0
 1
 end_operator
@@ -14736,9 +14736,9 @@ begin_operator
 newcolfromfreecell da n1 n0 n3 n4
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 7 8
-0 14 -1 0
 0 25 1 0
 1
 end_operator
@@ -14746,9 +14746,9 @@ begin_operator
 newcolfromfreecell da n1 n0 n4 n5
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 8 9
-0 14 -1 0
 0 25 1 0
 1
 end_operator
@@ -14756,9 +14756,9 @@ begin_operator
 newcolfromfreecell da n1 n0 n5 n6
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 9 10
-0 14 -1 0
 0 25 1 0
 1
 end_operator
@@ -14766,9 +14766,9 @@ begin_operator
 newcolfromfreecell da n1 n0 n6 n7
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 10 11
-0 14 -1 0
 0 25 1 0
 1
 end_operator
@@ -14776,9 +14776,9 @@ begin_operator
 newcolfromfreecell da n1 n0 n7 n8
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 11 12
-0 14 -1 0
 0 25 1 0
 1
 end_operator
@@ -14786,9 +14786,9 @@ begin_operator
 newcolfromfreecell da n1 n0 n8 n9
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 12 13
-0 14 -1 0
 0 25 1 0
 1
 end_operator
@@ -14796,9 +14796,9 @@ begin_operator
 newcolfromfreecell da n1 n0 n9 n10
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 13 2
-0 14 -1 0
 0 25 1 0
 1
 end_operator
@@ -14806,9 +14806,9 @@ begin_operator
 newcolfromfreecell da n10 n9 n0 n1
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 0 1
-0 14 -1 0
 0 25 2 13
 1
 end_operator
@@ -14816,9 +14816,9 @@ begin_operator
 newcolfromfreecell da n10 n9 n1 n2
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 1 6
-0 14 -1 0
 0 25 2 13
 1
 end_operator
@@ -14826,9 +14826,9 @@ begin_operator
 newcolfromfreecell da n10 n9 n10 n11
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 2 3
-0 14 -1 0
 0 25 2 13
 1
 end_operator
@@ -14836,9 +14836,9 @@ begin_operator
 newcolfromfreecell da n10 n9 n11 n12
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 3 4
-0 14 -1 0
 0 25 2 13
 1
 end_operator
@@ -14846,9 +14846,9 @@ begin_operator
 newcolfromfreecell da n10 n9 n12 n13
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 4 5
-0 14 -1 0
 0 25 2 13
 1
 end_operator
@@ -14856,9 +14856,9 @@ begin_operator
 newcolfromfreecell da n10 n9 n2 n3
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 6 7
-0 14 -1 0
 0 25 2 13
 1
 end_operator
@@ -14866,9 +14866,9 @@ begin_operator
 newcolfromfreecell da n10 n9 n3 n4
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 7 8
-0 14 -1 0
 0 25 2 13
 1
 end_operator
@@ -14876,9 +14876,9 @@ begin_operator
 newcolfromfreecell da n10 n9 n4 n5
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 8 9
-0 14 -1 0
 0 25 2 13
 1
 end_operator
@@ -14886,9 +14886,9 @@ begin_operator
 newcolfromfreecell da n10 n9 n5 n6
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 9 10
-0 14 -1 0
 0 25 2 13
 1
 end_operator
@@ -14896,9 +14896,9 @@ begin_operator
 newcolfromfreecell da n10 n9 n6 n7
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 10 11
-0 14 -1 0
 0 25 2 13
 1
 end_operator
@@ -14906,9 +14906,9 @@ begin_operator
 newcolfromfreecell da n10 n9 n7 n8
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 11 12
-0 14 -1 0
 0 25 2 13
 1
 end_operator
@@ -14916,9 +14916,9 @@ begin_operator
 newcolfromfreecell da n10 n9 n8 n9
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 12 13
-0 14 -1 0
 0 25 2 13
 1
 end_operator
@@ -14926,9 +14926,9 @@ begin_operator
 newcolfromfreecell da n10 n9 n9 n10
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 13 2
-0 14 -1 0
 0 25 2 13
 1
 end_operator
@@ -14936,9 +14936,9 @@ begin_operator
 newcolfromfreecell da n11 n10 n0 n1
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 0 1
-0 14 -1 0
 0 25 3 2
 1
 end_operator
@@ -14946,9 +14946,9 @@ begin_operator
 newcolfromfreecell da n11 n10 n1 n2
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 1 6
-0 14 -1 0
 0 25 3 2
 1
 end_operator
@@ -14956,9 +14956,9 @@ begin_operator
 newcolfromfreecell da n11 n10 n10 n11
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 2 3
-0 14 -1 0
 0 25 3 2
 1
 end_operator
@@ -14966,9 +14966,9 @@ begin_operator
 newcolfromfreecell da n11 n10 n11 n12
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 3 4
-0 14 -1 0
 0 25 3 2
 1
 end_operator
@@ -14976,9 +14976,9 @@ begin_operator
 newcolfromfreecell da n11 n10 n12 n13
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 4 5
-0 14 -1 0
 0 25 3 2
 1
 end_operator
@@ -14986,9 +14986,9 @@ begin_operator
 newcolfromfreecell da n11 n10 n2 n3
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 6 7
-0 14 -1 0
 0 25 3 2
 1
 end_operator
@@ -14996,9 +14996,9 @@ begin_operator
 newcolfromfreecell da n11 n10 n3 n4
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 7 8
-0 14 -1 0
 0 25 3 2
 1
 end_operator
@@ -15006,9 +15006,9 @@ begin_operator
 newcolfromfreecell da n11 n10 n4 n5
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 8 9
-0 14 -1 0
 0 25 3 2
 1
 end_operator
@@ -15016,9 +15016,9 @@ begin_operator
 newcolfromfreecell da n11 n10 n5 n6
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 9 10
-0 14 -1 0
 0 25 3 2
 1
 end_operator
@@ -15026,9 +15026,9 @@ begin_operator
 newcolfromfreecell da n11 n10 n6 n7
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 10 11
-0 14 -1 0
 0 25 3 2
 1
 end_operator
@@ -15036,9 +15036,9 @@ begin_operator
 newcolfromfreecell da n11 n10 n7 n8
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 11 12
-0 14 -1 0
 0 25 3 2
 1
 end_operator
@@ -15046,9 +15046,9 @@ begin_operator
 newcolfromfreecell da n11 n10 n8 n9
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 12 13
-0 14 -1 0
 0 25 3 2
 1
 end_operator
@@ -15056,9 +15056,9 @@ begin_operator
 newcolfromfreecell da n11 n10 n9 n10
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 13 2
-0 14 -1 0
 0 25 3 2
 1
 end_operator
@@ -15066,9 +15066,9 @@ begin_operator
 newcolfromfreecell da n12 n11 n0 n1
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 0 1
-0 14 -1 0
 0 25 4 3
 1
 end_operator
@@ -15076,9 +15076,9 @@ begin_operator
 newcolfromfreecell da n12 n11 n1 n2
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 1 6
-0 14 -1 0
 0 25 4 3
 1
 end_operator
@@ -15086,9 +15086,9 @@ begin_operator
 newcolfromfreecell da n12 n11 n10 n11
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 2 3
-0 14 -1 0
 0 25 4 3
 1
 end_operator
@@ -15096,9 +15096,9 @@ begin_operator
 newcolfromfreecell da n12 n11 n11 n12
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 3 4
-0 14 -1 0
 0 25 4 3
 1
 end_operator
@@ -15106,9 +15106,9 @@ begin_operator
 newcolfromfreecell da n12 n11 n12 n13
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 4 5
-0 14 -1 0
 0 25 4 3
 1
 end_operator
@@ -15116,9 +15116,9 @@ begin_operator
 newcolfromfreecell da n12 n11 n2 n3
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 6 7
-0 14 -1 0
 0 25 4 3
 1
 end_operator
@@ -15126,9 +15126,9 @@ begin_operator
 newcolfromfreecell da n12 n11 n3 n4
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 7 8
-0 14 -1 0
 0 25 4 3
 1
 end_operator
@@ -15136,9 +15136,9 @@ begin_operator
 newcolfromfreecell da n12 n11 n4 n5
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 8 9
-0 14 -1 0
 0 25 4 3
 1
 end_operator
@@ -15146,9 +15146,9 @@ begin_operator
 newcolfromfreecell da n12 n11 n5 n6
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 9 10
-0 14 -1 0
 0 25 4 3
 1
 end_operator
@@ -15156,9 +15156,9 @@ begin_operator
 newcolfromfreecell da n12 n11 n6 n7
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 10 11
-0 14 -1 0
 0 25 4 3
 1
 end_operator
@@ -15166,9 +15166,9 @@ begin_operator
 newcolfromfreecell da n12 n11 n7 n8
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 11 12
-0 14 -1 0
 0 25 4 3
 1
 end_operator
@@ -15176,9 +15176,9 @@ begin_operator
 newcolfromfreecell da n12 n11 n8 n9
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 12 13
-0 14 -1 0
 0 25 4 3
 1
 end_operator
@@ -15186,9 +15186,9 @@ begin_operator
 newcolfromfreecell da n12 n11 n9 n10
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 13 2
-0 14 -1 0
 0 25 4 3
 1
 end_operator
@@ -15196,9 +15196,9 @@ begin_operator
 newcolfromfreecell da n13 n12 n0 n1
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 0 1
-0 14 -1 0
 0 25 5 4
 1
 end_operator
@@ -15206,9 +15206,9 @@ begin_operator
 newcolfromfreecell da n13 n12 n1 n2
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 1 6
-0 14 -1 0
 0 25 5 4
 1
 end_operator
@@ -15216,9 +15216,9 @@ begin_operator
 newcolfromfreecell da n13 n12 n10 n11
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 2 3
-0 14 -1 0
 0 25 5 4
 1
 end_operator
@@ -15226,9 +15226,9 @@ begin_operator
 newcolfromfreecell da n13 n12 n11 n12
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 3 4
-0 14 -1 0
 0 25 5 4
 1
 end_operator
@@ -15236,9 +15236,9 @@ begin_operator
 newcolfromfreecell da n13 n12 n12 n13
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 4 5
-0 14 -1 0
 0 25 5 4
 1
 end_operator
@@ -15246,9 +15246,9 @@ begin_operator
 newcolfromfreecell da n13 n12 n2 n3
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 6 7
-0 14 -1 0
 0 25 5 4
 1
 end_operator
@@ -15256,9 +15256,9 @@ begin_operator
 newcolfromfreecell da n13 n12 n3 n4
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 7 8
-0 14 -1 0
 0 25 5 4
 1
 end_operator
@@ -15266,9 +15266,9 @@ begin_operator
 newcolfromfreecell da n13 n12 n4 n5
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 8 9
-0 14 -1 0
 0 25 5 4
 1
 end_operator
@@ -15276,9 +15276,9 @@ begin_operator
 newcolfromfreecell da n13 n12 n5 n6
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 9 10
-0 14 -1 0
 0 25 5 4
 1
 end_operator
@@ -15286,9 +15286,9 @@ begin_operator
 newcolfromfreecell da n13 n12 n6 n7
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 10 11
-0 14 -1 0
 0 25 5 4
 1
 end_operator
@@ -15296,9 +15296,9 @@ begin_operator
 newcolfromfreecell da n13 n12 n7 n8
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 11 12
-0 14 -1 0
 0 25 5 4
 1
 end_operator
@@ -15306,9 +15306,9 @@ begin_operator
 newcolfromfreecell da n13 n12 n8 n9
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 12 13
-0 14 -1 0
 0 25 5 4
 1
 end_operator
@@ -15316,9 +15316,9 @@ begin_operator
 newcolfromfreecell da n13 n12 n9 n10
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 13 2
-0 14 -1 0
 0 25 5 4
 1
 end_operator
@@ -15326,9 +15326,9 @@ begin_operator
 newcolfromfreecell da n2 n1 n0 n1
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 0 1
-0 14 -1 0
 0 25 6 1
 1
 end_operator
@@ -15336,9 +15336,9 @@ begin_operator
 newcolfromfreecell da n2 n1 n1 n2
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 1 6
-0 14 -1 0
 0 25 6 1
 1
 end_operator
@@ -15346,9 +15346,9 @@ begin_operator
 newcolfromfreecell da n2 n1 n10 n11
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 2 3
-0 14 -1 0
 0 25 6 1
 1
 end_operator
@@ -15356,9 +15356,9 @@ begin_operator
 newcolfromfreecell da n2 n1 n11 n12
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 3 4
-0 14 -1 0
 0 25 6 1
 1
 end_operator
@@ -15366,9 +15366,9 @@ begin_operator
 newcolfromfreecell da n2 n1 n12 n13
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 4 5
-0 14 -1 0
 0 25 6 1
 1
 end_operator
@@ -15376,9 +15376,9 @@ begin_operator
 newcolfromfreecell da n2 n1 n2 n3
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 6 7
-0 14 -1 0
 0 25 6 1
 1
 end_operator
@@ -15386,9 +15386,9 @@ begin_operator
 newcolfromfreecell da n2 n1 n3 n4
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 7 8
-0 14 -1 0
 0 25 6 1
 1
 end_operator
@@ -15396,9 +15396,9 @@ begin_operator
 newcolfromfreecell da n2 n1 n4 n5
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 8 9
-0 14 -1 0
 0 25 6 1
 1
 end_operator
@@ -15406,9 +15406,9 @@ begin_operator
 newcolfromfreecell da n2 n1 n5 n6
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 9 10
-0 14 -1 0
 0 25 6 1
 1
 end_operator
@@ -15416,9 +15416,9 @@ begin_operator
 newcolfromfreecell da n2 n1 n6 n7
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 10 11
-0 14 -1 0
 0 25 6 1
 1
 end_operator
@@ -15426,9 +15426,9 @@ begin_operator
 newcolfromfreecell da n2 n1 n7 n8
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 11 12
-0 14 -1 0
 0 25 6 1
 1
 end_operator
@@ -15436,9 +15436,9 @@ begin_operator
 newcolfromfreecell da n2 n1 n8 n9
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 12 13
-0 14 -1 0
 0 25 6 1
 1
 end_operator
@@ -15446,9 +15446,9 @@ begin_operator
 newcolfromfreecell da n2 n1 n9 n10
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 13 2
-0 14 -1 0
 0 25 6 1
 1
 end_operator
@@ -15456,9 +15456,9 @@ begin_operator
 newcolfromfreecell da n3 n2 n0 n1
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 0 1
-0 14 -1 0
 0 25 7 6
 1
 end_operator
@@ -15466,9 +15466,9 @@ begin_operator
 newcolfromfreecell da n3 n2 n1 n2
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 1 6
-0 14 -1 0
 0 25 7 6
 1
 end_operator
@@ -15476,9 +15476,9 @@ begin_operator
 newcolfromfreecell da n3 n2 n10 n11
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 2 3
-0 14 -1 0
 0 25 7 6
 1
 end_operator
@@ -15486,9 +15486,9 @@ begin_operator
 newcolfromfreecell da n3 n2 n11 n12
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 3 4
-0 14 -1 0
 0 25 7 6
 1
 end_operator
@@ -15496,9 +15496,9 @@ begin_operator
 newcolfromfreecell da n3 n2 n12 n13
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 4 5
-0 14 -1 0
 0 25 7 6
 1
 end_operator
@@ -15506,9 +15506,9 @@ begin_operator
 newcolfromfreecell da n3 n2 n2 n3
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 6 7
-0 14 -1 0
 0 25 7 6
 1
 end_operator
@@ -15516,9 +15516,9 @@ begin_operator
 newcolfromfreecell da n3 n2 n3 n4
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 7 8
-0 14 -1 0
 0 25 7 6
 1
 end_operator
@@ -15526,9 +15526,9 @@ begin_operator
 newcolfromfreecell da n3 n2 n4 n5
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 8 9
-0 14 -1 0
 0 25 7 6
 1
 end_operator
@@ -15536,9 +15536,9 @@ begin_operator
 newcolfromfreecell da n3 n2 n5 n6
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 9 10
-0 14 -1 0
 0 25 7 6
 1
 end_operator
@@ -15546,9 +15546,9 @@ begin_operator
 newcolfromfreecell da n3 n2 n6 n7
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 10 11
-0 14 -1 0
 0 25 7 6
 1
 end_operator
@@ -15556,9 +15556,9 @@ begin_operator
 newcolfromfreecell da n3 n2 n7 n8
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 11 12
-0 14 -1 0
 0 25 7 6
 1
 end_operator
@@ -15566,9 +15566,9 @@ begin_operator
 newcolfromfreecell da n3 n2 n8 n9
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 12 13
-0 14 -1 0
 0 25 7 6
 1
 end_operator
@@ -15576,9 +15576,9 @@ begin_operator
 newcolfromfreecell da n3 n2 n9 n10
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 13 2
-0 14 -1 0
 0 25 7 6
 1
 end_operator
@@ -15586,9 +15586,9 @@ begin_operator
 newcolfromfreecell da n4 n3 n0 n1
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 0 1
-0 14 -1 0
 0 25 8 7
 1
 end_operator
@@ -15596,9 +15596,9 @@ begin_operator
 newcolfromfreecell da n4 n3 n1 n2
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 1 6
-0 14 -1 0
 0 25 8 7
 1
 end_operator
@@ -15606,9 +15606,9 @@ begin_operator
 newcolfromfreecell da n4 n3 n10 n11
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 2 3
-0 14 -1 0
 0 25 8 7
 1
 end_operator
@@ -15616,9 +15616,9 @@ begin_operator
 newcolfromfreecell da n4 n3 n11 n12
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 3 4
-0 14 -1 0
 0 25 8 7
 1
 end_operator
@@ -15626,9 +15626,9 @@ begin_operator
 newcolfromfreecell da n4 n3 n12 n13
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 4 5
-0 14 -1 0
 0 25 8 7
 1
 end_operator
@@ -15636,9 +15636,9 @@ begin_operator
 newcolfromfreecell da n4 n3 n2 n3
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 6 7
-0 14 -1 0
 0 25 8 7
 1
 end_operator
@@ -15646,9 +15646,9 @@ begin_operator
 newcolfromfreecell da n4 n3 n3 n4
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 7 8
-0 14 -1 0
 0 25 8 7
 1
 end_operator
@@ -15656,9 +15656,9 @@ begin_operator
 newcolfromfreecell da n4 n3 n4 n5
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 8 9
-0 14 -1 0
 0 25 8 7
 1
 end_operator
@@ -15666,9 +15666,9 @@ begin_operator
 newcolfromfreecell da n4 n3 n5 n6
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 9 10
-0 14 -1 0
 0 25 8 7
 1
 end_operator
@@ -15676,9 +15676,9 @@ begin_operator
 newcolfromfreecell da n4 n3 n6 n7
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 10 11
-0 14 -1 0
 0 25 8 7
 1
 end_operator
@@ -15686,9 +15686,9 @@ begin_operator
 newcolfromfreecell da n4 n3 n7 n8
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 11 12
-0 14 -1 0
 0 25 8 7
 1
 end_operator
@@ -15696,9 +15696,9 @@ begin_operator
 newcolfromfreecell da n4 n3 n8 n9
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 12 13
-0 14 -1 0
 0 25 8 7
 1
 end_operator
@@ -15706,9 +15706,9 @@ begin_operator
 newcolfromfreecell da n4 n3 n9 n10
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 13 2
-0 14 -1 0
 0 25 8 7
 1
 end_operator
@@ -15716,9 +15716,9 @@ begin_operator
 newcolfromfreecell da n5 n4 n0 n1
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 0 1
-0 14 -1 0
 0 25 9 8
 1
 end_operator
@@ -15726,9 +15726,9 @@ begin_operator
 newcolfromfreecell da n5 n4 n1 n2
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 1 6
-0 14 -1 0
 0 25 9 8
 1
 end_operator
@@ -15736,9 +15736,9 @@ begin_operator
 newcolfromfreecell da n5 n4 n10 n11
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 2 3
-0 14 -1 0
 0 25 9 8
 1
 end_operator
@@ -15746,9 +15746,9 @@ begin_operator
 newcolfromfreecell da n5 n4 n11 n12
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 3 4
-0 14 -1 0
 0 25 9 8
 1
 end_operator
@@ -15756,9 +15756,9 @@ begin_operator
 newcolfromfreecell da n5 n4 n12 n13
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 4 5
-0 14 -1 0
 0 25 9 8
 1
 end_operator
@@ -15766,9 +15766,9 @@ begin_operator
 newcolfromfreecell da n5 n4 n2 n3
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 6 7
-0 14 -1 0
 0 25 9 8
 1
 end_operator
@@ -15776,9 +15776,9 @@ begin_operator
 newcolfromfreecell da n5 n4 n3 n4
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 7 8
-0 14 -1 0
 0 25 9 8
 1
 end_operator
@@ -15786,9 +15786,9 @@ begin_operator
 newcolfromfreecell da n5 n4 n4 n5
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 8 9
-0 14 -1 0
 0 25 9 8
 1
 end_operator
@@ -15796,9 +15796,9 @@ begin_operator
 newcolfromfreecell da n5 n4 n5 n6
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 9 10
-0 14 -1 0
 0 25 9 8
 1
 end_operator
@@ -15806,9 +15806,9 @@ begin_operator
 newcolfromfreecell da n5 n4 n6 n7
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 10 11
-0 14 -1 0
 0 25 9 8
 1
 end_operator
@@ -15816,9 +15816,9 @@ begin_operator
 newcolfromfreecell da n5 n4 n7 n8
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 11 12
-0 14 -1 0
 0 25 9 8
 1
 end_operator
@@ -15826,9 +15826,9 @@ begin_operator
 newcolfromfreecell da n5 n4 n8 n9
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 12 13
-0 14 -1 0
 0 25 9 8
 1
 end_operator
@@ -15836,9 +15836,9 @@ begin_operator
 newcolfromfreecell da n5 n4 n9 n10
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 13 2
-0 14 -1 0
 0 25 9 8
 1
 end_operator
@@ -15846,9 +15846,9 @@ begin_operator
 newcolfromfreecell da n6 n5 n0 n1
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 0 1
-0 14 -1 0
 0 25 10 9
 1
 end_operator
@@ -15856,9 +15856,9 @@ begin_operator
 newcolfromfreecell da n6 n5 n1 n2
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 1 6
-0 14 -1 0
 0 25 10 9
 1
 end_operator
@@ -15866,9 +15866,9 @@ begin_operator
 newcolfromfreecell da n6 n5 n10 n11
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 2 3
-0 14 -1 0
 0 25 10 9
 1
 end_operator
@@ -15876,9 +15876,9 @@ begin_operator
 newcolfromfreecell da n6 n5 n11 n12
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 3 4
-0 14 -1 0
 0 25 10 9
 1
 end_operator
@@ -15886,9 +15886,9 @@ begin_operator
 newcolfromfreecell da n6 n5 n12 n13
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 4 5
-0 14 -1 0
 0 25 10 9
 1
 end_operator
@@ -15896,9 +15896,9 @@ begin_operator
 newcolfromfreecell da n6 n5 n2 n3
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 6 7
-0 14 -1 0
 0 25 10 9
 1
 end_operator
@@ -15906,9 +15906,9 @@ begin_operator
 newcolfromfreecell da n6 n5 n3 n4
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 7 8
-0 14 -1 0
 0 25 10 9
 1
 end_operator
@@ -15916,9 +15916,9 @@ begin_operator
 newcolfromfreecell da n6 n5 n4 n5
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 8 9
-0 14 -1 0
 0 25 10 9
 1
 end_operator
@@ -15926,9 +15926,9 @@ begin_operator
 newcolfromfreecell da n6 n5 n5 n6
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 9 10
-0 14 -1 0
 0 25 10 9
 1
 end_operator
@@ -15936,9 +15936,9 @@ begin_operator
 newcolfromfreecell da n6 n5 n6 n7
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 10 11
-0 14 -1 0
 0 25 10 9
 1
 end_operator
@@ -15946,9 +15946,9 @@ begin_operator
 newcolfromfreecell da n6 n5 n7 n8
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 11 12
-0 14 -1 0
 0 25 10 9
 1
 end_operator
@@ -15956,9 +15956,9 @@ begin_operator
 newcolfromfreecell da n6 n5 n8 n9
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 12 13
-0 14 -1 0
 0 25 10 9
 1
 end_operator
@@ -15966,9 +15966,9 @@ begin_operator
 newcolfromfreecell da n6 n5 n9 n10
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 13 2
-0 14 -1 0
 0 25 10 9
 1
 end_operator
@@ -15976,9 +15976,9 @@ begin_operator
 newcolfromfreecell da n7 n6 n0 n1
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 0 1
-0 14 -1 0
 0 25 11 10
 1
 end_operator
@@ -15986,9 +15986,9 @@ begin_operator
 newcolfromfreecell da n7 n6 n1 n2
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 1 6
-0 14 -1 0
 0 25 11 10
 1
 end_operator
@@ -15996,9 +15996,9 @@ begin_operator
 newcolfromfreecell da n7 n6 n10 n11
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 2 3
-0 14 -1 0
 0 25 11 10
 1
 end_operator
@@ -16006,9 +16006,9 @@ begin_operator
 newcolfromfreecell da n7 n6 n11 n12
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 3 4
-0 14 -1 0
 0 25 11 10
 1
 end_operator
@@ -16016,9 +16016,9 @@ begin_operator
 newcolfromfreecell da n7 n6 n12 n13
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 4 5
-0 14 -1 0
 0 25 11 10
 1
 end_operator
@@ -16026,9 +16026,9 @@ begin_operator
 newcolfromfreecell da n7 n6 n2 n3
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 6 7
-0 14 -1 0
 0 25 11 10
 1
 end_operator
@@ -16036,9 +16036,9 @@ begin_operator
 newcolfromfreecell da n7 n6 n3 n4
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 7 8
-0 14 -1 0
 0 25 11 10
 1
 end_operator
@@ -16046,9 +16046,9 @@ begin_operator
 newcolfromfreecell da n7 n6 n4 n5
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 8 9
-0 14 -1 0
 0 25 11 10
 1
 end_operator
@@ -16056,9 +16056,9 @@ begin_operator
 newcolfromfreecell da n7 n6 n5 n6
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 9 10
-0 14 -1 0
 0 25 11 10
 1
 end_operator
@@ -16066,9 +16066,9 @@ begin_operator
 newcolfromfreecell da n7 n6 n6 n7
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 10 11
-0 14 -1 0
 0 25 11 10
 1
 end_operator
@@ -16076,9 +16076,9 @@ begin_operator
 newcolfromfreecell da n7 n6 n7 n8
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 11 12
-0 14 -1 0
 0 25 11 10
 1
 end_operator
@@ -16086,9 +16086,9 @@ begin_operator
 newcolfromfreecell da n7 n6 n8 n9
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 12 13
-0 14 -1 0
 0 25 11 10
 1
 end_operator
@@ -16096,9 +16096,9 @@ begin_operator
 newcolfromfreecell da n7 n6 n9 n10
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 13 2
-0 14 -1 0
 0 25 11 10
 1
 end_operator
@@ -16106,9 +16106,9 @@ begin_operator
 newcolfromfreecell da n8 n7 n0 n1
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 0 1
-0 14 -1 0
 0 25 12 11
 1
 end_operator
@@ -16116,9 +16116,9 @@ begin_operator
 newcolfromfreecell da n8 n7 n1 n2
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 1 6
-0 14 -1 0
 0 25 12 11
 1
 end_operator
@@ -16126,9 +16126,9 @@ begin_operator
 newcolfromfreecell da n8 n7 n10 n11
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 2 3
-0 14 -1 0
 0 25 12 11
 1
 end_operator
@@ -16136,9 +16136,9 @@ begin_operator
 newcolfromfreecell da n8 n7 n11 n12
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 3 4
-0 14 -1 0
 0 25 12 11
 1
 end_operator
@@ -16146,9 +16146,9 @@ begin_operator
 newcolfromfreecell da n8 n7 n12 n13
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 4 5
-0 14 -1 0
 0 25 12 11
 1
 end_operator
@@ -16156,9 +16156,9 @@ begin_operator
 newcolfromfreecell da n8 n7 n2 n3
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 6 7
-0 14 -1 0
 0 25 12 11
 1
 end_operator
@@ -16166,9 +16166,9 @@ begin_operator
 newcolfromfreecell da n8 n7 n3 n4
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 7 8
-0 14 -1 0
 0 25 12 11
 1
 end_operator
@@ -16176,9 +16176,9 @@ begin_operator
 newcolfromfreecell da n8 n7 n4 n5
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 8 9
-0 14 -1 0
 0 25 12 11
 1
 end_operator
@@ -16186,9 +16186,9 @@ begin_operator
 newcolfromfreecell da n8 n7 n5 n6
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 9 10
-0 14 -1 0
 0 25 12 11
 1
 end_operator
@@ -16196,9 +16196,9 @@ begin_operator
 newcolfromfreecell da n8 n7 n6 n7
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 10 11
-0 14 -1 0
 0 25 12 11
 1
 end_operator
@@ -16206,9 +16206,9 @@ begin_operator
 newcolfromfreecell da n8 n7 n7 n8
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 11 12
-0 14 -1 0
 0 25 12 11
 1
 end_operator
@@ -16216,9 +16216,9 @@ begin_operator
 newcolfromfreecell da n8 n7 n8 n9
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 12 13
-0 14 -1 0
 0 25 12 11
 1
 end_operator
@@ -16226,9 +16226,9 @@ begin_operator
 newcolfromfreecell da n8 n7 n9 n10
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 13 2
-0 14 -1 0
 0 25 12 11
 1
 end_operator
@@ -16236,9 +16236,9 @@ begin_operator
 newcolfromfreecell da n9 n8 n0 n1
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 0 1
-0 14 -1 0
 0 25 13 12
 1
 end_operator
@@ -16246,9 +16246,9 @@ begin_operator
 newcolfromfreecell da n9 n8 n1 n2
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 1 6
-0 14 -1 0
 0 25 13 12
 1
 end_operator
@@ -16256,9 +16256,9 @@ begin_operator
 newcolfromfreecell da n9 n8 n10 n11
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 2 3
-0 14 -1 0
 0 25 13 12
 1
 end_operator
@@ -16266,9 +16266,9 @@ begin_operator
 newcolfromfreecell da n9 n8 n11 n12
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 3 4
-0 14 -1 0
 0 25 13 12
 1
 end_operator
@@ -16276,9 +16276,9 @@ begin_operator
 newcolfromfreecell da n9 n8 n12 n13
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 4 5
-0 14 -1 0
 0 25 13 12
 1
 end_operator
@@ -16286,9 +16286,9 @@ begin_operator
 newcolfromfreecell da n9 n8 n2 n3
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 6 7
-0 14 -1 0
 0 25 13 12
 1
 end_operator
@@ -16296,9 +16296,9 @@ begin_operator
 newcolfromfreecell da n9 n8 n3 n4
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 7 8
-0 14 -1 0
 0 25 13 12
 1
 end_operator
@@ -16306,9 +16306,9 @@ begin_operator
 newcolfromfreecell da n9 n8 n4 n5
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 8 9
-0 14 -1 0
 0 25 13 12
 1
 end_operator
@@ -16316,9 +16316,9 @@ begin_operator
 newcolfromfreecell da n9 n8 n5 n6
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 9 10
-0 14 -1 0
 0 25 13 12
 1
 end_operator
@@ -16326,9 +16326,9 @@ begin_operator
 newcolfromfreecell da n9 n8 n6 n7
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 10 11
-0 14 -1 0
 0 25 13 12
 1
 end_operator
@@ -16336,9 +16336,9 @@ begin_operator
 newcolfromfreecell da n9 n8 n7 n8
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 11 12
-0 14 -1 0
 0 25 13 12
 1
 end_operator
@@ -16346,9 +16346,9 @@ begin_operator
 newcolfromfreecell da n9 n8 n8 n9
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 12 13
-0 14 -1 0
 0 25 13 12
 1
 end_operator
@@ -16356,9 +16356,9 @@ begin_operator
 newcolfromfreecell da n9 n8 n9 n10
 0
 4
+0 14 -1 0
 0 15 2 0
 0 24 13 2
-0 14 -1 0
 0 25 13 12
 1
 end_operator
@@ -16367,8 +16367,8 @@ newcolfromfreecell h2 n1 n0 n0 n1
 0
 4
 0 18 -1 0
-0 24 0 1
 0 19 2 0
+0 24 0 1
 0 25 1 0
 1
 end_operator
@@ -16377,8 +16377,8 @@ newcolfromfreecell h2 n1 n0 n1 n2
 0
 4
 0 18 -1 0
-0 24 1 6
 0 19 2 0
+0 24 1 6
 0 25 1 0
 1
 end_operator
@@ -16387,8 +16387,8 @@ newcolfromfreecell h2 n1 n0 n10 n11
 0
 4
 0 18 -1 0
-0 24 2 3
 0 19 2 0
+0 24 2 3
 0 25 1 0
 1
 end_operator
@@ -16397,8 +16397,8 @@ newcolfromfreecell h2 n1 n0 n11 n12
 0
 4
 0 18 -1 0
-0 24 3 4
 0 19 2 0
+0 24 3 4
 0 25 1 0
 1
 end_operator
@@ -16407,8 +16407,8 @@ newcolfromfreecell h2 n1 n0 n12 n13
 0
 4
 0 18 -1 0
-0 24 4 5
 0 19 2 0
+0 24 4 5
 0 25 1 0
 1
 end_operator
@@ -16417,8 +16417,8 @@ newcolfromfreecell h2 n1 n0 n2 n3
 0
 4
 0 18 -1 0
-0 24 6 7
 0 19 2 0
+0 24 6 7
 0 25 1 0
 1
 end_operator
@@ -16427,8 +16427,8 @@ newcolfromfreecell h2 n1 n0 n3 n4
 0
 4
 0 18 -1 0
-0 24 7 8
 0 19 2 0
+0 24 7 8
 0 25 1 0
 1
 end_operator
@@ -16437,8 +16437,8 @@ newcolfromfreecell h2 n1 n0 n4 n5
 0
 4
 0 18 -1 0
-0 24 8 9
 0 19 2 0
+0 24 8 9
 0 25 1 0
 1
 end_operator
@@ -16447,8 +16447,8 @@ newcolfromfreecell h2 n1 n0 n5 n6
 0
 4
 0 18 -1 0
-0 24 9 10
 0 19 2 0
+0 24 9 10
 0 25 1 0
 1
 end_operator
@@ -16457,8 +16457,8 @@ newcolfromfreecell h2 n1 n0 n6 n7
 0
 4
 0 18 -1 0
-0 24 10 11
 0 19 2 0
+0 24 10 11
 0 25 1 0
 1
 end_operator
@@ -16467,8 +16467,8 @@ newcolfromfreecell h2 n1 n0 n7 n8
 0
 4
 0 18 -1 0
-0 24 11 12
 0 19 2 0
+0 24 11 12
 0 25 1 0
 1
 end_operator
@@ -16477,8 +16477,8 @@ newcolfromfreecell h2 n1 n0 n8 n9
 0
 4
 0 18 -1 0
-0 24 12 13
 0 19 2 0
+0 24 12 13
 0 25 1 0
 1
 end_operator
@@ -16487,8 +16487,8 @@ newcolfromfreecell h2 n1 n0 n9 n10
 0
 4
 0 18 -1 0
-0 24 13 2
 0 19 2 0
+0 24 13 2
 0 25 1 0
 1
 end_operator
@@ -16497,8 +16497,8 @@ newcolfromfreecell h2 n10 n9 n0 n1
 0
 4
 0 18 -1 0
-0 24 0 1
 0 19 2 0
+0 24 0 1
 0 25 2 13
 1
 end_operator
@@ -16507,8 +16507,8 @@ newcolfromfreecell h2 n10 n9 n1 n2
 0
 4
 0 18 -1 0
-0 24 1 6
 0 19 2 0
+0 24 1 6
 0 25 2 13
 1
 end_operator
@@ -16517,8 +16517,8 @@ newcolfromfreecell h2 n10 n9 n10 n11
 0
 4
 0 18 -1 0
-0 24 2 3
 0 19 2 0
+0 24 2 3
 0 25 2 13
 1
 end_operator
@@ -16527,8 +16527,8 @@ newcolfromfreecell h2 n10 n9 n11 n12
 0
 4
 0 18 -1 0
-0 24 3 4
 0 19 2 0
+0 24 3 4
 0 25 2 13
 1
 end_operator
@@ -16537,8 +16537,8 @@ newcolfromfreecell h2 n10 n9 n12 n13
 0
 4
 0 18 -1 0
-0 24 4 5
 0 19 2 0
+0 24 4 5
 0 25 2 13
 1
 end_operator
@@ -16547,8 +16547,8 @@ newcolfromfreecell h2 n10 n9 n2 n3
 0
 4
 0 18 -1 0
-0 24 6 7
 0 19 2 0
+0 24 6 7
 0 25 2 13
 1
 end_operator
@@ -16557,8 +16557,8 @@ newcolfromfreecell h2 n10 n9 n3 n4
 0
 4
 0 18 -1 0
-0 24 7 8
 0 19 2 0
+0 24 7 8
 0 25 2 13
 1
 end_operator
@@ -16567,8 +16567,8 @@ newcolfromfreecell h2 n10 n9 n4 n5
 0
 4
 0 18 -1 0
-0 24 8 9
 0 19 2 0
+0 24 8 9
 0 25 2 13
 1
 end_operator
@@ -16577,8 +16577,8 @@ newcolfromfreecell h2 n10 n9 n5 n6
 0
 4
 0 18 -1 0
-0 24 9 10
 0 19 2 0
+0 24 9 10
 0 25 2 13
 1
 end_operator
@@ -16587,8 +16587,8 @@ newcolfromfreecell h2 n10 n9 n6 n7
 0
 4
 0 18 -1 0
-0 24 10 11
 0 19 2 0
+0 24 10 11
 0 25 2 13
 1
 end_operator
@@ -16597,8 +16597,8 @@ newcolfromfreecell h2 n10 n9 n7 n8
 0
 4
 0 18 -1 0
-0 24 11 12
 0 19 2 0
+0 24 11 12
 0 25 2 13
 1
 end_operator
@@ -16607,8 +16607,8 @@ newcolfromfreecell h2 n10 n9 n8 n9
 0
 4
 0 18 -1 0
-0 24 12 13
 0 19 2 0
+0 24 12 13
 0 25 2 13
 1
 end_operator
@@ -16617,8 +16617,8 @@ newcolfromfreecell h2 n10 n9 n9 n10
 0
 4
 0 18 -1 0
-0 24 13 2
 0 19 2 0
+0 24 13 2
 0 25 2 13
 1
 end_operator
@@ -16627,8 +16627,8 @@ newcolfromfreecell h2 n11 n10 n0 n1
 0
 4
 0 18 -1 0
-0 24 0 1
 0 19 2 0
+0 24 0 1
 0 25 3 2
 1
 end_operator
@@ -16637,8 +16637,8 @@ newcolfromfreecell h2 n11 n10 n1 n2
 0
 4
 0 18 -1 0
-0 24 1 6
 0 19 2 0
+0 24 1 6
 0 25 3 2
 1
 end_operator
@@ -16647,8 +16647,8 @@ newcolfromfreecell h2 n11 n10 n10 n11
 0
 4
 0 18 -1 0
-0 24 2 3
 0 19 2 0
+0 24 2 3
 0 25 3 2
 1
 end_operator
@@ -16657,8 +16657,8 @@ newcolfromfreecell h2 n11 n10 n11 n12
 0
 4
 0 18 -1 0
-0 24 3 4
 0 19 2 0
+0 24 3 4
 0 25 3 2
 1
 end_operator
@@ -16667,8 +16667,8 @@ newcolfromfreecell h2 n11 n10 n12 n13
 0
 4
 0 18 -1 0
-0 24 4 5
 0 19 2 0
+0 24 4 5
 0 25 3 2
 1
 end_operator
@@ -16677,8 +16677,8 @@ newcolfromfreecell h2 n11 n10 n2 n3
 0
 4
 0 18 -1 0
-0 24 6 7
 0 19 2 0
+0 24 6 7
 0 25 3 2
 1
 end_operator
@@ -16687,8 +16687,8 @@ newcolfromfreecell h2 n11 n10 n3 n4
 0
 4
 0 18 -1 0
-0 24 7 8
 0 19 2 0
+0 24 7 8
 0 25 3 2
 1
 end_operator
@@ -16697,8 +16697,8 @@ newcolfromfreecell h2 n11 n10 n4 n5
 0
 4
 0 18 -1 0
-0 24 8 9
 0 19 2 0
+0 24 8 9
 0 25 3 2
 1
 end_operator
@@ -16707,8 +16707,8 @@ newcolfromfreecell h2 n11 n10 n5 n6
 0
 4
 0 18 -1 0
-0 24 9 10
 0 19 2 0
+0 24 9 10
 0 25 3 2
 1
 end_operator
@@ -16717,8 +16717,8 @@ newcolfromfreecell h2 n11 n10 n6 n7
 0
 4
 0 18 -1 0
-0 24 10 11
 0 19 2 0
+0 24 10 11
 0 25 3 2
 1
 end_operator
@@ -16727,8 +16727,8 @@ newcolfromfreecell h2 n11 n10 n7 n8
 0
 4
 0 18 -1 0
-0 24 11 12
 0 19 2 0
+0 24 11 12
 0 25 3 2
 1
 end_operator
@@ -16737,8 +16737,8 @@ newcolfromfreecell h2 n11 n10 n8 n9
 0
 4
 0 18 -1 0
-0 24 12 13
 0 19 2 0
+0 24 12 13
 0 25 3 2
 1
 end_operator
@@ -16747,8 +16747,8 @@ newcolfromfreecell h2 n11 n10 n9 n10
 0
 4
 0 18 -1 0
-0 24 13 2
 0 19 2 0
+0 24 13 2
 0 25 3 2
 1
 end_operator
@@ -16757,8 +16757,8 @@ newcolfromfreecell h2 n12 n11 n0 n1
 0
 4
 0 18 -1 0
-0 24 0 1
 0 19 2 0
+0 24 0 1
 0 25 4 3
 1
 end_operator
@@ -16767,8 +16767,8 @@ newcolfromfreecell h2 n12 n11 n1 n2
 0
 4
 0 18 -1 0
-0 24 1 6
 0 19 2 0
+0 24 1 6
 0 25 4 3
 1
 end_operator
@@ -16777,8 +16777,8 @@ newcolfromfreecell h2 n12 n11 n10 n11
 0
 4
 0 18 -1 0
-0 24 2 3
 0 19 2 0
+0 24 2 3
 0 25 4 3
 1
 end_operator
@@ -16787,8 +16787,8 @@ newcolfromfreecell h2 n12 n11 n11 n12
 0
 4
 0 18 -1 0
-0 24 3 4
 0 19 2 0
+0 24 3 4
 0 25 4 3
 1
 end_operator
@@ -16797,8 +16797,8 @@ newcolfromfreecell h2 n12 n11 n12 n13
 0
 4
 0 18 -1 0
-0 24 4 5
 0 19 2 0
+0 24 4 5
 0 25 4 3
 1
 end_operator
@@ -16807,8 +16807,8 @@ newcolfromfreecell h2 n12 n11 n2 n3
 0
 4
 0 18 -1 0
-0 24 6 7
 0 19 2 0
+0 24 6 7
 0 25 4 3
 1
 end_operator
@@ -16817,8 +16817,8 @@ newcolfromfreecell h2 n12 n11 n3 n4
 0
 4
 0 18 -1 0
-0 24 7 8
 0 19 2 0
+0 24 7 8
 0 25 4 3
 1
 end_operator
@@ -16827,8 +16827,8 @@ newcolfromfreecell h2 n12 n11 n4 n5
 0
 4
 0 18 -1 0
-0 24 8 9
 0 19 2 0
+0 24 8 9
 0 25 4 3
 1
 end_operator
@@ -16837,8 +16837,8 @@ newcolfromfreecell h2 n12 n11 n5 n6
 0
 4
 0 18 -1 0
-0 24 9 10
 0 19 2 0
+0 24 9 10
 0 25 4 3
 1
 end_operator
@@ -16847,8 +16847,8 @@ newcolfromfreecell h2 n12 n11 n6 n7
 0
 4
 0 18 -1 0
-0 24 10 11
 0 19 2 0
+0 24 10 11
 0 25 4 3
 1
 end_operator
@@ -16857,8 +16857,8 @@ newcolfromfreecell h2 n12 n11 n7 n8
 0
 4
 0 18 -1 0
-0 24 11 12
 0 19 2 0
+0 24 11 12
 0 25 4 3
 1
 end_operator
@@ -16867,8 +16867,8 @@ newcolfromfreecell h2 n12 n11 n8 n9
 0
 4
 0 18 -1 0
-0 24 12 13
 0 19 2 0
+0 24 12 13
 0 25 4 3
 1
 end_operator
@@ -16877,8 +16877,8 @@ newcolfromfreecell h2 n12 n11 n9 n10
 0
 4
 0 18 -1 0
-0 24 13 2
 0 19 2 0
+0 24 13 2
 0 25 4 3
 1
 end_operator
@@ -16887,8 +16887,8 @@ newcolfromfreecell h2 n13 n12 n0 n1
 0
 4
 0 18 -1 0
-0 24 0 1
 0 19 2 0
+0 24 0 1
 0 25 5 4
 1
 end_operator
@@ -16897,8 +16897,8 @@ newcolfromfreecell h2 n13 n12 n1 n2
 0
 4
 0 18 -1 0
-0 24 1 6
 0 19 2 0
+0 24 1 6
 0 25 5 4
 1
 end_operator
@@ -16907,8 +16907,8 @@ newcolfromfreecell h2 n13 n12 n10 n11
 0
 4
 0 18 -1 0
-0 24 2 3
 0 19 2 0
+0 24 2 3
 0 25 5 4
 1
 end_operator
@@ -16917,8 +16917,8 @@ newcolfromfreecell h2 n13 n12 n11 n12
 0
 4
 0 18 -1 0
-0 24 3 4
 0 19 2 0
+0 24 3 4
 0 25 5 4
 1
 end_operator
@@ -16927,8 +16927,8 @@ newcolfromfreecell h2 n13 n12 n12 n13
 0
 4
 0 18 -1 0
-0 24 4 5
 0 19 2 0
+0 24 4 5
 0 25 5 4
 1
 end_operator
@@ -16937,8 +16937,8 @@ newcolfromfreecell h2 n13 n12 n2 n3
 0
 4
 0 18 -1 0
-0 24 6 7
 0 19 2 0
+0 24 6 7
 0 25 5 4
 1
 end_operator
@@ -16947,8 +16947,8 @@ newcolfromfreecell h2 n13 n12 n3 n4
 0
 4
 0 18 -1 0
-0 24 7 8
 0 19 2 0
+0 24 7 8
 0 25 5 4
 1
 end_operator
@@ -16957,8 +16957,8 @@ newcolfromfreecell h2 n13 n12 n4 n5
 0
 4
 0 18 -1 0
-0 24 8 9
 0 19 2 0
+0 24 8 9
 0 25 5 4
 1
 end_operator
@@ -16967,8 +16967,8 @@ newcolfromfreecell h2 n13 n12 n5 n6
 0
 4
 0 18 -1 0
-0 24 9 10
 0 19 2 0
+0 24 9 10
 0 25 5 4
 1
 end_operator
@@ -16977,8 +16977,8 @@ newcolfromfreecell h2 n13 n12 n6 n7
 0
 4
 0 18 -1 0
-0 24 10 11
 0 19 2 0
+0 24 10 11
 0 25 5 4
 1
 end_operator
@@ -16987,8 +16987,8 @@ newcolfromfreecell h2 n13 n12 n7 n8
 0
 4
 0 18 -1 0
-0 24 11 12
 0 19 2 0
+0 24 11 12
 0 25 5 4
 1
 end_operator
@@ -16997,8 +16997,8 @@ newcolfromfreecell h2 n13 n12 n8 n9
 0
 4
 0 18 -1 0
-0 24 12 13
 0 19 2 0
+0 24 12 13
 0 25 5 4
 1
 end_operator
@@ -17007,8 +17007,8 @@ newcolfromfreecell h2 n13 n12 n9 n10
 0
 4
 0 18 -1 0
-0 24 13 2
 0 19 2 0
+0 24 13 2
 0 25 5 4
 1
 end_operator
@@ -17017,8 +17017,8 @@ newcolfromfreecell h2 n2 n1 n0 n1
 0
 4
 0 18 -1 0
-0 24 0 1
 0 19 2 0
+0 24 0 1
 0 25 6 1
 1
 end_operator
@@ -17027,8 +17027,8 @@ newcolfromfreecell h2 n2 n1 n1 n2
 0
 4
 0 18 -1 0
-0 24 1 6
 0 19 2 0
+0 24 1 6
 0 25 6 1
 1
 end_operator
@@ -17037,8 +17037,8 @@ newcolfromfreecell h2 n2 n1 n10 n11
 0
 4
 0 18 -1 0
-0 24 2 3
 0 19 2 0
+0 24 2 3
 0 25 6 1
 1
 end_operator
@@ -17047,8 +17047,8 @@ newcolfromfreecell h2 n2 n1 n11 n12
 0
 4
 0 18 -1 0
-0 24 3 4
 0 19 2 0
+0 24 3 4
 0 25 6 1
 1
 end_operator
@@ -17057,8 +17057,8 @@ newcolfromfreecell h2 n2 n1 n12 n13
 0
 4
 0 18 -1 0
-0 24 4 5
 0 19 2 0
+0 24 4 5
 0 25 6 1
 1
 end_operator
@@ -17067,8 +17067,8 @@ newcolfromfreecell h2 n2 n1 n2 n3
 0
 4
 0 18 -1 0
-0 24 6 7
 0 19 2 0
+0 24 6 7
 0 25 6 1
 1
 end_operator
@@ -17077,8 +17077,8 @@ newcolfromfreecell h2 n2 n1 n3 n4
 0
 4
 0 18 -1 0
-0 24 7 8
 0 19 2 0
+0 24 7 8
 0 25 6 1
 1
 end_operator
@@ -17087,8 +17087,8 @@ newcolfromfreecell h2 n2 n1 n4 n5
 0
 4
 0 18 -1 0
-0 24 8 9
 0 19 2 0
+0 24 8 9
 0 25 6 1
 1
 end_operator
@@ -17097,8 +17097,8 @@ newcolfromfreecell h2 n2 n1 n5 n6
 0
 4
 0 18 -1 0
-0 24 9 10
 0 19 2 0
+0 24 9 10
 0 25 6 1
 1
 end_operator
@@ -17107,8 +17107,8 @@ newcolfromfreecell h2 n2 n1 n6 n7
 0
 4
 0 18 -1 0
-0 24 10 11
 0 19 2 0
+0 24 10 11
 0 25 6 1
 1
 end_operator
@@ -17117,8 +17117,8 @@ newcolfromfreecell h2 n2 n1 n7 n8
 0
 4
 0 18 -1 0
-0 24 11 12
 0 19 2 0
+0 24 11 12
 0 25 6 1
 1
 end_operator
@@ -17127,8 +17127,8 @@ newcolfromfreecell h2 n2 n1 n8 n9
 0
 4
 0 18 -1 0
-0 24 12 13
 0 19 2 0
+0 24 12 13
 0 25 6 1
 1
 end_operator
@@ -17137,8 +17137,8 @@ newcolfromfreecell h2 n2 n1 n9 n10
 0
 4
 0 18 -1 0
-0 24 13 2
 0 19 2 0
+0 24 13 2
 0 25 6 1
 1
 end_operator
@@ -17147,8 +17147,8 @@ newcolfromfreecell h2 n3 n2 n0 n1
 0
 4
 0 18 -1 0
-0 24 0 1
 0 19 2 0
+0 24 0 1
 0 25 7 6
 1
 end_operator
@@ -17157,8 +17157,8 @@ newcolfromfreecell h2 n3 n2 n1 n2
 0
 4
 0 18 -1 0
-0 24 1 6
 0 19 2 0
+0 24 1 6
 0 25 7 6
 1
 end_operator
@@ -17167,8 +17167,8 @@ newcolfromfreecell h2 n3 n2 n10 n11
 0
 4
 0 18 -1 0
-0 24 2 3
 0 19 2 0
+0 24 2 3
 0 25 7 6
 1
 end_operator
@@ -17177,8 +17177,8 @@ newcolfromfreecell h2 n3 n2 n11 n12
 0
 4
 0 18 -1 0
-0 24 3 4
 0 19 2 0
+0 24 3 4
 0 25 7 6
 1
 end_operator
@@ -17187,8 +17187,8 @@ newcolfromfreecell h2 n3 n2 n12 n13
 0
 4
 0 18 -1 0
-0 24 4 5
 0 19 2 0
+0 24 4 5
 0 25 7 6
 1
 end_operator
@@ -17197,8 +17197,8 @@ newcolfromfreecell h2 n3 n2 n2 n3
 0
 4
 0 18 -1 0
-0 24 6 7
 0 19 2 0
+0 24 6 7
 0 25 7 6
 1
 end_operator
@@ -17207,8 +17207,8 @@ newcolfromfreecell h2 n3 n2 n3 n4
 0
 4
 0 18 -1 0
-0 24 7 8
 0 19 2 0
+0 24 7 8
 0 25 7 6
 1
 end_operator
@@ -17217,8 +17217,8 @@ newcolfromfreecell h2 n3 n2 n4 n5
 0
 4
 0 18 -1 0
-0 24 8 9
 0 19 2 0
+0 24 8 9
 0 25 7 6
 1
 end_operator
@@ -17227,8 +17227,8 @@ newcolfromfreecell h2 n3 n2 n5 n6
 0
 4
 0 18 -1 0
-0 24 9 10
 0 19 2 0
+0 24 9 10
 0 25 7 6
 1
 end_operator
@@ -17237,8 +17237,8 @@ newcolfromfreecell h2 n3 n2 n6 n7
 0
 4
 0 18 -1 0
-0 24 10 11
 0 19 2 0
+0 24 10 11
 0 25 7 6
 1
 end_operator
@@ -17247,8 +17247,8 @@ newcolfromfreecell h2 n3 n2 n7 n8
 0
 4
 0 18 -1 0
-0 24 11 12
 0 19 2 0
+0 24 11 12
 0 25 7 6
 1
 end_operator
@@ -17257,8 +17257,8 @@ newcolfromfreecell h2 n3 n2 n8 n9
 0
 4
 0 18 -1 0
-0 24 12 13
 0 19 2 0
+0 24 12 13
 0 25 7 6
 1
 end_operator
@@ -17267,8 +17267,8 @@ newcolfromfreecell h2 n3 n2 n9 n10
 0
 4
 0 18 -1 0
-0 24 13 2
 0 19 2 0
+0 24 13 2
 0 25 7 6
 1
 end_operator
@@ -17277,8 +17277,8 @@ newcolfromfreecell h2 n4 n3 n0 n1
 0
 4
 0 18 -1 0
-0 24 0 1
 0 19 2 0
+0 24 0 1
 0 25 8 7
 1
 end_operator
@@ -17287,8 +17287,8 @@ newcolfromfreecell h2 n4 n3 n1 n2
 0
 4
 0 18 -1 0
-0 24 1 6
 0 19 2 0
+0 24 1 6
 0 25 8 7
 1
 end_operator
@@ -17297,8 +17297,8 @@ newcolfromfreecell h2 n4 n3 n10 n11
 0
 4
 0 18 -1 0
-0 24 2 3
 0 19 2 0
+0 24 2 3
 0 25 8 7
 1
 end_operator
@@ -17307,8 +17307,8 @@ newcolfromfreecell h2 n4 n3 n11 n12
 0
 4
 0 18 -1 0
-0 24 3 4
 0 19 2 0
+0 24 3 4
 0 25 8 7
 1
 end_operator
@@ -17317,8 +17317,8 @@ newcolfromfreecell h2 n4 n3 n12 n13
 0
 4
 0 18 -1 0
-0 24 4 5
 0 19 2 0
+0 24 4 5
 0 25 8 7
 1
 end_operator
@@ -17327,8 +17327,8 @@ newcolfromfreecell h2 n4 n3 n2 n3
 0
 4
 0 18 -1 0
-0 24 6 7
 0 19 2 0
+0 24 6 7
 0 25 8 7
 1
 end_operator
@@ -17337,8 +17337,8 @@ newcolfromfreecell h2 n4 n3 n3 n4
 0
 4
 0 18 -1 0
-0 24 7 8
 0 19 2 0
+0 24 7 8
 0 25 8 7
 1
 end_operator
@@ -17347,8 +17347,8 @@ newcolfromfreecell h2 n4 n3 n4 n5
 0
 4
 0 18 -1 0
-0 24 8 9
 0 19 2 0
+0 24 8 9
 0 25 8 7
 1
 end_operator
@@ -17357,8 +17357,8 @@ newcolfromfreecell h2 n4 n3 n5 n6
 0
 4
 0 18 -1 0
-0 24 9 10
 0 19 2 0
+0 24 9 10
 0 25 8 7
 1
 end_operator
@@ -17367,8 +17367,8 @@ newcolfromfreecell h2 n4 n3 n6 n7
 0
 4
 0 18 -1 0
-0 24 10 11
 0 19 2 0
+0 24 10 11
 0 25 8 7
 1
 end_operator
@@ -17377,8 +17377,8 @@ newcolfromfreecell h2 n4 n3 n7 n8
 0
 4
 0 18 -1 0
-0 24 11 12
 0 19 2 0
+0 24 11 12
 0 25 8 7
 1
 end_operator
@@ -17387,8 +17387,8 @@ newcolfromfreecell h2 n4 n3 n8 n9
 0
 4
 0 18 -1 0
-0 24 12 13
 0 19 2 0
+0 24 12 13
 0 25 8 7
 1
 end_operator
@@ -17397,8 +17397,8 @@ newcolfromfreecell h2 n4 n3 n9 n10
 0
 4
 0 18 -1 0
-0 24 13 2
 0 19 2 0
+0 24 13 2
 0 25 8 7
 1
 end_operator
@@ -17407,8 +17407,8 @@ newcolfromfreecell h2 n5 n4 n0 n1
 0
 4
 0 18 -1 0
-0 24 0 1
 0 19 2 0
+0 24 0 1
 0 25 9 8
 1
 end_operator
@@ -17417,8 +17417,8 @@ newcolfromfreecell h2 n5 n4 n1 n2
 0
 4
 0 18 -1 0
-0 24 1 6
 0 19 2 0
+0 24 1 6
 0 25 9 8
 1
 end_operator
@@ -17427,8 +17427,8 @@ newcolfromfreecell h2 n5 n4 n10 n11
 0
 4
 0 18 -1 0
-0 24 2 3
 0 19 2 0
+0 24 2 3
 0 25 9 8
 1
 end_operator
@@ -17437,8 +17437,8 @@ newcolfromfreecell h2 n5 n4 n11 n12
 0
 4
 0 18 -1 0
-0 24 3 4
 0 19 2 0
+0 24 3 4
 0 25 9 8
 1
 end_operator
@@ -17447,8 +17447,8 @@ newcolfromfreecell h2 n5 n4 n12 n13
 0
 4
 0 18 -1 0
-0 24 4 5
 0 19 2 0
+0 24 4 5
 0 25 9 8
 1
 end_operator
@@ -17457,8 +17457,8 @@ newcolfromfreecell h2 n5 n4 n2 n3
 0
 4
 0 18 -1 0
-0 24 6 7
 0 19 2 0
+0 24 6 7
 0 25 9 8
 1
 end_operator
@@ -17467,8 +17467,8 @@ newcolfromfreecell h2 n5 n4 n3 n4
 0
 4
 0 18 -1 0
-0 24 7 8
 0 19 2 0
+0 24 7 8
 0 25 9 8
 1
 end_operator
@@ -17477,8 +17477,8 @@ newcolfromfreecell h2 n5 n4 n4 n5
 0
 4
 0 18 -1 0
-0 24 8 9
 0 19 2 0
+0 24 8 9
 0 25 9 8
 1
 end_operator
@@ -17487,8 +17487,8 @@ newcolfromfreecell h2 n5 n4 n5 n6
 0
 4
 0 18 -1 0
-0 24 9 10
 0 19 2 0
+0 24 9 10
 0 25 9 8
 1
 end_operator
@@ -17497,8 +17497,8 @@ newcolfromfreecell h2 n5 n4 n6 n7
 0
 4
 0 18 -1 0
-0 24 10 11
 0 19 2 0
+0 24 10 11
 0 25 9 8
 1
 end_operator
@@ -17507,8 +17507,8 @@ newcolfromfreecell h2 n5 n4 n7 n8
 0
 4
 0 18 -1 0
-0 24 11 12
 0 19 2 0
+0 24 11 12
 0 25 9 8
 1
 end_operator
@@ -17517,8 +17517,8 @@ newcolfromfreecell h2 n5 n4 n8 n9
 0
 4
 0 18 -1 0
-0 24 12 13
 0 19 2 0
+0 24 12 13
 0 25 9 8
 1
 end_operator
@@ -17527,8 +17527,8 @@ newcolfromfreecell h2 n5 n4 n9 n10
 0
 4
 0 18 -1 0
-0 24 13 2
 0 19 2 0
+0 24 13 2
 0 25 9 8
 1
 end_operator
@@ -17537,8 +17537,8 @@ newcolfromfreecell h2 n6 n5 n0 n1
 0
 4
 0 18 -1 0
-0 24 0 1
 0 19 2 0
+0 24 0 1
 0 25 10 9
 1
 end_operator
@@ -17547,8 +17547,8 @@ newcolfromfreecell h2 n6 n5 n1 n2
 0
 4
 0 18 -1 0
-0 24 1 6
 0 19 2 0
+0 24 1 6
 0 25 10 9
 1
 end_operator
@@ -17557,8 +17557,8 @@ newcolfromfreecell h2 n6 n5 n10 n11
 0
 4
 0 18 -1 0
-0 24 2 3
 0 19 2 0
+0 24 2 3
 0 25 10 9
 1
 end_operator
@@ -17567,8 +17567,8 @@ newcolfromfreecell h2 n6 n5 n11 n12
 0
 4
 0 18 -1 0
-0 24 3 4
 0 19 2 0
+0 24 3 4
 0 25 10 9
 1
 end_operator
@@ -17577,8 +17577,8 @@ newcolfromfreecell h2 n6 n5 n12 n13
 0
 4
 0 18 -1 0
-0 24 4 5
 0 19 2 0
+0 24 4 5
 0 25 10 9
 1
 end_operator
@@ -17587,8 +17587,8 @@ newcolfromfreecell h2 n6 n5 n2 n3
 0
 4
 0 18 -1 0
-0 24 6 7
 0 19 2 0
+0 24 6 7
 0 25 10 9
 1
 end_operator
@@ -17597,8 +17597,8 @@ newcolfromfreecell h2 n6 n5 n3 n4
 0
 4
 0 18 -1 0
-0 24 7 8
 0 19 2 0
+0 24 7 8
 0 25 10 9
 1
 end_operator
@@ -17607,8 +17607,8 @@ newcolfromfreecell h2 n6 n5 n4 n5
 0
 4
 0 18 -1 0
-0 24 8 9
 0 19 2 0
+0 24 8 9
 0 25 10 9
 1
 end_operator
@@ -17617,8 +17617,8 @@ newcolfromfreecell h2 n6 n5 n5 n6
 0
 4
 0 18 -1 0
-0 24 9 10
 0 19 2 0
+0 24 9 10
 0 25 10 9
 1
 end_operator
@@ -17627,8 +17627,8 @@ newcolfromfreecell h2 n6 n5 n6 n7
 0
 4
 0 18 -1 0
-0 24 10 11
 0 19 2 0
+0 24 10 11
 0 25 10 9
 1
 end_operator
@@ -17637,8 +17637,8 @@ newcolfromfreecell h2 n6 n5 n7 n8
 0
 4
 0 18 -1 0
-0 24 11 12
 0 19 2 0
+0 24 11 12
 0 25 10 9
 1
 end_operator
@@ -17647,8 +17647,8 @@ newcolfromfreecell h2 n6 n5 n8 n9
 0
 4
 0 18 -1 0
-0 24 12 13
 0 19 2 0
+0 24 12 13
 0 25 10 9
 1
 end_operator
@@ -17657,8 +17657,8 @@ newcolfromfreecell h2 n6 n5 n9 n10
 0
 4
 0 18 -1 0
-0 24 13 2
 0 19 2 0
+0 24 13 2
 0 25 10 9
 1
 end_operator
@@ -17667,8 +17667,8 @@ newcolfromfreecell h2 n7 n6 n0 n1
 0
 4
 0 18 -1 0
-0 24 0 1
 0 19 2 0
+0 24 0 1
 0 25 11 10
 1
 end_operator
@@ -17677,8 +17677,8 @@ newcolfromfreecell h2 n7 n6 n1 n2
 0
 4
 0 18 -1 0
-0 24 1 6
 0 19 2 0
+0 24 1 6
 0 25 11 10
 1
 end_operator
@@ -17687,8 +17687,8 @@ newcolfromfreecell h2 n7 n6 n10 n11
 0
 4
 0 18 -1 0
-0 24 2 3
 0 19 2 0
+0 24 2 3
 0 25 11 10
 1
 end_operator
@@ -17697,8 +17697,8 @@ newcolfromfreecell h2 n7 n6 n11 n12
 0
 4
 0 18 -1 0
-0 24 3 4
 0 19 2 0
+0 24 3 4
 0 25 11 10
 1
 end_operator
@@ -17707,8 +17707,8 @@ newcolfromfreecell h2 n7 n6 n12 n13
 0
 4
 0 18 -1 0
-0 24 4 5
 0 19 2 0
+0 24 4 5
 0 25 11 10
 1
 end_operator
@@ -17717,8 +17717,8 @@ newcolfromfreecell h2 n7 n6 n2 n3
 0
 4
 0 18 -1 0
-0 24 6 7
 0 19 2 0
+0 24 6 7
 0 25 11 10
 1
 end_operator
@@ -17727,8 +17727,8 @@ newcolfromfreecell h2 n7 n6 n3 n4
 0
 4
 0 18 -1 0
-0 24 7 8
 0 19 2 0
+0 24 7 8
 0 25 11 10
 1
 end_operator
@@ -17737,8 +17737,8 @@ newcolfromfreecell h2 n7 n6 n4 n5
 0
 4
 0 18 -1 0
-0 24 8 9
 0 19 2 0
+0 24 8 9
 0 25 11 10
 1
 end_operator
@@ -17747,8 +17747,8 @@ newcolfromfreecell h2 n7 n6 n5 n6
 0
 4
 0 18 -1 0
-0 24 9 10
 0 19 2 0
+0 24 9 10
 0 25 11 10
 1
 end_operator
@@ -17757,8 +17757,8 @@ newcolfromfreecell h2 n7 n6 n6 n7
 0
 4
 0 18 -1 0
-0 24 10 11
 0 19 2 0
+0 24 10 11
 0 25 11 10
 1
 end_operator
@@ -17767,8 +17767,8 @@ newcolfromfreecell h2 n7 n6 n7 n8
 0
 4
 0 18 -1 0
-0 24 11 12
 0 19 2 0
+0 24 11 12
 0 25 11 10
 1
 end_operator
@@ -17777,8 +17777,8 @@ newcolfromfreecell h2 n7 n6 n8 n9
 0
 4
 0 18 -1 0
-0 24 12 13
 0 19 2 0
+0 24 12 13
 0 25 11 10
 1
 end_operator
@@ -17787,8 +17787,8 @@ newcolfromfreecell h2 n7 n6 n9 n10
 0
 4
 0 18 -1 0
-0 24 13 2
 0 19 2 0
+0 24 13 2
 0 25 11 10
 1
 end_operator
@@ -17797,8 +17797,8 @@ newcolfromfreecell h2 n8 n7 n0 n1
 0
 4
 0 18 -1 0
-0 24 0 1
 0 19 2 0
+0 24 0 1
 0 25 12 11
 1
 end_operator
@@ -17807,8 +17807,8 @@ newcolfromfreecell h2 n8 n7 n1 n2
 0
 4
 0 18 -1 0
-0 24 1 6
 0 19 2 0
+0 24 1 6
 0 25 12 11
 1
 end_operator
@@ -17817,8 +17817,8 @@ newcolfromfreecell h2 n8 n7 n10 n11
 0
 4
 0 18 -1 0
-0 24 2 3
 0 19 2 0
+0 24 2 3
 0 25 12 11
 1
 end_operator
@@ -17827,8 +17827,8 @@ newcolfromfreecell h2 n8 n7 n11 n12
 0
 4
 0 18 -1 0
-0 24 3 4
 0 19 2 0
+0 24 3 4
 0 25 12 11
 1
 end_operator
@@ -17837,8 +17837,8 @@ newcolfromfreecell h2 n8 n7 n12 n13
 0
 4
 0 18 -1 0
-0 24 4 5
 0 19 2 0
+0 24 4 5
 0 25 12 11
 1
 end_operator
@@ -17847,8 +17847,8 @@ newcolfromfreecell h2 n8 n7 n2 n3
 0
 4
 0 18 -1 0
-0 24 6 7
 0 19 2 0
+0 24 6 7
 0 25 12 11
 1
 end_operator
@@ -17857,8 +17857,8 @@ newcolfromfreecell h2 n8 n7 n3 n4
 0
 4
 0 18 -1 0
-0 24 7 8
 0 19 2 0
+0 24 7 8
 0 25 12 11
 1
 end_operator
@@ -17867,8 +17867,8 @@ newcolfromfreecell h2 n8 n7 n4 n5
 0
 4
 0 18 -1 0
-0 24 8 9
 0 19 2 0
+0 24 8 9
 0 25 12 11
 1
 end_operator
@@ -17877,8 +17877,8 @@ newcolfromfreecell h2 n8 n7 n5 n6
 0
 4
 0 18 -1 0
-0 24 9 10
 0 19 2 0
+0 24 9 10
 0 25 12 11
 1
 end_operator
@@ -17887,8 +17887,8 @@ newcolfromfreecell h2 n8 n7 n6 n7
 0
 4
 0 18 -1 0
-0 24 10 11
 0 19 2 0
+0 24 10 11
 0 25 12 11
 1
 end_operator
@@ -17897,8 +17897,8 @@ newcolfromfreecell h2 n8 n7 n7 n8
 0
 4
 0 18 -1 0
-0 24 11 12
 0 19 2 0
+0 24 11 12
 0 25 12 11
 1
 end_operator
@@ -17907,8 +17907,8 @@ newcolfromfreecell h2 n8 n7 n8 n9
 0
 4
 0 18 -1 0
-0 24 12 13
 0 19 2 0
+0 24 12 13
 0 25 12 11
 1
 end_operator
@@ -17917,8 +17917,8 @@ newcolfromfreecell h2 n8 n7 n9 n10
 0
 4
 0 18 -1 0
-0 24 13 2
 0 19 2 0
+0 24 13 2
 0 25 12 11
 1
 end_operator
@@ -17927,8 +17927,8 @@ newcolfromfreecell h2 n9 n8 n0 n1
 0
 4
 0 18 -1 0
-0 24 0 1
 0 19 2 0
+0 24 0 1
 0 25 13 12
 1
 end_operator
@@ -17937,8 +17937,8 @@ newcolfromfreecell h2 n9 n8 n1 n2
 0
 4
 0 18 -1 0
-0 24 1 6
 0 19 2 0
+0 24 1 6
 0 25 13 12
 1
 end_operator
@@ -17947,8 +17947,8 @@ newcolfromfreecell h2 n9 n8 n10 n11
 0
 4
 0 18 -1 0
-0 24 2 3
 0 19 2 0
+0 24 2 3
 0 25 13 12
 1
 end_operator
@@ -17957,8 +17957,8 @@ newcolfromfreecell h2 n9 n8 n11 n12
 0
 4
 0 18 -1 0
-0 24 3 4
 0 19 2 0
+0 24 3 4
 0 25 13 12
 1
 end_operator
@@ -17967,8 +17967,8 @@ newcolfromfreecell h2 n9 n8 n12 n13
 0
 4
 0 18 -1 0
-0 24 4 5
 0 19 2 0
+0 24 4 5
 0 25 13 12
 1
 end_operator
@@ -17977,8 +17977,8 @@ newcolfromfreecell h2 n9 n8 n2 n3
 0
 4
 0 18 -1 0
-0 24 6 7
 0 19 2 0
+0 24 6 7
 0 25 13 12
 1
 end_operator
@@ -17987,8 +17987,8 @@ newcolfromfreecell h2 n9 n8 n3 n4
 0
 4
 0 18 -1 0
-0 24 7 8
 0 19 2 0
+0 24 7 8
 0 25 13 12
 1
 end_operator
@@ -17997,8 +17997,8 @@ newcolfromfreecell h2 n9 n8 n4 n5
 0
 4
 0 18 -1 0
-0 24 8 9
 0 19 2 0
+0 24 8 9
 0 25 13 12
 1
 end_operator
@@ -18007,8 +18007,8 @@ newcolfromfreecell h2 n9 n8 n5 n6
 0
 4
 0 18 -1 0
-0 24 9 10
 0 19 2 0
+0 24 9 10
 0 25 13 12
 1
 end_operator
@@ -18017,8 +18017,8 @@ newcolfromfreecell h2 n9 n8 n6 n7
 0
 4
 0 18 -1 0
-0 24 10 11
 0 19 2 0
+0 24 10 11
 0 25 13 12
 1
 end_operator
@@ -18027,8 +18027,8 @@ newcolfromfreecell h2 n9 n8 n7 n8
 0
 4
 0 18 -1 0
-0 24 11 12
 0 19 2 0
+0 24 11 12
 0 25 13 12
 1
 end_operator
@@ -18037,8 +18037,8 @@ newcolfromfreecell h2 n9 n8 n8 n9
 0
 4
 0 18 -1 0
-0 24 12 13
 0 19 2 0
+0 24 12 13
 0 25 13 12
 1
 end_operator
@@ -18047,8 +18047,8 @@ newcolfromfreecell h2 n9 n8 n9 n10
 0
 4
 0 18 -1 0
-0 24 13 2
 0 19 2 0
+0 24 13 2
 0 25 13 12
 1
 end_operator
@@ -18058,8 +18058,8 @@ newcolfromfreecell h3 n1 n0 n0 n1
 4
 0 4 -1 0
 0 24 0 1
-0 26 2 0
 0 25 1 0
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18068,8 +18068,8 @@ newcolfromfreecell h3 n1 n0 n1 n2
 4
 0 4 -1 0
 0 24 1 6
-0 26 2 0
 0 25 1 0
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18078,8 +18078,8 @@ newcolfromfreecell h3 n1 n0 n10 n11
 4
 0 4 -1 0
 0 24 2 3
-0 26 2 0
 0 25 1 0
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18088,8 +18088,8 @@ newcolfromfreecell h3 n1 n0 n11 n12
 4
 0 4 -1 0
 0 24 3 4
-0 26 2 0
 0 25 1 0
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18098,8 +18098,8 @@ newcolfromfreecell h3 n1 n0 n12 n13
 4
 0 4 -1 0
 0 24 4 5
-0 26 2 0
 0 25 1 0
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18108,8 +18108,8 @@ newcolfromfreecell h3 n1 n0 n2 n3
 4
 0 4 -1 0
 0 24 6 7
-0 26 2 0
 0 25 1 0
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18118,8 +18118,8 @@ newcolfromfreecell h3 n1 n0 n3 n4
 4
 0 4 -1 0
 0 24 7 8
-0 26 2 0
 0 25 1 0
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18128,8 +18128,8 @@ newcolfromfreecell h3 n1 n0 n4 n5
 4
 0 4 -1 0
 0 24 8 9
-0 26 2 0
 0 25 1 0
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18138,8 +18138,8 @@ newcolfromfreecell h3 n1 n0 n5 n6
 4
 0 4 -1 0
 0 24 9 10
-0 26 2 0
 0 25 1 0
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18148,8 +18148,8 @@ newcolfromfreecell h3 n1 n0 n6 n7
 4
 0 4 -1 0
 0 24 10 11
-0 26 2 0
 0 25 1 0
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18158,8 +18158,8 @@ newcolfromfreecell h3 n1 n0 n7 n8
 4
 0 4 -1 0
 0 24 11 12
-0 26 2 0
 0 25 1 0
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18168,8 +18168,8 @@ newcolfromfreecell h3 n1 n0 n8 n9
 4
 0 4 -1 0
 0 24 12 13
-0 26 2 0
 0 25 1 0
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18178,8 +18178,8 @@ newcolfromfreecell h3 n1 n0 n9 n10
 4
 0 4 -1 0
 0 24 13 2
-0 26 2 0
 0 25 1 0
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18188,8 +18188,8 @@ newcolfromfreecell h3 n10 n9 n0 n1
 4
 0 4 -1 0
 0 24 0 1
-0 26 2 0
 0 25 2 13
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18198,8 +18198,8 @@ newcolfromfreecell h3 n10 n9 n1 n2
 4
 0 4 -1 0
 0 24 1 6
-0 26 2 0
 0 25 2 13
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18208,8 +18208,8 @@ newcolfromfreecell h3 n10 n9 n10 n11
 4
 0 4 -1 0
 0 24 2 3
-0 26 2 0
 0 25 2 13
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18218,8 +18218,8 @@ newcolfromfreecell h3 n10 n9 n11 n12
 4
 0 4 -1 0
 0 24 3 4
-0 26 2 0
 0 25 2 13
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18228,8 +18228,8 @@ newcolfromfreecell h3 n10 n9 n12 n13
 4
 0 4 -1 0
 0 24 4 5
-0 26 2 0
 0 25 2 13
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18238,8 +18238,8 @@ newcolfromfreecell h3 n10 n9 n2 n3
 4
 0 4 -1 0
 0 24 6 7
-0 26 2 0
 0 25 2 13
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18248,8 +18248,8 @@ newcolfromfreecell h3 n10 n9 n3 n4
 4
 0 4 -1 0
 0 24 7 8
-0 26 2 0
 0 25 2 13
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18258,8 +18258,8 @@ newcolfromfreecell h3 n10 n9 n4 n5
 4
 0 4 -1 0
 0 24 8 9
-0 26 2 0
 0 25 2 13
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18268,8 +18268,8 @@ newcolfromfreecell h3 n10 n9 n5 n6
 4
 0 4 -1 0
 0 24 9 10
-0 26 2 0
 0 25 2 13
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18278,8 +18278,8 @@ newcolfromfreecell h3 n10 n9 n6 n7
 4
 0 4 -1 0
 0 24 10 11
-0 26 2 0
 0 25 2 13
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18288,8 +18288,8 @@ newcolfromfreecell h3 n10 n9 n7 n8
 4
 0 4 -1 0
 0 24 11 12
-0 26 2 0
 0 25 2 13
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18298,8 +18298,8 @@ newcolfromfreecell h3 n10 n9 n8 n9
 4
 0 4 -1 0
 0 24 12 13
-0 26 2 0
 0 25 2 13
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18308,8 +18308,8 @@ newcolfromfreecell h3 n10 n9 n9 n10
 4
 0 4 -1 0
 0 24 13 2
-0 26 2 0
 0 25 2 13
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18318,8 +18318,8 @@ newcolfromfreecell h3 n11 n10 n0 n1
 4
 0 4 -1 0
 0 24 0 1
-0 26 2 0
 0 25 3 2
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18328,8 +18328,8 @@ newcolfromfreecell h3 n11 n10 n1 n2
 4
 0 4 -1 0
 0 24 1 6
-0 26 2 0
 0 25 3 2
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18338,8 +18338,8 @@ newcolfromfreecell h3 n11 n10 n10 n11
 4
 0 4 -1 0
 0 24 2 3
-0 26 2 0
 0 25 3 2
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18348,8 +18348,8 @@ newcolfromfreecell h3 n11 n10 n11 n12
 4
 0 4 -1 0
 0 24 3 4
-0 26 2 0
 0 25 3 2
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18358,8 +18358,8 @@ newcolfromfreecell h3 n11 n10 n12 n13
 4
 0 4 -1 0
 0 24 4 5
-0 26 2 0
 0 25 3 2
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18368,8 +18368,8 @@ newcolfromfreecell h3 n11 n10 n2 n3
 4
 0 4 -1 0
 0 24 6 7
-0 26 2 0
 0 25 3 2
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18378,8 +18378,8 @@ newcolfromfreecell h3 n11 n10 n3 n4
 4
 0 4 -1 0
 0 24 7 8
-0 26 2 0
 0 25 3 2
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18388,8 +18388,8 @@ newcolfromfreecell h3 n11 n10 n4 n5
 4
 0 4 -1 0
 0 24 8 9
-0 26 2 0
 0 25 3 2
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18398,8 +18398,8 @@ newcolfromfreecell h3 n11 n10 n5 n6
 4
 0 4 -1 0
 0 24 9 10
-0 26 2 0
 0 25 3 2
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18408,8 +18408,8 @@ newcolfromfreecell h3 n11 n10 n6 n7
 4
 0 4 -1 0
 0 24 10 11
-0 26 2 0
 0 25 3 2
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18418,8 +18418,8 @@ newcolfromfreecell h3 n11 n10 n7 n8
 4
 0 4 -1 0
 0 24 11 12
-0 26 2 0
 0 25 3 2
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18428,8 +18428,8 @@ newcolfromfreecell h3 n11 n10 n8 n9
 4
 0 4 -1 0
 0 24 12 13
-0 26 2 0
 0 25 3 2
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18438,8 +18438,8 @@ newcolfromfreecell h3 n11 n10 n9 n10
 4
 0 4 -1 0
 0 24 13 2
-0 26 2 0
 0 25 3 2
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18448,8 +18448,8 @@ newcolfromfreecell h3 n12 n11 n0 n1
 4
 0 4 -1 0
 0 24 0 1
-0 26 2 0
 0 25 4 3
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18458,8 +18458,8 @@ newcolfromfreecell h3 n12 n11 n1 n2
 4
 0 4 -1 0
 0 24 1 6
-0 26 2 0
 0 25 4 3
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18468,8 +18468,8 @@ newcolfromfreecell h3 n12 n11 n10 n11
 4
 0 4 -1 0
 0 24 2 3
-0 26 2 0
 0 25 4 3
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18478,8 +18478,8 @@ newcolfromfreecell h3 n12 n11 n11 n12
 4
 0 4 -1 0
 0 24 3 4
-0 26 2 0
 0 25 4 3
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18488,8 +18488,8 @@ newcolfromfreecell h3 n12 n11 n12 n13
 4
 0 4 -1 0
 0 24 4 5
-0 26 2 0
 0 25 4 3
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18498,8 +18498,8 @@ newcolfromfreecell h3 n12 n11 n2 n3
 4
 0 4 -1 0
 0 24 6 7
-0 26 2 0
 0 25 4 3
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18508,8 +18508,8 @@ newcolfromfreecell h3 n12 n11 n3 n4
 4
 0 4 -1 0
 0 24 7 8
-0 26 2 0
 0 25 4 3
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18518,8 +18518,8 @@ newcolfromfreecell h3 n12 n11 n4 n5
 4
 0 4 -1 0
 0 24 8 9
-0 26 2 0
 0 25 4 3
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18528,8 +18528,8 @@ newcolfromfreecell h3 n12 n11 n5 n6
 4
 0 4 -1 0
 0 24 9 10
-0 26 2 0
 0 25 4 3
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18538,8 +18538,8 @@ newcolfromfreecell h3 n12 n11 n6 n7
 4
 0 4 -1 0
 0 24 10 11
-0 26 2 0
 0 25 4 3
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18548,8 +18548,8 @@ newcolfromfreecell h3 n12 n11 n7 n8
 4
 0 4 -1 0
 0 24 11 12
-0 26 2 0
 0 25 4 3
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18558,8 +18558,8 @@ newcolfromfreecell h3 n12 n11 n8 n9
 4
 0 4 -1 0
 0 24 12 13
-0 26 2 0
 0 25 4 3
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18568,8 +18568,8 @@ newcolfromfreecell h3 n12 n11 n9 n10
 4
 0 4 -1 0
 0 24 13 2
-0 26 2 0
 0 25 4 3
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18578,8 +18578,8 @@ newcolfromfreecell h3 n13 n12 n0 n1
 4
 0 4 -1 0
 0 24 0 1
-0 26 2 0
 0 25 5 4
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18588,8 +18588,8 @@ newcolfromfreecell h3 n13 n12 n1 n2
 4
 0 4 -1 0
 0 24 1 6
-0 26 2 0
 0 25 5 4
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18598,8 +18598,8 @@ newcolfromfreecell h3 n13 n12 n10 n11
 4
 0 4 -1 0
 0 24 2 3
-0 26 2 0
 0 25 5 4
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18608,8 +18608,8 @@ newcolfromfreecell h3 n13 n12 n11 n12
 4
 0 4 -1 0
 0 24 3 4
-0 26 2 0
 0 25 5 4
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18618,8 +18618,8 @@ newcolfromfreecell h3 n13 n12 n12 n13
 4
 0 4 -1 0
 0 24 4 5
-0 26 2 0
 0 25 5 4
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18628,8 +18628,8 @@ newcolfromfreecell h3 n13 n12 n2 n3
 4
 0 4 -1 0
 0 24 6 7
-0 26 2 0
 0 25 5 4
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18638,8 +18638,8 @@ newcolfromfreecell h3 n13 n12 n3 n4
 4
 0 4 -1 0
 0 24 7 8
-0 26 2 0
 0 25 5 4
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18648,8 +18648,8 @@ newcolfromfreecell h3 n13 n12 n4 n5
 4
 0 4 -1 0
 0 24 8 9
-0 26 2 0
 0 25 5 4
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18658,8 +18658,8 @@ newcolfromfreecell h3 n13 n12 n5 n6
 4
 0 4 -1 0
 0 24 9 10
-0 26 2 0
 0 25 5 4
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18668,8 +18668,8 @@ newcolfromfreecell h3 n13 n12 n6 n7
 4
 0 4 -1 0
 0 24 10 11
-0 26 2 0
 0 25 5 4
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18678,8 +18678,8 @@ newcolfromfreecell h3 n13 n12 n7 n8
 4
 0 4 -1 0
 0 24 11 12
-0 26 2 0
 0 25 5 4
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18688,8 +18688,8 @@ newcolfromfreecell h3 n13 n12 n8 n9
 4
 0 4 -1 0
 0 24 12 13
-0 26 2 0
 0 25 5 4
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18698,8 +18698,8 @@ newcolfromfreecell h3 n13 n12 n9 n10
 4
 0 4 -1 0
 0 24 13 2
-0 26 2 0
 0 25 5 4
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18708,8 +18708,8 @@ newcolfromfreecell h3 n2 n1 n0 n1
 4
 0 4 -1 0
 0 24 0 1
-0 26 2 0
 0 25 6 1
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18718,8 +18718,8 @@ newcolfromfreecell h3 n2 n1 n1 n2
 4
 0 4 -1 0
 0 24 1 6
-0 26 2 0
 0 25 6 1
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18728,8 +18728,8 @@ newcolfromfreecell h3 n2 n1 n10 n11
 4
 0 4 -1 0
 0 24 2 3
-0 26 2 0
 0 25 6 1
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18738,8 +18738,8 @@ newcolfromfreecell h3 n2 n1 n11 n12
 4
 0 4 -1 0
 0 24 3 4
-0 26 2 0
 0 25 6 1
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18748,8 +18748,8 @@ newcolfromfreecell h3 n2 n1 n12 n13
 4
 0 4 -1 0
 0 24 4 5
-0 26 2 0
 0 25 6 1
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18758,8 +18758,8 @@ newcolfromfreecell h3 n2 n1 n2 n3
 4
 0 4 -1 0
 0 24 6 7
-0 26 2 0
 0 25 6 1
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18768,8 +18768,8 @@ newcolfromfreecell h3 n2 n1 n3 n4
 4
 0 4 -1 0
 0 24 7 8
-0 26 2 0
 0 25 6 1
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18778,8 +18778,8 @@ newcolfromfreecell h3 n2 n1 n4 n5
 4
 0 4 -1 0
 0 24 8 9
-0 26 2 0
 0 25 6 1
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18788,8 +18788,8 @@ newcolfromfreecell h3 n2 n1 n5 n6
 4
 0 4 -1 0
 0 24 9 10
-0 26 2 0
 0 25 6 1
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18798,8 +18798,8 @@ newcolfromfreecell h3 n2 n1 n6 n7
 4
 0 4 -1 0
 0 24 10 11
-0 26 2 0
 0 25 6 1
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18808,8 +18808,8 @@ newcolfromfreecell h3 n2 n1 n7 n8
 4
 0 4 -1 0
 0 24 11 12
-0 26 2 0
 0 25 6 1
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18818,8 +18818,8 @@ newcolfromfreecell h3 n2 n1 n8 n9
 4
 0 4 -1 0
 0 24 12 13
-0 26 2 0
 0 25 6 1
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18828,8 +18828,8 @@ newcolfromfreecell h3 n2 n1 n9 n10
 4
 0 4 -1 0
 0 24 13 2
-0 26 2 0
 0 25 6 1
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18838,8 +18838,8 @@ newcolfromfreecell h3 n3 n2 n0 n1
 4
 0 4 -1 0
 0 24 0 1
-0 26 2 0
 0 25 7 6
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18848,8 +18848,8 @@ newcolfromfreecell h3 n3 n2 n1 n2
 4
 0 4 -1 0
 0 24 1 6
-0 26 2 0
 0 25 7 6
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18858,8 +18858,8 @@ newcolfromfreecell h3 n3 n2 n10 n11
 4
 0 4 -1 0
 0 24 2 3
-0 26 2 0
 0 25 7 6
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18868,8 +18868,8 @@ newcolfromfreecell h3 n3 n2 n11 n12
 4
 0 4 -1 0
 0 24 3 4
-0 26 2 0
 0 25 7 6
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18878,8 +18878,8 @@ newcolfromfreecell h3 n3 n2 n12 n13
 4
 0 4 -1 0
 0 24 4 5
-0 26 2 0
 0 25 7 6
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18888,8 +18888,8 @@ newcolfromfreecell h3 n3 n2 n2 n3
 4
 0 4 -1 0
 0 24 6 7
-0 26 2 0
 0 25 7 6
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18898,8 +18898,8 @@ newcolfromfreecell h3 n3 n2 n3 n4
 4
 0 4 -1 0
 0 24 7 8
-0 26 2 0
 0 25 7 6
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18908,8 +18908,8 @@ newcolfromfreecell h3 n3 n2 n4 n5
 4
 0 4 -1 0
 0 24 8 9
-0 26 2 0
 0 25 7 6
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18918,8 +18918,8 @@ newcolfromfreecell h3 n3 n2 n5 n6
 4
 0 4 -1 0
 0 24 9 10
-0 26 2 0
 0 25 7 6
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18928,8 +18928,8 @@ newcolfromfreecell h3 n3 n2 n6 n7
 4
 0 4 -1 0
 0 24 10 11
-0 26 2 0
 0 25 7 6
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18938,8 +18938,8 @@ newcolfromfreecell h3 n3 n2 n7 n8
 4
 0 4 -1 0
 0 24 11 12
-0 26 2 0
 0 25 7 6
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18948,8 +18948,8 @@ newcolfromfreecell h3 n3 n2 n8 n9
 4
 0 4 -1 0
 0 24 12 13
-0 26 2 0
 0 25 7 6
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18958,8 +18958,8 @@ newcolfromfreecell h3 n3 n2 n9 n10
 4
 0 4 -1 0
 0 24 13 2
-0 26 2 0
 0 25 7 6
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18968,8 +18968,8 @@ newcolfromfreecell h3 n4 n3 n0 n1
 4
 0 4 -1 0
 0 24 0 1
-0 26 2 0
 0 25 8 7
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18978,8 +18978,8 @@ newcolfromfreecell h3 n4 n3 n1 n2
 4
 0 4 -1 0
 0 24 1 6
-0 26 2 0
 0 25 8 7
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18988,8 +18988,8 @@ newcolfromfreecell h3 n4 n3 n10 n11
 4
 0 4 -1 0
 0 24 2 3
-0 26 2 0
 0 25 8 7
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -18998,8 +18998,8 @@ newcolfromfreecell h3 n4 n3 n11 n12
 4
 0 4 -1 0
 0 24 3 4
-0 26 2 0
 0 25 8 7
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19008,8 +19008,8 @@ newcolfromfreecell h3 n4 n3 n12 n13
 4
 0 4 -1 0
 0 24 4 5
-0 26 2 0
 0 25 8 7
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19018,8 +19018,8 @@ newcolfromfreecell h3 n4 n3 n2 n3
 4
 0 4 -1 0
 0 24 6 7
-0 26 2 0
 0 25 8 7
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19028,8 +19028,8 @@ newcolfromfreecell h3 n4 n3 n3 n4
 4
 0 4 -1 0
 0 24 7 8
-0 26 2 0
 0 25 8 7
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19038,8 +19038,8 @@ newcolfromfreecell h3 n4 n3 n4 n5
 4
 0 4 -1 0
 0 24 8 9
-0 26 2 0
 0 25 8 7
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19048,8 +19048,8 @@ newcolfromfreecell h3 n4 n3 n5 n6
 4
 0 4 -1 0
 0 24 9 10
-0 26 2 0
 0 25 8 7
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19058,8 +19058,8 @@ newcolfromfreecell h3 n4 n3 n6 n7
 4
 0 4 -1 0
 0 24 10 11
-0 26 2 0
 0 25 8 7
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19068,8 +19068,8 @@ newcolfromfreecell h3 n4 n3 n7 n8
 4
 0 4 -1 0
 0 24 11 12
-0 26 2 0
 0 25 8 7
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19078,8 +19078,8 @@ newcolfromfreecell h3 n4 n3 n8 n9
 4
 0 4 -1 0
 0 24 12 13
-0 26 2 0
 0 25 8 7
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19088,8 +19088,8 @@ newcolfromfreecell h3 n4 n3 n9 n10
 4
 0 4 -1 0
 0 24 13 2
-0 26 2 0
 0 25 8 7
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19098,8 +19098,8 @@ newcolfromfreecell h3 n5 n4 n0 n1
 4
 0 4 -1 0
 0 24 0 1
-0 26 2 0
 0 25 9 8
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19108,8 +19108,8 @@ newcolfromfreecell h3 n5 n4 n1 n2
 4
 0 4 -1 0
 0 24 1 6
-0 26 2 0
 0 25 9 8
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19118,8 +19118,8 @@ newcolfromfreecell h3 n5 n4 n10 n11
 4
 0 4 -1 0
 0 24 2 3
-0 26 2 0
 0 25 9 8
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19128,8 +19128,8 @@ newcolfromfreecell h3 n5 n4 n11 n12
 4
 0 4 -1 0
 0 24 3 4
-0 26 2 0
 0 25 9 8
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19138,8 +19138,8 @@ newcolfromfreecell h3 n5 n4 n12 n13
 4
 0 4 -1 0
 0 24 4 5
-0 26 2 0
 0 25 9 8
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19148,8 +19148,8 @@ newcolfromfreecell h3 n5 n4 n2 n3
 4
 0 4 -1 0
 0 24 6 7
-0 26 2 0
 0 25 9 8
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19158,8 +19158,8 @@ newcolfromfreecell h3 n5 n4 n3 n4
 4
 0 4 -1 0
 0 24 7 8
-0 26 2 0
 0 25 9 8
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19168,8 +19168,8 @@ newcolfromfreecell h3 n5 n4 n4 n5
 4
 0 4 -1 0
 0 24 8 9
-0 26 2 0
 0 25 9 8
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19178,8 +19178,8 @@ newcolfromfreecell h3 n5 n4 n5 n6
 4
 0 4 -1 0
 0 24 9 10
-0 26 2 0
 0 25 9 8
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19188,8 +19188,8 @@ newcolfromfreecell h3 n5 n4 n6 n7
 4
 0 4 -1 0
 0 24 10 11
-0 26 2 0
 0 25 9 8
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19198,8 +19198,8 @@ newcolfromfreecell h3 n5 n4 n7 n8
 4
 0 4 -1 0
 0 24 11 12
-0 26 2 0
 0 25 9 8
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19208,8 +19208,8 @@ newcolfromfreecell h3 n5 n4 n8 n9
 4
 0 4 -1 0
 0 24 12 13
-0 26 2 0
 0 25 9 8
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19218,8 +19218,8 @@ newcolfromfreecell h3 n5 n4 n9 n10
 4
 0 4 -1 0
 0 24 13 2
-0 26 2 0
 0 25 9 8
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19228,8 +19228,8 @@ newcolfromfreecell h3 n6 n5 n0 n1
 4
 0 4 -1 0
 0 24 0 1
-0 26 2 0
 0 25 10 9
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19238,8 +19238,8 @@ newcolfromfreecell h3 n6 n5 n1 n2
 4
 0 4 -1 0
 0 24 1 6
-0 26 2 0
 0 25 10 9
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19248,8 +19248,8 @@ newcolfromfreecell h3 n6 n5 n10 n11
 4
 0 4 -1 0
 0 24 2 3
-0 26 2 0
 0 25 10 9
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19258,8 +19258,8 @@ newcolfromfreecell h3 n6 n5 n11 n12
 4
 0 4 -1 0
 0 24 3 4
-0 26 2 0
 0 25 10 9
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19268,8 +19268,8 @@ newcolfromfreecell h3 n6 n5 n12 n13
 4
 0 4 -1 0
 0 24 4 5
-0 26 2 0
 0 25 10 9
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19278,8 +19278,8 @@ newcolfromfreecell h3 n6 n5 n2 n3
 4
 0 4 -1 0
 0 24 6 7
-0 26 2 0
 0 25 10 9
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19288,8 +19288,8 @@ newcolfromfreecell h3 n6 n5 n3 n4
 4
 0 4 -1 0
 0 24 7 8
-0 26 2 0
 0 25 10 9
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19298,8 +19298,8 @@ newcolfromfreecell h3 n6 n5 n4 n5
 4
 0 4 -1 0
 0 24 8 9
-0 26 2 0
 0 25 10 9
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19308,8 +19308,8 @@ newcolfromfreecell h3 n6 n5 n5 n6
 4
 0 4 -1 0
 0 24 9 10
-0 26 2 0
 0 25 10 9
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19318,8 +19318,8 @@ newcolfromfreecell h3 n6 n5 n6 n7
 4
 0 4 -1 0
 0 24 10 11
-0 26 2 0
 0 25 10 9
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19328,8 +19328,8 @@ newcolfromfreecell h3 n6 n5 n7 n8
 4
 0 4 -1 0
 0 24 11 12
-0 26 2 0
 0 25 10 9
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19338,8 +19338,8 @@ newcolfromfreecell h3 n6 n5 n8 n9
 4
 0 4 -1 0
 0 24 12 13
-0 26 2 0
 0 25 10 9
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19348,8 +19348,8 @@ newcolfromfreecell h3 n6 n5 n9 n10
 4
 0 4 -1 0
 0 24 13 2
-0 26 2 0
 0 25 10 9
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19358,8 +19358,8 @@ newcolfromfreecell h3 n7 n6 n0 n1
 4
 0 4 -1 0
 0 24 0 1
-0 26 2 0
 0 25 11 10
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19368,8 +19368,8 @@ newcolfromfreecell h3 n7 n6 n1 n2
 4
 0 4 -1 0
 0 24 1 6
-0 26 2 0
 0 25 11 10
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19378,8 +19378,8 @@ newcolfromfreecell h3 n7 n6 n10 n11
 4
 0 4 -1 0
 0 24 2 3
-0 26 2 0
 0 25 11 10
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19388,8 +19388,8 @@ newcolfromfreecell h3 n7 n6 n11 n12
 4
 0 4 -1 0
 0 24 3 4
-0 26 2 0
 0 25 11 10
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19398,8 +19398,8 @@ newcolfromfreecell h3 n7 n6 n12 n13
 4
 0 4 -1 0
 0 24 4 5
-0 26 2 0
 0 25 11 10
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19408,8 +19408,8 @@ newcolfromfreecell h3 n7 n6 n2 n3
 4
 0 4 -1 0
 0 24 6 7
-0 26 2 0
 0 25 11 10
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19418,8 +19418,8 @@ newcolfromfreecell h3 n7 n6 n3 n4
 4
 0 4 -1 0
 0 24 7 8
-0 26 2 0
 0 25 11 10
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19428,8 +19428,8 @@ newcolfromfreecell h3 n7 n6 n4 n5
 4
 0 4 -1 0
 0 24 8 9
-0 26 2 0
 0 25 11 10
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19438,8 +19438,8 @@ newcolfromfreecell h3 n7 n6 n5 n6
 4
 0 4 -1 0
 0 24 9 10
-0 26 2 0
 0 25 11 10
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19448,8 +19448,8 @@ newcolfromfreecell h3 n7 n6 n6 n7
 4
 0 4 -1 0
 0 24 10 11
-0 26 2 0
 0 25 11 10
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19458,8 +19458,8 @@ newcolfromfreecell h3 n7 n6 n7 n8
 4
 0 4 -1 0
 0 24 11 12
-0 26 2 0
 0 25 11 10
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19468,8 +19468,8 @@ newcolfromfreecell h3 n7 n6 n8 n9
 4
 0 4 -1 0
 0 24 12 13
-0 26 2 0
 0 25 11 10
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19478,8 +19478,8 @@ newcolfromfreecell h3 n7 n6 n9 n10
 4
 0 4 -1 0
 0 24 13 2
-0 26 2 0
 0 25 11 10
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19488,8 +19488,8 @@ newcolfromfreecell h3 n8 n7 n0 n1
 4
 0 4 -1 0
 0 24 0 1
-0 26 2 0
 0 25 12 11
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19498,8 +19498,8 @@ newcolfromfreecell h3 n8 n7 n1 n2
 4
 0 4 -1 0
 0 24 1 6
-0 26 2 0
 0 25 12 11
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19508,8 +19508,8 @@ newcolfromfreecell h3 n8 n7 n10 n11
 4
 0 4 -1 0
 0 24 2 3
-0 26 2 0
 0 25 12 11
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19518,8 +19518,8 @@ newcolfromfreecell h3 n8 n7 n11 n12
 4
 0 4 -1 0
 0 24 3 4
-0 26 2 0
 0 25 12 11
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19528,8 +19528,8 @@ newcolfromfreecell h3 n8 n7 n12 n13
 4
 0 4 -1 0
 0 24 4 5
-0 26 2 0
 0 25 12 11
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19538,8 +19538,8 @@ newcolfromfreecell h3 n8 n7 n2 n3
 4
 0 4 -1 0
 0 24 6 7
-0 26 2 0
 0 25 12 11
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19548,8 +19548,8 @@ newcolfromfreecell h3 n8 n7 n3 n4
 4
 0 4 -1 0
 0 24 7 8
-0 26 2 0
 0 25 12 11
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19558,8 +19558,8 @@ newcolfromfreecell h3 n8 n7 n4 n5
 4
 0 4 -1 0
 0 24 8 9
-0 26 2 0
 0 25 12 11
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19568,8 +19568,8 @@ newcolfromfreecell h3 n8 n7 n5 n6
 4
 0 4 -1 0
 0 24 9 10
-0 26 2 0
 0 25 12 11
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19578,8 +19578,8 @@ newcolfromfreecell h3 n8 n7 n6 n7
 4
 0 4 -1 0
 0 24 10 11
-0 26 2 0
 0 25 12 11
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19588,8 +19588,8 @@ newcolfromfreecell h3 n8 n7 n7 n8
 4
 0 4 -1 0
 0 24 11 12
-0 26 2 0
 0 25 12 11
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19598,8 +19598,8 @@ newcolfromfreecell h3 n8 n7 n8 n9
 4
 0 4 -1 0
 0 24 12 13
-0 26 2 0
 0 25 12 11
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19608,8 +19608,8 @@ newcolfromfreecell h3 n8 n7 n9 n10
 4
 0 4 -1 0
 0 24 13 2
-0 26 2 0
 0 25 12 11
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19618,8 +19618,8 @@ newcolfromfreecell h3 n9 n8 n0 n1
 4
 0 4 -1 0
 0 24 0 1
-0 26 2 0
 0 25 13 12
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19628,8 +19628,8 @@ newcolfromfreecell h3 n9 n8 n1 n2
 4
 0 4 -1 0
 0 24 1 6
-0 26 2 0
 0 25 13 12
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19638,8 +19638,8 @@ newcolfromfreecell h3 n9 n8 n10 n11
 4
 0 4 -1 0
 0 24 2 3
-0 26 2 0
 0 25 13 12
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19648,8 +19648,8 @@ newcolfromfreecell h3 n9 n8 n11 n12
 4
 0 4 -1 0
 0 24 3 4
-0 26 2 0
 0 25 13 12
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19658,8 +19658,8 @@ newcolfromfreecell h3 n9 n8 n12 n13
 4
 0 4 -1 0
 0 24 4 5
-0 26 2 0
 0 25 13 12
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19668,8 +19668,8 @@ newcolfromfreecell h3 n9 n8 n2 n3
 4
 0 4 -1 0
 0 24 6 7
-0 26 2 0
 0 25 13 12
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19678,8 +19678,8 @@ newcolfromfreecell h3 n9 n8 n3 n4
 4
 0 4 -1 0
 0 24 7 8
-0 26 2 0
 0 25 13 12
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19688,8 +19688,8 @@ newcolfromfreecell h3 n9 n8 n4 n5
 4
 0 4 -1 0
 0 24 8 9
-0 26 2 0
 0 25 13 12
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19698,8 +19698,8 @@ newcolfromfreecell h3 n9 n8 n5 n6
 4
 0 4 -1 0
 0 24 9 10
-0 26 2 0
 0 25 13 12
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19708,8 +19708,8 @@ newcolfromfreecell h3 n9 n8 n6 n7
 4
 0 4 -1 0
 0 24 10 11
-0 26 2 0
 0 25 13 12
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19718,8 +19718,8 @@ newcolfromfreecell h3 n9 n8 n7 n8
 4
 0 4 -1 0
 0 24 11 12
-0 26 2 0
 0 25 13 12
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19728,8 +19728,8 @@ newcolfromfreecell h3 n9 n8 n8 n9
 4
 0 4 -1 0
 0 24 12 13
-0 26 2 0
 0 25 13 12
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19738,8 +19738,8 @@ newcolfromfreecell h3 n9 n8 n9 n10
 4
 0 4 -1 0
 0 24 13 2
-0 26 2 0
 0 25 13 12
+0 26 2 0
 1
 end_operator
 begin_operator
@@ -19747,8 +19747,8 @@ newcolfromfreecell ha n1 n0 n0 n1
 0
 4
 0 12 2 0
-0 24 0 1
 0 13 -1 0
+0 24 0 1
 0 25 1 0
 1
 end_operator
@@ -19757,8 +19757,8 @@ newcolfromfreecell ha n1 n0 n1 n2
 0
 4
 0 12 2 0
-0 24 1 6
 0 13 -1 0
+0 24 1 6
 0 25 1 0
 1
 end_operator
@@ -19767,8 +19767,8 @@ newcolfromfreecell ha n1 n0 n10 n11
 0
 4
 0 12 2 0
-0 24 2 3
 0 13 -1 0
+0 24 2 3
 0 25 1 0
 1
 end_operator
@@ -19777,8 +19777,8 @@ newcolfromfreecell ha n1 n0 n11 n12
 0
 4
 0 12 2 0
-0 24 3 4
 0 13 -1 0
+0 24 3 4
 0 25 1 0
 1
 end_operator
@@ -19787,8 +19787,8 @@ newcolfromfreecell ha n1 n0 n12 n13
 0
 4
 0 12 2 0
-0 24 4 5
 0 13 -1 0
+0 24 4 5
 0 25 1 0
 1
 end_operator
@@ -19797,8 +19797,8 @@ newcolfromfreecell ha n1 n0 n2 n3
 0
 4
 0 12 2 0
-0 24 6 7
 0 13 -1 0
+0 24 6 7
 0 25 1 0
 1
 end_operator
@@ -19807,8 +19807,8 @@ newcolfromfreecell ha n1 n0 n3 n4
 0
 4
 0 12 2 0
-0 24 7 8
 0 13 -1 0
+0 24 7 8
 0 25 1 0
 1
 end_operator
@@ -19817,8 +19817,8 @@ newcolfromfreecell ha n1 n0 n4 n5
 0
 4
 0 12 2 0
-0 24 8 9
 0 13 -1 0
+0 24 8 9
 0 25 1 0
 1
 end_operator
@@ -19827,8 +19827,8 @@ newcolfromfreecell ha n1 n0 n5 n6
 0
 4
 0 12 2 0
-0 24 9 10
 0 13 -1 0
+0 24 9 10
 0 25 1 0
 1
 end_operator
@@ -19837,8 +19837,8 @@ newcolfromfreecell ha n1 n0 n6 n7
 0
 4
 0 12 2 0
-0 24 10 11
 0 13 -1 0
+0 24 10 11
 0 25 1 0
 1
 end_operator
@@ -19847,8 +19847,8 @@ newcolfromfreecell ha n1 n0 n7 n8
 0
 4
 0 12 2 0
-0 24 11 12
 0 13 -1 0
+0 24 11 12
 0 25 1 0
 1
 end_operator
@@ -19857,8 +19857,8 @@ newcolfromfreecell ha n1 n0 n8 n9
 0
 4
 0 12 2 0
-0 24 12 13
 0 13 -1 0
+0 24 12 13
 0 25 1 0
 1
 end_operator
@@ -19867,8 +19867,8 @@ newcolfromfreecell ha n1 n0 n9 n10
 0
 4
 0 12 2 0
-0 24 13 2
 0 13 -1 0
+0 24 13 2
 0 25 1 0
 1
 end_operator
@@ -19877,8 +19877,8 @@ newcolfromfreecell ha n10 n9 n0 n1
 0
 4
 0 12 2 0
-0 24 0 1
 0 13 -1 0
+0 24 0 1
 0 25 2 13
 1
 end_operator
@@ -19887,8 +19887,8 @@ newcolfromfreecell ha n10 n9 n1 n2
 0
 4
 0 12 2 0
-0 24 1 6
 0 13 -1 0
+0 24 1 6
 0 25 2 13
 1
 end_operator
@@ -19897,8 +19897,8 @@ newcolfromfreecell ha n10 n9 n10 n11
 0
 4
 0 12 2 0
-0 24 2 3
 0 13 -1 0
+0 24 2 3
 0 25 2 13
 1
 end_operator
@@ -19907,8 +19907,8 @@ newcolfromfreecell ha n10 n9 n11 n12
 0
 4
 0 12 2 0
-0 24 3 4
 0 13 -1 0
+0 24 3 4
 0 25 2 13
 1
 end_operator
@@ -19917,8 +19917,8 @@ newcolfromfreecell ha n10 n9 n12 n13
 0
 4
 0 12 2 0
-0 24 4 5
 0 13 -1 0
+0 24 4 5
 0 25 2 13
 1
 end_operator
@@ -19927,8 +19927,8 @@ newcolfromfreecell ha n10 n9 n2 n3
 0
 4
 0 12 2 0
-0 24 6 7
 0 13 -1 0
+0 24 6 7
 0 25 2 13
 1
 end_operator
@@ -19937,8 +19937,8 @@ newcolfromfreecell ha n10 n9 n3 n4
 0
 4
 0 12 2 0
-0 24 7 8
 0 13 -1 0
+0 24 7 8
 0 25 2 13
 1
 end_operator
@@ -19947,8 +19947,8 @@ newcolfromfreecell ha n10 n9 n4 n5
 0
 4
 0 12 2 0
-0 24 8 9
 0 13 -1 0
+0 24 8 9
 0 25 2 13
 1
 end_operator
@@ -19957,8 +19957,8 @@ newcolfromfreecell ha n10 n9 n5 n6
 0
 4
 0 12 2 0
-0 24 9 10
 0 13 -1 0
+0 24 9 10
 0 25 2 13
 1
 end_operator
@@ -19967,8 +19967,8 @@ newcolfromfreecell ha n10 n9 n6 n7
 0
 4
 0 12 2 0
-0 24 10 11
 0 13 -1 0
+0 24 10 11
 0 25 2 13
 1
 end_operator
@@ -19977,8 +19977,8 @@ newcolfromfreecell ha n10 n9 n7 n8
 0
 4
 0 12 2 0
-0 24 11 12
 0 13 -1 0
+0 24 11 12
 0 25 2 13
 1
 end_operator
@@ -19987,8 +19987,8 @@ newcolfromfreecell ha n10 n9 n8 n9
 0
 4
 0 12 2 0
-0 24 12 13
 0 13 -1 0
+0 24 12 13
 0 25 2 13
 1
 end_operator
@@ -19997,8 +19997,8 @@ newcolfromfreecell ha n10 n9 n9 n10
 0
 4
 0 12 2 0
-0 24 13 2
 0 13 -1 0
+0 24 13 2
 0 25 2 13
 1
 end_operator
@@ -20007,8 +20007,8 @@ newcolfromfreecell ha n11 n10 n0 n1
 0
 4
 0 12 2 0
-0 24 0 1
 0 13 -1 0
+0 24 0 1
 0 25 3 2
 1
 end_operator
@@ -20017,8 +20017,8 @@ newcolfromfreecell ha n11 n10 n1 n2
 0
 4
 0 12 2 0
-0 24 1 6
 0 13 -1 0
+0 24 1 6
 0 25 3 2
 1
 end_operator
@@ -20027,8 +20027,8 @@ newcolfromfreecell ha n11 n10 n10 n11
 0
 4
 0 12 2 0
-0 24 2 3
 0 13 -1 0
+0 24 2 3
 0 25 3 2
 1
 end_operator
@@ -20037,8 +20037,8 @@ newcolfromfreecell ha n11 n10 n11 n12
 0
 4
 0 12 2 0
-0 24 3 4
 0 13 -1 0
+0 24 3 4
 0 25 3 2
 1
 end_operator
@@ -20047,8 +20047,8 @@ newcolfromfreecell ha n11 n10 n12 n13
 0
 4
 0 12 2 0
-0 24 4 5
 0 13 -1 0
+0 24 4 5
 0 25 3 2
 1
 end_operator
@@ -20057,8 +20057,8 @@ newcolfromfreecell ha n11 n10 n2 n3
 0
 4
 0 12 2 0
-0 24 6 7
 0 13 -1 0
+0 24 6 7
 0 25 3 2
 1
 end_operator
@@ -20067,8 +20067,8 @@ newcolfromfreecell ha n11 n10 n3 n4
 0
 4
 0 12 2 0
-0 24 7 8
 0 13 -1 0
+0 24 7 8
 0 25 3 2
 1
 end_operator
@@ -20077,8 +20077,8 @@ newcolfromfreecell ha n11 n10 n4 n5
 0
 4
 0 12 2 0
-0 24 8 9
 0 13 -1 0
+0 24 8 9
 0 25 3 2
 1
 end_operator
@@ -20087,8 +20087,8 @@ newcolfromfreecell ha n11 n10 n5 n6
 0
 4
 0 12 2 0
-0 24 9 10
 0 13 -1 0
+0 24 9 10
 0 25 3 2
 1
 end_operator
@@ -20097,8 +20097,8 @@ newcolfromfreecell ha n11 n10 n6 n7
 0
 4
 0 12 2 0
-0 24 10 11
 0 13 -1 0
+0 24 10 11
 0 25 3 2
 1
 end_operator
@@ -20107,8 +20107,8 @@ newcolfromfreecell ha n11 n10 n7 n8
 0
 4
 0 12 2 0
-0 24 11 12
 0 13 -1 0
+0 24 11 12
 0 25 3 2
 1
 end_operator
@@ -20117,8 +20117,8 @@ newcolfromfreecell ha n11 n10 n8 n9
 0
 4
 0 12 2 0
-0 24 12 13
 0 13 -1 0
+0 24 12 13
 0 25 3 2
 1
 end_operator
@@ -20127,8 +20127,8 @@ newcolfromfreecell ha n11 n10 n9 n10
 0
 4
 0 12 2 0
-0 24 13 2
 0 13 -1 0
+0 24 13 2
 0 25 3 2
 1
 end_operator
@@ -20137,8 +20137,8 @@ newcolfromfreecell ha n12 n11 n0 n1
 0
 4
 0 12 2 0
-0 24 0 1
 0 13 -1 0
+0 24 0 1
 0 25 4 3
 1
 end_operator
@@ -20147,8 +20147,8 @@ newcolfromfreecell ha n12 n11 n1 n2
 0
 4
 0 12 2 0
-0 24 1 6
 0 13 -1 0
+0 24 1 6
 0 25 4 3
 1
 end_operator
@@ -20157,8 +20157,8 @@ newcolfromfreecell ha n12 n11 n10 n11
 0
 4
 0 12 2 0
-0 24 2 3
 0 13 -1 0
+0 24 2 3
 0 25 4 3
 1
 end_operator
@@ -20167,8 +20167,8 @@ newcolfromfreecell ha n12 n11 n11 n12
 0
 4
 0 12 2 0
-0 24 3 4
 0 13 -1 0
+0 24 3 4
 0 25 4 3
 1
 end_operator
@@ -20177,8 +20177,8 @@ newcolfromfreecell ha n12 n11 n12 n13
 0
 4
 0 12 2 0
-0 24 4 5
 0 13 -1 0
+0 24 4 5
 0 25 4 3
 1
 end_operator
@@ -20187,8 +20187,8 @@ newcolfromfreecell ha n12 n11 n2 n3
 0
 4
 0 12 2 0
-0 24 6 7
 0 13 -1 0
+0 24 6 7
 0 25 4 3
 1
 end_operator
@@ -20197,8 +20197,8 @@ newcolfromfreecell ha n12 n11 n3 n4
 0
 4
 0 12 2 0
-0 24 7 8
 0 13 -1 0
+0 24 7 8
 0 25 4 3
 1
 end_operator
@@ -20207,8 +20207,8 @@ newcolfromfreecell ha n12 n11 n4 n5
 0
 4
 0 12 2 0
-0 24 8 9
 0 13 -1 0
+0 24 8 9
 0 25 4 3
 1
 end_operator
@@ -20217,8 +20217,8 @@ newcolfromfreecell ha n12 n11 n5 n6
 0
 4
 0 12 2 0
-0 24 9 10
 0 13 -1 0
+0 24 9 10
 0 25 4 3
 1
 end_operator
@@ -20227,8 +20227,8 @@ newcolfromfreecell ha n12 n11 n6 n7
 0
 4
 0 12 2 0
-0 24 10 11
 0 13 -1 0
+0 24 10 11
 0 25 4 3
 1
 end_operator
@@ -20237,8 +20237,8 @@ newcolfromfreecell ha n12 n11 n7 n8
 0
 4
 0 12 2 0
-0 24 11 12
 0 13 -1 0
+0 24 11 12
 0 25 4 3
 1
 end_operator
@@ -20247,8 +20247,8 @@ newcolfromfreecell ha n12 n11 n8 n9
 0
 4
 0 12 2 0
-0 24 12 13
 0 13 -1 0
+0 24 12 13
 0 25 4 3
 1
 end_operator
@@ -20257,8 +20257,8 @@ newcolfromfreecell ha n12 n11 n9 n10
 0
 4
 0 12 2 0
-0 24 13 2
 0 13 -1 0
+0 24 13 2
 0 25 4 3
 1
 end_operator
@@ -20267,8 +20267,8 @@ newcolfromfreecell ha n13 n12 n0 n1
 0
 4
 0 12 2 0
-0 24 0 1
 0 13 -1 0
+0 24 0 1
 0 25 5 4
 1
 end_operator
@@ -20277,8 +20277,8 @@ newcolfromfreecell ha n13 n12 n1 n2
 0
 4
 0 12 2 0
-0 24 1 6
 0 13 -1 0
+0 24 1 6
 0 25 5 4
 1
 end_operator
@@ -20287,8 +20287,8 @@ newcolfromfreecell ha n13 n12 n10 n11
 0
 4
 0 12 2 0
-0 24 2 3
 0 13 -1 0
+0 24 2 3
 0 25 5 4
 1
 end_operator
@@ -20297,8 +20297,8 @@ newcolfromfreecell ha n13 n12 n11 n12
 0
 4
 0 12 2 0
-0 24 3 4
 0 13 -1 0
+0 24 3 4
 0 25 5 4
 1
 end_operator
@@ -20307,8 +20307,8 @@ newcolfromfreecell ha n13 n12 n12 n13
 0
 4
 0 12 2 0
-0 24 4 5
 0 13 -1 0
+0 24 4 5
 0 25 5 4
 1
 end_operator
@@ -20317,8 +20317,8 @@ newcolfromfreecell ha n13 n12 n2 n3
 0
 4
 0 12 2 0
-0 24 6 7
 0 13 -1 0
+0 24 6 7
 0 25 5 4
 1
 end_operator
@@ -20327,8 +20327,8 @@ newcolfromfreecell ha n13 n12 n3 n4
 0
 4
 0 12 2 0
-0 24 7 8
 0 13 -1 0
+0 24 7 8
 0 25 5 4
 1
 end_operator
@@ -20337,8 +20337,8 @@ newcolfromfreecell ha n13 n12 n4 n5
 0
 4
 0 12 2 0
-0 24 8 9
 0 13 -1 0
+0 24 8 9
 0 25 5 4
 1
 end_operator
@@ -20347,8 +20347,8 @@ newcolfromfreecell ha n13 n12 n5 n6
 0
 4
 0 12 2 0
-0 24 9 10
 0 13 -1 0
+0 24 9 10
 0 25 5 4
 1
 end_operator
@@ -20357,8 +20357,8 @@ newcolfromfreecell ha n13 n12 n6 n7
 0
 4
 0 12 2 0
-0 24 10 11
 0 13 -1 0
+0 24 10 11
 0 25 5 4
 1
 end_operator
@@ -20367,8 +20367,8 @@ newcolfromfreecell ha n13 n12 n7 n8
 0
 4
 0 12 2 0
-0 24 11 12
 0 13 -1 0
+0 24 11 12
 0 25 5 4
 1
 end_operator
@@ -20377,8 +20377,8 @@ newcolfromfreecell ha n13 n12 n8 n9
 0
 4
 0 12 2 0
-0 24 12 13
 0 13 -1 0
+0 24 12 13
 0 25 5 4
 1
 end_operator
@@ -20387,8 +20387,8 @@ newcolfromfreecell ha n13 n12 n9 n10
 0
 4
 0 12 2 0
-0 24 13 2
 0 13 -1 0
+0 24 13 2
 0 25 5 4
 1
 end_operator
@@ -20397,8 +20397,8 @@ newcolfromfreecell ha n2 n1 n0 n1
 0
 4
 0 12 2 0
-0 24 0 1
 0 13 -1 0
+0 24 0 1
 0 25 6 1
 1
 end_operator
@@ -20407,8 +20407,8 @@ newcolfromfreecell ha n2 n1 n1 n2
 0
 4
 0 12 2 0
-0 24 1 6
 0 13 -1 0
+0 24 1 6
 0 25 6 1
 1
 end_operator
@@ -20417,8 +20417,8 @@ newcolfromfreecell ha n2 n1 n10 n11
 0
 4
 0 12 2 0
-0 24 2 3
 0 13 -1 0
+0 24 2 3
 0 25 6 1
 1
 end_operator
@@ -20427,8 +20427,8 @@ newcolfromfreecell ha n2 n1 n11 n12
 0
 4
 0 12 2 0
-0 24 3 4
 0 13 -1 0
+0 24 3 4
 0 25 6 1
 1
 end_operator
@@ -20437,8 +20437,8 @@ newcolfromfreecell ha n2 n1 n12 n13
 0
 4
 0 12 2 0
-0 24 4 5
 0 13 -1 0
+0 24 4 5
 0 25 6 1
 1
 end_operator
@@ -20447,8 +20447,8 @@ newcolfromfreecell ha n2 n1 n2 n3
 0
 4
 0 12 2 0
-0 24 6 7
 0 13 -1 0
+0 24 6 7
 0 25 6 1
 1
 end_operator
@@ -20457,8 +20457,8 @@ newcolfromfreecell ha n2 n1 n3 n4
 0
 4
 0 12 2 0
-0 24 7 8
 0 13 -1 0
+0 24 7 8
 0 25 6 1
 1
 end_operator
@@ -20467,8 +20467,8 @@ newcolfromfreecell ha n2 n1 n4 n5
 0
 4
 0 12 2 0
-0 24 8 9
 0 13 -1 0
+0 24 8 9
 0 25 6 1
 1
 end_operator
@@ -20477,8 +20477,8 @@ newcolfromfreecell ha n2 n1 n5 n6
 0
 4
 0 12 2 0
-0 24 9 10
 0 13 -1 0
+0 24 9 10
 0 25 6 1
 1
 end_operator
@@ -20487,8 +20487,8 @@ newcolfromfreecell ha n2 n1 n6 n7
 0
 4
 0 12 2 0
-0 24 10 11
 0 13 -1 0
+0 24 10 11
 0 25 6 1
 1
 end_operator
@@ -20497,8 +20497,8 @@ newcolfromfreecell ha n2 n1 n7 n8
 0
 4
 0 12 2 0
-0 24 11 12
 0 13 -1 0
+0 24 11 12
 0 25 6 1
 1
 end_operator
@@ -20507,8 +20507,8 @@ newcolfromfreecell ha n2 n1 n8 n9
 0
 4
 0 12 2 0
-0 24 12 13
 0 13 -1 0
+0 24 12 13
 0 25 6 1
 1
 end_operator
@@ -20517,8 +20517,8 @@ newcolfromfreecell ha n2 n1 n9 n10
 0
 4
 0 12 2 0
-0 24 13 2
 0 13 -1 0
+0 24 13 2
 0 25 6 1
 1
 end_operator
@@ -20527,8 +20527,8 @@ newcolfromfreecell ha n3 n2 n0 n1
 0
 4
 0 12 2 0
-0 24 0 1
 0 13 -1 0
+0 24 0 1
 0 25 7 6
 1
 end_operator
@@ -20537,8 +20537,8 @@ newcolfromfreecell ha n3 n2 n1 n2
 0
 4
 0 12 2 0
-0 24 1 6
 0 13 -1 0
+0 24 1 6
 0 25 7 6
 1
 end_operator
@@ -20547,8 +20547,8 @@ newcolfromfreecell ha n3 n2 n10 n11
 0
 4
 0 12 2 0
-0 24 2 3
 0 13 -1 0
+0 24 2 3
 0 25 7 6
 1
 end_operator
@@ -20557,8 +20557,8 @@ newcolfromfreecell ha n3 n2 n11 n12
 0
 4
 0 12 2 0
-0 24 3 4
 0 13 -1 0
+0 24 3 4
 0 25 7 6
 1
 end_operator
@@ -20567,8 +20567,8 @@ newcolfromfreecell ha n3 n2 n12 n13
 0
 4
 0 12 2 0
-0 24 4 5
 0 13 -1 0
+0 24 4 5
 0 25 7 6
 1
 end_operator
@@ -20577,8 +20577,8 @@ newcolfromfreecell ha n3 n2 n2 n3
 0
 4
 0 12 2 0
-0 24 6 7
 0 13 -1 0
+0 24 6 7
 0 25 7 6
 1
 end_operator
@@ -20587,8 +20587,8 @@ newcolfromfreecell ha n3 n2 n3 n4
 0
 4
 0 12 2 0
-0 24 7 8
 0 13 -1 0
+0 24 7 8
 0 25 7 6
 1
 end_operator
@@ -20597,8 +20597,8 @@ newcolfromfreecell ha n3 n2 n4 n5
 0
 4
 0 12 2 0
-0 24 8 9
 0 13 -1 0
+0 24 8 9
 0 25 7 6
 1
 end_operator
@@ -20607,8 +20607,8 @@ newcolfromfreecell ha n3 n2 n5 n6
 0
 4
 0 12 2 0
-0 24 9 10
 0 13 -1 0
+0 24 9 10
 0 25 7 6
 1
 end_operator
@@ -20617,8 +20617,8 @@ newcolfromfreecell ha n3 n2 n6 n7
 0
 4
 0 12 2 0
-0 24 10 11
 0 13 -1 0
+0 24 10 11
 0 25 7 6
 1
 end_operator
@@ -20627,8 +20627,8 @@ newcolfromfreecell ha n3 n2 n7 n8
 0
 4
 0 12 2 0
-0 24 11 12
 0 13 -1 0
+0 24 11 12
 0 25 7 6
 1
 end_operator
@@ -20637,8 +20637,8 @@ newcolfromfreecell ha n3 n2 n8 n9
 0
 4
 0 12 2 0
-0 24 12 13
 0 13 -1 0
+0 24 12 13
 0 25 7 6
 1
 end_operator
@@ -20647,8 +20647,8 @@ newcolfromfreecell ha n3 n2 n9 n10
 0
 4
 0 12 2 0
-0 24 13 2
 0 13 -1 0
+0 24 13 2
 0 25 7 6
 1
 end_operator
@@ -20657,8 +20657,8 @@ newcolfromfreecell ha n4 n3 n0 n1
 0
 4
 0 12 2 0
-0 24 0 1
 0 13 -1 0
+0 24 0 1
 0 25 8 7
 1
 end_operator
@@ -20667,8 +20667,8 @@ newcolfromfreecell ha n4 n3 n1 n2
 0
 4
 0 12 2 0
-0 24 1 6
 0 13 -1 0
+0 24 1 6
 0 25 8 7
 1
 end_operator
@@ -20677,8 +20677,8 @@ newcolfromfreecell ha n4 n3 n10 n11
 0
 4
 0 12 2 0
-0 24 2 3
 0 13 -1 0
+0 24 2 3
 0 25 8 7
 1
 end_operator
@@ -20687,8 +20687,8 @@ newcolfromfreecell ha n4 n3 n11 n12
 0
 4
 0 12 2 0
-0 24 3 4
 0 13 -1 0
+0 24 3 4
 0 25 8 7
 1
 end_operator
@@ -20697,8 +20697,8 @@ newcolfromfreecell ha n4 n3 n12 n13
 0
 4
 0 12 2 0
-0 24 4 5
 0 13 -1 0
+0 24 4 5
 0 25 8 7
 1
 end_operator
@@ -20707,8 +20707,8 @@ newcolfromfreecell ha n4 n3 n2 n3
 0
 4
 0 12 2 0
-0 24 6 7
 0 13 -1 0
+0 24 6 7
 0 25 8 7
 1
 end_operator
@@ -20717,8 +20717,8 @@ newcolfromfreecell ha n4 n3 n3 n4
 0
 4
 0 12 2 0
-0 24 7 8
 0 13 -1 0
+0 24 7 8
 0 25 8 7
 1
 end_operator
@@ -20727,8 +20727,8 @@ newcolfromfreecell ha n4 n3 n4 n5
 0
 4
 0 12 2 0
-0 24 8 9
 0 13 -1 0
+0 24 8 9
 0 25 8 7
 1
 end_operator
@@ -20737,8 +20737,8 @@ newcolfromfreecell ha n4 n3 n5 n6
 0
 4
 0 12 2 0
-0 24 9 10
 0 13 -1 0
+0 24 9 10
 0 25 8 7
 1
 end_operator
@@ -20747,8 +20747,8 @@ newcolfromfreecell ha n4 n3 n6 n7
 0
 4
 0 12 2 0
-0 24 10 11
 0 13 -1 0
+0 24 10 11
 0 25 8 7
 1
 end_operator
@@ -20757,8 +20757,8 @@ newcolfromfreecell ha n4 n3 n7 n8
 0
 4
 0 12 2 0
-0 24 11 12
 0 13 -1 0
+0 24 11 12
 0 25 8 7
 1
 end_operator
@@ -20767,8 +20767,8 @@ newcolfromfreecell ha n4 n3 n8 n9
 0
 4
 0 12 2 0
-0 24 12 13
 0 13 -1 0
+0 24 12 13
 0 25 8 7
 1
 end_operator
@@ -20777,8 +20777,8 @@ newcolfromfreecell ha n4 n3 n9 n10
 0
 4
 0 12 2 0
-0 24 13 2
 0 13 -1 0
+0 24 13 2
 0 25 8 7
 1
 end_operator
@@ -20787,8 +20787,8 @@ newcolfromfreecell ha n5 n4 n0 n1
 0
 4
 0 12 2 0
-0 24 0 1
 0 13 -1 0
+0 24 0 1
 0 25 9 8
 1
 end_operator
@@ -20797,8 +20797,8 @@ newcolfromfreecell ha n5 n4 n1 n2
 0
 4
 0 12 2 0
-0 24 1 6
 0 13 -1 0
+0 24 1 6
 0 25 9 8
 1
 end_operator
@@ -20807,8 +20807,8 @@ newcolfromfreecell ha n5 n4 n10 n11
 0
 4
 0 12 2 0
-0 24 2 3
 0 13 -1 0
+0 24 2 3
 0 25 9 8
 1
 end_operator
@@ -20817,8 +20817,8 @@ newcolfromfreecell ha n5 n4 n11 n12
 0
 4
 0 12 2 0
-0 24 3 4
 0 13 -1 0
+0 24 3 4
 0 25 9 8
 1
 end_operator
@@ -20827,8 +20827,8 @@ newcolfromfreecell ha n5 n4 n12 n13
 0
 4
 0 12 2 0
-0 24 4 5
 0 13 -1 0
+0 24 4 5
 0 25 9 8
 1
 end_operator
@@ -20837,8 +20837,8 @@ newcolfromfreecell ha n5 n4 n2 n3
 0
 4
 0 12 2 0
-0 24 6 7
 0 13 -1 0
+0 24 6 7
 0 25 9 8
 1
 end_operator
@@ -20847,8 +20847,8 @@ newcolfromfreecell ha n5 n4 n3 n4
 0
 4
 0 12 2 0
-0 24 7 8
 0 13 -1 0
+0 24 7 8
 0 25 9 8
 1
 end_operator
@@ -20857,8 +20857,8 @@ newcolfromfreecell ha n5 n4 n4 n5
 0
 4
 0 12 2 0
-0 24 8 9
 0 13 -1 0
+0 24 8 9
 0 25 9 8
 1
 end_operator
@@ -20867,8 +20867,8 @@ newcolfromfreecell ha n5 n4 n5 n6
 0
 4
 0 12 2 0
-0 24 9 10
 0 13 -1 0
+0 24 9 10
 0 25 9 8
 1
 end_operator
@@ -20877,8 +20877,8 @@ newcolfromfreecell ha n5 n4 n6 n7
 0
 4
 0 12 2 0
-0 24 10 11
 0 13 -1 0
+0 24 10 11
 0 25 9 8
 1
 end_operator
@@ -20887,8 +20887,8 @@ newcolfromfreecell ha n5 n4 n7 n8
 0
 4
 0 12 2 0
-0 24 11 12
 0 13 -1 0
+0 24 11 12
 0 25 9 8
 1
 end_operator
@@ -20897,8 +20897,8 @@ newcolfromfreecell ha n5 n4 n8 n9
 0
 4
 0 12 2 0
-0 24 12 13
 0 13 -1 0
+0 24 12 13
 0 25 9 8
 1
 end_operator
@@ -20907,8 +20907,8 @@ newcolfromfreecell ha n5 n4 n9 n10
 0
 4
 0 12 2 0
-0 24 13 2
 0 13 -1 0
+0 24 13 2
 0 25 9 8
 1
 end_operator
@@ -20917,8 +20917,8 @@ newcolfromfreecell ha n6 n5 n0 n1
 0
 4
 0 12 2 0
-0 24 0 1
 0 13 -1 0
+0 24 0 1
 0 25 10 9
 1
 end_operator
@@ -20927,8 +20927,8 @@ newcolfromfreecell ha n6 n5 n1 n2
 0
 4
 0 12 2 0
-0 24 1 6
 0 13 -1 0
+0 24 1 6
 0 25 10 9
 1
 end_operator
@@ -20937,8 +20937,8 @@ newcolfromfreecell ha n6 n5 n10 n11
 0
 4
 0 12 2 0
-0 24 2 3
 0 13 -1 0
+0 24 2 3
 0 25 10 9
 1
 end_operator
@@ -20947,8 +20947,8 @@ newcolfromfreecell ha n6 n5 n11 n12
 0
 4
 0 12 2 0
-0 24 3 4
 0 13 -1 0
+0 24 3 4
 0 25 10 9
 1
 end_operator
@@ -20957,8 +20957,8 @@ newcolfromfreecell ha n6 n5 n12 n13
 0
 4
 0 12 2 0
-0 24 4 5
 0 13 -1 0
+0 24 4 5
 0 25 10 9
 1
 end_operator
@@ -20967,8 +20967,8 @@ newcolfromfreecell ha n6 n5 n2 n3
 0
 4
 0 12 2 0
-0 24 6 7
 0 13 -1 0
+0 24 6 7
 0 25 10 9
 1
 end_operator
@@ -20977,8 +20977,8 @@ newcolfromfreecell ha n6 n5 n3 n4
 0
 4
 0 12 2 0
-0 24 7 8
 0 13 -1 0
+0 24 7 8
 0 25 10 9
 1
 end_operator
@@ -20987,8 +20987,8 @@ newcolfromfreecell ha n6 n5 n4 n5
 0
 4
 0 12 2 0
-0 24 8 9
 0 13 -1 0
+0 24 8 9
 0 25 10 9
 1
 end_operator
@@ -20997,8 +20997,8 @@ newcolfromfreecell ha n6 n5 n5 n6
 0
 4
 0 12 2 0
-0 24 9 10
 0 13 -1 0
+0 24 9 10
 0 25 10 9
 1
 end_operator
@@ -21007,8 +21007,8 @@ newcolfromfreecell ha n6 n5 n6 n7
 0
 4
 0 12 2 0
-0 24 10 11
 0 13 -1 0
+0 24 10 11
 0 25 10 9
 1
 end_operator
@@ -21017,8 +21017,8 @@ newcolfromfreecell ha n6 n5 n7 n8
 0
 4
 0 12 2 0
-0 24 11 12
 0 13 -1 0
+0 24 11 12
 0 25 10 9
 1
 end_operator
@@ -21027,8 +21027,8 @@ newcolfromfreecell ha n6 n5 n8 n9
 0
 4
 0 12 2 0
-0 24 12 13
 0 13 -1 0
+0 24 12 13
 0 25 10 9
 1
 end_operator
@@ -21037,8 +21037,8 @@ newcolfromfreecell ha n6 n5 n9 n10
 0
 4
 0 12 2 0
-0 24 13 2
 0 13 -1 0
+0 24 13 2
 0 25 10 9
 1
 end_operator
@@ -21047,8 +21047,8 @@ newcolfromfreecell ha n7 n6 n0 n1
 0
 4
 0 12 2 0
-0 24 0 1
 0 13 -1 0
+0 24 0 1
 0 25 11 10
 1
 end_operator
@@ -21057,8 +21057,8 @@ newcolfromfreecell ha n7 n6 n1 n2
 0
 4
 0 12 2 0
-0 24 1 6
 0 13 -1 0
+0 24 1 6
 0 25 11 10
 1
 end_operator
@@ -21067,8 +21067,8 @@ newcolfromfreecell ha n7 n6 n10 n11
 0
 4
 0 12 2 0
-0 24 2 3
 0 13 -1 0
+0 24 2 3
 0 25 11 10
 1
 end_operator
@@ -21077,8 +21077,8 @@ newcolfromfreecell ha n7 n6 n11 n12
 0
 4
 0 12 2 0
-0 24 3 4
 0 13 -1 0
+0 24 3 4
 0 25 11 10
 1
 end_operator
@@ -21087,8 +21087,8 @@ newcolfromfreecell ha n7 n6 n12 n13
 0
 4
 0 12 2 0
-0 24 4 5
 0 13 -1 0
+0 24 4 5
 0 25 11 10
 1
 end_operator
@@ -21097,8 +21097,8 @@ newcolfromfreecell ha n7 n6 n2 n3
 0
 4
 0 12 2 0
-0 24 6 7
 0 13 -1 0
+0 24 6 7
 0 25 11 10
 1
 end_operator
@@ -21107,8 +21107,8 @@ newcolfromfreecell ha n7 n6 n3 n4
 0
 4
 0 12 2 0
-0 24 7 8
 0 13 -1 0
+0 24 7 8
 0 25 11 10
 1
 end_operator
@@ -21117,8 +21117,8 @@ newcolfromfreecell ha n7 n6 n4 n5
 0
 4
 0 12 2 0
-0 24 8 9
 0 13 -1 0
+0 24 8 9
 0 25 11 10
 1
 end_operator
@@ -21127,8 +21127,8 @@ newcolfromfreecell ha n7 n6 n5 n6
 0
 4
 0 12 2 0
-0 24 9 10
 0 13 -1 0
+0 24 9 10
 0 25 11 10
 1
 end_operator
@@ -21137,8 +21137,8 @@ newcolfromfreecell ha n7 n6 n6 n7
 0
 4
 0 12 2 0
-0 24 10 11
 0 13 -1 0
+0 24 10 11
 0 25 11 10
 1
 end_operator
@@ -21147,8 +21147,8 @@ newcolfromfreecell ha n7 n6 n7 n8
 0
 4
 0 12 2 0
-0 24 11 12
 0 13 -1 0
+0 24 11 12
 0 25 11 10
 1
 end_operator
@@ -21157,8 +21157,8 @@ newcolfromfreecell ha n7 n6 n8 n9
 0
 4
 0 12 2 0
-0 24 12 13
 0 13 -1 0
+0 24 12 13
 0 25 11 10
 1
 end_operator
@@ -21167,8 +21167,8 @@ newcolfromfreecell ha n7 n6 n9 n10
 0
 4
 0 12 2 0
-0 24 13 2
 0 13 -1 0
+0 24 13 2
 0 25 11 10
 1
 end_operator
@@ -21177,8 +21177,8 @@ newcolfromfreecell ha n8 n7 n0 n1
 0
 4
 0 12 2 0
-0 24 0 1
 0 13 -1 0
+0 24 0 1
 0 25 12 11
 1
 end_operator
@@ -21187,8 +21187,8 @@ newcolfromfreecell ha n8 n7 n1 n2
 0
 4
 0 12 2 0
-0 24 1 6
 0 13 -1 0
+0 24 1 6
 0 25 12 11
 1
 end_operator
@@ -21197,8 +21197,8 @@ newcolfromfreecell ha n8 n7 n10 n11
 0
 4
 0 12 2 0
-0 24 2 3
 0 13 -1 0
+0 24 2 3
 0 25 12 11
 1
 end_operator
@@ -21207,8 +21207,8 @@ newcolfromfreecell ha n8 n7 n11 n12
 0
 4
 0 12 2 0
-0 24 3 4
 0 13 -1 0
+0 24 3 4
 0 25 12 11
 1
 end_operator
@@ -21217,8 +21217,8 @@ newcolfromfreecell ha n8 n7 n12 n13
 0
 4
 0 12 2 0
-0 24 4 5
 0 13 -1 0
+0 24 4 5
 0 25 12 11
 1
 end_operator
@@ -21227,8 +21227,8 @@ newcolfromfreecell ha n8 n7 n2 n3
 0
 4
 0 12 2 0
-0 24 6 7
 0 13 -1 0
+0 24 6 7
 0 25 12 11
 1
 end_operator
@@ -21237,8 +21237,8 @@ newcolfromfreecell ha n8 n7 n3 n4
 0
 4
 0 12 2 0
-0 24 7 8
 0 13 -1 0
+0 24 7 8
 0 25 12 11
 1
 end_operator
@@ -21247,8 +21247,8 @@ newcolfromfreecell ha n8 n7 n4 n5
 0
 4
 0 12 2 0
-0 24 8 9
 0 13 -1 0
+0 24 8 9
 0 25 12 11
 1
 end_operator
@@ -21257,8 +21257,8 @@ newcolfromfreecell ha n8 n7 n5 n6
 0
 4
 0 12 2 0
-0 24 9 10
 0 13 -1 0
+0 24 9 10
 0 25 12 11
 1
 end_operator
@@ -21267,8 +21267,8 @@ newcolfromfreecell ha n8 n7 n6 n7
 0
 4
 0 12 2 0
-0 24 10 11
 0 13 -1 0
+0 24 10 11
 0 25 12 11
 1
 end_operator
@@ -21277,8 +21277,8 @@ newcolfromfreecell ha n8 n7 n7 n8
 0
 4
 0 12 2 0
-0 24 11 12
 0 13 -1 0
+0 24 11 12
 0 25 12 11
 1
 end_operator
@@ -21287,8 +21287,8 @@ newcolfromfreecell ha n8 n7 n8 n9
 0
 4
 0 12 2 0
-0 24 12 13
 0 13 -1 0
+0 24 12 13
 0 25 12 11
 1
 end_operator
@@ -21297,8 +21297,8 @@ newcolfromfreecell ha n8 n7 n9 n10
 0
 4
 0 12 2 0
-0 24 13 2
 0 13 -1 0
+0 24 13 2
 0 25 12 11
 1
 end_operator
@@ -21307,8 +21307,8 @@ newcolfromfreecell ha n9 n8 n0 n1
 0
 4
 0 12 2 0
-0 24 0 1
 0 13 -1 0
+0 24 0 1
 0 25 13 12
 1
 end_operator
@@ -21317,8 +21317,8 @@ newcolfromfreecell ha n9 n8 n1 n2
 0
 4
 0 12 2 0
-0 24 1 6
 0 13 -1 0
+0 24 1 6
 0 25 13 12
 1
 end_operator
@@ -21327,8 +21327,8 @@ newcolfromfreecell ha n9 n8 n10 n11
 0
 4
 0 12 2 0
-0 24 2 3
 0 13 -1 0
+0 24 2 3
 0 25 13 12
 1
 end_operator
@@ -21337,8 +21337,8 @@ newcolfromfreecell ha n9 n8 n11 n12
 0
 4
 0 12 2 0
-0 24 3 4
 0 13 -1 0
+0 24 3 4
 0 25 13 12
 1
 end_operator
@@ -21347,8 +21347,8 @@ newcolfromfreecell ha n9 n8 n12 n13
 0
 4
 0 12 2 0
-0 24 4 5
 0 13 -1 0
+0 24 4 5
 0 25 13 12
 1
 end_operator
@@ -21357,8 +21357,8 @@ newcolfromfreecell ha n9 n8 n2 n3
 0
 4
 0 12 2 0
-0 24 6 7
 0 13 -1 0
+0 24 6 7
 0 25 13 12
 1
 end_operator
@@ -21367,8 +21367,8 @@ newcolfromfreecell ha n9 n8 n3 n4
 0
 4
 0 12 2 0
-0 24 7 8
 0 13 -1 0
+0 24 7 8
 0 25 13 12
 1
 end_operator
@@ -21377,8 +21377,8 @@ newcolfromfreecell ha n9 n8 n4 n5
 0
 4
 0 12 2 0
-0 24 8 9
 0 13 -1 0
+0 24 8 9
 0 25 13 12
 1
 end_operator
@@ -21387,8 +21387,8 @@ newcolfromfreecell ha n9 n8 n5 n6
 0
 4
 0 12 2 0
-0 24 9 10
 0 13 -1 0
+0 24 9 10
 0 25 13 12
 1
 end_operator
@@ -21397,8 +21397,8 @@ newcolfromfreecell ha n9 n8 n6 n7
 0
 4
 0 12 2 0
-0 24 10 11
 0 13 -1 0
+0 24 10 11
 0 25 13 12
 1
 end_operator
@@ -21407,8 +21407,8 @@ newcolfromfreecell ha n9 n8 n7 n8
 0
 4
 0 12 2 0
-0 24 11 12
 0 13 -1 0
+0 24 11 12
 0 25 13 12
 1
 end_operator
@@ -21417,8 +21417,8 @@ newcolfromfreecell ha n9 n8 n8 n9
 0
 4
 0 12 2 0
-0 24 12 13
 0 13 -1 0
+0 24 12 13
 0 25 13 12
 1
 end_operator
@@ -21427,8 +21427,8 @@ newcolfromfreecell ha n9 n8 n9 n10
 0
 4
 0 12 2 0
-0 24 13 2
 0 13 -1 0
+0 24 13 2
 0 25 13 12
 1
 end_operator
@@ -21437,8 +21437,8 @@ newcolfromfreecell s2 n1 n0 n0 n1
 0
 4
 0 10 -1 0
-0 24 0 1
 0 11 2 0
+0 24 0 1
 0 25 1 0
 1
 end_operator
@@ -21447,8 +21447,8 @@ newcolfromfreecell s2 n1 n0 n1 n2
 0
 4
 0 10 -1 0
-0 24 1 6
 0 11 2 0
+0 24 1 6
 0 25 1 0
 1
 end_operator
@@ -21457,8 +21457,8 @@ newcolfromfreecell s2 n1 n0 n10 n11
 0
 4
 0 10 -1 0
-0 24 2 3
 0 11 2 0
+0 24 2 3
 0 25 1 0
 1
 end_operator
@@ -21467,8 +21467,8 @@ newcolfromfreecell s2 n1 n0 n11 n12
 0
 4
 0 10 -1 0
-0 24 3 4
 0 11 2 0
+0 24 3 4
 0 25 1 0
 1
 end_operator
@@ -21477,8 +21477,8 @@ newcolfromfreecell s2 n1 n0 n12 n13
 0
 4
 0 10 -1 0
-0 24 4 5
 0 11 2 0
+0 24 4 5
 0 25 1 0
 1
 end_operator
@@ -21487,8 +21487,8 @@ newcolfromfreecell s2 n1 n0 n2 n3
 0
 4
 0 10 -1 0
-0 24 6 7
 0 11 2 0
+0 24 6 7
 0 25 1 0
 1
 end_operator
@@ -21497,8 +21497,8 @@ newcolfromfreecell s2 n1 n0 n3 n4
 0
 4
 0 10 -1 0
-0 24 7 8
 0 11 2 0
+0 24 7 8
 0 25 1 0
 1
 end_operator
@@ -21507,8 +21507,8 @@ newcolfromfreecell s2 n1 n0 n4 n5
 0
 4
 0 10 -1 0
-0 24 8 9
 0 11 2 0
+0 24 8 9
 0 25 1 0
 1
 end_operator
@@ -21517,8 +21517,8 @@ newcolfromfreecell s2 n1 n0 n5 n6
 0
 4
 0 10 -1 0
-0 24 9 10
 0 11 2 0
+0 24 9 10
 0 25 1 0
 1
 end_operator
@@ -21527,8 +21527,8 @@ newcolfromfreecell s2 n1 n0 n6 n7
 0
 4
 0 10 -1 0
-0 24 10 11
 0 11 2 0
+0 24 10 11
 0 25 1 0
 1
 end_operator
@@ -21537,8 +21537,8 @@ newcolfromfreecell s2 n1 n0 n7 n8
 0
 4
 0 10 -1 0
-0 24 11 12
 0 11 2 0
+0 24 11 12
 0 25 1 0
 1
 end_operator
@@ -21547,8 +21547,8 @@ newcolfromfreecell s2 n1 n0 n8 n9
 0
 4
 0 10 -1 0
-0 24 12 13
 0 11 2 0
+0 24 12 13
 0 25 1 0
 1
 end_operator
@@ -21557,8 +21557,8 @@ newcolfromfreecell s2 n1 n0 n9 n10
 0
 4
 0 10 -1 0
-0 24 13 2
 0 11 2 0
+0 24 13 2
 0 25 1 0
 1
 end_operator
@@ -21567,8 +21567,8 @@ newcolfromfreecell s2 n10 n9 n0 n1
 0
 4
 0 10 -1 0
-0 24 0 1
 0 11 2 0
+0 24 0 1
 0 25 2 13
 1
 end_operator
@@ -21577,8 +21577,8 @@ newcolfromfreecell s2 n10 n9 n1 n2
 0
 4
 0 10 -1 0
-0 24 1 6
 0 11 2 0
+0 24 1 6
 0 25 2 13
 1
 end_operator
@@ -21587,8 +21587,8 @@ newcolfromfreecell s2 n10 n9 n10 n11
 0
 4
 0 10 -1 0
-0 24 2 3
 0 11 2 0
+0 24 2 3
 0 25 2 13
 1
 end_operator
@@ -21597,8 +21597,8 @@ newcolfromfreecell s2 n10 n9 n11 n12
 0
 4
 0 10 -1 0
-0 24 3 4
 0 11 2 0
+0 24 3 4
 0 25 2 13
 1
 end_operator
@@ -21607,8 +21607,8 @@ newcolfromfreecell s2 n10 n9 n12 n13
 0
 4
 0 10 -1 0
-0 24 4 5
 0 11 2 0
+0 24 4 5
 0 25 2 13
 1
 end_operator
@@ -21617,8 +21617,8 @@ newcolfromfreecell s2 n10 n9 n2 n3
 0
 4
 0 10 -1 0
-0 24 6 7
 0 11 2 0
+0 24 6 7
 0 25 2 13
 1
 end_operator
@@ -21627,8 +21627,8 @@ newcolfromfreecell s2 n10 n9 n3 n4
 0
 4
 0 10 -1 0
-0 24 7 8
 0 11 2 0
+0 24 7 8
 0 25 2 13
 1
 end_operator
@@ -21637,8 +21637,8 @@ newcolfromfreecell s2 n10 n9 n4 n5
 0
 4
 0 10 -1 0
-0 24 8 9
 0 11 2 0
+0 24 8 9
 0 25 2 13
 1
 end_operator
@@ -21647,8 +21647,8 @@ newcolfromfreecell s2 n10 n9 n5 n6
 0
 4
 0 10 -1 0
-0 24 9 10
 0 11 2 0
+0 24 9 10
 0 25 2 13
 1
 end_operator
@@ -21657,8 +21657,8 @@ newcolfromfreecell s2 n10 n9 n6 n7
 0
 4
 0 10 -1 0
-0 24 10 11
 0 11 2 0
+0 24 10 11
 0 25 2 13
 1
 end_operator
@@ -21667,8 +21667,8 @@ newcolfromfreecell s2 n10 n9 n7 n8
 0
 4
 0 10 -1 0
-0 24 11 12
 0 11 2 0
+0 24 11 12
 0 25 2 13
 1
 end_operator
@@ -21677,8 +21677,8 @@ newcolfromfreecell s2 n10 n9 n8 n9
 0
 4
 0 10 -1 0
-0 24 12 13
 0 11 2 0
+0 24 12 13
 0 25 2 13
 1
 end_operator
@@ -21687,8 +21687,8 @@ newcolfromfreecell s2 n10 n9 n9 n10
 0
 4
 0 10 -1 0
-0 24 13 2
 0 11 2 0
+0 24 13 2
 0 25 2 13
 1
 end_operator
@@ -21697,8 +21697,8 @@ newcolfromfreecell s2 n11 n10 n0 n1
 0
 4
 0 10 -1 0
-0 24 0 1
 0 11 2 0
+0 24 0 1
 0 25 3 2
 1
 end_operator
@@ -21707,8 +21707,8 @@ newcolfromfreecell s2 n11 n10 n1 n2
 0
 4
 0 10 -1 0
-0 24 1 6
 0 11 2 0
+0 24 1 6
 0 25 3 2
 1
 end_operator
@@ -21717,8 +21717,8 @@ newcolfromfreecell s2 n11 n10 n10 n11
 0
 4
 0 10 -1 0
-0 24 2 3
 0 11 2 0
+0 24 2 3
 0 25 3 2
 1
 end_operator
@@ -21727,8 +21727,8 @@ newcolfromfreecell s2 n11 n10 n11 n12
 0
 4
 0 10 -1 0
-0 24 3 4
 0 11 2 0
+0 24 3 4
 0 25 3 2
 1
 end_operator
@@ -21737,8 +21737,8 @@ newcolfromfreecell s2 n11 n10 n12 n13
 0
 4
 0 10 -1 0
-0 24 4 5
 0 11 2 0
+0 24 4 5
 0 25 3 2
 1
 end_operator
@@ -21747,8 +21747,8 @@ newcolfromfreecell s2 n11 n10 n2 n3
 0
 4
 0 10 -1 0
-0 24 6 7
 0 11 2 0
+0 24 6 7
 0 25 3 2
 1
 end_operator
@@ -21757,8 +21757,8 @@ newcolfromfreecell s2 n11 n10 n3 n4
 0
 4
 0 10 -1 0
-0 24 7 8
 0 11 2 0
+0 24 7 8
 0 25 3 2
 1
 end_operator
@@ -21767,8 +21767,8 @@ newcolfromfreecell s2 n11 n10 n4 n5
 0
 4
 0 10 -1 0
-0 24 8 9
 0 11 2 0
+0 24 8 9
 0 25 3 2
 1
 end_operator
@@ -21777,8 +21777,8 @@ newcolfromfreecell s2 n11 n10 n5 n6
 0
 4
 0 10 -1 0
-0 24 9 10
 0 11 2 0
+0 24 9 10
 0 25 3 2
 1
 end_operator
@@ -21787,8 +21787,8 @@ newcolfromfreecell s2 n11 n10 n6 n7
 0
 4
 0 10 -1 0
-0 24 10 11
 0 11 2 0
+0 24 10 11
 0 25 3 2
 1
 end_operator
@@ -21797,8 +21797,8 @@ newcolfromfreecell s2 n11 n10 n7 n8
 0
 4
 0 10 -1 0
-0 24 11 12
 0 11 2 0
+0 24 11 12
 0 25 3 2
 1
 end_operator
@@ -21807,8 +21807,8 @@ newcolfromfreecell s2 n11 n10 n8 n9
 0
 4
 0 10 -1 0
-0 24 12 13
 0 11 2 0
+0 24 12 13
 0 25 3 2
 1
 end_operator
@@ -21817,8 +21817,8 @@ newcolfromfreecell s2 n11 n10 n9 n10
 0
 4
 0 10 -1 0
-0 24 13 2
 0 11 2 0
+0 24 13 2
 0 25 3 2
 1
 end_operator
@@ -21827,8 +21827,8 @@ newcolfromfreecell s2 n12 n11 n0 n1
 0
 4
 0 10 -1 0
-0 24 0 1
 0 11 2 0
+0 24 0 1
 0 25 4 3
 1
 end_operator
@@ -21837,8 +21837,8 @@ newcolfromfreecell s2 n12 n11 n1 n2
 0
 4
 0 10 -1 0
-0 24 1 6
 0 11 2 0
+0 24 1 6
 0 25 4 3
 1
 end_operator
@@ -21847,8 +21847,8 @@ newcolfromfreecell s2 n12 n11 n10 n11
 0
 4
 0 10 -1 0
-0 24 2 3
 0 11 2 0
+0 24 2 3
 0 25 4 3
 1
 end_operator
@@ -21857,8 +21857,8 @@ newcolfromfreecell s2 n12 n11 n11 n12
 0
 4
 0 10 -1 0
-0 24 3 4
 0 11 2 0
+0 24 3 4
 0 25 4 3
 1
 end_operator
@@ -21867,8 +21867,8 @@ newcolfromfreecell s2 n12 n11 n12 n13
 0
 4
 0 10 -1 0
-0 24 4 5
 0 11 2 0
+0 24 4 5
 0 25 4 3
 1
 end_operator
@@ -21877,8 +21877,8 @@ newcolfromfreecell s2 n12 n11 n2 n3
 0
 4
 0 10 -1 0
-0 24 6 7
 0 11 2 0
+0 24 6 7
 0 25 4 3
 1
 end_operator
@@ -21887,8 +21887,8 @@ newcolfromfreecell s2 n12 n11 n3 n4
 0
 4
 0 10 -1 0
-0 24 7 8
 0 11 2 0
+0 24 7 8
 0 25 4 3
 1
 end_operator
@@ -21897,8 +21897,8 @@ newcolfromfreecell s2 n12 n11 n4 n5
 0
 4
 0 10 -1 0
-0 24 8 9
 0 11 2 0
+0 24 8 9
 0 25 4 3
 1
 end_operator
@@ -21907,8 +21907,8 @@ newcolfromfreecell s2 n12 n11 n5 n6
 0
 4
 0 10 -1 0
-0 24 9 10
 0 11 2 0
+0 24 9 10
 0 25 4 3
 1
 end_operator
@@ -21917,8 +21917,8 @@ newcolfromfreecell s2 n12 n11 n6 n7
 0
 4
 0 10 -1 0
-0 24 10 11
 0 11 2 0
+0 24 10 11
 0 25 4 3
 1
 end_operator
@@ -21927,8 +21927,8 @@ newcolfromfreecell s2 n12 n11 n7 n8
 0
 4
 0 10 -1 0
-0 24 11 12
 0 11 2 0
+0 24 11 12
 0 25 4 3
 1
 end_operator
@@ -21937,8 +21937,8 @@ newcolfromfreecell s2 n12 n11 n8 n9
 0
 4
 0 10 -1 0
-0 24 12 13
 0 11 2 0
+0 24 12 13
 0 25 4 3
 1
 end_operator
@@ -21947,8 +21947,8 @@ newcolfromfreecell s2 n12 n11 n9 n10
 0
 4
 0 10 -1 0
-0 24 13 2
 0 11 2 0
+0 24 13 2
 0 25 4 3
 1
 end_operator
@@ -21957,8 +21957,8 @@ newcolfromfreecell s2 n13 n12 n0 n1
 0
 4
 0 10 -1 0
-0 24 0 1
 0 11 2 0
+0 24 0 1
 0 25 5 4
 1
 end_operator
@@ -21967,8 +21967,8 @@ newcolfromfreecell s2 n13 n12 n1 n2
 0
 4
 0 10 -1 0
-0 24 1 6
 0 11 2 0
+0 24 1 6
 0 25 5 4
 1
 end_operator
@@ -21977,8 +21977,8 @@ newcolfromfreecell s2 n13 n12 n10 n11
 0
 4
 0 10 -1 0
-0 24 2 3
 0 11 2 0
+0 24 2 3
 0 25 5 4
 1
 end_operator
@@ -21987,8 +21987,8 @@ newcolfromfreecell s2 n13 n12 n11 n12
 0
 4
 0 10 -1 0
-0 24 3 4
 0 11 2 0
+0 24 3 4
 0 25 5 4
 1
 end_operator
@@ -21997,8 +21997,8 @@ newcolfromfreecell s2 n13 n12 n12 n13
 0
 4
 0 10 -1 0
-0 24 4 5
 0 11 2 0
+0 24 4 5
 0 25 5 4
 1
 end_operator
@@ -22007,8 +22007,8 @@ newcolfromfreecell s2 n13 n12 n2 n3
 0
 4
 0 10 -1 0
-0 24 6 7
 0 11 2 0
+0 24 6 7
 0 25 5 4
 1
 end_operator
@@ -22017,8 +22017,8 @@ newcolfromfreecell s2 n13 n12 n3 n4
 0
 4
 0 10 -1 0
-0 24 7 8
 0 11 2 0
+0 24 7 8
 0 25 5 4
 1
 end_operator
@@ -22027,8 +22027,8 @@ newcolfromfreecell s2 n13 n12 n4 n5
 0
 4
 0 10 -1 0
-0 24 8 9
 0 11 2 0
+0 24 8 9
 0 25 5 4
 1
 end_operator
@@ -22037,8 +22037,8 @@ newcolfromfreecell s2 n13 n12 n5 n6
 0
 4
 0 10 -1 0
-0 24 9 10
 0 11 2 0
+0 24 9 10
 0 25 5 4
 1
 end_operator
@@ -22047,8 +22047,8 @@ newcolfromfreecell s2 n13 n12 n6 n7
 0
 4
 0 10 -1 0
-0 24 10 11
 0 11 2 0
+0 24 10 11
 0 25 5 4
 1
 end_operator
@@ -22057,8 +22057,8 @@ newcolfromfreecell s2 n13 n12 n7 n8
 0
 4
 0 10 -1 0
-0 24 11 12
 0 11 2 0
+0 24 11 12
 0 25 5 4
 1
 end_operator
@@ -22067,8 +22067,8 @@ newcolfromfreecell s2 n13 n12 n8 n9
 0
 4
 0 10 -1 0
-0 24 12 13
 0 11 2 0
+0 24 12 13
 0 25 5 4
 1
 end_operator
@@ -22077,8 +22077,8 @@ newcolfromfreecell s2 n13 n12 n9 n10
 0
 4
 0 10 -1 0
-0 24 13 2
 0 11 2 0
+0 24 13 2
 0 25 5 4
 1
 end_operator
@@ -22087,8 +22087,8 @@ newcolfromfreecell s2 n2 n1 n0 n1
 0
 4
 0 10 -1 0
-0 24 0 1
 0 11 2 0
+0 24 0 1
 0 25 6 1
 1
 end_operator
@@ -22097,8 +22097,8 @@ newcolfromfreecell s2 n2 n1 n1 n2
 0
 4
 0 10 -1 0
-0 24 1 6
 0 11 2 0
+0 24 1 6
 0 25 6 1
 1
 end_operator
@@ -22107,8 +22107,8 @@ newcolfromfreecell s2 n2 n1 n10 n11
 0
 4
 0 10 -1 0
-0 24 2 3
 0 11 2 0
+0 24 2 3
 0 25 6 1
 1
 end_operator
@@ -22117,8 +22117,8 @@ newcolfromfreecell s2 n2 n1 n11 n12
 0
 4
 0 10 -1 0
-0 24 3 4
 0 11 2 0
+0 24 3 4
 0 25 6 1
 1
 end_operator
@@ -22127,8 +22127,8 @@ newcolfromfreecell s2 n2 n1 n12 n13
 0
 4
 0 10 -1 0
-0 24 4 5
 0 11 2 0
+0 24 4 5
 0 25 6 1
 1
 end_operator
@@ -22137,8 +22137,8 @@ newcolfromfreecell s2 n2 n1 n2 n3
 0
 4
 0 10 -1 0
-0 24 6 7
 0 11 2 0
+0 24 6 7
 0 25 6 1
 1
 end_operator
@@ -22147,8 +22147,8 @@ newcolfromfreecell s2 n2 n1 n3 n4
 0
 4
 0 10 -1 0
-0 24 7 8
 0 11 2 0
+0 24 7 8
 0 25 6 1
 1
 end_operator
@@ -22157,8 +22157,8 @@ newcolfromfreecell s2 n2 n1 n4 n5
 0
 4
 0 10 -1 0
-0 24 8 9
 0 11 2 0
+0 24 8 9
 0 25 6 1
 1
 end_operator
@@ -22167,8 +22167,8 @@ newcolfromfreecell s2 n2 n1 n5 n6
 0
 4
 0 10 -1 0
-0 24 9 10
 0 11 2 0
+0 24 9 10
 0 25 6 1
 1
 end_operator
@@ -22177,8 +22177,8 @@ newcolfromfreecell s2 n2 n1 n6 n7
 0
 4
 0 10 -1 0
-0 24 10 11
 0 11 2 0
+0 24 10 11
 0 25 6 1
 1
 end_operator
@@ -22187,8 +22187,8 @@ newcolfromfreecell s2 n2 n1 n7 n8
 0
 4
 0 10 -1 0
-0 24 11 12
 0 11 2 0
+0 24 11 12
 0 25 6 1
 1
 end_operator
@@ -22197,8 +22197,8 @@ newcolfromfreecell s2 n2 n1 n8 n9
 0
 4
 0 10 -1 0
-0 24 12 13
 0 11 2 0
+0 24 12 13
 0 25 6 1
 1
 end_operator
@@ -22207,8 +22207,8 @@ newcolfromfreecell s2 n2 n1 n9 n10
 0
 4
 0 10 -1 0
-0 24 13 2
 0 11 2 0
+0 24 13 2
 0 25 6 1
 1
 end_operator
@@ -22217,8 +22217,8 @@ newcolfromfreecell s2 n3 n2 n0 n1
 0
 4
 0 10 -1 0
-0 24 0 1
 0 11 2 0
+0 24 0 1
 0 25 7 6
 1
 end_operator
@@ -22227,8 +22227,8 @@ newcolfromfreecell s2 n3 n2 n1 n2
 0
 4
 0 10 -1 0
-0 24 1 6
 0 11 2 0
+0 24 1 6
 0 25 7 6
 1
 end_operator
@@ -22237,8 +22237,8 @@ newcolfromfreecell s2 n3 n2 n10 n11
 0
 4
 0 10 -1 0
-0 24 2 3
 0 11 2 0
+0 24 2 3
 0 25 7 6
 1
 end_operator
@@ -22247,8 +22247,8 @@ newcolfromfreecell s2 n3 n2 n11 n12
 0
 4
 0 10 -1 0
-0 24 3 4
 0 11 2 0
+0 24 3 4
 0 25 7 6
 1
 end_operator
@@ -22257,8 +22257,8 @@ newcolfromfreecell s2 n3 n2 n12 n13
 0
 4
 0 10 -1 0
-0 24 4 5
 0 11 2 0
+0 24 4 5
 0 25 7 6
 1
 end_operator
@@ -22267,8 +22267,8 @@ newcolfromfreecell s2 n3 n2 n2 n3
 0
 4
 0 10 -1 0
-0 24 6 7
 0 11 2 0
+0 24 6 7
 0 25 7 6
 1
 end_operator
@@ -22277,8 +22277,8 @@ newcolfromfreecell s2 n3 n2 n3 n4
 0
 4
 0 10 -1 0
-0 24 7 8
 0 11 2 0
+0 24 7 8
 0 25 7 6
 1
 end_operator
@@ -22287,8 +22287,8 @@ newcolfromfreecell s2 n3 n2 n4 n5
 0
 4
 0 10 -1 0
-0 24 8 9
 0 11 2 0
+0 24 8 9
 0 25 7 6
 1
 end_operator
@@ -22297,8 +22297,8 @@ newcolfromfreecell s2 n3 n2 n5 n6
 0
 4
 0 10 -1 0
-0 24 9 10
 0 11 2 0
+0 24 9 10
 0 25 7 6
 1
 end_operator
@@ -22307,8 +22307,8 @@ newcolfromfreecell s2 n3 n2 n6 n7
 0
 4
 0 10 -1 0
-0 24 10 11
 0 11 2 0
+0 24 10 11
 0 25 7 6
 1
 end_operator
@@ -22317,8 +22317,8 @@ newcolfromfreecell s2 n3 n2 n7 n8
 0
 4
 0 10 -1 0
-0 24 11 12
 0 11 2 0
+0 24 11 12
 0 25 7 6
 1
 end_operator
@@ -22327,8 +22327,8 @@ newcolfromfreecell s2 n3 n2 n8 n9
 0
 4
 0 10 -1 0
-0 24 12 13
 0 11 2 0
+0 24 12 13
 0 25 7 6
 1
 end_operator
@@ -22337,8 +22337,8 @@ newcolfromfreecell s2 n3 n2 n9 n10
 0
 4
 0 10 -1 0
-0 24 13 2
 0 11 2 0
+0 24 13 2
 0 25 7 6
 1
 end_operator
@@ -22347,8 +22347,8 @@ newcolfromfreecell s2 n4 n3 n0 n1
 0
 4
 0 10 -1 0
-0 24 0 1
 0 11 2 0
+0 24 0 1
 0 25 8 7
 1
 end_operator
@@ -22357,8 +22357,8 @@ newcolfromfreecell s2 n4 n3 n1 n2
 0
 4
 0 10 -1 0
-0 24 1 6
 0 11 2 0
+0 24 1 6
 0 25 8 7
 1
 end_operator
@@ -22367,8 +22367,8 @@ newcolfromfreecell s2 n4 n3 n10 n11
 0
 4
 0 10 -1 0
-0 24 2 3
 0 11 2 0
+0 24 2 3
 0 25 8 7
 1
 end_operator
@@ -22377,8 +22377,8 @@ newcolfromfreecell s2 n4 n3 n11 n12
 0
 4
 0 10 -1 0
-0 24 3 4
 0 11 2 0
+0 24 3 4
 0 25 8 7
 1
 end_operator
@@ -22387,8 +22387,8 @@ newcolfromfreecell s2 n4 n3 n12 n13
 0
 4
 0 10 -1 0
-0 24 4 5
 0 11 2 0
+0 24 4 5
 0 25 8 7
 1
 end_operator
@@ -22397,8 +22397,8 @@ newcolfromfreecell s2 n4 n3 n2 n3
 0
 4
 0 10 -1 0
-0 24 6 7
 0 11 2 0
+0 24 6 7
 0 25 8 7
 1
 end_operator
@@ -22407,8 +22407,8 @@ newcolfromfreecell s2 n4 n3 n3 n4
 0
 4
 0 10 -1 0
-0 24 7 8
 0 11 2 0
+0 24 7 8
 0 25 8 7
 1
 end_operator
@@ -22417,8 +22417,8 @@ newcolfromfreecell s2 n4 n3 n4 n5
 0
 4
 0 10 -1 0
-0 24 8 9
 0 11 2 0
+0 24 8 9
 0 25 8 7
 1
 end_operator
@@ -22427,8 +22427,8 @@ newcolfromfreecell s2 n4 n3 n5 n6
 0
 4
 0 10 -1 0
-0 24 9 10
 0 11 2 0
+0 24 9 10
 0 25 8 7
 1
 end_operator
@@ -22437,8 +22437,8 @@ newcolfromfreecell s2 n4 n3 n6 n7
 0
 4
 0 10 -1 0
-0 24 10 11
 0 11 2 0
+0 24 10 11
 0 25 8 7
 1
 end_operator
@@ -22447,8 +22447,8 @@ newcolfromfreecell s2 n4 n3 n7 n8
 0
 4
 0 10 -1 0
-0 24 11 12
 0 11 2 0
+0 24 11 12
 0 25 8 7
 1
 end_operator
@@ -22457,8 +22457,8 @@ newcolfromfreecell s2 n4 n3 n8 n9
 0
 4
 0 10 -1 0
-0 24 12 13
 0 11 2 0
+0 24 12 13
 0 25 8 7
 1
 end_operator
@@ -22467,8 +22467,8 @@ newcolfromfreecell s2 n4 n3 n9 n10
 0
 4
 0 10 -1 0
-0 24 13 2
 0 11 2 0
+0 24 13 2
 0 25 8 7
 1
 end_operator
@@ -22477,8 +22477,8 @@ newcolfromfreecell s2 n5 n4 n0 n1
 0
 4
 0 10 -1 0
-0 24 0 1
 0 11 2 0
+0 24 0 1
 0 25 9 8
 1
 end_operator
@@ -22487,8 +22487,8 @@ newcolfromfreecell s2 n5 n4 n1 n2
 0
 4
 0 10 -1 0
-0 24 1 6
 0 11 2 0
+0 24 1 6
 0 25 9 8
 1
 end_operator
@@ -22497,8 +22497,8 @@ newcolfromfreecell s2 n5 n4 n10 n11
 0
 4
 0 10 -1 0
-0 24 2 3
 0 11 2 0
+0 24 2 3
 0 25 9 8
 1
 end_operator
@@ -22507,8 +22507,8 @@ newcolfromfreecell s2 n5 n4 n11 n12
 0
 4
 0 10 -1 0
-0 24 3 4
 0 11 2 0
+0 24 3 4
 0 25 9 8
 1
 end_operator
@@ -22517,8 +22517,8 @@ newcolfromfreecell s2 n5 n4 n12 n13
 0
 4
 0 10 -1 0
-0 24 4 5
 0 11 2 0
+0 24 4 5
 0 25 9 8
 1
 end_operator
@@ -22527,8 +22527,8 @@ newcolfromfreecell s2 n5 n4 n2 n3
 0
 4
 0 10 -1 0
-0 24 6 7
 0 11 2 0
+0 24 6 7
 0 25 9 8
 1
 end_operator
@@ -22537,8 +22537,8 @@ newcolfromfreecell s2 n5 n4 n3 n4
 0
 4
 0 10 -1 0
-0 24 7 8
 0 11 2 0
+0 24 7 8
 0 25 9 8
 1
 end_operator
@@ -22547,8 +22547,8 @@ newcolfromfreecell s2 n5 n4 n4 n5
 0
 4
 0 10 -1 0
-0 24 8 9
 0 11 2 0
+0 24 8 9
 0 25 9 8
 1
 end_operator
@@ -22557,8 +22557,8 @@ newcolfromfreecell s2 n5 n4 n5 n6
 0
 4
 0 10 -1 0
-0 24 9 10
 0 11 2 0
+0 24 9 10
 0 25 9 8
 1
 end_operator
@@ -22567,8 +22567,8 @@ newcolfromfreecell s2 n5 n4 n6 n7
 0
 4
 0 10 -1 0
-0 24 10 11
 0 11 2 0
+0 24 10 11
 0 25 9 8
 1
 end_operator
@@ -22577,8 +22577,8 @@ newcolfromfreecell s2 n5 n4 n7 n8
 0
 4
 0 10 -1 0
-0 24 11 12
 0 11 2 0
+0 24 11 12
 0 25 9 8
 1
 end_operator
@@ -22587,8 +22587,8 @@ newcolfromfreecell s2 n5 n4 n8 n9
 0
 4
 0 10 -1 0
-0 24 12 13
 0 11 2 0
+0 24 12 13
 0 25 9 8
 1
 end_operator
@@ -22597,8 +22597,8 @@ newcolfromfreecell s2 n5 n4 n9 n10
 0
 4
 0 10 -1 0
-0 24 13 2
 0 11 2 0
+0 24 13 2
 0 25 9 8
 1
 end_operator
@@ -22607,8 +22607,8 @@ newcolfromfreecell s2 n6 n5 n0 n1
 0
 4
 0 10 -1 0
-0 24 0 1
 0 11 2 0
+0 24 0 1
 0 25 10 9
 1
 end_operator
@@ -22617,8 +22617,8 @@ newcolfromfreecell s2 n6 n5 n1 n2
 0
 4
 0 10 -1 0
-0 24 1 6
 0 11 2 0
+0 24 1 6
 0 25 10 9
 1
 end_operator
@@ -22627,8 +22627,8 @@ newcolfromfreecell s2 n6 n5 n10 n11
 0
 4
 0 10 -1 0
-0 24 2 3
 0 11 2 0
+0 24 2 3
 0 25 10 9
 1
 end_operator
@@ -22637,8 +22637,8 @@ newcolfromfreecell s2 n6 n5 n11 n12
 0
 4
 0 10 -1 0
-0 24 3 4
 0 11 2 0
+0 24 3 4
 0 25 10 9
 1
 end_operator
@@ -22647,8 +22647,8 @@ newcolfromfreecell s2 n6 n5 n12 n13
 0
 4
 0 10 -1 0
-0 24 4 5
 0 11 2 0
+0 24 4 5
 0 25 10 9
 1
 end_operator
@@ -22657,8 +22657,8 @@ newcolfromfreecell s2 n6 n5 n2 n3
 0
 4
 0 10 -1 0
-0 24 6 7
 0 11 2 0
+0 24 6 7
 0 25 10 9
 1
 end_operator
@@ -22667,8 +22667,8 @@ newcolfromfreecell s2 n6 n5 n3 n4
 0
 4
 0 10 -1 0
-0 24 7 8
 0 11 2 0
+0 24 7 8
 0 25 10 9
 1
 end_operator
@@ -22677,8 +22677,8 @@ newcolfromfreecell s2 n6 n5 n4 n5
 0
 4
 0 10 -1 0
-0 24 8 9
 0 11 2 0
+0 24 8 9
 0 25 10 9
 1
 end_operator
@@ -22687,8 +22687,8 @@ newcolfromfreecell s2 n6 n5 n5 n6
 0
 4
 0 10 -1 0
-0 24 9 10
 0 11 2 0
+0 24 9 10
 0 25 10 9
 1
 end_operator
@@ -22697,8 +22697,8 @@ newcolfromfreecell s2 n6 n5 n6 n7
 0
 4
 0 10 -1 0
-0 24 10 11
 0 11 2 0
+0 24 10 11
 0 25 10 9
 1
 end_operator
@@ -22707,8 +22707,8 @@ newcolfromfreecell s2 n6 n5 n7 n8
 0
 4
 0 10 -1 0
-0 24 11 12
 0 11 2 0
+0 24 11 12
 0 25 10 9
 1
 end_operator
@@ -22717,8 +22717,8 @@ newcolfromfreecell s2 n6 n5 n8 n9
 0
 4
 0 10 -1 0
-0 24 12 13
 0 11 2 0
+0 24 12 13
 0 25 10 9
 1
 end_operator
@@ -22727,8 +22727,8 @@ newcolfromfreecell s2 n6 n5 n9 n10
 0
 4
 0 10 -1 0
-0 24 13 2
 0 11 2 0
+0 24 13 2
 0 25 10 9
 1
 end_operator
@@ -22737,8 +22737,8 @@ newcolfromfreecell s2 n7 n6 n0 n1
 0
 4
 0 10 -1 0
-0 24 0 1
 0 11 2 0
+0 24 0 1
 0 25 11 10
 1
 end_operator
@@ -22747,8 +22747,8 @@ newcolfromfreecell s2 n7 n6 n1 n2
 0
 4
 0 10 -1 0
-0 24 1 6
 0 11 2 0
+0 24 1 6
 0 25 11 10
 1
 end_operator
@@ -22757,8 +22757,8 @@ newcolfromfreecell s2 n7 n6 n10 n11
 0
 4
 0 10 -1 0
-0 24 2 3
 0 11 2 0
+0 24 2 3
 0 25 11 10
 1
 end_operator
@@ -22767,8 +22767,8 @@ newcolfromfreecell s2 n7 n6 n11 n12
 0
 4
 0 10 -1 0
-0 24 3 4
 0 11 2 0
+0 24 3 4
 0 25 11 10
 1
 end_operator
@@ -22777,8 +22777,8 @@ newcolfromfreecell s2 n7 n6 n12 n13
 0
 4
 0 10 -1 0
-0 24 4 5
 0 11 2 0
+0 24 4 5
 0 25 11 10
 1
 end_operator
@@ -22787,8 +22787,8 @@ newcolfromfreecell s2 n7 n6 n2 n3
 0
 4
 0 10 -1 0
-0 24 6 7
 0 11 2 0
+0 24 6 7
 0 25 11 10
 1
 end_operator
@@ -22797,8 +22797,8 @@ newcolfromfreecell s2 n7 n6 n3 n4
 0
 4
 0 10 -1 0
-0 24 7 8
 0 11 2 0
+0 24 7 8
 0 25 11 10
 1
 end_operator
@@ -22807,8 +22807,8 @@ newcolfromfreecell s2 n7 n6 n4 n5
 0
 4
 0 10 -1 0
-0 24 8 9
 0 11 2 0
+0 24 8 9
 0 25 11 10
 1
 end_operator
@@ -22817,8 +22817,8 @@ newcolfromfreecell s2 n7 n6 n5 n6
 0
 4
 0 10 -1 0
-0 24 9 10
 0 11 2 0
+0 24 9 10
 0 25 11 10
 1
 end_operator
@@ -22827,8 +22827,8 @@ newcolfromfreecell s2 n7 n6 n6 n7
 0
 4
 0 10 -1 0
-0 24 10 11
 0 11 2 0
+0 24 10 11
 0 25 11 10
 1
 end_operator
@@ -22837,8 +22837,8 @@ newcolfromfreecell s2 n7 n6 n7 n8
 0
 4
 0 10 -1 0
-0 24 11 12
 0 11 2 0
+0 24 11 12
 0 25 11 10
 1
 end_operator
@@ -22847,8 +22847,8 @@ newcolfromfreecell s2 n7 n6 n8 n9
 0
 4
 0 10 -1 0
-0 24 12 13
 0 11 2 0
+0 24 12 13
 0 25 11 10
 1
 end_operator
@@ -22857,8 +22857,8 @@ newcolfromfreecell s2 n7 n6 n9 n10
 0
 4
 0 10 -1 0
-0 24 13 2
 0 11 2 0
+0 24 13 2
 0 25 11 10
 1
 end_operator
@@ -22867,8 +22867,8 @@ newcolfromfreecell s2 n8 n7 n0 n1
 0
 4
 0 10 -1 0
-0 24 0 1
 0 11 2 0
+0 24 0 1
 0 25 12 11
 1
 end_operator
@@ -22877,8 +22877,8 @@ newcolfromfreecell s2 n8 n7 n1 n2
 0
 4
 0 10 -1 0
-0 24 1 6
 0 11 2 0
+0 24 1 6
 0 25 12 11
 1
 end_operator
@@ -22887,8 +22887,8 @@ newcolfromfreecell s2 n8 n7 n10 n11
 0
 4
 0 10 -1 0
-0 24 2 3
 0 11 2 0
+0 24 2 3
 0 25 12 11
 1
 end_operator
@@ -22897,8 +22897,8 @@ newcolfromfreecell s2 n8 n7 n11 n12
 0
 4
 0 10 -1 0
-0 24 3 4
 0 11 2 0
+0 24 3 4
 0 25 12 11
 1
 end_operator
@@ -22907,8 +22907,8 @@ newcolfromfreecell s2 n8 n7 n12 n13
 0
 4
 0 10 -1 0
-0 24 4 5
 0 11 2 0
+0 24 4 5
 0 25 12 11
 1
 end_operator
@@ -22917,8 +22917,8 @@ newcolfromfreecell s2 n8 n7 n2 n3
 0
 4
 0 10 -1 0
-0 24 6 7
 0 11 2 0
+0 24 6 7
 0 25 12 11
 1
 end_operator
@@ -22927,8 +22927,8 @@ newcolfromfreecell s2 n8 n7 n3 n4
 0
 4
 0 10 -1 0
-0 24 7 8
 0 11 2 0
+0 24 7 8
 0 25 12 11
 1
 end_operator
@@ -22937,8 +22937,8 @@ newcolfromfreecell s2 n8 n7 n4 n5
 0
 4
 0 10 -1 0
-0 24 8 9
 0 11 2 0
+0 24 8 9
 0 25 12 11
 1
 end_operator
@@ -22947,8 +22947,8 @@ newcolfromfreecell s2 n8 n7 n5 n6
 0
 4
 0 10 -1 0
-0 24 9 10
 0 11 2 0
+0 24 9 10
 0 25 12 11
 1
 end_operator
@@ -22957,8 +22957,8 @@ newcolfromfreecell s2 n8 n7 n6 n7
 0
 4
 0 10 -1 0
-0 24 10 11
 0 11 2 0
+0 24 10 11
 0 25 12 11
 1
 end_operator
@@ -22967,8 +22967,8 @@ newcolfromfreecell s2 n8 n7 n7 n8
 0
 4
 0 10 -1 0
-0 24 11 12
 0 11 2 0
+0 24 11 12
 0 25 12 11
 1
 end_operator
@@ -22977,8 +22977,8 @@ newcolfromfreecell s2 n8 n7 n8 n9
 0
 4
 0 10 -1 0
-0 24 12 13
 0 11 2 0
+0 24 12 13
 0 25 12 11
 1
 end_operator
@@ -22987,8 +22987,8 @@ newcolfromfreecell s2 n8 n7 n9 n10
 0
 4
 0 10 -1 0
-0 24 13 2
 0 11 2 0
+0 24 13 2
 0 25 12 11
 1
 end_operator
@@ -22997,8 +22997,8 @@ newcolfromfreecell s2 n9 n8 n0 n1
 0
 4
 0 10 -1 0
-0 24 0 1
 0 11 2 0
+0 24 0 1
 0 25 13 12
 1
 end_operator
@@ -23007,8 +23007,8 @@ newcolfromfreecell s2 n9 n8 n1 n2
 0
 4
 0 10 -1 0
-0 24 1 6
 0 11 2 0
+0 24 1 6
 0 25 13 12
 1
 end_operator
@@ -23017,8 +23017,8 @@ newcolfromfreecell s2 n9 n8 n10 n11
 0
 4
 0 10 -1 0
-0 24 2 3
 0 11 2 0
+0 24 2 3
 0 25 13 12
 1
 end_operator
@@ -23027,8 +23027,8 @@ newcolfromfreecell s2 n9 n8 n11 n12
 0
 4
 0 10 -1 0
-0 24 3 4
 0 11 2 0
+0 24 3 4
 0 25 13 12
 1
 end_operator
@@ -23037,8 +23037,8 @@ newcolfromfreecell s2 n9 n8 n12 n13
 0
 4
 0 10 -1 0
-0 24 4 5
 0 11 2 0
+0 24 4 5
 0 25 13 12
 1
 end_operator
@@ -23047,8 +23047,8 @@ newcolfromfreecell s2 n9 n8 n2 n3
 0
 4
 0 10 -1 0
-0 24 6 7
 0 11 2 0
+0 24 6 7
 0 25 13 12
 1
 end_operator
@@ -23057,8 +23057,8 @@ newcolfromfreecell s2 n9 n8 n3 n4
 0
 4
 0 10 -1 0
-0 24 7 8
 0 11 2 0
+0 24 7 8
 0 25 13 12
 1
 end_operator
@@ -23067,8 +23067,8 @@ newcolfromfreecell s2 n9 n8 n4 n5
 0
 4
 0 10 -1 0
-0 24 8 9
 0 11 2 0
+0 24 8 9
 0 25 13 12
 1
 end_operator
@@ -23077,8 +23077,8 @@ newcolfromfreecell s2 n9 n8 n5 n6
 0
 4
 0 10 -1 0
-0 24 9 10
 0 11 2 0
+0 24 9 10
 0 25 13 12
 1
 end_operator
@@ -23087,8 +23087,8 @@ newcolfromfreecell s2 n9 n8 n6 n7
 0
 4
 0 10 -1 0
-0 24 10 11
 0 11 2 0
+0 24 10 11
 0 25 13 12
 1
 end_operator
@@ -23097,8 +23097,8 @@ newcolfromfreecell s2 n9 n8 n7 n8
 0
 4
 0 10 -1 0
-0 24 11 12
 0 11 2 0
+0 24 11 12
 0 25 13 12
 1
 end_operator
@@ -23107,8 +23107,8 @@ newcolfromfreecell s2 n9 n8 n8 n9
 0
 4
 0 10 -1 0
-0 24 12 13
 0 11 2 0
+0 24 12 13
 0 25 13 12
 1
 end_operator
@@ -23117,8 +23117,8 @@ newcolfromfreecell s2 n9 n8 n9 n10
 0
 4
 0 10 -1 0
-0 24 13 2
 0 11 2 0
+0 24 13 2
 0 25 13 12
 1
 end_operator
@@ -23128,8 +23128,8 @@ newcolfromfreecell s3 n1 n0 n0 n1
 4
 0 7 -1 0
 0 24 0 1
-0 27 2 0
 0 25 1 0
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23138,8 +23138,8 @@ newcolfromfreecell s3 n1 n0 n1 n2
 4
 0 7 -1 0
 0 24 1 6
-0 27 2 0
 0 25 1 0
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23148,8 +23148,8 @@ newcolfromfreecell s3 n1 n0 n10 n11
 4
 0 7 -1 0
 0 24 2 3
-0 27 2 0
 0 25 1 0
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23158,8 +23158,8 @@ newcolfromfreecell s3 n1 n0 n11 n12
 4
 0 7 -1 0
 0 24 3 4
-0 27 2 0
 0 25 1 0
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23168,8 +23168,8 @@ newcolfromfreecell s3 n1 n0 n12 n13
 4
 0 7 -1 0
 0 24 4 5
-0 27 2 0
 0 25 1 0
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23178,8 +23178,8 @@ newcolfromfreecell s3 n1 n0 n2 n3
 4
 0 7 -1 0
 0 24 6 7
-0 27 2 0
 0 25 1 0
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23188,8 +23188,8 @@ newcolfromfreecell s3 n1 n0 n3 n4
 4
 0 7 -1 0
 0 24 7 8
-0 27 2 0
 0 25 1 0
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23198,8 +23198,8 @@ newcolfromfreecell s3 n1 n0 n4 n5
 4
 0 7 -1 0
 0 24 8 9
-0 27 2 0
 0 25 1 0
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23208,8 +23208,8 @@ newcolfromfreecell s3 n1 n0 n5 n6
 4
 0 7 -1 0
 0 24 9 10
-0 27 2 0
 0 25 1 0
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23218,8 +23218,8 @@ newcolfromfreecell s3 n1 n0 n6 n7
 4
 0 7 -1 0
 0 24 10 11
-0 27 2 0
 0 25 1 0
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23228,8 +23228,8 @@ newcolfromfreecell s3 n1 n0 n7 n8
 4
 0 7 -1 0
 0 24 11 12
-0 27 2 0
 0 25 1 0
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23238,8 +23238,8 @@ newcolfromfreecell s3 n1 n0 n8 n9
 4
 0 7 -1 0
 0 24 12 13
-0 27 2 0
 0 25 1 0
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23248,8 +23248,8 @@ newcolfromfreecell s3 n1 n0 n9 n10
 4
 0 7 -1 0
 0 24 13 2
-0 27 2 0
 0 25 1 0
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23258,8 +23258,8 @@ newcolfromfreecell s3 n10 n9 n0 n1
 4
 0 7 -1 0
 0 24 0 1
-0 27 2 0
 0 25 2 13
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23268,8 +23268,8 @@ newcolfromfreecell s3 n10 n9 n1 n2
 4
 0 7 -1 0
 0 24 1 6
-0 27 2 0
 0 25 2 13
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23278,8 +23278,8 @@ newcolfromfreecell s3 n10 n9 n10 n11
 4
 0 7 -1 0
 0 24 2 3
-0 27 2 0
 0 25 2 13
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23288,8 +23288,8 @@ newcolfromfreecell s3 n10 n9 n11 n12
 4
 0 7 -1 0
 0 24 3 4
-0 27 2 0
 0 25 2 13
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23298,8 +23298,8 @@ newcolfromfreecell s3 n10 n9 n12 n13
 4
 0 7 -1 0
 0 24 4 5
-0 27 2 0
 0 25 2 13
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23308,8 +23308,8 @@ newcolfromfreecell s3 n10 n9 n2 n3
 4
 0 7 -1 0
 0 24 6 7
-0 27 2 0
 0 25 2 13
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23318,8 +23318,8 @@ newcolfromfreecell s3 n10 n9 n3 n4
 4
 0 7 -1 0
 0 24 7 8
-0 27 2 0
 0 25 2 13
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23328,8 +23328,8 @@ newcolfromfreecell s3 n10 n9 n4 n5
 4
 0 7 -1 0
 0 24 8 9
-0 27 2 0
 0 25 2 13
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23338,8 +23338,8 @@ newcolfromfreecell s3 n10 n9 n5 n6
 4
 0 7 -1 0
 0 24 9 10
-0 27 2 0
 0 25 2 13
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23348,8 +23348,8 @@ newcolfromfreecell s3 n10 n9 n6 n7
 4
 0 7 -1 0
 0 24 10 11
-0 27 2 0
 0 25 2 13
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23358,8 +23358,8 @@ newcolfromfreecell s3 n10 n9 n7 n8
 4
 0 7 -1 0
 0 24 11 12
-0 27 2 0
 0 25 2 13
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23368,8 +23368,8 @@ newcolfromfreecell s3 n10 n9 n8 n9
 4
 0 7 -1 0
 0 24 12 13
-0 27 2 0
 0 25 2 13
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23378,8 +23378,8 @@ newcolfromfreecell s3 n10 n9 n9 n10
 4
 0 7 -1 0
 0 24 13 2
-0 27 2 0
 0 25 2 13
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23388,8 +23388,8 @@ newcolfromfreecell s3 n11 n10 n0 n1
 4
 0 7 -1 0
 0 24 0 1
-0 27 2 0
 0 25 3 2
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23398,8 +23398,8 @@ newcolfromfreecell s3 n11 n10 n1 n2
 4
 0 7 -1 0
 0 24 1 6
-0 27 2 0
 0 25 3 2
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23408,8 +23408,8 @@ newcolfromfreecell s3 n11 n10 n10 n11
 4
 0 7 -1 0
 0 24 2 3
-0 27 2 0
 0 25 3 2
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23418,8 +23418,8 @@ newcolfromfreecell s3 n11 n10 n11 n12
 4
 0 7 -1 0
 0 24 3 4
-0 27 2 0
 0 25 3 2
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23428,8 +23428,8 @@ newcolfromfreecell s3 n11 n10 n12 n13
 4
 0 7 -1 0
 0 24 4 5
-0 27 2 0
 0 25 3 2
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23438,8 +23438,8 @@ newcolfromfreecell s3 n11 n10 n2 n3
 4
 0 7 -1 0
 0 24 6 7
-0 27 2 0
 0 25 3 2
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23448,8 +23448,8 @@ newcolfromfreecell s3 n11 n10 n3 n4
 4
 0 7 -1 0
 0 24 7 8
-0 27 2 0
 0 25 3 2
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23458,8 +23458,8 @@ newcolfromfreecell s3 n11 n10 n4 n5
 4
 0 7 -1 0
 0 24 8 9
-0 27 2 0
 0 25 3 2
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23468,8 +23468,8 @@ newcolfromfreecell s3 n11 n10 n5 n6
 4
 0 7 -1 0
 0 24 9 10
-0 27 2 0
 0 25 3 2
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23478,8 +23478,8 @@ newcolfromfreecell s3 n11 n10 n6 n7
 4
 0 7 -1 0
 0 24 10 11
-0 27 2 0
 0 25 3 2
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23488,8 +23488,8 @@ newcolfromfreecell s3 n11 n10 n7 n8
 4
 0 7 -1 0
 0 24 11 12
-0 27 2 0
 0 25 3 2
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23498,8 +23498,8 @@ newcolfromfreecell s3 n11 n10 n8 n9
 4
 0 7 -1 0
 0 24 12 13
-0 27 2 0
 0 25 3 2
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23508,8 +23508,8 @@ newcolfromfreecell s3 n11 n10 n9 n10
 4
 0 7 -1 0
 0 24 13 2
-0 27 2 0
 0 25 3 2
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23518,8 +23518,8 @@ newcolfromfreecell s3 n12 n11 n0 n1
 4
 0 7 -1 0
 0 24 0 1
-0 27 2 0
 0 25 4 3
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23528,8 +23528,8 @@ newcolfromfreecell s3 n12 n11 n1 n2
 4
 0 7 -1 0
 0 24 1 6
-0 27 2 0
 0 25 4 3
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23538,8 +23538,8 @@ newcolfromfreecell s3 n12 n11 n10 n11
 4
 0 7 -1 0
 0 24 2 3
-0 27 2 0
 0 25 4 3
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23548,8 +23548,8 @@ newcolfromfreecell s3 n12 n11 n11 n12
 4
 0 7 -1 0
 0 24 3 4
-0 27 2 0
 0 25 4 3
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23558,8 +23558,8 @@ newcolfromfreecell s3 n12 n11 n12 n13
 4
 0 7 -1 0
 0 24 4 5
-0 27 2 0
 0 25 4 3
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23568,8 +23568,8 @@ newcolfromfreecell s3 n12 n11 n2 n3
 4
 0 7 -1 0
 0 24 6 7
-0 27 2 0
 0 25 4 3
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23578,8 +23578,8 @@ newcolfromfreecell s3 n12 n11 n3 n4
 4
 0 7 -1 0
 0 24 7 8
-0 27 2 0
 0 25 4 3
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23588,8 +23588,8 @@ newcolfromfreecell s3 n12 n11 n4 n5
 4
 0 7 -1 0
 0 24 8 9
-0 27 2 0
 0 25 4 3
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23598,8 +23598,8 @@ newcolfromfreecell s3 n12 n11 n5 n6
 4
 0 7 -1 0
 0 24 9 10
-0 27 2 0
 0 25 4 3
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23608,8 +23608,8 @@ newcolfromfreecell s3 n12 n11 n6 n7
 4
 0 7 -1 0
 0 24 10 11
-0 27 2 0
 0 25 4 3
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23618,8 +23618,8 @@ newcolfromfreecell s3 n12 n11 n7 n8
 4
 0 7 -1 0
 0 24 11 12
-0 27 2 0
 0 25 4 3
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23628,8 +23628,8 @@ newcolfromfreecell s3 n12 n11 n8 n9
 4
 0 7 -1 0
 0 24 12 13
-0 27 2 0
 0 25 4 3
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23638,8 +23638,8 @@ newcolfromfreecell s3 n12 n11 n9 n10
 4
 0 7 -1 0
 0 24 13 2
-0 27 2 0
 0 25 4 3
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23648,8 +23648,8 @@ newcolfromfreecell s3 n13 n12 n0 n1
 4
 0 7 -1 0
 0 24 0 1
-0 27 2 0
 0 25 5 4
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23658,8 +23658,8 @@ newcolfromfreecell s3 n13 n12 n1 n2
 4
 0 7 -1 0
 0 24 1 6
-0 27 2 0
 0 25 5 4
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23668,8 +23668,8 @@ newcolfromfreecell s3 n13 n12 n10 n11
 4
 0 7 -1 0
 0 24 2 3
-0 27 2 0
 0 25 5 4
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23678,8 +23678,8 @@ newcolfromfreecell s3 n13 n12 n11 n12
 4
 0 7 -1 0
 0 24 3 4
-0 27 2 0
 0 25 5 4
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23688,8 +23688,8 @@ newcolfromfreecell s3 n13 n12 n12 n13
 4
 0 7 -1 0
 0 24 4 5
-0 27 2 0
 0 25 5 4
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23698,8 +23698,8 @@ newcolfromfreecell s3 n13 n12 n2 n3
 4
 0 7 -1 0
 0 24 6 7
-0 27 2 0
 0 25 5 4
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23708,8 +23708,8 @@ newcolfromfreecell s3 n13 n12 n3 n4
 4
 0 7 -1 0
 0 24 7 8
-0 27 2 0
 0 25 5 4
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23718,8 +23718,8 @@ newcolfromfreecell s3 n13 n12 n4 n5
 4
 0 7 -1 0
 0 24 8 9
-0 27 2 0
 0 25 5 4
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23728,8 +23728,8 @@ newcolfromfreecell s3 n13 n12 n5 n6
 4
 0 7 -1 0
 0 24 9 10
-0 27 2 0
 0 25 5 4
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23738,8 +23738,8 @@ newcolfromfreecell s3 n13 n12 n6 n7
 4
 0 7 -1 0
 0 24 10 11
-0 27 2 0
 0 25 5 4
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23748,8 +23748,8 @@ newcolfromfreecell s3 n13 n12 n7 n8
 4
 0 7 -1 0
 0 24 11 12
-0 27 2 0
 0 25 5 4
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23758,8 +23758,8 @@ newcolfromfreecell s3 n13 n12 n8 n9
 4
 0 7 -1 0
 0 24 12 13
-0 27 2 0
 0 25 5 4
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23768,8 +23768,8 @@ newcolfromfreecell s3 n13 n12 n9 n10
 4
 0 7 -1 0
 0 24 13 2
-0 27 2 0
 0 25 5 4
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23778,8 +23778,8 @@ newcolfromfreecell s3 n2 n1 n0 n1
 4
 0 7 -1 0
 0 24 0 1
-0 27 2 0
 0 25 6 1
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23788,8 +23788,8 @@ newcolfromfreecell s3 n2 n1 n1 n2
 4
 0 7 -1 0
 0 24 1 6
-0 27 2 0
 0 25 6 1
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23798,8 +23798,8 @@ newcolfromfreecell s3 n2 n1 n10 n11
 4
 0 7 -1 0
 0 24 2 3
-0 27 2 0
 0 25 6 1
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23808,8 +23808,8 @@ newcolfromfreecell s3 n2 n1 n11 n12
 4
 0 7 -1 0
 0 24 3 4
-0 27 2 0
 0 25 6 1
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23818,8 +23818,8 @@ newcolfromfreecell s3 n2 n1 n12 n13
 4
 0 7 -1 0
 0 24 4 5
-0 27 2 0
 0 25 6 1
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23828,8 +23828,8 @@ newcolfromfreecell s3 n2 n1 n2 n3
 4
 0 7 -1 0
 0 24 6 7
-0 27 2 0
 0 25 6 1
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23838,8 +23838,8 @@ newcolfromfreecell s3 n2 n1 n3 n4
 4
 0 7 -1 0
 0 24 7 8
-0 27 2 0
 0 25 6 1
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23848,8 +23848,8 @@ newcolfromfreecell s3 n2 n1 n4 n5
 4
 0 7 -1 0
 0 24 8 9
-0 27 2 0
 0 25 6 1
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23858,8 +23858,8 @@ newcolfromfreecell s3 n2 n1 n5 n6
 4
 0 7 -1 0
 0 24 9 10
-0 27 2 0
 0 25 6 1
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23868,8 +23868,8 @@ newcolfromfreecell s3 n2 n1 n6 n7
 4
 0 7 -1 0
 0 24 10 11
-0 27 2 0
 0 25 6 1
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23878,8 +23878,8 @@ newcolfromfreecell s3 n2 n1 n7 n8
 4
 0 7 -1 0
 0 24 11 12
-0 27 2 0
 0 25 6 1
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23888,8 +23888,8 @@ newcolfromfreecell s3 n2 n1 n8 n9
 4
 0 7 -1 0
 0 24 12 13
-0 27 2 0
 0 25 6 1
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23898,8 +23898,8 @@ newcolfromfreecell s3 n2 n1 n9 n10
 4
 0 7 -1 0
 0 24 13 2
-0 27 2 0
 0 25 6 1
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23908,8 +23908,8 @@ newcolfromfreecell s3 n3 n2 n0 n1
 4
 0 7 -1 0
 0 24 0 1
-0 27 2 0
 0 25 7 6
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23918,8 +23918,8 @@ newcolfromfreecell s3 n3 n2 n1 n2
 4
 0 7 -1 0
 0 24 1 6
-0 27 2 0
 0 25 7 6
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23928,8 +23928,8 @@ newcolfromfreecell s3 n3 n2 n10 n11
 4
 0 7 -1 0
 0 24 2 3
-0 27 2 0
 0 25 7 6
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23938,8 +23938,8 @@ newcolfromfreecell s3 n3 n2 n11 n12
 4
 0 7 -1 0
 0 24 3 4
-0 27 2 0
 0 25 7 6
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23948,8 +23948,8 @@ newcolfromfreecell s3 n3 n2 n12 n13
 4
 0 7 -1 0
 0 24 4 5
-0 27 2 0
 0 25 7 6
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23958,8 +23958,8 @@ newcolfromfreecell s3 n3 n2 n2 n3
 4
 0 7 -1 0
 0 24 6 7
-0 27 2 0
 0 25 7 6
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23968,8 +23968,8 @@ newcolfromfreecell s3 n3 n2 n3 n4
 4
 0 7 -1 0
 0 24 7 8
-0 27 2 0
 0 25 7 6
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23978,8 +23978,8 @@ newcolfromfreecell s3 n3 n2 n4 n5
 4
 0 7 -1 0
 0 24 8 9
-0 27 2 0
 0 25 7 6
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23988,8 +23988,8 @@ newcolfromfreecell s3 n3 n2 n5 n6
 4
 0 7 -1 0
 0 24 9 10
-0 27 2 0
 0 25 7 6
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -23998,8 +23998,8 @@ newcolfromfreecell s3 n3 n2 n6 n7
 4
 0 7 -1 0
 0 24 10 11
-0 27 2 0
 0 25 7 6
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24008,8 +24008,8 @@ newcolfromfreecell s3 n3 n2 n7 n8
 4
 0 7 -1 0
 0 24 11 12
-0 27 2 0
 0 25 7 6
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24018,8 +24018,8 @@ newcolfromfreecell s3 n3 n2 n8 n9
 4
 0 7 -1 0
 0 24 12 13
-0 27 2 0
 0 25 7 6
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24028,8 +24028,8 @@ newcolfromfreecell s3 n3 n2 n9 n10
 4
 0 7 -1 0
 0 24 13 2
-0 27 2 0
 0 25 7 6
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24038,8 +24038,8 @@ newcolfromfreecell s3 n4 n3 n0 n1
 4
 0 7 -1 0
 0 24 0 1
-0 27 2 0
 0 25 8 7
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24048,8 +24048,8 @@ newcolfromfreecell s3 n4 n3 n1 n2
 4
 0 7 -1 0
 0 24 1 6
-0 27 2 0
 0 25 8 7
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24058,8 +24058,8 @@ newcolfromfreecell s3 n4 n3 n10 n11
 4
 0 7 -1 0
 0 24 2 3
-0 27 2 0
 0 25 8 7
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24068,8 +24068,8 @@ newcolfromfreecell s3 n4 n3 n11 n12
 4
 0 7 -1 0
 0 24 3 4
-0 27 2 0
 0 25 8 7
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24078,8 +24078,8 @@ newcolfromfreecell s3 n4 n3 n12 n13
 4
 0 7 -1 0
 0 24 4 5
-0 27 2 0
 0 25 8 7
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24088,8 +24088,8 @@ newcolfromfreecell s3 n4 n3 n2 n3
 4
 0 7 -1 0
 0 24 6 7
-0 27 2 0
 0 25 8 7
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24098,8 +24098,8 @@ newcolfromfreecell s3 n4 n3 n3 n4
 4
 0 7 -1 0
 0 24 7 8
-0 27 2 0
 0 25 8 7
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24108,8 +24108,8 @@ newcolfromfreecell s3 n4 n3 n4 n5
 4
 0 7 -1 0
 0 24 8 9
-0 27 2 0
 0 25 8 7
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24118,8 +24118,8 @@ newcolfromfreecell s3 n4 n3 n5 n6
 4
 0 7 -1 0
 0 24 9 10
-0 27 2 0
 0 25 8 7
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24128,8 +24128,8 @@ newcolfromfreecell s3 n4 n3 n6 n7
 4
 0 7 -1 0
 0 24 10 11
-0 27 2 0
 0 25 8 7
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24138,8 +24138,8 @@ newcolfromfreecell s3 n4 n3 n7 n8
 4
 0 7 -1 0
 0 24 11 12
-0 27 2 0
 0 25 8 7
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24148,8 +24148,8 @@ newcolfromfreecell s3 n4 n3 n8 n9
 4
 0 7 -1 0
 0 24 12 13
-0 27 2 0
 0 25 8 7
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24158,8 +24158,8 @@ newcolfromfreecell s3 n4 n3 n9 n10
 4
 0 7 -1 0
 0 24 13 2
-0 27 2 0
 0 25 8 7
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24168,8 +24168,8 @@ newcolfromfreecell s3 n5 n4 n0 n1
 4
 0 7 -1 0
 0 24 0 1
-0 27 2 0
 0 25 9 8
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24178,8 +24178,8 @@ newcolfromfreecell s3 n5 n4 n1 n2
 4
 0 7 -1 0
 0 24 1 6
-0 27 2 0
 0 25 9 8
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24188,8 +24188,8 @@ newcolfromfreecell s3 n5 n4 n10 n11
 4
 0 7 -1 0
 0 24 2 3
-0 27 2 0
 0 25 9 8
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24198,8 +24198,8 @@ newcolfromfreecell s3 n5 n4 n11 n12
 4
 0 7 -1 0
 0 24 3 4
-0 27 2 0
 0 25 9 8
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24208,8 +24208,8 @@ newcolfromfreecell s3 n5 n4 n12 n13
 4
 0 7 -1 0
 0 24 4 5
-0 27 2 0
 0 25 9 8
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24218,8 +24218,8 @@ newcolfromfreecell s3 n5 n4 n2 n3
 4
 0 7 -1 0
 0 24 6 7
-0 27 2 0
 0 25 9 8
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24228,8 +24228,8 @@ newcolfromfreecell s3 n5 n4 n3 n4
 4
 0 7 -1 0
 0 24 7 8
-0 27 2 0
 0 25 9 8
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24238,8 +24238,8 @@ newcolfromfreecell s3 n5 n4 n4 n5
 4
 0 7 -1 0
 0 24 8 9
-0 27 2 0
 0 25 9 8
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24248,8 +24248,8 @@ newcolfromfreecell s3 n5 n4 n5 n6
 4
 0 7 -1 0
 0 24 9 10
-0 27 2 0
 0 25 9 8
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24258,8 +24258,8 @@ newcolfromfreecell s3 n5 n4 n6 n7
 4
 0 7 -1 0
 0 24 10 11
-0 27 2 0
 0 25 9 8
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24268,8 +24268,8 @@ newcolfromfreecell s3 n5 n4 n7 n8
 4
 0 7 -1 0
 0 24 11 12
-0 27 2 0
 0 25 9 8
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24278,8 +24278,8 @@ newcolfromfreecell s3 n5 n4 n8 n9
 4
 0 7 -1 0
 0 24 12 13
-0 27 2 0
 0 25 9 8
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24288,8 +24288,8 @@ newcolfromfreecell s3 n5 n4 n9 n10
 4
 0 7 -1 0
 0 24 13 2
-0 27 2 0
 0 25 9 8
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24298,8 +24298,8 @@ newcolfromfreecell s3 n6 n5 n0 n1
 4
 0 7 -1 0
 0 24 0 1
-0 27 2 0
 0 25 10 9
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24308,8 +24308,8 @@ newcolfromfreecell s3 n6 n5 n1 n2
 4
 0 7 -1 0
 0 24 1 6
-0 27 2 0
 0 25 10 9
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24318,8 +24318,8 @@ newcolfromfreecell s3 n6 n5 n10 n11
 4
 0 7 -1 0
 0 24 2 3
-0 27 2 0
 0 25 10 9
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24328,8 +24328,8 @@ newcolfromfreecell s3 n6 n5 n11 n12
 4
 0 7 -1 0
 0 24 3 4
-0 27 2 0
 0 25 10 9
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24338,8 +24338,8 @@ newcolfromfreecell s3 n6 n5 n12 n13
 4
 0 7 -1 0
 0 24 4 5
-0 27 2 0
 0 25 10 9
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24348,8 +24348,8 @@ newcolfromfreecell s3 n6 n5 n2 n3
 4
 0 7 -1 0
 0 24 6 7
-0 27 2 0
 0 25 10 9
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24358,8 +24358,8 @@ newcolfromfreecell s3 n6 n5 n3 n4
 4
 0 7 -1 0
 0 24 7 8
-0 27 2 0
 0 25 10 9
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24368,8 +24368,8 @@ newcolfromfreecell s3 n6 n5 n4 n5
 4
 0 7 -1 0
 0 24 8 9
-0 27 2 0
 0 25 10 9
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24378,8 +24378,8 @@ newcolfromfreecell s3 n6 n5 n5 n6
 4
 0 7 -1 0
 0 24 9 10
-0 27 2 0
 0 25 10 9
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24388,8 +24388,8 @@ newcolfromfreecell s3 n6 n5 n6 n7
 4
 0 7 -1 0
 0 24 10 11
-0 27 2 0
 0 25 10 9
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24398,8 +24398,8 @@ newcolfromfreecell s3 n6 n5 n7 n8
 4
 0 7 -1 0
 0 24 11 12
-0 27 2 0
 0 25 10 9
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24408,8 +24408,8 @@ newcolfromfreecell s3 n6 n5 n8 n9
 4
 0 7 -1 0
 0 24 12 13
-0 27 2 0
 0 25 10 9
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24418,8 +24418,8 @@ newcolfromfreecell s3 n6 n5 n9 n10
 4
 0 7 -1 0
 0 24 13 2
-0 27 2 0
 0 25 10 9
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24428,8 +24428,8 @@ newcolfromfreecell s3 n7 n6 n0 n1
 4
 0 7 -1 0
 0 24 0 1
-0 27 2 0
 0 25 11 10
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24438,8 +24438,8 @@ newcolfromfreecell s3 n7 n6 n1 n2
 4
 0 7 -1 0
 0 24 1 6
-0 27 2 0
 0 25 11 10
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24448,8 +24448,8 @@ newcolfromfreecell s3 n7 n6 n10 n11
 4
 0 7 -1 0
 0 24 2 3
-0 27 2 0
 0 25 11 10
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24458,8 +24458,8 @@ newcolfromfreecell s3 n7 n6 n11 n12
 4
 0 7 -1 0
 0 24 3 4
-0 27 2 0
 0 25 11 10
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24468,8 +24468,8 @@ newcolfromfreecell s3 n7 n6 n12 n13
 4
 0 7 -1 0
 0 24 4 5
-0 27 2 0
 0 25 11 10
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24478,8 +24478,8 @@ newcolfromfreecell s3 n7 n6 n2 n3
 4
 0 7 -1 0
 0 24 6 7
-0 27 2 0
 0 25 11 10
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24488,8 +24488,8 @@ newcolfromfreecell s3 n7 n6 n3 n4
 4
 0 7 -1 0
 0 24 7 8
-0 27 2 0
 0 25 11 10
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24498,8 +24498,8 @@ newcolfromfreecell s3 n7 n6 n4 n5
 4
 0 7 -1 0
 0 24 8 9
-0 27 2 0
 0 25 11 10
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24508,8 +24508,8 @@ newcolfromfreecell s3 n7 n6 n5 n6
 4
 0 7 -1 0
 0 24 9 10
-0 27 2 0
 0 25 11 10
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24518,8 +24518,8 @@ newcolfromfreecell s3 n7 n6 n6 n7
 4
 0 7 -1 0
 0 24 10 11
-0 27 2 0
 0 25 11 10
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24528,8 +24528,8 @@ newcolfromfreecell s3 n7 n6 n7 n8
 4
 0 7 -1 0
 0 24 11 12
-0 27 2 0
 0 25 11 10
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24538,8 +24538,8 @@ newcolfromfreecell s3 n7 n6 n8 n9
 4
 0 7 -1 0
 0 24 12 13
-0 27 2 0
 0 25 11 10
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24548,8 +24548,8 @@ newcolfromfreecell s3 n7 n6 n9 n10
 4
 0 7 -1 0
 0 24 13 2
-0 27 2 0
 0 25 11 10
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24558,8 +24558,8 @@ newcolfromfreecell s3 n8 n7 n0 n1
 4
 0 7 -1 0
 0 24 0 1
-0 27 2 0
 0 25 12 11
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24568,8 +24568,8 @@ newcolfromfreecell s3 n8 n7 n1 n2
 4
 0 7 -1 0
 0 24 1 6
-0 27 2 0
 0 25 12 11
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24578,8 +24578,8 @@ newcolfromfreecell s3 n8 n7 n10 n11
 4
 0 7 -1 0
 0 24 2 3
-0 27 2 0
 0 25 12 11
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24588,8 +24588,8 @@ newcolfromfreecell s3 n8 n7 n11 n12
 4
 0 7 -1 0
 0 24 3 4
-0 27 2 0
 0 25 12 11
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24598,8 +24598,8 @@ newcolfromfreecell s3 n8 n7 n12 n13
 4
 0 7 -1 0
 0 24 4 5
-0 27 2 0
 0 25 12 11
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24608,8 +24608,8 @@ newcolfromfreecell s3 n8 n7 n2 n3
 4
 0 7 -1 0
 0 24 6 7
-0 27 2 0
 0 25 12 11
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24618,8 +24618,8 @@ newcolfromfreecell s3 n8 n7 n3 n4
 4
 0 7 -1 0
 0 24 7 8
-0 27 2 0
 0 25 12 11
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24628,8 +24628,8 @@ newcolfromfreecell s3 n8 n7 n4 n5
 4
 0 7 -1 0
 0 24 8 9
-0 27 2 0
 0 25 12 11
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24638,8 +24638,8 @@ newcolfromfreecell s3 n8 n7 n5 n6
 4
 0 7 -1 0
 0 24 9 10
-0 27 2 0
 0 25 12 11
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24648,8 +24648,8 @@ newcolfromfreecell s3 n8 n7 n6 n7
 4
 0 7 -1 0
 0 24 10 11
-0 27 2 0
 0 25 12 11
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24658,8 +24658,8 @@ newcolfromfreecell s3 n8 n7 n7 n8
 4
 0 7 -1 0
 0 24 11 12
-0 27 2 0
 0 25 12 11
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24668,8 +24668,8 @@ newcolfromfreecell s3 n8 n7 n8 n9
 4
 0 7 -1 0
 0 24 12 13
-0 27 2 0
 0 25 12 11
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24678,8 +24678,8 @@ newcolfromfreecell s3 n8 n7 n9 n10
 4
 0 7 -1 0
 0 24 13 2
-0 27 2 0
 0 25 12 11
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24688,8 +24688,8 @@ newcolfromfreecell s3 n9 n8 n0 n1
 4
 0 7 -1 0
 0 24 0 1
-0 27 2 0
 0 25 13 12
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24698,8 +24698,8 @@ newcolfromfreecell s3 n9 n8 n1 n2
 4
 0 7 -1 0
 0 24 1 6
-0 27 2 0
 0 25 13 12
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24708,8 +24708,8 @@ newcolfromfreecell s3 n9 n8 n10 n11
 4
 0 7 -1 0
 0 24 2 3
-0 27 2 0
 0 25 13 12
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24718,8 +24718,8 @@ newcolfromfreecell s3 n9 n8 n11 n12
 4
 0 7 -1 0
 0 24 3 4
-0 27 2 0
 0 25 13 12
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24728,8 +24728,8 @@ newcolfromfreecell s3 n9 n8 n12 n13
 4
 0 7 -1 0
 0 24 4 5
-0 27 2 0
 0 25 13 12
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24738,8 +24738,8 @@ newcolfromfreecell s3 n9 n8 n2 n3
 4
 0 7 -1 0
 0 24 6 7
-0 27 2 0
 0 25 13 12
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24748,8 +24748,8 @@ newcolfromfreecell s3 n9 n8 n3 n4
 4
 0 7 -1 0
 0 24 7 8
-0 27 2 0
 0 25 13 12
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24758,8 +24758,8 @@ newcolfromfreecell s3 n9 n8 n4 n5
 4
 0 7 -1 0
 0 24 8 9
-0 27 2 0
 0 25 13 12
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24768,8 +24768,8 @@ newcolfromfreecell s3 n9 n8 n5 n6
 4
 0 7 -1 0
 0 24 9 10
-0 27 2 0
 0 25 13 12
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24778,8 +24778,8 @@ newcolfromfreecell s3 n9 n8 n6 n7
 4
 0 7 -1 0
 0 24 10 11
-0 27 2 0
 0 25 13 12
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24788,8 +24788,8 @@ newcolfromfreecell s3 n9 n8 n7 n8
 4
 0 7 -1 0
 0 24 11 12
-0 27 2 0
 0 25 13 12
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24798,8 +24798,8 @@ newcolfromfreecell s3 n9 n8 n8 n9
 4
 0 7 -1 0
 0 24 12 13
-0 27 2 0
 0 25 13 12
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24808,8 +24808,8 @@ newcolfromfreecell s3 n9 n8 n9 n10
 4
 0 7 -1 0
 0 24 13 2
-0 27 2 0
 0 25 13 12
+0 27 2 0
 1
 end_operator
 begin_operator
@@ -24817,8 +24817,8 @@ newcolfromfreecell sa n1 n0 n0 n1
 0
 4
 0 8 2 0
-0 24 0 1
 0 9 -1 0
+0 24 0 1
 0 25 1 0
 1
 end_operator
@@ -24827,8 +24827,8 @@ newcolfromfreecell sa n1 n0 n1 n2
 0
 4
 0 8 2 0
-0 24 1 6
 0 9 -1 0
+0 24 1 6
 0 25 1 0
 1
 end_operator
@@ -24837,8 +24837,8 @@ newcolfromfreecell sa n1 n0 n10 n11
 0
 4
 0 8 2 0
-0 24 2 3
 0 9 -1 0
+0 24 2 3
 0 25 1 0
 1
 end_operator
@@ -24847,8 +24847,8 @@ newcolfromfreecell sa n1 n0 n11 n12
 0
 4
 0 8 2 0
-0 24 3 4
 0 9 -1 0
+0 24 3 4
 0 25 1 0
 1
 end_operator
@@ -24857,8 +24857,8 @@ newcolfromfreecell sa n1 n0 n12 n13
 0
 4
 0 8 2 0
-0 24 4 5
 0 9 -1 0
+0 24 4 5
 0 25 1 0
 1
 end_operator
@@ -24867,8 +24867,8 @@ newcolfromfreecell sa n1 n0 n2 n3
 0
 4
 0 8 2 0
-0 24 6 7
 0 9 -1 0
+0 24 6 7
 0 25 1 0
 1
 end_operator
@@ -24877,8 +24877,8 @@ newcolfromfreecell sa n1 n0 n3 n4
 0
 4
 0 8 2 0
-0 24 7 8
 0 9 -1 0
+0 24 7 8
 0 25 1 0
 1
 end_operator
@@ -24887,8 +24887,8 @@ newcolfromfreecell sa n1 n0 n4 n5
 0
 4
 0 8 2 0
-0 24 8 9
 0 9 -1 0
+0 24 8 9
 0 25 1 0
 1
 end_operator
@@ -24897,8 +24897,8 @@ newcolfromfreecell sa n1 n0 n5 n6
 0
 4
 0 8 2 0
-0 24 9 10
 0 9 -1 0
+0 24 9 10
 0 25 1 0
 1
 end_operator
@@ -24907,8 +24907,8 @@ newcolfromfreecell sa n1 n0 n6 n7
 0
 4
 0 8 2 0
-0 24 10 11
 0 9 -1 0
+0 24 10 11
 0 25 1 0
 1
 end_operator
@@ -24917,8 +24917,8 @@ newcolfromfreecell sa n1 n0 n7 n8
 0
 4
 0 8 2 0
-0 24 11 12
 0 9 -1 0
+0 24 11 12
 0 25 1 0
 1
 end_operator
@@ -24927,8 +24927,8 @@ newcolfromfreecell sa n1 n0 n8 n9
 0
 4
 0 8 2 0
-0 24 12 13
 0 9 -1 0
+0 24 12 13
 0 25 1 0
 1
 end_operator
@@ -24937,8 +24937,8 @@ newcolfromfreecell sa n1 n0 n9 n10
 0
 4
 0 8 2 0
-0 24 13 2
 0 9 -1 0
+0 24 13 2
 0 25 1 0
 1
 end_operator
@@ -24947,8 +24947,8 @@ newcolfromfreecell sa n10 n9 n0 n1
 0
 4
 0 8 2 0
-0 24 0 1
 0 9 -1 0
+0 24 0 1
 0 25 2 13
 1
 end_operator
@@ -24957,8 +24957,8 @@ newcolfromfreecell sa n10 n9 n1 n2
 0
 4
 0 8 2 0
-0 24 1 6
 0 9 -1 0
+0 24 1 6
 0 25 2 13
 1
 end_operator
@@ -24967,8 +24967,8 @@ newcolfromfreecell sa n10 n9 n10 n11
 0
 4
 0 8 2 0
-0 24 2 3
 0 9 -1 0
+0 24 2 3
 0 25 2 13
 1
 end_operator
@@ -24977,8 +24977,8 @@ newcolfromfreecell sa n10 n9 n11 n12
 0
 4
 0 8 2 0
-0 24 3 4
 0 9 -1 0
+0 24 3 4
 0 25 2 13
 1
 end_operator
@@ -24987,8 +24987,8 @@ newcolfromfreecell sa n10 n9 n12 n13
 0
 4
 0 8 2 0
-0 24 4 5
 0 9 -1 0
+0 24 4 5
 0 25 2 13
 1
 end_operator
@@ -24997,8 +24997,8 @@ newcolfromfreecell sa n10 n9 n2 n3
 0
 4
 0 8 2 0
-0 24 6 7
 0 9 -1 0
+0 24 6 7
 0 25 2 13
 1
 end_operator
@@ -25007,8 +25007,8 @@ newcolfromfreecell sa n10 n9 n3 n4
 0
 4
 0 8 2 0
-0 24 7 8
 0 9 -1 0
+0 24 7 8
 0 25 2 13
 1
 end_operator
@@ -25017,8 +25017,8 @@ newcolfromfreecell sa n10 n9 n4 n5
 0
 4
 0 8 2 0
-0 24 8 9
 0 9 -1 0
+0 24 8 9
 0 25 2 13
 1
 end_operator
@@ -25027,8 +25027,8 @@ newcolfromfreecell sa n10 n9 n5 n6
 0
 4
 0 8 2 0
-0 24 9 10
 0 9 -1 0
+0 24 9 10
 0 25 2 13
 1
 end_operator
@@ -25037,8 +25037,8 @@ newcolfromfreecell sa n10 n9 n6 n7
 0
 4
 0 8 2 0
-0 24 10 11
 0 9 -1 0
+0 24 10 11
 0 25 2 13
 1
 end_operator
@@ -25047,8 +25047,8 @@ newcolfromfreecell sa n10 n9 n7 n8
 0
 4
 0 8 2 0
-0 24 11 12
 0 9 -1 0
+0 24 11 12
 0 25 2 13
 1
 end_operator
@@ -25057,8 +25057,8 @@ newcolfromfreecell sa n10 n9 n8 n9
 0
 4
 0 8 2 0
-0 24 12 13
 0 9 -1 0
+0 24 12 13
 0 25 2 13
 1
 end_operator
@@ -25067,8 +25067,8 @@ newcolfromfreecell sa n10 n9 n9 n10
 0
 4
 0 8 2 0
-0 24 13 2
 0 9 -1 0
+0 24 13 2
 0 25 2 13
 1
 end_operator
@@ -25077,8 +25077,8 @@ newcolfromfreecell sa n11 n10 n0 n1
 0
 4
 0 8 2 0
-0 24 0 1
 0 9 -1 0
+0 24 0 1
 0 25 3 2
 1
 end_operator
@@ -25087,8 +25087,8 @@ newcolfromfreecell sa n11 n10 n1 n2
 0
 4
 0 8 2 0
-0 24 1 6
 0 9 -1 0
+0 24 1 6
 0 25 3 2
 1
 end_operator
@@ -25097,8 +25097,8 @@ newcolfromfreecell sa n11 n10 n10 n11
 0
 4
 0 8 2 0
-0 24 2 3
 0 9 -1 0
+0 24 2 3
 0 25 3 2
 1
 end_operator
@@ -25107,8 +25107,8 @@ newcolfromfreecell sa n11 n10 n11 n12
 0
 4
 0 8 2 0
-0 24 3 4
 0 9 -1 0
+0 24 3 4
 0 25 3 2
 1
 end_operator
@@ -25117,8 +25117,8 @@ newcolfromfreecell sa n11 n10 n12 n13
 0
 4
 0 8 2 0
-0 24 4 5
 0 9 -1 0
+0 24 4 5
 0 25 3 2
 1
 end_operator
@@ -25127,8 +25127,8 @@ newcolfromfreecell sa n11 n10 n2 n3
 0
 4
 0 8 2 0
-0 24 6 7
 0 9 -1 0
+0 24 6 7
 0 25 3 2
 1
 end_operator
@@ -25137,8 +25137,8 @@ newcolfromfreecell sa n11 n10 n3 n4
 0
 4
 0 8 2 0
-0 24 7 8
 0 9 -1 0
+0 24 7 8
 0 25 3 2
 1
 end_operator
@@ -25147,8 +25147,8 @@ newcolfromfreecell sa n11 n10 n4 n5
 0
 4
 0 8 2 0
-0 24 8 9
 0 9 -1 0
+0 24 8 9
 0 25 3 2
 1
 end_operator
@@ -25157,8 +25157,8 @@ newcolfromfreecell sa n11 n10 n5 n6
 0
 4
 0 8 2 0
-0 24 9 10
 0 9 -1 0
+0 24 9 10
 0 25 3 2
 1
 end_operator
@@ -25167,8 +25167,8 @@ newcolfromfreecell sa n11 n10 n6 n7
 0
 4
 0 8 2 0
-0 24 10 11
 0 9 -1 0
+0 24 10 11
 0 25 3 2
 1
 end_operator
@@ -25177,8 +25177,8 @@ newcolfromfreecell sa n11 n10 n7 n8
 0
 4
 0 8 2 0
-0 24 11 12
 0 9 -1 0
+0 24 11 12
 0 25 3 2
 1
 end_operator
@@ -25187,8 +25187,8 @@ newcolfromfreecell sa n11 n10 n8 n9
 0
 4
 0 8 2 0
-0 24 12 13
 0 9 -1 0
+0 24 12 13
 0 25 3 2
 1
 end_operator
@@ -25197,8 +25197,8 @@ newcolfromfreecell sa n11 n10 n9 n10
 0
 4
 0 8 2 0
-0 24 13 2
 0 9 -1 0
+0 24 13 2
 0 25 3 2
 1
 end_operator
@@ -25207,8 +25207,8 @@ newcolfromfreecell sa n12 n11 n0 n1
 0
 4
 0 8 2 0
-0 24 0 1
 0 9 -1 0
+0 24 0 1
 0 25 4 3
 1
 end_operator
@@ -25217,8 +25217,8 @@ newcolfromfreecell sa n12 n11 n1 n2
 0
 4
 0 8 2 0
-0 24 1 6
 0 9 -1 0
+0 24 1 6
 0 25 4 3
 1
 end_operator
@@ -25227,8 +25227,8 @@ newcolfromfreecell sa n12 n11 n10 n11
 0
 4
 0 8 2 0
-0 24 2 3
 0 9 -1 0
+0 24 2 3
 0 25 4 3
 1
 end_operator
@@ -25237,8 +25237,8 @@ newcolfromfreecell sa n12 n11 n11 n12
 0
 4
 0 8 2 0
-0 24 3 4
 0 9 -1 0
+0 24 3 4
 0 25 4 3
 1
 end_operator
@@ -25247,8 +25247,8 @@ newcolfromfreecell sa n12 n11 n12 n13
 0
 4
 0 8 2 0
-0 24 4 5
 0 9 -1 0
+0 24 4 5
 0 25 4 3
 1
 end_operator
@@ -25257,8 +25257,8 @@ newcolfromfreecell sa n12 n11 n2 n3
 0
 4
 0 8 2 0
-0 24 6 7
 0 9 -1 0
+0 24 6 7
 0 25 4 3
 1
 end_operator
@@ -25267,8 +25267,8 @@ newcolfromfreecell sa n12 n11 n3 n4
 0
 4
 0 8 2 0
-0 24 7 8
 0 9 -1 0
+0 24 7 8
 0 25 4 3
 1
 end_operator
@@ -25277,8 +25277,8 @@ newcolfromfreecell sa n12 n11 n4 n5
 0
 4
 0 8 2 0
-0 24 8 9
 0 9 -1 0
+0 24 8 9
 0 25 4 3
 1
 end_operator
@@ -25287,8 +25287,8 @@ newcolfromfreecell sa n12 n11 n5 n6
 0
 4
 0 8 2 0
-0 24 9 10
 0 9 -1 0
+0 24 9 10
 0 25 4 3
 1
 end_operator
@@ -25297,8 +25297,8 @@ newcolfromfreecell sa n12 n11 n6 n7
 0
 4
 0 8 2 0
-0 24 10 11
 0 9 -1 0
+0 24 10 11
 0 25 4 3
 1
 end_operator
@@ -25307,8 +25307,8 @@ newcolfromfreecell sa n12 n11 n7 n8
 0
 4
 0 8 2 0
-0 24 11 12
 0 9 -1 0
+0 24 11 12
 0 25 4 3
 1
 end_operator
@@ -25317,8 +25317,8 @@ newcolfromfreecell sa n12 n11 n8 n9
 0
 4
 0 8 2 0
-0 24 12 13
 0 9 -1 0
+0 24 12 13
 0 25 4 3
 1
 end_operator
@@ -25327,8 +25327,8 @@ newcolfromfreecell sa n12 n11 n9 n10
 0
 4
 0 8 2 0
-0 24 13 2
 0 9 -1 0
+0 24 13 2
 0 25 4 3
 1
 end_operator
@@ -25337,8 +25337,8 @@ newcolfromfreecell sa n13 n12 n0 n1
 0
 4
 0 8 2 0
-0 24 0 1
 0 9 -1 0
+0 24 0 1
 0 25 5 4
 1
 end_operator
@@ -25347,8 +25347,8 @@ newcolfromfreecell sa n13 n12 n1 n2
 0
 4
 0 8 2 0
-0 24 1 6
 0 9 -1 0
+0 24 1 6
 0 25 5 4
 1
 end_operator
@@ -25357,8 +25357,8 @@ newcolfromfreecell sa n13 n12 n10 n11
 0
 4
 0 8 2 0
-0 24 2 3
 0 9 -1 0
+0 24 2 3
 0 25 5 4
 1
 end_operator
@@ -25367,8 +25367,8 @@ newcolfromfreecell sa n13 n12 n11 n12
 0
 4
 0 8 2 0
-0 24 3 4
 0 9 -1 0
+0 24 3 4
 0 25 5 4
 1
 end_operator
@@ -25377,8 +25377,8 @@ newcolfromfreecell sa n13 n12 n12 n13
 0
 4
 0 8 2 0
-0 24 4 5
 0 9 -1 0
+0 24 4 5
 0 25 5 4
 1
 end_operator
@@ -25387,8 +25387,8 @@ newcolfromfreecell sa n13 n12 n2 n3
 0
 4
 0 8 2 0
-0 24 6 7
 0 9 -1 0
+0 24 6 7
 0 25 5 4
 1
 end_operator
@@ -25397,8 +25397,8 @@ newcolfromfreecell sa n13 n12 n3 n4
 0
 4
 0 8 2 0
-0 24 7 8
 0 9 -1 0
+0 24 7 8
 0 25 5 4
 1
 end_operator
@@ -25407,8 +25407,8 @@ newcolfromfreecell sa n13 n12 n4 n5
 0
 4
 0 8 2 0
-0 24 8 9
 0 9 -1 0
+0 24 8 9
 0 25 5 4
 1
 end_operator
@@ -25417,8 +25417,8 @@ newcolfromfreecell sa n13 n12 n5 n6
 0
 4
 0 8 2 0
-0 24 9 10
 0 9 -1 0
+0 24 9 10
 0 25 5 4
 1
 end_operator
@@ -25427,8 +25427,8 @@ newcolfromfreecell sa n13 n12 n6 n7
 0
 4
 0 8 2 0
-0 24 10 11
 0 9 -1 0
+0 24 10 11
 0 25 5 4
 1
 end_operator
@@ -25437,8 +25437,8 @@ newcolfromfreecell sa n13 n12 n7 n8
 0
 4
 0 8 2 0
-0 24 11 12
 0 9 -1 0
+0 24 11 12
 0 25 5 4
 1
 end_operator
@@ -25447,8 +25447,8 @@ newcolfromfreecell sa n13 n12 n8 n9
 0
 4
 0 8 2 0
-0 24 12 13
 0 9 -1 0
+0 24 12 13
 0 25 5 4
 1
 end_operator
@@ -25457,8 +25457,8 @@ newcolfromfreecell sa n13 n12 n9 n10
 0
 4
 0 8 2 0
-0 24 13 2
 0 9 -1 0
+0 24 13 2
 0 25 5 4
 1
 end_operator
@@ -25467,8 +25467,8 @@ newcolfromfreecell sa n2 n1 n0 n1
 0
 4
 0 8 2 0
-0 24 0 1
 0 9 -1 0
+0 24 0 1
 0 25 6 1
 1
 end_operator
@@ -25477,8 +25477,8 @@ newcolfromfreecell sa n2 n1 n1 n2
 0
 4
 0 8 2 0
-0 24 1 6
 0 9 -1 0
+0 24 1 6
 0 25 6 1
 1
 end_operator
@@ -25487,8 +25487,8 @@ newcolfromfreecell sa n2 n1 n10 n11
 0
 4
 0 8 2 0
-0 24 2 3
 0 9 -1 0
+0 24 2 3
 0 25 6 1
 1
 end_operator
@@ -25497,8 +25497,8 @@ newcolfromfreecell sa n2 n1 n11 n12
 0
 4
 0 8 2 0
-0 24 3 4
 0 9 -1 0
+0 24 3 4
 0 25 6 1
 1
 end_operator
@@ -25507,8 +25507,8 @@ newcolfromfreecell sa n2 n1 n12 n13
 0
 4
 0 8 2 0
-0 24 4 5
 0 9 -1 0
+0 24 4 5
 0 25 6 1
 1
 end_operator
@@ -25517,8 +25517,8 @@ newcolfromfreecell sa n2 n1 n2 n3
 0
 4
 0 8 2 0
-0 24 6 7
 0 9 -1 0
+0 24 6 7
 0 25 6 1
 1
 end_operator
@@ -25527,8 +25527,8 @@ newcolfromfreecell sa n2 n1 n3 n4
 0
 4
 0 8 2 0
-0 24 7 8
 0 9 -1 0
+0 24 7 8
 0 25 6 1
 1
 end_operator
@@ -25537,8 +25537,8 @@ newcolfromfreecell sa n2 n1 n4 n5
 0
 4
 0 8 2 0
-0 24 8 9
 0 9 -1 0
+0 24 8 9
 0 25 6 1
 1
 end_operator
@@ -25547,8 +25547,8 @@ newcolfromfreecell sa n2 n1 n5 n6
 0
 4
 0 8 2 0
-0 24 9 10
 0 9 -1 0
+0 24 9 10
 0 25 6 1
 1
 end_operator
@@ -25557,8 +25557,8 @@ newcolfromfreecell sa n2 n1 n6 n7
 0
 4
 0 8 2 0
-0 24 10 11
 0 9 -1 0
+0 24 10 11
 0 25 6 1
 1
 end_operator
@@ -25567,8 +25567,8 @@ newcolfromfreecell sa n2 n1 n7 n8
 0
 4
 0 8 2 0
-0 24 11 12
 0 9 -1 0
+0 24 11 12
 0 25 6 1
 1
 end_operator
@@ -25577,8 +25577,8 @@ newcolfromfreecell sa n2 n1 n8 n9
 0
 4
 0 8 2 0
-0 24 12 13
 0 9 -1 0
+0 24 12 13
 0 25 6 1
 1
 end_operator
@@ -25587,8 +25587,8 @@ newcolfromfreecell sa n2 n1 n9 n10
 0
 4
 0 8 2 0
-0 24 13 2
 0 9 -1 0
+0 24 13 2
 0 25 6 1
 1
 end_operator
@@ -25597,8 +25597,8 @@ newcolfromfreecell sa n3 n2 n0 n1
 0
 4
 0 8 2 0
-0 24 0 1
 0 9 -1 0
+0 24 0 1
 0 25 7 6
 1
 end_operator
@@ -25607,8 +25607,8 @@ newcolfromfreecell sa n3 n2 n1 n2
 0
 4
 0 8 2 0
-0 24 1 6
 0 9 -1 0
+0 24 1 6
 0 25 7 6
 1
 end_operator
@@ -25617,8 +25617,8 @@ newcolfromfreecell sa n3 n2 n10 n11
 0
 4
 0 8 2 0
-0 24 2 3
 0 9 -1 0
+0 24 2 3
 0 25 7 6
 1
 end_operator
@@ -25627,8 +25627,8 @@ newcolfromfreecell sa n3 n2 n11 n12
 0
 4
 0 8 2 0
-0 24 3 4
 0 9 -1 0
+0 24 3 4
 0 25 7 6
 1
 end_operator
@@ -25637,8 +25637,8 @@ newcolfromfreecell sa n3 n2 n12 n13
 0
 4
 0 8 2 0
-0 24 4 5
 0 9 -1 0
+0 24 4 5
 0 25 7 6
 1
 end_operator
@@ -25647,8 +25647,8 @@ newcolfromfreecell sa n3 n2 n2 n3
 0
 4
 0 8 2 0
-0 24 6 7
 0 9 -1 0
+0 24 6 7
 0 25 7 6
 1
 end_operator
@@ -25657,8 +25657,8 @@ newcolfromfreecell sa n3 n2 n3 n4
 0
 4
 0 8 2 0
-0 24 7 8
 0 9 -1 0
+0 24 7 8
 0 25 7 6
 1
 end_operator
@@ -25667,8 +25667,8 @@ newcolfromfreecell sa n3 n2 n4 n5
 0
 4
 0 8 2 0
-0 24 8 9
 0 9 -1 0
+0 24 8 9
 0 25 7 6
 1
 end_operator
@@ -25677,8 +25677,8 @@ newcolfromfreecell sa n3 n2 n5 n6
 0
 4
 0 8 2 0
-0 24 9 10
 0 9 -1 0
+0 24 9 10
 0 25 7 6
 1
 end_operator
@@ -25687,8 +25687,8 @@ newcolfromfreecell sa n3 n2 n6 n7
 0
 4
 0 8 2 0
-0 24 10 11
 0 9 -1 0
+0 24 10 11
 0 25 7 6
 1
 end_operator
@@ -25697,8 +25697,8 @@ newcolfromfreecell sa n3 n2 n7 n8
 0
 4
 0 8 2 0
-0 24 11 12
 0 9 -1 0
+0 24 11 12
 0 25 7 6
 1
 end_operator
@@ -25707,8 +25707,8 @@ newcolfromfreecell sa n3 n2 n8 n9
 0
 4
 0 8 2 0
-0 24 12 13
 0 9 -1 0
+0 24 12 13
 0 25 7 6
 1
 end_operator
@@ -25717,8 +25717,8 @@ newcolfromfreecell sa n3 n2 n9 n10
 0
 4
 0 8 2 0
-0 24 13 2
 0 9 -1 0
+0 24 13 2
 0 25 7 6
 1
 end_operator
@@ -25727,8 +25727,8 @@ newcolfromfreecell sa n4 n3 n0 n1
 0
 4
 0 8 2 0
-0 24 0 1
 0 9 -1 0
+0 24 0 1
 0 25 8 7
 1
 end_operator
@@ -25737,8 +25737,8 @@ newcolfromfreecell sa n4 n3 n1 n2
 0
 4
 0 8 2 0
-0 24 1 6
 0 9 -1 0
+0 24 1 6
 0 25 8 7
 1
 end_operator
@@ -25747,8 +25747,8 @@ newcolfromfreecell sa n4 n3 n10 n11
 0
 4
 0 8 2 0
-0 24 2 3
 0 9 -1 0
+0 24 2 3
 0 25 8 7
 1
 end_operator
@@ -25757,8 +25757,8 @@ newcolfromfreecell sa n4 n3 n11 n12
 0
 4
 0 8 2 0
-0 24 3 4
 0 9 -1 0
+0 24 3 4
 0 25 8 7
 1
 end_operator
@@ -25767,8 +25767,8 @@ newcolfromfreecell sa n4 n3 n12 n13
 0
 4
 0 8 2 0
-0 24 4 5
 0 9 -1 0
+0 24 4 5
 0 25 8 7
 1
 end_operator
@@ -25777,8 +25777,8 @@ newcolfromfreecell sa n4 n3 n2 n3
 0
 4
 0 8 2 0
-0 24 6 7
 0 9 -1 0
+0 24 6 7
 0 25 8 7
 1
 end_operator
@@ -25787,8 +25787,8 @@ newcolfromfreecell sa n4 n3 n3 n4
 0
 4
 0 8 2 0
-0 24 7 8
 0 9 -1 0
+0 24 7 8
 0 25 8 7
 1
 end_operator
@@ -25797,8 +25797,8 @@ newcolfromfreecell sa n4 n3 n4 n5
 0
 4
 0 8 2 0
-0 24 8 9
 0 9 -1 0
+0 24 8 9
 0 25 8 7
 1
 end_operator
@@ -25807,8 +25807,8 @@ newcolfromfreecell sa n4 n3 n5 n6
 0
 4
 0 8 2 0
-0 24 9 10
 0 9 -1 0
+0 24 9 10
 0 25 8 7
 1
 end_operator
@@ -25817,8 +25817,8 @@ newcolfromfreecell sa n4 n3 n6 n7
 0
 4
 0 8 2 0
-0 24 10 11
 0 9 -1 0
+0 24 10 11
 0 25 8 7
 1
 end_operator
@@ -25827,8 +25827,8 @@ newcolfromfreecell sa n4 n3 n7 n8
 0
 4
 0 8 2 0
-0 24 11 12
 0 9 -1 0
+0 24 11 12
 0 25 8 7
 1
 end_operator
@@ -25837,8 +25837,8 @@ newcolfromfreecell sa n4 n3 n8 n9
 0
 4
 0 8 2 0
-0 24 12 13
 0 9 -1 0
+0 24 12 13
 0 25 8 7
 1
 end_operator
@@ -25847,8 +25847,8 @@ newcolfromfreecell sa n4 n3 n9 n10
 0
 4
 0 8 2 0
-0 24 13 2
 0 9 -1 0
+0 24 13 2
 0 25 8 7
 1
 end_operator
@@ -25857,8 +25857,8 @@ newcolfromfreecell sa n5 n4 n0 n1
 0
 4
 0 8 2 0
-0 24 0 1
 0 9 -1 0
+0 24 0 1
 0 25 9 8
 1
 end_operator
@@ -25867,8 +25867,8 @@ newcolfromfreecell sa n5 n4 n1 n2
 0
 4
 0 8 2 0
-0 24 1 6
 0 9 -1 0
+0 24 1 6
 0 25 9 8
 1
 end_operator
@@ -25877,8 +25877,8 @@ newcolfromfreecell sa n5 n4 n10 n11
 0
 4
 0 8 2 0
-0 24 2 3
 0 9 -1 0
+0 24 2 3
 0 25 9 8
 1
 end_operator
@@ -25887,8 +25887,8 @@ newcolfromfreecell sa n5 n4 n11 n12
 0
 4
 0 8 2 0
-0 24 3 4
 0 9 -1 0
+0 24 3 4
 0 25 9 8
 1
 end_operator
@@ -25897,8 +25897,8 @@ newcolfromfreecell sa n5 n4 n12 n13
 0
 4
 0 8 2 0
-0 24 4 5
 0 9 -1 0
+0 24 4 5
 0 25 9 8
 1
 end_operator
@@ -25907,8 +25907,8 @@ newcolfromfreecell sa n5 n4 n2 n3
 0
 4
 0 8 2 0
-0 24 6 7
 0 9 -1 0
+0 24 6 7
 0 25 9 8
 1
 end_operator
@@ -25917,8 +25917,8 @@ newcolfromfreecell sa n5 n4 n3 n4
 0
 4
 0 8 2 0
-0 24 7 8
 0 9 -1 0
+0 24 7 8
 0 25 9 8
 1
 end_operator
@@ -25927,8 +25927,8 @@ newcolfromfreecell sa n5 n4 n4 n5
 0
 4
 0 8 2 0
-0 24 8 9
 0 9 -1 0
+0 24 8 9
 0 25 9 8
 1
 end_operator
@@ -25937,8 +25937,8 @@ newcolfromfreecell sa n5 n4 n5 n6
 0
 4
 0 8 2 0
-0 24 9 10
 0 9 -1 0
+0 24 9 10
 0 25 9 8
 1
 end_operator
@@ -25947,8 +25947,8 @@ newcolfromfreecell sa n5 n4 n6 n7
 0
 4
 0 8 2 0
-0 24 10 11
 0 9 -1 0
+0 24 10 11
 0 25 9 8
 1
 end_operator
@@ -25957,8 +25957,8 @@ newcolfromfreecell sa n5 n4 n7 n8
 0
 4
 0 8 2 0
-0 24 11 12
 0 9 -1 0
+0 24 11 12
 0 25 9 8
 1
 end_operator
@@ -25967,8 +25967,8 @@ newcolfromfreecell sa n5 n4 n8 n9
 0
 4
 0 8 2 0
-0 24 12 13
 0 9 -1 0
+0 24 12 13
 0 25 9 8
 1
 end_operator
@@ -25977,8 +25977,8 @@ newcolfromfreecell sa n5 n4 n9 n10
 0
 4
 0 8 2 0
-0 24 13 2
 0 9 -1 0
+0 24 13 2
 0 25 9 8
 1
 end_operator
@@ -25987,8 +25987,8 @@ newcolfromfreecell sa n6 n5 n0 n1
 0
 4
 0 8 2 0
-0 24 0 1
 0 9 -1 0
+0 24 0 1
 0 25 10 9
 1
 end_operator
@@ -25997,8 +25997,8 @@ newcolfromfreecell sa n6 n5 n1 n2
 0
 4
 0 8 2 0
-0 24 1 6
 0 9 -1 0
+0 24 1 6
 0 25 10 9
 1
 end_operator
@@ -26007,8 +26007,8 @@ newcolfromfreecell sa n6 n5 n10 n11
 0
 4
 0 8 2 0
-0 24 2 3
 0 9 -1 0
+0 24 2 3
 0 25 10 9
 1
 end_operator
@@ -26017,8 +26017,8 @@ newcolfromfreecell sa n6 n5 n11 n12
 0
 4
 0 8 2 0
-0 24 3 4
 0 9 -1 0
+0 24 3 4
 0 25 10 9
 1
 end_operator
@@ -26027,8 +26027,8 @@ newcolfromfreecell sa n6 n5 n12 n13
 0
 4
 0 8 2 0
-0 24 4 5
 0 9 -1 0
+0 24 4 5
 0 25 10 9
 1
 end_operator
@@ -26037,8 +26037,8 @@ newcolfromfreecell sa n6 n5 n2 n3
 0
 4
 0 8 2 0
-0 24 6 7
 0 9 -1 0
+0 24 6 7
 0 25 10 9
 1
 end_operator
@@ -26047,8 +26047,8 @@ newcolfromfreecell sa n6 n5 n3 n4
 0
 4
 0 8 2 0
-0 24 7 8
 0 9 -1 0
+0 24 7 8
 0 25 10 9
 1
 end_operator
@@ -26057,8 +26057,8 @@ newcolfromfreecell sa n6 n5 n4 n5
 0
 4
 0 8 2 0
-0 24 8 9
 0 9 -1 0
+0 24 8 9
 0 25 10 9
 1
 end_operator
@@ -26067,8 +26067,8 @@ newcolfromfreecell sa n6 n5 n5 n6
 0
 4
 0 8 2 0
-0 24 9 10
 0 9 -1 0
+0 24 9 10
 0 25 10 9
 1
 end_operator
@@ -26077,8 +26077,8 @@ newcolfromfreecell sa n6 n5 n6 n7
 0
 4
 0 8 2 0
-0 24 10 11
 0 9 -1 0
+0 24 10 11
 0 25 10 9
 1
 end_operator
@@ -26087,8 +26087,8 @@ newcolfromfreecell sa n6 n5 n7 n8
 0
 4
 0 8 2 0
-0 24 11 12
 0 9 -1 0
+0 24 11 12
 0 25 10 9
 1
 end_operator
@@ -26097,8 +26097,8 @@ newcolfromfreecell sa n6 n5 n8 n9
 0
 4
 0 8 2 0
-0 24 12 13
 0 9 -1 0
+0 24 12 13
 0 25 10 9
 1
 end_operator
@@ -26107,8 +26107,8 @@ newcolfromfreecell sa n6 n5 n9 n10
 0
 4
 0 8 2 0
-0 24 13 2
 0 9 -1 0
+0 24 13 2
 0 25 10 9
 1
 end_operator
@@ -26117,8 +26117,8 @@ newcolfromfreecell sa n7 n6 n0 n1
 0
 4
 0 8 2 0
-0 24 0 1
 0 9 -1 0
+0 24 0 1
 0 25 11 10
 1
 end_operator
@@ -26127,8 +26127,8 @@ newcolfromfreecell sa n7 n6 n1 n2
 0
 4
 0 8 2 0
-0 24 1 6
 0 9 -1 0
+0 24 1 6
 0 25 11 10
 1
 end_operator
@@ -26137,8 +26137,8 @@ newcolfromfreecell sa n7 n6 n10 n11
 0
 4
 0 8 2 0
-0 24 2 3
 0 9 -1 0
+0 24 2 3
 0 25 11 10
 1
 end_operator
@@ -26147,8 +26147,8 @@ newcolfromfreecell sa n7 n6 n11 n12
 0
 4
 0 8 2 0
-0 24 3 4
 0 9 -1 0
+0 24 3 4
 0 25 11 10
 1
 end_operator
@@ -26157,8 +26157,8 @@ newcolfromfreecell sa n7 n6 n12 n13
 0
 4
 0 8 2 0
-0 24 4 5
 0 9 -1 0
+0 24 4 5
 0 25 11 10
 1
 end_operator
@@ -26167,8 +26167,8 @@ newcolfromfreecell sa n7 n6 n2 n3
 0
 4
 0 8 2 0
-0 24 6 7
 0 9 -1 0
+0 24 6 7
 0 25 11 10
 1
 end_operator
@@ -26177,8 +26177,8 @@ newcolfromfreecell sa n7 n6 n3 n4
 0
 4
 0 8 2 0
-0 24 7 8
 0 9 -1 0
+0 24 7 8
 0 25 11 10
 1
 end_operator
@@ -26187,8 +26187,8 @@ newcolfromfreecell sa n7 n6 n4 n5
 0
 4
 0 8 2 0
-0 24 8 9
 0 9 -1 0
+0 24 8 9
 0 25 11 10
 1
 end_operator
@@ -26197,8 +26197,8 @@ newcolfromfreecell sa n7 n6 n5 n6
 0
 4
 0 8 2 0
-0 24 9 10
 0 9 -1 0
+0 24 9 10
 0 25 11 10
 1
 end_operator
@@ -26207,8 +26207,8 @@ newcolfromfreecell sa n7 n6 n6 n7
 0
 4
 0 8 2 0
-0 24 10 11
 0 9 -1 0
+0 24 10 11
 0 25 11 10
 1
 end_operator
@@ -26217,8 +26217,8 @@ newcolfromfreecell sa n7 n6 n7 n8
 0
 4
 0 8 2 0
-0 24 11 12
 0 9 -1 0
+0 24 11 12
 0 25 11 10
 1
 end_operator
@@ -26227,8 +26227,8 @@ newcolfromfreecell sa n7 n6 n8 n9
 0
 4
 0 8 2 0
-0 24 12 13
 0 9 -1 0
+0 24 12 13
 0 25 11 10
 1
 end_operator
@@ -26237,8 +26237,8 @@ newcolfromfreecell sa n7 n6 n9 n10
 0
 4
 0 8 2 0
-0 24 13 2
 0 9 -1 0
+0 24 13 2
 0 25 11 10
 1
 end_operator
@@ -26247,8 +26247,8 @@ newcolfromfreecell sa n8 n7 n0 n1
 0
 4
 0 8 2 0
-0 24 0 1
 0 9 -1 0
+0 24 0 1
 0 25 12 11
 1
 end_operator
@@ -26257,8 +26257,8 @@ newcolfromfreecell sa n8 n7 n1 n2
 0
 4
 0 8 2 0
-0 24 1 6
 0 9 -1 0
+0 24 1 6
 0 25 12 11
 1
 end_operator
@@ -26267,8 +26267,8 @@ newcolfromfreecell sa n8 n7 n10 n11
 0
 4
 0 8 2 0
-0 24 2 3
 0 9 -1 0
+0 24 2 3
 0 25 12 11
 1
 end_operator
@@ -26277,8 +26277,8 @@ newcolfromfreecell sa n8 n7 n11 n12
 0
 4
 0 8 2 0
-0 24 3 4
 0 9 -1 0
+0 24 3 4
 0 25 12 11
 1
 end_operator
@@ -26287,8 +26287,8 @@ newcolfromfreecell sa n8 n7 n12 n13
 0
 4
 0 8 2 0
-0 24 4 5
 0 9 -1 0
+0 24 4 5
 0 25 12 11
 1
 end_operator
@@ -26297,8 +26297,8 @@ newcolfromfreecell sa n8 n7 n2 n3
 0
 4
 0 8 2 0
-0 24 6 7
 0 9 -1 0
+0 24 6 7
 0 25 12 11
 1
 end_operator
@@ -26307,8 +26307,8 @@ newcolfromfreecell sa n8 n7 n3 n4
 0
 4
 0 8 2 0
-0 24 7 8
 0 9 -1 0
+0 24 7 8
 0 25 12 11
 1
 end_operator
@@ -26317,8 +26317,8 @@ newcolfromfreecell sa n8 n7 n4 n5
 0
 4
 0 8 2 0
-0 24 8 9
 0 9 -1 0
+0 24 8 9
 0 25 12 11
 1
 end_operator
@@ -26327,8 +26327,8 @@ newcolfromfreecell sa n8 n7 n5 n6
 0
 4
 0 8 2 0
-0 24 9 10
 0 9 -1 0
+0 24 9 10
 0 25 12 11
 1
 end_operator
@@ -26337,8 +26337,8 @@ newcolfromfreecell sa n8 n7 n6 n7
 0
 4
 0 8 2 0
-0 24 10 11
 0 9 -1 0
+0 24 10 11
 0 25 12 11
 1
 end_operator
@@ -26347,8 +26347,8 @@ newcolfromfreecell sa n8 n7 n7 n8
 0
 4
 0 8 2 0
-0 24 11 12
 0 9 -1 0
+0 24 11 12
 0 25 12 11
 1
 end_operator
@@ -26357,8 +26357,8 @@ newcolfromfreecell sa n8 n7 n8 n9
 0
 4
 0 8 2 0
-0 24 12 13
 0 9 -1 0
+0 24 12 13
 0 25 12 11
 1
 end_operator
@@ -26367,8 +26367,8 @@ newcolfromfreecell sa n8 n7 n9 n10
 0
 4
 0 8 2 0
-0 24 13 2
 0 9 -1 0
+0 24 13 2
 0 25 12 11
 1
 end_operator
@@ -26377,8 +26377,8 @@ newcolfromfreecell sa n9 n8 n0 n1
 0
 4
 0 8 2 0
-0 24 0 1
 0 9 -1 0
+0 24 0 1
 0 25 13 12
 1
 end_operator
@@ -26387,8 +26387,8 @@ newcolfromfreecell sa n9 n8 n1 n2
 0
 4
 0 8 2 0
-0 24 1 6
 0 9 -1 0
+0 24 1 6
 0 25 13 12
 1
 end_operator
@@ -26397,8 +26397,8 @@ newcolfromfreecell sa n9 n8 n10 n11
 0
 4
 0 8 2 0
-0 24 2 3
 0 9 -1 0
+0 24 2 3
 0 25 13 12
 1
 end_operator
@@ -26407,8 +26407,8 @@ newcolfromfreecell sa n9 n8 n11 n12
 0
 4
 0 8 2 0
-0 24 3 4
 0 9 -1 0
+0 24 3 4
 0 25 13 12
 1
 end_operator
@@ -26417,8 +26417,8 @@ newcolfromfreecell sa n9 n8 n12 n13
 0
 4
 0 8 2 0
-0 24 4 5
 0 9 -1 0
+0 24 4 5
 0 25 13 12
 1
 end_operator
@@ -26427,8 +26427,8 @@ newcolfromfreecell sa n9 n8 n2 n3
 0
 4
 0 8 2 0
-0 24 6 7
 0 9 -1 0
+0 24 6 7
 0 25 13 12
 1
 end_operator
@@ -26437,8 +26437,8 @@ newcolfromfreecell sa n9 n8 n3 n4
 0
 4
 0 8 2 0
-0 24 7 8
 0 9 -1 0
+0 24 7 8
 0 25 13 12
 1
 end_operator
@@ -26447,8 +26447,8 @@ newcolfromfreecell sa n9 n8 n4 n5
 0
 4
 0 8 2 0
-0 24 8 9
 0 9 -1 0
+0 24 8 9
 0 25 13 12
 1
 end_operator
@@ -26457,8 +26457,8 @@ newcolfromfreecell sa n9 n8 n5 n6
 0
 4
 0 8 2 0
-0 24 9 10
 0 9 -1 0
+0 24 9 10
 0 25 13 12
 1
 end_operator
@@ -26467,8 +26467,8 @@ newcolfromfreecell sa n9 n8 n6 n7
 0
 4
 0 8 2 0
-0 24 10 11
 0 9 -1 0
+0 24 10 11
 0 25 13 12
 1
 end_operator
@@ -26477,8 +26477,8 @@ newcolfromfreecell sa n9 n8 n7 n8
 0
 4
 0 8 2 0
-0 24 11 12
 0 9 -1 0
+0 24 11 12
 0 25 13 12
 1
 end_operator
@@ -26487,8 +26487,8 @@ newcolfromfreecell sa n9 n8 n8 n9
 0
 4
 0 8 2 0
-0 24 12 13
 0 9 -1 0
+0 24 12 13
 0 25 13 12
 1
 end_operator
@@ -26497,8 +26497,8 @@ newcolfromfreecell sa n9 n8 n9 n10
 0
 4
 0 8 2 0
-0 24 13 2
 0 9 -1 0
+0 24 13 2
 0 25 13 12
 1
 end_operator
@@ -26506,8 +26506,8 @@ begin_operator
 sendtofree c2 d3 n1 n0
 0
 3
-0 24 1 0
 0 16 0 2
+0 24 1 0
 0 29 3 0
 1
 end_operator
@@ -26515,8 +26515,8 @@ begin_operator
 sendtofree c2 d3 n10 n9
 0
 3
-0 24 2 13
 0 16 0 2
+0 24 2 13
 0 29 3 0
 1
 end_operator
@@ -26524,8 +26524,8 @@ begin_operator
 sendtofree c2 d3 n11 n10
 0
 3
-0 24 3 2
 0 16 0 2
+0 24 3 2
 0 29 3 0
 1
 end_operator
@@ -26533,8 +26533,8 @@ begin_operator
 sendtofree c2 d3 n12 n11
 0
 3
-0 24 4 3
 0 16 0 2
+0 24 4 3
 0 29 3 0
 1
 end_operator
@@ -26542,8 +26542,8 @@ begin_operator
 sendtofree c2 d3 n13 n12
 0
 3
-0 24 5 4
 0 16 0 2
+0 24 5 4
 0 29 3 0
 1
 end_operator
@@ -26551,8 +26551,8 @@ begin_operator
 sendtofree c2 d3 n2 n1
 0
 3
-0 24 6 1
 0 16 0 2
+0 24 6 1
 0 29 3 0
 1
 end_operator
@@ -26560,8 +26560,8 @@ begin_operator
 sendtofree c2 d3 n3 n2
 0
 3
-0 24 7 6
 0 16 0 2
+0 24 7 6
 0 29 3 0
 1
 end_operator
@@ -26569,8 +26569,8 @@ begin_operator
 sendtofree c2 d3 n4 n3
 0
 3
-0 24 8 7
 0 16 0 2
+0 24 8 7
 0 29 3 0
 1
 end_operator
@@ -26578,8 +26578,8 @@ begin_operator
 sendtofree c2 d3 n5 n4
 0
 3
-0 24 9 8
 0 16 0 2
+0 24 9 8
 0 29 3 0
 1
 end_operator
@@ -26587,8 +26587,8 @@ begin_operator
 sendtofree c2 d3 n6 n5
 0
 3
-0 24 10 9
 0 16 0 2
+0 24 10 9
 0 29 3 0
 1
 end_operator
@@ -26596,8 +26596,8 @@ begin_operator
 sendtofree c2 d3 n7 n6
 0
 3
-0 24 11 10
 0 16 0 2
+0 24 11 10
 0 29 3 0
 1
 end_operator
@@ -26605,8 +26605,8 @@ begin_operator
 sendtofree c2 d3 n8 n7
 0
 3
-0 24 12 11
 0 16 0 2
+0 24 12 11
 0 29 3 0
 1
 end_operator
@@ -26614,8 +26614,8 @@ begin_operator
 sendtofree c2 d3 n9 n8
 0
 3
-0 24 13 12
 0 16 0 2
+0 24 13 12
 0 29 3 0
 1
 end_operator
@@ -26623,8 +26623,8 @@ begin_operator
 sendtofree c2 h3 n1 n0
 0
 3
-0 24 1 0
 0 16 0 2
+0 24 1 0
 0 26 3 0
 1
 end_operator
@@ -26632,8 +26632,8 @@ begin_operator
 sendtofree c2 h3 n10 n9
 0
 3
-0 24 2 13
 0 16 0 2
+0 24 2 13
 0 26 3 0
 1
 end_operator
@@ -26641,8 +26641,8 @@ begin_operator
 sendtofree c2 h3 n11 n10
 0
 3
-0 24 3 2
 0 16 0 2
+0 24 3 2
 0 26 3 0
 1
 end_operator
@@ -26650,8 +26650,8 @@ begin_operator
 sendtofree c2 h3 n12 n11
 0
 3
-0 24 4 3
 0 16 0 2
+0 24 4 3
 0 26 3 0
 1
 end_operator
@@ -26659,8 +26659,8 @@ begin_operator
 sendtofree c2 h3 n13 n12
 0
 3
-0 24 5 4
 0 16 0 2
+0 24 5 4
 0 26 3 0
 1
 end_operator
@@ -26668,8 +26668,8 @@ begin_operator
 sendtofree c2 h3 n2 n1
 0
 3
-0 24 6 1
 0 16 0 2
+0 24 6 1
 0 26 3 0
 1
 end_operator
@@ -26677,8 +26677,8 @@ begin_operator
 sendtofree c2 h3 n3 n2
 0
 3
-0 24 7 6
 0 16 0 2
+0 24 7 6
 0 26 3 0
 1
 end_operator
@@ -26686,8 +26686,8 @@ begin_operator
 sendtofree c2 h3 n4 n3
 0
 3
-0 24 8 7
 0 16 0 2
+0 24 8 7
 0 26 3 0
 1
 end_operator
@@ -26695,8 +26695,8 @@ begin_operator
 sendtofree c2 h3 n5 n4
 0
 3
-0 24 9 8
 0 16 0 2
+0 24 9 8
 0 26 3 0
 1
 end_operator
@@ -26704,8 +26704,8 @@ begin_operator
 sendtofree c2 h3 n6 n5
 0
 3
-0 24 10 9
 0 16 0 2
+0 24 10 9
 0 26 3 0
 1
 end_operator
@@ -26713,8 +26713,8 @@ begin_operator
 sendtofree c2 h3 n7 n6
 0
 3
-0 24 11 10
 0 16 0 2
+0 24 11 10
 0 26 3 0
 1
 end_operator
@@ -26722,8 +26722,8 @@ begin_operator
 sendtofree c2 h3 n8 n7
 0
 3
-0 24 12 11
 0 16 0 2
+0 24 12 11
 0 26 3 0
 1
 end_operator
@@ -26731,8 +26731,8 @@ begin_operator
 sendtofree c2 h3 n9 n8
 0
 3
-0 24 13 12
 0 16 0 2
+0 24 13 12
 0 26 3 0
 1
 end_operator
@@ -26740,256 +26740,256 @@ begin_operator
 sendtofree c3 s2 n1 n0
 0
 3
+0 11 3 0
 0 24 1 0
 0 28 0 2
-0 11 3 0
 1
 end_operator
 begin_operator
 sendtofree c3 s2 n10 n9
 0
 3
+0 11 3 0
 0 24 2 13
 0 28 0 2
-0 11 3 0
 1
 end_operator
 begin_operator
 sendtofree c3 s2 n11 n10
 0
 3
+0 11 3 0
 0 24 3 2
 0 28 0 2
-0 11 3 0
 1
 end_operator
 begin_operator
 sendtofree c3 s2 n12 n11
 0
 3
+0 11 3 0
 0 24 4 3
 0 28 0 2
-0 11 3 0
 1
 end_operator
 begin_operator
 sendtofree c3 s2 n13 n12
 0
 3
+0 11 3 0
 0 24 5 4
 0 28 0 2
-0 11 3 0
 1
 end_operator
 begin_operator
 sendtofree c3 s2 n2 n1
 0
 3
+0 11 3 0
 0 24 6 1
 0 28 0 2
-0 11 3 0
 1
 end_operator
 begin_operator
 sendtofree c3 s2 n3 n2
 0
 3
+0 11 3 0
 0 24 7 6
 0 28 0 2
-0 11 3 0
 1
 end_operator
 begin_operator
 sendtofree c3 s2 n4 n3
 0
 3
+0 11 3 0
 0 24 8 7
 0 28 0 2
-0 11 3 0
 1
 end_operator
 begin_operator
 sendtofree c3 s2 n5 n4
 0
 3
+0 11 3 0
 0 24 9 8
 0 28 0 2
-0 11 3 0
 1
 end_operator
 begin_operator
 sendtofree c3 s2 n6 n5
 0
 3
+0 11 3 0
 0 24 10 9
 0 28 0 2
-0 11 3 0
 1
 end_operator
 begin_operator
 sendtofree c3 s2 n7 n6
 0
 3
+0 11 3 0
 0 24 11 10
 0 28 0 2
-0 11 3 0
 1
 end_operator
 begin_operator
 sendtofree c3 s2 n8 n7
 0
 3
+0 11 3 0
 0 24 12 11
 0 28 0 2
-0 11 3 0
 1
 end_operator
 begin_operator
 sendtofree c3 s2 n9 n8
 0
 3
+0 11 3 0
 0 24 13 12
 0 28 0 2
-0 11 3 0
 1
 end_operator
 begin_operator
 sendtofree ca d2 n1 n0
 0
 4
-0 21 3 2
-0 24 1 0
 0 20 0 1
+0 21 3 2
 0 22 -1 0
+0 24 1 0
 1
 end_operator
 begin_operator
 sendtofree ca d2 n10 n9
 0
 4
-0 21 3 2
-0 24 2 13
 0 20 0 1
+0 21 3 2
 0 22 -1 0
+0 24 2 13
 1
 end_operator
 begin_operator
 sendtofree ca d2 n11 n10
 0
 4
-0 21 3 2
-0 24 3 2
 0 20 0 1
+0 21 3 2
 0 22 -1 0
+0 24 3 2
 1
 end_operator
 begin_operator
 sendtofree ca d2 n12 n11
 0
 4
-0 21 3 2
-0 24 4 3
 0 20 0 1
+0 21 3 2
 0 22 -1 0
+0 24 4 3
 1
 end_operator
 begin_operator
 sendtofree ca d2 n13 n12
 0
 4
-0 21 3 2
-0 24 5 4
 0 20 0 1
+0 21 3 2
 0 22 -1 0
+0 24 5 4
 1
 end_operator
 begin_operator
 sendtofree ca d2 n2 n1
 0
 4
-0 21 3 2
-0 24 6 1
 0 20 0 1
+0 21 3 2
 0 22 -1 0
+0 24 6 1
 1
 end_operator
 begin_operator
 sendtofree ca d2 n3 n2
 0
 4
-0 21 3 2
-0 24 7 6
 0 20 0 1
+0 21 3 2
 0 22 -1 0
+0 24 7 6
 1
 end_operator
 begin_operator
 sendtofree ca d2 n4 n3
 0
 4
-0 21 3 2
-0 24 8 7
 0 20 0 1
+0 21 3 2
 0 22 -1 0
+0 24 8 7
 1
 end_operator
 begin_operator
 sendtofree ca d2 n5 n4
 0
 4
-0 21 3 2
-0 24 9 8
 0 20 0 1
+0 21 3 2
 0 22 -1 0
+0 24 9 8
 1
 end_operator
 begin_operator
 sendtofree ca d2 n6 n5
 0
 4
-0 21 3 2
-0 24 10 9
 0 20 0 1
+0 21 3 2
 0 22 -1 0
+0 24 10 9
 1
 end_operator
 begin_operator
 sendtofree ca d2 n7 n6
 0
 4
-0 21 3 2
-0 24 11 10
 0 20 0 1
+0 21 3 2
 0 22 -1 0
+0 24 11 10
 1
 end_operator
 begin_operator
 sendtofree ca d2 n8 n7
 0
 4
-0 21 3 2
-0 24 12 11
 0 20 0 1
+0 21 3 2
 0 22 -1 0
+0 24 12 11
 1
 end_operator
 begin_operator
 sendtofree ca d2 n9 n8
 0
 4
-0 21 3 2
-0 24 13 12
 0 20 0 1
+0 21 3 2
 0 22 -1 0
+0 24 13 12
 1
 end_operator
 begin_operator
 sendtofree ca d3 n1 n0
 0
 4
+0 20 0 1
 0 21 -1 2
 0 24 1 0
-0 20 0 1
 0 29 4 0
 1
 end_operator
@@ -26997,9 +26997,9 @@ begin_operator
 sendtofree ca d3 n10 n9
 0
 4
+0 20 0 1
 0 21 -1 2
 0 24 2 13
-0 20 0 1
 0 29 4 0
 1
 end_operator
@@ -27007,9 +27007,9 @@ begin_operator
 sendtofree ca d3 n11 n10
 0
 4
+0 20 0 1
 0 21 -1 2
 0 24 3 2
-0 20 0 1
 0 29 4 0
 1
 end_operator
@@ -27017,9 +27017,9 @@ begin_operator
 sendtofree ca d3 n12 n11
 0
 4
+0 20 0 1
 0 21 -1 2
 0 24 4 3
-0 20 0 1
 0 29 4 0
 1
 end_operator
@@ -27027,9 +27027,9 @@ begin_operator
 sendtofree ca d3 n13 n12
 0
 4
+0 20 0 1
 0 21 -1 2
 0 24 5 4
-0 20 0 1
 0 29 4 0
 1
 end_operator
@@ -27037,9 +27037,9 @@ begin_operator
 sendtofree ca d3 n2 n1
 0
 4
+0 20 0 1
 0 21 -1 2
 0 24 6 1
-0 20 0 1
 0 29 4 0
 1
 end_operator
@@ -27047,9 +27047,9 @@ begin_operator
 sendtofree ca d3 n3 n2
 0
 4
+0 20 0 1
 0 21 -1 2
 0 24 7 6
-0 20 0 1
 0 29 4 0
 1
 end_operator
@@ -27057,9 +27057,9 @@ begin_operator
 sendtofree ca d3 n4 n3
 0
 4
+0 20 0 1
 0 21 -1 2
 0 24 8 7
-0 20 0 1
 0 29 4 0
 1
 end_operator
@@ -27067,9 +27067,9 @@ begin_operator
 sendtofree ca d3 n5 n4
 0
 4
+0 20 0 1
 0 21 -1 2
 0 24 9 8
-0 20 0 1
 0 29 4 0
 1
 end_operator
@@ -27077,9 +27077,9 @@ begin_operator
 sendtofree ca d3 n6 n5
 0
 4
+0 20 0 1
 0 21 -1 2
 0 24 10 9
-0 20 0 1
 0 29 4 0
 1
 end_operator
@@ -27087,9 +27087,9 @@ begin_operator
 sendtofree ca d3 n7 n6
 0
 4
+0 20 0 1
 0 21 -1 2
 0 24 11 10
-0 20 0 1
 0 29 4 0
 1
 end_operator
@@ -27097,9 +27097,9 @@ begin_operator
 sendtofree ca d3 n8 n7
 0
 4
+0 20 0 1
 0 21 -1 2
 0 24 12 11
-0 20 0 1
 0 29 4 0
 1
 end_operator
@@ -27107,9 +27107,9 @@ begin_operator
 sendtofree ca d3 n9 n8
 0
 4
+0 20 0 1
 0 21 -1 2
 0 24 13 12
-0 20 0 1
 0 29 4 0
 1
 end_operator
@@ -27117,255 +27117,255 @@ begin_operator
 sendtofree ca h2 n1 n0
 0
 4
+0 19 -1 0
+0 20 0 1
 0 21 4 2
 0 24 1 0
-0 20 0 1
-0 19 -1 0
 1
 end_operator
 begin_operator
 sendtofree ca h2 n10 n9
 0
 4
+0 19 -1 0
+0 20 0 1
 0 21 4 2
 0 24 2 13
-0 20 0 1
-0 19 -1 0
 1
 end_operator
 begin_operator
 sendtofree ca h2 n11 n10
 0
 4
+0 19 -1 0
+0 20 0 1
 0 21 4 2
 0 24 3 2
-0 20 0 1
-0 19 -1 0
 1
 end_operator
 begin_operator
 sendtofree ca h2 n12 n11
 0
 4
+0 19 -1 0
+0 20 0 1
 0 21 4 2
 0 24 4 3
-0 20 0 1
-0 19 -1 0
 1
 end_operator
 begin_operator
 sendtofree ca h2 n13 n12
 0
 4
+0 19 -1 0
+0 20 0 1
 0 21 4 2
 0 24 5 4
-0 20 0 1
-0 19 -1 0
 1
 end_operator
 begin_operator
 sendtofree ca h2 n2 n1
 0
 4
+0 19 -1 0
+0 20 0 1
 0 21 4 2
 0 24 6 1
-0 20 0 1
-0 19 -1 0
 1
 end_operator
 begin_operator
 sendtofree ca h2 n3 n2
 0
 4
+0 19 -1 0
+0 20 0 1
 0 21 4 2
 0 24 7 6
-0 20 0 1
-0 19 -1 0
 1
 end_operator
 begin_operator
 sendtofree ca h2 n4 n3
 0
 4
+0 19 -1 0
+0 20 0 1
 0 21 4 2
 0 24 8 7
-0 20 0 1
-0 19 -1 0
 1
 end_operator
 begin_operator
 sendtofree ca h2 n5 n4
 0
 4
+0 19 -1 0
+0 20 0 1
 0 21 4 2
 0 24 9 8
-0 20 0 1
-0 19 -1 0
 1
 end_operator
 begin_operator
 sendtofree ca h2 n6 n5
 0
 4
+0 19 -1 0
+0 20 0 1
 0 21 4 2
 0 24 10 9
-0 20 0 1
-0 19 -1 0
 1
 end_operator
 begin_operator
 sendtofree ca h2 n7 n6
 0
 4
+0 19 -1 0
+0 20 0 1
 0 21 4 2
 0 24 11 10
-0 20 0 1
-0 19 -1 0
 1
 end_operator
 begin_operator
 sendtofree ca h2 n8 n7
 0
 4
+0 19 -1 0
+0 20 0 1
 0 21 4 2
 0 24 12 11
-0 20 0 1
-0 19 -1 0
 1
 end_operator
 begin_operator
 sendtofree ca h2 n9 n8
 0
 4
+0 19 -1 0
+0 20 0 1
 0 21 4 2
 0 24 13 12
-0 20 0 1
-0 19 -1 0
 1
 end_operator
 begin_operator
 sendtofree d2 c3 n1 n0
 0
 3
+0 22 0 2
 0 24 1 0
 0 28 3 0
-0 22 0 2
 1
 end_operator
 begin_operator
 sendtofree d2 c3 n10 n9
 0
 3
+0 22 0 2
 0 24 2 13
 0 28 3 0
-0 22 0 2
 1
 end_operator
 begin_operator
 sendtofree d2 c3 n11 n10
 0
 3
+0 22 0 2
 0 24 3 2
 0 28 3 0
-0 22 0 2
 1
 end_operator
 begin_operator
 sendtofree d2 c3 n12 n11
 0
 3
+0 22 0 2
 0 24 4 3
 0 28 3 0
-0 22 0 2
 1
 end_operator
 begin_operator
 sendtofree d2 c3 n13 n12
 0
 3
+0 22 0 2
 0 24 5 4
 0 28 3 0
-0 22 0 2
 1
 end_operator
 begin_operator
 sendtofree d2 c3 n2 n1
 0
 3
+0 22 0 2
 0 24 6 1
 0 28 3 0
-0 22 0 2
 1
 end_operator
 begin_operator
 sendtofree d2 c3 n3 n2
 0
 3
+0 22 0 2
 0 24 7 6
 0 28 3 0
-0 22 0 2
 1
 end_operator
 begin_operator
 sendtofree d2 c3 n4 n3
 0
 3
+0 22 0 2
 0 24 8 7
 0 28 3 0
-0 22 0 2
 1
 end_operator
 begin_operator
 sendtofree d2 c3 n5 n4
 0
 3
+0 22 0 2
 0 24 9 8
 0 28 3 0
-0 22 0 2
 1
 end_operator
 begin_operator
 sendtofree d2 c3 n6 n5
 0
 3
+0 22 0 2
 0 24 10 9
 0 28 3 0
-0 22 0 2
 1
 end_operator
 begin_operator
 sendtofree d2 c3 n7 n6
 0
 3
+0 22 0 2
 0 24 11 10
 0 28 3 0
-0 22 0 2
 1
 end_operator
 begin_operator
 sendtofree d2 c3 n8 n7
 0
 3
+0 22 0 2
 0 24 12 11
 0 28 3 0
-0 22 0 2
 1
 end_operator
 begin_operator
 sendtofree d2 c3 n9 n8
 0
 3
+0 22 0 2
 0 24 13 12
 0 28 3 0
-0 22 0 2
 1
 end_operator
 begin_operator
 sendtofree d2 s3 n1 n0
 0
 3
-0 24 1 0
 0 22 0 2
+0 24 1 0
 0 27 3 0
 1
 end_operator
@@ -27373,8 +27373,8 @@ begin_operator
 sendtofree d2 s3 n10 n9
 0
 3
-0 24 2 13
 0 22 0 2
+0 24 2 13
 0 27 3 0
 1
 end_operator
@@ -27382,8 +27382,8 @@ begin_operator
 sendtofree d2 s3 n11 n10
 0
 3
-0 24 3 2
 0 22 0 2
+0 24 3 2
 0 27 3 0
 1
 end_operator
@@ -27391,8 +27391,8 @@ begin_operator
 sendtofree d2 s3 n12 n11
 0
 3
-0 24 4 3
 0 22 0 2
+0 24 4 3
 0 27 3 0
 1
 end_operator
@@ -27400,8 +27400,8 @@ begin_operator
 sendtofree d2 s3 n13 n12
 0
 3
-0 24 5 4
 0 22 0 2
+0 24 5 4
 0 27 3 0
 1
 end_operator
@@ -27409,8 +27409,8 @@ begin_operator
 sendtofree d2 s3 n2 n1
 0
 3
-0 24 6 1
 0 22 0 2
+0 24 6 1
 0 27 3 0
 1
 end_operator
@@ -27418,8 +27418,8 @@ begin_operator
 sendtofree d2 s3 n3 n2
 0
 3
-0 24 7 6
 0 22 0 2
+0 24 7 6
 0 27 3 0
 1
 end_operator
@@ -27427,8 +27427,8 @@ begin_operator
 sendtofree d2 s3 n4 n3
 0
 3
-0 24 8 7
 0 22 0 2
+0 24 8 7
 0 27 3 0
 1
 end_operator
@@ -27436,8 +27436,8 @@ begin_operator
 sendtofree d2 s3 n5 n4
 0
 3
-0 24 9 8
 0 22 0 2
+0 24 9 8
 0 27 3 0
 1
 end_operator
@@ -27445,8 +27445,8 @@ begin_operator
 sendtofree d2 s3 n6 n5
 0
 3
-0 24 10 9
 0 22 0 2
+0 24 10 9
 0 27 3 0
 1
 end_operator
@@ -27454,8 +27454,8 @@ begin_operator
 sendtofree d2 s3 n7 n6
 0
 3
-0 24 11 10
 0 22 0 2
+0 24 11 10
 0 27 3 0
 1
 end_operator
@@ -27463,8 +27463,8 @@ begin_operator
 sendtofree d2 s3 n8 n7
 0
 3
-0 24 12 11
 0 22 0 2
+0 24 12 11
 0 27 3 0
 1
 end_operator
@@ -27472,8 +27472,8 @@ begin_operator
 sendtofree d2 s3 n9 n8
 0
 3
-0 24 13 12
 0 22 0 2
+0 24 13 12
 0 27 3 0
 1
 end_operator
@@ -27481,515 +27481,515 @@ begin_operator
 sendtofree da c2 n1 n0
 0
 4
-0 15 3 2
-0 24 1 0
-0 16 -1 0
 0 14 0 1
+0 15 3 2
+0 16 -1 0
+0 24 1 0
 1
 end_operator
 begin_operator
 sendtofree da c2 n10 n9
 0
 4
-0 15 3 2
-0 24 2 13
-0 16 -1 0
 0 14 0 1
+0 15 3 2
+0 16 -1 0
+0 24 2 13
 1
 end_operator
 begin_operator
 sendtofree da c2 n11 n10
 0
 4
-0 15 3 2
-0 24 3 2
-0 16 -1 0
 0 14 0 1
+0 15 3 2
+0 16 -1 0
+0 24 3 2
 1
 end_operator
 begin_operator
 sendtofree da c2 n12 n11
 0
 4
-0 15 3 2
-0 24 4 3
-0 16 -1 0
 0 14 0 1
+0 15 3 2
+0 16 -1 0
+0 24 4 3
 1
 end_operator
 begin_operator
 sendtofree da c2 n13 n12
 0
 4
-0 15 3 2
-0 24 5 4
-0 16 -1 0
 0 14 0 1
+0 15 3 2
+0 16 -1 0
+0 24 5 4
 1
 end_operator
 begin_operator
 sendtofree da c2 n2 n1
 0
 4
-0 15 3 2
-0 24 6 1
-0 16 -1 0
 0 14 0 1
+0 15 3 2
+0 16 -1 0
+0 24 6 1
 1
 end_operator
 begin_operator
 sendtofree da c2 n3 n2
 0
 4
-0 15 3 2
-0 24 7 6
-0 16 -1 0
 0 14 0 1
+0 15 3 2
+0 16 -1 0
+0 24 7 6
 1
 end_operator
 begin_operator
 sendtofree da c2 n4 n3
 0
 4
-0 15 3 2
-0 24 8 7
-0 16 -1 0
 0 14 0 1
+0 15 3 2
+0 16 -1 0
+0 24 8 7
 1
 end_operator
 begin_operator
 sendtofree da c2 n5 n4
 0
 4
-0 15 3 2
-0 24 9 8
-0 16 -1 0
 0 14 0 1
+0 15 3 2
+0 16 -1 0
+0 24 9 8
 1
 end_operator
 begin_operator
 sendtofree da c2 n6 n5
 0
 4
-0 15 3 2
-0 24 10 9
-0 16 -1 0
 0 14 0 1
+0 15 3 2
+0 16 -1 0
+0 24 10 9
 1
 end_operator
 begin_operator
 sendtofree da c2 n7 n6
 0
 4
-0 15 3 2
-0 24 11 10
-0 16 -1 0
 0 14 0 1
+0 15 3 2
+0 16 -1 0
+0 24 11 10
 1
 end_operator
 begin_operator
 sendtofree da c2 n8 n7
 0
 4
-0 15 3 2
-0 24 12 11
-0 16 -1 0
 0 14 0 1
+0 15 3 2
+0 16 -1 0
+0 24 12 11
 1
 end_operator
 begin_operator
 sendtofree da c2 n9 n8
 0
 4
-0 15 3 2
-0 24 13 12
-0 16 -1 0
 0 14 0 1
+0 15 3 2
+0 16 -1 0
+0 24 13 12
 1
 end_operator
 begin_operator
 sendtofree da s2 n1 n0
 0
 4
+0 11 4 0
+0 14 0 1
 0 15 -1 2
 0 24 1 0
-0 14 0 1
-0 11 4 0
 1
 end_operator
 begin_operator
 sendtofree da s2 n10 n9
 0
 4
+0 11 4 0
+0 14 0 1
 0 15 -1 2
 0 24 2 13
-0 14 0 1
-0 11 4 0
 1
 end_operator
 begin_operator
 sendtofree da s2 n11 n10
 0
 4
+0 11 4 0
+0 14 0 1
 0 15 -1 2
 0 24 3 2
-0 14 0 1
-0 11 4 0
 1
 end_operator
 begin_operator
 sendtofree da s2 n12 n11
 0
 4
+0 11 4 0
+0 14 0 1
 0 15 -1 2
 0 24 4 3
-0 14 0 1
-0 11 4 0
 1
 end_operator
 begin_operator
 sendtofree da s2 n13 n12
 0
 4
+0 11 4 0
+0 14 0 1
 0 15 -1 2
 0 24 5 4
-0 14 0 1
-0 11 4 0
 1
 end_operator
 begin_operator
 sendtofree da s2 n2 n1
 0
 4
+0 11 4 0
+0 14 0 1
 0 15 -1 2
 0 24 6 1
-0 14 0 1
-0 11 4 0
 1
 end_operator
 begin_operator
 sendtofree da s2 n3 n2
 0
 4
+0 11 4 0
+0 14 0 1
 0 15 -1 2
 0 24 7 6
-0 14 0 1
-0 11 4 0
 1
 end_operator
 begin_operator
 sendtofree da s2 n4 n3
 0
 4
+0 11 4 0
+0 14 0 1
 0 15 -1 2
 0 24 8 7
-0 14 0 1
-0 11 4 0
 1
 end_operator
 begin_operator
 sendtofree da s2 n5 n4
 0
 4
+0 11 4 0
+0 14 0 1
 0 15 -1 2
 0 24 9 8
-0 14 0 1
-0 11 4 0
 1
 end_operator
 begin_operator
 sendtofree da s2 n6 n5
 0
 4
+0 11 4 0
+0 14 0 1
 0 15 -1 2
 0 24 10 9
-0 14 0 1
-0 11 4 0
 1
 end_operator
 begin_operator
 sendtofree da s2 n7 n6
 0
 4
+0 11 4 0
+0 14 0 1
 0 15 -1 2
 0 24 11 10
-0 14 0 1
-0 11 4 0
 1
 end_operator
 begin_operator
 sendtofree da s2 n8 n7
 0
 4
+0 11 4 0
+0 14 0 1
 0 15 -1 2
 0 24 12 11
-0 14 0 1
-0 11 4 0
 1
 end_operator
 begin_operator
 sendtofree da s2 n9 n8
 0
 4
+0 11 4 0
+0 14 0 1
 0 15 -1 2
 0 24 13 12
-0 14 0 1
-0 11 4 0
 1
 end_operator
 begin_operator
 sendtofree da sa n1 n0
 0
 4
+0 9 -1 0
+0 14 0 1
 0 15 4 2
 0 24 1 0
-0 14 0 1
-0 9 -1 0
 1
 end_operator
 begin_operator
 sendtofree da sa n10 n9
 0
 4
+0 9 -1 0
+0 14 0 1
 0 15 4 2
 0 24 2 13
-0 14 0 1
-0 9 -1 0
 1
 end_operator
 begin_operator
 sendtofree da sa n11 n10
 0
 4
+0 9 -1 0
+0 14 0 1
 0 15 4 2
 0 24 3 2
-0 14 0 1
-0 9 -1 0
 1
 end_operator
 begin_operator
 sendtofree da sa n12 n11
 0
 4
+0 9 -1 0
+0 14 0 1
 0 15 4 2
 0 24 4 3
-0 14 0 1
-0 9 -1 0
 1
 end_operator
 begin_operator
 sendtofree da sa n13 n12
 0
 4
+0 9 -1 0
+0 14 0 1
 0 15 4 2
 0 24 5 4
-0 14 0 1
-0 9 -1 0
 1
 end_operator
 begin_operator
 sendtofree da sa n2 n1
 0
 4
+0 9 -1 0
+0 14 0 1
 0 15 4 2
 0 24 6 1
-0 14 0 1
-0 9 -1 0
 1
 end_operator
 begin_operator
 sendtofree da sa n3 n2
 0
 4
+0 9 -1 0
+0 14 0 1
 0 15 4 2
 0 24 7 6
-0 14 0 1
-0 9 -1 0
 1
 end_operator
 begin_operator
 sendtofree da sa n4 n3
 0
 4
+0 9 -1 0
+0 14 0 1
 0 15 4 2
 0 24 8 7
-0 14 0 1
-0 9 -1 0
 1
 end_operator
 begin_operator
 sendtofree da sa n5 n4
 0
 4
+0 9 -1 0
+0 14 0 1
 0 15 4 2
 0 24 9 8
-0 14 0 1
-0 9 -1 0
 1
 end_operator
 begin_operator
 sendtofree da sa n6 n5
 0
 4
+0 9 -1 0
+0 14 0 1
 0 15 4 2
 0 24 10 9
-0 14 0 1
-0 9 -1 0
 1
 end_operator
 begin_operator
 sendtofree da sa n7 n6
 0
 4
+0 9 -1 0
+0 14 0 1
 0 15 4 2
 0 24 11 10
-0 14 0 1
-0 9 -1 0
 1
 end_operator
 begin_operator
 sendtofree da sa n8 n7
 0
 4
+0 9 -1 0
+0 14 0 1
 0 15 4 2
 0 24 12 11
-0 14 0 1
-0 9 -1 0
 1
 end_operator
 begin_operator
 sendtofree da sa n9 n8
 0
 4
+0 9 -1 0
+0 14 0 1
 0 15 4 2
 0 24 13 12
-0 14 0 1
-0 9 -1 0
 1
 end_operator
 begin_operator
 sendtofree h2 c3 n1 n0
 0
 3
+0 19 0 2
 0 24 1 0
 0 28 4 0
-0 19 0 2
 1
 end_operator
 begin_operator
 sendtofree h2 c3 n10 n9
 0
 3
+0 19 0 2
 0 24 2 13
 0 28 4 0
-0 19 0 2
 1
 end_operator
 begin_operator
 sendtofree h2 c3 n11 n10
 0
 3
+0 19 0 2
 0 24 3 2
 0 28 4 0
-0 19 0 2
 1
 end_operator
 begin_operator
 sendtofree h2 c3 n12 n11
 0
 3
+0 19 0 2
 0 24 4 3
 0 28 4 0
-0 19 0 2
 1
 end_operator
 begin_operator
 sendtofree h2 c3 n13 n12
 0
 3
+0 19 0 2
 0 24 5 4
 0 28 4 0
-0 19 0 2
 1
 end_operator
 begin_operator
 sendtofree h2 c3 n2 n1
 0
 3
+0 19 0 2
 0 24 6 1
 0 28 4 0
-0 19 0 2
 1
 end_operator
 begin_operator
 sendtofree h2 c3 n3 n2
 0
 3
+0 19 0 2
 0 24 7 6
 0 28 4 0
-0 19 0 2
 1
 end_operator
 begin_operator
 sendtofree h2 c3 n4 n3
 0
 3
+0 19 0 2
 0 24 8 7
 0 28 4 0
-0 19 0 2
 1
 end_operator
 begin_operator
 sendtofree h2 c3 n5 n4
 0
 3
+0 19 0 2
 0 24 9 8
 0 28 4 0
-0 19 0 2
 1
 end_operator
 begin_operator
 sendtofree h2 c3 n6 n5
 0
 3
+0 19 0 2
 0 24 10 9
 0 28 4 0
-0 19 0 2
 1
 end_operator
 begin_operator
 sendtofree h2 c3 n7 n6
 0
 3
+0 19 0 2
 0 24 11 10
 0 28 4 0
-0 19 0 2
 1
 end_operator
 begin_operator
 sendtofree h2 c3 n8 n7
 0
 3
+0 19 0 2
 0 24 12 11
 0 28 4 0
-0 19 0 2
 1
 end_operator
 begin_operator
 sendtofree h2 c3 n9 n8
 0
 3
+0 19 0 2
 0 24 13 12
 0 28 4 0
-0 19 0 2
 1
 end_operator
 begin_operator
 sendtofree h2 s3 n1 n0
 0
 3
-0 24 1 0
 0 19 0 2
+0 24 1 0
 0 27 4 0
 1
 end_operator
@@ -27997,8 +27997,8 @@ begin_operator
 sendtofree h2 s3 n10 n9
 0
 3
-0 24 2 13
 0 19 0 2
+0 24 2 13
 0 27 4 0
 1
 end_operator
@@ -28006,8 +28006,8 @@ begin_operator
 sendtofree h2 s3 n11 n10
 0
 3
-0 24 3 2
 0 19 0 2
+0 24 3 2
 0 27 4 0
 1
 end_operator
@@ -28015,8 +28015,8 @@ begin_operator
 sendtofree h2 s3 n12 n11
 0
 3
-0 24 4 3
 0 19 0 2
+0 24 4 3
 0 27 4 0
 1
 end_operator
@@ -28024,8 +28024,8 @@ begin_operator
 sendtofree h2 s3 n13 n12
 0
 3
-0 24 5 4
 0 19 0 2
+0 24 5 4
 0 27 4 0
 1
 end_operator
@@ -28033,8 +28033,8 @@ begin_operator
 sendtofree h2 s3 n2 n1
 0
 3
-0 24 6 1
 0 19 0 2
+0 24 6 1
 0 27 4 0
 1
 end_operator
@@ -28042,8 +28042,8 @@ begin_operator
 sendtofree h2 s3 n3 n2
 0
 3
-0 24 7 6
 0 19 0 2
+0 24 7 6
 0 27 4 0
 1
 end_operator
@@ -28051,8 +28051,8 @@ begin_operator
 sendtofree h2 s3 n4 n3
 0
 3
-0 24 8 7
 0 19 0 2
+0 24 8 7
 0 27 4 0
 1
 end_operator
@@ -28060,8 +28060,8 @@ begin_operator
 sendtofree h2 s3 n5 n4
 0
 3
-0 24 9 8
 0 19 0 2
+0 24 9 8
 0 27 4 0
 1
 end_operator
@@ -28069,8 +28069,8 @@ begin_operator
 sendtofree h2 s3 n6 n5
 0
 3
-0 24 10 9
 0 19 0 2
+0 24 10 9
 0 27 4 0
 1
 end_operator
@@ -28078,8 +28078,8 @@ begin_operator
 sendtofree h2 s3 n7 n6
 0
 3
-0 24 11 10
 0 19 0 2
+0 24 11 10
 0 27 4 0
 1
 end_operator
@@ -28087,8 +28087,8 @@ begin_operator
 sendtofree h2 s3 n8 n7
 0
 3
-0 24 12 11
 0 19 0 2
+0 24 12 11
 0 27 4 0
 1
 end_operator
@@ -28096,8 +28096,8 @@ begin_operator
 sendtofree h2 s3 n9 n8
 0
 3
-0 24 13 12
 0 19 0 2
+0 24 13 12
 0 27 4 0
 1
 end_operator
@@ -28106,9 +28106,9 @@ sendtofree ha c2 n1 n0
 0
 4
 0 12 3 2
-0 24 1 0
-0 16 -1 0
 0 13 0 1
+0 16 -1 0
+0 24 1 0
 1
 end_operator
 begin_operator
@@ -28116,9 +28116,9 @@ sendtofree ha c2 n10 n9
 0
 4
 0 12 3 2
-0 24 2 13
-0 16 -1 0
 0 13 0 1
+0 16 -1 0
+0 24 2 13
 1
 end_operator
 begin_operator
@@ -28126,9 +28126,9 @@ sendtofree ha c2 n11 n10
 0
 4
 0 12 3 2
-0 24 3 2
-0 16 -1 0
 0 13 0 1
+0 16 -1 0
+0 24 3 2
 1
 end_operator
 begin_operator
@@ -28136,9 +28136,9 @@ sendtofree ha c2 n12 n11
 0
 4
 0 12 3 2
-0 24 4 3
-0 16 -1 0
 0 13 0 1
+0 16 -1 0
+0 24 4 3
 1
 end_operator
 begin_operator
@@ -28146,9 +28146,9 @@ sendtofree ha c2 n13 n12
 0
 4
 0 12 3 2
-0 24 5 4
-0 16 -1 0
 0 13 0 1
+0 16 -1 0
+0 24 5 4
 1
 end_operator
 begin_operator
@@ -28156,9 +28156,9 @@ sendtofree ha c2 n2 n1
 0
 4
 0 12 3 2
-0 24 6 1
-0 16 -1 0
 0 13 0 1
+0 16 -1 0
+0 24 6 1
 1
 end_operator
 begin_operator
@@ -28166,9 +28166,9 @@ sendtofree ha c2 n3 n2
 0
 4
 0 12 3 2
-0 24 7 6
-0 16 -1 0
 0 13 0 1
+0 16 -1 0
+0 24 7 6
 1
 end_operator
 begin_operator
@@ -28176,9 +28176,9 @@ sendtofree ha c2 n4 n3
 0
 4
 0 12 3 2
-0 24 8 7
-0 16 -1 0
 0 13 0 1
+0 16 -1 0
+0 24 8 7
 1
 end_operator
 begin_operator
@@ -28186,9 +28186,9 @@ sendtofree ha c2 n5 n4
 0
 4
 0 12 3 2
-0 24 9 8
-0 16 -1 0
 0 13 0 1
+0 16 -1 0
+0 24 9 8
 1
 end_operator
 begin_operator
@@ -28196,9 +28196,9 @@ sendtofree ha c2 n6 n5
 0
 4
 0 12 3 2
-0 24 10 9
-0 16 -1 0
 0 13 0 1
+0 16 -1 0
+0 24 10 9
 1
 end_operator
 begin_operator
@@ -28206,9 +28206,9 @@ sendtofree ha c2 n7 n6
 0
 4
 0 12 3 2
-0 24 11 10
-0 16 -1 0
 0 13 0 1
+0 16 -1 0
+0 24 11 10
 1
 end_operator
 begin_operator
@@ -28216,9 +28216,9 @@ sendtofree ha c2 n8 n7
 0
 4
 0 12 3 2
-0 24 12 11
-0 16 -1 0
 0 13 0 1
+0 16 -1 0
+0 24 12 11
 1
 end_operator
 begin_operator
@@ -28226,373 +28226,373 @@ sendtofree ha c2 n9 n8
 0
 4
 0 12 3 2
-0 24 13 12
-0 16 -1 0
 0 13 0 1
+0 16 -1 0
+0 24 13 12
 1
 end_operator
 begin_operator
 sendtofree ha s2 n1 n0
 0
 4
-0 12 -1 2
-0 24 1 0
-0 13 0 1
 0 11 5 0
+0 12 -1 2
+0 13 0 1
+0 24 1 0
 1
 end_operator
 begin_operator
 sendtofree ha s2 n10 n9
 0
 4
-0 12 -1 2
-0 24 2 13
-0 13 0 1
 0 11 5 0
+0 12 -1 2
+0 13 0 1
+0 24 2 13
 1
 end_operator
 begin_operator
 sendtofree ha s2 n11 n10
 0
 4
-0 12 -1 2
-0 24 3 2
-0 13 0 1
 0 11 5 0
+0 12 -1 2
+0 13 0 1
+0 24 3 2
 1
 end_operator
 begin_operator
 sendtofree ha s2 n12 n11
 0
 4
-0 12 -1 2
-0 24 4 3
-0 13 0 1
 0 11 5 0
+0 12 -1 2
+0 13 0 1
+0 24 4 3
 1
 end_operator
 begin_operator
 sendtofree ha s2 n13 n12
 0
 4
-0 12 -1 2
-0 24 5 4
-0 13 0 1
 0 11 5 0
+0 12 -1 2
+0 13 0 1
+0 24 5 4
 1
 end_operator
 begin_operator
 sendtofree ha s2 n2 n1
 0
 4
-0 12 -1 2
-0 24 6 1
-0 13 0 1
 0 11 5 0
+0 12 -1 2
+0 13 0 1
+0 24 6 1
 1
 end_operator
 begin_operator
 sendtofree ha s2 n3 n2
 0
 4
-0 12 -1 2
-0 24 7 6
-0 13 0 1
 0 11 5 0
+0 12 -1 2
+0 13 0 1
+0 24 7 6
 1
 end_operator
 begin_operator
 sendtofree ha s2 n4 n3
 0
 4
-0 12 -1 2
-0 24 8 7
-0 13 0 1
 0 11 5 0
+0 12 -1 2
+0 13 0 1
+0 24 8 7
 1
 end_operator
 begin_operator
 sendtofree ha s2 n5 n4
 0
 4
-0 12 -1 2
-0 24 9 8
-0 13 0 1
 0 11 5 0
+0 12 -1 2
+0 13 0 1
+0 24 9 8
 1
 end_operator
 begin_operator
 sendtofree ha s2 n6 n5
 0
 4
-0 12 -1 2
-0 24 10 9
-0 13 0 1
 0 11 5 0
+0 12 -1 2
+0 13 0 1
+0 24 10 9
 1
 end_operator
 begin_operator
 sendtofree ha s2 n7 n6
 0
 4
-0 12 -1 2
-0 24 11 10
-0 13 0 1
 0 11 5 0
+0 12 -1 2
+0 13 0 1
+0 24 11 10
 1
 end_operator
 begin_operator
 sendtofree ha s2 n8 n7
 0
 4
-0 12 -1 2
-0 24 12 11
-0 13 0 1
 0 11 5 0
+0 12 -1 2
+0 13 0 1
+0 24 12 11
 1
 end_operator
 begin_operator
 sendtofree ha s2 n9 n8
 0
 4
-0 12 -1 2
-0 24 13 12
-0 13 0 1
 0 11 5 0
+0 12 -1 2
+0 13 0 1
+0 24 13 12
 1
 end_operator
 begin_operator
 sendtofree s2 d3 n1 n0
 0
 3
+0 11 0 2
 0 24 1 0
 0 29 5 0
-0 11 0 2
 1
 end_operator
 begin_operator
 sendtofree s2 d3 n10 n9
 0
 3
+0 11 0 2
 0 24 2 13
 0 29 5 0
-0 11 0 2
 1
 end_operator
 begin_operator
 sendtofree s2 d3 n11 n10
 0
 3
+0 11 0 2
 0 24 3 2
 0 29 5 0
-0 11 0 2
 1
 end_operator
 begin_operator
 sendtofree s2 d3 n12 n11
 0
 3
+0 11 0 2
 0 24 4 3
 0 29 5 0
-0 11 0 2
 1
 end_operator
 begin_operator
 sendtofree s2 d3 n13 n12
 0
 3
+0 11 0 2
 0 24 5 4
 0 29 5 0
-0 11 0 2
 1
 end_operator
 begin_operator
 sendtofree s2 d3 n2 n1
 0
 3
+0 11 0 2
 0 24 6 1
 0 29 5 0
-0 11 0 2
 1
 end_operator
 begin_operator
 sendtofree s2 d3 n3 n2
 0
 3
+0 11 0 2
 0 24 7 6
 0 29 5 0
-0 11 0 2
 1
 end_operator
 begin_operator
 sendtofree s2 d3 n4 n3
 0
 3
+0 11 0 2
 0 24 8 7
 0 29 5 0
-0 11 0 2
 1
 end_operator
 begin_operator
 sendtofree s2 d3 n5 n4
 0
 3
+0 11 0 2
 0 24 9 8
 0 29 5 0
-0 11 0 2
 1
 end_operator
 begin_operator
 sendtofree s2 d3 n6 n5
 0
 3
+0 11 0 2
 0 24 10 9
 0 29 5 0
-0 11 0 2
 1
 end_operator
 begin_operator
 sendtofree s2 d3 n7 n6
 0
 3
+0 11 0 2
 0 24 11 10
 0 29 5 0
-0 11 0 2
 1
 end_operator
 begin_operator
 sendtofree s2 d3 n8 n7
 0
 3
+0 11 0 2
 0 24 12 11
 0 29 5 0
-0 11 0 2
 1
 end_operator
 begin_operator
 sendtofree s2 d3 n9 n8
 0
 3
+0 11 0 2
 0 24 13 12
 0 29 5 0
-0 11 0 2
 1
 end_operator
 begin_operator
 sendtofree s2 h3 n1 n0
 0
 3
+0 11 0 2
 0 24 1 0
 0 26 4 0
-0 11 0 2
 1
 end_operator
 begin_operator
 sendtofree s2 h3 n10 n9
 0
 3
+0 11 0 2
 0 24 2 13
 0 26 4 0
-0 11 0 2
 1
 end_operator
 begin_operator
 sendtofree s2 h3 n11 n10
 0
 3
+0 11 0 2
 0 24 3 2
 0 26 4 0
-0 11 0 2
 1
 end_operator
 begin_operator
 sendtofree s2 h3 n12 n11
 0
 3
+0 11 0 2
 0 24 4 3
 0 26 4 0
-0 11 0 2
 1
 end_operator
 begin_operator
 sendtofree s2 h3 n13 n12
 0
 3
+0 11 0 2
 0 24 5 4
 0 26 4 0
-0 11 0 2
 1
 end_operator
 begin_operator
 sendtofree s2 h3 n2 n1
 0
 3
+0 11 0 2
 0 24 6 1
 0 26 4 0
-0 11 0 2
 1
 end_operator
 begin_operator
 sendtofree s2 h3 n3 n2
 0
 3
+0 11 0 2
 0 24 7 6
 0 26 4 0
-0 11 0 2
 1
 end_operator
 begin_operator
 sendtofree s2 h3 n4 n3
 0
 3
+0 11 0 2
 0 24 8 7
 0 26 4 0
-0 11 0 2
 1
 end_operator
 begin_operator
 sendtofree s2 h3 n5 n4
 0
 3
+0 11 0 2
 0 24 9 8
 0 26 4 0
-0 11 0 2
 1
 end_operator
 begin_operator
 sendtofree s2 h3 n6 n5
 0
 3
+0 11 0 2
 0 24 10 9
 0 26 4 0
-0 11 0 2
 1
 end_operator
 begin_operator
 sendtofree s2 h3 n7 n6
 0
 3
+0 11 0 2
 0 24 11 10
 0 26 4 0
-0 11 0 2
 1
 end_operator
 begin_operator
 sendtofree s2 h3 n8 n7
 0
 3
+0 11 0 2
 0 24 12 11
 0 26 4 0
-0 11 0 2
 1
 end_operator
 begin_operator
 sendtofree s2 h3 n9 n8
 0
 3
+0 11 0 2
 0 24 13 12
 0 26 4 0
-0 11 0 2
 1
 end_operator
 begin_operator
@@ -28600,8 +28600,8 @@ sendtofree s3 ha n1 n0
 0
 4
 0 7 1 2
-0 24 1 0
 0 13 -1 0
+0 24 1 0
 0 27 0 2
 1
 end_operator
@@ -28610,8 +28610,8 @@ sendtofree s3 ha n10 n9
 0
 4
 0 7 1 2
-0 24 2 13
 0 13 -1 0
+0 24 2 13
 0 27 0 2
 1
 end_operator
@@ -28620,8 +28620,8 @@ sendtofree s3 ha n11 n10
 0
 4
 0 7 1 2
-0 24 3 2
 0 13 -1 0
+0 24 3 2
 0 27 0 2
 1
 end_operator
@@ -28630,8 +28630,8 @@ sendtofree s3 ha n12 n11
 0
 4
 0 7 1 2
-0 24 4 3
 0 13 -1 0
+0 24 4 3
 0 27 0 2
 1
 end_operator
@@ -28640,8 +28640,8 @@ sendtofree s3 ha n13 n12
 0
 4
 0 7 1 2
-0 24 5 4
 0 13 -1 0
+0 24 5 4
 0 27 0 2
 1
 end_operator
@@ -28650,8 +28650,8 @@ sendtofree s3 ha n2 n1
 0
 4
 0 7 1 2
-0 24 6 1
 0 13 -1 0
+0 24 6 1
 0 27 0 2
 1
 end_operator
@@ -28660,8 +28660,8 @@ sendtofree s3 ha n3 n2
 0
 4
 0 7 1 2
-0 24 7 6
 0 13 -1 0
+0 24 7 6
 0 27 0 2
 1
 end_operator
@@ -28670,8 +28670,8 @@ sendtofree s3 ha n4 n3
 0
 4
 0 7 1 2
-0 24 8 7
 0 13 -1 0
+0 24 8 7
 0 27 0 2
 1
 end_operator
@@ -28680,8 +28680,8 @@ sendtofree s3 ha n5 n4
 0
 4
 0 7 1 2
-0 24 9 8
 0 13 -1 0
+0 24 9 8
 0 27 0 2
 1
 end_operator
@@ -28690,8 +28690,8 @@ sendtofree s3 ha n6 n5
 0
 4
 0 7 1 2
-0 24 10 9
 0 13 -1 0
+0 24 10 9
 0 27 0 2
 1
 end_operator
@@ -28700,8 +28700,8 @@ sendtofree s3 ha n7 n6
 0
 4
 0 7 1 2
-0 24 11 10
 0 13 -1 0
+0 24 11 10
 0 27 0 2
 1
 end_operator
@@ -28710,8 +28710,8 @@ sendtofree s3 ha n8 n7
 0
 4
 0 7 1 2
-0 24 12 11
 0 13 -1 0
+0 24 12 11
 0 27 0 2
 1
 end_operator
@@ -28720,8 +28720,8 @@ sendtofree s3 ha n9 n8
 0
 4
 0 7 1 2
-0 24 13 12
 0 13 -1 0
+0 24 13 12
 0 27 0 2
 1
 end_operator
@@ -28730,9 +28730,9 @@ sendtofree sa d2 n1 n0
 0
 4
 0 8 3 2
-0 24 1 0
-0 22 -1 0
 0 9 0 1
+0 22 -1 0
+0 24 1 0
 1
 end_operator
 begin_operator
@@ -28740,9 +28740,9 @@ sendtofree sa d2 n10 n9
 0
 4
 0 8 3 2
-0 24 2 13
-0 22 -1 0
 0 9 0 1
+0 22 -1 0
+0 24 2 13
 1
 end_operator
 begin_operator
@@ -28750,9 +28750,9 @@ sendtofree sa d2 n11 n10
 0
 4
 0 8 3 2
-0 24 3 2
-0 22 -1 0
 0 9 0 1
+0 22 -1 0
+0 24 3 2
 1
 end_operator
 begin_operator
@@ -28760,9 +28760,9 @@ sendtofree sa d2 n12 n11
 0
 4
 0 8 3 2
-0 24 4 3
-0 22 -1 0
 0 9 0 1
+0 22 -1 0
+0 24 4 3
 1
 end_operator
 begin_operator
@@ -28770,9 +28770,9 @@ sendtofree sa d2 n13 n12
 0
 4
 0 8 3 2
-0 24 5 4
-0 22 -1 0
 0 9 0 1
+0 22 -1 0
+0 24 5 4
 1
 end_operator
 begin_operator
@@ -28780,9 +28780,9 @@ sendtofree sa d2 n2 n1
 0
 4
 0 8 3 2
-0 24 6 1
-0 22 -1 0
 0 9 0 1
+0 22 -1 0
+0 24 6 1
 1
 end_operator
 begin_operator
@@ -28790,9 +28790,9 @@ sendtofree sa d2 n3 n2
 0
 4
 0 8 3 2
-0 24 7 6
-0 22 -1 0
 0 9 0 1
+0 22 -1 0
+0 24 7 6
 1
 end_operator
 begin_operator
@@ -28800,9 +28800,9 @@ sendtofree sa d2 n4 n3
 0
 4
 0 8 3 2
-0 24 8 7
-0 22 -1 0
 0 9 0 1
+0 22 -1 0
+0 24 8 7
 1
 end_operator
 begin_operator
@@ -28810,9 +28810,9 @@ sendtofree sa d2 n5 n4
 0
 4
 0 8 3 2
-0 24 9 8
-0 22 -1 0
 0 9 0 1
+0 22 -1 0
+0 24 9 8
 1
 end_operator
 begin_operator
@@ -28820,9 +28820,9 @@ sendtofree sa d2 n6 n5
 0
 4
 0 8 3 2
-0 24 10 9
-0 22 -1 0
 0 9 0 1
+0 22 -1 0
+0 24 10 9
 1
 end_operator
 begin_operator
@@ -28830,9 +28830,9 @@ sendtofree sa d2 n7 n6
 0
 4
 0 8 3 2
-0 24 11 10
-0 22 -1 0
 0 9 0 1
+0 22 -1 0
+0 24 11 10
 1
 end_operator
 begin_operator
@@ -28840,9 +28840,9 @@ sendtofree sa d2 n8 n7
 0
 4
 0 8 3 2
-0 24 12 11
-0 22 -1 0
 0 9 0 1
+0 22 -1 0
+0 24 12 11
 1
 end_operator
 begin_operator
@@ -28850,9 +28850,9 @@ sendtofree sa d2 n9 n8
 0
 4
 0 8 3 2
-0 24 13 12
-0 22 -1 0
 0 9 0 1
+0 22 -1 0
+0 24 13 12
 1
 end_operator
 begin_operator
@@ -28860,9 +28860,9 @@ sendtofree sa h2 n1 n0
 0
 4
 0 8 4 2
-0 24 1 0
-0 19 -1 0
 0 9 0 1
+0 19 -1 0
+0 24 1 0
 1
 end_operator
 begin_operator
@@ -28870,9 +28870,9 @@ sendtofree sa h2 n10 n9
 0
 4
 0 8 4 2
-0 24 2 13
-0 19 -1 0
 0 9 0 1
+0 19 -1 0
+0 24 2 13
 1
 end_operator
 begin_operator
@@ -28880,9 +28880,9 @@ sendtofree sa h2 n11 n10
 0
 4
 0 8 4 2
-0 24 3 2
-0 19 -1 0
 0 9 0 1
+0 19 -1 0
+0 24 3 2
 1
 end_operator
 begin_operator
@@ -28890,9 +28890,9 @@ sendtofree sa h2 n12 n11
 0
 4
 0 8 4 2
-0 24 4 3
-0 19 -1 0
 0 9 0 1
+0 19 -1 0
+0 24 4 3
 1
 end_operator
 begin_operator
@@ -28900,9 +28900,9 @@ sendtofree sa h2 n13 n12
 0
 4
 0 8 4 2
-0 24 5 4
-0 19 -1 0
 0 9 0 1
+0 19 -1 0
+0 24 5 4
 1
 end_operator
 begin_operator
@@ -28910,9 +28910,9 @@ sendtofree sa h2 n2 n1
 0
 4
 0 8 4 2
-0 24 6 1
-0 19 -1 0
 0 9 0 1
+0 19 -1 0
+0 24 6 1
 1
 end_operator
 begin_operator
@@ -28920,9 +28920,9 @@ sendtofree sa h2 n3 n2
 0
 4
 0 8 4 2
-0 24 7 6
-0 19 -1 0
 0 9 0 1
+0 19 -1 0
+0 24 7 6
 1
 end_operator
 begin_operator
@@ -28930,9 +28930,9 @@ sendtofree sa h2 n4 n3
 0
 4
 0 8 4 2
-0 24 8 7
-0 19 -1 0
 0 9 0 1
+0 19 -1 0
+0 24 8 7
 1
 end_operator
 begin_operator
@@ -28940,9 +28940,9 @@ sendtofree sa h2 n5 n4
 0
 4
 0 8 4 2
-0 24 9 8
-0 19 -1 0
 0 9 0 1
+0 19 -1 0
+0 24 9 8
 1
 end_operator
 begin_operator
@@ -28950,9 +28950,9 @@ sendtofree sa h2 n6 n5
 0
 4
 0 8 4 2
-0 24 10 9
-0 19 -1 0
 0 9 0 1
+0 19 -1 0
+0 24 10 9
 1
 end_operator
 begin_operator
@@ -28960,9 +28960,9 @@ sendtofree sa h2 n7 n6
 0
 4
 0 8 4 2
-0 24 11 10
-0 19 -1 0
 0 9 0 1
+0 19 -1 0
+0 24 11 10
 1
 end_operator
 begin_operator
@@ -28970,9 +28970,9 @@ sendtofree sa h2 n8 n7
 0
 4
 0 8 4 2
-0 24 12 11
-0 19 -1 0
 0 9 0 1
+0 19 -1 0
+0 24 12 11
 1
 end_operator
 begin_operator
@@ -28980,18 +28980,18 @@ sendtofree sa h2 n9 n8
 0
 4
 0 8 4 2
-0 24 13 12
-0 19 -1 0
 0 9 0 1
+0 19 -1 0
+0 24 13 12
 1
 end_operator
 begin_operator
 sendtofree-b c2 n1 n0 n0 n1
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 1 0
-0 16 0 2
 0 25 0 1
 1
 end_operator
@@ -28999,9 +28999,9 @@ begin_operator
 sendtofree-b c2 n1 n0 n1 n2
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 1 0
-0 16 0 2
 0 25 1 6
 1
 end_operator
@@ -29009,9 +29009,9 @@ begin_operator
 sendtofree-b c2 n1 n0 n10 n11
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 1 0
-0 16 0 2
 0 25 2 3
 1
 end_operator
@@ -29019,9 +29019,9 @@ begin_operator
 sendtofree-b c2 n1 n0 n11 n12
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 1 0
-0 16 0 2
 0 25 3 4
 1
 end_operator
@@ -29029,9 +29029,9 @@ begin_operator
 sendtofree-b c2 n1 n0 n12 n13
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 1 0
-0 16 0 2
 0 25 4 5
 1
 end_operator
@@ -29039,9 +29039,9 @@ begin_operator
 sendtofree-b c2 n1 n0 n2 n3
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 1 0
-0 16 0 2
 0 25 6 7
 1
 end_operator
@@ -29049,9 +29049,9 @@ begin_operator
 sendtofree-b c2 n1 n0 n3 n4
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 1 0
-0 16 0 2
 0 25 7 8
 1
 end_operator
@@ -29059,9 +29059,9 @@ begin_operator
 sendtofree-b c2 n1 n0 n4 n5
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 1 0
-0 16 0 2
 0 25 8 9
 1
 end_operator
@@ -29069,9 +29069,9 @@ begin_operator
 sendtofree-b c2 n1 n0 n5 n6
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 1 0
-0 16 0 2
 0 25 9 10
 1
 end_operator
@@ -29079,9 +29079,9 @@ begin_operator
 sendtofree-b c2 n1 n0 n6 n7
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 1 0
-0 16 0 2
 0 25 10 11
 1
 end_operator
@@ -29089,9 +29089,9 @@ begin_operator
 sendtofree-b c2 n1 n0 n7 n8
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 1 0
-0 16 0 2
 0 25 11 12
 1
 end_operator
@@ -29099,9 +29099,9 @@ begin_operator
 sendtofree-b c2 n1 n0 n8 n9
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 1 0
-0 16 0 2
 0 25 12 13
 1
 end_operator
@@ -29109,9 +29109,9 @@ begin_operator
 sendtofree-b c2 n1 n0 n9 n10
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 1 0
-0 16 0 2
 0 25 13 2
 1
 end_operator
@@ -29119,9 +29119,9 @@ begin_operator
 sendtofree-b c2 n10 n9 n0 n1
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 2 13
-0 16 0 2
 0 25 0 1
 1
 end_operator
@@ -29129,9 +29129,9 @@ begin_operator
 sendtofree-b c2 n10 n9 n1 n2
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 2 13
-0 16 0 2
 0 25 1 6
 1
 end_operator
@@ -29139,9 +29139,9 @@ begin_operator
 sendtofree-b c2 n10 n9 n10 n11
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 2 13
-0 16 0 2
 0 25 2 3
 1
 end_operator
@@ -29149,9 +29149,9 @@ begin_operator
 sendtofree-b c2 n10 n9 n11 n12
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 2 13
-0 16 0 2
 0 25 3 4
 1
 end_operator
@@ -29159,9 +29159,9 @@ begin_operator
 sendtofree-b c2 n10 n9 n12 n13
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 2 13
-0 16 0 2
 0 25 4 5
 1
 end_operator
@@ -29169,9 +29169,9 @@ begin_operator
 sendtofree-b c2 n10 n9 n2 n3
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 2 13
-0 16 0 2
 0 25 6 7
 1
 end_operator
@@ -29179,9 +29179,9 @@ begin_operator
 sendtofree-b c2 n10 n9 n3 n4
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 2 13
-0 16 0 2
 0 25 7 8
 1
 end_operator
@@ -29189,9 +29189,9 @@ begin_operator
 sendtofree-b c2 n10 n9 n4 n5
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 2 13
-0 16 0 2
 0 25 8 9
 1
 end_operator
@@ -29199,9 +29199,9 @@ begin_operator
 sendtofree-b c2 n10 n9 n5 n6
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 2 13
-0 16 0 2
 0 25 9 10
 1
 end_operator
@@ -29209,9 +29209,9 @@ begin_operator
 sendtofree-b c2 n10 n9 n6 n7
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 2 13
-0 16 0 2
 0 25 10 11
 1
 end_operator
@@ -29219,9 +29219,9 @@ begin_operator
 sendtofree-b c2 n10 n9 n7 n8
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 2 13
-0 16 0 2
 0 25 11 12
 1
 end_operator
@@ -29229,9 +29229,9 @@ begin_operator
 sendtofree-b c2 n10 n9 n8 n9
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 2 13
-0 16 0 2
 0 25 12 13
 1
 end_operator
@@ -29239,9 +29239,9 @@ begin_operator
 sendtofree-b c2 n10 n9 n9 n10
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 2 13
-0 16 0 2
 0 25 13 2
 1
 end_operator
@@ -29249,9 +29249,9 @@ begin_operator
 sendtofree-b c2 n11 n10 n0 n1
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 3 2
-0 16 0 2
 0 25 0 1
 1
 end_operator
@@ -29259,9 +29259,9 @@ begin_operator
 sendtofree-b c2 n11 n10 n1 n2
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 3 2
-0 16 0 2
 0 25 1 6
 1
 end_operator
@@ -29269,9 +29269,9 @@ begin_operator
 sendtofree-b c2 n11 n10 n10 n11
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 3 2
-0 16 0 2
 0 25 2 3
 1
 end_operator
@@ -29279,9 +29279,9 @@ begin_operator
 sendtofree-b c2 n11 n10 n11 n12
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 3 2
-0 16 0 2
 0 25 3 4
 1
 end_operator
@@ -29289,9 +29289,9 @@ begin_operator
 sendtofree-b c2 n11 n10 n12 n13
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 3 2
-0 16 0 2
 0 25 4 5
 1
 end_operator
@@ -29299,9 +29299,9 @@ begin_operator
 sendtofree-b c2 n11 n10 n2 n3
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 3 2
-0 16 0 2
 0 25 6 7
 1
 end_operator
@@ -29309,9 +29309,9 @@ begin_operator
 sendtofree-b c2 n11 n10 n3 n4
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 3 2
-0 16 0 2
 0 25 7 8
 1
 end_operator
@@ -29319,9 +29319,9 @@ begin_operator
 sendtofree-b c2 n11 n10 n4 n5
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 3 2
-0 16 0 2
 0 25 8 9
 1
 end_operator
@@ -29329,9 +29329,9 @@ begin_operator
 sendtofree-b c2 n11 n10 n5 n6
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 3 2
-0 16 0 2
 0 25 9 10
 1
 end_operator
@@ -29339,9 +29339,9 @@ begin_operator
 sendtofree-b c2 n11 n10 n6 n7
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 3 2
-0 16 0 2
 0 25 10 11
 1
 end_operator
@@ -29349,9 +29349,9 @@ begin_operator
 sendtofree-b c2 n11 n10 n7 n8
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 3 2
-0 16 0 2
 0 25 11 12
 1
 end_operator
@@ -29359,9 +29359,9 @@ begin_operator
 sendtofree-b c2 n11 n10 n8 n9
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 3 2
-0 16 0 2
 0 25 12 13
 1
 end_operator
@@ -29369,9 +29369,9 @@ begin_operator
 sendtofree-b c2 n11 n10 n9 n10
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 3 2
-0 16 0 2
 0 25 13 2
 1
 end_operator
@@ -29379,9 +29379,9 @@ begin_operator
 sendtofree-b c2 n12 n11 n0 n1
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 4 3
-0 16 0 2
 0 25 0 1
 1
 end_operator
@@ -29389,9 +29389,9 @@ begin_operator
 sendtofree-b c2 n12 n11 n1 n2
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 4 3
-0 16 0 2
 0 25 1 6
 1
 end_operator
@@ -29399,9 +29399,9 @@ begin_operator
 sendtofree-b c2 n12 n11 n10 n11
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 4 3
-0 16 0 2
 0 25 2 3
 1
 end_operator
@@ -29409,9 +29409,9 @@ begin_operator
 sendtofree-b c2 n12 n11 n11 n12
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 4 3
-0 16 0 2
 0 25 3 4
 1
 end_operator
@@ -29419,9 +29419,9 @@ begin_operator
 sendtofree-b c2 n12 n11 n12 n13
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 4 3
-0 16 0 2
 0 25 4 5
 1
 end_operator
@@ -29429,9 +29429,9 @@ begin_operator
 sendtofree-b c2 n12 n11 n2 n3
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 4 3
-0 16 0 2
 0 25 6 7
 1
 end_operator
@@ -29439,9 +29439,9 @@ begin_operator
 sendtofree-b c2 n12 n11 n3 n4
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 4 3
-0 16 0 2
 0 25 7 8
 1
 end_operator
@@ -29449,9 +29449,9 @@ begin_operator
 sendtofree-b c2 n12 n11 n4 n5
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 4 3
-0 16 0 2
 0 25 8 9
 1
 end_operator
@@ -29459,9 +29459,9 @@ begin_operator
 sendtofree-b c2 n12 n11 n5 n6
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 4 3
-0 16 0 2
 0 25 9 10
 1
 end_operator
@@ -29469,9 +29469,9 @@ begin_operator
 sendtofree-b c2 n12 n11 n6 n7
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 4 3
-0 16 0 2
 0 25 10 11
 1
 end_operator
@@ -29479,9 +29479,9 @@ begin_operator
 sendtofree-b c2 n12 n11 n7 n8
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 4 3
-0 16 0 2
 0 25 11 12
 1
 end_operator
@@ -29489,9 +29489,9 @@ begin_operator
 sendtofree-b c2 n12 n11 n8 n9
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 4 3
-0 16 0 2
 0 25 12 13
 1
 end_operator
@@ -29499,9 +29499,9 @@ begin_operator
 sendtofree-b c2 n12 n11 n9 n10
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 4 3
-0 16 0 2
 0 25 13 2
 1
 end_operator
@@ -29509,9 +29509,9 @@ begin_operator
 sendtofree-b c2 n13 n12 n0 n1
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 5 4
-0 16 0 2
 0 25 0 1
 1
 end_operator
@@ -29519,9 +29519,9 @@ begin_operator
 sendtofree-b c2 n13 n12 n1 n2
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 5 4
-0 16 0 2
 0 25 1 6
 1
 end_operator
@@ -29529,9 +29529,9 @@ begin_operator
 sendtofree-b c2 n13 n12 n10 n11
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 5 4
-0 16 0 2
 0 25 2 3
 1
 end_operator
@@ -29539,9 +29539,9 @@ begin_operator
 sendtofree-b c2 n13 n12 n11 n12
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 5 4
-0 16 0 2
 0 25 3 4
 1
 end_operator
@@ -29549,9 +29549,9 @@ begin_operator
 sendtofree-b c2 n13 n12 n12 n13
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 5 4
-0 16 0 2
 0 25 4 5
 1
 end_operator
@@ -29559,9 +29559,9 @@ begin_operator
 sendtofree-b c2 n13 n12 n2 n3
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 5 4
-0 16 0 2
 0 25 6 7
 1
 end_operator
@@ -29569,9 +29569,9 @@ begin_operator
 sendtofree-b c2 n13 n12 n3 n4
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 5 4
-0 16 0 2
 0 25 7 8
 1
 end_operator
@@ -29579,9 +29579,9 @@ begin_operator
 sendtofree-b c2 n13 n12 n4 n5
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 5 4
-0 16 0 2
 0 25 8 9
 1
 end_operator
@@ -29589,9 +29589,9 @@ begin_operator
 sendtofree-b c2 n13 n12 n5 n6
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 5 4
-0 16 0 2
 0 25 9 10
 1
 end_operator
@@ -29599,9 +29599,9 @@ begin_operator
 sendtofree-b c2 n13 n12 n6 n7
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 5 4
-0 16 0 2
 0 25 10 11
 1
 end_operator
@@ -29609,9 +29609,9 @@ begin_operator
 sendtofree-b c2 n13 n12 n7 n8
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 5 4
-0 16 0 2
 0 25 11 12
 1
 end_operator
@@ -29619,9 +29619,9 @@ begin_operator
 sendtofree-b c2 n13 n12 n8 n9
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 5 4
-0 16 0 2
 0 25 12 13
 1
 end_operator
@@ -29629,9 +29629,9 @@ begin_operator
 sendtofree-b c2 n13 n12 n9 n10
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 5 4
-0 16 0 2
 0 25 13 2
 1
 end_operator
@@ -29639,9 +29639,9 @@ begin_operator
 sendtofree-b c2 n2 n1 n0 n1
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 6 1
-0 16 0 2
 0 25 0 1
 1
 end_operator
@@ -29649,9 +29649,9 @@ begin_operator
 sendtofree-b c2 n2 n1 n1 n2
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 6 1
-0 16 0 2
 0 25 1 6
 1
 end_operator
@@ -29659,9 +29659,9 @@ begin_operator
 sendtofree-b c2 n2 n1 n10 n11
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 6 1
-0 16 0 2
 0 25 2 3
 1
 end_operator
@@ -29669,9 +29669,9 @@ begin_operator
 sendtofree-b c2 n2 n1 n11 n12
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 6 1
-0 16 0 2
 0 25 3 4
 1
 end_operator
@@ -29679,9 +29679,9 @@ begin_operator
 sendtofree-b c2 n2 n1 n12 n13
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 6 1
-0 16 0 2
 0 25 4 5
 1
 end_operator
@@ -29689,9 +29689,9 @@ begin_operator
 sendtofree-b c2 n2 n1 n2 n3
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 6 1
-0 16 0 2
 0 25 6 7
 1
 end_operator
@@ -29699,9 +29699,9 @@ begin_operator
 sendtofree-b c2 n2 n1 n3 n4
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 6 1
-0 16 0 2
 0 25 7 8
 1
 end_operator
@@ -29709,9 +29709,9 @@ begin_operator
 sendtofree-b c2 n2 n1 n4 n5
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 6 1
-0 16 0 2
 0 25 8 9
 1
 end_operator
@@ -29719,9 +29719,9 @@ begin_operator
 sendtofree-b c2 n2 n1 n5 n6
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 6 1
-0 16 0 2
 0 25 9 10
 1
 end_operator
@@ -29729,9 +29729,9 @@ begin_operator
 sendtofree-b c2 n2 n1 n6 n7
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 6 1
-0 16 0 2
 0 25 10 11
 1
 end_operator
@@ -29739,9 +29739,9 @@ begin_operator
 sendtofree-b c2 n2 n1 n7 n8
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 6 1
-0 16 0 2
 0 25 11 12
 1
 end_operator
@@ -29749,9 +29749,9 @@ begin_operator
 sendtofree-b c2 n2 n1 n8 n9
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 6 1
-0 16 0 2
 0 25 12 13
 1
 end_operator
@@ -29759,9 +29759,9 @@ begin_operator
 sendtofree-b c2 n2 n1 n9 n10
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 6 1
-0 16 0 2
 0 25 13 2
 1
 end_operator
@@ -29769,9 +29769,9 @@ begin_operator
 sendtofree-b c2 n3 n2 n0 n1
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 7 6
-0 16 0 2
 0 25 0 1
 1
 end_operator
@@ -29779,9 +29779,9 @@ begin_operator
 sendtofree-b c2 n3 n2 n1 n2
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 7 6
-0 16 0 2
 0 25 1 6
 1
 end_operator
@@ -29789,9 +29789,9 @@ begin_operator
 sendtofree-b c2 n3 n2 n10 n11
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 7 6
-0 16 0 2
 0 25 2 3
 1
 end_operator
@@ -29799,9 +29799,9 @@ begin_operator
 sendtofree-b c2 n3 n2 n11 n12
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 7 6
-0 16 0 2
 0 25 3 4
 1
 end_operator
@@ -29809,9 +29809,9 @@ begin_operator
 sendtofree-b c2 n3 n2 n12 n13
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 7 6
-0 16 0 2
 0 25 4 5
 1
 end_operator
@@ -29819,9 +29819,9 @@ begin_operator
 sendtofree-b c2 n3 n2 n2 n3
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 7 6
-0 16 0 2
 0 25 6 7
 1
 end_operator
@@ -29829,9 +29829,9 @@ begin_operator
 sendtofree-b c2 n3 n2 n3 n4
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 7 6
-0 16 0 2
 0 25 7 8
 1
 end_operator
@@ -29839,9 +29839,9 @@ begin_operator
 sendtofree-b c2 n3 n2 n4 n5
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 7 6
-0 16 0 2
 0 25 8 9
 1
 end_operator
@@ -29849,9 +29849,9 @@ begin_operator
 sendtofree-b c2 n3 n2 n5 n6
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 7 6
-0 16 0 2
 0 25 9 10
 1
 end_operator
@@ -29859,9 +29859,9 @@ begin_operator
 sendtofree-b c2 n3 n2 n6 n7
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 7 6
-0 16 0 2
 0 25 10 11
 1
 end_operator
@@ -29869,9 +29869,9 @@ begin_operator
 sendtofree-b c2 n3 n2 n7 n8
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 7 6
-0 16 0 2
 0 25 11 12
 1
 end_operator
@@ -29879,9 +29879,9 @@ begin_operator
 sendtofree-b c2 n3 n2 n8 n9
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 7 6
-0 16 0 2
 0 25 12 13
 1
 end_operator
@@ -29889,9 +29889,9 @@ begin_operator
 sendtofree-b c2 n3 n2 n9 n10
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 7 6
-0 16 0 2
 0 25 13 2
 1
 end_operator
@@ -29899,9 +29899,9 @@ begin_operator
 sendtofree-b c2 n4 n3 n0 n1
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 8 7
-0 16 0 2
 0 25 0 1
 1
 end_operator
@@ -29909,9 +29909,9 @@ begin_operator
 sendtofree-b c2 n4 n3 n1 n2
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 8 7
-0 16 0 2
 0 25 1 6
 1
 end_operator
@@ -29919,9 +29919,9 @@ begin_operator
 sendtofree-b c2 n4 n3 n10 n11
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 8 7
-0 16 0 2
 0 25 2 3
 1
 end_operator
@@ -29929,9 +29929,9 @@ begin_operator
 sendtofree-b c2 n4 n3 n11 n12
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 8 7
-0 16 0 2
 0 25 3 4
 1
 end_operator
@@ -29939,9 +29939,9 @@ begin_operator
 sendtofree-b c2 n4 n3 n12 n13
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 8 7
-0 16 0 2
 0 25 4 5
 1
 end_operator
@@ -29949,9 +29949,9 @@ begin_operator
 sendtofree-b c2 n4 n3 n2 n3
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 8 7
-0 16 0 2
 0 25 6 7
 1
 end_operator
@@ -29959,9 +29959,9 @@ begin_operator
 sendtofree-b c2 n4 n3 n3 n4
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 8 7
-0 16 0 2
 0 25 7 8
 1
 end_operator
@@ -29969,9 +29969,9 @@ begin_operator
 sendtofree-b c2 n4 n3 n4 n5
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 8 7
-0 16 0 2
 0 25 8 9
 1
 end_operator
@@ -29979,9 +29979,9 @@ begin_operator
 sendtofree-b c2 n4 n3 n5 n6
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 8 7
-0 16 0 2
 0 25 9 10
 1
 end_operator
@@ -29989,9 +29989,9 @@ begin_operator
 sendtofree-b c2 n4 n3 n6 n7
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 8 7
-0 16 0 2
 0 25 10 11
 1
 end_operator
@@ -29999,9 +29999,9 @@ begin_operator
 sendtofree-b c2 n4 n3 n7 n8
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 8 7
-0 16 0 2
 0 25 11 12
 1
 end_operator
@@ -30009,9 +30009,9 @@ begin_operator
 sendtofree-b c2 n4 n3 n8 n9
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 8 7
-0 16 0 2
 0 25 12 13
 1
 end_operator
@@ -30019,9 +30019,9 @@ begin_operator
 sendtofree-b c2 n4 n3 n9 n10
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 8 7
-0 16 0 2
 0 25 13 2
 1
 end_operator
@@ -30029,9 +30029,9 @@ begin_operator
 sendtofree-b c2 n5 n4 n0 n1
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 9 8
-0 16 0 2
 0 25 0 1
 1
 end_operator
@@ -30039,9 +30039,9 @@ begin_operator
 sendtofree-b c2 n5 n4 n1 n2
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 9 8
-0 16 0 2
 0 25 1 6
 1
 end_operator
@@ -30049,9 +30049,9 @@ begin_operator
 sendtofree-b c2 n5 n4 n10 n11
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 9 8
-0 16 0 2
 0 25 2 3
 1
 end_operator
@@ -30059,9 +30059,9 @@ begin_operator
 sendtofree-b c2 n5 n4 n11 n12
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 9 8
-0 16 0 2
 0 25 3 4
 1
 end_operator
@@ -30069,9 +30069,9 @@ begin_operator
 sendtofree-b c2 n5 n4 n12 n13
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 9 8
-0 16 0 2
 0 25 4 5
 1
 end_operator
@@ -30079,9 +30079,9 @@ begin_operator
 sendtofree-b c2 n5 n4 n2 n3
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 9 8
-0 16 0 2
 0 25 6 7
 1
 end_operator
@@ -30089,9 +30089,9 @@ begin_operator
 sendtofree-b c2 n5 n4 n3 n4
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 9 8
-0 16 0 2
 0 25 7 8
 1
 end_operator
@@ -30099,9 +30099,9 @@ begin_operator
 sendtofree-b c2 n5 n4 n4 n5
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 9 8
-0 16 0 2
 0 25 8 9
 1
 end_operator
@@ -30109,9 +30109,9 @@ begin_operator
 sendtofree-b c2 n5 n4 n5 n6
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 9 8
-0 16 0 2
 0 25 9 10
 1
 end_operator
@@ -30119,9 +30119,9 @@ begin_operator
 sendtofree-b c2 n5 n4 n6 n7
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 9 8
-0 16 0 2
 0 25 10 11
 1
 end_operator
@@ -30129,9 +30129,9 @@ begin_operator
 sendtofree-b c2 n5 n4 n7 n8
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 9 8
-0 16 0 2
 0 25 11 12
 1
 end_operator
@@ -30139,9 +30139,9 @@ begin_operator
 sendtofree-b c2 n5 n4 n8 n9
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 9 8
-0 16 0 2
 0 25 12 13
 1
 end_operator
@@ -30149,9 +30149,9 @@ begin_operator
 sendtofree-b c2 n5 n4 n9 n10
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 9 8
-0 16 0 2
 0 25 13 2
 1
 end_operator
@@ -30159,9 +30159,9 @@ begin_operator
 sendtofree-b c2 n6 n5 n0 n1
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 10 9
-0 16 0 2
 0 25 0 1
 1
 end_operator
@@ -30169,9 +30169,9 @@ begin_operator
 sendtofree-b c2 n6 n5 n1 n2
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 10 9
-0 16 0 2
 0 25 1 6
 1
 end_operator
@@ -30179,9 +30179,9 @@ begin_operator
 sendtofree-b c2 n6 n5 n10 n11
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 10 9
-0 16 0 2
 0 25 2 3
 1
 end_operator
@@ -30189,9 +30189,9 @@ begin_operator
 sendtofree-b c2 n6 n5 n11 n12
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 10 9
-0 16 0 2
 0 25 3 4
 1
 end_operator
@@ -30199,9 +30199,9 @@ begin_operator
 sendtofree-b c2 n6 n5 n12 n13
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 10 9
-0 16 0 2
 0 25 4 5
 1
 end_operator
@@ -30209,9 +30209,9 @@ begin_operator
 sendtofree-b c2 n6 n5 n2 n3
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 10 9
-0 16 0 2
 0 25 6 7
 1
 end_operator
@@ -30219,9 +30219,9 @@ begin_operator
 sendtofree-b c2 n6 n5 n3 n4
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 10 9
-0 16 0 2
 0 25 7 8
 1
 end_operator
@@ -30229,9 +30229,9 @@ begin_operator
 sendtofree-b c2 n6 n5 n4 n5
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 10 9
-0 16 0 2
 0 25 8 9
 1
 end_operator
@@ -30239,9 +30239,9 @@ begin_operator
 sendtofree-b c2 n6 n5 n5 n6
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 10 9
-0 16 0 2
 0 25 9 10
 1
 end_operator
@@ -30249,9 +30249,9 @@ begin_operator
 sendtofree-b c2 n6 n5 n6 n7
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 10 9
-0 16 0 2
 0 25 10 11
 1
 end_operator
@@ -30259,9 +30259,9 @@ begin_operator
 sendtofree-b c2 n6 n5 n7 n8
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 10 9
-0 16 0 2
 0 25 11 12
 1
 end_operator
@@ -30269,9 +30269,9 @@ begin_operator
 sendtofree-b c2 n6 n5 n8 n9
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 10 9
-0 16 0 2
 0 25 12 13
 1
 end_operator
@@ -30279,9 +30279,9 @@ begin_operator
 sendtofree-b c2 n6 n5 n9 n10
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 10 9
-0 16 0 2
 0 25 13 2
 1
 end_operator
@@ -30289,9 +30289,9 @@ begin_operator
 sendtofree-b c2 n7 n6 n0 n1
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 11 10
-0 16 0 2
 0 25 0 1
 1
 end_operator
@@ -30299,9 +30299,9 @@ begin_operator
 sendtofree-b c2 n7 n6 n1 n2
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 11 10
-0 16 0 2
 0 25 1 6
 1
 end_operator
@@ -30309,9 +30309,9 @@ begin_operator
 sendtofree-b c2 n7 n6 n10 n11
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 11 10
-0 16 0 2
 0 25 2 3
 1
 end_operator
@@ -30319,9 +30319,9 @@ begin_operator
 sendtofree-b c2 n7 n6 n11 n12
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 11 10
-0 16 0 2
 0 25 3 4
 1
 end_operator
@@ -30329,9 +30329,9 @@ begin_operator
 sendtofree-b c2 n7 n6 n12 n13
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 11 10
-0 16 0 2
 0 25 4 5
 1
 end_operator
@@ -30339,9 +30339,9 @@ begin_operator
 sendtofree-b c2 n7 n6 n2 n3
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 11 10
-0 16 0 2
 0 25 6 7
 1
 end_operator
@@ -30349,9 +30349,9 @@ begin_operator
 sendtofree-b c2 n7 n6 n3 n4
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 11 10
-0 16 0 2
 0 25 7 8
 1
 end_operator
@@ -30359,9 +30359,9 @@ begin_operator
 sendtofree-b c2 n7 n6 n4 n5
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 11 10
-0 16 0 2
 0 25 8 9
 1
 end_operator
@@ -30369,9 +30369,9 @@ begin_operator
 sendtofree-b c2 n7 n6 n5 n6
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 11 10
-0 16 0 2
 0 25 9 10
 1
 end_operator
@@ -30379,9 +30379,9 @@ begin_operator
 sendtofree-b c2 n7 n6 n6 n7
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 11 10
-0 16 0 2
 0 25 10 11
 1
 end_operator
@@ -30389,9 +30389,9 @@ begin_operator
 sendtofree-b c2 n7 n6 n7 n8
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 11 10
-0 16 0 2
 0 25 11 12
 1
 end_operator
@@ -30399,9 +30399,9 @@ begin_operator
 sendtofree-b c2 n7 n6 n8 n9
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 11 10
-0 16 0 2
 0 25 12 13
 1
 end_operator
@@ -30409,9 +30409,9 @@ begin_operator
 sendtofree-b c2 n7 n6 n9 n10
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 11 10
-0 16 0 2
 0 25 13 2
 1
 end_operator
@@ -30419,9 +30419,9 @@ begin_operator
 sendtofree-b c2 n8 n7 n0 n1
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 12 11
-0 16 0 2
 0 25 0 1
 1
 end_operator
@@ -30429,9 +30429,9 @@ begin_operator
 sendtofree-b c2 n8 n7 n1 n2
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 12 11
-0 16 0 2
 0 25 1 6
 1
 end_operator
@@ -30439,9 +30439,9 @@ begin_operator
 sendtofree-b c2 n8 n7 n10 n11
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 12 11
-0 16 0 2
 0 25 2 3
 1
 end_operator
@@ -30449,9 +30449,9 @@ begin_operator
 sendtofree-b c2 n8 n7 n11 n12
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 12 11
-0 16 0 2
 0 25 3 4
 1
 end_operator
@@ -30459,9 +30459,9 @@ begin_operator
 sendtofree-b c2 n8 n7 n12 n13
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 12 11
-0 16 0 2
 0 25 4 5
 1
 end_operator
@@ -30469,9 +30469,9 @@ begin_operator
 sendtofree-b c2 n8 n7 n2 n3
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 12 11
-0 16 0 2
 0 25 6 7
 1
 end_operator
@@ -30479,9 +30479,9 @@ begin_operator
 sendtofree-b c2 n8 n7 n3 n4
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 12 11
-0 16 0 2
 0 25 7 8
 1
 end_operator
@@ -30489,9 +30489,9 @@ begin_operator
 sendtofree-b c2 n8 n7 n4 n5
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 12 11
-0 16 0 2
 0 25 8 9
 1
 end_operator
@@ -30499,9 +30499,9 @@ begin_operator
 sendtofree-b c2 n8 n7 n5 n6
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 12 11
-0 16 0 2
 0 25 9 10
 1
 end_operator
@@ -30509,9 +30509,9 @@ begin_operator
 sendtofree-b c2 n8 n7 n6 n7
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 12 11
-0 16 0 2
 0 25 10 11
 1
 end_operator
@@ -30519,9 +30519,9 @@ begin_operator
 sendtofree-b c2 n8 n7 n7 n8
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 12 11
-0 16 0 2
 0 25 11 12
 1
 end_operator
@@ -30529,9 +30529,9 @@ begin_operator
 sendtofree-b c2 n8 n7 n8 n9
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 12 11
-0 16 0 2
 0 25 12 13
 1
 end_operator
@@ -30539,9 +30539,9 @@ begin_operator
 sendtofree-b c2 n8 n7 n9 n10
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 12 11
-0 16 0 2
 0 25 13 2
 1
 end_operator
@@ -30549,9 +30549,9 @@ begin_operator
 sendtofree-b c2 n9 n8 n0 n1
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 13 12
-0 16 0 2
 0 25 0 1
 1
 end_operator
@@ -30559,9 +30559,9 @@ begin_operator
 sendtofree-b c2 n9 n8 n1 n2
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 13 12
-0 16 0 2
 0 25 1 6
 1
 end_operator
@@ -30569,9 +30569,9 @@ begin_operator
 sendtofree-b c2 n9 n8 n10 n11
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 13 12
-0 16 0 2
 0 25 2 3
 1
 end_operator
@@ -30579,9 +30579,9 @@ begin_operator
 sendtofree-b c2 n9 n8 n11 n12
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 13 12
-0 16 0 2
 0 25 3 4
 1
 end_operator
@@ -30589,9 +30589,9 @@ begin_operator
 sendtofree-b c2 n9 n8 n12 n13
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 13 12
-0 16 0 2
 0 25 4 5
 1
 end_operator
@@ -30599,9 +30599,9 @@ begin_operator
 sendtofree-b c2 n9 n8 n2 n3
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 13 12
-0 16 0 2
 0 25 6 7
 1
 end_operator
@@ -30609,9 +30609,9 @@ begin_operator
 sendtofree-b c2 n9 n8 n3 n4
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 13 12
-0 16 0 2
 0 25 7 8
 1
 end_operator
@@ -30619,9 +30619,9 @@ begin_operator
 sendtofree-b c2 n9 n8 n4 n5
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 13 12
-0 16 0 2
 0 25 8 9
 1
 end_operator
@@ -30629,9 +30629,9 @@ begin_operator
 sendtofree-b c2 n9 n8 n5 n6
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 13 12
-0 16 0 2
 0 25 9 10
 1
 end_operator
@@ -30639,9 +30639,9 @@ begin_operator
 sendtofree-b c2 n9 n8 n6 n7
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 13 12
-0 16 0 2
 0 25 10 11
 1
 end_operator
@@ -30649,9 +30649,9 @@ begin_operator
 sendtofree-b c2 n9 n8 n7 n8
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 13 12
-0 16 0 2
 0 25 11 12
 1
 end_operator
@@ -30659,9 +30659,9 @@ begin_operator
 sendtofree-b c2 n9 n8 n8 n9
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 13 12
-0 16 0 2
 0 25 12 13
 1
 end_operator
@@ -30669,9 +30669,9 @@ begin_operator
 sendtofree-b c2 n9 n8 n9 n10
 0
 4
+0 16 0 2
 0 17 0 1
 0 24 13 12
-0 16 0 2
 0 25 13 2
 1
 end_operator
@@ -30681,8 +30681,8 @@ sendtofree-b c3 n1 n0 n0 n1
 4
 0 6 0 1
 0 24 1 0
-0 28 0 2
 0 25 0 1
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -30691,8 +30691,8 @@ sendtofree-b c3 n1 n0 n1 n2
 4
 0 6 0 1
 0 24 1 0
-0 28 0 2
 0 25 1 6
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -30701,8 +30701,8 @@ sendtofree-b c3 n1 n0 n10 n11
 4
 0 6 0 1
 0 24 1 0
-0 28 0 2
 0 25 2 3
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -30711,8 +30711,8 @@ sendtofree-b c3 n1 n0 n11 n12
 4
 0 6 0 1
 0 24 1 0
-0 28 0 2
 0 25 3 4
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -30721,8 +30721,8 @@ sendtofree-b c3 n1 n0 n12 n13
 4
 0 6 0 1
 0 24 1 0
-0 28 0 2
 0 25 4 5
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -30731,8 +30731,8 @@ sendtofree-b c3 n1 n0 n2 n3
 4
 0 6 0 1
 0 24 1 0
-0 28 0 2
 0 25 6 7
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -30741,8 +30741,8 @@ sendtofree-b c3 n1 n0 n3 n4
 4
 0 6 0 1
 0 24 1 0
-0 28 0 2
 0 25 7 8
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -30751,8 +30751,8 @@ sendtofree-b c3 n1 n0 n4 n5
 4
 0 6 0 1
 0 24 1 0
-0 28 0 2
 0 25 8 9
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -30761,8 +30761,8 @@ sendtofree-b c3 n1 n0 n5 n6
 4
 0 6 0 1
 0 24 1 0
-0 28 0 2
 0 25 9 10
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -30771,8 +30771,8 @@ sendtofree-b c3 n1 n0 n6 n7
 4
 0 6 0 1
 0 24 1 0
-0 28 0 2
 0 25 10 11
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -30781,8 +30781,8 @@ sendtofree-b c3 n1 n0 n7 n8
 4
 0 6 0 1
 0 24 1 0
-0 28 0 2
 0 25 11 12
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -30791,8 +30791,8 @@ sendtofree-b c3 n1 n0 n8 n9
 4
 0 6 0 1
 0 24 1 0
-0 28 0 2
 0 25 12 13
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -30801,8 +30801,8 @@ sendtofree-b c3 n1 n0 n9 n10
 4
 0 6 0 1
 0 24 1 0
-0 28 0 2
 0 25 13 2
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -30811,8 +30811,8 @@ sendtofree-b c3 n10 n9 n0 n1
 4
 0 6 0 1
 0 24 2 13
-0 28 0 2
 0 25 0 1
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -30821,8 +30821,8 @@ sendtofree-b c3 n10 n9 n1 n2
 4
 0 6 0 1
 0 24 2 13
-0 28 0 2
 0 25 1 6
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -30831,8 +30831,8 @@ sendtofree-b c3 n10 n9 n10 n11
 4
 0 6 0 1
 0 24 2 13
-0 28 0 2
 0 25 2 3
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -30841,8 +30841,8 @@ sendtofree-b c3 n10 n9 n11 n12
 4
 0 6 0 1
 0 24 2 13
-0 28 0 2
 0 25 3 4
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -30851,8 +30851,8 @@ sendtofree-b c3 n10 n9 n12 n13
 4
 0 6 0 1
 0 24 2 13
-0 28 0 2
 0 25 4 5
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -30861,8 +30861,8 @@ sendtofree-b c3 n10 n9 n2 n3
 4
 0 6 0 1
 0 24 2 13
-0 28 0 2
 0 25 6 7
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -30871,8 +30871,8 @@ sendtofree-b c3 n10 n9 n3 n4
 4
 0 6 0 1
 0 24 2 13
-0 28 0 2
 0 25 7 8
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -30881,8 +30881,8 @@ sendtofree-b c3 n10 n9 n4 n5
 4
 0 6 0 1
 0 24 2 13
-0 28 0 2
 0 25 8 9
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -30891,8 +30891,8 @@ sendtofree-b c3 n10 n9 n5 n6
 4
 0 6 0 1
 0 24 2 13
-0 28 0 2
 0 25 9 10
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -30901,8 +30901,8 @@ sendtofree-b c3 n10 n9 n6 n7
 4
 0 6 0 1
 0 24 2 13
-0 28 0 2
 0 25 10 11
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -30911,8 +30911,8 @@ sendtofree-b c3 n10 n9 n7 n8
 4
 0 6 0 1
 0 24 2 13
-0 28 0 2
 0 25 11 12
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -30921,8 +30921,8 @@ sendtofree-b c3 n10 n9 n8 n9
 4
 0 6 0 1
 0 24 2 13
-0 28 0 2
 0 25 12 13
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -30931,8 +30931,8 @@ sendtofree-b c3 n10 n9 n9 n10
 4
 0 6 0 1
 0 24 2 13
-0 28 0 2
 0 25 13 2
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -30941,8 +30941,8 @@ sendtofree-b c3 n11 n10 n0 n1
 4
 0 6 0 1
 0 24 3 2
-0 28 0 2
 0 25 0 1
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -30951,8 +30951,8 @@ sendtofree-b c3 n11 n10 n1 n2
 4
 0 6 0 1
 0 24 3 2
-0 28 0 2
 0 25 1 6
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -30961,8 +30961,8 @@ sendtofree-b c3 n11 n10 n10 n11
 4
 0 6 0 1
 0 24 3 2
-0 28 0 2
 0 25 2 3
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -30971,8 +30971,8 @@ sendtofree-b c3 n11 n10 n11 n12
 4
 0 6 0 1
 0 24 3 2
-0 28 0 2
 0 25 3 4
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -30981,8 +30981,8 @@ sendtofree-b c3 n11 n10 n12 n13
 4
 0 6 0 1
 0 24 3 2
-0 28 0 2
 0 25 4 5
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -30991,8 +30991,8 @@ sendtofree-b c3 n11 n10 n2 n3
 4
 0 6 0 1
 0 24 3 2
-0 28 0 2
 0 25 6 7
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31001,8 +31001,8 @@ sendtofree-b c3 n11 n10 n3 n4
 4
 0 6 0 1
 0 24 3 2
-0 28 0 2
 0 25 7 8
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31011,8 +31011,8 @@ sendtofree-b c3 n11 n10 n4 n5
 4
 0 6 0 1
 0 24 3 2
-0 28 0 2
 0 25 8 9
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31021,8 +31021,8 @@ sendtofree-b c3 n11 n10 n5 n6
 4
 0 6 0 1
 0 24 3 2
-0 28 0 2
 0 25 9 10
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31031,8 +31031,8 @@ sendtofree-b c3 n11 n10 n6 n7
 4
 0 6 0 1
 0 24 3 2
-0 28 0 2
 0 25 10 11
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31041,8 +31041,8 @@ sendtofree-b c3 n11 n10 n7 n8
 4
 0 6 0 1
 0 24 3 2
-0 28 0 2
 0 25 11 12
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31051,8 +31051,8 @@ sendtofree-b c3 n11 n10 n8 n9
 4
 0 6 0 1
 0 24 3 2
-0 28 0 2
 0 25 12 13
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31061,8 +31061,8 @@ sendtofree-b c3 n11 n10 n9 n10
 4
 0 6 0 1
 0 24 3 2
-0 28 0 2
 0 25 13 2
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31071,8 +31071,8 @@ sendtofree-b c3 n12 n11 n0 n1
 4
 0 6 0 1
 0 24 4 3
-0 28 0 2
 0 25 0 1
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31081,8 +31081,8 @@ sendtofree-b c3 n12 n11 n1 n2
 4
 0 6 0 1
 0 24 4 3
-0 28 0 2
 0 25 1 6
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31091,8 +31091,8 @@ sendtofree-b c3 n12 n11 n10 n11
 4
 0 6 0 1
 0 24 4 3
-0 28 0 2
 0 25 2 3
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31101,8 +31101,8 @@ sendtofree-b c3 n12 n11 n11 n12
 4
 0 6 0 1
 0 24 4 3
-0 28 0 2
 0 25 3 4
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31111,8 +31111,8 @@ sendtofree-b c3 n12 n11 n12 n13
 4
 0 6 0 1
 0 24 4 3
-0 28 0 2
 0 25 4 5
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31121,8 +31121,8 @@ sendtofree-b c3 n12 n11 n2 n3
 4
 0 6 0 1
 0 24 4 3
-0 28 0 2
 0 25 6 7
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31131,8 +31131,8 @@ sendtofree-b c3 n12 n11 n3 n4
 4
 0 6 0 1
 0 24 4 3
-0 28 0 2
 0 25 7 8
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31141,8 +31141,8 @@ sendtofree-b c3 n12 n11 n4 n5
 4
 0 6 0 1
 0 24 4 3
-0 28 0 2
 0 25 8 9
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31151,8 +31151,8 @@ sendtofree-b c3 n12 n11 n5 n6
 4
 0 6 0 1
 0 24 4 3
-0 28 0 2
 0 25 9 10
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31161,8 +31161,8 @@ sendtofree-b c3 n12 n11 n6 n7
 4
 0 6 0 1
 0 24 4 3
-0 28 0 2
 0 25 10 11
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31171,8 +31171,8 @@ sendtofree-b c3 n12 n11 n7 n8
 4
 0 6 0 1
 0 24 4 3
-0 28 0 2
 0 25 11 12
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31181,8 +31181,8 @@ sendtofree-b c3 n12 n11 n8 n9
 4
 0 6 0 1
 0 24 4 3
-0 28 0 2
 0 25 12 13
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31191,8 +31191,8 @@ sendtofree-b c3 n12 n11 n9 n10
 4
 0 6 0 1
 0 24 4 3
-0 28 0 2
 0 25 13 2
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31201,8 +31201,8 @@ sendtofree-b c3 n13 n12 n0 n1
 4
 0 6 0 1
 0 24 5 4
-0 28 0 2
 0 25 0 1
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31211,8 +31211,8 @@ sendtofree-b c3 n13 n12 n1 n2
 4
 0 6 0 1
 0 24 5 4
-0 28 0 2
 0 25 1 6
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31221,8 +31221,8 @@ sendtofree-b c3 n13 n12 n10 n11
 4
 0 6 0 1
 0 24 5 4
-0 28 0 2
 0 25 2 3
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31231,8 +31231,8 @@ sendtofree-b c3 n13 n12 n11 n12
 4
 0 6 0 1
 0 24 5 4
-0 28 0 2
 0 25 3 4
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31241,8 +31241,8 @@ sendtofree-b c3 n13 n12 n12 n13
 4
 0 6 0 1
 0 24 5 4
-0 28 0 2
 0 25 4 5
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31251,8 +31251,8 @@ sendtofree-b c3 n13 n12 n2 n3
 4
 0 6 0 1
 0 24 5 4
-0 28 0 2
 0 25 6 7
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31261,8 +31261,8 @@ sendtofree-b c3 n13 n12 n3 n4
 4
 0 6 0 1
 0 24 5 4
-0 28 0 2
 0 25 7 8
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31271,8 +31271,8 @@ sendtofree-b c3 n13 n12 n4 n5
 4
 0 6 0 1
 0 24 5 4
-0 28 0 2
 0 25 8 9
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31281,8 +31281,8 @@ sendtofree-b c3 n13 n12 n5 n6
 4
 0 6 0 1
 0 24 5 4
-0 28 0 2
 0 25 9 10
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31291,8 +31291,8 @@ sendtofree-b c3 n13 n12 n6 n7
 4
 0 6 0 1
 0 24 5 4
-0 28 0 2
 0 25 10 11
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31301,8 +31301,8 @@ sendtofree-b c3 n13 n12 n7 n8
 4
 0 6 0 1
 0 24 5 4
-0 28 0 2
 0 25 11 12
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31311,8 +31311,8 @@ sendtofree-b c3 n13 n12 n8 n9
 4
 0 6 0 1
 0 24 5 4
-0 28 0 2
 0 25 12 13
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31321,8 +31321,8 @@ sendtofree-b c3 n13 n12 n9 n10
 4
 0 6 0 1
 0 24 5 4
-0 28 0 2
 0 25 13 2
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31331,8 +31331,8 @@ sendtofree-b c3 n2 n1 n0 n1
 4
 0 6 0 1
 0 24 6 1
-0 28 0 2
 0 25 0 1
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31341,8 +31341,8 @@ sendtofree-b c3 n2 n1 n1 n2
 4
 0 6 0 1
 0 24 6 1
-0 28 0 2
 0 25 1 6
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31351,8 +31351,8 @@ sendtofree-b c3 n2 n1 n10 n11
 4
 0 6 0 1
 0 24 6 1
-0 28 0 2
 0 25 2 3
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31361,8 +31361,8 @@ sendtofree-b c3 n2 n1 n11 n12
 4
 0 6 0 1
 0 24 6 1
-0 28 0 2
 0 25 3 4
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31371,8 +31371,8 @@ sendtofree-b c3 n2 n1 n12 n13
 4
 0 6 0 1
 0 24 6 1
-0 28 0 2
 0 25 4 5
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31381,8 +31381,8 @@ sendtofree-b c3 n2 n1 n2 n3
 4
 0 6 0 1
 0 24 6 1
-0 28 0 2
 0 25 6 7
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31391,8 +31391,8 @@ sendtofree-b c3 n2 n1 n3 n4
 4
 0 6 0 1
 0 24 6 1
-0 28 0 2
 0 25 7 8
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31401,8 +31401,8 @@ sendtofree-b c3 n2 n1 n4 n5
 4
 0 6 0 1
 0 24 6 1
-0 28 0 2
 0 25 8 9
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31411,8 +31411,8 @@ sendtofree-b c3 n2 n1 n5 n6
 4
 0 6 0 1
 0 24 6 1
-0 28 0 2
 0 25 9 10
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31421,8 +31421,8 @@ sendtofree-b c3 n2 n1 n6 n7
 4
 0 6 0 1
 0 24 6 1
-0 28 0 2
 0 25 10 11
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31431,8 +31431,8 @@ sendtofree-b c3 n2 n1 n7 n8
 4
 0 6 0 1
 0 24 6 1
-0 28 0 2
 0 25 11 12
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31441,8 +31441,8 @@ sendtofree-b c3 n2 n1 n8 n9
 4
 0 6 0 1
 0 24 6 1
-0 28 0 2
 0 25 12 13
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31451,8 +31451,8 @@ sendtofree-b c3 n2 n1 n9 n10
 4
 0 6 0 1
 0 24 6 1
-0 28 0 2
 0 25 13 2
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31461,8 +31461,8 @@ sendtofree-b c3 n3 n2 n0 n1
 4
 0 6 0 1
 0 24 7 6
-0 28 0 2
 0 25 0 1
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31471,8 +31471,8 @@ sendtofree-b c3 n3 n2 n1 n2
 4
 0 6 0 1
 0 24 7 6
-0 28 0 2
 0 25 1 6
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31481,8 +31481,8 @@ sendtofree-b c3 n3 n2 n10 n11
 4
 0 6 0 1
 0 24 7 6
-0 28 0 2
 0 25 2 3
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31491,8 +31491,8 @@ sendtofree-b c3 n3 n2 n11 n12
 4
 0 6 0 1
 0 24 7 6
-0 28 0 2
 0 25 3 4
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31501,8 +31501,8 @@ sendtofree-b c3 n3 n2 n12 n13
 4
 0 6 0 1
 0 24 7 6
-0 28 0 2
 0 25 4 5
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31511,8 +31511,8 @@ sendtofree-b c3 n3 n2 n2 n3
 4
 0 6 0 1
 0 24 7 6
-0 28 0 2
 0 25 6 7
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31521,8 +31521,8 @@ sendtofree-b c3 n3 n2 n3 n4
 4
 0 6 0 1
 0 24 7 6
-0 28 0 2
 0 25 7 8
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31531,8 +31531,8 @@ sendtofree-b c3 n3 n2 n4 n5
 4
 0 6 0 1
 0 24 7 6
-0 28 0 2
 0 25 8 9
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31541,8 +31541,8 @@ sendtofree-b c3 n3 n2 n5 n6
 4
 0 6 0 1
 0 24 7 6
-0 28 0 2
 0 25 9 10
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31551,8 +31551,8 @@ sendtofree-b c3 n3 n2 n6 n7
 4
 0 6 0 1
 0 24 7 6
-0 28 0 2
 0 25 10 11
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31561,8 +31561,8 @@ sendtofree-b c3 n3 n2 n7 n8
 4
 0 6 0 1
 0 24 7 6
-0 28 0 2
 0 25 11 12
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31571,8 +31571,8 @@ sendtofree-b c3 n3 n2 n8 n9
 4
 0 6 0 1
 0 24 7 6
-0 28 0 2
 0 25 12 13
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31581,8 +31581,8 @@ sendtofree-b c3 n3 n2 n9 n10
 4
 0 6 0 1
 0 24 7 6
-0 28 0 2
 0 25 13 2
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31591,8 +31591,8 @@ sendtofree-b c3 n4 n3 n0 n1
 4
 0 6 0 1
 0 24 8 7
-0 28 0 2
 0 25 0 1
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31601,8 +31601,8 @@ sendtofree-b c3 n4 n3 n1 n2
 4
 0 6 0 1
 0 24 8 7
-0 28 0 2
 0 25 1 6
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31611,8 +31611,8 @@ sendtofree-b c3 n4 n3 n10 n11
 4
 0 6 0 1
 0 24 8 7
-0 28 0 2
 0 25 2 3
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31621,8 +31621,8 @@ sendtofree-b c3 n4 n3 n11 n12
 4
 0 6 0 1
 0 24 8 7
-0 28 0 2
 0 25 3 4
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31631,8 +31631,8 @@ sendtofree-b c3 n4 n3 n12 n13
 4
 0 6 0 1
 0 24 8 7
-0 28 0 2
 0 25 4 5
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31641,8 +31641,8 @@ sendtofree-b c3 n4 n3 n2 n3
 4
 0 6 0 1
 0 24 8 7
-0 28 0 2
 0 25 6 7
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31651,8 +31651,8 @@ sendtofree-b c3 n4 n3 n3 n4
 4
 0 6 0 1
 0 24 8 7
-0 28 0 2
 0 25 7 8
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31661,8 +31661,8 @@ sendtofree-b c3 n4 n3 n4 n5
 4
 0 6 0 1
 0 24 8 7
-0 28 0 2
 0 25 8 9
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31671,8 +31671,8 @@ sendtofree-b c3 n4 n3 n5 n6
 4
 0 6 0 1
 0 24 8 7
-0 28 0 2
 0 25 9 10
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31681,8 +31681,8 @@ sendtofree-b c3 n4 n3 n6 n7
 4
 0 6 0 1
 0 24 8 7
-0 28 0 2
 0 25 10 11
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31691,8 +31691,8 @@ sendtofree-b c3 n4 n3 n7 n8
 4
 0 6 0 1
 0 24 8 7
-0 28 0 2
 0 25 11 12
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31701,8 +31701,8 @@ sendtofree-b c3 n4 n3 n8 n9
 4
 0 6 0 1
 0 24 8 7
-0 28 0 2
 0 25 12 13
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31711,8 +31711,8 @@ sendtofree-b c3 n4 n3 n9 n10
 4
 0 6 0 1
 0 24 8 7
-0 28 0 2
 0 25 13 2
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31721,8 +31721,8 @@ sendtofree-b c3 n5 n4 n0 n1
 4
 0 6 0 1
 0 24 9 8
-0 28 0 2
 0 25 0 1
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31731,8 +31731,8 @@ sendtofree-b c3 n5 n4 n1 n2
 4
 0 6 0 1
 0 24 9 8
-0 28 0 2
 0 25 1 6
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31741,8 +31741,8 @@ sendtofree-b c3 n5 n4 n10 n11
 4
 0 6 0 1
 0 24 9 8
-0 28 0 2
 0 25 2 3
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31751,8 +31751,8 @@ sendtofree-b c3 n5 n4 n11 n12
 4
 0 6 0 1
 0 24 9 8
-0 28 0 2
 0 25 3 4
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31761,8 +31761,8 @@ sendtofree-b c3 n5 n4 n12 n13
 4
 0 6 0 1
 0 24 9 8
-0 28 0 2
 0 25 4 5
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31771,8 +31771,8 @@ sendtofree-b c3 n5 n4 n2 n3
 4
 0 6 0 1
 0 24 9 8
-0 28 0 2
 0 25 6 7
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31781,8 +31781,8 @@ sendtofree-b c3 n5 n4 n3 n4
 4
 0 6 0 1
 0 24 9 8
-0 28 0 2
 0 25 7 8
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31791,8 +31791,8 @@ sendtofree-b c3 n5 n4 n4 n5
 4
 0 6 0 1
 0 24 9 8
-0 28 0 2
 0 25 8 9
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31801,8 +31801,8 @@ sendtofree-b c3 n5 n4 n5 n6
 4
 0 6 0 1
 0 24 9 8
-0 28 0 2
 0 25 9 10
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31811,8 +31811,8 @@ sendtofree-b c3 n5 n4 n6 n7
 4
 0 6 0 1
 0 24 9 8
-0 28 0 2
 0 25 10 11
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31821,8 +31821,8 @@ sendtofree-b c3 n5 n4 n7 n8
 4
 0 6 0 1
 0 24 9 8
-0 28 0 2
 0 25 11 12
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31831,8 +31831,8 @@ sendtofree-b c3 n5 n4 n8 n9
 4
 0 6 0 1
 0 24 9 8
-0 28 0 2
 0 25 12 13
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31841,8 +31841,8 @@ sendtofree-b c3 n5 n4 n9 n10
 4
 0 6 0 1
 0 24 9 8
-0 28 0 2
 0 25 13 2
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31851,8 +31851,8 @@ sendtofree-b c3 n6 n5 n0 n1
 4
 0 6 0 1
 0 24 10 9
-0 28 0 2
 0 25 0 1
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31861,8 +31861,8 @@ sendtofree-b c3 n6 n5 n1 n2
 4
 0 6 0 1
 0 24 10 9
-0 28 0 2
 0 25 1 6
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31871,8 +31871,8 @@ sendtofree-b c3 n6 n5 n10 n11
 4
 0 6 0 1
 0 24 10 9
-0 28 0 2
 0 25 2 3
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31881,8 +31881,8 @@ sendtofree-b c3 n6 n5 n11 n12
 4
 0 6 0 1
 0 24 10 9
-0 28 0 2
 0 25 3 4
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31891,8 +31891,8 @@ sendtofree-b c3 n6 n5 n12 n13
 4
 0 6 0 1
 0 24 10 9
-0 28 0 2
 0 25 4 5
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31901,8 +31901,8 @@ sendtofree-b c3 n6 n5 n2 n3
 4
 0 6 0 1
 0 24 10 9
-0 28 0 2
 0 25 6 7
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31911,8 +31911,8 @@ sendtofree-b c3 n6 n5 n3 n4
 4
 0 6 0 1
 0 24 10 9
-0 28 0 2
 0 25 7 8
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31921,8 +31921,8 @@ sendtofree-b c3 n6 n5 n4 n5
 4
 0 6 0 1
 0 24 10 9
-0 28 0 2
 0 25 8 9
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31931,8 +31931,8 @@ sendtofree-b c3 n6 n5 n5 n6
 4
 0 6 0 1
 0 24 10 9
-0 28 0 2
 0 25 9 10
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31941,8 +31941,8 @@ sendtofree-b c3 n6 n5 n6 n7
 4
 0 6 0 1
 0 24 10 9
-0 28 0 2
 0 25 10 11
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31951,8 +31951,8 @@ sendtofree-b c3 n6 n5 n7 n8
 4
 0 6 0 1
 0 24 10 9
-0 28 0 2
 0 25 11 12
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31961,8 +31961,8 @@ sendtofree-b c3 n6 n5 n8 n9
 4
 0 6 0 1
 0 24 10 9
-0 28 0 2
 0 25 12 13
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31971,8 +31971,8 @@ sendtofree-b c3 n6 n5 n9 n10
 4
 0 6 0 1
 0 24 10 9
-0 28 0 2
 0 25 13 2
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31981,8 +31981,8 @@ sendtofree-b c3 n7 n6 n0 n1
 4
 0 6 0 1
 0 24 11 10
-0 28 0 2
 0 25 0 1
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -31991,8 +31991,8 @@ sendtofree-b c3 n7 n6 n1 n2
 4
 0 6 0 1
 0 24 11 10
-0 28 0 2
 0 25 1 6
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32001,8 +32001,8 @@ sendtofree-b c3 n7 n6 n10 n11
 4
 0 6 0 1
 0 24 11 10
-0 28 0 2
 0 25 2 3
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32011,8 +32011,8 @@ sendtofree-b c3 n7 n6 n11 n12
 4
 0 6 0 1
 0 24 11 10
-0 28 0 2
 0 25 3 4
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32021,8 +32021,8 @@ sendtofree-b c3 n7 n6 n12 n13
 4
 0 6 0 1
 0 24 11 10
-0 28 0 2
 0 25 4 5
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32031,8 +32031,8 @@ sendtofree-b c3 n7 n6 n2 n3
 4
 0 6 0 1
 0 24 11 10
-0 28 0 2
 0 25 6 7
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32041,8 +32041,8 @@ sendtofree-b c3 n7 n6 n3 n4
 4
 0 6 0 1
 0 24 11 10
-0 28 0 2
 0 25 7 8
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32051,8 +32051,8 @@ sendtofree-b c3 n7 n6 n4 n5
 4
 0 6 0 1
 0 24 11 10
-0 28 0 2
 0 25 8 9
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32061,8 +32061,8 @@ sendtofree-b c3 n7 n6 n5 n6
 4
 0 6 0 1
 0 24 11 10
-0 28 0 2
 0 25 9 10
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32071,8 +32071,8 @@ sendtofree-b c3 n7 n6 n6 n7
 4
 0 6 0 1
 0 24 11 10
-0 28 0 2
 0 25 10 11
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32081,8 +32081,8 @@ sendtofree-b c3 n7 n6 n7 n8
 4
 0 6 0 1
 0 24 11 10
-0 28 0 2
 0 25 11 12
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32091,8 +32091,8 @@ sendtofree-b c3 n7 n6 n8 n9
 4
 0 6 0 1
 0 24 11 10
-0 28 0 2
 0 25 12 13
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32101,8 +32101,8 @@ sendtofree-b c3 n7 n6 n9 n10
 4
 0 6 0 1
 0 24 11 10
-0 28 0 2
 0 25 13 2
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32111,8 +32111,8 @@ sendtofree-b c3 n8 n7 n0 n1
 4
 0 6 0 1
 0 24 12 11
-0 28 0 2
 0 25 0 1
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32121,8 +32121,8 @@ sendtofree-b c3 n8 n7 n1 n2
 4
 0 6 0 1
 0 24 12 11
-0 28 0 2
 0 25 1 6
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32131,8 +32131,8 @@ sendtofree-b c3 n8 n7 n10 n11
 4
 0 6 0 1
 0 24 12 11
-0 28 0 2
 0 25 2 3
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32141,8 +32141,8 @@ sendtofree-b c3 n8 n7 n11 n12
 4
 0 6 0 1
 0 24 12 11
-0 28 0 2
 0 25 3 4
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32151,8 +32151,8 @@ sendtofree-b c3 n8 n7 n12 n13
 4
 0 6 0 1
 0 24 12 11
-0 28 0 2
 0 25 4 5
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32161,8 +32161,8 @@ sendtofree-b c3 n8 n7 n2 n3
 4
 0 6 0 1
 0 24 12 11
-0 28 0 2
 0 25 6 7
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32171,8 +32171,8 @@ sendtofree-b c3 n8 n7 n3 n4
 4
 0 6 0 1
 0 24 12 11
-0 28 0 2
 0 25 7 8
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32181,8 +32181,8 @@ sendtofree-b c3 n8 n7 n4 n5
 4
 0 6 0 1
 0 24 12 11
-0 28 0 2
 0 25 8 9
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32191,8 +32191,8 @@ sendtofree-b c3 n8 n7 n5 n6
 4
 0 6 0 1
 0 24 12 11
-0 28 0 2
 0 25 9 10
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32201,8 +32201,8 @@ sendtofree-b c3 n8 n7 n6 n7
 4
 0 6 0 1
 0 24 12 11
-0 28 0 2
 0 25 10 11
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32211,8 +32211,8 @@ sendtofree-b c3 n8 n7 n7 n8
 4
 0 6 0 1
 0 24 12 11
-0 28 0 2
 0 25 11 12
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32221,8 +32221,8 @@ sendtofree-b c3 n8 n7 n8 n9
 4
 0 6 0 1
 0 24 12 11
-0 28 0 2
 0 25 12 13
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32231,8 +32231,8 @@ sendtofree-b c3 n8 n7 n9 n10
 4
 0 6 0 1
 0 24 12 11
-0 28 0 2
 0 25 13 2
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32241,8 +32241,8 @@ sendtofree-b c3 n9 n8 n0 n1
 4
 0 6 0 1
 0 24 13 12
-0 28 0 2
 0 25 0 1
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32251,8 +32251,8 @@ sendtofree-b c3 n9 n8 n1 n2
 4
 0 6 0 1
 0 24 13 12
-0 28 0 2
 0 25 1 6
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32261,8 +32261,8 @@ sendtofree-b c3 n9 n8 n10 n11
 4
 0 6 0 1
 0 24 13 12
-0 28 0 2
 0 25 2 3
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32271,8 +32271,8 @@ sendtofree-b c3 n9 n8 n11 n12
 4
 0 6 0 1
 0 24 13 12
-0 28 0 2
 0 25 3 4
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32281,8 +32281,8 @@ sendtofree-b c3 n9 n8 n12 n13
 4
 0 6 0 1
 0 24 13 12
-0 28 0 2
 0 25 4 5
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32291,8 +32291,8 @@ sendtofree-b c3 n9 n8 n2 n3
 4
 0 6 0 1
 0 24 13 12
-0 28 0 2
 0 25 6 7
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32301,8 +32301,8 @@ sendtofree-b c3 n9 n8 n3 n4
 4
 0 6 0 1
 0 24 13 12
-0 28 0 2
 0 25 7 8
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32311,8 +32311,8 @@ sendtofree-b c3 n9 n8 n4 n5
 4
 0 6 0 1
 0 24 13 12
-0 28 0 2
 0 25 8 9
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32321,8 +32321,8 @@ sendtofree-b c3 n9 n8 n5 n6
 4
 0 6 0 1
 0 24 13 12
-0 28 0 2
 0 25 9 10
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32331,8 +32331,8 @@ sendtofree-b c3 n9 n8 n6 n7
 4
 0 6 0 1
 0 24 13 12
-0 28 0 2
 0 25 10 11
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32341,8 +32341,8 @@ sendtofree-b c3 n9 n8 n7 n8
 4
 0 6 0 1
 0 24 13 12
-0 28 0 2
 0 25 11 12
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32351,8 +32351,8 @@ sendtofree-b c3 n9 n8 n8 n9
 4
 0 6 0 1
 0 24 13 12
-0 28 0 2
 0 25 12 13
+0 28 0 2
 1
 end_operator
 begin_operator
@@ -32361,17 +32361,17 @@ sendtofree-b c3 n9 n8 n9 n10
 4
 0 6 0 1
 0 24 13 12
-0 28 0 2
 0 25 13 2
+0 28 0 2
 1
 end_operator
 begin_operator
 sendtofree-b ca n1 n0 n0 n1
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 1 0
-0 20 0 1
 0 25 0 1
 1
 end_operator
@@ -32379,9 +32379,9 @@ begin_operator
 sendtofree-b ca n1 n0 n1 n2
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 1 0
-0 20 0 1
 0 25 1 6
 1
 end_operator
@@ -32389,9 +32389,9 @@ begin_operator
 sendtofree-b ca n1 n0 n10 n11
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 1 0
-0 20 0 1
 0 25 2 3
 1
 end_operator
@@ -32399,9 +32399,9 @@ begin_operator
 sendtofree-b ca n1 n0 n11 n12
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 1 0
-0 20 0 1
 0 25 3 4
 1
 end_operator
@@ -32409,9 +32409,9 @@ begin_operator
 sendtofree-b ca n1 n0 n12 n13
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 1 0
-0 20 0 1
 0 25 4 5
 1
 end_operator
@@ -32419,9 +32419,9 @@ begin_operator
 sendtofree-b ca n1 n0 n2 n3
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 1 0
-0 20 0 1
 0 25 6 7
 1
 end_operator
@@ -32429,9 +32429,9 @@ begin_operator
 sendtofree-b ca n1 n0 n3 n4
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 1 0
-0 20 0 1
 0 25 7 8
 1
 end_operator
@@ -32439,9 +32439,9 @@ begin_operator
 sendtofree-b ca n1 n0 n4 n5
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 1 0
-0 20 0 1
 0 25 8 9
 1
 end_operator
@@ -32449,9 +32449,9 @@ begin_operator
 sendtofree-b ca n1 n0 n5 n6
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 1 0
-0 20 0 1
 0 25 9 10
 1
 end_operator
@@ -32459,9 +32459,9 @@ begin_operator
 sendtofree-b ca n1 n0 n6 n7
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 1 0
-0 20 0 1
 0 25 10 11
 1
 end_operator
@@ -32469,9 +32469,9 @@ begin_operator
 sendtofree-b ca n1 n0 n7 n8
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 1 0
-0 20 0 1
 0 25 11 12
 1
 end_operator
@@ -32479,9 +32479,9 @@ begin_operator
 sendtofree-b ca n1 n0 n8 n9
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 1 0
-0 20 0 1
 0 25 12 13
 1
 end_operator
@@ -32489,9 +32489,9 @@ begin_operator
 sendtofree-b ca n1 n0 n9 n10
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 1 0
-0 20 0 1
 0 25 13 2
 1
 end_operator
@@ -32499,9 +32499,9 @@ begin_operator
 sendtofree-b ca n10 n9 n0 n1
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 2 13
-0 20 0 1
 0 25 0 1
 1
 end_operator
@@ -32509,9 +32509,9 @@ begin_operator
 sendtofree-b ca n10 n9 n1 n2
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 2 13
-0 20 0 1
 0 25 1 6
 1
 end_operator
@@ -32519,9 +32519,9 @@ begin_operator
 sendtofree-b ca n10 n9 n10 n11
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 2 13
-0 20 0 1
 0 25 2 3
 1
 end_operator
@@ -32529,9 +32529,9 @@ begin_operator
 sendtofree-b ca n10 n9 n11 n12
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 2 13
-0 20 0 1
 0 25 3 4
 1
 end_operator
@@ -32539,9 +32539,9 @@ begin_operator
 sendtofree-b ca n10 n9 n12 n13
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 2 13
-0 20 0 1
 0 25 4 5
 1
 end_operator
@@ -32549,9 +32549,9 @@ begin_operator
 sendtofree-b ca n10 n9 n2 n3
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 2 13
-0 20 0 1
 0 25 6 7
 1
 end_operator
@@ -32559,9 +32559,9 @@ begin_operator
 sendtofree-b ca n10 n9 n3 n4
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 2 13
-0 20 0 1
 0 25 7 8
 1
 end_operator
@@ -32569,9 +32569,9 @@ begin_operator
 sendtofree-b ca n10 n9 n4 n5
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 2 13
-0 20 0 1
 0 25 8 9
 1
 end_operator
@@ -32579,9 +32579,9 @@ begin_operator
 sendtofree-b ca n10 n9 n5 n6
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 2 13
-0 20 0 1
 0 25 9 10
 1
 end_operator
@@ -32589,9 +32589,9 @@ begin_operator
 sendtofree-b ca n10 n9 n6 n7
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 2 13
-0 20 0 1
 0 25 10 11
 1
 end_operator
@@ -32599,9 +32599,9 @@ begin_operator
 sendtofree-b ca n10 n9 n7 n8
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 2 13
-0 20 0 1
 0 25 11 12
 1
 end_operator
@@ -32609,9 +32609,9 @@ begin_operator
 sendtofree-b ca n10 n9 n8 n9
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 2 13
-0 20 0 1
 0 25 12 13
 1
 end_operator
@@ -32619,9 +32619,9 @@ begin_operator
 sendtofree-b ca n10 n9 n9 n10
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 2 13
-0 20 0 1
 0 25 13 2
 1
 end_operator
@@ -32629,9 +32629,9 @@ begin_operator
 sendtofree-b ca n11 n10 n0 n1
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 3 2
-0 20 0 1
 0 25 0 1
 1
 end_operator
@@ -32639,9 +32639,9 @@ begin_operator
 sendtofree-b ca n11 n10 n1 n2
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 3 2
-0 20 0 1
 0 25 1 6
 1
 end_operator
@@ -32649,9 +32649,9 @@ begin_operator
 sendtofree-b ca n11 n10 n10 n11
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 3 2
-0 20 0 1
 0 25 2 3
 1
 end_operator
@@ -32659,9 +32659,9 @@ begin_operator
 sendtofree-b ca n11 n10 n11 n12
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 3 2
-0 20 0 1
 0 25 3 4
 1
 end_operator
@@ -32669,9 +32669,9 @@ begin_operator
 sendtofree-b ca n11 n10 n12 n13
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 3 2
-0 20 0 1
 0 25 4 5
 1
 end_operator
@@ -32679,9 +32679,9 @@ begin_operator
 sendtofree-b ca n11 n10 n2 n3
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 3 2
-0 20 0 1
 0 25 6 7
 1
 end_operator
@@ -32689,9 +32689,9 @@ begin_operator
 sendtofree-b ca n11 n10 n3 n4
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 3 2
-0 20 0 1
 0 25 7 8
 1
 end_operator
@@ -32699,9 +32699,9 @@ begin_operator
 sendtofree-b ca n11 n10 n4 n5
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 3 2
-0 20 0 1
 0 25 8 9
 1
 end_operator
@@ -32709,9 +32709,9 @@ begin_operator
 sendtofree-b ca n11 n10 n5 n6
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 3 2
-0 20 0 1
 0 25 9 10
 1
 end_operator
@@ -32719,9 +32719,9 @@ begin_operator
 sendtofree-b ca n11 n10 n6 n7
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 3 2
-0 20 0 1
 0 25 10 11
 1
 end_operator
@@ -32729,9 +32729,9 @@ begin_operator
 sendtofree-b ca n11 n10 n7 n8
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 3 2
-0 20 0 1
 0 25 11 12
 1
 end_operator
@@ -32739,9 +32739,9 @@ begin_operator
 sendtofree-b ca n11 n10 n8 n9
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 3 2
-0 20 0 1
 0 25 12 13
 1
 end_operator
@@ -32749,9 +32749,9 @@ begin_operator
 sendtofree-b ca n11 n10 n9 n10
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 3 2
-0 20 0 1
 0 25 13 2
 1
 end_operator
@@ -32759,9 +32759,9 @@ begin_operator
 sendtofree-b ca n12 n11 n0 n1
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 4 3
-0 20 0 1
 0 25 0 1
 1
 end_operator
@@ -32769,9 +32769,9 @@ begin_operator
 sendtofree-b ca n12 n11 n1 n2
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 4 3
-0 20 0 1
 0 25 1 6
 1
 end_operator
@@ -32779,9 +32779,9 @@ begin_operator
 sendtofree-b ca n12 n11 n10 n11
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 4 3
-0 20 0 1
 0 25 2 3
 1
 end_operator
@@ -32789,9 +32789,9 @@ begin_operator
 sendtofree-b ca n12 n11 n11 n12
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 4 3
-0 20 0 1
 0 25 3 4
 1
 end_operator
@@ -32799,9 +32799,9 @@ begin_operator
 sendtofree-b ca n12 n11 n12 n13
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 4 3
-0 20 0 1
 0 25 4 5
 1
 end_operator
@@ -32809,9 +32809,9 @@ begin_operator
 sendtofree-b ca n12 n11 n2 n3
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 4 3
-0 20 0 1
 0 25 6 7
 1
 end_operator
@@ -32819,9 +32819,9 @@ begin_operator
 sendtofree-b ca n12 n11 n3 n4
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 4 3
-0 20 0 1
 0 25 7 8
 1
 end_operator
@@ -32829,9 +32829,9 @@ begin_operator
 sendtofree-b ca n12 n11 n4 n5
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 4 3
-0 20 0 1
 0 25 8 9
 1
 end_operator
@@ -32839,9 +32839,9 @@ begin_operator
 sendtofree-b ca n12 n11 n5 n6
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 4 3
-0 20 0 1
 0 25 9 10
 1
 end_operator
@@ -32849,9 +32849,9 @@ begin_operator
 sendtofree-b ca n12 n11 n6 n7
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 4 3
-0 20 0 1
 0 25 10 11
 1
 end_operator
@@ -32859,9 +32859,9 @@ begin_operator
 sendtofree-b ca n12 n11 n7 n8
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 4 3
-0 20 0 1
 0 25 11 12
 1
 end_operator
@@ -32869,9 +32869,9 @@ begin_operator
 sendtofree-b ca n12 n11 n8 n9
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 4 3
-0 20 0 1
 0 25 12 13
 1
 end_operator
@@ -32879,9 +32879,9 @@ begin_operator
 sendtofree-b ca n12 n11 n9 n10
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 4 3
-0 20 0 1
 0 25 13 2
 1
 end_operator
@@ -32889,9 +32889,9 @@ begin_operator
 sendtofree-b ca n13 n12 n0 n1
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 5 4
-0 20 0 1
 0 25 0 1
 1
 end_operator
@@ -32899,9 +32899,9 @@ begin_operator
 sendtofree-b ca n13 n12 n1 n2
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 5 4
-0 20 0 1
 0 25 1 6
 1
 end_operator
@@ -32909,9 +32909,9 @@ begin_operator
 sendtofree-b ca n13 n12 n10 n11
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 5 4
-0 20 0 1
 0 25 2 3
 1
 end_operator
@@ -32919,9 +32919,9 @@ begin_operator
 sendtofree-b ca n13 n12 n11 n12
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 5 4
-0 20 0 1
 0 25 3 4
 1
 end_operator
@@ -32929,9 +32929,9 @@ begin_operator
 sendtofree-b ca n13 n12 n12 n13
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 5 4
-0 20 0 1
 0 25 4 5
 1
 end_operator
@@ -32939,9 +32939,9 @@ begin_operator
 sendtofree-b ca n13 n12 n2 n3
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 5 4
-0 20 0 1
 0 25 6 7
 1
 end_operator
@@ -32949,9 +32949,9 @@ begin_operator
 sendtofree-b ca n13 n12 n3 n4
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 5 4
-0 20 0 1
 0 25 7 8
 1
 end_operator
@@ -32959,9 +32959,9 @@ begin_operator
 sendtofree-b ca n13 n12 n4 n5
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 5 4
-0 20 0 1
 0 25 8 9
 1
 end_operator
@@ -32969,9 +32969,9 @@ begin_operator
 sendtofree-b ca n13 n12 n5 n6
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 5 4
-0 20 0 1
 0 25 9 10
 1
 end_operator
@@ -32979,9 +32979,9 @@ begin_operator
 sendtofree-b ca n13 n12 n6 n7
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 5 4
-0 20 0 1
 0 25 10 11
 1
 end_operator
@@ -32989,9 +32989,9 @@ begin_operator
 sendtofree-b ca n13 n12 n7 n8
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 5 4
-0 20 0 1
 0 25 11 12
 1
 end_operator
@@ -32999,9 +32999,9 @@ begin_operator
 sendtofree-b ca n13 n12 n8 n9
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 5 4
-0 20 0 1
 0 25 12 13
 1
 end_operator
@@ -33009,9 +33009,9 @@ begin_operator
 sendtofree-b ca n13 n12 n9 n10
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 5 4
-0 20 0 1
 0 25 13 2
 1
 end_operator
@@ -33019,9 +33019,9 @@ begin_operator
 sendtofree-b ca n2 n1 n0 n1
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 6 1
-0 20 0 1
 0 25 0 1
 1
 end_operator
@@ -33029,9 +33029,9 @@ begin_operator
 sendtofree-b ca n2 n1 n1 n2
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 6 1
-0 20 0 1
 0 25 1 6
 1
 end_operator
@@ -33039,9 +33039,9 @@ begin_operator
 sendtofree-b ca n2 n1 n10 n11
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 6 1
-0 20 0 1
 0 25 2 3
 1
 end_operator
@@ -33049,9 +33049,9 @@ begin_operator
 sendtofree-b ca n2 n1 n11 n12
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 6 1
-0 20 0 1
 0 25 3 4
 1
 end_operator
@@ -33059,9 +33059,9 @@ begin_operator
 sendtofree-b ca n2 n1 n12 n13
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 6 1
-0 20 0 1
 0 25 4 5
 1
 end_operator
@@ -33069,9 +33069,9 @@ begin_operator
 sendtofree-b ca n2 n1 n2 n3
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 6 1
-0 20 0 1
 0 25 6 7
 1
 end_operator
@@ -33079,9 +33079,9 @@ begin_operator
 sendtofree-b ca n2 n1 n3 n4
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 6 1
-0 20 0 1
 0 25 7 8
 1
 end_operator
@@ -33089,9 +33089,9 @@ begin_operator
 sendtofree-b ca n2 n1 n4 n5
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 6 1
-0 20 0 1
 0 25 8 9
 1
 end_operator
@@ -33099,9 +33099,9 @@ begin_operator
 sendtofree-b ca n2 n1 n5 n6
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 6 1
-0 20 0 1
 0 25 9 10
 1
 end_operator
@@ -33109,9 +33109,9 @@ begin_operator
 sendtofree-b ca n2 n1 n6 n7
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 6 1
-0 20 0 1
 0 25 10 11
 1
 end_operator
@@ -33119,9 +33119,9 @@ begin_operator
 sendtofree-b ca n2 n1 n7 n8
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 6 1
-0 20 0 1
 0 25 11 12
 1
 end_operator
@@ -33129,9 +33129,9 @@ begin_operator
 sendtofree-b ca n2 n1 n8 n9
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 6 1
-0 20 0 1
 0 25 12 13
 1
 end_operator
@@ -33139,9 +33139,9 @@ begin_operator
 sendtofree-b ca n2 n1 n9 n10
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 6 1
-0 20 0 1
 0 25 13 2
 1
 end_operator
@@ -33149,9 +33149,9 @@ begin_operator
 sendtofree-b ca n3 n2 n0 n1
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 7 6
-0 20 0 1
 0 25 0 1
 1
 end_operator
@@ -33159,9 +33159,9 @@ begin_operator
 sendtofree-b ca n3 n2 n1 n2
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 7 6
-0 20 0 1
 0 25 1 6
 1
 end_operator
@@ -33169,9 +33169,9 @@ begin_operator
 sendtofree-b ca n3 n2 n10 n11
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 7 6
-0 20 0 1
 0 25 2 3
 1
 end_operator
@@ -33179,9 +33179,9 @@ begin_operator
 sendtofree-b ca n3 n2 n11 n12
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 7 6
-0 20 0 1
 0 25 3 4
 1
 end_operator
@@ -33189,9 +33189,9 @@ begin_operator
 sendtofree-b ca n3 n2 n12 n13
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 7 6
-0 20 0 1
 0 25 4 5
 1
 end_operator
@@ -33199,9 +33199,9 @@ begin_operator
 sendtofree-b ca n3 n2 n2 n3
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 7 6
-0 20 0 1
 0 25 6 7
 1
 end_operator
@@ -33209,9 +33209,9 @@ begin_operator
 sendtofree-b ca n3 n2 n3 n4
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 7 6
-0 20 0 1
 0 25 7 8
 1
 end_operator
@@ -33219,9 +33219,9 @@ begin_operator
 sendtofree-b ca n3 n2 n4 n5
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 7 6
-0 20 0 1
 0 25 8 9
 1
 end_operator
@@ -33229,9 +33229,9 @@ begin_operator
 sendtofree-b ca n3 n2 n5 n6
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 7 6
-0 20 0 1
 0 25 9 10
 1
 end_operator
@@ -33239,9 +33239,9 @@ begin_operator
 sendtofree-b ca n3 n2 n6 n7
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 7 6
-0 20 0 1
 0 25 10 11
 1
 end_operator
@@ -33249,9 +33249,9 @@ begin_operator
 sendtofree-b ca n3 n2 n7 n8
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 7 6
-0 20 0 1
 0 25 11 12
 1
 end_operator
@@ -33259,9 +33259,9 @@ begin_operator
 sendtofree-b ca n3 n2 n8 n9
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 7 6
-0 20 0 1
 0 25 12 13
 1
 end_operator
@@ -33269,9 +33269,9 @@ begin_operator
 sendtofree-b ca n3 n2 n9 n10
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 7 6
-0 20 0 1
 0 25 13 2
 1
 end_operator
@@ -33279,9 +33279,9 @@ begin_operator
 sendtofree-b ca n4 n3 n0 n1
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 8 7
-0 20 0 1
 0 25 0 1
 1
 end_operator
@@ -33289,9 +33289,9 @@ begin_operator
 sendtofree-b ca n4 n3 n1 n2
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 8 7
-0 20 0 1
 0 25 1 6
 1
 end_operator
@@ -33299,9 +33299,9 @@ begin_operator
 sendtofree-b ca n4 n3 n10 n11
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 8 7
-0 20 0 1
 0 25 2 3
 1
 end_operator
@@ -33309,9 +33309,9 @@ begin_operator
 sendtofree-b ca n4 n3 n11 n12
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 8 7
-0 20 0 1
 0 25 3 4
 1
 end_operator
@@ -33319,9 +33319,9 @@ begin_operator
 sendtofree-b ca n4 n3 n12 n13
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 8 7
-0 20 0 1
 0 25 4 5
 1
 end_operator
@@ -33329,9 +33329,9 @@ begin_operator
 sendtofree-b ca n4 n3 n2 n3
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 8 7
-0 20 0 1
 0 25 6 7
 1
 end_operator
@@ -33339,9 +33339,9 @@ begin_operator
 sendtofree-b ca n4 n3 n3 n4
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 8 7
-0 20 0 1
 0 25 7 8
 1
 end_operator
@@ -33349,9 +33349,9 @@ begin_operator
 sendtofree-b ca n4 n3 n4 n5
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 8 7
-0 20 0 1
 0 25 8 9
 1
 end_operator
@@ -33359,9 +33359,9 @@ begin_operator
 sendtofree-b ca n4 n3 n5 n6
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 8 7
-0 20 0 1
 0 25 9 10
 1
 end_operator
@@ -33369,9 +33369,9 @@ begin_operator
 sendtofree-b ca n4 n3 n6 n7
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 8 7
-0 20 0 1
 0 25 10 11
 1
 end_operator
@@ -33379,9 +33379,9 @@ begin_operator
 sendtofree-b ca n4 n3 n7 n8
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 8 7
-0 20 0 1
 0 25 11 12
 1
 end_operator
@@ -33389,9 +33389,9 @@ begin_operator
 sendtofree-b ca n4 n3 n8 n9
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 8 7
-0 20 0 1
 0 25 12 13
 1
 end_operator
@@ -33399,9 +33399,9 @@ begin_operator
 sendtofree-b ca n4 n3 n9 n10
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 8 7
-0 20 0 1
 0 25 13 2
 1
 end_operator
@@ -33409,9 +33409,9 @@ begin_operator
 sendtofree-b ca n5 n4 n0 n1
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 9 8
-0 20 0 1
 0 25 0 1
 1
 end_operator
@@ -33419,9 +33419,9 @@ begin_operator
 sendtofree-b ca n5 n4 n1 n2
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 9 8
-0 20 0 1
 0 25 1 6
 1
 end_operator
@@ -33429,9 +33429,9 @@ begin_operator
 sendtofree-b ca n5 n4 n10 n11
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 9 8
-0 20 0 1
 0 25 2 3
 1
 end_operator
@@ -33439,9 +33439,9 @@ begin_operator
 sendtofree-b ca n5 n4 n11 n12
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 9 8
-0 20 0 1
 0 25 3 4
 1
 end_operator
@@ -33449,9 +33449,9 @@ begin_operator
 sendtofree-b ca n5 n4 n12 n13
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 9 8
-0 20 0 1
 0 25 4 5
 1
 end_operator
@@ -33459,9 +33459,9 @@ begin_operator
 sendtofree-b ca n5 n4 n2 n3
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 9 8
-0 20 0 1
 0 25 6 7
 1
 end_operator
@@ -33469,9 +33469,9 @@ begin_operator
 sendtofree-b ca n5 n4 n3 n4
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 9 8
-0 20 0 1
 0 25 7 8
 1
 end_operator
@@ -33479,9 +33479,9 @@ begin_operator
 sendtofree-b ca n5 n4 n4 n5
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 9 8
-0 20 0 1
 0 25 8 9
 1
 end_operator
@@ -33489,9 +33489,9 @@ begin_operator
 sendtofree-b ca n5 n4 n5 n6
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 9 8
-0 20 0 1
 0 25 9 10
 1
 end_operator
@@ -33499,9 +33499,9 @@ begin_operator
 sendtofree-b ca n5 n4 n6 n7
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 9 8
-0 20 0 1
 0 25 10 11
 1
 end_operator
@@ -33509,9 +33509,9 @@ begin_operator
 sendtofree-b ca n5 n4 n7 n8
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 9 8
-0 20 0 1
 0 25 11 12
 1
 end_operator
@@ -33519,9 +33519,9 @@ begin_operator
 sendtofree-b ca n5 n4 n8 n9
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 9 8
-0 20 0 1
 0 25 12 13
 1
 end_operator
@@ -33529,9 +33529,9 @@ begin_operator
 sendtofree-b ca n5 n4 n9 n10
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 9 8
-0 20 0 1
 0 25 13 2
 1
 end_operator
@@ -33539,9 +33539,9 @@ begin_operator
 sendtofree-b ca n6 n5 n0 n1
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 10 9
-0 20 0 1
 0 25 0 1
 1
 end_operator
@@ -33549,9 +33549,9 @@ begin_operator
 sendtofree-b ca n6 n5 n1 n2
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 10 9
-0 20 0 1
 0 25 1 6
 1
 end_operator
@@ -33559,9 +33559,9 @@ begin_operator
 sendtofree-b ca n6 n5 n10 n11
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 10 9
-0 20 0 1
 0 25 2 3
 1
 end_operator
@@ -33569,9 +33569,9 @@ begin_operator
 sendtofree-b ca n6 n5 n11 n12
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 10 9
-0 20 0 1
 0 25 3 4
 1
 end_operator
@@ -33579,9 +33579,9 @@ begin_operator
 sendtofree-b ca n6 n5 n12 n13
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 10 9
-0 20 0 1
 0 25 4 5
 1
 end_operator
@@ -33589,9 +33589,9 @@ begin_operator
 sendtofree-b ca n6 n5 n2 n3
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 10 9
-0 20 0 1
 0 25 6 7
 1
 end_operator
@@ -33599,9 +33599,9 @@ begin_operator
 sendtofree-b ca n6 n5 n3 n4
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 10 9
-0 20 0 1
 0 25 7 8
 1
 end_operator
@@ -33609,9 +33609,9 @@ begin_operator
 sendtofree-b ca n6 n5 n4 n5
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 10 9
-0 20 0 1
 0 25 8 9
 1
 end_operator
@@ -33619,9 +33619,9 @@ begin_operator
 sendtofree-b ca n6 n5 n5 n6
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 10 9
-0 20 0 1
 0 25 9 10
 1
 end_operator
@@ -33629,9 +33629,9 @@ begin_operator
 sendtofree-b ca n6 n5 n6 n7
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 10 9
-0 20 0 1
 0 25 10 11
 1
 end_operator
@@ -33639,9 +33639,9 @@ begin_operator
 sendtofree-b ca n6 n5 n7 n8
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 10 9
-0 20 0 1
 0 25 11 12
 1
 end_operator
@@ -33649,9 +33649,9 @@ begin_operator
 sendtofree-b ca n6 n5 n8 n9
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 10 9
-0 20 0 1
 0 25 12 13
 1
 end_operator
@@ -33659,9 +33659,9 @@ begin_operator
 sendtofree-b ca n6 n5 n9 n10
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 10 9
-0 20 0 1
 0 25 13 2
 1
 end_operator
@@ -33669,9 +33669,9 @@ begin_operator
 sendtofree-b ca n7 n6 n0 n1
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 11 10
-0 20 0 1
 0 25 0 1
 1
 end_operator
@@ -33679,9 +33679,9 @@ begin_operator
 sendtofree-b ca n7 n6 n1 n2
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 11 10
-0 20 0 1
 0 25 1 6
 1
 end_operator
@@ -33689,9 +33689,9 @@ begin_operator
 sendtofree-b ca n7 n6 n10 n11
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 11 10
-0 20 0 1
 0 25 2 3
 1
 end_operator
@@ -33699,9 +33699,9 @@ begin_operator
 sendtofree-b ca n7 n6 n11 n12
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 11 10
-0 20 0 1
 0 25 3 4
 1
 end_operator
@@ -33709,9 +33709,9 @@ begin_operator
 sendtofree-b ca n7 n6 n12 n13
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 11 10
-0 20 0 1
 0 25 4 5
 1
 end_operator
@@ -33719,9 +33719,9 @@ begin_operator
 sendtofree-b ca n7 n6 n2 n3
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 11 10
-0 20 0 1
 0 25 6 7
 1
 end_operator
@@ -33729,9 +33729,9 @@ begin_operator
 sendtofree-b ca n7 n6 n3 n4
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 11 10
-0 20 0 1
 0 25 7 8
 1
 end_operator
@@ -33739,9 +33739,9 @@ begin_operator
 sendtofree-b ca n7 n6 n4 n5
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 11 10
-0 20 0 1
 0 25 8 9
 1
 end_operator
@@ -33749,9 +33749,9 @@ begin_operator
 sendtofree-b ca n7 n6 n5 n6
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 11 10
-0 20 0 1
 0 25 9 10
 1
 end_operator
@@ -33759,9 +33759,9 @@ begin_operator
 sendtofree-b ca n7 n6 n6 n7
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 11 10
-0 20 0 1
 0 25 10 11
 1
 end_operator
@@ -33769,9 +33769,9 @@ begin_operator
 sendtofree-b ca n7 n6 n7 n8
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 11 10
-0 20 0 1
 0 25 11 12
 1
 end_operator
@@ -33779,9 +33779,9 @@ begin_operator
 sendtofree-b ca n7 n6 n8 n9
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 11 10
-0 20 0 1
 0 25 12 13
 1
 end_operator
@@ -33789,9 +33789,9 @@ begin_operator
 sendtofree-b ca n7 n6 n9 n10
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 11 10
-0 20 0 1
 0 25 13 2
 1
 end_operator
@@ -33799,9 +33799,9 @@ begin_operator
 sendtofree-b ca n8 n7 n0 n1
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 12 11
-0 20 0 1
 0 25 0 1
 1
 end_operator
@@ -33809,9 +33809,9 @@ begin_operator
 sendtofree-b ca n8 n7 n1 n2
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 12 11
-0 20 0 1
 0 25 1 6
 1
 end_operator
@@ -33819,9 +33819,9 @@ begin_operator
 sendtofree-b ca n8 n7 n10 n11
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 12 11
-0 20 0 1
 0 25 2 3
 1
 end_operator
@@ -33829,9 +33829,9 @@ begin_operator
 sendtofree-b ca n8 n7 n11 n12
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 12 11
-0 20 0 1
 0 25 3 4
 1
 end_operator
@@ -33839,9 +33839,9 @@ begin_operator
 sendtofree-b ca n8 n7 n12 n13
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 12 11
-0 20 0 1
 0 25 4 5
 1
 end_operator
@@ -33849,9 +33849,9 @@ begin_operator
 sendtofree-b ca n8 n7 n2 n3
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 12 11
-0 20 0 1
 0 25 6 7
 1
 end_operator
@@ -33859,9 +33859,9 @@ begin_operator
 sendtofree-b ca n8 n7 n3 n4
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 12 11
-0 20 0 1
 0 25 7 8
 1
 end_operator
@@ -33869,9 +33869,9 @@ begin_operator
 sendtofree-b ca n8 n7 n4 n5
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 12 11
-0 20 0 1
 0 25 8 9
 1
 end_operator
@@ -33879,9 +33879,9 @@ begin_operator
 sendtofree-b ca n8 n7 n5 n6
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 12 11
-0 20 0 1
 0 25 9 10
 1
 end_operator
@@ -33889,9 +33889,9 @@ begin_operator
 sendtofree-b ca n8 n7 n6 n7
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 12 11
-0 20 0 1
 0 25 10 11
 1
 end_operator
@@ -33899,9 +33899,9 @@ begin_operator
 sendtofree-b ca n8 n7 n7 n8
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 12 11
-0 20 0 1
 0 25 11 12
 1
 end_operator
@@ -33909,9 +33909,9 @@ begin_operator
 sendtofree-b ca n8 n7 n8 n9
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 12 11
-0 20 0 1
 0 25 12 13
 1
 end_operator
@@ -33919,9 +33919,9 @@ begin_operator
 sendtofree-b ca n8 n7 n9 n10
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 12 11
-0 20 0 1
 0 25 13 2
 1
 end_operator
@@ -33929,9 +33929,9 @@ begin_operator
 sendtofree-b ca n9 n8 n0 n1
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 13 12
-0 20 0 1
 0 25 0 1
 1
 end_operator
@@ -33939,9 +33939,9 @@ begin_operator
 sendtofree-b ca n9 n8 n1 n2
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 13 12
-0 20 0 1
 0 25 1 6
 1
 end_operator
@@ -33949,9 +33949,9 @@ begin_operator
 sendtofree-b ca n9 n8 n10 n11
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 13 12
-0 20 0 1
 0 25 2 3
 1
 end_operator
@@ -33959,9 +33959,9 @@ begin_operator
 sendtofree-b ca n9 n8 n11 n12
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 13 12
-0 20 0 1
 0 25 3 4
 1
 end_operator
@@ -33969,9 +33969,9 @@ begin_operator
 sendtofree-b ca n9 n8 n12 n13
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 13 12
-0 20 0 1
 0 25 4 5
 1
 end_operator
@@ -33979,9 +33979,9 @@ begin_operator
 sendtofree-b ca n9 n8 n2 n3
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 13 12
-0 20 0 1
 0 25 6 7
 1
 end_operator
@@ -33989,9 +33989,9 @@ begin_operator
 sendtofree-b ca n9 n8 n3 n4
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 13 12
-0 20 0 1
 0 25 7 8
 1
 end_operator
@@ -33999,9 +33999,9 @@ begin_operator
 sendtofree-b ca n9 n8 n4 n5
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 13 12
-0 20 0 1
 0 25 8 9
 1
 end_operator
@@ -34009,9 +34009,9 @@ begin_operator
 sendtofree-b ca n9 n8 n5 n6
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 13 12
-0 20 0 1
 0 25 9 10
 1
 end_operator
@@ -34019,9 +34019,9 @@ begin_operator
 sendtofree-b ca n9 n8 n6 n7
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 13 12
-0 20 0 1
 0 25 10 11
 1
 end_operator
@@ -34029,9 +34029,9 @@ begin_operator
 sendtofree-b ca n9 n8 n7 n8
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 13 12
-0 20 0 1
 0 25 11 12
 1
 end_operator
@@ -34039,9 +34039,9 @@ begin_operator
 sendtofree-b ca n9 n8 n8 n9
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 13 12
-0 20 0 1
 0 25 12 13
 1
 end_operator
@@ -34049,9 +34049,9 @@ begin_operator
 sendtofree-b ca n9 n8 n9 n10
 0
 4
+0 20 0 1
 0 21 0 2
 0 24 13 12
-0 20 0 1
 0 25 13 2
 1
 end_operator
@@ -34059,9 +34059,9 @@ begin_operator
 sendtofree-b d2 n1 n0 n0 n1
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 1 0
-0 22 0 2
 0 25 0 1
 1
 end_operator
@@ -34069,9 +34069,9 @@ begin_operator
 sendtofree-b d2 n1 n0 n1 n2
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 1 0
-0 22 0 2
 0 25 1 6
 1
 end_operator
@@ -34079,9 +34079,9 @@ begin_operator
 sendtofree-b d2 n1 n0 n10 n11
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 1 0
-0 22 0 2
 0 25 2 3
 1
 end_operator
@@ -34089,9 +34089,9 @@ begin_operator
 sendtofree-b d2 n1 n0 n11 n12
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 1 0
-0 22 0 2
 0 25 3 4
 1
 end_operator
@@ -34099,9 +34099,9 @@ begin_operator
 sendtofree-b d2 n1 n0 n12 n13
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 1 0
-0 22 0 2
 0 25 4 5
 1
 end_operator
@@ -34109,9 +34109,9 @@ begin_operator
 sendtofree-b d2 n1 n0 n2 n3
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 1 0
-0 22 0 2
 0 25 6 7
 1
 end_operator
@@ -34119,9 +34119,9 @@ begin_operator
 sendtofree-b d2 n1 n0 n3 n4
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 1 0
-0 22 0 2
 0 25 7 8
 1
 end_operator
@@ -34129,9 +34129,9 @@ begin_operator
 sendtofree-b d2 n1 n0 n4 n5
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 1 0
-0 22 0 2
 0 25 8 9
 1
 end_operator
@@ -34139,9 +34139,9 @@ begin_operator
 sendtofree-b d2 n1 n0 n5 n6
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 1 0
-0 22 0 2
 0 25 9 10
 1
 end_operator
@@ -34149,9 +34149,9 @@ begin_operator
 sendtofree-b d2 n1 n0 n6 n7
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 1 0
-0 22 0 2
 0 25 10 11
 1
 end_operator
@@ -34159,9 +34159,9 @@ begin_operator
 sendtofree-b d2 n1 n0 n7 n8
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 1 0
-0 22 0 2
 0 25 11 12
 1
 end_operator
@@ -34169,9 +34169,9 @@ begin_operator
 sendtofree-b d2 n1 n0 n8 n9
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 1 0
-0 22 0 2
 0 25 12 13
 1
 end_operator
@@ -34179,9 +34179,9 @@ begin_operator
 sendtofree-b d2 n1 n0 n9 n10
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 1 0
-0 22 0 2
 0 25 13 2
 1
 end_operator
@@ -34189,9 +34189,9 @@ begin_operator
 sendtofree-b d2 n10 n9 n0 n1
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 2 13
-0 22 0 2
 0 25 0 1
 1
 end_operator
@@ -34199,9 +34199,9 @@ begin_operator
 sendtofree-b d2 n10 n9 n1 n2
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 2 13
-0 22 0 2
 0 25 1 6
 1
 end_operator
@@ -34209,9 +34209,9 @@ begin_operator
 sendtofree-b d2 n10 n9 n10 n11
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 2 13
-0 22 0 2
 0 25 2 3
 1
 end_operator
@@ -34219,9 +34219,9 @@ begin_operator
 sendtofree-b d2 n10 n9 n11 n12
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 2 13
-0 22 0 2
 0 25 3 4
 1
 end_operator
@@ -34229,9 +34229,9 @@ begin_operator
 sendtofree-b d2 n10 n9 n12 n13
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 2 13
-0 22 0 2
 0 25 4 5
 1
 end_operator
@@ -34239,9 +34239,9 @@ begin_operator
 sendtofree-b d2 n10 n9 n2 n3
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 2 13
-0 22 0 2
 0 25 6 7
 1
 end_operator
@@ -34249,9 +34249,9 @@ begin_operator
 sendtofree-b d2 n10 n9 n3 n4
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 2 13
-0 22 0 2
 0 25 7 8
 1
 end_operator
@@ -34259,9 +34259,9 @@ begin_operator
 sendtofree-b d2 n10 n9 n4 n5
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 2 13
-0 22 0 2
 0 25 8 9
 1
 end_operator
@@ -34269,9 +34269,9 @@ begin_operator
 sendtofree-b d2 n10 n9 n5 n6
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 2 13
-0 22 0 2
 0 25 9 10
 1
 end_operator
@@ -34279,9 +34279,9 @@ begin_operator
 sendtofree-b d2 n10 n9 n6 n7
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 2 13
-0 22 0 2
 0 25 10 11
 1
 end_operator
@@ -34289,9 +34289,9 @@ begin_operator
 sendtofree-b d2 n10 n9 n7 n8
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 2 13
-0 22 0 2
 0 25 11 12
 1
 end_operator
@@ -34299,9 +34299,9 @@ begin_operator
 sendtofree-b d2 n10 n9 n8 n9
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 2 13
-0 22 0 2
 0 25 12 13
 1
 end_operator
@@ -34309,9 +34309,9 @@ begin_operator
 sendtofree-b d2 n10 n9 n9 n10
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 2 13
-0 22 0 2
 0 25 13 2
 1
 end_operator
@@ -34319,9 +34319,9 @@ begin_operator
 sendtofree-b d2 n11 n10 n0 n1
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 3 2
-0 22 0 2
 0 25 0 1
 1
 end_operator
@@ -34329,9 +34329,9 @@ begin_operator
 sendtofree-b d2 n11 n10 n1 n2
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 3 2
-0 22 0 2
 0 25 1 6
 1
 end_operator
@@ -34339,9 +34339,9 @@ begin_operator
 sendtofree-b d2 n11 n10 n10 n11
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 3 2
-0 22 0 2
 0 25 2 3
 1
 end_operator
@@ -34349,9 +34349,9 @@ begin_operator
 sendtofree-b d2 n11 n10 n11 n12
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 3 2
-0 22 0 2
 0 25 3 4
 1
 end_operator
@@ -34359,9 +34359,9 @@ begin_operator
 sendtofree-b d2 n11 n10 n12 n13
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 3 2
-0 22 0 2
 0 25 4 5
 1
 end_operator
@@ -34369,9 +34369,9 @@ begin_operator
 sendtofree-b d2 n11 n10 n2 n3
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 3 2
-0 22 0 2
 0 25 6 7
 1
 end_operator
@@ -34379,9 +34379,9 @@ begin_operator
 sendtofree-b d2 n11 n10 n3 n4
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 3 2
-0 22 0 2
 0 25 7 8
 1
 end_operator
@@ -34389,9 +34389,9 @@ begin_operator
 sendtofree-b d2 n11 n10 n4 n5
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 3 2
-0 22 0 2
 0 25 8 9
 1
 end_operator
@@ -34399,9 +34399,9 @@ begin_operator
 sendtofree-b d2 n11 n10 n5 n6
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 3 2
-0 22 0 2
 0 25 9 10
 1
 end_operator
@@ -34409,9 +34409,9 @@ begin_operator
 sendtofree-b d2 n11 n10 n6 n7
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 3 2
-0 22 0 2
 0 25 10 11
 1
 end_operator
@@ -34419,9 +34419,9 @@ begin_operator
 sendtofree-b d2 n11 n10 n7 n8
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 3 2
-0 22 0 2
 0 25 11 12
 1
 end_operator
@@ -34429,9 +34429,9 @@ begin_operator
 sendtofree-b d2 n11 n10 n8 n9
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 3 2
-0 22 0 2
 0 25 12 13
 1
 end_operator
@@ -34439,9 +34439,9 @@ begin_operator
 sendtofree-b d2 n11 n10 n9 n10
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 3 2
-0 22 0 2
 0 25 13 2
 1
 end_operator
@@ -34449,9 +34449,9 @@ begin_operator
 sendtofree-b d2 n12 n11 n0 n1
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 4 3
-0 22 0 2
 0 25 0 1
 1
 end_operator
@@ -34459,9 +34459,9 @@ begin_operator
 sendtofree-b d2 n12 n11 n1 n2
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 4 3
-0 22 0 2
 0 25 1 6
 1
 end_operator
@@ -34469,9 +34469,9 @@ begin_operator
 sendtofree-b d2 n12 n11 n10 n11
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 4 3
-0 22 0 2
 0 25 2 3
 1
 end_operator
@@ -34479,9 +34479,9 @@ begin_operator
 sendtofree-b d2 n12 n11 n11 n12
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 4 3
-0 22 0 2
 0 25 3 4
 1
 end_operator
@@ -34489,9 +34489,9 @@ begin_operator
 sendtofree-b d2 n12 n11 n12 n13
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 4 3
-0 22 0 2
 0 25 4 5
 1
 end_operator
@@ -34499,9 +34499,9 @@ begin_operator
 sendtofree-b d2 n12 n11 n2 n3
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 4 3
-0 22 0 2
 0 25 6 7
 1
 end_operator
@@ -34509,9 +34509,9 @@ begin_operator
 sendtofree-b d2 n12 n11 n3 n4
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 4 3
-0 22 0 2
 0 25 7 8
 1
 end_operator
@@ -34519,9 +34519,9 @@ begin_operator
 sendtofree-b d2 n12 n11 n4 n5
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 4 3
-0 22 0 2
 0 25 8 9
 1
 end_operator
@@ -34529,9 +34529,9 @@ begin_operator
 sendtofree-b d2 n12 n11 n5 n6
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 4 3
-0 22 0 2
 0 25 9 10
 1
 end_operator
@@ -34539,9 +34539,9 @@ begin_operator
 sendtofree-b d2 n12 n11 n6 n7
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 4 3
-0 22 0 2
 0 25 10 11
 1
 end_operator
@@ -34549,9 +34549,9 @@ begin_operator
 sendtofree-b d2 n12 n11 n7 n8
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 4 3
-0 22 0 2
 0 25 11 12
 1
 end_operator
@@ -34559,9 +34559,9 @@ begin_operator
 sendtofree-b d2 n12 n11 n8 n9
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 4 3
-0 22 0 2
 0 25 12 13
 1
 end_operator
@@ -34569,9 +34569,9 @@ begin_operator
 sendtofree-b d2 n12 n11 n9 n10
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 4 3
-0 22 0 2
 0 25 13 2
 1
 end_operator
@@ -34579,9 +34579,9 @@ begin_operator
 sendtofree-b d2 n13 n12 n0 n1
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 5 4
-0 22 0 2
 0 25 0 1
 1
 end_operator
@@ -34589,9 +34589,9 @@ begin_operator
 sendtofree-b d2 n13 n12 n1 n2
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 5 4
-0 22 0 2
 0 25 1 6
 1
 end_operator
@@ -34599,9 +34599,9 @@ begin_operator
 sendtofree-b d2 n13 n12 n10 n11
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 5 4
-0 22 0 2
 0 25 2 3
 1
 end_operator
@@ -34609,9 +34609,9 @@ begin_operator
 sendtofree-b d2 n13 n12 n11 n12
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 5 4
-0 22 0 2
 0 25 3 4
 1
 end_operator
@@ -34619,9 +34619,9 @@ begin_operator
 sendtofree-b d2 n13 n12 n12 n13
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 5 4
-0 22 0 2
 0 25 4 5
 1
 end_operator
@@ -34629,9 +34629,9 @@ begin_operator
 sendtofree-b d2 n13 n12 n2 n3
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 5 4
-0 22 0 2
 0 25 6 7
 1
 end_operator
@@ -34639,9 +34639,9 @@ begin_operator
 sendtofree-b d2 n13 n12 n3 n4
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 5 4
-0 22 0 2
 0 25 7 8
 1
 end_operator
@@ -34649,9 +34649,9 @@ begin_operator
 sendtofree-b d2 n13 n12 n4 n5
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 5 4
-0 22 0 2
 0 25 8 9
 1
 end_operator
@@ -34659,9 +34659,9 @@ begin_operator
 sendtofree-b d2 n13 n12 n5 n6
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 5 4
-0 22 0 2
 0 25 9 10
 1
 end_operator
@@ -34669,9 +34669,9 @@ begin_operator
 sendtofree-b d2 n13 n12 n6 n7
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 5 4
-0 22 0 2
 0 25 10 11
 1
 end_operator
@@ -34679,9 +34679,9 @@ begin_operator
 sendtofree-b d2 n13 n12 n7 n8
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 5 4
-0 22 0 2
 0 25 11 12
 1
 end_operator
@@ -34689,9 +34689,9 @@ begin_operator
 sendtofree-b d2 n13 n12 n8 n9
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 5 4
-0 22 0 2
 0 25 12 13
 1
 end_operator
@@ -34699,9 +34699,9 @@ begin_operator
 sendtofree-b d2 n13 n12 n9 n10
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 5 4
-0 22 0 2
 0 25 13 2
 1
 end_operator
@@ -34709,9 +34709,9 @@ begin_operator
 sendtofree-b d2 n2 n1 n0 n1
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 6 1
-0 22 0 2
 0 25 0 1
 1
 end_operator
@@ -34719,9 +34719,9 @@ begin_operator
 sendtofree-b d2 n2 n1 n1 n2
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 6 1
-0 22 0 2
 0 25 1 6
 1
 end_operator
@@ -34729,9 +34729,9 @@ begin_operator
 sendtofree-b d2 n2 n1 n10 n11
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 6 1
-0 22 0 2
 0 25 2 3
 1
 end_operator
@@ -34739,9 +34739,9 @@ begin_operator
 sendtofree-b d2 n2 n1 n11 n12
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 6 1
-0 22 0 2
 0 25 3 4
 1
 end_operator
@@ -34749,9 +34749,9 @@ begin_operator
 sendtofree-b d2 n2 n1 n12 n13
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 6 1
-0 22 0 2
 0 25 4 5
 1
 end_operator
@@ -34759,9 +34759,9 @@ begin_operator
 sendtofree-b d2 n2 n1 n2 n3
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 6 1
-0 22 0 2
 0 25 6 7
 1
 end_operator
@@ -34769,9 +34769,9 @@ begin_operator
 sendtofree-b d2 n2 n1 n3 n4
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 6 1
-0 22 0 2
 0 25 7 8
 1
 end_operator
@@ -34779,9 +34779,9 @@ begin_operator
 sendtofree-b d2 n2 n1 n4 n5
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 6 1
-0 22 0 2
 0 25 8 9
 1
 end_operator
@@ -34789,9 +34789,9 @@ begin_operator
 sendtofree-b d2 n2 n1 n5 n6
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 6 1
-0 22 0 2
 0 25 9 10
 1
 end_operator
@@ -34799,9 +34799,9 @@ begin_operator
 sendtofree-b d2 n2 n1 n6 n7
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 6 1
-0 22 0 2
 0 25 10 11
 1
 end_operator
@@ -34809,9 +34809,9 @@ begin_operator
 sendtofree-b d2 n2 n1 n7 n8
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 6 1
-0 22 0 2
 0 25 11 12
 1
 end_operator
@@ -34819,9 +34819,9 @@ begin_operator
 sendtofree-b d2 n2 n1 n8 n9
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 6 1
-0 22 0 2
 0 25 12 13
 1
 end_operator
@@ -34829,9 +34829,9 @@ begin_operator
 sendtofree-b d2 n2 n1 n9 n10
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 6 1
-0 22 0 2
 0 25 13 2
 1
 end_operator
@@ -34839,9 +34839,9 @@ begin_operator
 sendtofree-b d2 n3 n2 n0 n1
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 7 6
-0 22 0 2
 0 25 0 1
 1
 end_operator
@@ -34849,9 +34849,9 @@ begin_operator
 sendtofree-b d2 n3 n2 n1 n2
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 7 6
-0 22 0 2
 0 25 1 6
 1
 end_operator
@@ -34859,9 +34859,9 @@ begin_operator
 sendtofree-b d2 n3 n2 n10 n11
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 7 6
-0 22 0 2
 0 25 2 3
 1
 end_operator
@@ -34869,9 +34869,9 @@ begin_operator
 sendtofree-b d2 n3 n2 n11 n12
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 7 6
-0 22 0 2
 0 25 3 4
 1
 end_operator
@@ -34879,9 +34879,9 @@ begin_operator
 sendtofree-b d2 n3 n2 n12 n13
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 7 6
-0 22 0 2
 0 25 4 5
 1
 end_operator
@@ -34889,9 +34889,9 @@ begin_operator
 sendtofree-b d2 n3 n2 n2 n3
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 7 6
-0 22 0 2
 0 25 6 7
 1
 end_operator
@@ -34899,9 +34899,9 @@ begin_operator
 sendtofree-b d2 n3 n2 n3 n4
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 7 6
-0 22 0 2
 0 25 7 8
 1
 end_operator
@@ -34909,9 +34909,9 @@ begin_operator
 sendtofree-b d2 n3 n2 n4 n5
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 7 6
-0 22 0 2
 0 25 8 9
 1
 end_operator
@@ -34919,9 +34919,9 @@ begin_operator
 sendtofree-b d2 n3 n2 n5 n6
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 7 6
-0 22 0 2
 0 25 9 10
 1
 end_operator
@@ -34929,9 +34929,9 @@ begin_operator
 sendtofree-b d2 n3 n2 n6 n7
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 7 6
-0 22 0 2
 0 25 10 11
 1
 end_operator
@@ -34939,9 +34939,9 @@ begin_operator
 sendtofree-b d2 n3 n2 n7 n8
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 7 6
-0 22 0 2
 0 25 11 12
 1
 end_operator
@@ -34949,9 +34949,9 @@ begin_operator
 sendtofree-b d2 n3 n2 n8 n9
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 7 6
-0 22 0 2
 0 25 12 13
 1
 end_operator
@@ -34959,9 +34959,9 @@ begin_operator
 sendtofree-b d2 n3 n2 n9 n10
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 7 6
-0 22 0 2
 0 25 13 2
 1
 end_operator
@@ -34969,9 +34969,9 @@ begin_operator
 sendtofree-b d2 n4 n3 n0 n1
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 8 7
-0 22 0 2
 0 25 0 1
 1
 end_operator
@@ -34979,9 +34979,9 @@ begin_operator
 sendtofree-b d2 n4 n3 n1 n2
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 8 7
-0 22 0 2
 0 25 1 6
 1
 end_operator
@@ -34989,9 +34989,9 @@ begin_operator
 sendtofree-b d2 n4 n3 n10 n11
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 8 7
-0 22 0 2
 0 25 2 3
 1
 end_operator
@@ -34999,9 +34999,9 @@ begin_operator
 sendtofree-b d2 n4 n3 n11 n12
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 8 7
-0 22 0 2
 0 25 3 4
 1
 end_operator
@@ -35009,9 +35009,9 @@ begin_operator
 sendtofree-b d2 n4 n3 n12 n13
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 8 7
-0 22 0 2
 0 25 4 5
 1
 end_operator
@@ -35019,9 +35019,9 @@ begin_operator
 sendtofree-b d2 n4 n3 n2 n3
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 8 7
-0 22 0 2
 0 25 6 7
 1
 end_operator
@@ -35029,9 +35029,9 @@ begin_operator
 sendtofree-b d2 n4 n3 n3 n4
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 8 7
-0 22 0 2
 0 25 7 8
 1
 end_operator
@@ -35039,9 +35039,9 @@ begin_operator
 sendtofree-b d2 n4 n3 n4 n5
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 8 7
-0 22 0 2
 0 25 8 9
 1
 end_operator
@@ -35049,9 +35049,9 @@ begin_operator
 sendtofree-b d2 n4 n3 n5 n6
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 8 7
-0 22 0 2
 0 25 9 10
 1
 end_operator
@@ -35059,9 +35059,9 @@ begin_operator
 sendtofree-b d2 n4 n3 n6 n7
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 8 7
-0 22 0 2
 0 25 10 11
 1
 end_operator
@@ -35069,9 +35069,9 @@ begin_operator
 sendtofree-b d2 n4 n3 n7 n8
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 8 7
-0 22 0 2
 0 25 11 12
 1
 end_operator
@@ -35079,9 +35079,9 @@ begin_operator
 sendtofree-b d2 n4 n3 n8 n9
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 8 7
-0 22 0 2
 0 25 12 13
 1
 end_operator
@@ -35089,9 +35089,9 @@ begin_operator
 sendtofree-b d2 n4 n3 n9 n10
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 8 7
-0 22 0 2
 0 25 13 2
 1
 end_operator
@@ -35099,9 +35099,9 @@ begin_operator
 sendtofree-b d2 n5 n4 n0 n1
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 9 8
-0 22 0 2
 0 25 0 1
 1
 end_operator
@@ -35109,9 +35109,9 @@ begin_operator
 sendtofree-b d2 n5 n4 n1 n2
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 9 8
-0 22 0 2
 0 25 1 6
 1
 end_operator
@@ -35119,9 +35119,9 @@ begin_operator
 sendtofree-b d2 n5 n4 n10 n11
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 9 8
-0 22 0 2
 0 25 2 3
 1
 end_operator
@@ -35129,9 +35129,9 @@ begin_operator
 sendtofree-b d2 n5 n4 n11 n12
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 9 8
-0 22 0 2
 0 25 3 4
 1
 end_operator
@@ -35139,9 +35139,9 @@ begin_operator
 sendtofree-b d2 n5 n4 n12 n13
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 9 8
-0 22 0 2
 0 25 4 5
 1
 end_operator
@@ -35149,9 +35149,9 @@ begin_operator
 sendtofree-b d2 n5 n4 n2 n3
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 9 8
-0 22 0 2
 0 25 6 7
 1
 end_operator
@@ -35159,9 +35159,9 @@ begin_operator
 sendtofree-b d2 n5 n4 n3 n4
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 9 8
-0 22 0 2
 0 25 7 8
 1
 end_operator
@@ -35169,9 +35169,9 @@ begin_operator
 sendtofree-b d2 n5 n4 n4 n5
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 9 8
-0 22 0 2
 0 25 8 9
 1
 end_operator
@@ -35179,9 +35179,9 @@ begin_operator
 sendtofree-b d2 n5 n4 n5 n6
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 9 8
-0 22 0 2
 0 25 9 10
 1
 end_operator
@@ -35189,9 +35189,9 @@ begin_operator
 sendtofree-b d2 n5 n4 n6 n7
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 9 8
-0 22 0 2
 0 25 10 11
 1
 end_operator
@@ -35199,9 +35199,9 @@ begin_operator
 sendtofree-b d2 n5 n4 n7 n8
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 9 8
-0 22 0 2
 0 25 11 12
 1
 end_operator
@@ -35209,9 +35209,9 @@ begin_operator
 sendtofree-b d2 n5 n4 n8 n9
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 9 8
-0 22 0 2
 0 25 12 13
 1
 end_operator
@@ -35219,9 +35219,9 @@ begin_operator
 sendtofree-b d2 n5 n4 n9 n10
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 9 8
-0 22 0 2
 0 25 13 2
 1
 end_operator
@@ -35229,9 +35229,9 @@ begin_operator
 sendtofree-b d2 n6 n5 n0 n1
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 10 9
-0 22 0 2
 0 25 0 1
 1
 end_operator
@@ -35239,9 +35239,9 @@ begin_operator
 sendtofree-b d2 n6 n5 n1 n2
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 10 9
-0 22 0 2
 0 25 1 6
 1
 end_operator
@@ -35249,9 +35249,9 @@ begin_operator
 sendtofree-b d2 n6 n5 n10 n11
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 10 9
-0 22 0 2
 0 25 2 3
 1
 end_operator
@@ -35259,9 +35259,9 @@ begin_operator
 sendtofree-b d2 n6 n5 n11 n12
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 10 9
-0 22 0 2
 0 25 3 4
 1
 end_operator
@@ -35269,9 +35269,9 @@ begin_operator
 sendtofree-b d2 n6 n5 n12 n13
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 10 9
-0 22 0 2
 0 25 4 5
 1
 end_operator
@@ -35279,9 +35279,9 @@ begin_operator
 sendtofree-b d2 n6 n5 n2 n3
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 10 9
-0 22 0 2
 0 25 6 7
 1
 end_operator
@@ -35289,9 +35289,9 @@ begin_operator
 sendtofree-b d2 n6 n5 n3 n4
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 10 9
-0 22 0 2
 0 25 7 8
 1
 end_operator
@@ -35299,9 +35299,9 @@ begin_operator
 sendtofree-b d2 n6 n5 n4 n5
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 10 9
-0 22 0 2
 0 25 8 9
 1
 end_operator
@@ -35309,9 +35309,9 @@ begin_operator
 sendtofree-b d2 n6 n5 n5 n6
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 10 9
-0 22 0 2
 0 25 9 10
 1
 end_operator
@@ -35319,9 +35319,9 @@ begin_operator
 sendtofree-b d2 n6 n5 n6 n7
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 10 9
-0 22 0 2
 0 25 10 11
 1
 end_operator
@@ -35329,9 +35329,9 @@ begin_operator
 sendtofree-b d2 n6 n5 n7 n8
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 10 9
-0 22 0 2
 0 25 11 12
 1
 end_operator
@@ -35339,9 +35339,9 @@ begin_operator
 sendtofree-b d2 n6 n5 n8 n9
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 10 9
-0 22 0 2
 0 25 12 13
 1
 end_operator
@@ -35349,9 +35349,9 @@ begin_operator
 sendtofree-b d2 n6 n5 n9 n10
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 10 9
-0 22 0 2
 0 25 13 2
 1
 end_operator
@@ -35359,9 +35359,9 @@ begin_operator
 sendtofree-b d2 n7 n6 n0 n1
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 11 10
-0 22 0 2
 0 25 0 1
 1
 end_operator
@@ -35369,9 +35369,9 @@ begin_operator
 sendtofree-b d2 n7 n6 n1 n2
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 11 10
-0 22 0 2
 0 25 1 6
 1
 end_operator
@@ -35379,9 +35379,9 @@ begin_operator
 sendtofree-b d2 n7 n6 n10 n11
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 11 10
-0 22 0 2
 0 25 2 3
 1
 end_operator
@@ -35389,9 +35389,9 @@ begin_operator
 sendtofree-b d2 n7 n6 n11 n12
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 11 10
-0 22 0 2
 0 25 3 4
 1
 end_operator
@@ -35399,9 +35399,9 @@ begin_operator
 sendtofree-b d2 n7 n6 n12 n13
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 11 10
-0 22 0 2
 0 25 4 5
 1
 end_operator
@@ -35409,9 +35409,9 @@ begin_operator
 sendtofree-b d2 n7 n6 n2 n3
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 11 10
-0 22 0 2
 0 25 6 7
 1
 end_operator
@@ -35419,9 +35419,9 @@ begin_operator
 sendtofree-b d2 n7 n6 n3 n4
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 11 10
-0 22 0 2
 0 25 7 8
 1
 end_operator
@@ -35429,9 +35429,9 @@ begin_operator
 sendtofree-b d2 n7 n6 n4 n5
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 11 10
-0 22 0 2
 0 25 8 9
 1
 end_operator
@@ -35439,9 +35439,9 @@ begin_operator
 sendtofree-b d2 n7 n6 n5 n6
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 11 10
-0 22 0 2
 0 25 9 10
 1
 end_operator
@@ -35449,9 +35449,9 @@ begin_operator
 sendtofree-b d2 n7 n6 n6 n7
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 11 10
-0 22 0 2
 0 25 10 11
 1
 end_operator
@@ -35459,9 +35459,9 @@ begin_operator
 sendtofree-b d2 n7 n6 n7 n8
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 11 10
-0 22 0 2
 0 25 11 12
 1
 end_operator
@@ -35469,9 +35469,9 @@ begin_operator
 sendtofree-b d2 n7 n6 n8 n9
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 11 10
-0 22 0 2
 0 25 12 13
 1
 end_operator
@@ -35479,9 +35479,9 @@ begin_operator
 sendtofree-b d2 n7 n6 n9 n10
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 11 10
-0 22 0 2
 0 25 13 2
 1
 end_operator
@@ -35489,9 +35489,9 @@ begin_operator
 sendtofree-b d2 n8 n7 n0 n1
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 12 11
-0 22 0 2
 0 25 0 1
 1
 end_operator
@@ -35499,9 +35499,9 @@ begin_operator
 sendtofree-b d2 n8 n7 n1 n2
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 12 11
-0 22 0 2
 0 25 1 6
 1
 end_operator
@@ -35509,9 +35509,9 @@ begin_operator
 sendtofree-b d2 n8 n7 n10 n11
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 12 11
-0 22 0 2
 0 25 2 3
 1
 end_operator
@@ -35519,9 +35519,9 @@ begin_operator
 sendtofree-b d2 n8 n7 n11 n12
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 12 11
-0 22 0 2
 0 25 3 4
 1
 end_operator
@@ -35529,9 +35529,9 @@ begin_operator
 sendtofree-b d2 n8 n7 n12 n13
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 12 11
-0 22 0 2
 0 25 4 5
 1
 end_operator
@@ -35539,9 +35539,9 @@ begin_operator
 sendtofree-b d2 n8 n7 n2 n3
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 12 11
-0 22 0 2
 0 25 6 7
 1
 end_operator
@@ -35549,9 +35549,9 @@ begin_operator
 sendtofree-b d2 n8 n7 n3 n4
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 12 11
-0 22 0 2
 0 25 7 8
 1
 end_operator
@@ -35559,9 +35559,9 @@ begin_operator
 sendtofree-b d2 n8 n7 n4 n5
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 12 11
-0 22 0 2
 0 25 8 9
 1
 end_operator
@@ -35569,9 +35569,9 @@ begin_operator
 sendtofree-b d2 n8 n7 n5 n6
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 12 11
-0 22 0 2
 0 25 9 10
 1
 end_operator
@@ -35579,9 +35579,9 @@ begin_operator
 sendtofree-b d2 n8 n7 n6 n7
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 12 11
-0 22 0 2
 0 25 10 11
 1
 end_operator
@@ -35589,9 +35589,9 @@ begin_operator
 sendtofree-b d2 n8 n7 n7 n8
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 12 11
-0 22 0 2
 0 25 11 12
 1
 end_operator
@@ -35599,9 +35599,9 @@ begin_operator
 sendtofree-b d2 n8 n7 n8 n9
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 12 11
-0 22 0 2
 0 25 12 13
 1
 end_operator
@@ -35609,9 +35609,9 @@ begin_operator
 sendtofree-b d2 n8 n7 n9 n10
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 12 11
-0 22 0 2
 0 25 13 2
 1
 end_operator
@@ -35619,9 +35619,9 @@ begin_operator
 sendtofree-b d2 n9 n8 n0 n1
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 13 12
-0 22 0 2
 0 25 0 1
 1
 end_operator
@@ -35629,9 +35629,9 @@ begin_operator
 sendtofree-b d2 n9 n8 n1 n2
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 13 12
-0 22 0 2
 0 25 1 6
 1
 end_operator
@@ -35639,9 +35639,9 @@ begin_operator
 sendtofree-b d2 n9 n8 n10 n11
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 13 12
-0 22 0 2
 0 25 2 3
 1
 end_operator
@@ -35649,9 +35649,9 @@ begin_operator
 sendtofree-b d2 n9 n8 n11 n12
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 13 12
-0 22 0 2
 0 25 3 4
 1
 end_operator
@@ -35659,9 +35659,9 @@ begin_operator
 sendtofree-b d2 n9 n8 n12 n13
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 13 12
-0 22 0 2
 0 25 4 5
 1
 end_operator
@@ -35669,9 +35669,9 @@ begin_operator
 sendtofree-b d2 n9 n8 n2 n3
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 13 12
-0 22 0 2
 0 25 6 7
 1
 end_operator
@@ -35679,9 +35679,9 @@ begin_operator
 sendtofree-b d2 n9 n8 n3 n4
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 13 12
-0 22 0 2
 0 25 7 8
 1
 end_operator
@@ -35689,9 +35689,9 @@ begin_operator
 sendtofree-b d2 n9 n8 n4 n5
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 13 12
-0 22 0 2
 0 25 8 9
 1
 end_operator
@@ -35699,9 +35699,9 @@ begin_operator
 sendtofree-b d2 n9 n8 n5 n6
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 13 12
-0 22 0 2
 0 25 9 10
 1
 end_operator
@@ -35709,9 +35709,9 @@ begin_operator
 sendtofree-b d2 n9 n8 n6 n7
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 13 12
-0 22 0 2
 0 25 10 11
 1
 end_operator
@@ -35719,9 +35719,9 @@ begin_operator
 sendtofree-b d2 n9 n8 n7 n8
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 13 12
-0 22 0 2
 0 25 11 12
 1
 end_operator
@@ -35729,9 +35729,9 @@ begin_operator
 sendtofree-b d2 n9 n8 n8 n9
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 13 12
-0 22 0 2
 0 25 12 13
 1
 end_operator
@@ -35739,9 +35739,9 @@ begin_operator
 sendtofree-b d2 n9 n8 n9 n10
 0
 4
+0 22 0 2
 0 23 0 1
 0 24 13 12
-0 22 0 2
 0 25 13 2
 1
 end_operator
@@ -35751,8 +35751,8 @@ sendtofree-b d3 n1 n0 n0 n1
 4
 0 5 0 1
 0 24 1 0
-0 29 0 2
 0 25 0 1
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -35761,8 +35761,8 @@ sendtofree-b d3 n1 n0 n1 n2
 4
 0 5 0 1
 0 24 1 0
-0 29 0 2
 0 25 1 6
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -35771,8 +35771,8 @@ sendtofree-b d3 n1 n0 n10 n11
 4
 0 5 0 1
 0 24 1 0
-0 29 0 2
 0 25 2 3
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -35781,8 +35781,8 @@ sendtofree-b d3 n1 n0 n11 n12
 4
 0 5 0 1
 0 24 1 0
-0 29 0 2
 0 25 3 4
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -35791,8 +35791,8 @@ sendtofree-b d3 n1 n0 n12 n13
 4
 0 5 0 1
 0 24 1 0
-0 29 0 2
 0 25 4 5
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -35801,8 +35801,8 @@ sendtofree-b d3 n1 n0 n2 n3
 4
 0 5 0 1
 0 24 1 0
-0 29 0 2
 0 25 6 7
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -35811,8 +35811,8 @@ sendtofree-b d3 n1 n0 n3 n4
 4
 0 5 0 1
 0 24 1 0
-0 29 0 2
 0 25 7 8
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -35821,8 +35821,8 @@ sendtofree-b d3 n1 n0 n4 n5
 4
 0 5 0 1
 0 24 1 0
-0 29 0 2
 0 25 8 9
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -35831,8 +35831,8 @@ sendtofree-b d3 n1 n0 n5 n6
 4
 0 5 0 1
 0 24 1 0
-0 29 0 2
 0 25 9 10
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -35841,8 +35841,8 @@ sendtofree-b d3 n1 n0 n6 n7
 4
 0 5 0 1
 0 24 1 0
-0 29 0 2
 0 25 10 11
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -35851,8 +35851,8 @@ sendtofree-b d3 n1 n0 n7 n8
 4
 0 5 0 1
 0 24 1 0
-0 29 0 2
 0 25 11 12
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -35861,8 +35861,8 @@ sendtofree-b d3 n1 n0 n8 n9
 4
 0 5 0 1
 0 24 1 0
-0 29 0 2
 0 25 12 13
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -35871,8 +35871,8 @@ sendtofree-b d3 n1 n0 n9 n10
 4
 0 5 0 1
 0 24 1 0
-0 29 0 2
 0 25 13 2
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -35881,8 +35881,8 @@ sendtofree-b d3 n10 n9 n0 n1
 4
 0 5 0 1
 0 24 2 13
-0 29 0 2
 0 25 0 1
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -35891,8 +35891,8 @@ sendtofree-b d3 n10 n9 n1 n2
 4
 0 5 0 1
 0 24 2 13
-0 29 0 2
 0 25 1 6
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -35901,8 +35901,8 @@ sendtofree-b d3 n10 n9 n10 n11
 4
 0 5 0 1
 0 24 2 13
-0 29 0 2
 0 25 2 3
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -35911,8 +35911,8 @@ sendtofree-b d3 n10 n9 n11 n12
 4
 0 5 0 1
 0 24 2 13
-0 29 0 2
 0 25 3 4
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -35921,8 +35921,8 @@ sendtofree-b d3 n10 n9 n12 n13
 4
 0 5 0 1
 0 24 2 13
-0 29 0 2
 0 25 4 5
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -35931,8 +35931,8 @@ sendtofree-b d3 n10 n9 n2 n3
 4
 0 5 0 1
 0 24 2 13
-0 29 0 2
 0 25 6 7
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -35941,8 +35941,8 @@ sendtofree-b d3 n10 n9 n3 n4
 4
 0 5 0 1
 0 24 2 13
-0 29 0 2
 0 25 7 8
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -35951,8 +35951,8 @@ sendtofree-b d3 n10 n9 n4 n5
 4
 0 5 0 1
 0 24 2 13
-0 29 0 2
 0 25 8 9
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -35961,8 +35961,8 @@ sendtofree-b d3 n10 n9 n5 n6
 4
 0 5 0 1
 0 24 2 13
-0 29 0 2
 0 25 9 10
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -35971,8 +35971,8 @@ sendtofree-b d3 n10 n9 n6 n7
 4
 0 5 0 1
 0 24 2 13
-0 29 0 2
 0 25 10 11
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -35981,8 +35981,8 @@ sendtofree-b d3 n10 n9 n7 n8
 4
 0 5 0 1
 0 24 2 13
-0 29 0 2
 0 25 11 12
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -35991,8 +35991,8 @@ sendtofree-b d3 n10 n9 n8 n9
 4
 0 5 0 1
 0 24 2 13
-0 29 0 2
 0 25 12 13
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36001,8 +36001,8 @@ sendtofree-b d3 n10 n9 n9 n10
 4
 0 5 0 1
 0 24 2 13
-0 29 0 2
 0 25 13 2
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36011,8 +36011,8 @@ sendtofree-b d3 n11 n10 n0 n1
 4
 0 5 0 1
 0 24 3 2
-0 29 0 2
 0 25 0 1
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36021,8 +36021,8 @@ sendtofree-b d3 n11 n10 n1 n2
 4
 0 5 0 1
 0 24 3 2
-0 29 0 2
 0 25 1 6
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36031,8 +36031,8 @@ sendtofree-b d3 n11 n10 n10 n11
 4
 0 5 0 1
 0 24 3 2
-0 29 0 2
 0 25 2 3
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36041,8 +36041,8 @@ sendtofree-b d3 n11 n10 n11 n12
 4
 0 5 0 1
 0 24 3 2
-0 29 0 2
 0 25 3 4
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36051,8 +36051,8 @@ sendtofree-b d3 n11 n10 n12 n13
 4
 0 5 0 1
 0 24 3 2
-0 29 0 2
 0 25 4 5
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36061,8 +36061,8 @@ sendtofree-b d3 n11 n10 n2 n3
 4
 0 5 0 1
 0 24 3 2
-0 29 0 2
 0 25 6 7
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36071,8 +36071,8 @@ sendtofree-b d3 n11 n10 n3 n4
 4
 0 5 0 1
 0 24 3 2
-0 29 0 2
 0 25 7 8
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36081,8 +36081,8 @@ sendtofree-b d3 n11 n10 n4 n5
 4
 0 5 0 1
 0 24 3 2
-0 29 0 2
 0 25 8 9
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36091,8 +36091,8 @@ sendtofree-b d3 n11 n10 n5 n6
 4
 0 5 0 1
 0 24 3 2
-0 29 0 2
 0 25 9 10
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36101,8 +36101,8 @@ sendtofree-b d3 n11 n10 n6 n7
 4
 0 5 0 1
 0 24 3 2
-0 29 0 2
 0 25 10 11
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36111,8 +36111,8 @@ sendtofree-b d3 n11 n10 n7 n8
 4
 0 5 0 1
 0 24 3 2
-0 29 0 2
 0 25 11 12
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36121,8 +36121,8 @@ sendtofree-b d3 n11 n10 n8 n9
 4
 0 5 0 1
 0 24 3 2
-0 29 0 2
 0 25 12 13
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36131,8 +36131,8 @@ sendtofree-b d3 n11 n10 n9 n10
 4
 0 5 0 1
 0 24 3 2
-0 29 0 2
 0 25 13 2
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36141,8 +36141,8 @@ sendtofree-b d3 n12 n11 n0 n1
 4
 0 5 0 1
 0 24 4 3
-0 29 0 2
 0 25 0 1
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36151,8 +36151,8 @@ sendtofree-b d3 n12 n11 n1 n2
 4
 0 5 0 1
 0 24 4 3
-0 29 0 2
 0 25 1 6
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36161,8 +36161,8 @@ sendtofree-b d3 n12 n11 n10 n11
 4
 0 5 0 1
 0 24 4 3
-0 29 0 2
 0 25 2 3
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36171,8 +36171,8 @@ sendtofree-b d3 n12 n11 n11 n12
 4
 0 5 0 1
 0 24 4 3
-0 29 0 2
 0 25 3 4
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36181,8 +36181,8 @@ sendtofree-b d3 n12 n11 n12 n13
 4
 0 5 0 1
 0 24 4 3
-0 29 0 2
 0 25 4 5
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36191,8 +36191,8 @@ sendtofree-b d3 n12 n11 n2 n3
 4
 0 5 0 1
 0 24 4 3
-0 29 0 2
 0 25 6 7
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36201,8 +36201,8 @@ sendtofree-b d3 n12 n11 n3 n4
 4
 0 5 0 1
 0 24 4 3
-0 29 0 2
 0 25 7 8
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36211,8 +36211,8 @@ sendtofree-b d3 n12 n11 n4 n5
 4
 0 5 0 1
 0 24 4 3
-0 29 0 2
 0 25 8 9
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36221,8 +36221,8 @@ sendtofree-b d3 n12 n11 n5 n6
 4
 0 5 0 1
 0 24 4 3
-0 29 0 2
 0 25 9 10
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36231,8 +36231,8 @@ sendtofree-b d3 n12 n11 n6 n7
 4
 0 5 0 1
 0 24 4 3
-0 29 0 2
 0 25 10 11
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36241,8 +36241,8 @@ sendtofree-b d3 n12 n11 n7 n8
 4
 0 5 0 1
 0 24 4 3
-0 29 0 2
 0 25 11 12
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36251,8 +36251,8 @@ sendtofree-b d3 n12 n11 n8 n9
 4
 0 5 0 1
 0 24 4 3
-0 29 0 2
 0 25 12 13
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36261,8 +36261,8 @@ sendtofree-b d3 n12 n11 n9 n10
 4
 0 5 0 1
 0 24 4 3
-0 29 0 2
 0 25 13 2
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36271,8 +36271,8 @@ sendtofree-b d3 n13 n12 n0 n1
 4
 0 5 0 1
 0 24 5 4
-0 29 0 2
 0 25 0 1
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36281,8 +36281,8 @@ sendtofree-b d3 n13 n12 n1 n2
 4
 0 5 0 1
 0 24 5 4
-0 29 0 2
 0 25 1 6
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36291,8 +36291,8 @@ sendtofree-b d3 n13 n12 n10 n11
 4
 0 5 0 1
 0 24 5 4
-0 29 0 2
 0 25 2 3
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36301,8 +36301,8 @@ sendtofree-b d3 n13 n12 n11 n12
 4
 0 5 0 1
 0 24 5 4
-0 29 0 2
 0 25 3 4
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36311,8 +36311,8 @@ sendtofree-b d3 n13 n12 n12 n13
 4
 0 5 0 1
 0 24 5 4
-0 29 0 2
 0 25 4 5
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36321,8 +36321,8 @@ sendtofree-b d3 n13 n12 n2 n3
 4
 0 5 0 1
 0 24 5 4
-0 29 0 2
 0 25 6 7
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36331,8 +36331,8 @@ sendtofree-b d3 n13 n12 n3 n4
 4
 0 5 0 1
 0 24 5 4
-0 29 0 2
 0 25 7 8
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36341,8 +36341,8 @@ sendtofree-b d3 n13 n12 n4 n5
 4
 0 5 0 1
 0 24 5 4
-0 29 0 2
 0 25 8 9
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36351,8 +36351,8 @@ sendtofree-b d3 n13 n12 n5 n6
 4
 0 5 0 1
 0 24 5 4
-0 29 0 2
 0 25 9 10
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36361,8 +36361,8 @@ sendtofree-b d3 n13 n12 n6 n7
 4
 0 5 0 1
 0 24 5 4
-0 29 0 2
 0 25 10 11
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36371,8 +36371,8 @@ sendtofree-b d3 n13 n12 n7 n8
 4
 0 5 0 1
 0 24 5 4
-0 29 0 2
 0 25 11 12
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36381,8 +36381,8 @@ sendtofree-b d3 n13 n12 n8 n9
 4
 0 5 0 1
 0 24 5 4
-0 29 0 2
 0 25 12 13
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36391,8 +36391,8 @@ sendtofree-b d3 n13 n12 n9 n10
 4
 0 5 0 1
 0 24 5 4
-0 29 0 2
 0 25 13 2
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36401,8 +36401,8 @@ sendtofree-b d3 n2 n1 n0 n1
 4
 0 5 0 1
 0 24 6 1
-0 29 0 2
 0 25 0 1
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36411,8 +36411,8 @@ sendtofree-b d3 n2 n1 n1 n2
 4
 0 5 0 1
 0 24 6 1
-0 29 0 2
 0 25 1 6
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36421,8 +36421,8 @@ sendtofree-b d3 n2 n1 n10 n11
 4
 0 5 0 1
 0 24 6 1
-0 29 0 2
 0 25 2 3
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36431,8 +36431,8 @@ sendtofree-b d3 n2 n1 n11 n12
 4
 0 5 0 1
 0 24 6 1
-0 29 0 2
 0 25 3 4
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36441,8 +36441,8 @@ sendtofree-b d3 n2 n1 n12 n13
 4
 0 5 0 1
 0 24 6 1
-0 29 0 2
 0 25 4 5
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36451,8 +36451,8 @@ sendtofree-b d3 n2 n1 n2 n3
 4
 0 5 0 1
 0 24 6 1
-0 29 0 2
 0 25 6 7
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36461,8 +36461,8 @@ sendtofree-b d3 n2 n1 n3 n4
 4
 0 5 0 1
 0 24 6 1
-0 29 0 2
 0 25 7 8
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36471,8 +36471,8 @@ sendtofree-b d3 n2 n1 n4 n5
 4
 0 5 0 1
 0 24 6 1
-0 29 0 2
 0 25 8 9
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36481,8 +36481,8 @@ sendtofree-b d3 n2 n1 n5 n6
 4
 0 5 0 1
 0 24 6 1
-0 29 0 2
 0 25 9 10
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36491,8 +36491,8 @@ sendtofree-b d3 n2 n1 n6 n7
 4
 0 5 0 1
 0 24 6 1
-0 29 0 2
 0 25 10 11
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36501,8 +36501,8 @@ sendtofree-b d3 n2 n1 n7 n8
 4
 0 5 0 1
 0 24 6 1
-0 29 0 2
 0 25 11 12
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36511,8 +36511,8 @@ sendtofree-b d3 n2 n1 n8 n9
 4
 0 5 0 1
 0 24 6 1
-0 29 0 2
 0 25 12 13
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36521,8 +36521,8 @@ sendtofree-b d3 n2 n1 n9 n10
 4
 0 5 0 1
 0 24 6 1
-0 29 0 2
 0 25 13 2
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36531,8 +36531,8 @@ sendtofree-b d3 n3 n2 n0 n1
 4
 0 5 0 1
 0 24 7 6
-0 29 0 2
 0 25 0 1
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36541,8 +36541,8 @@ sendtofree-b d3 n3 n2 n1 n2
 4
 0 5 0 1
 0 24 7 6
-0 29 0 2
 0 25 1 6
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36551,8 +36551,8 @@ sendtofree-b d3 n3 n2 n10 n11
 4
 0 5 0 1
 0 24 7 6
-0 29 0 2
 0 25 2 3
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36561,8 +36561,8 @@ sendtofree-b d3 n3 n2 n11 n12
 4
 0 5 0 1
 0 24 7 6
-0 29 0 2
 0 25 3 4
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36571,8 +36571,8 @@ sendtofree-b d3 n3 n2 n12 n13
 4
 0 5 0 1
 0 24 7 6
-0 29 0 2
 0 25 4 5
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36581,8 +36581,8 @@ sendtofree-b d3 n3 n2 n2 n3
 4
 0 5 0 1
 0 24 7 6
-0 29 0 2
 0 25 6 7
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36591,8 +36591,8 @@ sendtofree-b d3 n3 n2 n3 n4
 4
 0 5 0 1
 0 24 7 6
-0 29 0 2
 0 25 7 8
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36601,8 +36601,8 @@ sendtofree-b d3 n3 n2 n4 n5
 4
 0 5 0 1
 0 24 7 6
-0 29 0 2
 0 25 8 9
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36611,8 +36611,8 @@ sendtofree-b d3 n3 n2 n5 n6
 4
 0 5 0 1
 0 24 7 6
-0 29 0 2
 0 25 9 10
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36621,8 +36621,8 @@ sendtofree-b d3 n3 n2 n6 n7
 4
 0 5 0 1
 0 24 7 6
-0 29 0 2
 0 25 10 11
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36631,8 +36631,8 @@ sendtofree-b d3 n3 n2 n7 n8
 4
 0 5 0 1
 0 24 7 6
-0 29 0 2
 0 25 11 12
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36641,8 +36641,8 @@ sendtofree-b d3 n3 n2 n8 n9
 4
 0 5 0 1
 0 24 7 6
-0 29 0 2
 0 25 12 13
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36651,8 +36651,8 @@ sendtofree-b d3 n3 n2 n9 n10
 4
 0 5 0 1
 0 24 7 6
-0 29 0 2
 0 25 13 2
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36661,8 +36661,8 @@ sendtofree-b d3 n4 n3 n0 n1
 4
 0 5 0 1
 0 24 8 7
-0 29 0 2
 0 25 0 1
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36671,8 +36671,8 @@ sendtofree-b d3 n4 n3 n1 n2
 4
 0 5 0 1
 0 24 8 7
-0 29 0 2
 0 25 1 6
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36681,8 +36681,8 @@ sendtofree-b d3 n4 n3 n10 n11
 4
 0 5 0 1
 0 24 8 7
-0 29 0 2
 0 25 2 3
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36691,8 +36691,8 @@ sendtofree-b d3 n4 n3 n11 n12
 4
 0 5 0 1
 0 24 8 7
-0 29 0 2
 0 25 3 4
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36701,8 +36701,8 @@ sendtofree-b d3 n4 n3 n12 n13
 4
 0 5 0 1
 0 24 8 7
-0 29 0 2
 0 25 4 5
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36711,8 +36711,8 @@ sendtofree-b d3 n4 n3 n2 n3
 4
 0 5 0 1
 0 24 8 7
-0 29 0 2
 0 25 6 7
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36721,8 +36721,8 @@ sendtofree-b d3 n4 n3 n3 n4
 4
 0 5 0 1
 0 24 8 7
-0 29 0 2
 0 25 7 8
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36731,8 +36731,8 @@ sendtofree-b d3 n4 n3 n4 n5
 4
 0 5 0 1
 0 24 8 7
-0 29 0 2
 0 25 8 9
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36741,8 +36741,8 @@ sendtofree-b d3 n4 n3 n5 n6
 4
 0 5 0 1
 0 24 8 7
-0 29 0 2
 0 25 9 10
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36751,8 +36751,8 @@ sendtofree-b d3 n4 n3 n6 n7
 4
 0 5 0 1
 0 24 8 7
-0 29 0 2
 0 25 10 11
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36761,8 +36761,8 @@ sendtofree-b d3 n4 n3 n7 n8
 4
 0 5 0 1
 0 24 8 7
-0 29 0 2
 0 25 11 12
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36771,8 +36771,8 @@ sendtofree-b d3 n4 n3 n8 n9
 4
 0 5 0 1
 0 24 8 7
-0 29 0 2
 0 25 12 13
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36781,8 +36781,8 @@ sendtofree-b d3 n4 n3 n9 n10
 4
 0 5 0 1
 0 24 8 7
-0 29 0 2
 0 25 13 2
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36791,8 +36791,8 @@ sendtofree-b d3 n5 n4 n0 n1
 4
 0 5 0 1
 0 24 9 8
-0 29 0 2
 0 25 0 1
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36801,8 +36801,8 @@ sendtofree-b d3 n5 n4 n1 n2
 4
 0 5 0 1
 0 24 9 8
-0 29 0 2
 0 25 1 6
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36811,8 +36811,8 @@ sendtofree-b d3 n5 n4 n10 n11
 4
 0 5 0 1
 0 24 9 8
-0 29 0 2
 0 25 2 3
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36821,8 +36821,8 @@ sendtofree-b d3 n5 n4 n11 n12
 4
 0 5 0 1
 0 24 9 8
-0 29 0 2
 0 25 3 4
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36831,8 +36831,8 @@ sendtofree-b d3 n5 n4 n12 n13
 4
 0 5 0 1
 0 24 9 8
-0 29 0 2
 0 25 4 5
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36841,8 +36841,8 @@ sendtofree-b d3 n5 n4 n2 n3
 4
 0 5 0 1
 0 24 9 8
-0 29 0 2
 0 25 6 7
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36851,8 +36851,8 @@ sendtofree-b d3 n5 n4 n3 n4
 4
 0 5 0 1
 0 24 9 8
-0 29 0 2
 0 25 7 8
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36861,8 +36861,8 @@ sendtofree-b d3 n5 n4 n4 n5
 4
 0 5 0 1
 0 24 9 8
-0 29 0 2
 0 25 8 9
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36871,8 +36871,8 @@ sendtofree-b d3 n5 n4 n5 n6
 4
 0 5 0 1
 0 24 9 8
-0 29 0 2
 0 25 9 10
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36881,8 +36881,8 @@ sendtofree-b d3 n5 n4 n6 n7
 4
 0 5 0 1
 0 24 9 8
-0 29 0 2
 0 25 10 11
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36891,8 +36891,8 @@ sendtofree-b d3 n5 n4 n7 n8
 4
 0 5 0 1
 0 24 9 8
-0 29 0 2
 0 25 11 12
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36901,8 +36901,8 @@ sendtofree-b d3 n5 n4 n8 n9
 4
 0 5 0 1
 0 24 9 8
-0 29 0 2
 0 25 12 13
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36911,8 +36911,8 @@ sendtofree-b d3 n5 n4 n9 n10
 4
 0 5 0 1
 0 24 9 8
-0 29 0 2
 0 25 13 2
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36921,8 +36921,8 @@ sendtofree-b d3 n6 n5 n0 n1
 4
 0 5 0 1
 0 24 10 9
-0 29 0 2
 0 25 0 1
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36931,8 +36931,8 @@ sendtofree-b d3 n6 n5 n1 n2
 4
 0 5 0 1
 0 24 10 9
-0 29 0 2
 0 25 1 6
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36941,8 +36941,8 @@ sendtofree-b d3 n6 n5 n10 n11
 4
 0 5 0 1
 0 24 10 9
-0 29 0 2
 0 25 2 3
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36951,8 +36951,8 @@ sendtofree-b d3 n6 n5 n11 n12
 4
 0 5 0 1
 0 24 10 9
-0 29 0 2
 0 25 3 4
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36961,8 +36961,8 @@ sendtofree-b d3 n6 n5 n12 n13
 4
 0 5 0 1
 0 24 10 9
-0 29 0 2
 0 25 4 5
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36971,8 +36971,8 @@ sendtofree-b d3 n6 n5 n2 n3
 4
 0 5 0 1
 0 24 10 9
-0 29 0 2
 0 25 6 7
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36981,8 +36981,8 @@ sendtofree-b d3 n6 n5 n3 n4
 4
 0 5 0 1
 0 24 10 9
-0 29 0 2
 0 25 7 8
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -36991,8 +36991,8 @@ sendtofree-b d3 n6 n5 n4 n5
 4
 0 5 0 1
 0 24 10 9
-0 29 0 2
 0 25 8 9
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37001,8 +37001,8 @@ sendtofree-b d3 n6 n5 n5 n6
 4
 0 5 0 1
 0 24 10 9
-0 29 0 2
 0 25 9 10
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37011,8 +37011,8 @@ sendtofree-b d3 n6 n5 n6 n7
 4
 0 5 0 1
 0 24 10 9
-0 29 0 2
 0 25 10 11
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37021,8 +37021,8 @@ sendtofree-b d3 n6 n5 n7 n8
 4
 0 5 0 1
 0 24 10 9
-0 29 0 2
 0 25 11 12
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37031,8 +37031,8 @@ sendtofree-b d3 n6 n5 n8 n9
 4
 0 5 0 1
 0 24 10 9
-0 29 0 2
 0 25 12 13
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37041,8 +37041,8 @@ sendtofree-b d3 n6 n5 n9 n10
 4
 0 5 0 1
 0 24 10 9
-0 29 0 2
 0 25 13 2
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37051,8 +37051,8 @@ sendtofree-b d3 n7 n6 n0 n1
 4
 0 5 0 1
 0 24 11 10
-0 29 0 2
 0 25 0 1
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37061,8 +37061,8 @@ sendtofree-b d3 n7 n6 n1 n2
 4
 0 5 0 1
 0 24 11 10
-0 29 0 2
 0 25 1 6
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37071,8 +37071,8 @@ sendtofree-b d3 n7 n6 n10 n11
 4
 0 5 0 1
 0 24 11 10
-0 29 0 2
 0 25 2 3
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37081,8 +37081,8 @@ sendtofree-b d3 n7 n6 n11 n12
 4
 0 5 0 1
 0 24 11 10
-0 29 0 2
 0 25 3 4
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37091,8 +37091,8 @@ sendtofree-b d3 n7 n6 n12 n13
 4
 0 5 0 1
 0 24 11 10
-0 29 0 2
 0 25 4 5
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37101,8 +37101,8 @@ sendtofree-b d3 n7 n6 n2 n3
 4
 0 5 0 1
 0 24 11 10
-0 29 0 2
 0 25 6 7
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37111,8 +37111,8 @@ sendtofree-b d3 n7 n6 n3 n4
 4
 0 5 0 1
 0 24 11 10
-0 29 0 2
 0 25 7 8
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37121,8 +37121,8 @@ sendtofree-b d3 n7 n6 n4 n5
 4
 0 5 0 1
 0 24 11 10
-0 29 0 2
 0 25 8 9
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37131,8 +37131,8 @@ sendtofree-b d3 n7 n6 n5 n6
 4
 0 5 0 1
 0 24 11 10
-0 29 0 2
 0 25 9 10
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37141,8 +37141,8 @@ sendtofree-b d3 n7 n6 n6 n7
 4
 0 5 0 1
 0 24 11 10
-0 29 0 2
 0 25 10 11
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37151,8 +37151,8 @@ sendtofree-b d3 n7 n6 n7 n8
 4
 0 5 0 1
 0 24 11 10
-0 29 0 2
 0 25 11 12
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37161,8 +37161,8 @@ sendtofree-b d3 n7 n6 n8 n9
 4
 0 5 0 1
 0 24 11 10
-0 29 0 2
 0 25 12 13
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37171,8 +37171,8 @@ sendtofree-b d3 n7 n6 n9 n10
 4
 0 5 0 1
 0 24 11 10
-0 29 0 2
 0 25 13 2
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37181,8 +37181,8 @@ sendtofree-b d3 n8 n7 n0 n1
 4
 0 5 0 1
 0 24 12 11
-0 29 0 2
 0 25 0 1
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37191,8 +37191,8 @@ sendtofree-b d3 n8 n7 n1 n2
 4
 0 5 0 1
 0 24 12 11
-0 29 0 2
 0 25 1 6
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37201,8 +37201,8 @@ sendtofree-b d3 n8 n7 n10 n11
 4
 0 5 0 1
 0 24 12 11
-0 29 0 2
 0 25 2 3
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37211,8 +37211,8 @@ sendtofree-b d3 n8 n7 n11 n12
 4
 0 5 0 1
 0 24 12 11
-0 29 0 2
 0 25 3 4
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37221,8 +37221,8 @@ sendtofree-b d3 n8 n7 n12 n13
 4
 0 5 0 1
 0 24 12 11
-0 29 0 2
 0 25 4 5
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37231,8 +37231,8 @@ sendtofree-b d3 n8 n7 n2 n3
 4
 0 5 0 1
 0 24 12 11
-0 29 0 2
 0 25 6 7
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37241,8 +37241,8 @@ sendtofree-b d3 n8 n7 n3 n4
 4
 0 5 0 1
 0 24 12 11
-0 29 0 2
 0 25 7 8
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37251,8 +37251,8 @@ sendtofree-b d3 n8 n7 n4 n5
 4
 0 5 0 1
 0 24 12 11
-0 29 0 2
 0 25 8 9
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37261,8 +37261,8 @@ sendtofree-b d3 n8 n7 n5 n6
 4
 0 5 0 1
 0 24 12 11
-0 29 0 2
 0 25 9 10
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37271,8 +37271,8 @@ sendtofree-b d3 n8 n7 n6 n7
 4
 0 5 0 1
 0 24 12 11
-0 29 0 2
 0 25 10 11
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37281,8 +37281,8 @@ sendtofree-b d3 n8 n7 n7 n8
 4
 0 5 0 1
 0 24 12 11
-0 29 0 2
 0 25 11 12
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37291,8 +37291,8 @@ sendtofree-b d3 n8 n7 n8 n9
 4
 0 5 0 1
 0 24 12 11
-0 29 0 2
 0 25 12 13
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37301,8 +37301,8 @@ sendtofree-b d3 n8 n7 n9 n10
 4
 0 5 0 1
 0 24 12 11
-0 29 0 2
 0 25 13 2
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37311,8 +37311,8 @@ sendtofree-b d3 n9 n8 n0 n1
 4
 0 5 0 1
 0 24 13 12
-0 29 0 2
 0 25 0 1
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37321,8 +37321,8 @@ sendtofree-b d3 n9 n8 n1 n2
 4
 0 5 0 1
 0 24 13 12
-0 29 0 2
 0 25 1 6
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37331,8 +37331,8 @@ sendtofree-b d3 n9 n8 n10 n11
 4
 0 5 0 1
 0 24 13 12
-0 29 0 2
 0 25 2 3
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37341,8 +37341,8 @@ sendtofree-b d3 n9 n8 n11 n12
 4
 0 5 0 1
 0 24 13 12
-0 29 0 2
 0 25 3 4
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37351,8 +37351,8 @@ sendtofree-b d3 n9 n8 n12 n13
 4
 0 5 0 1
 0 24 13 12
-0 29 0 2
 0 25 4 5
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37361,8 +37361,8 @@ sendtofree-b d3 n9 n8 n2 n3
 4
 0 5 0 1
 0 24 13 12
-0 29 0 2
 0 25 6 7
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37371,8 +37371,8 @@ sendtofree-b d3 n9 n8 n3 n4
 4
 0 5 0 1
 0 24 13 12
-0 29 0 2
 0 25 7 8
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37381,8 +37381,8 @@ sendtofree-b d3 n9 n8 n4 n5
 4
 0 5 0 1
 0 24 13 12
-0 29 0 2
 0 25 8 9
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37391,8 +37391,8 @@ sendtofree-b d3 n9 n8 n5 n6
 4
 0 5 0 1
 0 24 13 12
-0 29 0 2
 0 25 9 10
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37401,8 +37401,8 @@ sendtofree-b d3 n9 n8 n6 n7
 4
 0 5 0 1
 0 24 13 12
-0 29 0 2
 0 25 10 11
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37411,8 +37411,8 @@ sendtofree-b d3 n9 n8 n7 n8
 4
 0 5 0 1
 0 24 13 12
-0 29 0 2
 0 25 11 12
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37421,8 +37421,8 @@ sendtofree-b d3 n9 n8 n8 n9
 4
 0 5 0 1
 0 24 13 12
-0 29 0 2
 0 25 12 13
+0 29 0 2
 1
 end_operator
 begin_operator
@@ -37431,17 +37431,17 @@ sendtofree-b d3 n9 n8 n9 n10
 4
 0 5 0 1
 0 24 13 12
-0 29 0 2
 0 25 13 2
+0 29 0 2
 1
 end_operator
 begin_operator
 sendtofree-b da n1 n0 n0 n1
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 1 0
-0 14 0 1
 0 25 0 1
 1
 end_operator
@@ -37449,9 +37449,9 @@ begin_operator
 sendtofree-b da n1 n0 n1 n2
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 1 0
-0 14 0 1
 0 25 1 6
 1
 end_operator
@@ -37459,9 +37459,9 @@ begin_operator
 sendtofree-b da n1 n0 n10 n11
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 1 0
-0 14 0 1
 0 25 2 3
 1
 end_operator
@@ -37469,9 +37469,9 @@ begin_operator
 sendtofree-b da n1 n0 n11 n12
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 1 0
-0 14 0 1
 0 25 3 4
 1
 end_operator
@@ -37479,9 +37479,9 @@ begin_operator
 sendtofree-b da n1 n0 n12 n13
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 1 0
-0 14 0 1
 0 25 4 5
 1
 end_operator
@@ -37489,9 +37489,9 @@ begin_operator
 sendtofree-b da n1 n0 n2 n3
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 1 0
-0 14 0 1
 0 25 6 7
 1
 end_operator
@@ -37499,9 +37499,9 @@ begin_operator
 sendtofree-b da n1 n0 n3 n4
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 1 0
-0 14 0 1
 0 25 7 8
 1
 end_operator
@@ -37509,9 +37509,9 @@ begin_operator
 sendtofree-b da n1 n0 n4 n5
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 1 0
-0 14 0 1
 0 25 8 9
 1
 end_operator
@@ -37519,9 +37519,9 @@ begin_operator
 sendtofree-b da n1 n0 n5 n6
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 1 0
-0 14 0 1
 0 25 9 10
 1
 end_operator
@@ -37529,9 +37529,9 @@ begin_operator
 sendtofree-b da n1 n0 n6 n7
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 1 0
-0 14 0 1
 0 25 10 11
 1
 end_operator
@@ -37539,9 +37539,9 @@ begin_operator
 sendtofree-b da n1 n0 n7 n8
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 1 0
-0 14 0 1
 0 25 11 12
 1
 end_operator
@@ -37549,9 +37549,9 @@ begin_operator
 sendtofree-b da n1 n0 n8 n9
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 1 0
-0 14 0 1
 0 25 12 13
 1
 end_operator
@@ -37559,9 +37559,9 @@ begin_operator
 sendtofree-b da n1 n0 n9 n10
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 1 0
-0 14 0 1
 0 25 13 2
 1
 end_operator
@@ -37569,9 +37569,9 @@ begin_operator
 sendtofree-b da n10 n9 n0 n1
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 2 13
-0 14 0 1
 0 25 0 1
 1
 end_operator
@@ -37579,9 +37579,9 @@ begin_operator
 sendtofree-b da n10 n9 n1 n2
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 2 13
-0 14 0 1
 0 25 1 6
 1
 end_operator
@@ -37589,9 +37589,9 @@ begin_operator
 sendtofree-b da n10 n9 n10 n11
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 2 13
-0 14 0 1
 0 25 2 3
 1
 end_operator
@@ -37599,9 +37599,9 @@ begin_operator
 sendtofree-b da n10 n9 n11 n12
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 2 13
-0 14 0 1
 0 25 3 4
 1
 end_operator
@@ -37609,9 +37609,9 @@ begin_operator
 sendtofree-b da n10 n9 n12 n13
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 2 13
-0 14 0 1
 0 25 4 5
 1
 end_operator
@@ -37619,9 +37619,9 @@ begin_operator
 sendtofree-b da n10 n9 n2 n3
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 2 13
-0 14 0 1
 0 25 6 7
 1
 end_operator
@@ -37629,9 +37629,9 @@ begin_operator
 sendtofree-b da n10 n9 n3 n4
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 2 13
-0 14 0 1
 0 25 7 8
 1
 end_operator
@@ -37639,9 +37639,9 @@ begin_operator
 sendtofree-b da n10 n9 n4 n5
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 2 13
-0 14 0 1
 0 25 8 9
 1
 end_operator
@@ -37649,9 +37649,9 @@ begin_operator
 sendtofree-b da n10 n9 n5 n6
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 2 13
-0 14 0 1
 0 25 9 10
 1
 end_operator
@@ -37659,9 +37659,9 @@ begin_operator
 sendtofree-b da n10 n9 n6 n7
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 2 13
-0 14 0 1
 0 25 10 11
 1
 end_operator
@@ -37669,9 +37669,9 @@ begin_operator
 sendtofree-b da n10 n9 n7 n8
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 2 13
-0 14 0 1
 0 25 11 12
 1
 end_operator
@@ -37679,9 +37679,9 @@ begin_operator
 sendtofree-b da n10 n9 n8 n9
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 2 13
-0 14 0 1
 0 25 12 13
 1
 end_operator
@@ -37689,9 +37689,9 @@ begin_operator
 sendtofree-b da n10 n9 n9 n10
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 2 13
-0 14 0 1
 0 25 13 2
 1
 end_operator
@@ -37699,9 +37699,9 @@ begin_operator
 sendtofree-b da n11 n10 n0 n1
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 3 2
-0 14 0 1
 0 25 0 1
 1
 end_operator
@@ -37709,9 +37709,9 @@ begin_operator
 sendtofree-b da n11 n10 n1 n2
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 3 2
-0 14 0 1
 0 25 1 6
 1
 end_operator
@@ -37719,9 +37719,9 @@ begin_operator
 sendtofree-b da n11 n10 n10 n11
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 3 2
-0 14 0 1
 0 25 2 3
 1
 end_operator
@@ -37729,9 +37729,9 @@ begin_operator
 sendtofree-b da n11 n10 n11 n12
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 3 2
-0 14 0 1
 0 25 3 4
 1
 end_operator
@@ -37739,9 +37739,9 @@ begin_operator
 sendtofree-b da n11 n10 n12 n13
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 3 2
-0 14 0 1
 0 25 4 5
 1
 end_operator
@@ -37749,9 +37749,9 @@ begin_operator
 sendtofree-b da n11 n10 n2 n3
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 3 2
-0 14 0 1
 0 25 6 7
 1
 end_operator
@@ -37759,9 +37759,9 @@ begin_operator
 sendtofree-b da n11 n10 n3 n4
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 3 2
-0 14 0 1
 0 25 7 8
 1
 end_operator
@@ -37769,9 +37769,9 @@ begin_operator
 sendtofree-b da n11 n10 n4 n5
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 3 2
-0 14 0 1
 0 25 8 9
 1
 end_operator
@@ -37779,9 +37779,9 @@ begin_operator
 sendtofree-b da n11 n10 n5 n6
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 3 2
-0 14 0 1
 0 25 9 10
 1
 end_operator
@@ -37789,9 +37789,9 @@ begin_operator
 sendtofree-b da n11 n10 n6 n7
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 3 2
-0 14 0 1
 0 25 10 11
 1
 end_operator
@@ -37799,9 +37799,9 @@ begin_operator
 sendtofree-b da n11 n10 n7 n8
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 3 2
-0 14 0 1
 0 25 11 12
 1
 end_operator
@@ -37809,9 +37809,9 @@ begin_operator
 sendtofree-b da n11 n10 n8 n9
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 3 2
-0 14 0 1
 0 25 12 13
 1
 end_operator
@@ -37819,9 +37819,9 @@ begin_operator
 sendtofree-b da n11 n10 n9 n10
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 3 2
-0 14 0 1
 0 25 13 2
 1
 end_operator
@@ -37829,9 +37829,9 @@ begin_operator
 sendtofree-b da n12 n11 n0 n1
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 4 3
-0 14 0 1
 0 25 0 1
 1
 end_operator
@@ -37839,9 +37839,9 @@ begin_operator
 sendtofree-b da n12 n11 n1 n2
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 4 3
-0 14 0 1
 0 25 1 6
 1
 end_operator
@@ -37849,9 +37849,9 @@ begin_operator
 sendtofree-b da n12 n11 n10 n11
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 4 3
-0 14 0 1
 0 25 2 3
 1
 end_operator
@@ -37859,9 +37859,9 @@ begin_operator
 sendtofree-b da n12 n11 n11 n12
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 4 3
-0 14 0 1
 0 25 3 4
 1
 end_operator
@@ -37869,9 +37869,9 @@ begin_operator
 sendtofree-b da n12 n11 n12 n13
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 4 3
-0 14 0 1
 0 25 4 5
 1
 end_operator
@@ -37879,9 +37879,9 @@ begin_operator
 sendtofree-b da n12 n11 n2 n3
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 4 3
-0 14 0 1
 0 25 6 7
 1
 end_operator
@@ -37889,9 +37889,9 @@ begin_operator
 sendtofree-b da n12 n11 n3 n4
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 4 3
-0 14 0 1
 0 25 7 8
 1
 end_operator
@@ -37899,9 +37899,9 @@ begin_operator
 sendtofree-b da n12 n11 n4 n5
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 4 3
-0 14 0 1
 0 25 8 9
 1
 end_operator
@@ -37909,9 +37909,9 @@ begin_operator
 sendtofree-b da n12 n11 n5 n6
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 4 3
-0 14 0 1
 0 25 9 10
 1
 end_operator
@@ -37919,9 +37919,9 @@ begin_operator
 sendtofree-b da n12 n11 n6 n7
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 4 3
-0 14 0 1
 0 25 10 11
 1
 end_operator
@@ -37929,9 +37929,9 @@ begin_operator
 sendtofree-b da n12 n11 n7 n8
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 4 3
-0 14 0 1
 0 25 11 12
 1
 end_operator
@@ -37939,9 +37939,9 @@ begin_operator
 sendtofree-b da n12 n11 n8 n9
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 4 3
-0 14 0 1
 0 25 12 13
 1
 end_operator
@@ -37949,9 +37949,9 @@ begin_operator
 sendtofree-b da n12 n11 n9 n10
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 4 3
-0 14 0 1
 0 25 13 2
 1
 end_operator
@@ -37959,9 +37959,9 @@ begin_operator
 sendtofree-b da n13 n12 n0 n1
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 5 4
-0 14 0 1
 0 25 0 1
 1
 end_operator
@@ -37969,9 +37969,9 @@ begin_operator
 sendtofree-b da n13 n12 n1 n2
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 5 4
-0 14 0 1
 0 25 1 6
 1
 end_operator
@@ -37979,9 +37979,9 @@ begin_operator
 sendtofree-b da n13 n12 n10 n11
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 5 4
-0 14 0 1
 0 25 2 3
 1
 end_operator
@@ -37989,9 +37989,9 @@ begin_operator
 sendtofree-b da n13 n12 n11 n12
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 5 4
-0 14 0 1
 0 25 3 4
 1
 end_operator
@@ -37999,9 +37999,9 @@ begin_operator
 sendtofree-b da n13 n12 n12 n13
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 5 4
-0 14 0 1
 0 25 4 5
 1
 end_operator
@@ -38009,9 +38009,9 @@ begin_operator
 sendtofree-b da n13 n12 n2 n3
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 5 4
-0 14 0 1
 0 25 6 7
 1
 end_operator
@@ -38019,9 +38019,9 @@ begin_operator
 sendtofree-b da n13 n12 n3 n4
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 5 4
-0 14 0 1
 0 25 7 8
 1
 end_operator
@@ -38029,9 +38029,9 @@ begin_operator
 sendtofree-b da n13 n12 n4 n5
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 5 4
-0 14 0 1
 0 25 8 9
 1
 end_operator
@@ -38039,9 +38039,9 @@ begin_operator
 sendtofree-b da n13 n12 n5 n6
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 5 4
-0 14 0 1
 0 25 9 10
 1
 end_operator
@@ -38049,9 +38049,9 @@ begin_operator
 sendtofree-b da n13 n12 n6 n7
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 5 4
-0 14 0 1
 0 25 10 11
 1
 end_operator
@@ -38059,9 +38059,9 @@ begin_operator
 sendtofree-b da n13 n12 n7 n8
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 5 4
-0 14 0 1
 0 25 11 12
 1
 end_operator
@@ -38069,9 +38069,9 @@ begin_operator
 sendtofree-b da n13 n12 n8 n9
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 5 4
-0 14 0 1
 0 25 12 13
 1
 end_operator
@@ -38079,9 +38079,9 @@ begin_operator
 sendtofree-b da n13 n12 n9 n10
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 5 4
-0 14 0 1
 0 25 13 2
 1
 end_operator
@@ -38089,9 +38089,9 @@ begin_operator
 sendtofree-b da n2 n1 n0 n1
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 6 1
-0 14 0 1
 0 25 0 1
 1
 end_operator
@@ -38099,9 +38099,9 @@ begin_operator
 sendtofree-b da n2 n1 n1 n2
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 6 1
-0 14 0 1
 0 25 1 6
 1
 end_operator
@@ -38109,9 +38109,9 @@ begin_operator
 sendtofree-b da n2 n1 n10 n11
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 6 1
-0 14 0 1
 0 25 2 3
 1
 end_operator
@@ -38119,9 +38119,9 @@ begin_operator
 sendtofree-b da n2 n1 n11 n12
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 6 1
-0 14 0 1
 0 25 3 4
 1
 end_operator
@@ -38129,9 +38129,9 @@ begin_operator
 sendtofree-b da n2 n1 n12 n13
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 6 1
-0 14 0 1
 0 25 4 5
 1
 end_operator
@@ -38139,9 +38139,9 @@ begin_operator
 sendtofree-b da n2 n1 n2 n3
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 6 1
-0 14 0 1
 0 25 6 7
 1
 end_operator
@@ -38149,9 +38149,9 @@ begin_operator
 sendtofree-b da n2 n1 n3 n4
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 6 1
-0 14 0 1
 0 25 7 8
 1
 end_operator
@@ -38159,9 +38159,9 @@ begin_operator
 sendtofree-b da n2 n1 n4 n5
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 6 1
-0 14 0 1
 0 25 8 9
 1
 end_operator
@@ -38169,9 +38169,9 @@ begin_operator
 sendtofree-b da n2 n1 n5 n6
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 6 1
-0 14 0 1
 0 25 9 10
 1
 end_operator
@@ -38179,9 +38179,9 @@ begin_operator
 sendtofree-b da n2 n1 n6 n7
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 6 1
-0 14 0 1
 0 25 10 11
 1
 end_operator
@@ -38189,9 +38189,9 @@ begin_operator
 sendtofree-b da n2 n1 n7 n8
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 6 1
-0 14 0 1
 0 25 11 12
 1
 end_operator
@@ -38199,9 +38199,9 @@ begin_operator
 sendtofree-b da n2 n1 n8 n9
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 6 1
-0 14 0 1
 0 25 12 13
 1
 end_operator
@@ -38209,9 +38209,9 @@ begin_operator
 sendtofree-b da n2 n1 n9 n10
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 6 1
-0 14 0 1
 0 25 13 2
 1
 end_operator
@@ -38219,9 +38219,9 @@ begin_operator
 sendtofree-b da n3 n2 n0 n1
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 7 6
-0 14 0 1
 0 25 0 1
 1
 end_operator
@@ -38229,9 +38229,9 @@ begin_operator
 sendtofree-b da n3 n2 n1 n2
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 7 6
-0 14 0 1
 0 25 1 6
 1
 end_operator
@@ -38239,9 +38239,9 @@ begin_operator
 sendtofree-b da n3 n2 n10 n11
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 7 6
-0 14 0 1
 0 25 2 3
 1
 end_operator
@@ -38249,9 +38249,9 @@ begin_operator
 sendtofree-b da n3 n2 n11 n12
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 7 6
-0 14 0 1
 0 25 3 4
 1
 end_operator
@@ -38259,9 +38259,9 @@ begin_operator
 sendtofree-b da n3 n2 n12 n13
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 7 6
-0 14 0 1
 0 25 4 5
 1
 end_operator
@@ -38269,9 +38269,9 @@ begin_operator
 sendtofree-b da n3 n2 n2 n3
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 7 6
-0 14 0 1
 0 25 6 7
 1
 end_operator
@@ -38279,9 +38279,9 @@ begin_operator
 sendtofree-b da n3 n2 n3 n4
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 7 6
-0 14 0 1
 0 25 7 8
 1
 end_operator
@@ -38289,9 +38289,9 @@ begin_operator
 sendtofree-b da n3 n2 n4 n5
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 7 6
-0 14 0 1
 0 25 8 9
 1
 end_operator
@@ -38299,9 +38299,9 @@ begin_operator
 sendtofree-b da n3 n2 n5 n6
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 7 6
-0 14 0 1
 0 25 9 10
 1
 end_operator
@@ -38309,9 +38309,9 @@ begin_operator
 sendtofree-b da n3 n2 n6 n7
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 7 6
-0 14 0 1
 0 25 10 11
 1
 end_operator
@@ -38319,9 +38319,9 @@ begin_operator
 sendtofree-b da n3 n2 n7 n8
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 7 6
-0 14 0 1
 0 25 11 12
 1
 end_operator
@@ -38329,9 +38329,9 @@ begin_operator
 sendtofree-b da n3 n2 n8 n9
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 7 6
-0 14 0 1
 0 25 12 13
 1
 end_operator
@@ -38339,9 +38339,9 @@ begin_operator
 sendtofree-b da n3 n2 n9 n10
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 7 6
-0 14 0 1
 0 25 13 2
 1
 end_operator
@@ -38349,9 +38349,9 @@ begin_operator
 sendtofree-b da n4 n3 n0 n1
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 8 7
-0 14 0 1
 0 25 0 1
 1
 end_operator
@@ -38359,9 +38359,9 @@ begin_operator
 sendtofree-b da n4 n3 n1 n2
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 8 7
-0 14 0 1
 0 25 1 6
 1
 end_operator
@@ -38369,9 +38369,9 @@ begin_operator
 sendtofree-b da n4 n3 n10 n11
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 8 7
-0 14 0 1
 0 25 2 3
 1
 end_operator
@@ -38379,9 +38379,9 @@ begin_operator
 sendtofree-b da n4 n3 n11 n12
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 8 7
-0 14 0 1
 0 25 3 4
 1
 end_operator
@@ -38389,9 +38389,9 @@ begin_operator
 sendtofree-b da n4 n3 n12 n13
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 8 7
-0 14 0 1
 0 25 4 5
 1
 end_operator
@@ -38399,9 +38399,9 @@ begin_operator
 sendtofree-b da n4 n3 n2 n3
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 8 7
-0 14 0 1
 0 25 6 7
 1
 end_operator
@@ -38409,9 +38409,9 @@ begin_operator
 sendtofree-b da n4 n3 n3 n4
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 8 7
-0 14 0 1
 0 25 7 8
 1
 end_operator
@@ -38419,9 +38419,9 @@ begin_operator
 sendtofree-b da n4 n3 n4 n5
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 8 7
-0 14 0 1
 0 25 8 9
 1
 end_operator
@@ -38429,9 +38429,9 @@ begin_operator
 sendtofree-b da n4 n3 n5 n6
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 8 7
-0 14 0 1
 0 25 9 10
 1
 end_operator
@@ -38439,9 +38439,9 @@ begin_operator
 sendtofree-b da n4 n3 n6 n7
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 8 7
-0 14 0 1
 0 25 10 11
 1
 end_operator
@@ -38449,9 +38449,9 @@ begin_operator
 sendtofree-b da n4 n3 n7 n8
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 8 7
-0 14 0 1
 0 25 11 12
 1
 end_operator
@@ -38459,9 +38459,9 @@ begin_operator
 sendtofree-b da n4 n3 n8 n9
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 8 7
-0 14 0 1
 0 25 12 13
 1
 end_operator
@@ -38469,9 +38469,9 @@ begin_operator
 sendtofree-b da n4 n3 n9 n10
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 8 7
-0 14 0 1
 0 25 13 2
 1
 end_operator
@@ -38479,9 +38479,9 @@ begin_operator
 sendtofree-b da n5 n4 n0 n1
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 9 8
-0 14 0 1
 0 25 0 1
 1
 end_operator
@@ -38489,9 +38489,9 @@ begin_operator
 sendtofree-b da n5 n4 n1 n2
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 9 8
-0 14 0 1
 0 25 1 6
 1
 end_operator
@@ -38499,9 +38499,9 @@ begin_operator
 sendtofree-b da n5 n4 n10 n11
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 9 8
-0 14 0 1
 0 25 2 3
 1
 end_operator
@@ -38509,9 +38509,9 @@ begin_operator
 sendtofree-b da n5 n4 n11 n12
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 9 8
-0 14 0 1
 0 25 3 4
 1
 end_operator
@@ -38519,9 +38519,9 @@ begin_operator
 sendtofree-b da n5 n4 n12 n13
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 9 8
-0 14 0 1
 0 25 4 5
 1
 end_operator
@@ -38529,9 +38529,9 @@ begin_operator
 sendtofree-b da n5 n4 n2 n3
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 9 8
-0 14 0 1
 0 25 6 7
 1
 end_operator
@@ -38539,9 +38539,9 @@ begin_operator
 sendtofree-b da n5 n4 n3 n4
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 9 8
-0 14 0 1
 0 25 7 8
 1
 end_operator
@@ -38549,9 +38549,9 @@ begin_operator
 sendtofree-b da n5 n4 n4 n5
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 9 8
-0 14 0 1
 0 25 8 9
 1
 end_operator
@@ -38559,9 +38559,9 @@ begin_operator
 sendtofree-b da n5 n4 n5 n6
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 9 8
-0 14 0 1
 0 25 9 10
 1
 end_operator
@@ -38569,9 +38569,9 @@ begin_operator
 sendtofree-b da n5 n4 n6 n7
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 9 8
-0 14 0 1
 0 25 10 11
 1
 end_operator
@@ -38579,9 +38579,9 @@ begin_operator
 sendtofree-b da n5 n4 n7 n8
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 9 8
-0 14 0 1
 0 25 11 12
 1
 end_operator
@@ -38589,9 +38589,9 @@ begin_operator
 sendtofree-b da n5 n4 n8 n9
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 9 8
-0 14 0 1
 0 25 12 13
 1
 end_operator
@@ -38599,9 +38599,9 @@ begin_operator
 sendtofree-b da n5 n4 n9 n10
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 9 8
-0 14 0 1
 0 25 13 2
 1
 end_operator
@@ -38609,9 +38609,9 @@ begin_operator
 sendtofree-b da n6 n5 n0 n1
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 10 9
-0 14 0 1
 0 25 0 1
 1
 end_operator
@@ -38619,9 +38619,9 @@ begin_operator
 sendtofree-b da n6 n5 n1 n2
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 10 9
-0 14 0 1
 0 25 1 6
 1
 end_operator
@@ -38629,9 +38629,9 @@ begin_operator
 sendtofree-b da n6 n5 n10 n11
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 10 9
-0 14 0 1
 0 25 2 3
 1
 end_operator
@@ -38639,9 +38639,9 @@ begin_operator
 sendtofree-b da n6 n5 n11 n12
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 10 9
-0 14 0 1
 0 25 3 4
 1
 end_operator
@@ -38649,9 +38649,9 @@ begin_operator
 sendtofree-b da n6 n5 n12 n13
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 10 9
-0 14 0 1
 0 25 4 5
 1
 end_operator
@@ -38659,9 +38659,9 @@ begin_operator
 sendtofree-b da n6 n5 n2 n3
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 10 9
-0 14 0 1
 0 25 6 7
 1
 end_operator
@@ -38669,9 +38669,9 @@ begin_operator
 sendtofree-b da n6 n5 n3 n4
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 10 9
-0 14 0 1
 0 25 7 8
 1
 end_operator
@@ -38679,9 +38679,9 @@ begin_operator
 sendtofree-b da n6 n5 n4 n5
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 10 9
-0 14 0 1
 0 25 8 9
 1
 end_operator
@@ -38689,9 +38689,9 @@ begin_operator
 sendtofree-b da n6 n5 n5 n6
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 10 9
-0 14 0 1
 0 25 9 10
 1
 end_operator
@@ -38699,9 +38699,9 @@ begin_operator
 sendtofree-b da n6 n5 n6 n7
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 10 9
-0 14 0 1
 0 25 10 11
 1
 end_operator
@@ -38709,9 +38709,9 @@ begin_operator
 sendtofree-b da n6 n5 n7 n8
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 10 9
-0 14 0 1
 0 25 11 12
 1
 end_operator
@@ -38719,9 +38719,9 @@ begin_operator
 sendtofree-b da n6 n5 n8 n9
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 10 9
-0 14 0 1
 0 25 12 13
 1
 end_operator
@@ -38729,9 +38729,9 @@ begin_operator
 sendtofree-b da n6 n5 n9 n10
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 10 9
-0 14 0 1
 0 25 13 2
 1
 end_operator
@@ -38739,9 +38739,9 @@ begin_operator
 sendtofree-b da n7 n6 n0 n1
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 11 10
-0 14 0 1
 0 25 0 1
 1
 end_operator
@@ -38749,9 +38749,9 @@ begin_operator
 sendtofree-b da n7 n6 n1 n2
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 11 10
-0 14 0 1
 0 25 1 6
 1
 end_operator
@@ -38759,9 +38759,9 @@ begin_operator
 sendtofree-b da n7 n6 n10 n11
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 11 10
-0 14 0 1
 0 25 2 3
 1
 end_operator
@@ -38769,9 +38769,9 @@ begin_operator
 sendtofree-b da n7 n6 n11 n12
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 11 10
-0 14 0 1
 0 25 3 4
 1
 end_operator
@@ -38779,9 +38779,9 @@ begin_operator
 sendtofree-b da n7 n6 n12 n13
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 11 10
-0 14 0 1
 0 25 4 5
 1
 end_operator
@@ -38789,9 +38789,9 @@ begin_operator
 sendtofree-b da n7 n6 n2 n3
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 11 10
-0 14 0 1
 0 25 6 7
 1
 end_operator
@@ -38799,9 +38799,9 @@ begin_operator
 sendtofree-b da n7 n6 n3 n4
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 11 10
-0 14 0 1
 0 25 7 8
 1
 end_operator
@@ -38809,9 +38809,9 @@ begin_operator
 sendtofree-b da n7 n6 n4 n5
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 11 10
-0 14 0 1
 0 25 8 9
 1
 end_operator
@@ -38819,9 +38819,9 @@ begin_operator
 sendtofree-b da n7 n6 n5 n6
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 11 10
-0 14 0 1
 0 25 9 10
 1
 end_operator
@@ -38829,9 +38829,9 @@ begin_operator
 sendtofree-b da n7 n6 n6 n7
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 11 10
-0 14 0 1
 0 25 10 11
 1
 end_operator
@@ -38839,9 +38839,9 @@ begin_operator
 sendtofree-b da n7 n6 n7 n8
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 11 10
-0 14 0 1
 0 25 11 12
 1
 end_operator
@@ -38849,9 +38849,9 @@ begin_operator
 sendtofree-b da n7 n6 n8 n9
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 11 10
-0 14 0 1
 0 25 12 13
 1
 end_operator
@@ -38859,9 +38859,9 @@ begin_operator
 sendtofree-b da n7 n6 n9 n10
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 11 10
-0 14 0 1
 0 25 13 2
 1
 end_operator
@@ -38869,9 +38869,9 @@ begin_operator
 sendtofree-b da n8 n7 n0 n1
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 12 11
-0 14 0 1
 0 25 0 1
 1
 end_operator
@@ -38879,9 +38879,9 @@ begin_operator
 sendtofree-b da n8 n7 n1 n2
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 12 11
-0 14 0 1
 0 25 1 6
 1
 end_operator
@@ -38889,9 +38889,9 @@ begin_operator
 sendtofree-b da n8 n7 n10 n11
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 12 11
-0 14 0 1
 0 25 2 3
 1
 end_operator
@@ -38899,9 +38899,9 @@ begin_operator
 sendtofree-b da n8 n7 n11 n12
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 12 11
-0 14 0 1
 0 25 3 4
 1
 end_operator
@@ -38909,9 +38909,9 @@ begin_operator
 sendtofree-b da n8 n7 n12 n13
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 12 11
-0 14 0 1
 0 25 4 5
 1
 end_operator
@@ -38919,9 +38919,9 @@ begin_operator
 sendtofree-b da n8 n7 n2 n3
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 12 11
-0 14 0 1
 0 25 6 7
 1
 end_operator
@@ -38929,9 +38929,9 @@ begin_operator
 sendtofree-b da n8 n7 n3 n4
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 12 11
-0 14 0 1
 0 25 7 8
 1
 end_operator
@@ -38939,9 +38939,9 @@ begin_operator
 sendtofree-b da n8 n7 n4 n5
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 12 11
-0 14 0 1
 0 25 8 9
 1
 end_operator
@@ -38949,9 +38949,9 @@ begin_operator
 sendtofree-b da n8 n7 n5 n6
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 12 11
-0 14 0 1
 0 25 9 10
 1
 end_operator
@@ -38959,9 +38959,9 @@ begin_operator
 sendtofree-b da n8 n7 n6 n7
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 12 11
-0 14 0 1
 0 25 10 11
 1
 end_operator
@@ -38969,9 +38969,9 @@ begin_operator
 sendtofree-b da n8 n7 n7 n8
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 12 11
-0 14 0 1
 0 25 11 12
 1
 end_operator
@@ -38979,9 +38979,9 @@ begin_operator
 sendtofree-b da n8 n7 n8 n9
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 12 11
-0 14 0 1
 0 25 12 13
 1
 end_operator
@@ -38989,9 +38989,9 @@ begin_operator
 sendtofree-b da n8 n7 n9 n10
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 12 11
-0 14 0 1
 0 25 13 2
 1
 end_operator
@@ -38999,9 +38999,9 @@ begin_operator
 sendtofree-b da n9 n8 n0 n1
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 13 12
-0 14 0 1
 0 25 0 1
 1
 end_operator
@@ -39009,9 +39009,9 @@ begin_operator
 sendtofree-b da n9 n8 n1 n2
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 13 12
-0 14 0 1
 0 25 1 6
 1
 end_operator
@@ -39019,9 +39019,9 @@ begin_operator
 sendtofree-b da n9 n8 n10 n11
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 13 12
-0 14 0 1
 0 25 2 3
 1
 end_operator
@@ -39029,9 +39029,9 @@ begin_operator
 sendtofree-b da n9 n8 n11 n12
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 13 12
-0 14 0 1
 0 25 3 4
 1
 end_operator
@@ -39039,9 +39039,9 @@ begin_operator
 sendtofree-b da n9 n8 n12 n13
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 13 12
-0 14 0 1
 0 25 4 5
 1
 end_operator
@@ -39049,9 +39049,9 @@ begin_operator
 sendtofree-b da n9 n8 n2 n3
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 13 12
-0 14 0 1
 0 25 6 7
 1
 end_operator
@@ -39059,9 +39059,9 @@ begin_operator
 sendtofree-b da n9 n8 n3 n4
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 13 12
-0 14 0 1
 0 25 7 8
 1
 end_operator
@@ -39069,9 +39069,9 @@ begin_operator
 sendtofree-b da n9 n8 n4 n5
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 13 12
-0 14 0 1
 0 25 8 9
 1
 end_operator
@@ -39079,9 +39079,9 @@ begin_operator
 sendtofree-b da n9 n8 n5 n6
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 13 12
-0 14 0 1
 0 25 9 10
 1
 end_operator
@@ -39089,9 +39089,9 @@ begin_operator
 sendtofree-b da n9 n8 n6 n7
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 13 12
-0 14 0 1
 0 25 10 11
 1
 end_operator
@@ -39099,9 +39099,9 @@ begin_operator
 sendtofree-b da n9 n8 n7 n8
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 13 12
-0 14 0 1
 0 25 11 12
 1
 end_operator
@@ -39109,9 +39109,9 @@ begin_operator
 sendtofree-b da n9 n8 n8 n9
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 13 12
-0 14 0 1
 0 25 12 13
 1
 end_operator
@@ -39119,9 +39119,9 @@ begin_operator
 sendtofree-b da n9 n8 n9 n10
 0
 4
+0 14 0 1
 0 15 0 2
 0 24 13 12
-0 14 0 1
 0 25 13 2
 1
 end_operator
@@ -39130,8 +39130,8 @@ sendtofree-b h2 n1 n0 n0 n1
 0
 4
 0 18 0 1
-0 24 1 0
 0 19 0 2
+0 24 1 0
 0 25 0 1
 1
 end_operator
@@ -39140,8 +39140,8 @@ sendtofree-b h2 n1 n0 n1 n2
 0
 4
 0 18 0 1
-0 24 1 0
 0 19 0 2
+0 24 1 0
 0 25 1 6
 1
 end_operator
@@ -39150,8 +39150,8 @@ sendtofree-b h2 n1 n0 n10 n11
 0
 4
 0 18 0 1
-0 24 1 0
 0 19 0 2
+0 24 1 0
 0 25 2 3
 1
 end_operator
@@ -39160,8 +39160,8 @@ sendtofree-b h2 n1 n0 n11 n12
 0
 4
 0 18 0 1
-0 24 1 0
 0 19 0 2
+0 24 1 0
 0 25 3 4
 1
 end_operator
@@ -39170,8 +39170,8 @@ sendtofree-b h2 n1 n0 n12 n13
 0
 4
 0 18 0 1
-0 24 1 0
 0 19 0 2
+0 24 1 0
 0 25 4 5
 1
 end_operator
@@ -39180,8 +39180,8 @@ sendtofree-b h2 n1 n0 n2 n3
 0
 4
 0 18 0 1
-0 24 1 0
 0 19 0 2
+0 24 1 0
 0 25 6 7
 1
 end_operator
@@ -39190,8 +39190,8 @@ sendtofree-b h2 n1 n0 n3 n4
 0
 4
 0 18 0 1
-0 24 1 0
 0 19 0 2
+0 24 1 0
 0 25 7 8
 1
 end_operator
@@ -39200,8 +39200,8 @@ sendtofree-b h2 n1 n0 n4 n5
 0
 4
 0 18 0 1
-0 24 1 0
 0 19 0 2
+0 24 1 0
 0 25 8 9
 1
 end_operator
@@ -39210,8 +39210,8 @@ sendtofree-b h2 n1 n0 n5 n6
 0
 4
 0 18 0 1
-0 24 1 0
 0 19 0 2
+0 24 1 0
 0 25 9 10
 1
 end_operator
@@ -39220,8 +39220,8 @@ sendtofree-b h2 n1 n0 n6 n7
 0
 4
 0 18 0 1
-0 24 1 0
 0 19 0 2
+0 24 1 0
 0 25 10 11
 1
 end_operator
@@ -39230,8 +39230,8 @@ sendtofree-b h2 n1 n0 n7 n8
 0
 4
 0 18 0 1
-0 24 1 0
 0 19 0 2
+0 24 1 0
 0 25 11 12
 1
 end_operator
@@ -39240,8 +39240,8 @@ sendtofree-b h2 n1 n0 n8 n9
 0
 4
 0 18 0 1
-0 24 1 0
 0 19 0 2
+0 24 1 0
 0 25 12 13
 1
 end_operator
@@ -39250,8 +39250,8 @@ sendtofree-b h2 n1 n0 n9 n10
 0
 4
 0 18 0 1
-0 24 1 0
 0 19 0 2
+0 24 1 0
 0 25 13 2
 1
 end_operator
@@ -39260,8 +39260,8 @@ sendtofree-b h2 n10 n9 n0 n1
 0
 4
 0 18 0 1
-0 24 2 13
 0 19 0 2
+0 24 2 13
 0 25 0 1
 1
 end_operator
@@ -39270,8 +39270,8 @@ sendtofree-b h2 n10 n9 n1 n2
 0
 4
 0 18 0 1
-0 24 2 13
 0 19 0 2
+0 24 2 13
 0 25 1 6
 1
 end_operator
@@ -39280,8 +39280,8 @@ sendtofree-b h2 n10 n9 n10 n11
 0
 4
 0 18 0 1
-0 24 2 13
 0 19 0 2
+0 24 2 13
 0 25 2 3
 1
 end_operator
@@ -39290,8 +39290,8 @@ sendtofree-b h2 n10 n9 n11 n12
 0
 4
 0 18 0 1
-0 24 2 13
 0 19 0 2
+0 24 2 13
 0 25 3 4
 1
 end_operator
@@ -39300,8 +39300,8 @@ sendtofree-b h2 n10 n9 n12 n13
 0
 4
 0 18 0 1
-0 24 2 13
 0 19 0 2
+0 24 2 13
 0 25 4 5
 1
 end_operator
@@ -39310,8 +39310,8 @@ sendtofree-b h2 n10 n9 n2 n3
 0
 4
 0 18 0 1
-0 24 2 13
 0 19 0 2
+0 24 2 13
 0 25 6 7
 1
 end_operator
@@ -39320,8 +39320,8 @@ sendtofree-b h2 n10 n9 n3 n4
 0
 4
 0 18 0 1
-0 24 2 13
 0 19 0 2
+0 24 2 13
 0 25 7 8
 1
 end_operator
@@ -39330,8 +39330,8 @@ sendtofree-b h2 n10 n9 n4 n5
 0
 4
 0 18 0 1
-0 24 2 13
 0 19 0 2
+0 24 2 13
 0 25 8 9
 1
 end_operator
@@ -39340,8 +39340,8 @@ sendtofree-b h2 n10 n9 n5 n6
 0
 4
 0 18 0 1
-0 24 2 13
 0 19 0 2
+0 24 2 13
 0 25 9 10
 1
 end_operator
@@ -39350,8 +39350,8 @@ sendtofree-b h2 n10 n9 n6 n7
 0
 4
 0 18 0 1
-0 24 2 13
 0 19 0 2
+0 24 2 13
 0 25 10 11
 1
 end_operator
@@ -39360,8 +39360,8 @@ sendtofree-b h2 n10 n9 n7 n8
 0
 4
 0 18 0 1
-0 24 2 13
 0 19 0 2
+0 24 2 13
 0 25 11 12
 1
 end_operator
@@ -39370,8 +39370,8 @@ sendtofree-b h2 n10 n9 n8 n9
 0
 4
 0 18 0 1
-0 24 2 13
 0 19 0 2
+0 24 2 13
 0 25 12 13
 1
 end_operator
@@ -39380,8 +39380,8 @@ sendtofree-b h2 n10 n9 n9 n10
 0
 4
 0 18 0 1
-0 24 2 13
 0 19 0 2
+0 24 2 13
 0 25 13 2
 1
 end_operator
@@ -39390,8 +39390,8 @@ sendtofree-b h2 n11 n10 n0 n1
 0
 4
 0 18 0 1
-0 24 3 2
 0 19 0 2
+0 24 3 2
 0 25 0 1
 1
 end_operator
@@ -39400,8 +39400,8 @@ sendtofree-b h2 n11 n10 n1 n2
 0
 4
 0 18 0 1
-0 24 3 2
 0 19 0 2
+0 24 3 2
 0 25 1 6
 1
 end_operator
@@ -39410,8 +39410,8 @@ sendtofree-b h2 n11 n10 n10 n11
 0
 4
 0 18 0 1
-0 24 3 2
 0 19 0 2
+0 24 3 2
 0 25 2 3
 1
 end_operator
@@ -39420,8 +39420,8 @@ sendtofree-b h2 n11 n10 n11 n12
 0
 4
 0 18 0 1
-0 24 3 2
 0 19 0 2
+0 24 3 2
 0 25 3 4
 1
 end_operator
@@ -39430,8 +39430,8 @@ sendtofree-b h2 n11 n10 n12 n13
 0
 4
 0 18 0 1
-0 24 3 2
 0 19 0 2
+0 24 3 2
 0 25 4 5
 1
 end_operator
@@ -39440,8 +39440,8 @@ sendtofree-b h2 n11 n10 n2 n3
 0
 4
 0 18 0 1
-0 24 3 2
 0 19 0 2
+0 24 3 2
 0 25 6 7
 1
 end_operator
@@ -39450,8 +39450,8 @@ sendtofree-b h2 n11 n10 n3 n4
 0
 4
 0 18 0 1
-0 24 3 2
 0 19 0 2
+0 24 3 2
 0 25 7 8
 1
 end_operator
@@ -39460,8 +39460,8 @@ sendtofree-b h2 n11 n10 n4 n5
 0
 4
 0 18 0 1
-0 24 3 2
 0 19 0 2
+0 24 3 2
 0 25 8 9
 1
 end_operator
@@ -39470,8 +39470,8 @@ sendtofree-b h2 n11 n10 n5 n6
 0
 4
 0 18 0 1
-0 24 3 2
 0 19 0 2
+0 24 3 2
 0 25 9 10
 1
 end_operator
@@ -39480,8 +39480,8 @@ sendtofree-b h2 n11 n10 n6 n7
 0
 4
 0 18 0 1
-0 24 3 2
 0 19 0 2
+0 24 3 2
 0 25 10 11
 1
 end_operator
@@ -39490,8 +39490,8 @@ sendtofree-b h2 n11 n10 n7 n8
 0
 4
 0 18 0 1
-0 24 3 2
 0 19 0 2
+0 24 3 2
 0 25 11 12
 1
 end_operator
@@ -39500,8 +39500,8 @@ sendtofree-b h2 n11 n10 n8 n9
 0
 4
 0 18 0 1
-0 24 3 2
 0 19 0 2
+0 24 3 2
 0 25 12 13
 1
 end_operator
@@ -39510,8 +39510,8 @@ sendtofree-b h2 n11 n10 n9 n10
 0
 4
 0 18 0 1
-0 24 3 2
 0 19 0 2
+0 24 3 2
 0 25 13 2
 1
 end_operator
@@ -39520,8 +39520,8 @@ sendtofree-b h2 n12 n11 n0 n1
 0
 4
 0 18 0 1
-0 24 4 3
 0 19 0 2
+0 24 4 3
 0 25 0 1
 1
 end_operator
@@ -39530,8 +39530,8 @@ sendtofree-b h2 n12 n11 n1 n2
 0
 4
 0 18 0 1
-0 24 4 3
 0 19 0 2
+0 24 4 3
 0 25 1 6
 1
 end_operator
@@ -39540,8 +39540,8 @@ sendtofree-b h2 n12 n11 n10 n11
 0
 4
 0 18 0 1
-0 24 4 3
 0 19 0 2
+0 24 4 3
 0 25 2 3
 1
 end_operator
@@ -39550,8 +39550,8 @@ sendtofree-b h2 n12 n11 n11 n12
 0
 4
 0 18 0 1
-0 24 4 3
 0 19 0 2
+0 24 4 3
 0 25 3 4
 1
 end_operator
@@ -39560,8 +39560,8 @@ sendtofree-b h2 n12 n11 n12 n13
 0
 4
 0 18 0 1
-0 24 4 3
 0 19 0 2
+0 24 4 3
 0 25 4 5
 1
 end_operator
@@ -39570,8 +39570,8 @@ sendtofree-b h2 n12 n11 n2 n3
 0
 4
 0 18 0 1
-0 24 4 3
 0 19 0 2
+0 24 4 3
 0 25 6 7
 1
 end_operator
@@ -39580,8 +39580,8 @@ sendtofree-b h2 n12 n11 n3 n4
 0
 4
 0 18 0 1
-0 24 4 3
 0 19 0 2
+0 24 4 3
 0 25 7 8
 1
 end_operator
@@ -39590,8 +39590,8 @@ sendtofree-b h2 n12 n11 n4 n5
 0
 4
 0 18 0 1
-0 24 4 3
 0 19 0 2
+0 24 4 3
 0 25 8 9
 1
 end_operator
@@ -39600,8 +39600,8 @@ sendtofree-b h2 n12 n11 n5 n6
 0
 4
 0 18 0 1
-0 24 4 3
 0 19 0 2
+0 24 4 3
 0 25 9 10
 1
 end_operator
@@ -39610,8 +39610,8 @@ sendtofree-b h2 n12 n11 n6 n7
 0
 4
 0 18 0 1
-0 24 4 3
 0 19 0 2
+0 24 4 3
 0 25 10 11
 1
 end_operator
@@ -39620,8 +39620,8 @@ sendtofree-b h2 n12 n11 n7 n8
 0
 4
 0 18 0 1
-0 24 4 3
 0 19 0 2
+0 24 4 3
 0 25 11 12
 1
 end_operator
@@ -39630,8 +39630,8 @@ sendtofree-b h2 n12 n11 n8 n9
 0
 4
 0 18 0 1
-0 24 4 3
 0 19 0 2
+0 24 4 3
 0 25 12 13
 1
 end_operator
@@ -39640,8 +39640,8 @@ sendtofree-b h2 n12 n11 n9 n10
 0
 4
 0 18 0 1
-0 24 4 3
 0 19 0 2
+0 24 4 3
 0 25 13 2
 1
 end_operator
@@ -39650,8 +39650,8 @@ sendtofree-b h2 n13 n12 n0 n1
 0
 4
 0 18 0 1
-0 24 5 4
 0 19 0 2
+0 24 5 4
 0 25 0 1
 1
 end_operator
@@ -39660,8 +39660,8 @@ sendtofree-b h2 n13 n12 n1 n2
 0
 4
 0 18 0 1
-0 24 5 4
 0 19 0 2
+0 24 5 4
 0 25 1 6
 1
 end_operator
@@ -39670,8 +39670,8 @@ sendtofree-b h2 n13 n12 n10 n11
 0
 4
 0 18 0 1
-0 24 5 4
 0 19 0 2
+0 24 5 4
 0 25 2 3
 1
 end_operator
@@ -39680,8 +39680,8 @@ sendtofree-b h2 n13 n12 n11 n12
 0
 4
 0 18 0 1
-0 24 5 4
 0 19 0 2
+0 24 5 4
 0 25 3 4
 1
 end_operator
@@ -39690,8 +39690,8 @@ sendtofree-b h2 n13 n12 n12 n13
 0
 4
 0 18 0 1
-0 24 5 4
 0 19 0 2
+0 24 5 4
 0 25 4 5
 1
 end_operator
@@ -39700,8 +39700,8 @@ sendtofree-b h2 n13 n12 n2 n3
 0
 4
 0 18 0 1
-0 24 5 4
 0 19 0 2
+0 24 5 4
 0 25 6 7
 1
 end_operator
@@ -39710,8 +39710,8 @@ sendtofree-b h2 n13 n12 n3 n4
 0
 4
 0 18 0 1
-0 24 5 4
 0 19 0 2
+0 24 5 4
 0 25 7 8
 1
 end_operator
@@ -39720,8 +39720,8 @@ sendtofree-b h2 n13 n12 n4 n5
 0
 4
 0 18 0 1
-0 24 5 4
 0 19 0 2
+0 24 5 4
 0 25 8 9
 1
 end_operator
@@ -39730,8 +39730,8 @@ sendtofree-b h2 n13 n12 n5 n6
 0
 4
 0 18 0 1
-0 24 5 4
 0 19 0 2
+0 24 5 4
 0 25 9 10
 1
 end_operator
@@ -39740,8 +39740,8 @@ sendtofree-b h2 n13 n12 n6 n7
 0
 4
 0 18 0 1
-0 24 5 4
 0 19 0 2
+0 24 5 4
 0 25 10 11
 1
 end_operator
@@ -39750,8 +39750,8 @@ sendtofree-b h2 n13 n12 n7 n8
 0
 4
 0 18 0 1
-0 24 5 4
 0 19 0 2
+0 24 5 4
 0 25 11 12
 1
 end_operator
@@ -39760,8 +39760,8 @@ sendtofree-b h2 n13 n12 n8 n9
 0
 4
 0 18 0 1
-0 24 5 4
 0 19 0 2
+0 24 5 4
 0 25 12 13
 1
 end_operator
@@ -39770,8 +39770,8 @@ sendtofree-b h2 n13 n12 n9 n10
 0
 4
 0 18 0 1
-0 24 5 4
 0 19 0 2
+0 24 5 4
 0 25 13 2
 1
 end_operator
@@ -39780,8 +39780,8 @@ sendtofree-b h2 n2 n1 n0 n1
 0
 4
 0 18 0 1
-0 24 6 1
 0 19 0 2
+0 24 6 1
 0 25 0 1
 1
 end_operator
@@ -39790,8 +39790,8 @@ sendtofree-b h2 n2 n1 n1 n2
 0
 4
 0 18 0 1
-0 24 6 1
 0 19 0 2
+0 24 6 1
 0 25 1 6
 1
 end_operator
@@ -39800,8 +39800,8 @@ sendtofree-b h2 n2 n1 n10 n11
 0
 4
 0 18 0 1
-0 24 6 1
 0 19 0 2
+0 24 6 1
 0 25 2 3
 1
 end_operator
@@ -39810,8 +39810,8 @@ sendtofree-b h2 n2 n1 n11 n12
 0
 4
 0 18 0 1
-0 24 6 1
 0 19 0 2
+0 24 6 1
 0 25 3 4
 1
 end_operator
@@ -39820,8 +39820,8 @@ sendtofree-b h2 n2 n1 n12 n13
 0
 4
 0 18 0 1
-0 24 6 1
 0 19 0 2
+0 24 6 1
 0 25 4 5
 1
 end_operator
@@ -39830,8 +39830,8 @@ sendtofree-b h2 n2 n1 n2 n3
 0
 4
 0 18 0 1
-0 24 6 1
 0 19 0 2
+0 24 6 1
 0 25 6 7
 1
 end_operator
@@ -39840,8 +39840,8 @@ sendtofree-b h2 n2 n1 n3 n4
 0
 4
 0 18 0 1
-0 24 6 1
 0 19 0 2
+0 24 6 1
 0 25 7 8
 1
 end_operator
@@ -39850,8 +39850,8 @@ sendtofree-b h2 n2 n1 n4 n5
 0
 4
 0 18 0 1
-0 24 6 1
 0 19 0 2
+0 24 6 1
 0 25 8 9
 1
 end_operator
@@ -39860,8 +39860,8 @@ sendtofree-b h2 n2 n1 n5 n6
 0
 4
 0 18 0 1
-0 24 6 1
 0 19 0 2
+0 24 6 1
 0 25 9 10
 1
 end_operator
@@ -39870,8 +39870,8 @@ sendtofree-b h2 n2 n1 n6 n7
 0
 4
 0 18 0 1
-0 24 6 1
 0 19 0 2
+0 24 6 1
 0 25 10 11
 1
 end_operator
@@ -39880,8 +39880,8 @@ sendtofree-b h2 n2 n1 n7 n8
 0
 4
 0 18 0 1
-0 24 6 1
 0 19 0 2
+0 24 6 1
 0 25 11 12
 1
 end_operator
@@ -39890,8 +39890,8 @@ sendtofree-b h2 n2 n1 n8 n9
 0
 4
 0 18 0 1
-0 24 6 1
 0 19 0 2
+0 24 6 1
 0 25 12 13
 1
 end_operator
@@ -39900,8 +39900,8 @@ sendtofree-b h2 n2 n1 n9 n10
 0
 4
 0 18 0 1
-0 24 6 1
 0 19 0 2
+0 24 6 1
 0 25 13 2
 1
 end_operator
@@ -39910,8 +39910,8 @@ sendtofree-b h2 n3 n2 n0 n1
 0
 4
 0 18 0 1
-0 24 7 6
 0 19 0 2
+0 24 7 6
 0 25 0 1
 1
 end_operator
@@ -39920,8 +39920,8 @@ sendtofree-b h2 n3 n2 n1 n2
 0
 4
 0 18 0 1
-0 24 7 6
 0 19 0 2
+0 24 7 6
 0 25 1 6
 1
 end_operator
@@ -39930,8 +39930,8 @@ sendtofree-b h2 n3 n2 n10 n11
 0
 4
 0 18 0 1
-0 24 7 6
 0 19 0 2
+0 24 7 6
 0 25 2 3
 1
 end_operator
@@ -39940,8 +39940,8 @@ sendtofree-b h2 n3 n2 n11 n12
 0
 4
 0 18 0 1
-0 24 7 6
 0 19 0 2
+0 24 7 6
 0 25 3 4
 1
 end_operator
@@ -39950,8 +39950,8 @@ sendtofree-b h2 n3 n2 n12 n13
 0
 4
 0 18 0 1
-0 24 7 6
 0 19 0 2
+0 24 7 6
 0 25 4 5
 1
 end_operator
@@ -39960,8 +39960,8 @@ sendtofree-b h2 n3 n2 n2 n3
 0
 4
 0 18 0 1
-0 24 7 6
 0 19 0 2
+0 24 7 6
 0 25 6 7
 1
 end_operator
@@ -39970,8 +39970,8 @@ sendtofree-b h2 n3 n2 n3 n4
 0
 4
 0 18 0 1
-0 24 7 6
 0 19 0 2
+0 24 7 6
 0 25 7 8
 1
 end_operator
@@ -39980,8 +39980,8 @@ sendtofree-b h2 n3 n2 n4 n5
 0
 4
 0 18 0 1
-0 24 7 6
 0 19 0 2
+0 24 7 6
 0 25 8 9
 1
 end_operator
@@ -39990,8 +39990,8 @@ sendtofree-b h2 n3 n2 n5 n6
 0
 4
 0 18 0 1
-0 24 7 6
 0 19 0 2
+0 24 7 6
 0 25 9 10
 1
 end_operator
@@ -40000,8 +40000,8 @@ sendtofree-b h2 n3 n2 n6 n7
 0
 4
 0 18 0 1
-0 24 7 6
 0 19 0 2
+0 24 7 6
 0 25 10 11
 1
 end_operator
@@ -40010,8 +40010,8 @@ sendtofree-b h2 n3 n2 n7 n8
 0
 4
 0 18 0 1
-0 24 7 6
 0 19 0 2
+0 24 7 6
 0 25 11 12
 1
 end_operator
@@ -40020,8 +40020,8 @@ sendtofree-b h2 n3 n2 n8 n9
 0
 4
 0 18 0 1
-0 24 7 6
 0 19 0 2
+0 24 7 6
 0 25 12 13
 1
 end_operator
@@ -40030,8 +40030,8 @@ sendtofree-b h2 n3 n2 n9 n10
 0
 4
 0 18 0 1
-0 24 7 6
 0 19 0 2
+0 24 7 6
 0 25 13 2
 1
 end_operator
@@ -40040,8 +40040,8 @@ sendtofree-b h2 n4 n3 n0 n1
 0
 4
 0 18 0 1
-0 24 8 7
 0 19 0 2
+0 24 8 7
 0 25 0 1
 1
 end_operator
@@ -40050,8 +40050,8 @@ sendtofree-b h2 n4 n3 n1 n2
 0
 4
 0 18 0 1
-0 24 8 7
 0 19 0 2
+0 24 8 7
 0 25 1 6
 1
 end_operator
@@ -40060,8 +40060,8 @@ sendtofree-b h2 n4 n3 n10 n11
 0
 4
 0 18 0 1
-0 24 8 7
 0 19 0 2
+0 24 8 7
 0 25 2 3
 1
 end_operator
@@ -40070,8 +40070,8 @@ sendtofree-b h2 n4 n3 n11 n12
 0
 4
 0 18 0 1
-0 24 8 7
 0 19 0 2
+0 24 8 7
 0 25 3 4
 1
 end_operator
@@ -40080,8 +40080,8 @@ sendtofree-b h2 n4 n3 n12 n13
 0
 4
 0 18 0 1
-0 24 8 7
 0 19 0 2
+0 24 8 7
 0 25 4 5
 1
 end_operator
@@ -40090,8 +40090,8 @@ sendtofree-b h2 n4 n3 n2 n3
 0
 4
 0 18 0 1
-0 24 8 7
 0 19 0 2
+0 24 8 7
 0 25 6 7
 1
 end_operator
@@ -40100,8 +40100,8 @@ sendtofree-b h2 n4 n3 n3 n4
 0
 4
 0 18 0 1
-0 24 8 7
 0 19 0 2
+0 24 8 7
 0 25 7 8
 1
 end_operator
@@ -40110,8 +40110,8 @@ sendtofree-b h2 n4 n3 n4 n5
 0
 4
 0 18 0 1
-0 24 8 7
 0 19 0 2
+0 24 8 7
 0 25 8 9
 1
 end_operator
@@ -40120,8 +40120,8 @@ sendtofree-b h2 n4 n3 n5 n6
 0
 4
 0 18 0 1
-0 24 8 7
 0 19 0 2
+0 24 8 7
 0 25 9 10
 1
 end_operator
@@ -40130,8 +40130,8 @@ sendtofree-b h2 n4 n3 n6 n7
 0
 4
 0 18 0 1
-0 24 8 7
 0 19 0 2
+0 24 8 7
 0 25 10 11
 1
 end_operator
@@ -40140,8 +40140,8 @@ sendtofree-b h2 n4 n3 n7 n8
 0
 4
 0 18 0 1
-0 24 8 7
 0 19 0 2
+0 24 8 7
 0 25 11 12
 1
 end_operator
@@ -40150,8 +40150,8 @@ sendtofree-b h2 n4 n3 n8 n9
 0
 4
 0 18 0 1
-0 24 8 7
 0 19 0 2
+0 24 8 7
 0 25 12 13
 1
 end_operator
@@ -40160,8 +40160,8 @@ sendtofree-b h2 n4 n3 n9 n10
 0
 4
 0 18 0 1
-0 24 8 7
 0 19 0 2
+0 24 8 7
 0 25 13 2
 1
 end_operator
@@ -40170,8 +40170,8 @@ sendtofree-b h2 n5 n4 n0 n1
 0
 4
 0 18 0 1
-0 24 9 8
 0 19 0 2
+0 24 9 8
 0 25 0 1
 1
 end_operator
@@ -40180,8 +40180,8 @@ sendtofree-b h2 n5 n4 n1 n2
 0
 4
 0 18 0 1
-0 24 9 8
 0 19 0 2
+0 24 9 8
 0 25 1 6
 1
 end_operator
@@ -40190,8 +40190,8 @@ sendtofree-b h2 n5 n4 n10 n11
 0
 4
 0 18 0 1
-0 24 9 8
 0 19 0 2
+0 24 9 8
 0 25 2 3
 1
 end_operator
@@ -40200,8 +40200,8 @@ sendtofree-b h2 n5 n4 n11 n12
 0
 4
 0 18 0 1
-0 24 9 8
 0 19 0 2
+0 24 9 8
 0 25 3 4
 1
 end_operator
@@ -40210,8 +40210,8 @@ sendtofree-b h2 n5 n4 n12 n13
 0
 4
 0 18 0 1
-0 24 9 8
 0 19 0 2
+0 24 9 8
 0 25 4 5
 1
 end_operator
@@ -40220,8 +40220,8 @@ sendtofree-b h2 n5 n4 n2 n3
 0
 4
 0 18 0 1
-0 24 9 8
 0 19 0 2
+0 24 9 8
 0 25 6 7
 1
 end_operator
@@ -40230,8 +40230,8 @@ sendtofree-b h2 n5 n4 n3 n4
 0
 4
 0 18 0 1
-0 24 9 8
 0 19 0 2
+0 24 9 8
 0 25 7 8
 1
 end_operator
@@ -40240,8 +40240,8 @@ sendtofree-b h2 n5 n4 n4 n5
 0
 4
 0 18 0 1
-0 24 9 8
 0 19 0 2
+0 24 9 8
 0 25 8 9
 1
 end_operator
@@ -40250,8 +40250,8 @@ sendtofree-b h2 n5 n4 n5 n6
 0
 4
 0 18 0 1
-0 24 9 8
 0 19 0 2
+0 24 9 8
 0 25 9 10
 1
 end_operator
@@ -40260,8 +40260,8 @@ sendtofree-b h2 n5 n4 n6 n7
 0
 4
 0 18 0 1
-0 24 9 8
 0 19 0 2
+0 24 9 8
 0 25 10 11
 1
 end_operator
@@ -40270,8 +40270,8 @@ sendtofree-b h2 n5 n4 n7 n8
 0
 4
 0 18 0 1
-0 24 9 8
 0 19 0 2
+0 24 9 8
 0 25 11 12
 1
 end_operator
@@ -40280,8 +40280,8 @@ sendtofree-b h2 n5 n4 n8 n9
 0
 4
 0 18 0 1
-0 24 9 8
 0 19 0 2
+0 24 9 8
 0 25 12 13
 1
 end_operator
@@ -40290,8 +40290,8 @@ sendtofree-b h2 n5 n4 n9 n10
 0
 4
 0 18 0 1
-0 24 9 8
 0 19 0 2
+0 24 9 8
 0 25 13 2
 1
 end_operator
@@ -40300,8 +40300,8 @@ sendtofree-b h2 n6 n5 n0 n1
 0
 4
 0 18 0 1
-0 24 10 9
 0 19 0 2
+0 24 10 9
 0 25 0 1
 1
 end_operator
@@ -40310,8 +40310,8 @@ sendtofree-b h2 n6 n5 n1 n2
 0
 4
 0 18 0 1
-0 24 10 9
 0 19 0 2
+0 24 10 9
 0 25 1 6
 1
 end_operator
@@ -40320,8 +40320,8 @@ sendtofree-b h2 n6 n5 n10 n11
 0
 4
 0 18 0 1
-0 24 10 9
 0 19 0 2
+0 24 10 9
 0 25 2 3
 1
 end_operator
@@ -40330,8 +40330,8 @@ sendtofree-b h2 n6 n5 n11 n12
 0
 4
 0 18 0 1
-0 24 10 9
 0 19 0 2
+0 24 10 9
 0 25 3 4
 1
 end_operator
@@ -40340,8 +40340,8 @@ sendtofree-b h2 n6 n5 n12 n13
 0
 4
 0 18 0 1
-0 24 10 9
 0 19 0 2
+0 24 10 9
 0 25 4 5
 1
 end_operator
@@ -40350,8 +40350,8 @@ sendtofree-b h2 n6 n5 n2 n3
 0
 4
 0 18 0 1
-0 24 10 9
 0 19 0 2
+0 24 10 9
 0 25 6 7
 1
 end_operator
@@ -40360,8 +40360,8 @@ sendtofree-b h2 n6 n5 n3 n4
 0
 4
 0 18 0 1
-0 24 10 9
 0 19 0 2
+0 24 10 9
 0 25 7 8
 1
 end_operator
@@ -40370,8 +40370,8 @@ sendtofree-b h2 n6 n5 n4 n5
 0
 4
 0 18 0 1
-0 24 10 9
 0 19 0 2
+0 24 10 9
 0 25 8 9
 1
 end_operator
@@ -40380,8 +40380,8 @@ sendtofree-b h2 n6 n5 n5 n6
 0
 4
 0 18 0 1
-0 24 10 9
 0 19 0 2
+0 24 10 9
 0 25 9 10
 1
 end_operator
@@ -40390,8 +40390,8 @@ sendtofree-b h2 n6 n5 n6 n7
 0
 4
 0 18 0 1
-0 24 10 9
 0 19 0 2
+0 24 10 9
 0 25 10 11
 1
 end_operator
@@ -40400,8 +40400,8 @@ sendtofree-b h2 n6 n5 n7 n8
 0
 4
 0 18 0 1
-0 24 10 9
 0 19 0 2
+0 24 10 9
 0 25 11 12
 1
 end_operator
@@ -40410,8 +40410,8 @@ sendtofree-b h2 n6 n5 n8 n9
 0
 4
 0 18 0 1
-0 24 10 9
 0 19 0 2
+0 24 10 9
 0 25 12 13
 1
 end_operator
@@ -40420,8 +40420,8 @@ sendtofree-b h2 n6 n5 n9 n10
 0
 4
 0 18 0 1
-0 24 10 9
 0 19 0 2
+0 24 10 9
 0 25 13 2
 1
 end_operator
@@ -40430,8 +40430,8 @@ sendtofree-b h2 n7 n6 n0 n1
 0
 4
 0 18 0 1
-0 24 11 10
 0 19 0 2
+0 24 11 10
 0 25 0 1
 1
 end_operator
@@ -40440,8 +40440,8 @@ sendtofree-b h2 n7 n6 n1 n2
 0
 4
 0 18 0 1
-0 24 11 10
 0 19 0 2
+0 24 11 10
 0 25 1 6
 1
 end_operator
@@ -40450,8 +40450,8 @@ sendtofree-b h2 n7 n6 n10 n11
 0
 4
 0 18 0 1
-0 24 11 10
 0 19 0 2
+0 24 11 10
 0 25 2 3
 1
 end_operator
@@ -40460,8 +40460,8 @@ sendtofree-b h2 n7 n6 n11 n12
 0
 4
 0 18 0 1
-0 24 11 10
 0 19 0 2
+0 24 11 10
 0 25 3 4
 1
 end_operator
@@ -40470,8 +40470,8 @@ sendtofree-b h2 n7 n6 n12 n13
 0
 4
 0 18 0 1
-0 24 11 10
 0 19 0 2
+0 24 11 10
 0 25 4 5
 1
 end_operator
@@ -40480,8 +40480,8 @@ sendtofree-b h2 n7 n6 n2 n3
 0
 4
 0 18 0 1
-0 24 11 10
 0 19 0 2
+0 24 11 10
 0 25 6 7
 1
 end_operator
@@ -40490,8 +40490,8 @@ sendtofree-b h2 n7 n6 n3 n4
 0
 4
 0 18 0 1
-0 24 11 10
 0 19 0 2
+0 24 11 10
 0 25 7 8
 1
 end_operator
@@ -40500,8 +40500,8 @@ sendtofree-b h2 n7 n6 n4 n5
 0
 4
 0 18 0 1
-0 24 11 10
 0 19 0 2
+0 24 11 10
 0 25 8 9
 1
 end_operator
@@ -40510,8 +40510,8 @@ sendtofree-b h2 n7 n6 n5 n6
 0
 4
 0 18 0 1
-0 24 11 10
 0 19 0 2
+0 24 11 10
 0 25 9 10
 1
 end_operator
@@ -40520,8 +40520,8 @@ sendtofree-b h2 n7 n6 n6 n7
 0
 4
 0 18 0 1
-0 24 11 10
 0 19 0 2
+0 24 11 10
 0 25 10 11
 1
 end_operator
@@ -40530,8 +40530,8 @@ sendtofree-b h2 n7 n6 n7 n8
 0
 4
 0 18 0 1
-0 24 11 10
 0 19 0 2
+0 24 11 10
 0 25 11 12
 1
 end_operator
@@ -40540,8 +40540,8 @@ sendtofree-b h2 n7 n6 n8 n9
 0
 4
 0 18 0 1
-0 24 11 10
 0 19 0 2
+0 24 11 10
 0 25 12 13
 1
 end_operator
@@ -40550,8 +40550,8 @@ sendtofree-b h2 n7 n6 n9 n10
 0
 4
 0 18 0 1
-0 24 11 10
 0 19 0 2
+0 24 11 10
 0 25 13 2
 1
 end_operator
@@ -40560,8 +40560,8 @@ sendtofree-b h2 n8 n7 n0 n1
 0
 4
 0 18 0 1
-0 24 12 11
 0 19 0 2
+0 24 12 11
 0 25 0 1
 1
 end_operator
@@ -40570,8 +40570,8 @@ sendtofree-b h2 n8 n7 n1 n2
 0
 4
 0 18 0 1
-0 24 12 11
 0 19 0 2
+0 24 12 11
 0 25 1 6
 1
 end_operator
@@ -40580,8 +40580,8 @@ sendtofree-b h2 n8 n7 n10 n11
 0
 4
 0 18 0 1
-0 24 12 11
 0 19 0 2
+0 24 12 11
 0 25 2 3
 1
 end_operator
@@ -40590,8 +40590,8 @@ sendtofree-b h2 n8 n7 n11 n12
 0
 4
 0 18 0 1
-0 24 12 11
 0 19 0 2
+0 24 12 11
 0 25 3 4
 1
 end_operator
@@ -40600,8 +40600,8 @@ sendtofree-b h2 n8 n7 n12 n13
 0
 4
 0 18 0 1
-0 24 12 11
 0 19 0 2
+0 24 12 11
 0 25 4 5
 1
 end_operator
@@ -40610,8 +40610,8 @@ sendtofree-b h2 n8 n7 n2 n3
 0
 4
 0 18 0 1
-0 24 12 11
 0 19 0 2
+0 24 12 11
 0 25 6 7
 1
 end_operator
@@ -40620,8 +40620,8 @@ sendtofree-b h2 n8 n7 n3 n4
 0
 4
 0 18 0 1
-0 24 12 11
 0 19 0 2
+0 24 12 11
 0 25 7 8
 1
 end_operator
@@ -40630,8 +40630,8 @@ sendtofree-b h2 n8 n7 n4 n5
 0
 4
 0 18 0 1
-0 24 12 11
 0 19 0 2
+0 24 12 11
 0 25 8 9
 1
 end_operator
@@ -40640,8 +40640,8 @@ sendtofree-b h2 n8 n7 n5 n6
 0
 4
 0 18 0 1
-0 24 12 11
 0 19 0 2
+0 24 12 11
 0 25 9 10
 1
 end_operator
@@ -40650,8 +40650,8 @@ sendtofree-b h2 n8 n7 n6 n7
 0
 4
 0 18 0 1
-0 24 12 11
 0 19 0 2
+0 24 12 11
 0 25 10 11
 1
 end_operator
@@ -40660,8 +40660,8 @@ sendtofree-b h2 n8 n7 n7 n8
 0
 4
 0 18 0 1
-0 24 12 11
 0 19 0 2
+0 24 12 11
 0 25 11 12
 1
 end_operator
@@ -40670,8 +40670,8 @@ sendtofree-b h2 n8 n7 n8 n9
 0
 4
 0 18 0 1
-0 24 12 11
 0 19 0 2
+0 24 12 11
 0 25 12 13
 1
 end_operator
@@ -40680,8 +40680,8 @@ sendtofree-b h2 n8 n7 n9 n10
 0
 4
 0 18 0 1
-0 24 12 11
 0 19 0 2
+0 24 12 11
 0 25 13 2
 1
 end_operator
@@ -40690,8 +40690,8 @@ sendtofree-b h2 n9 n8 n0 n1
 0
 4
 0 18 0 1
-0 24 13 12
 0 19 0 2
+0 24 13 12
 0 25 0 1
 1
 end_operator
@@ -40700,8 +40700,8 @@ sendtofree-b h2 n9 n8 n1 n2
 0
 4
 0 18 0 1
-0 24 13 12
 0 19 0 2
+0 24 13 12
 0 25 1 6
 1
 end_operator
@@ -40710,8 +40710,8 @@ sendtofree-b h2 n9 n8 n10 n11
 0
 4
 0 18 0 1
-0 24 13 12
 0 19 0 2
+0 24 13 12
 0 25 2 3
 1
 end_operator
@@ -40720,8 +40720,8 @@ sendtofree-b h2 n9 n8 n11 n12
 0
 4
 0 18 0 1
-0 24 13 12
 0 19 0 2
+0 24 13 12
 0 25 3 4
 1
 end_operator
@@ -40730,8 +40730,8 @@ sendtofree-b h2 n9 n8 n12 n13
 0
 4
 0 18 0 1
-0 24 13 12
 0 19 0 2
+0 24 13 12
 0 25 4 5
 1
 end_operator
@@ -40740,8 +40740,8 @@ sendtofree-b h2 n9 n8 n2 n3
 0
 4
 0 18 0 1
-0 24 13 12
 0 19 0 2
+0 24 13 12
 0 25 6 7
 1
 end_operator
@@ -40750,8 +40750,8 @@ sendtofree-b h2 n9 n8 n3 n4
 0
 4
 0 18 0 1
-0 24 13 12
 0 19 0 2
+0 24 13 12
 0 25 7 8
 1
 end_operator
@@ -40760,8 +40760,8 @@ sendtofree-b h2 n9 n8 n4 n5
 0
 4
 0 18 0 1
-0 24 13 12
 0 19 0 2
+0 24 13 12
 0 25 8 9
 1
 end_operator
@@ -40770,8 +40770,8 @@ sendtofree-b h2 n9 n8 n5 n6
 0
 4
 0 18 0 1
-0 24 13 12
 0 19 0 2
+0 24 13 12
 0 25 9 10
 1
 end_operator
@@ -40780,8 +40780,8 @@ sendtofree-b h2 n9 n8 n6 n7
 0
 4
 0 18 0 1
-0 24 13 12
 0 19 0 2
+0 24 13 12
 0 25 10 11
 1
 end_operator
@@ -40790,8 +40790,8 @@ sendtofree-b h2 n9 n8 n7 n8
 0
 4
 0 18 0 1
-0 24 13 12
 0 19 0 2
+0 24 13 12
 0 25 11 12
 1
 end_operator
@@ -40800,8 +40800,8 @@ sendtofree-b h2 n9 n8 n8 n9
 0
 4
 0 18 0 1
-0 24 13 12
 0 19 0 2
+0 24 13 12
 0 25 12 13
 1
 end_operator
@@ -40810,8 +40810,8 @@ sendtofree-b h2 n9 n8 n9 n10
 0
 4
 0 18 0 1
-0 24 13 12
 0 19 0 2
+0 24 13 12
 0 25 13 2
 1
 end_operator
@@ -40821,8 +40821,8 @@ sendtofree-b h3 n1 n0 n0 n1
 4
 0 4 0 1
 0 24 1 0
-0 26 0 2
 0 25 0 1
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -40831,8 +40831,8 @@ sendtofree-b h3 n1 n0 n1 n2
 4
 0 4 0 1
 0 24 1 0
-0 26 0 2
 0 25 1 6
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -40841,8 +40841,8 @@ sendtofree-b h3 n1 n0 n10 n11
 4
 0 4 0 1
 0 24 1 0
-0 26 0 2
 0 25 2 3
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -40851,8 +40851,8 @@ sendtofree-b h3 n1 n0 n11 n12
 4
 0 4 0 1
 0 24 1 0
-0 26 0 2
 0 25 3 4
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -40861,8 +40861,8 @@ sendtofree-b h3 n1 n0 n12 n13
 4
 0 4 0 1
 0 24 1 0
-0 26 0 2
 0 25 4 5
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -40871,8 +40871,8 @@ sendtofree-b h3 n1 n0 n2 n3
 4
 0 4 0 1
 0 24 1 0
-0 26 0 2
 0 25 6 7
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -40881,8 +40881,8 @@ sendtofree-b h3 n1 n0 n3 n4
 4
 0 4 0 1
 0 24 1 0
-0 26 0 2
 0 25 7 8
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -40891,8 +40891,8 @@ sendtofree-b h3 n1 n0 n4 n5
 4
 0 4 0 1
 0 24 1 0
-0 26 0 2
 0 25 8 9
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -40901,8 +40901,8 @@ sendtofree-b h3 n1 n0 n5 n6
 4
 0 4 0 1
 0 24 1 0
-0 26 0 2
 0 25 9 10
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -40911,8 +40911,8 @@ sendtofree-b h3 n1 n0 n6 n7
 4
 0 4 0 1
 0 24 1 0
-0 26 0 2
 0 25 10 11
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -40921,8 +40921,8 @@ sendtofree-b h3 n1 n0 n7 n8
 4
 0 4 0 1
 0 24 1 0
-0 26 0 2
 0 25 11 12
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -40931,8 +40931,8 @@ sendtofree-b h3 n1 n0 n8 n9
 4
 0 4 0 1
 0 24 1 0
-0 26 0 2
 0 25 12 13
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -40941,8 +40941,8 @@ sendtofree-b h3 n1 n0 n9 n10
 4
 0 4 0 1
 0 24 1 0
-0 26 0 2
 0 25 13 2
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -40951,8 +40951,8 @@ sendtofree-b h3 n10 n9 n0 n1
 4
 0 4 0 1
 0 24 2 13
-0 26 0 2
 0 25 0 1
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -40961,8 +40961,8 @@ sendtofree-b h3 n10 n9 n1 n2
 4
 0 4 0 1
 0 24 2 13
-0 26 0 2
 0 25 1 6
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -40971,8 +40971,8 @@ sendtofree-b h3 n10 n9 n10 n11
 4
 0 4 0 1
 0 24 2 13
-0 26 0 2
 0 25 2 3
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -40981,8 +40981,8 @@ sendtofree-b h3 n10 n9 n11 n12
 4
 0 4 0 1
 0 24 2 13
-0 26 0 2
 0 25 3 4
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -40991,8 +40991,8 @@ sendtofree-b h3 n10 n9 n12 n13
 4
 0 4 0 1
 0 24 2 13
-0 26 0 2
 0 25 4 5
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41001,8 +41001,8 @@ sendtofree-b h3 n10 n9 n2 n3
 4
 0 4 0 1
 0 24 2 13
-0 26 0 2
 0 25 6 7
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41011,8 +41011,8 @@ sendtofree-b h3 n10 n9 n3 n4
 4
 0 4 0 1
 0 24 2 13
-0 26 0 2
 0 25 7 8
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41021,8 +41021,8 @@ sendtofree-b h3 n10 n9 n4 n5
 4
 0 4 0 1
 0 24 2 13
-0 26 0 2
 0 25 8 9
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41031,8 +41031,8 @@ sendtofree-b h3 n10 n9 n5 n6
 4
 0 4 0 1
 0 24 2 13
-0 26 0 2
 0 25 9 10
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41041,8 +41041,8 @@ sendtofree-b h3 n10 n9 n6 n7
 4
 0 4 0 1
 0 24 2 13
-0 26 0 2
 0 25 10 11
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41051,8 +41051,8 @@ sendtofree-b h3 n10 n9 n7 n8
 4
 0 4 0 1
 0 24 2 13
-0 26 0 2
 0 25 11 12
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41061,8 +41061,8 @@ sendtofree-b h3 n10 n9 n8 n9
 4
 0 4 0 1
 0 24 2 13
-0 26 0 2
 0 25 12 13
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41071,8 +41071,8 @@ sendtofree-b h3 n10 n9 n9 n10
 4
 0 4 0 1
 0 24 2 13
-0 26 0 2
 0 25 13 2
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41081,8 +41081,8 @@ sendtofree-b h3 n11 n10 n0 n1
 4
 0 4 0 1
 0 24 3 2
-0 26 0 2
 0 25 0 1
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41091,8 +41091,8 @@ sendtofree-b h3 n11 n10 n1 n2
 4
 0 4 0 1
 0 24 3 2
-0 26 0 2
 0 25 1 6
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41101,8 +41101,8 @@ sendtofree-b h3 n11 n10 n10 n11
 4
 0 4 0 1
 0 24 3 2
-0 26 0 2
 0 25 2 3
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41111,8 +41111,8 @@ sendtofree-b h3 n11 n10 n11 n12
 4
 0 4 0 1
 0 24 3 2
-0 26 0 2
 0 25 3 4
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41121,8 +41121,8 @@ sendtofree-b h3 n11 n10 n12 n13
 4
 0 4 0 1
 0 24 3 2
-0 26 0 2
 0 25 4 5
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41131,8 +41131,8 @@ sendtofree-b h3 n11 n10 n2 n3
 4
 0 4 0 1
 0 24 3 2
-0 26 0 2
 0 25 6 7
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41141,8 +41141,8 @@ sendtofree-b h3 n11 n10 n3 n4
 4
 0 4 0 1
 0 24 3 2
-0 26 0 2
 0 25 7 8
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41151,8 +41151,8 @@ sendtofree-b h3 n11 n10 n4 n5
 4
 0 4 0 1
 0 24 3 2
-0 26 0 2
 0 25 8 9
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41161,8 +41161,8 @@ sendtofree-b h3 n11 n10 n5 n6
 4
 0 4 0 1
 0 24 3 2
-0 26 0 2
 0 25 9 10
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41171,8 +41171,8 @@ sendtofree-b h3 n11 n10 n6 n7
 4
 0 4 0 1
 0 24 3 2
-0 26 0 2
 0 25 10 11
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41181,8 +41181,8 @@ sendtofree-b h3 n11 n10 n7 n8
 4
 0 4 0 1
 0 24 3 2
-0 26 0 2
 0 25 11 12
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41191,8 +41191,8 @@ sendtofree-b h3 n11 n10 n8 n9
 4
 0 4 0 1
 0 24 3 2
-0 26 0 2
 0 25 12 13
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41201,8 +41201,8 @@ sendtofree-b h3 n11 n10 n9 n10
 4
 0 4 0 1
 0 24 3 2
-0 26 0 2
 0 25 13 2
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41211,8 +41211,8 @@ sendtofree-b h3 n12 n11 n0 n1
 4
 0 4 0 1
 0 24 4 3
-0 26 0 2
 0 25 0 1
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41221,8 +41221,8 @@ sendtofree-b h3 n12 n11 n1 n2
 4
 0 4 0 1
 0 24 4 3
-0 26 0 2
 0 25 1 6
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41231,8 +41231,8 @@ sendtofree-b h3 n12 n11 n10 n11
 4
 0 4 0 1
 0 24 4 3
-0 26 0 2
 0 25 2 3
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41241,8 +41241,8 @@ sendtofree-b h3 n12 n11 n11 n12
 4
 0 4 0 1
 0 24 4 3
-0 26 0 2
 0 25 3 4
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41251,8 +41251,8 @@ sendtofree-b h3 n12 n11 n12 n13
 4
 0 4 0 1
 0 24 4 3
-0 26 0 2
 0 25 4 5
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41261,8 +41261,8 @@ sendtofree-b h3 n12 n11 n2 n3
 4
 0 4 0 1
 0 24 4 3
-0 26 0 2
 0 25 6 7
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41271,8 +41271,8 @@ sendtofree-b h3 n12 n11 n3 n4
 4
 0 4 0 1
 0 24 4 3
-0 26 0 2
 0 25 7 8
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41281,8 +41281,8 @@ sendtofree-b h3 n12 n11 n4 n5
 4
 0 4 0 1
 0 24 4 3
-0 26 0 2
 0 25 8 9
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41291,8 +41291,8 @@ sendtofree-b h3 n12 n11 n5 n6
 4
 0 4 0 1
 0 24 4 3
-0 26 0 2
 0 25 9 10
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41301,8 +41301,8 @@ sendtofree-b h3 n12 n11 n6 n7
 4
 0 4 0 1
 0 24 4 3
-0 26 0 2
 0 25 10 11
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41311,8 +41311,8 @@ sendtofree-b h3 n12 n11 n7 n8
 4
 0 4 0 1
 0 24 4 3
-0 26 0 2
 0 25 11 12
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41321,8 +41321,8 @@ sendtofree-b h3 n12 n11 n8 n9
 4
 0 4 0 1
 0 24 4 3
-0 26 0 2
 0 25 12 13
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41331,8 +41331,8 @@ sendtofree-b h3 n12 n11 n9 n10
 4
 0 4 0 1
 0 24 4 3
-0 26 0 2
 0 25 13 2
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41341,8 +41341,8 @@ sendtofree-b h3 n13 n12 n0 n1
 4
 0 4 0 1
 0 24 5 4
-0 26 0 2
 0 25 0 1
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41351,8 +41351,8 @@ sendtofree-b h3 n13 n12 n1 n2
 4
 0 4 0 1
 0 24 5 4
-0 26 0 2
 0 25 1 6
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41361,8 +41361,8 @@ sendtofree-b h3 n13 n12 n10 n11
 4
 0 4 0 1
 0 24 5 4
-0 26 0 2
 0 25 2 3
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41371,8 +41371,8 @@ sendtofree-b h3 n13 n12 n11 n12
 4
 0 4 0 1
 0 24 5 4
-0 26 0 2
 0 25 3 4
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41381,8 +41381,8 @@ sendtofree-b h3 n13 n12 n12 n13
 4
 0 4 0 1
 0 24 5 4
-0 26 0 2
 0 25 4 5
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41391,8 +41391,8 @@ sendtofree-b h3 n13 n12 n2 n3
 4
 0 4 0 1
 0 24 5 4
-0 26 0 2
 0 25 6 7
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41401,8 +41401,8 @@ sendtofree-b h3 n13 n12 n3 n4
 4
 0 4 0 1
 0 24 5 4
-0 26 0 2
 0 25 7 8
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41411,8 +41411,8 @@ sendtofree-b h3 n13 n12 n4 n5
 4
 0 4 0 1
 0 24 5 4
-0 26 0 2
 0 25 8 9
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41421,8 +41421,8 @@ sendtofree-b h3 n13 n12 n5 n6
 4
 0 4 0 1
 0 24 5 4
-0 26 0 2
 0 25 9 10
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41431,8 +41431,8 @@ sendtofree-b h3 n13 n12 n6 n7
 4
 0 4 0 1
 0 24 5 4
-0 26 0 2
 0 25 10 11
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41441,8 +41441,8 @@ sendtofree-b h3 n13 n12 n7 n8
 4
 0 4 0 1
 0 24 5 4
-0 26 0 2
 0 25 11 12
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41451,8 +41451,8 @@ sendtofree-b h3 n13 n12 n8 n9
 4
 0 4 0 1
 0 24 5 4
-0 26 0 2
 0 25 12 13
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41461,8 +41461,8 @@ sendtofree-b h3 n13 n12 n9 n10
 4
 0 4 0 1
 0 24 5 4
-0 26 0 2
 0 25 13 2
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41471,8 +41471,8 @@ sendtofree-b h3 n2 n1 n0 n1
 4
 0 4 0 1
 0 24 6 1
-0 26 0 2
 0 25 0 1
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41481,8 +41481,8 @@ sendtofree-b h3 n2 n1 n1 n2
 4
 0 4 0 1
 0 24 6 1
-0 26 0 2
 0 25 1 6
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41491,8 +41491,8 @@ sendtofree-b h3 n2 n1 n10 n11
 4
 0 4 0 1
 0 24 6 1
-0 26 0 2
 0 25 2 3
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41501,8 +41501,8 @@ sendtofree-b h3 n2 n1 n11 n12
 4
 0 4 0 1
 0 24 6 1
-0 26 0 2
 0 25 3 4
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41511,8 +41511,8 @@ sendtofree-b h3 n2 n1 n12 n13
 4
 0 4 0 1
 0 24 6 1
-0 26 0 2
 0 25 4 5
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41521,8 +41521,8 @@ sendtofree-b h3 n2 n1 n2 n3
 4
 0 4 0 1
 0 24 6 1
-0 26 0 2
 0 25 6 7
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41531,8 +41531,8 @@ sendtofree-b h3 n2 n1 n3 n4
 4
 0 4 0 1
 0 24 6 1
-0 26 0 2
 0 25 7 8
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41541,8 +41541,8 @@ sendtofree-b h3 n2 n1 n4 n5
 4
 0 4 0 1
 0 24 6 1
-0 26 0 2
 0 25 8 9
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41551,8 +41551,8 @@ sendtofree-b h3 n2 n1 n5 n6
 4
 0 4 0 1
 0 24 6 1
-0 26 0 2
 0 25 9 10
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41561,8 +41561,8 @@ sendtofree-b h3 n2 n1 n6 n7
 4
 0 4 0 1
 0 24 6 1
-0 26 0 2
 0 25 10 11
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41571,8 +41571,8 @@ sendtofree-b h3 n2 n1 n7 n8
 4
 0 4 0 1
 0 24 6 1
-0 26 0 2
 0 25 11 12
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41581,8 +41581,8 @@ sendtofree-b h3 n2 n1 n8 n9
 4
 0 4 0 1
 0 24 6 1
-0 26 0 2
 0 25 12 13
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41591,8 +41591,8 @@ sendtofree-b h3 n2 n1 n9 n10
 4
 0 4 0 1
 0 24 6 1
-0 26 0 2
 0 25 13 2
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41601,8 +41601,8 @@ sendtofree-b h3 n3 n2 n0 n1
 4
 0 4 0 1
 0 24 7 6
-0 26 0 2
 0 25 0 1
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41611,8 +41611,8 @@ sendtofree-b h3 n3 n2 n1 n2
 4
 0 4 0 1
 0 24 7 6
-0 26 0 2
 0 25 1 6
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41621,8 +41621,8 @@ sendtofree-b h3 n3 n2 n10 n11
 4
 0 4 0 1
 0 24 7 6
-0 26 0 2
 0 25 2 3
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41631,8 +41631,8 @@ sendtofree-b h3 n3 n2 n11 n12
 4
 0 4 0 1
 0 24 7 6
-0 26 0 2
 0 25 3 4
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41641,8 +41641,8 @@ sendtofree-b h3 n3 n2 n12 n13
 4
 0 4 0 1
 0 24 7 6
-0 26 0 2
 0 25 4 5
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41651,8 +41651,8 @@ sendtofree-b h3 n3 n2 n2 n3
 4
 0 4 0 1
 0 24 7 6
-0 26 0 2
 0 25 6 7
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41661,8 +41661,8 @@ sendtofree-b h3 n3 n2 n3 n4
 4
 0 4 0 1
 0 24 7 6
-0 26 0 2
 0 25 7 8
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41671,8 +41671,8 @@ sendtofree-b h3 n3 n2 n4 n5
 4
 0 4 0 1
 0 24 7 6
-0 26 0 2
 0 25 8 9
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41681,8 +41681,8 @@ sendtofree-b h3 n3 n2 n5 n6
 4
 0 4 0 1
 0 24 7 6
-0 26 0 2
 0 25 9 10
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41691,8 +41691,8 @@ sendtofree-b h3 n3 n2 n6 n7
 4
 0 4 0 1
 0 24 7 6
-0 26 0 2
 0 25 10 11
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41701,8 +41701,8 @@ sendtofree-b h3 n3 n2 n7 n8
 4
 0 4 0 1
 0 24 7 6
-0 26 0 2
 0 25 11 12
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41711,8 +41711,8 @@ sendtofree-b h3 n3 n2 n8 n9
 4
 0 4 0 1
 0 24 7 6
-0 26 0 2
 0 25 12 13
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41721,8 +41721,8 @@ sendtofree-b h3 n3 n2 n9 n10
 4
 0 4 0 1
 0 24 7 6
-0 26 0 2
 0 25 13 2
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41731,8 +41731,8 @@ sendtofree-b h3 n4 n3 n0 n1
 4
 0 4 0 1
 0 24 8 7
-0 26 0 2
 0 25 0 1
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41741,8 +41741,8 @@ sendtofree-b h3 n4 n3 n1 n2
 4
 0 4 0 1
 0 24 8 7
-0 26 0 2
 0 25 1 6
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41751,8 +41751,8 @@ sendtofree-b h3 n4 n3 n10 n11
 4
 0 4 0 1
 0 24 8 7
-0 26 0 2
 0 25 2 3
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41761,8 +41761,8 @@ sendtofree-b h3 n4 n3 n11 n12
 4
 0 4 0 1
 0 24 8 7
-0 26 0 2
 0 25 3 4
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41771,8 +41771,8 @@ sendtofree-b h3 n4 n3 n12 n13
 4
 0 4 0 1
 0 24 8 7
-0 26 0 2
 0 25 4 5
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41781,8 +41781,8 @@ sendtofree-b h3 n4 n3 n2 n3
 4
 0 4 0 1
 0 24 8 7
-0 26 0 2
 0 25 6 7
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41791,8 +41791,8 @@ sendtofree-b h3 n4 n3 n3 n4
 4
 0 4 0 1
 0 24 8 7
-0 26 0 2
 0 25 7 8
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41801,8 +41801,8 @@ sendtofree-b h3 n4 n3 n4 n5
 4
 0 4 0 1
 0 24 8 7
-0 26 0 2
 0 25 8 9
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41811,8 +41811,8 @@ sendtofree-b h3 n4 n3 n5 n6
 4
 0 4 0 1
 0 24 8 7
-0 26 0 2
 0 25 9 10
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41821,8 +41821,8 @@ sendtofree-b h3 n4 n3 n6 n7
 4
 0 4 0 1
 0 24 8 7
-0 26 0 2
 0 25 10 11
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41831,8 +41831,8 @@ sendtofree-b h3 n4 n3 n7 n8
 4
 0 4 0 1
 0 24 8 7
-0 26 0 2
 0 25 11 12
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41841,8 +41841,8 @@ sendtofree-b h3 n4 n3 n8 n9
 4
 0 4 0 1
 0 24 8 7
-0 26 0 2
 0 25 12 13
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41851,8 +41851,8 @@ sendtofree-b h3 n4 n3 n9 n10
 4
 0 4 0 1
 0 24 8 7
-0 26 0 2
 0 25 13 2
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41861,8 +41861,8 @@ sendtofree-b h3 n5 n4 n0 n1
 4
 0 4 0 1
 0 24 9 8
-0 26 0 2
 0 25 0 1
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41871,8 +41871,8 @@ sendtofree-b h3 n5 n4 n1 n2
 4
 0 4 0 1
 0 24 9 8
-0 26 0 2
 0 25 1 6
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41881,8 +41881,8 @@ sendtofree-b h3 n5 n4 n10 n11
 4
 0 4 0 1
 0 24 9 8
-0 26 0 2
 0 25 2 3
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41891,8 +41891,8 @@ sendtofree-b h3 n5 n4 n11 n12
 4
 0 4 0 1
 0 24 9 8
-0 26 0 2
 0 25 3 4
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41901,8 +41901,8 @@ sendtofree-b h3 n5 n4 n12 n13
 4
 0 4 0 1
 0 24 9 8
-0 26 0 2
 0 25 4 5
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41911,8 +41911,8 @@ sendtofree-b h3 n5 n4 n2 n3
 4
 0 4 0 1
 0 24 9 8
-0 26 0 2
 0 25 6 7
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41921,8 +41921,8 @@ sendtofree-b h3 n5 n4 n3 n4
 4
 0 4 0 1
 0 24 9 8
-0 26 0 2
 0 25 7 8
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41931,8 +41931,8 @@ sendtofree-b h3 n5 n4 n4 n5
 4
 0 4 0 1
 0 24 9 8
-0 26 0 2
 0 25 8 9
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41941,8 +41941,8 @@ sendtofree-b h3 n5 n4 n5 n6
 4
 0 4 0 1
 0 24 9 8
-0 26 0 2
 0 25 9 10
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41951,8 +41951,8 @@ sendtofree-b h3 n5 n4 n6 n7
 4
 0 4 0 1
 0 24 9 8
-0 26 0 2
 0 25 10 11
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41961,8 +41961,8 @@ sendtofree-b h3 n5 n4 n7 n8
 4
 0 4 0 1
 0 24 9 8
-0 26 0 2
 0 25 11 12
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41971,8 +41971,8 @@ sendtofree-b h3 n5 n4 n8 n9
 4
 0 4 0 1
 0 24 9 8
-0 26 0 2
 0 25 12 13
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41981,8 +41981,8 @@ sendtofree-b h3 n5 n4 n9 n10
 4
 0 4 0 1
 0 24 9 8
-0 26 0 2
 0 25 13 2
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -41991,8 +41991,8 @@ sendtofree-b h3 n6 n5 n0 n1
 4
 0 4 0 1
 0 24 10 9
-0 26 0 2
 0 25 0 1
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42001,8 +42001,8 @@ sendtofree-b h3 n6 n5 n1 n2
 4
 0 4 0 1
 0 24 10 9
-0 26 0 2
 0 25 1 6
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42011,8 +42011,8 @@ sendtofree-b h3 n6 n5 n10 n11
 4
 0 4 0 1
 0 24 10 9
-0 26 0 2
 0 25 2 3
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42021,8 +42021,8 @@ sendtofree-b h3 n6 n5 n11 n12
 4
 0 4 0 1
 0 24 10 9
-0 26 0 2
 0 25 3 4
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42031,8 +42031,8 @@ sendtofree-b h3 n6 n5 n12 n13
 4
 0 4 0 1
 0 24 10 9
-0 26 0 2
 0 25 4 5
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42041,8 +42041,8 @@ sendtofree-b h3 n6 n5 n2 n3
 4
 0 4 0 1
 0 24 10 9
-0 26 0 2
 0 25 6 7
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42051,8 +42051,8 @@ sendtofree-b h3 n6 n5 n3 n4
 4
 0 4 0 1
 0 24 10 9
-0 26 0 2
 0 25 7 8
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42061,8 +42061,8 @@ sendtofree-b h3 n6 n5 n4 n5
 4
 0 4 0 1
 0 24 10 9
-0 26 0 2
 0 25 8 9
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42071,8 +42071,8 @@ sendtofree-b h3 n6 n5 n5 n6
 4
 0 4 0 1
 0 24 10 9
-0 26 0 2
 0 25 9 10
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42081,8 +42081,8 @@ sendtofree-b h3 n6 n5 n6 n7
 4
 0 4 0 1
 0 24 10 9
-0 26 0 2
 0 25 10 11
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42091,8 +42091,8 @@ sendtofree-b h3 n6 n5 n7 n8
 4
 0 4 0 1
 0 24 10 9
-0 26 0 2
 0 25 11 12
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42101,8 +42101,8 @@ sendtofree-b h3 n6 n5 n8 n9
 4
 0 4 0 1
 0 24 10 9
-0 26 0 2
 0 25 12 13
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42111,8 +42111,8 @@ sendtofree-b h3 n6 n5 n9 n10
 4
 0 4 0 1
 0 24 10 9
-0 26 0 2
 0 25 13 2
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42121,8 +42121,8 @@ sendtofree-b h3 n7 n6 n0 n1
 4
 0 4 0 1
 0 24 11 10
-0 26 0 2
 0 25 0 1
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42131,8 +42131,8 @@ sendtofree-b h3 n7 n6 n1 n2
 4
 0 4 0 1
 0 24 11 10
-0 26 0 2
 0 25 1 6
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42141,8 +42141,8 @@ sendtofree-b h3 n7 n6 n10 n11
 4
 0 4 0 1
 0 24 11 10
-0 26 0 2
 0 25 2 3
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42151,8 +42151,8 @@ sendtofree-b h3 n7 n6 n11 n12
 4
 0 4 0 1
 0 24 11 10
-0 26 0 2
 0 25 3 4
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42161,8 +42161,8 @@ sendtofree-b h3 n7 n6 n12 n13
 4
 0 4 0 1
 0 24 11 10
-0 26 0 2
 0 25 4 5
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42171,8 +42171,8 @@ sendtofree-b h3 n7 n6 n2 n3
 4
 0 4 0 1
 0 24 11 10
-0 26 0 2
 0 25 6 7
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42181,8 +42181,8 @@ sendtofree-b h3 n7 n6 n3 n4
 4
 0 4 0 1
 0 24 11 10
-0 26 0 2
 0 25 7 8
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42191,8 +42191,8 @@ sendtofree-b h3 n7 n6 n4 n5
 4
 0 4 0 1
 0 24 11 10
-0 26 0 2
 0 25 8 9
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42201,8 +42201,8 @@ sendtofree-b h3 n7 n6 n5 n6
 4
 0 4 0 1
 0 24 11 10
-0 26 0 2
 0 25 9 10
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42211,8 +42211,8 @@ sendtofree-b h3 n7 n6 n6 n7
 4
 0 4 0 1
 0 24 11 10
-0 26 0 2
 0 25 10 11
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42221,8 +42221,8 @@ sendtofree-b h3 n7 n6 n7 n8
 4
 0 4 0 1
 0 24 11 10
-0 26 0 2
 0 25 11 12
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42231,8 +42231,8 @@ sendtofree-b h3 n7 n6 n8 n9
 4
 0 4 0 1
 0 24 11 10
-0 26 0 2
 0 25 12 13
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42241,8 +42241,8 @@ sendtofree-b h3 n7 n6 n9 n10
 4
 0 4 0 1
 0 24 11 10
-0 26 0 2
 0 25 13 2
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42251,8 +42251,8 @@ sendtofree-b h3 n8 n7 n0 n1
 4
 0 4 0 1
 0 24 12 11
-0 26 0 2
 0 25 0 1
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42261,8 +42261,8 @@ sendtofree-b h3 n8 n7 n1 n2
 4
 0 4 0 1
 0 24 12 11
-0 26 0 2
 0 25 1 6
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42271,8 +42271,8 @@ sendtofree-b h3 n8 n7 n10 n11
 4
 0 4 0 1
 0 24 12 11
-0 26 0 2
 0 25 2 3
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42281,8 +42281,8 @@ sendtofree-b h3 n8 n7 n11 n12
 4
 0 4 0 1
 0 24 12 11
-0 26 0 2
 0 25 3 4
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42291,8 +42291,8 @@ sendtofree-b h3 n8 n7 n12 n13
 4
 0 4 0 1
 0 24 12 11
-0 26 0 2
 0 25 4 5
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42301,8 +42301,8 @@ sendtofree-b h3 n8 n7 n2 n3
 4
 0 4 0 1
 0 24 12 11
-0 26 0 2
 0 25 6 7
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42311,8 +42311,8 @@ sendtofree-b h3 n8 n7 n3 n4
 4
 0 4 0 1
 0 24 12 11
-0 26 0 2
 0 25 7 8
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42321,8 +42321,8 @@ sendtofree-b h3 n8 n7 n4 n5
 4
 0 4 0 1
 0 24 12 11
-0 26 0 2
 0 25 8 9
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42331,8 +42331,8 @@ sendtofree-b h3 n8 n7 n5 n6
 4
 0 4 0 1
 0 24 12 11
-0 26 0 2
 0 25 9 10
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42341,8 +42341,8 @@ sendtofree-b h3 n8 n7 n6 n7
 4
 0 4 0 1
 0 24 12 11
-0 26 0 2
 0 25 10 11
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42351,8 +42351,8 @@ sendtofree-b h3 n8 n7 n7 n8
 4
 0 4 0 1
 0 24 12 11
-0 26 0 2
 0 25 11 12
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42361,8 +42361,8 @@ sendtofree-b h3 n8 n7 n8 n9
 4
 0 4 0 1
 0 24 12 11
-0 26 0 2
 0 25 12 13
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42371,8 +42371,8 @@ sendtofree-b h3 n8 n7 n9 n10
 4
 0 4 0 1
 0 24 12 11
-0 26 0 2
 0 25 13 2
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42381,8 +42381,8 @@ sendtofree-b h3 n9 n8 n0 n1
 4
 0 4 0 1
 0 24 13 12
-0 26 0 2
 0 25 0 1
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42391,8 +42391,8 @@ sendtofree-b h3 n9 n8 n1 n2
 4
 0 4 0 1
 0 24 13 12
-0 26 0 2
 0 25 1 6
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42401,8 +42401,8 @@ sendtofree-b h3 n9 n8 n10 n11
 4
 0 4 0 1
 0 24 13 12
-0 26 0 2
 0 25 2 3
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42411,8 +42411,8 @@ sendtofree-b h3 n9 n8 n11 n12
 4
 0 4 0 1
 0 24 13 12
-0 26 0 2
 0 25 3 4
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42421,8 +42421,8 @@ sendtofree-b h3 n9 n8 n12 n13
 4
 0 4 0 1
 0 24 13 12
-0 26 0 2
 0 25 4 5
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42431,8 +42431,8 @@ sendtofree-b h3 n9 n8 n2 n3
 4
 0 4 0 1
 0 24 13 12
-0 26 0 2
 0 25 6 7
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42441,8 +42441,8 @@ sendtofree-b h3 n9 n8 n3 n4
 4
 0 4 0 1
 0 24 13 12
-0 26 0 2
 0 25 7 8
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42451,8 +42451,8 @@ sendtofree-b h3 n9 n8 n4 n5
 4
 0 4 0 1
 0 24 13 12
-0 26 0 2
 0 25 8 9
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42461,8 +42461,8 @@ sendtofree-b h3 n9 n8 n5 n6
 4
 0 4 0 1
 0 24 13 12
-0 26 0 2
 0 25 9 10
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42471,8 +42471,8 @@ sendtofree-b h3 n9 n8 n6 n7
 4
 0 4 0 1
 0 24 13 12
-0 26 0 2
 0 25 10 11
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42481,8 +42481,8 @@ sendtofree-b h3 n9 n8 n7 n8
 4
 0 4 0 1
 0 24 13 12
-0 26 0 2
 0 25 11 12
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42491,8 +42491,8 @@ sendtofree-b h3 n9 n8 n8 n9
 4
 0 4 0 1
 0 24 13 12
-0 26 0 2
 0 25 12 13
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42501,8 +42501,8 @@ sendtofree-b h3 n9 n8 n9 n10
 4
 0 4 0 1
 0 24 13 12
-0 26 0 2
 0 25 13 2
+0 26 0 2
 1
 end_operator
 begin_operator
@@ -42510,8 +42510,8 @@ sendtofree-b ha n1 n0 n0 n1
 0
 4
 0 12 0 2
-0 24 1 0
 0 13 0 1
+0 24 1 0
 0 25 0 1
 1
 end_operator
@@ -42520,8 +42520,8 @@ sendtofree-b ha n1 n0 n1 n2
 0
 4
 0 12 0 2
-0 24 1 0
 0 13 0 1
+0 24 1 0
 0 25 1 6
 1
 end_operator
@@ -42530,8 +42530,8 @@ sendtofree-b ha n1 n0 n10 n11
 0
 4
 0 12 0 2
-0 24 1 0
 0 13 0 1
+0 24 1 0
 0 25 2 3
 1
 end_operator
@@ -42540,8 +42540,8 @@ sendtofree-b ha n1 n0 n11 n12
 0
 4
 0 12 0 2
-0 24 1 0
 0 13 0 1
+0 24 1 0
 0 25 3 4
 1
 end_operator
@@ -42550,8 +42550,8 @@ sendtofree-b ha n1 n0 n12 n13
 0
 4
 0 12 0 2
-0 24 1 0
 0 13 0 1
+0 24 1 0
 0 25 4 5
 1
 end_operator
@@ -42560,8 +42560,8 @@ sendtofree-b ha n1 n0 n2 n3
 0
 4
 0 12 0 2
-0 24 1 0
 0 13 0 1
+0 24 1 0
 0 25 6 7
 1
 end_operator
@@ -42570,8 +42570,8 @@ sendtofree-b ha n1 n0 n3 n4
 0
 4
 0 12 0 2
-0 24 1 0
 0 13 0 1
+0 24 1 0
 0 25 7 8
 1
 end_operator
@@ -42580,8 +42580,8 @@ sendtofree-b ha n1 n0 n4 n5
 0
 4
 0 12 0 2
-0 24 1 0
 0 13 0 1
+0 24 1 0
 0 25 8 9
 1
 end_operator
@@ -42590,8 +42590,8 @@ sendtofree-b ha n1 n0 n5 n6
 0
 4
 0 12 0 2
-0 24 1 0
 0 13 0 1
+0 24 1 0
 0 25 9 10
 1
 end_operator
@@ -42600,8 +42600,8 @@ sendtofree-b ha n1 n0 n6 n7
 0
 4
 0 12 0 2
-0 24 1 0
 0 13 0 1
+0 24 1 0
 0 25 10 11
 1
 end_operator
@@ -42610,8 +42610,8 @@ sendtofree-b ha n1 n0 n7 n8
 0
 4
 0 12 0 2
-0 24 1 0
 0 13 0 1
+0 24 1 0
 0 25 11 12
 1
 end_operator
@@ -42620,8 +42620,8 @@ sendtofree-b ha n1 n0 n8 n9
 0
 4
 0 12 0 2
-0 24 1 0
 0 13 0 1
+0 24 1 0
 0 25 12 13
 1
 end_operator
@@ -42630,8 +42630,8 @@ sendtofree-b ha n1 n0 n9 n10
 0
 4
 0 12 0 2
-0 24 1 0
 0 13 0 1
+0 24 1 0
 0 25 13 2
 1
 end_operator
@@ -42640,8 +42640,8 @@ sendtofree-b ha n10 n9 n0 n1
 0
 4
 0 12 0 2
-0 24 2 13
 0 13 0 1
+0 24 2 13
 0 25 0 1
 1
 end_operator
@@ -42650,8 +42650,8 @@ sendtofree-b ha n10 n9 n1 n2
 0
 4
 0 12 0 2
-0 24 2 13
 0 13 0 1
+0 24 2 13
 0 25 1 6
 1
 end_operator
@@ -42660,8 +42660,8 @@ sendtofree-b ha n10 n9 n10 n11
 0
 4
 0 12 0 2
-0 24 2 13
 0 13 0 1
+0 24 2 13
 0 25 2 3
 1
 end_operator
@@ -42670,8 +42670,8 @@ sendtofree-b ha n10 n9 n11 n12
 0
 4
 0 12 0 2
-0 24 2 13
 0 13 0 1
+0 24 2 13
 0 25 3 4
 1
 end_operator
@@ -42680,8 +42680,8 @@ sendtofree-b ha n10 n9 n12 n13
 0
 4
 0 12 0 2
-0 24 2 13
 0 13 0 1
+0 24 2 13
 0 25 4 5
 1
 end_operator
@@ -42690,8 +42690,8 @@ sendtofree-b ha n10 n9 n2 n3
 0
 4
 0 12 0 2
-0 24 2 13
 0 13 0 1
+0 24 2 13
 0 25 6 7
 1
 end_operator
@@ -42700,8 +42700,8 @@ sendtofree-b ha n10 n9 n3 n4
 0
 4
 0 12 0 2
-0 24 2 13
 0 13 0 1
+0 24 2 13
 0 25 7 8
 1
 end_operator
@@ -42710,8 +42710,8 @@ sendtofree-b ha n10 n9 n4 n5
 0
 4
 0 12 0 2
-0 24 2 13
 0 13 0 1
+0 24 2 13
 0 25 8 9
 1
 end_operator
@@ -42720,8 +42720,8 @@ sendtofree-b ha n10 n9 n5 n6
 0
 4
 0 12 0 2
-0 24 2 13
 0 13 0 1
+0 24 2 13
 0 25 9 10
 1
 end_operator
@@ -42730,8 +42730,8 @@ sendtofree-b ha n10 n9 n6 n7
 0
 4
 0 12 0 2
-0 24 2 13
 0 13 0 1
+0 24 2 13
 0 25 10 11
 1
 end_operator
@@ -42740,8 +42740,8 @@ sendtofree-b ha n10 n9 n7 n8
 0
 4
 0 12 0 2
-0 24 2 13
 0 13 0 1
+0 24 2 13
 0 25 11 12
 1
 end_operator
@@ -42750,8 +42750,8 @@ sendtofree-b ha n10 n9 n8 n9
 0
 4
 0 12 0 2
-0 24 2 13
 0 13 0 1
+0 24 2 13
 0 25 12 13
 1
 end_operator
@@ -42760,8 +42760,8 @@ sendtofree-b ha n10 n9 n9 n10
 0
 4
 0 12 0 2
-0 24 2 13
 0 13 0 1
+0 24 2 13
 0 25 13 2
 1
 end_operator
@@ -42770,8 +42770,8 @@ sendtofree-b ha n11 n10 n0 n1
 0
 4
 0 12 0 2
-0 24 3 2
 0 13 0 1
+0 24 3 2
 0 25 0 1
 1
 end_operator
@@ -42780,8 +42780,8 @@ sendtofree-b ha n11 n10 n1 n2
 0
 4
 0 12 0 2
-0 24 3 2
 0 13 0 1
+0 24 3 2
 0 25 1 6
 1
 end_operator
@@ -42790,8 +42790,8 @@ sendtofree-b ha n11 n10 n10 n11
 0
 4
 0 12 0 2
-0 24 3 2
 0 13 0 1
+0 24 3 2
 0 25 2 3
 1
 end_operator
@@ -42800,8 +42800,8 @@ sendtofree-b ha n11 n10 n11 n12
 0
 4
 0 12 0 2
-0 24 3 2
 0 13 0 1
+0 24 3 2
 0 25 3 4
 1
 end_operator
@@ -42810,8 +42810,8 @@ sendtofree-b ha n11 n10 n12 n13
 0
 4
 0 12 0 2
-0 24 3 2
 0 13 0 1
+0 24 3 2
 0 25 4 5
 1
 end_operator
@@ -42820,8 +42820,8 @@ sendtofree-b ha n11 n10 n2 n3
 0
 4
 0 12 0 2
-0 24 3 2
 0 13 0 1
+0 24 3 2
 0 25 6 7
 1
 end_operator
@@ -42830,8 +42830,8 @@ sendtofree-b ha n11 n10 n3 n4
 0
 4
 0 12 0 2
-0 24 3 2
 0 13 0 1
+0 24 3 2
 0 25 7 8
 1
 end_operator
@@ -42840,8 +42840,8 @@ sendtofree-b ha n11 n10 n4 n5
 0
 4
 0 12 0 2
-0 24 3 2
 0 13 0 1
+0 24 3 2
 0 25 8 9
 1
 end_operator
@@ -42850,8 +42850,8 @@ sendtofree-b ha n11 n10 n5 n6
 0
 4
 0 12 0 2
-0 24 3 2
 0 13 0 1
+0 24 3 2
 0 25 9 10
 1
 end_operator
@@ -42860,8 +42860,8 @@ sendtofree-b ha n11 n10 n6 n7
 0
 4
 0 12 0 2
-0 24 3 2
 0 13 0 1
+0 24 3 2
 0 25 10 11
 1
 end_operator
@@ -42870,8 +42870,8 @@ sendtofree-b ha n11 n10 n7 n8
 0
 4
 0 12 0 2
-0 24 3 2
 0 13 0 1
+0 24 3 2
 0 25 11 12
 1
 end_operator
@@ -42880,8 +42880,8 @@ sendtofree-b ha n11 n10 n8 n9
 0
 4
 0 12 0 2
-0 24 3 2
 0 13 0 1
+0 24 3 2
 0 25 12 13
 1
 end_operator
@@ -42890,8 +42890,8 @@ sendtofree-b ha n11 n10 n9 n10
 0
 4
 0 12 0 2
-0 24 3 2
 0 13 0 1
+0 24 3 2
 0 25 13 2
 1
 end_operator
@@ -42900,8 +42900,8 @@ sendtofree-b ha n12 n11 n0 n1
 0
 4
 0 12 0 2
-0 24 4 3
 0 13 0 1
+0 24 4 3
 0 25 0 1
 1
 end_operator
@@ -42910,8 +42910,8 @@ sendtofree-b ha n12 n11 n1 n2
 0
 4
 0 12 0 2
-0 24 4 3
 0 13 0 1
+0 24 4 3
 0 25 1 6
 1
 end_operator
@@ -42920,8 +42920,8 @@ sendtofree-b ha n12 n11 n10 n11
 0
 4
 0 12 0 2
-0 24 4 3
 0 13 0 1
+0 24 4 3
 0 25 2 3
 1
 end_operator
@@ -42930,8 +42930,8 @@ sendtofree-b ha n12 n11 n11 n12
 0
 4
 0 12 0 2
-0 24 4 3
 0 13 0 1
+0 24 4 3
 0 25 3 4
 1
 end_operator
@@ -42940,8 +42940,8 @@ sendtofree-b ha n12 n11 n12 n13
 0
 4
 0 12 0 2
-0 24 4 3
 0 13 0 1
+0 24 4 3
 0 25 4 5
 1
 end_operator
@@ -42950,8 +42950,8 @@ sendtofree-b ha n12 n11 n2 n3
 0
 4
 0 12 0 2
-0 24 4 3
 0 13 0 1
+0 24 4 3
 0 25 6 7
 1
 end_operator
@@ -42960,8 +42960,8 @@ sendtofree-b ha n12 n11 n3 n4
 0
 4
 0 12 0 2
-0 24 4 3
 0 13 0 1
+0 24 4 3
 0 25 7 8
 1
 end_operator
@@ -42970,8 +42970,8 @@ sendtofree-b ha n12 n11 n4 n5
 0
 4
 0 12 0 2
-0 24 4 3
 0 13 0 1
+0 24 4 3
 0 25 8 9
 1
 end_operator
@@ -42980,8 +42980,8 @@ sendtofree-b ha n12 n11 n5 n6
 0
 4
 0 12 0 2
-0 24 4 3
 0 13 0 1
+0 24 4 3
 0 25 9 10
 1
 end_operator
@@ -42990,8 +42990,8 @@ sendtofree-b ha n12 n11 n6 n7
 0
 4
 0 12 0 2
-0 24 4 3
 0 13 0 1
+0 24 4 3
 0 25 10 11
 1
 end_operator
@@ -43000,8 +43000,8 @@ sendtofree-b ha n12 n11 n7 n8
 0
 4
 0 12 0 2
-0 24 4 3
 0 13 0 1
+0 24 4 3
 0 25 11 12
 1
 end_operator
@@ -43010,8 +43010,8 @@ sendtofree-b ha n12 n11 n8 n9
 0
 4
 0 12 0 2
-0 24 4 3
 0 13 0 1
+0 24 4 3
 0 25 12 13
 1
 end_operator
@@ -43020,8 +43020,8 @@ sendtofree-b ha n12 n11 n9 n10
 0
 4
 0 12 0 2
-0 24 4 3
 0 13 0 1
+0 24 4 3
 0 25 13 2
 1
 end_operator
@@ -43030,8 +43030,8 @@ sendtofree-b ha n13 n12 n0 n1
 0
 4
 0 12 0 2
-0 24 5 4
 0 13 0 1
+0 24 5 4
 0 25 0 1
 1
 end_operator
@@ -43040,8 +43040,8 @@ sendtofree-b ha n13 n12 n1 n2
 0
 4
 0 12 0 2
-0 24 5 4
 0 13 0 1
+0 24 5 4
 0 25 1 6
 1
 end_operator
@@ -43050,8 +43050,8 @@ sendtofree-b ha n13 n12 n10 n11
 0
 4
 0 12 0 2
-0 24 5 4
 0 13 0 1
+0 24 5 4
 0 25 2 3
 1
 end_operator
@@ -43060,8 +43060,8 @@ sendtofree-b ha n13 n12 n11 n12
 0
 4
 0 12 0 2
-0 24 5 4
 0 13 0 1
+0 24 5 4
 0 25 3 4
 1
 end_operator
@@ -43070,8 +43070,8 @@ sendtofree-b ha n13 n12 n12 n13
 0
 4
 0 12 0 2
-0 24 5 4
 0 13 0 1
+0 24 5 4
 0 25 4 5
 1
 end_operator
@@ -43080,8 +43080,8 @@ sendtofree-b ha n13 n12 n2 n3
 0
 4
 0 12 0 2
-0 24 5 4
 0 13 0 1
+0 24 5 4
 0 25 6 7
 1
 end_operator
@@ -43090,8 +43090,8 @@ sendtofree-b ha n13 n12 n3 n4
 0
 4
 0 12 0 2
-0 24 5 4
 0 13 0 1
+0 24 5 4
 0 25 7 8
 1
 end_operator
@@ -43100,8 +43100,8 @@ sendtofree-b ha n13 n12 n4 n5
 0
 4
 0 12 0 2
-0 24 5 4
 0 13 0 1
+0 24 5 4
 0 25 8 9
 1
 end_operator
@@ -43110,8 +43110,8 @@ sendtofree-b ha n13 n12 n5 n6
 0
 4
 0 12 0 2
-0 24 5 4
 0 13 0 1
+0 24 5 4
 0 25 9 10
 1
 end_operator
@@ -43120,8 +43120,8 @@ sendtofree-b ha n13 n12 n6 n7
 0
 4
 0 12 0 2
-0 24 5 4
 0 13 0 1
+0 24 5 4
 0 25 10 11
 1
 end_operator
@@ -43130,8 +43130,8 @@ sendtofree-b ha n13 n12 n7 n8
 0
 4
 0 12 0 2
-0 24 5 4
 0 13 0 1
+0 24 5 4
 0 25 11 12
 1
 end_operator
@@ -43140,8 +43140,8 @@ sendtofree-b ha n13 n12 n8 n9
 0
 4
 0 12 0 2
-0 24 5 4
 0 13 0 1
+0 24 5 4
 0 25 12 13
 1
 end_operator
@@ -43150,8 +43150,8 @@ sendtofree-b ha n13 n12 n9 n10
 0
 4
 0 12 0 2
-0 24 5 4
 0 13 0 1
+0 24 5 4
 0 25 13 2
 1
 end_operator
@@ -43160,8 +43160,8 @@ sendtofree-b ha n2 n1 n0 n1
 0
 4
 0 12 0 2
-0 24 6 1
 0 13 0 1
+0 24 6 1
 0 25 0 1
 1
 end_operator
@@ -43170,8 +43170,8 @@ sendtofree-b ha n2 n1 n1 n2
 0
 4
 0 12 0 2
-0 24 6 1
 0 13 0 1
+0 24 6 1
 0 25 1 6
 1
 end_operator
@@ -43180,8 +43180,8 @@ sendtofree-b ha n2 n1 n10 n11
 0
 4
 0 12 0 2
-0 24 6 1
 0 13 0 1
+0 24 6 1
 0 25 2 3
 1
 end_operator
@@ -43190,8 +43190,8 @@ sendtofree-b ha n2 n1 n11 n12
 0
 4
 0 12 0 2
-0 24 6 1
 0 13 0 1
+0 24 6 1
 0 25 3 4
 1
 end_operator
@@ -43200,8 +43200,8 @@ sendtofree-b ha n2 n1 n12 n13
 0
 4
 0 12 0 2
-0 24 6 1
 0 13 0 1
+0 24 6 1
 0 25 4 5
 1
 end_operator
@@ -43210,8 +43210,8 @@ sendtofree-b ha n2 n1 n2 n3
 0
 4
 0 12 0 2
-0 24 6 1
 0 13 0 1
+0 24 6 1
 0 25 6 7
 1
 end_operator
@@ -43220,8 +43220,8 @@ sendtofree-b ha n2 n1 n3 n4
 0
 4
 0 12 0 2
-0 24 6 1
 0 13 0 1
+0 24 6 1
 0 25 7 8
 1
 end_operator
@@ -43230,8 +43230,8 @@ sendtofree-b ha n2 n1 n4 n5
 0
 4
 0 12 0 2
-0 24 6 1
 0 13 0 1
+0 24 6 1
 0 25 8 9
 1
 end_operator
@@ -43240,8 +43240,8 @@ sendtofree-b ha n2 n1 n5 n6
 0
 4
 0 12 0 2
-0 24 6 1
 0 13 0 1
+0 24 6 1
 0 25 9 10
 1
 end_operator
@@ -43250,8 +43250,8 @@ sendtofree-b ha n2 n1 n6 n7
 0
 4
 0 12 0 2
-0 24 6 1
 0 13 0 1
+0 24 6 1
 0 25 10 11
 1
 end_operator
@@ -43260,8 +43260,8 @@ sendtofree-b ha n2 n1 n7 n8
 0
 4
 0 12 0 2
-0 24 6 1
 0 13 0 1
+0 24 6 1
 0 25 11 12
 1
 end_operator
@@ -43270,8 +43270,8 @@ sendtofree-b ha n2 n1 n8 n9
 0
 4
 0 12 0 2
-0 24 6 1
 0 13 0 1
+0 24 6 1
 0 25 12 13
 1
 end_operator
@@ -43280,8 +43280,8 @@ sendtofree-b ha n2 n1 n9 n10
 0
 4
 0 12 0 2
-0 24 6 1
 0 13 0 1
+0 24 6 1
 0 25 13 2
 1
 end_operator
@@ -43290,8 +43290,8 @@ sendtofree-b ha n3 n2 n0 n1
 0
 4
 0 12 0 2
-0 24 7 6
 0 13 0 1
+0 24 7 6
 0 25 0 1
 1
 end_operator
@@ -43300,8 +43300,8 @@ sendtofree-b ha n3 n2 n1 n2
 0
 4
 0 12 0 2
-0 24 7 6
 0 13 0 1
+0 24 7 6
 0 25 1 6
 1
 end_operator
@@ -43310,8 +43310,8 @@ sendtofree-b ha n3 n2 n10 n11
 0
 4
 0 12 0 2
-0 24 7 6
 0 13 0 1
+0 24 7 6
 0 25 2 3
 1
 end_operator
@@ -43320,8 +43320,8 @@ sendtofree-b ha n3 n2 n11 n12
 0
 4
 0 12 0 2
-0 24 7 6
 0 13 0 1
+0 24 7 6
 0 25 3 4
 1
 end_operator
@@ -43330,8 +43330,8 @@ sendtofree-b ha n3 n2 n12 n13
 0
 4
 0 12 0 2
-0 24 7 6
 0 13 0 1
+0 24 7 6
 0 25 4 5
 1
 end_operator
@@ -43340,8 +43340,8 @@ sendtofree-b ha n3 n2 n2 n3
 0
 4
 0 12 0 2
-0 24 7 6
 0 13 0 1
+0 24 7 6
 0 25 6 7
 1
 end_operator
@@ -43350,8 +43350,8 @@ sendtofree-b ha n3 n2 n3 n4
 0
 4
 0 12 0 2
-0 24 7 6
 0 13 0 1
+0 24 7 6
 0 25 7 8
 1
 end_operator
@@ -43360,8 +43360,8 @@ sendtofree-b ha n3 n2 n4 n5
 0
 4
 0 12 0 2
-0 24 7 6
 0 13 0 1
+0 24 7 6
 0 25 8 9
 1
 end_operator
@@ -43370,8 +43370,8 @@ sendtofree-b ha n3 n2 n5 n6
 0
 4
 0 12 0 2
-0 24 7 6
 0 13 0 1
+0 24 7 6
 0 25 9 10
 1
 end_operator
@@ -43380,8 +43380,8 @@ sendtofree-b ha n3 n2 n6 n7
 0
 4
 0 12 0 2
-0 24 7 6
 0 13 0 1
+0 24 7 6
 0 25 10 11
 1
 end_operator
@@ -43390,8 +43390,8 @@ sendtofree-b ha n3 n2 n7 n8
 0
 4
 0 12 0 2
-0 24 7 6
 0 13 0 1
+0 24 7 6
 0 25 11 12
 1
 end_operator
@@ -43400,8 +43400,8 @@ sendtofree-b ha n3 n2 n8 n9
 0
 4
 0 12 0 2
-0 24 7 6
 0 13 0 1
+0 24 7 6
 0 25 12 13
 1
 end_operator
@@ -43410,8 +43410,8 @@ sendtofree-b ha n3 n2 n9 n10
 0
 4
 0 12 0 2
-0 24 7 6
 0 13 0 1
+0 24 7 6
 0 25 13 2
 1
 end_operator
@@ -43420,8 +43420,8 @@ sendtofree-b ha n4 n3 n0 n1
 0
 4
 0 12 0 2
-0 24 8 7
 0 13 0 1
+0 24 8 7
 0 25 0 1
 1
 end_operator
@@ -43430,8 +43430,8 @@ sendtofree-b ha n4 n3 n1 n2
 0
 4
 0 12 0 2
-0 24 8 7
 0 13 0 1
+0 24 8 7
 0 25 1 6
 1
 end_operator
@@ -43440,8 +43440,8 @@ sendtofree-b ha n4 n3 n10 n11
 0
 4
 0 12 0 2
-0 24 8 7
 0 13 0 1
+0 24 8 7
 0 25 2 3
 1
 end_operator
@@ -43450,8 +43450,8 @@ sendtofree-b ha n4 n3 n11 n12
 0
 4
 0 12 0 2
-0 24 8 7
 0 13 0 1
+0 24 8 7
 0 25 3 4
 1
 end_operator
@@ -43460,8 +43460,8 @@ sendtofree-b ha n4 n3 n12 n13
 0
 4
 0 12 0 2
-0 24 8 7
 0 13 0 1
+0 24 8 7
 0 25 4 5
 1
 end_operator
@@ -43470,8 +43470,8 @@ sendtofree-b ha n4 n3 n2 n3
 0
 4
 0 12 0 2
-0 24 8 7
 0 13 0 1
+0 24 8 7
 0 25 6 7
 1
 end_operator
@@ -43480,8 +43480,8 @@ sendtofree-b ha n4 n3 n3 n4
 0
 4
 0 12 0 2
-0 24 8 7
 0 13 0 1
+0 24 8 7
 0 25 7 8
 1
 end_operator
@@ -43490,8 +43490,8 @@ sendtofree-b ha n4 n3 n4 n5
 0
 4
 0 12 0 2
-0 24 8 7
 0 13 0 1
+0 24 8 7
 0 25 8 9
 1
 end_operator
@@ -43500,8 +43500,8 @@ sendtofree-b ha n4 n3 n5 n6
 0
 4
 0 12 0 2
-0 24 8 7
 0 13 0 1
+0 24 8 7
 0 25 9 10
 1
 end_operator
@@ -43510,8 +43510,8 @@ sendtofree-b ha n4 n3 n6 n7
 0
 4
 0 12 0 2
-0 24 8 7
 0 13 0 1
+0 24 8 7
 0 25 10 11
 1
 end_operator
@@ -43520,8 +43520,8 @@ sendtofree-b ha n4 n3 n7 n8
 0
 4
 0 12 0 2
-0 24 8 7
 0 13 0 1
+0 24 8 7
 0 25 11 12
 1
 end_operator
@@ -43530,8 +43530,8 @@ sendtofree-b ha n4 n3 n8 n9
 0
 4
 0 12 0 2
-0 24 8 7
 0 13 0 1
+0 24 8 7
 0 25 12 13
 1
 end_operator
@@ -43540,8 +43540,8 @@ sendtofree-b ha n4 n3 n9 n10
 0
 4
 0 12 0 2
-0 24 8 7
 0 13 0 1
+0 24 8 7
 0 25 13 2
 1
 end_operator
@@ -43550,8 +43550,8 @@ sendtofree-b ha n5 n4 n0 n1
 0
 4
 0 12 0 2
-0 24 9 8
 0 13 0 1
+0 24 9 8
 0 25 0 1
 1
 end_operator
@@ -43560,8 +43560,8 @@ sendtofree-b ha n5 n4 n1 n2
 0
 4
 0 12 0 2
-0 24 9 8
 0 13 0 1
+0 24 9 8
 0 25 1 6
 1
 end_operator
@@ -43570,8 +43570,8 @@ sendtofree-b ha n5 n4 n10 n11
 0
 4
 0 12 0 2
-0 24 9 8
 0 13 0 1
+0 24 9 8
 0 25 2 3
 1
 end_operator
@@ -43580,8 +43580,8 @@ sendtofree-b ha n5 n4 n11 n12
 0
 4
 0 12 0 2
-0 24 9 8
 0 13 0 1
+0 24 9 8
 0 25 3 4
 1
 end_operator
@@ -43590,8 +43590,8 @@ sendtofree-b ha n5 n4 n12 n13
 0
 4
 0 12 0 2
-0 24 9 8
 0 13 0 1
+0 24 9 8
 0 25 4 5
 1
 end_operator
@@ -43600,8 +43600,8 @@ sendtofree-b ha n5 n4 n2 n3
 0
 4
 0 12 0 2
-0 24 9 8
 0 13 0 1
+0 24 9 8
 0 25 6 7
 1
 end_operator
@@ -43610,8 +43610,8 @@ sendtofree-b ha n5 n4 n3 n4
 0
 4
 0 12 0 2
-0 24 9 8
 0 13 0 1
+0 24 9 8
 0 25 7 8
 1
 end_operator
@@ -43620,8 +43620,8 @@ sendtofree-b ha n5 n4 n4 n5
 0
 4
 0 12 0 2
-0 24 9 8
 0 13 0 1
+0 24 9 8
 0 25 8 9
 1
 end_operator
@@ -43630,8 +43630,8 @@ sendtofree-b ha n5 n4 n5 n6
 0
 4
 0 12 0 2
-0 24 9 8
 0 13 0 1
+0 24 9 8
 0 25 9 10
 1
 end_operator
@@ -43640,8 +43640,8 @@ sendtofree-b ha n5 n4 n6 n7
 0
 4
 0 12 0 2
-0 24 9 8
 0 13 0 1
+0 24 9 8
 0 25 10 11
 1
 end_operator
@@ -43650,8 +43650,8 @@ sendtofree-b ha n5 n4 n7 n8
 0
 4
 0 12 0 2
-0 24 9 8
 0 13 0 1
+0 24 9 8
 0 25 11 12
 1
 end_operator
@@ -43660,8 +43660,8 @@ sendtofree-b ha n5 n4 n8 n9
 0
 4
 0 12 0 2
-0 24 9 8
 0 13 0 1
+0 24 9 8
 0 25 12 13
 1
 end_operator
@@ -43670,8 +43670,8 @@ sendtofree-b ha n5 n4 n9 n10
 0
 4
 0 12 0 2
-0 24 9 8
 0 13 0 1
+0 24 9 8
 0 25 13 2
 1
 end_operator
@@ -43680,8 +43680,8 @@ sendtofree-b ha n6 n5 n0 n1
 0
 4
 0 12 0 2
-0 24 10 9
 0 13 0 1
+0 24 10 9
 0 25 0 1
 1
 end_operator
@@ -43690,8 +43690,8 @@ sendtofree-b ha n6 n5 n1 n2
 0
 4
 0 12 0 2
-0 24 10 9
 0 13 0 1
+0 24 10 9
 0 25 1 6
 1
 end_operator
@@ -43700,8 +43700,8 @@ sendtofree-b ha n6 n5 n10 n11
 0
 4
 0 12 0 2
-0 24 10 9
 0 13 0 1
+0 24 10 9
 0 25 2 3
 1
 end_operator
@@ -43710,8 +43710,8 @@ sendtofree-b ha n6 n5 n11 n12
 0
 4
 0 12 0 2
-0 24 10 9
 0 13 0 1
+0 24 10 9
 0 25 3 4
 1
 end_operator
@@ -43720,8 +43720,8 @@ sendtofree-b ha n6 n5 n12 n13
 0
 4
 0 12 0 2
-0 24 10 9
 0 13 0 1
+0 24 10 9
 0 25 4 5
 1
 end_operator
@@ -43730,8 +43730,8 @@ sendtofree-b ha n6 n5 n2 n3
 0
 4
 0 12 0 2
-0 24 10 9
 0 13 0 1
+0 24 10 9
 0 25 6 7
 1
 end_operator
@@ -43740,8 +43740,8 @@ sendtofree-b ha n6 n5 n3 n4
 0
 4
 0 12 0 2
-0 24 10 9
 0 13 0 1
+0 24 10 9
 0 25 7 8
 1
 end_operator
@@ -43750,8 +43750,8 @@ sendtofree-b ha n6 n5 n4 n5
 0
 4
 0 12 0 2
-0 24 10 9
 0 13 0 1
+0 24 10 9
 0 25 8 9
 1
 end_operator
@@ -43760,8 +43760,8 @@ sendtofree-b ha n6 n5 n5 n6
 0
 4
 0 12 0 2
-0 24 10 9
 0 13 0 1
+0 24 10 9
 0 25 9 10
 1
 end_operator
@@ -43770,8 +43770,8 @@ sendtofree-b ha n6 n5 n6 n7
 0
 4
 0 12 0 2
-0 24 10 9
 0 13 0 1
+0 24 10 9
 0 25 10 11
 1
 end_operator
@@ -43780,8 +43780,8 @@ sendtofree-b ha n6 n5 n7 n8
 0
 4
 0 12 0 2
-0 24 10 9
 0 13 0 1
+0 24 10 9
 0 25 11 12
 1
 end_operator
@@ -43790,8 +43790,8 @@ sendtofree-b ha n6 n5 n8 n9
 0
 4
 0 12 0 2
-0 24 10 9
 0 13 0 1
+0 24 10 9
 0 25 12 13
 1
 end_operator
@@ -43800,8 +43800,8 @@ sendtofree-b ha n6 n5 n9 n10
 0
 4
 0 12 0 2
-0 24 10 9
 0 13 0 1
+0 24 10 9
 0 25 13 2
 1
 end_operator
@@ -43810,8 +43810,8 @@ sendtofree-b ha n7 n6 n0 n1
 0
 4
 0 12 0 2
-0 24 11 10
 0 13 0 1
+0 24 11 10
 0 25 0 1
 1
 end_operator
@@ -43820,8 +43820,8 @@ sendtofree-b ha n7 n6 n1 n2
 0
 4
 0 12 0 2
-0 24 11 10
 0 13 0 1
+0 24 11 10
 0 25 1 6
 1
 end_operator
@@ -43830,8 +43830,8 @@ sendtofree-b ha n7 n6 n10 n11
 0
 4
 0 12 0 2
-0 24 11 10
 0 13 0 1
+0 24 11 10
 0 25 2 3
 1
 end_operator
@@ -43840,8 +43840,8 @@ sendtofree-b ha n7 n6 n11 n12
 0
 4
 0 12 0 2
-0 24 11 10
 0 13 0 1
+0 24 11 10
 0 25 3 4
 1
 end_operator
@@ -43850,8 +43850,8 @@ sendtofree-b ha n7 n6 n12 n13
 0
 4
 0 12 0 2
-0 24 11 10
 0 13 0 1
+0 24 11 10
 0 25 4 5
 1
 end_operator
@@ -43860,8 +43860,8 @@ sendtofree-b ha n7 n6 n2 n3
 0
 4
 0 12 0 2
-0 24 11 10
 0 13 0 1
+0 24 11 10
 0 25 6 7
 1
 end_operator
@@ -43870,8 +43870,8 @@ sendtofree-b ha n7 n6 n3 n4
 0
 4
 0 12 0 2
-0 24 11 10
 0 13 0 1
+0 24 11 10
 0 25 7 8
 1
 end_operator
@@ -43880,8 +43880,8 @@ sendtofree-b ha n7 n6 n4 n5
 0
 4
 0 12 0 2
-0 24 11 10
 0 13 0 1
+0 24 11 10
 0 25 8 9
 1
 end_operator
@@ -43890,8 +43890,8 @@ sendtofree-b ha n7 n6 n5 n6
 0
 4
 0 12 0 2
-0 24 11 10
 0 13 0 1
+0 24 11 10
 0 25 9 10
 1
 end_operator
@@ -43900,8 +43900,8 @@ sendtofree-b ha n7 n6 n6 n7
 0
 4
 0 12 0 2
-0 24 11 10
 0 13 0 1
+0 24 11 10
 0 25 10 11
 1
 end_operator
@@ -43910,8 +43910,8 @@ sendtofree-b ha n7 n6 n7 n8
 0
 4
 0 12 0 2
-0 24 11 10
 0 13 0 1
+0 24 11 10
 0 25 11 12
 1
 end_operator
@@ -43920,8 +43920,8 @@ sendtofree-b ha n7 n6 n8 n9
 0
 4
 0 12 0 2
-0 24 11 10
 0 13 0 1
+0 24 11 10
 0 25 12 13
 1
 end_operator
@@ -43930,8 +43930,8 @@ sendtofree-b ha n7 n6 n9 n10
 0
 4
 0 12 0 2
-0 24 11 10
 0 13 0 1
+0 24 11 10
 0 25 13 2
 1
 end_operator
@@ -43940,8 +43940,8 @@ sendtofree-b ha n8 n7 n0 n1
 0
 4
 0 12 0 2
-0 24 12 11
 0 13 0 1
+0 24 12 11
 0 25 0 1
 1
 end_operator
@@ -43950,8 +43950,8 @@ sendtofree-b ha n8 n7 n1 n2
 0
 4
 0 12 0 2
-0 24 12 11
 0 13 0 1
+0 24 12 11
 0 25 1 6
 1
 end_operator
@@ -43960,8 +43960,8 @@ sendtofree-b ha n8 n7 n10 n11
 0
 4
 0 12 0 2
-0 24 12 11
 0 13 0 1
+0 24 12 11
 0 25 2 3
 1
 end_operator
@@ -43970,8 +43970,8 @@ sendtofree-b ha n8 n7 n11 n12
 0
 4
 0 12 0 2
-0 24 12 11
 0 13 0 1
+0 24 12 11
 0 25 3 4
 1
 end_operator
@@ -43980,8 +43980,8 @@ sendtofree-b ha n8 n7 n12 n13
 0
 4
 0 12 0 2
-0 24 12 11
 0 13 0 1
+0 24 12 11
 0 25 4 5
 1
 end_operator
@@ -43990,8 +43990,8 @@ sendtofree-b ha n8 n7 n2 n3
 0
 4
 0 12 0 2
-0 24 12 11
 0 13 0 1
+0 24 12 11
 0 25 6 7
 1
 end_operator
@@ -44000,8 +44000,8 @@ sendtofree-b ha n8 n7 n3 n4
 0
 4
 0 12 0 2
-0 24 12 11
 0 13 0 1
+0 24 12 11
 0 25 7 8
 1
 end_operator
@@ -44010,8 +44010,8 @@ sendtofree-b ha n8 n7 n4 n5
 0
 4
 0 12 0 2
-0 24 12 11
 0 13 0 1
+0 24 12 11
 0 25 8 9
 1
 end_operator
@@ -44020,8 +44020,8 @@ sendtofree-b ha n8 n7 n5 n6
 0
 4
 0 12 0 2
-0 24 12 11
 0 13 0 1
+0 24 12 11
 0 25 9 10
 1
 end_operator
@@ -44030,8 +44030,8 @@ sendtofree-b ha n8 n7 n6 n7
 0
 4
 0 12 0 2
-0 24 12 11
 0 13 0 1
+0 24 12 11
 0 25 10 11
 1
 end_operator
@@ -44040,8 +44040,8 @@ sendtofree-b ha n8 n7 n7 n8
 0
 4
 0 12 0 2
-0 24 12 11
 0 13 0 1
+0 24 12 11
 0 25 11 12
 1
 end_operator
@@ -44050,8 +44050,8 @@ sendtofree-b ha n8 n7 n8 n9
 0
 4
 0 12 0 2
-0 24 12 11
 0 13 0 1
+0 24 12 11
 0 25 12 13
 1
 end_operator
@@ -44060,8 +44060,8 @@ sendtofree-b ha n8 n7 n9 n10
 0
 4
 0 12 0 2
-0 24 12 11
 0 13 0 1
+0 24 12 11
 0 25 13 2
 1
 end_operator
@@ -44070,8 +44070,8 @@ sendtofree-b ha n9 n8 n0 n1
 0
 4
 0 12 0 2
-0 24 13 12
 0 13 0 1
+0 24 13 12
 0 25 0 1
 1
 end_operator
@@ -44080,8 +44080,8 @@ sendtofree-b ha n9 n8 n1 n2
 0
 4
 0 12 0 2
-0 24 13 12
 0 13 0 1
+0 24 13 12
 0 25 1 6
 1
 end_operator
@@ -44090,8 +44090,8 @@ sendtofree-b ha n9 n8 n10 n11
 0
 4
 0 12 0 2
-0 24 13 12
 0 13 0 1
+0 24 13 12
 0 25 2 3
 1
 end_operator
@@ -44100,8 +44100,8 @@ sendtofree-b ha n9 n8 n11 n12
 0
 4
 0 12 0 2
-0 24 13 12
 0 13 0 1
+0 24 13 12
 0 25 3 4
 1
 end_operator
@@ -44110,8 +44110,8 @@ sendtofree-b ha n9 n8 n12 n13
 0
 4
 0 12 0 2
-0 24 13 12
 0 13 0 1
+0 24 13 12
 0 25 4 5
 1
 end_operator
@@ -44120,8 +44120,8 @@ sendtofree-b ha n9 n8 n2 n3
 0
 4
 0 12 0 2
-0 24 13 12
 0 13 0 1
+0 24 13 12
 0 25 6 7
 1
 end_operator
@@ -44130,8 +44130,8 @@ sendtofree-b ha n9 n8 n3 n4
 0
 4
 0 12 0 2
-0 24 13 12
 0 13 0 1
+0 24 13 12
 0 25 7 8
 1
 end_operator
@@ -44140,8 +44140,8 @@ sendtofree-b ha n9 n8 n4 n5
 0
 4
 0 12 0 2
-0 24 13 12
 0 13 0 1
+0 24 13 12
 0 25 8 9
 1
 end_operator
@@ -44150,8 +44150,8 @@ sendtofree-b ha n9 n8 n5 n6
 0
 4
 0 12 0 2
-0 24 13 12
 0 13 0 1
+0 24 13 12
 0 25 9 10
 1
 end_operator
@@ -44160,8 +44160,8 @@ sendtofree-b ha n9 n8 n6 n7
 0
 4
 0 12 0 2
-0 24 13 12
 0 13 0 1
+0 24 13 12
 0 25 10 11
 1
 end_operator
@@ -44170,8 +44170,8 @@ sendtofree-b ha n9 n8 n7 n8
 0
 4
 0 12 0 2
-0 24 13 12
 0 13 0 1
+0 24 13 12
 0 25 11 12
 1
 end_operator
@@ -44180,8 +44180,8 @@ sendtofree-b ha n9 n8 n8 n9
 0
 4
 0 12 0 2
-0 24 13 12
 0 13 0 1
+0 24 13 12
 0 25 12 13
 1
 end_operator
@@ -44190,8 +44190,8 @@ sendtofree-b ha n9 n8 n9 n10
 0
 4
 0 12 0 2
-0 24 13 12
 0 13 0 1
+0 24 13 12
 0 25 13 2
 1
 end_operator
@@ -44200,8 +44200,8 @@ sendtofree-b s2 n1 n0 n0 n1
 0
 4
 0 10 0 1
-0 24 1 0
 0 11 0 2
+0 24 1 0
 0 25 0 1
 1
 end_operator
@@ -44210,8 +44210,8 @@ sendtofree-b s2 n1 n0 n1 n2
 0
 4
 0 10 0 1
-0 24 1 0
 0 11 0 2
+0 24 1 0
 0 25 1 6
 1
 end_operator
@@ -44220,8 +44220,8 @@ sendtofree-b s2 n1 n0 n10 n11
 0
 4
 0 10 0 1
-0 24 1 0
 0 11 0 2
+0 24 1 0
 0 25 2 3
 1
 end_operator
@@ -44230,8 +44230,8 @@ sendtofree-b s2 n1 n0 n11 n12
 0
 4
 0 10 0 1
-0 24 1 0
 0 11 0 2
+0 24 1 0
 0 25 3 4
 1
 end_operator
@@ -44240,8 +44240,8 @@ sendtofree-b s2 n1 n0 n12 n13
 0
 4
 0 10 0 1
-0 24 1 0
 0 11 0 2
+0 24 1 0
 0 25 4 5
 1
 end_operator
@@ -44250,8 +44250,8 @@ sendtofree-b s2 n1 n0 n2 n3
 0
 4
 0 10 0 1
-0 24 1 0
 0 11 0 2
+0 24 1 0
 0 25 6 7
 1
 end_operator
@@ -44260,8 +44260,8 @@ sendtofree-b s2 n1 n0 n3 n4
 0
 4
 0 10 0 1
-0 24 1 0
 0 11 0 2
+0 24 1 0
 0 25 7 8
 1
 end_operator
@@ -44270,8 +44270,8 @@ sendtofree-b s2 n1 n0 n4 n5
 0
 4
 0 10 0 1
-0 24 1 0
 0 11 0 2
+0 24 1 0
 0 25 8 9
 1
 end_operator
@@ -44280,8 +44280,8 @@ sendtofree-b s2 n1 n0 n5 n6
 0
 4
 0 10 0 1
-0 24 1 0
 0 11 0 2
+0 24 1 0
 0 25 9 10
 1
 end_operator
@@ -44290,8 +44290,8 @@ sendtofree-b s2 n1 n0 n6 n7
 0
 4
 0 10 0 1
-0 24 1 0
 0 11 0 2
+0 24 1 0
 0 25 10 11
 1
 end_operator
@@ -44300,8 +44300,8 @@ sendtofree-b s2 n1 n0 n7 n8
 0
 4
 0 10 0 1
-0 24 1 0
 0 11 0 2
+0 24 1 0
 0 25 11 12
 1
 end_operator
@@ -44310,8 +44310,8 @@ sendtofree-b s2 n1 n0 n8 n9
 0
 4
 0 10 0 1
-0 24 1 0
 0 11 0 2
+0 24 1 0
 0 25 12 13
 1
 end_operator
@@ -44320,8 +44320,8 @@ sendtofree-b s2 n1 n0 n9 n10
 0
 4
 0 10 0 1
-0 24 1 0
 0 11 0 2
+0 24 1 0
 0 25 13 2
 1
 end_operator
@@ -44330,8 +44330,8 @@ sendtofree-b s2 n10 n9 n0 n1
 0
 4
 0 10 0 1
-0 24 2 13
 0 11 0 2
+0 24 2 13
 0 25 0 1
 1
 end_operator
@@ -44340,8 +44340,8 @@ sendtofree-b s2 n10 n9 n1 n2
 0
 4
 0 10 0 1
-0 24 2 13
 0 11 0 2
+0 24 2 13
 0 25 1 6
 1
 end_operator
@@ -44350,8 +44350,8 @@ sendtofree-b s2 n10 n9 n10 n11
 0
 4
 0 10 0 1
-0 24 2 13
 0 11 0 2
+0 24 2 13
 0 25 2 3
 1
 end_operator
@@ -44360,8 +44360,8 @@ sendtofree-b s2 n10 n9 n11 n12
 0
 4
 0 10 0 1
-0 24 2 13
 0 11 0 2
+0 24 2 13
 0 25 3 4
 1
 end_operator
@@ -44370,8 +44370,8 @@ sendtofree-b s2 n10 n9 n12 n13
 0
 4
 0 10 0 1
-0 24 2 13
 0 11 0 2
+0 24 2 13
 0 25 4 5
 1
 end_operator
@@ -44380,8 +44380,8 @@ sendtofree-b s2 n10 n9 n2 n3
 0
 4
 0 10 0 1
-0 24 2 13
 0 11 0 2
+0 24 2 13
 0 25 6 7
 1
 end_operator
@@ -44390,8 +44390,8 @@ sendtofree-b s2 n10 n9 n3 n4
 0
 4
 0 10 0 1
-0 24 2 13
 0 11 0 2
+0 24 2 13
 0 25 7 8
 1
 end_operator
@@ -44400,8 +44400,8 @@ sendtofree-b s2 n10 n9 n4 n5
 0
 4
 0 10 0 1
-0 24 2 13
 0 11 0 2
+0 24 2 13
 0 25 8 9
 1
 end_operator
@@ -44410,8 +44410,8 @@ sendtofree-b s2 n10 n9 n5 n6
 0
 4
 0 10 0 1
-0 24 2 13
 0 11 0 2
+0 24 2 13
 0 25 9 10
 1
 end_operator
@@ -44420,8 +44420,8 @@ sendtofree-b s2 n10 n9 n6 n7
 0
 4
 0 10 0 1
-0 24 2 13
 0 11 0 2
+0 24 2 13
 0 25 10 11
 1
 end_operator
@@ -44430,8 +44430,8 @@ sendtofree-b s2 n10 n9 n7 n8
 0
 4
 0 10 0 1
-0 24 2 13
 0 11 0 2
+0 24 2 13
 0 25 11 12
 1
 end_operator
@@ -44440,8 +44440,8 @@ sendtofree-b s2 n10 n9 n8 n9
 0
 4
 0 10 0 1
-0 24 2 13
 0 11 0 2
+0 24 2 13
 0 25 12 13
 1
 end_operator
@@ -44450,8 +44450,8 @@ sendtofree-b s2 n10 n9 n9 n10
 0
 4
 0 10 0 1
-0 24 2 13
 0 11 0 2
+0 24 2 13
 0 25 13 2
 1
 end_operator
@@ -44460,8 +44460,8 @@ sendtofree-b s2 n11 n10 n0 n1
 0
 4
 0 10 0 1
-0 24 3 2
 0 11 0 2
+0 24 3 2
 0 25 0 1
 1
 end_operator
@@ -44470,8 +44470,8 @@ sendtofree-b s2 n11 n10 n1 n2
 0
 4
 0 10 0 1
-0 24 3 2
 0 11 0 2
+0 24 3 2
 0 25 1 6
 1
 end_operator
@@ -44480,8 +44480,8 @@ sendtofree-b s2 n11 n10 n10 n11
 0
 4
 0 10 0 1
-0 24 3 2
 0 11 0 2
+0 24 3 2
 0 25 2 3
 1
 end_operator
@@ -44490,8 +44490,8 @@ sendtofree-b s2 n11 n10 n11 n12
 0
 4
 0 10 0 1
-0 24 3 2
 0 11 0 2
+0 24 3 2
 0 25 3 4
 1
 end_operator
@@ -44500,8 +44500,8 @@ sendtofree-b s2 n11 n10 n12 n13
 0
 4
 0 10 0 1
-0 24 3 2
 0 11 0 2
+0 24 3 2
 0 25 4 5
 1
 end_operator
@@ -44510,8 +44510,8 @@ sendtofree-b s2 n11 n10 n2 n3
 0
 4
 0 10 0 1
-0 24 3 2
 0 11 0 2
+0 24 3 2
 0 25 6 7
 1
 end_operator
@@ -44520,8 +44520,8 @@ sendtofree-b s2 n11 n10 n3 n4
 0
 4
 0 10 0 1
-0 24 3 2
 0 11 0 2
+0 24 3 2
 0 25 7 8
 1
 end_operator
@@ -44530,8 +44530,8 @@ sendtofree-b s2 n11 n10 n4 n5
 0
 4
 0 10 0 1
-0 24 3 2
 0 11 0 2
+0 24 3 2
 0 25 8 9
 1
 end_operator
@@ -44540,8 +44540,8 @@ sendtofree-b s2 n11 n10 n5 n6
 0
 4
 0 10 0 1
-0 24 3 2
 0 11 0 2
+0 24 3 2
 0 25 9 10
 1
 end_operator
@@ -44550,8 +44550,8 @@ sendtofree-b s2 n11 n10 n6 n7
 0
 4
 0 10 0 1
-0 24 3 2
 0 11 0 2
+0 24 3 2
 0 25 10 11
 1
 end_operator
@@ -44560,8 +44560,8 @@ sendtofree-b s2 n11 n10 n7 n8
 0
 4
 0 10 0 1
-0 24 3 2
 0 11 0 2
+0 24 3 2
 0 25 11 12
 1
 end_operator
@@ -44570,8 +44570,8 @@ sendtofree-b s2 n11 n10 n8 n9
 0
 4
 0 10 0 1
-0 24 3 2
 0 11 0 2
+0 24 3 2
 0 25 12 13
 1
 end_operator
@@ -44580,8 +44580,8 @@ sendtofree-b s2 n11 n10 n9 n10
 0
 4
 0 10 0 1
-0 24 3 2
 0 11 0 2
+0 24 3 2
 0 25 13 2
 1
 end_operator
@@ -44590,8 +44590,8 @@ sendtofree-b s2 n12 n11 n0 n1
 0
 4
 0 10 0 1
-0 24 4 3
 0 11 0 2
+0 24 4 3
 0 25 0 1
 1
 end_operator
@@ -44600,8 +44600,8 @@ sendtofree-b s2 n12 n11 n1 n2
 0
 4
 0 10 0 1
-0 24 4 3
 0 11 0 2
+0 24 4 3
 0 25 1 6
 1
 end_operator
@@ -44610,8 +44610,8 @@ sendtofree-b s2 n12 n11 n10 n11
 0
 4
 0 10 0 1
-0 24 4 3
 0 11 0 2
+0 24 4 3
 0 25 2 3
 1
 end_operator
@@ -44620,8 +44620,8 @@ sendtofree-b s2 n12 n11 n11 n12
 0
 4
 0 10 0 1
-0 24 4 3
 0 11 0 2
+0 24 4 3
 0 25 3 4
 1
 end_operator
@@ -44630,8 +44630,8 @@ sendtofree-b s2 n12 n11 n12 n13
 0
 4
 0 10 0 1
-0 24 4 3
 0 11 0 2
+0 24 4 3
 0 25 4 5
 1
 end_operator
@@ -44640,8 +44640,8 @@ sendtofree-b s2 n12 n11 n2 n3
 0
 4
 0 10 0 1
-0 24 4 3
 0 11 0 2
+0 24 4 3
 0 25 6 7
 1
 end_operator
@@ -44650,8 +44650,8 @@ sendtofree-b s2 n12 n11 n3 n4
 0
 4
 0 10 0 1
-0 24 4 3
 0 11 0 2
+0 24 4 3
 0 25 7 8
 1
 end_operator
@@ -44660,8 +44660,8 @@ sendtofree-b s2 n12 n11 n4 n5
 0
 4
 0 10 0 1
-0 24 4 3
 0 11 0 2
+0 24 4 3
 0 25 8 9
 1
 end_operator
@@ -44670,8 +44670,8 @@ sendtofree-b s2 n12 n11 n5 n6
 0
 4
 0 10 0 1
-0 24 4 3
 0 11 0 2
+0 24 4 3
 0 25 9 10
 1
 end_operator
@@ -44680,8 +44680,8 @@ sendtofree-b s2 n12 n11 n6 n7
 0
 4
 0 10 0 1
-0 24 4 3
 0 11 0 2
+0 24 4 3
 0 25 10 11
 1
 end_operator
@@ -44690,8 +44690,8 @@ sendtofree-b s2 n12 n11 n7 n8
 0
 4
 0 10 0 1
-0 24 4 3
 0 11 0 2
+0 24 4 3
 0 25 11 12
 1
 end_operator
@@ -44700,8 +44700,8 @@ sendtofree-b s2 n12 n11 n8 n9
 0
 4
 0 10 0 1
-0 24 4 3
 0 11 0 2
+0 24 4 3
 0 25 12 13
 1
 end_operator
@@ -44710,8 +44710,8 @@ sendtofree-b s2 n12 n11 n9 n10
 0
 4
 0 10 0 1
-0 24 4 3
 0 11 0 2
+0 24 4 3
 0 25 13 2
 1
 end_operator
@@ -44720,8 +44720,8 @@ sendtofree-b s2 n13 n12 n0 n1
 0
 4
 0 10 0 1
-0 24 5 4
 0 11 0 2
+0 24 5 4
 0 25 0 1
 1
 end_operator
@@ -44730,8 +44730,8 @@ sendtofree-b s2 n13 n12 n1 n2
 0
 4
 0 10 0 1
-0 24 5 4
 0 11 0 2
+0 24 5 4
 0 25 1 6
 1
 end_operator
@@ -44740,8 +44740,8 @@ sendtofree-b s2 n13 n12 n10 n11
 0
 4
 0 10 0 1
-0 24 5 4
 0 11 0 2
+0 24 5 4
 0 25 2 3
 1
 end_operator
@@ -44750,8 +44750,8 @@ sendtofree-b s2 n13 n12 n11 n12
 0
 4
 0 10 0 1
-0 24 5 4
 0 11 0 2
+0 24 5 4
 0 25 3 4
 1
 end_operator
@@ -44760,8 +44760,8 @@ sendtofree-b s2 n13 n12 n12 n13
 0
 4
 0 10 0 1
-0 24 5 4
 0 11 0 2
+0 24 5 4
 0 25 4 5
 1
 end_operator
@@ -44770,8 +44770,8 @@ sendtofree-b s2 n13 n12 n2 n3
 0
 4
 0 10 0 1
-0 24 5 4
 0 11 0 2
+0 24 5 4
 0 25 6 7
 1
 end_operator
@@ -44780,8 +44780,8 @@ sendtofree-b s2 n13 n12 n3 n4
 0
 4
 0 10 0 1
-0 24 5 4
 0 11 0 2
+0 24 5 4
 0 25 7 8
 1
 end_operator
@@ -44790,8 +44790,8 @@ sendtofree-b s2 n13 n12 n4 n5
 0
 4
 0 10 0 1
-0 24 5 4
 0 11 0 2
+0 24 5 4
 0 25 8 9
 1
 end_operator
@@ -44800,8 +44800,8 @@ sendtofree-b s2 n13 n12 n5 n6
 0
 4
 0 10 0 1
-0 24 5 4
 0 11 0 2
+0 24 5 4
 0 25 9 10
 1
 end_operator
@@ -44810,8 +44810,8 @@ sendtofree-b s2 n13 n12 n6 n7
 0
 4
 0 10 0 1
-0 24 5 4
 0 11 0 2
+0 24 5 4
 0 25 10 11
 1
 end_operator
@@ -44820,8 +44820,8 @@ sendtofree-b s2 n13 n12 n7 n8
 0
 4
 0 10 0 1
-0 24 5 4
 0 11 0 2
+0 24 5 4
 0 25 11 12
 1
 end_operator
@@ -44830,8 +44830,8 @@ sendtofree-b s2 n13 n12 n8 n9
 0
 4
 0 10 0 1
-0 24 5 4
 0 11 0 2
+0 24 5 4
 0 25 12 13
 1
 end_operator
@@ -44840,8 +44840,8 @@ sendtofree-b s2 n13 n12 n9 n10
 0
 4
 0 10 0 1
-0 24 5 4
 0 11 0 2
+0 24 5 4
 0 25 13 2
 1
 end_operator
@@ -44850,8 +44850,8 @@ sendtofree-b s2 n2 n1 n0 n1
 0
 4
 0 10 0 1
-0 24 6 1
 0 11 0 2
+0 24 6 1
 0 25 0 1
 1
 end_operator
@@ -44860,8 +44860,8 @@ sendtofree-b s2 n2 n1 n1 n2
 0
 4
 0 10 0 1
-0 24 6 1
 0 11 0 2
+0 24 6 1
 0 25 1 6
 1
 end_operator
@@ -44870,8 +44870,8 @@ sendtofree-b s2 n2 n1 n10 n11
 0
 4
 0 10 0 1
-0 24 6 1
 0 11 0 2
+0 24 6 1
 0 25 2 3
 1
 end_operator
@@ -44880,8 +44880,8 @@ sendtofree-b s2 n2 n1 n11 n12
 0
 4
 0 10 0 1
-0 24 6 1
 0 11 0 2
+0 24 6 1
 0 25 3 4
 1
 end_operator
@@ -44890,8 +44890,8 @@ sendtofree-b s2 n2 n1 n12 n13
 0
 4
 0 10 0 1
-0 24 6 1
 0 11 0 2
+0 24 6 1
 0 25 4 5
 1
 end_operator
@@ -44900,8 +44900,8 @@ sendtofree-b s2 n2 n1 n2 n3
 0
 4
 0 10 0 1
-0 24 6 1
 0 11 0 2
+0 24 6 1
 0 25 6 7
 1
 end_operator
@@ -44910,8 +44910,8 @@ sendtofree-b s2 n2 n1 n3 n4
 0
 4
 0 10 0 1
-0 24 6 1
 0 11 0 2
+0 24 6 1
 0 25 7 8
 1
 end_operator
@@ -44920,8 +44920,8 @@ sendtofree-b s2 n2 n1 n4 n5
 0
 4
 0 10 0 1
-0 24 6 1
 0 11 0 2
+0 24 6 1
 0 25 8 9
 1
 end_operator
@@ -44930,8 +44930,8 @@ sendtofree-b s2 n2 n1 n5 n6
 0
 4
 0 10 0 1
-0 24 6 1
 0 11 0 2
+0 24 6 1
 0 25 9 10
 1
 end_operator
@@ -44940,8 +44940,8 @@ sendtofree-b s2 n2 n1 n6 n7
 0
 4
 0 10 0 1
-0 24 6 1
 0 11 0 2
+0 24 6 1
 0 25 10 11
 1
 end_operator
@@ -44950,8 +44950,8 @@ sendtofree-b s2 n2 n1 n7 n8
 0
 4
 0 10 0 1
-0 24 6 1
 0 11 0 2
+0 24 6 1
 0 25 11 12
 1
 end_operator
@@ -44960,8 +44960,8 @@ sendtofree-b s2 n2 n1 n8 n9
 0
 4
 0 10 0 1
-0 24 6 1
 0 11 0 2
+0 24 6 1
 0 25 12 13
 1
 end_operator
@@ -44970,8 +44970,8 @@ sendtofree-b s2 n2 n1 n9 n10
 0
 4
 0 10 0 1
-0 24 6 1
 0 11 0 2
+0 24 6 1
 0 25 13 2
 1
 end_operator
@@ -44980,8 +44980,8 @@ sendtofree-b s2 n3 n2 n0 n1
 0
 4
 0 10 0 1
-0 24 7 6
 0 11 0 2
+0 24 7 6
 0 25 0 1
 1
 end_operator
@@ -44990,8 +44990,8 @@ sendtofree-b s2 n3 n2 n1 n2
 0
 4
 0 10 0 1
-0 24 7 6
 0 11 0 2
+0 24 7 6
 0 25 1 6
 1
 end_operator
@@ -45000,8 +45000,8 @@ sendtofree-b s2 n3 n2 n10 n11
 0
 4
 0 10 0 1
-0 24 7 6
 0 11 0 2
+0 24 7 6
 0 25 2 3
 1
 end_operator
@@ -45010,8 +45010,8 @@ sendtofree-b s2 n3 n2 n11 n12
 0
 4
 0 10 0 1
-0 24 7 6
 0 11 0 2
+0 24 7 6
 0 25 3 4
 1
 end_operator
@@ -45020,8 +45020,8 @@ sendtofree-b s2 n3 n2 n12 n13
 0
 4
 0 10 0 1
-0 24 7 6
 0 11 0 2
+0 24 7 6
 0 25 4 5
 1
 end_operator
@@ -45030,8 +45030,8 @@ sendtofree-b s2 n3 n2 n2 n3
 0
 4
 0 10 0 1
-0 24 7 6
 0 11 0 2
+0 24 7 6
 0 25 6 7
 1
 end_operator
@@ -45040,8 +45040,8 @@ sendtofree-b s2 n3 n2 n3 n4
 0
 4
 0 10 0 1
-0 24 7 6
 0 11 0 2
+0 24 7 6
 0 25 7 8
 1
 end_operator
@@ -45050,8 +45050,8 @@ sendtofree-b s2 n3 n2 n4 n5
 0
 4
 0 10 0 1
-0 24 7 6
 0 11 0 2
+0 24 7 6
 0 25 8 9
 1
 end_operator
@@ -45060,8 +45060,8 @@ sendtofree-b s2 n3 n2 n5 n6
 0
 4
 0 10 0 1
-0 24 7 6
 0 11 0 2
+0 24 7 6
 0 25 9 10
 1
 end_operator
@@ -45070,8 +45070,8 @@ sendtofree-b s2 n3 n2 n6 n7
 0
 4
 0 10 0 1
-0 24 7 6
 0 11 0 2
+0 24 7 6
 0 25 10 11
 1
 end_operator
@@ -45080,8 +45080,8 @@ sendtofree-b s2 n3 n2 n7 n8
 0
 4
 0 10 0 1
-0 24 7 6
 0 11 0 2
+0 24 7 6
 0 25 11 12
 1
 end_operator
@@ -45090,8 +45090,8 @@ sendtofree-b s2 n3 n2 n8 n9
 0
 4
 0 10 0 1
-0 24 7 6
 0 11 0 2
+0 24 7 6
 0 25 12 13
 1
 end_operator
@@ -45100,8 +45100,8 @@ sendtofree-b s2 n3 n2 n9 n10
 0
 4
 0 10 0 1
-0 24 7 6
 0 11 0 2
+0 24 7 6
 0 25 13 2
 1
 end_operator
@@ -45110,8 +45110,8 @@ sendtofree-b s2 n4 n3 n0 n1
 0
 4
 0 10 0 1
-0 24 8 7
 0 11 0 2
+0 24 8 7
 0 25 0 1
 1
 end_operator
@@ -45120,8 +45120,8 @@ sendtofree-b s2 n4 n3 n1 n2
 0
 4
 0 10 0 1
-0 24 8 7
 0 11 0 2
+0 24 8 7
 0 25 1 6
 1
 end_operator
@@ -45130,8 +45130,8 @@ sendtofree-b s2 n4 n3 n10 n11
 0
 4
 0 10 0 1
-0 24 8 7
 0 11 0 2
+0 24 8 7
 0 25 2 3
 1
 end_operator
@@ -45140,8 +45140,8 @@ sendtofree-b s2 n4 n3 n11 n12
 0
 4
 0 10 0 1
-0 24 8 7
 0 11 0 2
+0 24 8 7
 0 25 3 4
 1
 end_operator
@@ -45150,8 +45150,8 @@ sendtofree-b s2 n4 n3 n12 n13
 0
 4
 0 10 0 1
-0 24 8 7
 0 11 0 2
+0 24 8 7
 0 25 4 5
 1
 end_operator
@@ -45160,8 +45160,8 @@ sendtofree-b s2 n4 n3 n2 n3
 0
 4
 0 10 0 1
-0 24 8 7
 0 11 0 2
+0 24 8 7
 0 25 6 7
 1
 end_operator
@@ -45170,8 +45170,8 @@ sendtofree-b s2 n4 n3 n3 n4
 0
 4
 0 10 0 1
-0 24 8 7
 0 11 0 2
+0 24 8 7
 0 25 7 8
 1
 end_operator
@@ -45180,8 +45180,8 @@ sendtofree-b s2 n4 n3 n4 n5
 0
 4
 0 10 0 1
-0 24 8 7
 0 11 0 2
+0 24 8 7
 0 25 8 9
 1
 end_operator
@@ -45190,8 +45190,8 @@ sendtofree-b s2 n4 n3 n5 n6
 0
 4
 0 10 0 1
-0 24 8 7
 0 11 0 2
+0 24 8 7
 0 25 9 10
 1
 end_operator
@@ -45200,8 +45200,8 @@ sendtofree-b s2 n4 n3 n6 n7
 0
 4
 0 10 0 1
-0 24 8 7
 0 11 0 2
+0 24 8 7
 0 25 10 11
 1
 end_operator
@@ -45210,8 +45210,8 @@ sendtofree-b s2 n4 n3 n7 n8
 0
 4
 0 10 0 1
-0 24 8 7
 0 11 0 2
+0 24 8 7
 0 25 11 12
 1
 end_operator
@@ -45220,8 +45220,8 @@ sendtofree-b s2 n4 n3 n8 n9
 0
 4
 0 10 0 1
-0 24 8 7
 0 11 0 2
+0 24 8 7
 0 25 12 13
 1
 end_operator
@@ -45230,8 +45230,8 @@ sendtofree-b s2 n4 n3 n9 n10
 0
 4
 0 10 0 1
-0 24 8 7
 0 11 0 2
+0 24 8 7
 0 25 13 2
 1
 end_operator
@@ -45240,8 +45240,8 @@ sendtofree-b s2 n5 n4 n0 n1
 0
 4
 0 10 0 1
-0 24 9 8
 0 11 0 2
+0 24 9 8
 0 25 0 1
 1
 end_operator
@@ -45250,8 +45250,8 @@ sendtofree-b s2 n5 n4 n1 n2
 0
 4
 0 10 0 1
-0 24 9 8
 0 11 0 2
+0 24 9 8
 0 25 1 6
 1
 end_operator
@@ -45260,8 +45260,8 @@ sendtofree-b s2 n5 n4 n10 n11
 0
 4
 0 10 0 1
-0 24 9 8
 0 11 0 2
+0 24 9 8
 0 25 2 3
 1
 end_operator
@@ -45270,8 +45270,8 @@ sendtofree-b s2 n5 n4 n11 n12
 0
 4
 0 10 0 1
-0 24 9 8
 0 11 0 2
+0 24 9 8
 0 25 3 4
 1
 end_operator
@@ -45280,8 +45280,8 @@ sendtofree-b s2 n5 n4 n12 n13
 0
 4
 0 10 0 1
-0 24 9 8
 0 11 0 2
+0 24 9 8
 0 25 4 5
 1
 end_operator
@@ -45290,8 +45290,8 @@ sendtofree-b s2 n5 n4 n2 n3
 0
 4
 0 10 0 1
-0 24 9 8
 0 11 0 2
+0 24 9 8
 0 25 6 7
 1
 end_operator
@@ -45300,8 +45300,8 @@ sendtofree-b s2 n5 n4 n3 n4
 0
 4
 0 10 0 1
-0 24 9 8
 0 11 0 2
+0 24 9 8
 0 25 7 8
 1
 end_operator
@@ -45310,8 +45310,8 @@ sendtofree-b s2 n5 n4 n4 n5
 0
 4
 0 10 0 1
-0 24 9 8
 0 11 0 2
+0 24 9 8
 0 25 8 9
 1
 end_operator
@@ -45320,8 +45320,8 @@ sendtofree-b s2 n5 n4 n5 n6
 0
 4
 0 10 0 1
-0 24 9 8
 0 11 0 2
+0 24 9 8
 0 25 9 10
 1
 end_operator
@@ -45330,8 +45330,8 @@ sendtofree-b s2 n5 n4 n6 n7
 0
 4
 0 10 0 1
-0 24 9 8
 0 11 0 2
+0 24 9 8
 0 25 10 11
 1
 end_operator
@@ -45340,8 +45340,8 @@ sendtofree-b s2 n5 n4 n7 n8
 0
 4
 0 10 0 1
-0 24 9 8
 0 11 0 2
+0 24 9 8
 0 25 11 12
 1
 end_operator
@@ -45350,8 +45350,8 @@ sendtofree-b s2 n5 n4 n8 n9
 0
 4
 0 10 0 1
-0 24 9 8
 0 11 0 2
+0 24 9 8
 0 25 12 13
 1
 end_operator
@@ -45360,8 +45360,8 @@ sendtofree-b s2 n5 n4 n9 n10
 0
 4
 0 10 0 1
-0 24 9 8
 0 11 0 2
+0 24 9 8
 0 25 13 2
 1
 end_operator
@@ -45370,8 +45370,8 @@ sendtofree-b s2 n6 n5 n0 n1
 0
 4
 0 10 0 1
-0 24 10 9
 0 11 0 2
+0 24 10 9
 0 25 0 1
 1
 end_operator
@@ -45380,8 +45380,8 @@ sendtofree-b s2 n6 n5 n1 n2
 0
 4
 0 10 0 1
-0 24 10 9
 0 11 0 2
+0 24 10 9
 0 25 1 6
 1
 end_operator
@@ -45390,8 +45390,8 @@ sendtofree-b s2 n6 n5 n10 n11
 0
 4
 0 10 0 1
-0 24 10 9
 0 11 0 2
+0 24 10 9
 0 25 2 3
 1
 end_operator
@@ -45400,8 +45400,8 @@ sendtofree-b s2 n6 n5 n11 n12
 0
 4
 0 10 0 1
-0 24 10 9
 0 11 0 2
+0 24 10 9
 0 25 3 4
 1
 end_operator
@@ -45410,8 +45410,8 @@ sendtofree-b s2 n6 n5 n12 n13
 0
 4
 0 10 0 1
-0 24 10 9
 0 11 0 2
+0 24 10 9
 0 25 4 5
 1
 end_operator
@@ -45420,8 +45420,8 @@ sendtofree-b s2 n6 n5 n2 n3
 0
 4
 0 10 0 1
-0 24 10 9
 0 11 0 2
+0 24 10 9
 0 25 6 7
 1
 end_operator
@@ -45430,8 +45430,8 @@ sendtofree-b s2 n6 n5 n3 n4
 0
 4
 0 10 0 1
-0 24 10 9
 0 11 0 2
+0 24 10 9
 0 25 7 8
 1
 end_operator
@@ -45440,8 +45440,8 @@ sendtofree-b s2 n6 n5 n4 n5
 0
 4
 0 10 0 1
-0 24 10 9
 0 11 0 2
+0 24 10 9
 0 25 8 9
 1
 end_operator
@@ -45450,8 +45450,8 @@ sendtofree-b s2 n6 n5 n5 n6
 0
 4
 0 10 0 1
-0 24 10 9
 0 11 0 2
+0 24 10 9
 0 25 9 10
 1
 end_operator
@@ -45460,8 +45460,8 @@ sendtofree-b s2 n6 n5 n6 n7
 0
 4
 0 10 0 1
-0 24 10 9
 0 11 0 2
+0 24 10 9
 0 25 10 11
 1
 end_operator
@@ -45470,8 +45470,8 @@ sendtofree-b s2 n6 n5 n7 n8
 0
 4
 0 10 0 1
-0 24 10 9
 0 11 0 2
+0 24 10 9
 0 25 11 12
 1
 end_operator
@@ -45480,8 +45480,8 @@ sendtofree-b s2 n6 n5 n8 n9
 0
 4
 0 10 0 1
-0 24 10 9
 0 11 0 2
+0 24 10 9
 0 25 12 13
 1
 end_operator
@@ -45490,8 +45490,8 @@ sendtofree-b s2 n6 n5 n9 n10
 0
 4
 0 10 0 1
-0 24 10 9
 0 11 0 2
+0 24 10 9
 0 25 13 2
 1
 end_operator
@@ -45500,8 +45500,8 @@ sendtofree-b s2 n7 n6 n0 n1
 0
 4
 0 10 0 1
-0 24 11 10
 0 11 0 2
+0 24 11 10
 0 25 0 1
 1
 end_operator
@@ -45510,8 +45510,8 @@ sendtofree-b s2 n7 n6 n1 n2
 0
 4
 0 10 0 1
-0 24 11 10
 0 11 0 2
+0 24 11 10
 0 25 1 6
 1
 end_operator
@@ -45520,8 +45520,8 @@ sendtofree-b s2 n7 n6 n10 n11
 0
 4
 0 10 0 1
-0 24 11 10
 0 11 0 2
+0 24 11 10
 0 25 2 3
 1
 end_operator
@@ -45530,8 +45530,8 @@ sendtofree-b s2 n7 n6 n11 n12
 0
 4
 0 10 0 1
-0 24 11 10
 0 11 0 2
+0 24 11 10
 0 25 3 4
 1
 end_operator
@@ -45540,8 +45540,8 @@ sendtofree-b s2 n7 n6 n12 n13
 0
 4
 0 10 0 1
-0 24 11 10
 0 11 0 2
+0 24 11 10
 0 25 4 5
 1
 end_operator
@@ -45550,8 +45550,8 @@ sendtofree-b s2 n7 n6 n2 n3
 0
 4
 0 10 0 1
-0 24 11 10
 0 11 0 2
+0 24 11 10
 0 25 6 7
 1
 end_operator
@@ -45560,8 +45560,8 @@ sendtofree-b s2 n7 n6 n3 n4
 0
 4
 0 10 0 1
-0 24 11 10
 0 11 0 2
+0 24 11 10
 0 25 7 8
 1
 end_operator
@@ -45570,8 +45570,8 @@ sendtofree-b s2 n7 n6 n4 n5
 0
 4
 0 10 0 1
-0 24 11 10
 0 11 0 2
+0 24 11 10
 0 25 8 9
 1
 end_operator
@@ -45580,8 +45580,8 @@ sendtofree-b s2 n7 n6 n5 n6
 0
 4
 0 10 0 1
-0 24 11 10
 0 11 0 2
+0 24 11 10
 0 25 9 10
 1
 end_operator
@@ -45590,8 +45590,8 @@ sendtofree-b s2 n7 n6 n6 n7
 0
 4
 0 10 0 1
-0 24 11 10
 0 11 0 2
+0 24 11 10
 0 25 10 11
 1
 end_operator
@@ -45600,8 +45600,8 @@ sendtofree-b s2 n7 n6 n7 n8
 0
 4
 0 10 0 1
-0 24 11 10
 0 11 0 2
+0 24 11 10
 0 25 11 12
 1
 end_operator
@@ -45610,8 +45610,8 @@ sendtofree-b s2 n7 n6 n8 n9
 0
 4
 0 10 0 1
-0 24 11 10
 0 11 0 2
+0 24 11 10
 0 25 12 13
 1
 end_operator
@@ -45620,8 +45620,8 @@ sendtofree-b s2 n7 n6 n9 n10
 0
 4
 0 10 0 1
-0 24 11 10
 0 11 0 2
+0 24 11 10
 0 25 13 2
 1
 end_operator
@@ -45630,8 +45630,8 @@ sendtofree-b s2 n8 n7 n0 n1
 0
 4
 0 10 0 1
-0 24 12 11
 0 11 0 2
+0 24 12 11
 0 25 0 1
 1
 end_operator
@@ -45640,8 +45640,8 @@ sendtofree-b s2 n8 n7 n1 n2
 0
 4
 0 10 0 1
-0 24 12 11
 0 11 0 2
+0 24 12 11
 0 25 1 6
 1
 end_operator
@@ -45650,8 +45650,8 @@ sendtofree-b s2 n8 n7 n10 n11
 0
 4
 0 10 0 1
-0 24 12 11
 0 11 0 2
+0 24 12 11
 0 25 2 3
 1
 end_operator
@@ -45660,8 +45660,8 @@ sendtofree-b s2 n8 n7 n11 n12
 0
 4
 0 10 0 1
-0 24 12 11
 0 11 0 2
+0 24 12 11
 0 25 3 4
 1
 end_operator
@@ -45670,8 +45670,8 @@ sendtofree-b s2 n8 n7 n12 n13
 0
 4
 0 10 0 1
-0 24 12 11
 0 11 0 2
+0 24 12 11
 0 25 4 5
 1
 end_operator
@@ -45680,8 +45680,8 @@ sendtofree-b s2 n8 n7 n2 n3
 0
 4
 0 10 0 1
-0 24 12 11
 0 11 0 2
+0 24 12 11
 0 25 6 7
 1
 end_operator
@@ -45690,8 +45690,8 @@ sendtofree-b s2 n8 n7 n3 n4
 0
 4
 0 10 0 1
-0 24 12 11
 0 11 0 2
+0 24 12 11
 0 25 7 8
 1
 end_operator
@@ -45700,8 +45700,8 @@ sendtofree-b s2 n8 n7 n4 n5
 0
 4
 0 10 0 1
-0 24 12 11
 0 11 0 2
+0 24 12 11
 0 25 8 9
 1
 end_operator
@@ -45710,8 +45710,8 @@ sendtofree-b s2 n8 n7 n5 n6
 0
 4
 0 10 0 1
-0 24 12 11
 0 11 0 2
+0 24 12 11
 0 25 9 10
 1
 end_operator
@@ -45720,8 +45720,8 @@ sendtofree-b s2 n8 n7 n6 n7
 0
 4
 0 10 0 1
-0 24 12 11
 0 11 0 2
+0 24 12 11
 0 25 10 11
 1
 end_operator
@@ -45730,8 +45730,8 @@ sendtofree-b s2 n8 n7 n7 n8
 0
 4
 0 10 0 1
-0 24 12 11
 0 11 0 2
+0 24 12 11
 0 25 11 12
 1
 end_operator
@@ -45740,8 +45740,8 @@ sendtofree-b s2 n8 n7 n8 n9
 0
 4
 0 10 0 1
-0 24 12 11
 0 11 0 2
+0 24 12 11
 0 25 12 13
 1
 end_operator
@@ -45750,8 +45750,8 @@ sendtofree-b s2 n8 n7 n9 n10
 0
 4
 0 10 0 1
-0 24 12 11
 0 11 0 2
+0 24 12 11
 0 25 13 2
 1
 end_operator
@@ -45760,8 +45760,8 @@ sendtofree-b s2 n9 n8 n0 n1
 0
 4
 0 10 0 1
-0 24 13 12
 0 11 0 2
+0 24 13 12
 0 25 0 1
 1
 end_operator
@@ -45770,8 +45770,8 @@ sendtofree-b s2 n9 n8 n1 n2
 0
 4
 0 10 0 1
-0 24 13 12
 0 11 0 2
+0 24 13 12
 0 25 1 6
 1
 end_operator
@@ -45780,8 +45780,8 @@ sendtofree-b s2 n9 n8 n10 n11
 0
 4
 0 10 0 1
-0 24 13 12
 0 11 0 2
+0 24 13 12
 0 25 2 3
 1
 end_operator
@@ -45790,8 +45790,8 @@ sendtofree-b s2 n9 n8 n11 n12
 0
 4
 0 10 0 1
-0 24 13 12
 0 11 0 2
+0 24 13 12
 0 25 3 4
 1
 end_operator
@@ -45800,8 +45800,8 @@ sendtofree-b s2 n9 n8 n12 n13
 0
 4
 0 10 0 1
-0 24 13 12
 0 11 0 2
+0 24 13 12
 0 25 4 5
 1
 end_operator
@@ -45810,8 +45810,8 @@ sendtofree-b s2 n9 n8 n2 n3
 0
 4
 0 10 0 1
-0 24 13 12
 0 11 0 2
+0 24 13 12
 0 25 6 7
 1
 end_operator
@@ -45820,8 +45820,8 @@ sendtofree-b s2 n9 n8 n3 n4
 0
 4
 0 10 0 1
-0 24 13 12
 0 11 0 2
+0 24 13 12
 0 25 7 8
 1
 end_operator
@@ -45830,8 +45830,8 @@ sendtofree-b s2 n9 n8 n4 n5
 0
 4
 0 10 0 1
-0 24 13 12
 0 11 0 2
+0 24 13 12
 0 25 8 9
 1
 end_operator
@@ -45840,8 +45840,8 @@ sendtofree-b s2 n9 n8 n5 n6
 0
 4
 0 10 0 1
-0 24 13 12
 0 11 0 2
+0 24 13 12
 0 25 9 10
 1
 end_operator
@@ -45850,8 +45850,8 @@ sendtofree-b s2 n9 n8 n6 n7
 0
 4
 0 10 0 1
-0 24 13 12
 0 11 0 2
+0 24 13 12
 0 25 10 11
 1
 end_operator
@@ -45860,8 +45860,8 @@ sendtofree-b s2 n9 n8 n7 n8
 0
 4
 0 10 0 1
-0 24 13 12
 0 11 0 2
+0 24 13 12
 0 25 11 12
 1
 end_operator
@@ -45870,8 +45870,8 @@ sendtofree-b s2 n9 n8 n8 n9
 0
 4
 0 10 0 1
-0 24 13 12
 0 11 0 2
+0 24 13 12
 0 25 12 13
 1
 end_operator
@@ -45880,8 +45880,8 @@ sendtofree-b s2 n9 n8 n9 n10
 0
 4
 0 10 0 1
-0 24 13 12
 0 11 0 2
+0 24 13 12
 0 25 13 2
 1
 end_operator
@@ -45891,8 +45891,8 @@ sendtofree-b s3 n1 n0 n0 n1
 4
 0 7 0 2
 0 24 1 0
-0 27 0 2
 0 25 0 1
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -45901,8 +45901,8 @@ sendtofree-b s3 n1 n0 n1 n2
 4
 0 7 0 2
 0 24 1 0
-0 27 0 2
 0 25 1 6
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -45911,8 +45911,8 @@ sendtofree-b s3 n1 n0 n10 n11
 4
 0 7 0 2
 0 24 1 0
-0 27 0 2
 0 25 2 3
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -45921,8 +45921,8 @@ sendtofree-b s3 n1 n0 n11 n12
 4
 0 7 0 2
 0 24 1 0
-0 27 0 2
 0 25 3 4
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -45931,8 +45931,8 @@ sendtofree-b s3 n1 n0 n12 n13
 4
 0 7 0 2
 0 24 1 0
-0 27 0 2
 0 25 4 5
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -45941,8 +45941,8 @@ sendtofree-b s3 n1 n0 n2 n3
 4
 0 7 0 2
 0 24 1 0
-0 27 0 2
 0 25 6 7
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -45951,8 +45951,8 @@ sendtofree-b s3 n1 n0 n3 n4
 4
 0 7 0 2
 0 24 1 0
-0 27 0 2
 0 25 7 8
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -45961,8 +45961,8 @@ sendtofree-b s3 n1 n0 n4 n5
 4
 0 7 0 2
 0 24 1 0
-0 27 0 2
 0 25 8 9
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -45971,8 +45971,8 @@ sendtofree-b s3 n1 n0 n5 n6
 4
 0 7 0 2
 0 24 1 0
-0 27 0 2
 0 25 9 10
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -45981,8 +45981,8 @@ sendtofree-b s3 n1 n0 n6 n7
 4
 0 7 0 2
 0 24 1 0
-0 27 0 2
 0 25 10 11
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -45991,8 +45991,8 @@ sendtofree-b s3 n1 n0 n7 n8
 4
 0 7 0 2
 0 24 1 0
-0 27 0 2
 0 25 11 12
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46001,8 +46001,8 @@ sendtofree-b s3 n1 n0 n8 n9
 4
 0 7 0 2
 0 24 1 0
-0 27 0 2
 0 25 12 13
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46011,8 +46011,8 @@ sendtofree-b s3 n1 n0 n9 n10
 4
 0 7 0 2
 0 24 1 0
-0 27 0 2
 0 25 13 2
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46021,8 +46021,8 @@ sendtofree-b s3 n10 n9 n0 n1
 4
 0 7 0 2
 0 24 2 13
-0 27 0 2
 0 25 0 1
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46031,8 +46031,8 @@ sendtofree-b s3 n10 n9 n1 n2
 4
 0 7 0 2
 0 24 2 13
-0 27 0 2
 0 25 1 6
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46041,8 +46041,8 @@ sendtofree-b s3 n10 n9 n10 n11
 4
 0 7 0 2
 0 24 2 13
-0 27 0 2
 0 25 2 3
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46051,8 +46051,8 @@ sendtofree-b s3 n10 n9 n11 n12
 4
 0 7 0 2
 0 24 2 13
-0 27 0 2
 0 25 3 4
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46061,8 +46061,8 @@ sendtofree-b s3 n10 n9 n12 n13
 4
 0 7 0 2
 0 24 2 13
-0 27 0 2
 0 25 4 5
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46071,8 +46071,8 @@ sendtofree-b s3 n10 n9 n2 n3
 4
 0 7 0 2
 0 24 2 13
-0 27 0 2
 0 25 6 7
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46081,8 +46081,8 @@ sendtofree-b s3 n10 n9 n3 n4
 4
 0 7 0 2
 0 24 2 13
-0 27 0 2
 0 25 7 8
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46091,8 +46091,8 @@ sendtofree-b s3 n10 n9 n4 n5
 4
 0 7 0 2
 0 24 2 13
-0 27 0 2
 0 25 8 9
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46101,8 +46101,8 @@ sendtofree-b s3 n10 n9 n5 n6
 4
 0 7 0 2
 0 24 2 13
-0 27 0 2
 0 25 9 10
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46111,8 +46111,8 @@ sendtofree-b s3 n10 n9 n6 n7
 4
 0 7 0 2
 0 24 2 13
-0 27 0 2
 0 25 10 11
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46121,8 +46121,8 @@ sendtofree-b s3 n10 n9 n7 n8
 4
 0 7 0 2
 0 24 2 13
-0 27 0 2
 0 25 11 12
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46131,8 +46131,8 @@ sendtofree-b s3 n10 n9 n8 n9
 4
 0 7 0 2
 0 24 2 13
-0 27 0 2
 0 25 12 13
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46141,8 +46141,8 @@ sendtofree-b s3 n10 n9 n9 n10
 4
 0 7 0 2
 0 24 2 13
-0 27 0 2
 0 25 13 2
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46151,8 +46151,8 @@ sendtofree-b s3 n11 n10 n0 n1
 4
 0 7 0 2
 0 24 3 2
-0 27 0 2
 0 25 0 1
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46161,8 +46161,8 @@ sendtofree-b s3 n11 n10 n1 n2
 4
 0 7 0 2
 0 24 3 2
-0 27 0 2
 0 25 1 6
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46171,8 +46171,8 @@ sendtofree-b s3 n11 n10 n10 n11
 4
 0 7 0 2
 0 24 3 2
-0 27 0 2
 0 25 2 3
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46181,8 +46181,8 @@ sendtofree-b s3 n11 n10 n11 n12
 4
 0 7 0 2
 0 24 3 2
-0 27 0 2
 0 25 3 4
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46191,8 +46191,8 @@ sendtofree-b s3 n11 n10 n12 n13
 4
 0 7 0 2
 0 24 3 2
-0 27 0 2
 0 25 4 5
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46201,8 +46201,8 @@ sendtofree-b s3 n11 n10 n2 n3
 4
 0 7 0 2
 0 24 3 2
-0 27 0 2
 0 25 6 7
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46211,8 +46211,8 @@ sendtofree-b s3 n11 n10 n3 n4
 4
 0 7 0 2
 0 24 3 2
-0 27 0 2
 0 25 7 8
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46221,8 +46221,8 @@ sendtofree-b s3 n11 n10 n4 n5
 4
 0 7 0 2
 0 24 3 2
-0 27 0 2
 0 25 8 9
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46231,8 +46231,8 @@ sendtofree-b s3 n11 n10 n5 n6
 4
 0 7 0 2
 0 24 3 2
-0 27 0 2
 0 25 9 10
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46241,8 +46241,8 @@ sendtofree-b s3 n11 n10 n6 n7
 4
 0 7 0 2
 0 24 3 2
-0 27 0 2
 0 25 10 11
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46251,8 +46251,8 @@ sendtofree-b s3 n11 n10 n7 n8
 4
 0 7 0 2
 0 24 3 2
-0 27 0 2
 0 25 11 12
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46261,8 +46261,8 @@ sendtofree-b s3 n11 n10 n8 n9
 4
 0 7 0 2
 0 24 3 2
-0 27 0 2
 0 25 12 13
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46271,8 +46271,8 @@ sendtofree-b s3 n11 n10 n9 n10
 4
 0 7 0 2
 0 24 3 2
-0 27 0 2
 0 25 13 2
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46281,8 +46281,8 @@ sendtofree-b s3 n12 n11 n0 n1
 4
 0 7 0 2
 0 24 4 3
-0 27 0 2
 0 25 0 1
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46291,8 +46291,8 @@ sendtofree-b s3 n12 n11 n1 n2
 4
 0 7 0 2
 0 24 4 3
-0 27 0 2
 0 25 1 6
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46301,8 +46301,8 @@ sendtofree-b s3 n12 n11 n10 n11
 4
 0 7 0 2
 0 24 4 3
-0 27 0 2
 0 25 2 3
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46311,8 +46311,8 @@ sendtofree-b s3 n12 n11 n11 n12
 4
 0 7 0 2
 0 24 4 3
-0 27 0 2
 0 25 3 4
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46321,8 +46321,8 @@ sendtofree-b s3 n12 n11 n12 n13
 4
 0 7 0 2
 0 24 4 3
-0 27 0 2
 0 25 4 5
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46331,8 +46331,8 @@ sendtofree-b s3 n12 n11 n2 n3
 4
 0 7 0 2
 0 24 4 3
-0 27 0 2
 0 25 6 7
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46341,8 +46341,8 @@ sendtofree-b s3 n12 n11 n3 n4
 4
 0 7 0 2
 0 24 4 3
-0 27 0 2
 0 25 7 8
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46351,8 +46351,8 @@ sendtofree-b s3 n12 n11 n4 n5
 4
 0 7 0 2
 0 24 4 3
-0 27 0 2
 0 25 8 9
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46361,8 +46361,8 @@ sendtofree-b s3 n12 n11 n5 n6
 4
 0 7 0 2
 0 24 4 3
-0 27 0 2
 0 25 9 10
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46371,8 +46371,8 @@ sendtofree-b s3 n12 n11 n6 n7
 4
 0 7 0 2
 0 24 4 3
-0 27 0 2
 0 25 10 11
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46381,8 +46381,8 @@ sendtofree-b s3 n12 n11 n7 n8
 4
 0 7 0 2
 0 24 4 3
-0 27 0 2
 0 25 11 12
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46391,8 +46391,8 @@ sendtofree-b s3 n12 n11 n8 n9
 4
 0 7 0 2
 0 24 4 3
-0 27 0 2
 0 25 12 13
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46401,8 +46401,8 @@ sendtofree-b s3 n12 n11 n9 n10
 4
 0 7 0 2
 0 24 4 3
-0 27 0 2
 0 25 13 2
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46411,8 +46411,8 @@ sendtofree-b s3 n13 n12 n0 n1
 4
 0 7 0 2
 0 24 5 4
-0 27 0 2
 0 25 0 1
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46421,8 +46421,8 @@ sendtofree-b s3 n13 n12 n1 n2
 4
 0 7 0 2
 0 24 5 4
-0 27 0 2
 0 25 1 6
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46431,8 +46431,8 @@ sendtofree-b s3 n13 n12 n10 n11
 4
 0 7 0 2
 0 24 5 4
-0 27 0 2
 0 25 2 3
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46441,8 +46441,8 @@ sendtofree-b s3 n13 n12 n11 n12
 4
 0 7 0 2
 0 24 5 4
-0 27 0 2
 0 25 3 4
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46451,8 +46451,8 @@ sendtofree-b s3 n13 n12 n12 n13
 4
 0 7 0 2
 0 24 5 4
-0 27 0 2
 0 25 4 5
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46461,8 +46461,8 @@ sendtofree-b s3 n13 n12 n2 n3
 4
 0 7 0 2
 0 24 5 4
-0 27 0 2
 0 25 6 7
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46471,8 +46471,8 @@ sendtofree-b s3 n13 n12 n3 n4
 4
 0 7 0 2
 0 24 5 4
-0 27 0 2
 0 25 7 8
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46481,8 +46481,8 @@ sendtofree-b s3 n13 n12 n4 n5
 4
 0 7 0 2
 0 24 5 4
-0 27 0 2
 0 25 8 9
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46491,8 +46491,8 @@ sendtofree-b s3 n13 n12 n5 n6
 4
 0 7 0 2
 0 24 5 4
-0 27 0 2
 0 25 9 10
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46501,8 +46501,8 @@ sendtofree-b s3 n13 n12 n6 n7
 4
 0 7 0 2
 0 24 5 4
-0 27 0 2
 0 25 10 11
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46511,8 +46511,8 @@ sendtofree-b s3 n13 n12 n7 n8
 4
 0 7 0 2
 0 24 5 4
-0 27 0 2
 0 25 11 12
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46521,8 +46521,8 @@ sendtofree-b s3 n13 n12 n8 n9
 4
 0 7 0 2
 0 24 5 4
-0 27 0 2
 0 25 12 13
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46531,8 +46531,8 @@ sendtofree-b s3 n13 n12 n9 n10
 4
 0 7 0 2
 0 24 5 4
-0 27 0 2
 0 25 13 2
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46541,8 +46541,8 @@ sendtofree-b s3 n2 n1 n0 n1
 4
 0 7 0 2
 0 24 6 1
-0 27 0 2
 0 25 0 1
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46551,8 +46551,8 @@ sendtofree-b s3 n2 n1 n1 n2
 4
 0 7 0 2
 0 24 6 1
-0 27 0 2
 0 25 1 6
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46561,8 +46561,8 @@ sendtofree-b s3 n2 n1 n10 n11
 4
 0 7 0 2
 0 24 6 1
-0 27 0 2
 0 25 2 3
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46571,8 +46571,8 @@ sendtofree-b s3 n2 n1 n11 n12
 4
 0 7 0 2
 0 24 6 1
-0 27 0 2
 0 25 3 4
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46581,8 +46581,8 @@ sendtofree-b s3 n2 n1 n12 n13
 4
 0 7 0 2
 0 24 6 1
-0 27 0 2
 0 25 4 5
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46591,8 +46591,8 @@ sendtofree-b s3 n2 n1 n2 n3
 4
 0 7 0 2
 0 24 6 1
-0 27 0 2
 0 25 6 7
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46601,8 +46601,8 @@ sendtofree-b s3 n2 n1 n3 n4
 4
 0 7 0 2
 0 24 6 1
-0 27 0 2
 0 25 7 8
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46611,8 +46611,8 @@ sendtofree-b s3 n2 n1 n4 n5
 4
 0 7 0 2
 0 24 6 1
-0 27 0 2
 0 25 8 9
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46621,8 +46621,8 @@ sendtofree-b s3 n2 n1 n5 n6
 4
 0 7 0 2
 0 24 6 1
-0 27 0 2
 0 25 9 10
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46631,8 +46631,8 @@ sendtofree-b s3 n2 n1 n6 n7
 4
 0 7 0 2
 0 24 6 1
-0 27 0 2
 0 25 10 11
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46641,8 +46641,8 @@ sendtofree-b s3 n2 n1 n7 n8
 4
 0 7 0 2
 0 24 6 1
-0 27 0 2
 0 25 11 12
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46651,8 +46651,8 @@ sendtofree-b s3 n2 n1 n8 n9
 4
 0 7 0 2
 0 24 6 1
-0 27 0 2
 0 25 12 13
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46661,8 +46661,8 @@ sendtofree-b s3 n2 n1 n9 n10
 4
 0 7 0 2
 0 24 6 1
-0 27 0 2
 0 25 13 2
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46671,8 +46671,8 @@ sendtofree-b s3 n3 n2 n0 n1
 4
 0 7 0 2
 0 24 7 6
-0 27 0 2
 0 25 0 1
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46681,8 +46681,8 @@ sendtofree-b s3 n3 n2 n1 n2
 4
 0 7 0 2
 0 24 7 6
-0 27 0 2
 0 25 1 6
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46691,8 +46691,8 @@ sendtofree-b s3 n3 n2 n10 n11
 4
 0 7 0 2
 0 24 7 6
-0 27 0 2
 0 25 2 3
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46701,8 +46701,8 @@ sendtofree-b s3 n3 n2 n11 n12
 4
 0 7 0 2
 0 24 7 6
-0 27 0 2
 0 25 3 4
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46711,8 +46711,8 @@ sendtofree-b s3 n3 n2 n12 n13
 4
 0 7 0 2
 0 24 7 6
-0 27 0 2
 0 25 4 5
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46721,8 +46721,8 @@ sendtofree-b s3 n3 n2 n2 n3
 4
 0 7 0 2
 0 24 7 6
-0 27 0 2
 0 25 6 7
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46731,8 +46731,8 @@ sendtofree-b s3 n3 n2 n3 n4
 4
 0 7 0 2
 0 24 7 6
-0 27 0 2
 0 25 7 8
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46741,8 +46741,8 @@ sendtofree-b s3 n3 n2 n4 n5
 4
 0 7 0 2
 0 24 7 6
-0 27 0 2
 0 25 8 9
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46751,8 +46751,8 @@ sendtofree-b s3 n3 n2 n5 n6
 4
 0 7 0 2
 0 24 7 6
-0 27 0 2
 0 25 9 10
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46761,8 +46761,8 @@ sendtofree-b s3 n3 n2 n6 n7
 4
 0 7 0 2
 0 24 7 6
-0 27 0 2
 0 25 10 11
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46771,8 +46771,8 @@ sendtofree-b s3 n3 n2 n7 n8
 4
 0 7 0 2
 0 24 7 6
-0 27 0 2
 0 25 11 12
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46781,8 +46781,8 @@ sendtofree-b s3 n3 n2 n8 n9
 4
 0 7 0 2
 0 24 7 6
-0 27 0 2
 0 25 12 13
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46791,8 +46791,8 @@ sendtofree-b s3 n3 n2 n9 n10
 4
 0 7 0 2
 0 24 7 6
-0 27 0 2
 0 25 13 2
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46801,8 +46801,8 @@ sendtofree-b s3 n4 n3 n0 n1
 4
 0 7 0 2
 0 24 8 7
-0 27 0 2
 0 25 0 1
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46811,8 +46811,8 @@ sendtofree-b s3 n4 n3 n1 n2
 4
 0 7 0 2
 0 24 8 7
-0 27 0 2
 0 25 1 6
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46821,8 +46821,8 @@ sendtofree-b s3 n4 n3 n10 n11
 4
 0 7 0 2
 0 24 8 7
-0 27 0 2
 0 25 2 3
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46831,8 +46831,8 @@ sendtofree-b s3 n4 n3 n11 n12
 4
 0 7 0 2
 0 24 8 7
-0 27 0 2
 0 25 3 4
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46841,8 +46841,8 @@ sendtofree-b s3 n4 n3 n12 n13
 4
 0 7 0 2
 0 24 8 7
-0 27 0 2
 0 25 4 5
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46851,8 +46851,8 @@ sendtofree-b s3 n4 n3 n2 n3
 4
 0 7 0 2
 0 24 8 7
-0 27 0 2
 0 25 6 7
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46861,8 +46861,8 @@ sendtofree-b s3 n4 n3 n3 n4
 4
 0 7 0 2
 0 24 8 7
-0 27 0 2
 0 25 7 8
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46871,8 +46871,8 @@ sendtofree-b s3 n4 n3 n4 n5
 4
 0 7 0 2
 0 24 8 7
-0 27 0 2
 0 25 8 9
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46881,8 +46881,8 @@ sendtofree-b s3 n4 n3 n5 n6
 4
 0 7 0 2
 0 24 8 7
-0 27 0 2
 0 25 9 10
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46891,8 +46891,8 @@ sendtofree-b s3 n4 n3 n6 n7
 4
 0 7 0 2
 0 24 8 7
-0 27 0 2
 0 25 10 11
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46901,8 +46901,8 @@ sendtofree-b s3 n4 n3 n7 n8
 4
 0 7 0 2
 0 24 8 7
-0 27 0 2
 0 25 11 12
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46911,8 +46911,8 @@ sendtofree-b s3 n4 n3 n8 n9
 4
 0 7 0 2
 0 24 8 7
-0 27 0 2
 0 25 12 13
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46921,8 +46921,8 @@ sendtofree-b s3 n4 n3 n9 n10
 4
 0 7 0 2
 0 24 8 7
-0 27 0 2
 0 25 13 2
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46931,8 +46931,8 @@ sendtofree-b s3 n5 n4 n0 n1
 4
 0 7 0 2
 0 24 9 8
-0 27 0 2
 0 25 0 1
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46941,8 +46941,8 @@ sendtofree-b s3 n5 n4 n1 n2
 4
 0 7 0 2
 0 24 9 8
-0 27 0 2
 0 25 1 6
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46951,8 +46951,8 @@ sendtofree-b s3 n5 n4 n10 n11
 4
 0 7 0 2
 0 24 9 8
-0 27 0 2
 0 25 2 3
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46961,8 +46961,8 @@ sendtofree-b s3 n5 n4 n11 n12
 4
 0 7 0 2
 0 24 9 8
-0 27 0 2
 0 25 3 4
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46971,8 +46971,8 @@ sendtofree-b s3 n5 n4 n12 n13
 4
 0 7 0 2
 0 24 9 8
-0 27 0 2
 0 25 4 5
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46981,8 +46981,8 @@ sendtofree-b s3 n5 n4 n2 n3
 4
 0 7 0 2
 0 24 9 8
-0 27 0 2
 0 25 6 7
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -46991,8 +46991,8 @@ sendtofree-b s3 n5 n4 n3 n4
 4
 0 7 0 2
 0 24 9 8
-0 27 0 2
 0 25 7 8
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47001,8 +47001,8 @@ sendtofree-b s3 n5 n4 n4 n5
 4
 0 7 0 2
 0 24 9 8
-0 27 0 2
 0 25 8 9
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47011,8 +47011,8 @@ sendtofree-b s3 n5 n4 n5 n6
 4
 0 7 0 2
 0 24 9 8
-0 27 0 2
 0 25 9 10
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47021,8 +47021,8 @@ sendtofree-b s3 n5 n4 n6 n7
 4
 0 7 0 2
 0 24 9 8
-0 27 0 2
 0 25 10 11
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47031,8 +47031,8 @@ sendtofree-b s3 n5 n4 n7 n8
 4
 0 7 0 2
 0 24 9 8
-0 27 0 2
 0 25 11 12
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47041,8 +47041,8 @@ sendtofree-b s3 n5 n4 n8 n9
 4
 0 7 0 2
 0 24 9 8
-0 27 0 2
 0 25 12 13
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47051,8 +47051,8 @@ sendtofree-b s3 n5 n4 n9 n10
 4
 0 7 0 2
 0 24 9 8
-0 27 0 2
 0 25 13 2
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47061,8 +47061,8 @@ sendtofree-b s3 n6 n5 n0 n1
 4
 0 7 0 2
 0 24 10 9
-0 27 0 2
 0 25 0 1
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47071,8 +47071,8 @@ sendtofree-b s3 n6 n5 n1 n2
 4
 0 7 0 2
 0 24 10 9
-0 27 0 2
 0 25 1 6
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47081,8 +47081,8 @@ sendtofree-b s3 n6 n5 n10 n11
 4
 0 7 0 2
 0 24 10 9
-0 27 0 2
 0 25 2 3
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47091,8 +47091,8 @@ sendtofree-b s3 n6 n5 n11 n12
 4
 0 7 0 2
 0 24 10 9
-0 27 0 2
 0 25 3 4
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47101,8 +47101,8 @@ sendtofree-b s3 n6 n5 n12 n13
 4
 0 7 0 2
 0 24 10 9
-0 27 0 2
 0 25 4 5
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47111,8 +47111,8 @@ sendtofree-b s3 n6 n5 n2 n3
 4
 0 7 0 2
 0 24 10 9
-0 27 0 2
 0 25 6 7
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47121,8 +47121,8 @@ sendtofree-b s3 n6 n5 n3 n4
 4
 0 7 0 2
 0 24 10 9
-0 27 0 2
 0 25 7 8
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47131,8 +47131,8 @@ sendtofree-b s3 n6 n5 n4 n5
 4
 0 7 0 2
 0 24 10 9
-0 27 0 2
 0 25 8 9
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47141,8 +47141,8 @@ sendtofree-b s3 n6 n5 n5 n6
 4
 0 7 0 2
 0 24 10 9
-0 27 0 2
 0 25 9 10
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47151,8 +47151,8 @@ sendtofree-b s3 n6 n5 n6 n7
 4
 0 7 0 2
 0 24 10 9
-0 27 0 2
 0 25 10 11
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47161,8 +47161,8 @@ sendtofree-b s3 n6 n5 n7 n8
 4
 0 7 0 2
 0 24 10 9
-0 27 0 2
 0 25 11 12
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47171,8 +47171,8 @@ sendtofree-b s3 n6 n5 n8 n9
 4
 0 7 0 2
 0 24 10 9
-0 27 0 2
 0 25 12 13
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47181,8 +47181,8 @@ sendtofree-b s3 n6 n5 n9 n10
 4
 0 7 0 2
 0 24 10 9
-0 27 0 2
 0 25 13 2
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47191,8 +47191,8 @@ sendtofree-b s3 n7 n6 n0 n1
 4
 0 7 0 2
 0 24 11 10
-0 27 0 2
 0 25 0 1
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47201,8 +47201,8 @@ sendtofree-b s3 n7 n6 n1 n2
 4
 0 7 0 2
 0 24 11 10
-0 27 0 2
 0 25 1 6
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47211,8 +47211,8 @@ sendtofree-b s3 n7 n6 n10 n11
 4
 0 7 0 2
 0 24 11 10
-0 27 0 2
 0 25 2 3
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47221,8 +47221,8 @@ sendtofree-b s3 n7 n6 n11 n12
 4
 0 7 0 2
 0 24 11 10
-0 27 0 2
 0 25 3 4
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47231,8 +47231,8 @@ sendtofree-b s3 n7 n6 n12 n13
 4
 0 7 0 2
 0 24 11 10
-0 27 0 2
 0 25 4 5
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47241,8 +47241,8 @@ sendtofree-b s3 n7 n6 n2 n3
 4
 0 7 0 2
 0 24 11 10
-0 27 0 2
 0 25 6 7
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47251,8 +47251,8 @@ sendtofree-b s3 n7 n6 n3 n4
 4
 0 7 0 2
 0 24 11 10
-0 27 0 2
 0 25 7 8
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47261,8 +47261,8 @@ sendtofree-b s3 n7 n6 n4 n5
 4
 0 7 0 2
 0 24 11 10
-0 27 0 2
 0 25 8 9
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47271,8 +47271,8 @@ sendtofree-b s3 n7 n6 n5 n6
 4
 0 7 0 2
 0 24 11 10
-0 27 0 2
 0 25 9 10
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47281,8 +47281,8 @@ sendtofree-b s3 n7 n6 n6 n7
 4
 0 7 0 2
 0 24 11 10
-0 27 0 2
 0 25 10 11
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47291,8 +47291,8 @@ sendtofree-b s3 n7 n6 n7 n8
 4
 0 7 0 2
 0 24 11 10
-0 27 0 2
 0 25 11 12
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47301,8 +47301,8 @@ sendtofree-b s3 n7 n6 n8 n9
 4
 0 7 0 2
 0 24 11 10
-0 27 0 2
 0 25 12 13
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47311,8 +47311,8 @@ sendtofree-b s3 n7 n6 n9 n10
 4
 0 7 0 2
 0 24 11 10
-0 27 0 2
 0 25 13 2
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47321,8 +47321,8 @@ sendtofree-b s3 n8 n7 n0 n1
 4
 0 7 0 2
 0 24 12 11
-0 27 0 2
 0 25 0 1
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47331,8 +47331,8 @@ sendtofree-b s3 n8 n7 n1 n2
 4
 0 7 0 2
 0 24 12 11
-0 27 0 2
 0 25 1 6
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47341,8 +47341,8 @@ sendtofree-b s3 n8 n7 n10 n11
 4
 0 7 0 2
 0 24 12 11
-0 27 0 2
 0 25 2 3
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47351,8 +47351,8 @@ sendtofree-b s3 n8 n7 n11 n12
 4
 0 7 0 2
 0 24 12 11
-0 27 0 2
 0 25 3 4
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47361,8 +47361,8 @@ sendtofree-b s3 n8 n7 n12 n13
 4
 0 7 0 2
 0 24 12 11
-0 27 0 2
 0 25 4 5
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47371,8 +47371,8 @@ sendtofree-b s3 n8 n7 n2 n3
 4
 0 7 0 2
 0 24 12 11
-0 27 0 2
 0 25 6 7
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47381,8 +47381,8 @@ sendtofree-b s3 n8 n7 n3 n4
 4
 0 7 0 2
 0 24 12 11
-0 27 0 2
 0 25 7 8
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47391,8 +47391,8 @@ sendtofree-b s3 n8 n7 n4 n5
 4
 0 7 0 2
 0 24 12 11
-0 27 0 2
 0 25 8 9
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47401,8 +47401,8 @@ sendtofree-b s3 n8 n7 n5 n6
 4
 0 7 0 2
 0 24 12 11
-0 27 0 2
 0 25 9 10
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47411,8 +47411,8 @@ sendtofree-b s3 n8 n7 n6 n7
 4
 0 7 0 2
 0 24 12 11
-0 27 0 2
 0 25 10 11
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47421,8 +47421,8 @@ sendtofree-b s3 n8 n7 n7 n8
 4
 0 7 0 2
 0 24 12 11
-0 27 0 2
 0 25 11 12
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47431,8 +47431,8 @@ sendtofree-b s3 n8 n7 n8 n9
 4
 0 7 0 2
 0 24 12 11
-0 27 0 2
 0 25 12 13
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47441,8 +47441,8 @@ sendtofree-b s3 n8 n7 n9 n10
 4
 0 7 0 2
 0 24 12 11
-0 27 0 2
 0 25 13 2
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47451,8 +47451,8 @@ sendtofree-b s3 n9 n8 n0 n1
 4
 0 7 0 2
 0 24 13 12
-0 27 0 2
 0 25 0 1
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47461,8 +47461,8 @@ sendtofree-b s3 n9 n8 n1 n2
 4
 0 7 0 2
 0 24 13 12
-0 27 0 2
 0 25 1 6
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47471,8 +47471,8 @@ sendtofree-b s3 n9 n8 n10 n11
 4
 0 7 0 2
 0 24 13 12
-0 27 0 2
 0 25 2 3
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47481,8 +47481,8 @@ sendtofree-b s3 n9 n8 n11 n12
 4
 0 7 0 2
 0 24 13 12
-0 27 0 2
 0 25 3 4
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47491,8 +47491,8 @@ sendtofree-b s3 n9 n8 n12 n13
 4
 0 7 0 2
 0 24 13 12
-0 27 0 2
 0 25 4 5
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47501,8 +47501,8 @@ sendtofree-b s3 n9 n8 n2 n3
 4
 0 7 0 2
 0 24 13 12
-0 27 0 2
 0 25 6 7
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47511,8 +47511,8 @@ sendtofree-b s3 n9 n8 n3 n4
 4
 0 7 0 2
 0 24 13 12
-0 27 0 2
 0 25 7 8
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47521,8 +47521,8 @@ sendtofree-b s3 n9 n8 n4 n5
 4
 0 7 0 2
 0 24 13 12
-0 27 0 2
 0 25 8 9
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47531,8 +47531,8 @@ sendtofree-b s3 n9 n8 n5 n6
 4
 0 7 0 2
 0 24 13 12
-0 27 0 2
 0 25 9 10
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47541,8 +47541,8 @@ sendtofree-b s3 n9 n8 n6 n7
 4
 0 7 0 2
 0 24 13 12
-0 27 0 2
 0 25 10 11
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47551,8 +47551,8 @@ sendtofree-b s3 n9 n8 n7 n8
 4
 0 7 0 2
 0 24 13 12
-0 27 0 2
 0 25 11 12
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47561,8 +47561,8 @@ sendtofree-b s3 n9 n8 n8 n9
 4
 0 7 0 2
 0 24 13 12
-0 27 0 2
 0 25 12 13
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47571,8 +47571,8 @@ sendtofree-b s3 n9 n8 n9 n10
 4
 0 7 0 2
 0 24 13 12
-0 27 0 2
 0 25 13 2
+0 27 0 2
 1
 end_operator
 begin_operator
@@ -47580,8 +47580,8 @@ sendtofree-b sa n1 n0 n0 n1
 0
 4
 0 8 0 2
-0 24 1 0
 0 9 0 1
+0 24 1 0
 0 25 0 1
 1
 end_operator
@@ -47590,8 +47590,8 @@ sendtofree-b sa n1 n0 n1 n2
 0
 4
 0 8 0 2
-0 24 1 0
 0 9 0 1
+0 24 1 0
 0 25 1 6
 1
 end_operator
@@ -47600,8 +47600,8 @@ sendtofree-b sa n1 n0 n10 n11
 0
 4
 0 8 0 2
-0 24 1 0
 0 9 0 1
+0 24 1 0
 0 25 2 3
 1
 end_operator
@@ -47610,8 +47610,8 @@ sendtofree-b sa n1 n0 n11 n12
 0
 4
 0 8 0 2
-0 24 1 0
 0 9 0 1
+0 24 1 0
 0 25 3 4
 1
 end_operator
@@ -47620,8 +47620,8 @@ sendtofree-b sa n1 n0 n12 n13
 0
 4
 0 8 0 2
-0 24 1 0
 0 9 0 1
+0 24 1 0
 0 25 4 5
 1
 end_operator
@@ -47630,8 +47630,8 @@ sendtofree-b sa n1 n0 n2 n3
 0
 4
 0 8 0 2
-0 24 1 0
 0 9 0 1
+0 24 1 0
 0 25 6 7
 1
 end_operator
@@ -47640,8 +47640,8 @@ sendtofree-b sa n1 n0 n3 n4
 0
 4
 0 8 0 2
-0 24 1 0
 0 9 0 1
+0 24 1 0
 0 25 7 8
 1
 end_operator
@@ -47650,8 +47650,8 @@ sendtofree-b sa n1 n0 n4 n5
 0
 4
 0 8 0 2
-0 24 1 0
 0 9 0 1
+0 24 1 0
 0 25 8 9
 1
 end_operator
@@ -47660,8 +47660,8 @@ sendtofree-b sa n1 n0 n5 n6
 0
 4
 0 8 0 2
-0 24 1 0
 0 9 0 1
+0 24 1 0
 0 25 9 10
 1
 end_operator
@@ -47670,8 +47670,8 @@ sendtofree-b sa n1 n0 n6 n7
 0
 4
 0 8 0 2
-0 24 1 0
 0 9 0 1
+0 24 1 0
 0 25 10 11
 1
 end_operator
@@ -47680,8 +47680,8 @@ sendtofree-b sa n1 n0 n7 n8
 0
 4
 0 8 0 2
-0 24 1 0
 0 9 0 1
+0 24 1 0
 0 25 11 12
 1
 end_operator
@@ -47690,8 +47690,8 @@ sendtofree-b sa n1 n0 n8 n9
 0
 4
 0 8 0 2
-0 24 1 0
 0 9 0 1
+0 24 1 0
 0 25 12 13
 1
 end_operator
@@ -47700,8 +47700,8 @@ sendtofree-b sa n1 n0 n9 n10
 0
 4
 0 8 0 2
-0 24 1 0
 0 9 0 1
+0 24 1 0
 0 25 13 2
 1
 end_operator
@@ -47710,8 +47710,8 @@ sendtofree-b sa n10 n9 n0 n1
 0
 4
 0 8 0 2
-0 24 2 13
 0 9 0 1
+0 24 2 13
 0 25 0 1
 1
 end_operator
@@ -47720,8 +47720,8 @@ sendtofree-b sa n10 n9 n1 n2
 0
 4
 0 8 0 2
-0 24 2 13
 0 9 0 1
+0 24 2 13
 0 25 1 6
 1
 end_operator
@@ -47730,8 +47730,8 @@ sendtofree-b sa n10 n9 n10 n11
 0
 4
 0 8 0 2
-0 24 2 13
 0 9 0 1
+0 24 2 13
 0 25 2 3
 1
 end_operator
@@ -47740,8 +47740,8 @@ sendtofree-b sa n10 n9 n11 n12
 0
 4
 0 8 0 2
-0 24 2 13
 0 9 0 1
+0 24 2 13
 0 25 3 4
 1
 end_operator
@@ -47750,8 +47750,8 @@ sendtofree-b sa n10 n9 n12 n13
 0
 4
 0 8 0 2
-0 24 2 13
 0 9 0 1
+0 24 2 13
 0 25 4 5
 1
 end_operator
@@ -47760,8 +47760,8 @@ sendtofree-b sa n10 n9 n2 n3
 0
 4
 0 8 0 2
-0 24 2 13
 0 9 0 1
+0 24 2 13
 0 25 6 7
 1
 end_operator
@@ -47770,8 +47770,8 @@ sendtofree-b sa n10 n9 n3 n4
 0
 4
 0 8 0 2
-0 24 2 13
 0 9 0 1
+0 24 2 13
 0 25 7 8
 1
 end_operator
@@ -47780,8 +47780,8 @@ sendtofree-b sa n10 n9 n4 n5
 0
 4
 0 8 0 2
-0 24 2 13
 0 9 0 1
+0 24 2 13
 0 25 8 9
 1
 end_operator
@@ -47790,8 +47790,8 @@ sendtofree-b sa n10 n9 n5 n6
 0
 4
 0 8 0 2
-0 24 2 13
 0 9 0 1
+0 24 2 13
 0 25 9 10
 1
 end_operator
@@ -47800,8 +47800,8 @@ sendtofree-b sa n10 n9 n6 n7
 0
 4
 0 8 0 2
-0 24 2 13
 0 9 0 1
+0 24 2 13
 0 25 10 11
 1
 end_operator
@@ -47810,8 +47810,8 @@ sendtofree-b sa n10 n9 n7 n8
 0
 4
 0 8 0 2
-0 24 2 13
 0 9 0 1
+0 24 2 13
 0 25 11 12
 1
 end_operator
@@ -47820,8 +47820,8 @@ sendtofree-b sa n10 n9 n8 n9
 0
 4
 0 8 0 2
-0 24 2 13
 0 9 0 1
+0 24 2 13
 0 25 12 13
 1
 end_operator
@@ -47830,8 +47830,8 @@ sendtofree-b sa n10 n9 n9 n10
 0
 4
 0 8 0 2
-0 24 2 13
 0 9 0 1
+0 24 2 13
 0 25 13 2
 1
 end_operator
@@ -47840,8 +47840,8 @@ sendtofree-b sa n11 n10 n0 n1
 0
 4
 0 8 0 2
-0 24 3 2
 0 9 0 1
+0 24 3 2
 0 25 0 1
 1
 end_operator
@@ -47850,8 +47850,8 @@ sendtofree-b sa n11 n10 n1 n2
 0
 4
 0 8 0 2
-0 24 3 2
 0 9 0 1
+0 24 3 2
 0 25 1 6
 1
 end_operator
@@ -47860,8 +47860,8 @@ sendtofree-b sa n11 n10 n10 n11
 0
 4
 0 8 0 2
-0 24 3 2
 0 9 0 1
+0 24 3 2
 0 25 2 3
 1
 end_operator
@@ -47870,8 +47870,8 @@ sendtofree-b sa n11 n10 n11 n12
 0
 4
 0 8 0 2
-0 24 3 2
 0 9 0 1
+0 24 3 2
 0 25 3 4
 1
 end_operator
@@ -47880,8 +47880,8 @@ sendtofree-b sa n11 n10 n12 n13
 0
 4
 0 8 0 2
-0 24 3 2
 0 9 0 1
+0 24 3 2
 0 25 4 5
 1
 end_operator
@@ -47890,8 +47890,8 @@ sendtofree-b sa n11 n10 n2 n3
 0
 4
 0 8 0 2
-0 24 3 2
 0 9 0 1
+0 24 3 2
 0 25 6 7
 1
 end_operator
@@ -47900,8 +47900,8 @@ sendtofree-b sa n11 n10 n3 n4
 0
 4
 0 8 0 2
-0 24 3 2
 0 9 0 1
+0 24 3 2
 0 25 7 8
 1
 end_operator
@@ -47910,8 +47910,8 @@ sendtofree-b sa n11 n10 n4 n5
 0
 4
 0 8 0 2
-0 24 3 2
 0 9 0 1
+0 24 3 2
 0 25 8 9
 1
 end_operator
@@ -47920,8 +47920,8 @@ sendtofree-b sa n11 n10 n5 n6
 0
 4
 0 8 0 2
-0 24 3 2
 0 9 0 1
+0 24 3 2
 0 25 9 10
 1
 end_operator
@@ -47930,8 +47930,8 @@ sendtofree-b sa n11 n10 n6 n7
 0
 4
 0 8 0 2
-0 24 3 2
 0 9 0 1
+0 24 3 2
 0 25 10 11
 1
 end_operator
@@ -47940,8 +47940,8 @@ sendtofree-b sa n11 n10 n7 n8
 0
 4
 0 8 0 2
-0 24 3 2
 0 9 0 1
+0 24 3 2
 0 25 11 12
 1
 end_operator
@@ -47950,8 +47950,8 @@ sendtofree-b sa n11 n10 n8 n9
 0
 4
 0 8 0 2
-0 24 3 2
 0 9 0 1
+0 24 3 2
 0 25 12 13
 1
 end_operator
@@ -47960,8 +47960,8 @@ sendtofree-b sa n11 n10 n9 n10
 0
 4
 0 8 0 2
-0 24 3 2
 0 9 0 1
+0 24 3 2
 0 25 13 2
 1
 end_operator
@@ -47970,8 +47970,8 @@ sendtofree-b sa n12 n11 n0 n1
 0
 4
 0 8 0 2
-0 24 4 3
 0 9 0 1
+0 24 4 3
 0 25 0 1
 1
 end_operator
@@ -47980,8 +47980,8 @@ sendtofree-b sa n12 n11 n1 n2
 0
 4
 0 8 0 2
-0 24 4 3
 0 9 0 1
+0 24 4 3
 0 25 1 6
 1
 end_operator
@@ -47990,8 +47990,8 @@ sendtofree-b sa n12 n11 n10 n11
 0
 4
 0 8 0 2
-0 24 4 3
 0 9 0 1
+0 24 4 3
 0 25 2 3
 1
 end_operator
@@ -48000,8 +48000,8 @@ sendtofree-b sa n12 n11 n11 n12
 0
 4
 0 8 0 2
-0 24 4 3
 0 9 0 1
+0 24 4 3
 0 25 3 4
 1
 end_operator
@@ -48010,8 +48010,8 @@ sendtofree-b sa n12 n11 n12 n13
 0
 4
 0 8 0 2
-0 24 4 3
 0 9 0 1
+0 24 4 3
 0 25 4 5
 1
 end_operator
@@ -48020,8 +48020,8 @@ sendtofree-b sa n12 n11 n2 n3
 0
 4
 0 8 0 2
-0 24 4 3
 0 9 0 1
+0 24 4 3
 0 25 6 7
 1
 end_operator
@@ -48030,8 +48030,8 @@ sendtofree-b sa n12 n11 n3 n4
 0
 4
 0 8 0 2
-0 24 4 3
 0 9 0 1
+0 24 4 3
 0 25 7 8
 1
 end_operator
@@ -48040,8 +48040,8 @@ sendtofree-b sa n12 n11 n4 n5
 0
 4
 0 8 0 2
-0 24 4 3
 0 9 0 1
+0 24 4 3
 0 25 8 9
 1
 end_operator
@@ -48050,8 +48050,8 @@ sendtofree-b sa n12 n11 n5 n6
 0
 4
 0 8 0 2
-0 24 4 3
 0 9 0 1
+0 24 4 3
 0 25 9 10
 1
 end_operator
@@ -48060,8 +48060,8 @@ sendtofree-b sa n12 n11 n6 n7
 0
 4
 0 8 0 2
-0 24 4 3
 0 9 0 1
+0 24 4 3
 0 25 10 11
 1
 end_operator
@@ -48070,8 +48070,8 @@ sendtofree-b sa n12 n11 n7 n8
 0
 4
 0 8 0 2
-0 24 4 3
 0 9 0 1
+0 24 4 3
 0 25 11 12
 1
 end_operator
@@ -48080,8 +48080,8 @@ sendtofree-b sa n12 n11 n8 n9
 0
 4
 0 8 0 2
-0 24 4 3
 0 9 0 1
+0 24 4 3
 0 25 12 13
 1
 end_operator
@@ -48090,8 +48090,8 @@ sendtofree-b sa n12 n11 n9 n10
 0
 4
 0 8 0 2
-0 24 4 3
 0 9 0 1
+0 24 4 3
 0 25 13 2
 1
 end_operator
@@ -48100,8 +48100,8 @@ sendtofree-b sa n13 n12 n0 n1
 0
 4
 0 8 0 2
-0 24 5 4
 0 9 0 1
+0 24 5 4
 0 25 0 1
 1
 end_operator
@@ -48110,8 +48110,8 @@ sendtofree-b sa n13 n12 n1 n2
 0
 4
 0 8 0 2
-0 24 5 4
 0 9 0 1
+0 24 5 4
 0 25 1 6
 1
 end_operator
@@ -48120,8 +48120,8 @@ sendtofree-b sa n13 n12 n10 n11
 0
 4
 0 8 0 2
-0 24 5 4
 0 9 0 1
+0 24 5 4
 0 25 2 3
 1
 end_operator
@@ -48130,8 +48130,8 @@ sendtofree-b sa n13 n12 n11 n12
 0
 4
 0 8 0 2
-0 24 5 4
 0 9 0 1
+0 24 5 4
 0 25 3 4
 1
 end_operator
@@ -48140,8 +48140,8 @@ sendtofree-b sa n13 n12 n12 n13
 0
 4
 0 8 0 2
-0 24 5 4
 0 9 0 1
+0 24 5 4
 0 25 4 5
 1
 end_operator
@@ -48150,8 +48150,8 @@ sendtofree-b sa n13 n12 n2 n3
 0
 4
 0 8 0 2
-0 24 5 4
 0 9 0 1
+0 24 5 4
 0 25 6 7
 1
 end_operator
@@ -48160,8 +48160,8 @@ sendtofree-b sa n13 n12 n3 n4
 0
 4
 0 8 0 2
-0 24 5 4
 0 9 0 1
+0 24 5 4
 0 25 7 8
 1
 end_operator
@@ -48170,8 +48170,8 @@ sendtofree-b sa n13 n12 n4 n5
 0
 4
 0 8 0 2
-0 24 5 4
 0 9 0 1
+0 24 5 4
 0 25 8 9
 1
 end_operator
@@ -48180,8 +48180,8 @@ sendtofree-b sa n13 n12 n5 n6
 0
 4
 0 8 0 2
-0 24 5 4
 0 9 0 1
+0 24 5 4
 0 25 9 10
 1
 end_operator
@@ -48190,8 +48190,8 @@ sendtofree-b sa n13 n12 n6 n7
 0
 4
 0 8 0 2
-0 24 5 4
 0 9 0 1
+0 24 5 4
 0 25 10 11
 1
 end_operator
@@ -48200,8 +48200,8 @@ sendtofree-b sa n13 n12 n7 n8
 0
 4
 0 8 0 2
-0 24 5 4
 0 9 0 1
+0 24 5 4
 0 25 11 12
 1
 end_operator
@@ -48210,8 +48210,8 @@ sendtofree-b sa n13 n12 n8 n9
 0
 4
 0 8 0 2
-0 24 5 4
 0 9 0 1
+0 24 5 4
 0 25 12 13
 1
 end_operator
@@ -48220,8 +48220,8 @@ sendtofree-b sa n13 n12 n9 n10
 0
 4
 0 8 0 2
-0 24 5 4
 0 9 0 1
+0 24 5 4
 0 25 13 2
 1
 end_operator
@@ -48230,8 +48230,8 @@ sendtofree-b sa n2 n1 n0 n1
 0
 4
 0 8 0 2
-0 24 6 1
 0 9 0 1
+0 24 6 1
 0 25 0 1
 1
 end_operator
@@ -48240,8 +48240,8 @@ sendtofree-b sa n2 n1 n1 n2
 0
 4
 0 8 0 2
-0 24 6 1
 0 9 0 1
+0 24 6 1
 0 25 1 6
 1
 end_operator
@@ -48250,8 +48250,8 @@ sendtofree-b sa n2 n1 n10 n11
 0
 4
 0 8 0 2
-0 24 6 1
 0 9 0 1
+0 24 6 1
 0 25 2 3
 1
 end_operator
@@ -48260,8 +48260,8 @@ sendtofree-b sa n2 n1 n11 n12
 0
 4
 0 8 0 2
-0 24 6 1
 0 9 0 1
+0 24 6 1
 0 25 3 4
 1
 end_operator
@@ -48270,8 +48270,8 @@ sendtofree-b sa n2 n1 n12 n13
 0
 4
 0 8 0 2
-0 24 6 1
 0 9 0 1
+0 24 6 1
 0 25 4 5
 1
 end_operator
@@ -48280,8 +48280,8 @@ sendtofree-b sa n2 n1 n2 n3
 0
 4
 0 8 0 2
-0 24 6 1
 0 9 0 1
+0 24 6 1
 0 25 6 7
 1
 end_operator
@@ -48290,8 +48290,8 @@ sendtofree-b sa n2 n1 n3 n4
 0
 4
 0 8 0 2
-0 24 6 1
 0 9 0 1
+0 24 6 1
 0 25 7 8
 1
 end_operator
@@ -48300,8 +48300,8 @@ sendtofree-b sa n2 n1 n4 n5
 0
 4
 0 8 0 2
-0 24 6 1
 0 9 0 1
+0 24 6 1
 0 25 8 9
 1
 end_operator
@@ -48310,8 +48310,8 @@ sendtofree-b sa n2 n1 n5 n6
 0
 4
 0 8 0 2
-0 24 6 1
 0 9 0 1
+0 24 6 1
 0 25 9 10
 1
 end_operator
@@ -48320,8 +48320,8 @@ sendtofree-b sa n2 n1 n6 n7
 0
 4
 0 8 0 2
-0 24 6 1
 0 9 0 1
+0 24 6 1
 0 25 10 11
 1
 end_operator
@@ -48330,8 +48330,8 @@ sendtofree-b sa n2 n1 n7 n8
 0
 4
 0 8 0 2
-0 24 6 1
 0 9 0 1
+0 24 6 1
 0 25 11 12
 1
 end_operator
@@ -48340,8 +48340,8 @@ sendtofree-b sa n2 n1 n8 n9
 0
 4
 0 8 0 2
-0 24 6 1
 0 9 0 1
+0 24 6 1
 0 25 12 13
 1
 end_operator
@@ -48350,8 +48350,8 @@ sendtofree-b sa n2 n1 n9 n10
 0
 4
 0 8 0 2
-0 24 6 1
 0 9 0 1
+0 24 6 1
 0 25 13 2
 1
 end_operator
@@ -48360,8 +48360,8 @@ sendtofree-b sa n3 n2 n0 n1
 0
 4
 0 8 0 2
-0 24 7 6
 0 9 0 1
+0 24 7 6
 0 25 0 1
 1
 end_operator
@@ -48370,8 +48370,8 @@ sendtofree-b sa n3 n2 n1 n2
 0
 4
 0 8 0 2
-0 24 7 6
 0 9 0 1
+0 24 7 6
 0 25 1 6
 1
 end_operator
@@ -48380,8 +48380,8 @@ sendtofree-b sa n3 n2 n10 n11
 0
 4
 0 8 0 2
-0 24 7 6
 0 9 0 1
+0 24 7 6
 0 25 2 3
 1
 end_operator
@@ -48390,8 +48390,8 @@ sendtofree-b sa n3 n2 n11 n12
 0
 4
 0 8 0 2
-0 24 7 6
 0 9 0 1
+0 24 7 6
 0 25 3 4
 1
 end_operator
@@ -48400,8 +48400,8 @@ sendtofree-b sa n3 n2 n12 n13
 0
 4
 0 8 0 2
-0 24 7 6
 0 9 0 1
+0 24 7 6
 0 25 4 5
 1
 end_operator
@@ -48410,8 +48410,8 @@ sendtofree-b sa n3 n2 n2 n3
 0
 4
 0 8 0 2
-0 24 7 6
 0 9 0 1
+0 24 7 6
 0 25 6 7
 1
 end_operator
@@ -48420,8 +48420,8 @@ sendtofree-b sa n3 n2 n3 n4
 0
 4
 0 8 0 2
-0 24 7 6
 0 9 0 1
+0 24 7 6
 0 25 7 8
 1
 end_operator
@@ -48430,8 +48430,8 @@ sendtofree-b sa n3 n2 n4 n5
 0
 4
 0 8 0 2
-0 24 7 6
 0 9 0 1
+0 24 7 6
 0 25 8 9
 1
 end_operator
@@ -48440,8 +48440,8 @@ sendtofree-b sa n3 n2 n5 n6
 0
 4
 0 8 0 2
-0 24 7 6
 0 9 0 1
+0 24 7 6
 0 25 9 10
 1
 end_operator
@@ -48450,8 +48450,8 @@ sendtofree-b sa n3 n2 n6 n7
 0
 4
 0 8 0 2
-0 24 7 6
 0 9 0 1
+0 24 7 6
 0 25 10 11
 1
 end_operator
@@ -48460,8 +48460,8 @@ sendtofree-b sa n3 n2 n7 n8
 0
 4
 0 8 0 2
-0 24 7 6
 0 9 0 1
+0 24 7 6
 0 25 11 12
 1
 end_operator
@@ -48470,8 +48470,8 @@ sendtofree-b sa n3 n2 n8 n9
 0
 4
 0 8 0 2
-0 24 7 6
 0 9 0 1
+0 24 7 6
 0 25 12 13
 1
 end_operator
@@ -48480,8 +48480,8 @@ sendtofree-b sa n3 n2 n9 n10
 0
 4
 0 8 0 2
-0 24 7 6
 0 9 0 1
+0 24 7 6
 0 25 13 2
 1
 end_operator
@@ -48490,8 +48490,8 @@ sendtofree-b sa n4 n3 n0 n1
 0
 4
 0 8 0 2
-0 24 8 7
 0 9 0 1
+0 24 8 7
 0 25 0 1
 1
 end_operator
@@ -48500,8 +48500,8 @@ sendtofree-b sa n4 n3 n1 n2
 0
 4
 0 8 0 2
-0 24 8 7
 0 9 0 1
+0 24 8 7
 0 25 1 6
 1
 end_operator
@@ -48510,8 +48510,8 @@ sendtofree-b sa n4 n3 n10 n11
 0
 4
 0 8 0 2
-0 24 8 7
 0 9 0 1
+0 24 8 7
 0 25 2 3
 1
 end_operator
@@ -48520,8 +48520,8 @@ sendtofree-b sa n4 n3 n11 n12
 0
 4
 0 8 0 2
-0 24 8 7
 0 9 0 1
+0 24 8 7
 0 25 3 4
 1
 end_operator
@@ -48530,8 +48530,8 @@ sendtofree-b sa n4 n3 n12 n13
 0
 4
 0 8 0 2
-0 24 8 7
 0 9 0 1
+0 24 8 7
 0 25 4 5
 1
 end_operator
@@ -48540,8 +48540,8 @@ sendtofree-b sa n4 n3 n2 n3
 0
 4
 0 8 0 2
-0 24 8 7
 0 9 0 1
+0 24 8 7
 0 25 6 7
 1
 end_operator
@@ -48550,8 +48550,8 @@ sendtofree-b sa n4 n3 n3 n4
 0
 4
 0 8 0 2
-0 24 8 7
 0 9 0 1
+0 24 8 7
 0 25 7 8
 1
 end_operator
@@ -48560,8 +48560,8 @@ sendtofree-b sa n4 n3 n4 n5
 0
 4
 0 8 0 2
-0 24 8 7
 0 9 0 1
+0 24 8 7
 0 25 8 9
 1
 end_operator
@@ -48570,8 +48570,8 @@ sendtofree-b sa n4 n3 n5 n6
 0
 4
 0 8 0 2
-0 24 8 7
 0 9 0 1
+0 24 8 7
 0 25 9 10
 1
 end_operator
@@ -48580,8 +48580,8 @@ sendtofree-b sa n4 n3 n6 n7
 0
 4
 0 8 0 2
-0 24 8 7
 0 9 0 1
+0 24 8 7
 0 25 10 11
 1
 end_operator
@@ -48590,8 +48590,8 @@ sendtofree-b sa n4 n3 n7 n8
 0
 4
 0 8 0 2
-0 24 8 7
 0 9 0 1
+0 24 8 7
 0 25 11 12
 1
 end_operator
@@ -48600,8 +48600,8 @@ sendtofree-b sa n4 n3 n8 n9
 0
 4
 0 8 0 2
-0 24 8 7
 0 9 0 1
+0 24 8 7
 0 25 12 13
 1
 end_operator
@@ -48610,8 +48610,8 @@ sendtofree-b sa n4 n3 n9 n10
 0
 4
 0 8 0 2
-0 24 8 7
 0 9 0 1
+0 24 8 7
 0 25 13 2
 1
 end_operator
@@ -48620,8 +48620,8 @@ sendtofree-b sa n5 n4 n0 n1
 0
 4
 0 8 0 2
-0 24 9 8
 0 9 0 1
+0 24 9 8
 0 25 0 1
 1
 end_operator
@@ -48630,8 +48630,8 @@ sendtofree-b sa n5 n4 n1 n2
 0
 4
 0 8 0 2
-0 24 9 8
 0 9 0 1
+0 24 9 8
 0 25 1 6
 1
 end_operator
@@ -48640,8 +48640,8 @@ sendtofree-b sa n5 n4 n10 n11
 0
 4
 0 8 0 2
-0 24 9 8
 0 9 0 1
+0 24 9 8
 0 25 2 3
 1
 end_operator
@@ -48650,8 +48650,8 @@ sendtofree-b sa n5 n4 n11 n12
 0
 4
 0 8 0 2
-0 24 9 8
 0 9 0 1
+0 24 9 8
 0 25 3 4
 1
 end_operator
@@ -48660,8 +48660,8 @@ sendtofree-b sa n5 n4 n12 n13
 0
 4
 0 8 0 2
-0 24 9 8
 0 9 0 1
+0 24 9 8
 0 25 4 5
 1
 end_operator
@@ -48670,8 +48670,8 @@ sendtofree-b sa n5 n4 n2 n3
 0
 4
 0 8 0 2
-0 24 9 8
 0 9 0 1
+0 24 9 8
 0 25 6 7
 1
 end_operator
@@ -48680,8 +48680,8 @@ sendtofree-b sa n5 n4 n3 n4
 0
 4
 0 8 0 2
-0 24 9 8
 0 9 0 1
+0 24 9 8
 0 25 7 8
 1
 end_operator
@@ -48690,8 +48690,8 @@ sendtofree-b sa n5 n4 n4 n5
 0
 4
 0 8 0 2
-0 24 9 8
 0 9 0 1
+0 24 9 8
 0 25 8 9
 1
 end_operator
@@ -48700,8 +48700,8 @@ sendtofree-b sa n5 n4 n5 n6
 0
 4
 0 8 0 2
-0 24 9 8
 0 9 0 1
+0 24 9 8
 0 25 9 10
 1
 end_operator
@@ -48710,8 +48710,8 @@ sendtofree-b sa n5 n4 n6 n7
 0
 4
 0 8 0 2
-0 24 9 8
 0 9 0 1
+0 24 9 8
 0 25 10 11
 1
 end_operator
@@ -48720,8 +48720,8 @@ sendtofree-b sa n5 n4 n7 n8
 0
 4
 0 8 0 2
-0 24 9 8
 0 9 0 1
+0 24 9 8
 0 25 11 12
 1
 end_operator
@@ -48730,8 +48730,8 @@ sendtofree-b sa n5 n4 n8 n9
 0
 4
 0 8 0 2
-0 24 9 8
 0 9 0 1
+0 24 9 8
 0 25 12 13
 1
 end_operator
@@ -48740,8 +48740,8 @@ sendtofree-b sa n5 n4 n9 n10
 0
 4
 0 8 0 2
-0 24 9 8
 0 9 0 1
+0 24 9 8
 0 25 13 2
 1
 end_operator
@@ -48750,8 +48750,8 @@ sendtofree-b sa n6 n5 n0 n1
 0
 4
 0 8 0 2
-0 24 10 9
 0 9 0 1
+0 24 10 9
 0 25 0 1
 1
 end_operator
@@ -48760,8 +48760,8 @@ sendtofree-b sa n6 n5 n1 n2
 0
 4
 0 8 0 2
-0 24 10 9
 0 9 0 1
+0 24 10 9
 0 25 1 6
 1
 end_operator
@@ -48770,8 +48770,8 @@ sendtofree-b sa n6 n5 n10 n11
 0
 4
 0 8 0 2
-0 24 10 9
 0 9 0 1
+0 24 10 9
 0 25 2 3
 1
 end_operator
@@ -48780,8 +48780,8 @@ sendtofree-b sa n6 n5 n11 n12
 0
 4
 0 8 0 2
-0 24 10 9
 0 9 0 1
+0 24 10 9
 0 25 3 4
 1
 end_operator
@@ -48790,8 +48790,8 @@ sendtofree-b sa n6 n5 n12 n13
 0
 4
 0 8 0 2
-0 24 10 9
 0 9 0 1
+0 24 10 9
 0 25 4 5
 1
 end_operator
@@ -48800,8 +48800,8 @@ sendtofree-b sa n6 n5 n2 n3
 0
 4
 0 8 0 2
-0 24 10 9
 0 9 0 1
+0 24 10 9
 0 25 6 7
 1
 end_operator
@@ -48810,8 +48810,8 @@ sendtofree-b sa n6 n5 n3 n4
 0
 4
 0 8 0 2
-0 24 10 9
 0 9 0 1
+0 24 10 9
 0 25 7 8
 1
 end_operator
@@ -48820,8 +48820,8 @@ sendtofree-b sa n6 n5 n4 n5
 0
 4
 0 8 0 2
-0 24 10 9
 0 9 0 1
+0 24 10 9
 0 25 8 9
 1
 end_operator
@@ -48830,8 +48830,8 @@ sendtofree-b sa n6 n5 n5 n6
 0
 4
 0 8 0 2
-0 24 10 9
 0 9 0 1
+0 24 10 9
 0 25 9 10
 1
 end_operator
@@ -48840,8 +48840,8 @@ sendtofree-b sa n6 n5 n6 n7
 0
 4
 0 8 0 2
-0 24 10 9
 0 9 0 1
+0 24 10 9
 0 25 10 11
 1
 end_operator
@@ -48850,8 +48850,8 @@ sendtofree-b sa n6 n5 n7 n8
 0
 4
 0 8 0 2
-0 24 10 9
 0 9 0 1
+0 24 10 9
 0 25 11 12
 1
 end_operator
@@ -48860,8 +48860,8 @@ sendtofree-b sa n6 n5 n8 n9
 0
 4
 0 8 0 2
-0 24 10 9
 0 9 0 1
+0 24 10 9
 0 25 12 13
 1
 end_operator
@@ -48870,8 +48870,8 @@ sendtofree-b sa n6 n5 n9 n10
 0
 4
 0 8 0 2
-0 24 10 9
 0 9 0 1
+0 24 10 9
 0 25 13 2
 1
 end_operator
@@ -48880,8 +48880,8 @@ sendtofree-b sa n7 n6 n0 n1
 0
 4
 0 8 0 2
-0 24 11 10
 0 9 0 1
+0 24 11 10
 0 25 0 1
 1
 end_operator
@@ -48890,8 +48890,8 @@ sendtofree-b sa n7 n6 n1 n2
 0
 4
 0 8 0 2
-0 24 11 10
 0 9 0 1
+0 24 11 10
 0 25 1 6
 1
 end_operator
@@ -48900,8 +48900,8 @@ sendtofree-b sa n7 n6 n10 n11
 0
 4
 0 8 0 2
-0 24 11 10
 0 9 0 1
+0 24 11 10
 0 25 2 3
 1
 end_operator
@@ -48910,8 +48910,8 @@ sendtofree-b sa n7 n6 n11 n12
 0
 4
 0 8 0 2
-0 24 11 10
 0 9 0 1
+0 24 11 10
 0 25 3 4
 1
 end_operator
@@ -48920,8 +48920,8 @@ sendtofree-b sa n7 n6 n12 n13
 0
 4
 0 8 0 2
-0 24 11 10
 0 9 0 1
+0 24 11 10
 0 25 4 5
 1
 end_operator
@@ -48930,8 +48930,8 @@ sendtofree-b sa n7 n6 n2 n3
 0
 4
 0 8 0 2
-0 24 11 10
 0 9 0 1
+0 24 11 10
 0 25 6 7
 1
 end_operator
@@ -48940,8 +48940,8 @@ sendtofree-b sa n7 n6 n3 n4
 0
 4
 0 8 0 2
-0 24 11 10
 0 9 0 1
+0 24 11 10
 0 25 7 8
 1
 end_operator
@@ -48950,8 +48950,8 @@ sendtofree-b sa n7 n6 n4 n5
 0
 4
 0 8 0 2
-0 24 11 10
 0 9 0 1
+0 24 11 10
 0 25 8 9
 1
 end_operator
@@ -48960,8 +48960,8 @@ sendtofree-b sa n7 n6 n5 n6
 0
 4
 0 8 0 2
-0 24 11 10
 0 9 0 1
+0 24 11 10
 0 25 9 10
 1
 end_operator
@@ -48970,8 +48970,8 @@ sendtofree-b sa n7 n6 n6 n7
 0
 4
 0 8 0 2
-0 24 11 10
 0 9 0 1
+0 24 11 10
 0 25 10 11
 1
 end_operator
@@ -48980,8 +48980,8 @@ sendtofree-b sa n7 n6 n7 n8
 0
 4
 0 8 0 2
-0 24 11 10
 0 9 0 1
+0 24 11 10
 0 25 11 12
 1
 end_operator
@@ -48990,8 +48990,8 @@ sendtofree-b sa n7 n6 n8 n9
 0
 4
 0 8 0 2
-0 24 11 10
 0 9 0 1
+0 24 11 10
 0 25 12 13
 1
 end_operator
@@ -49000,8 +49000,8 @@ sendtofree-b sa n7 n6 n9 n10
 0
 4
 0 8 0 2
-0 24 11 10
 0 9 0 1
+0 24 11 10
 0 25 13 2
 1
 end_operator
@@ -49010,8 +49010,8 @@ sendtofree-b sa n8 n7 n0 n1
 0
 4
 0 8 0 2
-0 24 12 11
 0 9 0 1
+0 24 12 11
 0 25 0 1
 1
 end_operator
@@ -49020,8 +49020,8 @@ sendtofree-b sa n8 n7 n1 n2
 0
 4
 0 8 0 2
-0 24 12 11
 0 9 0 1
+0 24 12 11
 0 25 1 6
 1
 end_operator
@@ -49030,8 +49030,8 @@ sendtofree-b sa n8 n7 n10 n11
 0
 4
 0 8 0 2
-0 24 12 11
 0 9 0 1
+0 24 12 11
 0 25 2 3
 1
 end_operator
@@ -49040,8 +49040,8 @@ sendtofree-b sa n8 n7 n11 n12
 0
 4
 0 8 0 2
-0 24 12 11
 0 9 0 1
+0 24 12 11
 0 25 3 4
 1
 end_operator
@@ -49050,8 +49050,8 @@ sendtofree-b sa n8 n7 n12 n13
 0
 4
 0 8 0 2
-0 24 12 11
 0 9 0 1
+0 24 12 11
 0 25 4 5
 1
 end_operator
@@ -49060,8 +49060,8 @@ sendtofree-b sa n8 n7 n2 n3
 0
 4
 0 8 0 2
-0 24 12 11
 0 9 0 1
+0 24 12 11
 0 25 6 7
 1
 end_operator
@@ -49070,8 +49070,8 @@ sendtofree-b sa n8 n7 n3 n4
 0
 4
 0 8 0 2
-0 24 12 11
 0 9 0 1
+0 24 12 11
 0 25 7 8
 1
 end_operator
@@ -49080,8 +49080,8 @@ sendtofree-b sa n8 n7 n4 n5
 0
 4
 0 8 0 2
-0 24 12 11
 0 9 0 1
+0 24 12 11
 0 25 8 9
 1
 end_operator
@@ -49090,8 +49090,8 @@ sendtofree-b sa n8 n7 n5 n6
 0
 4
 0 8 0 2
-0 24 12 11
 0 9 0 1
+0 24 12 11
 0 25 9 10
 1
 end_operator
@@ -49100,8 +49100,8 @@ sendtofree-b sa n8 n7 n6 n7
 0
 4
 0 8 0 2
-0 24 12 11
 0 9 0 1
+0 24 12 11
 0 25 10 11
 1
 end_operator
@@ -49110,8 +49110,8 @@ sendtofree-b sa n8 n7 n7 n8
 0
 4
 0 8 0 2
-0 24 12 11
 0 9 0 1
+0 24 12 11
 0 25 11 12
 1
 end_operator
@@ -49120,8 +49120,8 @@ sendtofree-b sa n8 n7 n8 n9
 0
 4
 0 8 0 2
-0 24 12 11
 0 9 0 1
+0 24 12 11
 0 25 12 13
 1
 end_operator
@@ -49130,8 +49130,8 @@ sendtofree-b sa n8 n7 n9 n10
 0
 4
 0 8 0 2
-0 24 12 11
 0 9 0 1
+0 24 12 11
 0 25 13 2
 1
 end_operator
@@ -49140,8 +49140,8 @@ sendtofree-b sa n9 n8 n0 n1
 0
 4
 0 8 0 2
-0 24 13 12
 0 9 0 1
+0 24 13 12
 0 25 0 1
 1
 end_operator
@@ -49150,8 +49150,8 @@ sendtofree-b sa n9 n8 n1 n2
 0
 4
 0 8 0 2
-0 24 13 12
 0 9 0 1
+0 24 13 12
 0 25 1 6
 1
 end_operator
@@ -49160,8 +49160,8 @@ sendtofree-b sa n9 n8 n10 n11
 0
 4
 0 8 0 2
-0 24 13 12
 0 9 0 1
+0 24 13 12
 0 25 2 3
 1
 end_operator
@@ -49170,8 +49170,8 @@ sendtofree-b sa n9 n8 n11 n12
 0
 4
 0 8 0 2
-0 24 13 12
 0 9 0 1
+0 24 13 12
 0 25 3 4
 1
 end_operator
@@ -49180,8 +49180,8 @@ sendtofree-b sa n9 n8 n12 n13
 0
 4
 0 8 0 2
-0 24 13 12
 0 9 0 1
+0 24 13 12
 0 25 4 5
 1
 end_operator
@@ -49190,8 +49190,8 @@ sendtofree-b sa n9 n8 n2 n3
 0
 4
 0 8 0 2
-0 24 13 12
 0 9 0 1
+0 24 13 12
 0 25 6 7
 1
 end_operator
@@ -49200,8 +49200,8 @@ sendtofree-b sa n9 n8 n3 n4
 0
 4
 0 8 0 2
-0 24 13 12
 0 9 0 1
+0 24 13 12
 0 25 7 8
 1
 end_operator
@@ -49210,8 +49210,8 @@ sendtofree-b sa n9 n8 n4 n5
 0
 4
 0 8 0 2
-0 24 13 12
 0 9 0 1
+0 24 13 12
 0 25 8 9
 1
 end_operator
@@ -49220,8 +49220,8 @@ sendtofree-b sa n9 n8 n5 n6
 0
 4
 0 8 0 2
-0 24 13 12
 0 9 0 1
+0 24 13 12
 0 25 9 10
 1
 end_operator
@@ -49230,8 +49230,8 @@ sendtofree-b sa n9 n8 n6 n7
 0
 4
 0 8 0 2
-0 24 13 12
 0 9 0 1
+0 24 13 12
 0 25 10 11
 1
 end_operator
@@ -49240,8 +49240,8 @@ sendtofree-b sa n9 n8 n7 n8
 0
 4
 0 8 0 2
-0 24 13 12
 0 9 0 1
+0 24 13 12
 0 25 11 12
 1
 end_operator
@@ -49250,8 +49250,8 @@ sendtofree-b sa n9 n8 n8 n9
 0
 4
 0 8 0 2
-0 24 13 12
 0 9 0 1
+0 24 13 12
 0 25 12 13
 1
 end_operator
@@ -49260,8 +49260,8 @@ sendtofree-b sa n9 n8 n9 n10
 0
 4
 0 8 0 2
-0 24 13 12
 0 9 0 1
+0 24 13 12
 0 25 13 2
 1
 end_operator
@@ -49269,8 +49269,8 @@ begin_operator
 sendtohome c2 d3 c n2 ca n1
 0
 3
-0 21 1 5
 0 16 0 1
+0 21 1 5
 0 29 3 0
 1
 end_operator
@@ -49278,8 +49278,8 @@ begin_operator
 sendtohome c2 h3 c n2 ca n1
 0
 3
-0 21 1 5
 0 16 0 1
+0 21 1 5
 0 26 3 0
 1
 end_operator
@@ -49287,39 +49287,39 @@ begin_operator
 sendtohome c3 s2 c n3 c2 n2
 0
 3
+0 11 3 0
 0 16 1 3
 0 28 0 1
-0 11 3 0
 1
 end_operator
 begin_operator
 sendtohome ca d2 c n1 c0 n0
 0
 4
-0 21 3 1
-0 20 0 1
-0 22 -1 0
 0 3 0 1
+0 20 0 1
+0 21 3 1
+0 22 -1 0
 1
 end_operator
 begin_operator
 sendtohome ca d3 c n1 c0 n0
 0
 4
-0 21 -1 1
-0 20 0 1
-0 29 4 0
 0 3 0 1
+0 20 0 1
+0 21 -1 1
+0 29 4 0
 1
 end_operator
 begin_operator
 sendtohome ca h2 c n1 c0 n0
 0
 4
-0 21 4 1
-0 20 0 1
-0 19 -1 0
 0 3 0 1
+0 19 -1 0
+0 20 0 1
+0 21 4 1
 1
 end_operator
 begin_operator
@@ -49327,8 +49327,8 @@ sendtohome d2 c3 d n2 da n1
 0
 3
 0 15 1 5
-0 28 3 0
 0 22 0 1
+0 28 3 0
 1
 end_operator
 begin_operator
@@ -49344,30 +49344,30 @@ begin_operator
 sendtohome da c2 d n1 d0 n0
 0
 4
+0 2 0 1
+0 14 0 1
 0 15 3 1
 0 16 -1 0
-0 14 0 1
-0 2 0 1
 1
 end_operator
 begin_operator
 sendtohome da s2 d n1 d0 n0
 0
 4
-0 15 -1 1
-0 14 0 1
-0 11 4 0
 0 2 0 1
+0 11 4 0
+0 14 0 1
+0 15 -1 1
 1
 end_operator
 begin_operator
 sendtohome da sa d n1 d0 n0
 0
 4
-0 15 4 1
-0 14 0 1
-0 9 -1 0
 0 2 0 1
+0 9 -1 0
+0 14 0 1
+0 15 4 1
 1
 end_operator
 begin_operator
@@ -49375,8 +49375,8 @@ sendtohome h2 c3 h n2 ha n1
 0
 3
 0 12 1 4
-0 28 4 0
 0 19 0 1
+0 28 4 0
 1
 end_operator
 begin_operator
@@ -49392,20 +49392,20 @@ begin_operator
 sendtohome ha c2 h n1 h0 n0
 0
 4
-0 12 3 1
-0 16 -1 0
-0 13 0 1
 0 1 0 1
+0 12 3 1
+0 13 0 1
+0 16 -1 0
 1
 end_operator
 begin_operator
 sendtohome ha s2 h n1 h0 n0
 0
 4
+0 1 0 1
+0 11 5 0
 0 12 -1 1
 0 13 0 1
-0 11 5 0
-0 1 0 1
 1
 end_operator
 begin_operator
@@ -49413,8 +49413,8 @@ sendtohome s2 d3 s n2 sa n1
 0
 3
 0 8 1 5
-0 29 5 0
 0 11 0 1
+0 29 5 0
 1
 end_operator
 begin_operator
@@ -49422,8 +49422,8 @@ sendtohome s2 h3 s n2 sa n1
 0
 3
 0 8 1 5
-0 26 4 0
 0 11 0 1
+0 26 4 0
 1
 end_operator
 begin_operator
@@ -49431,8 +49431,8 @@ sendtohome s3 ha s n3 s2 n2
 0
 4
 0 7 1 2
-0 13 -1 0
 0 11 1 6
+0 13 -1 0
 0 27 0 1
 1
 end_operator
@@ -49440,29 +49440,29 @@ begin_operator
 sendtohome sa d2 s n1 s0 n0
 0
 4
-0 8 3 1
-0 22 -1 0
-0 9 0 1
 0 0 0 1
+0 8 3 1
+0 9 0 1
+0 22 -1 0
 1
 end_operator
 begin_operator
 sendtohome sa h2 s n1 s0 n0
 0
 4
-0 8 4 1
-0 19 -1 0
-0 9 0 1
 0 0 0 1
+0 8 4 1
+0 9 0 1
+0 19 -1 0
 1
 end_operator
 begin_operator
 sendtohome-b c2 c n2 ca n1 n0 n1
 0
 4
+0 16 0 1
 0 17 0 1
 0 21 1 5
-0 16 0 1
 0 25 0 1
 1
 end_operator
@@ -49470,9 +49470,9 @@ begin_operator
 sendtohome-b c2 c n2 ca n1 n1 n2
 0
 4
+0 16 0 1
 0 17 0 1
 0 21 1 5
-0 16 0 1
 0 25 1 6
 1
 end_operator
@@ -49480,9 +49480,9 @@ begin_operator
 sendtohome-b c2 c n2 ca n1 n10 n11
 0
 4
+0 16 0 1
 0 17 0 1
 0 21 1 5
-0 16 0 1
 0 25 2 3
 1
 end_operator
@@ -49490,9 +49490,9 @@ begin_operator
 sendtohome-b c2 c n2 ca n1 n11 n12
 0
 4
+0 16 0 1
 0 17 0 1
 0 21 1 5
-0 16 0 1
 0 25 3 4
 1
 end_operator
@@ -49500,9 +49500,9 @@ begin_operator
 sendtohome-b c2 c n2 ca n1 n12 n13
 0
 4
+0 16 0 1
 0 17 0 1
 0 21 1 5
-0 16 0 1
 0 25 4 5
 1
 end_operator
@@ -49510,9 +49510,9 @@ begin_operator
 sendtohome-b c2 c n2 ca n1 n2 n3
 0
 4
+0 16 0 1
 0 17 0 1
 0 21 1 5
-0 16 0 1
 0 25 6 7
 1
 end_operator
@@ -49520,9 +49520,9 @@ begin_operator
 sendtohome-b c2 c n2 ca n1 n3 n4
 0
 4
+0 16 0 1
 0 17 0 1
 0 21 1 5
-0 16 0 1
 0 25 7 8
 1
 end_operator
@@ -49530,9 +49530,9 @@ begin_operator
 sendtohome-b c2 c n2 ca n1 n4 n5
 0
 4
+0 16 0 1
 0 17 0 1
 0 21 1 5
-0 16 0 1
 0 25 8 9
 1
 end_operator
@@ -49540,9 +49540,9 @@ begin_operator
 sendtohome-b c2 c n2 ca n1 n5 n6
 0
 4
+0 16 0 1
 0 17 0 1
 0 21 1 5
-0 16 0 1
 0 25 9 10
 1
 end_operator
@@ -49550,9 +49550,9 @@ begin_operator
 sendtohome-b c2 c n2 ca n1 n6 n7
 0
 4
+0 16 0 1
 0 17 0 1
 0 21 1 5
-0 16 0 1
 0 25 10 11
 1
 end_operator
@@ -49560,9 +49560,9 @@ begin_operator
 sendtohome-b c2 c n2 ca n1 n7 n8
 0
 4
+0 16 0 1
 0 17 0 1
 0 21 1 5
-0 16 0 1
 0 25 11 12
 1
 end_operator
@@ -49570,9 +49570,9 @@ begin_operator
 sendtohome-b c2 c n2 ca n1 n8 n9
 0
 4
+0 16 0 1
 0 17 0 1
 0 21 1 5
-0 16 0 1
 0 25 12 13
 1
 end_operator
@@ -49580,9 +49580,9 @@ begin_operator
 sendtohome-b c2 c n2 ca n1 n9 n10
 0
 4
+0 16 0 1
 0 17 0 1
 0 21 1 5
-0 16 0 1
 0 25 13 2
 1
 end_operator
@@ -49592,8 +49592,8 @@ sendtohome-b c3 c n3 c2 n2 n0 n1
 4
 0 6 0 1
 0 16 1 3
-0 28 0 1
 0 25 0 1
+0 28 0 1
 1
 end_operator
 begin_operator
@@ -49602,8 +49602,8 @@ sendtohome-b c3 c n3 c2 n2 n1 n2
 4
 0 6 0 1
 0 16 1 3
-0 28 0 1
 0 25 1 6
+0 28 0 1
 1
 end_operator
 begin_operator
@@ -49612,8 +49612,8 @@ sendtohome-b c3 c n3 c2 n2 n10 n11
 4
 0 6 0 1
 0 16 1 3
-0 28 0 1
 0 25 2 3
+0 28 0 1
 1
 end_operator
 begin_operator
@@ -49622,8 +49622,8 @@ sendtohome-b c3 c n3 c2 n2 n11 n12
 4
 0 6 0 1
 0 16 1 3
-0 28 0 1
 0 25 3 4
+0 28 0 1
 1
 end_operator
 begin_operator
@@ -49632,8 +49632,8 @@ sendtohome-b c3 c n3 c2 n2 n12 n13
 4
 0 6 0 1
 0 16 1 3
-0 28 0 1
 0 25 4 5
+0 28 0 1
 1
 end_operator
 begin_operator
@@ -49642,8 +49642,8 @@ sendtohome-b c3 c n3 c2 n2 n2 n3
 4
 0 6 0 1
 0 16 1 3
-0 28 0 1
 0 25 6 7
+0 28 0 1
 1
 end_operator
 begin_operator
@@ -49652,8 +49652,8 @@ sendtohome-b c3 c n3 c2 n2 n3 n4
 4
 0 6 0 1
 0 16 1 3
-0 28 0 1
 0 25 7 8
+0 28 0 1
 1
 end_operator
 begin_operator
@@ -49662,8 +49662,8 @@ sendtohome-b c3 c n3 c2 n2 n4 n5
 4
 0 6 0 1
 0 16 1 3
-0 28 0 1
 0 25 8 9
+0 28 0 1
 1
 end_operator
 begin_operator
@@ -49672,8 +49672,8 @@ sendtohome-b c3 c n3 c2 n2 n5 n6
 4
 0 6 0 1
 0 16 1 3
-0 28 0 1
 0 25 9 10
+0 28 0 1
 1
 end_operator
 begin_operator
@@ -49682,8 +49682,8 @@ sendtohome-b c3 c n3 c2 n2 n6 n7
 4
 0 6 0 1
 0 16 1 3
-0 28 0 1
 0 25 10 11
+0 28 0 1
 1
 end_operator
 begin_operator
@@ -49692,8 +49692,8 @@ sendtohome-b c3 c n3 c2 n2 n7 n8
 4
 0 6 0 1
 0 16 1 3
-0 28 0 1
 0 25 11 12
+0 28 0 1
 1
 end_operator
 begin_operator
@@ -49702,8 +49702,8 @@ sendtohome-b c3 c n3 c2 n2 n8 n9
 4
 0 6 0 1
 0 16 1 3
-0 28 0 1
 0 25 12 13
+0 28 0 1
 1
 end_operator
 begin_operator
@@ -49712,147 +49712,147 @@ sendtohome-b c3 c n3 c2 n2 n9 n10
 4
 0 6 0 1
 0 16 1 3
-0 28 0 1
 0 25 13 2
+0 28 0 1
 1
 end_operator
 begin_operator
 sendtohome-b ca c n1 c0 n0 n0 n1
 0
 4
-0 21 0 1
-0 20 0 1
-0 25 0 1
 0 3 0 1
+0 20 0 1
+0 21 0 1
+0 25 0 1
 1
 end_operator
 begin_operator
 sendtohome-b ca c n1 c0 n0 n1 n2
 0
 4
-0 21 0 1
-0 20 0 1
-0 25 1 6
 0 3 0 1
+0 20 0 1
+0 21 0 1
+0 25 1 6
 1
 end_operator
 begin_operator
 sendtohome-b ca c n1 c0 n0 n10 n11
 0
 4
-0 21 0 1
-0 20 0 1
-0 25 2 3
 0 3 0 1
+0 20 0 1
+0 21 0 1
+0 25 2 3
 1
 end_operator
 begin_operator
 sendtohome-b ca c n1 c0 n0 n11 n12
 0
 4
-0 21 0 1
-0 20 0 1
-0 25 3 4
 0 3 0 1
+0 20 0 1
+0 21 0 1
+0 25 3 4
 1
 end_operator
 begin_operator
 sendtohome-b ca c n1 c0 n0 n12 n13
 0
 4
-0 21 0 1
-0 20 0 1
-0 25 4 5
 0 3 0 1
+0 20 0 1
+0 21 0 1
+0 25 4 5
 1
 end_operator
 begin_operator
 sendtohome-b ca c n1 c0 n0 n2 n3
 0
 4
-0 21 0 1
-0 20 0 1
-0 25 6 7
 0 3 0 1
+0 20 0 1
+0 21 0 1
+0 25 6 7
 1
 end_operator
 begin_operator
 sendtohome-b ca c n1 c0 n0 n3 n4
 0
 4
-0 21 0 1
-0 20 0 1
-0 25 7 8
 0 3 0 1
+0 20 0 1
+0 21 0 1
+0 25 7 8
 1
 end_operator
 begin_operator
 sendtohome-b ca c n1 c0 n0 n4 n5
 0
 4
-0 21 0 1
-0 20 0 1
-0 25 8 9
 0 3 0 1
+0 20 0 1
+0 21 0 1
+0 25 8 9
 1
 end_operator
 begin_operator
 sendtohome-b ca c n1 c0 n0 n5 n6
 0
 4
-0 21 0 1
-0 20 0 1
-0 25 9 10
 0 3 0 1
+0 20 0 1
+0 21 0 1
+0 25 9 10
 1
 end_operator
 begin_operator
 sendtohome-b ca c n1 c0 n0 n6 n7
 0
 4
-0 21 0 1
-0 20 0 1
-0 25 10 11
 0 3 0 1
+0 20 0 1
+0 21 0 1
+0 25 10 11
 1
 end_operator
 begin_operator
 sendtohome-b ca c n1 c0 n0 n7 n8
 0
 4
-0 21 0 1
-0 20 0 1
-0 25 11 12
 0 3 0 1
+0 20 0 1
+0 21 0 1
+0 25 11 12
 1
 end_operator
 begin_operator
 sendtohome-b ca c n1 c0 n0 n8 n9
 0
 4
-0 21 0 1
-0 20 0 1
-0 25 12 13
 0 3 0 1
+0 20 0 1
+0 21 0 1
+0 25 12 13
 1
 end_operator
 begin_operator
 sendtohome-b ca c n1 c0 n0 n9 n10
 0
 4
-0 21 0 1
-0 20 0 1
-0 25 13 2
 0 3 0 1
+0 20 0 1
+0 21 0 1
+0 25 13 2
 1
 end_operator
 begin_operator
 sendtohome-b d2 d n2 da n1 n0 n1
 0
 4
-0 23 0 1
 0 15 1 5
 0 22 0 1
+0 23 0 1
 0 25 0 1
 1
 end_operator
@@ -49860,9 +49860,9 @@ begin_operator
 sendtohome-b d2 d n2 da n1 n1 n2
 0
 4
-0 23 0 1
 0 15 1 5
 0 22 0 1
+0 23 0 1
 0 25 1 6
 1
 end_operator
@@ -49870,9 +49870,9 @@ begin_operator
 sendtohome-b d2 d n2 da n1 n10 n11
 0
 4
-0 23 0 1
 0 15 1 5
 0 22 0 1
+0 23 0 1
 0 25 2 3
 1
 end_operator
@@ -49880,9 +49880,9 @@ begin_operator
 sendtohome-b d2 d n2 da n1 n11 n12
 0
 4
-0 23 0 1
 0 15 1 5
 0 22 0 1
+0 23 0 1
 0 25 3 4
 1
 end_operator
@@ -49890,9 +49890,9 @@ begin_operator
 sendtohome-b d2 d n2 da n1 n12 n13
 0
 4
-0 23 0 1
 0 15 1 5
 0 22 0 1
+0 23 0 1
 0 25 4 5
 1
 end_operator
@@ -49900,9 +49900,9 @@ begin_operator
 sendtohome-b d2 d n2 da n1 n2 n3
 0
 4
-0 23 0 1
 0 15 1 5
 0 22 0 1
+0 23 0 1
 0 25 6 7
 1
 end_operator
@@ -49910,9 +49910,9 @@ begin_operator
 sendtohome-b d2 d n2 da n1 n3 n4
 0
 4
-0 23 0 1
 0 15 1 5
 0 22 0 1
+0 23 0 1
 0 25 7 8
 1
 end_operator
@@ -49920,9 +49920,9 @@ begin_operator
 sendtohome-b d2 d n2 da n1 n4 n5
 0
 4
-0 23 0 1
 0 15 1 5
 0 22 0 1
+0 23 0 1
 0 25 8 9
 1
 end_operator
@@ -49930,9 +49930,9 @@ begin_operator
 sendtohome-b d2 d n2 da n1 n5 n6
 0
 4
-0 23 0 1
 0 15 1 5
 0 22 0 1
+0 23 0 1
 0 25 9 10
 1
 end_operator
@@ -49940,9 +49940,9 @@ begin_operator
 sendtohome-b d2 d n2 da n1 n6 n7
 0
 4
-0 23 0 1
 0 15 1 5
 0 22 0 1
+0 23 0 1
 0 25 10 11
 1
 end_operator
@@ -49950,9 +49950,9 @@ begin_operator
 sendtohome-b d2 d n2 da n1 n7 n8
 0
 4
-0 23 0 1
 0 15 1 5
 0 22 0 1
+0 23 0 1
 0 25 11 12
 1
 end_operator
@@ -49960,9 +49960,9 @@ begin_operator
 sendtohome-b d2 d n2 da n1 n8 n9
 0
 4
-0 23 0 1
 0 15 1 5
 0 22 0 1
+0 23 0 1
 0 25 12 13
 1
 end_operator
@@ -49970,9 +49970,9 @@ begin_operator
 sendtohome-b d2 d n2 da n1 n9 n10
 0
 4
-0 23 0 1
 0 15 1 5
 0 22 0 1
+0 23 0 1
 0 25 13 2
 1
 end_operator
@@ -49982,8 +49982,8 @@ sendtohome-b d3 d n3 d2 n2 n0 n1
 4
 0 5 0 1
 0 22 1 3
-0 29 0 1
 0 25 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
@@ -49992,8 +49992,8 @@ sendtohome-b d3 d n3 d2 n2 n1 n2
 4
 0 5 0 1
 0 22 1 3
-0 29 0 1
 0 25 1 6
+0 29 0 1
 1
 end_operator
 begin_operator
@@ -50002,8 +50002,8 @@ sendtohome-b d3 d n3 d2 n2 n10 n11
 4
 0 5 0 1
 0 22 1 3
-0 29 0 1
 0 25 2 3
+0 29 0 1
 1
 end_operator
 begin_operator
@@ -50012,8 +50012,8 @@ sendtohome-b d3 d n3 d2 n2 n11 n12
 4
 0 5 0 1
 0 22 1 3
-0 29 0 1
 0 25 3 4
+0 29 0 1
 1
 end_operator
 begin_operator
@@ -50022,8 +50022,8 @@ sendtohome-b d3 d n3 d2 n2 n12 n13
 4
 0 5 0 1
 0 22 1 3
-0 29 0 1
 0 25 4 5
+0 29 0 1
 1
 end_operator
 begin_operator
@@ -50032,8 +50032,8 @@ sendtohome-b d3 d n3 d2 n2 n2 n3
 4
 0 5 0 1
 0 22 1 3
-0 29 0 1
 0 25 6 7
+0 29 0 1
 1
 end_operator
 begin_operator
@@ -50042,8 +50042,8 @@ sendtohome-b d3 d n3 d2 n2 n3 n4
 4
 0 5 0 1
 0 22 1 3
-0 29 0 1
 0 25 7 8
+0 29 0 1
 1
 end_operator
 begin_operator
@@ -50052,8 +50052,8 @@ sendtohome-b d3 d n3 d2 n2 n4 n5
 4
 0 5 0 1
 0 22 1 3
-0 29 0 1
 0 25 8 9
+0 29 0 1
 1
 end_operator
 begin_operator
@@ -50062,8 +50062,8 @@ sendtohome-b d3 d n3 d2 n2 n5 n6
 4
 0 5 0 1
 0 22 1 3
-0 29 0 1
 0 25 9 10
+0 29 0 1
 1
 end_operator
 begin_operator
@@ -50072,8 +50072,8 @@ sendtohome-b d3 d n3 d2 n2 n6 n7
 4
 0 5 0 1
 0 22 1 3
-0 29 0 1
 0 25 10 11
+0 29 0 1
 1
 end_operator
 begin_operator
@@ -50082,8 +50082,8 @@ sendtohome-b d3 d n3 d2 n2 n7 n8
 4
 0 5 0 1
 0 22 1 3
-0 29 0 1
 0 25 11 12
+0 29 0 1
 1
 end_operator
 begin_operator
@@ -50092,8 +50092,8 @@ sendtohome-b d3 d n3 d2 n2 n8 n9
 4
 0 5 0 1
 0 22 1 3
-0 29 0 1
 0 25 12 13
+0 29 0 1
 1
 end_operator
 begin_operator
@@ -50102,146 +50102,146 @@ sendtohome-b d3 d n3 d2 n2 n9 n10
 4
 0 5 0 1
 0 22 1 3
-0 29 0 1
 0 25 13 2
+0 29 0 1
 1
 end_operator
 begin_operator
 sendtohome-b da d n1 d0 n0 n0 n1
 0
 4
-0 15 0 1
-0 14 0 1
-0 25 0 1
 0 2 0 1
+0 14 0 1
+0 15 0 1
+0 25 0 1
 1
 end_operator
 begin_operator
 sendtohome-b da d n1 d0 n0 n1 n2
 0
 4
-0 15 0 1
-0 14 0 1
-0 25 1 6
 0 2 0 1
+0 14 0 1
+0 15 0 1
+0 25 1 6
 1
 end_operator
 begin_operator
 sendtohome-b da d n1 d0 n0 n10 n11
 0
 4
-0 15 0 1
-0 14 0 1
-0 25 2 3
 0 2 0 1
+0 14 0 1
+0 15 0 1
+0 25 2 3
 1
 end_operator
 begin_operator
 sendtohome-b da d n1 d0 n0 n11 n12
 0
 4
-0 15 0 1
-0 14 0 1
-0 25 3 4
 0 2 0 1
+0 14 0 1
+0 15 0 1
+0 25 3 4
 1
 end_operator
 begin_operator
 sendtohome-b da d n1 d0 n0 n12 n13
 0
 4
-0 15 0 1
-0 14 0 1
-0 25 4 5
 0 2 0 1
+0 14 0 1
+0 15 0 1
+0 25 4 5
 1
 end_operator
 begin_operator
 sendtohome-b da d n1 d0 n0 n2 n3
 0
 4
-0 15 0 1
-0 14 0 1
-0 25 6 7
 0 2 0 1
+0 14 0 1
+0 15 0 1
+0 25 6 7
 1
 end_operator
 begin_operator
 sendtohome-b da d n1 d0 n0 n3 n4
 0
 4
-0 15 0 1
-0 14 0 1
-0 25 7 8
 0 2 0 1
+0 14 0 1
+0 15 0 1
+0 25 7 8
 1
 end_operator
 begin_operator
 sendtohome-b da d n1 d0 n0 n4 n5
 0
 4
-0 15 0 1
-0 14 0 1
-0 25 8 9
 0 2 0 1
+0 14 0 1
+0 15 0 1
+0 25 8 9
 1
 end_operator
 begin_operator
 sendtohome-b da d n1 d0 n0 n5 n6
 0
 4
-0 15 0 1
-0 14 0 1
-0 25 9 10
 0 2 0 1
+0 14 0 1
+0 15 0 1
+0 25 9 10
 1
 end_operator
 begin_operator
 sendtohome-b da d n1 d0 n0 n6 n7
 0
 4
-0 15 0 1
-0 14 0 1
-0 25 10 11
 0 2 0 1
+0 14 0 1
+0 15 0 1
+0 25 10 11
 1
 end_operator
 begin_operator
 sendtohome-b da d n1 d0 n0 n7 n8
 0
 4
-0 15 0 1
-0 14 0 1
-0 25 11 12
 0 2 0 1
+0 14 0 1
+0 15 0 1
+0 25 11 12
 1
 end_operator
 begin_operator
 sendtohome-b da d n1 d0 n0 n8 n9
 0
 4
-0 15 0 1
-0 14 0 1
-0 25 12 13
 0 2 0 1
+0 14 0 1
+0 15 0 1
+0 25 12 13
 1
 end_operator
 begin_operator
 sendtohome-b da d n1 d0 n0 n9 n10
 0
 4
-0 15 0 1
-0 14 0 1
-0 25 13 2
 0 2 0 1
+0 14 0 1
+0 15 0 1
+0 25 13 2
 1
 end_operator
 begin_operator
 sendtohome-b h2 h n2 ha n1 n0 n1
 0
 4
-0 18 0 1
 0 12 1 4
+0 18 0 1
 0 19 0 1
 0 25 0 1
 1
@@ -50250,8 +50250,8 @@ begin_operator
 sendtohome-b h2 h n2 ha n1 n1 n2
 0
 4
-0 18 0 1
 0 12 1 4
+0 18 0 1
 0 19 0 1
 0 25 1 6
 1
@@ -50260,8 +50260,8 @@ begin_operator
 sendtohome-b h2 h n2 ha n1 n10 n11
 0
 4
-0 18 0 1
 0 12 1 4
+0 18 0 1
 0 19 0 1
 0 25 2 3
 1
@@ -50270,8 +50270,8 @@ begin_operator
 sendtohome-b h2 h n2 ha n1 n11 n12
 0
 4
-0 18 0 1
 0 12 1 4
+0 18 0 1
 0 19 0 1
 0 25 3 4
 1
@@ -50280,8 +50280,8 @@ begin_operator
 sendtohome-b h2 h n2 ha n1 n12 n13
 0
 4
-0 18 0 1
 0 12 1 4
+0 18 0 1
 0 19 0 1
 0 25 4 5
 1
@@ -50290,8 +50290,8 @@ begin_operator
 sendtohome-b h2 h n2 ha n1 n2 n3
 0
 4
-0 18 0 1
 0 12 1 4
+0 18 0 1
 0 19 0 1
 0 25 6 7
 1
@@ -50300,8 +50300,8 @@ begin_operator
 sendtohome-b h2 h n2 ha n1 n3 n4
 0
 4
-0 18 0 1
 0 12 1 4
+0 18 0 1
 0 19 0 1
 0 25 7 8
 1
@@ -50310,8 +50310,8 @@ begin_operator
 sendtohome-b h2 h n2 ha n1 n4 n5
 0
 4
-0 18 0 1
 0 12 1 4
+0 18 0 1
 0 19 0 1
 0 25 8 9
 1
@@ -50320,8 +50320,8 @@ begin_operator
 sendtohome-b h2 h n2 ha n1 n5 n6
 0
 4
-0 18 0 1
 0 12 1 4
+0 18 0 1
 0 19 0 1
 0 25 9 10
 1
@@ -50330,8 +50330,8 @@ begin_operator
 sendtohome-b h2 h n2 ha n1 n6 n7
 0
 4
-0 18 0 1
 0 12 1 4
+0 18 0 1
 0 19 0 1
 0 25 10 11
 1
@@ -50340,8 +50340,8 @@ begin_operator
 sendtohome-b h2 h n2 ha n1 n7 n8
 0
 4
-0 18 0 1
 0 12 1 4
+0 18 0 1
 0 19 0 1
 0 25 11 12
 1
@@ -50350,8 +50350,8 @@ begin_operator
 sendtohome-b h2 h n2 ha n1 n8 n9
 0
 4
-0 18 0 1
 0 12 1 4
+0 18 0 1
 0 19 0 1
 0 25 12 13
 1
@@ -50360,8 +50360,8 @@ begin_operator
 sendtohome-b h2 h n2 ha n1 n9 n10
 0
 4
-0 18 0 1
 0 12 1 4
+0 18 0 1
 0 19 0 1
 0 25 13 2
 1
@@ -50372,8 +50372,8 @@ sendtohome-b h3 h n3 h2 n2 n0 n1
 4
 0 4 0 1
 0 19 1 3
-0 26 0 1
 0 25 0 1
+0 26 0 1
 1
 end_operator
 begin_operator
@@ -50382,8 +50382,8 @@ sendtohome-b h3 h n3 h2 n2 n1 n2
 4
 0 4 0 1
 0 19 1 3
-0 26 0 1
 0 25 1 6
+0 26 0 1
 1
 end_operator
 begin_operator
@@ -50392,8 +50392,8 @@ sendtohome-b h3 h n3 h2 n2 n10 n11
 4
 0 4 0 1
 0 19 1 3
-0 26 0 1
 0 25 2 3
+0 26 0 1
 1
 end_operator
 begin_operator
@@ -50402,8 +50402,8 @@ sendtohome-b h3 h n3 h2 n2 n11 n12
 4
 0 4 0 1
 0 19 1 3
-0 26 0 1
 0 25 3 4
+0 26 0 1
 1
 end_operator
 begin_operator
@@ -50412,8 +50412,8 @@ sendtohome-b h3 h n3 h2 n2 n12 n13
 4
 0 4 0 1
 0 19 1 3
-0 26 0 1
 0 25 4 5
+0 26 0 1
 1
 end_operator
 begin_operator
@@ -50422,8 +50422,8 @@ sendtohome-b h3 h n3 h2 n2 n2 n3
 4
 0 4 0 1
 0 19 1 3
-0 26 0 1
 0 25 6 7
+0 26 0 1
 1
 end_operator
 begin_operator
@@ -50432,8 +50432,8 @@ sendtohome-b h3 h n3 h2 n2 n3 n4
 4
 0 4 0 1
 0 19 1 3
-0 26 0 1
 0 25 7 8
+0 26 0 1
 1
 end_operator
 begin_operator
@@ -50442,8 +50442,8 @@ sendtohome-b h3 h n3 h2 n2 n4 n5
 4
 0 4 0 1
 0 19 1 3
-0 26 0 1
 0 25 8 9
+0 26 0 1
 1
 end_operator
 begin_operator
@@ -50452,8 +50452,8 @@ sendtohome-b h3 h n3 h2 n2 n5 n6
 4
 0 4 0 1
 0 19 1 3
-0 26 0 1
 0 25 9 10
+0 26 0 1
 1
 end_operator
 begin_operator
@@ -50462,8 +50462,8 @@ sendtohome-b h3 h n3 h2 n2 n6 n7
 4
 0 4 0 1
 0 19 1 3
-0 26 0 1
 0 25 10 11
+0 26 0 1
 1
 end_operator
 begin_operator
@@ -50472,8 +50472,8 @@ sendtohome-b h3 h n3 h2 n2 n7 n8
 4
 0 4 0 1
 0 19 1 3
-0 26 0 1
 0 25 11 12
+0 26 0 1
 1
 end_operator
 begin_operator
@@ -50482,8 +50482,8 @@ sendtohome-b h3 h n3 h2 n2 n8 n9
 4
 0 4 0 1
 0 19 1 3
-0 26 0 1
 0 25 12 13
+0 26 0 1
 1
 end_operator
 begin_operator
@@ -50492,146 +50492,146 @@ sendtohome-b h3 h n3 h2 n2 n9 n10
 4
 0 4 0 1
 0 19 1 3
-0 26 0 1
 0 25 13 2
+0 26 0 1
 1
 end_operator
 begin_operator
 sendtohome-b ha h n1 h0 n0 n0 n1
 0
 4
+0 1 0 1
 0 12 0 1
 0 13 0 1
 0 25 0 1
-0 1 0 1
 1
 end_operator
 begin_operator
 sendtohome-b ha h n1 h0 n0 n1 n2
 0
 4
+0 1 0 1
 0 12 0 1
 0 13 0 1
 0 25 1 6
-0 1 0 1
 1
 end_operator
 begin_operator
 sendtohome-b ha h n1 h0 n0 n10 n11
 0
 4
+0 1 0 1
 0 12 0 1
 0 13 0 1
 0 25 2 3
-0 1 0 1
 1
 end_operator
 begin_operator
 sendtohome-b ha h n1 h0 n0 n11 n12
 0
 4
+0 1 0 1
 0 12 0 1
 0 13 0 1
 0 25 3 4
-0 1 0 1
 1
 end_operator
 begin_operator
 sendtohome-b ha h n1 h0 n0 n12 n13
 0
 4
+0 1 0 1
 0 12 0 1
 0 13 0 1
 0 25 4 5
-0 1 0 1
 1
 end_operator
 begin_operator
 sendtohome-b ha h n1 h0 n0 n2 n3
 0
 4
+0 1 0 1
 0 12 0 1
 0 13 0 1
 0 25 6 7
-0 1 0 1
 1
 end_operator
 begin_operator
 sendtohome-b ha h n1 h0 n0 n3 n4
 0
 4
+0 1 0 1
 0 12 0 1
 0 13 0 1
 0 25 7 8
-0 1 0 1
 1
 end_operator
 begin_operator
 sendtohome-b ha h n1 h0 n0 n4 n5
 0
 4
+0 1 0 1
 0 12 0 1
 0 13 0 1
 0 25 8 9
-0 1 0 1
 1
 end_operator
 begin_operator
 sendtohome-b ha h n1 h0 n0 n5 n6
 0
 4
+0 1 0 1
 0 12 0 1
 0 13 0 1
 0 25 9 10
-0 1 0 1
 1
 end_operator
 begin_operator
 sendtohome-b ha h n1 h0 n0 n6 n7
 0
 4
+0 1 0 1
 0 12 0 1
 0 13 0 1
 0 25 10 11
-0 1 0 1
 1
 end_operator
 begin_operator
 sendtohome-b ha h n1 h0 n0 n7 n8
 0
 4
+0 1 0 1
 0 12 0 1
 0 13 0 1
 0 25 11 12
-0 1 0 1
 1
 end_operator
 begin_operator
 sendtohome-b ha h n1 h0 n0 n8 n9
 0
 4
+0 1 0 1
 0 12 0 1
 0 13 0 1
 0 25 12 13
-0 1 0 1
 1
 end_operator
 begin_operator
 sendtohome-b ha h n1 h0 n0 n9 n10
 0
 4
+0 1 0 1
 0 12 0 1
 0 13 0 1
 0 25 13 2
-0 1 0 1
 1
 end_operator
 begin_operator
 sendtohome-b s2 s n2 sa n1 n0 n1
 0
 4
-0 10 0 1
 0 8 1 5
+0 10 0 1
 0 11 0 1
 0 25 0 1
 1
@@ -50640,8 +50640,8 @@ begin_operator
 sendtohome-b s2 s n2 sa n1 n1 n2
 0
 4
-0 10 0 1
 0 8 1 5
+0 10 0 1
 0 11 0 1
 0 25 1 6
 1
@@ -50650,8 +50650,8 @@ begin_operator
 sendtohome-b s2 s n2 sa n1 n10 n11
 0
 4
-0 10 0 1
 0 8 1 5
+0 10 0 1
 0 11 0 1
 0 25 2 3
 1
@@ -50660,8 +50660,8 @@ begin_operator
 sendtohome-b s2 s n2 sa n1 n11 n12
 0
 4
-0 10 0 1
 0 8 1 5
+0 10 0 1
 0 11 0 1
 0 25 3 4
 1
@@ -50670,8 +50670,8 @@ begin_operator
 sendtohome-b s2 s n2 sa n1 n12 n13
 0
 4
-0 10 0 1
 0 8 1 5
+0 10 0 1
 0 11 0 1
 0 25 4 5
 1
@@ -50680,8 +50680,8 @@ begin_operator
 sendtohome-b s2 s n2 sa n1 n2 n3
 0
 4
-0 10 0 1
 0 8 1 5
+0 10 0 1
 0 11 0 1
 0 25 6 7
 1
@@ -50690,8 +50690,8 @@ begin_operator
 sendtohome-b s2 s n2 sa n1 n3 n4
 0
 4
-0 10 0 1
 0 8 1 5
+0 10 0 1
 0 11 0 1
 0 25 7 8
 1
@@ -50700,8 +50700,8 @@ begin_operator
 sendtohome-b s2 s n2 sa n1 n4 n5
 0
 4
-0 10 0 1
 0 8 1 5
+0 10 0 1
 0 11 0 1
 0 25 8 9
 1
@@ -50710,8 +50710,8 @@ begin_operator
 sendtohome-b s2 s n2 sa n1 n5 n6
 0
 4
-0 10 0 1
 0 8 1 5
+0 10 0 1
 0 11 0 1
 0 25 9 10
 1
@@ -50720,8 +50720,8 @@ begin_operator
 sendtohome-b s2 s n2 sa n1 n6 n7
 0
 4
-0 10 0 1
 0 8 1 5
+0 10 0 1
 0 11 0 1
 0 25 10 11
 1
@@ -50730,8 +50730,8 @@ begin_operator
 sendtohome-b s2 s n2 sa n1 n7 n8
 0
 4
-0 10 0 1
 0 8 1 5
+0 10 0 1
 0 11 0 1
 0 25 11 12
 1
@@ -50740,8 +50740,8 @@ begin_operator
 sendtohome-b s2 s n2 sa n1 n8 n9
 0
 4
-0 10 0 1
 0 8 1 5
+0 10 0 1
 0 11 0 1
 0 25 12 13
 1
@@ -50750,8 +50750,8 @@ begin_operator
 sendtohome-b s2 s n2 sa n1 n9 n10
 0
 4
-0 10 0 1
 0 8 1 5
+0 10 0 1
 0 11 0 1
 0 25 13 2
 1
@@ -50762,8 +50762,8 @@ sendtohome-b s3 s n3 s2 n2 n0 n1
 4
 0 7 0 2
 0 11 1 6
-0 27 0 1
 0 25 0 1
+0 27 0 1
 1
 end_operator
 begin_operator
@@ -50772,8 +50772,8 @@ sendtohome-b s3 s n3 s2 n2 n1 n2
 4
 0 7 0 2
 0 11 1 6
-0 27 0 1
 0 25 1 6
+0 27 0 1
 1
 end_operator
 begin_operator
@@ -50782,8 +50782,8 @@ sendtohome-b s3 s n3 s2 n2 n10 n11
 4
 0 7 0 2
 0 11 1 6
-0 27 0 1
 0 25 2 3
+0 27 0 1
 1
 end_operator
 begin_operator
@@ -50792,8 +50792,8 @@ sendtohome-b s3 s n3 s2 n2 n11 n12
 4
 0 7 0 2
 0 11 1 6
-0 27 0 1
 0 25 3 4
+0 27 0 1
 1
 end_operator
 begin_operator
@@ -50802,8 +50802,8 @@ sendtohome-b s3 s n3 s2 n2 n12 n13
 4
 0 7 0 2
 0 11 1 6
-0 27 0 1
 0 25 4 5
+0 27 0 1
 1
 end_operator
 begin_operator
@@ -50812,8 +50812,8 @@ sendtohome-b s3 s n3 s2 n2 n2 n3
 4
 0 7 0 2
 0 11 1 6
-0 27 0 1
 0 25 6 7
+0 27 0 1
 1
 end_operator
 begin_operator
@@ -50822,8 +50822,8 @@ sendtohome-b s3 s n3 s2 n2 n3 n4
 4
 0 7 0 2
 0 11 1 6
-0 27 0 1
 0 25 7 8
+0 27 0 1
 1
 end_operator
 begin_operator
@@ -50832,8 +50832,8 @@ sendtohome-b s3 s n3 s2 n2 n4 n5
 4
 0 7 0 2
 0 11 1 6
-0 27 0 1
 0 25 8 9
+0 27 0 1
 1
 end_operator
 begin_operator
@@ -50842,8 +50842,8 @@ sendtohome-b s3 s n3 s2 n2 n5 n6
 4
 0 7 0 2
 0 11 1 6
-0 27 0 1
 0 25 9 10
+0 27 0 1
 1
 end_operator
 begin_operator
@@ -50852,8 +50852,8 @@ sendtohome-b s3 s n3 s2 n2 n6 n7
 4
 0 7 0 2
 0 11 1 6
-0 27 0 1
 0 25 10 11
+0 27 0 1
 1
 end_operator
 begin_operator
@@ -50862,8 +50862,8 @@ sendtohome-b s3 s n3 s2 n2 n7 n8
 4
 0 7 0 2
 0 11 1 6
-0 27 0 1
 0 25 11 12
+0 27 0 1
 1
 end_operator
 begin_operator
@@ -50872,8 +50872,8 @@ sendtohome-b s3 s n3 s2 n2 n8 n9
 4
 0 7 0 2
 0 11 1 6
-0 27 0 1
 0 25 12 13
+0 27 0 1
 1
 end_operator
 begin_operator
@@ -50882,138 +50882,138 @@ sendtohome-b s3 s n3 s2 n2 n9 n10
 4
 0 7 0 2
 0 11 1 6
-0 27 0 1
 0 25 13 2
+0 27 0 1
 1
 end_operator
 begin_operator
 sendtohome-b sa s n1 s0 n0 n0 n1
 0
 4
+0 0 0 1
 0 8 0 1
 0 9 0 1
 0 25 0 1
-0 0 0 1
 1
 end_operator
 begin_operator
 sendtohome-b sa s n1 s0 n0 n1 n2
 0
 4
+0 0 0 1
 0 8 0 1
 0 9 0 1
 0 25 1 6
-0 0 0 1
 1
 end_operator
 begin_operator
 sendtohome-b sa s n1 s0 n0 n10 n11
 0
 4
+0 0 0 1
 0 8 0 1
 0 9 0 1
 0 25 2 3
-0 0 0 1
 1
 end_operator
 begin_operator
 sendtohome-b sa s n1 s0 n0 n11 n12
 0
 4
+0 0 0 1
 0 8 0 1
 0 9 0 1
 0 25 3 4
-0 0 0 1
 1
 end_operator
 begin_operator
 sendtohome-b sa s n1 s0 n0 n12 n13
 0
 4
+0 0 0 1
 0 8 0 1
 0 9 0 1
 0 25 4 5
-0 0 0 1
 1
 end_operator
 begin_operator
 sendtohome-b sa s n1 s0 n0 n2 n3
 0
 4
+0 0 0 1
 0 8 0 1
 0 9 0 1
 0 25 6 7
-0 0 0 1
 1
 end_operator
 begin_operator
 sendtohome-b sa s n1 s0 n0 n3 n4
 0
 4
+0 0 0 1
 0 8 0 1
 0 9 0 1
 0 25 7 8
-0 0 0 1
 1
 end_operator
 begin_operator
 sendtohome-b sa s n1 s0 n0 n4 n5
 0
 4
+0 0 0 1
 0 8 0 1
 0 9 0 1
 0 25 8 9
-0 0 0 1
 1
 end_operator
 begin_operator
 sendtohome-b sa s n1 s0 n0 n5 n6
 0
 4
+0 0 0 1
 0 8 0 1
 0 9 0 1
 0 25 9 10
-0 0 0 1
 1
 end_operator
 begin_operator
 sendtohome-b sa s n1 s0 n0 n6 n7
 0
 4
+0 0 0 1
 0 8 0 1
 0 9 0 1
 0 25 10 11
-0 0 0 1
 1
 end_operator
 begin_operator
 sendtohome-b sa s n1 s0 n0 n7 n8
 0
 4
+0 0 0 1
 0 8 0 1
 0 9 0 1
 0 25 11 12
-0 0 0 1
 1
 end_operator
 begin_operator
 sendtohome-b sa s n1 s0 n0 n8 n9
 0
 4
+0 0 0 1
 0 8 0 1
 0 9 0 1
 0 25 12 13
-0 0 0 1
 1
 end_operator
 begin_operator
 sendtohome-b sa s n1 s0 n0 n9 n10
 0
 4
+0 0 0 1
 0 8 0 1
 0 9 0 1
 0 25 13 2
-0 0 0 1
 1
 end_operator
 begin_operator
@@ -51022,8 +51022,8 @@ sendtonewcol c2 d3 n1 n0
 16 0
 3
 0 17 -1 0
-0 29 3 0
 0 25 1 0
+0 29 3 0
 1
 end_operator
 begin_operator
@@ -51032,8 +51032,8 @@ sendtonewcol c2 d3 n10 n9
 16 0
 3
 0 17 -1 0
-0 29 3 0
 0 25 2 13
+0 29 3 0
 1
 end_operator
 begin_operator
@@ -51042,8 +51042,8 @@ sendtonewcol c2 d3 n11 n10
 16 0
 3
 0 17 -1 0
-0 29 3 0
 0 25 3 2
+0 29 3 0
 1
 end_operator
 begin_operator
@@ -51052,8 +51052,8 @@ sendtonewcol c2 d3 n12 n11
 16 0
 3
 0 17 -1 0
-0 29 3 0
 0 25 4 3
+0 29 3 0
 1
 end_operator
 begin_operator
@@ -51062,8 +51062,8 @@ sendtonewcol c2 d3 n13 n12
 16 0
 3
 0 17 -1 0
-0 29 3 0
 0 25 5 4
+0 29 3 0
 1
 end_operator
 begin_operator
@@ -51072,8 +51072,8 @@ sendtonewcol c2 d3 n2 n1
 16 0
 3
 0 17 -1 0
-0 29 3 0
 0 25 6 1
+0 29 3 0
 1
 end_operator
 begin_operator
@@ -51082,8 +51082,8 @@ sendtonewcol c2 d3 n3 n2
 16 0
 3
 0 17 -1 0
-0 29 3 0
 0 25 7 6
+0 29 3 0
 1
 end_operator
 begin_operator
@@ -51092,8 +51092,8 @@ sendtonewcol c2 d3 n4 n3
 16 0
 3
 0 17 -1 0
-0 29 3 0
 0 25 8 7
+0 29 3 0
 1
 end_operator
 begin_operator
@@ -51102,8 +51102,8 @@ sendtonewcol c2 d3 n5 n4
 16 0
 3
 0 17 -1 0
-0 29 3 0
 0 25 9 8
+0 29 3 0
 1
 end_operator
 begin_operator
@@ -51112,8 +51112,8 @@ sendtonewcol c2 d3 n6 n5
 16 0
 3
 0 17 -1 0
-0 29 3 0
 0 25 10 9
+0 29 3 0
 1
 end_operator
 begin_operator
@@ -51122,8 +51122,8 @@ sendtonewcol c2 d3 n7 n6
 16 0
 3
 0 17 -1 0
-0 29 3 0
 0 25 11 10
+0 29 3 0
 1
 end_operator
 begin_operator
@@ -51132,8 +51132,8 @@ sendtonewcol c2 d3 n8 n7
 16 0
 3
 0 17 -1 0
-0 29 3 0
 0 25 12 11
+0 29 3 0
 1
 end_operator
 begin_operator
@@ -51142,8 +51142,8 @@ sendtonewcol c2 d3 n9 n8
 16 0
 3
 0 17 -1 0
-0 29 3 0
 0 25 13 12
+0 29 3 0
 1
 end_operator
 begin_operator
@@ -51152,8 +51152,8 @@ sendtonewcol c2 h3 n1 n0
 16 0
 3
 0 17 -1 0
-0 26 3 0
 0 25 1 0
+0 26 3 0
 1
 end_operator
 begin_operator
@@ -51162,8 +51162,8 @@ sendtonewcol c2 h3 n10 n9
 16 0
 3
 0 17 -1 0
-0 26 3 0
 0 25 2 13
+0 26 3 0
 1
 end_operator
 begin_operator
@@ -51172,8 +51172,8 @@ sendtonewcol c2 h3 n11 n10
 16 0
 3
 0 17 -1 0
-0 26 3 0
 0 25 3 2
+0 26 3 0
 1
 end_operator
 begin_operator
@@ -51182,8 +51182,8 @@ sendtonewcol c2 h3 n12 n11
 16 0
 3
 0 17 -1 0
-0 26 3 0
 0 25 4 3
+0 26 3 0
 1
 end_operator
 begin_operator
@@ -51192,8 +51192,8 @@ sendtonewcol c2 h3 n13 n12
 16 0
 3
 0 17 -1 0
-0 26 3 0
 0 25 5 4
+0 26 3 0
 1
 end_operator
 begin_operator
@@ -51202,8 +51202,8 @@ sendtonewcol c2 h3 n2 n1
 16 0
 3
 0 17 -1 0
-0 26 3 0
 0 25 6 1
+0 26 3 0
 1
 end_operator
 begin_operator
@@ -51212,8 +51212,8 @@ sendtonewcol c2 h3 n3 n2
 16 0
 3
 0 17 -1 0
-0 26 3 0
 0 25 7 6
+0 26 3 0
 1
 end_operator
 begin_operator
@@ -51222,8 +51222,8 @@ sendtonewcol c2 h3 n4 n3
 16 0
 3
 0 17 -1 0
-0 26 3 0
 0 25 8 7
+0 26 3 0
 1
 end_operator
 begin_operator
@@ -51232,8 +51232,8 @@ sendtonewcol c2 h3 n5 n4
 16 0
 3
 0 17 -1 0
-0 26 3 0
 0 25 9 8
+0 26 3 0
 1
 end_operator
 begin_operator
@@ -51242,8 +51242,8 @@ sendtonewcol c2 h3 n6 n5
 16 0
 3
 0 17 -1 0
-0 26 3 0
 0 25 10 9
+0 26 3 0
 1
 end_operator
 begin_operator
@@ -51252,8 +51252,8 @@ sendtonewcol c2 h3 n7 n6
 16 0
 3
 0 17 -1 0
-0 26 3 0
 0 25 11 10
+0 26 3 0
 1
 end_operator
 begin_operator
@@ -51262,8 +51262,8 @@ sendtonewcol c2 h3 n8 n7
 16 0
 3
 0 17 -1 0
-0 26 3 0
 0 25 12 11
+0 26 3 0
 1
 end_operator
 begin_operator
@@ -51272,8 +51272,8 @@ sendtonewcol c2 h3 n9 n8
 16 0
 3
 0 17 -1 0
-0 26 3 0
 0 25 13 12
+0 26 3 0
 1
 end_operator
 begin_operator
@@ -51542,8 +51542,8 @@ sendtonewcol ca d3 n1 n0
 20 0
 3
 0 21 -1 0
-0 29 4 0
 0 25 1 0
+0 29 4 0
 1
 end_operator
 begin_operator
@@ -51552,8 +51552,8 @@ sendtonewcol ca d3 n10 n9
 20 0
 3
 0 21 -1 0
-0 29 4 0
 0 25 2 13
+0 29 4 0
 1
 end_operator
 begin_operator
@@ -51562,8 +51562,8 @@ sendtonewcol ca d3 n11 n10
 20 0
 3
 0 21 -1 0
-0 29 4 0
 0 25 3 2
+0 29 4 0
 1
 end_operator
 begin_operator
@@ -51572,8 +51572,8 @@ sendtonewcol ca d3 n12 n11
 20 0
 3
 0 21 -1 0
-0 29 4 0
 0 25 4 3
+0 29 4 0
 1
 end_operator
 begin_operator
@@ -51582,8 +51582,8 @@ sendtonewcol ca d3 n13 n12
 20 0
 3
 0 21 -1 0
-0 29 4 0
 0 25 5 4
+0 29 4 0
 1
 end_operator
 begin_operator
@@ -51592,8 +51592,8 @@ sendtonewcol ca d3 n2 n1
 20 0
 3
 0 21 -1 0
-0 29 4 0
 0 25 6 1
+0 29 4 0
 1
 end_operator
 begin_operator
@@ -51602,8 +51602,8 @@ sendtonewcol ca d3 n3 n2
 20 0
 3
 0 21 -1 0
-0 29 4 0
 0 25 7 6
+0 29 4 0
 1
 end_operator
 begin_operator
@@ -51612,8 +51612,8 @@ sendtonewcol ca d3 n4 n3
 20 0
 3
 0 21 -1 0
-0 29 4 0
 0 25 8 7
+0 29 4 0
 1
 end_operator
 begin_operator
@@ -51622,8 +51622,8 @@ sendtonewcol ca d3 n5 n4
 20 0
 3
 0 21 -1 0
-0 29 4 0
 0 25 9 8
+0 29 4 0
 1
 end_operator
 begin_operator
@@ -51632,8 +51632,8 @@ sendtonewcol ca d3 n6 n5
 20 0
 3
 0 21 -1 0
-0 29 4 0
 0 25 10 9
+0 29 4 0
 1
 end_operator
 begin_operator
@@ -51642,8 +51642,8 @@ sendtonewcol ca d3 n7 n6
 20 0
 3
 0 21 -1 0
-0 29 4 0
 0 25 11 10
+0 29 4 0
 1
 end_operator
 begin_operator
@@ -51652,8 +51652,8 @@ sendtonewcol ca d3 n8 n7
 20 0
 3
 0 21 -1 0
-0 29 4 0
 0 25 12 11
+0 29 4 0
 1
 end_operator
 begin_operator
@@ -51662,8 +51662,8 @@ sendtonewcol ca d3 n9 n8
 20 0
 3
 0 21 -1 0
-0 29 4 0
 0 25 13 12
+0 29 4 0
 1
 end_operator
 begin_operator
@@ -51671,8 +51671,8 @@ sendtonewcol ca h2 n1 n0
 1
 20 0
 3
-0 21 4 0
 0 19 -1 0
+0 21 4 0
 0 25 1 0
 1
 end_operator
@@ -51681,8 +51681,8 @@ sendtonewcol ca h2 n10 n9
 1
 20 0
 3
-0 21 4 0
 0 19 -1 0
+0 21 4 0
 0 25 2 13
 1
 end_operator
@@ -51691,8 +51691,8 @@ sendtonewcol ca h2 n11 n10
 1
 20 0
 3
-0 21 4 0
 0 19 -1 0
+0 21 4 0
 0 25 3 2
 1
 end_operator
@@ -51701,8 +51701,8 @@ sendtonewcol ca h2 n12 n11
 1
 20 0
 3
-0 21 4 0
 0 19 -1 0
+0 21 4 0
 0 25 4 3
 1
 end_operator
@@ -51711,8 +51711,8 @@ sendtonewcol ca h2 n13 n12
 1
 20 0
 3
-0 21 4 0
 0 19 -1 0
+0 21 4 0
 0 25 5 4
 1
 end_operator
@@ -51721,8 +51721,8 @@ sendtonewcol ca h2 n2 n1
 1
 20 0
 3
-0 21 4 0
 0 19 -1 0
+0 21 4 0
 0 25 6 1
 1
 end_operator
@@ -51731,8 +51731,8 @@ sendtonewcol ca h2 n3 n2
 1
 20 0
 3
-0 21 4 0
 0 19 -1 0
+0 21 4 0
 0 25 7 6
 1
 end_operator
@@ -51741,8 +51741,8 @@ sendtonewcol ca h2 n4 n3
 1
 20 0
 3
-0 21 4 0
 0 19 -1 0
+0 21 4 0
 0 25 8 7
 1
 end_operator
@@ -51751,8 +51751,8 @@ sendtonewcol ca h2 n5 n4
 1
 20 0
 3
-0 21 4 0
 0 19 -1 0
+0 21 4 0
 0 25 9 8
 1
 end_operator
@@ -51761,8 +51761,8 @@ sendtonewcol ca h2 n6 n5
 1
 20 0
 3
-0 21 4 0
 0 19 -1 0
+0 21 4 0
 0 25 10 9
 1
 end_operator
@@ -51771,8 +51771,8 @@ sendtonewcol ca h2 n7 n6
 1
 20 0
 3
-0 21 4 0
 0 19 -1 0
+0 21 4 0
 0 25 11 10
 1
 end_operator
@@ -51781,8 +51781,8 @@ sendtonewcol ca h2 n8 n7
 1
 20 0
 3
-0 21 4 0
 0 19 -1 0
+0 21 4 0
 0 25 12 11
 1
 end_operator
@@ -51791,8 +51791,8 @@ sendtonewcol ca h2 n9 n8
 1
 20 0
 3
-0 21 4 0
 0 19 -1 0
+0 21 4 0
 0 25 13 12
 1
 end_operator
@@ -51802,8 +51802,8 @@ sendtonewcol d2 c3 n1 n0
 22 0
 3
 0 23 -1 0
-0 28 3 0
 0 25 1 0
+0 28 3 0
 1
 end_operator
 begin_operator
@@ -51812,8 +51812,8 @@ sendtonewcol d2 c3 n10 n9
 22 0
 3
 0 23 -1 0
-0 28 3 0
 0 25 2 13
+0 28 3 0
 1
 end_operator
 begin_operator
@@ -51822,8 +51822,8 @@ sendtonewcol d2 c3 n11 n10
 22 0
 3
 0 23 -1 0
-0 28 3 0
 0 25 3 2
+0 28 3 0
 1
 end_operator
 begin_operator
@@ -51832,8 +51832,8 @@ sendtonewcol d2 c3 n12 n11
 22 0
 3
 0 23 -1 0
-0 28 3 0
 0 25 4 3
+0 28 3 0
 1
 end_operator
 begin_operator
@@ -51842,8 +51842,8 @@ sendtonewcol d2 c3 n13 n12
 22 0
 3
 0 23 -1 0
-0 28 3 0
 0 25 5 4
+0 28 3 0
 1
 end_operator
 begin_operator
@@ -51852,8 +51852,8 @@ sendtonewcol d2 c3 n2 n1
 22 0
 3
 0 23 -1 0
-0 28 3 0
 0 25 6 1
+0 28 3 0
 1
 end_operator
 begin_operator
@@ -51862,8 +51862,8 @@ sendtonewcol d2 c3 n3 n2
 22 0
 3
 0 23 -1 0
-0 28 3 0
 0 25 7 6
+0 28 3 0
 1
 end_operator
 begin_operator
@@ -51872,8 +51872,8 @@ sendtonewcol d2 c3 n4 n3
 22 0
 3
 0 23 -1 0
-0 28 3 0
 0 25 8 7
+0 28 3 0
 1
 end_operator
 begin_operator
@@ -51882,8 +51882,8 @@ sendtonewcol d2 c3 n5 n4
 22 0
 3
 0 23 -1 0
-0 28 3 0
 0 25 9 8
+0 28 3 0
 1
 end_operator
 begin_operator
@@ -51892,8 +51892,8 @@ sendtonewcol d2 c3 n6 n5
 22 0
 3
 0 23 -1 0
-0 28 3 0
 0 25 10 9
+0 28 3 0
 1
 end_operator
 begin_operator
@@ -51902,8 +51902,8 @@ sendtonewcol d2 c3 n7 n6
 22 0
 3
 0 23 -1 0
-0 28 3 0
 0 25 11 10
+0 28 3 0
 1
 end_operator
 begin_operator
@@ -51912,8 +51912,8 @@ sendtonewcol d2 c3 n8 n7
 22 0
 3
 0 23 -1 0
-0 28 3 0
 0 25 12 11
+0 28 3 0
 1
 end_operator
 begin_operator
@@ -51922,8 +51922,8 @@ sendtonewcol d2 c3 n9 n8
 22 0
 3
 0 23 -1 0
-0 28 3 0
 0 25 13 12
+0 28 3 0
 1
 end_operator
 begin_operator
@@ -51932,8 +51932,8 @@ sendtonewcol d2 s3 n1 n0
 22 0
 3
 0 23 -1 0
-0 27 3 0
 0 25 1 0
+0 27 3 0
 1
 end_operator
 begin_operator
@@ -51942,8 +51942,8 @@ sendtonewcol d2 s3 n10 n9
 22 0
 3
 0 23 -1 0
-0 27 3 0
 0 25 2 13
+0 27 3 0
 1
 end_operator
 begin_operator
@@ -51952,8 +51952,8 @@ sendtonewcol d2 s3 n11 n10
 22 0
 3
 0 23 -1 0
-0 27 3 0
 0 25 3 2
+0 27 3 0
 1
 end_operator
 begin_operator
@@ -51962,8 +51962,8 @@ sendtonewcol d2 s3 n12 n11
 22 0
 3
 0 23 -1 0
-0 27 3 0
 0 25 4 3
+0 27 3 0
 1
 end_operator
 begin_operator
@@ -51972,8 +51972,8 @@ sendtonewcol d2 s3 n13 n12
 22 0
 3
 0 23 -1 0
-0 27 3 0
 0 25 5 4
+0 27 3 0
 1
 end_operator
 begin_operator
@@ -51982,8 +51982,8 @@ sendtonewcol d2 s3 n2 n1
 22 0
 3
 0 23 -1 0
-0 27 3 0
 0 25 6 1
+0 27 3 0
 1
 end_operator
 begin_operator
@@ -51992,8 +51992,8 @@ sendtonewcol d2 s3 n3 n2
 22 0
 3
 0 23 -1 0
-0 27 3 0
 0 25 7 6
+0 27 3 0
 1
 end_operator
 begin_operator
@@ -52002,8 +52002,8 @@ sendtonewcol d2 s3 n4 n3
 22 0
 3
 0 23 -1 0
-0 27 3 0
 0 25 8 7
+0 27 3 0
 1
 end_operator
 begin_operator
@@ -52012,8 +52012,8 @@ sendtonewcol d2 s3 n5 n4
 22 0
 3
 0 23 -1 0
-0 27 3 0
 0 25 9 8
+0 27 3 0
 1
 end_operator
 begin_operator
@@ -52022,8 +52022,8 @@ sendtonewcol d2 s3 n6 n5
 22 0
 3
 0 23 -1 0
-0 27 3 0
 0 25 10 9
+0 27 3 0
 1
 end_operator
 begin_operator
@@ -52032,8 +52032,8 @@ sendtonewcol d2 s3 n7 n6
 22 0
 3
 0 23 -1 0
-0 27 3 0
 0 25 11 10
+0 27 3 0
 1
 end_operator
 begin_operator
@@ -52042,8 +52042,8 @@ sendtonewcol d2 s3 n8 n7
 22 0
 3
 0 23 -1 0
-0 27 3 0
 0 25 12 11
+0 27 3 0
 1
 end_operator
 begin_operator
@@ -52052,8 +52052,8 @@ sendtonewcol d2 s3 n9 n8
 22 0
 3
 0 23 -1 0
-0 27 3 0
 0 25 13 12
+0 27 3 0
 1
 end_operator
 begin_operator
@@ -52191,8 +52191,8 @@ sendtonewcol da s2 n1 n0
 1
 14 0
 3
-0 15 -1 0
 0 11 4 0
+0 15 -1 0
 0 25 1 0
 1
 end_operator
@@ -52201,8 +52201,8 @@ sendtonewcol da s2 n10 n9
 1
 14 0
 3
-0 15 -1 0
 0 11 4 0
+0 15 -1 0
 0 25 2 13
 1
 end_operator
@@ -52211,8 +52211,8 @@ sendtonewcol da s2 n11 n10
 1
 14 0
 3
-0 15 -1 0
 0 11 4 0
+0 15 -1 0
 0 25 3 2
 1
 end_operator
@@ -52221,8 +52221,8 @@ sendtonewcol da s2 n12 n11
 1
 14 0
 3
-0 15 -1 0
 0 11 4 0
+0 15 -1 0
 0 25 4 3
 1
 end_operator
@@ -52231,8 +52231,8 @@ sendtonewcol da s2 n13 n12
 1
 14 0
 3
-0 15 -1 0
 0 11 4 0
+0 15 -1 0
 0 25 5 4
 1
 end_operator
@@ -52241,8 +52241,8 @@ sendtonewcol da s2 n2 n1
 1
 14 0
 3
-0 15 -1 0
 0 11 4 0
+0 15 -1 0
 0 25 6 1
 1
 end_operator
@@ -52251,8 +52251,8 @@ sendtonewcol da s2 n3 n2
 1
 14 0
 3
-0 15 -1 0
 0 11 4 0
+0 15 -1 0
 0 25 7 6
 1
 end_operator
@@ -52261,8 +52261,8 @@ sendtonewcol da s2 n4 n3
 1
 14 0
 3
-0 15 -1 0
 0 11 4 0
+0 15 -1 0
 0 25 8 7
 1
 end_operator
@@ -52271,8 +52271,8 @@ sendtonewcol da s2 n5 n4
 1
 14 0
 3
-0 15 -1 0
 0 11 4 0
+0 15 -1 0
 0 25 9 8
 1
 end_operator
@@ -52281,8 +52281,8 @@ sendtonewcol da s2 n6 n5
 1
 14 0
 3
-0 15 -1 0
 0 11 4 0
+0 15 -1 0
 0 25 10 9
 1
 end_operator
@@ -52291,8 +52291,8 @@ sendtonewcol da s2 n7 n6
 1
 14 0
 3
-0 15 -1 0
 0 11 4 0
+0 15 -1 0
 0 25 11 10
 1
 end_operator
@@ -52301,8 +52301,8 @@ sendtonewcol da s2 n8 n7
 1
 14 0
 3
-0 15 -1 0
 0 11 4 0
+0 15 -1 0
 0 25 12 11
 1
 end_operator
@@ -52311,8 +52311,8 @@ sendtonewcol da s2 n9 n8
 1
 14 0
 3
-0 15 -1 0
 0 11 4 0
+0 15 -1 0
 0 25 13 12
 1
 end_operator
@@ -52321,8 +52321,8 @@ sendtonewcol da sa n1 n0
 1
 14 0
 3
-0 15 4 0
 0 9 -1 0
+0 15 4 0
 0 25 1 0
 1
 end_operator
@@ -52331,8 +52331,8 @@ sendtonewcol da sa n10 n9
 1
 14 0
 3
-0 15 4 0
 0 9 -1 0
+0 15 4 0
 0 25 2 13
 1
 end_operator
@@ -52341,8 +52341,8 @@ sendtonewcol da sa n11 n10
 1
 14 0
 3
-0 15 4 0
 0 9 -1 0
+0 15 4 0
 0 25 3 2
 1
 end_operator
@@ -52351,8 +52351,8 @@ sendtonewcol da sa n12 n11
 1
 14 0
 3
-0 15 4 0
 0 9 -1 0
+0 15 4 0
 0 25 4 3
 1
 end_operator
@@ -52361,8 +52361,8 @@ sendtonewcol da sa n13 n12
 1
 14 0
 3
-0 15 4 0
 0 9 -1 0
+0 15 4 0
 0 25 5 4
 1
 end_operator
@@ -52371,8 +52371,8 @@ sendtonewcol da sa n2 n1
 1
 14 0
 3
-0 15 4 0
 0 9 -1 0
+0 15 4 0
 0 25 6 1
 1
 end_operator
@@ -52381,8 +52381,8 @@ sendtonewcol da sa n3 n2
 1
 14 0
 3
-0 15 4 0
 0 9 -1 0
+0 15 4 0
 0 25 7 6
 1
 end_operator
@@ -52391,8 +52391,8 @@ sendtonewcol da sa n4 n3
 1
 14 0
 3
-0 15 4 0
 0 9 -1 0
+0 15 4 0
 0 25 8 7
 1
 end_operator
@@ -52401,8 +52401,8 @@ sendtonewcol da sa n5 n4
 1
 14 0
 3
-0 15 4 0
 0 9 -1 0
+0 15 4 0
 0 25 9 8
 1
 end_operator
@@ -52411,8 +52411,8 @@ sendtonewcol da sa n6 n5
 1
 14 0
 3
-0 15 4 0
 0 9 -1 0
+0 15 4 0
 0 25 10 9
 1
 end_operator
@@ -52421,8 +52421,8 @@ sendtonewcol da sa n7 n6
 1
 14 0
 3
-0 15 4 0
 0 9 -1 0
+0 15 4 0
 0 25 11 10
 1
 end_operator
@@ -52431,8 +52431,8 @@ sendtonewcol da sa n8 n7
 1
 14 0
 3
-0 15 4 0
 0 9 -1 0
+0 15 4 0
 0 25 12 11
 1
 end_operator
@@ -52441,8 +52441,8 @@ sendtonewcol da sa n9 n8
 1
 14 0
 3
-0 15 4 0
 0 9 -1 0
+0 15 4 0
 0 25 13 12
 1
 end_operator
@@ -52452,8 +52452,8 @@ sendtonewcol h2 c3 n1 n0
 19 0
 3
 0 18 -1 0
-0 28 4 0
 0 25 1 0
+0 28 4 0
 1
 end_operator
 begin_operator
@@ -52462,8 +52462,8 @@ sendtonewcol h2 c3 n10 n9
 19 0
 3
 0 18 -1 0
-0 28 4 0
 0 25 2 13
+0 28 4 0
 1
 end_operator
 begin_operator
@@ -52472,8 +52472,8 @@ sendtonewcol h2 c3 n11 n10
 19 0
 3
 0 18 -1 0
-0 28 4 0
 0 25 3 2
+0 28 4 0
 1
 end_operator
 begin_operator
@@ -52482,8 +52482,8 @@ sendtonewcol h2 c3 n12 n11
 19 0
 3
 0 18 -1 0
-0 28 4 0
 0 25 4 3
+0 28 4 0
 1
 end_operator
 begin_operator
@@ -52492,8 +52492,8 @@ sendtonewcol h2 c3 n13 n12
 19 0
 3
 0 18 -1 0
-0 28 4 0
 0 25 5 4
+0 28 4 0
 1
 end_operator
 begin_operator
@@ -52502,8 +52502,8 @@ sendtonewcol h2 c3 n2 n1
 19 0
 3
 0 18 -1 0
-0 28 4 0
 0 25 6 1
+0 28 4 0
 1
 end_operator
 begin_operator
@@ -52512,8 +52512,8 @@ sendtonewcol h2 c3 n3 n2
 19 0
 3
 0 18 -1 0
-0 28 4 0
 0 25 7 6
+0 28 4 0
 1
 end_operator
 begin_operator
@@ -52522,8 +52522,8 @@ sendtonewcol h2 c3 n4 n3
 19 0
 3
 0 18 -1 0
-0 28 4 0
 0 25 8 7
+0 28 4 0
 1
 end_operator
 begin_operator
@@ -52532,8 +52532,8 @@ sendtonewcol h2 c3 n5 n4
 19 0
 3
 0 18 -1 0
-0 28 4 0
 0 25 9 8
+0 28 4 0
 1
 end_operator
 begin_operator
@@ -52542,8 +52542,8 @@ sendtonewcol h2 c3 n6 n5
 19 0
 3
 0 18 -1 0
-0 28 4 0
 0 25 10 9
+0 28 4 0
 1
 end_operator
 begin_operator
@@ -52552,8 +52552,8 @@ sendtonewcol h2 c3 n7 n6
 19 0
 3
 0 18 -1 0
-0 28 4 0
 0 25 11 10
+0 28 4 0
 1
 end_operator
 begin_operator
@@ -52562,8 +52562,8 @@ sendtonewcol h2 c3 n8 n7
 19 0
 3
 0 18 -1 0
-0 28 4 0
 0 25 12 11
+0 28 4 0
 1
 end_operator
 begin_operator
@@ -52572,8 +52572,8 @@ sendtonewcol h2 c3 n9 n8
 19 0
 3
 0 18 -1 0
-0 28 4 0
 0 25 13 12
+0 28 4 0
 1
 end_operator
 begin_operator
@@ -52582,8 +52582,8 @@ sendtonewcol h2 s3 n1 n0
 19 0
 3
 0 18 -1 0
-0 27 4 0
 0 25 1 0
+0 27 4 0
 1
 end_operator
 begin_operator
@@ -52592,8 +52592,8 @@ sendtonewcol h2 s3 n10 n9
 19 0
 3
 0 18 -1 0
-0 27 4 0
 0 25 2 13
+0 27 4 0
 1
 end_operator
 begin_operator
@@ -52602,8 +52602,8 @@ sendtonewcol h2 s3 n11 n10
 19 0
 3
 0 18 -1 0
-0 27 4 0
 0 25 3 2
+0 27 4 0
 1
 end_operator
 begin_operator
@@ -52612,8 +52612,8 @@ sendtonewcol h2 s3 n12 n11
 19 0
 3
 0 18 -1 0
-0 27 4 0
 0 25 4 3
+0 27 4 0
 1
 end_operator
 begin_operator
@@ -52622,8 +52622,8 @@ sendtonewcol h2 s3 n13 n12
 19 0
 3
 0 18 -1 0
-0 27 4 0
 0 25 5 4
+0 27 4 0
 1
 end_operator
 begin_operator
@@ -52632,8 +52632,8 @@ sendtonewcol h2 s3 n2 n1
 19 0
 3
 0 18 -1 0
-0 27 4 0
 0 25 6 1
+0 27 4 0
 1
 end_operator
 begin_operator
@@ -52642,8 +52642,8 @@ sendtonewcol h2 s3 n3 n2
 19 0
 3
 0 18 -1 0
-0 27 4 0
 0 25 7 6
+0 27 4 0
 1
 end_operator
 begin_operator
@@ -52652,8 +52652,8 @@ sendtonewcol h2 s3 n4 n3
 19 0
 3
 0 18 -1 0
-0 27 4 0
 0 25 8 7
+0 27 4 0
 1
 end_operator
 begin_operator
@@ -52662,8 +52662,8 @@ sendtonewcol h2 s3 n5 n4
 19 0
 3
 0 18 -1 0
-0 27 4 0
 0 25 9 8
+0 27 4 0
 1
 end_operator
 begin_operator
@@ -52672,8 +52672,8 @@ sendtonewcol h2 s3 n6 n5
 19 0
 3
 0 18 -1 0
-0 27 4 0
 0 25 10 9
+0 27 4 0
 1
 end_operator
 begin_operator
@@ -52682,8 +52682,8 @@ sendtonewcol h2 s3 n7 n6
 19 0
 3
 0 18 -1 0
-0 27 4 0
 0 25 11 10
+0 27 4 0
 1
 end_operator
 begin_operator
@@ -52692,8 +52692,8 @@ sendtonewcol h2 s3 n8 n7
 19 0
 3
 0 18 -1 0
-0 27 4 0
 0 25 12 11
+0 27 4 0
 1
 end_operator
 begin_operator
@@ -52702,8 +52702,8 @@ sendtonewcol h2 s3 n9 n8
 19 0
 3
 0 18 -1 0
-0 27 4 0
 0 25 13 12
+0 27 4 0
 1
 end_operator
 begin_operator
@@ -52841,8 +52841,8 @@ sendtonewcol ha s2 n1 n0
 1
 13 0
 3
-0 12 -1 0
 0 11 5 0
+0 12 -1 0
 0 25 1 0
 1
 end_operator
@@ -52851,8 +52851,8 @@ sendtonewcol ha s2 n10 n9
 1
 13 0
 3
-0 12 -1 0
 0 11 5 0
+0 12 -1 0
 0 25 2 13
 1
 end_operator
@@ -52861,8 +52861,8 @@ sendtonewcol ha s2 n11 n10
 1
 13 0
 3
-0 12 -1 0
 0 11 5 0
+0 12 -1 0
 0 25 3 2
 1
 end_operator
@@ -52871,8 +52871,8 @@ sendtonewcol ha s2 n12 n11
 1
 13 0
 3
-0 12 -1 0
 0 11 5 0
+0 12 -1 0
 0 25 4 3
 1
 end_operator
@@ -52881,8 +52881,8 @@ sendtonewcol ha s2 n13 n12
 1
 13 0
 3
-0 12 -1 0
 0 11 5 0
+0 12 -1 0
 0 25 5 4
 1
 end_operator
@@ -52891,8 +52891,8 @@ sendtonewcol ha s2 n2 n1
 1
 13 0
 3
-0 12 -1 0
 0 11 5 0
+0 12 -1 0
 0 25 6 1
 1
 end_operator
@@ -52901,8 +52901,8 @@ sendtonewcol ha s2 n3 n2
 1
 13 0
 3
-0 12 -1 0
 0 11 5 0
+0 12 -1 0
 0 25 7 6
 1
 end_operator
@@ -52911,8 +52911,8 @@ sendtonewcol ha s2 n4 n3
 1
 13 0
 3
-0 12 -1 0
 0 11 5 0
+0 12 -1 0
 0 25 8 7
 1
 end_operator
@@ -52921,8 +52921,8 @@ sendtonewcol ha s2 n5 n4
 1
 13 0
 3
-0 12 -1 0
 0 11 5 0
+0 12 -1 0
 0 25 9 8
 1
 end_operator
@@ -52931,8 +52931,8 @@ sendtonewcol ha s2 n6 n5
 1
 13 0
 3
-0 12 -1 0
 0 11 5 0
+0 12 -1 0
 0 25 10 9
 1
 end_operator
@@ -52941,8 +52941,8 @@ sendtonewcol ha s2 n7 n6
 1
 13 0
 3
-0 12 -1 0
 0 11 5 0
+0 12 -1 0
 0 25 11 10
 1
 end_operator
@@ -52951,8 +52951,8 @@ sendtonewcol ha s2 n8 n7
 1
 13 0
 3
-0 12 -1 0
 0 11 5 0
+0 12 -1 0
 0 25 12 11
 1
 end_operator
@@ -52961,8 +52961,8 @@ sendtonewcol ha s2 n9 n8
 1
 13 0
 3
-0 12 -1 0
 0 11 5 0
+0 12 -1 0
 0 25 13 12
 1
 end_operator
@@ -52972,8 +52972,8 @@ sendtonewcol s2 d3 n1 n0
 11 0
 3
 0 10 -1 0
-0 29 5 0
 0 25 1 0
+0 29 5 0
 1
 end_operator
 begin_operator
@@ -52982,8 +52982,8 @@ sendtonewcol s2 d3 n10 n9
 11 0
 3
 0 10 -1 0
-0 29 5 0
 0 25 2 13
+0 29 5 0
 1
 end_operator
 begin_operator
@@ -52992,8 +52992,8 @@ sendtonewcol s2 d3 n11 n10
 11 0
 3
 0 10 -1 0
-0 29 5 0
 0 25 3 2
+0 29 5 0
 1
 end_operator
 begin_operator
@@ -53002,8 +53002,8 @@ sendtonewcol s2 d3 n12 n11
 11 0
 3
 0 10 -1 0
-0 29 5 0
 0 25 4 3
+0 29 5 0
 1
 end_operator
 begin_operator
@@ -53012,8 +53012,8 @@ sendtonewcol s2 d3 n13 n12
 11 0
 3
 0 10 -1 0
-0 29 5 0
 0 25 5 4
+0 29 5 0
 1
 end_operator
 begin_operator
@@ -53022,8 +53022,8 @@ sendtonewcol s2 d3 n2 n1
 11 0
 3
 0 10 -1 0
-0 29 5 0
 0 25 6 1
+0 29 5 0
 1
 end_operator
 begin_operator
@@ -53032,8 +53032,8 @@ sendtonewcol s2 d3 n3 n2
 11 0
 3
 0 10 -1 0
-0 29 5 0
 0 25 7 6
+0 29 5 0
 1
 end_operator
 begin_operator
@@ -53042,8 +53042,8 @@ sendtonewcol s2 d3 n4 n3
 11 0
 3
 0 10 -1 0
-0 29 5 0
 0 25 8 7
+0 29 5 0
 1
 end_operator
 begin_operator
@@ -53052,8 +53052,8 @@ sendtonewcol s2 d3 n5 n4
 11 0
 3
 0 10 -1 0
-0 29 5 0
 0 25 9 8
+0 29 5 0
 1
 end_operator
 begin_operator
@@ -53062,8 +53062,8 @@ sendtonewcol s2 d3 n6 n5
 11 0
 3
 0 10 -1 0
-0 29 5 0
 0 25 10 9
+0 29 5 0
 1
 end_operator
 begin_operator
@@ -53072,8 +53072,8 @@ sendtonewcol s2 d3 n7 n6
 11 0
 3
 0 10 -1 0
-0 29 5 0
 0 25 11 10
+0 29 5 0
 1
 end_operator
 begin_operator
@@ -53082,8 +53082,8 @@ sendtonewcol s2 d3 n8 n7
 11 0
 3
 0 10 -1 0
-0 29 5 0
 0 25 12 11
+0 29 5 0
 1
 end_operator
 begin_operator
@@ -53092,8 +53092,8 @@ sendtonewcol s2 d3 n9 n8
 11 0
 3
 0 10 -1 0
-0 29 5 0
 0 25 13 12
+0 29 5 0
 1
 end_operator
 begin_operator
@@ -53102,8 +53102,8 @@ sendtonewcol s2 h3 n1 n0
 11 0
 3
 0 10 -1 0
-0 26 4 0
 0 25 1 0
+0 26 4 0
 1
 end_operator
 begin_operator
@@ -53112,8 +53112,8 @@ sendtonewcol s2 h3 n10 n9
 11 0
 3
 0 10 -1 0
-0 26 4 0
 0 25 2 13
+0 26 4 0
 1
 end_operator
 begin_operator
@@ -53122,8 +53122,8 @@ sendtonewcol s2 h3 n11 n10
 11 0
 3
 0 10 -1 0
-0 26 4 0
 0 25 3 2
+0 26 4 0
 1
 end_operator
 begin_operator
@@ -53132,8 +53132,8 @@ sendtonewcol s2 h3 n12 n11
 11 0
 3
 0 10 -1 0
-0 26 4 0
 0 25 4 3
+0 26 4 0
 1
 end_operator
 begin_operator
@@ -53142,8 +53142,8 @@ sendtonewcol s2 h3 n13 n12
 11 0
 3
 0 10 -1 0
-0 26 4 0
 0 25 5 4
+0 26 4 0
 1
 end_operator
 begin_operator
@@ -53152,8 +53152,8 @@ sendtonewcol s2 h3 n2 n1
 11 0
 3
 0 10 -1 0
-0 26 4 0
 0 25 6 1
+0 26 4 0
 1
 end_operator
 begin_operator
@@ -53162,8 +53162,8 @@ sendtonewcol s2 h3 n3 n2
 11 0
 3
 0 10 -1 0
-0 26 4 0
 0 25 7 6
+0 26 4 0
 1
 end_operator
 begin_operator
@@ -53172,8 +53172,8 @@ sendtonewcol s2 h3 n4 n3
 11 0
 3
 0 10 -1 0
-0 26 4 0
 0 25 8 7
+0 26 4 0
 1
 end_operator
 begin_operator
@@ -53182,8 +53182,8 @@ sendtonewcol s2 h3 n5 n4
 11 0
 3
 0 10 -1 0
-0 26 4 0
 0 25 9 8
+0 26 4 0
 1
 end_operator
 begin_operator
@@ -53192,8 +53192,8 @@ sendtonewcol s2 h3 n6 n5
 11 0
 3
 0 10 -1 0
-0 26 4 0
 0 25 10 9
+0 26 4 0
 1
 end_operator
 begin_operator
@@ -53202,8 +53202,8 @@ sendtonewcol s2 h3 n7 n6
 11 0
 3
 0 10 -1 0
-0 26 4 0
 0 25 11 10
+0 26 4 0
 1
 end_operator
 begin_operator
@@ -53212,8 +53212,8 @@ sendtonewcol s2 h3 n8 n7
 11 0
 3
 0 10 -1 0
-0 26 4 0
 0 25 12 11
+0 26 4 0
 1
 end_operator
 begin_operator
@@ -53222,8 +53222,8 @@ sendtonewcol s2 h3 n9 n8
 11 0
 3
 0 10 -1 0
-0 26 4 0
 0 25 13 12
+0 26 4 0
 1
 end_operator
 begin_operator

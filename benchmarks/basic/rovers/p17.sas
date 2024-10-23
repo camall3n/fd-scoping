@@ -7014,8 +7014,8 @@ sample_rock rover0 rover0store waypoint7
 1
 99 9
 2
-0 113 0 1
 0 111 0 1
+0 113 0 1
 1
 end_operator
 begin_operator
@@ -7023,8 +7023,8 @@ sample_rock rover0 rover0store waypoint9
 1
 99 11
 2
-0 114 0 1
 0 111 0 1
+0 114 0 1
 1
 end_operator
 begin_operator
@@ -7131,8 +7131,8 @@ sample_rock rover4 rover4store waypoint7
 1
 21 12
 2
-0 113 0 2
 0 112 0 1
+0 113 0 2
 1
 end_operator
 begin_operator
@@ -7140,8 +7140,8 @@ sample_rock rover4 rover4store waypoint9
 1
 21 14
 2
-0 114 0 2
 0 112 0 1
+0 114 0 2
 1
 end_operator
 begin_operator
