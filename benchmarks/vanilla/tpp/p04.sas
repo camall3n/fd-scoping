@@ -9,120 +9,120 @@ begin_variable
 var0
 -1
 2
-0
-1
+Atom at(truck1, depot1)
+Atom at(truck1, market1)
 end_variable
 begin_variable
 var1
 -1
 2
-0
-1
+Atom on-sale(goods4, market1, level0)
+Atom on-sale(goods4, market1, level1)
 end_variable
 begin_variable
 var2
 -1
 2
-0
-1
+Atom ready-to-load(goods4, market1, level0)
+Atom ready-to-load(goods4, market1, level1)
 end_variable
 begin_variable
 var3
 -1
 2
-0
-1
+Atom loaded(goods4, truck1, level0)
+Atom loaded(goods4, truck1, level1)
 end_variable
 begin_variable
 var4
 -1
 2
-0
-1
+Atom stored(goods4, level0)
+Atom stored(goods4, level1)
 end_variable
 begin_variable
 var5
 -1
 2
-0
-1
+Atom on-sale(goods3, market1, level0)
+Atom on-sale(goods3, market1, level1)
 end_variable
 begin_variable
 var6
 -1
 2
-0
-1
+Atom ready-to-load(goods3, market1, level0)
+Atom ready-to-load(goods3, market1, level1)
 end_variable
 begin_variable
 var7
 -1
 2
-0
-1
+Atom loaded(goods3, truck1, level0)
+Atom loaded(goods3, truck1, level1)
 end_variable
 begin_variable
 var8
 -1
 2
-0
-1
+Atom stored(goods3, level0)
+Atom stored(goods3, level1)
 end_variable
 begin_variable
 var9
 -1
 2
-0
-1
+Atom on-sale(goods2, market1, level0)
+Atom on-sale(goods2, market1, level1)
 end_variable
 begin_variable
 var10
 -1
 2
-0
-1
+Atom ready-to-load(goods2, market1, level0)
+Atom ready-to-load(goods2, market1, level1)
 end_variable
 begin_variable
 var11
 -1
 2
-0
-1
+Atom loaded(goods2, truck1, level0)
+Atom loaded(goods2, truck1, level1)
 end_variable
 begin_variable
 var12
 -1
 2
-0
-1
+Atom stored(goods2, level0)
+Atom stored(goods2, level1)
 end_variable
 begin_variable
 var13
 -1
 2
-0
-1
+Atom on-sale(goods1, market1, level0)
+Atom on-sale(goods1, market1, level1)
 end_variable
 begin_variable
 var14
 -1
 2
-0
-1
+Atom ready-to-load(goods1, market1, level0)
+Atom ready-to-load(goods1, market1, level1)
 end_variable
 begin_variable
 var15
 -1
 2
-0
-1
+Atom loaded(goods1, truck1, level0)
+Atom loaded(goods1, truck1, level1)
 end_variable
 begin_variable
 var16
 -1
 2
-0
-1
+Atom stored(goods1, level0)
+Atom stored(goods1, level1)
 end_variable
 0
 begin_state

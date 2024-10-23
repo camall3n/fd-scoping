@@ -9,22 +9,22 @@ begin_variable
 var0
 -1
 2
-0
-1
+Atom lift-at(f0)
+Atom lift-at(f1)
 end_variable
 begin_variable
 var1
 -1
 2
-0
-1
+Atom boarded(p0)
+NegatedAtom boarded(p0)
 end_variable
 begin_variable
 var2
 -1
 2
-0
-1
+Atom served(p0)
+NegatedAtom served(p0)
 end_variable
 0
 begin_state

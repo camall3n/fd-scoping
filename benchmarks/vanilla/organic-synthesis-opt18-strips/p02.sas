@@ -9,85 +9,85 @@ begin_variable
 var0
 -1
 2
-0
-1
+Atom bond(c013, h061)
+NegatedAtom bond(c013, h061)
 end_variable
 begin_variable
 var1
 -1
 2
-0
-1
+Atom bond(c011, o066)
+NegatedAtom bond(c011, o066)
 end_variable
 begin_variable
 var2
 -1
 2
-0
-1
+Atom bond(o066, h061)
+NegatedAtom bond(o066, h061)
 end_variable
 begin_variable
 var3
 -1
 2
-0
-1
+Atom doublebond(c011, c013)
+NegatedAtom doublebond(c011, c013)
 end_variable
 begin_variable
 var4
 -1
 2
-0
-1
+Atom doublebond(c013, c011)
+NegatedAtom doublebond(c013, c011)
 end_variable
 begin_variable
 var5
 -1
 2
-0
-1
+Atom bond(h061, o066)
+NegatedAtom bond(h061, o066)
 end_variable
 begin_variable
 var6
 -1
 2
-0
-1
+Atom bond(c011, h061)
+NegatedAtom bond(c011, h061)
 end_variable
 begin_variable
 var7
 -1
 2
-0
-1
+Atom bond(c013, o066)
+NegatedAtom bond(c013, o066)
 end_variable
 begin_variable
 var8
 -1
 2
-0
-1
+Atom bond(c011, c013)
+NegatedAtom bond(c011, c013)
 end_variable
 begin_variable
 var9
 -1
 2
-0
-1
+Atom bond(c013, c011)
+NegatedAtom bond(c013, c011)
 end_variable
 begin_variable
 var10
 -1
 2
-0
-1
+Atom bond(o066, c013)
+NegatedAtom bond(o066, c013)
 end_variable
 begin_variable
 var11
 -1
 2
-0
-1
+Atom bond(h061, c011)
+NegatedAtom bond(h061, c011)
 end_variable
 0
 begin_state

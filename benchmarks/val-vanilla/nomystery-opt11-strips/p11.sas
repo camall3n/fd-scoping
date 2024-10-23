@@ -2,76 +2,78 @@ begin_version
 3
 end_version
 begin_metric
-0
+1
 end_metric
 5
 begin_variable
 var0
 -1
 4
-0
-1
-2
-3
+Atom at(t0, l0)
+Atom at(t0, l1)
+Atom at(t0, l2)
+Atom at(t0, l3)
 end_variable
 begin_variable
 var1
 -1
-24
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
+26
+Atom fuel(t0, level0)
+Atom fuel(t0, level1)
+Atom fuel(t0, level10)
+Atom fuel(t0, level11)
+Atom fuel(t0, level12)
+Atom fuel(t0, level13)
+Atom fuel(t0, level14)
+Atom fuel(t0, level15)
+Atom fuel(t0, level16)
+Atom fuel(t0, level17)
+Atom fuel(t0, level18)
+Atom fuel(t0, level19)
+Atom fuel(t0, level2)
+Atom fuel(t0, level20)
+Atom fuel(t0, level21)
+Atom fuel(t0, level22)
+Atom fuel(t0, level23)
+Atom fuel(t0, level24)
+Atom fuel(t0, level26)
+Atom fuel(t0, level3)
+Atom fuel(t0, level4)
+Atom fuel(t0, level5)
+Atom fuel(t0, level6)
+Atom fuel(t0, level7)
+Atom fuel(t0, level8)
+Atom fuel(t0, level9)
 end_variable
 begin_variable
 var2
 -1
 5
-0
-1
-2
-3
-4
+Atom at(p2, l0)
+Atom at(p2, l1)
+Atom at(p2, l2)
+Atom at(p2, l3)
+Atom in(p2, t0)
 end_variable
 begin_variable
 var3
 -1
 5
-0
-1
-2
-3
-4
+Atom at(p1, l0)
+Atom at(p1, l1)
+Atom at(p1, l2)
+Atom at(p1, l3)
+Atom in(p1, t0)
 end_variable
 begin_variable
 var4
 -1
 5
-0
-1
-2
-3
-4
+Atom at(p0, l0)
+Atom at(p0, l1)
+Atom at(p0, l2)
+Atom at(p0, l3)
+Atom in(p0, t0)
 end_variable
 0
 begin_state
@@ -90,18 +92,18 @@ end_goal
 230
 begin_operator
 drive t0 l0 l1 level0 level13 level13
-1
-1 5
-1
+0
+2
 0 0 0 1
+0 1 5 0
 1
 end_operator
 begin_operator
 drive t0 l0 l1 level1 level13 level14
-1
-1 6
-1
+0
+2
 0 0 0 1
+0 1 6 1
 1
 end_operator
 begin_operator
@@ -194,18 +196,18 @@ drive t0 l0 l1 level9 level13 level22
 end_operator
 begin_operator
 drive t0 l0 l2 level0 level2 level2
-1
-1 12
-1
+0
+2
 0 0 0 2
+0 1 12 0
 1
 end_operator
 begin_operator
 drive t0 l0 l2 level1 level2 level3
-1
-1 19
-1
+0
+2
 0 0 0 2
+0 1 19 1
 1
 end_operator
 begin_operator
@@ -386,18 +388,18 @@ drive t0 l0 l2 level9 level2 level11
 end_operator
 begin_operator
 drive t0 l0 l3 level0 level18 level18
-1
-1 10
-1
+0
+2
 0 0 0 3
+0 1 10 0
 1
 end_operator
 begin_operator
 drive t0 l0 l3 level1 level18 level19
-1
-1 11
-1
+0
+2
 0 0 0 3
+0 1 11 1
 1
 end_operator
 begin_operator
@@ -450,18 +452,18 @@ drive t0 l0 l3 level8 level18 level26
 end_operator
 begin_operator
 drive t0 l1 l0 level0 level13 level13
-1
-1 5
-1
+0
+2
 0 0 1 0
+0 1 5 0
 1
 end_operator
 begin_operator
 drive t0 l1 l0 level1 level13 level14
-1
-1 6
-1
+0
+2
 0 0 1 0
+0 1 6 1
 1
 end_operator
 begin_operator
@@ -554,18 +556,18 @@ drive t0 l1 l0 level9 level13 level22
 end_operator
 begin_operator
 drive t0 l1 l2 level0 level3 level3
-1
-1 19
-1
+0
+2
 0 0 1 2
+0 1 19 0
 1
 end_operator
 begin_operator
 drive t0 l1 l2 level1 level3 level4
-1
-1 20
-1
+0
+2
 0 0 1 2
+0 1 20 1
 1
 end_operator
 begin_operator
@@ -738,18 +740,18 @@ drive t0 l1 l2 level9 level3 level12
 end_operator
 begin_operator
 drive t0 l1 l3 level0 level11 level11
-1
-1 3
-1
+0
+2
 0 0 1 3
+0 1 3 0
 1
 end_operator
 begin_operator
 drive t0 l1 l3 level1 level11 level12
-1
-1 4
-1
+0
+2
 0 0 1 3
+0 1 4 1
 1
 end_operator
 begin_operator
@@ -858,18 +860,18 @@ drive t0 l1 l3 level9 level11 level20
 end_operator
 begin_operator
 drive t0 l2 l0 level0 level2 level2
-1
-1 12
-1
+0
+2
 0 0 2 0
+0 1 12 0
 1
 end_operator
 begin_operator
 drive t0 l2 l0 level1 level2 level3
-1
-1 19
-1
+0
+2
 0 0 2 0
+0 1 19 1
 1
 end_operator
 begin_operator
@@ -1050,18 +1052,18 @@ drive t0 l2 l0 level9 level2 level11
 end_operator
 begin_operator
 drive t0 l2 l1 level0 level3 level3
-1
-1 19
-1
+0
+2
 0 0 2 1
+0 1 19 0
 1
 end_operator
 begin_operator
 drive t0 l2 l1 level1 level3 level4
-1
-1 20
-1
+0
+2
 0 0 2 1
+0 1 20 1
 1
 end_operator
 begin_operator
@@ -1234,18 +1236,18 @@ drive t0 l2 l1 level9 level3 level12
 end_operator
 begin_operator
 drive t0 l2 l3 level0 level6 level6
-1
-1 22
-1
+0
+2
 0 0 2 3
+0 1 22 0
 1
 end_operator
 begin_operator
 drive t0 l2 l3 level1 level6 level7
-1
-1 23
-1
+0
+2
 0 0 2 3
+0 1 23 1
 1
 end_operator
 begin_operator
@@ -1394,18 +1396,18 @@ drive t0 l2 l3 level9 level6 level15
 end_operator
 begin_operator
 drive t0 l3 l0 level0 level18 level18
-1
-1 10
-1
+0
+2
 0 0 3 0
+0 1 10 0
 1
 end_operator
 begin_operator
 drive t0 l3 l0 level1 level18 level19
-1
-1 11
-1
+0
+2
 0 0 3 0
+0 1 11 1
 1
 end_operator
 begin_operator
@@ -1458,18 +1460,18 @@ drive t0 l3 l0 level8 level18 level26
 end_operator
 begin_operator
 drive t0 l3 l1 level0 level11 level11
-1
-1 3
-1
+0
+2
 0 0 3 1
+0 1 3 0
 1
 end_operator
 begin_operator
 drive t0 l3 l1 level1 level11 level12
-1
-1 4
-1
+0
+2
 0 0 3 1
+0 1 4 1
 1
 end_operator
 begin_operator
@@ -1578,18 +1580,18 @@ drive t0 l3 l1 level9 level11 level20
 end_operator
 begin_operator
 drive t0 l3 l2 level0 level6 level6
-1
-1 22
-1
+0
+2
 0 0 3 2
+0 1 22 0
 1
 end_operator
 begin_operator
 drive t0 l3 l2 level1 level6 level7
-1
-1 23
-1
+0
+2
 0 0 3 2
+0 1 23 1
 1
 end_operator
 begin_operator

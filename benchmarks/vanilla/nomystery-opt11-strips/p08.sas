@@ -2,425 +2,425 @@ begin_version
 3
 end_version
 begin_metric
-0
+1
 end_metric
 12
 begin_variable
 var0
 -1
 11
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
+Atom at(t0, l0)
+Atom at(t0, l1)
+Atom at(t0, l10)
+Atom at(t0, l2)
+Atom at(t0, l3)
+Atom at(t0, l4)
+Atom at(t0, l5)
+Atom at(t0, l6)
+Atom at(t0, l7)
+Atom at(t0, l8)
+Atom at(t0, l9)
 end_variable
 begin_variable
 var1
 -1
 226
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-32
-33
-34
-35
-36
-37
-38
-39
-40
-41
-42
-43
-44
-45
-46
-47
-48
-49
-50
-51
-52
-53
-54
-55
-56
-57
-58
-59
-60
-61
-62
-63
-64
-65
-66
-67
-68
-69
-70
-71
-72
-73
-74
-75
-76
-77
-78
-79
-80
-81
-82
-83
-84
-85
-86
-87
-88
-89
-90
-91
-92
-93
-94
-95
-96
-97
-98
-99
-100
-101
-102
-103
-104
-105
-106
-107
-108
-109
-110
-111
-112
-113
-114
-115
-116
-117
-118
-119
-120
-121
-122
-123
-124
-125
-126
-127
-128
-129
-130
-131
-132
-133
-134
-135
-136
-137
-138
-139
-140
-141
-142
-143
-144
-145
-146
-147
-148
-149
-150
-151
-152
-153
-154
-155
-156
-157
-158
-159
-160
-161
-162
-163
-164
-165
-166
-167
-168
-169
-170
-171
-172
-173
-174
-175
-176
-177
-178
-179
-180
-181
-182
-183
-184
-185
-186
-187
-188
-189
-190
-191
-192
-193
-194
-195
-196
-197
-198
-199
-200
-201
-202
-203
-204
-205
-206
-207
-208
-209
-210
-211
-212
-213
-214
-215
-216
-217
-218
-219
-220
-221
-222
-223
-224
-225
+Atom fuel(t0, level0)
+Atom fuel(t0, level1)
+Atom fuel(t0, level10)
+Atom fuel(t0, level100)
+Atom fuel(t0, level101)
+Atom fuel(t0, level102)
+Atom fuel(t0, level103)
+Atom fuel(t0, level104)
+Atom fuel(t0, level105)
+Atom fuel(t0, level106)
+Atom fuel(t0, level107)
+Atom fuel(t0, level108)
+Atom fuel(t0, level109)
+Atom fuel(t0, level11)
+Atom fuel(t0, level110)
+Atom fuel(t0, level111)
+Atom fuel(t0, level112)
+Atom fuel(t0, level113)
+Atom fuel(t0, level114)
+Atom fuel(t0, level115)
+Atom fuel(t0, level116)
+Atom fuel(t0, level117)
+Atom fuel(t0, level118)
+Atom fuel(t0, level119)
+Atom fuel(t0, level12)
+Atom fuel(t0, level120)
+Atom fuel(t0, level121)
+Atom fuel(t0, level122)
+Atom fuel(t0, level123)
+Atom fuel(t0, level124)
+Atom fuel(t0, level125)
+Atom fuel(t0, level126)
+Atom fuel(t0, level127)
+Atom fuel(t0, level128)
+Atom fuel(t0, level129)
+Atom fuel(t0, level13)
+Atom fuel(t0, level130)
+Atom fuel(t0, level131)
+Atom fuel(t0, level132)
+Atom fuel(t0, level133)
+Atom fuel(t0, level134)
+Atom fuel(t0, level135)
+Atom fuel(t0, level136)
+Atom fuel(t0, level137)
+Atom fuel(t0, level138)
+Atom fuel(t0, level139)
+Atom fuel(t0, level14)
+Atom fuel(t0, level140)
+Atom fuel(t0, level141)
+Atom fuel(t0, level142)
+Atom fuel(t0, level143)
+Atom fuel(t0, level144)
+Atom fuel(t0, level145)
+Atom fuel(t0, level146)
+Atom fuel(t0, level147)
+Atom fuel(t0, level148)
+Atom fuel(t0, level149)
+Atom fuel(t0, level15)
+Atom fuel(t0, level150)
+Atom fuel(t0, level151)
+Atom fuel(t0, level152)
+Atom fuel(t0, level153)
+Atom fuel(t0, level154)
+Atom fuel(t0, level155)
+Atom fuel(t0, level156)
+Atom fuel(t0, level157)
+Atom fuel(t0, level158)
+Atom fuel(t0, level159)
+Atom fuel(t0, level16)
+Atom fuel(t0, level160)
+Atom fuel(t0, level161)
+Atom fuel(t0, level162)
+Atom fuel(t0, level163)
+Atom fuel(t0, level164)
+Atom fuel(t0, level165)
+Atom fuel(t0, level166)
+Atom fuel(t0, level167)
+Atom fuel(t0, level168)
+Atom fuel(t0, level169)
+Atom fuel(t0, level17)
+Atom fuel(t0, level170)
+Atom fuel(t0, level171)
+Atom fuel(t0, level172)
+Atom fuel(t0, level173)
+Atom fuel(t0, level174)
+Atom fuel(t0, level175)
+Atom fuel(t0, level176)
+Atom fuel(t0, level177)
+Atom fuel(t0, level178)
+Atom fuel(t0, level179)
+Atom fuel(t0, level18)
+Atom fuel(t0, level180)
+Atom fuel(t0, level181)
+Atom fuel(t0, level182)
+Atom fuel(t0, level183)
+Atom fuel(t0, level184)
+Atom fuel(t0, level185)
+Atom fuel(t0, level186)
+Atom fuel(t0, level187)
+Atom fuel(t0, level188)
+Atom fuel(t0, level189)
+Atom fuel(t0, level19)
+Atom fuel(t0, level190)
+Atom fuel(t0, level191)
+Atom fuel(t0, level192)
+Atom fuel(t0, level193)
+Atom fuel(t0, level194)
+Atom fuel(t0, level195)
+Atom fuel(t0, level196)
+Atom fuel(t0, level197)
+Atom fuel(t0, level198)
+Atom fuel(t0, level199)
+Atom fuel(t0, level2)
+Atom fuel(t0, level20)
+Atom fuel(t0, level200)
+Atom fuel(t0, level201)
+Atom fuel(t0, level202)
+Atom fuel(t0, level203)
+Atom fuel(t0, level204)
+Atom fuel(t0, level205)
+Atom fuel(t0, level206)
+Atom fuel(t0, level207)
+Atom fuel(t0, level208)
+Atom fuel(t0, level209)
+Atom fuel(t0, level21)
+Atom fuel(t0, level210)
+Atom fuel(t0, level211)
+Atom fuel(t0, level212)
+Atom fuel(t0, level213)
+Atom fuel(t0, level214)
+Atom fuel(t0, level215)
+Atom fuel(t0, level216)
+Atom fuel(t0, level217)
+Atom fuel(t0, level218)
+Atom fuel(t0, level219)
+Atom fuel(t0, level22)
+Atom fuel(t0, level220)
+Atom fuel(t0, level221)
+Atom fuel(t0, level222)
+Atom fuel(t0, level223)
+Atom fuel(t0, level224)
+Atom fuel(t0, level225)
+Atom fuel(t0, level23)
+Atom fuel(t0, level24)
+Atom fuel(t0, level25)
+Atom fuel(t0, level26)
+Atom fuel(t0, level27)
+Atom fuel(t0, level28)
+Atom fuel(t0, level29)
+Atom fuel(t0, level3)
+Atom fuel(t0, level30)
+Atom fuel(t0, level31)
+Atom fuel(t0, level32)
+Atom fuel(t0, level33)
+Atom fuel(t0, level34)
+Atom fuel(t0, level35)
+Atom fuel(t0, level36)
+Atom fuel(t0, level37)
+Atom fuel(t0, level38)
+Atom fuel(t0, level39)
+Atom fuel(t0, level4)
+Atom fuel(t0, level40)
+Atom fuel(t0, level41)
+Atom fuel(t0, level42)
+Atom fuel(t0, level43)
+Atom fuel(t0, level44)
+Atom fuel(t0, level45)
+Atom fuel(t0, level46)
+Atom fuel(t0, level47)
+Atom fuel(t0, level48)
+Atom fuel(t0, level49)
+Atom fuel(t0, level5)
+Atom fuel(t0, level50)
+Atom fuel(t0, level51)
+Atom fuel(t0, level52)
+Atom fuel(t0, level53)
+Atom fuel(t0, level54)
+Atom fuel(t0, level55)
+Atom fuel(t0, level56)
+Atom fuel(t0, level57)
+Atom fuel(t0, level58)
+Atom fuel(t0, level59)
+Atom fuel(t0, level6)
+Atom fuel(t0, level60)
+Atom fuel(t0, level61)
+Atom fuel(t0, level62)
+Atom fuel(t0, level63)
+Atom fuel(t0, level64)
+Atom fuel(t0, level65)
+Atom fuel(t0, level66)
+Atom fuel(t0, level67)
+Atom fuel(t0, level68)
+Atom fuel(t0, level69)
+Atom fuel(t0, level7)
+Atom fuel(t0, level70)
+Atom fuel(t0, level71)
+Atom fuel(t0, level72)
+Atom fuel(t0, level73)
+Atom fuel(t0, level74)
+Atom fuel(t0, level75)
+Atom fuel(t0, level76)
+Atom fuel(t0, level77)
+Atom fuel(t0, level78)
+Atom fuel(t0, level79)
+Atom fuel(t0, level8)
+Atom fuel(t0, level80)
+Atom fuel(t0, level81)
+Atom fuel(t0, level82)
+Atom fuel(t0, level83)
+Atom fuel(t0, level84)
+Atom fuel(t0, level85)
+Atom fuel(t0, level86)
+Atom fuel(t0, level87)
+Atom fuel(t0, level88)
+Atom fuel(t0, level89)
+Atom fuel(t0, level9)
+Atom fuel(t0, level90)
+Atom fuel(t0, level91)
+Atom fuel(t0, level92)
+Atom fuel(t0, level93)
+Atom fuel(t0, level94)
+Atom fuel(t0, level95)
+Atom fuel(t0, level96)
+Atom fuel(t0, level97)
+Atom fuel(t0, level98)
+Atom fuel(t0, level99)
 end_variable
 begin_variable
 var2
 -1
 12
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
+Atom at(p9, l0)
+Atom at(p9, l1)
+Atom at(p9, l10)
+Atom at(p9, l2)
+Atom at(p9, l3)
+Atom at(p9, l4)
+Atom at(p9, l5)
+Atom at(p9, l6)
+Atom at(p9, l7)
+Atom at(p9, l8)
+Atom at(p9, l9)
+Atom in(p9, t0)
 end_variable
 begin_variable
 var3
 -1
 12
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
+Atom at(p8, l0)
+Atom at(p8, l1)
+Atom at(p8, l10)
+Atom at(p8, l2)
+Atom at(p8, l3)
+Atom at(p8, l4)
+Atom at(p8, l5)
+Atom at(p8, l6)
+Atom at(p8, l7)
+Atom at(p8, l8)
+Atom at(p8, l9)
+Atom in(p8, t0)
 end_variable
 begin_variable
 var4
 -1
 12
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
+Atom at(p7, l0)
+Atom at(p7, l1)
+Atom at(p7, l10)
+Atom at(p7, l2)
+Atom at(p7, l3)
+Atom at(p7, l4)
+Atom at(p7, l5)
+Atom at(p7, l6)
+Atom at(p7, l7)
+Atom at(p7, l8)
+Atom at(p7, l9)
+Atom in(p7, t0)
 end_variable
 begin_variable
 var5
 -1
 12
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
+Atom at(p6, l0)
+Atom at(p6, l1)
+Atom at(p6, l10)
+Atom at(p6, l2)
+Atom at(p6, l3)
+Atom at(p6, l4)
+Atom at(p6, l5)
+Atom at(p6, l6)
+Atom at(p6, l7)
+Atom at(p6, l8)
+Atom at(p6, l9)
+Atom in(p6, t0)
 end_variable
 begin_variable
 var6
 -1
 12
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
+Atom at(p5, l0)
+Atom at(p5, l1)
+Atom at(p5, l10)
+Atom at(p5, l2)
+Atom at(p5, l3)
+Atom at(p5, l4)
+Atom at(p5, l5)
+Atom at(p5, l6)
+Atom at(p5, l7)
+Atom at(p5, l8)
+Atom at(p5, l9)
+Atom in(p5, t0)
 end_variable
 begin_variable
 var7
 -1
 12
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
+Atom at(p4, l0)
+Atom at(p4, l1)
+Atom at(p4, l10)
+Atom at(p4, l2)
+Atom at(p4, l3)
+Atom at(p4, l4)
+Atom at(p4, l5)
+Atom at(p4, l6)
+Atom at(p4, l7)
+Atom at(p4, l8)
+Atom at(p4, l9)
+Atom in(p4, t0)
 end_variable
 begin_variable
 var8
 -1
 12
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
+Atom at(p3, l0)
+Atom at(p3, l1)
+Atom at(p3, l10)
+Atom at(p3, l2)
+Atom at(p3, l3)
+Atom at(p3, l4)
+Atom at(p3, l5)
+Atom at(p3, l6)
+Atom at(p3, l7)
+Atom at(p3, l8)
+Atom at(p3, l9)
+Atom in(p3, t0)
 end_variable
 begin_variable
 var9
 -1
 12
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
+Atom at(p2, l0)
+Atom at(p2, l1)
+Atom at(p2, l10)
+Atom at(p2, l2)
+Atom at(p2, l3)
+Atom at(p2, l4)
+Atom at(p2, l5)
+Atom at(p2, l6)
+Atom at(p2, l7)
+Atom at(p2, l8)
+Atom at(p2, l9)
+Atom in(p2, t0)
 end_variable
 begin_variable
 var10
 -1
 12
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
+Atom at(p1, l0)
+Atom at(p1, l1)
+Atom at(p1, l10)
+Atom at(p1, l2)
+Atom at(p1, l3)
+Atom at(p1, l4)
+Atom at(p1, l5)
+Atom at(p1, l6)
+Atom at(p1, l7)
+Atom at(p1, l8)
+Atom at(p1, l9)
+Atom in(p1, t0)
 end_variable
 begin_variable
 var11
 -1
 12
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
+Atom at(p0, l0)
+Atom at(p0, l1)
+Atom at(p0, l10)
+Atom at(p0, l2)
+Atom at(p0, l3)
+Atom at(p0, l4)
+Atom at(p0, l5)
+Atom at(p0, l6)
+Atom at(p0, l7)
+Atom at(p0, l8)
+Atom at(p0, l9)
+Atom in(p0, t0)
 end_variable
 0
 begin_state

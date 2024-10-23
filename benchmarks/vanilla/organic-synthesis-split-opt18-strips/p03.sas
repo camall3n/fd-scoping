@@ -2,6644 +2,6644 @@ begin_version
 3
 end_version
 begin_metric
-0
+1
 end_metric
 948
 begin_variable
 var0
 -1
 2
-0
-1
+Atom bond(li1, o7)
+NegatedAtom bond(li1, o7)
 end_variable
 begin_variable
 var1
 -1
 2
-0
-1
+Atom bond(o7, li1)
+NegatedAtom bond(o7, li1)
 end_variable
 begin_variable
 var2
 -1
 2
-0
-1
+Atom do_36_54()
+NegatedAtom do_36_54()
 end_variable
 begin_variable
 var3
 -1
 2
-0
-1
+Atom do_36_55()
+NegatedAtom do_36_55()
 end_variable
 begin_variable
 var4
 -1
 2
-0
-1
+Atom do_36_56()
+NegatedAtom do_36_56()
 end_variable
 begin_variable
 var5
 -1
 2
-0
-1
+Atom arg_22(c1)
+NegatedAtom arg_22(c1)
 end_variable
 begin_variable
 var6
 -1
 2
-0
-1
+Atom arg_22(c17)
+NegatedAtom arg_22(c17)
 end_variable
 begin_variable
 var7
 -1
 2
-0
-1
+Atom arg_22(c2)
+NegatedAtom arg_22(c2)
 end_variable
 begin_variable
 var8
 -1
 2
-0
-1
+Atom arg_22(c3)
+NegatedAtom arg_22(c3)
 end_variable
 begin_variable
 var9
 -1
 2
-0
-1
+Atom doublebond(c1, n1)
+NegatedAtom doublebond(c1, n1)
 end_variable
 begin_variable
 var10
 -1
 2
-0
-1
+Atom doublebond(c17, n1)
+NegatedAtom doublebond(c17, n1)
 end_variable
 begin_variable
 var11
 -1
 2
-0
-1
+Atom doublebond(c2, n1)
+NegatedAtom doublebond(c2, n1)
 end_variable
 begin_variable
 var12
 -1
 2
-0
-1
+Atom doublebond(c3, n1)
+NegatedAtom doublebond(c3, n1)
 end_variable
 begin_variable
 var13
 -1
 2
-0
-1
+Atom do_11_9()
+NegatedAtom do_11_9()
 end_variable
 begin_variable
 var14
 -1
 2
-0
-1
+Atom arg_3(al1)
+NegatedAtom arg_3(al1)
 end_variable
 begin_variable
 var15
 -1
 2
-0
-1
+Atom do_15_22()
+NegatedAtom do_15_22()
 end_variable
 begin_variable
 var16
 -1
 2
-0
-1
+Atom do_23_9()
+NegatedAtom do_23_9()
 end_variable
 begin_variable
 var17
 -1
 2
-0
-1
+Atom bond(o7, al1)
+NegatedAtom bond(o7, al1)
 end_variable
 begin_variable
 var18
 -1
 2
-0
-1
+Atom arg_15(h15)
+NegatedAtom arg_15(h15)
 end_variable
 begin_variable
 var19
 -1
 2
-0
-1
+Atom arg_15(h16)
+NegatedAtom arg_15(h16)
 end_variable
 begin_variable
 var20
 -1
 2
-0
-1
+Atom arg_15(h17)
+NegatedAtom arg_15(h17)
 end_variable
 begin_variable
 var21
 -1
 2
-0
-1
+Atom arg_15(h18)
+NegatedAtom arg_15(h18)
 end_variable
 begin_variable
 var22
 -1
 2
-0
-1
+Atom arg_16(n1)
+NegatedAtom arg_16(n1)
 end_variable
 begin_variable
 var23
 -1
 2
-0
-1
+Atom arg_16(o7)
+NegatedAtom arg_16(o7)
 end_variable
 begin_variable
 var24
 -1
 2
-0
-1
+Atom do_19_3()
+NegatedAtom do_19_3()
 end_variable
 begin_variable
 var25
 -1
 2
-0
-1
+Atom do_29_8()
+NegatedAtom do_29_8()
 end_variable
 begin_variable
 var26
 -1
 2
-0
-1
+Atom do_37_17()
+NegatedAtom do_37_17()
 end_variable
 begin_variable
 var27
 -1
 2
-0
-1
+Atom bond(c1, n1)
+NegatedAtom bond(c1, n1)
 end_variable
 begin_variable
 var28
 -1
 2
-0
-1
+Atom bond(n1, c1)
+NegatedAtom bond(n1, c1)
 end_variable
 begin_variable
 var29
 -1
 2
-0
-1
+Atom bond(c2, n1)
+NegatedAtom bond(c2, n1)
 end_variable
 begin_variable
 var30
 -1
 2
-0
-1
+Atom bond(n1, c2)
+NegatedAtom bond(n1, c2)
 end_variable
 begin_variable
 var31
 -1
 2
-0
-1
+Atom do_38_4()
+NegatedAtom do_38_4()
 end_variable
 begin_variable
 var32
 -1
 2
-0
-1
+Atom do_38_5()
+NegatedAtom do_38_5()
 end_variable
 begin_variable
 var33
 -1
 2
-0
-1
+Atom arg_5(o7)
+NegatedAtom arg_5(o7)
 end_variable
 begin_variable
 var34
 -1
 2
-0
-1
+Atom do_36_14()
+NegatedAtom do_36_14()
 end_variable
 begin_variable
 var35
 -1
 2
-0
-1
+Atom do_36_41()
+NegatedAtom do_36_41()
 end_variable
 begin_variable
 var36
 -1
 2
-0
-1
+Atom do_36_42()
+NegatedAtom do_36_42()
 end_variable
 begin_variable
 var37
 -1
 2
-0
-1
+Atom do_36_57()
+NegatedAtom do_36_57()
 end_variable
 begin_variable
 var38
 -1
 2
-0
-1
+Atom do_34_23()
+NegatedAtom do_34_23()
 end_variable
 begin_variable
 var39
 -1
 2
-0
-1
+Atom arg_1(n1)
+NegatedAtom arg_1(n1)
 end_variable
 begin_variable
 var40
 -1
 2
-0
-1
+Atom arg_5(n1)
+NegatedAtom arg_5(n1)
 end_variable
 begin_variable
 var41
 -1
 2
-0
-1
+Atom do_43_41()
+NegatedAtom do_43_41()
 end_variable
 begin_variable
 var42
 -1
 2
-0
-1
+Atom bond(h1, n1)
+NegatedAtom bond(h1, n1)
 end_variable
 begin_variable
 var43
 -1
 2
-0
-1
+Atom bond(h15, n1)
+NegatedAtom bond(h15, n1)
 end_variable
 begin_variable
 var44
 -1
 2
-0
-1
+Atom bond(h16, n1)
+NegatedAtom bond(h16, n1)
 end_variable
 begin_variable
 var45
 -1
 2
-0
-1
+Atom bond(h17, n1)
+NegatedAtom bond(h17, n1)
 end_variable
 begin_variable
 var46
 -1
 2
-0
-1
+Atom bond(h18, n1)
+NegatedAtom bond(h18, n1)
 end_variable
 begin_variable
 var47
 -1
 2
-0
-1
+Atom bond(h19, n1)
+NegatedAtom bond(h19, n1)
 end_variable
 begin_variable
 var48
 -1
 2
-0
-1
+Atom bond(h2, n1)
+NegatedAtom bond(h2, n1)
 end_variable
 begin_variable
 var49
 -1
 2
-0
-1
+Atom bond(h20, n1)
+NegatedAtom bond(h20, n1)
 end_variable
 begin_variable
 var50
 -1
 2
-0
-1
+Atom bond(h21, n1)
+NegatedAtom bond(h21, n1)
 end_variable
 begin_variable
 var51
 -1
 2
-0
-1
+Atom do_43_15()
+NegatedAtom do_43_15()
 end_variable
 begin_variable
 var52
 -1
 2
-0
-1
+Atom do_4_3()
+NegatedAtom do_4_3()
 end_variable
 begin_variable
 var53
 -1
 2
-0
-1
+Atom do_43_16()
+NegatedAtom do_43_16()
 end_variable
 begin_variable
 var54
 -1
 2
-0
-1
+Atom bond(h22, n1)
+NegatedAtom bond(h22, n1)
 end_variable
 begin_variable
 var55
 -1
 2
-0
-1
+Atom bond(h24, n1)
+NegatedAtom bond(h24, n1)
 end_variable
 begin_variable
 var56
 -1
 2
-0
-1
+Atom bond(h26, n1)
+NegatedAtom bond(h26, n1)
 end_variable
 begin_variable
 var57
 -1
 2
-0
-1
+Atom bond(h3, n1)
+NegatedAtom bond(h3, n1)
 end_variable
 begin_variable
 var58
 -1
 2
-0
-1
+Atom bond(h51, n1)
+NegatedAtom bond(h51, n1)
 end_variable
 begin_variable
 var59
 -1
 2
-0
-1
+Atom bond(n1, h1)
+NegatedAtom bond(n1, h1)
 end_variable
 begin_variable
 var60
 -1
 2
-0
-1
+Atom bond(n1, h15)
+NegatedAtom bond(n1, h15)
 end_variable
 begin_variable
 var61
 -1
 2
-0
-1
+Atom bond(n1, h16)
+NegatedAtom bond(n1, h16)
 end_variable
 begin_variable
 var62
 -1
 2
-0
-1
+Atom bond(n1, h17)
+NegatedAtom bond(n1, h17)
 end_variable
 begin_variable
 var63
 -1
 2
-0
-1
+Atom bond(n1, h18)
+NegatedAtom bond(n1, h18)
 end_variable
 begin_variable
 var64
 -1
 2
-0
-1
+Atom bond(n1, h19)
+NegatedAtom bond(n1, h19)
 end_variable
 begin_variable
 var65
 -1
 2
-0
-1
+Atom bond(n1, h2)
+NegatedAtom bond(n1, h2)
 end_variable
 begin_variable
 var66
 -1
 2
-0
-1
+Atom bond(n1, h20)
+NegatedAtom bond(n1, h20)
 end_variable
 begin_variable
 var67
 -1
 2
-0
-1
+Atom bond(n1, h21)
+NegatedAtom bond(n1, h21)
 end_variable
 begin_variable
 var68
 -1
 2
-0
-1
+Atom bond(n1, h22)
+NegatedAtom bond(n1, h22)
 end_variable
 begin_variable
 var69
 -1
 2
-0
-1
+Atom bond(n1, h24)
+NegatedAtom bond(n1, h24)
 end_variable
 begin_variable
 var70
 -1
 2
-0
-1
+Atom bond(n1, h26)
+NegatedAtom bond(n1, h26)
 end_variable
 begin_variable
 var71
 -1
 2
-0
-1
+Atom bond(n1, h3)
+NegatedAtom bond(n1, h3)
 end_variable
 begin_variable
 var72
 -1
 2
-0
-1
+Atom bond(n1, h51)
+NegatedAtom bond(n1, h51)
 end_variable
 begin_variable
 var73
 -1
 2
-0
-1
+Atom do_37_4()
+NegatedAtom do_37_4()
 end_variable
 begin_variable
 var74
 -1
 2
-0
-1
+Atom do_1_4()
+NegatedAtom do_1_4()
 end_variable
 begin_variable
 var75
 -1
 2
-0
-1
+Atom do_34_2()
+NegatedAtom do_34_2()
 end_variable
 begin_variable
 var76
 -1
 2
-0
-1
+Atom do_11_4()
+NegatedAtom do_11_4()
 end_variable
 begin_variable
 var77
 -1
 2
-0
-1
+Atom do_15_6()
+NegatedAtom do_15_6()
 end_variable
 begin_variable
 var78
 -1
 2
-0
-1
+Atom do_23_3()
+NegatedAtom do_23_3()
 end_variable
 begin_variable
 var79
 -1
 2
-0
-1
+Atom do_36_10()
+NegatedAtom do_36_10()
 end_variable
 begin_variable
 var80
 -1
 2
-0
-1
+Atom do_23_10()
+NegatedAtom do_23_10()
 end_variable
 begin_variable
 var81
 -1
 2
-0
-1
+Atom do_36_13()
+NegatedAtom do_36_13()
 end_variable
 begin_variable
 var82
 -1
 2
-0
-1
+Atom do_32_7()
+NegatedAtom do_32_7()
 end_variable
 begin_variable
 var83
 -1
 2
-0
-1
+Atom arg_2(n1)
+NegatedAtom arg_2(n1)
 end_variable
 begin_variable
 var84
 -1
 2
-0
-1
+Atom arg_3(n1)
+NegatedAtom arg_3(n1)
 end_variable
 begin_variable
 var85
 -1
 2
-0
-1
+Atom do_37_5()
+NegatedAtom do_37_5()
 end_variable
 begin_variable
 var86
 -1
 2
-0
-1
+Atom do_1_5()
+NegatedAtom do_1_5()
 end_variable
 begin_variable
 var87
 -1
 2
-0
-1
+Atom do_34_3()
+NegatedAtom do_34_3()
 end_variable
 begin_variable
 var88
 -1
 2
-0
-1
+Atom do_15_7()
+NegatedAtom do_15_7()
 end_variable
 begin_variable
 var89
 -1
 2
-0
-1
+Atom do_23_4()
+NegatedAtom do_23_4()
 end_variable
 begin_variable
 var90
 -1
 2
-0
-1
+Atom do_36_11()
+NegatedAtom do_36_11()
 end_variable
 begin_variable
 var91
 -1
 2
-0
-1
+Atom do_36_12()
+NegatedAtom do_36_12()
 end_variable
 begin_variable
 var92
 -1
 2
-0
-1
+Atom bond(h15, al1)
+NegatedAtom bond(h15, al1)
 end_variable
 begin_variable
 var93
 -1
 2
-0
-1
+Atom arg_1(al1)
+NegatedAtom arg_1(al1)
 end_variable
 begin_variable
 var94
 -1
 2
-0
-1
+Atom bond(al1, h15)
+NegatedAtom bond(al1, h15)
 end_variable
 begin_variable
 var95
 -1
 2
-0
-1
+Atom bond(h16, al1)
+NegatedAtom bond(h16, al1)
 end_variable
 begin_variable
 var96
 -1
 2
-0
-1
+Atom bond(h17, al1)
+NegatedAtom bond(h17, al1)
 end_variable
 begin_variable
 var97
 -1
 2
-0
-1
+Atom bond(h18, al1)
+NegatedAtom bond(h18, al1)
 end_variable
 begin_variable
 var98
 -1
 2
-0
-1
+Atom arg_4(al1)
+NegatedAtom arg_4(al1)
 end_variable
 begin_variable
 var99
 -1
 2
-0
-1
+Atom bond(al1, h16)
+NegatedAtom bond(al1, h16)
 end_variable
 begin_variable
 var100
 -1
 2
-0
-1
+Atom bond(al1, h17)
+NegatedAtom bond(al1, h17)
 end_variable
 begin_variable
 var101
 -1
 2
-0
-1
+Atom bond(al1, h18)
+NegatedAtom bond(al1, h18)
 end_variable
 begin_variable
 var102
 -1
 2
-0
-1
+Atom do_36_43()
+NegatedAtom do_36_43()
 end_variable
 begin_variable
 var103
 -1
 2
-0
-1
+Atom do_16_3()
+NegatedAtom do_16_3()
 end_variable
 begin_variable
 var104
 -1
 2
-0
-1
+Atom do_5_3()
+NegatedAtom do_5_3()
 end_variable
 begin_variable
 var105
 -1
 2
-0
-1
+Atom arg_16(c17)
+NegatedAtom arg_16(c17)
 end_variable
 begin_variable
 var106
 -1
 2
-0
-1
+Atom arg_16(c1)
+NegatedAtom arg_16(c1)
 end_variable
 begin_variable
 var107
 -1
 2
-0
-1
+Atom arg_16(c3)
+NegatedAtom arg_16(c3)
 end_variable
 begin_variable
 var108
 -1
 2
-0
-1
+Atom arg_20(c1)
+NegatedAtom arg_20(c1)
 end_variable
 begin_variable
 var109
 -1
 2
-0
-1
+Atom arg_16(c2)
+NegatedAtom arg_16(c2)
 end_variable
 begin_variable
 var110
 -1
 2
-0
-1
+Atom arg_20(c17)
+NegatedAtom arg_20(c17)
 end_variable
 begin_variable
 var111
 -1
 2
-0
-1
+Atom do_35_7()
+NegatedAtom do_35_7()
 end_variable
 begin_variable
 var112
 -1
 2
-0
-1
+Atom arg_20(c2)
+NegatedAtom arg_20(c2)
 end_variable
 begin_variable
 var113
 -1
 2
-0
-1
+Atom arg_20(c3)
+NegatedAtom arg_20(c3)
 end_variable
 begin_variable
 var114
 -1
 2
-0
-1
+Atom arg_21(c3)
+NegatedAtom arg_21(c3)
 end_variable
 begin_variable
 var115
 -1
 2
-0
-1
+Atom arg_21(c1)
+NegatedAtom arg_21(c1)
 end_variable
 begin_variable
 var116
 -1
 2
-0
-1
+Atom arg_21(c17)
+NegatedAtom arg_21(c17)
 end_variable
 begin_variable
 var117
 -1
 2
-0
-1
+Atom do_35_8()
+NegatedAtom do_35_8()
 end_variable
 begin_variable
 var118
 -1
 2
-0
-1
+Atom arg_21(c2)
+NegatedAtom arg_21(c2)
 end_variable
 begin_variable
 var119
 -1
 2
-0
-1
+Atom do_3_4()
+NegatedAtom do_3_4()
 end_variable
 begin_variable
 var120
 -1
 2
-0
-1
+Atom do_49_6()
+NegatedAtom do_49_6()
 end_variable
 begin_variable
 var121
 -1
 2
-0
-1
+Atom do_50_3()
+NegatedAtom do_50_3()
 end_variable
 begin_variable
 var122
 -1
 2
-0
-1
+Atom do_29_9()
+NegatedAtom do_29_9()
 end_variable
 begin_variable
 var123
 -1
 2
-0
-1
+Atom do_36_58()
+NegatedAtom do_36_58()
 end_variable
 begin_variable
 var124
 -1
 2
-0
-1
+Atom doublebond(o7, c1)
+NegatedAtom doublebond(o7, c1)
 end_variable
 begin_variable
 var125
 -1
 2
-0
-1
+Atom doublebond(c1, o7)
+NegatedAtom doublebond(c1, o7)
 end_variable
 begin_variable
 var126
 -1
 2
-0
-1
+Atom doublebond(o7, c17)
+NegatedAtom doublebond(o7, c17)
 end_variable
 begin_variable
 var127
 -1
 2
-0
-1
+Atom doublebond(c17, o7)
+NegatedAtom doublebond(c17, o7)
 end_variable
 begin_variable
 var128
 -1
 2
-0
-1
+Atom doublebond(o7, c2)
+NegatedAtom doublebond(o7, c2)
 end_variable
 begin_variable
 var129
 -1
 2
-0
-1
+Atom doublebond(c2, o7)
+NegatedAtom doublebond(c2, o7)
 end_variable
 begin_variable
 var130
 -1
 2
-0
-1
+Atom doublebond(o7, c3)
+NegatedAtom doublebond(o7, c3)
 end_variable
 begin_variable
 var131
 -1
 2
-0
-1
+Atom doublebond(c3, o7)
+NegatedAtom doublebond(c3, o7)
 end_variable
 begin_variable
 var132
 -1
 2
-0
-1
+Atom do_39_5()
+NegatedAtom do_39_5()
 end_variable
 begin_variable
 var133
 -1
 2
-0
-1
+Atom do_39_6()
+NegatedAtom do_39_6()
 end_variable
 begin_variable
 var134
 -1
 2
-0
-1
+Atom do_43_27()
+NegatedAtom do_43_27()
 end_variable
 begin_variable
 var135
 -1
 2
-0
-1
+Atom arg_19(c17)
+NegatedAtom arg_19(c17)
 end_variable
 begin_variable
 var136
 -1
 2
-0
-1
+Atom arg_19(c1)
+NegatedAtom arg_19(c1)
 end_variable
 begin_variable
 var137
 -1
 2
-0
-1
+Atom arg_19(c3)
+NegatedAtom arg_19(c3)
 end_variable
 begin_variable
 var138
 -1
 2
-0
-1
+Atom arg_19(c2)
+NegatedAtom arg_19(c2)
 end_variable
 begin_variable
 var139
 -1
 2
-0
-1
+Atom do_19_2()
+NegatedAtom do_19_2()
 end_variable
 begin_variable
 var140
 -1
 2
-0
-1
+Atom do_2_2()
+NegatedAtom do_2_2()
 end_variable
 begin_variable
 var141
 -1
 2
-0
-1
+Atom do_2_3()
+NegatedAtom do_2_3()
 end_variable
 begin_variable
 var142
 -1
 2
-0
-1
+Atom do_38_2()
+NegatedAtom do_38_2()
 end_variable
 begin_variable
 var143
 -1
 2
-0
-1
+Atom do_38_3()
+NegatedAtom do_38_3()
 end_variable
 begin_variable
 var144
 -1
 2
-0
-1
+Atom do_18_34()
+NegatedAtom do_18_34()
 end_variable
 begin_variable
 var145
 -1
 2
-0
-1
+Atom do_19_4()
+NegatedAtom do_19_4()
 end_variable
 begin_variable
 var146
 -1
 2
-0
-1
+Atom do_35_11()
+NegatedAtom do_35_11()
 end_variable
 begin_variable
 var147
 -1
 2
-0
-1
+Atom do_35_10()
+NegatedAtom do_35_10()
 end_variable
 begin_variable
 var148
 -1
 2
-0
-1
+Atom do_35_9()
+NegatedAtom do_35_9()
 end_variable
 begin_variable
 var149
 -1
 2
-0
-1
+Atom do_35_12()
+NegatedAtom do_35_12()
 end_variable
 begin_variable
 var150
 -1
 2
-0
-1
+Atom do_5_2()
+NegatedAtom do_5_2()
 end_variable
 begin_variable
 var151
 -1
 2
-0
-1
+Atom do_4_2()
+NegatedAtom do_4_2()
 end_variable
 begin_variable
 var152
 -1
 2
-0
-1
+Atom bond(c1, o7)
+NegatedAtom bond(c1, o7)
 end_variable
 begin_variable
 var153
 -1
 2
-0
-1
+Atom bond(c17, o7)
+NegatedAtom bond(c17, o7)
 end_variable
 begin_variable
 var154
 -1
 2
-0
-1
+Atom do_35_6()
+NegatedAtom do_35_6()
 end_variable
 begin_variable
 var155
 -1
 2
-0
-1
+Atom bond(c2, o7)
+NegatedAtom bond(c2, o7)
 end_variable
 begin_variable
 var156
 -1
 2
-0
-1
+Atom bond(c3, o7)
+NegatedAtom bond(c3, o7)
 end_variable
 begin_variable
 var157
 -1
 2
-0
-1
+Atom bond(o7, c1)
+NegatedAtom bond(o7, c1)
 end_variable
 begin_variable
 var158
 -1
 2
-0
-1
+Atom bond(o7, c17)
+NegatedAtom bond(o7, c17)
 end_variable
 begin_variable
 var159
 -1
 2
-0
-1
+Atom do_23_2()
+NegatedAtom do_23_2()
 end_variable
 begin_variable
 var160
 -1
 2
-0
-1
+Atom bond(o7, c2)
+NegatedAtom bond(o7, c2)
 end_variable
 begin_variable
 var161
 -1
 2
-0
-1
+Atom bond(o7, c3)
+NegatedAtom bond(o7, c3)
 end_variable
 begin_variable
 var162
 -1
 2
-0
-1
+Atom do_15_8()
+NegatedAtom do_15_8()
 end_variable
 begin_variable
 var163
 -1
 2
-0
-1
+Atom do_36_47()
+NegatedAtom do_36_47()
 end_variable
 begin_variable
 var164
 -1
 2
-0
-1
+Atom do_39_4()
+NegatedAtom do_39_4()
 end_variable
 begin_variable
 var165
 -1
 2
-0
-1
+Atom do_49_5()
+NegatedAtom do_49_5()
 end_variable
 begin_variable
 var166
 -1
 2
-0
-1
+Atom do_49_7()
+NegatedAtom do_49_7()
 end_variable
 begin_variable
 var167
 -1
 2
-0
-1
+Atom do_3_5()
+NegatedAtom do_3_5()
 end_variable
 begin_variable
 var168
 -1
 2
-0
-1
+Atom do_50_2()
+NegatedAtom do_50_2()
 end_variable
 begin_variable
 var169
 -1
 2
-0
-1
+Atom do_39_7()
+NegatedAtom do_39_7()
 end_variable
 begin_variable
 var170
 -1
 2
-0
-1
+Atom do_38_24()
+NegatedAtom do_38_24()
 end_variable
 begin_variable
 var171
 -1
 2
-0
-1
+Atom do_36_44()
+NegatedAtom do_36_44()
 end_variable
 begin_variable
 var172
 -1
 2
-0
-1
+Atom do_36_45()
+NegatedAtom do_36_45()
 end_variable
 begin_variable
 var173
 -1
 2
-0
-1
+Atom do_36_46()
+NegatedAtom do_36_46()
 end_variable
 begin_variable
 var174
 -1
 2
-0
-1
+Atom do_43_7()
+NegatedAtom do_43_7()
 end_variable
 begin_variable
 var175
 -1
 2
-0
-1
+Atom do_37_18()
+NegatedAtom do_37_18()
 end_variable
 begin_variable
 var176
 -1
 2
-0
-1
+Atom arg_5(h1)
+NegatedAtom arg_5(h1)
 end_variable
 begin_variable
 var177
 -1
 2
-0
-1
+Atom arg_5(h15)
+NegatedAtom arg_5(h15)
 end_variable
 begin_variable
 var178
 -1
 2
-0
-1
+Atom arg_5(h16)
+NegatedAtom arg_5(h16)
 end_variable
 begin_variable
 var179
 -1
 2
-0
-1
+Atom do_33_7()
+NegatedAtom do_33_7()
 end_variable
 begin_variable
 var180
 -1
 2
-0
-1
+Atom arg_5(h17)
+NegatedAtom arg_5(h17)
 end_variable
 begin_variable
 var181
 -1
 2
-0
-1
+Atom arg_5(h18)
+NegatedAtom arg_5(h18)
 end_variable
 begin_variable
 var182
 -1
 2
-0
-1
+Atom arg_5(h19)
+NegatedAtom arg_5(h19)
 end_variable
 begin_variable
 var183
 -1
 2
-0
-1
+Atom arg_5(h2)
+NegatedAtom arg_5(h2)
 end_variable
 begin_variable
 var184
 -1
 2
-0
-1
+Atom arg_5(h20)
+NegatedAtom arg_5(h20)
 end_variable
 begin_variable
 var185
 -1
 2
-0
-1
+Atom do_33_10()
+NegatedAtom do_33_10()
 end_variable
 begin_variable
 var186
 -1
 2
-0
-1
+Atom arg_5(h21)
+NegatedAtom arg_5(h21)
 end_variable
 begin_variable
 var187
 -1
 2
-0
-1
+Atom arg_5(h22)
+NegatedAtom arg_5(h22)
 end_variable
 begin_variable
 var188
 -1
 2
-0
-1
+Atom arg_5(h24)
+NegatedAtom arg_5(h24)
 end_variable
 begin_variable
 var189
 -1
 2
-0
-1
+Atom arg_5(h26)
+NegatedAtom arg_5(h26)
 end_variable
 begin_variable
 var190
 -1
 2
-0
-1
+Atom arg_5(h3)
+NegatedAtom arg_5(h3)
 end_variable
 begin_variable
 var191
 -1
 2
-0
-1
+Atom do_33_11()
+NegatedAtom do_33_11()
 end_variable
 begin_variable
 var192
 -1
 2
-0
-1
+Atom arg_5(h51)
+NegatedAtom arg_5(h51)
 end_variable
 begin_variable
 var193
 -1
 2
-0
-1
+Atom do_11_3()
+NegatedAtom do_11_3()
 end_variable
 begin_variable
 var194
 -1
 2
-0
-1
+Atom arg_5(h50)
+NegatedAtom arg_5(h50)
 end_variable
 begin_variable
 var195
 -1
 2
-0
-1
+Atom do_29_5()
+NegatedAtom do_29_5()
 end_variable
 begin_variable
 var196
 -1
 2
-0
-1
+Atom do_15_4()
+NegatedAtom do_15_4()
 end_variable
 begin_variable
 var197
 -1
 2
-0
-1
+Atom do_15_5()
+NegatedAtom do_15_5()
 end_variable
 begin_variable
 var198
 -1
 2
-0
-1
+Atom do_21_2()
+NegatedAtom do_21_2()
 end_variable
 begin_variable
 var199
 -1
 2
-0
-1
+Atom do_25_2()
+NegatedAtom do_25_2()
 end_variable
 begin_variable
 var200
 -1
 2
-0
-1
+Atom arg_15(c1)
+NegatedAtom arg_15(c1)
 end_variable
 begin_variable
 var201
 -1
 2
-0
-1
+Atom arg_15(c17)
+NegatedAtom arg_15(c17)
 end_variable
 begin_variable
 var202
 -1
 2
-0
-1
+Atom do_21_3()
+NegatedAtom do_21_3()
 end_variable
 begin_variable
 var203
 -1
 2
-0
-1
+Atom arg_15(c2)
+NegatedAtom arg_15(c2)
 end_variable
 begin_variable
 var204
 -1
 2
-0
-1
+Atom arg_15(c3)
+NegatedAtom arg_15(c3)
 end_variable
 begin_variable
 var205
 -1
 2
-0
-1
+Atom do_35_2()
+NegatedAtom do_35_2()
 end_variable
 begin_variable
 var206
 -1
 2
-0
-1
+Atom do_35_3()
+NegatedAtom do_35_3()
 end_variable
 begin_variable
 var207
 -1
 2
-0
-1
+Atom do_35_4()
+NegatedAtom do_35_4()
 end_variable
 begin_variable
 var208
 -1
 2
-0
-1
+Atom do_35_5()
+NegatedAtom do_35_5()
 end_variable
 begin_variable
 var209
 -1
 2
-0
-1
+Atom do_43_2()
+NegatedAtom do_43_2()
 end_variable
 begin_variable
 var210
 -1
 2
-0
-1
+Atom do_43_3()
+NegatedAtom do_43_3()
 end_variable
 begin_variable
 var211
 -1
 2
-0
-1
+Atom do_49_4()
+NegatedAtom do_49_4()
 end_variable
 begin_variable
 var212
 -1
 2
-0
-1
+Atom do_21_9()
+NegatedAtom do_21_9()
 end_variable
 begin_variable
 var213
 -1
 2
-0
-1
+Atom do_21_6()
+NegatedAtom do_21_6()
 end_variable
 begin_variable
 var214
 -1
 2
-0
-1
+Atom do_21_4()
+NegatedAtom do_21_4()
 end_variable
 begin_variable
 var215
 -1
 2
-0
-1
+Atom do_43_4()
+NegatedAtom do_43_4()
 end_variable
 begin_variable
 var216
 -1
 2
-0
-1
+Atom do_21_7()
+NegatedAtom do_21_7()
 end_variable
 begin_variable
 var217
 -1
 2
-0
-1
+Atom do_21_5()
+NegatedAtom do_21_5()
 end_variable
 begin_variable
 var218
 -1
 2
-0
-1
+Atom do_21_8()
+NegatedAtom do_21_8()
 end_variable
 begin_variable
 var219
 -1
 2
-0
-1
+Atom do_43_14()
+NegatedAtom do_43_14()
 end_variable
 begin_variable
 var220
 -1
 2
-0
-1
+Atom do_23_11()
+NegatedAtom do_23_11()
 end_variable
 begin_variable
 var221
 -1
 2
-0
-1
+Atom do_34_21()
+NegatedAtom do_34_21()
 end_variable
 begin_variable
 var222
 -1
 2
-0
-1
+Atom do_29_10()
+NegatedAtom do_29_10()
 end_variable
 begin_variable
 var223
 -1
 2
-0
-1
+Atom do_37_19()
+NegatedAtom do_37_19()
 end_variable
 begin_variable
 var224
 -1
 2
-0
-1
+Atom do_34_22()
+NegatedAtom do_34_22()
 end_variable
 begin_variable
 var225
 -1
 2
-0
-1
+Atom do_37_20()
+NegatedAtom do_37_20()
 end_variable
 begin_variable
 var226
 -1
 2
-0
-1
+Atom do_11_2()
+NegatedAtom do_11_2()
 end_variable
 begin_variable
 var227
 -1
 2
-0
-1
+Atom do_11_10()
+NegatedAtom do_11_10()
 end_variable
 begin_variable
 var228
 -1
 2
-0
-1
+Atom bond(h51, c1)
+NegatedAtom bond(h51, c1)
 end_variable
 begin_variable
 var229
 -1
 2
-0
-1
+Atom bond(h1, c17)
+NegatedAtom bond(h1, c17)
 end_variable
 begin_variable
 var230
 -1
 2
-0
-1
+Atom bond(h1, c2)
+NegatedAtom bond(h1, c2)
 end_variable
 begin_variable
 var231
 -1
 2
-0
-1
+Atom bond(h1, c3)
+NegatedAtom bond(h1, c3)
 end_variable
 begin_variable
 var232
 -1
 2
-0
-1
+Atom bond(h19, c1)
+NegatedAtom bond(h19, c1)
 end_variable
 begin_variable
 var233
 -1
 2
-0
-1
+Atom bond(h19, c17)
+NegatedAtom bond(h19, c17)
 end_variable
 begin_variable
 var234
 -1
 2
-0
-1
+Atom bond(h19, c3)
+NegatedAtom bond(h19, c3)
 end_variable
 begin_variable
 var235
 -1
 2
-0
-1
+Atom bond(h2, c17)
+NegatedAtom bond(h2, c17)
 end_variable
 begin_variable
 var236
 -1
 2
-0
-1
+Atom bond(h2, c2)
+NegatedAtom bond(h2, c2)
 end_variable
 begin_variable
 var237
 -1
 2
-0
-1
+Atom bond(h2, c3)
+NegatedAtom bond(h2, c3)
 end_variable
 begin_variable
 var238
 -1
 2
-0
-1
+Atom bond(h20, c1)
+NegatedAtom bond(h20, c1)
 end_variable
 begin_variable
 var239
 -1
 2
-0
-1
+Atom bond(h20, c17)
+NegatedAtom bond(h20, c17)
 end_variable
 begin_variable
 var240
 -1
 2
-0
-1
+Atom bond(h20, c3)
+NegatedAtom bond(h20, c3)
 end_variable
 begin_variable
 var241
 -1
 2
-0
-1
+Atom bond(h21, c1)
+NegatedAtom bond(h21, c1)
 end_variable
 begin_variable
 var242
 -1
 2
-0
-1
+Atom bond(h21, c17)
+NegatedAtom bond(h21, c17)
 end_variable
 begin_variable
 var243
 -1
 2
-0
-1
+Atom bond(h21, c2)
+NegatedAtom bond(h21, c2)
 end_variable
 begin_variable
 var244
 -1
 2
-0
-1
+Atom bond(h22, c1)
+NegatedAtom bond(h22, c1)
 end_variable
 begin_variable
 var245
 -1
 2
-0
-1
+Atom bond(h22, c17)
+NegatedAtom bond(h22, c17)
 end_variable
 begin_variable
 var246
 -1
 2
-0
-1
+Atom bond(h22, c2)
+NegatedAtom bond(h22, c2)
 end_variable
 begin_variable
 var247
 -1
 2
-0
-1
+Atom bond(h24, c1)
+NegatedAtom bond(h24, c1)
 end_variable
 begin_variable
 var248
 -1
 2
-0
-1
+Atom bond(h24, c2)
+NegatedAtom bond(h24, c2)
 end_variable
 begin_variable
 var249
 -1
 2
-0
-1
+Atom bond(h24, c3)
+NegatedAtom bond(h24, c3)
 end_variable
 begin_variable
 var250
 -1
 2
-0
-1
+Atom bond(h26, c1)
+NegatedAtom bond(h26, c1)
 end_variable
 begin_variable
 var251
 -1
 2
-0
-1
+Atom bond(h26, c2)
+NegatedAtom bond(h26, c2)
 end_variable
 begin_variable
 var252
 -1
 2
-0
-1
+Atom bond(h26, c3)
+NegatedAtom bond(h26, c3)
 end_variable
 begin_variable
 var253
 -1
 2
-0
-1
+Atom bond(h3, c17)
+NegatedAtom bond(h3, c17)
 end_variable
 begin_variable
 var254
 -1
 2
-0
-1
+Atom bond(h3, c2)
+NegatedAtom bond(h3, c2)
 end_variable
 begin_variable
 var255
 -1
 2
-0
-1
+Atom bond(h3, c3)
+NegatedAtom bond(h3, c3)
 end_variable
 begin_variable
 var256
 -1
 2
-0
-1
+Atom bond(h50, c1)
+NegatedAtom bond(h50, c1)
 end_variable
 begin_variable
 var257
 -1
 2
-0
-1
+Atom bond(h50, c17)
+NegatedAtom bond(h50, c17)
 end_variable
 begin_variable
 var258
 -1
 2
-0
-1
+Atom bond(h50, c2)
+NegatedAtom bond(h50, c2)
 end_variable
 begin_variable
 var259
 -1
 2
-0
-1
+Atom bond(h50, c3)
+NegatedAtom bond(h50, c3)
 end_variable
 begin_variable
 var260
 -1
 2
-0
-1
+Atom bond(h51, c17)
+NegatedAtom bond(h51, c17)
 end_variable
 begin_variable
 var261
 -1
 2
-0
-1
+Atom bond(h51, c2)
+NegatedAtom bond(h51, c2)
 end_variable
 begin_variable
 var262
 -1
 2
-0
-1
+Atom bond(h51, c3)
+NegatedAtom bond(h51, c3)
 end_variable
 begin_variable
 var263
 -1
 2
-0
-1
+Atom do_15_23()
+NegatedAtom do_15_23()
 end_variable
 begin_variable
 var264
 -1
 2
-0
-1
+Atom do_3_3()
+NegatedAtom do_3_3()
 end_variable
 begin_variable
 var265
 -1
 2
-0
-1
+Atom do_18_7()
+NegatedAtom do_18_7()
 end_variable
 begin_variable
 var266
 -1
 2
-0
-1
+Atom bond(c1, h51)
+NegatedAtom bond(c1, h51)
 end_variable
 begin_variable
 var267
 -1
 2
-0
-1
+Atom bond(c17, h1)
+NegatedAtom bond(c17, h1)
 end_variable
 begin_variable
 var268
 -1
 2
-0
-1
+Atom bond(c2, h1)
+NegatedAtom bond(c2, h1)
 end_variable
 begin_variable
 var269
 -1
 2
-0
-1
+Atom bond(c3, h1)
+NegatedAtom bond(c3, h1)
 end_variable
 begin_variable
 var270
 -1
 2
-0
-1
+Atom bond(c1, h19)
+NegatedAtom bond(c1, h19)
 end_variable
 begin_variable
 var271
 -1
 2
-0
-1
+Atom bond(c17, h19)
+NegatedAtom bond(c17, h19)
 end_variable
 begin_variable
 var272
 -1
 2
-0
-1
+Atom bond(c3, h19)
+NegatedAtom bond(c3, h19)
 end_variable
 begin_variable
 var273
 -1
 2
-0
-1
+Atom bond(c17, h2)
+NegatedAtom bond(c17, h2)
 end_variable
 begin_variable
 var274
 -1
 2
-0
-1
+Atom bond(c2, h2)
+NegatedAtom bond(c2, h2)
 end_variable
 begin_variable
 var275
 -1
 2
-0
-1
+Atom bond(c3, h2)
+NegatedAtom bond(c3, h2)
 end_variable
 begin_variable
 var276
 -1
 2
-0
-1
+Atom bond(c1, h20)
+NegatedAtom bond(c1, h20)
 end_variable
 begin_variable
 var277
 -1
 2
-0
-1
+Atom bond(c17, h20)
+NegatedAtom bond(c17, h20)
 end_variable
 begin_variable
 var278
 -1
 2
-0
-1
+Atom bond(c3, h20)
+NegatedAtom bond(c3, h20)
 end_variable
 begin_variable
 var279
 -1
 2
-0
-1
+Atom bond(c1, h21)
+NegatedAtom bond(c1, h21)
 end_variable
 begin_variable
 var280
 -1
 2
-0
-1
+Atom bond(c17, h21)
+NegatedAtom bond(c17, h21)
 end_variable
 begin_variable
 var281
 -1
 2
-0
-1
+Atom bond(c2, h21)
+NegatedAtom bond(c2, h21)
 end_variable
 begin_variable
 var282
 -1
 2
-0
-1
+Atom bond(c1, h22)
+NegatedAtom bond(c1, h22)
 end_variable
 begin_variable
 var283
 -1
 2
-0
-1
+Atom bond(c17, h22)
+NegatedAtom bond(c17, h22)
 end_variable
 begin_variable
 var284
 -1
 2
-0
-1
+Atom bond(c2, h22)
+NegatedAtom bond(c2, h22)
 end_variable
 begin_variable
 var285
 -1
 2
-0
-1
+Atom bond(c1, h24)
+NegatedAtom bond(c1, h24)
 end_variable
 begin_variable
 var286
 -1
 2
-0
-1
+Atom bond(c2, h24)
+NegatedAtom bond(c2, h24)
 end_variable
 begin_variable
 var287
 -1
 2
-0
-1
+Atom bond(c3, h24)
+NegatedAtom bond(c3, h24)
 end_variable
 begin_variable
 var288
 -1
 2
-0
-1
+Atom bond(c1, h26)
+NegatedAtom bond(c1, h26)
 end_variable
 begin_variable
 var289
 -1
 2
-0
-1
+Atom bond(c2, h26)
+NegatedAtom bond(c2, h26)
 end_variable
 begin_variable
 var290
 -1
 2
-0
-1
+Atom bond(c3, h26)
+NegatedAtom bond(c3, h26)
 end_variable
 begin_variable
 var291
 -1
 2
-0
-1
+Atom bond(c17, h3)
+NegatedAtom bond(c17, h3)
 end_variable
 begin_variable
 var292
 -1
 2
-0
-1
+Atom bond(c2, h3)
+NegatedAtom bond(c2, h3)
 end_variable
 begin_variable
 var293
 -1
 2
-0
-1
+Atom bond(c3, h3)
+NegatedAtom bond(c3, h3)
 end_variable
 begin_variable
 var294
 -1
 2
-0
-1
+Atom bond(c1, h50)
+NegatedAtom bond(c1, h50)
 end_variable
 begin_variable
 var295
 -1
 2
-0
-1
+Atom bond(c17, h50)
+NegatedAtom bond(c17, h50)
 end_variable
 begin_variable
 var296
 -1
 2
-0
-1
+Atom bond(c2, h50)
+NegatedAtom bond(c2, h50)
 end_variable
 begin_variable
 var297
 -1
 2
-0
-1
+Atom bond(c3, h50)
+NegatedAtom bond(c3, h50)
 end_variable
 begin_variable
 var298
 -1
 2
-0
-1
+Atom arg_16(h50)
+NegatedAtom arg_16(h50)
 end_variable
 begin_variable
 var299
 -1
 2
-0
-1
+Atom bond(c17, h51)
+NegatedAtom bond(c17, h51)
 end_variable
 begin_variable
 var300
 -1
 2
-0
-1
+Atom bond(c2, h51)
+NegatedAtom bond(c2, h51)
 end_variable
 begin_variable
 var301
 -1
 2
-0
-1
+Atom bond(c3, h51)
+NegatedAtom bond(c3, h51)
 end_variable
 begin_variable
 var302
 -1
 2
-0
-1
+Atom arg_16(h51)
+NegatedAtom arg_16(h51)
 end_variable
 begin_variable
 var303
 -1
 2
-0
-1
+Atom arg_16(h1)
+NegatedAtom arg_16(h1)
 end_variable
 begin_variable
 var304
 -1
 2
-0
-1
+Atom arg_16(h19)
+NegatedAtom arg_16(h19)
 end_variable
 begin_variable
 var305
 -1
 2
-0
-1
+Atom arg_16(h2)
+NegatedAtom arg_16(h2)
 end_variable
 begin_variable
 var306
 -1
 2
-0
-1
+Atom arg_16(h20)
+NegatedAtom arg_16(h20)
 end_variable
 begin_variable
 var307
 -1
 2
-0
-1
+Atom arg_16(h21)
+NegatedAtom arg_16(h21)
 end_variable
 begin_variable
 var308
 -1
 2
-0
-1
+Atom arg_16(h22)
+NegatedAtom arg_16(h22)
 end_variable
 begin_variable
 var309
 -1
 2
-0
-1
+Atom arg_16(h24)
+NegatedAtom arg_16(h24)
 end_variable
 begin_variable
 var310
 -1
 2
-0
-1
+Atom arg_16(h26)
+NegatedAtom arg_16(h26)
 end_variable
 begin_variable
 var311
 -1
 2
-0
-1
+Atom arg_16(h3)
+NegatedAtom arg_16(h3)
 end_variable
 begin_variable
 var312
 -1
 2
-0
-1
+Atom bond(h15, c1)
+NegatedAtom bond(h15, c1)
 end_variable
 begin_variable
 var313
 -1
 2
-0
-1
+Atom bond(h15, c2)
+NegatedAtom bond(h15, c2)
 end_variable
 begin_variable
 var314
 -1
 2
-0
-1
+Atom bond(h15, c3)
+NegatedAtom bond(h15, c3)
 end_variable
 begin_variable
 var315
 -1
 2
-0
-1
+Atom bond(h16, c1)
+NegatedAtom bond(h16, c1)
 end_variable
 begin_variable
 var316
 -1
 2
-0
-1
+Atom bond(h16, c17)
+NegatedAtom bond(h16, c17)
 end_variable
 begin_variable
 var317
 -1
 2
-0
-1
+Atom bond(h16, c2)
+NegatedAtom bond(h16, c2)
 end_variable
 begin_variable
 var318
 -1
 2
-0
-1
+Atom bond(h16, c3)
+NegatedAtom bond(h16, c3)
 end_variable
 begin_variable
 var319
 -1
 2
-0
-1
+Atom bond(h17, c1)
+NegatedAtom bond(h17, c1)
 end_variable
 begin_variable
 var320
 -1
 2
-0
-1
+Atom bond(h17, c17)
+NegatedAtom bond(h17, c17)
 end_variable
 begin_variable
 var321
 -1
 2
-0
-1
+Atom bond(h17, c2)
+NegatedAtom bond(h17, c2)
 end_variable
 begin_variable
 var322
 -1
 2
-0
-1
+Atom bond(h17, c3)
+NegatedAtom bond(h17, c3)
 end_variable
 begin_variable
 var323
 -1
 2
-0
-1
+Atom bond(h18, c1)
+NegatedAtom bond(h18, c1)
 end_variable
 begin_variable
 var324
 -1
 2
-0
-1
+Atom bond(h18, c17)
+NegatedAtom bond(h18, c17)
 end_variable
 begin_variable
 var325
 -1
 2
-0
-1
+Atom bond(h18, c2)
+NegatedAtom bond(h18, c2)
 end_variable
 begin_variable
 var326
 -1
 2
-0
-1
+Atom bond(h18, c3)
+NegatedAtom bond(h18, c3)
 end_variable
 begin_variable
 var327
 -1
 2
-0
-1
+Atom arg_1(h1)
+NegatedAtom arg_1(h1)
 end_variable
 begin_variable
 var328
 -1
 2
-0
-1
+Atom arg_1(h15)
+NegatedAtom arg_1(h15)
 end_variable
 begin_variable
 var329
 -1
 2
-0
-1
+Atom bond(c1, h15)
+NegatedAtom bond(c1, h15)
 end_variable
 begin_variable
 var330
 -1
 2
-0
-1
+Atom bond(c2, h15)
+NegatedAtom bond(c2, h15)
 end_variable
 begin_variable
 var331
 -1
 2
-0
-1
+Atom bond(c3, h15)
+NegatedAtom bond(c3, h15)
 end_variable
 begin_variable
 var332
 -1
 2
-0
-1
+Atom arg_16(h15)
+NegatedAtom arg_16(h15)
 end_variable
 begin_variable
 var333
 -1
 2
-0
-1
+Atom arg_1(h16)
+NegatedAtom arg_1(h16)
 end_variable
 begin_variable
 var334
 -1
 2
-0
-1
+Atom arg_16(h17)
+NegatedAtom arg_16(h17)
 end_variable
 begin_variable
 var335
 -1
 2
-0
-1
+Atom arg_16(h18)
+NegatedAtom arg_16(h18)
 end_variable
 begin_variable
 var336
 -1
 2
-0
-1
+Atom bond(c1, h16)
+NegatedAtom bond(c1, h16)
 end_variable
 begin_variable
 var337
 -1
 2
-0
-1
+Atom bond(c17, h16)
+NegatedAtom bond(c17, h16)
 end_variable
 begin_variable
 var338
 -1
 2
-0
-1
+Atom arg_16(h16)
+NegatedAtom arg_16(h16)
 end_variable
 begin_variable
 var339
 -1
 2
-0
-1
+Atom bond(c2, h16)
+NegatedAtom bond(c2, h16)
 end_variable
 begin_variable
 var340
 -1
 2
-0
-1
+Atom bond(c3, h16)
+NegatedAtom bond(c3, h16)
 end_variable
 begin_variable
 var341
 -1
 2
-0
-1
+Atom arg_1(h17)
+NegatedAtom arg_1(h17)
 end_variable
 begin_variable
 var342
 -1
 2
-0
-1
+Atom bond(c1, h17)
+NegatedAtom bond(c1, h17)
 end_variable
 begin_variable
 var343
 -1
 2
-0
-1
+Atom bond(c17, h17)
+NegatedAtom bond(c17, h17)
 end_variable
 begin_variable
 var344
 -1
 2
-0
-1
+Atom bond(c2, h17)
+NegatedAtom bond(c2, h17)
 end_variable
 begin_variable
 var345
 -1
 2
-0
-1
+Atom bond(c3, h17)
+NegatedAtom bond(c3, h17)
 end_variable
 begin_variable
 var346
 -1
 2
-0
-1
+Atom arg_1(h18)
+NegatedAtom arg_1(h18)
 end_variable
 begin_variable
 var347
 -1
 2
-0
-1
+Atom bond(c1, h18)
+NegatedAtom bond(c1, h18)
 end_variable
 begin_variable
 var348
 -1
 2
-0
-1
+Atom bond(c17, h18)
+NegatedAtom bond(c17, h18)
 end_variable
 begin_variable
 var349
 -1
 2
-0
-1
+Atom bond(c2, h18)
+NegatedAtom bond(c2, h18)
 end_variable
 begin_variable
 var350
 -1
 2
-0
-1
+Atom bond(c3, h18)
+NegatedAtom bond(c3, h18)
 end_variable
 begin_variable
 var351
 -1
 2
-0
-1
+Atom do_36_53()
+NegatedAtom do_36_53()
 end_variable
 begin_variable
 var352
 -1
 2
-0
-1
+Atom arg_1(h19)
+NegatedAtom arg_1(h19)
 end_variable
 begin_variable
 var353
 -1
 2
-0
-1
+Atom arg_1(h2)
+NegatedAtom arg_1(h2)
 end_variable
 begin_variable
 var354
 -1
 2
-0
-1
+Atom arg_1(h20)
+NegatedAtom arg_1(h20)
 end_variable
 begin_variable
 var355
 -1
 2
-0
-1
+Atom arg_1(h21)
+NegatedAtom arg_1(h21)
 end_variable
 begin_variable
 var356
 -1
 2
-0
-1
+Atom do_36_40()
+NegatedAtom do_36_40()
 end_variable
 begin_variable
 var357
 -1
 2
-0
-1
+Atom arg_1(h22)
+NegatedAtom arg_1(h22)
 end_variable
 begin_variable
 var358
 -1
 2
-0
-1
+Atom arg_1(h24)
+NegatedAtom arg_1(h24)
 end_variable
 begin_variable
 var359
 -1
 2
-0
-1
+Atom arg_1(h26)
+NegatedAtom arg_1(h26)
 end_variable
 begin_variable
 var360
 -1
 2
-0
-1
+Atom arg_1(h3)
+NegatedAtom arg_1(h3)
 end_variable
 begin_variable
 var361
 -1
 2
-0
-1
+Atom arg_1(h50)
+NegatedAtom arg_1(h50)
 end_variable
 begin_variable
 var362
 -1
 2
-0
-1
+Atom arg_1(h51)
+NegatedAtom arg_1(h51)
 end_variable
 begin_variable
 var363
 -1
 2
-0
-1
+Atom do_43_26()
+NegatedAtom do_43_26()
 end_variable
 begin_variable
 var364
 -1
 2
-0
-1
+Atom do_43_28()
+NegatedAtom do_43_28()
 end_variable
 begin_variable
 var365
 -1
 2
-0
-1
+Atom do_18_43()
+NegatedAtom do_18_43()
 end_variable
 begin_variable
 var366
 -1
 2
-0
-1
+Atom arg_13(o7)
+NegatedAtom arg_13(o7)
 end_variable
 begin_variable
 var367
 -1
 2
-0
-1
+Atom arg_14(o7)
+NegatedAtom arg_14(o7)
 end_variable
 begin_variable
 var368
 -1
 2
-0
-1
+Atom do_43_35()
+NegatedAtom do_43_35()
 end_variable
 begin_variable
 var369
 -1
 2
-0
-1
+Atom do_33_12()
+NegatedAtom do_33_12()
 end_variable
 begin_variable
 var370
 -1
 2
-0
-1
+Atom do_36_8()
+NegatedAtom do_36_8()
 end_variable
 begin_variable
 var371
 -1
 2
-0
-1
+Atom do_36_9()
+NegatedAtom do_36_9()
 end_variable
 begin_variable
 var372
 -1
 2
-0
-1
+Atom do_38_26()
+NegatedAtom do_38_26()
 end_variable
 begin_variable
 var373
 -1
 2
-0
-1
+Atom do_43_36()
+NegatedAtom do_43_36()
 end_variable
 begin_variable
 var374
 -1
 2
-0
-1
+Atom arg_13(n1)
+NegatedAtom arg_13(n1)
 end_variable
 begin_variable
 var375
 -1
 2
-0
-1
+Atom arg_14(n1)
+NegatedAtom arg_14(n1)
 end_variable
 begin_variable
 var376
 -1
 2
-0
-1
+Atom do_33_8()
+NegatedAtom do_33_8()
 end_variable
 begin_variable
 var377
 -1
 2
-0
-1
+Atom do_33_9()
+NegatedAtom do_33_9()
 end_variable
 begin_variable
 var378
 -1
 2
-0
-1
+Atom arg_12(o7)
+NegatedAtom arg_12(o7)
 end_variable
 begin_variable
 var379
 -1
 2
-0
-1
+Atom do_15_2()
+NegatedAtom do_15_2()
 end_variable
 begin_variable
 var380
 -1
 2
-0
-1
+Atom do_18_2()
+NegatedAtom do_18_2()
 end_variable
 begin_variable
 var381
 -1
 2
-0
-1
+Atom do_22_2()
+NegatedAtom do_22_2()
 end_variable
 begin_variable
 var382
 -1
 2
-0
-1
+Atom do_22_3()
+NegatedAtom do_22_3()
 end_variable
 begin_variable
 var383
 -1
 2
-0
-1
+Atom do_22_4()
+NegatedAtom do_22_4()
 end_variable
 begin_variable
 var384
 -1
 2
-0
-1
+Atom do_22_5()
+NegatedAtom do_22_5()
 end_variable
 begin_variable
 var385
 -1
 2
-0
-1
+Atom do_22_6()
+NegatedAtom do_22_6()
 end_variable
 begin_variable
 var386
 -1
 2
-0
-1
+Atom do_39_2()
+NegatedAtom do_39_2()
 end_variable
 begin_variable
 var387
 -1
 2
-0
-1
+Atom do_39_3()
+NegatedAtom do_39_3()
 end_variable
 begin_variable
 var388
 -1
 2
-0
-1
+Atom do_3_2()
+NegatedAtom do_3_2()
 end_variable
 begin_variable
 var389
 -1
 2
-0
-1
+Atom do_49_2()
+NegatedAtom do_49_2()
 end_variable
 begin_variable
 var390
 -1
 2
-0
-1
+Atom do_49_3()
+NegatedAtom do_49_3()
 end_variable
 begin_variable
 var391
 -1
 2
-0
-1
+Atom arg_1(c1)
+NegatedAtom arg_1(c1)
 end_variable
 begin_variable
 var392
 -1
 2
-0
-1
+Atom do_39_8()
+NegatedAtom do_39_8()
 end_variable
 begin_variable
 var393
 -1
 2
-0
-1
+Atom arg_1(c17)
+NegatedAtom arg_1(c17)
 end_variable
 begin_variable
 var394
 -1
 2
-0
-1
+Atom arg_1(c2)
+NegatedAtom arg_1(c2)
 end_variable
 begin_variable
 var395
 -1
 2
-0
-1
+Atom do_39_9()
+NegatedAtom do_39_9()
 end_variable
 begin_variable
 var396
 -1
 2
-0
-1
+Atom do_19_10()
+NegatedAtom do_19_10()
 end_variable
 begin_variable
 var397
 -1
 2
-0
-1
+Atom do_19_9()
+NegatedAtom do_19_9()
 end_variable
 begin_variable
 var398
 -1
 2
-0
-1
+Atom do_49_10()
+NegatedAtom do_49_10()
 end_variable
 begin_variable
 var399
 -1
 2
-0
-1
+Atom do_49_11()
+NegatedAtom do_49_11()
 end_variable
 begin_variable
 var400
 -1
 2
-0
-1
+Atom do_19_11()
+NegatedAtom do_19_11()
 end_variable
 begin_variable
 var401
 -1
 2
-0
-1
+Atom do_33_3()
+NegatedAtom do_33_3()
 end_variable
 begin_variable
 var402
 -1
 2
-0
-1
+Atom arg_1(c3)
+NegatedAtom arg_1(c3)
 end_variable
 begin_variable
 var403
 -1
 2
-0
-1
+Atom do_33_4()
+NegatedAtom do_33_4()
 end_variable
 begin_variable
 var404
 -1
 2
-0
-1
+Atom do_39_10()
+NegatedAtom do_39_10()
 end_variable
 begin_variable
 var405
 -1
 2
-0
-1
+Atom do_19_5()
+NegatedAtom do_19_5()
 end_variable
 begin_variable
 var406
 -1
 2
-0
-1
+Atom arg_11(o7)
+NegatedAtom arg_11(o7)
 end_variable
 begin_variable
 var407
 -1
 2
-0
-1
+Atom arg_17(o7)
+NegatedAtom arg_17(o7)
 end_variable
 begin_variable
 var408
 -1
 2
-0
-1
+Atom do_15_9()
+NegatedAtom do_15_9()
 end_variable
 begin_variable
 var409
 -1
 2
-0
-1
+Atom do_49_8()
+NegatedAtom do_49_8()
 end_variable
 begin_variable
 var410
 -1
 2
-0
-1
+Atom do_49_9()
+NegatedAtom do_49_9()
 end_variable
 begin_variable
 var411
 -1
 2
-0
-1
+Atom do_43_8()
+NegatedAtom do_43_8()
 end_variable
 begin_variable
 var412
 -1
 2
-0
-1
+Atom do_18_24()
+NegatedAtom do_18_24()
 end_variable
 begin_variable
 var413
 -1
 2
-0
-1
+Atom do_18_27()
+NegatedAtom do_18_27()
 end_variable
 begin_variable
 var414
 -1
 2
-0
-1
+Atom do_18_31()
+NegatedAtom do_18_31()
 end_variable
 begin_variable
 var415
 -1
 2
-0
-1
+Atom do_18_4()
+NegatedAtom do_18_4()
 end_variable
 begin_variable
 var416
 -1
 2
-0
-1
+Atom do_18_5()
+NegatedAtom do_18_5()
 end_variable
 begin_variable
 var417
 -1
 2
-0
-1
+Atom do_18_6()
+NegatedAtom do_18_6()
 end_variable
 begin_variable
 var418
 -1
 2
-0
-1
+Atom do_15_3()
+NegatedAtom do_15_3()
 end_variable
 begin_variable
 var419
 -1
 2
-0
-1
+Atom do_18_3()
+NegatedAtom do_18_3()
 end_variable
 begin_variable
 var420
 -1
 2
-0
-1
+Atom do_22_7()
+NegatedAtom do_22_7()
 end_variable
 begin_variable
 var421
 -1
 2
-0
-1
+Atom do_49_12()
+NegatedAtom do_49_12()
 end_variable
 begin_variable
 var422
 -1
 2
-0
-1
+Atom do_19_18()
+NegatedAtom do_19_18()
 end_variable
 begin_variable
 var423
 -1
 2
-0
-1
+Atom doublebond(c1, c17)
+NegatedAtom doublebond(c1, c17)
 end_variable
 begin_variable
 var424
 -1
 2
-0
-1
+Atom doublebond(c17, c1)
+NegatedAtom doublebond(c17, c1)
 end_variable
 begin_variable
 var425
 -1
 2
-0
-1
+Atom doublebond(c1, c2)
+NegatedAtom doublebond(c1, c2)
 end_variable
 begin_variable
 var426
 -1
 2
-0
-1
+Atom doublebond(c2, c1)
+NegatedAtom doublebond(c2, c1)
 end_variable
 begin_variable
 var427
 -1
 2
-0
-1
+Atom do_39_11()
+NegatedAtom do_39_11()
 end_variable
 begin_variable
 var428
 -1
 2
-0
-1
+Atom do_49_16()
+NegatedAtom do_49_16()
 end_variable
 begin_variable
 var429
 -1
 2
-0
-1
+Atom doublebond(c1, c3)
+NegatedAtom doublebond(c1, c3)
 end_variable
 begin_variable
 var430
 -1
 2
-0
-1
+Atom doublebond(c3, c1)
+NegatedAtom doublebond(c3, c1)
 end_variable
 begin_variable
 var431
 -1
 2
-0
-1
+Atom doublebond(c17, c2)
+NegatedAtom doublebond(c17, c2)
 end_variable
 begin_variable
 var432
 -1
 2
-0
-1
+Atom doublebond(c2, c17)
+NegatedAtom doublebond(c2, c17)
 end_variable
 begin_variable
 var433
 -1
 2
-0
-1
+Atom do_19_12()
+NegatedAtom do_19_12()
 end_variable
 begin_variable
 var434
 -1
 2
-0
-1
+Atom doublebond(c17, c3)
+NegatedAtom doublebond(c17, c3)
 end_variable
 begin_variable
 var435
 -1
 2
-0
-1
+Atom doublebond(c3, c17)
+NegatedAtom doublebond(c3, c17)
 end_variable
 begin_variable
 var436
 -1
 2
-0
-1
+Atom doublebond(c2, c3)
+NegatedAtom doublebond(c2, c3)
 end_variable
 begin_variable
 var437
 -1
 2
-0
-1
+Atom doublebond(c3, c2)
+NegatedAtom doublebond(c3, c2)
 end_variable
 begin_variable
 var438
 -1
 2
-0
-1
+Atom do_19_8()
+NegatedAtom do_19_8()
 end_variable
 begin_variable
 var439
 -1
 2
-0
-1
+Atom do_19_6()
+NegatedAtom do_19_6()
 end_variable
 begin_variable
 var440
 -1
 2
-0
-1
+Atom do_15_10()
+NegatedAtom do_15_10()
 end_variable
 begin_variable
 var441
 -1
 2
-0
-1
+Atom do_43_9()
+NegatedAtom do_43_9()
 end_variable
 begin_variable
 var442
 -1
 2
-0
-1
+Atom do_49_13()
+NegatedAtom do_49_13()
 end_variable
 begin_variable
 var443
 -1
 2
-0
-1
+Atom do_19_13()
+NegatedAtom do_19_13()
 end_variable
 begin_variable
 var444
 -1
 2
-0
-1
+Atom do_19_7()
+NegatedAtom do_19_7()
 end_variable
 begin_variable
 var445
 -1
 2
-0
-1
+Atom do_15_11()
+NegatedAtom do_15_11()
 end_variable
 begin_variable
 var446
 -1
 2
-0
-1
+Atom do_43_10()
+NegatedAtom do_43_10()
 end_variable
 begin_variable
 var447
 -1
 2
-0
-1
+Atom do_19_14()
+NegatedAtom do_19_14()
 end_variable
 begin_variable
 var448
 -1
 2
-0
-1
+Atom do_15_12()
+NegatedAtom do_15_12()
 end_variable
 begin_variable
 var449
 -1
 2
-0
-1
+Atom do_43_11()
+NegatedAtom do_43_11()
 end_variable
 begin_variable
 var450
 -1
 2
-0
-1
+Atom do_19_15()
+NegatedAtom do_19_15()
 end_variable
 begin_variable
 var451
 -1
 2
-0
-1
+Atom do_15_13()
+NegatedAtom do_15_13()
 end_variable
 begin_variable
 var452
 -1
 2
-0
-1
+Atom do_43_12()
+NegatedAtom do_43_12()
 end_variable
 begin_variable
 var453
 -1
 2
-0
-1
+Atom do_15_14()
+NegatedAtom do_15_14()
 end_variable
 begin_variable
 var454
 -1
 2
-0
-1
+Atom do_43_13()
+NegatedAtom do_43_13()
 end_variable
 begin_variable
 var455
 -1
 2
-0
-1
+Atom do_43_40()
+NegatedAtom do_43_40()
 end_variable
 begin_variable
 var456
 -1
 2
-0
-1
+Atom arg_12(n1)
+NegatedAtom arg_12(n1)
 end_variable
 begin_variable
 var457
 -1
 2
-0
-1
+Atom arg_10(n1)
+NegatedAtom arg_10(n1)
 end_variable
 begin_variable
 var458
 -1
 2
-0
-1
+Atom arg_11(n1)
+NegatedAtom arg_11(n1)
 end_variable
 begin_variable
 var459
 -1
 2
-0
-1
+Atom arg_17(n1)
+NegatedAtom arg_17(n1)
 end_variable
 begin_variable
 var460
 -1
 2
-0
-1
+Atom arg_7(n1)
+NegatedAtom arg_7(n1)
 end_variable
 begin_variable
 var461
 -1
 2
-0
-1
+Atom do_32_5()
+NegatedAtom do_32_5()
 end_variable
 begin_variable
 var462
 -1
 2
-0
-1
+Atom do_32_6()
+NegatedAtom do_32_6()
 end_variable
 begin_variable
 var463
 -1
 2
-0
-1
+Atom arg_10(o7)
+NegatedAtom arg_10(o7)
 end_variable
 begin_variable
 var464
 -1
 2
-0
-1
+Atom do_36_52()
+NegatedAtom do_36_52()
 end_variable
 begin_variable
 var465
 -1
 2
-0
-1
+Atom arg_17(c1)
+NegatedAtom arg_17(c1)
 end_variable
 begin_variable
 var466
 -1
 2
-0
-1
+Atom arg_17(c17)
+NegatedAtom arg_17(c17)
 end_variable
 begin_variable
 var467
 -1
 2
-0
-1
+Atom arg_17(c2)
+NegatedAtom arg_17(c2)
 end_variable
 begin_variable
 var468
 -1
 2
-0
-1
+Atom arg_17(c3)
+NegatedAtom arg_17(c3)
 end_variable
 begin_variable
 var469
 -1
 2
-0
-1
+Atom bond(o7, h1)
+NegatedAtom bond(o7, h1)
 end_variable
 begin_variable
 var470
 -1
 2
-0
-1
+Atom bond(h1, o7)
+NegatedAtom bond(h1, o7)
 end_variable
 begin_variable
 var471
 -1
 2
-0
-1
+Atom bond(o7, h15)
+NegatedAtom bond(o7, h15)
 end_variable
 begin_variable
 var472
 -1
 2
-0
-1
+Atom bond(h15, o7)
+NegatedAtom bond(h15, o7)
 end_variable
 begin_variable
 var473
 -1
 2
-0
-1
+Atom bond(o7, h16)
+NegatedAtom bond(o7, h16)
 end_variable
 begin_variable
 var474
 -1
 2
-0
-1
+Atom bond(h16, o7)
+NegatedAtom bond(h16, o7)
 end_variable
 begin_variable
 var475
 -1
 2
-0
-1
+Atom bond(o7, h17)
+NegatedAtom bond(o7, h17)
 end_variable
 begin_variable
 var476
 -1
 2
-0
-1
+Atom do_37_13()
+NegatedAtom do_37_13()
 end_variable
 begin_variable
 var477
 -1
 2
-0
-1
+Atom bond(h17, o7)
+NegatedAtom bond(h17, o7)
 end_variable
 begin_variable
 var478
 -1
 2
-0
-1
+Atom do_34_11()
+NegatedAtom do_34_11()
 end_variable
 begin_variable
 var479
 -1
 2
-0
-1
+Atom do_36_7()
+NegatedAtom do_36_7()
 end_variable
 begin_variable
 var480
 -1
 2
-0
-1
+Atom do_38_12()
+NegatedAtom do_38_12()
 end_variable
 begin_variable
 var481
 -1
 2
-0
-1
+Atom do_38_15()
+NegatedAtom do_38_15()
 end_variable
 begin_variable
 var482
 -1
 2
-0
-1
+Atom bond(o7, h18)
+NegatedAtom bond(o7, h18)
 end_variable
 begin_variable
 var483
 -1
 2
-0
-1
+Atom bond(h18, o7)
+NegatedAtom bond(h18, o7)
 end_variable
 begin_variable
 var484
 -1
 2
-0
-1
+Atom bond(o7, h19)
+NegatedAtom bond(o7, h19)
 end_variable
 begin_variable
 var485
 -1
 2
-0
-1
+Atom bond(h19, o7)
+NegatedAtom bond(h19, o7)
 end_variable
 begin_variable
 var486
 -1
 2
-0
-1
+Atom bond(o7, h2)
+NegatedAtom bond(o7, h2)
 end_variable
 begin_variable
 var487
 -1
 2
-0
-1
+Atom bond(h2, o7)
+NegatedAtom bond(h2, o7)
 end_variable
 begin_variable
 var488
 -1
 2
-0
-1
+Atom do_30_5()
+NegatedAtom do_30_5()
 end_variable
 begin_variable
 var489
 -1
 2
-0
-1
+Atom bond(o7, h20)
+NegatedAtom bond(o7, h20)
 end_variable
 begin_variable
 var490
 -1
 2
-0
-1
+Atom bond(h20, o7)
+NegatedAtom bond(h20, o7)
 end_variable
 begin_variable
 var491
 -1
 2
-0
-1
+Atom bond(o7, h21)
+NegatedAtom bond(o7, h21)
 end_variable
 begin_variable
 var492
 -1
 2
-0
-1
+Atom bond(h21, o7)
+NegatedAtom bond(h21, o7)
 end_variable
 begin_variable
 var493
 -1
 2
-0
-1
+Atom bond(o7, h22)
+NegatedAtom bond(o7, h22)
 end_variable
 begin_variable
 var494
 -1
 2
-0
-1
+Atom arg_4(o7)
+NegatedAtom arg_4(o7)
 end_variable
 begin_variable
 var495
 -1
 2
-0
-1
+Atom do_38_25()
+NegatedAtom do_38_25()
 end_variable
 begin_variable
 var496
 -1
 2
-0
-1
+Atom bond(h22, o7)
+NegatedAtom bond(h22, o7)
 end_variable
 begin_variable
 var497
 -1
 2
-0
-1
+Atom bond(o7, h24)
+NegatedAtom bond(o7, h24)
 end_variable
 begin_variable
 var498
 -1
 2
-0
-1
+Atom bond(h24, o7)
+NegatedAtom bond(h24, o7)
 end_variable
 begin_variable
 var499
 -1
 2
-0
-1
+Atom bond(o7, h26)
+NegatedAtom bond(o7, h26)
 end_variable
 begin_variable
 var500
 -1
 2
-0
-1
+Atom bond(h26, o7)
+NegatedAtom bond(h26, o7)
 end_variable
 begin_variable
 var501
 -1
 2
-0
-1
+Atom bond(o7, h3)
+NegatedAtom bond(o7, h3)
 end_variable
 begin_variable
 var502
 -1
 2
-0
-1
+Atom bond(h3, o7)
+NegatedAtom bond(h3, o7)
 end_variable
 begin_variable
 var503
 -1
 2
-0
-1
+Atom bond(o7, h50)
+NegatedAtom bond(o7, h50)
 end_variable
 begin_variable
 var504
 -1
 2
-0
-1
+Atom bond(h50, o7)
+NegatedAtom bond(h50, o7)
 end_variable
 begin_variable
 var505
 -1
 2
-0
-1
+Atom bond(o7, h51)
+NegatedAtom bond(o7, h51)
 end_variable
 begin_variable
 var506
 -1
 2
-0
-1
+Atom bond(h51, o7)
+NegatedAtom bond(h51, o7)
 end_variable
 begin_variable
 var507
 -1
 2
-0
-1
+Atom bond(c1, c17)
+NegatedAtom bond(c1, c17)
 end_variable
 begin_variable
 var508
 -1
 2
-0
-1
+Atom bond(c17, c1)
+NegatedAtom bond(c17, c1)
 end_variable
 begin_variable
 var509
 -1
 2
-0
-1
+Atom bond(c1, c3)
+NegatedAtom bond(c1, c3)
 end_variable
 begin_variable
 var510
 -1
 2
-0
-1
+Atom bond(c3, c1)
+NegatedAtom bond(c3, c1)
 end_variable
 begin_variable
 var511
 -1
 2
-0
-1
+Atom arg_10(c1)
+NegatedAtom arg_10(c1)
 end_variable
 begin_variable
 var512
 -1
 2
-0
-1
+Atom bond(c17, c2)
+NegatedAtom bond(c17, c2)
 end_variable
 begin_variable
 var513
 -1
 2
-0
-1
+Atom bond(c2, c17)
+NegatedAtom bond(c2, c17)
 end_variable
 begin_variable
 var514
 -1
 2
-0
-1
+Atom arg_10(c17)
+NegatedAtom arg_10(c17)
 end_variable
 begin_variable
 var515
 -1
 2
-0
-1
+Atom bond(c17, c3)
+NegatedAtom bond(c17, c3)
 end_variable
 begin_variable
 var516
 -1
 2
-0
-1
+Atom arg_10(c3)
+NegatedAtom arg_10(c3)
 end_variable
 begin_variable
 var517
 -1
 2
-0
-1
+Atom arg_11(c17)
+NegatedAtom arg_11(c17)
 end_variable
 begin_variable
 var518
 -1
 2
-0
-1
+Atom arg_11(c1)
+NegatedAtom arg_11(c1)
 end_variable
 begin_variable
 var519
 -1
 2
-0
-1
+Atom arg_11(c3)
+NegatedAtom arg_11(c3)
 end_variable
 begin_variable
 var520
 -1
 2
-0
-1
+Atom arg_10(c2)
+NegatedAtom arg_10(c2)
 end_variable
 begin_variable
 var521
 -1
 2
-0
-1
+Atom bond(c3, c17)
+NegatedAtom bond(c3, c17)
 end_variable
 begin_variable
 var522
 -1
 2
-0
-1
+Atom arg_14(c17)
+NegatedAtom arg_14(c17)
 end_variable
 begin_variable
 var523
 -1
 2
-0
-1
+Atom arg_2(c17)
+NegatedAtom arg_2(c17)
 end_variable
 begin_variable
 var524
 -1
 2
-0
-1
+Atom do_19_16()
+NegatedAtom do_19_16()
 end_variable
 begin_variable
 var525
 -1
 2
-0
-1
+Atom do_19_17()
+NegatedAtom do_19_17()
 end_variable
 begin_variable
 var526
 -1
 2
-0
-1
+Atom arg_2(c1)
+NegatedAtom arg_2(c1)
 end_variable
 begin_variable
 var527
 -1
 2
-0
-1
+Atom arg_11(c2)
+NegatedAtom arg_11(c2)
 end_variable
 begin_variable
 var528
 -1
 2
-0
-1
+Atom arg_2(c3)
+NegatedAtom arg_2(c3)
 end_variable
 begin_variable
 var529
 -1
 2
-0
-1
+Atom do_49_14()
+NegatedAtom do_49_14()
 end_variable
 begin_variable
 var530
 -1
 2
-0
-1
+Atom do_49_15()
+NegatedAtom do_49_15()
 end_variable
 begin_variable
 var531
 -1
 2
-0
-1
+Atom do_1_2()
+NegatedAtom do_1_2()
 end_variable
 begin_variable
 var532
 -1
 2
-0
-1
+Atom do_1_3()
+NegatedAtom do_1_3()
 end_variable
 begin_variable
 var533
 -1
 2
-0
-1
+Atom arg_12(c17)
+NegatedAtom arg_12(c17)
 end_variable
 begin_variable
 var534
 -1
 2
-0
-1
+Atom do_36_23()
+NegatedAtom do_36_23()
 end_variable
 begin_variable
 var535
 -1
 2
-0
-1
+Atom arg_13(c17)
+NegatedAtom arg_13(c17)
 end_variable
 begin_variable
 var536
 -1
 2
-0
-1
+Atom arg_9(c17)
+NegatedAtom arg_9(c17)
 end_variable
 begin_variable
 var537
 -1
 2
-0
-1
+Atom do_43_29()
+NegatedAtom do_43_29()
 end_variable
 begin_variable
 var538
 -1
 2
-0
-1
+Atom do_36_24()
+NegatedAtom do_36_24()
 end_variable
 begin_variable
 var539
 -1
 2
-0
-1
+Atom arg_14(c1)
+NegatedAtom arg_14(c1)
 end_variable
 begin_variable
 var540
 -1
 2
-0
-1
+Atom arg_14(c3)
+NegatedAtom arg_14(c3)
 end_variable
 begin_variable
 var541
 -1
 2
-0
-1
+Atom do_18_46()
+NegatedAtom do_18_46()
 end_variable
 begin_variable
 var542
 -1
 2
-0
-1
+Atom arg_12(c1)
+NegatedAtom arg_12(c1)
 end_variable
 begin_variable
 var543
 -1
 2
-0
-1
+Atom arg_13(c3)
+NegatedAtom arg_13(c3)
 end_variable
 begin_variable
 var544
 -1
 2
-0
-1
+Atom arg_12(c3)
+NegatedAtom arg_12(c3)
 end_variable
 begin_variable
 var545
 -1
 2
-0
-1
+Atom arg_13(c1)
+NegatedAtom arg_13(c1)
 end_variable
 begin_variable
 var546
 -1
 2
-0
-1
+Atom do_43_25()
+NegatedAtom do_43_25()
 end_variable
 begin_variable
 var547
 -1
 2
-0
-1
+Atom arg_13(c2)
+NegatedAtom arg_13(c2)
 end_variable
 begin_variable
 var548
 -1
 2
-0
-1
+Atom arg_4(n1)
+NegatedAtom arg_4(n1)
 end_variable
 begin_variable
 var549
 -1
 2
-0
-1
+Atom arg_7(o7)
+NegatedAtom arg_7(o7)
 end_variable
 begin_variable
 var550
 -1
 2
-0
-1
+Atom arg_12(c2)
+NegatedAtom arg_12(c2)
 end_variable
 begin_variable
 var551
 -1
 2
-0
-1
+Atom arg_2(c2)
+NegatedAtom arg_2(c2)
 end_variable
 begin_variable
 var552
 -1
 2
-0
-1
+Atom do_43_37()
+NegatedAtom do_43_37()
 end_variable
 begin_variable
 var553
 -1
 2
-0
-1
+Atom arg_3(o7)
+NegatedAtom arg_3(o7)
 end_variable
 begin_variable
 var554
 -1
 2
-0
-1
+Atom do_36_39()
+NegatedAtom do_36_39()
 end_variable
 begin_variable
 var555
 -1
 2
-0
-1
+Atom do_43_38()
+NegatedAtom do_43_38()
 end_variable
 begin_variable
 var556
 -1
 2
-0
-1
+Atom do_36_38()
+NegatedAtom do_36_38()
 end_variable
 begin_variable
 var557
 -1
 2
-0
-1
+Atom do_30_6()
+NegatedAtom do_30_6()
 end_variable
 begin_variable
 var558
 -1
 2
-0
-1
+Atom arg_9(c1)
+NegatedAtom arg_9(c1)
 end_variable
 begin_variable
 var559
 -1
 2
-0
-1
+Atom arg_9(c3)
+NegatedAtom arg_9(c3)
 end_variable
 begin_variable
 var560
 -1
 2
-0
-1
+Atom do_43_39()
+NegatedAtom do_43_39()
 end_variable
 begin_variable
 var561
 -1
 2
-0
-1
+Atom do_15_24()
+NegatedAtom do_15_24()
 end_variable
 begin_variable
 var562
 -1
 2
-0
-1
+Atom do_15_25()
+NegatedAtom do_15_25()
 end_variable
 begin_variable
 var563
 -1
 2
-0
-1
+Atom arg_17(h50)
+NegatedAtom arg_17(h50)
 end_variable
 begin_variable
 var564
 -1
 2
-0
-1
+Atom arg_17(h51)
+NegatedAtom arg_17(h51)
 end_variable
 begin_variable
 var565
 -1
 2
-0
-1
+Atom arg_17(h16)
+NegatedAtom arg_17(h16)
 end_variable
 begin_variable
 var566
 -1
 2
-0
-1
+Atom arg_17(h17)
+NegatedAtom arg_17(h17)
 end_variable
 begin_variable
 var567
 -1
 2
-0
-1
+Atom arg_17(h18)
+NegatedAtom arg_17(h18)
 end_variable
 begin_variable
 var568
 -1
 2
-0
-1
+Atom arg_3(h16)
+NegatedAtom arg_3(h16)
 end_variable
 begin_variable
 var569
 -1
 2
-0
-1
+Atom arg_3(h17)
+NegatedAtom arg_3(h17)
 end_variable
 begin_variable
 var570
 -1
 2
-0
-1
+Atom arg_3(h18)
+NegatedAtom arg_3(h18)
 end_variable
 begin_variable
 var571
 -1
 2
-0
-1
+Atom arg_3(h50)
+NegatedAtom arg_3(h50)
 end_variable
 begin_variable
 var572
 -1
 2
-0
-1
+Atom arg_3(h51)
+NegatedAtom arg_3(h51)
 end_variable
 begin_variable
 var573
 -1
 2
-0
-1
+Atom arg_14(c2)
+NegatedAtom arg_14(c2)
 end_variable
 begin_variable
 var574
 -1
 2
-0
-1
+Atom do_43_34()
+NegatedAtom do_43_34()
 end_variable
 begin_variable
 var575
 -1
 2
-0
-1
+Atom arg_17(h1)
+NegatedAtom arg_17(h1)
 end_variable
 begin_variable
 var576
 -1
 2
-0
-1
+Atom arg_17(h19)
+NegatedAtom arg_17(h19)
 end_variable
 begin_variable
 var577
 -1
 2
-0
-1
+Atom arg_17(h2)
+NegatedAtom arg_17(h2)
 end_variable
 begin_variable
 var578
 -1
 2
-0
-1
+Atom arg_17(h20)
+NegatedAtom arg_17(h20)
 end_variable
 begin_variable
 var579
 -1
 2
-0
-1
+Atom arg_17(h21)
+NegatedAtom arg_17(h21)
 end_variable
 begin_variable
 var580
 -1
 2
-0
-1
+Atom arg_17(h22)
+NegatedAtom arg_17(h22)
 end_variable
 begin_variable
 var581
 -1
 2
-0
-1
+Atom do_36_5()
+NegatedAtom do_36_5()
 end_variable
 begin_variable
 var582
 -1
 2
-0
-1
+Atom arg_17(h15)
+NegatedAtom arg_17(h15)
 end_variable
 begin_variable
 var583
 -1
 2
-0
-1
+Atom do_36_6()
+NegatedAtom do_36_6()
 end_variable
 begin_variable
 var584
 -1
 2
-0
-1
+Atom arg_17(h24)
+NegatedAtom arg_17(h24)
 end_variable
 begin_variable
 var585
 -1
 2
-0
-1
+Atom arg_17(h26)
+NegatedAtom arg_17(h26)
 end_variable
 begin_variable
 var586
 -1
 2
-0
-1
+Atom arg_17(h3)
+NegatedAtom arg_17(h3)
 end_variable
 begin_variable
 var587
 -1
 2
-0
-1
+Atom arg_3(h1)
+NegatedAtom arg_3(h1)
 end_variable
 begin_variable
 var588
 -1
 2
-0
-1
+Atom arg_3(h15)
+NegatedAtom arg_3(h15)
 end_variable
 begin_variable
 var589
 -1
 2
-0
-1
+Atom arg_3(h19)
+NegatedAtom arg_3(h19)
 end_variable
 begin_variable
 var590
 -1
 2
-0
-1
+Atom arg_3(h2)
+NegatedAtom arg_3(h2)
 end_variable
 begin_variable
 var591
 -1
 2
-0
-1
+Atom arg_3(h20)
+NegatedAtom arg_3(h20)
 end_variable
 begin_variable
 var592
 -1
 2
-0
-1
+Atom arg_3(h21)
+NegatedAtom arg_3(h21)
 end_variable
 begin_variable
 var593
 -1
 2
-0
-1
+Atom arg_3(h22)
+NegatedAtom arg_3(h22)
 end_variable
 begin_variable
 var594
 -1
 2
-0
-1
+Atom arg_3(h24)
+NegatedAtom arg_3(h24)
 end_variable
 begin_variable
 var595
 -1
 2
-0
-1
+Atom arg_3(h26)
+NegatedAtom arg_3(h26)
 end_variable
 begin_variable
 var596
 -1
 2
-0
-1
+Atom arg_3(h3)
+NegatedAtom arg_3(h3)
 end_variable
 begin_variable
 var597
 -1
 2
-0
-1
+Atom arg_9(c2)
+NegatedAtom arg_9(c2)
 end_variable
 begin_variable
 var598
 -1
 2
-0
-1
+Atom arg_14(h51)
+NegatedAtom arg_14(h51)
 end_variable
 begin_variable
 var599
 -1
 2
-0
-1
+Atom arg_14(h16)
+NegatedAtom arg_14(h16)
 end_variable
 begin_variable
 var600
 -1
 2
-0
-1
+Atom arg_14(h17)
+NegatedAtom arg_14(h17)
 end_variable
 begin_variable
 var601
 -1
 2
-0
-1
+Atom arg_14(h18)
+NegatedAtom arg_14(h18)
 end_variable
 begin_variable
 var602
 -1
 2
-0
-1
+Atom arg_14(h50)
+NegatedAtom arg_14(h50)
 end_variable
 begin_variable
 var603
 -1
 2
-0
-1
+Atom arg_14(h1)
+NegatedAtom arg_14(h1)
 end_variable
 begin_variable
 var604
 -1
 2
-0
-1
+Atom arg_14(h15)
+NegatedAtom arg_14(h15)
 end_variable
 begin_variable
 var605
 -1
 2
-0
-1
+Atom arg_14(h19)
+NegatedAtom arg_14(h19)
 end_variable
 begin_variable
 var606
 -1
 2
-0
-1
+Atom arg_14(h2)
+NegatedAtom arg_14(h2)
 end_variable
 begin_variable
 var607
 -1
 2
-0
-1
+Atom arg_14(h20)
+NegatedAtom arg_14(h20)
 end_variable
 begin_variable
 var608
 -1
 2
-0
-1
+Atom arg_14(h21)
+NegatedAtom arg_14(h21)
 end_variable
 begin_variable
 var609
 -1
 2
-0
-1
+Atom arg_14(h22)
+NegatedAtom arg_14(h22)
 end_variable
 begin_variable
 var610
 -1
 2
-0
-1
+Atom do_18_18()
+NegatedAtom do_18_18()
 end_variable
 begin_variable
 var611
 -1
 2
-0
-1
+Atom do_18_19()
+NegatedAtom do_18_19()
 end_variable
 begin_variable
 var612
 -1
 2
-0
-1
+Atom arg_14(h24)
+NegatedAtom arg_14(h24)
 end_variable
 begin_variable
 var613
 -1
 2
-0
-1
+Atom do_18_35()
+NegatedAtom do_18_35()
 end_variable
 begin_variable
 var614
 -1
 2
-0
-1
+Atom arg_14(h26)
+NegatedAtom arg_14(h26)
 end_variable
 begin_variable
 var615
 -1
 2
-0
-1
+Atom arg_14(h3)
+NegatedAtom arg_14(h3)
 end_variable
 begin_variable
 var616
 -1
 2
-0
-1
+Atom arg_9(h16)
+NegatedAtom arg_9(h16)
 end_variable
 begin_variable
 var617
 -1
 2
-0
-1
+Atom arg_9(h17)
+NegatedAtom arg_9(h17)
 end_variable
 begin_variable
 var618
 -1
 2
-0
-1
+Atom arg_9(h18)
+NegatedAtom arg_9(h18)
 end_variable
 begin_variable
 var619
 -1
 2
-0
-1
+Atom arg_9(h50)
+NegatedAtom arg_9(h50)
 end_variable
 begin_variable
 var620
 -1
 2
-0
-1
+Atom arg_9(h51)
+NegatedAtom arg_9(h51)
 end_variable
 begin_variable
 var621
 -1
 2
-0
-1
+Atom do_30_7()
+NegatedAtom do_30_7()
 end_variable
 begin_variable
 var622
 -1
 2
-0
-1
+Atom arg_9(h1)
+NegatedAtom arg_9(h1)
 end_variable
 begin_variable
 var623
 -1
 2
-0
-1
+Atom arg_9(h15)
+NegatedAtom arg_9(h15)
 end_variable
 begin_variable
 var624
 -1
 2
-0
-1
+Atom arg_9(h19)
+NegatedAtom arg_9(h19)
 end_variable
 begin_variable
 var625
 -1
 2
-0
-1
+Atom arg_2(h16)
+NegatedAtom arg_2(h16)
 end_variable
 begin_variable
 var626
 -1
 2
-0
-1
+Atom arg_2(h17)
+NegatedAtom arg_2(h17)
 end_variable
 begin_variable
 var627
 -1
 2
-0
-1
+Atom arg_2(h18)
+NegatedAtom arg_2(h18)
 end_variable
 begin_variable
 var628
 -1
 2
-0
-1
+Atom arg_2(h2)
+NegatedAtom arg_2(h2)
 end_variable
 begin_variable
 var629
 -1
 2
-0
-1
+Atom arg_2(h20)
+NegatedAtom arg_2(h20)
 end_variable
 begin_variable
 var630
 -1
 2
-0
-1
+Atom arg_2(h21)
+NegatedAtom arg_2(h21)
 end_variable
 begin_variable
 var631
 -1
 2
-0
-1
+Atom arg_2(h22)
+NegatedAtom arg_2(h22)
 end_variable
 begin_variable
 var632
 -1
 2
-0
-1
+Atom arg_2(h24)
+NegatedAtom arg_2(h24)
 end_variable
 begin_variable
 var633
 -1
 2
-0
-1
+Atom arg_2(h26)
+NegatedAtom arg_2(h26)
 end_variable
 begin_variable
 var634
 -1
 2
-0
-1
+Atom arg_2(h3)
+NegatedAtom arg_2(h3)
 end_variable
 begin_variable
 var635
 -1
 2
-0
-1
+Atom arg_2(h51)
+NegatedAtom arg_2(h51)
 end_variable
 begin_variable
 var636
 -1
 2
-0
-1
+Atom arg_9(h2)
+NegatedAtom arg_9(h2)
 end_variable
 begin_variable
 var637
 -1
 2
-0
-1
+Atom arg_2(h1)
+NegatedAtom arg_2(h1)
 end_variable
 begin_variable
 var638
 -1
 2
-0
-1
+Atom arg_2(h15)
+NegatedAtom arg_2(h15)
 end_variable
 begin_variable
 var639
 -1
 2
-0
-1
+Atom arg_2(h19)
+NegatedAtom arg_2(h19)
 end_variable
 begin_variable
 var640
 -1
 2
-0
-1
+Atom arg_2(h50)
+NegatedAtom arg_2(h50)
 end_variable
 begin_variable
 var641
 -1
 2
-0
-1
+Atom arg_9(h20)
+NegatedAtom arg_9(h20)
 end_variable
 begin_variable
 var642
 -1
 2
-0
-1
+Atom arg_9(h21)
+NegatedAtom arg_9(h21)
 end_variable
 begin_variable
 var643
 -1
 2
-0
-1
+Atom arg_9(h22)
+NegatedAtom arg_9(h22)
 end_variable
 begin_variable
 var644
 -1
 2
-0
-1
+Atom arg_9(h24)
+NegatedAtom arg_9(h24)
 end_variable
 begin_variable
 var645
 -1
 2
-0
-1
+Atom arg_9(h26)
+NegatedAtom arg_9(h26)
 end_variable
 begin_variable
 var646
 -1
 2
-0
-1
+Atom arg_9(h3)
+NegatedAtom arg_9(h3)
 end_variable
 begin_variable
 var647
 -1
 2
-0
-1
+Atom arg_3(c17)
+NegatedAtom arg_3(c17)
 end_variable
 begin_variable
 var648
 -1
 2
-0
-1
+Atom do_18_15()
+NegatedAtom do_18_15()
 end_variable
 begin_variable
 var649
 -1
 2
-0
-1
+Atom arg_4(h16)
+NegatedAtom arg_4(h16)
 end_variable
 begin_variable
 var650
 -1
 2
-0
-1
+Atom arg_4(h17)
+NegatedAtom arg_4(h17)
 end_variable
 begin_variable
 var651
 -1
 2
-0
-1
+Atom arg_4(h18)
+NegatedAtom arg_4(h18)
 end_variable
 begin_variable
 var652
 -1
 2
-0
-1
+Atom arg_4(h51)
+NegatedAtom arg_4(h51)
 end_variable
 begin_variable
 var653
 -1
 2
-0
-1
+Atom do_39_12()
+NegatedAtom do_39_12()
 end_variable
 begin_variable
 var654
 -1
 2
-0
-1
+Atom arg_4(c17)
+NegatedAtom arg_4(c17)
 end_variable
 begin_variable
 var655
 -1
 2
-0
-1
+Atom do_11_11()
+NegatedAtom do_11_11()
 end_variable
 begin_variable
 var656
 -1
 2
-0
-1
+Atom arg_4(c1)
+NegatedAtom arg_4(c1)
 end_variable
 begin_variable
 var657
 -1
 2
-0
-1
+Atom do_15_26()
+NegatedAtom do_15_26()
 end_variable
 begin_variable
 var658
 -1
 2
-0
-1
+Atom arg_4(c3)
+NegatedAtom arg_4(c3)
 end_variable
 begin_variable
 var659
 -1
 2
-0
-1
+Atom do_15_27()
+NegatedAtom do_15_27()
 end_variable
 begin_variable
 var660
 -1
 2
-0
-1
+Atom arg_4(c2)
+NegatedAtom arg_4(c2)
 end_variable
 begin_variable
 var661
 -1
 2
-0
-1
+Atom arg_4(h50)
+NegatedAtom arg_4(h50)
 end_variable
 begin_variable
 var662
 -1
 2
-0
-1
+Atom arg_3(c3)
+NegatedAtom arg_3(c3)
 end_variable
 begin_variable
 var663
 -1
 2
-0
-1
+Atom arg_4(h1)
+NegatedAtom arg_4(h1)
 end_variable
 begin_variable
 var664
 -1
 2
-0
-1
+Atom do_49_17()
+NegatedAtom do_49_17()
 end_variable
 begin_variable
 var665
 -1
 2
-0
-1
+Atom arg_3(c1)
+NegatedAtom arg_3(c1)
 end_variable
 begin_variable
 var666
 -1
 2
-0
-1
+Atom do_18_44()
+NegatedAtom do_18_44()
 end_variable
 begin_variable
 var667
 -1
 2
-0
-1
+Atom do_18_45()
+NegatedAtom do_18_45()
 end_variable
 begin_variable
 var668
 -1
 2
-0
-1
+Atom arg_3(c2)
+NegatedAtom arg_3(c2)
 end_variable
 begin_variable
 var669
 -1
 2
-0
-1
+Atom arg_4(h15)
+NegatedAtom arg_4(h15)
 end_variable
 begin_variable
 var670
 -1
 2
-0
-1
+Atom arg_4(h19)
+NegatedAtom arg_4(h19)
 end_variable
 begin_variable
 var671
 -1
 2
-0
-1
+Atom arg_4(h2)
+NegatedAtom arg_4(h2)
 end_variable
 begin_variable
 var672
 -1
 2
-0
-1
+Atom arg_4(h20)
+NegatedAtom arg_4(h20)
 end_variable
 begin_variable
 var673
 -1
 2
-0
-1
+Atom arg_4(h21)
+NegatedAtom arg_4(h21)
 end_variable
 begin_variable
 var674
 -1
 2
-0
-1
+Atom arg_4(h22)
+NegatedAtom arg_4(h22)
 end_variable
 begin_variable
 var675
 -1
 2
-0
-1
+Atom arg_4(h24)
+NegatedAtom arg_4(h24)
 end_variable
 begin_variable
 var676
 -1
 2
-0
-1
+Atom arg_4(h26)
+NegatedAtom arg_4(h26)
 end_variable
 begin_variable
 var677
 -1
 2
-0
-1
+Atom arg_4(h3)
+NegatedAtom arg_4(h3)
 end_variable
 begin_variable
 var678
 -1
 2
-0
-1
+Atom arg_1(o7)
+NegatedAtom arg_1(o7)
 end_variable
 begin_variable
 var679
 -1
 2
-0
-1
+Atom do_2_4()
+NegatedAtom do_2_4()
 end_variable
 begin_variable
 var680
 -1
 2
-0
-1
+Atom do_42_2()
+NegatedAtom do_42_2()
 end_variable
 begin_variable
 var681
 -1
 2
-0
-1
+Atom arg_2(o7)
+NegatedAtom arg_2(o7)
 end_variable
 begin_variable
 var682
 -1
 2
-0
-1
+Atom arg_8(c17)
+NegatedAtom arg_8(c17)
 end_variable
 begin_variable
 var683
 -1
 2
-0
-1
+Atom arg_6(o7)
+NegatedAtom arg_6(o7)
 end_variable
 begin_variable
 var684
 -1
 2
-0
-1
+Atom arg_6(n1)
+NegatedAtom arg_6(n1)
 end_variable
 begin_variable
 var685
 -1
 2
-0
-1
+Atom do_37_21()
+NegatedAtom do_37_21()
 end_variable
 begin_variable
 var686
 -1
 2
-0
-1
+Atom do_37_22()
+NegatedAtom do_37_22()
 end_variable
 begin_variable
 var687
 -1
 2
-0
-1
+Atom arg_5(c17)
+NegatedAtom arg_5(c17)
 end_variable
 begin_variable
 var688
 -1
 2
-0
-1
+Atom arg_8(c1)
+NegatedAtom arg_8(c1)
 end_variable
 begin_variable
 var689
 -1
 2
-0
-1
+Atom do_18_8()
+NegatedAtom do_18_8()
 end_variable
 begin_variable
 var690
 -1
 2
-0
-1
+Atom arg_8(c3)
+NegatedAtom arg_8(c3)
 end_variable
 begin_variable
 var691
 -1
 2
-0
-1
+Atom do_18_9()
+NegatedAtom do_18_9()
 end_variable
 begin_variable
 var692
 -1
 2
-0
-1
+Atom do_18_10()
+NegatedAtom do_18_10()
 end_variable
 begin_variable
 var693
 -1
 2
-0
-1
+Atom do_18_11()
+NegatedAtom do_18_11()
 end_variable
 begin_variable
 var694
 -1
 2
-0
-1
+Atom do_18_12()
+NegatedAtom do_18_12()
 end_variable
 begin_variable
 var695
 -1
 2
-0
-1
+Atom do_18_13()
+NegatedAtom do_18_13()
 end_variable
 begin_variable
 var696
 -1
 2
-0
-1
+Atom do_18_14()
+NegatedAtom do_18_14()
 end_variable
 begin_variable
 var697
 -1
 2
-0
-1
+Atom do_36_48()
+NegatedAtom do_36_48()
 end_variable
 begin_variable
 var698
 -1
 2
-0
-1
+Atom do_43_30()
+NegatedAtom do_43_30()
 end_variable
 begin_variable
 var699
 -1
 2
-0
-1
+Atom do_43_31()
+NegatedAtom do_43_31()
 end_variable
 begin_variable
 var700
 -1
 2
-0
-1
+Atom arg_5(c3)
+NegatedAtom arg_5(c3)
 end_variable
 begin_variable
 var701
 -1
 2
-0
-1
+Atom do_37_2()
+NegatedAtom do_37_2()
 end_variable
 begin_variable
 var702
 -1
 2
-0
-1
+Atom do_37_3()
+NegatedAtom do_37_3()
 end_variable
 begin_variable
 var703
 -1
 2
-0
-1
+Atom arg_5(c1)
+NegatedAtom arg_5(c1)
 end_variable
 begin_variable
 var704
 -1
 2
-0
-1
+Atom do_34_24()
+NegatedAtom do_34_24()
 end_variable
 begin_variable
 var705
 -1
 2
-0
-1
+Atom arg_5(c2)
+NegatedAtom arg_5(c2)
 end_variable
 begin_variable
 var706
 -1
 2
-0
-1
+Atom do_34_25()
+NegatedAtom do_34_25()
 end_variable
 begin_variable
 var707
 -1
 2
-0
-1
+Atom arg_8(c2)
+NegatedAtom arg_8(c2)
 end_variable
 begin_variable
 var708
 -1
 2
-0
-1
+Atom do_43_5()
+NegatedAtom do_43_5()
 end_variable
 begin_variable
 var709
 -1
 2
-0
-1
+Atom do_43_6()
+NegatedAtom do_43_6()
 end_variable
 begin_variable
 var710
 -1
 2
-0
-1
+Atom do_2_5()
+NegatedAtom do_2_5()
 end_variable
 begin_variable
 var711
 -1
 2
-0
-1
+Atom do_34_15()
+NegatedAtom do_34_15()
 end_variable
 begin_variable
 var712
 -1
 2
-0
-1
+Atom arg_12(h16)
+NegatedAtom arg_12(h16)
 end_variable
 begin_variable
 var713
 -1
 2
-0
-1
+Atom arg_12(h17)
+NegatedAtom arg_12(h17)
 end_variable
 begin_variable
 var714
 -1
 2
-0
-1
+Atom arg_12(h18)
+NegatedAtom arg_12(h18)
 end_variable
 begin_variable
 var715
 -1
 2
-0
-1
+Atom arg_13(h50)
+NegatedAtom arg_13(h50)
 end_variable
 begin_variable
 var716
 -1
 2
-0
-1
+Atom arg_13(h51)
+NegatedAtom arg_13(h51)
 end_variable
 begin_variable
 var717
 -1
 2
-0
-1
+Atom arg_12(h51)
+NegatedAtom arg_12(h51)
 end_variable
 begin_variable
 var718
 -1
 2
-0
-1
+Atom arg_13(h1)
+NegatedAtom arg_13(h1)
 end_variable
 begin_variable
 var719
 -1
 2
-0
-1
+Atom arg_13(h19)
+NegatedAtom arg_13(h19)
 end_variable
 begin_variable
 var720
 -1
 2
-0
-1
+Atom arg_12(h15)
+NegatedAtom arg_12(h15)
 end_variable
 begin_variable
 var721
 -1
 2
-0
-1
+Atom arg_13(h2)
+NegatedAtom arg_13(h2)
 end_variable
 begin_variable
 var722
 -1
 2
-0
-1
+Atom arg_13(h20)
+NegatedAtom arg_13(h20)
 end_variable
 begin_variable
 var723
 -1
 2
-0
-1
+Atom arg_12(h21)
+NegatedAtom arg_12(h21)
 end_variable
 begin_variable
 var724
 -1
 2
-0
-1
+Atom arg_13(h22)
+NegatedAtom arg_13(h22)
 end_variable
 begin_variable
 var725
 -1
 2
-0
-1
+Atom arg_13(h24)
+NegatedAtom arg_13(h24)
 end_variable
 begin_variable
 var726
 -1
 2
-0
-1
+Atom arg_12(h26)
+NegatedAtom arg_12(h26)
 end_variable
 begin_variable
 var727
 -1
 2
-0
-1
+Atom arg_13(h3)
+NegatedAtom arg_13(h3)
 end_variable
 begin_variable
 var728
 -1
 2
-0
-1
+Atom arg_12(h50)
+NegatedAtom arg_12(h50)
 end_variable
 begin_variable
 var729
 -1
 2
-0
-1
+Atom arg_13(h16)
+NegatedAtom arg_13(h16)
 end_variable
 begin_variable
 var730
 -1
 2
-0
-1
+Atom do_34_4()
+NegatedAtom do_34_4()
 end_variable
 begin_variable
 var731
 -1
 2
-0
-1
+Atom do_38_6()
+NegatedAtom do_38_6()
 end_variable
 begin_variable
 var732
 -1
 2
-0
-1
+Atom do_36_49()
+NegatedAtom do_36_49()
 end_variable
 begin_variable
 var733
 -1
 2
-0
-1
+Atom do_36_50()
+NegatedAtom do_36_50()
 end_variable
 begin_variable
 var734
 -1
 2
-0
-1
+Atom do_36_51()
+NegatedAtom do_36_51()
 end_variable
 begin_variable
 var735
 -1
 2
-0
-1
+Atom arg_13(h17)
+NegatedAtom arg_13(h17)
 end_variable
 begin_variable
 var736
 -1
 2
-0
-1
+Atom arg_12(h1)
+NegatedAtom arg_12(h1)
 end_variable
 begin_variable
 var737
 -1
 2
-0
-1
+Atom arg_13(h18)
+NegatedAtom arg_13(h18)
 end_variable
 begin_variable
 var738
 -1
 2
-0
-1
+Atom arg_13(h21)
+NegatedAtom arg_13(h21)
 end_variable
 begin_variable
 var739
 -1
 2
-0
-1
+Atom do_38_7()
+NegatedAtom do_38_7()
 end_variable
 begin_variable
 var740
 -1
 2
-0
-1
+Atom arg_12(h19)
+NegatedAtom arg_12(h19)
 end_variable
 begin_variable
 var741
 -1
 2
-0
-1
+Atom do_38_13()
+NegatedAtom do_38_13()
 end_variable
 begin_variable
 var742
 -1
 2
-0
-1
+Atom arg_12(h2)
+NegatedAtom arg_12(h2)
 end_variable
 begin_variable
 var743
 -1
 2
-0
-1
+Atom do_38_14()
+NegatedAtom do_38_14()
 end_variable
 begin_variable
 var744
 -1
 2
-0
-1
+Atom arg_12(h20)
+NegatedAtom arg_12(h20)
 end_variable
 begin_variable
 var745
 -1
 2
-0
-1
+Atom arg_12(h22)
+NegatedAtom arg_12(h22)
 end_variable
 begin_variable
 var746
 -1
 2
-0
-1
+Atom arg_12(h24)
+NegatedAtom arg_12(h24)
 end_variable
 begin_variable
 var747
 -1
 2
-0
-1
+Atom arg_12(h3)
+NegatedAtom arg_12(h3)
 end_variable
 begin_variable
 var748
 -1
 2
-0
-1
+Atom do_36_35()
+NegatedAtom do_36_35()
 end_variable
 begin_variable
 var749
 -1
 2
-0
-1
+Atom do_36_36()
+NegatedAtom do_36_36()
 end_variable
 begin_variable
 var750
 -1
 2
-0
-1
+Atom do_36_37()
+NegatedAtom do_36_37()
 end_variable
 begin_variable
 var751
 -1
 2
-0
-1
+Atom arg_13(h26)
+NegatedAtom arg_13(h26)
 end_variable
 begin_variable
 var752
 -1
 2
-0
-1
+Atom arg_13(h15)
+NegatedAtom arg_13(h15)
 end_variable
 begin_variable
 var753
 -1
 2
-0
-1
+Atom do_36_31()
+NegatedAtom do_36_31()
 end_variable
 begin_variable
 var754
 -1
 2
-0
-1
+Atom arg_10(h16)
+NegatedAtom arg_10(h16)
 end_variable
 begin_variable
 var755
 -1
 2
-0
-1
+Atom arg_10(h17)
+NegatedAtom arg_10(h17)
 end_variable
 begin_variable
 var756
 -1
 2
-0
-1
+Atom arg_10(h18)
+NegatedAtom arg_10(h18)
 end_variable
 begin_variable
 var757
 -1
 2
-0
-1
+Atom arg_10(h50)
+NegatedAtom arg_10(h50)
 end_variable
 begin_variable
 var758
 -1
 2
-0
-1
+Atom arg_10(h51)
+NegatedAtom arg_10(h51)
 end_variable
 begin_variable
 var759
 -1
 2
-0
-1
+Atom arg_10(h1)
+NegatedAtom arg_10(h1)
 end_variable
 begin_variable
 var760
 -1
 2
-0
-1
+Atom arg_10(h15)
+NegatedAtom arg_10(h15)
 end_variable
 begin_variable
 var761
 -1
 2
-0
-1
+Atom arg_10(h19)
+NegatedAtom arg_10(h19)
 end_variable
 begin_variable
 var762
 -1
 2
-0
-1
+Atom arg_10(h2)
+NegatedAtom arg_10(h2)
 end_variable
 begin_variable
 var763
 -1
 2
-0
-1
+Atom do_34_12()
+NegatedAtom do_34_12()
 end_variable
 begin_variable
 var764
 -1
 2
-0
-1
+Atom arg_10(h20)
+NegatedAtom arg_10(h20)
 end_variable
 begin_variable
 var765
 -1
 2
-0
-1
+Atom do_43_19()
+NegatedAtom do_43_19()
 end_variable
 begin_variable
 var766
 -1
 2
-0
-1
+Atom arg_10(h21)
+NegatedAtom arg_10(h21)
 end_variable
 begin_variable
 var767
 -1
 2
-0
-1
+Atom do_34_13()
+NegatedAtom do_34_13()
 end_variable
 begin_variable
 var768
 -1
 2
-0
-1
+Atom do_34_14()
+NegatedAtom do_34_14()
 end_variable
 begin_variable
 var769
 -1
 2
-0
-1
+Atom arg_10(h22)
+NegatedAtom arg_10(h22)
 end_variable
 begin_variable
 var770
 -1
 2
-0
-1
+Atom do_18_28()
+NegatedAtom do_18_28()
 end_variable
 begin_variable
 var771
 -1
 2
-0
-1
+Atom arg_10(h24)
+NegatedAtom arg_10(h24)
 end_variable
 begin_variable
 var772
 -1
 2
-0
-1
+Atom arg_10(h26)
+NegatedAtom arg_10(h26)
 end_variable
 begin_variable
 var773
 -1
 2
-0
-1
+Atom do_18_29()
+NegatedAtom do_18_29()
 end_variable
 begin_variable
 var774
 -1
 2
-0
-1
+Atom do_18_30()
+NegatedAtom do_18_30()
 end_variable
 begin_variable
 var775
 -1
 2
-0
-1
+Atom arg_10(h3)
+NegatedAtom arg_10(h3)
 end_variable
 begin_variable
 var776
 -1
 2
-0
-1
+Atom arg_11(h16)
+NegatedAtom arg_11(h16)
 end_variable
 begin_variable
 var777
 -1
 2
-0
-1
+Atom arg_11(h17)
+NegatedAtom arg_11(h17)
 end_variable
 begin_variable
 var778
 -1
 2
-0
-1
+Atom arg_11(h18)
+NegatedAtom arg_11(h18)
 end_variable
 begin_variable
 var779
 -1
 2
-0
-1
+Atom arg_11(h50)
+NegatedAtom arg_11(h50)
 end_variable
 begin_variable
 var780
 -1
 2
-0
-1
+Atom arg_11(h51)
+NegatedAtom arg_11(h51)
 end_variable
 begin_variable
 var781
 -1
 2
-0
-1
+Atom arg_11(h3)
+NegatedAtom arg_11(h3)
 end_variable
 begin_variable
 var782
 -1
 2
-0
-1
+Atom arg_11(h1)
+NegatedAtom arg_11(h1)
 end_variable
 begin_variable
 var783
 -1
 2
-0
-1
+Atom do_43_32()
+NegatedAtom do_43_32()
 end_variable
 begin_variable
 var784
 -1
 2
-0
-1
+Atom arg_11(h15)
+NegatedAtom arg_11(h15)
 end_variable
 begin_variable
 var785
 -1
 2
-0
-1
+Atom arg_11(h19)
+NegatedAtom arg_11(h19)
 end_variable
 begin_variable
 var786
 -1
 2
-0
-1
+Atom do_34_5()
+NegatedAtom do_34_5()
 end_variable
 begin_variable
 var787
 -1
 2
-0
-1
+Atom do_36_25()
+NegatedAtom do_36_25()
 end_variable
 begin_variable
 var788
 -1
 2
-0
-1
+Atom do_36_32()
+NegatedAtom do_36_32()
 end_variable
 begin_variable
 var789
 -1
 2
-0
-1
+Atom do_37_6()
+NegatedAtom do_37_6()
 end_variable
 begin_variable
 var790
 -1
 2
-0
-1
+Atom do_43_20()
+NegatedAtom do_43_20()
 end_variable
 begin_variable
 var791
 -1
 2
-0
-1
+Atom do_34_6()
+NegatedAtom do_34_6()
 end_variable
 begin_variable
 var792
 -1
 2
-0
-1
+Atom do_36_26()
+NegatedAtom do_36_26()
 end_variable
 begin_variable
 var793
 -1
 2
-0
-1
+Atom do_36_27()
+NegatedAtom do_36_27()
 end_variable
 begin_variable
 var794
 -1
 2
-0
-1
+Atom do_36_33()
+NegatedAtom do_36_33()
 end_variable
 begin_variable
 var795
 -1
 2
-0
-1
+Atom do_36_34()
+NegatedAtom do_36_34()
 end_variable
 begin_variable
 var796
 -1
 2
-0
-1
+Atom do_37_7()
+NegatedAtom do_37_7()
 end_variable
 begin_variable
 var797
 -1
 2
-0
-1
+Atom do_37_8()
+NegatedAtom do_37_8()
 end_variable
 begin_variable
 var798
 -1
 2
-0
-1
+Atom do_43_21()
+NegatedAtom do_43_21()
 end_variable
 begin_variable
 var799
 -1
 2
-0
-1
+Atom do_34_7()
+NegatedAtom do_34_7()
 end_variable
 begin_variable
 var800
 -1
 2
-0
-1
+Atom do_36_28()
+NegatedAtom do_36_28()
 end_variable
 begin_variable
 var801
 -1
 2
-0
-1
+Atom do_37_9()
+NegatedAtom do_37_9()
 end_variable
 begin_variable
 var802
 -1
 2
-0
-1
+Atom do_43_22()
+NegatedAtom do_43_22()
 end_variable
 begin_variable
 var803
 -1
 2
-0
-1
+Atom do_36_29()
+NegatedAtom do_36_29()
 end_variable
 begin_variable
 var804
 -1
 2
-0
-1
+Atom do_36_30()
+NegatedAtom do_36_30()
 end_variable
 begin_variable
 var805
 -1
 2
-0
-1
+Atom do_37_10()
+NegatedAtom do_37_10()
 end_variable
 begin_variable
 var806
 -1
 2
-0
-1
+Atom do_43_23()
+NegatedAtom do_43_23()
 end_variable
 begin_variable
 var807
 -1
 2
-0
-1
+Atom do_43_24()
+NegatedAtom do_43_24()
 end_variable
 begin_variable
 var808
 -1
 2
-0
-1
+Atom do_37_11()
+NegatedAtom do_37_11()
 end_variable
 begin_variable
 var809
 -1
 2
-0
-1
+Atom arg_11(h2)
+NegatedAtom arg_11(h2)
 end_variable
 begin_variable
 var810
 -1
 2
-0
-1
+Atom do_37_12()
+NegatedAtom do_37_12()
 end_variable
 begin_variable
 var811
 -1
 2
-0
-1
+Atom arg_11(h20)
+NegatedAtom arg_11(h20)
 end_variable
 begin_variable
 var812
 -1
 2
-0
-1
+Atom do_18_20()
+NegatedAtom do_18_20()
 end_variable
 begin_variable
 var813
 -1
 2
-0
-1
+Atom do_18_25()
+NegatedAtom do_18_25()
 end_variable
 begin_variable
 var814
 -1
 2
-0
-1
+Atom do_18_21()
+NegatedAtom do_18_21()
 end_variable
 begin_variable
 var815
 -1
 2
-0
-1
+Atom do_18_26()
+NegatedAtom do_18_26()
 end_variable
 begin_variable
 var816
 -1
 2
-0
-1
+Atom arg_11(h21)
+NegatedAtom arg_11(h21)
 end_variable
 begin_variable
 var817
 -1
 2
-0
-1
+Atom arg_11(h22)
+NegatedAtom arg_11(h22)
 end_variable
 begin_variable
 var818
 -1
 2
-0
-1
+Atom arg_11(h24)
+NegatedAtom arg_11(h24)
 end_variable
 begin_variable
 var819
 -1
 2
-0
-1
+Atom arg_11(h26)
+NegatedAtom arg_11(h26)
 end_variable
 begin_variable
 var820
 -1
 2
-0
-1
+Atom do_43_33()
+NegatedAtom do_43_33()
 end_variable
 begin_variable
 var821
 -1
 2
-0
-1
+Atom do_16_2()
+NegatedAtom do_16_2()
 end_variable
 begin_variable
 var822
 -1
 2
-0
-1
+Atom do_14_2()
+NegatedAtom do_14_2()
 end_variable
 begin_variable
 var823
 -1
 2
-0
-1
+Atom arg_8(h16)
+NegatedAtom arg_8(h16)
 end_variable
 begin_variable
 var824
 -1
 2
-0
-1
+Atom arg_8(h17)
+NegatedAtom arg_8(h17)
 end_variable
 begin_variable
 var825
 -1
 2
-0
-1
+Atom arg_8(h18)
+NegatedAtom arg_8(h18)
 end_variable
 begin_variable
 var826
 -1
 2
-0
-1
+Atom arg_8(h51)
+NegatedAtom arg_8(h51)
 end_variable
 begin_variable
 var827
 -1
 2
-0
-1
+Atom arg_8(h50)
+NegatedAtom arg_8(h50)
 end_variable
 begin_variable
 var828
 -1
 2
-0
-1
+Atom do_29_2()
+NegatedAtom do_29_2()
 end_variable
 begin_variable
 var829
 -1
 2
-0
-1
+Atom do_2_6()
+NegatedAtom do_2_6()
 end_variable
 begin_variable
 var830
 -1
 2
-0
-1
+Atom do_2_7()
+NegatedAtom do_2_7()
 end_variable
 begin_variable
 var831
 -1
 2
-0
-1
+Atom do_2_8()
+NegatedAtom do_2_8()
 end_variable
 begin_variable
 var832
 -1
 2
-0
-1
+Atom arg_8(h1)
+NegatedAtom arg_8(h1)
 end_variable
 begin_variable
 var833
 -1
 2
-0
-1
+Atom arg_8(h15)
+NegatedAtom arg_8(h15)
 end_variable
 begin_variable
 var834
 -1
 2
-0
-1
+Atom arg_8(h19)
+NegatedAtom arg_8(h19)
 end_variable
 begin_variable
 var835
 -1
 2
-0
-1
+Atom do_5_4()
+NegatedAtom do_5_4()
 end_variable
 begin_variable
 var836
 -1
 2
-0
-1
+Atom arg_8(h2)
+NegatedAtom arg_8(h2)
 end_variable
 begin_variable
 var837
 -1
 2
-0
-1
+Atom arg_8(h20)
+NegatedAtom arg_8(h20)
 end_variable
 begin_variable
 var838
 -1
 2
-0
-1
+Atom arg_8(h21)
+NegatedAtom arg_8(h21)
 end_variable
 begin_variable
 var839
 -1
 2
-0
-1
+Atom arg_8(h22)
+NegatedAtom arg_8(h22)
 end_variable
 begin_variable
 var840
 -1
 2
-0
-1
+Atom arg_8(h24)
+NegatedAtom arg_8(h24)
 end_variable
 begin_variable
 var841
 -1
 2
-0
-1
+Atom arg_8(h26)
+NegatedAtom arg_8(h26)
 end_variable
 begin_variable
 var842
 -1
 2
-0
-1
+Atom arg_8(h3)
+NegatedAtom arg_8(h3)
 end_variable
 begin_variable
 var843
 -1
 2
-0
-1
+Atom arg_6(c17)
+NegatedAtom arg_6(c17)
 end_variable
 begin_variable
 var844
 -1
 2
-0
-1
+Atom arg_6(h16)
+NegatedAtom arg_6(h16)
 end_variable
 begin_variable
 var845
 -1
 2
-0
-1
+Atom arg_6(h17)
+NegatedAtom arg_6(h17)
 end_variable
 begin_variable
 var846
 -1
 2
-0
-1
+Atom arg_6(h18)
+NegatedAtom arg_6(h18)
 end_variable
 begin_variable
 var847
 -1
 2
-0
-1
+Atom arg_6(h51)
+NegatedAtom arg_6(h51)
 end_variable
 begin_variable
 var848
 -1
 2
-0
-1
+Atom arg_7(c17)
+NegatedAtom arg_7(c17)
 end_variable
 begin_variable
 var849
 -1
 2
-0
-1
+Atom arg_6(h50)
+NegatedAtom arg_6(h50)
 end_variable
 begin_variable
 var850
 -1
 2
-0
-1
+Atom arg_6(h1)
+NegatedAtom arg_6(h1)
 end_variable
 begin_variable
 var851
 -1
 2
-0
-1
+Atom do_32_3()
+NegatedAtom do_32_3()
 end_variable
 begin_variable
 var852
 -1
 2
-0
-1
+Atom arg_6(h15)
+NegatedAtom arg_6(h15)
 end_variable
 begin_variable
 var853
 -1
 2
-0
-1
+Atom do_34_8()
+NegatedAtom do_34_8()
 end_variable
 begin_variable
 var854
 -1
 2
-0
-1
+Atom do_37_14()
+NegatedAtom do_37_14()
 end_variable
 begin_variable
 var855
 -1
 2
-0
-1
+Atom do_38_8()
+NegatedAtom do_38_8()
 end_variable
 begin_variable
 var856
 -1
 2
-0
-1
+Atom arg_6(h19)
+NegatedAtom arg_6(h19)
 end_variable
 begin_variable
 var857
 -1
 2
-0
-1
+Atom do_32_4()
+NegatedAtom do_32_4()
 end_variable
 begin_variable
 var858
 -1
 2
-0
-1
+Atom do_30_2()
+NegatedAtom do_30_2()
 end_variable
 begin_variable
 var859
 -1
 2
-0
-1
+Atom do_30_3()
+NegatedAtom do_30_3()
 end_variable
 begin_variable
 var860
 -1
 2
-0
-1
+Atom do_30_4()
+NegatedAtom do_30_4()
 end_variable
 begin_variable
 var861
 -1
 2
-0
-1
+Atom arg_6(h2)
+NegatedAtom arg_6(h2)
 end_variable
 begin_variable
 var862
 -1
 2
-0
-1
+Atom arg_6(h20)
+NegatedAtom arg_6(h20)
 end_variable
 begin_variable
 var863
 -1
 2
-0
-1
+Atom arg_6(h21)
+NegatedAtom arg_6(h21)
 end_variable
 begin_variable
 var864
 -1
 2
-0
-1
+Atom arg_6(h22)
+NegatedAtom arg_6(h22)
 end_variable
 begin_variable
 var865
 -1
 2
-0
-1
+Atom do_34_9()
+NegatedAtom do_34_9()
 end_variable
 begin_variable
 var866
 -1
 2
-0
-1
+Atom do_34_10()
+NegatedAtom do_34_10()
 end_variable
 begin_variable
 var867
 -1
 2
-0
-1
+Atom do_38_9()
+NegatedAtom do_38_9()
 end_variable
 begin_variable
 var868
 -1
 2
-0
-1
+Atom do_38_10()
+NegatedAtom do_38_10()
 end_variable
 begin_variable
 var869
 -1
 2
-0
-1
+Atom do_38_11()
+NegatedAtom do_38_11()
 end_variable
 begin_variable
 var870
 -1
 2
-0
-1
+Atom arg_6(h24)
+NegatedAtom arg_6(h24)
 end_variable
 begin_variable
 var871
 -1
 2
-0
-1
+Atom arg_6(h26)
+NegatedAtom arg_6(h26)
 end_variable
 begin_variable
 var872
 -1
 2
-0
-1
+Atom do_18_22()
+NegatedAtom do_18_22()
 end_variable
 begin_variable
 var873
 -1
 2
-0
-1
+Atom do_18_36()
+NegatedAtom do_18_36()
 end_variable
 begin_variable
 var874
 -1
 2
-0
-1
+Atom do_18_39()
+NegatedAtom do_18_39()
 end_variable
 begin_variable
 var875
 -1
 2
-0
-1
+Atom do_18_23()
+NegatedAtom do_18_23()
 end_variable
 begin_variable
 var876
 -1
 2
-0
-1
+Atom arg_6(h3)
+NegatedAtom arg_6(h3)
 end_variable
 begin_variable
 var877
 -1
 2
-0
-1
+Atom arg_7(c1)
+NegatedAtom arg_7(c1)
 end_variable
 begin_variable
 var878
 -1
 2
-0
-1
+Atom arg_7(c3)
+NegatedAtom arg_7(c3)
 end_variable
 begin_variable
 var879
 -1
 2
-0
-1
+Atom arg_7(h16)
+NegatedAtom arg_7(h16)
 end_variable
 begin_variable
 var880
 -1
 2
-0
-1
+Atom arg_7(h17)
+NegatedAtom arg_7(h17)
 end_variable
 begin_variable
 var881
 -1
 2
-0
-1
+Atom arg_7(h18)
+NegatedAtom arg_7(h18)
 end_variable
 begin_variable
 var882
 -1
 2
-0
-1
+Atom arg_7(h51)
+NegatedAtom arg_7(h51)
 end_variable
 begin_variable
 var883
 -1
 2
-0
-1
+Atom arg_6(c3)
+NegatedAtom arg_6(c3)
 end_variable
 begin_variable
 var884
 -1
 2
-0
-1
+Atom do_18_40()
+NegatedAtom do_18_40()
 end_variable
 begin_variable
 var885
 -1
 2
-0
-1
+Atom do_18_41()
+NegatedAtom do_18_41()
 end_variable
 begin_variable
 var886
 -1
 2
-0
-1
+Atom do_18_42()
+NegatedAtom do_18_42()
 end_variable
 begin_variable
 var887
 -1
 2
-0
-1
+Atom arg_6(c1)
+NegatedAtom arg_6(c1)
 end_variable
 begin_variable
 var888
 -1
 2
-0
-1
+Atom arg_6(c2)
+NegatedAtom arg_6(c2)
 end_variable
 begin_variable
 var889
 -1
 2
-0
-1
+Atom arg_7(h50)
+NegatedAtom arg_7(h50)
 end_variable
 begin_variable
 var890
 -1
 2
-0
-1
+Atom arg_7(h1)
+NegatedAtom arg_7(h1)
 end_variable
 begin_variable
 var891
 -1
 2
-0
-1
+Atom arg_7(h15)
+NegatedAtom arg_7(h15)
 end_variable
 begin_variable
 var892
 -1
 2
-0
-1
+Atom do_38_16()
+NegatedAtom do_38_16()
 end_variable
 begin_variable
 var893
 -1
 2
-0
-1
+Atom do_42_3()
+NegatedAtom do_42_3()
 end_variable
 begin_variable
 var894
 -1
 2
-0
-1
+Atom do_5_5()
+NegatedAtom do_5_5()
 end_variable
 begin_variable
 var895
 -1
 2
-0
-1
+Atom do_4_4()
+NegatedAtom do_4_4()
 end_variable
 begin_variable
 var896
 -1
 2
-0
-1
+Atom arg_7(h19)
+NegatedAtom arg_7(h19)
 end_variable
 begin_variable
 var897
 -1
 2
-0
-1
+Atom arg_7(h2)
+NegatedAtom arg_7(h2)
 end_variable
 begin_variable
 var898
 -1
 2
-0
-1
+Atom arg_7(h20)
+NegatedAtom arg_7(h20)
 end_variable
 begin_variable
 var899
 -1
 2
-0
-1
+Atom arg_7(h21)
+NegatedAtom arg_7(h21)
 end_variable
 begin_variable
 var900
 -1
 2
-0
-1
+Atom do_34_16()
+NegatedAtom do_34_16()
 end_variable
 begin_variable
 var901
 -1
 2
-0
-1
+Atom arg_7(h22)
+NegatedAtom arg_7(h22)
 end_variable
 begin_variable
 var902
 -1
 2
-0
-1
+Atom do_5_6()
+NegatedAtom do_5_6()
 end_variable
 begin_variable
 var903
 -1
 2
-0
-1
+Atom do_14_3()
+NegatedAtom do_14_3()
 end_variable
 begin_variable
 var904
 -1
 2
-0
-1
+Atom arg_7(h24)
+NegatedAtom arg_7(h24)
 end_variable
 begin_variable
 var905
 -1
 2
-0
-1
+Atom arg_7(h26)
+NegatedAtom arg_7(h26)
 end_variable
 begin_variable
 var906
 -1
 2
-0
-1
+Atom do_33_5()
+NegatedAtom do_33_5()
 end_variable
 begin_variable
 var907
 -1
 2
-0
-1
+Atom do_33_6()
+NegatedAtom do_33_6()
 end_variable
 begin_variable
 var908
 -1
 2
-0
-1
+Atom arg_7(h3)
+NegatedAtom arg_7(h3)
 end_variable
 begin_variable
 var909
 -1
 2
-0
-1
+Atom do_29_3()
+NegatedAtom do_29_3()
 end_variable
 begin_variable
 var910
 -1
 2
-0
-1
+Atom do_29_4()
+NegatedAtom do_29_4()
 end_variable
 begin_variable
 var911
 -1
 2
-0
-1
+Atom do_34_17()
+NegatedAtom do_34_17()
 end_variable
 begin_variable
 var912
 -1
 2
-0
-1
+Atom do_34_18()
+NegatedAtom do_34_18()
 end_variable
 begin_variable
 var913
 -1
 2
-0
-1
+Atom do_34_19()
+NegatedAtom do_34_19()
 end_variable
 begin_variable
 var914
 -1
 2
-0
-1
+Atom do_34_20()
+NegatedAtom do_34_20()
 end_variable
 begin_variable
 var915
 -1
 2
-0
-1
+Atom arg_7(c2)
+NegatedAtom arg_7(c2)
 end_variable
 begin_variable
 var916
 -1
 2
-0
-1
+Atom do_33_2()
+NegatedAtom do_33_2()
 end_variable
 begin_variable
 var917
 -1
 2
-0
-1
+Atom bond(h50, n1)
+NegatedAtom bond(h50, n1)
 end_variable
 begin_variable
 var918
 -1
 2
-0
-1
+Atom bond(c17, n1)
+NegatedAtom bond(c17, n1)
 end_variable
 begin_variable
 var919
 -1
 2
-0
-1
+Atom bond(n1, c17)
+NegatedAtom bond(n1, c17)
 end_variable
 begin_variable
 var920
 -1
 2
-0
-1
+Atom bond(c3, n1)
+NegatedAtom bond(c3, n1)
 end_variable
 begin_variable
 var921
 -1
 2
-0
-1
+Atom bond(n1, c3)
+NegatedAtom bond(n1, c3)
 end_variable
 begin_variable
 var922
 -1
 2
-0
-1
+Atom bond(n1, h50)
+NegatedAtom bond(n1, h50)
 end_variable
 begin_variable
 var923
 -1
 2
-0
-1
+Atom bond(h24, c17)
+NegatedAtom bond(h24, c17)
 end_variable
 begin_variable
 var924
 -1
 2
-0
-1
+Atom bond(h26, c17)
+NegatedAtom bond(h26, c17)
 end_variable
 begin_variable
 var925
 -1
 2
-0
-1
+Atom bond(h21, c3)
+NegatedAtom bond(h21, c3)
 end_variable
 begin_variable
 var926
 -1
 2
-0
-1
+Atom bond(h22, c3)
+NegatedAtom bond(h22, c3)
 end_variable
 begin_variable
 var927
 -1
 2
-0
-1
+Atom bond(h1, c1)
+NegatedAtom bond(h1, c1)
 end_variable
 begin_variable
 var928
 -1
 2
-0
-1
+Atom bond(h2, c1)
+NegatedAtom bond(h2, c1)
 end_variable
 begin_variable
 var929
 -1
 2
-0
-1
+Atom bond(h3, c1)
+NegatedAtom bond(h3, c1)
 end_variable
 begin_variable
 var930
 -1
 2
-0
-1
+Atom bond(h19, c2)
+NegatedAtom bond(h19, c2)
 end_variable
 begin_variable
 var931
 -1
 2
-0
-1
+Atom bond(h20, c2)
+NegatedAtom bond(h20, c2)
 end_variable
 begin_variable
 var932
 -1
 2
-0
-1
+Atom bond(c17, h24)
+NegatedAtom bond(c17, h24)
 end_variable
 begin_variable
 var933
 -1
 2
-0
-1
+Atom bond(c17, h26)
+NegatedAtom bond(c17, h26)
 end_variable
 begin_variable
 var934
 -1
 2
-0
-1
+Atom bond(c3, h21)
+NegatedAtom bond(c3, h21)
 end_variable
 begin_variable
 var935
 -1
 2
-0
-1
+Atom bond(c3, h22)
+NegatedAtom bond(c3, h22)
 end_variable
 begin_variable
 var936
 -1
 2
-0
-1
+Atom bond(c1, h1)
+NegatedAtom bond(c1, h1)
 end_variable
 begin_variable
 var937
 -1
 2
-0
-1
+Atom bond(c1, h2)
+NegatedAtom bond(c1, h2)
 end_variable
 begin_variable
 var938
 -1
 2
-0
-1
+Atom bond(c1, h3)
+NegatedAtom bond(c1, h3)
 end_variable
 begin_variable
 var939
 -1
 2
-0
-1
+Atom bond(c2, h19)
+NegatedAtom bond(c2, h19)
 end_variable
 begin_variable
 var940
 -1
 2
-0
-1
+Atom bond(c2, h20)
+NegatedAtom bond(c2, h20)
 end_variable
 begin_variable
 var941
 -1
 2
-0
-1
+Atom bond(h15, c17)
+NegatedAtom bond(h15, c17)
 end_variable
 begin_variable
 var942
 -1
 2
-0
-1
+Atom bond(c17, h15)
+NegatedAtom bond(c17, h15)
 end_variable
 begin_variable
 var943
 -1
 2
-0
-1
+Atom bond(c1, c2)
+NegatedAtom bond(c1, c2)
 end_variable
 begin_variable
 var944
 -1
 2
-0
-1
+Atom bond(c2, c1)
+NegatedAtom bond(c2, c1)
 end_variable
 begin_variable
 var945
 -1
 2
-0
-1
+Atom bond(c2, c3)
+NegatedAtom bond(c2, c3)
 end_variable
 begin_variable
 var946
 -1
 2
-0
-1
+Atom bond(c3, c2)
+NegatedAtom bond(c3, c2)
 end_variable
 begin_variable
 var947
 -1
 2
-0
-1
+Atom procnone()
+NegatedAtom procnone()
 end_variable
 0
 begin_state

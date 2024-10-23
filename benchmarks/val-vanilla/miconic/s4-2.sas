@@ -9,70 +9,70 @@ begin_variable
 var0
 -1
 8
-0
-1
-2
-3
-4
-5
-6
-7
+Atom lift-at(f0)
+Atom lift-at(f1)
+Atom lift-at(f2)
+Atom lift-at(f3)
+Atom lift-at(f4)
+Atom lift-at(f5)
+Atom lift-at(f6)
+Atom lift-at(f7)
 end_variable
 begin_variable
 var1
 -1
 2
-0
-1
+Atom boarded(p3)
+NegatedAtom boarded(p3)
 end_variable
 begin_variable
 var2
 -1
 2
-0
-1
+Atom served(p3)
+NegatedAtom served(p3)
 end_variable
 begin_variable
 var3
 -1
 2
-0
-1
+Atom boarded(p2)
+NegatedAtom boarded(p2)
 end_variable
 begin_variable
 var4
 -1
 2
-0
-1
+Atom served(p2)
+NegatedAtom served(p2)
 end_variable
 begin_variable
 var5
 -1
 2
-0
-1
+Atom boarded(p1)
+NegatedAtom boarded(p1)
 end_variable
 begin_variable
 var6
 -1
 2
-0
-1
+Atom served(p1)
+NegatedAtom served(p1)
 end_variable
 begin_variable
 var7
 -1
 2
-0
-1
+Atom boarded(p0)
+NegatedAtom boarded(p0)
 end_variable
 begin_variable
 var8
 -1
 2
-0
-1
+Atom served(p0)
+NegatedAtom served(p0)
 end_variable
 0
 begin_state

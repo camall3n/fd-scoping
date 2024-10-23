@@ -9,71 +9,71 @@ begin_variable
 var0
 -1
 3
-0
-1
-2
+Atom power_avail(satellite0)
+Atom power_on(instrument0)
+Atom power_on(instrument1)
 end_variable
 begin_variable
 var1
 -1
 8
-0
-1
-2
-3
-4
-5
-6
-7
+Atom pointing(satellite0, groundstation1)
+Atom pointing(satellite0, groundstation2)
+Atom pointing(satellite0, phenomenon5)
+Atom pointing(satellite0, phenomenon6)
+Atom pointing(satellite0, planet3)
+Atom pointing(satellite0, planet4)
+Atom pointing(satellite0, star0)
+Atom pointing(satellite0, star7)
 end_variable
 begin_variable
 var2
 -1
 2
-0
-1
+Atom calibrated(instrument1)
+NegatedAtom calibrated(instrument1)
 end_variable
 begin_variable
 var3
 -1
 2
-0
-1
+Atom have_image(phenomenon5, image2)
+NegatedAtom have_image(phenomenon5, image2)
 end_variable
 begin_variable
 var4
 -1
 2
-0
-1
+Atom calibrated(instrument0)
+NegatedAtom calibrated(instrument0)
 end_variable
 begin_variable
 var5
 -1
 2
-0
-1
+Atom have_image(star7, infrared0)
+NegatedAtom have_image(star7, infrared0)
 end_variable
 begin_variable
 var6
 -1
 2
-0
-1
+Atom have_image(planet4, infrared0)
+NegatedAtom have_image(planet4, infrared0)
 end_variable
 begin_variable
 var7
 -1
 2
-0
-1
+Atom have_image(planet3, infrared0)
+NegatedAtom have_image(planet3, infrared0)
 end_variable
 begin_variable
 var8
 -1
 2
-0
-1
+Atom have_image(phenomenon6, infrared0)
+NegatedAtom have_image(phenomenon6, infrared0)
 end_variable
 0
 begin_state

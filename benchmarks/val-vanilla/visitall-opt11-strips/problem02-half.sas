@@ -9,17 +9,17 @@ begin_variable
 var0
 -1
 4
-0
-1
-2
-3
+Atom at-robot(loc-x0-y0)
+Atom at-robot(loc-x0-y1)
+Atom at-robot(loc-x1-y0)
+Atom at-robot(loc-x1-y1)
 end_variable
 begin_variable
 var1
 -1
 2
-0
-1
+Atom visited(loc-x1-y0)
+NegatedAtom visited(loc-x1-y0)
 end_variable
 0
 begin_state
