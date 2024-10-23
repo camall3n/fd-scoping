@@ -1901,112 +1901,112 @@ begin_operator
 feast achievement baguette lemon alsace bavaria
 0
 2
-0 18 0 5
 0 13 1 0
+0 18 0 5
 1
 end_operator
 begin_operator
 feast achievement baguette lemon oregon alsace
 0
 2
-0 18 0 5
 0 13 0 2
+0 18 0 5
 1
 end_operator
 begin_operator
 feast achievement baguette lobster alsace bavaria
 0
 2
-0 18 0 6
 0 13 1 0
+0 18 0 6
 1
 end_operator
 begin_operator
 feast achievement baguette lobster oregon alsace
 0
 2
-0 18 0 6
 0 13 0 2
+0 18 0 6
 1
 end_operator
 begin_operator
 feast achievement flounder lemon alsace bavaria
 0
 2
-0 18 1 5
 0 17 1 0
+0 18 1 5
 1
 end_operator
 begin_operator
 feast achievement flounder lemon bavaria quebec
 0
 2
-0 18 1 5
 0 17 3 1
+0 18 1 5
 1
 end_operator
 begin_operator
 feast achievement flounder lemon oregon alsace
 0
 2
-0 18 1 5
 0 17 0 2
+0 18 1 5
 1
 end_operator
 begin_operator
 feast achievement flounder scallion alsace bavaria
 0
 2
-0 18 1 13
 0 17 1 0
+0 18 1 13
 1
 end_operator
 begin_operator
 feast achievement flounder scallion bavaria quebec
 0
 2
-0 18 1 13
 0 17 3 1
+0 18 1 13
 1
 end_operator
 begin_operator
 feast achievement flounder scallion oregon alsace
 0
 2
-0 18 1 13
 0 17 0 2
+0 18 1 13
 1
 end_operator
 begin_operator
 feast achievement hamburger papaya alsace bavaria
 0
 2
-0 18 3 11
 0 14 1 0
+0 18 3 11
 1
 end_operator
 begin_operator
 feast achievement hamburger papaya oregon alsace
 0
 2
-0 18 3 11
 0 14 0 2
+0 18 3 11
 1
 end_operator
 begin_operator
 feast achievement hamburger scallion alsace bavaria
 0
 2
-0 18 3 13
 0 14 1 0
+0 18 3 13
 1
 end_operator
 begin_operator
 feast achievement hamburger scallion oregon alsace
 0
 2
-0 18 3 13
 0 14 0 2
+0 18 3 13
 1
 end_operator
 begin_operator
@@ -2085,160 +2085,160 @@ begin_operator
 feast achievement lobster baguette oregon alsace
 0
 2
-0 18 6 0
 0 11 0 1
+0 18 6 0
 1
 end_operator
 begin_operator
 feast achievement lobster marzipan oregon alsace
 0
 2
-0 18 6 7
 0 11 0 1
+0 18 6 7
 1
 end_operator
 begin_operator
 feast achievement lobster papaya oregon alsace
 0
 2
-0 18 6 11
 0 11 0 1
+0 18 6 11
 1
 end_operator
 begin_operator
 feast achievement melon haroset oregon alsace
 0
 2
-0 18 8 4
 0 8 0 1
+0 18 8 4
 1
 end_operator
 begin_operator
 feast achievement melon onion oregon alsace
 0
 2
-0 18 8 10
 0 8 0 1
+0 18 8 10
 1
 end_operator
 begin_operator
 feast achievement muffin ham alsace bavaria
 0
 2
-0 18 9 2
 0 15 1 0
+0 18 9 2
 1
 end_operator
 begin_operator
 feast achievement muffin ham oregon alsace
 0
 2
-0 18 9 2
 0 15 0 2
+0 18 9 2
 1
 end_operator
 begin_operator
 feast achievement muffin potato alsace bavaria
 0
 2
-0 18 9 12
 0 15 1 0
+0 18 9 12
 1
 end_operator
 begin_operator
 feast achievement muffin potato oregon alsace
 0
 2
-0 18 9 12
 0 15 0 2
+0 18 9 12
 1
 end_operator
 begin_operator
 feast achievement onion lemon oregon alsace
 0
 2
-0 18 10 5
 0 12 0 1
+0 18 10 5
 1
 end_operator
 begin_operator
 feast achievement onion melon oregon alsace
 0
 2
-0 18 10 8
 0 12 0 1
+0 18 10 8
 1
 end_operator
 begin_operator
 feast achievement onion turkey oregon alsace
 0
 2
-0 18 10 15
 0 12 0 1
+0 18 10 15
 1
 end_operator
 begin_operator
 feast achievement papaya hamburger alsace bavaria
 0
 2
-0 18 11 3
 0 16 1 0
+0 18 11 3
 1
 end_operator
 begin_operator
 feast achievement papaya hamburger oregon alsace
 0
 2
-0 18 11 3
 0 16 0 2
+0 18 11 3
 1
 end_operator
 begin_operator
 feast achievement papaya lobster alsace bavaria
 0
 2
-0 18 11 6
 0 16 1 0
+0 18 11 6
 1
 end_operator
 begin_operator
 feast achievement papaya lobster oregon alsace
 0
 2
-0 18 11 6
 0 16 0 2
+0 18 11 6
 1
 end_operator
 begin_operator
 feast achievement potato muffin oregon alsace
 0
 2
-0 18 12 9
 0 9 0 1
+0 18 12 9
 1
 end_operator
 begin_operator
 feast achievement potato turkey oregon alsace
 0
 2
-0 18 12 15
 0 9 0 1
+0 18 12 15
 1
 end_operator
 begin_operator
 feast achievement scallion flounder oregon alsace
 0
 2
-0 18 13 1
 0 10 0 1
+0 18 13 1
 1
 end_operator
 begin_operator
 feast achievement scallion hamburger oregon alsace
 0
 2
-0 18 13 3
 0 10 0 1
+0 18 13 3
 1
 end_operator
 begin_operator
@@ -2293,112 +2293,112 @@ begin_operator
 feast aesthetics baguette lemon alsace bavaria
 0
 2
-0 20 0 5
 0 13 1 0
+0 20 0 5
 1
 end_operator
 begin_operator
 feast aesthetics baguette lemon oregon alsace
 0
 2
-0 20 0 5
 0 13 0 2
+0 20 0 5
 1
 end_operator
 begin_operator
 feast aesthetics baguette lobster alsace bavaria
 0
 2
-0 20 0 6
 0 13 1 0
+0 20 0 6
 1
 end_operator
 begin_operator
 feast aesthetics baguette lobster oregon alsace
 0
 2
-0 20 0 6
 0 13 0 2
+0 20 0 6
 1
 end_operator
 begin_operator
 feast aesthetics flounder lemon alsace bavaria
 0
 2
-0 20 1 5
 0 17 1 0
+0 20 1 5
 1
 end_operator
 begin_operator
 feast aesthetics flounder lemon bavaria quebec
 0
 2
-0 20 1 5
 0 17 3 1
+0 20 1 5
 1
 end_operator
 begin_operator
 feast aesthetics flounder lemon oregon alsace
 0
 2
-0 20 1 5
 0 17 0 2
+0 20 1 5
 1
 end_operator
 begin_operator
 feast aesthetics flounder scallion alsace bavaria
 0
 2
-0 20 1 13
 0 17 1 0
+0 20 1 13
 1
 end_operator
 begin_operator
 feast aesthetics flounder scallion bavaria quebec
 0
 2
-0 20 1 13
 0 17 3 1
+0 20 1 13
 1
 end_operator
 begin_operator
 feast aesthetics flounder scallion oregon alsace
 0
 2
-0 20 1 13
 0 17 0 2
+0 20 1 13
 1
 end_operator
 begin_operator
 feast aesthetics hamburger papaya alsace bavaria
 0
 2
-0 20 3 11
 0 14 1 0
+0 20 3 11
 1
 end_operator
 begin_operator
 feast aesthetics hamburger papaya oregon alsace
 0
 2
-0 20 3 11
 0 14 0 2
+0 20 3 11
 1
 end_operator
 begin_operator
 feast aesthetics hamburger scallion alsace bavaria
 0
 2
-0 20 3 13
 0 14 1 0
+0 20 3 13
 1
 end_operator
 begin_operator
 feast aesthetics hamburger scallion oregon alsace
 0
 2
-0 20 3 13
 0 14 0 2
+0 20 3 13
 1
 end_operator
 begin_operator
@@ -2477,208 +2477,208 @@ begin_operator
 feast aesthetics lobster baguette oregon alsace
 0
 2
-0 20 6 0
 0 11 0 1
+0 20 6 0
 1
 end_operator
 begin_operator
 feast aesthetics lobster marzipan oregon alsace
 0
 2
-0 20 6 7
 0 11 0 1
+0 20 6 7
 1
 end_operator
 begin_operator
 feast aesthetics lobster papaya oregon alsace
 0
 2
-0 20 6 11
 0 11 0 1
+0 20 6 11
 1
 end_operator
 begin_operator
 feast aesthetics melon haroset oregon alsace
 0
 2
-0 20 8 4
 0 8 0 1
+0 20 8 4
 1
 end_operator
 begin_operator
 feast aesthetics melon onion oregon alsace
 0
 2
-0 20 8 10
 0 8 0 1
+0 20 8 10
 1
 end_operator
 begin_operator
 feast aesthetics muffin ham alsace bavaria
 0
 2
-0 20 9 2
 0 15 1 0
+0 20 9 2
 1
 end_operator
 begin_operator
 feast aesthetics muffin ham oregon alsace
 0
 2
-0 20 9 2
 0 15 0 2
+0 20 9 2
 1
 end_operator
 begin_operator
 feast aesthetics muffin potato alsace bavaria
 0
 2
-0 20 9 12
 0 15 1 0
+0 20 9 12
 1
 end_operator
 begin_operator
 feast aesthetics muffin potato oregon alsace
 0
 2
-0 20 9 12
 0 15 0 2
+0 20 9 12
 1
 end_operator
 begin_operator
 feast aesthetics onion lemon oregon alsace
 0
 2
-0 20 10 5
 0 12 0 1
+0 20 10 5
 1
 end_operator
 begin_operator
 feast aesthetics onion melon oregon alsace
 0
 2
-0 20 10 8
 0 12 0 1
+0 20 10 8
 1
 end_operator
 begin_operator
 feast aesthetics onion turkey oregon alsace
 0
 2
-0 20 10 15
 0 12 0 1
+0 20 10 15
 1
 end_operator
 begin_operator
 feast aesthetics papaya hamburger alsace bavaria
 0
 2
-0 20 11 3
 0 16 1 0
+0 20 11 3
 1
 end_operator
 begin_operator
 feast aesthetics papaya hamburger oregon alsace
 0
 2
-0 20 11 3
 0 16 0 2
+0 20 11 3
 1
 end_operator
 begin_operator
 feast aesthetics papaya lobster alsace bavaria
 0
 2
-0 20 11 6
 0 16 1 0
+0 20 11 6
 1
 end_operator
 begin_operator
 feast aesthetics papaya lobster oregon alsace
 0
 2
-0 20 11 6
 0 16 0 2
+0 20 11 6
 1
 end_operator
 begin_operator
 feast aesthetics potato muffin oregon alsace
 0
 2
-0 20 12 9
 0 9 0 1
+0 20 12 9
 1
 end_operator
 begin_operator
 feast aesthetics potato turkey oregon alsace
 0
 2
-0 20 12 15
 0 9 0 1
+0 20 12 15
 1
 end_operator
 begin_operator
 feast aesthetics scallion flounder oregon alsace
 0
 2
-0 20 13 1
 0 10 0 1
+0 20 13 1
 1
 end_operator
 begin_operator
 feast aesthetics scallion hamburger oregon alsace
 0
 2
-0 20 13 3
 0 10 0 1
+0 20 13 3
 1
 end_operator
 begin_operator
 feast aesthetics turkey onion alsace bavaria
 0
 2
-0 20 15 10
 0 19 1 0
+0 20 15 10
 1
 end_operator
 begin_operator
 feast aesthetics turkey onion oregon alsace
 0
 2
-0 20 15 10
 0 19 0 2
+0 20 15 10
 1
 end_operator
 begin_operator
 feast aesthetics turkey potato alsace bavaria
 0
 2
-0 20 15 12
 0 19 1 0
+0 20 15 12
 1
 end_operator
 begin_operator
 feast aesthetics turkey potato oregon alsace
 0
 2
-0 20 15 12
 0 19 0 2
+0 20 15 12
 1
 end_operator
 begin_operator
 feast aesthetics turkey scallop alsace bavaria
 0
 2
-0 20 15 14
 0 19 1 0
+0 20 15 14
 1
 end_operator
 begin_operator
 feast aesthetics turkey scallop oregon alsace
 0
 2
-0 20 15 14
 0 19 0 2
+0 20 15 14
 1
 end_operator
 begin_operator
@@ -2733,48 +2733,48 @@ begin_operator
 feast intoxication chocolate lettuce alsace bavaria
 0
 2
-0 3 0 1
 0 2 1 0
+0 3 0 1
 1
 end_operator
 begin_operator
 feast intoxication chocolate lettuce oregon alsace
 0
 2
-0 3 0 1
 0 2 0 2
+0 3 0 1
 1
 end_operator
 begin_operator
 feast intoxication chocolate yogurt alsace bavaria
 0
 2
-0 3 0 5
 0 2 1 0
+0 3 0 5
 1
 end_operator
 begin_operator
 feast intoxication chocolate yogurt oregon alsace
 0
 2
-0 3 0 5
 0 2 0 2
+0 3 0 5
 1
 end_operator
 begin_operator
 feast intoxication lettuce chocolate oregon alsace
 0
 2
-0 3 1 0
 0 0 0 1
+0 3 1 0
 1
 end_operator
 begin_operator
 feast intoxication lettuce rice oregon alsace
 0
 2
-0 3 1 3
 0 0 0 1
+0 3 1 3
 1
 end_operator
 begin_operator
@@ -2829,128 +2829,128 @@ begin_operator
 feast intoxication yogurt chocolate oregon alsace
 0
 2
-0 3 5 0
 0 1 0 1
+0 3 5 0
 1
 end_operator
 begin_operator
 feast intoxication yogurt scallop oregon alsace
 0
 2
-0 3 5 4
 0 1 0 1
+0 3 5 4
 1
 end_operator
 begin_operator
 feast love baguette lemon alsace bavaria
 0
 2
-0 21 0 5
 0 13 1 0
+0 21 0 5
 1
 end_operator
 begin_operator
 feast love baguette lemon oregon alsace
 0
 2
-0 21 0 5
 0 13 0 2
+0 21 0 5
 1
 end_operator
 begin_operator
 feast love baguette lobster alsace bavaria
 0
 2
-0 21 0 6
 0 13 1 0
+0 21 0 6
 1
 end_operator
 begin_operator
 feast love baguette lobster oregon alsace
 0
 2
-0 21 0 6
 0 13 0 2
+0 21 0 6
 1
 end_operator
 begin_operator
 feast love flounder lemon alsace bavaria
 0
 2
-0 21 1 5
 0 17 1 0
+0 21 1 5
 1
 end_operator
 begin_operator
 feast love flounder lemon bavaria quebec
 0
 2
-0 21 1 5
 0 17 3 1
+0 21 1 5
 1
 end_operator
 begin_operator
 feast love flounder lemon oregon alsace
 0
 2
-0 21 1 5
 0 17 0 2
+0 21 1 5
 1
 end_operator
 begin_operator
 feast love flounder scallion alsace bavaria
 0
 2
-0 21 1 13
 0 17 1 0
+0 21 1 13
 1
 end_operator
 begin_operator
 feast love flounder scallion bavaria quebec
 0
 2
-0 21 1 13
 0 17 3 1
+0 21 1 13
 1
 end_operator
 begin_operator
 feast love flounder scallion oregon alsace
 0
 2
-0 21 1 13
 0 17 0 2
+0 21 1 13
 1
 end_operator
 begin_operator
 feast love hamburger papaya alsace bavaria
 0
 2
-0 21 3 11
 0 14 1 0
+0 21 3 11
 1
 end_operator
 begin_operator
 feast love hamburger papaya oregon alsace
 0
 2
-0 21 3 11
 0 14 0 2
+0 21 3 11
 1
 end_operator
 begin_operator
 feast love hamburger scallion alsace bavaria
 0
 2
-0 21 3 13
 0 14 1 0
+0 21 3 13
 1
 end_operator
 begin_operator
 feast love hamburger scallion oregon alsace
 0
 2
-0 21 3 13
 0 14 0 2
+0 21 3 13
 1
 end_operator
 begin_operator
@@ -3029,256 +3029,256 @@ begin_operator
 feast love lobster baguette oregon alsace
 0
 2
-0 21 6 0
 0 11 0 1
+0 21 6 0
 1
 end_operator
 begin_operator
 feast love lobster marzipan oregon alsace
 0
 2
-0 21 6 7
 0 11 0 1
+0 21 6 7
 1
 end_operator
 begin_operator
 feast love lobster papaya oregon alsace
 0
 2
-0 21 6 11
 0 11 0 1
+0 21 6 11
 1
 end_operator
 begin_operator
 feast love melon haroset oregon alsace
 0
 2
-0 21 8 4
 0 8 0 1
+0 21 8 4
 1
 end_operator
 begin_operator
 feast love melon onion oregon alsace
 0
 2
-0 21 8 10
 0 8 0 1
+0 21 8 10
 1
 end_operator
 begin_operator
 feast love muffin ham alsace bavaria
 0
 2
-0 21 9 2
 0 15 1 0
+0 21 9 2
 1
 end_operator
 begin_operator
 feast love muffin ham oregon alsace
 0
 2
-0 21 9 2
 0 15 0 2
+0 21 9 2
 1
 end_operator
 begin_operator
 feast love muffin potato alsace bavaria
 0
 2
-0 21 9 12
 0 15 1 0
+0 21 9 12
 1
 end_operator
 begin_operator
 feast love muffin potato oregon alsace
 0
 2
-0 21 9 12
 0 15 0 2
+0 21 9 12
 1
 end_operator
 begin_operator
 feast love onion lemon oregon alsace
 0
 2
-0 21 10 5
 0 12 0 1
+0 21 10 5
 1
 end_operator
 begin_operator
 feast love onion melon oregon alsace
 0
 2
-0 21 10 8
 0 12 0 1
+0 21 10 8
 1
 end_operator
 begin_operator
 feast love onion turkey oregon alsace
 0
 2
-0 21 10 15
 0 12 0 1
+0 21 10 15
 1
 end_operator
 begin_operator
 feast love papaya hamburger alsace bavaria
 0
 2
-0 21 11 3
 0 16 1 0
+0 21 11 3
 1
 end_operator
 begin_operator
 feast love papaya hamburger oregon alsace
 0
 2
-0 21 11 3
 0 16 0 2
+0 21 11 3
 1
 end_operator
 begin_operator
 feast love papaya lobster alsace bavaria
 0
 2
-0 21 11 6
 0 16 1 0
+0 21 11 6
 1
 end_operator
 begin_operator
 feast love papaya lobster oregon alsace
 0
 2
-0 21 11 6
 0 16 0 2
+0 21 11 6
 1
 end_operator
 begin_operator
 feast love potato muffin oregon alsace
 0
 2
-0 21 12 9
 0 9 0 1
+0 21 12 9
 1
 end_operator
 begin_operator
 feast love potato turkey oregon alsace
 0
 2
-0 21 12 15
 0 9 0 1
+0 21 12 15
 1
 end_operator
 begin_operator
 feast love scallion flounder oregon alsace
 0
 2
-0 21 13 1
 0 10 0 1
+0 21 13 1
 1
 end_operator
 begin_operator
 feast love scallion hamburger oregon alsace
 0
 2
-0 21 13 3
 0 10 0 1
+0 21 13 3
 1
 end_operator
 begin_operator
 feast love turkey onion alsace bavaria
 0
 2
-0 21 15 10
 0 19 1 0
+0 21 15 10
 1
 end_operator
 begin_operator
 feast love turkey onion oregon alsace
 0
 2
-0 21 15 10
 0 19 0 2
+0 21 15 10
 1
 end_operator
 begin_operator
 feast love turkey potato alsace bavaria
 0
 2
-0 21 15 12
 0 19 1 0
+0 21 15 12
 1
 end_operator
 begin_operator
 feast love turkey potato oregon alsace
 0
 2
-0 21 15 12
 0 19 0 2
+0 21 15 12
 1
 end_operator
 begin_operator
 feast love turkey scallop alsace bavaria
 0
 2
-0 21 15 14
 0 19 1 0
+0 21 15 14
 1
 end_operator
 begin_operator
 feast love turkey scallop oregon alsace
 0
 2
-0 21 15 14
 0 19 0 2
+0 21 15 14
 1
 end_operator
 begin_operator
 feast satisfaction chocolate lettuce alsace bavaria
 0
 2
-0 4 0 1
 0 2 1 0
+0 4 0 1
 1
 end_operator
 begin_operator
 feast satisfaction chocolate lettuce oregon alsace
 0
 2
-0 4 0 1
 0 2 0 2
+0 4 0 1
 1
 end_operator
 begin_operator
 feast satisfaction chocolate yogurt alsace bavaria
 0
 2
-0 4 0 5
 0 2 1 0
+0 4 0 5
 1
 end_operator
 begin_operator
 feast satisfaction chocolate yogurt oregon alsace
 0
 2
-0 4 0 5
 0 2 0 2
+0 4 0 5
 1
 end_operator
 begin_operator
 feast satisfaction lettuce chocolate oregon alsace
 0
 2
-0 4 1 0
 0 0 0 1
+0 4 1 0
 1
 end_operator
 begin_operator
 feast satisfaction lettuce rice oregon alsace
 0
 2
-0 4 1 3
 0 0 0 1
+0 4 1 3
 1
 end_operator
 begin_operator
@@ -3333,16 +3333,16 @@ begin_operator
 feast satisfaction yogurt chocolate oregon alsace
 0
 2
-0 4 5 0
 0 1 0 1
+0 4 5 0
 1
 end_operator
 begin_operator
 feast satisfaction yogurt scallop oregon alsace
 0
 2
-0 4 5 4
 0 1 0 1
+0 4 5 4
 1
 end_operator
 begin_operator
@@ -4213,24 +4213,24 @@ begin_operator
 overcome abrasion curiosity ham mars neptune
 0
 2
-0 24 3 23
 0 23 1 0
+0 24 3 23
 1
 end_operator
 begin_operator
 overcome abrasion curiosity ham neptune vulcan
 0
 2
-0 24 3 23
 0 23 3 1
+0 24 3 23
 1
 end_operator
 begin_operator
 overcome abrasion curiosity ham vulcan venus
 0
 2
-0 24 3 23
 0 23 2 3
+0 24 3 23
 1
 end_operator
 begin_operator
@@ -5938,24 +5938,24 @@ begin_operator
 overcome abrasion-12 curiosity ham mars neptune
 0
 2
-0 25 3 23
 0 23 1 0
+0 25 3 23
 1
 end_operator
 begin_operator
 overcome abrasion-12 curiosity ham neptune vulcan
 0
 2
-0 25 3 23
 0 23 3 1
+0 25 3 23
 1
 end_operator
 begin_operator
 overcome abrasion-12 curiosity ham vulcan venus
 0
 2
-0 25 3 23
 0 23 2 3
+0 25 3 23
 1
 end_operator
 begin_operator
@@ -7663,24 +7663,24 @@ begin_operator
 overcome abrasion-26 curiosity ham mars neptune
 0
 2
-0 26 3 23
 0 23 1 0
+0 26 3 23
 1
 end_operator
 begin_operator
 overcome abrasion-26 curiosity ham neptune vulcan
 0
 2
-0 26 3 23
 0 23 3 1
+0 26 3 23
 1
 end_operator
 begin_operator
 overcome abrasion-26 curiosity ham vulcan venus
 0
 2
-0 26 3 23
 0 23 2 3
+0 26 3 23
 1
 end_operator
 begin_operator
@@ -9388,24 +9388,24 @@ begin_operator
 overcome anger curiosity ham mars neptune
 0
 2
-0 27 3 23
 0 23 1 0
+0 27 3 23
 1
 end_operator
 begin_operator
 overcome anger curiosity ham neptune vulcan
 0
 2
-0 27 3 23
 0 23 3 1
+0 27 3 23
 1
 end_operator
 begin_operator
 overcome anger curiosity ham vulcan venus
 0
 2
-0 27 3 23
 0 23 2 3
+0 27 3 23
 1
 end_operator
 begin_operator
@@ -11113,24 +11113,24 @@ begin_operator
 overcome anger-21 curiosity ham mars neptune
 0
 2
-0 28 3 23
 0 23 1 0
+0 28 3 23
 1
 end_operator
 begin_operator
 overcome anger-21 curiosity ham neptune vulcan
 0
 2
-0 28 3 23
 0 23 3 1
+0 28 3 23
 1
 end_operator
 begin_operator
 overcome anger-21 curiosity ham vulcan venus
 0
 2
-0 28 3 23
 0 23 2 3
+0 28 3 23
 1
 end_operator
 begin_operator
@@ -12838,24 +12838,24 @@ begin_operator
 overcome anger-6 curiosity ham mars neptune
 0
 2
-0 29 3 23
 0 23 1 0
+0 29 3 23
 1
 end_operator
 begin_operator
 overcome anger-6 curiosity ham neptune vulcan
 0
 2
-0 29 3 23
 0 23 3 1
+0 29 3 23
 1
 end_operator
 begin_operator
 overcome anger-6 curiosity ham vulcan venus
 0
 2
-0 29 3 23
 0 23 2 3
+0 29 3 23
 1
 end_operator
 begin_operator
@@ -14563,24 +14563,24 @@ begin_operator
 overcome angina curiosity ham mars neptune
 0
 2
-0 30 3 23
 0 23 1 0
+0 30 3 23
 1
 end_operator
 begin_operator
 overcome angina curiosity ham neptune vulcan
 0
 2
-0 30 3 23
 0 23 3 1
+0 30 3 23
 1
 end_operator
 begin_operator
 overcome angina curiosity ham vulcan venus
 0
 2
-0 30 3 23
 0 23 2 3
+0 30 3 23
 1
 end_operator
 begin_operator
@@ -16288,24 +16288,24 @@ begin_operator
 overcome angina-14 curiosity ham mars neptune
 0
 2
-0 31 3 23
 0 23 1 0
+0 31 3 23
 1
 end_operator
 begin_operator
 overcome angina-14 curiosity ham neptune vulcan
 0
 2
-0 31 3 23
 0 23 3 1
+0 31 3 23
 1
 end_operator
 begin_operator
 overcome angina-14 curiosity ham vulcan venus
 0
 2
-0 31 3 23
 0 23 2 3
+0 31 3 23
 1
 end_operator
 begin_operator
@@ -18013,24 +18013,24 @@ begin_operator
 overcome angina-23 curiosity ham mars neptune
 0
 2
-0 32 3 23
 0 23 1 0
+0 32 3 23
 1
 end_operator
 begin_operator
 overcome angina-23 curiosity ham neptune vulcan
 0
 2
-0 32 3 23
 0 23 3 1
+0 32 3 23
 1
 end_operator
 begin_operator
 overcome angina-23 curiosity ham vulcan venus
 0
 2
-0 32 3 23
 0 23 2 3
+0 32 3 23
 1
 end_operator
 begin_operator
@@ -19738,24 +19738,24 @@ begin_operator
 overcome anxiety curiosity ham mars neptune
 0
 2
-0 33 3 23
 0 23 1 0
+0 33 3 23
 1
 end_operator
 begin_operator
 overcome anxiety curiosity ham neptune vulcan
 0
 2
-0 33 3 23
 0 23 3 1
+0 33 3 23
 1
 end_operator
 begin_operator
 overcome anxiety curiosity ham vulcan venus
 0
 2
-0 33 3 23
 0 23 2 3
+0 33 3 23
 1
 end_operator
 begin_operator
@@ -21463,24 +21463,24 @@ begin_operator
 overcome anxiety-2 curiosity ham mars neptune
 0
 2
-0 34 3 23
 0 23 1 0
+0 34 3 23
 1
 end_operator
 begin_operator
 overcome anxiety-2 curiosity ham neptune vulcan
 0
 2
-0 34 3 23
 0 23 3 1
+0 34 3 23
 1
 end_operator
 begin_operator
 overcome anxiety-2 curiosity ham vulcan venus
 0
 2
-0 34 3 23
 0 23 2 3
+0 34 3 23
 1
 end_operator
 begin_operator
@@ -23188,24 +23188,24 @@ begin_operator
 overcome anxiety-9 curiosity ham mars neptune
 0
 2
-0 35 3 23
 0 23 1 0
+0 35 3 23
 1
 end_operator
 begin_operator
 overcome anxiety-9 curiosity ham neptune vulcan
 0
 2
-0 35 3 23
 0 23 3 1
+0 35 3 23
 1
 end_operator
 begin_operator
 overcome anxiety-9 curiosity ham vulcan venus
 0
 2
-0 35 3 23
 0 23 2 3
+0 35 3 23
 1
 end_operator
 begin_operator
@@ -24913,24 +24913,24 @@ begin_operator
 overcome boils curiosity ham mars neptune
 0
 2
-0 36 3 23
 0 23 1 0
+0 36 3 23
 1
 end_operator
 begin_operator
 overcome boils curiosity ham neptune vulcan
 0
 2
-0 36 3 23
 0 23 3 1
+0 36 3 23
 1
 end_operator
 begin_operator
 overcome boils curiosity ham vulcan venus
 0
 2
-0 36 3 23
 0 23 2 3
+0 36 3 23
 1
 end_operator
 begin_operator
@@ -26638,24 +26638,24 @@ begin_operator
 overcome boils-27 curiosity ham mars neptune
 0
 2
-0 37 3 23
 0 23 1 0
+0 37 3 23
 1
 end_operator
 begin_operator
 overcome boils-27 curiosity ham neptune vulcan
 0
 2
-0 37 3 23
 0 23 3 1
+0 37 3 23
 1
 end_operator
 begin_operator
 overcome boils-27 curiosity ham vulcan venus
 0
 2
-0 37 3 23
 0 23 2 3
+0 37 3 23
 1
 end_operator
 begin_operator
@@ -28363,24 +28363,24 @@ begin_operator
 overcome boils-3 curiosity ham mars neptune
 0
 2
-0 38 3 23
 0 23 1 0
+0 38 3 23
 1
 end_operator
 begin_operator
 overcome boils-3 curiosity ham neptune vulcan
 0
 2
-0 38 3 23
 0 23 3 1
+0 38 3 23
 1
 end_operator
 begin_operator
 overcome boils-3 curiosity ham vulcan venus
 0
 2
-0 38 3 23
 0 23 2 3
+0 38 3 23
 1
 end_operator
 begin_operator
@@ -30088,24 +30088,24 @@ begin_operator
 overcome depression curiosity ham mars neptune
 0
 2
-0 39 3 23
 0 23 1 0
+0 39 3 23
 1
 end_operator
 begin_operator
 overcome depression curiosity ham neptune vulcan
 0
 2
-0 39 3 23
 0 23 3 1
+0 39 3 23
 1
 end_operator
 begin_operator
 overcome depression curiosity ham vulcan venus
 0
 2
-0 39 3 23
 0 23 2 3
+0 39 3 23
 1
 end_operator
 begin_operator
@@ -31813,24 +31813,24 @@ begin_operator
 overcome depression-19 curiosity ham mars neptune
 0
 2
-0 40 3 23
 0 23 1 0
+0 40 3 23
 1
 end_operator
 begin_operator
 overcome depression-19 curiosity ham neptune vulcan
 0
 2
-0 40 3 23
 0 23 3 1
+0 40 3 23
 1
 end_operator
 begin_operator
 overcome depression-19 curiosity ham vulcan venus
 0
 2
-0 40 3 23
 0 23 2 3
+0 40 3 23
 1
 end_operator
 begin_operator
@@ -33538,24 +33538,24 @@ begin_operator
 overcome depression-28 curiosity ham mars neptune
 0
 2
-0 41 3 23
 0 23 1 0
+0 41 3 23
 1
 end_operator
 begin_operator
 overcome depression-28 curiosity ham neptune vulcan
 0
 2
-0 41 3 23
 0 23 3 1
+0 41 3 23
 1
 end_operator
 begin_operator
 overcome depression-28 curiosity ham vulcan venus
 0
 2
-0 41 3 23
 0 23 2 3
+0 41 3 23
 1
 end_operator
 begin_operator
@@ -35263,24 +35263,24 @@ begin_operator
 overcome depression-5 curiosity ham mars neptune
 0
 2
-0 42 3 23
 0 23 1 0
+0 42 3 23
 1
 end_operator
 begin_operator
 overcome depression-5 curiosity ham neptune vulcan
 0
 2
-0 42 3 23
 0 23 3 1
+0 42 3 23
 1
 end_operator
 begin_operator
 overcome depression-5 curiosity ham vulcan venus
 0
 2
-0 42 3 23
 0 23 2 3
+0 42 3 23
 1
 end_operator
 begin_operator
@@ -36988,24 +36988,24 @@ begin_operator
 overcome dread curiosity ham mars neptune
 0
 2
-0 43 3 23
 0 23 1 0
+0 43 3 23
 1
 end_operator
 begin_operator
 overcome dread curiosity ham neptune vulcan
 0
 2
-0 43 3 23
 0 23 3 1
+0 43 3 23
 1
 end_operator
 begin_operator
 overcome dread curiosity ham vulcan venus
 0
 2
-0 43 3 23
 0 23 2 3
+0 43 3 23
 1
 end_operator
 begin_operator
@@ -38713,24 +38713,24 @@ begin_operator
 overcome dread-24 curiosity ham mars neptune
 0
 2
-0 44 3 23
 0 23 1 0
+0 44 3 23
 1
 end_operator
 begin_operator
 overcome dread-24 curiosity ham neptune vulcan
 0
 2
-0 44 3 23
 0 23 3 1
+0 44 3 23
 1
 end_operator
 begin_operator
 overcome dread-24 curiosity ham vulcan venus
 0
 2
-0 44 3 23
 0 23 2 3
+0 44 3 23
 1
 end_operator
 begin_operator
@@ -40438,24 +40438,24 @@ begin_operator
 overcome dread-4 curiosity ham mars neptune
 0
 2
-0 45 3 23
 0 23 1 0
+0 45 3 23
 1
 end_operator
 begin_operator
 overcome dread-4 curiosity ham neptune vulcan
 0
 2
-0 45 3 23
 0 23 3 1
+0 45 3 23
 1
 end_operator
 begin_operator
 overcome dread-4 curiosity ham vulcan venus
 0
 2
-0 45 3 23
 0 23 2 3
+0 45 3 23
 1
 end_operator
 begin_operator
@@ -42163,24 +42163,24 @@ begin_operator
 overcome grief curiosity ham mars neptune
 0
 2
-0 46 3 23
 0 23 1 0
+0 46 3 23
 1
 end_operator
 begin_operator
 overcome grief curiosity ham neptune vulcan
 0
 2
-0 46 3 23
 0 23 3 1
+0 46 3 23
 1
 end_operator
 begin_operator
 overcome grief curiosity ham vulcan venus
 0
 2
-0 46 3 23
 0 23 2 3
+0 46 3 23
 1
 end_operator
 begin_operator
@@ -43888,24 +43888,24 @@ begin_operator
 overcome grief-1 curiosity ham mars neptune
 0
 2
-0 47 3 23
 0 23 1 0
+0 47 3 23
 1
 end_operator
 begin_operator
 overcome grief-1 curiosity ham neptune vulcan
 0
 2
-0 47 3 23
 0 23 3 1
+0 47 3 23
 1
 end_operator
 begin_operator
 overcome grief-1 curiosity ham vulcan venus
 0
 2
-0 47 3 23
 0 23 2 3
+0 47 3 23
 1
 end_operator
 begin_operator
@@ -45613,24 +45613,24 @@ begin_operator
 overcome grief-25 curiosity ham mars neptune
 0
 2
-0 48 3 23
 0 23 1 0
+0 48 3 23
 1
 end_operator
 begin_operator
 overcome grief-25 curiosity ham neptune vulcan
 0
 2
-0 48 3 23
 0 23 3 1
+0 48 3 23
 1
 end_operator
 begin_operator
 overcome grief-25 curiosity ham vulcan venus
 0
 2
-0 48 3 23
 0 23 2 3
+0 48 3 23
 1
 end_operator
 begin_operator
@@ -47338,24 +47338,24 @@ begin_operator
 overcome hangover curiosity ham mars neptune
 0
 2
-0 49 3 23
 0 23 1 0
+0 49 3 23
 1
 end_operator
 begin_operator
 overcome hangover curiosity ham neptune vulcan
 0
 2
-0 49 3 23
 0 23 3 1
+0 49 3 23
 1
 end_operator
 begin_operator
 overcome hangover curiosity ham vulcan venus
 0
 2
-0 49 3 23
 0 23 2 3
+0 49 3 23
 1
 end_operator
 begin_operator
@@ -49063,24 +49063,24 @@ begin_operator
 overcome hangover-15 curiosity ham mars neptune
 0
 2
-0 51 3 23
 0 23 1 0
+0 51 3 23
 1
 end_operator
 begin_operator
 overcome hangover-15 curiosity ham neptune vulcan
 0
 2
-0 51 3 23
 0 23 3 1
+0 51 3 23
 1
 end_operator
 begin_operator
 overcome hangover-15 curiosity ham vulcan venus
 0
 2
-0 51 3 23
 0 23 2 3
+0 51 3 23
 1
 end_operator
 begin_operator
@@ -49088,8 +49088,8 @@ overcome hangover-15 entertainment marzipan mars neptune
 1
 6 0
 2
-0 51 9 24
 0 50 1 0
+0 51 9 24
 1
 end_operator
 begin_operator
@@ -49097,8 +49097,8 @@ overcome hangover-15 entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 51 9 24
 0 50 3 1
+0 51 9 24
 1
 end_operator
 begin_operator
@@ -49106,8 +49106,8 @@ overcome hangover-15 entertainment marzipan vulcan venus
 1
 6 0
 2
-0 51 9 24
 0 50 2 3
+0 51 9 24
 1
 end_operator
 begin_operator
@@ -49115,8 +49115,8 @@ overcome hangover-15 entertainment mutton mars neptune
 1
 6 1
 2
-0 51 12 24
 0 50 1 0
+0 51 12 24
 1
 end_operator
 begin_operator
@@ -49124,8 +49124,8 @@ overcome hangover-15 entertainment mutton neptune vulcan
 1
 6 1
 2
-0 51 12 24
 0 50 3 1
+0 51 12 24
 1
 end_operator
 begin_operator
@@ -49133,8 +49133,8 @@ overcome hangover-15 entertainment mutton vulcan venus
 1
 6 1
 2
-0 51 12 24
 0 50 2 3
+0 51 12 24
 1
 end_operator
 begin_operator
@@ -49142,8 +49142,8 @@ overcome hangover-15 entertainment scallop mars neptune
 1
 6 2
 2
-0 51 18 24
 0 50 1 0
+0 51 18 24
 1
 end_operator
 begin_operator
@@ -49151,8 +49151,8 @@ overcome hangover-15 entertainment scallop neptune vulcan
 1
 6 2
 2
-0 51 18 24
 0 50 3 1
+0 51 18 24
 1
 end_operator
 begin_operator
@@ -49160,8 +49160,8 @@ overcome hangover-15 entertainment scallop vulcan venus
 1
 6 2
 2
-0 51 18 24
 0 50 2 3
+0 51 18 24
 1
 end_operator
 begin_operator
@@ -50788,24 +50788,24 @@ begin_operator
 overcome hangover-31 curiosity ham mars neptune
 0
 2
-0 52 3 23
 0 23 1 0
+0 52 3 23
 1
 end_operator
 begin_operator
 overcome hangover-31 curiosity ham neptune vulcan
 0
 2
-0 52 3 23
 0 23 3 1
+0 52 3 23
 1
 end_operator
 begin_operator
 overcome hangover-31 curiosity ham vulcan venus
 0
 2
-0 52 3 23
 0 23 2 3
+0 52 3 23
 1
 end_operator
 begin_operator
@@ -50813,8 +50813,8 @@ overcome hangover-31 entertainment marzipan mars neptune
 1
 6 0
 2
-0 52 9 24
 0 50 1 0
+0 52 9 24
 1
 end_operator
 begin_operator
@@ -50822,8 +50822,8 @@ overcome hangover-31 entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 52 9 24
 0 50 3 1
+0 52 9 24
 1
 end_operator
 begin_operator
@@ -50831,8 +50831,8 @@ overcome hangover-31 entertainment marzipan vulcan venus
 1
 6 0
 2
-0 52 9 24
 0 50 2 3
+0 52 9 24
 1
 end_operator
 begin_operator
@@ -50840,8 +50840,8 @@ overcome hangover-31 entertainment mutton mars neptune
 1
 6 1
 2
-0 52 12 24
 0 50 1 0
+0 52 12 24
 1
 end_operator
 begin_operator
@@ -50849,8 +50849,8 @@ overcome hangover-31 entertainment mutton neptune vulcan
 1
 6 1
 2
-0 52 12 24
 0 50 3 1
+0 52 12 24
 1
 end_operator
 begin_operator
@@ -50858,8 +50858,8 @@ overcome hangover-31 entertainment mutton vulcan venus
 1
 6 1
 2
-0 52 12 24
 0 50 2 3
+0 52 12 24
 1
 end_operator
 begin_operator
@@ -50867,8 +50867,8 @@ overcome hangover-31 entertainment scallop mars neptune
 1
 6 2
 2
-0 52 18 24
 0 50 1 0
+0 52 18 24
 1
 end_operator
 begin_operator
@@ -50876,8 +50876,8 @@ overcome hangover-31 entertainment scallop neptune vulcan
 1
 6 2
 2
-0 52 18 24
 0 50 3 1
+0 52 18 24
 1
 end_operator
 begin_operator
@@ -50885,8 +50885,8 @@ overcome hangover-31 entertainment scallop vulcan venus
 1
 6 2
 2
-0 52 18 24
 0 50 2 3
+0 52 18 24
 1
 end_operator
 begin_operator
@@ -52513,24 +52513,24 @@ begin_operator
 overcome jealousy curiosity ham mars neptune
 0
 2
-0 53 3 23
 0 23 1 0
+0 53 3 23
 1
 end_operator
 begin_operator
 overcome jealousy curiosity ham neptune vulcan
 0
 2
-0 53 3 23
 0 23 3 1
+0 53 3 23
 1
 end_operator
 begin_operator
 overcome jealousy curiosity ham vulcan venus
 0
 2
-0 53 3 23
 0 23 2 3
+0 53 3 23
 1
 end_operator
 begin_operator
@@ -52538,8 +52538,8 @@ overcome jealousy entertainment marzipan mars neptune
 1
 6 0
 2
-0 53 9 24
 0 50 1 0
+0 53 9 24
 1
 end_operator
 begin_operator
@@ -52547,8 +52547,8 @@ overcome jealousy entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 53 9 24
 0 50 3 1
+0 53 9 24
 1
 end_operator
 begin_operator
@@ -52556,8 +52556,8 @@ overcome jealousy entertainment marzipan vulcan venus
 1
 6 0
 2
-0 53 9 24
 0 50 2 3
+0 53 9 24
 1
 end_operator
 begin_operator
@@ -52565,8 +52565,8 @@ overcome jealousy entertainment mutton mars neptune
 1
 6 1
 2
-0 53 12 24
 0 50 1 0
+0 53 12 24
 1
 end_operator
 begin_operator
@@ -52574,8 +52574,8 @@ overcome jealousy entertainment mutton neptune vulcan
 1
 6 1
 2
-0 53 12 24
 0 50 3 1
+0 53 12 24
 1
 end_operator
 begin_operator
@@ -52583,8 +52583,8 @@ overcome jealousy entertainment mutton vulcan venus
 1
 6 1
 2
-0 53 12 24
 0 50 2 3
+0 53 12 24
 1
 end_operator
 begin_operator
@@ -52592,8 +52592,8 @@ overcome jealousy entertainment scallop mars neptune
 1
 6 2
 2
-0 53 18 24
 0 50 1 0
+0 53 18 24
 1
 end_operator
 begin_operator
@@ -52601,8 +52601,8 @@ overcome jealousy entertainment scallop neptune vulcan
 1
 6 2
 2
-0 53 18 24
 0 50 3 1
+0 53 18 24
 1
 end_operator
 begin_operator
@@ -52610,8 +52610,8 @@ overcome jealousy entertainment scallop vulcan venus
 1
 6 2
 2
-0 53 18 24
 0 50 2 3
+0 53 18 24
 1
 end_operator
 begin_operator
@@ -54238,24 +54238,24 @@ begin_operator
 overcome jealousy-22 curiosity ham mars neptune
 0
 2
-0 54 3 23
 0 23 1 0
+0 54 3 23
 1
 end_operator
 begin_operator
 overcome jealousy-22 curiosity ham neptune vulcan
 0
 2
-0 54 3 23
 0 23 3 1
+0 54 3 23
 1
 end_operator
 begin_operator
 overcome jealousy-22 curiosity ham vulcan venus
 0
 2
-0 54 3 23
 0 23 2 3
+0 54 3 23
 1
 end_operator
 begin_operator
@@ -54263,8 +54263,8 @@ overcome jealousy-22 entertainment marzipan mars neptune
 1
 6 0
 2
-0 54 9 24
 0 50 1 0
+0 54 9 24
 1
 end_operator
 begin_operator
@@ -54272,8 +54272,8 @@ overcome jealousy-22 entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 54 9 24
 0 50 3 1
+0 54 9 24
 1
 end_operator
 begin_operator
@@ -54281,8 +54281,8 @@ overcome jealousy-22 entertainment marzipan vulcan venus
 1
 6 0
 2
-0 54 9 24
 0 50 2 3
+0 54 9 24
 1
 end_operator
 begin_operator
@@ -54290,8 +54290,8 @@ overcome jealousy-22 entertainment mutton mars neptune
 1
 6 1
 2
-0 54 12 24
 0 50 1 0
+0 54 12 24
 1
 end_operator
 begin_operator
@@ -54299,8 +54299,8 @@ overcome jealousy-22 entertainment mutton neptune vulcan
 1
 6 1
 2
-0 54 12 24
 0 50 3 1
+0 54 12 24
 1
 end_operator
 begin_operator
@@ -54308,8 +54308,8 @@ overcome jealousy-22 entertainment mutton vulcan venus
 1
 6 1
 2
-0 54 12 24
 0 50 2 3
+0 54 12 24
 1
 end_operator
 begin_operator
@@ -54317,8 +54317,8 @@ overcome jealousy-22 entertainment scallop mars neptune
 1
 6 2
 2
-0 54 18 24
 0 50 1 0
+0 54 18 24
 1
 end_operator
 begin_operator
@@ -54326,8 +54326,8 @@ overcome jealousy-22 entertainment scallop neptune vulcan
 1
 6 2
 2
-0 54 18 24
 0 50 3 1
+0 54 18 24
 1
 end_operator
 begin_operator
@@ -54335,8 +54335,8 @@ overcome jealousy-22 entertainment scallop vulcan venus
 1
 6 2
 2
-0 54 18 24
 0 50 2 3
+0 54 18 24
 1
 end_operator
 begin_operator
@@ -55963,24 +55963,24 @@ begin_operator
 overcome jealousy-8 curiosity ham mars neptune
 0
 2
-0 55 3 23
 0 23 1 0
+0 55 3 23
 1
 end_operator
 begin_operator
 overcome jealousy-8 curiosity ham neptune vulcan
 0
 2
-0 55 3 23
 0 23 3 1
+0 55 3 23
 1
 end_operator
 begin_operator
 overcome jealousy-8 curiosity ham vulcan venus
 0
 2
-0 55 3 23
 0 23 2 3
+0 55 3 23
 1
 end_operator
 begin_operator
@@ -55988,8 +55988,8 @@ overcome jealousy-8 entertainment marzipan mars neptune
 1
 6 0
 2
-0 55 9 24
 0 50 1 0
+0 55 9 24
 1
 end_operator
 begin_operator
@@ -55997,8 +55997,8 @@ overcome jealousy-8 entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 55 9 24
 0 50 3 1
+0 55 9 24
 1
 end_operator
 begin_operator
@@ -56006,8 +56006,8 @@ overcome jealousy-8 entertainment marzipan vulcan venus
 1
 6 0
 2
-0 55 9 24
 0 50 2 3
+0 55 9 24
 1
 end_operator
 begin_operator
@@ -56015,8 +56015,8 @@ overcome jealousy-8 entertainment mutton mars neptune
 1
 6 1
 2
-0 55 12 24
 0 50 1 0
+0 55 12 24
 1
 end_operator
 begin_operator
@@ -56024,8 +56024,8 @@ overcome jealousy-8 entertainment mutton neptune vulcan
 1
 6 1
 2
-0 55 12 24
 0 50 3 1
+0 55 12 24
 1
 end_operator
 begin_operator
@@ -56033,8 +56033,8 @@ overcome jealousy-8 entertainment mutton vulcan venus
 1
 6 1
 2
-0 55 12 24
 0 50 2 3
+0 55 12 24
 1
 end_operator
 begin_operator
@@ -56042,8 +56042,8 @@ overcome jealousy-8 entertainment scallop mars neptune
 1
 6 2
 2
-0 55 18 24
 0 50 1 0
+0 55 18 24
 1
 end_operator
 begin_operator
@@ -56051,8 +56051,8 @@ overcome jealousy-8 entertainment scallop neptune vulcan
 1
 6 2
 2
-0 55 18 24
 0 50 3 1
+0 55 18 24
 1
 end_operator
 begin_operator
@@ -56060,8 +56060,8 @@ overcome jealousy-8 entertainment scallop vulcan venus
 1
 6 2
 2
-0 55 18 24
 0 50 2 3
+0 55 18 24
 1
 end_operator
 begin_operator
@@ -57688,24 +57688,24 @@ begin_operator
 overcome laceration curiosity ham mars neptune
 0
 2
-0 56 3 23
 0 23 1 0
+0 56 3 23
 1
 end_operator
 begin_operator
 overcome laceration curiosity ham neptune vulcan
 0
 2
-0 56 3 23
 0 23 3 1
+0 56 3 23
 1
 end_operator
 begin_operator
 overcome laceration curiosity ham vulcan venus
 0
 2
-0 56 3 23
 0 23 2 3
+0 56 3 23
 1
 end_operator
 begin_operator
@@ -57713,8 +57713,8 @@ overcome laceration entertainment marzipan mars neptune
 1
 6 0
 2
-0 56 9 24
 0 50 1 0
+0 56 9 24
 1
 end_operator
 begin_operator
@@ -57722,8 +57722,8 @@ overcome laceration entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 56 9 24
 0 50 3 1
+0 56 9 24
 1
 end_operator
 begin_operator
@@ -57731,8 +57731,8 @@ overcome laceration entertainment marzipan vulcan venus
 1
 6 0
 2
-0 56 9 24
 0 50 2 3
+0 56 9 24
 1
 end_operator
 begin_operator
@@ -57740,8 +57740,8 @@ overcome laceration entertainment mutton mars neptune
 1
 6 1
 2
-0 56 12 24
 0 50 1 0
+0 56 12 24
 1
 end_operator
 begin_operator
@@ -57749,8 +57749,8 @@ overcome laceration entertainment mutton neptune vulcan
 1
 6 1
 2
-0 56 12 24
 0 50 3 1
+0 56 12 24
 1
 end_operator
 begin_operator
@@ -57758,8 +57758,8 @@ overcome laceration entertainment mutton vulcan venus
 1
 6 1
 2
-0 56 12 24
 0 50 2 3
+0 56 12 24
 1
 end_operator
 begin_operator
@@ -57767,8 +57767,8 @@ overcome laceration entertainment scallop mars neptune
 1
 6 2
 2
-0 56 18 24
 0 50 1 0
+0 56 18 24
 1
 end_operator
 begin_operator
@@ -57776,8 +57776,8 @@ overcome laceration entertainment scallop neptune vulcan
 1
 6 2
 2
-0 56 18 24
 0 50 3 1
+0 56 18 24
 1
 end_operator
 begin_operator
@@ -57785,8 +57785,8 @@ overcome laceration entertainment scallop vulcan venus
 1
 6 2
 2
-0 56 18 24
 0 50 2 3
+0 56 18 24
 1
 end_operator
 begin_operator
@@ -58550,8 +58550,8 @@ overcome laceration-20 achievement baguette mars neptune
 1
 18 0
 2
-0 74 0 21
 0 71 1 0
+0 74 0 21
 1
 end_operator
 begin_operator
@@ -58559,8 +58559,8 @@ overcome laceration-20 achievement baguette neptune vulcan
 1
 18 0
 2
-0 74 0 21
 0 71 3 1
+0 74 0 21
 1
 end_operator
 begin_operator
@@ -58568,8 +58568,8 @@ overcome laceration-20 achievement baguette vulcan venus
 1
 18 0
 2
-0 74 0 21
 0 71 2 3
+0 74 0 21
 1
 end_operator
 begin_operator
@@ -58577,8 +58577,8 @@ overcome laceration-20 achievement flounder mars neptune
 1
 18 1
 2
-0 74 2 21
 0 71 1 0
+0 74 2 21
 1
 end_operator
 begin_operator
@@ -58586,8 +58586,8 @@ overcome laceration-20 achievement flounder neptune vulcan
 1
 18 1
 2
-0 74 2 21
 0 71 3 1
+0 74 2 21
 1
 end_operator
 begin_operator
@@ -58595,8 +58595,8 @@ overcome laceration-20 achievement flounder vulcan venus
 1
 18 1
 2
-0 74 2 21
 0 71 2 3
+0 74 2 21
 1
 end_operator
 begin_operator
@@ -58604,8 +58604,8 @@ overcome laceration-20 achievement ham mars neptune
 1
 18 2
 2
-0 74 3 21
 0 71 1 0
+0 74 3 21
 1
 end_operator
 begin_operator
@@ -58613,8 +58613,8 @@ overcome laceration-20 achievement ham neptune vulcan
 1
 18 2
 2
-0 74 3 21
 0 71 3 1
+0 74 3 21
 1
 end_operator
 begin_operator
@@ -58622,8 +58622,8 @@ overcome laceration-20 achievement ham vulcan venus
 1
 18 2
 2
-0 74 3 21
 0 71 2 3
+0 74 3 21
 1
 end_operator
 begin_operator
@@ -58631,8 +58631,8 @@ overcome laceration-20 achievement hamburger mars neptune
 1
 18 3
 2
-0 74 4 21
 0 71 1 0
+0 74 4 21
 1
 end_operator
 begin_operator
@@ -58640,8 +58640,8 @@ overcome laceration-20 achievement hamburger neptune vulcan
 1
 18 3
 2
-0 74 4 21
 0 71 3 1
+0 74 4 21
 1
 end_operator
 begin_operator
@@ -58649,8 +58649,8 @@ overcome laceration-20 achievement hamburger vulcan venus
 1
 18 3
 2
-0 74 4 21
 0 71 2 3
+0 74 4 21
 1
 end_operator
 begin_operator
@@ -58658,8 +58658,8 @@ overcome laceration-20 achievement haroset mars neptune
 1
 18 4
 2
-0 74 5 21
 0 71 1 0
+0 74 5 21
 1
 end_operator
 begin_operator
@@ -58667,8 +58667,8 @@ overcome laceration-20 achievement haroset neptune vulcan
 1
 18 4
 2
-0 74 5 21
 0 71 3 1
+0 74 5 21
 1
 end_operator
 begin_operator
@@ -58676,8 +58676,8 @@ overcome laceration-20 achievement haroset vulcan venus
 1
 18 4
 2
-0 74 5 21
 0 71 2 3
+0 74 5 21
 1
 end_operator
 begin_operator
@@ -58685,8 +58685,8 @@ overcome laceration-20 achievement lemon mars neptune
 1
 18 5
 2
-0 74 6 21
 0 71 1 0
+0 74 6 21
 1
 end_operator
 begin_operator
@@ -58694,8 +58694,8 @@ overcome laceration-20 achievement lemon neptune vulcan
 1
 18 5
 2
-0 74 6 21
 0 71 3 1
+0 74 6 21
 1
 end_operator
 begin_operator
@@ -58703,8 +58703,8 @@ overcome laceration-20 achievement lemon vulcan venus
 1
 18 5
 2
-0 74 6 21
 0 71 2 3
+0 74 6 21
 1
 end_operator
 begin_operator
@@ -58712,8 +58712,8 @@ overcome laceration-20 achievement lobster mars neptune
 1
 18 6
 2
-0 74 8 21
 0 71 1 0
+0 74 8 21
 1
 end_operator
 begin_operator
@@ -58721,8 +58721,8 @@ overcome laceration-20 achievement lobster neptune vulcan
 1
 18 6
 2
-0 74 8 21
 0 71 3 1
+0 74 8 21
 1
 end_operator
 begin_operator
@@ -58730,8 +58730,8 @@ overcome laceration-20 achievement lobster vulcan venus
 1
 18 6
 2
-0 74 8 21
 0 71 2 3
+0 74 8 21
 1
 end_operator
 begin_operator
@@ -58739,8 +58739,8 @@ overcome laceration-20 achievement marzipan mars neptune
 1
 18 7
 2
-0 74 9 21
 0 71 1 0
+0 74 9 21
 1
 end_operator
 begin_operator
@@ -58748,8 +58748,8 @@ overcome laceration-20 achievement marzipan neptune vulcan
 1
 18 7
 2
-0 74 9 21
 0 71 3 1
+0 74 9 21
 1
 end_operator
 begin_operator
@@ -58757,8 +58757,8 @@ overcome laceration-20 achievement marzipan vulcan venus
 1
 18 7
 2
-0 74 9 21
 0 71 2 3
+0 74 9 21
 1
 end_operator
 begin_operator
@@ -58766,8 +58766,8 @@ overcome laceration-20 achievement melon mars neptune
 1
 18 8
 2
-0 74 10 21
 0 71 1 0
+0 74 10 21
 1
 end_operator
 begin_operator
@@ -58775,8 +58775,8 @@ overcome laceration-20 achievement melon neptune vulcan
 1
 18 8
 2
-0 74 10 21
 0 71 3 1
+0 74 10 21
 1
 end_operator
 begin_operator
@@ -58784,8 +58784,8 @@ overcome laceration-20 achievement melon vulcan venus
 1
 18 8
 2
-0 74 10 21
 0 71 2 3
+0 74 10 21
 1
 end_operator
 begin_operator
@@ -58793,8 +58793,8 @@ overcome laceration-20 achievement muffin mars neptune
 1
 18 9
 2
-0 74 11 21
 0 71 1 0
+0 74 11 21
 1
 end_operator
 begin_operator
@@ -58802,8 +58802,8 @@ overcome laceration-20 achievement muffin neptune vulcan
 1
 18 9
 2
-0 74 11 21
 0 71 3 1
+0 74 11 21
 1
 end_operator
 begin_operator
@@ -58811,8 +58811,8 @@ overcome laceration-20 achievement muffin vulcan venus
 1
 18 9
 2
-0 74 11 21
 0 71 2 3
+0 74 11 21
 1
 end_operator
 begin_operator
@@ -58820,8 +58820,8 @@ overcome laceration-20 achievement onion mars neptune
 1
 18 10
 2
-0 74 13 21
 0 71 1 0
+0 74 13 21
 1
 end_operator
 begin_operator
@@ -58829,8 +58829,8 @@ overcome laceration-20 achievement onion neptune vulcan
 1
 18 10
 2
-0 74 13 21
 0 71 3 1
+0 74 13 21
 1
 end_operator
 begin_operator
@@ -58838,8 +58838,8 @@ overcome laceration-20 achievement onion vulcan venus
 1
 18 10
 2
-0 74 13 21
 0 71 2 3
+0 74 13 21
 1
 end_operator
 begin_operator
@@ -58847,8 +58847,8 @@ overcome laceration-20 achievement papaya mars neptune
 1
 18 11
 2
-0 74 14 21
 0 71 1 0
+0 74 14 21
 1
 end_operator
 begin_operator
@@ -58856,8 +58856,8 @@ overcome laceration-20 achievement papaya neptune vulcan
 1
 18 11
 2
-0 74 14 21
 0 71 3 1
+0 74 14 21
 1
 end_operator
 begin_operator
@@ -58865,8 +58865,8 @@ overcome laceration-20 achievement papaya vulcan venus
 1
 18 11
 2
-0 74 14 21
 0 71 2 3
+0 74 14 21
 1
 end_operator
 begin_operator
@@ -58874,8 +58874,8 @@ overcome laceration-20 achievement potato mars neptune
 1
 18 12
 2
-0 74 15 21
 0 71 1 0
+0 74 15 21
 1
 end_operator
 begin_operator
@@ -58883,8 +58883,8 @@ overcome laceration-20 achievement potato neptune vulcan
 1
 18 12
 2
-0 74 15 21
 0 71 3 1
+0 74 15 21
 1
 end_operator
 begin_operator
@@ -58892,8 +58892,8 @@ overcome laceration-20 achievement potato vulcan venus
 1
 18 12
 2
-0 74 15 21
 0 71 2 3
+0 74 15 21
 1
 end_operator
 begin_operator
@@ -58901,8 +58901,8 @@ overcome laceration-20 achievement scallion mars neptune
 1
 18 13
 2
-0 74 17 21
 0 71 1 0
+0 74 17 21
 1
 end_operator
 begin_operator
@@ -58910,8 +58910,8 @@ overcome laceration-20 achievement scallion neptune vulcan
 1
 18 13
 2
-0 74 17 21
 0 71 3 1
+0 74 17 21
 1
 end_operator
 begin_operator
@@ -58919,8 +58919,8 @@ overcome laceration-20 achievement scallion vulcan venus
 1
 18 13
 2
-0 74 17 21
 0 71 2 3
+0 74 17 21
 1
 end_operator
 begin_operator
@@ -58928,8 +58928,8 @@ overcome laceration-20 achievement scallop mars neptune
 1
 18 14
 2
-0 74 18 21
 0 71 1 0
+0 74 18 21
 1
 end_operator
 begin_operator
@@ -58937,8 +58937,8 @@ overcome laceration-20 achievement scallop neptune vulcan
 1
 18 14
 2
-0 74 18 21
 0 71 3 1
+0 74 18 21
 1
 end_operator
 begin_operator
@@ -58946,8 +58946,8 @@ overcome laceration-20 achievement scallop vulcan venus
 1
 18 14
 2
-0 74 18 21
 0 71 2 3
+0 74 18 21
 1
 end_operator
 begin_operator
@@ -58955,8 +58955,8 @@ overcome laceration-20 achievement turkey mars neptune
 1
 18 15
 2
-0 74 19 21
 0 71 1 0
+0 74 19 21
 1
 end_operator
 begin_operator
@@ -58964,8 +58964,8 @@ overcome laceration-20 achievement turkey neptune vulcan
 1
 18 15
 2
-0 74 19 21
 0 71 3 1
+0 74 19 21
 1
 end_operator
 begin_operator
@@ -58973,8 +58973,8 @@ overcome laceration-20 achievement turkey vulcan venus
 1
 18 15
 2
-0 74 19 21
 0 71 2 3
+0 74 19 21
 1
 end_operator
 begin_operator
@@ -58982,8 +58982,8 @@ overcome laceration-20 aesthetics baguette mars neptune
 1
 20 0
 2
-0 74 0 22
 0 72 1 0
+0 74 0 22
 1
 end_operator
 begin_operator
@@ -58991,8 +58991,8 @@ overcome laceration-20 aesthetics baguette neptune vulcan
 1
 20 0
 2
-0 74 0 22
 0 72 3 1
+0 74 0 22
 1
 end_operator
 begin_operator
@@ -59000,8 +59000,8 @@ overcome laceration-20 aesthetics baguette vulcan venus
 1
 20 0
 2
-0 74 0 22
 0 72 2 3
+0 74 0 22
 1
 end_operator
 begin_operator
@@ -59009,8 +59009,8 @@ overcome laceration-20 aesthetics flounder mars neptune
 1
 20 1
 2
-0 74 2 22
 0 72 1 0
+0 74 2 22
 1
 end_operator
 begin_operator
@@ -59018,8 +59018,8 @@ overcome laceration-20 aesthetics flounder neptune vulcan
 1
 20 1
 2
-0 74 2 22
 0 72 3 1
+0 74 2 22
 1
 end_operator
 begin_operator
@@ -59027,8 +59027,8 @@ overcome laceration-20 aesthetics flounder vulcan venus
 1
 20 1
 2
-0 74 2 22
 0 72 2 3
+0 74 2 22
 1
 end_operator
 begin_operator
@@ -59036,8 +59036,8 @@ overcome laceration-20 aesthetics ham mars neptune
 1
 20 2
 2
-0 74 3 22
 0 72 1 0
+0 74 3 22
 1
 end_operator
 begin_operator
@@ -59045,8 +59045,8 @@ overcome laceration-20 aesthetics ham neptune vulcan
 1
 20 2
 2
-0 74 3 22
 0 72 3 1
+0 74 3 22
 1
 end_operator
 begin_operator
@@ -59054,8 +59054,8 @@ overcome laceration-20 aesthetics ham vulcan venus
 1
 20 2
 2
-0 74 3 22
 0 72 2 3
+0 74 3 22
 1
 end_operator
 begin_operator
@@ -59063,8 +59063,8 @@ overcome laceration-20 aesthetics hamburger mars neptune
 1
 20 3
 2
-0 74 4 22
 0 72 1 0
+0 74 4 22
 1
 end_operator
 begin_operator
@@ -59072,8 +59072,8 @@ overcome laceration-20 aesthetics hamburger neptune vulcan
 1
 20 3
 2
-0 74 4 22
 0 72 3 1
+0 74 4 22
 1
 end_operator
 begin_operator
@@ -59081,8 +59081,8 @@ overcome laceration-20 aesthetics hamburger vulcan venus
 1
 20 3
 2
-0 74 4 22
 0 72 2 3
+0 74 4 22
 1
 end_operator
 begin_operator
@@ -59090,8 +59090,8 @@ overcome laceration-20 aesthetics haroset mars neptune
 1
 20 4
 2
-0 74 5 22
 0 72 1 0
+0 74 5 22
 1
 end_operator
 begin_operator
@@ -59099,8 +59099,8 @@ overcome laceration-20 aesthetics haroset neptune vulcan
 1
 20 4
 2
-0 74 5 22
 0 72 3 1
+0 74 5 22
 1
 end_operator
 begin_operator
@@ -59108,8 +59108,8 @@ overcome laceration-20 aesthetics haroset vulcan venus
 1
 20 4
 2
-0 74 5 22
 0 72 2 3
+0 74 5 22
 1
 end_operator
 begin_operator
@@ -59117,8 +59117,8 @@ overcome laceration-20 aesthetics lemon mars neptune
 1
 20 5
 2
-0 74 6 22
 0 72 1 0
+0 74 6 22
 1
 end_operator
 begin_operator
@@ -59126,8 +59126,8 @@ overcome laceration-20 aesthetics lemon neptune vulcan
 1
 20 5
 2
-0 74 6 22
 0 72 3 1
+0 74 6 22
 1
 end_operator
 begin_operator
@@ -59135,8 +59135,8 @@ overcome laceration-20 aesthetics lemon vulcan venus
 1
 20 5
 2
-0 74 6 22
 0 72 2 3
+0 74 6 22
 1
 end_operator
 begin_operator
@@ -59144,8 +59144,8 @@ overcome laceration-20 aesthetics lobster mars neptune
 1
 20 6
 2
-0 74 8 22
 0 72 1 0
+0 74 8 22
 1
 end_operator
 begin_operator
@@ -59153,8 +59153,8 @@ overcome laceration-20 aesthetics lobster neptune vulcan
 1
 20 6
 2
-0 74 8 22
 0 72 3 1
+0 74 8 22
 1
 end_operator
 begin_operator
@@ -59162,8 +59162,8 @@ overcome laceration-20 aesthetics lobster vulcan venus
 1
 20 6
 2
-0 74 8 22
 0 72 2 3
+0 74 8 22
 1
 end_operator
 begin_operator
@@ -59171,8 +59171,8 @@ overcome laceration-20 aesthetics marzipan mars neptune
 1
 20 7
 2
-0 74 9 22
 0 72 1 0
+0 74 9 22
 1
 end_operator
 begin_operator
@@ -59180,8 +59180,8 @@ overcome laceration-20 aesthetics marzipan neptune vulcan
 1
 20 7
 2
-0 74 9 22
 0 72 3 1
+0 74 9 22
 1
 end_operator
 begin_operator
@@ -59189,8 +59189,8 @@ overcome laceration-20 aesthetics marzipan vulcan venus
 1
 20 7
 2
-0 74 9 22
 0 72 2 3
+0 74 9 22
 1
 end_operator
 begin_operator
@@ -59198,8 +59198,8 @@ overcome laceration-20 aesthetics melon mars neptune
 1
 20 8
 2
-0 74 10 22
 0 72 1 0
+0 74 10 22
 1
 end_operator
 begin_operator
@@ -59207,8 +59207,8 @@ overcome laceration-20 aesthetics melon neptune vulcan
 1
 20 8
 2
-0 74 10 22
 0 72 3 1
+0 74 10 22
 1
 end_operator
 begin_operator
@@ -59216,8 +59216,8 @@ overcome laceration-20 aesthetics melon vulcan venus
 1
 20 8
 2
-0 74 10 22
 0 72 2 3
+0 74 10 22
 1
 end_operator
 begin_operator
@@ -59225,8 +59225,8 @@ overcome laceration-20 aesthetics muffin mars neptune
 1
 20 9
 2
-0 74 11 22
 0 72 1 0
+0 74 11 22
 1
 end_operator
 begin_operator
@@ -59234,8 +59234,8 @@ overcome laceration-20 aesthetics muffin neptune vulcan
 1
 20 9
 2
-0 74 11 22
 0 72 3 1
+0 74 11 22
 1
 end_operator
 begin_operator
@@ -59243,8 +59243,8 @@ overcome laceration-20 aesthetics muffin vulcan venus
 1
 20 9
 2
-0 74 11 22
 0 72 2 3
+0 74 11 22
 1
 end_operator
 begin_operator
@@ -59252,8 +59252,8 @@ overcome laceration-20 aesthetics onion mars neptune
 1
 20 10
 2
-0 74 13 22
 0 72 1 0
+0 74 13 22
 1
 end_operator
 begin_operator
@@ -59261,8 +59261,8 @@ overcome laceration-20 aesthetics onion neptune vulcan
 1
 20 10
 2
-0 74 13 22
 0 72 3 1
+0 74 13 22
 1
 end_operator
 begin_operator
@@ -59270,8 +59270,8 @@ overcome laceration-20 aesthetics onion vulcan venus
 1
 20 10
 2
-0 74 13 22
 0 72 2 3
+0 74 13 22
 1
 end_operator
 begin_operator
@@ -59279,8 +59279,8 @@ overcome laceration-20 aesthetics papaya mars neptune
 1
 20 11
 2
-0 74 14 22
 0 72 1 0
+0 74 14 22
 1
 end_operator
 begin_operator
@@ -59288,8 +59288,8 @@ overcome laceration-20 aesthetics papaya neptune vulcan
 1
 20 11
 2
-0 74 14 22
 0 72 3 1
+0 74 14 22
 1
 end_operator
 begin_operator
@@ -59297,8 +59297,8 @@ overcome laceration-20 aesthetics papaya vulcan venus
 1
 20 11
 2
-0 74 14 22
 0 72 2 3
+0 74 14 22
 1
 end_operator
 begin_operator
@@ -59306,8 +59306,8 @@ overcome laceration-20 aesthetics potato mars neptune
 1
 20 12
 2
-0 74 15 22
 0 72 1 0
+0 74 15 22
 1
 end_operator
 begin_operator
@@ -59315,8 +59315,8 @@ overcome laceration-20 aesthetics potato neptune vulcan
 1
 20 12
 2
-0 74 15 22
 0 72 3 1
+0 74 15 22
 1
 end_operator
 begin_operator
@@ -59324,8 +59324,8 @@ overcome laceration-20 aesthetics potato vulcan venus
 1
 20 12
 2
-0 74 15 22
 0 72 2 3
+0 74 15 22
 1
 end_operator
 begin_operator
@@ -59333,8 +59333,8 @@ overcome laceration-20 aesthetics scallion mars neptune
 1
 20 13
 2
-0 74 17 22
 0 72 1 0
+0 74 17 22
 1
 end_operator
 begin_operator
@@ -59342,8 +59342,8 @@ overcome laceration-20 aesthetics scallion neptune vulcan
 1
 20 13
 2
-0 74 17 22
 0 72 3 1
+0 74 17 22
 1
 end_operator
 begin_operator
@@ -59351,8 +59351,8 @@ overcome laceration-20 aesthetics scallion vulcan venus
 1
 20 13
 2
-0 74 17 22
 0 72 2 3
+0 74 17 22
 1
 end_operator
 begin_operator
@@ -59360,8 +59360,8 @@ overcome laceration-20 aesthetics scallop mars neptune
 1
 20 14
 2
-0 74 18 22
 0 72 1 0
+0 74 18 22
 1
 end_operator
 begin_operator
@@ -59369,8 +59369,8 @@ overcome laceration-20 aesthetics scallop neptune vulcan
 1
 20 14
 2
-0 74 18 22
 0 72 3 1
+0 74 18 22
 1
 end_operator
 begin_operator
@@ -59378,8 +59378,8 @@ overcome laceration-20 aesthetics scallop vulcan venus
 1
 20 14
 2
-0 74 18 22
 0 72 2 3
+0 74 18 22
 1
 end_operator
 begin_operator
@@ -59387,8 +59387,8 @@ overcome laceration-20 aesthetics turkey mars neptune
 1
 20 15
 2
-0 74 19 22
 0 72 1 0
+0 74 19 22
 1
 end_operator
 begin_operator
@@ -59396,8 +59396,8 @@ overcome laceration-20 aesthetics turkey neptune vulcan
 1
 20 15
 2
-0 74 19 22
 0 72 3 1
+0 74 19 22
 1
 end_operator
 begin_operator
@@ -59405,32 +59405,32 @@ overcome laceration-20 aesthetics turkey vulcan venus
 1
 20 15
 2
-0 74 19 22
 0 72 2 3
+0 74 19 22
 1
 end_operator
 begin_operator
 overcome laceration-20 curiosity ham mars neptune
 0
 2
-0 74 3 23
 0 23 1 0
+0 74 3 23
 1
 end_operator
 begin_operator
 overcome laceration-20 curiosity ham neptune vulcan
 0
 2
-0 74 3 23
 0 23 3 1
+0 74 3 23
 1
 end_operator
 begin_operator
 overcome laceration-20 curiosity ham vulcan venus
 0
 2
-0 74 3 23
 0 23 2 3
+0 74 3 23
 1
 end_operator
 begin_operator
@@ -59438,8 +59438,8 @@ overcome laceration-20 entertainment marzipan mars neptune
 1
 6 0
 2
-0 74 9 24
 0 50 1 0
+0 74 9 24
 1
 end_operator
 begin_operator
@@ -59447,8 +59447,8 @@ overcome laceration-20 entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 74 9 24
 0 50 3 1
+0 74 9 24
 1
 end_operator
 begin_operator
@@ -59456,8 +59456,8 @@ overcome laceration-20 entertainment marzipan vulcan venus
 1
 6 0
 2
-0 74 9 24
 0 50 2 3
+0 74 9 24
 1
 end_operator
 begin_operator
@@ -59465,8 +59465,8 @@ overcome laceration-20 entertainment mutton mars neptune
 1
 6 1
 2
-0 74 12 24
 0 50 1 0
+0 74 12 24
 1
 end_operator
 begin_operator
@@ -59474,8 +59474,8 @@ overcome laceration-20 entertainment mutton neptune vulcan
 1
 6 1
 2
-0 74 12 24
 0 50 3 1
+0 74 12 24
 1
 end_operator
 begin_operator
@@ -59483,8 +59483,8 @@ overcome laceration-20 entertainment mutton vulcan venus
 1
 6 1
 2
-0 74 12 24
 0 50 2 3
+0 74 12 24
 1
 end_operator
 begin_operator
@@ -59492,8 +59492,8 @@ overcome laceration-20 entertainment scallop mars neptune
 1
 6 2
 2
-0 74 18 24
 0 50 1 0
+0 74 18 24
 1
 end_operator
 begin_operator
@@ -59501,8 +59501,8 @@ overcome laceration-20 entertainment scallop neptune vulcan
 1
 6 2
 2
-0 74 18 24
 0 50 3 1
+0 74 18 24
 1
 end_operator
 begin_operator
@@ -59510,8 +59510,8 @@ overcome laceration-20 entertainment scallop vulcan venus
 1
 6 2
 2
-0 74 18 24
 0 50 2 3
+0 74 18 24
 1
 end_operator
 begin_operator
@@ -59519,8 +59519,8 @@ overcome laceration-20 intoxication chocolate mars neptune
 1
 3 0
 2
-0 74 1 25
 0 62 1 0
+0 74 1 25
 1
 end_operator
 begin_operator
@@ -59528,8 +59528,8 @@ overcome laceration-20 intoxication chocolate neptune vulcan
 1
 3 0
 2
-0 74 1 25
 0 62 3 1
+0 74 1 25
 1
 end_operator
 begin_operator
@@ -59537,8 +59537,8 @@ overcome laceration-20 intoxication chocolate vulcan venus
 1
 3 0
 2
-0 74 1 25
 0 62 2 3
+0 74 1 25
 1
 end_operator
 begin_operator
@@ -59546,8 +59546,8 @@ overcome laceration-20 intoxication lettuce mars neptune
 1
 3 1
 2
-0 74 7 25
 0 62 1 0
+0 74 7 25
 1
 end_operator
 begin_operator
@@ -59555,8 +59555,8 @@ overcome laceration-20 intoxication lettuce neptune vulcan
 1
 3 1
 2
-0 74 7 25
 0 62 3 1
+0 74 7 25
 1
 end_operator
 begin_operator
@@ -59564,8 +59564,8 @@ overcome laceration-20 intoxication lettuce vulcan venus
 1
 3 1
 2
-0 74 7 25
 0 62 2 3
+0 74 7 25
 1
 end_operator
 begin_operator
@@ -59573,8 +59573,8 @@ overcome laceration-20 intoxication marzipan mars neptune
 1
 3 2
 2
-0 74 9 25
 0 62 1 0
+0 74 9 25
 1
 end_operator
 begin_operator
@@ -59582,8 +59582,8 @@ overcome laceration-20 intoxication marzipan neptune vulcan
 1
 3 2
 2
-0 74 9 25
 0 62 3 1
+0 74 9 25
 1
 end_operator
 begin_operator
@@ -59591,8 +59591,8 @@ overcome laceration-20 intoxication marzipan vulcan venus
 1
 3 2
 2
-0 74 9 25
 0 62 2 3
+0 74 9 25
 1
 end_operator
 begin_operator
@@ -59600,8 +59600,8 @@ overcome laceration-20 intoxication rice mars neptune
 1
 3 3
 2
-0 74 16 25
 0 62 1 0
+0 74 16 25
 1
 end_operator
 begin_operator
@@ -59609,8 +59609,8 @@ overcome laceration-20 intoxication rice neptune vulcan
 1
 3 3
 2
-0 74 16 25
 0 62 3 1
+0 74 16 25
 1
 end_operator
 begin_operator
@@ -59618,8 +59618,8 @@ overcome laceration-20 intoxication rice vulcan venus
 1
 3 3
 2
-0 74 16 25
 0 62 2 3
+0 74 16 25
 1
 end_operator
 begin_operator
@@ -59627,8 +59627,8 @@ overcome laceration-20 intoxication scallop mars neptune
 1
 3 4
 2
-0 74 18 25
 0 62 1 0
+0 74 18 25
 1
 end_operator
 begin_operator
@@ -59636,8 +59636,8 @@ overcome laceration-20 intoxication scallop neptune vulcan
 1
 3 4
 2
-0 74 18 25
 0 62 3 1
+0 74 18 25
 1
 end_operator
 begin_operator
@@ -59645,8 +59645,8 @@ overcome laceration-20 intoxication scallop vulcan venus
 1
 3 4
 2
-0 74 18 25
 0 62 2 3
+0 74 18 25
 1
 end_operator
 begin_operator
@@ -59654,8 +59654,8 @@ overcome laceration-20 intoxication yogurt mars neptune
 1
 3 5
 2
-0 74 20 25
 0 62 1 0
+0 74 20 25
 1
 end_operator
 begin_operator
@@ -59663,8 +59663,8 @@ overcome laceration-20 intoxication yogurt neptune vulcan
 1
 3 5
 2
-0 74 20 25
 0 62 3 1
+0 74 20 25
 1
 end_operator
 begin_operator
@@ -59672,8 +59672,8 @@ overcome laceration-20 intoxication yogurt vulcan venus
 1
 3 5
 2
-0 74 20 25
 0 62 2 3
+0 74 20 25
 1
 end_operator
 begin_operator
@@ -59681,8 +59681,8 @@ overcome laceration-20 love baguette mars neptune
 1
 21 0
 2
-0 74 0 26
 0 73 1 0
+0 74 0 26
 1
 end_operator
 begin_operator
@@ -59690,8 +59690,8 @@ overcome laceration-20 love baguette neptune vulcan
 1
 21 0
 2
-0 74 0 26
 0 73 3 1
+0 74 0 26
 1
 end_operator
 begin_operator
@@ -59699,8 +59699,8 @@ overcome laceration-20 love baguette vulcan venus
 1
 21 0
 2
-0 74 0 26
 0 73 2 3
+0 74 0 26
 1
 end_operator
 begin_operator
@@ -59708,8 +59708,8 @@ overcome laceration-20 love flounder mars neptune
 1
 21 1
 2
-0 74 2 26
 0 73 1 0
+0 74 2 26
 1
 end_operator
 begin_operator
@@ -59717,8 +59717,8 @@ overcome laceration-20 love flounder neptune vulcan
 1
 21 1
 2
-0 74 2 26
 0 73 3 1
+0 74 2 26
 1
 end_operator
 begin_operator
@@ -59726,8 +59726,8 @@ overcome laceration-20 love flounder vulcan venus
 1
 21 1
 2
-0 74 2 26
 0 73 2 3
+0 74 2 26
 1
 end_operator
 begin_operator
@@ -59735,8 +59735,8 @@ overcome laceration-20 love ham mars neptune
 1
 21 2
 2
-0 74 3 26
 0 73 1 0
+0 74 3 26
 1
 end_operator
 begin_operator
@@ -59744,8 +59744,8 @@ overcome laceration-20 love ham neptune vulcan
 1
 21 2
 2
-0 74 3 26
 0 73 3 1
+0 74 3 26
 1
 end_operator
 begin_operator
@@ -59753,8 +59753,8 @@ overcome laceration-20 love ham vulcan venus
 1
 21 2
 2
-0 74 3 26
 0 73 2 3
+0 74 3 26
 1
 end_operator
 begin_operator
@@ -59762,8 +59762,8 @@ overcome laceration-20 love hamburger mars neptune
 1
 21 3
 2
-0 74 4 26
 0 73 1 0
+0 74 4 26
 1
 end_operator
 begin_operator
@@ -59771,8 +59771,8 @@ overcome laceration-20 love hamburger neptune vulcan
 1
 21 3
 2
-0 74 4 26
 0 73 3 1
+0 74 4 26
 1
 end_operator
 begin_operator
@@ -59780,8 +59780,8 @@ overcome laceration-20 love hamburger vulcan venus
 1
 21 3
 2
-0 74 4 26
 0 73 2 3
+0 74 4 26
 1
 end_operator
 begin_operator
@@ -59789,8 +59789,8 @@ overcome laceration-20 love haroset mars neptune
 1
 21 4
 2
-0 74 5 26
 0 73 1 0
+0 74 5 26
 1
 end_operator
 begin_operator
@@ -59798,8 +59798,8 @@ overcome laceration-20 love haroset neptune vulcan
 1
 21 4
 2
-0 74 5 26
 0 73 3 1
+0 74 5 26
 1
 end_operator
 begin_operator
@@ -59807,8 +59807,8 @@ overcome laceration-20 love haroset vulcan venus
 1
 21 4
 2
-0 74 5 26
 0 73 2 3
+0 74 5 26
 1
 end_operator
 begin_operator
@@ -59816,8 +59816,8 @@ overcome laceration-20 love lemon mars neptune
 1
 21 5
 2
-0 74 6 26
 0 73 1 0
+0 74 6 26
 1
 end_operator
 begin_operator
@@ -59825,8 +59825,8 @@ overcome laceration-20 love lemon neptune vulcan
 1
 21 5
 2
-0 74 6 26
 0 73 3 1
+0 74 6 26
 1
 end_operator
 begin_operator
@@ -59834,8 +59834,8 @@ overcome laceration-20 love lemon vulcan venus
 1
 21 5
 2
-0 74 6 26
 0 73 2 3
+0 74 6 26
 1
 end_operator
 begin_operator
@@ -59843,8 +59843,8 @@ overcome laceration-20 love lobster mars neptune
 1
 21 6
 2
-0 74 8 26
 0 73 1 0
+0 74 8 26
 1
 end_operator
 begin_operator
@@ -59852,8 +59852,8 @@ overcome laceration-20 love lobster neptune vulcan
 1
 21 6
 2
-0 74 8 26
 0 73 3 1
+0 74 8 26
 1
 end_operator
 begin_operator
@@ -59861,8 +59861,8 @@ overcome laceration-20 love lobster vulcan venus
 1
 21 6
 2
-0 74 8 26
 0 73 2 3
+0 74 8 26
 1
 end_operator
 begin_operator
@@ -59870,8 +59870,8 @@ overcome laceration-20 love marzipan mars neptune
 1
 21 7
 2
-0 74 9 26
 0 73 1 0
+0 74 9 26
 1
 end_operator
 begin_operator
@@ -59879,8 +59879,8 @@ overcome laceration-20 love marzipan neptune vulcan
 1
 21 7
 2
-0 74 9 26
 0 73 3 1
+0 74 9 26
 1
 end_operator
 begin_operator
@@ -59888,8 +59888,8 @@ overcome laceration-20 love marzipan vulcan venus
 1
 21 7
 2
-0 74 9 26
 0 73 2 3
+0 74 9 26
 1
 end_operator
 begin_operator
@@ -59897,8 +59897,8 @@ overcome laceration-20 love melon mars neptune
 1
 21 8
 2
-0 74 10 26
 0 73 1 0
+0 74 10 26
 1
 end_operator
 begin_operator
@@ -59906,8 +59906,8 @@ overcome laceration-20 love melon neptune vulcan
 1
 21 8
 2
-0 74 10 26
 0 73 3 1
+0 74 10 26
 1
 end_operator
 begin_operator
@@ -59915,8 +59915,8 @@ overcome laceration-20 love melon vulcan venus
 1
 21 8
 2
-0 74 10 26
 0 73 2 3
+0 74 10 26
 1
 end_operator
 begin_operator
@@ -59924,8 +59924,8 @@ overcome laceration-20 love muffin mars neptune
 1
 21 9
 2
-0 74 11 26
 0 73 1 0
+0 74 11 26
 1
 end_operator
 begin_operator
@@ -59933,8 +59933,8 @@ overcome laceration-20 love muffin neptune vulcan
 1
 21 9
 2
-0 74 11 26
 0 73 3 1
+0 74 11 26
 1
 end_operator
 begin_operator
@@ -59942,8 +59942,8 @@ overcome laceration-20 love muffin vulcan venus
 1
 21 9
 2
-0 74 11 26
 0 73 2 3
+0 74 11 26
 1
 end_operator
 begin_operator
@@ -59951,8 +59951,8 @@ overcome laceration-20 love onion mars neptune
 1
 21 10
 2
-0 74 13 26
 0 73 1 0
+0 74 13 26
 1
 end_operator
 begin_operator
@@ -59960,8 +59960,8 @@ overcome laceration-20 love onion neptune vulcan
 1
 21 10
 2
-0 74 13 26
 0 73 3 1
+0 74 13 26
 1
 end_operator
 begin_operator
@@ -59969,8 +59969,8 @@ overcome laceration-20 love onion vulcan venus
 1
 21 10
 2
-0 74 13 26
 0 73 2 3
+0 74 13 26
 1
 end_operator
 begin_operator
@@ -59978,8 +59978,8 @@ overcome laceration-20 love papaya mars neptune
 1
 21 11
 2
-0 74 14 26
 0 73 1 0
+0 74 14 26
 1
 end_operator
 begin_operator
@@ -59987,8 +59987,8 @@ overcome laceration-20 love papaya neptune vulcan
 1
 21 11
 2
-0 74 14 26
 0 73 3 1
+0 74 14 26
 1
 end_operator
 begin_operator
@@ -59996,8 +59996,8 @@ overcome laceration-20 love papaya vulcan venus
 1
 21 11
 2
-0 74 14 26
 0 73 2 3
+0 74 14 26
 1
 end_operator
 begin_operator
@@ -60005,8 +60005,8 @@ overcome laceration-20 love potato mars neptune
 1
 21 12
 2
-0 74 15 26
 0 73 1 0
+0 74 15 26
 1
 end_operator
 begin_operator
@@ -60014,8 +60014,8 @@ overcome laceration-20 love potato neptune vulcan
 1
 21 12
 2
-0 74 15 26
 0 73 3 1
+0 74 15 26
 1
 end_operator
 begin_operator
@@ -60023,8 +60023,8 @@ overcome laceration-20 love potato vulcan venus
 1
 21 12
 2
-0 74 15 26
 0 73 2 3
+0 74 15 26
 1
 end_operator
 begin_operator
@@ -60032,8 +60032,8 @@ overcome laceration-20 love scallion mars neptune
 1
 21 13
 2
-0 74 17 26
 0 73 1 0
+0 74 17 26
 1
 end_operator
 begin_operator
@@ -60041,8 +60041,8 @@ overcome laceration-20 love scallion neptune vulcan
 1
 21 13
 2
-0 74 17 26
 0 73 3 1
+0 74 17 26
 1
 end_operator
 begin_operator
@@ -60050,8 +60050,8 @@ overcome laceration-20 love scallion vulcan venus
 1
 21 13
 2
-0 74 17 26
 0 73 2 3
+0 74 17 26
 1
 end_operator
 begin_operator
@@ -60059,8 +60059,8 @@ overcome laceration-20 love scallop mars neptune
 1
 21 14
 2
-0 74 18 26
 0 73 1 0
+0 74 18 26
 1
 end_operator
 begin_operator
@@ -60068,8 +60068,8 @@ overcome laceration-20 love scallop neptune vulcan
 1
 21 14
 2
-0 74 18 26
 0 73 3 1
+0 74 18 26
 1
 end_operator
 begin_operator
@@ -60077,8 +60077,8 @@ overcome laceration-20 love scallop vulcan venus
 1
 21 14
 2
-0 74 18 26
 0 73 2 3
+0 74 18 26
 1
 end_operator
 begin_operator
@@ -60086,8 +60086,8 @@ overcome laceration-20 love turkey mars neptune
 1
 21 15
 2
-0 74 19 26
 0 73 1 0
+0 74 19 26
 1
 end_operator
 begin_operator
@@ -60095,8 +60095,8 @@ overcome laceration-20 love turkey neptune vulcan
 1
 21 15
 2
-0 74 19 26
 0 73 3 1
+0 74 19 26
 1
 end_operator
 begin_operator
@@ -60104,8 +60104,8 @@ overcome laceration-20 love turkey vulcan venus
 1
 21 15
 2
-0 74 19 26
 0 73 2 3
+0 74 19 26
 1
 end_operator
 begin_operator
@@ -60113,8 +60113,8 @@ overcome laceration-20 satisfaction chocolate mars neptune
 1
 4 0
 2
-0 74 1 27
 0 63 1 0
+0 74 1 27
 1
 end_operator
 begin_operator
@@ -60122,8 +60122,8 @@ overcome laceration-20 satisfaction chocolate neptune vulcan
 1
 4 0
 2
-0 74 1 27
 0 63 3 1
+0 74 1 27
 1
 end_operator
 begin_operator
@@ -60131,8 +60131,8 @@ overcome laceration-20 satisfaction chocolate vulcan venus
 1
 4 0
 2
-0 74 1 27
 0 63 2 3
+0 74 1 27
 1
 end_operator
 begin_operator
@@ -60140,8 +60140,8 @@ overcome laceration-20 satisfaction lettuce mars neptune
 1
 4 1
 2
-0 74 7 27
 0 63 1 0
+0 74 7 27
 1
 end_operator
 begin_operator
@@ -60149,8 +60149,8 @@ overcome laceration-20 satisfaction lettuce neptune vulcan
 1
 4 1
 2
-0 74 7 27
 0 63 3 1
+0 74 7 27
 1
 end_operator
 begin_operator
@@ -60158,8 +60158,8 @@ overcome laceration-20 satisfaction lettuce vulcan venus
 1
 4 1
 2
-0 74 7 27
 0 63 2 3
+0 74 7 27
 1
 end_operator
 begin_operator
@@ -60167,8 +60167,8 @@ overcome laceration-20 satisfaction marzipan mars neptune
 1
 4 2
 2
-0 74 9 27
 0 63 1 0
+0 74 9 27
 1
 end_operator
 begin_operator
@@ -60176,8 +60176,8 @@ overcome laceration-20 satisfaction marzipan neptune vulcan
 1
 4 2
 2
-0 74 9 27
 0 63 3 1
+0 74 9 27
 1
 end_operator
 begin_operator
@@ -60185,8 +60185,8 @@ overcome laceration-20 satisfaction marzipan vulcan venus
 1
 4 2
 2
-0 74 9 27
 0 63 2 3
+0 74 9 27
 1
 end_operator
 begin_operator
@@ -60194,8 +60194,8 @@ overcome laceration-20 satisfaction rice mars neptune
 1
 4 3
 2
-0 74 16 27
 0 63 1 0
+0 74 16 27
 1
 end_operator
 begin_operator
@@ -60203,8 +60203,8 @@ overcome laceration-20 satisfaction rice neptune vulcan
 1
 4 3
 2
-0 74 16 27
 0 63 3 1
+0 74 16 27
 1
 end_operator
 begin_operator
@@ -60212,8 +60212,8 @@ overcome laceration-20 satisfaction rice vulcan venus
 1
 4 3
 2
-0 74 16 27
 0 63 2 3
+0 74 16 27
 1
 end_operator
 begin_operator
@@ -60221,8 +60221,8 @@ overcome laceration-20 satisfaction scallop mars neptune
 1
 4 4
 2
-0 74 18 27
 0 63 1 0
+0 74 18 27
 1
 end_operator
 begin_operator
@@ -60230,8 +60230,8 @@ overcome laceration-20 satisfaction scallop neptune vulcan
 1
 4 4
 2
-0 74 18 27
 0 63 3 1
+0 74 18 27
 1
 end_operator
 begin_operator
@@ -60239,8 +60239,8 @@ overcome laceration-20 satisfaction scallop vulcan venus
 1
 4 4
 2
-0 74 18 27
 0 63 2 3
+0 74 18 27
 1
 end_operator
 begin_operator
@@ -60248,8 +60248,8 @@ overcome laceration-20 satisfaction yogurt mars neptune
 1
 4 5
 2
-0 74 20 27
 0 63 1 0
+0 74 20 27
 1
 end_operator
 begin_operator
@@ -60257,8 +60257,8 @@ overcome laceration-20 satisfaction yogurt neptune vulcan
 1
 4 5
 2
-0 74 20 27
 0 63 3 1
+0 74 20 27
 1
 end_operator
 begin_operator
@@ -60266,8 +60266,8 @@ overcome laceration-20 satisfaction yogurt vulcan venus
 1
 4 5
 2
-0 74 20 27
 0 63 2 3
+0 74 20 27
 1
 end_operator
 begin_operator
@@ -61138,24 +61138,24 @@ begin_operator
 overcome laceration-30 curiosity ham mars neptune
 0
 2
-0 57 3 23
 0 23 1 0
+0 57 3 23
 1
 end_operator
 begin_operator
 overcome laceration-30 curiosity ham neptune vulcan
 0
 2
-0 57 3 23
 0 23 3 1
+0 57 3 23
 1
 end_operator
 begin_operator
 overcome laceration-30 curiosity ham vulcan venus
 0
 2
-0 57 3 23
 0 23 2 3
+0 57 3 23
 1
 end_operator
 begin_operator
@@ -61163,8 +61163,8 @@ overcome laceration-30 entertainment marzipan mars neptune
 1
 6 0
 2
-0 57 9 24
 0 50 1 0
+0 57 9 24
 1
 end_operator
 begin_operator
@@ -61172,8 +61172,8 @@ overcome laceration-30 entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 57 9 24
 0 50 3 1
+0 57 9 24
 1
 end_operator
 begin_operator
@@ -61181,8 +61181,8 @@ overcome laceration-30 entertainment marzipan vulcan venus
 1
 6 0
 2
-0 57 9 24
 0 50 2 3
+0 57 9 24
 1
 end_operator
 begin_operator
@@ -61190,8 +61190,8 @@ overcome laceration-30 entertainment mutton mars neptune
 1
 6 1
 2
-0 57 12 24
 0 50 1 0
+0 57 12 24
 1
 end_operator
 begin_operator
@@ -61199,8 +61199,8 @@ overcome laceration-30 entertainment mutton neptune vulcan
 1
 6 1
 2
-0 57 12 24
 0 50 3 1
+0 57 12 24
 1
 end_operator
 begin_operator
@@ -61208,8 +61208,8 @@ overcome laceration-30 entertainment mutton vulcan venus
 1
 6 1
 2
-0 57 12 24
 0 50 2 3
+0 57 12 24
 1
 end_operator
 begin_operator
@@ -61217,8 +61217,8 @@ overcome laceration-30 entertainment scallop mars neptune
 1
 6 2
 2
-0 57 18 24
 0 50 1 0
+0 57 18 24
 1
 end_operator
 begin_operator
@@ -61226,8 +61226,8 @@ overcome laceration-30 entertainment scallop neptune vulcan
 1
 6 2
 2
-0 57 18 24
 0 50 3 1
+0 57 18 24
 1
 end_operator
 begin_operator
@@ -61235,8 +61235,8 @@ overcome laceration-30 entertainment scallop vulcan venus
 1
 6 2
 2
-0 57 18 24
 0 50 2 3
+0 57 18 24
 1
 end_operator
 begin_operator
@@ -62863,24 +62863,24 @@ begin_operator
 overcome laceration-7 curiosity ham mars neptune
 0
 2
-0 58 3 23
 0 23 1 0
+0 58 3 23
 1
 end_operator
 begin_operator
 overcome laceration-7 curiosity ham neptune vulcan
 0
 2
-0 58 3 23
 0 23 3 1
+0 58 3 23
 1
 end_operator
 begin_operator
 overcome laceration-7 curiosity ham vulcan venus
 0
 2
-0 58 3 23
 0 23 2 3
+0 58 3 23
 1
 end_operator
 begin_operator
@@ -62888,8 +62888,8 @@ overcome laceration-7 entertainment marzipan mars neptune
 1
 6 0
 2
-0 58 9 24
 0 50 1 0
+0 58 9 24
 1
 end_operator
 begin_operator
@@ -62897,8 +62897,8 @@ overcome laceration-7 entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 58 9 24
 0 50 3 1
+0 58 9 24
 1
 end_operator
 begin_operator
@@ -62906,8 +62906,8 @@ overcome laceration-7 entertainment marzipan vulcan venus
 1
 6 0
 2
-0 58 9 24
 0 50 2 3
+0 58 9 24
 1
 end_operator
 begin_operator
@@ -62915,8 +62915,8 @@ overcome laceration-7 entertainment mutton mars neptune
 1
 6 1
 2
-0 58 12 24
 0 50 1 0
+0 58 12 24
 1
 end_operator
 begin_operator
@@ -62924,8 +62924,8 @@ overcome laceration-7 entertainment mutton neptune vulcan
 1
 6 1
 2
-0 58 12 24
 0 50 3 1
+0 58 12 24
 1
 end_operator
 begin_operator
@@ -62933,8 +62933,8 @@ overcome laceration-7 entertainment mutton vulcan venus
 1
 6 1
 2
-0 58 12 24
 0 50 2 3
+0 58 12 24
 1
 end_operator
 begin_operator
@@ -62942,8 +62942,8 @@ overcome laceration-7 entertainment scallop mars neptune
 1
 6 2
 2
-0 58 18 24
 0 50 1 0
+0 58 18 24
 1
 end_operator
 begin_operator
@@ -62951,8 +62951,8 @@ overcome laceration-7 entertainment scallop neptune vulcan
 1
 6 2
 2
-0 58 18 24
 0 50 3 1
+0 58 18 24
 1
 end_operator
 begin_operator
@@ -62960,8 +62960,8 @@ overcome laceration-7 entertainment scallop vulcan venus
 1
 6 2
 2
-0 58 18 24
 0 50 2 3
+0 58 18 24
 1
 end_operator
 begin_operator
@@ -64588,24 +64588,24 @@ begin_operator
 overcome loneliness curiosity ham mars neptune
 0
 2
-0 59 3 23
 0 23 1 0
+0 59 3 23
 1
 end_operator
 begin_operator
 overcome loneliness curiosity ham neptune vulcan
 0
 2
-0 59 3 23
 0 23 3 1
+0 59 3 23
 1
 end_operator
 begin_operator
 overcome loneliness curiosity ham vulcan venus
 0
 2
-0 59 3 23
 0 23 2 3
+0 59 3 23
 1
 end_operator
 begin_operator
@@ -64613,8 +64613,8 @@ overcome loneliness entertainment marzipan mars neptune
 1
 6 0
 2
-0 59 9 24
 0 50 1 0
+0 59 9 24
 1
 end_operator
 begin_operator
@@ -64622,8 +64622,8 @@ overcome loneliness entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 59 9 24
 0 50 3 1
+0 59 9 24
 1
 end_operator
 begin_operator
@@ -64631,8 +64631,8 @@ overcome loneliness entertainment marzipan vulcan venus
 1
 6 0
 2
-0 59 9 24
 0 50 2 3
+0 59 9 24
 1
 end_operator
 begin_operator
@@ -64640,8 +64640,8 @@ overcome loneliness entertainment mutton mars neptune
 1
 6 1
 2
-0 59 12 24
 0 50 1 0
+0 59 12 24
 1
 end_operator
 begin_operator
@@ -64649,8 +64649,8 @@ overcome loneliness entertainment mutton neptune vulcan
 1
 6 1
 2
-0 59 12 24
 0 50 3 1
+0 59 12 24
 1
 end_operator
 begin_operator
@@ -64658,8 +64658,8 @@ overcome loneliness entertainment mutton vulcan venus
 1
 6 1
 2
-0 59 12 24
 0 50 2 3
+0 59 12 24
 1
 end_operator
 begin_operator
@@ -64667,8 +64667,8 @@ overcome loneliness entertainment scallop mars neptune
 1
 6 2
 2
-0 59 18 24
 0 50 1 0
+0 59 18 24
 1
 end_operator
 begin_operator
@@ -64676,8 +64676,8 @@ overcome loneliness entertainment scallop neptune vulcan
 1
 6 2
 2
-0 59 18 24
 0 50 3 1
+0 59 18 24
 1
 end_operator
 begin_operator
@@ -64685,8 +64685,8 @@ overcome loneliness entertainment scallop vulcan venus
 1
 6 2
 2
-0 59 18 24
 0 50 2 3
+0 59 18 24
 1
 end_operator
 begin_operator
@@ -66313,24 +66313,24 @@ begin_operator
 overcome loneliness-11 curiosity ham mars neptune
 0
 2
-0 60 3 23
 0 23 1 0
+0 60 3 23
 1
 end_operator
 begin_operator
 overcome loneliness-11 curiosity ham neptune vulcan
 0
 2
-0 60 3 23
 0 23 3 1
+0 60 3 23
 1
 end_operator
 begin_operator
 overcome loneliness-11 curiosity ham vulcan venus
 0
 2
-0 60 3 23
 0 23 2 3
+0 60 3 23
 1
 end_operator
 begin_operator
@@ -66338,8 +66338,8 @@ overcome loneliness-11 entertainment marzipan mars neptune
 1
 6 0
 2
-0 60 9 24
 0 50 1 0
+0 60 9 24
 1
 end_operator
 begin_operator
@@ -66347,8 +66347,8 @@ overcome loneliness-11 entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 60 9 24
 0 50 3 1
+0 60 9 24
 1
 end_operator
 begin_operator
@@ -66356,8 +66356,8 @@ overcome loneliness-11 entertainment marzipan vulcan venus
 1
 6 0
 2
-0 60 9 24
 0 50 2 3
+0 60 9 24
 1
 end_operator
 begin_operator
@@ -66365,8 +66365,8 @@ overcome loneliness-11 entertainment mutton mars neptune
 1
 6 1
 2
-0 60 12 24
 0 50 1 0
+0 60 12 24
 1
 end_operator
 begin_operator
@@ -66374,8 +66374,8 @@ overcome loneliness-11 entertainment mutton neptune vulcan
 1
 6 1
 2
-0 60 12 24
 0 50 3 1
+0 60 12 24
 1
 end_operator
 begin_operator
@@ -66383,8 +66383,8 @@ overcome loneliness-11 entertainment mutton vulcan venus
 1
 6 1
 2
-0 60 12 24
 0 50 2 3
+0 60 12 24
 1
 end_operator
 begin_operator
@@ -66392,8 +66392,8 @@ overcome loneliness-11 entertainment scallop mars neptune
 1
 6 2
 2
-0 60 18 24
 0 50 1 0
+0 60 18 24
 1
 end_operator
 begin_operator
@@ -66401,8 +66401,8 @@ overcome loneliness-11 entertainment scallop neptune vulcan
 1
 6 2
 2
-0 60 18 24
 0 50 3 1
+0 60 18 24
 1
 end_operator
 begin_operator
@@ -66410,8 +66410,8 @@ overcome loneliness-11 entertainment scallop vulcan venus
 1
 6 2
 2
-0 60 18 24
 0 50 2 3
+0 60 18 24
 1
 end_operator
 begin_operator
@@ -68038,24 +68038,24 @@ begin_operator
 overcome loneliness-17 curiosity ham mars neptune
 0
 2
-0 61 3 23
 0 23 1 0
+0 61 3 23
 1
 end_operator
 begin_operator
 overcome loneliness-17 curiosity ham neptune vulcan
 0
 2
-0 61 3 23
 0 23 3 1
+0 61 3 23
 1
 end_operator
 begin_operator
 overcome loneliness-17 curiosity ham vulcan venus
 0
 2
-0 61 3 23
 0 23 2 3
+0 61 3 23
 1
 end_operator
 begin_operator
@@ -68063,8 +68063,8 @@ overcome loneliness-17 entertainment marzipan mars neptune
 1
 6 0
 2
-0 61 9 24
 0 50 1 0
+0 61 9 24
 1
 end_operator
 begin_operator
@@ -68072,8 +68072,8 @@ overcome loneliness-17 entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 61 9 24
 0 50 3 1
+0 61 9 24
 1
 end_operator
 begin_operator
@@ -68081,8 +68081,8 @@ overcome loneliness-17 entertainment marzipan vulcan venus
 1
 6 0
 2
-0 61 9 24
 0 50 2 3
+0 61 9 24
 1
 end_operator
 begin_operator
@@ -68090,8 +68090,8 @@ overcome loneliness-17 entertainment mutton mars neptune
 1
 6 1
 2
-0 61 12 24
 0 50 1 0
+0 61 12 24
 1
 end_operator
 begin_operator
@@ -68099,8 +68099,8 @@ overcome loneliness-17 entertainment mutton neptune vulcan
 1
 6 1
 2
-0 61 12 24
 0 50 3 1
+0 61 12 24
 1
 end_operator
 begin_operator
@@ -68108,8 +68108,8 @@ overcome loneliness-17 entertainment mutton vulcan venus
 1
 6 1
 2
-0 61 12 24
 0 50 2 3
+0 61 12 24
 1
 end_operator
 begin_operator
@@ -68117,8 +68117,8 @@ overcome loneliness-17 entertainment scallop mars neptune
 1
 6 2
 2
-0 61 18 24
 0 50 1 0
+0 61 18 24
 1
 end_operator
 begin_operator
@@ -68126,8 +68126,8 @@ overcome loneliness-17 entertainment scallop neptune vulcan
 1
 6 2
 2
-0 61 18 24
 0 50 3 1
+0 61 18 24
 1
 end_operator
 begin_operator
@@ -68135,8 +68135,8 @@ overcome loneliness-17 entertainment scallop vulcan venus
 1
 6 2
 2
-0 61 18 24
 0 50 2 3
+0 61 18 24
 1
 end_operator
 begin_operator
@@ -69763,24 +69763,24 @@ begin_operator
 overcome loneliness-32 curiosity ham mars neptune
 0
 2
-0 64 3 23
 0 23 1 0
+0 64 3 23
 1
 end_operator
 begin_operator
 overcome loneliness-32 curiosity ham neptune vulcan
 0
 2
-0 64 3 23
 0 23 3 1
+0 64 3 23
 1
 end_operator
 begin_operator
 overcome loneliness-32 curiosity ham vulcan venus
 0
 2
-0 64 3 23
 0 23 2 3
+0 64 3 23
 1
 end_operator
 begin_operator
@@ -69788,8 +69788,8 @@ overcome loneliness-32 entertainment marzipan mars neptune
 1
 6 0
 2
-0 64 9 24
 0 50 1 0
+0 64 9 24
 1
 end_operator
 begin_operator
@@ -69797,8 +69797,8 @@ overcome loneliness-32 entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 64 9 24
 0 50 3 1
+0 64 9 24
 1
 end_operator
 begin_operator
@@ -69806,8 +69806,8 @@ overcome loneliness-32 entertainment marzipan vulcan venus
 1
 6 0
 2
-0 64 9 24
 0 50 2 3
+0 64 9 24
 1
 end_operator
 begin_operator
@@ -69815,8 +69815,8 @@ overcome loneliness-32 entertainment mutton mars neptune
 1
 6 1
 2
-0 64 12 24
 0 50 1 0
+0 64 12 24
 1
 end_operator
 begin_operator
@@ -69824,8 +69824,8 @@ overcome loneliness-32 entertainment mutton neptune vulcan
 1
 6 1
 2
-0 64 12 24
 0 50 3 1
+0 64 12 24
 1
 end_operator
 begin_operator
@@ -69833,8 +69833,8 @@ overcome loneliness-32 entertainment mutton vulcan venus
 1
 6 1
 2
-0 64 12 24
 0 50 2 3
+0 64 12 24
 1
 end_operator
 begin_operator
@@ -69842,8 +69842,8 @@ overcome loneliness-32 entertainment scallop mars neptune
 1
 6 2
 2
-0 64 18 24
 0 50 1 0
+0 64 18 24
 1
 end_operator
 begin_operator
@@ -69851,8 +69851,8 @@ overcome loneliness-32 entertainment scallop neptune vulcan
 1
 6 2
 2
-0 64 18 24
 0 50 3 1
+0 64 18 24
 1
 end_operator
 begin_operator
@@ -69860,8 +69860,8 @@ overcome loneliness-32 entertainment scallop vulcan venus
 1
 6 2
 2
-0 64 18 24
 0 50 2 3
+0 64 18 24
 1
 end_operator
 begin_operator
@@ -69869,8 +69869,8 @@ overcome loneliness-32 intoxication chocolate mars neptune
 1
 3 0
 2
-0 64 1 25
 0 62 1 0
+0 64 1 25
 1
 end_operator
 begin_operator
@@ -69878,8 +69878,8 @@ overcome loneliness-32 intoxication chocolate neptune vulcan
 1
 3 0
 2
-0 64 1 25
 0 62 3 1
+0 64 1 25
 1
 end_operator
 begin_operator
@@ -69887,8 +69887,8 @@ overcome loneliness-32 intoxication chocolate vulcan venus
 1
 3 0
 2
-0 64 1 25
 0 62 2 3
+0 64 1 25
 1
 end_operator
 begin_operator
@@ -69896,8 +69896,8 @@ overcome loneliness-32 intoxication lettuce mars neptune
 1
 3 1
 2
-0 64 7 25
 0 62 1 0
+0 64 7 25
 1
 end_operator
 begin_operator
@@ -69905,8 +69905,8 @@ overcome loneliness-32 intoxication lettuce neptune vulcan
 1
 3 1
 2
-0 64 7 25
 0 62 3 1
+0 64 7 25
 1
 end_operator
 begin_operator
@@ -69914,8 +69914,8 @@ overcome loneliness-32 intoxication lettuce vulcan venus
 1
 3 1
 2
-0 64 7 25
 0 62 2 3
+0 64 7 25
 1
 end_operator
 begin_operator
@@ -69923,8 +69923,8 @@ overcome loneliness-32 intoxication marzipan mars neptune
 1
 3 2
 2
-0 64 9 25
 0 62 1 0
+0 64 9 25
 1
 end_operator
 begin_operator
@@ -69932,8 +69932,8 @@ overcome loneliness-32 intoxication marzipan neptune vulcan
 1
 3 2
 2
-0 64 9 25
 0 62 3 1
+0 64 9 25
 1
 end_operator
 begin_operator
@@ -69941,8 +69941,8 @@ overcome loneliness-32 intoxication marzipan vulcan venus
 1
 3 2
 2
-0 64 9 25
 0 62 2 3
+0 64 9 25
 1
 end_operator
 begin_operator
@@ -69950,8 +69950,8 @@ overcome loneliness-32 intoxication rice mars neptune
 1
 3 3
 2
-0 64 16 25
 0 62 1 0
+0 64 16 25
 1
 end_operator
 begin_operator
@@ -69959,8 +69959,8 @@ overcome loneliness-32 intoxication rice neptune vulcan
 1
 3 3
 2
-0 64 16 25
 0 62 3 1
+0 64 16 25
 1
 end_operator
 begin_operator
@@ -69968,8 +69968,8 @@ overcome loneliness-32 intoxication rice vulcan venus
 1
 3 3
 2
-0 64 16 25
 0 62 2 3
+0 64 16 25
 1
 end_operator
 begin_operator
@@ -69977,8 +69977,8 @@ overcome loneliness-32 intoxication scallop mars neptune
 1
 3 4
 2
-0 64 18 25
 0 62 1 0
+0 64 18 25
 1
 end_operator
 begin_operator
@@ -69986,8 +69986,8 @@ overcome loneliness-32 intoxication scallop neptune vulcan
 1
 3 4
 2
-0 64 18 25
 0 62 3 1
+0 64 18 25
 1
 end_operator
 begin_operator
@@ -69995,8 +69995,8 @@ overcome loneliness-32 intoxication scallop vulcan venus
 1
 3 4
 2
-0 64 18 25
 0 62 2 3
+0 64 18 25
 1
 end_operator
 begin_operator
@@ -70004,8 +70004,8 @@ overcome loneliness-32 intoxication yogurt mars neptune
 1
 3 5
 2
-0 64 20 25
 0 62 1 0
+0 64 20 25
 1
 end_operator
 begin_operator
@@ -70013,8 +70013,8 @@ overcome loneliness-32 intoxication yogurt neptune vulcan
 1
 3 5
 2
-0 64 20 25
 0 62 3 1
+0 64 20 25
 1
 end_operator
 begin_operator
@@ -70022,8 +70022,8 @@ overcome loneliness-32 intoxication yogurt vulcan venus
 1
 3 5
 2
-0 64 20 25
 0 62 2 3
+0 64 20 25
 1
 end_operator
 begin_operator
@@ -70463,8 +70463,8 @@ overcome loneliness-32 satisfaction chocolate mars neptune
 1
 4 0
 2
-0 64 1 27
 0 63 1 0
+0 64 1 27
 1
 end_operator
 begin_operator
@@ -70472,8 +70472,8 @@ overcome loneliness-32 satisfaction chocolate neptune vulcan
 1
 4 0
 2
-0 64 1 27
 0 63 3 1
+0 64 1 27
 1
 end_operator
 begin_operator
@@ -70481,8 +70481,8 @@ overcome loneliness-32 satisfaction chocolate vulcan venus
 1
 4 0
 2
-0 64 1 27
 0 63 2 3
+0 64 1 27
 1
 end_operator
 begin_operator
@@ -70490,8 +70490,8 @@ overcome loneliness-32 satisfaction lettuce mars neptune
 1
 4 1
 2
-0 64 7 27
 0 63 1 0
+0 64 7 27
 1
 end_operator
 begin_operator
@@ -70499,8 +70499,8 @@ overcome loneliness-32 satisfaction lettuce neptune vulcan
 1
 4 1
 2
-0 64 7 27
 0 63 3 1
+0 64 7 27
 1
 end_operator
 begin_operator
@@ -70508,8 +70508,8 @@ overcome loneliness-32 satisfaction lettuce vulcan venus
 1
 4 1
 2
-0 64 7 27
 0 63 2 3
+0 64 7 27
 1
 end_operator
 begin_operator
@@ -70517,8 +70517,8 @@ overcome loneliness-32 satisfaction marzipan mars neptune
 1
 4 2
 2
-0 64 9 27
 0 63 1 0
+0 64 9 27
 1
 end_operator
 begin_operator
@@ -70526,8 +70526,8 @@ overcome loneliness-32 satisfaction marzipan neptune vulcan
 1
 4 2
 2
-0 64 9 27
 0 63 3 1
+0 64 9 27
 1
 end_operator
 begin_operator
@@ -70535,8 +70535,8 @@ overcome loneliness-32 satisfaction marzipan vulcan venus
 1
 4 2
 2
-0 64 9 27
 0 63 2 3
+0 64 9 27
 1
 end_operator
 begin_operator
@@ -70544,8 +70544,8 @@ overcome loneliness-32 satisfaction rice mars neptune
 1
 4 3
 2
-0 64 16 27
 0 63 1 0
+0 64 16 27
 1
 end_operator
 begin_operator
@@ -70553,8 +70553,8 @@ overcome loneliness-32 satisfaction rice neptune vulcan
 1
 4 3
 2
-0 64 16 27
 0 63 3 1
+0 64 16 27
 1
 end_operator
 begin_operator
@@ -70562,8 +70562,8 @@ overcome loneliness-32 satisfaction rice vulcan venus
 1
 4 3
 2
-0 64 16 27
 0 63 2 3
+0 64 16 27
 1
 end_operator
 begin_operator
@@ -70571,8 +70571,8 @@ overcome loneliness-32 satisfaction scallop mars neptune
 1
 4 4
 2
-0 64 18 27
 0 63 1 0
+0 64 18 27
 1
 end_operator
 begin_operator
@@ -70580,8 +70580,8 @@ overcome loneliness-32 satisfaction scallop neptune vulcan
 1
 4 4
 2
-0 64 18 27
 0 63 3 1
+0 64 18 27
 1
 end_operator
 begin_operator
@@ -70589,8 +70589,8 @@ overcome loneliness-32 satisfaction scallop vulcan venus
 1
 4 4
 2
-0 64 18 27
 0 63 2 3
+0 64 18 27
 1
 end_operator
 begin_operator
@@ -70598,8 +70598,8 @@ overcome loneliness-32 satisfaction yogurt mars neptune
 1
 4 5
 2
-0 64 20 27
 0 63 1 0
+0 64 20 27
 1
 end_operator
 begin_operator
@@ -70607,8 +70607,8 @@ overcome loneliness-32 satisfaction yogurt neptune vulcan
 1
 4 5
 2
-0 64 20 27
 0 63 3 1
+0 64 20 27
 1
 end_operator
 begin_operator
@@ -70616,8 +70616,8 @@ overcome loneliness-32 satisfaction yogurt vulcan venus
 1
 4 5
 2
-0 64 20 27
 0 63 2 3
+0 64 20 27
 1
 end_operator
 begin_operator
@@ -71488,24 +71488,24 @@ begin_operator
 overcome prostatitis curiosity ham mars neptune
 0
 2
-0 65 3 23
 0 23 1 0
+0 65 3 23
 1
 end_operator
 begin_operator
 overcome prostatitis curiosity ham neptune vulcan
 0
 2
-0 65 3 23
 0 23 3 1
+0 65 3 23
 1
 end_operator
 begin_operator
 overcome prostatitis curiosity ham vulcan venus
 0
 2
-0 65 3 23
 0 23 2 3
+0 65 3 23
 1
 end_operator
 begin_operator
@@ -71513,8 +71513,8 @@ overcome prostatitis entertainment marzipan mars neptune
 1
 6 0
 2
-0 65 9 24
 0 50 1 0
+0 65 9 24
 1
 end_operator
 begin_operator
@@ -71522,8 +71522,8 @@ overcome prostatitis entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 65 9 24
 0 50 3 1
+0 65 9 24
 1
 end_operator
 begin_operator
@@ -71531,8 +71531,8 @@ overcome prostatitis entertainment marzipan vulcan venus
 1
 6 0
 2
-0 65 9 24
 0 50 2 3
+0 65 9 24
 1
 end_operator
 begin_operator
@@ -71540,8 +71540,8 @@ overcome prostatitis entertainment mutton mars neptune
 1
 6 1
 2
-0 65 12 24
 0 50 1 0
+0 65 12 24
 1
 end_operator
 begin_operator
@@ -71549,8 +71549,8 @@ overcome prostatitis entertainment mutton neptune vulcan
 1
 6 1
 2
-0 65 12 24
 0 50 3 1
+0 65 12 24
 1
 end_operator
 begin_operator
@@ -71558,8 +71558,8 @@ overcome prostatitis entertainment mutton vulcan venus
 1
 6 1
 2
-0 65 12 24
 0 50 2 3
+0 65 12 24
 1
 end_operator
 begin_operator
@@ -71567,8 +71567,8 @@ overcome prostatitis entertainment scallop mars neptune
 1
 6 2
 2
-0 65 18 24
 0 50 1 0
+0 65 18 24
 1
 end_operator
 begin_operator
@@ -71576,8 +71576,8 @@ overcome prostatitis entertainment scallop neptune vulcan
 1
 6 2
 2
-0 65 18 24
 0 50 3 1
+0 65 18 24
 1
 end_operator
 begin_operator
@@ -71585,8 +71585,8 @@ overcome prostatitis entertainment scallop vulcan venus
 1
 6 2
 2
-0 65 18 24
 0 50 2 3
+0 65 18 24
 1
 end_operator
 begin_operator
@@ -71594,8 +71594,8 @@ overcome prostatitis intoxication chocolate mars neptune
 1
 3 0
 2
-0 65 1 25
 0 62 1 0
+0 65 1 25
 1
 end_operator
 begin_operator
@@ -71603,8 +71603,8 @@ overcome prostatitis intoxication chocolate neptune vulcan
 1
 3 0
 2
-0 65 1 25
 0 62 3 1
+0 65 1 25
 1
 end_operator
 begin_operator
@@ -71612,8 +71612,8 @@ overcome prostatitis intoxication chocolate vulcan venus
 1
 3 0
 2
-0 65 1 25
 0 62 2 3
+0 65 1 25
 1
 end_operator
 begin_operator
@@ -71621,8 +71621,8 @@ overcome prostatitis intoxication lettuce mars neptune
 1
 3 1
 2
-0 65 7 25
 0 62 1 0
+0 65 7 25
 1
 end_operator
 begin_operator
@@ -71630,8 +71630,8 @@ overcome prostatitis intoxication lettuce neptune vulcan
 1
 3 1
 2
-0 65 7 25
 0 62 3 1
+0 65 7 25
 1
 end_operator
 begin_operator
@@ -71639,8 +71639,8 @@ overcome prostatitis intoxication lettuce vulcan venus
 1
 3 1
 2
-0 65 7 25
 0 62 2 3
+0 65 7 25
 1
 end_operator
 begin_operator
@@ -71648,8 +71648,8 @@ overcome prostatitis intoxication marzipan mars neptune
 1
 3 2
 2
-0 65 9 25
 0 62 1 0
+0 65 9 25
 1
 end_operator
 begin_operator
@@ -71657,8 +71657,8 @@ overcome prostatitis intoxication marzipan neptune vulcan
 1
 3 2
 2
-0 65 9 25
 0 62 3 1
+0 65 9 25
 1
 end_operator
 begin_operator
@@ -71666,8 +71666,8 @@ overcome prostatitis intoxication marzipan vulcan venus
 1
 3 2
 2
-0 65 9 25
 0 62 2 3
+0 65 9 25
 1
 end_operator
 begin_operator
@@ -71675,8 +71675,8 @@ overcome prostatitis intoxication rice mars neptune
 1
 3 3
 2
-0 65 16 25
 0 62 1 0
+0 65 16 25
 1
 end_operator
 begin_operator
@@ -71684,8 +71684,8 @@ overcome prostatitis intoxication rice neptune vulcan
 1
 3 3
 2
-0 65 16 25
 0 62 3 1
+0 65 16 25
 1
 end_operator
 begin_operator
@@ -71693,8 +71693,8 @@ overcome prostatitis intoxication rice vulcan venus
 1
 3 3
 2
-0 65 16 25
 0 62 2 3
+0 65 16 25
 1
 end_operator
 begin_operator
@@ -71702,8 +71702,8 @@ overcome prostatitis intoxication scallop mars neptune
 1
 3 4
 2
-0 65 18 25
 0 62 1 0
+0 65 18 25
 1
 end_operator
 begin_operator
@@ -71711,8 +71711,8 @@ overcome prostatitis intoxication scallop neptune vulcan
 1
 3 4
 2
-0 65 18 25
 0 62 3 1
+0 65 18 25
 1
 end_operator
 begin_operator
@@ -71720,8 +71720,8 @@ overcome prostatitis intoxication scallop vulcan venus
 1
 3 4
 2
-0 65 18 25
 0 62 2 3
+0 65 18 25
 1
 end_operator
 begin_operator
@@ -71729,8 +71729,8 @@ overcome prostatitis intoxication yogurt mars neptune
 1
 3 5
 2
-0 65 20 25
 0 62 1 0
+0 65 20 25
 1
 end_operator
 begin_operator
@@ -71738,8 +71738,8 @@ overcome prostatitis intoxication yogurt neptune vulcan
 1
 3 5
 2
-0 65 20 25
 0 62 3 1
+0 65 20 25
 1
 end_operator
 begin_operator
@@ -71747,8 +71747,8 @@ overcome prostatitis intoxication yogurt vulcan venus
 1
 3 5
 2
-0 65 20 25
 0 62 2 3
+0 65 20 25
 1
 end_operator
 begin_operator
@@ -72188,8 +72188,8 @@ overcome prostatitis satisfaction chocolate mars neptune
 1
 4 0
 2
-0 65 1 27
 0 63 1 0
+0 65 1 27
 1
 end_operator
 begin_operator
@@ -72197,8 +72197,8 @@ overcome prostatitis satisfaction chocolate neptune vulcan
 1
 4 0
 2
-0 65 1 27
 0 63 3 1
+0 65 1 27
 1
 end_operator
 begin_operator
@@ -72206,8 +72206,8 @@ overcome prostatitis satisfaction chocolate vulcan venus
 1
 4 0
 2
-0 65 1 27
 0 63 2 3
+0 65 1 27
 1
 end_operator
 begin_operator
@@ -72215,8 +72215,8 @@ overcome prostatitis satisfaction lettuce mars neptune
 1
 4 1
 2
-0 65 7 27
 0 63 1 0
+0 65 7 27
 1
 end_operator
 begin_operator
@@ -72224,8 +72224,8 @@ overcome prostatitis satisfaction lettuce neptune vulcan
 1
 4 1
 2
-0 65 7 27
 0 63 3 1
+0 65 7 27
 1
 end_operator
 begin_operator
@@ -72233,8 +72233,8 @@ overcome prostatitis satisfaction lettuce vulcan venus
 1
 4 1
 2
-0 65 7 27
 0 63 2 3
+0 65 7 27
 1
 end_operator
 begin_operator
@@ -72242,8 +72242,8 @@ overcome prostatitis satisfaction marzipan mars neptune
 1
 4 2
 2
-0 65 9 27
 0 63 1 0
+0 65 9 27
 1
 end_operator
 begin_operator
@@ -72251,8 +72251,8 @@ overcome prostatitis satisfaction marzipan neptune vulcan
 1
 4 2
 2
-0 65 9 27
 0 63 3 1
+0 65 9 27
 1
 end_operator
 begin_operator
@@ -72260,8 +72260,8 @@ overcome prostatitis satisfaction marzipan vulcan venus
 1
 4 2
 2
-0 65 9 27
 0 63 2 3
+0 65 9 27
 1
 end_operator
 begin_operator
@@ -72269,8 +72269,8 @@ overcome prostatitis satisfaction rice mars neptune
 1
 4 3
 2
-0 65 16 27
 0 63 1 0
+0 65 16 27
 1
 end_operator
 begin_operator
@@ -72278,8 +72278,8 @@ overcome prostatitis satisfaction rice neptune vulcan
 1
 4 3
 2
-0 65 16 27
 0 63 3 1
+0 65 16 27
 1
 end_operator
 begin_operator
@@ -72287,8 +72287,8 @@ overcome prostatitis satisfaction rice vulcan venus
 1
 4 3
 2
-0 65 16 27
 0 63 2 3
+0 65 16 27
 1
 end_operator
 begin_operator
@@ -72296,8 +72296,8 @@ overcome prostatitis satisfaction scallop mars neptune
 1
 4 4
 2
-0 65 18 27
 0 63 1 0
+0 65 18 27
 1
 end_operator
 begin_operator
@@ -72305,8 +72305,8 @@ overcome prostatitis satisfaction scallop neptune vulcan
 1
 4 4
 2
-0 65 18 27
 0 63 3 1
+0 65 18 27
 1
 end_operator
 begin_operator
@@ -72314,8 +72314,8 @@ overcome prostatitis satisfaction scallop vulcan venus
 1
 4 4
 2
-0 65 18 27
 0 63 2 3
+0 65 18 27
 1
 end_operator
 begin_operator
@@ -72323,8 +72323,8 @@ overcome prostatitis satisfaction yogurt mars neptune
 1
 4 5
 2
-0 65 20 27
 0 63 1 0
+0 65 20 27
 1
 end_operator
 begin_operator
@@ -72332,8 +72332,8 @@ overcome prostatitis satisfaction yogurt neptune vulcan
 1
 4 5
 2
-0 65 20 27
 0 63 3 1
+0 65 20 27
 1
 end_operator
 begin_operator
@@ -72341,8 +72341,8 @@ overcome prostatitis satisfaction yogurt vulcan venus
 1
 4 5
 2
-0 65 20 27
 0 63 2 3
+0 65 20 27
 1
 end_operator
 begin_operator
@@ -73213,24 +73213,24 @@ begin_operator
 overcome prostatitis-13 curiosity ham mars neptune
 0
 2
-0 66 3 23
 0 23 1 0
+0 66 3 23
 1
 end_operator
 begin_operator
 overcome prostatitis-13 curiosity ham neptune vulcan
 0
 2
-0 66 3 23
 0 23 3 1
+0 66 3 23
 1
 end_operator
 begin_operator
 overcome prostatitis-13 curiosity ham vulcan venus
 0
 2
-0 66 3 23
 0 23 2 3
+0 66 3 23
 1
 end_operator
 begin_operator
@@ -73238,8 +73238,8 @@ overcome prostatitis-13 entertainment marzipan mars neptune
 1
 6 0
 2
-0 66 9 24
 0 50 1 0
+0 66 9 24
 1
 end_operator
 begin_operator
@@ -73247,8 +73247,8 @@ overcome prostatitis-13 entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 66 9 24
 0 50 3 1
+0 66 9 24
 1
 end_operator
 begin_operator
@@ -73256,8 +73256,8 @@ overcome prostatitis-13 entertainment marzipan vulcan venus
 1
 6 0
 2
-0 66 9 24
 0 50 2 3
+0 66 9 24
 1
 end_operator
 begin_operator
@@ -73265,8 +73265,8 @@ overcome prostatitis-13 entertainment mutton mars neptune
 1
 6 1
 2
-0 66 12 24
 0 50 1 0
+0 66 12 24
 1
 end_operator
 begin_operator
@@ -73274,8 +73274,8 @@ overcome prostatitis-13 entertainment mutton neptune vulcan
 1
 6 1
 2
-0 66 12 24
 0 50 3 1
+0 66 12 24
 1
 end_operator
 begin_operator
@@ -73283,8 +73283,8 @@ overcome prostatitis-13 entertainment mutton vulcan venus
 1
 6 1
 2
-0 66 12 24
 0 50 2 3
+0 66 12 24
 1
 end_operator
 begin_operator
@@ -73292,8 +73292,8 @@ overcome prostatitis-13 entertainment scallop mars neptune
 1
 6 2
 2
-0 66 18 24
 0 50 1 0
+0 66 18 24
 1
 end_operator
 begin_operator
@@ -73301,8 +73301,8 @@ overcome prostatitis-13 entertainment scallop neptune vulcan
 1
 6 2
 2
-0 66 18 24
 0 50 3 1
+0 66 18 24
 1
 end_operator
 begin_operator
@@ -73310,8 +73310,8 @@ overcome prostatitis-13 entertainment scallop vulcan venus
 1
 6 2
 2
-0 66 18 24
 0 50 2 3
+0 66 18 24
 1
 end_operator
 begin_operator
@@ -73319,8 +73319,8 @@ overcome prostatitis-13 intoxication chocolate mars neptune
 1
 3 0
 2
-0 66 1 25
 0 62 1 0
+0 66 1 25
 1
 end_operator
 begin_operator
@@ -73328,8 +73328,8 @@ overcome prostatitis-13 intoxication chocolate neptune vulcan
 1
 3 0
 2
-0 66 1 25
 0 62 3 1
+0 66 1 25
 1
 end_operator
 begin_operator
@@ -73337,8 +73337,8 @@ overcome prostatitis-13 intoxication chocolate vulcan venus
 1
 3 0
 2
-0 66 1 25
 0 62 2 3
+0 66 1 25
 1
 end_operator
 begin_operator
@@ -73346,8 +73346,8 @@ overcome prostatitis-13 intoxication lettuce mars neptune
 1
 3 1
 2
-0 66 7 25
 0 62 1 0
+0 66 7 25
 1
 end_operator
 begin_operator
@@ -73355,8 +73355,8 @@ overcome prostatitis-13 intoxication lettuce neptune vulcan
 1
 3 1
 2
-0 66 7 25
 0 62 3 1
+0 66 7 25
 1
 end_operator
 begin_operator
@@ -73364,8 +73364,8 @@ overcome prostatitis-13 intoxication lettuce vulcan venus
 1
 3 1
 2
-0 66 7 25
 0 62 2 3
+0 66 7 25
 1
 end_operator
 begin_operator
@@ -73373,8 +73373,8 @@ overcome prostatitis-13 intoxication marzipan mars neptune
 1
 3 2
 2
-0 66 9 25
 0 62 1 0
+0 66 9 25
 1
 end_operator
 begin_operator
@@ -73382,8 +73382,8 @@ overcome prostatitis-13 intoxication marzipan neptune vulcan
 1
 3 2
 2
-0 66 9 25
 0 62 3 1
+0 66 9 25
 1
 end_operator
 begin_operator
@@ -73391,8 +73391,8 @@ overcome prostatitis-13 intoxication marzipan vulcan venus
 1
 3 2
 2
-0 66 9 25
 0 62 2 3
+0 66 9 25
 1
 end_operator
 begin_operator
@@ -73400,8 +73400,8 @@ overcome prostatitis-13 intoxication rice mars neptune
 1
 3 3
 2
-0 66 16 25
 0 62 1 0
+0 66 16 25
 1
 end_operator
 begin_operator
@@ -73409,8 +73409,8 @@ overcome prostatitis-13 intoxication rice neptune vulcan
 1
 3 3
 2
-0 66 16 25
 0 62 3 1
+0 66 16 25
 1
 end_operator
 begin_operator
@@ -73418,8 +73418,8 @@ overcome prostatitis-13 intoxication rice vulcan venus
 1
 3 3
 2
-0 66 16 25
 0 62 2 3
+0 66 16 25
 1
 end_operator
 begin_operator
@@ -73427,8 +73427,8 @@ overcome prostatitis-13 intoxication scallop mars neptune
 1
 3 4
 2
-0 66 18 25
 0 62 1 0
+0 66 18 25
 1
 end_operator
 begin_operator
@@ -73436,8 +73436,8 @@ overcome prostatitis-13 intoxication scallop neptune vulcan
 1
 3 4
 2
-0 66 18 25
 0 62 3 1
+0 66 18 25
 1
 end_operator
 begin_operator
@@ -73445,8 +73445,8 @@ overcome prostatitis-13 intoxication scallop vulcan venus
 1
 3 4
 2
-0 66 18 25
 0 62 2 3
+0 66 18 25
 1
 end_operator
 begin_operator
@@ -73454,8 +73454,8 @@ overcome prostatitis-13 intoxication yogurt mars neptune
 1
 3 5
 2
-0 66 20 25
 0 62 1 0
+0 66 20 25
 1
 end_operator
 begin_operator
@@ -73463,8 +73463,8 @@ overcome prostatitis-13 intoxication yogurt neptune vulcan
 1
 3 5
 2
-0 66 20 25
 0 62 3 1
+0 66 20 25
 1
 end_operator
 begin_operator
@@ -73472,8 +73472,8 @@ overcome prostatitis-13 intoxication yogurt vulcan venus
 1
 3 5
 2
-0 66 20 25
 0 62 2 3
+0 66 20 25
 1
 end_operator
 begin_operator
@@ -73913,8 +73913,8 @@ overcome prostatitis-13 satisfaction chocolate mars neptune
 1
 4 0
 2
-0 66 1 27
 0 63 1 0
+0 66 1 27
 1
 end_operator
 begin_operator
@@ -73922,8 +73922,8 @@ overcome prostatitis-13 satisfaction chocolate neptune vulcan
 1
 4 0
 2
-0 66 1 27
 0 63 3 1
+0 66 1 27
 1
 end_operator
 begin_operator
@@ -73931,8 +73931,8 @@ overcome prostatitis-13 satisfaction chocolate vulcan venus
 1
 4 0
 2
-0 66 1 27
 0 63 2 3
+0 66 1 27
 1
 end_operator
 begin_operator
@@ -73940,8 +73940,8 @@ overcome prostatitis-13 satisfaction lettuce mars neptune
 1
 4 1
 2
-0 66 7 27
 0 63 1 0
+0 66 7 27
 1
 end_operator
 begin_operator
@@ -73949,8 +73949,8 @@ overcome prostatitis-13 satisfaction lettuce neptune vulcan
 1
 4 1
 2
-0 66 7 27
 0 63 3 1
+0 66 7 27
 1
 end_operator
 begin_operator
@@ -73958,8 +73958,8 @@ overcome prostatitis-13 satisfaction lettuce vulcan venus
 1
 4 1
 2
-0 66 7 27
 0 63 2 3
+0 66 7 27
 1
 end_operator
 begin_operator
@@ -73967,8 +73967,8 @@ overcome prostatitis-13 satisfaction marzipan mars neptune
 1
 4 2
 2
-0 66 9 27
 0 63 1 0
+0 66 9 27
 1
 end_operator
 begin_operator
@@ -73976,8 +73976,8 @@ overcome prostatitis-13 satisfaction marzipan neptune vulcan
 1
 4 2
 2
-0 66 9 27
 0 63 3 1
+0 66 9 27
 1
 end_operator
 begin_operator
@@ -73985,8 +73985,8 @@ overcome prostatitis-13 satisfaction marzipan vulcan venus
 1
 4 2
 2
-0 66 9 27
 0 63 2 3
+0 66 9 27
 1
 end_operator
 begin_operator
@@ -73994,8 +73994,8 @@ overcome prostatitis-13 satisfaction rice mars neptune
 1
 4 3
 2
-0 66 16 27
 0 63 1 0
+0 66 16 27
 1
 end_operator
 begin_operator
@@ -74003,8 +74003,8 @@ overcome prostatitis-13 satisfaction rice neptune vulcan
 1
 4 3
 2
-0 66 16 27
 0 63 3 1
+0 66 16 27
 1
 end_operator
 begin_operator
@@ -74012,8 +74012,8 @@ overcome prostatitis-13 satisfaction rice vulcan venus
 1
 4 3
 2
-0 66 16 27
 0 63 2 3
+0 66 16 27
 1
 end_operator
 begin_operator
@@ -74021,8 +74021,8 @@ overcome prostatitis-13 satisfaction scallop mars neptune
 1
 4 4
 2
-0 66 18 27
 0 63 1 0
+0 66 18 27
 1
 end_operator
 begin_operator
@@ -74030,8 +74030,8 @@ overcome prostatitis-13 satisfaction scallop neptune vulcan
 1
 4 4
 2
-0 66 18 27
 0 63 3 1
+0 66 18 27
 1
 end_operator
 begin_operator
@@ -74039,8 +74039,8 @@ overcome prostatitis-13 satisfaction scallop vulcan venus
 1
 4 4
 2
-0 66 18 27
 0 63 2 3
+0 66 18 27
 1
 end_operator
 begin_operator
@@ -74048,8 +74048,8 @@ overcome prostatitis-13 satisfaction yogurt mars neptune
 1
 4 5
 2
-0 66 20 27
 0 63 1 0
+0 66 20 27
 1
 end_operator
 begin_operator
@@ -74057,8 +74057,8 @@ overcome prostatitis-13 satisfaction yogurt neptune vulcan
 1
 4 5
 2
-0 66 20 27
 0 63 3 1
+0 66 20 27
 1
 end_operator
 begin_operator
@@ -74066,8 +74066,8 @@ overcome prostatitis-13 satisfaction yogurt vulcan venus
 1
 4 5
 2
-0 66 20 27
 0 63 2 3
+0 66 20 27
 1
 end_operator
 begin_operator
@@ -74075,8 +74075,8 @@ overcome prostatitis-18 achievement baguette mars neptune
 1
 18 0
 2
-0 75 0 21
 0 71 1 0
+0 75 0 21
 1
 end_operator
 begin_operator
@@ -74084,8 +74084,8 @@ overcome prostatitis-18 achievement baguette neptune vulcan
 1
 18 0
 2
-0 75 0 21
 0 71 3 1
+0 75 0 21
 1
 end_operator
 begin_operator
@@ -74093,8 +74093,8 @@ overcome prostatitis-18 achievement baguette vulcan venus
 1
 18 0
 2
-0 75 0 21
 0 71 2 3
+0 75 0 21
 1
 end_operator
 begin_operator
@@ -74102,8 +74102,8 @@ overcome prostatitis-18 achievement flounder mars neptune
 1
 18 1
 2
-0 75 2 21
 0 71 1 0
+0 75 2 21
 1
 end_operator
 begin_operator
@@ -74111,8 +74111,8 @@ overcome prostatitis-18 achievement flounder neptune vulcan
 1
 18 1
 2
-0 75 2 21
 0 71 3 1
+0 75 2 21
 1
 end_operator
 begin_operator
@@ -74120,8 +74120,8 @@ overcome prostatitis-18 achievement flounder vulcan venus
 1
 18 1
 2
-0 75 2 21
 0 71 2 3
+0 75 2 21
 1
 end_operator
 begin_operator
@@ -74129,8 +74129,8 @@ overcome prostatitis-18 achievement ham mars neptune
 1
 18 2
 2
-0 75 3 21
 0 71 1 0
+0 75 3 21
 1
 end_operator
 begin_operator
@@ -74138,8 +74138,8 @@ overcome prostatitis-18 achievement ham neptune vulcan
 1
 18 2
 2
-0 75 3 21
 0 71 3 1
+0 75 3 21
 1
 end_operator
 begin_operator
@@ -74147,8 +74147,8 @@ overcome prostatitis-18 achievement ham vulcan venus
 1
 18 2
 2
-0 75 3 21
 0 71 2 3
+0 75 3 21
 1
 end_operator
 begin_operator
@@ -74156,8 +74156,8 @@ overcome prostatitis-18 achievement hamburger mars neptune
 1
 18 3
 2
-0 75 4 21
 0 71 1 0
+0 75 4 21
 1
 end_operator
 begin_operator
@@ -74165,8 +74165,8 @@ overcome prostatitis-18 achievement hamburger neptune vulcan
 1
 18 3
 2
-0 75 4 21
 0 71 3 1
+0 75 4 21
 1
 end_operator
 begin_operator
@@ -74174,8 +74174,8 @@ overcome prostatitis-18 achievement hamburger vulcan venus
 1
 18 3
 2
-0 75 4 21
 0 71 2 3
+0 75 4 21
 1
 end_operator
 begin_operator
@@ -74183,8 +74183,8 @@ overcome prostatitis-18 achievement haroset mars neptune
 1
 18 4
 2
-0 75 5 21
 0 71 1 0
+0 75 5 21
 1
 end_operator
 begin_operator
@@ -74192,8 +74192,8 @@ overcome prostatitis-18 achievement haroset neptune vulcan
 1
 18 4
 2
-0 75 5 21
 0 71 3 1
+0 75 5 21
 1
 end_operator
 begin_operator
@@ -74201,8 +74201,8 @@ overcome prostatitis-18 achievement haroset vulcan venus
 1
 18 4
 2
-0 75 5 21
 0 71 2 3
+0 75 5 21
 1
 end_operator
 begin_operator
@@ -74210,8 +74210,8 @@ overcome prostatitis-18 achievement lemon mars neptune
 1
 18 5
 2
-0 75 6 21
 0 71 1 0
+0 75 6 21
 1
 end_operator
 begin_operator
@@ -74219,8 +74219,8 @@ overcome prostatitis-18 achievement lemon neptune vulcan
 1
 18 5
 2
-0 75 6 21
 0 71 3 1
+0 75 6 21
 1
 end_operator
 begin_operator
@@ -74228,8 +74228,8 @@ overcome prostatitis-18 achievement lemon vulcan venus
 1
 18 5
 2
-0 75 6 21
 0 71 2 3
+0 75 6 21
 1
 end_operator
 begin_operator
@@ -74237,8 +74237,8 @@ overcome prostatitis-18 achievement lobster mars neptune
 1
 18 6
 2
-0 75 8 21
 0 71 1 0
+0 75 8 21
 1
 end_operator
 begin_operator
@@ -74246,8 +74246,8 @@ overcome prostatitis-18 achievement lobster neptune vulcan
 1
 18 6
 2
-0 75 8 21
 0 71 3 1
+0 75 8 21
 1
 end_operator
 begin_operator
@@ -74255,8 +74255,8 @@ overcome prostatitis-18 achievement lobster vulcan venus
 1
 18 6
 2
-0 75 8 21
 0 71 2 3
+0 75 8 21
 1
 end_operator
 begin_operator
@@ -74264,8 +74264,8 @@ overcome prostatitis-18 achievement marzipan mars neptune
 1
 18 7
 2
-0 75 9 21
 0 71 1 0
+0 75 9 21
 1
 end_operator
 begin_operator
@@ -74273,8 +74273,8 @@ overcome prostatitis-18 achievement marzipan neptune vulcan
 1
 18 7
 2
-0 75 9 21
 0 71 3 1
+0 75 9 21
 1
 end_operator
 begin_operator
@@ -74282,8 +74282,8 @@ overcome prostatitis-18 achievement marzipan vulcan venus
 1
 18 7
 2
-0 75 9 21
 0 71 2 3
+0 75 9 21
 1
 end_operator
 begin_operator
@@ -74291,8 +74291,8 @@ overcome prostatitis-18 achievement melon mars neptune
 1
 18 8
 2
-0 75 10 21
 0 71 1 0
+0 75 10 21
 1
 end_operator
 begin_operator
@@ -74300,8 +74300,8 @@ overcome prostatitis-18 achievement melon neptune vulcan
 1
 18 8
 2
-0 75 10 21
 0 71 3 1
+0 75 10 21
 1
 end_operator
 begin_operator
@@ -74309,8 +74309,8 @@ overcome prostatitis-18 achievement melon vulcan venus
 1
 18 8
 2
-0 75 10 21
 0 71 2 3
+0 75 10 21
 1
 end_operator
 begin_operator
@@ -74318,8 +74318,8 @@ overcome prostatitis-18 achievement muffin mars neptune
 1
 18 9
 2
-0 75 11 21
 0 71 1 0
+0 75 11 21
 1
 end_operator
 begin_operator
@@ -74327,8 +74327,8 @@ overcome prostatitis-18 achievement muffin neptune vulcan
 1
 18 9
 2
-0 75 11 21
 0 71 3 1
+0 75 11 21
 1
 end_operator
 begin_operator
@@ -74336,8 +74336,8 @@ overcome prostatitis-18 achievement muffin vulcan venus
 1
 18 9
 2
-0 75 11 21
 0 71 2 3
+0 75 11 21
 1
 end_operator
 begin_operator
@@ -74345,8 +74345,8 @@ overcome prostatitis-18 achievement onion mars neptune
 1
 18 10
 2
-0 75 13 21
 0 71 1 0
+0 75 13 21
 1
 end_operator
 begin_operator
@@ -74354,8 +74354,8 @@ overcome prostatitis-18 achievement onion neptune vulcan
 1
 18 10
 2
-0 75 13 21
 0 71 3 1
+0 75 13 21
 1
 end_operator
 begin_operator
@@ -74363,8 +74363,8 @@ overcome prostatitis-18 achievement onion vulcan venus
 1
 18 10
 2
-0 75 13 21
 0 71 2 3
+0 75 13 21
 1
 end_operator
 begin_operator
@@ -74372,8 +74372,8 @@ overcome prostatitis-18 achievement papaya mars neptune
 1
 18 11
 2
-0 75 14 21
 0 71 1 0
+0 75 14 21
 1
 end_operator
 begin_operator
@@ -74381,8 +74381,8 @@ overcome prostatitis-18 achievement papaya neptune vulcan
 1
 18 11
 2
-0 75 14 21
 0 71 3 1
+0 75 14 21
 1
 end_operator
 begin_operator
@@ -74390,8 +74390,8 @@ overcome prostatitis-18 achievement papaya vulcan venus
 1
 18 11
 2
-0 75 14 21
 0 71 2 3
+0 75 14 21
 1
 end_operator
 begin_operator
@@ -74399,8 +74399,8 @@ overcome prostatitis-18 achievement potato mars neptune
 1
 18 12
 2
-0 75 15 21
 0 71 1 0
+0 75 15 21
 1
 end_operator
 begin_operator
@@ -74408,8 +74408,8 @@ overcome prostatitis-18 achievement potato neptune vulcan
 1
 18 12
 2
-0 75 15 21
 0 71 3 1
+0 75 15 21
 1
 end_operator
 begin_operator
@@ -74417,8 +74417,8 @@ overcome prostatitis-18 achievement potato vulcan venus
 1
 18 12
 2
-0 75 15 21
 0 71 2 3
+0 75 15 21
 1
 end_operator
 begin_operator
@@ -74426,8 +74426,8 @@ overcome prostatitis-18 achievement scallion mars neptune
 1
 18 13
 2
-0 75 17 21
 0 71 1 0
+0 75 17 21
 1
 end_operator
 begin_operator
@@ -74435,8 +74435,8 @@ overcome prostatitis-18 achievement scallion neptune vulcan
 1
 18 13
 2
-0 75 17 21
 0 71 3 1
+0 75 17 21
 1
 end_operator
 begin_operator
@@ -74444,8 +74444,8 @@ overcome prostatitis-18 achievement scallion vulcan venus
 1
 18 13
 2
-0 75 17 21
 0 71 2 3
+0 75 17 21
 1
 end_operator
 begin_operator
@@ -74453,8 +74453,8 @@ overcome prostatitis-18 achievement scallop mars neptune
 1
 18 14
 2
-0 75 18 21
 0 71 1 0
+0 75 18 21
 1
 end_operator
 begin_operator
@@ -74462,8 +74462,8 @@ overcome prostatitis-18 achievement scallop neptune vulcan
 1
 18 14
 2
-0 75 18 21
 0 71 3 1
+0 75 18 21
 1
 end_operator
 begin_operator
@@ -74471,8 +74471,8 @@ overcome prostatitis-18 achievement scallop vulcan venus
 1
 18 14
 2
-0 75 18 21
 0 71 2 3
+0 75 18 21
 1
 end_operator
 begin_operator
@@ -74480,8 +74480,8 @@ overcome prostatitis-18 achievement turkey mars neptune
 1
 18 15
 2
-0 75 19 21
 0 71 1 0
+0 75 19 21
 1
 end_operator
 begin_operator
@@ -74489,8 +74489,8 @@ overcome prostatitis-18 achievement turkey neptune vulcan
 1
 18 15
 2
-0 75 19 21
 0 71 3 1
+0 75 19 21
 1
 end_operator
 begin_operator
@@ -74498,8 +74498,8 @@ overcome prostatitis-18 achievement turkey vulcan venus
 1
 18 15
 2
-0 75 19 21
 0 71 2 3
+0 75 19 21
 1
 end_operator
 begin_operator
@@ -74507,8 +74507,8 @@ overcome prostatitis-18 aesthetics baguette mars neptune
 1
 20 0
 2
-0 75 0 22
 0 72 1 0
+0 75 0 22
 1
 end_operator
 begin_operator
@@ -74516,8 +74516,8 @@ overcome prostatitis-18 aesthetics baguette neptune vulcan
 1
 20 0
 2
-0 75 0 22
 0 72 3 1
+0 75 0 22
 1
 end_operator
 begin_operator
@@ -74525,8 +74525,8 @@ overcome prostatitis-18 aesthetics baguette vulcan venus
 1
 20 0
 2
-0 75 0 22
 0 72 2 3
+0 75 0 22
 1
 end_operator
 begin_operator
@@ -74534,8 +74534,8 @@ overcome prostatitis-18 aesthetics flounder mars neptune
 1
 20 1
 2
-0 75 2 22
 0 72 1 0
+0 75 2 22
 1
 end_operator
 begin_operator
@@ -74543,8 +74543,8 @@ overcome prostatitis-18 aesthetics flounder neptune vulcan
 1
 20 1
 2
-0 75 2 22
 0 72 3 1
+0 75 2 22
 1
 end_operator
 begin_operator
@@ -74552,8 +74552,8 @@ overcome prostatitis-18 aesthetics flounder vulcan venus
 1
 20 1
 2
-0 75 2 22
 0 72 2 3
+0 75 2 22
 1
 end_operator
 begin_operator
@@ -74561,8 +74561,8 @@ overcome prostatitis-18 aesthetics ham mars neptune
 1
 20 2
 2
-0 75 3 22
 0 72 1 0
+0 75 3 22
 1
 end_operator
 begin_operator
@@ -74570,8 +74570,8 @@ overcome prostatitis-18 aesthetics ham neptune vulcan
 1
 20 2
 2
-0 75 3 22
 0 72 3 1
+0 75 3 22
 1
 end_operator
 begin_operator
@@ -74579,8 +74579,8 @@ overcome prostatitis-18 aesthetics ham vulcan venus
 1
 20 2
 2
-0 75 3 22
 0 72 2 3
+0 75 3 22
 1
 end_operator
 begin_operator
@@ -74588,8 +74588,8 @@ overcome prostatitis-18 aesthetics hamburger mars neptune
 1
 20 3
 2
-0 75 4 22
 0 72 1 0
+0 75 4 22
 1
 end_operator
 begin_operator
@@ -74597,8 +74597,8 @@ overcome prostatitis-18 aesthetics hamburger neptune vulcan
 1
 20 3
 2
-0 75 4 22
 0 72 3 1
+0 75 4 22
 1
 end_operator
 begin_operator
@@ -74606,8 +74606,8 @@ overcome prostatitis-18 aesthetics hamburger vulcan venus
 1
 20 3
 2
-0 75 4 22
 0 72 2 3
+0 75 4 22
 1
 end_operator
 begin_operator
@@ -74615,8 +74615,8 @@ overcome prostatitis-18 aesthetics haroset mars neptune
 1
 20 4
 2
-0 75 5 22
 0 72 1 0
+0 75 5 22
 1
 end_operator
 begin_operator
@@ -74624,8 +74624,8 @@ overcome prostatitis-18 aesthetics haroset neptune vulcan
 1
 20 4
 2
-0 75 5 22
 0 72 3 1
+0 75 5 22
 1
 end_operator
 begin_operator
@@ -74633,8 +74633,8 @@ overcome prostatitis-18 aesthetics haroset vulcan venus
 1
 20 4
 2
-0 75 5 22
 0 72 2 3
+0 75 5 22
 1
 end_operator
 begin_operator
@@ -74642,8 +74642,8 @@ overcome prostatitis-18 aesthetics lemon mars neptune
 1
 20 5
 2
-0 75 6 22
 0 72 1 0
+0 75 6 22
 1
 end_operator
 begin_operator
@@ -74651,8 +74651,8 @@ overcome prostatitis-18 aesthetics lemon neptune vulcan
 1
 20 5
 2
-0 75 6 22
 0 72 3 1
+0 75 6 22
 1
 end_operator
 begin_operator
@@ -74660,8 +74660,8 @@ overcome prostatitis-18 aesthetics lemon vulcan venus
 1
 20 5
 2
-0 75 6 22
 0 72 2 3
+0 75 6 22
 1
 end_operator
 begin_operator
@@ -74669,8 +74669,8 @@ overcome prostatitis-18 aesthetics lobster mars neptune
 1
 20 6
 2
-0 75 8 22
 0 72 1 0
+0 75 8 22
 1
 end_operator
 begin_operator
@@ -74678,8 +74678,8 @@ overcome prostatitis-18 aesthetics lobster neptune vulcan
 1
 20 6
 2
-0 75 8 22
 0 72 3 1
+0 75 8 22
 1
 end_operator
 begin_operator
@@ -74687,8 +74687,8 @@ overcome prostatitis-18 aesthetics lobster vulcan venus
 1
 20 6
 2
-0 75 8 22
 0 72 2 3
+0 75 8 22
 1
 end_operator
 begin_operator
@@ -74696,8 +74696,8 @@ overcome prostatitis-18 aesthetics marzipan mars neptune
 1
 20 7
 2
-0 75 9 22
 0 72 1 0
+0 75 9 22
 1
 end_operator
 begin_operator
@@ -74705,8 +74705,8 @@ overcome prostatitis-18 aesthetics marzipan neptune vulcan
 1
 20 7
 2
-0 75 9 22
 0 72 3 1
+0 75 9 22
 1
 end_operator
 begin_operator
@@ -74714,8 +74714,8 @@ overcome prostatitis-18 aesthetics marzipan vulcan venus
 1
 20 7
 2
-0 75 9 22
 0 72 2 3
+0 75 9 22
 1
 end_operator
 begin_operator
@@ -74723,8 +74723,8 @@ overcome prostatitis-18 aesthetics melon mars neptune
 1
 20 8
 2
-0 75 10 22
 0 72 1 0
+0 75 10 22
 1
 end_operator
 begin_operator
@@ -74732,8 +74732,8 @@ overcome prostatitis-18 aesthetics melon neptune vulcan
 1
 20 8
 2
-0 75 10 22
 0 72 3 1
+0 75 10 22
 1
 end_operator
 begin_operator
@@ -74741,8 +74741,8 @@ overcome prostatitis-18 aesthetics melon vulcan venus
 1
 20 8
 2
-0 75 10 22
 0 72 2 3
+0 75 10 22
 1
 end_operator
 begin_operator
@@ -74750,8 +74750,8 @@ overcome prostatitis-18 aesthetics muffin mars neptune
 1
 20 9
 2
-0 75 11 22
 0 72 1 0
+0 75 11 22
 1
 end_operator
 begin_operator
@@ -74759,8 +74759,8 @@ overcome prostatitis-18 aesthetics muffin neptune vulcan
 1
 20 9
 2
-0 75 11 22
 0 72 3 1
+0 75 11 22
 1
 end_operator
 begin_operator
@@ -74768,8 +74768,8 @@ overcome prostatitis-18 aesthetics muffin vulcan venus
 1
 20 9
 2
-0 75 11 22
 0 72 2 3
+0 75 11 22
 1
 end_operator
 begin_operator
@@ -74777,8 +74777,8 @@ overcome prostatitis-18 aesthetics onion mars neptune
 1
 20 10
 2
-0 75 13 22
 0 72 1 0
+0 75 13 22
 1
 end_operator
 begin_operator
@@ -74786,8 +74786,8 @@ overcome prostatitis-18 aesthetics onion neptune vulcan
 1
 20 10
 2
-0 75 13 22
 0 72 3 1
+0 75 13 22
 1
 end_operator
 begin_operator
@@ -74795,8 +74795,8 @@ overcome prostatitis-18 aesthetics onion vulcan venus
 1
 20 10
 2
-0 75 13 22
 0 72 2 3
+0 75 13 22
 1
 end_operator
 begin_operator
@@ -74804,8 +74804,8 @@ overcome prostatitis-18 aesthetics papaya mars neptune
 1
 20 11
 2
-0 75 14 22
 0 72 1 0
+0 75 14 22
 1
 end_operator
 begin_operator
@@ -74813,8 +74813,8 @@ overcome prostatitis-18 aesthetics papaya neptune vulcan
 1
 20 11
 2
-0 75 14 22
 0 72 3 1
+0 75 14 22
 1
 end_operator
 begin_operator
@@ -74822,8 +74822,8 @@ overcome prostatitis-18 aesthetics papaya vulcan venus
 1
 20 11
 2
-0 75 14 22
 0 72 2 3
+0 75 14 22
 1
 end_operator
 begin_operator
@@ -74831,8 +74831,8 @@ overcome prostatitis-18 aesthetics potato mars neptune
 1
 20 12
 2
-0 75 15 22
 0 72 1 0
+0 75 15 22
 1
 end_operator
 begin_operator
@@ -74840,8 +74840,8 @@ overcome prostatitis-18 aesthetics potato neptune vulcan
 1
 20 12
 2
-0 75 15 22
 0 72 3 1
+0 75 15 22
 1
 end_operator
 begin_operator
@@ -74849,8 +74849,8 @@ overcome prostatitis-18 aesthetics potato vulcan venus
 1
 20 12
 2
-0 75 15 22
 0 72 2 3
+0 75 15 22
 1
 end_operator
 begin_operator
@@ -74858,8 +74858,8 @@ overcome prostatitis-18 aesthetics scallion mars neptune
 1
 20 13
 2
-0 75 17 22
 0 72 1 0
+0 75 17 22
 1
 end_operator
 begin_operator
@@ -74867,8 +74867,8 @@ overcome prostatitis-18 aesthetics scallion neptune vulcan
 1
 20 13
 2
-0 75 17 22
 0 72 3 1
+0 75 17 22
 1
 end_operator
 begin_operator
@@ -74876,8 +74876,8 @@ overcome prostatitis-18 aesthetics scallion vulcan venus
 1
 20 13
 2
-0 75 17 22
 0 72 2 3
+0 75 17 22
 1
 end_operator
 begin_operator
@@ -74885,8 +74885,8 @@ overcome prostatitis-18 aesthetics scallop mars neptune
 1
 20 14
 2
-0 75 18 22
 0 72 1 0
+0 75 18 22
 1
 end_operator
 begin_operator
@@ -74894,8 +74894,8 @@ overcome prostatitis-18 aesthetics scallop neptune vulcan
 1
 20 14
 2
-0 75 18 22
 0 72 3 1
+0 75 18 22
 1
 end_operator
 begin_operator
@@ -74903,8 +74903,8 @@ overcome prostatitis-18 aesthetics scallop vulcan venus
 1
 20 14
 2
-0 75 18 22
 0 72 2 3
+0 75 18 22
 1
 end_operator
 begin_operator
@@ -74912,8 +74912,8 @@ overcome prostatitis-18 aesthetics turkey mars neptune
 1
 20 15
 2
-0 75 19 22
 0 72 1 0
+0 75 19 22
 1
 end_operator
 begin_operator
@@ -74921,8 +74921,8 @@ overcome prostatitis-18 aesthetics turkey neptune vulcan
 1
 20 15
 2
-0 75 19 22
 0 72 3 1
+0 75 19 22
 1
 end_operator
 begin_operator
@@ -74930,32 +74930,32 @@ overcome prostatitis-18 aesthetics turkey vulcan venus
 1
 20 15
 2
-0 75 19 22
 0 72 2 3
+0 75 19 22
 1
 end_operator
 begin_operator
 overcome prostatitis-18 curiosity ham mars neptune
 0
 2
-0 75 3 23
 0 23 1 0
+0 75 3 23
 1
 end_operator
 begin_operator
 overcome prostatitis-18 curiosity ham neptune vulcan
 0
 2
-0 75 3 23
 0 23 3 1
+0 75 3 23
 1
 end_operator
 begin_operator
 overcome prostatitis-18 curiosity ham vulcan venus
 0
 2
-0 75 3 23
 0 23 2 3
+0 75 3 23
 1
 end_operator
 begin_operator
@@ -74963,8 +74963,8 @@ overcome prostatitis-18 entertainment marzipan mars neptune
 1
 6 0
 2
-0 75 9 24
 0 50 1 0
+0 75 9 24
 1
 end_operator
 begin_operator
@@ -74972,8 +74972,8 @@ overcome prostatitis-18 entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 75 9 24
 0 50 3 1
+0 75 9 24
 1
 end_operator
 begin_operator
@@ -74981,8 +74981,8 @@ overcome prostatitis-18 entertainment marzipan vulcan venus
 1
 6 0
 2
-0 75 9 24
 0 50 2 3
+0 75 9 24
 1
 end_operator
 begin_operator
@@ -74990,8 +74990,8 @@ overcome prostatitis-18 entertainment mutton mars neptune
 1
 6 1
 2
-0 75 12 24
 0 50 1 0
+0 75 12 24
 1
 end_operator
 begin_operator
@@ -74999,8 +74999,8 @@ overcome prostatitis-18 entertainment mutton neptune vulcan
 1
 6 1
 2
-0 75 12 24
 0 50 3 1
+0 75 12 24
 1
 end_operator
 begin_operator
@@ -75008,8 +75008,8 @@ overcome prostatitis-18 entertainment mutton vulcan venus
 1
 6 1
 2
-0 75 12 24
 0 50 2 3
+0 75 12 24
 1
 end_operator
 begin_operator
@@ -75017,8 +75017,8 @@ overcome prostatitis-18 entertainment scallop mars neptune
 1
 6 2
 2
-0 75 18 24
 0 50 1 0
+0 75 18 24
 1
 end_operator
 begin_operator
@@ -75026,8 +75026,8 @@ overcome prostatitis-18 entertainment scallop neptune vulcan
 1
 6 2
 2
-0 75 18 24
 0 50 3 1
+0 75 18 24
 1
 end_operator
 begin_operator
@@ -75035,8 +75035,8 @@ overcome prostatitis-18 entertainment scallop vulcan venus
 1
 6 2
 2
-0 75 18 24
 0 50 2 3
+0 75 18 24
 1
 end_operator
 begin_operator
@@ -75044,8 +75044,8 @@ overcome prostatitis-18 intoxication chocolate mars neptune
 1
 3 0
 2
-0 75 1 25
 0 62 1 0
+0 75 1 25
 1
 end_operator
 begin_operator
@@ -75053,8 +75053,8 @@ overcome prostatitis-18 intoxication chocolate neptune vulcan
 1
 3 0
 2
-0 75 1 25
 0 62 3 1
+0 75 1 25
 1
 end_operator
 begin_operator
@@ -75062,8 +75062,8 @@ overcome prostatitis-18 intoxication chocolate vulcan venus
 1
 3 0
 2
-0 75 1 25
 0 62 2 3
+0 75 1 25
 1
 end_operator
 begin_operator
@@ -75071,8 +75071,8 @@ overcome prostatitis-18 intoxication lettuce mars neptune
 1
 3 1
 2
-0 75 7 25
 0 62 1 0
+0 75 7 25
 1
 end_operator
 begin_operator
@@ -75080,8 +75080,8 @@ overcome prostatitis-18 intoxication lettuce neptune vulcan
 1
 3 1
 2
-0 75 7 25
 0 62 3 1
+0 75 7 25
 1
 end_operator
 begin_operator
@@ -75089,8 +75089,8 @@ overcome prostatitis-18 intoxication lettuce vulcan venus
 1
 3 1
 2
-0 75 7 25
 0 62 2 3
+0 75 7 25
 1
 end_operator
 begin_operator
@@ -75098,8 +75098,8 @@ overcome prostatitis-18 intoxication marzipan mars neptune
 1
 3 2
 2
-0 75 9 25
 0 62 1 0
+0 75 9 25
 1
 end_operator
 begin_operator
@@ -75107,8 +75107,8 @@ overcome prostatitis-18 intoxication marzipan neptune vulcan
 1
 3 2
 2
-0 75 9 25
 0 62 3 1
+0 75 9 25
 1
 end_operator
 begin_operator
@@ -75116,8 +75116,8 @@ overcome prostatitis-18 intoxication marzipan vulcan venus
 1
 3 2
 2
-0 75 9 25
 0 62 2 3
+0 75 9 25
 1
 end_operator
 begin_operator
@@ -75125,8 +75125,8 @@ overcome prostatitis-18 intoxication rice mars neptune
 1
 3 3
 2
-0 75 16 25
 0 62 1 0
+0 75 16 25
 1
 end_operator
 begin_operator
@@ -75134,8 +75134,8 @@ overcome prostatitis-18 intoxication rice neptune vulcan
 1
 3 3
 2
-0 75 16 25
 0 62 3 1
+0 75 16 25
 1
 end_operator
 begin_operator
@@ -75143,8 +75143,8 @@ overcome prostatitis-18 intoxication rice vulcan venus
 1
 3 3
 2
-0 75 16 25
 0 62 2 3
+0 75 16 25
 1
 end_operator
 begin_operator
@@ -75152,8 +75152,8 @@ overcome prostatitis-18 intoxication scallop mars neptune
 1
 3 4
 2
-0 75 18 25
 0 62 1 0
+0 75 18 25
 1
 end_operator
 begin_operator
@@ -75161,8 +75161,8 @@ overcome prostatitis-18 intoxication scallop neptune vulcan
 1
 3 4
 2
-0 75 18 25
 0 62 3 1
+0 75 18 25
 1
 end_operator
 begin_operator
@@ -75170,8 +75170,8 @@ overcome prostatitis-18 intoxication scallop vulcan venus
 1
 3 4
 2
-0 75 18 25
 0 62 2 3
+0 75 18 25
 1
 end_operator
 begin_operator
@@ -75179,8 +75179,8 @@ overcome prostatitis-18 intoxication yogurt mars neptune
 1
 3 5
 2
-0 75 20 25
 0 62 1 0
+0 75 20 25
 1
 end_operator
 begin_operator
@@ -75188,8 +75188,8 @@ overcome prostatitis-18 intoxication yogurt neptune vulcan
 1
 3 5
 2
-0 75 20 25
 0 62 3 1
+0 75 20 25
 1
 end_operator
 begin_operator
@@ -75197,8 +75197,8 @@ overcome prostatitis-18 intoxication yogurt vulcan venus
 1
 3 5
 2
-0 75 20 25
 0 62 2 3
+0 75 20 25
 1
 end_operator
 begin_operator
@@ -75206,8 +75206,8 @@ overcome prostatitis-18 love baguette mars neptune
 1
 21 0
 2
-0 75 0 26
 0 73 1 0
+0 75 0 26
 1
 end_operator
 begin_operator
@@ -75215,8 +75215,8 @@ overcome prostatitis-18 love baguette neptune vulcan
 1
 21 0
 2
-0 75 0 26
 0 73 3 1
+0 75 0 26
 1
 end_operator
 begin_operator
@@ -75224,8 +75224,8 @@ overcome prostatitis-18 love baguette vulcan venus
 1
 21 0
 2
-0 75 0 26
 0 73 2 3
+0 75 0 26
 1
 end_operator
 begin_operator
@@ -75233,8 +75233,8 @@ overcome prostatitis-18 love flounder mars neptune
 1
 21 1
 2
-0 75 2 26
 0 73 1 0
+0 75 2 26
 1
 end_operator
 begin_operator
@@ -75242,8 +75242,8 @@ overcome prostatitis-18 love flounder neptune vulcan
 1
 21 1
 2
-0 75 2 26
 0 73 3 1
+0 75 2 26
 1
 end_operator
 begin_operator
@@ -75251,8 +75251,8 @@ overcome prostatitis-18 love flounder vulcan venus
 1
 21 1
 2
-0 75 2 26
 0 73 2 3
+0 75 2 26
 1
 end_operator
 begin_operator
@@ -75260,8 +75260,8 @@ overcome prostatitis-18 love ham mars neptune
 1
 21 2
 2
-0 75 3 26
 0 73 1 0
+0 75 3 26
 1
 end_operator
 begin_operator
@@ -75269,8 +75269,8 @@ overcome prostatitis-18 love ham neptune vulcan
 1
 21 2
 2
-0 75 3 26
 0 73 3 1
+0 75 3 26
 1
 end_operator
 begin_operator
@@ -75278,8 +75278,8 @@ overcome prostatitis-18 love ham vulcan venus
 1
 21 2
 2
-0 75 3 26
 0 73 2 3
+0 75 3 26
 1
 end_operator
 begin_operator
@@ -75287,8 +75287,8 @@ overcome prostatitis-18 love hamburger mars neptune
 1
 21 3
 2
-0 75 4 26
 0 73 1 0
+0 75 4 26
 1
 end_operator
 begin_operator
@@ -75296,8 +75296,8 @@ overcome prostatitis-18 love hamburger neptune vulcan
 1
 21 3
 2
-0 75 4 26
 0 73 3 1
+0 75 4 26
 1
 end_operator
 begin_operator
@@ -75305,8 +75305,8 @@ overcome prostatitis-18 love hamburger vulcan venus
 1
 21 3
 2
-0 75 4 26
 0 73 2 3
+0 75 4 26
 1
 end_operator
 begin_operator
@@ -75314,8 +75314,8 @@ overcome prostatitis-18 love haroset mars neptune
 1
 21 4
 2
-0 75 5 26
 0 73 1 0
+0 75 5 26
 1
 end_operator
 begin_operator
@@ -75323,8 +75323,8 @@ overcome prostatitis-18 love haroset neptune vulcan
 1
 21 4
 2
-0 75 5 26
 0 73 3 1
+0 75 5 26
 1
 end_operator
 begin_operator
@@ -75332,8 +75332,8 @@ overcome prostatitis-18 love haroset vulcan venus
 1
 21 4
 2
-0 75 5 26
 0 73 2 3
+0 75 5 26
 1
 end_operator
 begin_operator
@@ -75341,8 +75341,8 @@ overcome prostatitis-18 love lemon mars neptune
 1
 21 5
 2
-0 75 6 26
 0 73 1 0
+0 75 6 26
 1
 end_operator
 begin_operator
@@ -75350,8 +75350,8 @@ overcome prostatitis-18 love lemon neptune vulcan
 1
 21 5
 2
-0 75 6 26
 0 73 3 1
+0 75 6 26
 1
 end_operator
 begin_operator
@@ -75359,8 +75359,8 @@ overcome prostatitis-18 love lemon vulcan venus
 1
 21 5
 2
-0 75 6 26
 0 73 2 3
+0 75 6 26
 1
 end_operator
 begin_operator
@@ -75368,8 +75368,8 @@ overcome prostatitis-18 love lobster mars neptune
 1
 21 6
 2
-0 75 8 26
 0 73 1 0
+0 75 8 26
 1
 end_operator
 begin_operator
@@ -75377,8 +75377,8 @@ overcome prostatitis-18 love lobster neptune vulcan
 1
 21 6
 2
-0 75 8 26
 0 73 3 1
+0 75 8 26
 1
 end_operator
 begin_operator
@@ -75386,8 +75386,8 @@ overcome prostatitis-18 love lobster vulcan venus
 1
 21 6
 2
-0 75 8 26
 0 73 2 3
+0 75 8 26
 1
 end_operator
 begin_operator
@@ -75395,8 +75395,8 @@ overcome prostatitis-18 love marzipan mars neptune
 1
 21 7
 2
-0 75 9 26
 0 73 1 0
+0 75 9 26
 1
 end_operator
 begin_operator
@@ -75404,8 +75404,8 @@ overcome prostatitis-18 love marzipan neptune vulcan
 1
 21 7
 2
-0 75 9 26
 0 73 3 1
+0 75 9 26
 1
 end_operator
 begin_operator
@@ -75413,8 +75413,8 @@ overcome prostatitis-18 love marzipan vulcan venus
 1
 21 7
 2
-0 75 9 26
 0 73 2 3
+0 75 9 26
 1
 end_operator
 begin_operator
@@ -75422,8 +75422,8 @@ overcome prostatitis-18 love melon mars neptune
 1
 21 8
 2
-0 75 10 26
 0 73 1 0
+0 75 10 26
 1
 end_operator
 begin_operator
@@ -75431,8 +75431,8 @@ overcome prostatitis-18 love melon neptune vulcan
 1
 21 8
 2
-0 75 10 26
 0 73 3 1
+0 75 10 26
 1
 end_operator
 begin_operator
@@ -75440,8 +75440,8 @@ overcome prostatitis-18 love melon vulcan venus
 1
 21 8
 2
-0 75 10 26
 0 73 2 3
+0 75 10 26
 1
 end_operator
 begin_operator
@@ -75449,8 +75449,8 @@ overcome prostatitis-18 love muffin mars neptune
 1
 21 9
 2
-0 75 11 26
 0 73 1 0
+0 75 11 26
 1
 end_operator
 begin_operator
@@ -75458,8 +75458,8 @@ overcome prostatitis-18 love muffin neptune vulcan
 1
 21 9
 2
-0 75 11 26
 0 73 3 1
+0 75 11 26
 1
 end_operator
 begin_operator
@@ -75467,8 +75467,8 @@ overcome prostatitis-18 love muffin vulcan venus
 1
 21 9
 2
-0 75 11 26
 0 73 2 3
+0 75 11 26
 1
 end_operator
 begin_operator
@@ -75476,8 +75476,8 @@ overcome prostatitis-18 love onion mars neptune
 1
 21 10
 2
-0 75 13 26
 0 73 1 0
+0 75 13 26
 1
 end_operator
 begin_operator
@@ -75485,8 +75485,8 @@ overcome prostatitis-18 love onion neptune vulcan
 1
 21 10
 2
-0 75 13 26
 0 73 3 1
+0 75 13 26
 1
 end_operator
 begin_operator
@@ -75494,8 +75494,8 @@ overcome prostatitis-18 love onion vulcan venus
 1
 21 10
 2
-0 75 13 26
 0 73 2 3
+0 75 13 26
 1
 end_operator
 begin_operator
@@ -75503,8 +75503,8 @@ overcome prostatitis-18 love papaya mars neptune
 1
 21 11
 2
-0 75 14 26
 0 73 1 0
+0 75 14 26
 1
 end_operator
 begin_operator
@@ -75512,8 +75512,8 @@ overcome prostatitis-18 love papaya neptune vulcan
 1
 21 11
 2
-0 75 14 26
 0 73 3 1
+0 75 14 26
 1
 end_operator
 begin_operator
@@ -75521,8 +75521,8 @@ overcome prostatitis-18 love papaya vulcan venus
 1
 21 11
 2
-0 75 14 26
 0 73 2 3
+0 75 14 26
 1
 end_operator
 begin_operator
@@ -75530,8 +75530,8 @@ overcome prostatitis-18 love potato mars neptune
 1
 21 12
 2
-0 75 15 26
 0 73 1 0
+0 75 15 26
 1
 end_operator
 begin_operator
@@ -75539,8 +75539,8 @@ overcome prostatitis-18 love potato neptune vulcan
 1
 21 12
 2
-0 75 15 26
 0 73 3 1
+0 75 15 26
 1
 end_operator
 begin_operator
@@ -75548,8 +75548,8 @@ overcome prostatitis-18 love potato vulcan venus
 1
 21 12
 2
-0 75 15 26
 0 73 2 3
+0 75 15 26
 1
 end_operator
 begin_operator
@@ -75557,8 +75557,8 @@ overcome prostatitis-18 love scallion mars neptune
 1
 21 13
 2
-0 75 17 26
 0 73 1 0
+0 75 17 26
 1
 end_operator
 begin_operator
@@ -75566,8 +75566,8 @@ overcome prostatitis-18 love scallion neptune vulcan
 1
 21 13
 2
-0 75 17 26
 0 73 3 1
+0 75 17 26
 1
 end_operator
 begin_operator
@@ -75575,8 +75575,8 @@ overcome prostatitis-18 love scallion vulcan venus
 1
 21 13
 2
-0 75 17 26
 0 73 2 3
+0 75 17 26
 1
 end_operator
 begin_operator
@@ -75584,8 +75584,8 @@ overcome prostatitis-18 love scallop mars neptune
 1
 21 14
 2
-0 75 18 26
 0 73 1 0
+0 75 18 26
 1
 end_operator
 begin_operator
@@ -75593,8 +75593,8 @@ overcome prostatitis-18 love scallop neptune vulcan
 1
 21 14
 2
-0 75 18 26
 0 73 3 1
+0 75 18 26
 1
 end_operator
 begin_operator
@@ -75602,8 +75602,8 @@ overcome prostatitis-18 love scallop vulcan venus
 1
 21 14
 2
-0 75 18 26
 0 73 2 3
+0 75 18 26
 1
 end_operator
 begin_operator
@@ -75611,8 +75611,8 @@ overcome prostatitis-18 love turkey mars neptune
 1
 21 15
 2
-0 75 19 26
 0 73 1 0
+0 75 19 26
 1
 end_operator
 begin_operator
@@ -75620,8 +75620,8 @@ overcome prostatitis-18 love turkey neptune vulcan
 1
 21 15
 2
-0 75 19 26
 0 73 3 1
+0 75 19 26
 1
 end_operator
 begin_operator
@@ -75629,8 +75629,8 @@ overcome prostatitis-18 love turkey vulcan venus
 1
 21 15
 2
-0 75 19 26
 0 73 2 3
+0 75 19 26
 1
 end_operator
 begin_operator
@@ -75638,8 +75638,8 @@ overcome prostatitis-18 satisfaction chocolate mars neptune
 1
 4 0
 2
-0 75 1 27
 0 63 1 0
+0 75 1 27
 1
 end_operator
 begin_operator
@@ -75647,8 +75647,8 @@ overcome prostatitis-18 satisfaction chocolate neptune vulcan
 1
 4 0
 2
-0 75 1 27
 0 63 3 1
+0 75 1 27
 1
 end_operator
 begin_operator
@@ -75656,8 +75656,8 @@ overcome prostatitis-18 satisfaction chocolate vulcan venus
 1
 4 0
 2
-0 75 1 27
 0 63 2 3
+0 75 1 27
 1
 end_operator
 begin_operator
@@ -75665,8 +75665,8 @@ overcome prostatitis-18 satisfaction lettuce mars neptune
 1
 4 1
 2
-0 75 7 27
 0 63 1 0
+0 75 7 27
 1
 end_operator
 begin_operator
@@ -75674,8 +75674,8 @@ overcome prostatitis-18 satisfaction lettuce neptune vulcan
 1
 4 1
 2
-0 75 7 27
 0 63 3 1
+0 75 7 27
 1
 end_operator
 begin_operator
@@ -75683,8 +75683,8 @@ overcome prostatitis-18 satisfaction lettuce vulcan venus
 1
 4 1
 2
-0 75 7 27
 0 63 2 3
+0 75 7 27
 1
 end_operator
 begin_operator
@@ -75692,8 +75692,8 @@ overcome prostatitis-18 satisfaction marzipan mars neptune
 1
 4 2
 2
-0 75 9 27
 0 63 1 0
+0 75 9 27
 1
 end_operator
 begin_operator
@@ -75701,8 +75701,8 @@ overcome prostatitis-18 satisfaction marzipan neptune vulcan
 1
 4 2
 2
-0 75 9 27
 0 63 3 1
+0 75 9 27
 1
 end_operator
 begin_operator
@@ -75710,8 +75710,8 @@ overcome prostatitis-18 satisfaction marzipan vulcan venus
 1
 4 2
 2
-0 75 9 27
 0 63 2 3
+0 75 9 27
 1
 end_operator
 begin_operator
@@ -75719,8 +75719,8 @@ overcome prostatitis-18 satisfaction rice mars neptune
 1
 4 3
 2
-0 75 16 27
 0 63 1 0
+0 75 16 27
 1
 end_operator
 begin_operator
@@ -75728,8 +75728,8 @@ overcome prostatitis-18 satisfaction rice neptune vulcan
 1
 4 3
 2
-0 75 16 27
 0 63 3 1
+0 75 16 27
 1
 end_operator
 begin_operator
@@ -75737,8 +75737,8 @@ overcome prostatitis-18 satisfaction rice vulcan venus
 1
 4 3
 2
-0 75 16 27
 0 63 2 3
+0 75 16 27
 1
 end_operator
 begin_operator
@@ -75746,8 +75746,8 @@ overcome prostatitis-18 satisfaction scallop mars neptune
 1
 4 4
 2
-0 75 18 27
 0 63 1 0
+0 75 18 27
 1
 end_operator
 begin_operator
@@ -75755,8 +75755,8 @@ overcome prostatitis-18 satisfaction scallop neptune vulcan
 1
 4 4
 2
-0 75 18 27
 0 63 3 1
+0 75 18 27
 1
 end_operator
 begin_operator
@@ -75764,8 +75764,8 @@ overcome prostatitis-18 satisfaction scallop vulcan venus
 1
 4 4
 2
-0 75 18 27
 0 63 2 3
+0 75 18 27
 1
 end_operator
 begin_operator
@@ -75773,8 +75773,8 @@ overcome prostatitis-18 satisfaction yogurt mars neptune
 1
 4 5
 2
-0 75 20 27
 0 63 1 0
+0 75 20 27
 1
 end_operator
 begin_operator
@@ -75782,8 +75782,8 @@ overcome prostatitis-18 satisfaction yogurt neptune vulcan
 1
 4 5
 2
-0 75 20 27
 0 63 3 1
+0 75 20 27
 1
 end_operator
 begin_operator
@@ -75791,8 +75791,8 @@ overcome prostatitis-18 satisfaction yogurt vulcan venus
 1
 4 5
 2
-0 75 20 27
 0 63 2 3
+0 75 20 27
 1
 end_operator
 begin_operator
@@ -76663,24 +76663,24 @@ begin_operator
 overcome prostatitis-29 curiosity ham mars neptune
 0
 2
-0 67 3 23
 0 23 1 0
+0 67 3 23
 1
 end_operator
 begin_operator
 overcome prostatitis-29 curiosity ham neptune vulcan
 0
 2
-0 67 3 23
 0 23 3 1
+0 67 3 23
 1
 end_operator
 begin_operator
 overcome prostatitis-29 curiosity ham vulcan venus
 0
 2
-0 67 3 23
 0 23 2 3
+0 67 3 23
 1
 end_operator
 begin_operator
@@ -76688,8 +76688,8 @@ overcome prostatitis-29 entertainment marzipan mars neptune
 1
 6 0
 2
-0 67 9 24
 0 50 1 0
+0 67 9 24
 1
 end_operator
 begin_operator
@@ -76697,8 +76697,8 @@ overcome prostatitis-29 entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 67 9 24
 0 50 3 1
+0 67 9 24
 1
 end_operator
 begin_operator
@@ -76706,8 +76706,8 @@ overcome prostatitis-29 entertainment marzipan vulcan venus
 1
 6 0
 2
-0 67 9 24
 0 50 2 3
+0 67 9 24
 1
 end_operator
 begin_operator
@@ -76715,8 +76715,8 @@ overcome prostatitis-29 entertainment mutton mars neptune
 1
 6 1
 2
-0 67 12 24
 0 50 1 0
+0 67 12 24
 1
 end_operator
 begin_operator
@@ -76724,8 +76724,8 @@ overcome prostatitis-29 entertainment mutton neptune vulcan
 1
 6 1
 2
-0 67 12 24
 0 50 3 1
+0 67 12 24
 1
 end_operator
 begin_operator
@@ -76733,8 +76733,8 @@ overcome prostatitis-29 entertainment mutton vulcan venus
 1
 6 1
 2
-0 67 12 24
 0 50 2 3
+0 67 12 24
 1
 end_operator
 begin_operator
@@ -76742,8 +76742,8 @@ overcome prostatitis-29 entertainment scallop mars neptune
 1
 6 2
 2
-0 67 18 24
 0 50 1 0
+0 67 18 24
 1
 end_operator
 begin_operator
@@ -76751,8 +76751,8 @@ overcome prostatitis-29 entertainment scallop neptune vulcan
 1
 6 2
 2
-0 67 18 24
 0 50 3 1
+0 67 18 24
 1
 end_operator
 begin_operator
@@ -76760,8 +76760,8 @@ overcome prostatitis-29 entertainment scallop vulcan venus
 1
 6 2
 2
-0 67 18 24
 0 50 2 3
+0 67 18 24
 1
 end_operator
 begin_operator
@@ -76769,8 +76769,8 @@ overcome prostatitis-29 intoxication chocolate mars neptune
 1
 3 0
 2
-0 67 1 25
 0 62 1 0
+0 67 1 25
 1
 end_operator
 begin_operator
@@ -76778,8 +76778,8 @@ overcome prostatitis-29 intoxication chocolate neptune vulcan
 1
 3 0
 2
-0 67 1 25
 0 62 3 1
+0 67 1 25
 1
 end_operator
 begin_operator
@@ -76787,8 +76787,8 @@ overcome prostatitis-29 intoxication chocolate vulcan venus
 1
 3 0
 2
-0 67 1 25
 0 62 2 3
+0 67 1 25
 1
 end_operator
 begin_operator
@@ -76796,8 +76796,8 @@ overcome prostatitis-29 intoxication lettuce mars neptune
 1
 3 1
 2
-0 67 7 25
 0 62 1 0
+0 67 7 25
 1
 end_operator
 begin_operator
@@ -76805,8 +76805,8 @@ overcome prostatitis-29 intoxication lettuce neptune vulcan
 1
 3 1
 2
-0 67 7 25
 0 62 3 1
+0 67 7 25
 1
 end_operator
 begin_operator
@@ -76814,8 +76814,8 @@ overcome prostatitis-29 intoxication lettuce vulcan venus
 1
 3 1
 2
-0 67 7 25
 0 62 2 3
+0 67 7 25
 1
 end_operator
 begin_operator
@@ -76823,8 +76823,8 @@ overcome prostatitis-29 intoxication marzipan mars neptune
 1
 3 2
 2
-0 67 9 25
 0 62 1 0
+0 67 9 25
 1
 end_operator
 begin_operator
@@ -76832,8 +76832,8 @@ overcome prostatitis-29 intoxication marzipan neptune vulcan
 1
 3 2
 2
-0 67 9 25
 0 62 3 1
+0 67 9 25
 1
 end_operator
 begin_operator
@@ -76841,8 +76841,8 @@ overcome prostatitis-29 intoxication marzipan vulcan venus
 1
 3 2
 2
-0 67 9 25
 0 62 2 3
+0 67 9 25
 1
 end_operator
 begin_operator
@@ -76850,8 +76850,8 @@ overcome prostatitis-29 intoxication rice mars neptune
 1
 3 3
 2
-0 67 16 25
 0 62 1 0
+0 67 16 25
 1
 end_operator
 begin_operator
@@ -76859,8 +76859,8 @@ overcome prostatitis-29 intoxication rice neptune vulcan
 1
 3 3
 2
-0 67 16 25
 0 62 3 1
+0 67 16 25
 1
 end_operator
 begin_operator
@@ -76868,8 +76868,8 @@ overcome prostatitis-29 intoxication rice vulcan venus
 1
 3 3
 2
-0 67 16 25
 0 62 2 3
+0 67 16 25
 1
 end_operator
 begin_operator
@@ -76877,8 +76877,8 @@ overcome prostatitis-29 intoxication scallop mars neptune
 1
 3 4
 2
-0 67 18 25
 0 62 1 0
+0 67 18 25
 1
 end_operator
 begin_operator
@@ -76886,8 +76886,8 @@ overcome prostatitis-29 intoxication scallop neptune vulcan
 1
 3 4
 2
-0 67 18 25
 0 62 3 1
+0 67 18 25
 1
 end_operator
 begin_operator
@@ -76895,8 +76895,8 @@ overcome prostatitis-29 intoxication scallop vulcan venus
 1
 3 4
 2
-0 67 18 25
 0 62 2 3
+0 67 18 25
 1
 end_operator
 begin_operator
@@ -76904,8 +76904,8 @@ overcome prostatitis-29 intoxication yogurt mars neptune
 1
 3 5
 2
-0 67 20 25
 0 62 1 0
+0 67 20 25
 1
 end_operator
 begin_operator
@@ -76913,8 +76913,8 @@ overcome prostatitis-29 intoxication yogurt neptune vulcan
 1
 3 5
 2
-0 67 20 25
 0 62 3 1
+0 67 20 25
 1
 end_operator
 begin_operator
@@ -76922,8 +76922,8 @@ overcome prostatitis-29 intoxication yogurt vulcan venus
 1
 3 5
 2
-0 67 20 25
 0 62 2 3
+0 67 20 25
 1
 end_operator
 begin_operator
@@ -77363,8 +77363,8 @@ overcome prostatitis-29 satisfaction chocolate mars neptune
 1
 4 0
 2
-0 67 1 27
 0 63 1 0
+0 67 1 27
 1
 end_operator
 begin_operator
@@ -77372,8 +77372,8 @@ overcome prostatitis-29 satisfaction chocolate neptune vulcan
 1
 4 0
 2
-0 67 1 27
 0 63 3 1
+0 67 1 27
 1
 end_operator
 begin_operator
@@ -77381,8 +77381,8 @@ overcome prostatitis-29 satisfaction chocolate vulcan venus
 1
 4 0
 2
-0 67 1 27
 0 63 2 3
+0 67 1 27
 1
 end_operator
 begin_operator
@@ -77390,8 +77390,8 @@ overcome prostatitis-29 satisfaction lettuce mars neptune
 1
 4 1
 2
-0 67 7 27
 0 63 1 0
+0 67 7 27
 1
 end_operator
 begin_operator
@@ -77399,8 +77399,8 @@ overcome prostatitis-29 satisfaction lettuce neptune vulcan
 1
 4 1
 2
-0 67 7 27
 0 63 3 1
+0 67 7 27
 1
 end_operator
 begin_operator
@@ -77408,8 +77408,8 @@ overcome prostatitis-29 satisfaction lettuce vulcan venus
 1
 4 1
 2
-0 67 7 27
 0 63 2 3
+0 67 7 27
 1
 end_operator
 begin_operator
@@ -77417,8 +77417,8 @@ overcome prostatitis-29 satisfaction marzipan mars neptune
 1
 4 2
 2
-0 67 9 27
 0 63 1 0
+0 67 9 27
 1
 end_operator
 begin_operator
@@ -77426,8 +77426,8 @@ overcome prostatitis-29 satisfaction marzipan neptune vulcan
 1
 4 2
 2
-0 67 9 27
 0 63 3 1
+0 67 9 27
 1
 end_operator
 begin_operator
@@ -77435,8 +77435,8 @@ overcome prostatitis-29 satisfaction marzipan vulcan venus
 1
 4 2
 2
-0 67 9 27
 0 63 2 3
+0 67 9 27
 1
 end_operator
 begin_operator
@@ -77444,8 +77444,8 @@ overcome prostatitis-29 satisfaction rice mars neptune
 1
 4 3
 2
-0 67 16 27
 0 63 1 0
+0 67 16 27
 1
 end_operator
 begin_operator
@@ -77453,8 +77453,8 @@ overcome prostatitis-29 satisfaction rice neptune vulcan
 1
 4 3
 2
-0 67 16 27
 0 63 3 1
+0 67 16 27
 1
 end_operator
 begin_operator
@@ -77462,8 +77462,8 @@ overcome prostatitis-29 satisfaction rice vulcan venus
 1
 4 3
 2
-0 67 16 27
 0 63 2 3
+0 67 16 27
 1
 end_operator
 begin_operator
@@ -77471,8 +77471,8 @@ overcome prostatitis-29 satisfaction scallop mars neptune
 1
 4 4
 2
-0 67 18 27
 0 63 1 0
+0 67 18 27
 1
 end_operator
 begin_operator
@@ -77480,8 +77480,8 @@ overcome prostatitis-29 satisfaction scallop neptune vulcan
 1
 4 4
 2
-0 67 18 27
 0 63 3 1
+0 67 18 27
 1
 end_operator
 begin_operator
@@ -77489,8 +77489,8 @@ overcome prostatitis-29 satisfaction scallop vulcan venus
 1
 4 4
 2
-0 67 18 27
 0 63 2 3
+0 67 18 27
 1
 end_operator
 begin_operator
@@ -77498,8 +77498,8 @@ overcome prostatitis-29 satisfaction yogurt mars neptune
 1
 4 5
 2
-0 67 20 27
 0 63 1 0
+0 67 20 27
 1
 end_operator
 begin_operator
@@ -77507,8 +77507,8 @@ overcome prostatitis-29 satisfaction yogurt neptune vulcan
 1
 4 5
 2
-0 67 20 27
 0 63 3 1
+0 67 20 27
 1
 end_operator
 begin_operator
@@ -77516,8 +77516,8 @@ overcome prostatitis-29 satisfaction yogurt vulcan venus
 1
 4 5
 2
-0 67 20 27
 0 63 2 3
+0 67 20 27
 1
 end_operator
 begin_operator
@@ -78388,24 +78388,24 @@ begin_operator
 overcome sciatica curiosity ham mars neptune
 0
 2
-0 68 3 23
 0 23 1 0
+0 68 3 23
 1
 end_operator
 begin_operator
 overcome sciatica curiosity ham neptune vulcan
 0
 2
-0 68 3 23
 0 23 3 1
+0 68 3 23
 1
 end_operator
 begin_operator
 overcome sciatica curiosity ham vulcan venus
 0
 2
-0 68 3 23
 0 23 2 3
+0 68 3 23
 1
 end_operator
 begin_operator
@@ -78413,8 +78413,8 @@ overcome sciatica entertainment marzipan mars neptune
 1
 6 0
 2
-0 68 9 24
 0 50 1 0
+0 68 9 24
 1
 end_operator
 begin_operator
@@ -78422,8 +78422,8 @@ overcome sciatica entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 68 9 24
 0 50 3 1
+0 68 9 24
 1
 end_operator
 begin_operator
@@ -78431,8 +78431,8 @@ overcome sciatica entertainment marzipan vulcan venus
 1
 6 0
 2
-0 68 9 24
 0 50 2 3
+0 68 9 24
 1
 end_operator
 begin_operator
@@ -78440,8 +78440,8 @@ overcome sciatica entertainment mutton mars neptune
 1
 6 1
 2
-0 68 12 24
 0 50 1 0
+0 68 12 24
 1
 end_operator
 begin_operator
@@ -78449,8 +78449,8 @@ overcome sciatica entertainment mutton neptune vulcan
 1
 6 1
 2
-0 68 12 24
 0 50 3 1
+0 68 12 24
 1
 end_operator
 begin_operator
@@ -78458,8 +78458,8 @@ overcome sciatica entertainment mutton vulcan venus
 1
 6 1
 2
-0 68 12 24
 0 50 2 3
+0 68 12 24
 1
 end_operator
 begin_operator
@@ -78467,8 +78467,8 @@ overcome sciatica entertainment scallop mars neptune
 1
 6 2
 2
-0 68 18 24
 0 50 1 0
+0 68 18 24
 1
 end_operator
 begin_operator
@@ -78476,8 +78476,8 @@ overcome sciatica entertainment scallop neptune vulcan
 1
 6 2
 2
-0 68 18 24
 0 50 3 1
+0 68 18 24
 1
 end_operator
 begin_operator
@@ -78485,8 +78485,8 @@ overcome sciatica entertainment scallop vulcan venus
 1
 6 2
 2
-0 68 18 24
 0 50 2 3
+0 68 18 24
 1
 end_operator
 begin_operator
@@ -78494,8 +78494,8 @@ overcome sciatica intoxication chocolate mars neptune
 1
 3 0
 2
-0 68 1 25
 0 62 1 0
+0 68 1 25
 1
 end_operator
 begin_operator
@@ -78503,8 +78503,8 @@ overcome sciatica intoxication chocolate neptune vulcan
 1
 3 0
 2
-0 68 1 25
 0 62 3 1
+0 68 1 25
 1
 end_operator
 begin_operator
@@ -78512,8 +78512,8 @@ overcome sciatica intoxication chocolate vulcan venus
 1
 3 0
 2
-0 68 1 25
 0 62 2 3
+0 68 1 25
 1
 end_operator
 begin_operator
@@ -78521,8 +78521,8 @@ overcome sciatica intoxication lettuce mars neptune
 1
 3 1
 2
-0 68 7 25
 0 62 1 0
+0 68 7 25
 1
 end_operator
 begin_operator
@@ -78530,8 +78530,8 @@ overcome sciatica intoxication lettuce neptune vulcan
 1
 3 1
 2
-0 68 7 25
 0 62 3 1
+0 68 7 25
 1
 end_operator
 begin_operator
@@ -78539,8 +78539,8 @@ overcome sciatica intoxication lettuce vulcan venus
 1
 3 1
 2
-0 68 7 25
 0 62 2 3
+0 68 7 25
 1
 end_operator
 begin_operator
@@ -78548,8 +78548,8 @@ overcome sciatica intoxication marzipan mars neptune
 1
 3 2
 2
-0 68 9 25
 0 62 1 0
+0 68 9 25
 1
 end_operator
 begin_operator
@@ -78557,8 +78557,8 @@ overcome sciatica intoxication marzipan neptune vulcan
 1
 3 2
 2
-0 68 9 25
 0 62 3 1
+0 68 9 25
 1
 end_operator
 begin_operator
@@ -78566,8 +78566,8 @@ overcome sciatica intoxication marzipan vulcan venus
 1
 3 2
 2
-0 68 9 25
 0 62 2 3
+0 68 9 25
 1
 end_operator
 begin_operator
@@ -78575,8 +78575,8 @@ overcome sciatica intoxication rice mars neptune
 1
 3 3
 2
-0 68 16 25
 0 62 1 0
+0 68 16 25
 1
 end_operator
 begin_operator
@@ -78584,8 +78584,8 @@ overcome sciatica intoxication rice neptune vulcan
 1
 3 3
 2
-0 68 16 25
 0 62 3 1
+0 68 16 25
 1
 end_operator
 begin_operator
@@ -78593,8 +78593,8 @@ overcome sciatica intoxication rice vulcan venus
 1
 3 3
 2
-0 68 16 25
 0 62 2 3
+0 68 16 25
 1
 end_operator
 begin_operator
@@ -78602,8 +78602,8 @@ overcome sciatica intoxication scallop mars neptune
 1
 3 4
 2
-0 68 18 25
 0 62 1 0
+0 68 18 25
 1
 end_operator
 begin_operator
@@ -78611,8 +78611,8 @@ overcome sciatica intoxication scallop neptune vulcan
 1
 3 4
 2
-0 68 18 25
 0 62 3 1
+0 68 18 25
 1
 end_operator
 begin_operator
@@ -78620,8 +78620,8 @@ overcome sciatica intoxication scallop vulcan venus
 1
 3 4
 2
-0 68 18 25
 0 62 2 3
+0 68 18 25
 1
 end_operator
 begin_operator
@@ -78629,8 +78629,8 @@ overcome sciatica intoxication yogurt mars neptune
 1
 3 5
 2
-0 68 20 25
 0 62 1 0
+0 68 20 25
 1
 end_operator
 begin_operator
@@ -78638,8 +78638,8 @@ overcome sciatica intoxication yogurt neptune vulcan
 1
 3 5
 2
-0 68 20 25
 0 62 3 1
+0 68 20 25
 1
 end_operator
 begin_operator
@@ -78647,8 +78647,8 @@ overcome sciatica intoxication yogurt vulcan venus
 1
 3 5
 2
-0 68 20 25
 0 62 2 3
+0 68 20 25
 1
 end_operator
 begin_operator
@@ -79088,8 +79088,8 @@ overcome sciatica satisfaction chocolate mars neptune
 1
 4 0
 2
-0 68 1 27
 0 63 1 0
+0 68 1 27
 1
 end_operator
 begin_operator
@@ -79097,8 +79097,8 @@ overcome sciatica satisfaction chocolate neptune vulcan
 1
 4 0
 2
-0 68 1 27
 0 63 3 1
+0 68 1 27
 1
 end_operator
 begin_operator
@@ -79106,8 +79106,8 @@ overcome sciatica satisfaction chocolate vulcan venus
 1
 4 0
 2
-0 68 1 27
 0 63 2 3
+0 68 1 27
 1
 end_operator
 begin_operator
@@ -79115,8 +79115,8 @@ overcome sciatica satisfaction lettuce mars neptune
 1
 4 1
 2
-0 68 7 27
 0 63 1 0
+0 68 7 27
 1
 end_operator
 begin_operator
@@ -79124,8 +79124,8 @@ overcome sciatica satisfaction lettuce neptune vulcan
 1
 4 1
 2
-0 68 7 27
 0 63 3 1
+0 68 7 27
 1
 end_operator
 begin_operator
@@ -79133,8 +79133,8 @@ overcome sciatica satisfaction lettuce vulcan venus
 1
 4 1
 2
-0 68 7 27
 0 63 2 3
+0 68 7 27
 1
 end_operator
 begin_operator
@@ -79142,8 +79142,8 @@ overcome sciatica satisfaction marzipan mars neptune
 1
 4 2
 2
-0 68 9 27
 0 63 1 0
+0 68 9 27
 1
 end_operator
 begin_operator
@@ -79151,8 +79151,8 @@ overcome sciatica satisfaction marzipan neptune vulcan
 1
 4 2
 2
-0 68 9 27
 0 63 3 1
+0 68 9 27
 1
 end_operator
 begin_operator
@@ -79160,8 +79160,8 @@ overcome sciatica satisfaction marzipan vulcan venus
 1
 4 2
 2
-0 68 9 27
 0 63 2 3
+0 68 9 27
 1
 end_operator
 begin_operator
@@ -79169,8 +79169,8 @@ overcome sciatica satisfaction rice mars neptune
 1
 4 3
 2
-0 68 16 27
 0 63 1 0
+0 68 16 27
 1
 end_operator
 begin_operator
@@ -79178,8 +79178,8 @@ overcome sciatica satisfaction rice neptune vulcan
 1
 4 3
 2
-0 68 16 27
 0 63 3 1
+0 68 16 27
 1
 end_operator
 begin_operator
@@ -79187,8 +79187,8 @@ overcome sciatica satisfaction rice vulcan venus
 1
 4 3
 2
-0 68 16 27
 0 63 2 3
+0 68 16 27
 1
 end_operator
 begin_operator
@@ -79196,8 +79196,8 @@ overcome sciatica satisfaction scallop mars neptune
 1
 4 4
 2
-0 68 18 27
 0 63 1 0
+0 68 18 27
 1
 end_operator
 begin_operator
@@ -79205,8 +79205,8 @@ overcome sciatica satisfaction scallop neptune vulcan
 1
 4 4
 2
-0 68 18 27
 0 63 3 1
+0 68 18 27
 1
 end_operator
 begin_operator
@@ -79214,8 +79214,8 @@ overcome sciatica satisfaction scallop vulcan venus
 1
 4 4
 2
-0 68 18 27
 0 63 2 3
+0 68 18 27
 1
 end_operator
 begin_operator
@@ -79223,8 +79223,8 @@ overcome sciatica satisfaction yogurt mars neptune
 1
 4 5
 2
-0 68 20 27
 0 63 1 0
+0 68 20 27
 1
 end_operator
 begin_operator
@@ -79232,8 +79232,8 @@ overcome sciatica satisfaction yogurt neptune vulcan
 1
 4 5
 2
-0 68 20 27
 0 63 3 1
+0 68 20 27
 1
 end_operator
 begin_operator
@@ -79241,8 +79241,8 @@ overcome sciatica satisfaction yogurt vulcan venus
 1
 4 5
 2
-0 68 20 27
 0 63 2 3
+0 68 20 27
 1
 end_operator
 begin_operator
@@ -80113,24 +80113,24 @@ begin_operator
 overcome sciatica-10 curiosity ham mars neptune
 0
 2
-0 69 3 23
 0 23 1 0
+0 69 3 23
 1
 end_operator
 begin_operator
 overcome sciatica-10 curiosity ham neptune vulcan
 0
 2
-0 69 3 23
 0 23 3 1
+0 69 3 23
 1
 end_operator
 begin_operator
 overcome sciatica-10 curiosity ham vulcan venus
 0
 2
-0 69 3 23
 0 23 2 3
+0 69 3 23
 1
 end_operator
 begin_operator
@@ -80138,8 +80138,8 @@ overcome sciatica-10 entertainment marzipan mars neptune
 1
 6 0
 2
-0 69 9 24
 0 50 1 0
+0 69 9 24
 1
 end_operator
 begin_operator
@@ -80147,8 +80147,8 @@ overcome sciatica-10 entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 69 9 24
 0 50 3 1
+0 69 9 24
 1
 end_operator
 begin_operator
@@ -80156,8 +80156,8 @@ overcome sciatica-10 entertainment marzipan vulcan venus
 1
 6 0
 2
-0 69 9 24
 0 50 2 3
+0 69 9 24
 1
 end_operator
 begin_operator
@@ -80165,8 +80165,8 @@ overcome sciatica-10 entertainment mutton mars neptune
 1
 6 1
 2
-0 69 12 24
 0 50 1 0
+0 69 12 24
 1
 end_operator
 begin_operator
@@ -80174,8 +80174,8 @@ overcome sciatica-10 entertainment mutton neptune vulcan
 1
 6 1
 2
-0 69 12 24
 0 50 3 1
+0 69 12 24
 1
 end_operator
 begin_operator
@@ -80183,8 +80183,8 @@ overcome sciatica-10 entertainment mutton vulcan venus
 1
 6 1
 2
-0 69 12 24
 0 50 2 3
+0 69 12 24
 1
 end_operator
 begin_operator
@@ -80192,8 +80192,8 @@ overcome sciatica-10 entertainment scallop mars neptune
 1
 6 2
 2
-0 69 18 24
 0 50 1 0
+0 69 18 24
 1
 end_operator
 begin_operator
@@ -80201,8 +80201,8 @@ overcome sciatica-10 entertainment scallop neptune vulcan
 1
 6 2
 2
-0 69 18 24
 0 50 3 1
+0 69 18 24
 1
 end_operator
 begin_operator
@@ -80210,8 +80210,8 @@ overcome sciatica-10 entertainment scallop vulcan venus
 1
 6 2
 2
-0 69 18 24
 0 50 2 3
+0 69 18 24
 1
 end_operator
 begin_operator
@@ -80219,8 +80219,8 @@ overcome sciatica-10 intoxication chocolate mars neptune
 1
 3 0
 2
-0 69 1 25
 0 62 1 0
+0 69 1 25
 1
 end_operator
 begin_operator
@@ -80228,8 +80228,8 @@ overcome sciatica-10 intoxication chocolate neptune vulcan
 1
 3 0
 2
-0 69 1 25
 0 62 3 1
+0 69 1 25
 1
 end_operator
 begin_operator
@@ -80237,8 +80237,8 @@ overcome sciatica-10 intoxication chocolate vulcan venus
 1
 3 0
 2
-0 69 1 25
 0 62 2 3
+0 69 1 25
 1
 end_operator
 begin_operator
@@ -80246,8 +80246,8 @@ overcome sciatica-10 intoxication lettuce mars neptune
 1
 3 1
 2
-0 69 7 25
 0 62 1 0
+0 69 7 25
 1
 end_operator
 begin_operator
@@ -80255,8 +80255,8 @@ overcome sciatica-10 intoxication lettuce neptune vulcan
 1
 3 1
 2
-0 69 7 25
 0 62 3 1
+0 69 7 25
 1
 end_operator
 begin_operator
@@ -80264,8 +80264,8 @@ overcome sciatica-10 intoxication lettuce vulcan venus
 1
 3 1
 2
-0 69 7 25
 0 62 2 3
+0 69 7 25
 1
 end_operator
 begin_operator
@@ -80273,8 +80273,8 @@ overcome sciatica-10 intoxication marzipan mars neptune
 1
 3 2
 2
-0 69 9 25
 0 62 1 0
+0 69 9 25
 1
 end_operator
 begin_operator
@@ -80282,8 +80282,8 @@ overcome sciatica-10 intoxication marzipan neptune vulcan
 1
 3 2
 2
-0 69 9 25
 0 62 3 1
+0 69 9 25
 1
 end_operator
 begin_operator
@@ -80291,8 +80291,8 @@ overcome sciatica-10 intoxication marzipan vulcan venus
 1
 3 2
 2
-0 69 9 25
 0 62 2 3
+0 69 9 25
 1
 end_operator
 begin_operator
@@ -80300,8 +80300,8 @@ overcome sciatica-10 intoxication rice mars neptune
 1
 3 3
 2
-0 69 16 25
 0 62 1 0
+0 69 16 25
 1
 end_operator
 begin_operator
@@ -80309,8 +80309,8 @@ overcome sciatica-10 intoxication rice neptune vulcan
 1
 3 3
 2
-0 69 16 25
 0 62 3 1
+0 69 16 25
 1
 end_operator
 begin_operator
@@ -80318,8 +80318,8 @@ overcome sciatica-10 intoxication rice vulcan venus
 1
 3 3
 2
-0 69 16 25
 0 62 2 3
+0 69 16 25
 1
 end_operator
 begin_operator
@@ -80327,8 +80327,8 @@ overcome sciatica-10 intoxication scallop mars neptune
 1
 3 4
 2
-0 69 18 25
 0 62 1 0
+0 69 18 25
 1
 end_operator
 begin_operator
@@ -80336,8 +80336,8 @@ overcome sciatica-10 intoxication scallop neptune vulcan
 1
 3 4
 2
-0 69 18 25
 0 62 3 1
+0 69 18 25
 1
 end_operator
 begin_operator
@@ -80345,8 +80345,8 @@ overcome sciatica-10 intoxication scallop vulcan venus
 1
 3 4
 2
-0 69 18 25
 0 62 2 3
+0 69 18 25
 1
 end_operator
 begin_operator
@@ -80354,8 +80354,8 @@ overcome sciatica-10 intoxication yogurt mars neptune
 1
 3 5
 2
-0 69 20 25
 0 62 1 0
+0 69 20 25
 1
 end_operator
 begin_operator
@@ -80363,8 +80363,8 @@ overcome sciatica-10 intoxication yogurt neptune vulcan
 1
 3 5
 2
-0 69 20 25
 0 62 3 1
+0 69 20 25
 1
 end_operator
 begin_operator
@@ -80372,8 +80372,8 @@ overcome sciatica-10 intoxication yogurt vulcan venus
 1
 3 5
 2
-0 69 20 25
 0 62 2 3
+0 69 20 25
 1
 end_operator
 begin_operator
@@ -80813,8 +80813,8 @@ overcome sciatica-10 satisfaction chocolate mars neptune
 1
 4 0
 2
-0 69 1 27
 0 63 1 0
+0 69 1 27
 1
 end_operator
 begin_operator
@@ -80822,8 +80822,8 @@ overcome sciatica-10 satisfaction chocolate neptune vulcan
 1
 4 0
 2
-0 69 1 27
 0 63 3 1
+0 69 1 27
 1
 end_operator
 begin_operator
@@ -80831,8 +80831,8 @@ overcome sciatica-10 satisfaction chocolate vulcan venus
 1
 4 0
 2
-0 69 1 27
 0 63 2 3
+0 69 1 27
 1
 end_operator
 begin_operator
@@ -80840,8 +80840,8 @@ overcome sciatica-10 satisfaction lettuce mars neptune
 1
 4 1
 2
-0 69 7 27
 0 63 1 0
+0 69 7 27
 1
 end_operator
 begin_operator
@@ -80849,8 +80849,8 @@ overcome sciatica-10 satisfaction lettuce neptune vulcan
 1
 4 1
 2
-0 69 7 27
 0 63 3 1
+0 69 7 27
 1
 end_operator
 begin_operator
@@ -80858,8 +80858,8 @@ overcome sciatica-10 satisfaction lettuce vulcan venus
 1
 4 1
 2
-0 69 7 27
 0 63 2 3
+0 69 7 27
 1
 end_operator
 begin_operator
@@ -80867,8 +80867,8 @@ overcome sciatica-10 satisfaction marzipan mars neptune
 1
 4 2
 2
-0 69 9 27
 0 63 1 0
+0 69 9 27
 1
 end_operator
 begin_operator
@@ -80876,8 +80876,8 @@ overcome sciatica-10 satisfaction marzipan neptune vulcan
 1
 4 2
 2
-0 69 9 27
 0 63 3 1
+0 69 9 27
 1
 end_operator
 begin_operator
@@ -80885,8 +80885,8 @@ overcome sciatica-10 satisfaction marzipan vulcan venus
 1
 4 2
 2
-0 69 9 27
 0 63 2 3
+0 69 9 27
 1
 end_operator
 begin_operator
@@ -80894,8 +80894,8 @@ overcome sciatica-10 satisfaction rice mars neptune
 1
 4 3
 2
-0 69 16 27
 0 63 1 0
+0 69 16 27
 1
 end_operator
 begin_operator
@@ -80903,8 +80903,8 @@ overcome sciatica-10 satisfaction rice neptune vulcan
 1
 4 3
 2
-0 69 16 27
 0 63 3 1
+0 69 16 27
 1
 end_operator
 begin_operator
@@ -80912,8 +80912,8 @@ overcome sciatica-10 satisfaction rice vulcan venus
 1
 4 3
 2
-0 69 16 27
 0 63 2 3
+0 69 16 27
 1
 end_operator
 begin_operator
@@ -80921,8 +80921,8 @@ overcome sciatica-10 satisfaction scallop mars neptune
 1
 4 4
 2
-0 69 18 27
 0 63 1 0
+0 69 18 27
 1
 end_operator
 begin_operator
@@ -80930,8 +80930,8 @@ overcome sciatica-10 satisfaction scallop neptune vulcan
 1
 4 4
 2
-0 69 18 27
 0 63 3 1
+0 69 18 27
 1
 end_operator
 begin_operator
@@ -80939,8 +80939,8 @@ overcome sciatica-10 satisfaction scallop vulcan venus
 1
 4 4
 2
-0 69 18 27
 0 63 2 3
+0 69 18 27
 1
 end_operator
 begin_operator
@@ -80948,8 +80948,8 @@ overcome sciatica-10 satisfaction yogurt mars neptune
 1
 4 5
 2
-0 69 20 27
 0 63 1 0
+0 69 20 27
 1
 end_operator
 begin_operator
@@ -80957,8 +80957,8 @@ overcome sciatica-10 satisfaction yogurt neptune vulcan
 1
 4 5
 2
-0 69 20 27
 0 63 3 1
+0 69 20 27
 1
 end_operator
 begin_operator
@@ -80966,8 +80966,8 @@ overcome sciatica-10 satisfaction yogurt vulcan venus
 1
 4 5
 2
-0 69 20 27
 0 63 2 3
+0 69 20 27
 1
 end_operator
 begin_operator
@@ -81838,24 +81838,24 @@ begin_operator
 overcome sciatica-16 curiosity ham mars neptune
 0
 2
-0 70 3 23
 0 23 1 0
+0 70 3 23
 1
 end_operator
 begin_operator
 overcome sciatica-16 curiosity ham neptune vulcan
 0
 2
-0 70 3 23
 0 23 3 1
+0 70 3 23
 1
 end_operator
 begin_operator
 overcome sciatica-16 curiosity ham vulcan venus
 0
 2
-0 70 3 23
 0 23 2 3
+0 70 3 23
 1
 end_operator
 begin_operator
@@ -81863,8 +81863,8 @@ overcome sciatica-16 entertainment marzipan mars neptune
 1
 6 0
 2
-0 70 9 24
 0 50 1 0
+0 70 9 24
 1
 end_operator
 begin_operator
@@ -81872,8 +81872,8 @@ overcome sciatica-16 entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 70 9 24
 0 50 3 1
+0 70 9 24
 1
 end_operator
 begin_operator
@@ -81881,8 +81881,8 @@ overcome sciatica-16 entertainment marzipan vulcan venus
 1
 6 0
 2
-0 70 9 24
 0 50 2 3
+0 70 9 24
 1
 end_operator
 begin_operator
@@ -81890,8 +81890,8 @@ overcome sciatica-16 entertainment mutton mars neptune
 1
 6 1
 2
-0 70 12 24
 0 50 1 0
+0 70 12 24
 1
 end_operator
 begin_operator
@@ -81899,8 +81899,8 @@ overcome sciatica-16 entertainment mutton neptune vulcan
 1
 6 1
 2
-0 70 12 24
 0 50 3 1
+0 70 12 24
 1
 end_operator
 begin_operator
@@ -81908,8 +81908,8 @@ overcome sciatica-16 entertainment mutton vulcan venus
 1
 6 1
 2
-0 70 12 24
 0 50 2 3
+0 70 12 24
 1
 end_operator
 begin_operator
@@ -81917,8 +81917,8 @@ overcome sciatica-16 entertainment scallop mars neptune
 1
 6 2
 2
-0 70 18 24
 0 50 1 0
+0 70 18 24
 1
 end_operator
 begin_operator
@@ -81926,8 +81926,8 @@ overcome sciatica-16 entertainment scallop neptune vulcan
 1
 6 2
 2
-0 70 18 24
 0 50 3 1
+0 70 18 24
 1
 end_operator
 begin_operator
@@ -81935,8 +81935,8 @@ overcome sciatica-16 entertainment scallop vulcan venus
 1
 6 2
 2
-0 70 18 24
 0 50 2 3
+0 70 18 24
 1
 end_operator
 begin_operator
@@ -81944,8 +81944,8 @@ overcome sciatica-16 intoxication chocolate mars neptune
 1
 3 0
 2
-0 70 1 25
 0 62 1 0
+0 70 1 25
 1
 end_operator
 begin_operator
@@ -81953,8 +81953,8 @@ overcome sciatica-16 intoxication chocolate neptune vulcan
 1
 3 0
 2
-0 70 1 25
 0 62 3 1
+0 70 1 25
 1
 end_operator
 begin_operator
@@ -81962,8 +81962,8 @@ overcome sciatica-16 intoxication chocolate vulcan venus
 1
 3 0
 2
-0 70 1 25
 0 62 2 3
+0 70 1 25
 1
 end_operator
 begin_operator
@@ -81971,8 +81971,8 @@ overcome sciatica-16 intoxication lettuce mars neptune
 1
 3 1
 2
-0 70 7 25
 0 62 1 0
+0 70 7 25
 1
 end_operator
 begin_operator
@@ -81980,8 +81980,8 @@ overcome sciatica-16 intoxication lettuce neptune vulcan
 1
 3 1
 2
-0 70 7 25
 0 62 3 1
+0 70 7 25
 1
 end_operator
 begin_operator
@@ -81989,8 +81989,8 @@ overcome sciatica-16 intoxication lettuce vulcan venus
 1
 3 1
 2
-0 70 7 25
 0 62 2 3
+0 70 7 25
 1
 end_operator
 begin_operator
@@ -81998,8 +81998,8 @@ overcome sciatica-16 intoxication marzipan mars neptune
 1
 3 2
 2
-0 70 9 25
 0 62 1 0
+0 70 9 25
 1
 end_operator
 begin_operator
@@ -82007,8 +82007,8 @@ overcome sciatica-16 intoxication marzipan neptune vulcan
 1
 3 2
 2
-0 70 9 25
 0 62 3 1
+0 70 9 25
 1
 end_operator
 begin_operator
@@ -82016,8 +82016,8 @@ overcome sciatica-16 intoxication marzipan vulcan venus
 1
 3 2
 2
-0 70 9 25
 0 62 2 3
+0 70 9 25
 1
 end_operator
 begin_operator
@@ -82025,8 +82025,8 @@ overcome sciatica-16 intoxication rice mars neptune
 1
 3 3
 2
-0 70 16 25
 0 62 1 0
+0 70 16 25
 1
 end_operator
 begin_operator
@@ -82034,8 +82034,8 @@ overcome sciatica-16 intoxication rice neptune vulcan
 1
 3 3
 2
-0 70 16 25
 0 62 3 1
+0 70 16 25
 1
 end_operator
 begin_operator
@@ -82043,8 +82043,8 @@ overcome sciatica-16 intoxication rice vulcan venus
 1
 3 3
 2
-0 70 16 25
 0 62 2 3
+0 70 16 25
 1
 end_operator
 begin_operator
@@ -82052,8 +82052,8 @@ overcome sciatica-16 intoxication scallop mars neptune
 1
 3 4
 2
-0 70 18 25
 0 62 1 0
+0 70 18 25
 1
 end_operator
 begin_operator
@@ -82061,8 +82061,8 @@ overcome sciatica-16 intoxication scallop neptune vulcan
 1
 3 4
 2
-0 70 18 25
 0 62 3 1
+0 70 18 25
 1
 end_operator
 begin_operator
@@ -82070,8 +82070,8 @@ overcome sciatica-16 intoxication scallop vulcan venus
 1
 3 4
 2
-0 70 18 25
 0 62 2 3
+0 70 18 25
 1
 end_operator
 begin_operator
@@ -82079,8 +82079,8 @@ overcome sciatica-16 intoxication yogurt mars neptune
 1
 3 5
 2
-0 70 20 25
 0 62 1 0
+0 70 20 25
 1
 end_operator
 begin_operator
@@ -82088,8 +82088,8 @@ overcome sciatica-16 intoxication yogurt neptune vulcan
 1
 3 5
 2
-0 70 20 25
 0 62 3 1
+0 70 20 25
 1
 end_operator
 begin_operator
@@ -82097,8 +82097,8 @@ overcome sciatica-16 intoxication yogurt vulcan venus
 1
 3 5
 2
-0 70 20 25
 0 62 2 3
+0 70 20 25
 1
 end_operator
 begin_operator
@@ -82538,8 +82538,8 @@ overcome sciatica-16 satisfaction chocolate mars neptune
 1
 4 0
 2
-0 70 1 27
 0 63 1 0
+0 70 1 27
 1
 end_operator
 begin_operator
@@ -82547,8 +82547,8 @@ overcome sciatica-16 satisfaction chocolate neptune vulcan
 1
 4 0
 2
-0 70 1 27
 0 63 3 1
+0 70 1 27
 1
 end_operator
 begin_operator
@@ -82556,8 +82556,8 @@ overcome sciatica-16 satisfaction chocolate vulcan venus
 1
 4 0
 2
-0 70 1 27
 0 63 2 3
+0 70 1 27
 1
 end_operator
 begin_operator
@@ -82565,8 +82565,8 @@ overcome sciatica-16 satisfaction lettuce mars neptune
 1
 4 1
 2
-0 70 7 27
 0 63 1 0
+0 70 7 27
 1
 end_operator
 begin_operator
@@ -82574,8 +82574,8 @@ overcome sciatica-16 satisfaction lettuce neptune vulcan
 1
 4 1
 2
-0 70 7 27
 0 63 3 1
+0 70 7 27
 1
 end_operator
 begin_operator
@@ -82583,8 +82583,8 @@ overcome sciatica-16 satisfaction lettuce vulcan venus
 1
 4 1
 2
-0 70 7 27
 0 63 2 3
+0 70 7 27
 1
 end_operator
 begin_operator
@@ -82592,8 +82592,8 @@ overcome sciatica-16 satisfaction marzipan mars neptune
 1
 4 2
 2
-0 70 9 27
 0 63 1 0
+0 70 9 27
 1
 end_operator
 begin_operator
@@ -82601,8 +82601,8 @@ overcome sciatica-16 satisfaction marzipan neptune vulcan
 1
 4 2
 2
-0 70 9 27
 0 63 3 1
+0 70 9 27
 1
 end_operator
 begin_operator
@@ -82610,8 +82610,8 @@ overcome sciatica-16 satisfaction marzipan vulcan venus
 1
 4 2
 2
-0 70 9 27
 0 63 2 3
+0 70 9 27
 1
 end_operator
 begin_operator
@@ -82619,8 +82619,8 @@ overcome sciatica-16 satisfaction rice mars neptune
 1
 4 3
 2
-0 70 16 27
 0 63 1 0
+0 70 16 27
 1
 end_operator
 begin_operator
@@ -82628,8 +82628,8 @@ overcome sciatica-16 satisfaction rice neptune vulcan
 1
 4 3
 2
-0 70 16 27
 0 63 3 1
+0 70 16 27
 1
 end_operator
 begin_operator
@@ -82637,8 +82637,8 @@ overcome sciatica-16 satisfaction rice vulcan venus
 1
 4 3
 2
-0 70 16 27
 0 63 2 3
+0 70 16 27
 1
 end_operator
 begin_operator
@@ -82646,8 +82646,8 @@ overcome sciatica-16 satisfaction scallop mars neptune
 1
 4 4
 2
-0 70 18 27
 0 63 1 0
+0 70 18 27
 1
 end_operator
 begin_operator
@@ -82655,8 +82655,8 @@ overcome sciatica-16 satisfaction scallop neptune vulcan
 1
 4 4
 2
-0 70 18 27
 0 63 3 1
+0 70 18 27
 1
 end_operator
 begin_operator
@@ -82664,8 +82664,8 @@ overcome sciatica-16 satisfaction scallop vulcan venus
 1
 4 4
 2
-0 70 18 27
 0 63 2 3
+0 70 18 27
 1
 end_operator
 begin_operator
@@ -82673,8 +82673,8 @@ overcome sciatica-16 satisfaction yogurt mars neptune
 1
 4 5
 2
-0 70 20 27
 0 63 1 0
+0 70 20 27
 1
 end_operator
 begin_operator
@@ -82682,8 +82682,8 @@ overcome sciatica-16 satisfaction yogurt neptune vulcan
 1
 4 5
 2
-0 70 20 27
 0 63 3 1
+0 70 20 27
 1
 end_operator
 begin_operator
@@ -82691,8 +82691,8 @@ overcome sciatica-16 satisfaction yogurt vulcan venus
 1
 4 5
 2
-0 70 20 27
 0 63 2 3
+0 70 20 27
 1
 end_operator
 begin_operator
@@ -83563,24 +83563,24 @@ begin_operator
 succumb abrasion curiosity ham mars neptune
 0
 2
-0 24 23 3
 0 23 0 1
+0 24 23 3
 1
 end_operator
 begin_operator
 succumb abrasion curiosity ham neptune vulcan
 0
 2
-0 24 23 3
 0 23 1 3
+0 24 23 3
 1
 end_operator
 begin_operator
 succumb abrasion curiosity ham vulcan venus
 0
 2
-0 24 23 3
 0 23 3 2
+0 24 23 3
 1
 end_operator
 begin_operator
@@ -85288,24 +85288,24 @@ begin_operator
 succumb abrasion-12 curiosity ham mars neptune
 0
 2
-0 25 23 3
 0 23 0 1
+0 25 23 3
 1
 end_operator
 begin_operator
 succumb abrasion-12 curiosity ham neptune vulcan
 0
 2
-0 25 23 3
 0 23 1 3
+0 25 23 3
 1
 end_operator
 begin_operator
 succumb abrasion-12 curiosity ham vulcan venus
 0
 2
-0 25 23 3
 0 23 3 2
+0 25 23 3
 1
 end_operator
 begin_operator
@@ -87013,24 +87013,24 @@ begin_operator
 succumb abrasion-26 curiosity ham mars neptune
 0
 2
-0 26 23 3
 0 23 0 1
+0 26 23 3
 1
 end_operator
 begin_operator
 succumb abrasion-26 curiosity ham neptune vulcan
 0
 2
-0 26 23 3
 0 23 1 3
+0 26 23 3
 1
 end_operator
 begin_operator
 succumb abrasion-26 curiosity ham vulcan venus
 0
 2
-0 26 23 3
 0 23 3 2
+0 26 23 3
 1
 end_operator
 begin_operator
@@ -88738,24 +88738,24 @@ begin_operator
 succumb anger curiosity ham mars neptune
 0
 2
-0 27 23 3
 0 23 0 1
+0 27 23 3
 1
 end_operator
 begin_operator
 succumb anger curiosity ham neptune vulcan
 0
 2
-0 27 23 3
 0 23 1 3
+0 27 23 3
 1
 end_operator
 begin_operator
 succumb anger curiosity ham vulcan venus
 0
 2
-0 27 23 3
 0 23 3 2
+0 27 23 3
 1
 end_operator
 begin_operator
@@ -90463,24 +90463,24 @@ begin_operator
 succumb anger-21 curiosity ham mars neptune
 0
 2
-0 28 23 3
 0 23 0 1
+0 28 23 3
 1
 end_operator
 begin_operator
 succumb anger-21 curiosity ham neptune vulcan
 0
 2
-0 28 23 3
 0 23 1 3
+0 28 23 3
 1
 end_operator
 begin_operator
 succumb anger-21 curiosity ham vulcan venus
 0
 2
-0 28 23 3
 0 23 3 2
+0 28 23 3
 1
 end_operator
 begin_operator
@@ -92188,24 +92188,24 @@ begin_operator
 succumb anger-6 curiosity ham mars neptune
 0
 2
-0 29 23 3
 0 23 0 1
+0 29 23 3
 1
 end_operator
 begin_operator
 succumb anger-6 curiosity ham neptune vulcan
 0
 2
-0 29 23 3
 0 23 1 3
+0 29 23 3
 1
 end_operator
 begin_operator
 succumb anger-6 curiosity ham vulcan venus
 0
 2
-0 29 23 3
 0 23 3 2
+0 29 23 3
 1
 end_operator
 begin_operator
@@ -93913,24 +93913,24 @@ begin_operator
 succumb angina curiosity ham mars neptune
 0
 2
-0 30 23 3
 0 23 0 1
+0 30 23 3
 1
 end_operator
 begin_operator
 succumb angina curiosity ham neptune vulcan
 0
 2
-0 30 23 3
 0 23 1 3
+0 30 23 3
 1
 end_operator
 begin_operator
 succumb angina curiosity ham vulcan venus
 0
 2
-0 30 23 3
 0 23 3 2
+0 30 23 3
 1
 end_operator
 begin_operator
@@ -95638,24 +95638,24 @@ begin_operator
 succumb angina-14 curiosity ham mars neptune
 0
 2
-0 31 23 3
 0 23 0 1
+0 31 23 3
 1
 end_operator
 begin_operator
 succumb angina-14 curiosity ham neptune vulcan
 0
 2
-0 31 23 3
 0 23 1 3
+0 31 23 3
 1
 end_operator
 begin_operator
 succumb angina-14 curiosity ham vulcan venus
 0
 2
-0 31 23 3
 0 23 3 2
+0 31 23 3
 1
 end_operator
 begin_operator
@@ -97363,24 +97363,24 @@ begin_operator
 succumb angina-23 curiosity ham mars neptune
 0
 2
-0 32 23 3
 0 23 0 1
+0 32 23 3
 1
 end_operator
 begin_operator
 succumb angina-23 curiosity ham neptune vulcan
 0
 2
-0 32 23 3
 0 23 1 3
+0 32 23 3
 1
 end_operator
 begin_operator
 succumb angina-23 curiosity ham vulcan venus
 0
 2
-0 32 23 3
 0 23 3 2
+0 32 23 3
 1
 end_operator
 begin_operator
@@ -99088,24 +99088,24 @@ begin_operator
 succumb anxiety curiosity ham mars neptune
 0
 2
-0 33 23 3
 0 23 0 1
+0 33 23 3
 1
 end_operator
 begin_operator
 succumb anxiety curiosity ham neptune vulcan
 0
 2
-0 33 23 3
 0 23 1 3
+0 33 23 3
 1
 end_operator
 begin_operator
 succumb anxiety curiosity ham vulcan venus
 0
 2
-0 33 23 3
 0 23 3 2
+0 33 23 3
 1
 end_operator
 begin_operator
@@ -100813,24 +100813,24 @@ begin_operator
 succumb anxiety-2 curiosity ham mars neptune
 0
 2
-0 34 23 3
 0 23 0 1
+0 34 23 3
 1
 end_operator
 begin_operator
 succumb anxiety-2 curiosity ham neptune vulcan
 0
 2
-0 34 23 3
 0 23 1 3
+0 34 23 3
 1
 end_operator
 begin_operator
 succumb anxiety-2 curiosity ham vulcan venus
 0
 2
-0 34 23 3
 0 23 3 2
+0 34 23 3
 1
 end_operator
 begin_operator
@@ -102538,24 +102538,24 @@ begin_operator
 succumb anxiety-9 curiosity ham mars neptune
 0
 2
-0 35 23 3
 0 23 0 1
+0 35 23 3
 1
 end_operator
 begin_operator
 succumb anxiety-9 curiosity ham neptune vulcan
 0
 2
-0 35 23 3
 0 23 1 3
+0 35 23 3
 1
 end_operator
 begin_operator
 succumb anxiety-9 curiosity ham vulcan venus
 0
 2
-0 35 23 3
 0 23 3 2
+0 35 23 3
 1
 end_operator
 begin_operator
@@ -104263,24 +104263,24 @@ begin_operator
 succumb boils curiosity ham mars neptune
 0
 2
-0 36 23 3
 0 23 0 1
+0 36 23 3
 1
 end_operator
 begin_operator
 succumb boils curiosity ham neptune vulcan
 0
 2
-0 36 23 3
 0 23 1 3
+0 36 23 3
 1
 end_operator
 begin_operator
 succumb boils curiosity ham vulcan venus
 0
 2
-0 36 23 3
 0 23 3 2
+0 36 23 3
 1
 end_operator
 begin_operator
@@ -105988,24 +105988,24 @@ begin_operator
 succumb boils-27 curiosity ham mars neptune
 0
 2
-0 37 23 3
 0 23 0 1
+0 37 23 3
 1
 end_operator
 begin_operator
 succumb boils-27 curiosity ham neptune vulcan
 0
 2
-0 37 23 3
 0 23 1 3
+0 37 23 3
 1
 end_operator
 begin_operator
 succumb boils-27 curiosity ham vulcan venus
 0
 2
-0 37 23 3
 0 23 3 2
+0 37 23 3
 1
 end_operator
 begin_operator
@@ -107713,24 +107713,24 @@ begin_operator
 succumb boils-3 curiosity ham mars neptune
 0
 2
-0 38 23 3
 0 23 0 1
+0 38 23 3
 1
 end_operator
 begin_operator
 succumb boils-3 curiosity ham neptune vulcan
 0
 2
-0 38 23 3
 0 23 1 3
+0 38 23 3
 1
 end_operator
 begin_operator
 succumb boils-3 curiosity ham vulcan venus
 0
 2
-0 38 23 3
 0 23 3 2
+0 38 23 3
 1
 end_operator
 begin_operator
@@ -109438,24 +109438,24 @@ begin_operator
 succumb depression curiosity ham mars neptune
 0
 2
-0 39 23 3
 0 23 0 1
+0 39 23 3
 1
 end_operator
 begin_operator
 succumb depression curiosity ham neptune vulcan
 0
 2
-0 39 23 3
 0 23 1 3
+0 39 23 3
 1
 end_operator
 begin_operator
 succumb depression curiosity ham vulcan venus
 0
 2
-0 39 23 3
 0 23 3 2
+0 39 23 3
 1
 end_operator
 begin_operator
@@ -111163,24 +111163,24 @@ begin_operator
 succumb depression-19 curiosity ham mars neptune
 0
 2
-0 40 23 3
 0 23 0 1
+0 40 23 3
 1
 end_operator
 begin_operator
 succumb depression-19 curiosity ham neptune vulcan
 0
 2
-0 40 23 3
 0 23 1 3
+0 40 23 3
 1
 end_operator
 begin_operator
 succumb depression-19 curiosity ham vulcan venus
 0
 2
-0 40 23 3
 0 23 3 2
+0 40 23 3
 1
 end_operator
 begin_operator
@@ -112888,24 +112888,24 @@ begin_operator
 succumb depression-28 curiosity ham mars neptune
 0
 2
-0 41 23 3
 0 23 0 1
+0 41 23 3
 1
 end_operator
 begin_operator
 succumb depression-28 curiosity ham neptune vulcan
 0
 2
-0 41 23 3
 0 23 1 3
+0 41 23 3
 1
 end_operator
 begin_operator
 succumb depression-28 curiosity ham vulcan venus
 0
 2
-0 41 23 3
 0 23 3 2
+0 41 23 3
 1
 end_operator
 begin_operator
@@ -114613,24 +114613,24 @@ begin_operator
 succumb depression-5 curiosity ham mars neptune
 0
 2
-0 42 23 3
 0 23 0 1
+0 42 23 3
 1
 end_operator
 begin_operator
 succumb depression-5 curiosity ham neptune vulcan
 0
 2
-0 42 23 3
 0 23 1 3
+0 42 23 3
 1
 end_operator
 begin_operator
 succumb depression-5 curiosity ham vulcan venus
 0
 2
-0 42 23 3
 0 23 3 2
+0 42 23 3
 1
 end_operator
 begin_operator
@@ -116338,24 +116338,24 @@ begin_operator
 succumb dread curiosity ham mars neptune
 0
 2
-0 43 23 3
 0 23 0 1
+0 43 23 3
 1
 end_operator
 begin_operator
 succumb dread curiosity ham neptune vulcan
 0
 2
-0 43 23 3
 0 23 1 3
+0 43 23 3
 1
 end_operator
 begin_operator
 succumb dread curiosity ham vulcan venus
 0
 2
-0 43 23 3
 0 23 3 2
+0 43 23 3
 1
 end_operator
 begin_operator
@@ -118063,24 +118063,24 @@ begin_operator
 succumb dread-24 curiosity ham mars neptune
 0
 2
-0 44 23 3
 0 23 0 1
+0 44 23 3
 1
 end_operator
 begin_operator
 succumb dread-24 curiosity ham neptune vulcan
 0
 2
-0 44 23 3
 0 23 1 3
+0 44 23 3
 1
 end_operator
 begin_operator
 succumb dread-24 curiosity ham vulcan venus
 0
 2
-0 44 23 3
 0 23 3 2
+0 44 23 3
 1
 end_operator
 begin_operator
@@ -119788,24 +119788,24 @@ begin_operator
 succumb dread-4 curiosity ham mars neptune
 0
 2
-0 45 23 3
 0 23 0 1
+0 45 23 3
 1
 end_operator
 begin_operator
 succumb dread-4 curiosity ham neptune vulcan
 0
 2
-0 45 23 3
 0 23 1 3
+0 45 23 3
 1
 end_operator
 begin_operator
 succumb dread-4 curiosity ham vulcan venus
 0
 2
-0 45 23 3
 0 23 3 2
+0 45 23 3
 1
 end_operator
 begin_operator
@@ -121513,24 +121513,24 @@ begin_operator
 succumb grief curiosity ham mars neptune
 0
 2
-0 46 23 3
 0 23 0 1
+0 46 23 3
 1
 end_operator
 begin_operator
 succumb grief curiosity ham neptune vulcan
 0
 2
-0 46 23 3
 0 23 1 3
+0 46 23 3
 1
 end_operator
 begin_operator
 succumb grief curiosity ham vulcan venus
 0
 2
-0 46 23 3
 0 23 3 2
+0 46 23 3
 1
 end_operator
 begin_operator
@@ -123238,24 +123238,24 @@ begin_operator
 succumb grief-1 curiosity ham mars neptune
 0
 2
-0 47 23 3
 0 23 0 1
+0 47 23 3
 1
 end_operator
 begin_operator
 succumb grief-1 curiosity ham neptune vulcan
 0
 2
-0 47 23 3
 0 23 1 3
+0 47 23 3
 1
 end_operator
 begin_operator
 succumb grief-1 curiosity ham vulcan venus
 0
 2
-0 47 23 3
 0 23 3 2
+0 47 23 3
 1
 end_operator
 begin_operator
@@ -124963,24 +124963,24 @@ begin_operator
 succumb grief-25 curiosity ham mars neptune
 0
 2
-0 48 23 3
 0 23 0 1
+0 48 23 3
 1
 end_operator
 begin_operator
 succumb grief-25 curiosity ham neptune vulcan
 0
 2
-0 48 23 3
 0 23 1 3
+0 48 23 3
 1
 end_operator
 begin_operator
 succumb grief-25 curiosity ham vulcan venus
 0
 2
-0 48 23 3
 0 23 3 2
+0 48 23 3
 1
 end_operator
 begin_operator
@@ -126688,24 +126688,24 @@ begin_operator
 succumb hangover curiosity ham mars neptune
 0
 2
-0 49 23 3
 0 23 0 1
+0 49 23 3
 1
 end_operator
 begin_operator
 succumb hangover curiosity ham neptune vulcan
 0
 2
-0 49 23 3
 0 23 1 3
+0 49 23 3
 1
 end_operator
 begin_operator
 succumb hangover curiosity ham vulcan venus
 0
 2
-0 49 23 3
 0 23 3 2
+0 49 23 3
 1
 end_operator
 begin_operator
@@ -128413,24 +128413,24 @@ begin_operator
 succumb hangover-15 curiosity ham mars neptune
 0
 2
-0 51 23 3
 0 23 0 1
+0 51 23 3
 1
 end_operator
 begin_operator
 succumb hangover-15 curiosity ham neptune vulcan
 0
 2
-0 51 23 3
 0 23 1 3
+0 51 23 3
 1
 end_operator
 begin_operator
 succumb hangover-15 curiosity ham vulcan venus
 0
 2
-0 51 23 3
 0 23 3 2
+0 51 23 3
 1
 end_operator
 begin_operator
@@ -128438,8 +128438,8 @@ succumb hangover-15 entertainment marzipan mars neptune
 1
 6 0
 2
-0 51 24 9
 0 50 0 1
+0 51 24 9
 1
 end_operator
 begin_operator
@@ -128447,8 +128447,8 @@ succumb hangover-15 entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 51 24 9
 0 50 1 3
+0 51 24 9
 1
 end_operator
 begin_operator
@@ -128456,8 +128456,8 @@ succumb hangover-15 entertainment marzipan vulcan venus
 1
 6 0
 2
-0 51 24 9
 0 50 3 2
+0 51 24 9
 1
 end_operator
 begin_operator
@@ -128465,8 +128465,8 @@ succumb hangover-15 entertainment mutton mars neptune
 1
 6 1
 2
-0 51 24 12
 0 50 0 1
+0 51 24 12
 1
 end_operator
 begin_operator
@@ -128474,8 +128474,8 @@ succumb hangover-15 entertainment mutton neptune vulcan
 1
 6 1
 2
-0 51 24 12
 0 50 1 3
+0 51 24 12
 1
 end_operator
 begin_operator
@@ -128483,8 +128483,8 @@ succumb hangover-15 entertainment mutton vulcan venus
 1
 6 1
 2
-0 51 24 12
 0 50 3 2
+0 51 24 12
 1
 end_operator
 begin_operator
@@ -128492,8 +128492,8 @@ succumb hangover-15 entertainment scallop mars neptune
 1
 6 2
 2
-0 51 24 18
 0 50 0 1
+0 51 24 18
 1
 end_operator
 begin_operator
@@ -128501,8 +128501,8 @@ succumb hangover-15 entertainment scallop neptune vulcan
 1
 6 2
 2
-0 51 24 18
 0 50 1 3
+0 51 24 18
 1
 end_operator
 begin_operator
@@ -128510,8 +128510,8 @@ succumb hangover-15 entertainment scallop vulcan venus
 1
 6 2
 2
-0 51 24 18
 0 50 3 2
+0 51 24 18
 1
 end_operator
 begin_operator
@@ -130138,24 +130138,24 @@ begin_operator
 succumb hangover-31 curiosity ham mars neptune
 0
 2
-0 52 23 3
 0 23 0 1
+0 52 23 3
 1
 end_operator
 begin_operator
 succumb hangover-31 curiosity ham neptune vulcan
 0
 2
-0 52 23 3
 0 23 1 3
+0 52 23 3
 1
 end_operator
 begin_operator
 succumb hangover-31 curiosity ham vulcan venus
 0
 2
-0 52 23 3
 0 23 3 2
+0 52 23 3
 1
 end_operator
 begin_operator
@@ -130163,8 +130163,8 @@ succumb hangover-31 entertainment marzipan mars neptune
 1
 6 0
 2
-0 52 24 9
 0 50 0 1
+0 52 24 9
 1
 end_operator
 begin_operator
@@ -130172,8 +130172,8 @@ succumb hangover-31 entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 52 24 9
 0 50 1 3
+0 52 24 9
 1
 end_operator
 begin_operator
@@ -130181,8 +130181,8 @@ succumb hangover-31 entertainment marzipan vulcan venus
 1
 6 0
 2
-0 52 24 9
 0 50 3 2
+0 52 24 9
 1
 end_operator
 begin_operator
@@ -130190,8 +130190,8 @@ succumb hangover-31 entertainment mutton mars neptune
 1
 6 1
 2
-0 52 24 12
 0 50 0 1
+0 52 24 12
 1
 end_operator
 begin_operator
@@ -130199,8 +130199,8 @@ succumb hangover-31 entertainment mutton neptune vulcan
 1
 6 1
 2
-0 52 24 12
 0 50 1 3
+0 52 24 12
 1
 end_operator
 begin_operator
@@ -130208,8 +130208,8 @@ succumb hangover-31 entertainment mutton vulcan venus
 1
 6 1
 2
-0 52 24 12
 0 50 3 2
+0 52 24 12
 1
 end_operator
 begin_operator
@@ -130217,8 +130217,8 @@ succumb hangover-31 entertainment scallop mars neptune
 1
 6 2
 2
-0 52 24 18
 0 50 0 1
+0 52 24 18
 1
 end_operator
 begin_operator
@@ -130226,8 +130226,8 @@ succumb hangover-31 entertainment scallop neptune vulcan
 1
 6 2
 2
-0 52 24 18
 0 50 1 3
+0 52 24 18
 1
 end_operator
 begin_operator
@@ -130235,8 +130235,8 @@ succumb hangover-31 entertainment scallop vulcan venus
 1
 6 2
 2
-0 52 24 18
 0 50 3 2
+0 52 24 18
 1
 end_operator
 begin_operator
@@ -131863,24 +131863,24 @@ begin_operator
 succumb jealousy curiosity ham mars neptune
 0
 2
-0 53 23 3
 0 23 0 1
+0 53 23 3
 1
 end_operator
 begin_operator
 succumb jealousy curiosity ham neptune vulcan
 0
 2
-0 53 23 3
 0 23 1 3
+0 53 23 3
 1
 end_operator
 begin_operator
 succumb jealousy curiosity ham vulcan venus
 0
 2
-0 53 23 3
 0 23 3 2
+0 53 23 3
 1
 end_operator
 begin_operator
@@ -131888,8 +131888,8 @@ succumb jealousy entertainment marzipan mars neptune
 1
 6 0
 2
-0 53 24 9
 0 50 0 1
+0 53 24 9
 1
 end_operator
 begin_operator
@@ -131897,8 +131897,8 @@ succumb jealousy entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 53 24 9
 0 50 1 3
+0 53 24 9
 1
 end_operator
 begin_operator
@@ -131906,8 +131906,8 @@ succumb jealousy entertainment marzipan vulcan venus
 1
 6 0
 2
-0 53 24 9
 0 50 3 2
+0 53 24 9
 1
 end_operator
 begin_operator
@@ -131915,8 +131915,8 @@ succumb jealousy entertainment mutton mars neptune
 1
 6 1
 2
-0 53 24 12
 0 50 0 1
+0 53 24 12
 1
 end_operator
 begin_operator
@@ -131924,8 +131924,8 @@ succumb jealousy entertainment mutton neptune vulcan
 1
 6 1
 2
-0 53 24 12
 0 50 1 3
+0 53 24 12
 1
 end_operator
 begin_operator
@@ -131933,8 +131933,8 @@ succumb jealousy entertainment mutton vulcan venus
 1
 6 1
 2
-0 53 24 12
 0 50 3 2
+0 53 24 12
 1
 end_operator
 begin_operator
@@ -131942,8 +131942,8 @@ succumb jealousy entertainment scallop mars neptune
 1
 6 2
 2
-0 53 24 18
 0 50 0 1
+0 53 24 18
 1
 end_operator
 begin_operator
@@ -131951,8 +131951,8 @@ succumb jealousy entertainment scallop neptune vulcan
 1
 6 2
 2
-0 53 24 18
 0 50 1 3
+0 53 24 18
 1
 end_operator
 begin_operator
@@ -131960,8 +131960,8 @@ succumb jealousy entertainment scallop vulcan venus
 1
 6 2
 2
-0 53 24 18
 0 50 3 2
+0 53 24 18
 1
 end_operator
 begin_operator
@@ -133588,24 +133588,24 @@ begin_operator
 succumb jealousy-22 curiosity ham mars neptune
 0
 2
-0 54 23 3
 0 23 0 1
+0 54 23 3
 1
 end_operator
 begin_operator
 succumb jealousy-22 curiosity ham neptune vulcan
 0
 2
-0 54 23 3
 0 23 1 3
+0 54 23 3
 1
 end_operator
 begin_operator
 succumb jealousy-22 curiosity ham vulcan venus
 0
 2
-0 54 23 3
 0 23 3 2
+0 54 23 3
 1
 end_operator
 begin_operator
@@ -133613,8 +133613,8 @@ succumb jealousy-22 entertainment marzipan mars neptune
 1
 6 0
 2
-0 54 24 9
 0 50 0 1
+0 54 24 9
 1
 end_operator
 begin_operator
@@ -133622,8 +133622,8 @@ succumb jealousy-22 entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 54 24 9
 0 50 1 3
+0 54 24 9
 1
 end_operator
 begin_operator
@@ -133631,8 +133631,8 @@ succumb jealousy-22 entertainment marzipan vulcan venus
 1
 6 0
 2
-0 54 24 9
 0 50 3 2
+0 54 24 9
 1
 end_operator
 begin_operator
@@ -133640,8 +133640,8 @@ succumb jealousy-22 entertainment mutton mars neptune
 1
 6 1
 2
-0 54 24 12
 0 50 0 1
+0 54 24 12
 1
 end_operator
 begin_operator
@@ -133649,8 +133649,8 @@ succumb jealousy-22 entertainment mutton neptune vulcan
 1
 6 1
 2
-0 54 24 12
 0 50 1 3
+0 54 24 12
 1
 end_operator
 begin_operator
@@ -133658,8 +133658,8 @@ succumb jealousy-22 entertainment mutton vulcan venus
 1
 6 1
 2
-0 54 24 12
 0 50 3 2
+0 54 24 12
 1
 end_operator
 begin_operator
@@ -133667,8 +133667,8 @@ succumb jealousy-22 entertainment scallop mars neptune
 1
 6 2
 2
-0 54 24 18
 0 50 0 1
+0 54 24 18
 1
 end_operator
 begin_operator
@@ -133676,8 +133676,8 @@ succumb jealousy-22 entertainment scallop neptune vulcan
 1
 6 2
 2
-0 54 24 18
 0 50 1 3
+0 54 24 18
 1
 end_operator
 begin_operator
@@ -133685,8 +133685,8 @@ succumb jealousy-22 entertainment scallop vulcan venus
 1
 6 2
 2
-0 54 24 18
 0 50 3 2
+0 54 24 18
 1
 end_operator
 begin_operator
@@ -135313,24 +135313,24 @@ begin_operator
 succumb jealousy-8 curiosity ham mars neptune
 0
 2
-0 55 23 3
 0 23 0 1
+0 55 23 3
 1
 end_operator
 begin_operator
 succumb jealousy-8 curiosity ham neptune vulcan
 0
 2
-0 55 23 3
 0 23 1 3
+0 55 23 3
 1
 end_operator
 begin_operator
 succumb jealousy-8 curiosity ham vulcan venus
 0
 2
-0 55 23 3
 0 23 3 2
+0 55 23 3
 1
 end_operator
 begin_operator
@@ -135338,8 +135338,8 @@ succumb jealousy-8 entertainment marzipan mars neptune
 1
 6 0
 2
-0 55 24 9
 0 50 0 1
+0 55 24 9
 1
 end_operator
 begin_operator
@@ -135347,8 +135347,8 @@ succumb jealousy-8 entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 55 24 9
 0 50 1 3
+0 55 24 9
 1
 end_operator
 begin_operator
@@ -135356,8 +135356,8 @@ succumb jealousy-8 entertainment marzipan vulcan venus
 1
 6 0
 2
-0 55 24 9
 0 50 3 2
+0 55 24 9
 1
 end_operator
 begin_operator
@@ -135365,8 +135365,8 @@ succumb jealousy-8 entertainment mutton mars neptune
 1
 6 1
 2
-0 55 24 12
 0 50 0 1
+0 55 24 12
 1
 end_operator
 begin_operator
@@ -135374,8 +135374,8 @@ succumb jealousy-8 entertainment mutton neptune vulcan
 1
 6 1
 2
-0 55 24 12
 0 50 1 3
+0 55 24 12
 1
 end_operator
 begin_operator
@@ -135383,8 +135383,8 @@ succumb jealousy-8 entertainment mutton vulcan venus
 1
 6 1
 2
-0 55 24 12
 0 50 3 2
+0 55 24 12
 1
 end_operator
 begin_operator
@@ -135392,8 +135392,8 @@ succumb jealousy-8 entertainment scallop mars neptune
 1
 6 2
 2
-0 55 24 18
 0 50 0 1
+0 55 24 18
 1
 end_operator
 begin_operator
@@ -135401,8 +135401,8 @@ succumb jealousy-8 entertainment scallop neptune vulcan
 1
 6 2
 2
-0 55 24 18
 0 50 1 3
+0 55 24 18
 1
 end_operator
 begin_operator
@@ -135410,8 +135410,8 @@ succumb jealousy-8 entertainment scallop vulcan venus
 1
 6 2
 2
-0 55 24 18
 0 50 3 2
+0 55 24 18
 1
 end_operator
 begin_operator
@@ -137038,24 +137038,24 @@ begin_operator
 succumb laceration curiosity ham mars neptune
 0
 2
-0 56 23 3
 0 23 0 1
+0 56 23 3
 1
 end_operator
 begin_operator
 succumb laceration curiosity ham neptune vulcan
 0
 2
-0 56 23 3
 0 23 1 3
+0 56 23 3
 1
 end_operator
 begin_operator
 succumb laceration curiosity ham vulcan venus
 0
 2
-0 56 23 3
 0 23 3 2
+0 56 23 3
 1
 end_operator
 begin_operator
@@ -137063,8 +137063,8 @@ succumb laceration entertainment marzipan mars neptune
 1
 6 0
 2
-0 56 24 9
 0 50 0 1
+0 56 24 9
 1
 end_operator
 begin_operator
@@ -137072,8 +137072,8 @@ succumb laceration entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 56 24 9
 0 50 1 3
+0 56 24 9
 1
 end_operator
 begin_operator
@@ -137081,8 +137081,8 @@ succumb laceration entertainment marzipan vulcan venus
 1
 6 0
 2
-0 56 24 9
 0 50 3 2
+0 56 24 9
 1
 end_operator
 begin_operator
@@ -137090,8 +137090,8 @@ succumb laceration entertainment mutton mars neptune
 1
 6 1
 2
-0 56 24 12
 0 50 0 1
+0 56 24 12
 1
 end_operator
 begin_operator
@@ -137099,8 +137099,8 @@ succumb laceration entertainment mutton neptune vulcan
 1
 6 1
 2
-0 56 24 12
 0 50 1 3
+0 56 24 12
 1
 end_operator
 begin_operator
@@ -137108,8 +137108,8 @@ succumb laceration entertainment mutton vulcan venus
 1
 6 1
 2
-0 56 24 12
 0 50 3 2
+0 56 24 12
 1
 end_operator
 begin_operator
@@ -137117,8 +137117,8 @@ succumb laceration entertainment scallop mars neptune
 1
 6 2
 2
-0 56 24 18
 0 50 0 1
+0 56 24 18
 1
 end_operator
 begin_operator
@@ -137126,8 +137126,8 @@ succumb laceration entertainment scallop neptune vulcan
 1
 6 2
 2
-0 56 24 18
 0 50 1 3
+0 56 24 18
 1
 end_operator
 begin_operator
@@ -137135,8 +137135,8 @@ succumb laceration entertainment scallop vulcan venus
 1
 6 2
 2
-0 56 24 18
 0 50 3 2
+0 56 24 18
 1
 end_operator
 begin_operator
@@ -137900,8 +137900,8 @@ succumb laceration-20 achievement baguette mars neptune
 1
 18 0
 2
-0 74 21 0
 0 71 0 1
+0 74 21 0
 1
 end_operator
 begin_operator
@@ -137909,8 +137909,8 @@ succumb laceration-20 achievement baguette neptune vulcan
 1
 18 0
 2
-0 74 21 0
 0 71 1 3
+0 74 21 0
 1
 end_operator
 begin_operator
@@ -137918,8 +137918,8 @@ succumb laceration-20 achievement baguette vulcan venus
 1
 18 0
 2
-0 74 21 0
 0 71 3 2
+0 74 21 0
 1
 end_operator
 begin_operator
@@ -137927,8 +137927,8 @@ succumb laceration-20 achievement flounder mars neptune
 1
 18 1
 2
-0 74 21 2
 0 71 0 1
+0 74 21 2
 1
 end_operator
 begin_operator
@@ -137936,8 +137936,8 @@ succumb laceration-20 achievement flounder neptune vulcan
 1
 18 1
 2
-0 74 21 2
 0 71 1 3
+0 74 21 2
 1
 end_operator
 begin_operator
@@ -137945,8 +137945,8 @@ succumb laceration-20 achievement flounder vulcan venus
 1
 18 1
 2
-0 74 21 2
 0 71 3 2
+0 74 21 2
 1
 end_operator
 begin_operator
@@ -137954,8 +137954,8 @@ succumb laceration-20 achievement ham mars neptune
 1
 18 2
 2
-0 74 21 3
 0 71 0 1
+0 74 21 3
 1
 end_operator
 begin_operator
@@ -137963,8 +137963,8 @@ succumb laceration-20 achievement ham neptune vulcan
 1
 18 2
 2
-0 74 21 3
 0 71 1 3
+0 74 21 3
 1
 end_operator
 begin_operator
@@ -137972,8 +137972,8 @@ succumb laceration-20 achievement ham vulcan venus
 1
 18 2
 2
-0 74 21 3
 0 71 3 2
+0 74 21 3
 1
 end_operator
 begin_operator
@@ -137981,8 +137981,8 @@ succumb laceration-20 achievement hamburger mars neptune
 1
 18 3
 2
-0 74 21 4
 0 71 0 1
+0 74 21 4
 1
 end_operator
 begin_operator
@@ -137990,8 +137990,8 @@ succumb laceration-20 achievement hamburger neptune vulcan
 1
 18 3
 2
-0 74 21 4
 0 71 1 3
+0 74 21 4
 1
 end_operator
 begin_operator
@@ -137999,8 +137999,8 @@ succumb laceration-20 achievement hamburger vulcan venus
 1
 18 3
 2
-0 74 21 4
 0 71 3 2
+0 74 21 4
 1
 end_operator
 begin_operator
@@ -138008,8 +138008,8 @@ succumb laceration-20 achievement haroset mars neptune
 1
 18 4
 2
-0 74 21 5
 0 71 0 1
+0 74 21 5
 1
 end_operator
 begin_operator
@@ -138017,8 +138017,8 @@ succumb laceration-20 achievement haroset neptune vulcan
 1
 18 4
 2
-0 74 21 5
 0 71 1 3
+0 74 21 5
 1
 end_operator
 begin_operator
@@ -138026,8 +138026,8 @@ succumb laceration-20 achievement haroset vulcan venus
 1
 18 4
 2
-0 74 21 5
 0 71 3 2
+0 74 21 5
 1
 end_operator
 begin_operator
@@ -138035,8 +138035,8 @@ succumb laceration-20 achievement lemon mars neptune
 1
 18 5
 2
-0 74 21 6
 0 71 0 1
+0 74 21 6
 1
 end_operator
 begin_operator
@@ -138044,8 +138044,8 @@ succumb laceration-20 achievement lemon neptune vulcan
 1
 18 5
 2
-0 74 21 6
 0 71 1 3
+0 74 21 6
 1
 end_operator
 begin_operator
@@ -138053,8 +138053,8 @@ succumb laceration-20 achievement lemon vulcan venus
 1
 18 5
 2
-0 74 21 6
 0 71 3 2
+0 74 21 6
 1
 end_operator
 begin_operator
@@ -138062,8 +138062,8 @@ succumb laceration-20 achievement lobster mars neptune
 1
 18 6
 2
-0 74 21 8
 0 71 0 1
+0 74 21 8
 1
 end_operator
 begin_operator
@@ -138071,8 +138071,8 @@ succumb laceration-20 achievement lobster neptune vulcan
 1
 18 6
 2
-0 74 21 8
 0 71 1 3
+0 74 21 8
 1
 end_operator
 begin_operator
@@ -138080,8 +138080,8 @@ succumb laceration-20 achievement lobster vulcan venus
 1
 18 6
 2
-0 74 21 8
 0 71 3 2
+0 74 21 8
 1
 end_operator
 begin_operator
@@ -138089,8 +138089,8 @@ succumb laceration-20 achievement marzipan mars neptune
 1
 18 7
 2
-0 74 21 9
 0 71 0 1
+0 74 21 9
 1
 end_operator
 begin_operator
@@ -138098,8 +138098,8 @@ succumb laceration-20 achievement marzipan neptune vulcan
 1
 18 7
 2
-0 74 21 9
 0 71 1 3
+0 74 21 9
 1
 end_operator
 begin_operator
@@ -138107,8 +138107,8 @@ succumb laceration-20 achievement marzipan vulcan venus
 1
 18 7
 2
-0 74 21 9
 0 71 3 2
+0 74 21 9
 1
 end_operator
 begin_operator
@@ -138116,8 +138116,8 @@ succumb laceration-20 achievement melon mars neptune
 1
 18 8
 2
-0 74 21 10
 0 71 0 1
+0 74 21 10
 1
 end_operator
 begin_operator
@@ -138125,8 +138125,8 @@ succumb laceration-20 achievement melon neptune vulcan
 1
 18 8
 2
-0 74 21 10
 0 71 1 3
+0 74 21 10
 1
 end_operator
 begin_operator
@@ -138134,8 +138134,8 @@ succumb laceration-20 achievement melon vulcan venus
 1
 18 8
 2
-0 74 21 10
 0 71 3 2
+0 74 21 10
 1
 end_operator
 begin_operator
@@ -138143,8 +138143,8 @@ succumb laceration-20 achievement muffin mars neptune
 1
 18 9
 2
-0 74 21 11
 0 71 0 1
+0 74 21 11
 1
 end_operator
 begin_operator
@@ -138152,8 +138152,8 @@ succumb laceration-20 achievement muffin neptune vulcan
 1
 18 9
 2
-0 74 21 11
 0 71 1 3
+0 74 21 11
 1
 end_operator
 begin_operator
@@ -138161,8 +138161,8 @@ succumb laceration-20 achievement muffin vulcan venus
 1
 18 9
 2
-0 74 21 11
 0 71 3 2
+0 74 21 11
 1
 end_operator
 begin_operator
@@ -138170,8 +138170,8 @@ succumb laceration-20 achievement onion mars neptune
 1
 18 10
 2
-0 74 21 13
 0 71 0 1
+0 74 21 13
 1
 end_operator
 begin_operator
@@ -138179,8 +138179,8 @@ succumb laceration-20 achievement onion neptune vulcan
 1
 18 10
 2
-0 74 21 13
 0 71 1 3
+0 74 21 13
 1
 end_operator
 begin_operator
@@ -138188,8 +138188,8 @@ succumb laceration-20 achievement onion vulcan venus
 1
 18 10
 2
-0 74 21 13
 0 71 3 2
+0 74 21 13
 1
 end_operator
 begin_operator
@@ -138197,8 +138197,8 @@ succumb laceration-20 achievement papaya mars neptune
 1
 18 11
 2
-0 74 21 14
 0 71 0 1
+0 74 21 14
 1
 end_operator
 begin_operator
@@ -138206,8 +138206,8 @@ succumb laceration-20 achievement papaya neptune vulcan
 1
 18 11
 2
-0 74 21 14
 0 71 1 3
+0 74 21 14
 1
 end_operator
 begin_operator
@@ -138215,8 +138215,8 @@ succumb laceration-20 achievement papaya vulcan venus
 1
 18 11
 2
-0 74 21 14
 0 71 3 2
+0 74 21 14
 1
 end_operator
 begin_operator
@@ -138224,8 +138224,8 @@ succumb laceration-20 achievement potato mars neptune
 1
 18 12
 2
-0 74 21 15
 0 71 0 1
+0 74 21 15
 1
 end_operator
 begin_operator
@@ -138233,8 +138233,8 @@ succumb laceration-20 achievement potato neptune vulcan
 1
 18 12
 2
-0 74 21 15
 0 71 1 3
+0 74 21 15
 1
 end_operator
 begin_operator
@@ -138242,8 +138242,8 @@ succumb laceration-20 achievement potato vulcan venus
 1
 18 12
 2
-0 74 21 15
 0 71 3 2
+0 74 21 15
 1
 end_operator
 begin_operator
@@ -138251,8 +138251,8 @@ succumb laceration-20 achievement scallion mars neptune
 1
 18 13
 2
-0 74 21 17
 0 71 0 1
+0 74 21 17
 1
 end_operator
 begin_operator
@@ -138260,8 +138260,8 @@ succumb laceration-20 achievement scallion neptune vulcan
 1
 18 13
 2
-0 74 21 17
 0 71 1 3
+0 74 21 17
 1
 end_operator
 begin_operator
@@ -138269,8 +138269,8 @@ succumb laceration-20 achievement scallion vulcan venus
 1
 18 13
 2
-0 74 21 17
 0 71 3 2
+0 74 21 17
 1
 end_operator
 begin_operator
@@ -138278,8 +138278,8 @@ succumb laceration-20 achievement scallop mars neptune
 1
 18 14
 2
-0 74 21 18
 0 71 0 1
+0 74 21 18
 1
 end_operator
 begin_operator
@@ -138287,8 +138287,8 @@ succumb laceration-20 achievement scallop neptune vulcan
 1
 18 14
 2
-0 74 21 18
 0 71 1 3
+0 74 21 18
 1
 end_operator
 begin_operator
@@ -138296,8 +138296,8 @@ succumb laceration-20 achievement scallop vulcan venus
 1
 18 14
 2
-0 74 21 18
 0 71 3 2
+0 74 21 18
 1
 end_operator
 begin_operator
@@ -138305,8 +138305,8 @@ succumb laceration-20 achievement turkey mars neptune
 1
 18 15
 2
-0 74 21 19
 0 71 0 1
+0 74 21 19
 1
 end_operator
 begin_operator
@@ -138314,8 +138314,8 @@ succumb laceration-20 achievement turkey neptune vulcan
 1
 18 15
 2
-0 74 21 19
 0 71 1 3
+0 74 21 19
 1
 end_operator
 begin_operator
@@ -138323,8 +138323,8 @@ succumb laceration-20 achievement turkey vulcan venus
 1
 18 15
 2
-0 74 21 19
 0 71 3 2
+0 74 21 19
 1
 end_operator
 begin_operator
@@ -138332,8 +138332,8 @@ succumb laceration-20 aesthetics baguette mars neptune
 1
 20 0
 2
-0 74 22 0
 0 72 0 1
+0 74 22 0
 1
 end_operator
 begin_operator
@@ -138341,8 +138341,8 @@ succumb laceration-20 aesthetics baguette neptune vulcan
 1
 20 0
 2
-0 74 22 0
 0 72 1 3
+0 74 22 0
 1
 end_operator
 begin_operator
@@ -138350,8 +138350,8 @@ succumb laceration-20 aesthetics baguette vulcan venus
 1
 20 0
 2
-0 74 22 0
 0 72 3 2
+0 74 22 0
 1
 end_operator
 begin_operator
@@ -138359,8 +138359,8 @@ succumb laceration-20 aesthetics flounder mars neptune
 1
 20 1
 2
-0 74 22 2
 0 72 0 1
+0 74 22 2
 1
 end_operator
 begin_operator
@@ -138368,8 +138368,8 @@ succumb laceration-20 aesthetics flounder neptune vulcan
 1
 20 1
 2
-0 74 22 2
 0 72 1 3
+0 74 22 2
 1
 end_operator
 begin_operator
@@ -138377,8 +138377,8 @@ succumb laceration-20 aesthetics flounder vulcan venus
 1
 20 1
 2
-0 74 22 2
 0 72 3 2
+0 74 22 2
 1
 end_operator
 begin_operator
@@ -138386,8 +138386,8 @@ succumb laceration-20 aesthetics ham mars neptune
 1
 20 2
 2
-0 74 22 3
 0 72 0 1
+0 74 22 3
 1
 end_operator
 begin_operator
@@ -138395,8 +138395,8 @@ succumb laceration-20 aesthetics ham neptune vulcan
 1
 20 2
 2
-0 74 22 3
 0 72 1 3
+0 74 22 3
 1
 end_operator
 begin_operator
@@ -138404,8 +138404,8 @@ succumb laceration-20 aesthetics ham vulcan venus
 1
 20 2
 2
-0 74 22 3
 0 72 3 2
+0 74 22 3
 1
 end_operator
 begin_operator
@@ -138413,8 +138413,8 @@ succumb laceration-20 aesthetics hamburger mars neptune
 1
 20 3
 2
-0 74 22 4
 0 72 0 1
+0 74 22 4
 1
 end_operator
 begin_operator
@@ -138422,8 +138422,8 @@ succumb laceration-20 aesthetics hamburger neptune vulcan
 1
 20 3
 2
-0 74 22 4
 0 72 1 3
+0 74 22 4
 1
 end_operator
 begin_operator
@@ -138431,8 +138431,8 @@ succumb laceration-20 aesthetics hamburger vulcan venus
 1
 20 3
 2
-0 74 22 4
 0 72 3 2
+0 74 22 4
 1
 end_operator
 begin_operator
@@ -138440,8 +138440,8 @@ succumb laceration-20 aesthetics haroset mars neptune
 1
 20 4
 2
-0 74 22 5
 0 72 0 1
+0 74 22 5
 1
 end_operator
 begin_operator
@@ -138449,8 +138449,8 @@ succumb laceration-20 aesthetics haroset neptune vulcan
 1
 20 4
 2
-0 74 22 5
 0 72 1 3
+0 74 22 5
 1
 end_operator
 begin_operator
@@ -138458,8 +138458,8 @@ succumb laceration-20 aesthetics haroset vulcan venus
 1
 20 4
 2
-0 74 22 5
 0 72 3 2
+0 74 22 5
 1
 end_operator
 begin_operator
@@ -138467,8 +138467,8 @@ succumb laceration-20 aesthetics lemon mars neptune
 1
 20 5
 2
-0 74 22 6
 0 72 0 1
+0 74 22 6
 1
 end_operator
 begin_operator
@@ -138476,8 +138476,8 @@ succumb laceration-20 aesthetics lemon neptune vulcan
 1
 20 5
 2
-0 74 22 6
 0 72 1 3
+0 74 22 6
 1
 end_operator
 begin_operator
@@ -138485,8 +138485,8 @@ succumb laceration-20 aesthetics lemon vulcan venus
 1
 20 5
 2
-0 74 22 6
 0 72 3 2
+0 74 22 6
 1
 end_operator
 begin_operator
@@ -138494,8 +138494,8 @@ succumb laceration-20 aesthetics lobster mars neptune
 1
 20 6
 2
-0 74 22 8
 0 72 0 1
+0 74 22 8
 1
 end_operator
 begin_operator
@@ -138503,8 +138503,8 @@ succumb laceration-20 aesthetics lobster neptune vulcan
 1
 20 6
 2
-0 74 22 8
 0 72 1 3
+0 74 22 8
 1
 end_operator
 begin_operator
@@ -138512,8 +138512,8 @@ succumb laceration-20 aesthetics lobster vulcan venus
 1
 20 6
 2
-0 74 22 8
 0 72 3 2
+0 74 22 8
 1
 end_operator
 begin_operator
@@ -138521,8 +138521,8 @@ succumb laceration-20 aesthetics marzipan mars neptune
 1
 20 7
 2
-0 74 22 9
 0 72 0 1
+0 74 22 9
 1
 end_operator
 begin_operator
@@ -138530,8 +138530,8 @@ succumb laceration-20 aesthetics marzipan neptune vulcan
 1
 20 7
 2
-0 74 22 9
 0 72 1 3
+0 74 22 9
 1
 end_operator
 begin_operator
@@ -138539,8 +138539,8 @@ succumb laceration-20 aesthetics marzipan vulcan venus
 1
 20 7
 2
-0 74 22 9
 0 72 3 2
+0 74 22 9
 1
 end_operator
 begin_operator
@@ -138548,8 +138548,8 @@ succumb laceration-20 aesthetics melon mars neptune
 1
 20 8
 2
-0 74 22 10
 0 72 0 1
+0 74 22 10
 1
 end_operator
 begin_operator
@@ -138557,8 +138557,8 @@ succumb laceration-20 aesthetics melon neptune vulcan
 1
 20 8
 2
-0 74 22 10
 0 72 1 3
+0 74 22 10
 1
 end_operator
 begin_operator
@@ -138566,8 +138566,8 @@ succumb laceration-20 aesthetics melon vulcan venus
 1
 20 8
 2
-0 74 22 10
 0 72 3 2
+0 74 22 10
 1
 end_operator
 begin_operator
@@ -138575,8 +138575,8 @@ succumb laceration-20 aesthetics muffin mars neptune
 1
 20 9
 2
-0 74 22 11
 0 72 0 1
+0 74 22 11
 1
 end_operator
 begin_operator
@@ -138584,8 +138584,8 @@ succumb laceration-20 aesthetics muffin neptune vulcan
 1
 20 9
 2
-0 74 22 11
 0 72 1 3
+0 74 22 11
 1
 end_operator
 begin_operator
@@ -138593,8 +138593,8 @@ succumb laceration-20 aesthetics muffin vulcan venus
 1
 20 9
 2
-0 74 22 11
 0 72 3 2
+0 74 22 11
 1
 end_operator
 begin_operator
@@ -138602,8 +138602,8 @@ succumb laceration-20 aesthetics onion mars neptune
 1
 20 10
 2
-0 74 22 13
 0 72 0 1
+0 74 22 13
 1
 end_operator
 begin_operator
@@ -138611,8 +138611,8 @@ succumb laceration-20 aesthetics onion neptune vulcan
 1
 20 10
 2
-0 74 22 13
 0 72 1 3
+0 74 22 13
 1
 end_operator
 begin_operator
@@ -138620,8 +138620,8 @@ succumb laceration-20 aesthetics onion vulcan venus
 1
 20 10
 2
-0 74 22 13
 0 72 3 2
+0 74 22 13
 1
 end_operator
 begin_operator
@@ -138629,8 +138629,8 @@ succumb laceration-20 aesthetics papaya mars neptune
 1
 20 11
 2
-0 74 22 14
 0 72 0 1
+0 74 22 14
 1
 end_operator
 begin_operator
@@ -138638,8 +138638,8 @@ succumb laceration-20 aesthetics papaya neptune vulcan
 1
 20 11
 2
-0 74 22 14
 0 72 1 3
+0 74 22 14
 1
 end_operator
 begin_operator
@@ -138647,8 +138647,8 @@ succumb laceration-20 aesthetics papaya vulcan venus
 1
 20 11
 2
-0 74 22 14
 0 72 3 2
+0 74 22 14
 1
 end_operator
 begin_operator
@@ -138656,8 +138656,8 @@ succumb laceration-20 aesthetics potato mars neptune
 1
 20 12
 2
-0 74 22 15
 0 72 0 1
+0 74 22 15
 1
 end_operator
 begin_operator
@@ -138665,8 +138665,8 @@ succumb laceration-20 aesthetics potato neptune vulcan
 1
 20 12
 2
-0 74 22 15
 0 72 1 3
+0 74 22 15
 1
 end_operator
 begin_operator
@@ -138674,8 +138674,8 @@ succumb laceration-20 aesthetics potato vulcan venus
 1
 20 12
 2
-0 74 22 15
 0 72 3 2
+0 74 22 15
 1
 end_operator
 begin_operator
@@ -138683,8 +138683,8 @@ succumb laceration-20 aesthetics scallion mars neptune
 1
 20 13
 2
-0 74 22 17
 0 72 0 1
+0 74 22 17
 1
 end_operator
 begin_operator
@@ -138692,8 +138692,8 @@ succumb laceration-20 aesthetics scallion neptune vulcan
 1
 20 13
 2
-0 74 22 17
 0 72 1 3
+0 74 22 17
 1
 end_operator
 begin_operator
@@ -138701,8 +138701,8 @@ succumb laceration-20 aesthetics scallion vulcan venus
 1
 20 13
 2
-0 74 22 17
 0 72 3 2
+0 74 22 17
 1
 end_operator
 begin_operator
@@ -138710,8 +138710,8 @@ succumb laceration-20 aesthetics scallop mars neptune
 1
 20 14
 2
-0 74 22 18
 0 72 0 1
+0 74 22 18
 1
 end_operator
 begin_operator
@@ -138719,8 +138719,8 @@ succumb laceration-20 aesthetics scallop neptune vulcan
 1
 20 14
 2
-0 74 22 18
 0 72 1 3
+0 74 22 18
 1
 end_operator
 begin_operator
@@ -138728,8 +138728,8 @@ succumb laceration-20 aesthetics scallop vulcan venus
 1
 20 14
 2
-0 74 22 18
 0 72 3 2
+0 74 22 18
 1
 end_operator
 begin_operator
@@ -138737,8 +138737,8 @@ succumb laceration-20 aesthetics turkey mars neptune
 1
 20 15
 2
-0 74 22 19
 0 72 0 1
+0 74 22 19
 1
 end_operator
 begin_operator
@@ -138746,8 +138746,8 @@ succumb laceration-20 aesthetics turkey neptune vulcan
 1
 20 15
 2
-0 74 22 19
 0 72 1 3
+0 74 22 19
 1
 end_operator
 begin_operator
@@ -138755,32 +138755,32 @@ succumb laceration-20 aesthetics turkey vulcan venus
 1
 20 15
 2
-0 74 22 19
 0 72 3 2
+0 74 22 19
 1
 end_operator
 begin_operator
 succumb laceration-20 curiosity ham mars neptune
 0
 2
-0 74 23 3
 0 23 0 1
+0 74 23 3
 1
 end_operator
 begin_operator
 succumb laceration-20 curiosity ham neptune vulcan
 0
 2
-0 74 23 3
 0 23 1 3
+0 74 23 3
 1
 end_operator
 begin_operator
 succumb laceration-20 curiosity ham vulcan venus
 0
 2
-0 74 23 3
 0 23 3 2
+0 74 23 3
 1
 end_operator
 begin_operator
@@ -138788,8 +138788,8 @@ succumb laceration-20 entertainment marzipan mars neptune
 1
 6 0
 2
-0 74 24 9
 0 50 0 1
+0 74 24 9
 1
 end_operator
 begin_operator
@@ -138797,8 +138797,8 @@ succumb laceration-20 entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 74 24 9
 0 50 1 3
+0 74 24 9
 1
 end_operator
 begin_operator
@@ -138806,8 +138806,8 @@ succumb laceration-20 entertainment marzipan vulcan venus
 1
 6 0
 2
-0 74 24 9
 0 50 3 2
+0 74 24 9
 1
 end_operator
 begin_operator
@@ -138815,8 +138815,8 @@ succumb laceration-20 entertainment mutton mars neptune
 1
 6 1
 2
-0 74 24 12
 0 50 0 1
+0 74 24 12
 1
 end_operator
 begin_operator
@@ -138824,8 +138824,8 @@ succumb laceration-20 entertainment mutton neptune vulcan
 1
 6 1
 2
-0 74 24 12
 0 50 1 3
+0 74 24 12
 1
 end_operator
 begin_operator
@@ -138833,8 +138833,8 @@ succumb laceration-20 entertainment mutton vulcan venus
 1
 6 1
 2
-0 74 24 12
 0 50 3 2
+0 74 24 12
 1
 end_operator
 begin_operator
@@ -138842,8 +138842,8 @@ succumb laceration-20 entertainment scallop mars neptune
 1
 6 2
 2
-0 74 24 18
 0 50 0 1
+0 74 24 18
 1
 end_operator
 begin_operator
@@ -138851,8 +138851,8 @@ succumb laceration-20 entertainment scallop neptune vulcan
 1
 6 2
 2
-0 74 24 18
 0 50 1 3
+0 74 24 18
 1
 end_operator
 begin_operator
@@ -138860,8 +138860,8 @@ succumb laceration-20 entertainment scallop vulcan venus
 1
 6 2
 2
-0 74 24 18
 0 50 3 2
+0 74 24 18
 1
 end_operator
 begin_operator
@@ -138869,8 +138869,8 @@ succumb laceration-20 intoxication chocolate mars neptune
 1
 3 0
 2
-0 74 25 1
 0 62 0 1
+0 74 25 1
 1
 end_operator
 begin_operator
@@ -138878,8 +138878,8 @@ succumb laceration-20 intoxication chocolate neptune vulcan
 1
 3 0
 2
-0 74 25 1
 0 62 1 3
+0 74 25 1
 1
 end_operator
 begin_operator
@@ -138887,8 +138887,8 @@ succumb laceration-20 intoxication chocolate vulcan venus
 1
 3 0
 2
-0 74 25 1
 0 62 3 2
+0 74 25 1
 1
 end_operator
 begin_operator
@@ -138896,8 +138896,8 @@ succumb laceration-20 intoxication lettuce mars neptune
 1
 3 1
 2
-0 74 25 7
 0 62 0 1
+0 74 25 7
 1
 end_operator
 begin_operator
@@ -138905,8 +138905,8 @@ succumb laceration-20 intoxication lettuce neptune vulcan
 1
 3 1
 2
-0 74 25 7
 0 62 1 3
+0 74 25 7
 1
 end_operator
 begin_operator
@@ -138914,8 +138914,8 @@ succumb laceration-20 intoxication lettuce vulcan venus
 1
 3 1
 2
-0 74 25 7
 0 62 3 2
+0 74 25 7
 1
 end_operator
 begin_operator
@@ -138923,8 +138923,8 @@ succumb laceration-20 intoxication marzipan mars neptune
 1
 3 2
 2
-0 74 25 9
 0 62 0 1
+0 74 25 9
 1
 end_operator
 begin_operator
@@ -138932,8 +138932,8 @@ succumb laceration-20 intoxication marzipan neptune vulcan
 1
 3 2
 2
-0 74 25 9
 0 62 1 3
+0 74 25 9
 1
 end_operator
 begin_operator
@@ -138941,8 +138941,8 @@ succumb laceration-20 intoxication marzipan vulcan venus
 1
 3 2
 2
-0 74 25 9
 0 62 3 2
+0 74 25 9
 1
 end_operator
 begin_operator
@@ -138950,8 +138950,8 @@ succumb laceration-20 intoxication rice mars neptune
 1
 3 3
 2
-0 74 25 16
 0 62 0 1
+0 74 25 16
 1
 end_operator
 begin_operator
@@ -138959,8 +138959,8 @@ succumb laceration-20 intoxication rice neptune vulcan
 1
 3 3
 2
-0 74 25 16
 0 62 1 3
+0 74 25 16
 1
 end_operator
 begin_operator
@@ -138968,8 +138968,8 @@ succumb laceration-20 intoxication rice vulcan venus
 1
 3 3
 2
-0 74 25 16
 0 62 3 2
+0 74 25 16
 1
 end_operator
 begin_operator
@@ -138977,8 +138977,8 @@ succumb laceration-20 intoxication scallop mars neptune
 1
 3 4
 2
-0 74 25 18
 0 62 0 1
+0 74 25 18
 1
 end_operator
 begin_operator
@@ -138986,8 +138986,8 @@ succumb laceration-20 intoxication scallop neptune vulcan
 1
 3 4
 2
-0 74 25 18
 0 62 1 3
+0 74 25 18
 1
 end_operator
 begin_operator
@@ -138995,8 +138995,8 @@ succumb laceration-20 intoxication scallop vulcan venus
 1
 3 4
 2
-0 74 25 18
 0 62 3 2
+0 74 25 18
 1
 end_operator
 begin_operator
@@ -139004,8 +139004,8 @@ succumb laceration-20 intoxication yogurt mars neptune
 1
 3 5
 2
-0 74 25 20
 0 62 0 1
+0 74 25 20
 1
 end_operator
 begin_operator
@@ -139013,8 +139013,8 @@ succumb laceration-20 intoxication yogurt neptune vulcan
 1
 3 5
 2
-0 74 25 20
 0 62 1 3
+0 74 25 20
 1
 end_operator
 begin_operator
@@ -139022,8 +139022,8 @@ succumb laceration-20 intoxication yogurt vulcan venus
 1
 3 5
 2
-0 74 25 20
 0 62 3 2
+0 74 25 20
 1
 end_operator
 begin_operator
@@ -139031,8 +139031,8 @@ succumb laceration-20 love baguette mars neptune
 1
 21 0
 2
-0 74 26 0
 0 73 0 1
+0 74 26 0
 1
 end_operator
 begin_operator
@@ -139040,8 +139040,8 @@ succumb laceration-20 love baguette neptune vulcan
 1
 21 0
 2
-0 74 26 0
 0 73 1 3
+0 74 26 0
 1
 end_operator
 begin_operator
@@ -139049,8 +139049,8 @@ succumb laceration-20 love baguette vulcan venus
 1
 21 0
 2
-0 74 26 0
 0 73 3 2
+0 74 26 0
 1
 end_operator
 begin_operator
@@ -139058,8 +139058,8 @@ succumb laceration-20 love flounder mars neptune
 1
 21 1
 2
-0 74 26 2
 0 73 0 1
+0 74 26 2
 1
 end_operator
 begin_operator
@@ -139067,8 +139067,8 @@ succumb laceration-20 love flounder neptune vulcan
 1
 21 1
 2
-0 74 26 2
 0 73 1 3
+0 74 26 2
 1
 end_operator
 begin_operator
@@ -139076,8 +139076,8 @@ succumb laceration-20 love flounder vulcan venus
 1
 21 1
 2
-0 74 26 2
 0 73 3 2
+0 74 26 2
 1
 end_operator
 begin_operator
@@ -139085,8 +139085,8 @@ succumb laceration-20 love ham mars neptune
 1
 21 2
 2
-0 74 26 3
 0 73 0 1
+0 74 26 3
 1
 end_operator
 begin_operator
@@ -139094,8 +139094,8 @@ succumb laceration-20 love ham neptune vulcan
 1
 21 2
 2
-0 74 26 3
 0 73 1 3
+0 74 26 3
 1
 end_operator
 begin_operator
@@ -139103,8 +139103,8 @@ succumb laceration-20 love ham vulcan venus
 1
 21 2
 2
-0 74 26 3
 0 73 3 2
+0 74 26 3
 1
 end_operator
 begin_operator
@@ -139112,8 +139112,8 @@ succumb laceration-20 love hamburger mars neptune
 1
 21 3
 2
-0 74 26 4
 0 73 0 1
+0 74 26 4
 1
 end_operator
 begin_operator
@@ -139121,8 +139121,8 @@ succumb laceration-20 love hamburger neptune vulcan
 1
 21 3
 2
-0 74 26 4
 0 73 1 3
+0 74 26 4
 1
 end_operator
 begin_operator
@@ -139130,8 +139130,8 @@ succumb laceration-20 love hamburger vulcan venus
 1
 21 3
 2
-0 74 26 4
 0 73 3 2
+0 74 26 4
 1
 end_operator
 begin_operator
@@ -139139,8 +139139,8 @@ succumb laceration-20 love haroset mars neptune
 1
 21 4
 2
-0 74 26 5
 0 73 0 1
+0 74 26 5
 1
 end_operator
 begin_operator
@@ -139148,8 +139148,8 @@ succumb laceration-20 love haroset neptune vulcan
 1
 21 4
 2
-0 74 26 5
 0 73 1 3
+0 74 26 5
 1
 end_operator
 begin_operator
@@ -139157,8 +139157,8 @@ succumb laceration-20 love haroset vulcan venus
 1
 21 4
 2
-0 74 26 5
 0 73 3 2
+0 74 26 5
 1
 end_operator
 begin_operator
@@ -139166,8 +139166,8 @@ succumb laceration-20 love lemon mars neptune
 1
 21 5
 2
-0 74 26 6
 0 73 0 1
+0 74 26 6
 1
 end_operator
 begin_operator
@@ -139175,8 +139175,8 @@ succumb laceration-20 love lemon neptune vulcan
 1
 21 5
 2
-0 74 26 6
 0 73 1 3
+0 74 26 6
 1
 end_operator
 begin_operator
@@ -139184,8 +139184,8 @@ succumb laceration-20 love lemon vulcan venus
 1
 21 5
 2
-0 74 26 6
 0 73 3 2
+0 74 26 6
 1
 end_operator
 begin_operator
@@ -139193,8 +139193,8 @@ succumb laceration-20 love lobster mars neptune
 1
 21 6
 2
-0 74 26 8
 0 73 0 1
+0 74 26 8
 1
 end_operator
 begin_operator
@@ -139202,8 +139202,8 @@ succumb laceration-20 love lobster neptune vulcan
 1
 21 6
 2
-0 74 26 8
 0 73 1 3
+0 74 26 8
 1
 end_operator
 begin_operator
@@ -139211,8 +139211,8 @@ succumb laceration-20 love lobster vulcan venus
 1
 21 6
 2
-0 74 26 8
 0 73 3 2
+0 74 26 8
 1
 end_operator
 begin_operator
@@ -139220,8 +139220,8 @@ succumb laceration-20 love marzipan mars neptune
 1
 21 7
 2
-0 74 26 9
 0 73 0 1
+0 74 26 9
 1
 end_operator
 begin_operator
@@ -139229,8 +139229,8 @@ succumb laceration-20 love marzipan neptune vulcan
 1
 21 7
 2
-0 74 26 9
 0 73 1 3
+0 74 26 9
 1
 end_operator
 begin_operator
@@ -139238,8 +139238,8 @@ succumb laceration-20 love marzipan vulcan venus
 1
 21 7
 2
-0 74 26 9
 0 73 3 2
+0 74 26 9
 1
 end_operator
 begin_operator
@@ -139247,8 +139247,8 @@ succumb laceration-20 love melon mars neptune
 1
 21 8
 2
-0 74 26 10
 0 73 0 1
+0 74 26 10
 1
 end_operator
 begin_operator
@@ -139256,8 +139256,8 @@ succumb laceration-20 love melon neptune vulcan
 1
 21 8
 2
-0 74 26 10
 0 73 1 3
+0 74 26 10
 1
 end_operator
 begin_operator
@@ -139265,8 +139265,8 @@ succumb laceration-20 love melon vulcan venus
 1
 21 8
 2
-0 74 26 10
 0 73 3 2
+0 74 26 10
 1
 end_operator
 begin_operator
@@ -139274,8 +139274,8 @@ succumb laceration-20 love muffin mars neptune
 1
 21 9
 2
-0 74 26 11
 0 73 0 1
+0 74 26 11
 1
 end_operator
 begin_operator
@@ -139283,8 +139283,8 @@ succumb laceration-20 love muffin neptune vulcan
 1
 21 9
 2
-0 74 26 11
 0 73 1 3
+0 74 26 11
 1
 end_operator
 begin_operator
@@ -139292,8 +139292,8 @@ succumb laceration-20 love muffin vulcan venus
 1
 21 9
 2
-0 74 26 11
 0 73 3 2
+0 74 26 11
 1
 end_operator
 begin_operator
@@ -139301,8 +139301,8 @@ succumb laceration-20 love onion mars neptune
 1
 21 10
 2
-0 74 26 13
 0 73 0 1
+0 74 26 13
 1
 end_operator
 begin_operator
@@ -139310,8 +139310,8 @@ succumb laceration-20 love onion neptune vulcan
 1
 21 10
 2
-0 74 26 13
 0 73 1 3
+0 74 26 13
 1
 end_operator
 begin_operator
@@ -139319,8 +139319,8 @@ succumb laceration-20 love onion vulcan venus
 1
 21 10
 2
-0 74 26 13
 0 73 3 2
+0 74 26 13
 1
 end_operator
 begin_operator
@@ -139328,8 +139328,8 @@ succumb laceration-20 love papaya mars neptune
 1
 21 11
 2
-0 74 26 14
 0 73 0 1
+0 74 26 14
 1
 end_operator
 begin_operator
@@ -139337,8 +139337,8 @@ succumb laceration-20 love papaya neptune vulcan
 1
 21 11
 2
-0 74 26 14
 0 73 1 3
+0 74 26 14
 1
 end_operator
 begin_operator
@@ -139346,8 +139346,8 @@ succumb laceration-20 love papaya vulcan venus
 1
 21 11
 2
-0 74 26 14
 0 73 3 2
+0 74 26 14
 1
 end_operator
 begin_operator
@@ -139355,8 +139355,8 @@ succumb laceration-20 love potato mars neptune
 1
 21 12
 2
-0 74 26 15
 0 73 0 1
+0 74 26 15
 1
 end_operator
 begin_operator
@@ -139364,8 +139364,8 @@ succumb laceration-20 love potato neptune vulcan
 1
 21 12
 2
-0 74 26 15
 0 73 1 3
+0 74 26 15
 1
 end_operator
 begin_operator
@@ -139373,8 +139373,8 @@ succumb laceration-20 love potato vulcan venus
 1
 21 12
 2
-0 74 26 15
 0 73 3 2
+0 74 26 15
 1
 end_operator
 begin_operator
@@ -139382,8 +139382,8 @@ succumb laceration-20 love scallion mars neptune
 1
 21 13
 2
-0 74 26 17
 0 73 0 1
+0 74 26 17
 1
 end_operator
 begin_operator
@@ -139391,8 +139391,8 @@ succumb laceration-20 love scallion neptune vulcan
 1
 21 13
 2
-0 74 26 17
 0 73 1 3
+0 74 26 17
 1
 end_operator
 begin_operator
@@ -139400,8 +139400,8 @@ succumb laceration-20 love scallion vulcan venus
 1
 21 13
 2
-0 74 26 17
 0 73 3 2
+0 74 26 17
 1
 end_operator
 begin_operator
@@ -139409,8 +139409,8 @@ succumb laceration-20 love scallop mars neptune
 1
 21 14
 2
-0 74 26 18
 0 73 0 1
+0 74 26 18
 1
 end_operator
 begin_operator
@@ -139418,8 +139418,8 @@ succumb laceration-20 love scallop neptune vulcan
 1
 21 14
 2
-0 74 26 18
 0 73 1 3
+0 74 26 18
 1
 end_operator
 begin_operator
@@ -139427,8 +139427,8 @@ succumb laceration-20 love scallop vulcan venus
 1
 21 14
 2
-0 74 26 18
 0 73 3 2
+0 74 26 18
 1
 end_operator
 begin_operator
@@ -139436,8 +139436,8 @@ succumb laceration-20 love turkey mars neptune
 1
 21 15
 2
-0 74 26 19
 0 73 0 1
+0 74 26 19
 1
 end_operator
 begin_operator
@@ -139445,8 +139445,8 @@ succumb laceration-20 love turkey neptune vulcan
 1
 21 15
 2
-0 74 26 19
 0 73 1 3
+0 74 26 19
 1
 end_operator
 begin_operator
@@ -139454,8 +139454,8 @@ succumb laceration-20 love turkey vulcan venus
 1
 21 15
 2
-0 74 26 19
 0 73 3 2
+0 74 26 19
 1
 end_operator
 begin_operator
@@ -139463,8 +139463,8 @@ succumb laceration-20 satisfaction chocolate mars neptune
 1
 4 0
 2
-0 74 27 1
 0 63 0 1
+0 74 27 1
 1
 end_operator
 begin_operator
@@ -139472,8 +139472,8 @@ succumb laceration-20 satisfaction chocolate neptune vulcan
 1
 4 0
 2
-0 74 27 1
 0 63 1 3
+0 74 27 1
 1
 end_operator
 begin_operator
@@ -139481,8 +139481,8 @@ succumb laceration-20 satisfaction chocolate vulcan venus
 1
 4 0
 2
-0 74 27 1
 0 63 3 2
+0 74 27 1
 1
 end_operator
 begin_operator
@@ -139490,8 +139490,8 @@ succumb laceration-20 satisfaction lettuce mars neptune
 1
 4 1
 2
-0 74 27 7
 0 63 0 1
+0 74 27 7
 1
 end_operator
 begin_operator
@@ -139499,8 +139499,8 @@ succumb laceration-20 satisfaction lettuce neptune vulcan
 1
 4 1
 2
-0 74 27 7
 0 63 1 3
+0 74 27 7
 1
 end_operator
 begin_operator
@@ -139508,8 +139508,8 @@ succumb laceration-20 satisfaction lettuce vulcan venus
 1
 4 1
 2
-0 74 27 7
 0 63 3 2
+0 74 27 7
 1
 end_operator
 begin_operator
@@ -139517,8 +139517,8 @@ succumb laceration-20 satisfaction marzipan mars neptune
 1
 4 2
 2
-0 74 27 9
 0 63 0 1
+0 74 27 9
 1
 end_operator
 begin_operator
@@ -139526,8 +139526,8 @@ succumb laceration-20 satisfaction marzipan neptune vulcan
 1
 4 2
 2
-0 74 27 9
 0 63 1 3
+0 74 27 9
 1
 end_operator
 begin_operator
@@ -139535,8 +139535,8 @@ succumb laceration-20 satisfaction marzipan vulcan venus
 1
 4 2
 2
-0 74 27 9
 0 63 3 2
+0 74 27 9
 1
 end_operator
 begin_operator
@@ -139544,8 +139544,8 @@ succumb laceration-20 satisfaction rice mars neptune
 1
 4 3
 2
-0 74 27 16
 0 63 0 1
+0 74 27 16
 1
 end_operator
 begin_operator
@@ -139553,8 +139553,8 @@ succumb laceration-20 satisfaction rice neptune vulcan
 1
 4 3
 2
-0 74 27 16
 0 63 1 3
+0 74 27 16
 1
 end_operator
 begin_operator
@@ -139562,8 +139562,8 @@ succumb laceration-20 satisfaction rice vulcan venus
 1
 4 3
 2
-0 74 27 16
 0 63 3 2
+0 74 27 16
 1
 end_operator
 begin_operator
@@ -139571,8 +139571,8 @@ succumb laceration-20 satisfaction scallop mars neptune
 1
 4 4
 2
-0 74 27 18
 0 63 0 1
+0 74 27 18
 1
 end_operator
 begin_operator
@@ -139580,8 +139580,8 @@ succumb laceration-20 satisfaction scallop neptune vulcan
 1
 4 4
 2
-0 74 27 18
 0 63 1 3
+0 74 27 18
 1
 end_operator
 begin_operator
@@ -139589,8 +139589,8 @@ succumb laceration-20 satisfaction scallop vulcan venus
 1
 4 4
 2
-0 74 27 18
 0 63 3 2
+0 74 27 18
 1
 end_operator
 begin_operator
@@ -139598,8 +139598,8 @@ succumb laceration-20 satisfaction yogurt mars neptune
 1
 4 5
 2
-0 74 27 20
 0 63 0 1
+0 74 27 20
 1
 end_operator
 begin_operator
@@ -139607,8 +139607,8 @@ succumb laceration-20 satisfaction yogurt neptune vulcan
 1
 4 5
 2
-0 74 27 20
 0 63 1 3
+0 74 27 20
 1
 end_operator
 begin_operator
@@ -139616,8 +139616,8 @@ succumb laceration-20 satisfaction yogurt vulcan venus
 1
 4 5
 2
-0 74 27 20
 0 63 3 2
+0 74 27 20
 1
 end_operator
 begin_operator
@@ -140488,24 +140488,24 @@ begin_operator
 succumb laceration-30 curiosity ham mars neptune
 0
 2
-0 57 23 3
 0 23 0 1
+0 57 23 3
 1
 end_operator
 begin_operator
 succumb laceration-30 curiosity ham neptune vulcan
 0
 2
-0 57 23 3
 0 23 1 3
+0 57 23 3
 1
 end_operator
 begin_operator
 succumb laceration-30 curiosity ham vulcan venus
 0
 2
-0 57 23 3
 0 23 3 2
+0 57 23 3
 1
 end_operator
 begin_operator
@@ -140513,8 +140513,8 @@ succumb laceration-30 entertainment marzipan mars neptune
 1
 6 0
 2
-0 57 24 9
 0 50 0 1
+0 57 24 9
 1
 end_operator
 begin_operator
@@ -140522,8 +140522,8 @@ succumb laceration-30 entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 57 24 9
 0 50 1 3
+0 57 24 9
 1
 end_operator
 begin_operator
@@ -140531,8 +140531,8 @@ succumb laceration-30 entertainment marzipan vulcan venus
 1
 6 0
 2
-0 57 24 9
 0 50 3 2
+0 57 24 9
 1
 end_operator
 begin_operator
@@ -140540,8 +140540,8 @@ succumb laceration-30 entertainment mutton mars neptune
 1
 6 1
 2
-0 57 24 12
 0 50 0 1
+0 57 24 12
 1
 end_operator
 begin_operator
@@ -140549,8 +140549,8 @@ succumb laceration-30 entertainment mutton neptune vulcan
 1
 6 1
 2
-0 57 24 12
 0 50 1 3
+0 57 24 12
 1
 end_operator
 begin_operator
@@ -140558,8 +140558,8 @@ succumb laceration-30 entertainment mutton vulcan venus
 1
 6 1
 2
-0 57 24 12
 0 50 3 2
+0 57 24 12
 1
 end_operator
 begin_operator
@@ -140567,8 +140567,8 @@ succumb laceration-30 entertainment scallop mars neptune
 1
 6 2
 2
-0 57 24 18
 0 50 0 1
+0 57 24 18
 1
 end_operator
 begin_operator
@@ -140576,8 +140576,8 @@ succumb laceration-30 entertainment scallop neptune vulcan
 1
 6 2
 2
-0 57 24 18
 0 50 1 3
+0 57 24 18
 1
 end_operator
 begin_operator
@@ -140585,8 +140585,8 @@ succumb laceration-30 entertainment scallop vulcan venus
 1
 6 2
 2
-0 57 24 18
 0 50 3 2
+0 57 24 18
 1
 end_operator
 begin_operator
@@ -142213,24 +142213,24 @@ begin_operator
 succumb laceration-7 curiosity ham mars neptune
 0
 2
-0 58 23 3
 0 23 0 1
+0 58 23 3
 1
 end_operator
 begin_operator
 succumb laceration-7 curiosity ham neptune vulcan
 0
 2
-0 58 23 3
 0 23 1 3
+0 58 23 3
 1
 end_operator
 begin_operator
 succumb laceration-7 curiosity ham vulcan venus
 0
 2
-0 58 23 3
 0 23 3 2
+0 58 23 3
 1
 end_operator
 begin_operator
@@ -142238,8 +142238,8 @@ succumb laceration-7 entertainment marzipan mars neptune
 1
 6 0
 2
-0 58 24 9
 0 50 0 1
+0 58 24 9
 1
 end_operator
 begin_operator
@@ -142247,8 +142247,8 @@ succumb laceration-7 entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 58 24 9
 0 50 1 3
+0 58 24 9
 1
 end_operator
 begin_operator
@@ -142256,8 +142256,8 @@ succumb laceration-7 entertainment marzipan vulcan venus
 1
 6 0
 2
-0 58 24 9
 0 50 3 2
+0 58 24 9
 1
 end_operator
 begin_operator
@@ -142265,8 +142265,8 @@ succumb laceration-7 entertainment mutton mars neptune
 1
 6 1
 2
-0 58 24 12
 0 50 0 1
+0 58 24 12
 1
 end_operator
 begin_operator
@@ -142274,8 +142274,8 @@ succumb laceration-7 entertainment mutton neptune vulcan
 1
 6 1
 2
-0 58 24 12
 0 50 1 3
+0 58 24 12
 1
 end_operator
 begin_operator
@@ -142283,8 +142283,8 @@ succumb laceration-7 entertainment mutton vulcan venus
 1
 6 1
 2
-0 58 24 12
 0 50 3 2
+0 58 24 12
 1
 end_operator
 begin_operator
@@ -142292,8 +142292,8 @@ succumb laceration-7 entertainment scallop mars neptune
 1
 6 2
 2
-0 58 24 18
 0 50 0 1
+0 58 24 18
 1
 end_operator
 begin_operator
@@ -142301,8 +142301,8 @@ succumb laceration-7 entertainment scallop neptune vulcan
 1
 6 2
 2
-0 58 24 18
 0 50 1 3
+0 58 24 18
 1
 end_operator
 begin_operator
@@ -142310,8 +142310,8 @@ succumb laceration-7 entertainment scallop vulcan venus
 1
 6 2
 2
-0 58 24 18
 0 50 3 2
+0 58 24 18
 1
 end_operator
 begin_operator
@@ -143938,24 +143938,24 @@ begin_operator
 succumb loneliness curiosity ham mars neptune
 0
 2
-0 59 23 3
 0 23 0 1
+0 59 23 3
 1
 end_operator
 begin_operator
 succumb loneliness curiosity ham neptune vulcan
 0
 2
-0 59 23 3
 0 23 1 3
+0 59 23 3
 1
 end_operator
 begin_operator
 succumb loneliness curiosity ham vulcan venus
 0
 2
-0 59 23 3
 0 23 3 2
+0 59 23 3
 1
 end_operator
 begin_operator
@@ -143963,8 +143963,8 @@ succumb loneliness entertainment marzipan mars neptune
 1
 6 0
 2
-0 59 24 9
 0 50 0 1
+0 59 24 9
 1
 end_operator
 begin_operator
@@ -143972,8 +143972,8 @@ succumb loneliness entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 59 24 9
 0 50 1 3
+0 59 24 9
 1
 end_operator
 begin_operator
@@ -143981,8 +143981,8 @@ succumb loneliness entertainment marzipan vulcan venus
 1
 6 0
 2
-0 59 24 9
 0 50 3 2
+0 59 24 9
 1
 end_operator
 begin_operator
@@ -143990,8 +143990,8 @@ succumb loneliness entertainment mutton mars neptune
 1
 6 1
 2
-0 59 24 12
 0 50 0 1
+0 59 24 12
 1
 end_operator
 begin_operator
@@ -143999,8 +143999,8 @@ succumb loneliness entertainment mutton neptune vulcan
 1
 6 1
 2
-0 59 24 12
 0 50 1 3
+0 59 24 12
 1
 end_operator
 begin_operator
@@ -144008,8 +144008,8 @@ succumb loneliness entertainment mutton vulcan venus
 1
 6 1
 2
-0 59 24 12
 0 50 3 2
+0 59 24 12
 1
 end_operator
 begin_operator
@@ -144017,8 +144017,8 @@ succumb loneliness entertainment scallop mars neptune
 1
 6 2
 2
-0 59 24 18
 0 50 0 1
+0 59 24 18
 1
 end_operator
 begin_operator
@@ -144026,8 +144026,8 @@ succumb loneliness entertainment scallop neptune vulcan
 1
 6 2
 2
-0 59 24 18
 0 50 1 3
+0 59 24 18
 1
 end_operator
 begin_operator
@@ -144035,8 +144035,8 @@ succumb loneliness entertainment scallop vulcan venus
 1
 6 2
 2
-0 59 24 18
 0 50 3 2
+0 59 24 18
 1
 end_operator
 begin_operator
@@ -145663,24 +145663,24 @@ begin_operator
 succumb loneliness-11 curiosity ham mars neptune
 0
 2
-0 60 23 3
 0 23 0 1
+0 60 23 3
 1
 end_operator
 begin_operator
 succumb loneliness-11 curiosity ham neptune vulcan
 0
 2
-0 60 23 3
 0 23 1 3
+0 60 23 3
 1
 end_operator
 begin_operator
 succumb loneliness-11 curiosity ham vulcan venus
 0
 2
-0 60 23 3
 0 23 3 2
+0 60 23 3
 1
 end_operator
 begin_operator
@@ -145688,8 +145688,8 @@ succumb loneliness-11 entertainment marzipan mars neptune
 1
 6 0
 2
-0 60 24 9
 0 50 0 1
+0 60 24 9
 1
 end_operator
 begin_operator
@@ -145697,8 +145697,8 @@ succumb loneliness-11 entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 60 24 9
 0 50 1 3
+0 60 24 9
 1
 end_operator
 begin_operator
@@ -145706,8 +145706,8 @@ succumb loneliness-11 entertainment marzipan vulcan venus
 1
 6 0
 2
-0 60 24 9
 0 50 3 2
+0 60 24 9
 1
 end_operator
 begin_operator
@@ -145715,8 +145715,8 @@ succumb loneliness-11 entertainment mutton mars neptune
 1
 6 1
 2
-0 60 24 12
 0 50 0 1
+0 60 24 12
 1
 end_operator
 begin_operator
@@ -145724,8 +145724,8 @@ succumb loneliness-11 entertainment mutton neptune vulcan
 1
 6 1
 2
-0 60 24 12
 0 50 1 3
+0 60 24 12
 1
 end_operator
 begin_operator
@@ -145733,8 +145733,8 @@ succumb loneliness-11 entertainment mutton vulcan venus
 1
 6 1
 2
-0 60 24 12
 0 50 3 2
+0 60 24 12
 1
 end_operator
 begin_operator
@@ -145742,8 +145742,8 @@ succumb loneliness-11 entertainment scallop mars neptune
 1
 6 2
 2
-0 60 24 18
 0 50 0 1
+0 60 24 18
 1
 end_operator
 begin_operator
@@ -145751,8 +145751,8 @@ succumb loneliness-11 entertainment scallop neptune vulcan
 1
 6 2
 2
-0 60 24 18
 0 50 1 3
+0 60 24 18
 1
 end_operator
 begin_operator
@@ -145760,8 +145760,8 @@ succumb loneliness-11 entertainment scallop vulcan venus
 1
 6 2
 2
-0 60 24 18
 0 50 3 2
+0 60 24 18
 1
 end_operator
 begin_operator
@@ -147388,24 +147388,24 @@ begin_operator
 succumb loneliness-17 curiosity ham mars neptune
 0
 2
-0 61 23 3
 0 23 0 1
+0 61 23 3
 1
 end_operator
 begin_operator
 succumb loneliness-17 curiosity ham neptune vulcan
 0
 2
-0 61 23 3
 0 23 1 3
+0 61 23 3
 1
 end_operator
 begin_operator
 succumb loneliness-17 curiosity ham vulcan venus
 0
 2
-0 61 23 3
 0 23 3 2
+0 61 23 3
 1
 end_operator
 begin_operator
@@ -147413,8 +147413,8 @@ succumb loneliness-17 entertainment marzipan mars neptune
 1
 6 0
 2
-0 61 24 9
 0 50 0 1
+0 61 24 9
 1
 end_operator
 begin_operator
@@ -147422,8 +147422,8 @@ succumb loneliness-17 entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 61 24 9
 0 50 1 3
+0 61 24 9
 1
 end_operator
 begin_operator
@@ -147431,8 +147431,8 @@ succumb loneliness-17 entertainment marzipan vulcan venus
 1
 6 0
 2
-0 61 24 9
 0 50 3 2
+0 61 24 9
 1
 end_operator
 begin_operator
@@ -147440,8 +147440,8 @@ succumb loneliness-17 entertainment mutton mars neptune
 1
 6 1
 2
-0 61 24 12
 0 50 0 1
+0 61 24 12
 1
 end_operator
 begin_operator
@@ -147449,8 +147449,8 @@ succumb loneliness-17 entertainment mutton neptune vulcan
 1
 6 1
 2
-0 61 24 12
 0 50 1 3
+0 61 24 12
 1
 end_operator
 begin_operator
@@ -147458,8 +147458,8 @@ succumb loneliness-17 entertainment mutton vulcan venus
 1
 6 1
 2
-0 61 24 12
 0 50 3 2
+0 61 24 12
 1
 end_operator
 begin_operator
@@ -147467,8 +147467,8 @@ succumb loneliness-17 entertainment scallop mars neptune
 1
 6 2
 2
-0 61 24 18
 0 50 0 1
+0 61 24 18
 1
 end_operator
 begin_operator
@@ -147476,8 +147476,8 @@ succumb loneliness-17 entertainment scallop neptune vulcan
 1
 6 2
 2
-0 61 24 18
 0 50 1 3
+0 61 24 18
 1
 end_operator
 begin_operator
@@ -147485,8 +147485,8 @@ succumb loneliness-17 entertainment scallop vulcan venus
 1
 6 2
 2
-0 61 24 18
 0 50 3 2
+0 61 24 18
 1
 end_operator
 begin_operator
@@ -149113,24 +149113,24 @@ begin_operator
 succumb loneliness-32 curiosity ham mars neptune
 0
 2
-0 64 23 3
 0 23 0 1
+0 64 23 3
 1
 end_operator
 begin_operator
 succumb loneliness-32 curiosity ham neptune vulcan
 0
 2
-0 64 23 3
 0 23 1 3
+0 64 23 3
 1
 end_operator
 begin_operator
 succumb loneliness-32 curiosity ham vulcan venus
 0
 2
-0 64 23 3
 0 23 3 2
+0 64 23 3
 1
 end_operator
 begin_operator
@@ -149138,8 +149138,8 @@ succumb loneliness-32 entertainment marzipan mars neptune
 1
 6 0
 2
-0 64 24 9
 0 50 0 1
+0 64 24 9
 1
 end_operator
 begin_operator
@@ -149147,8 +149147,8 @@ succumb loneliness-32 entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 64 24 9
 0 50 1 3
+0 64 24 9
 1
 end_operator
 begin_operator
@@ -149156,8 +149156,8 @@ succumb loneliness-32 entertainment marzipan vulcan venus
 1
 6 0
 2
-0 64 24 9
 0 50 3 2
+0 64 24 9
 1
 end_operator
 begin_operator
@@ -149165,8 +149165,8 @@ succumb loneliness-32 entertainment mutton mars neptune
 1
 6 1
 2
-0 64 24 12
 0 50 0 1
+0 64 24 12
 1
 end_operator
 begin_operator
@@ -149174,8 +149174,8 @@ succumb loneliness-32 entertainment mutton neptune vulcan
 1
 6 1
 2
-0 64 24 12
 0 50 1 3
+0 64 24 12
 1
 end_operator
 begin_operator
@@ -149183,8 +149183,8 @@ succumb loneliness-32 entertainment mutton vulcan venus
 1
 6 1
 2
-0 64 24 12
 0 50 3 2
+0 64 24 12
 1
 end_operator
 begin_operator
@@ -149192,8 +149192,8 @@ succumb loneliness-32 entertainment scallop mars neptune
 1
 6 2
 2
-0 64 24 18
 0 50 0 1
+0 64 24 18
 1
 end_operator
 begin_operator
@@ -149201,8 +149201,8 @@ succumb loneliness-32 entertainment scallop neptune vulcan
 1
 6 2
 2
-0 64 24 18
 0 50 1 3
+0 64 24 18
 1
 end_operator
 begin_operator
@@ -149210,8 +149210,8 @@ succumb loneliness-32 entertainment scallop vulcan venus
 1
 6 2
 2
-0 64 24 18
 0 50 3 2
+0 64 24 18
 1
 end_operator
 begin_operator
@@ -149219,8 +149219,8 @@ succumb loneliness-32 intoxication chocolate mars neptune
 1
 3 0
 2
-0 64 25 1
 0 62 0 1
+0 64 25 1
 1
 end_operator
 begin_operator
@@ -149228,8 +149228,8 @@ succumb loneliness-32 intoxication chocolate neptune vulcan
 1
 3 0
 2
-0 64 25 1
 0 62 1 3
+0 64 25 1
 1
 end_operator
 begin_operator
@@ -149237,8 +149237,8 @@ succumb loneliness-32 intoxication chocolate vulcan venus
 1
 3 0
 2
-0 64 25 1
 0 62 3 2
+0 64 25 1
 1
 end_operator
 begin_operator
@@ -149246,8 +149246,8 @@ succumb loneliness-32 intoxication lettuce mars neptune
 1
 3 1
 2
-0 64 25 7
 0 62 0 1
+0 64 25 7
 1
 end_operator
 begin_operator
@@ -149255,8 +149255,8 @@ succumb loneliness-32 intoxication lettuce neptune vulcan
 1
 3 1
 2
-0 64 25 7
 0 62 1 3
+0 64 25 7
 1
 end_operator
 begin_operator
@@ -149264,8 +149264,8 @@ succumb loneliness-32 intoxication lettuce vulcan venus
 1
 3 1
 2
-0 64 25 7
 0 62 3 2
+0 64 25 7
 1
 end_operator
 begin_operator
@@ -149273,8 +149273,8 @@ succumb loneliness-32 intoxication marzipan mars neptune
 1
 3 2
 2
-0 64 25 9
 0 62 0 1
+0 64 25 9
 1
 end_operator
 begin_operator
@@ -149282,8 +149282,8 @@ succumb loneliness-32 intoxication marzipan neptune vulcan
 1
 3 2
 2
-0 64 25 9
 0 62 1 3
+0 64 25 9
 1
 end_operator
 begin_operator
@@ -149291,8 +149291,8 @@ succumb loneliness-32 intoxication marzipan vulcan venus
 1
 3 2
 2
-0 64 25 9
 0 62 3 2
+0 64 25 9
 1
 end_operator
 begin_operator
@@ -149300,8 +149300,8 @@ succumb loneliness-32 intoxication rice mars neptune
 1
 3 3
 2
-0 64 25 16
 0 62 0 1
+0 64 25 16
 1
 end_operator
 begin_operator
@@ -149309,8 +149309,8 @@ succumb loneliness-32 intoxication rice neptune vulcan
 1
 3 3
 2
-0 64 25 16
 0 62 1 3
+0 64 25 16
 1
 end_operator
 begin_operator
@@ -149318,8 +149318,8 @@ succumb loneliness-32 intoxication rice vulcan venus
 1
 3 3
 2
-0 64 25 16
 0 62 3 2
+0 64 25 16
 1
 end_operator
 begin_operator
@@ -149327,8 +149327,8 @@ succumb loneliness-32 intoxication scallop mars neptune
 1
 3 4
 2
-0 64 25 18
 0 62 0 1
+0 64 25 18
 1
 end_operator
 begin_operator
@@ -149336,8 +149336,8 @@ succumb loneliness-32 intoxication scallop neptune vulcan
 1
 3 4
 2
-0 64 25 18
 0 62 1 3
+0 64 25 18
 1
 end_operator
 begin_operator
@@ -149345,8 +149345,8 @@ succumb loneliness-32 intoxication scallop vulcan venus
 1
 3 4
 2
-0 64 25 18
 0 62 3 2
+0 64 25 18
 1
 end_operator
 begin_operator
@@ -149354,8 +149354,8 @@ succumb loneliness-32 intoxication yogurt mars neptune
 1
 3 5
 2
-0 64 25 20
 0 62 0 1
+0 64 25 20
 1
 end_operator
 begin_operator
@@ -149363,8 +149363,8 @@ succumb loneliness-32 intoxication yogurt neptune vulcan
 1
 3 5
 2
-0 64 25 20
 0 62 1 3
+0 64 25 20
 1
 end_operator
 begin_operator
@@ -149372,8 +149372,8 @@ succumb loneliness-32 intoxication yogurt vulcan venus
 1
 3 5
 2
-0 64 25 20
 0 62 3 2
+0 64 25 20
 1
 end_operator
 begin_operator
@@ -149813,8 +149813,8 @@ succumb loneliness-32 satisfaction chocolate mars neptune
 1
 4 0
 2
-0 64 27 1
 0 63 0 1
+0 64 27 1
 1
 end_operator
 begin_operator
@@ -149822,8 +149822,8 @@ succumb loneliness-32 satisfaction chocolate neptune vulcan
 1
 4 0
 2
-0 64 27 1
 0 63 1 3
+0 64 27 1
 1
 end_operator
 begin_operator
@@ -149831,8 +149831,8 @@ succumb loneliness-32 satisfaction chocolate vulcan venus
 1
 4 0
 2
-0 64 27 1
 0 63 3 2
+0 64 27 1
 1
 end_operator
 begin_operator
@@ -149840,8 +149840,8 @@ succumb loneliness-32 satisfaction lettuce mars neptune
 1
 4 1
 2
-0 64 27 7
 0 63 0 1
+0 64 27 7
 1
 end_operator
 begin_operator
@@ -149849,8 +149849,8 @@ succumb loneliness-32 satisfaction lettuce neptune vulcan
 1
 4 1
 2
-0 64 27 7
 0 63 1 3
+0 64 27 7
 1
 end_operator
 begin_operator
@@ -149858,8 +149858,8 @@ succumb loneliness-32 satisfaction lettuce vulcan venus
 1
 4 1
 2
-0 64 27 7
 0 63 3 2
+0 64 27 7
 1
 end_operator
 begin_operator
@@ -149867,8 +149867,8 @@ succumb loneliness-32 satisfaction marzipan mars neptune
 1
 4 2
 2
-0 64 27 9
 0 63 0 1
+0 64 27 9
 1
 end_operator
 begin_operator
@@ -149876,8 +149876,8 @@ succumb loneliness-32 satisfaction marzipan neptune vulcan
 1
 4 2
 2
-0 64 27 9
 0 63 1 3
+0 64 27 9
 1
 end_operator
 begin_operator
@@ -149885,8 +149885,8 @@ succumb loneliness-32 satisfaction marzipan vulcan venus
 1
 4 2
 2
-0 64 27 9
 0 63 3 2
+0 64 27 9
 1
 end_operator
 begin_operator
@@ -149894,8 +149894,8 @@ succumb loneliness-32 satisfaction rice mars neptune
 1
 4 3
 2
-0 64 27 16
 0 63 0 1
+0 64 27 16
 1
 end_operator
 begin_operator
@@ -149903,8 +149903,8 @@ succumb loneliness-32 satisfaction rice neptune vulcan
 1
 4 3
 2
-0 64 27 16
 0 63 1 3
+0 64 27 16
 1
 end_operator
 begin_operator
@@ -149912,8 +149912,8 @@ succumb loneliness-32 satisfaction rice vulcan venus
 1
 4 3
 2
-0 64 27 16
 0 63 3 2
+0 64 27 16
 1
 end_operator
 begin_operator
@@ -149921,8 +149921,8 @@ succumb loneliness-32 satisfaction scallop mars neptune
 1
 4 4
 2
-0 64 27 18
 0 63 0 1
+0 64 27 18
 1
 end_operator
 begin_operator
@@ -149930,8 +149930,8 @@ succumb loneliness-32 satisfaction scallop neptune vulcan
 1
 4 4
 2
-0 64 27 18
 0 63 1 3
+0 64 27 18
 1
 end_operator
 begin_operator
@@ -149939,8 +149939,8 @@ succumb loneliness-32 satisfaction scallop vulcan venus
 1
 4 4
 2
-0 64 27 18
 0 63 3 2
+0 64 27 18
 1
 end_operator
 begin_operator
@@ -149948,8 +149948,8 @@ succumb loneliness-32 satisfaction yogurt mars neptune
 1
 4 5
 2
-0 64 27 20
 0 63 0 1
+0 64 27 20
 1
 end_operator
 begin_operator
@@ -149957,8 +149957,8 @@ succumb loneliness-32 satisfaction yogurt neptune vulcan
 1
 4 5
 2
-0 64 27 20
 0 63 1 3
+0 64 27 20
 1
 end_operator
 begin_operator
@@ -149966,8 +149966,8 @@ succumb loneliness-32 satisfaction yogurt vulcan venus
 1
 4 5
 2
-0 64 27 20
 0 63 3 2
+0 64 27 20
 1
 end_operator
 begin_operator
@@ -150838,24 +150838,24 @@ begin_operator
 succumb prostatitis curiosity ham mars neptune
 0
 2
-0 65 23 3
 0 23 0 1
+0 65 23 3
 1
 end_operator
 begin_operator
 succumb prostatitis curiosity ham neptune vulcan
 0
 2
-0 65 23 3
 0 23 1 3
+0 65 23 3
 1
 end_operator
 begin_operator
 succumb prostatitis curiosity ham vulcan venus
 0
 2
-0 65 23 3
 0 23 3 2
+0 65 23 3
 1
 end_operator
 begin_operator
@@ -150863,8 +150863,8 @@ succumb prostatitis entertainment marzipan mars neptune
 1
 6 0
 2
-0 65 24 9
 0 50 0 1
+0 65 24 9
 1
 end_operator
 begin_operator
@@ -150872,8 +150872,8 @@ succumb prostatitis entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 65 24 9
 0 50 1 3
+0 65 24 9
 1
 end_operator
 begin_operator
@@ -150881,8 +150881,8 @@ succumb prostatitis entertainment marzipan vulcan venus
 1
 6 0
 2
-0 65 24 9
 0 50 3 2
+0 65 24 9
 1
 end_operator
 begin_operator
@@ -150890,8 +150890,8 @@ succumb prostatitis entertainment mutton mars neptune
 1
 6 1
 2
-0 65 24 12
 0 50 0 1
+0 65 24 12
 1
 end_operator
 begin_operator
@@ -150899,8 +150899,8 @@ succumb prostatitis entertainment mutton neptune vulcan
 1
 6 1
 2
-0 65 24 12
 0 50 1 3
+0 65 24 12
 1
 end_operator
 begin_operator
@@ -150908,8 +150908,8 @@ succumb prostatitis entertainment mutton vulcan venus
 1
 6 1
 2
-0 65 24 12
 0 50 3 2
+0 65 24 12
 1
 end_operator
 begin_operator
@@ -150917,8 +150917,8 @@ succumb prostatitis entertainment scallop mars neptune
 1
 6 2
 2
-0 65 24 18
 0 50 0 1
+0 65 24 18
 1
 end_operator
 begin_operator
@@ -150926,8 +150926,8 @@ succumb prostatitis entertainment scallop neptune vulcan
 1
 6 2
 2
-0 65 24 18
 0 50 1 3
+0 65 24 18
 1
 end_operator
 begin_operator
@@ -150935,8 +150935,8 @@ succumb prostatitis entertainment scallop vulcan venus
 1
 6 2
 2
-0 65 24 18
 0 50 3 2
+0 65 24 18
 1
 end_operator
 begin_operator
@@ -150944,8 +150944,8 @@ succumb prostatitis intoxication chocolate mars neptune
 1
 3 0
 2
-0 65 25 1
 0 62 0 1
+0 65 25 1
 1
 end_operator
 begin_operator
@@ -150953,8 +150953,8 @@ succumb prostatitis intoxication chocolate neptune vulcan
 1
 3 0
 2
-0 65 25 1
 0 62 1 3
+0 65 25 1
 1
 end_operator
 begin_operator
@@ -150962,8 +150962,8 @@ succumb prostatitis intoxication chocolate vulcan venus
 1
 3 0
 2
-0 65 25 1
 0 62 3 2
+0 65 25 1
 1
 end_operator
 begin_operator
@@ -150971,8 +150971,8 @@ succumb prostatitis intoxication lettuce mars neptune
 1
 3 1
 2
-0 65 25 7
 0 62 0 1
+0 65 25 7
 1
 end_operator
 begin_operator
@@ -150980,8 +150980,8 @@ succumb prostatitis intoxication lettuce neptune vulcan
 1
 3 1
 2
-0 65 25 7
 0 62 1 3
+0 65 25 7
 1
 end_operator
 begin_operator
@@ -150989,8 +150989,8 @@ succumb prostatitis intoxication lettuce vulcan venus
 1
 3 1
 2
-0 65 25 7
 0 62 3 2
+0 65 25 7
 1
 end_operator
 begin_operator
@@ -150998,8 +150998,8 @@ succumb prostatitis intoxication marzipan mars neptune
 1
 3 2
 2
-0 65 25 9
 0 62 0 1
+0 65 25 9
 1
 end_operator
 begin_operator
@@ -151007,8 +151007,8 @@ succumb prostatitis intoxication marzipan neptune vulcan
 1
 3 2
 2
-0 65 25 9
 0 62 1 3
+0 65 25 9
 1
 end_operator
 begin_operator
@@ -151016,8 +151016,8 @@ succumb prostatitis intoxication marzipan vulcan venus
 1
 3 2
 2
-0 65 25 9
 0 62 3 2
+0 65 25 9
 1
 end_operator
 begin_operator
@@ -151025,8 +151025,8 @@ succumb prostatitis intoxication rice mars neptune
 1
 3 3
 2
-0 65 25 16
 0 62 0 1
+0 65 25 16
 1
 end_operator
 begin_operator
@@ -151034,8 +151034,8 @@ succumb prostatitis intoxication rice neptune vulcan
 1
 3 3
 2
-0 65 25 16
 0 62 1 3
+0 65 25 16
 1
 end_operator
 begin_operator
@@ -151043,8 +151043,8 @@ succumb prostatitis intoxication rice vulcan venus
 1
 3 3
 2
-0 65 25 16
 0 62 3 2
+0 65 25 16
 1
 end_operator
 begin_operator
@@ -151052,8 +151052,8 @@ succumb prostatitis intoxication scallop mars neptune
 1
 3 4
 2
-0 65 25 18
 0 62 0 1
+0 65 25 18
 1
 end_operator
 begin_operator
@@ -151061,8 +151061,8 @@ succumb prostatitis intoxication scallop neptune vulcan
 1
 3 4
 2
-0 65 25 18
 0 62 1 3
+0 65 25 18
 1
 end_operator
 begin_operator
@@ -151070,8 +151070,8 @@ succumb prostatitis intoxication scallop vulcan venus
 1
 3 4
 2
-0 65 25 18
 0 62 3 2
+0 65 25 18
 1
 end_operator
 begin_operator
@@ -151079,8 +151079,8 @@ succumb prostatitis intoxication yogurt mars neptune
 1
 3 5
 2
-0 65 25 20
 0 62 0 1
+0 65 25 20
 1
 end_operator
 begin_operator
@@ -151088,8 +151088,8 @@ succumb prostatitis intoxication yogurt neptune vulcan
 1
 3 5
 2
-0 65 25 20
 0 62 1 3
+0 65 25 20
 1
 end_operator
 begin_operator
@@ -151097,8 +151097,8 @@ succumb prostatitis intoxication yogurt vulcan venus
 1
 3 5
 2
-0 65 25 20
 0 62 3 2
+0 65 25 20
 1
 end_operator
 begin_operator
@@ -151538,8 +151538,8 @@ succumb prostatitis satisfaction chocolate mars neptune
 1
 4 0
 2
-0 65 27 1
 0 63 0 1
+0 65 27 1
 1
 end_operator
 begin_operator
@@ -151547,8 +151547,8 @@ succumb prostatitis satisfaction chocolate neptune vulcan
 1
 4 0
 2
-0 65 27 1
 0 63 1 3
+0 65 27 1
 1
 end_operator
 begin_operator
@@ -151556,8 +151556,8 @@ succumb prostatitis satisfaction chocolate vulcan venus
 1
 4 0
 2
-0 65 27 1
 0 63 3 2
+0 65 27 1
 1
 end_operator
 begin_operator
@@ -151565,8 +151565,8 @@ succumb prostatitis satisfaction lettuce mars neptune
 1
 4 1
 2
-0 65 27 7
 0 63 0 1
+0 65 27 7
 1
 end_operator
 begin_operator
@@ -151574,8 +151574,8 @@ succumb prostatitis satisfaction lettuce neptune vulcan
 1
 4 1
 2
-0 65 27 7
 0 63 1 3
+0 65 27 7
 1
 end_operator
 begin_operator
@@ -151583,8 +151583,8 @@ succumb prostatitis satisfaction lettuce vulcan venus
 1
 4 1
 2
-0 65 27 7
 0 63 3 2
+0 65 27 7
 1
 end_operator
 begin_operator
@@ -151592,8 +151592,8 @@ succumb prostatitis satisfaction marzipan mars neptune
 1
 4 2
 2
-0 65 27 9
 0 63 0 1
+0 65 27 9
 1
 end_operator
 begin_operator
@@ -151601,8 +151601,8 @@ succumb prostatitis satisfaction marzipan neptune vulcan
 1
 4 2
 2
-0 65 27 9
 0 63 1 3
+0 65 27 9
 1
 end_operator
 begin_operator
@@ -151610,8 +151610,8 @@ succumb prostatitis satisfaction marzipan vulcan venus
 1
 4 2
 2
-0 65 27 9
 0 63 3 2
+0 65 27 9
 1
 end_operator
 begin_operator
@@ -151619,8 +151619,8 @@ succumb prostatitis satisfaction rice mars neptune
 1
 4 3
 2
-0 65 27 16
 0 63 0 1
+0 65 27 16
 1
 end_operator
 begin_operator
@@ -151628,8 +151628,8 @@ succumb prostatitis satisfaction rice neptune vulcan
 1
 4 3
 2
-0 65 27 16
 0 63 1 3
+0 65 27 16
 1
 end_operator
 begin_operator
@@ -151637,8 +151637,8 @@ succumb prostatitis satisfaction rice vulcan venus
 1
 4 3
 2
-0 65 27 16
 0 63 3 2
+0 65 27 16
 1
 end_operator
 begin_operator
@@ -151646,8 +151646,8 @@ succumb prostatitis satisfaction scallop mars neptune
 1
 4 4
 2
-0 65 27 18
 0 63 0 1
+0 65 27 18
 1
 end_operator
 begin_operator
@@ -151655,8 +151655,8 @@ succumb prostatitis satisfaction scallop neptune vulcan
 1
 4 4
 2
-0 65 27 18
 0 63 1 3
+0 65 27 18
 1
 end_operator
 begin_operator
@@ -151664,8 +151664,8 @@ succumb prostatitis satisfaction scallop vulcan venus
 1
 4 4
 2
-0 65 27 18
 0 63 3 2
+0 65 27 18
 1
 end_operator
 begin_operator
@@ -151673,8 +151673,8 @@ succumb prostatitis satisfaction yogurt mars neptune
 1
 4 5
 2
-0 65 27 20
 0 63 0 1
+0 65 27 20
 1
 end_operator
 begin_operator
@@ -151682,8 +151682,8 @@ succumb prostatitis satisfaction yogurt neptune vulcan
 1
 4 5
 2
-0 65 27 20
 0 63 1 3
+0 65 27 20
 1
 end_operator
 begin_operator
@@ -151691,8 +151691,8 @@ succumb prostatitis satisfaction yogurt vulcan venus
 1
 4 5
 2
-0 65 27 20
 0 63 3 2
+0 65 27 20
 1
 end_operator
 begin_operator
@@ -152563,24 +152563,24 @@ begin_operator
 succumb prostatitis-13 curiosity ham mars neptune
 0
 2
-0 66 23 3
 0 23 0 1
+0 66 23 3
 1
 end_operator
 begin_operator
 succumb prostatitis-13 curiosity ham neptune vulcan
 0
 2
-0 66 23 3
 0 23 1 3
+0 66 23 3
 1
 end_operator
 begin_operator
 succumb prostatitis-13 curiosity ham vulcan venus
 0
 2
-0 66 23 3
 0 23 3 2
+0 66 23 3
 1
 end_operator
 begin_operator
@@ -152588,8 +152588,8 @@ succumb prostatitis-13 entertainment marzipan mars neptune
 1
 6 0
 2
-0 66 24 9
 0 50 0 1
+0 66 24 9
 1
 end_operator
 begin_operator
@@ -152597,8 +152597,8 @@ succumb prostatitis-13 entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 66 24 9
 0 50 1 3
+0 66 24 9
 1
 end_operator
 begin_operator
@@ -152606,8 +152606,8 @@ succumb prostatitis-13 entertainment marzipan vulcan venus
 1
 6 0
 2
-0 66 24 9
 0 50 3 2
+0 66 24 9
 1
 end_operator
 begin_operator
@@ -152615,8 +152615,8 @@ succumb prostatitis-13 entertainment mutton mars neptune
 1
 6 1
 2
-0 66 24 12
 0 50 0 1
+0 66 24 12
 1
 end_operator
 begin_operator
@@ -152624,8 +152624,8 @@ succumb prostatitis-13 entertainment mutton neptune vulcan
 1
 6 1
 2
-0 66 24 12
 0 50 1 3
+0 66 24 12
 1
 end_operator
 begin_operator
@@ -152633,8 +152633,8 @@ succumb prostatitis-13 entertainment mutton vulcan venus
 1
 6 1
 2
-0 66 24 12
 0 50 3 2
+0 66 24 12
 1
 end_operator
 begin_operator
@@ -152642,8 +152642,8 @@ succumb prostatitis-13 entertainment scallop mars neptune
 1
 6 2
 2
-0 66 24 18
 0 50 0 1
+0 66 24 18
 1
 end_operator
 begin_operator
@@ -152651,8 +152651,8 @@ succumb prostatitis-13 entertainment scallop neptune vulcan
 1
 6 2
 2
-0 66 24 18
 0 50 1 3
+0 66 24 18
 1
 end_operator
 begin_operator
@@ -152660,8 +152660,8 @@ succumb prostatitis-13 entertainment scallop vulcan venus
 1
 6 2
 2
-0 66 24 18
 0 50 3 2
+0 66 24 18
 1
 end_operator
 begin_operator
@@ -152669,8 +152669,8 @@ succumb prostatitis-13 intoxication chocolate mars neptune
 1
 3 0
 2
-0 66 25 1
 0 62 0 1
+0 66 25 1
 1
 end_operator
 begin_operator
@@ -152678,8 +152678,8 @@ succumb prostatitis-13 intoxication chocolate neptune vulcan
 1
 3 0
 2
-0 66 25 1
 0 62 1 3
+0 66 25 1
 1
 end_operator
 begin_operator
@@ -152687,8 +152687,8 @@ succumb prostatitis-13 intoxication chocolate vulcan venus
 1
 3 0
 2
-0 66 25 1
 0 62 3 2
+0 66 25 1
 1
 end_operator
 begin_operator
@@ -152696,8 +152696,8 @@ succumb prostatitis-13 intoxication lettuce mars neptune
 1
 3 1
 2
-0 66 25 7
 0 62 0 1
+0 66 25 7
 1
 end_operator
 begin_operator
@@ -152705,8 +152705,8 @@ succumb prostatitis-13 intoxication lettuce neptune vulcan
 1
 3 1
 2
-0 66 25 7
 0 62 1 3
+0 66 25 7
 1
 end_operator
 begin_operator
@@ -152714,8 +152714,8 @@ succumb prostatitis-13 intoxication lettuce vulcan venus
 1
 3 1
 2
-0 66 25 7
 0 62 3 2
+0 66 25 7
 1
 end_operator
 begin_operator
@@ -152723,8 +152723,8 @@ succumb prostatitis-13 intoxication marzipan mars neptune
 1
 3 2
 2
-0 66 25 9
 0 62 0 1
+0 66 25 9
 1
 end_operator
 begin_operator
@@ -152732,8 +152732,8 @@ succumb prostatitis-13 intoxication marzipan neptune vulcan
 1
 3 2
 2
-0 66 25 9
 0 62 1 3
+0 66 25 9
 1
 end_operator
 begin_operator
@@ -152741,8 +152741,8 @@ succumb prostatitis-13 intoxication marzipan vulcan venus
 1
 3 2
 2
-0 66 25 9
 0 62 3 2
+0 66 25 9
 1
 end_operator
 begin_operator
@@ -152750,8 +152750,8 @@ succumb prostatitis-13 intoxication rice mars neptune
 1
 3 3
 2
-0 66 25 16
 0 62 0 1
+0 66 25 16
 1
 end_operator
 begin_operator
@@ -152759,8 +152759,8 @@ succumb prostatitis-13 intoxication rice neptune vulcan
 1
 3 3
 2
-0 66 25 16
 0 62 1 3
+0 66 25 16
 1
 end_operator
 begin_operator
@@ -152768,8 +152768,8 @@ succumb prostatitis-13 intoxication rice vulcan venus
 1
 3 3
 2
-0 66 25 16
 0 62 3 2
+0 66 25 16
 1
 end_operator
 begin_operator
@@ -152777,8 +152777,8 @@ succumb prostatitis-13 intoxication scallop mars neptune
 1
 3 4
 2
-0 66 25 18
 0 62 0 1
+0 66 25 18
 1
 end_operator
 begin_operator
@@ -152786,8 +152786,8 @@ succumb prostatitis-13 intoxication scallop neptune vulcan
 1
 3 4
 2
-0 66 25 18
 0 62 1 3
+0 66 25 18
 1
 end_operator
 begin_operator
@@ -152795,8 +152795,8 @@ succumb prostatitis-13 intoxication scallop vulcan venus
 1
 3 4
 2
-0 66 25 18
 0 62 3 2
+0 66 25 18
 1
 end_operator
 begin_operator
@@ -152804,8 +152804,8 @@ succumb prostatitis-13 intoxication yogurt mars neptune
 1
 3 5
 2
-0 66 25 20
 0 62 0 1
+0 66 25 20
 1
 end_operator
 begin_operator
@@ -152813,8 +152813,8 @@ succumb prostatitis-13 intoxication yogurt neptune vulcan
 1
 3 5
 2
-0 66 25 20
 0 62 1 3
+0 66 25 20
 1
 end_operator
 begin_operator
@@ -152822,8 +152822,8 @@ succumb prostatitis-13 intoxication yogurt vulcan venus
 1
 3 5
 2
-0 66 25 20
 0 62 3 2
+0 66 25 20
 1
 end_operator
 begin_operator
@@ -153263,8 +153263,8 @@ succumb prostatitis-13 satisfaction chocolate mars neptune
 1
 4 0
 2
-0 66 27 1
 0 63 0 1
+0 66 27 1
 1
 end_operator
 begin_operator
@@ -153272,8 +153272,8 @@ succumb prostatitis-13 satisfaction chocolate neptune vulcan
 1
 4 0
 2
-0 66 27 1
 0 63 1 3
+0 66 27 1
 1
 end_operator
 begin_operator
@@ -153281,8 +153281,8 @@ succumb prostatitis-13 satisfaction chocolate vulcan venus
 1
 4 0
 2
-0 66 27 1
 0 63 3 2
+0 66 27 1
 1
 end_operator
 begin_operator
@@ -153290,8 +153290,8 @@ succumb prostatitis-13 satisfaction lettuce mars neptune
 1
 4 1
 2
-0 66 27 7
 0 63 0 1
+0 66 27 7
 1
 end_operator
 begin_operator
@@ -153299,8 +153299,8 @@ succumb prostatitis-13 satisfaction lettuce neptune vulcan
 1
 4 1
 2
-0 66 27 7
 0 63 1 3
+0 66 27 7
 1
 end_operator
 begin_operator
@@ -153308,8 +153308,8 @@ succumb prostatitis-13 satisfaction lettuce vulcan venus
 1
 4 1
 2
-0 66 27 7
 0 63 3 2
+0 66 27 7
 1
 end_operator
 begin_operator
@@ -153317,8 +153317,8 @@ succumb prostatitis-13 satisfaction marzipan mars neptune
 1
 4 2
 2
-0 66 27 9
 0 63 0 1
+0 66 27 9
 1
 end_operator
 begin_operator
@@ -153326,8 +153326,8 @@ succumb prostatitis-13 satisfaction marzipan neptune vulcan
 1
 4 2
 2
-0 66 27 9
 0 63 1 3
+0 66 27 9
 1
 end_operator
 begin_operator
@@ -153335,8 +153335,8 @@ succumb prostatitis-13 satisfaction marzipan vulcan venus
 1
 4 2
 2
-0 66 27 9
 0 63 3 2
+0 66 27 9
 1
 end_operator
 begin_operator
@@ -153344,8 +153344,8 @@ succumb prostatitis-13 satisfaction rice mars neptune
 1
 4 3
 2
-0 66 27 16
 0 63 0 1
+0 66 27 16
 1
 end_operator
 begin_operator
@@ -153353,8 +153353,8 @@ succumb prostatitis-13 satisfaction rice neptune vulcan
 1
 4 3
 2
-0 66 27 16
 0 63 1 3
+0 66 27 16
 1
 end_operator
 begin_operator
@@ -153362,8 +153362,8 @@ succumb prostatitis-13 satisfaction rice vulcan venus
 1
 4 3
 2
-0 66 27 16
 0 63 3 2
+0 66 27 16
 1
 end_operator
 begin_operator
@@ -153371,8 +153371,8 @@ succumb prostatitis-13 satisfaction scallop mars neptune
 1
 4 4
 2
-0 66 27 18
 0 63 0 1
+0 66 27 18
 1
 end_operator
 begin_operator
@@ -153380,8 +153380,8 @@ succumb prostatitis-13 satisfaction scallop neptune vulcan
 1
 4 4
 2
-0 66 27 18
 0 63 1 3
+0 66 27 18
 1
 end_operator
 begin_operator
@@ -153389,8 +153389,8 @@ succumb prostatitis-13 satisfaction scallop vulcan venus
 1
 4 4
 2
-0 66 27 18
 0 63 3 2
+0 66 27 18
 1
 end_operator
 begin_operator
@@ -153398,8 +153398,8 @@ succumb prostatitis-13 satisfaction yogurt mars neptune
 1
 4 5
 2
-0 66 27 20
 0 63 0 1
+0 66 27 20
 1
 end_operator
 begin_operator
@@ -153407,8 +153407,8 @@ succumb prostatitis-13 satisfaction yogurt neptune vulcan
 1
 4 5
 2
-0 66 27 20
 0 63 1 3
+0 66 27 20
 1
 end_operator
 begin_operator
@@ -153416,8 +153416,8 @@ succumb prostatitis-13 satisfaction yogurt vulcan venus
 1
 4 5
 2
-0 66 27 20
 0 63 3 2
+0 66 27 20
 1
 end_operator
 begin_operator
@@ -153425,8 +153425,8 @@ succumb prostatitis-18 achievement baguette mars neptune
 1
 18 0
 2
-0 75 21 0
 0 71 0 1
+0 75 21 0
 1
 end_operator
 begin_operator
@@ -153434,8 +153434,8 @@ succumb prostatitis-18 achievement baguette neptune vulcan
 1
 18 0
 2
-0 75 21 0
 0 71 1 3
+0 75 21 0
 1
 end_operator
 begin_operator
@@ -153443,8 +153443,8 @@ succumb prostatitis-18 achievement baguette vulcan venus
 1
 18 0
 2
-0 75 21 0
 0 71 3 2
+0 75 21 0
 1
 end_operator
 begin_operator
@@ -153452,8 +153452,8 @@ succumb prostatitis-18 achievement flounder mars neptune
 1
 18 1
 2
-0 75 21 2
 0 71 0 1
+0 75 21 2
 1
 end_operator
 begin_operator
@@ -153461,8 +153461,8 @@ succumb prostatitis-18 achievement flounder neptune vulcan
 1
 18 1
 2
-0 75 21 2
 0 71 1 3
+0 75 21 2
 1
 end_operator
 begin_operator
@@ -153470,8 +153470,8 @@ succumb prostatitis-18 achievement flounder vulcan venus
 1
 18 1
 2
-0 75 21 2
 0 71 3 2
+0 75 21 2
 1
 end_operator
 begin_operator
@@ -153479,8 +153479,8 @@ succumb prostatitis-18 achievement ham mars neptune
 1
 18 2
 2
-0 75 21 3
 0 71 0 1
+0 75 21 3
 1
 end_operator
 begin_operator
@@ -153488,8 +153488,8 @@ succumb prostatitis-18 achievement ham neptune vulcan
 1
 18 2
 2
-0 75 21 3
 0 71 1 3
+0 75 21 3
 1
 end_operator
 begin_operator
@@ -153497,8 +153497,8 @@ succumb prostatitis-18 achievement ham vulcan venus
 1
 18 2
 2
-0 75 21 3
 0 71 3 2
+0 75 21 3
 1
 end_operator
 begin_operator
@@ -153506,8 +153506,8 @@ succumb prostatitis-18 achievement hamburger mars neptune
 1
 18 3
 2
-0 75 21 4
 0 71 0 1
+0 75 21 4
 1
 end_operator
 begin_operator
@@ -153515,8 +153515,8 @@ succumb prostatitis-18 achievement hamburger neptune vulcan
 1
 18 3
 2
-0 75 21 4
 0 71 1 3
+0 75 21 4
 1
 end_operator
 begin_operator
@@ -153524,8 +153524,8 @@ succumb prostatitis-18 achievement hamburger vulcan venus
 1
 18 3
 2
-0 75 21 4
 0 71 3 2
+0 75 21 4
 1
 end_operator
 begin_operator
@@ -153533,8 +153533,8 @@ succumb prostatitis-18 achievement haroset mars neptune
 1
 18 4
 2
-0 75 21 5
 0 71 0 1
+0 75 21 5
 1
 end_operator
 begin_operator
@@ -153542,8 +153542,8 @@ succumb prostatitis-18 achievement haroset neptune vulcan
 1
 18 4
 2
-0 75 21 5
 0 71 1 3
+0 75 21 5
 1
 end_operator
 begin_operator
@@ -153551,8 +153551,8 @@ succumb prostatitis-18 achievement haroset vulcan venus
 1
 18 4
 2
-0 75 21 5
 0 71 3 2
+0 75 21 5
 1
 end_operator
 begin_operator
@@ -153560,8 +153560,8 @@ succumb prostatitis-18 achievement lemon mars neptune
 1
 18 5
 2
-0 75 21 6
 0 71 0 1
+0 75 21 6
 1
 end_operator
 begin_operator
@@ -153569,8 +153569,8 @@ succumb prostatitis-18 achievement lemon neptune vulcan
 1
 18 5
 2
-0 75 21 6
 0 71 1 3
+0 75 21 6
 1
 end_operator
 begin_operator
@@ -153578,8 +153578,8 @@ succumb prostatitis-18 achievement lemon vulcan venus
 1
 18 5
 2
-0 75 21 6
 0 71 3 2
+0 75 21 6
 1
 end_operator
 begin_operator
@@ -153587,8 +153587,8 @@ succumb prostatitis-18 achievement lobster mars neptune
 1
 18 6
 2
-0 75 21 8
 0 71 0 1
+0 75 21 8
 1
 end_operator
 begin_operator
@@ -153596,8 +153596,8 @@ succumb prostatitis-18 achievement lobster neptune vulcan
 1
 18 6
 2
-0 75 21 8
 0 71 1 3
+0 75 21 8
 1
 end_operator
 begin_operator
@@ -153605,8 +153605,8 @@ succumb prostatitis-18 achievement lobster vulcan venus
 1
 18 6
 2
-0 75 21 8
 0 71 3 2
+0 75 21 8
 1
 end_operator
 begin_operator
@@ -153614,8 +153614,8 @@ succumb prostatitis-18 achievement marzipan mars neptune
 1
 18 7
 2
-0 75 21 9
 0 71 0 1
+0 75 21 9
 1
 end_operator
 begin_operator
@@ -153623,8 +153623,8 @@ succumb prostatitis-18 achievement marzipan neptune vulcan
 1
 18 7
 2
-0 75 21 9
 0 71 1 3
+0 75 21 9
 1
 end_operator
 begin_operator
@@ -153632,8 +153632,8 @@ succumb prostatitis-18 achievement marzipan vulcan venus
 1
 18 7
 2
-0 75 21 9
 0 71 3 2
+0 75 21 9
 1
 end_operator
 begin_operator
@@ -153641,8 +153641,8 @@ succumb prostatitis-18 achievement melon mars neptune
 1
 18 8
 2
-0 75 21 10
 0 71 0 1
+0 75 21 10
 1
 end_operator
 begin_operator
@@ -153650,8 +153650,8 @@ succumb prostatitis-18 achievement melon neptune vulcan
 1
 18 8
 2
-0 75 21 10
 0 71 1 3
+0 75 21 10
 1
 end_operator
 begin_operator
@@ -153659,8 +153659,8 @@ succumb prostatitis-18 achievement melon vulcan venus
 1
 18 8
 2
-0 75 21 10
 0 71 3 2
+0 75 21 10
 1
 end_operator
 begin_operator
@@ -153668,8 +153668,8 @@ succumb prostatitis-18 achievement muffin mars neptune
 1
 18 9
 2
-0 75 21 11
 0 71 0 1
+0 75 21 11
 1
 end_operator
 begin_operator
@@ -153677,8 +153677,8 @@ succumb prostatitis-18 achievement muffin neptune vulcan
 1
 18 9
 2
-0 75 21 11
 0 71 1 3
+0 75 21 11
 1
 end_operator
 begin_operator
@@ -153686,8 +153686,8 @@ succumb prostatitis-18 achievement muffin vulcan venus
 1
 18 9
 2
-0 75 21 11
 0 71 3 2
+0 75 21 11
 1
 end_operator
 begin_operator
@@ -153695,8 +153695,8 @@ succumb prostatitis-18 achievement onion mars neptune
 1
 18 10
 2
-0 75 21 13
 0 71 0 1
+0 75 21 13
 1
 end_operator
 begin_operator
@@ -153704,8 +153704,8 @@ succumb prostatitis-18 achievement onion neptune vulcan
 1
 18 10
 2
-0 75 21 13
 0 71 1 3
+0 75 21 13
 1
 end_operator
 begin_operator
@@ -153713,8 +153713,8 @@ succumb prostatitis-18 achievement onion vulcan venus
 1
 18 10
 2
-0 75 21 13
 0 71 3 2
+0 75 21 13
 1
 end_operator
 begin_operator
@@ -153722,8 +153722,8 @@ succumb prostatitis-18 achievement papaya mars neptune
 1
 18 11
 2
-0 75 21 14
 0 71 0 1
+0 75 21 14
 1
 end_operator
 begin_operator
@@ -153731,8 +153731,8 @@ succumb prostatitis-18 achievement papaya neptune vulcan
 1
 18 11
 2
-0 75 21 14
 0 71 1 3
+0 75 21 14
 1
 end_operator
 begin_operator
@@ -153740,8 +153740,8 @@ succumb prostatitis-18 achievement papaya vulcan venus
 1
 18 11
 2
-0 75 21 14
 0 71 3 2
+0 75 21 14
 1
 end_operator
 begin_operator
@@ -153749,8 +153749,8 @@ succumb prostatitis-18 achievement potato mars neptune
 1
 18 12
 2
-0 75 21 15
 0 71 0 1
+0 75 21 15
 1
 end_operator
 begin_operator
@@ -153758,8 +153758,8 @@ succumb prostatitis-18 achievement potato neptune vulcan
 1
 18 12
 2
-0 75 21 15
 0 71 1 3
+0 75 21 15
 1
 end_operator
 begin_operator
@@ -153767,8 +153767,8 @@ succumb prostatitis-18 achievement potato vulcan venus
 1
 18 12
 2
-0 75 21 15
 0 71 3 2
+0 75 21 15
 1
 end_operator
 begin_operator
@@ -153776,8 +153776,8 @@ succumb prostatitis-18 achievement scallion mars neptune
 1
 18 13
 2
-0 75 21 17
 0 71 0 1
+0 75 21 17
 1
 end_operator
 begin_operator
@@ -153785,8 +153785,8 @@ succumb prostatitis-18 achievement scallion neptune vulcan
 1
 18 13
 2
-0 75 21 17
 0 71 1 3
+0 75 21 17
 1
 end_operator
 begin_operator
@@ -153794,8 +153794,8 @@ succumb prostatitis-18 achievement scallion vulcan venus
 1
 18 13
 2
-0 75 21 17
 0 71 3 2
+0 75 21 17
 1
 end_operator
 begin_operator
@@ -153803,8 +153803,8 @@ succumb prostatitis-18 achievement scallop mars neptune
 1
 18 14
 2
-0 75 21 18
 0 71 0 1
+0 75 21 18
 1
 end_operator
 begin_operator
@@ -153812,8 +153812,8 @@ succumb prostatitis-18 achievement scallop neptune vulcan
 1
 18 14
 2
-0 75 21 18
 0 71 1 3
+0 75 21 18
 1
 end_operator
 begin_operator
@@ -153821,8 +153821,8 @@ succumb prostatitis-18 achievement scallop vulcan venus
 1
 18 14
 2
-0 75 21 18
 0 71 3 2
+0 75 21 18
 1
 end_operator
 begin_operator
@@ -153830,8 +153830,8 @@ succumb prostatitis-18 achievement turkey mars neptune
 1
 18 15
 2
-0 75 21 19
 0 71 0 1
+0 75 21 19
 1
 end_operator
 begin_operator
@@ -153839,8 +153839,8 @@ succumb prostatitis-18 achievement turkey neptune vulcan
 1
 18 15
 2
-0 75 21 19
 0 71 1 3
+0 75 21 19
 1
 end_operator
 begin_operator
@@ -153848,8 +153848,8 @@ succumb prostatitis-18 achievement turkey vulcan venus
 1
 18 15
 2
-0 75 21 19
 0 71 3 2
+0 75 21 19
 1
 end_operator
 begin_operator
@@ -153857,8 +153857,8 @@ succumb prostatitis-18 aesthetics baguette mars neptune
 1
 20 0
 2
-0 75 22 0
 0 72 0 1
+0 75 22 0
 1
 end_operator
 begin_operator
@@ -153866,8 +153866,8 @@ succumb prostatitis-18 aesthetics baguette neptune vulcan
 1
 20 0
 2
-0 75 22 0
 0 72 1 3
+0 75 22 0
 1
 end_operator
 begin_operator
@@ -153875,8 +153875,8 @@ succumb prostatitis-18 aesthetics baguette vulcan venus
 1
 20 0
 2
-0 75 22 0
 0 72 3 2
+0 75 22 0
 1
 end_operator
 begin_operator
@@ -153884,8 +153884,8 @@ succumb prostatitis-18 aesthetics flounder mars neptune
 1
 20 1
 2
-0 75 22 2
 0 72 0 1
+0 75 22 2
 1
 end_operator
 begin_operator
@@ -153893,8 +153893,8 @@ succumb prostatitis-18 aesthetics flounder neptune vulcan
 1
 20 1
 2
-0 75 22 2
 0 72 1 3
+0 75 22 2
 1
 end_operator
 begin_operator
@@ -153902,8 +153902,8 @@ succumb prostatitis-18 aesthetics flounder vulcan venus
 1
 20 1
 2
-0 75 22 2
 0 72 3 2
+0 75 22 2
 1
 end_operator
 begin_operator
@@ -153911,8 +153911,8 @@ succumb prostatitis-18 aesthetics ham mars neptune
 1
 20 2
 2
-0 75 22 3
 0 72 0 1
+0 75 22 3
 1
 end_operator
 begin_operator
@@ -153920,8 +153920,8 @@ succumb prostatitis-18 aesthetics ham neptune vulcan
 1
 20 2
 2
-0 75 22 3
 0 72 1 3
+0 75 22 3
 1
 end_operator
 begin_operator
@@ -153929,8 +153929,8 @@ succumb prostatitis-18 aesthetics ham vulcan venus
 1
 20 2
 2
-0 75 22 3
 0 72 3 2
+0 75 22 3
 1
 end_operator
 begin_operator
@@ -153938,8 +153938,8 @@ succumb prostatitis-18 aesthetics hamburger mars neptune
 1
 20 3
 2
-0 75 22 4
 0 72 0 1
+0 75 22 4
 1
 end_operator
 begin_operator
@@ -153947,8 +153947,8 @@ succumb prostatitis-18 aesthetics hamburger neptune vulcan
 1
 20 3
 2
-0 75 22 4
 0 72 1 3
+0 75 22 4
 1
 end_operator
 begin_operator
@@ -153956,8 +153956,8 @@ succumb prostatitis-18 aesthetics hamburger vulcan venus
 1
 20 3
 2
-0 75 22 4
 0 72 3 2
+0 75 22 4
 1
 end_operator
 begin_operator
@@ -153965,8 +153965,8 @@ succumb prostatitis-18 aesthetics haroset mars neptune
 1
 20 4
 2
-0 75 22 5
 0 72 0 1
+0 75 22 5
 1
 end_operator
 begin_operator
@@ -153974,8 +153974,8 @@ succumb prostatitis-18 aesthetics haroset neptune vulcan
 1
 20 4
 2
-0 75 22 5
 0 72 1 3
+0 75 22 5
 1
 end_operator
 begin_operator
@@ -153983,8 +153983,8 @@ succumb prostatitis-18 aesthetics haroset vulcan venus
 1
 20 4
 2
-0 75 22 5
 0 72 3 2
+0 75 22 5
 1
 end_operator
 begin_operator
@@ -153992,8 +153992,8 @@ succumb prostatitis-18 aesthetics lemon mars neptune
 1
 20 5
 2
-0 75 22 6
 0 72 0 1
+0 75 22 6
 1
 end_operator
 begin_operator
@@ -154001,8 +154001,8 @@ succumb prostatitis-18 aesthetics lemon neptune vulcan
 1
 20 5
 2
-0 75 22 6
 0 72 1 3
+0 75 22 6
 1
 end_operator
 begin_operator
@@ -154010,8 +154010,8 @@ succumb prostatitis-18 aesthetics lemon vulcan venus
 1
 20 5
 2
-0 75 22 6
 0 72 3 2
+0 75 22 6
 1
 end_operator
 begin_operator
@@ -154019,8 +154019,8 @@ succumb prostatitis-18 aesthetics lobster mars neptune
 1
 20 6
 2
-0 75 22 8
 0 72 0 1
+0 75 22 8
 1
 end_operator
 begin_operator
@@ -154028,8 +154028,8 @@ succumb prostatitis-18 aesthetics lobster neptune vulcan
 1
 20 6
 2
-0 75 22 8
 0 72 1 3
+0 75 22 8
 1
 end_operator
 begin_operator
@@ -154037,8 +154037,8 @@ succumb prostatitis-18 aesthetics lobster vulcan venus
 1
 20 6
 2
-0 75 22 8
 0 72 3 2
+0 75 22 8
 1
 end_operator
 begin_operator
@@ -154046,8 +154046,8 @@ succumb prostatitis-18 aesthetics marzipan mars neptune
 1
 20 7
 2
-0 75 22 9
 0 72 0 1
+0 75 22 9
 1
 end_operator
 begin_operator
@@ -154055,8 +154055,8 @@ succumb prostatitis-18 aesthetics marzipan neptune vulcan
 1
 20 7
 2
-0 75 22 9
 0 72 1 3
+0 75 22 9
 1
 end_operator
 begin_operator
@@ -154064,8 +154064,8 @@ succumb prostatitis-18 aesthetics marzipan vulcan venus
 1
 20 7
 2
-0 75 22 9
 0 72 3 2
+0 75 22 9
 1
 end_operator
 begin_operator
@@ -154073,8 +154073,8 @@ succumb prostatitis-18 aesthetics melon mars neptune
 1
 20 8
 2
-0 75 22 10
 0 72 0 1
+0 75 22 10
 1
 end_operator
 begin_operator
@@ -154082,8 +154082,8 @@ succumb prostatitis-18 aesthetics melon neptune vulcan
 1
 20 8
 2
-0 75 22 10
 0 72 1 3
+0 75 22 10
 1
 end_operator
 begin_operator
@@ -154091,8 +154091,8 @@ succumb prostatitis-18 aesthetics melon vulcan venus
 1
 20 8
 2
-0 75 22 10
 0 72 3 2
+0 75 22 10
 1
 end_operator
 begin_operator
@@ -154100,8 +154100,8 @@ succumb prostatitis-18 aesthetics muffin mars neptune
 1
 20 9
 2
-0 75 22 11
 0 72 0 1
+0 75 22 11
 1
 end_operator
 begin_operator
@@ -154109,8 +154109,8 @@ succumb prostatitis-18 aesthetics muffin neptune vulcan
 1
 20 9
 2
-0 75 22 11
 0 72 1 3
+0 75 22 11
 1
 end_operator
 begin_operator
@@ -154118,8 +154118,8 @@ succumb prostatitis-18 aesthetics muffin vulcan venus
 1
 20 9
 2
-0 75 22 11
 0 72 3 2
+0 75 22 11
 1
 end_operator
 begin_operator
@@ -154127,8 +154127,8 @@ succumb prostatitis-18 aesthetics onion mars neptune
 1
 20 10
 2
-0 75 22 13
 0 72 0 1
+0 75 22 13
 1
 end_operator
 begin_operator
@@ -154136,8 +154136,8 @@ succumb prostatitis-18 aesthetics onion neptune vulcan
 1
 20 10
 2
-0 75 22 13
 0 72 1 3
+0 75 22 13
 1
 end_operator
 begin_operator
@@ -154145,8 +154145,8 @@ succumb prostatitis-18 aesthetics onion vulcan venus
 1
 20 10
 2
-0 75 22 13
 0 72 3 2
+0 75 22 13
 1
 end_operator
 begin_operator
@@ -154154,8 +154154,8 @@ succumb prostatitis-18 aesthetics papaya mars neptune
 1
 20 11
 2
-0 75 22 14
 0 72 0 1
+0 75 22 14
 1
 end_operator
 begin_operator
@@ -154163,8 +154163,8 @@ succumb prostatitis-18 aesthetics papaya neptune vulcan
 1
 20 11
 2
-0 75 22 14
 0 72 1 3
+0 75 22 14
 1
 end_operator
 begin_operator
@@ -154172,8 +154172,8 @@ succumb prostatitis-18 aesthetics papaya vulcan venus
 1
 20 11
 2
-0 75 22 14
 0 72 3 2
+0 75 22 14
 1
 end_operator
 begin_operator
@@ -154181,8 +154181,8 @@ succumb prostatitis-18 aesthetics potato mars neptune
 1
 20 12
 2
-0 75 22 15
 0 72 0 1
+0 75 22 15
 1
 end_operator
 begin_operator
@@ -154190,8 +154190,8 @@ succumb prostatitis-18 aesthetics potato neptune vulcan
 1
 20 12
 2
-0 75 22 15
 0 72 1 3
+0 75 22 15
 1
 end_operator
 begin_operator
@@ -154199,8 +154199,8 @@ succumb prostatitis-18 aesthetics potato vulcan venus
 1
 20 12
 2
-0 75 22 15
 0 72 3 2
+0 75 22 15
 1
 end_operator
 begin_operator
@@ -154208,8 +154208,8 @@ succumb prostatitis-18 aesthetics scallion mars neptune
 1
 20 13
 2
-0 75 22 17
 0 72 0 1
+0 75 22 17
 1
 end_operator
 begin_operator
@@ -154217,8 +154217,8 @@ succumb prostatitis-18 aesthetics scallion neptune vulcan
 1
 20 13
 2
-0 75 22 17
 0 72 1 3
+0 75 22 17
 1
 end_operator
 begin_operator
@@ -154226,8 +154226,8 @@ succumb prostatitis-18 aesthetics scallion vulcan venus
 1
 20 13
 2
-0 75 22 17
 0 72 3 2
+0 75 22 17
 1
 end_operator
 begin_operator
@@ -154235,8 +154235,8 @@ succumb prostatitis-18 aesthetics scallop mars neptune
 1
 20 14
 2
-0 75 22 18
 0 72 0 1
+0 75 22 18
 1
 end_operator
 begin_operator
@@ -154244,8 +154244,8 @@ succumb prostatitis-18 aesthetics scallop neptune vulcan
 1
 20 14
 2
-0 75 22 18
 0 72 1 3
+0 75 22 18
 1
 end_operator
 begin_operator
@@ -154253,8 +154253,8 @@ succumb prostatitis-18 aesthetics scallop vulcan venus
 1
 20 14
 2
-0 75 22 18
 0 72 3 2
+0 75 22 18
 1
 end_operator
 begin_operator
@@ -154262,8 +154262,8 @@ succumb prostatitis-18 aesthetics turkey mars neptune
 1
 20 15
 2
-0 75 22 19
 0 72 0 1
+0 75 22 19
 1
 end_operator
 begin_operator
@@ -154271,8 +154271,8 @@ succumb prostatitis-18 aesthetics turkey neptune vulcan
 1
 20 15
 2
-0 75 22 19
 0 72 1 3
+0 75 22 19
 1
 end_operator
 begin_operator
@@ -154280,32 +154280,32 @@ succumb prostatitis-18 aesthetics turkey vulcan venus
 1
 20 15
 2
-0 75 22 19
 0 72 3 2
+0 75 22 19
 1
 end_operator
 begin_operator
 succumb prostatitis-18 curiosity ham mars neptune
 0
 2
-0 75 23 3
 0 23 0 1
+0 75 23 3
 1
 end_operator
 begin_operator
 succumb prostatitis-18 curiosity ham neptune vulcan
 0
 2
-0 75 23 3
 0 23 1 3
+0 75 23 3
 1
 end_operator
 begin_operator
 succumb prostatitis-18 curiosity ham vulcan venus
 0
 2
-0 75 23 3
 0 23 3 2
+0 75 23 3
 1
 end_operator
 begin_operator
@@ -154313,8 +154313,8 @@ succumb prostatitis-18 entertainment marzipan mars neptune
 1
 6 0
 2
-0 75 24 9
 0 50 0 1
+0 75 24 9
 1
 end_operator
 begin_operator
@@ -154322,8 +154322,8 @@ succumb prostatitis-18 entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 75 24 9
 0 50 1 3
+0 75 24 9
 1
 end_operator
 begin_operator
@@ -154331,8 +154331,8 @@ succumb prostatitis-18 entertainment marzipan vulcan venus
 1
 6 0
 2
-0 75 24 9
 0 50 3 2
+0 75 24 9
 1
 end_operator
 begin_operator
@@ -154340,8 +154340,8 @@ succumb prostatitis-18 entertainment mutton mars neptune
 1
 6 1
 2
-0 75 24 12
 0 50 0 1
+0 75 24 12
 1
 end_operator
 begin_operator
@@ -154349,8 +154349,8 @@ succumb prostatitis-18 entertainment mutton neptune vulcan
 1
 6 1
 2
-0 75 24 12
 0 50 1 3
+0 75 24 12
 1
 end_operator
 begin_operator
@@ -154358,8 +154358,8 @@ succumb prostatitis-18 entertainment mutton vulcan venus
 1
 6 1
 2
-0 75 24 12
 0 50 3 2
+0 75 24 12
 1
 end_operator
 begin_operator
@@ -154367,8 +154367,8 @@ succumb prostatitis-18 entertainment scallop mars neptune
 1
 6 2
 2
-0 75 24 18
 0 50 0 1
+0 75 24 18
 1
 end_operator
 begin_operator
@@ -154376,8 +154376,8 @@ succumb prostatitis-18 entertainment scallop neptune vulcan
 1
 6 2
 2
-0 75 24 18
 0 50 1 3
+0 75 24 18
 1
 end_operator
 begin_operator
@@ -154385,8 +154385,8 @@ succumb prostatitis-18 entertainment scallop vulcan venus
 1
 6 2
 2
-0 75 24 18
 0 50 3 2
+0 75 24 18
 1
 end_operator
 begin_operator
@@ -154394,8 +154394,8 @@ succumb prostatitis-18 intoxication chocolate mars neptune
 1
 3 0
 2
-0 75 25 1
 0 62 0 1
+0 75 25 1
 1
 end_operator
 begin_operator
@@ -154403,8 +154403,8 @@ succumb prostatitis-18 intoxication chocolate neptune vulcan
 1
 3 0
 2
-0 75 25 1
 0 62 1 3
+0 75 25 1
 1
 end_operator
 begin_operator
@@ -154412,8 +154412,8 @@ succumb prostatitis-18 intoxication chocolate vulcan venus
 1
 3 0
 2
-0 75 25 1
 0 62 3 2
+0 75 25 1
 1
 end_operator
 begin_operator
@@ -154421,8 +154421,8 @@ succumb prostatitis-18 intoxication lettuce mars neptune
 1
 3 1
 2
-0 75 25 7
 0 62 0 1
+0 75 25 7
 1
 end_operator
 begin_operator
@@ -154430,8 +154430,8 @@ succumb prostatitis-18 intoxication lettuce neptune vulcan
 1
 3 1
 2
-0 75 25 7
 0 62 1 3
+0 75 25 7
 1
 end_operator
 begin_operator
@@ -154439,8 +154439,8 @@ succumb prostatitis-18 intoxication lettuce vulcan venus
 1
 3 1
 2
-0 75 25 7
 0 62 3 2
+0 75 25 7
 1
 end_operator
 begin_operator
@@ -154448,8 +154448,8 @@ succumb prostatitis-18 intoxication marzipan mars neptune
 1
 3 2
 2
-0 75 25 9
 0 62 0 1
+0 75 25 9
 1
 end_operator
 begin_operator
@@ -154457,8 +154457,8 @@ succumb prostatitis-18 intoxication marzipan neptune vulcan
 1
 3 2
 2
-0 75 25 9
 0 62 1 3
+0 75 25 9
 1
 end_operator
 begin_operator
@@ -154466,8 +154466,8 @@ succumb prostatitis-18 intoxication marzipan vulcan venus
 1
 3 2
 2
-0 75 25 9
 0 62 3 2
+0 75 25 9
 1
 end_operator
 begin_operator
@@ -154475,8 +154475,8 @@ succumb prostatitis-18 intoxication rice mars neptune
 1
 3 3
 2
-0 75 25 16
 0 62 0 1
+0 75 25 16
 1
 end_operator
 begin_operator
@@ -154484,8 +154484,8 @@ succumb prostatitis-18 intoxication rice neptune vulcan
 1
 3 3
 2
-0 75 25 16
 0 62 1 3
+0 75 25 16
 1
 end_operator
 begin_operator
@@ -154493,8 +154493,8 @@ succumb prostatitis-18 intoxication rice vulcan venus
 1
 3 3
 2
-0 75 25 16
 0 62 3 2
+0 75 25 16
 1
 end_operator
 begin_operator
@@ -154502,8 +154502,8 @@ succumb prostatitis-18 intoxication scallop mars neptune
 1
 3 4
 2
-0 75 25 18
 0 62 0 1
+0 75 25 18
 1
 end_operator
 begin_operator
@@ -154511,8 +154511,8 @@ succumb prostatitis-18 intoxication scallop neptune vulcan
 1
 3 4
 2
-0 75 25 18
 0 62 1 3
+0 75 25 18
 1
 end_operator
 begin_operator
@@ -154520,8 +154520,8 @@ succumb prostatitis-18 intoxication scallop vulcan venus
 1
 3 4
 2
-0 75 25 18
 0 62 3 2
+0 75 25 18
 1
 end_operator
 begin_operator
@@ -154529,8 +154529,8 @@ succumb prostatitis-18 intoxication yogurt mars neptune
 1
 3 5
 2
-0 75 25 20
 0 62 0 1
+0 75 25 20
 1
 end_operator
 begin_operator
@@ -154538,8 +154538,8 @@ succumb prostatitis-18 intoxication yogurt neptune vulcan
 1
 3 5
 2
-0 75 25 20
 0 62 1 3
+0 75 25 20
 1
 end_operator
 begin_operator
@@ -154547,8 +154547,8 @@ succumb prostatitis-18 intoxication yogurt vulcan venus
 1
 3 5
 2
-0 75 25 20
 0 62 3 2
+0 75 25 20
 1
 end_operator
 begin_operator
@@ -154556,8 +154556,8 @@ succumb prostatitis-18 love baguette mars neptune
 1
 21 0
 2
-0 75 26 0
 0 73 0 1
+0 75 26 0
 1
 end_operator
 begin_operator
@@ -154565,8 +154565,8 @@ succumb prostatitis-18 love baguette neptune vulcan
 1
 21 0
 2
-0 75 26 0
 0 73 1 3
+0 75 26 0
 1
 end_operator
 begin_operator
@@ -154574,8 +154574,8 @@ succumb prostatitis-18 love baguette vulcan venus
 1
 21 0
 2
-0 75 26 0
 0 73 3 2
+0 75 26 0
 1
 end_operator
 begin_operator
@@ -154583,8 +154583,8 @@ succumb prostatitis-18 love flounder mars neptune
 1
 21 1
 2
-0 75 26 2
 0 73 0 1
+0 75 26 2
 1
 end_operator
 begin_operator
@@ -154592,8 +154592,8 @@ succumb prostatitis-18 love flounder neptune vulcan
 1
 21 1
 2
-0 75 26 2
 0 73 1 3
+0 75 26 2
 1
 end_operator
 begin_operator
@@ -154601,8 +154601,8 @@ succumb prostatitis-18 love flounder vulcan venus
 1
 21 1
 2
-0 75 26 2
 0 73 3 2
+0 75 26 2
 1
 end_operator
 begin_operator
@@ -154610,8 +154610,8 @@ succumb prostatitis-18 love ham mars neptune
 1
 21 2
 2
-0 75 26 3
 0 73 0 1
+0 75 26 3
 1
 end_operator
 begin_operator
@@ -154619,8 +154619,8 @@ succumb prostatitis-18 love ham neptune vulcan
 1
 21 2
 2
-0 75 26 3
 0 73 1 3
+0 75 26 3
 1
 end_operator
 begin_operator
@@ -154628,8 +154628,8 @@ succumb prostatitis-18 love ham vulcan venus
 1
 21 2
 2
-0 75 26 3
 0 73 3 2
+0 75 26 3
 1
 end_operator
 begin_operator
@@ -154637,8 +154637,8 @@ succumb prostatitis-18 love hamburger mars neptune
 1
 21 3
 2
-0 75 26 4
 0 73 0 1
+0 75 26 4
 1
 end_operator
 begin_operator
@@ -154646,8 +154646,8 @@ succumb prostatitis-18 love hamburger neptune vulcan
 1
 21 3
 2
-0 75 26 4
 0 73 1 3
+0 75 26 4
 1
 end_operator
 begin_operator
@@ -154655,8 +154655,8 @@ succumb prostatitis-18 love hamburger vulcan venus
 1
 21 3
 2
-0 75 26 4
 0 73 3 2
+0 75 26 4
 1
 end_operator
 begin_operator
@@ -154664,8 +154664,8 @@ succumb prostatitis-18 love haroset mars neptune
 1
 21 4
 2
-0 75 26 5
 0 73 0 1
+0 75 26 5
 1
 end_operator
 begin_operator
@@ -154673,8 +154673,8 @@ succumb prostatitis-18 love haroset neptune vulcan
 1
 21 4
 2
-0 75 26 5
 0 73 1 3
+0 75 26 5
 1
 end_operator
 begin_operator
@@ -154682,8 +154682,8 @@ succumb prostatitis-18 love haroset vulcan venus
 1
 21 4
 2
-0 75 26 5
 0 73 3 2
+0 75 26 5
 1
 end_operator
 begin_operator
@@ -154691,8 +154691,8 @@ succumb prostatitis-18 love lemon mars neptune
 1
 21 5
 2
-0 75 26 6
 0 73 0 1
+0 75 26 6
 1
 end_operator
 begin_operator
@@ -154700,8 +154700,8 @@ succumb prostatitis-18 love lemon neptune vulcan
 1
 21 5
 2
-0 75 26 6
 0 73 1 3
+0 75 26 6
 1
 end_operator
 begin_operator
@@ -154709,8 +154709,8 @@ succumb prostatitis-18 love lemon vulcan venus
 1
 21 5
 2
-0 75 26 6
 0 73 3 2
+0 75 26 6
 1
 end_operator
 begin_operator
@@ -154718,8 +154718,8 @@ succumb prostatitis-18 love lobster mars neptune
 1
 21 6
 2
-0 75 26 8
 0 73 0 1
+0 75 26 8
 1
 end_operator
 begin_operator
@@ -154727,8 +154727,8 @@ succumb prostatitis-18 love lobster neptune vulcan
 1
 21 6
 2
-0 75 26 8
 0 73 1 3
+0 75 26 8
 1
 end_operator
 begin_operator
@@ -154736,8 +154736,8 @@ succumb prostatitis-18 love lobster vulcan venus
 1
 21 6
 2
-0 75 26 8
 0 73 3 2
+0 75 26 8
 1
 end_operator
 begin_operator
@@ -154745,8 +154745,8 @@ succumb prostatitis-18 love marzipan mars neptune
 1
 21 7
 2
-0 75 26 9
 0 73 0 1
+0 75 26 9
 1
 end_operator
 begin_operator
@@ -154754,8 +154754,8 @@ succumb prostatitis-18 love marzipan neptune vulcan
 1
 21 7
 2
-0 75 26 9
 0 73 1 3
+0 75 26 9
 1
 end_operator
 begin_operator
@@ -154763,8 +154763,8 @@ succumb prostatitis-18 love marzipan vulcan venus
 1
 21 7
 2
-0 75 26 9
 0 73 3 2
+0 75 26 9
 1
 end_operator
 begin_operator
@@ -154772,8 +154772,8 @@ succumb prostatitis-18 love melon mars neptune
 1
 21 8
 2
-0 75 26 10
 0 73 0 1
+0 75 26 10
 1
 end_operator
 begin_operator
@@ -154781,8 +154781,8 @@ succumb prostatitis-18 love melon neptune vulcan
 1
 21 8
 2
-0 75 26 10
 0 73 1 3
+0 75 26 10
 1
 end_operator
 begin_operator
@@ -154790,8 +154790,8 @@ succumb prostatitis-18 love melon vulcan venus
 1
 21 8
 2
-0 75 26 10
 0 73 3 2
+0 75 26 10
 1
 end_operator
 begin_operator
@@ -154799,8 +154799,8 @@ succumb prostatitis-18 love muffin mars neptune
 1
 21 9
 2
-0 75 26 11
 0 73 0 1
+0 75 26 11
 1
 end_operator
 begin_operator
@@ -154808,8 +154808,8 @@ succumb prostatitis-18 love muffin neptune vulcan
 1
 21 9
 2
-0 75 26 11
 0 73 1 3
+0 75 26 11
 1
 end_operator
 begin_operator
@@ -154817,8 +154817,8 @@ succumb prostatitis-18 love muffin vulcan venus
 1
 21 9
 2
-0 75 26 11
 0 73 3 2
+0 75 26 11
 1
 end_operator
 begin_operator
@@ -154826,8 +154826,8 @@ succumb prostatitis-18 love onion mars neptune
 1
 21 10
 2
-0 75 26 13
 0 73 0 1
+0 75 26 13
 1
 end_operator
 begin_operator
@@ -154835,8 +154835,8 @@ succumb prostatitis-18 love onion neptune vulcan
 1
 21 10
 2
-0 75 26 13
 0 73 1 3
+0 75 26 13
 1
 end_operator
 begin_operator
@@ -154844,8 +154844,8 @@ succumb prostatitis-18 love onion vulcan venus
 1
 21 10
 2
-0 75 26 13
 0 73 3 2
+0 75 26 13
 1
 end_operator
 begin_operator
@@ -154853,8 +154853,8 @@ succumb prostatitis-18 love papaya mars neptune
 1
 21 11
 2
-0 75 26 14
 0 73 0 1
+0 75 26 14
 1
 end_operator
 begin_operator
@@ -154862,8 +154862,8 @@ succumb prostatitis-18 love papaya neptune vulcan
 1
 21 11
 2
-0 75 26 14
 0 73 1 3
+0 75 26 14
 1
 end_operator
 begin_operator
@@ -154871,8 +154871,8 @@ succumb prostatitis-18 love papaya vulcan venus
 1
 21 11
 2
-0 75 26 14
 0 73 3 2
+0 75 26 14
 1
 end_operator
 begin_operator
@@ -154880,8 +154880,8 @@ succumb prostatitis-18 love potato mars neptune
 1
 21 12
 2
-0 75 26 15
 0 73 0 1
+0 75 26 15
 1
 end_operator
 begin_operator
@@ -154889,8 +154889,8 @@ succumb prostatitis-18 love potato neptune vulcan
 1
 21 12
 2
-0 75 26 15
 0 73 1 3
+0 75 26 15
 1
 end_operator
 begin_operator
@@ -154898,8 +154898,8 @@ succumb prostatitis-18 love potato vulcan venus
 1
 21 12
 2
-0 75 26 15
 0 73 3 2
+0 75 26 15
 1
 end_operator
 begin_operator
@@ -154907,8 +154907,8 @@ succumb prostatitis-18 love scallion mars neptune
 1
 21 13
 2
-0 75 26 17
 0 73 0 1
+0 75 26 17
 1
 end_operator
 begin_operator
@@ -154916,8 +154916,8 @@ succumb prostatitis-18 love scallion neptune vulcan
 1
 21 13
 2
-0 75 26 17
 0 73 1 3
+0 75 26 17
 1
 end_operator
 begin_operator
@@ -154925,8 +154925,8 @@ succumb prostatitis-18 love scallion vulcan venus
 1
 21 13
 2
-0 75 26 17
 0 73 3 2
+0 75 26 17
 1
 end_operator
 begin_operator
@@ -154934,8 +154934,8 @@ succumb prostatitis-18 love scallop mars neptune
 1
 21 14
 2
-0 75 26 18
 0 73 0 1
+0 75 26 18
 1
 end_operator
 begin_operator
@@ -154943,8 +154943,8 @@ succumb prostatitis-18 love scallop neptune vulcan
 1
 21 14
 2
-0 75 26 18
 0 73 1 3
+0 75 26 18
 1
 end_operator
 begin_operator
@@ -154952,8 +154952,8 @@ succumb prostatitis-18 love scallop vulcan venus
 1
 21 14
 2
-0 75 26 18
 0 73 3 2
+0 75 26 18
 1
 end_operator
 begin_operator
@@ -154961,8 +154961,8 @@ succumb prostatitis-18 love turkey mars neptune
 1
 21 15
 2
-0 75 26 19
 0 73 0 1
+0 75 26 19
 1
 end_operator
 begin_operator
@@ -154970,8 +154970,8 @@ succumb prostatitis-18 love turkey neptune vulcan
 1
 21 15
 2
-0 75 26 19
 0 73 1 3
+0 75 26 19
 1
 end_operator
 begin_operator
@@ -154979,8 +154979,8 @@ succumb prostatitis-18 love turkey vulcan venus
 1
 21 15
 2
-0 75 26 19
 0 73 3 2
+0 75 26 19
 1
 end_operator
 begin_operator
@@ -154988,8 +154988,8 @@ succumb prostatitis-18 satisfaction chocolate mars neptune
 1
 4 0
 2
-0 75 27 1
 0 63 0 1
+0 75 27 1
 1
 end_operator
 begin_operator
@@ -154997,8 +154997,8 @@ succumb prostatitis-18 satisfaction chocolate neptune vulcan
 1
 4 0
 2
-0 75 27 1
 0 63 1 3
+0 75 27 1
 1
 end_operator
 begin_operator
@@ -155006,8 +155006,8 @@ succumb prostatitis-18 satisfaction chocolate vulcan venus
 1
 4 0
 2
-0 75 27 1
 0 63 3 2
+0 75 27 1
 1
 end_operator
 begin_operator
@@ -155015,8 +155015,8 @@ succumb prostatitis-18 satisfaction lettuce mars neptune
 1
 4 1
 2
-0 75 27 7
 0 63 0 1
+0 75 27 7
 1
 end_operator
 begin_operator
@@ -155024,8 +155024,8 @@ succumb prostatitis-18 satisfaction lettuce neptune vulcan
 1
 4 1
 2
-0 75 27 7
 0 63 1 3
+0 75 27 7
 1
 end_operator
 begin_operator
@@ -155033,8 +155033,8 @@ succumb prostatitis-18 satisfaction lettuce vulcan venus
 1
 4 1
 2
-0 75 27 7
 0 63 3 2
+0 75 27 7
 1
 end_operator
 begin_operator
@@ -155042,8 +155042,8 @@ succumb prostatitis-18 satisfaction marzipan mars neptune
 1
 4 2
 2
-0 75 27 9
 0 63 0 1
+0 75 27 9
 1
 end_operator
 begin_operator
@@ -155051,8 +155051,8 @@ succumb prostatitis-18 satisfaction marzipan neptune vulcan
 1
 4 2
 2
-0 75 27 9
 0 63 1 3
+0 75 27 9
 1
 end_operator
 begin_operator
@@ -155060,8 +155060,8 @@ succumb prostatitis-18 satisfaction marzipan vulcan venus
 1
 4 2
 2
-0 75 27 9
 0 63 3 2
+0 75 27 9
 1
 end_operator
 begin_operator
@@ -155069,8 +155069,8 @@ succumb prostatitis-18 satisfaction rice mars neptune
 1
 4 3
 2
-0 75 27 16
 0 63 0 1
+0 75 27 16
 1
 end_operator
 begin_operator
@@ -155078,8 +155078,8 @@ succumb prostatitis-18 satisfaction rice neptune vulcan
 1
 4 3
 2
-0 75 27 16
 0 63 1 3
+0 75 27 16
 1
 end_operator
 begin_operator
@@ -155087,8 +155087,8 @@ succumb prostatitis-18 satisfaction rice vulcan venus
 1
 4 3
 2
-0 75 27 16
 0 63 3 2
+0 75 27 16
 1
 end_operator
 begin_operator
@@ -155096,8 +155096,8 @@ succumb prostatitis-18 satisfaction scallop mars neptune
 1
 4 4
 2
-0 75 27 18
 0 63 0 1
+0 75 27 18
 1
 end_operator
 begin_operator
@@ -155105,8 +155105,8 @@ succumb prostatitis-18 satisfaction scallop neptune vulcan
 1
 4 4
 2
-0 75 27 18
 0 63 1 3
+0 75 27 18
 1
 end_operator
 begin_operator
@@ -155114,8 +155114,8 @@ succumb prostatitis-18 satisfaction scallop vulcan venus
 1
 4 4
 2
-0 75 27 18
 0 63 3 2
+0 75 27 18
 1
 end_operator
 begin_operator
@@ -155123,8 +155123,8 @@ succumb prostatitis-18 satisfaction yogurt mars neptune
 1
 4 5
 2
-0 75 27 20
 0 63 0 1
+0 75 27 20
 1
 end_operator
 begin_operator
@@ -155132,8 +155132,8 @@ succumb prostatitis-18 satisfaction yogurt neptune vulcan
 1
 4 5
 2
-0 75 27 20
 0 63 1 3
+0 75 27 20
 1
 end_operator
 begin_operator
@@ -155141,8 +155141,8 @@ succumb prostatitis-18 satisfaction yogurt vulcan venus
 1
 4 5
 2
-0 75 27 20
 0 63 3 2
+0 75 27 20
 1
 end_operator
 begin_operator
@@ -156013,24 +156013,24 @@ begin_operator
 succumb prostatitis-29 curiosity ham mars neptune
 0
 2
-0 67 23 3
 0 23 0 1
+0 67 23 3
 1
 end_operator
 begin_operator
 succumb prostatitis-29 curiosity ham neptune vulcan
 0
 2
-0 67 23 3
 0 23 1 3
+0 67 23 3
 1
 end_operator
 begin_operator
 succumb prostatitis-29 curiosity ham vulcan venus
 0
 2
-0 67 23 3
 0 23 3 2
+0 67 23 3
 1
 end_operator
 begin_operator
@@ -156038,8 +156038,8 @@ succumb prostatitis-29 entertainment marzipan mars neptune
 1
 6 0
 2
-0 67 24 9
 0 50 0 1
+0 67 24 9
 1
 end_operator
 begin_operator
@@ -156047,8 +156047,8 @@ succumb prostatitis-29 entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 67 24 9
 0 50 1 3
+0 67 24 9
 1
 end_operator
 begin_operator
@@ -156056,8 +156056,8 @@ succumb prostatitis-29 entertainment marzipan vulcan venus
 1
 6 0
 2
-0 67 24 9
 0 50 3 2
+0 67 24 9
 1
 end_operator
 begin_operator
@@ -156065,8 +156065,8 @@ succumb prostatitis-29 entertainment mutton mars neptune
 1
 6 1
 2
-0 67 24 12
 0 50 0 1
+0 67 24 12
 1
 end_operator
 begin_operator
@@ -156074,8 +156074,8 @@ succumb prostatitis-29 entertainment mutton neptune vulcan
 1
 6 1
 2
-0 67 24 12
 0 50 1 3
+0 67 24 12
 1
 end_operator
 begin_operator
@@ -156083,8 +156083,8 @@ succumb prostatitis-29 entertainment mutton vulcan venus
 1
 6 1
 2
-0 67 24 12
 0 50 3 2
+0 67 24 12
 1
 end_operator
 begin_operator
@@ -156092,8 +156092,8 @@ succumb prostatitis-29 entertainment scallop mars neptune
 1
 6 2
 2
-0 67 24 18
 0 50 0 1
+0 67 24 18
 1
 end_operator
 begin_operator
@@ -156101,8 +156101,8 @@ succumb prostatitis-29 entertainment scallop neptune vulcan
 1
 6 2
 2
-0 67 24 18
 0 50 1 3
+0 67 24 18
 1
 end_operator
 begin_operator
@@ -156110,8 +156110,8 @@ succumb prostatitis-29 entertainment scallop vulcan venus
 1
 6 2
 2
-0 67 24 18
 0 50 3 2
+0 67 24 18
 1
 end_operator
 begin_operator
@@ -156119,8 +156119,8 @@ succumb prostatitis-29 intoxication chocolate mars neptune
 1
 3 0
 2
-0 67 25 1
 0 62 0 1
+0 67 25 1
 1
 end_operator
 begin_operator
@@ -156128,8 +156128,8 @@ succumb prostatitis-29 intoxication chocolate neptune vulcan
 1
 3 0
 2
-0 67 25 1
 0 62 1 3
+0 67 25 1
 1
 end_operator
 begin_operator
@@ -156137,8 +156137,8 @@ succumb prostatitis-29 intoxication chocolate vulcan venus
 1
 3 0
 2
-0 67 25 1
 0 62 3 2
+0 67 25 1
 1
 end_operator
 begin_operator
@@ -156146,8 +156146,8 @@ succumb prostatitis-29 intoxication lettuce mars neptune
 1
 3 1
 2
-0 67 25 7
 0 62 0 1
+0 67 25 7
 1
 end_operator
 begin_operator
@@ -156155,8 +156155,8 @@ succumb prostatitis-29 intoxication lettuce neptune vulcan
 1
 3 1
 2
-0 67 25 7
 0 62 1 3
+0 67 25 7
 1
 end_operator
 begin_operator
@@ -156164,8 +156164,8 @@ succumb prostatitis-29 intoxication lettuce vulcan venus
 1
 3 1
 2
-0 67 25 7
 0 62 3 2
+0 67 25 7
 1
 end_operator
 begin_operator
@@ -156173,8 +156173,8 @@ succumb prostatitis-29 intoxication marzipan mars neptune
 1
 3 2
 2
-0 67 25 9
 0 62 0 1
+0 67 25 9
 1
 end_operator
 begin_operator
@@ -156182,8 +156182,8 @@ succumb prostatitis-29 intoxication marzipan neptune vulcan
 1
 3 2
 2
-0 67 25 9
 0 62 1 3
+0 67 25 9
 1
 end_operator
 begin_operator
@@ -156191,8 +156191,8 @@ succumb prostatitis-29 intoxication marzipan vulcan venus
 1
 3 2
 2
-0 67 25 9
 0 62 3 2
+0 67 25 9
 1
 end_operator
 begin_operator
@@ -156200,8 +156200,8 @@ succumb prostatitis-29 intoxication rice mars neptune
 1
 3 3
 2
-0 67 25 16
 0 62 0 1
+0 67 25 16
 1
 end_operator
 begin_operator
@@ -156209,8 +156209,8 @@ succumb prostatitis-29 intoxication rice neptune vulcan
 1
 3 3
 2
-0 67 25 16
 0 62 1 3
+0 67 25 16
 1
 end_operator
 begin_operator
@@ -156218,8 +156218,8 @@ succumb prostatitis-29 intoxication rice vulcan venus
 1
 3 3
 2
-0 67 25 16
 0 62 3 2
+0 67 25 16
 1
 end_operator
 begin_operator
@@ -156227,8 +156227,8 @@ succumb prostatitis-29 intoxication scallop mars neptune
 1
 3 4
 2
-0 67 25 18
 0 62 0 1
+0 67 25 18
 1
 end_operator
 begin_operator
@@ -156236,8 +156236,8 @@ succumb prostatitis-29 intoxication scallop neptune vulcan
 1
 3 4
 2
-0 67 25 18
 0 62 1 3
+0 67 25 18
 1
 end_operator
 begin_operator
@@ -156245,8 +156245,8 @@ succumb prostatitis-29 intoxication scallop vulcan venus
 1
 3 4
 2
-0 67 25 18
 0 62 3 2
+0 67 25 18
 1
 end_operator
 begin_operator
@@ -156254,8 +156254,8 @@ succumb prostatitis-29 intoxication yogurt mars neptune
 1
 3 5
 2
-0 67 25 20
 0 62 0 1
+0 67 25 20
 1
 end_operator
 begin_operator
@@ -156263,8 +156263,8 @@ succumb prostatitis-29 intoxication yogurt neptune vulcan
 1
 3 5
 2
-0 67 25 20
 0 62 1 3
+0 67 25 20
 1
 end_operator
 begin_operator
@@ -156272,8 +156272,8 @@ succumb prostatitis-29 intoxication yogurt vulcan venus
 1
 3 5
 2
-0 67 25 20
 0 62 3 2
+0 67 25 20
 1
 end_operator
 begin_operator
@@ -156713,8 +156713,8 @@ succumb prostatitis-29 satisfaction chocolate mars neptune
 1
 4 0
 2
-0 67 27 1
 0 63 0 1
+0 67 27 1
 1
 end_operator
 begin_operator
@@ -156722,8 +156722,8 @@ succumb prostatitis-29 satisfaction chocolate neptune vulcan
 1
 4 0
 2
-0 67 27 1
 0 63 1 3
+0 67 27 1
 1
 end_operator
 begin_operator
@@ -156731,8 +156731,8 @@ succumb prostatitis-29 satisfaction chocolate vulcan venus
 1
 4 0
 2
-0 67 27 1
 0 63 3 2
+0 67 27 1
 1
 end_operator
 begin_operator
@@ -156740,8 +156740,8 @@ succumb prostatitis-29 satisfaction lettuce mars neptune
 1
 4 1
 2
-0 67 27 7
 0 63 0 1
+0 67 27 7
 1
 end_operator
 begin_operator
@@ -156749,8 +156749,8 @@ succumb prostatitis-29 satisfaction lettuce neptune vulcan
 1
 4 1
 2
-0 67 27 7
 0 63 1 3
+0 67 27 7
 1
 end_operator
 begin_operator
@@ -156758,8 +156758,8 @@ succumb prostatitis-29 satisfaction lettuce vulcan venus
 1
 4 1
 2
-0 67 27 7
 0 63 3 2
+0 67 27 7
 1
 end_operator
 begin_operator
@@ -156767,8 +156767,8 @@ succumb prostatitis-29 satisfaction marzipan mars neptune
 1
 4 2
 2
-0 67 27 9
 0 63 0 1
+0 67 27 9
 1
 end_operator
 begin_operator
@@ -156776,8 +156776,8 @@ succumb prostatitis-29 satisfaction marzipan neptune vulcan
 1
 4 2
 2
-0 67 27 9
 0 63 1 3
+0 67 27 9
 1
 end_operator
 begin_operator
@@ -156785,8 +156785,8 @@ succumb prostatitis-29 satisfaction marzipan vulcan venus
 1
 4 2
 2
-0 67 27 9
 0 63 3 2
+0 67 27 9
 1
 end_operator
 begin_operator
@@ -156794,8 +156794,8 @@ succumb prostatitis-29 satisfaction rice mars neptune
 1
 4 3
 2
-0 67 27 16
 0 63 0 1
+0 67 27 16
 1
 end_operator
 begin_operator
@@ -156803,8 +156803,8 @@ succumb prostatitis-29 satisfaction rice neptune vulcan
 1
 4 3
 2
-0 67 27 16
 0 63 1 3
+0 67 27 16
 1
 end_operator
 begin_operator
@@ -156812,8 +156812,8 @@ succumb prostatitis-29 satisfaction rice vulcan venus
 1
 4 3
 2
-0 67 27 16
 0 63 3 2
+0 67 27 16
 1
 end_operator
 begin_operator
@@ -156821,8 +156821,8 @@ succumb prostatitis-29 satisfaction scallop mars neptune
 1
 4 4
 2
-0 67 27 18
 0 63 0 1
+0 67 27 18
 1
 end_operator
 begin_operator
@@ -156830,8 +156830,8 @@ succumb prostatitis-29 satisfaction scallop neptune vulcan
 1
 4 4
 2
-0 67 27 18
 0 63 1 3
+0 67 27 18
 1
 end_operator
 begin_operator
@@ -156839,8 +156839,8 @@ succumb prostatitis-29 satisfaction scallop vulcan venus
 1
 4 4
 2
-0 67 27 18
 0 63 3 2
+0 67 27 18
 1
 end_operator
 begin_operator
@@ -156848,8 +156848,8 @@ succumb prostatitis-29 satisfaction yogurt mars neptune
 1
 4 5
 2
-0 67 27 20
 0 63 0 1
+0 67 27 20
 1
 end_operator
 begin_operator
@@ -156857,8 +156857,8 @@ succumb prostatitis-29 satisfaction yogurt neptune vulcan
 1
 4 5
 2
-0 67 27 20
 0 63 1 3
+0 67 27 20
 1
 end_operator
 begin_operator
@@ -156866,8 +156866,8 @@ succumb prostatitis-29 satisfaction yogurt vulcan venus
 1
 4 5
 2
-0 67 27 20
 0 63 3 2
+0 67 27 20
 1
 end_operator
 begin_operator
@@ -157738,24 +157738,24 @@ begin_operator
 succumb sciatica curiosity ham mars neptune
 0
 2
-0 68 23 3
 0 23 0 1
+0 68 23 3
 1
 end_operator
 begin_operator
 succumb sciatica curiosity ham neptune vulcan
 0
 2
-0 68 23 3
 0 23 1 3
+0 68 23 3
 1
 end_operator
 begin_operator
 succumb sciatica curiosity ham vulcan venus
 0
 2
-0 68 23 3
 0 23 3 2
+0 68 23 3
 1
 end_operator
 begin_operator
@@ -157763,8 +157763,8 @@ succumb sciatica entertainment marzipan mars neptune
 1
 6 0
 2
-0 68 24 9
 0 50 0 1
+0 68 24 9
 1
 end_operator
 begin_operator
@@ -157772,8 +157772,8 @@ succumb sciatica entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 68 24 9
 0 50 1 3
+0 68 24 9
 1
 end_operator
 begin_operator
@@ -157781,8 +157781,8 @@ succumb sciatica entertainment marzipan vulcan venus
 1
 6 0
 2
-0 68 24 9
 0 50 3 2
+0 68 24 9
 1
 end_operator
 begin_operator
@@ -157790,8 +157790,8 @@ succumb sciatica entertainment mutton mars neptune
 1
 6 1
 2
-0 68 24 12
 0 50 0 1
+0 68 24 12
 1
 end_operator
 begin_operator
@@ -157799,8 +157799,8 @@ succumb sciatica entertainment mutton neptune vulcan
 1
 6 1
 2
-0 68 24 12
 0 50 1 3
+0 68 24 12
 1
 end_operator
 begin_operator
@@ -157808,8 +157808,8 @@ succumb sciatica entertainment mutton vulcan venus
 1
 6 1
 2
-0 68 24 12
 0 50 3 2
+0 68 24 12
 1
 end_operator
 begin_operator
@@ -157817,8 +157817,8 @@ succumb sciatica entertainment scallop mars neptune
 1
 6 2
 2
-0 68 24 18
 0 50 0 1
+0 68 24 18
 1
 end_operator
 begin_operator
@@ -157826,8 +157826,8 @@ succumb sciatica entertainment scallop neptune vulcan
 1
 6 2
 2
-0 68 24 18
 0 50 1 3
+0 68 24 18
 1
 end_operator
 begin_operator
@@ -157835,8 +157835,8 @@ succumb sciatica entertainment scallop vulcan venus
 1
 6 2
 2
-0 68 24 18
 0 50 3 2
+0 68 24 18
 1
 end_operator
 begin_operator
@@ -157844,8 +157844,8 @@ succumb sciatica intoxication chocolate mars neptune
 1
 3 0
 2
-0 68 25 1
 0 62 0 1
+0 68 25 1
 1
 end_operator
 begin_operator
@@ -157853,8 +157853,8 @@ succumb sciatica intoxication chocolate neptune vulcan
 1
 3 0
 2
-0 68 25 1
 0 62 1 3
+0 68 25 1
 1
 end_operator
 begin_operator
@@ -157862,8 +157862,8 @@ succumb sciatica intoxication chocolate vulcan venus
 1
 3 0
 2
-0 68 25 1
 0 62 3 2
+0 68 25 1
 1
 end_operator
 begin_operator
@@ -157871,8 +157871,8 @@ succumb sciatica intoxication lettuce mars neptune
 1
 3 1
 2
-0 68 25 7
 0 62 0 1
+0 68 25 7
 1
 end_operator
 begin_operator
@@ -157880,8 +157880,8 @@ succumb sciatica intoxication lettuce neptune vulcan
 1
 3 1
 2
-0 68 25 7
 0 62 1 3
+0 68 25 7
 1
 end_operator
 begin_operator
@@ -157889,8 +157889,8 @@ succumb sciatica intoxication lettuce vulcan venus
 1
 3 1
 2
-0 68 25 7
 0 62 3 2
+0 68 25 7
 1
 end_operator
 begin_operator
@@ -157898,8 +157898,8 @@ succumb sciatica intoxication marzipan mars neptune
 1
 3 2
 2
-0 68 25 9
 0 62 0 1
+0 68 25 9
 1
 end_operator
 begin_operator
@@ -157907,8 +157907,8 @@ succumb sciatica intoxication marzipan neptune vulcan
 1
 3 2
 2
-0 68 25 9
 0 62 1 3
+0 68 25 9
 1
 end_operator
 begin_operator
@@ -157916,8 +157916,8 @@ succumb sciatica intoxication marzipan vulcan venus
 1
 3 2
 2
-0 68 25 9
 0 62 3 2
+0 68 25 9
 1
 end_operator
 begin_operator
@@ -157925,8 +157925,8 @@ succumb sciatica intoxication rice mars neptune
 1
 3 3
 2
-0 68 25 16
 0 62 0 1
+0 68 25 16
 1
 end_operator
 begin_operator
@@ -157934,8 +157934,8 @@ succumb sciatica intoxication rice neptune vulcan
 1
 3 3
 2
-0 68 25 16
 0 62 1 3
+0 68 25 16
 1
 end_operator
 begin_operator
@@ -157943,8 +157943,8 @@ succumb sciatica intoxication rice vulcan venus
 1
 3 3
 2
-0 68 25 16
 0 62 3 2
+0 68 25 16
 1
 end_operator
 begin_operator
@@ -157952,8 +157952,8 @@ succumb sciatica intoxication scallop mars neptune
 1
 3 4
 2
-0 68 25 18
 0 62 0 1
+0 68 25 18
 1
 end_operator
 begin_operator
@@ -157961,8 +157961,8 @@ succumb sciatica intoxication scallop neptune vulcan
 1
 3 4
 2
-0 68 25 18
 0 62 1 3
+0 68 25 18
 1
 end_operator
 begin_operator
@@ -157970,8 +157970,8 @@ succumb sciatica intoxication scallop vulcan venus
 1
 3 4
 2
-0 68 25 18
 0 62 3 2
+0 68 25 18
 1
 end_operator
 begin_operator
@@ -157979,8 +157979,8 @@ succumb sciatica intoxication yogurt mars neptune
 1
 3 5
 2
-0 68 25 20
 0 62 0 1
+0 68 25 20
 1
 end_operator
 begin_operator
@@ -157988,8 +157988,8 @@ succumb sciatica intoxication yogurt neptune vulcan
 1
 3 5
 2
-0 68 25 20
 0 62 1 3
+0 68 25 20
 1
 end_operator
 begin_operator
@@ -157997,8 +157997,8 @@ succumb sciatica intoxication yogurt vulcan venus
 1
 3 5
 2
-0 68 25 20
 0 62 3 2
+0 68 25 20
 1
 end_operator
 begin_operator
@@ -158438,8 +158438,8 @@ succumb sciatica satisfaction chocolate mars neptune
 1
 4 0
 2
-0 68 27 1
 0 63 0 1
+0 68 27 1
 1
 end_operator
 begin_operator
@@ -158447,8 +158447,8 @@ succumb sciatica satisfaction chocolate neptune vulcan
 1
 4 0
 2
-0 68 27 1
 0 63 1 3
+0 68 27 1
 1
 end_operator
 begin_operator
@@ -158456,8 +158456,8 @@ succumb sciatica satisfaction chocolate vulcan venus
 1
 4 0
 2
-0 68 27 1
 0 63 3 2
+0 68 27 1
 1
 end_operator
 begin_operator
@@ -158465,8 +158465,8 @@ succumb sciatica satisfaction lettuce mars neptune
 1
 4 1
 2
-0 68 27 7
 0 63 0 1
+0 68 27 7
 1
 end_operator
 begin_operator
@@ -158474,8 +158474,8 @@ succumb sciatica satisfaction lettuce neptune vulcan
 1
 4 1
 2
-0 68 27 7
 0 63 1 3
+0 68 27 7
 1
 end_operator
 begin_operator
@@ -158483,8 +158483,8 @@ succumb sciatica satisfaction lettuce vulcan venus
 1
 4 1
 2
-0 68 27 7
 0 63 3 2
+0 68 27 7
 1
 end_operator
 begin_operator
@@ -158492,8 +158492,8 @@ succumb sciatica satisfaction marzipan mars neptune
 1
 4 2
 2
-0 68 27 9
 0 63 0 1
+0 68 27 9
 1
 end_operator
 begin_operator
@@ -158501,8 +158501,8 @@ succumb sciatica satisfaction marzipan neptune vulcan
 1
 4 2
 2
-0 68 27 9
 0 63 1 3
+0 68 27 9
 1
 end_operator
 begin_operator
@@ -158510,8 +158510,8 @@ succumb sciatica satisfaction marzipan vulcan venus
 1
 4 2
 2
-0 68 27 9
 0 63 3 2
+0 68 27 9
 1
 end_operator
 begin_operator
@@ -158519,8 +158519,8 @@ succumb sciatica satisfaction rice mars neptune
 1
 4 3
 2
-0 68 27 16
 0 63 0 1
+0 68 27 16
 1
 end_operator
 begin_operator
@@ -158528,8 +158528,8 @@ succumb sciatica satisfaction rice neptune vulcan
 1
 4 3
 2
-0 68 27 16
 0 63 1 3
+0 68 27 16
 1
 end_operator
 begin_operator
@@ -158537,8 +158537,8 @@ succumb sciatica satisfaction rice vulcan venus
 1
 4 3
 2
-0 68 27 16
 0 63 3 2
+0 68 27 16
 1
 end_operator
 begin_operator
@@ -158546,8 +158546,8 @@ succumb sciatica satisfaction scallop mars neptune
 1
 4 4
 2
-0 68 27 18
 0 63 0 1
+0 68 27 18
 1
 end_operator
 begin_operator
@@ -158555,8 +158555,8 @@ succumb sciatica satisfaction scallop neptune vulcan
 1
 4 4
 2
-0 68 27 18
 0 63 1 3
+0 68 27 18
 1
 end_operator
 begin_operator
@@ -158564,8 +158564,8 @@ succumb sciatica satisfaction scallop vulcan venus
 1
 4 4
 2
-0 68 27 18
 0 63 3 2
+0 68 27 18
 1
 end_operator
 begin_operator
@@ -158573,8 +158573,8 @@ succumb sciatica satisfaction yogurt mars neptune
 1
 4 5
 2
-0 68 27 20
 0 63 0 1
+0 68 27 20
 1
 end_operator
 begin_operator
@@ -158582,8 +158582,8 @@ succumb sciatica satisfaction yogurt neptune vulcan
 1
 4 5
 2
-0 68 27 20
 0 63 1 3
+0 68 27 20
 1
 end_operator
 begin_operator
@@ -158591,8 +158591,8 @@ succumb sciatica satisfaction yogurt vulcan venus
 1
 4 5
 2
-0 68 27 20
 0 63 3 2
+0 68 27 20
 1
 end_operator
 begin_operator
@@ -159463,24 +159463,24 @@ begin_operator
 succumb sciatica-10 curiosity ham mars neptune
 0
 2
-0 69 23 3
 0 23 0 1
+0 69 23 3
 1
 end_operator
 begin_operator
 succumb sciatica-10 curiosity ham neptune vulcan
 0
 2
-0 69 23 3
 0 23 1 3
+0 69 23 3
 1
 end_operator
 begin_operator
 succumb sciatica-10 curiosity ham vulcan venus
 0
 2
-0 69 23 3
 0 23 3 2
+0 69 23 3
 1
 end_operator
 begin_operator
@@ -159488,8 +159488,8 @@ succumb sciatica-10 entertainment marzipan mars neptune
 1
 6 0
 2
-0 69 24 9
 0 50 0 1
+0 69 24 9
 1
 end_operator
 begin_operator
@@ -159497,8 +159497,8 @@ succumb sciatica-10 entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 69 24 9
 0 50 1 3
+0 69 24 9
 1
 end_operator
 begin_operator
@@ -159506,8 +159506,8 @@ succumb sciatica-10 entertainment marzipan vulcan venus
 1
 6 0
 2
-0 69 24 9
 0 50 3 2
+0 69 24 9
 1
 end_operator
 begin_operator
@@ -159515,8 +159515,8 @@ succumb sciatica-10 entertainment mutton mars neptune
 1
 6 1
 2
-0 69 24 12
 0 50 0 1
+0 69 24 12
 1
 end_operator
 begin_operator
@@ -159524,8 +159524,8 @@ succumb sciatica-10 entertainment mutton neptune vulcan
 1
 6 1
 2
-0 69 24 12
 0 50 1 3
+0 69 24 12
 1
 end_operator
 begin_operator
@@ -159533,8 +159533,8 @@ succumb sciatica-10 entertainment mutton vulcan venus
 1
 6 1
 2
-0 69 24 12
 0 50 3 2
+0 69 24 12
 1
 end_operator
 begin_operator
@@ -159542,8 +159542,8 @@ succumb sciatica-10 entertainment scallop mars neptune
 1
 6 2
 2
-0 69 24 18
 0 50 0 1
+0 69 24 18
 1
 end_operator
 begin_operator
@@ -159551,8 +159551,8 @@ succumb sciatica-10 entertainment scallop neptune vulcan
 1
 6 2
 2
-0 69 24 18
 0 50 1 3
+0 69 24 18
 1
 end_operator
 begin_operator
@@ -159560,8 +159560,8 @@ succumb sciatica-10 entertainment scallop vulcan venus
 1
 6 2
 2
-0 69 24 18
 0 50 3 2
+0 69 24 18
 1
 end_operator
 begin_operator
@@ -159569,8 +159569,8 @@ succumb sciatica-10 intoxication chocolate mars neptune
 1
 3 0
 2
-0 69 25 1
 0 62 0 1
+0 69 25 1
 1
 end_operator
 begin_operator
@@ -159578,8 +159578,8 @@ succumb sciatica-10 intoxication chocolate neptune vulcan
 1
 3 0
 2
-0 69 25 1
 0 62 1 3
+0 69 25 1
 1
 end_operator
 begin_operator
@@ -159587,8 +159587,8 @@ succumb sciatica-10 intoxication chocolate vulcan venus
 1
 3 0
 2
-0 69 25 1
 0 62 3 2
+0 69 25 1
 1
 end_operator
 begin_operator
@@ -159596,8 +159596,8 @@ succumb sciatica-10 intoxication lettuce mars neptune
 1
 3 1
 2
-0 69 25 7
 0 62 0 1
+0 69 25 7
 1
 end_operator
 begin_operator
@@ -159605,8 +159605,8 @@ succumb sciatica-10 intoxication lettuce neptune vulcan
 1
 3 1
 2
-0 69 25 7
 0 62 1 3
+0 69 25 7
 1
 end_operator
 begin_operator
@@ -159614,8 +159614,8 @@ succumb sciatica-10 intoxication lettuce vulcan venus
 1
 3 1
 2
-0 69 25 7
 0 62 3 2
+0 69 25 7
 1
 end_operator
 begin_operator
@@ -159623,8 +159623,8 @@ succumb sciatica-10 intoxication marzipan mars neptune
 1
 3 2
 2
-0 69 25 9
 0 62 0 1
+0 69 25 9
 1
 end_operator
 begin_operator
@@ -159632,8 +159632,8 @@ succumb sciatica-10 intoxication marzipan neptune vulcan
 1
 3 2
 2
-0 69 25 9
 0 62 1 3
+0 69 25 9
 1
 end_operator
 begin_operator
@@ -159641,8 +159641,8 @@ succumb sciatica-10 intoxication marzipan vulcan venus
 1
 3 2
 2
-0 69 25 9
 0 62 3 2
+0 69 25 9
 1
 end_operator
 begin_operator
@@ -159650,8 +159650,8 @@ succumb sciatica-10 intoxication rice mars neptune
 1
 3 3
 2
-0 69 25 16
 0 62 0 1
+0 69 25 16
 1
 end_operator
 begin_operator
@@ -159659,8 +159659,8 @@ succumb sciatica-10 intoxication rice neptune vulcan
 1
 3 3
 2
-0 69 25 16
 0 62 1 3
+0 69 25 16
 1
 end_operator
 begin_operator
@@ -159668,8 +159668,8 @@ succumb sciatica-10 intoxication rice vulcan venus
 1
 3 3
 2
-0 69 25 16
 0 62 3 2
+0 69 25 16
 1
 end_operator
 begin_operator
@@ -159677,8 +159677,8 @@ succumb sciatica-10 intoxication scallop mars neptune
 1
 3 4
 2
-0 69 25 18
 0 62 0 1
+0 69 25 18
 1
 end_operator
 begin_operator
@@ -159686,8 +159686,8 @@ succumb sciatica-10 intoxication scallop neptune vulcan
 1
 3 4
 2
-0 69 25 18
 0 62 1 3
+0 69 25 18
 1
 end_operator
 begin_operator
@@ -159695,8 +159695,8 @@ succumb sciatica-10 intoxication scallop vulcan venus
 1
 3 4
 2
-0 69 25 18
 0 62 3 2
+0 69 25 18
 1
 end_operator
 begin_operator
@@ -159704,8 +159704,8 @@ succumb sciatica-10 intoxication yogurt mars neptune
 1
 3 5
 2
-0 69 25 20
 0 62 0 1
+0 69 25 20
 1
 end_operator
 begin_operator
@@ -159713,8 +159713,8 @@ succumb sciatica-10 intoxication yogurt neptune vulcan
 1
 3 5
 2
-0 69 25 20
 0 62 1 3
+0 69 25 20
 1
 end_operator
 begin_operator
@@ -159722,8 +159722,8 @@ succumb sciatica-10 intoxication yogurt vulcan venus
 1
 3 5
 2
-0 69 25 20
 0 62 3 2
+0 69 25 20
 1
 end_operator
 begin_operator
@@ -160163,8 +160163,8 @@ succumb sciatica-10 satisfaction chocolate mars neptune
 1
 4 0
 2
-0 69 27 1
 0 63 0 1
+0 69 27 1
 1
 end_operator
 begin_operator
@@ -160172,8 +160172,8 @@ succumb sciatica-10 satisfaction chocolate neptune vulcan
 1
 4 0
 2
-0 69 27 1
 0 63 1 3
+0 69 27 1
 1
 end_operator
 begin_operator
@@ -160181,8 +160181,8 @@ succumb sciatica-10 satisfaction chocolate vulcan venus
 1
 4 0
 2
-0 69 27 1
 0 63 3 2
+0 69 27 1
 1
 end_operator
 begin_operator
@@ -160190,8 +160190,8 @@ succumb sciatica-10 satisfaction lettuce mars neptune
 1
 4 1
 2
-0 69 27 7
 0 63 0 1
+0 69 27 7
 1
 end_operator
 begin_operator
@@ -160199,8 +160199,8 @@ succumb sciatica-10 satisfaction lettuce neptune vulcan
 1
 4 1
 2
-0 69 27 7
 0 63 1 3
+0 69 27 7
 1
 end_operator
 begin_operator
@@ -160208,8 +160208,8 @@ succumb sciatica-10 satisfaction lettuce vulcan venus
 1
 4 1
 2
-0 69 27 7
 0 63 3 2
+0 69 27 7
 1
 end_operator
 begin_operator
@@ -160217,8 +160217,8 @@ succumb sciatica-10 satisfaction marzipan mars neptune
 1
 4 2
 2
-0 69 27 9
 0 63 0 1
+0 69 27 9
 1
 end_operator
 begin_operator
@@ -160226,8 +160226,8 @@ succumb sciatica-10 satisfaction marzipan neptune vulcan
 1
 4 2
 2
-0 69 27 9
 0 63 1 3
+0 69 27 9
 1
 end_operator
 begin_operator
@@ -160235,8 +160235,8 @@ succumb sciatica-10 satisfaction marzipan vulcan venus
 1
 4 2
 2
-0 69 27 9
 0 63 3 2
+0 69 27 9
 1
 end_operator
 begin_operator
@@ -160244,8 +160244,8 @@ succumb sciatica-10 satisfaction rice mars neptune
 1
 4 3
 2
-0 69 27 16
 0 63 0 1
+0 69 27 16
 1
 end_operator
 begin_operator
@@ -160253,8 +160253,8 @@ succumb sciatica-10 satisfaction rice neptune vulcan
 1
 4 3
 2
-0 69 27 16
 0 63 1 3
+0 69 27 16
 1
 end_operator
 begin_operator
@@ -160262,8 +160262,8 @@ succumb sciatica-10 satisfaction rice vulcan venus
 1
 4 3
 2
-0 69 27 16
 0 63 3 2
+0 69 27 16
 1
 end_operator
 begin_operator
@@ -160271,8 +160271,8 @@ succumb sciatica-10 satisfaction scallop mars neptune
 1
 4 4
 2
-0 69 27 18
 0 63 0 1
+0 69 27 18
 1
 end_operator
 begin_operator
@@ -160280,8 +160280,8 @@ succumb sciatica-10 satisfaction scallop neptune vulcan
 1
 4 4
 2
-0 69 27 18
 0 63 1 3
+0 69 27 18
 1
 end_operator
 begin_operator
@@ -160289,8 +160289,8 @@ succumb sciatica-10 satisfaction scallop vulcan venus
 1
 4 4
 2
-0 69 27 18
 0 63 3 2
+0 69 27 18
 1
 end_operator
 begin_operator
@@ -160298,8 +160298,8 @@ succumb sciatica-10 satisfaction yogurt mars neptune
 1
 4 5
 2
-0 69 27 20
 0 63 0 1
+0 69 27 20
 1
 end_operator
 begin_operator
@@ -160307,8 +160307,8 @@ succumb sciatica-10 satisfaction yogurt neptune vulcan
 1
 4 5
 2
-0 69 27 20
 0 63 1 3
+0 69 27 20
 1
 end_operator
 begin_operator
@@ -160316,8 +160316,8 @@ succumb sciatica-10 satisfaction yogurt vulcan venus
 1
 4 5
 2
-0 69 27 20
 0 63 3 2
+0 69 27 20
 1
 end_operator
 begin_operator
@@ -161188,24 +161188,24 @@ begin_operator
 succumb sciatica-16 curiosity ham mars neptune
 0
 2
-0 70 23 3
 0 23 0 1
+0 70 23 3
 1
 end_operator
 begin_operator
 succumb sciatica-16 curiosity ham neptune vulcan
 0
 2
-0 70 23 3
 0 23 1 3
+0 70 23 3
 1
 end_operator
 begin_operator
 succumb sciatica-16 curiosity ham vulcan venus
 0
 2
-0 70 23 3
 0 23 3 2
+0 70 23 3
 1
 end_operator
 begin_operator
@@ -161213,8 +161213,8 @@ succumb sciatica-16 entertainment marzipan mars neptune
 1
 6 0
 2
-0 70 24 9
 0 50 0 1
+0 70 24 9
 1
 end_operator
 begin_operator
@@ -161222,8 +161222,8 @@ succumb sciatica-16 entertainment marzipan neptune vulcan
 1
 6 0
 2
-0 70 24 9
 0 50 1 3
+0 70 24 9
 1
 end_operator
 begin_operator
@@ -161231,8 +161231,8 @@ succumb sciatica-16 entertainment marzipan vulcan venus
 1
 6 0
 2
-0 70 24 9
 0 50 3 2
+0 70 24 9
 1
 end_operator
 begin_operator
@@ -161240,8 +161240,8 @@ succumb sciatica-16 entertainment mutton mars neptune
 1
 6 1
 2
-0 70 24 12
 0 50 0 1
+0 70 24 12
 1
 end_operator
 begin_operator
@@ -161249,8 +161249,8 @@ succumb sciatica-16 entertainment mutton neptune vulcan
 1
 6 1
 2
-0 70 24 12
 0 50 1 3
+0 70 24 12
 1
 end_operator
 begin_operator
@@ -161258,8 +161258,8 @@ succumb sciatica-16 entertainment mutton vulcan venus
 1
 6 1
 2
-0 70 24 12
 0 50 3 2
+0 70 24 12
 1
 end_operator
 begin_operator
@@ -161267,8 +161267,8 @@ succumb sciatica-16 entertainment scallop mars neptune
 1
 6 2
 2
-0 70 24 18
 0 50 0 1
+0 70 24 18
 1
 end_operator
 begin_operator
@@ -161276,8 +161276,8 @@ succumb sciatica-16 entertainment scallop neptune vulcan
 1
 6 2
 2
-0 70 24 18
 0 50 1 3
+0 70 24 18
 1
 end_operator
 begin_operator
@@ -161285,8 +161285,8 @@ succumb sciatica-16 entertainment scallop vulcan venus
 1
 6 2
 2
-0 70 24 18
 0 50 3 2
+0 70 24 18
 1
 end_operator
 begin_operator
@@ -161294,8 +161294,8 @@ succumb sciatica-16 intoxication chocolate mars neptune
 1
 3 0
 2
-0 70 25 1
 0 62 0 1
+0 70 25 1
 1
 end_operator
 begin_operator
@@ -161303,8 +161303,8 @@ succumb sciatica-16 intoxication chocolate neptune vulcan
 1
 3 0
 2
-0 70 25 1
 0 62 1 3
+0 70 25 1
 1
 end_operator
 begin_operator
@@ -161312,8 +161312,8 @@ succumb sciatica-16 intoxication chocolate vulcan venus
 1
 3 0
 2
-0 70 25 1
 0 62 3 2
+0 70 25 1
 1
 end_operator
 begin_operator
@@ -161321,8 +161321,8 @@ succumb sciatica-16 intoxication lettuce mars neptune
 1
 3 1
 2
-0 70 25 7
 0 62 0 1
+0 70 25 7
 1
 end_operator
 begin_operator
@@ -161330,8 +161330,8 @@ succumb sciatica-16 intoxication lettuce neptune vulcan
 1
 3 1
 2
-0 70 25 7
 0 62 1 3
+0 70 25 7
 1
 end_operator
 begin_operator
@@ -161339,8 +161339,8 @@ succumb sciatica-16 intoxication lettuce vulcan venus
 1
 3 1
 2
-0 70 25 7
 0 62 3 2
+0 70 25 7
 1
 end_operator
 begin_operator
@@ -161348,8 +161348,8 @@ succumb sciatica-16 intoxication marzipan mars neptune
 1
 3 2
 2
-0 70 25 9
 0 62 0 1
+0 70 25 9
 1
 end_operator
 begin_operator
@@ -161357,8 +161357,8 @@ succumb sciatica-16 intoxication marzipan neptune vulcan
 1
 3 2
 2
-0 70 25 9
 0 62 1 3
+0 70 25 9
 1
 end_operator
 begin_operator
@@ -161366,8 +161366,8 @@ succumb sciatica-16 intoxication marzipan vulcan venus
 1
 3 2
 2
-0 70 25 9
 0 62 3 2
+0 70 25 9
 1
 end_operator
 begin_operator
@@ -161375,8 +161375,8 @@ succumb sciatica-16 intoxication rice mars neptune
 1
 3 3
 2
-0 70 25 16
 0 62 0 1
+0 70 25 16
 1
 end_operator
 begin_operator
@@ -161384,8 +161384,8 @@ succumb sciatica-16 intoxication rice neptune vulcan
 1
 3 3
 2
-0 70 25 16
 0 62 1 3
+0 70 25 16
 1
 end_operator
 begin_operator
@@ -161393,8 +161393,8 @@ succumb sciatica-16 intoxication rice vulcan venus
 1
 3 3
 2
-0 70 25 16
 0 62 3 2
+0 70 25 16
 1
 end_operator
 begin_operator
@@ -161402,8 +161402,8 @@ succumb sciatica-16 intoxication scallop mars neptune
 1
 3 4
 2
-0 70 25 18
 0 62 0 1
+0 70 25 18
 1
 end_operator
 begin_operator
@@ -161411,8 +161411,8 @@ succumb sciatica-16 intoxication scallop neptune vulcan
 1
 3 4
 2
-0 70 25 18
 0 62 1 3
+0 70 25 18
 1
 end_operator
 begin_operator
@@ -161420,8 +161420,8 @@ succumb sciatica-16 intoxication scallop vulcan venus
 1
 3 4
 2
-0 70 25 18
 0 62 3 2
+0 70 25 18
 1
 end_operator
 begin_operator
@@ -161429,8 +161429,8 @@ succumb sciatica-16 intoxication yogurt mars neptune
 1
 3 5
 2
-0 70 25 20
 0 62 0 1
+0 70 25 20
 1
 end_operator
 begin_operator
@@ -161438,8 +161438,8 @@ succumb sciatica-16 intoxication yogurt neptune vulcan
 1
 3 5
 2
-0 70 25 20
 0 62 1 3
+0 70 25 20
 1
 end_operator
 begin_operator
@@ -161447,8 +161447,8 @@ succumb sciatica-16 intoxication yogurt vulcan venus
 1
 3 5
 2
-0 70 25 20
 0 62 3 2
+0 70 25 20
 1
 end_operator
 begin_operator
@@ -161888,8 +161888,8 @@ succumb sciatica-16 satisfaction chocolate mars neptune
 1
 4 0
 2
-0 70 27 1
 0 63 0 1
+0 70 27 1
 1
 end_operator
 begin_operator
@@ -161897,8 +161897,8 @@ succumb sciatica-16 satisfaction chocolate neptune vulcan
 1
 4 0
 2
-0 70 27 1
 0 63 1 3
+0 70 27 1
 1
 end_operator
 begin_operator
@@ -161906,8 +161906,8 @@ succumb sciatica-16 satisfaction chocolate vulcan venus
 1
 4 0
 2
-0 70 27 1
 0 63 3 2
+0 70 27 1
 1
 end_operator
 begin_operator
@@ -161915,8 +161915,8 @@ succumb sciatica-16 satisfaction lettuce mars neptune
 1
 4 1
 2
-0 70 27 7
 0 63 0 1
+0 70 27 7
 1
 end_operator
 begin_operator
@@ -161924,8 +161924,8 @@ succumb sciatica-16 satisfaction lettuce neptune vulcan
 1
 4 1
 2
-0 70 27 7
 0 63 1 3
+0 70 27 7
 1
 end_operator
 begin_operator
@@ -161933,8 +161933,8 @@ succumb sciatica-16 satisfaction lettuce vulcan venus
 1
 4 1
 2
-0 70 27 7
 0 63 3 2
+0 70 27 7
 1
 end_operator
 begin_operator
@@ -161942,8 +161942,8 @@ succumb sciatica-16 satisfaction marzipan mars neptune
 1
 4 2
 2
-0 70 27 9
 0 63 0 1
+0 70 27 9
 1
 end_operator
 begin_operator
@@ -161951,8 +161951,8 @@ succumb sciatica-16 satisfaction marzipan neptune vulcan
 1
 4 2
 2
-0 70 27 9
 0 63 1 3
+0 70 27 9
 1
 end_operator
 begin_operator
@@ -161960,8 +161960,8 @@ succumb sciatica-16 satisfaction marzipan vulcan venus
 1
 4 2
 2
-0 70 27 9
 0 63 3 2
+0 70 27 9
 1
 end_operator
 begin_operator
@@ -161969,8 +161969,8 @@ succumb sciatica-16 satisfaction rice mars neptune
 1
 4 3
 2
-0 70 27 16
 0 63 0 1
+0 70 27 16
 1
 end_operator
 begin_operator
@@ -161978,8 +161978,8 @@ succumb sciatica-16 satisfaction rice neptune vulcan
 1
 4 3
 2
-0 70 27 16
 0 63 1 3
+0 70 27 16
 1
 end_operator
 begin_operator
@@ -161987,8 +161987,8 @@ succumb sciatica-16 satisfaction rice vulcan venus
 1
 4 3
 2
-0 70 27 16
 0 63 3 2
+0 70 27 16
 1
 end_operator
 begin_operator
@@ -161996,8 +161996,8 @@ succumb sciatica-16 satisfaction scallop mars neptune
 1
 4 4
 2
-0 70 27 18
 0 63 0 1
+0 70 27 18
 1
 end_operator
 begin_operator
@@ -162005,8 +162005,8 @@ succumb sciatica-16 satisfaction scallop neptune vulcan
 1
 4 4
 2
-0 70 27 18
 0 63 1 3
+0 70 27 18
 1
 end_operator
 begin_operator
@@ -162014,8 +162014,8 @@ succumb sciatica-16 satisfaction scallop vulcan venus
 1
 4 4
 2
-0 70 27 18
 0 63 3 2
+0 70 27 18
 1
 end_operator
 begin_operator
@@ -162023,8 +162023,8 @@ succumb sciatica-16 satisfaction yogurt mars neptune
 1
 4 5
 2
-0 70 27 20
 0 63 0 1
+0 70 27 20
 1
 end_operator
 begin_operator
@@ -162032,8 +162032,8 @@ succumb sciatica-16 satisfaction yogurt neptune vulcan
 1
 4 5
 2
-0 70 27 20
 0 63 1 3
+0 70 27 20
 1
 end_operator
 begin_operator
@@ -162041,8 +162041,8 @@ succumb sciatica-16 satisfaction yogurt vulcan venus
 1
 4 5
 2
-0 70 27 20
 0 63 3 2
+0 70 27 20
 1
 end_operator
 0

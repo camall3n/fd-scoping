@@ -196,8 +196,8 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 2
-7 0
 6 2
+7 0
 end_mutex_group
 begin_mutex_group
 2
@@ -281,12 +281,12 @@ cut-board-medium b0 p0 highspeed-saw0 beech rough s3 s2 s1
 1
 6 1
 6
-0 17 -1 0
-0 23 -1 0
 0 16 -1 0
+0 17 -1 0
 0 19 -1 0
 0 20 4 2
 0 21 -1 0
+0 23 -1 0
 10
 end_operator
 begin_operator
@@ -294,12 +294,12 @@ cut-board-medium b0 p1 highspeed-saw0 beech rough s3 s2 s1
 1
 6 1
 6
-0 10 -1 0
-0 23 -1 0
 0 9 -1 0
+0 10 -1 0
 0 12 -1 0
 0 13 4 2
 0 14 -1 0
+0 23 -1 0
 10
 end_operator
 begin_operator
@@ -307,12 +307,12 @@ cut-board-medium b1 p0 highspeed-saw0 cherry rough s3 s2 s1
 1
 6 2
 6
-0 17 -1 0
-0 22 -1 0
 0 16 -1 0
+0 17 -1 0
 0 19 -1 0
 0 20 4 2
 0 21 -1 1
+0 22 -1 0
 10
 end_operator
 begin_operator
@@ -320,12 +320,12 @@ cut-board-medium b1 p1 highspeed-saw0 cherry rough s3 s2 s1
 1
 6 2
 6
-0 10 -1 0
-0 22 -1 0
 0 9 -1 0
+0 10 -1 0
 0 12 -1 0
 0 13 4 2
 0 14 -1 1
+0 22 -1 0
 10
 end_operator
 begin_operator
@@ -343,8 +343,8 @@ do-glaze p0 glazer0 mauve
 1
 17 0
 3
-0 18 -1 0
 0 16 -1 1
+0 18 -1 0
 0 20 2 1
 15
 end_operator
@@ -353,8 +353,8 @@ do-glaze p1 glazer0 green
 1
 10 0
 3
-0 11 -1 0
 0 9 -1 1
+0 11 -1 0
 0 13 2 1
 15
 end_operator
@@ -373,17 +373,17 @@ do-glaze p2 glazer0 green
 0
 3
 0 0 -1 0
-0 3 -1 1
 0 2 2 1
+0 3 -1 1
 10
 end_operator
 begin_operator
 do-glaze p2 glazer0 mauve
 0
 3
-0 4 -1 0
-0 3 -1 1
 0 2 2 1
+0 3 -1 1
+0 4 -1 0
 10
 end_operator
 begin_operator
@@ -435,8 +435,8 @@ do-grind p0 grinder0 smooth mauve colourfragments untreated
 1
 17 0
 4
-0 18 0 1
 0 16 -1 0
+0 18 0 1
 0 19 1 2
 0 20 0 2
 30
@@ -446,8 +446,8 @@ do-grind p0 grinder0 smooth mauve glazed untreated
 1
 17 0
 4
-0 18 0 1
 0 16 -1 0
+0 18 0 1
 0 19 1 2
 0 20 1 2
 30
@@ -458,8 +458,8 @@ do-grind p0 grinder0 smooth mauve untreated untreated
 17 0
 20 2
 3
-0 18 0 1
 0 16 -1 0
+0 18 0 1
 0 19 1 2
 30
 end_operator
@@ -468,8 +468,8 @@ do-grind p0 grinder0 smooth mauve varnished colourfragments
 1
 17 0
 4
-0 18 0 1
 0 16 -1 0
+0 18 0 1
 0 19 1 2
 0 20 3 0
 30
@@ -477,8 +477,8 @@ end_operator
 begin_operator
 do-grind p0 grinder0 smooth natural colourfragments untreated
 2
-17 0
 16 0
+17 0
 2
 0 19 1 2
 0 20 0 2
@@ -487,8 +487,8 @@ end_operator
 begin_operator
 do-grind p0 grinder0 smooth natural glazed untreated
 2
-17 0
 16 0
+17 0
 2
 0 19 1 2
 0 20 1 2
@@ -497,8 +497,8 @@ end_operator
 begin_operator
 do-grind p0 grinder0 smooth natural untreated untreated
 3
-17 0
 16 0
+17 0
 20 2
 1
 0 19 1 2
@@ -507,8 +507,8 @@ end_operator
 begin_operator
 do-grind p0 grinder0 smooth natural varnished colourfragments
 2
-17 0
 16 0
+17 0
 2
 0 19 1 2
 0 20 3 0
@@ -564,8 +564,8 @@ do-grind p0 grinder0 verysmooth mauve colourfragments untreated
 17 0
 19 2
 3
-0 18 0 1
 0 16 -1 0
+0 18 0 1
 0 20 0 2
 30
 end_operator
@@ -575,8 +575,8 @@ do-grind p0 grinder0 verysmooth mauve glazed untreated
 17 0
 19 2
 3
-0 18 0 1
 0 16 -1 0
+0 18 0 1
 0 20 1 2
 30
 end_operator
@@ -587,8 +587,8 @@ do-grind p0 grinder0 verysmooth mauve untreated untreated
 19 2
 20 2
 2
-0 18 0 1
 0 16 -1 0
+0 18 0 1
 30
 end_operator
 begin_operator
@@ -597,16 +597,16 @@ do-grind p0 grinder0 verysmooth mauve varnished colourfragments
 17 0
 19 2
 3
-0 18 0 1
 0 16 -1 0
+0 18 0 1
 0 20 3 0
 30
 end_operator
 begin_operator
 do-grind p0 grinder0 verysmooth natural colourfragments untreated
 3
-17 0
 16 0
+17 0
 19 2
 1
 0 20 0 2
@@ -615,8 +615,8 @@ end_operator
 begin_operator
 do-grind p0 grinder0 verysmooth natural glazed untreated
 3
-17 0
 16 0
+17 0
 19 2
 1
 0 20 1 2
@@ -625,8 +625,8 @@ end_operator
 begin_operator
 do-grind p0 grinder0 verysmooth natural varnished colourfragments
 3
-17 0
 16 0
+17 0
 19 2
 1
 0 20 3 0
@@ -637,8 +637,8 @@ do-grind p1 grinder0 smooth green colourfragments untreated
 1
 10 0
 4
-0 11 0 1
 0 9 -1 0
+0 11 0 1
 0 12 1 2
 0 13 0 2
 30
@@ -648,8 +648,8 @@ do-grind p1 grinder0 smooth green glazed untreated
 1
 10 0
 4
-0 11 0 1
 0 9 -1 0
+0 11 0 1
 0 12 1 2
 0 13 1 2
 30
@@ -660,8 +660,8 @@ do-grind p1 grinder0 smooth green untreated untreated
 10 0
 13 2
 3
-0 11 0 1
 0 9 -1 0
+0 11 0 1
 0 12 1 2
 30
 end_operator
@@ -670,8 +670,8 @@ do-grind p1 grinder0 smooth green varnished colourfragments
 1
 10 0
 4
-0 11 0 1
 0 9 -1 0
+0 11 0 1
 0 12 1 2
 0 13 3 0
 30
@@ -723,8 +723,8 @@ end_operator
 begin_operator
 do-grind p1 grinder0 smooth natural colourfragments untreated
 2
-10 0
 9 0
+10 0
 2
 0 12 1 2
 0 13 0 2
@@ -733,8 +733,8 @@ end_operator
 begin_operator
 do-grind p1 grinder0 smooth natural glazed untreated
 2
-10 0
 9 0
+10 0
 2
 0 12 1 2
 0 13 1 2
@@ -743,8 +743,8 @@ end_operator
 begin_operator
 do-grind p1 grinder0 smooth natural untreated untreated
 3
-10 0
 9 0
+10 0
 13 2
 1
 0 12 1 2
@@ -753,8 +753,8 @@ end_operator
 begin_operator
 do-grind p1 grinder0 smooth natural varnished colourfragments
 2
-10 0
 9 0
+10 0
 2
 0 12 1 2
 0 13 3 0
@@ -766,8 +766,8 @@ do-grind p1 grinder0 verysmooth green colourfragments untreated
 10 0
 12 2
 3
-0 11 0 1
 0 9 -1 0
+0 11 0 1
 0 13 0 2
 30
 end_operator
@@ -777,8 +777,8 @@ do-grind p1 grinder0 verysmooth green glazed untreated
 10 0
 12 2
 3
-0 11 0 1
 0 9 -1 0
+0 11 0 1
 0 13 1 2
 30
 end_operator
@@ -789,8 +789,8 @@ do-grind p1 grinder0 verysmooth green untreated untreated
 12 2
 13 2
 2
-0 11 0 1
 0 9 -1 0
+0 11 0 1
 30
 end_operator
 begin_operator
@@ -799,8 +799,8 @@ do-grind p1 grinder0 verysmooth green varnished colourfragments
 10 0
 12 2
 3
-0 11 0 1
 0 9 -1 0
+0 11 0 1
 0 13 3 0
 30
 end_operator
@@ -851,8 +851,8 @@ end_operator
 begin_operator
 do-grind p1 grinder0 verysmooth natural colourfragments untreated
 3
-10 0
 9 0
+10 0
 12 2
 1
 0 13 0 2
@@ -861,8 +861,8 @@ end_operator
 begin_operator
 do-grind p1 grinder0 verysmooth natural glazed untreated
 3
-10 0
 9 0
+10 0
 12 2
 1
 0 13 1 2
@@ -871,8 +871,8 @@ end_operator
 begin_operator
 do-grind p1 grinder0 verysmooth natural varnished colourfragments
 3
-10 0
 9 0
+10 0
 12 2
 1
 0 13 3 0
@@ -883,9 +883,9 @@ do-grind p2 grinder0 smooth green colourfragments untreated
 0
 4
 0 0 0 1
-0 3 -1 0
 0 1 0 1
 0 2 0 2
+0 3 -1 0
 15
 end_operator
 begin_operator
@@ -893,9 +893,9 @@ do-grind p2 grinder0 smooth green glazed untreated
 0
 4
 0 0 0 1
-0 3 -1 0
 0 1 0 1
 0 2 1 2
+0 3 -1 0
 15
 end_operator
 begin_operator
@@ -904,8 +904,8 @@ do-grind p2 grinder0 smooth green untreated untreated
 2 2
 3
 0 0 0 1
-0 3 -1 0
 0 1 0 1
+0 3 -1 0
 15
 end_operator
 begin_operator
@@ -913,29 +913,29 @@ do-grind p2 grinder0 smooth green varnished colourfragments
 0
 4
 0 0 0 1
-0 3 -1 0
 0 1 0 1
 0 2 3 0
+0 3 -1 0
 15
 end_operator
 begin_operator
 do-grind p2 grinder0 smooth mauve colourfragments untreated
 0
 4
-0 4 0 1
-0 3 -1 0
 0 1 0 1
 0 2 0 2
+0 3 -1 0
+0 4 0 1
 15
 end_operator
 begin_operator
 do-grind p2 grinder0 smooth mauve glazed untreated
 0
 4
-0 4 0 1
-0 3 -1 0
 0 1 0 1
 0 2 1 2
+0 3 -1 0
+0 4 0 1
 15
 end_operator
 begin_operator
@@ -943,19 +943,19 @@ do-grind p2 grinder0 smooth mauve untreated untreated
 1
 2 2
 3
-0 4 0 1
-0 3 -1 0
 0 1 0 1
+0 3 -1 0
+0 4 0 1
 15
 end_operator
 begin_operator
 do-grind p2 grinder0 smooth mauve varnished colourfragments
 0
 4
-0 4 0 1
-0 3 -1 0
 0 1 0 1
 0 2 3 0
+0 3 -1 0
+0 4 0 1
 15
 end_operator
 begin_operator
@@ -979,8 +979,8 @@ end_operator
 begin_operator
 do-grind p2 grinder0 smooth natural untreated untreated
 2
-3 0
 2 2
+3 0
 1
 0 1 0 1
 15
@@ -1000,8 +1000,8 @@ do-grind p2 grinder0 verysmooth green colourfragments untreated
 1 1
 3
 0 0 0 1
-0 3 -1 0
 0 2 0 2
+0 3 -1 0
 15
 end_operator
 begin_operator
@@ -1010,8 +1010,8 @@ do-grind p2 grinder0 verysmooth green glazed untreated
 1 1
 3
 0 0 0 1
-0 3 -1 0
 0 2 1 2
+0 3 -1 0
 15
 end_operator
 begin_operator
@@ -1030,8 +1030,8 @@ do-grind p2 grinder0 verysmooth green varnished colourfragments
 1 1
 3
 0 0 0 1
-0 3 -1 0
 0 2 3 0
+0 3 -1 0
 15
 end_operator
 begin_operator
@@ -1039,9 +1039,9 @@ do-grind p2 grinder0 verysmooth mauve colourfragments untreated
 1
 1 1
 3
-0 4 0 1
-0 3 -1 0
 0 2 0 2
+0 3 -1 0
+0 4 0 1
 15
 end_operator
 begin_operator
@@ -1049,9 +1049,9 @@ do-grind p2 grinder0 verysmooth mauve glazed untreated
 1
 1 1
 3
-0 4 0 1
-0 3 -1 0
 0 2 1 2
+0 3 -1 0
+0 4 0 1
 15
 end_operator
 begin_operator
@@ -1060,8 +1060,8 @@ do-grind p2 grinder0 verysmooth mauve untreated untreated
 1 1
 2 2
 2
-0 4 0 1
 0 3 -1 0
+0 4 0 1
 15
 end_operator
 begin_operator
@@ -1069,16 +1069,16 @@ do-grind p2 grinder0 verysmooth mauve varnished colourfragments
 1
 1 1
 3
-0 4 0 1
-0 3 -1 0
 0 2 3 0
+0 3 -1 0
+0 4 0 1
 15
 end_operator
 begin_operator
 do-grind p2 grinder0 verysmooth natural colourfragments untreated
 2
-3 0
 1 1
+3 0
 1
 0 2 0 2
 15
@@ -1086,8 +1086,8 @@ end_operator
 begin_operator
 do-grind p2 grinder0 verysmooth natural glazed untreated
 2
-3 0
 1 1
+3 0
 1
 0 2 1 2
 15
@@ -1095,8 +1095,8 @@ end_operator
 begin_operator
 do-grind p2 grinder0 verysmooth natural varnished colourfragments
 2
-3 0
 1 1
+3 0
 1
 0 2 3 0
 15
@@ -1107,8 +1107,8 @@ do-immersion-varnish p0 immersion-varnisher0 mauve smooth
 17 0
 19 1
 3
-0 18 -1 0
 0 16 -1 1
+0 18 -1 0
 0 20 2 3
 10
 end_operator
@@ -1118,8 +1118,8 @@ do-immersion-varnish p0 immersion-varnisher0 mauve verysmooth
 17 0
 19 2
 3
-0 18 -1 0
 0 16 -1 1
+0 18 -1 0
 0 20 2 3
 10
 end_operator
@@ -1150,9 +1150,9 @@ do-immersion-varnish p2 immersion-varnisher0 mauve smooth
 1
 1 0
 3
-0 4 -1 0
-0 3 -1 1
 0 2 2 3
+0 3 -1 1
+0 4 -1 0
 10
 end_operator
 begin_operator
@@ -1160,9 +1160,9 @@ do-immersion-varnish p2 immersion-varnisher0 mauve verysmooth
 1
 1 1
 3
-0 4 -1 0
-0 3 -1 1
 0 2 2 3
+0 3 -1 1
+0 4 -1 0
 10
 end_operator
 begin_operator
@@ -1214,8 +1214,8 @@ do-plane p0 planer0 rough mauve colourfragments
 1
 17 0
 4
-0 18 0 1
 0 16 -1 0
+0 18 0 1
 0 19 0 1
 0 20 0 2
 20
@@ -1225,8 +1225,8 @@ do-plane p0 planer0 rough mauve glazed
 1
 17 0
 4
-0 18 0 1
 0 16 -1 0
+0 18 0 1
 0 19 0 1
 0 20 1 2
 20
@@ -1237,8 +1237,8 @@ do-plane p0 planer0 rough mauve untreated
 17 0
 20 2
 3
-0 18 0 1
 0 16 -1 0
+0 18 0 1
 0 19 0 1
 20
 end_operator
@@ -1247,8 +1247,8 @@ do-plane p0 planer0 rough mauve varnished
 1
 17 0
 4
-0 18 0 1
 0 16 -1 0
+0 18 0 1
 0 19 0 1
 0 20 3 2
 20
@@ -1256,8 +1256,8 @@ end_operator
 begin_operator
 do-plane p0 planer0 rough natural colourfragments
 2
-17 0
 16 0
+17 0
 2
 0 19 0 1
 0 20 0 2
@@ -1266,8 +1266,8 @@ end_operator
 begin_operator
 do-plane p0 planer0 rough natural glazed
 2
-17 0
 16 0
+17 0
 2
 0 19 0 1
 0 20 1 2
@@ -1276,8 +1276,8 @@ end_operator
 begin_operator
 do-plane p0 planer0 rough natural untreated
 3
-17 0
 16 0
+17 0
 20 2
 1
 0 19 0 1
@@ -1286,8 +1286,8 @@ end_operator
 begin_operator
 do-plane p0 planer0 rough natural varnished
 2
-17 0
 16 0
+17 0
 2
 0 19 0 1
 0 20 3 2
@@ -1343,8 +1343,8 @@ do-plane p0 planer0 smooth mauve colourfragments
 17 0
 19 1
 3
-0 18 0 1
 0 16 -1 0
+0 18 0 1
 0 20 0 2
 20
 end_operator
@@ -1354,8 +1354,8 @@ do-plane p0 planer0 smooth mauve glazed
 17 0
 19 1
 3
-0 18 0 1
 0 16 -1 0
+0 18 0 1
 0 20 1 2
 20
 end_operator
@@ -1366,8 +1366,8 @@ do-plane p0 planer0 smooth mauve untreated
 19 1
 20 2
 2
-0 18 0 1
 0 16 -1 0
+0 18 0 1
 20
 end_operator
 begin_operator
@@ -1376,16 +1376,16 @@ do-plane p0 planer0 smooth mauve varnished
 17 0
 19 1
 3
-0 18 0 1
 0 16 -1 0
+0 18 0 1
 0 20 3 2
 20
 end_operator
 begin_operator
 do-plane p0 planer0 smooth natural colourfragments
 3
-17 0
 16 0
+17 0
 19 1
 1
 0 20 0 2
@@ -1394,8 +1394,8 @@ end_operator
 begin_operator
 do-plane p0 planer0 smooth natural glazed
 3
-17 0
 16 0
+17 0
 19 1
 1
 0 20 1 2
@@ -1404,8 +1404,8 @@ end_operator
 begin_operator
 do-plane p0 planer0 smooth natural varnished
 3
-17 0
 16 0
+17 0
 19 1
 1
 0 20 3 2
@@ -1460,8 +1460,8 @@ do-plane p0 planer0 verysmooth mauve colourfragments
 1
 17 0
 4
-0 18 0 1
 0 16 -1 0
+0 18 0 1
 0 19 2 1
 0 20 0 2
 20
@@ -1471,8 +1471,8 @@ do-plane p0 planer0 verysmooth mauve glazed
 1
 17 0
 4
-0 18 0 1
 0 16 -1 0
+0 18 0 1
 0 19 2 1
 0 20 1 2
 20
@@ -1483,8 +1483,8 @@ do-plane p0 planer0 verysmooth mauve untreated
 17 0
 20 2
 3
-0 18 0 1
 0 16 -1 0
+0 18 0 1
 0 19 2 1
 20
 end_operator
@@ -1493,8 +1493,8 @@ do-plane p0 planer0 verysmooth mauve varnished
 1
 17 0
 4
-0 18 0 1
 0 16 -1 0
+0 18 0 1
 0 19 2 1
 0 20 3 2
 20
@@ -1502,8 +1502,8 @@ end_operator
 begin_operator
 do-plane p0 planer0 verysmooth natural colourfragments
 2
-17 0
 16 0
+17 0
 2
 0 19 2 1
 0 20 0 2
@@ -1512,8 +1512,8 @@ end_operator
 begin_operator
 do-plane p0 planer0 verysmooth natural glazed
 2
-17 0
 16 0
+17 0
 2
 0 19 2 1
 0 20 1 2
@@ -1522,8 +1522,8 @@ end_operator
 begin_operator
 do-plane p0 planer0 verysmooth natural untreated
 3
-17 0
 16 0
+17 0
 20 2
 1
 0 19 2 1
@@ -1532,8 +1532,8 @@ end_operator
 begin_operator
 do-plane p0 planer0 verysmooth natural varnished
 2
-17 0
 16 0
+17 0
 2
 0 19 2 1
 0 20 3 2
@@ -1544,8 +1544,8 @@ do-plane p1 planer0 rough green colourfragments
 1
 10 0
 4
-0 11 0 1
 0 9 -1 0
+0 11 0 1
 0 12 0 1
 0 13 0 2
 20
@@ -1555,8 +1555,8 @@ do-plane p1 planer0 rough green glazed
 1
 10 0
 4
-0 11 0 1
 0 9 -1 0
+0 11 0 1
 0 12 0 1
 0 13 1 2
 20
@@ -1567,8 +1567,8 @@ do-plane p1 planer0 rough green untreated
 10 0
 13 2
 3
-0 11 0 1
 0 9 -1 0
+0 11 0 1
 0 12 0 1
 20
 end_operator
@@ -1577,8 +1577,8 @@ do-plane p1 planer0 rough green varnished
 1
 10 0
 4
-0 11 0 1
 0 9 -1 0
+0 11 0 1
 0 12 0 1
 0 13 3 2
 20
@@ -1630,8 +1630,8 @@ end_operator
 begin_operator
 do-plane p1 planer0 rough natural colourfragments
 2
-10 0
 9 0
+10 0
 2
 0 12 0 1
 0 13 0 2
@@ -1640,8 +1640,8 @@ end_operator
 begin_operator
 do-plane p1 planer0 rough natural glazed
 2
-10 0
 9 0
+10 0
 2
 0 12 0 1
 0 13 1 2
@@ -1650,8 +1650,8 @@ end_operator
 begin_operator
 do-plane p1 planer0 rough natural untreated
 3
-10 0
 9 0
+10 0
 13 2
 1
 0 12 0 1
@@ -1660,8 +1660,8 @@ end_operator
 begin_operator
 do-plane p1 planer0 rough natural varnished
 2
-10 0
 9 0
+10 0
 2
 0 12 0 1
 0 13 3 2
@@ -1673,8 +1673,8 @@ do-plane p1 planer0 smooth green colourfragments
 10 0
 12 1
 3
-0 11 0 1
 0 9 -1 0
+0 11 0 1
 0 13 0 2
 20
 end_operator
@@ -1684,8 +1684,8 @@ do-plane p1 planer0 smooth green glazed
 10 0
 12 1
 3
-0 11 0 1
 0 9 -1 0
+0 11 0 1
 0 13 1 2
 20
 end_operator
@@ -1696,8 +1696,8 @@ do-plane p1 planer0 smooth green untreated
 12 1
 13 2
 2
-0 11 0 1
 0 9 -1 0
+0 11 0 1
 20
 end_operator
 begin_operator
@@ -1706,8 +1706,8 @@ do-plane p1 planer0 smooth green varnished
 10 0
 12 1
 3
-0 11 0 1
 0 9 -1 0
+0 11 0 1
 0 13 3 2
 20
 end_operator
@@ -1758,8 +1758,8 @@ end_operator
 begin_operator
 do-plane p1 planer0 smooth natural colourfragments
 3
-10 0
 9 0
+10 0
 12 1
 1
 0 13 0 2
@@ -1768,8 +1768,8 @@ end_operator
 begin_operator
 do-plane p1 planer0 smooth natural glazed
 3
-10 0
 9 0
+10 0
 12 1
 1
 0 13 1 2
@@ -1778,8 +1778,8 @@ end_operator
 begin_operator
 do-plane p1 planer0 smooth natural varnished
 3
-10 0
 9 0
+10 0
 12 1
 1
 0 13 3 2
@@ -1790,8 +1790,8 @@ do-plane p1 planer0 verysmooth green colourfragments
 1
 10 0
 4
-0 11 0 1
 0 9 -1 0
+0 11 0 1
 0 12 2 1
 0 13 0 2
 20
@@ -1801,8 +1801,8 @@ do-plane p1 planer0 verysmooth green glazed
 1
 10 0
 4
-0 11 0 1
 0 9 -1 0
+0 11 0 1
 0 12 2 1
 0 13 1 2
 20
@@ -1813,8 +1813,8 @@ do-plane p1 planer0 verysmooth green untreated
 10 0
 13 2
 3
-0 11 0 1
 0 9 -1 0
+0 11 0 1
 0 12 2 1
 20
 end_operator
@@ -1823,8 +1823,8 @@ do-plane p1 planer0 verysmooth green varnished
 1
 10 0
 4
-0 11 0 1
 0 9 -1 0
+0 11 0 1
 0 12 2 1
 0 13 3 2
 20
@@ -1876,8 +1876,8 @@ end_operator
 begin_operator
 do-plane p1 planer0 verysmooth natural colourfragments
 2
-10 0
 9 0
+10 0
 2
 0 12 2 1
 0 13 0 2
@@ -1886,8 +1886,8 @@ end_operator
 begin_operator
 do-plane p1 planer0 verysmooth natural glazed
 2
-10 0
 9 0
+10 0
 2
 0 12 2 1
 0 13 1 2
@@ -1896,8 +1896,8 @@ end_operator
 begin_operator
 do-plane p1 planer0 verysmooth natural untreated
 3
-10 0
 9 0
+10 0
 13 2
 1
 0 12 2 1
@@ -1906,8 +1906,8 @@ end_operator
 begin_operator
 do-plane p1 planer0 verysmooth natural varnished
 2
-10 0
 9 0
+10 0
 2
 0 12 2 1
 0 13 3 2
@@ -1919,8 +1919,8 @@ do-plane p2 planer0 smooth green colourfragments
 1 0
 3
 0 0 0 1
-0 3 -1 0
 0 2 0 2
+0 3 -1 0
 10
 end_operator
 begin_operator
@@ -1929,8 +1929,8 @@ do-plane p2 planer0 smooth green glazed
 1 0
 3
 0 0 0 1
-0 3 -1 0
 0 2 1 2
+0 3 -1 0
 10
 end_operator
 begin_operator
@@ -1949,8 +1949,8 @@ do-plane p2 planer0 smooth green varnished
 1 0
 3
 0 0 0 1
-0 3 -1 0
 0 2 3 2
+0 3 -1 0
 10
 end_operator
 begin_operator
@@ -1958,9 +1958,9 @@ do-plane p2 planer0 smooth mauve colourfragments
 1
 1 0
 3
-0 4 0 1
-0 3 -1 0
 0 2 0 2
+0 3 -1 0
+0 4 0 1
 10
 end_operator
 begin_operator
@@ -1968,9 +1968,9 @@ do-plane p2 planer0 smooth mauve glazed
 1
 1 0
 3
-0 4 0 1
-0 3 -1 0
 0 2 1 2
+0 3 -1 0
+0 4 0 1
 10
 end_operator
 begin_operator
@@ -1979,8 +1979,8 @@ do-plane p2 planer0 smooth mauve untreated
 1 0
 2 2
 2
-0 4 0 1
 0 3 -1 0
+0 4 0 1
 10
 end_operator
 begin_operator
@@ -1988,16 +1988,16 @@ do-plane p2 planer0 smooth mauve varnished
 1
 1 0
 3
-0 4 0 1
-0 3 -1 0
 0 2 3 2
+0 3 -1 0
+0 4 0 1
 10
 end_operator
 begin_operator
 do-plane p2 planer0 smooth natural colourfragments
 2
-3 0
 1 0
+3 0
 1
 0 2 0 2
 10
@@ -2005,8 +2005,8 @@ end_operator
 begin_operator
 do-plane p2 planer0 smooth natural glazed
 2
-3 0
 1 0
+3 0
 1
 0 2 1 2
 10
@@ -2014,8 +2014,8 @@ end_operator
 begin_operator
 do-plane p2 planer0 smooth natural varnished
 2
-3 0
 1 0
+3 0
 1
 0 2 3 2
 10
@@ -2025,9 +2025,9 @@ do-plane p2 planer0 verysmooth green colourfragments
 0
 4
 0 0 0 1
-0 3 -1 0
 0 1 1 0
 0 2 0 2
+0 3 -1 0
 10
 end_operator
 begin_operator
@@ -2035,9 +2035,9 @@ do-plane p2 planer0 verysmooth green glazed
 0
 4
 0 0 0 1
-0 3 -1 0
 0 1 1 0
 0 2 1 2
+0 3 -1 0
 10
 end_operator
 begin_operator
@@ -2046,8 +2046,8 @@ do-plane p2 planer0 verysmooth green untreated
 2 2
 3
 0 0 0 1
-0 3 -1 0
 0 1 1 0
+0 3 -1 0
 10
 end_operator
 begin_operator
@@ -2055,29 +2055,29 @@ do-plane p2 planer0 verysmooth green varnished
 0
 4
 0 0 0 1
-0 3 -1 0
 0 1 1 0
 0 2 3 2
+0 3 -1 0
 10
 end_operator
 begin_operator
 do-plane p2 planer0 verysmooth mauve colourfragments
 0
 4
-0 4 0 1
-0 3 -1 0
 0 1 1 0
 0 2 0 2
+0 3 -1 0
+0 4 0 1
 10
 end_operator
 begin_operator
 do-plane p2 planer0 verysmooth mauve glazed
 0
 4
-0 4 0 1
-0 3 -1 0
 0 1 1 0
 0 2 1 2
+0 3 -1 0
+0 4 0 1
 10
 end_operator
 begin_operator
@@ -2085,19 +2085,19 @@ do-plane p2 planer0 verysmooth mauve untreated
 1
 2 2
 3
-0 4 0 1
-0 3 -1 0
 0 1 1 0
+0 3 -1 0
+0 4 0 1
 10
 end_operator
 begin_operator
 do-plane p2 planer0 verysmooth mauve varnished
 0
 4
-0 4 0 1
-0 3 -1 0
 0 1 1 0
 0 2 3 2
+0 3 -1 0
+0 4 0 1
 10
 end_operator
 begin_operator
@@ -2121,8 +2121,8 @@ end_operator
 begin_operator
 do-plane p2 planer0 verysmooth natural untreated
 2
-3 0
 2 2
+3 0
 1
 0 1 1 0
 10
@@ -2141,12 +2141,12 @@ do-saw-medium b0 p0 saw0 beech rough s3 s2 s1
 1
 5 0
 6
-0 17 -1 0
-0 23 -1 0
 0 16 -1 0
+0 17 -1 0
 0 19 -1 0
 0 20 4 2
 0 21 -1 0
+0 23 -1 0
 30
 end_operator
 begin_operator
@@ -2154,12 +2154,12 @@ do-saw-medium b0 p1 saw0 beech rough s3 s2 s1
 1
 5 0
 6
-0 10 -1 0
-0 23 -1 0
 0 9 -1 0
+0 10 -1 0
 0 12 -1 0
 0 13 4 2
 0 14 -1 0
+0 23 -1 0
 30
 end_operator
 begin_operator
@@ -2167,12 +2167,12 @@ do-saw-medium b1 p0 saw0 cherry rough s3 s2 s1
 1
 7 0
 6
-0 17 -1 0
-0 22 -1 0
 0 16 -1 0
+0 17 -1 0
 0 19 -1 0
 0 20 4 2
 0 21 -1 1
+0 22 -1 0
 30
 end_operator
 begin_operator
@@ -2180,12 +2180,12 @@ do-saw-medium b1 p1 saw0 cherry rough s3 s2 s1
 1
 7 0
 6
-0 10 -1 0
-0 22 -1 0
 0 9 -1 0
+0 10 -1 0
 0 12 -1 0
 0 13 4 2
 0 14 -1 1
+0 22 -1 0
 30
 end_operator
 begin_operator
@@ -2194,8 +2194,8 @@ do-spray-varnish p0 spray-varnisher0 mauve smooth
 17 0
 19 1
 3
-0 18 -1 0
 0 16 -1 1
+0 18 -1 0
 0 20 2 3
 10
 end_operator
@@ -2205,8 +2205,8 @@ do-spray-varnish p0 spray-varnisher0 mauve verysmooth
 17 0
 19 2
 3
-0 18 -1 0
 0 16 -1 1
+0 18 -1 0
 0 20 2 3
 10
 end_operator
@@ -2237,9 +2237,9 @@ do-spray-varnish p2 spray-varnisher0 mauve smooth
 1
 1 0
 3
-0 4 -1 0
-0 3 -1 1
 0 2 2 3
+0 3 -1 1
+0 4 -1 0
 5
 end_operator
 begin_operator
@@ -2247,9 +2247,9 @@ do-spray-varnish p2 spray-varnisher0 mauve verysmooth
 1
 1 1
 3
-0 4 -1 0
-0 3 -1 1
 0 2 2 3
+0 3 -1 1
+0 4 -1 0
 5
 end_operator
 begin_operator
@@ -2264,8 +2264,8 @@ begin_operator
 load-highspeed-saw b1 highspeed-saw0
 0
 2
-0 7 0 1
 0 6 0 2
+0 7 0 1
 30
 end_operator
 begin_operator
@@ -2280,8 +2280,8 @@ begin_operator
 unload-highspeed-saw b1 highspeed-saw0
 0
 2
-0 7 -1 0
 0 6 2 0
+0 7 -1 0
 10
 end_operator
 0

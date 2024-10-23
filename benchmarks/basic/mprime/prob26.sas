@@ -28314,8 +28314,8 @@ overcome boils empathy endive earth neptune
 1
 0 0
 2
-0 25 0 12
 0 17 1 0
+0 25 0 12
 1
 end_operator
 begin_operator
@@ -28323,8 +28323,8 @@ overcome boils empathy endive neptune venus
 1
 0 0
 2
-0 25 0 12
 0 17 3 1
+0 25 0 12
 1
 end_operator
 begin_operator
@@ -28332,8 +28332,8 @@ overcome boils empathy endive venus saturn
 1
 0 0
 2
-0 25 0 12
 0 17 2 3
+0 25 0 12
 1
 end_operator
 begin_operator
@@ -28341,8 +28341,8 @@ overcome boils empathy flounder earth neptune
 1
 0 1
 2
-0 25 1 12
 0 17 1 0
+0 25 1 12
 1
 end_operator
 begin_operator
@@ -28350,8 +28350,8 @@ overcome boils empathy flounder neptune venus
 1
 0 1
 2
-0 25 1 12
 0 17 3 1
+0 25 1 12
 1
 end_operator
 begin_operator
@@ -28359,8 +28359,8 @@ overcome boils empathy flounder venus saturn
 1
 0 1
 2
-0 25 1 12
 0 17 2 3
+0 25 1 12
 1
 end_operator
 begin_operator
@@ -28368,8 +28368,8 @@ overcome boils empathy hamburger earth neptune
 1
 0 2
 2
-0 25 2 12
 0 17 1 0
+0 25 2 12
 1
 end_operator
 begin_operator
@@ -28377,8 +28377,8 @@ overcome boils empathy hamburger neptune venus
 1
 0 2
 2
-0 25 2 12
 0 17 3 1
+0 25 2 12
 1
 end_operator
 begin_operator
@@ -28386,8 +28386,8 @@ overcome boils empathy hamburger venus saturn
 1
 0 2
 2
-0 25 2 12
 0 17 2 3
+0 25 2 12
 1
 end_operator
 begin_operator
@@ -28395,8 +28395,8 @@ overcome boils empathy haroset earth neptune
 1
 0 3
 2
-0 25 3 12
 0 17 1 0
+0 25 3 12
 1
 end_operator
 begin_operator
@@ -28404,8 +28404,8 @@ overcome boils empathy haroset neptune venus
 1
 0 3
 2
-0 25 3 12
 0 17 3 1
+0 25 3 12
 1
 end_operator
 begin_operator
@@ -28413,8 +28413,8 @@ overcome boils empathy haroset venus saturn
 1
 0 3
 2
-0 25 3 12
 0 17 2 3
+0 25 3 12
 1
 end_operator
 begin_operator
@@ -28422,8 +28422,8 @@ overcome boils empathy marzipan earth neptune
 1
 0 4
 2
-0 25 4 12
 0 17 1 0
+0 25 4 12
 1
 end_operator
 begin_operator
@@ -28431,8 +28431,8 @@ overcome boils empathy marzipan neptune venus
 1
 0 4
 2
-0 25 4 12
 0 17 3 1
+0 25 4 12
 1
 end_operator
 begin_operator
@@ -28440,8 +28440,8 @@ overcome boils empathy marzipan venus saturn
 1
 0 4
 2
-0 25 4 12
 0 17 2 3
+0 25 4 12
 1
 end_operator
 begin_operator
@@ -28449,8 +28449,8 @@ overcome boils empathy papaya earth neptune
 1
 0 5
 2
-0 25 5 12
 0 17 1 0
+0 25 5 12
 1
 end_operator
 begin_operator
@@ -28458,8 +28458,8 @@ overcome boils empathy papaya neptune venus
 1
 0 5
 2
-0 25 5 12
 0 17 3 1
+0 25 5 12
 1
 end_operator
 begin_operator
@@ -28467,8 +28467,8 @@ overcome boils empathy papaya venus saturn
 1
 0 5
 2
-0 25 5 12
 0 17 2 3
+0 25 5 12
 1
 end_operator
 begin_operator
@@ -28476,8 +28476,8 @@ overcome boils empathy pepper earth neptune
 1
 0 6
 2
-0 25 6 12
 0 17 1 0
+0 25 6 12
 1
 end_operator
 begin_operator
@@ -28485,8 +28485,8 @@ overcome boils empathy pepper neptune venus
 1
 0 6
 2
-0 25 6 12
 0 17 3 1
+0 25 6 12
 1
 end_operator
 begin_operator
@@ -28494,8 +28494,8 @@ overcome boils empathy pepper venus saturn
 1
 0 6
 2
-0 25 6 12
 0 17 2 3
+0 25 6 12
 1
 end_operator
 begin_operator
@@ -28503,8 +28503,8 @@ overcome boils empathy pistachio earth neptune
 1
 0 7
 2
-0 25 7 12
 0 17 1 0
+0 25 7 12
 1
 end_operator
 begin_operator
@@ -28512,8 +28512,8 @@ overcome boils empathy pistachio neptune venus
 1
 0 7
 2
-0 25 7 12
 0 17 3 1
+0 25 7 12
 1
 end_operator
 begin_operator
@@ -28521,8 +28521,8 @@ overcome boils empathy pistachio venus saturn
 1
 0 7
 2
-0 25 7 12
 0 17 2 3
+0 25 7 12
 1
 end_operator
 begin_operator
@@ -28530,8 +28530,8 @@ overcome boils empathy rice earth neptune
 1
 0 8
 2
-0 25 8 12
 0 17 1 0
+0 25 8 12
 1
 end_operator
 begin_operator
@@ -28539,8 +28539,8 @@ overcome boils empathy rice neptune venus
 1
 0 8
 2
-0 25 8 12
 0 17 3 1
+0 25 8 12
 1
 end_operator
 begin_operator
@@ -28548,8 +28548,8 @@ overcome boils empathy rice venus saturn
 1
 0 8
 2
-0 25 8 12
 0 17 2 3
+0 25 8 12
 1
 end_operator
 begin_operator
@@ -28557,8 +28557,8 @@ overcome boils empathy scallop earth neptune
 1
 0 9
 2
-0 25 9 12
 0 17 1 0
+0 25 9 12
 1
 end_operator
 begin_operator
@@ -28566,8 +28566,8 @@ overcome boils empathy scallop neptune venus
 1
 0 9
 2
-0 25 9 12
 0 17 3 1
+0 25 9 12
 1
 end_operator
 begin_operator
@@ -28575,8 +28575,8 @@ overcome boils empathy scallop venus saturn
 1
 0 9
 2
-0 25 9 12
 0 17 2 3
+0 25 9 12
 1
 end_operator
 begin_operator
@@ -28584,8 +28584,8 @@ overcome boils empathy snickers earth neptune
 1
 0 10
 2
-0 25 10 12
 0 17 1 0
+0 25 10 12
 1
 end_operator
 begin_operator
@@ -28593,8 +28593,8 @@ overcome boils empathy snickers neptune venus
 1
 0 10
 2
-0 25 10 12
 0 17 3 1
+0 25 10 12
 1
 end_operator
 begin_operator
@@ -28602,8 +28602,8 @@ overcome boils empathy snickers venus saturn
 1
 0 10
 2
-0 25 10 12
 0 17 2 3
+0 25 10 12
 1
 end_operator
 begin_operator
@@ -28611,8 +28611,8 @@ overcome boils empathy turkey earth neptune
 1
 0 11
 2
-0 25 11 12
 0 17 1 0
+0 25 11 12
 1
 end_operator
 begin_operator
@@ -28620,8 +28620,8 @@ overcome boils empathy turkey neptune venus
 1
 0 11
 2
-0 25 11 12
 0 17 3 1
+0 25 11 12
 1
 end_operator
 begin_operator
@@ -28629,8 +28629,8 @@ overcome boils empathy turkey venus saturn
 1
 0 11
 2
-0 25 11 12
 0 17 2 3
+0 25 11 12
 1
 end_operator
 begin_operator
@@ -28638,8 +28638,8 @@ overcome boils entertainment endive earth neptune
 1
 1 0
 2
-0 25 0 13
 0 18 1 0
+0 25 0 13
 1
 end_operator
 begin_operator
@@ -28647,8 +28647,8 @@ overcome boils entertainment endive neptune venus
 1
 1 0
 2
-0 25 0 13
 0 18 3 1
+0 25 0 13
 1
 end_operator
 begin_operator
@@ -28656,8 +28656,8 @@ overcome boils entertainment endive venus saturn
 1
 1 0
 2
-0 25 0 13
 0 18 2 3
+0 25 0 13
 1
 end_operator
 begin_operator
@@ -28665,8 +28665,8 @@ overcome boils entertainment flounder earth neptune
 1
 1 1
 2
-0 25 1 13
 0 18 1 0
+0 25 1 13
 1
 end_operator
 begin_operator
@@ -28674,8 +28674,8 @@ overcome boils entertainment flounder neptune venus
 1
 1 1
 2
-0 25 1 13
 0 18 3 1
+0 25 1 13
 1
 end_operator
 begin_operator
@@ -28683,8 +28683,8 @@ overcome boils entertainment flounder venus saturn
 1
 1 1
 2
-0 25 1 13
 0 18 2 3
+0 25 1 13
 1
 end_operator
 begin_operator
@@ -28692,8 +28692,8 @@ overcome boils entertainment hamburger earth neptune
 1
 1 2
 2
-0 25 2 13
 0 18 1 0
+0 25 2 13
 1
 end_operator
 begin_operator
@@ -28701,8 +28701,8 @@ overcome boils entertainment hamburger neptune venus
 1
 1 2
 2
-0 25 2 13
 0 18 3 1
+0 25 2 13
 1
 end_operator
 begin_operator
@@ -28710,8 +28710,8 @@ overcome boils entertainment hamburger venus saturn
 1
 1 2
 2
-0 25 2 13
 0 18 2 3
+0 25 2 13
 1
 end_operator
 begin_operator
@@ -28719,8 +28719,8 @@ overcome boils entertainment haroset earth neptune
 1
 1 3
 2
-0 25 3 13
 0 18 1 0
+0 25 3 13
 1
 end_operator
 begin_operator
@@ -28728,8 +28728,8 @@ overcome boils entertainment haroset neptune venus
 1
 1 3
 2
-0 25 3 13
 0 18 3 1
+0 25 3 13
 1
 end_operator
 begin_operator
@@ -28737,8 +28737,8 @@ overcome boils entertainment haroset venus saturn
 1
 1 3
 2
-0 25 3 13
 0 18 2 3
+0 25 3 13
 1
 end_operator
 begin_operator
@@ -28746,8 +28746,8 @@ overcome boils entertainment marzipan earth neptune
 1
 1 4
 2
-0 25 4 13
 0 18 1 0
+0 25 4 13
 1
 end_operator
 begin_operator
@@ -28755,8 +28755,8 @@ overcome boils entertainment marzipan neptune venus
 1
 1 4
 2
-0 25 4 13
 0 18 3 1
+0 25 4 13
 1
 end_operator
 begin_operator
@@ -28764,8 +28764,8 @@ overcome boils entertainment marzipan venus saturn
 1
 1 4
 2
-0 25 4 13
 0 18 2 3
+0 25 4 13
 1
 end_operator
 begin_operator
@@ -28773,8 +28773,8 @@ overcome boils entertainment papaya earth neptune
 1
 1 5
 2
-0 25 5 13
 0 18 1 0
+0 25 5 13
 1
 end_operator
 begin_operator
@@ -28782,8 +28782,8 @@ overcome boils entertainment papaya neptune venus
 1
 1 5
 2
-0 25 5 13
 0 18 3 1
+0 25 5 13
 1
 end_operator
 begin_operator
@@ -28791,8 +28791,8 @@ overcome boils entertainment papaya venus saturn
 1
 1 5
 2
-0 25 5 13
 0 18 2 3
+0 25 5 13
 1
 end_operator
 begin_operator
@@ -28800,8 +28800,8 @@ overcome boils entertainment pepper earth neptune
 1
 1 6
 2
-0 25 6 13
 0 18 1 0
+0 25 6 13
 1
 end_operator
 begin_operator
@@ -28809,8 +28809,8 @@ overcome boils entertainment pepper neptune venus
 1
 1 6
 2
-0 25 6 13
 0 18 3 1
+0 25 6 13
 1
 end_operator
 begin_operator
@@ -28818,8 +28818,8 @@ overcome boils entertainment pepper venus saturn
 1
 1 6
 2
-0 25 6 13
 0 18 2 3
+0 25 6 13
 1
 end_operator
 begin_operator
@@ -28827,8 +28827,8 @@ overcome boils entertainment pistachio earth neptune
 1
 1 7
 2
-0 25 7 13
 0 18 1 0
+0 25 7 13
 1
 end_operator
 begin_operator
@@ -28836,8 +28836,8 @@ overcome boils entertainment pistachio neptune venus
 1
 1 7
 2
-0 25 7 13
 0 18 3 1
+0 25 7 13
 1
 end_operator
 begin_operator
@@ -28845,8 +28845,8 @@ overcome boils entertainment pistachio venus saturn
 1
 1 7
 2
-0 25 7 13
 0 18 2 3
+0 25 7 13
 1
 end_operator
 begin_operator
@@ -28854,8 +28854,8 @@ overcome boils entertainment rice earth neptune
 1
 1 8
 2
-0 25 8 13
 0 18 1 0
+0 25 8 13
 1
 end_operator
 begin_operator
@@ -28863,8 +28863,8 @@ overcome boils entertainment rice neptune venus
 1
 1 8
 2
-0 25 8 13
 0 18 3 1
+0 25 8 13
 1
 end_operator
 begin_operator
@@ -28872,8 +28872,8 @@ overcome boils entertainment rice venus saturn
 1
 1 8
 2
-0 25 8 13
 0 18 2 3
+0 25 8 13
 1
 end_operator
 begin_operator
@@ -28881,8 +28881,8 @@ overcome boils entertainment scallop earth neptune
 1
 1 9
 2
-0 25 9 13
 0 18 1 0
+0 25 9 13
 1
 end_operator
 begin_operator
@@ -28890,8 +28890,8 @@ overcome boils entertainment scallop neptune venus
 1
 1 9
 2
-0 25 9 13
 0 18 3 1
+0 25 9 13
 1
 end_operator
 begin_operator
@@ -28899,8 +28899,8 @@ overcome boils entertainment scallop venus saturn
 1
 1 9
 2
-0 25 9 13
 0 18 2 3
+0 25 9 13
 1
 end_operator
 begin_operator
@@ -28908,8 +28908,8 @@ overcome boils entertainment snickers earth neptune
 1
 1 10
 2
-0 25 10 13
 0 18 1 0
+0 25 10 13
 1
 end_operator
 begin_operator
@@ -28917,8 +28917,8 @@ overcome boils entertainment snickers neptune venus
 1
 1 10
 2
-0 25 10 13
 0 18 3 1
+0 25 10 13
 1
 end_operator
 begin_operator
@@ -28926,8 +28926,8 @@ overcome boils entertainment snickers venus saturn
 1
 1 10
 2
-0 25 10 13
 0 18 2 3
+0 25 10 13
 1
 end_operator
 begin_operator
@@ -28935,8 +28935,8 @@ overcome boils entertainment turkey earth neptune
 1
 1 11
 2
-0 25 11 13
 0 18 1 0
+0 25 11 13
 1
 end_operator
 begin_operator
@@ -28944,8 +28944,8 @@ overcome boils entertainment turkey neptune venus
 1
 1 11
 2
-0 25 11 13
 0 18 3 1
+0 25 11 13
 1
 end_operator
 begin_operator
@@ -28953,8 +28953,8 @@ overcome boils entertainment turkey venus saturn
 1
 1 11
 2
-0 25 11 13
 0 18 2 3
+0 25 11 13
 1
 end_operator
 begin_operator
@@ -28962,8 +28962,8 @@ overcome boils learning endive earth neptune
 1
 2 0
 2
-0 25 0 14
 0 21 1 0
+0 25 0 14
 1
 end_operator
 begin_operator
@@ -28971,8 +28971,8 @@ overcome boils learning endive neptune venus
 1
 2 0
 2
-0 25 0 14
 0 21 3 1
+0 25 0 14
 1
 end_operator
 begin_operator
@@ -28980,8 +28980,8 @@ overcome boils learning endive venus saturn
 1
 2 0
 2
-0 25 0 14
 0 21 2 3
+0 25 0 14
 1
 end_operator
 begin_operator
@@ -28989,8 +28989,8 @@ overcome boils learning flounder earth neptune
 1
 2 1
 2
-0 25 1 14
 0 21 1 0
+0 25 1 14
 1
 end_operator
 begin_operator
@@ -28998,8 +28998,8 @@ overcome boils learning flounder neptune venus
 1
 2 1
 2
-0 25 1 14
 0 21 3 1
+0 25 1 14
 1
 end_operator
 begin_operator
@@ -29007,8 +29007,8 @@ overcome boils learning flounder venus saturn
 1
 2 1
 2
-0 25 1 14
 0 21 2 3
+0 25 1 14
 1
 end_operator
 begin_operator
@@ -29016,8 +29016,8 @@ overcome boils learning hamburger earth neptune
 1
 2 2
 2
-0 25 2 14
 0 21 1 0
+0 25 2 14
 1
 end_operator
 begin_operator
@@ -29025,8 +29025,8 @@ overcome boils learning hamburger neptune venus
 1
 2 2
 2
-0 25 2 14
 0 21 3 1
+0 25 2 14
 1
 end_operator
 begin_operator
@@ -29034,8 +29034,8 @@ overcome boils learning hamburger venus saturn
 1
 2 2
 2
-0 25 2 14
 0 21 2 3
+0 25 2 14
 1
 end_operator
 begin_operator
@@ -29043,8 +29043,8 @@ overcome boils learning haroset earth neptune
 1
 2 3
 2
-0 25 3 14
 0 21 1 0
+0 25 3 14
 1
 end_operator
 begin_operator
@@ -29052,8 +29052,8 @@ overcome boils learning haroset neptune venus
 1
 2 3
 2
-0 25 3 14
 0 21 3 1
+0 25 3 14
 1
 end_operator
 begin_operator
@@ -29061,8 +29061,8 @@ overcome boils learning haroset venus saturn
 1
 2 3
 2
-0 25 3 14
 0 21 2 3
+0 25 3 14
 1
 end_operator
 begin_operator
@@ -29070,8 +29070,8 @@ overcome boils learning marzipan earth neptune
 1
 2 4
 2
-0 25 4 14
 0 21 1 0
+0 25 4 14
 1
 end_operator
 begin_operator
@@ -29079,8 +29079,8 @@ overcome boils learning marzipan neptune venus
 1
 2 4
 2
-0 25 4 14
 0 21 3 1
+0 25 4 14
 1
 end_operator
 begin_operator
@@ -29088,8 +29088,8 @@ overcome boils learning marzipan venus saturn
 1
 2 4
 2
-0 25 4 14
 0 21 2 3
+0 25 4 14
 1
 end_operator
 begin_operator
@@ -29097,8 +29097,8 @@ overcome boils learning papaya earth neptune
 1
 2 5
 2
-0 25 5 14
 0 21 1 0
+0 25 5 14
 1
 end_operator
 begin_operator
@@ -29106,8 +29106,8 @@ overcome boils learning papaya neptune venus
 1
 2 5
 2
-0 25 5 14
 0 21 3 1
+0 25 5 14
 1
 end_operator
 begin_operator
@@ -29115,8 +29115,8 @@ overcome boils learning papaya venus saturn
 1
 2 5
 2
-0 25 5 14
 0 21 2 3
+0 25 5 14
 1
 end_operator
 begin_operator
@@ -29124,8 +29124,8 @@ overcome boils learning pepper earth neptune
 1
 2 6
 2
-0 25 6 14
 0 21 1 0
+0 25 6 14
 1
 end_operator
 begin_operator
@@ -29133,8 +29133,8 @@ overcome boils learning pepper neptune venus
 1
 2 6
 2
-0 25 6 14
 0 21 3 1
+0 25 6 14
 1
 end_operator
 begin_operator
@@ -29142,8 +29142,8 @@ overcome boils learning pepper venus saturn
 1
 2 6
 2
-0 25 6 14
 0 21 2 3
+0 25 6 14
 1
 end_operator
 begin_operator
@@ -29151,8 +29151,8 @@ overcome boils learning pistachio earth neptune
 1
 2 7
 2
-0 25 7 14
 0 21 1 0
+0 25 7 14
 1
 end_operator
 begin_operator
@@ -29160,8 +29160,8 @@ overcome boils learning pistachio neptune venus
 1
 2 7
 2
-0 25 7 14
 0 21 3 1
+0 25 7 14
 1
 end_operator
 begin_operator
@@ -29169,8 +29169,8 @@ overcome boils learning pistachio venus saturn
 1
 2 7
 2
-0 25 7 14
 0 21 2 3
+0 25 7 14
 1
 end_operator
 begin_operator
@@ -29178,8 +29178,8 @@ overcome boils learning rice earth neptune
 1
 2 8
 2
-0 25 8 14
 0 21 1 0
+0 25 8 14
 1
 end_operator
 begin_operator
@@ -29187,8 +29187,8 @@ overcome boils learning rice neptune venus
 1
 2 8
 2
-0 25 8 14
 0 21 3 1
+0 25 8 14
 1
 end_operator
 begin_operator
@@ -29196,8 +29196,8 @@ overcome boils learning rice venus saturn
 1
 2 8
 2
-0 25 8 14
 0 21 2 3
+0 25 8 14
 1
 end_operator
 begin_operator
@@ -29205,8 +29205,8 @@ overcome boils learning scallop earth neptune
 1
 2 9
 2
-0 25 9 14
 0 21 1 0
+0 25 9 14
 1
 end_operator
 begin_operator
@@ -29214,8 +29214,8 @@ overcome boils learning scallop neptune venus
 1
 2 9
 2
-0 25 9 14
 0 21 3 1
+0 25 9 14
 1
 end_operator
 begin_operator
@@ -29223,8 +29223,8 @@ overcome boils learning scallop venus saturn
 1
 2 9
 2
-0 25 9 14
 0 21 2 3
+0 25 9 14
 1
 end_operator
 begin_operator
@@ -29232,8 +29232,8 @@ overcome boils learning snickers earth neptune
 1
 2 10
 2
-0 25 10 14
 0 21 1 0
+0 25 10 14
 1
 end_operator
 begin_operator
@@ -29241,8 +29241,8 @@ overcome boils learning snickers neptune venus
 1
 2 10
 2
-0 25 10 14
 0 21 3 1
+0 25 10 14
 1
 end_operator
 begin_operator
@@ -29250,8 +29250,8 @@ overcome boils learning snickers venus saturn
 1
 2 10
 2
-0 25 10 14
 0 21 2 3
+0 25 10 14
 1
 end_operator
 begin_operator
@@ -29259,8 +29259,8 @@ overcome boils learning turkey earth neptune
 1
 2 11
 2
-0 25 11 14
 0 21 1 0
+0 25 11 14
 1
 end_operator
 begin_operator
@@ -29268,8 +29268,8 @@ overcome boils learning turkey neptune venus
 1
 2 11
 2
-0 25 11 14
 0 21 3 1
+0 25 11 14
 1
 end_operator
 begin_operator
@@ -29277,8 +29277,8 @@ overcome boils learning turkey venus saturn
 1
 2 11
 2
-0 25 11 14
 0 21 2 3
+0 25 11 14
 1
 end_operator
 begin_operator
@@ -29286,8 +29286,8 @@ overcome boils satisfaction endive earth neptune
 1
 3 0
 2
-0 25 0 15
 0 22 1 0
+0 25 0 15
 1
 end_operator
 begin_operator
@@ -29295,8 +29295,8 @@ overcome boils satisfaction endive neptune venus
 1
 3 0
 2
-0 25 0 15
 0 22 3 1
+0 25 0 15
 1
 end_operator
 begin_operator
@@ -29304,8 +29304,8 @@ overcome boils satisfaction endive venus saturn
 1
 3 0
 2
-0 25 0 15
 0 22 2 3
+0 25 0 15
 1
 end_operator
 begin_operator
@@ -29313,8 +29313,8 @@ overcome boils satisfaction flounder earth neptune
 1
 3 1
 2
-0 25 1 15
 0 22 1 0
+0 25 1 15
 1
 end_operator
 begin_operator
@@ -29322,8 +29322,8 @@ overcome boils satisfaction flounder neptune venus
 1
 3 1
 2
-0 25 1 15
 0 22 3 1
+0 25 1 15
 1
 end_operator
 begin_operator
@@ -29331,8 +29331,8 @@ overcome boils satisfaction flounder venus saturn
 1
 3 1
 2
-0 25 1 15
 0 22 2 3
+0 25 1 15
 1
 end_operator
 begin_operator
@@ -29340,8 +29340,8 @@ overcome boils satisfaction hamburger earth neptune
 1
 3 2
 2
-0 25 2 15
 0 22 1 0
+0 25 2 15
 1
 end_operator
 begin_operator
@@ -29349,8 +29349,8 @@ overcome boils satisfaction hamburger neptune venus
 1
 3 2
 2
-0 25 2 15
 0 22 3 1
+0 25 2 15
 1
 end_operator
 begin_operator
@@ -29358,8 +29358,8 @@ overcome boils satisfaction hamburger venus saturn
 1
 3 2
 2
-0 25 2 15
 0 22 2 3
+0 25 2 15
 1
 end_operator
 begin_operator
@@ -29367,8 +29367,8 @@ overcome boils satisfaction haroset earth neptune
 1
 3 3
 2
-0 25 3 15
 0 22 1 0
+0 25 3 15
 1
 end_operator
 begin_operator
@@ -29376,8 +29376,8 @@ overcome boils satisfaction haroset neptune venus
 1
 3 3
 2
-0 25 3 15
 0 22 3 1
+0 25 3 15
 1
 end_operator
 begin_operator
@@ -29385,8 +29385,8 @@ overcome boils satisfaction haroset venus saturn
 1
 3 3
 2
-0 25 3 15
 0 22 2 3
+0 25 3 15
 1
 end_operator
 begin_operator
@@ -29394,8 +29394,8 @@ overcome boils satisfaction marzipan earth neptune
 1
 3 4
 2
-0 25 4 15
 0 22 1 0
+0 25 4 15
 1
 end_operator
 begin_operator
@@ -29403,8 +29403,8 @@ overcome boils satisfaction marzipan neptune venus
 1
 3 4
 2
-0 25 4 15
 0 22 3 1
+0 25 4 15
 1
 end_operator
 begin_operator
@@ -29412,8 +29412,8 @@ overcome boils satisfaction marzipan venus saturn
 1
 3 4
 2
-0 25 4 15
 0 22 2 3
+0 25 4 15
 1
 end_operator
 begin_operator
@@ -29421,8 +29421,8 @@ overcome boils satisfaction papaya earth neptune
 1
 3 5
 2
-0 25 5 15
 0 22 1 0
+0 25 5 15
 1
 end_operator
 begin_operator
@@ -29430,8 +29430,8 @@ overcome boils satisfaction papaya neptune venus
 1
 3 5
 2
-0 25 5 15
 0 22 3 1
+0 25 5 15
 1
 end_operator
 begin_operator
@@ -29439,8 +29439,8 @@ overcome boils satisfaction papaya venus saturn
 1
 3 5
 2
-0 25 5 15
 0 22 2 3
+0 25 5 15
 1
 end_operator
 begin_operator
@@ -29448,8 +29448,8 @@ overcome boils satisfaction pepper earth neptune
 1
 3 6
 2
-0 25 6 15
 0 22 1 0
+0 25 6 15
 1
 end_operator
 begin_operator
@@ -29457,8 +29457,8 @@ overcome boils satisfaction pepper neptune venus
 1
 3 6
 2
-0 25 6 15
 0 22 3 1
+0 25 6 15
 1
 end_operator
 begin_operator
@@ -29466,8 +29466,8 @@ overcome boils satisfaction pepper venus saturn
 1
 3 6
 2
-0 25 6 15
 0 22 2 3
+0 25 6 15
 1
 end_operator
 begin_operator
@@ -29475,8 +29475,8 @@ overcome boils satisfaction pistachio earth neptune
 1
 3 7
 2
-0 25 7 15
 0 22 1 0
+0 25 7 15
 1
 end_operator
 begin_operator
@@ -29484,8 +29484,8 @@ overcome boils satisfaction pistachio neptune venus
 1
 3 7
 2
-0 25 7 15
 0 22 3 1
+0 25 7 15
 1
 end_operator
 begin_operator
@@ -29493,8 +29493,8 @@ overcome boils satisfaction pistachio venus saturn
 1
 3 7
 2
-0 25 7 15
 0 22 2 3
+0 25 7 15
 1
 end_operator
 begin_operator
@@ -29502,8 +29502,8 @@ overcome boils satisfaction rice earth neptune
 1
 3 8
 2
-0 25 8 15
 0 22 1 0
+0 25 8 15
 1
 end_operator
 begin_operator
@@ -29511,8 +29511,8 @@ overcome boils satisfaction rice neptune venus
 1
 3 8
 2
-0 25 8 15
 0 22 3 1
+0 25 8 15
 1
 end_operator
 begin_operator
@@ -29520,8 +29520,8 @@ overcome boils satisfaction rice venus saturn
 1
 3 8
 2
-0 25 8 15
 0 22 2 3
+0 25 8 15
 1
 end_operator
 begin_operator
@@ -29529,8 +29529,8 @@ overcome boils satisfaction scallop earth neptune
 1
 3 9
 2
-0 25 9 15
 0 22 1 0
+0 25 9 15
 1
 end_operator
 begin_operator
@@ -29538,8 +29538,8 @@ overcome boils satisfaction scallop neptune venus
 1
 3 9
 2
-0 25 9 15
 0 22 3 1
+0 25 9 15
 1
 end_operator
 begin_operator
@@ -29547,8 +29547,8 @@ overcome boils satisfaction scallop venus saturn
 1
 3 9
 2
-0 25 9 15
 0 22 2 3
+0 25 9 15
 1
 end_operator
 begin_operator
@@ -29556,8 +29556,8 @@ overcome boils satisfaction snickers earth neptune
 1
 3 10
 2
-0 25 10 15
 0 22 1 0
+0 25 10 15
 1
 end_operator
 begin_operator
@@ -29565,8 +29565,8 @@ overcome boils satisfaction snickers neptune venus
 1
 3 10
 2
-0 25 10 15
 0 22 3 1
+0 25 10 15
 1
 end_operator
 begin_operator
@@ -29574,8 +29574,8 @@ overcome boils satisfaction snickers venus saturn
 1
 3 10
 2
-0 25 10 15
 0 22 2 3
+0 25 10 15
 1
 end_operator
 begin_operator
@@ -29583,8 +29583,8 @@ overcome boils satisfaction turkey earth neptune
 1
 3 11
 2
-0 25 11 15
 0 22 1 0
+0 25 11 15
 1
 end_operator
 begin_operator
@@ -29592,8 +29592,8 @@ overcome boils satisfaction turkey neptune venus
 1
 3 11
 2
-0 25 11 15
 0 22 3 1
+0 25 11 15
 1
 end_operator
 begin_operator
@@ -29601,8 +29601,8 @@ overcome boils satisfaction turkey venus saturn
 1
 3 11
 2
-0 25 11 15
 0 22 2 3
+0 25 11 15
 1
 end_operator
 begin_operator
@@ -29610,8 +29610,8 @@ overcome boils understanding endive earth neptune
 1
 4 0
 2
-0 25 0 16
 0 24 1 0
+0 25 0 16
 1
 end_operator
 begin_operator
@@ -29619,8 +29619,8 @@ overcome boils understanding endive neptune venus
 1
 4 0
 2
-0 25 0 16
 0 24 3 1
+0 25 0 16
 1
 end_operator
 begin_operator
@@ -29628,8 +29628,8 @@ overcome boils understanding endive venus saturn
 1
 4 0
 2
-0 25 0 16
 0 24 2 3
+0 25 0 16
 1
 end_operator
 begin_operator
@@ -29637,8 +29637,8 @@ overcome boils understanding flounder earth neptune
 1
 4 1
 2
-0 25 1 16
 0 24 1 0
+0 25 1 16
 1
 end_operator
 begin_operator
@@ -29646,8 +29646,8 @@ overcome boils understanding flounder neptune venus
 1
 4 1
 2
-0 25 1 16
 0 24 3 1
+0 25 1 16
 1
 end_operator
 begin_operator
@@ -29655,8 +29655,8 @@ overcome boils understanding flounder venus saturn
 1
 4 1
 2
-0 25 1 16
 0 24 2 3
+0 25 1 16
 1
 end_operator
 begin_operator
@@ -29664,8 +29664,8 @@ overcome boils understanding hamburger earth neptune
 1
 4 2
 2
-0 25 2 16
 0 24 1 0
+0 25 2 16
 1
 end_operator
 begin_operator
@@ -29673,8 +29673,8 @@ overcome boils understanding hamburger neptune venus
 1
 4 2
 2
-0 25 2 16
 0 24 3 1
+0 25 2 16
 1
 end_operator
 begin_operator
@@ -29682,8 +29682,8 @@ overcome boils understanding hamburger venus saturn
 1
 4 2
 2
-0 25 2 16
 0 24 2 3
+0 25 2 16
 1
 end_operator
 begin_operator
@@ -29691,8 +29691,8 @@ overcome boils understanding haroset earth neptune
 1
 4 3
 2
-0 25 3 16
 0 24 1 0
+0 25 3 16
 1
 end_operator
 begin_operator
@@ -29700,8 +29700,8 @@ overcome boils understanding haroset neptune venus
 1
 4 3
 2
-0 25 3 16
 0 24 3 1
+0 25 3 16
 1
 end_operator
 begin_operator
@@ -29709,8 +29709,8 @@ overcome boils understanding haroset venus saturn
 1
 4 3
 2
-0 25 3 16
 0 24 2 3
+0 25 3 16
 1
 end_operator
 begin_operator
@@ -29718,8 +29718,8 @@ overcome boils understanding marzipan earth neptune
 1
 4 4
 2
-0 25 4 16
 0 24 1 0
+0 25 4 16
 1
 end_operator
 begin_operator
@@ -29727,8 +29727,8 @@ overcome boils understanding marzipan neptune venus
 1
 4 4
 2
-0 25 4 16
 0 24 3 1
+0 25 4 16
 1
 end_operator
 begin_operator
@@ -29736,8 +29736,8 @@ overcome boils understanding marzipan venus saturn
 1
 4 4
 2
-0 25 4 16
 0 24 2 3
+0 25 4 16
 1
 end_operator
 begin_operator
@@ -29745,8 +29745,8 @@ overcome boils understanding papaya earth neptune
 1
 4 5
 2
-0 25 5 16
 0 24 1 0
+0 25 5 16
 1
 end_operator
 begin_operator
@@ -29754,8 +29754,8 @@ overcome boils understanding papaya neptune venus
 1
 4 5
 2
-0 25 5 16
 0 24 3 1
+0 25 5 16
 1
 end_operator
 begin_operator
@@ -29763,8 +29763,8 @@ overcome boils understanding papaya venus saturn
 1
 4 5
 2
-0 25 5 16
 0 24 2 3
+0 25 5 16
 1
 end_operator
 begin_operator
@@ -29772,8 +29772,8 @@ overcome boils understanding pepper earth neptune
 1
 4 6
 2
-0 25 6 16
 0 24 1 0
+0 25 6 16
 1
 end_operator
 begin_operator
@@ -29781,8 +29781,8 @@ overcome boils understanding pepper neptune venus
 1
 4 6
 2
-0 25 6 16
 0 24 3 1
+0 25 6 16
 1
 end_operator
 begin_operator
@@ -29790,8 +29790,8 @@ overcome boils understanding pepper venus saturn
 1
 4 6
 2
-0 25 6 16
 0 24 2 3
+0 25 6 16
 1
 end_operator
 begin_operator
@@ -29799,8 +29799,8 @@ overcome boils understanding pistachio earth neptune
 1
 4 7
 2
-0 25 7 16
 0 24 1 0
+0 25 7 16
 1
 end_operator
 begin_operator
@@ -29808,8 +29808,8 @@ overcome boils understanding pistachio neptune venus
 1
 4 7
 2
-0 25 7 16
 0 24 3 1
+0 25 7 16
 1
 end_operator
 begin_operator
@@ -29817,8 +29817,8 @@ overcome boils understanding pistachio venus saturn
 1
 4 7
 2
-0 25 7 16
 0 24 2 3
+0 25 7 16
 1
 end_operator
 begin_operator
@@ -29826,8 +29826,8 @@ overcome boils understanding rice earth neptune
 1
 4 8
 2
-0 25 8 16
 0 24 1 0
+0 25 8 16
 1
 end_operator
 begin_operator
@@ -29835,8 +29835,8 @@ overcome boils understanding rice neptune venus
 1
 4 8
 2
-0 25 8 16
 0 24 3 1
+0 25 8 16
 1
 end_operator
 begin_operator
@@ -29844,8 +29844,8 @@ overcome boils understanding rice venus saturn
 1
 4 8
 2
-0 25 8 16
 0 24 2 3
+0 25 8 16
 1
 end_operator
 begin_operator
@@ -29853,8 +29853,8 @@ overcome boils understanding scallop earth neptune
 1
 4 9
 2
-0 25 9 16
 0 24 1 0
+0 25 9 16
 1
 end_operator
 begin_operator
@@ -29862,8 +29862,8 @@ overcome boils understanding scallop neptune venus
 1
 4 9
 2
-0 25 9 16
 0 24 3 1
+0 25 9 16
 1
 end_operator
 begin_operator
@@ -29871,8 +29871,8 @@ overcome boils understanding scallop venus saturn
 1
 4 9
 2
-0 25 9 16
 0 24 2 3
+0 25 9 16
 1
 end_operator
 begin_operator
@@ -29880,8 +29880,8 @@ overcome boils understanding snickers earth neptune
 1
 4 10
 2
-0 25 10 16
 0 24 1 0
+0 25 10 16
 1
 end_operator
 begin_operator
@@ -29889,8 +29889,8 @@ overcome boils understanding snickers neptune venus
 1
 4 10
 2
-0 25 10 16
 0 24 3 1
+0 25 10 16
 1
 end_operator
 begin_operator
@@ -29898,8 +29898,8 @@ overcome boils understanding snickers venus saturn
 1
 4 10
 2
-0 25 10 16
 0 24 2 3
+0 25 10 16
 1
 end_operator
 begin_operator
@@ -29907,8 +29907,8 @@ overcome boils understanding turkey earth neptune
 1
 4 11
 2
-0 25 11 16
 0 24 1 0
+0 25 11 16
 1
 end_operator
 begin_operator
@@ -29916,8 +29916,8 @@ overcome boils understanding turkey neptune venus
 1
 4 11
 2
-0 25 11 16
 0 24 3 1
+0 25 11 16
 1
 end_operator
 begin_operator
@@ -29925,8 +29925,8 @@ overcome boils understanding turkey venus saturn
 1
 4 11
 2
-0 25 11 16
 0 24 2 3
+0 25 11 16
 1
 end_operator
 begin_operator
@@ -29934,8 +29934,8 @@ overcome depression empathy endive earth neptune
 1
 0 0
 2
-0 19 0 12
 0 17 1 0
+0 19 0 12
 1
 end_operator
 begin_operator
@@ -29943,8 +29943,8 @@ overcome depression empathy endive neptune venus
 1
 0 0
 2
-0 19 0 12
 0 17 3 1
+0 19 0 12
 1
 end_operator
 begin_operator
@@ -29952,8 +29952,8 @@ overcome depression empathy endive venus saturn
 1
 0 0
 2
-0 19 0 12
 0 17 2 3
+0 19 0 12
 1
 end_operator
 begin_operator
@@ -29961,8 +29961,8 @@ overcome depression empathy flounder earth neptune
 1
 0 1
 2
-0 19 1 12
 0 17 1 0
+0 19 1 12
 1
 end_operator
 begin_operator
@@ -29970,8 +29970,8 @@ overcome depression empathy flounder neptune venus
 1
 0 1
 2
-0 19 1 12
 0 17 3 1
+0 19 1 12
 1
 end_operator
 begin_operator
@@ -29979,8 +29979,8 @@ overcome depression empathy flounder venus saturn
 1
 0 1
 2
-0 19 1 12
 0 17 2 3
+0 19 1 12
 1
 end_operator
 begin_operator
@@ -29988,8 +29988,8 @@ overcome depression empathy hamburger earth neptune
 1
 0 2
 2
-0 19 2 12
 0 17 1 0
+0 19 2 12
 1
 end_operator
 begin_operator
@@ -29997,8 +29997,8 @@ overcome depression empathy hamburger neptune venus
 1
 0 2
 2
-0 19 2 12
 0 17 3 1
+0 19 2 12
 1
 end_operator
 begin_operator
@@ -30006,8 +30006,8 @@ overcome depression empathy hamburger venus saturn
 1
 0 2
 2
-0 19 2 12
 0 17 2 3
+0 19 2 12
 1
 end_operator
 begin_operator
@@ -30015,8 +30015,8 @@ overcome depression empathy haroset earth neptune
 1
 0 3
 2
-0 19 3 12
 0 17 1 0
+0 19 3 12
 1
 end_operator
 begin_operator
@@ -30024,8 +30024,8 @@ overcome depression empathy haroset neptune venus
 1
 0 3
 2
-0 19 3 12
 0 17 3 1
+0 19 3 12
 1
 end_operator
 begin_operator
@@ -30033,8 +30033,8 @@ overcome depression empathy haroset venus saturn
 1
 0 3
 2
-0 19 3 12
 0 17 2 3
+0 19 3 12
 1
 end_operator
 begin_operator
@@ -30042,8 +30042,8 @@ overcome depression empathy marzipan earth neptune
 1
 0 4
 2
-0 19 4 12
 0 17 1 0
+0 19 4 12
 1
 end_operator
 begin_operator
@@ -30051,8 +30051,8 @@ overcome depression empathy marzipan neptune venus
 1
 0 4
 2
-0 19 4 12
 0 17 3 1
+0 19 4 12
 1
 end_operator
 begin_operator
@@ -30060,8 +30060,8 @@ overcome depression empathy marzipan venus saturn
 1
 0 4
 2
-0 19 4 12
 0 17 2 3
+0 19 4 12
 1
 end_operator
 begin_operator
@@ -30069,8 +30069,8 @@ overcome depression empathy papaya earth neptune
 1
 0 5
 2
-0 19 5 12
 0 17 1 0
+0 19 5 12
 1
 end_operator
 begin_operator
@@ -30078,8 +30078,8 @@ overcome depression empathy papaya neptune venus
 1
 0 5
 2
-0 19 5 12
 0 17 3 1
+0 19 5 12
 1
 end_operator
 begin_operator
@@ -30087,8 +30087,8 @@ overcome depression empathy papaya venus saturn
 1
 0 5
 2
-0 19 5 12
 0 17 2 3
+0 19 5 12
 1
 end_operator
 begin_operator
@@ -30096,8 +30096,8 @@ overcome depression empathy pepper earth neptune
 1
 0 6
 2
-0 19 6 12
 0 17 1 0
+0 19 6 12
 1
 end_operator
 begin_operator
@@ -30105,8 +30105,8 @@ overcome depression empathy pepper neptune venus
 1
 0 6
 2
-0 19 6 12
 0 17 3 1
+0 19 6 12
 1
 end_operator
 begin_operator
@@ -30114,8 +30114,8 @@ overcome depression empathy pepper venus saturn
 1
 0 6
 2
-0 19 6 12
 0 17 2 3
+0 19 6 12
 1
 end_operator
 begin_operator
@@ -30123,8 +30123,8 @@ overcome depression empathy pistachio earth neptune
 1
 0 7
 2
-0 19 7 12
 0 17 1 0
+0 19 7 12
 1
 end_operator
 begin_operator
@@ -30132,8 +30132,8 @@ overcome depression empathy pistachio neptune venus
 1
 0 7
 2
-0 19 7 12
 0 17 3 1
+0 19 7 12
 1
 end_operator
 begin_operator
@@ -30141,8 +30141,8 @@ overcome depression empathy pistachio venus saturn
 1
 0 7
 2
-0 19 7 12
 0 17 2 3
+0 19 7 12
 1
 end_operator
 begin_operator
@@ -30150,8 +30150,8 @@ overcome depression empathy rice earth neptune
 1
 0 8
 2
-0 19 8 12
 0 17 1 0
+0 19 8 12
 1
 end_operator
 begin_operator
@@ -30159,8 +30159,8 @@ overcome depression empathy rice neptune venus
 1
 0 8
 2
-0 19 8 12
 0 17 3 1
+0 19 8 12
 1
 end_operator
 begin_operator
@@ -30168,8 +30168,8 @@ overcome depression empathy rice venus saturn
 1
 0 8
 2
-0 19 8 12
 0 17 2 3
+0 19 8 12
 1
 end_operator
 begin_operator
@@ -30177,8 +30177,8 @@ overcome depression empathy scallop earth neptune
 1
 0 9
 2
-0 19 9 12
 0 17 1 0
+0 19 9 12
 1
 end_operator
 begin_operator
@@ -30186,8 +30186,8 @@ overcome depression empathy scallop neptune venus
 1
 0 9
 2
-0 19 9 12
 0 17 3 1
+0 19 9 12
 1
 end_operator
 begin_operator
@@ -30195,8 +30195,8 @@ overcome depression empathy scallop venus saturn
 1
 0 9
 2
-0 19 9 12
 0 17 2 3
+0 19 9 12
 1
 end_operator
 begin_operator
@@ -30204,8 +30204,8 @@ overcome depression empathy snickers earth neptune
 1
 0 10
 2
-0 19 10 12
 0 17 1 0
+0 19 10 12
 1
 end_operator
 begin_operator
@@ -30213,8 +30213,8 @@ overcome depression empathy snickers neptune venus
 1
 0 10
 2
-0 19 10 12
 0 17 3 1
+0 19 10 12
 1
 end_operator
 begin_operator
@@ -30222,8 +30222,8 @@ overcome depression empathy snickers venus saturn
 1
 0 10
 2
-0 19 10 12
 0 17 2 3
+0 19 10 12
 1
 end_operator
 begin_operator
@@ -30231,8 +30231,8 @@ overcome depression empathy turkey earth neptune
 1
 0 11
 2
-0 19 11 12
 0 17 1 0
+0 19 11 12
 1
 end_operator
 begin_operator
@@ -30240,8 +30240,8 @@ overcome depression empathy turkey neptune venus
 1
 0 11
 2
-0 19 11 12
 0 17 3 1
+0 19 11 12
 1
 end_operator
 begin_operator
@@ -30249,8 +30249,8 @@ overcome depression empathy turkey venus saturn
 1
 0 11
 2
-0 19 11 12
 0 17 2 3
+0 19 11 12
 1
 end_operator
 begin_operator
@@ -30258,8 +30258,8 @@ overcome depression entertainment endive earth neptune
 1
 1 0
 2
-0 19 0 13
 0 18 1 0
+0 19 0 13
 1
 end_operator
 begin_operator
@@ -30267,8 +30267,8 @@ overcome depression entertainment endive neptune venus
 1
 1 0
 2
-0 19 0 13
 0 18 3 1
+0 19 0 13
 1
 end_operator
 begin_operator
@@ -30276,8 +30276,8 @@ overcome depression entertainment endive venus saturn
 1
 1 0
 2
-0 19 0 13
 0 18 2 3
+0 19 0 13
 1
 end_operator
 begin_operator
@@ -30285,8 +30285,8 @@ overcome depression entertainment flounder earth neptune
 1
 1 1
 2
-0 19 1 13
 0 18 1 0
+0 19 1 13
 1
 end_operator
 begin_operator
@@ -30294,8 +30294,8 @@ overcome depression entertainment flounder neptune venus
 1
 1 1
 2
-0 19 1 13
 0 18 3 1
+0 19 1 13
 1
 end_operator
 begin_operator
@@ -30303,8 +30303,8 @@ overcome depression entertainment flounder venus saturn
 1
 1 1
 2
-0 19 1 13
 0 18 2 3
+0 19 1 13
 1
 end_operator
 begin_operator
@@ -30312,8 +30312,8 @@ overcome depression entertainment hamburger earth neptune
 1
 1 2
 2
-0 19 2 13
 0 18 1 0
+0 19 2 13
 1
 end_operator
 begin_operator
@@ -30321,8 +30321,8 @@ overcome depression entertainment hamburger neptune venus
 1
 1 2
 2
-0 19 2 13
 0 18 3 1
+0 19 2 13
 1
 end_operator
 begin_operator
@@ -30330,8 +30330,8 @@ overcome depression entertainment hamburger venus saturn
 1
 1 2
 2
-0 19 2 13
 0 18 2 3
+0 19 2 13
 1
 end_operator
 begin_operator
@@ -30339,8 +30339,8 @@ overcome depression entertainment haroset earth neptune
 1
 1 3
 2
-0 19 3 13
 0 18 1 0
+0 19 3 13
 1
 end_operator
 begin_operator
@@ -30348,8 +30348,8 @@ overcome depression entertainment haroset neptune venus
 1
 1 3
 2
-0 19 3 13
 0 18 3 1
+0 19 3 13
 1
 end_operator
 begin_operator
@@ -30357,8 +30357,8 @@ overcome depression entertainment haroset venus saturn
 1
 1 3
 2
-0 19 3 13
 0 18 2 3
+0 19 3 13
 1
 end_operator
 begin_operator
@@ -30366,8 +30366,8 @@ overcome depression entertainment marzipan earth neptune
 1
 1 4
 2
-0 19 4 13
 0 18 1 0
+0 19 4 13
 1
 end_operator
 begin_operator
@@ -30375,8 +30375,8 @@ overcome depression entertainment marzipan neptune venus
 1
 1 4
 2
-0 19 4 13
 0 18 3 1
+0 19 4 13
 1
 end_operator
 begin_operator
@@ -30384,8 +30384,8 @@ overcome depression entertainment marzipan venus saturn
 1
 1 4
 2
-0 19 4 13
 0 18 2 3
+0 19 4 13
 1
 end_operator
 begin_operator
@@ -30393,8 +30393,8 @@ overcome depression entertainment papaya earth neptune
 1
 1 5
 2
-0 19 5 13
 0 18 1 0
+0 19 5 13
 1
 end_operator
 begin_operator
@@ -30402,8 +30402,8 @@ overcome depression entertainment papaya neptune venus
 1
 1 5
 2
-0 19 5 13
 0 18 3 1
+0 19 5 13
 1
 end_operator
 begin_operator
@@ -30411,8 +30411,8 @@ overcome depression entertainment papaya venus saturn
 1
 1 5
 2
-0 19 5 13
 0 18 2 3
+0 19 5 13
 1
 end_operator
 begin_operator
@@ -30420,8 +30420,8 @@ overcome depression entertainment pepper earth neptune
 1
 1 6
 2
-0 19 6 13
 0 18 1 0
+0 19 6 13
 1
 end_operator
 begin_operator
@@ -30429,8 +30429,8 @@ overcome depression entertainment pepper neptune venus
 1
 1 6
 2
-0 19 6 13
 0 18 3 1
+0 19 6 13
 1
 end_operator
 begin_operator
@@ -30438,8 +30438,8 @@ overcome depression entertainment pepper venus saturn
 1
 1 6
 2
-0 19 6 13
 0 18 2 3
+0 19 6 13
 1
 end_operator
 begin_operator
@@ -30447,8 +30447,8 @@ overcome depression entertainment pistachio earth neptune
 1
 1 7
 2
-0 19 7 13
 0 18 1 0
+0 19 7 13
 1
 end_operator
 begin_operator
@@ -30456,8 +30456,8 @@ overcome depression entertainment pistachio neptune venus
 1
 1 7
 2
-0 19 7 13
 0 18 3 1
+0 19 7 13
 1
 end_operator
 begin_operator
@@ -30465,8 +30465,8 @@ overcome depression entertainment pistachio venus saturn
 1
 1 7
 2
-0 19 7 13
 0 18 2 3
+0 19 7 13
 1
 end_operator
 begin_operator
@@ -30474,8 +30474,8 @@ overcome depression entertainment rice earth neptune
 1
 1 8
 2
-0 19 8 13
 0 18 1 0
+0 19 8 13
 1
 end_operator
 begin_operator
@@ -30483,8 +30483,8 @@ overcome depression entertainment rice neptune venus
 1
 1 8
 2
-0 19 8 13
 0 18 3 1
+0 19 8 13
 1
 end_operator
 begin_operator
@@ -30492,8 +30492,8 @@ overcome depression entertainment rice venus saturn
 1
 1 8
 2
-0 19 8 13
 0 18 2 3
+0 19 8 13
 1
 end_operator
 begin_operator
@@ -30501,8 +30501,8 @@ overcome depression entertainment scallop earth neptune
 1
 1 9
 2
-0 19 9 13
 0 18 1 0
+0 19 9 13
 1
 end_operator
 begin_operator
@@ -30510,8 +30510,8 @@ overcome depression entertainment scallop neptune venus
 1
 1 9
 2
-0 19 9 13
 0 18 3 1
+0 19 9 13
 1
 end_operator
 begin_operator
@@ -30519,8 +30519,8 @@ overcome depression entertainment scallop venus saturn
 1
 1 9
 2
-0 19 9 13
 0 18 2 3
+0 19 9 13
 1
 end_operator
 begin_operator
@@ -30528,8 +30528,8 @@ overcome depression entertainment snickers earth neptune
 1
 1 10
 2
-0 19 10 13
 0 18 1 0
+0 19 10 13
 1
 end_operator
 begin_operator
@@ -30537,8 +30537,8 @@ overcome depression entertainment snickers neptune venus
 1
 1 10
 2
-0 19 10 13
 0 18 3 1
+0 19 10 13
 1
 end_operator
 begin_operator
@@ -30546,8 +30546,8 @@ overcome depression entertainment snickers venus saturn
 1
 1 10
 2
-0 19 10 13
 0 18 2 3
+0 19 10 13
 1
 end_operator
 begin_operator
@@ -30555,8 +30555,8 @@ overcome depression entertainment turkey earth neptune
 1
 1 11
 2
-0 19 11 13
 0 18 1 0
+0 19 11 13
 1
 end_operator
 begin_operator
@@ -30564,8 +30564,8 @@ overcome depression entertainment turkey neptune venus
 1
 1 11
 2
-0 19 11 13
 0 18 3 1
+0 19 11 13
 1
 end_operator
 begin_operator
@@ -30573,8 +30573,8 @@ overcome depression entertainment turkey venus saturn
 1
 1 11
 2
-0 19 11 13
 0 18 2 3
+0 19 11 13
 1
 end_operator
 begin_operator
@@ -31554,8 +31554,8 @@ overcome hangover empathy endive earth neptune
 1
 0 0
 2
-0 20 0 12
 0 17 1 0
+0 20 0 12
 1
 end_operator
 begin_operator
@@ -31563,8 +31563,8 @@ overcome hangover empathy endive neptune venus
 1
 0 0
 2
-0 20 0 12
 0 17 3 1
+0 20 0 12
 1
 end_operator
 begin_operator
@@ -31572,8 +31572,8 @@ overcome hangover empathy endive venus saturn
 1
 0 0
 2
-0 20 0 12
 0 17 2 3
+0 20 0 12
 1
 end_operator
 begin_operator
@@ -31581,8 +31581,8 @@ overcome hangover empathy flounder earth neptune
 1
 0 1
 2
-0 20 1 12
 0 17 1 0
+0 20 1 12
 1
 end_operator
 begin_operator
@@ -31590,8 +31590,8 @@ overcome hangover empathy flounder neptune venus
 1
 0 1
 2
-0 20 1 12
 0 17 3 1
+0 20 1 12
 1
 end_operator
 begin_operator
@@ -31599,8 +31599,8 @@ overcome hangover empathy flounder venus saturn
 1
 0 1
 2
-0 20 1 12
 0 17 2 3
+0 20 1 12
 1
 end_operator
 begin_operator
@@ -31608,8 +31608,8 @@ overcome hangover empathy hamburger earth neptune
 1
 0 2
 2
-0 20 2 12
 0 17 1 0
+0 20 2 12
 1
 end_operator
 begin_operator
@@ -31617,8 +31617,8 @@ overcome hangover empathy hamburger neptune venus
 1
 0 2
 2
-0 20 2 12
 0 17 3 1
+0 20 2 12
 1
 end_operator
 begin_operator
@@ -31626,8 +31626,8 @@ overcome hangover empathy hamburger venus saturn
 1
 0 2
 2
-0 20 2 12
 0 17 2 3
+0 20 2 12
 1
 end_operator
 begin_operator
@@ -31635,8 +31635,8 @@ overcome hangover empathy haroset earth neptune
 1
 0 3
 2
-0 20 3 12
 0 17 1 0
+0 20 3 12
 1
 end_operator
 begin_operator
@@ -31644,8 +31644,8 @@ overcome hangover empathy haroset neptune venus
 1
 0 3
 2
-0 20 3 12
 0 17 3 1
+0 20 3 12
 1
 end_operator
 begin_operator
@@ -31653,8 +31653,8 @@ overcome hangover empathy haroset venus saturn
 1
 0 3
 2
-0 20 3 12
 0 17 2 3
+0 20 3 12
 1
 end_operator
 begin_operator
@@ -31662,8 +31662,8 @@ overcome hangover empathy marzipan earth neptune
 1
 0 4
 2
-0 20 4 12
 0 17 1 0
+0 20 4 12
 1
 end_operator
 begin_operator
@@ -31671,8 +31671,8 @@ overcome hangover empathy marzipan neptune venus
 1
 0 4
 2
-0 20 4 12
 0 17 3 1
+0 20 4 12
 1
 end_operator
 begin_operator
@@ -31680,8 +31680,8 @@ overcome hangover empathy marzipan venus saturn
 1
 0 4
 2
-0 20 4 12
 0 17 2 3
+0 20 4 12
 1
 end_operator
 begin_operator
@@ -31689,8 +31689,8 @@ overcome hangover empathy papaya earth neptune
 1
 0 5
 2
-0 20 5 12
 0 17 1 0
+0 20 5 12
 1
 end_operator
 begin_operator
@@ -31698,8 +31698,8 @@ overcome hangover empathy papaya neptune venus
 1
 0 5
 2
-0 20 5 12
 0 17 3 1
+0 20 5 12
 1
 end_operator
 begin_operator
@@ -31707,8 +31707,8 @@ overcome hangover empathy papaya venus saturn
 1
 0 5
 2
-0 20 5 12
 0 17 2 3
+0 20 5 12
 1
 end_operator
 begin_operator
@@ -31716,8 +31716,8 @@ overcome hangover empathy pepper earth neptune
 1
 0 6
 2
-0 20 6 12
 0 17 1 0
+0 20 6 12
 1
 end_operator
 begin_operator
@@ -31725,8 +31725,8 @@ overcome hangover empathy pepper neptune venus
 1
 0 6
 2
-0 20 6 12
 0 17 3 1
+0 20 6 12
 1
 end_operator
 begin_operator
@@ -31734,8 +31734,8 @@ overcome hangover empathy pepper venus saturn
 1
 0 6
 2
-0 20 6 12
 0 17 2 3
+0 20 6 12
 1
 end_operator
 begin_operator
@@ -31743,8 +31743,8 @@ overcome hangover empathy pistachio earth neptune
 1
 0 7
 2
-0 20 7 12
 0 17 1 0
+0 20 7 12
 1
 end_operator
 begin_operator
@@ -31752,8 +31752,8 @@ overcome hangover empathy pistachio neptune venus
 1
 0 7
 2
-0 20 7 12
 0 17 3 1
+0 20 7 12
 1
 end_operator
 begin_operator
@@ -31761,8 +31761,8 @@ overcome hangover empathy pistachio venus saturn
 1
 0 7
 2
-0 20 7 12
 0 17 2 3
+0 20 7 12
 1
 end_operator
 begin_operator
@@ -31770,8 +31770,8 @@ overcome hangover empathy rice earth neptune
 1
 0 8
 2
-0 20 8 12
 0 17 1 0
+0 20 8 12
 1
 end_operator
 begin_operator
@@ -31779,8 +31779,8 @@ overcome hangover empathy rice neptune venus
 1
 0 8
 2
-0 20 8 12
 0 17 3 1
+0 20 8 12
 1
 end_operator
 begin_operator
@@ -31788,8 +31788,8 @@ overcome hangover empathy rice venus saturn
 1
 0 8
 2
-0 20 8 12
 0 17 2 3
+0 20 8 12
 1
 end_operator
 begin_operator
@@ -31797,8 +31797,8 @@ overcome hangover empathy scallop earth neptune
 1
 0 9
 2
-0 20 9 12
 0 17 1 0
+0 20 9 12
 1
 end_operator
 begin_operator
@@ -31806,8 +31806,8 @@ overcome hangover empathy scallop neptune venus
 1
 0 9
 2
-0 20 9 12
 0 17 3 1
+0 20 9 12
 1
 end_operator
 begin_operator
@@ -31815,8 +31815,8 @@ overcome hangover empathy scallop venus saturn
 1
 0 9
 2
-0 20 9 12
 0 17 2 3
+0 20 9 12
 1
 end_operator
 begin_operator
@@ -31824,8 +31824,8 @@ overcome hangover empathy snickers earth neptune
 1
 0 10
 2
-0 20 10 12
 0 17 1 0
+0 20 10 12
 1
 end_operator
 begin_operator
@@ -31833,8 +31833,8 @@ overcome hangover empathy snickers neptune venus
 1
 0 10
 2
-0 20 10 12
 0 17 3 1
+0 20 10 12
 1
 end_operator
 begin_operator
@@ -31842,8 +31842,8 @@ overcome hangover empathy snickers venus saturn
 1
 0 10
 2
-0 20 10 12
 0 17 2 3
+0 20 10 12
 1
 end_operator
 begin_operator
@@ -31851,8 +31851,8 @@ overcome hangover empathy turkey earth neptune
 1
 0 11
 2
-0 20 11 12
 0 17 1 0
+0 20 11 12
 1
 end_operator
 begin_operator
@@ -31860,8 +31860,8 @@ overcome hangover empathy turkey neptune venus
 1
 0 11
 2
-0 20 11 12
 0 17 3 1
+0 20 11 12
 1
 end_operator
 begin_operator
@@ -31869,8 +31869,8 @@ overcome hangover empathy turkey venus saturn
 1
 0 11
 2
-0 20 11 12
 0 17 2 3
+0 20 11 12
 1
 end_operator
 begin_operator
@@ -31878,8 +31878,8 @@ overcome hangover entertainment endive earth neptune
 1
 1 0
 2
-0 20 0 13
 0 18 1 0
+0 20 0 13
 1
 end_operator
 begin_operator
@@ -31887,8 +31887,8 @@ overcome hangover entertainment endive neptune venus
 1
 1 0
 2
-0 20 0 13
 0 18 3 1
+0 20 0 13
 1
 end_operator
 begin_operator
@@ -31896,8 +31896,8 @@ overcome hangover entertainment endive venus saturn
 1
 1 0
 2
-0 20 0 13
 0 18 2 3
+0 20 0 13
 1
 end_operator
 begin_operator
@@ -31905,8 +31905,8 @@ overcome hangover entertainment flounder earth neptune
 1
 1 1
 2
-0 20 1 13
 0 18 1 0
+0 20 1 13
 1
 end_operator
 begin_operator
@@ -31914,8 +31914,8 @@ overcome hangover entertainment flounder neptune venus
 1
 1 1
 2
-0 20 1 13
 0 18 3 1
+0 20 1 13
 1
 end_operator
 begin_operator
@@ -31923,8 +31923,8 @@ overcome hangover entertainment flounder venus saturn
 1
 1 1
 2
-0 20 1 13
 0 18 2 3
+0 20 1 13
 1
 end_operator
 begin_operator
@@ -31932,8 +31932,8 @@ overcome hangover entertainment hamburger earth neptune
 1
 1 2
 2
-0 20 2 13
 0 18 1 0
+0 20 2 13
 1
 end_operator
 begin_operator
@@ -31941,8 +31941,8 @@ overcome hangover entertainment hamburger neptune venus
 1
 1 2
 2
-0 20 2 13
 0 18 3 1
+0 20 2 13
 1
 end_operator
 begin_operator
@@ -31950,8 +31950,8 @@ overcome hangover entertainment hamburger venus saturn
 1
 1 2
 2
-0 20 2 13
 0 18 2 3
+0 20 2 13
 1
 end_operator
 begin_operator
@@ -31959,8 +31959,8 @@ overcome hangover entertainment haroset earth neptune
 1
 1 3
 2
-0 20 3 13
 0 18 1 0
+0 20 3 13
 1
 end_operator
 begin_operator
@@ -31968,8 +31968,8 @@ overcome hangover entertainment haroset neptune venus
 1
 1 3
 2
-0 20 3 13
 0 18 3 1
+0 20 3 13
 1
 end_operator
 begin_operator
@@ -31977,8 +31977,8 @@ overcome hangover entertainment haroset venus saturn
 1
 1 3
 2
-0 20 3 13
 0 18 2 3
+0 20 3 13
 1
 end_operator
 begin_operator
@@ -31986,8 +31986,8 @@ overcome hangover entertainment marzipan earth neptune
 1
 1 4
 2
-0 20 4 13
 0 18 1 0
+0 20 4 13
 1
 end_operator
 begin_operator
@@ -31995,8 +31995,8 @@ overcome hangover entertainment marzipan neptune venus
 1
 1 4
 2
-0 20 4 13
 0 18 3 1
+0 20 4 13
 1
 end_operator
 begin_operator
@@ -32004,8 +32004,8 @@ overcome hangover entertainment marzipan venus saturn
 1
 1 4
 2
-0 20 4 13
 0 18 2 3
+0 20 4 13
 1
 end_operator
 begin_operator
@@ -32013,8 +32013,8 @@ overcome hangover entertainment papaya earth neptune
 1
 1 5
 2
-0 20 5 13
 0 18 1 0
+0 20 5 13
 1
 end_operator
 begin_operator
@@ -32022,8 +32022,8 @@ overcome hangover entertainment papaya neptune venus
 1
 1 5
 2
-0 20 5 13
 0 18 3 1
+0 20 5 13
 1
 end_operator
 begin_operator
@@ -32031,8 +32031,8 @@ overcome hangover entertainment papaya venus saturn
 1
 1 5
 2
-0 20 5 13
 0 18 2 3
+0 20 5 13
 1
 end_operator
 begin_operator
@@ -32040,8 +32040,8 @@ overcome hangover entertainment pepper earth neptune
 1
 1 6
 2
-0 20 6 13
 0 18 1 0
+0 20 6 13
 1
 end_operator
 begin_operator
@@ -32049,8 +32049,8 @@ overcome hangover entertainment pepper neptune venus
 1
 1 6
 2
-0 20 6 13
 0 18 3 1
+0 20 6 13
 1
 end_operator
 begin_operator
@@ -32058,8 +32058,8 @@ overcome hangover entertainment pepper venus saturn
 1
 1 6
 2
-0 20 6 13
 0 18 2 3
+0 20 6 13
 1
 end_operator
 begin_operator
@@ -32067,8 +32067,8 @@ overcome hangover entertainment pistachio earth neptune
 1
 1 7
 2
-0 20 7 13
 0 18 1 0
+0 20 7 13
 1
 end_operator
 begin_operator
@@ -32076,8 +32076,8 @@ overcome hangover entertainment pistachio neptune venus
 1
 1 7
 2
-0 20 7 13
 0 18 3 1
+0 20 7 13
 1
 end_operator
 begin_operator
@@ -32085,8 +32085,8 @@ overcome hangover entertainment pistachio venus saturn
 1
 1 7
 2
-0 20 7 13
 0 18 2 3
+0 20 7 13
 1
 end_operator
 begin_operator
@@ -32094,8 +32094,8 @@ overcome hangover entertainment rice earth neptune
 1
 1 8
 2
-0 20 8 13
 0 18 1 0
+0 20 8 13
 1
 end_operator
 begin_operator
@@ -32103,8 +32103,8 @@ overcome hangover entertainment rice neptune venus
 1
 1 8
 2
-0 20 8 13
 0 18 3 1
+0 20 8 13
 1
 end_operator
 begin_operator
@@ -32112,8 +32112,8 @@ overcome hangover entertainment rice venus saturn
 1
 1 8
 2
-0 20 8 13
 0 18 2 3
+0 20 8 13
 1
 end_operator
 begin_operator
@@ -32121,8 +32121,8 @@ overcome hangover entertainment scallop earth neptune
 1
 1 9
 2
-0 20 9 13
 0 18 1 0
+0 20 9 13
 1
 end_operator
 begin_operator
@@ -32130,8 +32130,8 @@ overcome hangover entertainment scallop neptune venus
 1
 1 9
 2
-0 20 9 13
 0 18 3 1
+0 20 9 13
 1
 end_operator
 begin_operator
@@ -32139,8 +32139,8 @@ overcome hangover entertainment scallop venus saturn
 1
 1 9
 2
-0 20 9 13
 0 18 2 3
+0 20 9 13
 1
 end_operator
 begin_operator
@@ -32148,8 +32148,8 @@ overcome hangover entertainment snickers earth neptune
 1
 1 10
 2
-0 20 10 13
 0 18 1 0
+0 20 10 13
 1
 end_operator
 begin_operator
@@ -32157,8 +32157,8 @@ overcome hangover entertainment snickers neptune venus
 1
 1 10
 2
-0 20 10 13
 0 18 3 1
+0 20 10 13
 1
 end_operator
 begin_operator
@@ -32166,8 +32166,8 @@ overcome hangover entertainment snickers venus saturn
 1
 1 10
 2
-0 20 10 13
 0 18 2 3
+0 20 10 13
 1
 end_operator
 begin_operator
@@ -32175,8 +32175,8 @@ overcome hangover entertainment turkey earth neptune
 1
 1 11
 2
-0 20 11 13
 0 18 1 0
+0 20 11 13
 1
 end_operator
 begin_operator
@@ -32184,8 +32184,8 @@ overcome hangover entertainment turkey neptune venus
 1
 1 11
 2
-0 20 11 13
 0 18 3 1
+0 20 11 13
 1
 end_operator
 begin_operator
@@ -32193,8 +32193,8 @@ overcome hangover entertainment turkey venus saturn
 1
 1 11
 2
-0 20 11 13
 0 18 2 3
+0 20 11 13
 1
 end_operator
 begin_operator
@@ -33174,8 +33174,8 @@ overcome jealousy empathy endive earth neptune
 1
 0 0
 2
-0 23 0 12
 0 17 1 0
+0 23 0 12
 1
 end_operator
 begin_operator
@@ -33183,8 +33183,8 @@ overcome jealousy empathy endive neptune venus
 1
 0 0
 2
-0 23 0 12
 0 17 3 1
+0 23 0 12
 1
 end_operator
 begin_operator
@@ -33192,8 +33192,8 @@ overcome jealousy empathy endive venus saturn
 1
 0 0
 2
-0 23 0 12
 0 17 2 3
+0 23 0 12
 1
 end_operator
 begin_operator
@@ -33201,8 +33201,8 @@ overcome jealousy empathy flounder earth neptune
 1
 0 1
 2
-0 23 1 12
 0 17 1 0
+0 23 1 12
 1
 end_operator
 begin_operator
@@ -33210,8 +33210,8 @@ overcome jealousy empathy flounder neptune venus
 1
 0 1
 2
-0 23 1 12
 0 17 3 1
+0 23 1 12
 1
 end_operator
 begin_operator
@@ -33219,8 +33219,8 @@ overcome jealousy empathy flounder venus saturn
 1
 0 1
 2
-0 23 1 12
 0 17 2 3
+0 23 1 12
 1
 end_operator
 begin_operator
@@ -33228,8 +33228,8 @@ overcome jealousy empathy hamburger earth neptune
 1
 0 2
 2
-0 23 2 12
 0 17 1 0
+0 23 2 12
 1
 end_operator
 begin_operator
@@ -33237,8 +33237,8 @@ overcome jealousy empathy hamburger neptune venus
 1
 0 2
 2
-0 23 2 12
 0 17 3 1
+0 23 2 12
 1
 end_operator
 begin_operator
@@ -33246,8 +33246,8 @@ overcome jealousy empathy hamburger venus saturn
 1
 0 2
 2
-0 23 2 12
 0 17 2 3
+0 23 2 12
 1
 end_operator
 begin_operator
@@ -33255,8 +33255,8 @@ overcome jealousy empathy haroset earth neptune
 1
 0 3
 2
-0 23 3 12
 0 17 1 0
+0 23 3 12
 1
 end_operator
 begin_operator
@@ -33264,8 +33264,8 @@ overcome jealousy empathy haroset neptune venus
 1
 0 3
 2
-0 23 3 12
 0 17 3 1
+0 23 3 12
 1
 end_operator
 begin_operator
@@ -33273,8 +33273,8 @@ overcome jealousy empathy haroset venus saturn
 1
 0 3
 2
-0 23 3 12
 0 17 2 3
+0 23 3 12
 1
 end_operator
 begin_operator
@@ -33282,8 +33282,8 @@ overcome jealousy empathy marzipan earth neptune
 1
 0 4
 2
-0 23 4 12
 0 17 1 0
+0 23 4 12
 1
 end_operator
 begin_operator
@@ -33291,8 +33291,8 @@ overcome jealousy empathy marzipan neptune venus
 1
 0 4
 2
-0 23 4 12
 0 17 3 1
+0 23 4 12
 1
 end_operator
 begin_operator
@@ -33300,8 +33300,8 @@ overcome jealousy empathy marzipan venus saturn
 1
 0 4
 2
-0 23 4 12
 0 17 2 3
+0 23 4 12
 1
 end_operator
 begin_operator
@@ -33309,8 +33309,8 @@ overcome jealousy empathy papaya earth neptune
 1
 0 5
 2
-0 23 5 12
 0 17 1 0
+0 23 5 12
 1
 end_operator
 begin_operator
@@ -33318,8 +33318,8 @@ overcome jealousy empathy papaya neptune venus
 1
 0 5
 2
-0 23 5 12
 0 17 3 1
+0 23 5 12
 1
 end_operator
 begin_operator
@@ -33327,8 +33327,8 @@ overcome jealousy empathy papaya venus saturn
 1
 0 5
 2
-0 23 5 12
 0 17 2 3
+0 23 5 12
 1
 end_operator
 begin_operator
@@ -33336,8 +33336,8 @@ overcome jealousy empathy pepper earth neptune
 1
 0 6
 2
-0 23 6 12
 0 17 1 0
+0 23 6 12
 1
 end_operator
 begin_operator
@@ -33345,8 +33345,8 @@ overcome jealousy empathy pepper neptune venus
 1
 0 6
 2
-0 23 6 12
 0 17 3 1
+0 23 6 12
 1
 end_operator
 begin_operator
@@ -33354,8 +33354,8 @@ overcome jealousy empathy pepper venus saturn
 1
 0 6
 2
-0 23 6 12
 0 17 2 3
+0 23 6 12
 1
 end_operator
 begin_operator
@@ -33363,8 +33363,8 @@ overcome jealousy empathy pistachio earth neptune
 1
 0 7
 2
-0 23 7 12
 0 17 1 0
+0 23 7 12
 1
 end_operator
 begin_operator
@@ -33372,8 +33372,8 @@ overcome jealousy empathy pistachio neptune venus
 1
 0 7
 2
-0 23 7 12
 0 17 3 1
+0 23 7 12
 1
 end_operator
 begin_operator
@@ -33381,8 +33381,8 @@ overcome jealousy empathy pistachio venus saturn
 1
 0 7
 2
-0 23 7 12
 0 17 2 3
+0 23 7 12
 1
 end_operator
 begin_operator
@@ -33390,8 +33390,8 @@ overcome jealousy empathy rice earth neptune
 1
 0 8
 2
-0 23 8 12
 0 17 1 0
+0 23 8 12
 1
 end_operator
 begin_operator
@@ -33399,8 +33399,8 @@ overcome jealousy empathy rice neptune venus
 1
 0 8
 2
-0 23 8 12
 0 17 3 1
+0 23 8 12
 1
 end_operator
 begin_operator
@@ -33408,8 +33408,8 @@ overcome jealousy empathy rice venus saturn
 1
 0 8
 2
-0 23 8 12
 0 17 2 3
+0 23 8 12
 1
 end_operator
 begin_operator
@@ -33417,8 +33417,8 @@ overcome jealousy empathy scallop earth neptune
 1
 0 9
 2
-0 23 9 12
 0 17 1 0
+0 23 9 12
 1
 end_operator
 begin_operator
@@ -33426,8 +33426,8 @@ overcome jealousy empathy scallop neptune venus
 1
 0 9
 2
-0 23 9 12
 0 17 3 1
+0 23 9 12
 1
 end_operator
 begin_operator
@@ -33435,8 +33435,8 @@ overcome jealousy empathy scallop venus saturn
 1
 0 9
 2
-0 23 9 12
 0 17 2 3
+0 23 9 12
 1
 end_operator
 begin_operator
@@ -33444,8 +33444,8 @@ overcome jealousy empathy snickers earth neptune
 1
 0 10
 2
-0 23 10 12
 0 17 1 0
+0 23 10 12
 1
 end_operator
 begin_operator
@@ -33453,8 +33453,8 @@ overcome jealousy empathy snickers neptune venus
 1
 0 10
 2
-0 23 10 12
 0 17 3 1
+0 23 10 12
 1
 end_operator
 begin_operator
@@ -33462,8 +33462,8 @@ overcome jealousy empathy snickers venus saturn
 1
 0 10
 2
-0 23 10 12
 0 17 2 3
+0 23 10 12
 1
 end_operator
 begin_operator
@@ -33471,8 +33471,8 @@ overcome jealousy empathy turkey earth neptune
 1
 0 11
 2
-0 23 11 12
 0 17 1 0
+0 23 11 12
 1
 end_operator
 begin_operator
@@ -33480,8 +33480,8 @@ overcome jealousy empathy turkey neptune venus
 1
 0 11
 2
-0 23 11 12
 0 17 3 1
+0 23 11 12
 1
 end_operator
 begin_operator
@@ -33489,8 +33489,8 @@ overcome jealousy empathy turkey venus saturn
 1
 0 11
 2
-0 23 11 12
 0 17 2 3
+0 23 11 12
 1
 end_operator
 begin_operator
@@ -33498,8 +33498,8 @@ overcome jealousy entertainment endive earth neptune
 1
 1 0
 2
-0 23 0 13
 0 18 1 0
+0 23 0 13
 1
 end_operator
 begin_operator
@@ -33507,8 +33507,8 @@ overcome jealousy entertainment endive neptune venus
 1
 1 0
 2
-0 23 0 13
 0 18 3 1
+0 23 0 13
 1
 end_operator
 begin_operator
@@ -33516,8 +33516,8 @@ overcome jealousy entertainment endive venus saturn
 1
 1 0
 2
-0 23 0 13
 0 18 2 3
+0 23 0 13
 1
 end_operator
 begin_operator
@@ -33525,8 +33525,8 @@ overcome jealousy entertainment flounder earth neptune
 1
 1 1
 2
-0 23 1 13
 0 18 1 0
+0 23 1 13
 1
 end_operator
 begin_operator
@@ -33534,8 +33534,8 @@ overcome jealousy entertainment flounder neptune venus
 1
 1 1
 2
-0 23 1 13
 0 18 3 1
+0 23 1 13
 1
 end_operator
 begin_operator
@@ -33543,8 +33543,8 @@ overcome jealousy entertainment flounder venus saturn
 1
 1 1
 2
-0 23 1 13
 0 18 2 3
+0 23 1 13
 1
 end_operator
 begin_operator
@@ -33552,8 +33552,8 @@ overcome jealousy entertainment hamburger earth neptune
 1
 1 2
 2
-0 23 2 13
 0 18 1 0
+0 23 2 13
 1
 end_operator
 begin_operator
@@ -33561,8 +33561,8 @@ overcome jealousy entertainment hamburger neptune venus
 1
 1 2
 2
-0 23 2 13
 0 18 3 1
+0 23 2 13
 1
 end_operator
 begin_operator
@@ -33570,8 +33570,8 @@ overcome jealousy entertainment hamburger venus saturn
 1
 1 2
 2
-0 23 2 13
 0 18 2 3
+0 23 2 13
 1
 end_operator
 begin_operator
@@ -33579,8 +33579,8 @@ overcome jealousy entertainment haroset earth neptune
 1
 1 3
 2
-0 23 3 13
 0 18 1 0
+0 23 3 13
 1
 end_operator
 begin_operator
@@ -33588,8 +33588,8 @@ overcome jealousy entertainment haroset neptune venus
 1
 1 3
 2
-0 23 3 13
 0 18 3 1
+0 23 3 13
 1
 end_operator
 begin_operator
@@ -33597,8 +33597,8 @@ overcome jealousy entertainment haroset venus saturn
 1
 1 3
 2
-0 23 3 13
 0 18 2 3
+0 23 3 13
 1
 end_operator
 begin_operator
@@ -33606,8 +33606,8 @@ overcome jealousy entertainment marzipan earth neptune
 1
 1 4
 2
-0 23 4 13
 0 18 1 0
+0 23 4 13
 1
 end_operator
 begin_operator
@@ -33615,8 +33615,8 @@ overcome jealousy entertainment marzipan neptune venus
 1
 1 4
 2
-0 23 4 13
 0 18 3 1
+0 23 4 13
 1
 end_operator
 begin_operator
@@ -33624,8 +33624,8 @@ overcome jealousy entertainment marzipan venus saturn
 1
 1 4
 2
-0 23 4 13
 0 18 2 3
+0 23 4 13
 1
 end_operator
 begin_operator
@@ -33633,8 +33633,8 @@ overcome jealousy entertainment papaya earth neptune
 1
 1 5
 2
-0 23 5 13
 0 18 1 0
+0 23 5 13
 1
 end_operator
 begin_operator
@@ -33642,8 +33642,8 @@ overcome jealousy entertainment papaya neptune venus
 1
 1 5
 2
-0 23 5 13
 0 18 3 1
+0 23 5 13
 1
 end_operator
 begin_operator
@@ -33651,8 +33651,8 @@ overcome jealousy entertainment papaya venus saturn
 1
 1 5
 2
-0 23 5 13
 0 18 2 3
+0 23 5 13
 1
 end_operator
 begin_operator
@@ -33660,8 +33660,8 @@ overcome jealousy entertainment pepper earth neptune
 1
 1 6
 2
-0 23 6 13
 0 18 1 0
+0 23 6 13
 1
 end_operator
 begin_operator
@@ -33669,8 +33669,8 @@ overcome jealousy entertainment pepper neptune venus
 1
 1 6
 2
-0 23 6 13
 0 18 3 1
+0 23 6 13
 1
 end_operator
 begin_operator
@@ -33678,8 +33678,8 @@ overcome jealousy entertainment pepper venus saturn
 1
 1 6
 2
-0 23 6 13
 0 18 2 3
+0 23 6 13
 1
 end_operator
 begin_operator
@@ -33687,8 +33687,8 @@ overcome jealousy entertainment pistachio earth neptune
 1
 1 7
 2
-0 23 7 13
 0 18 1 0
+0 23 7 13
 1
 end_operator
 begin_operator
@@ -33696,8 +33696,8 @@ overcome jealousy entertainment pistachio neptune venus
 1
 1 7
 2
-0 23 7 13
 0 18 3 1
+0 23 7 13
 1
 end_operator
 begin_operator
@@ -33705,8 +33705,8 @@ overcome jealousy entertainment pistachio venus saturn
 1
 1 7
 2
-0 23 7 13
 0 18 2 3
+0 23 7 13
 1
 end_operator
 begin_operator
@@ -33714,8 +33714,8 @@ overcome jealousy entertainment rice earth neptune
 1
 1 8
 2
-0 23 8 13
 0 18 1 0
+0 23 8 13
 1
 end_operator
 begin_operator
@@ -33723,8 +33723,8 @@ overcome jealousy entertainment rice neptune venus
 1
 1 8
 2
-0 23 8 13
 0 18 3 1
+0 23 8 13
 1
 end_operator
 begin_operator
@@ -33732,8 +33732,8 @@ overcome jealousy entertainment rice venus saturn
 1
 1 8
 2
-0 23 8 13
 0 18 2 3
+0 23 8 13
 1
 end_operator
 begin_operator
@@ -33741,8 +33741,8 @@ overcome jealousy entertainment scallop earth neptune
 1
 1 9
 2
-0 23 9 13
 0 18 1 0
+0 23 9 13
 1
 end_operator
 begin_operator
@@ -33750,8 +33750,8 @@ overcome jealousy entertainment scallop neptune venus
 1
 1 9
 2
-0 23 9 13
 0 18 3 1
+0 23 9 13
 1
 end_operator
 begin_operator
@@ -33759,8 +33759,8 @@ overcome jealousy entertainment scallop venus saturn
 1
 1 9
 2
-0 23 9 13
 0 18 2 3
+0 23 9 13
 1
 end_operator
 begin_operator
@@ -33768,8 +33768,8 @@ overcome jealousy entertainment snickers earth neptune
 1
 1 10
 2
-0 23 10 13
 0 18 1 0
+0 23 10 13
 1
 end_operator
 begin_operator
@@ -33777,8 +33777,8 @@ overcome jealousy entertainment snickers neptune venus
 1
 1 10
 2
-0 23 10 13
 0 18 3 1
+0 23 10 13
 1
 end_operator
 begin_operator
@@ -33786,8 +33786,8 @@ overcome jealousy entertainment snickers venus saturn
 1
 1 10
 2
-0 23 10 13
 0 18 2 3
+0 23 10 13
 1
 end_operator
 begin_operator
@@ -33795,8 +33795,8 @@ overcome jealousy entertainment turkey earth neptune
 1
 1 11
 2
-0 23 11 13
 0 18 1 0
+0 23 11 13
 1
 end_operator
 begin_operator
@@ -33804,8 +33804,8 @@ overcome jealousy entertainment turkey neptune venus
 1
 1 11
 2
-0 23 11 13
 0 18 3 1
+0 23 11 13
 1
 end_operator
 begin_operator
@@ -33813,8 +33813,8 @@ overcome jealousy entertainment turkey venus saturn
 1
 1 11
 2
-0 23 11 13
 0 18 2 3
+0 23 11 13
 1
 end_operator
 begin_operator
@@ -33822,8 +33822,8 @@ overcome jealousy learning endive earth neptune
 1
 2 0
 2
-0 23 0 14
 0 21 1 0
+0 23 0 14
 1
 end_operator
 begin_operator
@@ -33831,8 +33831,8 @@ overcome jealousy learning endive neptune venus
 1
 2 0
 2
-0 23 0 14
 0 21 3 1
+0 23 0 14
 1
 end_operator
 begin_operator
@@ -33840,8 +33840,8 @@ overcome jealousy learning endive venus saturn
 1
 2 0
 2
-0 23 0 14
 0 21 2 3
+0 23 0 14
 1
 end_operator
 begin_operator
@@ -33849,8 +33849,8 @@ overcome jealousy learning flounder earth neptune
 1
 2 1
 2
-0 23 1 14
 0 21 1 0
+0 23 1 14
 1
 end_operator
 begin_operator
@@ -33858,8 +33858,8 @@ overcome jealousy learning flounder neptune venus
 1
 2 1
 2
-0 23 1 14
 0 21 3 1
+0 23 1 14
 1
 end_operator
 begin_operator
@@ -33867,8 +33867,8 @@ overcome jealousy learning flounder venus saturn
 1
 2 1
 2
-0 23 1 14
 0 21 2 3
+0 23 1 14
 1
 end_operator
 begin_operator
@@ -33876,8 +33876,8 @@ overcome jealousy learning hamburger earth neptune
 1
 2 2
 2
-0 23 2 14
 0 21 1 0
+0 23 2 14
 1
 end_operator
 begin_operator
@@ -33885,8 +33885,8 @@ overcome jealousy learning hamburger neptune venus
 1
 2 2
 2
-0 23 2 14
 0 21 3 1
+0 23 2 14
 1
 end_operator
 begin_operator
@@ -33894,8 +33894,8 @@ overcome jealousy learning hamburger venus saturn
 1
 2 2
 2
-0 23 2 14
 0 21 2 3
+0 23 2 14
 1
 end_operator
 begin_operator
@@ -33903,8 +33903,8 @@ overcome jealousy learning haroset earth neptune
 1
 2 3
 2
-0 23 3 14
 0 21 1 0
+0 23 3 14
 1
 end_operator
 begin_operator
@@ -33912,8 +33912,8 @@ overcome jealousy learning haroset neptune venus
 1
 2 3
 2
-0 23 3 14
 0 21 3 1
+0 23 3 14
 1
 end_operator
 begin_operator
@@ -33921,8 +33921,8 @@ overcome jealousy learning haroset venus saturn
 1
 2 3
 2
-0 23 3 14
 0 21 2 3
+0 23 3 14
 1
 end_operator
 begin_operator
@@ -33930,8 +33930,8 @@ overcome jealousy learning marzipan earth neptune
 1
 2 4
 2
-0 23 4 14
 0 21 1 0
+0 23 4 14
 1
 end_operator
 begin_operator
@@ -33939,8 +33939,8 @@ overcome jealousy learning marzipan neptune venus
 1
 2 4
 2
-0 23 4 14
 0 21 3 1
+0 23 4 14
 1
 end_operator
 begin_operator
@@ -33948,8 +33948,8 @@ overcome jealousy learning marzipan venus saturn
 1
 2 4
 2
-0 23 4 14
 0 21 2 3
+0 23 4 14
 1
 end_operator
 begin_operator
@@ -33957,8 +33957,8 @@ overcome jealousy learning papaya earth neptune
 1
 2 5
 2
-0 23 5 14
 0 21 1 0
+0 23 5 14
 1
 end_operator
 begin_operator
@@ -33966,8 +33966,8 @@ overcome jealousy learning papaya neptune venus
 1
 2 5
 2
-0 23 5 14
 0 21 3 1
+0 23 5 14
 1
 end_operator
 begin_operator
@@ -33975,8 +33975,8 @@ overcome jealousy learning papaya venus saturn
 1
 2 5
 2
-0 23 5 14
 0 21 2 3
+0 23 5 14
 1
 end_operator
 begin_operator
@@ -33984,8 +33984,8 @@ overcome jealousy learning pepper earth neptune
 1
 2 6
 2
-0 23 6 14
 0 21 1 0
+0 23 6 14
 1
 end_operator
 begin_operator
@@ -33993,8 +33993,8 @@ overcome jealousy learning pepper neptune venus
 1
 2 6
 2
-0 23 6 14
 0 21 3 1
+0 23 6 14
 1
 end_operator
 begin_operator
@@ -34002,8 +34002,8 @@ overcome jealousy learning pepper venus saturn
 1
 2 6
 2
-0 23 6 14
 0 21 2 3
+0 23 6 14
 1
 end_operator
 begin_operator
@@ -34011,8 +34011,8 @@ overcome jealousy learning pistachio earth neptune
 1
 2 7
 2
-0 23 7 14
 0 21 1 0
+0 23 7 14
 1
 end_operator
 begin_operator
@@ -34020,8 +34020,8 @@ overcome jealousy learning pistachio neptune venus
 1
 2 7
 2
-0 23 7 14
 0 21 3 1
+0 23 7 14
 1
 end_operator
 begin_operator
@@ -34029,8 +34029,8 @@ overcome jealousy learning pistachio venus saturn
 1
 2 7
 2
-0 23 7 14
 0 21 2 3
+0 23 7 14
 1
 end_operator
 begin_operator
@@ -34038,8 +34038,8 @@ overcome jealousy learning rice earth neptune
 1
 2 8
 2
-0 23 8 14
 0 21 1 0
+0 23 8 14
 1
 end_operator
 begin_operator
@@ -34047,8 +34047,8 @@ overcome jealousy learning rice neptune venus
 1
 2 8
 2
-0 23 8 14
 0 21 3 1
+0 23 8 14
 1
 end_operator
 begin_operator
@@ -34056,8 +34056,8 @@ overcome jealousy learning rice venus saturn
 1
 2 8
 2
-0 23 8 14
 0 21 2 3
+0 23 8 14
 1
 end_operator
 begin_operator
@@ -34065,8 +34065,8 @@ overcome jealousy learning scallop earth neptune
 1
 2 9
 2
-0 23 9 14
 0 21 1 0
+0 23 9 14
 1
 end_operator
 begin_operator
@@ -34074,8 +34074,8 @@ overcome jealousy learning scallop neptune venus
 1
 2 9
 2
-0 23 9 14
 0 21 3 1
+0 23 9 14
 1
 end_operator
 begin_operator
@@ -34083,8 +34083,8 @@ overcome jealousy learning scallop venus saturn
 1
 2 9
 2
-0 23 9 14
 0 21 2 3
+0 23 9 14
 1
 end_operator
 begin_operator
@@ -34092,8 +34092,8 @@ overcome jealousy learning snickers earth neptune
 1
 2 10
 2
-0 23 10 14
 0 21 1 0
+0 23 10 14
 1
 end_operator
 begin_operator
@@ -34101,8 +34101,8 @@ overcome jealousy learning snickers neptune venus
 1
 2 10
 2
-0 23 10 14
 0 21 3 1
+0 23 10 14
 1
 end_operator
 begin_operator
@@ -34110,8 +34110,8 @@ overcome jealousy learning snickers venus saturn
 1
 2 10
 2
-0 23 10 14
 0 21 2 3
+0 23 10 14
 1
 end_operator
 begin_operator
@@ -34119,8 +34119,8 @@ overcome jealousy learning turkey earth neptune
 1
 2 11
 2
-0 23 11 14
 0 21 1 0
+0 23 11 14
 1
 end_operator
 begin_operator
@@ -34128,8 +34128,8 @@ overcome jealousy learning turkey neptune venus
 1
 2 11
 2
-0 23 11 14
 0 21 3 1
+0 23 11 14
 1
 end_operator
 begin_operator
@@ -34137,8 +34137,8 @@ overcome jealousy learning turkey venus saturn
 1
 2 11
 2
-0 23 11 14
 0 21 2 3
+0 23 11 14
 1
 end_operator
 begin_operator
@@ -34146,8 +34146,8 @@ overcome jealousy satisfaction endive earth neptune
 1
 3 0
 2
-0 23 0 15
 0 22 1 0
+0 23 0 15
 1
 end_operator
 begin_operator
@@ -34155,8 +34155,8 @@ overcome jealousy satisfaction endive neptune venus
 1
 3 0
 2
-0 23 0 15
 0 22 3 1
+0 23 0 15
 1
 end_operator
 begin_operator
@@ -34164,8 +34164,8 @@ overcome jealousy satisfaction endive venus saturn
 1
 3 0
 2
-0 23 0 15
 0 22 2 3
+0 23 0 15
 1
 end_operator
 begin_operator
@@ -34173,8 +34173,8 @@ overcome jealousy satisfaction flounder earth neptune
 1
 3 1
 2
-0 23 1 15
 0 22 1 0
+0 23 1 15
 1
 end_operator
 begin_operator
@@ -34182,8 +34182,8 @@ overcome jealousy satisfaction flounder neptune venus
 1
 3 1
 2
-0 23 1 15
 0 22 3 1
+0 23 1 15
 1
 end_operator
 begin_operator
@@ -34191,8 +34191,8 @@ overcome jealousy satisfaction flounder venus saturn
 1
 3 1
 2
-0 23 1 15
 0 22 2 3
+0 23 1 15
 1
 end_operator
 begin_operator
@@ -34200,8 +34200,8 @@ overcome jealousy satisfaction hamburger earth neptune
 1
 3 2
 2
-0 23 2 15
 0 22 1 0
+0 23 2 15
 1
 end_operator
 begin_operator
@@ -34209,8 +34209,8 @@ overcome jealousy satisfaction hamburger neptune venus
 1
 3 2
 2
-0 23 2 15
 0 22 3 1
+0 23 2 15
 1
 end_operator
 begin_operator
@@ -34218,8 +34218,8 @@ overcome jealousy satisfaction hamburger venus saturn
 1
 3 2
 2
-0 23 2 15
 0 22 2 3
+0 23 2 15
 1
 end_operator
 begin_operator
@@ -34227,8 +34227,8 @@ overcome jealousy satisfaction haroset earth neptune
 1
 3 3
 2
-0 23 3 15
 0 22 1 0
+0 23 3 15
 1
 end_operator
 begin_operator
@@ -34236,8 +34236,8 @@ overcome jealousy satisfaction haroset neptune venus
 1
 3 3
 2
-0 23 3 15
 0 22 3 1
+0 23 3 15
 1
 end_operator
 begin_operator
@@ -34245,8 +34245,8 @@ overcome jealousy satisfaction haroset venus saturn
 1
 3 3
 2
-0 23 3 15
 0 22 2 3
+0 23 3 15
 1
 end_operator
 begin_operator
@@ -34254,8 +34254,8 @@ overcome jealousy satisfaction marzipan earth neptune
 1
 3 4
 2
-0 23 4 15
 0 22 1 0
+0 23 4 15
 1
 end_operator
 begin_operator
@@ -34263,8 +34263,8 @@ overcome jealousy satisfaction marzipan neptune venus
 1
 3 4
 2
-0 23 4 15
 0 22 3 1
+0 23 4 15
 1
 end_operator
 begin_operator
@@ -34272,8 +34272,8 @@ overcome jealousy satisfaction marzipan venus saturn
 1
 3 4
 2
-0 23 4 15
 0 22 2 3
+0 23 4 15
 1
 end_operator
 begin_operator
@@ -34281,8 +34281,8 @@ overcome jealousy satisfaction papaya earth neptune
 1
 3 5
 2
-0 23 5 15
 0 22 1 0
+0 23 5 15
 1
 end_operator
 begin_operator
@@ -34290,8 +34290,8 @@ overcome jealousy satisfaction papaya neptune venus
 1
 3 5
 2
-0 23 5 15
 0 22 3 1
+0 23 5 15
 1
 end_operator
 begin_operator
@@ -34299,8 +34299,8 @@ overcome jealousy satisfaction papaya venus saturn
 1
 3 5
 2
-0 23 5 15
 0 22 2 3
+0 23 5 15
 1
 end_operator
 begin_operator
@@ -34308,8 +34308,8 @@ overcome jealousy satisfaction pepper earth neptune
 1
 3 6
 2
-0 23 6 15
 0 22 1 0
+0 23 6 15
 1
 end_operator
 begin_operator
@@ -34317,8 +34317,8 @@ overcome jealousy satisfaction pepper neptune venus
 1
 3 6
 2
-0 23 6 15
 0 22 3 1
+0 23 6 15
 1
 end_operator
 begin_operator
@@ -34326,8 +34326,8 @@ overcome jealousy satisfaction pepper venus saturn
 1
 3 6
 2
-0 23 6 15
 0 22 2 3
+0 23 6 15
 1
 end_operator
 begin_operator
@@ -34335,8 +34335,8 @@ overcome jealousy satisfaction pistachio earth neptune
 1
 3 7
 2
-0 23 7 15
 0 22 1 0
+0 23 7 15
 1
 end_operator
 begin_operator
@@ -34344,8 +34344,8 @@ overcome jealousy satisfaction pistachio neptune venus
 1
 3 7
 2
-0 23 7 15
 0 22 3 1
+0 23 7 15
 1
 end_operator
 begin_operator
@@ -34353,8 +34353,8 @@ overcome jealousy satisfaction pistachio venus saturn
 1
 3 7
 2
-0 23 7 15
 0 22 2 3
+0 23 7 15
 1
 end_operator
 begin_operator
@@ -34362,8 +34362,8 @@ overcome jealousy satisfaction rice earth neptune
 1
 3 8
 2
-0 23 8 15
 0 22 1 0
+0 23 8 15
 1
 end_operator
 begin_operator
@@ -34371,8 +34371,8 @@ overcome jealousy satisfaction rice neptune venus
 1
 3 8
 2
-0 23 8 15
 0 22 3 1
+0 23 8 15
 1
 end_operator
 begin_operator
@@ -34380,8 +34380,8 @@ overcome jealousy satisfaction rice venus saturn
 1
 3 8
 2
-0 23 8 15
 0 22 2 3
+0 23 8 15
 1
 end_operator
 begin_operator
@@ -34389,8 +34389,8 @@ overcome jealousy satisfaction scallop earth neptune
 1
 3 9
 2
-0 23 9 15
 0 22 1 0
+0 23 9 15
 1
 end_operator
 begin_operator
@@ -34398,8 +34398,8 @@ overcome jealousy satisfaction scallop neptune venus
 1
 3 9
 2
-0 23 9 15
 0 22 3 1
+0 23 9 15
 1
 end_operator
 begin_operator
@@ -34407,8 +34407,8 @@ overcome jealousy satisfaction scallop venus saturn
 1
 3 9
 2
-0 23 9 15
 0 22 2 3
+0 23 9 15
 1
 end_operator
 begin_operator
@@ -34416,8 +34416,8 @@ overcome jealousy satisfaction snickers earth neptune
 1
 3 10
 2
-0 23 10 15
 0 22 1 0
+0 23 10 15
 1
 end_operator
 begin_operator
@@ -34425,8 +34425,8 @@ overcome jealousy satisfaction snickers neptune venus
 1
 3 10
 2
-0 23 10 15
 0 22 3 1
+0 23 10 15
 1
 end_operator
 begin_operator
@@ -34434,8 +34434,8 @@ overcome jealousy satisfaction snickers venus saturn
 1
 3 10
 2
-0 23 10 15
 0 22 2 3
+0 23 10 15
 1
 end_operator
 begin_operator
@@ -34443,8 +34443,8 @@ overcome jealousy satisfaction turkey earth neptune
 1
 3 11
 2
-0 23 11 15
 0 22 1 0
+0 23 11 15
 1
 end_operator
 begin_operator
@@ -34452,8 +34452,8 @@ overcome jealousy satisfaction turkey neptune venus
 1
 3 11
 2
-0 23 11 15
 0 22 3 1
+0 23 11 15
 1
 end_operator
 begin_operator
@@ -34461,8 +34461,8 @@ overcome jealousy satisfaction turkey venus saturn
 1
 3 11
 2
-0 23 11 15
 0 22 2 3
+0 23 11 15
 1
 end_operator
 begin_operator
@@ -34794,8 +34794,8 @@ succumb boils empathy endive earth neptune
 1
 0 0
 2
-0 25 12 0
 0 17 0 1
+0 25 12 0
 1
 end_operator
 begin_operator
@@ -34803,8 +34803,8 @@ succumb boils empathy endive neptune venus
 1
 0 0
 2
-0 25 12 0
 0 17 1 3
+0 25 12 0
 1
 end_operator
 begin_operator
@@ -34812,8 +34812,8 @@ succumb boils empathy endive venus saturn
 1
 0 0
 2
-0 25 12 0
 0 17 3 2
+0 25 12 0
 1
 end_operator
 begin_operator
@@ -34821,8 +34821,8 @@ succumb boils empathy flounder earth neptune
 1
 0 1
 2
-0 25 12 1
 0 17 0 1
+0 25 12 1
 1
 end_operator
 begin_operator
@@ -34830,8 +34830,8 @@ succumb boils empathy flounder neptune venus
 1
 0 1
 2
-0 25 12 1
 0 17 1 3
+0 25 12 1
 1
 end_operator
 begin_operator
@@ -34839,8 +34839,8 @@ succumb boils empathy flounder venus saturn
 1
 0 1
 2
-0 25 12 1
 0 17 3 2
+0 25 12 1
 1
 end_operator
 begin_operator
@@ -34848,8 +34848,8 @@ succumb boils empathy hamburger earth neptune
 1
 0 2
 2
-0 25 12 2
 0 17 0 1
+0 25 12 2
 1
 end_operator
 begin_operator
@@ -34857,8 +34857,8 @@ succumb boils empathy hamburger neptune venus
 1
 0 2
 2
-0 25 12 2
 0 17 1 3
+0 25 12 2
 1
 end_operator
 begin_operator
@@ -34866,8 +34866,8 @@ succumb boils empathy hamburger venus saturn
 1
 0 2
 2
-0 25 12 2
 0 17 3 2
+0 25 12 2
 1
 end_operator
 begin_operator
@@ -34875,8 +34875,8 @@ succumb boils empathy haroset earth neptune
 1
 0 3
 2
-0 25 12 3
 0 17 0 1
+0 25 12 3
 1
 end_operator
 begin_operator
@@ -34884,8 +34884,8 @@ succumb boils empathy haroset neptune venus
 1
 0 3
 2
-0 25 12 3
 0 17 1 3
+0 25 12 3
 1
 end_operator
 begin_operator
@@ -34893,8 +34893,8 @@ succumb boils empathy haroset venus saturn
 1
 0 3
 2
-0 25 12 3
 0 17 3 2
+0 25 12 3
 1
 end_operator
 begin_operator
@@ -34902,8 +34902,8 @@ succumb boils empathy marzipan earth neptune
 1
 0 4
 2
-0 25 12 4
 0 17 0 1
+0 25 12 4
 1
 end_operator
 begin_operator
@@ -34911,8 +34911,8 @@ succumb boils empathy marzipan neptune venus
 1
 0 4
 2
-0 25 12 4
 0 17 1 3
+0 25 12 4
 1
 end_operator
 begin_operator
@@ -34920,8 +34920,8 @@ succumb boils empathy marzipan venus saturn
 1
 0 4
 2
-0 25 12 4
 0 17 3 2
+0 25 12 4
 1
 end_operator
 begin_operator
@@ -34929,8 +34929,8 @@ succumb boils empathy papaya earth neptune
 1
 0 5
 2
-0 25 12 5
 0 17 0 1
+0 25 12 5
 1
 end_operator
 begin_operator
@@ -34938,8 +34938,8 @@ succumb boils empathy papaya neptune venus
 1
 0 5
 2
-0 25 12 5
 0 17 1 3
+0 25 12 5
 1
 end_operator
 begin_operator
@@ -34947,8 +34947,8 @@ succumb boils empathy papaya venus saturn
 1
 0 5
 2
-0 25 12 5
 0 17 3 2
+0 25 12 5
 1
 end_operator
 begin_operator
@@ -34956,8 +34956,8 @@ succumb boils empathy pepper earth neptune
 1
 0 6
 2
-0 25 12 6
 0 17 0 1
+0 25 12 6
 1
 end_operator
 begin_operator
@@ -34965,8 +34965,8 @@ succumb boils empathy pepper neptune venus
 1
 0 6
 2
-0 25 12 6
 0 17 1 3
+0 25 12 6
 1
 end_operator
 begin_operator
@@ -34974,8 +34974,8 @@ succumb boils empathy pepper venus saturn
 1
 0 6
 2
-0 25 12 6
 0 17 3 2
+0 25 12 6
 1
 end_operator
 begin_operator
@@ -34983,8 +34983,8 @@ succumb boils empathy pistachio earth neptune
 1
 0 7
 2
-0 25 12 7
 0 17 0 1
+0 25 12 7
 1
 end_operator
 begin_operator
@@ -34992,8 +34992,8 @@ succumb boils empathy pistachio neptune venus
 1
 0 7
 2
-0 25 12 7
 0 17 1 3
+0 25 12 7
 1
 end_operator
 begin_operator
@@ -35001,8 +35001,8 @@ succumb boils empathy pistachio venus saturn
 1
 0 7
 2
-0 25 12 7
 0 17 3 2
+0 25 12 7
 1
 end_operator
 begin_operator
@@ -35010,8 +35010,8 @@ succumb boils empathy rice earth neptune
 1
 0 8
 2
-0 25 12 8
 0 17 0 1
+0 25 12 8
 1
 end_operator
 begin_operator
@@ -35019,8 +35019,8 @@ succumb boils empathy rice neptune venus
 1
 0 8
 2
-0 25 12 8
 0 17 1 3
+0 25 12 8
 1
 end_operator
 begin_operator
@@ -35028,8 +35028,8 @@ succumb boils empathy rice venus saturn
 1
 0 8
 2
-0 25 12 8
 0 17 3 2
+0 25 12 8
 1
 end_operator
 begin_operator
@@ -35037,8 +35037,8 @@ succumb boils empathy scallop earth neptune
 1
 0 9
 2
-0 25 12 9
 0 17 0 1
+0 25 12 9
 1
 end_operator
 begin_operator
@@ -35046,8 +35046,8 @@ succumb boils empathy scallop neptune venus
 1
 0 9
 2
-0 25 12 9
 0 17 1 3
+0 25 12 9
 1
 end_operator
 begin_operator
@@ -35055,8 +35055,8 @@ succumb boils empathy scallop venus saturn
 1
 0 9
 2
-0 25 12 9
 0 17 3 2
+0 25 12 9
 1
 end_operator
 begin_operator
@@ -35064,8 +35064,8 @@ succumb boils empathy snickers earth neptune
 1
 0 10
 2
-0 25 12 10
 0 17 0 1
+0 25 12 10
 1
 end_operator
 begin_operator
@@ -35073,8 +35073,8 @@ succumb boils empathy snickers neptune venus
 1
 0 10
 2
-0 25 12 10
 0 17 1 3
+0 25 12 10
 1
 end_operator
 begin_operator
@@ -35082,8 +35082,8 @@ succumb boils empathy snickers venus saturn
 1
 0 10
 2
-0 25 12 10
 0 17 3 2
+0 25 12 10
 1
 end_operator
 begin_operator
@@ -35091,8 +35091,8 @@ succumb boils empathy turkey earth neptune
 1
 0 11
 2
-0 25 12 11
 0 17 0 1
+0 25 12 11
 1
 end_operator
 begin_operator
@@ -35100,8 +35100,8 @@ succumb boils empathy turkey neptune venus
 1
 0 11
 2
-0 25 12 11
 0 17 1 3
+0 25 12 11
 1
 end_operator
 begin_operator
@@ -35109,8 +35109,8 @@ succumb boils empathy turkey venus saturn
 1
 0 11
 2
-0 25 12 11
 0 17 3 2
+0 25 12 11
 1
 end_operator
 begin_operator
@@ -35118,8 +35118,8 @@ succumb boils entertainment endive earth neptune
 1
 1 0
 2
-0 25 13 0
 0 18 0 1
+0 25 13 0
 1
 end_operator
 begin_operator
@@ -35127,8 +35127,8 @@ succumb boils entertainment endive neptune venus
 1
 1 0
 2
-0 25 13 0
 0 18 1 3
+0 25 13 0
 1
 end_operator
 begin_operator
@@ -35136,8 +35136,8 @@ succumb boils entertainment endive venus saturn
 1
 1 0
 2
-0 25 13 0
 0 18 3 2
+0 25 13 0
 1
 end_operator
 begin_operator
@@ -35145,8 +35145,8 @@ succumb boils entertainment flounder earth neptune
 1
 1 1
 2
-0 25 13 1
 0 18 0 1
+0 25 13 1
 1
 end_operator
 begin_operator
@@ -35154,8 +35154,8 @@ succumb boils entertainment flounder neptune venus
 1
 1 1
 2
-0 25 13 1
 0 18 1 3
+0 25 13 1
 1
 end_operator
 begin_operator
@@ -35163,8 +35163,8 @@ succumb boils entertainment flounder venus saturn
 1
 1 1
 2
-0 25 13 1
 0 18 3 2
+0 25 13 1
 1
 end_operator
 begin_operator
@@ -35172,8 +35172,8 @@ succumb boils entertainment hamburger earth neptune
 1
 1 2
 2
-0 25 13 2
 0 18 0 1
+0 25 13 2
 1
 end_operator
 begin_operator
@@ -35181,8 +35181,8 @@ succumb boils entertainment hamburger neptune venus
 1
 1 2
 2
-0 25 13 2
 0 18 1 3
+0 25 13 2
 1
 end_operator
 begin_operator
@@ -35190,8 +35190,8 @@ succumb boils entertainment hamburger venus saturn
 1
 1 2
 2
-0 25 13 2
 0 18 3 2
+0 25 13 2
 1
 end_operator
 begin_operator
@@ -35199,8 +35199,8 @@ succumb boils entertainment haroset earth neptune
 1
 1 3
 2
-0 25 13 3
 0 18 0 1
+0 25 13 3
 1
 end_operator
 begin_operator
@@ -35208,8 +35208,8 @@ succumb boils entertainment haroset neptune venus
 1
 1 3
 2
-0 25 13 3
 0 18 1 3
+0 25 13 3
 1
 end_operator
 begin_operator
@@ -35217,8 +35217,8 @@ succumb boils entertainment haroset venus saturn
 1
 1 3
 2
-0 25 13 3
 0 18 3 2
+0 25 13 3
 1
 end_operator
 begin_operator
@@ -35226,8 +35226,8 @@ succumb boils entertainment marzipan earth neptune
 1
 1 4
 2
-0 25 13 4
 0 18 0 1
+0 25 13 4
 1
 end_operator
 begin_operator
@@ -35235,8 +35235,8 @@ succumb boils entertainment marzipan neptune venus
 1
 1 4
 2
-0 25 13 4
 0 18 1 3
+0 25 13 4
 1
 end_operator
 begin_operator
@@ -35244,8 +35244,8 @@ succumb boils entertainment marzipan venus saturn
 1
 1 4
 2
-0 25 13 4
 0 18 3 2
+0 25 13 4
 1
 end_operator
 begin_operator
@@ -35253,8 +35253,8 @@ succumb boils entertainment papaya earth neptune
 1
 1 5
 2
-0 25 13 5
 0 18 0 1
+0 25 13 5
 1
 end_operator
 begin_operator
@@ -35262,8 +35262,8 @@ succumb boils entertainment papaya neptune venus
 1
 1 5
 2
-0 25 13 5
 0 18 1 3
+0 25 13 5
 1
 end_operator
 begin_operator
@@ -35271,8 +35271,8 @@ succumb boils entertainment papaya venus saturn
 1
 1 5
 2
-0 25 13 5
 0 18 3 2
+0 25 13 5
 1
 end_operator
 begin_operator
@@ -35280,8 +35280,8 @@ succumb boils entertainment pepper earth neptune
 1
 1 6
 2
-0 25 13 6
 0 18 0 1
+0 25 13 6
 1
 end_operator
 begin_operator
@@ -35289,8 +35289,8 @@ succumb boils entertainment pepper neptune venus
 1
 1 6
 2
-0 25 13 6
 0 18 1 3
+0 25 13 6
 1
 end_operator
 begin_operator
@@ -35298,8 +35298,8 @@ succumb boils entertainment pepper venus saturn
 1
 1 6
 2
-0 25 13 6
 0 18 3 2
+0 25 13 6
 1
 end_operator
 begin_operator
@@ -35307,8 +35307,8 @@ succumb boils entertainment pistachio earth neptune
 1
 1 7
 2
-0 25 13 7
 0 18 0 1
+0 25 13 7
 1
 end_operator
 begin_operator
@@ -35316,8 +35316,8 @@ succumb boils entertainment pistachio neptune venus
 1
 1 7
 2
-0 25 13 7
 0 18 1 3
+0 25 13 7
 1
 end_operator
 begin_operator
@@ -35325,8 +35325,8 @@ succumb boils entertainment pistachio venus saturn
 1
 1 7
 2
-0 25 13 7
 0 18 3 2
+0 25 13 7
 1
 end_operator
 begin_operator
@@ -35334,8 +35334,8 @@ succumb boils entertainment rice earth neptune
 1
 1 8
 2
-0 25 13 8
 0 18 0 1
+0 25 13 8
 1
 end_operator
 begin_operator
@@ -35343,8 +35343,8 @@ succumb boils entertainment rice neptune venus
 1
 1 8
 2
-0 25 13 8
 0 18 1 3
+0 25 13 8
 1
 end_operator
 begin_operator
@@ -35352,8 +35352,8 @@ succumb boils entertainment rice venus saturn
 1
 1 8
 2
-0 25 13 8
 0 18 3 2
+0 25 13 8
 1
 end_operator
 begin_operator
@@ -35361,8 +35361,8 @@ succumb boils entertainment scallop earth neptune
 1
 1 9
 2
-0 25 13 9
 0 18 0 1
+0 25 13 9
 1
 end_operator
 begin_operator
@@ -35370,8 +35370,8 @@ succumb boils entertainment scallop neptune venus
 1
 1 9
 2
-0 25 13 9
 0 18 1 3
+0 25 13 9
 1
 end_operator
 begin_operator
@@ -35379,8 +35379,8 @@ succumb boils entertainment scallop venus saturn
 1
 1 9
 2
-0 25 13 9
 0 18 3 2
+0 25 13 9
 1
 end_operator
 begin_operator
@@ -35388,8 +35388,8 @@ succumb boils entertainment snickers earth neptune
 1
 1 10
 2
-0 25 13 10
 0 18 0 1
+0 25 13 10
 1
 end_operator
 begin_operator
@@ -35397,8 +35397,8 @@ succumb boils entertainment snickers neptune venus
 1
 1 10
 2
-0 25 13 10
 0 18 1 3
+0 25 13 10
 1
 end_operator
 begin_operator
@@ -35406,8 +35406,8 @@ succumb boils entertainment snickers venus saturn
 1
 1 10
 2
-0 25 13 10
 0 18 3 2
+0 25 13 10
 1
 end_operator
 begin_operator
@@ -35415,8 +35415,8 @@ succumb boils entertainment turkey earth neptune
 1
 1 11
 2
-0 25 13 11
 0 18 0 1
+0 25 13 11
 1
 end_operator
 begin_operator
@@ -35424,8 +35424,8 @@ succumb boils entertainment turkey neptune venus
 1
 1 11
 2
-0 25 13 11
 0 18 1 3
+0 25 13 11
 1
 end_operator
 begin_operator
@@ -35433,8 +35433,8 @@ succumb boils entertainment turkey venus saturn
 1
 1 11
 2
-0 25 13 11
 0 18 3 2
+0 25 13 11
 1
 end_operator
 begin_operator
@@ -35442,8 +35442,8 @@ succumb boils learning endive earth neptune
 1
 2 0
 2
-0 25 14 0
 0 21 0 1
+0 25 14 0
 1
 end_operator
 begin_operator
@@ -35451,8 +35451,8 @@ succumb boils learning endive neptune venus
 1
 2 0
 2
-0 25 14 0
 0 21 1 3
+0 25 14 0
 1
 end_operator
 begin_operator
@@ -35460,8 +35460,8 @@ succumb boils learning endive venus saturn
 1
 2 0
 2
-0 25 14 0
 0 21 3 2
+0 25 14 0
 1
 end_operator
 begin_operator
@@ -35469,8 +35469,8 @@ succumb boils learning flounder earth neptune
 1
 2 1
 2
-0 25 14 1
 0 21 0 1
+0 25 14 1
 1
 end_operator
 begin_operator
@@ -35478,8 +35478,8 @@ succumb boils learning flounder neptune venus
 1
 2 1
 2
-0 25 14 1
 0 21 1 3
+0 25 14 1
 1
 end_operator
 begin_operator
@@ -35487,8 +35487,8 @@ succumb boils learning flounder venus saturn
 1
 2 1
 2
-0 25 14 1
 0 21 3 2
+0 25 14 1
 1
 end_operator
 begin_operator
@@ -35496,8 +35496,8 @@ succumb boils learning hamburger earth neptune
 1
 2 2
 2
-0 25 14 2
 0 21 0 1
+0 25 14 2
 1
 end_operator
 begin_operator
@@ -35505,8 +35505,8 @@ succumb boils learning hamburger neptune venus
 1
 2 2
 2
-0 25 14 2
 0 21 1 3
+0 25 14 2
 1
 end_operator
 begin_operator
@@ -35514,8 +35514,8 @@ succumb boils learning hamburger venus saturn
 1
 2 2
 2
-0 25 14 2
 0 21 3 2
+0 25 14 2
 1
 end_operator
 begin_operator
@@ -35523,8 +35523,8 @@ succumb boils learning haroset earth neptune
 1
 2 3
 2
-0 25 14 3
 0 21 0 1
+0 25 14 3
 1
 end_operator
 begin_operator
@@ -35532,8 +35532,8 @@ succumb boils learning haroset neptune venus
 1
 2 3
 2
-0 25 14 3
 0 21 1 3
+0 25 14 3
 1
 end_operator
 begin_operator
@@ -35541,8 +35541,8 @@ succumb boils learning haroset venus saturn
 1
 2 3
 2
-0 25 14 3
 0 21 3 2
+0 25 14 3
 1
 end_operator
 begin_operator
@@ -35550,8 +35550,8 @@ succumb boils learning marzipan earth neptune
 1
 2 4
 2
-0 25 14 4
 0 21 0 1
+0 25 14 4
 1
 end_operator
 begin_operator
@@ -35559,8 +35559,8 @@ succumb boils learning marzipan neptune venus
 1
 2 4
 2
-0 25 14 4
 0 21 1 3
+0 25 14 4
 1
 end_operator
 begin_operator
@@ -35568,8 +35568,8 @@ succumb boils learning marzipan venus saturn
 1
 2 4
 2
-0 25 14 4
 0 21 3 2
+0 25 14 4
 1
 end_operator
 begin_operator
@@ -35577,8 +35577,8 @@ succumb boils learning papaya earth neptune
 1
 2 5
 2
-0 25 14 5
 0 21 0 1
+0 25 14 5
 1
 end_operator
 begin_operator
@@ -35586,8 +35586,8 @@ succumb boils learning papaya neptune venus
 1
 2 5
 2
-0 25 14 5
 0 21 1 3
+0 25 14 5
 1
 end_operator
 begin_operator
@@ -35595,8 +35595,8 @@ succumb boils learning papaya venus saturn
 1
 2 5
 2
-0 25 14 5
 0 21 3 2
+0 25 14 5
 1
 end_operator
 begin_operator
@@ -35604,8 +35604,8 @@ succumb boils learning pepper earth neptune
 1
 2 6
 2
-0 25 14 6
 0 21 0 1
+0 25 14 6
 1
 end_operator
 begin_operator
@@ -35613,8 +35613,8 @@ succumb boils learning pepper neptune venus
 1
 2 6
 2
-0 25 14 6
 0 21 1 3
+0 25 14 6
 1
 end_operator
 begin_operator
@@ -35622,8 +35622,8 @@ succumb boils learning pepper venus saturn
 1
 2 6
 2
-0 25 14 6
 0 21 3 2
+0 25 14 6
 1
 end_operator
 begin_operator
@@ -35631,8 +35631,8 @@ succumb boils learning pistachio earth neptune
 1
 2 7
 2
-0 25 14 7
 0 21 0 1
+0 25 14 7
 1
 end_operator
 begin_operator
@@ -35640,8 +35640,8 @@ succumb boils learning pistachio neptune venus
 1
 2 7
 2
-0 25 14 7
 0 21 1 3
+0 25 14 7
 1
 end_operator
 begin_operator
@@ -35649,8 +35649,8 @@ succumb boils learning pistachio venus saturn
 1
 2 7
 2
-0 25 14 7
 0 21 3 2
+0 25 14 7
 1
 end_operator
 begin_operator
@@ -35658,8 +35658,8 @@ succumb boils learning rice earth neptune
 1
 2 8
 2
-0 25 14 8
 0 21 0 1
+0 25 14 8
 1
 end_operator
 begin_operator
@@ -35667,8 +35667,8 @@ succumb boils learning rice neptune venus
 1
 2 8
 2
-0 25 14 8
 0 21 1 3
+0 25 14 8
 1
 end_operator
 begin_operator
@@ -35676,8 +35676,8 @@ succumb boils learning rice venus saturn
 1
 2 8
 2
-0 25 14 8
 0 21 3 2
+0 25 14 8
 1
 end_operator
 begin_operator
@@ -35685,8 +35685,8 @@ succumb boils learning scallop earth neptune
 1
 2 9
 2
-0 25 14 9
 0 21 0 1
+0 25 14 9
 1
 end_operator
 begin_operator
@@ -35694,8 +35694,8 @@ succumb boils learning scallop neptune venus
 1
 2 9
 2
-0 25 14 9
 0 21 1 3
+0 25 14 9
 1
 end_operator
 begin_operator
@@ -35703,8 +35703,8 @@ succumb boils learning scallop venus saturn
 1
 2 9
 2
-0 25 14 9
 0 21 3 2
+0 25 14 9
 1
 end_operator
 begin_operator
@@ -35712,8 +35712,8 @@ succumb boils learning snickers earth neptune
 1
 2 10
 2
-0 25 14 10
 0 21 0 1
+0 25 14 10
 1
 end_operator
 begin_operator
@@ -35721,8 +35721,8 @@ succumb boils learning snickers neptune venus
 1
 2 10
 2
-0 25 14 10
 0 21 1 3
+0 25 14 10
 1
 end_operator
 begin_operator
@@ -35730,8 +35730,8 @@ succumb boils learning snickers venus saturn
 1
 2 10
 2
-0 25 14 10
 0 21 3 2
+0 25 14 10
 1
 end_operator
 begin_operator
@@ -35739,8 +35739,8 @@ succumb boils learning turkey earth neptune
 1
 2 11
 2
-0 25 14 11
 0 21 0 1
+0 25 14 11
 1
 end_operator
 begin_operator
@@ -35748,8 +35748,8 @@ succumb boils learning turkey neptune venus
 1
 2 11
 2
-0 25 14 11
 0 21 1 3
+0 25 14 11
 1
 end_operator
 begin_operator
@@ -35757,8 +35757,8 @@ succumb boils learning turkey venus saturn
 1
 2 11
 2
-0 25 14 11
 0 21 3 2
+0 25 14 11
 1
 end_operator
 begin_operator
@@ -35766,8 +35766,8 @@ succumb boils satisfaction endive earth neptune
 1
 3 0
 2
-0 25 15 0
 0 22 0 1
+0 25 15 0
 1
 end_operator
 begin_operator
@@ -35775,8 +35775,8 @@ succumb boils satisfaction endive neptune venus
 1
 3 0
 2
-0 25 15 0
 0 22 1 3
+0 25 15 0
 1
 end_operator
 begin_operator
@@ -35784,8 +35784,8 @@ succumb boils satisfaction endive venus saturn
 1
 3 0
 2
-0 25 15 0
 0 22 3 2
+0 25 15 0
 1
 end_operator
 begin_operator
@@ -35793,8 +35793,8 @@ succumb boils satisfaction flounder earth neptune
 1
 3 1
 2
-0 25 15 1
 0 22 0 1
+0 25 15 1
 1
 end_operator
 begin_operator
@@ -35802,8 +35802,8 @@ succumb boils satisfaction flounder neptune venus
 1
 3 1
 2
-0 25 15 1
 0 22 1 3
+0 25 15 1
 1
 end_operator
 begin_operator
@@ -35811,8 +35811,8 @@ succumb boils satisfaction flounder venus saturn
 1
 3 1
 2
-0 25 15 1
 0 22 3 2
+0 25 15 1
 1
 end_operator
 begin_operator
@@ -35820,8 +35820,8 @@ succumb boils satisfaction hamburger earth neptune
 1
 3 2
 2
-0 25 15 2
 0 22 0 1
+0 25 15 2
 1
 end_operator
 begin_operator
@@ -35829,8 +35829,8 @@ succumb boils satisfaction hamburger neptune venus
 1
 3 2
 2
-0 25 15 2
 0 22 1 3
+0 25 15 2
 1
 end_operator
 begin_operator
@@ -35838,8 +35838,8 @@ succumb boils satisfaction hamburger venus saturn
 1
 3 2
 2
-0 25 15 2
 0 22 3 2
+0 25 15 2
 1
 end_operator
 begin_operator
@@ -35847,8 +35847,8 @@ succumb boils satisfaction haroset earth neptune
 1
 3 3
 2
-0 25 15 3
 0 22 0 1
+0 25 15 3
 1
 end_operator
 begin_operator
@@ -35856,8 +35856,8 @@ succumb boils satisfaction haroset neptune venus
 1
 3 3
 2
-0 25 15 3
 0 22 1 3
+0 25 15 3
 1
 end_operator
 begin_operator
@@ -35865,8 +35865,8 @@ succumb boils satisfaction haroset venus saturn
 1
 3 3
 2
-0 25 15 3
 0 22 3 2
+0 25 15 3
 1
 end_operator
 begin_operator
@@ -35874,8 +35874,8 @@ succumb boils satisfaction marzipan earth neptune
 1
 3 4
 2
-0 25 15 4
 0 22 0 1
+0 25 15 4
 1
 end_operator
 begin_operator
@@ -35883,8 +35883,8 @@ succumb boils satisfaction marzipan neptune venus
 1
 3 4
 2
-0 25 15 4
 0 22 1 3
+0 25 15 4
 1
 end_operator
 begin_operator
@@ -35892,8 +35892,8 @@ succumb boils satisfaction marzipan venus saturn
 1
 3 4
 2
-0 25 15 4
 0 22 3 2
+0 25 15 4
 1
 end_operator
 begin_operator
@@ -35901,8 +35901,8 @@ succumb boils satisfaction papaya earth neptune
 1
 3 5
 2
-0 25 15 5
 0 22 0 1
+0 25 15 5
 1
 end_operator
 begin_operator
@@ -35910,8 +35910,8 @@ succumb boils satisfaction papaya neptune venus
 1
 3 5
 2
-0 25 15 5
 0 22 1 3
+0 25 15 5
 1
 end_operator
 begin_operator
@@ -35919,8 +35919,8 @@ succumb boils satisfaction papaya venus saturn
 1
 3 5
 2
-0 25 15 5
 0 22 3 2
+0 25 15 5
 1
 end_operator
 begin_operator
@@ -35928,8 +35928,8 @@ succumb boils satisfaction pepper earth neptune
 1
 3 6
 2
-0 25 15 6
 0 22 0 1
+0 25 15 6
 1
 end_operator
 begin_operator
@@ -35937,8 +35937,8 @@ succumb boils satisfaction pepper neptune venus
 1
 3 6
 2
-0 25 15 6
 0 22 1 3
+0 25 15 6
 1
 end_operator
 begin_operator
@@ -35946,8 +35946,8 @@ succumb boils satisfaction pepper venus saturn
 1
 3 6
 2
-0 25 15 6
 0 22 3 2
+0 25 15 6
 1
 end_operator
 begin_operator
@@ -35955,8 +35955,8 @@ succumb boils satisfaction pistachio earth neptune
 1
 3 7
 2
-0 25 15 7
 0 22 0 1
+0 25 15 7
 1
 end_operator
 begin_operator
@@ -35964,8 +35964,8 @@ succumb boils satisfaction pistachio neptune venus
 1
 3 7
 2
-0 25 15 7
 0 22 1 3
+0 25 15 7
 1
 end_operator
 begin_operator
@@ -35973,8 +35973,8 @@ succumb boils satisfaction pistachio venus saturn
 1
 3 7
 2
-0 25 15 7
 0 22 3 2
+0 25 15 7
 1
 end_operator
 begin_operator
@@ -35982,8 +35982,8 @@ succumb boils satisfaction rice earth neptune
 1
 3 8
 2
-0 25 15 8
 0 22 0 1
+0 25 15 8
 1
 end_operator
 begin_operator
@@ -35991,8 +35991,8 @@ succumb boils satisfaction rice neptune venus
 1
 3 8
 2
-0 25 15 8
 0 22 1 3
+0 25 15 8
 1
 end_operator
 begin_operator
@@ -36000,8 +36000,8 @@ succumb boils satisfaction rice venus saturn
 1
 3 8
 2
-0 25 15 8
 0 22 3 2
+0 25 15 8
 1
 end_operator
 begin_operator
@@ -36009,8 +36009,8 @@ succumb boils satisfaction scallop earth neptune
 1
 3 9
 2
-0 25 15 9
 0 22 0 1
+0 25 15 9
 1
 end_operator
 begin_operator
@@ -36018,8 +36018,8 @@ succumb boils satisfaction scallop neptune venus
 1
 3 9
 2
-0 25 15 9
 0 22 1 3
+0 25 15 9
 1
 end_operator
 begin_operator
@@ -36027,8 +36027,8 @@ succumb boils satisfaction scallop venus saturn
 1
 3 9
 2
-0 25 15 9
 0 22 3 2
+0 25 15 9
 1
 end_operator
 begin_operator
@@ -36036,8 +36036,8 @@ succumb boils satisfaction snickers earth neptune
 1
 3 10
 2
-0 25 15 10
 0 22 0 1
+0 25 15 10
 1
 end_operator
 begin_operator
@@ -36045,8 +36045,8 @@ succumb boils satisfaction snickers neptune venus
 1
 3 10
 2
-0 25 15 10
 0 22 1 3
+0 25 15 10
 1
 end_operator
 begin_operator
@@ -36054,8 +36054,8 @@ succumb boils satisfaction snickers venus saturn
 1
 3 10
 2
-0 25 15 10
 0 22 3 2
+0 25 15 10
 1
 end_operator
 begin_operator
@@ -36063,8 +36063,8 @@ succumb boils satisfaction turkey earth neptune
 1
 3 11
 2
-0 25 15 11
 0 22 0 1
+0 25 15 11
 1
 end_operator
 begin_operator
@@ -36072,8 +36072,8 @@ succumb boils satisfaction turkey neptune venus
 1
 3 11
 2
-0 25 15 11
 0 22 1 3
+0 25 15 11
 1
 end_operator
 begin_operator
@@ -36081,8 +36081,8 @@ succumb boils satisfaction turkey venus saturn
 1
 3 11
 2
-0 25 15 11
 0 22 3 2
+0 25 15 11
 1
 end_operator
 begin_operator
@@ -36090,8 +36090,8 @@ succumb boils understanding endive earth neptune
 1
 4 0
 2
-0 25 16 0
 0 24 0 1
+0 25 16 0
 1
 end_operator
 begin_operator
@@ -36099,8 +36099,8 @@ succumb boils understanding endive neptune venus
 1
 4 0
 2
-0 25 16 0
 0 24 1 3
+0 25 16 0
 1
 end_operator
 begin_operator
@@ -36108,8 +36108,8 @@ succumb boils understanding endive venus saturn
 1
 4 0
 2
-0 25 16 0
 0 24 3 2
+0 25 16 0
 1
 end_operator
 begin_operator
@@ -36117,8 +36117,8 @@ succumb boils understanding flounder earth neptune
 1
 4 1
 2
-0 25 16 1
 0 24 0 1
+0 25 16 1
 1
 end_operator
 begin_operator
@@ -36126,8 +36126,8 @@ succumb boils understanding flounder neptune venus
 1
 4 1
 2
-0 25 16 1
 0 24 1 3
+0 25 16 1
 1
 end_operator
 begin_operator
@@ -36135,8 +36135,8 @@ succumb boils understanding flounder venus saturn
 1
 4 1
 2
-0 25 16 1
 0 24 3 2
+0 25 16 1
 1
 end_operator
 begin_operator
@@ -36144,8 +36144,8 @@ succumb boils understanding hamburger earth neptune
 1
 4 2
 2
-0 25 16 2
 0 24 0 1
+0 25 16 2
 1
 end_operator
 begin_operator
@@ -36153,8 +36153,8 @@ succumb boils understanding hamburger neptune venus
 1
 4 2
 2
-0 25 16 2
 0 24 1 3
+0 25 16 2
 1
 end_operator
 begin_operator
@@ -36162,8 +36162,8 @@ succumb boils understanding hamburger venus saturn
 1
 4 2
 2
-0 25 16 2
 0 24 3 2
+0 25 16 2
 1
 end_operator
 begin_operator
@@ -36171,8 +36171,8 @@ succumb boils understanding haroset earth neptune
 1
 4 3
 2
-0 25 16 3
 0 24 0 1
+0 25 16 3
 1
 end_operator
 begin_operator
@@ -36180,8 +36180,8 @@ succumb boils understanding haroset neptune venus
 1
 4 3
 2
-0 25 16 3
 0 24 1 3
+0 25 16 3
 1
 end_operator
 begin_operator
@@ -36189,8 +36189,8 @@ succumb boils understanding haroset venus saturn
 1
 4 3
 2
-0 25 16 3
 0 24 3 2
+0 25 16 3
 1
 end_operator
 begin_operator
@@ -36198,8 +36198,8 @@ succumb boils understanding marzipan earth neptune
 1
 4 4
 2
-0 25 16 4
 0 24 0 1
+0 25 16 4
 1
 end_operator
 begin_operator
@@ -36207,8 +36207,8 @@ succumb boils understanding marzipan neptune venus
 1
 4 4
 2
-0 25 16 4
 0 24 1 3
+0 25 16 4
 1
 end_operator
 begin_operator
@@ -36216,8 +36216,8 @@ succumb boils understanding marzipan venus saturn
 1
 4 4
 2
-0 25 16 4
 0 24 3 2
+0 25 16 4
 1
 end_operator
 begin_operator
@@ -36225,8 +36225,8 @@ succumb boils understanding papaya earth neptune
 1
 4 5
 2
-0 25 16 5
 0 24 0 1
+0 25 16 5
 1
 end_operator
 begin_operator
@@ -36234,8 +36234,8 @@ succumb boils understanding papaya neptune venus
 1
 4 5
 2
-0 25 16 5
 0 24 1 3
+0 25 16 5
 1
 end_operator
 begin_operator
@@ -36243,8 +36243,8 @@ succumb boils understanding papaya venus saturn
 1
 4 5
 2
-0 25 16 5
 0 24 3 2
+0 25 16 5
 1
 end_operator
 begin_operator
@@ -36252,8 +36252,8 @@ succumb boils understanding pepper earth neptune
 1
 4 6
 2
-0 25 16 6
 0 24 0 1
+0 25 16 6
 1
 end_operator
 begin_operator
@@ -36261,8 +36261,8 @@ succumb boils understanding pepper neptune venus
 1
 4 6
 2
-0 25 16 6
 0 24 1 3
+0 25 16 6
 1
 end_operator
 begin_operator
@@ -36270,8 +36270,8 @@ succumb boils understanding pepper venus saturn
 1
 4 6
 2
-0 25 16 6
 0 24 3 2
+0 25 16 6
 1
 end_operator
 begin_operator
@@ -36279,8 +36279,8 @@ succumb boils understanding pistachio earth neptune
 1
 4 7
 2
-0 25 16 7
 0 24 0 1
+0 25 16 7
 1
 end_operator
 begin_operator
@@ -36288,8 +36288,8 @@ succumb boils understanding pistachio neptune venus
 1
 4 7
 2
-0 25 16 7
 0 24 1 3
+0 25 16 7
 1
 end_operator
 begin_operator
@@ -36297,8 +36297,8 @@ succumb boils understanding pistachio venus saturn
 1
 4 7
 2
-0 25 16 7
 0 24 3 2
+0 25 16 7
 1
 end_operator
 begin_operator
@@ -36306,8 +36306,8 @@ succumb boils understanding rice earth neptune
 1
 4 8
 2
-0 25 16 8
 0 24 0 1
+0 25 16 8
 1
 end_operator
 begin_operator
@@ -36315,8 +36315,8 @@ succumb boils understanding rice neptune venus
 1
 4 8
 2
-0 25 16 8
 0 24 1 3
+0 25 16 8
 1
 end_operator
 begin_operator
@@ -36324,8 +36324,8 @@ succumb boils understanding rice venus saturn
 1
 4 8
 2
-0 25 16 8
 0 24 3 2
+0 25 16 8
 1
 end_operator
 begin_operator
@@ -36333,8 +36333,8 @@ succumb boils understanding scallop earth neptune
 1
 4 9
 2
-0 25 16 9
 0 24 0 1
+0 25 16 9
 1
 end_operator
 begin_operator
@@ -36342,8 +36342,8 @@ succumb boils understanding scallop neptune venus
 1
 4 9
 2
-0 25 16 9
 0 24 1 3
+0 25 16 9
 1
 end_operator
 begin_operator
@@ -36351,8 +36351,8 @@ succumb boils understanding scallop venus saturn
 1
 4 9
 2
-0 25 16 9
 0 24 3 2
+0 25 16 9
 1
 end_operator
 begin_operator
@@ -36360,8 +36360,8 @@ succumb boils understanding snickers earth neptune
 1
 4 10
 2
-0 25 16 10
 0 24 0 1
+0 25 16 10
 1
 end_operator
 begin_operator
@@ -36369,8 +36369,8 @@ succumb boils understanding snickers neptune venus
 1
 4 10
 2
-0 25 16 10
 0 24 1 3
+0 25 16 10
 1
 end_operator
 begin_operator
@@ -36378,8 +36378,8 @@ succumb boils understanding snickers venus saturn
 1
 4 10
 2
-0 25 16 10
 0 24 3 2
+0 25 16 10
 1
 end_operator
 begin_operator
@@ -36387,8 +36387,8 @@ succumb boils understanding turkey earth neptune
 1
 4 11
 2
-0 25 16 11
 0 24 0 1
+0 25 16 11
 1
 end_operator
 begin_operator
@@ -36396,8 +36396,8 @@ succumb boils understanding turkey neptune venus
 1
 4 11
 2
-0 25 16 11
 0 24 1 3
+0 25 16 11
 1
 end_operator
 begin_operator
@@ -36405,8 +36405,8 @@ succumb boils understanding turkey venus saturn
 1
 4 11
 2
-0 25 16 11
 0 24 3 2
+0 25 16 11
 1
 end_operator
 begin_operator
@@ -36414,8 +36414,8 @@ succumb depression empathy endive earth neptune
 1
 0 0
 2
-0 19 12 0
 0 17 0 1
+0 19 12 0
 1
 end_operator
 begin_operator
@@ -36423,8 +36423,8 @@ succumb depression empathy endive neptune venus
 1
 0 0
 2
-0 19 12 0
 0 17 1 3
+0 19 12 0
 1
 end_operator
 begin_operator
@@ -36432,8 +36432,8 @@ succumb depression empathy endive venus saturn
 1
 0 0
 2
-0 19 12 0
 0 17 3 2
+0 19 12 0
 1
 end_operator
 begin_operator
@@ -36441,8 +36441,8 @@ succumb depression empathy flounder earth neptune
 1
 0 1
 2
-0 19 12 1
 0 17 0 1
+0 19 12 1
 1
 end_operator
 begin_operator
@@ -36450,8 +36450,8 @@ succumb depression empathy flounder neptune venus
 1
 0 1
 2
-0 19 12 1
 0 17 1 3
+0 19 12 1
 1
 end_operator
 begin_operator
@@ -36459,8 +36459,8 @@ succumb depression empathy flounder venus saturn
 1
 0 1
 2
-0 19 12 1
 0 17 3 2
+0 19 12 1
 1
 end_operator
 begin_operator
@@ -36468,8 +36468,8 @@ succumb depression empathy hamburger earth neptune
 1
 0 2
 2
-0 19 12 2
 0 17 0 1
+0 19 12 2
 1
 end_operator
 begin_operator
@@ -36477,8 +36477,8 @@ succumb depression empathy hamburger neptune venus
 1
 0 2
 2
-0 19 12 2
 0 17 1 3
+0 19 12 2
 1
 end_operator
 begin_operator
@@ -36486,8 +36486,8 @@ succumb depression empathy hamburger venus saturn
 1
 0 2
 2
-0 19 12 2
 0 17 3 2
+0 19 12 2
 1
 end_operator
 begin_operator
@@ -36495,8 +36495,8 @@ succumb depression empathy haroset earth neptune
 1
 0 3
 2
-0 19 12 3
 0 17 0 1
+0 19 12 3
 1
 end_operator
 begin_operator
@@ -36504,8 +36504,8 @@ succumb depression empathy haroset neptune venus
 1
 0 3
 2
-0 19 12 3
 0 17 1 3
+0 19 12 3
 1
 end_operator
 begin_operator
@@ -36513,8 +36513,8 @@ succumb depression empathy haroset venus saturn
 1
 0 3
 2
-0 19 12 3
 0 17 3 2
+0 19 12 3
 1
 end_operator
 begin_operator
@@ -36522,8 +36522,8 @@ succumb depression empathy marzipan earth neptune
 1
 0 4
 2
-0 19 12 4
 0 17 0 1
+0 19 12 4
 1
 end_operator
 begin_operator
@@ -36531,8 +36531,8 @@ succumb depression empathy marzipan neptune venus
 1
 0 4
 2
-0 19 12 4
 0 17 1 3
+0 19 12 4
 1
 end_operator
 begin_operator
@@ -36540,8 +36540,8 @@ succumb depression empathy marzipan venus saturn
 1
 0 4
 2
-0 19 12 4
 0 17 3 2
+0 19 12 4
 1
 end_operator
 begin_operator
@@ -36549,8 +36549,8 @@ succumb depression empathy papaya earth neptune
 1
 0 5
 2
-0 19 12 5
 0 17 0 1
+0 19 12 5
 1
 end_operator
 begin_operator
@@ -36558,8 +36558,8 @@ succumb depression empathy papaya neptune venus
 1
 0 5
 2
-0 19 12 5
 0 17 1 3
+0 19 12 5
 1
 end_operator
 begin_operator
@@ -36567,8 +36567,8 @@ succumb depression empathy papaya venus saturn
 1
 0 5
 2
-0 19 12 5
 0 17 3 2
+0 19 12 5
 1
 end_operator
 begin_operator
@@ -36576,8 +36576,8 @@ succumb depression empathy pepper earth neptune
 1
 0 6
 2
-0 19 12 6
 0 17 0 1
+0 19 12 6
 1
 end_operator
 begin_operator
@@ -36585,8 +36585,8 @@ succumb depression empathy pepper neptune venus
 1
 0 6
 2
-0 19 12 6
 0 17 1 3
+0 19 12 6
 1
 end_operator
 begin_operator
@@ -36594,8 +36594,8 @@ succumb depression empathy pepper venus saturn
 1
 0 6
 2
-0 19 12 6
 0 17 3 2
+0 19 12 6
 1
 end_operator
 begin_operator
@@ -36603,8 +36603,8 @@ succumb depression empathy pistachio earth neptune
 1
 0 7
 2
-0 19 12 7
 0 17 0 1
+0 19 12 7
 1
 end_operator
 begin_operator
@@ -36612,8 +36612,8 @@ succumb depression empathy pistachio neptune venus
 1
 0 7
 2
-0 19 12 7
 0 17 1 3
+0 19 12 7
 1
 end_operator
 begin_operator
@@ -36621,8 +36621,8 @@ succumb depression empathy pistachio venus saturn
 1
 0 7
 2
-0 19 12 7
 0 17 3 2
+0 19 12 7
 1
 end_operator
 begin_operator
@@ -36630,8 +36630,8 @@ succumb depression empathy rice earth neptune
 1
 0 8
 2
-0 19 12 8
 0 17 0 1
+0 19 12 8
 1
 end_operator
 begin_operator
@@ -36639,8 +36639,8 @@ succumb depression empathy rice neptune venus
 1
 0 8
 2
-0 19 12 8
 0 17 1 3
+0 19 12 8
 1
 end_operator
 begin_operator
@@ -36648,8 +36648,8 @@ succumb depression empathy rice venus saturn
 1
 0 8
 2
-0 19 12 8
 0 17 3 2
+0 19 12 8
 1
 end_operator
 begin_operator
@@ -36657,8 +36657,8 @@ succumb depression empathy scallop earth neptune
 1
 0 9
 2
-0 19 12 9
 0 17 0 1
+0 19 12 9
 1
 end_operator
 begin_operator
@@ -36666,8 +36666,8 @@ succumb depression empathy scallop neptune venus
 1
 0 9
 2
-0 19 12 9
 0 17 1 3
+0 19 12 9
 1
 end_operator
 begin_operator
@@ -36675,8 +36675,8 @@ succumb depression empathy scallop venus saturn
 1
 0 9
 2
-0 19 12 9
 0 17 3 2
+0 19 12 9
 1
 end_operator
 begin_operator
@@ -36684,8 +36684,8 @@ succumb depression empathy snickers earth neptune
 1
 0 10
 2
-0 19 12 10
 0 17 0 1
+0 19 12 10
 1
 end_operator
 begin_operator
@@ -36693,8 +36693,8 @@ succumb depression empathy snickers neptune venus
 1
 0 10
 2
-0 19 12 10
 0 17 1 3
+0 19 12 10
 1
 end_operator
 begin_operator
@@ -36702,8 +36702,8 @@ succumb depression empathy snickers venus saturn
 1
 0 10
 2
-0 19 12 10
 0 17 3 2
+0 19 12 10
 1
 end_operator
 begin_operator
@@ -36711,8 +36711,8 @@ succumb depression empathy turkey earth neptune
 1
 0 11
 2
-0 19 12 11
 0 17 0 1
+0 19 12 11
 1
 end_operator
 begin_operator
@@ -36720,8 +36720,8 @@ succumb depression empathy turkey neptune venus
 1
 0 11
 2
-0 19 12 11
 0 17 1 3
+0 19 12 11
 1
 end_operator
 begin_operator
@@ -36729,8 +36729,8 @@ succumb depression empathy turkey venus saturn
 1
 0 11
 2
-0 19 12 11
 0 17 3 2
+0 19 12 11
 1
 end_operator
 begin_operator
@@ -36738,8 +36738,8 @@ succumb depression entertainment endive earth neptune
 1
 1 0
 2
-0 19 13 0
 0 18 0 1
+0 19 13 0
 1
 end_operator
 begin_operator
@@ -36747,8 +36747,8 @@ succumb depression entertainment endive neptune venus
 1
 1 0
 2
-0 19 13 0
 0 18 1 3
+0 19 13 0
 1
 end_operator
 begin_operator
@@ -36756,8 +36756,8 @@ succumb depression entertainment endive venus saturn
 1
 1 0
 2
-0 19 13 0
 0 18 3 2
+0 19 13 0
 1
 end_operator
 begin_operator
@@ -36765,8 +36765,8 @@ succumb depression entertainment flounder earth neptune
 1
 1 1
 2
-0 19 13 1
 0 18 0 1
+0 19 13 1
 1
 end_operator
 begin_operator
@@ -36774,8 +36774,8 @@ succumb depression entertainment flounder neptune venus
 1
 1 1
 2
-0 19 13 1
 0 18 1 3
+0 19 13 1
 1
 end_operator
 begin_operator
@@ -36783,8 +36783,8 @@ succumb depression entertainment flounder venus saturn
 1
 1 1
 2
-0 19 13 1
 0 18 3 2
+0 19 13 1
 1
 end_operator
 begin_operator
@@ -36792,8 +36792,8 @@ succumb depression entertainment hamburger earth neptune
 1
 1 2
 2
-0 19 13 2
 0 18 0 1
+0 19 13 2
 1
 end_operator
 begin_operator
@@ -36801,8 +36801,8 @@ succumb depression entertainment hamburger neptune venus
 1
 1 2
 2
-0 19 13 2
 0 18 1 3
+0 19 13 2
 1
 end_operator
 begin_operator
@@ -36810,8 +36810,8 @@ succumb depression entertainment hamburger venus saturn
 1
 1 2
 2
-0 19 13 2
 0 18 3 2
+0 19 13 2
 1
 end_operator
 begin_operator
@@ -36819,8 +36819,8 @@ succumb depression entertainment haroset earth neptune
 1
 1 3
 2
-0 19 13 3
 0 18 0 1
+0 19 13 3
 1
 end_operator
 begin_operator
@@ -36828,8 +36828,8 @@ succumb depression entertainment haroset neptune venus
 1
 1 3
 2
-0 19 13 3
 0 18 1 3
+0 19 13 3
 1
 end_operator
 begin_operator
@@ -36837,8 +36837,8 @@ succumb depression entertainment haroset venus saturn
 1
 1 3
 2
-0 19 13 3
 0 18 3 2
+0 19 13 3
 1
 end_operator
 begin_operator
@@ -36846,8 +36846,8 @@ succumb depression entertainment marzipan earth neptune
 1
 1 4
 2
-0 19 13 4
 0 18 0 1
+0 19 13 4
 1
 end_operator
 begin_operator
@@ -36855,8 +36855,8 @@ succumb depression entertainment marzipan neptune venus
 1
 1 4
 2
-0 19 13 4
 0 18 1 3
+0 19 13 4
 1
 end_operator
 begin_operator
@@ -36864,8 +36864,8 @@ succumb depression entertainment marzipan venus saturn
 1
 1 4
 2
-0 19 13 4
 0 18 3 2
+0 19 13 4
 1
 end_operator
 begin_operator
@@ -36873,8 +36873,8 @@ succumb depression entertainment papaya earth neptune
 1
 1 5
 2
-0 19 13 5
 0 18 0 1
+0 19 13 5
 1
 end_operator
 begin_operator
@@ -36882,8 +36882,8 @@ succumb depression entertainment papaya neptune venus
 1
 1 5
 2
-0 19 13 5
 0 18 1 3
+0 19 13 5
 1
 end_operator
 begin_operator
@@ -36891,8 +36891,8 @@ succumb depression entertainment papaya venus saturn
 1
 1 5
 2
-0 19 13 5
 0 18 3 2
+0 19 13 5
 1
 end_operator
 begin_operator
@@ -36900,8 +36900,8 @@ succumb depression entertainment pepper earth neptune
 1
 1 6
 2
-0 19 13 6
 0 18 0 1
+0 19 13 6
 1
 end_operator
 begin_operator
@@ -36909,8 +36909,8 @@ succumb depression entertainment pepper neptune venus
 1
 1 6
 2
-0 19 13 6
 0 18 1 3
+0 19 13 6
 1
 end_operator
 begin_operator
@@ -36918,8 +36918,8 @@ succumb depression entertainment pepper venus saturn
 1
 1 6
 2
-0 19 13 6
 0 18 3 2
+0 19 13 6
 1
 end_operator
 begin_operator
@@ -36927,8 +36927,8 @@ succumb depression entertainment pistachio earth neptune
 1
 1 7
 2
-0 19 13 7
 0 18 0 1
+0 19 13 7
 1
 end_operator
 begin_operator
@@ -36936,8 +36936,8 @@ succumb depression entertainment pistachio neptune venus
 1
 1 7
 2
-0 19 13 7
 0 18 1 3
+0 19 13 7
 1
 end_operator
 begin_operator
@@ -36945,8 +36945,8 @@ succumb depression entertainment pistachio venus saturn
 1
 1 7
 2
-0 19 13 7
 0 18 3 2
+0 19 13 7
 1
 end_operator
 begin_operator
@@ -36954,8 +36954,8 @@ succumb depression entertainment rice earth neptune
 1
 1 8
 2
-0 19 13 8
 0 18 0 1
+0 19 13 8
 1
 end_operator
 begin_operator
@@ -36963,8 +36963,8 @@ succumb depression entertainment rice neptune venus
 1
 1 8
 2
-0 19 13 8
 0 18 1 3
+0 19 13 8
 1
 end_operator
 begin_operator
@@ -36972,8 +36972,8 @@ succumb depression entertainment rice venus saturn
 1
 1 8
 2
-0 19 13 8
 0 18 3 2
+0 19 13 8
 1
 end_operator
 begin_operator
@@ -36981,8 +36981,8 @@ succumb depression entertainment scallop earth neptune
 1
 1 9
 2
-0 19 13 9
 0 18 0 1
+0 19 13 9
 1
 end_operator
 begin_operator
@@ -36990,8 +36990,8 @@ succumb depression entertainment scallop neptune venus
 1
 1 9
 2
-0 19 13 9
 0 18 1 3
+0 19 13 9
 1
 end_operator
 begin_operator
@@ -36999,8 +36999,8 @@ succumb depression entertainment scallop venus saturn
 1
 1 9
 2
-0 19 13 9
 0 18 3 2
+0 19 13 9
 1
 end_operator
 begin_operator
@@ -37008,8 +37008,8 @@ succumb depression entertainment snickers earth neptune
 1
 1 10
 2
-0 19 13 10
 0 18 0 1
+0 19 13 10
 1
 end_operator
 begin_operator
@@ -37017,8 +37017,8 @@ succumb depression entertainment snickers neptune venus
 1
 1 10
 2
-0 19 13 10
 0 18 1 3
+0 19 13 10
 1
 end_operator
 begin_operator
@@ -37026,8 +37026,8 @@ succumb depression entertainment snickers venus saturn
 1
 1 10
 2
-0 19 13 10
 0 18 3 2
+0 19 13 10
 1
 end_operator
 begin_operator
@@ -37035,8 +37035,8 @@ succumb depression entertainment turkey earth neptune
 1
 1 11
 2
-0 19 13 11
 0 18 0 1
+0 19 13 11
 1
 end_operator
 begin_operator
@@ -37044,8 +37044,8 @@ succumb depression entertainment turkey neptune venus
 1
 1 11
 2
-0 19 13 11
 0 18 1 3
+0 19 13 11
 1
 end_operator
 begin_operator
@@ -37053,8 +37053,8 @@ succumb depression entertainment turkey venus saturn
 1
 1 11
 2
-0 19 13 11
 0 18 3 2
+0 19 13 11
 1
 end_operator
 begin_operator
@@ -38034,8 +38034,8 @@ succumb hangover empathy endive earth neptune
 1
 0 0
 2
-0 20 12 0
 0 17 0 1
+0 20 12 0
 1
 end_operator
 begin_operator
@@ -38043,8 +38043,8 @@ succumb hangover empathy endive neptune venus
 1
 0 0
 2
-0 20 12 0
 0 17 1 3
+0 20 12 0
 1
 end_operator
 begin_operator
@@ -38052,8 +38052,8 @@ succumb hangover empathy endive venus saturn
 1
 0 0
 2
-0 20 12 0
 0 17 3 2
+0 20 12 0
 1
 end_operator
 begin_operator
@@ -38061,8 +38061,8 @@ succumb hangover empathy flounder earth neptune
 1
 0 1
 2
-0 20 12 1
 0 17 0 1
+0 20 12 1
 1
 end_operator
 begin_operator
@@ -38070,8 +38070,8 @@ succumb hangover empathy flounder neptune venus
 1
 0 1
 2
-0 20 12 1
 0 17 1 3
+0 20 12 1
 1
 end_operator
 begin_operator
@@ -38079,8 +38079,8 @@ succumb hangover empathy flounder venus saturn
 1
 0 1
 2
-0 20 12 1
 0 17 3 2
+0 20 12 1
 1
 end_operator
 begin_operator
@@ -38088,8 +38088,8 @@ succumb hangover empathy hamburger earth neptune
 1
 0 2
 2
-0 20 12 2
 0 17 0 1
+0 20 12 2
 1
 end_operator
 begin_operator
@@ -38097,8 +38097,8 @@ succumb hangover empathy hamburger neptune venus
 1
 0 2
 2
-0 20 12 2
 0 17 1 3
+0 20 12 2
 1
 end_operator
 begin_operator
@@ -38106,8 +38106,8 @@ succumb hangover empathy hamburger venus saturn
 1
 0 2
 2
-0 20 12 2
 0 17 3 2
+0 20 12 2
 1
 end_operator
 begin_operator
@@ -38115,8 +38115,8 @@ succumb hangover empathy haroset earth neptune
 1
 0 3
 2
-0 20 12 3
 0 17 0 1
+0 20 12 3
 1
 end_operator
 begin_operator
@@ -38124,8 +38124,8 @@ succumb hangover empathy haroset neptune venus
 1
 0 3
 2
-0 20 12 3
 0 17 1 3
+0 20 12 3
 1
 end_operator
 begin_operator
@@ -38133,8 +38133,8 @@ succumb hangover empathy haroset venus saturn
 1
 0 3
 2
-0 20 12 3
 0 17 3 2
+0 20 12 3
 1
 end_operator
 begin_operator
@@ -38142,8 +38142,8 @@ succumb hangover empathy marzipan earth neptune
 1
 0 4
 2
-0 20 12 4
 0 17 0 1
+0 20 12 4
 1
 end_operator
 begin_operator
@@ -38151,8 +38151,8 @@ succumb hangover empathy marzipan neptune venus
 1
 0 4
 2
-0 20 12 4
 0 17 1 3
+0 20 12 4
 1
 end_operator
 begin_operator
@@ -38160,8 +38160,8 @@ succumb hangover empathy marzipan venus saturn
 1
 0 4
 2
-0 20 12 4
 0 17 3 2
+0 20 12 4
 1
 end_operator
 begin_operator
@@ -38169,8 +38169,8 @@ succumb hangover empathy papaya earth neptune
 1
 0 5
 2
-0 20 12 5
 0 17 0 1
+0 20 12 5
 1
 end_operator
 begin_operator
@@ -38178,8 +38178,8 @@ succumb hangover empathy papaya neptune venus
 1
 0 5
 2
-0 20 12 5
 0 17 1 3
+0 20 12 5
 1
 end_operator
 begin_operator
@@ -38187,8 +38187,8 @@ succumb hangover empathy papaya venus saturn
 1
 0 5
 2
-0 20 12 5
 0 17 3 2
+0 20 12 5
 1
 end_operator
 begin_operator
@@ -38196,8 +38196,8 @@ succumb hangover empathy pepper earth neptune
 1
 0 6
 2
-0 20 12 6
 0 17 0 1
+0 20 12 6
 1
 end_operator
 begin_operator
@@ -38205,8 +38205,8 @@ succumb hangover empathy pepper neptune venus
 1
 0 6
 2
-0 20 12 6
 0 17 1 3
+0 20 12 6
 1
 end_operator
 begin_operator
@@ -38214,8 +38214,8 @@ succumb hangover empathy pepper venus saturn
 1
 0 6
 2
-0 20 12 6
 0 17 3 2
+0 20 12 6
 1
 end_operator
 begin_operator
@@ -38223,8 +38223,8 @@ succumb hangover empathy pistachio earth neptune
 1
 0 7
 2
-0 20 12 7
 0 17 0 1
+0 20 12 7
 1
 end_operator
 begin_operator
@@ -38232,8 +38232,8 @@ succumb hangover empathy pistachio neptune venus
 1
 0 7
 2
-0 20 12 7
 0 17 1 3
+0 20 12 7
 1
 end_operator
 begin_operator
@@ -38241,8 +38241,8 @@ succumb hangover empathy pistachio venus saturn
 1
 0 7
 2
-0 20 12 7
 0 17 3 2
+0 20 12 7
 1
 end_operator
 begin_operator
@@ -38250,8 +38250,8 @@ succumb hangover empathy rice earth neptune
 1
 0 8
 2
-0 20 12 8
 0 17 0 1
+0 20 12 8
 1
 end_operator
 begin_operator
@@ -38259,8 +38259,8 @@ succumb hangover empathy rice neptune venus
 1
 0 8
 2
-0 20 12 8
 0 17 1 3
+0 20 12 8
 1
 end_operator
 begin_operator
@@ -38268,8 +38268,8 @@ succumb hangover empathy rice venus saturn
 1
 0 8
 2
-0 20 12 8
 0 17 3 2
+0 20 12 8
 1
 end_operator
 begin_operator
@@ -38277,8 +38277,8 @@ succumb hangover empathy scallop earth neptune
 1
 0 9
 2
-0 20 12 9
 0 17 0 1
+0 20 12 9
 1
 end_operator
 begin_operator
@@ -38286,8 +38286,8 @@ succumb hangover empathy scallop neptune venus
 1
 0 9
 2
-0 20 12 9
 0 17 1 3
+0 20 12 9
 1
 end_operator
 begin_operator
@@ -38295,8 +38295,8 @@ succumb hangover empathy scallop venus saturn
 1
 0 9
 2
-0 20 12 9
 0 17 3 2
+0 20 12 9
 1
 end_operator
 begin_operator
@@ -38304,8 +38304,8 @@ succumb hangover empathy snickers earth neptune
 1
 0 10
 2
-0 20 12 10
 0 17 0 1
+0 20 12 10
 1
 end_operator
 begin_operator
@@ -38313,8 +38313,8 @@ succumb hangover empathy snickers neptune venus
 1
 0 10
 2
-0 20 12 10
 0 17 1 3
+0 20 12 10
 1
 end_operator
 begin_operator
@@ -38322,8 +38322,8 @@ succumb hangover empathy snickers venus saturn
 1
 0 10
 2
-0 20 12 10
 0 17 3 2
+0 20 12 10
 1
 end_operator
 begin_operator
@@ -38331,8 +38331,8 @@ succumb hangover empathy turkey earth neptune
 1
 0 11
 2
-0 20 12 11
 0 17 0 1
+0 20 12 11
 1
 end_operator
 begin_operator
@@ -38340,8 +38340,8 @@ succumb hangover empathy turkey neptune venus
 1
 0 11
 2
-0 20 12 11
 0 17 1 3
+0 20 12 11
 1
 end_operator
 begin_operator
@@ -38349,8 +38349,8 @@ succumb hangover empathy turkey venus saturn
 1
 0 11
 2
-0 20 12 11
 0 17 3 2
+0 20 12 11
 1
 end_operator
 begin_operator
@@ -38358,8 +38358,8 @@ succumb hangover entertainment endive earth neptune
 1
 1 0
 2
-0 20 13 0
 0 18 0 1
+0 20 13 0
 1
 end_operator
 begin_operator
@@ -38367,8 +38367,8 @@ succumb hangover entertainment endive neptune venus
 1
 1 0
 2
-0 20 13 0
 0 18 1 3
+0 20 13 0
 1
 end_operator
 begin_operator
@@ -38376,8 +38376,8 @@ succumb hangover entertainment endive venus saturn
 1
 1 0
 2
-0 20 13 0
 0 18 3 2
+0 20 13 0
 1
 end_operator
 begin_operator
@@ -38385,8 +38385,8 @@ succumb hangover entertainment flounder earth neptune
 1
 1 1
 2
-0 20 13 1
 0 18 0 1
+0 20 13 1
 1
 end_operator
 begin_operator
@@ -38394,8 +38394,8 @@ succumb hangover entertainment flounder neptune venus
 1
 1 1
 2
-0 20 13 1
 0 18 1 3
+0 20 13 1
 1
 end_operator
 begin_operator
@@ -38403,8 +38403,8 @@ succumb hangover entertainment flounder venus saturn
 1
 1 1
 2
-0 20 13 1
 0 18 3 2
+0 20 13 1
 1
 end_operator
 begin_operator
@@ -38412,8 +38412,8 @@ succumb hangover entertainment hamburger earth neptune
 1
 1 2
 2
-0 20 13 2
 0 18 0 1
+0 20 13 2
 1
 end_operator
 begin_operator
@@ -38421,8 +38421,8 @@ succumb hangover entertainment hamburger neptune venus
 1
 1 2
 2
-0 20 13 2
 0 18 1 3
+0 20 13 2
 1
 end_operator
 begin_operator
@@ -38430,8 +38430,8 @@ succumb hangover entertainment hamburger venus saturn
 1
 1 2
 2
-0 20 13 2
 0 18 3 2
+0 20 13 2
 1
 end_operator
 begin_operator
@@ -38439,8 +38439,8 @@ succumb hangover entertainment haroset earth neptune
 1
 1 3
 2
-0 20 13 3
 0 18 0 1
+0 20 13 3
 1
 end_operator
 begin_operator
@@ -38448,8 +38448,8 @@ succumb hangover entertainment haroset neptune venus
 1
 1 3
 2
-0 20 13 3
 0 18 1 3
+0 20 13 3
 1
 end_operator
 begin_operator
@@ -38457,8 +38457,8 @@ succumb hangover entertainment haroset venus saturn
 1
 1 3
 2
-0 20 13 3
 0 18 3 2
+0 20 13 3
 1
 end_operator
 begin_operator
@@ -38466,8 +38466,8 @@ succumb hangover entertainment marzipan earth neptune
 1
 1 4
 2
-0 20 13 4
 0 18 0 1
+0 20 13 4
 1
 end_operator
 begin_operator
@@ -38475,8 +38475,8 @@ succumb hangover entertainment marzipan neptune venus
 1
 1 4
 2
-0 20 13 4
 0 18 1 3
+0 20 13 4
 1
 end_operator
 begin_operator
@@ -38484,8 +38484,8 @@ succumb hangover entertainment marzipan venus saturn
 1
 1 4
 2
-0 20 13 4
 0 18 3 2
+0 20 13 4
 1
 end_operator
 begin_operator
@@ -38493,8 +38493,8 @@ succumb hangover entertainment papaya earth neptune
 1
 1 5
 2
-0 20 13 5
 0 18 0 1
+0 20 13 5
 1
 end_operator
 begin_operator
@@ -38502,8 +38502,8 @@ succumb hangover entertainment papaya neptune venus
 1
 1 5
 2
-0 20 13 5
 0 18 1 3
+0 20 13 5
 1
 end_operator
 begin_operator
@@ -38511,8 +38511,8 @@ succumb hangover entertainment papaya venus saturn
 1
 1 5
 2
-0 20 13 5
 0 18 3 2
+0 20 13 5
 1
 end_operator
 begin_operator
@@ -38520,8 +38520,8 @@ succumb hangover entertainment pepper earth neptune
 1
 1 6
 2
-0 20 13 6
 0 18 0 1
+0 20 13 6
 1
 end_operator
 begin_operator
@@ -38529,8 +38529,8 @@ succumb hangover entertainment pepper neptune venus
 1
 1 6
 2
-0 20 13 6
 0 18 1 3
+0 20 13 6
 1
 end_operator
 begin_operator
@@ -38538,8 +38538,8 @@ succumb hangover entertainment pepper venus saturn
 1
 1 6
 2
-0 20 13 6
 0 18 3 2
+0 20 13 6
 1
 end_operator
 begin_operator
@@ -38547,8 +38547,8 @@ succumb hangover entertainment pistachio earth neptune
 1
 1 7
 2
-0 20 13 7
 0 18 0 1
+0 20 13 7
 1
 end_operator
 begin_operator
@@ -38556,8 +38556,8 @@ succumb hangover entertainment pistachio neptune venus
 1
 1 7
 2
-0 20 13 7
 0 18 1 3
+0 20 13 7
 1
 end_operator
 begin_operator
@@ -38565,8 +38565,8 @@ succumb hangover entertainment pistachio venus saturn
 1
 1 7
 2
-0 20 13 7
 0 18 3 2
+0 20 13 7
 1
 end_operator
 begin_operator
@@ -38574,8 +38574,8 @@ succumb hangover entertainment rice earth neptune
 1
 1 8
 2
-0 20 13 8
 0 18 0 1
+0 20 13 8
 1
 end_operator
 begin_operator
@@ -38583,8 +38583,8 @@ succumb hangover entertainment rice neptune venus
 1
 1 8
 2
-0 20 13 8
 0 18 1 3
+0 20 13 8
 1
 end_operator
 begin_operator
@@ -38592,8 +38592,8 @@ succumb hangover entertainment rice venus saturn
 1
 1 8
 2
-0 20 13 8
 0 18 3 2
+0 20 13 8
 1
 end_operator
 begin_operator
@@ -38601,8 +38601,8 @@ succumb hangover entertainment scallop earth neptune
 1
 1 9
 2
-0 20 13 9
 0 18 0 1
+0 20 13 9
 1
 end_operator
 begin_operator
@@ -38610,8 +38610,8 @@ succumb hangover entertainment scallop neptune venus
 1
 1 9
 2
-0 20 13 9
 0 18 1 3
+0 20 13 9
 1
 end_operator
 begin_operator
@@ -38619,8 +38619,8 @@ succumb hangover entertainment scallop venus saturn
 1
 1 9
 2
-0 20 13 9
 0 18 3 2
+0 20 13 9
 1
 end_operator
 begin_operator
@@ -38628,8 +38628,8 @@ succumb hangover entertainment snickers earth neptune
 1
 1 10
 2
-0 20 13 10
 0 18 0 1
+0 20 13 10
 1
 end_operator
 begin_operator
@@ -38637,8 +38637,8 @@ succumb hangover entertainment snickers neptune venus
 1
 1 10
 2
-0 20 13 10
 0 18 1 3
+0 20 13 10
 1
 end_operator
 begin_operator
@@ -38646,8 +38646,8 @@ succumb hangover entertainment snickers venus saturn
 1
 1 10
 2
-0 20 13 10
 0 18 3 2
+0 20 13 10
 1
 end_operator
 begin_operator
@@ -38655,8 +38655,8 @@ succumb hangover entertainment turkey earth neptune
 1
 1 11
 2
-0 20 13 11
 0 18 0 1
+0 20 13 11
 1
 end_operator
 begin_operator
@@ -38664,8 +38664,8 @@ succumb hangover entertainment turkey neptune venus
 1
 1 11
 2
-0 20 13 11
 0 18 1 3
+0 20 13 11
 1
 end_operator
 begin_operator
@@ -38673,8 +38673,8 @@ succumb hangover entertainment turkey venus saturn
 1
 1 11
 2
-0 20 13 11
 0 18 3 2
+0 20 13 11
 1
 end_operator
 begin_operator
@@ -39654,8 +39654,8 @@ succumb jealousy empathy endive earth neptune
 1
 0 0
 2
-0 23 12 0
 0 17 0 1
+0 23 12 0
 1
 end_operator
 begin_operator
@@ -39663,8 +39663,8 @@ succumb jealousy empathy endive neptune venus
 1
 0 0
 2
-0 23 12 0
 0 17 1 3
+0 23 12 0
 1
 end_operator
 begin_operator
@@ -39672,8 +39672,8 @@ succumb jealousy empathy endive venus saturn
 1
 0 0
 2
-0 23 12 0
 0 17 3 2
+0 23 12 0
 1
 end_operator
 begin_operator
@@ -39681,8 +39681,8 @@ succumb jealousy empathy flounder earth neptune
 1
 0 1
 2
-0 23 12 1
 0 17 0 1
+0 23 12 1
 1
 end_operator
 begin_operator
@@ -39690,8 +39690,8 @@ succumb jealousy empathy flounder neptune venus
 1
 0 1
 2
-0 23 12 1
 0 17 1 3
+0 23 12 1
 1
 end_operator
 begin_operator
@@ -39699,8 +39699,8 @@ succumb jealousy empathy flounder venus saturn
 1
 0 1
 2
-0 23 12 1
 0 17 3 2
+0 23 12 1
 1
 end_operator
 begin_operator
@@ -39708,8 +39708,8 @@ succumb jealousy empathy hamburger earth neptune
 1
 0 2
 2
-0 23 12 2
 0 17 0 1
+0 23 12 2
 1
 end_operator
 begin_operator
@@ -39717,8 +39717,8 @@ succumb jealousy empathy hamburger neptune venus
 1
 0 2
 2
-0 23 12 2
 0 17 1 3
+0 23 12 2
 1
 end_operator
 begin_operator
@@ -39726,8 +39726,8 @@ succumb jealousy empathy hamburger venus saturn
 1
 0 2
 2
-0 23 12 2
 0 17 3 2
+0 23 12 2
 1
 end_operator
 begin_operator
@@ -39735,8 +39735,8 @@ succumb jealousy empathy haroset earth neptune
 1
 0 3
 2
-0 23 12 3
 0 17 0 1
+0 23 12 3
 1
 end_operator
 begin_operator
@@ -39744,8 +39744,8 @@ succumb jealousy empathy haroset neptune venus
 1
 0 3
 2
-0 23 12 3
 0 17 1 3
+0 23 12 3
 1
 end_operator
 begin_operator
@@ -39753,8 +39753,8 @@ succumb jealousy empathy haroset venus saturn
 1
 0 3
 2
-0 23 12 3
 0 17 3 2
+0 23 12 3
 1
 end_operator
 begin_operator
@@ -39762,8 +39762,8 @@ succumb jealousy empathy marzipan earth neptune
 1
 0 4
 2
-0 23 12 4
 0 17 0 1
+0 23 12 4
 1
 end_operator
 begin_operator
@@ -39771,8 +39771,8 @@ succumb jealousy empathy marzipan neptune venus
 1
 0 4
 2
-0 23 12 4
 0 17 1 3
+0 23 12 4
 1
 end_operator
 begin_operator
@@ -39780,8 +39780,8 @@ succumb jealousy empathy marzipan venus saturn
 1
 0 4
 2
-0 23 12 4
 0 17 3 2
+0 23 12 4
 1
 end_operator
 begin_operator
@@ -39789,8 +39789,8 @@ succumb jealousy empathy papaya earth neptune
 1
 0 5
 2
-0 23 12 5
 0 17 0 1
+0 23 12 5
 1
 end_operator
 begin_operator
@@ -39798,8 +39798,8 @@ succumb jealousy empathy papaya neptune venus
 1
 0 5
 2
-0 23 12 5
 0 17 1 3
+0 23 12 5
 1
 end_operator
 begin_operator
@@ -39807,8 +39807,8 @@ succumb jealousy empathy papaya venus saturn
 1
 0 5
 2
-0 23 12 5
 0 17 3 2
+0 23 12 5
 1
 end_operator
 begin_operator
@@ -39816,8 +39816,8 @@ succumb jealousy empathy pepper earth neptune
 1
 0 6
 2
-0 23 12 6
 0 17 0 1
+0 23 12 6
 1
 end_operator
 begin_operator
@@ -39825,8 +39825,8 @@ succumb jealousy empathy pepper neptune venus
 1
 0 6
 2
-0 23 12 6
 0 17 1 3
+0 23 12 6
 1
 end_operator
 begin_operator
@@ -39834,8 +39834,8 @@ succumb jealousy empathy pepper venus saturn
 1
 0 6
 2
-0 23 12 6
 0 17 3 2
+0 23 12 6
 1
 end_operator
 begin_operator
@@ -39843,8 +39843,8 @@ succumb jealousy empathy pistachio earth neptune
 1
 0 7
 2
-0 23 12 7
 0 17 0 1
+0 23 12 7
 1
 end_operator
 begin_operator
@@ -39852,8 +39852,8 @@ succumb jealousy empathy pistachio neptune venus
 1
 0 7
 2
-0 23 12 7
 0 17 1 3
+0 23 12 7
 1
 end_operator
 begin_operator
@@ -39861,8 +39861,8 @@ succumb jealousy empathy pistachio venus saturn
 1
 0 7
 2
-0 23 12 7
 0 17 3 2
+0 23 12 7
 1
 end_operator
 begin_operator
@@ -39870,8 +39870,8 @@ succumb jealousy empathy rice earth neptune
 1
 0 8
 2
-0 23 12 8
 0 17 0 1
+0 23 12 8
 1
 end_operator
 begin_operator
@@ -39879,8 +39879,8 @@ succumb jealousy empathy rice neptune venus
 1
 0 8
 2
-0 23 12 8
 0 17 1 3
+0 23 12 8
 1
 end_operator
 begin_operator
@@ -39888,8 +39888,8 @@ succumb jealousy empathy rice venus saturn
 1
 0 8
 2
-0 23 12 8
 0 17 3 2
+0 23 12 8
 1
 end_operator
 begin_operator
@@ -39897,8 +39897,8 @@ succumb jealousy empathy scallop earth neptune
 1
 0 9
 2
-0 23 12 9
 0 17 0 1
+0 23 12 9
 1
 end_operator
 begin_operator
@@ -39906,8 +39906,8 @@ succumb jealousy empathy scallop neptune venus
 1
 0 9
 2
-0 23 12 9
 0 17 1 3
+0 23 12 9
 1
 end_operator
 begin_operator
@@ -39915,8 +39915,8 @@ succumb jealousy empathy scallop venus saturn
 1
 0 9
 2
-0 23 12 9
 0 17 3 2
+0 23 12 9
 1
 end_operator
 begin_operator
@@ -39924,8 +39924,8 @@ succumb jealousy empathy snickers earth neptune
 1
 0 10
 2
-0 23 12 10
 0 17 0 1
+0 23 12 10
 1
 end_operator
 begin_operator
@@ -39933,8 +39933,8 @@ succumb jealousy empathy snickers neptune venus
 1
 0 10
 2
-0 23 12 10
 0 17 1 3
+0 23 12 10
 1
 end_operator
 begin_operator
@@ -39942,8 +39942,8 @@ succumb jealousy empathy snickers venus saturn
 1
 0 10
 2
-0 23 12 10
 0 17 3 2
+0 23 12 10
 1
 end_operator
 begin_operator
@@ -39951,8 +39951,8 @@ succumb jealousy empathy turkey earth neptune
 1
 0 11
 2
-0 23 12 11
 0 17 0 1
+0 23 12 11
 1
 end_operator
 begin_operator
@@ -39960,8 +39960,8 @@ succumb jealousy empathy turkey neptune venus
 1
 0 11
 2
-0 23 12 11
 0 17 1 3
+0 23 12 11
 1
 end_operator
 begin_operator
@@ -39969,8 +39969,8 @@ succumb jealousy empathy turkey venus saturn
 1
 0 11
 2
-0 23 12 11
 0 17 3 2
+0 23 12 11
 1
 end_operator
 begin_operator
@@ -39978,8 +39978,8 @@ succumb jealousy entertainment endive earth neptune
 1
 1 0
 2
-0 23 13 0
 0 18 0 1
+0 23 13 0
 1
 end_operator
 begin_operator
@@ -39987,8 +39987,8 @@ succumb jealousy entertainment endive neptune venus
 1
 1 0
 2
-0 23 13 0
 0 18 1 3
+0 23 13 0
 1
 end_operator
 begin_operator
@@ -39996,8 +39996,8 @@ succumb jealousy entertainment endive venus saturn
 1
 1 0
 2
-0 23 13 0
 0 18 3 2
+0 23 13 0
 1
 end_operator
 begin_operator
@@ -40005,8 +40005,8 @@ succumb jealousy entertainment flounder earth neptune
 1
 1 1
 2
-0 23 13 1
 0 18 0 1
+0 23 13 1
 1
 end_operator
 begin_operator
@@ -40014,8 +40014,8 @@ succumb jealousy entertainment flounder neptune venus
 1
 1 1
 2
-0 23 13 1
 0 18 1 3
+0 23 13 1
 1
 end_operator
 begin_operator
@@ -40023,8 +40023,8 @@ succumb jealousy entertainment flounder venus saturn
 1
 1 1
 2
-0 23 13 1
 0 18 3 2
+0 23 13 1
 1
 end_operator
 begin_operator
@@ -40032,8 +40032,8 @@ succumb jealousy entertainment hamburger earth neptune
 1
 1 2
 2
-0 23 13 2
 0 18 0 1
+0 23 13 2
 1
 end_operator
 begin_operator
@@ -40041,8 +40041,8 @@ succumb jealousy entertainment hamburger neptune venus
 1
 1 2
 2
-0 23 13 2
 0 18 1 3
+0 23 13 2
 1
 end_operator
 begin_operator
@@ -40050,8 +40050,8 @@ succumb jealousy entertainment hamburger venus saturn
 1
 1 2
 2
-0 23 13 2
 0 18 3 2
+0 23 13 2
 1
 end_operator
 begin_operator
@@ -40059,8 +40059,8 @@ succumb jealousy entertainment haroset earth neptune
 1
 1 3
 2
-0 23 13 3
 0 18 0 1
+0 23 13 3
 1
 end_operator
 begin_operator
@@ -40068,8 +40068,8 @@ succumb jealousy entertainment haroset neptune venus
 1
 1 3
 2
-0 23 13 3
 0 18 1 3
+0 23 13 3
 1
 end_operator
 begin_operator
@@ -40077,8 +40077,8 @@ succumb jealousy entertainment haroset venus saturn
 1
 1 3
 2
-0 23 13 3
 0 18 3 2
+0 23 13 3
 1
 end_operator
 begin_operator
@@ -40086,8 +40086,8 @@ succumb jealousy entertainment marzipan earth neptune
 1
 1 4
 2
-0 23 13 4
 0 18 0 1
+0 23 13 4
 1
 end_operator
 begin_operator
@@ -40095,8 +40095,8 @@ succumb jealousy entertainment marzipan neptune venus
 1
 1 4
 2
-0 23 13 4
 0 18 1 3
+0 23 13 4
 1
 end_operator
 begin_operator
@@ -40104,8 +40104,8 @@ succumb jealousy entertainment marzipan venus saturn
 1
 1 4
 2
-0 23 13 4
 0 18 3 2
+0 23 13 4
 1
 end_operator
 begin_operator
@@ -40113,8 +40113,8 @@ succumb jealousy entertainment papaya earth neptune
 1
 1 5
 2
-0 23 13 5
 0 18 0 1
+0 23 13 5
 1
 end_operator
 begin_operator
@@ -40122,8 +40122,8 @@ succumb jealousy entertainment papaya neptune venus
 1
 1 5
 2
-0 23 13 5
 0 18 1 3
+0 23 13 5
 1
 end_operator
 begin_operator
@@ -40131,8 +40131,8 @@ succumb jealousy entertainment papaya venus saturn
 1
 1 5
 2
-0 23 13 5
 0 18 3 2
+0 23 13 5
 1
 end_operator
 begin_operator
@@ -40140,8 +40140,8 @@ succumb jealousy entertainment pepper earth neptune
 1
 1 6
 2
-0 23 13 6
 0 18 0 1
+0 23 13 6
 1
 end_operator
 begin_operator
@@ -40149,8 +40149,8 @@ succumb jealousy entertainment pepper neptune venus
 1
 1 6
 2
-0 23 13 6
 0 18 1 3
+0 23 13 6
 1
 end_operator
 begin_operator
@@ -40158,8 +40158,8 @@ succumb jealousy entertainment pepper venus saturn
 1
 1 6
 2
-0 23 13 6
 0 18 3 2
+0 23 13 6
 1
 end_operator
 begin_operator
@@ -40167,8 +40167,8 @@ succumb jealousy entertainment pistachio earth neptune
 1
 1 7
 2
-0 23 13 7
 0 18 0 1
+0 23 13 7
 1
 end_operator
 begin_operator
@@ -40176,8 +40176,8 @@ succumb jealousy entertainment pistachio neptune venus
 1
 1 7
 2
-0 23 13 7
 0 18 1 3
+0 23 13 7
 1
 end_operator
 begin_operator
@@ -40185,8 +40185,8 @@ succumb jealousy entertainment pistachio venus saturn
 1
 1 7
 2
-0 23 13 7
 0 18 3 2
+0 23 13 7
 1
 end_operator
 begin_operator
@@ -40194,8 +40194,8 @@ succumb jealousy entertainment rice earth neptune
 1
 1 8
 2
-0 23 13 8
 0 18 0 1
+0 23 13 8
 1
 end_operator
 begin_operator
@@ -40203,8 +40203,8 @@ succumb jealousy entertainment rice neptune venus
 1
 1 8
 2
-0 23 13 8
 0 18 1 3
+0 23 13 8
 1
 end_operator
 begin_operator
@@ -40212,8 +40212,8 @@ succumb jealousy entertainment rice venus saturn
 1
 1 8
 2
-0 23 13 8
 0 18 3 2
+0 23 13 8
 1
 end_operator
 begin_operator
@@ -40221,8 +40221,8 @@ succumb jealousy entertainment scallop earth neptune
 1
 1 9
 2
-0 23 13 9
 0 18 0 1
+0 23 13 9
 1
 end_operator
 begin_operator
@@ -40230,8 +40230,8 @@ succumb jealousy entertainment scallop neptune venus
 1
 1 9
 2
-0 23 13 9
 0 18 1 3
+0 23 13 9
 1
 end_operator
 begin_operator
@@ -40239,8 +40239,8 @@ succumb jealousy entertainment scallop venus saturn
 1
 1 9
 2
-0 23 13 9
 0 18 3 2
+0 23 13 9
 1
 end_operator
 begin_operator
@@ -40248,8 +40248,8 @@ succumb jealousy entertainment snickers earth neptune
 1
 1 10
 2
-0 23 13 10
 0 18 0 1
+0 23 13 10
 1
 end_operator
 begin_operator
@@ -40257,8 +40257,8 @@ succumb jealousy entertainment snickers neptune venus
 1
 1 10
 2
-0 23 13 10
 0 18 1 3
+0 23 13 10
 1
 end_operator
 begin_operator
@@ -40266,8 +40266,8 @@ succumb jealousy entertainment snickers venus saturn
 1
 1 10
 2
-0 23 13 10
 0 18 3 2
+0 23 13 10
 1
 end_operator
 begin_operator
@@ -40275,8 +40275,8 @@ succumb jealousy entertainment turkey earth neptune
 1
 1 11
 2
-0 23 13 11
 0 18 0 1
+0 23 13 11
 1
 end_operator
 begin_operator
@@ -40284,8 +40284,8 @@ succumb jealousy entertainment turkey neptune venus
 1
 1 11
 2
-0 23 13 11
 0 18 1 3
+0 23 13 11
 1
 end_operator
 begin_operator
@@ -40293,8 +40293,8 @@ succumb jealousy entertainment turkey venus saturn
 1
 1 11
 2
-0 23 13 11
 0 18 3 2
+0 23 13 11
 1
 end_operator
 begin_operator
@@ -40302,8 +40302,8 @@ succumb jealousy learning endive earth neptune
 1
 2 0
 2
-0 23 14 0
 0 21 0 1
+0 23 14 0
 1
 end_operator
 begin_operator
@@ -40311,8 +40311,8 @@ succumb jealousy learning endive neptune venus
 1
 2 0
 2
-0 23 14 0
 0 21 1 3
+0 23 14 0
 1
 end_operator
 begin_operator
@@ -40320,8 +40320,8 @@ succumb jealousy learning endive venus saturn
 1
 2 0
 2
-0 23 14 0
 0 21 3 2
+0 23 14 0
 1
 end_operator
 begin_operator
@@ -40329,8 +40329,8 @@ succumb jealousy learning flounder earth neptune
 1
 2 1
 2
-0 23 14 1
 0 21 0 1
+0 23 14 1
 1
 end_operator
 begin_operator
@@ -40338,8 +40338,8 @@ succumb jealousy learning flounder neptune venus
 1
 2 1
 2
-0 23 14 1
 0 21 1 3
+0 23 14 1
 1
 end_operator
 begin_operator
@@ -40347,8 +40347,8 @@ succumb jealousy learning flounder venus saturn
 1
 2 1
 2
-0 23 14 1
 0 21 3 2
+0 23 14 1
 1
 end_operator
 begin_operator
@@ -40356,8 +40356,8 @@ succumb jealousy learning hamburger earth neptune
 1
 2 2
 2
-0 23 14 2
 0 21 0 1
+0 23 14 2
 1
 end_operator
 begin_operator
@@ -40365,8 +40365,8 @@ succumb jealousy learning hamburger neptune venus
 1
 2 2
 2
-0 23 14 2
 0 21 1 3
+0 23 14 2
 1
 end_operator
 begin_operator
@@ -40374,8 +40374,8 @@ succumb jealousy learning hamburger venus saturn
 1
 2 2
 2
-0 23 14 2
 0 21 3 2
+0 23 14 2
 1
 end_operator
 begin_operator
@@ -40383,8 +40383,8 @@ succumb jealousy learning haroset earth neptune
 1
 2 3
 2
-0 23 14 3
 0 21 0 1
+0 23 14 3
 1
 end_operator
 begin_operator
@@ -40392,8 +40392,8 @@ succumb jealousy learning haroset neptune venus
 1
 2 3
 2
-0 23 14 3
 0 21 1 3
+0 23 14 3
 1
 end_operator
 begin_operator
@@ -40401,8 +40401,8 @@ succumb jealousy learning haroset venus saturn
 1
 2 3
 2
-0 23 14 3
 0 21 3 2
+0 23 14 3
 1
 end_operator
 begin_operator
@@ -40410,8 +40410,8 @@ succumb jealousy learning marzipan earth neptune
 1
 2 4
 2
-0 23 14 4
 0 21 0 1
+0 23 14 4
 1
 end_operator
 begin_operator
@@ -40419,8 +40419,8 @@ succumb jealousy learning marzipan neptune venus
 1
 2 4
 2
-0 23 14 4
 0 21 1 3
+0 23 14 4
 1
 end_operator
 begin_operator
@@ -40428,8 +40428,8 @@ succumb jealousy learning marzipan venus saturn
 1
 2 4
 2
-0 23 14 4
 0 21 3 2
+0 23 14 4
 1
 end_operator
 begin_operator
@@ -40437,8 +40437,8 @@ succumb jealousy learning papaya earth neptune
 1
 2 5
 2
-0 23 14 5
 0 21 0 1
+0 23 14 5
 1
 end_operator
 begin_operator
@@ -40446,8 +40446,8 @@ succumb jealousy learning papaya neptune venus
 1
 2 5
 2
-0 23 14 5
 0 21 1 3
+0 23 14 5
 1
 end_operator
 begin_operator
@@ -40455,8 +40455,8 @@ succumb jealousy learning papaya venus saturn
 1
 2 5
 2
-0 23 14 5
 0 21 3 2
+0 23 14 5
 1
 end_operator
 begin_operator
@@ -40464,8 +40464,8 @@ succumb jealousy learning pepper earth neptune
 1
 2 6
 2
-0 23 14 6
 0 21 0 1
+0 23 14 6
 1
 end_operator
 begin_operator
@@ -40473,8 +40473,8 @@ succumb jealousy learning pepper neptune venus
 1
 2 6
 2
-0 23 14 6
 0 21 1 3
+0 23 14 6
 1
 end_operator
 begin_operator
@@ -40482,8 +40482,8 @@ succumb jealousy learning pepper venus saturn
 1
 2 6
 2
-0 23 14 6
 0 21 3 2
+0 23 14 6
 1
 end_operator
 begin_operator
@@ -40491,8 +40491,8 @@ succumb jealousy learning pistachio earth neptune
 1
 2 7
 2
-0 23 14 7
 0 21 0 1
+0 23 14 7
 1
 end_operator
 begin_operator
@@ -40500,8 +40500,8 @@ succumb jealousy learning pistachio neptune venus
 1
 2 7
 2
-0 23 14 7
 0 21 1 3
+0 23 14 7
 1
 end_operator
 begin_operator
@@ -40509,8 +40509,8 @@ succumb jealousy learning pistachio venus saturn
 1
 2 7
 2
-0 23 14 7
 0 21 3 2
+0 23 14 7
 1
 end_operator
 begin_operator
@@ -40518,8 +40518,8 @@ succumb jealousy learning rice earth neptune
 1
 2 8
 2
-0 23 14 8
 0 21 0 1
+0 23 14 8
 1
 end_operator
 begin_operator
@@ -40527,8 +40527,8 @@ succumb jealousy learning rice neptune venus
 1
 2 8
 2
-0 23 14 8
 0 21 1 3
+0 23 14 8
 1
 end_operator
 begin_operator
@@ -40536,8 +40536,8 @@ succumb jealousy learning rice venus saturn
 1
 2 8
 2
-0 23 14 8
 0 21 3 2
+0 23 14 8
 1
 end_operator
 begin_operator
@@ -40545,8 +40545,8 @@ succumb jealousy learning scallop earth neptune
 1
 2 9
 2
-0 23 14 9
 0 21 0 1
+0 23 14 9
 1
 end_operator
 begin_operator
@@ -40554,8 +40554,8 @@ succumb jealousy learning scallop neptune venus
 1
 2 9
 2
-0 23 14 9
 0 21 1 3
+0 23 14 9
 1
 end_operator
 begin_operator
@@ -40563,8 +40563,8 @@ succumb jealousy learning scallop venus saturn
 1
 2 9
 2
-0 23 14 9
 0 21 3 2
+0 23 14 9
 1
 end_operator
 begin_operator
@@ -40572,8 +40572,8 @@ succumb jealousy learning snickers earth neptune
 1
 2 10
 2
-0 23 14 10
 0 21 0 1
+0 23 14 10
 1
 end_operator
 begin_operator
@@ -40581,8 +40581,8 @@ succumb jealousy learning snickers neptune venus
 1
 2 10
 2
-0 23 14 10
 0 21 1 3
+0 23 14 10
 1
 end_operator
 begin_operator
@@ -40590,8 +40590,8 @@ succumb jealousy learning snickers venus saturn
 1
 2 10
 2
-0 23 14 10
 0 21 3 2
+0 23 14 10
 1
 end_operator
 begin_operator
@@ -40599,8 +40599,8 @@ succumb jealousy learning turkey earth neptune
 1
 2 11
 2
-0 23 14 11
 0 21 0 1
+0 23 14 11
 1
 end_operator
 begin_operator
@@ -40608,8 +40608,8 @@ succumb jealousy learning turkey neptune venus
 1
 2 11
 2
-0 23 14 11
 0 21 1 3
+0 23 14 11
 1
 end_operator
 begin_operator
@@ -40617,8 +40617,8 @@ succumb jealousy learning turkey venus saturn
 1
 2 11
 2
-0 23 14 11
 0 21 3 2
+0 23 14 11
 1
 end_operator
 begin_operator
@@ -40626,8 +40626,8 @@ succumb jealousy satisfaction endive earth neptune
 1
 3 0
 2
-0 23 15 0
 0 22 0 1
+0 23 15 0
 1
 end_operator
 begin_operator
@@ -40635,8 +40635,8 @@ succumb jealousy satisfaction endive neptune venus
 1
 3 0
 2
-0 23 15 0
 0 22 1 3
+0 23 15 0
 1
 end_operator
 begin_operator
@@ -40644,8 +40644,8 @@ succumb jealousy satisfaction endive venus saturn
 1
 3 0
 2
-0 23 15 0
 0 22 3 2
+0 23 15 0
 1
 end_operator
 begin_operator
@@ -40653,8 +40653,8 @@ succumb jealousy satisfaction flounder earth neptune
 1
 3 1
 2
-0 23 15 1
 0 22 0 1
+0 23 15 1
 1
 end_operator
 begin_operator
@@ -40662,8 +40662,8 @@ succumb jealousy satisfaction flounder neptune venus
 1
 3 1
 2
-0 23 15 1
 0 22 1 3
+0 23 15 1
 1
 end_operator
 begin_operator
@@ -40671,8 +40671,8 @@ succumb jealousy satisfaction flounder venus saturn
 1
 3 1
 2
-0 23 15 1
 0 22 3 2
+0 23 15 1
 1
 end_operator
 begin_operator
@@ -40680,8 +40680,8 @@ succumb jealousy satisfaction hamburger earth neptune
 1
 3 2
 2
-0 23 15 2
 0 22 0 1
+0 23 15 2
 1
 end_operator
 begin_operator
@@ -40689,8 +40689,8 @@ succumb jealousy satisfaction hamburger neptune venus
 1
 3 2
 2
-0 23 15 2
 0 22 1 3
+0 23 15 2
 1
 end_operator
 begin_operator
@@ -40698,8 +40698,8 @@ succumb jealousy satisfaction hamburger venus saturn
 1
 3 2
 2
-0 23 15 2
 0 22 3 2
+0 23 15 2
 1
 end_operator
 begin_operator
@@ -40707,8 +40707,8 @@ succumb jealousy satisfaction haroset earth neptune
 1
 3 3
 2
-0 23 15 3
 0 22 0 1
+0 23 15 3
 1
 end_operator
 begin_operator
@@ -40716,8 +40716,8 @@ succumb jealousy satisfaction haroset neptune venus
 1
 3 3
 2
-0 23 15 3
 0 22 1 3
+0 23 15 3
 1
 end_operator
 begin_operator
@@ -40725,8 +40725,8 @@ succumb jealousy satisfaction haroset venus saturn
 1
 3 3
 2
-0 23 15 3
 0 22 3 2
+0 23 15 3
 1
 end_operator
 begin_operator
@@ -40734,8 +40734,8 @@ succumb jealousy satisfaction marzipan earth neptune
 1
 3 4
 2
-0 23 15 4
 0 22 0 1
+0 23 15 4
 1
 end_operator
 begin_operator
@@ -40743,8 +40743,8 @@ succumb jealousy satisfaction marzipan neptune venus
 1
 3 4
 2
-0 23 15 4
 0 22 1 3
+0 23 15 4
 1
 end_operator
 begin_operator
@@ -40752,8 +40752,8 @@ succumb jealousy satisfaction marzipan venus saturn
 1
 3 4
 2
-0 23 15 4
 0 22 3 2
+0 23 15 4
 1
 end_operator
 begin_operator
@@ -40761,8 +40761,8 @@ succumb jealousy satisfaction papaya earth neptune
 1
 3 5
 2
-0 23 15 5
 0 22 0 1
+0 23 15 5
 1
 end_operator
 begin_operator
@@ -40770,8 +40770,8 @@ succumb jealousy satisfaction papaya neptune venus
 1
 3 5
 2
-0 23 15 5
 0 22 1 3
+0 23 15 5
 1
 end_operator
 begin_operator
@@ -40779,8 +40779,8 @@ succumb jealousy satisfaction papaya venus saturn
 1
 3 5
 2
-0 23 15 5
 0 22 3 2
+0 23 15 5
 1
 end_operator
 begin_operator
@@ -40788,8 +40788,8 @@ succumb jealousy satisfaction pepper earth neptune
 1
 3 6
 2
-0 23 15 6
 0 22 0 1
+0 23 15 6
 1
 end_operator
 begin_operator
@@ -40797,8 +40797,8 @@ succumb jealousy satisfaction pepper neptune venus
 1
 3 6
 2
-0 23 15 6
 0 22 1 3
+0 23 15 6
 1
 end_operator
 begin_operator
@@ -40806,8 +40806,8 @@ succumb jealousy satisfaction pepper venus saturn
 1
 3 6
 2
-0 23 15 6
 0 22 3 2
+0 23 15 6
 1
 end_operator
 begin_operator
@@ -40815,8 +40815,8 @@ succumb jealousy satisfaction pistachio earth neptune
 1
 3 7
 2
-0 23 15 7
 0 22 0 1
+0 23 15 7
 1
 end_operator
 begin_operator
@@ -40824,8 +40824,8 @@ succumb jealousy satisfaction pistachio neptune venus
 1
 3 7
 2
-0 23 15 7
 0 22 1 3
+0 23 15 7
 1
 end_operator
 begin_operator
@@ -40833,8 +40833,8 @@ succumb jealousy satisfaction pistachio venus saturn
 1
 3 7
 2
-0 23 15 7
 0 22 3 2
+0 23 15 7
 1
 end_operator
 begin_operator
@@ -40842,8 +40842,8 @@ succumb jealousy satisfaction rice earth neptune
 1
 3 8
 2
-0 23 15 8
 0 22 0 1
+0 23 15 8
 1
 end_operator
 begin_operator
@@ -40851,8 +40851,8 @@ succumb jealousy satisfaction rice neptune venus
 1
 3 8
 2
-0 23 15 8
 0 22 1 3
+0 23 15 8
 1
 end_operator
 begin_operator
@@ -40860,8 +40860,8 @@ succumb jealousy satisfaction rice venus saturn
 1
 3 8
 2
-0 23 15 8
 0 22 3 2
+0 23 15 8
 1
 end_operator
 begin_operator
@@ -40869,8 +40869,8 @@ succumb jealousy satisfaction scallop earth neptune
 1
 3 9
 2
-0 23 15 9
 0 22 0 1
+0 23 15 9
 1
 end_operator
 begin_operator
@@ -40878,8 +40878,8 @@ succumb jealousy satisfaction scallop neptune venus
 1
 3 9
 2
-0 23 15 9
 0 22 1 3
+0 23 15 9
 1
 end_operator
 begin_operator
@@ -40887,8 +40887,8 @@ succumb jealousy satisfaction scallop venus saturn
 1
 3 9
 2
-0 23 15 9
 0 22 3 2
+0 23 15 9
 1
 end_operator
 begin_operator
@@ -40896,8 +40896,8 @@ succumb jealousy satisfaction snickers earth neptune
 1
 3 10
 2
-0 23 15 10
 0 22 0 1
+0 23 15 10
 1
 end_operator
 begin_operator
@@ -40905,8 +40905,8 @@ succumb jealousy satisfaction snickers neptune venus
 1
 3 10
 2
-0 23 15 10
 0 22 1 3
+0 23 15 10
 1
 end_operator
 begin_operator
@@ -40914,8 +40914,8 @@ succumb jealousy satisfaction snickers venus saturn
 1
 3 10
 2
-0 23 15 10
 0 22 3 2
+0 23 15 10
 1
 end_operator
 begin_operator
@@ -40923,8 +40923,8 @@ succumb jealousy satisfaction turkey earth neptune
 1
 3 11
 2
-0 23 15 11
 0 22 0 1
+0 23 15 11
 1
 end_operator
 begin_operator
@@ -40932,8 +40932,8 @@ succumb jealousy satisfaction turkey neptune venus
 1
 3 11
 2
-0 23 15 11
 0 22 1 3
+0 23 15 11
 1
 end_operator
 begin_operator
@@ -40941,8 +40941,8 @@ succumb jealousy satisfaction turkey venus saturn
 1
 3 11
 2
-0 23 15 11
 0 22 3 2
+0 23 15 11
 1
 end_operator
 begin_operator

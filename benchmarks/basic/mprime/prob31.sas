@@ -598,48 +598,48 @@ begin_operator
 drink bacon chicken kentucky quebec alsace alsace quebec
 0
 2
-0 14 1 2
 0 6 0 2
+0 14 1 2
 1
 end_operator
 begin_operator
 drink bacon chicken kentucky quebec alsace quebec kentucky
 0
 2
-0 14 1 2
 0 6 2 1
+0 14 1 2
 1
 end_operator
 begin_operator
 drink bacon chocolate kentucky quebec alsace alsace quebec
 0
 2
-0 14 1 2
 0 7 0 2
+0 14 1 2
 1
 end_operator
 begin_operator
 drink bacon chocolate kentucky quebec alsace quebec kentucky
 0
 2
-0 14 1 2
 0 7 2 1
+0 14 1 2
 1
 end_operator
 begin_operator
 drink bacon grapefruit kentucky quebec alsace alsace quebec
 0
 2
-0 14 1 2
 0 8 0 2
+0 14 1 2
 1
 end_operator
 begin_operator
 drink bacon grapefruit kentucky quebec alsace quebec kentucky
 0
 2
-0 14 1 2
 0 8 2 1
+0 14 1 2
 1
 end_operator
 begin_operator
@@ -662,32 +662,32 @@ begin_operator
 drink bacon haroset kentucky quebec alsace alsace quebec
 0
 2
-0 14 1 2
 0 9 0 2
+0 14 1 2
 1
 end_operator
 begin_operator
 drink bacon haroset kentucky quebec alsace quebec kentucky
 0
 2
-0 14 1 2
 0 9 2 1
+0 14 1 2
 1
 end_operator
 begin_operator
 drink bacon lemon kentucky quebec alsace alsace quebec
 0
 2
-0 14 1 2
 0 10 0 2
+0 14 1 2
 1
 end_operator
 begin_operator
 drink bacon lemon kentucky quebec alsace quebec kentucky
 0
 2
-0 14 1 2
 0 10 2 1
+0 14 1 2
 1
 end_operator
 begin_operator
@@ -710,32 +710,32 @@ begin_operator
 drink bacon pistachio kentucky quebec alsace alsace quebec
 0
 2
-0 14 1 2
 0 11 0 2
+0 14 1 2
 1
 end_operator
 begin_operator
 drink bacon pistachio kentucky quebec alsace quebec kentucky
 0
 2
-0 14 1 2
 0 11 2 1
+0 14 1 2
 1
 end_operator
 begin_operator
 drink bacon snickers kentucky quebec alsace alsace quebec
 0
 2
-0 14 1 2
 0 12 0 2
+0 14 1 2
 1
 end_operator
 begin_operator
 drink bacon snickers kentucky quebec alsace quebec kentucky
 0
 2
-0 14 1 2
 0 12 2 1
+0 14 1 2
 1
 end_operator
 begin_operator
@@ -758,48 +758,48 @@ begin_operator
 drink cantelope chicken kentucky quebec alsace alsace quebec
 0
 2
-0 15 1 2
 0 6 0 2
+0 15 1 2
 1
 end_operator
 begin_operator
 drink cantelope chicken kentucky quebec alsace quebec kentucky
 0
 2
-0 15 1 2
 0 6 2 1
+0 15 1 2
 1
 end_operator
 begin_operator
 drink cantelope chocolate kentucky quebec alsace alsace quebec
 0
 2
-0 15 1 2
 0 7 0 2
+0 15 1 2
 1
 end_operator
 begin_operator
 drink cantelope chocolate kentucky quebec alsace quebec kentucky
 0
 2
-0 15 1 2
 0 7 2 1
+0 15 1 2
 1
 end_operator
 begin_operator
 drink cantelope grapefruit kentucky quebec alsace alsace quebec
 0
 2
-0 15 1 2
 0 8 0 2
+0 15 1 2
 1
 end_operator
 begin_operator
 drink cantelope grapefruit kentucky quebec alsace quebec kentucky
 0
 2
-0 15 1 2
 0 8 2 1
+0 15 1 2
 1
 end_operator
 begin_operator
@@ -822,32 +822,32 @@ begin_operator
 drink cantelope haroset kentucky quebec alsace alsace quebec
 0
 2
-0 15 1 2
 0 9 0 2
+0 15 1 2
 1
 end_operator
 begin_operator
 drink cantelope haroset kentucky quebec alsace quebec kentucky
 0
 2
-0 15 1 2
 0 9 2 1
+0 15 1 2
 1
 end_operator
 begin_operator
 drink cantelope lemon kentucky quebec alsace alsace quebec
 0
 2
-0 15 1 2
 0 10 0 2
+0 15 1 2
 1
 end_operator
 begin_operator
 drink cantelope lemon kentucky quebec alsace quebec kentucky
 0
 2
-0 15 1 2
 0 10 2 1
+0 15 1 2
 1
 end_operator
 begin_operator
@@ -870,64 +870,64 @@ begin_operator
 drink cantelope pistachio kentucky quebec alsace alsace quebec
 0
 2
-0 15 1 2
 0 11 0 2
+0 15 1 2
 1
 end_operator
 begin_operator
 drink cantelope pistachio kentucky quebec alsace quebec kentucky
 0
 2
-0 15 1 2
 0 11 2 1
+0 15 1 2
 1
 end_operator
 begin_operator
 drink cantelope snickers kentucky quebec alsace alsace quebec
 0
 2
-0 15 1 2
 0 12 0 2
+0 15 1 2
 1
 end_operator
 begin_operator
 drink cantelope snickers kentucky quebec alsace quebec kentucky
 0
 2
-0 15 1 2
 0 12 2 1
+0 15 1 2
 1
 end_operator
 begin_operator
 drink chicken bacon kentucky quebec alsace alsace quebec
 0
 2
-0 14 0 2
 0 6 1 2
+0 14 0 2
 1
 end_operator
 begin_operator
 drink chicken bacon kentucky quebec alsace quebec kentucky
 0
 2
-0 14 2 1
 0 6 1 2
+0 14 2 1
 1
 end_operator
 begin_operator
 drink chicken cantelope kentucky quebec alsace alsace quebec
 0
 2
-0 15 0 2
 0 6 1 2
+0 15 0 2
 1
 end_operator
 begin_operator
 drink chicken cantelope kentucky quebec alsace quebec kentucky
 0
 2
-0 15 2 1
 0 6 1 2
+0 15 2 1
 1
 end_operator
 begin_operator
@@ -1062,32 +1062,32 @@ begin_operator
 drink chocolate bacon kentucky quebec alsace alsace quebec
 0
 2
-0 14 0 2
 0 7 1 2
+0 14 0 2
 1
 end_operator
 begin_operator
 drink chocolate bacon kentucky quebec alsace quebec kentucky
 0
 2
-0 14 2 1
 0 7 1 2
+0 14 2 1
 1
 end_operator
 begin_operator
 drink chocolate cantelope kentucky quebec alsace alsace quebec
 0
 2
-0 15 0 2
 0 7 1 2
+0 15 0 2
 1
 end_operator
 begin_operator
 drink chocolate cantelope kentucky quebec alsace quebec kentucky
 0
 2
-0 15 2 1
 0 7 1 2
+0 15 2 1
 1
 end_operator
 begin_operator
@@ -1222,32 +1222,32 @@ begin_operator
 drink grapefruit bacon kentucky quebec alsace alsace quebec
 0
 2
-0 14 0 2
 0 8 1 2
+0 14 0 2
 1
 end_operator
 begin_operator
 drink grapefruit bacon kentucky quebec alsace quebec kentucky
 0
 2
-0 14 2 1
 0 8 1 2
+0 14 2 1
 1
 end_operator
 begin_operator
 drink grapefruit cantelope kentucky quebec alsace alsace quebec
 0
 2
-0 15 0 2
 0 8 1 2
+0 15 0 2
 1
 end_operator
 begin_operator
 drink grapefruit cantelope kentucky quebec alsace quebec kentucky
 0
 2
-0 15 2 1
 0 8 1 2
+0 15 2 1
 1
 end_operator
 begin_operator
@@ -1462,32 +1462,32 @@ begin_operator
 drink ham haroset kentucky quebec alsace alsace quebec
 0
 2
-0 16 1 2
 0 9 0 2
+0 16 1 2
 1
 end_operator
 begin_operator
 drink ham haroset kentucky quebec alsace quebec kentucky
 0
 2
-0 16 1 2
 0 9 2 1
+0 16 1 2
 1
 end_operator
 begin_operator
 drink ham lemon kentucky quebec alsace alsace quebec
 0
 2
-0 16 1 2
 0 10 0 2
+0 16 1 2
 1
 end_operator
 begin_operator
 drink ham lemon kentucky quebec alsace quebec kentucky
 0
 2
-0 16 1 2
 0 10 2 1
+0 16 1 2
 1
 end_operator
 begin_operator
@@ -1510,64 +1510,64 @@ begin_operator
 drink ham pistachio kentucky quebec alsace alsace quebec
 0
 2
-0 16 1 2
 0 11 0 2
+0 16 1 2
 1
 end_operator
 begin_operator
 drink ham pistachio kentucky quebec alsace quebec kentucky
 0
 2
-0 16 1 2
 0 11 2 1
+0 16 1 2
 1
 end_operator
 begin_operator
 drink ham snickers kentucky quebec alsace alsace quebec
 0
 2
-0 16 1 2
 0 12 0 2
+0 16 1 2
 1
 end_operator
 begin_operator
 drink ham snickers kentucky quebec alsace quebec kentucky
 0
 2
-0 16 1 2
 0 12 2 1
+0 16 1 2
 1
 end_operator
 begin_operator
 drink haroset bacon kentucky quebec alsace alsace quebec
 0
 2
-0 14 0 2
 0 9 1 2
+0 14 0 2
 1
 end_operator
 begin_operator
 drink haroset bacon kentucky quebec alsace quebec kentucky
 0
 2
-0 14 2 1
 0 9 1 2
+0 14 2 1
 1
 end_operator
 begin_operator
 drink haroset cantelope kentucky quebec alsace alsace quebec
 0
 2
-0 15 0 2
 0 9 1 2
+0 15 0 2
 1
 end_operator
 begin_operator
 drink haroset cantelope kentucky quebec alsace quebec kentucky
 0
 2
-0 15 2 1
 0 9 1 2
+0 15 2 1
 1
 end_operator
 begin_operator
@@ -1622,16 +1622,16 @@ begin_operator
 drink haroset ham kentucky quebec alsace alsace quebec
 0
 2
-0 16 0 2
 0 9 1 2
+0 16 0 2
 1
 end_operator
 begin_operator
 drink haroset ham kentucky quebec alsace quebec kentucky
 0
 2
-0 16 2 1
 0 9 1 2
+0 16 2 1
 1
 end_operator
 begin_operator
@@ -1702,32 +1702,32 @@ begin_operator
 drink lemon bacon kentucky quebec alsace alsace quebec
 0
 2
-0 14 0 2
 0 10 1 2
+0 14 0 2
 1
 end_operator
 begin_operator
 drink lemon bacon kentucky quebec alsace quebec kentucky
 0
 2
-0 14 2 1
 0 10 1 2
+0 14 2 1
 1
 end_operator
 begin_operator
 drink lemon cantelope kentucky quebec alsace alsace quebec
 0
 2
-0 15 0 2
 0 10 1 2
+0 15 0 2
 1
 end_operator
 begin_operator
 drink lemon cantelope kentucky quebec alsace quebec kentucky
 0
 2
-0 15 2 1
 0 10 1 2
+0 15 2 1
 1
 end_operator
 begin_operator
@@ -1782,16 +1782,16 @@ begin_operator
 drink lemon ham kentucky quebec alsace alsace quebec
 0
 2
-0 16 0 2
 0 10 1 2
+0 16 0 2
 1
 end_operator
 begin_operator
 drink lemon ham kentucky quebec alsace quebec kentucky
 0
 2
-0 16 2 1
 0 10 1 2
+0 16 2 1
 1
 end_operator
 begin_operator
@@ -1990,64 +1990,64 @@ begin_operator
 drink muffin pistachio kentucky quebec alsace alsace quebec
 0
 2
-0 18 1 2
 0 11 0 2
+0 18 1 2
 1
 end_operator
 begin_operator
 drink muffin pistachio kentucky quebec alsace quebec kentucky
 0
 2
-0 18 1 2
 0 11 2 1
+0 18 1 2
 1
 end_operator
 begin_operator
 drink muffin snickers kentucky quebec alsace alsace quebec
 0
 2
-0 18 1 2
 0 12 0 2
+0 18 1 2
 1
 end_operator
 begin_operator
 drink muffin snickers kentucky quebec alsace quebec kentucky
 0
 2
-0 18 1 2
 0 12 2 1
+0 18 1 2
 1
 end_operator
 begin_operator
 drink pistachio bacon kentucky quebec alsace alsace quebec
 0
 2
-0 14 0 2
 0 11 1 2
+0 14 0 2
 1
 end_operator
 begin_operator
 drink pistachio bacon kentucky quebec alsace quebec kentucky
 0
 2
-0 14 2 1
 0 11 1 2
+0 14 2 1
 1
 end_operator
 begin_operator
 drink pistachio cantelope kentucky quebec alsace alsace quebec
 0
 2
-0 15 0 2
 0 11 1 2
+0 15 0 2
 1
 end_operator
 begin_operator
 drink pistachio cantelope kentucky quebec alsace quebec kentucky
 0
 2
-0 15 2 1
 0 11 1 2
+0 15 2 1
 1
 end_operator
 begin_operator
@@ -2102,16 +2102,16 @@ begin_operator
 drink pistachio ham kentucky quebec alsace alsace quebec
 0
 2
-0 16 0 2
 0 11 1 2
+0 16 0 2
 1
 end_operator
 begin_operator
 drink pistachio ham kentucky quebec alsace quebec kentucky
 0
 2
-0 16 2 1
 0 11 1 2
+0 16 2 1
 1
 end_operator
 begin_operator
@@ -2150,16 +2150,16 @@ begin_operator
 drink pistachio muffin kentucky quebec alsace alsace quebec
 0
 2
-0 18 0 2
 0 11 1 2
+0 18 0 2
 1
 end_operator
 begin_operator
 drink pistachio muffin kentucky quebec alsace quebec kentucky
 0
 2
-0 18 2 1
 0 11 1 2
+0 18 2 1
 1
 end_operator
 begin_operator
@@ -2182,32 +2182,32 @@ begin_operator
 drink snickers bacon kentucky quebec alsace alsace quebec
 0
 2
-0 14 0 2
 0 12 1 2
+0 14 0 2
 1
 end_operator
 begin_operator
 drink snickers bacon kentucky quebec alsace quebec kentucky
 0
 2
-0 14 2 1
 0 12 1 2
+0 14 2 1
 1
 end_operator
 begin_operator
 drink snickers cantelope kentucky quebec alsace alsace quebec
 0
 2
-0 15 0 2
 0 12 1 2
+0 15 0 2
 1
 end_operator
 begin_operator
 drink snickers cantelope kentucky quebec alsace quebec kentucky
 0
 2
-0 15 2 1
 0 12 1 2
+0 15 2 1
 1
 end_operator
 begin_operator
@@ -2262,16 +2262,16 @@ begin_operator
 drink snickers ham kentucky quebec alsace alsace quebec
 0
 2
-0 16 0 2
 0 12 1 2
+0 16 0 2
 1
 end_operator
 begin_operator
 drink snickers ham kentucky quebec alsace quebec kentucky
 0
 2
-0 16 2 1
 0 12 1 2
+0 16 2 1
 1
 end_operator
 begin_operator
@@ -2310,16 +2310,16 @@ begin_operator
 drink snickers muffin kentucky quebec alsace alsace quebec
 0
 2
-0 18 0 2
 0 12 1 2
+0 18 0 2
 1
 end_operator
 begin_operator
 drink snickers muffin kentucky quebec alsace quebec kentucky
 0
 2
-0 18 2 1
 0 12 1 2
+0 18 2 1
 1
 end_operator
 begin_operator
@@ -4934,96 +4934,96 @@ begin_operator
 feast triumph chicken bacon alsace quebec
 0
 2
-0 13 2 0
 0 6 2 0
+0 13 2 0
 1
 end_operator
 begin_operator
 feast triumph chicken bacon quebec kentucky
 0
 2
-0 13 2 0
 0 6 1 2
+0 13 2 0
 1
 end_operator
 begin_operator
 feast triumph chicken muffin alsace quebec
 0
 2
-0 13 2 8
 0 6 2 0
+0 13 2 8
 1
 end_operator
 begin_operator
 feast triumph chicken muffin quebec kentucky
 0
 2
-0 13 2 8
 0 6 1 2
+0 13 2 8
 1
 end_operator
 begin_operator
 feast triumph chocolate cantelope alsace quebec
 0
 2
-0 13 3 1
 0 7 2 0
+0 13 3 1
 1
 end_operator
 begin_operator
 feast triumph chocolate cantelope quebec kentucky
 0
 2
-0 13 3 1
 0 7 1 2
+0 13 3 1
 1
 end_operator
 begin_operator
 feast triumph chocolate haroset alsace quebec
 0
 2
-0 13 3 6
 0 7 2 0
+0 13 3 6
 1
 end_operator
 begin_operator
 feast triumph chocolate haroset quebec kentucky
 0
 2
-0 13 3 6
 0 7 1 2
+0 13 3 6
 1
 end_operator
 begin_operator
 feast triumph grapefruit ham alsace quebec
 0
 2
-0 13 4 5
 0 8 2 0
+0 13 4 5
 1
 end_operator
 begin_operator
 feast triumph grapefruit ham quebec kentucky
 0
 2
-0 13 4 5
 0 8 1 2
+0 13 4 5
 1
 end_operator
 begin_operator
 feast triumph grapefruit haroset alsace quebec
 0
 2
-0 13 4 6
 0 8 2 0
+0 13 4 6
 1
 end_operator
 begin_operator
 feast triumph grapefruit haroset quebec kentucky
 0
 2
-0 13 4 6
 0 8 1 2
+0 13 4 6
 1
 end_operator
 begin_operator
@@ -5078,64 +5078,64 @@ begin_operator
 feast triumph haroset chocolate alsace quebec
 0
 2
-0 13 6 3
 0 9 2 0
+0 13 6 3
 1
 end_operator
 begin_operator
 feast triumph haroset chocolate quebec kentucky
 0
 2
-0 13 6 3
 0 9 1 2
+0 13 6 3
 1
 end_operator
 begin_operator
 feast triumph haroset grapefruit alsace quebec
 0
 2
-0 13 6 4
 0 9 2 0
+0 13 6 4
 1
 end_operator
 begin_operator
 feast triumph haroset grapefruit quebec kentucky
 0
 2
-0 13 6 4
 0 9 1 2
+0 13 6 4
 1
 end_operator
 begin_operator
 feast triumph lemon bacon alsace quebec
 0
 2
-0 13 7 0
 0 10 2 0
+0 13 7 0
 1
 end_operator
 begin_operator
 feast triumph lemon bacon quebec kentucky
 0
 2
-0 13 7 0
 0 10 1 2
+0 13 7 0
 1
 end_operator
 begin_operator
 feast triumph lemon pistachio alsace quebec
 0
 2
-0 13 7 9
 0 10 2 0
+0 13 7 9
 1
 end_operator
 begin_operator
 feast triumph lemon pistachio quebec kentucky
 0
 2
-0 13 7 9
 0 10 1 2
+0 13 7 9
 1
 end_operator
 begin_operator
@@ -5190,368 +5190,368 @@ begin_operator
 feast triumph pistachio lemon alsace quebec
 0
 2
-0 13 9 7
 0 11 2 0
+0 13 9 7
 1
 end_operator
 begin_operator
 feast triumph pistachio lemon quebec kentucky
 0
 2
-0 13 9 7
 0 11 1 2
+0 13 9 7
 1
 end_operator
 begin_operator
 feast triumph pistachio snickers alsace quebec
 0
 2
-0 13 9 10
 0 11 2 0
+0 13 9 10
 1
 end_operator
 begin_operator
 feast triumph pistachio snickers quebec kentucky
 0
 2
-0 13 9 10
 0 11 1 2
+0 13 9 10
 1
 end_operator
 begin_operator
 feast triumph snickers muffin alsace quebec
 0
 2
-0 13 10 8
 0 12 2 0
+0 13 10 8
 1
 end_operator
 begin_operator
 feast triumph snickers muffin quebec kentucky
 0
 2
-0 13 10 8
 0 12 1 2
+0 13 10 8
 1
 end_operator
 begin_operator
 feast triumph snickers pistachio alsace quebec
 0
 2
-0 13 10 9
 0 12 2 0
+0 13 10 9
 1
 end_operator
 begin_operator
 feast triumph snickers pistachio quebec kentucky
 0
 2
-0 13 10 9
 0 12 1 2
+0 13 10 9
 1
 end_operator
 begin_operator
 feast understanding bacon cantelope alsace quebec
 0
 2
-0 17 0 1
 0 14 2 0
+0 17 0 1
 1
 end_operator
 begin_operator
 feast understanding bacon cantelope quebec kentucky
 0
 2
-0 17 0 1
 0 14 1 2
+0 17 0 1
 1
 end_operator
 begin_operator
 feast understanding bacon chicken alsace quebec
 0
 2
-0 17 0 2
 0 14 2 0
+0 17 0 2
 1
 end_operator
 begin_operator
 feast understanding bacon chicken quebec kentucky
 0
 2
-0 17 0 2
 0 14 1 2
+0 17 0 2
 1
 end_operator
 begin_operator
 feast understanding bacon lemon alsace quebec
 0
 2
-0 17 0 7
 0 14 2 0
+0 17 0 7
 1
 end_operator
 begin_operator
 feast understanding bacon lemon quebec kentucky
 0
 2
-0 17 0 7
 0 14 1 2
+0 17 0 7
 1
 end_operator
 begin_operator
 feast understanding cantelope bacon alsace quebec
 0
 2
-0 17 1 0
 0 15 2 0
+0 17 1 0
 1
 end_operator
 begin_operator
 feast understanding cantelope bacon quebec kentucky
 0
 2
-0 17 1 0
 0 15 1 2
+0 17 1 0
 1
 end_operator
 begin_operator
 feast understanding cantelope chocolate alsace quebec
 0
 2
-0 17 1 3
 0 15 2 0
+0 17 1 3
 1
 end_operator
 begin_operator
 feast understanding cantelope chocolate quebec kentucky
 0
 2
-0 17 1 3
 0 15 1 2
+0 17 1 3
 1
 end_operator
 begin_operator
 feast understanding cantelope ham alsace quebec
 0
 2
-0 17 1 5
 0 15 2 0
+0 17 1 5
 1
 end_operator
 begin_operator
 feast understanding cantelope ham quebec kentucky
 0
 2
-0 17 1 5
 0 15 1 2
+0 17 1 5
 1
 end_operator
 begin_operator
 feast understanding chicken bacon alsace quebec
 0
 2
-0 17 2 0
 0 6 2 0
+0 17 2 0
 1
 end_operator
 begin_operator
 feast understanding chicken bacon quebec kentucky
 0
 2
-0 17 2 0
 0 6 1 2
+0 17 2 0
 1
 end_operator
 begin_operator
 feast understanding chicken muffin alsace quebec
 0
 2
-0 17 2 8
 0 6 2 0
+0 17 2 8
 1
 end_operator
 begin_operator
 feast understanding chicken muffin quebec kentucky
 0
 2
-0 17 2 8
 0 6 1 2
+0 17 2 8
 1
 end_operator
 begin_operator
 feast understanding chocolate cantelope alsace quebec
 0
 2
-0 17 3 1
 0 7 2 0
+0 17 3 1
 1
 end_operator
 begin_operator
 feast understanding chocolate cantelope quebec kentucky
 0
 2
-0 17 3 1
 0 7 1 2
+0 17 3 1
 1
 end_operator
 begin_operator
 feast understanding chocolate haroset alsace quebec
 0
 2
-0 17 3 6
 0 7 2 0
+0 17 3 6
 1
 end_operator
 begin_operator
 feast understanding chocolate haroset quebec kentucky
 0
 2
-0 17 3 6
 0 7 1 2
+0 17 3 6
 1
 end_operator
 begin_operator
 feast understanding grapefruit ham alsace quebec
 0
 2
-0 17 4 5
 0 8 2 0
+0 17 4 5
 1
 end_operator
 begin_operator
 feast understanding grapefruit ham quebec kentucky
 0
 2
-0 17 4 5
 0 8 1 2
+0 17 4 5
 1
 end_operator
 begin_operator
 feast understanding grapefruit haroset alsace quebec
 0
 2
-0 17 4 6
 0 8 2 0
+0 17 4 6
 1
 end_operator
 begin_operator
 feast understanding grapefruit haroset quebec kentucky
 0
 2
-0 17 4 6
 0 8 1 2
+0 17 4 6
 1
 end_operator
 begin_operator
 feast understanding ham cantelope alsace quebec
 0
 2
-0 17 5 1
 0 16 2 0
+0 17 5 1
 1
 end_operator
 begin_operator
 feast understanding ham cantelope quebec kentucky
 0
 2
-0 17 5 1
 0 16 1 2
+0 17 5 1
 1
 end_operator
 begin_operator
 feast understanding ham grapefruit alsace quebec
 0
 2
-0 17 5 4
 0 16 2 0
+0 17 5 4
 1
 end_operator
 begin_operator
 feast understanding ham grapefruit quebec kentucky
 0
 2
-0 17 5 4
 0 16 1 2
+0 17 5 4
 1
 end_operator
 begin_operator
 feast understanding ham muffin alsace quebec
 0
 2
-0 17 5 8
 0 16 2 0
+0 17 5 8
 1
 end_operator
 begin_operator
 feast understanding ham muffin quebec kentucky
 0
 2
-0 17 5 8
 0 16 1 2
+0 17 5 8
 1
 end_operator
 begin_operator
 feast understanding haroset chocolate alsace quebec
 0
 2
-0 17 6 3
 0 9 2 0
+0 17 6 3
 1
 end_operator
 begin_operator
 feast understanding haroset chocolate quebec kentucky
 0
 2
-0 17 6 3
 0 9 1 2
+0 17 6 3
 1
 end_operator
 begin_operator
 feast understanding haroset grapefruit alsace quebec
 0
 2
-0 17 6 4
 0 9 2 0
+0 17 6 4
 1
 end_operator
 begin_operator
 feast understanding haroset grapefruit quebec kentucky
 0
 2
-0 17 6 4
 0 9 1 2
+0 17 6 4
 1
 end_operator
 begin_operator
 feast understanding lemon bacon alsace quebec
 0
 2
-0 17 7 0
 0 10 2 0
+0 17 7 0
 1
 end_operator
 begin_operator
 feast understanding lemon bacon quebec kentucky
 0
 2
-0 17 7 0
 0 10 1 2
+0 17 7 0
 1
 end_operator
 begin_operator
 feast understanding lemon pistachio alsace quebec
 0
 2
-0 17 7 9
 0 10 2 0
+0 17 7 9
 1
 end_operator
 begin_operator
 feast understanding lemon pistachio quebec kentucky
 0
 2
-0 17 7 9
 0 10 1 2
+0 17 7 9
 1
 end_operator
 begin_operator
@@ -5606,64 +5606,64 @@ begin_operator
 feast understanding pistachio lemon alsace quebec
 0
 2
-0 17 9 7
 0 11 2 0
+0 17 9 7
 1
 end_operator
 begin_operator
 feast understanding pistachio lemon quebec kentucky
 0
 2
-0 17 9 7
 0 11 1 2
+0 17 9 7
 1
 end_operator
 begin_operator
 feast understanding pistachio snickers alsace quebec
 0
 2
-0 17 9 10
 0 11 2 0
+0 17 9 10
 1
 end_operator
 begin_operator
 feast understanding pistachio snickers quebec kentucky
 0
 2
-0 17 9 10
 0 11 1 2
+0 17 9 10
 1
 end_operator
 begin_operator
 feast understanding snickers muffin alsace quebec
 0
 2
-0 17 10 8
 0 12 2 0
+0 17 10 8
 1
 end_operator
 begin_operator
 feast understanding snickers muffin quebec kentucky
 0
 2
-0 17 10 8
 0 12 1 2
+0 17 10 8
 1
 end_operator
 begin_operator
 feast understanding snickers pistachio alsace quebec
 0
 2
-0 17 10 9
 0 12 2 0
+0 17 10 9
 1
 end_operator
 begin_operator
 feast understanding snickers pistachio quebec kentucky
 0
 2
-0 17 10 9
 0 12 1 2
+0 17 10 9
 1
 end_operator
 begin_operator
@@ -12799,8 +12799,8 @@ overcome depression aesthetics bacon earth saturn
 1
 0 0
 2
-0 24 0 11
 0 22 3 0
+0 24 0 11
 1
 end_operator
 begin_operator
@@ -12808,8 +12808,8 @@ overcome depression aesthetics bacon neptune mars
 1
 0 0
 2
-0 24 0 11
 0 22 1 2
+0 24 0 11
 1
 end_operator
 begin_operator
@@ -12817,8 +12817,8 @@ overcome depression aesthetics bacon saturn neptune
 1
 0 0
 2
-0 24 0 11
 0 22 2 3
+0 24 0 11
 1
 end_operator
 begin_operator
@@ -12826,8 +12826,8 @@ overcome depression aesthetics cantelope earth saturn
 1
 0 1
 2
-0 24 1 11
 0 22 3 0
+0 24 1 11
 1
 end_operator
 begin_operator
@@ -12835,8 +12835,8 @@ overcome depression aesthetics cantelope neptune mars
 1
 0 1
 2
-0 24 1 11
 0 22 1 2
+0 24 1 11
 1
 end_operator
 begin_operator
@@ -12844,8 +12844,8 @@ overcome depression aesthetics cantelope saturn neptune
 1
 0 1
 2
-0 24 1 11
 0 22 2 3
+0 24 1 11
 1
 end_operator
 begin_operator
@@ -12853,8 +12853,8 @@ overcome depression aesthetics chicken earth saturn
 1
 0 2
 2
-0 24 2 11
 0 22 3 0
+0 24 2 11
 1
 end_operator
 begin_operator
@@ -12862,8 +12862,8 @@ overcome depression aesthetics chicken neptune mars
 1
 0 2
 2
-0 24 2 11
 0 22 1 2
+0 24 2 11
 1
 end_operator
 begin_operator
@@ -12871,8 +12871,8 @@ overcome depression aesthetics chicken saturn neptune
 1
 0 2
 2
-0 24 2 11
 0 22 2 3
+0 24 2 11
 1
 end_operator
 begin_operator
@@ -12880,8 +12880,8 @@ overcome depression aesthetics chocolate earth saturn
 1
 0 3
 2
-0 24 3 11
 0 22 3 0
+0 24 3 11
 1
 end_operator
 begin_operator
@@ -12889,8 +12889,8 @@ overcome depression aesthetics chocolate neptune mars
 1
 0 3
 2
-0 24 3 11
 0 22 1 2
+0 24 3 11
 1
 end_operator
 begin_operator
@@ -12898,8 +12898,8 @@ overcome depression aesthetics chocolate saturn neptune
 1
 0 3
 2
-0 24 3 11
 0 22 2 3
+0 24 3 11
 1
 end_operator
 begin_operator
@@ -12907,8 +12907,8 @@ overcome depression aesthetics grapefruit earth saturn
 1
 0 4
 2
-0 24 4 11
 0 22 3 0
+0 24 4 11
 1
 end_operator
 begin_operator
@@ -12916,8 +12916,8 @@ overcome depression aesthetics grapefruit neptune mars
 1
 0 4
 2
-0 24 4 11
 0 22 1 2
+0 24 4 11
 1
 end_operator
 begin_operator
@@ -12925,8 +12925,8 @@ overcome depression aesthetics grapefruit saturn neptune
 1
 0 4
 2
-0 24 4 11
 0 22 2 3
+0 24 4 11
 1
 end_operator
 begin_operator
@@ -12934,8 +12934,8 @@ overcome depression aesthetics ham earth saturn
 1
 0 5
 2
-0 24 5 11
 0 22 3 0
+0 24 5 11
 1
 end_operator
 begin_operator
@@ -12943,8 +12943,8 @@ overcome depression aesthetics ham neptune mars
 1
 0 5
 2
-0 24 5 11
 0 22 1 2
+0 24 5 11
 1
 end_operator
 begin_operator
@@ -12952,8 +12952,8 @@ overcome depression aesthetics ham saturn neptune
 1
 0 5
 2
-0 24 5 11
 0 22 2 3
+0 24 5 11
 1
 end_operator
 begin_operator
@@ -12961,8 +12961,8 @@ overcome depression aesthetics haroset earth saturn
 1
 0 6
 2
-0 24 6 11
 0 22 3 0
+0 24 6 11
 1
 end_operator
 begin_operator
@@ -12970,8 +12970,8 @@ overcome depression aesthetics haroset neptune mars
 1
 0 6
 2
-0 24 6 11
 0 22 1 2
+0 24 6 11
 1
 end_operator
 begin_operator
@@ -12979,8 +12979,8 @@ overcome depression aesthetics haroset saturn neptune
 1
 0 6
 2
-0 24 6 11
 0 22 2 3
+0 24 6 11
 1
 end_operator
 begin_operator
@@ -12988,8 +12988,8 @@ overcome depression aesthetics lemon earth saturn
 1
 0 7
 2
-0 24 7 11
 0 22 3 0
+0 24 7 11
 1
 end_operator
 begin_operator
@@ -12997,8 +12997,8 @@ overcome depression aesthetics lemon neptune mars
 1
 0 7
 2
-0 24 7 11
 0 22 1 2
+0 24 7 11
 1
 end_operator
 begin_operator
@@ -13006,8 +13006,8 @@ overcome depression aesthetics lemon saturn neptune
 1
 0 7
 2
-0 24 7 11
 0 22 2 3
+0 24 7 11
 1
 end_operator
 begin_operator
@@ -13015,8 +13015,8 @@ overcome depression aesthetics muffin earth saturn
 1
 0 8
 2
-0 24 8 11
 0 22 3 0
+0 24 8 11
 1
 end_operator
 begin_operator
@@ -13024,8 +13024,8 @@ overcome depression aesthetics muffin neptune mars
 1
 0 8
 2
-0 24 8 11
 0 22 1 2
+0 24 8 11
 1
 end_operator
 begin_operator
@@ -13033,8 +13033,8 @@ overcome depression aesthetics muffin saturn neptune
 1
 0 8
 2
-0 24 8 11
 0 22 2 3
+0 24 8 11
 1
 end_operator
 begin_operator
@@ -13042,8 +13042,8 @@ overcome depression aesthetics pistachio earth saturn
 1
 0 9
 2
-0 24 9 11
 0 22 3 0
+0 24 9 11
 1
 end_operator
 begin_operator
@@ -13051,8 +13051,8 @@ overcome depression aesthetics pistachio neptune mars
 1
 0 9
 2
-0 24 9 11
 0 22 1 2
+0 24 9 11
 1
 end_operator
 begin_operator
@@ -13060,8 +13060,8 @@ overcome depression aesthetics pistachio saturn neptune
 1
 0 9
 2
-0 24 9 11
 0 22 2 3
+0 24 9 11
 1
 end_operator
 begin_operator
@@ -13069,8 +13069,8 @@ overcome depression aesthetics snickers earth saturn
 1
 0 10
 2
-0 24 10 11
 0 22 3 0
+0 24 10 11
 1
 end_operator
 begin_operator
@@ -13078,8 +13078,8 @@ overcome depression aesthetics snickers neptune mars
 1
 0 10
 2
-0 24 10 11
 0 22 1 2
+0 24 10 11
 1
 end_operator
 begin_operator
@@ -13087,8 +13087,8 @@ overcome depression aesthetics snickers saturn neptune
 1
 0 10
 2
-0 24 10 11
 0 22 2 3
+0 24 10 11
 1
 end_operator
 begin_operator
@@ -13096,8 +13096,8 @@ overcome depression expectation bacon earth saturn
 1
 1 0
 2
-0 24 0 12
 0 23 3 0
+0 24 0 12
 1
 end_operator
 begin_operator
@@ -13105,8 +13105,8 @@ overcome depression expectation bacon neptune mars
 1
 1 0
 2
-0 24 0 12
 0 23 1 2
+0 24 0 12
 1
 end_operator
 begin_operator
@@ -13114,8 +13114,8 @@ overcome depression expectation bacon saturn neptune
 1
 1 0
 2
-0 24 0 12
 0 23 2 3
+0 24 0 12
 1
 end_operator
 begin_operator
@@ -13123,8 +13123,8 @@ overcome depression expectation cantelope earth saturn
 1
 1 1
 2
-0 24 1 12
 0 23 3 0
+0 24 1 12
 1
 end_operator
 begin_operator
@@ -13132,8 +13132,8 @@ overcome depression expectation cantelope neptune mars
 1
 1 1
 2
-0 24 1 12
 0 23 1 2
+0 24 1 12
 1
 end_operator
 begin_operator
@@ -13141,8 +13141,8 @@ overcome depression expectation cantelope saturn neptune
 1
 1 1
 2
-0 24 1 12
 0 23 2 3
+0 24 1 12
 1
 end_operator
 begin_operator
@@ -13150,8 +13150,8 @@ overcome depression expectation chicken earth saturn
 1
 1 2
 2
-0 24 2 12
 0 23 3 0
+0 24 2 12
 1
 end_operator
 begin_operator
@@ -13159,8 +13159,8 @@ overcome depression expectation chicken neptune mars
 1
 1 2
 2
-0 24 2 12
 0 23 1 2
+0 24 2 12
 1
 end_operator
 begin_operator
@@ -13168,8 +13168,8 @@ overcome depression expectation chicken saturn neptune
 1
 1 2
 2
-0 24 2 12
 0 23 2 3
+0 24 2 12
 1
 end_operator
 begin_operator
@@ -13177,8 +13177,8 @@ overcome depression expectation chocolate earth saturn
 1
 1 3
 2
-0 24 3 12
 0 23 3 0
+0 24 3 12
 1
 end_operator
 begin_operator
@@ -13186,8 +13186,8 @@ overcome depression expectation chocolate neptune mars
 1
 1 3
 2
-0 24 3 12
 0 23 1 2
+0 24 3 12
 1
 end_operator
 begin_operator
@@ -13195,8 +13195,8 @@ overcome depression expectation chocolate saturn neptune
 1
 1 3
 2
-0 24 3 12
 0 23 2 3
+0 24 3 12
 1
 end_operator
 begin_operator
@@ -13204,8 +13204,8 @@ overcome depression expectation grapefruit earth saturn
 1
 1 4
 2
-0 24 4 12
 0 23 3 0
+0 24 4 12
 1
 end_operator
 begin_operator
@@ -13213,8 +13213,8 @@ overcome depression expectation grapefruit neptune mars
 1
 1 4
 2
-0 24 4 12
 0 23 1 2
+0 24 4 12
 1
 end_operator
 begin_operator
@@ -13222,8 +13222,8 @@ overcome depression expectation grapefruit saturn neptune
 1
 1 4
 2
-0 24 4 12
 0 23 2 3
+0 24 4 12
 1
 end_operator
 begin_operator
@@ -13231,8 +13231,8 @@ overcome depression expectation ham earth saturn
 1
 1 5
 2
-0 24 5 12
 0 23 3 0
+0 24 5 12
 1
 end_operator
 begin_operator
@@ -13240,8 +13240,8 @@ overcome depression expectation ham neptune mars
 1
 1 5
 2
-0 24 5 12
 0 23 1 2
+0 24 5 12
 1
 end_operator
 begin_operator
@@ -13249,8 +13249,8 @@ overcome depression expectation ham saturn neptune
 1
 1 5
 2
-0 24 5 12
 0 23 2 3
+0 24 5 12
 1
 end_operator
 begin_operator
@@ -13258,8 +13258,8 @@ overcome depression expectation haroset earth saturn
 1
 1 6
 2
-0 24 6 12
 0 23 3 0
+0 24 6 12
 1
 end_operator
 begin_operator
@@ -13267,8 +13267,8 @@ overcome depression expectation haroset neptune mars
 1
 1 6
 2
-0 24 6 12
 0 23 1 2
+0 24 6 12
 1
 end_operator
 begin_operator
@@ -13276,8 +13276,8 @@ overcome depression expectation haroset saturn neptune
 1
 1 6
 2
-0 24 6 12
 0 23 2 3
+0 24 6 12
 1
 end_operator
 begin_operator
@@ -13285,8 +13285,8 @@ overcome depression expectation lemon earth saturn
 1
 1 7
 2
-0 24 7 12
 0 23 3 0
+0 24 7 12
 1
 end_operator
 begin_operator
@@ -13294,8 +13294,8 @@ overcome depression expectation lemon neptune mars
 1
 1 7
 2
-0 24 7 12
 0 23 1 2
+0 24 7 12
 1
 end_operator
 begin_operator
@@ -13303,8 +13303,8 @@ overcome depression expectation lemon saturn neptune
 1
 1 7
 2
-0 24 7 12
 0 23 2 3
+0 24 7 12
 1
 end_operator
 begin_operator
@@ -13312,8 +13312,8 @@ overcome depression expectation muffin earth saturn
 1
 1 8
 2
-0 24 8 12
 0 23 3 0
+0 24 8 12
 1
 end_operator
 begin_operator
@@ -13321,8 +13321,8 @@ overcome depression expectation muffin neptune mars
 1
 1 8
 2
-0 24 8 12
 0 23 1 2
+0 24 8 12
 1
 end_operator
 begin_operator
@@ -13330,8 +13330,8 @@ overcome depression expectation muffin saturn neptune
 1
 1 8
 2
-0 24 8 12
 0 23 2 3
+0 24 8 12
 1
 end_operator
 begin_operator
@@ -13339,8 +13339,8 @@ overcome depression expectation pistachio earth saturn
 1
 1 9
 2
-0 24 9 12
 0 23 3 0
+0 24 9 12
 1
 end_operator
 begin_operator
@@ -13348,8 +13348,8 @@ overcome depression expectation pistachio neptune mars
 1
 1 9
 2
-0 24 9 12
 0 23 1 2
+0 24 9 12
 1
 end_operator
 begin_operator
@@ -13357,8 +13357,8 @@ overcome depression expectation pistachio saturn neptune
 1
 1 9
 2
-0 24 9 12
 0 23 2 3
+0 24 9 12
 1
 end_operator
 begin_operator
@@ -13366,8 +13366,8 @@ overcome depression expectation snickers earth saturn
 1
 1 10
 2
-0 24 10 12
 0 23 3 0
+0 24 10 12
 1
 end_operator
 begin_operator
@@ -13375,8 +13375,8 @@ overcome depression expectation snickers neptune mars
 1
 1 10
 2
-0 24 10 12
 0 23 1 2
+0 24 10 12
 1
 end_operator
 begin_operator
@@ -13384,8 +13384,8 @@ overcome depression expectation snickers saturn neptune
 1
 1 10
 2
-0 24 10 12
 0 23 2 3
+0 24 10 12
 1
 end_operator
 begin_operator
@@ -15175,8 +15175,8 @@ overcome dread aesthetics bacon earth saturn
 1
 0 0
 2
-0 25 0 11
 0 22 3 0
+0 25 0 11
 1
 end_operator
 begin_operator
@@ -15184,8 +15184,8 @@ overcome dread aesthetics bacon neptune mars
 1
 0 0
 2
-0 25 0 11
 0 22 1 2
+0 25 0 11
 1
 end_operator
 begin_operator
@@ -15193,8 +15193,8 @@ overcome dread aesthetics bacon saturn neptune
 1
 0 0
 2
-0 25 0 11
 0 22 2 3
+0 25 0 11
 1
 end_operator
 begin_operator
@@ -15202,8 +15202,8 @@ overcome dread aesthetics cantelope earth saturn
 1
 0 1
 2
-0 25 1 11
 0 22 3 0
+0 25 1 11
 1
 end_operator
 begin_operator
@@ -15211,8 +15211,8 @@ overcome dread aesthetics cantelope neptune mars
 1
 0 1
 2
-0 25 1 11
 0 22 1 2
+0 25 1 11
 1
 end_operator
 begin_operator
@@ -15220,8 +15220,8 @@ overcome dread aesthetics cantelope saturn neptune
 1
 0 1
 2
-0 25 1 11
 0 22 2 3
+0 25 1 11
 1
 end_operator
 begin_operator
@@ -15229,8 +15229,8 @@ overcome dread aesthetics chicken earth saturn
 1
 0 2
 2
-0 25 2 11
 0 22 3 0
+0 25 2 11
 1
 end_operator
 begin_operator
@@ -15238,8 +15238,8 @@ overcome dread aesthetics chicken neptune mars
 1
 0 2
 2
-0 25 2 11
 0 22 1 2
+0 25 2 11
 1
 end_operator
 begin_operator
@@ -15247,8 +15247,8 @@ overcome dread aesthetics chicken saturn neptune
 1
 0 2
 2
-0 25 2 11
 0 22 2 3
+0 25 2 11
 1
 end_operator
 begin_operator
@@ -15256,8 +15256,8 @@ overcome dread aesthetics chocolate earth saturn
 1
 0 3
 2
-0 25 3 11
 0 22 3 0
+0 25 3 11
 1
 end_operator
 begin_operator
@@ -15265,8 +15265,8 @@ overcome dread aesthetics chocolate neptune mars
 1
 0 3
 2
-0 25 3 11
 0 22 1 2
+0 25 3 11
 1
 end_operator
 begin_operator
@@ -15274,8 +15274,8 @@ overcome dread aesthetics chocolate saturn neptune
 1
 0 3
 2
-0 25 3 11
 0 22 2 3
+0 25 3 11
 1
 end_operator
 begin_operator
@@ -15283,8 +15283,8 @@ overcome dread aesthetics grapefruit earth saturn
 1
 0 4
 2
-0 25 4 11
 0 22 3 0
+0 25 4 11
 1
 end_operator
 begin_operator
@@ -15292,8 +15292,8 @@ overcome dread aesthetics grapefruit neptune mars
 1
 0 4
 2
-0 25 4 11
 0 22 1 2
+0 25 4 11
 1
 end_operator
 begin_operator
@@ -15301,8 +15301,8 @@ overcome dread aesthetics grapefruit saturn neptune
 1
 0 4
 2
-0 25 4 11
 0 22 2 3
+0 25 4 11
 1
 end_operator
 begin_operator
@@ -15310,8 +15310,8 @@ overcome dread aesthetics ham earth saturn
 1
 0 5
 2
-0 25 5 11
 0 22 3 0
+0 25 5 11
 1
 end_operator
 begin_operator
@@ -15319,8 +15319,8 @@ overcome dread aesthetics ham neptune mars
 1
 0 5
 2
-0 25 5 11
 0 22 1 2
+0 25 5 11
 1
 end_operator
 begin_operator
@@ -15328,8 +15328,8 @@ overcome dread aesthetics ham saturn neptune
 1
 0 5
 2
-0 25 5 11
 0 22 2 3
+0 25 5 11
 1
 end_operator
 begin_operator
@@ -15337,8 +15337,8 @@ overcome dread aesthetics haroset earth saturn
 1
 0 6
 2
-0 25 6 11
 0 22 3 0
+0 25 6 11
 1
 end_operator
 begin_operator
@@ -15346,8 +15346,8 @@ overcome dread aesthetics haroset neptune mars
 1
 0 6
 2
-0 25 6 11
 0 22 1 2
+0 25 6 11
 1
 end_operator
 begin_operator
@@ -15355,8 +15355,8 @@ overcome dread aesthetics haroset saturn neptune
 1
 0 6
 2
-0 25 6 11
 0 22 2 3
+0 25 6 11
 1
 end_operator
 begin_operator
@@ -15364,8 +15364,8 @@ overcome dread aesthetics lemon earth saturn
 1
 0 7
 2
-0 25 7 11
 0 22 3 0
+0 25 7 11
 1
 end_operator
 begin_operator
@@ -15373,8 +15373,8 @@ overcome dread aesthetics lemon neptune mars
 1
 0 7
 2
-0 25 7 11
 0 22 1 2
+0 25 7 11
 1
 end_operator
 begin_operator
@@ -15382,8 +15382,8 @@ overcome dread aesthetics lemon saturn neptune
 1
 0 7
 2
-0 25 7 11
 0 22 2 3
+0 25 7 11
 1
 end_operator
 begin_operator
@@ -15391,8 +15391,8 @@ overcome dread aesthetics muffin earth saturn
 1
 0 8
 2
-0 25 8 11
 0 22 3 0
+0 25 8 11
 1
 end_operator
 begin_operator
@@ -15400,8 +15400,8 @@ overcome dread aesthetics muffin neptune mars
 1
 0 8
 2
-0 25 8 11
 0 22 1 2
+0 25 8 11
 1
 end_operator
 begin_operator
@@ -15409,8 +15409,8 @@ overcome dread aesthetics muffin saturn neptune
 1
 0 8
 2
-0 25 8 11
 0 22 2 3
+0 25 8 11
 1
 end_operator
 begin_operator
@@ -15418,8 +15418,8 @@ overcome dread aesthetics pistachio earth saturn
 1
 0 9
 2
-0 25 9 11
 0 22 3 0
+0 25 9 11
 1
 end_operator
 begin_operator
@@ -15427,8 +15427,8 @@ overcome dread aesthetics pistachio neptune mars
 1
 0 9
 2
-0 25 9 11
 0 22 1 2
+0 25 9 11
 1
 end_operator
 begin_operator
@@ -15436,8 +15436,8 @@ overcome dread aesthetics pistachio saturn neptune
 1
 0 9
 2
-0 25 9 11
 0 22 2 3
+0 25 9 11
 1
 end_operator
 begin_operator
@@ -15445,8 +15445,8 @@ overcome dread aesthetics snickers earth saturn
 1
 0 10
 2
-0 25 10 11
 0 22 3 0
+0 25 10 11
 1
 end_operator
 begin_operator
@@ -15454,8 +15454,8 @@ overcome dread aesthetics snickers neptune mars
 1
 0 10
 2
-0 25 10 11
 0 22 1 2
+0 25 10 11
 1
 end_operator
 begin_operator
@@ -15463,8 +15463,8 @@ overcome dread aesthetics snickers saturn neptune
 1
 0 10
 2
-0 25 10 11
 0 22 2 3
+0 25 10 11
 1
 end_operator
 begin_operator
@@ -15472,8 +15472,8 @@ overcome dread expectation bacon earth saturn
 1
 1 0
 2
-0 25 0 12
 0 23 3 0
+0 25 0 12
 1
 end_operator
 begin_operator
@@ -15481,8 +15481,8 @@ overcome dread expectation bacon neptune mars
 1
 1 0
 2
-0 25 0 12
 0 23 1 2
+0 25 0 12
 1
 end_operator
 begin_operator
@@ -15490,8 +15490,8 @@ overcome dread expectation bacon saturn neptune
 1
 1 0
 2
-0 25 0 12
 0 23 2 3
+0 25 0 12
 1
 end_operator
 begin_operator
@@ -15499,8 +15499,8 @@ overcome dread expectation cantelope earth saturn
 1
 1 1
 2
-0 25 1 12
 0 23 3 0
+0 25 1 12
 1
 end_operator
 begin_operator
@@ -15508,8 +15508,8 @@ overcome dread expectation cantelope neptune mars
 1
 1 1
 2
-0 25 1 12
 0 23 1 2
+0 25 1 12
 1
 end_operator
 begin_operator
@@ -15517,8 +15517,8 @@ overcome dread expectation cantelope saturn neptune
 1
 1 1
 2
-0 25 1 12
 0 23 2 3
+0 25 1 12
 1
 end_operator
 begin_operator
@@ -15526,8 +15526,8 @@ overcome dread expectation chicken earth saturn
 1
 1 2
 2
-0 25 2 12
 0 23 3 0
+0 25 2 12
 1
 end_operator
 begin_operator
@@ -15535,8 +15535,8 @@ overcome dread expectation chicken neptune mars
 1
 1 2
 2
-0 25 2 12
 0 23 1 2
+0 25 2 12
 1
 end_operator
 begin_operator
@@ -15544,8 +15544,8 @@ overcome dread expectation chicken saturn neptune
 1
 1 2
 2
-0 25 2 12
 0 23 2 3
+0 25 2 12
 1
 end_operator
 begin_operator
@@ -15553,8 +15553,8 @@ overcome dread expectation chocolate earth saturn
 1
 1 3
 2
-0 25 3 12
 0 23 3 0
+0 25 3 12
 1
 end_operator
 begin_operator
@@ -15562,8 +15562,8 @@ overcome dread expectation chocolate neptune mars
 1
 1 3
 2
-0 25 3 12
 0 23 1 2
+0 25 3 12
 1
 end_operator
 begin_operator
@@ -15571,8 +15571,8 @@ overcome dread expectation chocolate saturn neptune
 1
 1 3
 2
-0 25 3 12
 0 23 2 3
+0 25 3 12
 1
 end_operator
 begin_operator
@@ -15580,8 +15580,8 @@ overcome dread expectation grapefruit earth saturn
 1
 1 4
 2
-0 25 4 12
 0 23 3 0
+0 25 4 12
 1
 end_operator
 begin_operator
@@ -15589,8 +15589,8 @@ overcome dread expectation grapefruit neptune mars
 1
 1 4
 2
-0 25 4 12
 0 23 1 2
+0 25 4 12
 1
 end_operator
 begin_operator
@@ -15598,8 +15598,8 @@ overcome dread expectation grapefruit saturn neptune
 1
 1 4
 2
-0 25 4 12
 0 23 2 3
+0 25 4 12
 1
 end_operator
 begin_operator
@@ -15607,8 +15607,8 @@ overcome dread expectation ham earth saturn
 1
 1 5
 2
-0 25 5 12
 0 23 3 0
+0 25 5 12
 1
 end_operator
 begin_operator
@@ -15616,8 +15616,8 @@ overcome dread expectation ham neptune mars
 1
 1 5
 2
-0 25 5 12
 0 23 1 2
+0 25 5 12
 1
 end_operator
 begin_operator
@@ -15625,8 +15625,8 @@ overcome dread expectation ham saturn neptune
 1
 1 5
 2
-0 25 5 12
 0 23 2 3
+0 25 5 12
 1
 end_operator
 begin_operator
@@ -15634,8 +15634,8 @@ overcome dread expectation haroset earth saturn
 1
 1 6
 2
-0 25 6 12
 0 23 3 0
+0 25 6 12
 1
 end_operator
 begin_operator
@@ -15643,8 +15643,8 @@ overcome dread expectation haroset neptune mars
 1
 1 6
 2
-0 25 6 12
 0 23 1 2
+0 25 6 12
 1
 end_operator
 begin_operator
@@ -15652,8 +15652,8 @@ overcome dread expectation haroset saturn neptune
 1
 1 6
 2
-0 25 6 12
 0 23 2 3
+0 25 6 12
 1
 end_operator
 begin_operator
@@ -15661,8 +15661,8 @@ overcome dread expectation lemon earth saturn
 1
 1 7
 2
-0 25 7 12
 0 23 3 0
+0 25 7 12
 1
 end_operator
 begin_operator
@@ -15670,8 +15670,8 @@ overcome dread expectation lemon neptune mars
 1
 1 7
 2
-0 25 7 12
 0 23 1 2
+0 25 7 12
 1
 end_operator
 begin_operator
@@ -15679,8 +15679,8 @@ overcome dread expectation lemon saturn neptune
 1
 1 7
 2
-0 25 7 12
 0 23 2 3
+0 25 7 12
 1
 end_operator
 begin_operator
@@ -15688,8 +15688,8 @@ overcome dread expectation muffin earth saturn
 1
 1 8
 2
-0 25 8 12
 0 23 3 0
+0 25 8 12
 1
 end_operator
 begin_operator
@@ -15697,8 +15697,8 @@ overcome dread expectation muffin neptune mars
 1
 1 8
 2
-0 25 8 12
 0 23 1 2
+0 25 8 12
 1
 end_operator
 begin_operator
@@ -15706,8 +15706,8 @@ overcome dread expectation muffin saturn neptune
 1
 1 8
 2
-0 25 8 12
 0 23 2 3
+0 25 8 12
 1
 end_operator
 begin_operator
@@ -15715,8 +15715,8 @@ overcome dread expectation pistachio earth saturn
 1
 1 9
 2
-0 25 9 12
 0 23 3 0
+0 25 9 12
 1
 end_operator
 begin_operator
@@ -15724,8 +15724,8 @@ overcome dread expectation pistachio neptune mars
 1
 1 9
 2
-0 25 9 12
 0 23 1 2
+0 25 9 12
 1
 end_operator
 begin_operator
@@ -15733,8 +15733,8 @@ overcome dread expectation pistachio saturn neptune
 1
 1 9
 2
-0 25 9 12
 0 23 2 3
+0 25 9 12
 1
 end_operator
 begin_operator
@@ -15742,8 +15742,8 @@ overcome dread expectation snickers earth saturn
 1
 1 10
 2
-0 25 10 12
 0 23 3 0
+0 25 10 12
 1
 end_operator
 begin_operator
@@ -15751,8 +15751,8 @@ overcome dread expectation snickers neptune mars
 1
 1 10
 2
-0 25 10 12
 0 23 1 2
+0 25 10 12
 1
 end_operator
 begin_operator
@@ -15760,8 +15760,8 @@ overcome dread expectation snickers saturn neptune
 1
 1 10
 2
-0 25 10 12
 0 23 2 3
+0 25 10 12
 1
 end_operator
 begin_operator
@@ -17551,8 +17551,8 @@ overcome grief aesthetics bacon earth saturn
 1
 0 0
 2
-0 28 0 11
 0 22 3 0
+0 28 0 11
 1
 end_operator
 begin_operator
@@ -17560,8 +17560,8 @@ overcome grief aesthetics bacon neptune mars
 1
 0 0
 2
-0 28 0 11
 0 22 1 2
+0 28 0 11
 1
 end_operator
 begin_operator
@@ -17569,8 +17569,8 @@ overcome grief aesthetics bacon saturn neptune
 1
 0 0
 2
-0 28 0 11
 0 22 2 3
+0 28 0 11
 1
 end_operator
 begin_operator
@@ -17578,8 +17578,8 @@ overcome grief aesthetics cantelope earth saturn
 1
 0 1
 2
-0 28 1 11
 0 22 3 0
+0 28 1 11
 1
 end_operator
 begin_operator
@@ -17587,8 +17587,8 @@ overcome grief aesthetics cantelope neptune mars
 1
 0 1
 2
-0 28 1 11
 0 22 1 2
+0 28 1 11
 1
 end_operator
 begin_operator
@@ -17596,8 +17596,8 @@ overcome grief aesthetics cantelope saturn neptune
 1
 0 1
 2
-0 28 1 11
 0 22 2 3
+0 28 1 11
 1
 end_operator
 begin_operator
@@ -17605,8 +17605,8 @@ overcome grief aesthetics chicken earth saturn
 1
 0 2
 2
-0 28 2 11
 0 22 3 0
+0 28 2 11
 1
 end_operator
 begin_operator
@@ -17614,8 +17614,8 @@ overcome grief aesthetics chicken neptune mars
 1
 0 2
 2
-0 28 2 11
 0 22 1 2
+0 28 2 11
 1
 end_operator
 begin_operator
@@ -17623,8 +17623,8 @@ overcome grief aesthetics chicken saturn neptune
 1
 0 2
 2
-0 28 2 11
 0 22 2 3
+0 28 2 11
 1
 end_operator
 begin_operator
@@ -17632,8 +17632,8 @@ overcome grief aesthetics chocolate earth saturn
 1
 0 3
 2
-0 28 3 11
 0 22 3 0
+0 28 3 11
 1
 end_operator
 begin_operator
@@ -17641,8 +17641,8 @@ overcome grief aesthetics chocolate neptune mars
 1
 0 3
 2
-0 28 3 11
 0 22 1 2
+0 28 3 11
 1
 end_operator
 begin_operator
@@ -17650,8 +17650,8 @@ overcome grief aesthetics chocolate saturn neptune
 1
 0 3
 2
-0 28 3 11
 0 22 2 3
+0 28 3 11
 1
 end_operator
 begin_operator
@@ -17659,8 +17659,8 @@ overcome grief aesthetics grapefruit earth saturn
 1
 0 4
 2
-0 28 4 11
 0 22 3 0
+0 28 4 11
 1
 end_operator
 begin_operator
@@ -17668,8 +17668,8 @@ overcome grief aesthetics grapefruit neptune mars
 1
 0 4
 2
-0 28 4 11
 0 22 1 2
+0 28 4 11
 1
 end_operator
 begin_operator
@@ -17677,8 +17677,8 @@ overcome grief aesthetics grapefruit saturn neptune
 1
 0 4
 2
-0 28 4 11
 0 22 2 3
+0 28 4 11
 1
 end_operator
 begin_operator
@@ -17686,8 +17686,8 @@ overcome grief aesthetics ham earth saturn
 1
 0 5
 2
-0 28 5 11
 0 22 3 0
+0 28 5 11
 1
 end_operator
 begin_operator
@@ -17695,8 +17695,8 @@ overcome grief aesthetics ham neptune mars
 1
 0 5
 2
-0 28 5 11
 0 22 1 2
+0 28 5 11
 1
 end_operator
 begin_operator
@@ -17704,8 +17704,8 @@ overcome grief aesthetics ham saturn neptune
 1
 0 5
 2
-0 28 5 11
 0 22 2 3
+0 28 5 11
 1
 end_operator
 begin_operator
@@ -17713,8 +17713,8 @@ overcome grief aesthetics haroset earth saturn
 1
 0 6
 2
-0 28 6 11
 0 22 3 0
+0 28 6 11
 1
 end_operator
 begin_operator
@@ -17722,8 +17722,8 @@ overcome grief aesthetics haroset neptune mars
 1
 0 6
 2
-0 28 6 11
 0 22 1 2
+0 28 6 11
 1
 end_operator
 begin_operator
@@ -17731,8 +17731,8 @@ overcome grief aesthetics haroset saturn neptune
 1
 0 6
 2
-0 28 6 11
 0 22 2 3
+0 28 6 11
 1
 end_operator
 begin_operator
@@ -17740,8 +17740,8 @@ overcome grief aesthetics lemon earth saturn
 1
 0 7
 2
-0 28 7 11
 0 22 3 0
+0 28 7 11
 1
 end_operator
 begin_operator
@@ -17749,8 +17749,8 @@ overcome grief aesthetics lemon neptune mars
 1
 0 7
 2
-0 28 7 11
 0 22 1 2
+0 28 7 11
 1
 end_operator
 begin_operator
@@ -17758,8 +17758,8 @@ overcome grief aesthetics lemon saturn neptune
 1
 0 7
 2
-0 28 7 11
 0 22 2 3
+0 28 7 11
 1
 end_operator
 begin_operator
@@ -17767,8 +17767,8 @@ overcome grief aesthetics muffin earth saturn
 1
 0 8
 2
-0 28 8 11
 0 22 3 0
+0 28 8 11
 1
 end_operator
 begin_operator
@@ -17776,8 +17776,8 @@ overcome grief aesthetics muffin neptune mars
 1
 0 8
 2
-0 28 8 11
 0 22 1 2
+0 28 8 11
 1
 end_operator
 begin_operator
@@ -17785,8 +17785,8 @@ overcome grief aesthetics muffin saturn neptune
 1
 0 8
 2
-0 28 8 11
 0 22 2 3
+0 28 8 11
 1
 end_operator
 begin_operator
@@ -17794,8 +17794,8 @@ overcome grief aesthetics pistachio earth saturn
 1
 0 9
 2
-0 28 9 11
 0 22 3 0
+0 28 9 11
 1
 end_operator
 begin_operator
@@ -17803,8 +17803,8 @@ overcome grief aesthetics pistachio neptune mars
 1
 0 9
 2
-0 28 9 11
 0 22 1 2
+0 28 9 11
 1
 end_operator
 begin_operator
@@ -17812,8 +17812,8 @@ overcome grief aesthetics pistachio saturn neptune
 1
 0 9
 2
-0 28 9 11
 0 22 2 3
+0 28 9 11
 1
 end_operator
 begin_operator
@@ -17821,8 +17821,8 @@ overcome grief aesthetics snickers earth saturn
 1
 0 10
 2
-0 28 10 11
 0 22 3 0
+0 28 10 11
 1
 end_operator
 begin_operator
@@ -17830,8 +17830,8 @@ overcome grief aesthetics snickers neptune mars
 1
 0 10
 2
-0 28 10 11
 0 22 1 2
+0 28 10 11
 1
 end_operator
 begin_operator
@@ -17839,8 +17839,8 @@ overcome grief aesthetics snickers saturn neptune
 1
 0 10
 2
-0 28 10 11
 0 22 2 3
+0 28 10 11
 1
 end_operator
 begin_operator
@@ -17848,8 +17848,8 @@ overcome grief expectation bacon earth saturn
 1
 1 0
 2
-0 28 0 12
 0 23 3 0
+0 28 0 12
 1
 end_operator
 begin_operator
@@ -17857,8 +17857,8 @@ overcome grief expectation bacon neptune mars
 1
 1 0
 2
-0 28 0 12
 0 23 1 2
+0 28 0 12
 1
 end_operator
 begin_operator
@@ -17866,8 +17866,8 @@ overcome grief expectation bacon saturn neptune
 1
 1 0
 2
-0 28 0 12
 0 23 2 3
+0 28 0 12
 1
 end_operator
 begin_operator
@@ -17875,8 +17875,8 @@ overcome grief expectation cantelope earth saturn
 1
 1 1
 2
-0 28 1 12
 0 23 3 0
+0 28 1 12
 1
 end_operator
 begin_operator
@@ -17884,8 +17884,8 @@ overcome grief expectation cantelope neptune mars
 1
 1 1
 2
-0 28 1 12
 0 23 1 2
+0 28 1 12
 1
 end_operator
 begin_operator
@@ -17893,8 +17893,8 @@ overcome grief expectation cantelope saturn neptune
 1
 1 1
 2
-0 28 1 12
 0 23 2 3
+0 28 1 12
 1
 end_operator
 begin_operator
@@ -17902,8 +17902,8 @@ overcome grief expectation chicken earth saturn
 1
 1 2
 2
-0 28 2 12
 0 23 3 0
+0 28 2 12
 1
 end_operator
 begin_operator
@@ -17911,8 +17911,8 @@ overcome grief expectation chicken neptune mars
 1
 1 2
 2
-0 28 2 12
 0 23 1 2
+0 28 2 12
 1
 end_operator
 begin_operator
@@ -17920,8 +17920,8 @@ overcome grief expectation chicken saturn neptune
 1
 1 2
 2
-0 28 2 12
 0 23 2 3
+0 28 2 12
 1
 end_operator
 begin_operator
@@ -17929,8 +17929,8 @@ overcome grief expectation chocolate earth saturn
 1
 1 3
 2
-0 28 3 12
 0 23 3 0
+0 28 3 12
 1
 end_operator
 begin_operator
@@ -17938,8 +17938,8 @@ overcome grief expectation chocolate neptune mars
 1
 1 3
 2
-0 28 3 12
 0 23 1 2
+0 28 3 12
 1
 end_operator
 begin_operator
@@ -17947,8 +17947,8 @@ overcome grief expectation chocolate saturn neptune
 1
 1 3
 2
-0 28 3 12
 0 23 2 3
+0 28 3 12
 1
 end_operator
 begin_operator
@@ -17956,8 +17956,8 @@ overcome grief expectation grapefruit earth saturn
 1
 1 4
 2
-0 28 4 12
 0 23 3 0
+0 28 4 12
 1
 end_operator
 begin_operator
@@ -17965,8 +17965,8 @@ overcome grief expectation grapefruit neptune mars
 1
 1 4
 2
-0 28 4 12
 0 23 1 2
+0 28 4 12
 1
 end_operator
 begin_operator
@@ -17974,8 +17974,8 @@ overcome grief expectation grapefruit saturn neptune
 1
 1 4
 2
-0 28 4 12
 0 23 2 3
+0 28 4 12
 1
 end_operator
 begin_operator
@@ -17983,8 +17983,8 @@ overcome grief expectation ham earth saturn
 1
 1 5
 2
-0 28 5 12
 0 23 3 0
+0 28 5 12
 1
 end_operator
 begin_operator
@@ -17992,8 +17992,8 @@ overcome grief expectation ham neptune mars
 1
 1 5
 2
-0 28 5 12
 0 23 1 2
+0 28 5 12
 1
 end_operator
 begin_operator
@@ -18001,8 +18001,8 @@ overcome grief expectation ham saturn neptune
 1
 1 5
 2
-0 28 5 12
 0 23 2 3
+0 28 5 12
 1
 end_operator
 begin_operator
@@ -18010,8 +18010,8 @@ overcome grief expectation haroset earth saturn
 1
 1 6
 2
-0 28 6 12
 0 23 3 0
+0 28 6 12
 1
 end_operator
 begin_operator
@@ -18019,8 +18019,8 @@ overcome grief expectation haroset neptune mars
 1
 1 6
 2
-0 28 6 12
 0 23 1 2
+0 28 6 12
 1
 end_operator
 begin_operator
@@ -18028,8 +18028,8 @@ overcome grief expectation haroset saturn neptune
 1
 1 6
 2
-0 28 6 12
 0 23 2 3
+0 28 6 12
 1
 end_operator
 begin_operator
@@ -18037,8 +18037,8 @@ overcome grief expectation lemon earth saturn
 1
 1 7
 2
-0 28 7 12
 0 23 3 0
+0 28 7 12
 1
 end_operator
 begin_operator
@@ -18046,8 +18046,8 @@ overcome grief expectation lemon neptune mars
 1
 1 7
 2
-0 28 7 12
 0 23 1 2
+0 28 7 12
 1
 end_operator
 begin_operator
@@ -18055,8 +18055,8 @@ overcome grief expectation lemon saturn neptune
 1
 1 7
 2
-0 28 7 12
 0 23 2 3
+0 28 7 12
 1
 end_operator
 begin_operator
@@ -18064,8 +18064,8 @@ overcome grief expectation muffin earth saturn
 1
 1 8
 2
-0 28 8 12
 0 23 3 0
+0 28 8 12
 1
 end_operator
 begin_operator
@@ -18073,8 +18073,8 @@ overcome grief expectation muffin neptune mars
 1
 1 8
 2
-0 28 8 12
 0 23 1 2
+0 28 8 12
 1
 end_operator
 begin_operator
@@ -18082,8 +18082,8 @@ overcome grief expectation muffin saturn neptune
 1
 1 8
 2
-0 28 8 12
 0 23 2 3
+0 28 8 12
 1
 end_operator
 begin_operator
@@ -18091,8 +18091,8 @@ overcome grief expectation pistachio earth saturn
 1
 1 9
 2
-0 28 9 12
 0 23 3 0
+0 28 9 12
 1
 end_operator
 begin_operator
@@ -18100,8 +18100,8 @@ overcome grief expectation pistachio neptune mars
 1
 1 9
 2
-0 28 9 12
 0 23 1 2
+0 28 9 12
 1
 end_operator
 begin_operator
@@ -18109,8 +18109,8 @@ overcome grief expectation pistachio saturn neptune
 1
 1 9
 2
-0 28 9 12
 0 23 2 3
+0 28 9 12
 1
 end_operator
 begin_operator
@@ -18118,8 +18118,8 @@ overcome grief expectation snickers earth saturn
 1
 1 10
 2
-0 28 10 12
 0 23 3 0
+0 28 10 12
 1
 end_operator
 begin_operator
@@ -18127,8 +18127,8 @@ overcome grief expectation snickers neptune mars
 1
 1 10
 2
-0 28 10 12
 0 23 1 2
+0 28 10 12
 1
 end_operator
 begin_operator
@@ -18136,8 +18136,8 @@ overcome grief expectation snickers saturn neptune
 1
 1 10
 2
-0 28 10 12
 0 23 2 3
+0 28 10 12
 1
 end_operator
 begin_operator
@@ -18145,8 +18145,8 @@ overcome grief intoxication bacon earth saturn
 1
 2 0
 2
-0 28 0 13
 0 26 3 0
+0 28 0 13
 1
 end_operator
 begin_operator
@@ -18154,8 +18154,8 @@ overcome grief intoxication bacon neptune mars
 1
 2 0
 2
-0 28 0 13
 0 26 1 2
+0 28 0 13
 1
 end_operator
 begin_operator
@@ -18163,8 +18163,8 @@ overcome grief intoxication bacon saturn neptune
 1
 2 0
 2
-0 28 0 13
 0 26 2 3
+0 28 0 13
 1
 end_operator
 begin_operator
@@ -18172,8 +18172,8 @@ overcome grief intoxication cantelope earth saturn
 1
 2 1
 2
-0 28 1 13
 0 26 3 0
+0 28 1 13
 1
 end_operator
 begin_operator
@@ -18181,8 +18181,8 @@ overcome grief intoxication cantelope neptune mars
 1
 2 1
 2
-0 28 1 13
 0 26 1 2
+0 28 1 13
 1
 end_operator
 begin_operator
@@ -18190,8 +18190,8 @@ overcome grief intoxication cantelope saturn neptune
 1
 2 1
 2
-0 28 1 13
 0 26 2 3
+0 28 1 13
 1
 end_operator
 begin_operator
@@ -18199,8 +18199,8 @@ overcome grief intoxication chicken earth saturn
 1
 2 2
 2
-0 28 2 13
 0 26 3 0
+0 28 2 13
 1
 end_operator
 begin_operator
@@ -18208,8 +18208,8 @@ overcome grief intoxication chicken neptune mars
 1
 2 2
 2
-0 28 2 13
 0 26 1 2
+0 28 2 13
 1
 end_operator
 begin_operator
@@ -18217,8 +18217,8 @@ overcome grief intoxication chicken saturn neptune
 1
 2 2
 2
-0 28 2 13
 0 26 2 3
+0 28 2 13
 1
 end_operator
 begin_operator
@@ -18226,8 +18226,8 @@ overcome grief intoxication chocolate earth saturn
 1
 2 3
 2
-0 28 3 13
 0 26 3 0
+0 28 3 13
 1
 end_operator
 begin_operator
@@ -18235,8 +18235,8 @@ overcome grief intoxication chocolate neptune mars
 1
 2 3
 2
-0 28 3 13
 0 26 1 2
+0 28 3 13
 1
 end_operator
 begin_operator
@@ -18244,8 +18244,8 @@ overcome grief intoxication chocolate saturn neptune
 1
 2 3
 2
-0 28 3 13
 0 26 2 3
+0 28 3 13
 1
 end_operator
 begin_operator
@@ -18253,8 +18253,8 @@ overcome grief intoxication grapefruit earth saturn
 1
 2 4
 2
-0 28 4 13
 0 26 3 0
+0 28 4 13
 1
 end_operator
 begin_operator
@@ -18262,8 +18262,8 @@ overcome grief intoxication grapefruit neptune mars
 1
 2 4
 2
-0 28 4 13
 0 26 1 2
+0 28 4 13
 1
 end_operator
 begin_operator
@@ -18271,8 +18271,8 @@ overcome grief intoxication grapefruit saturn neptune
 1
 2 4
 2
-0 28 4 13
 0 26 2 3
+0 28 4 13
 1
 end_operator
 begin_operator
@@ -18280,8 +18280,8 @@ overcome grief intoxication ham earth saturn
 1
 2 5
 2
-0 28 5 13
 0 26 3 0
+0 28 5 13
 1
 end_operator
 begin_operator
@@ -18289,8 +18289,8 @@ overcome grief intoxication ham neptune mars
 1
 2 5
 2
-0 28 5 13
 0 26 1 2
+0 28 5 13
 1
 end_operator
 begin_operator
@@ -18298,8 +18298,8 @@ overcome grief intoxication ham saturn neptune
 1
 2 5
 2
-0 28 5 13
 0 26 2 3
+0 28 5 13
 1
 end_operator
 begin_operator
@@ -18307,8 +18307,8 @@ overcome grief intoxication haroset earth saturn
 1
 2 6
 2
-0 28 6 13
 0 26 3 0
+0 28 6 13
 1
 end_operator
 begin_operator
@@ -18316,8 +18316,8 @@ overcome grief intoxication haroset neptune mars
 1
 2 6
 2
-0 28 6 13
 0 26 1 2
+0 28 6 13
 1
 end_operator
 begin_operator
@@ -18325,8 +18325,8 @@ overcome grief intoxication haroset saturn neptune
 1
 2 6
 2
-0 28 6 13
 0 26 2 3
+0 28 6 13
 1
 end_operator
 begin_operator
@@ -18334,8 +18334,8 @@ overcome grief intoxication lemon earth saturn
 1
 2 7
 2
-0 28 7 13
 0 26 3 0
+0 28 7 13
 1
 end_operator
 begin_operator
@@ -18343,8 +18343,8 @@ overcome grief intoxication lemon neptune mars
 1
 2 7
 2
-0 28 7 13
 0 26 1 2
+0 28 7 13
 1
 end_operator
 begin_operator
@@ -18352,8 +18352,8 @@ overcome grief intoxication lemon saturn neptune
 1
 2 7
 2
-0 28 7 13
 0 26 2 3
+0 28 7 13
 1
 end_operator
 begin_operator
@@ -18361,8 +18361,8 @@ overcome grief intoxication muffin earth saturn
 1
 2 8
 2
-0 28 8 13
 0 26 3 0
+0 28 8 13
 1
 end_operator
 begin_operator
@@ -18370,8 +18370,8 @@ overcome grief intoxication muffin neptune mars
 1
 2 8
 2
-0 28 8 13
 0 26 1 2
+0 28 8 13
 1
 end_operator
 begin_operator
@@ -18379,8 +18379,8 @@ overcome grief intoxication muffin saturn neptune
 1
 2 8
 2
-0 28 8 13
 0 26 2 3
+0 28 8 13
 1
 end_operator
 begin_operator
@@ -18388,8 +18388,8 @@ overcome grief intoxication pistachio earth saturn
 1
 2 9
 2
-0 28 9 13
 0 26 3 0
+0 28 9 13
 1
 end_operator
 begin_operator
@@ -18397,8 +18397,8 @@ overcome grief intoxication pistachio neptune mars
 1
 2 9
 2
-0 28 9 13
 0 26 1 2
+0 28 9 13
 1
 end_operator
 begin_operator
@@ -18406,8 +18406,8 @@ overcome grief intoxication pistachio saturn neptune
 1
 2 9
 2
-0 28 9 13
 0 26 2 3
+0 28 9 13
 1
 end_operator
 begin_operator
@@ -18415,8 +18415,8 @@ overcome grief intoxication snickers earth saturn
 1
 2 10
 2
-0 28 10 13
 0 26 3 0
+0 28 10 13
 1
 end_operator
 begin_operator
@@ -18424,8 +18424,8 @@ overcome grief intoxication snickers neptune mars
 1
 2 10
 2
-0 28 10 13
 0 26 1 2
+0 28 10 13
 1
 end_operator
 begin_operator
@@ -18433,8 +18433,8 @@ overcome grief intoxication snickers saturn neptune
 1
 2 10
 2
-0 28 10 13
 0 26 2 3
+0 28 10 13
 1
 end_operator
 begin_operator
@@ -18442,8 +18442,8 @@ overcome grief learning bacon earth saturn
 1
 3 0
 2
-0 28 0 14
 0 27 3 0
+0 28 0 14
 1
 end_operator
 begin_operator
@@ -18451,8 +18451,8 @@ overcome grief learning bacon neptune mars
 1
 3 0
 2
-0 28 0 14
 0 27 1 2
+0 28 0 14
 1
 end_operator
 begin_operator
@@ -18460,8 +18460,8 @@ overcome grief learning bacon saturn neptune
 1
 3 0
 2
-0 28 0 14
 0 27 2 3
+0 28 0 14
 1
 end_operator
 begin_operator
@@ -18469,8 +18469,8 @@ overcome grief learning cantelope earth saturn
 1
 3 1
 2
-0 28 1 14
 0 27 3 0
+0 28 1 14
 1
 end_operator
 begin_operator
@@ -18478,8 +18478,8 @@ overcome grief learning cantelope neptune mars
 1
 3 1
 2
-0 28 1 14
 0 27 1 2
+0 28 1 14
 1
 end_operator
 begin_operator
@@ -18487,8 +18487,8 @@ overcome grief learning cantelope saturn neptune
 1
 3 1
 2
-0 28 1 14
 0 27 2 3
+0 28 1 14
 1
 end_operator
 begin_operator
@@ -18496,8 +18496,8 @@ overcome grief learning chicken earth saturn
 1
 3 2
 2
-0 28 2 14
 0 27 3 0
+0 28 2 14
 1
 end_operator
 begin_operator
@@ -18505,8 +18505,8 @@ overcome grief learning chicken neptune mars
 1
 3 2
 2
-0 28 2 14
 0 27 1 2
+0 28 2 14
 1
 end_operator
 begin_operator
@@ -18514,8 +18514,8 @@ overcome grief learning chicken saturn neptune
 1
 3 2
 2
-0 28 2 14
 0 27 2 3
+0 28 2 14
 1
 end_operator
 begin_operator
@@ -18523,8 +18523,8 @@ overcome grief learning chocolate earth saturn
 1
 3 3
 2
-0 28 3 14
 0 27 3 0
+0 28 3 14
 1
 end_operator
 begin_operator
@@ -18532,8 +18532,8 @@ overcome grief learning chocolate neptune mars
 1
 3 3
 2
-0 28 3 14
 0 27 1 2
+0 28 3 14
 1
 end_operator
 begin_operator
@@ -18541,8 +18541,8 @@ overcome grief learning chocolate saturn neptune
 1
 3 3
 2
-0 28 3 14
 0 27 2 3
+0 28 3 14
 1
 end_operator
 begin_operator
@@ -18550,8 +18550,8 @@ overcome grief learning grapefruit earth saturn
 1
 3 4
 2
-0 28 4 14
 0 27 3 0
+0 28 4 14
 1
 end_operator
 begin_operator
@@ -18559,8 +18559,8 @@ overcome grief learning grapefruit neptune mars
 1
 3 4
 2
-0 28 4 14
 0 27 1 2
+0 28 4 14
 1
 end_operator
 begin_operator
@@ -18568,8 +18568,8 @@ overcome grief learning grapefruit saturn neptune
 1
 3 4
 2
-0 28 4 14
 0 27 2 3
+0 28 4 14
 1
 end_operator
 begin_operator
@@ -18577,8 +18577,8 @@ overcome grief learning ham earth saturn
 1
 3 5
 2
-0 28 5 14
 0 27 3 0
+0 28 5 14
 1
 end_operator
 begin_operator
@@ -18586,8 +18586,8 @@ overcome grief learning ham neptune mars
 1
 3 5
 2
-0 28 5 14
 0 27 1 2
+0 28 5 14
 1
 end_operator
 begin_operator
@@ -18595,8 +18595,8 @@ overcome grief learning ham saturn neptune
 1
 3 5
 2
-0 28 5 14
 0 27 2 3
+0 28 5 14
 1
 end_operator
 begin_operator
@@ -18604,8 +18604,8 @@ overcome grief learning haroset earth saturn
 1
 3 6
 2
-0 28 6 14
 0 27 3 0
+0 28 6 14
 1
 end_operator
 begin_operator
@@ -18613,8 +18613,8 @@ overcome grief learning haroset neptune mars
 1
 3 6
 2
-0 28 6 14
 0 27 1 2
+0 28 6 14
 1
 end_operator
 begin_operator
@@ -18622,8 +18622,8 @@ overcome grief learning haroset saturn neptune
 1
 3 6
 2
-0 28 6 14
 0 27 2 3
+0 28 6 14
 1
 end_operator
 begin_operator
@@ -18631,8 +18631,8 @@ overcome grief learning lemon earth saturn
 1
 3 7
 2
-0 28 7 14
 0 27 3 0
+0 28 7 14
 1
 end_operator
 begin_operator
@@ -18640,8 +18640,8 @@ overcome grief learning lemon neptune mars
 1
 3 7
 2
-0 28 7 14
 0 27 1 2
+0 28 7 14
 1
 end_operator
 begin_operator
@@ -18649,8 +18649,8 @@ overcome grief learning lemon saturn neptune
 1
 3 7
 2
-0 28 7 14
 0 27 2 3
+0 28 7 14
 1
 end_operator
 begin_operator
@@ -18658,8 +18658,8 @@ overcome grief learning muffin earth saturn
 1
 3 8
 2
-0 28 8 14
 0 27 3 0
+0 28 8 14
 1
 end_operator
 begin_operator
@@ -18667,8 +18667,8 @@ overcome grief learning muffin neptune mars
 1
 3 8
 2
-0 28 8 14
 0 27 1 2
+0 28 8 14
 1
 end_operator
 begin_operator
@@ -18676,8 +18676,8 @@ overcome grief learning muffin saturn neptune
 1
 3 8
 2
-0 28 8 14
 0 27 2 3
+0 28 8 14
 1
 end_operator
 begin_operator
@@ -18685,8 +18685,8 @@ overcome grief learning pistachio earth saturn
 1
 3 9
 2
-0 28 9 14
 0 27 3 0
+0 28 9 14
 1
 end_operator
 begin_operator
@@ -18694,8 +18694,8 @@ overcome grief learning pistachio neptune mars
 1
 3 9
 2
-0 28 9 14
 0 27 1 2
+0 28 9 14
 1
 end_operator
 begin_operator
@@ -18703,8 +18703,8 @@ overcome grief learning pistachio saturn neptune
 1
 3 9
 2
-0 28 9 14
 0 27 2 3
+0 28 9 14
 1
 end_operator
 begin_operator
@@ -18712,8 +18712,8 @@ overcome grief learning snickers earth saturn
 1
 3 10
 2
-0 28 10 14
 0 27 3 0
+0 28 10 14
 1
 end_operator
 begin_operator
@@ -18721,8 +18721,8 @@ overcome grief learning snickers neptune mars
 1
 3 10
 2
-0 28 10 14
 0 27 1 2
+0 28 10 14
 1
 end_operator
 begin_operator
@@ -18730,8 +18730,8 @@ overcome grief learning snickers saturn neptune
 1
 3 10
 2
-0 28 10 14
 0 27 2 3
+0 28 10 14
 1
 end_operator
 begin_operator
@@ -19927,8 +19927,8 @@ overcome hangover aesthetics bacon earth saturn
 1
 0 0
 2
-0 29 0 11
 0 22 3 0
+0 29 0 11
 1
 end_operator
 begin_operator
@@ -19936,8 +19936,8 @@ overcome hangover aesthetics bacon neptune mars
 1
 0 0
 2
-0 29 0 11
 0 22 1 2
+0 29 0 11
 1
 end_operator
 begin_operator
@@ -19945,8 +19945,8 @@ overcome hangover aesthetics bacon saturn neptune
 1
 0 0
 2
-0 29 0 11
 0 22 2 3
+0 29 0 11
 1
 end_operator
 begin_operator
@@ -19954,8 +19954,8 @@ overcome hangover aesthetics cantelope earth saturn
 1
 0 1
 2
-0 29 1 11
 0 22 3 0
+0 29 1 11
 1
 end_operator
 begin_operator
@@ -19963,8 +19963,8 @@ overcome hangover aesthetics cantelope neptune mars
 1
 0 1
 2
-0 29 1 11
 0 22 1 2
+0 29 1 11
 1
 end_operator
 begin_operator
@@ -19972,8 +19972,8 @@ overcome hangover aesthetics cantelope saturn neptune
 1
 0 1
 2
-0 29 1 11
 0 22 2 3
+0 29 1 11
 1
 end_operator
 begin_operator
@@ -19981,8 +19981,8 @@ overcome hangover aesthetics chicken earth saturn
 1
 0 2
 2
-0 29 2 11
 0 22 3 0
+0 29 2 11
 1
 end_operator
 begin_operator
@@ -19990,8 +19990,8 @@ overcome hangover aesthetics chicken neptune mars
 1
 0 2
 2
-0 29 2 11
 0 22 1 2
+0 29 2 11
 1
 end_operator
 begin_operator
@@ -19999,8 +19999,8 @@ overcome hangover aesthetics chicken saturn neptune
 1
 0 2
 2
-0 29 2 11
 0 22 2 3
+0 29 2 11
 1
 end_operator
 begin_operator
@@ -20008,8 +20008,8 @@ overcome hangover aesthetics chocolate earth saturn
 1
 0 3
 2
-0 29 3 11
 0 22 3 0
+0 29 3 11
 1
 end_operator
 begin_operator
@@ -20017,8 +20017,8 @@ overcome hangover aesthetics chocolate neptune mars
 1
 0 3
 2
-0 29 3 11
 0 22 1 2
+0 29 3 11
 1
 end_operator
 begin_operator
@@ -20026,8 +20026,8 @@ overcome hangover aesthetics chocolate saturn neptune
 1
 0 3
 2
-0 29 3 11
 0 22 2 3
+0 29 3 11
 1
 end_operator
 begin_operator
@@ -20035,8 +20035,8 @@ overcome hangover aesthetics grapefruit earth saturn
 1
 0 4
 2
-0 29 4 11
 0 22 3 0
+0 29 4 11
 1
 end_operator
 begin_operator
@@ -20044,8 +20044,8 @@ overcome hangover aesthetics grapefruit neptune mars
 1
 0 4
 2
-0 29 4 11
 0 22 1 2
+0 29 4 11
 1
 end_operator
 begin_operator
@@ -20053,8 +20053,8 @@ overcome hangover aesthetics grapefruit saturn neptune
 1
 0 4
 2
-0 29 4 11
 0 22 2 3
+0 29 4 11
 1
 end_operator
 begin_operator
@@ -20062,8 +20062,8 @@ overcome hangover aesthetics ham earth saturn
 1
 0 5
 2
-0 29 5 11
 0 22 3 0
+0 29 5 11
 1
 end_operator
 begin_operator
@@ -20071,8 +20071,8 @@ overcome hangover aesthetics ham neptune mars
 1
 0 5
 2
-0 29 5 11
 0 22 1 2
+0 29 5 11
 1
 end_operator
 begin_operator
@@ -20080,8 +20080,8 @@ overcome hangover aesthetics ham saturn neptune
 1
 0 5
 2
-0 29 5 11
 0 22 2 3
+0 29 5 11
 1
 end_operator
 begin_operator
@@ -20089,8 +20089,8 @@ overcome hangover aesthetics haroset earth saturn
 1
 0 6
 2
-0 29 6 11
 0 22 3 0
+0 29 6 11
 1
 end_operator
 begin_operator
@@ -20098,8 +20098,8 @@ overcome hangover aesthetics haroset neptune mars
 1
 0 6
 2
-0 29 6 11
 0 22 1 2
+0 29 6 11
 1
 end_operator
 begin_operator
@@ -20107,8 +20107,8 @@ overcome hangover aesthetics haroset saturn neptune
 1
 0 6
 2
-0 29 6 11
 0 22 2 3
+0 29 6 11
 1
 end_operator
 begin_operator
@@ -20116,8 +20116,8 @@ overcome hangover aesthetics lemon earth saturn
 1
 0 7
 2
-0 29 7 11
 0 22 3 0
+0 29 7 11
 1
 end_operator
 begin_operator
@@ -20125,8 +20125,8 @@ overcome hangover aesthetics lemon neptune mars
 1
 0 7
 2
-0 29 7 11
 0 22 1 2
+0 29 7 11
 1
 end_operator
 begin_operator
@@ -20134,8 +20134,8 @@ overcome hangover aesthetics lemon saturn neptune
 1
 0 7
 2
-0 29 7 11
 0 22 2 3
+0 29 7 11
 1
 end_operator
 begin_operator
@@ -20143,8 +20143,8 @@ overcome hangover aesthetics muffin earth saturn
 1
 0 8
 2
-0 29 8 11
 0 22 3 0
+0 29 8 11
 1
 end_operator
 begin_operator
@@ -20152,8 +20152,8 @@ overcome hangover aesthetics muffin neptune mars
 1
 0 8
 2
-0 29 8 11
 0 22 1 2
+0 29 8 11
 1
 end_operator
 begin_operator
@@ -20161,8 +20161,8 @@ overcome hangover aesthetics muffin saturn neptune
 1
 0 8
 2
-0 29 8 11
 0 22 2 3
+0 29 8 11
 1
 end_operator
 begin_operator
@@ -20170,8 +20170,8 @@ overcome hangover aesthetics pistachio earth saturn
 1
 0 9
 2
-0 29 9 11
 0 22 3 0
+0 29 9 11
 1
 end_operator
 begin_operator
@@ -20179,8 +20179,8 @@ overcome hangover aesthetics pistachio neptune mars
 1
 0 9
 2
-0 29 9 11
 0 22 1 2
+0 29 9 11
 1
 end_operator
 begin_operator
@@ -20188,8 +20188,8 @@ overcome hangover aesthetics pistachio saturn neptune
 1
 0 9
 2
-0 29 9 11
 0 22 2 3
+0 29 9 11
 1
 end_operator
 begin_operator
@@ -20197,8 +20197,8 @@ overcome hangover aesthetics snickers earth saturn
 1
 0 10
 2
-0 29 10 11
 0 22 3 0
+0 29 10 11
 1
 end_operator
 begin_operator
@@ -20206,8 +20206,8 @@ overcome hangover aesthetics snickers neptune mars
 1
 0 10
 2
-0 29 10 11
 0 22 1 2
+0 29 10 11
 1
 end_operator
 begin_operator
@@ -20215,8 +20215,8 @@ overcome hangover aesthetics snickers saturn neptune
 1
 0 10
 2
-0 29 10 11
 0 22 2 3
+0 29 10 11
 1
 end_operator
 begin_operator
@@ -20224,8 +20224,8 @@ overcome hangover expectation bacon earth saturn
 1
 1 0
 2
-0 29 0 12
 0 23 3 0
+0 29 0 12
 1
 end_operator
 begin_operator
@@ -20233,8 +20233,8 @@ overcome hangover expectation bacon neptune mars
 1
 1 0
 2
-0 29 0 12
 0 23 1 2
+0 29 0 12
 1
 end_operator
 begin_operator
@@ -20242,8 +20242,8 @@ overcome hangover expectation bacon saturn neptune
 1
 1 0
 2
-0 29 0 12
 0 23 2 3
+0 29 0 12
 1
 end_operator
 begin_operator
@@ -20251,8 +20251,8 @@ overcome hangover expectation cantelope earth saturn
 1
 1 1
 2
-0 29 1 12
 0 23 3 0
+0 29 1 12
 1
 end_operator
 begin_operator
@@ -20260,8 +20260,8 @@ overcome hangover expectation cantelope neptune mars
 1
 1 1
 2
-0 29 1 12
 0 23 1 2
+0 29 1 12
 1
 end_operator
 begin_operator
@@ -20269,8 +20269,8 @@ overcome hangover expectation cantelope saturn neptune
 1
 1 1
 2
-0 29 1 12
 0 23 2 3
+0 29 1 12
 1
 end_operator
 begin_operator
@@ -20278,8 +20278,8 @@ overcome hangover expectation chicken earth saturn
 1
 1 2
 2
-0 29 2 12
 0 23 3 0
+0 29 2 12
 1
 end_operator
 begin_operator
@@ -20287,8 +20287,8 @@ overcome hangover expectation chicken neptune mars
 1
 1 2
 2
-0 29 2 12
 0 23 1 2
+0 29 2 12
 1
 end_operator
 begin_operator
@@ -20296,8 +20296,8 @@ overcome hangover expectation chicken saturn neptune
 1
 1 2
 2
-0 29 2 12
 0 23 2 3
+0 29 2 12
 1
 end_operator
 begin_operator
@@ -20305,8 +20305,8 @@ overcome hangover expectation chocolate earth saturn
 1
 1 3
 2
-0 29 3 12
 0 23 3 0
+0 29 3 12
 1
 end_operator
 begin_operator
@@ -20314,8 +20314,8 @@ overcome hangover expectation chocolate neptune mars
 1
 1 3
 2
-0 29 3 12
 0 23 1 2
+0 29 3 12
 1
 end_operator
 begin_operator
@@ -20323,8 +20323,8 @@ overcome hangover expectation chocolate saturn neptune
 1
 1 3
 2
-0 29 3 12
 0 23 2 3
+0 29 3 12
 1
 end_operator
 begin_operator
@@ -20332,8 +20332,8 @@ overcome hangover expectation grapefruit earth saturn
 1
 1 4
 2
-0 29 4 12
 0 23 3 0
+0 29 4 12
 1
 end_operator
 begin_operator
@@ -20341,8 +20341,8 @@ overcome hangover expectation grapefruit neptune mars
 1
 1 4
 2
-0 29 4 12
 0 23 1 2
+0 29 4 12
 1
 end_operator
 begin_operator
@@ -20350,8 +20350,8 @@ overcome hangover expectation grapefruit saturn neptune
 1
 1 4
 2
-0 29 4 12
 0 23 2 3
+0 29 4 12
 1
 end_operator
 begin_operator
@@ -20359,8 +20359,8 @@ overcome hangover expectation ham earth saturn
 1
 1 5
 2
-0 29 5 12
 0 23 3 0
+0 29 5 12
 1
 end_operator
 begin_operator
@@ -20368,8 +20368,8 @@ overcome hangover expectation ham neptune mars
 1
 1 5
 2
-0 29 5 12
 0 23 1 2
+0 29 5 12
 1
 end_operator
 begin_operator
@@ -20377,8 +20377,8 @@ overcome hangover expectation ham saturn neptune
 1
 1 5
 2
-0 29 5 12
 0 23 2 3
+0 29 5 12
 1
 end_operator
 begin_operator
@@ -20386,8 +20386,8 @@ overcome hangover expectation haroset earth saturn
 1
 1 6
 2
-0 29 6 12
 0 23 3 0
+0 29 6 12
 1
 end_operator
 begin_operator
@@ -20395,8 +20395,8 @@ overcome hangover expectation haroset neptune mars
 1
 1 6
 2
-0 29 6 12
 0 23 1 2
+0 29 6 12
 1
 end_operator
 begin_operator
@@ -20404,8 +20404,8 @@ overcome hangover expectation haroset saturn neptune
 1
 1 6
 2
-0 29 6 12
 0 23 2 3
+0 29 6 12
 1
 end_operator
 begin_operator
@@ -20413,8 +20413,8 @@ overcome hangover expectation lemon earth saturn
 1
 1 7
 2
-0 29 7 12
 0 23 3 0
+0 29 7 12
 1
 end_operator
 begin_operator
@@ -20422,8 +20422,8 @@ overcome hangover expectation lemon neptune mars
 1
 1 7
 2
-0 29 7 12
 0 23 1 2
+0 29 7 12
 1
 end_operator
 begin_operator
@@ -20431,8 +20431,8 @@ overcome hangover expectation lemon saturn neptune
 1
 1 7
 2
-0 29 7 12
 0 23 2 3
+0 29 7 12
 1
 end_operator
 begin_operator
@@ -20440,8 +20440,8 @@ overcome hangover expectation muffin earth saturn
 1
 1 8
 2
-0 29 8 12
 0 23 3 0
+0 29 8 12
 1
 end_operator
 begin_operator
@@ -20449,8 +20449,8 @@ overcome hangover expectation muffin neptune mars
 1
 1 8
 2
-0 29 8 12
 0 23 1 2
+0 29 8 12
 1
 end_operator
 begin_operator
@@ -20458,8 +20458,8 @@ overcome hangover expectation muffin saturn neptune
 1
 1 8
 2
-0 29 8 12
 0 23 2 3
+0 29 8 12
 1
 end_operator
 begin_operator
@@ -20467,8 +20467,8 @@ overcome hangover expectation pistachio earth saturn
 1
 1 9
 2
-0 29 9 12
 0 23 3 0
+0 29 9 12
 1
 end_operator
 begin_operator
@@ -20476,8 +20476,8 @@ overcome hangover expectation pistachio neptune mars
 1
 1 9
 2
-0 29 9 12
 0 23 1 2
+0 29 9 12
 1
 end_operator
 begin_operator
@@ -20485,8 +20485,8 @@ overcome hangover expectation pistachio saturn neptune
 1
 1 9
 2
-0 29 9 12
 0 23 2 3
+0 29 9 12
 1
 end_operator
 begin_operator
@@ -20494,8 +20494,8 @@ overcome hangover expectation snickers earth saturn
 1
 1 10
 2
-0 29 10 12
 0 23 3 0
+0 29 10 12
 1
 end_operator
 begin_operator
@@ -20503,8 +20503,8 @@ overcome hangover expectation snickers neptune mars
 1
 1 10
 2
-0 29 10 12
 0 23 1 2
+0 29 10 12
 1
 end_operator
 begin_operator
@@ -20512,8 +20512,8 @@ overcome hangover expectation snickers saturn neptune
 1
 1 10
 2
-0 29 10 12
 0 23 2 3
+0 29 10 12
 1
 end_operator
 begin_operator
@@ -20521,8 +20521,8 @@ overcome hangover intoxication bacon earth saturn
 1
 2 0
 2
-0 29 0 13
 0 26 3 0
+0 29 0 13
 1
 end_operator
 begin_operator
@@ -20530,8 +20530,8 @@ overcome hangover intoxication bacon neptune mars
 1
 2 0
 2
-0 29 0 13
 0 26 1 2
+0 29 0 13
 1
 end_operator
 begin_operator
@@ -20539,8 +20539,8 @@ overcome hangover intoxication bacon saturn neptune
 1
 2 0
 2
-0 29 0 13
 0 26 2 3
+0 29 0 13
 1
 end_operator
 begin_operator
@@ -20548,8 +20548,8 @@ overcome hangover intoxication cantelope earth saturn
 1
 2 1
 2
-0 29 1 13
 0 26 3 0
+0 29 1 13
 1
 end_operator
 begin_operator
@@ -20557,8 +20557,8 @@ overcome hangover intoxication cantelope neptune mars
 1
 2 1
 2
-0 29 1 13
 0 26 1 2
+0 29 1 13
 1
 end_operator
 begin_operator
@@ -20566,8 +20566,8 @@ overcome hangover intoxication cantelope saturn neptune
 1
 2 1
 2
-0 29 1 13
 0 26 2 3
+0 29 1 13
 1
 end_operator
 begin_operator
@@ -20575,8 +20575,8 @@ overcome hangover intoxication chicken earth saturn
 1
 2 2
 2
-0 29 2 13
 0 26 3 0
+0 29 2 13
 1
 end_operator
 begin_operator
@@ -20584,8 +20584,8 @@ overcome hangover intoxication chicken neptune mars
 1
 2 2
 2
-0 29 2 13
 0 26 1 2
+0 29 2 13
 1
 end_operator
 begin_operator
@@ -20593,8 +20593,8 @@ overcome hangover intoxication chicken saturn neptune
 1
 2 2
 2
-0 29 2 13
 0 26 2 3
+0 29 2 13
 1
 end_operator
 begin_operator
@@ -20602,8 +20602,8 @@ overcome hangover intoxication chocolate earth saturn
 1
 2 3
 2
-0 29 3 13
 0 26 3 0
+0 29 3 13
 1
 end_operator
 begin_operator
@@ -20611,8 +20611,8 @@ overcome hangover intoxication chocolate neptune mars
 1
 2 3
 2
-0 29 3 13
 0 26 1 2
+0 29 3 13
 1
 end_operator
 begin_operator
@@ -20620,8 +20620,8 @@ overcome hangover intoxication chocolate saturn neptune
 1
 2 3
 2
-0 29 3 13
 0 26 2 3
+0 29 3 13
 1
 end_operator
 begin_operator
@@ -20629,8 +20629,8 @@ overcome hangover intoxication grapefruit earth saturn
 1
 2 4
 2
-0 29 4 13
 0 26 3 0
+0 29 4 13
 1
 end_operator
 begin_operator
@@ -20638,8 +20638,8 @@ overcome hangover intoxication grapefruit neptune mars
 1
 2 4
 2
-0 29 4 13
 0 26 1 2
+0 29 4 13
 1
 end_operator
 begin_operator
@@ -20647,8 +20647,8 @@ overcome hangover intoxication grapefruit saturn neptune
 1
 2 4
 2
-0 29 4 13
 0 26 2 3
+0 29 4 13
 1
 end_operator
 begin_operator
@@ -20656,8 +20656,8 @@ overcome hangover intoxication ham earth saturn
 1
 2 5
 2
-0 29 5 13
 0 26 3 0
+0 29 5 13
 1
 end_operator
 begin_operator
@@ -20665,8 +20665,8 @@ overcome hangover intoxication ham neptune mars
 1
 2 5
 2
-0 29 5 13
 0 26 1 2
+0 29 5 13
 1
 end_operator
 begin_operator
@@ -20674,8 +20674,8 @@ overcome hangover intoxication ham saturn neptune
 1
 2 5
 2
-0 29 5 13
 0 26 2 3
+0 29 5 13
 1
 end_operator
 begin_operator
@@ -20683,8 +20683,8 @@ overcome hangover intoxication haroset earth saturn
 1
 2 6
 2
-0 29 6 13
 0 26 3 0
+0 29 6 13
 1
 end_operator
 begin_operator
@@ -20692,8 +20692,8 @@ overcome hangover intoxication haroset neptune mars
 1
 2 6
 2
-0 29 6 13
 0 26 1 2
+0 29 6 13
 1
 end_operator
 begin_operator
@@ -20701,8 +20701,8 @@ overcome hangover intoxication haroset saturn neptune
 1
 2 6
 2
-0 29 6 13
 0 26 2 3
+0 29 6 13
 1
 end_operator
 begin_operator
@@ -20710,8 +20710,8 @@ overcome hangover intoxication lemon earth saturn
 1
 2 7
 2
-0 29 7 13
 0 26 3 0
+0 29 7 13
 1
 end_operator
 begin_operator
@@ -20719,8 +20719,8 @@ overcome hangover intoxication lemon neptune mars
 1
 2 7
 2
-0 29 7 13
 0 26 1 2
+0 29 7 13
 1
 end_operator
 begin_operator
@@ -20728,8 +20728,8 @@ overcome hangover intoxication lemon saturn neptune
 1
 2 7
 2
-0 29 7 13
 0 26 2 3
+0 29 7 13
 1
 end_operator
 begin_operator
@@ -20737,8 +20737,8 @@ overcome hangover intoxication muffin earth saturn
 1
 2 8
 2
-0 29 8 13
 0 26 3 0
+0 29 8 13
 1
 end_operator
 begin_operator
@@ -20746,8 +20746,8 @@ overcome hangover intoxication muffin neptune mars
 1
 2 8
 2
-0 29 8 13
 0 26 1 2
+0 29 8 13
 1
 end_operator
 begin_operator
@@ -20755,8 +20755,8 @@ overcome hangover intoxication muffin saturn neptune
 1
 2 8
 2
-0 29 8 13
 0 26 2 3
+0 29 8 13
 1
 end_operator
 begin_operator
@@ -20764,8 +20764,8 @@ overcome hangover intoxication pistachio earth saturn
 1
 2 9
 2
-0 29 9 13
 0 26 3 0
+0 29 9 13
 1
 end_operator
 begin_operator
@@ -20773,8 +20773,8 @@ overcome hangover intoxication pistachio neptune mars
 1
 2 9
 2
-0 29 9 13
 0 26 1 2
+0 29 9 13
 1
 end_operator
 begin_operator
@@ -20782,8 +20782,8 @@ overcome hangover intoxication pistachio saturn neptune
 1
 2 9
 2
-0 29 9 13
 0 26 2 3
+0 29 9 13
 1
 end_operator
 begin_operator
@@ -20791,8 +20791,8 @@ overcome hangover intoxication snickers earth saturn
 1
 2 10
 2
-0 29 10 13
 0 26 3 0
+0 29 10 13
 1
 end_operator
 begin_operator
@@ -20800,8 +20800,8 @@ overcome hangover intoxication snickers neptune mars
 1
 2 10
 2
-0 29 10 13
 0 26 1 2
+0 29 10 13
 1
 end_operator
 begin_operator
@@ -20809,8 +20809,8 @@ overcome hangover intoxication snickers saturn neptune
 1
 2 10
 2
-0 29 10 13
 0 26 2 3
+0 29 10 13
 1
 end_operator
 begin_operator
@@ -20818,8 +20818,8 @@ overcome hangover learning bacon earth saturn
 1
 3 0
 2
-0 29 0 14
 0 27 3 0
+0 29 0 14
 1
 end_operator
 begin_operator
@@ -20827,8 +20827,8 @@ overcome hangover learning bacon neptune mars
 1
 3 0
 2
-0 29 0 14
 0 27 1 2
+0 29 0 14
 1
 end_operator
 begin_operator
@@ -20836,8 +20836,8 @@ overcome hangover learning bacon saturn neptune
 1
 3 0
 2
-0 29 0 14
 0 27 2 3
+0 29 0 14
 1
 end_operator
 begin_operator
@@ -20845,8 +20845,8 @@ overcome hangover learning cantelope earth saturn
 1
 3 1
 2
-0 29 1 14
 0 27 3 0
+0 29 1 14
 1
 end_operator
 begin_operator
@@ -20854,8 +20854,8 @@ overcome hangover learning cantelope neptune mars
 1
 3 1
 2
-0 29 1 14
 0 27 1 2
+0 29 1 14
 1
 end_operator
 begin_operator
@@ -20863,8 +20863,8 @@ overcome hangover learning cantelope saturn neptune
 1
 3 1
 2
-0 29 1 14
 0 27 2 3
+0 29 1 14
 1
 end_operator
 begin_operator
@@ -20872,8 +20872,8 @@ overcome hangover learning chicken earth saturn
 1
 3 2
 2
-0 29 2 14
 0 27 3 0
+0 29 2 14
 1
 end_operator
 begin_operator
@@ -20881,8 +20881,8 @@ overcome hangover learning chicken neptune mars
 1
 3 2
 2
-0 29 2 14
 0 27 1 2
+0 29 2 14
 1
 end_operator
 begin_operator
@@ -20890,8 +20890,8 @@ overcome hangover learning chicken saturn neptune
 1
 3 2
 2
-0 29 2 14
 0 27 2 3
+0 29 2 14
 1
 end_operator
 begin_operator
@@ -20899,8 +20899,8 @@ overcome hangover learning chocolate earth saturn
 1
 3 3
 2
-0 29 3 14
 0 27 3 0
+0 29 3 14
 1
 end_operator
 begin_operator
@@ -20908,8 +20908,8 @@ overcome hangover learning chocolate neptune mars
 1
 3 3
 2
-0 29 3 14
 0 27 1 2
+0 29 3 14
 1
 end_operator
 begin_operator
@@ -20917,8 +20917,8 @@ overcome hangover learning chocolate saturn neptune
 1
 3 3
 2
-0 29 3 14
 0 27 2 3
+0 29 3 14
 1
 end_operator
 begin_operator
@@ -20926,8 +20926,8 @@ overcome hangover learning grapefruit earth saturn
 1
 3 4
 2
-0 29 4 14
 0 27 3 0
+0 29 4 14
 1
 end_operator
 begin_operator
@@ -20935,8 +20935,8 @@ overcome hangover learning grapefruit neptune mars
 1
 3 4
 2
-0 29 4 14
 0 27 1 2
+0 29 4 14
 1
 end_operator
 begin_operator
@@ -20944,8 +20944,8 @@ overcome hangover learning grapefruit saturn neptune
 1
 3 4
 2
-0 29 4 14
 0 27 2 3
+0 29 4 14
 1
 end_operator
 begin_operator
@@ -20953,8 +20953,8 @@ overcome hangover learning ham earth saturn
 1
 3 5
 2
-0 29 5 14
 0 27 3 0
+0 29 5 14
 1
 end_operator
 begin_operator
@@ -20962,8 +20962,8 @@ overcome hangover learning ham neptune mars
 1
 3 5
 2
-0 29 5 14
 0 27 1 2
+0 29 5 14
 1
 end_operator
 begin_operator
@@ -20971,8 +20971,8 @@ overcome hangover learning ham saturn neptune
 1
 3 5
 2
-0 29 5 14
 0 27 2 3
+0 29 5 14
 1
 end_operator
 begin_operator
@@ -20980,8 +20980,8 @@ overcome hangover learning haroset earth saturn
 1
 3 6
 2
-0 29 6 14
 0 27 3 0
+0 29 6 14
 1
 end_operator
 begin_operator
@@ -20989,8 +20989,8 @@ overcome hangover learning haroset neptune mars
 1
 3 6
 2
-0 29 6 14
 0 27 1 2
+0 29 6 14
 1
 end_operator
 begin_operator
@@ -20998,8 +20998,8 @@ overcome hangover learning haroset saturn neptune
 1
 3 6
 2
-0 29 6 14
 0 27 2 3
+0 29 6 14
 1
 end_operator
 begin_operator
@@ -21007,8 +21007,8 @@ overcome hangover learning lemon earth saturn
 1
 3 7
 2
-0 29 7 14
 0 27 3 0
+0 29 7 14
 1
 end_operator
 begin_operator
@@ -21016,8 +21016,8 @@ overcome hangover learning lemon neptune mars
 1
 3 7
 2
-0 29 7 14
 0 27 1 2
+0 29 7 14
 1
 end_operator
 begin_operator
@@ -21025,8 +21025,8 @@ overcome hangover learning lemon saturn neptune
 1
 3 7
 2
-0 29 7 14
 0 27 2 3
+0 29 7 14
 1
 end_operator
 begin_operator
@@ -21034,8 +21034,8 @@ overcome hangover learning muffin earth saturn
 1
 3 8
 2
-0 29 8 14
 0 27 3 0
+0 29 8 14
 1
 end_operator
 begin_operator
@@ -21043,8 +21043,8 @@ overcome hangover learning muffin neptune mars
 1
 3 8
 2
-0 29 8 14
 0 27 1 2
+0 29 8 14
 1
 end_operator
 begin_operator
@@ -21052,8 +21052,8 @@ overcome hangover learning muffin saturn neptune
 1
 3 8
 2
-0 29 8 14
 0 27 2 3
+0 29 8 14
 1
 end_operator
 begin_operator
@@ -21061,8 +21061,8 @@ overcome hangover learning pistachio earth saturn
 1
 3 9
 2
-0 29 9 14
 0 27 3 0
+0 29 9 14
 1
 end_operator
 begin_operator
@@ -21070,8 +21070,8 @@ overcome hangover learning pistachio neptune mars
 1
 3 9
 2
-0 29 9 14
 0 27 1 2
+0 29 9 14
 1
 end_operator
 begin_operator
@@ -21079,8 +21079,8 @@ overcome hangover learning pistachio saturn neptune
 1
 3 9
 2
-0 29 9 14
 0 27 2 3
+0 29 9 14
 1
 end_operator
 begin_operator
@@ -21088,8 +21088,8 @@ overcome hangover learning snickers earth saturn
 1
 3 10
 2
-0 29 10 14
 0 27 3 0
+0 29 10 14
 1
 end_operator
 begin_operator
@@ -21097,8 +21097,8 @@ overcome hangover learning snickers neptune mars
 1
 3 10
 2
-0 29 10 14
 0 27 1 2
+0 29 10 14
 1
 end_operator
 begin_operator
@@ -21106,8 +21106,8 @@ overcome hangover learning snickers saturn neptune
 1
 3 10
 2
-0 29 10 14
 0 27 2 3
+0 29 10 14
 1
 end_operator
 begin_operator
@@ -22303,8 +22303,8 @@ overcome loneliness aesthetics bacon earth saturn
 1
 0 0
 2
-0 32 0 11
 0 22 3 0
+0 32 0 11
 1
 end_operator
 begin_operator
@@ -22312,8 +22312,8 @@ overcome loneliness aesthetics bacon neptune mars
 1
 0 0
 2
-0 32 0 11
 0 22 1 2
+0 32 0 11
 1
 end_operator
 begin_operator
@@ -22321,8 +22321,8 @@ overcome loneliness aesthetics bacon saturn neptune
 1
 0 0
 2
-0 32 0 11
 0 22 2 3
+0 32 0 11
 1
 end_operator
 begin_operator
@@ -22330,8 +22330,8 @@ overcome loneliness aesthetics cantelope earth saturn
 1
 0 1
 2
-0 32 1 11
 0 22 3 0
+0 32 1 11
 1
 end_operator
 begin_operator
@@ -22339,8 +22339,8 @@ overcome loneliness aesthetics cantelope neptune mars
 1
 0 1
 2
-0 32 1 11
 0 22 1 2
+0 32 1 11
 1
 end_operator
 begin_operator
@@ -22348,8 +22348,8 @@ overcome loneliness aesthetics cantelope saturn neptune
 1
 0 1
 2
-0 32 1 11
 0 22 2 3
+0 32 1 11
 1
 end_operator
 begin_operator
@@ -22357,8 +22357,8 @@ overcome loneliness aesthetics chicken earth saturn
 1
 0 2
 2
-0 32 2 11
 0 22 3 0
+0 32 2 11
 1
 end_operator
 begin_operator
@@ -22366,8 +22366,8 @@ overcome loneliness aesthetics chicken neptune mars
 1
 0 2
 2
-0 32 2 11
 0 22 1 2
+0 32 2 11
 1
 end_operator
 begin_operator
@@ -22375,8 +22375,8 @@ overcome loneliness aesthetics chicken saturn neptune
 1
 0 2
 2
-0 32 2 11
 0 22 2 3
+0 32 2 11
 1
 end_operator
 begin_operator
@@ -22384,8 +22384,8 @@ overcome loneliness aesthetics chocolate earth saturn
 1
 0 3
 2
-0 32 3 11
 0 22 3 0
+0 32 3 11
 1
 end_operator
 begin_operator
@@ -22393,8 +22393,8 @@ overcome loneliness aesthetics chocolate neptune mars
 1
 0 3
 2
-0 32 3 11
 0 22 1 2
+0 32 3 11
 1
 end_operator
 begin_operator
@@ -22402,8 +22402,8 @@ overcome loneliness aesthetics chocolate saturn neptune
 1
 0 3
 2
-0 32 3 11
 0 22 2 3
+0 32 3 11
 1
 end_operator
 begin_operator
@@ -22411,8 +22411,8 @@ overcome loneliness aesthetics grapefruit earth saturn
 1
 0 4
 2
-0 32 4 11
 0 22 3 0
+0 32 4 11
 1
 end_operator
 begin_operator
@@ -22420,8 +22420,8 @@ overcome loneliness aesthetics grapefruit neptune mars
 1
 0 4
 2
-0 32 4 11
 0 22 1 2
+0 32 4 11
 1
 end_operator
 begin_operator
@@ -22429,8 +22429,8 @@ overcome loneliness aesthetics grapefruit saturn neptune
 1
 0 4
 2
-0 32 4 11
 0 22 2 3
+0 32 4 11
 1
 end_operator
 begin_operator
@@ -22438,8 +22438,8 @@ overcome loneliness aesthetics ham earth saturn
 1
 0 5
 2
-0 32 5 11
 0 22 3 0
+0 32 5 11
 1
 end_operator
 begin_operator
@@ -22447,8 +22447,8 @@ overcome loneliness aesthetics ham neptune mars
 1
 0 5
 2
-0 32 5 11
 0 22 1 2
+0 32 5 11
 1
 end_operator
 begin_operator
@@ -22456,8 +22456,8 @@ overcome loneliness aesthetics ham saturn neptune
 1
 0 5
 2
-0 32 5 11
 0 22 2 3
+0 32 5 11
 1
 end_operator
 begin_operator
@@ -22465,8 +22465,8 @@ overcome loneliness aesthetics haroset earth saturn
 1
 0 6
 2
-0 32 6 11
 0 22 3 0
+0 32 6 11
 1
 end_operator
 begin_operator
@@ -22474,8 +22474,8 @@ overcome loneliness aesthetics haroset neptune mars
 1
 0 6
 2
-0 32 6 11
 0 22 1 2
+0 32 6 11
 1
 end_operator
 begin_operator
@@ -22483,8 +22483,8 @@ overcome loneliness aesthetics haroset saturn neptune
 1
 0 6
 2
-0 32 6 11
 0 22 2 3
+0 32 6 11
 1
 end_operator
 begin_operator
@@ -22492,8 +22492,8 @@ overcome loneliness aesthetics lemon earth saturn
 1
 0 7
 2
-0 32 7 11
 0 22 3 0
+0 32 7 11
 1
 end_operator
 begin_operator
@@ -22501,8 +22501,8 @@ overcome loneliness aesthetics lemon neptune mars
 1
 0 7
 2
-0 32 7 11
 0 22 1 2
+0 32 7 11
 1
 end_operator
 begin_operator
@@ -22510,8 +22510,8 @@ overcome loneliness aesthetics lemon saturn neptune
 1
 0 7
 2
-0 32 7 11
 0 22 2 3
+0 32 7 11
 1
 end_operator
 begin_operator
@@ -22519,8 +22519,8 @@ overcome loneliness aesthetics muffin earth saturn
 1
 0 8
 2
-0 32 8 11
 0 22 3 0
+0 32 8 11
 1
 end_operator
 begin_operator
@@ -22528,8 +22528,8 @@ overcome loneliness aesthetics muffin neptune mars
 1
 0 8
 2
-0 32 8 11
 0 22 1 2
+0 32 8 11
 1
 end_operator
 begin_operator
@@ -22537,8 +22537,8 @@ overcome loneliness aesthetics muffin saturn neptune
 1
 0 8
 2
-0 32 8 11
 0 22 2 3
+0 32 8 11
 1
 end_operator
 begin_operator
@@ -22546,8 +22546,8 @@ overcome loneliness aesthetics pistachio earth saturn
 1
 0 9
 2
-0 32 9 11
 0 22 3 0
+0 32 9 11
 1
 end_operator
 begin_operator
@@ -22555,8 +22555,8 @@ overcome loneliness aesthetics pistachio neptune mars
 1
 0 9
 2
-0 32 9 11
 0 22 1 2
+0 32 9 11
 1
 end_operator
 begin_operator
@@ -22564,8 +22564,8 @@ overcome loneliness aesthetics pistachio saturn neptune
 1
 0 9
 2
-0 32 9 11
 0 22 2 3
+0 32 9 11
 1
 end_operator
 begin_operator
@@ -22573,8 +22573,8 @@ overcome loneliness aesthetics snickers earth saturn
 1
 0 10
 2
-0 32 10 11
 0 22 3 0
+0 32 10 11
 1
 end_operator
 begin_operator
@@ -22582,8 +22582,8 @@ overcome loneliness aesthetics snickers neptune mars
 1
 0 10
 2
-0 32 10 11
 0 22 1 2
+0 32 10 11
 1
 end_operator
 begin_operator
@@ -22591,8 +22591,8 @@ overcome loneliness aesthetics snickers saturn neptune
 1
 0 10
 2
-0 32 10 11
 0 22 2 3
+0 32 10 11
 1
 end_operator
 begin_operator
@@ -22600,8 +22600,8 @@ overcome loneliness expectation bacon earth saturn
 1
 1 0
 2
-0 32 0 12
 0 23 3 0
+0 32 0 12
 1
 end_operator
 begin_operator
@@ -22609,8 +22609,8 @@ overcome loneliness expectation bacon neptune mars
 1
 1 0
 2
-0 32 0 12
 0 23 1 2
+0 32 0 12
 1
 end_operator
 begin_operator
@@ -22618,8 +22618,8 @@ overcome loneliness expectation bacon saturn neptune
 1
 1 0
 2
-0 32 0 12
 0 23 2 3
+0 32 0 12
 1
 end_operator
 begin_operator
@@ -22627,8 +22627,8 @@ overcome loneliness expectation cantelope earth saturn
 1
 1 1
 2
-0 32 1 12
 0 23 3 0
+0 32 1 12
 1
 end_operator
 begin_operator
@@ -22636,8 +22636,8 @@ overcome loneliness expectation cantelope neptune mars
 1
 1 1
 2
-0 32 1 12
 0 23 1 2
+0 32 1 12
 1
 end_operator
 begin_operator
@@ -22645,8 +22645,8 @@ overcome loneliness expectation cantelope saturn neptune
 1
 1 1
 2
-0 32 1 12
 0 23 2 3
+0 32 1 12
 1
 end_operator
 begin_operator
@@ -22654,8 +22654,8 @@ overcome loneliness expectation chicken earth saturn
 1
 1 2
 2
-0 32 2 12
 0 23 3 0
+0 32 2 12
 1
 end_operator
 begin_operator
@@ -22663,8 +22663,8 @@ overcome loneliness expectation chicken neptune mars
 1
 1 2
 2
-0 32 2 12
 0 23 1 2
+0 32 2 12
 1
 end_operator
 begin_operator
@@ -22672,8 +22672,8 @@ overcome loneliness expectation chicken saturn neptune
 1
 1 2
 2
-0 32 2 12
 0 23 2 3
+0 32 2 12
 1
 end_operator
 begin_operator
@@ -22681,8 +22681,8 @@ overcome loneliness expectation chocolate earth saturn
 1
 1 3
 2
-0 32 3 12
 0 23 3 0
+0 32 3 12
 1
 end_operator
 begin_operator
@@ -22690,8 +22690,8 @@ overcome loneliness expectation chocolate neptune mars
 1
 1 3
 2
-0 32 3 12
 0 23 1 2
+0 32 3 12
 1
 end_operator
 begin_operator
@@ -22699,8 +22699,8 @@ overcome loneliness expectation chocolate saturn neptune
 1
 1 3
 2
-0 32 3 12
 0 23 2 3
+0 32 3 12
 1
 end_operator
 begin_operator
@@ -22708,8 +22708,8 @@ overcome loneliness expectation grapefruit earth saturn
 1
 1 4
 2
-0 32 4 12
 0 23 3 0
+0 32 4 12
 1
 end_operator
 begin_operator
@@ -22717,8 +22717,8 @@ overcome loneliness expectation grapefruit neptune mars
 1
 1 4
 2
-0 32 4 12
 0 23 1 2
+0 32 4 12
 1
 end_operator
 begin_operator
@@ -22726,8 +22726,8 @@ overcome loneliness expectation grapefruit saturn neptune
 1
 1 4
 2
-0 32 4 12
 0 23 2 3
+0 32 4 12
 1
 end_operator
 begin_operator
@@ -22735,8 +22735,8 @@ overcome loneliness expectation ham earth saturn
 1
 1 5
 2
-0 32 5 12
 0 23 3 0
+0 32 5 12
 1
 end_operator
 begin_operator
@@ -22744,8 +22744,8 @@ overcome loneliness expectation ham neptune mars
 1
 1 5
 2
-0 32 5 12
 0 23 1 2
+0 32 5 12
 1
 end_operator
 begin_operator
@@ -22753,8 +22753,8 @@ overcome loneliness expectation ham saturn neptune
 1
 1 5
 2
-0 32 5 12
 0 23 2 3
+0 32 5 12
 1
 end_operator
 begin_operator
@@ -22762,8 +22762,8 @@ overcome loneliness expectation haroset earth saturn
 1
 1 6
 2
-0 32 6 12
 0 23 3 0
+0 32 6 12
 1
 end_operator
 begin_operator
@@ -22771,8 +22771,8 @@ overcome loneliness expectation haroset neptune mars
 1
 1 6
 2
-0 32 6 12
 0 23 1 2
+0 32 6 12
 1
 end_operator
 begin_operator
@@ -22780,8 +22780,8 @@ overcome loneliness expectation haroset saturn neptune
 1
 1 6
 2
-0 32 6 12
 0 23 2 3
+0 32 6 12
 1
 end_operator
 begin_operator
@@ -22789,8 +22789,8 @@ overcome loneliness expectation lemon earth saturn
 1
 1 7
 2
-0 32 7 12
 0 23 3 0
+0 32 7 12
 1
 end_operator
 begin_operator
@@ -22798,8 +22798,8 @@ overcome loneliness expectation lemon neptune mars
 1
 1 7
 2
-0 32 7 12
 0 23 1 2
+0 32 7 12
 1
 end_operator
 begin_operator
@@ -22807,8 +22807,8 @@ overcome loneliness expectation lemon saturn neptune
 1
 1 7
 2
-0 32 7 12
 0 23 2 3
+0 32 7 12
 1
 end_operator
 begin_operator
@@ -22816,8 +22816,8 @@ overcome loneliness expectation muffin earth saturn
 1
 1 8
 2
-0 32 8 12
 0 23 3 0
+0 32 8 12
 1
 end_operator
 begin_operator
@@ -22825,8 +22825,8 @@ overcome loneliness expectation muffin neptune mars
 1
 1 8
 2
-0 32 8 12
 0 23 1 2
+0 32 8 12
 1
 end_operator
 begin_operator
@@ -22834,8 +22834,8 @@ overcome loneliness expectation muffin saturn neptune
 1
 1 8
 2
-0 32 8 12
 0 23 2 3
+0 32 8 12
 1
 end_operator
 begin_operator
@@ -22843,8 +22843,8 @@ overcome loneliness expectation pistachio earth saturn
 1
 1 9
 2
-0 32 9 12
 0 23 3 0
+0 32 9 12
 1
 end_operator
 begin_operator
@@ -22852,8 +22852,8 @@ overcome loneliness expectation pistachio neptune mars
 1
 1 9
 2
-0 32 9 12
 0 23 1 2
+0 32 9 12
 1
 end_operator
 begin_operator
@@ -22861,8 +22861,8 @@ overcome loneliness expectation pistachio saturn neptune
 1
 1 9
 2
-0 32 9 12
 0 23 2 3
+0 32 9 12
 1
 end_operator
 begin_operator
@@ -22870,8 +22870,8 @@ overcome loneliness expectation snickers earth saturn
 1
 1 10
 2
-0 32 10 12
 0 23 3 0
+0 32 10 12
 1
 end_operator
 begin_operator
@@ -22879,8 +22879,8 @@ overcome loneliness expectation snickers neptune mars
 1
 1 10
 2
-0 32 10 12
 0 23 1 2
+0 32 10 12
 1
 end_operator
 begin_operator
@@ -22888,8 +22888,8 @@ overcome loneliness expectation snickers saturn neptune
 1
 1 10
 2
-0 32 10 12
 0 23 2 3
+0 32 10 12
 1
 end_operator
 begin_operator
@@ -22897,8 +22897,8 @@ overcome loneliness intoxication bacon earth saturn
 1
 2 0
 2
-0 32 0 13
 0 26 3 0
+0 32 0 13
 1
 end_operator
 begin_operator
@@ -22906,8 +22906,8 @@ overcome loneliness intoxication bacon neptune mars
 1
 2 0
 2
-0 32 0 13
 0 26 1 2
+0 32 0 13
 1
 end_operator
 begin_operator
@@ -22915,8 +22915,8 @@ overcome loneliness intoxication bacon saturn neptune
 1
 2 0
 2
-0 32 0 13
 0 26 2 3
+0 32 0 13
 1
 end_operator
 begin_operator
@@ -22924,8 +22924,8 @@ overcome loneliness intoxication cantelope earth saturn
 1
 2 1
 2
-0 32 1 13
 0 26 3 0
+0 32 1 13
 1
 end_operator
 begin_operator
@@ -22933,8 +22933,8 @@ overcome loneliness intoxication cantelope neptune mars
 1
 2 1
 2
-0 32 1 13
 0 26 1 2
+0 32 1 13
 1
 end_operator
 begin_operator
@@ -22942,8 +22942,8 @@ overcome loneliness intoxication cantelope saturn neptune
 1
 2 1
 2
-0 32 1 13
 0 26 2 3
+0 32 1 13
 1
 end_operator
 begin_operator
@@ -22951,8 +22951,8 @@ overcome loneliness intoxication chicken earth saturn
 1
 2 2
 2
-0 32 2 13
 0 26 3 0
+0 32 2 13
 1
 end_operator
 begin_operator
@@ -22960,8 +22960,8 @@ overcome loneliness intoxication chicken neptune mars
 1
 2 2
 2
-0 32 2 13
 0 26 1 2
+0 32 2 13
 1
 end_operator
 begin_operator
@@ -22969,8 +22969,8 @@ overcome loneliness intoxication chicken saturn neptune
 1
 2 2
 2
-0 32 2 13
 0 26 2 3
+0 32 2 13
 1
 end_operator
 begin_operator
@@ -22978,8 +22978,8 @@ overcome loneliness intoxication chocolate earth saturn
 1
 2 3
 2
-0 32 3 13
 0 26 3 0
+0 32 3 13
 1
 end_operator
 begin_operator
@@ -22987,8 +22987,8 @@ overcome loneliness intoxication chocolate neptune mars
 1
 2 3
 2
-0 32 3 13
 0 26 1 2
+0 32 3 13
 1
 end_operator
 begin_operator
@@ -22996,8 +22996,8 @@ overcome loneliness intoxication chocolate saturn neptune
 1
 2 3
 2
-0 32 3 13
 0 26 2 3
+0 32 3 13
 1
 end_operator
 begin_operator
@@ -23005,8 +23005,8 @@ overcome loneliness intoxication grapefruit earth saturn
 1
 2 4
 2
-0 32 4 13
 0 26 3 0
+0 32 4 13
 1
 end_operator
 begin_operator
@@ -23014,8 +23014,8 @@ overcome loneliness intoxication grapefruit neptune mars
 1
 2 4
 2
-0 32 4 13
 0 26 1 2
+0 32 4 13
 1
 end_operator
 begin_operator
@@ -23023,8 +23023,8 @@ overcome loneliness intoxication grapefruit saturn neptune
 1
 2 4
 2
-0 32 4 13
 0 26 2 3
+0 32 4 13
 1
 end_operator
 begin_operator
@@ -23032,8 +23032,8 @@ overcome loneliness intoxication ham earth saturn
 1
 2 5
 2
-0 32 5 13
 0 26 3 0
+0 32 5 13
 1
 end_operator
 begin_operator
@@ -23041,8 +23041,8 @@ overcome loneliness intoxication ham neptune mars
 1
 2 5
 2
-0 32 5 13
 0 26 1 2
+0 32 5 13
 1
 end_operator
 begin_operator
@@ -23050,8 +23050,8 @@ overcome loneliness intoxication ham saturn neptune
 1
 2 5
 2
-0 32 5 13
 0 26 2 3
+0 32 5 13
 1
 end_operator
 begin_operator
@@ -23059,8 +23059,8 @@ overcome loneliness intoxication haroset earth saturn
 1
 2 6
 2
-0 32 6 13
 0 26 3 0
+0 32 6 13
 1
 end_operator
 begin_operator
@@ -23068,8 +23068,8 @@ overcome loneliness intoxication haroset neptune mars
 1
 2 6
 2
-0 32 6 13
 0 26 1 2
+0 32 6 13
 1
 end_operator
 begin_operator
@@ -23077,8 +23077,8 @@ overcome loneliness intoxication haroset saturn neptune
 1
 2 6
 2
-0 32 6 13
 0 26 2 3
+0 32 6 13
 1
 end_operator
 begin_operator
@@ -23086,8 +23086,8 @@ overcome loneliness intoxication lemon earth saturn
 1
 2 7
 2
-0 32 7 13
 0 26 3 0
+0 32 7 13
 1
 end_operator
 begin_operator
@@ -23095,8 +23095,8 @@ overcome loneliness intoxication lemon neptune mars
 1
 2 7
 2
-0 32 7 13
 0 26 1 2
+0 32 7 13
 1
 end_operator
 begin_operator
@@ -23104,8 +23104,8 @@ overcome loneliness intoxication lemon saturn neptune
 1
 2 7
 2
-0 32 7 13
 0 26 2 3
+0 32 7 13
 1
 end_operator
 begin_operator
@@ -23113,8 +23113,8 @@ overcome loneliness intoxication muffin earth saturn
 1
 2 8
 2
-0 32 8 13
 0 26 3 0
+0 32 8 13
 1
 end_operator
 begin_operator
@@ -23122,8 +23122,8 @@ overcome loneliness intoxication muffin neptune mars
 1
 2 8
 2
-0 32 8 13
 0 26 1 2
+0 32 8 13
 1
 end_operator
 begin_operator
@@ -23131,8 +23131,8 @@ overcome loneliness intoxication muffin saturn neptune
 1
 2 8
 2
-0 32 8 13
 0 26 2 3
+0 32 8 13
 1
 end_operator
 begin_operator
@@ -23140,8 +23140,8 @@ overcome loneliness intoxication pistachio earth saturn
 1
 2 9
 2
-0 32 9 13
 0 26 3 0
+0 32 9 13
 1
 end_operator
 begin_operator
@@ -23149,8 +23149,8 @@ overcome loneliness intoxication pistachio neptune mars
 1
 2 9
 2
-0 32 9 13
 0 26 1 2
+0 32 9 13
 1
 end_operator
 begin_operator
@@ -23158,8 +23158,8 @@ overcome loneliness intoxication pistachio saturn neptune
 1
 2 9
 2
-0 32 9 13
 0 26 2 3
+0 32 9 13
 1
 end_operator
 begin_operator
@@ -23167,8 +23167,8 @@ overcome loneliness intoxication snickers earth saturn
 1
 2 10
 2
-0 32 10 13
 0 26 3 0
+0 32 10 13
 1
 end_operator
 begin_operator
@@ -23176,8 +23176,8 @@ overcome loneliness intoxication snickers neptune mars
 1
 2 10
 2
-0 32 10 13
 0 26 1 2
+0 32 10 13
 1
 end_operator
 begin_operator
@@ -23185,8 +23185,8 @@ overcome loneliness intoxication snickers saturn neptune
 1
 2 10
 2
-0 32 10 13
 0 26 2 3
+0 32 10 13
 1
 end_operator
 begin_operator
@@ -23194,8 +23194,8 @@ overcome loneliness learning bacon earth saturn
 1
 3 0
 2
-0 32 0 14
 0 27 3 0
+0 32 0 14
 1
 end_operator
 begin_operator
@@ -23203,8 +23203,8 @@ overcome loneliness learning bacon neptune mars
 1
 3 0
 2
-0 32 0 14
 0 27 1 2
+0 32 0 14
 1
 end_operator
 begin_operator
@@ -23212,8 +23212,8 @@ overcome loneliness learning bacon saturn neptune
 1
 3 0
 2
-0 32 0 14
 0 27 2 3
+0 32 0 14
 1
 end_operator
 begin_operator
@@ -23221,8 +23221,8 @@ overcome loneliness learning cantelope earth saturn
 1
 3 1
 2
-0 32 1 14
 0 27 3 0
+0 32 1 14
 1
 end_operator
 begin_operator
@@ -23230,8 +23230,8 @@ overcome loneliness learning cantelope neptune mars
 1
 3 1
 2
-0 32 1 14
 0 27 1 2
+0 32 1 14
 1
 end_operator
 begin_operator
@@ -23239,8 +23239,8 @@ overcome loneliness learning cantelope saturn neptune
 1
 3 1
 2
-0 32 1 14
 0 27 2 3
+0 32 1 14
 1
 end_operator
 begin_operator
@@ -23248,8 +23248,8 @@ overcome loneliness learning chicken earth saturn
 1
 3 2
 2
-0 32 2 14
 0 27 3 0
+0 32 2 14
 1
 end_operator
 begin_operator
@@ -23257,8 +23257,8 @@ overcome loneliness learning chicken neptune mars
 1
 3 2
 2
-0 32 2 14
 0 27 1 2
+0 32 2 14
 1
 end_operator
 begin_operator
@@ -23266,8 +23266,8 @@ overcome loneliness learning chicken saturn neptune
 1
 3 2
 2
-0 32 2 14
 0 27 2 3
+0 32 2 14
 1
 end_operator
 begin_operator
@@ -23275,8 +23275,8 @@ overcome loneliness learning chocolate earth saturn
 1
 3 3
 2
-0 32 3 14
 0 27 3 0
+0 32 3 14
 1
 end_operator
 begin_operator
@@ -23284,8 +23284,8 @@ overcome loneliness learning chocolate neptune mars
 1
 3 3
 2
-0 32 3 14
 0 27 1 2
+0 32 3 14
 1
 end_operator
 begin_operator
@@ -23293,8 +23293,8 @@ overcome loneliness learning chocolate saturn neptune
 1
 3 3
 2
-0 32 3 14
 0 27 2 3
+0 32 3 14
 1
 end_operator
 begin_operator
@@ -23302,8 +23302,8 @@ overcome loneliness learning grapefruit earth saturn
 1
 3 4
 2
-0 32 4 14
 0 27 3 0
+0 32 4 14
 1
 end_operator
 begin_operator
@@ -23311,8 +23311,8 @@ overcome loneliness learning grapefruit neptune mars
 1
 3 4
 2
-0 32 4 14
 0 27 1 2
+0 32 4 14
 1
 end_operator
 begin_operator
@@ -23320,8 +23320,8 @@ overcome loneliness learning grapefruit saturn neptune
 1
 3 4
 2
-0 32 4 14
 0 27 2 3
+0 32 4 14
 1
 end_operator
 begin_operator
@@ -23329,8 +23329,8 @@ overcome loneliness learning ham earth saturn
 1
 3 5
 2
-0 32 5 14
 0 27 3 0
+0 32 5 14
 1
 end_operator
 begin_operator
@@ -23338,8 +23338,8 @@ overcome loneliness learning ham neptune mars
 1
 3 5
 2
-0 32 5 14
 0 27 1 2
+0 32 5 14
 1
 end_operator
 begin_operator
@@ -23347,8 +23347,8 @@ overcome loneliness learning ham saturn neptune
 1
 3 5
 2
-0 32 5 14
 0 27 2 3
+0 32 5 14
 1
 end_operator
 begin_operator
@@ -23356,8 +23356,8 @@ overcome loneliness learning haroset earth saturn
 1
 3 6
 2
-0 32 6 14
 0 27 3 0
+0 32 6 14
 1
 end_operator
 begin_operator
@@ -23365,8 +23365,8 @@ overcome loneliness learning haroset neptune mars
 1
 3 6
 2
-0 32 6 14
 0 27 1 2
+0 32 6 14
 1
 end_operator
 begin_operator
@@ -23374,8 +23374,8 @@ overcome loneliness learning haroset saturn neptune
 1
 3 6
 2
-0 32 6 14
 0 27 2 3
+0 32 6 14
 1
 end_operator
 begin_operator
@@ -23383,8 +23383,8 @@ overcome loneliness learning lemon earth saturn
 1
 3 7
 2
-0 32 7 14
 0 27 3 0
+0 32 7 14
 1
 end_operator
 begin_operator
@@ -23392,8 +23392,8 @@ overcome loneliness learning lemon neptune mars
 1
 3 7
 2
-0 32 7 14
 0 27 1 2
+0 32 7 14
 1
 end_operator
 begin_operator
@@ -23401,8 +23401,8 @@ overcome loneliness learning lemon saturn neptune
 1
 3 7
 2
-0 32 7 14
 0 27 2 3
+0 32 7 14
 1
 end_operator
 begin_operator
@@ -23410,8 +23410,8 @@ overcome loneliness learning muffin earth saturn
 1
 3 8
 2
-0 32 8 14
 0 27 3 0
+0 32 8 14
 1
 end_operator
 begin_operator
@@ -23419,8 +23419,8 @@ overcome loneliness learning muffin neptune mars
 1
 3 8
 2
-0 32 8 14
 0 27 1 2
+0 32 8 14
 1
 end_operator
 begin_operator
@@ -23428,8 +23428,8 @@ overcome loneliness learning muffin saturn neptune
 1
 3 8
 2
-0 32 8 14
 0 27 2 3
+0 32 8 14
 1
 end_operator
 begin_operator
@@ -23437,8 +23437,8 @@ overcome loneliness learning pistachio earth saturn
 1
 3 9
 2
-0 32 9 14
 0 27 3 0
+0 32 9 14
 1
 end_operator
 begin_operator
@@ -23446,8 +23446,8 @@ overcome loneliness learning pistachio neptune mars
 1
 3 9
 2
-0 32 9 14
 0 27 1 2
+0 32 9 14
 1
 end_operator
 begin_operator
@@ -23455,8 +23455,8 @@ overcome loneliness learning pistachio saturn neptune
 1
 3 9
 2
-0 32 9 14
 0 27 2 3
+0 32 9 14
 1
 end_operator
 begin_operator
@@ -23464,8 +23464,8 @@ overcome loneliness learning snickers earth saturn
 1
 3 10
 2
-0 32 10 14
 0 27 3 0
+0 32 10 14
 1
 end_operator
 begin_operator
@@ -23473,8 +23473,8 @@ overcome loneliness learning snickers neptune mars
 1
 3 10
 2
-0 32 10 14
 0 27 1 2
+0 32 10 14
 1
 end_operator
 begin_operator
@@ -23482,8 +23482,8 @@ overcome loneliness learning snickers saturn neptune
 1
 3 10
 2
-0 32 10 14
 0 27 2 3
+0 32 10 14
 1
 end_operator
 begin_operator
@@ -23491,8 +23491,8 @@ overcome loneliness love bacon earth saturn
 1
 4 0
 2
-0 32 0 15
 0 30 3 0
+0 32 0 15
 1
 end_operator
 begin_operator
@@ -23500,8 +23500,8 @@ overcome loneliness love bacon neptune mars
 1
 4 0
 2
-0 32 0 15
 0 30 1 2
+0 32 0 15
 1
 end_operator
 begin_operator
@@ -23509,8 +23509,8 @@ overcome loneliness love bacon saturn neptune
 1
 4 0
 2
-0 32 0 15
 0 30 2 3
+0 32 0 15
 1
 end_operator
 begin_operator
@@ -23518,8 +23518,8 @@ overcome loneliness love cantelope earth saturn
 1
 4 1
 2
-0 32 1 15
 0 30 3 0
+0 32 1 15
 1
 end_operator
 begin_operator
@@ -23527,8 +23527,8 @@ overcome loneliness love cantelope neptune mars
 1
 4 1
 2
-0 32 1 15
 0 30 1 2
+0 32 1 15
 1
 end_operator
 begin_operator
@@ -23536,8 +23536,8 @@ overcome loneliness love cantelope saturn neptune
 1
 4 1
 2
-0 32 1 15
 0 30 2 3
+0 32 1 15
 1
 end_operator
 begin_operator
@@ -23545,8 +23545,8 @@ overcome loneliness love chicken earth saturn
 1
 4 2
 2
-0 32 2 15
 0 30 3 0
+0 32 2 15
 1
 end_operator
 begin_operator
@@ -23554,8 +23554,8 @@ overcome loneliness love chicken neptune mars
 1
 4 2
 2
-0 32 2 15
 0 30 1 2
+0 32 2 15
 1
 end_operator
 begin_operator
@@ -23563,8 +23563,8 @@ overcome loneliness love chicken saturn neptune
 1
 4 2
 2
-0 32 2 15
 0 30 2 3
+0 32 2 15
 1
 end_operator
 begin_operator
@@ -23572,8 +23572,8 @@ overcome loneliness love chocolate earth saturn
 1
 4 3
 2
-0 32 3 15
 0 30 3 0
+0 32 3 15
 1
 end_operator
 begin_operator
@@ -23581,8 +23581,8 @@ overcome loneliness love chocolate neptune mars
 1
 4 3
 2
-0 32 3 15
 0 30 1 2
+0 32 3 15
 1
 end_operator
 begin_operator
@@ -23590,8 +23590,8 @@ overcome loneliness love chocolate saturn neptune
 1
 4 3
 2
-0 32 3 15
 0 30 2 3
+0 32 3 15
 1
 end_operator
 begin_operator
@@ -23599,8 +23599,8 @@ overcome loneliness love grapefruit earth saturn
 1
 4 4
 2
-0 32 4 15
 0 30 3 0
+0 32 4 15
 1
 end_operator
 begin_operator
@@ -23608,8 +23608,8 @@ overcome loneliness love grapefruit neptune mars
 1
 4 4
 2
-0 32 4 15
 0 30 1 2
+0 32 4 15
 1
 end_operator
 begin_operator
@@ -23617,8 +23617,8 @@ overcome loneliness love grapefruit saturn neptune
 1
 4 4
 2
-0 32 4 15
 0 30 2 3
+0 32 4 15
 1
 end_operator
 begin_operator
@@ -23626,8 +23626,8 @@ overcome loneliness love ham earth saturn
 1
 4 5
 2
-0 32 5 15
 0 30 3 0
+0 32 5 15
 1
 end_operator
 begin_operator
@@ -23635,8 +23635,8 @@ overcome loneliness love ham neptune mars
 1
 4 5
 2
-0 32 5 15
 0 30 1 2
+0 32 5 15
 1
 end_operator
 begin_operator
@@ -23644,8 +23644,8 @@ overcome loneliness love ham saturn neptune
 1
 4 5
 2
-0 32 5 15
 0 30 2 3
+0 32 5 15
 1
 end_operator
 begin_operator
@@ -23653,8 +23653,8 @@ overcome loneliness love haroset earth saturn
 1
 4 6
 2
-0 32 6 15
 0 30 3 0
+0 32 6 15
 1
 end_operator
 begin_operator
@@ -23662,8 +23662,8 @@ overcome loneliness love haroset neptune mars
 1
 4 6
 2
-0 32 6 15
 0 30 1 2
+0 32 6 15
 1
 end_operator
 begin_operator
@@ -23671,8 +23671,8 @@ overcome loneliness love haroset saturn neptune
 1
 4 6
 2
-0 32 6 15
 0 30 2 3
+0 32 6 15
 1
 end_operator
 begin_operator
@@ -23680,8 +23680,8 @@ overcome loneliness love lemon earth saturn
 1
 4 7
 2
-0 32 7 15
 0 30 3 0
+0 32 7 15
 1
 end_operator
 begin_operator
@@ -23689,8 +23689,8 @@ overcome loneliness love lemon neptune mars
 1
 4 7
 2
-0 32 7 15
 0 30 1 2
+0 32 7 15
 1
 end_operator
 begin_operator
@@ -23698,8 +23698,8 @@ overcome loneliness love lemon saturn neptune
 1
 4 7
 2
-0 32 7 15
 0 30 2 3
+0 32 7 15
 1
 end_operator
 begin_operator
@@ -23707,8 +23707,8 @@ overcome loneliness love muffin earth saturn
 1
 4 8
 2
-0 32 8 15
 0 30 3 0
+0 32 8 15
 1
 end_operator
 begin_operator
@@ -23716,8 +23716,8 @@ overcome loneliness love muffin neptune mars
 1
 4 8
 2
-0 32 8 15
 0 30 1 2
+0 32 8 15
 1
 end_operator
 begin_operator
@@ -23725,8 +23725,8 @@ overcome loneliness love muffin saturn neptune
 1
 4 8
 2
-0 32 8 15
 0 30 2 3
+0 32 8 15
 1
 end_operator
 begin_operator
@@ -23734,8 +23734,8 @@ overcome loneliness love pistachio earth saturn
 1
 4 9
 2
-0 32 9 15
 0 30 3 0
+0 32 9 15
 1
 end_operator
 begin_operator
@@ -23743,8 +23743,8 @@ overcome loneliness love pistachio neptune mars
 1
 4 9
 2
-0 32 9 15
 0 30 1 2
+0 32 9 15
 1
 end_operator
 begin_operator
@@ -23752,8 +23752,8 @@ overcome loneliness love pistachio saturn neptune
 1
 4 9
 2
-0 32 9 15
 0 30 2 3
+0 32 9 15
 1
 end_operator
 begin_operator
@@ -23761,8 +23761,8 @@ overcome loneliness love snickers earth saturn
 1
 4 10
 2
-0 32 10 15
 0 30 3 0
+0 32 10 15
 1
 end_operator
 begin_operator
@@ -23770,8 +23770,8 @@ overcome loneliness love snickers neptune mars
 1
 4 10
 2
-0 32 10 15
 0 30 1 2
+0 32 10 15
 1
 end_operator
 begin_operator
@@ -23779,8 +23779,8 @@ overcome loneliness love snickers saturn neptune
 1
 4 10
 2
-0 32 10 15
 0 30 2 3
+0 32 10 15
 1
 end_operator
 begin_operator
@@ -23788,8 +23788,8 @@ overcome loneliness rest bacon earth saturn
 1
 5 0
 2
-0 32 0 16
 0 31 3 0
+0 32 0 16
 1
 end_operator
 begin_operator
@@ -23797,8 +23797,8 @@ overcome loneliness rest bacon neptune mars
 1
 5 0
 2
-0 32 0 16
 0 31 1 2
+0 32 0 16
 1
 end_operator
 begin_operator
@@ -23806,8 +23806,8 @@ overcome loneliness rest bacon saturn neptune
 1
 5 0
 2
-0 32 0 16
 0 31 2 3
+0 32 0 16
 1
 end_operator
 begin_operator
@@ -23815,8 +23815,8 @@ overcome loneliness rest cantelope earth saturn
 1
 5 1
 2
-0 32 1 16
 0 31 3 0
+0 32 1 16
 1
 end_operator
 begin_operator
@@ -23824,8 +23824,8 @@ overcome loneliness rest cantelope neptune mars
 1
 5 1
 2
-0 32 1 16
 0 31 1 2
+0 32 1 16
 1
 end_operator
 begin_operator
@@ -23833,8 +23833,8 @@ overcome loneliness rest cantelope saturn neptune
 1
 5 1
 2
-0 32 1 16
 0 31 2 3
+0 32 1 16
 1
 end_operator
 begin_operator
@@ -23842,8 +23842,8 @@ overcome loneliness rest chicken earth saturn
 1
 5 2
 2
-0 32 2 16
 0 31 3 0
+0 32 2 16
 1
 end_operator
 begin_operator
@@ -23851,8 +23851,8 @@ overcome loneliness rest chicken neptune mars
 1
 5 2
 2
-0 32 2 16
 0 31 1 2
+0 32 2 16
 1
 end_operator
 begin_operator
@@ -23860,8 +23860,8 @@ overcome loneliness rest chicken saturn neptune
 1
 5 2
 2
-0 32 2 16
 0 31 2 3
+0 32 2 16
 1
 end_operator
 begin_operator
@@ -23869,8 +23869,8 @@ overcome loneliness rest chocolate earth saturn
 1
 5 3
 2
-0 32 3 16
 0 31 3 0
+0 32 3 16
 1
 end_operator
 begin_operator
@@ -23878,8 +23878,8 @@ overcome loneliness rest chocolate neptune mars
 1
 5 3
 2
-0 32 3 16
 0 31 1 2
+0 32 3 16
 1
 end_operator
 begin_operator
@@ -23887,8 +23887,8 @@ overcome loneliness rest chocolate saturn neptune
 1
 5 3
 2
-0 32 3 16
 0 31 2 3
+0 32 3 16
 1
 end_operator
 begin_operator
@@ -23896,8 +23896,8 @@ overcome loneliness rest grapefruit earth saturn
 1
 5 4
 2
-0 32 4 16
 0 31 3 0
+0 32 4 16
 1
 end_operator
 begin_operator
@@ -23905,8 +23905,8 @@ overcome loneliness rest grapefruit neptune mars
 1
 5 4
 2
-0 32 4 16
 0 31 1 2
+0 32 4 16
 1
 end_operator
 begin_operator
@@ -23914,8 +23914,8 @@ overcome loneliness rest grapefruit saturn neptune
 1
 5 4
 2
-0 32 4 16
 0 31 2 3
+0 32 4 16
 1
 end_operator
 begin_operator
@@ -23923,8 +23923,8 @@ overcome loneliness rest ham earth saturn
 1
 5 5
 2
-0 32 5 16
 0 31 3 0
+0 32 5 16
 1
 end_operator
 begin_operator
@@ -23932,8 +23932,8 @@ overcome loneliness rest ham neptune mars
 1
 5 5
 2
-0 32 5 16
 0 31 1 2
+0 32 5 16
 1
 end_operator
 begin_operator
@@ -23941,8 +23941,8 @@ overcome loneliness rest ham saturn neptune
 1
 5 5
 2
-0 32 5 16
 0 31 2 3
+0 32 5 16
 1
 end_operator
 begin_operator
@@ -23950,8 +23950,8 @@ overcome loneliness rest haroset earth saturn
 1
 5 6
 2
-0 32 6 16
 0 31 3 0
+0 32 6 16
 1
 end_operator
 begin_operator
@@ -23959,8 +23959,8 @@ overcome loneliness rest haroset neptune mars
 1
 5 6
 2
-0 32 6 16
 0 31 1 2
+0 32 6 16
 1
 end_operator
 begin_operator
@@ -23968,8 +23968,8 @@ overcome loneliness rest haroset saturn neptune
 1
 5 6
 2
-0 32 6 16
 0 31 2 3
+0 32 6 16
 1
 end_operator
 begin_operator
@@ -23977,8 +23977,8 @@ overcome loneliness rest lemon earth saturn
 1
 5 7
 2
-0 32 7 16
 0 31 3 0
+0 32 7 16
 1
 end_operator
 begin_operator
@@ -23986,8 +23986,8 @@ overcome loneliness rest lemon neptune mars
 1
 5 7
 2
-0 32 7 16
 0 31 1 2
+0 32 7 16
 1
 end_operator
 begin_operator
@@ -23995,8 +23995,8 @@ overcome loneliness rest lemon saturn neptune
 1
 5 7
 2
-0 32 7 16
 0 31 2 3
+0 32 7 16
 1
 end_operator
 begin_operator
@@ -24004,8 +24004,8 @@ overcome loneliness rest muffin earth saturn
 1
 5 8
 2
-0 32 8 16
 0 31 3 0
+0 32 8 16
 1
 end_operator
 begin_operator
@@ -24013,8 +24013,8 @@ overcome loneliness rest muffin neptune mars
 1
 5 8
 2
-0 32 8 16
 0 31 1 2
+0 32 8 16
 1
 end_operator
 begin_operator
@@ -24022,8 +24022,8 @@ overcome loneliness rest muffin saturn neptune
 1
 5 8
 2
-0 32 8 16
 0 31 2 3
+0 32 8 16
 1
 end_operator
 begin_operator
@@ -24031,8 +24031,8 @@ overcome loneliness rest pistachio earth saturn
 1
 5 9
 2
-0 32 9 16
 0 31 3 0
+0 32 9 16
 1
 end_operator
 begin_operator
@@ -24040,8 +24040,8 @@ overcome loneliness rest pistachio neptune mars
 1
 5 9
 2
-0 32 9 16
 0 31 1 2
+0 32 9 16
 1
 end_operator
 begin_operator
@@ -24049,8 +24049,8 @@ overcome loneliness rest pistachio saturn neptune
 1
 5 9
 2
-0 32 9 16
 0 31 2 3
+0 32 9 16
 1
 end_operator
 begin_operator
@@ -24058,8 +24058,8 @@ overcome loneliness rest snickers earth saturn
 1
 5 10
 2
-0 32 10 16
 0 31 3 0
+0 32 10 16
 1
 end_operator
 begin_operator
@@ -24067,8 +24067,8 @@ overcome loneliness rest snickers neptune mars
 1
 5 10
 2
-0 32 10 16
 0 31 1 2
+0 32 10 16
 1
 end_operator
 begin_operator
@@ -24076,8 +24076,8 @@ overcome loneliness rest snickers saturn neptune
 1
 5 10
 2
-0 32 10 16
 0 31 2 3
+0 32 10 16
 1
 end_operator
 begin_operator
@@ -24679,8 +24679,8 @@ overcome prostatitis aesthetics bacon earth saturn
 1
 0 0
 2
-0 36 0 11
 0 22 3 0
+0 36 0 11
 1
 end_operator
 begin_operator
@@ -24688,8 +24688,8 @@ overcome prostatitis aesthetics bacon neptune mars
 1
 0 0
 2
-0 36 0 11
 0 22 1 2
+0 36 0 11
 1
 end_operator
 begin_operator
@@ -24697,8 +24697,8 @@ overcome prostatitis aesthetics bacon saturn neptune
 1
 0 0
 2
-0 36 0 11
 0 22 2 3
+0 36 0 11
 1
 end_operator
 begin_operator
@@ -24706,8 +24706,8 @@ overcome prostatitis aesthetics cantelope earth saturn
 1
 0 1
 2
-0 36 1 11
 0 22 3 0
+0 36 1 11
 1
 end_operator
 begin_operator
@@ -24715,8 +24715,8 @@ overcome prostatitis aesthetics cantelope neptune mars
 1
 0 1
 2
-0 36 1 11
 0 22 1 2
+0 36 1 11
 1
 end_operator
 begin_operator
@@ -24724,8 +24724,8 @@ overcome prostatitis aesthetics cantelope saturn neptune
 1
 0 1
 2
-0 36 1 11
 0 22 2 3
+0 36 1 11
 1
 end_operator
 begin_operator
@@ -24733,8 +24733,8 @@ overcome prostatitis aesthetics chicken earth saturn
 1
 0 2
 2
-0 36 2 11
 0 22 3 0
+0 36 2 11
 1
 end_operator
 begin_operator
@@ -24742,8 +24742,8 @@ overcome prostatitis aesthetics chicken neptune mars
 1
 0 2
 2
-0 36 2 11
 0 22 1 2
+0 36 2 11
 1
 end_operator
 begin_operator
@@ -24751,8 +24751,8 @@ overcome prostatitis aesthetics chicken saturn neptune
 1
 0 2
 2
-0 36 2 11
 0 22 2 3
+0 36 2 11
 1
 end_operator
 begin_operator
@@ -24760,8 +24760,8 @@ overcome prostatitis aesthetics chocolate earth saturn
 1
 0 3
 2
-0 36 3 11
 0 22 3 0
+0 36 3 11
 1
 end_operator
 begin_operator
@@ -24769,8 +24769,8 @@ overcome prostatitis aesthetics chocolate neptune mars
 1
 0 3
 2
-0 36 3 11
 0 22 1 2
+0 36 3 11
 1
 end_operator
 begin_operator
@@ -24778,8 +24778,8 @@ overcome prostatitis aesthetics chocolate saturn neptune
 1
 0 3
 2
-0 36 3 11
 0 22 2 3
+0 36 3 11
 1
 end_operator
 begin_operator
@@ -24787,8 +24787,8 @@ overcome prostatitis aesthetics grapefruit earth saturn
 1
 0 4
 2
-0 36 4 11
 0 22 3 0
+0 36 4 11
 1
 end_operator
 begin_operator
@@ -24796,8 +24796,8 @@ overcome prostatitis aesthetics grapefruit neptune mars
 1
 0 4
 2
-0 36 4 11
 0 22 1 2
+0 36 4 11
 1
 end_operator
 begin_operator
@@ -24805,8 +24805,8 @@ overcome prostatitis aesthetics grapefruit saturn neptune
 1
 0 4
 2
-0 36 4 11
 0 22 2 3
+0 36 4 11
 1
 end_operator
 begin_operator
@@ -24814,8 +24814,8 @@ overcome prostatitis aesthetics ham earth saturn
 1
 0 5
 2
-0 36 5 11
 0 22 3 0
+0 36 5 11
 1
 end_operator
 begin_operator
@@ -24823,8 +24823,8 @@ overcome prostatitis aesthetics ham neptune mars
 1
 0 5
 2
-0 36 5 11
 0 22 1 2
+0 36 5 11
 1
 end_operator
 begin_operator
@@ -24832,8 +24832,8 @@ overcome prostatitis aesthetics ham saturn neptune
 1
 0 5
 2
-0 36 5 11
 0 22 2 3
+0 36 5 11
 1
 end_operator
 begin_operator
@@ -24841,8 +24841,8 @@ overcome prostatitis aesthetics haroset earth saturn
 1
 0 6
 2
-0 36 6 11
 0 22 3 0
+0 36 6 11
 1
 end_operator
 begin_operator
@@ -24850,8 +24850,8 @@ overcome prostatitis aesthetics haroset neptune mars
 1
 0 6
 2
-0 36 6 11
 0 22 1 2
+0 36 6 11
 1
 end_operator
 begin_operator
@@ -24859,8 +24859,8 @@ overcome prostatitis aesthetics haroset saturn neptune
 1
 0 6
 2
-0 36 6 11
 0 22 2 3
+0 36 6 11
 1
 end_operator
 begin_operator
@@ -24868,8 +24868,8 @@ overcome prostatitis aesthetics lemon earth saturn
 1
 0 7
 2
-0 36 7 11
 0 22 3 0
+0 36 7 11
 1
 end_operator
 begin_operator
@@ -24877,8 +24877,8 @@ overcome prostatitis aesthetics lemon neptune mars
 1
 0 7
 2
-0 36 7 11
 0 22 1 2
+0 36 7 11
 1
 end_operator
 begin_operator
@@ -24886,8 +24886,8 @@ overcome prostatitis aesthetics lemon saturn neptune
 1
 0 7
 2
-0 36 7 11
 0 22 2 3
+0 36 7 11
 1
 end_operator
 begin_operator
@@ -24895,8 +24895,8 @@ overcome prostatitis aesthetics muffin earth saturn
 1
 0 8
 2
-0 36 8 11
 0 22 3 0
+0 36 8 11
 1
 end_operator
 begin_operator
@@ -24904,8 +24904,8 @@ overcome prostatitis aesthetics muffin neptune mars
 1
 0 8
 2
-0 36 8 11
 0 22 1 2
+0 36 8 11
 1
 end_operator
 begin_operator
@@ -24913,8 +24913,8 @@ overcome prostatitis aesthetics muffin saturn neptune
 1
 0 8
 2
-0 36 8 11
 0 22 2 3
+0 36 8 11
 1
 end_operator
 begin_operator
@@ -24922,8 +24922,8 @@ overcome prostatitis aesthetics pistachio earth saturn
 1
 0 9
 2
-0 36 9 11
 0 22 3 0
+0 36 9 11
 1
 end_operator
 begin_operator
@@ -24931,8 +24931,8 @@ overcome prostatitis aesthetics pistachio neptune mars
 1
 0 9
 2
-0 36 9 11
 0 22 1 2
+0 36 9 11
 1
 end_operator
 begin_operator
@@ -24940,8 +24940,8 @@ overcome prostatitis aesthetics pistachio saturn neptune
 1
 0 9
 2
-0 36 9 11
 0 22 2 3
+0 36 9 11
 1
 end_operator
 begin_operator
@@ -24949,8 +24949,8 @@ overcome prostatitis aesthetics snickers earth saturn
 1
 0 10
 2
-0 36 10 11
 0 22 3 0
+0 36 10 11
 1
 end_operator
 begin_operator
@@ -24958,8 +24958,8 @@ overcome prostatitis aesthetics snickers neptune mars
 1
 0 10
 2
-0 36 10 11
 0 22 1 2
+0 36 10 11
 1
 end_operator
 begin_operator
@@ -24967,8 +24967,8 @@ overcome prostatitis aesthetics snickers saturn neptune
 1
 0 10
 2
-0 36 10 11
 0 22 2 3
+0 36 10 11
 1
 end_operator
 begin_operator
@@ -24976,8 +24976,8 @@ overcome prostatitis expectation bacon earth saturn
 1
 1 0
 2
-0 36 0 12
 0 23 3 0
+0 36 0 12
 1
 end_operator
 begin_operator
@@ -24985,8 +24985,8 @@ overcome prostatitis expectation bacon neptune mars
 1
 1 0
 2
-0 36 0 12
 0 23 1 2
+0 36 0 12
 1
 end_operator
 begin_operator
@@ -24994,8 +24994,8 @@ overcome prostatitis expectation bacon saturn neptune
 1
 1 0
 2
-0 36 0 12
 0 23 2 3
+0 36 0 12
 1
 end_operator
 begin_operator
@@ -25003,8 +25003,8 @@ overcome prostatitis expectation cantelope earth saturn
 1
 1 1
 2
-0 36 1 12
 0 23 3 0
+0 36 1 12
 1
 end_operator
 begin_operator
@@ -25012,8 +25012,8 @@ overcome prostatitis expectation cantelope neptune mars
 1
 1 1
 2
-0 36 1 12
 0 23 1 2
+0 36 1 12
 1
 end_operator
 begin_operator
@@ -25021,8 +25021,8 @@ overcome prostatitis expectation cantelope saturn neptune
 1
 1 1
 2
-0 36 1 12
 0 23 2 3
+0 36 1 12
 1
 end_operator
 begin_operator
@@ -25030,8 +25030,8 @@ overcome prostatitis expectation chicken earth saturn
 1
 1 2
 2
-0 36 2 12
 0 23 3 0
+0 36 2 12
 1
 end_operator
 begin_operator
@@ -25039,8 +25039,8 @@ overcome prostatitis expectation chicken neptune mars
 1
 1 2
 2
-0 36 2 12
 0 23 1 2
+0 36 2 12
 1
 end_operator
 begin_operator
@@ -25048,8 +25048,8 @@ overcome prostatitis expectation chicken saturn neptune
 1
 1 2
 2
-0 36 2 12
 0 23 2 3
+0 36 2 12
 1
 end_operator
 begin_operator
@@ -25057,8 +25057,8 @@ overcome prostatitis expectation chocolate earth saturn
 1
 1 3
 2
-0 36 3 12
 0 23 3 0
+0 36 3 12
 1
 end_operator
 begin_operator
@@ -25066,8 +25066,8 @@ overcome prostatitis expectation chocolate neptune mars
 1
 1 3
 2
-0 36 3 12
 0 23 1 2
+0 36 3 12
 1
 end_operator
 begin_operator
@@ -25075,8 +25075,8 @@ overcome prostatitis expectation chocolate saturn neptune
 1
 1 3
 2
-0 36 3 12
 0 23 2 3
+0 36 3 12
 1
 end_operator
 begin_operator
@@ -25084,8 +25084,8 @@ overcome prostatitis expectation grapefruit earth saturn
 1
 1 4
 2
-0 36 4 12
 0 23 3 0
+0 36 4 12
 1
 end_operator
 begin_operator
@@ -25093,8 +25093,8 @@ overcome prostatitis expectation grapefruit neptune mars
 1
 1 4
 2
-0 36 4 12
 0 23 1 2
+0 36 4 12
 1
 end_operator
 begin_operator
@@ -25102,8 +25102,8 @@ overcome prostatitis expectation grapefruit saturn neptune
 1
 1 4
 2
-0 36 4 12
 0 23 2 3
+0 36 4 12
 1
 end_operator
 begin_operator
@@ -25111,8 +25111,8 @@ overcome prostatitis expectation ham earth saturn
 1
 1 5
 2
-0 36 5 12
 0 23 3 0
+0 36 5 12
 1
 end_operator
 begin_operator
@@ -25120,8 +25120,8 @@ overcome prostatitis expectation ham neptune mars
 1
 1 5
 2
-0 36 5 12
 0 23 1 2
+0 36 5 12
 1
 end_operator
 begin_operator
@@ -25129,8 +25129,8 @@ overcome prostatitis expectation ham saturn neptune
 1
 1 5
 2
-0 36 5 12
 0 23 2 3
+0 36 5 12
 1
 end_operator
 begin_operator
@@ -25138,8 +25138,8 @@ overcome prostatitis expectation haroset earth saturn
 1
 1 6
 2
-0 36 6 12
 0 23 3 0
+0 36 6 12
 1
 end_operator
 begin_operator
@@ -25147,8 +25147,8 @@ overcome prostatitis expectation haroset neptune mars
 1
 1 6
 2
-0 36 6 12
 0 23 1 2
+0 36 6 12
 1
 end_operator
 begin_operator
@@ -25156,8 +25156,8 @@ overcome prostatitis expectation haroset saturn neptune
 1
 1 6
 2
-0 36 6 12
 0 23 2 3
+0 36 6 12
 1
 end_operator
 begin_operator
@@ -25165,8 +25165,8 @@ overcome prostatitis expectation lemon earth saturn
 1
 1 7
 2
-0 36 7 12
 0 23 3 0
+0 36 7 12
 1
 end_operator
 begin_operator
@@ -25174,8 +25174,8 @@ overcome prostatitis expectation lemon neptune mars
 1
 1 7
 2
-0 36 7 12
 0 23 1 2
+0 36 7 12
 1
 end_operator
 begin_operator
@@ -25183,8 +25183,8 @@ overcome prostatitis expectation lemon saturn neptune
 1
 1 7
 2
-0 36 7 12
 0 23 2 3
+0 36 7 12
 1
 end_operator
 begin_operator
@@ -25192,8 +25192,8 @@ overcome prostatitis expectation muffin earth saturn
 1
 1 8
 2
-0 36 8 12
 0 23 3 0
+0 36 8 12
 1
 end_operator
 begin_operator
@@ -25201,8 +25201,8 @@ overcome prostatitis expectation muffin neptune mars
 1
 1 8
 2
-0 36 8 12
 0 23 1 2
+0 36 8 12
 1
 end_operator
 begin_operator
@@ -25210,8 +25210,8 @@ overcome prostatitis expectation muffin saturn neptune
 1
 1 8
 2
-0 36 8 12
 0 23 2 3
+0 36 8 12
 1
 end_operator
 begin_operator
@@ -25219,8 +25219,8 @@ overcome prostatitis expectation pistachio earth saturn
 1
 1 9
 2
-0 36 9 12
 0 23 3 0
+0 36 9 12
 1
 end_operator
 begin_operator
@@ -25228,8 +25228,8 @@ overcome prostatitis expectation pistachio neptune mars
 1
 1 9
 2
-0 36 9 12
 0 23 1 2
+0 36 9 12
 1
 end_operator
 begin_operator
@@ -25237,8 +25237,8 @@ overcome prostatitis expectation pistachio saturn neptune
 1
 1 9
 2
-0 36 9 12
 0 23 2 3
+0 36 9 12
 1
 end_operator
 begin_operator
@@ -25246,8 +25246,8 @@ overcome prostatitis expectation snickers earth saturn
 1
 1 10
 2
-0 36 10 12
 0 23 3 0
+0 36 10 12
 1
 end_operator
 begin_operator
@@ -25255,8 +25255,8 @@ overcome prostatitis expectation snickers neptune mars
 1
 1 10
 2
-0 36 10 12
 0 23 1 2
+0 36 10 12
 1
 end_operator
 begin_operator
@@ -25264,8 +25264,8 @@ overcome prostatitis expectation snickers saturn neptune
 1
 1 10
 2
-0 36 10 12
 0 23 2 3
+0 36 10 12
 1
 end_operator
 begin_operator
@@ -25273,8 +25273,8 @@ overcome prostatitis intoxication bacon earth saturn
 1
 2 0
 2
-0 36 0 13
 0 26 3 0
+0 36 0 13
 1
 end_operator
 begin_operator
@@ -25282,8 +25282,8 @@ overcome prostatitis intoxication bacon neptune mars
 1
 2 0
 2
-0 36 0 13
 0 26 1 2
+0 36 0 13
 1
 end_operator
 begin_operator
@@ -25291,8 +25291,8 @@ overcome prostatitis intoxication bacon saturn neptune
 1
 2 0
 2
-0 36 0 13
 0 26 2 3
+0 36 0 13
 1
 end_operator
 begin_operator
@@ -25300,8 +25300,8 @@ overcome prostatitis intoxication cantelope earth saturn
 1
 2 1
 2
-0 36 1 13
 0 26 3 0
+0 36 1 13
 1
 end_operator
 begin_operator
@@ -25309,8 +25309,8 @@ overcome prostatitis intoxication cantelope neptune mars
 1
 2 1
 2
-0 36 1 13
 0 26 1 2
+0 36 1 13
 1
 end_operator
 begin_operator
@@ -25318,8 +25318,8 @@ overcome prostatitis intoxication cantelope saturn neptune
 1
 2 1
 2
-0 36 1 13
 0 26 2 3
+0 36 1 13
 1
 end_operator
 begin_operator
@@ -25327,8 +25327,8 @@ overcome prostatitis intoxication chicken earth saturn
 1
 2 2
 2
-0 36 2 13
 0 26 3 0
+0 36 2 13
 1
 end_operator
 begin_operator
@@ -25336,8 +25336,8 @@ overcome prostatitis intoxication chicken neptune mars
 1
 2 2
 2
-0 36 2 13
 0 26 1 2
+0 36 2 13
 1
 end_operator
 begin_operator
@@ -25345,8 +25345,8 @@ overcome prostatitis intoxication chicken saturn neptune
 1
 2 2
 2
-0 36 2 13
 0 26 2 3
+0 36 2 13
 1
 end_operator
 begin_operator
@@ -25354,8 +25354,8 @@ overcome prostatitis intoxication chocolate earth saturn
 1
 2 3
 2
-0 36 3 13
 0 26 3 0
+0 36 3 13
 1
 end_operator
 begin_operator
@@ -25363,8 +25363,8 @@ overcome prostatitis intoxication chocolate neptune mars
 1
 2 3
 2
-0 36 3 13
 0 26 1 2
+0 36 3 13
 1
 end_operator
 begin_operator
@@ -25372,8 +25372,8 @@ overcome prostatitis intoxication chocolate saturn neptune
 1
 2 3
 2
-0 36 3 13
 0 26 2 3
+0 36 3 13
 1
 end_operator
 begin_operator
@@ -25381,8 +25381,8 @@ overcome prostatitis intoxication grapefruit earth saturn
 1
 2 4
 2
-0 36 4 13
 0 26 3 0
+0 36 4 13
 1
 end_operator
 begin_operator
@@ -25390,8 +25390,8 @@ overcome prostatitis intoxication grapefruit neptune mars
 1
 2 4
 2
-0 36 4 13
 0 26 1 2
+0 36 4 13
 1
 end_operator
 begin_operator
@@ -25399,8 +25399,8 @@ overcome prostatitis intoxication grapefruit saturn neptune
 1
 2 4
 2
-0 36 4 13
 0 26 2 3
+0 36 4 13
 1
 end_operator
 begin_operator
@@ -25408,8 +25408,8 @@ overcome prostatitis intoxication ham earth saturn
 1
 2 5
 2
-0 36 5 13
 0 26 3 0
+0 36 5 13
 1
 end_operator
 begin_operator
@@ -25417,8 +25417,8 @@ overcome prostatitis intoxication ham neptune mars
 1
 2 5
 2
-0 36 5 13
 0 26 1 2
+0 36 5 13
 1
 end_operator
 begin_operator
@@ -25426,8 +25426,8 @@ overcome prostatitis intoxication ham saturn neptune
 1
 2 5
 2
-0 36 5 13
 0 26 2 3
+0 36 5 13
 1
 end_operator
 begin_operator
@@ -25435,8 +25435,8 @@ overcome prostatitis intoxication haroset earth saturn
 1
 2 6
 2
-0 36 6 13
 0 26 3 0
+0 36 6 13
 1
 end_operator
 begin_operator
@@ -25444,8 +25444,8 @@ overcome prostatitis intoxication haroset neptune mars
 1
 2 6
 2
-0 36 6 13
 0 26 1 2
+0 36 6 13
 1
 end_operator
 begin_operator
@@ -25453,8 +25453,8 @@ overcome prostatitis intoxication haroset saturn neptune
 1
 2 6
 2
-0 36 6 13
 0 26 2 3
+0 36 6 13
 1
 end_operator
 begin_operator
@@ -25462,8 +25462,8 @@ overcome prostatitis intoxication lemon earth saturn
 1
 2 7
 2
-0 36 7 13
 0 26 3 0
+0 36 7 13
 1
 end_operator
 begin_operator
@@ -25471,8 +25471,8 @@ overcome prostatitis intoxication lemon neptune mars
 1
 2 7
 2
-0 36 7 13
 0 26 1 2
+0 36 7 13
 1
 end_operator
 begin_operator
@@ -25480,8 +25480,8 @@ overcome prostatitis intoxication lemon saturn neptune
 1
 2 7
 2
-0 36 7 13
 0 26 2 3
+0 36 7 13
 1
 end_operator
 begin_operator
@@ -25489,8 +25489,8 @@ overcome prostatitis intoxication muffin earth saturn
 1
 2 8
 2
-0 36 8 13
 0 26 3 0
+0 36 8 13
 1
 end_operator
 begin_operator
@@ -25498,8 +25498,8 @@ overcome prostatitis intoxication muffin neptune mars
 1
 2 8
 2
-0 36 8 13
 0 26 1 2
+0 36 8 13
 1
 end_operator
 begin_operator
@@ -25507,8 +25507,8 @@ overcome prostatitis intoxication muffin saturn neptune
 1
 2 8
 2
-0 36 8 13
 0 26 2 3
+0 36 8 13
 1
 end_operator
 begin_operator
@@ -25516,8 +25516,8 @@ overcome prostatitis intoxication pistachio earth saturn
 1
 2 9
 2
-0 36 9 13
 0 26 3 0
+0 36 9 13
 1
 end_operator
 begin_operator
@@ -25525,8 +25525,8 @@ overcome prostatitis intoxication pistachio neptune mars
 1
 2 9
 2
-0 36 9 13
 0 26 1 2
+0 36 9 13
 1
 end_operator
 begin_operator
@@ -25534,8 +25534,8 @@ overcome prostatitis intoxication pistachio saturn neptune
 1
 2 9
 2
-0 36 9 13
 0 26 2 3
+0 36 9 13
 1
 end_operator
 begin_operator
@@ -25543,8 +25543,8 @@ overcome prostatitis intoxication snickers earth saturn
 1
 2 10
 2
-0 36 10 13
 0 26 3 0
+0 36 10 13
 1
 end_operator
 begin_operator
@@ -25552,8 +25552,8 @@ overcome prostatitis intoxication snickers neptune mars
 1
 2 10
 2
-0 36 10 13
 0 26 1 2
+0 36 10 13
 1
 end_operator
 begin_operator
@@ -25561,8 +25561,8 @@ overcome prostatitis intoxication snickers saturn neptune
 1
 2 10
 2
-0 36 10 13
 0 26 2 3
+0 36 10 13
 1
 end_operator
 begin_operator
@@ -25570,8 +25570,8 @@ overcome prostatitis learning bacon earth saturn
 1
 3 0
 2
-0 36 0 14
 0 27 3 0
+0 36 0 14
 1
 end_operator
 begin_operator
@@ -25579,8 +25579,8 @@ overcome prostatitis learning bacon neptune mars
 1
 3 0
 2
-0 36 0 14
 0 27 1 2
+0 36 0 14
 1
 end_operator
 begin_operator
@@ -25588,8 +25588,8 @@ overcome prostatitis learning bacon saturn neptune
 1
 3 0
 2
-0 36 0 14
 0 27 2 3
+0 36 0 14
 1
 end_operator
 begin_operator
@@ -25597,8 +25597,8 @@ overcome prostatitis learning cantelope earth saturn
 1
 3 1
 2
-0 36 1 14
 0 27 3 0
+0 36 1 14
 1
 end_operator
 begin_operator
@@ -25606,8 +25606,8 @@ overcome prostatitis learning cantelope neptune mars
 1
 3 1
 2
-0 36 1 14
 0 27 1 2
+0 36 1 14
 1
 end_operator
 begin_operator
@@ -25615,8 +25615,8 @@ overcome prostatitis learning cantelope saturn neptune
 1
 3 1
 2
-0 36 1 14
 0 27 2 3
+0 36 1 14
 1
 end_operator
 begin_operator
@@ -25624,8 +25624,8 @@ overcome prostatitis learning chicken earth saturn
 1
 3 2
 2
-0 36 2 14
 0 27 3 0
+0 36 2 14
 1
 end_operator
 begin_operator
@@ -25633,8 +25633,8 @@ overcome prostatitis learning chicken neptune mars
 1
 3 2
 2
-0 36 2 14
 0 27 1 2
+0 36 2 14
 1
 end_operator
 begin_operator
@@ -25642,8 +25642,8 @@ overcome prostatitis learning chicken saturn neptune
 1
 3 2
 2
-0 36 2 14
 0 27 2 3
+0 36 2 14
 1
 end_operator
 begin_operator
@@ -25651,8 +25651,8 @@ overcome prostatitis learning chocolate earth saturn
 1
 3 3
 2
-0 36 3 14
 0 27 3 0
+0 36 3 14
 1
 end_operator
 begin_operator
@@ -25660,8 +25660,8 @@ overcome prostatitis learning chocolate neptune mars
 1
 3 3
 2
-0 36 3 14
 0 27 1 2
+0 36 3 14
 1
 end_operator
 begin_operator
@@ -25669,8 +25669,8 @@ overcome prostatitis learning chocolate saturn neptune
 1
 3 3
 2
-0 36 3 14
 0 27 2 3
+0 36 3 14
 1
 end_operator
 begin_operator
@@ -25678,8 +25678,8 @@ overcome prostatitis learning grapefruit earth saturn
 1
 3 4
 2
-0 36 4 14
 0 27 3 0
+0 36 4 14
 1
 end_operator
 begin_operator
@@ -25687,8 +25687,8 @@ overcome prostatitis learning grapefruit neptune mars
 1
 3 4
 2
-0 36 4 14
 0 27 1 2
+0 36 4 14
 1
 end_operator
 begin_operator
@@ -25696,8 +25696,8 @@ overcome prostatitis learning grapefruit saturn neptune
 1
 3 4
 2
-0 36 4 14
 0 27 2 3
+0 36 4 14
 1
 end_operator
 begin_operator
@@ -25705,8 +25705,8 @@ overcome prostatitis learning ham earth saturn
 1
 3 5
 2
-0 36 5 14
 0 27 3 0
+0 36 5 14
 1
 end_operator
 begin_operator
@@ -25714,8 +25714,8 @@ overcome prostatitis learning ham neptune mars
 1
 3 5
 2
-0 36 5 14
 0 27 1 2
+0 36 5 14
 1
 end_operator
 begin_operator
@@ -25723,8 +25723,8 @@ overcome prostatitis learning ham saturn neptune
 1
 3 5
 2
-0 36 5 14
 0 27 2 3
+0 36 5 14
 1
 end_operator
 begin_operator
@@ -25732,8 +25732,8 @@ overcome prostatitis learning haroset earth saturn
 1
 3 6
 2
-0 36 6 14
 0 27 3 0
+0 36 6 14
 1
 end_operator
 begin_operator
@@ -25741,8 +25741,8 @@ overcome prostatitis learning haroset neptune mars
 1
 3 6
 2
-0 36 6 14
 0 27 1 2
+0 36 6 14
 1
 end_operator
 begin_operator
@@ -25750,8 +25750,8 @@ overcome prostatitis learning haroset saturn neptune
 1
 3 6
 2
-0 36 6 14
 0 27 2 3
+0 36 6 14
 1
 end_operator
 begin_operator
@@ -25759,8 +25759,8 @@ overcome prostatitis learning lemon earth saturn
 1
 3 7
 2
-0 36 7 14
 0 27 3 0
+0 36 7 14
 1
 end_operator
 begin_operator
@@ -25768,8 +25768,8 @@ overcome prostatitis learning lemon neptune mars
 1
 3 7
 2
-0 36 7 14
 0 27 1 2
+0 36 7 14
 1
 end_operator
 begin_operator
@@ -25777,8 +25777,8 @@ overcome prostatitis learning lemon saturn neptune
 1
 3 7
 2
-0 36 7 14
 0 27 2 3
+0 36 7 14
 1
 end_operator
 begin_operator
@@ -25786,8 +25786,8 @@ overcome prostatitis learning muffin earth saturn
 1
 3 8
 2
-0 36 8 14
 0 27 3 0
+0 36 8 14
 1
 end_operator
 begin_operator
@@ -25795,8 +25795,8 @@ overcome prostatitis learning muffin neptune mars
 1
 3 8
 2
-0 36 8 14
 0 27 1 2
+0 36 8 14
 1
 end_operator
 begin_operator
@@ -25804,8 +25804,8 @@ overcome prostatitis learning muffin saturn neptune
 1
 3 8
 2
-0 36 8 14
 0 27 2 3
+0 36 8 14
 1
 end_operator
 begin_operator
@@ -25813,8 +25813,8 @@ overcome prostatitis learning pistachio earth saturn
 1
 3 9
 2
-0 36 9 14
 0 27 3 0
+0 36 9 14
 1
 end_operator
 begin_operator
@@ -25822,8 +25822,8 @@ overcome prostatitis learning pistachio neptune mars
 1
 3 9
 2
-0 36 9 14
 0 27 1 2
+0 36 9 14
 1
 end_operator
 begin_operator
@@ -25831,8 +25831,8 @@ overcome prostatitis learning pistachio saturn neptune
 1
 3 9
 2
-0 36 9 14
 0 27 2 3
+0 36 9 14
 1
 end_operator
 begin_operator
@@ -25840,8 +25840,8 @@ overcome prostatitis learning snickers earth saturn
 1
 3 10
 2
-0 36 10 14
 0 27 3 0
+0 36 10 14
 1
 end_operator
 begin_operator
@@ -25849,8 +25849,8 @@ overcome prostatitis learning snickers neptune mars
 1
 3 10
 2
-0 36 10 14
 0 27 1 2
+0 36 10 14
 1
 end_operator
 begin_operator
@@ -25858,8 +25858,8 @@ overcome prostatitis learning snickers saturn neptune
 1
 3 10
 2
-0 36 10 14
 0 27 2 3
+0 36 10 14
 1
 end_operator
 begin_operator
@@ -25867,8 +25867,8 @@ overcome prostatitis love bacon earth saturn
 1
 4 0
 2
-0 36 0 15
 0 30 3 0
+0 36 0 15
 1
 end_operator
 begin_operator
@@ -25876,8 +25876,8 @@ overcome prostatitis love bacon neptune mars
 1
 4 0
 2
-0 36 0 15
 0 30 1 2
+0 36 0 15
 1
 end_operator
 begin_operator
@@ -25885,8 +25885,8 @@ overcome prostatitis love bacon saturn neptune
 1
 4 0
 2
-0 36 0 15
 0 30 2 3
+0 36 0 15
 1
 end_operator
 begin_operator
@@ -25894,8 +25894,8 @@ overcome prostatitis love cantelope earth saturn
 1
 4 1
 2
-0 36 1 15
 0 30 3 0
+0 36 1 15
 1
 end_operator
 begin_operator
@@ -25903,8 +25903,8 @@ overcome prostatitis love cantelope neptune mars
 1
 4 1
 2
-0 36 1 15
 0 30 1 2
+0 36 1 15
 1
 end_operator
 begin_operator
@@ -25912,8 +25912,8 @@ overcome prostatitis love cantelope saturn neptune
 1
 4 1
 2
-0 36 1 15
 0 30 2 3
+0 36 1 15
 1
 end_operator
 begin_operator
@@ -25921,8 +25921,8 @@ overcome prostatitis love chicken earth saturn
 1
 4 2
 2
-0 36 2 15
 0 30 3 0
+0 36 2 15
 1
 end_operator
 begin_operator
@@ -25930,8 +25930,8 @@ overcome prostatitis love chicken neptune mars
 1
 4 2
 2
-0 36 2 15
 0 30 1 2
+0 36 2 15
 1
 end_operator
 begin_operator
@@ -25939,8 +25939,8 @@ overcome prostatitis love chicken saturn neptune
 1
 4 2
 2
-0 36 2 15
 0 30 2 3
+0 36 2 15
 1
 end_operator
 begin_operator
@@ -25948,8 +25948,8 @@ overcome prostatitis love chocolate earth saturn
 1
 4 3
 2
-0 36 3 15
 0 30 3 0
+0 36 3 15
 1
 end_operator
 begin_operator
@@ -25957,8 +25957,8 @@ overcome prostatitis love chocolate neptune mars
 1
 4 3
 2
-0 36 3 15
 0 30 1 2
+0 36 3 15
 1
 end_operator
 begin_operator
@@ -25966,8 +25966,8 @@ overcome prostatitis love chocolate saturn neptune
 1
 4 3
 2
-0 36 3 15
 0 30 2 3
+0 36 3 15
 1
 end_operator
 begin_operator
@@ -25975,8 +25975,8 @@ overcome prostatitis love grapefruit earth saturn
 1
 4 4
 2
-0 36 4 15
 0 30 3 0
+0 36 4 15
 1
 end_operator
 begin_operator
@@ -25984,8 +25984,8 @@ overcome prostatitis love grapefruit neptune mars
 1
 4 4
 2
-0 36 4 15
 0 30 1 2
+0 36 4 15
 1
 end_operator
 begin_operator
@@ -25993,8 +25993,8 @@ overcome prostatitis love grapefruit saturn neptune
 1
 4 4
 2
-0 36 4 15
 0 30 2 3
+0 36 4 15
 1
 end_operator
 begin_operator
@@ -26002,8 +26002,8 @@ overcome prostatitis love ham earth saturn
 1
 4 5
 2
-0 36 5 15
 0 30 3 0
+0 36 5 15
 1
 end_operator
 begin_operator
@@ -26011,8 +26011,8 @@ overcome prostatitis love ham neptune mars
 1
 4 5
 2
-0 36 5 15
 0 30 1 2
+0 36 5 15
 1
 end_operator
 begin_operator
@@ -26020,8 +26020,8 @@ overcome prostatitis love ham saturn neptune
 1
 4 5
 2
-0 36 5 15
 0 30 2 3
+0 36 5 15
 1
 end_operator
 begin_operator
@@ -26029,8 +26029,8 @@ overcome prostatitis love haroset earth saturn
 1
 4 6
 2
-0 36 6 15
 0 30 3 0
+0 36 6 15
 1
 end_operator
 begin_operator
@@ -26038,8 +26038,8 @@ overcome prostatitis love haroset neptune mars
 1
 4 6
 2
-0 36 6 15
 0 30 1 2
+0 36 6 15
 1
 end_operator
 begin_operator
@@ -26047,8 +26047,8 @@ overcome prostatitis love haroset saturn neptune
 1
 4 6
 2
-0 36 6 15
 0 30 2 3
+0 36 6 15
 1
 end_operator
 begin_operator
@@ -26056,8 +26056,8 @@ overcome prostatitis love lemon earth saturn
 1
 4 7
 2
-0 36 7 15
 0 30 3 0
+0 36 7 15
 1
 end_operator
 begin_operator
@@ -26065,8 +26065,8 @@ overcome prostatitis love lemon neptune mars
 1
 4 7
 2
-0 36 7 15
 0 30 1 2
+0 36 7 15
 1
 end_operator
 begin_operator
@@ -26074,8 +26074,8 @@ overcome prostatitis love lemon saturn neptune
 1
 4 7
 2
-0 36 7 15
 0 30 2 3
+0 36 7 15
 1
 end_operator
 begin_operator
@@ -26083,8 +26083,8 @@ overcome prostatitis love muffin earth saturn
 1
 4 8
 2
-0 36 8 15
 0 30 3 0
+0 36 8 15
 1
 end_operator
 begin_operator
@@ -26092,8 +26092,8 @@ overcome prostatitis love muffin neptune mars
 1
 4 8
 2
-0 36 8 15
 0 30 1 2
+0 36 8 15
 1
 end_operator
 begin_operator
@@ -26101,8 +26101,8 @@ overcome prostatitis love muffin saturn neptune
 1
 4 8
 2
-0 36 8 15
 0 30 2 3
+0 36 8 15
 1
 end_operator
 begin_operator
@@ -26110,8 +26110,8 @@ overcome prostatitis love pistachio earth saturn
 1
 4 9
 2
-0 36 9 15
 0 30 3 0
+0 36 9 15
 1
 end_operator
 begin_operator
@@ -26119,8 +26119,8 @@ overcome prostatitis love pistachio neptune mars
 1
 4 9
 2
-0 36 9 15
 0 30 1 2
+0 36 9 15
 1
 end_operator
 begin_operator
@@ -26128,8 +26128,8 @@ overcome prostatitis love pistachio saturn neptune
 1
 4 9
 2
-0 36 9 15
 0 30 2 3
+0 36 9 15
 1
 end_operator
 begin_operator
@@ -26137,8 +26137,8 @@ overcome prostatitis love snickers earth saturn
 1
 4 10
 2
-0 36 10 15
 0 30 3 0
+0 36 10 15
 1
 end_operator
 begin_operator
@@ -26146,8 +26146,8 @@ overcome prostatitis love snickers neptune mars
 1
 4 10
 2
-0 36 10 15
 0 30 1 2
+0 36 10 15
 1
 end_operator
 begin_operator
@@ -26155,8 +26155,8 @@ overcome prostatitis love snickers saturn neptune
 1
 4 10
 2
-0 36 10 15
 0 30 2 3
+0 36 10 15
 1
 end_operator
 begin_operator
@@ -26164,8 +26164,8 @@ overcome prostatitis rest bacon earth saturn
 1
 5 0
 2
-0 36 0 16
 0 31 3 0
+0 36 0 16
 1
 end_operator
 begin_operator
@@ -26173,8 +26173,8 @@ overcome prostatitis rest bacon neptune mars
 1
 5 0
 2
-0 36 0 16
 0 31 1 2
+0 36 0 16
 1
 end_operator
 begin_operator
@@ -26182,8 +26182,8 @@ overcome prostatitis rest bacon saturn neptune
 1
 5 0
 2
-0 36 0 16
 0 31 2 3
+0 36 0 16
 1
 end_operator
 begin_operator
@@ -26191,8 +26191,8 @@ overcome prostatitis rest cantelope earth saturn
 1
 5 1
 2
-0 36 1 16
 0 31 3 0
+0 36 1 16
 1
 end_operator
 begin_operator
@@ -26200,8 +26200,8 @@ overcome prostatitis rest cantelope neptune mars
 1
 5 1
 2
-0 36 1 16
 0 31 1 2
+0 36 1 16
 1
 end_operator
 begin_operator
@@ -26209,8 +26209,8 @@ overcome prostatitis rest cantelope saturn neptune
 1
 5 1
 2
-0 36 1 16
 0 31 2 3
+0 36 1 16
 1
 end_operator
 begin_operator
@@ -26218,8 +26218,8 @@ overcome prostatitis rest chicken earth saturn
 1
 5 2
 2
-0 36 2 16
 0 31 3 0
+0 36 2 16
 1
 end_operator
 begin_operator
@@ -26227,8 +26227,8 @@ overcome prostatitis rest chicken neptune mars
 1
 5 2
 2
-0 36 2 16
 0 31 1 2
+0 36 2 16
 1
 end_operator
 begin_operator
@@ -26236,8 +26236,8 @@ overcome prostatitis rest chicken saturn neptune
 1
 5 2
 2
-0 36 2 16
 0 31 2 3
+0 36 2 16
 1
 end_operator
 begin_operator
@@ -26245,8 +26245,8 @@ overcome prostatitis rest chocolate earth saturn
 1
 5 3
 2
-0 36 3 16
 0 31 3 0
+0 36 3 16
 1
 end_operator
 begin_operator
@@ -26254,8 +26254,8 @@ overcome prostatitis rest chocolate neptune mars
 1
 5 3
 2
-0 36 3 16
 0 31 1 2
+0 36 3 16
 1
 end_operator
 begin_operator
@@ -26263,8 +26263,8 @@ overcome prostatitis rest chocolate saturn neptune
 1
 5 3
 2
-0 36 3 16
 0 31 2 3
+0 36 3 16
 1
 end_operator
 begin_operator
@@ -26272,8 +26272,8 @@ overcome prostatitis rest grapefruit earth saturn
 1
 5 4
 2
-0 36 4 16
 0 31 3 0
+0 36 4 16
 1
 end_operator
 begin_operator
@@ -26281,8 +26281,8 @@ overcome prostatitis rest grapefruit neptune mars
 1
 5 4
 2
-0 36 4 16
 0 31 1 2
+0 36 4 16
 1
 end_operator
 begin_operator
@@ -26290,8 +26290,8 @@ overcome prostatitis rest grapefruit saturn neptune
 1
 5 4
 2
-0 36 4 16
 0 31 2 3
+0 36 4 16
 1
 end_operator
 begin_operator
@@ -26299,8 +26299,8 @@ overcome prostatitis rest ham earth saturn
 1
 5 5
 2
-0 36 5 16
 0 31 3 0
+0 36 5 16
 1
 end_operator
 begin_operator
@@ -26308,8 +26308,8 @@ overcome prostatitis rest ham neptune mars
 1
 5 5
 2
-0 36 5 16
 0 31 1 2
+0 36 5 16
 1
 end_operator
 begin_operator
@@ -26317,8 +26317,8 @@ overcome prostatitis rest ham saturn neptune
 1
 5 5
 2
-0 36 5 16
 0 31 2 3
+0 36 5 16
 1
 end_operator
 begin_operator
@@ -26326,8 +26326,8 @@ overcome prostatitis rest haroset earth saturn
 1
 5 6
 2
-0 36 6 16
 0 31 3 0
+0 36 6 16
 1
 end_operator
 begin_operator
@@ -26335,8 +26335,8 @@ overcome prostatitis rest haroset neptune mars
 1
 5 6
 2
-0 36 6 16
 0 31 1 2
+0 36 6 16
 1
 end_operator
 begin_operator
@@ -26344,8 +26344,8 @@ overcome prostatitis rest haroset saturn neptune
 1
 5 6
 2
-0 36 6 16
 0 31 2 3
+0 36 6 16
 1
 end_operator
 begin_operator
@@ -26353,8 +26353,8 @@ overcome prostatitis rest lemon earth saturn
 1
 5 7
 2
-0 36 7 16
 0 31 3 0
+0 36 7 16
 1
 end_operator
 begin_operator
@@ -26362,8 +26362,8 @@ overcome prostatitis rest lemon neptune mars
 1
 5 7
 2
-0 36 7 16
 0 31 1 2
+0 36 7 16
 1
 end_operator
 begin_operator
@@ -26371,8 +26371,8 @@ overcome prostatitis rest lemon saturn neptune
 1
 5 7
 2
-0 36 7 16
 0 31 2 3
+0 36 7 16
 1
 end_operator
 begin_operator
@@ -26380,8 +26380,8 @@ overcome prostatitis rest muffin earth saturn
 1
 5 8
 2
-0 36 8 16
 0 31 3 0
+0 36 8 16
 1
 end_operator
 begin_operator
@@ -26389,8 +26389,8 @@ overcome prostatitis rest muffin neptune mars
 1
 5 8
 2
-0 36 8 16
 0 31 1 2
+0 36 8 16
 1
 end_operator
 begin_operator
@@ -26398,8 +26398,8 @@ overcome prostatitis rest muffin saturn neptune
 1
 5 8
 2
-0 36 8 16
 0 31 2 3
+0 36 8 16
 1
 end_operator
 begin_operator
@@ -26407,8 +26407,8 @@ overcome prostatitis rest pistachio earth saturn
 1
 5 9
 2
-0 36 9 16
 0 31 3 0
+0 36 9 16
 1
 end_operator
 begin_operator
@@ -26416,8 +26416,8 @@ overcome prostatitis rest pistachio neptune mars
 1
 5 9
 2
-0 36 9 16
 0 31 1 2
+0 36 9 16
 1
 end_operator
 begin_operator
@@ -26425,8 +26425,8 @@ overcome prostatitis rest pistachio saturn neptune
 1
 5 9
 2
-0 36 9 16
 0 31 2 3
+0 36 9 16
 1
 end_operator
 begin_operator
@@ -26434,8 +26434,8 @@ overcome prostatitis rest snickers earth saturn
 1
 5 10
 2
-0 36 10 16
 0 31 3 0
+0 36 10 16
 1
 end_operator
 begin_operator
@@ -26443,8 +26443,8 @@ overcome prostatitis rest snickers neptune mars
 1
 5 10
 2
-0 36 10 16
 0 31 1 2
+0 36 10 16
 1
 end_operator
 begin_operator
@@ -26452,8 +26452,8 @@ overcome prostatitis rest snickers saturn neptune
 1
 5 10
 2
-0 36 10 16
 0 31 2 3
+0 36 10 16
 1
 end_operator
 begin_operator
@@ -26461,8 +26461,8 @@ overcome prostatitis triumph bacon earth saturn
 1
 13 0
 2
-0 36 0 17
 0 34 3 0
+0 36 0 17
 1
 end_operator
 begin_operator
@@ -26470,8 +26470,8 @@ overcome prostatitis triumph bacon neptune mars
 1
 13 0
 2
-0 36 0 17
 0 34 1 2
+0 36 0 17
 1
 end_operator
 begin_operator
@@ -26479,8 +26479,8 @@ overcome prostatitis triumph bacon saturn neptune
 1
 13 0
 2
-0 36 0 17
 0 34 2 3
+0 36 0 17
 1
 end_operator
 begin_operator
@@ -26488,8 +26488,8 @@ overcome prostatitis triumph cantelope earth saturn
 1
 13 1
 2
-0 36 1 17
 0 34 3 0
+0 36 1 17
 1
 end_operator
 begin_operator
@@ -26497,8 +26497,8 @@ overcome prostatitis triumph cantelope neptune mars
 1
 13 1
 2
-0 36 1 17
 0 34 1 2
+0 36 1 17
 1
 end_operator
 begin_operator
@@ -26506,8 +26506,8 @@ overcome prostatitis triumph cantelope saturn neptune
 1
 13 1
 2
-0 36 1 17
 0 34 2 3
+0 36 1 17
 1
 end_operator
 begin_operator
@@ -26515,8 +26515,8 @@ overcome prostatitis triumph chicken earth saturn
 1
 13 2
 2
-0 36 2 17
 0 34 3 0
+0 36 2 17
 1
 end_operator
 begin_operator
@@ -26524,8 +26524,8 @@ overcome prostatitis triumph chicken neptune mars
 1
 13 2
 2
-0 36 2 17
 0 34 1 2
+0 36 2 17
 1
 end_operator
 begin_operator
@@ -26533,8 +26533,8 @@ overcome prostatitis triumph chicken saturn neptune
 1
 13 2
 2
-0 36 2 17
 0 34 2 3
+0 36 2 17
 1
 end_operator
 begin_operator
@@ -26542,8 +26542,8 @@ overcome prostatitis triumph chocolate earth saturn
 1
 13 3
 2
-0 36 3 17
 0 34 3 0
+0 36 3 17
 1
 end_operator
 begin_operator
@@ -26551,8 +26551,8 @@ overcome prostatitis triumph chocolate neptune mars
 1
 13 3
 2
-0 36 3 17
 0 34 1 2
+0 36 3 17
 1
 end_operator
 begin_operator
@@ -26560,8 +26560,8 @@ overcome prostatitis triumph chocolate saturn neptune
 1
 13 3
 2
-0 36 3 17
 0 34 2 3
+0 36 3 17
 1
 end_operator
 begin_operator
@@ -26569,8 +26569,8 @@ overcome prostatitis triumph grapefruit earth saturn
 1
 13 4
 2
-0 36 4 17
 0 34 3 0
+0 36 4 17
 1
 end_operator
 begin_operator
@@ -26578,8 +26578,8 @@ overcome prostatitis triumph grapefruit neptune mars
 1
 13 4
 2
-0 36 4 17
 0 34 1 2
+0 36 4 17
 1
 end_operator
 begin_operator
@@ -26587,8 +26587,8 @@ overcome prostatitis triumph grapefruit saturn neptune
 1
 13 4
 2
-0 36 4 17
 0 34 2 3
+0 36 4 17
 1
 end_operator
 begin_operator
@@ -26596,8 +26596,8 @@ overcome prostatitis triumph ham earth saturn
 1
 13 5
 2
-0 36 5 17
 0 34 3 0
+0 36 5 17
 1
 end_operator
 begin_operator
@@ -26605,8 +26605,8 @@ overcome prostatitis triumph ham neptune mars
 1
 13 5
 2
-0 36 5 17
 0 34 1 2
+0 36 5 17
 1
 end_operator
 begin_operator
@@ -26614,8 +26614,8 @@ overcome prostatitis triumph ham saturn neptune
 1
 13 5
 2
-0 36 5 17
 0 34 2 3
+0 36 5 17
 1
 end_operator
 begin_operator
@@ -26623,8 +26623,8 @@ overcome prostatitis triumph haroset earth saturn
 1
 13 6
 2
-0 36 6 17
 0 34 3 0
+0 36 6 17
 1
 end_operator
 begin_operator
@@ -26632,8 +26632,8 @@ overcome prostatitis triumph haroset neptune mars
 1
 13 6
 2
-0 36 6 17
 0 34 1 2
+0 36 6 17
 1
 end_operator
 begin_operator
@@ -26641,8 +26641,8 @@ overcome prostatitis triumph haroset saturn neptune
 1
 13 6
 2
-0 36 6 17
 0 34 2 3
+0 36 6 17
 1
 end_operator
 begin_operator
@@ -26650,8 +26650,8 @@ overcome prostatitis triumph lemon earth saturn
 1
 13 7
 2
-0 36 7 17
 0 34 3 0
+0 36 7 17
 1
 end_operator
 begin_operator
@@ -26659,8 +26659,8 @@ overcome prostatitis triumph lemon neptune mars
 1
 13 7
 2
-0 36 7 17
 0 34 1 2
+0 36 7 17
 1
 end_operator
 begin_operator
@@ -26668,8 +26668,8 @@ overcome prostatitis triumph lemon saturn neptune
 1
 13 7
 2
-0 36 7 17
 0 34 2 3
+0 36 7 17
 1
 end_operator
 begin_operator
@@ -26677,8 +26677,8 @@ overcome prostatitis triumph muffin earth saturn
 1
 13 8
 2
-0 36 8 17
 0 34 3 0
+0 36 8 17
 1
 end_operator
 begin_operator
@@ -26686,8 +26686,8 @@ overcome prostatitis triumph muffin neptune mars
 1
 13 8
 2
-0 36 8 17
 0 34 1 2
+0 36 8 17
 1
 end_operator
 begin_operator
@@ -26695,8 +26695,8 @@ overcome prostatitis triumph muffin saturn neptune
 1
 13 8
 2
-0 36 8 17
 0 34 2 3
+0 36 8 17
 1
 end_operator
 begin_operator
@@ -26704,8 +26704,8 @@ overcome prostatitis triumph pistachio earth saturn
 1
 13 9
 2
-0 36 9 17
 0 34 3 0
+0 36 9 17
 1
 end_operator
 begin_operator
@@ -26713,8 +26713,8 @@ overcome prostatitis triumph pistachio neptune mars
 1
 13 9
 2
-0 36 9 17
 0 34 1 2
+0 36 9 17
 1
 end_operator
 begin_operator
@@ -26722,8 +26722,8 @@ overcome prostatitis triumph pistachio saturn neptune
 1
 13 9
 2
-0 36 9 17
 0 34 2 3
+0 36 9 17
 1
 end_operator
 begin_operator
@@ -26731,8 +26731,8 @@ overcome prostatitis triumph snickers earth saturn
 1
 13 10
 2
-0 36 10 17
 0 34 3 0
+0 36 10 17
 1
 end_operator
 begin_operator
@@ -26740,8 +26740,8 @@ overcome prostatitis triumph snickers neptune mars
 1
 13 10
 2
-0 36 10 17
 0 34 1 2
+0 36 10 17
 1
 end_operator
 begin_operator
@@ -26749,8 +26749,8 @@ overcome prostatitis triumph snickers saturn neptune
 1
 13 10
 2
-0 36 10 17
 0 34 2 3
+0 36 10 17
 1
 end_operator
 begin_operator
@@ -26758,8 +26758,8 @@ overcome prostatitis understanding bacon earth saturn
 1
 17 0
 2
-0 36 0 18
 0 35 3 0
+0 36 0 18
 1
 end_operator
 begin_operator
@@ -26767,8 +26767,8 @@ overcome prostatitis understanding bacon neptune mars
 1
 17 0
 2
-0 36 0 18
 0 35 1 2
+0 36 0 18
 1
 end_operator
 begin_operator
@@ -26776,8 +26776,8 @@ overcome prostatitis understanding bacon saturn neptune
 1
 17 0
 2
-0 36 0 18
 0 35 2 3
+0 36 0 18
 1
 end_operator
 begin_operator
@@ -26785,8 +26785,8 @@ overcome prostatitis understanding cantelope earth saturn
 1
 17 1
 2
-0 36 1 18
 0 35 3 0
+0 36 1 18
 1
 end_operator
 begin_operator
@@ -26794,8 +26794,8 @@ overcome prostatitis understanding cantelope neptune mars
 1
 17 1
 2
-0 36 1 18
 0 35 1 2
+0 36 1 18
 1
 end_operator
 begin_operator
@@ -26803,8 +26803,8 @@ overcome prostatitis understanding cantelope saturn neptune
 1
 17 1
 2
-0 36 1 18
 0 35 2 3
+0 36 1 18
 1
 end_operator
 begin_operator
@@ -26812,8 +26812,8 @@ overcome prostatitis understanding chicken earth saturn
 1
 17 2
 2
-0 36 2 18
 0 35 3 0
+0 36 2 18
 1
 end_operator
 begin_operator
@@ -26821,8 +26821,8 @@ overcome prostatitis understanding chicken neptune mars
 1
 17 2
 2
-0 36 2 18
 0 35 1 2
+0 36 2 18
 1
 end_operator
 begin_operator
@@ -26830,8 +26830,8 @@ overcome prostatitis understanding chicken saturn neptune
 1
 17 2
 2
-0 36 2 18
 0 35 2 3
+0 36 2 18
 1
 end_operator
 begin_operator
@@ -26839,8 +26839,8 @@ overcome prostatitis understanding chocolate earth saturn
 1
 17 3
 2
-0 36 3 18
 0 35 3 0
+0 36 3 18
 1
 end_operator
 begin_operator
@@ -26848,8 +26848,8 @@ overcome prostatitis understanding chocolate neptune mars
 1
 17 3
 2
-0 36 3 18
 0 35 1 2
+0 36 3 18
 1
 end_operator
 begin_operator
@@ -26857,8 +26857,8 @@ overcome prostatitis understanding chocolate saturn neptune
 1
 17 3
 2
-0 36 3 18
 0 35 2 3
+0 36 3 18
 1
 end_operator
 begin_operator
@@ -26866,8 +26866,8 @@ overcome prostatitis understanding grapefruit earth saturn
 1
 17 4
 2
-0 36 4 18
 0 35 3 0
+0 36 4 18
 1
 end_operator
 begin_operator
@@ -26875,8 +26875,8 @@ overcome prostatitis understanding grapefruit neptune mars
 1
 17 4
 2
-0 36 4 18
 0 35 1 2
+0 36 4 18
 1
 end_operator
 begin_operator
@@ -26884,8 +26884,8 @@ overcome prostatitis understanding grapefruit saturn neptune
 1
 17 4
 2
-0 36 4 18
 0 35 2 3
+0 36 4 18
 1
 end_operator
 begin_operator
@@ -26893,8 +26893,8 @@ overcome prostatitis understanding ham earth saturn
 1
 17 5
 2
-0 36 5 18
 0 35 3 0
+0 36 5 18
 1
 end_operator
 begin_operator
@@ -26902,8 +26902,8 @@ overcome prostatitis understanding ham neptune mars
 1
 17 5
 2
-0 36 5 18
 0 35 1 2
+0 36 5 18
 1
 end_operator
 begin_operator
@@ -26911,8 +26911,8 @@ overcome prostatitis understanding ham saturn neptune
 1
 17 5
 2
-0 36 5 18
 0 35 2 3
+0 36 5 18
 1
 end_operator
 begin_operator
@@ -26920,8 +26920,8 @@ overcome prostatitis understanding haroset earth saturn
 1
 17 6
 2
-0 36 6 18
 0 35 3 0
+0 36 6 18
 1
 end_operator
 begin_operator
@@ -26929,8 +26929,8 @@ overcome prostatitis understanding haroset neptune mars
 1
 17 6
 2
-0 36 6 18
 0 35 1 2
+0 36 6 18
 1
 end_operator
 begin_operator
@@ -26938,8 +26938,8 @@ overcome prostatitis understanding haroset saturn neptune
 1
 17 6
 2
-0 36 6 18
 0 35 2 3
+0 36 6 18
 1
 end_operator
 begin_operator
@@ -26947,8 +26947,8 @@ overcome prostatitis understanding lemon earth saturn
 1
 17 7
 2
-0 36 7 18
 0 35 3 0
+0 36 7 18
 1
 end_operator
 begin_operator
@@ -26956,8 +26956,8 @@ overcome prostatitis understanding lemon neptune mars
 1
 17 7
 2
-0 36 7 18
 0 35 1 2
+0 36 7 18
 1
 end_operator
 begin_operator
@@ -26965,8 +26965,8 @@ overcome prostatitis understanding lemon saturn neptune
 1
 17 7
 2
-0 36 7 18
 0 35 2 3
+0 36 7 18
 1
 end_operator
 begin_operator
@@ -26974,8 +26974,8 @@ overcome prostatitis understanding muffin earth saturn
 1
 17 8
 2
-0 36 8 18
 0 35 3 0
+0 36 8 18
 1
 end_operator
 begin_operator
@@ -26983,8 +26983,8 @@ overcome prostatitis understanding muffin neptune mars
 1
 17 8
 2
-0 36 8 18
 0 35 1 2
+0 36 8 18
 1
 end_operator
 begin_operator
@@ -26992,8 +26992,8 @@ overcome prostatitis understanding muffin saturn neptune
 1
 17 8
 2
-0 36 8 18
 0 35 2 3
+0 36 8 18
 1
 end_operator
 begin_operator
@@ -27001,8 +27001,8 @@ overcome prostatitis understanding pistachio earth saturn
 1
 17 9
 2
-0 36 9 18
 0 35 3 0
+0 36 9 18
 1
 end_operator
 begin_operator
@@ -27010,8 +27010,8 @@ overcome prostatitis understanding pistachio neptune mars
 1
 17 9
 2
-0 36 9 18
 0 35 1 2
+0 36 9 18
 1
 end_operator
 begin_operator
@@ -27019,8 +27019,8 @@ overcome prostatitis understanding pistachio saturn neptune
 1
 17 9
 2
-0 36 9 18
 0 35 2 3
+0 36 9 18
 1
 end_operator
 begin_operator
@@ -27028,8 +27028,8 @@ overcome prostatitis understanding snickers earth saturn
 1
 17 10
 2
-0 36 10 18
 0 35 3 0
+0 36 10 18
 1
 end_operator
 begin_operator
@@ -27037,8 +27037,8 @@ overcome prostatitis understanding snickers neptune mars
 1
 17 10
 2
-0 36 10 18
 0 35 1 2
+0 36 10 18
 1
 end_operator
 begin_operator
@@ -27046,8 +27046,8 @@ overcome prostatitis understanding snickers saturn neptune
 1
 17 10
 2
-0 36 10 18
 0 35 2 3
+0 36 10 18
 1
 end_operator
 begin_operator
@@ -27055,8 +27055,8 @@ overcome sciatica aesthetics bacon earth saturn
 1
 0 0
 2
-0 33 0 11
 0 22 3 0
+0 33 0 11
 1
 end_operator
 begin_operator
@@ -27064,8 +27064,8 @@ overcome sciatica aesthetics bacon neptune mars
 1
 0 0
 2
-0 33 0 11
 0 22 1 2
+0 33 0 11
 1
 end_operator
 begin_operator
@@ -27073,8 +27073,8 @@ overcome sciatica aesthetics bacon saturn neptune
 1
 0 0
 2
-0 33 0 11
 0 22 2 3
+0 33 0 11
 1
 end_operator
 begin_operator
@@ -27082,8 +27082,8 @@ overcome sciatica aesthetics cantelope earth saturn
 1
 0 1
 2
-0 33 1 11
 0 22 3 0
+0 33 1 11
 1
 end_operator
 begin_operator
@@ -27091,8 +27091,8 @@ overcome sciatica aesthetics cantelope neptune mars
 1
 0 1
 2
-0 33 1 11
 0 22 1 2
+0 33 1 11
 1
 end_operator
 begin_operator
@@ -27100,8 +27100,8 @@ overcome sciatica aesthetics cantelope saturn neptune
 1
 0 1
 2
-0 33 1 11
 0 22 2 3
+0 33 1 11
 1
 end_operator
 begin_operator
@@ -27109,8 +27109,8 @@ overcome sciatica aesthetics chicken earth saturn
 1
 0 2
 2
-0 33 2 11
 0 22 3 0
+0 33 2 11
 1
 end_operator
 begin_operator
@@ -27118,8 +27118,8 @@ overcome sciatica aesthetics chicken neptune mars
 1
 0 2
 2
-0 33 2 11
 0 22 1 2
+0 33 2 11
 1
 end_operator
 begin_operator
@@ -27127,8 +27127,8 @@ overcome sciatica aesthetics chicken saturn neptune
 1
 0 2
 2
-0 33 2 11
 0 22 2 3
+0 33 2 11
 1
 end_operator
 begin_operator
@@ -27136,8 +27136,8 @@ overcome sciatica aesthetics chocolate earth saturn
 1
 0 3
 2
-0 33 3 11
 0 22 3 0
+0 33 3 11
 1
 end_operator
 begin_operator
@@ -27145,8 +27145,8 @@ overcome sciatica aesthetics chocolate neptune mars
 1
 0 3
 2
-0 33 3 11
 0 22 1 2
+0 33 3 11
 1
 end_operator
 begin_operator
@@ -27154,8 +27154,8 @@ overcome sciatica aesthetics chocolate saturn neptune
 1
 0 3
 2
-0 33 3 11
 0 22 2 3
+0 33 3 11
 1
 end_operator
 begin_operator
@@ -27163,8 +27163,8 @@ overcome sciatica aesthetics grapefruit earth saturn
 1
 0 4
 2
-0 33 4 11
 0 22 3 0
+0 33 4 11
 1
 end_operator
 begin_operator
@@ -27172,8 +27172,8 @@ overcome sciatica aesthetics grapefruit neptune mars
 1
 0 4
 2
-0 33 4 11
 0 22 1 2
+0 33 4 11
 1
 end_operator
 begin_operator
@@ -27181,8 +27181,8 @@ overcome sciatica aesthetics grapefruit saturn neptune
 1
 0 4
 2
-0 33 4 11
 0 22 2 3
+0 33 4 11
 1
 end_operator
 begin_operator
@@ -27190,8 +27190,8 @@ overcome sciatica aesthetics ham earth saturn
 1
 0 5
 2
-0 33 5 11
 0 22 3 0
+0 33 5 11
 1
 end_operator
 begin_operator
@@ -27199,8 +27199,8 @@ overcome sciatica aesthetics ham neptune mars
 1
 0 5
 2
-0 33 5 11
 0 22 1 2
+0 33 5 11
 1
 end_operator
 begin_operator
@@ -27208,8 +27208,8 @@ overcome sciatica aesthetics ham saturn neptune
 1
 0 5
 2
-0 33 5 11
 0 22 2 3
+0 33 5 11
 1
 end_operator
 begin_operator
@@ -27217,8 +27217,8 @@ overcome sciatica aesthetics haroset earth saturn
 1
 0 6
 2
-0 33 6 11
 0 22 3 0
+0 33 6 11
 1
 end_operator
 begin_operator
@@ -27226,8 +27226,8 @@ overcome sciatica aesthetics haroset neptune mars
 1
 0 6
 2
-0 33 6 11
 0 22 1 2
+0 33 6 11
 1
 end_operator
 begin_operator
@@ -27235,8 +27235,8 @@ overcome sciatica aesthetics haroset saturn neptune
 1
 0 6
 2
-0 33 6 11
 0 22 2 3
+0 33 6 11
 1
 end_operator
 begin_operator
@@ -27244,8 +27244,8 @@ overcome sciatica aesthetics lemon earth saturn
 1
 0 7
 2
-0 33 7 11
 0 22 3 0
+0 33 7 11
 1
 end_operator
 begin_operator
@@ -27253,8 +27253,8 @@ overcome sciatica aesthetics lemon neptune mars
 1
 0 7
 2
-0 33 7 11
 0 22 1 2
+0 33 7 11
 1
 end_operator
 begin_operator
@@ -27262,8 +27262,8 @@ overcome sciatica aesthetics lemon saturn neptune
 1
 0 7
 2
-0 33 7 11
 0 22 2 3
+0 33 7 11
 1
 end_operator
 begin_operator
@@ -27271,8 +27271,8 @@ overcome sciatica aesthetics muffin earth saturn
 1
 0 8
 2
-0 33 8 11
 0 22 3 0
+0 33 8 11
 1
 end_operator
 begin_operator
@@ -27280,8 +27280,8 @@ overcome sciatica aesthetics muffin neptune mars
 1
 0 8
 2
-0 33 8 11
 0 22 1 2
+0 33 8 11
 1
 end_operator
 begin_operator
@@ -27289,8 +27289,8 @@ overcome sciatica aesthetics muffin saturn neptune
 1
 0 8
 2
-0 33 8 11
 0 22 2 3
+0 33 8 11
 1
 end_operator
 begin_operator
@@ -27298,8 +27298,8 @@ overcome sciatica aesthetics pistachio earth saturn
 1
 0 9
 2
-0 33 9 11
 0 22 3 0
+0 33 9 11
 1
 end_operator
 begin_operator
@@ -27307,8 +27307,8 @@ overcome sciatica aesthetics pistachio neptune mars
 1
 0 9
 2
-0 33 9 11
 0 22 1 2
+0 33 9 11
 1
 end_operator
 begin_operator
@@ -27316,8 +27316,8 @@ overcome sciatica aesthetics pistachio saturn neptune
 1
 0 9
 2
-0 33 9 11
 0 22 2 3
+0 33 9 11
 1
 end_operator
 begin_operator
@@ -27325,8 +27325,8 @@ overcome sciatica aesthetics snickers earth saturn
 1
 0 10
 2
-0 33 10 11
 0 22 3 0
+0 33 10 11
 1
 end_operator
 begin_operator
@@ -27334,8 +27334,8 @@ overcome sciatica aesthetics snickers neptune mars
 1
 0 10
 2
-0 33 10 11
 0 22 1 2
+0 33 10 11
 1
 end_operator
 begin_operator
@@ -27343,8 +27343,8 @@ overcome sciatica aesthetics snickers saturn neptune
 1
 0 10
 2
-0 33 10 11
 0 22 2 3
+0 33 10 11
 1
 end_operator
 begin_operator
@@ -27352,8 +27352,8 @@ overcome sciatica expectation bacon earth saturn
 1
 1 0
 2
-0 33 0 12
 0 23 3 0
+0 33 0 12
 1
 end_operator
 begin_operator
@@ -27361,8 +27361,8 @@ overcome sciatica expectation bacon neptune mars
 1
 1 0
 2
-0 33 0 12
 0 23 1 2
+0 33 0 12
 1
 end_operator
 begin_operator
@@ -27370,8 +27370,8 @@ overcome sciatica expectation bacon saturn neptune
 1
 1 0
 2
-0 33 0 12
 0 23 2 3
+0 33 0 12
 1
 end_operator
 begin_operator
@@ -27379,8 +27379,8 @@ overcome sciatica expectation cantelope earth saturn
 1
 1 1
 2
-0 33 1 12
 0 23 3 0
+0 33 1 12
 1
 end_operator
 begin_operator
@@ -27388,8 +27388,8 @@ overcome sciatica expectation cantelope neptune mars
 1
 1 1
 2
-0 33 1 12
 0 23 1 2
+0 33 1 12
 1
 end_operator
 begin_operator
@@ -27397,8 +27397,8 @@ overcome sciatica expectation cantelope saturn neptune
 1
 1 1
 2
-0 33 1 12
 0 23 2 3
+0 33 1 12
 1
 end_operator
 begin_operator
@@ -27406,8 +27406,8 @@ overcome sciatica expectation chicken earth saturn
 1
 1 2
 2
-0 33 2 12
 0 23 3 0
+0 33 2 12
 1
 end_operator
 begin_operator
@@ -27415,8 +27415,8 @@ overcome sciatica expectation chicken neptune mars
 1
 1 2
 2
-0 33 2 12
 0 23 1 2
+0 33 2 12
 1
 end_operator
 begin_operator
@@ -27424,8 +27424,8 @@ overcome sciatica expectation chicken saturn neptune
 1
 1 2
 2
-0 33 2 12
 0 23 2 3
+0 33 2 12
 1
 end_operator
 begin_operator
@@ -27433,8 +27433,8 @@ overcome sciatica expectation chocolate earth saturn
 1
 1 3
 2
-0 33 3 12
 0 23 3 0
+0 33 3 12
 1
 end_operator
 begin_operator
@@ -27442,8 +27442,8 @@ overcome sciatica expectation chocolate neptune mars
 1
 1 3
 2
-0 33 3 12
 0 23 1 2
+0 33 3 12
 1
 end_operator
 begin_operator
@@ -27451,8 +27451,8 @@ overcome sciatica expectation chocolate saturn neptune
 1
 1 3
 2
-0 33 3 12
 0 23 2 3
+0 33 3 12
 1
 end_operator
 begin_operator
@@ -27460,8 +27460,8 @@ overcome sciatica expectation grapefruit earth saturn
 1
 1 4
 2
-0 33 4 12
 0 23 3 0
+0 33 4 12
 1
 end_operator
 begin_operator
@@ -27469,8 +27469,8 @@ overcome sciatica expectation grapefruit neptune mars
 1
 1 4
 2
-0 33 4 12
 0 23 1 2
+0 33 4 12
 1
 end_operator
 begin_operator
@@ -27478,8 +27478,8 @@ overcome sciatica expectation grapefruit saturn neptune
 1
 1 4
 2
-0 33 4 12
 0 23 2 3
+0 33 4 12
 1
 end_operator
 begin_operator
@@ -27487,8 +27487,8 @@ overcome sciatica expectation ham earth saturn
 1
 1 5
 2
-0 33 5 12
 0 23 3 0
+0 33 5 12
 1
 end_operator
 begin_operator
@@ -27496,8 +27496,8 @@ overcome sciatica expectation ham neptune mars
 1
 1 5
 2
-0 33 5 12
 0 23 1 2
+0 33 5 12
 1
 end_operator
 begin_operator
@@ -27505,8 +27505,8 @@ overcome sciatica expectation ham saturn neptune
 1
 1 5
 2
-0 33 5 12
 0 23 2 3
+0 33 5 12
 1
 end_operator
 begin_operator
@@ -27514,8 +27514,8 @@ overcome sciatica expectation haroset earth saturn
 1
 1 6
 2
-0 33 6 12
 0 23 3 0
+0 33 6 12
 1
 end_operator
 begin_operator
@@ -27523,8 +27523,8 @@ overcome sciatica expectation haroset neptune mars
 1
 1 6
 2
-0 33 6 12
 0 23 1 2
+0 33 6 12
 1
 end_operator
 begin_operator
@@ -27532,8 +27532,8 @@ overcome sciatica expectation haroset saturn neptune
 1
 1 6
 2
-0 33 6 12
 0 23 2 3
+0 33 6 12
 1
 end_operator
 begin_operator
@@ -27541,8 +27541,8 @@ overcome sciatica expectation lemon earth saturn
 1
 1 7
 2
-0 33 7 12
 0 23 3 0
+0 33 7 12
 1
 end_operator
 begin_operator
@@ -27550,8 +27550,8 @@ overcome sciatica expectation lemon neptune mars
 1
 1 7
 2
-0 33 7 12
 0 23 1 2
+0 33 7 12
 1
 end_operator
 begin_operator
@@ -27559,8 +27559,8 @@ overcome sciatica expectation lemon saturn neptune
 1
 1 7
 2
-0 33 7 12
 0 23 2 3
+0 33 7 12
 1
 end_operator
 begin_operator
@@ -27568,8 +27568,8 @@ overcome sciatica expectation muffin earth saturn
 1
 1 8
 2
-0 33 8 12
 0 23 3 0
+0 33 8 12
 1
 end_operator
 begin_operator
@@ -27577,8 +27577,8 @@ overcome sciatica expectation muffin neptune mars
 1
 1 8
 2
-0 33 8 12
 0 23 1 2
+0 33 8 12
 1
 end_operator
 begin_operator
@@ -27586,8 +27586,8 @@ overcome sciatica expectation muffin saturn neptune
 1
 1 8
 2
-0 33 8 12
 0 23 2 3
+0 33 8 12
 1
 end_operator
 begin_operator
@@ -27595,8 +27595,8 @@ overcome sciatica expectation pistachio earth saturn
 1
 1 9
 2
-0 33 9 12
 0 23 3 0
+0 33 9 12
 1
 end_operator
 begin_operator
@@ -27604,8 +27604,8 @@ overcome sciatica expectation pistachio neptune mars
 1
 1 9
 2
-0 33 9 12
 0 23 1 2
+0 33 9 12
 1
 end_operator
 begin_operator
@@ -27613,8 +27613,8 @@ overcome sciatica expectation pistachio saturn neptune
 1
 1 9
 2
-0 33 9 12
 0 23 2 3
+0 33 9 12
 1
 end_operator
 begin_operator
@@ -27622,8 +27622,8 @@ overcome sciatica expectation snickers earth saturn
 1
 1 10
 2
-0 33 10 12
 0 23 3 0
+0 33 10 12
 1
 end_operator
 begin_operator
@@ -27631,8 +27631,8 @@ overcome sciatica expectation snickers neptune mars
 1
 1 10
 2
-0 33 10 12
 0 23 1 2
+0 33 10 12
 1
 end_operator
 begin_operator
@@ -27640,8 +27640,8 @@ overcome sciatica expectation snickers saturn neptune
 1
 1 10
 2
-0 33 10 12
 0 23 2 3
+0 33 10 12
 1
 end_operator
 begin_operator
@@ -27649,8 +27649,8 @@ overcome sciatica intoxication bacon earth saturn
 1
 2 0
 2
-0 33 0 13
 0 26 3 0
+0 33 0 13
 1
 end_operator
 begin_operator
@@ -27658,8 +27658,8 @@ overcome sciatica intoxication bacon neptune mars
 1
 2 0
 2
-0 33 0 13
 0 26 1 2
+0 33 0 13
 1
 end_operator
 begin_operator
@@ -27667,8 +27667,8 @@ overcome sciatica intoxication bacon saturn neptune
 1
 2 0
 2
-0 33 0 13
 0 26 2 3
+0 33 0 13
 1
 end_operator
 begin_operator
@@ -27676,8 +27676,8 @@ overcome sciatica intoxication cantelope earth saturn
 1
 2 1
 2
-0 33 1 13
 0 26 3 0
+0 33 1 13
 1
 end_operator
 begin_operator
@@ -27685,8 +27685,8 @@ overcome sciatica intoxication cantelope neptune mars
 1
 2 1
 2
-0 33 1 13
 0 26 1 2
+0 33 1 13
 1
 end_operator
 begin_operator
@@ -27694,8 +27694,8 @@ overcome sciatica intoxication cantelope saturn neptune
 1
 2 1
 2
-0 33 1 13
 0 26 2 3
+0 33 1 13
 1
 end_operator
 begin_operator
@@ -27703,8 +27703,8 @@ overcome sciatica intoxication chicken earth saturn
 1
 2 2
 2
-0 33 2 13
 0 26 3 0
+0 33 2 13
 1
 end_operator
 begin_operator
@@ -27712,8 +27712,8 @@ overcome sciatica intoxication chicken neptune mars
 1
 2 2
 2
-0 33 2 13
 0 26 1 2
+0 33 2 13
 1
 end_operator
 begin_operator
@@ -27721,8 +27721,8 @@ overcome sciatica intoxication chicken saturn neptune
 1
 2 2
 2
-0 33 2 13
 0 26 2 3
+0 33 2 13
 1
 end_operator
 begin_operator
@@ -27730,8 +27730,8 @@ overcome sciatica intoxication chocolate earth saturn
 1
 2 3
 2
-0 33 3 13
 0 26 3 0
+0 33 3 13
 1
 end_operator
 begin_operator
@@ -27739,8 +27739,8 @@ overcome sciatica intoxication chocolate neptune mars
 1
 2 3
 2
-0 33 3 13
 0 26 1 2
+0 33 3 13
 1
 end_operator
 begin_operator
@@ -27748,8 +27748,8 @@ overcome sciatica intoxication chocolate saturn neptune
 1
 2 3
 2
-0 33 3 13
 0 26 2 3
+0 33 3 13
 1
 end_operator
 begin_operator
@@ -27757,8 +27757,8 @@ overcome sciatica intoxication grapefruit earth saturn
 1
 2 4
 2
-0 33 4 13
 0 26 3 0
+0 33 4 13
 1
 end_operator
 begin_operator
@@ -27766,8 +27766,8 @@ overcome sciatica intoxication grapefruit neptune mars
 1
 2 4
 2
-0 33 4 13
 0 26 1 2
+0 33 4 13
 1
 end_operator
 begin_operator
@@ -27775,8 +27775,8 @@ overcome sciatica intoxication grapefruit saturn neptune
 1
 2 4
 2
-0 33 4 13
 0 26 2 3
+0 33 4 13
 1
 end_operator
 begin_operator
@@ -27784,8 +27784,8 @@ overcome sciatica intoxication ham earth saturn
 1
 2 5
 2
-0 33 5 13
 0 26 3 0
+0 33 5 13
 1
 end_operator
 begin_operator
@@ -27793,8 +27793,8 @@ overcome sciatica intoxication ham neptune mars
 1
 2 5
 2
-0 33 5 13
 0 26 1 2
+0 33 5 13
 1
 end_operator
 begin_operator
@@ -27802,8 +27802,8 @@ overcome sciatica intoxication ham saturn neptune
 1
 2 5
 2
-0 33 5 13
 0 26 2 3
+0 33 5 13
 1
 end_operator
 begin_operator
@@ -27811,8 +27811,8 @@ overcome sciatica intoxication haroset earth saturn
 1
 2 6
 2
-0 33 6 13
 0 26 3 0
+0 33 6 13
 1
 end_operator
 begin_operator
@@ -27820,8 +27820,8 @@ overcome sciatica intoxication haroset neptune mars
 1
 2 6
 2
-0 33 6 13
 0 26 1 2
+0 33 6 13
 1
 end_operator
 begin_operator
@@ -27829,8 +27829,8 @@ overcome sciatica intoxication haroset saturn neptune
 1
 2 6
 2
-0 33 6 13
 0 26 2 3
+0 33 6 13
 1
 end_operator
 begin_operator
@@ -27838,8 +27838,8 @@ overcome sciatica intoxication lemon earth saturn
 1
 2 7
 2
-0 33 7 13
 0 26 3 0
+0 33 7 13
 1
 end_operator
 begin_operator
@@ -27847,8 +27847,8 @@ overcome sciatica intoxication lemon neptune mars
 1
 2 7
 2
-0 33 7 13
 0 26 1 2
+0 33 7 13
 1
 end_operator
 begin_operator
@@ -27856,8 +27856,8 @@ overcome sciatica intoxication lemon saturn neptune
 1
 2 7
 2
-0 33 7 13
 0 26 2 3
+0 33 7 13
 1
 end_operator
 begin_operator
@@ -27865,8 +27865,8 @@ overcome sciatica intoxication muffin earth saturn
 1
 2 8
 2
-0 33 8 13
 0 26 3 0
+0 33 8 13
 1
 end_operator
 begin_operator
@@ -27874,8 +27874,8 @@ overcome sciatica intoxication muffin neptune mars
 1
 2 8
 2
-0 33 8 13
 0 26 1 2
+0 33 8 13
 1
 end_operator
 begin_operator
@@ -27883,8 +27883,8 @@ overcome sciatica intoxication muffin saturn neptune
 1
 2 8
 2
-0 33 8 13
 0 26 2 3
+0 33 8 13
 1
 end_operator
 begin_operator
@@ -27892,8 +27892,8 @@ overcome sciatica intoxication pistachio earth saturn
 1
 2 9
 2
-0 33 9 13
 0 26 3 0
+0 33 9 13
 1
 end_operator
 begin_operator
@@ -27901,8 +27901,8 @@ overcome sciatica intoxication pistachio neptune mars
 1
 2 9
 2
-0 33 9 13
 0 26 1 2
+0 33 9 13
 1
 end_operator
 begin_operator
@@ -27910,8 +27910,8 @@ overcome sciatica intoxication pistachio saturn neptune
 1
 2 9
 2
-0 33 9 13
 0 26 2 3
+0 33 9 13
 1
 end_operator
 begin_operator
@@ -27919,8 +27919,8 @@ overcome sciatica intoxication snickers earth saturn
 1
 2 10
 2
-0 33 10 13
 0 26 3 0
+0 33 10 13
 1
 end_operator
 begin_operator
@@ -27928,8 +27928,8 @@ overcome sciatica intoxication snickers neptune mars
 1
 2 10
 2
-0 33 10 13
 0 26 1 2
+0 33 10 13
 1
 end_operator
 begin_operator
@@ -27937,8 +27937,8 @@ overcome sciatica intoxication snickers saturn neptune
 1
 2 10
 2
-0 33 10 13
 0 26 2 3
+0 33 10 13
 1
 end_operator
 begin_operator
@@ -27946,8 +27946,8 @@ overcome sciatica learning bacon earth saturn
 1
 3 0
 2
-0 33 0 14
 0 27 3 0
+0 33 0 14
 1
 end_operator
 begin_operator
@@ -27955,8 +27955,8 @@ overcome sciatica learning bacon neptune mars
 1
 3 0
 2
-0 33 0 14
 0 27 1 2
+0 33 0 14
 1
 end_operator
 begin_operator
@@ -27964,8 +27964,8 @@ overcome sciatica learning bacon saturn neptune
 1
 3 0
 2
-0 33 0 14
 0 27 2 3
+0 33 0 14
 1
 end_operator
 begin_operator
@@ -27973,8 +27973,8 @@ overcome sciatica learning cantelope earth saturn
 1
 3 1
 2
-0 33 1 14
 0 27 3 0
+0 33 1 14
 1
 end_operator
 begin_operator
@@ -27982,8 +27982,8 @@ overcome sciatica learning cantelope neptune mars
 1
 3 1
 2
-0 33 1 14
 0 27 1 2
+0 33 1 14
 1
 end_operator
 begin_operator
@@ -27991,8 +27991,8 @@ overcome sciatica learning cantelope saturn neptune
 1
 3 1
 2
-0 33 1 14
 0 27 2 3
+0 33 1 14
 1
 end_operator
 begin_operator
@@ -28000,8 +28000,8 @@ overcome sciatica learning chicken earth saturn
 1
 3 2
 2
-0 33 2 14
 0 27 3 0
+0 33 2 14
 1
 end_operator
 begin_operator
@@ -28009,8 +28009,8 @@ overcome sciatica learning chicken neptune mars
 1
 3 2
 2
-0 33 2 14
 0 27 1 2
+0 33 2 14
 1
 end_operator
 begin_operator
@@ -28018,8 +28018,8 @@ overcome sciatica learning chicken saturn neptune
 1
 3 2
 2
-0 33 2 14
 0 27 2 3
+0 33 2 14
 1
 end_operator
 begin_operator
@@ -28027,8 +28027,8 @@ overcome sciatica learning chocolate earth saturn
 1
 3 3
 2
-0 33 3 14
 0 27 3 0
+0 33 3 14
 1
 end_operator
 begin_operator
@@ -28036,8 +28036,8 @@ overcome sciatica learning chocolate neptune mars
 1
 3 3
 2
-0 33 3 14
 0 27 1 2
+0 33 3 14
 1
 end_operator
 begin_operator
@@ -28045,8 +28045,8 @@ overcome sciatica learning chocolate saturn neptune
 1
 3 3
 2
-0 33 3 14
 0 27 2 3
+0 33 3 14
 1
 end_operator
 begin_operator
@@ -28054,8 +28054,8 @@ overcome sciatica learning grapefruit earth saturn
 1
 3 4
 2
-0 33 4 14
 0 27 3 0
+0 33 4 14
 1
 end_operator
 begin_operator
@@ -28063,8 +28063,8 @@ overcome sciatica learning grapefruit neptune mars
 1
 3 4
 2
-0 33 4 14
 0 27 1 2
+0 33 4 14
 1
 end_operator
 begin_operator
@@ -28072,8 +28072,8 @@ overcome sciatica learning grapefruit saturn neptune
 1
 3 4
 2
-0 33 4 14
 0 27 2 3
+0 33 4 14
 1
 end_operator
 begin_operator
@@ -28081,8 +28081,8 @@ overcome sciatica learning ham earth saturn
 1
 3 5
 2
-0 33 5 14
 0 27 3 0
+0 33 5 14
 1
 end_operator
 begin_operator
@@ -28090,8 +28090,8 @@ overcome sciatica learning ham neptune mars
 1
 3 5
 2
-0 33 5 14
 0 27 1 2
+0 33 5 14
 1
 end_operator
 begin_operator
@@ -28099,8 +28099,8 @@ overcome sciatica learning ham saturn neptune
 1
 3 5
 2
-0 33 5 14
 0 27 2 3
+0 33 5 14
 1
 end_operator
 begin_operator
@@ -28108,8 +28108,8 @@ overcome sciatica learning haroset earth saturn
 1
 3 6
 2
-0 33 6 14
 0 27 3 0
+0 33 6 14
 1
 end_operator
 begin_operator
@@ -28117,8 +28117,8 @@ overcome sciatica learning haroset neptune mars
 1
 3 6
 2
-0 33 6 14
 0 27 1 2
+0 33 6 14
 1
 end_operator
 begin_operator
@@ -28126,8 +28126,8 @@ overcome sciatica learning haroset saturn neptune
 1
 3 6
 2
-0 33 6 14
 0 27 2 3
+0 33 6 14
 1
 end_operator
 begin_operator
@@ -28135,8 +28135,8 @@ overcome sciatica learning lemon earth saturn
 1
 3 7
 2
-0 33 7 14
 0 27 3 0
+0 33 7 14
 1
 end_operator
 begin_operator
@@ -28144,8 +28144,8 @@ overcome sciatica learning lemon neptune mars
 1
 3 7
 2
-0 33 7 14
 0 27 1 2
+0 33 7 14
 1
 end_operator
 begin_operator
@@ -28153,8 +28153,8 @@ overcome sciatica learning lemon saturn neptune
 1
 3 7
 2
-0 33 7 14
 0 27 2 3
+0 33 7 14
 1
 end_operator
 begin_operator
@@ -28162,8 +28162,8 @@ overcome sciatica learning muffin earth saturn
 1
 3 8
 2
-0 33 8 14
 0 27 3 0
+0 33 8 14
 1
 end_operator
 begin_operator
@@ -28171,8 +28171,8 @@ overcome sciatica learning muffin neptune mars
 1
 3 8
 2
-0 33 8 14
 0 27 1 2
+0 33 8 14
 1
 end_operator
 begin_operator
@@ -28180,8 +28180,8 @@ overcome sciatica learning muffin saturn neptune
 1
 3 8
 2
-0 33 8 14
 0 27 2 3
+0 33 8 14
 1
 end_operator
 begin_operator
@@ -28189,8 +28189,8 @@ overcome sciatica learning pistachio earth saturn
 1
 3 9
 2
-0 33 9 14
 0 27 3 0
+0 33 9 14
 1
 end_operator
 begin_operator
@@ -28198,8 +28198,8 @@ overcome sciatica learning pistachio neptune mars
 1
 3 9
 2
-0 33 9 14
 0 27 1 2
+0 33 9 14
 1
 end_operator
 begin_operator
@@ -28207,8 +28207,8 @@ overcome sciatica learning pistachio saturn neptune
 1
 3 9
 2
-0 33 9 14
 0 27 2 3
+0 33 9 14
 1
 end_operator
 begin_operator
@@ -28216,8 +28216,8 @@ overcome sciatica learning snickers earth saturn
 1
 3 10
 2
-0 33 10 14
 0 27 3 0
+0 33 10 14
 1
 end_operator
 begin_operator
@@ -28225,8 +28225,8 @@ overcome sciatica learning snickers neptune mars
 1
 3 10
 2
-0 33 10 14
 0 27 1 2
+0 33 10 14
 1
 end_operator
 begin_operator
@@ -28234,8 +28234,8 @@ overcome sciatica learning snickers saturn neptune
 1
 3 10
 2
-0 33 10 14
 0 27 2 3
+0 33 10 14
 1
 end_operator
 begin_operator
@@ -28243,8 +28243,8 @@ overcome sciatica love bacon earth saturn
 1
 4 0
 2
-0 33 0 15
 0 30 3 0
+0 33 0 15
 1
 end_operator
 begin_operator
@@ -28252,8 +28252,8 @@ overcome sciatica love bacon neptune mars
 1
 4 0
 2
-0 33 0 15
 0 30 1 2
+0 33 0 15
 1
 end_operator
 begin_operator
@@ -28261,8 +28261,8 @@ overcome sciatica love bacon saturn neptune
 1
 4 0
 2
-0 33 0 15
 0 30 2 3
+0 33 0 15
 1
 end_operator
 begin_operator
@@ -28270,8 +28270,8 @@ overcome sciatica love cantelope earth saturn
 1
 4 1
 2
-0 33 1 15
 0 30 3 0
+0 33 1 15
 1
 end_operator
 begin_operator
@@ -28279,8 +28279,8 @@ overcome sciatica love cantelope neptune mars
 1
 4 1
 2
-0 33 1 15
 0 30 1 2
+0 33 1 15
 1
 end_operator
 begin_operator
@@ -28288,8 +28288,8 @@ overcome sciatica love cantelope saturn neptune
 1
 4 1
 2
-0 33 1 15
 0 30 2 3
+0 33 1 15
 1
 end_operator
 begin_operator
@@ -28297,8 +28297,8 @@ overcome sciatica love chicken earth saturn
 1
 4 2
 2
-0 33 2 15
 0 30 3 0
+0 33 2 15
 1
 end_operator
 begin_operator
@@ -28306,8 +28306,8 @@ overcome sciatica love chicken neptune mars
 1
 4 2
 2
-0 33 2 15
 0 30 1 2
+0 33 2 15
 1
 end_operator
 begin_operator
@@ -28315,8 +28315,8 @@ overcome sciatica love chicken saturn neptune
 1
 4 2
 2
-0 33 2 15
 0 30 2 3
+0 33 2 15
 1
 end_operator
 begin_operator
@@ -28324,8 +28324,8 @@ overcome sciatica love chocolate earth saturn
 1
 4 3
 2
-0 33 3 15
 0 30 3 0
+0 33 3 15
 1
 end_operator
 begin_operator
@@ -28333,8 +28333,8 @@ overcome sciatica love chocolate neptune mars
 1
 4 3
 2
-0 33 3 15
 0 30 1 2
+0 33 3 15
 1
 end_operator
 begin_operator
@@ -28342,8 +28342,8 @@ overcome sciatica love chocolate saturn neptune
 1
 4 3
 2
-0 33 3 15
 0 30 2 3
+0 33 3 15
 1
 end_operator
 begin_operator
@@ -28351,8 +28351,8 @@ overcome sciatica love grapefruit earth saturn
 1
 4 4
 2
-0 33 4 15
 0 30 3 0
+0 33 4 15
 1
 end_operator
 begin_operator
@@ -28360,8 +28360,8 @@ overcome sciatica love grapefruit neptune mars
 1
 4 4
 2
-0 33 4 15
 0 30 1 2
+0 33 4 15
 1
 end_operator
 begin_operator
@@ -28369,8 +28369,8 @@ overcome sciatica love grapefruit saturn neptune
 1
 4 4
 2
-0 33 4 15
 0 30 2 3
+0 33 4 15
 1
 end_operator
 begin_operator
@@ -28378,8 +28378,8 @@ overcome sciatica love ham earth saturn
 1
 4 5
 2
-0 33 5 15
 0 30 3 0
+0 33 5 15
 1
 end_operator
 begin_operator
@@ -28387,8 +28387,8 @@ overcome sciatica love ham neptune mars
 1
 4 5
 2
-0 33 5 15
 0 30 1 2
+0 33 5 15
 1
 end_operator
 begin_operator
@@ -28396,8 +28396,8 @@ overcome sciatica love ham saturn neptune
 1
 4 5
 2
-0 33 5 15
 0 30 2 3
+0 33 5 15
 1
 end_operator
 begin_operator
@@ -28405,8 +28405,8 @@ overcome sciatica love haroset earth saturn
 1
 4 6
 2
-0 33 6 15
 0 30 3 0
+0 33 6 15
 1
 end_operator
 begin_operator
@@ -28414,8 +28414,8 @@ overcome sciatica love haroset neptune mars
 1
 4 6
 2
-0 33 6 15
 0 30 1 2
+0 33 6 15
 1
 end_operator
 begin_operator
@@ -28423,8 +28423,8 @@ overcome sciatica love haroset saturn neptune
 1
 4 6
 2
-0 33 6 15
 0 30 2 3
+0 33 6 15
 1
 end_operator
 begin_operator
@@ -28432,8 +28432,8 @@ overcome sciatica love lemon earth saturn
 1
 4 7
 2
-0 33 7 15
 0 30 3 0
+0 33 7 15
 1
 end_operator
 begin_operator
@@ -28441,8 +28441,8 @@ overcome sciatica love lemon neptune mars
 1
 4 7
 2
-0 33 7 15
 0 30 1 2
+0 33 7 15
 1
 end_operator
 begin_operator
@@ -28450,8 +28450,8 @@ overcome sciatica love lemon saturn neptune
 1
 4 7
 2
-0 33 7 15
 0 30 2 3
+0 33 7 15
 1
 end_operator
 begin_operator
@@ -28459,8 +28459,8 @@ overcome sciatica love muffin earth saturn
 1
 4 8
 2
-0 33 8 15
 0 30 3 0
+0 33 8 15
 1
 end_operator
 begin_operator
@@ -28468,8 +28468,8 @@ overcome sciatica love muffin neptune mars
 1
 4 8
 2
-0 33 8 15
 0 30 1 2
+0 33 8 15
 1
 end_operator
 begin_operator
@@ -28477,8 +28477,8 @@ overcome sciatica love muffin saturn neptune
 1
 4 8
 2
-0 33 8 15
 0 30 2 3
+0 33 8 15
 1
 end_operator
 begin_operator
@@ -28486,8 +28486,8 @@ overcome sciatica love pistachio earth saturn
 1
 4 9
 2
-0 33 9 15
 0 30 3 0
+0 33 9 15
 1
 end_operator
 begin_operator
@@ -28495,8 +28495,8 @@ overcome sciatica love pistachio neptune mars
 1
 4 9
 2
-0 33 9 15
 0 30 1 2
+0 33 9 15
 1
 end_operator
 begin_operator
@@ -28504,8 +28504,8 @@ overcome sciatica love pistachio saturn neptune
 1
 4 9
 2
-0 33 9 15
 0 30 2 3
+0 33 9 15
 1
 end_operator
 begin_operator
@@ -28513,8 +28513,8 @@ overcome sciatica love snickers earth saturn
 1
 4 10
 2
-0 33 10 15
 0 30 3 0
+0 33 10 15
 1
 end_operator
 begin_operator
@@ -28522,8 +28522,8 @@ overcome sciatica love snickers neptune mars
 1
 4 10
 2
-0 33 10 15
 0 30 1 2
+0 33 10 15
 1
 end_operator
 begin_operator
@@ -28531,8 +28531,8 @@ overcome sciatica love snickers saturn neptune
 1
 4 10
 2
-0 33 10 15
 0 30 2 3
+0 33 10 15
 1
 end_operator
 begin_operator
@@ -28540,8 +28540,8 @@ overcome sciatica rest bacon earth saturn
 1
 5 0
 2
-0 33 0 16
 0 31 3 0
+0 33 0 16
 1
 end_operator
 begin_operator
@@ -28549,8 +28549,8 @@ overcome sciatica rest bacon neptune mars
 1
 5 0
 2
-0 33 0 16
 0 31 1 2
+0 33 0 16
 1
 end_operator
 begin_operator
@@ -28558,8 +28558,8 @@ overcome sciatica rest bacon saturn neptune
 1
 5 0
 2
-0 33 0 16
 0 31 2 3
+0 33 0 16
 1
 end_operator
 begin_operator
@@ -28567,8 +28567,8 @@ overcome sciatica rest cantelope earth saturn
 1
 5 1
 2
-0 33 1 16
 0 31 3 0
+0 33 1 16
 1
 end_operator
 begin_operator
@@ -28576,8 +28576,8 @@ overcome sciatica rest cantelope neptune mars
 1
 5 1
 2
-0 33 1 16
 0 31 1 2
+0 33 1 16
 1
 end_operator
 begin_operator
@@ -28585,8 +28585,8 @@ overcome sciatica rest cantelope saturn neptune
 1
 5 1
 2
-0 33 1 16
 0 31 2 3
+0 33 1 16
 1
 end_operator
 begin_operator
@@ -28594,8 +28594,8 @@ overcome sciatica rest chicken earth saturn
 1
 5 2
 2
-0 33 2 16
 0 31 3 0
+0 33 2 16
 1
 end_operator
 begin_operator
@@ -28603,8 +28603,8 @@ overcome sciatica rest chicken neptune mars
 1
 5 2
 2
-0 33 2 16
 0 31 1 2
+0 33 2 16
 1
 end_operator
 begin_operator
@@ -28612,8 +28612,8 @@ overcome sciatica rest chicken saturn neptune
 1
 5 2
 2
-0 33 2 16
 0 31 2 3
+0 33 2 16
 1
 end_operator
 begin_operator
@@ -28621,8 +28621,8 @@ overcome sciatica rest chocolate earth saturn
 1
 5 3
 2
-0 33 3 16
 0 31 3 0
+0 33 3 16
 1
 end_operator
 begin_operator
@@ -28630,8 +28630,8 @@ overcome sciatica rest chocolate neptune mars
 1
 5 3
 2
-0 33 3 16
 0 31 1 2
+0 33 3 16
 1
 end_operator
 begin_operator
@@ -28639,8 +28639,8 @@ overcome sciatica rest chocolate saturn neptune
 1
 5 3
 2
-0 33 3 16
 0 31 2 3
+0 33 3 16
 1
 end_operator
 begin_operator
@@ -28648,8 +28648,8 @@ overcome sciatica rest grapefruit earth saturn
 1
 5 4
 2
-0 33 4 16
 0 31 3 0
+0 33 4 16
 1
 end_operator
 begin_operator
@@ -28657,8 +28657,8 @@ overcome sciatica rest grapefruit neptune mars
 1
 5 4
 2
-0 33 4 16
 0 31 1 2
+0 33 4 16
 1
 end_operator
 begin_operator
@@ -28666,8 +28666,8 @@ overcome sciatica rest grapefruit saturn neptune
 1
 5 4
 2
-0 33 4 16
 0 31 2 3
+0 33 4 16
 1
 end_operator
 begin_operator
@@ -28675,8 +28675,8 @@ overcome sciatica rest ham earth saturn
 1
 5 5
 2
-0 33 5 16
 0 31 3 0
+0 33 5 16
 1
 end_operator
 begin_operator
@@ -28684,8 +28684,8 @@ overcome sciatica rest ham neptune mars
 1
 5 5
 2
-0 33 5 16
 0 31 1 2
+0 33 5 16
 1
 end_operator
 begin_operator
@@ -28693,8 +28693,8 @@ overcome sciatica rest ham saturn neptune
 1
 5 5
 2
-0 33 5 16
 0 31 2 3
+0 33 5 16
 1
 end_operator
 begin_operator
@@ -28702,8 +28702,8 @@ overcome sciatica rest haroset earth saturn
 1
 5 6
 2
-0 33 6 16
 0 31 3 0
+0 33 6 16
 1
 end_operator
 begin_operator
@@ -28711,8 +28711,8 @@ overcome sciatica rest haroset neptune mars
 1
 5 6
 2
-0 33 6 16
 0 31 1 2
+0 33 6 16
 1
 end_operator
 begin_operator
@@ -28720,8 +28720,8 @@ overcome sciatica rest haroset saturn neptune
 1
 5 6
 2
-0 33 6 16
 0 31 2 3
+0 33 6 16
 1
 end_operator
 begin_operator
@@ -28729,8 +28729,8 @@ overcome sciatica rest lemon earth saturn
 1
 5 7
 2
-0 33 7 16
 0 31 3 0
+0 33 7 16
 1
 end_operator
 begin_operator
@@ -28738,8 +28738,8 @@ overcome sciatica rest lemon neptune mars
 1
 5 7
 2
-0 33 7 16
 0 31 1 2
+0 33 7 16
 1
 end_operator
 begin_operator
@@ -28747,8 +28747,8 @@ overcome sciatica rest lemon saturn neptune
 1
 5 7
 2
-0 33 7 16
 0 31 2 3
+0 33 7 16
 1
 end_operator
 begin_operator
@@ -28756,8 +28756,8 @@ overcome sciatica rest muffin earth saturn
 1
 5 8
 2
-0 33 8 16
 0 31 3 0
+0 33 8 16
 1
 end_operator
 begin_operator
@@ -28765,8 +28765,8 @@ overcome sciatica rest muffin neptune mars
 1
 5 8
 2
-0 33 8 16
 0 31 1 2
+0 33 8 16
 1
 end_operator
 begin_operator
@@ -28774,8 +28774,8 @@ overcome sciatica rest muffin saturn neptune
 1
 5 8
 2
-0 33 8 16
 0 31 2 3
+0 33 8 16
 1
 end_operator
 begin_operator
@@ -28783,8 +28783,8 @@ overcome sciatica rest pistachio earth saturn
 1
 5 9
 2
-0 33 9 16
 0 31 3 0
+0 33 9 16
 1
 end_operator
 begin_operator
@@ -28792,8 +28792,8 @@ overcome sciatica rest pistachio neptune mars
 1
 5 9
 2
-0 33 9 16
 0 31 1 2
+0 33 9 16
 1
 end_operator
 begin_operator
@@ -28801,8 +28801,8 @@ overcome sciatica rest pistachio saturn neptune
 1
 5 9
 2
-0 33 9 16
 0 31 2 3
+0 33 9 16
 1
 end_operator
 begin_operator
@@ -28810,8 +28810,8 @@ overcome sciatica rest snickers earth saturn
 1
 5 10
 2
-0 33 10 16
 0 31 3 0
+0 33 10 16
 1
 end_operator
 begin_operator
@@ -28819,8 +28819,8 @@ overcome sciatica rest snickers neptune mars
 1
 5 10
 2
-0 33 10 16
 0 31 1 2
+0 33 10 16
 1
 end_operator
 begin_operator
@@ -28828,8 +28828,8 @@ overcome sciatica rest snickers saturn neptune
 1
 5 10
 2
-0 33 10 16
 0 31 2 3
+0 33 10 16
 1
 end_operator
 begin_operator
@@ -36559,8 +36559,8 @@ succumb depression aesthetics bacon earth saturn
 1
 0 0
 2
-0 24 11 0
 0 22 0 3
+0 24 11 0
 1
 end_operator
 begin_operator
@@ -36568,8 +36568,8 @@ succumb depression aesthetics bacon neptune mars
 1
 0 0
 2
-0 24 11 0
 0 22 2 1
+0 24 11 0
 1
 end_operator
 begin_operator
@@ -36577,8 +36577,8 @@ succumb depression aesthetics bacon saturn neptune
 1
 0 0
 2
-0 24 11 0
 0 22 3 2
+0 24 11 0
 1
 end_operator
 begin_operator
@@ -36586,8 +36586,8 @@ succumb depression aesthetics cantelope earth saturn
 1
 0 1
 2
-0 24 11 1
 0 22 0 3
+0 24 11 1
 1
 end_operator
 begin_operator
@@ -36595,8 +36595,8 @@ succumb depression aesthetics cantelope neptune mars
 1
 0 1
 2
-0 24 11 1
 0 22 2 1
+0 24 11 1
 1
 end_operator
 begin_operator
@@ -36604,8 +36604,8 @@ succumb depression aesthetics cantelope saturn neptune
 1
 0 1
 2
-0 24 11 1
 0 22 3 2
+0 24 11 1
 1
 end_operator
 begin_operator
@@ -36613,8 +36613,8 @@ succumb depression aesthetics chicken earth saturn
 1
 0 2
 2
-0 24 11 2
 0 22 0 3
+0 24 11 2
 1
 end_operator
 begin_operator
@@ -36622,8 +36622,8 @@ succumb depression aesthetics chicken neptune mars
 1
 0 2
 2
-0 24 11 2
 0 22 2 1
+0 24 11 2
 1
 end_operator
 begin_operator
@@ -36631,8 +36631,8 @@ succumb depression aesthetics chicken saturn neptune
 1
 0 2
 2
-0 24 11 2
 0 22 3 2
+0 24 11 2
 1
 end_operator
 begin_operator
@@ -36640,8 +36640,8 @@ succumb depression aesthetics chocolate earth saturn
 1
 0 3
 2
-0 24 11 3
 0 22 0 3
+0 24 11 3
 1
 end_operator
 begin_operator
@@ -36649,8 +36649,8 @@ succumb depression aesthetics chocolate neptune mars
 1
 0 3
 2
-0 24 11 3
 0 22 2 1
+0 24 11 3
 1
 end_operator
 begin_operator
@@ -36658,8 +36658,8 @@ succumb depression aesthetics chocolate saturn neptune
 1
 0 3
 2
-0 24 11 3
 0 22 3 2
+0 24 11 3
 1
 end_operator
 begin_operator
@@ -36667,8 +36667,8 @@ succumb depression aesthetics grapefruit earth saturn
 1
 0 4
 2
-0 24 11 4
 0 22 0 3
+0 24 11 4
 1
 end_operator
 begin_operator
@@ -36676,8 +36676,8 @@ succumb depression aesthetics grapefruit neptune mars
 1
 0 4
 2
-0 24 11 4
 0 22 2 1
+0 24 11 4
 1
 end_operator
 begin_operator
@@ -36685,8 +36685,8 @@ succumb depression aesthetics grapefruit saturn neptune
 1
 0 4
 2
-0 24 11 4
 0 22 3 2
+0 24 11 4
 1
 end_operator
 begin_operator
@@ -36694,8 +36694,8 @@ succumb depression aesthetics ham earth saturn
 1
 0 5
 2
-0 24 11 5
 0 22 0 3
+0 24 11 5
 1
 end_operator
 begin_operator
@@ -36703,8 +36703,8 @@ succumb depression aesthetics ham neptune mars
 1
 0 5
 2
-0 24 11 5
 0 22 2 1
+0 24 11 5
 1
 end_operator
 begin_operator
@@ -36712,8 +36712,8 @@ succumb depression aesthetics ham saturn neptune
 1
 0 5
 2
-0 24 11 5
 0 22 3 2
+0 24 11 5
 1
 end_operator
 begin_operator
@@ -36721,8 +36721,8 @@ succumb depression aesthetics haroset earth saturn
 1
 0 6
 2
-0 24 11 6
 0 22 0 3
+0 24 11 6
 1
 end_operator
 begin_operator
@@ -36730,8 +36730,8 @@ succumb depression aesthetics haroset neptune mars
 1
 0 6
 2
-0 24 11 6
 0 22 2 1
+0 24 11 6
 1
 end_operator
 begin_operator
@@ -36739,8 +36739,8 @@ succumb depression aesthetics haroset saturn neptune
 1
 0 6
 2
-0 24 11 6
 0 22 3 2
+0 24 11 6
 1
 end_operator
 begin_operator
@@ -36748,8 +36748,8 @@ succumb depression aesthetics lemon earth saturn
 1
 0 7
 2
-0 24 11 7
 0 22 0 3
+0 24 11 7
 1
 end_operator
 begin_operator
@@ -36757,8 +36757,8 @@ succumb depression aesthetics lemon neptune mars
 1
 0 7
 2
-0 24 11 7
 0 22 2 1
+0 24 11 7
 1
 end_operator
 begin_operator
@@ -36766,8 +36766,8 @@ succumb depression aesthetics lemon saturn neptune
 1
 0 7
 2
-0 24 11 7
 0 22 3 2
+0 24 11 7
 1
 end_operator
 begin_operator
@@ -36775,8 +36775,8 @@ succumb depression aesthetics muffin earth saturn
 1
 0 8
 2
-0 24 11 8
 0 22 0 3
+0 24 11 8
 1
 end_operator
 begin_operator
@@ -36784,8 +36784,8 @@ succumb depression aesthetics muffin neptune mars
 1
 0 8
 2
-0 24 11 8
 0 22 2 1
+0 24 11 8
 1
 end_operator
 begin_operator
@@ -36793,8 +36793,8 @@ succumb depression aesthetics muffin saturn neptune
 1
 0 8
 2
-0 24 11 8
 0 22 3 2
+0 24 11 8
 1
 end_operator
 begin_operator
@@ -36802,8 +36802,8 @@ succumb depression aesthetics pistachio earth saturn
 1
 0 9
 2
-0 24 11 9
 0 22 0 3
+0 24 11 9
 1
 end_operator
 begin_operator
@@ -36811,8 +36811,8 @@ succumb depression aesthetics pistachio neptune mars
 1
 0 9
 2
-0 24 11 9
 0 22 2 1
+0 24 11 9
 1
 end_operator
 begin_operator
@@ -36820,8 +36820,8 @@ succumb depression aesthetics pistachio saturn neptune
 1
 0 9
 2
-0 24 11 9
 0 22 3 2
+0 24 11 9
 1
 end_operator
 begin_operator
@@ -36829,8 +36829,8 @@ succumb depression aesthetics snickers earth saturn
 1
 0 10
 2
-0 24 11 10
 0 22 0 3
+0 24 11 10
 1
 end_operator
 begin_operator
@@ -36838,8 +36838,8 @@ succumb depression aesthetics snickers neptune mars
 1
 0 10
 2
-0 24 11 10
 0 22 2 1
+0 24 11 10
 1
 end_operator
 begin_operator
@@ -36847,8 +36847,8 @@ succumb depression aesthetics snickers saturn neptune
 1
 0 10
 2
-0 24 11 10
 0 22 3 2
+0 24 11 10
 1
 end_operator
 begin_operator
@@ -36856,8 +36856,8 @@ succumb depression expectation bacon earth saturn
 1
 1 0
 2
-0 24 12 0
 0 23 0 3
+0 24 12 0
 1
 end_operator
 begin_operator
@@ -36865,8 +36865,8 @@ succumb depression expectation bacon neptune mars
 1
 1 0
 2
-0 24 12 0
 0 23 2 1
+0 24 12 0
 1
 end_operator
 begin_operator
@@ -36874,8 +36874,8 @@ succumb depression expectation bacon saturn neptune
 1
 1 0
 2
-0 24 12 0
 0 23 3 2
+0 24 12 0
 1
 end_operator
 begin_operator
@@ -36883,8 +36883,8 @@ succumb depression expectation cantelope earth saturn
 1
 1 1
 2
-0 24 12 1
 0 23 0 3
+0 24 12 1
 1
 end_operator
 begin_operator
@@ -36892,8 +36892,8 @@ succumb depression expectation cantelope neptune mars
 1
 1 1
 2
-0 24 12 1
 0 23 2 1
+0 24 12 1
 1
 end_operator
 begin_operator
@@ -36901,8 +36901,8 @@ succumb depression expectation cantelope saturn neptune
 1
 1 1
 2
-0 24 12 1
 0 23 3 2
+0 24 12 1
 1
 end_operator
 begin_operator
@@ -36910,8 +36910,8 @@ succumb depression expectation chicken earth saturn
 1
 1 2
 2
-0 24 12 2
 0 23 0 3
+0 24 12 2
 1
 end_operator
 begin_operator
@@ -36919,8 +36919,8 @@ succumb depression expectation chicken neptune mars
 1
 1 2
 2
-0 24 12 2
 0 23 2 1
+0 24 12 2
 1
 end_operator
 begin_operator
@@ -36928,8 +36928,8 @@ succumb depression expectation chicken saturn neptune
 1
 1 2
 2
-0 24 12 2
 0 23 3 2
+0 24 12 2
 1
 end_operator
 begin_operator
@@ -36937,8 +36937,8 @@ succumb depression expectation chocolate earth saturn
 1
 1 3
 2
-0 24 12 3
 0 23 0 3
+0 24 12 3
 1
 end_operator
 begin_operator
@@ -36946,8 +36946,8 @@ succumb depression expectation chocolate neptune mars
 1
 1 3
 2
-0 24 12 3
 0 23 2 1
+0 24 12 3
 1
 end_operator
 begin_operator
@@ -36955,8 +36955,8 @@ succumb depression expectation chocolate saturn neptune
 1
 1 3
 2
-0 24 12 3
 0 23 3 2
+0 24 12 3
 1
 end_operator
 begin_operator
@@ -36964,8 +36964,8 @@ succumb depression expectation grapefruit earth saturn
 1
 1 4
 2
-0 24 12 4
 0 23 0 3
+0 24 12 4
 1
 end_operator
 begin_operator
@@ -36973,8 +36973,8 @@ succumb depression expectation grapefruit neptune mars
 1
 1 4
 2
-0 24 12 4
 0 23 2 1
+0 24 12 4
 1
 end_operator
 begin_operator
@@ -36982,8 +36982,8 @@ succumb depression expectation grapefruit saturn neptune
 1
 1 4
 2
-0 24 12 4
 0 23 3 2
+0 24 12 4
 1
 end_operator
 begin_operator
@@ -36991,8 +36991,8 @@ succumb depression expectation ham earth saturn
 1
 1 5
 2
-0 24 12 5
 0 23 0 3
+0 24 12 5
 1
 end_operator
 begin_operator
@@ -37000,8 +37000,8 @@ succumb depression expectation ham neptune mars
 1
 1 5
 2
-0 24 12 5
 0 23 2 1
+0 24 12 5
 1
 end_operator
 begin_operator
@@ -37009,8 +37009,8 @@ succumb depression expectation ham saturn neptune
 1
 1 5
 2
-0 24 12 5
 0 23 3 2
+0 24 12 5
 1
 end_operator
 begin_operator
@@ -37018,8 +37018,8 @@ succumb depression expectation haroset earth saturn
 1
 1 6
 2
-0 24 12 6
 0 23 0 3
+0 24 12 6
 1
 end_operator
 begin_operator
@@ -37027,8 +37027,8 @@ succumb depression expectation haroset neptune mars
 1
 1 6
 2
-0 24 12 6
 0 23 2 1
+0 24 12 6
 1
 end_operator
 begin_operator
@@ -37036,8 +37036,8 @@ succumb depression expectation haroset saturn neptune
 1
 1 6
 2
-0 24 12 6
 0 23 3 2
+0 24 12 6
 1
 end_operator
 begin_operator
@@ -37045,8 +37045,8 @@ succumb depression expectation lemon earth saturn
 1
 1 7
 2
-0 24 12 7
 0 23 0 3
+0 24 12 7
 1
 end_operator
 begin_operator
@@ -37054,8 +37054,8 @@ succumb depression expectation lemon neptune mars
 1
 1 7
 2
-0 24 12 7
 0 23 2 1
+0 24 12 7
 1
 end_operator
 begin_operator
@@ -37063,8 +37063,8 @@ succumb depression expectation lemon saturn neptune
 1
 1 7
 2
-0 24 12 7
 0 23 3 2
+0 24 12 7
 1
 end_operator
 begin_operator
@@ -37072,8 +37072,8 @@ succumb depression expectation muffin earth saturn
 1
 1 8
 2
-0 24 12 8
 0 23 0 3
+0 24 12 8
 1
 end_operator
 begin_operator
@@ -37081,8 +37081,8 @@ succumb depression expectation muffin neptune mars
 1
 1 8
 2
-0 24 12 8
 0 23 2 1
+0 24 12 8
 1
 end_operator
 begin_operator
@@ -37090,8 +37090,8 @@ succumb depression expectation muffin saturn neptune
 1
 1 8
 2
-0 24 12 8
 0 23 3 2
+0 24 12 8
 1
 end_operator
 begin_operator
@@ -37099,8 +37099,8 @@ succumb depression expectation pistachio earth saturn
 1
 1 9
 2
-0 24 12 9
 0 23 0 3
+0 24 12 9
 1
 end_operator
 begin_operator
@@ -37108,8 +37108,8 @@ succumb depression expectation pistachio neptune mars
 1
 1 9
 2
-0 24 12 9
 0 23 2 1
+0 24 12 9
 1
 end_operator
 begin_operator
@@ -37117,8 +37117,8 @@ succumb depression expectation pistachio saturn neptune
 1
 1 9
 2
-0 24 12 9
 0 23 3 2
+0 24 12 9
 1
 end_operator
 begin_operator
@@ -37126,8 +37126,8 @@ succumb depression expectation snickers earth saturn
 1
 1 10
 2
-0 24 12 10
 0 23 0 3
+0 24 12 10
 1
 end_operator
 begin_operator
@@ -37135,8 +37135,8 @@ succumb depression expectation snickers neptune mars
 1
 1 10
 2
-0 24 12 10
 0 23 2 1
+0 24 12 10
 1
 end_operator
 begin_operator
@@ -37144,8 +37144,8 @@ succumb depression expectation snickers saturn neptune
 1
 1 10
 2
-0 24 12 10
 0 23 3 2
+0 24 12 10
 1
 end_operator
 begin_operator
@@ -38935,8 +38935,8 @@ succumb dread aesthetics bacon earth saturn
 1
 0 0
 2
-0 25 11 0
 0 22 0 3
+0 25 11 0
 1
 end_operator
 begin_operator
@@ -38944,8 +38944,8 @@ succumb dread aesthetics bacon neptune mars
 1
 0 0
 2
-0 25 11 0
 0 22 2 1
+0 25 11 0
 1
 end_operator
 begin_operator
@@ -38953,8 +38953,8 @@ succumb dread aesthetics bacon saturn neptune
 1
 0 0
 2
-0 25 11 0
 0 22 3 2
+0 25 11 0
 1
 end_operator
 begin_operator
@@ -38962,8 +38962,8 @@ succumb dread aesthetics cantelope earth saturn
 1
 0 1
 2
-0 25 11 1
 0 22 0 3
+0 25 11 1
 1
 end_operator
 begin_operator
@@ -38971,8 +38971,8 @@ succumb dread aesthetics cantelope neptune mars
 1
 0 1
 2
-0 25 11 1
 0 22 2 1
+0 25 11 1
 1
 end_operator
 begin_operator
@@ -38980,8 +38980,8 @@ succumb dread aesthetics cantelope saturn neptune
 1
 0 1
 2
-0 25 11 1
 0 22 3 2
+0 25 11 1
 1
 end_operator
 begin_operator
@@ -38989,8 +38989,8 @@ succumb dread aesthetics chicken earth saturn
 1
 0 2
 2
-0 25 11 2
 0 22 0 3
+0 25 11 2
 1
 end_operator
 begin_operator
@@ -38998,8 +38998,8 @@ succumb dread aesthetics chicken neptune mars
 1
 0 2
 2
-0 25 11 2
 0 22 2 1
+0 25 11 2
 1
 end_operator
 begin_operator
@@ -39007,8 +39007,8 @@ succumb dread aesthetics chicken saturn neptune
 1
 0 2
 2
-0 25 11 2
 0 22 3 2
+0 25 11 2
 1
 end_operator
 begin_operator
@@ -39016,8 +39016,8 @@ succumb dread aesthetics chocolate earth saturn
 1
 0 3
 2
-0 25 11 3
 0 22 0 3
+0 25 11 3
 1
 end_operator
 begin_operator
@@ -39025,8 +39025,8 @@ succumb dread aesthetics chocolate neptune mars
 1
 0 3
 2
-0 25 11 3
 0 22 2 1
+0 25 11 3
 1
 end_operator
 begin_operator
@@ -39034,8 +39034,8 @@ succumb dread aesthetics chocolate saturn neptune
 1
 0 3
 2
-0 25 11 3
 0 22 3 2
+0 25 11 3
 1
 end_operator
 begin_operator
@@ -39043,8 +39043,8 @@ succumb dread aesthetics grapefruit earth saturn
 1
 0 4
 2
-0 25 11 4
 0 22 0 3
+0 25 11 4
 1
 end_operator
 begin_operator
@@ -39052,8 +39052,8 @@ succumb dread aesthetics grapefruit neptune mars
 1
 0 4
 2
-0 25 11 4
 0 22 2 1
+0 25 11 4
 1
 end_operator
 begin_operator
@@ -39061,8 +39061,8 @@ succumb dread aesthetics grapefruit saturn neptune
 1
 0 4
 2
-0 25 11 4
 0 22 3 2
+0 25 11 4
 1
 end_operator
 begin_operator
@@ -39070,8 +39070,8 @@ succumb dread aesthetics ham earth saturn
 1
 0 5
 2
-0 25 11 5
 0 22 0 3
+0 25 11 5
 1
 end_operator
 begin_operator
@@ -39079,8 +39079,8 @@ succumb dread aesthetics ham neptune mars
 1
 0 5
 2
-0 25 11 5
 0 22 2 1
+0 25 11 5
 1
 end_operator
 begin_operator
@@ -39088,8 +39088,8 @@ succumb dread aesthetics ham saturn neptune
 1
 0 5
 2
-0 25 11 5
 0 22 3 2
+0 25 11 5
 1
 end_operator
 begin_operator
@@ -39097,8 +39097,8 @@ succumb dread aesthetics haroset earth saturn
 1
 0 6
 2
-0 25 11 6
 0 22 0 3
+0 25 11 6
 1
 end_operator
 begin_operator
@@ -39106,8 +39106,8 @@ succumb dread aesthetics haroset neptune mars
 1
 0 6
 2
-0 25 11 6
 0 22 2 1
+0 25 11 6
 1
 end_operator
 begin_operator
@@ -39115,8 +39115,8 @@ succumb dread aesthetics haroset saturn neptune
 1
 0 6
 2
-0 25 11 6
 0 22 3 2
+0 25 11 6
 1
 end_operator
 begin_operator
@@ -39124,8 +39124,8 @@ succumb dread aesthetics lemon earth saturn
 1
 0 7
 2
-0 25 11 7
 0 22 0 3
+0 25 11 7
 1
 end_operator
 begin_operator
@@ -39133,8 +39133,8 @@ succumb dread aesthetics lemon neptune mars
 1
 0 7
 2
-0 25 11 7
 0 22 2 1
+0 25 11 7
 1
 end_operator
 begin_operator
@@ -39142,8 +39142,8 @@ succumb dread aesthetics lemon saturn neptune
 1
 0 7
 2
-0 25 11 7
 0 22 3 2
+0 25 11 7
 1
 end_operator
 begin_operator
@@ -39151,8 +39151,8 @@ succumb dread aesthetics muffin earth saturn
 1
 0 8
 2
-0 25 11 8
 0 22 0 3
+0 25 11 8
 1
 end_operator
 begin_operator
@@ -39160,8 +39160,8 @@ succumb dread aesthetics muffin neptune mars
 1
 0 8
 2
-0 25 11 8
 0 22 2 1
+0 25 11 8
 1
 end_operator
 begin_operator
@@ -39169,8 +39169,8 @@ succumb dread aesthetics muffin saturn neptune
 1
 0 8
 2
-0 25 11 8
 0 22 3 2
+0 25 11 8
 1
 end_operator
 begin_operator
@@ -39178,8 +39178,8 @@ succumb dread aesthetics pistachio earth saturn
 1
 0 9
 2
-0 25 11 9
 0 22 0 3
+0 25 11 9
 1
 end_operator
 begin_operator
@@ -39187,8 +39187,8 @@ succumb dread aesthetics pistachio neptune mars
 1
 0 9
 2
-0 25 11 9
 0 22 2 1
+0 25 11 9
 1
 end_operator
 begin_operator
@@ -39196,8 +39196,8 @@ succumb dread aesthetics pistachio saturn neptune
 1
 0 9
 2
-0 25 11 9
 0 22 3 2
+0 25 11 9
 1
 end_operator
 begin_operator
@@ -39205,8 +39205,8 @@ succumb dread aesthetics snickers earth saturn
 1
 0 10
 2
-0 25 11 10
 0 22 0 3
+0 25 11 10
 1
 end_operator
 begin_operator
@@ -39214,8 +39214,8 @@ succumb dread aesthetics snickers neptune mars
 1
 0 10
 2
-0 25 11 10
 0 22 2 1
+0 25 11 10
 1
 end_operator
 begin_operator
@@ -39223,8 +39223,8 @@ succumb dread aesthetics snickers saturn neptune
 1
 0 10
 2
-0 25 11 10
 0 22 3 2
+0 25 11 10
 1
 end_operator
 begin_operator
@@ -39232,8 +39232,8 @@ succumb dread expectation bacon earth saturn
 1
 1 0
 2
-0 25 12 0
 0 23 0 3
+0 25 12 0
 1
 end_operator
 begin_operator
@@ -39241,8 +39241,8 @@ succumb dread expectation bacon neptune mars
 1
 1 0
 2
-0 25 12 0
 0 23 2 1
+0 25 12 0
 1
 end_operator
 begin_operator
@@ -39250,8 +39250,8 @@ succumb dread expectation bacon saturn neptune
 1
 1 0
 2
-0 25 12 0
 0 23 3 2
+0 25 12 0
 1
 end_operator
 begin_operator
@@ -39259,8 +39259,8 @@ succumb dread expectation cantelope earth saturn
 1
 1 1
 2
-0 25 12 1
 0 23 0 3
+0 25 12 1
 1
 end_operator
 begin_operator
@@ -39268,8 +39268,8 @@ succumb dread expectation cantelope neptune mars
 1
 1 1
 2
-0 25 12 1
 0 23 2 1
+0 25 12 1
 1
 end_operator
 begin_operator
@@ -39277,8 +39277,8 @@ succumb dread expectation cantelope saturn neptune
 1
 1 1
 2
-0 25 12 1
 0 23 3 2
+0 25 12 1
 1
 end_operator
 begin_operator
@@ -39286,8 +39286,8 @@ succumb dread expectation chicken earth saturn
 1
 1 2
 2
-0 25 12 2
 0 23 0 3
+0 25 12 2
 1
 end_operator
 begin_operator
@@ -39295,8 +39295,8 @@ succumb dread expectation chicken neptune mars
 1
 1 2
 2
-0 25 12 2
 0 23 2 1
+0 25 12 2
 1
 end_operator
 begin_operator
@@ -39304,8 +39304,8 @@ succumb dread expectation chicken saturn neptune
 1
 1 2
 2
-0 25 12 2
 0 23 3 2
+0 25 12 2
 1
 end_operator
 begin_operator
@@ -39313,8 +39313,8 @@ succumb dread expectation chocolate earth saturn
 1
 1 3
 2
-0 25 12 3
 0 23 0 3
+0 25 12 3
 1
 end_operator
 begin_operator
@@ -39322,8 +39322,8 @@ succumb dread expectation chocolate neptune mars
 1
 1 3
 2
-0 25 12 3
 0 23 2 1
+0 25 12 3
 1
 end_operator
 begin_operator
@@ -39331,8 +39331,8 @@ succumb dread expectation chocolate saturn neptune
 1
 1 3
 2
-0 25 12 3
 0 23 3 2
+0 25 12 3
 1
 end_operator
 begin_operator
@@ -39340,8 +39340,8 @@ succumb dread expectation grapefruit earth saturn
 1
 1 4
 2
-0 25 12 4
 0 23 0 3
+0 25 12 4
 1
 end_operator
 begin_operator
@@ -39349,8 +39349,8 @@ succumb dread expectation grapefruit neptune mars
 1
 1 4
 2
-0 25 12 4
 0 23 2 1
+0 25 12 4
 1
 end_operator
 begin_operator
@@ -39358,8 +39358,8 @@ succumb dread expectation grapefruit saturn neptune
 1
 1 4
 2
-0 25 12 4
 0 23 3 2
+0 25 12 4
 1
 end_operator
 begin_operator
@@ -39367,8 +39367,8 @@ succumb dread expectation ham earth saturn
 1
 1 5
 2
-0 25 12 5
 0 23 0 3
+0 25 12 5
 1
 end_operator
 begin_operator
@@ -39376,8 +39376,8 @@ succumb dread expectation ham neptune mars
 1
 1 5
 2
-0 25 12 5
 0 23 2 1
+0 25 12 5
 1
 end_operator
 begin_operator
@@ -39385,8 +39385,8 @@ succumb dread expectation ham saturn neptune
 1
 1 5
 2
-0 25 12 5
 0 23 3 2
+0 25 12 5
 1
 end_operator
 begin_operator
@@ -39394,8 +39394,8 @@ succumb dread expectation haroset earth saturn
 1
 1 6
 2
-0 25 12 6
 0 23 0 3
+0 25 12 6
 1
 end_operator
 begin_operator
@@ -39403,8 +39403,8 @@ succumb dread expectation haroset neptune mars
 1
 1 6
 2
-0 25 12 6
 0 23 2 1
+0 25 12 6
 1
 end_operator
 begin_operator
@@ -39412,8 +39412,8 @@ succumb dread expectation haroset saturn neptune
 1
 1 6
 2
-0 25 12 6
 0 23 3 2
+0 25 12 6
 1
 end_operator
 begin_operator
@@ -39421,8 +39421,8 @@ succumb dread expectation lemon earth saturn
 1
 1 7
 2
-0 25 12 7
 0 23 0 3
+0 25 12 7
 1
 end_operator
 begin_operator
@@ -39430,8 +39430,8 @@ succumb dread expectation lemon neptune mars
 1
 1 7
 2
-0 25 12 7
 0 23 2 1
+0 25 12 7
 1
 end_operator
 begin_operator
@@ -39439,8 +39439,8 @@ succumb dread expectation lemon saturn neptune
 1
 1 7
 2
-0 25 12 7
 0 23 3 2
+0 25 12 7
 1
 end_operator
 begin_operator
@@ -39448,8 +39448,8 @@ succumb dread expectation muffin earth saturn
 1
 1 8
 2
-0 25 12 8
 0 23 0 3
+0 25 12 8
 1
 end_operator
 begin_operator
@@ -39457,8 +39457,8 @@ succumb dread expectation muffin neptune mars
 1
 1 8
 2
-0 25 12 8
 0 23 2 1
+0 25 12 8
 1
 end_operator
 begin_operator
@@ -39466,8 +39466,8 @@ succumb dread expectation muffin saturn neptune
 1
 1 8
 2
-0 25 12 8
 0 23 3 2
+0 25 12 8
 1
 end_operator
 begin_operator
@@ -39475,8 +39475,8 @@ succumb dread expectation pistachio earth saturn
 1
 1 9
 2
-0 25 12 9
 0 23 0 3
+0 25 12 9
 1
 end_operator
 begin_operator
@@ -39484,8 +39484,8 @@ succumb dread expectation pistachio neptune mars
 1
 1 9
 2
-0 25 12 9
 0 23 2 1
+0 25 12 9
 1
 end_operator
 begin_operator
@@ -39493,8 +39493,8 @@ succumb dread expectation pistachio saturn neptune
 1
 1 9
 2
-0 25 12 9
 0 23 3 2
+0 25 12 9
 1
 end_operator
 begin_operator
@@ -39502,8 +39502,8 @@ succumb dread expectation snickers earth saturn
 1
 1 10
 2
-0 25 12 10
 0 23 0 3
+0 25 12 10
 1
 end_operator
 begin_operator
@@ -39511,8 +39511,8 @@ succumb dread expectation snickers neptune mars
 1
 1 10
 2
-0 25 12 10
 0 23 2 1
+0 25 12 10
 1
 end_operator
 begin_operator
@@ -39520,8 +39520,8 @@ succumb dread expectation snickers saturn neptune
 1
 1 10
 2
-0 25 12 10
 0 23 3 2
+0 25 12 10
 1
 end_operator
 begin_operator
@@ -41311,8 +41311,8 @@ succumb grief aesthetics bacon earth saturn
 1
 0 0
 2
-0 28 11 0
 0 22 0 3
+0 28 11 0
 1
 end_operator
 begin_operator
@@ -41320,8 +41320,8 @@ succumb grief aesthetics bacon neptune mars
 1
 0 0
 2
-0 28 11 0
 0 22 2 1
+0 28 11 0
 1
 end_operator
 begin_operator
@@ -41329,8 +41329,8 @@ succumb grief aesthetics bacon saturn neptune
 1
 0 0
 2
-0 28 11 0
 0 22 3 2
+0 28 11 0
 1
 end_operator
 begin_operator
@@ -41338,8 +41338,8 @@ succumb grief aesthetics cantelope earth saturn
 1
 0 1
 2
-0 28 11 1
 0 22 0 3
+0 28 11 1
 1
 end_operator
 begin_operator
@@ -41347,8 +41347,8 @@ succumb grief aesthetics cantelope neptune mars
 1
 0 1
 2
-0 28 11 1
 0 22 2 1
+0 28 11 1
 1
 end_operator
 begin_operator
@@ -41356,8 +41356,8 @@ succumb grief aesthetics cantelope saturn neptune
 1
 0 1
 2
-0 28 11 1
 0 22 3 2
+0 28 11 1
 1
 end_operator
 begin_operator
@@ -41365,8 +41365,8 @@ succumb grief aesthetics chicken earth saturn
 1
 0 2
 2
-0 28 11 2
 0 22 0 3
+0 28 11 2
 1
 end_operator
 begin_operator
@@ -41374,8 +41374,8 @@ succumb grief aesthetics chicken neptune mars
 1
 0 2
 2
-0 28 11 2
 0 22 2 1
+0 28 11 2
 1
 end_operator
 begin_operator
@@ -41383,8 +41383,8 @@ succumb grief aesthetics chicken saturn neptune
 1
 0 2
 2
-0 28 11 2
 0 22 3 2
+0 28 11 2
 1
 end_operator
 begin_operator
@@ -41392,8 +41392,8 @@ succumb grief aesthetics chocolate earth saturn
 1
 0 3
 2
-0 28 11 3
 0 22 0 3
+0 28 11 3
 1
 end_operator
 begin_operator
@@ -41401,8 +41401,8 @@ succumb grief aesthetics chocolate neptune mars
 1
 0 3
 2
-0 28 11 3
 0 22 2 1
+0 28 11 3
 1
 end_operator
 begin_operator
@@ -41410,8 +41410,8 @@ succumb grief aesthetics chocolate saturn neptune
 1
 0 3
 2
-0 28 11 3
 0 22 3 2
+0 28 11 3
 1
 end_operator
 begin_operator
@@ -41419,8 +41419,8 @@ succumb grief aesthetics grapefruit earth saturn
 1
 0 4
 2
-0 28 11 4
 0 22 0 3
+0 28 11 4
 1
 end_operator
 begin_operator
@@ -41428,8 +41428,8 @@ succumb grief aesthetics grapefruit neptune mars
 1
 0 4
 2
-0 28 11 4
 0 22 2 1
+0 28 11 4
 1
 end_operator
 begin_operator
@@ -41437,8 +41437,8 @@ succumb grief aesthetics grapefruit saturn neptune
 1
 0 4
 2
-0 28 11 4
 0 22 3 2
+0 28 11 4
 1
 end_operator
 begin_operator
@@ -41446,8 +41446,8 @@ succumb grief aesthetics ham earth saturn
 1
 0 5
 2
-0 28 11 5
 0 22 0 3
+0 28 11 5
 1
 end_operator
 begin_operator
@@ -41455,8 +41455,8 @@ succumb grief aesthetics ham neptune mars
 1
 0 5
 2
-0 28 11 5
 0 22 2 1
+0 28 11 5
 1
 end_operator
 begin_operator
@@ -41464,8 +41464,8 @@ succumb grief aesthetics ham saturn neptune
 1
 0 5
 2
-0 28 11 5
 0 22 3 2
+0 28 11 5
 1
 end_operator
 begin_operator
@@ -41473,8 +41473,8 @@ succumb grief aesthetics haroset earth saturn
 1
 0 6
 2
-0 28 11 6
 0 22 0 3
+0 28 11 6
 1
 end_operator
 begin_operator
@@ -41482,8 +41482,8 @@ succumb grief aesthetics haroset neptune mars
 1
 0 6
 2
-0 28 11 6
 0 22 2 1
+0 28 11 6
 1
 end_operator
 begin_operator
@@ -41491,8 +41491,8 @@ succumb grief aesthetics haroset saturn neptune
 1
 0 6
 2
-0 28 11 6
 0 22 3 2
+0 28 11 6
 1
 end_operator
 begin_operator
@@ -41500,8 +41500,8 @@ succumb grief aesthetics lemon earth saturn
 1
 0 7
 2
-0 28 11 7
 0 22 0 3
+0 28 11 7
 1
 end_operator
 begin_operator
@@ -41509,8 +41509,8 @@ succumb grief aesthetics lemon neptune mars
 1
 0 7
 2
-0 28 11 7
 0 22 2 1
+0 28 11 7
 1
 end_operator
 begin_operator
@@ -41518,8 +41518,8 @@ succumb grief aesthetics lemon saturn neptune
 1
 0 7
 2
-0 28 11 7
 0 22 3 2
+0 28 11 7
 1
 end_operator
 begin_operator
@@ -41527,8 +41527,8 @@ succumb grief aesthetics muffin earth saturn
 1
 0 8
 2
-0 28 11 8
 0 22 0 3
+0 28 11 8
 1
 end_operator
 begin_operator
@@ -41536,8 +41536,8 @@ succumb grief aesthetics muffin neptune mars
 1
 0 8
 2
-0 28 11 8
 0 22 2 1
+0 28 11 8
 1
 end_operator
 begin_operator
@@ -41545,8 +41545,8 @@ succumb grief aesthetics muffin saturn neptune
 1
 0 8
 2
-0 28 11 8
 0 22 3 2
+0 28 11 8
 1
 end_operator
 begin_operator
@@ -41554,8 +41554,8 @@ succumb grief aesthetics pistachio earth saturn
 1
 0 9
 2
-0 28 11 9
 0 22 0 3
+0 28 11 9
 1
 end_operator
 begin_operator
@@ -41563,8 +41563,8 @@ succumb grief aesthetics pistachio neptune mars
 1
 0 9
 2
-0 28 11 9
 0 22 2 1
+0 28 11 9
 1
 end_operator
 begin_operator
@@ -41572,8 +41572,8 @@ succumb grief aesthetics pistachio saturn neptune
 1
 0 9
 2
-0 28 11 9
 0 22 3 2
+0 28 11 9
 1
 end_operator
 begin_operator
@@ -41581,8 +41581,8 @@ succumb grief aesthetics snickers earth saturn
 1
 0 10
 2
-0 28 11 10
 0 22 0 3
+0 28 11 10
 1
 end_operator
 begin_operator
@@ -41590,8 +41590,8 @@ succumb grief aesthetics snickers neptune mars
 1
 0 10
 2
-0 28 11 10
 0 22 2 1
+0 28 11 10
 1
 end_operator
 begin_operator
@@ -41599,8 +41599,8 @@ succumb grief aesthetics snickers saturn neptune
 1
 0 10
 2
-0 28 11 10
 0 22 3 2
+0 28 11 10
 1
 end_operator
 begin_operator
@@ -41608,8 +41608,8 @@ succumb grief expectation bacon earth saturn
 1
 1 0
 2
-0 28 12 0
 0 23 0 3
+0 28 12 0
 1
 end_operator
 begin_operator
@@ -41617,8 +41617,8 @@ succumb grief expectation bacon neptune mars
 1
 1 0
 2
-0 28 12 0
 0 23 2 1
+0 28 12 0
 1
 end_operator
 begin_operator
@@ -41626,8 +41626,8 @@ succumb grief expectation bacon saturn neptune
 1
 1 0
 2
-0 28 12 0
 0 23 3 2
+0 28 12 0
 1
 end_operator
 begin_operator
@@ -41635,8 +41635,8 @@ succumb grief expectation cantelope earth saturn
 1
 1 1
 2
-0 28 12 1
 0 23 0 3
+0 28 12 1
 1
 end_operator
 begin_operator
@@ -41644,8 +41644,8 @@ succumb grief expectation cantelope neptune mars
 1
 1 1
 2
-0 28 12 1
 0 23 2 1
+0 28 12 1
 1
 end_operator
 begin_operator
@@ -41653,8 +41653,8 @@ succumb grief expectation cantelope saturn neptune
 1
 1 1
 2
-0 28 12 1
 0 23 3 2
+0 28 12 1
 1
 end_operator
 begin_operator
@@ -41662,8 +41662,8 @@ succumb grief expectation chicken earth saturn
 1
 1 2
 2
-0 28 12 2
 0 23 0 3
+0 28 12 2
 1
 end_operator
 begin_operator
@@ -41671,8 +41671,8 @@ succumb grief expectation chicken neptune mars
 1
 1 2
 2
-0 28 12 2
 0 23 2 1
+0 28 12 2
 1
 end_operator
 begin_operator
@@ -41680,8 +41680,8 @@ succumb grief expectation chicken saturn neptune
 1
 1 2
 2
-0 28 12 2
 0 23 3 2
+0 28 12 2
 1
 end_operator
 begin_operator
@@ -41689,8 +41689,8 @@ succumb grief expectation chocolate earth saturn
 1
 1 3
 2
-0 28 12 3
 0 23 0 3
+0 28 12 3
 1
 end_operator
 begin_operator
@@ -41698,8 +41698,8 @@ succumb grief expectation chocolate neptune mars
 1
 1 3
 2
-0 28 12 3
 0 23 2 1
+0 28 12 3
 1
 end_operator
 begin_operator
@@ -41707,8 +41707,8 @@ succumb grief expectation chocolate saturn neptune
 1
 1 3
 2
-0 28 12 3
 0 23 3 2
+0 28 12 3
 1
 end_operator
 begin_operator
@@ -41716,8 +41716,8 @@ succumb grief expectation grapefruit earth saturn
 1
 1 4
 2
-0 28 12 4
 0 23 0 3
+0 28 12 4
 1
 end_operator
 begin_operator
@@ -41725,8 +41725,8 @@ succumb grief expectation grapefruit neptune mars
 1
 1 4
 2
-0 28 12 4
 0 23 2 1
+0 28 12 4
 1
 end_operator
 begin_operator
@@ -41734,8 +41734,8 @@ succumb grief expectation grapefruit saturn neptune
 1
 1 4
 2
-0 28 12 4
 0 23 3 2
+0 28 12 4
 1
 end_operator
 begin_operator
@@ -41743,8 +41743,8 @@ succumb grief expectation ham earth saturn
 1
 1 5
 2
-0 28 12 5
 0 23 0 3
+0 28 12 5
 1
 end_operator
 begin_operator
@@ -41752,8 +41752,8 @@ succumb grief expectation ham neptune mars
 1
 1 5
 2
-0 28 12 5
 0 23 2 1
+0 28 12 5
 1
 end_operator
 begin_operator
@@ -41761,8 +41761,8 @@ succumb grief expectation ham saturn neptune
 1
 1 5
 2
-0 28 12 5
 0 23 3 2
+0 28 12 5
 1
 end_operator
 begin_operator
@@ -41770,8 +41770,8 @@ succumb grief expectation haroset earth saturn
 1
 1 6
 2
-0 28 12 6
 0 23 0 3
+0 28 12 6
 1
 end_operator
 begin_operator
@@ -41779,8 +41779,8 @@ succumb grief expectation haroset neptune mars
 1
 1 6
 2
-0 28 12 6
 0 23 2 1
+0 28 12 6
 1
 end_operator
 begin_operator
@@ -41788,8 +41788,8 @@ succumb grief expectation haroset saturn neptune
 1
 1 6
 2
-0 28 12 6
 0 23 3 2
+0 28 12 6
 1
 end_operator
 begin_operator
@@ -41797,8 +41797,8 @@ succumb grief expectation lemon earth saturn
 1
 1 7
 2
-0 28 12 7
 0 23 0 3
+0 28 12 7
 1
 end_operator
 begin_operator
@@ -41806,8 +41806,8 @@ succumb grief expectation lemon neptune mars
 1
 1 7
 2
-0 28 12 7
 0 23 2 1
+0 28 12 7
 1
 end_operator
 begin_operator
@@ -41815,8 +41815,8 @@ succumb grief expectation lemon saturn neptune
 1
 1 7
 2
-0 28 12 7
 0 23 3 2
+0 28 12 7
 1
 end_operator
 begin_operator
@@ -41824,8 +41824,8 @@ succumb grief expectation muffin earth saturn
 1
 1 8
 2
-0 28 12 8
 0 23 0 3
+0 28 12 8
 1
 end_operator
 begin_operator
@@ -41833,8 +41833,8 @@ succumb grief expectation muffin neptune mars
 1
 1 8
 2
-0 28 12 8
 0 23 2 1
+0 28 12 8
 1
 end_operator
 begin_operator
@@ -41842,8 +41842,8 @@ succumb grief expectation muffin saturn neptune
 1
 1 8
 2
-0 28 12 8
 0 23 3 2
+0 28 12 8
 1
 end_operator
 begin_operator
@@ -41851,8 +41851,8 @@ succumb grief expectation pistachio earth saturn
 1
 1 9
 2
-0 28 12 9
 0 23 0 3
+0 28 12 9
 1
 end_operator
 begin_operator
@@ -41860,8 +41860,8 @@ succumb grief expectation pistachio neptune mars
 1
 1 9
 2
-0 28 12 9
 0 23 2 1
+0 28 12 9
 1
 end_operator
 begin_operator
@@ -41869,8 +41869,8 @@ succumb grief expectation pistachio saturn neptune
 1
 1 9
 2
-0 28 12 9
 0 23 3 2
+0 28 12 9
 1
 end_operator
 begin_operator
@@ -41878,8 +41878,8 @@ succumb grief expectation snickers earth saturn
 1
 1 10
 2
-0 28 12 10
 0 23 0 3
+0 28 12 10
 1
 end_operator
 begin_operator
@@ -41887,8 +41887,8 @@ succumb grief expectation snickers neptune mars
 1
 1 10
 2
-0 28 12 10
 0 23 2 1
+0 28 12 10
 1
 end_operator
 begin_operator
@@ -41896,8 +41896,8 @@ succumb grief expectation snickers saturn neptune
 1
 1 10
 2
-0 28 12 10
 0 23 3 2
+0 28 12 10
 1
 end_operator
 begin_operator
@@ -41905,8 +41905,8 @@ succumb grief intoxication bacon earth saturn
 1
 2 0
 2
-0 28 13 0
 0 26 0 3
+0 28 13 0
 1
 end_operator
 begin_operator
@@ -41914,8 +41914,8 @@ succumb grief intoxication bacon neptune mars
 1
 2 0
 2
-0 28 13 0
 0 26 2 1
+0 28 13 0
 1
 end_operator
 begin_operator
@@ -41923,8 +41923,8 @@ succumb grief intoxication bacon saturn neptune
 1
 2 0
 2
-0 28 13 0
 0 26 3 2
+0 28 13 0
 1
 end_operator
 begin_operator
@@ -41932,8 +41932,8 @@ succumb grief intoxication cantelope earth saturn
 1
 2 1
 2
-0 28 13 1
 0 26 0 3
+0 28 13 1
 1
 end_operator
 begin_operator
@@ -41941,8 +41941,8 @@ succumb grief intoxication cantelope neptune mars
 1
 2 1
 2
-0 28 13 1
 0 26 2 1
+0 28 13 1
 1
 end_operator
 begin_operator
@@ -41950,8 +41950,8 @@ succumb grief intoxication cantelope saturn neptune
 1
 2 1
 2
-0 28 13 1
 0 26 3 2
+0 28 13 1
 1
 end_operator
 begin_operator
@@ -41959,8 +41959,8 @@ succumb grief intoxication chicken earth saturn
 1
 2 2
 2
-0 28 13 2
 0 26 0 3
+0 28 13 2
 1
 end_operator
 begin_operator
@@ -41968,8 +41968,8 @@ succumb grief intoxication chicken neptune mars
 1
 2 2
 2
-0 28 13 2
 0 26 2 1
+0 28 13 2
 1
 end_operator
 begin_operator
@@ -41977,8 +41977,8 @@ succumb grief intoxication chicken saturn neptune
 1
 2 2
 2
-0 28 13 2
 0 26 3 2
+0 28 13 2
 1
 end_operator
 begin_operator
@@ -41986,8 +41986,8 @@ succumb grief intoxication chocolate earth saturn
 1
 2 3
 2
-0 28 13 3
 0 26 0 3
+0 28 13 3
 1
 end_operator
 begin_operator
@@ -41995,8 +41995,8 @@ succumb grief intoxication chocolate neptune mars
 1
 2 3
 2
-0 28 13 3
 0 26 2 1
+0 28 13 3
 1
 end_operator
 begin_operator
@@ -42004,8 +42004,8 @@ succumb grief intoxication chocolate saturn neptune
 1
 2 3
 2
-0 28 13 3
 0 26 3 2
+0 28 13 3
 1
 end_operator
 begin_operator
@@ -42013,8 +42013,8 @@ succumb grief intoxication grapefruit earth saturn
 1
 2 4
 2
-0 28 13 4
 0 26 0 3
+0 28 13 4
 1
 end_operator
 begin_operator
@@ -42022,8 +42022,8 @@ succumb grief intoxication grapefruit neptune mars
 1
 2 4
 2
-0 28 13 4
 0 26 2 1
+0 28 13 4
 1
 end_operator
 begin_operator
@@ -42031,8 +42031,8 @@ succumb grief intoxication grapefruit saturn neptune
 1
 2 4
 2
-0 28 13 4
 0 26 3 2
+0 28 13 4
 1
 end_operator
 begin_operator
@@ -42040,8 +42040,8 @@ succumb grief intoxication ham earth saturn
 1
 2 5
 2
-0 28 13 5
 0 26 0 3
+0 28 13 5
 1
 end_operator
 begin_operator
@@ -42049,8 +42049,8 @@ succumb grief intoxication ham neptune mars
 1
 2 5
 2
-0 28 13 5
 0 26 2 1
+0 28 13 5
 1
 end_operator
 begin_operator
@@ -42058,8 +42058,8 @@ succumb grief intoxication ham saturn neptune
 1
 2 5
 2
-0 28 13 5
 0 26 3 2
+0 28 13 5
 1
 end_operator
 begin_operator
@@ -42067,8 +42067,8 @@ succumb grief intoxication haroset earth saturn
 1
 2 6
 2
-0 28 13 6
 0 26 0 3
+0 28 13 6
 1
 end_operator
 begin_operator
@@ -42076,8 +42076,8 @@ succumb grief intoxication haroset neptune mars
 1
 2 6
 2
-0 28 13 6
 0 26 2 1
+0 28 13 6
 1
 end_operator
 begin_operator
@@ -42085,8 +42085,8 @@ succumb grief intoxication haroset saturn neptune
 1
 2 6
 2
-0 28 13 6
 0 26 3 2
+0 28 13 6
 1
 end_operator
 begin_operator
@@ -42094,8 +42094,8 @@ succumb grief intoxication lemon earth saturn
 1
 2 7
 2
-0 28 13 7
 0 26 0 3
+0 28 13 7
 1
 end_operator
 begin_operator
@@ -42103,8 +42103,8 @@ succumb grief intoxication lemon neptune mars
 1
 2 7
 2
-0 28 13 7
 0 26 2 1
+0 28 13 7
 1
 end_operator
 begin_operator
@@ -42112,8 +42112,8 @@ succumb grief intoxication lemon saturn neptune
 1
 2 7
 2
-0 28 13 7
 0 26 3 2
+0 28 13 7
 1
 end_operator
 begin_operator
@@ -42121,8 +42121,8 @@ succumb grief intoxication muffin earth saturn
 1
 2 8
 2
-0 28 13 8
 0 26 0 3
+0 28 13 8
 1
 end_operator
 begin_operator
@@ -42130,8 +42130,8 @@ succumb grief intoxication muffin neptune mars
 1
 2 8
 2
-0 28 13 8
 0 26 2 1
+0 28 13 8
 1
 end_operator
 begin_operator
@@ -42139,8 +42139,8 @@ succumb grief intoxication muffin saturn neptune
 1
 2 8
 2
-0 28 13 8
 0 26 3 2
+0 28 13 8
 1
 end_operator
 begin_operator
@@ -42148,8 +42148,8 @@ succumb grief intoxication pistachio earth saturn
 1
 2 9
 2
-0 28 13 9
 0 26 0 3
+0 28 13 9
 1
 end_operator
 begin_operator
@@ -42157,8 +42157,8 @@ succumb grief intoxication pistachio neptune mars
 1
 2 9
 2
-0 28 13 9
 0 26 2 1
+0 28 13 9
 1
 end_operator
 begin_operator
@@ -42166,8 +42166,8 @@ succumb grief intoxication pistachio saturn neptune
 1
 2 9
 2
-0 28 13 9
 0 26 3 2
+0 28 13 9
 1
 end_operator
 begin_operator
@@ -42175,8 +42175,8 @@ succumb grief intoxication snickers earth saturn
 1
 2 10
 2
-0 28 13 10
 0 26 0 3
+0 28 13 10
 1
 end_operator
 begin_operator
@@ -42184,8 +42184,8 @@ succumb grief intoxication snickers neptune mars
 1
 2 10
 2
-0 28 13 10
 0 26 2 1
+0 28 13 10
 1
 end_operator
 begin_operator
@@ -42193,8 +42193,8 @@ succumb grief intoxication snickers saturn neptune
 1
 2 10
 2
-0 28 13 10
 0 26 3 2
+0 28 13 10
 1
 end_operator
 begin_operator
@@ -42202,8 +42202,8 @@ succumb grief learning bacon earth saturn
 1
 3 0
 2
-0 28 14 0
 0 27 0 3
+0 28 14 0
 1
 end_operator
 begin_operator
@@ -42211,8 +42211,8 @@ succumb grief learning bacon neptune mars
 1
 3 0
 2
-0 28 14 0
 0 27 2 1
+0 28 14 0
 1
 end_operator
 begin_operator
@@ -42220,8 +42220,8 @@ succumb grief learning bacon saturn neptune
 1
 3 0
 2
-0 28 14 0
 0 27 3 2
+0 28 14 0
 1
 end_operator
 begin_operator
@@ -42229,8 +42229,8 @@ succumb grief learning cantelope earth saturn
 1
 3 1
 2
-0 28 14 1
 0 27 0 3
+0 28 14 1
 1
 end_operator
 begin_operator
@@ -42238,8 +42238,8 @@ succumb grief learning cantelope neptune mars
 1
 3 1
 2
-0 28 14 1
 0 27 2 1
+0 28 14 1
 1
 end_operator
 begin_operator
@@ -42247,8 +42247,8 @@ succumb grief learning cantelope saturn neptune
 1
 3 1
 2
-0 28 14 1
 0 27 3 2
+0 28 14 1
 1
 end_operator
 begin_operator
@@ -42256,8 +42256,8 @@ succumb grief learning chicken earth saturn
 1
 3 2
 2
-0 28 14 2
 0 27 0 3
+0 28 14 2
 1
 end_operator
 begin_operator
@@ -42265,8 +42265,8 @@ succumb grief learning chicken neptune mars
 1
 3 2
 2
-0 28 14 2
 0 27 2 1
+0 28 14 2
 1
 end_operator
 begin_operator
@@ -42274,8 +42274,8 @@ succumb grief learning chicken saturn neptune
 1
 3 2
 2
-0 28 14 2
 0 27 3 2
+0 28 14 2
 1
 end_operator
 begin_operator
@@ -42283,8 +42283,8 @@ succumb grief learning chocolate earth saturn
 1
 3 3
 2
-0 28 14 3
 0 27 0 3
+0 28 14 3
 1
 end_operator
 begin_operator
@@ -42292,8 +42292,8 @@ succumb grief learning chocolate neptune mars
 1
 3 3
 2
-0 28 14 3
 0 27 2 1
+0 28 14 3
 1
 end_operator
 begin_operator
@@ -42301,8 +42301,8 @@ succumb grief learning chocolate saturn neptune
 1
 3 3
 2
-0 28 14 3
 0 27 3 2
+0 28 14 3
 1
 end_operator
 begin_operator
@@ -42310,8 +42310,8 @@ succumb grief learning grapefruit earth saturn
 1
 3 4
 2
-0 28 14 4
 0 27 0 3
+0 28 14 4
 1
 end_operator
 begin_operator
@@ -42319,8 +42319,8 @@ succumb grief learning grapefruit neptune mars
 1
 3 4
 2
-0 28 14 4
 0 27 2 1
+0 28 14 4
 1
 end_operator
 begin_operator
@@ -42328,8 +42328,8 @@ succumb grief learning grapefruit saturn neptune
 1
 3 4
 2
-0 28 14 4
 0 27 3 2
+0 28 14 4
 1
 end_operator
 begin_operator
@@ -42337,8 +42337,8 @@ succumb grief learning ham earth saturn
 1
 3 5
 2
-0 28 14 5
 0 27 0 3
+0 28 14 5
 1
 end_operator
 begin_operator
@@ -42346,8 +42346,8 @@ succumb grief learning ham neptune mars
 1
 3 5
 2
-0 28 14 5
 0 27 2 1
+0 28 14 5
 1
 end_operator
 begin_operator
@@ -42355,8 +42355,8 @@ succumb grief learning ham saturn neptune
 1
 3 5
 2
-0 28 14 5
 0 27 3 2
+0 28 14 5
 1
 end_operator
 begin_operator
@@ -42364,8 +42364,8 @@ succumb grief learning haroset earth saturn
 1
 3 6
 2
-0 28 14 6
 0 27 0 3
+0 28 14 6
 1
 end_operator
 begin_operator
@@ -42373,8 +42373,8 @@ succumb grief learning haroset neptune mars
 1
 3 6
 2
-0 28 14 6
 0 27 2 1
+0 28 14 6
 1
 end_operator
 begin_operator
@@ -42382,8 +42382,8 @@ succumb grief learning haroset saturn neptune
 1
 3 6
 2
-0 28 14 6
 0 27 3 2
+0 28 14 6
 1
 end_operator
 begin_operator
@@ -42391,8 +42391,8 @@ succumb grief learning lemon earth saturn
 1
 3 7
 2
-0 28 14 7
 0 27 0 3
+0 28 14 7
 1
 end_operator
 begin_operator
@@ -42400,8 +42400,8 @@ succumb grief learning lemon neptune mars
 1
 3 7
 2
-0 28 14 7
 0 27 2 1
+0 28 14 7
 1
 end_operator
 begin_operator
@@ -42409,8 +42409,8 @@ succumb grief learning lemon saturn neptune
 1
 3 7
 2
-0 28 14 7
 0 27 3 2
+0 28 14 7
 1
 end_operator
 begin_operator
@@ -42418,8 +42418,8 @@ succumb grief learning muffin earth saturn
 1
 3 8
 2
-0 28 14 8
 0 27 0 3
+0 28 14 8
 1
 end_operator
 begin_operator
@@ -42427,8 +42427,8 @@ succumb grief learning muffin neptune mars
 1
 3 8
 2
-0 28 14 8
 0 27 2 1
+0 28 14 8
 1
 end_operator
 begin_operator
@@ -42436,8 +42436,8 @@ succumb grief learning muffin saturn neptune
 1
 3 8
 2
-0 28 14 8
 0 27 3 2
+0 28 14 8
 1
 end_operator
 begin_operator
@@ -42445,8 +42445,8 @@ succumb grief learning pistachio earth saturn
 1
 3 9
 2
-0 28 14 9
 0 27 0 3
+0 28 14 9
 1
 end_operator
 begin_operator
@@ -42454,8 +42454,8 @@ succumb grief learning pistachio neptune mars
 1
 3 9
 2
-0 28 14 9
 0 27 2 1
+0 28 14 9
 1
 end_operator
 begin_operator
@@ -42463,8 +42463,8 @@ succumb grief learning pistachio saturn neptune
 1
 3 9
 2
-0 28 14 9
 0 27 3 2
+0 28 14 9
 1
 end_operator
 begin_operator
@@ -42472,8 +42472,8 @@ succumb grief learning snickers earth saturn
 1
 3 10
 2
-0 28 14 10
 0 27 0 3
+0 28 14 10
 1
 end_operator
 begin_operator
@@ -42481,8 +42481,8 @@ succumb grief learning snickers neptune mars
 1
 3 10
 2
-0 28 14 10
 0 27 2 1
+0 28 14 10
 1
 end_operator
 begin_operator
@@ -42490,8 +42490,8 @@ succumb grief learning snickers saturn neptune
 1
 3 10
 2
-0 28 14 10
 0 27 3 2
+0 28 14 10
 1
 end_operator
 begin_operator
@@ -43687,8 +43687,8 @@ succumb hangover aesthetics bacon earth saturn
 1
 0 0
 2
-0 29 11 0
 0 22 0 3
+0 29 11 0
 1
 end_operator
 begin_operator
@@ -43696,8 +43696,8 @@ succumb hangover aesthetics bacon neptune mars
 1
 0 0
 2
-0 29 11 0
 0 22 2 1
+0 29 11 0
 1
 end_operator
 begin_operator
@@ -43705,8 +43705,8 @@ succumb hangover aesthetics bacon saturn neptune
 1
 0 0
 2
-0 29 11 0
 0 22 3 2
+0 29 11 0
 1
 end_operator
 begin_operator
@@ -43714,8 +43714,8 @@ succumb hangover aesthetics cantelope earth saturn
 1
 0 1
 2
-0 29 11 1
 0 22 0 3
+0 29 11 1
 1
 end_operator
 begin_operator
@@ -43723,8 +43723,8 @@ succumb hangover aesthetics cantelope neptune mars
 1
 0 1
 2
-0 29 11 1
 0 22 2 1
+0 29 11 1
 1
 end_operator
 begin_operator
@@ -43732,8 +43732,8 @@ succumb hangover aesthetics cantelope saturn neptune
 1
 0 1
 2
-0 29 11 1
 0 22 3 2
+0 29 11 1
 1
 end_operator
 begin_operator
@@ -43741,8 +43741,8 @@ succumb hangover aesthetics chicken earth saturn
 1
 0 2
 2
-0 29 11 2
 0 22 0 3
+0 29 11 2
 1
 end_operator
 begin_operator
@@ -43750,8 +43750,8 @@ succumb hangover aesthetics chicken neptune mars
 1
 0 2
 2
-0 29 11 2
 0 22 2 1
+0 29 11 2
 1
 end_operator
 begin_operator
@@ -43759,8 +43759,8 @@ succumb hangover aesthetics chicken saturn neptune
 1
 0 2
 2
-0 29 11 2
 0 22 3 2
+0 29 11 2
 1
 end_operator
 begin_operator
@@ -43768,8 +43768,8 @@ succumb hangover aesthetics chocolate earth saturn
 1
 0 3
 2
-0 29 11 3
 0 22 0 3
+0 29 11 3
 1
 end_operator
 begin_operator
@@ -43777,8 +43777,8 @@ succumb hangover aesthetics chocolate neptune mars
 1
 0 3
 2
-0 29 11 3
 0 22 2 1
+0 29 11 3
 1
 end_operator
 begin_operator
@@ -43786,8 +43786,8 @@ succumb hangover aesthetics chocolate saturn neptune
 1
 0 3
 2
-0 29 11 3
 0 22 3 2
+0 29 11 3
 1
 end_operator
 begin_operator
@@ -43795,8 +43795,8 @@ succumb hangover aesthetics grapefruit earth saturn
 1
 0 4
 2
-0 29 11 4
 0 22 0 3
+0 29 11 4
 1
 end_operator
 begin_operator
@@ -43804,8 +43804,8 @@ succumb hangover aesthetics grapefruit neptune mars
 1
 0 4
 2
-0 29 11 4
 0 22 2 1
+0 29 11 4
 1
 end_operator
 begin_operator
@@ -43813,8 +43813,8 @@ succumb hangover aesthetics grapefruit saturn neptune
 1
 0 4
 2
-0 29 11 4
 0 22 3 2
+0 29 11 4
 1
 end_operator
 begin_operator
@@ -43822,8 +43822,8 @@ succumb hangover aesthetics ham earth saturn
 1
 0 5
 2
-0 29 11 5
 0 22 0 3
+0 29 11 5
 1
 end_operator
 begin_operator
@@ -43831,8 +43831,8 @@ succumb hangover aesthetics ham neptune mars
 1
 0 5
 2
-0 29 11 5
 0 22 2 1
+0 29 11 5
 1
 end_operator
 begin_operator
@@ -43840,8 +43840,8 @@ succumb hangover aesthetics ham saturn neptune
 1
 0 5
 2
-0 29 11 5
 0 22 3 2
+0 29 11 5
 1
 end_operator
 begin_operator
@@ -43849,8 +43849,8 @@ succumb hangover aesthetics haroset earth saturn
 1
 0 6
 2
-0 29 11 6
 0 22 0 3
+0 29 11 6
 1
 end_operator
 begin_operator
@@ -43858,8 +43858,8 @@ succumb hangover aesthetics haroset neptune mars
 1
 0 6
 2
-0 29 11 6
 0 22 2 1
+0 29 11 6
 1
 end_operator
 begin_operator
@@ -43867,8 +43867,8 @@ succumb hangover aesthetics haroset saturn neptune
 1
 0 6
 2
-0 29 11 6
 0 22 3 2
+0 29 11 6
 1
 end_operator
 begin_operator
@@ -43876,8 +43876,8 @@ succumb hangover aesthetics lemon earth saturn
 1
 0 7
 2
-0 29 11 7
 0 22 0 3
+0 29 11 7
 1
 end_operator
 begin_operator
@@ -43885,8 +43885,8 @@ succumb hangover aesthetics lemon neptune mars
 1
 0 7
 2
-0 29 11 7
 0 22 2 1
+0 29 11 7
 1
 end_operator
 begin_operator
@@ -43894,8 +43894,8 @@ succumb hangover aesthetics lemon saturn neptune
 1
 0 7
 2
-0 29 11 7
 0 22 3 2
+0 29 11 7
 1
 end_operator
 begin_operator
@@ -43903,8 +43903,8 @@ succumb hangover aesthetics muffin earth saturn
 1
 0 8
 2
-0 29 11 8
 0 22 0 3
+0 29 11 8
 1
 end_operator
 begin_operator
@@ -43912,8 +43912,8 @@ succumb hangover aesthetics muffin neptune mars
 1
 0 8
 2
-0 29 11 8
 0 22 2 1
+0 29 11 8
 1
 end_operator
 begin_operator
@@ -43921,8 +43921,8 @@ succumb hangover aesthetics muffin saturn neptune
 1
 0 8
 2
-0 29 11 8
 0 22 3 2
+0 29 11 8
 1
 end_operator
 begin_operator
@@ -43930,8 +43930,8 @@ succumb hangover aesthetics pistachio earth saturn
 1
 0 9
 2
-0 29 11 9
 0 22 0 3
+0 29 11 9
 1
 end_operator
 begin_operator
@@ -43939,8 +43939,8 @@ succumb hangover aesthetics pistachio neptune mars
 1
 0 9
 2
-0 29 11 9
 0 22 2 1
+0 29 11 9
 1
 end_operator
 begin_operator
@@ -43948,8 +43948,8 @@ succumb hangover aesthetics pistachio saturn neptune
 1
 0 9
 2
-0 29 11 9
 0 22 3 2
+0 29 11 9
 1
 end_operator
 begin_operator
@@ -43957,8 +43957,8 @@ succumb hangover aesthetics snickers earth saturn
 1
 0 10
 2
-0 29 11 10
 0 22 0 3
+0 29 11 10
 1
 end_operator
 begin_operator
@@ -43966,8 +43966,8 @@ succumb hangover aesthetics snickers neptune mars
 1
 0 10
 2
-0 29 11 10
 0 22 2 1
+0 29 11 10
 1
 end_operator
 begin_operator
@@ -43975,8 +43975,8 @@ succumb hangover aesthetics snickers saturn neptune
 1
 0 10
 2
-0 29 11 10
 0 22 3 2
+0 29 11 10
 1
 end_operator
 begin_operator
@@ -43984,8 +43984,8 @@ succumb hangover expectation bacon earth saturn
 1
 1 0
 2
-0 29 12 0
 0 23 0 3
+0 29 12 0
 1
 end_operator
 begin_operator
@@ -43993,8 +43993,8 @@ succumb hangover expectation bacon neptune mars
 1
 1 0
 2
-0 29 12 0
 0 23 2 1
+0 29 12 0
 1
 end_operator
 begin_operator
@@ -44002,8 +44002,8 @@ succumb hangover expectation bacon saturn neptune
 1
 1 0
 2
-0 29 12 0
 0 23 3 2
+0 29 12 0
 1
 end_operator
 begin_operator
@@ -44011,8 +44011,8 @@ succumb hangover expectation cantelope earth saturn
 1
 1 1
 2
-0 29 12 1
 0 23 0 3
+0 29 12 1
 1
 end_operator
 begin_operator
@@ -44020,8 +44020,8 @@ succumb hangover expectation cantelope neptune mars
 1
 1 1
 2
-0 29 12 1
 0 23 2 1
+0 29 12 1
 1
 end_operator
 begin_operator
@@ -44029,8 +44029,8 @@ succumb hangover expectation cantelope saturn neptune
 1
 1 1
 2
-0 29 12 1
 0 23 3 2
+0 29 12 1
 1
 end_operator
 begin_operator
@@ -44038,8 +44038,8 @@ succumb hangover expectation chicken earth saturn
 1
 1 2
 2
-0 29 12 2
 0 23 0 3
+0 29 12 2
 1
 end_operator
 begin_operator
@@ -44047,8 +44047,8 @@ succumb hangover expectation chicken neptune mars
 1
 1 2
 2
-0 29 12 2
 0 23 2 1
+0 29 12 2
 1
 end_operator
 begin_operator
@@ -44056,8 +44056,8 @@ succumb hangover expectation chicken saturn neptune
 1
 1 2
 2
-0 29 12 2
 0 23 3 2
+0 29 12 2
 1
 end_operator
 begin_operator
@@ -44065,8 +44065,8 @@ succumb hangover expectation chocolate earth saturn
 1
 1 3
 2
-0 29 12 3
 0 23 0 3
+0 29 12 3
 1
 end_operator
 begin_operator
@@ -44074,8 +44074,8 @@ succumb hangover expectation chocolate neptune mars
 1
 1 3
 2
-0 29 12 3
 0 23 2 1
+0 29 12 3
 1
 end_operator
 begin_operator
@@ -44083,8 +44083,8 @@ succumb hangover expectation chocolate saturn neptune
 1
 1 3
 2
-0 29 12 3
 0 23 3 2
+0 29 12 3
 1
 end_operator
 begin_operator
@@ -44092,8 +44092,8 @@ succumb hangover expectation grapefruit earth saturn
 1
 1 4
 2
-0 29 12 4
 0 23 0 3
+0 29 12 4
 1
 end_operator
 begin_operator
@@ -44101,8 +44101,8 @@ succumb hangover expectation grapefruit neptune mars
 1
 1 4
 2
-0 29 12 4
 0 23 2 1
+0 29 12 4
 1
 end_operator
 begin_operator
@@ -44110,8 +44110,8 @@ succumb hangover expectation grapefruit saturn neptune
 1
 1 4
 2
-0 29 12 4
 0 23 3 2
+0 29 12 4
 1
 end_operator
 begin_operator
@@ -44119,8 +44119,8 @@ succumb hangover expectation ham earth saturn
 1
 1 5
 2
-0 29 12 5
 0 23 0 3
+0 29 12 5
 1
 end_operator
 begin_operator
@@ -44128,8 +44128,8 @@ succumb hangover expectation ham neptune mars
 1
 1 5
 2
-0 29 12 5
 0 23 2 1
+0 29 12 5
 1
 end_operator
 begin_operator
@@ -44137,8 +44137,8 @@ succumb hangover expectation ham saturn neptune
 1
 1 5
 2
-0 29 12 5
 0 23 3 2
+0 29 12 5
 1
 end_operator
 begin_operator
@@ -44146,8 +44146,8 @@ succumb hangover expectation haroset earth saturn
 1
 1 6
 2
-0 29 12 6
 0 23 0 3
+0 29 12 6
 1
 end_operator
 begin_operator
@@ -44155,8 +44155,8 @@ succumb hangover expectation haroset neptune mars
 1
 1 6
 2
-0 29 12 6
 0 23 2 1
+0 29 12 6
 1
 end_operator
 begin_operator
@@ -44164,8 +44164,8 @@ succumb hangover expectation haroset saturn neptune
 1
 1 6
 2
-0 29 12 6
 0 23 3 2
+0 29 12 6
 1
 end_operator
 begin_operator
@@ -44173,8 +44173,8 @@ succumb hangover expectation lemon earth saturn
 1
 1 7
 2
-0 29 12 7
 0 23 0 3
+0 29 12 7
 1
 end_operator
 begin_operator
@@ -44182,8 +44182,8 @@ succumb hangover expectation lemon neptune mars
 1
 1 7
 2
-0 29 12 7
 0 23 2 1
+0 29 12 7
 1
 end_operator
 begin_operator
@@ -44191,8 +44191,8 @@ succumb hangover expectation lemon saturn neptune
 1
 1 7
 2
-0 29 12 7
 0 23 3 2
+0 29 12 7
 1
 end_operator
 begin_operator
@@ -44200,8 +44200,8 @@ succumb hangover expectation muffin earth saturn
 1
 1 8
 2
-0 29 12 8
 0 23 0 3
+0 29 12 8
 1
 end_operator
 begin_operator
@@ -44209,8 +44209,8 @@ succumb hangover expectation muffin neptune mars
 1
 1 8
 2
-0 29 12 8
 0 23 2 1
+0 29 12 8
 1
 end_operator
 begin_operator
@@ -44218,8 +44218,8 @@ succumb hangover expectation muffin saturn neptune
 1
 1 8
 2
-0 29 12 8
 0 23 3 2
+0 29 12 8
 1
 end_operator
 begin_operator
@@ -44227,8 +44227,8 @@ succumb hangover expectation pistachio earth saturn
 1
 1 9
 2
-0 29 12 9
 0 23 0 3
+0 29 12 9
 1
 end_operator
 begin_operator
@@ -44236,8 +44236,8 @@ succumb hangover expectation pistachio neptune mars
 1
 1 9
 2
-0 29 12 9
 0 23 2 1
+0 29 12 9
 1
 end_operator
 begin_operator
@@ -44245,8 +44245,8 @@ succumb hangover expectation pistachio saturn neptune
 1
 1 9
 2
-0 29 12 9
 0 23 3 2
+0 29 12 9
 1
 end_operator
 begin_operator
@@ -44254,8 +44254,8 @@ succumb hangover expectation snickers earth saturn
 1
 1 10
 2
-0 29 12 10
 0 23 0 3
+0 29 12 10
 1
 end_operator
 begin_operator
@@ -44263,8 +44263,8 @@ succumb hangover expectation snickers neptune mars
 1
 1 10
 2
-0 29 12 10
 0 23 2 1
+0 29 12 10
 1
 end_operator
 begin_operator
@@ -44272,8 +44272,8 @@ succumb hangover expectation snickers saturn neptune
 1
 1 10
 2
-0 29 12 10
 0 23 3 2
+0 29 12 10
 1
 end_operator
 begin_operator
@@ -44281,8 +44281,8 @@ succumb hangover intoxication bacon earth saturn
 1
 2 0
 2
-0 29 13 0
 0 26 0 3
+0 29 13 0
 1
 end_operator
 begin_operator
@@ -44290,8 +44290,8 @@ succumb hangover intoxication bacon neptune mars
 1
 2 0
 2
-0 29 13 0
 0 26 2 1
+0 29 13 0
 1
 end_operator
 begin_operator
@@ -44299,8 +44299,8 @@ succumb hangover intoxication bacon saturn neptune
 1
 2 0
 2
-0 29 13 0
 0 26 3 2
+0 29 13 0
 1
 end_operator
 begin_operator
@@ -44308,8 +44308,8 @@ succumb hangover intoxication cantelope earth saturn
 1
 2 1
 2
-0 29 13 1
 0 26 0 3
+0 29 13 1
 1
 end_operator
 begin_operator
@@ -44317,8 +44317,8 @@ succumb hangover intoxication cantelope neptune mars
 1
 2 1
 2
-0 29 13 1
 0 26 2 1
+0 29 13 1
 1
 end_operator
 begin_operator
@@ -44326,8 +44326,8 @@ succumb hangover intoxication cantelope saturn neptune
 1
 2 1
 2
-0 29 13 1
 0 26 3 2
+0 29 13 1
 1
 end_operator
 begin_operator
@@ -44335,8 +44335,8 @@ succumb hangover intoxication chicken earth saturn
 1
 2 2
 2
-0 29 13 2
 0 26 0 3
+0 29 13 2
 1
 end_operator
 begin_operator
@@ -44344,8 +44344,8 @@ succumb hangover intoxication chicken neptune mars
 1
 2 2
 2
-0 29 13 2
 0 26 2 1
+0 29 13 2
 1
 end_operator
 begin_operator
@@ -44353,8 +44353,8 @@ succumb hangover intoxication chicken saturn neptune
 1
 2 2
 2
-0 29 13 2
 0 26 3 2
+0 29 13 2
 1
 end_operator
 begin_operator
@@ -44362,8 +44362,8 @@ succumb hangover intoxication chocolate earth saturn
 1
 2 3
 2
-0 29 13 3
 0 26 0 3
+0 29 13 3
 1
 end_operator
 begin_operator
@@ -44371,8 +44371,8 @@ succumb hangover intoxication chocolate neptune mars
 1
 2 3
 2
-0 29 13 3
 0 26 2 1
+0 29 13 3
 1
 end_operator
 begin_operator
@@ -44380,8 +44380,8 @@ succumb hangover intoxication chocolate saturn neptune
 1
 2 3
 2
-0 29 13 3
 0 26 3 2
+0 29 13 3
 1
 end_operator
 begin_operator
@@ -44389,8 +44389,8 @@ succumb hangover intoxication grapefruit earth saturn
 1
 2 4
 2
-0 29 13 4
 0 26 0 3
+0 29 13 4
 1
 end_operator
 begin_operator
@@ -44398,8 +44398,8 @@ succumb hangover intoxication grapefruit neptune mars
 1
 2 4
 2
-0 29 13 4
 0 26 2 1
+0 29 13 4
 1
 end_operator
 begin_operator
@@ -44407,8 +44407,8 @@ succumb hangover intoxication grapefruit saturn neptune
 1
 2 4
 2
-0 29 13 4
 0 26 3 2
+0 29 13 4
 1
 end_operator
 begin_operator
@@ -44416,8 +44416,8 @@ succumb hangover intoxication ham earth saturn
 1
 2 5
 2
-0 29 13 5
 0 26 0 3
+0 29 13 5
 1
 end_operator
 begin_operator
@@ -44425,8 +44425,8 @@ succumb hangover intoxication ham neptune mars
 1
 2 5
 2
-0 29 13 5
 0 26 2 1
+0 29 13 5
 1
 end_operator
 begin_operator
@@ -44434,8 +44434,8 @@ succumb hangover intoxication ham saturn neptune
 1
 2 5
 2
-0 29 13 5
 0 26 3 2
+0 29 13 5
 1
 end_operator
 begin_operator
@@ -44443,8 +44443,8 @@ succumb hangover intoxication haroset earth saturn
 1
 2 6
 2
-0 29 13 6
 0 26 0 3
+0 29 13 6
 1
 end_operator
 begin_operator
@@ -44452,8 +44452,8 @@ succumb hangover intoxication haroset neptune mars
 1
 2 6
 2
-0 29 13 6
 0 26 2 1
+0 29 13 6
 1
 end_operator
 begin_operator
@@ -44461,8 +44461,8 @@ succumb hangover intoxication haroset saturn neptune
 1
 2 6
 2
-0 29 13 6
 0 26 3 2
+0 29 13 6
 1
 end_operator
 begin_operator
@@ -44470,8 +44470,8 @@ succumb hangover intoxication lemon earth saturn
 1
 2 7
 2
-0 29 13 7
 0 26 0 3
+0 29 13 7
 1
 end_operator
 begin_operator
@@ -44479,8 +44479,8 @@ succumb hangover intoxication lemon neptune mars
 1
 2 7
 2
-0 29 13 7
 0 26 2 1
+0 29 13 7
 1
 end_operator
 begin_operator
@@ -44488,8 +44488,8 @@ succumb hangover intoxication lemon saturn neptune
 1
 2 7
 2
-0 29 13 7
 0 26 3 2
+0 29 13 7
 1
 end_operator
 begin_operator
@@ -44497,8 +44497,8 @@ succumb hangover intoxication muffin earth saturn
 1
 2 8
 2
-0 29 13 8
 0 26 0 3
+0 29 13 8
 1
 end_operator
 begin_operator
@@ -44506,8 +44506,8 @@ succumb hangover intoxication muffin neptune mars
 1
 2 8
 2
-0 29 13 8
 0 26 2 1
+0 29 13 8
 1
 end_operator
 begin_operator
@@ -44515,8 +44515,8 @@ succumb hangover intoxication muffin saturn neptune
 1
 2 8
 2
-0 29 13 8
 0 26 3 2
+0 29 13 8
 1
 end_operator
 begin_operator
@@ -44524,8 +44524,8 @@ succumb hangover intoxication pistachio earth saturn
 1
 2 9
 2
-0 29 13 9
 0 26 0 3
+0 29 13 9
 1
 end_operator
 begin_operator
@@ -44533,8 +44533,8 @@ succumb hangover intoxication pistachio neptune mars
 1
 2 9
 2
-0 29 13 9
 0 26 2 1
+0 29 13 9
 1
 end_operator
 begin_operator
@@ -44542,8 +44542,8 @@ succumb hangover intoxication pistachio saturn neptune
 1
 2 9
 2
-0 29 13 9
 0 26 3 2
+0 29 13 9
 1
 end_operator
 begin_operator
@@ -44551,8 +44551,8 @@ succumb hangover intoxication snickers earth saturn
 1
 2 10
 2
-0 29 13 10
 0 26 0 3
+0 29 13 10
 1
 end_operator
 begin_operator
@@ -44560,8 +44560,8 @@ succumb hangover intoxication snickers neptune mars
 1
 2 10
 2
-0 29 13 10
 0 26 2 1
+0 29 13 10
 1
 end_operator
 begin_operator
@@ -44569,8 +44569,8 @@ succumb hangover intoxication snickers saturn neptune
 1
 2 10
 2
-0 29 13 10
 0 26 3 2
+0 29 13 10
 1
 end_operator
 begin_operator
@@ -44578,8 +44578,8 @@ succumb hangover learning bacon earth saturn
 1
 3 0
 2
-0 29 14 0
 0 27 0 3
+0 29 14 0
 1
 end_operator
 begin_operator
@@ -44587,8 +44587,8 @@ succumb hangover learning bacon neptune mars
 1
 3 0
 2
-0 29 14 0
 0 27 2 1
+0 29 14 0
 1
 end_operator
 begin_operator
@@ -44596,8 +44596,8 @@ succumb hangover learning bacon saturn neptune
 1
 3 0
 2
-0 29 14 0
 0 27 3 2
+0 29 14 0
 1
 end_operator
 begin_operator
@@ -44605,8 +44605,8 @@ succumb hangover learning cantelope earth saturn
 1
 3 1
 2
-0 29 14 1
 0 27 0 3
+0 29 14 1
 1
 end_operator
 begin_operator
@@ -44614,8 +44614,8 @@ succumb hangover learning cantelope neptune mars
 1
 3 1
 2
-0 29 14 1
 0 27 2 1
+0 29 14 1
 1
 end_operator
 begin_operator
@@ -44623,8 +44623,8 @@ succumb hangover learning cantelope saturn neptune
 1
 3 1
 2
-0 29 14 1
 0 27 3 2
+0 29 14 1
 1
 end_operator
 begin_operator
@@ -44632,8 +44632,8 @@ succumb hangover learning chicken earth saturn
 1
 3 2
 2
-0 29 14 2
 0 27 0 3
+0 29 14 2
 1
 end_operator
 begin_operator
@@ -44641,8 +44641,8 @@ succumb hangover learning chicken neptune mars
 1
 3 2
 2
-0 29 14 2
 0 27 2 1
+0 29 14 2
 1
 end_operator
 begin_operator
@@ -44650,8 +44650,8 @@ succumb hangover learning chicken saturn neptune
 1
 3 2
 2
-0 29 14 2
 0 27 3 2
+0 29 14 2
 1
 end_operator
 begin_operator
@@ -44659,8 +44659,8 @@ succumb hangover learning chocolate earth saturn
 1
 3 3
 2
-0 29 14 3
 0 27 0 3
+0 29 14 3
 1
 end_operator
 begin_operator
@@ -44668,8 +44668,8 @@ succumb hangover learning chocolate neptune mars
 1
 3 3
 2
-0 29 14 3
 0 27 2 1
+0 29 14 3
 1
 end_operator
 begin_operator
@@ -44677,8 +44677,8 @@ succumb hangover learning chocolate saturn neptune
 1
 3 3
 2
-0 29 14 3
 0 27 3 2
+0 29 14 3
 1
 end_operator
 begin_operator
@@ -44686,8 +44686,8 @@ succumb hangover learning grapefruit earth saturn
 1
 3 4
 2
-0 29 14 4
 0 27 0 3
+0 29 14 4
 1
 end_operator
 begin_operator
@@ -44695,8 +44695,8 @@ succumb hangover learning grapefruit neptune mars
 1
 3 4
 2
-0 29 14 4
 0 27 2 1
+0 29 14 4
 1
 end_operator
 begin_operator
@@ -44704,8 +44704,8 @@ succumb hangover learning grapefruit saturn neptune
 1
 3 4
 2
-0 29 14 4
 0 27 3 2
+0 29 14 4
 1
 end_operator
 begin_operator
@@ -44713,8 +44713,8 @@ succumb hangover learning ham earth saturn
 1
 3 5
 2
-0 29 14 5
 0 27 0 3
+0 29 14 5
 1
 end_operator
 begin_operator
@@ -44722,8 +44722,8 @@ succumb hangover learning ham neptune mars
 1
 3 5
 2
-0 29 14 5
 0 27 2 1
+0 29 14 5
 1
 end_operator
 begin_operator
@@ -44731,8 +44731,8 @@ succumb hangover learning ham saturn neptune
 1
 3 5
 2
-0 29 14 5
 0 27 3 2
+0 29 14 5
 1
 end_operator
 begin_operator
@@ -44740,8 +44740,8 @@ succumb hangover learning haroset earth saturn
 1
 3 6
 2
-0 29 14 6
 0 27 0 3
+0 29 14 6
 1
 end_operator
 begin_operator
@@ -44749,8 +44749,8 @@ succumb hangover learning haroset neptune mars
 1
 3 6
 2
-0 29 14 6
 0 27 2 1
+0 29 14 6
 1
 end_operator
 begin_operator
@@ -44758,8 +44758,8 @@ succumb hangover learning haroset saturn neptune
 1
 3 6
 2
-0 29 14 6
 0 27 3 2
+0 29 14 6
 1
 end_operator
 begin_operator
@@ -44767,8 +44767,8 @@ succumb hangover learning lemon earth saturn
 1
 3 7
 2
-0 29 14 7
 0 27 0 3
+0 29 14 7
 1
 end_operator
 begin_operator
@@ -44776,8 +44776,8 @@ succumb hangover learning lemon neptune mars
 1
 3 7
 2
-0 29 14 7
 0 27 2 1
+0 29 14 7
 1
 end_operator
 begin_operator
@@ -44785,8 +44785,8 @@ succumb hangover learning lemon saturn neptune
 1
 3 7
 2
-0 29 14 7
 0 27 3 2
+0 29 14 7
 1
 end_operator
 begin_operator
@@ -44794,8 +44794,8 @@ succumb hangover learning muffin earth saturn
 1
 3 8
 2
-0 29 14 8
 0 27 0 3
+0 29 14 8
 1
 end_operator
 begin_operator
@@ -44803,8 +44803,8 @@ succumb hangover learning muffin neptune mars
 1
 3 8
 2
-0 29 14 8
 0 27 2 1
+0 29 14 8
 1
 end_operator
 begin_operator
@@ -44812,8 +44812,8 @@ succumb hangover learning muffin saturn neptune
 1
 3 8
 2
-0 29 14 8
 0 27 3 2
+0 29 14 8
 1
 end_operator
 begin_operator
@@ -44821,8 +44821,8 @@ succumb hangover learning pistachio earth saturn
 1
 3 9
 2
-0 29 14 9
 0 27 0 3
+0 29 14 9
 1
 end_operator
 begin_operator
@@ -44830,8 +44830,8 @@ succumb hangover learning pistachio neptune mars
 1
 3 9
 2
-0 29 14 9
 0 27 2 1
+0 29 14 9
 1
 end_operator
 begin_operator
@@ -44839,8 +44839,8 @@ succumb hangover learning pistachio saturn neptune
 1
 3 9
 2
-0 29 14 9
 0 27 3 2
+0 29 14 9
 1
 end_operator
 begin_operator
@@ -44848,8 +44848,8 @@ succumb hangover learning snickers earth saturn
 1
 3 10
 2
-0 29 14 10
 0 27 0 3
+0 29 14 10
 1
 end_operator
 begin_operator
@@ -44857,8 +44857,8 @@ succumb hangover learning snickers neptune mars
 1
 3 10
 2
-0 29 14 10
 0 27 2 1
+0 29 14 10
 1
 end_operator
 begin_operator
@@ -44866,8 +44866,8 @@ succumb hangover learning snickers saturn neptune
 1
 3 10
 2
-0 29 14 10
 0 27 3 2
+0 29 14 10
 1
 end_operator
 begin_operator
@@ -46063,8 +46063,8 @@ succumb loneliness aesthetics bacon earth saturn
 1
 0 0
 2
-0 32 11 0
 0 22 0 3
+0 32 11 0
 1
 end_operator
 begin_operator
@@ -46072,8 +46072,8 @@ succumb loneliness aesthetics bacon neptune mars
 1
 0 0
 2
-0 32 11 0
 0 22 2 1
+0 32 11 0
 1
 end_operator
 begin_operator
@@ -46081,8 +46081,8 @@ succumb loneliness aesthetics bacon saturn neptune
 1
 0 0
 2
-0 32 11 0
 0 22 3 2
+0 32 11 0
 1
 end_operator
 begin_operator
@@ -46090,8 +46090,8 @@ succumb loneliness aesthetics cantelope earth saturn
 1
 0 1
 2
-0 32 11 1
 0 22 0 3
+0 32 11 1
 1
 end_operator
 begin_operator
@@ -46099,8 +46099,8 @@ succumb loneliness aesthetics cantelope neptune mars
 1
 0 1
 2
-0 32 11 1
 0 22 2 1
+0 32 11 1
 1
 end_operator
 begin_operator
@@ -46108,8 +46108,8 @@ succumb loneliness aesthetics cantelope saturn neptune
 1
 0 1
 2
-0 32 11 1
 0 22 3 2
+0 32 11 1
 1
 end_operator
 begin_operator
@@ -46117,8 +46117,8 @@ succumb loneliness aesthetics chicken earth saturn
 1
 0 2
 2
-0 32 11 2
 0 22 0 3
+0 32 11 2
 1
 end_operator
 begin_operator
@@ -46126,8 +46126,8 @@ succumb loneliness aesthetics chicken neptune mars
 1
 0 2
 2
-0 32 11 2
 0 22 2 1
+0 32 11 2
 1
 end_operator
 begin_operator
@@ -46135,8 +46135,8 @@ succumb loneliness aesthetics chicken saturn neptune
 1
 0 2
 2
-0 32 11 2
 0 22 3 2
+0 32 11 2
 1
 end_operator
 begin_operator
@@ -46144,8 +46144,8 @@ succumb loneliness aesthetics chocolate earth saturn
 1
 0 3
 2
-0 32 11 3
 0 22 0 3
+0 32 11 3
 1
 end_operator
 begin_operator
@@ -46153,8 +46153,8 @@ succumb loneliness aesthetics chocolate neptune mars
 1
 0 3
 2
-0 32 11 3
 0 22 2 1
+0 32 11 3
 1
 end_operator
 begin_operator
@@ -46162,8 +46162,8 @@ succumb loneliness aesthetics chocolate saturn neptune
 1
 0 3
 2
-0 32 11 3
 0 22 3 2
+0 32 11 3
 1
 end_operator
 begin_operator
@@ -46171,8 +46171,8 @@ succumb loneliness aesthetics grapefruit earth saturn
 1
 0 4
 2
-0 32 11 4
 0 22 0 3
+0 32 11 4
 1
 end_operator
 begin_operator
@@ -46180,8 +46180,8 @@ succumb loneliness aesthetics grapefruit neptune mars
 1
 0 4
 2
-0 32 11 4
 0 22 2 1
+0 32 11 4
 1
 end_operator
 begin_operator
@@ -46189,8 +46189,8 @@ succumb loneliness aesthetics grapefruit saturn neptune
 1
 0 4
 2
-0 32 11 4
 0 22 3 2
+0 32 11 4
 1
 end_operator
 begin_operator
@@ -46198,8 +46198,8 @@ succumb loneliness aesthetics ham earth saturn
 1
 0 5
 2
-0 32 11 5
 0 22 0 3
+0 32 11 5
 1
 end_operator
 begin_operator
@@ -46207,8 +46207,8 @@ succumb loneliness aesthetics ham neptune mars
 1
 0 5
 2
-0 32 11 5
 0 22 2 1
+0 32 11 5
 1
 end_operator
 begin_operator
@@ -46216,8 +46216,8 @@ succumb loneliness aesthetics ham saturn neptune
 1
 0 5
 2
-0 32 11 5
 0 22 3 2
+0 32 11 5
 1
 end_operator
 begin_operator
@@ -46225,8 +46225,8 @@ succumb loneliness aesthetics haroset earth saturn
 1
 0 6
 2
-0 32 11 6
 0 22 0 3
+0 32 11 6
 1
 end_operator
 begin_operator
@@ -46234,8 +46234,8 @@ succumb loneliness aesthetics haroset neptune mars
 1
 0 6
 2
-0 32 11 6
 0 22 2 1
+0 32 11 6
 1
 end_operator
 begin_operator
@@ -46243,8 +46243,8 @@ succumb loneliness aesthetics haroset saturn neptune
 1
 0 6
 2
-0 32 11 6
 0 22 3 2
+0 32 11 6
 1
 end_operator
 begin_operator
@@ -46252,8 +46252,8 @@ succumb loneliness aesthetics lemon earth saturn
 1
 0 7
 2
-0 32 11 7
 0 22 0 3
+0 32 11 7
 1
 end_operator
 begin_operator
@@ -46261,8 +46261,8 @@ succumb loneliness aesthetics lemon neptune mars
 1
 0 7
 2
-0 32 11 7
 0 22 2 1
+0 32 11 7
 1
 end_operator
 begin_operator
@@ -46270,8 +46270,8 @@ succumb loneliness aesthetics lemon saturn neptune
 1
 0 7
 2
-0 32 11 7
 0 22 3 2
+0 32 11 7
 1
 end_operator
 begin_operator
@@ -46279,8 +46279,8 @@ succumb loneliness aesthetics muffin earth saturn
 1
 0 8
 2
-0 32 11 8
 0 22 0 3
+0 32 11 8
 1
 end_operator
 begin_operator
@@ -46288,8 +46288,8 @@ succumb loneliness aesthetics muffin neptune mars
 1
 0 8
 2
-0 32 11 8
 0 22 2 1
+0 32 11 8
 1
 end_operator
 begin_operator
@@ -46297,8 +46297,8 @@ succumb loneliness aesthetics muffin saturn neptune
 1
 0 8
 2
-0 32 11 8
 0 22 3 2
+0 32 11 8
 1
 end_operator
 begin_operator
@@ -46306,8 +46306,8 @@ succumb loneliness aesthetics pistachio earth saturn
 1
 0 9
 2
-0 32 11 9
 0 22 0 3
+0 32 11 9
 1
 end_operator
 begin_operator
@@ -46315,8 +46315,8 @@ succumb loneliness aesthetics pistachio neptune mars
 1
 0 9
 2
-0 32 11 9
 0 22 2 1
+0 32 11 9
 1
 end_operator
 begin_operator
@@ -46324,8 +46324,8 @@ succumb loneliness aesthetics pistachio saturn neptune
 1
 0 9
 2
-0 32 11 9
 0 22 3 2
+0 32 11 9
 1
 end_operator
 begin_operator
@@ -46333,8 +46333,8 @@ succumb loneliness aesthetics snickers earth saturn
 1
 0 10
 2
-0 32 11 10
 0 22 0 3
+0 32 11 10
 1
 end_operator
 begin_operator
@@ -46342,8 +46342,8 @@ succumb loneliness aesthetics snickers neptune mars
 1
 0 10
 2
-0 32 11 10
 0 22 2 1
+0 32 11 10
 1
 end_operator
 begin_operator
@@ -46351,8 +46351,8 @@ succumb loneliness aesthetics snickers saturn neptune
 1
 0 10
 2
-0 32 11 10
 0 22 3 2
+0 32 11 10
 1
 end_operator
 begin_operator
@@ -46360,8 +46360,8 @@ succumb loneliness expectation bacon earth saturn
 1
 1 0
 2
-0 32 12 0
 0 23 0 3
+0 32 12 0
 1
 end_operator
 begin_operator
@@ -46369,8 +46369,8 @@ succumb loneliness expectation bacon neptune mars
 1
 1 0
 2
-0 32 12 0
 0 23 2 1
+0 32 12 0
 1
 end_operator
 begin_operator
@@ -46378,8 +46378,8 @@ succumb loneliness expectation bacon saturn neptune
 1
 1 0
 2
-0 32 12 0
 0 23 3 2
+0 32 12 0
 1
 end_operator
 begin_operator
@@ -46387,8 +46387,8 @@ succumb loneliness expectation cantelope earth saturn
 1
 1 1
 2
-0 32 12 1
 0 23 0 3
+0 32 12 1
 1
 end_operator
 begin_operator
@@ -46396,8 +46396,8 @@ succumb loneliness expectation cantelope neptune mars
 1
 1 1
 2
-0 32 12 1
 0 23 2 1
+0 32 12 1
 1
 end_operator
 begin_operator
@@ -46405,8 +46405,8 @@ succumb loneliness expectation cantelope saturn neptune
 1
 1 1
 2
-0 32 12 1
 0 23 3 2
+0 32 12 1
 1
 end_operator
 begin_operator
@@ -46414,8 +46414,8 @@ succumb loneliness expectation chicken earth saturn
 1
 1 2
 2
-0 32 12 2
 0 23 0 3
+0 32 12 2
 1
 end_operator
 begin_operator
@@ -46423,8 +46423,8 @@ succumb loneliness expectation chicken neptune mars
 1
 1 2
 2
-0 32 12 2
 0 23 2 1
+0 32 12 2
 1
 end_operator
 begin_operator
@@ -46432,8 +46432,8 @@ succumb loneliness expectation chicken saturn neptune
 1
 1 2
 2
-0 32 12 2
 0 23 3 2
+0 32 12 2
 1
 end_operator
 begin_operator
@@ -46441,8 +46441,8 @@ succumb loneliness expectation chocolate earth saturn
 1
 1 3
 2
-0 32 12 3
 0 23 0 3
+0 32 12 3
 1
 end_operator
 begin_operator
@@ -46450,8 +46450,8 @@ succumb loneliness expectation chocolate neptune mars
 1
 1 3
 2
-0 32 12 3
 0 23 2 1
+0 32 12 3
 1
 end_operator
 begin_operator
@@ -46459,8 +46459,8 @@ succumb loneliness expectation chocolate saturn neptune
 1
 1 3
 2
-0 32 12 3
 0 23 3 2
+0 32 12 3
 1
 end_operator
 begin_operator
@@ -46468,8 +46468,8 @@ succumb loneliness expectation grapefruit earth saturn
 1
 1 4
 2
-0 32 12 4
 0 23 0 3
+0 32 12 4
 1
 end_operator
 begin_operator
@@ -46477,8 +46477,8 @@ succumb loneliness expectation grapefruit neptune mars
 1
 1 4
 2
-0 32 12 4
 0 23 2 1
+0 32 12 4
 1
 end_operator
 begin_operator
@@ -46486,8 +46486,8 @@ succumb loneliness expectation grapefruit saturn neptune
 1
 1 4
 2
-0 32 12 4
 0 23 3 2
+0 32 12 4
 1
 end_operator
 begin_operator
@@ -46495,8 +46495,8 @@ succumb loneliness expectation ham earth saturn
 1
 1 5
 2
-0 32 12 5
 0 23 0 3
+0 32 12 5
 1
 end_operator
 begin_operator
@@ -46504,8 +46504,8 @@ succumb loneliness expectation ham neptune mars
 1
 1 5
 2
-0 32 12 5
 0 23 2 1
+0 32 12 5
 1
 end_operator
 begin_operator
@@ -46513,8 +46513,8 @@ succumb loneliness expectation ham saturn neptune
 1
 1 5
 2
-0 32 12 5
 0 23 3 2
+0 32 12 5
 1
 end_operator
 begin_operator
@@ -46522,8 +46522,8 @@ succumb loneliness expectation haroset earth saturn
 1
 1 6
 2
-0 32 12 6
 0 23 0 3
+0 32 12 6
 1
 end_operator
 begin_operator
@@ -46531,8 +46531,8 @@ succumb loneliness expectation haroset neptune mars
 1
 1 6
 2
-0 32 12 6
 0 23 2 1
+0 32 12 6
 1
 end_operator
 begin_operator
@@ -46540,8 +46540,8 @@ succumb loneliness expectation haroset saturn neptune
 1
 1 6
 2
-0 32 12 6
 0 23 3 2
+0 32 12 6
 1
 end_operator
 begin_operator
@@ -46549,8 +46549,8 @@ succumb loneliness expectation lemon earth saturn
 1
 1 7
 2
-0 32 12 7
 0 23 0 3
+0 32 12 7
 1
 end_operator
 begin_operator
@@ -46558,8 +46558,8 @@ succumb loneliness expectation lemon neptune mars
 1
 1 7
 2
-0 32 12 7
 0 23 2 1
+0 32 12 7
 1
 end_operator
 begin_operator
@@ -46567,8 +46567,8 @@ succumb loneliness expectation lemon saturn neptune
 1
 1 7
 2
-0 32 12 7
 0 23 3 2
+0 32 12 7
 1
 end_operator
 begin_operator
@@ -46576,8 +46576,8 @@ succumb loneliness expectation muffin earth saturn
 1
 1 8
 2
-0 32 12 8
 0 23 0 3
+0 32 12 8
 1
 end_operator
 begin_operator
@@ -46585,8 +46585,8 @@ succumb loneliness expectation muffin neptune mars
 1
 1 8
 2
-0 32 12 8
 0 23 2 1
+0 32 12 8
 1
 end_operator
 begin_operator
@@ -46594,8 +46594,8 @@ succumb loneliness expectation muffin saturn neptune
 1
 1 8
 2
-0 32 12 8
 0 23 3 2
+0 32 12 8
 1
 end_operator
 begin_operator
@@ -46603,8 +46603,8 @@ succumb loneliness expectation pistachio earth saturn
 1
 1 9
 2
-0 32 12 9
 0 23 0 3
+0 32 12 9
 1
 end_operator
 begin_operator
@@ -46612,8 +46612,8 @@ succumb loneliness expectation pistachio neptune mars
 1
 1 9
 2
-0 32 12 9
 0 23 2 1
+0 32 12 9
 1
 end_operator
 begin_operator
@@ -46621,8 +46621,8 @@ succumb loneliness expectation pistachio saturn neptune
 1
 1 9
 2
-0 32 12 9
 0 23 3 2
+0 32 12 9
 1
 end_operator
 begin_operator
@@ -46630,8 +46630,8 @@ succumb loneliness expectation snickers earth saturn
 1
 1 10
 2
-0 32 12 10
 0 23 0 3
+0 32 12 10
 1
 end_operator
 begin_operator
@@ -46639,8 +46639,8 @@ succumb loneliness expectation snickers neptune mars
 1
 1 10
 2
-0 32 12 10
 0 23 2 1
+0 32 12 10
 1
 end_operator
 begin_operator
@@ -46648,8 +46648,8 @@ succumb loneliness expectation snickers saturn neptune
 1
 1 10
 2
-0 32 12 10
 0 23 3 2
+0 32 12 10
 1
 end_operator
 begin_operator
@@ -46657,8 +46657,8 @@ succumb loneliness intoxication bacon earth saturn
 1
 2 0
 2
-0 32 13 0
 0 26 0 3
+0 32 13 0
 1
 end_operator
 begin_operator
@@ -46666,8 +46666,8 @@ succumb loneliness intoxication bacon neptune mars
 1
 2 0
 2
-0 32 13 0
 0 26 2 1
+0 32 13 0
 1
 end_operator
 begin_operator
@@ -46675,8 +46675,8 @@ succumb loneliness intoxication bacon saturn neptune
 1
 2 0
 2
-0 32 13 0
 0 26 3 2
+0 32 13 0
 1
 end_operator
 begin_operator
@@ -46684,8 +46684,8 @@ succumb loneliness intoxication cantelope earth saturn
 1
 2 1
 2
-0 32 13 1
 0 26 0 3
+0 32 13 1
 1
 end_operator
 begin_operator
@@ -46693,8 +46693,8 @@ succumb loneliness intoxication cantelope neptune mars
 1
 2 1
 2
-0 32 13 1
 0 26 2 1
+0 32 13 1
 1
 end_operator
 begin_operator
@@ -46702,8 +46702,8 @@ succumb loneliness intoxication cantelope saturn neptune
 1
 2 1
 2
-0 32 13 1
 0 26 3 2
+0 32 13 1
 1
 end_operator
 begin_operator
@@ -46711,8 +46711,8 @@ succumb loneliness intoxication chicken earth saturn
 1
 2 2
 2
-0 32 13 2
 0 26 0 3
+0 32 13 2
 1
 end_operator
 begin_operator
@@ -46720,8 +46720,8 @@ succumb loneliness intoxication chicken neptune mars
 1
 2 2
 2
-0 32 13 2
 0 26 2 1
+0 32 13 2
 1
 end_operator
 begin_operator
@@ -46729,8 +46729,8 @@ succumb loneliness intoxication chicken saturn neptune
 1
 2 2
 2
-0 32 13 2
 0 26 3 2
+0 32 13 2
 1
 end_operator
 begin_operator
@@ -46738,8 +46738,8 @@ succumb loneliness intoxication chocolate earth saturn
 1
 2 3
 2
-0 32 13 3
 0 26 0 3
+0 32 13 3
 1
 end_operator
 begin_operator
@@ -46747,8 +46747,8 @@ succumb loneliness intoxication chocolate neptune mars
 1
 2 3
 2
-0 32 13 3
 0 26 2 1
+0 32 13 3
 1
 end_operator
 begin_operator
@@ -46756,8 +46756,8 @@ succumb loneliness intoxication chocolate saturn neptune
 1
 2 3
 2
-0 32 13 3
 0 26 3 2
+0 32 13 3
 1
 end_operator
 begin_operator
@@ -46765,8 +46765,8 @@ succumb loneliness intoxication grapefruit earth saturn
 1
 2 4
 2
-0 32 13 4
 0 26 0 3
+0 32 13 4
 1
 end_operator
 begin_operator
@@ -46774,8 +46774,8 @@ succumb loneliness intoxication grapefruit neptune mars
 1
 2 4
 2
-0 32 13 4
 0 26 2 1
+0 32 13 4
 1
 end_operator
 begin_operator
@@ -46783,8 +46783,8 @@ succumb loneliness intoxication grapefruit saturn neptune
 1
 2 4
 2
-0 32 13 4
 0 26 3 2
+0 32 13 4
 1
 end_operator
 begin_operator
@@ -46792,8 +46792,8 @@ succumb loneliness intoxication ham earth saturn
 1
 2 5
 2
-0 32 13 5
 0 26 0 3
+0 32 13 5
 1
 end_operator
 begin_operator
@@ -46801,8 +46801,8 @@ succumb loneliness intoxication ham neptune mars
 1
 2 5
 2
-0 32 13 5
 0 26 2 1
+0 32 13 5
 1
 end_operator
 begin_operator
@@ -46810,8 +46810,8 @@ succumb loneliness intoxication ham saturn neptune
 1
 2 5
 2
-0 32 13 5
 0 26 3 2
+0 32 13 5
 1
 end_operator
 begin_operator
@@ -46819,8 +46819,8 @@ succumb loneliness intoxication haroset earth saturn
 1
 2 6
 2
-0 32 13 6
 0 26 0 3
+0 32 13 6
 1
 end_operator
 begin_operator
@@ -46828,8 +46828,8 @@ succumb loneliness intoxication haroset neptune mars
 1
 2 6
 2
-0 32 13 6
 0 26 2 1
+0 32 13 6
 1
 end_operator
 begin_operator
@@ -46837,8 +46837,8 @@ succumb loneliness intoxication haroset saturn neptune
 1
 2 6
 2
-0 32 13 6
 0 26 3 2
+0 32 13 6
 1
 end_operator
 begin_operator
@@ -46846,8 +46846,8 @@ succumb loneliness intoxication lemon earth saturn
 1
 2 7
 2
-0 32 13 7
 0 26 0 3
+0 32 13 7
 1
 end_operator
 begin_operator
@@ -46855,8 +46855,8 @@ succumb loneliness intoxication lemon neptune mars
 1
 2 7
 2
-0 32 13 7
 0 26 2 1
+0 32 13 7
 1
 end_operator
 begin_operator
@@ -46864,8 +46864,8 @@ succumb loneliness intoxication lemon saturn neptune
 1
 2 7
 2
-0 32 13 7
 0 26 3 2
+0 32 13 7
 1
 end_operator
 begin_operator
@@ -46873,8 +46873,8 @@ succumb loneliness intoxication muffin earth saturn
 1
 2 8
 2
-0 32 13 8
 0 26 0 3
+0 32 13 8
 1
 end_operator
 begin_operator
@@ -46882,8 +46882,8 @@ succumb loneliness intoxication muffin neptune mars
 1
 2 8
 2
-0 32 13 8
 0 26 2 1
+0 32 13 8
 1
 end_operator
 begin_operator
@@ -46891,8 +46891,8 @@ succumb loneliness intoxication muffin saturn neptune
 1
 2 8
 2
-0 32 13 8
 0 26 3 2
+0 32 13 8
 1
 end_operator
 begin_operator
@@ -46900,8 +46900,8 @@ succumb loneliness intoxication pistachio earth saturn
 1
 2 9
 2
-0 32 13 9
 0 26 0 3
+0 32 13 9
 1
 end_operator
 begin_operator
@@ -46909,8 +46909,8 @@ succumb loneliness intoxication pistachio neptune mars
 1
 2 9
 2
-0 32 13 9
 0 26 2 1
+0 32 13 9
 1
 end_operator
 begin_operator
@@ -46918,8 +46918,8 @@ succumb loneliness intoxication pistachio saturn neptune
 1
 2 9
 2
-0 32 13 9
 0 26 3 2
+0 32 13 9
 1
 end_operator
 begin_operator
@@ -46927,8 +46927,8 @@ succumb loneliness intoxication snickers earth saturn
 1
 2 10
 2
-0 32 13 10
 0 26 0 3
+0 32 13 10
 1
 end_operator
 begin_operator
@@ -46936,8 +46936,8 @@ succumb loneliness intoxication snickers neptune mars
 1
 2 10
 2
-0 32 13 10
 0 26 2 1
+0 32 13 10
 1
 end_operator
 begin_operator
@@ -46945,8 +46945,8 @@ succumb loneliness intoxication snickers saturn neptune
 1
 2 10
 2
-0 32 13 10
 0 26 3 2
+0 32 13 10
 1
 end_operator
 begin_operator
@@ -46954,8 +46954,8 @@ succumb loneliness learning bacon earth saturn
 1
 3 0
 2
-0 32 14 0
 0 27 0 3
+0 32 14 0
 1
 end_operator
 begin_operator
@@ -46963,8 +46963,8 @@ succumb loneliness learning bacon neptune mars
 1
 3 0
 2
-0 32 14 0
 0 27 2 1
+0 32 14 0
 1
 end_operator
 begin_operator
@@ -46972,8 +46972,8 @@ succumb loneliness learning bacon saturn neptune
 1
 3 0
 2
-0 32 14 0
 0 27 3 2
+0 32 14 0
 1
 end_operator
 begin_operator
@@ -46981,8 +46981,8 @@ succumb loneliness learning cantelope earth saturn
 1
 3 1
 2
-0 32 14 1
 0 27 0 3
+0 32 14 1
 1
 end_operator
 begin_operator
@@ -46990,8 +46990,8 @@ succumb loneliness learning cantelope neptune mars
 1
 3 1
 2
-0 32 14 1
 0 27 2 1
+0 32 14 1
 1
 end_operator
 begin_operator
@@ -46999,8 +46999,8 @@ succumb loneliness learning cantelope saturn neptune
 1
 3 1
 2
-0 32 14 1
 0 27 3 2
+0 32 14 1
 1
 end_operator
 begin_operator
@@ -47008,8 +47008,8 @@ succumb loneliness learning chicken earth saturn
 1
 3 2
 2
-0 32 14 2
 0 27 0 3
+0 32 14 2
 1
 end_operator
 begin_operator
@@ -47017,8 +47017,8 @@ succumb loneliness learning chicken neptune mars
 1
 3 2
 2
-0 32 14 2
 0 27 2 1
+0 32 14 2
 1
 end_operator
 begin_operator
@@ -47026,8 +47026,8 @@ succumb loneliness learning chicken saturn neptune
 1
 3 2
 2
-0 32 14 2
 0 27 3 2
+0 32 14 2
 1
 end_operator
 begin_operator
@@ -47035,8 +47035,8 @@ succumb loneliness learning chocolate earth saturn
 1
 3 3
 2
-0 32 14 3
 0 27 0 3
+0 32 14 3
 1
 end_operator
 begin_operator
@@ -47044,8 +47044,8 @@ succumb loneliness learning chocolate neptune mars
 1
 3 3
 2
-0 32 14 3
 0 27 2 1
+0 32 14 3
 1
 end_operator
 begin_operator
@@ -47053,8 +47053,8 @@ succumb loneliness learning chocolate saturn neptune
 1
 3 3
 2
-0 32 14 3
 0 27 3 2
+0 32 14 3
 1
 end_operator
 begin_operator
@@ -47062,8 +47062,8 @@ succumb loneliness learning grapefruit earth saturn
 1
 3 4
 2
-0 32 14 4
 0 27 0 3
+0 32 14 4
 1
 end_operator
 begin_operator
@@ -47071,8 +47071,8 @@ succumb loneliness learning grapefruit neptune mars
 1
 3 4
 2
-0 32 14 4
 0 27 2 1
+0 32 14 4
 1
 end_operator
 begin_operator
@@ -47080,8 +47080,8 @@ succumb loneliness learning grapefruit saturn neptune
 1
 3 4
 2
-0 32 14 4
 0 27 3 2
+0 32 14 4
 1
 end_operator
 begin_operator
@@ -47089,8 +47089,8 @@ succumb loneliness learning ham earth saturn
 1
 3 5
 2
-0 32 14 5
 0 27 0 3
+0 32 14 5
 1
 end_operator
 begin_operator
@@ -47098,8 +47098,8 @@ succumb loneliness learning ham neptune mars
 1
 3 5
 2
-0 32 14 5
 0 27 2 1
+0 32 14 5
 1
 end_operator
 begin_operator
@@ -47107,8 +47107,8 @@ succumb loneliness learning ham saturn neptune
 1
 3 5
 2
-0 32 14 5
 0 27 3 2
+0 32 14 5
 1
 end_operator
 begin_operator
@@ -47116,8 +47116,8 @@ succumb loneliness learning haroset earth saturn
 1
 3 6
 2
-0 32 14 6
 0 27 0 3
+0 32 14 6
 1
 end_operator
 begin_operator
@@ -47125,8 +47125,8 @@ succumb loneliness learning haroset neptune mars
 1
 3 6
 2
-0 32 14 6
 0 27 2 1
+0 32 14 6
 1
 end_operator
 begin_operator
@@ -47134,8 +47134,8 @@ succumb loneliness learning haroset saturn neptune
 1
 3 6
 2
-0 32 14 6
 0 27 3 2
+0 32 14 6
 1
 end_operator
 begin_operator
@@ -47143,8 +47143,8 @@ succumb loneliness learning lemon earth saturn
 1
 3 7
 2
-0 32 14 7
 0 27 0 3
+0 32 14 7
 1
 end_operator
 begin_operator
@@ -47152,8 +47152,8 @@ succumb loneliness learning lemon neptune mars
 1
 3 7
 2
-0 32 14 7
 0 27 2 1
+0 32 14 7
 1
 end_operator
 begin_operator
@@ -47161,8 +47161,8 @@ succumb loneliness learning lemon saturn neptune
 1
 3 7
 2
-0 32 14 7
 0 27 3 2
+0 32 14 7
 1
 end_operator
 begin_operator
@@ -47170,8 +47170,8 @@ succumb loneliness learning muffin earth saturn
 1
 3 8
 2
-0 32 14 8
 0 27 0 3
+0 32 14 8
 1
 end_operator
 begin_operator
@@ -47179,8 +47179,8 @@ succumb loneliness learning muffin neptune mars
 1
 3 8
 2
-0 32 14 8
 0 27 2 1
+0 32 14 8
 1
 end_operator
 begin_operator
@@ -47188,8 +47188,8 @@ succumb loneliness learning muffin saturn neptune
 1
 3 8
 2
-0 32 14 8
 0 27 3 2
+0 32 14 8
 1
 end_operator
 begin_operator
@@ -47197,8 +47197,8 @@ succumb loneliness learning pistachio earth saturn
 1
 3 9
 2
-0 32 14 9
 0 27 0 3
+0 32 14 9
 1
 end_operator
 begin_operator
@@ -47206,8 +47206,8 @@ succumb loneliness learning pistachio neptune mars
 1
 3 9
 2
-0 32 14 9
 0 27 2 1
+0 32 14 9
 1
 end_operator
 begin_operator
@@ -47215,8 +47215,8 @@ succumb loneliness learning pistachio saturn neptune
 1
 3 9
 2
-0 32 14 9
 0 27 3 2
+0 32 14 9
 1
 end_operator
 begin_operator
@@ -47224,8 +47224,8 @@ succumb loneliness learning snickers earth saturn
 1
 3 10
 2
-0 32 14 10
 0 27 0 3
+0 32 14 10
 1
 end_operator
 begin_operator
@@ -47233,8 +47233,8 @@ succumb loneliness learning snickers neptune mars
 1
 3 10
 2
-0 32 14 10
 0 27 2 1
+0 32 14 10
 1
 end_operator
 begin_operator
@@ -47242,8 +47242,8 @@ succumb loneliness learning snickers saturn neptune
 1
 3 10
 2
-0 32 14 10
 0 27 3 2
+0 32 14 10
 1
 end_operator
 begin_operator
@@ -47251,8 +47251,8 @@ succumb loneliness love bacon earth saturn
 1
 4 0
 2
-0 32 15 0
 0 30 0 3
+0 32 15 0
 1
 end_operator
 begin_operator
@@ -47260,8 +47260,8 @@ succumb loneliness love bacon neptune mars
 1
 4 0
 2
-0 32 15 0
 0 30 2 1
+0 32 15 0
 1
 end_operator
 begin_operator
@@ -47269,8 +47269,8 @@ succumb loneliness love bacon saturn neptune
 1
 4 0
 2
-0 32 15 0
 0 30 3 2
+0 32 15 0
 1
 end_operator
 begin_operator
@@ -47278,8 +47278,8 @@ succumb loneliness love cantelope earth saturn
 1
 4 1
 2
-0 32 15 1
 0 30 0 3
+0 32 15 1
 1
 end_operator
 begin_operator
@@ -47287,8 +47287,8 @@ succumb loneliness love cantelope neptune mars
 1
 4 1
 2
-0 32 15 1
 0 30 2 1
+0 32 15 1
 1
 end_operator
 begin_operator
@@ -47296,8 +47296,8 @@ succumb loneliness love cantelope saturn neptune
 1
 4 1
 2
-0 32 15 1
 0 30 3 2
+0 32 15 1
 1
 end_operator
 begin_operator
@@ -47305,8 +47305,8 @@ succumb loneliness love chicken earth saturn
 1
 4 2
 2
-0 32 15 2
 0 30 0 3
+0 32 15 2
 1
 end_operator
 begin_operator
@@ -47314,8 +47314,8 @@ succumb loneliness love chicken neptune mars
 1
 4 2
 2
-0 32 15 2
 0 30 2 1
+0 32 15 2
 1
 end_operator
 begin_operator
@@ -47323,8 +47323,8 @@ succumb loneliness love chicken saturn neptune
 1
 4 2
 2
-0 32 15 2
 0 30 3 2
+0 32 15 2
 1
 end_operator
 begin_operator
@@ -47332,8 +47332,8 @@ succumb loneliness love chocolate earth saturn
 1
 4 3
 2
-0 32 15 3
 0 30 0 3
+0 32 15 3
 1
 end_operator
 begin_operator
@@ -47341,8 +47341,8 @@ succumb loneliness love chocolate neptune mars
 1
 4 3
 2
-0 32 15 3
 0 30 2 1
+0 32 15 3
 1
 end_operator
 begin_operator
@@ -47350,8 +47350,8 @@ succumb loneliness love chocolate saturn neptune
 1
 4 3
 2
-0 32 15 3
 0 30 3 2
+0 32 15 3
 1
 end_operator
 begin_operator
@@ -47359,8 +47359,8 @@ succumb loneliness love grapefruit earth saturn
 1
 4 4
 2
-0 32 15 4
 0 30 0 3
+0 32 15 4
 1
 end_operator
 begin_operator
@@ -47368,8 +47368,8 @@ succumb loneliness love grapefruit neptune mars
 1
 4 4
 2
-0 32 15 4
 0 30 2 1
+0 32 15 4
 1
 end_operator
 begin_operator
@@ -47377,8 +47377,8 @@ succumb loneliness love grapefruit saturn neptune
 1
 4 4
 2
-0 32 15 4
 0 30 3 2
+0 32 15 4
 1
 end_operator
 begin_operator
@@ -47386,8 +47386,8 @@ succumb loneliness love ham earth saturn
 1
 4 5
 2
-0 32 15 5
 0 30 0 3
+0 32 15 5
 1
 end_operator
 begin_operator
@@ -47395,8 +47395,8 @@ succumb loneliness love ham neptune mars
 1
 4 5
 2
-0 32 15 5
 0 30 2 1
+0 32 15 5
 1
 end_operator
 begin_operator
@@ -47404,8 +47404,8 @@ succumb loneliness love ham saturn neptune
 1
 4 5
 2
-0 32 15 5
 0 30 3 2
+0 32 15 5
 1
 end_operator
 begin_operator
@@ -47413,8 +47413,8 @@ succumb loneliness love haroset earth saturn
 1
 4 6
 2
-0 32 15 6
 0 30 0 3
+0 32 15 6
 1
 end_operator
 begin_operator
@@ -47422,8 +47422,8 @@ succumb loneliness love haroset neptune mars
 1
 4 6
 2
-0 32 15 6
 0 30 2 1
+0 32 15 6
 1
 end_operator
 begin_operator
@@ -47431,8 +47431,8 @@ succumb loneliness love haroset saturn neptune
 1
 4 6
 2
-0 32 15 6
 0 30 3 2
+0 32 15 6
 1
 end_operator
 begin_operator
@@ -47440,8 +47440,8 @@ succumb loneliness love lemon earth saturn
 1
 4 7
 2
-0 32 15 7
 0 30 0 3
+0 32 15 7
 1
 end_operator
 begin_operator
@@ -47449,8 +47449,8 @@ succumb loneliness love lemon neptune mars
 1
 4 7
 2
-0 32 15 7
 0 30 2 1
+0 32 15 7
 1
 end_operator
 begin_operator
@@ -47458,8 +47458,8 @@ succumb loneliness love lemon saturn neptune
 1
 4 7
 2
-0 32 15 7
 0 30 3 2
+0 32 15 7
 1
 end_operator
 begin_operator
@@ -47467,8 +47467,8 @@ succumb loneliness love muffin earth saturn
 1
 4 8
 2
-0 32 15 8
 0 30 0 3
+0 32 15 8
 1
 end_operator
 begin_operator
@@ -47476,8 +47476,8 @@ succumb loneliness love muffin neptune mars
 1
 4 8
 2
-0 32 15 8
 0 30 2 1
+0 32 15 8
 1
 end_operator
 begin_operator
@@ -47485,8 +47485,8 @@ succumb loneliness love muffin saturn neptune
 1
 4 8
 2
-0 32 15 8
 0 30 3 2
+0 32 15 8
 1
 end_operator
 begin_operator
@@ -47494,8 +47494,8 @@ succumb loneliness love pistachio earth saturn
 1
 4 9
 2
-0 32 15 9
 0 30 0 3
+0 32 15 9
 1
 end_operator
 begin_operator
@@ -47503,8 +47503,8 @@ succumb loneliness love pistachio neptune mars
 1
 4 9
 2
-0 32 15 9
 0 30 2 1
+0 32 15 9
 1
 end_operator
 begin_operator
@@ -47512,8 +47512,8 @@ succumb loneliness love pistachio saturn neptune
 1
 4 9
 2
-0 32 15 9
 0 30 3 2
+0 32 15 9
 1
 end_operator
 begin_operator
@@ -47521,8 +47521,8 @@ succumb loneliness love snickers earth saturn
 1
 4 10
 2
-0 32 15 10
 0 30 0 3
+0 32 15 10
 1
 end_operator
 begin_operator
@@ -47530,8 +47530,8 @@ succumb loneliness love snickers neptune mars
 1
 4 10
 2
-0 32 15 10
 0 30 2 1
+0 32 15 10
 1
 end_operator
 begin_operator
@@ -47539,8 +47539,8 @@ succumb loneliness love snickers saturn neptune
 1
 4 10
 2
-0 32 15 10
 0 30 3 2
+0 32 15 10
 1
 end_operator
 begin_operator
@@ -47548,8 +47548,8 @@ succumb loneliness rest bacon earth saturn
 1
 5 0
 2
-0 32 16 0
 0 31 0 3
+0 32 16 0
 1
 end_operator
 begin_operator
@@ -47557,8 +47557,8 @@ succumb loneliness rest bacon neptune mars
 1
 5 0
 2
-0 32 16 0
 0 31 2 1
+0 32 16 0
 1
 end_operator
 begin_operator
@@ -47566,8 +47566,8 @@ succumb loneliness rest bacon saturn neptune
 1
 5 0
 2
-0 32 16 0
 0 31 3 2
+0 32 16 0
 1
 end_operator
 begin_operator
@@ -47575,8 +47575,8 @@ succumb loneliness rest cantelope earth saturn
 1
 5 1
 2
-0 32 16 1
 0 31 0 3
+0 32 16 1
 1
 end_operator
 begin_operator
@@ -47584,8 +47584,8 @@ succumb loneliness rest cantelope neptune mars
 1
 5 1
 2
-0 32 16 1
 0 31 2 1
+0 32 16 1
 1
 end_operator
 begin_operator
@@ -47593,8 +47593,8 @@ succumb loneliness rest cantelope saturn neptune
 1
 5 1
 2
-0 32 16 1
 0 31 3 2
+0 32 16 1
 1
 end_operator
 begin_operator
@@ -47602,8 +47602,8 @@ succumb loneliness rest chicken earth saturn
 1
 5 2
 2
-0 32 16 2
 0 31 0 3
+0 32 16 2
 1
 end_operator
 begin_operator
@@ -47611,8 +47611,8 @@ succumb loneliness rest chicken neptune mars
 1
 5 2
 2
-0 32 16 2
 0 31 2 1
+0 32 16 2
 1
 end_operator
 begin_operator
@@ -47620,8 +47620,8 @@ succumb loneliness rest chicken saturn neptune
 1
 5 2
 2
-0 32 16 2
 0 31 3 2
+0 32 16 2
 1
 end_operator
 begin_operator
@@ -47629,8 +47629,8 @@ succumb loneliness rest chocolate earth saturn
 1
 5 3
 2
-0 32 16 3
 0 31 0 3
+0 32 16 3
 1
 end_operator
 begin_operator
@@ -47638,8 +47638,8 @@ succumb loneliness rest chocolate neptune mars
 1
 5 3
 2
-0 32 16 3
 0 31 2 1
+0 32 16 3
 1
 end_operator
 begin_operator
@@ -47647,8 +47647,8 @@ succumb loneliness rest chocolate saturn neptune
 1
 5 3
 2
-0 32 16 3
 0 31 3 2
+0 32 16 3
 1
 end_operator
 begin_operator
@@ -47656,8 +47656,8 @@ succumb loneliness rest grapefruit earth saturn
 1
 5 4
 2
-0 32 16 4
 0 31 0 3
+0 32 16 4
 1
 end_operator
 begin_operator
@@ -47665,8 +47665,8 @@ succumb loneliness rest grapefruit neptune mars
 1
 5 4
 2
-0 32 16 4
 0 31 2 1
+0 32 16 4
 1
 end_operator
 begin_operator
@@ -47674,8 +47674,8 @@ succumb loneliness rest grapefruit saturn neptune
 1
 5 4
 2
-0 32 16 4
 0 31 3 2
+0 32 16 4
 1
 end_operator
 begin_operator
@@ -47683,8 +47683,8 @@ succumb loneliness rest ham earth saturn
 1
 5 5
 2
-0 32 16 5
 0 31 0 3
+0 32 16 5
 1
 end_operator
 begin_operator
@@ -47692,8 +47692,8 @@ succumb loneliness rest ham neptune mars
 1
 5 5
 2
-0 32 16 5
 0 31 2 1
+0 32 16 5
 1
 end_operator
 begin_operator
@@ -47701,8 +47701,8 @@ succumb loneliness rest ham saturn neptune
 1
 5 5
 2
-0 32 16 5
 0 31 3 2
+0 32 16 5
 1
 end_operator
 begin_operator
@@ -47710,8 +47710,8 @@ succumb loneliness rest haroset earth saturn
 1
 5 6
 2
-0 32 16 6
 0 31 0 3
+0 32 16 6
 1
 end_operator
 begin_operator
@@ -47719,8 +47719,8 @@ succumb loneliness rest haroset neptune mars
 1
 5 6
 2
-0 32 16 6
 0 31 2 1
+0 32 16 6
 1
 end_operator
 begin_operator
@@ -47728,8 +47728,8 @@ succumb loneliness rest haroset saturn neptune
 1
 5 6
 2
-0 32 16 6
 0 31 3 2
+0 32 16 6
 1
 end_operator
 begin_operator
@@ -47737,8 +47737,8 @@ succumb loneliness rest lemon earth saturn
 1
 5 7
 2
-0 32 16 7
 0 31 0 3
+0 32 16 7
 1
 end_operator
 begin_operator
@@ -47746,8 +47746,8 @@ succumb loneliness rest lemon neptune mars
 1
 5 7
 2
-0 32 16 7
 0 31 2 1
+0 32 16 7
 1
 end_operator
 begin_operator
@@ -47755,8 +47755,8 @@ succumb loneliness rest lemon saturn neptune
 1
 5 7
 2
-0 32 16 7
 0 31 3 2
+0 32 16 7
 1
 end_operator
 begin_operator
@@ -47764,8 +47764,8 @@ succumb loneliness rest muffin earth saturn
 1
 5 8
 2
-0 32 16 8
 0 31 0 3
+0 32 16 8
 1
 end_operator
 begin_operator
@@ -47773,8 +47773,8 @@ succumb loneliness rest muffin neptune mars
 1
 5 8
 2
-0 32 16 8
 0 31 2 1
+0 32 16 8
 1
 end_operator
 begin_operator
@@ -47782,8 +47782,8 @@ succumb loneliness rest muffin saturn neptune
 1
 5 8
 2
-0 32 16 8
 0 31 3 2
+0 32 16 8
 1
 end_operator
 begin_operator
@@ -47791,8 +47791,8 @@ succumb loneliness rest pistachio earth saturn
 1
 5 9
 2
-0 32 16 9
 0 31 0 3
+0 32 16 9
 1
 end_operator
 begin_operator
@@ -47800,8 +47800,8 @@ succumb loneliness rest pistachio neptune mars
 1
 5 9
 2
-0 32 16 9
 0 31 2 1
+0 32 16 9
 1
 end_operator
 begin_operator
@@ -47809,8 +47809,8 @@ succumb loneliness rest pistachio saturn neptune
 1
 5 9
 2
-0 32 16 9
 0 31 3 2
+0 32 16 9
 1
 end_operator
 begin_operator
@@ -47818,8 +47818,8 @@ succumb loneliness rest snickers earth saturn
 1
 5 10
 2
-0 32 16 10
 0 31 0 3
+0 32 16 10
 1
 end_operator
 begin_operator
@@ -47827,8 +47827,8 @@ succumb loneliness rest snickers neptune mars
 1
 5 10
 2
-0 32 16 10
 0 31 2 1
+0 32 16 10
 1
 end_operator
 begin_operator
@@ -47836,8 +47836,8 @@ succumb loneliness rest snickers saturn neptune
 1
 5 10
 2
-0 32 16 10
 0 31 3 2
+0 32 16 10
 1
 end_operator
 begin_operator
@@ -48439,8 +48439,8 @@ succumb prostatitis aesthetics bacon earth saturn
 1
 0 0
 2
-0 36 11 0
 0 22 0 3
+0 36 11 0
 1
 end_operator
 begin_operator
@@ -48448,8 +48448,8 @@ succumb prostatitis aesthetics bacon neptune mars
 1
 0 0
 2
-0 36 11 0
 0 22 2 1
+0 36 11 0
 1
 end_operator
 begin_operator
@@ -48457,8 +48457,8 @@ succumb prostatitis aesthetics bacon saturn neptune
 1
 0 0
 2
-0 36 11 0
 0 22 3 2
+0 36 11 0
 1
 end_operator
 begin_operator
@@ -48466,8 +48466,8 @@ succumb prostatitis aesthetics cantelope earth saturn
 1
 0 1
 2
-0 36 11 1
 0 22 0 3
+0 36 11 1
 1
 end_operator
 begin_operator
@@ -48475,8 +48475,8 @@ succumb prostatitis aesthetics cantelope neptune mars
 1
 0 1
 2
-0 36 11 1
 0 22 2 1
+0 36 11 1
 1
 end_operator
 begin_operator
@@ -48484,8 +48484,8 @@ succumb prostatitis aesthetics cantelope saturn neptune
 1
 0 1
 2
-0 36 11 1
 0 22 3 2
+0 36 11 1
 1
 end_operator
 begin_operator
@@ -48493,8 +48493,8 @@ succumb prostatitis aesthetics chicken earth saturn
 1
 0 2
 2
-0 36 11 2
 0 22 0 3
+0 36 11 2
 1
 end_operator
 begin_operator
@@ -48502,8 +48502,8 @@ succumb prostatitis aesthetics chicken neptune mars
 1
 0 2
 2
-0 36 11 2
 0 22 2 1
+0 36 11 2
 1
 end_operator
 begin_operator
@@ -48511,8 +48511,8 @@ succumb prostatitis aesthetics chicken saturn neptune
 1
 0 2
 2
-0 36 11 2
 0 22 3 2
+0 36 11 2
 1
 end_operator
 begin_operator
@@ -48520,8 +48520,8 @@ succumb prostatitis aesthetics chocolate earth saturn
 1
 0 3
 2
-0 36 11 3
 0 22 0 3
+0 36 11 3
 1
 end_operator
 begin_operator
@@ -48529,8 +48529,8 @@ succumb prostatitis aesthetics chocolate neptune mars
 1
 0 3
 2
-0 36 11 3
 0 22 2 1
+0 36 11 3
 1
 end_operator
 begin_operator
@@ -48538,8 +48538,8 @@ succumb prostatitis aesthetics chocolate saturn neptune
 1
 0 3
 2
-0 36 11 3
 0 22 3 2
+0 36 11 3
 1
 end_operator
 begin_operator
@@ -48547,8 +48547,8 @@ succumb prostatitis aesthetics grapefruit earth saturn
 1
 0 4
 2
-0 36 11 4
 0 22 0 3
+0 36 11 4
 1
 end_operator
 begin_operator
@@ -48556,8 +48556,8 @@ succumb prostatitis aesthetics grapefruit neptune mars
 1
 0 4
 2
-0 36 11 4
 0 22 2 1
+0 36 11 4
 1
 end_operator
 begin_operator
@@ -48565,8 +48565,8 @@ succumb prostatitis aesthetics grapefruit saturn neptune
 1
 0 4
 2
-0 36 11 4
 0 22 3 2
+0 36 11 4
 1
 end_operator
 begin_operator
@@ -48574,8 +48574,8 @@ succumb prostatitis aesthetics ham earth saturn
 1
 0 5
 2
-0 36 11 5
 0 22 0 3
+0 36 11 5
 1
 end_operator
 begin_operator
@@ -48583,8 +48583,8 @@ succumb prostatitis aesthetics ham neptune mars
 1
 0 5
 2
-0 36 11 5
 0 22 2 1
+0 36 11 5
 1
 end_operator
 begin_operator
@@ -48592,8 +48592,8 @@ succumb prostatitis aesthetics ham saturn neptune
 1
 0 5
 2
-0 36 11 5
 0 22 3 2
+0 36 11 5
 1
 end_operator
 begin_operator
@@ -48601,8 +48601,8 @@ succumb prostatitis aesthetics haroset earth saturn
 1
 0 6
 2
-0 36 11 6
 0 22 0 3
+0 36 11 6
 1
 end_operator
 begin_operator
@@ -48610,8 +48610,8 @@ succumb prostatitis aesthetics haroset neptune mars
 1
 0 6
 2
-0 36 11 6
 0 22 2 1
+0 36 11 6
 1
 end_operator
 begin_operator
@@ -48619,8 +48619,8 @@ succumb prostatitis aesthetics haroset saturn neptune
 1
 0 6
 2
-0 36 11 6
 0 22 3 2
+0 36 11 6
 1
 end_operator
 begin_operator
@@ -48628,8 +48628,8 @@ succumb prostatitis aesthetics lemon earth saturn
 1
 0 7
 2
-0 36 11 7
 0 22 0 3
+0 36 11 7
 1
 end_operator
 begin_operator
@@ -48637,8 +48637,8 @@ succumb prostatitis aesthetics lemon neptune mars
 1
 0 7
 2
-0 36 11 7
 0 22 2 1
+0 36 11 7
 1
 end_operator
 begin_operator
@@ -48646,8 +48646,8 @@ succumb prostatitis aesthetics lemon saturn neptune
 1
 0 7
 2
-0 36 11 7
 0 22 3 2
+0 36 11 7
 1
 end_operator
 begin_operator
@@ -48655,8 +48655,8 @@ succumb prostatitis aesthetics muffin earth saturn
 1
 0 8
 2
-0 36 11 8
 0 22 0 3
+0 36 11 8
 1
 end_operator
 begin_operator
@@ -48664,8 +48664,8 @@ succumb prostatitis aesthetics muffin neptune mars
 1
 0 8
 2
-0 36 11 8
 0 22 2 1
+0 36 11 8
 1
 end_operator
 begin_operator
@@ -48673,8 +48673,8 @@ succumb prostatitis aesthetics muffin saturn neptune
 1
 0 8
 2
-0 36 11 8
 0 22 3 2
+0 36 11 8
 1
 end_operator
 begin_operator
@@ -48682,8 +48682,8 @@ succumb prostatitis aesthetics pistachio earth saturn
 1
 0 9
 2
-0 36 11 9
 0 22 0 3
+0 36 11 9
 1
 end_operator
 begin_operator
@@ -48691,8 +48691,8 @@ succumb prostatitis aesthetics pistachio neptune mars
 1
 0 9
 2
-0 36 11 9
 0 22 2 1
+0 36 11 9
 1
 end_operator
 begin_operator
@@ -48700,8 +48700,8 @@ succumb prostatitis aesthetics pistachio saturn neptune
 1
 0 9
 2
-0 36 11 9
 0 22 3 2
+0 36 11 9
 1
 end_operator
 begin_operator
@@ -48709,8 +48709,8 @@ succumb prostatitis aesthetics snickers earth saturn
 1
 0 10
 2
-0 36 11 10
 0 22 0 3
+0 36 11 10
 1
 end_operator
 begin_operator
@@ -48718,8 +48718,8 @@ succumb prostatitis aesthetics snickers neptune mars
 1
 0 10
 2
-0 36 11 10
 0 22 2 1
+0 36 11 10
 1
 end_operator
 begin_operator
@@ -48727,8 +48727,8 @@ succumb prostatitis aesthetics snickers saturn neptune
 1
 0 10
 2
-0 36 11 10
 0 22 3 2
+0 36 11 10
 1
 end_operator
 begin_operator
@@ -48736,8 +48736,8 @@ succumb prostatitis expectation bacon earth saturn
 1
 1 0
 2
-0 36 12 0
 0 23 0 3
+0 36 12 0
 1
 end_operator
 begin_operator
@@ -48745,8 +48745,8 @@ succumb prostatitis expectation bacon neptune mars
 1
 1 0
 2
-0 36 12 0
 0 23 2 1
+0 36 12 0
 1
 end_operator
 begin_operator
@@ -48754,8 +48754,8 @@ succumb prostatitis expectation bacon saturn neptune
 1
 1 0
 2
-0 36 12 0
 0 23 3 2
+0 36 12 0
 1
 end_operator
 begin_operator
@@ -48763,8 +48763,8 @@ succumb prostatitis expectation cantelope earth saturn
 1
 1 1
 2
-0 36 12 1
 0 23 0 3
+0 36 12 1
 1
 end_operator
 begin_operator
@@ -48772,8 +48772,8 @@ succumb prostatitis expectation cantelope neptune mars
 1
 1 1
 2
-0 36 12 1
 0 23 2 1
+0 36 12 1
 1
 end_operator
 begin_operator
@@ -48781,8 +48781,8 @@ succumb prostatitis expectation cantelope saturn neptune
 1
 1 1
 2
-0 36 12 1
 0 23 3 2
+0 36 12 1
 1
 end_operator
 begin_operator
@@ -48790,8 +48790,8 @@ succumb prostatitis expectation chicken earth saturn
 1
 1 2
 2
-0 36 12 2
 0 23 0 3
+0 36 12 2
 1
 end_operator
 begin_operator
@@ -48799,8 +48799,8 @@ succumb prostatitis expectation chicken neptune mars
 1
 1 2
 2
-0 36 12 2
 0 23 2 1
+0 36 12 2
 1
 end_operator
 begin_operator
@@ -48808,8 +48808,8 @@ succumb prostatitis expectation chicken saturn neptune
 1
 1 2
 2
-0 36 12 2
 0 23 3 2
+0 36 12 2
 1
 end_operator
 begin_operator
@@ -48817,8 +48817,8 @@ succumb prostatitis expectation chocolate earth saturn
 1
 1 3
 2
-0 36 12 3
 0 23 0 3
+0 36 12 3
 1
 end_operator
 begin_operator
@@ -48826,8 +48826,8 @@ succumb prostatitis expectation chocolate neptune mars
 1
 1 3
 2
-0 36 12 3
 0 23 2 1
+0 36 12 3
 1
 end_operator
 begin_operator
@@ -48835,8 +48835,8 @@ succumb prostatitis expectation chocolate saturn neptune
 1
 1 3
 2
-0 36 12 3
 0 23 3 2
+0 36 12 3
 1
 end_operator
 begin_operator
@@ -48844,8 +48844,8 @@ succumb prostatitis expectation grapefruit earth saturn
 1
 1 4
 2
-0 36 12 4
 0 23 0 3
+0 36 12 4
 1
 end_operator
 begin_operator
@@ -48853,8 +48853,8 @@ succumb prostatitis expectation grapefruit neptune mars
 1
 1 4
 2
-0 36 12 4
 0 23 2 1
+0 36 12 4
 1
 end_operator
 begin_operator
@@ -48862,8 +48862,8 @@ succumb prostatitis expectation grapefruit saturn neptune
 1
 1 4
 2
-0 36 12 4
 0 23 3 2
+0 36 12 4
 1
 end_operator
 begin_operator
@@ -48871,8 +48871,8 @@ succumb prostatitis expectation ham earth saturn
 1
 1 5
 2
-0 36 12 5
 0 23 0 3
+0 36 12 5
 1
 end_operator
 begin_operator
@@ -48880,8 +48880,8 @@ succumb prostatitis expectation ham neptune mars
 1
 1 5
 2
-0 36 12 5
 0 23 2 1
+0 36 12 5
 1
 end_operator
 begin_operator
@@ -48889,8 +48889,8 @@ succumb prostatitis expectation ham saturn neptune
 1
 1 5
 2
-0 36 12 5
 0 23 3 2
+0 36 12 5
 1
 end_operator
 begin_operator
@@ -48898,8 +48898,8 @@ succumb prostatitis expectation haroset earth saturn
 1
 1 6
 2
-0 36 12 6
 0 23 0 3
+0 36 12 6
 1
 end_operator
 begin_operator
@@ -48907,8 +48907,8 @@ succumb prostatitis expectation haroset neptune mars
 1
 1 6
 2
-0 36 12 6
 0 23 2 1
+0 36 12 6
 1
 end_operator
 begin_operator
@@ -48916,8 +48916,8 @@ succumb prostatitis expectation haroset saturn neptune
 1
 1 6
 2
-0 36 12 6
 0 23 3 2
+0 36 12 6
 1
 end_operator
 begin_operator
@@ -48925,8 +48925,8 @@ succumb prostatitis expectation lemon earth saturn
 1
 1 7
 2
-0 36 12 7
 0 23 0 3
+0 36 12 7
 1
 end_operator
 begin_operator
@@ -48934,8 +48934,8 @@ succumb prostatitis expectation lemon neptune mars
 1
 1 7
 2
-0 36 12 7
 0 23 2 1
+0 36 12 7
 1
 end_operator
 begin_operator
@@ -48943,8 +48943,8 @@ succumb prostatitis expectation lemon saturn neptune
 1
 1 7
 2
-0 36 12 7
 0 23 3 2
+0 36 12 7
 1
 end_operator
 begin_operator
@@ -48952,8 +48952,8 @@ succumb prostatitis expectation muffin earth saturn
 1
 1 8
 2
-0 36 12 8
 0 23 0 3
+0 36 12 8
 1
 end_operator
 begin_operator
@@ -48961,8 +48961,8 @@ succumb prostatitis expectation muffin neptune mars
 1
 1 8
 2
-0 36 12 8
 0 23 2 1
+0 36 12 8
 1
 end_operator
 begin_operator
@@ -48970,8 +48970,8 @@ succumb prostatitis expectation muffin saturn neptune
 1
 1 8
 2
-0 36 12 8
 0 23 3 2
+0 36 12 8
 1
 end_operator
 begin_operator
@@ -48979,8 +48979,8 @@ succumb prostatitis expectation pistachio earth saturn
 1
 1 9
 2
-0 36 12 9
 0 23 0 3
+0 36 12 9
 1
 end_operator
 begin_operator
@@ -48988,8 +48988,8 @@ succumb prostatitis expectation pistachio neptune mars
 1
 1 9
 2
-0 36 12 9
 0 23 2 1
+0 36 12 9
 1
 end_operator
 begin_operator
@@ -48997,8 +48997,8 @@ succumb prostatitis expectation pistachio saturn neptune
 1
 1 9
 2
-0 36 12 9
 0 23 3 2
+0 36 12 9
 1
 end_operator
 begin_operator
@@ -49006,8 +49006,8 @@ succumb prostatitis expectation snickers earth saturn
 1
 1 10
 2
-0 36 12 10
 0 23 0 3
+0 36 12 10
 1
 end_operator
 begin_operator
@@ -49015,8 +49015,8 @@ succumb prostatitis expectation snickers neptune mars
 1
 1 10
 2
-0 36 12 10
 0 23 2 1
+0 36 12 10
 1
 end_operator
 begin_operator
@@ -49024,8 +49024,8 @@ succumb prostatitis expectation snickers saturn neptune
 1
 1 10
 2
-0 36 12 10
 0 23 3 2
+0 36 12 10
 1
 end_operator
 begin_operator
@@ -49033,8 +49033,8 @@ succumb prostatitis intoxication bacon earth saturn
 1
 2 0
 2
-0 36 13 0
 0 26 0 3
+0 36 13 0
 1
 end_operator
 begin_operator
@@ -49042,8 +49042,8 @@ succumb prostatitis intoxication bacon neptune mars
 1
 2 0
 2
-0 36 13 0
 0 26 2 1
+0 36 13 0
 1
 end_operator
 begin_operator
@@ -49051,8 +49051,8 @@ succumb prostatitis intoxication bacon saturn neptune
 1
 2 0
 2
-0 36 13 0
 0 26 3 2
+0 36 13 0
 1
 end_operator
 begin_operator
@@ -49060,8 +49060,8 @@ succumb prostatitis intoxication cantelope earth saturn
 1
 2 1
 2
-0 36 13 1
 0 26 0 3
+0 36 13 1
 1
 end_operator
 begin_operator
@@ -49069,8 +49069,8 @@ succumb prostatitis intoxication cantelope neptune mars
 1
 2 1
 2
-0 36 13 1
 0 26 2 1
+0 36 13 1
 1
 end_operator
 begin_operator
@@ -49078,8 +49078,8 @@ succumb prostatitis intoxication cantelope saturn neptune
 1
 2 1
 2
-0 36 13 1
 0 26 3 2
+0 36 13 1
 1
 end_operator
 begin_operator
@@ -49087,8 +49087,8 @@ succumb prostatitis intoxication chicken earth saturn
 1
 2 2
 2
-0 36 13 2
 0 26 0 3
+0 36 13 2
 1
 end_operator
 begin_operator
@@ -49096,8 +49096,8 @@ succumb prostatitis intoxication chicken neptune mars
 1
 2 2
 2
-0 36 13 2
 0 26 2 1
+0 36 13 2
 1
 end_operator
 begin_operator
@@ -49105,8 +49105,8 @@ succumb prostatitis intoxication chicken saturn neptune
 1
 2 2
 2
-0 36 13 2
 0 26 3 2
+0 36 13 2
 1
 end_operator
 begin_operator
@@ -49114,8 +49114,8 @@ succumb prostatitis intoxication chocolate earth saturn
 1
 2 3
 2
-0 36 13 3
 0 26 0 3
+0 36 13 3
 1
 end_operator
 begin_operator
@@ -49123,8 +49123,8 @@ succumb prostatitis intoxication chocolate neptune mars
 1
 2 3
 2
-0 36 13 3
 0 26 2 1
+0 36 13 3
 1
 end_operator
 begin_operator
@@ -49132,8 +49132,8 @@ succumb prostatitis intoxication chocolate saturn neptune
 1
 2 3
 2
-0 36 13 3
 0 26 3 2
+0 36 13 3
 1
 end_operator
 begin_operator
@@ -49141,8 +49141,8 @@ succumb prostatitis intoxication grapefruit earth saturn
 1
 2 4
 2
-0 36 13 4
 0 26 0 3
+0 36 13 4
 1
 end_operator
 begin_operator
@@ -49150,8 +49150,8 @@ succumb prostatitis intoxication grapefruit neptune mars
 1
 2 4
 2
-0 36 13 4
 0 26 2 1
+0 36 13 4
 1
 end_operator
 begin_operator
@@ -49159,8 +49159,8 @@ succumb prostatitis intoxication grapefruit saturn neptune
 1
 2 4
 2
-0 36 13 4
 0 26 3 2
+0 36 13 4
 1
 end_operator
 begin_operator
@@ -49168,8 +49168,8 @@ succumb prostatitis intoxication ham earth saturn
 1
 2 5
 2
-0 36 13 5
 0 26 0 3
+0 36 13 5
 1
 end_operator
 begin_operator
@@ -49177,8 +49177,8 @@ succumb prostatitis intoxication ham neptune mars
 1
 2 5
 2
-0 36 13 5
 0 26 2 1
+0 36 13 5
 1
 end_operator
 begin_operator
@@ -49186,8 +49186,8 @@ succumb prostatitis intoxication ham saturn neptune
 1
 2 5
 2
-0 36 13 5
 0 26 3 2
+0 36 13 5
 1
 end_operator
 begin_operator
@@ -49195,8 +49195,8 @@ succumb prostatitis intoxication haroset earth saturn
 1
 2 6
 2
-0 36 13 6
 0 26 0 3
+0 36 13 6
 1
 end_operator
 begin_operator
@@ -49204,8 +49204,8 @@ succumb prostatitis intoxication haroset neptune mars
 1
 2 6
 2
-0 36 13 6
 0 26 2 1
+0 36 13 6
 1
 end_operator
 begin_operator
@@ -49213,8 +49213,8 @@ succumb prostatitis intoxication haroset saturn neptune
 1
 2 6
 2
-0 36 13 6
 0 26 3 2
+0 36 13 6
 1
 end_operator
 begin_operator
@@ -49222,8 +49222,8 @@ succumb prostatitis intoxication lemon earth saturn
 1
 2 7
 2
-0 36 13 7
 0 26 0 3
+0 36 13 7
 1
 end_operator
 begin_operator
@@ -49231,8 +49231,8 @@ succumb prostatitis intoxication lemon neptune mars
 1
 2 7
 2
-0 36 13 7
 0 26 2 1
+0 36 13 7
 1
 end_operator
 begin_operator
@@ -49240,8 +49240,8 @@ succumb prostatitis intoxication lemon saturn neptune
 1
 2 7
 2
-0 36 13 7
 0 26 3 2
+0 36 13 7
 1
 end_operator
 begin_operator
@@ -49249,8 +49249,8 @@ succumb prostatitis intoxication muffin earth saturn
 1
 2 8
 2
-0 36 13 8
 0 26 0 3
+0 36 13 8
 1
 end_operator
 begin_operator
@@ -49258,8 +49258,8 @@ succumb prostatitis intoxication muffin neptune mars
 1
 2 8
 2
-0 36 13 8
 0 26 2 1
+0 36 13 8
 1
 end_operator
 begin_operator
@@ -49267,8 +49267,8 @@ succumb prostatitis intoxication muffin saturn neptune
 1
 2 8
 2
-0 36 13 8
 0 26 3 2
+0 36 13 8
 1
 end_operator
 begin_operator
@@ -49276,8 +49276,8 @@ succumb prostatitis intoxication pistachio earth saturn
 1
 2 9
 2
-0 36 13 9
 0 26 0 3
+0 36 13 9
 1
 end_operator
 begin_operator
@@ -49285,8 +49285,8 @@ succumb prostatitis intoxication pistachio neptune mars
 1
 2 9
 2
-0 36 13 9
 0 26 2 1
+0 36 13 9
 1
 end_operator
 begin_operator
@@ -49294,8 +49294,8 @@ succumb prostatitis intoxication pistachio saturn neptune
 1
 2 9
 2
-0 36 13 9
 0 26 3 2
+0 36 13 9
 1
 end_operator
 begin_operator
@@ -49303,8 +49303,8 @@ succumb prostatitis intoxication snickers earth saturn
 1
 2 10
 2
-0 36 13 10
 0 26 0 3
+0 36 13 10
 1
 end_operator
 begin_operator
@@ -49312,8 +49312,8 @@ succumb prostatitis intoxication snickers neptune mars
 1
 2 10
 2
-0 36 13 10
 0 26 2 1
+0 36 13 10
 1
 end_operator
 begin_operator
@@ -49321,8 +49321,8 @@ succumb prostatitis intoxication snickers saturn neptune
 1
 2 10
 2
-0 36 13 10
 0 26 3 2
+0 36 13 10
 1
 end_operator
 begin_operator
@@ -49330,8 +49330,8 @@ succumb prostatitis learning bacon earth saturn
 1
 3 0
 2
-0 36 14 0
 0 27 0 3
+0 36 14 0
 1
 end_operator
 begin_operator
@@ -49339,8 +49339,8 @@ succumb prostatitis learning bacon neptune mars
 1
 3 0
 2
-0 36 14 0
 0 27 2 1
+0 36 14 0
 1
 end_operator
 begin_operator
@@ -49348,8 +49348,8 @@ succumb prostatitis learning bacon saturn neptune
 1
 3 0
 2
-0 36 14 0
 0 27 3 2
+0 36 14 0
 1
 end_operator
 begin_operator
@@ -49357,8 +49357,8 @@ succumb prostatitis learning cantelope earth saturn
 1
 3 1
 2
-0 36 14 1
 0 27 0 3
+0 36 14 1
 1
 end_operator
 begin_operator
@@ -49366,8 +49366,8 @@ succumb prostatitis learning cantelope neptune mars
 1
 3 1
 2
-0 36 14 1
 0 27 2 1
+0 36 14 1
 1
 end_operator
 begin_operator
@@ -49375,8 +49375,8 @@ succumb prostatitis learning cantelope saturn neptune
 1
 3 1
 2
-0 36 14 1
 0 27 3 2
+0 36 14 1
 1
 end_operator
 begin_operator
@@ -49384,8 +49384,8 @@ succumb prostatitis learning chicken earth saturn
 1
 3 2
 2
-0 36 14 2
 0 27 0 3
+0 36 14 2
 1
 end_operator
 begin_operator
@@ -49393,8 +49393,8 @@ succumb prostatitis learning chicken neptune mars
 1
 3 2
 2
-0 36 14 2
 0 27 2 1
+0 36 14 2
 1
 end_operator
 begin_operator
@@ -49402,8 +49402,8 @@ succumb prostatitis learning chicken saturn neptune
 1
 3 2
 2
-0 36 14 2
 0 27 3 2
+0 36 14 2
 1
 end_operator
 begin_operator
@@ -49411,8 +49411,8 @@ succumb prostatitis learning chocolate earth saturn
 1
 3 3
 2
-0 36 14 3
 0 27 0 3
+0 36 14 3
 1
 end_operator
 begin_operator
@@ -49420,8 +49420,8 @@ succumb prostatitis learning chocolate neptune mars
 1
 3 3
 2
-0 36 14 3
 0 27 2 1
+0 36 14 3
 1
 end_operator
 begin_operator
@@ -49429,8 +49429,8 @@ succumb prostatitis learning chocolate saturn neptune
 1
 3 3
 2
-0 36 14 3
 0 27 3 2
+0 36 14 3
 1
 end_operator
 begin_operator
@@ -49438,8 +49438,8 @@ succumb prostatitis learning grapefruit earth saturn
 1
 3 4
 2
-0 36 14 4
 0 27 0 3
+0 36 14 4
 1
 end_operator
 begin_operator
@@ -49447,8 +49447,8 @@ succumb prostatitis learning grapefruit neptune mars
 1
 3 4
 2
-0 36 14 4
 0 27 2 1
+0 36 14 4
 1
 end_operator
 begin_operator
@@ -49456,8 +49456,8 @@ succumb prostatitis learning grapefruit saturn neptune
 1
 3 4
 2
-0 36 14 4
 0 27 3 2
+0 36 14 4
 1
 end_operator
 begin_operator
@@ -49465,8 +49465,8 @@ succumb prostatitis learning ham earth saturn
 1
 3 5
 2
-0 36 14 5
 0 27 0 3
+0 36 14 5
 1
 end_operator
 begin_operator
@@ -49474,8 +49474,8 @@ succumb prostatitis learning ham neptune mars
 1
 3 5
 2
-0 36 14 5
 0 27 2 1
+0 36 14 5
 1
 end_operator
 begin_operator
@@ -49483,8 +49483,8 @@ succumb prostatitis learning ham saturn neptune
 1
 3 5
 2
-0 36 14 5
 0 27 3 2
+0 36 14 5
 1
 end_operator
 begin_operator
@@ -49492,8 +49492,8 @@ succumb prostatitis learning haroset earth saturn
 1
 3 6
 2
-0 36 14 6
 0 27 0 3
+0 36 14 6
 1
 end_operator
 begin_operator
@@ -49501,8 +49501,8 @@ succumb prostatitis learning haroset neptune mars
 1
 3 6
 2
-0 36 14 6
 0 27 2 1
+0 36 14 6
 1
 end_operator
 begin_operator
@@ -49510,8 +49510,8 @@ succumb prostatitis learning haroset saturn neptune
 1
 3 6
 2
-0 36 14 6
 0 27 3 2
+0 36 14 6
 1
 end_operator
 begin_operator
@@ -49519,8 +49519,8 @@ succumb prostatitis learning lemon earth saturn
 1
 3 7
 2
-0 36 14 7
 0 27 0 3
+0 36 14 7
 1
 end_operator
 begin_operator
@@ -49528,8 +49528,8 @@ succumb prostatitis learning lemon neptune mars
 1
 3 7
 2
-0 36 14 7
 0 27 2 1
+0 36 14 7
 1
 end_operator
 begin_operator
@@ -49537,8 +49537,8 @@ succumb prostatitis learning lemon saturn neptune
 1
 3 7
 2
-0 36 14 7
 0 27 3 2
+0 36 14 7
 1
 end_operator
 begin_operator
@@ -49546,8 +49546,8 @@ succumb prostatitis learning muffin earth saturn
 1
 3 8
 2
-0 36 14 8
 0 27 0 3
+0 36 14 8
 1
 end_operator
 begin_operator
@@ -49555,8 +49555,8 @@ succumb prostatitis learning muffin neptune mars
 1
 3 8
 2
-0 36 14 8
 0 27 2 1
+0 36 14 8
 1
 end_operator
 begin_operator
@@ -49564,8 +49564,8 @@ succumb prostatitis learning muffin saturn neptune
 1
 3 8
 2
-0 36 14 8
 0 27 3 2
+0 36 14 8
 1
 end_operator
 begin_operator
@@ -49573,8 +49573,8 @@ succumb prostatitis learning pistachio earth saturn
 1
 3 9
 2
-0 36 14 9
 0 27 0 3
+0 36 14 9
 1
 end_operator
 begin_operator
@@ -49582,8 +49582,8 @@ succumb prostatitis learning pistachio neptune mars
 1
 3 9
 2
-0 36 14 9
 0 27 2 1
+0 36 14 9
 1
 end_operator
 begin_operator
@@ -49591,8 +49591,8 @@ succumb prostatitis learning pistachio saturn neptune
 1
 3 9
 2
-0 36 14 9
 0 27 3 2
+0 36 14 9
 1
 end_operator
 begin_operator
@@ -49600,8 +49600,8 @@ succumb prostatitis learning snickers earth saturn
 1
 3 10
 2
-0 36 14 10
 0 27 0 3
+0 36 14 10
 1
 end_operator
 begin_operator
@@ -49609,8 +49609,8 @@ succumb prostatitis learning snickers neptune mars
 1
 3 10
 2
-0 36 14 10
 0 27 2 1
+0 36 14 10
 1
 end_operator
 begin_operator
@@ -49618,8 +49618,8 @@ succumb prostatitis learning snickers saturn neptune
 1
 3 10
 2
-0 36 14 10
 0 27 3 2
+0 36 14 10
 1
 end_operator
 begin_operator
@@ -49627,8 +49627,8 @@ succumb prostatitis love bacon earth saturn
 1
 4 0
 2
-0 36 15 0
 0 30 0 3
+0 36 15 0
 1
 end_operator
 begin_operator
@@ -49636,8 +49636,8 @@ succumb prostatitis love bacon neptune mars
 1
 4 0
 2
-0 36 15 0
 0 30 2 1
+0 36 15 0
 1
 end_operator
 begin_operator
@@ -49645,8 +49645,8 @@ succumb prostatitis love bacon saturn neptune
 1
 4 0
 2
-0 36 15 0
 0 30 3 2
+0 36 15 0
 1
 end_operator
 begin_operator
@@ -49654,8 +49654,8 @@ succumb prostatitis love cantelope earth saturn
 1
 4 1
 2
-0 36 15 1
 0 30 0 3
+0 36 15 1
 1
 end_operator
 begin_operator
@@ -49663,8 +49663,8 @@ succumb prostatitis love cantelope neptune mars
 1
 4 1
 2
-0 36 15 1
 0 30 2 1
+0 36 15 1
 1
 end_operator
 begin_operator
@@ -49672,8 +49672,8 @@ succumb prostatitis love cantelope saturn neptune
 1
 4 1
 2
-0 36 15 1
 0 30 3 2
+0 36 15 1
 1
 end_operator
 begin_operator
@@ -49681,8 +49681,8 @@ succumb prostatitis love chicken earth saturn
 1
 4 2
 2
-0 36 15 2
 0 30 0 3
+0 36 15 2
 1
 end_operator
 begin_operator
@@ -49690,8 +49690,8 @@ succumb prostatitis love chicken neptune mars
 1
 4 2
 2
-0 36 15 2
 0 30 2 1
+0 36 15 2
 1
 end_operator
 begin_operator
@@ -49699,8 +49699,8 @@ succumb prostatitis love chicken saturn neptune
 1
 4 2
 2
-0 36 15 2
 0 30 3 2
+0 36 15 2
 1
 end_operator
 begin_operator
@@ -49708,8 +49708,8 @@ succumb prostatitis love chocolate earth saturn
 1
 4 3
 2
-0 36 15 3
 0 30 0 3
+0 36 15 3
 1
 end_operator
 begin_operator
@@ -49717,8 +49717,8 @@ succumb prostatitis love chocolate neptune mars
 1
 4 3
 2
-0 36 15 3
 0 30 2 1
+0 36 15 3
 1
 end_operator
 begin_operator
@@ -49726,8 +49726,8 @@ succumb prostatitis love chocolate saturn neptune
 1
 4 3
 2
-0 36 15 3
 0 30 3 2
+0 36 15 3
 1
 end_operator
 begin_operator
@@ -49735,8 +49735,8 @@ succumb prostatitis love grapefruit earth saturn
 1
 4 4
 2
-0 36 15 4
 0 30 0 3
+0 36 15 4
 1
 end_operator
 begin_operator
@@ -49744,8 +49744,8 @@ succumb prostatitis love grapefruit neptune mars
 1
 4 4
 2
-0 36 15 4
 0 30 2 1
+0 36 15 4
 1
 end_operator
 begin_operator
@@ -49753,8 +49753,8 @@ succumb prostatitis love grapefruit saturn neptune
 1
 4 4
 2
-0 36 15 4
 0 30 3 2
+0 36 15 4
 1
 end_operator
 begin_operator
@@ -49762,8 +49762,8 @@ succumb prostatitis love ham earth saturn
 1
 4 5
 2
-0 36 15 5
 0 30 0 3
+0 36 15 5
 1
 end_operator
 begin_operator
@@ -49771,8 +49771,8 @@ succumb prostatitis love ham neptune mars
 1
 4 5
 2
-0 36 15 5
 0 30 2 1
+0 36 15 5
 1
 end_operator
 begin_operator
@@ -49780,8 +49780,8 @@ succumb prostatitis love ham saturn neptune
 1
 4 5
 2
-0 36 15 5
 0 30 3 2
+0 36 15 5
 1
 end_operator
 begin_operator
@@ -49789,8 +49789,8 @@ succumb prostatitis love haroset earth saturn
 1
 4 6
 2
-0 36 15 6
 0 30 0 3
+0 36 15 6
 1
 end_operator
 begin_operator
@@ -49798,8 +49798,8 @@ succumb prostatitis love haroset neptune mars
 1
 4 6
 2
-0 36 15 6
 0 30 2 1
+0 36 15 6
 1
 end_operator
 begin_operator
@@ -49807,8 +49807,8 @@ succumb prostatitis love haroset saturn neptune
 1
 4 6
 2
-0 36 15 6
 0 30 3 2
+0 36 15 6
 1
 end_operator
 begin_operator
@@ -49816,8 +49816,8 @@ succumb prostatitis love lemon earth saturn
 1
 4 7
 2
-0 36 15 7
 0 30 0 3
+0 36 15 7
 1
 end_operator
 begin_operator
@@ -49825,8 +49825,8 @@ succumb prostatitis love lemon neptune mars
 1
 4 7
 2
-0 36 15 7
 0 30 2 1
+0 36 15 7
 1
 end_operator
 begin_operator
@@ -49834,8 +49834,8 @@ succumb prostatitis love lemon saturn neptune
 1
 4 7
 2
-0 36 15 7
 0 30 3 2
+0 36 15 7
 1
 end_operator
 begin_operator
@@ -49843,8 +49843,8 @@ succumb prostatitis love muffin earth saturn
 1
 4 8
 2
-0 36 15 8
 0 30 0 3
+0 36 15 8
 1
 end_operator
 begin_operator
@@ -49852,8 +49852,8 @@ succumb prostatitis love muffin neptune mars
 1
 4 8
 2
-0 36 15 8
 0 30 2 1
+0 36 15 8
 1
 end_operator
 begin_operator
@@ -49861,8 +49861,8 @@ succumb prostatitis love muffin saturn neptune
 1
 4 8
 2
-0 36 15 8
 0 30 3 2
+0 36 15 8
 1
 end_operator
 begin_operator
@@ -49870,8 +49870,8 @@ succumb prostatitis love pistachio earth saturn
 1
 4 9
 2
-0 36 15 9
 0 30 0 3
+0 36 15 9
 1
 end_operator
 begin_operator
@@ -49879,8 +49879,8 @@ succumb prostatitis love pistachio neptune mars
 1
 4 9
 2
-0 36 15 9
 0 30 2 1
+0 36 15 9
 1
 end_operator
 begin_operator
@@ -49888,8 +49888,8 @@ succumb prostatitis love pistachio saturn neptune
 1
 4 9
 2
-0 36 15 9
 0 30 3 2
+0 36 15 9
 1
 end_operator
 begin_operator
@@ -49897,8 +49897,8 @@ succumb prostatitis love snickers earth saturn
 1
 4 10
 2
-0 36 15 10
 0 30 0 3
+0 36 15 10
 1
 end_operator
 begin_operator
@@ -49906,8 +49906,8 @@ succumb prostatitis love snickers neptune mars
 1
 4 10
 2
-0 36 15 10
 0 30 2 1
+0 36 15 10
 1
 end_operator
 begin_operator
@@ -49915,8 +49915,8 @@ succumb prostatitis love snickers saturn neptune
 1
 4 10
 2
-0 36 15 10
 0 30 3 2
+0 36 15 10
 1
 end_operator
 begin_operator
@@ -49924,8 +49924,8 @@ succumb prostatitis rest bacon earth saturn
 1
 5 0
 2
-0 36 16 0
 0 31 0 3
+0 36 16 0
 1
 end_operator
 begin_operator
@@ -49933,8 +49933,8 @@ succumb prostatitis rest bacon neptune mars
 1
 5 0
 2
-0 36 16 0
 0 31 2 1
+0 36 16 0
 1
 end_operator
 begin_operator
@@ -49942,8 +49942,8 @@ succumb prostatitis rest bacon saturn neptune
 1
 5 0
 2
-0 36 16 0
 0 31 3 2
+0 36 16 0
 1
 end_operator
 begin_operator
@@ -49951,8 +49951,8 @@ succumb prostatitis rest cantelope earth saturn
 1
 5 1
 2
-0 36 16 1
 0 31 0 3
+0 36 16 1
 1
 end_operator
 begin_operator
@@ -49960,8 +49960,8 @@ succumb prostatitis rest cantelope neptune mars
 1
 5 1
 2
-0 36 16 1
 0 31 2 1
+0 36 16 1
 1
 end_operator
 begin_operator
@@ -49969,8 +49969,8 @@ succumb prostatitis rest cantelope saturn neptune
 1
 5 1
 2
-0 36 16 1
 0 31 3 2
+0 36 16 1
 1
 end_operator
 begin_operator
@@ -49978,8 +49978,8 @@ succumb prostatitis rest chicken earth saturn
 1
 5 2
 2
-0 36 16 2
 0 31 0 3
+0 36 16 2
 1
 end_operator
 begin_operator
@@ -49987,8 +49987,8 @@ succumb prostatitis rest chicken neptune mars
 1
 5 2
 2
-0 36 16 2
 0 31 2 1
+0 36 16 2
 1
 end_operator
 begin_operator
@@ -49996,8 +49996,8 @@ succumb prostatitis rest chicken saturn neptune
 1
 5 2
 2
-0 36 16 2
 0 31 3 2
+0 36 16 2
 1
 end_operator
 begin_operator
@@ -50005,8 +50005,8 @@ succumb prostatitis rest chocolate earth saturn
 1
 5 3
 2
-0 36 16 3
 0 31 0 3
+0 36 16 3
 1
 end_operator
 begin_operator
@@ -50014,8 +50014,8 @@ succumb prostatitis rest chocolate neptune mars
 1
 5 3
 2
-0 36 16 3
 0 31 2 1
+0 36 16 3
 1
 end_operator
 begin_operator
@@ -50023,8 +50023,8 @@ succumb prostatitis rest chocolate saturn neptune
 1
 5 3
 2
-0 36 16 3
 0 31 3 2
+0 36 16 3
 1
 end_operator
 begin_operator
@@ -50032,8 +50032,8 @@ succumb prostatitis rest grapefruit earth saturn
 1
 5 4
 2
-0 36 16 4
 0 31 0 3
+0 36 16 4
 1
 end_operator
 begin_operator
@@ -50041,8 +50041,8 @@ succumb prostatitis rest grapefruit neptune mars
 1
 5 4
 2
-0 36 16 4
 0 31 2 1
+0 36 16 4
 1
 end_operator
 begin_operator
@@ -50050,8 +50050,8 @@ succumb prostatitis rest grapefruit saturn neptune
 1
 5 4
 2
-0 36 16 4
 0 31 3 2
+0 36 16 4
 1
 end_operator
 begin_operator
@@ -50059,8 +50059,8 @@ succumb prostatitis rest ham earth saturn
 1
 5 5
 2
-0 36 16 5
 0 31 0 3
+0 36 16 5
 1
 end_operator
 begin_operator
@@ -50068,8 +50068,8 @@ succumb prostatitis rest ham neptune mars
 1
 5 5
 2
-0 36 16 5
 0 31 2 1
+0 36 16 5
 1
 end_operator
 begin_operator
@@ -50077,8 +50077,8 @@ succumb prostatitis rest ham saturn neptune
 1
 5 5
 2
-0 36 16 5
 0 31 3 2
+0 36 16 5
 1
 end_operator
 begin_operator
@@ -50086,8 +50086,8 @@ succumb prostatitis rest haroset earth saturn
 1
 5 6
 2
-0 36 16 6
 0 31 0 3
+0 36 16 6
 1
 end_operator
 begin_operator
@@ -50095,8 +50095,8 @@ succumb prostatitis rest haroset neptune mars
 1
 5 6
 2
-0 36 16 6
 0 31 2 1
+0 36 16 6
 1
 end_operator
 begin_operator
@@ -50104,8 +50104,8 @@ succumb prostatitis rest haroset saturn neptune
 1
 5 6
 2
-0 36 16 6
 0 31 3 2
+0 36 16 6
 1
 end_operator
 begin_operator
@@ -50113,8 +50113,8 @@ succumb prostatitis rest lemon earth saturn
 1
 5 7
 2
-0 36 16 7
 0 31 0 3
+0 36 16 7
 1
 end_operator
 begin_operator
@@ -50122,8 +50122,8 @@ succumb prostatitis rest lemon neptune mars
 1
 5 7
 2
-0 36 16 7
 0 31 2 1
+0 36 16 7
 1
 end_operator
 begin_operator
@@ -50131,8 +50131,8 @@ succumb prostatitis rest lemon saturn neptune
 1
 5 7
 2
-0 36 16 7
 0 31 3 2
+0 36 16 7
 1
 end_operator
 begin_operator
@@ -50140,8 +50140,8 @@ succumb prostatitis rest muffin earth saturn
 1
 5 8
 2
-0 36 16 8
 0 31 0 3
+0 36 16 8
 1
 end_operator
 begin_operator
@@ -50149,8 +50149,8 @@ succumb prostatitis rest muffin neptune mars
 1
 5 8
 2
-0 36 16 8
 0 31 2 1
+0 36 16 8
 1
 end_operator
 begin_operator
@@ -50158,8 +50158,8 @@ succumb prostatitis rest muffin saturn neptune
 1
 5 8
 2
-0 36 16 8
 0 31 3 2
+0 36 16 8
 1
 end_operator
 begin_operator
@@ -50167,8 +50167,8 @@ succumb prostatitis rest pistachio earth saturn
 1
 5 9
 2
-0 36 16 9
 0 31 0 3
+0 36 16 9
 1
 end_operator
 begin_operator
@@ -50176,8 +50176,8 @@ succumb prostatitis rest pistachio neptune mars
 1
 5 9
 2
-0 36 16 9
 0 31 2 1
+0 36 16 9
 1
 end_operator
 begin_operator
@@ -50185,8 +50185,8 @@ succumb prostatitis rest pistachio saturn neptune
 1
 5 9
 2
-0 36 16 9
 0 31 3 2
+0 36 16 9
 1
 end_operator
 begin_operator
@@ -50194,8 +50194,8 @@ succumb prostatitis rest snickers earth saturn
 1
 5 10
 2
-0 36 16 10
 0 31 0 3
+0 36 16 10
 1
 end_operator
 begin_operator
@@ -50203,8 +50203,8 @@ succumb prostatitis rest snickers neptune mars
 1
 5 10
 2
-0 36 16 10
 0 31 2 1
+0 36 16 10
 1
 end_operator
 begin_operator
@@ -50212,8 +50212,8 @@ succumb prostatitis rest snickers saturn neptune
 1
 5 10
 2
-0 36 16 10
 0 31 3 2
+0 36 16 10
 1
 end_operator
 begin_operator
@@ -50221,8 +50221,8 @@ succumb prostatitis triumph bacon earth saturn
 1
 13 0
 2
-0 36 17 0
 0 34 0 3
+0 36 17 0
 1
 end_operator
 begin_operator
@@ -50230,8 +50230,8 @@ succumb prostatitis triumph bacon neptune mars
 1
 13 0
 2
-0 36 17 0
 0 34 2 1
+0 36 17 0
 1
 end_operator
 begin_operator
@@ -50239,8 +50239,8 @@ succumb prostatitis triumph bacon saturn neptune
 1
 13 0
 2
-0 36 17 0
 0 34 3 2
+0 36 17 0
 1
 end_operator
 begin_operator
@@ -50248,8 +50248,8 @@ succumb prostatitis triumph cantelope earth saturn
 1
 13 1
 2
-0 36 17 1
 0 34 0 3
+0 36 17 1
 1
 end_operator
 begin_operator
@@ -50257,8 +50257,8 @@ succumb prostatitis triumph cantelope neptune mars
 1
 13 1
 2
-0 36 17 1
 0 34 2 1
+0 36 17 1
 1
 end_operator
 begin_operator
@@ -50266,8 +50266,8 @@ succumb prostatitis triumph cantelope saturn neptune
 1
 13 1
 2
-0 36 17 1
 0 34 3 2
+0 36 17 1
 1
 end_operator
 begin_operator
@@ -50275,8 +50275,8 @@ succumb prostatitis triumph chicken earth saturn
 1
 13 2
 2
-0 36 17 2
 0 34 0 3
+0 36 17 2
 1
 end_operator
 begin_operator
@@ -50284,8 +50284,8 @@ succumb prostatitis triumph chicken neptune mars
 1
 13 2
 2
-0 36 17 2
 0 34 2 1
+0 36 17 2
 1
 end_operator
 begin_operator
@@ -50293,8 +50293,8 @@ succumb prostatitis triumph chicken saturn neptune
 1
 13 2
 2
-0 36 17 2
 0 34 3 2
+0 36 17 2
 1
 end_operator
 begin_operator
@@ -50302,8 +50302,8 @@ succumb prostatitis triumph chocolate earth saturn
 1
 13 3
 2
-0 36 17 3
 0 34 0 3
+0 36 17 3
 1
 end_operator
 begin_operator
@@ -50311,8 +50311,8 @@ succumb prostatitis triumph chocolate neptune mars
 1
 13 3
 2
-0 36 17 3
 0 34 2 1
+0 36 17 3
 1
 end_operator
 begin_operator
@@ -50320,8 +50320,8 @@ succumb prostatitis triumph chocolate saturn neptune
 1
 13 3
 2
-0 36 17 3
 0 34 3 2
+0 36 17 3
 1
 end_operator
 begin_operator
@@ -50329,8 +50329,8 @@ succumb prostatitis triumph grapefruit earth saturn
 1
 13 4
 2
-0 36 17 4
 0 34 0 3
+0 36 17 4
 1
 end_operator
 begin_operator
@@ -50338,8 +50338,8 @@ succumb prostatitis triumph grapefruit neptune mars
 1
 13 4
 2
-0 36 17 4
 0 34 2 1
+0 36 17 4
 1
 end_operator
 begin_operator
@@ -50347,8 +50347,8 @@ succumb prostatitis triumph grapefruit saturn neptune
 1
 13 4
 2
-0 36 17 4
 0 34 3 2
+0 36 17 4
 1
 end_operator
 begin_operator
@@ -50356,8 +50356,8 @@ succumb prostatitis triumph ham earth saturn
 1
 13 5
 2
-0 36 17 5
 0 34 0 3
+0 36 17 5
 1
 end_operator
 begin_operator
@@ -50365,8 +50365,8 @@ succumb prostatitis triumph ham neptune mars
 1
 13 5
 2
-0 36 17 5
 0 34 2 1
+0 36 17 5
 1
 end_operator
 begin_operator
@@ -50374,8 +50374,8 @@ succumb prostatitis triumph ham saturn neptune
 1
 13 5
 2
-0 36 17 5
 0 34 3 2
+0 36 17 5
 1
 end_operator
 begin_operator
@@ -50383,8 +50383,8 @@ succumb prostatitis triumph haroset earth saturn
 1
 13 6
 2
-0 36 17 6
 0 34 0 3
+0 36 17 6
 1
 end_operator
 begin_operator
@@ -50392,8 +50392,8 @@ succumb prostatitis triumph haroset neptune mars
 1
 13 6
 2
-0 36 17 6
 0 34 2 1
+0 36 17 6
 1
 end_operator
 begin_operator
@@ -50401,8 +50401,8 @@ succumb prostatitis triumph haroset saturn neptune
 1
 13 6
 2
-0 36 17 6
 0 34 3 2
+0 36 17 6
 1
 end_operator
 begin_operator
@@ -50410,8 +50410,8 @@ succumb prostatitis triumph lemon earth saturn
 1
 13 7
 2
-0 36 17 7
 0 34 0 3
+0 36 17 7
 1
 end_operator
 begin_operator
@@ -50419,8 +50419,8 @@ succumb prostatitis triumph lemon neptune mars
 1
 13 7
 2
-0 36 17 7
 0 34 2 1
+0 36 17 7
 1
 end_operator
 begin_operator
@@ -50428,8 +50428,8 @@ succumb prostatitis triumph lemon saturn neptune
 1
 13 7
 2
-0 36 17 7
 0 34 3 2
+0 36 17 7
 1
 end_operator
 begin_operator
@@ -50437,8 +50437,8 @@ succumb prostatitis triumph muffin earth saturn
 1
 13 8
 2
-0 36 17 8
 0 34 0 3
+0 36 17 8
 1
 end_operator
 begin_operator
@@ -50446,8 +50446,8 @@ succumb prostatitis triumph muffin neptune mars
 1
 13 8
 2
-0 36 17 8
 0 34 2 1
+0 36 17 8
 1
 end_operator
 begin_operator
@@ -50455,8 +50455,8 @@ succumb prostatitis triumph muffin saturn neptune
 1
 13 8
 2
-0 36 17 8
 0 34 3 2
+0 36 17 8
 1
 end_operator
 begin_operator
@@ -50464,8 +50464,8 @@ succumb prostatitis triumph pistachio earth saturn
 1
 13 9
 2
-0 36 17 9
 0 34 0 3
+0 36 17 9
 1
 end_operator
 begin_operator
@@ -50473,8 +50473,8 @@ succumb prostatitis triumph pistachio neptune mars
 1
 13 9
 2
-0 36 17 9
 0 34 2 1
+0 36 17 9
 1
 end_operator
 begin_operator
@@ -50482,8 +50482,8 @@ succumb prostatitis triumph pistachio saturn neptune
 1
 13 9
 2
-0 36 17 9
 0 34 3 2
+0 36 17 9
 1
 end_operator
 begin_operator
@@ -50491,8 +50491,8 @@ succumb prostatitis triumph snickers earth saturn
 1
 13 10
 2
-0 36 17 10
 0 34 0 3
+0 36 17 10
 1
 end_operator
 begin_operator
@@ -50500,8 +50500,8 @@ succumb prostatitis triumph snickers neptune mars
 1
 13 10
 2
-0 36 17 10
 0 34 2 1
+0 36 17 10
 1
 end_operator
 begin_operator
@@ -50509,8 +50509,8 @@ succumb prostatitis triumph snickers saturn neptune
 1
 13 10
 2
-0 36 17 10
 0 34 3 2
+0 36 17 10
 1
 end_operator
 begin_operator
@@ -50518,8 +50518,8 @@ succumb prostatitis understanding bacon earth saturn
 1
 17 0
 2
-0 36 18 0
 0 35 0 3
+0 36 18 0
 1
 end_operator
 begin_operator
@@ -50527,8 +50527,8 @@ succumb prostatitis understanding bacon neptune mars
 1
 17 0
 2
-0 36 18 0
 0 35 2 1
+0 36 18 0
 1
 end_operator
 begin_operator
@@ -50536,8 +50536,8 @@ succumb prostatitis understanding bacon saturn neptune
 1
 17 0
 2
-0 36 18 0
 0 35 3 2
+0 36 18 0
 1
 end_operator
 begin_operator
@@ -50545,8 +50545,8 @@ succumb prostatitis understanding cantelope earth saturn
 1
 17 1
 2
-0 36 18 1
 0 35 0 3
+0 36 18 1
 1
 end_operator
 begin_operator
@@ -50554,8 +50554,8 @@ succumb prostatitis understanding cantelope neptune mars
 1
 17 1
 2
-0 36 18 1
 0 35 2 1
+0 36 18 1
 1
 end_operator
 begin_operator
@@ -50563,8 +50563,8 @@ succumb prostatitis understanding cantelope saturn neptune
 1
 17 1
 2
-0 36 18 1
 0 35 3 2
+0 36 18 1
 1
 end_operator
 begin_operator
@@ -50572,8 +50572,8 @@ succumb prostatitis understanding chicken earth saturn
 1
 17 2
 2
-0 36 18 2
 0 35 0 3
+0 36 18 2
 1
 end_operator
 begin_operator
@@ -50581,8 +50581,8 @@ succumb prostatitis understanding chicken neptune mars
 1
 17 2
 2
-0 36 18 2
 0 35 2 1
+0 36 18 2
 1
 end_operator
 begin_operator
@@ -50590,8 +50590,8 @@ succumb prostatitis understanding chicken saturn neptune
 1
 17 2
 2
-0 36 18 2
 0 35 3 2
+0 36 18 2
 1
 end_operator
 begin_operator
@@ -50599,8 +50599,8 @@ succumb prostatitis understanding chocolate earth saturn
 1
 17 3
 2
-0 36 18 3
 0 35 0 3
+0 36 18 3
 1
 end_operator
 begin_operator
@@ -50608,8 +50608,8 @@ succumb prostatitis understanding chocolate neptune mars
 1
 17 3
 2
-0 36 18 3
 0 35 2 1
+0 36 18 3
 1
 end_operator
 begin_operator
@@ -50617,8 +50617,8 @@ succumb prostatitis understanding chocolate saturn neptune
 1
 17 3
 2
-0 36 18 3
 0 35 3 2
+0 36 18 3
 1
 end_operator
 begin_operator
@@ -50626,8 +50626,8 @@ succumb prostatitis understanding grapefruit earth saturn
 1
 17 4
 2
-0 36 18 4
 0 35 0 3
+0 36 18 4
 1
 end_operator
 begin_operator
@@ -50635,8 +50635,8 @@ succumb prostatitis understanding grapefruit neptune mars
 1
 17 4
 2
-0 36 18 4
 0 35 2 1
+0 36 18 4
 1
 end_operator
 begin_operator
@@ -50644,8 +50644,8 @@ succumb prostatitis understanding grapefruit saturn neptune
 1
 17 4
 2
-0 36 18 4
 0 35 3 2
+0 36 18 4
 1
 end_operator
 begin_operator
@@ -50653,8 +50653,8 @@ succumb prostatitis understanding ham earth saturn
 1
 17 5
 2
-0 36 18 5
 0 35 0 3
+0 36 18 5
 1
 end_operator
 begin_operator
@@ -50662,8 +50662,8 @@ succumb prostatitis understanding ham neptune mars
 1
 17 5
 2
-0 36 18 5
 0 35 2 1
+0 36 18 5
 1
 end_operator
 begin_operator
@@ -50671,8 +50671,8 @@ succumb prostatitis understanding ham saturn neptune
 1
 17 5
 2
-0 36 18 5
 0 35 3 2
+0 36 18 5
 1
 end_operator
 begin_operator
@@ -50680,8 +50680,8 @@ succumb prostatitis understanding haroset earth saturn
 1
 17 6
 2
-0 36 18 6
 0 35 0 3
+0 36 18 6
 1
 end_operator
 begin_operator
@@ -50689,8 +50689,8 @@ succumb prostatitis understanding haroset neptune mars
 1
 17 6
 2
-0 36 18 6
 0 35 2 1
+0 36 18 6
 1
 end_operator
 begin_operator
@@ -50698,8 +50698,8 @@ succumb prostatitis understanding haroset saturn neptune
 1
 17 6
 2
-0 36 18 6
 0 35 3 2
+0 36 18 6
 1
 end_operator
 begin_operator
@@ -50707,8 +50707,8 @@ succumb prostatitis understanding lemon earth saturn
 1
 17 7
 2
-0 36 18 7
 0 35 0 3
+0 36 18 7
 1
 end_operator
 begin_operator
@@ -50716,8 +50716,8 @@ succumb prostatitis understanding lemon neptune mars
 1
 17 7
 2
-0 36 18 7
 0 35 2 1
+0 36 18 7
 1
 end_operator
 begin_operator
@@ -50725,8 +50725,8 @@ succumb prostatitis understanding lemon saturn neptune
 1
 17 7
 2
-0 36 18 7
 0 35 3 2
+0 36 18 7
 1
 end_operator
 begin_operator
@@ -50734,8 +50734,8 @@ succumb prostatitis understanding muffin earth saturn
 1
 17 8
 2
-0 36 18 8
 0 35 0 3
+0 36 18 8
 1
 end_operator
 begin_operator
@@ -50743,8 +50743,8 @@ succumb prostatitis understanding muffin neptune mars
 1
 17 8
 2
-0 36 18 8
 0 35 2 1
+0 36 18 8
 1
 end_operator
 begin_operator
@@ -50752,8 +50752,8 @@ succumb prostatitis understanding muffin saturn neptune
 1
 17 8
 2
-0 36 18 8
 0 35 3 2
+0 36 18 8
 1
 end_operator
 begin_operator
@@ -50761,8 +50761,8 @@ succumb prostatitis understanding pistachio earth saturn
 1
 17 9
 2
-0 36 18 9
 0 35 0 3
+0 36 18 9
 1
 end_operator
 begin_operator
@@ -50770,8 +50770,8 @@ succumb prostatitis understanding pistachio neptune mars
 1
 17 9
 2
-0 36 18 9
 0 35 2 1
+0 36 18 9
 1
 end_operator
 begin_operator
@@ -50779,8 +50779,8 @@ succumb prostatitis understanding pistachio saturn neptune
 1
 17 9
 2
-0 36 18 9
 0 35 3 2
+0 36 18 9
 1
 end_operator
 begin_operator
@@ -50788,8 +50788,8 @@ succumb prostatitis understanding snickers earth saturn
 1
 17 10
 2
-0 36 18 10
 0 35 0 3
+0 36 18 10
 1
 end_operator
 begin_operator
@@ -50797,8 +50797,8 @@ succumb prostatitis understanding snickers neptune mars
 1
 17 10
 2
-0 36 18 10
 0 35 2 1
+0 36 18 10
 1
 end_operator
 begin_operator
@@ -50806,8 +50806,8 @@ succumb prostatitis understanding snickers saturn neptune
 1
 17 10
 2
-0 36 18 10
 0 35 3 2
+0 36 18 10
 1
 end_operator
 begin_operator
@@ -50815,8 +50815,8 @@ succumb sciatica aesthetics bacon earth saturn
 1
 0 0
 2
-0 33 11 0
 0 22 0 3
+0 33 11 0
 1
 end_operator
 begin_operator
@@ -50824,8 +50824,8 @@ succumb sciatica aesthetics bacon neptune mars
 1
 0 0
 2
-0 33 11 0
 0 22 2 1
+0 33 11 0
 1
 end_operator
 begin_operator
@@ -50833,8 +50833,8 @@ succumb sciatica aesthetics bacon saturn neptune
 1
 0 0
 2
-0 33 11 0
 0 22 3 2
+0 33 11 0
 1
 end_operator
 begin_operator
@@ -50842,8 +50842,8 @@ succumb sciatica aesthetics cantelope earth saturn
 1
 0 1
 2
-0 33 11 1
 0 22 0 3
+0 33 11 1
 1
 end_operator
 begin_operator
@@ -50851,8 +50851,8 @@ succumb sciatica aesthetics cantelope neptune mars
 1
 0 1
 2
-0 33 11 1
 0 22 2 1
+0 33 11 1
 1
 end_operator
 begin_operator
@@ -50860,8 +50860,8 @@ succumb sciatica aesthetics cantelope saturn neptune
 1
 0 1
 2
-0 33 11 1
 0 22 3 2
+0 33 11 1
 1
 end_operator
 begin_operator
@@ -50869,8 +50869,8 @@ succumb sciatica aesthetics chicken earth saturn
 1
 0 2
 2
-0 33 11 2
 0 22 0 3
+0 33 11 2
 1
 end_operator
 begin_operator
@@ -50878,8 +50878,8 @@ succumb sciatica aesthetics chicken neptune mars
 1
 0 2
 2
-0 33 11 2
 0 22 2 1
+0 33 11 2
 1
 end_operator
 begin_operator
@@ -50887,8 +50887,8 @@ succumb sciatica aesthetics chicken saturn neptune
 1
 0 2
 2
-0 33 11 2
 0 22 3 2
+0 33 11 2
 1
 end_operator
 begin_operator
@@ -50896,8 +50896,8 @@ succumb sciatica aesthetics chocolate earth saturn
 1
 0 3
 2
-0 33 11 3
 0 22 0 3
+0 33 11 3
 1
 end_operator
 begin_operator
@@ -50905,8 +50905,8 @@ succumb sciatica aesthetics chocolate neptune mars
 1
 0 3
 2
-0 33 11 3
 0 22 2 1
+0 33 11 3
 1
 end_operator
 begin_operator
@@ -50914,8 +50914,8 @@ succumb sciatica aesthetics chocolate saturn neptune
 1
 0 3
 2
-0 33 11 3
 0 22 3 2
+0 33 11 3
 1
 end_operator
 begin_operator
@@ -50923,8 +50923,8 @@ succumb sciatica aesthetics grapefruit earth saturn
 1
 0 4
 2
-0 33 11 4
 0 22 0 3
+0 33 11 4
 1
 end_operator
 begin_operator
@@ -50932,8 +50932,8 @@ succumb sciatica aesthetics grapefruit neptune mars
 1
 0 4
 2
-0 33 11 4
 0 22 2 1
+0 33 11 4
 1
 end_operator
 begin_operator
@@ -50941,8 +50941,8 @@ succumb sciatica aesthetics grapefruit saturn neptune
 1
 0 4
 2
-0 33 11 4
 0 22 3 2
+0 33 11 4
 1
 end_operator
 begin_operator
@@ -50950,8 +50950,8 @@ succumb sciatica aesthetics ham earth saturn
 1
 0 5
 2
-0 33 11 5
 0 22 0 3
+0 33 11 5
 1
 end_operator
 begin_operator
@@ -50959,8 +50959,8 @@ succumb sciatica aesthetics ham neptune mars
 1
 0 5
 2
-0 33 11 5
 0 22 2 1
+0 33 11 5
 1
 end_operator
 begin_operator
@@ -50968,8 +50968,8 @@ succumb sciatica aesthetics ham saturn neptune
 1
 0 5
 2
-0 33 11 5
 0 22 3 2
+0 33 11 5
 1
 end_operator
 begin_operator
@@ -50977,8 +50977,8 @@ succumb sciatica aesthetics haroset earth saturn
 1
 0 6
 2
-0 33 11 6
 0 22 0 3
+0 33 11 6
 1
 end_operator
 begin_operator
@@ -50986,8 +50986,8 @@ succumb sciatica aesthetics haroset neptune mars
 1
 0 6
 2
-0 33 11 6
 0 22 2 1
+0 33 11 6
 1
 end_operator
 begin_operator
@@ -50995,8 +50995,8 @@ succumb sciatica aesthetics haroset saturn neptune
 1
 0 6
 2
-0 33 11 6
 0 22 3 2
+0 33 11 6
 1
 end_operator
 begin_operator
@@ -51004,8 +51004,8 @@ succumb sciatica aesthetics lemon earth saturn
 1
 0 7
 2
-0 33 11 7
 0 22 0 3
+0 33 11 7
 1
 end_operator
 begin_operator
@@ -51013,8 +51013,8 @@ succumb sciatica aesthetics lemon neptune mars
 1
 0 7
 2
-0 33 11 7
 0 22 2 1
+0 33 11 7
 1
 end_operator
 begin_operator
@@ -51022,8 +51022,8 @@ succumb sciatica aesthetics lemon saturn neptune
 1
 0 7
 2
-0 33 11 7
 0 22 3 2
+0 33 11 7
 1
 end_operator
 begin_operator
@@ -51031,8 +51031,8 @@ succumb sciatica aesthetics muffin earth saturn
 1
 0 8
 2
-0 33 11 8
 0 22 0 3
+0 33 11 8
 1
 end_operator
 begin_operator
@@ -51040,8 +51040,8 @@ succumb sciatica aesthetics muffin neptune mars
 1
 0 8
 2
-0 33 11 8
 0 22 2 1
+0 33 11 8
 1
 end_operator
 begin_operator
@@ -51049,8 +51049,8 @@ succumb sciatica aesthetics muffin saturn neptune
 1
 0 8
 2
-0 33 11 8
 0 22 3 2
+0 33 11 8
 1
 end_operator
 begin_operator
@@ -51058,8 +51058,8 @@ succumb sciatica aesthetics pistachio earth saturn
 1
 0 9
 2
-0 33 11 9
 0 22 0 3
+0 33 11 9
 1
 end_operator
 begin_operator
@@ -51067,8 +51067,8 @@ succumb sciatica aesthetics pistachio neptune mars
 1
 0 9
 2
-0 33 11 9
 0 22 2 1
+0 33 11 9
 1
 end_operator
 begin_operator
@@ -51076,8 +51076,8 @@ succumb sciatica aesthetics pistachio saturn neptune
 1
 0 9
 2
-0 33 11 9
 0 22 3 2
+0 33 11 9
 1
 end_operator
 begin_operator
@@ -51085,8 +51085,8 @@ succumb sciatica aesthetics snickers earth saturn
 1
 0 10
 2
-0 33 11 10
 0 22 0 3
+0 33 11 10
 1
 end_operator
 begin_operator
@@ -51094,8 +51094,8 @@ succumb sciatica aesthetics snickers neptune mars
 1
 0 10
 2
-0 33 11 10
 0 22 2 1
+0 33 11 10
 1
 end_operator
 begin_operator
@@ -51103,8 +51103,8 @@ succumb sciatica aesthetics snickers saturn neptune
 1
 0 10
 2
-0 33 11 10
 0 22 3 2
+0 33 11 10
 1
 end_operator
 begin_operator
@@ -51112,8 +51112,8 @@ succumb sciatica expectation bacon earth saturn
 1
 1 0
 2
-0 33 12 0
 0 23 0 3
+0 33 12 0
 1
 end_operator
 begin_operator
@@ -51121,8 +51121,8 @@ succumb sciatica expectation bacon neptune mars
 1
 1 0
 2
-0 33 12 0
 0 23 2 1
+0 33 12 0
 1
 end_operator
 begin_operator
@@ -51130,8 +51130,8 @@ succumb sciatica expectation bacon saturn neptune
 1
 1 0
 2
-0 33 12 0
 0 23 3 2
+0 33 12 0
 1
 end_operator
 begin_operator
@@ -51139,8 +51139,8 @@ succumb sciatica expectation cantelope earth saturn
 1
 1 1
 2
-0 33 12 1
 0 23 0 3
+0 33 12 1
 1
 end_operator
 begin_operator
@@ -51148,8 +51148,8 @@ succumb sciatica expectation cantelope neptune mars
 1
 1 1
 2
-0 33 12 1
 0 23 2 1
+0 33 12 1
 1
 end_operator
 begin_operator
@@ -51157,8 +51157,8 @@ succumb sciatica expectation cantelope saturn neptune
 1
 1 1
 2
-0 33 12 1
 0 23 3 2
+0 33 12 1
 1
 end_operator
 begin_operator
@@ -51166,8 +51166,8 @@ succumb sciatica expectation chicken earth saturn
 1
 1 2
 2
-0 33 12 2
 0 23 0 3
+0 33 12 2
 1
 end_operator
 begin_operator
@@ -51175,8 +51175,8 @@ succumb sciatica expectation chicken neptune mars
 1
 1 2
 2
-0 33 12 2
 0 23 2 1
+0 33 12 2
 1
 end_operator
 begin_operator
@@ -51184,8 +51184,8 @@ succumb sciatica expectation chicken saturn neptune
 1
 1 2
 2
-0 33 12 2
 0 23 3 2
+0 33 12 2
 1
 end_operator
 begin_operator
@@ -51193,8 +51193,8 @@ succumb sciatica expectation chocolate earth saturn
 1
 1 3
 2
-0 33 12 3
 0 23 0 3
+0 33 12 3
 1
 end_operator
 begin_operator
@@ -51202,8 +51202,8 @@ succumb sciatica expectation chocolate neptune mars
 1
 1 3
 2
-0 33 12 3
 0 23 2 1
+0 33 12 3
 1
 end_operator
 begin_operator
@@ -51211,8 +51211,8 @@ succumb sciatica expectation chocolate saturn neptune
 1
 1 3
 2
-0 33 12 3
 0 23 3 2
+0 33 12 3
 1
 end_operator
 begin_operator
@@ -51220,8 +51220,8 @@ succumb sciatica expectation grapefruit earth saturn
 1
 1 4
 2
-0 33 12 4
 0 23 0 3
+0 33 12 4
 1
 end_operator
 begin_operator
@@ -51229,8 +51229,8 @@ succumb sciatica expectation grapefruit neptune mars
 1
 1 4
 2
-0 33 12 4
 0 23 2 1
+0 33 12 4
 1
 end_operator
 begin_operator
@@ -51238,8 +51238,8 @@ succumb sciatica expectation grapefruit saturn neptune
 1
 1 4
 2
-0 33 12 4
 0 23 3 2
+0 33 12 4
 1
 end_operator
 begin_operator
@@ -51247,8 +51247,8 @@ succumb sciatica expectation ham earth saturn
 1
 1 5
 2
-0 33 12 5
 0 23 0 3
+0 33 12 5
 1
 end_operator
 begin_operator
@@ -51256,8 +51256,8 @@ succumb sciatica expectation ham neptune mars
 1
 1 5
 2
-0 33 12 5
 0 23 2 1
+0 33 12 5
 1
 end_operator
 begin_operator
@@ -51265,8 +51265,8 @@ succumb sciatica expectation ham saturn neptune
 1
 1 5
 2
-0 33 12 5
 0 23 3 2
+0 33 12 5
 1
 end_operator
 begin_operator
@@ -51274,8 +51274,8 @@ succumb sciatica expectation haroset earth saturn
 1
 1 6
 2
-0 33 12 6
 0 23 0 3
+0 33 12 6
 1
 end_operator
 begin_operator
@@ -51283,8 +51283,8 @@ succumb sciatica expectation haroset neptune mars
 1
 1 6
 2
-0 33 12 6
 0 23 2 1
+0 33 12 6
 1
 end_operator
 begin_operator
@@ -51292,8 +51292,8 @@ succumb sciatica expectation haroset saturn neptune
 1
 1 6
 2
-0 33 12 6
 0 23 3 2
+0 33 12 6
 1
 end_operator
 begin_operator
@@ -51301,8 +51301,8 @@ succumb sciatica expectation lemon earth saturn
 1
 1 7
 2
-0 33 12 7
 0 23 0 3
+0 33 12 7
 1
 end_operator
 begin_operator
@@ -51310,8 +51310,8 @@ succumb sciatica expectation lemon neptune mars
 1
 1 7
 2
-0 33 12 7
 0 23 2 1
+0 33 12 7
 1
 end_operator
 begin_operator
@@ -51319,8 +51319,8 @@ succumb sciatica expectation lemon saturn neptune
 1
 1 7
 2
-0 33 12 7
 0 23 3 2
+0 33 12 7
 1
 end_operator
 begin_operator
@@ -51328,8 +51328,8 @@ succumb sciatica expectation muffin earth saturn
 1
 1 8
 2
-0 33 12 8
 0 23 0 3
+0 33 12 8
 1
 end_operator
 begin_operator
@@ -51337,8 +51337,8 @@ succumb sciatica expectation muffin neptune mars
 1
 1 8
 2
-0 33 12 8
 0 23 2 1
+0 33 12 8
 1
 end_operator
 begin_operator
@@ -51346,8 +51346,8 @@ succumb sciatica expectation muffin saturn neptune
 1
 1 8
 2
-0 33 12 8
 0 23 3 2
+0 33 12 8
 1
 end_operator
 begin_operator
@@ -51355,8 +51355,8 @@ succumb sciatica expectation pistachio earth saturn
 1
 1 9
 2
-0 33 12 9
 0 23 0 3
+0 33 12 9
 1
 end_operator
 begin_operator
@@ -51364,8 +51364,8 @@ succumb sciatica expectation pistachio neptune mars
 1
 1 9
 2
-0 33 12 9
 0 23 2 1
+0 33 12 9
 1
 end_operator
 begin_operator
@@ -51373,8 +51373,8 @@ succumb sciatica expectation pistachio saturn neptune
 1
 1 9
 2
-0 33 12 9
 0 23 3 2
+0 33 12 9
 1
 end_operator
 begin_operator
@@ -51382,8 +51382,8 @@ succumb sciatica expectation snickers earth saturn
 1
 1 10
 2
-0 33 12 10
 0 23 0 3
+0 33 12 10
 1
 end_operator
 begin_operator
@@ -51391,8 +51391,8 @@ succumb sciatica expectation snickers neptune mars
 1
 1 10
 2
-0 33 12 10
 0 23 2 1
+0 33 12 10
 1
 end_operator
 begin_operator
@@ -51400,8 +51400,8 @@ succumb sciatica expectation snickers saturn neptune
 1
 1 10
 2
-0 33 12 10
 0 23 3 2
+0 33 12 10
 1
 end_operator
 begin_operator
@@ -51409,8 +51409,8 @@ succumb sciatica intoxication bacon earth saturn
 1
 2 0
 2
-0 33 13 0
 0 26 0 3
+0 33 13 0
 1
 end_operator
 begin_operator
@@ -51418,8 +51418,8 @@ succumb sciatica intoxication bacon neptune mars
 1
 2 0
 2
-0 33 13 0
 0 26 2 1
+0 33 13 0
 1
 end_operator
 begin_operator
@@ -51427,8 +51427,8 @@ succumb sciatica intoxication bacon saturn neptune
 1
 2 0
 2
-0 33 13 0
 0 26 3 2
+0 33 13 0
 1
 end_operator
 begin_operator
@@ -51436,8 +51436,8 @@ succumb sciatica intoxication cantelope earth saturn
 1
 2 1
 2
-0 33 13 1
 0 26 0 3
+0 33 13 1
 1
 end_operator
 begin_operator
@@ -51445,8 +51445,8 @@ succumb sciatica intoxication cantelope neptune mars
 1
 2 1
 2
-0 33 13 1
 0 26 2 1
+0 33 13 1
 1
 end_operator
 begin_operator
@@ -51454,8 +51454,8 @@ succumb sciatica intoxication cantelope saturn neptune
 1
 2 1
 2
-0 33 13 1
 0 26 3 2
+0 33 13 1
 1
 end_operator
 begin_operator
@@ -51463,8 +51463,8 @@ succumb sciatica intoxication chicken earth saturn
 1
 2 2
 2
-0 33 13 2
 0 26 0 3
+0 33 13 2
 1
 end_operator
 begin_operator
@@ -51472,8 +51472,8 @@ succumb sciatica intoxication chicken neptune mars
 1
 2 2
 2
-0 33 13 2
 0 26 2 1
+0 33 13 2
 1
 end_operator
 begin_operator
@@ -51481,8 +51481,8 @@ succumb sciatica intoxication chicken saturn neptune
 1
 2 2
 2
-0 33 13 2
 0 26 3 2
+0 33 13 2
 1
 end_operator
 begin_operator
@@ -51490,8 +51490,8 @@ succumb sciatica intoxication chocolate earth saturn
 1
 2 3
 2
-0 33 13 3
 0 26 0 3
+0 33 13 3
 1
 end_operator
 begin_operator
@@ -51499,8 +51499,8 @@ succumb sciatica intoxication chocolate neptune mars
 1
 2 3
 2
-0 33 13 3
 0 26 2 1
+0 33 13 3
 1
 end_operator
 begin_operator
@@ -51508,8 +51508,8 @@ succumb sciatica intoxication chocolate saturn neptune
 1
 2 3
 2
-0 33 13 3
 0 26 3 2
+0 33 13 3
 1
 end_operator
 begin_operator
@@ -51517,8 +51517,8 @@ succumb sciatica intoxication grapefruit earth saturn
 1
 2 4
 2
-0 33 13 4
 0 26 0 3
+0 33 13 4
 1
 end_operator
 begin_operator
@@ -51526,8 +51526,8 @@ succumb sciatica intoxication grapefruit neptune mars
 1
 2 4
 2
-0 33 13 4
 0 26 2 1
+0 33 13 4
 1
 end_operator
 begin_operator
@@ -51535,8 +51535,8 @@ succumb sciatica intoxication grapefruit saturn neptune
 1
 2 4
 2
-0 33 13 4
 0 26 3 2
+0 33 13 4
 1
 end_operator
 begin_operator
@@ -51544,8 +51544,8 @@ succumb sciatica intoxication ham earth saturn
 1
 2 5
 2
-0 33 13 5
 0 26 0 3
+0 33 13 5
 1
 end_operator
 begin_operator
@@ -51553,8 +51553,8 @@ succumb sciatica intoxication ham neptune mars
 1
 2 5
 2
-0 33 13 5
 0 26 2 1
+0 33 13 5
 1
 end_operator
 begin_operator
@@ -51562,8 +51562,8 @@ succumb sciatica intoxication ham saturn neptune
 1
 2 5
 2
-0 33 13 5
 0 26 3 2
+0 33 13 5
 1
 end_operator
 begin_operator
@@ -51571,8 +51571,8 @@ succumb sciatica intoxication haroset earth saturn
 1
 2 6
 2
-0 33 13 6
 0 26 0 3
+0 33 13 6
 1
 end_operator
 begin_operator
@@ -51580,8 +51580,8 @@ succumb sciatica intoxication haroset neptune mars
 1
 2 6
 2
-0 33 13 6
 0 26 2 1
+0 33 13 6
 1
 end_operator
 begin_operator
@@ -51589,8 +51589,8 @@ succumb sciatica intoxication haroset saturn neptune
 1
 2 6
 2
-0 33 13 6
 0 26 3 2
+0 33 13 6
 1
 end_operator
 begin_operator
@@ -51598,8 +51598,8 @@ succumb sciatica intoxication lemon earth saturn
 1
 2 7
 2
-0 33 13 7
 0 26 0 3
+0 33 13 7
 1
 end_operator
 begin_operator
@@ -51607,8 +51607,8 @@ succumb sciatica intoxication lemon neptune mars
 1
 2 7
 2
-0 33 13 7
 0 26 2 1
+0 33 13 7
 1
 end_operator
 begin_operator
@@ -51616,8 +51616,8 @@ succumb sciatica intoxication lemon saturn neptune
 1
 2 7
 2
-0 33 13 7
 0 26 3 2
+0 33 13 7
 1
 end_operator
 begin_operator
@@ -51625,8 +51625,8 @@ succumb sciatica intoxication muffin earth saturn
 1
 2 8
 2
-0 33 13 8
 0 26 0 3
+0 33 13 8
 1
 end_operator
 begin_operator
@@ -51634,8 +51634,8 @@ succumb sciatica intoxication muffin neptune mars
 1
 2 8
 2
-0 33 13 8
 0 26 2 1
+0 33 13 8
 1
 end_operator
 begin_operator
@@ -51643,8 +51643,8 @@ succumb sciatica intoxication muffin saturn neptune
 1
 2 8
 2
-0 33 13 8
 0 26 3 2
+0 33 13 8
 1
 end_operator
 begin_operator
@@ -51652,8 +51652,8 @@ succumb sciatica intoxication pistachio earth saturn
 1
 2 9
 2
-0 33 13 9
 0 26 0 3
+0 33 13 9
 1
 end_operator
 begin_operator
@@ -51661,8 +51661,8 @@ succumb sciatica intoxication pistachio neptune mars
 1
 2 9
 2
-0 33 13 9
 0 26 2 1
+0 33 13 9
 1
 end_operator
 begin_operator
@@ -51670,8 +51670,8 @@ succumb sciatica intoxication pistachio saturn neptune
 1
 2 9
 2
-0 33 13 9
 0 26 3 2
+0 33 13 9
 1
 end_operator
 begin_operator
@@ -51679,8 +51679,8 @@ succumb sciatica intoxication snickers earth saturn
 1
 2 10
 2
-0 33 13 10
 0 26 0 3
+0 33 13 10
 1
 end_operator
 begin_operator
@@ -51688,8 +51688,8 @@ succumb sciatica intoxication snickers neptune mars
 1
 2 10
 2
-0 33 13 10
 0 26 2 1
+0 33 13 10
 1
 end_operator
 begin_operator
@@ -51697,8 +51697,8 @@ succumb sciatica intoxication snickers saturn neptune
 1
 2 10
 2
-0 33 13 10
 0 26 3 2
+0 33 13 10
 1
 end_operator
 begin_operator
@@ -51706,8 +51706,8 @@ succumb sciatica learning bacon earth saturn
 1
 3 0
 2
-0 33 14 0
 0 27 0 3
+0 33 14 0
 1
 end_operator
 begin_operator
@@ -51715,8 +51715,8 @@ succumb sciatica learning bacon neptune mars
 1
 3 0
 2
-0 33 14 0
 0 27 2 1
+0 33 14 0
 1
 end_operator
 begin_operator
@@ -51724,8 +51724,8 @@ succumb sciatica learning bacon saturn neptune
 1
 3 0
 2
-0 33 14 0
 0 27 3 2
+0 33 14 0
 1
 end_operator
 begin_operator
@@ -51733,8 +51733,8 @@ succumb sciatica learning cantelope earth saturn
 1
 3 1
 2
-0 33 14 1
 0 27 0 3
+0 33 14 1
 1
 end_operator
 begin_operator
@@ -51742,8 +51742,8 @@ succumb sciatica learning cantelope neptune mars
 1
 3 1
 2
-0 33 14 1
 0 27 2 1
+0 33 14 1
 1
 end_operator
 begin_operator
@@ -51751,8 +51751,8 @@ succumb sciatica learning cantelope saturn neptune
 1
 3 1
 2
-0 33 14 1
 0 27 3 2
+0 33 14 1
 1
 end_operator
 begin_operator
@@ -51760,8 +51760,8 @@ succumb sciatica learning chicken earth saturn
 1
 3 2
 2
-0 33 14 2
 0 27 0 3
+0 33 14 2
 1
 end_operator
 begin_operator
@@ -51769,8 +51769,8 @@ succumb sciatica learning chicken neptune mars
 1
 3 2
 2
-0 33 14 2
 0 27 2 1
+0 33 14 2
 1
 end_operator
 begin_operator
@@ -51778,8 +51778,8 @@ succumb sciatica learning chicken saturn neptune
 1
 3 2
 2
-0 33 14 2
 0 27 3 2
+0 33 14 2
 1
 end_operator
 begin_operator
@@ -51787,8 +51787,8 @@ succumb sciatica learning chocolate earth saturn
 1
 3 3
 2
-0 33 14 3
 0 27 0 3
+0 33 14 3
 1
 end_operator
 begin_operator
@@ -51796,8 +51796,8 @@ succumb sciatica learning chocolate neptune mars
 1
 3 3
 2
-0 33 14 3
 0 27 2 1
+0 33 14 3
 1
 end_operator
 begin_operator
@@ -51805,8 +51805,8 @@ succumb sciatica learning chocolate saturn neptune
 1
 3 3
 2
-0 33 14 3
 0 27 3 2
+0 33 14 3
 1
 end_operator
 begin_operator
@@ -51814,8 +51814,8 @@ succumb sciatica learning grapefruit earth saturn
 1
 3 4
 2
-0 33 14 4
 0 27 0 3
+0 33 14 4
 1
 end_operator
 begin_operator
@@ -51823,8 +51823,8 @@ succumb sciatica learning grapefruit neptune mars
 1
 3 4
 2
-0 33 14 4
 0 27 2 1
+0 33 14 4
 1
 end_operator
 begin_operator
@@ -51832,8 +51832,8 @@ succumb sciatica learning grapefruit saturn neptune
 1
 3 4
 2
-0 33 14 4
 0 27 3 2
+0 33 14 4
 1
 end_operator
 begin_operator
@@ -51841,8 +51841,8 @@ succumb sciatica learning ham earth saturn
 1
 3 5
 2
-0 33 14 5
 0 27 0 3
+0 33 14 5
 1
 end_operator
 begin_operator
@@ -51850,8 +51850,8 @@ succumb sciatica learning ham neptune mars
 1
 3 5
 2
-0 33 14 5
 0 27 2 1
+0 33 14 5
 1
 end_operator
 begin_operator
@@ -51859,8 +51859,8 @@ succumb sciatica learning ham saturn neptune
 1
 3 5
 2
-0 33 14 5
 0 27 3 2
+0 33 14 5
 1
 end_operator
 begin_operator
@@ -51868,8 +51868,8 @@ succumb sciatica learning haroset earth saturn
 1
 3 6
 2
-0 33 14 6
 0 27 0 3
+0 33 14 6
 1
 end_operator
 begin_operator
@@ -51877,8 +51877,8 @@ succumb sciatica learning haroset neptune mars
 1
 3 6
 2
-0 33 14 6
 0 27 2 1
+0 33 14 6
 1
 end_operator
 begin_operator
@@ -51886,8 +51886,8 @@ succumb sciatica learning haroset saturn neptune
 1
 3 6
 2
-0 33 14 6
 0 27 3 2
+0 33 14 6
 1
 end_operator
 begin_operator
@@ -51895,8 +51895,8 @@ succumb sciatica learning lemon earth saturn
 1
 3 7
 2
-0 33 14 7
 0 27 0 3
+0 33 14 7
 1
 end_operator
 begin_operator
@@ -51904,8 +51904,8 @@ succumb sciatica learning lemon neptune mars
 1
 3 7
 2
-0 33 14 7
 0 27 2 1
+0 33 14 7
 1
 end_operator
 begin_operator
@@ -51913,8 +51913,8 @@ succumb sciatica learning lemon saturn neptune
 1
 3 7
 2
-0 33 14 7
 0 27 3 2
+0 33 14 7
 1
 end_operator
 begin_operator
@@ -51922,8 +51922,8 @@ succumb sciatica learning muffin earth saturn
 1
 3 8
 2
-0 33 14 8
 0 27 0 3
+0 33 14 8
 1
 end_operator
 begin_operator
@@ -51931,8 +51931,8 @@ succumb sciatica learning muffin neptune mars
 1
 3 8
 2
-0 33 14 8
 0 27 2 1
+0 33 14 8
 1
 end_operator
 begin_operator
@@ -51940,8 +51940,8 @@ succumb sciatica learning muffin saturn neptune
 1
 3 8
 2
-0 33 14 8
 0 27 3 2
+0 33 14 8
 1
 end_operator
 begin_operator
@@ -51949,8 +51949,8 @@ succumb sciatica learning pistachio earth saturn
 1
 3 9
 2
-0 33 14 9
 0 27 0 3
+0 33 14 9
 1
 end_operator
 begin_operator
@@ -51958,8 +51958,8 @@ succumb sciatica learning pistachio neptune mars
 1
 3 9
 2
-0 33 14 9
 0 27 2 1
+0 33 14 9
 1
 end_operator
 begin_operator
@@ -51967,8 +51967,8 @@ succumb sciatica learning pistachio saturn neptune
 1
 3 9
 2
-0 33 14 9
 0 27 3 2
+0 33 14 9
 1
 end_operator
 begin_operator
@@ -51976,8 +51976,8 @@ succumb sciatica learning snickers earth saturn
 1
 3 10
 2
-0 33 14 10
 0 27 0 3
+0 33 14 10
 1
 end_operator
 begin_operator
@@ -51985,8 +51985,8 @@ succumb sciatica learning snickers neptune mars
 1
 3 10
 2
-0 33 14 10
 0 27 2 1
+0 33 14 10
 1
 end_operator
 begin_operator
@@ -51994,8 +51994,8 @@ succumb sciatica learning snickers saturn neptune
 1
 3 10
 2
-0 33 14 10
 0 27 3 2
+0 33 14 10
 1
 end_operator
 begin_operator
@@ -52003,8 +52003,8 @@ succumb sciatica love bacon earth saturn
 1
 4 0
 2
-0 33 15 0
 0 30 0 3
+0 33 15 0
 1
 end_operator
 begin_operator
@@ -52012,8 +52012,8 @@ succumb sciatica love bacon neptune mars
 1
 4 0
 2
-0 33 15 0
 0 30 2 1
+0 33 15 0
 1
 end_operator
 begin_operator
@@ -52021,8 +52021,8 @@ succumb sciatica love bacon saturn neptune
 1
 4 0
 2
-0 33 15 0
 0 30 3 2
+0 33 15 0
 1
 end_operator
 begin_operator
@@ -52030,8 +52030,8 @@ succumb sciatica love cantelope earth saturn
 1
 4 1
 2
-0 33 15 1
 0 30 0 3
+0 33 15 1
 1
 end_operator
 begin_operator
@@ -52039,8 +52039,8 @@ succumb sciatica love cantelope neptune mars
 1
 4 1
 2
-0 33 15 1
 0 30 2 1
+0 33 15 1
 1
 end_operator
 begin_operator
@@ -52048,8 +52048,8 @@ succumb sciatica love cantelope saturn neptune
 1
 4 1
 2
-0 33 15 1
 0 30 3 2
+0 33 15 1
 1
 end_operator
 begin_operator
@@ -52057,8 +52057,8 @@ succumb sciatica love chicken earth saturn
 1
 4 2
 2
-0 33 15 2
 0 30 0 3
+0 33 15 2
 1
 end_operator
 begin_operator
@@ -52066,8 +52066,8 @@ succumb sciatica love chicken neptune mars
 1
 4 2
 2
-0 33 15 2
 0 30 2 1
+0 33 15 2
 1
 end_operator
 begin_operator
@@ -52075,8 +52075,8 @@ succumb sciatica love chicken saturn neptune
 1
 4 2
 2
-0 33 15 2
 0 30 3 2
+0 33 15 2
 1
 end_operator
 begin_operator
@@ -52084,8 +52084,8 @@ succumb sciatica love chocolate earth saturn
 1
 4 3
 2
-0 33 15 3
 0 30 0 3
+0 33 15 3
 1
 end_operator
 begin_operator
@@ -52093,8 +52093,8 @@ succumb sciatica love chocolate neptune mars
 1
 4 3
 2
-0 33 15 3
 0 30 2 1
+0 33 15 3
 1
 end_operator
 begin_operator
@@ -52102,8 +52102,8 @@ succumb sciatica love chocolate saturn neptune
 1
 4 3
 2
-0 33 15 3
 0 30 3 2
+0 33 15 3
 1
 end_operator
 begin_operator
@@ -52111,8 +52111,8 @@ succumb sciatica love grapefruit earth saturn
 1
 4 4
 2
-0 33 15 4
 0 30 0 3
+0 33 15 4
 1
 end_operator
 begin_operator
@@ -52120,8 +52120,8 @@ succumb sciatica love grapefruit neptune mars
 1
 4 4
 2
-0 33 15 4
 0 30 2 1
+0 33 15 4
 1
 end_operator
 begin_operator
@@ -52129,8 +52129,8 @@ succumb sciatica love grapefruit saturn neptune
 1
 4 4
 2
-0 33 15 4
 0 30 3 2
+0 33 15 4
 1
 end_operator
 begin_operator
@@ -52138,8 +52138,8 @@ succumb sciatica love ham earth saturn
 1
 4 5
 2
-0 33 15 5
 0 30 0 3
+0 33 15 5
 1
 end_operator
 begin_operator
@@ -52147,8 +52147,8 @@ succumb sciatica love ham neptune mars
 1
 4 5
 2
-0 33 15 5
 0 30 2 1
+0 33 15 5
 1
 end_operator
 begin_operator
@@ -52156,8 +52156,8 @@ succumb sciatica love ham saturn neptune
 1
 4 5
 2
-0 33 15 5
 0 30 3 2
+0 33 15 5
 1
 end_operator
 begin_operator
@@ -52165,8 +52165,8 @@ succumb sciatica love haroset earth saturn
 1
 4 6
 2
-0 33 15 6
 0 30 0 3
+0 33 15 6
 1
 end_operator
 begin_operator
@@ -52174,8 +52174,8 @@ succumb sciatica love haroset neptune mars
 1
 4 6
 2
-0 33 15 6
 0 30 2 1
+0 33 15 6
 1
 end_operator
 begin_operator
@@ -52183,8 +52183,8 @@ succumb sciatica love haroset saturn neptune
 1
 4 6
 2
-0 33 15 6
 0 30 3 2
+0 33 15 6
 1
 end_operator
 begin_operator
@@ -52192,8 +52192,8 @@ succumb sciatica love lemon earth saturn
 1
 4 7
 2
-0 33 15 7
 0 30 0 3
+0 33 15 7
 1
 end_operator
 begin_operator
@@ -52201,8 +52201,8 @@ succumb sciatica love lemon neptune mars
 1
 4 7
 2
-0 33 15 7
 0 30 2 1
+0 33 15 7
 1
 end_operator
 begin_operator
@@ -52210,8 +52210,8 @@ succumb sciatica love lemon saturn neptune
 1
 4 7
 2
-0 33 15 7
 0 30 3 2
+0 33 15 7
 1
 end_operator
 begin_operator
@@ -52219,8 +52219,8 @@ succumb sciatica love muffin earth saturn
 1
 4 8
 2
-0 33 15 8
 0 30 0 3
+0 33 15 8
 1
 end_operator
 begin_operator
@@ -52228,8 +52228,8 @@ succumb sciatica love muffin neptune mars
 1
 4 8
 2
-0 33 15 8
 0 30 2 1
+0 33 15 8
 1
 end_operator
 begin_operator
@@ -52237,8 +52237,8 @@ succumb sciatica love muffin saturn neptune
 1
 4 8
 2
-0 33 15 8
 0 30 3 2
+0 33 15 8
 1
 end_operator
 begin_operator
@@ -52246,8 +52246,8 @@ succumb sciatica love pistachio earth saturn
 1
 4 9
 2
-0 33 15 9
 0 30 0 3
+0 33 15 9
 1
 end_operator
 begin_operator
@@ -52255,8 +52255,8 @@ succumb sciatica love pistachio neptune mars
 1
 4 9
 2
-0 33 15 9
 0 30 2 1
+0 33 15 9
 1
 end_operator
 begin_operator
@@ -52264,8 +52264,8 @@ succumb sciatica love pistachio saturn neptune
 1
 4 9
 2
-0 33 15 9
 0 30 3 2
+0 33 15 9
 1
 end_operator
 begin_operator
@@ -52273,8 +52273,8 @@ succumb sciatica love snickers earth saturn
 1
 4 10
 2
-0 33 15 10
 0 30 0 3
+0 33 15 10
 1
 end_operator
 begin_operator
@@ -52282,8 +52282,8 @@ succumb sciatica love snickers neptune mars
 1
 4 10
 2
-0 33 15 10
 0 30 2 1
+0 33 15 10
 1
 end_operator
 begin_operator
@@ -52291,8 +52291,8 @@ succumb sciatica love snickers saturn neptune
 1
 4 10
 2
-0 33 15 10
 0 30 3 2
+0 33 15 10
 1
 end_operator
 begin_operator
@@ -52300,8 +52300,8 @@ succumb sciatica rest bacon earth saturn
 1
 5 0
 2
-0 33 16 0
 0 31 0 3
+0 33 16 0
 1
 end_operator
 begin_operator
@@ -52309,8 +52309,8 @@ succumb sciatica rest bacon neptune mars
 1
 5 0
 2
-0 33 16 0
 0 31 2 1
+0 33 16 0
 1
 end_operator
 begin_operator
@@ -52318,8 +52318,8 @@ succumb sciatica rest bacon saturn neptune
 1
 5 0
 2
-0 33 16 0
 0 31 3 2
+0 33 16 0
 1
 end_operator
 begin_operator
@@ -52327,8 +52327,8 @@ succumb sciatica rest cantelope earth saturn
 1
 5 1
 2
-0 33 16 1
 0 31 0 3
+0 33 16 1
 1
 end_operator
 begin_operator
@@ -52336,8 +52336,8 @@ succumb sciatica rest cantelope neptune mars
 1
 5 1
 2
-0 33 16 1
 0 31 2 1
+0 33 16 1
 1
 end_operator
 begin_operator
@@ -52345,8 +52345,8 @@ succumb sciatica rest cantelope saturn neptune
 1
 5 1
 2
-0 33 16 1
 0 31 3 2
+0 33 16 1
 1
 end_operator
 begin_operator
@@ -52354,8 +52354,8 @@ succumb sciatica rest chicken earth saturn
 1
 5 2
 2
-0 33 16 2
 0 31 0 3
+0 33 16 2
 1
 end_operator
 begin_operator
@@ -52363,8 +52363,8 @@ succumb sciatica rest chicken neptune mars
 1
 5 2
 2
-0 33 16 2
 0 31 2 1
+0 33 16 2
 1
 end_operator
 begin_operator
@@ -52372,8 +52372,8 @@ succumb sciatica rest chicken saturn neptune
 1
 5 2
 2
-0 33 16 2
 0 31 3 2
+0 33 16 2
 1
 end_operator
 begin_operator
@@ -52381,8 +52381,8 @@ succumb sciatica rest chocolate earth saturn
 1
 5 3
 2
-0 33 16 3
 0 31 0 3
+0 33 16 3
 1
 end_operator
 begin_operator
@@ -52390,8 +52390,8 @@ succumb sciatica rest chocolate neptune mars
 1
 5 3
 2
-0 33 16 3
 0 31 2 1
+0 33 16 3
 1
 end_operator
 begin_operator
@@ -52399,8 +52399,8 @@ succumb sciatica rest chocolate saturn neptune
 1
 5 3
 2
-0 33 16 3
 0 31 3 2
+0 33 16 3
 1
 end_operator
 begin_operator
@@ -52408,8 +52408,8 @@ succumb sciatica rest grapefruit earth saturn
 1
 5 4
 2
-0 33 16 4
 0 31 0 3
+0 33 16 4
 1
 end_operator
 begin_operator
@@ -52417,8 +52417,8 @@ succumb sciatica rest grapefruit neptune mars
 1
 5 4
 2
-0 33 16 4
 0 31 2 1
+0 33 16 4
 1
 end_operator
 begin_operator
@@ -52426,8 +52426,8 @@ succumb sciatica rest grapefruit saturn neptune
 1
 5 4
 2
-0 33 16 4
 0 31 3 2
+0 33 16 4
 1
 end_operator
 begin_operator
@@ -52435,8 +52435,8 @@ succumb sciatica rest ham earth saturn
 1
 5 5
 2
-0 33 16 5
 0 31 0 3
+0 33 16 5
 1
 end_operator
 begin_operator
@@ -52444,8 +52444,8 @@ succumb sciatica rest ham neptune mars
 1
 5 5
 2
-0 33 16 5
 0 31 2 1
+0 33 16 5
 1
 end_operator
 begin_operator
@@ -52453,8 +52453,8 @@ succumb sciatica rest ham saturn neptune
 1
 5 5
 2
-0 33 16 5
 0 31 3 2
+0 33 16 5
 1
 end_operator
 begin_operator
@@ -52462,8 +52462,8 @@ succumb sciatica rest haroset earth saturn
 1
 5 6
 2
-0 33 16 6
 0 31 0 3
+0 33 16 6
 1
 end_operator
 begin_operator
@@ -52471,8 +52471,8 @@ succumb sciatica rest haroset neptune mars
 1
 5 6
 2
-0 33 16 6
 0 31 2 1
+0 33 16 6
 1
 end_operator
 begin_operator
@@ -52480,8 +52480,8 @@ succumb sciatica rest haroset saturn neptune
 1
 5 6
 2
-0 33 16 6
 0 31 3 2
+0 33 16 6
 1
 end_operator
 begin_operator
@@ -52489,8 +52489,8 @@ succumb sciatica rest lemon earth saturn
 1
 5 7
 2
-0 33 16 7
 0 31 0 3
+0 33 16 7
 1
 end_operator
 begin_operator
@@ -52498,8 +52498,8 @@ succumb sciatica rest lemon neptune mars
 1
 5 7
 2
-0 33 16 7
 0 31 2 1
+0 33 16 7
 1
 end_operator
 begin_operator
@@ -52507,8 +52507,8 @@ succumb sciatica rest lemon saturn neptune
 1
 5 7
 2
-0 33 16 7
 0 31 3 2
+0 33 16 7
 1
 end_operator
 begin_operator
@@ -52516,8 +52516,8 @@ succumb sciatica rest muffin earth saturn
 1
 5 8
 2
-0 33 16 8
 0 31 0 3
+0 33 16 8
 1
 end_operator
 begin_operator
@@ -52525,8 +52525,8 @@ succumb sciatica rest muffin neptune mars
 1
 5 8
 2
-0 33 16 8
 0 31 2 1
+0 33 16 8
 1
 end_operator
 begin_operator
@@ -52534,8 +52534,8 @@ succumb sciatica rest muffin saturn neptune
 1
 5 8
 2
-0 33 16 8
 0 31 3 2
+0 33 16 8
 1
 end_operator
 begin_operator
@@ -52543,8 +52543,8 @@ succumb sciatica rest pistachio earth saturn
 1
 5 9
 2
-0 33 16 9
 0 31 0 3
+0 33 16 9
 1
 end_operator
 begin_operator
@@ -52552,8 +52552,8 @@ succumb sciatica rest pistachio neptune mars
 1
 5 9
 2
-0 33 16 9
 0 31 2 1
+0 33 16 9
 1
 end_operator
 begin_operator
@@ -52561,8 +52561,8 @@ succumb sciatica rest pistachio saturn neptune
 1
 5 9
 2
-0 33 16 9
 0 31 3 2
+0 33 16 9
 1
 end_operator
 begin_operator
@@ -52570,8 +52570,8 @@ succumb sciatica rest snickers earth saturn
 1
 5 10
 2
-0 33 16 10
 0 31 0 3
+0 33 16 10
 1
 end_operator
 begin_operator
@@ -52579,8 +52579,8 @@ succumb sciatica rest snickers neptune mars
 1
 5 10
 2
-0 33 16 10
 0 31 2 1
+0 33 16 10
 1
 end_operator
 begin_operator
@@ -52588,8 +52588,8 @@ succumb sciatica rest snickers saturn neptune
 1
 5 10
 2
-0 33 16 10
 0 31 3 2
+0 33 16 10
 1
 end_operator
 begin_operator

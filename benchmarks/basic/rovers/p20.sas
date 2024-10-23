@@ -18531,8 +18531,8 @@ sample_rock rover2 rover2store waypoint21
 1
 64 14
 2
-0 167 0 1
 0 165 0 1
+0 167 0 1
 1
 end_operator
 begin_operator
@@ -18549,8 +18549,8 @@ sample_rock rover2 rover2store waypoint7
 1
 64 22
 2
-0 168 0 1
 0 165 0 1
+0 168 0 1
 1
 end_operator
 begin_operator
@@ -18558,8 +18558,8 @@ sample_rock rover2 rover2store waypoint9
 1
 64 24
 2
-0 171 0 1
 0 165 0 1
+0 171 0 1
 1
 end_operator
 begin_operator
@@ -18612,8 +18612,8 @@ sample_rock rover3 rover3store waypoint21
 1
 63 14
 2
-0 167 0 2
 0 166 0 1
+0 167 0 2
 1
 end_operator
 begin_operator
@@ -18630,8 +18630,8 @@ sample_rock rover3 rover3store waypoint7
 1
 63 22
 2
-0 168 0 2
 0 166 0 1
+0 168 0 2
 1
 end_operator
 begin_operator
@@ -18639,8 +18639,8 @@ sample_rock rover3 rover3store waypoint9
 1
 63 24
 2
-0 171 0 2
 0 166 0 1
+0 171 0 2
 1
 end_operator
 begin_operator
@@ -18720,8 +18720,8 @@ sample_rock rover4 rover4store waypoint9
 1
 37 24
 2
-0 171 0 3
 0 169 0 1
+0 171 0 3
 1
 end_operator
 begin_operator
@@ -18792,8 +18792,8 @@ sample_rock rover7 rover7store waypoint9
 1
 0 23
 2
-0 171 0 4
 0 170 0 1
+0 171 0 4
 1
 end_operator
 begin_operator
@@ -18909,8 +18909,8 @@ sample_soil rover0 rover0store waypoint8
 1
 109 23
 2
-0 158 0 1
 0 156 0 1
+0 158 0 1
 1
 end_operator
 begin_operator
@@ -18918,8 +18918,8 @@ sample_soil rover0 rover0store waypoint9
 1
 109 24
 2
-0 159 0 1
 0 156 0 1
+0 159 0 1
 1
 end_operator
 begin_operator
@@ -19161,8 +19161,8 @@ sample_soil rover6 rover6store waypoint8
 1
 1 23
 2
-0 158 0 3
 0 157 0 1
+0 158 0 3
 1
 end_operator
 begin_operator
@@ -19170,8 +19170,8 @@ sample_soil rover6 rover6store waypoint9
 1
 1 24
 2
-0 159 0 3
 0 157 0 1
+0 159 0 3
 1
 end_operator
 begin_operator

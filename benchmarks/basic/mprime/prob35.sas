@@ -7250,8 +7250,8 @@ overcome depression empathy arugula earth mars
 1
 0 0
 2
-0 13 0 6
 0 10 2 0
+0 13 0 6
 1
 end_operator
 begin_operator
@@ -7259,8 +7259,8 @@ overcome depression empathy arugula mars jupiter
 1
 0 0
 2
-0 13 0 6
 0 10 1 2
+0 13 0 6
 1
 end_operator
 begin_operator
@@ -7268,8 +7268,8 @@ overcome depression empathy arugula uranus earth
 1
 0 0
 2
-0 13 0 6
 0 10 0 3
+0 13 0 6
 1
 end_operator
 begin_operator
@@ -7277,8 +7277,8 @@ overcome depression empathy chicken earth mars
 1
 0 1
 2
-0 13 1 6
 0 10 2 0
+0 13 1 6
 1
 end_operator
 begin_operator
@@ -7286,8 +7286,8 @@ overcome depression empathy chicken mars jupiter
 1
 0 1
 2
-0 13 1 6
 0 10 1 2
+0 13 1 6
 1
 end_operator
 begin_operator
@@ -7295,8 +7295,8 @@ overcome depression empathy chicken uranus earth
 1
 0 1
 2
-0 13 1 6
 0 10 0 3
+0 13 1 6
 1
 end_operator
 begin_operator
@@ -7304,8 +7304,8 @@ overcome depression empathy ham earth mars
 1
 0 2
 2
-0 13 2 6
 0 10 2 0
+0 13 2 6
 1
 end_operator
 begin_operator
@@ -7313,8 +7313,8 @@ overcome depression empathy ham mars jupiter
 1
 0 2
 2
-0 13 2 6
 0 10 1 2
+0 13 2 6
 1
 end_operator
 begin_operator
@@ -7322,8 +7322,8 @@ overcome depression empathy ham uranus earth
 1
 0 2
 2
-0 13 2 6
 0 10 0 3
+0 13 2 6
 1
 end_operator
 begin_operator
@@ -7331,8 +7331,8 @@ overcome depression empathy marzipan earth mars
 1
 0 3
 2
-0 13 3 6
 0 10 2 0
+0 13 3 6
 1
 end_operator
 begin_operator
@@ -7340,8 +7340,8 @@ overcome depression empathy marzipan mars jupiter
 1
 0 3
 2
-0 13 3 6
 0 10 1 2
+0 13 3 6
 1
 end_operator
 begin_operator
@@ -7349,8 +7349,8 @@ overcome depression empathy marzipan uranus earth
 1
 0 3
 2
-0 13 3 6
 0 10 0 3
+0 13 3 6
 1
 end_operator
 begin_operator
@@ -7358,8 +7358,8 @@ overcome depression empathy snickers earth mars
 1
 0 4
 2
-0 13 4 6
 0 10 2 0
+0 13 4 6
 1
 end_operator
 begin_operator
@@ -7367,8 +7367,8 @@ overcome depression empathy snickers mars jupiter
 1
 0 4
 2
-0 13 4 6
 0 10 1 2
+0 13 4 6
 1
 end_operator
 begin_operator
@@ -7376,8 +7376,8 @@ overcome depression empathy snickers uranus earth
 1
 0 4
 2
-0 13 4 6
 0 10 0 3
+0 13 4 6
 1
 end_operator
 begin_operator
@@ -7385,8 +7385,8 @@ overcome depression empathy tofu earth mars
 1
 0 5
 2
-0 13 5 6
 0 10 2 0
+0 13 5 6
 1
 end_operator
 begin_operator
@@ -7394,8 +7394,8 @@ overcome depression empathy tofu mars jupiter
 1
 0 5
 2
-0 13 5 6
 0 10 1 2
+0 13 5 6
 1
 end_operator
 begin_operator
@@ -7403,8 +7403,8 @@ overcome depression empathy tofu uranus earth
 1
 0 5
 2
-0 13 5 6
 0 10 0 3
+0 13 5 6
 1
 end_operator
 begin_operator
@@ -7412,8 +7412,8 @@ overcome depression excitement arugula earth mars
 1
 1 0
 2
-0 13 0 7
 0 11 2 0
+0 13 0 7
 1
 end_operator
 begin_operator
@@ -7421,8 +7421,8 @@ overcome depression excitement arugula mars jupiter
 1
 1 0
 2
-0 13 0 7
 0 11 1 2
+0 13 0 7
 1
 end_operator
 begin_operator
@@ -7430,8 +7430,8 @@ overcome depression excitement arugula uranus earth
 1
 1 0
 2
-0 13 0 7
 0 11 0 3
+0 13 0 7
 1
 end_operator
 begin_operator
@@ -7439,8 +7439,8 @@ overcome depression excitement chicken earth mars
 1
 1 1
 2
-0 13 1 7
 0 11 2 0
+0 13 1 7
 1
 end_operator
 begin_operator
@@ -7448,8 +7448,8 @@ overcome depression excitement chicken mars jupiter
 1
 1 1
 2
-0 13 1 7
 0 11 1 2
+0 13 1 7
 1
 end_operator
 begin_operator
@@ -7457,8 +7457,8 @@ overcome depression excitement chicken uranus earth
 1
 1 1
 2
-0 13 1 7
 0 11 0 3
+0 13 1 7
 1
 end_operator
 begin_operator
@@ -7466,8 +7466,8 @@ overcome depression excitement ham earth mars
 1
 1 2
 2
-0 13 2 7
 0 11 2 0
+0 13 2 7
 1
 end_operator
 begin_operator
@@ -7475,8 +7475,8 @@ overcome depression excitement ham mars jupiter
 1
 1 2
 2
-0 13 2 7
 0 11 1 2
+0 13 2 7
 1
 end_operator
 begin_operator
@@ -7484,8 +7484,8 @@ overcome depression excitement ham uranus earth
 1
 1 2
 2
-0 13 2 7
 0 11 0 3
+0 13 2 7
 1
 end_operator
 begin_operator
@@ -7493,8 +7493,8 @@ overcome depression excitement marzipan earth mars
 1
 1 3
 2
-0 13 3 7
 0 11 2 0
+0 13 3 7
 1
 end_operator
 begin_operator
@@ -7502,8 +7502,8 @@ overcome depression excitement marzipan mars jupiter
 1
 1 3
 2
-0 13 3 7
 0 11 1 2
+0 13 3 7
 1
 end_operator
 begin_operator
@@ -7511,8 +7511,8 @@ overcome depression excitement marzipan uranus earth
 1
 1 3
 2
-0 13 3 7
 0 11 0 3
+0 13 3 7
 1
 end_operator
 begin_operator
@@ -7520,8 +7520,8 @@ overcome depression excitement snickers earth mars
 1
 1 4
 2
-0 13 4 7
 0 11 2 0
+0 13 4 7
 1
 end_operator
 begin_operator
@@ -7529,8 +7529,8 @@ overcome depression excitement snickers mars jupiter
 1
 1 4
 2
-0 13 4 7
 0 11 1 2
+0 13 4 7
 1
 end_operator
 begin_operator
@@ -7538,8 +7538,8 @@ overcome depression excitement snickers uranus earth
 1
 1 4
 2
-0 13 4 7
 0 11 0 3
+0 13 4 7
 1
 end_operator
 begin_operator
@@ -7547,8 +7547,8 @@ overcome depression excitement tofu earth mars
 1
 1 5
 2
-0 13 5 7
 0 11 2 0
+0 13 5 7
 1
 end_operator
 begin_operator
@@ -7556,8 +7556,8 @@ overcome depression excitement tofu mars jupiter
 1
 1 5
 2
-0 13 5 7
 0 11 1 2
+0 13 5 7
 1
 end_operator
 begin_operator
@@ -7565,8 +7565,8 @@ overcome depression excitement tofu uranus earth
 1
 1 5
 2
-0 13 5 7
 0 11 0 3
+0 13 5 7
 1
 end_operator
 begin_operator
@@ -7574,8 +7574,8 @@ overcome depression intoxication arugula earth mars
 1
 2 0
 2
-0 13 0 8
 0 12 2 0
+0 13 0 8
 1
 end_operator
 begin_operator
@@ -7583,8 +7583,8 @@ overcome depression intoxication arugula mars jupiter
 1
 2 0
 2
-0 13 0 8
 0 12 1 2
+0 13 0 8
 1
 end_operator
 begin_operator
@@ -7592,8 +7592,8 @@ overcome depression intoxication arugula uranus earth
 1
 2 0
 2
-0 13 0 8
 0 12 0 3
+0 13 0 8
 1
 end_operator
 begin_operator
@@ -7601,8 +7601,8 @@ overcome depression intoxication chicken earth mars
 1
 2 1
 2
-0 13 1 8
 0 12 2 0
+0 13 1 8
 1
 end_operator
 begin_operator
@@ -7610,8 +7610,8 @@ overcome depression intoxication chicken mars jupiter
 1
 2 1
 2
-0 13 1 8
 0 12 1 2
+0 13 1 8
 1
 end_operator
 begin_operator
@@ -7619,8 +7619,8 @@ overcome depression intoxication chicken uranus earth
 1
 2 1
 2
-0 13 1 8
 0 12 0 3
+0 13 1 8
 1
 end_operator
 begin_operator
@@ -7628,8 +7628,8 @@ overcome depression intoxication ham earth mars
 1
 2 2
 2
-0 13 2 8
 0 12 2 0
+0 13 2 8
 1
 end_operator
 begin_operator
@@ -7637,8 +7637,8 @@ overcome depression intoxication ham mars jupiter
 1
 2 2
 2
-0 13 2 8
 0 12 1 2
+0 13 2 8
 1
 end_operator
 begin_operator
@@ -7646,8 +7646,8 @@ overcome depression intoxication ham uranus earth
 1
 2 2
 2
-0 13 2 8
 0 12 0 3
+0 13 2 8
 1
 end_operator
 begin_operator
@@ -7655,8 +7655,8 @@ overcome depression intoxication marzipan earth mars
 1
 2 3
 2
-0 13 3 8
 0 12 2 0
+0 13 3 8
 1
 end_operator
 begin_operator
@@ -7664,8 +7664,8 @@ overcome depression intoxication marzipan mars jupiter
 1
 2 3
 2
-0 13 3 8
 0 12 1 2
+0 13 3 8
 1
 end_operator
 begin_operator
@@ -7673,8 +7673,8 @@ overcome depression intoxication marzipan uranus earth
 1
 2 3
 2
-0 13 3 8
 0 12 0 3
+0 13 3 8
 1
 end_operator
 begin_operator
@@ -7682,8 +7682,8 @@ overcome depression intoxication snickers earth mars
 1
 2 4
 2
-0 13 4 8
 0 12 2 0
+0 13 4 8
 1
 end_operator
 begin_operator
@@ -7691,8 +7691,8 @@ overcome depression intoxication snickers mars jupiter
 1
 2 4
 2
-0 13 4 8
 0 12 1 2
+0 13 4 8
 1
 end_operator
 begin_operator
@@ -7700,8 +7700,8 @@ overcome depression intoxication snickers uranus earth
 1
 2 4
 2
-0 13 4 8
 0 12 0 3
+0 13 4 8
 1
 end_operator
 begin_operator
@@ -7709,8 +7709,8 @@ overcome depression intoxication tofu earth mars
 1
 2 5
 2
-0 13 5 8
 0 12 2 0
+0 13 5 8
 1
 end_operator
 begin_operator
@@ -7718,8 +7718,8 @@ overcome depression intoxication tofu mars jupiter
 1
 2 5
 2
-0 13 5 8
 0 12 1 2
+0 13 5 8
 1
 end_operator
 begin_operator
@@ -7727,8 +7727,8 @@ overcome depression intoxication tofu uranus earth
 1
 2 5
 2
-0 13 5 8
 0 12 0 3
+0 13 5 8
 1
 end_operator
 begin_operator
@@ -7898,8 +7898,8 @@ overcome sciatica empathy arugula earth mars
 1
 0 0
 2
-0 15 0 6
 0 10 2 0
+0 15 0 6
 1
 end_operator
 begin_operator
@@ -7907,8 +7907,8 @@ overcome sciatica empathy arugula mars jupiter
 1
 0 0
 2
-0 15 0 6
 0 10 1 2
+0 15 0 6
 1
 end_operator
 begin_operator
@@ -7916,8 +7916,8 @@ overcome sciatica empathy arugula uranus earth
 1
 0 0
 2
-0 15 0 6
 0 10 0 3
+0 15 0 6
 1
 end_operator
 begin_operator
@@ -7925,8 +7925,8 @@ overcome sciatica empathy chicken earth mars
 1
 0 1
 2
-0 15 1 6
 0 10 2 0
+0 15 1 6
 1
 end_operator
 begin_operator
@@ -7934,8 +7934,8 @@ overcome sciatica empathy chicken mars jupiter
 1
 0 1
 2
-0 15 1 6
 0 10 1 2
+0 15 1 6
 1
 end_operator
 begin_operator
@@ -7943,8 +7943,8 @@ overcome sciatica empathy chicken uranus earth
 1
 0 1
 2
-0 15 1 6
 0 10 0 3
+0 15 1 6
 1
 end_operator
 begin_operator
@@ -7952,8 +7952,8 @@ overcome sciatica empathy ham earth mars
 1
 0 2
 2
-0 15 2 6
 0 10 2 0
+0 15 2 6
 1
 end_operator
 begin_operator
@@ -7961,8 +7961,8 @@ overcome sciatica empathy ham mars jupiter
 1
 0 2
 2
-0 15 2 6
 0 10 1 2
+0 15 2 6
 1
 end_operator
 begin_operator
@@ -7970,8 +7970,8 @@ overcome sciatica empathy ham uranus earth
 1
 0 2
 2
-0 15 2 6
 0 10 0 3
+0 15 2 6
 1
 end_operator
 begin_operator
@@ -7979,8 +7979,8 @@ overcome sciatica empathy marzipan earth mars
 1
 0 3
 2
-0 15 3 6
 0 10 2 0
+0 15 3 6
 1
 end_operator
 begin_operator
@@ -7988,8 +7988,8 @@ overcome sciatica empathy marzipan mars jupiter
 1
 0 3
 2
-0 15 3 6
 0 10 1 2
+0 15 3 6
 1
 end_operator
 begin_operator
@@ -7997,8 +7997,8 @@ overcome sciatica empathy marzipan uranus earth
 1
 0 3
 2
-0 15 3 6
 0 10 0 3
+0 15 3 6
 1
 end_operator
 begin_operator
@@ -8006,8 +8006,8 @@ overcome sciatica empathy snickers earth mars
 1
 0 4
 2
-0 15 4 6
 0 10 2 0
+0 15 4 6
 1
 end_operator
 begin_operator
@@ -8015,8 +8015,8 @@ overcome sciatica empathy snickers mars jupiter
 1
 0 4
 2
-0 15 4 6
 0 10 1 2
+0 15 4 6
 1
 end_operator
 begin_operator
@@ -8024,8 +8024,8 @@ overcome sciatica empathy snickers uranus earth
 1
 0 4
 2
-0 15 4 6
 0 10 0 3
+0 15 4 6
 1
 end_operator
 begin_operator
@@ -8033,8 +8033,8 @@ overcome sciatica empathy tofu earth mars
 1
 0 5
 2
-0 15 5 6
 0 10 2 0
+0 15 5 6
 1
 end_operator
 begin_operator
@@ -8042,8 +8042,8 @@ overcome sciatica empathy tofu mars jupiter
 1
 0 5
 2
-0 15 5 6
 0 10 1 2
+0 15 5 6
 1
 end_operator
 begin_operator
@@ -8051,8 +8051,8 @@ overcome sciatica empathy tofu uranus earth
 1
 0 5
 2
-0 15 5 6
 0 10 0 3
+0 15 5 6
 1
 end_operator
 begin_operator
@@ -8060,8 +8060,8 @@ overcome sciatica excitement arugula earth mars
 1
 1 0
 2
-0 15 0 7
 0 11 2 0
+0 15 0 7
 1
 end_operator
 begin_operator
@@ -8069,8 +8069,8 @@ overcome sciatica excitement arugula mars jupiter
 1
 1 0
 2
-0 15 0 7
 0 11 1 2
+0 15 0 7
 1
 end_operator
 begin_operator
@@ -8078,8 +8078,8 @@ overcome sciatica excitement arugula uranus earth
 1
 1 0
 2
-0 15 0 7
 0 11 0 3
+0 15 0 7
 1
 end_operator
 begin_operator
@@ -8087,8 +8087,8 @@ overcome sciatica excitement chicken earth mars
 1
 1 1
 2
-0 15 1 7
 0 11 2 0
+0 15 1 7
 1
 end_operator
 begin_operator
@@ -8096,8 +8096,8 @@ overcome sciatica excitement chicken mars jupiter
 1
 1 1
 2
-0 15 1 7
 0 11 1 2
+0 15 1 7
 1
 end_operator
 begin_operator
@@ -8105,8 +8105,8 @@ overcome sciatica excitement chicken uranus earth
 1
 1 1
 2
-0 15 1 7
 0 11 0 3
+0 15 1 7
 1
 end_operator
 begin_operator
@@ -8114,8 +8114,8 @@ overcome sciatica excitement ham earth mars
 1
 1 2
 2
-0 15 2 7
 0 11 2 0
+0 15 2 7
 1
 end_operator
 begin_operator
@@ -8123,8 +8123,8 @@ overcome sciatica excitement ham mars jupiter
 1
 1 2
 2
-0 15 2 7
 0 11 1 2
+0 15 2 7
 1
 end_operator
 begin_operator
@@ -8132,8 +8132,8 @@ overcome sciatica excitement ham uranus earth
 1
 1 2
 2
-0 15 2 7
 0 11 0 3
+0 15 2 7
 1
 end_operator
 begin_operator
@@ -8141,8 +8141,8 @@ overcome sciatica excitement marzipan earth mars
 1
 1 3
 2
-0 15 3 7
 0 11 2 0
+0 15 3 7
 1
 end_operator
 begin_operator
@@ -8150,8 +8150,8 @@ overcome sciatica excitement marzipan mars jupiter
 1
 1 3
 2
-0 15 3 7
 0 11 1 2
+0 15 3 7
 1
 end_operator
 begin_operator
@@ -8159,8 +8159,8 @@ overcome sciatica excitement marzipan uranus earth
 1
 1 3
 2
-0 15 3 7
 0 11 0 3
+0 15 3 7
 1
 end_operator
 begin_operator
@@ -8168,8 +8168,8 @@ overcome sciatica excitement snickers earth mars
 1
 1 4
 2
-0 15 4 7
 0 11 2 0
+0 15 4 7
 1
 end_operator
 begin_operator
@@ -8177,8 +8177,8 @@ overcome sciatica excitement snickers mars jupiter
 1
 1 4
 2
-0 15 4 7
 0 11 1 2
+0 15 4 7
 1
 end_operator
 begin_operator
@@ -8186,8 +8186,8 @@ overcome sciatica excitement snickers uranus earth
 1
 1 4
 2
-0 15 4 7
 0 11 0 3
+0 15 4 7
 1
 end_operator
 begin_operator
@@ -8195,8 +8195,8 @@ overcome sciatica excitement tofu earth mars
 1
 1 5
 2
-0 15 5 7
 0 11 2 0
+0 15 5 7
 1
 end_operator
 begin_operator
@@ -8204,8 +8204,8 @@ overcome sciatica excitement tofu mars jupiter
 1
 1 5
 2
-0 15 5 7
 0 11 1 2
+0 15 5 7
 1
 end_operator
 begin_operator
@@ -8213,8 +8213,8 @@ overcome sciatica excitement tofu uranus earth
 1
 1 5
 2
-0 15 5 7
 0 11 0 3
+0 15 5 7
 1
 end_operator
 begin_operator
@@ -8222,8 +8222,8 @@ overcome sciatica intoxication arugula earth mars
 1
 2 0
 2
-0 15 0 8
 0 12 2 0
+0 15 0 8
 1
 end_operator
 begin_operator
@@ -8231,8 +8231,8 @@ overcome sciatica intoxication arugula mars jupiter
 1
 2 0
 2
-0 15 0 8
 0 12 1 2
+0 15 0 8
 1
 end_operator
 begin_operator
@@ -8240,8 +8240,8 @@ overcome sciatica intoxication arugula uranus earth
 1
 2 0
 2
-0 15 0 8
 0 12 0 3
+0 15 0 8
 1
 end_operator
 begin_operator
@@ -8249,8 +8249,8 @@ overcome sciatica intoxication chicken earth mars
 1
 2 1
 2
-0 15 1 8
 0 12 2 0
+0 15 1 8
 1
 end_operator
 begin_operator
@@ -8258,8 +8258,8 @@ overcome sciatica intoxication chicken mars jupiter
 1
 2 1
 2
-0 15 1 8
 0 12 1 2
+0 15 1 8
 1
 end_operator
 begin_operator
@@ -8267,8 +8267,8 @@ overcome sciatica intoxication chicken uranus earth
 1
 2 1
 2
-0 15 1 8
 0 12 0 3
+0 15 1 8
 1
 end_operator
 begin_operator
@@ -8276,8 +8276,8 @@ overcome sciatica intoxication ham earth mars
 1
 2 2
 2
-0 15 2 8
 0 12 2 0
+0 15 2 8
 1
 end_operator
 begin_operator
@@ -8285,8 +8285,8 @@ overcome sciatica intoxication ham mars jupiter
 1
 2 2
 2
-0 15 2 8
 0 12 1 2
+0 15 2 8
 1
 end_operator
 begin_operator
@@ -8294,8 +8294,8 @@ overcome sciatica intoxication ham uranus earth
 1
 2 2
 2
-0 15 2 8
 0 12 0 3
+0 15 2 8
 1
 end_operator
 begin_operator
@@ -8303,8 +8303,8 @@ overcome sciatica intoxication marzipan earth mars
 1
 2 3
 2
-0 15 3 8
 0 12 2 0
+0 15 3 8
 1
 end_operator
 begin_operator
@@ -8312,8 +8312,8 @@ overcome sciatica intoxication marzipan mars jupiter
 1
 2 3
 2
-0 15 3 8
 0 12 1 2
+0 15 3 8
 1
 end_operator
 begin_operator
@@ -8321,8 +8321,8 @@ overcome sciatica intoxication marzipan uranus earth
 1
 2 3
 2
-0 15 3 8
 0 12 0 3
+0 15 3 8
 1
 end_operator
 begin_operator
@@ -8330,8 +8330,8 @@ overcome sciatica intoxication snickers earth mars
 1
 2 4
 2
-0 15 4 8
 0 12 2 0
+0 15 4 8
 1
 end_operator
 begin_operator
@@ -8339,8 +8339,8 @@ overcome sciatica intoxication snickers mars jupiter
 1
 2 4
 2
-0 15 4 8
 0 12 1 2
+0 15 4 8
 1
 end_operator
 begin_operator
@@ -8348,8 +8348,8 @@ overcome sciatica intoxication snickers uranus earth
 1
 2 4
 2
-0 15 4 8
 0 12 0 3
+0 15 4 8
 1
 end_operator
 begin_operator
@@ -8357,8 +8357,8 @@ overcome sciatica intoxication tofu earth mars
 1
 2 5
 2
-0 15 5 8
 0 12 2 0
+0 15 5 8
 1
 end_operator
 begin_operator
@@ -8366,8 +8366,8 @@ overcome sciatica intoxication tofu mars jupiter
 1
 2 5
 2
-0 15 5 8
 0 12 1 2
+0 15 5 8
 1
 end_operator
 begin_operator
@@ -8375,8 +8375,8 @@ overcome sciatica intoxication tofu uranus earth
 1
 2 5
 2
-0 15 5 8
 0 12 0 3
+0 15 5 8
 1
 end_operator
 begin_operator
@@ -8384,8 +8384,8 @@ overcome sciatica love arugula earth mars
 1
 3 0
 2
-0 15 0 9
 0 14 2 0
+0 15 0 9
 1
 end_operator
 begin_operator
@@ -8393,8 +8393,8 @@ overcome sciatica love arugula mars jupiter
 1
 3 0
 2
-0 15 0 9
 0 14 1 2
+0 15 0 9
 1
 end_operator
 begin_operator
@@ -8402,8 +8402,8 @@ overcome sciatica love arugula uranus earth
 1
 3 0
 2
-0 15 0 9
 0 14 0 3
+0 15 0 9
 1
 end_operator
 begin_operator
@@ -8411,8 +8411,8 @@ overcome sciatica love chicken earth mars
 1
 3 1
 2
-0 15 1 9
 0 14 2 0
+0 15 1 9
 1
 end_operator
 begin_operator
@@ -8420,8 +8420,8 @@ overcome sciatica love chicken mars jupiter
 1
 3 1
 2
-0 15 1 9
 0 14 1 2
+0 15 1 9
 1
 end_operator
 begin_operator
@@ -8429,8 +8429,8 @@ overcome sciatica love chicken uranus earth
 1
 3 1
 2
-0 15 1 9
 0 14 0 3
+0 15 1 9
 1
 end_operator
 begin_operator
@@ -8438,8 +8438,8 @@ overcome sciatica love ham earth mars
 1
 3 2
 2
-0 15 2 9
 0 14 2 0
+0 15 2 9
 1
 end_operator
 begin_operator
@@ -8447,8 +8447,8 @@ overcome sciatica love ham mars jupiter
 1
 3 2
 2
-0 15 2 9
 0 14 1 2
+0 15 2 9
 1
 end_operator
 begin_operator
@@ -8456,8 +8456,8 @@ overcome sciatica love ham uranus earth
 1
 3 2
 2
-0 15 2 9
 0 14 0 3
+0 15 2 9
 1
 end_operator
 begin_operator
@@ -8465,8 +8465,8 @@ overcome sciatica love marzipan earth mars
 1
 3 3
 2
-0 15 3 9
 0 14 2 0
+0 15 3 9
 1
 end_operator
 begin_operator
@@ -8474,8 +8474,8 @@ overcome sciatica love marzipan mars jupiter
 1
 3 3
 2
-0 15 3 9
 0 14 1 2
+0 15 3 9
 1
 end_operator
 begin_operator
@@ -8483,8 +8483,8 @@ overcome sciatica love marzipan uranus earth
 1
 3 3
 2
-0 15 3 9
 0 14 0 3
+0 15 3 9
 1
 end_operator
 begin_operator
@@ -8492,8 +8492,8 @@ overcome sciatica love snickers earth mars
 1
 3 4
 2
-0 15 4 9
 0 14 2 0
+0 15 4 9
 1
 end_operator
 begin_operator
@@ -8501,8 +8501,8 @@ overcome sciatica love snickers mars jupiter
 1
 3 4
 2
-0 15 4 9
 0 14 1 2
+0 15 4 9
 1
 end_operator
 begin_operator
@@ -8510,8 +8510,8 @@ overcome sciatica love snickers uranus earth
 1
 3 4
 2
-0 15 4 9
 0 14 0 3
+0 15 4 9
 1
 end_operator
 begin_operator
@@ -8519,8 +8519,8 @@ overcome sciatica love tofu earth mars
 1
 3 5
 2
-0 15 5 9
 0 14 2 0
+0 15 5 9
 1
 end_operator
 begin_operator
@@ -8528,8 +8528,8 @@ overcome sciatica love tofu mars jupiter
 1
 3 5
 2
-0 15 5 9
 0 14 1 2
+0 15 5 9
 1
 end_operator
 begin_operator
@@ -8537,8 +8537,8 @@ overcome sciatica love tofu uranus earth
 1
 3 5
 2
-0 15 5 9
 0 14 0 3
+0 15 5 9
 1
 end_operator
 begin_operator
@@ -8546,8 +8546,8 @@ succumb depression empathy arugula earth mars
 1
 0 0
 2
-0 13 6 0
 0 10 0 2
+0 13 6 0
 1
 end_operator
 begin_operator
@@ -8555,8 +8555,8 @@ succumb depression empathy arugula mars jupiter
 1
 0 0
 2
-0 13 6 0
 0 10 2 1
+0 13 6 0
 1
 end_operator
 begin_operator
@@ -8564,8 +8564,8 @@ succumb depression empathy arugula uranus earth
 1
 0 0
 2
-0 13 6 0
 0 10 3 0
+0 13 6 0
 1
 end_operator
 begin_operator
@@ -8573,8 +8573,8 @@ succumb depression empathy chicken earth mars
 1
 0 1
 2
-0 13 6 1
 0 10 0 2
+0 13 6 1
 1
 end_operator
 begin_operator
@@ -8582,8 +8582,8 @@ succumb depression empathy chicken mars jupiter
 1
 0 1
 2
-0 13 6 1
 0 10 2 1
+0 13 6 1
 1
 end_operator
 begin_operator
@@ -8591,8 +8591,8 @@ succumb depression empathy chicken uranus earth
 1
 0 1
 2
-0 13 6 1
 0 10 3 0
+0 13 6 1
 1
 end_operator
 begin_operator
@@ -8600,8 +8600,8 @@ succumb depression empathy ham earth mars
 1
 0 2
 2
-0 13 6 2
 0 10 0 2
+0 13 6 2
 1
 end_operator
 begin_operator
@@ -8609,8 +8609,8 @@ succumb depression empathy ham mars jupiter
 1
 0 2
 2
-0 13 6 2
 0 10 2 1
+0 13 6 2
 1
 end_operator
 begin_operator
@@ -8618,8 +8618,8 @@ succumb depression empathy ham uranus earth
 1
 0 2
 2
-0 13 6 2
 0 10 3 0
+0 13 6 2
 1
 end_operator
 begin_operator
@@ -8627,8 +8627,8 @@ succumb depression empathy marzipan earth mars
 1
 0 3
 2
-0 13 6 3
 0 10 0 2
+0 13 6 3
 1
 end_operator
 begin_operator
@@ -8636,8 +8636,8 @@ succumb depression empathy marzipan mars jupiter
 1
 0 3
 2
-0 13 6 3
 0 10 2 1
+0 13 6 3
 1
 end_operator
 begin_operator
@@ -8645,8 +8645,8 @@ succumb depression empathy marzipan uranus earth
 1
 0 3
 2
-0 13 6 3
 0 10 3 0
+0 13 6 3
 1
 end_operator
 begin_operator
@@ -8654,8 +8654,8 @@ succumb depression empathy snickers earth mars
 1
 0 4
 2
-0 13 6 4
 0 10 0 2
+0 13 6 4
 1
 end_operator
 begin_operator
@@ -8663,8 +8663,8 @@ succumb depression empathy snickers mars jupiter
 1
 0 4
 2
-0 13 6 4
 0 10 2 1
+0 13 6 4
 1
 end_operator
 begin_operator
@@ -8672,8 +8672,8 @@ succumb depression empathy snickers uranus earth
 1
 0 4
 2
-0 13 6 4
 0 10 3 0
+0 13 6 4
 1
 end_operator
 begin_operator
@@ -8681,8 +8681,8 @@ succumb depression empathy tofu earth mars
 1
 0 5
 2
-0 13 6 5
 0 10 0 2
+0 13 6 5
 1
 end_operator
 begin_operator
@@ -8690,8 +8690,8 @@ succumb depression empathy tofu mars jupiter
 1
 0 5
 2
-0 13 6 5
 0 10 2 1
+0 13 6 5
 1
 end_operator
 begin_operator
@@ -8699,8 +8699,8 @@ succumb depression empathy tofu uranus earth
 1
 0 5
 2
-0 13 6 5
 0 10 3 0
+0 13 6 5
 1
 end_operator
 begin_operator
@@ -8708,8 +8708,8 @@ succumb depression excitement arugula earth mars
 1
 1 0
 2
-0 13 7 0
 0 11 0 2
+0 13 7 0
 1
 end_operator
 begin_operator
@@ -8717,8 +8717,8 @@ succumb depression excitement arugula mars jupiter
 1
 1 0
 2
-0 13 7 0
 0 11 2 1
+0 13 7 0
 1
 end_operator
 begin_operator
@@ -8726,8 +8726,8 @@ succumb depression excitement arugula uranus earth
 1
 1 0
 2
-0 13 7 0
 0 11 3 0
+0 13 7 0
 1
 end_operator
 begin_operator
@@ -8735,8 +8735,8 @@ succumb depression excitement chicken earth mars
 1
 1 1
 2
-0 13 7 1
 0 11 0 2
+0 13 7 1
 1
 end_operator
 begin_operator
@@ -8744,8 +8744,8 @@ succumb depression excitement chicken mars jupiter
 1
 1 1
 2
-0 13 7 1
 0 11 2 1
+0 13 7 1
 1
 end_operator
 begin_operator
@@ -8753,8 +8753,8 @@ succumb depression excitement chicken uranus earth
 1
 1 1
 2
-0 13 7 1
 0 11 3 0
+0 13 7 1
 1
 end_operator
 begin_operator
@@ -8762,8 +8762,8 @@ succumb depression excitement ham earth mars
 1
 1 2
 2
-0 13 7 2
 0 11 0 2
+0 13 7 2
 1
 end_operator
 begin_operator
@@ -8771,8 +8771,8 @@ succumb depression excitement ham mars jupiter
 1
 1 2
 2
-0 13 7 2
 0 11 2 1
+0 13 7 2
 1
 end_operator
 begin_operator
@@ -8780,8 +8780,8 @@ succumb depression excitement ham uranus earth
 1
 1 2
 2
-0 13 7 2
 0 11 3 0
+0 13 7 2
 1
 end_operator
 begin_operator
@@ -8789,8 +8789,8 @@ succumb depression excitement marzipan earth mars
 1
 1 3
 2
-0 13 7 3
 0 11 0 2
+0 13 7 3
 1
 end_operator
 begin_operator
@@ -8798,8 +8798,8 @@ succumb depression excitement marzipan mars jupiter
 1
 1 3
 2
-0 13 7 3
 0 11 2 1
+0 13 7 3
 1
 end_operator
 begin_operator
@@ -8807,8 +8807,8 @@ succumb depression excitement marzipan uranus earth
 1
 1 3
 2
-0 13 7 3
 0 11 3 0
+0 13 7 3
 1
 end_operator
 begin_operator
@@ -8816,8 +8816,8 @@ succumb depression excitement snickers earth mars
 1
 1 4
 2
-0 13 7 4
 0 11 0 2
+0 13 7 4
 1
 end_operator
 begin_operator
@@ -8825,8 +8825,8 @@ succumb depression excitement snickers mars jupiter
 1
 1 4
 2
-0 13 7 4
 0 11 2 1
+0 13 7 4
 1
 end_operator
 begin_operator
@@ -8834,8 +8834,8 @@ succumb depression excitement snickers uranus earth
 1
 1 4
 2
-0 13 7 4
 0 11 3 0
+0 13 7 4
 1
 end_operator
 begin_operator
@@ -8843,8 +8843,8 @@ succumb depression excitement tofu earth mars
 1
 1 5
 2
-0 13 7 5
 0 11 0 2
+0 13 7 5
 1
 end_operator
 begin_operator
@@ -8852,8 +8852,8 @@ succumb depression excitement tofu mars jupiter
 1
 1 5
 2
-0 13 7 5
 0 11 2 1
+0 13 7 5
 1
 end_operator
 begin_operator
@@ -8861,8 +8861,8 @@ succumb depression excitement tofu uranus earth
 1
 1 5
 2
-0 13 7 5
 0 11 3 0
+0 13 7 5
 1
 end_operator
 begin_operator
@@ -8870,8 +8870,8 @@ succumb depression intoxication arugula earth mars
 1
 2 0
 2
-0 13 8 0
 0 12 0 2
+0 13 8 0
 1
 end_operator
 begin_operator
@@ -8879,8 +8879,8 @@ succumb depression intoxication arugula mars jupiter
 1
 2 0
 2
-0 13 8 0
 0 12 2 1
+0 13 8 0
 1
 end_operator
 begin_operator
@@ -8888,8 +8888,8 @@ succumb depression intoxication arugula uranus earth
 1
 2 0
 2
-0 13 8 0
 0 12 3 0
+0 13 8 0
 1
 end_operator
 begin_operator
@@ -8897,8 +8897,8 @@ succumb depression intoxication chicken earth mars
 1
 2 1
 2
-0 13 8 1
 0 12 0 2
+0 13 8 1
 1
 end_operator
 begin_operator
@@ -8906,8 +8906,8 @@ succumb depression intoxication chicken mars jupiter
 1
 2 1
 2
-0 13 8 1
 0 12 2 1
+0 13 8 1
 1
 end_operator
 begin_operator
@@ -8915,8 +8915,8 @@ succumb depression intoxication chicken uranus earth
 1
 2 1
 2
-0 13 8 1
 0 12 3 0
+0 13 8 1
 1
 end_operator
 begin_operator
@@ -8924,8 +8924,8 @@ succumb depression intoxication ham earth mars
 1
 2 2
 2
-0 13 8 2
 0 12 0 2
+0 13 8 2
 1
 end_operator
 begin_operator
@@ -8933,8 +8933,8 @@ succumb depression intoxication ham mars jupiter
 1
 2 2
 2
-0 13 8 2
 0 12 2 1
+0 13 8 2
 1
 end_operator
 begin_operator
@@ -8942,8 +8942,8 @@ succumb depression intoxication ham uranus earth
 1
 2 2
 2
-0 13 8 2
 0 12 3 0
+0 13 8 2
 1
 end_operator
 begin_operator
@@ -8951,8 +8951,8 @@ succumb depression intoxication marzipan earth mars
 1
 2 3
 2
-0 13 8 3
 0 12 0 2
+0 13 8 3
 1
 end_operator
 begin_operator
@@ -8960,8 +8960,8 @@ succumb depression intoxication marzipan mars jupiter
 1
 2 3
 2
-0 13 8 3
 0 12 2 1
+0 13 8 3
 1
 end_operator
 begin_operator
@@ -8969,8 +8969,8 @@ succumb depression intoxication marzipan uranus earth
 1
 2 3
 2
-0 13 8 3
 0 12 3 0
+0 13 8 3
 1
 end_operator
 begin_operator
@@ -8978,8 +8978,8 @@ succumb depression intoxication snickers earth mars
 1
 2 4
 2
-0 13 8 4
 0 12 0 2
+0 13 8 4
 1
 end_operator
 begin_operator
@@ -8987,8 +8987,8 @@ succumb depression intoxication snickers mars jupiter
 1
 2 4
 2
-0 13 8 4
 0 12 2 1
+0 13 8 4
 1
 end_operator
 begin_operator
@@ -8996,8 +8996,8 @@ succumb depression intoxication snickers uranus earth
 1
 2 4
 2
-0 13 8 4
 0 12 3 0
+0 13 8 4
 1
 end_operator
 begin_operator
@@ -9005,8 +9005,8 @@ succumb depression intoxication tofu earth mars
 1
 2 5
 2
-0 13 8 5
 0 12 0 2
+0 13 8 5
 1
 end_operator
 begin_operator
@@ -9014,8 +9014,8 @@ succumb depression intoxication tofu mars jupiter
 1
 2 5
 2
-0 13 8 5
 0 12 2 1
+0 13 8 5
 1
 end_operator
 begin_operator
@@ -9023,8 +9023,8 @@ succumb depression intoxication tofu uranus earth
 1
 2 5
 2
-0 13 8 5
 0 12 3 0
+0 13 8 5
 1
 end_operator
 begin_operator
@@ -9194,8 +9194,8 @@ succumb sciatica empathy arugula earth mars
 1
 0 0
 2
-0 15 6 0
 0 10 0 2
+0 15 6 0
 1
 end_operator
 begin_operator
@@ -9203,8 +9203,8 @@ succumb sciatica empathy arugula mars jupiter
 1
 0 0
 2
-0 15 6 0
 0 10 2 1
+0 15 6 0
 1
 end_operator
 begin_operator
@@ -9212,8 +9212,8 @@ succumb sciatica empathy arugula uranus earth
 1
 0 0
 2
-0 15 6 0
 0 10 3 0
+0 15 6 0
 1
 end_operator
 begin_operator
@@ -9221,8 +9221,8 @@ succumb sciatica empathy chicken earth mars
 1
 0 1
 2
-0 15 6 1
 0 10 0 2
+0 15 6 1
 1
 end_operator
 begin_operator
@@ -9230,8 +9230,8 @@ succumb sciatica empathy chicken mars jupiter
 1
 0 1
 2
-0 15 6 1
 0 10 2 1
+0 15 6 1
 1
 end_operator
 begin_operator
@@ -9239,8 +9239,8 @@ succumb sciatica empathy chicken uranus earth
 1
 0 1
 2
-0 15 6 1
 0 10 3 0
+0 15 6 1
 1
 end_operator
 begin_operator
@@ -9248,8 +9248,8 @@ succumb sciatica empathy ham earth mars
 1
 0 2
 2
-0 15 6 2
 0 10 0 2
+0 15 6 2
 1
 end_operator
 begin_operator
@@ -9257,8 +9257,8 @@ succumb sciatica empathy ham mars jupiter
 1
 0 2
 2
-0 15 6 2
 0 10 2 1
+0 15 6 2
 1
 end_operator
 begin_operator
@@ -9266,8 +9266,8 @@ succumb sciatica empathy ham uranus earth
 1
 0 2
 2
-0 15 6 2
 0 10 3 0
+0 15 6 2
 1
 end_operator
 begin_operator
@@ -9275,8 +9275,8 @@ succumb sciatica empathy marzipan earth mars
 1
 0 3
 2
-0 15 6 3
 0 10 0 2
+0 15 6 3
 1
 end_operator
 begin_operator
@@ -9284,8 +9284,8 @@ succumb sciatica empathy marzipan mars jupiter
 1
 0 3
 2
-0 15 6 3
 0 10 2 1
+0 15 6 3
 1
 end_operator
 begin_operator
@@ -9293,8 +9293,8 @@ succumb sciatica empathy marzipan uranus earth
 1
 0 3
 2
-0 15 6 3
 0 10 3 0
+0 15 6 3
 1
 end_operator
 begin_operator
@@ -9302,8 +9302,8 @@ succumb sciatica empathy snickers earth mars
 1
 0 4
 2
-0 15 6 4
 0 10 0 2
+0 15 6 4
 1
 end_operator
 begin_operator
@@ -9311,8 +9311,8 @@ succumb sciatica empathy snickers mars jupiter
 1
 0 4
 2
-0 15 6 4
 0 10 2 1
+0 15 6 4
 1
 end_operator
 begin_operator
@@ -9320,8 +9320,8 @@ succumb sciatica empathy snickers uranus earth
 1
 0 4
 2
-0 15 6 4
 0 10 3 0
+0 15 6 4
 1
 end_operator
 begin_operator
@@ -9329,8 +9329,8 @@ succumb sciatica empathy tofu earth mars
 1
 0 5
 2
-0 15 6 5
 0 10 0 2
+0 15 6 5
 1
 end_operator
 begin_operator
@@ -9338,8 +9338,8 @@ succumb sciatica empathy tofu mars jupiter
 1
 0 5
 2
-0 15 6 5
 0 10 2 1
+0 15 6 5
 1
 end_operator
 begin_operator
@@ -9347,8 +9347,8 @@ succumb sciatica empathy tofu uranus earth
 1
 0 5
 2
-0 15 6 5
 0 10 3 0
+0 15 6 5
 1
 end_operator
 begin_operator
@@ -9356,8 +9356,8 @@ succumb sciatica excitement arugula earth mars
 1
 1 0
 2
-0 15 7 0
 0 11 0 2
+0 15 7 0
 1
 end_operator
 begin_operator
@@ -9365,8 +9365,8 @@ succumb sciatica excitement arugula mars jupiter
 1
 1 0
 2
-0 15 7 0
 0 11 2 1
+0 15 7 0
 1
 end_operator
 begin_operator
@@ -9374,8 +9374,8 @@ succumb sciatica excitement arugula uranus earth
 1
 1 0
 2
-0 15 7 0
 0 11 3 0
+0 15 7 0
 1
 end_operator
 begin_operator
@@ -9383,8 +9383,8 @@ succumb sciatica excitement chicken earth mars
 1
 1 1
 2
-0 15 7 1
 0 11 0 2
+0 15 7 1
 1
 end_operator
 begin_operator
@@ -9392,8 +9392,8 @@ succumb sciatica excitement chicken mars jupiter
 1
 1 1
 2
-0 15 7 1
 0 11 2 1
+0 15 7 1
 1
 end_operator
 begin_operator
@@ -9401,8 +9401,8 @@ succumb sciatica excitement chicken uranus earth
 1
 1 1
 2
-0 15 7 1
 0 11 3 0
+0 15 7 1
 1
 end_operator
 begin_operator
@@ -9410,8 +9410,8 @@ succumb sciatica excitement ham earth mars
 1
 1 2
 2
-0 15 7 2
 0 11 0 2
+0 15 7 2
 1
 end_operator
 begin_operator
@@ -9419,8 +9419,8 @@ succumb sciatica excitement ham mars jupiter
 1
 1 2
 2
-0 15 7 2
 0 11 2 1
+0 15 7 2
 1
 end_operator
 begin_operator
@@ -9428,8 +9428,8 @@ succumb sciatica excitement ham uranus earth
 1
 1 2
 2
-0 15 7 2
 0 11 3 0
+0 15 7 2
 1
 end_operator
 begin_operator
@@ -9437,8 +9437,8 @@ succumb sciatica excitement marzipan earth mars
 1
 1 3
 2
-0 15 7 3
 0 11 0 2
+0 15 7 3
 1
 end_operator
 begin_operator
@@ -9446,8 +9446,8 @@ succumb sciatica excitement marzipan mars jupiter
 1
 1 3
 2
-0 15 7 3
 0 11 2 1
+0 15 7 3
 1
 end_operator
 begin_operator
@@ -9455,8 +9455,8 @@ succumb sciatica excitement marzipan uranus earth
 1
 1 3
 2
-0 15 7 3
 0 11 3 0
+0 15 7 3
 1
 end_operator
 begin_operator
@@ -9464,8 +9464,8 @@ succumb sciatica excitement snickers earth mars
 1
 1 4
 2
-0 15 7 4
 0 11 0 2
+0 15 7 4
 1
 end_operator
 begin_operator
@@ -9473,8 +9473,8 @@ succumb sciatica excitement snickers mars jupiter
 1
 1 4
 2
-0 15 7 4
 0 11 2 1
+0 15 7 4
 1
 end_operator
 begin_operator
@@ -9482,8 +9482,8 @@ succumb sciatica excitement snickers uranus earth
 1
 1 4
 2
-0 15 7 4
 0 11 3 0
+0 15 7 4
 1
 end_operator
 begin_operator
@@ -9491,8 +9491,8 @@ succumb sciatica excitement tofu earth mars
 1
 1 5
 2
-0 15 7 5
 0 11 0 2
+0 15 7 5
 1
 end_operator
 begin_operator
@@ -9500,8 +9500,8 @@ succumb sciatica excitement tofu mars jupiter
 1
 1 5
 2
-0 15 7 5
 0 11 2 1
+0 15 7 5
 1
 end_operator
 begin_operator
@@ -9509,8 +9509,8 @@ succumb sciatica excitement tofu uranus earth
 1
 1 5
 2
-0 15 7 5
 0 11 3 0
+0 15 7 5
 1
 end_operator
 begin_operator
@@ -9518,8 +9518,8 @@ succumb sciatica intoxication arugula earth mars
 1
 2 0
 2
-0 15 8 0
 0 12 0 2
+0 15 8 0
 1
 end_operator
 begin_operator
@@ -9527,8 +9527,8 @@ succumb sciatica intoxication arugula mars jupiter
 1
 2 0
 2
-0 15 8 0
 0 12 2 1
+0 15 8 0
 1
 end_operator
 begin_operator
@@ -9536,8 +9536,8 @@ succumb sciatica intoxication arugula uranus earth
 1
 2 0
 2
-0 15 8 0
 0 12 3 0
+0 15 8 0
 1
 end_operator
 begin_operator
@@ -9545,8 +9545,8 @@ succumb sciatica intoxication chicken earth mars
 1
 2 1
 2
-0 15 8 1
 0 12 0 2
+0 15 8 1
 1
 end_operator
 begin_operator
@@ -9554,8 +9554,8 @@ succumb sciatica intoxication chicken mars jupiter
 1
 2 1
 2
-0 15 8 1
 0 12 2 1
+0 15 8 1
 1
 end_operator
 begin_operator
@@ -9563,8 +9563,8 @@ succumb sciatica intoxication chicken uranus earth
 1
 2 1
 2
-0 15 8 1
 0 12 3 0
+0 15 8 1
 1
 end_operator
 begin_operator
@@ -9572,8 +9572,8 @@ succumb sciatica intoxication ham earth mars
 1
 2 2
 2
-0 15 8 2
 0 12 0 2
+0 15 8 2
 1
 end_operator
 begin_operator
@@ -9581,8 +9581,8 @@ succumb sciatica intoxication ham mars jupiter
 1
 2 2
 2
-0 15 8 2
 0 12 2 1
+0 15 8 2
 1
 end_operator
 begin_operator
@@ -9590,8 +9590,8 @@ succumb sciatica intoxication ham uranus earth
 1
 2 2
 2
-0 15 8 2
 0 12 3 0
+0 15 8 2
 1
 end_operator
 begin_operator
@@ -9599,8 +9599,8 @@ succumb sciatica intoxication marzipan earth mars
 1
 2 3
 2
-0 15 8 3
 0 12 0 2
+0 15 8 3
 1
 end_operator
 begin_operator
@@ -9608,8 +9608,8 @@ succumb sciatica intoxication marzipan mars jupiter
 1
 2 3
 2
-0 15 8 3
 0 12 2 1
+0 15 8 3
 1
 end_operator
 begin_operator
@@ -9617,8 +9617,8 @@ succumb sciatica intoxication marzipan uranus earth
 1
 2 3
 2
-0 15 8 3
 0 12 3 0
+0 15 8 3
 1
 end_operator
 begin_operator
@@ -9626,8 +9626,8 @@ succumb sciatica intoxication snickers earth mars
 1
 2 4
 2
-0 15 8 4
 0 12 0 2
+0 15 8 4
 1
 end_operator
 begin_operator
@@ -9635,8 +9635,8 @@ succumb sciatica intoxication snickers mars jupiter
 1
 2 4
 2
-0 15 8 4
 0 12 2 1
+0 15 8 4
 1
 end_operator
 begin_operator
@@ -9644,8 +9644,8 @@ succumb sciatica intoxication snickers uranus earth
 1
 2 4
 2
-0 15 8 4
 0 12 3 0
+0 15 8 4
 1
 end_operator
 begin_operator
@@ -9653,8 +9653,8 @@ succumb sciatica intoxication tofu earth mars
 1
 2 5
 2
-0 15 8 5
 0 12 0 2
+0 15 8 5
 1
 end_operator
 begin_operator
@@ -9662,8 +9662,8 @@ succumb sciatica intoxication tofu mars jupiter
 1
 2 5
 2
-0 15 8 5
 0 12 2 1
+0 15 8 5
 1
 end_operator
 begin_operator
@@ -9671,8 +9671,8 @@ succumb sciatica intoxication tofu uranus earth
 1
 2 5
 2
-0 15 8 5
 0 12 3 0
+0 15 8 5
 1
 end_operator
 begin_operator
@@ -9680,8 +9680,8 @@ succumb sciatica love arugula earth mars
 1
 3 0
 2
-0 15 9 0
 0 14 0 2
+0 15 9 0
 1
 end_operator
 begin_operator
@@ -9689,8 +9689,8 @@ succumb sciatica love arugula mars jupiter
 1
 3 0
 2
-0 15 9 0
 0 14 2 1
+0 15 9 0
 1
 end_operator
 begin_operator
@@ -9698,8 +9698,8 @@ succumb sciatica love arugula uranus earth
 1
 3 0
 2
-0 15 9 0
 0 14 3 0
+0 15 9 0
 1
 end_operator
 begin_operator
@@ -9707,8 +9707,8 @@ succumb sciatica love chicken earth mars
 1
 3 1
 2
-0 15 9 1
 0 14 0 2
+0 15 9 1
 1
 end_operator
 begin_operator
@@ -9716,8 +9716,8 @@ succumb sciatica love chicken mars jupiter
 1
 3 1
 2
-0 15 9 1
 0 14 2 1
+0 15 9 1
 1
 end_operator
 begin_operator
@@ -9725,8 +9725,8 @@ succumb sciatica love chicken uranus earth
 1
 3 1
 2
-0 15 9 1
 0 14 3 0
+0 15 9 1
 1
 end_operator
 begin_operator
@@ -9734,8 +9734,8 @@ succumb sciatica love ham earth mars
 1
 3 2
 2
-0 15 9 2
 0 14 0 2
+0 15 9 2
 1
 end_operator
 begin_operator
@@ -9743,8 +9743,8 @@ succumb sciatica love ham mars jupiter
 1
 3 2
 2
-0 15 9 2
 0 14 2 1
+0 15 9 2
 1
 end_operator
 begin_operator
@@ -9752,8 +9752,8 @@ succumb sciatica love ham uranus earth
 1
 3 2
 2
-0 15 9 2
 0 14 3 0
+0 15 9 2
 1
 end_operator
 begin_operator
@@ -9761,8 +9761,8 @@ succumb sciatica love marzipan earth mars
 1
 3 3
 2
-0 15 9 3
 0 14 0 2
+0 15 9 3
 1
 end_operator
 begin_operator
@@ -9770,8 +9770,8 @@ succumb sciatica love marzipan mars jupiter
 1
 3 3
 2
-0 15 9 3
 0 14 2 1
+0 15 9 3
 1
 end_operator
 begin_operator
@@ -9779,8 +9779,8 @@ succumb sciatica love marzipan uranus earth
 1
 3 3
 2
-0 15 9 3
 0 14 3 0
+0 15 9 3
 1
 end_operator
 begin_operator
@@ -9788,8 +9788,8 @@ succumb sciatica love snickers earth mars
 1
 3 4
 2
-0 15 9 4
 0 14 0 2
+0 15 9 4
 1
 end_operator
 begin_operator
@@ -9797,8 +9797,8 @@ succumb sciatica love snickers mars jupiter
 1
 3 4
 2
-0 15 9 4
 0 14 2 1
+0 15 9 4
 1
 end_operator
 begin_operator
@@ -9806,8 +9806,8 @@ succumb sciatica love snickers uranus earth
 1
 3 4
 2
-0 15 9 4
 0 14 3 0
+0 15 9 4
 1
 end_operator
 begin_operator
@@ -9815,8 +9815,8 @@ succumb sciatica love tofu earth mars
 1
 3 5
 2
-0 15 9 5
 0 14 0 2
+0 15 9 5
 1
 end_operator
 begin_operator
@@ -9824,8 +9824,8 @@ succumb sciatica love tofu mars jupiter
 1
 3 5
 2
-0 15 9 5
 0 14 2 1
+0 15 9 5
 1
 end_operator
 begin_operator
@@ -9833,8 +9833,8 @@ succumb sciatica love tofu uranus earth
 1
 3 5
 2
-0 15 9 5
 0 14 3 0
+0 15 9 5
 1
 end_operator
 0

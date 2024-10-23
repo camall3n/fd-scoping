@@ -97071,8 +97071,8 @@ sample_rock rover11 rover11store waypoint80
 1
 266 79
 2
-0 473 0 3
 0 471 0 1
+0 473 0 3
 1
 end_operator
 begin_operator
@@ -97080,8 +97080,8 @@ sample_rock rover11 rover11store waypoint81
 1
 266 80
 2
-0 474 0 3
 0 471 0 1
+0 474 0 3
 1
 end_operator
 begin_operator
@@ -97089,8 +97089,8 @@ sample_rock rover11 rover11store waypoint82
 1
 266 81
 2
-0 475 0 3
 0 471 0 1
+0 475 0 3
 1
 end_operator
 begin_operator
@@ -97098,8 +97098,8 @@ sample_rock rover11 rover11store waypoint83
 1
 266 82
 2
-0 476 0 3
 0 471 0 1
+0 476 0 3
 1
 end_operator
 begin_operator
@@ -97107,8 +97107,8 @@ sample_rock rover11 rover11store waypoint84
 1
 266 83
 2
-0 477 0 3
 0 471 0 1
+0 477 0 3
 1
 end_operator
 begin_operator
@@ -97836,8 +97836,8 @@ sample_rock rover13 rover13store waypoint80
 1
 223 79
 2
-0 473 0 5
 0 472 0 1
+0 473 0 5
 1
 end_operator
 begin_operator
@@ -97845,8 +97845,8 @@ sample_rock rover13 rover13store waypoint81
 1
 223 80
 2
-0 474 0 5
 0 472 0 1
+0 474 0 5
 1
 end_operator
 begin_operator
@@ -97854,8 +97854,8 @@ sample_rock rover13 rover13store waypoint82
 1
 223 81
 2
-0 475 0 5
 0 472 0 1
+0 475 0 5
 1
 end_operator
 begin_operator
@@ -97863,8 +97863,8 @@ sample_rock rover13 rover13store waypoint83
 1
 223 82
 2
-0 476 0 5
 0 472 0 1
+0 476 0 5
 1
 end_operator
 begin_operator
@@ -97872,8 +97872,8 @@ sample_rock rover13 rover13store waypoint84
 1
 223 83
 2
-0 477 0 5
 0 472 0 1
+0 477 0 5
 1
 end_operator
 begin_operator
@@ -98565,8 +98565,8 @@ sample_soil rover0 rover0store waypoint72
 1
 351 70
 2
-0 515 0 1
 0 513 0 1
+0 515 0 1
 1
 end_operator
 begin_operator
@@ -98583,8 +98583,8 @@ sample_soil rover0 rover0store waypoint76
 1
 351 74
 2
-0 516 0 1
 0 513 0 1
+0 516 0 1
 1
 end_operator
 begin_operator
@@ -98592,8 +98592,8 @@ sample_soil rover0 rover0store waypoint78
 1
 351 76
 2
-0 519 0 1
 0 513 0 1
+0 519 0 1
 1
 end_operator
 begin_operator
@@ -98601,8 +98601,8 @@ sample_soil rover0 rover0store waypoint79
 1
 351 77
 2
-0 520 0 1
 0 513 0 1
+0 520 0 1
 1
 end_operator
 begin_operator
@@ -98610,8 +98610,8 @@ sample_soil rover0 rover0store waypoint81
 1
 351 80
 2
-0 523 0 1
 0 513 0 1
+0 523 0 1
 1
 end_operator
 begin_operator
@@ -98619,8 +98619,8 @@ sample_soil rover0 rover0store waypoint84
 1
 351 83
 2
-0 524 0 1
 0 513 0 1
+0 524 0 1
 1
 end_operator
 begin_operator
@@ -98628,8 +98628,8 @@ sample_soil rover0 rover0store waypoint9
 1
 351 84
 2
-0 527 0 1
 0 513 0 1
+0 527 0 1
 1
 end_operator
 begin_operator
@@ -98925,8 +98925,8 @@ sample_soil rover1 rover1store waypoint78
 1
 322 68
 2
-0 519 0 2
 0 518 0 1
+0 519 0 2
 1
 end_operator
 begin_operator
@@ -98934,8 +98934,8 @@ sample_soil rover1 rover1store waypoint79
 1
 322 69
 2
-0 520 0 2
 0 518 0 1
+0 520 0 2
 1
 end_operator
 begin_operator
@@ -98943,8 +98943,8 @@ sample_soil rover1 rover1store waypoint81
 1
 322 72
 2
-0 523 0 2
 0 518 0 1
+0 523 0 2
 1
 end_operator
 begin_operator
@@ -98952,8 +98952,8 @@ sample_soil rover1 rover1store waypoint84
 1
 322 75
 2
-0 524 0 2
 0 518 0 1
+0 524 0 2
 1
 end_operator
 begin_operator
@@ -98961,8 +98961,8 @@ sample_soil rover1 rover1store waypoint9
 1
 322 76
 2
-0 527 0 2
 0 518 0 1
+0 527 0 2
 1
 end_operator
 begin_operator
@@ -99276,8 +99276,8 @@ sample_soil rover10 rover10store waypoint72
 1
 294 70
 2
-0 515 0 3
 0 514 0 1
+0 515 0 3
 1
 end_operator
 begin_operator
@@ -99294,8 +99294,8 @@ sample_soil rover10 rover10store waypoint76
 1
 294 74
 2
-0 516 0 3
 0 514 0 1
+0 516 0 3
 1
 end_operator
 begin_operator
@@ -99303,8 +99303,8 @@ sample_soil rover10 rover10store waypoint78
 1
 294 76
 2
-0 519 0 3
 0 514 0 1
+0 519 0 3
 1
 end_operator
 begin_operator
@@ -99312,8 +99312,8 @@ sample_soil rover10 rover10store waypoint79
 1
 294 77
 2
-0 520 0 3
 0 514 0 1
+0 520 0 3
 1
 end_operator
 begin_operator
@@ -99321,8 +99321,8 @@ sample_soil rover10 rover10store waypoint81
 1
 294 80
 2
-0 523 0 3
 0 514 0 1
+0 523 0 3
 1
 end_operator
 begin_operator
@@ -99330,8 +99330,8 @@ sample_soil rover10 rover10store waypoint84
 1
 294 83
 2
-0 524 0 3
 0 514 0 1
+0 524 0 3
 1
 end_operator
 begin_operator
@@ -99339,8 +99339,8 @@ sample_soil rover10 rover10store waypoint9
 1
 294 84
 2
-0 527 0 3
 0 514 0 1
+0 527 0 3
 1
 end_operator
 begin_operator
@@ -99681,8 +99681,8 @@ sample_soil rover12 rover12store waypoint78
 1
 238 75
 2
-0 519 0 4
 0 517 0 1
+0 519 0 4
 1
 end_operator
 begin_operator
@@ -99690,8 +99690,8 @@ sample_soil rover12 rover12store waypoint79
 1
 238 76
 2
-0 520 0 4
 0 517 0 1
+0 520 0 4
 1
 end_operator
 begin_operator
@@ -99699,8 +99699,8 @@ sample_soil rover12 rover12store waypoint81
 1
 238 79
 2
-0 523 0 4
 0 517 0 1
+0 523 0 4
 1
 end_operator
 begin_operator
@@ -99708,8 +99708,8 @@ sample_soil rover12 rover12store waypoint84
 1
 238 82
 2
-0 524 0 4
 0 517 0 1
+0 524 0 4
 1
 end_operator
 begin_operator
@@ -99717,8 +99717,8 @@ sample_soil rover12 rover12store waypoint9
 1
 238 83
 2
-0 527 0 4
 0 517 0 1
+0 527 0 4
 1
 end_operator
 begin_operator
@@ -100068,8 +100068,8 @@ sample_soil rover4 rover4store waypoint81
 1
 154 78
 2
-0 523 0 5
 0 521 0 1
+0 523 0 5
 1
 end_operator
 begin_operator
@@ -100077,8 +100077,8 @@ sample_soil rover4 rover4store waypoint84
 1
 154 81
 2
-0 524 0 5
 0 521 0 1
+0 524 0 5
 1
 end_operator
 begin_operator
@@ -100086,8 +100086,8 @@ sample_soil rover4 rover4store waypoint9
 1
 154 82
 2
-0 527 0 5
 0 521 0 1
+0 527 0 5
 1
 end_operator
 begin_operator
@@ -100446,8 +100446,8 @@ sample_soil rover5 rover5store waypoint81
 1
 113 80
 2
-0 523 0 6
 0 522 0 1
+0 523 0 6
 1
 end_operator
 begin_operator
@@ -100455,8 +100455,8 @@ sample_soil rover5 rover5store waypoint84
 1
 113 83
 2
-0 524 0 6
 0 522 0 1
+0 524 0 6
 1
 end_operator
 begin_operator
@@ -100464,8 +100464,8 @@ sample_soil rover5 rover5store waypoint9
 1
 113 84
 2
-0 527 0 6
 0 522 0 1
+0 527 0 6
 1
 end_operator
 begin_operator
@@ -100842,8 +100842,8 @@ sample_soil rover7 rover7store waypoint9
 1
 43 84
 2
-0 527 0 7
 0 525 0 1
+0 527 0 7
 1
 end_operator
 begin_operator
@@ -101211,8 +101211,8 @@ sample_soil rover8 rover8store waypoint9
 1
 15 83
 2
-0 527 0 8
 0 526 0 1
+0 527 0 8
 1
 end_operator
 begin_operator

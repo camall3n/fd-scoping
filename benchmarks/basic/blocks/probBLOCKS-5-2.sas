@@ -105,8 +105,8 @@ end_variable
 6
 begin_mutex_group
 6
-1 0
 0 0
+1 0
 7 1
 8 1
 9 1
@@ -114,8 +114,8 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 6
-2 0
 0 1
+2 0
 7 0
 8 2
 9 2
@@ -123,8 +123,8 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 6
-3 0
 0 2
+3 0
 7 2
 8 0
 9 3
@@ -132,8 +132,8 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 6
-4 0
 0 3
+4 0
 7 3
 8 3
 9 0
@@ -141,8 +141,8 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 6
-5 0
 0 4
+5 0
 7 4
 8 4
 9 4
@@ -150,8 +150,8 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 6
-6 0
 0 0
+6 0
 7 0
 8 0
 9 0
@@ -182,9 +182,9 @@ begin_operator
 pick-up a
 0
 3
+0 0 5 0
 0 1 0 1
 0 6 0 1
-0 0 5 0
 1
 end_operator
 begin_operator
@@ -227,9 +227,9 @@ begin_operator
 put-down a
 0
 3
+0 0 0 5
 0 1 -1 0
 0 6 -1 0
-0 0 0 5
 1
 end_operator
 begin_operator
@@ -272,40 +272,40 @@ begin_operator
 stack a b
 0
 4
+0 0 0 1
 0 1 -1 0
 0 2 0 1
 0 6 -1 0
-0 0 0 1
 1
 end_operator
 begin_operator
 stack a c
 0
 4
+0 0 0 2
 0 1 -1 0
 0 3 0 1
 0 6 -1 0
-0 0 0 2
 1
 end_operator
 begin_operator
 stack a d
 0
 4
+0 0 0 3
 0 1 -1 0
 0 4 0 1
 0 6 -1 0
-0 0 0 3
 1
 end_operator
 begin_operator
 stack a e
 0
 4
+0 0 0 4
 0 1 -1 0
 0 5 0 1
 0 6 -1 0
-0 0 0 4
 1
 end_operator
 begin_operator
@@ -472,40 +472,40 @@ begin_operator
 unstack a b
 0
 4
+0 0 1 0
 0 1 0 1
 0 2 -1 0
 0 6 0 1
-0 0 1 0
 1
 end_operator
 begin_operator
 unstack a c
 0
 4
+0 0 2 0
 0 1 0 1
 0 3 -1 0
 0 6 0 1
-0 0 2 0
 1
 end_operator
 begin_operator
 unstack a d
 0
 4
+0 0 3 0
 0 1 0 1
 0 4 -1 0
 0 6 0 1
-0 0 3 0
 1
 end_operator
 begin_operator
 unstack a e
 0
 4
+0 0 4 0
 0 1 0 1
 0 5 -1 0
 0 6 0 1
-0 0 4 0
 1
 end_operator
 begin_operator

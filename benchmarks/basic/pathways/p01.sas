@@ -398,8 +398,8 @@ begin_operator
 associate prbp2 ap2 prbp2-ap2
 0
 3
-0 39 0 1
 0 38 0 1
+0 39 0 1
 0 41 -1 0
 1
 end_operator
@@ -462,8 +462,8 @@ associate-with-catalyze prbp2 cdk46p3-cycd prbp1p2
 1
 33 0
 2
-0 40 -1 0
 0 38 0 1
+0 40 -1 0
 1
 end_operator
 begin_operator
@@ -471,8 +471,8 @@ associate-with-catalyze prbp2 cdk46p3-cycdp1 prbp1p2
 1
 32 0
 2
-0 40 -1 0
 0 38 0 1
+0 40 -1 0
 1
 end_operator
 begin_operator

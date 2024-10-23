@@ -9142,8 +9142,8 @@ overcome jealousy learning haroset mercury saturn
 1
 0 0
 2
-0 37 0 10
 0 35 1 0
+0 37 0 10
 1
 end_operator
 begin_operator
@@ -9151,8 +9151,8 @@ overcome jealousy learning lobster mercury saturn
 1
 0 1
 2
-0 37 1 10
 0 35 1 0
+0 37 1 10
 1
 end_operator
 begin_operator
@@ -9160,8 +9160,8 @@ overcome jealousy learning muffin mercury saturn
 1
 0 2
 2
-0 37 2 10
 0 35 1 0
+0 37 2 10
 1
 end_operator
 begin_operator
@@ -9169,8 +9169,8 @@ overcome jealousy learning mutton mercury saturn
 1
 0 3
 2
-0 37 3 10
 0 35 1 0
+0 37 3 10
 1
 end_operator
 begin_operator
@@ -9178,8 +9178,8 @@ overcome jealousy learning pea mercury saturn
 1
 0 4
 2
-0 37 4 10
 0 35 1 0
+0 37 4 10
 1
 end_operator
 begin_operator
@@ -9187,8 +9187,8 @@ overcome jealousy learning pear mercury saturn
 1
 0 5
 2
-0 37 5 10
 0 35 1 0
+0 37 5 10
 1
 end_operator
 begin_operator
@@ -9196,8 +9196,8 @@ overcome jealousy learning pepper mercury saturn
 1
 0 6
 2
-0 37 6 10
 0 35 1 0
+0 37 6 10
 1
 end_operator
 begin_operator
@@ -9205,8 +9205,8 @@ overcome jealousy learning popover mercury saturn
 1
 0 7
 2
-0 37 7 10
 0 35 1 0
+0 37 7 10
 1
 end_operator
 begin_operator
@@ -9214,8 +9214,8 @@ overcome jealousy learning shrimp mercury saturn
 1
 0 8
 2
-0 37 8 10
 0 35 1 0
+0 37 8 10
 1
 end_operator
 begin_operator
@@ -9223,8 +9223,8 @@ overcome jealousy learning snickers mercury saturn
 1
 0 9
 2
-0 37 9 10
 0 35 1 0
+0 37 9 10
 1
 end_operator
 begin_operator
@@ -9232,8 +9232,8 @@ overcome jealousy stimulation haroset mercury saturn
 1
 1 0
 2
-0 37 0 11
 0 36 1 0
+0 37 0 11
 1
 end_operator
 begin_operator
@@ -9241,8 +9241,8 @@ overcome jealousy stimulation lobster mercury saturn
 1
 1 1
 2
-0 37 1 11
 0 36 1 0
+0 37 1 11
 1
 end_operator
 begin_operator
@@ -9250,8 +9250,8 @@ overcome jealousy stimulation muffin mercury saturn
 1
 1 2
 2
-0 37 2 11
 0 36 1 0
+0 37 2 11
 1
 end_operator
 begin_operator
@@ -9259,8 +9259,8 @@ overcome jealousy stimulation mutton mercury saturn
 1
 1 3
 2
-0 37 3 11
 0 36 1 0
+0 37 3 11
 1
 end_operator
 begin_operator
@@ -9268,8 +9268,8 @@ overcome jealousy stimulation pea mercury saturn
 1
 1 4
 2
-0 37 4 11
 0 36 1 0
+0 37 4 11
 1
 end_operator
 begin_operator
@@ -9277,8 +9277,8 @@ overcome jealousy stimulation pear mercury saturn
 1
 1 5
 2
-0 37 5 11
 0 36 1 0
+0 37 5 11
 1
 end_operator
 begin_operator
@@ -9286,8 +9286,8 @@ overcome jealousy stimulation pepper mercury saturn
 1
 1 6
 2
-0 37 6 11
 0 36 1 0
+0 37 6 11
 1
 end_operator
 begin_operator
@@ -9295,8 +9295,8 @@ overcome jealousy stimulation popover mercury saturn
 1
 1 7
 2
-0 37 7 11
 0 36 1 0
+0 37 7 11
 1
 end_operator
 begin_operator
@@ -9304,8 +9304,8 @@ overcome jealousy stimulation shrimp mercury saturn
 1
 1 8
 2
-0 37 8 11
 0 36 1 0
+0 37 8 11
 1
 end_operator
 begin_operator
@@ -9313,8 +9313,8 @@ overcome jealousy stimulation snickers mercury saturn
 1
 1 9
 2
-0 37 9 11
 0 36 1 0
+0 37 9 11
 1
 end_operator
 begin_operator
@@ -13462,8 +13462,8 @@ succumb jealousy learning haroset mercury saturn
 1
 0 0
 2
-0 37 10 0
 0 35 0 1
+0 37 10 0
 1
 end_operator
 begin_operator
@@ -13471,8 +13471,8 @@ succumb jealousy learning lobster mercury saturn
 1
 0 1
 2
-0 37 10 1
 0 35 0 1
+0 37 10 1
 1
 end_operator
 begin_operator
@@ -13480,8 +13480,8 @@ succumb jealousy learning muffin mercury saturn
 1
 0 2
 2
-0 37 10 2
 0 35 0 1
+0 37 10 2
 1
 end_operator
 begin_operator
@@ -13489,8 +13489,8 @@ succumb jealousy learning mutton mercury saturn
 1
 0 3
 2
-0 37 10 3
 0 35 0 1
+0 37 10 3
 1
 end_operator
 begin_operator
@@ -13498,8 +13498,8 @@ succumb jealousy learning pea mercury saturn
 1
 0 4
 2
-0 37 10 4
 0 35 0 1
+0 37 10 4
 1
 end_operator
 begin_operator
@@ -13507,8 +13507,8 @@ succumb jealousy learning pear mercury saturn
 1
 0 5
 2
-0 37 10 5
 0 35 0 1
+0 37 10 5
 1
 end_operator
 begin_operator
@@ -13516,8 +13516,8 @@ succumb jealousy learning pepper mercury saturn
 1
 0 6
 2
-0 37 10 6
 0 35 0 1
+0 37 10 6
 1
 end_operator
 begin_operator
@@ -13525,8 +13525,8 @@ succumb jealousy learning popover mercury saturn
 1
 0 7
 2
-0 37 10 7
 0 35 0 1
+0 37 10 7
 1
 end_operator
 begin_operator
@@ -13534,8 +13534,8 @@ succumb jealousy learning shrimp mercury saturn
 1
 0 8
 2
-0 37 10 8
 0 35 0 1
+0 37 10 8
 1
 end_operator
 begin_operator
@@ -13543,8 +13543,8 @@ succumb jealousy learning snickers mercury saturn
 1
 0 9
 2
-0 37 10 9
 0 35 0 1
+0 37 10 9
 1
 end_operator
 begin_operator
@@ -13552,8 +13552,8 @@ succumb jealousy stimulation haroset mercury saturn
 1
 1 0
 2
-0 37 11 0
 0 36 0 1
+0 37 11 0
 1
 end_operator
 begin_operator
@@ -13561,8 +13561,8 @@ succumb jealousy stimulation lobster mercury saturn
 1
 1 1
 2
-0 37 11 1
 0 36 0 1
+0 37 11 1
 1
 end_operator
 begin_operator
@@ -13570,8 +13570,8 @@ succumb jealousy stimulation muffin mercury saturn
 1
 1 2
 2
-0 37 11 2
 0 36 0 1
+0 37 11 2
 1
 end_operator
 begin_operator
@@ -13579,8 +13579,8 @@ succumb jealousy stimulation mutton mercury saturn
 1
 1 3
 2
-0 37 11 3
 0 36 0 1
+0 37 11 3
 1
 end_operator
 begin_operator
@@ -13588,8 +13588,8 @@ succumb jealousy stimulation pea mercury saturn
 1
 1 4
 2
-0 37 11 4
 0 36 0 1
+0 37 11 4
 1
 end_operator
 begin_operator
@@ -13597,8 +13597,8 @@ succumb jealousy stimulation pear mercury saturn
 1
 1 5
 2
-0 37 11 5
 0 36 0 1
+0 37 11 5
 1
 end_operator
 begin_operator
@@ -13606,8 +13606,8 @@ succumb jealousy stimulation pepper mercury saturn
 1
 1 6
 2
-0 37 11 6
 0 36 0 1
+0 37 11 6
 1
 end_operator
 begin_operator
@@ -13615,8 +13615,8 @@ succumb jealousy stimulation popover mercury saturn
 1
 1 7
 2
-0 37 11 7
 0 36 0 1
+0 37 11 7
 1
 end_operator
 begin_operator
@@ -13624,8 +13624,8 @@ succumb jealousy stimulation shrimp mercury saturn
 1
 1 8
 2
-0 37 11 8
 0 36 0 1
+0 37 11 8
 1
 end_operator
 begin_operator
@@ -13633,8 +13633,8 @@ succumb jealousy stimulation snickers mercury saturn
 1
 1 9
 2
-0 37 11 9
 0 36 0 1
+0 37 11 9
 1
 end_operator
 begin_operator

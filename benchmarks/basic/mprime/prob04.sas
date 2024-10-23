@@ -10347,8 +10347,8 @@ overcome sciatica aesthetics arugula mars vulcan
 1
 0 0
 2
-0 18 0 10
 0 17 1 0
+0 18 0 10
 1
 end_operator
 begin_operator
@@ -10356,8 +10356,8 @@ overcome sciatica aesthetics bacon mars vulcan
 1
 0 1
 2
-0 18 1 10
 0 17 1 0
+0 18 1 10
 1
 end_operator
 begin_operator
@@ -10365,8 +10365,8 @@ overcome sciatica aesthetics cherry mars vulcan
 1
 0 2
 2
-0 18 2 10
 0 17 1 0
+0 18 2 10
 1
 end_operator
 begin_operator
@@ -10374,8 +10374,8 @@ overcome sciatica aesthetics grapefruit mars vulcan
 1
 0 3
 2
-0 18 3 10
 0 17 1 0
+0 18 3 10
 1
 end_operator
 begin_operator
@@ -10383,8 +10383,8 @@ overcome sciatica aesthetics ham mars vulcan
 1
 0 4
 2
-0 18 4 10
 0 17 1 0
+0 18 4 10
 1
 end_operator
 begin_operator
@@ -10392,8 +10392,8 @@ overcome sciatica aesthetics muffin mars vulcan
 1
 0 5
 2
-0 18 5 10
 0 17 1 0
+0 18 5 10
 1
 end_operator
 begin_operator
@@ -10401,8 +10401,8 @@ overcome sciatica aesthetics scallion mars vulcan
 1
 0 6
 2
-0 18 6 10
 0 17 1 0
+0 18 6 10
 1
 end_operator
 begin_operator
@@ -10410,8 +10410,8 @@ overcome sciatica aesthetics scallop mars vulcan
 1
 0 7
 2
-0 18 7 10
 0 17 1 0
+0 18 7 10
 1
 end_operator
 begin_operator
@@ -10419,8 +10419,8 @@ overcome sciatica aesthetics shrimp mars vulcan
 1
 0 8
 2
-0 18 8 10
 0 17 1 0
+0 18 8 10
 1
 end_operator
 begin_operator
@@ -10428,8 +10428,8 @@ overcome sciatica aesthetics wurst mars vulcan
 1
 0 9
 2
-0 18 9 10
 0 17 1 0
+0 18 9 10
 1
 end_operator
 begin_operator
@@ -10977,8 +10977,8 @@ succumb sciatica aesthetics arugula mars vulcan
 1
 0 0
 2
-0 18 10 0
 0 17 0 1
+0 18 10 0
 1
 end_operator
 begin_operator
@@ -10986,8 +10986,8 @@ succumb sciatica aesthetics bacon mars vulcan
 1
 0 1
 2
-0 18 10 1
 0 17 0 1
+0 18 10 1
 1
 end_operator
 begin_operator
@@ -10995,8 +10995,8 @@ succumb sciatica aesthetics cherry mars vulcan
 1
 0 2
 2
-0 18 10 2
 0 17 0 1
+0 18 10 2
 1
 end_operator
 begin_operator
@@ -11004,8 +11004,8 @@ succumb sciatica aesthetics grapefruit mars vulcan
 1
 0 3
 2
-0 18 10 3
 0 17 0 1
+0 18 10 3
 1
 end_operator
 begin_operator
@@ -11013,8 +11013,8 @@ succumb sciatica aesthetics ham mars vulcan
 1
 0 4
 2
-0 18 10 4
 0 17 0 1
+0 18 10 4
 1
 end_operator
 begin_operator
@@ -11022,8 +11022,8 @@ succumb sciatica aesthetics muffin mars vulcan
 1
 0 5
 2
-0 18 10 5
 0 17 0 1
+0 18 10 5
 1
 end_operator
 begin_operator
@@ -11031,8 +11031,8 @@ succumb sciatica aesthetics scallion mars vulcan
 1
 0 6
 2
-0 18 10 6
 0 17 0 1
+0 18 10 6
 1
 end_operator
 begin_operator
@@ -11040,8 +11040,8 @@ succumb sciatica aesthetics scallop mars vulcan
 1
 0 7
 2
-0 18 10 7
 0 17 0 1
+0 18 10 7
 1
 end_operator
 begin_operator
@@ -11049,8 +11049,8 @@ succumb sciatica aesthetics shrimp mars vulcan
 1
 0 8
 2
-0 18 10 8
 0 17 0 1
+0 18 10 8
 1
 end_operator
 begin_operator
@@ -11058,8 +11058,8 @@ succumb sciatica aesthetics wurst mars vulcan
 1
 0 9
 2
-0 18 10 9
 0 17 0 1
+0 18 10 9
 1
 end_operator
 0

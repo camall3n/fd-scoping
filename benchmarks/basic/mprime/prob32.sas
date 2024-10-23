@@ -713,32 +713,32 @@ begin_operator
 drink cod cucumber kentucky goias alsace alsace goias
 0
 2
-0 8 2 1
 0 2 0 1
+0 8 2 1
 1
 end_operator
 begin_operator
 drink cod cucumber kentucky goias alsace goias kentucky
 0
 2
-0 8 2 1
 0 2 1 2
+0 8 2 1
 1
 end_operator
 begin_operator
 drink cod onion kentucky goias alsace alsace goias
 0
 2
-0 8 2 1
 0 3 0 1
+0 8 2 1
 1
 end_operator
 begin_operator
 drink cod onion kentucky goias alsace goias kentucky
 0
 2
-0 8 2 1
 0 3 1 2
+0 8 2 1
 1
 end_operator
 begin_operator
@@ -761,32 +761,32 @@ begin_operator
 drink cod pork kentucky goias alsace alsace goias
 0
 2
-0 8 2 1
 0 4 0 1
+0 8 2 1
 1
 end_operator
 begin_operator
 drink cod pork kentucky goias alsace goias kentucky
 0
 2
-0 8 2 1
 0 4 1 2
+0 8 2 1
 1
 end_operator
 begin_operator
 drink cod sweetroll kentucky goias alsace alsace goias
 0
 2
-0 8 2 1
 0 5 0 1
+0 8 2 1
 1
 end_operator
 begin_operator
 drink cod sweetroll kentucky goias alsace goias kentucky
 0
 2
-0 8 2 1
 0 5 1 2
+0 8 2 1
 1
 end_operator
 begin_operator
@@ -809,16 +809,16 @@ begin_operator
 drink cod yogurt kentucky goias alsace alsace goias
 0
 2
-0 8 2 1
 0 6 0 1
+0 8 2 1
 1
 end_operator
 begin_operator
 drink cod yogurt kentucky goias alsace goias kentucky
 0
 2
-0 8 2 1
 0 6 1 2
+0 8 2 1
 1
 end_operator
 begin_operator
@@ -857,16 +857,16 @@ begin_operator
 drink cucumber cod kentucky goias alsace alsace goias
 0
 2
-0 8 0 1
 0 2 2 1
+0 8 0 1
 1
 end_operator
 begin_operator
 drink cucumber cod kentucky goias alsace goias kentucky
 0
 2
-0 8 1 2
 0 2 2 1
+0 8 1 2
 1
 end_operator
 begin_operator
@@ -1001,16 +1001,16 @@ begin_operator
 drink onion cod kentucky goias alsace alsace goias
 0
 2
-0 8 0 1
 0 3 2 1
+0 8 0 1
 1
 end_operator
 begin_operator
 drink onion cod kentucky goias alsace goias kentucky
 0
 2
-0 8 1 2
 0 3 2 1
+0 8 1 2
 1
 end_operator
 begin_operator
@@ -1193,32 +1193,32 @@ begin_operator
 drink pepper pork kentucky goias alsace alsace goias
 0
 2
-0 9 2 1
 0 4 0 1
+0 9 2 1
 1
 end_operator
 begin_operator
 drink pepper pork kentucky goias alsace goias kentucky
 0
 2
-0 9 2 1
 0 4 1 2
+0 9 2 1
 1
 end_operator
 begin_operator
 drink pepper sweetroll kentucky goias alsace alsace goias
 0
 2
-0 9 2 1
 0 5 0 1
+0 9 2 1
 1
 end_operator
 begin_operator
 drink pepper sweetroll kentucky goias alsace goias kentucky
 0
 2
-0 9 2 1
 0 5 1 2
+0 9 2 1
 1
 end_operator
 begin_operator
@@ -1241,16 +1241,16 @@ begin_operator
 drink pepper yogurt kentucky goias alsace alsace goias
 0
 2
-0 9 2 1
 0 6 0 1
+0 9 2 1
 1
 end_operator
 begin_operator
 drink pepper yogurt kentucky goias alsace goias kentucky
 0
 2
-0 9 2 1
 0 6 1 2
+0 9 2 1
 1
 end_operator
 begin_operator
@@ -1289,16 +1289,16 @@ begin_operator
 drink pork cod kentucky goias alsace alsace goias
 0
 2
-0 8 0 1
 0 4 2 1
+0 8 0 1
 1
 end_operator
 begin_operator
 drink pork cod kentucky goias alsace goias kentucky
 0
 2
-0 8 1 2
 0 4 2 1
+0 8 1 2
 1
 end_operator
 begin_operator
@@ -1337,16 +1337,16 @@ begin_operator
 drink pork pepper kentucky goias alsace alsace goias
 0
 2
-0 9 0 1
 0 4 2 1
+0 9 0 1
 1
 end_operator
 begin_operator
 drink pork pepper kentucky goias alsace goias kentucky
 0
 2
-0 9 1 2
 0 4 2 1
+0 9 1 2
 1
 end_operator
 begin_operator
@@ -1433,16 +1433,16 @@ begin_operator
 drink sweetroll cod kentucky goias alsace alsace goias
 0
 2
-0 8 0 1
 0 5 2 1
+0 8 0 1
 1
 end_operator
 begin_operator
 drink sweetroll cod kentucky goias alsace goias kentucky
 0
 2
-0 8 1 2
 0 5 2 1
+0 8 1 2
 1
 end_operator
 begin_operator
@@ -1481,16 +1481,16 @@ begin_operator
 drink sweetroll pepper kentucky goias alsace alsace goias
 0
 2
-0 9 0 1
 0 5 2 1
+0 9 0 1
 1
 end_operator
 begin_operator
 drink sweetroll pepper kentucky goias alsace goias kentucky
 0
 2
-0 9 1 2
 0 5 2 1
+0 9 1 2
 1
 end_operator
 begin_operator
@@ -1673,16 +1673,16 @@ begin_operator
 drink turkey yogurt kentucky goias alsace alsace goias
 0
 2
-0 11 2 1
 0 6 0 1
+0 11 2 1
 1
 end_operator
 begin_operator
 drink turkey yogurt kentucky goias alsace goias kentucky
 0
 2
-0 11 2 1
 0 6 1 2
+0 11 2 1
 1
 end_operator
 begin_operator
@@ -1721,16 +1721,16 @@ begin_operator
 drink yogurt cod kentucky goias alsace alsace goias
 0
 2
-0 8 0 1
 0 6 2 1
+0 8 0 1
 1
 end_operator
 begin_operator
 drink yogurt cod kentucky goias alsace goias kentucky
 0
 2
-0 8 1 2
 0 6 2 1
+0 8 1 2
 1
 end_operator
 begin_operator
@@ -1769,16 +1769,16 @@ begin_operator
 drink yogurt pepper kentucky goias alsace alsace goias
 0
 2
-0 9 0 1
 0 6 2 1
+0 9 0 1
 1
 end_operator
 begin_operator
 drink yogurt pepper kentucky goias alsace goias kentucky
 0
 2
-0 9 1 2
 0 6 2 1
+0 9 1 2
 1
 end_operator
 begin_operator
@@ -1817,80 +1817,80 @@ begin_operator
 drink yogurt turkey kentucky goias alsace alsace goias
 0
 2
-0 11 0 1
 0 6 2 1
+0 11 0 1
 1
 end_operator
 begin_operator
 drink yogurt turkey kentucky goias alsace goias kentucky
 0
 2
-0 11 1 2
 0 6 2 1
+0 11 1 2
 1
 end_operator
 begin_operator
 feast excitement cantelope pepper alsace goias
 0
 2
-0 7 0 5
 0 0 1 0
+0 7 0 5
 1
 end_operator
 begin_operator
 feast excitement cantelope pepper goias kentucky
 0
 2
-0 7 0 5
 0 0 2 1
+0 7 0 5
 1
 end_operator
 begin_operator
 feast excitement cantelope yogurt alsace goias
 0
 2
-0 7 0 9
 0 0 1 0
+0 7 0 9
 1
 end_operator
 begin_operator
 feast excitement cantelope yogurt goias kentucky
 0
 2
-0 7 0 9
 0 0 2 1
+0 7 0 9
 1
 end_operator
 begin_operator
 feast excitement chicken cod alsace goias
 0
 2
-0 7 1 2
 0 1 1 0
+0 7 1 2
 1
 end_operator
 begin_operator
 feast excitement chicken cod goias kentucky
 0
 2
-0 7 1 2
 0 1 2 1
+0 7 1 2
 1
 end_operator
 begin_operator
 feast excitement chicken turkey alsace goias
 0
 2
-0 7 1 8
 0 1 1 0
+0 7 1 8
 1
 end_operator
 begin_operator
 feast excitement chicken turkey goias kentucky
 0
 2
-0 7 1 8
 0 1 2 1
+0 7 1 8
 1
 end_operator
 begin_operator
@@ -1945,64 +1945,64 @@ begin_operator
 feast excitement cucumber pork alsace goias
 0
 2
-0 7 3 6
 0 2 1 0
+0 7 3 6
 1
 end_operator
 begin_operator
 feast excitement cucumber pork goias kentucky
 0
 2
-0 7 3 6
 0 2 2 1
+0 7 3 6
 1
 end_operator
 begin_operator
 feast excitement cucumber sweetroll alsace goias
 0
 2
-0 7 3 7
 0 2 1 0
+0 7 3 7
 1
 end_operator
 begin_operator
 feast excitement cucumber sweetroll goias kentucky
 0
 2
-0 7 3 7
 0 2 2 1
+0 7 3 7
 1
 end_operator
 begin_operator
 feast excitement onion cod alsace goias
 0
 2
-0 7 4 2
 0 3 1 0
+0 7 4 2
 1
 end_operator
 begin_operator
 feast excitement onion cod goias kentucky
 0
 2
-0 7 4 2
 0 3 2 1
+0 7 4 2
 1
 end_operator
 begin_operator
 feast excitement onion turkey alsace goias
 0
 2
-0 7 4 8
 0 3 1 0
+0 7 4 8
 1
 end_operator
 begin_operator
 feast excitement onion turkey goias kentucky
 0
 2
-0 7 4 8
 0 3 2 1
+0 7 4 8
 1
 end_operator
 begin_operator
@@ -2057,64 +2057,64 @@ begin_operator
 feast excitement pork cucumber alsace goias
 0
 2
-0 7 6 3
 0 4 1 0
+0 7 6 3
 1
 end_operator
 begin_operator
 feast excitement pork cucumber goias kentucky
 0
 2
-0 7 6 3
 0 4 2 1
+0 7 6 3
 1
 end_operator
 begin_operator
 feast excitement pork pepper alsace goias
 0
 2
-0 7 6 5
 0 4 1 0
+0 7 6 5
 1
 end_operator
 begin_operator
 feast excitement pork pepper goias kentucky
 0
 2
-0 7 6 5
 0 4 2 1
+0 7 6 5
 1
 end_operator
 begin_operator
 feast excitement sweetroll cucumber alsace goias
 0
 2
-0 7 7 3
 0 5 1 0
+0 7 7 3
 1
 end_operator
 begin_operator
 feast excitement sweetroll cucumber goias kentucky
 0
 2
-0 7 7 3
 0 5 2 1
+0 7 7 3
 1
 end_operator
 begin_operator
 feast excitement sweetroll yogurt alsace goias
 0
 2
-0 7 7 9
 0 5 1 0
+0 7 7 9
 1
 end_operator
 begin_operator
 feast excitement sweetroll yogurt goias kentucky
 0
 2
-0 7 7 9
 0 5 2 1
+0 7 7 9
 1
 end_operator
 begin_operator
@@ -2185,320 +2185,320 @@ begin_operator
 feast excitement yogurt cantelope alsace goias
 0
 2
-0 7 9 0
 0 6 1 0
+0 7 9 0
 1
 end_operator
 begin_operator
 feast excitement yogurt cantelope goias kentucky
 0
 2
-0 7 9 0
 0 6 2 1
+0 7 9 0
 1
 end_operator
 begin_operator
 feast excitement yogurt sweetroll alsace goias
 0
 2
-0 7 9 7
 0 6 1 0
+0 7 9 7
 1
 end_operator
 begin_operator
 feast excitement yogurt sweetroll goias kentucky
 0
 2
-0 7 9 7
 0 6 2 1
+0 7 9 7
 1
 end_operator
 begin_operator
 feast satiety cantelope pepper alsace goias
 0
 2
-0 10 0 5
 0 0 1 0
+0 10 0 5
 1
 end_operator
 begin_operator
 feast satiety cantelope pepper goias kentucky
 0
 2
-0 10 0 5
 0 0 2 1
+0 10 0 5
 1
 end_operator
 begin_operator
 feast satiety cantelope yogurt alsace goias
 0
 2
-0 10 0 9
 0 0 1 0
+0 10 0 9
 1
 end_operator
 begin_operator
 feast satiety cantelope yogurt goias kentucky
 0
 2
-0 10 0 9
 0 0 2 1
+0 10 0 9
 1
 end_operator
 begin_operator
 feast satiety chicken cod alsace goias
 0
 2
-0 10 1 2
 0 1 1 0
+0 10 1 2
 1
 end_operator
 begin_operator
 feast satiety chicken cod goias kentucky
 0
 2
-0 10 1 2
 0 1 2 1
+0 10 1 2
 1
 end_operator
 begin_operator
 feast satiety chicken turkey alsace goias
 0
 2
-0 10 1 8
 0 1 1 0
+0 10 1 8
 1
 end_operator
 begin_operator
 feast satiety chicken turkey goias kentucky
 0
 2
-0 10 1 8
 0 1 2 1
+0 10 1 8
 1
 end_operator
 begin_operator
 feast satiety cod chicken alsace goias
 0
 2
-0 10 2 1
 0 8 1 0
+0 10 2 1
 1
 end_operator
 begin_operator
 feast satiety cod chicken goias kentucky
 0
 2
-0 10 2 1
 0 8 2 1
+0 10 2 1
 1
 end_operator
 begin_operator
 feast satiety cod onion alsace goias
 0
 2
-0 10 2 4
 0 8 1 0
+0 10 2 4
 1
 end_operator
 begin_operator
 feast satiety cod onion goias kentucky
 0
 2
-0 10 2 4
 0 8 2 1
+0 10 2 4
 1
 end_operator
 begin_operator
 feast satiety cod turkey alsace goias
 0
 2
-0 10 2 8
 0 8 1 0
+0 10 2 8
 1
 end_operator
 begin_operator
 feast satiety cod turkey goias kentucky
 0
 2
-0 10 2 8
 0 8 2 1
+0 10 2 8
 1
 end_operator
 begin_operator
 feast satiety cucumber pork alsace goias
 0
 2
-0 10 3 6
 0 2 1 0
+0 10 3 6
 1
 end_operator
 begin_operator
 feast satiety cucumber pork goias kentucky
 0
 2
-0 10 3 6
 0 2 2 1
+0 10 3 6
 1
 end_operator
 begin_operator
 feast satiety cucumber sweetroll alsace goias
 0
 2
-0 10 3 7
 0 2 1 0
+0 10 3 7
 1
 end_operator
 begin_operator
 feast satiety cucumber sweetroll goias kentucky
 0
 2
-0 10 3 7
 0 2 2 1
+0 10 3 7
 1
 end_operator
 begin_operator
 feast satiety onion cod alsace goias
 0
 2
-0 10 4 2
 0 3 1 0
+0 10 4 2
 1
 end_operator
 begin_operator
 feast satiety onion cod goias kentucky
 0
 2
-0 10 4 2
 0 3 2 1
+0 10 4 2
 1
 end_operator
 begin_operator
 feast satiety onion turkey alsace goias
 0
 2
-0 10 4 8
 0 3 1 0
+0 10 4 8
 1
 end_operator
 begin_operator
 feast satiety onion turkey goias kentucky
 0
 2
-0 10 4 8
 0 3 2 1
+0 10 4 8
 1
 end_operator
 begin_operator
 feast satiety pepper cantelope alsace goias
 0
 2
-0 10 5 0
 0 9 1 0
+0 10 5 0
 1
 end_operator
 begin_operator
 feast satiety pepper cantelope goias kentucky
 0
 2
-0 10 5 0
 0 9 2 1
+0 10 5 0
 1
 end_operator
 begin_operator
 feast satiety pepper pork alsace goias
 0
 2
-0 10 5 6
 0 9 1 0
+0 10 5 6
 1
 end_operator
 begin_operator
 feast satiety pepper pork goias kentucky
 0
 2
-0 10 5 6
 0 9 2 1
+0 10 5 6
 1
 end_operator
 begin_operator
 feast satiety pepper turkey alsace goias
 0
 2
-0 10 5 8
 0 9 1 0
+0 10 5 8
 1
 end_operator
 begin_operator
 feast satiety pepper turkey goias kentucky
 0
 2
-0 10 5 8
 0 9 2 1
+0 10 5 8
 1
 end_operator
 begin_operator
 feast satiety pork cucumber alsace goias
 0
 2
-0 10 6 3
 0 4 1 0
+0 10 6 3
 1
 end_operator
 begin_operator
 feast satiety pork cucumber goias kentucky
 0
 2
-0 10 6 3
 0 4 2 1
+0 10 6 3
 1
 end_operator
 begin_operator
 feast satiety pork pepper alsace goias
 0
 2
-0 10 6 5
 0 4 1 0
+0 10 6 5
 1
 end_operator
 begin_operator
 feast satiety pork pepper goias kentucky
 0
 2
-0 10 6 5
 0 4 2 1
+0 10 6 5
 1
 end_operator
 begin_operator
 feast satiety sweetroll cucumber alsace goias
 0
 2
-0 10 7 3
 0 5 1 0
+0 10 7 3
 1
 end_operator
 begin_operator
 feast satiety sweetroll cucumber goias kentucky
 0
 2
-0 10 7 3
 0 5 2 1
+0 10 7 3
 1
 end_operator
 begin_operator
 feast satiety sweetroll yogurt alsace goias
 0
 2
-0 10 7 9
 0 5 1 0
+0 10 7 9
 1
 end_operator
 begin_operator
 feast satiety sweetroll yogurt goias kentucky
 0
 2
-0 10 7 9
 0 5 2 1
+0 10 7 9
 1
 end_operator
 begin_operator
@@ -2569,32 +2569,32 @@ begin_operator
 feast satiety yogurt cantelope alsace goias
 0
 2
-0 10 9 0
 0 6 1 0
+0 10 9 0
 1
 end_operator
 begin_operator
 feast satiety yogurt cantelope goias kentucky
 0
 2
-0 10 9 0
 0 6 2 1
+0 10 9 0
 1
 end_operator
 begin_operator
 feast satiety yogurt sweetroll alsace goias
 0
 2
-0 10 9 7
 0 6 1 0
+0 10 9 7
 1
 end_operator
 begin_operator
 feast satiety yogurt sweetroll goias kentucky
 0
 2
-0 10 9 7
 0 6 2 1
+0 10 9 7
 1
 end_operator
 begin_operator
@@ -9082,8 +9082,8 @@ overcome sciatica excitement cantelope mars neptune
 1
 7 0
 2
-0 26 0 10
 0 24 1 0
+0 26 0 10
 1
 end_operator
 begin_operator
@@ -9091,8 +9091,8 @@ overcome sciatica excitement cantelope neptune uranus
 1
 7 0
 2
-0 26 0 10
 0 24 3 1
+0 26 0 10
 1
 end_operator
 begin_operator
@@ -9100,8 +9100,8 @@ overcome sciatica excitement cantelope uranus pluto
 1
 7 0
 2
-0 26 0 10
 0 24 2 3
+0 26 0 10
 1
 end_operator
 begin_operator
@@ -9109,8 +9109,8 @@ overcome sciatica excitement chicken mars neptune
 1
 7 1
 2
-0 26 1 10
 0 24 1 0
+0 26 1 10
 1
 end_operator
 begin_operator
@@ -9118,8 +9118,8 @@ overcome sciatica excitement chicken neptune uranus
 1
 7 1
 2
-0 26 1 10
 0 24 3 1
+0 26 1 10
 1
 end_operator
 begin_operator
@@ -9127,8 +9127,8 @@ overcome sciatica excitement chicken uranus pluto
 1
 7 1
 2
-0 26 1 10
 0 24 2 3
+0 26 1 10
 1
 end_operator
 begin_operator
@@ -9136,8 +9136,8 @@ overcome sciatica excitement cod mars neptune
 1
 7 2
 2
-0 26 2 10
 0 24 1 0
+0 26 2 10
 1
 end_operator
 begin_operator
@@ -9145,8 +9145,8 @@ overcome sciatica excitement cod neptune uranus
 1
 7 2
 2
-0 26 2 10
 0 24 3 1
+0 26 2 10
 1
 end_operator
 begin_operator
@@ -9154,8 +9154,8 @@ overcome sciatica excitement cod uranus pluto
 1
 7 2
 2
-0 26 2 10
 0 24 2 3
+0 26 2 10
 1
 end_operator
 begin_operator
@@ -9163,8 +9163,8 @@ overcome sciatica excitement cucumber mars neptune
 1
 7 3
 2
-0 26 3 10
 0 24 1 0
+0 26 3 10
 1
 end_operator
 begin_operator
@@ -9172,8 +9172,8 @@ overcome sciatica excitement cucumber neptune uranus
 1
 7 3
 2
-0 26 3 10
 0 24 3 1
+0 26 3 10
 1
 end_operator
 begin_operator
@@ -9181,8 +9181,8 @@ overcome sciatica excitement cucumber uranus pluto
 1
 7 3
 2
-0 26 3 10
 0 24 2 3
+0 26 3 10
 1
 end_operator
 begin_operator
@@ -9190,8 +9190,8 @@ overcome sciatica excitement onion mars neptune
 1
 7 4
 2
-0 26 4 10
 0 24 1 0
+0 26 4 10
 1
 end_operator
 begin_operator
@@ -9199,8 +9199,8 @@ overcome sciatica excitement onion neptune uranus
 1
 7 4
 2
-0 26 4 10
 0 24 3 1
+0 26 4 10
 1
 end_operator
 begin_operator
@@ -9208,8 +9208,8 @@ overcome sciatica excitement onion uranus pluto
 1
 7 4
 2
-0 26 4 10
 0 24 2 3
+0 26 4 10
 1
 end_operator
 begin_operator
@@ -9217,8 +9217,8 @@ overcome sciatica excitement pepper mars neptune
 1
 7 5
 2
-0 26 5 10
 0 24 1 0
+0 26 5 10
 1
 end_operator
 begin_operator
@@ -9226,8 +9226,8 @@ overcome sciatica excitement pepper neptune uranus
 1
 7 5
 2
-0 26 5 10
 0 24 3 1
+0 26 5 10
 1
 end_operator
 begin_operator
@@ -9235,8 +9235,8 @@ overcome sciatica excitement pepper uranus pluto
 1
 7 5
 2
-0 26 5 10
 0 24 2 3
+0 26 5 10
 1
 end_operator
 begin_operator
@@ -9244,8 +9244,8 @@ overcome sciatica excitement pork mars neptune
 1
 7 6
 2
-0 26 6 10
 0 24 1 0
+0 26 6 10
 1
 end_operator
 begin_operator
@@ -9253,8 +9253,8 @@ overcome sciatica excitement pork neptune uranus
 1
 7 6
 2
-0 26 6 10
 0 24 3 1
+0 26 6 10
 1
 end_operator
 begin_operator
@@ -9262,8 +9262,8 @@ overcome sciatica excitement pork uranus pluto
 1
 7 6
 2
-0 26 6 10
 0 24 2 3
+0 26 6 10
 1
 end_operator
 begin_operator
@@ -9271,8 +9271,8 @@ overcome sciatica excitement sweetroll mars neptune
 1
 7 7
 2
-0 26 7 10
 0 24 1 0
+0 26 7 10
 1
 end_operator
 begin_operator
@@ -9280,8 +9280,8 @@ overcome sciatica excitement sweetroll neptune uranus
 1
 7 7
 2
-0 26 7 10
 0 24 3 1
+0 26 7 10
 1
 end_operator
 begin_operator
@@ -9289,8 +9289,8 @@ overcome sciatica excitement sweetroll uranus pluto
 1
 7 7
 2
-0 26 7 10
 0 24 2 3
+0 26 7 10
 1
 end_operator
 begin_operator
@@ -9298,8 +9298,8 @@ overcome sciatica excitement turkey mars neptune
 1
 7 8
 2
-0 26 8 10
 0 24 1 0
+0 26 8 10
 1
 end_operator
 begin_operator
@@ -9307,8 +9307,8 @@ overcome sciatica excitement turkey neptune uranus
 1
 7 8
 2
-0 26 8 10
 0 24 3 1
+0 26 8 10
 1
 end_operator
 begin_operator
@@ -9316,8 +9316,8 @@ overcome sciatica excitement turkey uranus pluto
 1
 7 8
 2
-0 26 8 10
 0 24 2 3
+0 26 8 10
 1
 end_operator
 begin_operator
@@ -9325,8 +9325,8 @@ overcome sciatica excitement yogurt mars neptune
 1
 7 9
 2
-0 26 9 10
 0 24 1 0
+0 26 9 10
 1
 end_operator
 begin_operator
@@ -9334,8 +9334,8 @@ overcome sciatica excitement yogurt neptune uranus
 1
 7 9
 2
-0 26 9 10
 0 24 3 1
+0 26 9 10
 1
 end_operator
 begin_operator
@@ -9343,8 +9343,8 @@ overcome sciatica excitement yogurt uranus pluto
 1
 7 9
 2
-0 26 9 10
 0 24 2 3
+0 26 9 10
 1
 end_operator
 begin_operator
@@ -9352,8 +9352,8 @@ overcome sciatica satiety cantelope mars neptune
 1
 10 0
 2
-0 26 0 11
 0 25 1 0
+0 26 0 11
 1
 end_operator
 begin_operator
@@ -9361,8 +9361,8 @@ overcome sciatica satiety cantelope neptune uranus
 1
 10 0
 2
-0 26 0 11
 0 25 3 1
+0 26 0 11
 1
 end_operator
 begin_operator
@@ -9370,8 +9370,8 @@ overcome sciatica satiety cantelope uranus pluto
 1
 10 0
 2
-0 26 0 11
 0 25 2 3
+0 26 0 11
 1
 end_operator
 begin_operator
@@ -9379,8 +9379,8 @@ overcome sciatica satiety chicken mars neptune
 1
 10 1
 2
-0 26 1 11
 0 25 1 0
+0 26 1 11
 1
 end_operator
 begin_operator
@@ -9388,8 +9388,8 @@ overcome sciatica satiety chicken neptune uranus
 1
 10 1
 2
-0 26 1 11
 0 25 3 1
+0 26 1 11
 1
 end_operator
 begin_operator
@@ -9397,8 +9397,8 @@ overcome sciatica satiety chicken uranus pluto
 1
 10 1
 2
-0 26 1 11
 0 25 2 3
+0 26 1 11
 1
 end_operator
 begin_operator
@@ -9406,8 +9406,8 @@ overcome sciatica satiety cod mars neptune
 1
 10 2
 2
-0 26 2 11
 0 25 1 0
+0 26 2 11
 1
 end_operator
 begin_operator
@@ -9415,8 +9415,8 @@ overcome sciatica satiety cod neptune uranus
 1
 10 2
 2
-0 26 2 11
 0 25 3 1
+0 26 2 11
 1
 end_operator
 begin_operator
@@ -9424,8 +9424,8 @@ overcome sciatica satiety cod uranus pluto
 1
 10 2
 2
-0 26 2 11
 0 25 2 3
+0 26 2 11
 1
 end_operator
 begin_operator
@@ -9433,8 +9433,8 @@ overcome sciatica satiety cucumber mars neptune
 1
 10 3
 2
-0 26 3 11
 0 25 1 0
+0 26 3 11
 1
 end_operator
 begin_operator
@@ -9442,8 +9442,8 @@ overcome sciatica satiety cucumber neptune uranus
 1
 10 3
 2
-0 26 3 11
 0 25 3 1
+0 26 3 11
 1
 end_operator
 begin_operator
@@ -9451,8 +9451,8 @@ overcome sciatica satiety cucumber uranus pluto
 1
 10 3
 2
-0 26 3 11
 0 25 2 3
+0 26 3 11
 1
 end_operator
 begin_operator
@@ -9460,8 +9460,8 @@ overcome sciatica satiety onion mars neptune
 1
 10 4
 2
-0 26 4 11
 0 25 1 0
+0 26 4 11
 1
 end_operator
 begin_operator
@@ -9469,8 +9469,8 @@ overcome sciatica satiety onion neptune uranus
 1
 10 4
 2
-0 26 4 11
 0 25 3 1
+0 26 4 11
 1
 end_operator
 begin_operator
@@ -9478,8 +9478,8 @@ overcome sciatica satiety onion uranus pluto
 1
 10 4
 2
-0 26 4 11
 0 25 2 3
+0 26 4 11
 1
 end_operator
 begin_operator
@@ -9487,8 +9487,8 @@ overcome sciatica satiety pepper mars neptune
 1
 10 5
 2
-0 26 5 11
 0 25 1 0
+0 26 5 11
 1
 end_operator
 begin_operator
@@ -9496,8 +9496,8 @@ overcome sciatica satiety pepper neptune uranus
 1
 10 5
 2
-0 26 5 11
 0 25 3 1
+0 26 5 11
 1
 end_operator
 begin_operator
@@ -9505,8 +9505,8 @@ overcome sciatica satiety pepper uranus pluto
 1
 10 5
 2
-0 26 5 11
 0 25 2 3
+0 26 5 11
 1
 end_operator
 begin_operator
@@ -9514,8 +9514,8 @@ overcome sciatica satiety pork mars neptune
 1
 10 6
 2
-0 26 6 11
 0 25 1 0
+0 26 6 11
 1
 end_operator
 begin_operator
@@ -9523,8 +9523,8 @@ overcome sciatica satiety pork neptune uranus
 1
 10 6
 2
-0 26 6 11
 0 25 3 1
+0 26 6 11
 1
 end_operator
 begin_operator
@@ -9532,8 +9532,8 @@ overcome sciatica satiety pork uranus pluto
 1
 10 6
 2
-0 26 6 11
 0 25 2 3
+0 26 6 11
 1
 end_operator
 begin_operator
@@ -9541,8 +9541,8 @@ overcome sciatica satiety sweetroll mars neptune
 1
 10 7
 2
-0 26 7 11
 0 25 1 0
+0 26 7 11
 1
 end_operator
 begin_operator
@@ -9550,8 +9550,8 @@ overcome sciatica satiety sweetroll neptune uranus
 1
 10 7
 2
-0 26 7 11
 0 25 3 1
+0 26 7 11
 1
 end_operator
 begin_operator
@@ -9559,8 +9559,8 @@ overcome sciatica satiety sweetroll uranus pluto
 1
 10 7
 2
-0 26 7 11
 0 25 2 3
+0 26 7 11
 1
 end_operator
 begin_operator
@@ -9568,8 +9568,8 @@ overcome sciatica satiety turkey mars neptune
 1
 10 8
 2
-0 26 8 11
 0 25 1 0
+0 26 8 11
 1
 end_operator
 begin_operator
@@ -9577,8 +9577,8 @@ overcome sciatica satiety turkey neptune uranus
 1
 10 8
 2
-0 26 8 11
 0 25 3 1
+0 26 8 11
 1
 end_operator
 begin_operator
@@ -9586,8 +9586,8 @@ overcome sciatica satiety turkey uranus pluto
 1
 10 8
 2
-0 26 8 11
 0 25 2 3
+0 26 8 11
 1
 end_operator
 begin_operator
@@ -9595,8 +9595,8 @@ overcome sciatica satiety yogurt mars neptune
 1
 10 9
 2
-0 26 9 11
 0 25 1 0
+0 26 9 11
 1
 end_operator
 begin_operator
@@ -9604,8 +9604,8 @@ overcome sciatica satiety yogurt neptune uranus
 1
 10 9
 2
-0 26 9 11
 0 25 3 1
+0 26 9 11
 1
 end_operator
 begin_operator
@@ -9613,8 +9613,8 @@ overcome sciatica satiety yogurt uranus pluto
 1
 10 9
 2
-0 26 9 11
 0 25 2 3
+0 26 9 11
 1
 end_operator
 begin_operator
@@ -16102,8 +16102,8 @@ succumb sciatica excitement cantelope mars neptune
 1
 7 0
 2
-0 26 10 0
 0 24 0 1
+0 26 10 0
 1
 end_operator
 begin_operator
@@ -16111,8 +16111,8 @@ succumb sciatica excitement cantelope neptune uranus
 1
 7 0
 2
-0 26 10 0
 0 24 1 3
+0 26 10 0
 1
 end_operator
 begin_operator
@@ -16120,8 +16120,8 @@ succumb sciatica excitement cantelope uranus pluto
 1
 7 0
 2
-0 26 10 0
 0 24 3 2
+0 26 10 0
 1
 end_operator
 begin_operator
@@ -16129,8 +16129,8 @@ succumb sciatica excitement chicken mars neptune
 1
 7 1
 2
-0 26 10 1
 0 24 0 1
+0 26 10 1
 1
 end_operator
 begin_operator
@@ -16138,8 +16138,8 @@ succumb sciatica excitement chicken neptune uranus
 1
 7 1
 2
-0 26 10 1
 0 24 1 3
+0 26 10 1
 1
 end_operator
 begin_operator
@@ -16147,8 +16147,8 @@ succumb sciatica excitement chicken uranus pluto
 1
 7 1
 2
-0 26 10 1
 0 24 3 2
+0 26 10 1
 1
 end_operator
 begin_operator
@@ -16156,8 +16156,8 @@ succumb sciatica excitement cod mars neptune
 1
 7 2
 2
-0 26 10 2
 0 24 0 1
+0 26 10 2
 1
 end_operator
 begin_operator
@@ -16165,8 +16165,8 @@ succumb sciatica excitement cod neptune uranus
 1
 7 2
 2
-0 26 10 2
 0 24 1 3
+0 26 10 2
 1
 end_operator
 begin_operator
@@ -16174,8 +16174,8 @@ succumb sciatica excitement cod uranus pluto
 1
 7 2
 2
-0 26 10 2
 0 24 3 2
+0 26 10 2
 1
 end_operator
 begin_operator
@@ -16183,8 +16183,8 @@ succumb sciatica excitement cucumber mars neptune
 1
 7 3
 2
-0 26 10 3
 0 24 0 1
+0 26 10 3
 1
 end_operator
 begin_operator
@@ -16192,8 +16192,8 @@ succumb sciatica excitement cucumber neptune uranus
 1
 7 3
 2
-0 26 10 3
 0 24 1 3
+0 26 10 3
 1
 end_operator
 begin_operator
@@ -16201,8 +16201,8 @@ succumb sciatica excitement cucumber uranus pluto
 1
 7 3
 2
-0 26 10 3
 0 24 3 2
+0 26 10 3
 1
 end_operator
 begin_operator
@@ -16210,8 +16210,8 @@ succumb sciatica excitement onion mars neptune
 1
 7 4
 2
-0 26 10 4
 0 24 0 1
+0 26 10 4
 1
 end_operator
 begin_operator
@@ -16219,8 +16219,8 @@ succumb sciatica excitement onion neptune uranus
 1
 7 4
 2
-0 26 10 4
 0 24 1 3
+0 26 10 4
 1
 end_operator
 begin_operator
@@ -16228,8 +16228,8 @@ succumb sciatica excitement onion uranus pluto
 1
 7 4
 2
-0 26 10 4
 0 24 3 2
+0 26 10 4
 1
 end_operator
 begin_operator
@@ -16237,8 +16237,8 @@ succumb sciatica excitement pepper mars neptune
 1
 7 5
 2
-0 26 10 5
 0 24 0 1
+0 26 10 5
 1
 end_operator
 begin_operator
@@ -16246,8 +16246,8 @@ succumb sciatica excitement pepper neptune uranus
 1
 7 5
 2
-0 26 10 5
 0 24 1 3
+0 26 10 5
 1
 end_operator
 begin_operator
@@ -16255,8 +16255,8 @@ succumb sciatica excitement pepper uranus pluto
 1
 7 5
 2
-0 26 10 5
 0 24 3 2
+0 26 10 5
 1
 end_operator
 begin_operator
@@ -16264,8 +16264,8 @@ succumb sciatica excitement pork mars neptune
 1
 7 6
 2
-0 26 10 6
 0 24 0 1
+0 26 10 6
 1
 end_operator
 begin_operator
@@ -16273,8 +16273,8 @@ succumb sciatica excitement pork neptune uranus
 1
 7 6
 2
-0 26 10 6
 0 24 1 3
+0 26 10 6
 1
 end_operator
 begin_operator
@@ -16282,8 +16282,8 @@ succumb sciatica excitement pork uranus pluto
 1
 7 6
 2
-0 26 10 6
 0 24 3 2
+0 26 10 6
 1
 end_operator
 begin_operator
@@ -16291,8 +16291,8 @@ succumb sciatica excitement sweetroll mars neptune
 1
 7 7
 2
-0 26 10 7
 0 24 0 1
+0 26 10 7
 1
 end_operator
 begin_operator
@@ -16300,8 +16300,8 @@ succumb sciatica excitement sweetroll neptune uranus
 1
 7 7
 2
-0 26 10 7
 0 24 1 3
+0 26 10 7
 1
 end_operator
 begin_operator
@@ -16309,8 +16309,8 @@ succumb sciatica excitement sweetroll uranus pluto
 1
 7 7
 2
-0 26 10 7
 0 24 3 2
+0 26 10 7
 1
 end_operator
 begin_operator
@@ -16318,8 +16318,8 @@ succumb sciatica excitement turkey mars neptune
 1
 7 8
 2
-0 26 10 8
 0 24 0 1
+0 26 10 8
 1
 end_operator
 begin_operator
@@ -16327,8 +16327,8 @@ succumb sciatica excitement turkey neptune uranus
 1
 7 8
 2
-0 26 10 8
 0 24 1 3
+0 26 10 8
 1
 end_operator
 begin_operator
@@ -16336,8 +16336,8 @@ succumb sciatica excitement turkey uranus pluto
 1
 7 8
 2
-0 26 10 8
 0 24 3 2
+0 26 10 8
 1
 end_operator
 begin_operator
@@ -16345,8 +16345,8 @@ succumb sciatica excitement yogurt mars neptune
 1
 7 9
 2
-0 26 10 9
 0 24 0 1
+0 26 10 9
 1
 end_operator
 begin_operator
@@ -16354,8 +16354,8 @@ succumb sciatica excitement yogurt neptune uranus
 1
 7 9
 2
-0 26 10 9
 0 24 1 3
+0 26 10 9
 1
 end_operator
 begin_operator
@@ -16363,8 +16363,8 @@ succumb sciatica excitement yogurt uranus pluto
 1
 7 9
 2
-0 26 10 9
 0 24 3 2
+0 26 10 9
 1
 end_operator
 begin_operator
@@ -16372,8 +16372,8 @@ succumb sciatica satiety cantelope mars neptune
 1
 10 0
 2
-0 26 11 0
 0 25 0 1
+0 26 11 0
 1
 end_operator
 begin_operator
@@ -16381,8 +16381,8 @@ succumb sciatica satiety cantelope neptune uranus
 1
 10 0
 2
-0 26 11 0
 0 25 1 3
+0 26 11 0
 1
 end_operator
 begin_operator
@@ -16390,8 +16390,8 @@ succumb sciatica satiety cantelope uranus pluto
 1
 10 0
 2
-0 26 11 0
 0 25 3 2
+0 26 11 0
 1
 end_operator
 begin_operator
@@ -16399,8 +16399,8 @@ succumb sciatica satiety chicken mars neptune
 1
 10 1
 2
-0 26 11 1
 0 25 0 1
+0 26 11 1
 1
 end_operator
 begin_operator
@@ -16408,8 +16408,8 @@ succumb sciatica satiety chicken neptune uranus
 1
 10 1
 2
-0 26 11 1
 0 25 1 3
+0 26 11 1
 1
 end_operator
 begin_operator
@@ -16417,8 +16417,8 @@ succumb sciatica satiety chicken uranus pluto
 1
 10 1
 2
-0 26 11 1
 0 25 3 2
+0 26 11 1
 1
 end_operator
 begin_operator
@@ -16426,8 +16426,8 @@ succumb sciatica satiety cod mars neptune
 1
 10 2
 2
-0 26 11 2
 0 25 0 1
+0 26 11 2
 1
 end_operator
 begin_operator
@@ -16435,8 +16435,8 @@ succumb sciatica satiety cod neptune uranus
 1
 10 2
 2
-0 26 11 2
 0 25 1 3
+0 26 11 2
 1
 end_operator
 begin_operator
@@ -16444,8 +16444,8 @@ succumb sciatica satiety cod uranus pluto
 1
 10 2
 2
-0 26 11 2
 0 25 3 2
+0 26 11 2
 1
 end_operator
 begin_operator
@@ -16453,8 +16453,8 @@ succumb sciatica satiety cucumber mars neptune
 1
 10 3
 2
-0 26 11 3
 0 25 0 1
+0 26 11 3
 1
 end_operator
 begin_operator
@@ -16462,8 +16462,8 @@ succumb sciatica satiety cucumber neptune uranus
 1
 10 3
 2
-0 26 11 3
 0 25 1 3
+0 26 11 3
 1
 end_operator
 begin_operator
@@ -16471,8 +16471,8 @@ succumb sciatica satiety cucumber uranus pluto
 1
 10 3
 2
-0 26 11 3
 0 25 3 2
+0 26 11 3
 1
 end_operator
 begin_operator
@@ -16480,8 +16480,8 @@ succumb sciatica satiety onion mars neptune
 1
 10 4
 2
-0 26 11 4
 0 25 0 1
+0 26 11 4
 1
 end_operator
 begin_operator
@@ -16489,8 +16489,8 @@ succumb sciatica satiety onion neptune uranus
 1
 10 4
 2
-0 26 11 4
 0 25 1 3
+0 26 11 4
 1
 end_operator
 begin_operator
@@ -16498,8 +16498,8 @@ succumb sciatica satiety onion uranus pluto
 1
 10 4
 2
-0 26 11 4
 0 25 3 2
+0 26 11 4
 1
 end_operator
 begin_operator
@@ -16507,8 +16507,8 @@ succumb sciatica satiety pepper mars neptune
 1
 10 5
 2
-0 26 11 5
 0 25 0 1
+0 26 11 5
 1
 end_operator
 begin_operator
@@ -16516,8 +16516,8 @@ succumb sciatica satiety pepper neptune uranus
 1
 10 5
 2
-0 26 11 5
 0 25 1 3
+0 26 11 5
 1
 end_operator
 begin_operator
@@ -16525,8 +16525,8 @@ succumb sciatica satiety pepper uranus pluto
 1
 10 5
 2
-0 26 11 5
 0 25 3 2
+0 26 11 5
 1
 end_operator
 begin_operator
@@ -16534,8 +16534,8 @@ succumb sciatica satiety pork mars neptune
 1
 10 6
 2
-0 26 11 6
 0 25 0 1
+0 26 11 6
 1
 end_operator
 begin_operator
@@ -16543,8 +16543,8 @@ succumb sciatica satiety pork neptune uranus
 1
 10 6
 2
-0 26 11 6
 0 25 1 3
+0 26 11 6
 1
 end_operator
 begin_operator
@@ -16552,8 +16552,8 @@ succumb sciatica satiety pork uranus pluto
 1
 10 6
 2
-0 26 11 6
 0 25 3 2
+0 26 11 6
 1
 end_operator
 begin_operator
@@ -16561,8 +16561,8 @@ succumb sciatica satiety sweetroll mars neptune
 1
 10 7
 2
-0 26 11 7
 0 25 0 1
+0 26 11 7
 1
 end_operator
 begin_operator
@@ -16570,8 +16570,8 @@ succumb sciatica satiety sweetroll neptune uranus
 1
 10 7
 2
-0 26 11 7
 0 25 1 3
+0 26 11 7
 1
 end_operator
 begin_operator
@@ -16579,8 +16579,8 @@ succumb sciatica satiety sweetroll uranus pluto
 1
 10 7
 2
-0 26 11 7
 0 25 3 2
+0 26 11 7
 1
 end_operator
 begin_operator
@@ -16588,8 +16588,8 @@ succumb sciatica satiety turkey mars neptune
 1
 10 8
 2
-0 26 11 8
 0 25 0 1
+0 26 11 8
 1
 end_operator
 begin_operator
@@ -16597,8 +16597,8 @@ succumb sciatica satiety turkey neptune uranus
 1
 10 8
 2
-0 26 11 8
 0 25 1 3
+0 26 11 8
 1
 end_operator
 begin_operator
@@ -16606,8 +16606,8 @@ succumb sciatica satiety turkey uranus pluto
 1
 10 8
 2
-0 26 11 8
 0 25 3 2
+0 26 11 8
 1
 end_operator
 begin_operator
@@ -16615,8 +16615,8 @@ succumb sciatica satiety yogurt mars neptune
 1
 10 9
 2
-0 26 11 9
 0 25 0 1
+0 26 11 9
 1
 end_operator
 begin_operator
@@ -16624,8 +16624,8 @@ succumb sciatica satiety yogurt neptune uranus
 1
 10 9
 2
-0 26 11 9
 0 25 1 3
+0 26 11 9
 1
 end_operator
 begin_operator
@@ -16633,8 +16633,8 @@ succumb sciatica satiety yogurt uranus pluto
 1
 10 9
 2
-0 26 11 9
 0 25 3 2
+0 26 11 9
 1
 end_operator
 0

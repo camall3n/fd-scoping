@@ -979,112 +979,112 @@ begin_operator
 feast curiosity beef chicken manitoba alsace
 0
 2
-0 19 1 2
 0 14 0 1
+0 19 1 2
 1
 end_operator
 begin_operator
 feast curiosity beef grapefruit manitoba alsace
 0
 2
-0 19 1 3
 0 14 0 1
+0 19 1 3
 1
 end_operator
 begin_operator
 feast curiosity beef lobster manitoba alsace
 0
 2
-0 19 1 6
 0 14 0 1
+0 19 1 6
 1
 end_operator
 begin_operator
 feast curiosity chicken beef alsace bosnia
 0
 2
-0 19 2 1
 0 18 1 0
+0 19 2 1
 1
 end_operator
 begin_operator
 feast curiosity chicken beef bosnia kentucky
 0
 2
-0 19 2 1
 0 18 2 1
+0 19 2 1
 1
 end_operator
 begin_operator
 feast curiosity chicken beef kentucky pennsylvania
 0
 2
-0 19 2 1
 0 18 4 2
+0 19 2 1
 1
 end_operator
 begin_operator
 feast curiosity chicken beef manitoba alsace
 0
 2
-0 19 2 1
 0 18 0 3
+0 19 2 1
 1
 end_operator
 begin_operator
 feast curiosity chicken hotdog alsace bosnia
 0
 2
-0 19 2 5
 0 18 1 0
+0 19 2 5
 1
 end_operator
 begin_operator
 feast curiosity chicken hotdog bosnia kentucky
 0
 2
-0 19 2 5
 0 18 2 1
+0 19 2 5
 1
 end_operator
 begin_operator
 feast curiosity chicken hotdog kentucky pennsylvania
 0
 2
-0 19 2 5
 0 18 4 2
+0 19 2 5
 1
 end_operator
 begin_operator
 feast curiosity chicken hotdog manitoba alsace
 0
 2
-0 19 2 5
 0 18 0 3
+0 19 2 5
 1
 end_operator
 begin_operator
 feast curiosity grapefruit beef manitoba alsace
 0
 2
-0 19 3 1
 0 15 0 1
+0 19 3 1
 1
 end_operator
 begin_operator
 feast curiosity grapefruit haroset manitoba alsace
 0
 2
-0 19 3 4
 0 15 0 1
+0 19 3 4
 1
 end_operator
 begin_operator
 feast curiosity grapefruit hotdog manitoba alsace
 0
 2
-0 19 3 5
 0 15 0 1
+0 19 3 5
 1
 end_operator
 begin_operator
@@ -1155,64 +1155,64 @@ begin_operator
 feast curiosity lobster bacon alsace bosnia
 0
 2
-0 19 6 0
 0 16 1 0
+0 19 6 0
 1
 end_operator
 begin_operator
 feast curiosity lobster bacon manitoba alsace
 0
 2
-0 19 6 0
 0 16 0 2
+0 19 6 0
 1
 end_operator
 begin_operator
 feast curiosity lobster beef alsace bosnia
 0
 2
-0 19 6 1
 0 16 1 0
+0 19 6 1
 1
 end_operator
 begin_operator
 feast curiosity lobster beef manitoba alsace
 0
 2
-0 19 6 1
 0 16 0 2
+0 19 6 1
 1
 end_operator
 begin_operator
 feast curiosity wonderbread bacon alsace bosnia
 0
 2
-0 19 7 0
 0 17 1 0
+0 19 7 0
 1
 end_operator
 begin_operator
 feast curiosity wonderbread bacon manitoba alsace
 0
 2
-0 19 7 0
 0 17 0 2
+0 19 7 0
 1
 end_operator
 begin_operator
 feast curiosity wonderbread hotdog alsace bosnia
 0
 2
-0 19 7 5
 0 17 1 0
+0 19 7 5
 1
 end_operator
 begin_operator
 feast curiosity wonderbread hotdog manitoba alsace
 0
 2
-0 19 7 5
 0 17 0 2
+0 19 7 5
 1
 end_operator
 begin_operator
@@ -1315,496 +1315,496 @@ begin_operator
 feast empathy beef chicken manitoba alsace
 0
 2
-0 21 1 2
 0 14 0 1
+0 21 1 2
 1
 end_operator
 begin_operator
 feast empathy beef grapefruit manitoba alsace
 0
 2
-0 21 1 3
 0 14 0 1
+0 21 1 3
 1
 end_operator
 begin_operator
 feast empathy beef lobster manitoba alsace
 0
 2
-0 21 1 6
 0 14 0 1
+0 21 1 6
 1
 end_operator
 begin_operator
 feast empathy chicken beef alsace bosnia
 0
 2
-0 21 2 1
 0 18 1 0
+0 21 2 1
 1
 end_operator
 begin_operator
 feast empathy chicken beef bosnia kentucky
 0
 2
-0 21 2 1
 0 18 2 1
+0 21 2 1
 1
 end_operator
 begin_operator
 feast empathy chicken beef kentucky pennsylvania
 0
 2
-0 21 2 1
 0 18 4 2
+0 21 2 1
 1
 end_operator
 begin_operator
 feast empathy chicken beef manitoba alsace
 0
 2
-0 21 2 1
 0 18 0 3
+0 21 2 1
 1
 end_operator
 begin_operator
 feast empathy chicken hotdog alsace bosnia
 0
 2
-0 21 2 5
 0 18 1 0
+0 21 2 5
 1
 end_operator
 begin_operator
 feast empathy chicken hotdog bosnia kentucky
 0
 2
-0 21 2 5
 0 18 2 1
+0 21 2 5
 1
 end_operator
 begin_operator
 feast empathy chicken hotdog kentucky pennsylvania
 0
 2
-0 21 2 5
 0 18 4 2
+0 21 2 5
 1
 end_operator
 begin_operator
 feast empathy chicken hotdog manitoba alsace
 0
 2
-0 21 2 5
 0 18 0 3
+0 21 2 5
 1
 end_operator
 begin_operator
 feast empathy grapefruit beef manitoba alsace
 0
 2
-0 21 3 1
 0 15 0 1
+0 21 3 1
 1
 end_operator
 begin_operator
 feast empathy grapefruit haroset manitoba alsace
 0
 2
-0 21 3 4
 0 15 0 1
+0 21 3 4
 1
 end_operator
 begin_operator
 feast empathy grapefruit hotdog manitoba alsace
 0
 2
-0 21 3 5
 0 15 0 1
+0 21 3 5
 1
 end_operator
 begin_operator
 feast empathy haroset bacon alsace bosnia
 0
 2
-0 21 4 0
 0 20 1 0
+0 21 4 0
 1
 end_operator
 begin_operator
 feast empathy haroset bacon bosnia kentucky
 0
 2
-0 21 4 0
 0 20 2 1
+0 21 4 0
 1
 end_operator
 begin_operator
 feast empathy haroset bacon kentucky pennsylvania
 0
 2
-0 21 4 0
 0 20 4 2
+0 21 4 0
 1
 end_operator
 begin_operator
 feast empathy haroset bacon manitoba alsace
 0
 2
-0 21 4 0
 0 20 0 3
+0 21 4 0
 1
 end_operator
 begin_operator
 feast empathy haroset grapefruit alsace bosnia
 0
 2
-0 21 4 3
 0 20 1 0
+0 21 4 3
 1
 end_operator
 begin_operator
 feast empathy haroset grapefruit bosnia kentucky
 0
 2
-0 21 4 3
 0 20 2 1
+0 21 4 3
 1
 end_operator
 begin_operator
 feast empathy haroset grapefruit kentucky pennsylvania
 0
 2
-0 21 4 3
 0 20 4 2
+0 21 4 3
 1
 end_operator
 begin_operator
 feast empathy haroset grapefruit manitoba alsace
 0
 2
-0 21 4 3
 0 20 0 3
+0 21 4 3
 1
 end_operator
 begin_operator
 feast empathy lobster bacon alsace bosnia
 0
 2
-0 21 6 0
 0 16 1 0
+0 21 6 0
 1
 end_operator
 begin_operator
 feast empathy lobster bacon manitoba alsace
 0
 2
-0 21 6 0
 0 16 0 2
+0 21 6 0
 1
 end_operator
 begin_operator
 feast empathy lobster beef alsace bosnia
 0
 2
-0 21 6 1
 0 16 1 0
+0 21 6 1
 1
 end_operator
 begin_operator
 feast empathy lobster beef manitoba alsace
 0
 2
-0 21 6 1
 0 16 0 2
+0 21 6 1
 1
 end_operator
 begin_operator
 feast empathy wonderbread bacon alsace bosnia
 0
 2
-0 21 7 0
 0 17 1 0
+0 21 7 0
 1
 end_operator
 begin_operator
 feast empathy wonderbread bacon manitoba alsace
 0
 2
-0 21 7 0
 0 17 0 2
+0 21 7 0
 1
 end_operator
 begin_operator
 feast empathy wonderbread hotdog alsace bosnia
 0
 2
-0 21 7 5
 0 17 1 0
+0 21 7 5
 1
 end_operator
 begin_operator
 feast empathy wonderbread hotdog manitoba alsace
 0
 2
-0 21 7 5
 0 17 0 2
+0 21 7 5
 1
 end_operator
 begin_operator
 feast intoxication apple onion alsace bosnia
 0
 2
-0 7 0 7
 0 4 1 0
+0 7 0 7
 1
 end_operator
 begin_operator
 feast intoxication apple onion bosnia kentucky
 0
 2
-0 7 0 7
 0 4 2 1
+0 7 0 7
 1
 end_operator
 begin_operator
 feast intoxication apple onion kentucky pennsylvania
 0
 2
-0 7 0 7
 0 4 4 2
+0 7 0 7
 1
 end_operator
 begin_operator
 feast intoxication apple onion manitoba alsace
 0
 2
-0 7 0 7
 0 4 0 3
+0 7 0 7
 1
 end_operator
 begin_operator
 feast intoxication apple pistachio alsace bosnia
 0
 2
-0 7 0 9
 0 4 1 0
+0 7 0 9
 1
 end_operator
 begin_operator
 feast intoxication apple pistachio bosnia kentucky
 0
 2
-0 7 0 9
 0 4 2 1
+0 7 0 9
 1
 end_operator
 begin_operator
 feast intoxication apple pistachio kentucky pennsylvania
 0
 2
-0 7 0 9
 0 4 4 2
+0 7 0 9
 1
 end_operator
 begin_operator
 feast intoxication apple pistachio manitoba alsace
 0
 2
-0 7 0 9
 0 4 0 3
+0 7 0 9
 1
 end_operator
 begin_operator
 feast intoxication cherry pistachio alsace bosnia
 0
 2
-0 7 1 9
 0 2 1 0
+0 7 1 9
 1
 end_operator
 begin_operator
 feast intoxication cherry pistachio bosnia kentucky
 0
 2
-0 7 1 9
 0 2 2 1
+0 7 1 9
 1
 end_operator
 begin_operator
 feast intoxication cherry pistachio manitoba alsace
 0
 2
-0 7 1 9
 0 2 0 3
+0 7 1 9
 1
 end_operator
 begin_operator
 feast intoxication cherry sweetroll alsace bosnia
 0
 2
-0 7 1 11
 0 2 1 0
+0 7 1 11
 1
 end_operator
 begin_operator
 feast intoxication cherry sweetroll bosnia kentucky
 0
 2
-0 7 1 11
 0 2 2 1
+0 7 1 11
 1
 end_operator
 begin_operator
 feast intoxication cherry sweetroll manitoba alsace
 0
 2
-0 7 1 11
 0 2 0 3
+0 7 1 11
 1
 end_operator
 begin_operator
 feast intoxication flounder lamb alsace bosnia
 0
 2
-0 7 2 5
 0 5 1 0
+0 7 2 5
 1
 end_operator
 begin_operator
 feast intoxication flounder lamb bosnia kentucky
 0
 2
-0 7 2 5
 0 5 2 1
+0 7 2 5
 1
 end_operator
 begin_operator
 feast intoxication flounder lamb kentucky pennsylvania
 0
 2
-0 7 2 5
 0 5 4 2
+0 7 2 5
 1
 end_operator
 begin_operator
 feast intoxication flounder lamb manitoba alsace
 0
 2
-0 7 2 5
 0 5 0 3
+0 7 2 5
 1
 end_operator
 begin_operator
 feast intoxication flounder onion alsace bosnia
 0
 2
-0 7 2 7
 0 5 1 0
+0 7 2 7
 1
 end_operator
 begin_operator
 feast intoxication flounder onion bosnia kentucky
 0
 2
-0 7 2 7
 0 5 2 1
+0 7 2 7
 1
 end_operator
 begin_operator
 feast intoxication flounder onion kentucky pennsylvania
 0
 2
-0 7 2 7
 0 5 4 2
+0 7 2 7
 1
 end_operator
 begin_operator
 feast intoxication flounder onion manitoba alsace
 0
 2
-0 7 2 7
 0 5 0 3
+0 7 2 7
 1
 end_operator
 begin_operator
 feast intoxication ham papaya alsace bosnia
 0
 2
-0 7 3 8
 0 6 1 0
+0 7 3 8
 1
 end_operator
 begin_operator
 feast intoxication ham papaya bosnia kentucky
 0
 2
-0 7 3 8
 0 6 3 1
+0 7 3 8
 1
 end_operator
 begin_operator
 feast intoxication ham papaya kentucky pennsylvania
 0
 2
-0 7 3 8
 0 6 5 3
+0 7 3 8
 1
 end_operator
 begin_operator
 feast intoxication ham papaya manitoba alsace
 0
 2
-0 7 3 8
 0 6 0 4
+0 7 3 8
 1
 end_operator
 begin_operator
 feast intoxication ham papaya pennsylvania goias
 0
 2
-0 7 3 8
 0 6 2 5
+0 7 3 8
 1
 end_operator
 begin_operator
 feast intoxication ham scallop alsace bosnia
 0
 2
-0 7 3 10
 0 6 1 0
+0 7 3 10
 1
 end_operator
 begin_operator
 feast intoxication ham scallop bosnia kentucky
 0
 2
-0 7 3 10
 0 6 3 1
+0 7 3 10
 1
 end_operator
 begin_operator
 feast intoxication ham scallop kentucky pennsylvania
 0
 2
-0 7 3 10
 0 6 5 3
+0 7 3 10
 1
 end_operator
 begin_operator
 feast intoxication ham scallop manitoba alsace
 0
 2
-0 7 3 10
 0 6 0 4
+0 7 3 10
 1
 end_operator
 begin_operator
 feast intoxication ham scallop pennsylvania goias
 0
 2
-0 7 3 10
 0 6 2 5
+0 7 3 10
 1
 end_operator
 begin_operator
@@ -1907,88 +1907,88 @@ begin_operator
 feast intoxication okra lamb manitoba alsace
 0
 2
-0 7 6 5
 0 0 0 1
+0 7 6 5
 1
 end_operator
 begin_operator
 feast intoxication okra sweetroll manitoba alsace
 0
 2
-0 7 6 11
 0 0 0 1
+0 7 6 11
 1
 end_operator
 begin_operator
 feast intoxication onion apple manitoba alsace
 0
 2
-0 7 7 0
 0 1 0 1
+0 7 7 0
 1
 end_operator
 begin_operator
 feast intoxication onion flounder manitoba alsace
 0
 2
-0 7 7 2
 0 1 0 1
+0 7 7 2
 1
 end_operator
 begin_operator
 feast intoxication onion pistachio manitoba alsace
 0
 2
-0 7 7 9
 0 1 0 1
+0 7 7 9
 1
 end_operator
 begin_operator
 feast intoxication papaya ham alsace bosnia
 0
 2
-0 7 8 3
 0 3 1 0
+0 7 8 3
 1
 end_operator
 begin_operator
 feast intoxication papaya ham bosnia kentucky
 0
 2
-0 7 8 3
 0 3 2 1
+0 7 8 3
 1
 end_operator
 begin_operator
 feast intoxication papaya ham manitoba alsace
 0
 2
-0 7 8 3
 0 3 0 3
+0 7 8 3
 1
 end_operator
 begin_operator
 feast intoxication papaya lamb alsace bosnia
 0
 2
-0 7 8 5
 0 3 1 0
+0 7 8 5
 1
 end_operator
 begin_operator
 feast intoxication papaya lamb bosnia kentucky
 0
 2
-0 7 8 5
 0 3 2 1
+0 7 8 5
 1
 end_operator
 begin_operator
 feast intoxication papaya lamb manitoba alsace
 0
 2
-0 7 8 5
 0 3 0 3
+0 7 8 5
 1
 end_operator
 begin_operator
@@ -2203,256 +2203,256 @@ begin_operator
 feast learning apple onion alsace bosnia
 0
 2
-0 9 0 7
 0 4 1 0
+0 9 0 7
 1
 end_operator
 begin_operator
 feast learning apple onion bosnia kentucky
 0
 2
-0 9 0 7
 0 4 2 1
+0 9 0 7
 1
 end_operator
 begin_operator
 feast learning apple onion kentucky pennsylvania
 0
 2
-0 9 0 7
 0 4 4 2
+0 9 0 7
 1
 end_operator
 begin_operator
 feast learning apple onion manitoba alsace
 0
 2
-0 9 0 7
 0 4 0 3
+0 9 0 7
 1
 end_operator
 begin_operator
 feast learning apple pistachio alsace bosnia
 0
 2
-0 9 0 9
 0 4 1 0
+0 9 0 9
 1
 end_operator
 begin_operator
 feast learning apple pistachio bosnia kentucky
 0
 2
-0 9 0 9
 0 4 2 1
+0 9 0 9
 1
 end_operator
 begin_operator
 feast learning apple pistachio kentucky pennsylvania
 0
 2
-0 9 0 9
 0 4 4 2
+0 9 0 9
 1
 end_operator
 begin_operator
 feast learning apple pistachio manitoba alsace
 0
 2
-0 9 0 9
 0 4 0 3
+0 9 0 9
 1
 end_operator
 begin_operator
 feast learning cherry pistachio alsace bosnia
 0
 2
-0 9 1 9
 0 2 1 0
+0 9 1 9
 1
 end_operator
 begin_operator
 feast learning cherry pistachio bosnia kentucky
 0
 2
-0 9 1 9
 0 2 2 1
+0 9 1 9
 1
 end_operator
 begin_operator
 feast learning cherry pistachio manitoba alsace
 0
 2
-0 9 1 9
 0 2 0 3
+0 9 1 9
 1
 end_operator
 begin_operator
 feast learning cherry sweetroll alsace bosnia
 0
 2
-0 9 1 11
 0 2 1 0
+0 9 1 11
 1
 end_operator
 begin_operator
 feast learning cherry sweetroll bosnia kentucky
 0
 2
-0 9 1 11
 0 2 2 1
+0 9 1 11
 1
 end_operator
 begin_operator
 feast learning cherry sweetroll manitoba alsace
 0
 2
-0 9 1 11
 0 2 0 3
+0 9 1 11
 1
 end_operator
 begin_operator
 feast learning flounder lamb alsace bosnia
 0
 2
-0 9 2 5
 0 5 1 0
+0 9 2 5
 1
 end_operator
 begin_operator
 feast learning flounder lamb bosnia kentucky
 0
 2
-0 9 2 5
 0 5 2 1
+0 9 2 5
 1
 end_operator
 begin_operator
 feast learning flounder lamb kentucky pennsylvania
 0
 2
-0 9 2 5
 0 5 4 2
+0 9 2 5
 1
 end_operator
 begin_operator
 feast learning flounder lamb manitoba alsace
 0
 2
-0 9 2 5
 0 5 0 3
+0 9 2 5
 1
 end_operator
 begin_operator
 feast learning flounder onion alsace bosnia
 0
 2
-0 9 2 7
 0 5 1 0
+0 9 2 7
 1
 end_operator
 begin_operator
 feast learning flounder onion bosnia kentucky
 0
 2
-0 9 2 7
 0 5 2 1
+0 9 2 7
 1
 end_operator
 begin_operator
 feast learning flounder onion kentucky pennsylvania
 0
 2
-0 9 2 7
 0 5 4 2
+0 9 2 7
 1
 end_operator
 begin_operator
 feast learning flounder onion manitoba alsace
 0
 2
-0 9 2 7
 0 5 0 3
+0 9 2 7
 1
 end_operator
 begin_operator
 feast learning ham papaya alsace bosnia
 0
 2
-0 9 3 8
 0 6 1 0
+0 9 3 8
 1
 end_operator
 begin_operator
 feast learning ham papaya bosnia kentucky
 0
 2
-0 9 3 8
 0 6 3 1
+0 9 3 8
 1
 end_operator
 begin_operator
 feast learning ham papaya kentucky pennsylvania
 0
 2
-0 9 3 8
 0 6 5 3
+0 9 3 8
 1
 end_operator
 begin_operator
 feast learning ham papaya manitoba alsace
 0
 2
-0 9 3 8
 0 6 0 4
+0 9 3 8
 1
 end_operator
 begin_operator
 feast learning ham papaya pennsylvania goias
 0
 2
-0 9 3 8
 0 6 2 5
+0 9 3 8
 1
 end_operator
 begin_operator
 feast learning ham scallop alsace bosnia
 0
 2
-0 9 3 10
 0 6 1 0
+0 9 3 10
 1
 end_operator
 begin_operator
 feast learning ham scallop bosnia kentucky
 0
 2
-0 9 3 10
 0 6 3 1
+0 9 3 10
 1
 end_operator
 begin_operator
 feast learning ham scallop kentucky pennsylvania
 0
 2
-0 9 3 10
 0 6 5 3
+0 9 3 10
 1
 end_operator
 begin_operator
 feast learning ham scallop manitoba alsace
 0
 2
-0 9 3 10
 0 6 0 4
+0 9 3 10
 1
 end_operator
 begin_operator
 feast learning ham scallop pennsylvania goias
 0
 2
-0 9 3 10
 0 6 2 5
+0 9 3 10
 1
 end_operator
 begin_operator
@@ -2555,88 +2555,88 @@ begin_operator
 feast learning okra lamb manitoba alsace
 0
 2
-0 9 6 5
 0 0 0 1
+0 9 6 5
 1
 end_operator
 begin_operator
 feast learning okra sweetroll manitoba alsace
 0
 2
-0 9 6 11
 0 0 0 1
+0 9 6 11
 1
 end_operator
 begin_operator
 feast learning onion apple manitoba alsace
 0
 2
-0 9 7 0
 0 1 0 1
+0 9 7 0
 1
 end_operator
 begin_operator
 feast learning onion flounder manitoba alsace
 0
 2
-0 9 7 2
 0 1 0 1
+0 9 7 2
 1
 end_operator
 begin_operator
 feast learning onion pistachio manitoba alsace
 0
 2
-0 9 7 9
 0 1 0 1
+0 9 7 9
 1
 end_operator
 begin_operator
 feast learning papaya ham alsace bosnia
 0
 2
-0 9 8 3
 0 3 1 0
+0 9 8 3
 1
 end_operator
 begin_operator
 feast learning papaya ham bosnia kentucky
 0
 2
-0 9 8 3
 0 3 2 1
+0 9 8 3
 1
 end_operator
 begin_operator
 feast learning papaya ham manitoba alsace
 0
 2
-0 9 8 3
 0 3 0 3
+0 9 8 3
 1
 end_operator
 begin_operator
 feast learning papaya lamb alsace bosnia
 0
 2
-0 9 8 5
 0 3 1 0
+0 9 8 5
 1
 end_operator
 begin_operator
 feast learning papaya lamb bosnia kentucky
 0
 2
-0 9 8 5
 0 3 2 1
+0 9 8 5
 1
 end_operator
 begin_operator
 feast learning papaya lamb manitoba alsace
 0
 2
-0 9 8 5
 0 3 0 3
+0 9 8 5
 1
 end_operator
 begin_operator
@@ -2771,520 +2771,520 @@ begin_operator
 feast learning scallop ham alsace bosnia
 0
 2
-0 9 10 3
 0 8 1 0
+0 9 10 3
 1
 end_operator
 begin_operator
 feast learning scallop ham bosnia kentucky
 0
 2
-0 9 10 3
 0 8 3 1
+0 9 10 3
 1
 end_operator
 begin_operator
 feast learning scallop ham kentucky pennsylvania
 0
 2
-0 9 10 3
 0 8 5 3
+0 9 10 3
 1
 end_operator
 begin_operator
 feast learning scallop ham manitoba alsace
 0
 2
-0 9 10 3
 0 8 0 4
+0 9 10 3
 1
 end_operator
 begin_operator
 feast learning scallop ham pennsylvania goias
 0
 2
-0 9 10 3
 0 8 2 5
+0 9 10 3
 1
 end_operator
 begin_operator
 feast learning scallop pistachio alsace bosnia
 0
 2
-0 9 10 9
 0 8 1 0
+0 9 10 9
 1
 end_operator
 begin_operator
 feast learning scallop pistachio bosnia kentucky
 0
 2
-0 9 10 9
 0 8 3 1
+0 9 10 9
 1
 end_operator
 begin_operator
 feast learning scallop pistachio kentucky pennsylvania
 0
 2
-0 9 10 9
 0 8 5 3
+0 9 10 9
 1
 end_operator
 begin_operator
 feast learning scallop pistachio manitoba alsace
 0
 2
-0 9 10 9
 0 8 0 4
+0 9 10 9
 1
 end_operator
 begin_operator
 feast learning scallop pistachio pennsylvania goias
 0
 2
-0 9 10 9
 0 8 2 5
+0 9 10 9
 1
 end_operator
 begin_operator
 feast satisfaction apple onion alsace bosnia
 0
 2
-0 11 0 7
 0 4 1 0
+0 11 0 7
 1
 end_operator
 begin_operator
 feast satisfaction apple onion bosnia kentucky
 0
 2
-0 11 0 7
 0 4 2 1
+0 11 0 7
 1
 end_operator
 begin_operator
 feast satisfaction apple onion kentucky pennsylvania
 0
 2
-0 11 0 7
 0 4 4 2
+0 11 0 7
 1
 end_operator
 begin_operator
 feast satisfaction apple onion manitoba alsace
 0
 2
-0 11 0 7
 0 4 0 3
+0 11 0 7
 1
 end_operator
 begin_operator
 feast satisfaction apple pistachio alsace bosnia
 0
 2
-0 11 0 9
 0 4 1 0
+0 11 0 9
 1
 end_operator
 begin_operator
 feast satisfaction apple pistachio bosnia kentucky
 0
 2
-0 11 0 9
 0 4 2 1
+0 11 0 9
 1
 end_operator
 begin_operator
 feast satisfaction apple pistachio kentucky pennsylvania
 0
 2
-0 11 0 9
 0 4 4 2
+0 11 0 9
 1
 end_operator
 begin_operator
 feast satisfaction apple pistachio manitoba alsace
 0
 2
-0 11 0 9
 0 4 0 3
+0 11 0 9
 1
 end_operator
 begin_operator
 feast satisfaction cherry pistachio alsace bosnia
 0
 2
-0 11 1 9
 0 2 1 0
+0 11 1 9
 1
 end_operator
 begin_operator
 feast satisfaction cherry pistachio bosnia kentucky
 0
 2
-0 11 1 9
 0 2 2 1
+0 11 1 9
 1
 end_operator
 begin_operator
 feast satisfaction cherry pistachio manitoba alsace
 0
 2
-0 11 1 9
 0 2 0 3
+0 11 1 9
 1
 end_operator
 begin_operator
 feast satisfaction cherry sweetroll alsace bosnia
 0
 2
-0 11 1 11
 0 2 1 0
+0 11 1 11
 1
 end_operator
 begin_operator
 feast satisfaction cherry sweetroll bosnia kentucky
 0
 2
-0 11 1 11
 0 2 2 1
+0 11 1 11
 1
 end_operator
 begin_operator
 feast satisfaction cherry sweetroll manitoba alsace
 0
 2
-0 11 1 11
 0 2 0 3
+0 11 1 11
 1
 end_operator
 begin_operator
 feast satisfaction flounder lamb alsace bosnia
 0
 2
-0 11 2 5
 0 5 1 0
+0 11 2 5
 1
 end_operator
 begin_operator
 feast satisfaction flounder lamb bosnia kentucky
 0
 2
-0 11 2 5
 0 5 2 1
+0 11 2 5
 1
 end_operator
 begin_operator
 feast satisfaction flounder lamb kentucky pennsylvania
 0
 2
-0 11 2 5
 0 5 4 2
+0 11 2 5
 1
 end_operator
 begin_operator
 feast satisfaction flounder lamb manitoba alsace
 0
 2
-0 11 2 5
 0 5 0 3
+0 11 2 5
 1
 end_operator
 begin_operator
 feast satisfaction flounder onion alsace bosnia
 0
 2
-0 11 2 7
 0 5 1 0
+0 11 2 7
 1
 end_operator
 begin_operator
 feast satisfaction flounder onion bosnia kentucky
 0
 2
-0 11 2 7
 0 5 2 1
+0 11 2 7
 1
 end_operator
 begin_operator
 feast satisfaction flounder onion kentucky pennsylvania
 0
 2
-0 11 2 7
 0 5 4 2
+0 11 2 7
 1
 end_operator
 begin_operator
 feast satisfaction flounder onion manitoba alsace
 0
 2
-0 11 2 7
 0 5 0 3
+0 11 2 7
 1
 end_operator
 begin_operator
 feast satisfaction ham papaya alsace bosnia
 0
 2
-0 11 3 8
 0 6 1 0
+0 11 3 8
 1
 end_operator
 begin_operator
 feast satisfaction ham papaya bosnia kentucky
 0
 2
-0 11 3 8
 0 6 3 1
+0 11 3 8
 1
 end_operator
 begin_operator
 feast satisfaction ham papaya kentucky pennsylvania
 0
 2
-0 11 3 8
 0 6 5 3
+0 11 3 8
 1
 end_operator
 begin_operator
 feast satisfaction ham papaya manitoba alsace
 0
 2
-0 11 3 8
 0 6 0 4
+0 11 3 8
 1
 end_operator
 begin_operator
 feast satisfaction ham papaya pennsylvania goias
 0
 2
-0 11 3 8
 0 6 2 5
+0 11 3 8
 1
 end_operator
 begin_operator
 feast satisfaction ham scallop alsace bosnia
 0
 2
-0 11 3 10
 0 6 1 0
+0 11 3 10
 1
 end_operator
 begin_operator
 feast satisfaction ham scallop bosnia kentucky
 0
 2
-0 11 3 10
 0 6 3 1
+0 11 3 10
 1
 end_operator
 begin_operator
 feast satisfaction ham scallop kentucky pennsylvania
 0
 2
-0 11 3 10
 0 6 5 3
+0 11 3 10
 1
 end_operator
 begin_operator
 feast satisfaction ham scallop manitoba alsace
 0
 2
-0 11 3 10
 0 6 0 4
+0 11 3 10
 1
 end_operator
 begin_operator
 feast satisfaction ham scallop pennsylvania goias
 0
 2
-0 11 3 10
 0 6 2 5
+0 11 3 10
 1
 end_operator
 begin_operator
 feast satisfaction lamb flounder alsace bosnia
 0
 2
-0 11 5 2
 0 10 1 0
+0 11 5 2
 1
 end_operator
 begin_operator
 feast satisfaction lamb flounder bosnia kentucky
 0
 2
-0 11 5 2
 0 10 2 1
+0 11 5 2
 1
 end_operator
 begin_operator
 feast satisfaction lamb flounder manitoba alsace
 0
 2
-0 11 5 2
 0 10 0 3
+0 11 5 2
 1
 end_operator
 begin_operator
 feast satisfaction lamb hotdog alsace bosnia
 0
 2
-0 11 5 4
 0 10 1 0
+0 11 5 4
 1
 end_operator
 begin_operator
 feast satisfaction lamb hotdog bosnia kentucky
 0
 2
-0 11 5 4
 0 10 2 1
+0 11 5 4
 1
 end_operator
 begin_operator
 feast satisfaction lamb hotdog manitoba alsace
 0
 2
-0 11 5 4
 0 10 0 3
+0 11 5 4
 1
 end_operator
 begin_operator
 feast satisfaction lamb okra alsace bosnia
 0
 2
-0 11 5 6
 0 10 1 0
+0 11 5 6
 1
 end_operator
 begin_operator
 feast satisfaction lamb okra bosnia kentucky
 0
 2
-0 11 5 6
 0 10 2 1
+0 11 5 6
 1
 end_operator
 begin_operator
 feast satisfaction lamb okra manitoba alsace
 0
 2
-0 11 5 6
 0 10 0 3
+0 11 5 6
 1
 end_operator
 begin_operator
 feast satisfaction lamb papaya alsace bosnia
 0
 2
-0 11 5 8
 0 10 1 0
+0 11 5 8
 1
 end_operator
 begin_operator
 feast satisfaction lamb papaya bosnia kentucky
 0
 2
-0 11 5 8
 0 10 2 1
+0 11 5 8
 1
 end_operator
 begin_operator
 feast satisfaction lamb papaya manitoba alsace
 0
 2
-0 11 5 8
 0 10 0 3
+0 11 5 8
 1
 end_operator
 begin_operator
 feast satisfaction okra lamb manitoba alsace
 0
 2
-0 11 6 5
 0 0 0 1
+0 11 6 5
 1
 end_operator
 begin_operator
 feast satisfaction okra sweetroll manitoba alsace
 0
 2
-0 11 6 11
 0 0 0 1
+0 11 6 11
 1
 end_operator
 begin_operator
 feast satisfaction onion apple manitoba alsace
 0
 2
-0 11 7 0
 0 1 0 1
+0 11 7 0
 1
 end_operator
 begin_operator
 feast satisfaction onion flounder manitoba alsace
 0
 2
-0 11 7 2
 0 1 0 1
+0 11 7 2
 1
 end_operator
 begin_operator
 feast satisfaction onion pistachio manitoba alsace
 0
 2
-0 11 7 9
 0 1 0 1
+0 11 7 9
 1
 end_operator
 begin_operator
 feast satisfaction papaya ham alsace bosnia
 0
 2
-0 11 8 3
 0 3 1 0
+0 11 8 3
 1
 end_operator
 begin_operator
 feast satisfaction papaya ham bosnia kentucky
 0
 2
-0 11 8 3
 0 3 2 1
+0 11 8 3
 1
 end_operator
 begin_operator
 feast satisfaction papaya ham manitoba alsace
 0
 2
-0 11 8 3
 0 3 0 3
+0 11 8 3
 1
 end_operator
 begin_operator
 feast satisfaction papaya lamb alsace bosnia
 0
 2
-0 11 8 5
 0 3 1 0
+0 11 8 5
 1
 end_operator
 begin_operator
 feast satisfaction papaya lamb bosnia kentucky
 0
 2
-0 11 8 5
 0 3 2 1
+0 11 8 5
 1
 end_operator
 begin_operator
 feast satisfaction papaya lamb manitoba alsace
 0
 2
-0 11 8 5
 0 3 0 3
+0 11 8 5
 1
 end_operator
 begin_operator
@@ -3419,80 +3419,80 @@ begin_operator
 feast satisfaction scallop ham alsace bosnia
 0
 2
-0 11 10 3
 0 8 1 0
+0 11 10 3
 1
 end_operator
 begin_operator
 feast satisfaction scallop ham bosnia kentucky
 0
 2
-0 11 10 3
 0 8 3 1
+0 11 10 3
 1
 end_operator
 begin_operator
 feast satisfaction scallop ham kentucky pennsylvania
 0
 2
-0 11 10 3
 0 8 5 3
+0 11 10 3
 1
 end_operator
 begin_operator
 feast satisfaction scallop ham manitoba alsace
 0
 2
-0 11 10 3
 0 8 0 4
+0 11 10 3
 1
 end_operator
 begin_operator
 feast satisfaction scallop ham pennsylvania goias
 0
 2
-0 11 10 3
 0 8 2 5
+0 11 10 3
 1
 end_operator
 begin_operator
 feast satisfaction scallop pistachio alsace bosnia
 0
 2
-0 11 10 9
 0 8 1 0
+0 11 10 9
 1
 end_operator
 begin_operator
 feast satisfaction scallop pistachio bosnia kentucky
 0
 2
-0 11 10 9
 0 8 3 1
+0 11 10 9
 1
 end_operator
 begin_operator
 feast satisfaction scallop pistachio kentucky pennsylvania
 0
 2
-0 11 10 9
 0 8 5 3
+0 11 10 9
 1
 end_operator
 begin_operator
 feast satisfaction scallop pistachio manitoba alsace
 0
 2
-0 11 10 9
 0 8 0 4
+0 11 10 9
 1
 end_operator
 begin_operator
 feast satisfaction scallop pistachio pennsylvania goias
 0
 2
-0 11 10 9
 0 8 2 5
+0 11 10 9
 1
 end_operator
 begin_operator
@@ -3595,680 +3595,680 @@ begin_operator
 feast triumph beef chicken manitoba alsace
 0
 2
-0 22 1 2
 0 14 0 1
+0 22 1 2
 1
 end_operator
 begin_operator
 feast triumph beef grapefruit manitoba alsace
 0
 2
-0 22 1 3
 0 14 0 1
+0 22 1 3
 1
 end_operator
 begin_operator
 feast triumph beef lobster manitoba alsace
 0
 2
-0 22 1 6
 0 14 0 1
+0 22 1 6
 1
 end_operator
 begin_operator
 feast triumph chicken beef alsace bosnia
 0
 2
-0 22 2 1
 0 18 1 0
+0 22 2 1
 1
 end_operator
 begin_operator
 feast triumph chicken beef bosnia kentucky
 0
 2
-0 22 2 1
 0 18 2 1
+0 22 2 1
 1
 end_operator
 begin_operator
 feast triumph chicken beef kentucky pennsylvania
 0
 2
-0 22 2 1
 0 18 4 2
+0 22 2 1
 1
 end_operator
 begin_operator
 feast triumph chicken beef manitoba alsace
 0
 2
-0 22 2 1
 0 18 0 3
+0 22 2 1
 1
 end_operator
 begin_operator
 feast triumph chicken hotdog alsace bosnia
 0
 2
-0 22 2 5
 0 18 1 0
+0 22 2 5
 1
 end_operator
 begin_operator
 feast triumph chicken hotdog bosnia kentucky
 0
 2
-0 22 2 5
 0 18 2 1
+0 22 2 5
 1
 end_operator
 begin_operator
 feast triumph chicken hotdog kentucky pennsylvania
 0
 2
-0 22 2 5
 0 18 4 2
+0 22 2 5
 1
 end_operator
 begin_operator
 feast triumph chicken hotdog manitoba alsace
 0
 2
-0 22 2 5
 0 18 0 3
+0 22 2 5
 1
 end_operator
 begin_operator
 feast triumph grapefruit beef manitoba alsace
 0
 2
-0 22 3 1
 0 15 0 1
+0 22 3 1
 1
 end_operator
 begin_operator
 feast triumph grapefruit haroset manitoba alsace
 0
 2
-0 22 3 4
 0 15 0 1
+0 22 3 4
 1
 end_operator
 begin_operator
 feast triumph grapefruit hotdog manitoba alsace
 0
 2
-0 22 3 5
 0 15 0 1
+0 22 3 5
 1
 end_operator
 begin_operator
 feast triumph haroset bacon alsace bosnia
 0
 2
-0 22 4 0
 0 20 1 0
+0 22 4 0
 1
 end_operator
 begin_operator
 feast triumph haroset bacon bosnia kentucky
 0
 2
-0 22 4 0
 0 20 2 1
+0 22 4 0
 1
 end_operator
 begin_operator
 feast triumph haroset bacon kentucky pennsylvania
 0
 2
-0 22 4 0
 0 20 4 2
+0 22 4 0
 1
 end_operator
 begin_operator
 feast triumph haroset bacon manitoba alsace
 0
 2
-0 22 4 0
 0 20 0 3
+0 22 4 0
 1
 end_operator
 begin_operator
 feast triumph haroset grapefruit alsace bosnia
 0
 2
-0 22 4 3
 0 20 1 0
+0 22 4 3
 1
 end_operator
 begin_operator
 feast triumph haroset grapefruit bosnia kentucky
 0
 2
-0 22 4 3
 0 20 2 1
+0 22 4 3
 1
 end_operator
 begin_operator
 feast triumph haroset grapefruit kentucky pennsylvania
 0
 2
-0 22 4 3
 0 20 4 2
+0 22 4 3
 1
 end_operator
 begin_operator
 feast triumph haroset grapefruit manitoba alsace
 0
 2
-0 22 4 3
 0 20 0 3
+0 22 4 3
 1
 end_operator
 begin_operator
 feast triumph lobster bacon alsace bosnia
 0
 2
-0 22 6 0
 0 16 1 0
+0 22 6 0
 1
 end_operator
 begin_operator
 feast triumph lobster bacon manitoba alsace
 0
 2
-0 22 6 0
 0 16 0 2
+0 22 6 0
 1
 end_operator
 begin_operator
 feast triumph lobster beef alsace bosnia
 0
 2
-0 22 6 1
 0 16 1 0
+0 22 6 1
 1
 end_operator
 begin_operator
 feast triumph lobster beef manitoba alsace
 0
 2
-0 22 6 1
 0 16 0 2
+0 22 6 1
 1
 end_operator
 begin_operator
 feast triumph wonderbread bacon alsace bosnia
 0
 2
-0 22 7 0
 0 17 1 0
+0 22 7 0
 1
 end_operator
 begin_operator
 feast triumph wonderbread bacon manitoba alsace
 0
 2
-0 22 7 0
 0 17 0 2
+0 22 7 0
 1
 end_operator
 begin_operator
 feast triumph wonderbread hotdog alsace bosnia
 0
 2
-0 22 7 5
 0 17 1 0
+0 22 7 5
 1
 end_operator
 begin_operator
 feast triumph wonderbread hotdog manitoba alsace
 0
 2
-0 22 7 5
 0 17 0 2
+0 22 7 5
 1
 end_operator
 begin_operator
 feast understanding apple onion alsace bosnia
 0
 2
-0 12 0 7
 0 4 1 0
+0 12 0 7
 1
 end_operator
 begin_operator
 feast understanding apple onion bosnia kentucky
 0
 2
-0 12 0 7
 0 4 2 1
+0 12 0 7
 1
 end_operator
 begin_operator
 feast understanding apple onion kentucky pennsylvania
 0
 2
-0 12 0 7
 0 4 4 2
+0 12 0 7
 1
 end_operator
 begin_operator
 feast understanding apple onion manitoba alsace
 0
 2
-0 12 0 7
 0 4 0 3
+0 12 0 7
 1
 end_operator
 begin_operator
 feast understanding apple pistachio alsace bosnia
 0
 2
-0 12 0 9
 0 4 1 0
+0 12 0 9
 1
 end_operator
 begin_operator
 feast understanding apple pistachio bosnia kentucky
 0
 2
-0 12 0 9
 0 4 2 1
+0 12 0 9
 1
 end_operator
 begin_operator
 feast understanding apple pistachio kentucky pennsylvania
 0
 2
-0 12 0 9
 0 4 4 2
+0 12 0 9
 1
 end_operator
 begin_operator
 feast understanding apple pistachio manitoba alsace
 0
 2
-0 12 0 9
 0 4 0 3
+0 12 0 9
 1
 end_operator
 begin_operator
 feast understanding cherry pistachio alsace bosnia
 0
 2
-0 12 1 9
 0 2 1 0
+0 12 1 9
 1
 end_operator
 begin_operator
 feast understanding cherry pistachio bosnia kentucky
 0
 2
-0 12 1 9
 0 2 2 1
+0 12 1 9
 1
 end_operator
 begin_operator
 feast understanding cherry pistachio manitoba alsace
 0
 2
-0 12 1 9
 0 2 0 3
+0 12 1 9
 1
 end_operator
 begin_operator
 feast understanding cherry sweetroll alsace bosnia
 0
 2
-0 12 1 11
 0 2 1 0
+0 12 1 11
 1
 end_operator
 begin_operator
 feast understanding cherry sweetroll bosnia kentucky
 0
 2
-0 12 1 11
 0 2 2 1
+0 12 1 11
 1
 end_operator
 begin_operator
 feast understanding cherry sweetroll manitoba alsace
 0
 2
-0 12 1 11
 0 2 0 3
+0 12 1 11
 1
 end_operator
 begin_operator
 feast understanding flounder lamb alsace bosnia
 0
 2
-0 12 2 5
 0 5 1 0
+0 12 2 5
 1
 end_operator
 begin_operator
 feast understanding flounder lamb bosnia kentucky
 0
 2
-0 12 2 5
 0 5 2 1
+0 12 2 5
 1
 end_operator
 begin_operator
 feast understanding flounder lamb kentucky pennsylvania
 0
 2
-0 12 2 5
 0 5 4 2
+0 12 2 5
 1
 end_operator
 begin_operator
 feast understanding flounder lamb manitoba alsace
 0
 2
-0 12 2 5
 0 5 0 3
+0 12 2 5
 1
 end_operator
 begin_operator
 feast understanding flounder onion alsace bosnia
 0
 2
-0 12 2 7
 0 5 1 0
+0 12 2 7
 1
 end_operator
 begin_operator
 feast understanding flounder onion bosnia kentucky
 0
 2
-0 12 2 7
 0 5 2 1
+0 12 2 7
 1
 end_operator
 begin_operator
 feast understanding flounder onion kentucky pennsylvania
 0
 2
-0 12 2 7
 0 5 4 2
+0 12 2 7
 1
 end_operator
 begin_operator
 feast understanding flounder onion manitoba alsace
 0
 2
-0 12 2 7
 0 5 0 3
+0 12 2 7
 1
 end_operator
 begin_operator
 feast understanding ham papaya alsace bosnia
 0
 2
-0 12 3 8
 0 6 1 0
+0 12 3 8
 1
 end_operator
 begin_operator
 feast understanding ham papaya bosnia kentucky
 0
 2
-0 12 3 8
 0 6 3 1
+0 12 3 8
 1
 end_operator
 begin_operator
 feast understanding ham papaya kentucky pennsylvania
 0
 2
-0 12 3 8
 0 6 5 3
+0 12 3 8
 1
 end_operator
 begin_operator
 feast understanding ham papaya manitoba alsace
 0
 2
-0 12 3 8
 0 6 0 4
+0 12 3 8
 1
 end_operator
 begin_operator
 feast understanding ham papaya pennsylvania goias
 0
 2
-0 12 3 8
 0 6 2 5
+0 12 3 8
 1
 end_operator
 begin_operator
 feast understanding ham scallop alsace bosnia
 0
 2
-0 12 3 10
 0 6 1 0
+0 12 3 10
 1
 end_operator
 begin_operator
 feast understanding ham scallop bosnia kentucky
 0
 2
-0 12 3 10
 0 6 3 1
+0 12 3 10
 1
 end_operator
 begin_operator
 feast understanding ham scallop kentucky pennsylvania
 0
 2
-0 12 3 10
 0 6 5 3
+0 12 3 10
 1
 end_operator
 begin_operator
 feast understanding ham scallop manitoba alsace
 0
 2
-0 12 3 10
 0 6 0 4
+0 12 3 10
 1
 end_operator
 begin_operator
 feast understanding ham scallop pennsylvania goias
 0
 2
-0 12 3 10
 0 6 2 5
+0 12 3 10
 1
 end_operator
 begin_operator
 feast understanding lamb flounder alsace bosnia
 0
 2
-0 12 5 2
 0 10 1 0
+0 12 5 2
 1
 end_operator
 begin_operator
 feast understanding lamb flounder bosnia kentucky
 0
 2
-0 12 5 2
 0 10 2 1
+0 12 5 2
 1
 end_operator
 begin_operator
 feast understanding lamb flounder manitoba alsace
 0
 2
-0 12 5 2
 0 10 0 3
+0 12 5 2
 1
 end_operator
 begin_operator
 feast understanding lamb hotdog alsace bosnia
 0
 2
-0 12 5 4
 0 10 1 0
+0 12 5 4
 1
 end_operator
 begin_operator
 feast understanding lamb hotdog bosnia kentucky
 0
 2
-0 12 5 4
 0 10 2 1
+0 12 5 4
 1
 end_operator
 begin_operator
 feast understanding lamb hotdog manitoba alsace
 0
 2
-0 12 5 4
 0 10 0 3
+0 12 5 4
 1
 end_operator
 begin_operator
 feast understanding lamb okra alsace bosnia
 0
 2
-0 12 5 6
 0 10 1 0
+0 12 5 6
 1
 end_operator
 begin_operator
 feast understanding lamb okra bosnia kentucky
 0
 2
-0 12 5 6
 0 10 2 1
+0 12 5 6
 1
 end_operator
 begin_operator
 feast understanding lamb okra manitoba alsace
 0
 2
-0 12 5 6
 0 10 0 3
+0 12 5 6
 1
 end_operator
 begin_operator
 feast understanding lamb papaya alsace bosnia
 0
 2
-0 12 5 8
 0 10 1 0
+0 12 5 8
 1
 end_operator
 begin_operator
 feast understanding lamb papaya bosnia kentucky
 0
 2
-0 12 5 8
 0 10 2 1
+0 12 5 8
 1
 end_operator
 begin_operator
 feast understanding lamb papaya manitoba alsace
 0
 2
-0 12 5 8
 0 10 0 3
+0 12 5 8
 1
 end_operator
 begin_operator
 feast understanding okra lamb manitoba alsace
 0
 2
-0 12 6 5
 0 0 0 1
+0 12 6 5
 1
 end_operator
 begin_operator
 feast understanding okra sweetroll manitoba alsace
 0
 2
-0 12 6 11
 0 0 0 1
+0 12 6 11
 1
 end_operator
 begin_operator
 feast understanding onion apple manitoba alsace
 0
 2
-0 12 7 0
 0 1 0 1
+0 12 7 0
 1
 end_operator
 begin_operator
 feast understanding onion flounder manitoba alsace
 0
 2
-0 12 7 2
 0 1 0 1
+0 12 7 2
 1
 end_operator
 begin_operator
 feast understanding onion pistachio manitoba alsace
 0
 2
-0 12 7 9
 0 1 0 1
+0 12 7 9
 1
 end_operator
 begin_operator
 feast understanding papaya ham alsace bosnia
 0
 2
-0 12 8 3
 0 3 1 0
+0 12 8 3
 1
 end_operator
 begin_operator
 feast understanding papaya ham bosnia kentucky
 0
 2
-0 12 8 3
 0 3 2 1
+0 12 8 3
 1
 end_operator
 begin_operator
 feast understanding papaya ham manitoba alsace
 0
 2
-0 12 8 3
 0 3 0 3
+0 12 8 3
 1
 end_operator
 begin_operator
 feast understanding papaya lamb alsace bosnia
 0
 2
-0 12 8 5
 0 3 1 0
+0 12 8 5
 1
 end_operator
 begin_operator
 feast understanding papaya lamb bosnia kentucky
 0
 2
-0 12 8 5
 0 3 2 1
+0 12 8 5
 1
 end_operator
 begin_operator
 feast understanding papaya lamb manitoba alsace
 0
 2
-0 12 8 5
 0 3 0 3
+0 12 8 5
 1
 end_operator
 begin_operator
@@ -4403,80 +4403,80 @@ begin_operator
 feast understanding scallop ham alsace bosnia
 0
 2
-0 12 10 3
 0 8 1 0
+0 12 10 3
 1
 end_operator
 begin_operator
 feast understanding scallop ham bosnia kentucky
 0
 2
-0 12 10 3
 0 8 3 1
+0 12 10 3
 1
 end_operator
 begin_operator
 feast understanding scallop ham kentucky pennsylvania
 0
 2
-0 12 10 3
 0 8 5 3
+0 12 10 3
 1
 end_operator
 begin_operator
 feast understanding scallop ham manitoba alsace
 0
 2
-0 12 10 3
 0 8 0 4
+0 12 10 3
 1
 end_operator
 begin_operator
 feast understanding scallop ham pennsylvania goias
 0
 2
-0 12 10 3
 0 8 2 5
+0 12 10 3
 1
 end_operator
 begin_operator
 feast understanding scallop pistachio alsace bosnia
 0
 2
-0 12 10 9
 0 8 1 0
+0 12 10 9
 1
 end_operator
 begin_operator
 feast understanding scallop pistachio bosnia kentucky
 0
 2
-0 12 10 9
 0 8 3 1
+0 12 10 9
 1
 end_operator
 begin_operator
 feast understanding scallop pistachio kentucky pennsylvania
 0
 2
-0 12 10 9
 0 8 5 3
+0 12 10 9
 1
 end_operator
 begin_operator
 feast understanding scallop pistachio manitoba alsace
 0
 2
-0 12 10 9
 0 8 0 4
+0 12 10 9
 1
 end_operator
 begin_operator
 feast understanding scallop pistachio pennsylvania goias
 0
 2
-0 12 10 9
 0 8 2 5
+0 12 10 9
 1
 end_operator
 begin_operator
@@ -20036,8 +20036,8 @@ overcome dread curiosity bacon mars jupiter
 1
 19 0
 2
-0 34 1 19
 0 32 0 1
+0 34 1 19
 1
 end_operator
 begin_operator
@@ -20045,8 +20045,8 @@ overcome dread curiosity bacon mercury neptune
 1
 19 0
 2
-0 34 1 19
 0 32 3 2
+0 34 1 19
 1
 end_operator
 begin_operator
@@ -20054,8 +20054,8 @@ overcome dread curiosity bacon neptune mars
 1
 19 0
 2
-0 34 1 19
 0 32 1 3
+0 34 1 19
 1
 end_operator
 begin_operator
@@ -20063,8 +20063,8 @@ overcome dread curiosity beef mars jupiter
 1
 19 1
 2
-0 34 2 19
 0 32 0 1
+0 34 2 19
 1
 end_operator
 begin_operator
@@ -20072,8 +20072,8 @@ overcome dread curiosity beef mercury neptune
 1
 19 1
 2
-0 34 2 19
 0 32 3 2
+0 34 2 19
 1
 end_operator
 begin_operator
@@ -20081,8 +20081,8 @@ overcome dread curiosity beef neptune mars
 1
 19 1
 2
-0 34 2 19
 0 32 1 3
+0 34 2 19
 1
 end_operator
 begin_operator
@@ -20090,8 +20090,8 @@ overcome dread curiosity chicken mars jupiter
 1
 19 2
 2
-0 34 4 19
 0 32 0 1
+0 34 4 19
 1
 end_operator
 begin_operator
@@ -20099,8 +20099,8 @@ overcome dread curiosity chicken mercury neptune
 1
 19 2
 2
-0 34 4 19
 0 32 3 2
+0 34 4 19
 1
 end_operator
 begin_operator
@@ -20108,8 +20108,8 @@ overcome dread curiosity chicken neptune mars
 1
 19 2
 2
-0 34 4 19
 0 32 1 3
+0 34 4 19
 1
 end_operator
 begin_operator
@@ -20117,8 +20117,8 @@ overcome dread curiosity grapefruit mars jupiter
 1
 19 3
 2
-0 34 6 19
 0 32 0 1
+0 34 6 19
 1
 end_operator
 begin_operator
@@ -20126,8 +20126,8 @@ overcome dread curiosity grapefruit mercury neptune
 1
 19 3
 2
-0 34 6 19
 0 32 3 2
+0 34 6 19
 1
 end_operator
 begin_operator
@@ -20135,8 +20135,8 @@ overcome dread curiosity grapefruit neptune mars
 1
 19 3
 2
-0 34 6 19
 0 32 1 3
+0 34 6 19
 1
 end_operator
 begin_operator
@@ -20144,8 +20144,8 @@ overcome dread curiosity haroset mars jupiter
 1
 19 4
 2
-0 34 8 19
 0 32 0 1
+0 34 8 19
 1
 end_operator
 begin_operator
@@ -20153,8 +20153,8 @@ overcome dread curiosity haroset mercury neptune
 1
 19 4
 2
-0 34 8 19
 0 32 3 2
+0 34 8 19
 1
 end_operator
 begin_operator
@@ -20162,8 +20162,8 @@ overcome dread curiosity haroset neptune mars
 1
 19 4
 2
-0 34 8 19
 0 32 1 3
+0 34 8 19
 1
 end_operator
 begin_operator
@@ -20171,8 +20171,8 @@ overcome dread curiosity hotdog mars jupiter
 1
 19 5
 2
-0 34 9 19
 0 32 0 1
+0 34 9 19
 1
 end_operator
 begin_operator
@@ -20180,8 +20180,8 @@ overcome dread curiosity hotdog mercury neptune
 1
 19 5
 2
-0 34 9 19
 0 32 3 2
+0 34 9 19
 1
 end_operator
 begin_operator
@@ -20189,8 +20189,8 @@ overcome dread curiosity hotdog neptune mars
 1
 19 5
 2
-0 34 9 19
 0 32 1 3
+0 34 9 19
 1
 end_operator
 begin_operator
@@ -20198,8 +20198,8 @@ overcome dread curiosity lobster mars jupiter
 1
 19 6
 2
-0 34 11 19
 0 32 0 1
+0 34 11 19
 1
 end_operator
 begin_operator
@@ -20207,8 +20207,8 @@ overcome dread curiosity lobster mercury neptune
 1
 19 6
 2
-0 34 11 19
 0 32 3 2
+0 34 11 19
 1
 end_operator
 begin_operator
@@ -20216,8 +20216,8 @@ overcome dread curiosity lobster neptune mars
 1
 19 6
 2
-0 34 11 19
 0 32 1 3
+0 34 11 19
 1
 end_operator
 begin_operator
@@ -20225,8 +20225,8 @@ overcome dread curiosity wonderbread mars jupiter
 1
 19 7
 2
-0 34 18 19
 0 32 0 1
+0 34 18 19
 1
 end_operator
 begin_operator
@@ -20234,8 +20234,8 @@ overcome dread curiosity wonderbread mercury neptune
 1
 19 7
 2
-0 34 18 19
 0 32 3 2
+0 34 18 19
 1
 end_operator
 begin_operator
@@ -20243,8 +20243,8 @@ overcome dread curiosity wonderbread neptune mars
 1
 19 7
 2
-0 34 18 19
 0 32 1 3
+0 34 18 19
 1
 end_operator
 begin_operator
@@ -20252,8 +20252,8 @@ overcome dread empathy bacon mars jupiter
 1
 21 0
 2
-0 34 1 20
 0 33 0 1
+0 34 1 20
 1
 end_operator
 begin_operator
@@ -20261,8 +20261,8 @@ overcome dread empathy bacon mercury neptune
 1
 21 0
 2
-0 34 1 20
 0 33 3 2
+0 34 1 20
 1
 end_operator
 begin_operator
@@ -20270,8 +20270,8 @@ overcome dread empathy bacon neptune mars
 1
 21 0
 2
-0 34 1 20
 0 33 1 3
+0 34 1 20
 1
 end_operator
 begin_operator
@@ -20279,8 +20279,8 @@ overcome dread empathy beef mars jupiter
 1
 21 1
 2
-0 34 2 20
 0 33 0 1
+0 34 2 20
 1
 end_operator
 begin_operator
@@ -20288,8 +20288,8 @@ overcome dread empathy beef mercury neptune
 1
 21 1
 2
-0 34 2 20
 0 33 3 2
+0 34 2 20
 1
 end_operator
 begin_operator
@@ -20297,8 +20297,8 @@ overcome dread empathy beef neptune mars
 1
 21 1
 2
-0 34 2 20
 0 33 1 3
+0 34 2 20
 1
 end_operator
 begin_operator
@@ -20306,8 +20306,8 @@ overcome dread empathy chicken mars jupiter
 1
 21 2
 2
-0 34 4 20
 0 33 0 1
+0 34 4 20
 1
 end_operator
 begin_operator
@@ -20315,8 +20315,8 @@ overcome dread empathy chicken mercury neptune
 1
 21 2
 2
-0 34 4 20
 0 33 3 2
+0 34 4 20
 1
 end_operator
 begin_operator
@@ -20324,8 +20324,8 @@ overcome dread empathy chicken neptune mars
 1
 21 2
 2
-0 34 4 20
 0 33 1 3
+0 34 4 20
 1
 end_operator
 begin_operator
@@ -20333,8 +20333,8 @@ overcome dread empathy grapefruit mars jupiter
 1
 21 3
 2
-0 34 6 20
 0 33 0 1
+0 34 6 20
 1
 end_operator
 begin_operator
@@ -20342,8 +20342,8 @@ overcome dread empathy grapefruit mercury neptune
 1
 21 3
 2
-0 34 6 20
 0 33 3 2
+0 34 6 20
 1
 end_operator
 begin_operator
@@ -20351,8 +20351,8 @@ overcome dread empathy grapefruit neptune mars
 1
 21 3
 2
-0 34 6 20
 0 33 1 3
+0 34 6 20
 1
 end_operator
 begin_operator
@@ -20360,8 +20360,8 @@ overcome dread empathy haroset mars jupiter
 1
 21 4
 2
-0 34 8 20
 0 33 0 1
+0 34 8 20
 1
 end_operator
 begin_operator
@@ -20369,8 +20369,8 @@ overcome dread empathy haroset mercury neptune
 1
 21 4
 2
-0 34 8 20
 0 33 3 2
+0 34 8 20
 1
 end_operator
 begin_operator
@@ -20378,8 +20378,8 @@ overcome dread empathy haroset neptune mars
 1
 21 4
 2
-0 34 8 20
 0 33 1 3
+0 34 8 20
 1
 end_operator
 begin_operator
@@ -20387,8 +20387,8 @@ overcome dread empathy hotdog mars jupiter
 1
 21 5
 2
-0 34 9 20
 0 33 0 1
+0 34 9 20
 1
 end_operator
 begin_operator
@@ -20396,8 +20396,8 @@ overcome dread empathy hotdog mercury neptune
 1
 21 5
 2
-0 34 9 20
 0 33 3 2
+0 34 9 20
 1
 end_operator
 begin_operator
@@ -20405,8 +20405,8 @@ overcome dread empathy hotdog neptune mars
 1
 21 5
 2
-0 34 9 20
 0 33 1 3
+0 34 9 20
 1
 end_operator
 begin_operator
@@ -20414,8 +20414,8 @@ overcome dread empathy lobster mars jupiter
 1
 21 6
 2
-0 34 11 20
 0 33 0 1
+0 34 11 20
 1
 end_operator
 begin_operator
@@ -20423,8 +20423,8 @@ overcome dread empathy lobster mercury neptune
 1
 21 6
 2
-0 34 11 20
 0 33 3 2
+0 34 11 20
 1
 end_operator
 begin_operator
@@ -20432,8 +20432,8 @@ overcome dread empathy lobster neptune mars
 1
 21 6
 2
-0 34 11 20
 0 33 1 3
+0 34 11 20
 1
 end_operator
 begin_operator
@@ -20441,8 +20441,8 @@ overcome dread empathy wonderbread mars jupiter
 1
 21 7
 2
-0 34 18 20
 0 33 0 1
+0 34 18 20
 1
 end_operator
 begin_operator
@@ -20450,8 +20450,8 @@ overcome dread empathy wonderbread mercury neptune
 1
 21 7
 2
-0 34 18 20
 0 33 3 2
+0 34 18 20
 1
 end_operator
 begin_operator
@@ -20459,8 +20459,8 @@ overcome dread empathy wonderbread neptune mars
 1
 21 7
 2
-0 34 18 20
 0 33 1 3
+0 34 18 20
 1
 end_operator
 begin_operator
@@ -21980,8 +21980,8 @@ overcome grief curiosity bacon mars jupiter
 1
 19 0
 2
-0 35 1 19
 0 32 0 1
+0 35 1 19
 1
 end_operator
 begin_operator
@@ -21989,8 +21989,8 @@ overcome grief curiosity bacon mercury neptune
 1
 19 0
 2
-0 35 1 19
 0 32 3 2
+0 35 1 19
 1
 end_operator
 begin_operator
@@ -21998,8 +21998,8 @@ overcome grief curiosity bacon neptune mars
 1
 19 0
 2
-0 35 1 19
 0 32 1 3
+0 35 1 19
 1
 end_operator
 begin_operator
@@ -22007,8 +22007,8 @@ overcome grief curiosity beef mars jupiter
 1
 19 1
 2
-0 35 2 19
 0 32 0 1
+0 35 2 19
 1
 end_operator
 begin_operator
@@ -22016,8 +22016,8 @@ overcome grief curiosity beef mercury neptune
 1
 19 1
 2
-0 35 2 19
 0 32 3 2
+0 35 2 19
 1
 end_operator
 begin_operator
@@ -22025,8 +22025,8 @@ overcome grief curiosity beef neptune mars
 1
 19 1
 2
-0 35 2 19
 0 32 1 3
+0 35 2 19
 1
 end_operator
 begin_operator
@@ -22034,8 +22034,8 @@ overcome grief curiosity chicken mars jupiter
 1
 19 2
 2
-0 35 4 19
 0 32 0 1
+0 35 4 19
 1
 end_operator
 begin_operator
@@ -22043,8 +22043,8 @@ overcome grief curiosity chicken mercury neptune
 1
 19 2
 2
-0 35 4 19
 0 32 3 2
+0 35 4 19
 1
 end_operator
 begin_operator
@@ -22052,8 +22052,8 @@ overcome grief curiosity chicken neptune mars
 1
 19 2
 2
-0 35 4 19
 0 32 1 3
+0 35 4 19
 1
 end_operator
 begin_operator
@@ -22061,8 +22061,8 @@ overcome grief curiosity grapefruit mars jupiter
 1
 19 3
 2
-0 35 6 19
 0 32 0 1
+0 35 6 19
 1
 end_operator
 begin_operator
@@ -22070,8 +22070,8 @@ overcome grief curiosity grapefruit mercury neptune
 1
 19 3
 2
-0 35 6 19
 0 32 3 2
+0 35 6 19
 1
 end_operator
 begin_operator
@@ -22079,8 +22079,8 @@ overcome grief curiosity grapefruit neptune mars
 1
 19 3
 2
-0 35 6 19
 0 32 1 3
+0 35 6 19
 1
 end_operator
 begin_operator
@@ -22088,8 +22088,8 @@ overcome grief curiosity haroset mars jupiter
 1
 19 4
 2
-0 35 8 19
 0 32 0 1
+0 35 8 19
 1
 end_operator
 begin_operator
@@ -22097,8 +22097,8 @@ overcome grief curiosity haroset mercury neptune
 1
 19 4
 2
-0 35 8 19
 0 32 3 2
+0 35 8 19
 1
 end_operator
 begin_operator
@@ -22106,8 +22106,8 @@ overcome grief curiosity haroset neptune mars
 1
 19 4
 2
-0 35 8 19
 0 32 1 3
+0 35 8 19
 1
 end_operator
 begin_operator
@@ -22115,8 +22115,8 @@ overcome grief curiosity hotdog mars jupiter
 1
 19 5
 2
-0 35 9 19
 0 32 0 1
+0 35 9 19
 1
 end_operator
 begin_operator
@@ -22124,8 +22124,8 @@ overcome grief curiosity hotdog mercury neptune
 1
 19 5
 2
-0 35 9 19
 0 32 3 2
+0 35 9 19
 1
 end_operator
 begin_operator
@@ -22133,8 +22133,8 @@ overcome grief curiosity hotdog neptune mars
 1
 19 5
 2
-0 35 9 19
 0 32 1 3
+0 35 9 19
 1
 end_operator
 begin_operator
@@ -22142,8 +22142,8 @@ overcome grief curiosity lobster mars jupiter
 1
 19 6
 2
-0 35 11 19
 0 32 0 1
+0 35 11 19
 1
 end_operator
 begin_operator
@@ -22151,8 +22151,8 @@ overcome grief curiosity lobster mercury neptune
 1
 19 6
 2
-0 35 11 19
 0 32 3 2
+0 35 11 19
 1
 end_operator
 begin_operator
@@ -22160,8 +22160,8 @@ overcome grief curiosity lobster neptune mars
 1
 19 6
 2
-0 35 11 19
 0 32 1 3
+0 35 11 19
 1
 end_operator
 begin_operator
@@ -22169,8 +22169,8 @@ overcome grief curiosity wonderbread mars jupiter
 1
 19 7
 2
-0 35 18 19
 0 32 0 1
+0 35 18 19
 1
 end_operator
 begin_operator
@@ -22178,8 +22178,8 @@ overcome grief curiosity wonderbread mercury neptune
 1
 19 7
 2
-0 35 18 19
 0 32 3 2
+0 35 18 19
 1
 end_operator
 begin_operator
@@ -22187,8 +22187,8 @@ overcome grief curiosity wonderbread neptune mars
 1
 19 7
 2
-0 35 18 19
 0 32 1 3
+0 35 18 19
 1
 end_operator
 begin_operator
@@ -22196,8 +22196,8 @@ overcome grief empathy bacon mars jupiter
 1
 21 0
 2
-0 35 1 20
 0 33 0 1
+0 35 1 20
 1
 end_operator
 begin_operator
@@ -22205,8 +22205,8 @@ overcome grief empathy bacon mercury neptune
 1
 21 0
 2
-0 35 1 20
 0 33 3 2
+0 35 1 20
 1
 end_operator
 begin_operator
@@ -22214,8 +22214,8 @@ overcome grief empathy bacon neptune mars
 1
 21 0
 2
-0 35 1 20
 0 33 1 3
+0 35 1 20
 1
 end_operator
 begin_operator
@@ -22223,8 +22223,8 @@ overcome grief empathy beef mars jupiter
 1
 21 1
 2
-0 35 2 20
 0 33 0 1
+0 35 2 20
 1
 end_operator
 begin_operator
@@ -22232,8 +22232,8 @@ overcome grief empathy beef mercury neptune
 1
 21 1
 2
-0 35 2 20
 0 33 3 2
+0 35 2 20
 1
 end_operator
 begin_operator
@@ -22241,8 +22241,8 @@ overcome grief empathy beef neptune mars
 1
 21 1
 2
-0 35 2 20
 0 33 1 3
+0 35 2 20
 1
 end_operator
 begin_operator
@@ -22250,8 +22250,8 @@ overcome grief empathy chicken mars jupiter
 1
 21 2
 2
-0 35 4 20
 0 33 0 1
+0 35 4 20
 1
 end_operator
 begin_operator
@@ -22259,8 +22259,8 @@ overcome grief empathy chicken mercury neptune
 1
 21 2
 2
-0 35 4 20
 0 33 3 2
+0 35 4 20
 1
 end_operator
 begin_operator
@@ -22268,8 +22268,8 @@ overcome grief empathy chicken neptune mars
 1
 21 2
 2
-0 35 4 20
 0 33 1 3
+0 35 4 20
 1
 end_operator
 begin_operator
@@ -22277,8 +22277,8 @@ overcome grief empathy grapefruit mars jupiter
 1
 21 3
 2
-0 35 6 20
 0 33 0 1
+0 35 6 20
 1
 end_operator
 begin_operator
@@ -22286,8 +22286,8 @@ overcome grief empathy grapefruit mercury neptune
 1
 21 3
 2
-0 35 6 20
 0 33 3 2
+0 35 6 20
 1
 end_operator
 begin_operator
@@ -22295,8 +22295,8 @@ overcome grief empathy grapefruit neptune mars
 1
 21 3
 2
-0 35 6 20
 0 33 1 3
+0 35 6 20
 1
 end_operator
 begin_operator
@@ -22304,8 +22304,8 @@ overcome grief empathy haroset mars jupiter
 1
 21 4
 2
-0 35 8 20
 0 33 0 1
+0 35 8 20
 1
 end_operator
 begin_operator
@@ -22313,8 +22313,8 @@ overcome grief empathy haroset mercury neptune
 1
 21 4
 2
-0 35 8 20
 0 33 3 2
+0 35 8 20
 1
 end_operator
 begin_operator
@@ -22322,8 +22322,8 @@ overcome grief empathy haroset neptune mars
 1
 21 4
 2
-0 35 8 20
 0 33 1 3
+0 35 8 20
 1
 end_operator
 begin_operator
@@ -22331,8 +22331,8 @@ overcome grief empathy hotdog mars jupiter
 1
 21 5
 2
-0 35 9 20
 0 33 0 1
+0 35 9 20
 1
 end_operator
 begin_operator
@@ -22340,8 +22340,8 @@ overcome grief empathy hotdog mercury neptune
 1
 21 5
 2
-0 35 9 20
 0 33 3 2
+0 35 9 20
 1
 end_operator
 begin_operator
@@ -22349,8 +22349,8 @@ overcome grief empathy hotdog neptune mars
 1
 21 5
 2
-0 35 9 20
 0 33 1 3
+0 35 9 20
 1
 end_operator
 begin_operator
@@ -22358,8 +22358,8 @@ overcome grief empathy lobster mars jupiter
 1
 21 6
 2
-0 35 11 20
 0 33 0 1
+0 35 11 20
 1
 end_operator
 begin_operator
@@ -22367,8 +22367,8 @@ overcome grief empathy lobster mercury neptune
 1
 21 6
 2
-0 35 11 20
 0 33 3 2
+0 35 11 20
 1
 end_operator
 begin_operator
@@ -22376,8 +22376,8 @@ overcome grief empathy lobster neptune mars
 1
 21 6
 2
-0 35 11 20
 0 33 1 3
+0 35 11 20
 1
 end_operator
 begin_operator
@@ -22385,8 +22385,8 @@ overcome grief empathy wonderbread mars jupiter
 1
 21 7
 2
-0 35 18 20
 0 33 0 1
+0 35 18 20
 1
 end_operator
 begin_operator
@@ -22394,8 +22394,8 @@ overcome grief empathy wonderbread mercury neptune
 1
 21 7
 2
-0 35 18 20
 0 33 3 2
+0 35 18 20
 1
 end_operator
 begin_operator
@@ -22403,8 +22403,8 @@ overcome grief empathy wonderbread neptune mars
 1
 21 7
 2
-0 35 18 20
 0 33 1 3
+0 35 18 20
 1
 end_operator
 begin_operator
@@ -23924,8 +23924,8 @@ overcome hangover curiosity bacon mars jupiter
 1
 19 0
 2
-0 37 1 19
 0 32 0 1
+0 37 1 19
 1
 end_operator
 begin_operator
@@ -23933,8 +23933,8 @@ overcome hangover curiosity bacon mercury neptune
 1
 19 0
 2
-0 37 1 19
 0 32 3 2
+0 37 1 19
 1
 end_operator
 begin_operator
@@ -23942,8 +23942,8 @@ overcome hangover curiosity bacon neptune mars
 1
 19 0
 2
-0 37 1 19
 0 32 1 3
+0 37 1 19
 1
 end_operator
 begin_operator
@@ -23951,8 +23951,8 @@ overcome hangover curiosity beef mars jupiter
 1
 19 1
 2
-0 37 2 19
 0 32 0 1
+0 37 2 19
 1
 end_operator
 begin_operator
@@ -23960,8 +23960,8 @@ overcome hangover curiosity beef mercury neptune
 1
 19 1
 2
-0 37 2 19
 0 32 3 2
+0 37 2 19
 1
 end_operator
 begin_operator
@@ -23969,8 +23969,8 @@ overcome hangover curiosity beef neptune mars
 1
 19 1
 2
-0 37 2 19
 0 32 1 3
+0 37 2 19
 1
 end_operator
 begin_operator
@@ -23978,8 +23978,8 @@ overcome hangover curiosity chicken mars jupiter
 1
 19 2
 2
-0 37 4 19
 0 32 0 1
+0 37 4 19
 1
 end_operator
 begin_operator
@@ -23987,8 +23987,8 @@ overcome hangover curiosity chicken mercury neptune
 1
 19 2
 2
-0 37 4 19
 0 32 3 2
+0 37 4 19
 1
 end_operator
 begin_operator
@@ -23996,8 +23996,8 @@ overcome hangover curiosity chicken neptune mars
 1
 19 2
 2
-0 37 4 19
 0 32 1 3
+0 37 4 19
 1
 end_operator
 begin_operator
@@ -24005,8 +24005,8 @@ overcome hangover curiosity grapefruit mars jupiter
 1
 19 3
 2
-0 37 6 19
 0 32 0 1
+0 37 6 19
 1
 end_operator
 begin_operator
@@ -24014,8 +24014,8 @@ overcome hangover curiosity grapefruit mercury neptune
 1
 19 3
 2
-0 37 6 19
 0 32 3 2
+0 37 6 19
 1
 end_operator
 begin_operator
@@ -24023,8 +24023,8 @@ overcome hangover curiosity grapefruit neptune mars
 1
 19 3
 2
-0 37 6 19
 0 32 1 3
+0 37 6 19
 1
 end_operator
 begin_operator
@@ -24032,8 +24032,8 @@ overcome hangover curiosity haroset mars jupiter
 1
 19 4
 2
-0 37 8 19
 0 32 0 1
+0 37 8 19
 1
 end_operator
 begin_operator
@@ -24041,8 +24041,8 @@ overcome hangover curiosity haroset mercury neptune
 1
 19 4
 2
-0 37 8 19
 0 32 3 2
+0 37 8 19
 1
 end_operator
 begin_operator
@@ -24050,8 +24050,8 @@ overcome hangover curiosity haroset neptune mars
 1
 19 4
 2
-0 37 8 19
 0 32 1 3
+0 37 8 19
 1
 end_operator
 begin_operator
@@ -24059,8 +24059,8 @@ overcome hangover curiosity hotdog mars jupiter
 1
 19 5
 2
-0 37 9 19
 0 32 0 1
+0 37 9 19
 1
 end_operator
 begin_operator
@@ -24068,8 +24068,8 @@ overcome hangover curiosity hotdog mercury neptune
 1
 19 5
 2
-0 37 9 19
 0 32 3 2
+0 37 9 19
 1
 end_operator
 begin_operator
@@ -24077,8 +24077,8 @@ overcome hangover curiosity hotdog neptune mars
 1
 19 5
 2
-0 37 9 19
 0 32 1 3
+0 37 9 19
 1
 end_operator
 begin_operator
@@ -24086,8 +24086,8 @@ overcome hangover curiosity lobster mars jupiter
 1
 19 6
 2
-0 37 11 19
 0 32 0 1
+0 37 11 19
 1
 end_operator
 begin_operator
@@ -24095,8 +24095,8 @@ overcome hangover curiosity lobster mercury neptune
 1
 19 6
 2
-0 37 11 19
 0 32 3 2
+0 37 11 19
 1
 end_operator
 begin_operator
@@ -24104,8 +24104,8 @@ overcome hangover curiosity lobster neptune mars
 1
 19 6
 2
-0 37 11 19
 0 32 1 3
+0 37 11 19
 1
 end_operator
 begin_operator
@@ -24113,8 +24113,8 @@ overcome hangover curiosity wonderbread mars jupiter
 1
 19 7
 2
-0 37 18 19
 0 32 0 1
+0 37 18 19
 1
 end_operator
 begin_operator
@@ -24122,8 +24122,8 @@ overcome hangover curiosity wonderbread mercury neptune
 1
 19 7
 2
-0 37 18 19
 0 32 3 2
+0 37 18 19
 1
 end_operator
 begin_operator
@@ -24131,8 +24131,8 @@ overcome hangover curiosity wonderbread neptune mars
 1
 19 7
 2
-0 37 18 19
 0 32 1 3
+0 37 18 19
 1
 end_operator
 begin_operator
@@ -24140,8 +24140,8 @@ overcome hangover empathy bacon mars jupiter
 1
 21 0
 2
-0 37 1 20
 0 33 0 1
+0 37 1 20
 1
 end_operator
 begin_operator
@@ -24149,8 +24149,8 @@ overcome hangover empathy bacon mercury neptune
 1
 21 0
 2
-0 37 1 20
 0 33 3 2
+0 37 1 20
 1
 end_operator
 begin_operator
@@ -24158,8 +24158,8 @@ overcome hangover empathy bacon neptune mars
 1
 21 0
 2
-0 37 1 20
 0 33 1 3
+0 37 1 20
 1
 end_operator
 begin_operator
@@ -24167,8 +24167,8 @@ overcome hangover empathy beef mars jupiter
 1
 21 1
 2
-0 37 2 20
 0 33 0 1
+0 37 2 20
 1
 end_operator
 begin_operator
@@ -24176,8 +24176,8 @@ overcome hangover empathy beef mercury neptune
 1
 21 1
 2
-0 37 2 20
 0 33 3 2
+0 37 2 20
 1
 end_operator
 begin_operator
@@ -24185,8 +24185,8 @@ overcome hangover empathy beef neptune mars
 1
 21 1
 2
-0 37 2 20
 0 33 1 3
+0 37 2 20
 1
 end_operator
 begin_operator
@@ -24194,8 +24194,8 @@ overcome hangover empathy chicken mars jupiter
 1
 21 2
 2
-0 37 4 20
 0 33 0 1
+0 37 4 20
 1
 end_operator
 begin_operator
@@ -24203,8 +24203,8 @@ overcome hangover empathy chicken mercury neptune
 1
 21 2
 2
-0 37 4 20
 0 33 3 2
+0 37 4 20
 1
 end_operator
 begin_operator
@@ -24212,8 +24212,8 @@ overcome hangover empathy chicken neptune mars
 1
 21 2
 2
-0 37 4 20
 0 33 1 3
+0 37 4 20
 1
 end_operator
 begin_operator
@@ -24221,8 +24221,8 @@ overcome hangover empathy grapefruit mars jupiter
 1
 21 3
 2
-0 37 6 20
 0 33 0 1
+0 37 6 20
 1
 end_operator
 begin_operator
@@ -24230,8 +24230,8 @@ overcome hangover empathy grapefruit mercury neptune
 1
 21 3
 2
-0 37 6 20
 0 33 3 2
+0 37 6 20
 1
 end_operator
 begin_operator
@@ -24239,8 +24239,8 @@ overcome hangover empathy grapefruit neptune mars
 1
 21 3
 2
-0 37 6 20
 0 33 1 3
+0 37 6 20
 1
 end_operator
 begin_operator
@@ -24248,8 +24248,8 @@ overcome hangover empathy haroset mars jupiter
 1
 21 4
 2
-0 37 8 20
 0 33 0 1
+0 37 8 20
 1
 end_operator
 begin_operator
@@ -24257,8 +24257,8 @@ overcome hangover empathy haroset mercury neptune
 1
 21 4
 2
-0 37 8 20
 0 33 3 2
+0 37 8 20
 1
 end_operator
 begin_operator
@@ -24266,8 +24266,8 @@ overcome hangover empathy haroset neptune mars
 1
 21 4
 2
-0 37 8 20
 0 33 1 3
+0 37 8 20
 1
 end_operator
 begin_operator
@@ -24275,8 +24275,8 @@ overcome hangover empathy hotdog mars jupiter
 1
 21 5
 2
-0 37 9 20
 0 33 0 1
+0 37 9 20
 1
 end_operator
 begin_operator
@@ -24284,8 +24284,8 @@ overcome hangover empathy hotdog mercury neptune
 1
 21 5
 2
-0 37 9 20
 0 33 3 2
+0 37 9 20
 1
 end_operator
 begin_operator
@@ -24293,8 +24293,8 @@ overcome hangover empathy hotdog neptune mars
 1
 21 5
 2
-0 37 9 20
 0 33 1 3
+0 37 9 20
 1
 end_operator
 begin_operator
@@ -24302,8 +24302,8 @@ overcome hangover empathy lobster mars jupiter
 1
 21 6
 2
-0 37 11 20
 0 33 0 1
+0 37 11 20
 1
 end_operator
 begin_operator
@@ -24311,8 +24311,8 @@ overcome hangover empathy lobster mercury neptune
 1
 21 6
 2
-0 37 11 20
 0 33 3 2
+0 37 11 20
 1
 end_operator
 begin_operator
@@ -24320,8 +24320,8 @@ overcome hangover empathy lobster neptune mars
 1
 21 6
 2
-0 37 11 20
 0 33 1 3
+0 37 11 20
 1
 end_operator
 begin_operator
@@ -24329,8 +24329,8 @@ overcome hangover empathy wonderbread mars jupiter
 1
 21 7
 2
-0 37 18 20
 0 33 0 1
+0 37 18 20
 1
 end_operator
 begin_operator
@@ -24338,8 +24338,8 @@ overcome hangover empathy wonderbread mercury neptune
 1
 21 7
 2
-0 37 18 20
 0 33 3 2
+0 37 18 20
 1
 end_operator
 begin_operator
@@ -24347,8 +24347,8 @@ overcome hangover empathy wonderbread neptune mars
 1
 21 7
 2
-0 37 18 20
 0 33 1 3
+0 37 18 20
 1
 end_operator
 begin_operator
@@ -25328,8 +25328,8 @@ overcome hangover triumph bacon mars jupiter
 1
 22 0
 2
-0 37 1 24
 0 36 0 1
+0 37 1 24
 1
 end_operator
 begin_operator
@@ -25337,8 +25337,8 @@ overcome hangover triumph bacon mercury neptune
 1
 22 0
 2
-0 37 1 24
 0 36 3 2
+0 37 1 24
 1
 end_operator
 begin_operator
@@ -25346,8 +25346,8 @@ overcome hangover triumph bacon neptune mars
 1
 22 0
 2
-0 37 1 24
 0 36 1 3
+0 37 1 24
 1
 end_operator
 begin_operator
@@ -25355,8 +25355,8 @@ overcome hangover triumph beef mars jupiter
 1
 22 1
 2
-0 37 2 24
 0 36 0 1
+0 37 2 24
 1
 end_operator
 begin_operator
@@ -25364,8 +25364,8 @@ overcome hangover triumph beef mercury neptune
 1
 22 1
 2
-0 37 2 24
 0 36 3 2
+0 37 2 24
 1
 end_operator
 begin_operator
@@ -25373,8 +25373,8 @@ overcome hangover triumph beef neptune mars
 1
 22 1
 2
-0 37 2 24
 0 36 1 3
+0 37 2 24
 1
 end_operator
 begin_operator
@@ -25382,8 +25382,8 @@ overcome hangover triumph chicken mars jupiter
 1
 22 2
 2
-0 37 4 24
 0 36 0 1
+0 37 4 24
 1
 end_operator
 begin_operator
@@ -25391,8 +25391,8 @@ overcome hangover triumph chicken mercury neptune
 1
 22 2
 2
-0 37 4 24
 0 36 3 2
+0 37 4 24
 1
 end_operator
 begin_operator
@@ -25400,8 +25400,8 @@ overcome hangover triumph chicken neptune mars
 1
 22 2
 2
-0 37 4 24
 0 36 1 3
+0 37 4 24
 1
 end_operator
 begin_operator
@@ -25409,8 +25409,8 @@ overcome hangover triumph grapefruit mars jupiter
 1
 22 3
 2
-0 37 6 24
 0 36 0 1
+0 37 6 24
 1
 end_operator
 begin_operator
@@ -25418,8 +25418,8 @@ overcome hangover triumph grapefruit mercury neptune
 1
 22 3
 2
-0 37 6 24
 0 36 3 2
+0 37 6 24
 1
 end_operator
 begin_operator
@@ -25427,8 +25427,8 @@ overcome hangover triumph grapefruit neptune mars
 1
 22 3
 2
-0 37 6 24
 0 36 1 3
+0 37 6 24
 1
 end_operator
 begin_operator
@@ -25436,8 +25436,8 @@ overcome hangover triumph haroset mars jupiter
 1
 22 4
 2
-0 37 8 24
 0 36 0 1
+0 37 8 24
 1
 end_operator
 begin_operator
@@ -25445,8 +25445,8 @@ overcome hangover triumph haroset mercury neptune
 1
 22 4
 2
-0 37 8 24
 0 36 3 2
+0 37 8 24
 1
 end_operator
 begin_operator
@@ -25454,8 +25454,8 @@ overcome hangover triumph haroset neptune mars
 1
 22 4
 2
-0 37 8 24
 0 36 1 3
+0 37 8 24
 1
 end_operator
 begin_operator
@@ -25463,8 +25463,8 @@ overcome hangover triumph hotdog mars jupiter
 1
 22 5
 2
-0 37 9 24
 0 36 0 1
+0 37 9 24
 1
 end_operator
 begin_operator
@@ -25472,8 +25472,8 @@ overcome hangover triumph hotdog mercury neptune
 1
 22 5
 2
-0 37 9 24
 0 36 3 2
+0 37 9 24
 1
 end_operator
 begin_operator
@@ -25481,8 +25481,8 @@ overcome hangover triumph hotdog neptune mars
 1
 22 5
 2
-0 37 9 24
 0 36 1 3
+0 37 9 24
 1
 end_operator
 begin_operator
@@ -25490,8 +25490,8 @@ overcome hangover triumph lobster mars jupiter
 1
 22 6
 2
-0 37 11 24
 0 36 0 1
+0 37 11 24
 1
 end_operator
 begin_operator
@@ -25499,8 +25499,8 @@ overcome hangover triumph lobster mercury neptune
 1
 22 6
 2
-0 37 11 24
 0 36 3 2
+0 37 11 24
 1
 end_operator
 begin_operator
@@ -25508,8 +25508,8 @@ overcome hangover triumph lobster neptune mars
 1
 22 6
 2
-0 37 11 24
 0 36 1 3
+0 37 11 24
 1
 end_operator
 begin_operator
@@ -25517,8 +25517,8 @@ overcome hangover triumph wonderbread mars jupiter
 1
 22 7
 2
-0 37 18 24
 0 36 0 1
+0 37 18 24
 1
 end_operator
 begin_operator
@@ -25526,8 +25526,8 @@ overcome hangover triumph wonderbread mercury neptune
 1
 22 7
 2
-0 37 18 24
 0 36 3 2
+0 37 18 24
 1
 end_operator
 begin_operator
@@ -25535,8 +25535,8 @@ overcome hangover triumph wonderbread neptune mars
 1
 22 7
 2
-0 37 18 24
 0 36 1 3
+0 37 18 24
 1
 end_operator
 begin_operator
@@ -25868,8 +25868,8 @@ overcome jealousy curiosity bacon mars jupiter
 1
 19 0
 2
-0 38 1 19
 0 32 0 1
+0 38 1 19
 1
 end_operator
 begin_operator
@@ -25877,8 +25877,8 @@ overcome jealousy curiosity bacon mercury neptune
 1
 19 0
 2
-0 38 1 19
 0 32 3 2
+0 38 1 19
 1
 end_operator
 begin_operator
@@ -25886,8 +25886,8 @@ overcome jealousy curiosity bacon neptune mars
 1
 19 0
 2
-0 38 1 19
 0 32 1 3
+0 38 1 19
 1
 end_operator
 begin_operator
@@ -25895,8 +25895,8 @@ overcome jealousy curiosity beef mars jupiter
 1
 19 1
 2
-0 38 2 19
 0 32 0 1
+0 38 2 19
 1
 end_operator
 begin_operator
@@ -25904,8 +25904,8 @@ overcome jealousy curiosity beef mercury neptune
 1
 19 1
 2
-0 38 2 19
 0 32 3 2
+0 38 2 19
 1
 end_operator
 begin_operator
@@ -25913,8 +25913,8 @@ overcome jealousy curiosity beef neptune mars
 1
 19 1
 2
-0 38 2 19
 0 32 1 3
+0 38 2 19
 1
 end_operator
 begin_operator
@@ -25922,8 +25922,8 @@ overcome jealousy curiosity chicken mars jupiter
 1
 19 2
 2
-0 38 4 19
 0 32 0 1
+0 38 4 19
 1
 end_operator
 begin_operator
@@ -25931,8 +25931,8 @@ overcome jealousy curiosity chicken mercury neptune
 1
 19 2
 2
-0 38 4 19
 0 32 3 2
+0 38 4 19
 1
 end_operator
 begin_operator
@@ -25940,8 +25940,8 @@ overcome jealousy curiosity chicken neptune mars
 1
 19 2
 2
-0 38 4 19
 0 32 1 3
+0 38 4 19
 1
 end_operator
 begin_operator
@@ -25949,8 +25949,8 @@ overcome jealousy curiosity grapefruit mars jupiter
 1
 19 3
 2
-0 38 6 19
 0 32 0 1
+0 38 6 19
 1
 end_operator
 begin_operator
@@ -25958,8 +25958,8 @@ overcome jealousy curiosity grapefruit mercury neptune
 1
 19 3
 2
-0 38 6 19
 0 32 3 2
+0 38 6 19
 1
 end_operator
 begin_operator
@@ -25967,8 +25967,8 @@ overcome jealousy curiosity grapefruit neptune mars
 1
 19 3
 2
-0 38 6 19
 0 32 1 3
+0 38 6 19
 1
 end_operator
 begin_operator
@@ -25976,8 +25976,8 @@ overcome jealousy curiosity haroset mars jupiter
 1
 19 4
 2
-0 38 8 19
 0 32 0 1
+0 38 8 19
 1
 end_operator
 begin_operator
@@ -25985,8 +25985,8 @@ overcome jealousy curiosity haroset mercury neptune
 1
 19 4
 2
-0 38 8 19
 0 32 3 2
+0 38 8 19
 1
 end_operator
 begin_operator
@@ -25994,8 +25994,8 @@ overcome jealousy curiosity haroset neptune mars
 1
 19 4
 2
-0 38 8 19
 0 32 1 3
+0 38 8 19
 1
 end_operator
 begin_operator
@@ -26003,8 +26003,8 @@ overcome jealousy curiosity hotdog mars jupiter
 1
 19 5
 2
-0 38 9 19
 0 32 0 1
+0 38 9 19
 1
 end_operator
 begin_operator
@@ -26012,8 +26012,8 @@ overcome jealousy curiosity hotdog mercury neptune
 1
 19 5
 2
-0 38 9 19
 0 32 3 2
+0 38 9 19
 1
 end_operator
 begin_operator
@@ -26021,8 +26021,8 @@ overcome jealousy curiosity hotdog neptune mars
 1
 19 5
 2
-0 38 9 19
 0 32 1 3
+0 38 9 19
 1
 end_operator
 begin_operator
@@ -26030,8 +26030,8 @@ overcome jealousy curiosity lobster mars jupiter
 1
 19 6
 2
-0 38 11 19
 0 32 0 1
+0 38 11 19
 1
 end_operator
 begin_operator
@@ -26039,8 +26039,8 @@ overcome jealousy curiosity lobster mercury neptune
 1
 19 6
 2
-0 38 11 19
 0 32 3 2
+0 38 11 19
 1
 end_operator
 begin_operator
@@ -26048,8 +26048,8 @@ overcome jealousy curiosity lobster neptune mars
 1
 19 6
 2
-0 38 11 19
 0 32 1 3
+0 38 11 19
 1
 end_operator
 begin_operator
@@ -26057,8 +26057,8 @@ overcome jealousy curiosity wonderbread mars jupiter
 1
 19 7
 2
-0 38 18 19
 0 32 0 1
+0 38 18 19
 1
 end_operator
 begin_operator
@@ -26066,8 +26066,8 @@ overcome jealousy curiosity wonderbread mercury neptune
 1
 19 7
 2
-0 38 18 19
 0 32 3 2
+0 38 18 19
 1
 end_operator
 begin_operator
@@ -26075,8 +26075,8 @@ overcome jealousy curiosity wonderbread neptune mars
 1
 19 7
 2
-0 38 18 19
 0 32 1 3
+0 38 18 19
 1
 end_operator
 begin_operator
@@ -26084,8 +26084,8 @@ overcome jealousy empathy bacon mars jupiter
 1
 21 0
 2
-0 38 1 20
 0 33 0 1
+0 38 1 20
 1
 end_operator
 begin_operator
@@ -26093,8 +26093,8 @@ overcome jealousy empathy bacon mercury neptune
 1
 21 0
 2
-0 38 1 20
 0 33 3 2
+0 38 1 20
 1
 end_operator
 begin_operator
@@ -26102,8 +26102,8 @@ overcome jealousy empathy bacon neptune mars
 1
 21 0
 2
-0 38 1 20
 0 33 1 3
+0 38 1 20
 1
 end_operator
 begin_operator
@@ -26111,8 +26111,8 @@ overcome jealousy empathy beef mars jupiter
 1
 21 1
 2
-0 38 2 20
 0 33 0 1
+0 38 2 20
 1
 end_operator
 begin_operator
@@ -26120,8 +26120,8 @@ overcome jealousy empathy beef mercury neptune
 1
 21 1
 2
-0 38 2 20
 0 33 3 2
+0 38 2 20
 1
 end_operator
 begin_operator
@@ -26129,8 +26129,8 @@ overcome jealousy empathy beef neptune mars
 1
 21 1
 2
-0 38 2 20
 0 33 1 3
+0 38 2 20
 1
 end_operator
 begin_operator
@@ -26138,8 +26138,8 @@ overcome jealousy empathy chicken mars jupiter
 1
 21 2
 2
-0 38 4 20
 0 33 0 1
+0 38 4 20
 1
 end_operator
 begin_operator
@@ -26147,8 +26147,8 @@ overcome jealousy empathy chicken mercury neptune
 1
 21 2
 2
-0 38 4 20
 0 33 3 2
+0 38 4 20
 1
 end_operator
 begin_operator
@@ -26156,8 +26156,8 @@ overcome jealousy empathy chicken neptune mars
 1
 21 2
 2
-0 38 4 20
 0 33 1 3
+0 38 4 20
 1
 end_operator
 begin_operator
@@ -26165,8 +26165,8 @@ overcome jealousy empathy grapefruit mars jupiter
 1
 21 3
 2
-0 38 6 20
 0 33 0 1
+0 38 6 20
 1
 end_operator
 begin_operator
@@ -26174,8 +26174,8 @@ overcome jealousy empathy grapefruit mercury neptune
 1
 21 3
 2
-0 38 6 20
 0 33 3 2
+0 38 6 20
 1
 end_operator
 begin_operator
@@ -26183,8 +26183,8 @@ overcome jealousy empathy grapefruit neptune mars
 1
 21 3
 2
-0 38 6 20
 0 33 1 3
+0 38 6 20
 1
 end_operator
 begin_operator
@@ -26192,8 +26192,8 @@ overcome jealousy empathy haroset mars jupiter
 1
 21 4
 2
-0 38 8 20
 0 33 0 1
+0 38 8 20
 1
 end_operator
 begin_operator
@@ -26201,8 +26201,8 @@ overcome jealousy empathy haroset mercury neptune
 1
 21 4
 2
-0 38 8 20
 0 33 3 2
+0 38 8 20
 1
 end_operator
 begin_operator
@@ -26210,8 +26210,8 @@ overcome jealousy empathy haroset neptune mars
 1
 21 4
 2
-0 38 8 20
 0 33 1 3
+0 38 8 20
 1
 end_operator
 begin_operator
@@ -26219,8 +26219,8 @@ overcome jealousy empathy hotdog mars jupiter
 1
 21 5
 2
-0 38 9 20
 0 33 0 1
+0 38 9 20
 1
 end_operator
 begin_operator
@@ -26228,8 +26228,8 @@ overcome jealousy empathy hotdog mercury neptune
 1
 21 5
 2
-0 38 9 20
 0 33 3 2
+0 38 9 20
 1
 end_operator
 begin_operator
@@ -26237,8 +26237,8 @@ overcome jealousy empathy hotdog neptune mars
 1
 21 5
 2
-0 38 9 20
 0 33 1 3
+0 38 9 20
 1
 end_operator
 begin_operator
@@ -26246,8 +26246,8 @@ overcome jealousy empathy lobster mars jupiter
 1
 21 6
 2
-0 38 11 20
 0 33 0 1
+0 38 11 20
 1
 end_operator
 begin_operator
@@ -26255,8 +26255,8 @@ overcome jealousy empathy lobster mercury neptune
 1
 21 6
 2
-0 38 11 20
 0 33 3 2
+0 38 11 20
 1
 end_operator
 begin_operator
@@ -26264,8 +26264,8 @@ overcome jealousy empathy lobster neptune mars
 1
 21 6
 2
-0 38 11 20
 0 33 1 3
+0 38 11 20
 1
 end_operator
 begin_operator
@@ -26273,8 +26273,8 @@ overcome jealousy empathy wonderbread mars jupiter
 1
 21 7
 2
-0 38 18 20
 0 33 0 1
+0 38 18 20
 1
 end_operator
 begin_operator
@@ -26282,8 +26282,8 @@ overcome jealousy empathy wonderbread mercury neptune
 1
 21 7
 2
-0 38 18 20
 0 33 3 2
+0 38 18 20
 1
 end_operator
 begin_operator
@@ -26291,8 +26291,8 @@ overcome jealousy empathy wonderbread neptune mars
 1
 21 7
 2
-0 38 18 20
 0 33 1 3
+0 38 18 20
 1
 end_operator
 begin_operator
@@ -27272,8 +27272,8 @@ overcome jealousy triumph bacon mars jupiter
 1
 22 0
 2
-0 38 1 24
 0 36 0 1
+0 38 1 24
 1
 end_operator
 begin_operator
@@ -27281,8 +27281,8 @@ overcome jealousy triumph bacon mercury neptune
 1
 22 0
 2
-0 38 1 24
 0 36 3 2
+0 38 1 24
 1
 end_operator
 begin_operator
@@ -27290,8 +27290,8 @@ overcome jealousy triumph bacon neptune mars
 1
 22 0
 2
-0 38 1 24
 0 36 1 3
+0 38 1 24
 1
 end_operator
 begin_operator
@@ -27299,8 +27299,8 @@ overcome jealousy triumph beef mars jupiter
 1
 22 1
 2
-0 38 2 24
 0 36 0 1
+0 38 2 24
 1
 end_operator
 begin_operator
@@ -27308,8 +27308,8 @@ overcome jealousy triumph beef mercury neptune
 1
 22 1
 2
-0 38 2 24
 0 36 3 2
+0 38 2 24
 1
 end_operator
 begin_operator
@@ -27317,8 +27317,8 @@ overcome jealousy triumph beef neptune mars
 1
 22 1
 2
-0 38 2 24
 0 36 1 3
+0 38 2 24
 1
 end_operator
 begin_operator
@@ -27326,8 +27326,8 @@ overcome jealousy triumph chicken mars jupiter
 1
 22 2
 2
-0 38 4 24
 0 36 0 1
+0 38 4 24
 1
 end_operator
 begin_operator
@@ -27335,8 +27335,8 @@ overcome jealousy triumph chicken mercury neptune
 1
 22 2
 2
-0 38 4 24
 0 36 3 2
+0 38 4 24
 1
 end_operator
 begin_operator
@@ -27344,8 +27344,8 @@ overcome jealousy triumph chicken neptune mars
 1
 22 2
 2
-0 38 4 24
 0 36 1 3
+0 38 4 24
 1
 end_operator
 begin_operator
@@ -27353,8 +27353,8 @@ overcome jealousy triumph grapefruit mars jupiter
 1
 22 3
 2
-0 38 6 24
 0 36 0 1
+0 38 6 24
 1
 end_operator
 begin_operator
@@ -27362,8 +27362,8 @@ overcome jealousy triumph grapefruit mercury neptune
 1
 22 3
 2
-0 38 6 24
 0 36 3 2
+0 38 6 24
 1
 end_operator
 begin_operator
@@ -27371,8 +27371,8 @@ overcome jealousy triumph grapefruit neptune mars
 1
 22 3
 2
-0 38 6 24
 0 36 1 3
+0 38 6 24
 1
 end_operator
 begin_operator
@@ -27380,8 +27380,8 @@ overcome jealousy triumph haroset mars jupiter
 1
 22 4
 2
-0 38 8 24
 0 36 0 1
+0 38 8 24
 1
 end_operator
 begin_operator
@@ -27389,8 +27389,8 @@ overcome jealousy triumph haroset mercury neptune
 1
 22 4
 2
-0 38 8 24
 0 36 3 2
+0 38 8 24
 1
 end_operator
 begin_operator
@@ -27398,8 +27398,8 @@ overcome jealousy triumph haroset neptune mars
 1
 22 4
 2
-0 38 8 24
 0 36 1 3
+0 38 8 24
 1
 end_operator
 begin_operator
@@ -27407,8 +27407,8 @@ overcome jealousy triumph hotdog mars jupiter
 1
 22 5
 2
-0 38 9 24
 0 36 0 1
+0 38 9 24
 1
 end_operator
 begin_operator
@@ -27416,8 +27416,8 @@ overcome jealousy triumph hotdog mercury neptune
 1
 22 5
 2
-0 38 9 24
 0 36 3 2
+0 38 9 24
 1
 end_operator
 begin_operator
@@ -27425,8 +27425,8 @@ overcome jealousy triumph hotdog neptune mars
 1
 22 5
 2
-0 38 9 24
 0 36 1 3
+0 38 9 24
 1
 end_operator
 begin_operator
@@ -27434,8 +27434,8 @@ overcome jealousy triumph lobster mars jupiter
 1
 22 6
 2
-0 38 11 24
 0 36 0 1
+0 38 11 24
 1
 end_operator
 begin_operator
@@ -27443,8 +27443,8 @@ overcome jealousy triumph lobster mercury neptune
 1
 22 6
 2
-0 38 11 24
 0 36 3 2
+0 38 11 24
 1
 end_operator
 begin_operator
@@ -27452,8 +27452,8 @@ overcome jealousy triumph lobster neptune mars
 1
 22 6
 2
-0 38 11 24
 0 36 1 3
+0 38 11 24
 1
 end_operator
 begin_operator
@@ -27461,8 +27461,8 @@ overcome jealousy triumph wonderbread mars jupiter
 1
 22 7
 2
-0 38 18 24
 0 36 0 1
+0 38 18 24
 1
 end_operator
 begin_operator
@@ -27470,8 +27470,8 @@ overcome jealousy triumph wonderbread mercury neptune
 1
 22 7
 2
-0 38 18 24
 0 36 3 2
+0 38 18 24
 1
 end_operator
 begin_operator
@@ -27479,8 +27479,8 @@ overcome jealousy triumph wonderbread neptune mars
 1
 22 7
 2
-0 38 18 24
 0 36 1 3
+0 38 18 24
 1
 end_operator
 begin_operator
@@ -27812,8 +27812,8 @@ overcome laceration curiosity bacon mars jupiter
 1
 19 0
 2
-0 46 1 19
 0 32 0 1
+0 46 1 19
 1
 end_operator
 begin_operator
@@ -27821,8 +27821,8 @@ overcome laceration curiosity bacon mercury neptune
 1
 19 0
 2
-0 46 1 19
 0 32 3 2
+0 46 1 19
 1
 end_operator
 begin_operator
@@ -27830,8 +27830,8 @@ overcome laceration curiosity bacon neptune mars
 1
 19 0
 2
-0 46 1 19
 0 32 1 3
+0 46 1 19
 1
 end_operator
 begin_operator
@@ -27839,8 +27839,8 @@ overcome laceration curiosity beef mars jupiter
 1
 19 1
 2
-0 46 2 19
 0 32 0 1
+0 46 2 19
 1
 end_operator
 begin_operator
@@ -27848,8 +27848,8 @@ overcome laceration curiosity beef mercury neptune
 1
 19 1
 2
-0 46 2 19
 0 32 3 2
+0 46 2 19
 1
 end_operator
 begin_operator
@@ -27857,8 +27857,8 @@ overcome laceration curiosity beef neptune mars
 1
 19 1
 2
-0 46 2 19
 0 32 1 3
+0 46 2 19
 1
 end_operator
 begin_operator
@@ -27866,8 +27866,8 @@ overcome laceration curiosity chicken mars jupiter
 1
 19 2
 2
-0 46 4 19
 0 32 0 1
+0 46 4 19
 1
 end_operator
 begin_operator
@@ -27875,8 +27875,8 @@ overcome laceration curiosity chicken mercury neptune
 1
 19 2
 2
-0 46 4 19
 0 32 3 2
+0 46 4 19
 1
 end_operator
 begin_operator
@@ -27884,8 +27884,8 @@ overcome laceration curiosity chicken neptune mars
 1
 19 2
 2
-0 46 4 19
 0 32 1 3
+0 46 4 19
 1
 end_operator
 begin_operator
@@ -27893,8 +27893,8 @@ overcome laceration curiosity grapefruit mars jupiter
 1
 19 3
 2
-0 46 6 19
 0 32 0 1
+0 46 6 19
 1
 end_operator
 begin_operator
@@ -27902,8 +27902,8 @@ overcome laceration curiosity grapefruit mercury neptune
 1
 19 3
 2
-0 46 6 19
 0 32 3 2
+0 46 6 19
 1
 end_operator
 begin_operator
@@ -27911,8 +27911,8 @@ overcome laceration curiosity grapefruit neptune mars
 1
 19 3
 2
-0 46 6 19
 0 32 1 3
+0 46 6 19
 1
 end_operator
 begin_operator
@@ -27920,8 +27920,8 @@ overcome laceration curiosity haroset mars jupiter
 1
 19 4
 2
-0 46 8 19
 0 32 0 1
+0 46 8 19
 1
 end_operator
 begin_operator
@@ -27929,8 +27929,8 @@ overcome laceration curiosity haroset mercury neptune
 1
 19 4
 2
-0 46 8 19
 0 32 3 2
+0 46 8 19
 1
 end_operator
 begin_operator
@@ -27938,8 +27938,8 @@ overcome laceration curiosity haroset neptune mars
 1
 19 4
 2
-0 46 8 19
 0 32 1 3
+0 46 8 19
 1
 end_operator
 begin_operator
@@ -27947,8 +27947,8 @@ overcome laceration curiosity hotdog mars jupiter
 1
 19 5
 2
-0 46 9 19
 0 32 0 1
+0 46 9 19
 1
 end_operator
 begin_operator
@@ -27956,8 +27956,8 @@ overcome laceration curiosity hotdog mercury neptune
 1
 19 5
 2
-0 46 9 19
 0 32 3 2
+0 46 9 19
 1
 end_operator
 begin_operator
@@ -27965,8 +27965,8 @@ overcome laceration curiosity hotdog neptune mars
 1
 19 5
 2
-0 46 9 19
 0 32 1 3
+0 46 9 19
 1
 end_operator
 begin_operator
@@ -27974,8 +27974,8 @@ overcome laceration curiosity lobster mars jupiter
 1
 19 6
 2
-0 46 11 19
 0 32 0 1
+0 46 11 19
 1
 end_operator
 begin_operator
@@ -27983,8 +27983,8 @@ overcome laceration curiosity lobster mercury neptune
 1
 19 6
 2
-0 46 11 19
 0 32 3 2
+0 46 11 19
 1
 end_operator
 begin_operator
@@ -27992,8 +27992,8 @@ overcome laceration curiosity lobster neptune mars
 1
 19 6
 2
-0 46 11 19
 0 32 1 3
+0 46 11 19
 1
 end_operator
 begin_operator
@@ -28001,8 +28001,8 @@ overcome laceration curiosity wonderbread mars jupiter
 1
 19 7
 2
-0 46 18 19
 0 32 0 1
+0 46 18 19
 1
 end_operator
 begin_operator
@@ -28010,8 +28010,8 @@ overcome laceration curiosity wonderbread mercury neptune
 1
 19 7
 2
-0 46 18 19
 0 32 3 2
+0 46 18 19
 1
 end_operator
 begin_operator
@@ -28019,8 +28019,8 @@ overcome laceration curiosity wonderbread neptune mars
 1
 19 7
 2
-0 46 18 19
 0 32 1 3
+0 46 18 19
 1
 end_operator
 begin_operator
@@ -28028,8 +28028,8 @@ overcome laceration empathy bacon mars jupiter
 1
 21 0
 2
-0 46 1 20
 0 33 0 1
+0 46 1 20
 1
 end_operator
 begin_operator
@@ -28037,8 +28037,8 @@ overcome laceration empathy bacon mercury neptune
 1
 21 0
 2
-0 46 1 20
 0 33 3 2
+0 46 1 20
 1
 end_operator
 begin_operator
@@ -28046,8 +28046,8 @@ overcome laceration empathy bacon neptune mars
 1
 21 0
 2
-0 46 1 20
 0 33 1 3
+0 46 1 20
 1
 end_operator
 begin_operator
@@ -28055,8 +28055,8 @@ overcome laceration empathy beef mars jupiter
 1
 21 1
 2
-0 46 2 20
 0 33 0 1
+0 46 2 20
 1
 end_operator
 begin_operator
@@ -28064,8 +28064,8 @@ overcome laceration empathy beef mercury neptune
 1
 21 1
 2
-0 46 2 20
 0 33 3 2
+0 46 2 20
 1
 end_operator
 begin_operator
@@ -28073,8 +28073,8 @@ overcome laceration empathy beef neptune mars
 1
 21 1
 2
-0 46 2 20
 0 33 1 3
+0 46 2 20
 1
 end_operator
 begin_operator
@@ -28082,8 +28082,8 @@ overcome laceration empathy chicken mars jupiter
 1
 21 2
 2
-0 46 4 20
 0 33 0 1
+0 46 4 20
 1
 end_operator
 begin_operator
@@ -28091,8 +28091,8 @@ overcome laceration empathy chicken mercury neptune
 1
 21 2
 2
-0 46 4 20
 0 33 3 2
+0 46 4 20
 1
 end_operator
 begin_operator
@@ -28100,8 +28100,8 @@ overcome laceration empathy chicken neptune mars
 1
 21 2
 2
-0 46 4 20
 0 33 1 3
+0 46 4 20
 1
 end_operator
 begin_operator
@@ -28109,8 +28109,8 @@ overcome laceration empathy grapefruit mars jupiter
 1
 21 3
 2
-0 46 6 20
 0 33 0 1
+0 46 6 20
 1
 end_operator
 begin_operator
@@ -28118,8 +28118,8 @@ overcome laceration empathy grapefruit mercury neptune
 1
 21 3
 2
-0 46 6 20
 0 33 3 2
+0 46 6 20
 1
 end_operator
 begin_operator
@@ -28127,8 +28127,8 @@ overcome laceration empathy grapefruit neptune mars
 1
 21 3
 2
-0 46 6 20
 0 33 1 3
+0 46 6 20
 1
 end_operator
 begin_operator
@@ -28136,8 +28136,8 @@ overcome laceration empathy haroset mars jupiter
 1
 21 4
 2
-0 46 8 20
 0 33 0 1
+0 46 8 20
 1
 end_operator
 begin_operator
@@ -28145,8 +28145,8 @@ overcome laceration empathy haroset mercury neptune
 1
 21 4
 2
-0 46 8 20
 0 33 3 2
+0 46 8 20
 1
 end_operator
 begin_operator
@@ -28154,8 +28154,8 @@ overcome laceration empathy haroset neptune mars
 1
 21 4
 2
-0 46 8 20
 0 33 1 3
+0 46 8 20
 1
 end_operator
 begin_operator
@@ -28163,8 +28163,8 @@ overcome laceration empathy hotdog mars jupiter
 1
 21 5
 2
-0 46 9 20
 0 33 0 1
+0 46 9 20
 1
 end_operator
 begin_operator
@@ -28172,8 +28172,8 @@ overcome laceration empathy hotdog mercury neptune
 1
 21 5
 2
-0 46 9 20
 0 33 3 2
+0 46 9 20
 1
 end_operator
 begin_operator
@@ -28181,8 +28181,8 @@ overcome laceration empathy hotdog neptune mars
 1
 21 5
 2
-0 46 9 20
 0 33 1 3
+0 46 9 20
 1
 end_operator
 begin_operator
@@ -28190,8 +28190,8 @@ overcome laceration empathy lobster mars jupiter
 1
 21 6
 2
-0 46 11 20
 0 33 0 1
+0 46 11 20
 1
 end_operator
 begin_operator
@@ -28199,8 +28199,8 @@ overcome laceration empathy lobster mercury neptune
 1
 21 6
 2
-0 46 11 20
 0 33 3 2
+0 46 11 20
 1
 end_operator
 begin_operator
@@ -28208,8 +28208,8 @@ overcome laceration empathy lobster neptune mars
 1
 21 6
 2
-0 46 11 20
 0 33 1 3
+0 46 11 20
 1
 end_operator
 begin_operator
@@ -28217,8 +28217,8 @@ overcome laceration empathy wonderbread mars jupiter
 1
 21 7
 2
-0 46 18 20
 0 33 0 1
+0 46 18 20
 1
 end_operator
 begin_operator
@@ -28226,8 +28226,8 @@ overcome laceration empathy wonderbread mercury neptune
 1
 21 7
 2
-0 46 18 20
 0 33 3 2
+0 46 18 20
 1
 end_operator
 begin_operator
@@ -28235,8 +28235,8 @@ overcome laceration empathy wonderbread neptune mars
 1
 21 7
 2
-0 46 18 20
 0 33 1 3
+0 46 18 20
 1
 end_operator
 begin_operator
@@ -28244,8 +28244,8 @@ overcome laceration intoxication apple mars jupiter
 1
 7 0
 2
-0 46 0 21
 0 40 0 1
+0 46 0 21
 1
 end_operator
 begin_operator
@@ -28253,8 +28253,8 @@ overcome laceration intoxication apple mercury neptune
 1
 7 0
 2
-0 46 0 21
 0 40 3 2
+0 46 0 21
 1
 end_operator
 begin_operator
@@ -28262,8 +28262,8 @@ overcome laceration intoxication apple neptune mars
 1
 7 0
 2
-0 46 0 21
 0 40 1 3
+0 46 0 21
 1
 end_operator
 begin_operator
@@ -28271,8 +28271,8 @@ overcome laceration intoxication cherry mars jupiter
 1
 7 1
 2
-0 46 3 21
 0 40 0 1
+0 46 3 21
 1
 end_operator
 begin_operator
@@ -28280,8 +28280,8 @@ overcome laceration intoxication cherry mercury neptune
 1
 7 1
 2
-0 46 3 21
 0 40 3 2
+0 46 3 21
 1
 end_operator
 begin_operator
@@ -28289,8 +28289,8 @@ overcome laceration intoxication cherry neptune mars
 1
 7 1
 2
-0 46 3 21
 0 40 1 3
+0 46 3 21
 1
 end_operator
 begin_operator
@@ -28298,8 +28298,8 @@ overcome laceration intoxication flounder mars jupiter
 1
 7 2
 2
-0 46 5 21
 0 40 0 1
+0 46 5 21
 1
 end_operator
 begin_operator
@@ -28307,8 +28307,8 @@ overcome laceration intoxication flounder mercury neptune
 1
 7 2
 2
-0 46 5 21
 0 40 3 2
+0 46 5 21
 1
 end_operator
 begin_operator
@@ -28316,8 +28316,8 @@ overcome laceration intoxication flounder neptune mars
 1
 7 2
 2
-0 46 5 21
 0 40 1 3
+0 46 5 21
 1
 end_operator
 begin_operator
@@ -28325,8 +28325,8 @@ overcome laceration intoxication ham mars jupiter
 1
 7 3
 2
-0 46 7 21
 0 40 0 1
+0 46 7 21
 1
 end_operator
 begin_operator
@@ -28334,8 +28334,8 @@ overcome laceration intoxication ham mercury neptune
 1
 7 3
 2
-0 46 7 21
 0 40 3 2
+0 46 7 21
 1
 end_operator
 begin_operator
@@ -28343,8 +28343,8 @@ overcome laceration intoxication ham neptune mars
 1
 7 3
 2
-0 46 7 21
 0 40 1 3
+0 46 7 21
 1
 end_operator
 begin_operator
@@ -28352,8 +28352,8 @@ overcome laceration intoxication hotdog mars jupiter
 1
 7 4
 2
-0 46 9 21
 0 40 0 1
+0 46 9 21
 1
 end_operator
 begin_operator
@@ -28361,8 +28361,8 @@ overcome laceration intoxication hotdog mercury neptune
 1
 7 4
 2
-0 46 9 21
 0 40 3 2
+0 46 9 21
 1
 end_operator
 begin_operator
@@ -28370,8 +28370,8 @@ overcome laceration intoxication hotdog neptune mars
 1
 7 4
 2
-0 46 9 21
 0 40 1 3
+0 46 9 21
 1
 end_operator
 begin_operator
@@ -28379,8 +28379,8 @@ overcome laceration intoxication lamb mars jupiter
 1
 7 5
 2
-0 46 10 21
 0 40 0 1
+0 46 10 21
 1
 end_operator
 begin_operator
@@ -28388,8 +28388,8 @@ overcome laceration intoxication lamb mercury neptune
 1
 7 5
 2
-0 46 10 21
 0 40 3 2
+0 46 10 21
 1
 end_operator
 begin_operator
@@ -28397,8 +28397,8 @@ overcome laceration intoxication lamb neptune mars
 1
 7 5
 2
-0 46 10 21
 0 40 1 3
+0 46 10 21
 1
 end_operator
 begin_operator
@@ -28406,8 +28406,8 @@ overcome laceration intoxication okra mars jupiter
 1
 7 6
 2
-0 46 12 21
 0 40 0 1
+0 46 12 21
 1
 end_operator
 begin_operator
@@ -28415,8 +28415,8 @@ overcome laceration intoxication okra mercury neptune
 1
 7 6
 2
-0 46 12 21
 0 40 3 2
+0 46 12 21
 1
 end_operator
 begin_operator
@@ -28424,8 +28424,8 @@ overcome laceration intoxication okra neptune mars
 1
 7 6
 2
-0 46 12 21
 0 40 1 3
+0 46 12 21
 1
 end_operator
 begin_operator
@@ -28433,8 +28433,8 @@ overcome laceration intoxication onion mars jupiter
 1
 7 7
 2
-0 46 13 21
 0 40 0 1
+0 46 13 21
 1
 end_operator
 begin_operator
@@ -28442,8 +28442,8 @@ overcome laceration intoxication onion mercury neptune
 1
 7 7
 2
-0 46 13 21
 0 40 3 2
+0 46 13 21
 1
 end_operator
 begin_operator
@@ -28451,8 +28451,8 @@ overcome laceration intoxication onion neptune mars
 1
 7 7
 2
-0 46 13 21
 0 40 1 3
+0 46 13 21
 1
 end_operator
 begin_operator
@@ -28460,8 +28460,8 @@ overcome laceration intoxication papaya mars jupiter
 1
 7 8
 2
-0 46 14 21
 0 40 0 1
+0 46 14 21
 1
 end_operator
 begin_operator
@@ -28469,8 +28469,8 @@ overcome laceration intoxication papaya mercury neptune
 1
 7 8
 2
-0 46 14 21
 0 40 3 2
+0 46 14 21
 1
 end_operator
 begin_operator
@@ -28478,8 +28478,8 @@ overcome laceration intoxication papaya neptune mars
 1
 7 8
 2
-0 46 14 21
 0 40 1 3
+0 46 14 21
 1
 end_operator
 begin_operator
@@ -28487,8 +28487,8 @@ overcome laceration intoxication pistachio mars jupiter
 1
 7 9
 2
-0 46 15 21
 0 40 0 1
+0 46 15 21
 1
 end_operator
 begin_operator
@@ -28496,8 +28496,8 @@ overcome laceration intoxication pistachio mercury neptune
 1
 7 9
 2
-0 46 15 21
 0 40 3 2
+0 46 15 21
 1
 end_operator
 begin_operator
@@ -28505,8 +28505,8 @@ overcome laceration intoxication pistachio neptune mars
 1
 7 9
 2
-0 46 15 21
 0 40 1 3
+0 46 15 21
 1
 end_operator
 begin_operator
@@ -28514,8 +28514,8 @@ overcome laceration intoxication scallop mars jupiter
 1
 7 10
 2
-0 46 16 21
 0 40 0 1
+0 46 16 21
 1
 end_operator
 begin_operator
@@ -28523,8 +28523,8 @@ overcome laceration intoxication scallop mercury neptune
 1
 7 10
 2
-0 46 16 21
 0 40 3 2
+0 46 16 21
 1
 end_operator
 begin_operator
@@ -28532,8 +28532,8 @@ overcome laceration intoxication scallop neptune mars
 1
 7 10
 2
-0 46 16 21
 0 40 1 3
+0 46 16 21
 1
 end_operator
 begin_operator
@@ -28541,8 +28541,8 @@ overcome laceration intoxication sweetroll mars jupiter
 1
 7 11
 2
-0 46 17 21
 0 40 0 1
+0 46 17 21
 1
 end_operator
 begin_operator
@@ -28550,8 +28550,8 @@ overcome laceration intoxication sweetroll mercury neptune
 1
 7 11
 2
-0 46 17 21
 0 40 3 2
+0 46 17 21
 1
 end_operator
 begin_operator
@@ -28559,8 +28559,8 @@ overcome laceration intoxication sweetroll neptune mars
 1
 7 11
 2
-0 46 17 21
 0 40 1 3
+0 46 17 21
 1
 end_operator
 begin_operator
@@ -28568,8 +28568,8 @@ overcome laceration learning apple mars jupiter
 1
 9 0
 2
-0 46 0 22
 0 41 0 1
+0 46 0 22
 1
 end_operator
 begin_operator
@@ -28577,8 +28577,8 @@ overcome laceration learning apple mercury neptune
 1
 9 0
 2
-0 46 0 22
 0 41 3 2
+0 46 0 22
 1
 end_operator
 begin_operator
@@ -28586,8 +28586,8 @@ overcome laceration learning apple neptune mars
 1
 9 0
 2
-0 46 0 22
 0 41 1 3
+0 46 0 22
 1
 end_operator
 begin_operator
@@ -28595,8 +28595,8 @@ overcome laceration learning cherry mars jupiter
 1
 9 1
 2
-0 46 3 22
 0 41 0 1
+0 46 3 22
 1
 end_operator
 begin_operator
@@ -28604,8 +28604,8 @@ overcome laceration learning cherry mercury neptune
 1
 9 1
 2
-0 46 3 22
 0 41 3 2
+0 46 3 22
 1
 end_operator
 begin_operator
@@ -28613,8 +28613,8 @@ overcome laceration learning cherry neptune mars
 1
 9 1
 2
-0 46 3 22
 0 41 1 3
+0 46 3 22
 1
 end_operator
 begin_operator
@@ -28622,8 +28622,8 @@ overcome laceration learning flounder mars jupiter
 1
 9 2
 2
-0 46 5 22
 0 41 0 1
+0 46 5 22
 1
 end_operator
 begin_operator
@@ -28631,8 +28631,8 @@ overcome laceration learning flounder mercury neptune
 1
 9 2
 2
-0 46 5 22
 0 41 3 2
+0 46 5 22
 1
 end_operator
 begin_operator
@@ -28640,8 +28640,8 @@ overcome laceration learning flounder neptune mars
 1
 9 2
 2
-0 46 5 22
 0 41 1 3
+0 46 5 22
 1
 end_operator
 begin_operator
@@ -28649,8 +28649,8 @@ overcome laceration learning ham mars jupiter
 1
 9 3
 2
-0 46 7 22
 0 41 0 1
+0 46 7 22
 1
 end_operator
 begin_operator
@@ -28658,8 +28658,8 @@ overcome laceration learning ham mercury neptune
 1
 9 3
 2
-0 46 7 22
 0 41 3 2
+0 46 7 22
 1
 end_operator
 begin_operator
@@ -28667,8 +28667,8 @@ overcome laceration learning ham neptune mars
 1
 9 3
 2
-0 46 7 22
 0 41 1 3
+0 46 7 22
 1
 end_operator
 begin_operator
@@ -28676,8 +28676,8 @@ overcome laceration learning hotdog mars jupiter
 1
 9 4
 2
-0 46 9 22
 0 41 0 1
+0 46 9 22
 1
 end_operator
 begin_operator
@@ -28685,8 +28685,8 @@ overcome laceration learning hotdog mercury neptune
 1
 9 4
 2
-0 46 9 22
 0 41 3 2
+0 46 9 22
 1
 end_operator
 begin_operator
@@ -28694,8 +28694,8 @@ overcome laceration learning hotdog neptune mars
 1
 9 4
 2
-0 46 9 22
 0 41 1 3
+0 46 9 22
 1
 end_operator
 begin_operator
@@ -28703,8 +28703,8 @@ overcome laceration learning lamb mars jupiter
 1
 9 5
 2
-0 46 10 22
 0 41 0 1
+0 46 10 22
 1
 end_operator
 begin_operator
@@ -28712,8 +28712,8 @@ overcome laceration learning lamb mercury neptune
 1
 9 5
 2
-0 46 10 22
 0 41 3 2
+0 46 10 22
 1
 end_operator
 begin_operator
@@ -28721,8 +28721,8 @@ overcome laceration learning lamb neptune mars
 1
 9 5
 2
-0 46 10 22
 0 41 1 3
+0 46 10 22
 1
 end_operator
 begin_operator
@@ -28730,8 +28730,8 @@ overcome laceration learning okra mars jupiter
 1
 9 6
 2
-0 46 12 22
 0 41 0 1
+0 46 12 22
 1
 end_operator
 begin_operator
@@ -28739,8 +28739,8 @@ overcome laceration learning okra mercury neptune
 1
 9 6
 2
-0 46 12 22
 0 41 3 2
+0 46 12 22
 1
 end_operator
 begin_operator
@@ -28748,8 +28748,8 @@ overcome laceration learning okra neptune mars
 1
 9 6
 2
-0 46 12 22
 0 41 1 3
+0 46 12 22
 1
 end_operator
 begin_operator
@@ -28757,8 +28757,8 @@ overcome laceration learning onion mars jupiter
 1
 9 7
 2
-0 46 13 22
 0 41 0 1
+0 46 13 22
 1
 end_operator
 begin_operator
@@ -28766,8 +28766,8 @@ overcome laceration learning onion mercury neptune
 1
 9 7
 2
-0 46 13 22
 0 41 3 2
+0 46 13 22
 1
 end_operator
 begin_operator
@@ -28775,8 +28775,8 @@ overcome laceration learning onion neptune mars
 1
 9 7
 2
-0 46 13 22
 0 41 1 3
+0 46 13 22
 1
 end_operator
 begin_operator
@@ -28784,8 +28784,8 @@ overcome laceration learning papaya mars jupiter
 1
 9 8
 2
-0 46 14 22
 0 41 0 1
+0 46 14 22
 1
 end_operator
 begin_operator
@@ -28793,8 +28793,8 @@ overcome laceration learning papaya mercury neptune
 1
 9 8
 2
-0 46 14 22
 0 41 3 2
+0 46 14 22
 1
 end_operator
 begin_operator
@@ -28802,8 +28802,8 @@ overcome laceration learning papaya neptune mars
 1
 9 8
 2
-0 46 14 22
 0 41 1 3
+0 46 14 22
 1
 end_operator
 begin_operator
@@ -28811,8 +28811,8 @@ overcome laceration learning pistachio mars jupiter
 1
 9 9
 2
-0 46 15 22
 0 41 0 1
+0 46 15 22
 1
 end_operator
 begin_operator
@@ -28820,8 +28820,8 @@ overcome laceration learning pistachio mercury neptune
 1
 9 9
 2
-0 46 15 22
 0 41 3 2
+0 46 15 22
 1
 end_operator
 begin_operator
@@ -28829,8 +28829,8 @@ overcome laceration learning pistachio neptune mars
 1
 9 9
 2
-0 46 15 22
 0 41 1 3
+0 46 15 22
 1
 end_operator
 begin_operator
@@ -28838,8 +28838,8 @@ overcome laceration learning scallop mars jupiter
 1
 9 10
 2
-0 46 16 22
 0 41 0 1
+0 46 16 22
 1
 end_operator
 begin_operator
@@ -28847,8 +28847,8 @@ overcome laceration learning scallop mercury neptune
 1
 9 10
 2
-0 46 16 22
 0 41 3 2
+0 46 16 22
 1
 end_operator
 begin_operator
@@ -28856,8 +28856,8 @@ overcome laceration learning scallop neptune mars
 1
 9 10
 2
-0 46 16 22
 0 41 1 3
+0 46 16 22
 1
 end_operator
 begin_operator
@@ -28865,8 +28865,8 @@ overcome laceration learning sweetroll mars jupiter
 1
 9 11
 2
-0 46 17 22
 0 41 0 1
+0 46 17 22
 1
 end_operator
 begin_operator
@@ -28874,8 +28874,8 @@ overcome laceration learning sweetroll mercury neptune
 1
 9 11
 2
-0 46 17 22
 0 41 3 2
+0 46 17 22
 1
 end_operator
 begin_operator
@@ -28883,8 +28883,8 @@ overcome laceration learning sweetroll neptune mars
 1
 9 11
 2
-0 46 17 22
 0 41 1 3
+0 46 17 22
 1
 end_operator
 begin_operator
@@ -28892,8 +28892,8 @@ overcome laceration satisfaction apple mars jupiter
 1
 11 0
 2
-0 46 0 23
 0 44 0 1
+0 46 0 23
 1
 end_operator
 begin_operator
@@ -28901,8 +28901,8 @@ overcome laceration satisfaction apple mercury neptune
 1
 11 0
 2
-0 46 0 23
 0 44 3 2
+0 46 0 23
 1
 end_operator
 begin_operator
@@ -28910,8 +28910,8 @@ overcome laceration satisfaction apple neptune mars
 1
 11 0
 2
-0 46 0 23
 0 44 1 3
+0 46 0 23
 1
 end_operator
 begin_operator
@@ -28919,8 +28919,8 @@ overcome laceration satisfaction cherry mars jupiter
 1
 11 1
 2
-0 46 3 23
 0 44 0 1
+0 46 3 23
 1
 end_operator
 begin_operator
@@ -28928,8 +28928,8 @@ overcome laceration satisfaction cherry mercury neptune
 1
 11 1
 2
-0 46 3 23
 0 44 3 2
+0 46 3 23
 1
 end_operator
 begin_operator
@@ -28937,8 +28937,8 @@ overcome laceration satisfaction cherry neptune mars
 1
 11 1
 2
-0 46 3 23
 0 44 1 3
+0 46 3 23
 1
 end_operator
 begin_operator
@@ -28946,8 +28946,8 @@ overcome laceration satisfaction flounder mars jupiter
 1
 11 2
 2
-0 46 5 23
 0 44 0 1
+0 46 5 23
 1
 end_operator
 begin_operator
@@ -28955,8 +28955,8 @@ overcome laceration satisfaction flounder mercury neptune
 1
 11 2
 2
-0 46 5 23
 0 44 3 2
+0 46 5 23
 1
 end_operator
 begin_operator
@@ -28964,8 +28964,8 @@ overcome laceration satisfaction flounder neptune mars
 1
 11 2
 2
-0 46 5 23
 0 44 1 3
+0 46 5 23
 1
 end_operator
 begin_operator
@@ -28973,8 +28973,8 @@ overcome laceration satisfaction ham mars jupiter
 1
 11 3
 2
-0 46 7 23
 0 44 0 1
+0 46 7 23
 1
 end_operator
 begin_operator
@@ -28982,8 +28982,8 @@ overcome laceration satisfaction ham mercury neptune
 1
 11 3
 2
-0 46 7 23
 0 44 3 2
+0 46 7 23
 1
 end_operator
 begin_operator
@@ -28991,8 +28991,8 @@ overcome laceration satisfaction ham neptune mars
 1
 11 3
 2
-0 46 7 23
 0 44 1 3
+0 46 7 23
 1
 end_operator
 begin_operator
@@ -29000,8 +29000,8 @@ overcome laceration satisfaction hotdog mars jupiter
 1
 11 4
 2
-0 46 9 23
 0 44 0 1
+0 46 9 23
 1
 end_operator
 begin_operator
@@ -29009,8 +29009,8 @@ overcome laceration satisfaction hotdog mercury neptune
 1
 11 4
 2
-0 46 9 23
 0 44 3 2
+0 46 9 23
 1
 end_operator
 begin_operator
@@ -29018,8 +29018,8 @@ overcome laceration satisfaction hotdog neptune mars
 1
 11 4
 2
-0 46 9 23
 0 44 1 3
+0 46 9 23
 1
 end_operator
 begin_operator
@@ -29027,8 +29027,8 @@ overcome laceration satisfaction lamb mars jupiter
 1
 11 5
 2
-0 46 10 23
 0 44 0 1
+0 46 10 23
 1
 end_operator
 begin_operator
@@ -29036,8 +29036,8 @@ overcome laceration satisfaction lamb mercury neptune
 1
 11 5
 2
-0 46 10 23
 0 44 3 2
+0 46 10 23
 1
 end_operator
 begin_operator
@@ -29045,8 +29045,8 @@ overcome laceration satisfaction lamb neptune mars
 1
 11 5
 2
-0 46 10 23
 0 44 1 3
+0 46 10 23
 1
 end_operator
 begin_operator
@@ -29054,8 +29054,8 @@ overcome laceration satisfaction okra mars jupiter
 1
 11 6
 2
-0 46 12 23
 0 44 0 1
+0 46 12 23
 1
 end_operator
 begin_operator
@@ -29063,8 +29063,8 @@ overcome laceration satisfaction okra mercury neptune
 1
 11 6
 2
-0 46 12 23
 0 44 3 2
+0 46 12 23
 1
 end_operator
 begin_operator
@@ -29072,8 +29072,8 @@ overcome laceration satisfaction okra neptune mars
 1
 11 6
 2
-0 46 12 23
 0 44 1 3
+0 46 12 23
 1
 end_operator
 begin_operator
@@ -29081,8 +29081,8 @@ overcome laceration satisfaction onion mars jupiter
 1
 11 7
 2
-0 46 13 23
 0 44 0 1
+0 46 13 23
 1
 end_operator
 begin_operator
@@ -29090,8 +29090,8 @@ overcome laceration satisfaction onion mercury neptune
 1
 11 7
 2
-0 46 13 23
 0 44 3 2
+0 46 13 23
 1
 end_operator
 begin_operator
@@ -29099,8 +29099,8 @@ overcome laceration satisfaction onion neptune mars
 1
 11 7
 2
-0 46 13 23
 0 44 1 3
+0 46 13 23
 1
 end_operator
 begin_operator
@@ -29108,8 +29108,8 @@ overcome laceration satisfaction papaya mars jupiter
 1
 11 8
 2
-0 46 14 23
 0 44 0 1
+0 46 14 23
 1
 end_operator
 begin_operator
@@ -29117,8 +29117,8 @@ overcome laceration satisfaction papaya mercury neptune
 1
 11 8
 2
-0 46 14 23
 0 44 3 2
+0 46 14 23
 1
 end_operator
 begin_operator
@@ -29126,8 +29126,8 @@ overcome laceration satisfaction papaya neptune mars
 1
 11 8
 2
-0 46 14 23
 0 44 1 3
+0 46 14 23
 1
 end_operator
 begin_operator
@@ -29135,8 +29135,8 @@ overcome laceration satisfaction pistachio mars jupiter
 1
 11 9
 2
-0 46 15 23
 0 44 0 1
+0 46 15 23
 1
 end_operator
 begin_operator
@@ -29144,8 +29144,8 @@ overcome laceration satisfaction pistachio mercury neptune
 1
 11 9
 2
-0 46 15 23
 0 44 3 2
+0 46 15 23
 1
 end_operator
 begin_operator
@@ -29153,8 +29153,8 @@ overcome laceration satisfaction pistachio neptune mars
 1
 11 9
 2
-0 46 15 23
 0 44 1 3
+0 46 15 23
 1
 end_operator
 begin_operator
@@ -29162,8 +29162,8 @@ overcome laceration satisfaction scallop mars jupiter
 1
 11 10
 2
-0 46 16 23
 0 44 0 1
+0 46 16 23
 1
 end_operator
 begin_operator
@@ -29171,8 +29171,8 @@ overcome laceration satisfaction scallop mercury neptune
 1
 11 10
 2
-0 46 16 23
 0 44 3 2
+0 46 16 23
 1
 end_operator
 begin_operator
@@ -29180,8 +29180,8 @@ overcome laceration satisfaction scallop neptune mars
 1
 11 10
 2
-0 46 16 23
 0 44 1 3
+0 46 16 23
 1
 end_operator
 begin_operator
@@ -29189,8 +29189,8 @@ overcome laceration satisfaction sweetroll mars jupiter
 1
 11 11
 2
-0 46 17 23
 0 44 0 1
+0 46 17 23
 1
 end_operator
 begin_operator
@@ -29198,8 +29198,8 @@ overcome laceration satisfaction sweetroll mercury neptune
 1
 11 11
 2
-0 46 17 23
 0 44 3 2
+0 46 17 23
 1
 end_operator
 begin_operator
@@ -29207,8 +29207,8 @@ overcome laceration satisfaction sweetroll neptune mars
 1
 11 11
 2
-0 46 17 23
 0 44 1 3
+0 46 17 23
 1
 end_operator
 begin_operator
@@ -29216,8 +29216,8 @@ overcome laceration triumph bacon mars jupiter
 1
 22 0
 2
-0 46 1 24
 0 36 0 1
+0 46 1 24
 1
 end_operator
 begin_operator
@@ -29225,8 +29225,8 @@ overcome laceration triumph bacon mercury neptune
 1
 22 0
 2
-0 46 1 24
 0 36 3 2
+0 46 1 24
 1
 end_operator
 begin_operator
@@ -29234,8 +29234,8 @@ overcome laceration triumph bacon neptune mars
 1
 22 0
 2
-0 46 1 24
 0 36 1 3
+0 46 1 24
 1
 end_operator
 begin_operator
@@ -29243,8 +29243,8 @@ overcome laceration triumph beef mars jupiter
 1
 22 1
 2
-0 46 2 24
 0 36 0 1
+0 46 2 24
 1
 end_operator
 begin_operator
@@ -29252,8 +29252,8 @@ overcome laceration triumph beef mercury neptune
 1
 22 1
 2
-0 46 2 24
 0 36 3 2
+0 46 2 24
 1
 end_operator
 begin_operator
@@ -29261,8 +29261,8 @@ overcome laceration triumph beef neptune mars
 1
 22 1
 2
-0 46 2 24
 0 36 1 3
+0 46 2 24
 1
 end_operator
 begin_operator
@@ -29270,8 +29270,8 @@ overcome laceration triumph chicken mars jupiter
 1
 22 2
 2
-0 46 4 24
 0 36 0 1
+0 46 4 24
 1
 end_operator
 begin_operator
@@ -29279,8 +29279,8 @@ overcome laceration triumph chicken mercury neptune
 1
 22 2
 2
-0 46 4 24
 0 36 3 2
+0 46 4 24
 1
 end_operator
 begin_operator
@@ -29288,8 +29288,8 @@ overcome laceration triumph chicken neptune mars
 1
 22 2
 2
-0 46 4 24
 0 36 1 3
+0 46 4 24
 1
 end_operator
 begin_operator
@@ -29297,8 +29297,8 @@ overcome laceration triumph grapefruit mars jupiter
 1
 22 3
 2
-0 46 6 24
 0 36 0 1
+0 46 6 24
 1
 end_operator
 begin_operator
@@ -29306,8 +29306,8 @@ overcome laceration triumph grapefruit mercury neptune
 1
 22 3
 2
-0 46 6 24
 0 36 3 2
+0 46 6 24
 1
 end_operator
 begin_operator
@@ -29315,8 +29315,8 @@ overcome laceration triumph grapefruit neptune mars
 1
 22 3
 2
-0 46 6 24
 0 36 1 3
+0 46 6 24
 1
 end_operator
 begin_operator
@@ -29324,8 +29324,8 @@ overcome laceration triumph haroset mars jupiter
 1
 22 4
 2
-0 46 8 24
 0 36 0 1
+0 46 8 24
 1
 end_operator
 begin_operator
@@ -29333,8 +29333,8 @@ overcome laceration triumph haroset mercury neptune
 1
 22 4
 2
-0 46 8 24
 0 36 3 2
+0 46 8 24
 1
 end_operator
 begin_operator
@@ -29342,8 +29342,8 @@ overcome laceration triumph haroset neptune mars
 1
 22 4
 2
-0 46 8 24
 0 36 1 3
+0 46 8 24
 1
 end_operator
 begin_operator
@@ -29351,8 +29351,8 @@ overcome laceration triumph hotdog mars jupiter
 1
 22 5
 2
-0 46 9 24
 0 36 0 1
+0 46 9 24
 1
 end_operator
 begin_operator
@@ -29360,8 +29360,8 @@ overcome laceration triumph hotdog mercury neptune
 1
 22 5
 2
-0 46 9 24
 0 36 3 2
+0 46 9 24
 1
 end_operator
 begin_operator
@@ -29369,8 +29369,8 @@ overcome laceration triumph hotdog neptune mars
 1
 22 5
 2
-0 46 9 24
 0 36 1 3
+0 46 9 24
 1
 end_operator
 begin_operator
@@ -29378,8 +29378,8 @@ overcome laceration triumph lobster mars jupiter
 1
 22 6
 2
-0 46 11 24
 0 36 0 1
+0 46 11 24
 1
 end_operator
 begin_operator
@@ -29387,8 +29387,8 @@ overcome laceration triumph lobster mercury neptune
 1
 22 6
 2
-0 46 11 24
 0 36 3 2
+0 46 11 24
 1
 end_operator
 begin_operator
@@ -29396,8 +29396,8 @@ overcome laceration triumph lobster neptune mars
 1
 22 6
 2
-0 46 11 24
 0 36 1 3
+0 46 11 24
 1
 end_operator
 begin_operator
@@ -29405,8 +29405,8 @@ overcome laceration triumph wonderbread mars jupiter
 1
 22 7
 2
-0 46 18 24
 0 36 0 1
+0 46 18 24
 1
 end_operator
 begin_operator
@@ -29414,8 +29414,8 @@ overcome laceration triumph wonderbread mercury neptune
 1
 22 7
 2
-0 46 18 24
 0 36 3 2
+0 46 18 24
 1
 end_operator
 begin_operator
@@ -29423,8 +29423,8 @@ overcome laceration triumph wonderbread neptune mars
 1
 22 7
 2
-0 46 18 24
 0 36 1 3
+0 46 18 24
 1
 end_operator
 begin_operator
@@ -29432,8 +29432,8 @@ overcome laceration understanding apple mars jupiter
 1
 12 0
 2
-0 46 0 25
 0 45 0 1
+0 46 0 25
 1
 end_operator
 begin_operator
@@ -29441,8 +29441,8 @@ overcome laceration understanding apple mercury neptune
 1
 12 0
 2
-0 46 0 25
 0 45 3 2
+0 46 0 25
 1
 end_operator
 begin_operator
@@ -29450,8 +29450,8 @@ overcome laceration understanding apple neptune mars
 1
 12 0
 2
-0 46 0 25
 0 45 1 3
+0 46 0 25
 1
 end_operator
 begin_operator
@@ -29459,8 +29459,8 @@ overcome laceration understanding cherry mars jupiter
 1
 12 1
 2
-0 46 3 25
 0 45 0 1
+0 46 3 25
 1
 end_operator
 begin_operator
@@ -29468,8 +29468,8 @@ overcome laceration understanding cherry mercury neptune
 1
 12 1
 2
-0 46 3 25
 0 45 3 2
+0 46 3 25
 1
 end_operator
 begin_operator
@@ -29477,8 +29477,8 @@ overcome laceration understanding cherry neptune mars
 1
 12 1
 2
-0 46 3 25
 0 45 1 3
+0 46 3 25
 1
 end_operator
 begin_operator
@@ -29486,8 +29486,8 @@ overcome laceration understanding flounder mars jupiter
 1
 12 2
 2
-0 46 5 25
 0 45 0 1
+0 46 5 25
 1
 end_operator
 begin_operator
@@ -29495,8 +29495,8 @@ overcome laceration understanding flounder mercury neptune
 1
 12 2
 2
-0 46 5 25
 0 45 3 2
+0 46 5 25
 1
 end_operator
 begin_operator
@@ -29504,8 +29504,8 @@ overcome laceration understanding flounder neptune mars
 1
 12 2
 2
-0 46 5 25
 0 45 1 3
+0 46 5 25
 1
 end_operator
 begin_operator
@@ -29513,8 +29513,8 @@ overcome laceration understanding ham mars jupiter
 1
 12 3
 2
-0 46 7 25
 0 45 0 1
+0 46 7 25
 1
 end_operator
 begin_operator
@@ -29522,8 +29522,8 @@ overcome laceration understanding ham mercury neptune
 1
 12 3
 2
-0 46 7 25
 0 45 3 2
+0 46 7 25
 1
 end_operator
 begin_operator
@@ -29531,8 +29531,8 @@ overcome laceration understanding ham neptune mars
 1
 12 3
 2
-0 46 7 25
 0 45 1 3
+0 46 7 25
 1
 end_operator
 begin_operator
@@ -29540,8 +29540,8 @@ overcome laceration understanding hotdog mars jupiter
 1
 12 4
 2
-0 46 9 25
 0 45 0 1
+0 46 9 25
 1
 end_operator
 begin_operator
@@ -29549,8 +29549,8 @@ overcome laceration understanding hotdog mercury neptune
 1
 12 4
 2
-0 46 9 25
 0 45 3 2
+0 46 9 25
 1
 end_operator
 begin_operator
@@ -29558,8 +29558,8 @@ overcome laceration understanding hotdog neptune mars
 1
 12 4
 2
-0 46 9 25
 0 45 1 3
+0 46 9 25
 1
 end_operator
 begin_operator
@@ -29567,8 +29567,8 @@ overcome laceration understanding lamb mars jupiter
 1
 12 5
 2
-0 46 10 25
 0 45 0 1
+0 46 10 25
 1
 end_operator
 begin_operator
@@ -29576,8 +29576,8 @@ overcome laceration understanding lamb mercury neptune
 1
 12 5
 2
-0 46 10 25
 0 45 3 2
+0 46 10 25
 1
 end_operator
 begin_operator
@@ -29585,8 +29585,8 @@ overcome laceration understanding lamb neptune mars
 1
 12 5
 2
-0 46 10 25
 0 45 1 3
+0 46 10 25
 1
 end_operator
 begin_operator
@@ -29594,8 +29594,8 @@ overcome laceration understanding okra mars jupiter
 1
 12 6
 2
-0 46 12 25
 0 45 0 1
+0 46 12 25
 1
 end_operator
 begin_operator
@@ -29603,8 +29603,8 @@ overcome laceration understanding okra mercury neptune
 1
 12 6
 2
-0 46 12 25
 0 45 3 2
+0 46 12 25
 1
 end_operator
 begin_operator
@@ -29612,8 +29612,8 @@ overcome laceration understanding okra neptune mars
 1
 12 6
 2
-0 46 12 25
 0 45 1 3
+0 46 12 25
 1
 end_operator
 begin_operator
@@ -29621,8 +29621,8 @@ overcome laceration understanding onion mars jupiter
 1
 12 7
 2
-0 46 13 25
 0 45 0 1
+0 46 13 25
 1
 end_operator
 begin_operator
@@ -29630,8 +29630,8 @@ overcome laceration understanding onion mercury neptune
 1
 12 7
 2
-0 46 13 25
 0 45 3 2
+0 46 13 25
 1
 end_operator
 begin_operator
@@ -29639,8 +29639,8 @@ overcome laceration understanding onion neptune mars
 1
 12 7
 2
-0 46 13 25
 0 45 1 3
+0 46 13 25
 1
 end_operator
 begin_operator
@@ -29648,8 +29648,8 @@ overcome laceration understanding papaya mars jupiter
 1
 12 8
 2
-0 46 14 25
 0 45 0 1
+0 46 14 25
 1
 end_operator
 begin_operator
@@ -29657,8 +29657,8 @@ overcome laceration understanding papaya mercury neptune
 1
 12 8
 2
-0 46 14 25
 0 45 3 2
+0 46 14 25
 1
 end_operator
 begin_operator
@@ -29666,8 +29666,8 @@ overcome laceration understanding papaya neptune mars
 1
 12 8
 2
-0 46 14 25
 0 45 1 3
+0 46 14 25
 1
 end_operator
 begin_operator
@@ -29675,8 +29675,8 @@ overcome laceration understanding pistachio mars jupiter
 1
 12 9
 2
-0 46 15 25
 0 45 0 1
+0 46 15 25
 1
 end_operator
 begin_operator
@@ -29684,8 +29684,8 @@ overcome laceration understanding pistachio mercury neptune
 1
 12 9
 2
-0 46 15 25
 0 45 3 2
+0 46 15 25
 1
 end_operator
 begin_operator
@@ -29693,8 +29693,8 @@ overcome laceration understanding pistachio neptune mars
 1
 12 9
 2
-0 46 15 25
 0 45 1 3
+0 46 15 25
 1
 end_operator
 begin_operator
@@ -29702,8 +29702,8 @@ overcome laceration understanding scallop mars jupiter
 1
 12 10
 2
-0 46 16 25
 0 45 0 1
+0 46 16 25
 1
 end_operator
 begin_operator
@@ -29711,8 +29711,8 @@ overcome laceration understanding scallop mercury neptune
 1
 12 10
 2
-0 46 16 25
 0 45 3 2
+0 46 16 25
 1
 end_operator
 begin_operator
@@ -29720,8 +29720,8 @@ overcome laceration understanding scallop neptune mars
 1
 12 10
 2
-0 46 16 25
 0 45 1 3
+0 46 16 25
 1
 end_operator
 begin_operator
@@ -29729,8 +29729,8 @@ overcome laceration understanding sweetroll mars jupiter
 1
 12 11
 2
-0 46 17 25
 0 45 0 1
+0 46 17 25
 1
 end_operator
 begin_operator
@@ -29738,8 +29738,8 @@ overcome laceration understanding sweetroll mercury neptune
 1
 12 11
 2
-0 46 17 25
 0 45 3 2
+0 46 17 25
 1
 end_operator
 begin_operator
@@ -29747,8 +29747,8 @@ overcome laceration understanding sweetroll neptune mars
 1
 12 11
 2
-0 46 17 25
 0 45 1 3
+0 46 17 25
 1
 end_operator
 begin_operator
@@ -29756,8 +29756,8 @@ overcome loneliness curiosity bacon mars jupiter
 1
 19 0
 2
-0 39 1 19
 0 32 0 1
+0 39 1 19
 1
 end_operator
 begin_operator
@@ -29765,8 +29765,8 @@ overcome loneliness curiosity bacon mercury neptune
 1
 19 0
 2
-0 39 1 19
 0 32 3 2
+0 39 1 19
 1
 end_operator
 begin_operator
@@ -29774,8 +29774,8 @@ overcome loneliness curiosity bacon neptune mars
 1
 19 0
 2
-0 39 1 19
 0 32 1 3
+0 39 1 19
 1
 end_operator
 begin_operator
@@ -29783,8 +29783,8 @@ overcome loneliness curiosity beef mars jupiter
 1
 19 1
 2
-0 39 2 19
 0 32 0 1
+0 39 2 19
 1
 end_operator
 begin_operator
@@ -29792,8 +29792,8 @@ overcome loneliness curiosity beef mercury neptune
 1
 19 1
 2
-0 39 2 19
 0 32 3 2
+0 39 2 19
 1
 end_operator
 begin_operator
@@ -29801,8 +29801,8 @@ overcome loneliness curiosity beef neptune mars
 1
 19 1
 2
-0 39 2 19
 0 32 1 3
+0 39 2 19
 1
 end_operator
 begin_operator
@@ -29810,8 +29810,8 @@ overcome loneliness curiosity chicken mars jupiter
 1
 19 2
 2
-0 39 4 19
 0 32 0 1
+0 39 4 19
 1
 end_operator
 begin_operator
@@ -29819,8 +29819,8 @@ overcome loneliness curiosity chicken mercury neptune
 1
 19 2
 2
-0 39 4 19
 0 32 3 2
+0 39 4 19
 1
 end_operator
 begin_operator
@@ -29828,8 +29828,8 @@ overcome loneliness curiosity chicken neptune mars
 1
 19 2
 2
-0 39 4 19
 0 32 1 3
+0 39 4 19
 1
 end_operator
 begin_operator
@@ -29837,8 +29837,8 @@ overcome loneliness curiosity grapefruit mars jupiter
 1
 19 3
 2
-0 39 6 19
 0 32 0 1
+0 39 6 19
 1
 end_operator
 begin_operator
@@ -29846,8 +29846,8 @@ overcome loneliness curiosity grapefruit mercury neptune
 1
 19 3
 2
-0 39 6 19
 0 32 3 2
+0 39 6 19
 1
 end_operator
 begin_operator
@@ -29855,8 +29855,8 @@ overcome loneliness curiosity grapefruit neptune mars
 1
 19 3
 2
-0 39 6 19
 0 32 1 3
+0 39 6 19
 1
 end_operator
 begin_operator
@@ -29864,8 +29864,8 @@ overcome loneliness curiosity haroset mars jupiter
 1
 19 4
 2
-0 39 8 19
 0 32 0 1
+0 39 8 19
 1
 end_operator
 begin_operator
@@ -29873,8 +29873,8 @@ overcome loneliness curiosity haroset mercury neptune
 1
 19 4
 2
-0 39 8 19
 0 32 3 2
+0 39 8 19
 1
 end_operator
 begin_operator
@@ -29882,8 +29882,8 @@ overcome loneliness curiosity haroset neptune mars
 1
 19 4
 2
-0 39 8 19
 0 32 1 3
+0 39 8 19
 1
 end_operator
 begin_operator
@@ -29891,8 +29891,8 @@ overcome loneliness curiosity hotdog mars jupiter
 1
 19 5
 2
-0 39 9 19
 0 32 0 1
+0 39 9 19
 1
 end_operator
 begin_operator
@@ -29900,8 +29900,8 @@ overcome loneliness curiosity hotdog mercury neptune
 1
 19 5
 2
-0 39 9 19
 0 32 3 2
+0 39 9 19
 1
 end_operator
 begin_operator
@@ -29909,8 +29909,8 @@ overcome loneliness curiosity hotdog neptune mars
 1
 19 5
 2
-0 39 9 19
 0 32 1 3
+0 39 9 19
 1
 end_operator
 begin_operator
@@ -29918,8 +29918,8 @@ overcome loneliness curiosity lobster mars jupiter
 1
 19 6
 2
-0 39 11 19
 0 32 0 1
+0 39 11 19
 1
 end_operator
 begin_operator
@@ -29927,8 +29927,8 @@ overcome loneliness curiosity lobster mercury neptune
 1
 19 6
 2
-0 39 11 19
 0 32 3 2
+0 39 11 19
 1
 end_operator
 begin_operator
@@ -29936,8 +29936,8 @@ overcome loneliness curiosity lobster neptune mars
 1
 19 6
 2
-0 39 11 19
 0 32 1 3
+0 39 11 19
 1
 end_operator
 begin_operator
@@ -29945,8 +29945,8 @@ overcome loneliness curiosity wonderbread mars jupiter
 1
 19 7
 2
-0 39 18 19
 0 32 0 1
+0 39 18 19
 1
 end_operator
 begin_operator
@@ -29954,8 +29954,8 @@ overcome loneliness curiosity wonderbread mercury neptune
 1
 19 7
 2
-0 39 18 19
 0 32 3 2
+0 39 18 19
 1
 end_operator
 begin_operator
@@ -29963,8 +29963,8 @@ overcome loneliness curiosity wonderbread neptune mars
 1
 19 7
 2
-0 39 18 19
 0 32 1 3
+0 39 18 19
 1
 end_operator
 begin_operator
@@ -29972,8 +29972,8 @@ overcome loneliness empathy bacon mars jupiter
 1
 21 0
 2
-0 39 1 20
 0 33 0 1
+0 39 1 20
 1
 end_operator
 begin_operator
@@ -29981,8 +29981,8 @@ overcome loneliness empathy bacon mercury neptune
 1
 21 0
 2
-0 39 1 20
 0 33 3 2
+0 39 1 20
 1
 end_operator
 begin_operator
@@ -29990,8 +29990,8 @@ overcome loneliness empathy bacon neptune mars
 1
 21 0
 2
-0 39 1 20
 0 33 1 3
+0 39 1 20
 1
 end_operator
 begin_operator
@@ -29999,8 +29999,8 @@ overcome loneliness empathy beef mars jupiter
 1
 21 1
 2
-0 39 2 20
 0 33 0 1
+0 39 2 20
 1
 end_operator
 begin_operator
@@ -30008,8 +30008,8 @@ overcome loneliness empathy beef mercury neptune
 1
 21 1
 2
-0 39 2 20
 0 33 3 2
+0 39 2 20
 1
 end_operator
 begin_operator
@@ -30017,8 +30017,8 @@ overcome loneliness empathy beef neptune mars
 1
 21 1
 2
-0 39 2 20
 0 33 1 3
+0 39 2 20
 1
 end_operator
 begin_operator
@@ -30026,8 +30026,8 @@ overcome loneliness empathy chicken mars jupiter
 1
 21 2
 2
-0 39 4 20
 0 33 0 1
+0 39 4 20
 1
 end_operator
 begin_operator
@@ -30035,8 +30035,8 @@ overcome loneliness empathy chicken mercury neptune
 1
 21 2
 2
-0 39 4 20
 0 33 3 2
+0 39 4 20
 1
 end_operator
 begin_operator
@@ -30044,8 +30044,8 @@ overcome loneliness empathy chicken neptune mars
 1
 21 2
 2
-0 39 4 20
 0 33 1 3
+0 39 4 20
 1
 end_operator
 begin_operator
@@ -30053,8 +30053,8 @@ overcome loneliness empathy grapefruit mars jupiter
 1
 21 3
 2
-0 39 6 20
 0 33 0 1
+0 39 6 20
 1
 end_operator
 begin_operator
@@ -30062,8 +30062,8 @@ overcome loneliness empathy grapefruit mercury neptune
 1
 21 3
 2
-0 39 6 20
 0 33 3 2
+0 39 6 20
 1
 end_operator
 begin_operator
@@ -30071,8 +30071,8 @@ overcome loneliness empathy grapefruit neptune mars
 1
 21 3
 2
-0 39 6 20
 0 33 1 3
+0 39 6 20
 1
 end_operator
 begin_operator
@@ -30080,8 +30080,8 @@ overcome loneliness empathy haroset mars jupiter
 1
 21 4
 2
-0 39 8 20
 0 33 0 1
+0 39 8 20
 1
 end_operator
 begin_operator
@@ -30089,8 +30089,8 @@ overcome loneliness empathy haroset mercury neptune
 1
 21 4
 2
-0 39 8 20
 0 33 3 2
+0 39 8 20
 1
 end_operator
 begin_operator
@@ -30098,8 +30098,8 @@ overcome loneliness empathy haroset neptune mars
 1
 21 4
 2
-0 39 8 20
 0 33 1 3
+0 39 8 20
 1
 end_operator
 begin_operator
@@ -30107,8 +30107,8 @@ overcome loneliness empathy hotdog mars jupiter
 1
 21 5
 2
-0 39 9 20
 0 33 0 1
+0 39 9 20
 1
 end_operator
 begin_operator
@@ -30116,8 +30116,8 @@ overcome loneliness empathy hotdog mercury neptune
 1
 21 5
 2
-0 39 9 20
 0 33 3 2
+0 39 9 20
 1
 end_operator
 begin_operator
@@ -30125,8 +30125,8 @@ overcome loneliness empathy hotdog neptune mars
 1
 21 5
 2
-0 39 9 20
 0 33 1 3
+0 39 9 20
 1
 end_operator
 begin_operator
@@ -30134,8 +30134,8 @@ overcome loneliness empathy lobster mars jupiter
 1
 21 6
 2
-0 39 11 20
 0 33 0 1
+0 39 11 20
 1
 end_operator
 begin_operator
@@ -30143,8 +30143,8 @@ overcome loneliness empathy lobster mercury neptune
 1
 21 6
 2
-0 39 11 20
 0 33 3 2
+0 39 11 20
 1
 end_operator
 begin_operator
@@ -30152,8 +30152,8 @@ overcome loneliness empathy lobster neptune mars
 1
 21 6
 2
-0 39 11 20
 0 33 1 3
+0 39 11 20
 1
 end_operator
 begin_operator
@@ -30161,8 +30161,8 @@ overcome loneliness empathy wonderbread mars jupiter
 1
 21 7
 2
-0 39 18 20
 0 33 0 1
+0 39 18 20
 1
 end_operator
 begin_operator
@@ -30170,8 +30170,8 @@ overcome loneliness empathy wonderbread mercury neptune
 1
 21 7
 2
-0 39 18 20
 0 33 3 2
+0 39 18 20
 1
 end_operator
 begin_operator
@@ -30179,8 +30179,8 @@ overcome loneliness empathy wonderbread neptune mars
 1
 21 7
 2
-0 39 18 20
 0 33 1 3
+0 39 18 20
 1
 end_operator
 begin_operator
@@ -31160,8 +31160,8 @@ overcome loneliness triumph bacon mars jupiter
 1
 22 0
 2
-0 39 1 24
 0 36 0 1
+0 39 1 24
 1
 end_operator
 begin_operator
@@ -31169,8 +31169,8 @@ overcome loneliness triumph bacon mercury neptune
 1
 22 0
 2
-0 39 1 24
 0 36 3 2
+0 39 1 24
 1
 end_operator
 begin_operator
@@ -31178,8 +31178,8 @@ overcome loneliness triumph bacon neptune mars
 1
 22 0
 2
-0 39 1 24
 0 36 1 3
+0 39 1 24
 1
 end_operator
 begin_operator
@@ -31187,8 +31187,8 @@ overcome loneliness triumph beef mars jupiter
 1
 22 1
 2
-0 39 2 24
 0 36 0 1
+0 39 2 24
 1
 end_operator
 begin_operator
@@ -31196,8 +31196,8 @@ overcome loneliness triumph beef mercury neptune
 1
 22 1
 2
-0 39 2 24
 0 36 3 2
+0 39 2 24
 1
 end_operator
 begin_operator
@@ -31205,8 +31205,8 @@ overcome loneliness triumph beef neptune mars
 1
 22 1
 2
-0 39 2 24
 0 36 1 3
+0 39 2 24
 1
 end_operator
 begin_operator
@@ -31214,8 +31214,8 @@ overcome loneliness triumph chicken mars jupiter
 1
 22 2
 2
-0 39 4 24
 0 36 0 1
+0 39 4 24
 1
 end_operator
 begin_operator
@@ -31223,8 +31223,8 @@ overcome loneliness triumph chicken mercury neptune
 1
 22 2
 2
-0 39 4 24
 0 36 3 2
+0 39 4 24
 1
 end_operator
 begin_operator
@@ -31232,8 +31232,8 @@ overcome loneliness triumph chicken neptune mars
 1
 22 2
 2
-0 39 4 24
 0 36 1 3
+0 39 4 24
 1
 end_operator
 begin_operator
@@ -31241,8 +31241,8 @@ overcome loneliness triumph grapefruit mars jupiter
 1
 22 3
 2
-0 39 6 24
 0 36 0 1
+0 39 6 24
 1
 end_operator
 begin_operator
@@ -31250,8 +31250,8 @@ overcome loneliness triumph grapefruit mercury neptune
 1
 22 3
 2
-0 39 6 24
 0 36 3 2
+0 39 6 24
 1
 end_operator
 begin_operator
@@ -31259,8 +31259,8 @@ overcome loneliness triumph grapefruit neptune mars
 1
 22 3
 2
-0 39 6 24
 0 36 1 3
+0 39 6 24
 1
 end_operator
 begin_operator
@@ -31268,8 +31268,8 @@ overcome loneliness triumph haroset mars jupiter
 1
 22 4
 2
-0 39 8 24
 0 36 0 1
+0 39 8 24
 1
 end_operator
 begin_operator
@@ -31277,8 +31277,8 @@ overcome loneliness triumph haroset mercury neptune
 1
 22 4
 2
-0 39 8 24
 0 36 3 2
+0 39 8 24
 1
 end_operator
 begin_operator
@@ -31286,8 +31286,8 @@ overcome loneliness triumph haroset neptune mars
 1
 22 4
 2
-0 39 8 24
 0 36 1 3
+0 39 8 24
 1
 end_operator
 begin_operator
@@ -31295,8 +31295,8 @@ overcome loneliness triumph hotdog mars jupiter
 1
 22 5
 2
-0 39 9 24
 0 36 0 1
+0 39 9 24
 1
 end_operator
 begin_operator
@@ -31304,8 +31304,8 @@ overcome loneliness triumph hotdog mercury neptune
 1
 22 5
 2
-0 39 9 24
 0 36 3 2
+0 39 9 24
 1
 end_operator
 begin_operator
@@ -31313,8 +31313,8 @@ overcome loneliness triumph hotdog neptune mars
 1
 22 5
 2
-0 39 9 24
 0 36 1 3
+0 39 9 24
 1
 end_operator
 begin_operator
@@ -31322,8 +31322,8 @@ overcome loneliness triumph lobster mars jupiter
 1
 22 6
 2
-0 39 11 24
 0 36 0 1
+0 39 11 24
 1
 end_operator
 begin_operator
@@ -31331,8 +31331,8 @@ overcome loneliness triumph lobster mercury neptune
 1
 22 6
 2
-0 39 11 24
 0 36 3 2
+0 39 11 24
 1
 end_operator
 begin_operator
@@ -31340,8 +31340,8 @@ overcome loneliness triumph lobster neptune mars
 1
 22 6
 2
-0 39 11 24
 0 36 1 3
+0 39 11 24
 1
 end_operator
 begin_operator
@@ -31349,8 +31349,8 @@ overcome loneliness triumph wonderbread mars jupiter
 1
 22 7
 2
-0 39 18 24
 0 36 0 1
+0 39 18 24
 1
 end_operator
 begin_operator
@@ -31358,8 +31358,8 @@ overcome loneliness triumph wonderbread mercury neptune
 1
 22 7
 2
-0 39 18 24
 0 36 3 2
+0 39 18 24
 1
 end_operator
 begin_operator
@@ -31367,8 +31367,8 @@ overcome loneliness triumph wonderbread neptune mars
 1
 22 7
 2
-0 39 18 24
 0 36 1 3
+0 39 18 24
 1
 end_operator
 begin_operator
@@ -31700,8 +31700,8 @@ overcome prostatitis curiosity bacon mars jupiter
 1
 19 0
 2
-0 42 1 19
 0 32 0 1
+0 42 1 19
 1
 end_operator
 begin_operator
@@ -31709,8 +31709,8 @@ overcome prostatitis curiosity bacon mercury neptune
 1
 19 0
 2
-0 42 1 19
 0 32 3 2
+0 42 1 19
 1
 end_operator
 begin_operator
@@ -31718,8 +31718,8 @@ overcome prostatitis curiosity bacon neptune mars
 1
 19 0
 2
-0 42 1 19
 0 32 1 3
+0 42 1 19
 1
 end_operator
 begin_operator
@@ -31727,8 +31727,8 @@ overcome prostatitis curiosity beef mars jupiter
 1
 19 1
 2
-0 42 2 19
 0 32 0 1
+0 42 2 19
 1
 end_operator
 begin_operator
@@ -31736,8 +31736,8 @@ overcome prostatitis curiosity beef mercury neptune
 1
 19 1
 2
-0 42 2 19
 0 32 3 2
+0 42 2 19
 1
 end_operator
 begin_operator
@@ -31745,8 +31745,8 @@ overcome prostatitis curiosity beef neptune mars
 1
 19 1
 2
-0 42 2 19
 0 32 1 3
+0 42 2 19
 1
 end_operator
 begin_operator
@@ -31754,8 +31754,8 @@ overcome prostatitis curiosity chicken mars jupiter
 1
 19 2
 2
-0 42 4 19
 0 32 0 1
+0 42 4 19
 1
 end_operator
 begin_operator
@@ -31763,8 +31763,8 @@ overcome prostatitis curiosity chicken mercury neptune
 1
 19 2
 2
-0 42 4 19
 0 32 3 2
+0 42 4 19
 1
 end_operator
 begin_operator
@@ -31772,8 +31772,8 @@ overcome prostatitis curiosity chicken neptune mars
 1
 19 2
 2
-0 42 4 19
 0 32 1 3
+0 42 4 19
 1
 end_operator
 begin_operator
@@ -31781,8 +31781,8 @@ overcome prostatitis curiosity grapefruit mars jupiter
 1
 19 3
 2
-0 42 6 19
 0 32 0 1
+0 42 6 19
 1
 end_operator
 begin_operator
@@ -31790,8 +31790,8 @@ overcome prostatitis curiosity grapefruit mercury neptune
 1
 19 3
 2
-0 42 6 19
 0 32 3 2
+0 42 6 19
 1
 end_operator
 begin_operator
@@ -31799,8 +31799,8 @@ overcome prostatitis curiosity grapefruit neptune mars
 1
 19 3
 2
-0 42 6 19
 0 32 1 3
+0 42 6 19
 1
 end_operator
 begin_operator
@@ -31808,8 +31808,8 @@ overcome prostatitis curiosity haroset mars jupiter
 1
 19 4
 2
-0 42 8 19
 0 32 0 1
+0 42 8 19
 1
 end_operator
 begin_operator
@@ -31817,8 +31817,8 @@ overcome prostatitis curiosity haroset mercury neptune
 1
 19 4
 2
-0 42 8 19
 0 32 3 2
+0 42 8 19
 1
 end_operator
 begin_operator
@@ -31826,8 +31826,8 @@ overcome prostatitis curiosity haroset neptune mars
 1
 19 4
 2
-0 42 8 19
 0 32 1 3
+0 42 8 19
 1
 end_operator
 begin_operator
@@ -31835,8 +31835,8 @@ overcome prostatitis curiosity hotdog mars jupiter
 1
 19 5
 2
-0 42 9 19
 0 32 0 1
+0 42 9 19
 1
 end_operator
 begin_operator
@@ -31844,8 +31844,8 @@ overcome prostatitis curiosity hotdog mercury neptune
 1
 19 5
 2
-0 42 9 19
 0 32 3 2
+0 42 9 19
 1
 end_operator
 begin_operator
@@ -31853,8 +31853,8 @@ overcome prostatitis curiosity hotdog neptune mars
 1
 19 5
 2
-0 42 9 19
 0 32 1 3
+0 42 9 19
 1
 end_operator
 begin_operator
@@ -31862,8 +31862,8 @@ overcome prostatitis curiosity lobster mars jupiter
 1
 19 6
 2
-0 42 11 19
 0 32 0 1
+0 42 11 19
 1
 end_operator
 begin_operator
@@ -31871,8 +31871,8 @@ overcome prostatitis curiosity lobster mercury neptune
 1
 19 6
 2
-0 42 11 19
 0 32 3 2
+0 42 11 19
 1
 end_operator
 begin_operator
@@ -31880,8 +31880,8 @@ overcome prostatitis curiosity lobster neptune mars
 1
 19 6
 2
-0 42 11 19
 0 32 1 3
+0 42 11 19
 1
 end_operator
 begin_operator
@@ -31889,8 +31889,8 @@ overcome prostatitis curiosity wonderbread mars jupiter
 1
 19 7
 2
-0 42 18 19
 0 32 0 1
+0 42 18 19
 1
 end_operator
 begin_operator
@@ -31898,8 +31898,8 @@ overcome prostatitis curiosity wonderbread mercury neptune
 1
 19 7
 2
-0 42 18 19
 0 32 3 2
+0 42 18 19
 1
 end_operator
 begin_operator
@@ -31907,8 +31907,8 @@ overcome prostatitis curiosity wonderbread neptune mars
 1
 19 7
 2
-0 42 18 19
 0 32 1 3
+0 42 18 19
 1
 end_operator
 begin_operator
@@ -31916,8 +31916,8 @@ overcome prostatitis empathy bacon mars jupiter
 1
 21 0
 2
-0 42 1 20
 0 33 0 1
+0 42 1 20
 1
 end_operator
 begin_operator
@@ -31925,8 +31925,8 @@ overcome prostatitis empathy bacon mercury neptune
 1
 21 0
 2
-0 42 1 20
 0 33 3 2
+0 42 1 20
 1
 end_operator
 begin_operator
@@ -31934,8 +31934,8 @@ overcome prostatitis empathy bacon neptune mars
 1
 21 0
 2
-0 42 1 20
 0 33 1 3
+0 42 1 20
 1
 end_operator
 begin_operator
@@ -31943,8 +31943,8 @@ overcome prostatitis empathy beef mars jupiter
 1
 21 1
 2
-0 42 2 20
 0 33 0 1
+0 42 2 20
 1
 end_operator
 begin_operator
@@ -31952,8 +31952,8 @@ overcome prostatitis empathy beef mercury neptune
 1
 21 1
 2
-0 42 2 20
 0 33 3 2
+0 42 2 20
 1
 end_operator
 begin_operator
@@ -31961,8 +31961,8 @@ overcome prostatitis empathy beef neptune mars
 1
 21 1
 2
-0 42 2 20
 0 33 1 3
+0 42 2 20
 1
 end_operator
 begin_operator
@@ -31970,8 +31970,8 @@ overcome prostatitis empathy chicken mars jupiter
 1
 21 2
 2
-0 42 4 20
 0 33 0 1
+0 42 4 20
 1
 end_operator
 begin_operator
@@ -31979,8 +31979,8 @@ overcome prostatitis empathy chicken mercury neptune
 1
 21 2
 2
-0 42 4 20
 0 33 3 2
+0 42 4 20
 1
 end_operator
 begin_operator
@@ -31988,8 +31988,8 @@ overcome prostatitis empathy chicken neptune mars
 1
 21 2
 2
-0 42 4 20
 0 33 1 3
+0 42 4 20
 1
 end_operator
 begin_operator
@@ -31997,8 +31997,8 @@ overcome prostatitis empathy grapefruit mars jupiter
 1
 21 3
 2
-0 42 6 20
 0 33 0 1
+0 42 6 20
 1
 end_operator
 begin_operator
@@ -32006,8 +32006,8 @@ overcome prostatitis empathy grapefruit mercury neptune
 1
 21 3
 2
-0 42 6 20
 0 33 3 2
+0 42 6 20
 1
 end_operator
 begin_operator
@@ -32015,8 +32015,8 @@ overcome prostatitis empathy grapefruit neptune mars
 1
 21 3
 2
-0 42 6 20
 0 33 1 3
+0 42 6 20
 1
 end_operator
 begin_operator
@@ -32024,8 +32024,8 @@ overcome prostatitis empathy haroset mars jupiter
 1
 21 4
 2
-0 42 8 20
 0 33 0 1
+0 42 8 20
 1
 end_operator
 begin_operator
@@ -32033,8 +32033,8 @@ overcome prostatitis empathy haroset mercury neptune
 1
 21 4
 2
-0 42 8 20
 0 33 3 2
+0 42 8 20
 1
 end_operator
 begin_operator
@@ -32042,8 +32042,8 @@ overcome prostatitis empathy haroset neptune mars
 1
 21 4
 2
-0 42 8 20
 0 33 1 3
+0 42 8 20
 1
 end_operator
 begin_operator
@@ -32051,8 +32051,8 @@ overcome prostatitis empathy hotdog mars jupiter
 1
 21 5
 2
-0 42 9 20
 0 33 0 1
+0 42 9 20
 1
 end_operator
 begin_operator
@@ -32060,8 +32060,8 @@ overcome prostatitis empathy hotdog mercury neptune
 1
 21 5
 2
-0 42 9 20
 0 33 3 2
+0 42 9 20
 1
 end_operator
 begin_operator
@@ -32069,8 +32069,8 @@ overcome prostatitis empathy hotdog neptune mars
 1
 21 5
 2
-0 42 9 20
 0 33 1 3
+0 42 9 20
 1
 end_operator
 begin_operator
@@ -32078,8 +32078,8 @@ overcome prostatitis empathy lobster mars jupiter
 1
 21 6
 2
-0 42 11 20
 0 33 0 1
+0 42 11 20
 1
 end_operator
 begin_operator
@@ -32087,8 +32087,8 @@ overcome prostatitis empathy lobster mercury neptune
 1
 21 6
 2
-0 42 11 20
 0 33 3 2
+0 42 11 20
 1
 end_operator
 begin_operator
@@ -32096,8 +32096,8 @@ overcome prostatitis empathy lobster neptune mars
 1
 21 6
 2
-0 42 11 20
 0 33 1 3
+0 42 11 20
 1
 end_operator
 begin_operator
@@ -32105,8 +32105,8 @@ overcome prostatitis empathy wonderbread mars jupiter
 1
 21 7
 2
-0 42 18 20
 0 33 0 1
+0 42 18 20
 1
 end_operator
 begin_operator
@@ -32114,8 +32114,8 @@ overcome prostatitis empathy wonderbread mercury neptune
 1
 21 7
 2
-0 42 18 20
 0 33 3 2
+0 42 18 20
 1
 end_operator
 begin_operator
@@ -32123,8 +32123,8 @@ overcome prostatitis empathy wonderbread neptune mars
 1
 21 7
 2
-0 42 18 20
 0 33 1 3
+0 42 18 20
 1
 end_operator
 begin_operator
@@ -32132,8 +32132,8 @@ overcome prostatitis intoxication apple mars jupiter
 1
 7 0
 2
-0 42 0 21
 0 40 0 1
+0 42 0 21
 1
 end_operator
 begin_operator
@@ -32141,8 +32141,8 @@ overcome prostatitis intoxication apple mercury neptune
 1
 7 0
 2
-0 42 0 21
 0 40 3 2
+0 42 0 21
 1
 end_operator
 begin_operator
@@ -32150,8 +32150,8 @@ overcome prostatitis intoxication apple neptune mars
 1
 7 0
 2
-0 42 0 21
 0 40 1 3
+0 42 0 21
 1
 end_operator
 begin_operator
@@ -32159,8 +32159,8 @@ overcome prostatitis intoxication cherry mars jupiter
 1
 7 1
 2
-0 42 3 21
 0 40 0 1
+0 42 3 21
 1
 end_operator
 begin_operator
@@ -32168,8 +32168,8 @@ overcome prostatitis intoxication cherry mercury neptune
 1
 7 1
 2
-0 42 3 21
 0 40 3 2
+0 42 3 21
 1
 end_operator
 begin_operator
@@ -32177,8 +32177,8 @@ overcome prostatitis intoxication cherry neptune mars
 1
 7 1
 2
-0 42 3 21
 0 40 1 3
+0 42 3 21
 1
 end_operator
 begin_operator
@@ -32186,8 +32186,8 @@ overcome prostatitis intoxication flounder mars jupiter
 1
 7 2
 2
-0 42 5 21
 0 40 0 1
+0 42 5 21
 1
 end_operator
 begin_operator
@@ -32195,8 +32195,8 @@ overcome prostatitis intoxication flounder mercury neptune
 1
 7 2
 2
-0 42 5 21
 0 40 3 2
+0 42 5 21
 1
 end_operator
 begin_operator
@@ -32204,8 +32204,8 @@ overcome prostatitis intoxication flounder neptune mars
 1
 7 2
 2
-0 42 5 21
 0 40 1 3
+0 42 5 21
 1
 end_operator
 begin_operator
@@ -32213,8 +32213,8 @@ overcome prostatitis intoxication ham mars jupiter
 1
 7 3
 2
-0 42 7 21
 0 40 0 1
+0 42 7 21
 1
 end_operator
 begin_operator
@@ -32222,8 +32222,8 @@ overcome prostatitis intoxication ham mercury neptune
 1
 7 3
 2
-0 42 7 21
 0 40 3 2
+0 42 7 21
 1
 end_operator
 begin_operator
@@ -32231,8 +32231,8 @@ overcome prostatitis intoxication ham neptune mars
 1
 7 3
 2
-0 42 7 21
 0 40 1 3
+0 42 7 21
 1
 end_operator
 begin_operator
@@ -32240,8 +32240,8 @@ overcome prostatitis intoxication hotdog mars jupiter
 1
 7 4
 2
-0 42 9 21
 0 40 0 1
+0 42 9 21
 1
 end_operator
 begin_operator
@@ -32249,8 +32249,8 @@ overcome prostatitis intoxication hotdog mercury neptune
 1
 7 4
 2
-0 42 9 21
 0 40 3 2
+0 42 9 21
 1
 end_operator
 begin_operator
@@ -32258,8 +32258,8 @@ overcome prostatitis intoxication hotdog neptune mars
 1
 7 4
 2
-0 42 9 21
 0 40 1 3
+0 42 9 21
 1
 end_operator
 begin_operator
@@ -32267,8 +32267,8 @@ overcome prostatitis intoxication lamb mars jupiter
 1
 7 5
 2
-0 42 10 21
 0 40 0 1
+0 42 10 21
 1
 end_operator
 begin_operator
@@ -32276,8 +32276,8 @@ overcome prostatitis intoxication lamb mercury neptune
 1
 7 5
 2
-0 42 10 21
 0 40 3 2
+0 42 10 21
 1
 end_operator
 begin_operator
@@ -32285,8 +32285,8 @@ overcome prostatitis intoxication lamb neptune mars
 1
 7 5
 2
-0 42 10 21
 0 40 1 3
+0 42 10 21
 1
 end_operator
 begin_operator
@@ -32294,8 +32294,8 @@ overcome prostatitis intoxication okra mars jupiter
 1
 7 6
 2
-0 42 12 21
 0 40 0 1
+0 42 12 21
 1
 end_operator
 begin_operator
@@ -32303,8 +32303,8 @@ overcome prostatitis intoxication okra mercury neptune
 1
 7 6
 2
-0 42 12 21
 0 40 3 2
+0 42 12 21
 1
 end_operator
 begin_operator
@@ -32312,8 +32312,8 @@ overcome prostatitis intoxication okra neptune mars
 1
 7 6
 2
-0 42 12 21
 0 40 1 3
+0 42 12 21
 1
 end_operator
 begin_operator
@@ -32321,8 +32321,8 @@ overcome prostatitis intoxication onion mars jupiter
 1
 7 7
 2
-0 42 13 21
 0 40 0 1
+0 42 13 21
 1
 end_operator
 begin_operator
@@ -32330,8 +32330,8 @@ overcome prostatitis intoxication onion mercury neptune
 1
 7 7
 2
-0 42 13 21
 0 40 3 2
+0 42 13 21
 1
 end_operator
 begin_operator
@@ -32339,8 +32339,8 @@ overcome prostatitis intoxication onion neptune mars
 1
 7 7
 2
-0 42 13 21
 0 40 1 3
+0 42 13 21
 1
 end_operator
 begin_operator
@@ -32348,8 +32348,8 @@ overcome prostatitis intoxication papaya mars jupiter
 1
 7 8
 2
-0 42 14 21
 0 40 0 1
+0 42 14 21
 1
 end_operator
 begin_operator
@@ -32357,8 +32357,8 @@ overcome prostatitis intoxication papaya mercury neptune
 1
 7 8
 2
-0 42 14 21
 0 40 3 2
+0 42 14 21
 1
 end_operator
 begin_operator
@@ -32366,8 +32366,8 @@ overcome prostatitis intoxication papaya neptune mars
 1
 7 8
 2
-0 42 14 21
 0 40 1 3
+0 42 14 21
 1
 end_operator
 begin_operator
@@ -32375,8 +32375,8 @@ overcome prostatitis intoxication pistachio mars jupiter
 1
 7 9
 2
-0 42 15 21
 0 40 0 1
+0 42 15 21
 1
 end_operator
 begin_operator
@@ -32384,8 +32384,8 @@ overcome prostatitis intoxication pistachio mercury neptune
 1
 7 9
 2
-0 42 15 21
 0 40 3 2
+0 42 15 21
 1
 end_operator
 begin_operator
@@ -32393,8 +32393,8 @@ overcome prostatitis intoxication pistachio neptune mars
 1
 7 9
 2
-0 42 15 21
 0 40 1 3
+0 42 15 21
 1
 end_operator
 begin_operator
@@ -32402,8 +32402,8 @@ overcome prostatitis intoxication scallop mars jupiter
 1
 7 10
 2
-0 42 16 21
 0 40 0 1
+0 42 16 21
 1
 end_operator
 begin_operator
@@ -32411,8 +32411,8 @@ overcome prostatitis intoxication scallop mercury neptune
 1
 7 10
 2
-0 42 16 21
 0 40 3 2
+0 42 16 21
 1
 end_operator
 begin_operator
@@ -32420,8 +32420,8 @@ overcome prostatitis intoxication scallop neptune mars
 1
 7 10
 2
-0 42 16 21
 0 40 1 3
+0 42 16 21
 1
 end_operator
 begin_operator
@@ -32429,8 +32429,8 @@ overcome prostatitis intoxication sweetroll mars jupiter
 1
 7 11
 2
-0 42 17 21
 0 40 0 1
+0 42 17 21
 1
 end_operator
 begin_operator
@@ -32438,8 +32438,8 @@ overcome prostatitis intoxication sweetroll mercury neptune
 1
 7 11
 2
-0 42 17 21
 0 40 3 2
+0 42 17 21
 1
 end_operator
 begin_operator
@@ -32447,8 +32447,8 @@ overcome prostatitis intoxication sweetroll neptune mars
 1
 7 11
 2
-0 42 17 21
 0 40 1 3
+0 42 17 21
 1
 end_operator
 begin_operator
@@ -32456,8 +32456,8 @@ overcome prostatitis learning apple mars jupiter
 1
 9 0
 2
-0 42 0 22
 0 41 0 1
+0 42 0 22
 1
 end_operator
 begin_operator
@@ -32465,8 +32465,8 @@ overcome prostatitis learning apple mercury neptune
 1
 9 0
 2
-0 42 0 22
 0 41 3 2
+0 42 0 22
 1
 end_operator
 begin_operator
@@ -32474,8 +32474,8 @@ overcome prostatitis learning apple neptune mars
 1
 9 0
 2
-0 42 0 22
 0 41 1 3
+0 42 0 22
 1
 end_operator
 begin_operator
@@ -32483,8 +32483,8 @@ overcome prostatitis learning cherry mars jupiter
 1
 9 1
 2
-0 42 3 22
 0 41 0 1
+0 42 3 22
 1
 end_operator
 begin_operator
@@ -32492,8 +32492,8 @@ overcome prostatitis learning cherry mercury neptune
 1
 9 1
 2
-0 42 3 22
 0 41 3 2
+0 42 3 22
 1
 end_operator
 begin_operator
@@ -32501,8 +32501,8 @@ overcome prostatitis learning cherry neptune mars
 1
 9 1
 2
-0 42 3 22
 0 41 1 3
+0 42 3 22
 1
 end_operator
 begin_operator
@@ -32510,8 +32510,8 @@ overcome prostatitis learning flounder mars jupiter
 1
 9 2
 2
-0 42 5 22
 0 41 0 1
+0 42 5 22
 1
 end_operator
 begin_operator
@@ -32519,8 +32519,8 @@ overcome prostatitis learning flounder mercury neptune
 1
 9 2
 2
-0 42 5 22
 0 41 3 2
+0 42 5 22
 1
 end_operator
 begin_operator
@@ -32528,8 +32528,8 @@ overcome prostatitis learning flounder neptune mars
 1
 9 2
 2
-0 42 5 22
 0 41 1 3
+0 42 5 22
 1
 end_operator
 begin_operator
@@ -32537,8 +32537,8 @@ overcome prostatitis learning ham mars jupiter
 1
 9 3
 2
-0 42 7 22
 0 41 0 1
+0 42 7 22
 1
 end_operator
 begin_operator
@@ -32546,8 +32546,8 @@ overcome prostatitis learning ham mercury neptune
 1
 9 3
 2
-0 42 7 22
 0 41 3 2
+0 42 7 22
 1
 end_operator
 begin_operator
@@ -32555,8 +32555,8 @@ overcome prostatitis learning ham neptune mars
 1
 9 3
 2
-0 42 7 22
 0 41 1 3
+0 42 7 22
 1
 end_operator
 begin_operator
@@ -32564,8 +32564,8 @@ overcome prostatitis learning hotdog mars jupiter
 1
 9 4
 2
-0 42 9 22
 0 41 0 1
+0 42 9 22
 1
 end_operator
 begin_operator
@@ -32573,8 +32573,8 @@ overcome prostatitis learning hotdog mercury neptune
 1
 9 4
 2
-0 42 9 22
 0 41 3 2
+0 42 9 22
 1
 end_operator
 begin_operator
@@ -32582,8 +32582,8 @@ overcome prostatitis learning hotdog neptune mars
 1
 9 4
 2
-0 42 9 22
 0 41 1 3
+0 42 9 22
 1
 end_operator
 begin_operator
@@ -32591,8 +32591,8 @@ overcome prostatitis learning lamb mars jupiter
 1
 9 5
 2
-0 42 10 22
 0 41 0 1
+0 42 10 22
 1
 end_operator
 begin_operator
@@ -32600,8 +32600,8 @@ overcome prostatitis learning lamb mercury neptune
 1
 9 5
 2
-0 42 10 22
 0 41 3 2
+0 42 10 22
 1
 end_operator
 begin_operator
@@ -32609,8 +32609,8 @@ overcome prostatitis learning lamb neptune mars
 1
 9 5
 2
-0 42 10 22
 0 41 1 3
+0 42 10 22
 1
 end_operator
 begin_operator
@@ -32618,8 +32618,8 @@ overcome prostatitis learning okra mars jupiter
 1
 9 6
 2
-0 42 12 22
 0 41 0 1
+0 42 12 22
 1
 end_operator
 begin_operator
@@ -32627,8 +32627,8 @@ overcome prostatitis learning okra mercury neptune
 1
 9 6
 2
-0 42 12 22
 0 41 3 2
+0 42 12 22
 1
 end_operator
 begin_operator
@@ -32636,8 +32636,8 @@ overcome prostatitis learning okra neptune mars
 1
 9 6
 2
-0 42 12 22
 0 41 1 3
+0 42 12 22
 1
 end_operator
 begin_operator
@@ -32645,8 +32645,8 @@ overcome prostatitis learning onion mars jupiter
 1
 9 7
 2
-0 42 13 22
 0 41 0 1
+0 42 13 22
 1
 end_operator
 begin_operator
@@ -32654,8 +32654,8 @@ overcome prostatitis learning onion mercury neptune
 1
 9 7
 2
-0 42 13 22
 0 41 3 2
+0 42 13 22
 1
 end_operator
 begin_operator
@@ -32663,8 +32663,8 @@ overcome prostatitis learning onion neptune mars
 1
 9 7
 2
-0 42 13 22
 0 41 1 3
+0 42 13 22
 1
 end_operator
 begin_operator
@@ -32672,8 +32672,8 @@ overcome prostatitis learning papaya mars jupiter
 1
 9 8
 2
-0 42 14 22
 0 41 0 1
+0 42 14 22
 1
 end_operator
 begin_operator
@@ -32681,8 +32681,8 @@ overcome prostatitis learning papaya mercury neptune
 1
 9 8
 2
-0 42 14 22
 0 41 3 2
+0 42 14 22
 1
 end_operator
 begin_operator
@@ -32690,8 +32690,8 @@ overcome prostatitis learning papaya neptune mars
 1
 9 8
 2
-0 42 14 22
 0 41 1 3
+0 42 14 22
 1
 end_operator
 begin_operator
@@ -32699,8 +32699,8 @@ overcome prostatitis learning pistachio mars jupiter
 1
 9 9
 2
-0 42 15 22
 0 41 0 1
+0 42 15 22
 1
 end_operator
 begin_operator
@@ -32708,8 +32708,8 @@ overcome prostatitis learning pistachio mercury neptune
 1
 9 9
 2
-0 42 15 22
 0 41 3 2
+0 42 15 22
 1
 end_operator
 begin_operator
@@ -32717,8 +32717,8 @@ overcome prostatitis learning pistachio neptune mars
 1
 9 9
 2
-0 42 15 22
 0 41 1 3
+0 42 15 22
 1
 end_operator
 begin_operator
@@ -32726,8 +32726,8 @@ overcome prostatitis learning scallop mars jupiter
 1
 9 10
 2
-0 42 16 22
 0 41 0 1
+0 42 16 22
 1
 end_operator
 begin_operator
@@ -32735,8 +32735,8 @@ overcome prostatitis learning scallop mercury neptune
 1
 9 10
 2
-0 42 16 22
 0 41 3 2
+0 42 16 22
 1
 end_operator
 begin_operator
@@ -32744,8 +32744,8 @@ overcome prostatitis learning scallop neptune mars
 1
 9 10
 2
-0 42 16 22
 0 41 1 3
+0 42 16 22
 1
 end_operator
 begin_operator
@@ -32753,8 +32753,8 @@ overcome prostatitis learning sweetroll mars jupiter
 1
 9 11
 2
-0 42 17 22
 0 41 0 1
+0 42 17 22
 1
 end_operator
 begin_operator
@@ -32762,8 +32762,8 @@ overcome prostatitis learning sweetroll mercury neptune
 1
 9 11
 2
-0 42 17 22
 0 41 3 2
+0 42 17 22
 1
 end_operator
 begin_operator
@@ -32771,8 +32771,8 @@ overcome prostatitis learning sweetroll neptune mars
 1
 9 11
 2
-0 42 17 22
 0 41 1 3
+0 42 17 22
 1
 end_operator
 begin_operator
@@ -33104,8 +33104,8 @@ overcome prostatitis triumph bacon mars jupiter
 1
 22 0
 2
-0 42 1 24
 0 36 0 1
+0 42 1 24
 1
 end_operator
 begin_operator
@@ -33113,8 +33113,8 @@ overcome prostatitis triumph bacon mercury neptune
 1
 22 0
 2
-0 42 1 24
 0 36 3 2
+0 42 1 24
 1
 end_operator
 begin_operator
@@ -33122,8 +33122,8 @@ overcome prostatitis triumph bacon neptune mars
 1
 22 0
 2
-0 42 1 24
 0 36 1 3
+0 42 1 24
 1
 end_operator
 begin_operator
@@ -33131,8 +33131,8 @@ overcome prostatitis triumph beef mars jupiter
 1
 22 1
 2
-0 42 2 24
 0 36 0 1
+0 42 2 24
 1
 end_operator
 begin_operator
@@ -33140,8 +33140,8 @@ overcome prostatitis triumph beef mercury neptune
 1
 22 1
 2
-0 42 2 24
 0 36 3 2
+0 42 2 24
 1
 end_operator
 begin_operator
@@ -33149,8 +33149,8 @@ overcome prostatitis triumph beef neptune mars
 1
 22 1
 2
-0 42 2 24
 0 36 1 3
+0 42 2 24
 1
 end_operator
 begin_operator
@@ -33158,8 +33158,8 @@ overcome prostatitis triumph chicken mars jupiter
 1
 22 2
 2
-0 42 4 24
 0 36 0 1
+0 42 4 24
 1
 end_operator
 begin_operator
@@ -33167,8 +33167,8 @@ overcome prostatitis triumph chicken mercury neptune
 1
 22 2
 2
-0 42 4 24
 0 36 3 2
+0 42 4 24
 1
 end_operator
 begin_operator
@@ -33176,8 +33176,8 @@ overcome prostatitis triumph chicken neptune mars
 1
 22 2
 2
-0 42 4 24
 0 36 1 3
+0 42 4 24
 1
 end_operator
 begin_operator
@@ -33185,8 +33185,8 @@ overcome prostatitis triumph grapefruit mars jupiter
 1
 22 3
 2
-0 42 6 24
 0 36 0 1
+0 42 6 24
 1
 end_operator
 begin_operator
@@ -33194,8 +33194,8 @@ overcome prostatitis triumph grapefruit mercury neptune
 1
 22 3
 2
-0 42 6 24
 0 36 3 2
+0 42 6 24
 1
 end_operator
 begin_operator
@@ -33203,8 +33203,8 @@ overcome prostatitis triumph grapefruit neptune mars
 1
 22 3
 2
-0 42 6 24
 0 36 1 3
+0 42 6 24
 1
 end_operator
 begin_operator
@@ -33212,8 +33212,8 @@ overcome prostatitis triumph haroset mars jupiter
 1
 22 4
 2
-0 42 8 24
 0 36 0 1
+0 42 8 24
 1
 end_operator
 begin_operator
@@ -33221,8 +33221,8 @@ overcome prostatitis triumph haroset mercury neptune
 1
 22 4
 2
-0 42 8 24
 0 36 3 2
+0 42 8 24
 1
 end_operator
 begin_operator
@@ -33230,8 +33230,8 @@ overcome prostatitis triumph haroset neptune mars
 1
 22 4
 2
-0 42 8 24
 0 36 1 3
+0 42 8 24
 1
 end_operator
 begin_operator
@@ -33239,8 +33239,8 @@ overcome prostatitis triumph hotdog mars jupiter
 1
 22 5
 2
-0 42 9 24
 0 36 0 1
+0 42 9 24
 1
 end_operator
 begin_operator
@@ -33248,8 +33248,8 @@ overcome prostatitis triumph hotdog mercury neptune
 1
 22 5
 2
-0 42 9 24
 0 36 3 2
+0 42 9 24
 1
 end_operator
 begin_operator
@@ -33257,8 +33257,8 @@ overcome prostatitis triumph hotdog neptune mars
 1
 22 5
 2
-0 42 9 24
 0 36 1 3
+0 42 9 24
 1
 end_operator
 begin_operator
@@ -33266,8 +33266,8 @@ overcome prostatitis triumph lobster mars jupiter
 1
 22 6
 2
-0 42 11 24
 0 36 0 1
+0 42 11 24
 1
 end_operator
 begin_operator
@@ -33275,8 +33275,8 @@ overcome prostatitis triumph lobster mercury neptune
 1
 22 6
 2
-0 42 11 24
 0 36 3 2
+0 42 11 24
 1
 end_operator
 begin_operator
@@ -33284,8 +33284,8 @@ overcome prostatitis triumph lobster neptune mars
 1
 22 6
 2
-0 42 11 24
 0 36 1 3
+0 42 11 24
 1
 end_operator
 begin_operator
@@ -33293,8 +33293,8 @@ overcome prostatitis triumph wonderbread mars jupiter
 1
 22 7
 2
-0 42 18 24
 0 36 0 1
+0 42 18 24
 1
 end_operator
 begin_operator
@@ -33302,8 +33302,8 @@ overcome prostatitis triumph wonderbread mercury neptune
 1
 22 7
 2
-0 42 18 24
 0 36 3 2
+0 42 18 24
 1
 end_operator
 begin_operator
@@ -33311,8 +33311,8 @@ overcome prostatitis triumph wonderbread neptune mars
 1
 22 7
 2
-0 42 18 24
 0 36 1 3
+0 42 18 24
 1
 end_operator
 begin_operator
@@ -33644,8 +33644,8 @@ overcome sciatica curiosity bacon mars jupiter
 1
 19 0
 2
-0 43 1 19
 0 32 0 1
+0 43 1 19
 1
 end_operator
 begin_operator
@@ -33653,8 +33653,8 @@ overcome sciatica curiosity bacon mercury neptune
 1
 19 0
 2
-0 43 1 19
 0 32 3 2
+0 43 1 19
 1
 end_operator
 begin_operator
@@ -33662,8 +33662,8 @@ overcome sciatica curiosity bacon neptune mars
 1
 19 0
 2
-0 43 1 19
 0 32 1 3
+0 43 1 19
 1
 end_operator
 begin_operator
@@ -33671,8 +33671,8 @@ overcome sciatica curiosity beef mars jupiter
 1
 19 1
 2
-0 43 2 19
 0 32 0 1
+0 43 2 19
 1
 end_operator
 begin_operator
@@ -33680,8 +33680,8 @@ overcome sciatica curiosity beef mercury neptune
 1
 19 1
 2
-0 43 2 19
 0 32 3 2
+0 43 2 19
 1
 end_operator
 begin_operator
@@ -33689,8 +33689,8 @@ overcome sciatica curiosity beef neptune mars
 1
 19 1
 2
-0 43 2 19
 0 32 1 3
+0 43 2 19
 1
 end_operator
 begin_operator
@@ -33698,8 +33698,8 @@ overcome sciatica curiosity chicken mars jupiter
 1
 19 2
 2
-0 43 4 19
 0 32 0 1
+0 43 4 19
 1
 end_operator
 begin_operator
@@ -33707,8 +33707,8 @@ overcome sciatica curiosity chicken mercury neptune
 1
 19 2
 2
-0 43 4 19
 0 32 3 2
+0 43 4 19
 1
 end_operator
 begin_operator
@@ -33716,8 +33716,8 @@ overcome sciatica curiosity chicken neptune mars
 1
 19 2
 2
-0 43 4 19
 0 32 1 3
+0 43 4 19
 1
 end_operator
 begin_operator
@@ -33725,8 +33725,8 @@ overcome sciatica curiosity grapefruit mars jupiter
 1
 19 3
 2
-0 43 6 19
 0 32 0 1
+0 43 6 19
 1
 end_operator
 begin_operator
@@ -33734,8 +33734,8 @@ overcome sciatica curiosity grapefruit mercury neptune
 1
 19 3
 2
-0 43 6 19
 0 32 3 2
+0 43 6 19
 1
 end_operator
 begin_operator
@@ -33743,8 +33743,8 @@ overcome sciatica curiosity grapefruit neptune mars
 1
 19 3
 2
-0 43 6 19
 0 32 1 3
+0 43 6 19
 1
 end_operator
 begin_operator
@@ -33752,8 +33752,8 @@ overcome sciatica curiosity haroset mars jupiter
 1
 19 4
 2
-0 43 8 19
 0 32 0 1
+0 43 8 19
 1
 end_operator
 begin_operator
@@ -33761,8 +33761,8 @@ overcome sciatica curiosity haroset mercury neptune
 1
 19 4
 2
-0 43 8 19
 0 32 3 2
+0 43 8 19
 1
 end_operator
 begin_operator
@@ -33770,8 +33770,8 @@ overcome sciatica curiosity haroset neptune mars
 1
 19 4
 2
-0 43 8 19
 0 32 1 3
+0 43 8 19
 1
 end_operator
 begin_operator
@@ -33779,8 +33779,8 @@ overcome sciatica curiosity hotdog mars jupiter
 1
 19 5
 2
-0 43 9 19
 0 32 0 1
+0 43 9 19
 1
 end_operator
 begin_operator
@@ -33788,8 +33788,8 @@ overcome sciatica curiosity hotdog mercury neptune
 1
 19 5
 2
-0 43 9 19
 0 32 3 2
+0 43 9 19
 1
 end_operator
 begin_operator
@@ -33797,8 +33797,8 @@ overcome sciatica curiosity hotdog neptune mars
 1
 19 5
 2
-0 43 9 19
 0 32 1 3
+0 43 9 19
 1
 end_operator
 begin_operator
@@ -33806,8 +33806,8 @@ overcome sciatica curiosity lobster mars jupiter
 1
 19 6
 2
-0 43 11 19
 0 32 0 1
+0 43 11 19
 1
 end_operator
 begin_operator
@@ -33815,8 +33815,8 @@ overcome sciatica curiosity lobster mercury neptune
 1
 19 6
 2
-0 43 11 19
 0 32 3 2
+0 43 11 19
 1
 end_operator
 begin_operator
@@ -33824,8 +33824,8 @@ overcome sciatica curiosity lobster neptune mars
 1
 19 6
 2
-0 43 11 19
 0 32 1 3
+0 43 11 19
 1
 end_operator
 begin_operator
@@ -33833,8 +33833,8 @@ overcome sciatica curiosity wonderbread mars jupiter
 1
 19 7
 2
-0 43 18 19
 0 32 0 1
+0 43 18 19
 1
 end_operator
 begin_operator
@@ -33842,8 +33842,8 @@ overcome sciatica curiosity wonderbread mercury neptune
 1
 19 7
 2
-0 43 18 19
 0 32 3 2
+0 43 18 19
 1
 end_operator
 begin_operator
@@ -33851,8 +33851,8 @@ overcome sciatica curiosity wonderbread neptune mars
 1
 19 7
 2
-0 43 18 19
 0 32 1 3
+0 43 18 19
 1
 end_operator
 begin_operator
@@ -33860,8 +33860,8 @@ overcome sciatica empathy bacon mars jupiter
 1
 21 0
 2
-0 43 1 20
 0 33 0 1
+0 43 1 20
 1
 end_operator
 begin_operator
@@ -33869,8 +33869,8 @@ overcome sciatica empathy bacon mercury neptune
 1
 21 0
 2
-0 43 1 20
 0 33 3 2
+0 43 1 20
 1
 end_operator
 begin_operator
@@ -33878,8 +33878,8 @@ overcome sciatica empathy bacon neptune mars
 1
 21 0
 2
-0 43 1 20
 0 33 1 3
+0 43 1 20
 1
 end_operator
 begin_operator
@@ -33887,8 +33887,8 @@ overcome sciatica empathy beef mars jupiter
 1
 21 1
 2
-0 43 2 20
 0 33 0 1
+0 43 2 20
 1
 end_operator
 begin_operator
@@ -33896,8 +33896,8 @@ overcome sciatica empathy beef mercury neptune
 1
 21 1
 2
-0 43 2 20
 0 33 3 2
+0 43 2 20
 1
 end_operator
 begin_operator
@@ -33905,8 +33905,8 @@ overcome sciatica empathy beef neptune mars
 1
 21 1
 2
-0 43 2 20
 0 33 1 3
+0 43 2 20
 1
 end_operator
 begin_operator
@@ -33914,8 +33914,8 @@ overcome sciatica empathy chicken mars jupiter
 1
 21 2
 2
-0 43 4 20
 0 33 0 1
+0 43 4 20
 1
 end_operator
 begin_operator
@@ -33923,8 +33923,8 @@ overcome sciatica empathy chicken mercury neptune
 1
 21 2
 2
-0 43 4 20
 0 33 3 2
+0 43 4 20
 1
 end_operator
 begin_operator
@@ -33932,8 +33932,8 @@ overcome sciatica empathy chicken neptune mars
 1
 21 2
 2
-0 43 4 20
 0 33 1 3
+0 43 4 20
 1
 end_operator
 begin_operator
@@ -33941,8 +33941,8 @@ overcome sciatica empathy grapefruit mars jupiter
 1
 21 3
 2
-0 43 6 20
 0 33 0 1
+0 43 6 20
 1
 end_operator
 begin_operator
@@ -33950,8 +33950,8 @@ overcome sciatica empathy grapefruit mercury neptune
 1
 21 3
 2
-0 43 6 20
 0 33 3 2
+0 43 6 20
 1
 end_operator
 begin_operator
@@ -33959,8 +33959,8 @@ overcome sciatica empathy grapefruit neptune mars
 1
 21 3
 2
-0 43 6 20
 0 33 1 3
+0 43 6 20
 1
 end_operator
 begin_operator
@@ -33968,8 +33968,8 @@ overcome sciatica empathy haroset mars jupiter
 1
 21 4
 2
-0 43 8 20
 0 33 0 1
+0 43 8 20
 1
 end_operator
 begin_operator
@@ -33977,8 +33977,8 @@ overcome sciatica empathy haroset mercury neptune
 1
 21 4
 2
-0 43 8 20
 0 33 3 2
+0 43 8 20
 1
 end_operator
 begin_operator
@@ -33986,8 +33986,8 @@ overcome sciatica empathy haroset neptune mars
 1
 21 4
 2
-0 43 8 20
 0 33 1 3
+0 43 8 20
 1
 end_operator
 begin_operator
@@ -33995,8 +33995,8 @@ overcome sciatica empathy hotdog mars jupiter
 1
 21 5
 2
-0 43 9 20
 0 33 0 1
+0 43 9 20
 1
 end_operator
 begin_operator
@@ -34004,8 +34004,8 @@ overcome sciatica empathy hotdog mercury neptune
 1
 21 5
 2
-0 43 9 20
 0 33 3 2
+0 43 9 20
 1
 end_operator
 begin_operator
@@ -34013,8 +34013,8 @@ overcome sciatica empathy hotdog neptune mars
 1
 21 5
 2
-0 43 9 20
 0 33 1 3
+0 43 9 20
 1
 end_operator
 begin_operator
@@ -34022,8 +34022,8 @@ overcome sciatica empathy lobster mars jupiter
 1
 21 6
 2
-0 43 11 20
 0 33 0 1
+0 43 11 20
 1
 end_operator
 begin_operator
@@ -34031,8 +34031,8 @@ overcome sciatica empathy lobster mercury neptune
 1
 21 6
 2
-0 43 11 20
 0 33 3 2
+0 43 11 20
 1
 end_operator
 begin_operator
@@ -34040,8 +34040,8 @@ overcome sciatica empathy lobster neptune mars
 1
 21 6
 2
-0 43 11 20
 0 33 1 3
+0 43 11 20
 1
 end_operator
 begin_operator
@@ -34049,8 +34049,8 @@ overcome sciatica empathy wonderbread mars jupiter
 1
 21 7
 2
-0 43 18 20
 0 33 0 1
+0 43 18 20
 1
 end_operator
 begin_operator
@@ -34058,8 +34058,8 @@ overcome sciatica empathy wonderbread mercury neptune
 1
 21 7
 2
-0 43 18 20
 0 33 3 2
+0 43 18 20
 1
 end_operator
 begin_operator
@@ -34067,8 +34067,8 @@ overcome sciatica empathy wonderbread neptune mars
 1
 21 7
 2
-0 43 18 20
 0 33 1 3
+0 43 18 20
 1
 end_operator
 begin_operator
@@ -34076,8 +34076,8 @@ overcome sciatica intoxication apple mars jupiter
 1
 7 0
 2
-0 43 0 21
 0 40 0 1
+0 43 0 21
 1
 end_operator
 begin_operator
@@ -34085,8 +34085,8 @@ overcome sciatica intoxication apple mercury neptune
 1
 7 0
 2
-0 43 0 21
 0 40 3 2
+0 43 0 21
 1
 end_operator
 begin_operator
@@ -34094,8 +34094,8 @@ overcome sciatica intoxication apple neptune mars
 1
 7 0
 2
-0 43 0 21
 0 40 1 3
+0 43 0 21
 1
 end_operator
 begin_operator
@@ -34103,8 +34103,8 @@ overcome sciatica intoxication cherry mars jupiter
 1
 7 1
 2
-0 43 3 21
 0 40 0 1
+0 43 3 21
 1
 end_operator
 begin_operator
@@ -34112,8 +34112,8 @@ overcome sciatica intoxication cherry mercury neptune
 1
 7 1
 2
-0 43 3 21
 0 40 3 2
+0 43 3 21
 1
 end_operator
 begin_operator
@@ -34121,8 +34121,8 @@ overcome sciatica intoxication cherry neptune mars
 1
 7 1
 2
-0 43 3 21
 0 40 1 3
+0 43 3 21
 1
 end_operator
 begin_operator
@@ -34130,8 +34130,8 @@ overcome sciatica intoxication flounder mars jupiter
 1
 7 2
 2
-0 43 5 21
 0 40 0 1
+0 43 5 21
 1
 end_operator
 begin_operator
@@ -34139,8 +34139,8 @@ overcome sciatica intoxication flounder mercury neptune
 1
 7 2
 2
-0 43 5 21
 0 40 3 2
+0 43 5 21
 1
 end_operator
 begin_operator
@@ -34148,8 +34148,8 @@ overcome sciatica intoxication flounder neptune mars
 1
 7 2
 2
-0 43 5 21
 0 40 1 3
+0 43 5 21
 1
 end_operator
 begin_operator
@@ -34157,8 +34157,8 @@ overcome sciatica intoxication ham mars jupiter
 1
 7 3
 2
-0 43 7 21
 0 40 0 1
+0 43 7 21
 1
 end_operator
 begin_operator
@@ -34166,8 +34166,8 @@ overcome sciatica intoxication ham mercury neptune
 1
 7 3
 2
-0 43 7 21
 0 40 3 2
+0 43 7 21
 1
 end_operator
 begin_operator
@@ -34175,8 +34175,8 @@ overcome sciatica intoxication ham neptune mars
 1
 7 3
 2
-0 43 7 21
 0 40 1 3
+0 43 7 21
 1
 end_operator
 begin_operator
@@ -34184,8 +34184,8 @@ overcome sciatica intoxication hotdog mars jupiter
 1
 7 4
 2
-0 43 9 21
 0 40 0 1
+0 43 9 21
 1
 end_operator
 begin_operator
@@ -34193,8 +34193,8 @@ overcome sciatica intoxication hotdog mercury neptune
 1
 7 4
 2
-0 43 9 21
 0 40 3 2
+0 43 9 21
 1
 end_operator
 begin_operator
@@ -34202,8 +34202,8 @@ overcome sciatica intoxication hotdog neptune mars
 1
 7 4
 2
-0 43 9 21
 0 40 1 3
+0 43 9 21
 1
 end_operator
 begin_operator
@@ -34211,8 +34211,8 @@ overcome sciatica intoxication lamb mars jupiter
 1
 7 5
 2
-0 43 10 21
 0 40 0 1
+0 43 10 21
 1
 end_operator
 begin_operator
@@ -34220,8 +34220,8 @@ overcome sciatica intoxication lamb mercury neptune
 1
 7 5
 2
-0 43 10 21
 0 40 3 2
+0 43 10 21
 1
 end_operator
 begin_operator
@@ -34229,8 +34229,8 @@ overcome sciatica intoxication lamb neptune mars
 1
 7 5
 2
-0 43 10 21
 0 40 1 3
+0 43 10 21
 1
 end_operator
 begin_operator
@@ -34238,8 +34238,8 @@ overcome sciatica intoxication okra mars jupiter
 1
 7 6
 2
-0 43 12 21
 0 40 0 1
+0 43 12 21
 1
 end_operator
 begin_operator
@@ -34247,8 +34247,8 @@ overcome sciatica intoxication okra mercury neptune
 1
 7 6
 2
-0 43 12 21
 0 40 3 2
+0 43 12 21
 1
 end_operator
 begin_operator
@@ -34256,8 +34256,8 @@ overcome sciatica intoxication okra neptune mars
 1
 7 6
 2
-0 43 12 21
 0 40 1 3
+0 43 12 21
 1
 end_operator
 begin_operator
@@ -34265,8 +34265,8 @@ overcome sciatica intoxication onion mars jupiter
 1
 7 7
 2
-0 43 13 21
 0 40 0 1
+0 43 13 21
 1
 end_operator
 begin_operator
@@ -34274,8 +34274,8 @@ overcome sciatica intoxication onion mercury neptune
 1
 7 7
 2
-0 43 13 21
 0 40 3 2
+0 43 13 21
 1
 end_operator
 begin_operator
@@ -34283,8 +34283,8 @@ overcome sciatica intoxication onion neptune mars
 1
 7 7
 2
-0 43 13 21
 0 40 1 3
+0 43 13 21
 1
 end_operator
 begin_operator
@@ -34292,8 +34292,8 @@ overcome sciatica intoxication papaya mars jupiter
 1
 7 8
 2
-0 43 14 21
 0 40 0 1
+0 43 14 21
 1
 end_operator
 begin_operator
@@ -34301,8 +34301,8 @@ overcome sciatica intoxication papaya mercury neptune
 1
 7 8
 2
-0 43 14 21
 0 40 3 2
+0 43 14 21
 1
 end_operator
 begin_operator
@@ -34310,8 +34310,8 @@ overcome sciatica intoxication papaya neptune mars
 1
 7 8
 2
-0 43 14 21
 0 40 1 3
+0 43 14 21
 1
 end_operator
 begin_operator
@@ -34319,8 +34319,8 @@ overcome sciatica intoxication pistachio mars jupiter
 1
 7 9
 2
-0 43 15 21
 0 40 0 1
+0 43 15 21
 1
 end_operator
 begin_operator
@@ -34328,8 +34328,8 @@ overcome sciatica intoxication pistachio mercury neptune
 1
 7 9
 2
-0 43 15 21
 0 40 3 2
+0 43 15 21
 1
 end_operator
 begin_operator
@@ -34337,8 +34337,8 @@ overcome sciatica intoxication pistachio neptune mars
 1
 7 9
 2
-0 43 15 21
 0 40 1 3
+0 43 15 21
 1
 end_operator
 begin_operator
@@ -34346,8 +34346,8 @@ overcome sciatica intoxication scallop mars jupiter
 1
 7 10
 2
-0 43 16 21
 0 40 0 1
+0 43 16 21
 1
 end_operator
 begin_operator
@@ -34355,8 +34355,8 @@ overcome sciatica intoxication scallop mercury neptune
 1
 7 10
 2
-0 43 16 21
 0 40 3 2
+0 43 16 21
 1
 end_operator
 begin_operator
@@ -34364,8 +34364,8 @@ overcome sciatica intoxication scallop neptune mars
 1
 7 10
 2
-0 43 16 21
 0 40 1 3
+0 43 16 21
 1
 end_operator
 begin_operator
@@ -34373,8 +34373,8 @@ overcome sciatica intoxication sweetroll mars jupiter
 1
 7 11
 2
-0 43 17 21
 0 40 0 1
+0 43 17 21
 1
 end_operator
 begin_operator
@@ -34382,8 +34382,8 @@ overcome sciatica intoxication sweetroll mercury neptune
 1
 7 11
 2
-0 43 17 21
 0 40 3 2
+0 43 17 21
 1
 end_operator
 begin_operator
@@ -34391,8 +34391,8 @@ overcome sciatica intoxication sweetroll neptune mars
 1
 7 11
 2
-0 43 17 21
 0 40 1 3
+0 43 17 21
 1
 end_operator
 begin_operator
@@ -34400,8 +34400,8 @@ overcome sciatica learning apple mars jupiter
 1
 9 0
 2
-0 43 0 22
 0 41 0 1
+0 43 0 22
 1
 end_operator
 begin_operator
@@ -34409,8 +34409,8 @@ overcome sciatica learning apple mercury neptune
 1
 9 0
 2
-0 43 0 22
 0 41 3 2
+0 43 0 22
 1
 end_operator
 begin_operator
@@ -34418,8 +34418,8 @@ overcome sciatica learning apple neptune mars
 1
 9 0
 2
-0 43 0 22
 0 41 1 3
+0 43 0 22
 1
 end_operator
 begin_operator
@@ -34427,8 +34427,8 @@ overcome sciatica learning cherry mars jupiter
 1
 9 1
 2
-0 43 3 22
 0 41 0 1
+0 43 3 22
 1
 end_operator
 begin_operator
@@ -34436,8 +34436,8 @@ overcome sciatica learning cherry mercury neptune
 1
 9 1
 2
-0 43 3 22
 0 41 3 2
+0 43 3 22
 1
 end_operator
 begin_operator
@@ -34445,8 +34445,8 @@ overcome sciatica learning cherry neptune mars
 1
 9 1
 2
-0 43 3 22
 0 41 1 3
+0 43 3 22
 1
 end_operator
 begin_operator
@@ -34454,8 +34454,8 @@ overcome sciatica learning flounder mars jupiter
 1
 9 2
 2
-0 43 5 22
 0 41 0 1
+0 43 5 22
 1
 end_operator
 begin_operator
@@ -34463,8 +34463,8 @@ overcome sciatica learning flounder mercury neptune
 1
 9 2
 2
-0 43 5 22
 0 41 3 2
+0 43 5 22
 1
 end_operator
 begin_operator
@@ -34472,8 +34472,8 @@ overcome sciatica learning flounder neptune mars
 1
 9 2
 2
-0 43 5 22
 0 41 1 3
+0 43 5 22
 1
 end_operator
 begin_operator
@@ -34481,8 +34481,8 @@ overcome sciatica learning ham mars jupiter
 1
 9 3
 2
-0 43 7 22
 0 41 0 1
+0 43 7 22
 1
 end_operator
 begin_operator
@@ -34490,8 +34490,8 @@ overcome sciatica learning ham mercury neptune
 1
 9 3
 2
-0 43 7 22
 0 41 3 2
+0 43 7 22
 1
 end_operator
 begin_operator
@@ -34499,8 +34499,8 @@ overcome sciatica learning ham neptune mars
 1
 9 3
 2
-0 43 7 22
 0 41 1 3
+0 43 7 22
 1
 end_operator
 begin_operator
@@ -34508,8 +34508,8 @@ overcome sciatica learning hotdog mars jupiter
 1
 9 4
 2
-0 43 9 22
 0 41 0 1
+0 43 9 22
 1
 end_operator
 begin_operator
@@ -34517,8 +34517,8 @@ overcome sciatica learning hotdog mercury neptune
 1
 9 4
 2
-0 43 9 22
 0 41 3 2
+0 43 9 22
 1
 end_operator
 begin_operator
@@ -34526,8 +34526,8 @@ overcome sciatica learning hotdog neptune mars
 1
 9 4
 2
-0 43 9 22
 0 41 1 3
+0 43 9 22
 1
 end_operator
 begin_operator
@@ -34535,8 +34535,8 @@ overcome sciatica learning lamb mars jupiter
 1
 9 5
 2
-0 43 10 22
 0 41 0 1
+0 43 10 22
 1
 end_operator
 begin_operator
@@ -34544,8 +34544,8 @@ overcome sciatica learning lamb mercury neptune
 1
 9 5
 2
-0 43 10 22
 0 41 3 2
+0 43 10 22
 1
 end_operator
 begin_operator
@@ -34553,8 +34553,8 @@ overcome sciatica learning lamb neptune mars
 1
 9 5
 2
-0 43 10 22
 0 41 1 3
+0 43 10 22
 1
 end_operator
 begin_operator
@@ -34562,8 +34562,8 @@ overcome sciatica learning okra mars jupiter
 1
 9 6
 2
-0 43 12 22
 0 41 0 1
+0 43 12 22
 1
 end_operator
 begin_operator
@@ -34571,8 +34571,8 @@ overcome sciatica learning okra mercury neptune
 1
 9 6
 2
-0 43 12 22
 0 41 3 2
+0 43 12 22
 1
 end_operator
 begin_operator
@@ -34580,8 +34580,8 @@ overcome sciatica learning okra neptune mars
 1
 9 6
 2
-0 43 12 22
 0 41 1 3
+0 43 12 22
 1
 end_operator
 begin_operator
@@ -34589,8 +34589,8 @@ overcome sciatica learning onion mars jupiter
 1
 9 7
 2
-0 43 13 22
 0 41 0 1
+0 43 13 22
 1
 end_operator
 begin_operator
@@ -34598,8 +34598,8 @@ overcome sciatica learning onion mercury neptune
 1
 9 7
 2
-0 43 13 22
 0 41 3 2
+0 43 13 22
 1
 end_operator
 begin_operator
@@ -34607,8 +34607,8 @@ overcome sciatica learning onion neptune mars
 1
 9 7
 2
-0 43 13 22
 0 41 1 3
+0 43 13 22
 1
 end_operator
 begin_operator
@@ -34616,8 +34616,8 @@ overcome sciatica learning papaya mars jupiter
 1
 9 8
 2
-0 43 14 22
 0 41 0 1
+0 43 14 22
 1
 end_operator
 begin_operator
@@ -34625,8 +34625,8 @@ overcome sciatica learning papaya mercury neptune
 1
 9 8
 2
-0 43 14 22
 0 41 3 2
+0 43 14 22
 1
 end_operator
 begin_operator
@@ -34634,8 +34634,8 @@ overcome sciatica learning papaya neptune mars
 1
 9 8
 2
-0 43 14 22
 0 41 1 3
+0 43 14 22
 1
 end_operator
 begin_operator
@@ -34643,8 +34643,8 @@ overcome sciatica learning pistachio mars jupiter
 1
 9 9
 2
-0 43 15 22
 0 41 0 1
+0 43 15 22
 1
 end_operator
 begin_operator
@@ -34652,8 +34652,8 @@ overcome sciatica learning pistachio mercury neptune
 1
 9 9
 2
-0 43 15 22
 0 41 3 2
+0 43 15 22
 1
 end_operator
 begin_operator
@@ -34661,8 +34661,8 @@ overcome sciatica learning pistachio neptune mars
 1
 9 9
 2
-0 43 15 22
 0 41 1 3
+0 43 15 22
 1
 end_operator
 begin_operator
@@ -34670,8 +34670,8 @@ overcome sciatica learning scallop mars jupiter
 1
 9 10
 2
-0 43 16 22
 0 41 0 1
+0 43 16 22
 1
 end_operator
 begin_operator
@@ -34679,8 +34679,8 @@ overcome sciatica learning scallop mercury neptune
 1
 9 10
 2
-0 43 16 22
 0 41 3 2
+0 43 16 22
 1
 end_operator
 begin_operator
@@ -34688,8 +34688,8 @@ overcome sciatica learning scallop neptune mars
 1
 9 10
 2
-0 43 16 22
 0 41 1 3
+0 43 16 22
 1
 end_operator
 begin_operator
@@ -34697,8 +34697,8 @@ overcome sciatica learning sweetroll mars jupiter
 1
 9 11
 2
-0 43 17 22
 0 41 0 1
+0 43 17 22
 1
 end_operator
 begin_operator
@@ -34706,8 +34706,8 @@ overcome sciatica learning sweetroll mercury neptune
 1
 9 11
 2
-0 43 17 22
 0 41 3 2
+0 43 17 22
 1
 end_operator
 begin_operator
@@ -34715,8 +34715,8 @@ overcome sciatica learning sweetroll neptune mars
 1
 9 11
 2
-0 43 17 22
 0 41 1 3
+0 43 17 22
 1
 end_operator
 begin_operator
@@ -35048,8 +35048,8 @@ overcome sciatica triumph bacon mars jupiter
 1
 22 0
 2
-0 43 1 24
 0 36 0 1
+0 43 1 24
 1
 end_operator
 begin_operator
@@ -35057,8 +35057,8 @@ overcome sciatica triumph bacon mercury neptune
 1
 22 0
 2
-0 43 1 24
 0 36 3 2
+0 43 1 24
 1
 end_operator
 begin_operator
@@ -35066,8 +35066,8 @@ overcome sciatica triumph bacon neptune mars
 1
 22 0
 2
-0 43 1 24
 0 36 1 3
+0 43 1 24
 1
 end_operator
 begin_operator
@@ -35075,8 +35075,8 @@ overcome sciatica triumph beef mars jupiter
 1
 22 1
 2
-0 43 2 24
 0 36 0 1
+0 43 2 24
 1
 end_operator
 begin_operator
@@ -35084,8 +35084,8 @@ overcome sciatica triumph beef mercury neptune
 1
 22 1
 2
-0 43 2 24
 0 36 3 2
+0 43 2 24
 1
 end_operator
 begin_operator
@@ -35093,8 +35093,8 @@ overcome sciatica triumph beef neptune mars
 1
 22 1
 2
-0 43 2 24
 0 36 1 3
+0 43 2 24
 1
 end_operator
 begin_operator
@@ -35102,8 +35102,8 @@ overcome sciatica triumph chicken mars jupiter
 1
 22 2
 2
-0 43 4 24
 0 36 0 1
+0 43 4 24
 1
 end_operator
 begin_operator
@@ -35111,8 +35111,8 @@ overcome sciatica triumph chicken mercury neptune
 1
 22 2
 2
-0 43 4 24
 0 36 3 2
+0 43 4 24
 1
 end_operator
 begin_operator
@@ -35120,8 +35120,8 @@ overcome sciatica triumph chicken neptune mars
 1
 22 2
 2
-0 43 4 24
 0 36 1 3
+0 43 4 24
 1
 end_operator
 begin_operator
@@ -35129,8 +35129,8 @@ overcome sciatica triumph grapefruit mars jupiter
 1
 22 3
 2
-0 43 6 24
 0 36 0 1
+0 43 6 24
 1
 end_operator
 begin_operator
@@ -35138,8 +35138,8 @@ overcome sciatica triumph grapefruit mercury neptune
 1
 22 3
 2
-0 43 6 24
 0 36 3 2
+0 43 6 24
 1
 end_operator
 begin_operator
@@ -35147,8 +35147,8 @@ overcome sciatica triumph grapefruit neptune mars
 1
 22 3
 2
-0 43 6 24
 0 36 1 3
+0 43 6 24
 1
 end_operator
 begin_operator
@@ -35156,8 +35156,8 @@ overcome sciatica triumph haroset mars jupiter
 1
 22 4
 2
-0 43 8 24
 0 36 0 1
+0 43 8 24
 1
 end_operator
 begin_operator
@@ -35165,8 +35165,8 @@ overcome sciatica triumph haroset mercury neptune
 1
 22 4
 2
-0 43 8 24
 0 36 3 2
+0 43 8 24
 1
 end_operator
 begin_operator
@@ -35174,8 +35174,8 @@ overcome sciatica triumph haroset neptune mars
 1
 22 4
 2
-0 43 8 24
 0 36 1 3
+0 43 8 24
 1
 end_operator
 begin_operator
@@ -35183,8 +35183,8 @@ overcome sciatica triumph hotdog mars jupiter
 1
 22 5
 2
-0 43 9 24
 0 36 0 1
+0 43 9 24
 1
 end_operator
 begin_operator
@@ -35192,8 +35192,8 @@ overcome sciatica triumph hotdog mercury neptune
 1
 22 5
 2
-0 43 9 24
 0 36 3 2
+0 43 9 24
 1
 end_operator
 begin_operator
@@ -35201,8 +35201,8 @@ overcome sciatica triumph hotdog neptune mars
 1
 22 5
 2
-0 43 9 24
 0 36 1 3
+0 43 9 24
 1
 end_operator
 begin_operator
@@ -35210,8 +35210,8 @@ overcome sciatica triumph lobster mars jupiter
 1
 22 6
 2
-0 43 11 24
 0 36 0 1
+0 43 11 24
 1
 end_operator
 begin_operator
@@ -35219,8 +35219,8 @@ overcome sciatica triumph lobster mercury neptune
 1
 22 6
 2
-0 43 11 24
 0 36 3 2
+0 43 11 24
 1
 end_operator
 begin_operator
@@ -35228,8 +35228,8 @@ overcome sciatica triumph lobster neptune mars
 1
 22 6
 2
-0 43 11 24
 0 36 1 3
+0 43 11 24
 1
 end_operator
 begin_operator
@@ -35237,8 +35237,8 @@ overcome sciatica triumph wonderbread mars jupiter
 1
 22 7
 2
-0 43 18 24
 0 36 0 1
+0 43 18 24
 1
 end_operator
 begin_operator
@@ -35246,8 +35246,8 @@ overcome sciatica triumph wonderbread mercury neptune
 1
 22 7
 2
-0 43 18 24
 0 36 3 2
+0 43 18 24
 1
 end_operator
 begin_operator
@@ -35255,8 +35255,8 @@ overcome sciatica triumph wonderbread neptune mars
 1
 22 7
 2
-0 43 18 24
 0 36 1 3
+0 43 18 24
 1
 end_operator
 begin_operator
@@ -51140,8 +51140,8 @@ succumb dread curiosity bacon mars jupiter
 1
 19 0
 2
-0 34 19 1
 0 32 1 0
+0 34 19 1
 1
 end_operator
 begin_operator
@@ -51149,8 +51149,8 @@ succumb dread curiosity bacon mercury neptune
 1
 19 0
 2
-0 34 19 1
 0 32 2 3
+0 34 19 1
 1
 end_operator
 begin_operator
@@ -51158,8 +51158,8 @@ succumb dread curiosity bacon neptune mars
 1
 19 0
 2
-0 34 19 1
 0 32 3 1
+0 34 19 1
 1
 end_operator
 begin_operator
@@ -51167,8 +51167,8 @@ succumb dread curiosity beef mars jupiter
 1
 19 1
 2
-0 34 19 2
 0 32 1 0
+0 34 19 2
 1
 end_operator
 begin_operator
@@ -51176,8 +51176,8 @@ succumb dread curiosity beef mercury neptune
 1
 19 1
 2
-0 34 19 2
 0 32 2 3
+0 34 19 2
 1
 end_operator
 begin_operator
@@ -51185,8 +51185,8 @@ succumb dread curiosity beef neptune mars
 1
 19 1
 2
-0 34 19 2
 0 32 3 1
+0 34 19 2
 1
 end_operator
 begin_operator
@@ -51194,8 +51194,8 @@ succumb dread curiosity chicken mars jupiter
 1
 19 2
 2
-0 34 19 4
 0 32 1 0
+0 34 19 4
 1
 end_operator
 begin_operator
@@ -51203,8 +51203,8 @@ succumb dread curiosity chicken mercury neptune
 1
 19 2
 2
-0 34 19 4
 0 32 2 3
+0 34 19 4
 1
 end_operator
 begin_operator
@@ -51212,8 +51212,8 @@ succumb dread curiosity chicken neptune mars
 1
 19 2
 2
-0 34 19 4
 0 32 3 1
+0 34 19 4
 1
 end_operator
 begin_operator
@@ -51221,8 +51221,8 @@ succumb dread curiosity grapefruit mars jupiter
 1
 19 3
 2
-0 34 19 6
 0 32 1 0
+0 34 19 6
 1
 end_operator
 begin_operator
@@ -51230,8 +51230,8 @@ succumb dread curiosity grapefruit mercury neptune
 1
 19 3
 2
-0 34 19 6
 0 32 2 3
+0 34 19 6
 1
 end_operator
 begin_operator
@@ -51239,8 +51239,8 @@ succumb dread curiosity grapefruit neptune mars
 1
 19 3
 2
-0 34 19 6
 0 32 3 1
+0 34 19 6
 1
 end_operator
 begin_operator
@@ -51248,8 +51248,8 @@ succumb dread curiosity haroset mars jupiter
 1
 19 4
 2
-0 34 19 8
 0 32 1 0
+0 34 19 8
 1
 end_operator
 begin_operator
@@ -51257,8 +51257,8 @@ succumb dread curiosity haroset mercury neptune
 1
 19 4
 2
-0 34 19 8
 0 32 2 3
+0 34 19 8
 1
 end_operator
 begin_operator
@@ -51266,8 +51266,8 @@ succumb dread curiosity haroset neptune mars
 1
 19 4
 2
-0 34 19 8
 0 32 3 1
+0 34 19 8
 1
 end_operator
 begin_operator
@@ -51275,8 +51275,8 @@ succumb dread curiosity hotdog mars jupiter
 1
 19 5
 2
-0 34 19 9
 0 32 1 0
+0 34 19 9
 1
 end_operator
 begin_operator
@@ -51284,8 +51284,8 @@ succumb dread curiosity hotdog mercury neptune
 1
 19 5
 2
-0 34 19 9
 0 32 2 3
+0 34 19 9
 1
 end_operator
 begin_operator
@@ -51293,8 +51293,8 @@ succumb dread curiosity hotdog neptune mars
 1
 19 5
 2
-0 34 19 9
 0 32 3 1
+0 34 19 9
 1
 end_operator
 begin_operator
@@ -51302,8 +51302,8 @@ succumb dread curiosity lobster mars jupiter
 1
 19 6
 2
-0 34 19 11
 0 32 1 0
+0 34 19 11
 1
 end_operator
 begin_operator
@@ -51311,8 +51311,8 @@ succumb dread curiosity lobster mercury neptune
 1
 19 6
 2
-0 34 19 11
 0 32 2 3
+0 34 19 11
 1
 end_operator
 begin_operator
@@ -51320,8 +51320,8 @@ succumb dread curiosity lobster neptune mars
 1
 19 6
 2
-0 34 19 11
 0 32 3 1
+0 34 19 11
 1
 end_operator
 begin_operator
@@ -51329,8 +51329,8 @@ succumb dread curiosity wonderbread mars jupiter
 1
 19 7
 2
-0 34 19 18
 0 32 1 0
+0 34 19 18
 1
 end_operator
 begin_operator
@@ -51338,8 +51338,8 @@ succumb dread curiosity wonderbread mercury neptune
 1
 19 7
 2
-0 34 19 18
 0 32 2 3
+0 34 19 18
 1
 end_operator
 begin_operator
@@ -51347,8 +51347,8 @@ succumb dread curiosity wonderbread neptune mars
 1
 19 7
 2
-0 34 19 18
 0 32 3 1
+0 34 19 18
 1
 end_operator
 begin_operator
@@ -51356,8 +51356,8 @@ succumb dread empathy bacon mars jupiter
 1
 21 0
 2
-0 34 20 1
 0 33 1 0
+0 34 20 1
 1
 end_operator
 begin_operator
@@ -51365,8 +51365,8 @@ succumb dread empathy bacon mercury neptune
 1
 21 0
 2
-0 34 20 1
 0 33 2 3
+0 34 20 1
 1
 end_operator
 begin_operator
@@ -51374,8 +51374,8 @@ succumb dread empathy bacon neptune mars
 1
 21 0
 2
-0 34 20 1
 0 33 3 1
+0 34 20 1
 1
 end_operator
 begin_operator
@@ -51383,8 +51383,8 @@ succumb dread empathy beef mars jupiter
 1
 21 1
 2
-0 34 20 2
 0 33 1 0
+0 34 20 2
 1
 end_operator
 begin_operator
@@ -51392,8 +51392,8 @@ succumb dread empathy beef mercury neptune
 1
 21 1
 2
-0 34 20 2
 0 33 2 3
+0 34 20 2
 1
 end_operator
 begin_operator
@@ -51401,8 +51401,8 @@ succumb dread empathy beef neptune mars
 1
 21 1
 2
-0 34 20 2
 0 33 3 1
+0 34 20 2
 1
 end_operator
 begin_operator
@@ -51410,8 +51410,8 @@ succumb dread empathy chicken mars jupiter
 1
 21 2
 2
-0 34 20 4
 0 33 1 0
+0 34 20 4
 1
 end_operator
 begin_operator
@@ -51419,8 +51419,8 @@ succumb dread empathy chicken mercury neptune
 1
 21 2
 2
-0 34 20 4
 0 33 2 3
+0 34 20 4
 1
 end_operator
 begin_operator
@@ -51428,8 +51428,8 @@ succumb dread empathy chicken neptune mars
 1
 21 2
 2
-0 34 20 4
 0 33 3 1
+0 34 20 4
 1
 end_operator
 begin_operator
@@ -51437,8 +51437,8 @@ succumb dread empathy grapefruit mars jupiter
 1
 21 3
 2
-0 34 20 6
 0 33 1 0
+0 34 20 6
 1
 end_operator
 begin_operator
@@ -51446,8 +51446,8 @@ succumb dread empathy grapefruit mercury neptune
 1
 21 3
 2
-0 34 20 6
 0 33 2 3
+0 34 20 6
 1
 end_operator
 begin_operator
@@ -51455,8 +51455,8 @@ succumb dread empathy grapefruit neptune mars
 1
 21 3
 2
-0 34 20 6
 0 33 3 1
+0 34 20 6
 1
 end_operator
 begin_operator
@@ -51464,8 +51464,8 @@ succumb dread empathy haroset mars jupiter
 1
 21 4
 2
-0 34 20 8
 0 33 1 0
+0 34 20 8
 1
 end_operator
 begin_operator
@@ -51473,8 +51473,8 @@ succumb dread empathy haroset mercury neptune
 1
 21 4
 2
-0 34 20 8
 0 33 2 3
+0 34 20 8
 1
 end_operator
 begin_operator
@@ -51482,8 +51482,8 @@ succumb dread empathy haroset neptune mars
 1
 21 4
 2
-0 34 20 8
 0 33 3 1
+0 34 20 8
 1
 end_operator
 begin_operator
@@ -51491,8 +51491,8 @@ succumb dread empathy hotdog mars jupiter
 1
 21 5
 2
-0 34 20 9
 0 33 1 0
+0 34 20 9
 1
 end_operator
 begin_operator
@@ -51500,8 +51500,8 @@ succumb dread empathy hotdog mercury neptune
 1
 21 5
 2
-0 34 20 9
 0 33 2 3
+0 34 20 9
 1
 end_operator
 begin_operator
@@ -51509,8 +51509,8 @@ succumb dread empathy hotdog neptune mars
 1
 21 5
 2
-0 34 20 9
 0 33 3 1
+0 34 20 9
 1
 end_operator
 begin_operator
@@ -51518,8 +51518,8 @@ succumb dread empathy lobster mars jupiter
 1
 21 6
 2
-0 34 20 11
 0 33 1 0
+0 34 20 11
 1
 end_operator
 begin_operator
@@ -51527,8 +51527,8 @@ succumb dread empathy lobster mercury neptune
 1
 21 6
 2
-0 34 20 11
 0 33 2 3
+0 34 20 11
 1
 end_operator
 begin_operator
@@ -51536,8 +51536,8 @@ succumb dread empathy lobster neptune mars
 1
 21 6
 2
-0 34 20 11
 0 33 3 1
+0 34 20 11
 1
 end_operator
 begin_operator
@@ -51545,8 +51545,8 @@ succumb dread empathy wonderbread mars jupiter
 1
 21 7
 2
-0 34 20 18
 0 33 1 0
+0 34 20 18
 1
 end_operator
 begin_operator
@@ -51554,8 +51554,8 @@ succumb dread empathy wonderbread mercury neptune
 1
 21 7
 2
-0 34 20 18
 0 33 2 3
+0 34 20 18
 1
 end_operator
 begin_operator
@@ -51563,8 +51563,8 @@ succumb dread empathy wonderbread neptune mars
 1
 21 7
 2
-0 34 20 18
 0 33 3 1
+0 34 20 18
 1
 end_operator
 begin_operator
@@ -53084,8 +53084,8 @@ succumb grief curiosity bacon mars jupiter
 1
 19 0
 2
-0 35 19 1
 0 32 1 0
+0 35 19 1
 1
 end_operator
 begin_operator
@@ -53093,8 +53093,8 @@ succumb grief curiosity bacon mercury neptune
 1
 19 0
 2
-0 35 19 1
 0 32 2 3
+0 35 19 1
 1
 end_operator
 begin_operator
@@ -53102,8 +53102,8 @@ succumb grief curiosity bacon neptune mars
 1
 19 0
 2
-0 35 19 1
 0 32 3 1
+0 35 19 1
 1
 end_operator
 begin_operator
@@ -53111,8 +53111,8 @@ succumb grief curiosity beef mars jupiter
 1
 19 1
 2
-0 35 19 2
 0 32 1 0
+0 35 19 2
 1
 end_operator
 begin_operator
@@ -53120,8 +53120,8 @@ succumb grief curiosity beef mercury neptune
 1
 19 1
 2
-0 35 19 2
 0 32 2 3
+0 35 19 2
 1
 end_operator
 begin_operator
@@ -53129,8 +53129,8 @@ succumb grief curiosity beef neptune mars
 1
 19 1
 2
-0 35 19 2
 0 32 3 1
+0 35 19 2
 1
 end_operator
 begin_operator
@@ -53138,8 +53138,8 @@ succumb grief curiosity chicken mars jupiter
 1
 19 2
 2
-0 35 19 4
 0 32 1 0
+0 35 19 4
 1
 end_operator
 begin_operator
@@ -53147,8 +53147,8 @@ succumb grief curiosity chicken mercury neptune
 1
 19 2
 2
-0 35 19 4
 0 32 2 3
+0 35 19 4
 1
 end_operator
 begin_operator
@@ -53156,8 +53156,8 @@ succumb grief curiosity chicken neptune mars
 1
 19 2
 2
-0 35 19 4
 0 32 3 1
+0 35 19 4
 1
 end_operator
 begin_operator
@@ -53165,8 +53165,8 @@ succumb grief curiosity grapefruit mars jupiter
 1
 19 3
 2
-0 35 19 6
 0 32 1 0
+0 35 19 6
 1
 end_operator
 begin_operator
@@ -53174,8 +53174,8 @@ succumb grief curiosity grapefruit mercury neptune
 1
 19 3
 2
-0 35 19 6
 0 32 2 3
+0 35 19 6
 1
 end_operator
 begin_operator
@@ -53183,8 +53183,8 @@ succumb grief curiosity grapefruit neptune mars
 1
 19 3
 2
-0 35 19 6
 0 32 3 1
+0 35 19 6
 1
 end_operator
 begin_operator
@@ -53192,8 +53192,8 @@ succumb grief curiosity haroset mars jupiter
 1
 19 4
 2
-0 35 19 8
 0 32 1 0
+0 35 19 8
 1
 end_operator
 begin_operator
@@ -53201,8 +53201,8 @@ succumb grief curiosity haroset mercury neptune
 1
 19 4
 2
-0 35 19 8
 0 32 2 3
+0 35 19 8
 1
 end_operator
 begin_operator
@@ -53210,8 +53210,8 @@ succumb grief curiosity haroset neptune mars
 1
 19 4
 2
-0 35 19 8
 0 32 3 1
+0 35 19 8
 1
 end_operator
 begin_operator
@@ -53219,8 +53219,8 @@ succumb grief curiosity hotdog mars jupiter
 1
 19 5
 2
-0 35 19 9
 0 32 1 0
+0 35 19 9
 1
 end_operator
 begin_operator
@@ -53228,8 +53228,8 @@ succumb grief curiosity hotdog mercury neptune
 1
 19 5
 2
-0 35 19 9
 0 32 2 3
+0 35 19 9
 1
 end_operator
 begin_operator
@@ -53237,8 +53237,8 @@ succumb grief curiosity hotdog neptune mars
 1
 19 5
 2
-0 35 19 9
 0 32 3 1
+0 35 19 9
 1
 end_operator
 begin_operator
@@ -53246,8 +53246,8 @@ succumb grief curiosity lobster mars jupiter
 1
 19 6
 2
-0 35 19 11
 0 32 1 0
+0 35 19 11
 1
 end_operator
 begin_operator
@@ -53255,8 +53255,8 @@ succumb grief curiosity lobster mercury neptune
 1
 19 6
 2
-0 35 19 11
 0 32 2 3
+0 35 19 11
 1
 end_operator
 begin_operator
@@ -53264,8 +53264,8 @@ succumb grief curiosity lobster neptune mars
 1
 19 6
 2
-0 35 19 11
 0 32 3 1
+0 35 19 11
 1
 end_operator
 begin_operator
@@ -53273,8 +53273,8 @@ succumb grief curiosity wonderbread mars jupiter
 1
 19 7
 2
-0 35 19 18
 0 32 1 0
+0 35 19 18
 1
 end_operator
 begin_operator
@@ -53282,8 +53282,8 @@ succumb grief curiosity wonderbread mercury neptune
 1
 19 7
 2
-0 35 19 18
 0 32 2 3
+0 35 19 18
 1
 end_operator
 begin_operator
@@ -53291,8 +53291,8 @@ succumb grief curiosity wonderbread neptune mars
 1
 19 7
 2
-0 35 19 18
 0 32 3 1
+0 35 19 18
 1
 end_operator
 begin_operator
@@ -53300,8 +53300,8 @@ succumb grief empathy bacon mars jupiter
 1
 21 0
 2
-0 35 20 1
 0 33 1 0
+0 35 20 1
 1
 end_operator
 begin_operator
@@ -53309,8 +53309,8 @@ succumb grief empathy bacon mercury neptune
 1
 21 0
 2
-0 35 20 1
 0 33 2 3
+0 35 20 1
 1
 end_operator
 begin_operator
@@ -53318,8 +53318,8 @@ succumb grief empathy bacon neptune mars
 1
 21 0
 2
-0 35 20 1
 0 33 3 1
+0 35 20 1
 1
 end_operator
 begin_operator
@@ -53327,8 +53327,8 @@ succumb grief empathy beef mars jupiter
 1
 21 1
 2
-0 35 20 2
 0 33 1 0
+0 35 20 2
 1
 end_operator
 begin_operator
@@ -53336,8 +53336,8 @@ succumb grief empathy beef mercury neptune
 1
 21 1
 2
-0 35 20 2
 0 33 2 3
+0 35 20 2
 1
 end_operator
 begin_operator
@@ -53345,8 +53345,8 @@ succumb grief empathy beef neptune mars
 1
 21 1
 2
-0 35 20 2
 0 33 3 1
+0 35 20 2
 1
 end_operator
 begin_operator
@@ -53354,8 +53354,8 @@ succumb grief empathy chicken mars jupiter
 1
 21 2
 2
-0 35 20 4
 0 33 1 0
+0 35 20 4
 1
 end_operator
 begin_operator
@@ -53363,8 +53363,8 @@ succumb grief empathy chicken mercury neptune
 1
 21 2
 2
-0 35 20 4
 0 33 2 3
+0 35 20 4
 1
 end_operator
 begin_operator
@@ -53372,8 +53372,8 @@ succumb grief empathy chicken neptune mars
 1
 21 2
 2
-0 35 20 4
 0 33 3 1
+0 35 20 4
 1
 end_operator
 begin_operator
@@ -53381,8 +53381,8 @@ succumb grief empathy grapefruit mars jupiter
 1
 21 3
 2
-0 35 20 6
 0 33 1 0
+0 35 20 6
 1
 end_operator
 begin_operator
@@ -53390,8 +53390,8 @@ succumb grief empathy grapefruit mercury neptune
 1
 21 3
 2
-0 35 20 6
 0 33 2 3
+0 35 20 6
 1
 end_operator
 begin_operator
@@ -53399,8 +53399,8 @@ succumb grief empathy grapefruit neptune mars
 1
 21 3
 2
-0 35 20 6
 0 33 3 1
+0 35 20 6
 1
 end_operator
 begin_operator
@@ -53408,8 +53408,8 @@ succumb grief empathy haroset mars jupiter
 1
 21 4
 2
-0 35 20 8
 0 33 1 0
+0 35 20 8
 1
 end_operator
 begin_operator
@@ -53417,8 +53417,8 @@ succumb grief empathy haroset mercury neptune
 1
 21 4
 2
-0 35 20 8
 0 33 2 3
+0 35 20 8
 1
 end_operator
 begin_operator
@@ -53426,8 +53426,8 @@ succumb grief empathy haroset neptune mars
 1
 21 4
 2
-0 35 20 8
 0 33 3 1
+0 35 20 8
 1
 end_operator
 begin_operator
@@ -53435,8 +53435,8 @@ succumb grief empathy hotdog mars jupiter
 1
 21 5
 2
-0 35 20 9
 0 33 1 0
+0 35 20 9
 1
 end_operator
 begin_operator
@@ -53444,8 +53444,8 @@ succumb grief empathy hotdog mercury neptune
 1
 21 5
 2
-0 35 20 9
 0 33 2 3
+0 35 20 9
 1
 end_operator
 begin_operator
@@ -53453,8 +53453,8 @@ succumb grief empathy hotdog neptune mars
 1
 21 5
 2
-0 35 20 9
 0 33 3 1
+0 35 20 9
 1
 end_operator
 begin_operator
@@ -53462,8 +53462,8 @@ succumb grief empathy lobster mars jupiter
 1
 21 6
 2
-0 35 20 11
 0 33 1 0
+0 35 20 11
 1
 end_operator
 begin_operator
@@ -53471,8 +53471,8 @@ succumb grief empathy lobster mercury neptune
 1
 21 6
 2
-0 35 20 11
 0 33 2 3
+0 35 20 11
 1
 end_operator
 begin_operator
@@ -53480,8 +53480,8 @@ succumb grief empathy lobster neptune mars
 1
 21 6
 2
-0 35 20 11
 0 33 3 1
+0 35 20 11
 1
 end_operator
 begin_operator
@@ -53489,8 +53489,8 @@ succumb grief empathy wonderbread mars jupiter
 1
 21 7
 2
-0 35 20 18
 0 33 1 0
+0 35 20 18
 1
 end_operator
 begin_operator
@@ -53498,8 +53498,8 @@ succumb grief empathy wonderbread mercury neptune
 1
 21 7
 2
-0 35 20 18
 0 33 2 3
+0 35 20 18
 1
 end_operator
 begin_operator
@@ -53507,8 +53507,8 @@ succumb grief empathy wonderbread neptune mars
 1
 21 7
 2
-0 35 20 18
 0 33 3 1
+0 35 20 18
 1
 end_operator
 begin_operator
@@ -55028,8 +55028,8 @@ succumb hangover curiosity bacon mars jupiter
 1
 19 0
 2
-0 37 19 1
 0 32 1 0
+0 37 19 1
 1
 end_operator
 begin_operator
@@ -55037,8 +55037,8 @@ succumb hangover curiosity bacon mercury neptune
 1
 19 0
 2
-0 37 19 1
 0 32 2 3
+0 37 19 1
 1
 end_operator
 begin_operator
@@ -55046,8 +55046,8 @@ succumb hangover curiosity bacon neptune mars
 1
 19 0
 2
-0 37 19 1
 0 32 3 1
+0 37 19 1
 1
 end_operator
 begin_operator
@@ -55055,8 +55055,8 @@ succumb hangover curiosity beef mars jupiter
 1
 19 1
 2
-0 37 19 2
 0 32 1 0
+0 37 19 2
 1
 end_operator
 begin_operator
@@ -55064,8 +55064,8 @@ succumb hangover curiosity beef mercury neptune
 1
 19 1
 2
-0 37 19 2
 0 32 2 3
+0 37 19 2
 1
 end_operator
 begin_operator
@@ -55073,8 +55073,8 @@ succumb hangover curiosity beef neptune mars
 1
 19 1
 2
-0 37 19 2
 0 32 3 1
+0 37 19 2
 1
 end_operator
 begin_operator
@@ -55082,8 +55082,8 @@ succumb hangover curiosity chicken mars jupiter
 1
 19 2
 2
-0 37 19 4
 0 32 1 0
+0 37 19 4
 1
 end_operator
 begin_operator
@@ -55091,8 +55091,8 @@ succumb hangover curiosity chicken mercury neptune
 1
 19 2
 2
-0 37 19 4
 0 32 2 3
+0 37 19 4
 1
 end_operator
 begin_operator
@@ -55100,8 +55100,8 @@ succumb hangover curiosity chicken neptune mars
 1
 19 2
 2
-0 37 19 4
 0 32 3 1
+0 37 19 4
 1
 end_operator
 begin_operator
@@ -55109,8 +55109,8 @@ succumb hangover curiosity grapefruit mars jupiter
 1
 19 3
 2
-0 37 19 6
 0 32 1 0
+0 37 19 6
 1
 end_operator
 begin_operator
@@ -55118,8 +55118,8 @@ succumb hangover curiosity grapefruit mercury neptune
 1
 19 3
 2
-0 37 19 6
 0 32 2 3
+0 37 19 6
 1
 end_operator
 begin_operator
@@ -55127,8 +55127,8 @@ succumb hangover curiosity grapefruit neptune mars
 1
 19 3
 2
-0 37 19 6
 0 32 3 1
+0 37 19 6
 1
 end_operator
 begin_operator
@@ -55136,8 +55136,8 @@ succumb hangover curiosity haroset mars jupiter
 1
 19 4
 2
-0 37 19 8
 0 32 1 0
+0 37 19 8
 1
 end_operator
 begin_operator
@@ -55145,8 +55145,8 @@ succumb hangover curiosity haroset mercury neptune
 1
 19 4
 2
-0 37 19 8
 0 32 2 3
+0 37 19 8
 1
 end_operator
 begin_operator
@@ -55154,8 +55154,8 @@ succumb hangover curiosity haroset neptune mars
 1
 19 4
 2
-0 37 19 8
 0 32 3 1
+0 37 19 8
 1
 end_operator
 begin_operator
@@ -55163,8 +55163,8 @@ succumb hangover curiosity hotdog mars jupiter
 1
 19 5
 2
-0 37 19 9
 0 32 1 0
+0 37 19 9
 1
 end_operator
 begin_operator
@@ -55172,8 +55172,8 @@ succumb hangover curiosity hotdog mercury neptune
 1
 19 5
 2
-0 37 19 9
 0 32 2 3
+0 37 19 9
 1
 end_operator
 begin_operator
@@ -55181,8 +55181,8 @@ succumb hangover curiosity hotdog neptune mars
 1
 19 5
 2
-0 37 19 9
 0 32 3 1
+0 37 19 9
 1
 end_operator
 begin_operator
@@ -55190,8 +55190,8 @@ succumb hangover curiosity lobster mars jupiter
 1
 19 6
 2
-0 37 19 11
 0 32 1 0
+0 37 19 11
 1
 end_operator
 begin_operator
@@ -55199,8 +55199,8 @@ succumb hangover curiosity lobster mercury neptune
 1
 19 6
 2
-0 37 19 11
 0 32 2 3
+0 37 19 11
 1
 end_operator
 begin_operator
@@ -55208,8 +55208,8 @@ succumb hangover curiosity lobster neptune mars
 1
 19 6
 2
-0 37 19 11
 0 32 3 1
+0 37 19 11
 1
 end_operator
 begin_operator
@@ -55217,8 +55217,8 @@ succumb hangover curiosity wonderbread mars jupiter
 1
 19 7
 2
-0 37 19 18
 0 32 1 0
+0 37 19 18
 1
 end_operator
 begin_operator
@@ -55226,8 +55226,8 @@ succumb hangover curiosity wonderbread mercury neptune
 1
 19 7
 2
-0 37 19 18
 0 32 2 3
+0 37 19 18
 1
 end_operator
 begin_operator
@@ -55235,8 +55235,8 @@ succumb hangover curiosity wonderbread neptune mars
 1
 19 7
 2
-0 37 19 18
 0 32 3 1
+0 37 19 18
 1
 end_operator
 begin_operator
@@ -55244,8 +55244,8 @@ succumb hangover empathy bacon mars jupiter
 1
 21 0
 2
-0 37 20 1
 0 33 1 0
+0 37 20 1
 1
 end_operator
 begin_operator
@@ -55253,8 +55253,8 @@ succumb hangover empathy bacon mercury neptune
 1
 21 0
 2
-0 37 20 1
 0 33 2 3
+0 37 20 1
 1
 end_operator
 begin_operator
@@ -55262,8 +55262,8 @@ succumb hangover empathy bacon neptune mars
 1
 21 0
 2
-0 37 20 1
 0 33 3 1
+0 37 20 1
 1
 end_operator
 begin_operator
@@ -55271,8 +55271,8 @@ succumb hangover empathy beef mars jupiter
 1
 21 1
 2
-0 37 20 2
 0 33 1 0
+0 37 20 2
 1
 end_operator
 begin_operator
@@ -55280,8 +55280,8 @@ succumb hangover empathy beef mercury neptune
 1
 21 1
 2
-0 37 20 2
 0 33 2 3
+0 37 20 2
 1
 end_operator
 begin_operator
@@ -55289,8 +55289,8 @@ succumb hangover empathy beef neptune mars
 1
 21 1
 2
-0 37 20 2
 0 33 3 1
+0 37 20 2
 1
 end_operator
 begin_operator
@@ -55298,8 +55298,8 @@ succumb hangover empathy chicken mars jupiter
 1
 21 2
 2
-0 37 20 4
 0 33 1 0
+0 37 20 4
 1
 end_operator
 begin_operator
@@ -55307,8 +55307,8 @@ succumb hangover empathy chicken mercury neptune
 1
 21 2
 2
-0 37 20 4
 0 33 2 3
+0 37 20 4
 1
 end_operator
 begin_operator
@@ -55316,8 +55316,8 @@ succumb hangover empathy chicken neptune mars
 1
 21 2
 2
-0 37 20 4
 0 33 3 1
+0 37 20 4
 1
 end_operator
 begin_operator
@@ -55325,8 +55325,8 @@ succumb hangover empathy grapefruit mars jupiter
 1
 21 3
 2
-0 37 20 6
 0 33 1 0
+0 37 20 6
 1
 end_operator
 begin_operator
@@ -55334,8 +55334,8 @@ succumb hangover empathy grapefruit mercury neptune
 1
 21 3
 2
-0 37 20 6
 0 33 2 3
+0 37 20 6
 1
 end_operator
 begin_operator
@@ -55343,8 +55343,8 @@ succumb hangover empathy grapefruit neptune mars
 1
 21 3
 2
-0 37 20 6
 0 33 3 1
+0 37 20 6
 1
 end_operator
 begin_operator
@@ -55352,8 +55352,8 @@ succumb hangover empathy haroset mars jupiter
 1
 21 4
 2
-0 37 20 8
 0 33 1 0
+0 37 20 8
 1
 end_operator
 begin_operator
@@ -55361,8 +55361,8 @@ succumb hangover empathy haroset mercury neptune
 1
 21 4
 2
-0 37 20 8
 0 33 2 3
+0 37 20 8
 1
 end_operator
 begin_operator
@@ -55370,8 +55370,8 @@ succumb hangover empathy haroset neptune mars
 1
 21 4
 2
-0 37 20 8
 0 33 3 1
+0 37 20 8
 1
 end_operator
 begin_operator
@@ -55379,8 +55379,8 @@ succumb hangover empathy hotdog mars jupiter
 1
 21 5
 2
-0 37 20 9
 0 33 1 0
+0 37 20 9
 1
 end_operator
 begin_operator
@@ -55388,8 +55388,8 @@ succumb hangover empathy hotdog mercury neptune
 1
 21 5
 2
-0 37 20 9
 0 33 2 3
+0 37 20 9
 1
 end_operator
 begin_operator
@@ -55397,8 +55397,8 @@ succumb hangover empathy hotdog neptune mars
 1
 21 5
 2
-0 37 20 9
 0 33 3 1
+0 37 20 9
 1
 end_operator
 begin_operator
@@ -55406,8 +55406,8 @@ succumb hangover empathy lobster mars jupiter
 1
 21 6
 2
-0 37 20 11
 0 33 1 0
+0 37 20 11
 1
 end_operator
 begin_operator
@@ -55415,8 +55415,8 @@ succumb hangover empathy lobster mercury neptune
 1
 21 6
 2
-0 37 20 11
 0 33 2 3
+0 37 20 11
 1
 end_operator
 begin_operator
@@ -55424,8 +55424,8 @@ succumb hangover empathy lobster neptune mars
 1
 21 6
 2
-0 37 20 11
 0 33 3 1
+0 37 20 11
 1
 end_operator
 begin_operator
@@ -55433,8 +55433,8 @@ succumb hangover empathy wonderbread mars jupiter
 1
 21 7
 2
-0 37 20 18
 0 33 1 0
+0 37 20 18
 1
 end_operator
 begin_operator
@@ -55442,8 +55442,8 @@ succumb hangover empathy wonderbread mercury neptune
 1
 21 7
 2
-0 37 20 18
 0 33 2 3
+0 37 20 18
 1
 end_operator
 begin_operator
@@ -55451,8 +55451,8 @@ succumb hangover empathy wonderbread neptune mars
 1
 21 7
 2
-0 37 20 18
 0 33 3 1
+0 37 20 18
 1
 end_operator
 begin_operator
@@ -56432,8 +56432,8 @@ succumb hangover triumph bacon mars jupiter
 1
 22 0
 2
-0 37 24 1
 0 36 1 0
+0 37 24 1
 1
 end_operator
 begin_operator
@@ -56441,8 +56441,8 @@ succumb hangover triumph bacon mercury neptune
 1
 22 0
 2
-0 37 24 1
 0 36 2 3
+0 37 24 1
 1
 end_operator
 begin_operator
@@ -56450,8 +56450,8 @@ succumb hangover triumph bacon neptune mars
 1
 22 0
 2
-0 37 24 1
 0 36 3 1
+0 37 24 1
 1
 end_operator
 begin_operator
@@ -56459,8 +56459,8 @@ succumb hangover triumph beef mars jupiter
 1
 22 1
 2
-0 37 24 2
 0 36 1 0
+0 37 24 2
 1
 end_operator
 begin_operator
@@ -56468,8 +56468,8 @@ succumb hangover triumph beef mercury neptune
 1
 22 1
 2
-0 37 24 2
 0 36 2 3
+0 37 24 2
 1
 end_operator
 begin_operator
@@ -56477,8 +56477,8 @@ succumb hangover triumph beef neptune mars
 1
 22 1
 2
-0 37 24 2
 0 36 3 1
+0 37 24 2
 1
 end_operator
 begin_operator
@@ -56486,8 +56486,8 @@ succumb hangover triumph chicken mars jupiter
 1
 22 2
 2
-0 37 24 4
 0 36 1 0
+0 37 24 4
 1
 end_operator
 begin_operator
@@ -56495,8 +56495,8 @@ succumb hangover triumph chicken mercury neptune
 1
 22 2
 2
-0 37 24 4
 0 36 2 3
+0 37 24 4
 1
 end_operator
 begin_operator
@@ -56504,8 +56504,8 @@ succumb hangover triumph chicken neptune mars
 1
 22 2
 2
-0 37 24 4
 0 36 3 1
+0 37 24 4
 1
 end_operator
 begin_operator
@@ -56513,8 +56513,8 @@ succumb hangover triumph grapefruit mars jupiter
 1
 22 3
 2
-0 37 24 6
 0 36 1 0
+0 37 24 6
 1
 end_operator
 begin_operator
@@ -56522,8 +56522,8 @@ succumb hangover triumph grapefruit mercury neptune
 1
 22 3
 2
-0 37 24 6
 0 36 2 3
+0 37 24 6
 1
 end_operator
 begin_operator
@@ -56531,8 +56531,8 @@ succumb hangover triumph grapefruit neptune mars
 1
 22 3
 2
-0 37 24 6
 0 36 3 1
+0 37 24 6
 1
 end_operator
 begin_operator
@@ -56540,8 +56540,8 @@ succumb hangover triumph haroset mars jupiter
 1
 22 4
 2
-0 37 24 8
 0 36 1 0
+0 37 24 8
 1
 end_operator
 begin_operator
@@ -56549,8 +56549,8 @@ succumb hangover triumph haroset mercury neptune
 1
 22 4
 2
-0 37 24 8
 0 36 2 3
+0 37 24 8
 1
 end_operator
 begin_operator
@@ -56558,8 +56558,8 @@ succumb hangover triumph haroset neptune mars
 1
 22 4
 2
-0 37 24 8
 0 36 3 1
+0 37 24 8
 1
 end_operator
 begin_operator
@@ -56567,8 +56567,8 @@ succumb hangover triumph hotdog mars jupiter
 1
 22 5
 2
-0 37 24 9
 0 36 1 0
+0 37 24 9
 1
 end_operator
 begin_operator
@@ -56576,8 +56576,8 @@ succumb hangover triumph hotdog mercury neptune
 1
 22 5
 2
-0 37 24 9
 0 36 2 3
+0 37 24 9
 1
 end_operator
 begin_operator
@@ -56585,8 +56585,8 @@ succumb hangover triumph hotdog neptune mars
 1
 22 5
 2
-0 37 24 9
 0 36 3 1
+0 37 24 9
 1
 end_operator
 begin_operator
@@ -56594,8 +56594,8 @@ succumb hangover triumph lobster mars jupiter
 1
 22 6
 2
-0 37 24 11
 0 36 1 0
+0 37 24 11
 1
 end_operator
 begin_operator
@@ -56603,8 +56603,8 @@ succumb hangover triumph lobster mercury neptune
 1
 22 6
 2
-0 37 24 11
 0 36 2 3
+0 37 24 11
 1
 end_operator
 begin_operator
@@ -56612,8 +56612,8 @@ succumb hangover triumph lobster neptune mars
 1
 22 6
 2
-0 37 24 11
 0 36 3 1
+0 37 24 11
 1
 end_operator
 begin_operator
@@ -56621,8 +56621,8 @@ succumb hangover triumph wonderbread mars jupiter
 1
 22 7
 2
-0 37 24 18
 0 36 1 0
+0 37 24 18
 1
 end_operator
 begin_operator
@@ -56630,8 +56630,8 @@ succumb hangover triumph wonderbread mercury neptune
 1
 22 7
 2
-0 37 24 18
 0 36 2 3
+0 37 24 18
 1
 end_operator
 begin_operator
@@ -56639,8 +56639,8 @@ succumb hangover triumph wonderbread neptune mars
 1
 22 7
 2
-0 37 24 18
 0 36 3 1
+0 37 24 18
 1
 end_operator
 begin_operator
@@ -56972,8 +56972,8 @@ succumb jealousy curiosity bacon mars jupiter
 1
 19 0
 2
-0 38 19 1
 0 32 1 0
+0 38 19 1
 1
 end_operator
 begin_operator
@@ -56981,8 +56981,8 @@ succumb jealousy curiosity bacon mercury neptune
 1
 19 0
 2
-0 38 19 1
 0 32 2 3
+0 38 19 1
 1
 end_operator
 begin_operator
@@ -56990,8 +56990,8 @@ succumb jealousy curiosity bacon neptune mars
 1
 19 0
 2
-0 38 19 1
 0 32 3 1
+0 38 19 1
 1
 end_operator
 begin_operator
@@ -56999,8 +56999,8 @@ succumb jealousy curiosity beef mars jupiter
 1
 19 1
 2
-0 38 19 2
 0 32 1 0
+0 38 19 2
 1
 end_operator
 begin_operator
@@ -57008,8 +57008,8 @@ succumb jealousy curiosity beef mercury neptune
 1
 19 1
 2
-0 38 19 2
 0 32 2 3
+0 38 19 2
 1
 end_operator
 begin_operator
@@ -57017,8 +57017,8 @@ succumb jealousy curiosity beef neptune mars
 1
 19 1
 2
-0 38 19 2
 0 32 3 1
+0 38 19 2
 1
 end_operator
 begin_operator
@@ -57026,8 +57026,8 @@ succumb jealousy curiosity chicken mars jupiter
 1
 19 2
 2
-0 38 19 4
 0 32 1 0
+0 38 19 4
 1
 end_operator
 begin_operator
@@ -57035,8 +57035,8 @@ succumb jealousy curiosity chicken mercury neptune
 1
 19 2
 2
-0 38 19 4
 0 32 2 3
+0 38 19 4
 1
 end_operator
 begin_operator
@@ -57044,8 +57044,8 @@ succumb jealousy curiosity chicken neptune mars
 1
 19 2
 2
-0 38 19 4
 0 32 3 1
+0 38 19 4
 1
 end_operator
 begin_operator
@@ -57053,8 +57053,8 @@ succumb jealousy curiosity grapefruit mars jupiter
 1
 19 3
 2
-0 38 19 6
 0 32 1 0
+0 38 19 6
 1
 end_operator
 begin_operator
@@ -57062,8 +57062,8 @@ succumb jealousy curiosity grapefruit mercury neptune
 1
 19 3
 2
-0 38 19 6
 0 32 2 3
+0 38 19 6
 1
 end_operator
 begin_operator
@@ -57071,8 +57071,8 @@ succumb jealousy curiosity grapefruit neptune mars
 1
 19 3
 2
-0 38 19 6
 0 32 3 1
+0 38 19 6
 1
 end_operator
 begin_operator
@@ -57080,8 +57080,8 @@ succumb jealousy curiosity haroset mars jupiter
 1
 19 4
 2
-0 38 19 8
 0 32 1 0
+0 38 19 8
 1
 end_operator
 begin_operator
@@ -57089,8 +57089,8 @@ succumb jealousy curiosity haroset mercury neptune
 1
 19 4
 2
-0 38 19 8
 0 32 2 3
+0 38 19 8
 1
 end_operator
 begin_operator
@@ -57098,8 +57098,8 @@ succumb jealousy curiosity haroset neptune mars
 1
 19 4
 2
-0 38 19 8
 0 32 3 1
+0 38 19 8
 1
 end_operator
 begin_operator
@@ -57107,8 +57107,8 @@ succumb jealousy curiosity hotdog mars jupiter
 1
 19 5
 2
-0 38 19 9
 0 32 1 0
+0 38 19 9
 1
 end_operator
 begin_operator
@@ -57116,8 +57116,8 @@ succumb jealousy curiosity hotdog mercury neptune
 1
 19 5
 2
-0 38 19 9
 0 32 2 3
+0 38 19 9
 1
 end_operator
 begin_operator
@@ -57125,8 +57125,8 @@ succumb jealousy curiosity hotdog neptune mars
 1
 19 5
 2
-0 38 19 9
 0 32 3 1
+0 38 19 9
 1
 end_operator
 begin_operator
@@ -57134,8 +57134,8 @@ succumb jealousy curiosity lobster mars jupiter
 1
 19 6
 2
-0 38 19 11
 0 32 1 0
+0 38 19 11
 1
 end_operator
 begin_operator
@@ -57143,8 +57143,8 @@ succumb jealousy curiosity lobster mercury neptune
 1
 19 6
 2
-0 38 19 11
 0 32 2 3
+0 38 19 11
 1
 end_operator
 begin_operator
@@ -57152,8 +57152,8 @@ succumb jealousy curiosity lobster neptune mars
 1
 19 6
 2
-0 38 19 11
 0 32 3 1
+0 38 19 11
 1
 end_operator
 begin_operator
@@ -57161,8 +57161,8 @@ succumb jealousy curiosity wonderbread mars jupiter
 1
 19 7
 2
-0 38 19 18
 0 32 1 0
+0 38 19 18
 1
 end_operator
 begin_operator
@@ -57170,8 +57170,8 @@ succumb jealousy curiosity wonderbread mercury neptune
 1
 19 7
 2
-0 38 19 18
 0 32 2 3
+0 38 19 18
 1
 end_operator
 begin_operator
@@ -57179,8 +57179,8 @@ succumb jealousy curiosity wonderbread neptune mars
 1
 19 7
 2
-0 38 19 18
 0 32 3 1
+0 38 19 18
 1
 end_operator
 begin_operator
@@ -57188,8 +57188,8 @@ succumb jealousy empathy bacon mars jupiter
 1
 21 0
 2
-0 38 20 1
 0 33 1 0
+0 38 20 1
 1
 end_operator
 begin_operator
@@ -57197,8 +57197,8 @@ succumb jealousy empathy bacon mercury neptune
 1
 21 0
 2
-0 38 20 1
 0 33 2 3
+0 38 20 1
 1
 end_operator
 begin_operator
@@ -57206,8 +57206,8 @@ succumb jealousy empathy bacon neptune mars
 1
 21 0
 2
-0 38 20 1
 0 33 3 1
+0 38 20 1
 1
 end_operator
 begin_operator
@@ -57215,8 +57215,8 @@ succumb jealousy empathy beef mars jupiter
 1
 21 1
 2
-0 38 20 2
 0 33 1 0
+0 38 20 2
 1
 end_operator
 begin_operator
@@ -57224,8 +57224,8 @@ succumb jealousy empathy beef mercury neptune
 1
 21 1
 2
-0 38 20 2
 0 33 2 3
+0 38 20 2
 1
 end_operator
 begin_operator
@@ -57233,8 +57233,8 @@ succumb jealousy empathy beef neptune mars
 1
 21 1
 2
-0 38 20 2
 0 33 3 1
+0 38 20 2
 1
 end_operator
 begin_operator
@@ -57242,8 +57242,8 @@ succumb jealousy empathy chicken mars jupiter
 1
 21 2
 2
-0 38 20 4
 0 33 1 0
+0 38 20 4
 1
 end_operator
 begin_operator
@@ -57251,8 +57251,8 @@ succumb jealousy empathy chicken mercury neptune
 1
 21 2
 2
-0 38 20 4
 0 33 2 3
+0 38 20 4
 1
 end_operator
 begin_operator
@@ -57260,8 +57260,8 @@ succumb jealousy empathy chicken neptune mars
 1
 21 2
 2
-0 38 20 4
 0 33 3 1
+0 38 20 4
 1
 end_operator
 begin_operator
@@ -57269,8 +57269,8 @@ succumb jealousy empathy grapefruit mars jupiter
 1
 21 3
 2
-0 38 20 6
 0 33 1 0
+0 38 20 6
 1
 end_operator
 begin_operator
@@ -57278,8 +57278,8 @@ succumb jealousy empathy grapefruit mercury neptune
 1
 21 3
 2
-0 38 20 6
 0 33 2 3
+0 38 20 6
 1
 end_operator
 begin_operator
@@ -57287,8 +57287,8 @@ succumb jealousy empathy grapefruit neptune mars
 1
 21 3
 2
-0 38 20 6
 0 33 3 1
+0 38 20 6
 1
 end_operator
 begin_operator
@@ -57296,8 +57296,8 @@ succumb jealousy empathy haroset mars jupiter
 1
 21 4
 2
-0 38 20 8
 0 33 1 0
+0 38 20 8
 1
 end_operator
 begin_operator
@@ -57305,8 +57305,8 @@ succumb jealousy empathy haroset mercury neptune
 1
 21 4
 2
-0 38 20 8
 0 33 2 3
+0 38 20 8
 1
 end_operator
 begin_operator
@@ -57314,8 +57314,8 @@ succumb jealousy empathy haroset neptune mars
 1
 21 4
 2
-0 38 20 8
 0 33 3 1
+0 38 20 8
 1
 end_operator
 begin_operator
@@ -57323,8 +57323,8 @@ succumb jealousy empathy hotdog mars jupiter
 1
 21 5
 2
-0 38 20 9
 0 33 1 0
+0 38 20 9
 1
 end_operator
 begin_operator
@@ -57332,8 +57332,8 @@ succumb jealousy empathy hotdog mercury neptune
 1
 21 5
 2
-0 38 20 9
 0 33 2 3
+0 38 20 9
 1
 end_operator
 begin_operator
@@ -57341,8 +57341,8 @@ succumb jealousy empathy hotdog neptune mars
 1
 21 5
 2
-0 38 20 9
 0 33 3 1
+0 38 20 9
 1
 end_operator
 begin_operator
@@ -57350,8 +57350,8 @@ succumb jealousy empathy lobster mars jupiter
 1
 21 6
 2
-0 38 20 11
 0 33 1 0
+0 38 20 11
 1
 end_operator
 begin_operator
@@ -57359,8 +57359,8 @@ succumb jealousy empathy lobster mercury neptune
 1
 21 6
 2
-0 38 20 11
 0 33 2 3
+0 38 20 11
 1
 end_operator
 begin_operator
@@ -57368,8 +57368,8 @@ succumb jealousy empathy lobster neptune mars
 1
 21 6
 2
-0 38 20 11
 0 33 3 1
+0 38 20 11
 1
 end_operator
 begin_operator
@@ -57377,8 +57377,8 @@ succumb jealousy empathy wonderbread mars jupiter
 1
 21 7
 2
-0 38 20 18
 0 33 1 0
+0 38 20 18
 1
 end_operator
 begin_operator
@@ -57386,8 +57386,8 @@ succumb jealousy empathy wonderbread mercury neptune
 1
 21 7
 2
-0 38 20 18
 0 33 2 3
+0 38 20 18
 1
 end_operator
 begin_operator
@@ -57395,8 +57395,8 @@ succumb jealousy empathy wonderbread neptune mars
 1
 21 7
 2
-0 38 20 18
 0 33 3 1
+0 38 20 18
 1
 end_operator
 begin_operator
@@ -58376,8 +58376,8 @@ succumb jealousy triumph bacon mars jupiter
 1
 22 0
 2
-0 38 24 1
 0 36 1 0
+0 38 24 1
 1
 end_operator
 begin_operator
@@ -58385,8 +58385,8 @@ succumb jealousy triumph bacon mercury neptune
 1
 22 0
 2
-0 38 24 1
 0 36 2 3
+0 38 24 1
 1
 end_operator
 begin_operator
@@ -58394,8 +58394,8 @@ succumb jealousy triumph bacon neptune mars
 1
 22 0
 2
-0 38 24 1
 0 36 3 1
+0 38 24 1
 1
 end_operator
 begin_operator
@@ -58403,8 +58403,8 @@ succumb jealousy triumph beef mars jupiter
 1
 22 1
 2
-0 38 24 2
 0 36 1 0
+0 38 24 2
 1
 end_operator
 begin_operator
@@ -58412,8 +58412,8 @@ succumb jealousy triumph beef mercury neptune
 1
 22 1
 2
-0 38 24 2
 0 36 2 3
+0 38 24 2
 1
 end_operator
 begin_operator
@@ -58421,8 +58421,8 @@ succumb jealousy triumph beef neptune mars
 1
 22 1
 2
-0 38 24 2
 0 36 3 1
+0 38 24 2
 1
 end_operator
 begin_operator
@@ -58430,8 +58430,8 @@ succumb jealousy triumph chicken mars jupiter
 1
 22 2
 2
-0 38 24 4
 0 36 1 0
+0 38 24 4
 1
 end_operator
 begin_operator
@@ -58439,8 +58439,8 @@ succumb jealousy triumph chicken mercury neptune
 1
 22 2
 2
-0 38 24 4
 0 36 2 3
+0 38 24 4
 1
 end_operator
 begin_operator
@@ -58448,8 +58448,8 @@ succumb jealousy triumph chicken neptune mars
 1
 22 2
 2
-0 38 24 4
 0 36 3 1
+0 38 24 4
 1
 end_operator
 begin_operator
@@ -58457,8 +58457,8 @@ succumb jealousy triumph grapefruit mars jupiter
 1
 22 3
 2
-0 38 24 6
 0 36 1 0
+0 38 24 6
 1
 end_operator
 begin_operator
@@ -58466,8 +58466,8 @@ succumb jealousy triumph grapefruit mercury neptune
 1
 22 3
 2
-0 38 24 6
 0 36 2 3
+0 38 24 6
 1
 end_operator
 begin_operator
@@ -58475,8 +58475,8 @@ succumb jealousy triumph grapefruit neptune mars
 1
 22 3
 2
-0 38 24 6
 0 36 3 1
+0 38 24 6
 1
 end_operator
 begin_operator
@@ -58484,8 +58484,8 @@ succumb jealousy triumph haroset mars jupiter
 1
 22 4
 2
-0 38 24 8
 0 36 1 0
+0 38 24 8
 1
 end_operator
 begin_operator
@@ -58493,8 +58493,8 @@ succumb jealousy triumph haroset mercury neptune
 1
 22 4
 2
-0 38 24 8
 0 36 2 3
+0 38 24 8
 1
 end_operator
 begin_operator
@@ -58502,8 +58502,8 @@ succumb jealousy triumph haroset neptune mars
 1
 22 4
 2
-0 38 24 8
 0 36 3 1
+0 38 24 8
 1
 end_operator
 begin_operator
@@ -58511,8 +58511,8 @@ succumb jealousy triumph hotdog mars jupiter
 1
 22 5
 2
-0 38 24 9
 0 36 1 0
+0 38 24 9
 1
 end_operator
 begin_operator
@@ -58520,8 +58520,8 @@ succumb jealousy triumph hotdog mercury neptune
 1
 22 5
 2
-0 38 24 9
 0 36 2 3
+0 38 24 9
 1
 end_operator
 begin_operator
@@ -58529,8 +58529,8 @@ succumb jealousy triumph hotdog neptune mars
 1
 22 5
 2
-0 38 24 9
 0 36 3 1
+0 38 24 9
 1
 end_operator
 begin_operator
@@ -58538,8 +58538,8 @@ succumb jealousy triumph lobster mars jupiter
 1
 22 6
 2
-0 38 24 11
 0 36 1 0
+0 38 24 11
 1
 end_operator
 begin_operator
@@ -58547,8 +58547,8 @@ succumb jealousy triumph lobster mercury neptune
 1
 22 6
 2
-0 38 24 11
 0 36 2 3
+0 38 24 11
 1
 end_operator
 begin_operator
@@ -58556,8 +58556,8 @@ succumb jealousy triumph lobster neptune mars
 1
 22 6
 2
-0 38 24 11
 0 36 3 1
+0 38 24 11
 1
 end_operator
 begin_operator
@@ -58565,8 +58565,8 @@ succumb jealousy triumph wonderbread mars jupiter
 1
 22 7
 2
-0 38 24 18
 0 36 1 0
+0 38 24 18
 1
 end_operator
 begin_operator
@@ -58574,8 +58574,8 @@ succumb jealousy triumph wonderbread mercury neptune
 1
 22 7
 2
-0 38 24 18
 0 36 2 3
+0 38 24 18
 1
 end_operator
 begin_operator
@@ -58583,8 +58583,8 @@ succumb jealousy triumph wonderbread neptune mars
 1
 22 7
 2
-0 38 24 18
 0 36 3 1
+0 38 24 18
 1
 end_operator
 begin_operator
@@ -58916,8 +58916,8 @@ succumb laceration curiosity bacon mars jupiter
 1
 19 0
 2
-0 46 19 1
 0 32 1 0
+0 46 19 1
 1
 end_operator
 begin_operator
@@ -58925,8 +58925,8 @@ succumb laceration curiosity bacon mercury neptune
 1
 19 0
 2
-0 46 19 1
 0 32 2 3
+0 46 19 1
 1
 end_operator
 begin_operator
@@ -58934,8 +58934,8 @@ succumb laceration curiosity bacon neptune mars
 1
 19 0
 2
-0 46 19 1
 0 32 3 1
+0 46 19 1
 1
 end_operator
 begin_operator
@@ -58943,8 +58943,8 @@ succumb laceration curiosity beef mars jupiter
 1
 19 1
 2
-0 46 19 2
 0 32 1 0
+0 46 19 2
 1
 end_operator
 begin_operator
@@ -58952,8 +58952,8 @@ succumb laceration curiosity beef mercury neptune
 1
 19 1
 2
-0 46 19 2
 0 32 2 3
+0 46 19 2
 1
 end_operator
 begin_operator
@@ -58961,8 +58961,8 @@ succumb laceration curiosity beef neptune mars
 1
 19 1
 2
-0 46 19 2
 0 32 3 1
+0 46 19 2
 1
 end_operator
 begin_operator
@@ -58970,8 +58970,8 @@ succumb laceration curiosity chicken mars jupiter
 1
 19 2
 2
-0 46 19 4
 0 32 1 0
+0 46 19 4
 1
 end_operator
 begin_operator
@@ -58979,8 +58979,8 @@ succumb laceration curiosity chicken mercury neptune
 1
 19 2
 2
-0 46 19 4
 0 32 2 3
+0 46 19 4
 1
 end_operator
 begin_operator
@@ -58988,8 +58988,8 @@ succumb laceration curiosity chicken neptune mars
 1
 19 2
 2
-0 46 19 4
 0 32 3 1
+0 46 19 4
 1
 end_operator
 begin_operator
@@ -58997,8 +58997,8 @@ succumb laceration curiosity grapefruit mars jupiter
 1
 19 3
 2
-0 46 19 6
 0 32 1 0
+0 46 19 6
 1
 end_operator
 begin_operator
@@ -59006,8 +59006,8 @@ succumb laceration curiosity grapefruit mercury neptune
 1
 19 3
 2
-0 46 19 6
 0 32 2 3
+0 46 19 6
 1
 end_operator
 begin_operator
@@ -59015,8 +59015,8 @@ succumb laceration curiosity grapefruit neptune mars
 1
 19 3
 2
-0 46 19 6
 0 32 3 1
+0 46 19 6
 1
 end_operator
 begin_operator
@@ -59024,8 +59024,8 @@ succumb laceration curiosity haroset mars jupiter
 1
 19 4
 2
-0 46 19 8
 0 32 1 0
+0 46 19 8
 1
 end_operator
 begin_operator
@@ -59033,8 +59033,8 @@ succumb laceration curiosity haroset mercury neptune
 1
 19 4
 2
-0 46 19 8
 0 32 2 3
+0 46 19 8
 1
 end_operator
 begin_operator
@@ -59042,8 +59042,8 @@ succumb laceration curiosity haroset neptune mars
 1
 19 4
 2
-0 46 19 8
 0 32 3 1
+0 46 19 8
 1
 end_operator
 begin_operator
@@ -59051,8 +59051,8 @@ succumb laceration curiosity hotdog mars jupiter
 1
 19 5
 2
-0 46 19 9
 0 32 1 0
+0 46 19 9
 1
 end_operator
 begin_operator
@@ -59060,8 +59060,8 @@ succumb laceration curiosity hotdog mercury neptune
 1
 19 5
 2
-0 46 19 9
 0 32 2 3
+0 46 19 9
 1
 end_operator
 begin_operator
@@ -59069,8 +59069,8 @@ succumb laceration curiosity hotdog neptune mars
 1
 19 5
 2
-0 46 19 9
 0 32 3 1
+0 46 19 9
 1
 end_operator
 begin_operator
@@ -59078,8 +59078,8 @@ succumb laceration curiosity lobster mars jupiter
 1
 19 6
 2
-0 46 19 11
 0 32 1 0
+0 46 19 11
 1
 end_operator
 begin_operator
@@ -59087,8 +59087,8 @@ succumb laceration curiosity lobster mercury neptune
 1
 19 6
 2
-0 46 19 11
 0 32 2 3
+0 46 19 11
 1
 end_operator
 begin_operator
@@ -59096,8 +59096,8 @@ succumb laceration curiosity lobster neptune mars
 1
 19 6
 2
-0 46 19 11
 0 32 3 1
+0 46 19 11
 1
 end_operator
 begin_operator
@@ -59105,8 +59105,8 @@ succumb laceration curiosity wonderbread mars jupiter
 1
 19 7
 2
-0 46 19 18
 0 32 1 0
+0 46 19 18
 1
 end_operator
 begin_operator
@@ -59114,8 +59114,8 @@ succumb laceration curiosity wonderbread mercury neptune
 1
 19 7
 2
-0 46 19 18
 0 32 2 3
+0 46 19 18
 1
 end_operator
 begin_operator
@@ -59123,8 +59123,8 @@ succumb laceration curiosity wonderbread neptune mars
 1
 19 7
 2
-0 46 19 18
 0 32 3 1
+0 46 19 18
 1
 end_operator
 begin_operator
@@ -59132,8 +59132,8 @@ succumb laceration empathy bacon mars jupiter
 1
 21 0
 2
-0 46 20 1
 0 33 1 0
+0 46 20 1
 1
 end_operator
 begin_operator
@@ -59141,8 +59141,8 @@ succumb laceration empathy bacon mercury neptune
 1
 21 0
 2
-0 46 20 1
 0 33 2 3
+0 46 20 1
 1
 end_operator
 begin_operator
@@ -59150,8 +59150,8 @@ succumb laceration empathy bacon neptune mars
 1
 21 0
 2
-0 46 20 1
 0 33 3 1
+0 46 20 1
 1
 end_operator
 begin_operator
@@ -59159,8 +59159,8 @@ succumb laceration empathy beef mars jupiter
 1
 21 1
 2
-0 46 20 2
 0 33 1 0
+0 46 20 2
 1
 end_operator
 begin_operator
@@ -59168,8 +59168,8 @@ succumb laceration empathy beef mercury neptune
 1
 21 1
 2
-0 46 20 2
 0 33 2 3
+0 46 20 2
 1
 end_operator
 begin_operator
@@ -59177,8 +59177,8 @@ succumb laceration empathy beef neptune mars
 1
 21 1
 2
-0 46 20 2
 0 33 3 1
+0 46 20 2
 1
 end_operator
 begin_operator
@@ -59186,8 +59186,8 @@ succumb laceration empathy chicken mars jupiter
 1
 21 2
 2
-0 46 20 4
 0 33 1 0
+0 46 20 4
 1
 end_operator
 begin_operator
@@ -59195,8 +59195,8 @@ succumb laceration empathy chicken mercury neptune
 1
 21 2
 2
-0 46 20 4
 0 33 2 3
+0 46 20 4
 1
 end_operator
 begin_operator
@@ -59204,8 +59204,8 @@ succumb laceration empathy chicken neptune mars
 1
 21 2
 2
-0 46 20 4
 0 33 3 1
+0 46 20 4
 1
 end_operator
 begin_operator
@@ -59213,8 +59213,8 @@ succumb laceration empathy grapefruit mars jupiter
 1
 21 3
 2
-0 46 20 6
 0 33 1 0
+0 46 20 6
 1
 end_operator
 begin_operator
@@ -59222,8 +59222,8 @@ succumb laceration empathy grapefruit mercury neptune
 1
 21 3
 2
-0 46 20 6
 0 33 2 3
+0 46 20 6
 1
 end_operator
 begin_operator
@@ -59231,8 +59231,8 @@ succumb laceration empathy grapefruit neptune mars
 1
 21 3
 2
-0 46 20 6
 0 33 3 1
+0 46 20 6
 1
 end_operator
 begin_operator
@@ -59240,8 +59240,8 @@ succumb laceration empathy haroset mars jupiter
 1
 21 4
 2
-0 46 20 8
 0 33 1 0
+0 46 20 8
 1
 end_operator
 begin_operator
@@ -59249,8 +59249,8 @@ succumb laceration empathy haroset mercury neptune
 1
 21 4
 2
-0 46 20 8
 0 33 2 3
+0 46 20 8
 1
 end_operator
 begin_operator
@@ -59258,8 +59258,8 @@ succumb laceration empathy haroset neptune mars
 1
 21 4
 2
-0 46 20 8
 0 33 3 1
+0 46 20 8
 1
 end_operator
 begin_operator
@@ -59267,8 +59267,8 @@ succumb laceration empathy hotdog mars jupiter
 1
 21 5
 2
-0 46 20 9
 0 33 1 0
+0 46 20 9
 1
 end_operator
 begin_operator
@@ -59276,8 +59276,8 @@ succumb laceration empathy hotdog mercury neptune
 1
 21 5
 2
-0 46 20 9
 0 33 2 3
+0 46 20 9
 1
 end_operator
 begin_operator
@@ -59285,8 +59285,8 @@ succumb laceration empathy hotdog neptune mars
 1
 21 5
 2
-0 46 20 9
 0 33 3 1
+0 46 20 9
 1
 end_operator
 begin_operator
@@ -59294,8 +59294,8 @@ succumb laceration empathy lobster mars jupiter
 1
 21 6
 2
-0 46 20 11
 0 33 1 0
+0 46 20 11
 1
 end_operator
 begin_operator
@@ -59303,8 +59303,8 @@ succumb laceration empathy lobster mercury neptune
 1
 21 6
 2
-0 46 20 11
 0 33 2 3
+0 46 20 11
 1
 end_operator
 begin_operator
@@ -59312,8 +59312,8 @@ succumb laceration empathy lobster neptune mars
 1
 21 6
 2
-0 46 20 11
 0 33 3 1
+0 46 20 11
 1
 end_operator
 begin_operator
@@ -59321,8 +59321,8 @@ succumb laceration empathy wonderbread mars jupiter
 1
 21 7
 2
-0 46 20 18
 0 33 1 0
+0 46 20 18
 1
 end_operator
 begin_operator
@@ -59330,8 +59330,8 @@ succumb laceration empathy wonderbread mercury neptune
 1
 21 7
 2
-0 46 20 18
 0 33 2 3
+0 46 20 18
 1
 end_operator
 begin_operator
@@ -59339,8 +59339,8 @@ succumb laceration empathy wonderbread neptune mars
 1
 21 7
 2
-0 46 20 18
 0 33 3 1
+0 46 20 18
 1
 end_operator
 begin_operator
@@ -59348,8 +59348,8 @@ succumb laceration intoxication apple mars jupiter
 1
 7 0
 2
-0 46 21 0
 0 40 1 0
+0 46 21 0
 1
 end_operator
 begin_operator
@@ -59357,8 +59357,8 @@ succumb laceration intoxication apple mercury neptune
 1
 7 0
 2
-0 46 21 0
 0 40 2 3
+0 46 21 0
 1
 end_operator
 begin_operator
@@ -59366,8 +59366,8 @@ succumb laceration intoxication apple neptune mars
 1
 7 0
 2
-0 46 21 0
 0 40 3 1
+0 46 21 0
 1
 end_operator
 begin_operator
@@ -59375,8 +59375,8 @@ succumb laceration intoxication cherry mars jupiter
 1
 7 1
 2
-0 46 21 3
 0 40 1 0
+0 46 21 3
 1
 end_operator
 begin_operator
@@ -59384,8 +59384,8 @@ succumb laceration intoxication cherry mercury neptune
 1
 7 1
 2
-0 46 21 3
 0 40 2 3
+0 46 21 3
 1
 end_operator
 begin_operator
@@ -59393,8 +59393,8 @@ succumb laceration intoxication cherry neptune mars
 1
 7 1
 2
-0 46 21 3
 0 40 3 1
+0 46 21 3
 1
 end_operator
 begin_operator
@@ -59402,8 +59402,8 @@ succumb laceration intoxication flounder mars jupiter
 1
 7 2
 2
-0 46 21 5
 0 40 1 0
+0 46 21 5
 1
 end_operator
 begin_operator
@@ -59411,8 +59411,8 @@ succumb laceration intoxication flounder mercury neptune
 1
 7 2
 2
-0 46 21 5
 0 40 2 3
+0 46 21 5
 1
 end_operator
 begin_operator
@@ -59420,8 +59420,8 @@ succumb laceration intoxication flounder neptune mars
 1
 7 2
 2
-0 46 21 5
 0 40 3 1
+0 46 21 5
 1
 end_operator
 begin_operator
@@ -59429,8 +59429,8 @@ succumb laceration intoxication ham mars jupiter
 1
 7 3
 2
-0 46 21 7
 0 40 1 0
+0 46 21 7
 1
 end_operator
 begin_operator
@@ -59438,8 +59438,8 @@ succumb laceration intoxication ham mercury neptune
 1
 7 3
 2
-0 46 21 7
 0 40 2 3
+0 46 21 7
 1
 end_operator
 begin_operator
@@ -59447,8 +59447,8 @@ succumb laceration intoxication ham neptune mars
 1
 7 3
 2
-0 46 21 7
 0 40 3 1
+0 46 21 7
 1
 end_operator
 begin_operator
@@ -59456,8 +59456,8 @@ succumb laceration intoxication hotdog mars jupiter
 1
 7 4
 2
-0 46 21 9
 0 40 1 0
+0 46 21 9
 1
 end_operator
 begin_operator
@@ -59465,8 +59465,8 @@ succumb laceration intoxication hotdog mercury neptune
 1
 7 4
 2
-0 46 21 9
 0 40 2 3
+0 46 21 9
 1
 end_operator
 begin_operator
@@ -59474,8 +59474,8 @@ succumb laceration intoxication hotdog neptune mars
 1
 7 4
 2
-0 46 21 9
 0 40 3 1
+0 46 21 9
 1
 end_operator
 begin_operator
@@ -59483,8 +59483,8 @@ succumb laceration intoxication lamb mars jupiter
 1
 7 5
 2
-0 46 21 10
 0 40 1 0
+0 46 21 10
 1
 end_operator
 begin_operator
@@ -59492,8 +59492,8 @@ succumb laceration intoxication lamb mercury neptune
 1
 7 5
 2
-0 46 21 10
 0 40 2 3
+0 46 21 10
 1
 end_operator
 begin_operator
@@ -59501,8 +59501,8 @@ succumb laceration intoxication lamb neptune mars
 1
 7 5
 2
-0 46 21 10
 0 40 3 1
+0 46 21 10
 1
 end_operator
 begin_operator
@@ -59510,8 +59510,8 @@ succumb laceration intoxication okra mars jupiter
 1
 7 6
 2
-0 46 21 12
 0 40 1 0
+0 46 21 12
 1
 end_operator
 begin_operator
@@ -59519,8 +59519,8 @@ succumb laceration intoxication okra mercury neptune
 1
 7 6
 2
-0 46 21 12
 0 40 2 3
+0 46 21 12
 1
 end_operator
 begin_operator
@@ -59528,8 +59528,8 @@ succumb laceration intoxication okra neptune mars
 1
 7 6
 2
-0 46 21 12
 0 40 3 1
+0 46 21 12
 1
 end_operator
 begin_operator
@@ -59537,8 +59537,8 @@ succumb laceration intoxication onion mars jupiter
 1
 7 7
 2
-0 46 21 13
 0 40 1 0
+0 46 21 13
 1
 end_operator
 begin_operator
@@ -59546,8 +59546,8 @@ succumb laceration intoxication onion mercury neptune
 1
 7 7
 2
-0 46 21 13
 0 40 2 3
+0 46 21 13
 1
 end_operator
 begin_operator
@@ -59555,8 +59555,8 @@ succumb laceration intoxication onion neptune mars
 1
 7 7
 2
-0 46 21 13
 0 40 3 1
+0 46 21 13
 1
 end_operator
 begin_operator
@@ -59564,8 +59564,8 @@ succumb laceration intoxication papaya mars jupiter
 1
 7 8
 2
-0 46 21 14
 0 40 1 0
+0 46 21 14
 1
 end_operator
 begin_operator
@@ -59573,8 +59573,8 @@ succumb laceration intoxication papaya mercury neptune
 1
 7 8
 2
-0 46 21 14
 0 40 2 3
+0 46 21 14
 1
 end_operator
 begin_operator
@@ -59582,8 +59582,8 @@ succumb laceration intoxication papaya neptune mars
 1
 7 8
 2
-0 46 21 14
 0 40 3 1
+0 46 21 14
 1
 end_operator
 begin_operator
@@ -59591,8 +59591,8 @@ succumb laceration intoxication pistachio mars jupiter
 1
 7 9
 2
-0 46 21 15
 0 40 1 0
+0 46 21 15
 1
 end_operator
 begin_operator
@@ -59600,8 +59600,8 @@ succumb laceration intoxication pistachio mercury neptune
 1
 7 9
 2
-0 46 21 15
 0 40 2 3
+0 46 21 15
 1
 end_operator
 begin_operator
@@ -59609,8 +59609,8 @@ succumb laceration intoxication pistachio neptune mars
 1
 7 9
 2
-0 46 21 15
 0 40 3 1
+0 46 21 15
 1
 end_operator
 begin_operator
@@ -59618,8 +59618,8 @@ succumb laceration intoxication scallop mars jupiter
 1
 7 10
 2
-0 46 21 16
 0 40 1 0
+0 46 21 16
 1
 end_operator
 begin_operator
@@ -59627,8 +59627,8 @@ succumb laceration intoxication scallop mercury neptune
 1
 7 10
 2
-0 46 21 16
 0 40 2 3
+0 46 21 16
 1
 end_operator
 begin_operator
@@ -59636,8 +59636,8 @@ succumb laceration intoxication scallop neptune mars
 1
 7 10
 2
-0 46 21 16
 0 40 3 1
+0 46 21 16
 1
 end_operator
 begin_operator
@@ -59645,8 +59645,8 @@ succumb laceration intoxication sweetroll mars jupiter
 1
 7 11
 2
-0 46 21 17
 0 40 1 0
+0 46 21 17
 1
 end_operator
 begin_operator
@@ -59654,8 +59654,8 @@ succumb laceration intoxication sweetroll mercury neptune
 1
 7 11
 2
-0 46 21 17
 0 40 2 3
+0 46 21 17
 1
 end_operator
 begin_operator
@@ -59663,8 +59663,8 @@ succumb laceration intoxication sweetroll neptune mars
 1
 7 11
 2
-0 46 21 17
 0 40 3 1
+0 46 21 17
 1
 end_operator
 begin_operator
@@ -59672,8 +59672,8 @@ succumb laceration learning apple mars jupiter
 1
 9 0
 2
-0 46 22 0
 0 41 1 0
+0 46 22 0
 1
 end_operator
 begin_operator
@@ -59681,8 +59681,8 @@ succumb laceration learning apple mercury neptune
 1
 9 0
 2
-0 46 22 0
 0 41 2 3
+0 46 22 0
 1
 end_operator
 begin_operator
@@ -59690,8 +59690,8 @@ succumb laceration learning apple neptune mars
 1
 9 0
 2
-0 46 22 0
 0 41 3 1
+0 46 22 0
 1
 end_operator
 begin_operator
@@ -59699,8 +59699,8 @@ succumb laceration learning cherry mars jupiter
 1
 9 1
 2
-0 46 22 3
 0 41 1 0
+0 46 22 3
 1
 end_operator
 begin_operator
@@ -59708,8 +59708,8 @@ succumb laceration learning cherry mercury neptune
 1
 9 1
 2
-0 46 22 3
 0 41 2 3
+0 46 22 3
 1
 end_operator
 begin_operator
@@ -59717,8 +59717,8 @@ succumb laceration learning cherry neptune mars
 1
 9 1
 2
-0 46 22 3
 0 41 3 1
+0 46 22 3
 1
 end_operator
 begin_operator
@@ -59726,8 +59726,8 @@ succumb laceration learning flounder mars jupiter
 1
 9 2
 2
-0 46 22 5
 0 41 1 0
+0 46 22 5
 1
 end_operator
 begin_operator
@@ -59735,8 +59735,8 @@ succumb laceration learning flounder mercury neptune
 1
 9 2
 2
-0 46 22 5
 0 41 2 3
+0 46 22 5
 1
 end_operator
 begin_operator
@@ -59744,8 +59744,8 @@ succumb laceration learning flounder neptune mars
 1
 9 2
 2
-0 46 22 5
 0 41 3 1
+0 46 22 5
 1
 end_operator
 begin_operator
@@ -59753,8 +59753,8 @@ succumb laceration learning ham mars jupiter
 1
 9 3
 2
-0 46 22 7
 0 41 1 0
+0 46 22 7
 1
 end_operator
 begin_operator
@@ -59762,8 +59762,8 @@ succumb laceration learning ham mercury neptune
 1
 9 3
 2
-0 46 22 7
 0 41 2 3
+0 46 22 7
 1
 end_operator
 begin_operator
@@ -59771,8 +59771,8 @@ succumb laceration learning ham neptune mars
 1
 9 3
 2
-0 46 22 7
 0 41 3 1
+0 46 22 7
 1
 end_operator
 begin_operator
@@ -59780,8 +59780,8 @@ succumb laceration learning hotdog mars jupiter
 1
 9 4
 2
-0 46 22 9
 0 41 1 0
+0 46 22 9
 1
 end_operator
 begin_operator
@@ -59789,8 +59789,8 @@ succumb laceration learning hotdog mercury neptune
 1
 9 4
 2
-0 46 22 9
 0 41 2 3
+0 46 22 9
 1
 end_operator
 begin_operator
@@ -59798,8 +59798,8 @@ succumb laceration learning hotdog neptune mars
 1
 9 4
 2
-0 46 22 9
 0 41 3 1
+0 46 22 9
 1
 end_operator
 begin_operator
@@ -59807,8 +59807,8 @@ succumb laceration learning lamb mars jupiter
 1
 9 5
 2
-0 46 22 10
 0 41 1 0
+0 46 22 10
 1
 end_operator
 begin_operator
@@ -59816,8 +59816,8 @@ succumb laceration learning lamb mercury neptune
 1
 9 5
 2
-0 46 22 10
 0 41 2 3
+0 46 22 10
 1
 end_operator
 begin_operator
@@ -59825,8 +59825,8 @@ succumb laceration learning lamb neptune mars
 1
 9 5
 2
-0 46 22 10
 0 41 3 1
+0 46 22 10
 1
 end_operator
 begin_operator
@@ -59834,8 +59834,8 @@ succumb laceration learning okra mars jupiter
 1
 9 6
 2
-0 46 22 12
 0 41 1 0
+0 46 22 12
 1
 end_operator
 begin_operator
@@ -59843,8 +59843,8 @@ succumb laceration learning okra mercury neptune
 1
 9 6
 2
-0 46 22 12
 0 41 2 3
+0 46 22 12
 1
 end_operator
 begin_operator
@@ -59852,8 +59852,8 @@ succumb laceration learning okra neptune mars
 1
 9 6
 2
-0 46 22 12
 0 41 3 1
+0 46 22 12
 1
 end_operator
 begin_operator
@@ -59861,8 +59861,8 @@ succumb laceration learning onion mars jupiter
 1
 9 7
 2
-0 46 22 13
 0 41 1 0
+0 46 22 13
 1
 end_operator
 begin_operator
@@ -59870,8 +59870,8 @@ succumb laceration learning onion mercury neptune
 1
 9 7
 2
-0 46 22 13
 0 41 2 3
+0 46 22 13
 1
 end_operator
 begin_operator
@@ -59879,8 +59879,8 @@ succumb laceration learning onion neptune mars
 1
 9 7
 2
-0 46 22 13
 0 41 3 1
+0 46 22 13
 1
 end_operator
 begin_operator
@@ -59888,8 +59888,8 @@ succumb laceration learning papaya mars jupiter
 1
 9 8
 2
-0 46 22 14
 0 41 1 0
+0 46 22 14
 1
 end_operator
 begin_operator
@@ -59897,8 +59897,8 @@ succumb laceration learning papaya mercury neptune
 1
 9 8
 2
-0 46 22 14
 0 41 2 3
+0 46 22 14
 1
 end_operator
 begin_operator
@@ -59906,8 +59906,8 @@ succumb laceration learning papaya neptune mars
 1
 9 8
 2
-0 46 22 14
 0 41 3 1
+0 46 22 14
 1
 end_operator
 begin_operator
@@ -59915,8 +59915,8 @@ succumb laceration learning pistachio mars jupiter
 1
 9 9
 2
-0 46 22 15
 0 41 1 0
+0 46 22 15
 1
 end_operator
 begin_operator
@@ -59924,8 +59924,8 @@ succumb laceration learning pistachio mercury neptune
 1
 9 9
 2
-0 46 22 15
 0 41 2 3
+0 46 22 15
 1
 end_operator
 begin_operator
@@ -59933,8 +59933,8 @@ succumb laceration learning pistachio neptune mars
 1
 9 9
 2
-0 46 22 15
 0 41 3 1
+0 46 22 15
 1
 end_operator
 begin_operator
@@ -59942,8 +59942,8 @@ succumb laceration learning scallop mars jupiter
 1
 9 10
 2
-0 46 22 16
 0 41 1 0
+0 46 22 16
 1
 end_operator
 begin_operator
@@ -59951,8 +59951,8 @@ succumb laceration learning scallop mercury neptune
 1
 9 10
 2
-0 46 22 16
 0 41 2 3
+0 46 22 16
 1
 end_operator
 begin_operator
@@ -59960,8 +59960,8 @@ succumb laceration learning scallop neptune mars
 1
 9 10
 2
-0 46 22 16
 0 41 3 1
+0 46 22 16
 1
 end_operator
 begin_operator
@@ -59969,8 +59969,8 @@ succumb laceration learning sweetroll mars jupiter
 1
 9 11
 2
-0 46 22 17
 0 41 1 0
+0 46 22 17
 1
 end_operator
 begin_operator
@@ -59978,8 +59978,8 @@ succumb laceration learning sweetroll mercury neptune
 1
 9 11
 2
-0 46 22 17
 0 41 2 3
+0 46 22 17
 1
 end_operator
 begin_operator
@@ -59987,8 +59987,8 @@ succumb laceration learning sweetroll neptune mars
 1
 9 11
 2
-0 46 22 17
 0 41 3 1
+0 46 22 17
 1
 end_operator
 begin_operator
@@ -59996,8 +59996,8 @@ succumb laceration satisfaction apple mars jupiter
 1
 11 0
 2
-0 46 23 0
 0 44 1 0
+0 46 23 0
 1
 end_operator
 begin_operator
@@ -60005,8 +60005,8 @@ succumb laceration satisfaction apple mercury neptune
 1
 11 0
 2
-0 46 23 0
 0 44 2 3
+0 46 23 0
 1
 end_operator
 begin_operator
@@ -60014,8 +60014,8 @@ succumb laceration satisfaction apple neptune mars
 1
 11 0
 2
-0 46 23 0
 0 44 3 1
+0 46 23 0
 1
 end_operator
 begin_operator
@@ -60023,8 +60023,8 @@ succumb laceration satisfaction cherry mars jupiter
 1
 11 1
 2
-0 46 23 3
 0 44 1 0
+0 46 23 3
 1
 end_operator
 begin_operator
@@ -60032,8 +60032,8 @@ succumb laceration satisfaction cherry mercury neptune
 1
 11 1
 2
-0 46 23 3
 0 44 2 3
+0 46 23 3
 1
 end_operator
 begin_operator
@@ -60041,8 +60041,8 @@ succumb laceration satisfaction cherry neptune mars
 1
 11 1
 2
-0 46 23 3
 0 44 3 1
+0 46 23 3
 1
 end_operator
 begin_operator
@@ -60050,8 +60050,8 @@ succumb laceration satisfaction flounder mars jupiter
 1
 11 2
 2
-0 46 23 5
 0 44 1 0
+0 46 23 5
 1
 end_operator
 begin_operator
@@ -60059,8 +60059,8 @@ succumb laceration satisfaction flounder mercury neptune
 1
 11 2
 2
-0 46 23 5
 0 44 2 3
+0 46 23 5
 1
 end_operator
 begin_operator
@@ -60068,8 +60068,8 @@ succumb laceration satisfaction flounder neptune mars
 1
 11 2
 2
-0 46 23 5
 0 44 3 1
+0 46 23 5
 1
 end_operator
 begin_operator
@@ -60077,8 +60077,8 @@ succumb laceration satisfaction ham mars jupiter
 1
 11 3
 2
-0 46 23 7
 0 44 1 0
+0 46 23 7
 1
 end_operator
 begin_operator
@@ -60086,8 +60086,8 @@ succumb laceration satisfaction ham mercury neptune
 1
 11 3
 2
-0 46 23 7
 0 44 2 3
+0 46 23 7
 1
 end_operator
 begin_operator
@@ -60095,8 +60095,8 @@ succumb laceration satisfaction ham neptune mars
 1
 11 3
 2
-0 46 23 7
 0 44 3 1
+0 46 23 7
 1
 end_operator
 begin_operator
@@ -60104,8 +60104,8 @@ succumb laceration satisfaction hotdog mars jupiter
 1
 11 4
 2
-0 46 23 9
 0 44 1 0
+0 46 23 9
 1
 end_operator
 begin_operator
@@ -60113,8 +60113,8 @@ succumb laceration satisfaction hotdog mercury neptune
 1
 11 4
 2
-0 46 23 9
 0 44 2 3
+0 46 23 9
 1
 end_operator
 begin_operator
@@ -60122,8 +60122,8 @@ succumb laceration satisfaction hotdog neptune mars
 1
 11 4
 2
-0 46 23 9
 0 44 3 1
+0 46 23 9
 1
 end_operator
 begin_operator
@@ -60131,8 +60131,8 @@ succumb laceration satisfaction lamb mars jupiter
 1
 11 5
 2
-0 46 23 10
 0 44 1 0
+0 46 23 10
 1
 end_operator
 begin_operator
@@ -60140,8 +60140,8 @@ succumb laceration satisfaction lamb mercury neptune
 1
 11 5
 2
-0 46 23 10
 0 44 2 3
+0 46 23 10
 1
 end_operator
 begin_operator
@@ -60149,8 +60149,8 @@ succumb laceration satisfaction lamb neptune mars
 1
 11 5
 2
-0 46 23 10
 0 44 3 1
+0 46 23 10
 1
 end_operator
 begin_operator
@@ -60158,8 +60158,8 @@ succumb laceration satisfaction okra mars jupiter
 1
 11 6
 2
-0 46 23 12
 0 44 1 0
+0 46 23 12
 1
 end_operator
 begin_operator
@@ -60167,8 +60167,8 @@ succumb laceration satisfaction okra mercury neptune
 1
 11 6
 2
-0 46 23 12
 0 44 2 3
+0 46 23 12
 1
 end_operator
 begin_operator
@@ -60176,8 +60176,8 @@ succumb laceration satisfaction okra neptune mars
 1
 11 6
 2
-0 46 23 12
 0 44 3 1
+0 46 23 12
 1
 end_operator
 begin_operator
@@ -60185,8 +60185,8 @@ succumb laceration satisfaction onion mars jupiter
 1
 11 7
 2
-0 46 23 13
 0 44 1 0
+0 46 23 13
 1
 end_operator
 begin_operator
@@ -60194,8 +60194,8 @@ succumb laceration satisfaction onion mercury neptune
 1
 11 7
 2
-0 46 23 13
 0 44 2 3
+0 46 23 13
 1
 end_operator
 begin_operator
@@ -60203,8 +60203,8 @@ succumb laceration satisfaction onion neptune mars
 1
 11 7
 2
-0 46 23 13
 0 44 3 1
+0 46 23 13
 1
 end_operator
 begin_operator
@@ -60212,8 +60212,8 @@ succumb laceration satisfaction papaya mars jupiter
 1
 11 8
 2
-0 46 23 14
 0 44 1 0
+0 46 23 14
 1
 end_operator
 begin_operator
@@ -60221,8 +60221,8 @@ succumb laceration satisfaction papaya mercury neptune
 1
 11 8
 2
-0 46 23 14
 0 44 2 3
+0 46 23 14
 1
 end_operator
 begin_operator
@@ -60230,8 +60230,8 @@ succumb laceration satisfaction papaya neptune mars
 1
 11 8
 2
-0 46 23 14
 0 44 3 1
+0 46 23 14
 1
 end_operator
 begin_operator
@@ -60239,8 +60239,8 @@ succumb laceration satisfaction pistachio mars jupiter
 1
 11 9
 2
-0 46 23 15
 0 44 1 0
+0 46 23 15
 1
 end_operator
 begin_operator
@@ -60248,8 +60248,8 @@ succumb laceration satisfaction pistachio mercury neptune
 1
 11 9
 2
-0 46 23 15
 0 44 2 3
+0 46 23 15
 1
 end_operator
 begin_operator
@@ -60257,8 +60257,8 @@ succumb laceration satisfaction pistachio neptune mars
 1
 11 9
 2
-0 46 23 15
 0 44 3 1
+0 46 23 15
 1
 end_operator
 begin_operator
@@ -60266,8 +60266,8 @@ succumb laceration satisfaction scallop mars jupiter
 1
 11 10
 2
-0 46 23 16
 0 44 1 0
+0 46 23 16
 1
 end_operator
 begin_operator
@@ -60275,8 +60275,8 @@ succumb laceration satisfaction scallop mercury neptune
 1
 11 10
 2
-0 46 23 16
 0 44 2 3
+0 46 23 16
 1
 end_operator
 begin_operator
@@ -60284,8 +60284,8 @@ succumb laceration satisfaction scallop neptune mars
 1
 11 10
 2
-0 46 23 16
 0 44 3 1
+0 46 23 16
 1
 end_operator
 begin_operator
@@ -60293,8 +60293,8 @@ succumb laceration satisfaction sweetroll mars jupiter
 1
 11 11
 2
-0 46 23 17
 0 44 1 0
+0 46 23 17
 1
 end_operator
 begin_operator
@@ -60302,8 +60302,8 @@ succumb laceration satisfaction sweetroll mercury neptune
 1
 11 11
 2
-0 46 23 17
 0 44 2 3
+0 46 23 17
 1
 end_operator
 begin_operator
@@ -60311,8 +60311,8 @@ succumb laceration satisfaction sweetroll neptune mars
 1
 11 11
 2
-0 46 23 17
 0 44 3 1
+0 46 23 17
 1
 end_operator
 begin_operator
@@ -60320,8 +60320,8 @@ succumb laceration triumph bacon mars jupiter
 1
 22 0
 2
-0 46 24 1
 0 36 1 0
+0 46 24 1
 1
 end_operator
 begin_operator
@@ -60329,8 +60329,8 @@ succumb laceration triumph bacon mercury neptune
 1
 22 0
 2
-0 46 24 1
 0 36 2 3
+0 46 24 1
 1
 end_operator
 begin_operator
@@ -60338,8 +60338,8 @@ succumb laceration triumph bacon neptune mars
 1
 22 0
 2
-0 46 24 1
 0 36 3 1
+0 46 24 1
 1
 end_operator
 begin_operator
@@ -60347,8 +60347,8 @@ succumb laceration triumph beef mars jupiter
 1
 22 1
 2
-0 46 24 2
 0 36 1 0
+0 46 24 2
 1
 end_operator
 begin_operator
@@ -60356,8 +60356,8 @@ succumb laceration triumph beef mercury neptune
 1
 22 1
 2
-0 46 24 2
 0 36 2 3
+0 46 24 2
 1
 end_operator
 begin_operator
@@ -60365,8 +60365,8 @@ succumb laceration triumph beef neptune mars
 1
 22 1
 2
-0 46 24 2
 0 36 3 1
+0 46 24 2
 1
 end_operator
 begin_operator
@@ -60374,8 +60374,8 @@ succumb laceration triumph chicken mars jupiter
 1
 22 2
 2
-0 46 24 4
 0 36 1 0
+0 46 24 4
 1
 end_operator
 begin_operator
@@ -60383,8 +60383,8 @@ succumb laceration triumph chicken mercury neptune
 1
 22 2
 2
-0 46 24 4
 0 36 2 3
+0 46 24 4
 1
 end_operator
 begin_operator
@@ -60392,8 +60392,8 @@ succumb laceration triumph chicken neptune mars
 1
 22 2
 2
-0 46 24 4
 0 36 3 1
+0 46 24 4
 1
 end_operator
 begin_operator
@@ -60401,8 +60401,8 @@ succumb laceration triumph grapefruit mars jupiter
 1
 22 3
 2
-0 46 24 6
 0 36 1 0
+0 46 24 6
 1
 end_operator
 begin_operator
@@ -60410,8 +60410,8 @@ succumb laceration triumph grapefruit mercury neptune
 1
 22 3
 2
-0 46 24 6
 0 36 2 3
+0 46 24 6
 1
 end_operator
 begin_operator
@@ -60419,8 +60419,8 @@ succumb laceration triumph grapefruit neptune mars
 1
 22 3
 2
-0 46 24 6
 0 36 3 1
+0 46 24 6
 1
 end_operator
 begin_operator
@@ -60428,8 +60428,8 @@ succumb laceration triumph haroset mars jupiter
 1
 22 4
 2
-0 46 24 8
 0 36 1 0
+0 46 24 8
 1
 end_operator
 begin_operator
@@ -60437,8 +60437,8 @@ succumb laceration triumph haroset mercury neptune
 1
 22 4
 2
-0 46 24 8
 0 36 2 3
+0 46 24 8
 1
 end_operator
 begin_operator
@@ -60446,8 +60446,8 @@ succumb laceration triumph haroset neptune mars
 1
 22 4
 2
-0 46 24 8
 0 36 3 1
+0 46 24 8
 1
 end_operator
 begin_operator
@@ -60455,8 +60455,8 @@ succumb laceration triumph hotdog mars jupiter
 1
 22 5
 2
-0 46 24 9
 0 36 1 0
+0 46 24 9
 1
 end_operator
 begin_operator
@@ -60464,8 +60464,8 @@ succumb laceration triumph hotdog mercury neptune
 1
 22 5
 2
-0 46 24 9
 0 36 2 3
+0 46 24 9
 1
 end_operator
 begin_operator
@@ -60473,8 +60473,8 @@ succumb laceration triumph hotdog neptune mars
 1
 22 5
 2
-0 46 24 9
 0 36 3 1
+0 46 24 9
 1
 end_operator
 begin_operator
@@ -60482,8 +60482,8 @@ succumb laceration triumph lobster mars jupiter
 1
 22 6
 2
-0 46 24 11
 0 36 1 0
+0 46 24 11
 1
 end_operator
 begin_operator
@@ -60491,8 +60491,8 @@ succumb laceration triumph lobster mercury neptune
 1
 22 6
 2
-0 46 24 11
 0 36 2 3
+0 46 24 11
 1
 end_operator
 begin_operator
@@ -60500,8 +60500,8 @@ succumb laceration triumph lobster neptune mars
 1
 22 6
 2
-0 46 24 11
 0 36 3 1
+0 46 24 11
 1
 end_operator
 begin_operator
@@ -60509,8 +60509,8 @@ succumb laceration triumph wonderbread mars jupiter
 1
 22 7
 2
-0 46 24 18
 0 36 1 0
+0 46 24 18
 1
 end_operator
 begin_operator
@@ -60518,8 +60518,8 @@ succumb laceration triumph wonderbread mercury neptune
 1
 22 7
 2
-0 46 24 18
 0 36 2 3
+0 46 24 18
 1
 end_operator
 begin_operator
@@ -60527,8 +60527,8 @@ succumb laceration triumph wonderbread neptune mars
 1
 22 7
 2
-0 46 24 18
 0 36 3 1
+0 46 24 18
 1
 end_operator
 begin_operator
@@ -60536,8 +60536,8 @@ succumb laceration understanding apple mars jupiter
 1
 12 0
 2
-0 46 25 0
 0 45 1 0
+0 46 25 0
 1
 end_operator
 begin_operator
@@ -60545,8 +60545,8 @@ succumb laceration understanding apple mercury neptune
 1
 12 0
 2
-0 46 25 0
 0 45 2 3
+0 46 25 0
 1
 end_operator
 begin_operator
@@ -60554,8 +60554,8 @@ succumb laceration understanding apple neptune mars
 1
 12 0
 2
-0 46 25 0
 0 45 3 1
+0 46 25 0
 1
 end_operator
 begin_operator
@@ -60563,8 +60563,8 @@ succumb laceration understanding cherry mars jupiter
 1
 12 1
 2
-0 46 25 3
 0 45 1 0
+0 46 25 3
 1
 end_operator
 begin_operator
@@ -60572,8 +60572,8 @@ succumb laceration understanding cherry mercury neptune
 1
 12 1
 2
-0 46 25 3
 0 45 2 3
+0 46 25 3
 1
 end_operator
 begin_operator
@@ -60581,8 +60581,8 @@ succumb laceration understanding cherry neptune mars
 1
 12 1
 2
-0 46 25 3
 0 45 3 1
+0 46 25 3
 1
 end_operator
 begin_operator
@@ -60590,8 +60590,8 @@ succumb laceration understanding flounder mars jupiter
 1
 12 2
 2
-0 46 25 5
 0 45 1 0
+0 46 25 5
 1
 end_operator
 begin_operator
@@ -60599,8 +60599,8 @@ succumb laceration understanding flounder mercury neptune
 1
 12 2
 2
-0 46 25 5
 0 45 2 3
+0 46 25 5
 1
 end_operator
 begin_operator
@@ -60608,8 +60608,8 @@ succumb laceration understanding flounder neptune mars
 1
 12 2
 2
-0 46 25 5
 0 45 3 1
+0 46 25 5
 1
 end_operator
 begin_operator
@@ -60617,8 +60617,8 @@ succumb laceration understanding ham mars jupiter
 1
 12 3
 2
-0 46 25 7
 0 45 1 0
+0 46 25 7
 1
 end_operator
 begin_operator
@@ -60626,8 +60626,8 @@ succumb laceration understanding ham mercury neptune
 1
 12 3
 2
-0 46 25 7
 0 45 2 3
+0 46 25 7
 1
 end_operator
 begin_operator
@@ -60635,8 +60635,8 @@ succumb laceration understanding ham neptune mars
 1
 12 3
 2
-0 46 25 7
 0 45 3 1
+0 46 25 7
 1
 end_operator
 begin_operator
@@ -60644,8 +60644,8 @@ succumb laceration understanding hotdog mars jupiter
 1
 12 4
 2
-0 46 25 9
 0 45 1 0
+0 46 25 9
 1
 end_operator
 begin_operator
@@ -60653,8 +60653,8 @@ succumb laceration understanding hotdog mercury neptune
 1
 12 4
 2
-0 46 25 9
 0 45 2 3
+0 46 25 9
 1
 end_operator
 begin_operator
@@ -60662,8 +60662,8 @@ succumb laceration understanding hotdog neptune mars
 1
 12 4
 2
-0 46 25 9
 0 45 3 1
+0 46 25 9
 1
 end_operator
 begin_operator
@@ -60671,8 +60671,8 @@ succumb laceration understanding lamb mars jupiter
 1
 12 5
 2
-0 46 25 10
 0 45 1 0
+0 46 25 10
 1
 end_operator
 begin_operator
@@ -60680,8 +60680,8 @@ succumb laceration understanding lamb mercury neptune
 1
 12 5
 2
-0 46 25 10
 0 45 2 3
+0 46 25 10
 1
 end_operator
 begin_operator
@@ -60689,8 +60689,8 @@ succumb laceration understanding lamb neptune mars
 1
 12 5
 2
-0 46 25 10
 0 45 3 1
+0 46 25 10
 1
 end_operator
 begin_operator
@@ -60698,8 +60698,8 @@ succumb laceration understanding okra mars jupiter
 1
 12 6
 2
-0 46 25 12
 0 45 1 0
+0 46 25 12
 1
 end_operator
 begin_operator
@@ -60707,8 +60707,8 @@ succumb laceration understanding okra mercury neptune
 1
 12 6
 2
-0 46 25 12
 0 45 2 3
+0 46 25 12
 1
 end_operator
 begin_operator
@@ -60716,8 +60716,8 @@ succumb laceration understanding okra neptune mars
 1
 12 6
 2
-0 46 25 12
 0 45 3 1
+0 46 25 12
 1
 end_operator
 begin_operator
@@ -60725,8 +60725,8 @@ succumb laceration understanding onion mars jupiter
 1
 12 7
 2
-0 46 25 13
 0 45 1 0
+0 46 25 13
 1
 end_operator
 begin_operator
@@ -60734,8 +60734,8 @@ succumb laceration understanding onion mercury neptune
 1
 12 7
 2
-0 46 25 13
 0 45 2 3
+0 46 25 13
 1
 end_operator
 begin_operator
@@ -60743,8 +60743,8 @@ succumb laceration understanding onion neptune mars
 1
 12 7
 2
-0 46 25 13
 0 45 3 1
+0 46 25 13
 1
 end_operator
 begin_operator
@@ -60752,8 +60752,8 @@ succumb laceration understanding papaya mars jupiter
 1
 12 8
 2
-0 46 25 14
 0 45 1 0
+0 46 25 14
 1
 end_operator
 begin_operator
@@ -60761,8 +60761,8 @@ succumb laceration understanding papaya mercury neptune
 1
 12 8
 2
-0 46 25 14
 0 45 2 3
+0 46 25 14
 1
 end_operator
 begin_operator
@@ -60770,8 +60770,8 @@ succumb laceration understanding papaya neptune mars
 1
 12 8
 2
-0 46 25 14
 0 45 3 1
+0 46 25 14
 1
 end_operator
 begin_operator
@@ -60779,8 +60779,8 @@ succumb laceration understanding pistachio mars jupiter
 1
 12 9
 2
-0 46 25 15
 0 45 1 0
+0 46 25 15
 1
 end_operator
 begin_operator
@@ -60788,8 +60788,8 @@ succumb laceration understanding pistachio mercury neptune
 1
 12 9
 2
-0 46 25 15
 0 45 2 3
+0 46 25 15
 1
 end_operator
 begin_operator
@@ -60797,8 +60797,8 @@ succumb laceration understanding pistachio neptune mars
 1
 12 9
 2
-0 46 25 15
 0 45 3 1
+0 46 25 15
 1
 end_operator
 begin_operator
@@ -60806,8 +60806,8 @@ succumb laceration understanding scallop mars jupiter
 1
 12 10
 2
-0 46 25 16
 0 45 1 0
+0 46 25 16
 1
 end_operator
 begin_operator
@@ -60815,8 +60815,8 @@ succumb laceration understanding scallop mercury neptune
 1
 12 10
 2
-0 46 25 16
 0 45 2 3
+0 46 25 16
 1
 end_operator
 begin_operator
@@ -60824,8 +60824,8 @@ succumb laceration understanding scallop neptune mars
 1
 12 10
 2
-0 46 25 16
 0 45 3 1
+0 46 25 16
 1
 end_operator
 begin_operator
@@ -60833,8 +60833,8 @@ succumb laceration understanding sweetroll mars jupiter
 1
 12 11
 2
-0 46 25 17
 0 45 1 0
+0 46 25 17
 1
 end_operator
 begin_operator
@@ -60842,8 +60842,8 @@ succumb laceration understanding sweetroll mercury neptune
 1
 12 11
 2
-0 46 25 17
 0 45 2 3
+0 46 25 17
 1
 end_operator
 begin_operator
@@ -60851,8 +60851,8 @@ succumb laceration understanding sweetroll neptune mars
 1
 12 11
 2
-0 46 25 17
 0 45 3 1
+0 46 25 17
 1
 end_operator
 begin_operator
@@ -60860,8 +60860,8 @@ succumb loneliness curiosity bacon mars jupiter
 1
 19 0
 2
-0 39 19 1
 0 32 1 0
+0 39 19 1
 1
 end_operator
 begin_operator
@@ -60869,8 +60869,8 @@ succumb loneliness curiosity bacon mercury neptune
 1
 19 0
 2
-0 39 19 1
 0 32 2 3
+0 39 19 1
 1
 end_operator
 begin_operator
@@ -60878,8 +60878,8 @@ succumb loneliness curiosity bacon neptune mars
 1
 19 0
 2
-0 39 19 1
 0 32 3 1
+0 39 19 1
 1
 end_operator
 begin_operator
@@ -60887,8 +60887,8 @@ succumb loneliness curiosity beef mars jupiter
 1
 19 1
 2
-0 39 19 2
 0 32 1 0
+0 39 19 2
 1
 end_operator
 begin_operator
@@ -60896,8 +60896,8 @@ succumb loneliness curiosity beef mercury neptune
 1
 19 1
 2
-0 39 19 2
 0 32 2 3
+0 39 19 2
 1
 end_operator
 begin_operator
@@ -60905,8 +60905,8 @@ succumb loneliness curiosity beef neptune mars
 1
 19 1
 2
-0 39 19 2
 0 32 3 1
+0 39 19 2
 1
 end_operator
 begin_operator
@@ -60914,8 +60914,8 @@ succumb loneliness curiosity chicken mars jupiter
 1
 19 2
 2
-0 39 19 4
 0 32 1 0
+0 39 19 4
 1
 end_operator
 begin_operator
@@ -60923,8 +60923,8 @@ succumb loneliness curiosity chicken mercury neptune
 1
 19 2
 2
-0 39 19 4
 0 32 2 3
+0 39 19 4
 1
 end_operator
 begin_operator
@@ -60932,8 +60932,8 @@ succumb loneliness curiosity chicken neptune mars
 1
 19 2
 2
-0 39 19 4
 0 32 3 1
+0 39 19 4
 1
 end_operator
 begin_operator
@@ -60941,8 +60941,8 @@ succumb loneliness curiosity grapefruit mars jupiter
 1
 19 3
 2
-0 39 19 6
 0 32 1 0
+0 39 19 6
 1
 end_operator
 begin_operator
@@ -60950,8 +60950,8 @@ succumb loneliness curiosity grapefruit mercury neptune
 1
 19 3
 2
-0 39 19 6
 0 32 2 3
+0 39 19 6
 1
 end_operator
 begin_operator
@@ -60959,8 +60959,8 @@ succumb loneliness curiosity grapefruit neptune mars
 1
 19 3
 2
-0 39 19 6
 0 32 3 1
+0 39 19 6
 1
 end_operator
 begin_operator
@@ -60968,8 +60968,8 @@ succumb loneliness curiosity haroset mars jupiter
 1
 19 4
 2
-0 39 19 8
 0 32 1 0
+0 39 19 8
 1
 end_operator
 begin_operator
@@ -60977,8 +60977,8 @@ succumb loneliness curiosity haroset mercury neptune
 1
 19 4
 2
-0 39 19 8
 0 32 2 3
+0 39 19 8
 1
 end_operator
 begin_operator
@@ -60986,8 +60986,8 @@ succumb loneliness curiosity haroset neptune mars
 1
 19 4
 2
-0 39 19 8
 0 32 3 1
+0 39 19 8
 1
 end_operator
 begin_operator
@@ -60995,8 +60995,8 @@ succumb loneliness curiosity hotdog mars jupiter
 1
 19 5
 2
-0 39 19 9
 0 32 1 0
+0 39 19 9
 1
 end_operator
 begin_operator
@@ -61004,8 +61004,8 @@ succumb loneliness curiosity hotdog mercury neptune
 1
 19 5
 2
-0 39 19 9
 0 32 2 3
+0 39 19 9
 1
 end_operator
 begin_operator
@@ -61013,8 +61013,8 @@ succumb loneliness curiosity hotdog neptune mars
 1
 19 5
 2
-0 39 19 9
 0 32 3 1
+0 39 19 9
 1
 end_operator
 begin_operator
@@ -61022,8 +61022,8 @@ succumb loneliness curiosity lobster mars jupiter
 1
 19 6
 2
-0 39 19 11
 0 32 1 0
+0 39 19 11
 1
 end_operator
 begin_operator
@@ -61031,8 +61031,8 @@ succumb loneliness curiosity lobster mercury neptune
 1
 19 6
 2
-0 39 19 11
 0 32 2 3
+0 39 19 11
 1
 end_operator
 begin_operator
@@ -61040,8 +61040,8 @@ succumb loneliness curiosity lobster neptune mars
 1
 19 6
 2
-0 39 19 11
 0 32 3 1
+0 39 19 11
 1
 end_operator
 begin_operator
@@ -61049,8 +61049,8 @@ succumb loneliness curiosity wonderbread mars jupiter
 1
 19 7
 2
-0 39 19 18
 0 32 1 0
+0 39 19 18
 1
 end_operator
 begin_operator
@@ -61058,8 +61058,8 @@ succumb loneliness curiosity wonderbread mercury neptune
 1
 19 7
 2
-0 39 19 18
 0 32 2 3
+0 39 19 18
 1
 end_operator
 begin_operator
@@ -61067,8 +61067,8 @@ succumb loneliness curiosity wonderbread neptune mars
 1
 19 7
 2
-0 39 19 18
 0 32 3 1
+0 39 19 18
 1
 end_operator
 begin_operator
@@ -61076,8 +61076,8 @@ succumb loneliness empathy bacon mars jupiter
 1
 21 0
 2
-0 39 20 1
 0 33 1 0
+0 39 20 1
 1
 end_operator
 begin_operator
@@ -61085,8 +61085,8 @@ succumb loneliness empathy bacon mercury neptune
 1
 21 0
 2
-0 39 20 1
 0 33 2 3
+0 39 20 1
 1
 end_operator
 begin_operator
@@ -61094,8 +61094,8 @@ succumb loneliness empathy bacon neptune mars
 1
 21 0
 2
-0 39 20 1
 0 33 3 1
+0 39 20 1
 1
 end_operator
 begin_operator
@@ -61103,8 +61103,8 @@ succumb loneliness empathy beef mars jupiter
 1
 21 1
 2
-0 39 20 2
 0 33 1 0
+0 39 20 2
 1
 end_operator
 begin_operator
@@ -61112,8 +61112,8 @@ succumb loneliness empathy beef mercury neptune
 1
 21 1
 2
-0 39 20 2
 0 33 2 3
+0 39 20 2
 1
 end_operator
 begin_operator
@@ -61121,8 +61121,8 @@ succumb loneliness empathy beef neptune mars
 1
 21 1
 2
-0 39 20 2
 0 33 3 1
+0 39 20 2
 1
 end_operator
 begin_operator
@@ -61130,8 +61130,8 @@ succumb loneliness empathy chicken mars jupiter
 1
 21 2
 2
-0 39 20 4
 0 33 1 0
+0 39 20 4
 1
 end_operator
 begin_operator
@@ -61139,8 +61139,8 @@ succumb loneliness empathy chicken mercury neptune
 1
 21 2
 2
-0 39 20 4
 0 33 2 3
+0 39 20 4
 1
 end_operator
 begin_operator
@@ -61148,8 +61148,8 @@ succumb loneliness empathy chicken neptune mars
 1
 21 2
 2
-0 39 20 4
 0 33 3 1
+0 39 20 4
 1
 end_operator
 begin_operator
@@ -61157,8 +61157,8 @@ succumb loneliness empathy grapefruit mars jupiter
 1
 21 3
 2
-0 39 20 6
 0 33 1 0
+0 39 20 6
 1
 end_operator
 begin_operator
@@ -61166,8 +61166,8 @@ succumb loneliness empathy grapefruit mercury neptune
 1
 21 3
 2
-0 39 20 6
 0 33 2 3
+0 39 20 6
 1
 end_operator
 begin_operator
@@ -61175,8 +61175,8 @@ succumb loneliness empathy grapefruit neptune mars
 1
 21 3
 2
-0 39 20 6
 0 33 3 1
+0 39 20 6
 1
 end_operator
 begin_operator
@@ -61184,8 +61184,8 @@ succumb loneliness empathy haroset mars jupiter
 1
 21 4
 2
-0 39 20 8
 0 33 1 0
+0 39 20 8
 1
 end_operator
 begin_operator
@@ -61193,8 +61193,8 @@ succumb loneliness empathy haroset mercury neptune
 1
 21 4
 2
-0 39 20 8
 0 33 2 3
+0 39 20 8
 1
 end_operator
 begin_operator
@@ -61202,8 +61202,8 @@ succumb loneliness empathy haroset neptune mars
 1
 21 4
 2
-0 39 20 8
 0 33 3 1
+0 39 20 8
 1
 end_operator
 begin_operator
@@ -61211,8 +61211,8 @@ succumb loneliness empathy hotdog mars jupiter
 1
 21 5
 2
-0 39 20 9
 0 33 1 0
+0 39 20 9
 1
 end_operator
 begin_operator
@@ -61220,8 +61220,8 @@ succumb loneliness empathy hotdog mercury neptune
 1
 21 5
 2
-0 39 20 9
 0 33 2 3
+0 39 20 9
 1
 end_operator
 begin_operator
@@ -61229,8 +61229,8 @@ succumb loneliness empathy hotdog neptune mars
 1
 21 5
 2
-0 39 20 9
 0 33 3 1
+0 39 20 9
 1
 end_operator
 begin_operator
@@ -61238,8 +61238,8 @@ succumb loneliness empathy lobster mars jupiter
 1
 21 6
 2
-0 39 20 11
 0 33 1 0
+0 39 20 11
 1
 end_operator
 begin_operator
@@ -61247,8 +61247,8 @@ succumb loneliness empathy lobster mercury neptune
 1
 21 6
 2
-0 39 20 11
 0 33 2 3
+0 39 20 11
 1
 end_operator
 begin_operator
@@ -61256,8 +61256,8 @@ succumb loneliness empathy lobster neptune mars
 1
 21 6
 2
-0 39 20 11
 0 33 3 1
+0 39 20 11
 1
 end_operator
 begin_operator
@@ -61265,8 +61265,8 @@ succumb loneliness empathy wonderbread mars jupiter
 1
 21 7
 2
-0 39 20 18
 0 33 1 0
+0 39 20 18
 1
 end_operator
 begin_operator
@@ -61274,8 +61274,8 @@ succumb loneliness empathy wonderbread mercury neptune
 1
 21 7
 2
-0 39 20 18
 0 33 2 3
+0 39 20 18
 1
 end_operator
 begin_operator
@@ -61283,8 +61283,8 @@ succumb loneliness empathy wonderbread neptune mars
 1
 21 7
 2
-0 39 20 18
 0 33 3 1
+0 39 20 18
 1
 end_operator
 begin_operator
@@ -62264,8 +62264,8 @@ succumb loneliness triumph bacon mars jupiter
 1
 22 0
 2
-0 39 24 1
 0 36 1 0
+0 39 24 1
 1
 end_operator
 begin_operator
@@ -62273,8 +62273,8 @@ succumb loneliness triumph bacon mercury neptune
 1
 22 0
 2
-0 39 24 1
 0 36 2 3
+0 39 24 1
 1
 end_operator
 begin_operator
@@ -62282,8 +62282,8 @@ succumb loneliness triumph bacon neptune mars
 1
 22 0
 2
-0 39 24 1
 0 36 3 1
+0 39 24 1
 1
 end_operator
 begin_operator
@@ -62291,8 +62291,8 @@ succumb loneliness triumph beef mars jupiter
 1
 22 1
 2
-0 39 24 2
 0 36 1 0
+0 39 24 2
 1
 end_operator
 begin_operator
@@ -62300,8 +62300,8 @@ succumb loneliness triumph beef mercury neptune
 1
 22 1
 2
-0 39 24 2
 0 36 2 3
+0 39 24 2
 1
 end_operator
 begin_operator
@@ -62309,8 +62309,8 @@ succumb loneliness triumph beef neptune mars
 1
 22 1
 2
-0 39 24 2
 0 36 3 1
+0 39 24 2
 1
 end_operator
 begin_operator
@@ -62318,8 +62318,8 @@ succumb loneliness triumph chicken mars jupiter
 1
 22 2
 2
-0 39 24 4
 0 36 1 0
+0 39 24 4
 1
 end_operator
 begin_operator
@@ -62327,8 +62327,8 @@ succumb loneliness triumph chicken mercury neptune
 1
 22 2
 2
-0 39 24 4
 0 36 2 3
+0 39 24 4
 1
 end_operator
 begin_operator
@@ -62336,8 +62336,8 @@ succumb loneliness triumph chicken neptune mars
 1
 22 2
 2
-0 39 24 4
 0 36 3 1
+0 39 24 4
 1
 end_operator
 begin_operator
@@ -62345,8 +62345,8 @@ succumb loneliness triumph grapefruit mars jupiter
 1
 22 3
 2
-0 39 24 6
 0 36 1 0
+0 39 24 6
 1
 end_operator
 begin_operator
@@ -62354,8 +62354,8 @@ succumb loneliness triumph grapefruit mercury neptune
 1
 22 3
 2
-0 39 24 6
 0 36 2 3
+0 39 24 6
 1
 end_operator
 begin_operator
@@ -62363,8 +62363,8 @@ succumb loneliness triumph grapefruit neptune mars
 1
 22 3
 2
-0 39 24 6
 0 36 3 1
+0 39 24 6
 1
 end_operator
 begin_operator
@@ -62372,8 +62372,8 @@ succumb loneliness triumph haroset mars jupiter
 1
 22 4
 2
-0 39 24 8
 0 36 1 0
+0 39 24 8
 1
 end_operator
 begin_operator
@@ -62381,8 +62381,8 @@ succumb loneliness triumph haroset mercury neptune
 1
 22 4
 2
-0 39 24 8
 0 36 2 3
+0 39 24 8
 1
 end_operator
 begin_operator
@@ -62390,8 +62390,8 @@ succumb loneliness triumph haroset neptune mars
 1
 22 4
 2
-0 39 24 8
 0 36 3 1
+0 39 24 8
 1
 end_operator
 begin_operator
@@ -62399,8 +62399,8 @@ succumb loneliness triumph hotdog mars jupiter
 1
 22 5
 2
-0 39 24 9
 0 36 1 0
+0 39 24 9
 1
 end_operator
 begin_operator
@@ -62408,8 +62408,8 @@ succumb loneliness triumph hotdog mercury neptune
 1
 22 5
 2
-0 39 24 9
 0 36 2 3
+0 39 24 9
 1
 end_operator
 begin_operator
@@ -62417,8 +62417,8 @@ succumb loneliness triumph hotdog neptune mars
 1
 22 5
 2
-0 39 24 9
 0 36 3 1
+0 39 24 9
 1
 end_operator
 begin_operator
@@ -62426,8 +62426,8 @@ succumb loneliness triumph lobster mars jupiter
 1
 22 6
 2
-0 39 24 11
 0 36 1 0
+0 39 24 11
 1
 end_operator
 begin_operator
@@ -62435,8 +62435,8 @@ succumb loneliness triumph lobster mercury neptune
 1
 22 6
 2
-0 39 24 11
 0 36 2 3
+0 39 24 11
 1
 end_operator
 begin_operator
@@ -62444,8 +62444,8 @@ succumb loneliness triumph lobster neptune mars
 1
 22 6
 2
-0 39 24 11
 0 36 3 1
+0 39 24 11
 1
 end_operator
 begin_operator
@@ -62453,8 +62453,8 @@ succumb loneliness triumph wonderbread mars jupiter
 1
 22 7
 2
-0 39 24 18
 0 36 1 0
+0 39 24 18
 1
 end_operator
 begin_operator
@@ -62462,8 +62462,8 @@ succumb loneliness triumph wonderbread mercury neptune
 1
 22 7
 2
-0 39 24 18
 0 36 2 3
+0 39 24 18
 1
 end_operator
 begin_operator
@@ -62471,8 +62471,8 @@ succumb loneliness triumph wonderbread neptune mars
 1
 22 7
 2
-0 39 24 18
 0 36 3 1
+0 39 24 18
 1
 end_operator
 begin_operator
@@ -62804,8 +62804,8 @@ succumb prostatitis curiosity bacon mars jupiter
 1
 19 0
 2
-0 42 19 1
 0 32 1 0
+0 42 19 1
 1
 end_operator
 begin_operator
@@ -62813,8 +62813,8 @@ succumb prostatitis curiosity bacon mercury neptune
 1
 19 0
 2
-0 42 19 1
 0 32 2 3
+0 42 19 1
 1
 end_operator
 begin_operator
@@ -62822,8 +62822,8 @@ succumb prostatitis curiosity bacon neptune mars
 1
 19 0
 2
-0 42 19 1
 0 32 3 1
+0 42 19 1
 1
 end_operator
 begin_operator
@@ -62831,8 +62831,8 @@ succumb prostatitis curiosity beef mars jupiter
 1
 19 1
 2
-0 42 19 2
 0 32 1 0
+0 42 19 2
 1
 end_operator
 begin_operator
@@ -62840,8 +62840,8 @@ succumb prostatitis curiosity beef mercury neptune
 1
 19 1
 2
-0 42 19 2
 0 32 2 3
+0 42 19 2
 1
 end_operator
 begin_operator
@@ -62849,8 +62849,8 @@ succumb prostatitis curiosity beef neptune mars
 1
 19 1
 2
-0 42 19 2
 0 32 3 1
+0 42 19 2
 1
 end_operator
 begin_operator
@@ -62858,8 +62858,8 @@ succumb prostatitis curiosity chicken mars jupiter
 1
 19 2
 2
-0 42 19 4
 0 32 1 0
+0 42 19 4
 1
 end_operator
 begin_operator
@@ -62867,8 +62867,8 @@ succumb prostatitis curiosity chicken mercury neptune
 1
 19 2
 2
-0 42 19 4
 0 32 2 3
+0 42 19 4
 1
 end_operator
 begin_operator
@@ -62876,8 +62876,8 @@ succumb prostatitis curiosity chicken neptune mars
 1
 19 2
 2
-0 42 19 4
 0 32 3 1
+0 42 19 4
 1
 end_operator
 begin_operator
@@ -62885,8 +62885,8 @@ succumb prostatitis curiosity grapefruit mars jupiter
 1
 19 3
 2
-0 42 19 6
 0 32 1 0
+0 42 19 6
 1
 end_operator
 begin_operator
@@ -62894,8 +62894,8 @@ succumb prostatitis curiosity grapefruit mercury neptune
 1
 19 3
 2
-0 42 19 6
 0 32 2 3
+0 42 19 6
 1
 end_operator
 begin_operator
@@ -62903,8 +62903,8 @@ succumb prostatitis curiosity grapefruit neptune mars
 1
 19 3
 2
-0 42 19 6
 0 32 3 1
+0 42 19 6
 1
 end_operator
 begin_operator
@@ -62912,8 +62912,8 @@ succumb prostatitis curiosity haroset mars jupiter
 1
 19 4
 2
-0 42 19 8
 0 32 1 0
+0 42 19 8
 1
 end_operator
 begin_operator
@@ -62921,8 +62921,8 @@ succumb prostatitis curiosity haroset mercury neptune
 1
 19 4
 2
-0 42 19 8
 0 32 2 3
+0 42 19 8
 1
 end_operator
 begin_operator
@@ -62930,8 +62930,8 @@ succumb prostatitis curiosity haroset neptune mars
 1
 19 4
 2
-0 42 19 8
 0 32 3 1
+0 42 19 8
 1
 end_operator
 begin_operator
@@ -62939,8 +62939,8 @@ succumb prostatitis curiosity hotdog mars jupiter
 1
 19 5
 2
-0 42 19 9
 0 32 1 0
+0 42 19 9
 1
 end_operator
 begin_operator
@@ -62948,8 +62948,8 @@ succumb prostatitis curiosity hotdog mercury neptune
 1
 19 5
 2
-0 42 19 9
 0 32 2 3
+0 42 19 9
 1
 end_operator
 begin_operator
@@ -62957,8 +62957,8 @@ succumb prostatitis curiosity hotdog neptune mars
 1
 19 5
 2
-0 42 19 9
 0 32 3 1
+0 42 19 9
 1
 end_operator
 begin_operator
@@ -62966,8 +62966,8 @@ succumb prostatitis curiosity lobster mars jupiter
 1
 19 6
 2
-0 42 19 11
 0 32 1 0
+0 42 19 11
 1
 end_operator
 begin_operator
@@ -62975,8 +62975,8 @@ succumb prostatitis curiosity lobster mercury neptune
 1
 19 6
 2
-0 42 19 11
 0 32 2 3
+0 42 19 11
 1
 end_operator
 begin_operator
@@ -62984,8 +62984,8 @@ succumb prostatitis curiosity lobster neptune mars
 1
 19 6
 2
-0 42 19 11
 0 32 3 1
+0 42 19 11
 1
 end_operator
 begin_operator
@@ -62993,8 +62993,8 @@ succumb prostatitis curiosity wonderbread mars jupiter
 1
 19 7
 2
-0 42 19 18
 0 32 1 0
+0 42 19 18
 1
 end_operator
 begin_operator
@@ -63002,8 +63002,8 @@ succumb prostatitis curiosity wonderbread mercury neptune
 1
 19 7
 2
-0 42 19 18
 0 32 2 3
+0 42 19 18
 1
 end_operator
 begin_operator
@@ -63011,8 +63011,8 @@ succumb prostatitis curiosity wonderbread neptune mars
 1
 19 7
 2
-0 42 19 18
 0 32 3 1
+0 42 19 18
 1
 end_operator
 begin_operator
@@ -63020,8 +63020,8 @@ succumb prostatitis empathy bacon mars jupiter
 1
 21 0
 2
-0 42 20 1
 0 33 1 0
+0 42 20 1
 1
 end_operator
 begin_operator
@@ -63029,8 +63029,8 @@ succumb prostatitis empathy bacon mercury neptune
 1
 21 0
 2
-0 42 20 1
 0 33 2 3
+0 42 20 1
 1
 end_operator
 begin_operator
@@ -63038,8 +63038,8 @@ succumb prostatitis empathy bacon neptune mars
 1
 21 0
 2
-0 42 20 1
 0 33 3 1
+0 42 20 1
 1
 end_operator
 begin_operator
@@ -63047,8 +63047,8 @@ succumb prostatitis empathy beef mars jupiter
 1
 21 1
 2
-0 42 20 2
 0 33 1 0
+0 42 20 2
 1
 end_operator
 begin_operator
@@ -63056,8 +63056,8 @@ succumb prostatitis empathy beef mercury neptune
 1
 21 1
 2
-0 42 20 2
 0 33 2 3
+0 42 20 2
 1
 end_operator
 begin_operator
@@ -63065,8 +63065,8 @@ succumb prostatitis empathy beef neptune mars
 1
 21 1
 2
-0 42 20 2
 0 33 3 1
+0 42 20 2
 1
 end_operator
 begin_operator
@@ -63074,8 +63074,8 @@ succumb prostatitis empathy chicken mars jupiter
 1
 21 2
 2
-0 42 20 4
 0 33 1 0
+0 42 20 4
 1
 end_operator
 begin_operator
@@ -63083,8 +63083,8 @@ succumb prostatitis empathy chicken mercury neptune
 1
 21 2
 2
-0 42 20 4
 0 33 2 3
+0 42 20 4
 1
 end_operator
 begin_operator
@@ -63092,8 +63092,8 @@ succumb prostatitis empathy chicken neptune mars
 1
 21 2
 2
-0 42 20 4
 0 33 3 1
+0 42 20 4
 1
 end_operator
 begin_operator
@@ -63101,8 +63101,8 @@ succumb prostatitis empathy grapefruit mars jupiter
 1
 21 3
 2
-0 42 20 6
 0 33 1 0
+0 42 20 6
 1
 end_operator
 begin_operator
@@ -63110,8 +63110,8 @@ succumb prostatitis empathy grapefruit mercury neptune
 1
 21 3
 2
-0 42 20 6
 0 33 2 3
+0 42 20 6
 1
 end_operator
 begin_operator
@@ -63119,8 +63119,8 @@ succumb prostatitis empathy grapefruit neptune mars
 1
 21 3
 2
-0 42 20 6
 0 33 3 1
+0 42 20 6
 1
 end_operator
 begin_operator
@@ -63128,8 +63128,8 @@ succumb prostatitis empathy haroset mars jupiter
 1
 21 4
 2
-0 42 20 8
 0 33 1 0
+0 42 20 8
 1
 end_operator
 begin_operator
@@ -63137,8 +63137,8 @@ succumb prostatitis empathy haroset mercury neptune
 1
 21 4
 2
-0 42 20 8
 0 33 2 3
+0 42 20 8
 1
 end_operator
 begin_operator
@@ -63146,8 +63146,8 @@ succumb prostatitis empathy haroset neptune mars
 1
 21 4
 2
-0 42 20 8
 0 33 3 1
+0 42 20 8
 1
 end_operator
 begin_operator
@@ -63155,8 +63155,8 @@ succumb prostatitis empathy hotdog mars jupiter
 1
 21 5
 2
-0 42 20 9
 0 33 1 0
+0 42 20 9
 1
 end_operator
 begin_operator
@@ -63164,8 +63164,8 @@ succumb prostatitis empathy hotdog mercury neptune
 1
 21 5
 2
-0 42 20 9
 0 33 2 3
+0 42 20 9
 1
 end_operator
 begin_operator
@@ -63173,8 +63173,8 @@ succumb prostatitis empathy hotdog neptune mars
 1
 21 5
 2
-0 42 20 9
 0 33 3 1
+0 42 20 9
 1
 end_operator
 begin_operator
@@ -63182,8 +63182,8 @@ succumb prostatitis empathy lobster mars jupiter
 1
 21 6
 2
-0 42 20 11
 0 33 1 0
+0 42 20 11
 1
 end_operator
 begin_operator
@@ -63191,8 +63191,8 @@ succumb prostatitis empathy lobster mercury neptune
 1
 21 6
 2
-0 42 20 11
 0 33 2 3
+0 42 20 11
 1
 end_operator
 begin_operator
@@ -63200,8 +63200,8 @@ succumb prostatitis empathy lobster neptune mars
 1
 21 6
 2
-0 42 20 11
 0 33 3 1
+0 42 20 11
 1
 end_operator
 begin_operator
@@ -63209,8 +63209,8 @@ succumb prostatitis empathy wonderbread mars jupiter
 1
 21 7
 2
-0 42 20 18
 0 33 1 0
+0 42 20 18
 1
 end_operator
 begin_operator
@@ -63218,8 +63218,8 @@ succumb prostatitis empathy wonderbread mercury neptune
 1
 21 7
 2
-0 42 20 18
 0 33 2 3
+0 42 20 18
 1
 end_operator
 begin_operator
@@ -63227,8 +63227,8 @@ succumb prostatitis empathy wonderbread neptune mars
 1
 21 7
 2
-0 42 20 18
 0 33 3 1
+0 42 20 18
 1
 end_operator
 begin_operator
@@ -63236,8 +63236,8 @@ succumb prostatitis intoxication apple mars jupiter
 1
 7 0
 2
-0 42 21 0
 0 40 1 0
+0 42 21 0
 1
 end_operator
 begin_operator
@@ -63245,8 +63245,8 @@ succumb prostatitis intoxication apple mercury neptune
 1
 7 0
 2
-0 42 21 0
 0 40 2 3
+0 42 21 0
 1
 end_operator
 begin_operator
@@ -63254,8 +63254,8 @@ succumb prostatitis intoxication apple neptune mars
 1
 7 0
 2
-0 42 21 0
 0 40 3 1
+0 42 21 0
 1
 end_operator
 begin_operator
@@ -63263,8 +63263,8 @@ succumb prostatitis intoxication cherry mars jupiter
 1
 7 1
 2
-0 42 21 3
 0 40 1 0
+0 42 21 3
 1
 end_operator
 begin_operator
@@ -63272,8 +63272,8 @@ succumb prostatitis intoxication cherry mercury neptune
 1
 7 1
 2
-0 42 21 3
 0 40 2 3
+0 42 21 3
 1
 end_operator
 begin_operator
@@ -63281,8 +63281,8 @@ succumb prostatitis intoxication cherry neptune mars
 1
 7 1
 2
-0 42 21 3
 0 40 3 1
+0 42 21 3
 1
 end_operator
 begin_operator
@@ -63290,8 +63290,8 @@ succumb prostatitis intoxication flounder mars jupiter
 1
 7 2
 2
-0 42 21 5
 0 40 1 0
+0 42 21 5
 1
 end_operator
 begin_operator
@@ -63299,8 +63299,8 @@ succumb prostatitis intoxication flounder mercury neptune
 1
 7 2
 2
-0 42 21 5
 0 40 2 3
+0 42 21 5
 1
 end_operator
 begin_operator
@@ -63308,8 +63308,8 @@ succumb prostatitis intoxication flounder neptune mars
 1
 7 2
 2
-0 42 21 5
 0 40 3 1
+0 42 21 5
 1
 end_operator
 begin_operator
@@ -63317,8 +63317,8 @@ succumb prostatitis intoxication ham mars jupiter
 1
 7 3
 2
-0 42 21 7
 0 40 1 0
+0 42 21 7
 1
 end_operator
 begin_operator
@@ -63326,8 +63326,8 @@ succumb prostatitis intoxication ham mercury neptune
 1
 7 3
 2
-0 42 21 7
 0 40 2 3
+0 42 21 7
 1
 end_operator
 begin_operator
@@ -63335,8 +63335,8 @@ succumb prostatitis intoxication ham neptune mars
 1
 7 3
 2
-0 42 21 7
 0 40 3 1
+0 42 21 7
 1
 end_operator
 begin_operator
@@ -63344,8 +63344,8 @@ succumb prostatitis intoxication hotdog mars jupiter
 1
 7 4
 2
-0 42 21 9
 0 40 1 0
+0 42 21 9
 1
 end_operator
 begin_operator
@@ -63353,8 +63353,8 @@ succumb prostatitis intoxication hotdog mercury neptune
 1
 7 4
 2
-0 42 21 9
 0 40 2 3
+0 42 21 9
 1
 end_operator
 begin_operator
@@ -63362,8 +63362,8 @@ succumb prostatitis intoxication hotdog neptune mars
 1
 7 4
 2
-0 42 21 9
 0 40 3 1
+0 42 21 9
 1
 end_operator
 begin_operator
@@ -63371,8 +63371,8 @@ succumb prostatitis intoxication lamb mars jupiter
 1
 7 5
 2
-0 42 21 10
 0 40 1 0
+0 42 21 10
 1
 end_operator
 begin_operator
@@ -63380,8 +63380,8 @@ succumb prostatitis intoxication lamb mercury neptune
 1
 7 5
 2
-0 42 21 10
 0 40 2 3
+0 42 21 10
 1
 end_operator
 begin_operator
@@ -63389,8 +63389,8 @@ succumb prostatitis intoxication lamb neptune mars
 1
 7 5
 2
-0 42 21 10
 0 40 3 1
+0 42 21 10
 1
 end_operator
 begin_operator
@@ -63398,8 +63398,8 @@ succumb prostatitis intoxication okra mars jupiter
 1
 7 6
 2
-0 42 21 12
 0 40 1 0
+0 42 21 12
 1
 end_operator
 begin_operator
@@ -63407,8 +63407,8 @@ succumb prostatitis intoxication okra mercury neptune
 1
 7 6
 2
-0 42 21 12
 0 40 2 3
+0 42 21 12
 1
 end_operator
 begin_operator
@@ -63416,8 +63416,8 @@ succumb prostatitis intoxication okra neptune mars
 1
 7 6
 2
-0 42 21 12
 0 40 3 1
+0 42 21 12
 1
 end_operator
 begin_operator
@@ -63425,8 +63425,8 @@ succumb prostatitis intoxication onion mars jupiter
 1
 7 7
 2
-0 42 21 13
 0 40 1 0
+0 42 21 13
 1
 end_operator
 begin_operator
@@ -63434,8 +63434,8 @@ succumb prostatitis intoxication onion mercury neptune
 1
 7 7
 2
-0 42 21 13
 0 40 2 3
+0 42 21 13
 1
 end_operator
 begin_operator
@@ -63443,8 +63443,8 @@ succumb prostatitis intoxication onion neptune mars
 1
 7 7
 2
-0 42 21 13
 0 40 3 1
+0 42 21 13
 1
 end_operator
 begin_operator
@@ -63452,8 +63452,8 @@ succumb prostatitis intoxication papaya mars jupiter
 1
 7 8
 2
-0 42 21 14
 0 40 1 0
+0 42 21 14
 1
 end_operator
 begin_operator
@@ -63461,8 +63461,8 @@ succumb prostatitis intoxication papaya mercury neptune
 1
 7 8
 2
-0 42 21 14
 0 40 2 3
+0 42 21 14
 1
 end_operator
 begin_operator
@@ -63470,8 +63470,8 @@ succumb prostatitis intoxication papaya neptune mars
 1
 7 8
 2
-0 42 21 14
 0 40 3 1
+0 42 21 14
 1
 end_operator
 begin_operator
@@ -63479,8 +63479,8 @@ succumb prostatitis intoxication pistachio mars jupiter
 1
 7 9
 2
-0 42 21 15
 0 40 1 0
+0 42 21 15
 1
 end_operator
 begin_operator
@@ -63488,8 +63488,8 @@ succumb prostatitis intoxication pistachio mercury neptune
 1
 7 9
 2
-0 42 21 15
 0 40 2 3
+0 42 21 15
 1
 end_operator
 begin_operator
@@ -63497,8 +63497,8 @@ succumb prostatitis intoxication pistachio neptune mars
 1
 7 9
 2
-0 42 21 15
 0 40 3 1
+0 42 21 15
 1
 end_operator
 begin_operator
@@ -63506,8 +63506,8 @@ succumb prostatitis intoxication scallop mars jupiter
 1
 7 10
 2
-0 42 21 16
 0 40 1 0
+0 42 21 16
 1
 end_operator
 begin_operator
@@ -63515,8 +63515,8 @@ succumb prostatitis intoxication scallop mercury neptune
 1
 7 10
 2
-0 42 21 16
 0 40 2 3
+0 42 21 16
 1
 end_operator
 begin_operator
@@ -63524,8 +63524,8 @@ succumb prostatitis intoxication scallop neptune mars
 1
 7 10
 2
-0 42 21 16
 0 40 3 1
+0 42 21 16
 1
 end_operator
 begin_operator
@@ -63533,8 +63533,8 @@ succumb prostatitis intoxication sweetroll mars jupiter
 1
 7 11
 2
-0 42 21 17
 0 40 1 0
+0 42 21 17
 1
 end_operator
 begin_operator
@@ -63542,8 +63542,8 @@ succumb prostatitis intoxication sweetroll mercury neptune
 1
 7 11
 2
-0 42 21 17
 0 40 2 3
+0 42 21 17
 1
 end_operator
 begin_operator
@@ -63551,8 +63551,8 @@ succumb prostatitis intoxication sweetroll neptune mars
 1
 7 11
 2
-0 42 21 17
 0 40 3 1
+0 42 21 17
 1
 end_operator
 begin_operator
@@ -63560,8 +63560,8 @@ succumb prostatitis learning apple mars jupiter
 1
 9 0
 2
-0 42 22 0
 0 41 1 0
+0 42 22 0
 1
 end_operator
 begin_operator
@@ -63569,8 +63569,8 @@ succumb prostatitis learning apple mercury neptune
 1
 9 0
 2
-0 42 22 0
 0 41 2 3
+0 42 22 0
 1
 end_operator
 begin_operator
@@ -63578,8 +63578,8 @@ succumb prostatitis learning apple neptune mars
 1
 9 0
 2
-0 42 22 0
 0 41 3 1
+0 42 22 0
 1
 end_operator
 begin_operator
@@ -63587,8 +63587,8 @@ succumb prostatitis learning cherry mars jupiter
 1
 9 1
 2
-0 42 22 3
 0 41 1 0
+0 42 22 3
 1
 end_operator
 begin_operator
@@ -63596,8 +63596,8 @@ succumb prostatitis learning cherry mercury neptune
 1
 9 1
 2
-0 42 22 3
 0 41 2 3
+0 42 22 3
 1
 end_operator
 begin_operator
@@ -63605,8 +63605,8 @@ succumb prostatitis learning cherry neptune mars
 1
 9 1
 2
-0 42 22 3
 0 41 3 1
+0 42 22 3
 1
 end_operator
 begin_operator
@@ -63614,8 +63614,8 @@ succumb prostatitis learning flounder mars jupiter
 1
 9 2
 2
-0 42 22 5
 0 41 1 0
+0 42 22 5
 1
 end_operator
 begin_operator
@@ -63623,8 +63623,8 @@ succumb prostatitis learning flounder mercury neptune
 1
 9 2
 2
-0 42 22 5
 0 41 2 3
+0 42 22 5
 1
 end_operator
 begin_operator
@@ -63632,8 +63632,8 @@ succumb prostatitis learning flounder neptune mars
 1
 9 2
 2
-0 42 22 5
 0 41 3 1
+0 42 22 5
 1
 end_operator
 begin_operator
@@ -63641,8 +63641,8 @@ succumb prostatitis learning ham mars jupiter
 1
 9 3
 2
-0 42 22 7
 0 41 1 0
+0 42 22 7
 1
 end_operator
 begin_operator
@@ -63650,8 +63650,8 @@ succumb prostatitis learning ham mercury neptune
 1
 9 3
 2
-0 42 22 7
 0 41 2 3
+0 42 22 7
 1
 end_operator
 begin_operator
@@ -63659,8 +63659,8 @@ succumb prostatitis learning ham neptune mars
 1
 9 3
 2
-0 42 22 7
 0 41 3 1
+0 42 22 7
 1
 end_operator
 begin_operator
@@ -63668,8 +63668,8 @@ succumb prostatitis learning hotdog mars jupiter
 1
 9 4
 2
-0 42 22 9
 0 41 1 0
+0 42 22 9
 1
 end_operator
 begin_operator
@@ -63677,8 +63677,8 @@ succumb prostatitis learning hotdog mercury neptune
 1
 9 4
 2
-0 42 22 9
 0 41 2 3
+0 42 22 9
 1
 end_operator
 begin_operator
@@ -63686,8 +63686,8 @@ succumb prostatitis learning hotdog neptune mars
 1
 9 4
 2
-0 42 22 9
 0 41 3 1
+0 42 22 9
 1
 end_operator
 begin_operator
@@ -63695,8 +63695,8 @@ succumb prostatitis learning lamb mars jupiter
 1
 9 5
 2
-0 42 22 10
 0 41 1 0
+0 42 22 10
 1
 end_operator
 begin_operator
@@ -63704,8 +63704,8 @@ succumb prostatitis learning lamb mercury neptune
 1
 9 5
 2
-0 42 22 10
 0 41 2 3
+0 42 22 10
 1
 end_operator
 begin_operator
@@ -63713,8 +63713,8 @@ succumb prostatitis learning lamb neptune mars
 1
 9 5
 2
-0 42 22 10
 0 41 3 1
+0 42 22 10
 1
 end_operator
 begin_operator
@@ -63722,8 +63722,8 @@ succumb prostatitis learning okra mars jupiter
 1
 9 6
 2
-0 42 22 12
 0 41 1 0
+0 42 22 12
 1
 end_operator
 begin_operator
@@ -63731,8 +63731,8 @@ succumb prostatitis learning okra mercury neptune
 1
 9 6
 2
-0 42 22 12
 0 41 2 3
+0 42 22 12
 1
 end_operator
 begin_operator
@@ -63740,8 +63740,8 @@ succumb prostatitis learning okra neptune mars
 1
 9 6
 2
-0 42 22 12
 0 41 3 1
+0 42 22 12
 1
 end_operator
 begin_operator
@@ -63749,8 +63749,8 @@ succumb prostatitis learning onion mars jupiter
 1
 9 7
 2
-0 42 22 13
 0 41 1 0
+0 42 22 13
 1
 end_operator
 begin_operator
@@ -63758,8 +63758,8 @@ succumb prostatitis learning onion mercury neptune
 1
 9 7
 2
-0 42 22 13
 0 41 2 3
+0 42 22 13
 1
 end_operator
 begin_operator
@@ -63767,8 +63767,8 @@ succumb prostatitis learning onion neptune mars
 1
 9 7
 2
-0 42 22 13
 0 41 3 1
+0 42 22 13
 1
 end_operator
 begin_operator
@@ -63776,8 +63776,8 @@ succumb prostatitis learning papaya mars jupiter
 1
 9 8
 2
-0 42 22 14
 0 41 1 0
+0 42 22 14
 1
 end_operator
 begin_operator
@@ -63785,8 +63785,8 @@ succumb prostatitis learning papaya mercury neptune
 1
 9 8
 2
-0 42 22 14
 0 41 2 3
+0 42 22 14
 1
 end_operator
 begin_operator
@@ -63794,8 +63794,8 @@ succumb prostatitis learning papaya neptune mars
 1
 9 8
 2
-0 42 22 14
 0 41 3 1
+0 42 22 14
 1
 end_operator
 begin_operator
@@ -63803,8 +63803,8 @@ succumb prostatitis learning pistachio mars jupiter
 1
 9 9
 2
-0 42 22 15
 0 41 1 0
+0 42 22 15
 1
 end_operator
 begin_operator
@@ -63812,8 +63812,8 @@ succumb prostatitis learning pistachio mercury neptune
 1
 9 9
 2
-0 42 22 15
 0 41 2 3
+0 42 22 15
 1
 end_operator
 begin_operator
@@ -63821,8 +63821,8 @@ succumb prostatitis learning pistachio neptune mars
 1
 9 9
 2
-0 42 22 15
 0 41 3 1
+0 42 22 15
 1
 end_operator
 begin_operator
@@ -63830,8 +63830,8 @@ succumb prostatitis learning scallop mars jupiter
 1
 9 10
 2
-0 42 22 16
 0 41 1 0
+0 42 22 16
 1
 end_operator
 begin_operator
@@ -63839,8 +63839,8 @@ succumb prostatitis learning scallop mercury neptune
 1
 9 10
 2
-0 42 22 16
 0 41 2 3
+0 42 22 16
 1
 end_operator
 begin_operator
@@ -63848,8 +63848,8 @@ succumb prostatitis learning scallop neptune mars
 1
 9 10
 2
-0 42 22 16
 0 41 3 1
+0 42 22 16
 1
 end_operator
 begin_operator
@@ -63857,8 +63857,8 @@ succumb prostatitis learning sweetroll mars jupiter
 1
 9 11
 2
-0 42 22 17
 0 41 1 0
+0 42 22 17
 1
 end_operator
 begin_operator
@@ -63866,8 +63866,8 @@ succumb prostatitis learning sweetroll mercury neptune
 1
 9 11
 2
-0 42 22 17
 0 41 2 3
+0 42 22 17
 1
 end_operator
 begin_operator
@@ -63875,8 +63875,8 @@ succumb prostatitis learning sweetroll neptune mars
 1
 9 11
 2
-0 42 22 17
 0 41 3 1
+0 42 22 17
 1
 end_operator
 begin_operator
@@ -64208,8 +64208,8 @@ succumb prostatitis triumph bacon mars jupiter
 1
 22 0
 2
-0 42 24 1
 0 36 1 0
+0 42 24 1
 1
 end_operator
 begin_operator
@@ -64217,8 +64217,8 @@ succumb prostatitis triumph bacon mercury neptune
 1
 22 0
 2
-0 42 24 1
 0 36 2 3
+0 42 24 1
 1
 end_operator
 begin_operator
@@ -64226,8 +64226,8 @@ succumb prostatitis triumph bacon neptune mars
 1
 22 0
 2
-0 42 24 1
 0 36 3 1
+0 42 24 1
 1
 end_operator
 begin_operator
@@ -64235,8 +64235,8 @@ succumb prostatitis triumph beef mars jupiter
 1
 22 1
 2
-0 42 24 2
 0 36 1 0
+0 42 24 2
 1
 end_operator
 begin_operator
@@ -64244,8 +64244,8 @@ succumb prostatitis triumph beef mercury neptune
 1
 22 1
 2
-0 42 24 2
 0 36 2 3
+0 42 24 2
 1
 end_operator
 begin_operator
@@ -64253,8 +64253,8 @@ succumb prostatitis triumph beef neptune mars
 1
 22 1
 2
-0 42 24 2
 0 36 3 1
+0 42 24 2
 1
 end_operator
 begin_operator
@@ -64262,8 +64262,8 @@ succumb prostatitis triumph chicken mars jupiter
 1
 22 2
 2
-0 42 24 4
 0 36 1 0
+0 42 24 4
 1
 end_operator
 begin_operator
@@ -64271,8 +64271,8 @@ succumb prostatitis triumph chicken mercury neptune
 1
 22 2
 2
-0 42 24 4
 0 36 2 3
+0 42 24 4
 1
 end_operator
 begin_operator
@@ -64280,8 +64280,8 @@ succumb prostatitis triumph chicken neptune mars
 1
 22 2
 2
-0 42 24 4
 0 36 3 1
+0 42 24 4
 1
 end_operator
 begin_operator
@@ -64289,8 +64289,8 @@ succumb prostatitis triumph grapefruit mars jupiter
 1
 22 3
 2
-0 42 24 6
 0 36 1 0
+0 42 24 6
 1
 end_operator
 begin_operator
@@ -64298,8 +64298,8 @@ succumb prostatitis triumph grapefruit mercury neptune
 1
 22 3
 2
-0 42 24 6
 0 36 2 3
+0 42 24 6
 1
 end_operator
 begin_operator
@@ -64307,8 +64307,8 @@ succumb prostatitis triumph grapefruit neptune mars
 1
 22 3
 2
-0 42 24 6
 0 36 3 1
+0 42 24 6
 1
 end_operator
 begin_operator
@@ -64316,8 +64316,8 @@ succumb prostatitis triumph haroset mars jupiter
 1
 22 4
 2
-0 42 24 8
 0 36 1 0
+0 42 24 8
 1
 end_operator
 begin_operator
@@ -64325,8 +64325,8 @@ succumb prostatitis triumph haroset mercury neptune
 1
 22 4
 2
-0 42 24 8
 0 36 2 3
+0 42 24 8
 1
 end_operator
 begin_operator
@@ -64334,8 +64334,8 @@ succumb prostatitis triumph haroset neptune mars
 1
 22 4
 2
-0 42 24 8
 0 36 3 1
+0 42 24 8
 1
 end_operator
 begin_operator
@@ -64343,8 +64343,8 @@ succumb prostatitis triumph hotdog mars jupiter
 1
 22 5
 2
-0 42 24 9
 0 36 1 0
+0 42 24 9
 1
 end_operator
 begin_operator
@@ -64352,8 +64352,8 @@ succumb prostatitis triumph hotdog mercury neptune
 1
 22 5
 2
-0 42 24 9
 0 36 2 3
+0 42 24 9
 1
 end_operator
 begin_operator
@@ -64361,8 +64361,8 @@ succumb prostatitis triumph hotdog neptune mars
 1
 22 5
 2
-0 42 24 9
 0 36 3 1
+0 42 24 9
 1
 end_operator
 begin_operator
@@ -64370,8 +64370,8 @@ succumb prostatitis triumph lobster mars jupiter
 1
 22 6
 2
-0 42 24 11
 0 36 1 0
+0 42 24 11
 1
 end_operator
 begin_operator
@@ -64379,8 +64379,8 @@ succumb prostatitis triumph lobster mercury neptune
 1
 22 6
 2
-0 42 24 11
 0 36 2 3
+0 42 24 11
 1
 end_operator
 begin_operator
@@ -64388,8 +64388,8 @@ succumb prostatitis triumph lobster neptune mars
 1
 22 6
 2
-0 42 24 11
 0 36 3 1
+0 42 24 11
 1
 end_operator
 begin_operator
@@ -64397,8 +64397,8 @@ succumb prostatitis triumph wonderbread mars jupiter
 1
 22 7
 2
-0 42 24 18
 0 36 1 0
+0 42 24 18
 1
 end_operator
 begin_operator
@@ -64406,8 +64406,8 @@ succumb prostatitis triumph wonderbread mercury neptune
 1
 22 7
 2
-0 42 24 18
 0 36 2 3
+0 42 24 18
 1
 end_operator
 begin_operator
@@ -64415,8 +64415,8 @@ succumb prostatitis triumph wonderbread neptune mars
 1
 22 7
 2
-0 42 24 18
 0 36 3 1
+0 42 24 18
 1
 end_operator
 begin_operator
@@ -64748,8 +64748,8 @@ succumb sciatica curiosity bacon mars jupiter
 1
 19 0
 2
-0 43 19 1
 0 32 1 0
+0 43 19 1
 1
 end_operator
 begin_operator
@@ -64757,8 +64757,8 @@ succumb sciatica curiosity bacon mercury neptune
 1
 19 0
 2
-0 43 19 1
 0 32 2 3
+0 43 19 1
 1
 end_operator
 begin_operator
@@ -64766,8 +64766,8 @@ succumb sciatica curiosity bacon neptune mars
 1
 19 0
 2
-0 43 19 1
 0 32 3 1
+0 43 19 1
 1
 end_operator
 begin_operator
@@ -64775,8 +64775,8 @@ succumb sciatica curiosity beef mars jupiter
 1
 19 1
 2
-0 43 19 2
 0 32 1 0
+0 43 19 2
 1
 end_operator
 begin_operator
@@ -64784,8 +64784,8 @@ succumb sciatica curiosity beef mercury neptune
 1
 19 1
 2
-0 43 19 2
 0 32 2 3
+0 43 19 2
 1
 end_operator
 begin_operator
@@ -64793,8 +64793,8 @@ succumb sciatica curiosity beef neptune mars
 1
 19 1
 2
-0 43 19 2
 0 32 3 1
+0 43 19 2
 1
 end_operator
 begin_operator
@@ -64802,8 +64802,8 @@ succumb sciatica curiosity chicken mars jupiter
 1
 19 2
 2
-0 43 19 4
 0 32 1 0
+0 43 19 4
 1
 end_operator
 begin_operator
@@ -64811,8 +64811,8 @@ succumb sciatica curiosity chicken mercury neptune
 1
 19 2
 2
-0 43 19 4
 0 32 2 3
+0 43 19 4
 1
 end_operator
 begin_operator
@@ -64820,8 +64820,8 @@ succumb sciatica curiosity chicken neptune mars
 1
 19 2
 2
-0 43 19 4
 0 32 3 1
+0 43 19 4
 1
 end_operator
 begin_operator
@@ -64829,8 +64829,8 @@ succumb sciatica curiosity grapefruit mars jupiter
 1
 19 3
 2
-0 43 19 6
 0 32 1 0
+0 43 19 6
 1
 end_operator
 begin_operator
@@ -64838,8 +64838,8 @@ succumb sciatica curiosity grapefruit mercury neptune
 1
 19 3
 2
-0 43 19 6
 0 32 2 3
+0 43 19 6
 1
 end_operator
 begin_operator
@@ -64847,8 +64847,8 @@ succumb sciatica curiosity grapefruit neptune mars
 1
 19 3
 2
-0 43 19 6
 0 32 3 1
+0 43 19 6
 1
 end_operator
 begin_operator
@@ -64856,8 +64856,8 @@ succumb sciatica curiosity haroset mars jupiter
 1
 19 4
 2
-0 43 19 8
 0 32 1 0
+0 43 19 8
 1
 end_operator
 begin_operator
@@ -64865,8 +64865,8 @@ succumb sciatica curiosity haroset mercury neptune
 1
 19 4
 2
-0 43 19 8
 0 32 2 3
+0 43 19 8
 1
 end_operator
 begin_operator
@@ -64874,8 +64874,8 @@ succumb sciatica curiosity haroset neptune mars
 1
 19 4
 2
-0 43 19 8
 0 32 3 1
+0 43 19 8
 1
 end_operator
 begin_operator
@@ -64883,8 +64883,8 @@ succumb sciatica curiosity hotdog mars jupiter
 1
 19 5
 2
-0 43 19 9
 0 32 1 0
+0 43 19 9
 1
 end_operator
 begin_operator
@@ -64892,8 +64892,8 @@ succumb sciatica curiosity hotdog mercury neptune
 1
 19 5
 2
-0 43 19 9
 0 32 2 3
+0 43 19 9
 1
 end_operator
 begin_operator
@@ -64901,8 +64901,8 @@ succumb sciatica curiosity hotdog neptune mars
 1
 19 5
 2
-0 43 19 9
 0 32 3 1
+0 43 19 9
 1
 end_operator
 begin_operator
@@ -64910,8 +64910,8 @@ succumb sciatica curiosity lobster mars jupiter
 1
 19 6
 2
-0 43 19 11
 0 32 1 0
+0 43 19 11
 1
 end_operator
 begin_operator
@@ -64919,8 +64919,8 @@ succumb sciatica curiosity lobster mercury neptune
 1
 19 6
 2
-0 43 19 11
 0 32 2 3
+0 43 19 11
 1
 end_operator
 begin_operator
@@ -64928,8 +64928,8 @@ succumb sciatica curiosity lobster neptune mars
 1
 19 6
 2
-0 43 19 11
 0 32 3 1
+0 43 19 11
 1
 end_operator
 begin_operator
@@ -64937,8 +64937,8 @@ succumb sciatica curiosity wonderbread mars jupiter
 1
 19 7
 2
-0 43 19 18
 0 32 1 0
+0 43 19 18
 1
 end_operator
 begin_operator
@@ -64946,8 +64946,8 @@ succumb sciatica curiosity wonderbread mercury neptune
 1
 19 7
 2
-0 43 19 18
 0 32 2 3
+0 43 19 18
 1
 end_operator
 begin_operator
@@ -64955,8 +64955,8 @@ succumb sciatica curiosity wonderbread neptune mars
 1
 19 7
 2
-0 43 19 18
 0 32 3 1
+0 43 19 18
 1
 end_operator
 begin_operator
@@ -64964,8 +64964,8 @@ succumb sciatica empathy bacon mars jupiter
 1
 21 0
 2
-0 43 20 1
 0 33 1 0
+0 43 20 1
 1
 end_operator
 begin_operator
@@ -64973,8 +64973,8 @@ succumb sciatica empathy bacon mercury neptune
 1
 21 0
 2
-0 43 20 1
 0 33 2 3
+0 43 20 1
 1
 end_operator
 begin_operator
@@ -64982,8 +64982,8 @@ succumb sciatica empathy bacon neptune mars
 1
 21 0
 2
-0 43 20 1
 0 33 3 1
+0 43 20 1
 1
 end_operator
 begin_operator
@@ -64991,8 +64991,8 @@ succumb sciatica empathy beef mars jupiter
 1
 21 1
 2
-0 43 20 2
 0 33 1 0
+0 43 20 2
 1
 end_operator
 begin_operator
@@ -65000,8 +65000,8 @@ succumb sciatica empathy beef mercury neptune
 1
 21 1
 2
-0 43 20 2
 0 33 2 3
+0 43 20 2
 1
 end_operator
 begin_operator
@@ -65009,8 +65009,8 @@ succumb sciatica empathy beef neptune mars
 1
 21 1
 2
-0 43 20 2
 0 33 3 1
+0 43 20 2
 1
 end_operator
 begin_operator
@@ -65018,8 +65018,8 @@ succumb sciatica empathy chicken mars jupiter
 1
 21 2
 2
-0 43 20 4
 0 33 1 0
+0 43 20 4
 1
 end_operator
 begin_operator
@@ -65027,8 +65027,8 @@ succumb sciatica empathy chicken mercury neptune
 1
 21 2
 2
-0 43 20 4
 0 33 2 3
+0 43 20 4
 1
 end_operator
 begin_operator
@@ -65036,8 +65036,8 @@ succumb sciatica empathy chicken neptune mars
 1
 21 2
 2
-0 43 20 4
 0 33 3 1
+0 43 20 4
 1
 end_operator
 begin_operator
@@ -65045,8 +65045,8 @@ succumb sciatica empathy grapefruit mars jupiter
 1
 21 3
 2
-0 43 20 6
 0 33 1 0
+0 43 20 6
 1
 end_operator
 begin_operator
@@ -65054,8 +65054,8 @@ succumb sciatica empathy grapefruit mercury neptune
 1
 21 3
 2
-0 43 20 6
 0 33 2 3
+0 43 20 6
 1
 end_operator
 begin_operator
@@ -65063,8 +65063,8 @@ succumb sciatica empathy grapefruit neptune mars
 1
 21 3
 2
-0 43 20 6
 0 33 3 1
+0 43 20 6
 1
 end_operator
 begin_operator
@@ -65072,8 +65072,8 @@ succumb sciatica empathy haroset mars jupiter
 1
 21 4
 2
-0 43 20 8
 0 33 1 0
+0 43 20 8
 1
 end_operator
 begin_operator
@@ -65081,8 +65081,8 @@ succumb sciatica empathy haroset mercury neptune
 1
 21 4
 2
-0 43 20 8
 0 33 2 3
+0 43 20 8
 1
 end_operator
 begin_operator
@@ -65090,8 +65090,8 @@ succumb sciatica empathy haroset neptune mars
 1
 21 4
 2
-0 43 20 8
 0 33 3 1
+0 43 20 8
 1
 end_operator
 begin_operator
@@ -65099,8 +65099,8 @@ succumb sciatica empathy hotdog mars jupiter
 1
 21 5
 2
-0 43 20 9
 0 33 1 0
+0 43 20 9
 1
 end_operator
 begin_operator
@@ -65108,8 +65108,8 @@ succumb sciatica empathy hotdog mercury neptune
 1
 21 5
 2
-0 43 20 9
 0 33 2 3
+0 43 20 9
 1
 end_operator
 begin_operator
@@ -65117,8 +65117,8 @@ succumb sciatica empathy hotdog neptune mars
 1
 21 5
 2
-0 43 20 9
 0 33 3 1
+0 43 20 9
 1
 end_operator
 begin_operator
@@ -65126,8 +65126,8 @@ succumb sciatica empathy lobster mars jupiter
 1
 21 6
 2
-0 43 20 11
 0 33 1 0
+0 43 20 11
 1
 end_operator
 begin_operator
@@ -65135,8 +65135,8 @@ succumb sciatica empathy lobster mercury neptune
 1
 21 6
 2
-0 43 20 11
 0 33 2 3
+0 43 20 11
 1
 end_operator
 begin_operator
@@ -65144,8 +65144,8 @@ succumb sciatica empathy lobster neptune mars
 1
 21 6
 2
-0 43 20 11
 0 33 3 1
+0 43 20 11
 1
 end_operator
 begin_operator
@@ -65153,8 +65153,8 @@ succumb sciatica empathy wonderbread mars jupiter
 1
 21 7
 2
-0 43 20 18
 0 33 1 0
+0 43 20 18
 1
 end_operator
 begin_operator
@@ -65162,8 +65162,8 @@ succumb sciatica empathy wonderbread mercury neptune
 1
 21 7
 2
-0 43 20 18
 0 33 2 3
+0 43 20 18
 1
 end_operator
 begin_operator
@@ -65171,8 +65171,8 @@ succumb sciatica empathy wonderbread neptune mars
 1
 21 7
 2
-0 43 20 18
 0 33 3 1
+0 43 20 18
 1
 end_operator
 begin_operator
@@ -65180,8 +65180,8 @@ succumb sciatica intoxication apple mars jupiter
 1
 7 0
 2
-0 43 21 0
 0 40 1 0
+0 43 21 0
 1
 end_operator
 begin_operator
@@ -65189,8 +65189,8 @@ succumb sciatica intoxication apple mercury neptune
 1
 7 0
 2
-0 43 21 0
 0 40 2 3
+0 43 21 0
 1
 end_operator
 begin_operator
@@ -65198,8 +65198,8 @@ succumb sciatica intoxication apple neptune mars
 1
 7 0
 2
-0 43 21 0
 0 40 3 1
+0 43 21 0
 1
 end_operator
 begin_operator
@@ -65207,8 +65207,8 @@ succumb sciatica intoxication cherry mars jupiter
 1
 7 1
 2
-0 43 21 3
 0 40 1 0
+0 43 21 3
 1
 end_operator
 begin_operator
@@ -65216,8 +65216,8 @@ succumb sciatica intoxication cherry mercury neptune
 1
 7 1
 2
-0 43 21 3
 0 40 2 3
+0 43 21 3
 1
 end_operator
 begin_operator
@@ -65225,8 +65225,8 @@ succumb sciatica intoxication cherry neptune mars
 1
 7 1
 2
-0 43 21 3
 0 40 3 1
+0 43 21 3
 1
 end_operator
 begin_operator
@@ -65234,8 +65234,8 @@ succumb sciatica intoxication flounder mars jupiter
 1
 7 2
 2
-0 43 21 5
 0 40 1 0
+0 43 21 5
 1
 end_operator
 begin_operator
@@ -65243,8 +65243,8 @@ succumb sciatica intoxication flounder mercury neptune
 1
 7 2
 2
-0 43 21 5
 0 40 2 3
+0 43 21 5
 1
 end_operator
 begin_operator
@@ -65252,8 +65252,8 @@ succumb sciatica intoxication flounder neptune mars
 1
 7 2
 2
-0 43 21 5
 0 40 3 1
+0 43 21 5
 1
 end_operator
 begin_operator
@@ -65261,8 +65261,8 @@ succumb sciatica intoxication ham mars jupiter
 1
 7 3
 2
-0 43 21 7
 0 40 1 0
+0 43 21 7
 1
 end_operator
 begin_operator
@@ -65270,8 +65270,8 @@ succumb sciatica intoxication ham mercury neptune
 1
 7 3
 2
-0 43 21 7
 0 40 2 3
+0 43 21 7
 1
 end_operator
 begin_operator
@@ -65279,8 +65279,8 @@ succumb sciatica intoxication ham neptune mars
 1
 7 3
 2
-0 43 21 7
 0 40 3 1
+0 43 21 7
 1
 end_operator
 begin_operator
@@ -65288,8 +65288,8 @@ succumb sciatica intoxication hotdog mars jupiter
 1
 7 4
 2
-0 43 21 9
 0 40 1 0
+0 43 21 9
 1
 end_operator
 begin_operator
@@ -65297,8 +65297,8 @@ succumb sciatica intoxication hotdog mercury neptune
 1
 7 4
 2
-0 43 21 9
 0 40 2 3
+0 43 21 9
 1
 end_operator
 begin_operator
@@ -65306,8 +65306,8 @@ succumb sciatica intoxication hotdog neptune mars
 1
 7 4
 2
-0 43 21 9
 0 40 3 1
+0 43 21 9
 1
 end_operator
 begin_operator
@@ -65315,8 +65315,8 @@ succumb sciatica intoxication lamb mars jupiter
 1
 7 5
 2
-0 43 21 10
 0 40 1 0
+0 43 21 10
 1
 end_operator
 begin_operator
@@ -65324,8 +65324,8 @@ succumb sciatica intoxication lamb mercury neptune
 1
 7 5
 2
-0 43 21 10
 0 40 2 3
+0 43 21 10
 1
 end_operator
 begin_operator
@@ -65333,8 +65333,8 @@ succumb sciatica intoxication lamb neptune mars
 1
 7 5
 2
-0 43 21 10
 0 40 3 1
+0 43 21 10
 1
 end_operator
 begin_operator
@@ -65342,8 +65342,8 @@ succumb sciatica intoxication okra mars jupiter
 1
 7 6
 2
-0 43 21 12
 0 40 1 0
+0 43 21 12
 1
 end_operator
 begin_operator
@@ -65351,8 +65351,8 @@ succumb sciatica intoxication okra mercury neptune
 1
 7 6
 2
-0 43 21 12
 0 40 2 3
+0 43 21 12
 1
 end_operator
 begin_operator
@@ -65360,8 +65360,8 @@ succumb sciatica intoxication okra neptune mars
 1
 7 6
 2
-0 43 21 12
 0 40 3 1
+0 43 21 12
 1
 end_operator
 begin_operator
@@ -65369,8 +65369,8 @@ succumb sciatica intoxication onion mars jupiter
 1
 7 7
 2
-0 43 21 13
 0 40 1 0
+0 43 21 13
 1
 end_operator
 begin_operator
@@ -65378,8 +65378,8 @@ succumb sciatica intoxication onion mercury neptune
 1
 7 7
 2
-0 43 21 13
 0 40 2 3
+0 43 21 13
 1
 end_operator
 begin_operator
@@ -65387,8 +65387,8 @@ succumb sciatica intoxication onion neptune mars
 1
 7 7
 2
-0 43 21 13
 0 40 3 1
+0 43 21 13
 1
 end_operator
 begin_operator
@@ -65396,8 +65396,8 @@ succumb sciatica intoxication papaya mars jupiter
 1
 7 8
 2
-0 43 21 14
 0 40 1 0
+0 43 21 14
 1
 end_operator
 begin_operator
@@ -65405,8 +65405,8 @@ succumb sciatica intoxication papaya mercury neptune
 1
 7 8
 2
-0 43 21 14
 0 40 2 3
+0 43 21 14
 1
 end_operator
 begin_operator
@@ -65414,8 +65414,8 @@ succumb sciatica intoxication papaya neptune mars
 1
 7 8
 2
-0 43 21 14
 0 40 3 1
+0 43 21 14
 1
 end_operator
 begin_operator
@@ -65423,8 +65423,8 @@ succumb sciatica intoxication pistachio mars jupiter
 1
 7 9
 2
-0 43 21 15
 0 40 1 0
+0 43 21 15
 1
 end_operator
 begin_operator
@@ -65432,8 +65432,8 @@ succumb sciatica intoxication pistachio mercury neptune
 1
 7 9
 2
-0 43 21 15
 0 40 2 3
+0 43 21 15
 1
 end_operator
 begin_operator
@@ -65441,8 +65441,8 @@ succumb sciatica intoxication pistachio neptune mars
 1
 7 9
 2
-0 43 21 15
 0 40 3 1
+0 43 21 15
 1
 end_operator
 begin_operator
@@ -65450,8 +65450,8 @@ succumb sciatica intoxication scallop mars jupiter
 1
 7 10
 2
-0 43 21 16
 0 40 1 0
+0 43 21 16
 1
 end_operator
 begin_operator
@@ -65459,8 +65459,8 @@ succumb sciatica intoxication scallop mercury neptune
 1
 7 10
 2
-0 43 21 16
 0 40 2 3
+0 43 21 16
 1
 end_operator
 begin_operator
@@ -65468,8 +65468,8 @@ succumb sciatica intoxication scallop neptune mars
 1
 7 10
 2
-0 43 21 16
 0 40 3 1
+0 43 21 16
 1
 end_operator
 begin_operator
@@ -65477,8 +65477,8 @@ succumb sciatica intoxication sweetroll mars jupiter
 1
 7 11
 2
-0 43 21 17
 0 40 1 0
+0 43 21 17
 1
 end_operator
 begin_operator
@@ -65486,8 +65486,8 @@ succumb sciatica intoxication sweetroll mercury neptune
 1
 7 11
 2
-0 43 21 17
 0 40 2 3
+0 43 21 17
 1
 end_operator
 begin_operator
@@ -65495,8 +65495,8 @@ succumb sciatica intoxication sweetroll neptune mars
 1
 7 11
 2
-0 43 21 17
 0 40 3 1
+0 43 21 17
 1
 end_operator
 begin_operator
@@ -65504,8 +65504,8 @@ succumb sciatica learning apple mars jupiter
 1
 9 0
 2
-0 43 22 0
 0 41 1 0
+0 43 22 0
 1
 end_operator
 begin_operator
@@ -65513,8 +65513,8 @@ succumb sciatica learning apple mercury neptune
 1
 9 0
 2
-0 43 22 0
 0 41 2 3
+0 43 22 0
 1
 end_operator
 begin_operator
@@ -65522,8 +65522,8 @@ succumb sciatica learning apple neptune mars
 1
 9 0
 2
-0 43 22 0
 0 41 3 1
+0 43 22 0
 1
 end_operator
 begin_operator
@@ -65531,8 +65531,8 @@ succumb sciatica learning cherry mars jupiter
 1
 9 1
 2
-0 43 22 3
 0 41 1 0
+0 43 22 3
 1
 end_operator
 begin_operator
@@ -65540,8 +65540,8 @@ succumb sciatica learning cherry mercury neptune
 1
 9 1
 2
-0 43 22 3
 0 41 2 3
+0 43 22 3
 1
 end_operator
 begin_operator
@@ -65549,8 +65549,8 @@ succumb sciatica learning cherry neptune mars
 1
 9 1
 2
-0 43 22 3
 0 41 3 1
+0 43 22 3
 1
 end_operator
 begin_operator
@@ -65558,8 +65558,8 @@ succumb sciatica learning flounder mars jupiter
 1
 9 2
 2
-0 43 22 5
 0 41 1 0
+0 43 22 5
 1
 end_operator
 begin_operator
@@ -65567,8 +65567,8 @@ succumb sciatica learning flounder mercury neptune
 1
 9 2
 2
-0 43 22 5
 0 41 2 3
+0 43 22 5
 1
 end_operator
 begin_operator
@@ -65576,8 +65576,8 @@ succumb sciatica learning flounder neptune mars
 1
 9 2
 2
-0 43 22 5
 0 41 3 1
+0 43 22 5
 1
 end_operator
 begin_operator
@@ -65585,8 +65585,8 @@ succumb sciatica learning ham mars jupiter
 1
 9 3
 2
-0 43 22 7
 0 41 1 0
+0 43 22 7
 1
 end_operator
 begin_operator
@@ -65594,8 +65594,8 @@ succumb sciatica learning ham mercury neptune
 1
 9 3
 2
-0 43 22 7
 0 41 2 3
+0 43 22 7
 1
 end_operator
 begin_operator
@@ -65603,8 +65603,8 @@ succumb sciatica learning ham neptune mars
 1
 9 3
 2
-0 43 22 7
 0 41 3 1
+0 43 22 7
 1
 end_operator
 begin_operator
@@ -65612,8 +65612,8 @@ succumb sciatica learning hotdog mars jupiter
 1
 9 4
 2
-0 43 22 9
 0 41 1 0
+0 43 22 9
 1
 end_operator
 begin_operator
@@ -65621,8 +65621,8 @@ succumb sciatica learning hotdog mercury neptune
 1
 9 4
 2
-0 43 22 9
 0 41 2 3
+0 43 22 9
 1
 end_operator
 begin_operator
@@ -65630,8 +65630,8 @@ succumb sciatica learning hotdog neptune mars
 1
 9 4
 2
-0 43 22 9
 0 41 3 1
+0 43 22 9
 1
 end_operator
 begin_operator
@@ -65639,8 +65639,8 @@ succumb sciatica learning lamb mars jupiter
 1
 9 5
 2
-0 43 22 10
 0 41 1 0
+0 43 22 10
 1
 end_operator
 begin_operator
@@ -65648,8 +65648,8 @@ succumb sciatica learning lamb mercury neptune
 1
 9 5
 2
-0 43 22 10
 0 41 2 3
+0 43 22 10
 1
 end_operator
 begin_operator
@@ -65657,8 +65657,8 @@ succumb sciatica learning lamb neptune mars
 1
 9 5
 2
-0 43 22 10
 0 41 3 1
+0 43 22 10
 1
 end_operator
 begin_operator
@@ -65666,8 +65666,8 @@ succumb sciatica learning okra mars jupiter
 1
 9 6
 2
-0 43 22 12
 0 41 1 0
+0 43 22 12
 1
 end_operator
 begin_operator
@@ -65675,8 +65675,8 @@ succumb sciatica learning okra mercury neptune
 1
 9 6
 2
-0 43 22 12
 0 41 2 3
+0 43 22 12
 1
 end_operator
 begin_operator
@@ -65684,8 +65684,8 @@ succumb sciatica learning okra neptune mars
 1
 9 6
 2
-0 43 22 12
 0 41 3 1
+0 43 22 12
 1
 end_operator
 begin_operator
@@ -65693,8 +65693,8 @@ succumb sciatica learning onion mars jupiter
 1
 9 7
 2
-0 43 22 13
 0 41 1 0
+0 43 22 13
 1
 end_operator
 begin_operator
@@ -65702,8 +65702,8 @@ succumb sciatica learning onion mercury neptune
 1
 9 7
 2
-0 43 22 13
 0 41 2 3
+0 43 22 13
 1
 end_operator
 begin_operator
@@ -65711,8 +65711,8 @@ succumb sciatica learning onion neptune mars
 1
 9 7
 2
-0 43 22 13
 0 41 3 1
+0 43 22 13
 1
 end_operator
 begin_operator
@@ -65720,8 +65720,8 @@ succumb sciatica learning papaya mars jupiter
 1
 9 8
 2
-0 43 22 14
 0 41 1 0
+0 43 22 14
 1
 end_operator
 begin_operator
@@ -65729,8 +65729,8 @@ succumb sciatica learning papaya mercury neptune
 1
 9 8
 2
-0 43 22 14
 0 41 2 3
+0 43 22 14
 1
 end_operator
 begin_operator
@@ -65738,8 +65738,8 @@ succumb sciatica learning papaya neptune mars
 1
 9 8
 2
-0 43 22 14
 0 41 3 1
+0 43 22 14
 1
 end_operator
 begin_operator
@@ -65747,8 +65747,8 @@ succumb sciatica learning pistachio mars jupiter
 1
 9 9
 2
-0 43 22 15
 0 41 1 0
+0 43 22 15
 1
 end_operator
 begin_operator
@@ -65756,8 +65756,8 @@ succumb sciatica learning pistachio mercury neptune
 1
 9 9
 2
-0 43 22 15
 0 41 2 3
+0 43 22 15
 1
 end_operator
 begin_operator
@@ -65765,8 +65765,8 @@ succumb sciatica learning pistachio neptune mars
 1
 9 9
 2
-0 43 22 15
 0 41 3 1
+0 43 22 15
 1
 end_operator
 begin_operator
@@ -65774,8 +65774,8 @@ succumb sciatica learning scallop mars jupiter
 1
 9 10
 2
-0 43 22 16
 0 41 1 0
+0 43 22 16
 1
 end_operator
 begin_operator
@@ -65783,8 +65783,8 @@ succumb sciatica learning scallop mercury neptune
 1
 9 10
 2
-0 43 22 16
 0 41 2 3
+0 43 22 16
 1
 end_operator
 begin_operator
@@ -65792,8 +65792,8 @@ succumb sciatica learning scallop neptune mars
 1
 9 10
 2
-0 43 22 16
 0 41 3 1
+0 43 22 16
 1
 end_operator
 begin_operator
@@ -65801,8 +65801,8 @@ succumb sciatica learning sweetroll mars jupiter
 1
 9 11
 2
-0 43 22 17
 0 41 1 0
+0 43 22 17
 1
 end_operator
 begin_operator
@@ -65810,8 +65810,8 @@ succumb sciatica learning sweetroll mercury neptune
 1
 9 11
 2
-0 43 22 17
 0 41 2 3
+0 43 22 17
 1
 end_operator
 begin_operator
@@ -65819,8 +65819,8 @@ succumb sciatica learning sweetroll neptune mars
 1
 9 11
 2
-0 43 22 17
 0 41 3 1
+0 43 22 17
 1
 end_operator
 begin_operator
@@ -66152,8 +66152,8 @@ succumb sciatica triumph bacon mars jupiter
 1
 22 0
 2
-0 43 24 1
 0 36 1 0
+0 43 24 1
 1
 end_operator
 begin_operator
@@ -66161,8 +66161,8 @@ succumb sciatica triumph bacon mercury neptune
 1
 22 0
 2
-0 43 24 1
 0 36 2 3
+0 43 24 1
 1
 end_operator
 begin_operator
@@ -66170,8 +66170,8 @@ succumb sciatica triumph bacon neptune mars
 1
 22 0
 2
-0 43 24 1
 0 36 3 1
+0 43 24 1
 1
 end_operator
 begin_operator
@@ -66179,8 +66179,8 @@ succumb sciatica triumph beef mars jupiter
 1
 22 1
 2
-0 43 24 2
 0 36 1 0
+0 43 24 2
 1
 end_operator
 begin_operator
@@ -66188,8 +66188,8 @@ succumb sciatica triumph beef mercury neptune
 1
 22 1
 2
-0 43 24 2
 0 36 2 3
+0 43 24 2
 1
 end_operator
 begin_operator
@@ -66197,8 +66197,8 @@ succumb sciatica triumph beef neptune mars
 1
 22 1
 2
-0 43 24 2
 0 36 3 1
+0 43 24 2
 1
 end_operator
 begin_operator
@@ -66206,8 +66206,8 @@ succumb sciatica triumph chicken mars jupiter
 1
 22 2
 2
-0 43 24 4
 0 36 1 0
+0 43 24 4
 1
 end_operator
 begin_operator
@@ -66215,8 +66215,8 @@ succumb sciatica triumph chicken mercury neptune
 1
 22 2
 2
-0 43 24 4
 0 36 2 3
+0 43 24 4
 1
 end_operator
 begin_operator
@@ -66224,8 +66224,8 @@ succumb sciatica triumph chicken neptune mars
 1
 22 2
 2
-0 43 24 4
 0 36 3 1
+0 43 24 4
 1
 end_operator
 begin_operator
@@ -66233,8 +66233,8 @@ succumb sciatica triumph grapefruit mars jupiter
 1
 22 3
 2
-0 43 24 6
 0 36 1 0
+0 43 24 6
 1
 end_operator
 begin_operator
@@ -66242,8 +66242,8 @@ succumb sciatica triumph grapefruit mercury neptune
 1
 22 3
 2
-0 43 24 6
 0 36 2 3
+0 43 24 6
 1
 end_operator
 begin_operator
@@ -66251,8 +66251,8 @@ succumb sciatica triumph grapefruit neptune mars
 1
 22 3
 2
-0 43 24 6
 0 36 3 1
+0 43 24 6
 1
 end_operator
 begin_operator
@@ -66260,8 +66260,8 @@ succumb sciatica triumph haroset mars jupiter
 1
 22 4
 2
-0 43 24 8
 0 36 1 0
+0 43 24 8
 1
 end_operator
 begin_operator
@@ -66269,8 +66269,8 @@ succumb sciatica triumph haroset mercury neptune
 1
 22 4
 2
-0 43 24 8
 0 36 2 3
+0 43 24 8
 1
 end_operator
 begin_operator
@@ -66278,8 +66278,8 @@ succumb sciatica triumph haroset neptune mars
 1
 22 4
 2
-0 43 24 8
 0 36 3 1
+0 43 24 8
 1
 end_operator
 begin_operator
@@ -66287,8 +66287,8 @@ succumb sciatica triumph hotdog mars jupiter
 1
 22 5
 2
-0 43 24 9
 0 36 1 0
+0 43 24 9
 1
 end_operator
 begin_operator
@@ -66296,8 +66296,8 @@ succumb sciatica triumph hotdog mercury neptune
 1
 22 5
 2
-0 43 24 9
 0 36 2 3
+0 43 24 9
 1
 end_operator
 begin_operator
@@ -66305,8 +66305,8 @@ succumb sciatica triumph hotdog neptune mars
 1
 22 5
 2
-0 43 24 9
 0 36 3 1
+0 43 24 9
 1
 end_operator
 begin_operator
@@ -66314,8 +66314,8 @@ succumb sciatica triumph lobster mars jupiter
 1
 22 6
 2
-0 43 24 11
 0 36 1 0
+0 43 24 11
 1
 end_operator
 begin_operator
@@ -66323,8 +66323,8 @@ succumb sciatica triumph lobster mercury neptune
 1
 22 6
 2
-0 43 24 11
 0 36 2 3
+0 43 24 11
 1
 end_operator
 begin_operator
@@ -66332,8 +66332,8 @@ succumb sciatica triumph lobster neptune mars
 1
 22 6
 2
-0 43 24 11
 0 36 3 1
+0 43 24 11
 1
 end_operator
 begin_operator
@@ -66341,8 +66341,8 @@ succumb sciatica triumph wonderbread mars jupiter
 1
 22 7
 2
-0 43 24 18
 0 36 1 0
+0 43 24 18
 1
 end_operator
 begin_operator
@@ -66350,8 +66350,8 @@ succumb sciatica triumph wonderbread mercury neptune
 1
 22 7
 2
-0 43 24 18
 0 36 2 3
+0 43 24 18
 1
 end_operator
 begin_operator
@@ -66359,8 +66359,8 @@ succumb sciatica triumph wonderbread neptune mars
 1
 22 7
 2
-0 43 24 18
 0 36 3 1
+0 43 24 18
 1
 end_operator
 begin_operator

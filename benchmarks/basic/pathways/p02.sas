@@ -461,8 +461,8 @@ associate c-myc max c-myc-max
 0
 3
 0 50 0 1
-0 52 -1 0
 0 51 0 1
+0 52 -1 0
 1
 end_operator
 begin_operator
@@ -470,8 +470,8 @@ associate cdk1p1p2 gadd45 cdk1p1p2-gadd45
 0
 3
 0 45 0 1
-0 49 -1 0
 0 47 0 1
+0 49 -1 0
 1
 end_operator
 begin_operator
@@ -488,8 +488,8 @@ associate e2f6-dp12p1 ge2 e2f6-dp12p1-ge2
 0
 3
 0 14 0 1
-0 39 -1 0
 0 27 0 1
+0 39 -1 0
 1
 end_operator
 begin_operator
@@ -497,16 +497,16 @@ associate hbp1 p130 hbp1-p130
 0
 3
 0 18 0 1
-0 32 -1 0
 0 20 0 1
+0 32 -1 0
 1
 end_operator
 begin_operator
 associate hdac1-p130-e2f4p1-dp12 ge2 hdac1-p130-e2f4p1-dp12-ge2
 0
 3
-0 27 0 1
 0 15 0 1
+0 27 0 1
 0 38 -1 0
 1
 end_operator
@@ -514,8 +514,8 @@ begin_operator
 associate hdac1-prbp1-e2f13-dp12 ge2 hdac1-prbp1-e2f13-dp12-ge2
 0
 3
-0 27 0 1
 0 16 0 1
+0 27 0 1
 0 37 -1 0
 1
 end_operator
@@ -523,8 +523,8 @@ begin_operator
 associate hdac1-prbp1-e2f4-dp12 ge2 hdac1-prbp1-e2f4-dp12-ge2
 0
 3
-0 27 0 1
 0 17 0 1
+0 27 0 1
 0 36 -1 0
 1
 end_operator
@@ -532,8 +532,8 @@ begin_operator
 associate mdm2 e2f13p1-dp12 mdm2-e2f13p1-dp12
 0
 3
-0 21 0 1
 0 19 0 1
+0 21 0 1
 0 28 -1 0
 1
 end_operator
@@ -550,8 +550,8 @@ begin_operator
 associate p107-e2f4-dp12p1 ge2 p107-e2f4-dp12p1-ge2
 0
 3
-0 27 0 1
 0 26 0 1
+0 27 0 1
 0 34 -1 0
 1
 end_operator
@@ -559,8 +559,8 @@ begin_operator
 associate p130 e2f4-dp12p1 p130-e2f4-dp12p1
 0
 3
-0 22 0 1
 0 20 0 1
+0 22 0 1
 0 25 -1 0
 1
 end_operator
@@ -568,8 +568,8 @@ begin_operator
 associate p130-e2f4-dp12p1 ge2 p130-e2f4-dp12p1-ge2
 0
 3
-0 27 0 1
 0 25 0 1
+0 27 0 1
 0 33 -1 0
 1
 end_operator
@@ -577,8 +577,8 @@ begin_operator
 associate p21 gadd45 p21-gadd45
 0
 3
-0 47 0 1
 0 46 0 1
+0 47 0 1
 0 48 -1 0
 1
 end_operator
@@ -889,7 +889,7 @@ end_operator
 begin_operator
 dummy-action-2 
 1
-52 0
+42 0
 1
 0 53 -1 0
 1
@@ -897,7 +897,7 @@ end_operator
 begin_operator
 dummy-action-2 
 1
-42 0
+52 0
 1
 0 53 -1 0
 1

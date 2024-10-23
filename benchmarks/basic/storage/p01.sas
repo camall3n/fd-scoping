@@ -59,8 +59,8 @@ end_variable
 1
 begin_mutex_group
 2
-4 0
 3 0
+4 0
 end_mutex_group
 begin_state
 1
@@ -81,10 +81,10 @@ drop hoist0 crate0 container-0-0 loadarea container0
 1
 0 2
 4
-0 4 -1 0
 0 1 0 1
-0 6 -1 0
 0 3 0 1
+0 4 -1 0
+0 6 -1 0
 1
 end_operator
 begin_operator
@@ -92,10 +92,10 @@ drop hoist0 crate0 depot0-1-1 loadarea depot0
 1
 0 2
 4
-0 4 -1 0
 0 2 0 1
-0 5 -1 0
 0 3 0 2
+0 4 -1 0
+0 5 -1 0
 1
 end_operator
 begin_operator
@@ -135,10 +135,10 @@ lift hoist0 crate0 container-0-0 loadarea container0
 1
 0 2
 4
-0 4 0 1
 0 1 -1 0
-0 6 -1 1
 0 3 1 0
+0 4 0 1
+0 6 -1 1
 1
 end_operator
 begin_operator
@@ -146,10 +146,10 @@ lift hoist0 crate0 depot0-1-1 loadarea depot0
 1
 0 2
 4
-0 4 0 1
 0 2 -1 0
-0 5 -1 1
 0 3 2 0
+0 4 0 1
+0 5 -1 1
 1
 end_operator
 0

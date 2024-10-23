@@ -712,144 +712,144 @@ begin_operator
 feast curiosity flounder cherry alsace arizona
 0
 2
-0 4 2 1
 0 0 1 0
+0 4 2 1
 1
 end_operator
 begin_operator
 feast curiosity flounder cherry arizona kentucky
 0
 2
-0 4 2 1
 0 0 2 1
+0 4 2 1
 1
 end_operator
 begin_operator
 feast curiosity flounder tuna alsace arizona
 0
 2
-0 4 2 6
 0 0 1 0
+0 4 2 6
 1
 end_operator
 begin_operator
 feast curiosity flounder tuna arizona kentucky
 0
 2
-0 4 2 6
 0 0 2 1
+0 4 2 6
 1
 end_operator
 begin_operator
 feast curiosity ham muffin alsace arizona
 0
 2
-0 4 3 4
 0 2 1 0
+0 4 3 4
 1
 end_operator
 begin_operator
 feast curiosity ham muffin arizona kentucky
 0
 2
-0 4 3 4
 0 2 3 1
+0 4 3 4
 1
 end_operator
 begin_operator
 feast curiosity ham muffin bosnia surrey
 0
 2
-0 4 3 4
 0 2 4 2
+0 4 3 4
 1
 end_operator
 begin_operator
 feast curiosity ham muffin kentucky bosnia
 0
 2
-0 4 3 4
 0 2 2 3
+0 4 3 4
 1
 end_operator
 begin_operator
 feast curiosity ham tuna alsace arizona
 0
 2
-0 4 3 6
 0 2 1 0
+0 4 3 6
 1
 end_operator
 begin_operator
 feast curiosity ham tuna arizona kentucky
 0
 2
-0 4 3 6
 0 2 3 1
+0 4 3 6
 1
 end_operator
 begin_operator
 feast curiosity ham tuna bosnia surrey
 0
 2
-0 4 3 6
 0 2 4 2
+0 4 3 6
 1
 end_operator
 begin_operator
 feast curiosity ham tuna kentucky bosnia
 0
 2
-0 4 3 6
 0 2 2 3
+0 4 3 6
 1
 end_operator
 begin_operator
 feast curiosity muffin ham alsace arizona
 0
 2
-0 4 4 3
 0 1 1 0
+0 4 4 3
 1
 end_operator
 begin_operator
 feast curiosity muffin ham arizona kentucky
 0
 2
-0 4 4 3
 0 1 2 1
+0 4 4 3
 1
 end_operator
 begin_operator
 feast curiosity muffin onion alsace arizona
 0
 2
-0 4 4 5
 0 1 1 0
+0 4 4 5
 1
 end_operator
 begin_operator
 feast curiosity muffin onion arizona kentucky
 0
 2
-0 4 4 5
 0 1 2 1
+0 4 4 5
 1
 end_operator
 begin_operator
 feast curiosity muffin tuna alsace arizona
 0
 2
-0 4 4 6
 0 1 1 0
+0 4 4 6
 1
 end_operator
 begin_operator
 feast curiosity muffin tuna arizona kentucky
 0
 2
-0 4 4 6
 0 1 2 1
+0 4 4 6
 1
 end_operator
 begin_operator
@@ -928,64 +928,64 @@ begin_operator
 feast curiosity tuna beef alsace arizona
 0
 2
-0 4 6 0
 0 3 1 0
+0 4 6 0
 1
 end_operator
 begin_operator
 feast curiosity tuna beef arizona kentucky
 0
 2
-0 4 6 0
 0 3 2 1
+0 4 6 0
 1
 end_operator
 begin_operator
 feast curiosity tuna flounder alsace arizona
 0
 2
-0 4 6 2
 0 3 1 0
+0 4 6 2
 1
 end_operator
 begin_operator
 feast curiosity tuna flounder arizona kentucky
 0
 2
-0 4 6 2
 0 3 2 1
+0 4 6 2
 1
 end_operator
 begin_operator
 feast curiosity tuna ham alsace arizona
 0
 2
-0 4 6 3
 0 3 1 0
+0 4 6 3
 1
 end_operator
 begin_operator
 feast curiosity tuna ham arizona kentucky
 0
 2
-0 4 6 3
 0 3 2 1
+0 4 6 3
 1
 end_operator
 begin_operator
 feast curiosity tuna muffin alsace arizona
 0
 2
-0 4 6 4
 0 3 1 0
+0 4 6 4
 1
 end_operator
 begin_operator
 feast curiosity tuna muffin arizona kentucky
 0
 2
-0 4 6 4
 0 3 2 1
+0 4 6 4
 1
 end_operator
 begin_operator
@@ -1184,280 +1184,280 @@ begin_operator
 feast entertainment flounder cherry alsace arizona
 0
 2
-0 6 2 1
 0 0 1 0
+0 6 2 1
 1
 end_operator
 begin_operator
 feast entertainment flounder cherry arizona kentucky
 0
 2
-0 6 2 1
 0 0 2 1
+0 6 2 1
 1
 end_operator
 begin_operator
 feast entertainment flounder tuna alsace arizona
 0
 2
-0 6 2 6
 0 0 1 0
+0 6 2 6
 1
 end_operator
 begin_operator
 feast entertainment flounder tuna arizona kentucky
 0
 2
-0 6 2 6
 0 0 2 1
+0 6 2 6
 1
 end_operator
 begin_operator
 feast entertainment ham muffin alsace arizona
 0
 2
-0 6 3 4
 0 2 1 0
+0 6 3 4
 1
 end_operator
 begin_operator
 feast entertainment ham muffin arizona kentucky
 0
 2
-0 6 3 4
 0 2 3 1
+0 6 3 4
 1
 end_operator
 begin_operator
 feast entertainment ham muffin bosnia surrey
 0
 2
-0 6 3 4
 0 2 4 2
+0 6 3 4
 1
 end_operator
 begin_operator
 feast entertainment ham muffin kentucky bosnia
 0
 2
-0 6 3 4
 0 2 2 3
+0 6 3 4
 1
 end_operator
 begin_operator
 feast entertainment ham tuna alsace arizona
 0
 2
-0 6 3 6
 0 2 1 0
+0 6 3 6
 1
 end_operator
 begin_operator
 feast entertainment ham tuna arizona kentucky
 0
 2
-0 6 3 6
 0 2 3 1
+0 6 3 6
 1
 end_operator
 begin_operator
 feast entertainment ham tuna bosnia surrey
 0
 2
-0 6 3 6
 0 2 4 2
+0 6 3 6
 1
 end_operator
 begin_operator
 feast entertainment ham tuna kentucky bosnia
 0
 2
-0 6 3 6
 0 2 2 3
+0 6 3 6
 1
 end_operator
 begin_operator
 feast entertainment muffin ham alsace arizona
 0
 2
-0 6 4 3
 0 1 1 0
+0 6 4 3
 1
 end_operator
 begin_operator
 feast entertainment muffin ham arizona kentucky
 0
 2
-0 6 4 3
 0 1 2 1
+0 6 4 3
 1
 end_operator
 begin_operator
 feast entertainment muffin onion alsace arizona
 0
 2
-0 6 4 5
 0 1 1 0
+0 6 4 5
 1
 end_operator
 begin_operator
 feast entertainment muffin onion arizona kentucky
 0
 2
-0 6 4 5
 0 1 2 1
+0 6 4 5
 1
 end_operator
 begin_operator
 feast entertainment muffin tuna alsace arizona
 0
 2
-0 6 4 6
 0 1 1 0
+0 6 4 6
 1
 end_operator
 begin_operator
 feast entertainment muffin tuna arizona kentucky
 0
 2
-0 6 4 6
 0 1 2 1
+0 6 4 6
 1
 end_operator
 begin_operator
 feast entertainment onion beef alsace arizona
 0
 2
-0 6 5 0
 0 5 1 0
+0 6 5 0
 1
 end_operator
 begin_operator
 feast entertainment onion beef arizona kentucky
 0
 2
-0 6 5 0
 0 5 3 1
+0 6 5 0
 1
 end_operator
 begin_operator
 feast entertainment onion beef kentucky bosnia
 0
 2
-0 6 5 0
 0 5 2 3
+0 6 5 0
 1
 end_operator
 begin_operator
 feast entertainment onion cherry alsace arizona
 0
 2
-0 6 5 1
 0 5 1 0
+0 6 5 1
 1
 end_operator
 begin_operator
 feast entertainment onion cherry arizona kentucky
 0
 2
-0 6 5 1
 0 5 3 1
+0 6 5 1
 1
 end_operator
 begin_operator
 feast entertainment onion cherry kentucky bosnia
 0
 2
-0 6 5 1
 0 5 2 3
+0 6 5 1
 1
 end_operator
 begin_operator
 feast entertainment onion muffin alsace arizona
 0
 2
-0 6 5 4
 0 5 1 0
+0 6 5 4
 1
 end_operator
 begin_operator
 feast entertainment onion muffin arizona kentucky
 0
 2
-0 6 5 4
 0 5 3 1
+0 6 5 4
 1
 end_operator
 begin_operator
 feast entertainment onion muffin kentucky bosnia
 0
 2
-0 6 5 4
 0 5 2 3
+0 6 5 4
 1
 end_operator
 begin_operator
 feast entertainment tuna beef alsace arizona
 0
 2
-0 6 6 0
 0 3 1 0
+0 6 6 0
 1
 end_operator
 begin_operator
 feast entertainment tuna beef arizona kentucky
 0
 2
-0 6 6 0
 0 3 2 1
+0 6 6 0
 1
 end_operator
 begin_operator
 feast entertainment tuna flounder alsace arizona
 0
 2
-0 6 6 2
 0 3 1 0
+0 6 6 2
 1
 end_operator
 begin_operator
 feast entertainment tuna flounder arizona kentucky
 0
 2
-0 6 6 2
 0 3 2 1
+0 6 6 2
 1
 end_operator
 begin_operator
 feast entertainment tuna ham alsace arizona
 0
 2
-0 6 6 3
 0 3 1 0
+0 6 6 3
 1
 end_operator
 begin_operator
 feast entertainment tuna ham arizona kentucky
 0
 2
-0 6 6 3
 0 3 2 1
+0 6 6 3
 1
 end_operator
 begin_operator
 feast entertainment tuna muffin alsace arizona
 0
 2
-0 6 6 4
 0 3 1 0
+0 6 6 4
 1
 end_operator
 begin_operator
 feast entertainment tuna muffin arizona kentucky
 0
 2
-0 6 6 4
 0 3 2 1
+0 6 6 4
 1
 end_operator
 begin_operator
@@ -1656,752 +1656,752 @@ begin_operator
 feast satiety flounder cherry alsace arizona
 0
 2
-0 7 2 1
 0 0 1 0
+0 7 2 1
 1
 end_operator
 begin_operator
 feast satiety flounder cherry arizona kentucky
 0
 2
-0 7 2 1
 0 0 2 1
+0 7 2 1
 1
 end_operator
 begin_operator
 feast satiety flounder tuna alsace arizona
 0
 2
-0 7 2 6
 0 0 1 0
+0 7 2 6
 1
 end_operator
 begin_operator
 feast satiety flounder tuna arizona kentucky
 0
 2
-0 7 2 6
 0 0 2 1
+0 7 2 6
 1
 end_operator
 begin_operator
 feast satiety ham muffin alsace arizona
 0
 2
-0 7 3 4
 0 2 1 0
+0 7 3 4
 1
 end_operator
 begin_operator
 feast satiety ham muffin arizona kentucky
 0
 2
-0 7 3 4
 0 2 3 1
+0 7 3 4
 1
 end_operator
 begin_operator
 feast satiety ham muffin bosnia surrey
 0
 2
-0 7 3 4
 0 2 4 2
+0 7 3 4
 1
 end_operator
 begin_operator
 feast satiety ham muffin kentucky bosnia
 0
 2
-0 7 3 4
 0 2 2 3
+0 7 3 4
 1
 end_operator
 begin_operator
 feast satiety ham tuna alsace arizona
 0
 2
-0 7 3 6
 0 2 1 0
+0 7 3 6
 1
 end_operator
 begin_operator
 feast satiety ham tuna arizona kentucky
 0
 2
-0 7 3 6
 0 2 3 1
+0 7 3 6
 1
 end_operator
 begin_operator
 feast satiety ham tuna bosnia surrey
 0
 2
-0 7 3 6
 0 2 4 2
+0 7 3 6
 1
 end_operator
 begin_operator
 feast satiety ham tuna kentucky bosnia
 0
 2
-0 7 3 6
 0 2 2 3
+0 7 3 6
 1
 end_operator
 begin_operator
 feast satiety muffin ham alsace arizona
 0
 2
-0 7 4 3
 0 1 1 0
+0 7 4 3
 1
 end_operator
 begin_operator
 feast satiety muffin ham arizona kentucky
 0
 2
-0 7 4 3
 0 1 2 1
+0 7 4 3
 1
 end_operator
 begin_operator
 feast satiety muffin onion alsace arizona
 0
 2
-0 7 4 5
 0 1 1 0
+0 7 4 5
 1
 end_operator
 begin_operator
 feast satiety muffin onion arizona kentucky
 0
 2
-0 7 4 5
 0 1 2 1
+0 7 4 5
 1
 end_operator
 begin_operator
 feast satiety muffin tuna alsace arizona
 0
 2
-0 7 4 6
 0 1 1 0
+0 7 4 6
 1
 end_operator
 begin_operator
 feast satiety muffin tuna arizona kentucky
 0
 2
-0 7 4 6
 0 1 2 1
+0 7 4 6
 1
 end_operator
 begin_operator
 feast satiety onion beef alsace arizona
 0
 2
-0 7 5 0
 0 5 1 0
+0 7 5 0
 1
 end_operator
 begin_operator
 feast satiety onion beef arizona kentucky
 0
 2
-0 7 5 0
 0 5 3 1
+0 7 5 0
 1
 end_operator
 begin_operator
 feast satiety onion beef kentucky bosnia
 0
 2
-0 7 5 0
 0 5 2 3
+0 7 5 0
 1
 end_operator
 begin_operator
 feast satiety onion cherry alsace arizona
 0
 2
-0 7 5 1
 0 5 1 0
+0 7 5 1
 1
 end_operator
 begin_operator
 feast satiety onion cherry arizona kentucky
 0
 2
-0 7 5 1
 0 5 3 1
+0 7 5 1
 1
 end_operator
 begin_operator
 feast satiety onion cherry kentucky bosnia
 0
 2
-0 7 5 1
 0 5 2 3
+0 7 5 1
 1
 end_operator
 begin_operator
 feast satiety onion muffin alsace arizona
 0
 2
-0 7 5 4
 0 5 1 0
+0 7 5 4
 1
 end_operator
 begin_operator
 feast satiety onion muffin arizona kentucky
 0
 2
-0 7 5 4
 0 5 3 1
+0 7 5 4
 1
 end_operator
 begin_operator
 feast satiety onion muffin kentucky bosnia
 0
 2
-0 7 5 4
 0 5 2 3
+0 7 5 4
 1
 end_operator
 begin_operator
 feast satiety tuna beef alsace arizona
 0
 2
-0 7 6 0
 0 3 1 0
+0 7 6 0
 1
 end_operator
 begin_operator
 feast satiety tuna beef arizona kentucky
 0
 2
-0 7 6 0
 0 3 2 1
+0 7 6 0
 1
 end_operator
 begin_operator
 feast satiety tuna flounder alsace arizona
 0
 2
-0 7 6 2
 0 3 1 0
+0 7 6 2
 1
 end_operator
 begin_operator
 feast satiety tuna flounder arizona kentucky
 0
 2
-0 7 6 2
 0 3 2 1
+0 7 6 2
 1
 end_operator
 begin_operator
 feast satiety tuna ham alsace arizona
 0
 2
-0 7 6 3
 0 3 1 0
+0 7 6 3
 1
 end_operator
 begin_operator
 feast satiety tuna ham arizona kentucky
 0
 2
-0 7 6 3
 0 3 2 1
+0 7 6 3
 1
 end_operator
 begin_operator
 feast satiety tuna muffin alsace arizona
 0
 2
-0 7 6 4
 0 3 1 0
+0 7 6 4
 1
 end_operator
 begin_operator
 feast satiety tuna muffin arizona kentucky
 0
 2
-0 7 6 4
 0 3 2 1
+0 7 6 4
 1
 end_operator
 begin_operator
 feast stimulation beef cherry alsace arizona
 0
 2
-0 10 0 1
 0 8 1 0
+0 10 0 1
 1
 end_operator
 begin_operator
 feast stimulation beef cherry arizona kentucky
 0
 2
-0 10 0 1
 0 8 3 1
+0 10 0 1
 1
 end_operator
 begin_operator
 feast stimulation beef cherry bosnia surrey
 0
 2
-0 10 0 1
 0 8 4 2
+0 10 0 1
 1
 end_operator
 begin_operator
 feast stimulation beef cherry kentucky bosnia
 0
 2
-0 10 0 1
 0 8 2 3
+0 10 0 1
 1
 end_operator
 begin_operator
 feast stimulation beef onion alsace arizona
 0
 2
-0 10 0 5
 0 8 1 0
+0 10 0 5
 1
 end_operator
 begin_operator
 feast stimulation beef onion arizona kentucky
 0
 2
-0 10 0 5
 0 8 3 1
+0 10 0 5
 1
 end_operator
 begin_operator
 feast stimulation beef onion bosnia surrey
 0
 2
-0 10 0 5
 0 8 4 2
+0 10 0 5
 1
 end_operator
 begin_operator
 feast stimulation beef onion kentucky bosnia
 0
 2
-0 10 0 5
 0 8 2 3
+0 10 0 5
 1
 end_operator
 begin_operator
 feast stimulation beef tuna alsace arizona
 0
 2
-0 10 0 6
 0 8 1 0
+0 10 0 6
 1
 end_operator
 begin_operator
 feast stimulation beef tuna arizona kentucky
 0
 2
-0 10 0 6
 0 8 3 1
+0 10 0 6
 1
 end_operator
 begin_operator
 feast stimulation beef tuna bosnia surrey
 0
 2
-0 10 0 6
 0 8 4 2
+0 10 0 6
 1
 end_operator
 begin_operator
 feast stimulation beef tuna kentucky bosnia
 0
 2
-0 10 0 6
 0 8 2 3
+0 10 0 6
 1
 end_operator
 begin_operator
 feast stimulation cherry beef alsace arizona
 0
 2
-0 10 1 0
 0 9 1 0
+0 10 1 0
 1
 end_operator
 begin_operator
 feast stimulation cherry beef arizona kentucky
 0
 2
-0 10 1 0
 0 9 3 1
+0 10 1 0
 1
 end_operator
 begin_operator
 feast stimulation cherry beef bosnia surrey
 0
 2
-0 10 1 0
 0 9 4 2
+0 10 1 0
 1
 end_operator
 begin_operator
 feast stimulation cherry beef kentucky bosnia
 0
 2
-0 10 1 0
 0 9 2 3
+0 10 1 0
 1
 end_operator
 begin_operator
 feast stimulation cherry flounder alsace arizona
 0
 2
-0 10 1 2
 0 9 1 0
+0 10 1 2
 1
 end_operator
 begin_operator
 feast stimulation cherry flounder arizona kentucky
 0
 2
-0 10 1 2
 0 9 3 1
+0 10 1 2
 1
 end_operator
 begin_operator
 feast stimulation cherry flounder bosnia surrey
 0
 2
-0 10 1 2
 0 9 4 2
+0 10 1 2
 1
 end_operator
 begin_operator
 feast stimulation cherry flounder kentucky bosnia
 0
 2
-0 10 1 2
 0 9 2 3
+0 10 1 2
 1
 end_operator
 begin_operator
 feast stimulation cherry onion alsace arizona
 0
 2
-0 10 1 5
 0 9 1 0
+0 10 1 5
 1
 end_operator
 begin_operator
 feast stimulation cherry onion arizona kentucky
 0
 2
-0 10 1 5
 0 9 3 1
+0 10 1 5
 1
 end_operator
 begin_operator
 feast stimulation cherry onion bosnia surrey
 0
 2
-0 10 1 5
 0 9 4 2
+0 10 1 5
 1
 end_operator
 begin_operator
 feast stimulation cherry onion kentucky bosnia
 0
 2
-0 10 1 5
 0 9 2 3
+0 10 1 5
 1
 end_operator
 begin_operator
 feast stimulation flounder cherry alsace arizona
 0
 2
-0 10 2 1
 0 0 1 0
+0 10 2 1
 1
 end_operator
 begin_operator
 feast stimulation flounder cherry arizona kentucky
 0
 2
-0 10 2 1
 0 0 2 1
+0 10 2 1
 1
 end_operator
 begin_operator
 feast stimulation flounder tuna alsace arizona
 0
 2
-0 10 2 6
 0 0 1 0
+0 10 2 6
 1
 end_operator
 begin_operator
 feast stimulation flounder tuna arizona kentucky
 0
 2
-0 10 2 6
 0 0 2 1
+0 10 2 6
 1
 end_operator
 begin_operator
 feast stimulation ham muffin alsace arizona
 0
 2
-0 10 3 4
 0 2 1 0
+0 10 3 4
 1
 end_operator
 begin_operator
 feast stimulation ham muffin arizona kentucky
 0
 2
-0 10 3 4
 0 2 3 1
+0 10 3 4
 1
 end_operator
 begin_operator
 feast stimulation ham muffin bosnia surrey
 0
 2
-0 10 3 4
 0 2 4 2
+0 10 3 4
 1
 end_operator
 begin_operator
 feast stimulation ham muffin kentucky bosnia
 0
 2
-0 10 3 4
 0 2 2 3
+0 10 3 4
 1
 end_operator
 begin_operator
 feast stimulation ham tuna alsace arizona
 0
 2
-0 10 3 6
 0 2 1 0
+0 10 3 6
 1
 end_operator
 begin_operator
 feast stimulation ham tuna arizona kentucky
 0
 2
-0 10 3 6
 0 2 3 1
+0 10 3 6
 1
 end_operator
 begin_operator
 feast stimulation ham tuna bosnia surrey
 0
 2
-0 10 3 6
 0 2 4 2
+0 10 3 6
 1
 end_operator
 begin_operator
 feast stimulation ham tuna kentucky bosnia
 0
 2
-0 10 3 6
 0 2 2 3
+0 10 3 6
 1
 end_operator
 begin_operator
 feast stimulation muffin ham alsace arizona
 0
 2
-0 10 4 3
 0 1 1 0
+0 10 4 3
 1
 end_operator
 begin_operator
 feast stimulation muffin ham arizona kentucky
 0
 2
-0 10 4 3
 0 1 2 1
+0 10 4 3
 1
 end_operator
 begin_operator
 feast stimulation muffin onion alsace arizona
 0
 2
-0 10 4 5
 0 1 1 0
+0 10 4 5
 1
 end_operator
 begin_operator
 feast stimulation muffin onion arizona kentucky
 0
 2
-0 10 4 5
 0 1 2 1
+0 10 4 5
 1
 end_operator
 begin_operator
 feast stimulation muffin tuna alsace arizona
 0
 2
-0 10 4 6
 0 1 1 0
+0 10 4 6
 1
 end_operator
 begin_operator
 feast stimulation muffin tuna arizona kentucky
 0
 2
-0 10 4 6
 0 1 2 1
+0 10 4 6
 1
 end_operator
 begin_operator
 feast stimulation onion beef alsace arizona
 0
 2
-0 10 5 0
 0 5 1 0
+0 10 5 0
 1
 end_operator
 begin_operator
 feast stimulation onion beef arizona kentucky
 0
 2
-0 10 5 0
 0 5 3 1
+0 10 5 0
 1
 end_operator
 begin_operator
 feast stimulation onion beef kentucky bosnia
 0
 2
-0 10 5 0
 0 5 2 3
+0 10 5 0
 1
 end_operator
 begin_operator
 feast stimulation onion cherry alsace arizona
 0
 2
-0 10 5 1
 0 5 1 0
+0 10 5 1
 1
 end_operator
 begin_operator
 feast stimulation onion cherry arizona kentucky
 0
 2
-0 10 5 1
 0 5 3 1
+0 10 5 1
 1
 end_operator
 begin_operator
 feast stimulation onion cherry kentucky bosnia
 0
 2
-0 10 5 1
 0 5 2 3
+0 10 5 1
 1
 end_operator
 begin_operator
 feast stimulation onion muffin alsace arizona
 0
 2
-0 10 5 4
 0 5 1 0
+0 10 5 4
 1
 end_operator
 begin_operator
 feast stimulation onion muffin arizona kentucky
 0
 2
-0 10 5 4
 0 5 3 1
+0 10 5 4
 1
 end_operator
 begin_operator
 feast stimulation onion muffin kentucky bosnia
 0
 2
-0 10 5 4
 0 5 2 3
+0 10 5 4
 1
 end_operator
 begin_operator
 feast stimulation tuna beef alsace arizona
 0
 2
-0 10 6 0
 0 3 1 0
+0 10 6 0
 1
 end_operator
 begin_operator
 feast stimulation tuna beef arizona kentucky
 0
 2
-0 10 6 0
 0 3 2 1
+0 10 6 0
 1
 end_operator
 begin_operator
 feast stimulation tuna flounder alsace arizona
 0
 2
-0 10 6 2
 0 3 1 0
+0 10 6 2
 1
 end_operator
 begin_operator
 feast stimulation tuna flounder arizona kentucky
 0
 2
-0 10 6 2
 0 3 2 1
+0 10 6 2
 1
 end_operator
 begin_operator
 feast stimulation tuna ham alsace arizona
 0
 2
-0 10 6 3
 0 3 1 0
+0 10 6 3
 1
 end_operator
 begin_operator
 feast stimulation tuna ham arizona kentucky
 0
 2
-0 10 6 3
 0 3 2 1
+0 10 6 3
 1
 end_operator
 begin_operator
 feast stimulation tuna muffin alsace arizona
 0
 2
-0 10 6 4
 0 3 1 0
+0 10 6 4
 1
 end_operator
 begin_operator
 feast stimulation tuna muffin arizona kentucky
 0
 2
-0 10 6 4
 0 3 2 1
+0 10 6 4
 1
 end_operator
 begin_operator
@@ -7701,8 +7701,8 @@ overcome depression-1 curiosity beef mercury vulcan
 1
 4 0
 2
-0 33 0 7
 0 28 3 1
+0 33 0 7
 1
 end_operator
 begin_operator
@@ -7710,8 +7710,8 @@ overcome depression-1 curiosity beef pluto jupiter
 1
 4 0
 2
-0 33 0 7
 0 28 0 2
+0 33 0 7
 1
 end_operator
 begin_operator
@@ -7719,8 +7719,8 @@ overcome depression-1 curiosity beef vulcan pluto
 1
 4 0
 2
-0 33 0 7
 0 28 2 3
+0 33 0 7
 1
 end_operator
 begin_operator
@@ -7728,8 +7728,8 @@ overcome depression-1 curiosity cherry mercury vulcan
 1
 4 1
 2
-0 33 1 7
 0 28 3 1
+0 33 1 7
 1
 end_operator
 begin_operator
@@ -7737,8 +7737,8 @@ overcome depression-1 curiosity cherry pluto jupiter
 1
 4 1
 2
-0 33 1 7
 0 28 0 2
+0 33 1 7
 1
 end_operator
 begin_operator
@@ -7746,8 +7746,8 @@ overcome depression-1 curiosity cherry vulcan pluto
 1
 4 1
 2
-0 33 1 7
 0 28 2 3
+0 33 1 7
 1
 end_operator
 begin_operator
@@ -7755,8 +7755,8 @@ overcome depression-1 curiosity flounder mercury vulcan
 1
 4 2
 2
-0 33 2 7
 0 28 3 1
+0 33 2 7
 1
 end_operator
 begin_operator
@@ -7764,8 +7764,8 @@ overcome depression-1 curiosity flounder pluto jupiter
 1
 4 2
 2
-0 33 2 7
 0 28 0 2
+0 33 2 7
 1
 end_operator
 begin_operator
@@ -7773,8 +7773,8 @@ overcome depression-1 curiosity flounder vulcan pluto
 1
 4 2
 2
-0 33 2 7
 0 28 2 3
+0 33 2 7
 1
 end_operator
 begin_operator
@@ -7782,8 +7782,8 @@ overcome depression-1 curiosity ham mercury vulcan
 1
 4 3
 2
-0 33 3 7
 0 28 3 1
+0 33 3 7
 1
 end_operator
 begin_operator
@@ -7791,8 +7791,8 @@ overcome depression-1 curiosity ham pluto jupiter
 1
 4 3
 2
-0 33 3 7
 0 28 0 2
+0 33 3 7
 1
 end_operator
 begin_operator
@@ -7800,8 +7800,8 @@ overcome depression-1 curiosity ham vulcan pluto
 1
 4 3
 2
-0 33 3 7
 0 28 2 3
+0 33 3 7
 1
 end_operator
 begin_operator
@@ -7809,8 +7809,8 @@ overcome depression-1 curiosity muffin mercury vulcan
 1
 4 4
 2
-0 33 4 7
 0 28 3 1
+0 33 4 7
 1
 end_operator
 begin_operator
@@ -7818,8 +7818,8 @@ overcome depression-1 curiosity muffin pluto jupiter
 1
 4 4
 2
-0 33 4 7
 0 28 0 2
+0 33 4 7
 1
 end_operator
 begin_operator
@@ -7827,8 +7827,8 @@ overcome depression-1 curiosity muffin vulcan pluto
 1
 4 4
 2
-0 33 4 7
 0 28 2 3
+0 33 4 7
 1
 end_operator
 begin_operator
@@ -7836,8 +7836,8 @@ overcome depression-1 curiosity onion mercury vulcan
 1
 4 5
 2
-0 33 5 7
 0 28 3 1
+0 33 5 7
 1
 end_operator
 begin_operator
@@ -7845,8 +7845,8 @@ overcome depression-1 curiosity onion pluto jupiter
 1
 4 5
 2
-0 33 5 7
 0 28 0 2
+0 33 5 7
 1
 end_operator
 begin_operator
@@ -7854,8 +7854,8 @@ overcome depression-1 curiosity onion vulcan pluto
 1
 4 5
 2
-0 33 5 7
 0 28 2 3
+0 33 5 7
 1
 end_operator
 begin_operator
@@ -7863,8 +7863,8 @@ overcome depression-1 curiosity tuna mercury vulcan
 1
 4 6
 2
-0 33 6 7
 0 28 3 1
+0 33 6 7
 1
 end_operator
 begin_operator
@@ -7872,8 +7872,8 @@ overcome depression-1 curiosity tuna pluto jupiter
 1
 4 6
 2
-0 33 6 7
 0 28 0 2
+0 33 6 7
 1
 end_operator
 begin_operator
@@ -7881,8 +7881,8 @@ overcome depression-1 curiosity tuna vulcan pluto
 1
 4 6
 2
-0 33 6 7
 0 28 2 3
+0 33 6 7
 1
 end_operator
 begin_operator
@@ -7890,8 +7890,8 @@ overcome depression-1 entertainment beef mercury vulcan
 1
 6 0
 2
-0 33 0 8
 0 29 3 1
+0 33 0 8
 1
 end_operator
 begin_operator
@@ -7899,8 +7899,8 @@ overcome depression-1 entertainment beef pluto jupiter
 1
 6 0
 2
-0 33 0 8
 0 29 0 2
+0 33 0 8
 1
 end_operator
 begin_operator
@@ -7908,8 +7908,8 @@ overcome depression-1 entertainment beef vulcan pluto
 1
 6 0
 2
-0 33 0 8
 0 29 2 3
+0 33 0 8
 1
 end_operator
 begin_operator
@@ -7917,8 +7917,8 @@ overcome depression-1 entertainment cherry mercury vulcan
 1
 6 1
 2
-0 33 1 8
 0 29 3 1
+0 33 1 8
 1
 end_operator
 begin_operator
@@ -7926,8 +7926,8 @@ overcome depression-1 entertainment cherry pluto jupiter
 1
 6 1
 2
-0 33 1 8
 0 29 0 2
+0 33 1 8
 1
 end_operator
 begin_operator
@@ -7935,8 +7935,8 @@ overcome depression-1 entertainment cherry vulcan pluto
 1
 6 1
 2
-0 33 1 8
 0 29 2 3
+0 33 1 8
 1
 end_operator
 begin_operator
@@ -7944,8 +7944,8 @@ overcome depression-1 entertainment flounder mercury vulcan
 1
 6 2
 2
-0 33 2 8
 0 29 3 1
+0 33 2 8
 1
 end_operator
 begin_operator
@@ -7953,8 +7953,8 @@ overcome depression-1 entertainment flounder pluto jupiter
 1
 6 2
 2
-0 33 2 8
 0 29 0 2
+0 33 2 8
 1
 end_operator
 begin_operator
@@ -7962,8 +7962,8 @@ overcome depression-1 entertainment flounder vulcan pluto
 1
 6 2
 2
-0 33 2 8
 0 29 2 3
+0 33 2 8
 1
 end_operator
 begin_operator
@@ -7971,8 +7971,8 @@ overcome depression-1 entertainment ham mercury vulcan
 1
 6 3
 2
-0 33 3 8
 0 29 3 1
+0 33 3 8
 1
 end_operator
 begin_operator
@@ -7980,8 +7980,8 @@ overcome depression-1 entertainment ham pluto jupiter
 1
 6 3
 2
-0 33 3 8
 0 29 0 2
+0 33 3 8
 1
 end_operator
 begin_operator
@@ -7989,8 +7989,8 @@ overcome depression-1 entertainment ham vulcan pluto
 1
 6 3
 2
-0 33 3 8
 0 29 2 3
+0 33 3 8
 1
 end_operator
 begin_operator
@@ -7998,8 +7998,8 @@ overcome depression-1 entertainment muffin mercury vulcan
 1
 6 4
 2
-0 33 4 8
 0 29 3 1
+0 33 4 8
 1
 end_operator
 begin_operator
@@ -8007,8 +8007,8 @@ overcome depression-1 entertainment muffin pluto jupiter
 1
 6 4
 2
-0 33 4 8
 0 29 0 2
+0 33 4 8
 1
 end_operator
 begin_operator
@@ -8016,8 +8016,8 @@ overcome depression-1 entertainment muffin vulcan pluto
 1
 6 4
 2
-0 33 4 8
 0 29 2 3
+0 33 4 8
 1
 end_operator
 begin_operator
@@ -8025,8 +8025,8 @@ overcome depression-1 entertainment onion mercury vulcan
 1
 6 5
 2
-0 33 5 8
 0 29 3 1
+0 33 5 8
 1
 end_operator
 begin_operator
@@ -8034,8 +8034,8 @@ overcome depression-1 entertainment onion pluto jupiter
 1
 6 5
 2
-0 33 5 8
 0 29 0 2
+0 33 5 8
 1
 end_operator
 begin_operator
@@ -8043,8 +8043,8 @@ overcome depression-1 entertainment onion vulcan pluto
 1
 6 5
 2
-0 33 5 8
 0 29 2 3
+0 33 5 8
 1
 end_operator
 begin_operator
@@ -8052,8 +8052,8 @@ overcome depression-1 entertainment tuna mercury vulcan
 1
 6 6
 2
-0 33 6 8
 0 29 3 1
+0 33 6 8
 1
 end_operator
 begin_operator
@@ -8061,8 +8061,8 @@ overcome depression-1 entertainment tuna pluto jupiter
 1
 6 6
 2
-0 33 6 8
 0 29 0 2
+0 33 6 8
 1
 end_operator
 begin_operator
@@ -8070,8 +8070,8 @@ overcome depression-1 entertainment tuna vulcan pluto
 1
 6 6
 2
-0 33 6 8
 0 29 2 3
+0 33 6 8
 1
 end_operator
 begin_operator
@@ -8079,8 +8079,8 @@ overcome depression-1 satiety beef mercury vulcan
 1
 7 0
 2
-0 33 0 9
 0 31 3 1
+0 33 0 9
 1
 end_operator
 begin_operator
@@ -8088,8 +8088,8 @@ overcome depression-1 satiety beef pluto jupiter
 1
 7 0
 2
-0 33 0 9
 0 31 0 2
+0 33 0 9
 1
 end_operator
 begin_operator
@@ -8097,8 +8097,8 @@ overcome depression-1 satiety beef vulcan pluto
 1
 7 0
 2
-0 33 0 9
 0 31 2 3
+0 33 0 9
 1
 end_operator
 begin_operator
@@ -8106,8 +8106,8 @@ overcome depression-1 satiety cherry mercury vulcan
 1
 7 1
 2
-0 33 1 9
 0 31 3 1
+0 33 1 9
 1
 end_operator
 begin_operator
@@ -8115,8 +8115,8 @@ overcome depression-1 satiety cherry pluto jupiter
 1
 7 1
 2
-0 33 1 9
 0 31 0 2
+0 33 1 9
 1
 end_operator
 begin_operator
@@ -8124,8 +8124,8 @@ overcome depression-1 satiety cherry vulcan pluto
 1
 7 1
 2
-0 33 1 9
 0 31 2 3
+0 33 1 9
 1
 end_operator
 begin_operator
@@ -8133,8 +8133,8 @@ overcome depression-1 satiety flounder mercury vulcan
 1
 7 2
 2
-0 33 2 9
 0 31 3 1
+0 33 2 9
 1
 end_operator
 begin_operator
@@ -8142,8 +8142,8 @@ overcome depression-1 satiety flounder pluto jupiter
 1
 7 2
 2
-0 33 2 9
 0 31 0 2
+0 33 2 9
 1
 end_operator
 begin_operator
@@ -8151,8 +8151,8 @@ overcome depression-1 satiety flounder vulcan pluto
 1
 7 2
 2
-0 33 2 9
 0 31 2 3
+0 33 2 9
 1
 end_operator
 begin_operator
@@ -8160,8 +8160,8 @@ overcome depression-1 satiety ham mercury vulcan
 1
 7 3
 2
-0 33 3 9
 0 31 3 1
+0 33 3 9
 1
 end_operator
 begin_operator
@@ -8169,8 +8169,8 @@ overcome depression-1 satiety ham pluto jupiter
 1
 7 3
 2
-0 33 3 9
 0 31 0 2
+0 33 3 9
 1
 end_operator
 begin_operator
@@ -8178,8 +8178,8 @@ overcome depression-1 satiety ham vulcan pluto
 1
 7 3
 2
-0 33 3 9
 0 31 2 3
+0 33 3 9
 1
 end_operator
 begin_operator
@@ -8187,8 +8187,8 @@ overcome depression-1 satiety muffin mercury vulcan
 1
 7 4
 2
-0 33 4 9
 0 31 3 1
+0 33 4 9
 1
 end_operator
 begin_operator
@@ -8196,8 +8196,8 @@ overcome depression-1 satiety muffin pluto jupiter
 1
 7 4
 2
-0 33 4 9
 0 31 0 2
+0 33 4 9
 1
 end_operator
 begin_operator
@@ -8205,8 +8205,8 @@ overcome depression-1 satiety muffin vulcan pluto
 1
 7 4
 2
-0 33 4 9
 0 31 2 3
+0 33 4 9
 1
 end_operator
 begin_operator
@@ -8214,8 +8214,8 @@ overcome depression-1 satiety onion mercury vulcan
 1
 7 5
 2
-0 33 5 9
 0 31 3 1
+0 33 5 9
 1
 end_operator
 begin_operator
@@ -8223,8 +8223,8 @@ overcome depression-1 satiety onion pluto jupiter
 1
 7 5
 2
-0 33 5 9
 0 31 0 2
+0 33 5 9
 1
 end_operator
 begin_operator
@@ -8232,8 +8232,8 @@ overcome depression-1 satiety onion vulcan pluto
 1
 7 5
 2
-0 33 5 9
 0 31 2 3
+0 33 5 9
 1
 end_operator
 begin_operator
@@ -8241,8 +8241,8 @@ overcome depression-1 satiety tuna mercury vulcan
 1
 7 6
 2
-0 33 6 9
 0 31 3 1
+0 33 6 9
 1
 end_operator
 begin_operator
@@ -8250,8 +8250,8 @@ overcome depression-1 satiety tuna pluto jupiter
 1
 7 6
 2
-0 33 6 9
 0 31 0 2
+0 33 6 9
 1
 end_operator
 begin_operator
@@ -8259,8 +8259,8 @@ overcome depression-1 satiety tuna vulcan pluto
 1
 7 6
 2
-0 33 6 9
 0 31 2 3
+0 33 6 9
 1
 end_operator
 begin_operator
@@ -8268,8 +8268,8 @@ overcome depression-1 stimulation beef mercury vulcan
 1
 10 0
 2
-0 33 0 10
 0 32 3 1
+0 33 0 10
 1
 end_operator
 begin_operator
@@ -8277,8 +8277,8 @@ overcome depression-1 stimulation beef pluto jupiter
 1
 10 0
 2
-0 33 0 10
 0 32 0 2
+0 33 0 10
 1
 end_operator
 begin_operator
@@ -8286,8 +8286,8 @@ overcome depression-1 stimulation beef vulcan pluto
 1
 10 0
 2
-0 33 0 10
 0 32 2 3
+0 33 0 10
 1
 end_operator
 begin_operator
@@ -8295,8 +8295,8 @@ overcome depression-1 stimulation cherry mercury vulcan
 1
 10 1
 2
-0 33 1 10
 0 32 3 1
+0 33 1 10
 1
 end_operator
 begin_operator
@@ -8304,8 +8304,8 @@ overcome depression-1 stimulation cherry pluto jupiter
 1
 10 1
 2
-0 33 1 10
 0 32 0 2
+0 33 1 10
 1
 end_operator
 begin_operator
@@ -8313,8 +8313,8 @@ overcome depression-1 stimulation cherry vulcan pluto
 1
 10 1
 2
-0 33 1 10
 0 32 2 3
+0 33 1 10
 1
 end_operator
 begin_operator
@@ -8322,8 +8322,8 @@ overcome depression-1 stimulation flounder mercury vulcan
 1
 10 2
 2
-0 33 2 10
 0 32 3 1
+0 33 2 10
 1
 end_operator
 begin_operator
@@ -8331,8 +8331,8 @@ overcome depression-1 stimulation flounder pluto jupiter
 1
 10 2
 2
-0 33 2 10
 0 32 0 2
+0 33 2 10
 1
 end_operator
 begin_operator
@@ -8340,8 +8340,8 @@ overcome depression-1 stimulation flounder vulcan pluto
 1
 10 2
 2
-0 33 2 10
 0 32 2 3
+0 33 2 10
 1
 end_operator
 begin_operator
@@ -8349,8 +8349,8 @@ overcome depression-1 stimulation ham mercury vulcan
 1
 10 3
 2
-0 33 3 10
 0 32 3 1
+0 33 3 10
 1
 end_operator
 begin_operator
@@ -8358,8 +8358,8 @@ overcome depression-1 stimulation ham pluto jupiter
 1
 10 3
 2
-0 33 3 10
 0 32 0 2
+0 33 3 10
 1
 end_operator
 begin_operator
@@ -8367,8 +8367,8 @@ overcome depression-1 stimulation ham vulcan pluto
 1
 10 3
 2
-0 33 3 10
 0 32 2 3
+0 33 3 10
 1
 end_operator
 begin_operator
@@ -8376,8 +8376,8 @@ overcome depression-1 stimulation muffin mercury vulcan
 1
 10 4
 2
-0 33 4 10
 0 32 3 1
+0 33 4 10
 1
 end_operator
 begin_operator
@@ -8385,8 +8385,8 @@ overcome depression-1 stimulation muffin pluto jupiter
 1
 10 4
 2
-0 33 4 10
 0 32 0 2
+0 33 4 10
 1
 end_operator
 begin_operator
@@ -8394,8 +8394,8 @@ overcome depression-1 stimulation muffin vulcan pluto
 1
 10 4
 2
-0 33 4 10
 0 32 2 3
+0 33 4 10
 1
 end_operator
 begin_operator
@@ -8403,8 +8403,8 @@ overcome depression-1 stimulation onion mercury vulcan
 1
 10 5
 2
-0 33 5 10
 0 32 3 1
+0 33 5 10
 1
 end_operator
 begin_operator
@@ -8412,8 +8412,8 @@ overcome depression-1 stimulation onion pluto jupiter
 1
 10 5
 2
-0 33 5 10
 0 32 0 2
+0 33 5 10
 1
 end_operator
 begin_operator
@@ -8421,8 +8421,8 @@ overcome depression-1 stimulation onion vulcan pluto
 1
 10 5
 2
-0 33 5 10
 0 32 2 3
+0 33 5 10
 1
 end_operator
 begin_operator
@@ -8430,8 +8430,8 @@ overcome depression-1 stimulation tuna mercury vulcan
 1
 10 6
 2
-0 33 6 10
 0 32 3 1
+0 33 6 10
 1
 end_operator
 begin_operator
@@ -8439,8 +8439,8 @@ overcome depression-1 stimulation tuna pluto jupiter
 1
 10 6
 2
-0 33 6 10
 0 32 0 2
+0 33 6 10
 1
 end_operator
 begin_operator
@@ -8448,8 +8448,8 @@ overcome depression-1 stimulation tuna vulcan pluto
 1
 10 6
 2
-0 33 6 10
 0 32 2 3
+0 33 6 10
 1
 end_operator
 begin_operator
@@ -10725,8 +10725,8 @@ overcome grief-7 curiosity beef mercury vulcan
 1
 4 0
 2
-0 34 0 7
 0 28 3 1
+0 34 0 7
 1
 end_operator
 begin_operator
@@ -10734,8 +10734,8 @@ overcome grief-7 curiosity beef pluto jupiter
 1
 4 0
 2
-0 34 0 7
 0 28 0 2
+0 34 0 7
 1
 end_operator
 begin_operator
@@ -10743,8 +10743,8 @@ overcome grief-7 curiosity beef vulcan pluto
 1
 4 0
 2
-0 34 0 7
 0 28 2 3
+0 34 0 7
 1
 end_operator
 begin_operator
@@ -10752,8 +10752,8 @@ overcome grief-7 curiosity cherry mercury vulcan
 1
 4 1
 2
-0 34 1 7
 0 28 3 1
+0 34 1 7
 1
 end_operator
 begin_operator
@@ -10761,8 +10761,8 @@ overcome grief-7 curiosity cherry pluto jupiter
 1
 4 1
 2
-0 34 1 7
 0 28 0 2
+0 34 1 7
 1
 end_operator
 begin_operator
@@ -10770,8 +10770,8 @@ overcome grief-7 curiosity cherry vulcan pluto
 1
 4 1
 2
-0 34 1 7
 0 28 2 3
+0 34 1 7
 1
 end_operator
 begin_operator
@@ -10779,8 +10779,8 @@ overcome grief-7 curiosity flounder mercury vulcan
 1
 4 2
 2
-0 34 2 7
 0 28 3 1
+0 34 2 7
 1
 end_operator
 begin_operator
@@ -10788,8 +10788,8 @@ overcome grief-7 curiosity flounder pluto jupiter
 1
 4 2
 2
-0 34 2 7
 0 28 0 2
+0 34 2 7
 1
 end_operator
 begin_operator
@@ -10797,8 +10797,8 @@ overcome grief-7 curiosity flounder vulcan pluto
 1
 4 2
 2
-0 34 2 7
 0 28 2 3
+0 34 2 7
 1
 end_operator
 begin_operator
@@ -10806,8 +10806,8 @@ overcome grief-7 curiosity ham mercury vulcan
 1
 4 3
 2
-0 34 3 7
 0 28 3 1
+0 34 3 7
 1
 end_operator
 begin_operator
@@ -10815,8 +10815,8 @@ overcome grief-7 curiosity ham pluto jupiter
 1
 4 3
 2
-0 34 3 7
 0 28 0 2
+0 34 3 7
 1
 end_operator
 begin_operator
@@ -10824,8 +10824,8 @@ overcome grief-7 curiosity ham vulcan pluto
 1
 4 3
 2
-0 34 3 7
 0 28 2 3
+0 34 3 7
 1
 end_operator
 begin_operator
@@ -10833,8 +10833,8 @@ overcome grief-7 curiosity muffin mercury vulcan
 1
 4 4
 2
-0 34 4 7
 0 28 3 1
+0 34 4 7
 1
 end_operator
 begin_operator
@@ -10842,8 +10842,8 @@ overcome grief-7 curiosity muffin pluto jupiter
 1
 4 4
 2
-0 34 4 7
 0 28 0 2
+0 34 4 7
 1
 end_operator
 begin_operator
@@ -10851,8 +10851,8 @@ overcome grief-7 curiosity muffin vulcan pluto
 1
 4 4
 2
-0 34 4 7
 0 28 2 3
+0 34 4 7
 1
 end_operator
 begin_operator
@@ -10860,8 +10860,8 @@ overcome grief-7 curiosity onion mercury vulcan
 1
 4 5
 2
-0 34 5 7
 0 28 3 1
+0 34 5 7
 1
 end_operator
 begin_operator
@@ -10869,8 +10869,8 @@ overcome grief-7 curiosity onion pluto jupiter
 1
 4 5
 2
-0 34 5 7
 0 28 0 2
+0 34 5 7
 1
 end_operator
 begin_operator
@@ -10878,8 +10878,8 @@ overcome grief-7 curiosity onion vulcan pluto
 1
 4 5
 2
-0 34 5 7
 0 28 2 3
+0 34 5 7
 1
 end_operator
 begin_operator
@@ -10887,8 +10887,8 @@ overcome grief-7 curiosity tuna mercury vulcan
 1
 4 6
 2
-0 34 6 7
 0 28 3 1
+0 34 6 7
 1
 end_operator
 begin_operator
@@ -10896,8 +10896,8 @@ overcome grief-7 curiosity tuna pluto jupiter
 1
 4 6
 2
-0 34 6 7
 0 28 0 2
+0 34 6 7
 1
 end_operator
 begin_operator
@@ -10905,8 +10905,8 @@ overcome grief-7 curiosity tuna vulcan pluto
 1
 4 6
 2
-0 34 6 7
 0 28 2 3
+0 34 6 7
 1
 end_operator
 begin_operator
@@ -10914,8 +10914,8 @@ overcome grief-7 entertainment beef mercury vulcan
 1
 6 0
 2
-0 34 0 8
 0 29 3 1
+0 34 0 8
 1
 end_operator
 begin_operator
@@ -10923,8 +10923,8 @@ overcome grief-7 entertainment beef pluto jupiter
 1
 6 0
 2
-0 34 0 8
 0 29 0 2
+0 34 0 8
 1
 end_operator
 begin_operator
@@ -10932,8 +10932,8 @@ overcome grief-7 entertainment beef vulcan pluto
 1
 6 0
 2
-0 34 0 8
 0 29 2 3
+0 34 0 8
 1
 end_operator
 begin_operator
@@ -10941,8 +10941,8 @@ overcome grief-7 entertainment cherry mercury vulcan
 1
 6 1
 2
-0 34 1 8
 0 29 3 1
+0 34 1 8
 1
 end_operator
 begin_operator
@@ -10950,8 +10950,8 @@ overcome grief-7 entertainment cherry pluto jupiter
 1
 6 1
 2
-0 34 1 8
 0 29 0 2
+0 34 1 8
 1
 end_operator
 begin_operator
@@ -10959,8 +10959,8 @@ overcome grief-7 entertainment cherry vulcan pluto
 1
 6 1
 2
-0 34 1 8
 0 29 2 3
+0 34 1 8
 1
 end_operator
 begin_operator
@@ -10968,8 +10968,8 @@ overcome grief-7 entertainment flounder mercury vulcan
 1
 6 2
 2
-0 34 2 8
 0 29 3 1
+0 34 2 8
 1
 end_operator
 begin_operator
@@ -10977,8 +10977,8 @@ overcome grief-7 entertainment flounder pluto jupiter
 1
 6 2
 2
-0 34 2 8
 0 29 0 2
+0 34 2 8
 1
 end_operator
 begin_operator
@@ -10986,8 +10986,8 @@ overcome grief-7 entertainment flounder vulcan pluto
 1
 6 2
 2
-0 34 2 8
 0 29 2 3
+0 34 2 8
 1
 end_operator
 begin_operator
@@ -10995,8 +10995,8 @@ overcome grief-7 entertainment ham mercury vulcan
 1
 6 3
 2
-0 34 3 8
 0 29 3 1
+0 34 3 8
 1
 end_operator
 begin_operator
@@ -11004,8 +11004,8 @@ overcome grief-7 entertainment ham pluto jupiter
 1
 6 3
 2
-0 34 3 8
 0 29 0 2
+0 34 3 8
 1
 end_operator
 begin_operator
@@ -11013,8 +11013,8 @@ overcome grief-7 entertainment ham vulcan pluto
 1
 6 3
 2
-0 34 3 8
 0 29 2 3
+0 34 3 8
 1
 end_operator
 begin_operator
@@ -11022,8 +11022,8 @@ overcome grief-7 entertainment muffin mercury vulcan
 1
 6 4
 2
-0 34 4 8
 0 29 3 1
+0 34 4 8
 1
 end_operator
 begin_operator
@@ -11031,8 +11031,8 @@ overcome grief-7 entertainment muffin pluto jupiter
 1
 6 4
 2
-0 34 4 8
 0 29 0 2
+0 34 4 8
 1
 end_operator
 begin_operator
@@ -11040,8 +11040,8 @@ overcome grief-7 entertainment muffin vulcan pluto
 1
 6 4
 2
-0 34 4 8
 0 29 2 3
+0 34 4 8
 1
 end_operator
 begin_operator
@@ -11049,8 +11049,8 @@ overcome grief-7 entertainment onion mercury vulcan
 1
 6 5
 2
-0 34 5 8
 0 29 3 1
+0 34 5 8
 1
 end_operator
 begin_operator
@@ -11058,8 +11058,8 @@ overcome grief-7 entertainment onion pluto jupiter
 1
 6 5
 2
-0 34 5 8
 0 29 0 2
+0 34 5 8
 1
 end_operator
 begin_operator
@@ -11067,8 +11067,8 @@ overcome grief-7 entertainment onion vulcan pluto
 1
 6 5
 2
-0 34 5 8
 0 29 2 3
+0 34 5 8
 1
 end_operator
 begin_operator
@@ -11076,8 +11076,8 @@ overcome grief-7 entertainment tuna mercury vulcan
 1
 6 6
 2
-0 34 6 8
 0 29 3 1
+0 34 6 8
 1
 end_operator
 begin_operator
@@ -11085,8 +11085,8 @@ overcome grief-7 entertainment tuna pluto jupiter
 1
 6 6
 2
-0 34 6 8
 0 29 0 2
+0 34 6 8
 1
 end_operator
 begin_operator
@@ -11094,8 +11094,8 @@ overcome grief-7 entertainment tuna vulcan pluto
 1
 6 6
 2
-0 34 6 8
 0 29 2 3
+0 34 6 8
 1
 end_operator
 begin_operator
@@ -11103,8 +11103,8 @@ overcome grief-7 satiety beef mercury vulcan
 1
 7 0
 2
-0 34 0 9
 0 31 3 1
+0 34 0 9
 1
 end_operator
 begin_operator
@@ -11112,8 +11112,8 @@ overcome grief-7 satiety beef pluto jupiter
 1
 7 0
 2
-0 34 0 9
 0 31 0 2
+0 34 0 9
 1
 end_operator
 begin_operator
@@ -11121,8 +11121,8 @@ overcome grief-7 satiety beef vulcan pluto
 1
 7 0
 2
-0 34 0 9
 0 31 2 3
+0 34 0 9
 1
 end_operator
 begin_operator
@@ -11130,8 +11130,8 @@ overcome grief-7 satiety cherry mercury vulcan
 1
 7 1
 2
-0 34 1 9
 0 31 3 1
+0 34 1 9
 1
 end_operator
 begin_operator
@@ -11139,8 +11139,8 @@ overcome grief-7 satiety cherry pluto jupiter
 1
 7 1
 2
-0 34 1 9
 0 31 0 2
+0 34 1 9
 1
 end_operator
 begin_operator
@@ -11148,8 +11148,8 @@ overcome grief-7 satiety cherry vulcan pluto
 1
 7 1
 2
-0 34 1 9
 0 31 2 3
+0 34 1 9
 1
 end_operator
 begin_operator
@@ -11157,8 +11157,8 @@ overcome grief-7 satiety flounder mercury vulcan
 1
 7 2
 2
-0 34 2 9
 0 31 3 1
+0 34 2 9
 1
 end_operator
 begin_operator
@@ -11166,8 +11166,8 @@ overcome grief-7 satiety flounder pluto jupiter
 1
 7 2
 2
-0 34 2 9
 0 31 0 2
+0 34 2 9
 1
 end_operator
 begin_operator
@@ -11175,8 +11175,8 @@ overcome grief-7 satiety flounder vulcan pluto
 1
 7 2
 2
-0 34 2 9
 0 31 2 3
+0 34 2 9
 1
 end_operator
 begin_operator
@@ -11184,8 +11184,8 @@ overcome grief-7 satiety ham mercury vulcan
 1
 7 3
 2
-0 34 3 9
 0 31 3 1
+0 34 3 9
 1
 end_operator
 begin_operator
@@ -11193,8 +11193,8 @@ overcome grief-7 satiety ham pluto jupiter
 1
 7 3
 2
-0 34 3 9
 0 31 0 2
+0 34 3 9
 1
 end_operator
 begin_operator
@@ -11202,8 +11202,8 @@ overcome grief-7 satiety ham vulcan pluto
 1
 7 3
 2
-0 34 3 9
 0 31 2 3
+0 34 3 9
 1
 end_operator
 begin_operator
@@ -11211,8 +11211,8 @@ overcome grief-7 satiety muffin mercury vulcan
 1
 7 4
 2
-0 34 4 9
 0 31 3 1
+0 34 4 9
 1
 end_operator
 begin_operator
@@ -11220,8 +11220,8 @@ overcome grief-7 satiety muffin pluto jupiter
 1
 7 4
 2
-0 34 4 9
 0 31 0 2
+0 34 4 9
 1
 end_operator
 begin_operator
@@ -11229,8 +11229,8 @@ overcome grief-7 satiety muffin vulcan pluto
 1
 7 4
 2
-0 34 4 9
 0 31 2 3
+0 34 4 9
 1
 end_operator
 begin_operator
@@ -11238,8 +11238,8 @@ overcome grief-7 satiety onion mercury vulcan
 1
 7 5
 2
-0 34 5 9
 0 31 3 1
+0 34 5 9
 1
 end_operator
 begin_operator
@@ -11247,8 +11247,8 @@ overcome grief-7 satiety onion pluto jupiter
 1
 7 5
 2
-0 34 5 9
 0 31 0 2
+0 34 5 9
 1
 end_operator
 begin_operator
@@ -11256,8 +11256,8 @@ overcome grief-7 satiety onion vulcan pluto
 1
 7 5
 2
-0 34 5 9
 0 31 2 3
+0 34 5 9
 1
 end_operator
 begin_operator
@@ -11265,8 +11265,8 @@ overcome grief-7 satiety tuna mercury vulcan
 1
 7 6
 2
-0 34 6 9
 0 31 3 1
+0 34 6 9
 1
 end_operator
 begin_operator
@@ -11274,8 +11274,8 @@ overcome grief-7 satiety tuna pluto jupiter
 1
 7 6
 2
-0 34 6 9
 0 31 0 2
+0 34 6 9
 1
 end_operator
 begin_operator
@@ -11283,8 +11283,8 @@ overcome grief-7 satiety tuna vulcan pluto
 1
 7 6
 2
-0 34 6 9
 0 31 2 3
+0 34 6 9
 1
 end_operator
 begin_operator
@@ -11292,8 +11292,8 @@ overcome grief-7 stimulation beef mercury vulcan
 1
 10 0
 2
-0 34 0 10
 0 32 3 1
+0 34 0 10
 1
 end_operator
 begin_operator
@@ -11301,8 +11301,8 @@ overcome grief-7 stimulation beef pluto jupiter
 1
 10 0
 2
-0 34 0 10
 0 32 0 2
+0 34 0 10
 1
 end_operator
 begin_operator
@@ -11310,8 +11310,8 @@ overcome grief-7 stimulation beef vulcan pluto
 1
 10 0
 2
-0 34 0 10
 0 32 2 3
+0 34 0 10
 1
 end_operator
 begin_operator
@@ -11319,8 +11319,8 @@ overcome grief-7 stimulation cherry mercury vulcan
 1
 10 1
 2
-0 34 1 10
 0 32 3 1
+0 34 1 10
 1
 end_operator
 begin_operator
@@ -11328,8 +11328,8 @@ overcome grief-7 stimulation cherry pluto jupiter
 1
 10 1
 2
-0 34 1 10
 0 32 0 2
+0 34 1 10
 1
 end_operator
 begin_operator
@@ -11337,8 +11337,8 @@ overcome grief-7 stimulation cherry vulcan pluto
 1
 10 1
 2
-0 34 1 10
 0 32 2 3
+0 34 1 10
 1
 end_operator
 begin_operator
@@ -11346,8 +11346,8 @@ overcome grief-7 stimulation flounder mercury vulcan
 1
 10 2
 2
-0 34 2 10
 0 32 3 1
+0 34 2 10
 1
 end_operator
 begin_operator
@@ -11355,8 +11355,8 @@ overcome grief-7 stimulation flounder pluto jupiter
 1
 10 2
 2
-0 34 2 10
 0 32 0 2
+0 34 2 10
 1
 end_operator
 begin_operator
@@ -11364,8 +11364,8 @@ overcome grief-7 stimulation flounder vulcan pluto
 1
 10 2
 2
-0 34 2 10
 0 32 2 3
+0 34 2 10
 1
 end_operator
 begin_operator
@@ -11373,8 +11373,8 @@ overcome grief-7 stimulation ham mercury vulcan
 1
 10 3
 2
-0 34 3 10
 0 32 3 1
+0 34 3 10
 1
 end_operator
 begin_operator
@@ -11382,8 +11382,8 @@ overcome grief-7 stimulation ham pluto jupiter
 1
 10 3
 2
-0 34 3 10
 0 32 0 2
+0 34 3 10
 1
 end_operator
 begin_operator
@@ -11391,8 +11391,8 @@ overcome grief-7 stimulation ham vulcan pluto
 1
 10 3
 2
-0 34 3 10
 0 32 2 3
+0 34 3 10
 1
 end_operator
 begin_operator
@@ -11400,8 +11400,8 @@ overcome grief-7 stimulation muffin mercury vulcan
 1
 10 4
 2
-0 34 4 10
 0 32 3 1
+0 34 4 10
 1
 end_operator
 begin_operator
@@ -11409,8 +11409,8 @@ overcome grief-7 stimulation muffin pluto jupiter
 1
 10 4
 2
-0 34 4 10
 0 32 0 2
+0 34 4 10
 1
 end_operator
 begin_operator
@@ -11418,8 +11418,8 @@ overcome grief-7 stimulation muffin vulcan pluto
 1
 10 4
 2
-0 34 4 10
 0 32 2 3
+0 34 4 10
 1
 end_operator
 begin_operator
@@ -11427,8 +11427,8 @@ overcome grief-7 stimulation onion mercury vulcan
 1
 10 5
 2
-0 34 5 10
 0 32 3 1
+0 34 5 10
 1
 end_operator
 begin_operator
@@ -11436,8 +11436,8 @@ overcome grief-7 stimulation onion pluto jupiter
 1
 10 5
 2
-0 34 5 10
 0 32 0 2
+0 34 5 10
 1
 end_operator
 begin_operator
@@ -11445,8 +11445,8 @@ overcome grief-7 stimulation onion vulcan pluto
 1
 10 5
 2
-0 34 5 10
 0 32 2 3
+0 34 5 10
 1
 end_operator
 begin_operator
@@ -11454,8 +11454,8 @@ overcome grief-7 stimulation tuna mercury vulcan
 1
 10 6
 2
-0 34 6 10
 0 32 3 1
+0 34 6 10
 1
 end_operator
 begin_operator
@@ -11463,8 +11463,8 @@ overcome grief-7 stimulation tuna pluto jupiter
 1
 10 6
 2
-0 34 6 10
 0 32 0 2
+0 34 6 10
 1
 end_operator
 begin_operator
@@ -11472,8 +11472,8 @@ overcome grief-7 stimulation tuna vulcan pluto
 1
 10 6
 2
-0 34 6 10
 0 32 2 3
+0 34 6 10
 1
 end_operator
 begin_operator
@@ -16773,8 +16773,8 @@ overcome sciatica curiosity beef mercury vulcan
 1
 4 0
 2
-0 30 0 7
 0 28 3 1
+0 30 0 7
 1
 end_operator
 begin_operator
@@ -16782,8 +16782,8 @@ overcome sciatica curiosity beef pluto jupiter
 1
 4 0
 2
-0 30 0 7
 0 28 0 2
+0 30 0 7
 1
 end_operator
 begin_operator
@@ -16791,8 +16791,8 @@ overcome sciatica curiosity beef vulcan pluto
 1
 4 0
 2
-0 30 0 7
 0 28 2 3
+0 30 0 7
 1
 end_operator
 begin_operator
@@ -16800,8 +16800,8 @@ overcome sciatica curiosity cherry mercury vulcan
 1
 4 1
 2
-0 30 1 7
 0 28 3 1
+0 30 1 7
 1
 end_operator
 begin_operator
@@ -16809,8 +16809,8 @@ overcome sciatica curiosity cherry pluto jupiter
 1
 4 1
 2
-0 30 1 7
 0 28 0 2
+0 30 1 7
 1
 end_operator
 begin_operator
@@ -16818,8 +16818,8 @@ overcome sciatica curiosity cherry vulcan pluto
 1
 4 1
 2
-0 30 1 7
 0 28 2 3
+0 30 1 7
 1
 end_operator
 begin_operator
@@ -16827,8 +16827,8 @@ overcome sciatica curiosity flounder mercury vulcan
 1
 4 2
 2
-0 30 2 7
 0 28 3 1
+0 30 2 7
 1
 end_operator
 begin_operator
@@ -16836,8 +16836,8 @@ overcome sciatica curiosity flounder pluto jupiter
 1
 4 2
 2
-0 30 2 7
 0 28 0 2
+0 30 2 7
 1
 end_operator
 begin_operator
@@ -16845,8 +16845,8 @@ overcome sciatica curiosity flounder vulcan pluto
 1
 4 2
 2
-0 30 2 7
 0 28 2 3
+0 30 2 7
 1
 end_operator
 begin_operator
@@ -16854,8 +16854,8 @@ overcome sciatica curiosity ham mercury vulcan
 1
 4 3
 2
-0 30 3 7
 0 28 3 1
+0 30 3 7
 1
 end_operator
 begin_operator
@@ -16863,8 +16863,8 @@ overcome sciatica curiosity ham pluto jupiter
 1
 4 3
 2
-0 30 3 7
 0 28 0 2
+0 30 3 7
 1
 end_operator
 begin_operator
@@ -16872,8 +16872,8 @@ overcome sciatica curiosity ham vulcan pluto
 1
 4 3
 2
-0 30 3 7
 0 28 2 3
+0 30 3 7
 1
 end_operator
 begin_operator
@@ -16881,8 +16881,8 @@ overcome sciatica curiosity muffin mercury vulcan
 1
 4 4
 2
-0 30 4 7
 0 28 3 1
+0 30 4 7
 1
 end_operator
 begin_operator
@@ -16890,8 +16890,8 @@ overcome sciatica curiosity muffin pluto jupiter
 1
 4 4
 2
-0 30 4 7
 0 28 0 2
+0 30 4 7
 1
 end_operator
 begin_operator
@@ -16899,8 +16899,8 @@ overcome sciatica curiosity muffin vulcan pluto
 1
 4 4
 2
-0 30 4 7
 0 28 2 3
+0 30 4 7
 1
 end_operator
 begin_operator
@@ -16908,8 +16908,8 @@ overcome sciatica curiosity onion mercury vulcan
 1
 4 5
 2
-0 30 5 7
 0 28 3 1
+0 30 5 7
 1
 end_operator
 begin_operator
@@ -16917,8 +16917,8 @@ overcome sciatica curiosity onion pluto jupiter
 1
 4 5
 2
-0 30 5 7
 0 28 0 2
+0 30 5 7
 1
 end_operator
 begin_operator
@@ -16926,8 +16926,8 @@ overcome sciatica curiosity onion vulcan pluto
 1
 4 5
 2
-0 30 5 7
 0 28 2 3
+0 30 5 7
 1
 end_operator
 begin_operator
@@ -16935,8 +16935,8 @@ overcome sciatica curiosity tuna mercury vulcan
 1
 4 6
 2
-0 30 6 7
 0 28 3 1
+0 30 6 7
 1
 end_operator
 begin_operator
@@ -16944,8 +16944,8 @@ overcome sciatica curiosity tuna pluto jupiter
 1
 4 6
 2
-0 30 6 7
 0 28 0 2
+0 30 6 7
 1
 end_operator
 begin_operator
@@ -16953,8 +16953,8 @@ overcome sciatica curiosity tuna vulcan pluto
 1
 4 6
 2
-0 30 6 7
 0 28 2 3
+0 30 6 7
 1
 end_operator
 begin_operator
@@ -16962,8 +16962,8 @@ overcome sciatica entertainment beef mercury vulcan
 1
 6 0
 2
-0 30 0 8
 0 29 3 1
+0 30 0 8
 1
 end_operator
 begin_operator
@@ -16971,8 +16971,8 @@ overcome sciatica entertainment beef pluto jupiter
 1
 6 0
 2
-0 30 0 8
 0 29 0 2
+0 30 0 8
 1
 end_operator
 begin_operator
@@ -16980,8 +16980,8 @@ overcome sciatica entertainment beef vulcan pluto
 1
 6 0
 2
-0 30 0 8
 0 29 2 3
+0 30 0 8
 1
 end_operator
 begin_operator
@@ -16989,8 +16989,8 @@ overcome sciatica entertainment cherry mercury vulcan
 1
 6 1
 2
-0 30 1 8
 0 29 3 1
+0 30 1 8
 1
 end_operator
 begin_operator
@@ -16998,8 +16998,8 @@ overcome sciatica entertainment cherry pluto jupiter
 1
 6 1
 2
-0 30 1 8
 0 29 0 2
+0 30 1 8
 1
 end_operator
 begin_operator
@@ -17007,8 +17007,8 @@ overcome sciatica entertainment cherry vulcan pluto
 1
 6 1
 2
-0 30 1 8
 0 29 2 3
+0 30 1 8
 1
 end_operator
 begin_operator
@@ -17016,8 +17016,8 @@ overcome sciatica entertainment flounder mercury vulcan
 1
 6 2
 2
-0 30 2 8
 0 29 3 1
+0 30 2 8
 1
 end_operator
 begin_operator
@@ -17025,8 +17025,8 @@ overcome sciatica entertainment flounder pluto jupiter
 1
 6 2
 2
-0 30 2 8
 0 29 0 2
+0 30 2 8
 1
 end_operator
 begin_operator
@@ -17034,8 +17034,8 @@ overcome sciatica entertainment flounder vulcan pluto
 1
 6 2
 2
-0 30 2 8
 0 29 2 3
+0 30 2 8
 1
 end_operator
 begin_operator
@@ -17043,8 +17043,8 @@ overcome sciatica entertainment ham mercury vulcan
 1
 6 3
 2
-0 30 3 8
 0 29 3 1
+0 30 3 8
 1
 end_operator
 begin_operator
@@ -17052,8 +17052,8 @@ overcome sciatica entertainment ham pluto jupiter
 1
 6 3
 2
-0 30 3 8
 0 29 0 2
+0 30 3 8
 1
 end_operator
 begin_operator
@@ -17061,8 +17061,8 @@ overcome sciatica entertainment ham vulcan pluto
 1
 6 3
 2
-0 30 3 8
 0 29 2 3
+0 30 3 8
 1
 end_operator
 begin_operator
@@ -17070,8 +17070,8 @@ overcome sciatica entertainment muffin mercury vulcan
 1
 6 4
 2
-0 30 4 8
 0 29 3 1
+0 30 4 8
 1
 end_operator
 begin_operator
@@ -17079,8 +17079,8 @@ overcome sciatica entertainment muffin pluto jupiter
 1
 6 4
 2
-0 30 4 8
 0 29 0 2
+0 30 4 8
 1
 end_operator
 begin_operator
@@ -17088,8 +17088,8 @@ overcome sciatica entertainment muffin vulcan pluto
 1
 6 4
 2
-0 30 4 8
 0 29 2 3
+0 30 4 8
 1
 end_operator
 begin_operator
@@ -17097,8 +17097,8 @@ overcome sciatica entertainment onion mercury vulcan
 1
 6 5
 2
-0 30 5 8
 0 29 3 1
+0 30 5 8
 1
 end_operator
 begin_operator
@@ -17106,8 +17106,8 @@ overcome sciatica entertainment onion pluto jupiter
 1
 6 5
 2
-0 30 5 8
 0 29 0 2
+0 30 5 8
 1
 end_operator
 begin_operator
@@ -17115,8 +17115,8 @@ overcome sciatica entertainment onion vulcan pluto
 1
 6 5
 2
-0 30 5 8
 0 29 2 3
+0 30 5 8
 1
 end_operator
 begin_operator
@@ -17124,8 +17124,8 @@ overcome sciatica entertainment tuna mercury vulcan
 1
 6 6
 2
-0 30 6 8
 0 29 3 1
+0 30 6 8
 1
 end_operator
 begin_operator
@@ -17133,8 +17133,8 @@ overcome sciatica entertainment tuna pluto jupiter
 1
 6 6
 2
-0 30 6 8
 0 29 0 2
+0 30 6 8
 1
 end_operator
 begin_operator
@@ -17142,8 +17142,8 @@ overcome sciatica entertainment tuna vulcan pluto
 1
 6 6
 2
-0 30 6 8
 0 29 2 3
+0 30 6 8
 1
 end_operator
 begin_operator
@@ -22821,8 +22821,8 @@ succumb depression-1 curiosity beef mercury vulcan
 1
 4 0
 2
-0 33 7 0
 0 28 1 3
+0 33 7 0
 1
 end_operator
 begin_operator
@@ -22830,8 +22830,8 @@ succumb depression-1 curiosity beef pluto jupiter
 1
 4 0
 2
-0 33 7 0
 0 28 2 0
+0 33 7 0
 1
 end_operator
 begin_operator
@@ -22839,8 +22839,8 @@ succumb depression-1 curiosity beef vulcan pluto
 1
 4 0
 2
-0 33 7 0
 0 28 3 2
+0 33 7 0
 1
 end_operator
 begin_operator
@@ -22848,8 +22848,8 @@ succumb depression-1 curiosity cherry mercury vulcan
 1
 4 1
 2
-0 33 7 1
 0 28 1 3
+0 33 7 1
 1
 end_operator
 begin_operator
@@ -22857,8 +22857,8 @@ succumb depression-1 curiosity cherry pluto jupiter
 1
 4 1
 2
-0 33 7 1
 0 28 2 0
+0 33 7 1
 1
 end_operator
 begin_operator
@@ -22866,8 +22866,8 @@ succumb depression-1 curiosity cherry vulcan pluto
 1
 4 1
 2
-0 33 7 1
 0 28 3 2
+0 33 7 1
 1
 end_operator
 begin_operator
@@ -22875,8 +22875,8 @@ succumb depression-1 curiosity flounder mercury vulcan
 1
 4 2
 2
-0 33 7 2
 0 28 1 3
+0 33 7 2
 1
 end_operator
 begin_operator
@@ -22884,8 +22884,8 @@ succumb depression-1 curiosity flounder pluto jupiter
 1
 4 2
 2
-0 33 7 2
 0 28 2 0
+0 33 7 2
 1
 end_operator
 begin_operator
@@ -22893,8 +22893,8 @@ succumb depression-1 curiosity flounder vulcan pluto
 1
 4 2
 2
-0 33 7 2
 0 28 3 2
+0 33 7 2
 1
 end_operator
 begin_operator
@@ -22902,8 +22902,8 @@ succumb depression-1 curiosity ham mercury vulcan
 1
 4 3
 2
-0 33 7 3
 0 28 1 3
+0 33 7 3
 1
 end_operator
 begin_operator
@@ -22911,8 +22911,8 @@ succumb depression-1 curiosity ham pluto jupiter
 1
 4 3
 2
-0 33 7 3
 0 28 2 0
+0 33 7 3
 1
 end_operator
 begin_operator
@@ -22920,8 +22920,8 @@ succumb depression-1 curiosity ham vulcan pluto
 1
 4 3
 2
-0 33 7 3
 0 28 3 2
+0 33 7 3
 1
 end_operator
 begin_operator
@@ -22929,8 +22929,8 @@ succumb depression-1 curiosity muffin mercury vulcan
 1
 4 4
 2
-0 33 7 4
 0 28 1 3
+0 33 7 4
 1
 end_operator
 begin_operator
@@ -22938,8 +22938,8 @@ succumb depression-1 curiosity muffin pluto jupiter
 1
 4 4
 2
-0 33 7 4
 0 28 2 0
+0 33 7 4
 1
 end_operator
 begin_operator
@@ -22947,8 +22947,8 @@ succumb depression-1 curiosity muffin vulcan pluto
 1
 4 4
 2
-0 33 7 4
 0 28 3 2
+0 33 7 4
 1
 end_operator
 begin_operator
@@ -22956,8 +22956,8 @@ succumb depression-1 curiosity onion mercury vulcan
 1
 4 5
 2
-0 33 7 5
 0 28 1 3
+0 33 7 5
 1
 end_operator
 begin_operator
@@ -22965,8 +22965,8 @@ succumb depression-1 curiosity onion pluto jupiter
 1
 4 5
 2
-0 33 7 5
 0 28 2 0
+0 33 7 5
 1
 end_operator
 begin_operator
@@ -22974,8 +22974,8 @@ succumb depression-1 curiosity onion vulcan pluto
 1
 4 5
 2
-0 33 7 5
 0 28 3 2
+0 33 7 5
 1
 end_operator
 begin_operator
@@ -22983,8 +22983,8 @@ succumb depression-1 curiosity tuna mercury vulcan
 1
 4 6
 2
-0 33 7 6
 0 28 1 3
+0 33 7 6
 1
 end_operator
 begin_operator
@@ -22992,8 +22992,8 @@ succumb depression-1 curiosity tuna pluto jupiter
 1
 4 6
 2
-0 33 7 6
 0 28 2 0
+0 33 7 6
 1
 end_operator
 begin_operator
@@ -23001,8 +23001,8 @@ succumb depression-1 curiosity tuna vulcan pluto
 1
 4 6
 2
-0 33 7 6
 0 28 3 2
+0 33 7 6
 1
 end_operator
 begin_operator
@@ -23010,8 +23010,8 @@ succumb depression-1 entertainment beef mercury vulcan
 1
 6 0
 2
-0 33 8 0
 0 29 1 3
+0 33 8 0
 1
 end_operator
 begin_operator
@@ -23019,8 +23019,8 @@ succumb depression-1 entertainment beef pluto jupiter
 1
 6 0
 2
-0 33 8 0
 0 29 2 0
+0 33 8 0
 1
 end_operator
 begin_operator
@@ -23028,8 +23028,8 @@ succumb depression-1 entertainment beef vulcan pluto
 1
 6 0
 2
-0 33 8 0
 0 29 3 2
+0 33 8 0
 1
 end_operator
 begin_operator
@@ -23037,8 +23037,8 @@ succumb depression-1 entertainment cherry mercury vulcan
 1
 6 1
 2
-0 33 8 1
 0 29 1 3
+0 33 8 1
 1
 end_operator
 begin_operator
@@ -23046,8 +23046,8 @@ succumb depression-1 entertainment cherry pluto jupiter
 1
 6 1
 2
-0 33 8 1
 0 29 2 0
+0 33 8 1
 1
 end_operator
 begin_operator
@@ -23055,8 +23055,8 @@ succumb depression-1 entertainment cherry vulcan pluto
 1
 6 1
 2
-0 33 8 1
 0 29 3 2
+0 33 8 1
 1
 end_operator
 begin_operator
@@ -23064,8 +23064,8 @@ succumb depression-1 entertainment flounder mercury vulcan
 1
 6 2
 2
-0 33 8 2
 0 29 1 3
+0 33 8 2
 1
 end_operator
 begin_operator
@@ -23073,8 +23073,8 @@ succumb depression-1 entertainment flounder pluto jupiter
 1
 6 2
 2
-0 33 8 2
 0 29 2 0
+0 33 8 2
 1
 end_operator
 begin_operator
@@ -23082,8 +23082,8 @@ succumb depression-1 entertainment flounder vulcan pluto
 1
 6 2
 2
-0 33 8 2
 0 29 3 2
+0 33 8 2
 1
 end_operator
 begin_operator
@@ -23091,8 +23091,8 @@ succumb depression-1 entertainment ham mercury vulcan
 1
 6 3
 2
-0 33 8 3
 0 29 1 3
+0 33 8 3
 1
 end_operator
 begin_operator
@@ -23100,8 +23100,8 @@ succumb depression-1 entertainment ham pluto jupiter
 1
 6 3
 2
-0 33 8 3
 0 29 2 0
+0 33 8 3
 1
 end_operator
 begin_operator
@@ -23109,8 +23109,8 @@ succumb depression-1 entertainment ham vulcan pluto
 1
 6 3
 2
-0 33 8 3
 0 29 3 2
+0 33 8 3
 1
 end_operator
 begin_operator
@@ -23118,8 +23118,8 @@ succumb depression-1 entertainment muffin mercury vulcan
 1
 6 4
 2
-0 33 8 4
 0 29 1 3
+0 33 8 4
 1
 end_operator
 begin_operator
@@ -23127,8 +23127,8 @@ succumb depression-1 entertainment muffin pluto jupiter
 1
 6 4
 2
-0 33 8 4
 0 29 2 0
+0 33 8 4
 1
 end_operator
 begin_operator
@@ -23136,8 +23136,8 @@ succumb depression-1 entertainment muffin vulcan pluto
 1
 6 4
 2
-0 33 8 4
 0 29 3 2
+0 33 8 4
 1
 end_operator
 begin_operator
@@ -23145,8 +23145,8 @@ succumb depression-1 entertainment onion mercury vulcan
 1
 6 5
 2
-0 33 8 5
 0 29 1 3
+0 33 8 5
 1
 end_operator
 begin_operator
@@ -23154,8 +23154,8 @@ succumb depression-1 entertainment onion pluto jupiter
 1
 6 5
 2
-0 33 8 5
 0 29 2 0
+0 33 8 5
 1
 end_operator
 begin_operator
@@ -23163,8 +23163,8 @@ succumb depression-1 entertainment onion vulcan pluto
 1
 6 5
 2
-0 33 8 5
 0 29 3 2
+0 33 8 5
 1
 end_operator
 begin_operator
@@ -23172,8 +23172,8 @@ succumb depression-1 entertainment tuna mercury vulcan
 1
 6 6
 2
-0 33 8 6
 0 29 1 3
+0 33 8 6
 1
 end_operator
 begin_operator
@@ -23181,8 +23181,8 @@ succumb depression-1 entertainment tuna pluto jupiter
 1
 6 6
 2
-0 33 8 6
 0 29 2 0
+0 33 8 6
 1
 end_operator
 begin_operator
@@ -23190,8 +23190,8 @@ succumb depression-1 entertainment tuna vulcan pluto
 1
 6 6
 2
-0 33 8 6
 0 29 3 2
+0 33 8 6
 1
 end_operator
 begin_operator
@@ -23199,8 +23199,8 @@ succumb depression-1 satiety beef mercury vulcan
 1
 7 0
 2
-0 33 9 0
 0 31 1 3
+0 33 9 0
 1
 end_operator
 begin_operator
@@ -23208,8 +23208,8 @@ succumb depression-1 satiety beef pluto jupiter
 1
 7 0
 2
-0 33 9 0
 0 31 2 0
+0 33 9 0
 1
 end_operator
 begin_operator
@@ -23217,8 +23217,8 @@ succumb depression-1 satiety beef vulcan pluto
 1
 7 0
 2
-0 33 9 0
 0 31 3 2
+0 33 9 0
 1
 end_operator
 begin_operator
@@ -23226,8 +23226,8 @@ succumb depression-1 satiety cherry mercury vulcan
 1
 7 1
 2
-0 33 9 1
 0 31 1 3
+0 33 9 1
 1
 end_operator
 begin_operator
@@ -23235,8 +23235,8 @@ succumb depression-1 satiety cherry pluto jupiter
 1
 7 1
 2
-0 33 9 1
 0 31 2 0
+0 33 9 1
 1
 end_operator
 begin_operator
@@ -23244,8 +23244,8 @@ succumb depression-1 satiety cherry vulcan pluto
 1
 7 1
 2
-0 33 9 1
 0 31 3 2
+0 33 9 1
 1
 end_operator
 begin_operator
@@ -23253,8 +23253,8 @@ succumb depression-1 satiety flounder mercury vulcan
 1
 7 2
 2
-0 33 9 2
 0 31 1 3
+0 33 9 2
 1
 end_operator
 begin_operator
@@ -23262,8 +23262,8 @@ succumb depression-1 satiety flounder pluto jupiter
 1
 7 2
 2
-0 33 9 2
 0 31 2 0
+0 33 9 2
 1
 end_operator
 begin_operator
@@ -23271,8 +23271,8 @@ succumb depression-1 satiety flounder vulcan pluto
 1
 7 2
 2
-0 33 9 2
 0 31 3 2
+0 33 9 2
 1
 end_operator
 begin_operator
@@ -23280,8 +23280,8 @@ succumb depression-1 satiety ham mercury vulcan
 1
 7 3
 2
-0 33 9 3
 0 31 1 3
+0 33 9 3
 1
 end_operator
 begin_operator
@@ -23289,8 +23289,8 @@ succumb depression-1 satiety ham pluto jupiter
 1
 7 3
 2
-0 33 9 3
 0 31 2 0
+0 33 9 3
 1
 end_operator
 begin_operator
@@ -23298,8 +23298,8 @@ succumb depression-1 satiety ham vulcan pluto
 1
 7 3
 2
-0 33 9 3
 0 31 3 2
+0 33 9 3
 1
 end_operator
 begin_operator
@@ -23307,8 +23307,8 @@ succumb depression-1 satiety muffin mercury vulcan
 1
 7 4
 2
-0 33 9 4
 0 31 1 3
+0 33 9 4
 1
 end_operator
 begin_operator
@@ -23316,8 +23316,8 @@ succumb depression-1 satiety muffin pluto jupiter
 1
 7 4
 2
-0 33 9 4
 0 31 2 0
+0 33 9 4
 1
 end_operator
 begin_operator
@@ -23325,8 +23325,8 @@ succumb depression-1 satiety muffin vulcan pluto
 1
 7 4
 2
-0 33 9 4
 0 31 3 2
+0 33 9 4
 1
 end_operator
 begin_operator
@@ -23334,8 +23334,8 @@ succumb depression-1 satiety onion mercury vulcan
 1
 7 5
 2
-0 33 9 5
 0 31 1 3
+0 33 9 5
 1
 end_operator
 begin_operator
@@ -23343,8 +23343,8 @@ succumb depression-1 satiety onion pluto jupiter
 1
 7 5
 2
-0 33 9 5
 0 31 2 0
+0 33 9 5
 1
 end_operator
 begin_operator
@@ -23352,8 +23352,8 @@ succumb depression-1 satiety onion vulcan pluto
 1
 7 5
 2
-0 33 9 5
 0 31 3 2
+0 33 9 5
 1
 end_operator
 begin_operator
@@ -23361,8 +23361,8 @@ succumb depression-1 satiety tuna mercury vulcan
 1
 7 6
 2
-0 33 9 6
 0 31 1 3
+0 33 9 6
 1
 end_operator
 begin_operator
@@ -23370,8 +23370,8 @@ succumb depression-1 satiety tuna pluto jupiter
 1
 7 6
 2
-0 33 9 6
 0 31 2 0
+0 33 9 6
 1
 end_operator
 begin_operator
@@ -23379,8 +23379,8 @@ succumb depression-1 satiety tuna vulcan pluto
 1
 7 6
 2
-0 33 9 6
 0 31 3 2
+0 33 9 6
 1
 end_operator
 begin_operator
@@ -23388,8 +23388,8 @@ succumb depression-1 stimulation beef mercury vulcan
 1
 10 0
 2
-0 33 10 0
 0 32 1 3
+0 33 10 0
 1
 end_operator
 begin_operator
@@ -23397,8 +23397,8 @@ succumb depression-1 stimulation beef pluto jupiter
 1
 10 0
 2
-0 33 10 0
 0 32 2 0
+0 33 10 0
 1
 end_operator
 begin_operator
@@ -23406,8 +23406,8 @@ succumb depression-1 stimulation beef vulcan pluto
 1
 10 0
 2
-0 33 10 0
 0 32 3 2
+0 33 10 0
 1
 end_operator
 begin_operator
@@ -23415,8 +23415,8 @@ succumb depression-1 stimulation cherry mercury vulcan
 1
 10 1
 2
-0 33 10 1
 0 32 1 3
+0 33 10 1
 1
 end_operator
 begin_operator
@@ -23424,8 +23424,8 @@ succumb depression-1 stimulation cherry pluto jupiter
 1
 10 1
 2
-0 33 10 1
 0 32 2 0
+0 33 10 1
 1
 end_operator
 begin_operator
@@ -23433,8 +23433,8 @@ succumb depression-1 stimulation cherry vulcan pluto
 1
 10 1
 2
-0 33 10 1
 0 32 3 2
+0 33 10 1
 1
 end_operator
 begin_operator
@@ -23442,8 +23442,8 @@ succumb depression-1 stimulation flounder mercury vulcan
 1
 10 2
 2
-0 33 10 2
 0 32 1 3
+0 33 10 2
 1
 end_operator
 begin_operator
@@ -23451,8 +23451,8 @@ succumb depression-1 stimulation flounder pluto jupiter
 1
 10 2
 2
-0 33 10 2
 0 32 2 0
+0 33 10 2
 1
 end_operator
 begin_operator
@@ -23460,8 +23460,8 @@ succumb depression-1 stimulation flounder vulcan pluto
 1
 10 2
 2
-0 33 10 2
 0 32 3 2
+0 33 10 2
 1
 end_operator
 begin_operator
@@ -23469,8 +23469,8 @@ succumb depression-1 stimulation ham mercury vulcan
 1
 10 3
 2
-0 33 10 3
 0 32 1 3
+0 33 10 3
 1
 end_operator
 begin_operator
@@ -23478,8 +23478,8 @@ succumb depression-1 stimulation ham pluto jupiter
 1
 10 3
 2
-0 33 10 3
 0 32 2 0
+0 33 10 3
 1
 end_operator
 begin_operator
@@ -23487,8 +23487,8 @@ succumb depression-1 stimulation ham vulcan pluto
 1
 10 3
 2
-0 33 10 3
 0 32 3 2
+0 33 10 3
 1
 end_operator
 begin_operator
@@ -23496,8 +23496,8 @@ succumb depression-1 stimulation muffin mercury vulcan
 1
 10 4
 2
-0 33 10 4
 0 32 1 3
+0 33 10 4
 1
 end_operator
 begin_operator
@@ -23505,8 +23505,8 @@ succumb depression-1 stimulation muffin pluto jupiter
 1
 10 4
 2
-0 33 10 4
 0 32 2 0
+0 33 10 4
 1
 end_operator
 begin_operator
@@ -23514,8 +23514,8 @@ succumb depression-1 stimulation muffin vulcan pluto
 1
 10 4
 2
-0 33 10 4
 0 32 3 2
+0 33 10 4
 1
 end_operator
 begin_operator
@@ -23523,8 +23523,8 @@ succumb depression-1 stimulation onion mercury vulcan
 1
 10 5
 2
-0 33 10 5
 0 32 1 3
+0 33 10 5
 1
 end_operator
 begin_operator
@@ -23532,8 +23532,8 @@ succumb depression-1 stimulation onion pluto jupiter
 1
 10 5
 2
-0 33 10 5
 0 32 2 0
+0 33 10 5
 1
 end_operator
 begin_operator
@@ -23541,8 +23541,8 @@ succumb depression-1 stimulation onion vulcan pluto
 1
 10 5
 2
-0 33 10 5
 0 32 3 2
+0 33 10 5
 1
 end_operator
 begin_operator
@@ -23550,8 +23550,8 @@ succumb depression-1 stimulation tuna mercury vulcan
 1
 10 6
 2
-0 33 10 6
 0 32 1 3
+0 33 10 6
 1
 end_operator
 begin_operator
@@ -23559,8 +23559,8 @@ succumb depression-1 stimulation tuna pluto jupiter
 1
 10 6
 2
-0 33 10 6
 0 32 2 0
+0 33 10 6
 1
 end_operator
 begin_operator
@@ -23568,8 +23568,8 @@ succumb depression-1 stimulation tuna vulcan pluto
 1
 10 6
 2
-0 33 10 6
 0 32 3 2
+0 33 10 6
 1
 end_operator
 begin_operator
@@ -25845,8 +25845,8 @@ succumb grief-7 curiosity beef mercury vulcan
 1
 4 0
 2
-0 34 7 0
 0 28 1 3
+0 34 7 0
 1
 end_operator
 begin_operator
@@ -25854,8 +25854,8 @@ succumb grief-7 curiosity beef pluto jupiter
 1
 4 0
 2
-0 34 7 0
 0 28 2 0
+0 34 7 0
 1
 end_operator
 begin_operator
@@ -25863,8 +25863,8 @@ succumb grief-7 curiosity beef vulcan pluto
 1
 4 0
 2
-0 34 7 0
 0 28 3 2
+0 34 7 0
 1
 end_operator
 begin_operator
@@ -25872,8 +25872,8 @@ succumb grief-7 curiosity cherry mercury vulcan
 1
 4 1
 2
-0 34 7 1
 0 28 1 3
+0 34 7 1
 1
 end_operator
 begin_operator
@@ -25881,8 +25881,8 @@ succumb grief-7 curiosity cherry pluto jupiter
 1
 4 1
 2
-0 34 7 1
 0 28 2 0
+0 34 7 1
 1
 end_operator
 begin_operator
@@ -25890,8 +25890,8 @@ succumb grief-7 curiosity cherry vulcan pluto
 1
 4 1
 2
-0 34 7 1
 0 28 3 2
+0 34 7 1
 1
 end_operator
 begin_operator
@@ -25899,8 +25899,8 @@ succumb grief-7 curiosity flounder mercury vulcan
 1
 4 2
 2
-0 34 7 2
 0 28 1 3
+0 34 7 2
 1
 end_operator
 begin_operator
@@ -25908,8 +25908,8 @@ succumb grief-7 curiosity flounder pluto jupiter
 1
 4 2
 2
-0 34 7 2
 0 28 2 0
+0 34 7 2
 1
 end_operator
 begin_operator
@@ -25917,8 +25917,8 @@ succumb grief-7 curiosity flounder vulcan pluto
 1
 4 2
 2
-0 34 7 2
 0 28 3 2
+0 34 7 2
 1
 end_operator
 begin_operator
@@ -25926,8 +25926,8 @@ succumb grief-7 curiosity ham mercury vulcan
 1
 4 3
 2
-0 34 7 3
 0 28 1 3
+0 34 7 3
 1
 end_operator
 begin_operator
@@ -25935,8 +25935,8 @@ succumb grief-7 curiosity ham pluto jupiter
 1
 4 3
 2
-0 34 7 3
 0 28 2 0
+0 34 7 3
 1
 end_operator
 begin_operator
@@ -25944,8 +25944,8 @@ succumb grief-7 curiosity ham vulcan pluto
 1
 4 3
 2
-0 34 7 3
 0 28 3 2
+0 34 7 3
 1
 end_operator
 begin_operator
@@ -25953,8 +25953,8 @@ succumb grief-7 curiosity muffin mercury vulcan
 1
 4 4
 2
-0 34 7 4
 0 28 1 3
+0 34 7 4
 1
 end_operator
 begin_operator
@@ -25962,8 +25962,8 @@ succumb grief-7 curiosity muffin pluto jupiter
 1
 4 4
 2
-0 34 7 4
 0 28 2 0
+0 34 7 4
 1
 end_operator
 begin_operator
@@ -25971,8 +25971,8 @@ succumb grief-7 curiosity muffin vulcan pluto
 1
 4 4
 2
-0 34 7 4
 0 28 3 2
+0 34 7 4
 1
 end_operator
 begin_operator
@@ -25980,8 +25980,8 @@ succumb grief-7 curiosity onion mercury vulcan
 1
 4 5
 2
-0 34 7 5
 0 28 1 3
+0 34 7 5
 1
 end_operator
 begin_operator
@@ -25989,8 +25989,8 @@ succumb grief-7 curiosity onion pluto jupiter
 1
 4 5
 2
-0 34 7 5
 0 28 2 0
+0 34 7 5
 1
 end_operator
 begin_operator
@@ -25998,8 +25998,8 @@ succumb grief-7 curiosity onion vulcan pluto
 1
 4 5
 2
-0 34 7 5
 0 28 3 2
+0 34 7 5
 1
 end_operator
 begin_operator
@@ -26007,8 +26007,8 @@ succumb grief-7 curiosity tuna mercury vulcan
 1
 4 6
 2
-0 34 7 6
 0 28 1 3
+0 34 7 6
 1
 end_operator
 begin_operator
@@ -26016,8 +26016,8 @@ succumb grief-7 curiosity tuna pluto jupiter
 1
 4 6
 2
-0 34 7 6
 0 28 2 0
+0 34 7 6
 1
 end_operator
 begin_operator
@@ -26025,8 +26025,8 @@ succumb grief-7 curiosity tuna vulcan pluto
 1
 4 6
 2
-0 34 7 6
 0 28 3 2
+0 34 7 6
 1
 end_operator
 begin_operator
@@ -26034,8 +26034,8 @@ succumb grief-7 entertainment beef mercury vulcan
 1
 6 0
 2
-0 34 8 0
 0 29 1 3
+0 34 8 0
 1
 end_operator
 begin_operator
@@ -26043,8 +26043,8 @@ succumb grief-7 entertainment beef pluto jupiter
 1
 6 0
 2
-0 34 8 0
 0 29 2 0
+0 34 8 0
 1
 end_operator
 begin_operator
@@ -26052,8 +26052,8 @@ succumb grief-7 entertainment beef vulcan pluto
 1
 6 0
 2
-0 34 8 0
 0 29 3 2
+0 34 8 0
 1
 end_operator
 begin_operator
@@ -26061,8 +26061,8 @@ succumb grief-7 entertainment cherry mercury vulcan
 1
 6 1
 2
-0 34 8 1
 0 29 1 3
+0 34 8 1
 1
 end_operator
 begin_operator
@@ -26070,8 +26070,8 @@ succumb grief-7 entertainment cherry pluto jupiter
 1
 6 1
 2
-0 34 8 1
 0 29 2 0
+0 34 8 1
 1
 end_operator
 begin_operator
@@ -26079,8 +26079,8 @@ succumb grief-7 entertainment cherry vulcan pluto
 1
 6 1
 2
-0 34 8 1
 0 29 3 2
+0 34 8 1
 1
 end_operator
 begin_operator
@@ -26088,8 +26088,8 @@ succumb grief-7 entertainment flounder mercury vulcan
 1
 6 2
 2
-0 34 8 2
 0 29 1 3
+0 34 8 2
 1
 end_operator
 begin_operator
@@ -26097,8 +26097,8 @@ succumb grief-7 entertainment flounder pluto jupiter
 1
 6 2
 2
-0 34 8 2
 0 29 2 0
+0 34 8 2
 1
 end_operator
 begin_operator
@@ -26106,8 +26106,8 @@ succumb grief-7 entertainment flounder vulcan pluto
 1
 6 2
 2
-0 34 8 2
 0 29 3 2
+0 34 8 2
 1
 end_operator
 begin_operator
@@ -26115,8 +26115,8 @@ succumb grief-7 entertainment ham mercury vulcan
 1
 6 3
 2
-0 34 8 3
 0 29 1 3
+0 34 8 3
 1
 end_operator
 begin_operator
@@ -26124,8 +26124,8 @@ succumb grief-7 entertainment ham pluto jupiter
 1
 6 3
 2
-0 34 8 3
 0 29 2 0
+0 34 8 3
 1
 end_operator
 begin_operator
@@ -26133,8 +26133,8 @@ succumb grief-7 entertainment ham vulcan pluto
 1
 6 3
 2
-0 34 8 3
 0 29 3 2
+0 34 8 3
 1
 end_operator
 begin_operator
@@ -26142,8 +26142,8 @@ succumb grief-7 entertainment muffin mercury vulcan
 1
 6 4
 2
-0 34 8 4
 0 29 1 3
+0 34 8 4
 1
 end_operator
 begin_operator
@@ -26151,8 +26151,8 @@ succumb grief-7 entertainment muffin pluto jupiter
 1
 6 4
 2
-0 34 8 4
 0 29 2 0
+0 34 8 4
 1
 end_operator
 begin_operator
@@ -26160,8 +26160,8 @@ succumb grief-7 entertainment muffin vulcan pluto
 1
 6 4
 2
-0 34 8 4
 0 29 3 2
+0 34 8 4
 1
 end_operator
 begin_operator
@@ -26169,8 +26169,8 @@ succumb grief-7 entertainment onion mercury vulcan
 1
 6 5
 2
-0 34 8 5
 0 29 1 3
+0 34 8 5
 1
 end_operator
 begin_operator
@@ -26178,8 +26178,8 @@ succumb grief-7 entertainment onion pluto jupiter
 1
 6 5
 2
-0 34 8 5
 0 29 2 0
+0 34 8 5
 1
 end_operator
 begin_operator
@@ -26187,8 +26187,8 @@ succumb grief-7 entertainment onion vulcan pluto
 1
 6 5
 2
-0 34 8 5
 0 29 3 2
+0 34 8 5
 1
 end_operator
 begin_operator
@@ -26196,8 +26196,8 @@ succumb grief-7 entertainment tuna mercury vulcan
 1
 6 6
 2
-0 34 8 6
 0 29 1 3
+0 34 8 6
 1
 end_operator
 begin_operator
@@ -26205,8 +26205,8 @@ succumb grief-7 entertainment tuna pluto jupiter
 1
 6 6
 2
-0 34 8 6
 0 29 2 0
+0 34 8 6
 1
 end_operator
 begin_operator
@@ -26214,8 +26214,8 @@ succumb grief-7 entertainment tuna vulcan pluto
 1
 6 6
 2
-0 34 8 6
 0 29 3 2
+0 34 8 6
 1
 end_operator
 begin_operator
@@ -26223,8 +26223,8 @@ succumb grief-7 satiety beef mercury vulcan
 1
 7 0
 2
-0 34 9 0
 0 31 1 3
+0 34 9 0
 1
 end_operator
 begin_operator
@@ -26232,8 +26232,8 @@ succumb grief-7 satiety beef pluto jupiter
 1
 7 0
 2
-0 34 9 0
 0 31 2 0
+0 34 9 0
 1
 end_operator
 begin_operator
@@ -26241,8 +26241,8 @@ succumb grief-7 satiety beef vulcan pluto
 1
 7 0
 2
-0 34 9 0
 0 31 3 2
+0 34 9 0
 1
 end_operator
 begin_operator
@@ -26250,8 +26250,8 @@ succumb grief-7 satiety cherry mercury vulcan
 1
 7 1
 2
-0 34 9 1
 0 31 1 3
+0 34 9 1
 1
 end_operator
 begin_operator
@@ -26259,8 +26259,8 @@ succumb grief-7 satiety cherry pluto jupiter
 1
 7 1
 2
-0 34 9 1
 0 31 2 0
+0 34 9 1
 1
 end_operator
 begin_operator
@@ -26268,8 +26268,8 @@ succumb grief-7 satiety cherry vulcan pluto
 1
 7 1
 2
-0 34 9 1
 0 31 3 2
+0 34 9 1
 1
 end_operator
 begin_operator
@@ -26277,8 +26277,8 @@ succumb grief-7 satiety flounder mercury vulcan
 1
 7 2
 2
-0 34 9 2
 0 31 1 3
+0 34 9 2
 1
 end_operator
 begin_operator
@@ -26286,8 +26286,8 @@ succumb grief-7 satiety flounder pluto jupiter
 1
 7 2
 2
-0 34 9 2
 0 31 2 0
+0 34 9 2
 1
 end_operator
 begin_operator
@@ -26295,8 +26295,8 @@ succumb grief-7 satiety flounder vulcan pluto
 1
 7 2
 2
-0 34 9 2
 0 31 3 2
+0 34 9 2
 1
 end_operator
 begin_operator
@@ -26304,8 +26304,8 @@ succumb grief-7 satiety ham mercury vulcan
 1
 7 3
 2
-0 34 9 3
 0 31 1 3
+0 34 9 3
 1
 end_operator
 begin_operator
@@ -26313,8 +26313,8 @@ succumb grief-7 satiety ham pluto jupiter
 1
 7 3
 2
-0 34 9 3
 0 31 2 0
+0 34 9 3
 1
 end_operator
 begin_operator
@@ -26322,8 +26322,8 @@ succumb grief-7 satiety ham vulcan pluto
 1
 7 3
 2
-0 34 9 3
 0 31 3 2
+0 34 9 3
 1
 end_operator
 begin_operator
@@ -26331,8 +26331,8 @@ succumb grief-7 satiety muffin mercury vulcan
 1
 7 4
 2
-0 34 9 4
 0 31 1 3
+0 34 9 4
 1
 end_operator
 begin_operator
@@ -26340,8 +26340,8 @@ succumb grief-7 satiety muffin pluto jupiter
 1
 7 4
 2
-0 34 9 4
 0 31 2 0
+0 34 9 4
 1
 end_operator
 begin_operator
@@ -26349,8 +26349,8 @@ succumb grief-7 satiety muffin vulcan pluto
 1
 7 4
 2
-0 34 9 4
 0 31 3 2
+0 34 9 4
 1
 end_operator
 begin_operator
@@ -26358,8 +26358,8 @@ succumb grief-7 satiety onion mercury vulcan
 1
 7 5
 2
-0 34 9 5
 0 31 1 3
+0 34 9 5
 1
 end_operator
 begin_operator
@@ -26367,8 +26367,8 @@ succumb grief-7 satiety onion pluto jupiter
 1
 7 5
 2
-0 34 9 5
 0 31 2 0
+0 34 9 5
 1
 end_operator
 begin_operator
@@ -26376,8 +26376,8 @@ succumb grief-7 satiety onion vulcan pluto
 1
 7 5
 2
-0 34 9 5
 0 31 3 2
+0 34 9 5
 1
 end_operator
 begin_operator
@@ -26385,8 +26385,8 @@ succumb grief-7 satiety tuna mercury vulcan
 1
 7 6
 2
-0 34 9 6
 0 31 1 3
+0 34 9 6
 1
 end_operator
 begin_operator
@@ -26394,8 +26394,8 @@ succumb grief-7 satiety tuna pluto jupiter
 1
 7 6
 2
-0 34 9 6
 0 31 2 0
+0 34 9 6
 1
 end_operator
 begin_operator
@@ -26403,8 +26403,8 @@ succumb grief-7 satiety tuna vulcan pluto
 1
 7 6
 2
-0 34 9 6
 0 31 3 2
+0 34 9 6
 1
 end_operator
 begin_operator
@@ -26412,8 +26412,8 @@ succumb grief-7 stimulation beef mercury vulcan
 1
 10 0
 2
-0 34 10 0
 0 32 1 3
+0 34 10 0
 1
 end_operator
 begin_operator
@@ -26421,8 +26421,8 @@ succumb grief-7 stimulation beef pluto jupiter
 1
 10 0
 2
-0 34 10 0
 0 32 2 0
+0 34 10 0
 1
 end_operator
 begin_operator
@@ -26430,8 +26430,8 @@ succumb grief-7 stimulation beef vulcan pluto
 1
 10 0
 2
-0 34 10 0
 0 32 3 2
+0 34 10 0
 1
 end_operator
 begin_operator
@@ -26439,8 +26439,8 @@ succumb grief-7 stimulation cherry mercury vulcan
 1
 10 1
 2
-0 34 10 1
 0 32 1 3
+0 34 10 1
 1
 end_operator
 begin_operator
@@ -26448,8 +26448,8 @@ succumb grief-7 stimulation cherry pluto jupiter
 1
 10 1
 2
-0 34 10 1
 0 32 2 0
+0 34 10 1
 1
 end_operator
 begin_operator
@@ -26457,8 +26457,8 @@ succumb grief-7 stimulation cherry vulcan pluto
 1
 10 1
 2
-0 34 10 1
 0 32 3 2
+0 34 10 1
 1
 end_operator
 begin_operator
@@ -26466,8 +26466,8 @@ succumb grief-7 stimulation flounder mercury vulcan
 1
 10 2
 2
-0 34 10 2
 0 32 1 3
+0 34 10 2
 1
 end_operator
 begin_operator
@@ -26475,8 +26475,8 @@ succumb grief-7 stimulation flounder pluto jupiter
 1
 10 2
 2
-0 34 10 2
 0 32 2 0
+0 34 10 2
 1
 end_operator
 begin_operator
@@ -26484,8 +26484,8 @@ succumb grief-7 stimulation flounder vulcan pluto
 1
 10 2
 2
-0 34 10 2
 0 32 3 2
+0 34 10 2
 1
 end_operator
 begin_operator
@@ -26493,8 +26493,8 @@ succumb grief-7 stimulation ham mercury vulcan
 1
 10 3
 2
-0 34 10 3
 0 32 1 3
+0 34 10 3
 1
 end_operator
 begin_operator
@@ -26502,8 +26502,8 @@ succumb grief-7 stimulation ham pluto jupiter
 1
 10 3
 2
-0 34 10 3
 0 32 2 0
+0 34 10 3
 1
 end_operator
 begin_operator
@@ -26511,8 +26511,8 @@ succumb grief-7 stimulation ham vulcan pluto
 1
 10 3
 2
-0 34 10 3
 0 32 3 2
+0 34 10 3
 1
 end_operator
 begin_operator
@@ -26520,8 +26520,8 @@ succumb grief-7 stimulation muffin mercury vulcan
 1
 10 4
 2
-0 34 10 4
 0 32 1 3
+0 34 10 4
 1
 end_operator
 begin_operator
@@ -26529,8 +26529,8 @@ succumb grief-7 stimulation muffin pluto jupiter
 1
 10 4
 2
-0 34 10 4
 0 32 2 0
+0 34 10 4
 1
 end_operator
 begin_operator
@@ -26538,8 +26538,8 @@ succumb grief-7 stimulation muffin vulcan pluto
 1
 10 4
 2
-0 34 10 4
 0 32 3 2
+0 34 10 4
 1
 end_operator
 begin_operator
@@ -26547,8 +26547,8 @@ succumb grief-7 stimulation onion mercury vulcan
 1
 10 5
 2
-0 34 10 5
 0 32 1 3
+0 34 10 5
 1
 end_operator
 begin_operator
@@ -26556,8 +26556,8 @@ succumb grief-7 stimulation onion pluto jupiter
 1
 10 5
 2
-0 34 10 5
 0 32 2 0
+0 34 10 5
 1
 end_operator
 begin_operator
@@ -26565,8 +26565,8 @@ succumb grief-7 stimulation onion vulcan pluto
 1
 10 5
 2
-0 34 10 5
 0 32 3 2
+0 34 10 5
 1
 end_operator
 begin_operator
@@ -26574,8 +26574,8 @@ succumb grief-7 stimulation tuna mercury vulcan
 1
 10 6
 2
-0 34 10 6
 0 32 1 3
+0 34 10 6
 1
 end_operator
 begin_operator
@@ -26583,8 +26583,8 @@ succumb grief-7 stimulation tuna pluto jupiter
 1
 10 6
 2
-0 34 10 6
 0 32 2 0
+0 34 10 6
 1
 end_operator
 begin_operator
@@ -26592,8 +26592,8 @@ succumb grief-7 stimulation tuna vulcan pluto
 1
 10 6
 2
-0 34 10 6
 0 32 3 2
+0 34 10 6
 1
 end_operator
 begin_operator
@@ -31893,8 +31893,8 @@ succumb sciatica curiosity beef mercury vulcan
 1
 4 0
 2
-0 30 7 0
 0 28 1 3
+0 30 7 0
 1
 end_operator
 begin_operator
@@ -31902,8 +31902,8 @@ succumb sciatica curiosity beef pluto jupiter
 1
 4 0
 2
-0 30 7 0
 0 28 2 0
+0 30 7 0
 1
 end_operator
 begin_operator
@@ -31911,8 +31911,8 @@ succumb sciatica curiosity beef vulcan pluto
 1
 4 0
 2
-0 30 7 0
 0 28 3 2
+0 30 7 0
 1
 end_operator
 begin_operator
@@ -31920,8 +31920,8 @@ succumb sciatica curiosity cherry mercury vulcan
 1
 4 1
 2
-0 30 7 1
 0 28 1 3
+0 30 7 1
 1
 end_operator
 begin_operator
@@ -31929,8 +31929,8 @@ succumb sciatica curiosity cherry pluto jupiter
 1
 4 1
 2
-0 30 7 1
 0 28 2 0
+0 30 7 1
 1
 end_operator
 begin_operator
@@ -31938,8 +31938,8 @@ succumb sciatica curiosity cherry vulcan pluto
 1
 4 1
 2
-0 30 7 1
 0 28 3 2
+0 30 7 1
 1
 end_operator
 begin_operator
@@ -31947,8 +31947,8 @@ succumb sciatica curiosity flounder mercury vulcan
 1
 4 2
 2
-0 30 7 2
 0 28 1 3
+0 30 7 2
 1
 end_operator
 begin_operator
@@ -31956,8 +31956,8 @@ succumb sciatica curiosity flounder pluto jupiter
 1
 4 2
 2
-0 30 7 2
 0 28 2 0
+0 30 7 2
 1
 end_operator
 begin_operator
@@ -31965,8 +31965,8 @@ succumb sciatica curiosity flounder vulcan pluto
 1
 4 2
 2
-0 30 7 2
 0 28 3 2
+0 30 7 2
 1
 end_operator
 begin_operator
@@ -31974,8 +31974,8 @@ succumb sciatica curiosity ham mercury vulcan
 1
 4 3
 2
-0 30 7 3
 0 28 1 3
+0 30 7 3
 1
 end_operator
 begin_operator
@@ -31983,8 +31983,8 @@ succumb sciatica curiosity ham pluto jupiter
 1
 4 3
 2
-0 30 7 3
 0 28 2 0
+0 30 7 3
 1
 end_operator
 begin_operator
@@ -31992,8 +31992,8 @@ succumb sciatica curiosity ham vulcan pluto
 1
 4 3
 2
-0 30 7 3
 0 28 3 2
+0 30 7 3
 1
 end_operator
 begin_operator
@@ -32001,8 +32001,8 @@ succumb sciatica curiosity muffin mercury vulcan
 1
 4 4
 2
-0 30 7 4
 0 28 1 3
+0 30 7 4
 1
 end_operator
 begin_operator
@@ -32010,8 +32010,8 @@ succumb sciatica curiosity muffin pluto jupiter
 1
 4 4
 2
-0 30 7 4
 0 28 2 0
+0 30 7 4
 1
 end_operator
 begin_operator
@@ -32019,8 +32019,8 @@ succumb sciatica curiosity muffin vulcan pluto
 1
 4 4
 2
-0 30 7 4
 0 28 3 2
+0 30 7 4
 1
 end_operator
 begin_operator
@@ -32028,8 +32028,8 @@ succumb sciatica curiosity onion mercury vulcan
 1
 4 5
 2
-0 30 7 5
 0 28 1 3
+0 30 7 5
 1
 end_operator
 begin_operator
@@ -32037,8 +32037,8 @@ succumb sciatica curiosity onion pluto jupiter
 1
 4 5
 2
-0 30 7 5
 0 28 2 0
+0 30 7 5
 1
 end_operator
 begin_operator
@@ -32046,8 +32046,8 @@ succumb sciatica curiosity onion vulcan pluto
 1
 4 5
 2
-0 30 7 5
 0 28 3 2
+0 30 7 5
 1
 end_operator
 begin_operator
@@ -32055,8 +32055,8 @@ succumb sciatica curiosity tuna mercury vulcan
 1
 4 6
 2
-0 30 7 6
 0 28 1 3
+0 30 7 6
 1
 end_operator
 begin_operator
@@ -32064,8 +32064,8 @@ succumb sciatica curiosity tuna pluto jupiter
 1
 4 6
 2
-0 30 7 6
 0 28 2 0
+0 30 7 6
 1
 end_operator
 begin_operator
@@ -32073,8 +32073,8 @@ succumb sciatica curiosity tuna vulcan pluto
 1
 4 6
 2
-0 30 7 6
 0 28 3 2
+0 30 7 6
 1
 end_operator
 begin_operator
@@ -32082,8 +32082,8 @@ succumb sciatica entertainment beef mercury vulcan
 1
 6 0
 2
-0 30 8 0
 0 29 1 3
+0 30 8 0
 1
 end_operator
 begin_operator
@@ -32091,8 +32091,8 @@ succumb sciatica entertainment beef pluto jupiter
 1
 6 0
 2
-0 30 8 0
 0 29 2 0
+0 30 8 0
 1
 end_operator
 begin_operator
@@ -32100,8 +32100,8 @@ succumb sciatica entertainment beef vulcan pluto
 1
 6 0
 2
-0 30 8 0
 0 29 3 2
+0 30 8 0
 1
 end_operator
 begin_operator
@@ -32109,8 +32109,8 @@ succumb sciatica entertainment cherry mercury vulcan
 1
 6 1
 2
-0 30 8 1
 0 29 1 3
+0 30 8 1
 1
 end_operator
 begin_operator
@@ -32118,8 +32118,8 @@ succumb sciatica entertainment cherry pluto jupiter
 1
 6 1
 2
-0 30 8 1
 0 29 2 0
+0 30 8 1
 1
 end_operator
 begin_operator
@@ -32127,8 +32127,8 @@ succumb sciatica entertainment cherry vulcan pluto
 1
 6 1
 2
-0 30 8 1
 0 29 3 2
+0 30 8 1
 1
 end_operator
 begin_operator
@@ -32136,8 +32136,8 @@ succumb sciatica entertainment flounder mercury vulcan
 1
 6 2
 2
-0 30 8 2
 0 29 1 3
+0 30 8 2
 1
 end_operator
 begin_operator
@@ -32145,8 +32145,8 @@ succumb sciatica entertainment flounder pluto jupiter
 1
 6 2
 2
-0 30 8 2
 0 29 2 0
+0 30 8 2
 1
 end_operator
 begin_operator
@@ -32154,8 +32154,8 @@ succumb sciatica entertainment flounder vulcan pluto
 1
 6 2
 2
-0 30 8 2
 0 29 3 2
+0 30 8 2
 1
 end_operator
 begin_operator
@@ -32163,8 +32163,8 @@ succumb sciatica entertainment ham mercury vulcan
 1
 6 3
 2
-0 30 8 3
 0 29 1 3
+0 30 8 3
 1
 end_operator
 begin_operator
@@ -32172,8 +32172,8 @@ succumb sciatica entertainment ham pluto jupiter
 1
 6 3
 2
-0 30 8 3
 0 29 2 0
+0 30 8 3
 1
 end_operator
 begin_operator
@@ -32181,8 +32181,8 @@ succumb sciatica entertainment ham vulcan pluto
 1
 6 3
 2
-0 30 8 3
 0 29 3 2
+0 30 8 3
 1
 end_operator
 begin_operator
@@ -32190,8 +32190,8 @@ succumb sciatica entertainment muffin mercury vulcan
 1
 6 4
 2
-0 30 8 4
 0 29 1 3
+0 30 8 4
 1
 end_operator
 begin_operator
@@ -32199,8 +32199,8 @@ succumb sciatica entertainment muffin pluto jupiter
 1
 6 4
 2
-0 30 8 4
 0 29 2 0
+0 30 8 4
 1
 end_operator
 begin_operator
@@ -32208,8 +32208,8 @@ succumb sciatica entertainment muffin vulcan pluto
 1
 6 4
 2
-0 30 8 4
 0 29 3 2
+0 30 8 4
 1
 end_operator
 begin_operator
@@ -32217,8 +32217,8 @@ succumb sciatica entertainment onion mercury vulcan
 1
 6 5
 2
-0 30 8 5
 0 29 1 3
+0 30 8 5
 1
 end_operator
 begin_operator
@@ -32226,8 +32226,8 @@ succumb sciatica entertainment onion pluto jupiter
 1
 6 5
 2
-0 30 8 5
 0 29 2 0
+0 30 8 5
 1
 end_operator
 begin_operator
@@ -32235,8 +32235,8 @@ succumb sciatica entertainment onion vulcan pluto
 1
 6 5
 2
-0 30 8 5
 0 29 3 2
+0 30 8 5
 1
 end_operator
 begin_operator
@@ -32244,8 +32244,8 @@ succumb sciatica entertainment tuna mercury vulcan
 1
 6 6
 2
-0 30 8 6
 0 29 1 3
+0 30 8 6
 1
 end_operator
 begin_operator
@@ -32253,8 +32253,8 @@ succumb sciatica entertainment tuna pluto jupiter
 1
 6 6
 2
-0 30 8 6
 0 29 2 0
+0 30 8 6
 1
 end_operator
 begin_operator
@@ -32262,8 +32262,8 @@ succumb sciatica entertainment tuna vulcan pluto
 1
 6 6
 2
-0 30 8 6
 0 29 3 2
+0 30 8 6
 1
 end_operator
 begin_operator

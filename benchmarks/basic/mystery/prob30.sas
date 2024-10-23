@@ -518,192 +518,192 @@ begin_operator
 feast achievement baguette beef alsace guanabara
 0
 2
-0 10 0 1
 0 9 2 0
+0 10 0 1
 1
 end_operator
 begin_operator
 feast achievement baguette beef goias manitoba
 0
 2
-0 10 0 1
 0 9 3 1
+0 10 0 1
 1
 end_operator
 begin_operator
 feast achievement baguette beef manitoba surrey
 0
 2
-0 10 0 1
 0 9 6 3
+0 10 0 1
 1
 end_operator
 begin_operator
 feast achievement baguette beef pennsylvania alsace
 0
 2
-0 10 0 1
 0 9 0 4
+0 10 0 1
 1
 end_operator
 begin_operator
 feast achievement baguette beef quebec goias
 0
 2
-0 10 0 1
 0 9 1 5
+0 10 0 1
 1
 end_operator
 begin_operator
 feast achievement baguette beef surrey pennsylvania
 0
 2
-0 10 0 1
 0 9 4 6
+0 10 0 1
 1
 end_operator
 begin_operator
 feast achievement baguette cucumber alsace guanabara
 0
 2
-0 10 0 3
 0 9 2 0
+0 10 0 3
 1
 end_operator
 begin_operator
 feast achievement baguette cucumber goias manitoba
 0
 2
-0 10 0 3
 0 9 3 1
+0 10 0 3
 1
 end_operator
 begin_operator
 feast achievement baguette cucumber manitoba surrey
 0
 2
-0 10 0 3
 0 9 6 3
+0 10 0 3
 1
 end_operator
 begin_operator
 feast achievement baguette cucumber pennsylvania alsace
 0
 2
-0 10 0 3
 0 9 0 4
+0 10 0 3
 1
 end_operator
 begin_operator
 feast achievement baguette cucumber quebec goias
 0
 2
-0 10 0 3
 0 9 1 5
+0 10 0 3
 1
 end_operator
 begin_operator
 feast achievement baguette cucumber surrey pennsylvania
 0
 2
-0 10 0 3
 0 9 4 6
+0 10 0 3
 1
 end_operator
 begin_operator
 feast achievement baguette muffin alsace guanabara
 0
 2
-0 10 0 7
 0 9 2 0
+0 10 0 7
 1
 end_operator
 begin_operator
 feast achievement baguette muffin goias manitoba
 0
 2
-0 10 0 7
 0 9 3 1
+0 10 0 7
 1
 end_operator
 begin_operator
 feast achievement baguette muffin manitoba surrey
 0
 2
-0 10 0 7
 0 9 6 3
+0 10 0 7
 1
 end_operator
 begin_operator
 feast achievement baguette muffin pennsylvania alsace
 0
 2
-0 10 0 7
 0 9 0 4
+0 10 0 7
 1
 end_operator
 begin_operator
 feast achievement baguette muffin quebec goias
 0
 2
-0 10 0 7
 0 9 1 5
+0 10 0 7
 1
 end_operator
 begin_operator
 feast achievement baguette muffin surrey pennsylvania
 0
 2
-0 10 0 7
 0 9 4 6
+0 10 0 7
 1
 end_operator
 begin_operator
 feast achievement baguette rice alsace guanabara
 0
 2
-0 10 0 9
 0 9 2 0
+0 10 0 9
 1
 end_operator
 begin_operator
 feast achievement baguette rice goias manitoba
 0
 2
-0 10 0 9
 0 9 3 1
+0 10 0 9
 1
 end_operator
 begin_operator
 feast achievement baguette rice manitoba surrey
 0
 2
-0 10 0 9
 0 9 6 3
+0 10 0 9
 1
 end_operator
 begin_operator
 feast achievement baguette rice pennsylvania alsace
 0
 2
-0 10 0 9
 0 9 0 4
+0 10 0 9
 1
 end_operator
 begin_operator
 feast achievement baguette rice quebec goias
 0
 2
-0 10 0 9
 0 9 1 5
+0 10 0 9
 1
 end_operator
 begin_operator
 feast achievement baguette rice surrey pennsylvania
 0
 2
-0 10 0 9
 0 9 4 6
+0 10 0 9
 1
 end_operator
 begin_operator
@@ -950,72 +950,72 @@ begin_operator
 feast achievement chicken hotdog goias manitoba
 0
 2
-0 10 2 6
 0 1 1 0
+0 10 2 6
 1
 end_operator
 begin_operator
 feast achievement chicken hotdog manitoba surrey
 0
 2
-0 10 2 6
 0 1 3 1
+0 10 2 6
 1
 end_operator
 begin_operator
 feast achievement chicken hotdog quebec goias
 0
 2
-0 10 2 6
 0 1 0 2
+0 10 2 6
 1
 end_operator
 begin_operator
 feast achievement chicken mutton goias manitoba
 0
 2
-0 10 2 8
 0 1 1 0
+0 10 2 8
 1
 end_operator
 begin_operator
 feast achievement chicken mutton manitoba surrey
 0
 2
-0 10 2 8
 0 1 3 1
+0 10 2 8
 1
 end_operator
 begin_operator
 feast achievement chicken mutton quebec goias
 0
 2
-0 10 2 8
 0 1 0 2
+0 10 2 8
 1
 end_operator
 begin_operator
 feast achievement chicken turkey goias manitoba
 0
 2
-0 10 2 11
 0 1 1 0
+0 10 2 11
 1
 end_operator
 begin_operator
 feast achievement chicken turkey manitoba surrey
 0
 2
-0 10 2 11
 0 1 3 1
+0 10 2 11
 1
 end_operator
 begin_operator
 feast achievement chicken turkey quebec goias
 0
 2
-0 10 2 11
 0 1 0 2
+0 10 2 11
 1
 end_operator
 begin_operator
@@ -1262,288 +1262,288 @@ begin_operator
 feast achievement guava rice alsace guanabara
 0
 2
-0 10 4 9
 0 3 3 0
+0 10 4 9
 1
 end_operator
 begin_operator
 feast achievement guava rice arizona oregon
 0
 2
-0 10 4 9
 0 3 5 1
+0 10 4 9
 1
 end_operator
 begin_operator
 feast achievement guava rice goias manitoba
 0
 2
-0 10 4 9
 0 3 4 2
+0 10 4 9
 1
 end_operator
 begin_operator
 feast achievement guava rice guanabara arizona
 0
 2
-0 10 4 9
 0 3 1 3
+0 10 4 9
 1
 end_operator
 begin_operator
 feast achievement guava rice manitoba surrey
 0
 2
-0 10 4 9
 0 3 8 4
+0 10 4 9
 1
 end_operator
 begin_operator
 feast achievement guava rice pennsylvania alsace
 0
 2
-0 10 4 9
 0 3 0 6
+0 10 4 9
 1
 end_operator
 begin_operator
 feast achievement guava rice quebec goias
 0
 2
-0 10 4 9
 0 3 2 7
+0 10 4 9
 1
 end_operator
 begin_operator
 feast achievement guava rice surrey pennsylvania
 0
 2
-0 10 4 9
 0 3 6 8
+0 10 4 9
 1
 end_operator
 begin_operator
 feast achievement guava yogurt alsace guanabara
 0
 2
-0 10 4 12
 0 3 3 0
+0 10 4 12
 1
 end_operator
 begin_operator
 feast achievement guava yogurt arizona oregon
 0
 2
-0 10 4 12
 0 3 5 1
+0 10 4 12
 1
 end_operator
 begin_operator
 feast achievement guava yogurt goias manitoba
 0
 2
-0 10 4 12
 0 3 4 2
+0 10 4 12
 1
 end_operator
 begin_operator
 feast achievement guava yogurt guanabara arizona
 0
 2
-0 10 4 12
 0 3 1 3
+0 10 4 12
 1
 end_operator
 begin_operator
 feast achievement guava yogurt manitoba surrey
 0
 2
-0 10 4 12
 0 3 8 4
+0 10 4 12
 1
 end_operator
 begin_operator
 feast achievement guava yogurt pennsylvania alsace
 0
 2
-0 10 4 12
 0 3 0 6
+0 10 4 12
 1
 end_operator
 begin_operator
 feast achievement guava yogurt quebec goias
 0
 2
-0 10 4 12
 0 3 2 7
+0 10 4 12
 1
 end_operator
 begin_operator
 feast achievement guava yogurt surrey pennsylvania
 0
 2
-0 10 4 12
 0 3 6 8
+0 10 4 12
 1
 end_operator
 begin_operator
 feast achievement hamburger beef alsace guanabara
 0
 2
-0 10 5 1
 0 8 5 0
+0 10 5 1
 1
 end_operator
 begin_operator
 feast achievement hamburger beef arizona oregon
 0
 2
-0 10 5 1
 0 8 7 1
+0 10 5 1
 1
 end_operator
 begin_operator
 feast achievement hamburger beef bosnia bavaria
 0
 2
-0 10 5 1
 0 8 2 3
+0 10 5 1
 1
 end_operator
 begin_operator
 feast achievement hamburger beef goias manitoba
 0
 2
-0 10 5 1
 0 8 6 4
+0 10 5 1
 1
 end_operator
 begin_operator
 feast achievement hamburger beef guanabara arizona
 0
 2
-0 10 5 1
 0 8 1 5
+0 10 5 1
 1
 end_operator
 begin_operator
 feast achievement hamburger beef manitoba surrey
 0
 2
-0 10 5 1
 0 8 10 6
+0 10 5 1
 1
 end_operator
 begin_operator
 feast achievement hamburger beef oregon bosnia
 0
 2
-0 10 5 1
 0 8 3 7
+0 10 5 1
 1
 end_operator
 begin_operator
 feast achievement hamburger beef pennsylvania alsace
 0
 2
-0 10 5 1
 0 8 0 8
+0 10 5 1
 1
 end_operator
 begin_operator
 feast achievement hamburger beef quebec goias
 0
 2
-0 10 5 1
 0 8 4 9
+0 10 5 1
 1
 end_operator
 begin_operator
 feast achievement hamburger beef surrey pennsylvania
 0
 2
-0 10 5 1
 0 8 8 10
+0 10 5 1
 1
 end_operator
 begin_operator
 feast achievement hamburger hotdog alsace guanabara
 0
 2
-0 10 5 6
 0 8 5 0
+0 10 5 6
 1
 end_operator
 begin_operator
 feast achievement hamburger hotdog arizona oregon
 0
 2
-0 10 5 6
 0 8 7 1
+0 10 5 6
 1
 end_operator
 begin_operator
 feast achievement hamburger hotdog bosnia bavaria
 0
 2
-0 10 5 6
 0 8 2 3
+0 10 5 6
 1
 end_operator
 begin_operator
 feast achievement hamburger hotdog goias manitoba
 0
 2
-0 10 5 6
 0 8 6 4
+0 10 5 6
 1
 end_operator
 begin_operator
 feast achievement hamburger hotdog guanabara arizona
 0
 2
-0 10 5 6
 0 8 1 5
+0 10 5 6
 1
 end_operator
 begin_operator
 feast achievement hamburger hotdog manitoba surrey
 0
 2
-0 10 5 6
 0 8 10 6
+0 10 5 6
 1
 end_operator
 begin_operator
 feast achievement hamburger hotdog oregon bosnia
 0
 2
-0 10 5 6
 0 8 3 7
+0 10 5 6
 1
 end_operator
 begin_operator
 feast achievement hamburger hotdog pennsylvania alsace
 0
 2
-0 10 5 6
 0 8 0 8
+0 10 5 6
 1
 end_operator
 begin_operator
 feast achievement hamburger hotdog quebec goias
 0
 2
-0 10 5 6
 0 8 4 9
+0 10 5 6
 1
 end_operator
 begin_operator
 feast achievement hamburger hotdog surrey pennsylvania
 0
 2
-0 10 5 6
 0 8 8 10
+0 10 5 6
 1
 end_operator
 begin_operator
@@ -2030,848 +2030,848 @@ begin_operator
 feast achievement muffin baguette alsace guanabara
 0
 2
-0 10 7 0
 0 4 3 0
+0 10 7 0
 1
 end_operator
 begin_operator
 feast achievement muffin baguette arizona oregon
 0
 2
-0 10 7 0
 0 4 5 1
+0 10 7 0
 1
 end_operator
 begin_operator
 feast achievement muffin baguette goias manitoba
 0
 2
-0 10 7 0
 0 4 4 2
+0 10 7 0
 1
 end_operator
 begin_operator
 feast achievement muffin baguette guanabara arizona
 0
 2
-0 10 7 0
 0 4 1 3
+0 10 7 0
 1
 end_operator
 begin_operator
 feast achievement muffin baguette manitoba surrey
 0
 2
-0 10 7 0
 0 4 8 4
+0 10 7 0
 1
 end_operator
 begin_operator
 feast achievement muffin baguette pennsylvania alsace
 0
 2
-0 10 7 0
 0 4 0 6
+0 10 7 0
 1
 end_operator
 begin_operator
 feast achievement muffin baguette quebec goias
 0
 2
-0 10 7 0
 0 4 2 7
+0 10 7 0
 1
 end_operator
 begin_operator
 feast achievement muffin baguette surrey pennsylvania
 0
 2
-0 10 7 0
 0 4 6 8
+0 10 7 0
 1
 end_operator
 begin_operator
 feast achievement muffin turkey alsace guanabara
 0
 2
-0 10 7 11
 0 4 3 0
+0 10 7 11
 1
 end_operator
 begin_operator
 feast achievement muffin turkey arizona oregon
 0
 2
-0 10 7 11
 0 4 5 1
+0 10 7 11
 1
 end_operator
 begin_operator
 feast achievement muffin turkey goias manitoba
 0
 2
-0 10 7 11
 0 4 4 2
+0 10 7 11
 1
 end_operator
 begin_operator
 feast achievement muffin turkey guanabara arizona
 0
 2
-0 10 7 11
 0 4 1 3
+0 10 7 11
 1
 end_operator
 begin_operator
 feast achievement muffin turkey manitoba surrey
 0
 2
-0 10 7 11
 0 4 8 4
+0 10 7 11
 1
 end_operator
 begin_operator
 feast achievement muffin turkey pennsylvania alsace
 0
 2
-0 10 7 11
 0 4 0 6
+0 10 7 11
 1
 end_operator
 begin_operator
 feast achievement muffin turkey quebec goias
 0
 2
-0 10 7 11
 0 4 2 7
+0 10 7 11
 1
 end_operator
 begin_operator
 feast achievement muffin turkey surrey pennsylvania
 0
 2
-0 10 7 11
 0 4 6 8
+0 10 7 11
 1
 end_operator
 begin_operator
 feast achievement mutton chicken quebec goias
 0
 2
-0 10 8 2
 0 0 0 1
+0 10 8 2
 1
 end_operator
 begin_operator
 feast achievement mutton hotdog quebec goias
 0
 2
-0 10 8 6
 0 0 0 1
+0 10 8 6
 1
 end_operator
 begin_operator
 feast achievement rice baguette alsace guanabara
 0
 2
-0 10 9 0
 0 6 2 0
+0 10 9 0
 1
 end_operator
 begin_operator
 feast achievement rice baguette goias manitoba
 0
 2
-0 10 9 0
 0 6 3 1
+0 10 9 0
 1
 end_operator
 begin_operator
 feast achievement rice baguette manitoba surrey
 0
 2
-0 10 9 0
 0 6 6 3
+0 10 9 0
 1
 end_operator
 begin_operator
 feast achievement rice baguette pennsylvania alsace
 0
 2
-0 10 9 0
 0 6 0 4
+0 10 9 0
 1
 end_operator
 begin_operator
 feast achievement rice baguette quebec goias
 0
 2
-0 10 9 0
 0 6 1 5
+0 10 9 0
 1
 end_operator
 begin_operator
 feast achievement rice baguette surrey pennsylvania
 0
 2
-0 10 9 0
 0 6 4 6
+0 10 9 0
 1
 end_operator
 begin_operator
 feast achievement rice guava alsace guanabara
 0
 2
-0 10 9 4
 0 6 2 0
+0 10 9 4
 1
 end_operator
 begin_operator
 feast achievement rice guava goias manitoba
 0
 2
-0 10 9 4
 0 6 3 1
+0 10 9 4
 1
 end_operator
 begin_operator
 feast achievement rice guava manitoba surrey
 0
 2
-0 10 9 4
 0 6 6 3
+0 10 9 4
 1
 end_operator
 begin_operator
 feast achievement rice guava pennsylvania alsace
 0
 2
-0 10 9 4
 0 6 0 4
+0 10 9 4
 1
 end_operator
 begin_operator
 feast achievement rice guava quebec goias
 0
 2
-0 10 9 4
 0 6 1 5
+0 10 9 4
 1
 end_operator
 begin_operator
 feast achievement rice guava surrey pennsylvania
 0
 2
-0 10 9 4
 0 6 4 6
+0 10 9 4
 1
 end_operator
 begin_operator
 feast achievement rice scallop alsace guanabara
 0
 2
-0 10 9 10
 0 6 2 0
+0 10 9 10
 1
 end_operator
 begin_operator
 feast achievement rice scallop goias manitoba
 0
 2
-0 10 9 10
 0 6 3 1
+0 10 9 10
 1
 end_operator
 begin_operator
 feast achievement rice scallop manitoba surrey
 0
 2
-0 10 9 10
 0 6 6 3
+0 10 9 10
 1
 end_operator
 begin_operator
 feast achievement rice scallop pennsylvania alsace
 0
 2
-0 10 9 10
 0 6 0 4
+0 10 9 10
 1
 end_operator
 begin_operator
 feast achievement rice scallop quebec goias
 0
 2
-0 10 9 10
 0 6 1 5
+0 10 9 10
 1
 end_operator
 begin_operator
 feast achievement rice scallop surrey pennsylvania
 0
 2
-0 10 9 10
 0 6 4 6
+0 10 9 10
 1
 end_operator
 begin_operator
 feast achievement scallop rice alsace guanabara
 0
 2
-0 10 10 9
 0 5 3 0
+0 10 10 9
 1
 end_operator
 begin_operator
 feast achievement scallop rice arizona oregon
 0
 2
-0 10 10 9
 0 5 5 1
+0 10 10 9
 1
 end_operator
 begin_operator
 feast achievement scallop rice goias manitoba
 0
 2
-0 10 10 9
 0 5 4 2
+0 10 10 9
 1
 end_operator
 begin_operator
 feast achievement scallop rice guanabara arizona
 0
 2
-0 10 10 9
 0 5 1 3
+0 10 10 9
 1
 end_operator
 begin_operator
 feast achievement scallop rice manitoba surrey
 0
 2
-0 10 10 9
 0 5 8 4
+0 10 10 9
 1
 end_operator
 begin_operator
 feast achievement scallop rice pennsylvania alsace
 0
 2
-0 10 10 9
 0 5 0 6
+0 10 10 9
 1
 end_operator
 begin_operator
 feast achievement scallop rice quebec goias
 0
 2
-0 10 10 9
 0 5 2 7
+0 10 10 9
 1
 end_operator
 begin_operator
 feast achievement scallop rice surrey pennsylvania
 0
 2
-0 10 10 9
 0 5 6 8
+0 10 10 9
 1
 end_operator
 begin_operator
 feast achievement scallop yogurt alsace guanabara
 0
 2
-0 10 10 12
 0 5 3 0
+0 10 10 12
 1
 end_operator
 begin_operator
 feast achievement scallop yogurt arizona oregon
 0
 2
-0 10 10 12
 0 5 5 1
+0 10 10 12
 1
 end_operator
 begin_operator
 feast achievement scallop yogurt goias manitoba
 0
 2
-0 10 10 12
 0 5 4 2
+0 10 10 12
 1
 end_operator
 begin_operator
 feast achievement scallop yogurt guanabara arizona
 0
 2
-0 10 10 12
 0 5 1 3
+0 10 10 12
 1
 end_operator
 begin_operator
 feast achievement scallop yogurt manitoba surrey
 0
 2
-0 10 10 12
 0 5 8 4
+0 10 10 12
 1
 end_operator
 begin_operator
 feast achievement scallop yogurt pennsylvania alsace
 0
 2
-0 10 10 12
 0 5 0 6
+0 10 10 12
 1
 end_operator
 begin_operator
 feast achievement scallop yogurt quebec goias
 0
 2
-0 10 10 12
 0 5 2 7
+0 10 10 12
 1
 end_operator
 begin_operator
 feast achievement scallop yogurt surrey pennsylvania
 0
 2
-0 10 10 12
 0 5 6 8
+0 10 10 12
 1
 end_operator
 begin_operator
 feast achievement turkey chicken goias manitoba
 0
 2
-0 10 11 2
 0 2 1 0
+0 10 11 2
 1
 end_operator
 begin_operator
 feast achievement turkey chicken manitoba surrey
 0
 2
-0 10 11 2
 0 2 4 1
+0 10 11 2
 1
 end_operator
 begin_operator
 feast achievement turkey chicken quebec goias
 0
 2
-0 10 11 2
 0 2 0 3
+0 10 11 2
 1
 end_operator
 begin_operator
 feast achievement turkey chicken surrey pennsylvania
 0
 2
-0 10 11 2
 0 2 2 4
+0 10 11 2
 1
 end_operator
 begin_operator
 feast achievement turkey cucumber goias manitoba
 0
 2
-0 10 11 3
 0 2 1 0
+0 10 11 3
 1
 end_operator
 begin_operator
 feast achievement turkey cucumber manitoba surrey
 0
 2
-0 10 11 3
 0 2 4 1
+0 10 11 3
 1
 end_operator
 begin_operator
 feast achievement turkey cucumber quebec goias
 0
 2
-0 10 11 3
 0 2 0 3
+0 10 11 3
 1
 end_operator
 begin_operator
 feast achievement turkey cucumber surrey pennsylvania
 0
 2
-0 10 11 3
 0 2 2 4
+0 10 11 3
 1
 end_operator
 begin_operator
 feast achievement turkey muffin goias manitoba
 0
 2
-0 10 11 7
 0 2 1 0
+0 10 11 7
 1
 end_operator
 begin_operator
 feast achievement turkey muffin manitoba surrey
 0
 2
-0 10 11 7
 0 2 4 1
+0 10 11 7
 1
 end_operator
 begin_operator
 feast achievement turkey muffin quebec goias
 0
 2
-0 10 11 7
 0 2 0 3
+0 10 11 7
 1
 end_operator
 begin_operator
 feast achievement turkey muffin surrey pennsylvania
 0
 2
-0 10 11 7
 0 2 2 4
+0 10 11 7
 1
 end_operator
 begin_operator
 feast achievement yogurt guava alsace guanabara
 0
 2
-0 10 12 4
 0 7 4 0
+0 10 12 4
 1
 end_operator
 begin_operator
 feast achievement yogurt guava arizona oregon
 0
 2
-0 10 12 4
 0 7 6 1
+0 10 12 4
 1
 end_operator
 begin_operator
 feast achievement yogurt guava goias manitoba
 0
 2
-0 10 12 4
 0 7 5 3
+0 10 12 4
 1
 end_operator
 begin_operator
 feast achievement yogurt guava guanabara arizona
 0
 2
-0 10 12 4
 0 7 1 4
+0 10 12 4
 1
 end_operator
 begin_operator
 feast achievement yogurt guava manitoba surrey
 0
 2
-0 10 12 4
 0 7 9 5
+0 10 12 4
 1
 end_operator
 begin_operator
 feast achievement yogurt guava oregon bosnia
 0
 2
-0 10 12 4
 0 7 2 6
+0 10 12 4
 1
 end_operator
 begin_operator
 feast achievement yogurt guava pennsylvania alsace
 0
 2
-0 10 12 4
 0 7 0 7
+0 10 12 4
 1
 end_operator
 begin_operator
 feast achievement yogurt guava quebec goias
 0
 2
-0 10 12 4
 0 7 3 8
+0 10 12 4
 1
 end_operator
 begin_operator
 feast achievement yogurt guava surrey pennsylvania
 0
 2
-0 10 12 4
 0 7 7 9
+0 10 12 4
 1
 end_operator
 begin_operator
 feast achievement yogurt scallop alsace guanabara
 0
 2
-0 10 12 10
 0 7 4 0
+0 10 12 10
 1
 end_operator
 begin_operator
 feast achievement yogurt scallop arizona oregon
 0
 2
-0 10 12 10
 0 7 6 1
+0 10 12 10
 1
 end_operator
 begin_operator
 feast achievement yogurt scallop goias manitoba
 0
 2
-0 10 12 10
 0 7 5 3
+0 10 12 10
 1
 end_operator
 begin_operator
 feast achievement yogurt scallop guanabara arizona
 0
 2
-0 10 12 10
 0 7 1 4
+0 10 12 10
 1
 end_operator
 begin_operator
 feast achievement yogurt scallop manitoba surrey
 0
 2
-0 10 12 10
 0 7 9 5
+0 10 12 10
 1
 end_operator
 begin_operator
 feast achievement yogurt scallop oregon bosnia
 0
 2
-0 10 12 10
 0 7 2 6
+0 10 12 10
 1
 end_operator
 begin_operator
 feast achievement yogurt scallop pennsylvania alsace
 0
 2
-0 10 12 10
 0 7 0 7
+0 10 12 10
 1
 end_operator
 begin_operator
 feast achievement yogurt scallop quebec goias
 0
 2
-0 10 12 10
 0 7 3 8
+0 10 12 10
 1
 end_operator
 begin_operator
 feast achievement yogurt scallop surrey pennsylvania
 0
 2
-0 10 12 10
 0 7 7 9
+0 10 12 10
 1
 end_operator
 begin_operator
 feast excitement baguette beef alsace guanabara
 0
 2
-0 11 0 1
 0 9 2 0
+0 11 0 1
 1
 end_operator
 begin_operator
 feast excitement baguette beef goias manitoba
 0
 2
-0 11 0 1
 0 9 3 1
+0 11 0 1
 1
 end_operator
 begin_operator
 feast excitement baguette beef manitoba surrey
 0
 2
-0 11 0 1
 0 9 6 3
+0 11 0 1
 1
 end_operator
 begin_operator
 feast excitement baguette beef pennsylvania alsace
 0
 2
-0 11 0 1
 0 9 0 4
+0 11 0 1
 1
 end_operator
 begin_operator
 feast excitement baguette beef quebec goias
 0
 2
-0 11 0 1
 0 9 1 5
+0 11 0 1
 1
 end_operator
 begin_operator
 feast excitement baguette beef surrey pennsylvania
 0
 2
-0 11 0 1
 0 9 4 6
+0 11 0 1
 1
 end_operator
 begin_operator
 feast excitement baguette cucumber alsace guanabara
 0
 2
-0 11 0 3
 0 9 2 0
+0 11 0 3
 1
 end_operator
 begin_operator
 feast excitement baguette cucumber goias manitoba
 0
 2
-0 11 0 3
 0 9 3 1
+0 11 0 3
 1
 end_operator
 begin_operator
 feast excitement baguette cucumber manitoba surrey
 0
 2
-0 11 0 3
 0 9 6 3
+0 11 0 3
 1
 end_operator
 begin_operator
 feast excitement baguette cucumber pennsylvania alsace
 0
 2
-0 11 0 3
 0 9 0 4
+0 11 0 3
 1
 end_operator
 begin_operator
 feast excitement baguette cucumber quebec goias
 0
 2
-0 11 0 3
 0 9 1 5
+0 11 0 3
 1
 end_operator
 begin_operator
 feast excitement baguette cucumber surrey pennsylvania
 0
 2
-0 11 0 3
 0 9 4 6
+0 11 0 3
 1
 end_operator
 begin_operator
 feast excitement baguette muffin alsace guanabara
 0
 2
-0 11 0 7
 0 9 2 0
+0 11 0 7
 1
 end_operator
 begin_operator
 feast excitement baguette muffin goias manitoba
 0
 2
-0 11 0 7
 0 9 3 1
+0 11 0 7
 1
 end_operator
 begin_operator
 feast excitement baguette muffin manitoba surrey
 0
 2
-0 11 0 7
 0 9 6 3
+0 11 0 7
 1
 end_operator
 begin_operator
 feast excitement baguette muffin pennsylvania alsace
 0
 2
-0 11 0 7
 0 9 0 4
+0 11 0 7
 1
 end_operator
 begin_operator
 feast excitement baguette muffin quebec goias
 0
 2
-0 11 0 7
 0 9 1 5
+0 11 0 7
 1
 end_operator
 begin_operator
 feast excitement baguette muffin surrey pennsylvania
 0
 2
-0 11 0 7
 0 9 4 6
+0 11 0 7
 1
 end_operator
 begin_operator
 feast excitement baguette rice alsace guanabara
 0
 2
-0 11 0 9
 0 9 2 0
+0 11 0 9
 1
 end_operator
 begin_operator
 feast excitement baguette rice goias manitoba
 0
 2
-0 11 0 9
 0 9 3 1
+0 11 0 9
 1
 end_operator
 begin_operator
 feast excitement baguette rice manitoba surrey
 0
 2
-0 11 0 9
 0 9 6 3
+0 11 0 9
 1
 end_operator
 begin_operator
 feast excitement baguette rice pennsylvania alsace
 0
 2
-0 11 0 9
 0 9 0 4
+0 11 0 9
 1
 end_operator
 begin_operator
 feast excitement baguette rice quebec goias
 0
 2
-0 11 0 9
 0 9 1 5
+0 11 0 9
 1
 end_operator
 begin_operator
 feast excitement baguette rice surrey pennsylvania
 0
 2
-0 11 0 9
 0 9 4 6
+0 11 0 9
 1
 end_operator
 begin_operator
@@ -3118,72 +3118,72 @@ begin_operator
 feast excitement chicken hotdog goias manitoba
 0
 2
-0 11 2 6
 0 1 1 0
+0 11 2 6
 1
 end_operator
 begin_operator
 feast excitement chicken hotdog manitoba surrey
 0
 2
-0 11 2 6
 0 1 3 1
+0 11 2 6
 1
 end_operator
 begin_operator
 feast excitement chicken hotdog quebec goias
 0
 2
-0 11 2 6
 0 1 0 2
+0 11 2 6
 1
 end_operator
 begin_operator
 feast excitement chicken mutton goias manitoba
 0
 2
-0 11 2 8
 0 1 1 0
+0 11 2 8
 1
 end_operator
 begin_operator
 feast excitement chicken mutton manitoba surrey
 0
 2
-0 11 2 8
 0 1 3 1
+0 11 2 8
 1
 end_operator
 begin_operator
 feast excitement chicken mutton quebec goias
 0
 2
-0 11 2 8
 0 1 0 2
+0 11 2 8
 1
 end_operator
 begin_operator
 feast excitement chicken turkey goias manitoba
 0
 2
-0 11 2 11
 0 1 1 0
+0 11 2 11
 1
 end_operator
 begin_operator
 feast excitement chicken turkey manitoba surrey
 0
 2
-0 11 2 11
 0 1 3 1
+0 11 2 11
 1
 end_operator
 begin_operator
 feast excitement chicken turkey quebec goias
 0
 2
-0 11 2 11
 0 1 0 2
+0 11 2 11
 1
 end_operator
 begin_operator
@@ -3430,288 +3430,288 @@ begin_operator
 feast excitement guava rice alsace guanabara
 0
 2
-0 11 4 9
 0 3 3 0
+0 11 4 9
 1
 end_operator
 begin_operator
 feast excitement guava rice arizona oregon
 0
 2
-0 11 4 9
 0 3 5 1
+0 11 4 9
 1
 end_operator
 begin_operator
 feast excitement guava rice goias manitoba
 0
 2
-0 11 4 9
 0 3 4 2
+0 11 4 9
 1
 end_operator
 begin_operator
 feast excitement guava rice guanabara arizona
 0
 2
-0 11 4 9
 0 3 1 3
+0 11 4 9
 1
 end_operator
 begin_operator
 feast excitement guava rice manitoba surrey
 0
 2
-0 11 4 9
 0 3 8 4
+0 11 4 9
 1
 end_operator
 begin_operator
 feast excitement guava rice pennsylvania alsace
 0
 2
-0 11 4 9
 0 3 0 6
+0 11 4 9
 1
 end_operator
 begin_operator
 feast excitement guava rice quebec goias
 0
 2
-0 11 4 9
 0 3 2 7
+0 11 4 9
 1
 end_operator
 begin_operator
 feast excitement guava rice surrey pennsylvania
 0
 2
-0 11 4 9
 0 3 6 8
+0 11 4 9
 1
 end_operator
 begin_operator
 feast excitement guava yogurt alsace guanabara
 0
 2
-0 11 4 12
 0 3 3 0
+0 11 4 12
 1
 end_operator
 begin_operator
 feast excitement guava yogurt arizona oregon
 0
 2
-0 11 4 12
 0 3 5 1
+0 11 4 12
 1
 end_operator
 begin_operator
 feast excitement guava yogurt goias manitoba
 0
 2
-0 11 4 12
 0 3 4 2
+0 11 4 12
 1
 end_operator
 begin_operator
 feast excitement guava yogurt guanabara arizona
 0
 2
-0 11 4 12
 0 3 1 3
+0 11 4 12
 1
 end_operator
 begin_operator
 feast excitement guava yogurt manitoba surrey
 0
 2
-0 11 4 12
 0 3 8 4
+0 11 4 12
 1
 end_operator
 begin_operator
 feast excitement guava yogurt pennsylvania alsace
 0
 2
-0 11 4 12
 0 3 0 6
+0 11 4 12
 1
 end_operator
 begin_operator
 feast excitement guava yogurt quebec goias
 0
 2
-0 11 4 12
 0 3 2 7
+0 11 4 12
 1
 end_operator
 begin_operator
 feast excitement guava yogurt surrey pennsylvania
 0
 2
-0 11 4 12
 0 3 6 8
+0 11 4 12
 1
 end_operator
 begin_operator
 feast excitement hamburger beef alsace guanabara
 0
 2
-0 11 5 1
 0 8 5 0
+0 11 5 1
 1
 end_operator
 begin_operator
 feast excitement hamburger beef arizona oregon
 0
 2
-0 11 5 1
 0 8 7 1
+0 11 5 1
 1
 end_operator
 begin_operator
 feast excitement hamburger beef bosnia bavaria
 0
 2
-0 11 5 1
 0 8 2 3
+0 11 5 1
 1
 end_operator
 begin_operator
 feast excitement hamburger beef goias manitoba
 0
 2
-0 11 5 1
 0 8 6 4
+0 11 5 1
 1
 end_operator
 begin_operator
 feast excitement hamburger beef guanabara arizona
 0
 2
-0 11 5 1
 0 8 1 5
+0 11 5 1
 1
 end_operator
 begin_operator
 feast excitement hamburger beef manitoba surrey
 0
 2
-0 11 5 1
 0 8 10 6
+0 11 5 1
 1
 end_operator
 begin_operator
 feast excitement hamburger beef oregon bosnia
 0
 2
-0 11 5 1
 0 8 3 7
+0 11 5 1
 1
 end_operator
 begin_operator
 feast excitement hamburger beef pennsylvania alsace
 0
 2
-0 11 5 1
 0 8 0 8
+0 11 5 1
 1
 end_operator
 begin_operator
 feast excitement hamburger beef quebec goias
 0
 2
-0 11 5 1
 0 8 4 9
+0 11 5 1
 1
 end_operator
 begin_operator
 feast excitement hamburger beef surrey pennsylvania
 0
 2
-0 11 5 1
 0 8 8 10
+0 11 5 1
 1
 end_operator
 begin_operator
 feast excitement hamburger hotdog alsace guanabara
 0
 2
-0 11 5 6
 0 8 5 0
+0 11 5 6
 1
 end_operator
 begin_operator
 feast excitement hamburger hotdog arizona oregon
 0
 2
-0 11 5 6
 0 8 7 1
+0 11 5 6
 1
 end_operator
 begin_operator
 feast excitement hamburger hotdog bosnia bavaria
 0
 2
-0 11 5 6
 0 8 2 3
+0 11 5 6
 1
 end_operator
 begin_operator
 feast excitement hamburger hotdog goias manitoba
 0
 2
-0 11 5 6
 0 8 6 4
+0 11 5 6
 1
 end_operator
 begin_operator
 feast excitement hamburger hotdog guanabara arizona
 0
 2
-0 11 5 6
 0 8 1 5
+0 11 5 6
 1
 end_operator
 begin_operator
 feast excitement hamburger hotdog manitoba surrey
 0
 2
-0 11 5 6
 0 8 10 6
+0 11 5 6
 1
 end_operator
 begin_operator
 feast excitement hamburger hotdog oregon bosnia
 0
 2
-0 11 5 6
 0 8 3 7
+0 11 5 6
 1
 end_operator
 begin_operator
 feast excitement hamburger hotdog pennsylvania alsace
 0
 2
-0 11 5 6
 0 8 0 8
+0 11 5 6
 1
 end_operator
 begin_operator
 feast excitement hamburger hotdog quebec goias
 0
 2
-0 11 5 6
 0 8 4 9
+0 11 5 6
 1
 end_operator
 begin_operator
 feast excitement hamburger hotdog surrey pennsylvania
 0
 2
-0 11 5 6
 0 8 8 10
+0 11 5 6
 1
 end_operator
 begin_operator
@@ -4198,1688 +4198,1688 @@ begin_operator
 feast excitement muffin baguette alsace guanabara
 0
 2
-0 11 7 0
 0 4 3 0
+0 11 7 0
 1
 end_operator
 begin_operator
 feast excitement muffin baguette arizona oregon
 0
 2
-0 11 7 0
 0 4 5 1
+0 11 7 0
 1
 end_operator
 begin_operator
 feast excitement muffin baguette goias manitoba
 0
 2
-0 11 7 0
 0 4 4 2
+0 11 7 0
 1
 end_operator
 begin_operator
 feast excitement muffin baguette guanabara arizona
 0
 2
-0 11 7 0
 0 4 1 3
+0 11 7 0
 1
 end_operator
 begin_operator
 feast excitement muffin baguette manitoba surrey
 0
 2
-0 11 7 0
 0 4 8 4
+0 11 7 0
 1
 end_operator
 begin_operator
 feast excitement muffin baguette pennsylvania alsace
 0
 2
-0 11 7 0
 0 4 0 6
+0 11 7 0
 1
 end_operator
 begin_operator
 feast excitement muffin baguette quebec goias
 0
 2
-0 11 7 0
 0 4 2 7
+0 11 7 0
 1
 end_operator
 begin_operator
 feast excitement muffin baguette surrey pennsylvania
 0
 2
-0 11 7 0
 0 4 6 8
+0 11 7 0
 1
 end_operator
 begin_operator
 feast excitement muffin turkey alsace guanabara
 0
 2
-0 11 7 11
 0 4 3 0
+0 11 7 11
 1
 end_operator
 begin_operator
 feast excitement muffin turkey arizona oregon
 0
 2
-0 11 7 11
 0 4 5 1
+0 11 7 11
 1
 end_operator
 begin_operator
 feast excitement muffin turkey goias manitoba
 0
 2
-0 11 7 11
 0 4 4 2
+0 11 7 11
 1
 end_operator
 begin_operator
 feast excitement muffin turkey guanabara arizona
 0
 2
-0 11 7 11
 0 4 1 3
+0 11 7 11
 1
 end_operator
 begin_operator
 feast excitement muffin turkey manitoba surrey
 0
 2
-0 11 7 11
 0 4 8 4
+0 11 7 11
 1
 end_operator
 begin_operator
 feast excitement muffin turkey pennsylvania alsace
 0
 2
-0 11 7 11
 0 4 0 6
+0 11 7 11
 1
 end_operator
 begin_operator
 feast excitement muffin turkey quebec goias
 0
 2
-0 11 7 11
 0 4 2 7
+0 11 7 11
 1
 end_operator
 begin_operator
 feast excitement muffin turkey surrey pennsylvania
 0
 2
-0 11 7 11
 0 4 6 8
+0 11 7 11
 1
 end_operator
 begin_operator
 feast excitement mutton chicken quebec goias
 0
 2
-0 11 8 2
 0 0 0 1
+0 11 8 2
 1
 end_operator
 begin_operator
 feast excitement mutton hotdog quebec goias
 0
 2
-0 11 8 6
 0 0 0 1
+0 11 8 6
 1
 end_operator
 begin_operator
 feast excitement rice baguette alsace guanabara
 0
 2
-0 11 9 0
 0 6 2 0
+0 11 9 0
 1
 end_operator
 begin_operator
 feast excitement rice baguette goias manitoba
 0
 2
-0 11 9 0
 0 6 3 1
+0 11 9 0
 1
 end_operator
 begin_operator
 feast excitement rice baguette manitoba surrey
 0
 2
-0 11 9 0
 0 6 6 3
+0 11 9 0
 1
 end_operator
 begin_operator
 feast excitement rice baguette pennsylvania alsace
 0
 2
-0 11 9 0
 0 6 0 4
+0 11 9 0
 1
 end_operator
 begin_operator
 feast excitement rice baguette quebec goias
 0
 2
-0 11 9 0
 0 6 1 5
+0 11 9 0
 1
 end_operator
 begin_operator
 feast excitement rice baguette surrey pennsylvania
 0
 2
-0 11 9 0
 0 6 4 6
+0 11 9 0
 1
 end_operator
 begin_operator
 feast excitement rice guava alsace guanabara
 0
 2
-0 11 9 4
 0 6 2 0
+0 11 9 4
 1
 end_operator
 begin_operator
 feast excitement rice guava goias manitoba
 0
 2
-0 11 9 4
 0 6 3 1
+0 11 9 4
 1
 end_operator
 begin_operator
 feast excitement rice guava manitoba surrey
 0
 2
-0 11 9 4
 0 6 6 3
+0 11 9 4
 1
 end_operator
 begin_operator
 feast excitement rice guava pennsylvania alsace
 0
 2
-0 11 9 4
 0 6 0 4
+0 11 9 4
 1
 end_operator
 begin_operator
 feast excitement rice guava quebec goias
 0
 2
-0 11 9 4
 0 6 1 5
+0 11 9 4
 1
 end_operator
 begin_operator
 feast excitement rice guava surrey pennsylvania
 0
 2
-0 11 9 4
 0 6 4 6
+0 11 9 4
 1
 end_operator
 begin_operator
 feast excitement rice scallop alsace guanabara
 0
 2
-0 11 9 10
 0 6 2 0
+0 11 9 10
 1
 end_operator
 begin_operator
 feast excitement rice scallop goias manitoba
 0
 2
-0 11 9 10
 0 6 3 1
+0 11 9 10
 1
 end_operator
 begin_operator
 feast excitement rice scallop manitoba surrey
 0
 2
-0 11 9 10
 0 6 6 3
+0 11 9 10
 1
 end_operator
 begin_operator
 feast excitement rice scallop pennsylvania alsace
 0
 2
-0 11 9 10
 0 6 0 4
+0 11 9 10
 1
 end_operator
 begin_operator
 feast excitement rice scallop quebec goias
 0
 2
-0 11 9 10
 0 6 1 5
+0 11 9 10
 1
 end_operator
 begin_operator
 feast excitement rice scallop surrey pennsylvania
 0
 2
-0 11 9 10
 0 6 4 6
+0 11 9 10
 1
 end_operator
 begin_operator
 feast excitement scallop rice alsace guanabara
 0
 2
-0 11 10 9
 0 5 3 0
+0 11 10 9
 1
 end_operator
 begin_operator
 feast excitement scallop rice arizona oregon
 0
 2
-0 11 10 9
 0 5 5 1
+0 11 10 9
 1
 end_operator
 begin_operator
 feast excitement scallop rice goias manitoba
 0
 2
-0 11 10 9
 0 5 4 2
+0 11 10 9
 1
 end_operator
 begin_operator
 feast excitement scallop rice guanabara arizona
 0
 2
-0 11 10 9
 0 5 1 3
+0 11 10 9
 1
 end_operator
 begin_operator
 feast excitement scallop rice manitoba surrey
 0
 2
-0 11 10 9
 0 5 8 4
+0 11 10 9
 1
 end_operator
 begin_operator
 feast excitement scallop rice pennsylvania alsace
 0
 2
-0 11 10 9
 0 5 0 6
+0 11 10 9
 1
 end_operator
 begin_operator
 feast excitement scallop rice quebec goias
 0
 2
-0 11 10 9
 0 5 2 7
+0 11 10 9
 1
 end_operator
 begin_operator
 feast excitement scallop rice surrey pennsylvania
 0
 2
-0 11 10 9
 0 5 6 8
+0 11 10 9
 1
 end_operator
 begin_operator
 feast excitement scallop yogurt alsace guanabara
 0
 2
-0 11 10 12
 0 5 3 0
+0 11 10 12
 1
 end_operator
 begin_operator
 feast excitement scallop yogurt arizona oregon
 0
 2
-0 11 10 12
 0 5 5 1
+0 11 10 12
 1
 end_operator
 begin_operator
 feast excitement scallop yogurt goias manitoba
 0
 2
-0 11 10 12
 0 5 4 2
+0 11 10 12
 1
 end_operator
 begin_operator
 feast excitement scallop yogurt guanabara arizona
 0
 2
-0 11 10 12
 0 5 1 3
+0 11 10 12
 1
 end_operator
 begin_operator
 feast excitement scallop yogurt manitoba surrey
 0
 2
-0 11 10 12
 0 5 8 4
+0 11 10 12
 1
 end_operator
 begin_operator
 feast excitement scallop yogurt pennsylvania alsace
 0
 2
-0 11 10 12
 0 5 0 6
+0 11 10 12
 1
 end_operator
 begin_operator
 feast excitement scallop yogurt quebec goias
 0
 2
-0 11 10 12
 0 5 2 7
+0 11 10 12
 1
 end_operator
 begin_operator
 feast excitement scallop yogurt surrey pennsylvania
 0
 2
-0 11 10 12
 0 5 6 8
+0 11 10 12
 1
 end_operator
 begin_operator
 feast excitement turkey chicken goias manitoba
 0
 2
-0 11 11 2
 0 2 1 0
+0 11 11 2
 1
 end_operator
 begin_operator
 feast excitement turkey chicken manitoba surrey
 0
 2
-0 11 11 2
 0 2 4 1
+0 11 11 2
 1
 end_operator
 begin_operator
 feast excitement turkey chicken quebec goias
 0
 2
-0 11 11 2
 0 2 0 3
+0 11 11 2
 1
 end_operator
 begin_operator
 feast excitement turkey chicken surrey pennsylvania
 0
 2
-0 11 11 2
 0 2 2 4
+0 11 11 2
 1
 end_operator
 begin_operator
 feast excitement turkey cucumber goias manitoba
 0
 2
-0 11 11 3
 0 2 1 0
+0 11 11 3
 1
 end_operator
 begin_operator
 feast excitement turkey cucumber manitoba surrey
 0
 2
-0 11 11 3
 0 2 4 1
+0 11 11 3
 1
 end_operator
 begin_operator
 feast excitement turkey cucumber quebec goias
 0
 2
-0 11 11 3
 0 2 0 3
+0 11 11 3
 1
 end_operator
 begin_operator
 feast excitement turkey cucumber surrey pennsylvania
 0
 2
-0 11 11 3
 0 2 2 4
+0 11 11 3
 1
 end_operator
 begin_operator
 feast excitement turkey muffin goias manitoba
 0
 2
-0 11 11 7
 0 2 1 0
+0 11 11 7
 1
 end_operator
 begin_operator
 feast excitement turkey muffin manitoba surrey
 0
 2
-0 11 11 7
 0 2 4 1
+0 11 11 7
 1
 end_operator
 begin_operator
 feast excitement turkey muffin quebec goias
 0
 2
-0 11 11 7
 0 2 0 3
+0 11 11 7
 1
 end_operator
 begin_operator
 feast excitement turkey muffin surrey pennsylvania
 0
 2
-0 11 11 7
 0 2 2 4
+0 11 11 7
 1
 end_operator
 begin_operator
 feast excitement yogurt guava alsace guanabara
 0
 2
-0 11 12 4
 0 7 4 0
+0 11 12 4
 1
 end_operator
 begin_operator
 feast excitement yogurt guava arizona oregon
 0
 2
-0 11 12 4
 0 7 6 1
+0 11 12 4
 1
 end_operator
 begin_operator
 feast excitement yogurt guava goias manitoba
 0
 2
-0 11 12 4
 0 7 5 3
+0 11 12 4
 1
 end_operator
 begin_operator
 feast excitement yogurt guava guanabara arizona
 0
 2
-0 11 12 4
 0 7 1 4
+0 11 12 4
 1
 end_operator
 begin_operator
 feast excitement yogurt guava manitoba surrey
 0
 2
-0 11 12 4
 0 7 9 5
+0 11 12 4
 1
 end_operator
 begin_operator
 feast excitement yogurt guava oregon bosnia
 0
 2
-0 11 12 4
 0 7 2 6
+0 11 12 4
 1
 end_operator
 begin_operator
 feast excitement yogurt guava pennsylvania alsace
 0
 2
-0 11 12 4
 0 7 0 7
+0 11 12 4
 1
 end_operator
 begin_operator
 feast excitement yogurt guava quebec goias
 0
 2
-0 11 12 4
 0 7 3 8
+0 11 12 4
 1
 end_operator
 begin_operator
 feast excitement yogurt guava surrey pennsylvania
 0
 2
-0 11 12 4
 0 7 7 9
+0 11 12 4
 1
 end_operator
 begin_operator
 feast excitement yogurt scallop alsace guanabara
 0
 2
-0 11 12 10
 0 7 4 0
+0 11 12 10
 1
 end_operator
 begin_operator
 feast excitement yogurt scallop arizona oregon
 0
 2
-0 11 12 10
 0 7 6 1
+0 11 12 10
 1
 end_operator
 begin_operator
 feast excitement yogurt scallop goias manitoba
 0
 2
-0 11 12 10
 0 7 5 3
+0 11 12 10
 1
 end_operator
 begin_operator
 feast excitement yogurt scallop guanabara arizona
 0
 2
-0 11 12 10
 0 7 1 4
+0 11 12 10
 1
 end_operator
 begin_operator
 feast excitement yogurt scallop manitoba surrey
 0
 2
-0 11 12 10
 0 7 9 5
+0 11 12 10
 1
 end_operator
 begin_operator
 feast excitement yogurt scallop oregon bosnia
 0
 2
-0 11 12 10
 0 7 2 6
+0 11 12 10
 1
 end_operator
 begin_operator
 feast excitement yogurt scallop pennsylvania alsace
 0
 2
-0 11 12 10
 0 7 0 7
+0 11 12 10
 1
 end_operator
 begin_operator
 feast excitement yogurt scallop quebec goias
 0
 2
-0 11 12 10
 0 7 3 8
+0 11 12 10
 1
 end_operator
 begin_operator
 feast excitement yogurt scallop surrey pennsylvania
 0
 2
-0 11 12 10
 0 7 7 9
+0 11 12 10
 1
 end_operator
 begin_operator
 feast expectation baguette beef alsace guanabara
 0
 2
-0 14 0 1
 0 9 2 0
+0 14 0 1
 1
 end_operator
 begin_operator
 feast expectation baguette beef goias manitoba
 0
 2
-0 14 0 1
 0 9 3 1
+0 14 0 1
 1
 end_operator
 begin_operator
 feast expectation baguette beef manitoba surrey
 0
 2
-0 14 0 1
 0 9 6 3
+0 14 0 1
 1
 end_operator
 begin_operator
 feast expectation baguette beef pennsylvania alsace
 0
 2
-0 14 0 1
 0 9 0 4
+0 14 0 1
 1
 end_operator
 begin_operator
 feast expectation baguette beef quebec goias
 0
 2
-0 14 0 1
 0 9 1 5
+0 14 0 1
 1
 end_operator
 begin_operator
 feast expectation baguette beef surrey pennsylvania
 0
 2
-0 14 0 1
 0 9 4 6
+0 14 0 1
 1
 end_operator
 begin_operator
 feast expectation baguette cucumber alsace guanabara
 0
 2
-0 14 0 3
 0 9 2 0
+0 14 0 3
 1
 end_operator
 begin_operator
 feast expectation baguette cucumber goias manitoba
 0
 2
-0 14 0 3
 0 9 3 1
+0 14 0 3
 1
 end_operator
 begin_operator
 feast expectation baguette cucumber manitoba surrey
 0
 2
-0 14 0 3
 0 9 6 3
+0 14 0 3
 1
 end_operator
 begin_operator
 feast expectation baguette cucumber pennsylvania alsace
 0
 2
-0 14 0 3
 0 9 0 4
+0 14 0 3
 1
 end_operator
 begin_operator
 feast expectation baguette cucumber quebec goias
 0
 2
-0 14 0 3
 0 9 1 5
+0 14 0 3
 1
 end_operator
 begin_operator
 feast expectation baguette cucumber surrey pennsylvania
 0
 2
-0 14 0 3
 0 9 4 6
+0 14 0 3
 1
 end_operator
 begin_operator
 feast expectation baguette muffin alsace guanabara
 0
 2
-0 14 0 7
 0 9 2 0
+0 14 0 7
 1
 end_operator
 begin_operator
 feast expectation baguette muffin goias manitoba
 0
 2
-0 14 0 7
 0 9 3 1
+0 14 0 7
 1
 end_operator
 begin_operator
 feast expectation baguette muffin manitoba surrey
 0
 2
-0 14 0 7
 0 9 6 3
+0 14 0 7
 1
 end_operator
 begin_operator
 feast expectation baguette muffin pennsylvania alsace
 0
 2
-0 14 0 7
 0 9 0 4
+0 14 0 7
 1
 end_operator
 begin_operator
 feast expectation baguette muffin quebec goias
 0
 2
-0 14 0 7
 0 9 1 5
+0 14 0 7
 1
 end_operator
 begin_operator
 feast expectation baguette muffin surrey pennsylvania
 0
 2
-0 14 0 7
 0 9 4 6
+0 14 0 7
 1
 end_operator
 begin_operator
 feast expectation baguette rice alsace guanabara
 0
 2
-0 14 0 9
 0 9 2 0
+0 14 0 9
 1
 end_operator
 begin_operator
 feast expectation baguette rice goias manitoba
 0
 2
-0 14 0 9
 0 9 3 1
+0 14 0 9
 1
 end_operator
 begin_operator
 feast expectation baguette rice manitoba surrey
 0
 2
-0 14 0 9
 0 9 6 3
+0 14 0 9
 1
 end_operator
 begin_operator
 feast expectation baguette rice pennsylvania alsace
 0
 2
-0 14 0 9
 0 9 0 4
+0 14 0 9
 1
 end_operator
 begin_operator
 feast expectation baguette rice quebec goias
 0
 2
-0 14 0 9
 0 9 1 5
+0 14 0 9
 1
 end_operator
 begin_operator
 feast expectation baguette rice surrey pennsylvania
 0
 2
-0 14 0 9
 0 9 4 6
+0 14 0 9
 1
 end_operator
 begin_operator
 feast expectation beef baguette alsace guanabara
 0
 2
-0 14 1 0
 0 12 5 0
+0 14 1 0
 1
 end_operator
 begin_operator
 feast expectation beef baguette arizona oregon
 0
 2
-0 14 1 0
 0 12 7 1
+0 14 1 0
 1
 end_operator
 begin_operator
 feast expectation beef baguette bosnia bavaria
 0
 2
-0 14 1 0
 0 12 2 3
+0 14 1 0
 1
 end_operator
 begin_operator
 feast expectation beef baguette goias manitoba
 0
 2
-0 14 1 0
 0 12 6 4
+0 14 1 0
 1
 end_operator
 begin_operator
 feast expectation beef baguette guanabara arizona
 0
 2
-0 14 1 0
 0 12 1 5
+0 14 1 0
 1
 end_operator
 begin_operator
 feast expectation beef baguette manitoba surrey
 0
 2
-0 14 1 0
 0 12 10 6
+0 14 1 0
 1
 end_operator
 begin_operator
 feast expectation beef baguette oregon bosnia
 0
 2
-0 14 1 0
 0 12 3 7
+0 14 1 0
 1
 end_operator
 begin_operator
 feast expectation beef baguette pennsylvania alsace
 0
 2
-0 14 1 0
 0 12 0 8
+0 14 1 0
 1
 end_operator
 begin_operator
 feast expectation beef baguette quebec goias
 0
 2
-0 14 1 0
 0 12 4 9
+0 14 1 0
 1
 end_operator
 begin_operator
 feast expectation beef baguette surrey pennsylvania
 0
 2
-0 14 1 0
 0 12 8 10
+0 14 1 0
 1
 end_operator
 begin_operator
 feast expectation beef hamburger alsace guanabara
 0
 2
-0 14 1 5
 0 12 5 0
+0 14 1 5
 1
 end_operator
 begin_operator
 feast expectation beef hamburger arizona oregon
 0
 2
-0 14 1 5
 0 12 7 1
+0 14 1 5
 1
 end_operator
 begin_operator
 feast expectation beef hamburger bosnia bavaria
 0
 2
-0 14 1 5
 0 12 2 3
+0 14 1 5
 1
 end_operator
 begin_operator
 feast expectation beef hamburger goias manitoba
 0
 2
-0 14 1 5
 0 12 6 4
+0 14 1 5
 1
 end_operator
 begin_operator
 feast expectation beef hamburger guanabara arizona
 0
 2
-0 14 1 5
 0 12 1 5
+0 14 1 5
 1
 end_operator
 begin_operator
 feast expectation beef hamburger manitoba surrey
 0
 2
-0 14 1 5
 0 12 10 6
+0 14 1 5
 1
 end_operator
 begin_operator
 feast expectation beef hamburger oregon bosnia
 0
 2
-0 14 1 5
 0 12 3 7
+0 14 1 5
 1
 end_operator
 begin_operator
 feast expectation beef hamburger pennsylvania alsace
 0
 2
-0 14 1 5
 0 12 0 8
+0 14 1 5
 1
 end_operator
 begin_operator
 feast expectation beef hamburger quebec goias
 0
 2
-0 14 1 5
 0 12 4 9
+0 14 1 5
 1
 end_operator
 begin_operator
 feast expectation beef hamburger surrey pennsylvania
 0
 2
-0 14 1 5
 0 12 8 10
+0 14 1 5
 1
 end_operator
 begin_operator
 feast expectation beef hotdog alsace guanabara
 0
 2
-0 14 1 6
 0 12 5 0
+0 14 1 6
 1
 end_operator
 begin_operator
 feast expectation beef hotdog arizona oregon
 0
 2
-0 14 1 6
 0 12 7 1
+0 14 1 6
 1
 end_operator
 begin_operator
 feast expectation beef hotdog bosnia bavaria
 0
 2
-0 14 1 6
 0 12 2 3
+0 14 1 6
 1
 end_operator
 begin_operator
 feast expectation beef hotdog goias manitoba
 0
 2
-0 14 1 6
 0 12 6 4
+0 14 1 6
 1
 end_operator
 begin_operator
 feast expectation beef hotdog guanabara arizona
 0
 2
-0 14 1 6
 0 12 1 5
+0 14 1 6
 1
 end_operator
 begin_operator
 feast expectation beef hotdog manitoba surrey
 0
 2
-0 14 1 6
 0 12 10 6
+0 14 1 6
 1
 end_operator
 begin_operator
 feast expectation beef hotdog oregon bosnia
 0
 2
-0 14 1 6
 0 12 3 7
+0 14 1 6
 1
 end_operator
 begin_operator
 feast expectation beef hotdog pennsylvania alsace
 0
 2
-0 14 1 6
 0 12 0 8
+0 14 1 6
 1
 end_operator
 begin_operator
 feast expectation beef hotdog quebec goias
 0
 2
-0 14 1 6
 0 12 4 9
+0 14 1 6
 1
 end_operator
 begin_operator
 feast expectation beef hotdog surrey pennsylvania
 0
 2
-0 14 1 6
 0 12 8 10
+0 14 1 6
 1
 end_operator
 begin_operator
 feast expectation chicken hotdog goias manitoba
 0
 2
-0 14 2 6
 0 1 1 0
+0 14 2 6
 1
 end_operator
 begin_operator
 feast expectation chicken hotdog manitoba surrey
 0
 2
-0 14 2 6
 0 1 3 1
+0 14 2 6
 1
 end_operator
 begin_operator
 feast expectation chicken hotdog quebec goias
 0
 2
-0 14 2 6
 0 1 0 2
+0 14 2 6
 1
 end_operator
 begin_operator
 feast expectation chicken mutton goias manitoba
 0
 2
-0 14 2 8
 0 1 1 0
+0 14 2 8
 1
 end_operator
 begin_operator
 feast expectation chicken mutton manitoba surrey
 0
 2
-0 14 2 8
 0 1 3 1
+0 14 2 8
 1
 end_operator
 begin_operator
 feast expectation chicken mutton quebec goias
 0
 2
-0 14 2 8
 0 1 0 2
+0 14 2 8
 1
 end_operator
 begin_operator
 feast expectation chicken turkey goias manitoba
 0
 2
-0 14 2 11
 0 1 1 0
+0 14 2 11
 1
 end_operator
 begin_operator
 feast expectation chicken turkey manitoba surrey
 0
 2
-0 14 2 11
 0 1 3 1
+0 14 2 11
 1
 end_operator
 begin_operator
 feast expectation chicken turkey quebec goias
 0
 2
-0 14 2 11
 0 1 0 2
+0 14 2 11
 1
 end_operator
 begin_operator
 feast expectation cucumber baguette alsace guanabara
 0
 2
-0 14 3 0
 0 13 5 0
+0 14 3 0
 1
 end_operator
 begin_operator
 feast expectation cucumber baguette arizona oregon
 0
 2
-0 14 3 0
 0 13 7 1
+0 14 3 0
 1
 end_operator
 begin_operator
 feast expectation cucumber baguette bosnia bavaria
 0
 2
-0 14 3 0
 0 13 2 3
+0 14 3 0
 1
 end_operator
 begin_operator
 feast expectation cucumber baguette goias manitoba
 0
 2
-0 14 3 0
 0 13 6 4
+0 14 3 0
 1
 end_operator
 begin_operator
 feast expectation cucumber baguette guanabara arizona
 0
 2
-0 14 3 0
 0 13 1 5
+0 14 3 0
 1
 end_operator
 begin_operator
 feast expectation cucumber baguette manitoba surrey
 0
 2
-0 14 3 0
 0 13 10 6
+0 14 3 0
 1
 end_operator
 begin_operator
 feast expectation cucumber baguette oregon bosnia
 0
 2
-0 14 3 0
 0 13 3 7
+0 14 3 0
 1
 end_operator
 begin_operator
 feast expectation cucumber baguette pennsylvania alsace
 0
 2
-0 14 3 0
 0 13 0 8
+0 14 3 0
 1
 end_operator
 begin_operator
 feast expectation cucumber baguette quebec goias
 0
 2
-0 14 3 0
 0 13 4 9
+0 14 3 0
 1
 end_operator
 begin_operator
 feast expectation cucumber baguette surrey pennsylvania
 0
 2
-0 14 3 0
 0 13 8 10
+0 14 3 0
 1
 end_operator
 begin_operator
 feast expectation cucumber hotdog alsace guanabara
 0
 2
-0 14 3 6
 0 13 5 0
+0 14 3 6
 1
 end_operator
 begin_operator
 feast expectation cucumber hotdog arizona oregon
 0
 2
-0 14 3 6
 0 13 7 1
+0 14 3 6
 1
 end_operator
 begin_operator
 feast expectation cucumber hotdog bosnia bavaria
 0
 2
-0 14 3 6
 0 13 2 3
+0 14 3 6
 1
 end_operator
 begin_operator
 feast expectation cucumber hotdog goias manitoba
 0
 2
-0 14 3 6
 0 13 6 4
+0 14 3 6
 1
 end_operator
 begin_operator
 feast expectation cucumber hotdog guanabara arizona
 0
 2
-0 14 3 6
 0 13 1 5
+0 14 3 6
 1
 end_operator
 begin_operator
 feast expectation cucumber hotdog manitoba surrey
 0
 2
-0 14 3 6
 0 13 10 6
+0 14 3 6
 1
 end_operator
 begin_operator
 feast expectation cucumber hotdog oregon bosnia
 0
 2
-0 14 3 6
 0 13 3 7
+0 14 3 6
 1
 end_operator
 begin_operator
 feast expectation cucumber hotdog pennsylvania alsace
 0
 2
-0 14 3 6
 0 13 0 8
+0 14 3 6
 1
 end_operator
 begin_operator
 feast expectation cucumber hotdog quebec goias
 0
 2
-0 14 3 6
 0 13 4 9
+0 14 3 6
 1
 end_operator
 begin_operator
 feast expectation cucumber hotdog surrey pennsylvania
 0
 2
-0 14 3 6
 0 13 8 10
+0 14 3 6
 1
 end_operator
 begin_operator
 feast expectation cucumber turkey alsace guanabara
 0
 2
-0 14 3 11
 0 13 5 0
+0 14 3 11
 1
 end_operator
 begin_operator
 feast expectation cucumber turkey arizona oregon
 0
 2
-0 14 3 11
 0 13 7 1
+0 14 3 11
 1
 end_operator
 begin_operator
 feast expectation cucumber turkey bosnia bavaria
 0
 2
-0 14 3 11
 0 13 2 3
+0 14 3 11
 1
 end_operator
 begin_operator
 feast expectation cucumber turkey goias manitoba
 0
 2
-0 14 3 11
 0 13 6 4
+0 14 3 11
 1
 end_operator
 begin_operator
 feast expectation cucumber turkey guanabara arizona
 0
 2
-0 14 3 11
 0 13 1 5
+0 14 3 11
 1
 end_operator
 begin_operator
 feast expectation cucumber turkey manitoba surrey
 0
 2
-0 14 3 11
 0 13 10 6
+0 14 3 11
 1
 end_operator
 begin_operator
 feast expectation cucumber turkey oregon bosnia
 0
 2
-0 14 3 11
 0 13 3 7
+0 14 3 11
 1
 end_operator
 begin_operator
 feast expectation cucumber turkey pennsylvania alsace
 0
 2
-0 14 3 11
 0 13 0 8
+0 14 3 11
 1
 end_operator
 begin_operator
 feast expectation cucumber turkey quebec goias
 0
 2
-0 14 3 11
 0 13 4 9
+0 14 3 11
 1
 end_operator
 begin_operator
 feast expectation cucumber turkey surrey pennsylvania
 0
 2
-0 14 3 11
 0 13 8 10
+0 14 3 11
 1
 end_operator
 begin_operator
 feast expectation guava rice alsace guanabara
 0
 2
-0 14 4 9
 0 3 3 0
+0 14 4 9
 1
 end_operator
 begin_operator
 feast expectation guava rice arizona oregon
 0
 2
-0 14 4 9
 0 3 5 1
+0 14 4 9
 1
 end_operator
 begin_operator
 feast expectation guava rice goias manitoba
 0
 2
-0 14 4 9
 0 3 4 2
+0 14 4 9
 1
 end_operator
 begin_operator
 feast expectation guava rice guanabara arizona
 0
 2
-0 14 4 9
 0 3 1 3
+0 14 4 9
 1
 end_operator
 begin_operator
 feast expectation guava rice manitoba surrey
 0
 2
-0 14 4 9
 0 3 8 4
+0 14 4 9
 1
 end_operator
 begin_operator
 feast expectation guava rice pennsylvania alsace
 0
 2
-0 14 4 9
 0 3 0 6
+0 14 4 9
 1
 end_operator
 begin_operator
 feast expectation guava rice quebec goias
 0
 2
-0 14 4 9
 0 3 2 7
+0 14 4 9
 1
 end_operator
 begin_operator
 feast expectation guava rice surrey pennsylvania
 0
 2
-0 14 4 9
 0 3 6 8
+0 14 4 9
 1
 end_operator
 begin_operator
 feast expectation guava yogurt alsace guanabara
 0
 2
-0 14 4 12
 0 3 3 0
+0 14 4 12
 1
 end_operator
 begin_operator
 feast expectation guava yogurt arizona oregon
 0
 2
-0 14 4 12
 0 3 5 1
+0 14 4 12
 1
 end_operator
 begin_operator
 feast expectation guava yogurt goias manitoba
 0
 2
-0 14 4 12
 0 3 4 2
+0 14 4 12
 1
 end_operator
 begin_operator
 feast expectation guava yogurt guanabara arizona
 0
 2
-0 14 4 12
 0 3 1 3
+0 14 4 12
 1
 end_operator
 begin_operator
 feast expectation guava yogurt manitoba surrey
 0
 2
-0 14 4 12
 0 3 8 4
+0 14 4 12
 1
 end_operator
 begin_operator
 feast expectation guava yogurt pennsylvania alsace
 0
 2
-0 14 4 12
 0 3 0 6
+0 14 4 12
 1
 end_operator
 begin_operator
 feast expectation guava yogurt quebec goias
 0
 2
-0 14 4 12
 0 3 2 7
+0 14 4 12
 1
 end_operator
 begin_operator
 feast expectation guava yogurt surrey pennsylvania
 0
 2
-0 14 4 12
 0 3 6 8
+0 14 4 12
 1
 end_operator
 begin_operator
 feast expectation hamburger beef alsace guanabara
 0
 2
-0 14 5 1
 0 8 5 0
+0 14 5 1
 1
 end_operator
 begin_operator
 feast expectation hamburger beef arizona oregon
 0
 2
-0 14 5 1
 0 8 7 1
+0 14 5 1
 1
 end_operator
 begin_operator
 feast expectation hamburger beef bosnia bavaria
 0
 2
-0 14 5 1
 0 8 2 3
+0 14 5 1
 1
 end_operator
 begin_operator
 feast expectation hamburger beef goias manitoba
 0
 2
-0 14 5 1
 0 8 6 4
+0 14 5 1
 1
 end_operator
 begin_operator
 feast expectation hamburger beef guanabara arizona
 0
 2
-0 14 5 1
 0 8 1 5
+0 14 5 1
 1
 end_operator
 begin_operator
 feast expectation hamburger beef manitoba surrey
 0
 2
-0 14 5 1
 0 8 10 6
+0 14 5 1
 1
 end_operator
 begin_operator
 feast expectation hamburger beef oregon bosnia
 0
 2
-0 14 5 1
 0 8 3 7
+0 14 5 1
 1
 end_operator
 begin_operator
 feast expectation hamburger beef pennsylvania alsace
 0
 2
-0 14 5 1
 0 8 0 8
+0 14 5 1
 1
 end_operator
 begin_operator
 feast expectation hamburger beef quebec goias
 0
 2
-0 14 5 1
 0 8 4 9
+0 14 5 1
 1
 end_operator
 begin_operator
 feast expectation hamburger beef surrey pennsylvania
 0
 2
-0 14 5 1
 0 8 8 10
+0 14 5 1
 1
 end_operator
 begin_operator
 feast expectation hamburger hotdog alsace guanabara
 0
 2
-0 14 5 6
 0 8 5 0
+0 14 5 6
 1
 end_operator
 begin_operator
 feast expectation hamburger hotdog arizona oregon
 0
 2
-0 14 5 6
 0 8 7 1
+0 14 5 6
 1
 end_operator
 begin_operator
 feast expectation hamburger hotdog bosnia bavaria
 0
 2
-0 14 5 6
 0 8 2 3
+0 14 5 6
 1
 end_operator
 begin_operator
 feast expectation hamburger hotdog goias manitoba
 0
 2
-0 14 5 6
 0 8 6 4
+0 14 5 6
 1
 end_operator
 begin_operator
 feast expectation hamburger hotdog guanabara arizona
 0
 2
-0 14 5 6
 0 8 1 5
+0 14 5 6
 1
 end_operator
 begin_operator
 feast expectation hamburger hotdog manitoba surrey
 0
 2
-0 14 5 6
 0 8 10 6
+0 14 5 6
 1
 end_operator
 begin_operator
 feast expectation hamburger hotdog oregon bosnia
 0
 2
-0 14 5 6
 0 8 3 7
+0 14 5 6
 1
 end_operator
 begin_operator
 feast expectation hamburger hotdog pennsylvania alsace
 0
 2
-0 14 5 6
 0 8 0 8
+0 14 5 6
 1
 end_operator
 begin_operator
 feast expectation hamburger hotdog quebec goias
 0
 2
-0 14 5 6
 0 8 4 9
+0 14 5 6
 1
 end_operator
 begin_operator
 feast expectation hamburger hotdog surrey pennsylvania
 0
 2
-0 14 5 6
 0 8 8 10
+0 14 5 6
 1
 end_operator
 begin_operator
@@ -6366,1688 +6366,1688 @@ begin_operator
 feast expectation muffin baguette alsace guanabara
 0
 2
-0 14 7 0
 0 4 3 0
+0 14 7 0
 1
 end_operator
 begin_operator
 feast expectation muffin baguette arizona oregon
 0
 2
-0 14 7 0
 0 4 5 1
+0 14 7 0
 1
 end_operator
 begin_operator
 feast expectation muffin baguette goias manitoba
 0
 2
-0 14 7 0
 0 4 4 2
+0 14 7 0
 1
 end_operator
 begin_operator
 feast expectation muffin baguette guanabara arizona
 0
 2
-0 14 7 0
 0 4 1 3
+0 14 7 0
 1
 end_operator
 begin_operator
 feast expectation muffin baguette manitoba surrey
 0
 2
-0 14 7 0
 0 4 8 4
+0 14 7 0
 1
 end_operator
 begin_operator
 feast expectation muffin baguette pennsylvania alsace
 0
 2
-0 14 7 0
 0 4 0 6
+0 14 7 0
 1
 end_operator
 begin_operator
 feast expectation muffin baguette quebec goias
 0
 2
-0 14 7 0
 0 4 2 7
+0 14 7 0
 1
 end_operator
 begin_operator
 feast expectation muffin baguette surrey pennsylvania
 0
 2
-0 14 7 0
 0 4 6 8
+0 14 7 0
 1
 end_operator
 begin_operator
 feast expectation muffin turkey alsace guanabara
 0
 2
-0 14 7 11
 0 4 3 0
+0 14 7 11
 1
 end_operator
 begin_operator
 feast expectation muffin turkey arizona oregon
 0
 2
-0 14 7 11
 0 4 5 1
+0 14 7 11
 1
 end_operator
 begin_operator
 feast expectation muffin turkey goias manitoba
 0
 2
-0 14 7 11
 0 4 4 2
+0 14 7 11
 1
 end_operator
 begin_operator
 feast expectation muffin turkey guanabara arizona
 0
 2
-0 14 7 11
 0 4 1 3
+0 14 7 11
 1
 end_operator
 begin_operator
 feast expectation muffin turkey manitoba surrey
 0
 2
-0 14 7 11
 0 4 8 4
+0 14 7 11
 1
 end_operator
 begin_operator
 feast expectation muffin turkey pennsylvania alsace
 0
 2
-0 14 7 11
 0 4 0 6
+0 14 7 11
 1
 end_operator
 begin_operator
 feast expectation muffin turkey quebec goias
 0
 2
-0 14 7 11
 0 4 2 7
+0 14 7 11
 1
 end_operator
 begin_operator
 feast expectation muffin turkey surrey pennsylvania
 0
 2
-0 14 7 11
 0 4 6 8
+0 14 7 11
 1
 end_operator
 begin_operator
 feast expectation mutton chicken quebec goias
 0
 2
-0 14 8 2
 0 0 0 1
+0 14 8 2
 1
 end_operator
 begin_operator
 feast expectation mutton hotdog quebec goias
 0
 2
-0 14 8 6
 0 0 0 1
+0 14 8 6
 1
 end_operator
 begin_operator
 feast expectation rice baguette alsace guanabara
 0
 2
-0 14 9 0
 0 6 2 0
+0 14 9 0
 1
 end_operator
 begin_operator
 feast expectation rice baguette goias manitoba
 0
 2
-0 14 9 0
 0 6 3 1
+0 14 9 0
 1
 end_operator
 begin_operator
 feast expectation rice baguette manitoba surrey
 0
 2
-0 14 9 0
 0 6 6 3
+0 14 9 0
 1
 end_operator
 begin_operator
 feast expectation rice baguette pennsylvania alsace
 0
 2
-0 14 9 0
 0 6 0 4
+0 14 9 0
 1
 end_operator
 begin_operator
 feast expectation rice baguette quebec goias
 0
 2
-0 14 9 0
 0 6 1 5
+0 14 9 0
 1
 end_operator
 begin_operator
 feast expectation rice baguette surrey pennsylvania
 0
 2
-0 14 9 0
 0 6 4 6
+0 14 9 0
 1
 end_operator
 begin_operator
 feast expectation rice guava alsace guanabara
 0
 2
-0 14 9 4
 0 6 2 0
+0 14 9 4
 1
 end_operator
 begin_operator
 feast expectation rice guava goias manitoba
 0
 2
-0 14 9 4
 0 6 3 1
+0 14 9 4
 1
 end_operator
 begin_operator
 feast expectation rice guava manitoba surrey
 0
 2
-0 14 9 4
 0 6 6 3
+0 14 9 4
 1
 end_operator
 begin_operator
 feast expectation rice guava pennsylvania alsace
 0
 2
-0 14 9 4
 0 6 0 4
+0 14 9 4
 1
 end_operator
 begin_operator
 feast expectation rice guava quebec goias
 0
 2
-0 14 9 4
 0 6 1 5
+0 14 9 4
 1
 end_operator
 begin_operator
 feast expectation rice guava surrey pennsylvania
 0
 2
-0 14 9 4
 0 6 4 6
+0 14 9 4
 1
 end_operator
 begin_operator
 feast expectation rice scallop alsace guanabara
 0
 2
-0 14 9 10
 0 6 2 0
+0 14 9 10
 1
 end_operator
 begin_operator
 feast expectation rice scallop goias manitoba
 0
 2
-0 14 9 10
 0 6 3 1
+0 14 9 10
 1
 end_operator
 begin_operator
 feast expectation rice scallop manitoba surrey
 0
 2
-0 14 9 10
 0 6 6 3
+0 14 9 10
 1
 end_operator
 begin_operator
 feast expectation rice scallop pennsylvania alsace
 0
 2
-0 14 9 10
 0 6 0 4
+0 14 9 10
 1
 end_operator
 begin_operator
 feast expectation rice scallop quebec goias
 0
 2
-0 14 9 10
 0 6 1 5
+0 14 9 10
 1
 end_operator
 begin_operator
 feast expectation rice scallop surrey pennsylvania
 0
 2
-0 14 9 10
 0 6 4 6
+0 14 9 10
 1
 end_operator
 begin_operator
 feast expectation scallop rice alsace guanabara
 0
 2
-0 14 10 9
 0 5 3 0
+0 14 10 9
 1
 end_operator
 begin_operator
 feast expectation scallop rice arizona oregon
 0
 2
-0 14 10 9
 0 5 5 1
+0 14 10 9
 1
 end_operator
 begin_operator
 feast expectation scallop rice goias manitoba
 0
 2
-0 14 10 9
 0 5 4 2
+0 14 10 9
 1
 end_operator
 begin_operator
 feast expectation scallop rice guanabara arizona
 0
 2
-0 14 10 9
 0 5 1 3
+0 14 10 9
 1
 end_operator
 begin_operator
 feast expectation scallop rice manitoba surrey
 0
 2
-0 14 10 9
 0 5 8 4
+0 14 10 9
 1
 end_operator
 begin_operator
 feast expectation scallop rice pennsylvania alsace
 0
 2
-0 14 10 9
 0 5 0 6
+0 14 10 9
 1
 end_operator
 begin_operator
 feast expectation scallop rice quebec goias
 0
 2
-0 14 10 9
 0 5 2 7
+0 14 10 9
 1
 end_operator
 begin_operator
 feast expectation scallop rice surrey pennsylvania
 0
 2
-0 14 10 9
 0 5 6 8
+0 14 10 9
 1
 end_operator
 begin_operator
 feast expectation scallop yogurt alsace guanabara
 0
 2
-0 14 10 12
 0 5 3 0
+0 14 10 12
 1
 end_operator
 begin_operator
 feast expectation scallop yogurt arizona oregon
 0
 2
-0 14 10 12
 0 5 5 1
+0 14 10 12
 1
 end_operator
 begin_operator
 feast expectation scallop yogurt goias manitoba
 0
 2
-0 14 10 12
 0 5 4 2
+0 14 10 12
 1
 end_operator
 begin_operator
 feast expectation scallop yogurt guanabara arizona
 0
 2
-0 14 10 12
 0 5 1 3
+0 14 10 12
 1
 end_operator
 begin_operator
 feast expectation scallop yogurt manitoba surrey
 0
 2
-0 14 10 12
 0 5 8 4
+0 14 10 12
 1
 end_operator
 begin_operator
 feast expectation scallop yogurt pennsylvania alsace
 0
 2
-0 14 10 12
 0 5 0 6
+0 14 10 12
 1
 end_operator
 begin_operator
 feast expectation scallop yogurt quebec goias
 0
 2
-0 14 10 12
 0 5 2 7
+0 14 10 12
 1
 end_operator
 begin_operator
 feast expectation scallop yogurt surrey pennsylvania
 0
 2
-0 14 10 12
 0 5 6 8
+0 14 10 12
 1
 end_operator
 begin_operator
 feast expectation turkey chicken goias manitoba
 0
 2
-0 14 11 2
 0 2 1 0
+0 14 11 2
 1
 end_operator
 begin_operator
 feast expectation turkey chicken manitoba surrey
 0
 2
-0 14 11 2
 0 2 4 1
+0 14 11 2
 1
 end_operator
 begin_operator
 feast expectation turkey chicken quebec goias
 0
 2
-0 14 11 2
 0 2 0 3
+0 14 11 2
 1
 end_operator
 begin_operator
 feast expectation turkey chicken surrey pennsylvania
 0
 2
-0 14 11 2
 0 2 2 4
+0 14 11 2
 1
 end_operator
 begin_operator
 feast expectation turkey cucumber goias manitoba
 0
 2
-0 14 11 3
 0 2 1 0
+0 14 11 3
 1
 end_operator
 begin_operator
 feast expectation turkey cucumber manitoba surrey
 0
 2
-0 14 11 3
 0 2 4 1
+0 14 11 3
 1
 end_operator
 begin_operator
 feast expectation turkey cucumber quebec goias
 0
 2
-0 14 11 3
 0 2 0 3
+0 14 11 3
 1
 end_operator
 begin_operator
 feast expectation turkey cucumber surrey pennsylvania
 0
 2
-0 14 11 3
 0 2 2 4
+0 14 11 3
 1
 end_operator
 begin_operator
 feast expectation turkey muffin goias manitoba
 0
 2
-0 14 11 7
 0 2 1 0
+0 14 11 7
 1
 end_operator
 begin_operator
 feast expectation turkey muffin manitoba surrey
 0
 2
-0 14 11 7
 0 2 4 1
+0 14 11 7
 1
 end_operator
 begin_operator
 feast expectation turkey muffin quebec goias
 0
 2
-0 14 11 7
 0 2 0 3
+0 14 11 7
 1
 end_operator
 begin_operator
 feast expectation turkey muffin surrey pennsylvania
 0
 2
-0 14 11 7
 0 2 2 4
+0 14 11 7
 1
 end_operator
 begin_operator
 feast expectation yogurt guava alsace guanabara
 0
 2
-0 14 12 4
 0 7 4 0
+0 14 12 4
 1
 end_operator
 begin_operator
 feast expectation yogurt guava arizona oregon
 0
 2
-0 14 12 4
 0 7 6 1
+0 14 12 4
 1
 end_operator
 begin_operator
 feast expectation yogurt guava goias manitoba
 0
 2
-0 14 12 4
 0 7 5 3
+0 14 12 4
 1
 end_operator
 begin_operator
 feast expectation yogurt guava guanabara arizona
 0
 2
-0 14 12 4
 0 7 1 4
+0 14 12 4
 1
 end_operator
 begin_operator
 feast expectation yogurt guava manitoba surrey
 0
 2
-0 14 12 4
 0 7 9 5
+0 14 12 4
 1
 end_operator
 begin_operator
 feast expectation yogurt guava oregon bosnia
 0
 2
-0 14 12 4
 0 7 2 6
+0 14 12 4
 1
 end_operator
 begin_operator
 feast expectation yogurt guava pennsylvania alsace
 0
 2
-0 14 12 4
 0 7 0 7
+0 14 12 4
 1
 end_operator
 begin_operator
 feast expectation yogurt guava quebec goias
 0
 2
-0 14 12 4
 0 7 3 8
+0 14 12 4
 1
 end_operator
 begin_operator
 feast expectation yogurt guava surrey pennsylvania
 0
 2
-0 14 12 4
 0 7 7 9
+0 14 12 4
 1
 end_operator
 begin_operator
 feast expectation yogurt scallop alsace guanabara
 0
 2
-0 14 12 10
 0 7 4 0
+0 14 12 10
 1
 end_operator
 begin_operator
 feast expectation yogurt scallop arizona oregon
 0
 2
-0 14 12 10
 0 7 6 1
+0 14 12 10
 1
 end_operator
 begin_operator
 feast expectation yogurt scallop goias manitoba
 0
 2
-0 14 12 10
 0 7 5 3
+0 14 12 10
 1
 end_operator
 begin_operator
 feast expectation yogurt scallop guanabara arizona
 0
 2
-0 14 12 10
 0 7 1 4
+0 14 12 10
 1
 end_operator
 begin_operator
 feast expectation yogurt scallop manitoba surrey
 0
 2
-0 14 12 10
 0 7 9 5
+0 14 12 10
 1
 end_operator
 begin_operator
 feast expectation yogurt scallop oregon bosnia
 0
 2
-0 14 12 10
 0 7 2 6
+0 14 12 10
 1
 end_operator
 begin_operator
 feast expectation yogurt scallop pennsylvania alsace
 0
 2
-0 14 12 10
 0 7 0 7
+0 14 12 10
 1
 end_operator
 begin_operator
 feast expectation yogurt scallop quebec goias
 0
 2
-0 14 12 10
 0 7 3 8
+0 14 12 10
 1
 end_operator
 begin_operator
 feast expectation yogurt scallop surrey pennsylvania
 0
 2
-0 14 12 10
 0 7 7 9
+0 14 12 10
 1
 end_operator
 begin_operator
 feast intoxication baguette beef alsace guanabara
 0
 2
-0 15 0 1
 0 9 2 0
+0 15 0 1
 1
 end_operator
 begin_operator
 feast intoxication baguette beef goias manitoba
 0
 2
-0 15 0 1
 0 9 3 1
+0 15 0 1
 1
 end_operator
 begin_operator
 feast intoxication baguette beef manitoba surrey
 0
 2
-0 15 0 1
 0 9 6 3
+0 15 0 1
 1
 end_operator
 begin_operator
 feast intoxication baguette beef pennsylvania alsace
 0
 2
-0 15 0 1
 0 9 0 4
+0 15 0 1
 1
 end_operator
 begin_operator
 feast intoxication baguette beef quebec goias
 0
 2
-0 15 0 1
 0 9 1 5
+0 15 0 1
 1
 end_operator
 begin_operator
 feast intoxication baguette beef surrey pennsylvania
 0
 2
-0 15 0 1
 0 9 4 6
+0 15 0 1
 1
 end_operator
 begin_operator
 feast intoxication baguette cucumber alsace guanabara
 0
 2
-0 15 0 3
 0 9 2 0
+0 15 0 3
 1
 end_operator
 begin_operator
 feast intoxication baguette cucumber goias manitoba
 0
 2
-0 15 0 3
 0 9 3 1
+0 15 0 3
 1
 end_operator
 begin_operator
 feast intoxication baguette cucumber manitoba surrey
 0
 2
-0 15 0 3
 0 9 6 3
+0 15 0 3
 1
 end_operator
 begin_operator
 feast intoxication baguette cucumber pennsylvania alsace
 0
 2
-0 15 0 3
 0 9 0 4
+0 15 0 3
 1
 end_operator
 begin_operator
 feast intoxication baguette cucumber quebec goias
 0
 2
-0 15 0 3
 0 9 1 5
+0 15 0 3
 1
 end_operator
 begin_operator
 feast intoxication baguette cucumber surrey pennsylvania
 0
 2
-0 15 0 3
 0 9 4 6
+0 15 0 3
 1
 end_operator
 begin_operator
 feast intoxication baguette muffin alsace guanabara
 0
 2
-0 15 0 7
 0 9 2 0
+0 15 0 7
 1
 end_operator
 begin_operator
 feast intoxication baguette muffin goias manitoba
 0
 2
-0 15 0 7
 0 9 3 1
+0 15 0 7
 1
 end_operator
 begin_operator
 feast intoxication baguette muffin manitoba surrey
 0
 2
-0 15 0 7
 0 9 6 3
+0 15 0 7
 1
 end_operator
 begin_operator
 feast intoxication baguette muffin pennsylvania alsace
 0
 2
-0 15 0 7
 0 9 0 4
+0 15 0 7
 1
 end_operator
 begin_operator
 feast intoxication baguette muffin quebec goias
 0
 2
-0 15 0 7
 0 9 1 5
+0 15 0 7
 1
 end_operator
 begin_operator
 feast intoxication baguette muffin surrey pennsylvania
 0
 2
-0 15 0 7
 0 9 4 6
+0 15 0 7
 1
 end_operator
 begin_operator
 feast intoxication baguette rice alsace guanabara
 0
 2
-0 15 0 9
 0 9 2 0
+0 15 0 9
 1
 end_operator
 begin_operator
 feast intoxication baguette rice goias manitoba
 0
 2
-0 15 0 9
 0 9 3 1
+0 15 0 9
 1
 end_operator
 begin_operator
 feast intoxication baguette rice manitoba surrey
 0
 2
-0 15 0 9
 0 9 6 3
+0 15 0 9
 1
 end_operator
 begin_operator
 feast intoxication baguette rice pennsylvania alsace
 0
 2
-0 15 0 9
 0 9 0 4
+0 15 0 9
 1
 end_operator
 begin_operator
 feast intoxication baguette rice quebec goias
 0
 2
-0 15 0 9
 0 9 1 5
+0 15 0 9
 1
 end_operator
 begin_operator
 feast intoxication baguette rice surrey pennsylvania
 0
 2
-0 15 0 9
 0 9 4 6
+0 15 0 9
 1
 end_operator
 begin_operator
 feast intoxication beef baguette alsace guanabara
 0
 2
-0 15 1 0
 0 12 5 0
+0 15 1 0
 1
 end_operator
 begin_operator
 feast intoxication beef baguette arizona oregon
 0
 2
-0 15 1 0
 0 12 7 1
+0 15 1 0
 1
 end_operator
 begin_operator
 feast intoxication beef baguette bosnia bavaria
 0
 2
-0 15 1 0
 0 12 2 3
+0 15 1 0
 1
 end_operator
 begin_operator
 feast intoxication beef baguette goias manitoba
 0
 2
-0 15 1 0
 0 12 6 4
+0 15 1 0
 1
 end_operator
 begin_operator
 feast intoxication beef baguette guanabara arizona
 0
 2
-0 15 1 0
 0 12 1 5
+0 15 1 0
 1
 end_operator
 begin_operator
 feast intoxication beef baguette manitoba surrey
 0
 2
-0 15 1 0
 0 12 10 6
+0 15 1 0
 1
 end_operator
 begin_operator
 feast intoxication beef baguette oregon bosnia
 0
 2
-0 15 1 0
 0 12 3 7
+0 15 1 0
 1
 end_operator
 begin_operator
 feast intoxication beef baguette pennsylvania alsace
 0
 2
-0 15 1 0
 0 12 0 8
+0 15 1 0
 1
 end_operator
 begin_operator
 feast intoxication beef baguette quebec goias
 0
 2
-0 15 1 0
 0 12 4 9
+0 15 1 0
 1
 end_operator
 begin_operator
 feast intoxication beef baguette surrey pennsylvania
 0
 2
-0 15 1 0
 0 12 8 10
+0 15 1 0
 1
 end_operator
 begin_operator
 feast intoxication beef hamburger alsace guanabara
 0
 2
-0 15 1 5
 0 12 5 0
+0 15 1 5
 1
 end_operator
 begin_operator
 feast intoxication beef hamburger arizona oregon
 0
 2
-0 15 1 5
 0 12 7 1
+0 15 1 5
 1
 end_operator
 begin_operator
 feast intoxication beef hamburger bosnia bavaria
 0
 2
-0 15 1 5
 0 12 2 3
+0 15 1 5
 1
 end_operator
 begin_operator
 feast intoxication beef hamburger goias manitoba
 0
 2
-0 15 1 5
 0 12 6 4
+0 15 1 5
 1
 end_operator
 begin_operator
 feast intoxication beef hamburger guanabara arizona
 0
 2
-0 15 1 5
 0 12 1 5
+0 15 1 5
 1
 end_operator
 begin_operator
 feast intoxication beef hamburger manitoba surrey
 0
 2
-0 15 1 5
 0 12 10 6
+0 15 1 5
 1
 end_operator
 begin_operator
 feast intoxication beef hamburger oregon bosnia
 0
 2
-0 15 1 5
 0 12 3 7
+0 15 1 5
 1
 end_operator
 begin_operator
 feast intoxication beef hamburger pennsylvania alsace
 0
 2
-0 15 1 5
 0 12 0 8
+0 15 1 5
 1
 end_operator
 begin_operator
 feast intoxication beef hamburger quebec goias
 0
 2
-0 15 1 5
 0 12 4 9
+0 15 1 5
 1
 end_operator
 begin_operator
 feast intoxication beef hamburger surrey pennsylvania
 0
 2
-0 15 1 5
 0 12 8 10
+0 15 1 5
 1
 end_operator
 begin_operator
 feast intoxication beef hotdog alsace guanabara
 0
 2
-0 15 1 6
 0 12 5 0
+0 15 1 6
 1
 end_operator
 begin_operator
 feast intoxication beef hotdog arizona oregon
 0
 2
-0 15 1 6
 0 12 7 1
+0 15 1 6
 1
 end_operator
 begin_operator
 feast intoxication beef hotdog bosnia bavaria
 0
 2
-0 15 1 6
 0 12 2 3
+0 15 1 6
 1
 end_operator
 begin_operator
 feast intoxication beef hotdog goias manitoba
 0
 2
-0 15 1 6
 0 12 6 4
+0 15 1 6
 1
 end_operator
 begin_operator
 feast intoxication beef hotdog guanabara arizona
 0
 2
-0 15 1 6
 0 12 1 5
+0 15 1 6
 1
 end_operator
 begin_operator
 feast intoxication beef hotdog manitoba surrey
 0
 2
-0 15 1 6
 0 12 10 6
+0 15 1 6
 1
 end_operator
 begin_operator
 feast intoxication beef hotdog oregon bosnia
 0
 2
-0 15 1 6
 0 12 3 7
+0 15 1 6
 1
 end_operator
 begin_operator
 feast intoxication beef hotdog pennsylvania alsace
 0
 2
-0 15 1 6
 0 12 0 8
+0 15 1 6
 1
 end_operator
 begin_operator
 feast intoxication beef hotdog quebec goias
 0
 2
-0 15 1 6
 0 12 4 9
+0 15 1 6
 1
 end_operator
 begin_operator
 feast intoxication beef hotdog surrey pennsylvania
 0
 2
-0 15 1 6
 0 12 8 10
+0 15 1 6
 1
 end_operator
 begin_operator
 feast intoxication chicken hotdog goias manitoba
 0
 2
-0 15 2 6
 0 1 1 0
+0 15 2 6
 1
 end_operator
 begin_operator
 feast intoxication chicken hotdog manitoba surrey
 0
 2
-0 15 2 6
 0 1 3 1
+0 15 2 6
 1
 end_operator
 begin_operator
 feast intoxication chicken hotdog quebec goias
 0
 2
-0 15 2 6
 0 1 0 2
+0 15 2 6
 1
 end_operator
 begin_operator
 feast intoxication chicken mutton goias manitoba
 0
 2
-0 15 2 8
 0 1 1 0
+0 15 2 8
 1
 end_operator
 begin_operator
 feast intoxication chicken mutton manitoba surrey
 0
 2
-0 15 2 8
 0 1 3 1
+0 15 2 8
 1
 end_operator
 begin_operator
 feast intoxication chicken mutton quebec goias
 0
 2
-0 15 2 8
 0 1 0 2
+0 15 2 8
 1
 end_operator
 begin_operator
 feast intoxication chicken turkey goias manitoba
 0
 2
-0 15 2 11
 0 1 1 0
+0 15 2 11
 1
 end_operator
 begin_operator
 feast intoxication chicken turkey manitoba surrey
 0
 2
-0 15 2 11
 0 1 3 1
+0 15 2 11
 1
 end_operator
 begin_operator
 feast intoxication chicken turkey quebec goias
 0
 2
-0 15 2 11
 0 1 0 2
+0 15 2 11
 1
 end_operator
 begin_operator
 feast intoxication cucumber baguette alsace guanabara
 0
 2
-0 15 3 0
 0 13 5 0
+0 15 3 0
 1
 end_operator
 begin_operator
 feast intoxication cucumber baguette arizona oregon
 0
 2
-0 15 3 0
 0 13 7 1
+0 15 3 0
 1
 end_operator
 begin_operator
 feast intoxication cucumber baguette bosnia bavaria
 0
 2
-0 15 3 0
 0 13 2 3
+0 15 3 0
 1
 end_operator
 begin_operator
 feast intoxication cucumber baguette goias manitoba
 0
 2
-0 15 3 0
 0 13 6 4
+0 15 3 0
 1
 end_operator
 begin_operator
 feast intoxication cucumber baguette guanabara arizona
 0
 2
-0 15 3 0
 0 13 1 5
+0 15 3 0
 1
 end_operator
 begin_operator
 feast intoxication cucumber baguette manitoba surrey
 0
 2
-0 15 3 0
 0 13 10 6
+0 15 3 0
 1
 end_operator
 begin_operator
 feast intoxication cucumber baguette oregon bosnia
 0
 2
-0 15 3 0
 0 13 3 7
+0 15 3 0
 1
 end_operator
 begin_operator
 feast intoxication cucumber baguette pennsylvania alsace
 0
 2
-0 15 3 0
 0 13 0 8
+0 15 3 0
 1
 end_operator
 begin_operator
 feast intoxication cucumber baguette quebec goias
 0
 2
-0 15 3 0
 0 13 4 9
+0 15 3 0
 1
 end_operator
 begin_operator
 feast intoxication cucumber baguette surrey pennsylvania
 0
 2
-0 15 3 0
 0 13 8 10
+0 15 3 0
 1
 end_operator
 begin_operator
 feast intoxication cucumber hotdog alsace guanabara
 0
 2
-0 15 3 6
 0 13 5 0
+0 15 3 6
 1
 end_operator
 begin_operator
 feast intoxication cucumber hotdog arizona oregon
 0
 2
-0 15 3 6
 0 13 7 1
+0 15 3 6
 1
 end_operator
 begin_operator
 feast intoxication cucumber hotdog bosnia bavaria
 0
 2
-0 15 3 6
 0 13 2 3
+0 15 3 6
 1
 end_operator
 begin_operator
 feast intoxication cucumber hotdog goias manitoba
 0
 2
-0 15 3 6
 0 13 6 4
+0 15 3 6
 1
 end_operator
 begin_operator
 feast intoxication cucumber hotdog guanabara arizona
 0
 2
-0 15 3 6
 0 13 1 5
+0 15 3 6
 1
 end_operator
 begin_operator
 feast intoxication cucumber hotdog manitoba surrey
 0
 2
-0 15 3 6
 0 13 10 6
+0 15 3 6
 1
 end_operator
 begin_operator
 feast intoxication cucumber hotdog oregon bosnia
 0
 2
-0 15 3 6
 0 13 3 7
+0 15 3 6
 1
 end_operator
 begin_operator
 feast intoxication cucumber hotdog pennsylvania alsace
 0
 2
-0 15 3 6
 0 13 0 8
+0 15 3 6
 1
 end_operator
 begin_operator
 feast intoxication cucumber hotdog quebec goias
 0
 2
-0 15 3 6
 0 13 4 9
+0 15 3 6
 1
 end_operator
 begin_operator
 feast intoxication cucumber hotdog surrey pennsylvania
 0
 2
-0 15 3 6
 0 13 8 10
+0 15 3 6
 1
 end_operator
 begin_operator
 feast intoxication cucumber turkey alsace guanabara
 0
 2
-0 15 3 11
 0 13 5 0
+0 15 3 11
 1
 end_operator
 begin_operator
 feast intoxication cucumber turkey arizona oregon
 0
 2
-0 15 3 11
 0 13 7 1
+0 15 3 11
 1
 end_operator
 begin_operator
 feast intoxication cucumber turkey bosnia bavaria
 0
 2
-0 15 3 11
 0 13 2 3
+0 15 3 11
 1
 end_operator
 begin_operator
 feast intoxication cucumber turkey goias manitoba
 0
 2
-0 15 3 11
 0 13 6 4
+0 15 3 11
 1
 end_operator
 begin_operator
 feast intoxication cucumber turkey guanabara arizona
 0
 2
-0 15 3 11
 0 13 1 5
+0 15 3 11
 1
 end_operator
 begin_operator
 feast intoxication cucumber turkey manitoba surrey
 0
 2
-0 15 3 11
 0 13 10 6
+0 15 3 11
 1
 end_operator
 begin_operator
 feast intoxication cucumber turkey oregon bosnia
 0
 2
-0 15 3 11
 0 13 3 7
+0 15 3 11
 1
 end_operator
 begin_operator
 feast intoxication cucumber turkey pennsylvania alsace
 0
 2
-0 15 3 11
 0 13 0 8
+0 15 3 11
 1
 end_operator
 begin_operator
 feast intoxication cucumber turkey quebec goias
 0
 2
-0 15 3 11
 0 13 4 9
+0 15 3 11
 1
 end_operator
 begin_operator
 feast intoxication cucumber turkey surrey pennsylvania
 0
 2
-0 15 3 11
 0 13 8 10
+0 15 3 11
 1
 end_operator
 begin_operator
 feast intoxication guava rice alsace guanabara
 0
 2
-0 15 4 9
 0 3 3 0
+0 15 4 9
 1
 end_operator
 begin_operator
 feast intoxication guava rice arizona oregon
 0
 2
-0 15 4 9
 0 3 5 1
+0 15 4 9
 1
 end_operator
 begin_operator
 feast intoxication guava rice goias manitoba
 0
 2
-0 15 4 9
 0 3 4 2
+0 15 4 9
 1
 end_operator
 begin_operator
 feast intoxication guava rice guanabara arizona
 0
 2
-0 15 4 9
 0 3 1 3
+0 15 4 9
 1
 end_operator
 begin_operator
 feast intoxication guava rice manitoba surrey
 0
 2
-0 15 4 9
 0 3 8 4
+0 15 4 9
 1
 end_operator
 begin_operator
 feast intoxication guava rice pennsylvania alsace
 0
 2
-0 15 4 9
 0 3 0 6
+0 15 4 9
 1
 end_operator
 begin_operator
 feast intoxication guava rice quebec goias
 0
 2
-0 15 4 9
 0 3 2 7
+0 15 4 9
 1
 end_operator
 begin_operator
 feast intoxication guava rice surrey pennsylvania
 0
 2
-0 15 4 9
 0 3 6 8
+0 15 4 9
 1
 end_operator
 begin_operator
 feast intoxication guava yogurt alsace guanabara
 0
 2
-0 15 4 12
 0 3 3 0
+0 15 4 12
 1
 end_operator
 begin_operator
 feast intoxication guava yogurt arizona oregon
 0
 2
-0 15 4 12
 0 3 5 1
+0 15 4 12
 1
 end_operator
 begin_operator
 feast intoxication guava yogurt goias manitoba
 0
 2
-0 15 4 12
 0 3 4 2
+0 15 4 12
 1
 end_operator
 begin_operator
 feast intoxication guava yogurt guanabara arizona
 0
 2
-0 15 4 12
 0 3 1 3
+0 15 4 12
 1
 end_operator
 begin_operator
 feast intoxication guava yogurt manitoba surrey
 0
 2
-0 15 4 12
 0 3 8 4
+0 15 4 12
 1
 end_operator
 begin_operator
 feast intoxication guava yogurt pennsylvania alsace
 0
 2
-0 15 4 12
 0 3 0 6
+0 15 4 12
 1
 end_operator
 begin_operator
 feast intoxication guava yogurt quebec goias
 0
 2
-0 15 4 12
 0 3 2 7
+0 15 4 12
 1
 end_operator
 begin_operator
 feast intoxication guava yogurt surrey pennsylvania
 0
 2
-0 15 4 12
 0 3 6 8
+0 15 4 12
 1
 end_operator
 begin_operator
 feast intoxication hamburger beef alsace guanabara
 0
 2
-0 15 5 1
 0 8 5 0
+0 15 5 1
 1
 end_operator
 begin_operator
 feast intoxication hamburger beef arizona oregon
 0
 2
-0 15 5 1
 0 8 7 1
+0 15 5 1
 1
 end_operator
 begin_operator
 feast intoxication hamburger beef bosnia bavaria
 0
 2
-0 15 5 1
 0 8 2 3
+0 15 5 1
 1
 end_operator
 begin_operator
 feast intoxication hamburger beef goias manitoba
 0
 2
-0 15 5 1
 0 8 6 4
+0 15 5 1
 1
 end_operator
 begin_operator
 feast intoxication hamburger beef guanabara arizona
 0
 2
-0 15 5 1
 0 8 1 5
+0 15 5 1
 1
 end_operator
 begin_operator
 feast intoxication hamburger beef manitoba surrey
 0
 2
-0 15 5 1
 0 8 10 6
+0 15 5 1
 1
 end_operator
 begin_operator
 feast intoxication hamburger beef oregon bosnia
 0
 2
-0 15 5 1
 0 8 3 7
+0 15 5 1
 1
 end_operator
 begin_operator
 feast intoxication hamburger beef pennsylvania alsace
 0
 2
-0 15 5 1
 0 8 0 8
+0 15 5 1
 1
 end_operator
 begin_operator
 feast intoxication hamburger beef quebec goias
 0
 2
-0 15 5 1
 0 8 4 9
+0 15 5 1
 1
 end_operator
 begin_operator
 feast intoxication hamburger beef surrey pennsylvania
 0
 2
-0 15 5 1
 0 8 8 10
+0 15 5 1
 1
 end_operator
 begin_operator
 feast intoxication hamburger hotdog alsace guanabara
 0
 2
-0 15 5 6
 0 8 5 0
+0 15 5 6
 1
 end_operator
 begin_operator
 feast intoxication hamburger hotdog arizona oregon
 0
 2
-0 15 5 6
 0 8 7 1
+0 15 5 6
 1
 end_operator
 begin_operator
 feast intoxication hamburger hotdog bosnia bavaria
 0
 2
-0 15 5 6
 0 8 2 3
+0 15 5 6
 1
 end_operator
 begin_operator
 feast intoxication hamburger hotdog goias manitoba
 0
 2
-0 15 5 6
 0 8 6 4
+0 15 5 6
 1
 end_operator
 begin_operator
 feast intoxication hamburger hotdog guanabara arizona
 0
 2
-0 15 5 6
 0 8 1 5
+0 15 5 6
 1
 end_operator
 begin_operator
 feast intoxication hamburger hotdog manitoba surrey
 0
 2
-0 15 5 6
 0 8 10 6
+0 15 5 6
 1
 end_operator
 begin_operator
 feast intoxication hamburger hotdog oregon bosnia
 0
 2
-0 15 5 6
 0 8 3 7
+0 15 5 6
 1
 end_operator
 begin_operator
 feast intoxication hamburger hotdog pennsylvania alsace
 0
 2
-0 15 5 6
 0 8 0 8
+0 15 5 6
 1
 end_operator
 begin_operator
 feast intoxication hamburger hotdog quebec goias
 0
 2
-0 15 5 6
 0 8 4 9
+0 15 5 6
 1
 end_operator
 begin_operator
 feast intoxication hamburger hotdog surrey pennsylvania
 0
 2
-0 15 5 6
 0 8 8 10
+0 15 5 6
 1
 end_operator
 begin_operator
@@ -8534,1688 +8534,1688 @@ begin_operator
 feast intoxication muffin baguette alsace guanabara
 0
 2
-0 15 7 0
 0 4 3 0
+0 15 7 0
 1
 end_operator
 begin_operator
 feast intoxication muffin baguette arizona oregon
 0
 2
-0 15 7 0
 0 4 5 1
+0 15 7 0
 1
 end_operator
 begin_operator
 feast intoxication muffin baguette goias manitoba
 0
 2
-0 15 7 0
 0 4 4 2
+0 15 7 0
 1
 end_operator
 begin_operator
 feast intoxication muffin baguette guanabara arizona
 0
 2
-0 15 7 0
 0 4 1 3
+0 15 7 0
 1
 end_operator
 begin_operator
 feast intoxication muffin baguette manitoba surrey
 0
 2
-0 15 7 0
 0 4 8 4
+0 15 7 0
 1
 end_operator
 begin_operator
 feast intoxication muffin baguette pennsylvania alsace
 0
 2
-0 15 7 0
 0 4 0 6
+0 15 7 0
 1
 end_operator
 begin_operator
 feast intoxication muffin baguette quebec goias
 0
 2
-0 15 7 0
 0 4 2 7
+0 15 7 0
 1
 end_operator
 begin_operator
 feast intoxication muffin baguette surrey pennsylvania
 0
 2
-0 15 7 0
 0 4 6 8
+0 15 7 0
 1
 end_operator
 begin_operator
 feast intoxication muffin turkey alsace guanabara
 0
 2
-0 15 7 11
 0 4 3 0
+0 15 7 11
 1
 end_operator
 begin_operator
 feast intoxication muffin turkey arizona oregon
 0
 2
-0 15 7 11
 0 4 5 1
+0 15 7 11
 1
 end_operator
 begin_operator
 feast intoxication muffin turkey goias manitoba
 0
 2
-0 15 7 11
 0 4 4 2
+0 15 7 11
 1
 end_operator
 begin_operator
 feast intoxication muffin turkey guanabara arizona
 0
 2
-0 15 7 11
 0 4 1 3
+0 15 7 11
 1
 end_operator
 begin_operator
 feast intoxication muffin turkey manitoba surrey
 0
 2
-0 15 7 11
 0 4 8 4
+0 15 7 11
 1
 end_operator
 begin_operator
 feast intoxication muffin turkey pennsylvania alsace
 0
 2
-0 15 7 11
 0 4 0 6
+0 15 7 11
 1
 end_operator
 begin_operator
 feast intoxication muffin turkey quebec goias
 0
 2
-0 15 7 11
 0 4 2 7
+0 15 7 11
 1
 end_operator
 begin_operator
 feast intoxication muffin turkey surrey pennsylvania
 0
 2
-0 15 7 11
 0 4 6 8
+0 15 7 11
 1
 end_operator
 begin_operator
 feast intoxication mutton chicken quebec goias
 0
 2
-0 15 8 2
 0 0 0 1
+0 15 8 2
 1
 end_operator
 begin_operator
 feast intoxication mutton hotdog quebec goias
 0
 2
-0 15 8 6
 0 0 0 1
+0 15 8 6
 1
 end_operator
 begin_operator
 feast intoxication rice baguette alsace guanabara
 0
 2
-0 15 9 0
 0 6 2 0
+0 15 9 0
 1
 end_operator
 begin_operator
 feast intoxication rice baguette goias manitoba
 0
 2
-0 15 9 0
 0 6 3 1
+0 15 9 0
 1
 end_operator
 begin_operator
 feast intoxication rice baguette manitoba surrey
 0
 2
-0 15 9 0
 0 6 6 3
+0 15 9 0
 1
 end_operator
 begin_operator
 feast intoxication rice baguette pennsylvania alsace
 0
 2
-0 15 9 0
 0 6 0 4
+0 15 9 0
 1
 end_operator
 begin_operator
 feast intoxication rice baguette quebec goias
 0
 2
-0 15 9 0
 0 6 1 5
+0 15 9 0
 1
 end_operator
 begin_operator
 feast intoxication rice baguette surrey pennsylvania
 0
 2
-0 15 9 0
 0 6 4 6
+0 15 9 0
 1
 end_operator
 begin_operator
 feast intoxication rice guava alsace guanabara
 0
 2
-0 15 9 4
 0 6 2 0
+0 15 9 4
 1
 end_operator
 begin_operator
 feast intoxication rice guava goias manitoba
 0
 2
-0 15 9 4
 0 6 3 1
+0 15 9 4
 1
 end_operator
 begin_operator
 feast intoxication rice guava manitoba surrey
 0
 2
-0 15 9 4
 0 6 6 3
+0 15 9 4
 1
 end_operator
 begin_operator
 feast intoxication rice guava pennsylvania alsace
 0
 2
-0 15 9 4
 0 6 0 4
+0 15 9 4
 1
 end_operator
 begin_operator
 feast intoxication rice guava quebec goias
 0
 2
-0 15 9 4
 0 6 1 5
+0 15 9 4
 1
 end_operator
 begin_operator
 feast intoxication rice guava surrey pennsylvania
 0
 2
-0 15 9 4
 0 6 4 6
+0 15 9 4
 1
 end_operator
 begin_operator
 feast intoxication rice scallop alsace guanabara
 0
 2
-0 15 9 10
 0 6 2 0
+0 15 9 10
 1
 end_operator
 begin_operator
 feast intoxication rice scallop goias manitoba
 0
 2
-0 15 9 10
 0 6 3 1
+0 15 9 10
 1
 end_operator
 begin_operator
 feast intoxication rice scallop manitoba surrey
 0
 2
-0 15 9 10
 0 6 6 3
+0 15 9 10
 1
 end_operator
 begin_operator
 feast intoxication rice scallop pennsylvania alsace
 0
 2
-0 15 9 10
 0 6 0 4
+0 15 9 10
 1
 end_operator
 begin_operator
 feast intoxication rice scallop quebec goias
 0
 2
-0 15 9 10
 0 6 1 5
+0 15 9 10
 1
 end_operator
 begin_operator
 feast intoxication rice scallop surrey pennsylvania
 0
 2
-0 15 9 10
 0 6 4 6
+0 15 9 10
 1
 end_operator
 begin_operator
 feast intoxication scallop rice alsace guanabara
 0
 2
-0 15 10 9
 0 5 3 0
+0 15 10 9
 1
 end_operator
 begin_operator
 feast intoxication scallop rice arizona oregon
 0
 2
-0 15 10 9
 0 5 5 1
+0 15 10 9
 1
 end_operator
 begin_operator
 feast intoxication scallop rice goias manitoba
 0
 2
-0 15 10 9
 0 5 4 2
+0 15 10 9
 1
 end_operator
 begin_operator
 feast intoxication scallop rice guanabara arizona
 0
 2
-0 15 10 9
 0 5 1 3
+0 15 10 9
 1
 end_operator
 begin_operator
 feast intoxication scallop rice manitoba surrey
 0
 2
-0 15 10 9
 0 5 8 4
+0 15 10 9
 1
 end_operator
 begin_operator
 feast intoxication scallop rice pennsylvania alsace
 0
 2
-0 15 10 9
 0 5 0 6
+0 15 10 9
 1
 end_operator
 begin_operator
 feast intoxication scallop rice quebec goias
 0
 2
-0 15 10 9
 0 5 2 7
+0 15 10 9
 1
 end_operator
 begin_operator
 feast intoxication scallop rice surrey pennsylvania
 0
 2
-0 15 10 9
 0 5 6 8
+0 15 10 9
 1
 end_operator
 begin_operator
 feast intoxication scallop yogurt alsace guanabara
 0
 2
-0 15 10 12
 0 5 3 0
+0 15 10 12
 1
 end_operator
 begin_operator
 feast intoxication scallop yogurt arizona oregon
 0
 2
-0 15 10 12
 0 5 5 1
+0 15 10 12
 1
 end_operator
 begin_operator
 feast intoxication scallop yogurt goias manitoba
 0
 2
-0 15 10 12
 0 5 4 2
+0 15 10 12
 1
 end_operator
 begin_operator
 feast intoxication scallop yogurt guanabara arizona
 0
 2
-0 15 10 12
 0 5 1 3
+0 15 10 12
 1
 end_operator
 begin_operator
 feast intoxication scallop yogurt manitoba surrey
 0
 2
-0 15 10 12
 0 5 8 4
+0 15 10 12
 1
 end_operator
 begin_operator
 feast intoxication scallop yogurt pennsylvania alsace
 0
 2
-0 15 10 12
 0 5 0 6
+0 15 10 12
 1
 end_operator
 begin_operator
 feast intoxication scallop yogurt quebec goias
 0
 2
-0 15 10 12
 0 5 2 7
+0 15 10 12
 1
 end_operator
 begin_operator
 feast intoxication scallop yogurt surrey pennsylvania
 0
 2
-0 15 10 12
 0 5 6 8
+0 15 10 12
 1
 end_operator
 begin_operator
 feast intoxication turkey chicken goias manitoba
 0
 2
-0 15 11 2
 0 2 1 0
+0 15 11 2
 1
 end_operator
 begin_operator
 feast intoxication turkey chicken manitoba surrey
 0
 2
-0 15 11 2
 0 2 4 1
+0 15 11 2
 1
 end_operator
 begin_operator
 feast intoxication turkey chicken quebec goias
 0
 2
-0 15 11 2
 0 2 0 3
+0 15 11 2
 1
 end_operator
 begin_operator
 feast intoxication turkey chicken surrey pennsylvania
 0
 2
-0 15 11 2
 0 2 2 4
+0 15 11 2
 1
 end_operator
 begin_operator
 feast intoxication turkey cucumber goias manitoba
 0
 2
-0 15 11 3
 0 2 1 0
+0 15 11 3
 1
 end_operator
 begin_operator
 feast intoxication turkey cucumber manitoba surrey
 0
 2
-0 15 11 3
 0 2 4 1
+0 15 11 3
 1
 end_operator
 begin_operator
 feast intoxication turkey cucumber quebec goias
 0
 2
-0 15 11 3
 0 2 0 3
+0 15 11 3
 1
 end_operator
 begin_operator
 feast intoxication turkey cucumber surrey pennsylvania
 0
 2
-0 15 11 3
 0 2 2 4
+0 15 11 3
 1
 end_operator
 begin_operator
 feast intoxication turkey muffin goias manitoba
 0
 2
-0 15 11 7
 0 2 1 0
+0 15 11 7
 1
 end_operator
 begin_operator
 feast intoxication turkey muffin manitoba surrey
 0
 2
-0 15 11 7
 0 2 4 1
+0 15 11 7
 1
 end_operator
 begin_operator
 feast intoxication turkey muffin quebec goias
 0
 2
-0 15 11 7
 0 2 0 3
+0 15 11 7
 1
 end_operator
 begin_operator
 feast intoxication turkey muffin surrey pennsylvania
 0
 2
-0 15 11 7
 0 2 2 4
+0 15 11 7
 1
 end_operator
 begin_operator
 feast intoxication yogurt guava alsace guanabara
 0
 2
-0 15 12 4
 0 7 4 0
+0 15 12 4
 1
 end_operator
 begin_operator
 feast intoxication yogurt guava arizona oregon
 0
 2
-0 15 12 4
 0 7 6 1
+0 15 12 4
 1
 end_operator
 begin_operator
 feast intoxication yogurt guava goias manitoba
 0
 2
-0 15 12 4
 0 7 5 3
+0 15 12 4
 1
 end_operator
 begin_operator
 feast intoxication yogurt guava guanabara arizona
 0
 2
-0 15 12 4
 0 7 1 4
+0 15 12 4
 1
 end_operator
 begin_operator
 feast intoxication yogurt guava manitoba surrey
 0
 2
-0 15 12 4
 0 7 9 5
+0 15 12 4
 1
 end_operator
 begin_operator
 feast intoxication yogurt guava oregon bosnia
 0
 2
-0 15 12 4
 0 7 2 6
+0 15 12 4
 1
 end_operator
 begin_operator
 feast intoxication yogurt guava pennsylvania alsace
 0
 2
-0 15 12 4
 0 7 0 7
+0 15 12 4
 1
 end_operator
 begin_operator
 feast intoxication yogurt guava quebec goias
 0
 2
-0 15 12 4
 0 7 3 8
+0 15 12 4
 1
 end_operator
 begin_operator
 feast intoxication yogurt guava surrey pennsylvania
 0
 2
-0 15 12 4
 0 7 7 9
+0 15 12 4
 1
 end_operator
 begin_operator
 feast intoxication yogurt scallop alsace guanabara
 0
 2
-0 15 12 10
 0 7 4 0
+0 15 12 10
 1
 end_operator
 begin_operator
 feast intoxication yogurt scallop arizona oregon
 0
 2
-0 15 12 10
 0 7 6 1
+0 15 12 10
 1
 end_operator
 begin_operator
 feast intoxication yogurt scallop goias manitoba
 0
 2
-0 15 12 10
 0 7 5 3
+0 15 12 10
 1
 end_operator
 begin_operator
 feast intoxication yogurt scallop guanabara arizona
 0
 2
-0 15 12 10
 0 7 1 4
+0 15 12 10
 1
 end_operator
 begin_operator
 feast intoxication yogurt scallop manitoba surrey
 0
 2
-0 15 12 10
 0 7 9 5
+0 15 12 10
 1
 end_operator
 begin_operator
 feast intoxication yogurt scallop oregon bosnia
 0
 2
-0 15 12 10
 0 7 2 6
+0 15 12 10
 1
 end_operator
 begin_operator
 feast intoxication yogurt scallop pennsylvania alsace
 0
 2
-0 15 12 10
 0 7 0 7
+0 15 12 10
 1
 end_operator
 begin_operator
 feast intoxication yogurt scallop quebec goias
 0
 2
-0 15 12 10
 0 7 3 8
+0 15 12 10
 1
 end_operator
 begin_operator
 feast intoxication yogurt scallop surrey pennsylvania
 0
 2
-0 15 12 10
 0 7 7 9
+0 15 12 10
 1
 end_operator
 begin_operator
 feast triumph baguette beef alsace guanabara
 0
 2
-0 16 0 1
 0 9 2 0
+0 16 0 1
 1
 end_operator
 begin_operator
 feast triumph baguette beef goias manitoba
 0
 2
-0 16 0 1
 0 9 3 1
+0 16 0 1
 1
 end_operator
 begin_operator
 feast triumph baguette beef manitoba surrey
 0
 2
-0 16 0 1
 0 9 6 3
+0 16 0 1
 1
 end_operator
 begin_operator
 feast triumph baguette beef pennsylvania alsace
 0
 2
-0 16 0 1
 0 9 0 4
+0 16 0 1
 1
 end_operator
 begin_operator
 feast triumph baguette beef quebec goias
 0
 2
-0 16 0 1
 0 9 1 5
+0 16 0 1
 1
 end_operator
 begin_operator
 feast triumph baguette beef surrey pennsylvania
 0
 2
-0 16 0 1
 0 9 4 6
+0 16 0 1
 1
 end_operator
 begin_operator
 feast triumph baguette cucumber alsace guanabara
 0
 2
-0 16 0 3
 0 9 2 0
+0 16 0 3
 1
 end_operator
 begin_operator
 feast triumph baguette cucumber goias manitoba
 0
 2
-0 16 0 3
 0 9 3 1
+0 16 0 3
 1
 end_operator
 begin_operator
 feast triumph baguette cucumber manitoba surrey
 0
 2
-0 16 0 3
 0 9 6 3
+0 16 0 3
 1
 end_operator
 begin_operator
 feast triumph baguette cucumber pennsylvania alsace
 0
 2
-0 16 0 3
 0 9 0 4
+0 16 0 3
 1
 end_operator
 begin_operator
 feast triumph baguette cucumber quebec goias
 0
 2
-0 16 0 3
 0 9 1 5
+0 16 0 3
 1
 end_operator
 begin_operator
 feast triumph baguette cucumber surrey pennsylvania
 0
 2
-0 16 0 3
 0 9 4 6
+0 16 0 3
 1
 end_operator
 begin_operator
 feast triumph baguette muffin alsace guanabara
 0
 2
-0 16 0 7
 0 9 2 0
+0 16 0 7
 1
 end_operator
 begin_operator
 feast triumph baguette muffin goias manitoba
 0
 2
-0 16 0 7
 0 9 3 1
+0 16 0 7
 1
 end_operator
 begin_operator
 feast triumph baguette muffin manitoba surrey
 0
 2
-0 16 0 7
 0 9 6 3
+0 16 0 7
 1
 end_operator
 begin_operator
 feast triumph baguette muffin pennsylvania alsace
 0
 2
-0 16 0 7
 0 9 0 4
+0 16 0 7
 1
 end_operator
 begin_operator
 feast triumph baguette muffin quebec goias
 0
 2
-0 16 0 7
 0 9 1 5
+0 16 0 7
 1
 end_operator
 begin_operator
 feast triumph baguette muffin surrey pennsylvania
 0
 2
-0 16 0 7
 0 9 4 6
+0 16 0 7
 1
 end_operator
 begin_operator
 feast triumph baguette rice alsace guanabara
 0
 2
-0 16 0 9
 0 9 2 0
+0 16 0 9
 1
 end_operator
 begin_operator
 feast triumph baguette rice goias manitoba
 0
 2
-0 16 0 9
 0 9 3 1
+0 16 0 9
 1
 end_operator
 begin_operator
 feast triumph baguette rice manitoba surrey
 0
 2
-0 16 0 9
 0 9 6 3
+0 16 0 9
 1
 end_operator
 begin_operator
 feast triumph baguette rice pennsylvania alsace
 0
 2
-0 16 0 9
 0 9 0 4
+0 16 0 9
 1
 end_operator
 begin_operator
 feast triumph baguette rice quebec goias
 0
 2
-0 16 0 9
 0 9 1 5
+0 16 0 9
 1
 end_operator
 begin_operator
 feast triumph baguette rice surrey pennsylvania
 0
 2
-0 16 0 9
 0 9 4 6
+0 16 0 9
 1
 end_operator
 begin_operator
 feast triumph beef baguette alsace guanabara
 0
 2
-0 16 1 0
 0 12 5 0
+0 16 1 0
 1
 end_operator
 begin_operator
 feast triumph beef baguette arizona oregon
 0
 2
-0 16 1 0
 0 12 7 1
+0 16 1 0
 1
 end_operator
 begin_operator
 feast triumph beef baguette bosnia bavaria
 0
 2
-0 16 1 0
 0 12 2 3
+0 16 1 0
 1
 end_operator
 begin_operator
 feast triumph beef baguette goias manitoba
 0
 2
-0 16 1 0
 0 12 6 4
+0 16 1 0
 1
 end_operator
 begin_operator
 feast triumph beef baguette guanabara arizona
 0
 2
-0 16 1 0
 0 12 1 5
+0 16 1 0
 1
 end_operator
 begin_operator
 feast triumph beef baguette manitoba surrey
 0
 2
-0 16 1 0
 0 12 10 6
+0 16 1 0
 1
 end_operator
 begin_operator
 feast triumph beef baguette oregon bosnia
 0
 2
-0 16 1 0
 0 12 3 7
+0 16 1 0
 1
 end_operator
 begin_operator
 feast triumph beef baguette pennsylvania alsace
 0
 2
-0 16 1 0
 0 12 0 8
+0 16 1 0
 1
 end_operator
 begin_operator
 feast triumph beef baguette quebec goias
 0
 2
-0 16 1 0
 0 12 4 9
+0 16 1 0
 1
 end_operator
 begin_operator
 feast triumph beef baguette surrey pennsylvania
 0
 2
-0 16 1 0
 0 12 8 10
+0 16 1 0
 1
 end_operator
 begin_operator
 feast triumph beef hamburger alsace guanabara
 0
 2
-0 16 1 5
 0 12 5 0
+0 16 1 5
 1
 end_operator
 begin_operator
 feast triumph beef hamburger arizona oregon
 0
 2
-0 16 1 5
 0 12 7 1
+0 16 1 5
 1
 end_operator
 begin_operator
 feast triumph beef hamburger bosnia bavaria
 0
 2
-0 16 1 5
 0 12 2 3
+0 16 1 5
 1
 end_operator
 begin_operator
 feast triumph beef hamburger goias manitoba
 0
 2
-0 16 1 5
 0 12 6 4
+0 16 1 5
 1
 end_operator
 begin_operator
 feast triumph beef hamburger guanabara arizona
 0
 2
-0 16 1 5
 0 12 1 5
+0 16 1 5
 1
 end_operator
 begin_operator
 feast triumph beef hamburger manitoba surrey
 0
 2
-0 16 1 5
 0 12 10 6
+0 16 1 5
 1
 end_operator
 begin_operator
 feast triumph beef hamburger oregon bosnia
 0
 2
-0 16 1 5
 0 12 3 7
+0 16 1 5
 1
 end_operator
 begin_operator
 feast triumph beef hamburger pennsylvania alsace
 0
 2
-0 16 1 5
 0 12 0 8
+0 16 1 5
 1
 end_operator
 begin_operator
 feast triumph beef hamburger quebec goias
 0
 2
-0 16 1 5
 0 12 4 9
+0 16 1 5
 1
 end_operator
 begin_operator
 feast triumph beef hamburger surrey pennsylvania
 0
 2
-0 16 1 5
 0 12 8 10
+0 16 1 5
 1
 end_operator
 begin_operator
 feast triumph beef hotdog alsace guanabara
 0
 2
-0 16 1 6
 0 12 5 0
+0 16 1 6
 1
 end_operator
 begin_operator
 feast triumph beef hotdog arizona oregon
 0
 2
-0 16 1 6
 0 12 7 1
+0 16 1 6
 1
 end_operator
 begin_operator
 feast triumph beef hotdog bosnia bavaria
 0
 2
-0 16 1 6
 0 12 2 3
+0 16 1 6
 1
 end_operator
 begin_operator
 feast triumph beef hotdog goias manitoba
 0
 2
-0 16 1 6
 0 12 6 4
+0 16 1 6
 1
 end_operator
 begin_operator
 feast triumph beef hotdog guanabara arizona
 0
 2
-0 16 1 6
 0 12 1 5
+0 16 1 6
 1
 end_operator
 begin_operator
 feast triumph beef hotdog manitoba surrey
 0
 2
-0 16 1 6
 0 12 10 6
+0 16 1 6
 1
 end_operator
 begin_operator
 feast triumph beef hotdog oregon bosnia
 0
 2
-0 16 1 6
 0 12 3 7
+0 16 1 6
 1
 end_operator
 begin_operator
 feast triumph beef hotdog pennsylvania alsace
 0
 2
-0 16 1 6
 0 12 0 8
+0 16 1 6
 1
 end_operator
 begin_operator
 feast triumph beef hotdog quebec goias
 0
 2
-0 16 1 6
 0 12 4 9
+0 16 1 6
 1
 end_operator
 begin_operator
 feast triumph beef hotdog surrey pennsylvania
 0
 2
-0 16 1 6
 0 12 8 10
+0 16 1 6
 1
 end_operator
 begin_operator
 feast triumph chicken hotdog goias manitoba
 0
 2
-0 16 2 6
 0 1 1 0
+0 16 2 6
 1
 end_operator
 begin_operator
 feast triumph chicken hotdog manitoba surrey
 0
 2
-0 16 2 6
 0 1 3 1
+0 16 2 6
 1
 end_operator
 begin_operator
 feast triumph chicken hotdog quebec goias
 0
 2
-0 16 2 6
 0 1 0 2
+0 16 2 6
 1
 end_operator
 begin_operator
 feast triumph chicken mutton goias manitoba
 0
 2
-0 16 2 8
 0 1 1 0
+0 16 2 8
 1
 end_operator
 begin_operator
 feast triumph chicken mutton manitoba surrey
 0
 2
-0 16 2 8
 0 1 3 1
+0 16 2 8
 1
 end_operator
 begin_operator
 feast triumph chicken mutton quebec goias
 0
 2
-0 16 2 8
 0 1 0 2
+0 16 2 8
 1
 end_operator
 begin_operator
 feast triumph chicken turkey goias manitoba
 0
 2
-0 16 2 11
 0 1 1 0
+0 16 2 11
 1
 end_operator
 begin_operator
 feast triumph chicken turkey manitoba surrey
 0
 2
-0 16 2 11
 0 1 3 1
+0 16 2 11
 1
 end_operator
 begin_operator
 feast triumph chicken turkey quebec goias
 0
 2
-0 16 2 11
 0 1 0 2
+0 16 2 11
 1
 end_operator
 begin_operator
 feast triumph cucumber baguette alsace guanabara
 0
 2
-0 16 3 0
 0 13 5 0
+0 16 3 0
 1
 end_operator
 begin_operator
 feast triumph cucumber baguette arizona oregon
 0
 2
-0 16 3 0
 0 13 7 1
+0 16 3 0
 1
 end_operator
 begin_operator
 feast triumph cucumber baguette bosnia bavaria
 0
 2
-0 16 3 0
 0 13 2 3
+0 16 3 0
 1
 end_operator
 begin_operator
 feast triumph cucumber baguette goias manitoba
 0
 2
-0 16 3 0
 0 13 6 4
+0 16 3 0
 1
 end_operator
 begin_operator
 feast triumph cucumber baguette guanabara arizona
 0
 2
-0 16 3 0
 0 13 1 5
+0 16 3 0
 1
 end_operator
 begin_operator
 feast triumph cucumber baguette manitoba surrey
 0
 2
-0 16 3 0
 0 13 10 6
+0 16 3 0
 1
 end_operator
 begin_operator
 feast triumph cucumber baguette oregon bosnia
 0
 2
-0 16 3 0
 0 13 3 7
+0 16 3 0
 1
 end_operator
 begin_operator
 feast triumph cucumber baguette pennsylvania alsace
 0
 2
-0 16 3 0
 0 13 0 8
+0 16 3 0
 1
 end_operator
 begin_operator
 feast triumph cucumber baguette quebec goias
 0
 2
-0 16 3 0
 0 13 4 9
+0 16 3 0
 1
 end_operator
 begin_operator
 feast triumph cucumber baguette surrey pennsylvania
 0
 2
-0 16 3 0
 0 13 8 10
+0 16 3 0
 1
 end_operator
 begin_operator
 feast triumph cucumber hotdog alsace guanabara
 0
 2
-0 16 3 6
 0 13 5 0
+0 16 3 6
 1
 end_operator
 begin_operator
 feast triumph cucumber hotdog arizona oregon
 0
 2
-0 16 3 6
 0 13 7 1
+0 16 3 6
 1
 end_operator
 begin_operator
 feast triumph cucumber hotdog bosnia bavaria
 0
 2
-0 16 3 6
 0 13 2 3
+0 16 3 6
 1
 end_operator
 begin_operator
 feast triumph cucumber hotdog goias manitoba
 0
 2
-0 16 3 6
 0 13 6 4
+0 16 3 6
 1
 end_operator
 begin_operator
 feast triumph cucumber hotdog guanabara arizona
 0
 2
-0 16 3 6
 0 13 1 5
+0 16 3 6
 1
 end_operator
 begin_operator
 feast triumph cucumber hotdog manitoba surrey
 0
 2
-0 16 3 6
 0 13 10 6
+0 16 3 6
 1
 end_operator
 begin_operator
 feast triumph cucumber hotdog oregon bosnia
 0
 2
-0 16 3 6
 0 13 3 7
+0 16 3 6
 1
 end_operator
 begin_operator
 feast triumph cucumber hotdog pennsylvania alsace
 0
 2
-0 16 3 6
 0 13 0 8
+0 16 3 6
 1
 end_operator
 begin_operator
 feast triumph cucumber hotdog quebec goias
 0
 2
-0 16 3 6
 0 13 4 9
+0 16 3 6
 1
 end_operator
 begin_operator
 feast triumph cucumber hotdog surrey pennsylvania
 0
 2
-0 16 3 6
 0 13 8 10
+0 16 3 6
 1
 end_operator
 begin_operator
 feast triumph cucumber turkey alsace guanabara
 0
 2
-0 16 3 11
 0 13 5 0
+0 16 3 11
 1
 end_operator
 begin_operator
 feast triumph cucumber turkey arizona oregon
 0
 2
-0 16 3 11
 0 13 7 1
+0 16 3 11
 1
 end_operator
 begin_operator
 feast triumph cucumber turkey bosnia bavaria
 0
 2
-0 16 3 11
 0 13 2 3
+0 16 3 11
 1
 end_operator
 begin_operator
 feast triumph cucumber turkey goias manitoba
 0
 2
-0 16 3 11
 0 13 6 4
+0 16 3 11
 1
 end_operator
 begin_operator
 feast triumph cucumber turkey guanabara arizona
 0
 2
-0 16 3 11
 0 13 1 5
+0 16 3 11
 1
 end_operator
 begin_operator
 feast triumph cucumber turkey manitoba surrey
 0
 2
-0 16 3 11
 0 13 10 6
+0 16 3 11
 1
 end_operator
 begin_operator
 feast triumph cucumber turkey oregon bosnia
 0
 2
-0 16 3 11
 0 13 3 7
+0 16 3 11
 1
 end_operator
 begin_operator
 feast triumph cucumber turkey pennsylvania alsace
 0
 2
-0 16 3 11
 0 13 0 8
+0 16 3 11
 1
 end_operator
 begin_operator
 feast triumph cucumber turkey quebec goias
 0
 2
-0 16 3 11
 0 13 4 9
+0 16 3 11
 1
 end_operator
 begin_operator
 feast triumph cucumber turkey surrey pennsylvania
 0
 2
-0 16 3 11
 0 13 8 10
+0 16 3 11
 1
 end_operator
 begin_operator
 feast triumph guava rice alsace guanabara
 0
 2
-0 16 4 9
 0 3 3 0
+0 16 4 9
 1
 end_operator
 begin_operator
 feast triumph guava rice arizona oregon
 0
 2
-0 16 4 9
 0 3 5 1
+0 16 4 9
 1
 end_operator
 begin_operator
 feast triumph guava rice goias manitoba
 0
 2
-0 16 4 9
 0 3 4 2
+0 16 4 9
 1
 end_operator
 begin_operator
 feast triumph guava rice guanabara arizona
 0
 2
-0 16 4 9
 0 3 1 3
+0 16 4 9
 1
 end_operator
 begin_operator
 feast triumph guava rice manitoba surrey
 0
 2
-0 16 4 9
 0 3 8 4
+0 16 4 9
 1
 end_operator
 begin_operator
 feast triumph guava rice pennsylvania alsace
 0
 2
-0 16 4 9
 0 3 0 6
+0 16 4 9
 1
 end_operator
 begin_operator
 feast triumph guava rice quebec goias
 0
 2
-0 16 4 9
 0 3 2 7
+0 16 4 9
 1
 end_operator
 begin_operator
 feast triumph guava rice surrey pennsylvania
 0
 2
-0 16 4 9
 0 3 6 8
+0 16 4 9
 1
 end_operator
 begin_operator
 feast triumph guava yogurt alsace guanabara
 0
 2
-0 16 4 12
 0 3 3 0
+0 16 4 12
 1
 end_operator
 begin_operator
 feast triumph guava yogurt arizona oregon
 0
 2
-0 16 4 12
 0 3 5 1
+0 16 4 12
 1
 end_operator
 begin_operator
 feast triumph guava yogurt goias manitoba
 0
 2
-0 16 4 12
 0 3 4 2
+0 16 4 12
 1
 end_operator
 begin_operator
 feast triumph guava yogurt guanabara arizona
 0
 2
-0 16 4 12
 0 3 1 3
+0 16 4 12
 1
 end_operator
 begin_operator
 feast triumph guava yogurt manitoba surrey
 0
 2
-0 16 4 12
 0 3 8 4
+0 16 4 12
 1
 end_operator
 begin_operator
 feast triumph guava yogurt pennsylvania alsace
 0
 2
-0 16 4 12
 0 3 0 6
+0 16 4 12
 1
 end_operator
 begin_operator
 feast triumph guava yogurt quebec goias
 0
 2
-0 16 4 12
 0 3 2 7
+0 16 4 12
 1
 end_operator
 begin_operator
 feast triumph guava yogurt surrey pennsylvania
 0
 2
-0 16 4 12
 0 3 6 8
+0 16 4 12
 1
 end_operator
 begin_operator
 feast triumph hamburger beef alsace guanabara
 0
 2
-0 16 5 1
 0 8 5 0
+0 16 5 1
 1
 end_operator
 begin_operator
 feast triumph hamburger beef arizona oregon
 0
 2
-0 16 5 1
 0 8 7 1
+0 16 5 1
 1
 end_operator
 begin_operator
 feast triumph hamburger beef bosnia bavaria
 0
 2
-0 16 5 1
 0 8 2 3
+0 16 5 1
 1
 end_operator
 begin_operator
 feast triumph hamburger beef goias manitoba
 0
 2
-0 16 5 1
 0 8 6 4
+0 16 5 1
 1
 end_operator
 begin_operator
 feast triumph hamburger beef guanabara arizona
 0
 2
-0 16 5 1
 0 8 1 5
+0 16 5 1
 1
 end_operator
 begin_operator
 feast triumph hamburger beef manitoba surrey
 0
 2
-0 16 5 1
 0 8 10 6
+0 16 5 1
 1
 end_operator
 begin_operator
 feast triumph hamburger beef oregon bosnia
 0
 2
-0 16 5 1
 0 8 3 7
+0 16 5 1
 1
 end_operator
 begin_operator
 feast triumph hamburger beef pennsylvania alsace
 0
 2
-0 16 5 1
 0 8 0 8
+0 16 5 1
 1
 end_operator
 begin_operator
 feast triumph hamburger beef quebec goias
 0
 2
-0 16 5 1
 0 8 4 9
+0 16 5 1
 1
 end_operator
 begin_operator
 feast triumph hamburger beef surrey pennsylvania
 0
 2
-0 16 5 1
 0 8 8 10
+0 16 5 1
 1
 end_operator
 begin_operator
 feast triumph hamburger hotdog alsace guanabara
 0
 2
-0 16 5 6
 0 8 5 0
+0 16 5 6
 1
 end_operator
 begin_operator
 feast triumph hamburger hotdog arizona oregon
 0
 2
-0 16 5 6
 0 8 7 1
+0 16 5 6
 1
 end_operator
 begin_operator
 feast triumph hamburger hotdog bosnia bavaria
 0
 2
-0 16 5 6
 0 8 2 3
+0 16 5 6
 1
 end_operator
 begin_operator
 feast triumph hamburger hotdog goias manitoba
 0
 2
-0 16 5 6
 0 8 6 4
+0 16 5 6
 1
 end_operator
 begin_operator
 feast triumph hamburger hotdog guanabara arizona
 0
 2
-0 16 5 6
 0 8 1 5
+0 16 5 6
 1
 end_operator
 begin_operator
 feast triumph hamburger hotdog manitoba surrey
 0
 2
-0 16 5 6
 0 8 10 6
+0 16 5 6
 1
 end_operator
 begin_operator
 feast triumph hamburger hotdog oregon bosnia
 0
 2
-0 16 5 6
 0 8 3 7
+0 16 5 6
 1
 end_operator
 begin_operator
 feast triumph hamburger hotdog pennsylvania alsace
 0
 2
-0 16 5 6
 0 8 0 8
+0 16 5 6
 1
 end_operator
 begin_operator
 feast triumph hamburger hotdog quebec goias
 0
 2
-0 16 5 6
 0 8 4 9
+0 16 5 6
 1
 end_operator
 begin_operator
 feast triumph hamburger hotdog surrey pennsylvania
 0
 2
-0 16 5 6
 0 8 8 10
+0 16 5 6
 1
 end_operator
 begin_operator
@@ -10702,656 +10702,656 @@ begin_operator
 feast triumph muffin baguette alsace guanabara
 0
 2
-0 16 7 0
 0 4 3 0
+0 16 7 0
 1
 end_operator
 begin_operator
 feast triumph muffin baguette arizona oregon
 0
 2
-0 16 7 0
 0 4 5 1
+0 16 7 0
 1
 end_operator
 begin_operator
 feast triumph muffin baguette goias manitoba
 0
 2
-0 16 7 0
 0 4 4 2
+0 16 7 0
 1
 end_operator
 begin_operator
 feast triumph muffin baguette guanabara arizona
 0
 2
-0 16 7 0
 0 4 1 3
+0 16 7 0
 1
 end_operator
 begin_operator
 feast triumph muffin baguette manitoba surrey
 0
 2
-0 16 7 0
 0 4 8 4
+0 16 7 0
 1
 end_operator
 begin_operator
 feast triumph muffin baguette pennsylvania alsace
 0
 2
-0 16 7 0
 0 4 0 6
+0 16 7 0
 1
 end_operator
 begin_operator
 feast triumph muffin baguette quebec goias
 0
 2
-0 16 7 0
 0 4 2 7
+0 16 7 0
 1
 end_operator
 begin_operator
 feast triumph muffin baguette surrey pennsylvania
 0
 2
-0 16 7 0
 0 4 6 8
+0 16 7 0
 1
 end_operator
 begin_operator
 feast triumph muffin turkey alsace guanabara
 0
 2
-0 16 7 11
 0 4 3 0
+0 16 7 11
 1
 end_operator
 begin_operator
 feast triumph muffin turkey arizona oregon
 0
 2
-0 16 7 11
 0 4 5 1
+0 16 7 11
 1
 end_operator
 begin_operator
 feast triumph muffin turkey goias manitoba
 0
 2
-0 16 7 11
 0 4 4 2
+0 16 7 11
 1
 end_operator
 begin_operator
 feast triumph muffin turkey guanabara arizona
 0
 2
-0 16 7 11
 0 4 1 3
+0 16 7 11
 1
 end_operator
 begin_operator
 feast triumph muffin turkey manitoba surrey
 0
 2
-0 16 7 11
 0 4 8 4
+0 16 7 11
 1
 end_operator
 begin_operator
 feast triumph muffin turkey pennsylvania alsace
 0
 2
-0 16 7 11
 0 4 0 6
+0 16 7 11
 1
 end_operator
 begin_operator
 feast triumph muffin turkey quebec goias
 0
 2
-0 16 7 11
 0 4 2 7
+0 16 7 11
 1
 end_operator
 begin_operator
 feast triumph muffin turkey surrey pennsylvania
 0
 2
-0 16 7 11
 0 4 6 8
+0 16 7 11
 1
 end_operator
 begin_operator
 feast triumph mutton chicken quebec goias
 0
 2
-0 16 8 2
 0 0 0 1
+0 16 8 2
 1
 end_operator
 begin_operator
 feast triumph mutton hotdog quebec goias
 0
 2
-0 16 8 6
 0 0 0 1
+0 16 8 6
 1
 end_operator
 begin_operator
 feast triumph rice baguette alsace guanabara
 0
 2
-0 16 9 0
 0 6 2 0
+0 16 9 0
 1
 end_operator
 begin_operator
 feast triumph rice baguette goias manitoba
 0
 2
-0 16 9 0
 0 6 3 1
+0 16 9 0
 1
 end_operator
 begin_operator
 feast triumph rice baguette manitoba surrey
 0
 2
-0 16 9 0
 0 6 6 3
+0 16 9 0
 1
 end_operator
 begin_operator
 feast triumph rice baguette pennsylvania alsace
 0
 2
-0 16 9 0
 0 6 0 4
+0 16 9 0
 1
 end_operator
 begin_operator
 feast triumph rice baguette quebec goias
 0
 2
-0 16 9 0
 0 6 1 5
+0 16 9 0
 1
 end_operator
 begin_operator
 feast triumph rice baguette surrey pennsylvania
 0
 2
-0 16 9 0
 0 6 4 6
+0 16 9 0
 1
 end_operator
 begin_operator
 feast triumph rice guava alsace guanabara
 0
 2
-0 16 9 4
 0 6 2 0
+0 16 9 4
 1
 end_operator
 begin_operator
 feast triumph rice guava goias manitoba
 0
 2
-0 16 9 4
 0 6 3 1
+0 16 9 4
 1
 end_operator
 begin_operator
 feast triumph rice guava manitoba surrey
 0
 2
-0 16 9 4
 0 6 6 3
+0 16 9 4
 1
 end_operator
 begin_operator
 feast triumph rice guava pennsylvania alsace
 0
 2
-0 16 9 4
 0 6 0 4
+0 16 9 4
 1
 end_operator
 begin_operator
 feast triumph rice guava quebec goias
 0
 2
-0 16 9 4
 0 6 1 5
+0 16 9 4
 1
 end_operator
 begin_operator
 feast triumph rice guava surrey pennsylvania
 0
 2
-0 16 9 4
 0 6 4 6
+0 16 9 4
 1
 end_operator
 begin_operator
 feast triumph rice scallop alsace guanabara
 0
 2
-0 16 9 10
 0 6 2 0
+0 16 9 10
 1
 end_operator
 begin_operator
 feast triumph rice scallop goias manitoba
 0
 2
-0 16 9 10
 0 6 3 1
+0 16 9 10
 1
 end_operator
 begin_operator
 feast triumph rice scallop manitoba surrey
 0
 2
-0 16 9 10
 0 6 6 3
+0 16 9 10
 1
 end_operator
 begin_operator
 feast triumph rice scallop pennsylvania alsace
 0
 2
-0 16 9 10
 0 6 0 4
+0 16 9 10
 1
 end_operator
 begin_operator
 feast triumph rice scallop quebec goias
 0
 2
-0 16 9 10
 0 6 1 5
+0 16 9 10
 1
 end_operator
 begin_operator
 feast triumph rice scallop surrey pennsylvania
 0
 2
-0 16 9 10
 0 6 4 6
+0 16 9 10
 1
 end_operator
 begin_operator
 feast triumph scallop rice alsace guanabara
 0
 2
-0 16 10 9
 0 5 3 0
+0 16 10 9
 1
 end_operator
 begin_operator
 feast triumph scallop rice arizona oregon
 0
 2
-0 16 10 9
 0 5 5 1
+0 16 10 9
 1
 end_operator
 begin_operator
 feast triumph scallop rice goias manitoba
 0
 2
-0 16 10 9
 0 5 4 2
+0 16 10 9
 1
 end_operator
 begin_operator
 feast triumph scallop rice guanabara arizona
 0
 2
-0 16 10 9
 0 5 1 3
+0 16 10 9
 1
 end_operator
 begin_operator
 feast triumph scallop rice manitoba surrey
 0
 2
-0 16 10 9
 0 5 8 4
+0 16 10 9
 1
 end_operator
 begin_operator
 feast triumph scallop rice pennsylvania alsace
 0
 2
-0 16 10 9
 0 5 0 6
+0 16 10 9
 1
 end_operator
 begin_operator
 feast triumph scallop rice quebec goias
 0
 2
-0 16 10 9
 0 5 2 7
+0 16 10 9
 1
 end_operator
 begin_operator
 feast triumph scallop rice surrey pennsylvania
 0
 2
-0 16 10 9
 0 5 6 8
+0 16 10 9
 1
 end_operator
 begin_operator
 feast triumph scallop yogurt alsace guanabara
 0
 2
-0 16 10 12
 0 5 3 0
+0 16 10 12
 1
 end_operator
 begin_operator
 feast triumph scallop yogurt arizona oregon
 0
 2
-0 16 10 12
 0 5 5 1
+0 16 10 12
 1
 end_operator
 begin_operator
 feast triumph scallop yogurt goias manitoba
 0
 2
-0 16 10 12
 0 5 4 2
+0 16 10 12
 1
 end_operator
 begin_operator
 feast triumph scallop yogurt guanabara arizona
 0
 2
-0 16 10 12
 0 5 1 3
+0 16 10 12
 1
 end_operator
 begin_operator
 feast triumph scallop yogurt manitoba surrey
 0
 2
-0 16 10 12
 0 5 8 4
+0 16 10 12
 1
 end_operator
 begin_operator
 feast triumph scallop yogurt pennsylvania alsace
 0
 2
-0 16 10 12
 0 5 0 6
+0 16 10 12
 1
 end_operator
 begin_operator
 feast triumph scallop yogurt quebec goias
 0
 2
-0 16 10 12
 0 5 2 7
+0 16 10 12
 1
 end_operator
 begin_operator
 feast triumph scallop yogurt surrey pennsylvania
 0
 2
-0 16 10 12
 0 5 6 8
+0 16 10 12
 1
 end_operator
 begin_operator
 feast triumph turkey chicken goias manitoba
 0
 2
-0 16 11 2
 0 2 1 0
+0 16 11 2
 1
 end_operator
 begin_operator
 feast triumph turkey chicken manitoba surrey
 0
 2
-0 16 11 2
 0 2 4 1
+0 16 11 2
 1
 end_operator
 begin_operator
 feast triumph turkey chicken quebec goias
 0
 2
-0 16 11 2
 0 2 0 3
+0 16 11 2
 1
 end_operator
 begin_operator
 feast triumph turkey chicken surrey pennsylvania
 0
 2
-0 16 11 2
 0 2 2 4
+0 16 11 2
 1
 end_operator
 begin_operator
 feast triumph turkey cucumber goias manitoba
 0
 2
-0 16 11 3
 0 2 1 0
+0 16 11 3
 1
 end_operator
 begin_operator
 feast triumph turkey cucumber manitoba surrey
 0
 2
-0 16 11 3
 0 2 4 1
+0 16 11 3
 1
 end_operator
 begin_operator
 feast triumph turkey cucumber quebec goias
 0
 2
-0 16 11 3
 0 2 0 3
+0 16 11 3
 1
 end_operator
 begin_operator
 feast triumph turkey cucumber surrey pennsylvania
 0
 2
-0 16 11 3
 0 2 2 4
+0 16 11 3
 1
 end_operator
 begin_operator
 feast triumph turkey muffin goias manitoba
 0
 2
-0 16 11 7
 0 2 1 0
+0 16 11 7
 1
 end_operator
 begin_operator
 feast triumph turkey muffin manitoba surrey
 0
 2
-0 16 11 7
 0 2 4 1
+0 16 11 7
 1
 end_operator
 begin_operator
 feast triumph turkey muffin quebec goias
 0
 2
-0 16 11 7
 0 2 0 3
+0 16 11 7
 1
 end_operator
 begin_operator
 feast triumph turkey muffin surrey pennsylvania
 0
 2
-0 16 11 7
 0 2 2 4
+0 16 11 7
 1
 end_operator
 begin_operator
 feast triumph yogurt guava alsace guanabara
 0
 2
-0 16 12 4
 0 7 4 0
+0 16 12 4
 1
 end_operator
 begin_operator
 feast triumph yogurt guava arizona oregon
 0
 2
-0 16 12 4
 0 7 6 1
+0 16 12 4
 1
 end_operator
 begin_operator
 feast triumph yogurt guava goias manitoba
 0
 2
-0 16 12 4
 0 7 5 3
+0 16 12 4
 1
 end_operator
 begin_operator
 feast triumph yogurt guava guanabara arizona
 0
 2
-0 16 12 4
 0 7 1 4
+0 16 12 4
 1
 end_operator
 begin_operator
 feast triumph yogurt guava manitoba surrey
 0
 2
-0 16 12 4
 0 7 9 5
+0 16 12 4
 1
 end_operator
 begin_operator
 feast triumph yogurt guava oregon bosnia
 0
 2
-0 16 12 4
 0 7 2 6
+0 16 12 4
 1
 end_operator
 begin_operator
 feast triumph yogurt guava pennsylvania alsace
 0
 2
-0 16 12 4
 0 7 0 7
+0 16 12 4
 1
 end_operator
 begin_operator
 feast triumph yogurt guava quebec goias
 0
 2
-0 16 12 4
 0 7 3 8
+0 16 12 4
 1
 end_operator
 begin_operator
 feast triumph yogurt guava surrey pennsylvania
 0
 2
-0 16 12 4
 0 7 7 9
+0 16 12 4
 1
 end_operator
 begin_operator
 feast triumph yogurt scallop alsace guanabara
 0
 2
-0 16 12 10
 0 7 4 0
+0 16 12 10
 1
 end_operator
 begin_operator
 feast triumph yogurt scallop arizona oregon
 0
 2
-0 16 12 10
 0 7 6 1
+0 16 12 10
 1
 end_operator
 begin_operator
 feast triumph yogurt scallop goias manitoba
 0
 2
-0 16 12 10
 0 7 5 3
+0 16 12 10
 1
 end_operator
 begin_operator
 feast triumph yogurt scallop guanabara arizona
 0
 2
-0 16 12 10
 0 7 1 4
+0 16 12 10
 1
 end_operator
 begin_operator
 feast triumph yogurt scallop manitoba surrey
 0
 2
-0 16 12 10
 0 7 9 5
+0 16 12 10
 1
 end_operator
 begin_operator
 feast triumph yogurt scallop oregon bosnia
 0
 2
-0 16 12 10
 0 7 2 6
+0 16 12 10
 1
 end_operator
 begin_operator
 feast triumph yogurt scallop pennsylvania alsace
 0
 2
-0 16 12 10
 0 7 0 7
+0 16 12 10
 1
 end_operator
 begin_operator
 feast triumph yogurt scallop quebec goias
 0
 2
-0 16 12 10
 0 7 3 8
+0 16 12 10
 1
 end_operator
 begin_operator
 feast triumph yogurt scallop surrey pennsylvania
 0
 2
-0 16 12 10
 0 7 7 9
+0 16 12 10
 1
 end_operator
 begin_operator
@@ -13114,8 +13114,8 @@ overcome anxiety achievement baguette mars vulcan
 1
 10 0
 2
-0 27 0 13
 0 21 3 0
+0 27 0 13
 1
 end_operator
 begin_operator
@@ -13123,8 +13123,8 @@ overcome anxiety achievement baguette neptune venus
 1
 10 0
 2
-0 27 0 13
 0 21 2 1
+0 27 0 13
 1
 end_operator
 begin_operator
@@ -13132,8 +13132,8 @@ overcome anxiety achievement baguette vulcan neptune
 1
 10 0
 2
-0 27 0 13
 0 21 1 3
+0 27 0 13
 1
 end_operator
 begin_operator
@@ -13141,8 +13141,8 @@ overcome anxiety achievement beef mars vulcan
 1
 10 1
 2
-0 27 1 13
 0 21 3 0
+0 27 1 13
 1
 end_operator
 begin_operator
@@ -13150,8 +13150,8 @@ overcome anxiety achievement beef neptune venus
 1
 10 1
 2
-0 27 1 13
 0 21 2 1
+0 27 1 13
 1
 end_operator
 begin_operator
@@ -13159,8 +13159,8 @@ overcome anxiety achievement beef vulcan neptune
 1
 10 1
 2
-0 27 1 13
 0 21 1 3
+0 27 1 13
 1
 end_operator
 begin_operator
@@ -13168,8 +13168,8 @@ overcome anxiety achievement chicken mars vulcan
 1
 10 2
 2
-0 27 2 13
 0 21 3 0
+0 27 2 13
 1
 end_operator
 begin_operator
@@ -13177,8 +13177,8 @@ overcome anxiety achievement chicken neptune venus
 1
 10 2
 2
-0 27 2 13
 0 21 2 1
+0 27 2 13
 1
 end_operator
 begin_operator
@@ -13186,8 +13186,8 @@ overcome anxiety achievement chicken vulcan neptune
 1
 10 2
 2
-0 27 2 13
 0 21 1 3
+0 27 2 13
 1
 end_operator
 begin_operator
@@ -13195,8 +13195,8 @@ overcome anxiety achievement cucumber mars vulcan
 1
 10 3
 2
-0 27 3 13
 0 21 3 0
+0 27 3 13
 1
 end_operator
 begin_operator
@@ -13204,8 +13204,8 @@ overcome anxiety achievement cucumber neptune venus
 1
 10 3
 2
-0 27 3 13
 0 21 2 1
+0 27 3 13
 1
 end_operator
 begin_operator
@@ -13213,8 +13213,8 @@ overcome anxiety achievement cucumber vulcan neptune
 1
 10 3
 2
-0 27 3 13
 0 21 1 3
+0 27 3 13
 1
 end_operator
 begin_operator
@@ -13222,8 +13222,8 @@ overcome anxiety achievement guava mars vulcan
 1
 10 4
 2
-0 27 4 13
 0 21 3 0
+0 27 4 13
 1
 end_operator
 begin_operator
@@ -13231,8 +13231,8 @@ overcome anxiety achievement guava neptune venus
 1
 10 4
 2
-0 27 4 13
 0 21 2 1
+0 27 4 13
 1
 end_operator
 begin_operator
@@ -13240,8 +13240,8 @@ overcome anxiety achievement guava vulcan neptune
 1
 10 4
 2
-0 27 4 13
 0 21 1 3
+0 27 4 13
 1
 end_operator
 begin_operator
@@ -13249,8 +13249,8 @@ overcome anxiety achievement hamburger mars vulcan
 1
 10 5
 2
-0 27 5 13
 0 21 3 0
+0 27 5 13
 1
 end_operator
 begin_operator
@@ -13258,8 +13258,8 @@ overcome anxiety achievement hamburger neptune venus
 1
 10 5
 2
-0 27 5 13
 0 21 2 1
+0 27 5 13
 1
 end_operator
 begin_operator
@@ -13267,8 +13267,8 @@ overcome anxiety achievement hamburger vulcan neptune
 1
 10 5
 2
-0 27 5 13
 0 21 1 3
+0 27 5 13
 1
 end_operator
 begin_operator
@@ -13276,8 +13276,8 @@ overcome anxiety achievement hotdog mars vulcan
 1
 10 6
 2
-0 27 6 13
 0 21 3 0
+0 27 6 13
 1
 end_operator
 begin_operator
@@ -13285,8 +13285,8 @@ overcome anxiety achievement hotdog neptune venus
 1
 10 6
 2
-0 27 6 13
 0 21 2 1
+0 27 6 13
 1
 end_operator
 begin_operator
@@ -13294,8 +13294,8 @@ overcome anxiety achievement hotdog vulcan neptune
 1
 10 6
 2
-0 27 6 13
 0 21 1 3
+0 27 6 13
 1
 end_operator
 begin_operator
@@ -13303,8 +13303,8 @@ overcome anxiety achievement muffin mars vulcan
 1
 10 7
 2
-0 27 7 13
 0 21 3 0
+0 27 7 13
 1
 end_operator
 begin_operator
@@ -13312,8 +13312,8 @@ overcome anxiety achievement muffin neptune venus
 1
 10 7
 2
-0 27 7 13
 0 21 2 1
+0 27 7 13
 1
 end_operator
 begin_operator
@@ -13321,8 +13321,8 @@ overcome anxiety achievement muffin vulcan neptune
 1
 10 7
 2
-0 27 7 13
 0 21 1 3
+0 27 7 13
 1
 end_operator
 begin_operator
@@ -13330,8 +13330,8 @@ overcome anxiety achievement mutton mars vulcan
 1
 10 8
 2
-0 27 8 13
 0 21 3 0
+0 27 8 13
 1
 end_operator
 begin_operator
@@ -13339,8 +13339,8 @@ overcome anxiety achievement mutton neptune venus
 1
 10 8
 2
-0 27 8 13
 0 21 2 1
+0 27 8 13
 1
 end_operator
 begin_operator
@@ -13348,8 +13348,8 @@ overcome anxiety achievement mutton vulcan neptune
 1
 10 8
 2
-0 27 8 13
 0 21 1 3
+0 27 8 13
 1
 end_operator
 begin_operator
@@ -13357,8 +13357,8 @@ overcome anxiety achievement rice mars vulcan
 1
 10 9
 2
-0 27 9 13
 0 21 3 0
+0 27 9 13
 1
 end_operator
 begin_operator
@@ -13366,8 +13366,8 @@ overcome anxiety achievement rice neptune venus
 1
 10 9
 2
-0 27 9 13
 0 21 2 1
+0 27 9 13
 1
 end_operator
 begin_operator
@@ -13375,8 +13375,8 @@ overcome anxiety achievement rice vulcan neptune
 1
 10 9
 2
-0 27 9 13
 0 21 1 3
+0 27 9 13
 1
 end_operator
 begin_operator
@@ -13384,8 +13384,8 @@ overcome anxiety achievement scallop mars vulcan
 1
 10 10
 2
-0 27 10 13
 0 21 3 0
+0 27 10 13
 1
 end_operator
 begin_operator
@@ -13393,8 +13393,8 @@ overcome anxiety achievement scallop neptune venus
 1
 10 10
 2
-0 27 10 13
 0 21 2 1
+0 27 10 13
 1
 end_operator
 begin_operator
@@ -13402,8 +13402,8 @@ overcome anxiety achievement scallop vulcan neptune
 1
 10 10
 2
-0 27 10 13
 0 21 1 3
+0 27 10 13
 1
 end_operator
 begin_operator
@@ -13411,8 +13411,8 @@ overcome anxiety achievement turkey mars vulcan
 1
 10 11
 2
-0 27 11 13
 0 21 3 0
+0 27 11 13
 1
 end_operator
 begin_operator
@@ -13420,8 +13420,8 @@ overcome anxiety achievement turkey neptune venus
 1
 10 11
 2
-0 27 11 13
 0 21 2 1
+0 27 11 13
 1
 end_operator
 begin_operator
@@ -13429,8 +13429,8 @@ overcome anxiety achievement turkey vulcan neptune
 1
 10 11
 2
-0 27 11 13
 0 21 1 3
+0 27 11 13
 1
 end_operator
 begin_operator
@@ -13438,8 +13438,8 @@ overcome anxiety achievement yogurt mars vulcan
 1
 10 12
 2
-0 27 12 13
 0 21 3 0
+0 27 12 13
 1
 end_operator
 begin_operator
@@ -13447,8 +13447,8 @@ overcome anxiety achievement yogurt neptune venus
 1
 10 12
 2
-0 27 12 13
 0 21 2 1
+0 27 12 13
 1
 end_operator
 begin_operator
@@ -13456,8 +13456,8 @@ overcome anxiety achievement yogurt vulcan neptune
 1
 10 12
 2
-0 27 12 13
 0 21 1 3
+0 27 12 13
 1
 end_operator
 begin_operator
@@ -13465,8 +13465,8 @@ overcome anxiety excitement baguette mars vulcan
 1
 11 0
 2
-0 27 0 14
 0 22 3 0
+0 27 0 14
 1
 end_operator
 begin_operator
@@ -13474,8 +13474,8 @@ overcome anxiety excitement baguette neptune venus
 1
 11 0
 2
-0 27 0 14
 0 22 2 1
+0 27 0 14
 1
 end_operator
 begin_operator
@@ -13483,8 +13483,8 @@ overcome anxiety excitement baguette vulcan neptune
 1
 11 0
 2
-0 27 0 14
 0 22 1 3
+0 27 0 14
 1
 end_operator
 begin_operator
@@ -13492,8 +13492,8 @@ overcome anxiety excitement beef mars vulcan
 1
 11 1
 2
-0 27 1 14
 0 22 3 0
+0 27 1 14
 1
 end_operator
 begin_operator
@@ -13501,8 +13501,8 @@ overcome anxiety excitement beef neptune venus
 1
 11 1
 2
-0 27 1 14
 0 22 2 1
+0 27 1 14
 1
 end_operator
 begin_operator
@@ -13510,8 +13510,8 @@ overcome anxiety excitement beef vulcan neptune
 1
 11 1
 2
-0 27 1 14
 0 22 1 3
+0 27 1 14
 1
 end_operator
 begin_operator
@@ -13519,8 +13519,8 @@ overcome anxiety excitement chicken mars vulcan
 1
 11 2
 2
-0 27 2 14
 0 22 3 0
+0 27 2 14
 1
 end_operator
 begin_operator
@@ -13528,8 +13528,8 @@ overcome anxiety excitement chicken neptune venus
 1
 11 2
 2
-0 27 2 14
 0 22 2 1
+0 27 2 14
 1
 end_operator
 begin_operator
@@ -13537,8 +13537,8 @@ overcome anxiety excitement chicken vulcan neptune
 1
 11 2
 2
-0 27 2 14
 0 22 1 3
+0 27 2 14
 1
 end_operator
 begin_operator
@@ -13546,8 +13546,8 @@ overcome anxiety excitement cucumber mars vulcan
 1
 11 3
 2
-0 27 3 14
 0 22 3 0
+0 27 3 14
 1
 end_operator
 begin_operator
@@ -13555,8 +13555,8 @@ overcome anxiety excitement cucumber neptune venus
 1
 11 3
 2
-0 27 3 14
 0 22 2 1
+0 27 3 14
 1
 end_operator
 begin_operator
@@ -13564,8 +13564,8 @@ overcome anxiety excitement cucumber vulcan neptune
 1
 11 3
 2
-0 27 3 14
 0 22 1 3
+0 27 3 14
 1
 end_operator
 begin_operator
@@ -13573,8 +13573,8 @@ overcome anxiety excitement guava mars vulcan
 1
 11 4
 2
-0 27 4 14
 0 22 3 0
+0 27 4 14
 1
 end_operator
 begin_operator
@@ -13582,8 +13582,8 @@ overcome anxiety excitement guava neptune venus
 1
 11 4
 2
-0 27 4 14
 0 22 2 1
+0 27 4 14
 1
 end_operator
 begin_operator
@@ -13591,8 +13591,8 @@ overcome anxiety excitement guava vulcan neptune
 1
 11 4
 2
-0 27 4 14
 0 22 1 3
+0 27 4 14
 1
 end_operator
 begin_operator
@@ -13600,8 +13600,8 @@ overcome anxiety excitement hamburger mars vulcan
 1
 11 5
 2
-0 27 5 14
 0 22 3 0
+0 27 5 14
 1
 end_operator
 begin_operator
@@ -13609,8 +13609,8 @@ overcome anxiety excitement hamburger neptune venus
 1
 11 5
 2
-0 27 5 14
 0 22 2 1
+0 27 5 14
 1
 end_operator
 begin_operator
@@ -13618,8 +13618,8 @@ overcome anxiety excitement hamburger vulcan neptune
 1
 11 5
 2
-0 27 5 14
 0 22 1 3
+0 27 5 14
 1
 end_operator
 begin_operator
@@ -13627,8 +13627,8 @@ overcome anxiety excitement hotdog mars vulcan
 1
 11 6
 2
-0 27 6 14
 0 22 3 0
+0 27 6 14
 1
 end_operator
 begin_operator
@@ -13636,8 +13636,8 @@ overcome anxiety excitement hotdog neptune venus
 1
 11 6
 2
-0 27 6 14
 0 22 2 1
+0 27 6 14
 1
 end_operator
 begin_operator
@@ -13645,8 +13645,8 @@ overcome anxiety excitement hotdog vulcan neptune
 1
 11 6
 2
-0 27 6 14
 0 22 1 3
+0 27 6 14
 1
 end_operator
 begin_operator
@@ -13654,8 +13654,8 @@ overcome anxiety excitement muffin mars vulcan
 1
 11 7
 2
-0 27 7 14
 0 22 3 0
+0 27 7 14
 1
 end_operator
 begin_operator
@@ -13663,8 +13663,8 @@ overcome anxiety excitement muffin neptune venus
 1
 11 7
 2
-0 27 7 14
 0 22 2 1
+0 27 7 14
 1
 end_operator
 begin_operator
@@ -13672,8 +13672,8 @@ overcome anxiety excitement muffin vulcan neptune
 1
 11 7
 2
-0 27 7 14
 0 22 1 3
+0 27 7 14
 1
 end_operator
 begin_operator
@@ -13681,8 +13681,8 @@ overcome anxiety excitement mutton mars vulcan
 1
 11 8
 2
-0 27 8 14
 0 22 3 0
+0 27 8 14
 1
 end_operator
 begin_operator
@@ -13690,8 +13690,8 @@ overcome anxiety excitement mutton neptune venus
 1
 11 8
 2
-0 27 8 14
 0 22 2 1
+0 27 8 14
 1
 end_operator
 begin_operator
@@ -13699,8 +13699,8 @@ overcome anxiety excitement mutton vulcan neptune
 1
 11 8
 2
-0 27 8 14
 0 22 1 3
+0 27 8 14
 1
 end_operator
 begin_operator
@@ -13708,8 +13708,8 @@ overcome anxiety excitement rice mars vulcan
 1
 11 9
 2
-0 27 9 14
 0 22 3 0
+0 27 9 14
 1
 end_operator
 begin_operator
@@ -13717,8 +13717,8 @@ overcome anxiety excitement rice neptune venus
 1
 11 9
 2
-0 27 9 14
 0 22 2 1
+0 27 9 14
 1
 end_operator
 begin_operator
@@ -13726,8 +13726,8 @@ overcome anxiety excitement rice vulcan neptune
 1
 11 9
 2
-0 27 9 14
 0 22 1 3
+0 27 9 14
 1
 end_operator
 begin_operator
@@ -13735,8 +13735,8 @@ overcome anxiety excitement scallop mars vulcan
 1
 11 10
 2
-0 27 10 14
 0 22 3 0
+0 27 10 14
 1
 end_operator
 begin_operator
@@ -13744,8 +13744,8 @@ overcome anxiety excitement scallop neptune venus
 1
 11 10
 2
-0 27 10 14
 0 22 2 1
+0 27 10 14
 1
 end_operator
 begin_operator
@@ -13753,8 +13753,8 @@ overcome anxiety excitement scallop vulcan neptune
 1
 11 10
 2
-0 27 10 14
 0 22 1 3
+0 27 10 14
 1
 end_operator
 begin_operator
@@ -13762,8 +13762,8 @@ overcome anxiety excitement turkey mars vulcan
 1
 11 11
 2
-0 27 11 14
 0 22 3 0
+0 27 11 14
 1
 end_operator
 begin_operator
@@ -13771,8 +13771,8 @@ overcome anxiety excitement turkey neptune venus
 1
 11 11
 2
-0 27 11 14
 0 22 2 1
+0 27 11 14
 1
 end_operator
 begin_operator
@@ -13780,8 +13780,8 @@ overcome anxiety excitement turkey vulcan neptune
 1
 11 11
 2
-0 27 11 14
 0 22 1 3
+0 27 11 14
 1
 end_operator
 begin_operator
@@ -13789,8 +13789,8 @@ overcome anxiety excitement yogurt mars vulcan
 1
 11 12
 2
-0 27 12 14
 0 22 3 0
+0 27 12 14
 1
 end_operator
 begin_operator
@@ -13798,8 +13798,8 @@ overcome anxiety excitement yogurt neptune venus
 1
 11 12
 2
-0 27 12 14
 0 22 2 1
+0 27 12 14
 1
 end_operator
 begin_operator
@@ -13807,8 +13807,8 @@ overcome anxiety excitement yogurt vulcan neptune
 1
 11 12
 2
-0 27 12 14
 0 22 1 3
+0 27 12 14
 1
 end_operator
 begin_operator
@@ -13816,8 +13816,8 @@ overcome anxiety expectation baguette mars vulcan
 1
 14 0
 2
-0 27 0 15
 0 24 3 0
+0 27 0 15
 1
 end_operator
 begin_operator
@@ -13825,8 +13825,8 @@ overcome anxiety expectation baguette neptune venus
 1
 14 0
 2
-0 27 0 15
 0 24 2 1
+0 27 0 15
 1
 end_operator
 begin_operator
@@ -13834,8 +13834,8 @@ overcome anxiety expectation baguette vulcan neptune
 1
 14 0
 2
-0 27 0 15
 0 24 1 3
+0 27 0 15
 1
 end_operator
 begin_operator
@@ -13843,8 +13843,8 @@ overcome anxiety expectation beef mars vulcan
 1
 14 1
 2
-0 27 1 15
 0 24 3 0
+0 27 1 15
 1
 end_operator
 begin_operator
@@ -13852,8 +13852,8 @@ overcome anxiety expectation beef neptune venus
 1
 14 1
 2
-0 27 1 15
 0 24 2 1
+0 27 1 15
 1
 end_operator
 begin_operator
@@ -13861,8 +13861,8 @@ overcome anxiety expectation beef vulcan neptune
 1
 14 1
 2
-0 27 1 15
 0 24 1 3
+0 27 1 15
 1
 end_operator
 begin_operator
@@ -13870,8 +13870,8 @@ overcome anxiety expectation chicken mars vulcan
 1
 14 2
 2
-0 27 2 15
 0 24 3 0
+0 27 2 15
 1
 end_operator
 begin_operator
@@ -13879,8 +13879,8 @@ overcome anxiety expectation chicken neptune venus
 1
 14 2
 2
-0 27 2 15
 0 24 2 1
+0 27 2 15
 1
 end_operator
 begin_operator
@@ -13888,8 +13888,8 @@ overcome anxiety expectation chicken vulcan neptune
 1
 14 2
 2
-0 27 2 15
 0 24 1 3
+0 27 2 15
 1
 end_operator
 begin_operator
@@ -13897,8 +13897,8 @@ overcome anxiety expectation cucumber mars vulcan
 1
 14 3
 2
-0 27 3 15
 0 24 3 0
+0 27 3 15
 1
 end_operator
 begin_operator
@@ -13906,8 +13906,8 @@ overcome anxiety expectation cucumber neptune venus
 1
 14 3
 2
-0 27 3 15
 0 24 2 1
+0 27 3 15
 1
 end_operator
 begin_operator
@@ -13915,8 +13915,8 @@ overcome anxiety expectation cucumber vulcan neptune
 1
 14 3
 2
-0 27 3 15
 0 24 1 3
+0 27 3 15
 1
 end_operator
 begin_operator
@@ -13924,8 +13924,8 @@ overcome anxiety expectation guava mars vulcan
 1
 14 4
 2
-0 27 4 15
 0 24 3 0
+0 27 4 15
 1
 end_operator
 begin_operator
@@ -13933,8 +13933,8 @@ overcome anxiety expectation guava neptune venus
 1
 14 4
 2
-0 27 4 15
 0 24 2 1
+0 27 4 15
 1
 end_operator
 begin_operator
@@ -13942,8 +13942,8 @@ overcome anxiety expectation guava vulcan neptune
 1
 14 4
 2
-0 27 4 15
 0 24 1 3
+0 27 4 15
 1
 end_operator
 begin_operator
@@ -13951,8 +13951,8 @@ overcome anxiety expectation hamburger mars vulcan
 1
 14 5
 2
-0 27 5 15
 0 24 3 0
+0 27 5 15
 1
 end_operator
 begin_operator
@@ -13960,8 +13960,8 @@ overcome anxiety expectation hamburger neptune venus
 1
 14 5
 2
-0 27 5 15
 0 24 2 1
+0 27 5 15
 1
 end_operator
 begin_operator
@@ -13969,8 +13969,8 @@ overcome anxiety expectation hamburger vulcan neptune
 1
 14 5
 2
-0 27 5 15
 0 24 1 3
+0 27 5 15
 1
 end_operator
 begin_operator
@@ -13978,8 +13978,8 @@ overcome anxiety expectation hotdog mars vulcan
 1
 14 6
 2
-0 27 6 15
 0 24 3 0
+0 27 6 15
 1
 end_operator
 begin_operator
@@ -13987,8 +13987,8 @@ overcome anxiety expectation hotdog neptune venus
 1
 14 6
 2
-0 27 6 15
 0 24 2 1
+0 27 6 15
 1
 end_operator
 begin_operator
@@ -13996,8 +13996,8 @@ overcome anxiety expectation hotdog vulcan neptune
 1
 14 6
 2
-0 27 6 15
 0 24 1 3
+0 27 6 15
 1
 end_operator
 begin_operator
@@ -14005,8 +14005,8 @@ overcome anxiety expectation muffin mars vulcan
 1
 14 7
 2
-0 27 7 15
 0 24 3 0
+0 27 7 15
 1
 end_operator
 begin_operator
@@ -14014,8 +14014,8 @@ overcome anxiety expectation muffin neptune venus
 1
 14 7
 2
-0 27 7 15
 0 24 2 1
+0 27 7 15
 1
 end_operator
 begin_operator
@@ -14023,8 +14023,8 @@ overcome anxiety expectation muffin vulcan neptune
 1
 14 7
 2
-0 27 7 15
 0 24 1 3
+0 27 7 15
 1
 end_operator
 begin_operator
@@ -14032,8 +14032,8 @@ overcome anxiety expectation mutton mars vulcan
 1
 14 8
 2
-0 27 8 15
 0 24 3 0
+0 27 8 15
 1
 end_operator
 begin_operator
@@ -14041,8 +14041,8 @@ overcome anxiety expectation mutton neptune venus
 1
 14 8
 2
-0 27 8 15
 0 24 2 1
+0 27 8 15
 1
 end_operator
 begin_operator
@@ -14050,8 +14050,8 @@ overcome anxiety expectation mutton vulcan neptune
 1
 14 8
 2
-0 27 8 15
 0 24 1 3
+0 27 8 15
 1
 end_operator
 begin_operator
@@ -14059,8 +14059,8 @@ overcome anxiety expectation rice mars vulcan
 1
 14 9
 2
-0 27 9 15
 0 24 3 0
+0 27 9 15
 1
 end_operator
 begin_operator
@@ -14068,8 +14068,8 @@ overcome anxiety expectation rice neptune venus
 1
 14 9
 2
-0 27 9 15
 0 24 2 1
+0 27 9 15
 1
 end_operator
 begin_operator
@@ -14077,8 +14077,8 @@ overcome anxiety expectation rice vulcan neptune
 1
 14 9
 2
-0 27 9 15
 0 24 1 3
+0 27 9 15
 1
 end_operator
 begin_operator
@@ -14086,8 +14086,8 @@ overcome anxiety expectation scallop mars vulcan
 1
 14 10
 2
-0 27 10 15
 0 24 3 0
+0 27 10 15
 1
 end_operator
 begin_operator
@@ -14095,8 +14095,8 @@ overcome anxiety expectation scallop neptune venus
 1
 14 10
 2
-0 27 10 15
 0 24 2 1
+0 27 10 15
 1
 end_operator
 begin_operator
@@ -14104,8 +14104,8 @@ overcome anxiety expectation scallop vulcan neptune
 1
 14 10
 2
-0 27 10 15
 0 24 1 3
+0 27 10 15
 1
 end_operator
 begin_operator
@@ -14113,8 +14113,8 @@ overcome anxiety expectation turkey mars vulcan
 1
 14 11
 2
-0 27 11 15
 0 24 3 0
+0 27 11 15
 1
 end_operator
 begin_operator
@@ -14122,8 +14122,8 @@ overcome anxiety expectation turkey neptune venus
 1
 14 11
 2
-0 27 11 15
 0 24 2 1
+0 27 11 15
 1
 end_operator
 begin_operator
@@ -14131,8 +14131,8 @@ overcome anxiety expectation turkey vulcan neptune
 1
 14 11
 2
-0 27 11 15
 0 24 1 3
+0 27 11 15
 1
 end_operator
 begin_operator
@@ -14140,8 +14140,8 @@ overcome anxiety expectation yogurt mars vulcan
 1
 14 12
 2
-0 27 12 15
 0 24 3 0
+0 27 12 15
 1
 end_operator
 begin_operator
@@ -14149,8 +14149,8 @@ overcome anxiety expectation yogurt neptune venus
 1
 14 12
 2
-0 27 12 15
 0 24 2 1
+0 27 12 15
 1
 end_operator
 begin_operator
@@ -14158,8 +14158,8 @@ overcome anxiety expectation yogurt vulcan neptune
 1
 14 12
 2
-0 27 12 15
 0 24 1 3
+0 27 12 15
 1
 end_operator
 begin_operator
@@ -14167,8 +14167,8 @@ overcome anxiety intoxication baguette mars vulcan
 1
 15 0
 2
-0 27 0 16
 0 25 3 0
+0 27 0 16
 1
 end_operator
 begin_operator
@@ -14176,8 +14176,8 @@ overcome anxiety intoxication baguette neptune venus
 1
 15 0
 2
-0 27 0 16
 0 25 2 1
+0 27 0 16
 1
 end_operator
 begin_operator
@@ -14185,8 +14185,8 @@ overcome anxiety intoxication baguette vulcan neptune
 1
 15 0
 2
-0 27 0 16
 0 25 1 3
+0 27 0 16
 1
 end_operator
 begin_operator
@@ -14194,8 +14194,8 @@ overcome anxiety intoxication beef mars vulcan
 1
 15 1
 2
-0 27 1 16
 0 25 3 0
+0 27 1 16
 1
 end_operator
 begin_operator
@@ -14203,8 +14203,8 @@ overcome anxiety intoxication beef neptune venus
 1
 15 1
 2
-0 27 1 16
 0 25 2 1
+0 27 1 16
 1
 end_operator
 begin_operator
@@ -14212,8 +14212,8 @@ overcome anxiety intoxication beef vulcan neptune
 1
 15 1
 2
-0 27 1 16
 0 25 1 3
+0 27 1 16
 1
 end_operator
 begin_operator
@@ -14221,8 +14221,8 @@ overcome anxiety intoxication chicken mars vulcan
 1
 15 2
 2
-0 27 2 16
 0 25 3 0
+0 27 2 16
 1
 end_operator
 begin_operator
@@ -14230,8 +14230,8 @@ overcome anxiety intoxication chicken neptune venus
 1
 15 2
 2
-0 27 2 16
 0 25 2 1
+0 27 2 16
 1
 end_operator
 begin_operator
@@ -14239,8 +14239,8 @@ overcome anxiety intoxication chicken vulcan neptune
 1
 15 2
 2
-0 27 2 16
 0 25 1 3
+0 27 2 16
 1
 end_operator
 begin_operator
@@ -14248,8 +14248,8 @@ overcome anxiety intoxication cucumber mars vulcan
 1
 15 3
 2
-0 27 3 16
 0 25 3 0
+0 27 3 16
 1
 end_operator
 begin_operator
@@ -14257,8 +14257,8 @@ overcome anxiety intoxication cucumber neptune venus
 1
 15 3
 2
-0 27 3 16
 0 25 2 1
+0 27 3 16
 1
 end_operator
 begin_operator
@@ -14266,8 +14266,8 @@ overcome anxiety intoxication cucumber vulcan neptune
 1
 15 3
 2
-0 27 3 16
 0 25 1 3
+0 27 3 16
 1
 end_operator
 begin_operator
@@ -14275,8 +14275,8 @@ overcome anxiety intoxication guava mars vulcan
 1
 15 4
 2
-0 27 4 16
 0 25 3 0
+0 27 4 16
 1
 end_operator
 begin_operator
@@ -14284,8 +14284,8 @@ overcome anxiety intoxication guava neptune venus
 1
 15 4
 2
-0 27 4 16
 0 25 2 1
+0 27 4 16
 1
 end_operator
 begin_operator
@@ -14293,8 +14293,8 @@ overcome anxiety intoxication guava vulcan neptune
 1
 15 4
 2
-0 27 4 16
 0 25 1 3
+0 27 4 16
 1
 end_operator
 begin_operator
@@ -14302,8 +14302,8 @@ overcome anxiety intoxication hamburger mars vulcan
 1
 15 5
 2
-0 27 5 16
 0 25 3 0
+0 27 5 16
 1
 end_operator
 begin_operator
@@ -14311,8 +14311,8 @@ overcome anxiety intoxication hamburger neptune venus
 1
 15 5
 2
-0 27 5 16
 0 25 2 1
+0 27 5 16
 1
 end_operator
 begin_operator
@@ -14320,8 +14320,8 @@ overcome anxiety intoxication hamburger vulcan neptune
 1
 15 5
 2
-0 27 5 16
 0 25 1 3
+0 27 5 16
 1
 end_operator
 begin_operator
@@ -14329,8 +14329,8 @@ overcome anxiety intoxication hotdog mars vulcan
 1
 15 6
 2
-0 27 6 16
 0 25 3 0
+0 27 6 16
 1
 end_operator
 begin_operator
@@ -14338,8 +14338,8 @@ overcome anxiety intoxication hotdog neptune venus
 1
 15 6
 2
-0 27 6 16
 0 25 2 1
+0 27 6 16
 1
 end_operator
 begin_operator
@@ -14347,8 +14347,8 @@ overcome anxiety intoxication hotdog vulcan neptune
 1
 15 6
 2
-0 27 6 16
 0 25 1 3
+0 27 6 16
 1
 end_operator
 begin_operator
@@ -14356,8 +14356,8 @@ overcome anxiety intoxication muffin mars vulcan
 1
 15 7
 2
-0 27 7 16
 0 25 3 0
+0 27 7 16
 1
 end_operator
 begin_operator
@@ -14365,8 +14365,8 @@ overcome anxiety intoxication muffin neptune venus
 1
 15 7
 2
-0 27 7 16
 0 25 2 1
+0 27 7 16
 1
 end_operator
 begin_operator
@@ -14374,8 +14374,8 @@ overcome anxiety intoxication muffin vulcan neptune
 1
 15 7
 2
-0 27 7 16
 0 25 1 3
+0 27 7 16
 1
 end_operator
 begin_operator
@@ -14383,8 +14383,8 @@ overcome anxiety intoxication mutton mars vulcan
 1
 15 8
 2
-0 27 8 16
 0 25 3 0
+0 27 8 16
 1
 end_operator
 begin_operator
@@ -14392,8 +14392,8 @@ overcome anxiety intoxication mutton neptune venus
 1
 15 8
 2
-0 27 8 16
 0 25 2 1
+0 27 8 16
 1
 end_operator
 begin_operator
@@ -14401,8 +14401,8 @@ overcome anxiety intoxication mutton vulcan neptune
 1
 15 8
 2
-0 27 8 16
 0 25 1 3
+0 27 8 16
 1
 end_operator
 begin_operator
@@ -14410,8 +14410,8 @@ overcome anxiety intoxication rice mars vulcan
 1
 15 9
 2
-0 27 9 16
 0 25 3 0
+0 27 9 16
 1
 end_operator
 begin_operator
@@ -14419,8 +14419,8 @@ overcome anxiety intoxication rice neptune venus
 1
 15 9
 2
-0 27 9 16
 0 25 2 1
+0 27 9 16
 1
 end_operator
 begin_operator
@@ -14428,8 +14428,8 @@ overcome anxiety intoxication rice vulcan neptune
 1
 15 9
 2
-0 27 9 16
 0 25 1 3
+0 27 9 16
 1
 end_operator
 begin_operator
@@ -14437,8 +14437,8 @@ overcome anxiety intoxication scallop mars vulcan
 1
 15 10
 2
-0 27 10 16
 0 25 3 0
+0 27 10 16
 1
 end_operator
 begin_operator
@@ -14446,8 +14446,8 @@ overcome anxiety intoxication scallop neptune venus
 1
 15 10
 2
-0 27 10 16
 0 25 2 1
+0 27 10 16
 1
 end_operator
 begin_operator
@@ -14455,8 +14455,8 @@ overcome anxiety intoxication scallop vulcan neptune
 1
 15 10
 2
-0 27 10 16
 0 25 1 3
+0 27 10 16
 1
 end_operator
 begin_operator
@@ -14464,8 +14464,8 @@ overcome anxiety intoxication turkey mars vulcan
 1
 15 11
 2
-0 27 11 16
 0 25 3 0
+0 27 11 16
 1
 end_operator
 begin_operator
@@ -14473,8 +14473,8 @@ overcome anxiety intoxication turkey neptune venus
 1
 15 11
 2
-0 27 11 16
 0 25 2 1
+0 27 11 16
 1
 end_operator
 begin_operator
@@ -14482,8 +14482,8 @@ overcome anxiety intoxication turkey vulcan neptune
 1
 15 11
 2
-0 27 11 16
 0 25 1 3
+0 27 11 16
 1
 end_operator
 begin_operator
@@ -14491,8 +14491,8 @@ overcome anxiety intoxication yogurt mars vulcan
 1
 15 12
 2
-0 27 12 16
 0 25 3 0
+0 27 12 16
 1
 end_operator
 begin_operator
@@ -14500,8 +14500,8 @@ overcome anxiety intoxication yogurt neptune venus
 1
 15 12
 2
-0 27 12 16
 0 25 2 1
+0 27 12 16
 1
 end_operator
 begin_operator
@@ -14509,8 +14509,8 @@ overcome anxiety intoxication yogurt vulcan neptune
 1
 15 12
 2
-0 27 12 16
 0 25 1 3
+0 27 12 16
 1
 end_operator
 begin_operator
@@ -14518,8 +14518,8 @@ overcome anxiety triumph baguette mars vulcan
 1
 16 0
 2
-0 27 0 17
 0 26 3 0
+0 27 0 17
 1
 end_operator
 begin_operator
@@ -14527,8 +14527,8 @@ overcome anxiety triumph baguette neptune venus
 1
 16 0
 2
-0 27 0 17
 0 26 2 1
+0 27 0 17
 1
 end_operator
 begin_operator
@@ -14536,8 +14536,8 @@ overcome anxiety triumph baguette vulcan neptune
 1
 16 0
 2
-0 27 0 17
 0 26 1 3
+0 27 0 17
 1
 end_operator
 begin_operator
@@ -14545,8 +14545,8 @@ overcome anxiety triumph beef mars vulcan
 1
 16 1
 2
-0 27 1 17
 0 26 3 0
+0 27 1 17
 1
 end_operator
 begin_operator
@@ -14554,8 +14554,8 @@ overcome anxiety triumph beef neptune venus
 1
 16 1
 2
-0 27 1 17
 0 26 2 1
+0 27 1 17
 1
 end_operator
 begin_operator
@@ -14563,8 +14563,8 @@ overcome anxiety triumph beef vulcan neptune
 1
 16 1
 2
-0 27 1 17
 0 26 1 3
+0 27 1 17
 1
 end_operator
 begin_operator
@@ -14572,8 +14572,8 @@ overcome anxiety triumph chicken mars vulcan
 1
 16 2
 2
-0 27 2 17
 0 26 3 0
+0 27 2 17
 1
 end_operator
 begin_operator
@@ -14581,8 +14581,8 @@ overcome anxiety triumph chicken neptune venus
 1
 16 2
 2
-0 27 2 17
 0 26 2 1
+0 27 2 17
 1
 end_operator
 begin_operator
@@ -14590,8 +14590,8 @@ overcome anxiety triumph chicken vulcan neptune
 1
 16 2
 2
-0 27 2 17
 0 26 1 3
+0 27 2 17
 1
 end_operator
 begin_operator
@@ -14599,8 +14599,8 @@ overcome anxiety triumph cucumber mars vulcan
 1
 16 3
 2
-0 27 3 17
 0 26 3 0
+0 27 3 17
 1
 end_operator
 begin_operator
@@ -14608,8 +14608,8 @@ overcome anxiety triumph cucumber neptune venus
 1
 16 3
 2
-0 27 3 17
 0 26 2 1
+0 27 3 17
 1
 end_operator
 begin_operator
@@ -14617,8 +14617,8 @@ overcome anxiety triumph cucumber vulcan neptune
 1
 16 3
 2
-0 27 3 17
 0 26 1 3
+0 27 3 17
 1
 end_operator
 begin_operator
@@ -14626,8 +14626,8 @@ overcome anxiety triumph guava mars vulcan
 1
 16 4
 2
-0 27 4 17
 0 26 3 0
+0 27 4 17
 1
 end_operator
 begin_operator
@@ -14635,8 +14635,8 @@ overcome anxiety triumph guava neptune venus
 1
 16 4
 2
-0 27 4 17
 0 26 2 1
+0 27 4 17
 1
 end_operator
 begin_operator
@@ -14644,8 +14644,8 @@ overcome anxiety triumph guava vulcan neptune
 1
 16 4
 2
-0 27 4 17
 0 26 1 3
+0 27 4 17
 1
 end_operator
 begin_operator
@@ -14653,8 +14653,8 @@ overcome anxiety triumph hamburger mars vulcan
 1
 16 5
 2
-0 27 5 17
 0 26 3 0
+0 27 5 17
 1
 end_operator
 begin_operator
@@ -14662,8 +14662,8 @@ overcome anxiety triumph hamburger neptune venus
 1
 16 5
 2
-0 27 5 17
 0 26 2 1
+0 27 5 17
 1
 end_operator
 begin_operator
@@ -14671,8 +14671,8 @@ overcome anxiety triumph hamburger vulcan neptune
 1
 16 5
 2
-0 27 5 17
 0 26 1 3
+0 27 5 17
 1
 end_operator
 begin_operator
@@ -14680,8 +14680,8 @@ overcome anxiety triumph hotdog mars vulcan
 1
 16 6
 2
-0 27 6 17
 0 26 3 0
+0 27 6 17
 1
 end_operator
 begin_operator
@@ -14689,8 +14689,8 @@ overcome anxiety triumph hotdog neptune venus
 1
 16 6
 2
-0 27 6 17
 0 26 2 1
+0 27 6 17
 1
 end_operator
 begin_operator
@@ -14698,8 +14698,8 @@ overcome anxiety triumph hotdog vulcan neptune
 1
 16 6
 2
-0 27 6 17
 0 26 1 3
+0 27 6 17
 1
 end_operator
 begin_operator
@@ -14707,8 +14707,8 @@ overcome anxiety triumph muffin mars vulcan
 1
 16 7
 2
-0 27 7 17
 0 26 3 0
+0 27 7 17
 1
 end_operator
 begin_operator
@@ -14716,8 +14716,8 @@ overcome anxiety triumph muffin neptune venus
 1
 16 7
 2
-0 27 7 17
 0 26 2 1
+0 27 7 17
 1
 end_operator
 begin_operator
@@ -14725,8 +14725,8 @@ overcome anxiety triumph muffin vulcan neptune
 1
 16 7
 2
-0 27 7 17
 0 26 1 3
+0 27 7 17
 1
 end_operator
 begin_operator
@@ -14734,8 +14734,8 @@ overcome anxiety triumph mutton mars vulcan
 1
 16 8
 2
-0 27 8 17
 0 26 3 0
+0 27 8 17
 1
 end_operator
 begin_operator
@@ -14743,8 +14743,8 @@ overcome anxiety triumph mutton neptune venus
 1
 16 8
 2
-0 27 8 17
 0 26 2 1
+0 27 8 17
 1
 end_operator
 begin_operator
@@ -14752,8 +14752,8 @@ overcome anxiety triumph mutton vulcan neptune
 1
 16 8
 2
-0 27 8 17
 0 26 1 3
+0 27 8 17
 1
 end_operator
 begin_operator
@@ -14761,8 +14761,8 @@ overcome anxiety triumph rice mars vulcan
 1
 16 9
 2
-0 27 9 17
 0 26 3 0
+0 27 9 17
 1
 end_operator
 begin_operator
@@ -14770,8 +14770,8 @@ overcome anxiety triumph rice neptune venus
 1
 16 9
 2
-0 27 9 17
 0 26 2 1
+0 27 9 17
 1
 end_operator
 begin_operator
@@ -14779,8 +14779,8 @@ overcome anxiety triumph rice vulcan neptune
 1
 16 9
 2
-0 27 9 17
 0 26 1 3
+0 27 9 17
 1
 end_operator
 begin_operator
@@ -14788,8 +14788,8 @@ overcome anxiety triumph scallop mars vulcan
 1
 16 10
 2
-0 27 10 17
 0 26 3 0
+0 27 10 17
 1
 end_operator
 begin_operator
@@ -14797,8 +14797,8 @@ overcome anxiety triumph scallop neptune venus
 1
 16 10
 2
-0 27 10 17
 0 26 2 1
+0 27 10 17
 1
 end_operator
 begin_operator
@@ -14806,8 +14806,8 @@ overcome anxiety triumph scallop vulcan neptune
 1
 16 10
 2
-0 27 10 17
 0 26 1 3
+0 27 10 17
 1
 end_operator
 begin_operator
@@ -14815,8 +14815,8 @@ overcome anxiety triumph turkey mars vulcan
 1
 16 11
 2
-0 27 11 17
 0 26 3 0
+0 27 11 17
 1
 end_operator
 begin_operator
@@ -14824,8 +14824,8 @@ overcome anxiety triumph turkey neptune venus
 1
 16 11
 2
-0 27 11 17
 0 26 2 1
+0 27 11 17
 1
 end_operator
 begin_operator
@@ -14833,8 +14833,8 @@ overcome anxiety triumph turkey vulcan neptune
 1
 16 11
 2
-0 27 11 17
 0 26 1 3
+0 27 11 17
 1
 end_operator
 begin_operator
@@ -14842,8 +14842,8 @@ overcome anxiety triumph yogurt mars vulcan
 1
 16 12
 2
-0 27 12 17
 0 26 3 0
+0 27 12 17
 1
 end_operator
 begin_operator
@@ -14851,8 +14851,8 @@ overcome anxiety triumph yogurt neptune venus
 1
 16 12
 2
-0 27 12 17
 0 26 2 1
+0 27 12 17
 1
 end_operator
 begin_operator
@@ -14860,8 +14860,8 @@ overcome anxiety triumph yogurt vulcan neptune
 1
 16 12
 2
-0 27 12 17
 0 26 1 3
+0 27 12 17
 1
 end_operator
 begin_operator
@@ -14869,8 +14869,8 @@ overcome boils achievement baguette mars vulcan
 1
 10 0
 2
-0 28 0 13
 0 21 3 0
+0 28 0 13
 1
 end_operator
 begin_operator
@@ -14878,8 +14878,8 @@ overcome boils achievement baguette neptune venus
 1
 10 0
 2
-0 28 0 13
 0 21 2 1
+0 28 0 13
 1
 end_operator
 begin_operator
@@ -14887,8 +14887,8 @@ overcome boils achievement baguette vulcan neptune
 1
 10 0
 2
-0 28 0 13
 0 21 1 3
+0 28 0 13
 1
 end_operator
 begin_operator
@@ -14896,8 +14896,8 @@ overcome boils achievement beef mars vulcan
 1
 10 1
 2
-0 28 1 13
 0 21 3 0
+0 28 1 13
 1
 end_operator
 begin_operator
@@ -14905,8 +14905,8 @@ overcome boils achievement beef neptune venus
 1
 10 1
 2
-0 28 1 13
 0 21 2 1
+0 28 1 13
 1
 end_operator
 begin_operator
@@ -14914,8 +14914,8 @@ overcome boils achievement beef vulcan neptune
 1
 10 1
 2
-0 28 1 13
 0 21 1 3
+0 28 1 13
 1
 end_operator
 begin_operator
@@ -14923,8 +14923,8 @@ overcome boils achievement chicken mars vulcan
 1
 10 2
 2
-0 28 2 13
 0 21 3 0
+0 28 2 13
 1
 end_operator
 begin_operator
@@ -14932,8 +14932,8 @@ overcome boils achievement chicken neptune venus
 1
 10 2
 2
-0 28 2 13
 0 21 2 1
+0 28 2 13
 1
 end_operator
 begin_operator
@@ -14941,8 +14941,8 @@ overcome boils achievement chicken vulcan neptune
 1
 10 2
 2
-0 28 2 13
 0 21 1 3
+0 28 2 13
 1
 end_operator
 begin_operator
@@ -14950,8 +14950,8 @@ overcome boils achievement cucumber mars vulcan
 1
 10 3
 2
-0 28 3 13
 0 21 3 0
+0 28 3 13
 1
 end_operator
 begin_operator
@@ -14959,8 +14959,8 @@ overcome boils achievement cucumber neptune venus
 1
 10 3
 2
-0 28 3 13
 0 21 2 1
+0 28 3 13
 1
 end_operator
 begin_operator
@@ -14968,8 +14968,8 @@ overcome boils achievement cucumber vulcan neptune
 1
 10 3
 2
-0 28 3 13
 0 21 1 3
+0 28 3 13
 1
 end_operator
 begin_operator
@@ -14977,8 +14977,8 @@ overcome boils achievement guava mars vulcan
 1
 10 4
 2
-0 28 4 13
 0 21 3 0
+0 28 4 13
 1
 end_operator
 begin_operator
@@ -14986,8 +14986,8 @@ overcome boils achievement guava neptune venus
 1
 10 4
 2
-0 28 4 13
 0 21 2 1
+0 28 4 13
 1
 end_operator
 begin_operator
@@ -14995,8 +14995,8 @@ overcome boils achievement guava vulcan neptune
 1
 10 4
 2
-0 28 4 13
 0 21 1 3
+0 28 4 13
 1
 end_operator
 begin_operator
@@ -15004,8 +15004,8 @@ overcome boils achievement hamburger mars vulcan
 1
 10 5
 2
-0 28 5 13
 0 21 3 0
+0 28 5 13
 1
 end_operator
 begin_operator
@@ -15013,8 +15013,8 @@ overcome boils achievement hamburger neptune venus
 1
 10 5
 2
-0 28 5 13
 0 21 2 1
+0 28 5 13
 1
 end_operator
 begin_operator
@@ -15022,8 +15022,8 @@ overcome boils achievement hamburger vulcan neptune
 1
 10 5
 2
-0 28 5 13
 0 21 1 3
+0 28 5 13
 1
 end_operator
 begin_operator
@@ -15031,8 +15031,8 @@ overcome boils achievement hotdog mars vulcan
 1
 10 6
 2
-0 28 6 13
 0 21 3 0
+0 28 6 13
 1
 end_operator
 begin_operator
@@ -15040,8 +15040,8 @@ overcome boils achievement hotdog neptune venus
 1
 10 6
 2
-0 28 6 13
 0 21 2 1
+0 28 6 13
 1
 end_operator
 begin_operator
@@ -15049,8 +15049,8 @@ overcome boils achievement hotdog vulcan neptune
 1
 10 6
 2
-0 28 6 13
 0 21 1 3
+0 28 6 13
 1
 end_operator
 begin_operator
@@ -15058,8 +15058,8 @@ overcome boils achievement muffin mars vulcan
 1
 10 7
 2
-0 28 7 13
 0 21 3 0
+0 28 7 13
 1
 end_operator
 begin_operator
@@ -15067,8 +15067,8 @@ overcome boils achievement muffin neptune venus
 1
 10 7
 2
-0 28 7 13
 0 21 2 1
+0 28 7 13
 1
 end_operator
 begin_operator
@@ -15076,8 +15076,8 @@ overcome boils achievement muffin vulcan neptune
 1
 10 7
 2
-0 28 7 13
 0 21 1 3
+0 28 7 13
 1
 end_operator
 begin_operator
@@ -15085,8 +15085,8 @@ overcome boils achievement mutton mars vulcan
 1
 10 8
 2
-0 28 8 13
 0 21 3 0
+0 28 8 13
 1
 end_operator
 begin_operator
@@ -15094,8 +15094,8 @@ overcome boils achievement mutton neptune venus
 1
 10 8
 2
-0 28 8 13
 0 21 2 1
+0 28 8 13
 1
 end_operator
 begin_operator
@@ -15103,8 +15103,8 @@ overcome boils achievement mutton vulcan neptune
 1
 10 8
 2
-0 28 8 13
 0 21 1 3
+0 28 8 13
 1
 end_operator
 begin_operator
@@ -15112,8 +15112,8 @@ overcome boils achievement rice mars vulcan
 1
 10 9
 2
-0 28 9 13
 0 21 3 0
+0 28 9 13
 1
 end_operator
 begin_operator
@@ -15121,8 +15121,8 @@ overcome boils achievement rice neptune venus
 1
 10 9
 2
-0 28 9 13
 0 21 2 1
+0 28 9 13
 1
 end_operator
 begin_operator
@@ -15130,8 +15130,8 @@ overcome boils achievement rice vulcan neptune
 1
 10 9
 2
-0 28 9 13
 0 21 1 3
+0 28 9 13
 1
 end_operator
 begin_operator
@@ -15139,8 +15139,8 @@ overcome boils achievement scallop mars vulcan
 1
 10 10
 2
-0 28 10 13
 0 21 3 0
+0 28 10 13
 1
 end_operator
 begin_operator
@@ -15148,8 +15148,8 @@ overcome boils achievement scallop neptune venus
 1
 10 10
 2
-0 28 10 13
 0 21 2 1
+0 28 10 13
 1
 end_operator
 begin_operator
@@ -15157,8 +15157,8 @@ overcome boils achievement scallop vulcan neptune
 1
 10 10
 2
-0 28 10 13
 0 21 1 3
+0 28 10 13
 1
 end_operator
 begin_operator
@@ -15166,8 +15166,8 @@ overcome boils achievement turkey mars vulcan
 1
 10 11
 2
-0 28 11 13
 0 21 3 0
+0 28 11 13
 1
 end_operator
 begin_operator
@@ -15175,8 +15175,8 @@ overcome boils achievement turkey neptune venus
 1
 10 11
 2
-0 28 11 13
 0 21 2 1
+0 28 11 13
 1
 end_operator
 begin_operator
@@ -15184,8 +15184,8 @@ overcome boils achievement turkey vulcan neptune
 1
 10 11
 2
-0 28 11 13
 0 21 1 3
+0 28 11 13
 1
 end_operator
 begin_operator
@@ -15193,8 +15193,8 @@ overcome boils achievement yogurt mars vulcan
 1
 10 12
 2
-0 28 12 13
 0 21 3 0
+0 28 12 13
 1
 end_operator
 begin_operator
@@ -15202,8 +15202,8 @@ overcome boils achievement yogurt neptune venus
 1
 10 12
 2
-0 28 12 13
 0 21 2 1
+0 28 12 13
 1
 end_operator
 begin_operator
@@ -15211,8 +15211,8 @@ overcome boils achievement yogurt vulcan neptune
 1
 10 12
 2
-0 28 12 13
 0 21 1 3
+0 28 12 13
 1
 end_operator
 begin_operator
@@ -15220,8 +15220,8 @@ overcome boils excitement baguette mars vulcan
 1
 11 0
 2
-0 28 0 14
 0 22 3 0
+0 28 0 14
 1
 end_operator
 begin_operator
@@ -15229,8 +15229,8 @@ overcome boils excitement baguette neptune venus
 1
 11 0
 2
-0 28 0 14
 0 22 2 1
+0 28 0 14
 1
 end_operator
 begin_operator
@@ -15238,8 +15238,8 @@ overcome boils excitement baguette vulcan neptune
 1
 11 0
 2
-0 28 0 14
 0 22 1 3
+0 28 0 14
 1
 end_operator
 begin_operator
@@ -15247,8 +15247,8 @@ overcome boils excitement beef mars vulcan
 1
 11 1
 2
-0 28 1 14
 0 22 3 0
+0 28 1 14
 1
 end_operator
 begin_operator
@@ -15256,8 +15256,8 @@ overcome boils excitement beef neptune venus
 1
 11 1
 2
-0 28 1 14
 0 22 2 1
+0 28 1 14
 1
 end_operator
 begin_operator
@@ -15265,8 +15265,8 @@ overcome boils excitement beef vulcan neptune
 1
 11 1
 2
-0 28 1 14
 0 22 1 3
+0 28 1 14
 1
 end_operator
 begin_operator
@@ -15274,8 +15274,8 @@ overcome boils excitement chicken mars vulcan
 1
 11 2
 2
-0 28 2 14
 0 22 3 0
+0 28 2 14
 1
 end_operator
 begin_operator
@@ -15283,8 +15283,8 @@ overcome boils excitement chicken neptune venus
 1
 11 2
 2
-0 28 2 14
 0 22 2 1
+0 28 2 14
 1
 end_operator
 begin_operator
@@ -15292,8 +15292,8 @@ overcome boils excitement chicken vulcan neptune
 1
 11 2
 2
-0 28 2 14
 0 22 1 3
+0 28 2 14
 1
 end_operator
 begin_operator
@@ -15301,8 +15301,8 @@ overcome boils excitement cucumber mars vulcan
 1
 11 3
 2
-0 28 3 14
 0 22 3 0
+0 28 3 14
 1
 end_operator
 begin_operator
@@ -15310,8 +15310,8 @@ overcome boils excitement cucumber neptune venus
 1
 11 3
 2
-0 28 3 14
 0 22 2 1
+0 28 3 14
 1
 end_operator
 begin_operator
@@ -15319,8 +15319,8 @@ overcome boils excitement cucumber vulcan neptune
 1
 11 3
 2
-0 28 3 14
 0 22 1 3
+0 28 3 14
 1
 end_operator
 begin_operator
@@ -15328,8 +15328,8 @@ overcome boils excitement guava mars vulcan
 1
 11 4
 2
-0 28 4 14
 0 22 3 0
+0 28 4 14
 1
 end_operator
 begin_operator
@@ -15337,8 +15337,8 @@ overcome boils excitement guava neptune venus
 1
 11 4
 2
-0 28 4 14
 0 22 2 1
+0 28 4 14
 1
 end_operator
 begin_operator
@@ -15346,8 +15346,8 @@ overcome boils excitement guava vulcan neptune
 1
 11 4
 2
-0 28 4 14
 0 22 1 3
+0 28 4 14
 1
 end_operator
 begin_operator
@@ -15355,8 +15355,8 @@ overcome boils excitement hamburger mars vulcan
 1
 11 5
 2
-0 28 5 14
 0 22 3 0
+0 28 5 14
 1
 end_operator
 begin_operator
@@ -15364,8 +15364,8 @@ overcome boils excitement hamburger neptune venus
 1
 11 5
 2
-0 28 5 14
 0 22 2 1
+0 28 5 14
 1
 end_operator
 begin_operator
@@ -15373,8 +15373,8 @@ overcome boils excitement hamburger vulcan neptune
 1
 11 5
 2
-0 28 5 14
 0 22 1 3
+0 28 5 14
 1
 end_operator
 begin_operator
@@ -15382,8 +15382,8 @@ overcome boils excitement hotdog mars vulcan
 1
 11 6
 2
-0 28 6 14
 0 22 3 0
+0 28 6 14
 1
 end_operator
 begin_operator
@@ -15391,8 +15391,8 @@ overcome boils excitement hotdog neptune venus
 1
 11 6
 2
-0 28 6 14
 0 22 2 1
+0 28 6 14
 1
 end_operator
 begin_operator
@@ -15400,8 +15400,8 @@ overcome boils excitement hotdog vulcan neptune
 1
 11 6
 2
-0 28 6 14
 0 22 1 3
+0 28 6 14
 1
 end_operator
 begin_operator
@@ -15409,8 +15409,8 @@ overcome boils excitement muffin mars vulcan
 1
 11 7
 2
-0 28 7 14
 0 22 3 0
+0 28 7 14
 1
 end_operator
 begin_operator
@@ -15418,8 +15418,8 @@ overcome boils excitement muffin neptune venus
 1
 11 7
 2
-0 28 7 14
 0 22 2 1
+0 28 7 14
 1
 end_operator
 begin_operator
@@ -15427,8 +15427,8 @@ overcome boils excitement muffin vulcan neptune
 1
 11 7
 2
-0 28 7 14
 0 22 1 3
+0 28 7 14
 1
 end_operator
 begin_operator
@@ -15436,8 +15436,8 @@ overcome boils excitement mutton mars vulcan
 1
 11 8
 2
-0 28 8 14
 0 22 3 0
+0 28 8 14
 1
 end_operator
 begin_operator
@@ -15445,8 +15445,8 @@ overcome boils excitement mutton neptune venus
 1
 11 8
 2
-0 28 8 14
 0 22 2 1
+0 28 8 14
 1
 end_operator
 begin_operator
@@ -15454,8 +15454,8 @@ overcome boils excitement mutton vulcan neptune
 1
 11 8
 2
-0 28 8 14
 0 22 1 3
+0 28 8 14
 1
 end_operator
 begin_operator
@@ -15463,8 +15463,8 @@ overcome boils excitement rice mars vulcan
 1
 11 9
 2
-0 28 9 14
 0 22 3 0
+0 28 9 14
 1
 end_operator
 begin_operator
@@ -15472,8 +15472,8 @@ overcome boils excitement rice neptune venus
 1
 11 9
 2
-0 28 9 14
 0 22 2 1
+0 28 9 14
 1
 end_operator
 begin_operator
@@ -15481,8 +15481,8 @@ overcome boils excitement rice vulcan neptune
 1
 11 9
 2
-0 28 9 14
 0 22 1 3
+0 28 9 14
 1
 end_operator
 begin_operator
@@ -15490,8 +15490,8 @@ overcome boils excitement scallop mars vulcan
 1
 11 10
 2
-0 28 10 14
 0 22 3 0
+0 28 10 14
 1
 end_operator
 begin_operator
@@ -15499,8 +15499,8 @@ overcome boils excitement scallop neptune venus
 1
 11 10
 2
-0 28 10 14
 0 22 2 1
+0 28 10 14
 1
 end_operator
 begin_operator
@@ -15508,8 +15508,8 @@ overcome boils excitement scallop vulcan neptune
 1
 11 10
 2
-0 28 10 14
 0 22 1 3
+0 28 10 14
 1
 end_operator
 begin_operator
@@ -15517,8 +15517,8 @@ overcome boils excitement turkey mars vulcan
 1
 11 11
 2
-0 28 11 14
 0 22 3 0
+0 28 11 14
 1
 end_operator
 begin_operator
@@ -15526,8 +15526,8 @@ overcome boils excitement turkey neptune venus
 1
 11 11
 2
-0 28 11 14
 0 22 2 1
+0 28 11 14
 1
 end_operator
 begin_operator
@@ -15535,8 +15535,8 @@ overcome boils excitement turkey vulcan neptune
 1
 11 11
 2
-0 28 11 14
 0 22 1 3
+0 28 11 14
 1
 end_operator
 begin_operator
@@ -15544,8 +15544,8 @@ overcome boils excitement yogurt mars vulcan
 1
 11 12
 2
-0 28 12 14
 0 22 3 0
+0 28 12 14
 1
 end_operator
 begin_operator
@@ -15553,8 +15553,8 @@ overcome boils excitement yogurt neptune venus
 1
 11 12
 2
-0 28 12 14
 0 22 2 1
+0 28 12 14
 1
 end_operator
 begin_operator
@@ -15562,8 +15562,8 @@ overcome boils excitement yogurt vulcan neptune
 1
 11 12
 2
-0 28 12 14
 0 22 1 3
+0 28 12 14
 1
 end_operator
 begin_operator
@@ -15571,8 +15571,8 @@ overcome boils expectation baguette mars vulcan
 1
 14 0
 2
-0 28 0 15
 0 24 3 0
+0 28 0 15
 1
 end_operator
 begin_operator
@@ -15580,8 +15580,8 @@ overcome boils expectation baguette neptune venus
 1
 14 0
 2
-0 28 0 15
 0 24 2 1
+0 28 0 15
 1
 end_operator
 begin_operator
@@ -15589,8 +15589,8 @@ overcome boils expectation baguette vulcan neptune
 1
 14 0
 2
-0 28 0 15
 0 24 1 3
+0 28 0 15
 1
 end_operator
 begin_operator
@@ -15598,8 +15598,8 @@ overcome boils expectation beef mars vulcan
 1
 14 1
 2
-0 28 1 15
 0 24 3 0
+0 28 1 15
 1
 end_operator
 begin_operator
@@ -15607,8 +15607,8 @@ overcome boils expectation beef neptune venus
 1
 14 1
 2
-0 28 1 15
 0 24 2 1
+0 28 1 15
 1
 end_operator
 begin_operator
@@ -15616,8 +15616,8 @@ overcome boils expectation beef vulcan neptune
 1
 14 1
 2
-0 28 1 15
 0 24 1 3
+0 28 1 15
 1
 end_operator
 begin_operator
@@ -15625,8 +15625,8 @@ overcome boils expectation chicken mars vulcan
 1
 14 2
 2
-0 28 2 15
 0 24 3 0
+0 28 2 15
 1
 end_operator
 begin_operator
@@ -15634,8 +15634,8 @@ overcome boils expectation chicken neptune venus
 1
 14 2
 2
-0 28 2 15
 0 24 2 1
+0 28 2 15
 1
 end_operator
 begin_operator
@@ -15643,8 +15643,8 @@ overcome boils expectation chicken vulcan neptune
 1
 14 2
 2
-0 28 2 15
 0 24 1 3
+0 28 2 15
 1
 end_operator
 begin_operator
@@ -15652,8 +15652,8 @@ overcome boils expectation cucumber mars vulcan
 1
 14 3
 2
-0 28 3 15
 0 24 3 0
+0 28 3 15
 1
 end_operator
 begin_operator
@@ -15661,8 +15661,8 @@ overcome boils expectation cucumber neptune venus
 1
 14 3
 2
-0 28 3 15
 0 24 2 1
+0 28 3 15
 1
 end_operator
 begin_operator
@@ -15670,8 +15670,8 @@ overcome boils expectation cucumber vulcan neptune
 1
 14 3
 2
-0 28 3 15
 0 24 1 3
+0 28 3 15
 1
 end_operator
 begin_operator
@@ -15679,8 +15679,8 @@ overcome boils expectation guava mars vulcan
 1
 14 4
 2
-0 28 4 15
 0 24 3 0
+0 28 4 15
 1
 end_operator
 begin_operator
@@ -15688,8 +15688,8 @@ overcome boils expectation guava neptune venus
 1
 14 4
 2
-0 28 4 15
 0 24 2 1
+0 28 4 15
 1
 end_operator
 begin_operator
@@ -15697,8 +15697,8 @@ overcome boils expectation guava vulcan neptune
 1
 14 4
 2
-0 28 4 15
 0 24 1 3
+0 28 4 15
 1
 end_operator
 begin_operator
@@ -15706,8 +15706,8 @@ overcome boils expectation hamburger mars vulcan
 1
 14 5
 2
-0 28 5 15
 0 24 3 0
+0 28 5 15
 1
 end_operator
 begin_operator
@@ -15715,8 +15715,8 @@ overcome boils expectation hamburger neptune venus
 1
 14 5
 2
-0 28 5 15
 0 24 2 1
+0 28 5 15
 1
 end_operator
 begin_operator
@@ -15724,8 +15724,8 @@ overcome boils expectation hamburger vulcan neptune
 1
 14 5
 2
-0 28 5 15
 0 24 1 3
+0 28 5 15
 1
 end_operator
 begin_operator
@@ -15733,8 +15733,8 @@ overcome boils expectation hotdog mars vulcan
 1
 14 6
 2
-0 28 6 15
 0 24 3 0
+0 28 6 15
 1
 end_operator
 begin_operator
@@ -15742,8 +15742,8 @@ overcome boils expectation hotdog neptune venus
 1
 14 6
 2
-0 28 6 15
 0 24 2 1
+0 28 6 15
 1
 end_operator
 begin_operator
@@ -15751,8 +15751,8 @@ overcome boils expectation hotdog vulcan neptune
 1
 14 6
 2
-0 28 6 15
 0 24 1 3
+0 28 6 15
 1
 end_operator
 begin_operator
@@ -15760,8 +15760,8 @@ overcome boils expectation muffin mars vulcan
 1
 14 7
 2
-0 28 7 15
 0 24 3 0
+0 28 7 15
 1
 end_operator
 begin_operator
@@ -15769,8 +15769,8 @@ overcome boils expectation muffin neptune venus
 1
 14 7
 2
-0 28 7 15
 0 24 2 1
+0 28 7 15
 1
 end_operator
 begin_operator
@@ -15778,8 +15778,8 @@ overcome boils expectation muffin vulcan neptune
 1
 14 7
 2
-0 28 7 15
 0 24 1 3
+0 28 7 15
 1
 end_operator
 begin_operator
@@ -15787,8 +15787,8 @@ overcome boils expectation mutton mars vulcan
 1
 14 8
 2
-0 28 8 15
 0 24 3 0
+0 28 8 15
 1
 end_operator
 begin_operator
@@ -15796,8 +15796,8 @@ overcome boils expectation mutton neptune venus
 1
 14 8
 2
-0 28 8 15
 0 24 2 1
+0 28 8 15
 1
 end_operator
 begin_operator
@@ -15805,8 +15805,8 @@ overcome boils expectation mutton vulcan neptune
 1
 14 8
 2
-0 28 8 15
 0 24 1 3
+0 28 8 15
 1
 end_operator
 begin_operator
@@ -15814,8 +15814,8 @@ overcome boils expectation rice mars vulcan
 1
 14 9
 2
-0 28 9 15
 0 24 3 0
+0 28 9 15
 1
 end_operator
 begin_operator
@@ -15823,8 +15823,8 @@ overcome boils expectation rice neptune venus
 1
 14 9
 2
-0 28 9 15
 0 24 2 1
+0 28 9 15
 1
 end_operator
 begin_operator
@@ -15832,8 +15832,8 @@ overcome boils expectation rice vulcan neptune
 1
 14 9
 2
-0 28 9 15
 0 24 1 3
+0 28 9 15
 1
 end_operator
 begin_operator
@@ -15841,8 +15841,8 @@ overcome boils expectation scallop mars vulcan
 1
 14 10
 2
-0 28 10 15
 0 24 3 0
+0 28 10 15
 1
 end_operator
 begin_operator
@@ -15850,8 +15850,8 @@ overcome boils expectation scallop neptune venus
 1
 14 10
 2
-0 28 10 15
 0 24 2 1
+0 28 10 15
 1
 end_operator
 begin_operator
@@ -15859,8 +15859,8 @@ overcome boils expectation scallop vulcan neptune
 1
 14 10
 2
-0 28 10 15
 0 24 1 3
+0 28 10 15
 1
 end_operator
 begin_operator
@@ -15868,8 +15868,8 @@ overcome boils expectation turkey mars vulcan
 1
 14 11
 2
-0 28 11 15
 0 24 3 0
+0 28 11 15
 1
 end_operator
 begin_operator
@@ -15877,8 +15877,8 @@ overcome boils expectation turkey neptune venus
 1
 14 11
 2
-0 28 11 15
 0 24 2 1
+0 28 11 15
 1
 end_operator
 begin_operator
@@ -15886,8 +15886,8 @@ overcome boils expectation turkey vulcan neptune
 1
 14 11
 2
-0 28 11 15
 0 24 1 3
+0 28 11 15
 1
 end_operator
 begin_operator
@@ -15895,8 +15895,8 @@ overcome boils expectation yogurt mars vulcan
 1
 14 12
 2
-0 28 12 15
 0 24 3 0
+0 28 12 15
 1
 end_operator
 begin_operator
@@ -15904,8 +15904,8 @@ overcome boils expectation yogurt neptune venus
 1
 14 12
 2
-0 28 12 15
 0 24 2 1
+0 28 12 15
 1
 end_operator
 begin_operator
@@ -15913,8 +15913,8 @@ overcome boils expectation yogurt vulcan neptune
 1
 14 12
 2
-0 28 12 15
 0 24 1 3
+0 28 12 15
 1
 end_operator
 begin_operator
@@ -15922,8 +15922,8 @@ overcome boils intoxication baguette mars vulcan
 1
 15 0
 2
-0 28 0 16
 0 25 3 0
+0 28 0 16
 1
 end_operator
 begin_operator
@@ -15931,8 +15931,8 @@ overcome boils intoxication baguette neptune venus
 1
 15 0
 2
-0 28 0 16
 0 25 2 1
+0 28 0 16
 1
 end_operator
 begin_operator
@@ -15940,8 +15940,8 @@ overcome boils intoxication baguette vulcan neptune
 1
 15 0
 2
-0 28 0 16
 0 25 1 3
+0 28 0 16
 1
 end_operator
 begin_operator
@@ -15949,8 +15949,8 @@ overcome boils intoxication beef mars vulcan
 1
 15 1
 2
-0 28 1 16
 0 25 3 0
+0 28 1 16
 1
 end_operator
 begin_operator
@@ -15958,8 +15958,8 @@ overcome boils intoxication beef neptune venus
 1
 15 1
 2
-0 28 1 16
 0 25 2 1
+0 28 1 16
 1
 end_operator
 begin_operator
@@ -15967,8 +15967,8 @@ overcome boils intoxication beef vulcan neptune
 1
 15 1
 2
-0 28 1 16
 0 25 1 3
+0 28 1 16
 1
 end_operator
 begin_operator
@@ -15976,8 +15976,8 @@ overcome boils intoxication chicken mars vulcan
 1
 15 2
 2
-0 28 2 16
 0 25 3 0
+0 28 2 16
 1
 end_operator
 begin_operator
@@ -15985,8 +15985,8 @@ overcome boils intoxication chicken neptune venus
 1
 15 2
 2
-0 28 2 16
 0 25 2 1
+0 28 2 16
 1
 end_operator
 begin_operator
@@ -15994,8 +15994,8 @@ overcome boils intoxication chicken vulcan neptune
 1
 15 2
 2
-0 28 2 16
 0 25 1 3
+0 28 2 16
 1
 end_operator
 begin_operator
@@ -16003,8 +16003,8 @@ overcome boils intoxication cucumber mars vulcan
 1
 15 3
 2
-0 28 3 16
 0 25 3 0
+0 28 3 16
 1
 end_operator
 begin_operator
@@ -16012,8 +16012,8 @@ overcome boils intoxication cucumber neptune venus
 1
 15 3
 2
-0 28 3 16
 0 25 2 1
+0 28 3 16
 1
 end_operator
 begin_operator
@@ -16021,8 +16021,8 @@ overcome boils intoxication cucumber vulcan neptune
 1
 15 3
 2
-0 28 3 16
 0 25 1 3
+0 28 3 16
 1
 end_operator
 begin_operator
@@ -16030,8 +16030,8 @@ overcome boils intoxication guava mars vulcan
 1
 15 4
 2
-0 28 4 16
 0 25 3 0
+0 28 4 16
 1
 end_operator
 begin_operator
@@ -16039,8 +16039,8 @@ overcome boils intoxication guava neptune venus
 1
 15 4
 2
-0 28 4 16
 0 25 2 1
+0 28 4 16
 1
 end_operator
 begin_operator
@@ -16048,8 +16048,8 @@ overcome boils intoxication guava vulcan neptune
 1
 15 4
 2
-0 28 4 16
 0 25 1 3
+0 28 4 16
 1
 end_operator
 begin_operator
@@ -16057,8 +16057,8 @@ overcome boils intoxication hamburger mars vulcan
 1
 15 5
 2
-0 28 5 16
 0 25 3 0
+0 28 5 16
 1
 end_operator
 begin_operator
@@ -16066,8 +16066,8 @@ overcome boils intoxication hamburger neptune venus
 1
 15 5
 2
-0 28 5 16
 0 25 2 1
+0 28 5 16
 1
 end_operator
 begin_operator
@@ -16075,8 +16075,8 @@ overcome boils intoxication hamburger vulcan neptune
 1
 15 5
 2
-0 28 5 16
 0 25 1 3
+0 28 5 16
 1
 end_operator
 begin_operator
@@ -16084,8 +16084,8 @@ overcome boils intoxication hotdog mars vulcan
 1
 15 6
 2
-0 28 6 16
 0 25 3 0
+0 28 6 16
 1
 end_operator
 begin_operator
@@ -16093,8 +16093,8 @@ overcome boils intoxication hotdog neptune venus
 1
 15 6
 2
-0 28 6 16
 0 25 2 1
+0 28 6 16
 1
 end_operator
 begin_operator
@@ -16102,8 +16102,8 @@ overcome boils intoxication hotdog vulcan neptune
 1
 15 6
 2
-0 28 6 16
 0 25 1 3
+0 28 6 16
 1
 end_operator
 begin_operator
@@ -16111,8 +16111,8 @@ overcome boils intoxication muffin mars vulcan
 1
 15 7
 2
-0 28 7 16
 0 25 3 0
+0 28 7 16
 1
 end_operator
 begin_operator
@@ -16120,8 +16120,8 @@ overcome boils intoxication muffin neptune venus
 1
 15 7
 2
-0 28 7 16
 0 25 2 1
+0 28 7 16
 1
 end_operator
 begin_operator
@@ -16129,8 +16129,8 @@ overcome boils intoxication muffin vulcan neptune
 1
 15 7
 2
-0 28 7 16
 0 25 1 3
+0 28 7 16
 1
 end_operator
 begin_operator
@@ -16138,8 +16138,8 @@ overcome boils intoxication mutton mars vulcan
 1
 15 8
 2
-0 28 8 16
 0 25 3 0
+0 28 8 16
 1
 end_operator
 begin_operator
@@ -16147,8 +16147,8 @@ overcome boils intoxication mutton neptune venus
 1
 15 8
 2
-0 28 8 16
 0 25 2 1
+0 28 8 16
 1
 end_operator
 begin_operator
@@ -16156,8 +16156,8 @@ overcome boils intoxication mutton vulcan neptune
 1
 15 8
 2
-0 28 8 16
 0 25 1 3
+0 28 8 16
 1
 end_operator
 begin_operator
@@ -16165,8 +16165,8 @@ overcome boils intoxication rice mars vulcan
 1
 15 9
 2
-0 28 9 16
 0 25 3 0
+0 28 9 16
 1
 end_operator
 begin_operator
@@ -16174,8 +16174,8 @@ overcome boils intoxication rice neptune venus
 1
 15 9
 2
-0 28 9 16
 0 25 2 1
+0 28 9 16
 1
 end_operator
 begin_operator
@@ -16183,8 +16183,8 @@ overcome boils intoxication rice vulcan neptune
 1
 15 9
 2
-0 28 9 16
 0 25 1 3
+0 28 9 16
 1
 end_operator
 begin_operator
@@ -16192,8 +16192,8 @@ overcome boils intoxication scallop mars vulcan
 1
 15 10
 2
-0 28 10 16
 0 25 3 0
+0 28 10 16
 1
 end_operator
 begin_operator
@@ -16201,8 +16201,8 @@ overcome boils intoxication scallop neptune venus
 1
 15 10
 2
-0 28 10 16
 0 25 2 1
+0 28 10 16
 1
 end_operator
 begin_operator
@@ -16210,8 +16210,8 @@ overcome boils intoxication scallop vulcan neptune
 1
 15 10
 2
-0 28 10 16
 0 25 1 3
+0 28 10 16
 1
 end_operator
 begin_operator
@@ -16219,8 +16219,8 @@ overcome boils intoxication turkey mars vulcan
 1
 15 11
 2
-0 28 11 16
 0 25 3 0
+0 28 11 16
 1
 end_operator
 begin_operator
@@ -16228,8 +16228,8 @@ overcome boils intoxication turkey neptune venus
 1
 15 11
 2
-0 28 11 16
 0 25 2 1
+0 28 11 16
 1
 end_operator
 begin_operator
@@ -16237,8 +16237,8 @@ overcome boils intoxication turkey vulcan neptune
 1
 15 11
 2
-0 28 11 16
 0 25 1 3
+0 28 11 16
 1
 end_operator
 begin_operator
@@ -16246,8 +16246,8 @@ overcome boils intoxication yogurt mars vulcan
 1
 15 12
 2
-0 28 12 16
 0 25 3 0
+0 28 12 16
 1
 end_operator
 begin_operator
@@ -16255,8 +16255,8 @@ overcome boils intoxication yogurt neptune venus
 1
 15 12
 2
-0 28 12 16
 0 25 2 1
+0 28 12 16
 1
 end_operator
 begin_operator
@@ -16264,8 +16264,8 @@ overcome boils intoxication yogurt vulcan neptune
 1
 15 12
 2
-0 28 12 16
 0 25 1 3
+0 28 12 16
 1
 end_operator
 begin_operator
@@ -16273,8 +16273,8 @@ overcome boils triumph baguette mars vulcan
 1
 16 0
 2
-0 28 0 17
 0 26 3 0
+0 28 0 17
 1
 end_operator
 begin_operator
@@ -16282,8 +16282,8 @@ overcome boils triumph baguette neptune venus
 1
 16 0
 2
-0 28 0 17
 0 26 2 1
+0 28 0 17
 1
 end_operator
 begin_operator
@@ -16291,8 +16291,8 @@ overcome boils triumph baguette vulcan neptune
 1
 16 0
 2
-0 28 0 17
 0 26 1 3
+0 28 0 17
 1
 end_operator
 begin_operator
@@ -16300,8 +16300,8 @@ overcome boils triumph beef mars vulcan
 1
 16 1
 2
-0 28 1 17
 0 26 3 0
+0 28 1 17
 1
 end_operator
 begin_operator
@@ -16309,8 +16309,8 @@ overcome boils triumph beef neptune venus
 1
 16 1
 2
-0 28 1 17
 0 26 2 1
+0 28 1 17
 1
 end_operator
 begin_operator
@@ -16318,8 +16318,8 @@ overcome boils triumph beef vulcan neptune
 1
 16 1
 2
-0 28 1 17
 0 26 1 3
+0 28 1 17
 1
 end_operator
 begin_operator
@@ -16327,8 +16327,8 @@ overcome boils triumph chicken mars vulcan
 1
 16 2
 2
-0 28 2 17
 0 26 3 0
+0 28 2 17
 1
 end_operator
 begin_operator
@@ -16336,8 +16336,8 @@ overcome boils triumph chicken neptune venus
 1
 16 2
 2
-0 28 2 17
 0 26 2 1
+0 28 2 17
 1
 end_operator
 begin_operator
@@ -16345,8 +16345,8 @@ overcome boils triumph chicken vulcan neptune
 1
 16 2
 2
-0 28 2 17
 0 26 1 3
+0 28 2 17
 1
 end_operator
 begin_operator
@@ -16354,8 +16354,8 @@ overcome boils triumph cucumber mars vulcan
 1
 16 3
 2
-0 28 3 17
 0 26 3 0
+0 28 3 17
 1
 end_operator
 begin_operator
@@ -16363,8 +16363,8 @@ overcome boils triumph cucumber neptune venus
 1
 16 3
 2
-0 28 3 17
 0 26 2 1
+0 28 3 17
 1
 end_operator
 begin_operator
@@ -16372,8 +16372,8 @@ overcome boils triumph cucumber vulcan neptune
 1
 16 3
 2
-0 28 3 17
 0 26 1 3
+0 28 3 17
 1
 end_operator
 begin_operator
@@ -16381,8 +16381,8 @@ overcome boils triumph guava mars vulcan
 1
 16 4
 2
-0 28 4 17
 0 26 3 0
+0 28 4 17
 1
 end_operator
 begin_operator
@@ -16390,8 +16390,8 @@ overcome boils triumph guava neptune venus
 1
 16 4
 2
-0 28 4 17
 0 26 2 1
+0 28 4 17
 1
 end_operator
 begin_operator
@@ -16399,8 +16399,8 @@ overcome boils triumph guava vulcan neptune
 1
 16 4
 2
-0 28 4 17
 0 26 1 3
+0 28 4 17
 1
 end_operator
 begin_operator
@@ -16408,8 +16408,8 @@ overcome boils triumph hamburger mars vulcan
 1
 16 5
 2
-0 28 5 17
 0 26 3 0
+0 28 5 17
 1
 end_operator
 begin_operator
@@ -16417,8 +16417,8 @@ overcome boils triumph hamburger neptune venus
 1
 16 5
 2
-0 28 5 17
 0 26 2 1
+0 28 5 17
 1
 end_operator
 begin_operator
@@ -16426,8 +16426,8 @@ overcome boils triumph hamburger vulcan neptune
 1
 16 5
 2
-0 28 5 17
 0 26 1 3
+0 28 5 17
 1
 end_operator
 begin_operator
@@ -16435,8 +16435,8 @@ overcome boils triumph hotdog mars vulcan
 1
 16 6
 2
-0 28 6 17
 0 26 3 0
+0 28 6 17
 1
 end_operator
 begin_operator
@@ -16444,8 +16444,8 @@ overcome boils triumph hotdog neptune venus
 1
 16 6
 2
-0 28 6 17
 0 26 2 1
+0 28 6 17
 1
 end_operator
 begin_operator
@@ -16453,8 +16453,8 @@ overcome boils triumph hotdog vulcan neptune
 1
 16 6
 2
-0 28 6 17
 0 26 1 3
+0 28 6 17
 1
 end_operator
 begin_operator
@@ -16462,8 +16462,8 @@ overcome boils triumph muffin mars vulcan
 1
 16 7
 2
-0 28 7 17
 0 26 3 0
+0 28 7 17
 1
 end_operator
 begin_operator
@@ -16471,8 +16471,8 @@ overcome boils triumph muffin neptune venus
 1
 16 7
 2
-0 28 7 17
 0 26 2 1
+0 28 7 17
 1
 end_operator
 begin_operator
@@ -16480,8 +16480,8 @@ overcome boils triumph muffin vulcan neptune
 1
 16 7
 2
-0 28 7 17
 0 26 1 3
+0 28 7 17
 1
 end_operator
 begin_operator
@@ -16489,8 +16489,8 @@ overcome boils triumph mutton mars vulcan
 1
 16 8
 2
-0 28 8 17
 0 26 3 0
+0 28 8 17
 1
 end_operator
 begin_operator
@@ -16498,8 +16498,8 @@ overcome boils triumph mutton neptune venus
 1
 16 8
 2
-0 28 8 17
 0 26 2 1
+0 28 8 17
 1
 end_operator
 begin_operator
@@ -16507,8 +16507,8 @@ overcome boils triumph mutton vulcan neptune
 1
 16 8
 2
-0 28 8 17
 0 26 1 3
+0 28 8 17
 1
 end_operator
 begin_operator
@@ -16516,8 +16516,8 @@ overcome boils triumph rice mars vulcan
 1
 16 9
 2
-0 28 9 17
 0 26 3 0
+0 28 9 17
 1
 end_operator
 begin_operator
@@ -16525,8 +16525,8 @@ overcome boils triumph rice neptune venus
 1
 16 9
 2
-0 28 9 17
 0 26 2 1
+0 28 9 17
 1
 end_operator
 begin_operator
@@ -16534,8 +16534,8 @@ overcome boils triumph rice vulcan neptune
 1
 16 9
 2
-0 28 9 17
 0 26 1 3
+0 28 9 17
 1
 end_operator
 begin_operator
@@ -16543,8 +16543,8 @@ overcome boils triumph scallop mars vulcan
 1
 16 10
 2
-0 28 10 17
 0 26 3 0
+0 28 10 17
 1
 end_operator
 begin_operator
@@ -16552,8 +16552,8 @@ overcome boils triumph scallop neptune venus
 1
 16 10
 2
-0 28 10 17
 0 26 2 1
+0 28 10 17
 1
 end_operator
 begin_operator
@@ -16561,8 +16561,8 @@ overcome boils triumph scallop vulcan neptune
 1
 16 10
 2
-0 28 10 17
 0 26 1 3
+0 28 10 17
 1
 end_operator
 begin_operator
@@ -16570,8 +16570,8 @@ overcome boils triumph turkey mars vulcan
 1
 16 11
 2
-0 28 11 17
 0 26 3 0
+0 28 11 17
 1
 end_operator
 begin_operator
@@ -16579,8 +16579,8 @@ overcome boils triumph turkey neptune venus
 1
 16 11
 2
-0 28 11 17
 0 26 2 1
+0 28 11 17
 1
 end_operator
 begin_operator
@@ -16588,8 +16588,8 @@ overcome boils triumph turkey vulcan neptune
 1
 16 11
 2
-0 28 11 17
 0 26 1 3
+0 28 11 17
 1
 end_operator
 begin_operator
@@ -16597,8 +16597,8 @@ overcome boils triumph yogurt mars vulcan
 1
 16 12
 2
-0 28 12 17
 0 26 3 0
+0 28 12 17
 1
 end_operator
 begin_operator
@@ -16606,8 +16606,8 @@ overcome boils triumph yogurt neptune venus
 1
 16 12
 2
-0 28 12 17
 0 26 2 1
+0 28 12 17
 1
 end_operator
 begin_operator
@@ -16615,8 +16615,8 @@ overcome boils triumph yogurt vulcan neptune
 1
 16 12
 2
-0 28 12 17
 0 26 1 3
+0 28 12 17
 1
 end_operator
 begin_operator
@@ -16624,8 +16624,8 @@ overcome dread achievement baguette mars vulcan
 1
 10 0
 2
-0 29 0 13
 0 21 3 0
+0 29 0 13
 1
 end_operator
 begin_operator
@@ -16633,8 +16633,8 @@ overcome dread achievement baguette neptune venus
 1
 10 0
 2
-0 29 0 13
 0 21 2 1
+0 29 0 13
 1
 end_operator
 begin_operator
@@ -16642,8 +16642,8 @@ overcome dread achievement baguette vulcan neptune
 1
 10 0
 2
-0 29 0 13
 0 21 1 3
+0 29 0 13
 1
 end_operator
 begin_operator
@@ -16651,8 +16651,8 @@ overcome dread achievement beef mars vulcan
 1
 10 1
 2
-0 29 1 13
 0 21 3 0
+0 29 1 13
 1
 end_operator
 begin_operator
@@ -16660,8 +16660,8 @@ overcome dread achievement beef neptune venus
 1
 10 1
 2
-0 29 1 13
 0 21 2 1
+0 29 1 13
 1
 end_operator
 begin_operator
@@ -16669,8 +16669,8 @@ overcome dread achievement beef vulcan neptune
 1
 10 1
 2
-0 29 1 13
 0 21 1 3
+0 29 1 13
 1
 end_operator
 begin_operator
@@ -16678,8 +16678,8 @@ overcome dread achievement chicken mars vulcan
 1
 10 2
 2
-0 29 2 13
 0 21 3 0
+0 29 2 13
 1
 end_operator
 begin_operator
@@ -16687,8 +16687,8 @@ overcome dread achievement chicken neptune venus
 1
 10 2
 2
-0 29 2 13
 0 21 2 1
+0 29 2 13
 1
 end_operator
 begin_operator
@@ -16696,8 +16696,8 @@ overcome dread achievement chicken vulcan neptune
 1
 10 2
 2
-0 29 2 13
 0 21 1 3
+0 29 2 13
 1
 end_operator
 begin_operator
@@ -16705,8 +16705,8 @@ overcome dread achievement cucumber mars vulcan
 1
 10 3
 2
-0 29 3 13
 0 21 3 0
+0 29 3 13
 1
 end_operator
 begin_operator
@@ -16714,8 +16714,8 @@ overcome dread achievement cucumber neptune venus
 1
 10 3
 2
-0 29 3 13
 0 21 2 1
+0 29 3 13
 1
 end_operator
 begin_operator
@@ -16723,8 +16723,8 @@ overcome dread achievement cucumber vulcan neptune
 1
 10 3
 2
-0 29 3 13
 0 21 1 3
+0 29 3 13
 1
 end_operator
 begin_operator
@@ -16732,8 +16732,8 @@ overcome dread achievement guava mars vulcan
 1
 10 4
 2
-0 29 4 13
 0 21 3 0
+0 29 4 13
 1
 end_operator
 begin_operator
@@ -16741,8 +16741,8 @@ overcome dread achievement guava neptune venus
 1
 10 4
 2
-0 29 4 13
 0 21 2 1
+0 29 4 13
 1
 end_operator
 begin_operator
@@ -16750,8 +16750,8 @@ overcome dread achievement guava vulcan neptune
 1
 10 4
 2
-0 29 4 13
 0 21 1 3
+0 29 4 13
 1
 end_operator
 begin_operator
@@ -16759,8 +16759,8 @@ overcome dread achievement hamburger mars vulcan
 1
 10 5
 2
-0 29 5 13
 0 21 3 0
+0 29 5 13
 1
 end_operator
 begin_operator
@@ -16768,8 +16768,8 @@ overcome dread achievement hamburger neptune venus
 1
 10 5
 2
-0 29 5 13
 0 21 2 1
+0 29 5 13
 1
 end_operator
 begin_operator
@@ -16777,8 +16777,8 @@ overcome dread achievement hamburger vulcan neptune
 1
 10 5
 2
-0 29 5 13
 0 21 1 3
+0 29 5 13
 1
 end_operator
 begin_operator
@@ -16786,8 +16786,8 @@ overcome dread achievement hotdog mars vulcan
 1
 10 6
 2
-0 29 6 13
 0 21 3 0
+0 29 6 13
 1
 end_operator
 begin_operator
@@ -16795,8 +16795,8 @@ overcome dread achievement hotdog neptune venus
 1
 10 6
 2
-0 29 6 13
 0 21 2 1
+0 29 6 13
 1
 end_operator
 begin_operator
@@ -16804,8 +16804,8 @@ overcome dread achievement hotdog vulcan neptune
 1
 10 6
 2
-0 29 6 13
 0 21 1 3
+0 29 6 13
 1
 end_operator
 begin_operator
@@ -16813,8 +16813,8 @@ overcome dread achievement muffin mars vulcan
 1
 10 7
 2
-0 29 7 13
 0 21 3 0
+0 29 7 13
 1
 end_operator
 begin_operator
@@ -16822,8 +16822,8 @@ overcome dread achievement muffin neptune venus
 1
 10 7
 2
-0 29 7 13
 0 21 2 1
+0 29 7 13
 1
 end_operator
 begin_operator
@@ -16831,8 +16831,8 @@ overcome dread achievement muffin vulcan neptune
 1
 10 7
 2
-0 29 7 13
 0 21 1 3
+0 29 7 13
 1
 end_operator
 begin_operator
@@ -16840,8 +16840,8 @@ overcome dread achievement mutton mars vulcan
 1
 10 8
 2
-0 29 8 13
 0 21 3 0
+0 29 8 13
 1
 end_operator
 begin_operator
@@ -16849,8 +16849,8 @@ overcome dread achievement mutton neptune venus
 1
 10 8
 2
-0 29 8 13
 0 21 2 1
+0 29 8 13
 1
 end_operator
 begin_operator
@@ -16858,8 +16858,8 @@ overcome dread achievement mutton vulcan neptune
 1
 10 8
 2
-0 29 8 13
 0 21 1 3
+0 29 8 13
 1
 end_operator
 begin_operator
@@ -16867,8 +16867,8 @@ overcome dread achievement rice mars vulcan
 1
 10 9
 2
-0 29 9 13
 0 21 3 0
+0 29 9 13
 1
 end_operator
 begin_operator
@@ -16876,8 +16876,8 @@ overcome dread achievement rice neptune venus
 1
 10 9
 2
-0 29 9 13
 0 21 2 1
+0 29 9 13
 1
 end_operator
 begin_operator
@@ -16885,8 +16885,8 @@ overcome dread achievement rice vulcan neptune
 1
 10 9
 2
-0 29 9 13
 0 21 1 3
+0 29 9 13
 1
 end_operator
 begin_operator
@@ -16894,8 +16894,8 @@ overcome dread achievement scallop mars vulcan
 1
 10 10
 2
-0 29 10 13
 0 21 3 0
+0 29 10 13
 1
 end_operator
 begin_operator
@@ -16903,8 +16903,8 @@ overcome dread achievement scallop neptune venus
 1
 10 10
 2
-0 29 10 13
 0 21 2 1
+0 29 10 13
 1
 end_operator
 begin_operator
@@ -16912,8 +16912,8 @@ overcome dread achievement scallop vulcan neptune
 1
 10 10
 2
-0 29 10 13
 0 21 1 3
+0 29 10 13
 1
 end_operator
 begin_operator
@@ -16921,8 +16921,8 @@ overcome dread achievement turkey mars vulcan
 1
 10 11
 2
-0 29 11 13
 0 21 3 0
+0 29 11 13
 1
 end_operator
 begin_operator
@@ -16930,8 +16930,8 @@ overcome dread achievement turkey neptune venus
 1
 10 11
 2
-0 29 11 13
 0 21 2 1
+0 29 11 13
 1
 end_operator
 begin_operator
@@ -16939,8 +16939,8 @@ overcome dread achievement turkey vulcan neptune
 1
 10 11
 2
-0 29 11 13
 0 21 1 3
+0 29 11 13
 1
 end_operator
 begin_operator
@@ -16948,8 +16948,8 @@ overcome dread achievement yogurt mars vulcan
 1
 10 12
 2
-0 29 12 13
 0 21 3 0
+0 29 12 13
 1
 end_operator
 begin_operator
@@ -16957,8 +16957,8 @@ overcome dread achievement yogurt neptune venus
 1
 10 12
 2
-0 29 12 13
 0 21 2 1
+0 29 12 13
 1
 end_operator
 begin_operator
@@ -16966,8 +16966,8 @@ overcome dread achievement yogurt vulcan neptune
 1
 10 12
 2
-0 29 12 13
 0 21 1 3
+0 29 12 13
 1
 end_operator
 begin_operator
@@ -16975,8 +16975,8 @@ overcome dread excitement baguette mars vulcan
 1
 11 0
 2
-0 29 0 14
 0 22 3 0
+0 29 0 14
 1
 end_operator
 begin_operator
@@ -16984,8 +16984,8 @@ overcome dread excitement baguette neptune venus
 1
 11 0
 2
-0 29 0 14
 0 22 2 1
+0 29 0 14
 1
 end_operator
 begin_operator
@@ -16993,8 +16993,8 @@ overcome dread excitement baguette vulcan neptune
 1
 11 0
 2
-0 29 0 14
 0 22 1 3
+0 29 0 14
 1
 end_operator
 begin_operator
@@ -17002,8 +17002,8 @@ overcome dread excitement beef mars vulcan
 1
 11 1
 2
-0 29 1 14
 0 22 3 0
+0 29 1 14
 1
 end_operator
 begin_operator
@@ -17011,8 +17011,8 @@ overcome dread excitement beef neptune venus
 1
 11 1
 2
-0 29 1 14
 0 22 2 1
+0 29 1 14
 1
 end_operator
 begin_operator
@@ -17020,8 +17020,8 @@ overcome dread excitement beef vulcan neptune
 1
 11 1
 2
-0 29 1 14
 0 22 1 3
+0 29 1 14
 1
 end_operator
 begin_operator
@@ -17029,8 +17029,8 @@ overcome dread excitement chicken mars vulcan
 1
 11 2
 2
-0 29 2 14
 0 22 3 0
+0 29 2 14
 1
 end_operator
 begin_operator
@@ -17038,8 +17038,8 @@ overcome dread excitement chicken neptune venus
 1
 11 2
 2
-0 29 2 14
 0 22 2 1
+0 29 2 14
 1
 end_operator
 begin_operator
@@ -17047,8 +17047,8 @@ overcome dread excitement chicken vulcan neptune
 1
 11 2
 2
-0 29 2 14
 0 22 1 3
+0 29 2 14
 1
 end_operator
 begin_operator
@@ -17056,8 +17056,8 @@ overcome dread excitement cucumber mars vulcan
 1
 11 3
 2
-0 29 3 14
 0 22 3 0
+0 29 3 14
 1
 end_operator
 begin_operator
@@ -17065,8 +17065,8 @@ overcome dread excitement cucumber neptune venus
 1
 11 3
 2
-0 29 3 14
 0 22 2 1
+0 29 3 14
 1
 end_operator
 begin_operator
@@ -17074,8 +17074,8 @@ overcome dread excitement cucumber vulcan neptune
 1
 11 3
 2
-0 29 3 14
 0 22 1 3
+0 29 3 14
 1
 end_operator
 begin_operator
@@ -17083,8 +17083,8 @@ overcome dread excitement guava mars vulcan
 1
 11 4
 2
-0 29 4 14
 0 22 3 0
+0 29 4 14
 1
 end_operator
 begin_operator
@@ -17092,8 +17092,8 @@ overcome dread excitement guava neptune venus
 1
 11 4
 2
-0 29 4 14
 0 22 2 1
+0 29 4 14
 1
 end_operator
 begin_operator
@@ -17101,8 +17101,8 @@ overcome dread excitement guava vulcan neptune
 1
 11 4
 2
-0 29 4 14
 0 22 1 3
+0 29 4 14
 1
 end_operator
 begin_operator
@@ -17110,8 +17110,8 @@ overcome dread excitement hamburger mars vulcan
 1
 11 5
 2
-0 29 5 14
 0 22 3 0
+0 29 5 14
 1
 end_operator
 begin_operator
@@ -17119,8 +17119,8 @@ overcome dread excitement hamburger neptune venus
 1
 11 5
 2
-0 29 5 14
 0 22 2 1
+0 29 5 14
 1
 end_operator
 begin_operator
@@ -17128,8 +17128,8 @@ overcome dread excitement hamburger vulcan neptune
 1
 11 5
 2
-0 29 5 14
 0 22 1 3
+0 29 5 14
 1
 end_operator
 begin_operator
@@ -17137,8 +17137,8 @@ overcome dread excitement hotdog mars vulcan
 1
 11 6
 2
-0 29 6 14
 0 22 3 0
+0 29 6 14
 1
 end_operator
 begin_operator
@@ -17146,8 +17146,8 @@ overcome dread excitement hotdog neptune venus
 1
 11 6
 2
-0 29 6 14
 0 22 2 1
+0 29 6 14
 1
 end_operator
 begin_operator
@@ -17155,8 +17155,8 @@ overcome dread excitement hotdog vulcan neptune
 1
 11 6
 2
-0 29 6 14
 0 22 1 3
+0 29 6 14
 1
 end_operator
 begin_operator
@@ -17164,8 +17164,8 @@ overcome dread excitement muffin mars vulcan
 1
 11 7
 2
-0 29 7 14
 0 22 3 0
+0 29 7 14
 1
 end_operator
 begin_operator
@@ -17173,8 +17173,8 @@ overcome dread excitement muffin neptune venus
 1
 11 7
 2
-0 29 7 14
 0 22 2 1
+0 29 7 14
 1
 end_operator
 begin_operator
@@ -17182,8 +17182,8 @@ overcome dread excitement muffin vulcan neptune
 1
 11 7
 2
-0 29 7 14
 0 22 1 3
+0 29 7 14
 1
 end_operator
 begin_operator
@@ -17191,8 +17191,8 @@ overcome dread excitement mutton mars vulcan
 1
 11 8
 2
-0 29 8 14
 0 22 3 0
+0 29 8 14
 1
 end_operator
 begin_operator
@@ -17200,8 +17200,8 @@ overcome dread excitement mutton neptune venus
 1
 11 8
 2
-0 29 8 14
 0 22 2 1
+0 29 8 14
 1
 end_operator
 begin_operator
@@ -17209,8 +17209,8 @@ overcome dread excitement mutton vulcan neptune
 1
 11 8
 2
-0 29 8 14
 0 22 1 3
+0 29 8 14
 1
 end_operator
 begin_operator
@@ -17218,8 +17218,8 @@ overcome dread excitement rice mars vulcan
 1
 11 9
 2
-0 29 9 14
 0 22 3 0
+0 29 9 14
 1
 end_operator
 begin_operator
@@ -17227,8 +17227,8 @@ overcome dread excitement rice neptune venus
 1
 11 9
 2
-0 29 9 14
 0 22 2 1
+0 29 9 14
 1
 end_operator
 begin_operator
@@ -17236,8 +17236,8 @@ overcome dread excitement rice vulcan neptune
 1
 11 9
 2
-0 29 9 14
 0 22 1 3
+0 29 9 14
 1
 end_operator
 begin_operator
@@ -17245,8 +17245,8 @@ overcome dread excitement scallop mars vulcan
 1
 11 10
 2
-0 29 10 14
 0 22 3 0
+0 29 10 14
 1
 end_operator
 begin_operator
@@ -17254,8 +17254,8 @@ overcome dread excitement scallop neptune venus
 1
 11 10
 2
-0 29 10 14
 0 22 2 1
+0 29 10 14
 1
 end_operator
 begin_operator
@@ -17263,8 +17263,8 @@ overcome dread excitement scallop vulcan neptune
 1
 11 10
 2
-0 29 10 14
 0 22 1 3
+0 29 10 14
 1
 end_operator
 begin_operator
@@ -17272,8 +17272,8 @@ overcome dread excitement turkey mars vulcan
 1
 11 11
 2
-0 29 11 14
 0 22 3 0
+0 29 11 14
 1
 end_operator
 begin_operator
@@ -17281,8 +17281,8 @@ overcome dread excitement turkey neptune venus
 1
 11 11
 2
-0 29 11 14
 0 22 2 1
+0 29 11 14
 1
 end_operator
 begin_operator
@@ -17290,8 +17290,8 @@ overcome dread excitement turkey vulcan neptune
 1
 11 11
 2
-0 29 11 14
 0 22 1 3
+0 29 11 14
 1
 end_operator
 begin_operator
@@ -17299,8 +17299,8 @@ overcome dread excitement yogurt mars vulcan
 1
 11 12
 2
-0 29 12 14
 0 22 3 0
+0 29 12 14
 1
 end_operator
 begin_operator
@@ -17308,8 +17308,8 @@ overcome dread excitement yogurt neptune venus
 1
 11 12
 2
-0 29 12 14
 0 22 2 1
+0 29 12 14
 1
 end_operator
 begin_operator
@@ -17317,8 +17317,8 @@ overcome dread excitement yogurt vulcan neptune
 1
 11 12
 2
-0 29 12 14
 0 22 1 3
+0 29 12 14
 1
 end_operator
 begin_operator
@@ -17326,8 +17326,8 @@ overcome dread expectation baguette mars vulcan
 1
 14 0
 2
-0 29 0 15
 0 24 3 0
+0 29 0 15
 1
 end_operator
 begin_operator
@@ -17335,8 +17335,8 @@ overcome dread expectation baguette neptune venus
 1
 14 0
 2
-0 29 0 15
 0 24 2 1
+0 29 0 15
 1
 end_operator
 begin_operator
@@ -17344,8 +17344,8 @@ overcome dread expectation baguette vulcan neptune
 1
 14 0
 2
-0 29 0 15
 0 24 1 3
+0 29 0 15
 1
 end_operator
 begin_operator
@@ -17353,8 +17353,8 @@ overcome dread expectation beef mars vulcan
 1
 14 1
 2
-0 29 1 15
 0 24 3 0
+0 29 1 15
 1
 end_operator
 begin_operator
@@ -17362,8 +17362,8 @@ overcome dread expectation beef neptune venus
 1
 14 1
 2
-0 29 1 15
 0 24 2 1
+0 29 1 15
 1
 end_operator
 begin_operator
@@ -17371,8 +17371,8 @@ overcome dread expectation beef vulcan neptune
 1
 14 1
 2
-0 29 1 15
 0 24 1 3
+0 29 1 15
 1
 end_operator
 begin_operator
@@ -17380,8 +17380,8 @@ overcome dread expectation chicken mars vulcan
 1
 14 2
 2
-0 29 2 15
 0 24 3 0
+0 29 2 15
 1
 end_operator
 begin_operator
@@ -17389,8 +17389,8 @@ overcome dread expectation chicken neptune venus
 1
 14 2
 2
-0 29 2 15
 0 24 2 1
+0 29 2 15
 1
 end_operator
 begin_operator
@@ -17398,8 +17398,8 @@ overcome dread expectation chicken vulcan neptune
 1
 14 2
 2
-0 29 2 15
 0 24 1 3
+0 29 2 15
 1
 end_operator
 begin_operator
@@ -17407,8 +17407,8 @@ overcome dread expectation cucumber mars vulcan
 1
 14 3
 2
-0 29 3 15
 0 24 3 0
+0 29 3 15
 1
 end_operator
 begin_operator
@@ -17416,8 +17416,8 @@ overcome dread expectation cucumber neptune venus
 1
 14 3
 2
-0 29 3 15
 0 24 2 1
+0 29 3 15
 1
 end_operator
 begin_operator
@@ -17425,8 +17425,8 @@ overcome dread expectation cucumber vulcan neptune
 1
 14 3
 2
-0 29 3 15
 0 24 1 3
+0 29 3 15
 1
 end_operator
 begin_operator
@@ -17434,8 +17434,8 @@ overcome dread expectation guava mars vulcan
 1
 14 4
 2
-0 29 4 15
 0 24 3 0
+0 29 4 15
 1
 end_operator
 begin_operator
@@ -17443,8 +17443,8 @@ overcome dread expectation guava neptune venus
 1
 14 4
 2
-0 29 4 15
 0 24 2 1
+0 29 4 15
 1
 end_operator
 begin_operator
@@ -17452,8 +17452,8 @@ overcome dread expectation guava vulcan neptune
 1
 14 4
 2
-0 29 4 15
 0 24 1 3
+0 29 4 15
 1
 end_operator
 begin_operator
@@ -17461,8 +17461,8 @@ overcome dread expectation hamburger mars vulcan
 1
 14 5
 2
-0 29 5 15
 0 24 3 0
+0 29 5 15
 1
 end_operator
 begin_operator
@@ -17470,8 +17470,8 @@ overcome dread expectation hamburger neptune venus
 1
 14 5
 2
-0 29 5 15
 0 24 2 1
+0 29 5 15
 1
 end_operator
 begin_operator
@@ -17479,8 +17479,8 @@ overcome dread expectation hamburger vulcan neptune
 1
 14 5
 2
-0 29 5 15
 0 24 1 3
+0 29 5 15
 1
 end_operator
 begin_operator
@@ -17488,8 +17488,8 @@ overcome dread expectation hotdog mars vulcan
 1
 14 6
 2
-0 29 6 15
 0 24 3 0
+0 29 6 15
 1
 end_operator
 begin_operator
@@ -17497,8 +17497,8 @@ overcome dread expectation hotdog neptune venus
 1
 14 6
 2
-0 29 6 15
 0 24 2 1
+0 29 6 15
 1
 end_operator
 begin_operator
@@ -17506,8 +17506,8 @@ overcome dread expectation hotdog vulcan neptune
 1
 14 6
 2
-0 29 6 15
 0 24 1 3
+0 29 6 15
 1
 end_operator
 begin_operator
@@ -17515,8 +17515,8 @@ overcome dread expectation muffin mars vulcan
 1
 14 7
 2
-0 29 7 15
 0 24 3 0
+0 29 7 15
 1
 end_operator
 begin_operator
@@ -17524,8 +17524,8 @@ overcome dread expectation muffin neptune venus
 1
 14 7
 2
-0 29 7 15
 0 24 2 1
+0 29 7 15
 1
 end_operator
 begin_operator
@@ -17533,8 +17533,8 @@ overcome dread expectation muffin vulcan neptune
 1
 14 7
 2
-0 29 7 15
 0 24 1 3
+0 29 7 15
 1
 end_operator
 begin_operator
@@ -17542,8 +17542,8 @@ overcome dread expectation mutton mars vulcan
 1
 14 8
 2
-0 29 8 15
 0 24 3 0
+0 29 8 15
 1
 end_operator
 begin_operator
@@ -17551,8 +17551,8 @@ overcome dread expectation mutton neptune venus
 1
 14 8
 2
-0 29 8 15
 0 24 2 1
+0 29 8 15
 1
 end_operator
 begin_operator
@@ -17560,8 +17560,8 @@ overcome dread expectation mutton vulcan neptune
 1
 14 8
 2
-0 29 8 15
 0 24 1 3
+0 29 8 15
 1
 end_operator
 begin_operator
@@ -17569,8 +17569,8 @@ overcome dread expectation rice mars vulcan
 1
 14 9
 2
-0 29 9 15
 0 24 3 0
+0 29 9 15
 1
 end_operator
 begin_operator
@@ -17578,8 +17578,8 @@ overcome dread expectation rice neptune venus
 1
 14 9
 2
-0 29 9 15
 0 24 2 1
+0 29 9 15
 1
 end_operator
 begin_operator
@@ -17587,8 +17587,8 @@ overcome dread expectation rice vulcan neptune
 1
 14 9
 2
-0 29 9 15
 0 24 1 3
+0 29 9 15
 1
 end_operator
 begin_operator
@@ -17596,8 +17596,8 @@ overcome dread expectation scallop mars vulcan
 1
 14 10
 2
-0 29 10 15
 0 24 3 0
+0 29 10 15
 1
 end_operator
 begin_operator
@@ -17605,8 +17605,8 @@ overcome dread expectation scallop neptune venus
 1
 14 10
 2
-0 29 10 15
 0 24 2 1
+0 29 10 15
 1
 end_operator
 begin_operator
@@ -17614,8 +17614,8 @@ overcome dread expectation scallop vulcan neptune
 1
 14 10
 2
-0 29 10 15
 0 24 1 3
+0 29 10 15
 1
 end_operator
 begin_operator
@@ -17623,8 +17623,8 @@ overcome dread expectation turkey mars vulcan
 1
 14 11
 2
-0 29 11 15
 0 24 3 0
+0 29 11 15
 1
 end_operator
 begin_operator
@@ -17632,8 +17632,8 @@ overcome dread expectation turkey neptune venus
 1
 14 11
 2
-0 29 11 15
 0 24 2 1
+0 29 11 15
 1
 end_operator
 begin_operator
@@ -17641,8 +17641,8 @@ overcome dread expectation turkey vulcan neptune
 1
 14 11
 2
-0 29 11 15
 0 24 1 3
+0 29 11 15
 1
 end_operator
 begin_operator
@@ -17650,8 +17650,8 @@ overcome dread expectation yogurt mars vulcan
 1
 14 12
 2
-0 29 12 15
 0 24 3 0
+0 29 12 15
 1
 end_operator
 begin_operator
@@ -17659,8 +17659,8 @@ overcome dread expectation yogurt neptune venus
 1
 14 12
 2
-0 29 12 15
 0 24 2 1
+0 29 12 15
 1
 end_operator
 begin_operator
@@ -17668,8 +17668,8 @@ overcome dread expectation yogurt vulcan neptune
 1
 14 12
 2
-0 29 12 15
 0 24 1 3
+0 29 12 15
 1
 end_operator
 begin_operator
@@ -17677,8 +17677,8 @@ overcome dread intoxication baguette mars vulcan
 1
 15 0
 2
-0 29 0 16
 0 25 3 0
+0 29 0 16
 1
 end_operator
 begin_operator
@@ -17686,8 +17686,8 @@ overcome dread intoxication baguette neptune venus
 1
 15 0
 2
-0 29 0 16
 0 25 2 1
+0 29 0 16
 1
 end_operator
 begin_operator
@@ -17695,8 +17695,8 @@ overcome dread intoxication baguette vulcan neptune
 1
 15 0
 2
-0 29 0 16
 0 25 1 3
+0 29 0 16
 1
 end_operator
 begin_operator
@@ -17704,8 +17704,8 @@ overcome dread intoxication beef mars vulcan
 1
 15 1
 2
-0 29 1 16
 0 25 3 0
+0 29 1 16
 1
 end_operator
 begin_operator
@@ -17713,8 +17713,8 @@ overcome dread intoxication beef neptune venus
 1
 15 1
 2
-0 29 1 16
 0 25 2 1
+0 29 1 16
 1
 end_operator
 begin_operator
@@ -17722,8 +17722,8 @@ overcome dread intoxication beef vulcan neptune
 1
 15 1
 2
-0 29 1 16
 0 25 1 3
+0 29 1 16
 1
 end_operator
 begin_operator
@@ -17731,8 +17731,8 @@ overcome dread intoxication chicken mars vulcan
 1
 15 2
 2
-0 29 2 16
 0 25 3 0
+0 29 2 16
 1
 end_operator
 begin_operator
@@ -17740,8 +17740,8 @@ overcome dread intoxication chicken neptune venus
 1
 15 2
 2
-0 29 2 16
 0 25 2 1
+0 29 2 16
 1
 end_operator
 begin_operator
@@ -17749,8 +17749,8 @@ overcome dread intoxication chicken vulcan neptune
 1
 15 2
 2
-0 29 2 16
 0 25 1 3
+0 29 2 16
 1
 end_operator
 begin_operator
@@ -17758,8 +17758,8 @@ overcome dread intoxication cucumber mars vulcan
 1
 15 3
 2
-0 29 3 16
 0 25 3 0
+0 29 3 16
 1
 end_operator
 begin_operator
@@ -17767,8 +17767,8 @@ overcome dread intoxication cucumber neptune venus
 1
 15 3
 2
-0 29 3 16
 0 25 2 1
+0 29 3 16
 1
 end_operator
 begin_operator
@@ -17776,8 +17776,8 @@ overcome dread intoxication cucumber vulcan neptune
 1
 15 3
 2
-0 29 3 16
 0 25 1 3
+0 29 3 16
 1
 end_operator
 begin_operator
@@ -17785,8 +17785,8 @@ overcome dread intoxication guava mars vulcan
 1
 15 4
 2
-0 29 4 16
 0 25 3 0
+0 29 4 16
 1
 end_operator
 begin_operator
@@ -17794,8 +17794,8 @@ overcome dread intoxication guava neptune venus
 1
 15 4
 2
-0 29 4 16
 0 25 2 1
+0 29 4 16
 1
 end_operator
 begin_operator
@@ -17803,8 +17803,8 @@ overcome dread intoxication guava vulcan neptune
 1
 15 4
 2
-0 29 4 16
 0 25 1 3
+0 29 4 16
 1
 end_operator
 begin_operator
@@ -17812,8 +17812,8 @@ overcome dread intoxication hamburger mars vulcan
 1
 15 5
 2
-0 29 5 16
 0 25 3 0
+0 29 5 16
 1
 end_operator
 begin_operator
@@ -17821,8 +17821,8 @@ overcome dread intoxication hamburger neptune venus
 1
 15 5
 2
-0 29 5 16
 0 25 2 1
+0 29 5 16
 1
 end_operator
 begin_operator
@@ -17830,8 +17830,8 @@ overcome dread intoxication hamburger vulcan neptune
 1
 15 5
 2
-0 29 5 16
 0 25 1 3
+0 29 5 16
 1
 end_operator
 begin_operator
@@ -17839,8 +17839,8 @@ overcome dread intoxication hotdog mars vulcan
 1
 15 6
 2
-0 29 6 16
 0 25 3 0
+0 29 6 16
 1
 end_operator
 begin_operator
@@ -17848,8 +17848,8 @@ overcome dread intoxication hotdog neptune venus
 1
 15 6
 2
-0 29 6 16
 0 25 2 1
+0 29 6 16
 1
 end_operator
 begin_operator
@@ -17857,8 +17857,8 @@ overcome dread intoxication hotdog vulcan neptune
 1
 15 6
 2
-0 29 6 16
 0 25 1 3
+0 29 6 16
 1
 end_operator
 begin_operator
@@ -17866,8 +17866,8 @@ overcome dread intoxication muffin mars vulcan
 1
 15 7
 2
-0 29 7 16
 0 25 3 0
+0 29 7 16
 1
 end_operator
 begin_operator
@@ -17875,8 +17875,8 @@ overcome dread intoxication muffin neptune venus
 1
 15 7
 2
-0 29 7 16
 0 25 2 1
+0 29 7 16
 1
 end_operator
 begin_operator
@@ -17884,8 +17884,8 @@ overcome dread intoxication muffin vulcan neptune
 1
 15 7
 2
-0 29 7 16
 0 25 1 3
+0 29 7 16
 1
 end_operator
 begin_operator
@@ -17893,8 +17893,8 @@ overcome dread intoxication mutton mars vulcan
 1
 15 8
 2
-0 29 8 16
 0 25 3 0
+0 29 8 16
 1
 end_operator
 begin_operator
@@ -17902,8 +17902,8 @@ overcome dread intoxication mutton neptune venus
 1
 15 8
 2
-0 29 8 16
 0 25 2 1
+0 29 8 16
 1
 end_operator
 begin_operator
@@ -17911,8 +17911,8 @@ overcome dread intoxication mutton vulcan neptune
 1
 15 8
 2
-0 29 8 16
 0 25 1 3
+0 29 8 16
 1
 end_operator
 begin_operator
@@ -17920,8 +17920,8 @@ overcome dread intoxication rice mars vulcan
 1
 15 9
 2
-0 29 9 16
 0 25 3 0
+0 29 9 16
 1
 end_operator
 begin_operator
@@ -17929,8 +17929,8 @@ overcome dread intoxication rice neptune venus
 1
 15 9
 2
-0 29 9 16
 0 25 2 1
+0 29 9 16
 1
 end_operator
 begin_operator
@@ -17938,8 +17938,8 @@ overcome dread intoxication rice vulcan neptune
 1
 15 9
 2
-0 29 9 16
 0 25 1 3
+0 29 9 16
 1
 end_operator
 begin_operator
@@ -17947,8 +17947,8 @@ overcome dread intoxication scallop mars vulcan
 1
 15 10
 2
-0 29 10 16
 0 25 3 0
+0 29 10 16
 1
 end_operator
 begin_operator
@@ -17956,8 +17956,8 @@ overcome dread intoxication scallop neptune venus
 1
 15 10
 2
-0 29 10 16
 0 25 2 1
+0 29 10 16
 1
 end_operator
 begin_operator
@@ -17965,8 +17965,8 @@ overcome dread intoxication scallop vulcan neptune
 1
 15 10
 2
-0 29 10 16
 0 25 1 3
+0 29 10 16
 1
 end_operator
 begin_operator
@@ -17974,8 +17974,8 @@ overcome dread intoxication turkey mars vulcan
 1
 15 11
 2
-0 29 11 16
 0 25 3 0
+0 29 11 16
 1
 end_operator
 begin_operator
@@ -17983,8 +17983,8 @@ overcome dread intoxication turkey neptune venus
 1
 15 11
 2
-0 29 11 16
 0 25 2 1
+0 29 11 16
 1
 end_operator
 begin_operator
@@ -17992,8 +17992,8 @@ overcome dread intoxication turkey vulcan neptune
 1
 15 11
 2
-0 29 11 16
 0 25 1 3
+0 29 11 16
 1
 end_operator
 begin_operator
@@ -18001,8 +18001,8 @@ overcome dread intoxication yogurt mars vulcan
 1
 15 12
 2
-0 29 12 16
 0 25 3 0
+0 29 12 16
 1
 end_operator
 begin_operator
@@ -18010,8 +18010,8 @@ overcome dread intoxication yogurt neptune venus
 1
 15 12
 2
-0 29 12 16
 0 25 2 1
+0 29 12 16
 1
 end_operator
 begin_operator
@@ -18019,8 +18019,8 @@ overcome dread intoxication yogurt vulcan neptune
 1
 15 12
 2
-0 29 12 16
 0 25 1 3
+0 29 12 16
 1
 end_operator
 begin_operator
@@ -18028,8 +18028,8 @@ overcome dread triumph baguette mars vulcan
 1
 16 0
 2
-0 29 0 17
 0 26 3 0
+0 29 0 17
 1
 end_operator
 begin_operator
@@ -18037,8 +18037,8 @@ overcome dread triumph baguette neptune venus
 1
 16 0
 2
-0 29 0 17
 0 26 2 1
+0 29 0 17
 1
 end_operator
 begin_operator
@@ -18046,8 +18046,8 @@ overcome dread triumph baguette vulcan neptune
 1
 16 0
 2
-0 29 0 17
 0 26 1 3
+0 29 0 17
 1
 end_operator
 begin_operator
@@ -18055,8 +18055,8 @@ overcome dread triumph beef mars vulcan
 1
 16 1
 2
-0 29 1 17
 0 26 3 0
+0 29 1 17
 1
 end_operator
 begin_operator
@@ -18064,8 +18064,8 @@ overcome dread triumph beef neptune venus
 1
 16 1
 2
-0 29 1 17
 0 26 2 1
+0 29 1 17
 1
 end_operator
 begin_operator
@@ -18073,8 +18073,8 @@ overcome dread triumph beef vulcan neptune
 1
 16 1
 2
-0 29 1 17
 0 26 1 3
+0 29 1 17
 1
 end_operator
 begin_operator
@@ -18082,8 +18082,8 @@ overcome dread triumph chicken mars vulcan
 1
 16 2
 2
-0 29 2 17
 0 26 3 0
+0 29 2 17
 1
 end_operator
 begin_operator
@@ -18091,8 +18091,8 @@ overcome dread triumph chicken neptune venus
 1
 16 2
 2
-0 29 2 17
 0 26 2 1
+0 29 2 17
 1
 end_operator
 begin_operator
@@ -18100,8 +18100,8 @@ overcome dread triumph chicken vulcan neptune
 1
 16 2
 2
-0 29 2 17
 0 26 1 3
+0 29 2 17
 1
 end_operator
 begin_operator
@@ -18109,8 +18109,8 @@ overcome dread triumph cucumber mars vulcan
 1
 16 3
 2
-0 29 3 17
 0 26 3 0
+0 29 3 17
 1
 end_operator
 begin_operator
@@ -18118,8 +18118,8 @@ overcome dread triumph cucumber neptune venus
 1
 16 3
 2
-0 29 3 17
 0 26 2 1
+0 29 3 17
 1
 end_operator
 begin_operator
@@ -18127,8 +18127,8 @@ overcome dread triumph cucumber vulcan neptune
 1
 16 3
 2
-0 29 3 17
 0 26 1 3
+0 29 3 17
 1
 end_operator
 begin_operator
@@ -18136,8 +18136,8 @@ overcome dread triumph guava mars vulcan
 1
 16 4
 2
-0 29 4 17
 0 26 3 0
+0 29 4 17
 1
 end_operator
 begin_operator
@@ -18145,8 +18145,8 @@ overcome dread triumph guava neptune venus
 1
 16 4
 2
-0 29 4 17
 0 26 2 1
+0 29 4 17
 1
 end_operator
 begin_operator
@@ -18154,8 +18154,8 @@ overcome dread triumph guava vulcan neptune
 1
 16 4
 2
-0 29 4 17
 0 26 1 3
+0 29 4 17
 1
 end_operator
 begin_operator
@@ -18163,8 +18163,8 @@ overcome dread triumph hamburger mars vulcan
 1
 16 5
 2
-0 29 5 17
 0 26 3 0
+0 29 5 17
 1
 end_operator
 begin_operator
@@ -18172,8 +18172,8 @@ overcome dread triumph hamburger neptune venus
 1
 16 5
 2
-0 29 5 17
 0 26 2 1
+0 29 5 17
 1
 end_operator
 begin_operator
@@ -18181,8 +18181,8 @@ overcome dread triumph hamburger vulcan neptune
 1
 16 5
 2
-0 29 5 17
 0 26 1 3
+0 29 5 17
 1
 end_operator
 begin_operator
@@ -18190,8 +18190,8 @@ overcome dread triumph hotdog mars vulcan
 1
 16 6
 2
-0 29 6 17
 0 26 3 0
+0 29 6 17
 1
 end_operator
 begin_operator
@@ -18199,8 +18199,8 @@ overcome dread triumph hotdog neptune venus
 1
 16 6
 2
-0 29 6 17
 0 26 2 1
+0 29 6 17
 1
 end_operator
 begin_operator
@@ -18208,8 +18208,8 @@ overcome dread triumph hotdog vulcan neptune
 1
 16 6
 2
-0 29 6 17
 0 26 1 3
+0 29 6 17
 1
 end_operator
 begin_operator
@@ -18217,8 +18217,8 @@ overcome dread triumph muffin mars vulcan
 1
 16 7
 2
-0 29 7 17
 0 26 3 0
+0 29 7 17
 1
 end_operator
 begin_operator
@@ -18226,8 +18226,8 @@ overcome dread triumph muffin neptune venus
 1
 16 7
 2
-0 29 7 17
 0 26 2 1
+0 29 7 17
 1
 end_operator
 begin_operator
@@ -18235,8 +18235,8 @@ overcome dread triumph muffin vulcan neptune
 1
 16 7
 2
-0 29 7 17
 0 26 1 3
+0 29 7 17
 1
 end_operator
 begin_operator
@@ -18244,8 +18244,8 @@ overcome dread triumph mutton mars vulcan
 1
 16 8
 2
-0 29 8 17
 0 26 3 0
+0 29 8 17
 1
 end_operator
 begin_operator
@@ -18253,8 +18253,8 @@ overcome dread triumph mutton neptune venus
 1
 16 8
 2
-0 29 8 17
 0 26 2 1
+0 29 8 17
 1
 end_operator
 begin_operator
@@ -18262,8 +18262,8 @@ overcome dread triumph mutton vulcan neptune
 1
 16 8
 2
-0 29 8 17
 0 26 1 3
+0 29 8 17
 1
 end_operator
 begin_operator
@@ -18271,8 +18271,8 @@ overcome dread triumph rice mars vulcan
 1
 16 9
 2
-0 29 9 17
 0 26 3 0
+0 29 9 17
 1
 end_operator
 begin_operator
@@ -18280,8 +18280,8 @@ overcome dread triumph rice neptune venus
 1
 16 9
 2
-0 29 9 17
 0 26 2 1
+0 29 9 17
 1
 end_operator
 begin_operator
@@ -18289,8 +18289,8 @@ overcome dread triumph rice vulcan neptune
 1
 16 9
 2
-0 29 9 17
 0 26 1 3
+0 29 9 17
 1
 end_operator
 begin_operator
@@ -18298,8 +18298,8 @@ overcome dread triumph scallop mars vulcan
 1
 16 10
 2
-0 29 10 17
 0 26 3 0
+0 29 10 17
 1
 end_operator
 begin_operator
@@ -18307,8 +18307,8 @@ overcome dread triumph scallop neptune venus
 1
 16 10
 2
-0 29 10 17
 0 26 2 1
+0 29 10 17
 1
 end_operator
 begin_operator
@@ -18316,8 +18316,8 @@ overcome dread triumph scallop vulcan neptune
 1
 16 10
 2
-0 29 10 17
 0 26 1 3
+0 29 10 17
 1
 end_operator
 begin_operator
@@ -18325,8 +18325,8 @@ overcome dread triumph turkey mars vulcan
 1
 16 11
 2
-0 29 11 17
 0 26 3 0
+0 29 11 17
 1
 end_operator
 begin_operator
@@ -18334,8 +18334,8 @@ overcome dread triumph turkey neptune venus
 1
 16 11
 2
-0 29 11 17
 0 26 2 1
+0 29 11 17
 1
 end_operator
 begin_operator
@@ -18343,8 +18343,8 @@ overcome dread triumph turkey vulcan neptune
 1
 16 11
 2
-0 29 11 17
 0 26 1 3
+0 29 11 17
 1
 end_operator
 begin_operator
@@ -18352,8 +18352,8 @@ overcome dread triumph yogurt mars vulcan
 1
 16 12
 2
-0 29 12 17
 0 26 3 0
+0 29 12 17
 1
 end_operator
 begin_operator
@@ -18361,8 +18361,8 @@ overcome dread triumph yogurt neptune venus
 1
 16 12
 2
-0 29 12 17
 0 26 2 1
+0 29 12 17
 1
 end_operator
 begin_operator
@@ -18370,8 +18370,8 @@ overcome dread triumph yogurt vulcan neptune
 1
 16 12
 2
-0 29 12 17
 0 26 1 3
+0 29 12 17
 1
 end_operator
 begin_operator
@@ -21889,8 +21889,8 @@ overcome sciatica achievement baguette mars vulcan
 1
 10 0
 2
-0 23 0 13
 0 21 3 0
+0 23 0 13
 1
 end_operator
 begin_operator
@@ -21898,8 +21898,8 @@ overcome sciatica achievement baguette neptune venus
 1
 10 0
 2
-0 23 0 13
 0 21 2 1
+0 23 0 13
 1
 end_operator
 begin_operator
@@ -21907,8 +21907,8 @@ overcome sciatica achievement baguette vulcan neptune
 1
 10 0
 2
-0 23 0 13
 0 21 1 3
+0 23 0 13
 1
 end_operator
 begin_operator
@@ -21916,8 +21916,8 @@ overcome sciatica achievement beef mars vulcan
 1
 10 1
 2
-0 23 1 13
 0 21 3 0
+0 23 1 13
 1
 end_operator
 begin_operator
@@ -21925,8 +21925,8 @@ overcome sciatica achievement beef neptune venus
 1
 10 1
 2
-0 23 1 13
 0 21 2 1
+0 23 1 13
 1
 end_operator
 begin_operator
@@ -21934,8 +21934,8 @@ overcome sciatica achievement beef vulcan neptune
 1
 10 1
 2
-0 23 1 13
 0 21 1 3
+0 23 1 13
 1
 end_operator
 begin_operator
@@ -21943,8 +21943,8 @@ overcome sciatica achievement chicken mars vulcan
 1
 10 2
 2
-0 23 2 13
 0 21 3 0
+0 23 2 13
 1
 end_operator
 begin_operator
@@ -21952,8 +21952,8 @@ overcome sciatica achievement chicken neptune venus
 1
 10 2
 2
-0 23 2 13
 0 21 2 1
+0 23 2 13
 1
 end_operator
 begin_operator
@@ -21961,8 +21961,8 @@ overcome sciatica achievement chicken vulcan neptune
 1
 10 2
 2
-0 23 2 13
 0 21 1 3
+0 23 2 13
 1
 end_operator
 begin_operator
@@ -21970,8 +21970,8 @@ overcome sciatica achievement cucumber mars vulcan
 1
 10 3
 2
-0 23 3 13
 0 21 3 0
+0 23 3 13
 1
 end_operator
 begin_operator
@@ -21979,8 +21979,8 @@ overcome sciatica achievement cucumber neptune venus
 1
 10 3
 2
-0 23 3 13
 0 21 2 1
+0 23 3 13
 1
 end_operator
 begin_operator
@@ -21988,8 +21988,8 @@ overcome sciatica achievement cucumber vulcan neptune
 1
 10 3
 2
-0 23 3 13
 0 21 1 3
+0 23 3 13
 1
 end_operator
 begin_operator
@@ -21997,8 +21997,8 @@ overcome sciatica achievement guava mars vulcan
 1
 10 4
 2
-0 23 4 13
 0 21 3 0
+0 23 4 13
 1
 end_operator
 begin_operator
@@ -22006,8 +22006,8 @@ overcome sciatica achievement guava neptune venus
 1
 10 4
 2
-0 23 4 13
 0 21 2 1
+0 23 4 13
 1
 end_operator
 begin_operator
@@ -22015,8 +22015,8 @@ overcome sciatica achievement guava vulcan neptune
 1
 10 4
 2
-0 23 4 13
 0 21 1 3
+0 23 4 13
 1
 end_operator
 begin_operator
@@ -22024,8 +22024,8 @@ overcome sciatica achievement hamburger mars vulcan
 1
 10 5
 2
-0 23 5 13
 0 21 3 0
+0 23 5 13
 1
 end_operator
 begin_operator
@@ -22033,8 +22033,8 @@ overcome sciatica achievement hamburger neptune venus
 1
 10 5
 2
-0 23 5 13
 0 21 2 1
+0 23 5 13
 1
 end_operator
 begin_operator
@@ -22042,8 +22042,8 @@ overcome sciatica achievement hamburger vulcan neptune
 1
 10 5
 2
-0 23 5 13
 0 21 1 3
+0 23 5 13
 1
 end_operator
 begin_operator
@@ -22051,8 +22051,8 @@ overcome sciatica achievement hotdog mars vulcan
 1
 10 6
 2
-0 23 6 13
 0 21 3 0
+0 23 6 13
 1
 end_operator
 begin_operator
@@ -22060,8 +22060,8 @@ overcome sciatica achievement hotdog neptune venus
 1
 10 6
 2
-0 23 6 13
 0 21 2 1
+0 23 6 13
 1
 end_operator
 begin_operator
@@ -22069,8 +22069,8 @@ overcome sciatica achievement hotdog vulcan neptune
 1
 10 6
 2
-0 23 6 13
 0 21 1 3
+0 23 6 13
 1
 end_operator
 begin_operator
@@ -22078,8 +22078,8 @@ overcome sciatica achievement muffin mars vulcan
 1
 10 7
 2
-0 23 7 13
 0 21 3 0
+0 23 7 13
 1
 end_operator
 begin_operator
@@ -22087,8 +22087,8 @@ overcome sciatica achievement muffin neptune venus
 1
 10 7
 2
-0 23 7 13
 0 21 2 1
+0 23 7 13
 1
 end_operator
 begin_operator
@@ -22096,8 +22096,8 @@ overcome sciatica achievement muffin vulcan neptune
 1
 10 7
 2
-0 23 7 13
 0 21 1 3
+0 23 7 13
 1
 end_operator
 begin_operator
@@ -22105,8 +22105,8 @@ overcome sciatica achievement mutton mars vulcan
 1
 10 8
 2
-0 23 8 13
 0 21 3 0
+0 23 8 13
 1
 end_operator
 begin_operator
@@ -22114,8 +22114,8 @@ overcome sciatica achievement mutton neptune venus
 1
 10 8
 2
-0 23 8 13
 0 21 2 1
+0 23 8 13
 1
 end_operator
 begin_operator
@@ -22123,8 +22123,8 @@ overcome sciatica achievement mutton vulcan neptune
 1
 10 8
 2
-0 23 8 13
 0 21 1 3
+0 23 8 13
 1
 end_operator
 begin_operator
@@ -22132,8 +22132,8 @@ overcome sciatica achievement rice mars vulcan
 1
 10 9
 2
-0 23 9 13
 0 21 3 0
+0 23 9 13
 1
 end_operator
 begin_operator
@@ -22141,8 +22141,8 @@ overcome sciatica achievement rice neptune venus
 1
 10 9
 2
-0 23 9 13
 0 21 2 1
+0 23 9 13
 1
 end_operator
 begin_operator
@@ -22150,8 +22150,8 @@ overcome sciatica achievement rice vulcan neptune
 1
 10 9
 2
-0 23 9 13
 0 21 1 3
+0 23 9 13
 1
 end_operator
 begin_operator
@@ -22159,8 +22159,8 @@ overcome sciatica achievement scallop mars vulcan
 1
 10 10
 2
-0 23 10 13
 0 21 3 0
+0 23 10 13
 1
 end_operator
 begin_operator
@@ -22168,8 +22168,8 @@ overcome sciatica achievement scallop neptune venus
 1
 10 10
 2
-0 23 10 13
 0 21 2 1
+0 23 10 13
 1
 end_operator
 begin_operator
@@ -22177,8 +22177,8 @@ overcome sciatica achievement scallop vulcan neptune
 1
 10 10
 2
-0 23 10 13
 0 21 1 3
+0 23 10 13
 1
 end_operator
 begin_operator
@@ -22186,8 +22186,8 @@ overcome sciatica achievement turkey mars vulcan
 1
 10 11
 2
-0 23 11 13
 0 21 3 0
+0 23 11 13
 1
 end_operator
 begin_operator
@@ -22195,8 +22195,8 @@ overcome sciatica achievement turkey neptune venus
 1
 10 11
 2
-0 23 11 13
 0 21 2 1
+0 23 11 13
 1
 end_operator
 begin_operator
@@ -22204,8 +22204,8 @@ overcome sciatica achievement turkey vulcan neptune
 1
 10 11
 2
-0 23 11 13
 0 21 1 3
+0 23 11 13
 1
 end_operator
 begin_operator
@@ -22213,8 +22213,8 @@ overcome sciatica achievement yogurt mars vulcan
 1
 10 12
 2
-0 23 12 13
 0 21 3 0
+0 23 12 13
 1
 end_operator
 begin_operator
@@ -22222,8 +22222,8 @@ overcome sciatica achievement yogurt neptune venus
 1
 10 12
 2
-0 23 12 13
 0 21 2 1
+0 23 12 13
 1
 end_operator
 begin_operator
@@ -22231,8 +22231,8 @@ overcome sciatica achievement yogurt vulcan neptune
 1
 10 12
 2
-0 23 12 13
 0 21 1 3
+0 23 12 13
 1
 end_operator
 begin_operator
@@ -22240,8 +22240,8 @@ overcome sciatica excitement baguette mars vulcan
 1
 11 0
 2
-0 23 0 14
 0 22 3 0
+0 23 0 14
 1
 end_operator
 begin_operator
@@ -22249,8 +22249,8 @@ overcome sciatica excitement baguette neptune venus
 1
 11 0
 2
-0 23 0 14
 0 22 2 1
+0 23 0 14
 1
 end_operator
 begin_operator
@@ -22258,8 +22258,8 @@ overcome sciatica excitement baguette vulcan neptune
 1
 11 0
 2
-0 23 0 14
 0 22 1 3
+0 23 0 14
 1
 end_operator
 begin_operator
@@ -22267,8 +22267,8 @@ overcome sciatica excitement beef mars vulcan
 1
 11 1
 2
-0 23 1 14
 0 22 3 0
+0 23 1 14
 1
 end_operator
 begin_operator
@@ -22276,8 +22276,8 @@ overcome sciatica excitement beef neptune venus
 1
 11 1
 2
-0 23 1 14
 0 22 2 1
+0 23 1 14
 1
 end_operator
 begin_operator
@@ -22285,8 +22285,8 @@ overcome sciatica excitement beef vulcan neptune
 1
 11 1
 2
-0 23 1 14
 0 22 1 3
+0 23 1 14
 1
 end_operator
 begin_operator
@@ -22294,8 +22294,8 @@ overcome sciatica excitement chicken mars vulcan
 1
 11 2
 2
-0 23 2 14
 0 22 3 0
+0 23 2 14
 1
 end_operator
 begin_operator
@@ -22303,8 +22303,8 @@ overcome sciatica excitement chicken neptune venus
 1
 11 2
 2
-0 23 2 14
 0 22 2 1
+0 23 2 14
 1
 end_operator
 begin_operator
@@ -22312,8 +22312,8 @@ overcome sciatica excitement chicken vulcan neptune
 1
 11 2
 2
-0 23 2 14
 0 22 1 3
+0 23 2 14
 1
 end_operator
 begin_operator
@@ -22321,8 +22321,8 @@ overcome sciatica excitement cucumber mars vulcan
 1
 11 3
 2
-0 23 3 14
 0 22 3 0
+0 23 3 14
 1
 end_operator
 begin_operator
@@ -22330,8 +22330,8 @@ overcome sciatica excitement cucumber neptune venus
 1
 11 3
 2
-0 23 3 14
 0 22 2 1
+0 23 3 14
 1
 end_operator
 begin_operator
@@ -22339,8 +22339,8 @@ overcome sciatica excitement cucumber vulcan neptune
 1
 11 3
 2
-0 23 3 14
 0 22 1 3
+0 23 3 14
 1
 end_operator
 begin_operator
@@ -22348,8 +22348,8 @@ overcome sciatica excitement guava mars vulcan
 1
 11 4
 2
-0 23 4 14
 0 22 3 0
+0 23 4 14
 1
 end_operator
 begin_operator
@@ -22357,8 +22357,8 @@ overcome sciatica excitement guava neptune venus
 1
 11 4
 2
-0 23 4 14
 0 22 2 1
+0 23 4 14
 1
 end_operator
 begin_operator
@@ -22366,8 +22366,8 @@ overcome sciatica excitement guava vulcan neptune
 1
 11 4
 2
-0 23 4 14
 0 22 1 3
+0 23 4 14
 1
 end_operator
 begin_operator
@@ -22375,8 +22375,8 @@ overcome sciatica excitement hamburger mars vulcan
 1
 11 5
 2
-0 23 5 14
 0 22 3 0
+0 23 5 14
 1
 end_operator
 begin_operator
@@ -22384,8 +22384,8 @@ overcome sciatica excitement hamburger neptune venus
 1
 11 5
 2
-0 23 5 14
 0 22 2 1
+0 23 5 14
 1
 end_operator
 begin_operator
@@ -22393,8 +22393,8 @@ overcome sciatica excitement hamburger vulcan neptune
 1
 11 5
 2
-0 23 5 14
 0 22 1 3
+0 23 5 14
 1
 end_operator
 begin_operator
@@ -22402,8 +22402,8 @@ overcome sciatica excitement hotdog mars vulcan
 1
 11 6
 2
-0 23 6 14
 0 22 3 0
+0 23 6 14
 1
 end_operator
 begin_operator
@@ -22411,8 +22411,8 @@ overcome sciatica excitement hotdog neptune venus
 1
 11 6
 2
-0 23 6 14
 0 22 2 1
+0 23 6 14
 1
 end_operator
 begin_operator
@@ -22420,8 +22420,8 @@ overcome sciatica excitement hotdog vulcan neptune
 1
 11 6
 2
-0 23 6 14
 0 22 1 3
+0 23 6 14
 1
 end_operator
 begin_operator
@@ -22429,8 +22429,8 @@ overcome sciatica excitement muffin mars vulcan
 1
 11 7
 2
-0 23 7 14
 0 22 3 0
+0 23 7 14
 1
 end_operator
 begin_operator
@@ -22438,8 +22438,8 @@ overcome sciatica excitement muffin neptune venus
 1
 11 7
 2
-0 23 7 14
 0 22 2 1
+0 23 7 14
 1
 end_operator
 begin_operator
@@ -22447,8 +22447,8 @@ overcome sciatica excitement muffin vulcan neptune
 1
 11 7
 2
-0 23 7 14
 0 22 1 3
+0 23 7 14
 1
 end_operator
 begin_operator
@@ -22456,8 +22456,8 @@ overcome sciatica excitement mutton mars vulcan
 1
 11 8
 2
-0 23 8 14
 0 22 3 0
+0 23 8 14
 1
 end_operator
 begin_operator
@@ -22465,8 +22465,8 @@ overcome sciatica excitement mutton neptune venus
 1
 11 8
 2
-0 23 8 14
 0 22 2 1
+0 23 8 14
 1
 end_operator
 begin_operator
@@ -22474,8 +22474,8 @@ overcome sciatica excitement mutton vulcan neptune
 1
 11 8
 2
-0 23 8 14
 0 22 1 3
+0 23 8 14
 1
 end_operator
 begin_operator
@@ -22483,8 +22483,8 @@ overcome sciatica excitement rice mars vulcan
 1
 11 9
 2
-0 23 9 14
 0 22 3 0
+0 23 9 14
 1
 end_operator
 begin_operator
@@ -22492,8 +22492,8 @@ overcome sciatica excitement rice neptune venus
 1
 11 9
 2
-0 23 9 14
 0 22 2 1
+0 23 9 14
 1
 end_operator
 begin_operator
@@ -22501,8 +22501,8 @@ overcome sciatica excitement rice vulcan neptune
 1
 11 9
 2
-0 23 9 14
 0 22 1 3
+0 23 9 14
 1
 end_operator
 begin_operator
@@ -22510,8 +22510,8 @@ overcome sciatica excitement scallop mars vulcan
 1
 11 10
 2
-0 23 10 14
 0 22 3 0
+0 23 10 14
 1
 end_operator
 begin_operator
@@ -22519,8 +22519,8 @@ overcome sciatica excitement scallop neptune venus
 1
 11 10
 2
-0 23 10 14
 0 22 2 1
+0 23 10 14
 1
 end_operator
 begin_operator
@@ -22528,8 +22528,8 @@ overcome sciatica excitement scallop vulcan neptune
 1
 11 10
 2
-0 23 10 14
 0 22 1 3
+0 23 10 14
 1
 end_operator
 begin_operator
@@ -22537,8 +22537,8 @@ overcome sciatica excitement turkey mars vulcan
 1
 11 11
 2
-0 23 11 14
 0 22 3 0
+0 23 11 14
 1
 end_operator
 begin_operator
@@ -22546,8 +22546,8 @@ overcome sciatica excitement turkey neptune venus
 1
 11 11
 2
-0 23 11 14
 0 22 2 1
+0 23 11 14
 1
 end_operator
 begin_operator
@@ -22555,8 +22555,8 @@ overcome sciatica excitement turkey vulcan neptune
 1
 11 11
 2
-0 23 11 14
 0 22 1 3
+0 23 11 14
 1
 end_operator
 begin_operator
@@ -22564,8 +22564,8 @@ overcome sciatica excitement yogurt mars vulcan
 1
 11 12
 2
-0 23 12 14
 0 22 3 0
+0 23 12 14
 1
 end_operator
 begin_operator
@@ -22573,8 +22573,8 @@ overcome sciatica excitement yogurt neptune venus
 1
 11 12
 2
-0 23 12 14
 0 22 2 1
+0 23 12 14
 1
 end_operator
 begin_operator
@@ -22582,8 +22582,8 @@ overcome sciatica excitement yogurt vulcan neptune
 1
 11 12
 2
-0 23 12 14
 0 22 1 3
+0 23 12 14
 1
 end_operator
 begin_operator
@@ -25399,8 +25399,8 @@ succumb anxiety achievement baguette mars vulcan
 1
 10 0
 2
-0 27 13 0
 0 21 0 3
+0 27 13 0
 1
 end_operator
 begin_operator
@@ -25408,8 +25408,8 @@ succumb anxiety achievement baguette neptune venus
 1
 10 0
 2
-0 27 13 0
 0 21 1 2
+0 27 13 0
 1
 end_operator
 begin_operator
@@ -25417,8 +25417,8 @@ succumb anxiety achievement baguette vulcan neptune
 1
 10 0
 2
-0 27 13 0
 0 21 3 1
+0 27 13 0
 1
 end_operator
 begin_operator
@@ -25426,8 +25426,8 @@ succumb anxiety achievement beef mars vulcan
 1
 10 1
 2
-0 27 13 1
 0 21 0 3
+0 27 13 1
 1
 end_operator
 begin_operator
@@ -25435,8 +25435,8 @@ succumb anxiety achievement beef neptune venus
 1
 10 1
 2
-0 27 13 1
 0 21 1 2
+0 27 13 1
 1
 end_operator
 begin_operator
@@ -25444,8 +25444,8 @@ succumb anxiety achievement beef vulcan neptune
 1
 10 1
 2
-0 27 13 1
 0 21 3 1
+0 27 13 1
 1
 end_operator
 begin_operator
@@ -25453,8 +25453,8 @@ succumb anxiety achievement chicken mars vulcan
 1
 10 2
 2
-0 27 13 2
 0 21 0 3
+0 27 13 2
 1
 end_operator
 begin_operator
@@ -25462,8 +25462,8 @@ succumb anxiety achievement chicken neptune venus
 1
 10 2
 2
-0 27 13 2
 0 21 1 2
+0 27 13 2
 1
 end_operator
 begin_operator
@@ -25471,8 +25471,8 @@ succumb anxiety achievement chicken vulcan neptune
 1
 10 2
 2
-0 27 13 2
 0 21 3 1
+0 27 13 2
 1
 end_operator
 begin_operator
@@ -25480,8 +25480,8 @@ succumb anxiety achievement cucumber mars vulcan
 1
 10 3
 2
-0 27 13 3
 0 21 0 3
+0 27 13 3
 1
 end_operator
 begin_operator
@@ -25489,8 +25489,8 @@ succumb anxiety achievement cucumber neptune venus
 1
 10 3
 2
-0 27 13 3
 0 21 1 2
+0 27 13 3
 1
 end_operator
 begin_operator
@@ -25498,8 +25498,8 @@ succumb anxiety achievement cucumber vulcan neptune
 1
 10 3
 2
-0 27 13 3
 0 21 3 1
+0 27 13 3
 1
 end_operator
 begin_operator
@@ -25507,8 +25507,8 @@ succumb anxiety achievement guava mars vulcan
 1
 10 4
 2
-0 27 13 4
 0 21 0 3
+0 27 13 4
 1
 end_operator
 begin_operator
@@ -25516,8 +25516,8 @@ succumb anxiety achievement guava neptune venus
 1
 10 4
 2
-0 27 13 4
 0 21 1 2
+0 27 13 4
 1
 end_operator
 begin_operator
@@ -25525,8 +25525,8 @@ succumb anxiety achievement guava vulcan neptune
 1
 10 4
 2
-0 27 13 4
 0 21 3 1
+0 27 13 4
 1
 end_operator
 begin_operator
@@ -25534,8 +25534,8 @@ succumb anxiety achievement hamburger mars vulcan
 1
 10 5
 2
-0 27 13 5
 0 21 0 3
+0 27 13 5
 1
 end_operator
 begin_operator
@@ -25543,8 +25543,8 @@ succumb anxiety achievement hamburger neptune venus
 1
 10 5
 2
-0 27 13 5
 0 21 1 2
+0 27 13 5
 1
 end_operator
 begin_operator
@@ -25552,8 +25552,8 @@ succumb anxiety achievement hamburger vulcan neptune
 1
 10 5
 2
-0 27 13 5
 0 21 3 1
+0 27 13 5
 1
 end_operator
 begin_operator
@@ -25561,8 +25561,8 @@ succumb anxiety achievement hotdog mars vulcan
 1
 10 6
 2
-0 27 13 6
 0 21 0 3
+0 27 13 6
 1
 end_operator
 begin_operator
@@ -25570,8 +25570,8 @@ succumb anxiety achievement hotdog neptune venus
 1
 10 6
 2
-0 27 13 6
 0 21 1 2
+0 27 13 6
 1
 end_operator
 begin_operator
@@ -25579,8 +25579,8 @@ succumb anxiety achievement hotdog vulcan neptune
 1
 10 6
 2
-0 27 13 6
 0 21 3 1
+0 27 13 6
 1
 end_operator
 begin_operator
@@ -25588,8 +25588,8 @@ succumb anxiety achievement muffin mars vulcan
 1
 10 7
 2
-0 27 13 7
 0 21 0 3
+0 27 13 7
 1
 end_operator
 begin_operator
@@ -25597,8 +25597,8 @@ succumb anxiety achievement muffin neptune venus
 1
 10 7
 2
-0 27 13 7
 0 21 1 2
+0 27 13 7
 1
 end_operator
 begin_operator
@@ -25606,8 +25606,8 @@ succumb anxiety achievement muffin vulcan neptune
 1
 10 7
 2
-0 27 13 7
 0 21 3 1
+0 27 13 7
 1
 end_operator
 begin_operator
@@ -25615,8 +25615,8 @@ succumb anxiety achievement mutton mars vulcan
 1
 10 8
 2
-0 27 13 8
 0 21 0 3
+0 27 13 8
 1
 end_operator
 begin_operator
@@ -25624,8 +25624,8 @@ succumb anxiety achievement mutton neptune venus
 1
 10 8
 2
-0 27 13 8
 0 21 1 2
+0 27 13 8
 1
 end_operator
 begin_operator
@@ -25633,8 +25633,8 @@ succumb anxiety achievement mutton vulcan neptune
 1
 10 8
 2
-0 27 13 8
 0 21 3 1
+0 27 13 8
 1
 end_operator
 begin_operator
@@ -25642,8 +25642,8 @@ succumb anxiety achievement rice mars vulcan
 1
 10 9
 2
-0 27 13 9
 0 21 0 3
+0 27 13 9
 1
 end_operator
 begin_operator
@@ -25651,8 +25651,8 @@ succumb anxiety achievement rice neptune venus
 1
 10 9
 2
-0 27 13 9
 0 21 1 2
+0 27 13 9
 1
 end_operator
 begin_operator
@@ -25660,8 +25660,8 @@ succumb anxiety achievement rice vulcan neptune
 1
 10 9
 2
-0 27 13 9
 0 21 3 1
+0 27 13 9
 1
 end_operator
 begin_operator
@@ -25669,8 +25669,8 @@ succumb anxiety achievement scallop mars vulcan
 1
 10 10
 2
-0 27 13 10
 0 21 0 3
+0 27 13 10
 1
 end_operator
 begin_operator
@@ -25678,8 +25678,8 @@ succumb anxiety achievement scallop neptune venus
 1
 10 10
 2
-0 27 13 10
 0 21 1 2
+0 27 13 10
 1
 end_operator
 begin_operator
@@ -25687,8 +25687,8 @@ succumb anxiety achievement scallop vulcan neptune
 1
 10 10
 2
-0 27 13 10
 0 21 3 1
+0 27 13 10
 1
 end_operator
 begin_operator
@@ -25696,8 +25696,8 @@ succumb anxiety achievement turkey mars vulcan
 1
 10 11
 2
-0 27 13 11
 0 21 0 3
+0 27 13 11
 1
 end_operator
 begin_operator
@@ -25705,8 +25705,8 @@ succumb anxiety achievement turkey neptune venus
 1
 10 11
 2
-0 27 13 11
 0 21 1 2
+0 27 13 11
 1
 end_operator
 begin_operator
@@ -25714,8 +25714,8 @@ succumb anxiety achievement turkey vulcan neptune
 1
 10 11
 2
-0 27 13 11
 0 21 3 1
+0 27 13 11
 1
 end_operator
 begin_operator
@@ -25723,8 +25723,8 @@ succumb anxiety achievement yogurt mars vulcan
 1
 10 12
 2
-0 27 13 12
 0 21 0 3
+0 27 13 12
 1
 end_operator
 begin_operator
@@ -25732,8 +25732,8 @@ succumb anxiety achievement yogurt neptune venus
 1
 10 12
 2
-0 27 13 12
 0 21 1 2
+0 27 13 12
 1
 end_operator
 begin_operator
@@ -25741,8 +25741,8 @@ succumb anxiety achievement yogurt vulcan neptune
 1
 10 12
 2
-0 27 13 12
 0 21 3 1
+0 27 13 12
 1
 end_operator
 begin_operator
@@ -25750,8 +25750,8 @@ succumb anxiety excitement baguette mars vulcan
 1
 11 0
 2
-0 27 14 0
 0 22 0 3
+0 27 14 0
 1
 end_operator
 begin_operator
@@ -25759,8 +25759,8 @@ succumb anxiety excitement baguette neptune venus
 1
 11 0
 2
-0 27 14 0
 0 22 1 2
+0 27 14 0
 1
 end_operator
 begin_operator
@@ -25768,8 +25768,8 @@ succumb anxiety excitement baguette vulcan neptune
 1
 11 0
 2
-0 27 14 0
 0 22 3 1
+0 27 14 0
 1
 end_operator
 begin_operator
@@ -25777,8 +25777,8 @@ succumb anxiety excitement beef mars vulcan
 1
 11 1
 2
-0 27 14 1
 0 22 0 3
+0 27 14 1
 1
 end_operator
 begin_operator
@@ -25786,8 +25786,8 @@ succumb anxiety excitement beef neptune venus
 1
 11 1
 2
-0 27 14 1
 0 22 1 2
+0 27 14 1
 1
 end_operator
 begin_operator
@@ -25795,8 +25795,8 @@ succumb anxiety excitement beef vulcan neptune
 1
 11 1
 2
-0 27 14 1
 0 22 3 1
+0 27 14 1
 1
 end_operator
 begin_operator
@@ -25804,8 +25804,8 @@ succumb anxiety excitement chicken mars vulcan
 1
 11 2
 2
-0 27 14 2
 0 22 0 3
+0 27 14 2
 1
 end_operator
 begin_operator
@@ -25813,8 +25813,8 @@ succumb anxiety excitement chicken neptune venus
 1
 11 2
 2
-0 27 14 2
 0 22 1 2
+0 27 14 2
 1
 end_operator
 begin_operator
@@ -25822,8 +25822,8 @@ succumb anxiety excitement chicken vulcan neptune
 1
 11 2
 2
-0 27 14 2
 0 22 3 1
+0 27 14 2
 1
 end_operator
 begin_operator
@@ -25831,8 +25831,8 @@ succumb anxiety excitement cucumber mars vulcan
 1
 11 3
 2
-0 27 14 3
 0 22 0 3
+0 27 14 3
 1
 end_operator
 begin_operator
@@ -25840,8 +25840,8 @@ succumb anxiety excitement cucumber neptune venus
 1
 11 3
 2
-0 27 14 3
 0 22 1 2
+0 27 14 3
 1
 end_operator
 begin_operator
@@ -25849,8 +25849,8 @@ succumb anxiety excitement cucumber vulcan neptune
 1
 11 3
 2
-0 27 14 3
 0 22 3 1
+0 27 14 3
 1
 end_operator
 begin_operator
@@ -25858,8 +25858,8 @@ succumb anxiety excitement guava mars vulcan
 1
 11 4
 2
-0 27 14 4
 0 22 0 3
+0 27 14 4
 1
 end_operator
 begin_operator
@@ -25867,8 +25867,8 @@ succumb anxiety excitement guava neptune venus
 1
 11 4
 2
-0 27 14 4
 0 22 1 2
+0 27 14 4
 1
 end_operator
 begin_operator
@@ -25876,8 +25876,8 @@ succumb anxiety excitement guava vulcan neptune
 1
 11 4
 2
-0 27 14 4
 0 22 3 1
+0 27 14 4
 1
 end_operator
 begin_operator
@@ -25885,8 +25885,8 @@ succumb anxiety excitement hamburger mars vulcan
 1
 11 5
 2
-0 27 14 5
 0 22 0 3
+0 27 14 5
 1
 end_operator
 begin_operator
@@ -25894,8 +25894,8 @@ succumb anxiety excitement hamburger neptune venus
 1
 11 5
 2
-0 27 14 5
 0 22 1 2
+0 27 14 5
 1
 end_operator
 begin_operator
@@ -25903,8 +25903,8 @@ succumb anxiety excitement hamburger vulcan neptune
 1
 11 5
 2
-0 27 14 5
 0 22 3 1
+0 27 14 5
 1
 end_operator
 begin_operator
@@ -25912,8 +25912,8 @@ succumb anxiety excitement hotdog mars vulcan
 1
 11 6
 2
-0 27 14 6
 0 22 0 3
+0 27 14 6
 1
 end_operator
 begin_operator
@@ -25921,8 +25921,8 @@ succumb anxiety excitement hotdog neptune venus
 1
 11 6
 2
-0 27 14 6
 0 22 1 2
+0 27 14 6
 1
 end_operator
 begin_operator
@@ -25930,8 +25930,8 @@ succumb anxiety excitement hotdog vulcan neptune
 1
 11 6
 2
-0 27 14 6
 0 22 3 1
+0 27 14 6
 1
 end_operator
 begin_operator
@@ -25939,8 +25939,8 @@ succumb anxiety excitement muffin mars vulcan
 1
 11 7
 2
-0 27 14 7
 0 22 0 3
+0 27 14 7
 1
 end_operator
 begin_operator
@@ -25948,8 +25948,8 @@ succumb anxiety excitement muffin neptune venus
 1
 11 7
 2
-0 27 14 7
 0 22 1 2
+0 27 14 7
 1
 end_operator
 begin_operator
@@ -25957,8 +25957,8 @@ succumb anxiety excitement muffin vulcan neptune
 1
 11 7
 2
-0 27 14 7
 0 22 3 1
+0 27 14 7
 1
 end_operator
 begin_operator
@@ -25966,8 +25966,8 @@ succumb anxiety excitement mutton mars vulcan
 1
 11 8
 2
-0 27 14 8
 0 22 0 3
+0 27 14 8
 1
 end_operator
 begin_operator
@@ -25975,8 +25975,8 @@ succumb anxiety excitement mutton neptune venus
 1
 11 8
 2
-0 27 14 8
 0 22 1 2
+0 27 14 8
 1
 end_operator
 begin_operator
@@ -25984,8 +25984,8 @@ succumb anxiety excitement mutton vulcan neptune
 1
 11 8
 2
-0 27 14 8
 0 22 3 1
+0 27 14 8
 1
 end_operator
 begin_operator
@@ -25993,8 +25993,8 @@ succumb anxiety excitement rice mars vulcan
 1
 11 9
 2
-0 27 14 9
 0 22 0 3
+0 27 14 9
 1
 end_operator
 begin_operator
@@ -26002,8 +26002,8 @@ succumb anxiety excitement rice neptune venus
 1
 11 9
 2
-0 27 14 9
 0 22 1 2
+0 27 14 9
 1
 end_operator
 begin_operator
@@ -26011,8 +26011,8 @@ succumb anxiety excitement rice vulcan neptune
 1
 11 9
 2
-0 27 14 9
 0 22 3 1
+0 27 14 9
 1
 end_operator
 begin_operator
@@ -26020,8 +26020,8 @@ succumb anxiety excitement scallop mars vulcan
 1
 11 10
 2
-0 27 14 10
 0 22 0 3
+0 27 14 10
 1
 end_operator
 begin_operator
@@ -26029,8 +26029,8 @@ succumb anxiety excitement scallop neptune venus
 1
 11 10
 2
-0 27 14 10
 0 22 1 2
+0 27 14 10
 1
 end_operator
 begin_operator
@@ -26038,8 +26038,8 @@ succumb anxiety excitement scallop vulcan neptune
 1
 11 10
 2
-0 27 14 10
 0 22 3 1
+0 27 14 10
 1
 end_operator
 begin_operator
@@ -26047,8 +26047,8 @@ succumb anxiety excitement turkey mars vulcan
 1
 11 11
 2
-0 27 14 11
 0 22 0 3
+0 27 14 11
 1
 end_operator
 begin_operator
@@ -26056,8 +26056,8 @@ succumb anxiety excitement turkey neptune venus
 1
 11 11
 2
-0 27 14 11
 0 22 1 2
+0 27 14 11
 1
 end_operator
 begin_operator
@@ -26065,8 +26065,8 @@ succumb anxiety excitement turkey vulcan neptune
 1
 11 11
 2
-0 27 14 11
 0 22 3 1
+0 27 14 11
 1
 end_operator
 begin_operator
@@ -26074,8 +26074,8 @@ succumb anxiety excitement yogurt mars vulcan
 1
 11 12
 2
-0 27 14 12
 0 22 0 3
+0 27 14 12
 1
 end_operator
 begin_operator
@@ -26083,8 +26083,8 @@ succumb anxiety excitement yogurt neptune venus
 1
 11 12
 2
-0 27 14 12
 0 22 1 2
+0 27 14 12
 1
 end_operator
 begin_operator
@@ -26092,8 +26092,8 @@ succumb anxiety excitement yogurt vulcan neptune
 1
 11 12
 2
-0 27 14 12
 0 22 3 1
+0 27 14 12
 1
 end_operator
 begin_operator
@@ -26101,8 +26101,8 @@ succumb anxiety expectation baguette mars vulcan
 1
 14 0
 2
-0 27 15 0
 0 24 0 3
+0 27 15 0
 1
 end_operator
 begin_operator
@@ -26110,8 +26110,8 @@ succumb anxiety expectation baguette neptune venus
 1
 14 0
 2
-0 27 15 0
 0 24 1 2
+0 27 15 0
 1
 end_operator
 begin_operator
@@ -26119,8 +26119,8 @@ succumb anxiety expectation baguette vulcan neptune
 1
 14 0
 2
-0 27 15 0
 0 24 3 1
+0 27 15 0
 1
 end_operator
 begin_operator
@@ -26128,8 +26128,8 @@ succumb anxiety expectation beef mars vulcan
 1
 14 1
 2
-0 27 15 1
 0 24 0 3
+0 27 15 1
 1
 end_operator
 begin_operator
@@ -26137,8 +26137,8 @@ succumb anxiety expectation beef neptune venus
 1
 14 1
 2
-0 27 15 1
 0 24 1 2
+0 27 15 1
 1
 end_operator
 begin_operator
@@ -26146,8 +26146,8 @@ succumb anxiety expectation beef vulcan neptune
 1
 14 1
 2
-0 27 15 1
 0 24 3 1
+0 27 15 1
 1
 end_operator
 begin_operator
@@ -26155,8 +26155,8 @@ succumb anxiety expectation chicken mars vulcan
 1
 14 2
 2
-0 27 15 2
 0 24 0 3
+0 27 15 2
 1
 end_operator
 begin_operator
@@ -26164,8 +26164,8 @@ succumb anxiety expectation chicken neptune venus
 1
 14 2
 2
-0 27 15 2
 0 24 1 2
+0 27 15 2
 1
 end_operator
 begin_operator
@@ -26173,8 +26173,8 @@ succumb anxiety expectation chicken vulcan neptune
 1
 14 2
 2
-0 27 15 2
 0 24 3 1
+0 27 15 2
 1
 end_operator
 begin_operator
@@ -26182,8 +26182,8 @@ succumb anxiety expectation cucumber mars vulcan
 1
 14 3
 2
-0 27 15 3
 0 24 0 3
+0 27 15 3
 1
 end_operator
 begin_operator
@@ -26191,8 +26191,8 @@ succumb anxiety expectation cucumber neptune venus
 1
 14 3
 2
-0 27 15 3
 0 24 1 2
+0 27 15 3
 1
 end_operator
 begin_operator
@@ -26200,8 +26200,8 @@ succumb anxiety expectation cucumber vulcan neptune
 1
 14 3
 2
-0 27 15 3
 0 24 3 1
+0 27 15 3
 1
 end_operator
 begin_operator
@@ -26209,8 +26209,8 @@ succumb anxiety expectation guava mars vulcan
 1
 14 4
 2
-0 27 15 4
 0 24 0 3
+0 27 15 4
 1
 end_operator
 begin_operator
@@ -26218,8 +26218,8 @@ succumb anxiety expectation guava neptune venus
 1
 14 4
 2
-0 27 15 4
 0 24 1 2
+0 27 15 4
 1
 end_operator
 begin_operator
@@ -26227,8 +26227,8 @@ succumb anxiety expectation guava vulcan neptune
 1
 14 4
 2
-0 27 15 4
 0 24 3 1
+0 27 15 4
 1
 end_operator
 begin_operator
@@ -26236,8 +26236,8 @@ succumb anxiety expectation hamburger mars vulcan
 1
 14 5
 2
-0 27 15 5
 0 24 0 3
+0 27 15 5
 1
 end_operator
 begin_operator
@@ -26245,8 +26245,8 @@ succumb anxiety expectation hamburger neptune venus
 1
 14 5
 2
-0 27 15 5
 0 24 1 2
+0 27 15 5
 1
 end_operator
 begin_operator
@@ -26254,8 +26254,8 @@ succumb anxiety expectation hamburger vulcan neptune
 1
 14 5
 2
-0 27 15 5
 0 24 3 1
+0 27 15 5
 1
 end_operator
 begin_operator
@@ -26263,8 +26263,8 @@ succumb anxiety expectation hotdog mars vulcan
 1
 14 6
 2
-0 27 15 6
 0 24 0 3
+0 27 15 6
 1
 end_operator
 begin_operator
@@ -26272,8 +26272,8 @@ succumb anxiety expectation hotdog neptune venus
 1
 14 6
 2
-0 27 15 6
 0 24 1 2
+0 27 15 6
 1
 end_operator
 begin_operator
@@ -26281,8 +26281,8 @@ succumb anxiety expectation hotdog vulcan neptune
 1
 14 6
 2
-0 27 15 6
 0 24 3 1
+0 27 15 6
 1
 end_operator
 begin_operator
@@ -26290,8 +26290,8 @@ succumb anxiety expectation muffin mars vulcan
 1
 14 7
 2
-0 27 15 7
 0 24 0 3
+0 27 15 7
 1
 end_operator
 begin_operator
@@ -26299,8 +26299,8 @@ succumb anxiety expectation muffin neptune venus
 1
 14 7
 2
-0 27 15 7
 0 24 1 2
+0 27 15 7
 1
 end_operator
 begin_operator
@@ -26308,8 +26308,8 @@ succumb anxiety expectation muffin vulcan neptune
 1
 14 7
 2
-0 27 15 7
 0 24 3 1
+0 27 15 7
 1
 end_operator
 begin_operator
@@ -26317,8 +26317,8 @@ succumb anxiety expectation mutton mars vulcan
 1
 14 8
 2
-0 27 15 8
 0 24 0 3
+0 27 15 8
 1
 end_operator
 begin_operator
@@ -26326,8 +26326,8 @@ succumb anxiety expectation mutton neptune venus
 1
 14 8
 2
-0 27 15 8
 0 24 1 2
+0 27 15 8
 1
 end_operator
 begin_operator
@@ -26335,8 +26335,8 @@ succumb anxiety expectation mutton vulcan neptune
 1
 14 8
 2
-0 27 15 8
 0 24 3 1
+0 27 15 8
 1
 end_operator
 begin_operator
@@ -26344,8 +26344,8 @@ succumb anxiety expectation rice mars vulcan
 1
 14 9
 2
-0 27 15 9
 0 24 0 3
+0 27 15 9
 1
 end_operator
 begin_operator
@@ -26353,8 +26353,8 @@ succumb anxiety expectation rice neptune venus
 1
 14 9
 2
-0 27 15 9
 0 24 1 2
+0 27 15 9
 1
 end_operator
 begin_operator
@@ -26362,8 +26362,8 @@ succumb anxiety expectation rice vulcan neptune
 1
 14 9
 2
-0 27 15 9
 0 24 3 1
+0 27 15 9
 1
 end_operator
 begin_operator
@@ -26371,8 +26371,8 @@ succumb anxiety expectation scallop mars vulcan
 1
 14 10
 2
-0 27 15 10
 0 24 0 3
+0 27 15 10
 1
 end_operator
 begin_operator
@@ -26380,8 +26380,8 @@ succumb anxiety expectation scallop neptune venus
 1
 14 10
 2
-0 27 15 10
 0 24 1 2
+0 27 15 10
 1
 end_operator
 begin_operator
@@ -26389,8 +26389,8 @@ succumb anxiety expectation scallop vulcan neptune
 1
 14 10
 2
-0 27 15 10
 0 24 3 1
+0 27 15 10
 1
 end_operator
 begin_operator
@@ -26398,8 +26398,8 @@ succumb anxiety expectation turkey mars vulcan
 1
 14 11
 2
-0 27 15 11
 0 24 0 3
+0 27 15 11
 1
 end_operator
 begin_operator
@@ -26407,8 +26407,8 @@ succumb anxiety expectation turkey neptune venus
 1
 14 11
 2
-0 27 15 11
 0 24 1 2
+0 27 15 11
 1
 end_operator
 begin_operator
@@ -26416,8 +26416,8 @@ succumb anxiety expectation turkey vulcan neptune
 1
 14 11
 2
-0 27 15 11
 0 24 3 1
+0 27 15 11
 1
 end_operator
 begin_operator
@@ -26425,8 +26425,8 @@ succumb anxiety expectation yogurt mars vulcan
 1
 14 12
 2
-0 27 15 12
 0 24 0 3
+0 27 15 12
 1
 end_operator
 begin_operator
@@ -26434,8 +26434,8 @@ succumb anxiety expectation yogurt neptune venus
 1
 14 12
 2
-0 27 15 12
 0 24 1 2
+0 27 15 12
 1
 end_operator
 begin_operator
@@ -26443,8 +26443,8 @@ succumb anxiety expectation yogurt vulcan neptune
 1
 14 12
 2
-0 27 15 12
 0 24 3 1
+0 27 15 12
 1
 end_operator
 begin_operator
@@ -26452,8 +26452,8 @@ succumb anxiety intoxication baguette mars vulcan
 1
 15 0
 2
-0 27 16 0
 0 25 0 3
+0 27 16 0
 1
 end_operator
 begin_operator
@@ -26461,8 +26461,8 @@ succumb anxiety intoxication baguette neptune venus
 1
 15 0
 2
-0 27 16 0
 0 25 1 2
+0 27 16 0
 1
 end_operator
 begin_operator
@@ -26470,8 +26470,8 @@ succumb anxiety intoxication baguette vulcan neptune
 1
 15 0
 2
-0 27 16 0
 0 25 3 1
+0 27 16 0
 1
 end_operator
 begin_operator
@@ -26479,8 +26479,8 @@ succumb anxiety intoxication beef mars vulcan
 1
 15 1
 2
-0 27 16 1
 0 25 0 3
+0 27 16 1
 1
 end_operator
 begin_operator
@@ -26488,8 +26488,8 @@ succumb anxiety intoxication beef neptune venus
 1
 15 1
 2
-0 27 16 1
 0 25 1 2
+0 27 16 1
 1
 end_operator
 begin_operator
@@ -26497,8 +26497,8 @@ succumb anxiety intoxication beef vulcan neptune
 1
 15 1
 2
-0 27 16 1
 0 25 3 1
+0 27 16 1
 1
 end_operator
 begin_operator
@@ -26506,8 +26506,8 @@ succumb anxiety intoxication chicken mars vulcan
 1
 15 2
 2
-0 27 16 2
 0 25 0 3
+0 27 16 2
 1
 end_operator
 begin_operator
@@ -26515,8 +26515,8 @@ succumb anxiety intoxication chicken neptune venus
 1
 15 2
 2
-0 27 16 2
 0 25 1 2
+0 27 16 2
 1
 end_operator
 begin_operator
@@ -26524,8 +26524,8 @@ succumb anxiety intoxication chicken vulcan neptune
 1
 15 2
 2
-0 27 16 2
 0 25 3 1
+0 27 16 2
 1
 end_operator
 begin_operator
@@ -26533,8 +26533,8 @@ succumb anxiety intoxication cucumber mars vulcan
 1
 15 3
 2
-0 27 16 3
 0 25 0 3
+0 27 16 3
 1
 end_operator
 begin_operator
@@ -26542,8 +26542,8 @@ succumb anxiety intoxication cucumber neptune venus
 1
 15 3
 2
-0 27 16 3
 0 25 1 2
+0 27 16 3
 1
 end_operator
 begin_operator
@@ -26551,8 +26551,8 @@ succumb anxiety intoxication cucumber vulcan neptune
 1
 15 3
 2
-0 27 16 3
 0 25 3 1
+0 27 16 3
 1
 end_operator
 begin_operator
@@ -26560,8 +26560,8 @@ succumb anxiety intoxication guava mars vulcan
 1
 15 4
 2
-0 27 16 4
 0 25 0 3
+0 27 16 4
 1
 end_operator
 begin_operator
@@ -26569,8 +26569,8 @@ succumb anxiety intoxication guava neptune venus
 1
 15 4
 2
-0 27 16 4
 0 25 1 2
+0 27 16 4
 1
 end_operator
 begin_operator
@@ -26578,8 +26578,8 @@ succumb anxiety intoxication guava vulcan neptune
 1
 15 4
 2
-0 27 16 4
 0 25 3 1
+0 27 16 4
 1
 end_operator
 begin_operator
@@ -26587,8 +26587,8 @@ succumb anxiety intoxication hamburger mars vulcan
 1
 15 5
 2
-0 27 16 5
 0 25 0 3
+0 27 16 5
 1
 end_operator
 begin_operator
@@ -26596,8 +26596,8 @@ succumb anxiety intoxication hamburger neptune venus
 1
 15 5
 2
-0 27 16 5
 0 25 1 2
+0 27 16 5
 1
 end_operator
 begin_operator
@@ -26605,8 +26605,8 @@ succumb anxiety intoxication hamburger vulcan neptune
 1
 15 5
 2
-0 27 16 5
 0 25 3 1
+0 27 16 5
 1
 end_operator
 begin_operator
@@ -26614,8 +26614,8 @@ succumb anxiety intoxication hotdog mars vulcan
 1
 15 6
 2
-0 27 16 6
 0 25 0 3
+0 27 16 6
 1
 end_operator
 begin_operator
@@ -26623,8 +26623,8 @@ succumb anxiety intoxication hotdog neptune venus
 1
 15 6
 2
-0 27 16 6
 0 25 1 2
+0 27 16 6
 1
 end_operator
 begin_operator
@@ -26632,8 +26632,8 @@ succumb anxiety intoxication hotdog vulcan neptune
 1
 15 6
 2
-0 27 16 6
 0 25 3 1
+0 27 16 6
 1
 end_operator
 begin_operator
@@ -26641,8 +26641,8 @@ succumb anxiety intoxication muffin mars vulcan
 1
 15 7
 2
-0 27 16 7
 0 25 0 3
+0 27 16 7
 1
 end_operator
 begin_operator
@@ -26650,8 +26650,8 @@ succumb anxiety intoxication muffin neptune venus
 1
 15 7
 2
-0 27 16 7
 0 25 1 2
+0 27 16 7
 1
 end_operator
 begin_operator
@@ -26659,8 +26659,8 @@ succumb anxiety intoxication muffin vulcan neptune
 1
 15 7
 2
-0 27 16 7
 0 25 3 1
+0 27 16 7
 1
 end_operator
 begin_operator
@@ -26668,8 +26668,8 @@ succumb anxiety intoxication mutton mars vulcan
 1
 15 8
 2
-0 27 16 8
 0 25 0 3
+0 27 16 8
 1
 end_operator
 begin_operator
@@ -26677,8 +26677,8 @@ succumb anxiety intoxication mutton neptune venus
 1
 15 8
 2
-0 27 16 8
 0 25 1 2
+0 27 16 8
 1
 end_operator
 begin_operator
@@ -26686,8 +26686,8 @@ succumb anxiety intoxication mutton vulcan neptune
 1
 15 8
 2
-0 27 16 8
 0 25 3 1
+0 27 16 8
 1
 end_operator
 begin_operator
@@ -26695,8 +26695,8 @@ succumb anxiety intoxication rice mars vulcan
 1
 15 9
 2
-0 27 16 9
 0 25 0 3
+0 27 16 9
 1
 end_operator
 begin_operator
@@ -26704,8 +26704,8 @@ succumb anxiety intoxication rice neptune venus
 1
 15 9
 2
-0 27 16 9
 0 25 1 2
+0 27 16 9
 1
 end_operator
 begin_operator
@@ -26713,8 +26713,8 @@ succumb anxiety intoxication rice vulcan neptune
 1
 15 9
 2
-0 27 16 9
 0 25 3 1
+0 27 16 9
 1
 end_operator
 begin_operator
@@ -26722,8 +26722,8 @@ succumb anxiety intoxication scallop mars vulcan
 1
 15 10
 2
-0 27 16 10
 0 25 0 3
+0 27 16 10
 1
 end_operator
 begin_operator
@@ -26731,8 +26731,8 @@ succumb anxiety intoxication scallop neptune venus
 1
 15 10
 2
-0 27 16 10
 0 25 1 2
+0 27 16 10
 1
 end_operator
 begin_operator
@@ -26740,8 +26740,8 @@ succumb anxiety intoxication scallop vulcan neptune
 1
 15 10
 2
-0 27 16 10
 0 25 3 1
+0 27 16 10
 1
 end_operator
 begin_operator
@@ -26749,8 +26749,8 @@ succumb anxiety intoxication turkey mars vulcan
 1
 15 11
 2
-0 27 16 11
 0 25 0 3
+0 27 16 11
 1
 end_operator
 begin_operator
@@ -26758,8 +26758,8 @@ succumb anxiety intoxication turkey neptune venus
 1
 15 11
 2
-0 27 16 11
 0 25 1 2
+0 27 16 11
 1
 end_operator
 begin_operator
@@ -26767,8 +26767,8 @@ succumb anxiety intoxication turkey vulcan neptune
 1
 15 11
 2
-0 27 16 11
 0 25 3 1
+0 27 16 11
 1
 end_operator
 begin_operator
@@ -26776,8 +26776,8 @@ succumb anxiety intoxication yogurt mars vulcan
 1
 15 12
 2
-0 27 16 12
 0 25 0 3
+0 27 16 12
 1
 end_operator
 begin_operator
@@ -26785,8 +26785,8 @@ succumb anxiety intoxication yogurt neptune venus
 1
 15 12
 2
-0 27 16 12
 0 25 1 2
+0 27 16 12
 1
 end_operator
 begin_operator
@@ -26794,8 +26794,8 @@ succumb anxiety intoxication yogurt vulcan neptune
 1
 15 12
 2
-0 27 16 12
 0 25 3 1
+0 27 16 12
 1
 end_operator
 begin_operator
@@ -26803,8 +26803,8 @@ succumb anxiety triumph baguette mars vulcan
 1
 16 0
 2
-0 27 17 0
 0 26 0 3
+0 27 17 0
 1
 end_operator
 begin_operator
@@ -26812,8 +26812,8 @@ succumb anxiety triumph baguette neptune venus
 1
 16 0
 2
-0 27 17 0
 0 26 1 2
+0 27 17 0
 1
 end_operator
 begin_operator
@@ -26821,8 +26821,8 @@ succumb anxiety triumph baguette vulcan neptune
 1
 16 0
 2
-0 27 17 0
 0 26 3 1
+0 27 17 0
 1
 end_operator
 begin_operator
@@ -26830,8 +26830,8 @@ succumb anxiety triumph beef mars vulcan
 1
 16 1
 2
-0 27 17 1
 0 26 0 3
+0 27 17 1
 1
 end_operator
 begin_operator
@@ -26839,8 +26839,8 @@ succumb anxiety triumph beef neptune venus
 1
 16 1
 2
-0 27 17 1
 0 26 1 2
+0 27 17 1
 1
 end_operator
 begin_operator
@@ -26848,8 +26848,8 @@ succumb anxiety triumph beef vulcan neptune
 1
 16 1
 2
-0 27 17 1
 0 26 3 1
+0 27 17 1
 1
 end_operator
 begin_operator
@@ -26857,8 +26857,8 @@ succumb anxiety triumph chicken mars vulcan
 1
 16 2
 2
-0 27 17 2
 0 26 0 3
+0 27 17 2
 1
 end_operator
 begin_operator
@@ -26866,8 +26866,8 @@ succumb anxiety triumph chicken neptune venus
 1
 16 2
 2
-0 27 17 2
 0 26 1 2
+0 27 17 2
 1
 end_operator
 begin_operator
@@ -26875,8 +26875,8 @@ succumb anxiety triumph chicken vulcan neptune
 1
 16 2
 2
-0 27 17 2
 0 26 3 1
+0 27 17 2
 1
 end_operator
 begin_operator
@@ -26884,8 +26884,8 @@ succumb anxiety triumph cucumber mars vulcan
 1
 16 3
 2
-0 27 17 3
 0 26 0 3
+0 27 17 3
 1
 end_operator
 begin_operator
@@ -26893,8 +26893,8 @@ succumb anxiety triumph cucumber neptune venus
 1
 16 3
 2
-0 27 17 3
 0 26 1 2
+0 27 17 3
 1
 end_operator
 begin_operator
@@ -26902,8 +26902,8 @@ succumb anxiety triumph cucumber vulcan neptune
 1
 16 3
 2
-0 27 17 3
 0 26 3 1
+0 27 17 3
 1
 end_operator
 begin_operator
@@ -26911,8 +26911,8 @@ succumb anxiety triumph guava mars vulcan
 1
 16 4
 2
-0 27 17 4
 0 26 0 3
+0 27 17 4
 1
 end_operator
 begin_operator
@@ -26920,8 +26920,8 @@ succumb anxiety triumph guava neptune venus
 1
 16 4
 2
-0 27 17 4
 0 26 1 2
+0 27 17 4
 1
 end_operator
 begin_operator
@@ -26929,8 +26929,8 @@ succumb anxiety triumph guava vulcan neptune
 1
 16 4
 2
-0 27 17 4
 0 26 3 1
+0 27 17 4
 1
 end_operator
 begin_operator
@@ -26938,8 +26938,8 @@ succumb anxiety triumph hamburger mars vulcan
 1
 16 5
 2
-0 27 17 5
 0 26 0 3
+0 27 17 5
 1
 end_operator
 begin_operator
@@ -26947,8 +26947,8 @@ succumb anxiety triumph hamburger neptune venus
 1
 16 5
 2
-0 27 17 5
 0 26 1 2
+0 27 17 5
 1
 end_operator
 begin_operator
@@ -26956,8 +26956,8 @@ succumb anxiety triumph hamburger vulcan neptune
 1
 16 5
 2
-0 27 17 5
 0 26 3 1
+0 27 17 5
 1
 end_operator
 begin_operator
@@ -26965,8 +26965,8 @@ succumb anxiety triumph hotdog mars vulcan
 1
 16 6
 2
-0 27 17 6
 0 26 0 3
+0 27 17 6
 1
 end_operator
 begin_operator
@@ -26974,8 +26974,8 @@ succumb anxiety triumph hotdog neptune venus
 1
 16 6
 2
-0 27 17 6
 0 26 1 2
+0 27 17 6
 1
 end_operator
 begin_operator
@@ -26983,8 +26983,8 @@ succumb anxiety triumph hotdog vulcan neptune
 1
 16 6
 2
-0 27 17 6
 0 26 3 1
+0 27 17 6
 1
 end_operator
 begin_operator
@@ -26992,8 +26992,8 @@ succumb anxiety triumph muffin mars vulcan
 1
 16 7
 2
-0 27 17 7
 0 26 0 3
+0 27 17 7
 1
 end_operator
 begin_operator
@@ -27001,8 +27001,8 @@ succumb anxiety triumph muffin neptune venus
 1
 16 7
 2
-0 27 17 7
 0 26 1 2
+0 27 17 7
 1
 end_operator
 begin_operator
@@ -27010,8 +27010,8 @@ succumb anxiety triumph muffin vulcan neptune
 1
 16 7
 2
-0 27 17 7
 0 26 3 1
+0 27 17 7
 1
 end_operator
 begin_operator
@@ -27019,8 +27019,8 @@ succumb anxiety triumph mutton mars vulcan
 1
 16 8
 2
-0 27 17 8
 0 26 0 3
+0 27 17 8
 1
 end_operator
 begin_operator
@@ -27028,8 +27028,8 @@ succumb anxiety triumph mutton neptune venus
 1
 16 8
 2
-0 27 17 8
 0 26 1 2
+0 27 17 8
 1
 end_operator
 begin_operator
@@ -27037,8 +27037,8 @@ succumb anxiety triumph mutton vulcan neptune
 1
 16 8
 2
-0 27 17 8
 0 26 3 1
+0 27 17 8
 1
 end_operator
 begin_operator
@@ -27046,8 +27046,8 @@ succumb anxiety triumph rice mars vulcan
 1
 16 9
 2
-0 27 17 9
 0 26 0 3
+0 27 17 9
 1
 end_operator
 begin_operator
@@ -27055,8 +27055,8 @@ succumb anxiety triumph rice neptune venus
 1
 16 9
 2
-0 27 17 9
 0 26 1 2
+0 27 17 9
 1
 end_operator
 begin_operator
@@ -27064,8 +27064,8 @@ succumb anxiety triumph rice vulcan neptune
 1
 16 9
 2
-0 27 17 9
 0 26 3 1
+0 27 17 9
 1
 end_operator
 begin_operator
@@ -27073,8 +27073,8 @@ succumb anxiety triumph scallop mars vulcan
 1
 16 10
 2
-0 27 17 10
 0 26 0 3
+0 27 17 10
 1
 end_operator
 begin_operator
@@ -27082,8 +27082,8 @@ succumb anxiety triumph scallop neptune venus
 1
 16 10
 2
-0 27 17 10
 0 26 1 2
+0 27 17 10
 1
 end_operator
 begin_operator
@@ -27091,8 +27091,8 @@ succumb anxiety triumph scallop vulcan neptune
 1
 16 10
 2
-0 27 17 10
 0 26 3 1
+0 27 17 10
 1
 end_operator
 begin_operator
@@ -27100,8 +27100,8 @@ succumb anxiety triumph turkey mars vulcan
 1
 16 11
 2
-0 27 17 11
 0 26 0 3
+0 27 17 11
 1
 end_operator
 begin_operator
@@ -27109,8 +27109,8 @@ succumb anxiety triumph turkey neptune venus
 1
 16 11
 2
-0 27 17 11
 0 26 1 2
+0 27 17 11
 1
 end_operator
 begin_operator
@@ -27118,8 +27118,8 @@ succumb anxiety triumph turkey vulcan neptune
 1
 16 11
 2
-0 27 17 11
 0 26 3 1
+0 27 17 11
 1
 end_operator
 begin_operator
@@ -27127,8 +27127,8 @@ succumb anxiety triumph yogurt mars vulcan
 1
 16 12
 2
-0 27 17 12
 0 26 0 3
+0 27 17 12
 1
 end_operator
 begin_operator
@@ -27136,8 +27136,8 @@ succumb anxiety triumph yogurt neptune venus
 1
 16 12
 2
-0 27 17 12
 0 26 1 2
+0 27 17 12
 1
 end_operator
 begin_operator
@@ -27145,8 +27145,8 @@ succumb anxiety triumph yogurt vulcan neptune
 1
 16 12
 2
-0 27 17 12
 0 26 3 1
+0 27 17 12
 1
 end_operator
 begin_operator
@@ -27154,8 +27154,8 @@ succumb boils achievement baguette mars vulcan
 1
 10 0
 2
-0 28 13 0
 0 21 0 3
+0 28 13 0
 1
 end_operator
 begin_operator
@@ -27163,8 +27163,8 @@ succumb boils achievement baguette neptune venus
 1
 10 0
 2
-0 28 13 0
 0 21 1 2
+0 28 13 0
 1
 end_operator
 begin_operator
@@ -27172,8 +27172,8 @@ succumb boils achievement baguette vulcan neptune
 1
 10 0
 2
-0 28 13 0
 0 21 3 1
+0 28 13 0
 1
 end_operator
 begin_operator
@@ -27181,8 +27181,8 @@ succumb boils achievement beef mars vulcan
 1
 10 1
 2
-0 28 13 1
 0 21 0 3
+0 28 13 1
 1
 end_operator
 begin_operator
@@ -27190,8 +27190,8 @@ succumb boils achievement beef neptune venus
 1
 10 1
 2
-0 28 13 1
 0 21 1 2
+0 28 13 1
 1
 end_operator
 begin_operator
@@ -27199,8 +27199,8 @@ succumb boils achievement beef vulcan neptune
 1
 10 1
 2
-0 28 13 1
 0 21 3 1
+0 28 13 1
 1
 end_operator
 begin_operator
@@ -27208,8 +27208,8 @@ succumb boils achievement chicken mars vulcan
 1
 10 2
 2
-0 28 13 2
 0 21 0 3
+0 28 13 2
 1
 end_operator
 begin_operator
@@ -27217,8 +27217,8 @@ succumb boils achievement chicken neptune venus
 1
 10 2
 2
-0 28 13 2
 0 21 1 2
+0 28 13 2
 1
 end_operator
 begin_operator
@@ -27226,8 +27226,8 @@ succumb boils achievement chicken vulcan neptune
 1
 10 2
 2
-0 28 13 2
 0 21 3 1
+0 28 13 2
 1
 end_operator
 begin_operator
@@ -27235,8 +27235,8 @@ succumb boils achievement cucumber mars vulcan
 1
 10 3
 2
-0 28 13 3
 0 21 0 3
+0 28 13 3
 1
 end_operator
 begin_operator
@@ -27244,8 +27244,8 @@ succumb boils achievement cucumber neptune venus
 1
 10 3
 2
-0 28 13 3
 0 21 1 2
+0 28 13 3
 1
 end_operator
 begin_operator
@@ -27253,8 +27253,8 @@ succumb boils achievement cucumber vulcan neptune
 1
 10 3
 2
-0 28 13 3
 0 21 3 1
+0 28 13 3
 1
 end_operator
 begin_operator
@@ -27262,8 +27262,8 @@ succumb boils achievement guava mars vulcan
 1
 10 4
 2
-0 28 13 4
 0 21 0 3
+0 28 13 4
 1
 end_operator
 begin_operator
@@ -27271,8 +27271,8 @@ succumb boils achievement guava neptune venus
 1
 10 4
 2
-0 28 13 4
 0 21 1 2
+0 28 13 4
 1
 end_operator
 begin_operator
@@ -27280,8 +27280,8 @@ succumb boils achievement guava vulcan neptune
 1
 10 4
 2
-0 28 13 4
 0 21 3 1
+0 28 13 4
 1
 end_operator
 begin_operator
@@ -27289,8 +27289,8 @@ succumb boils achievement hamburger mars vulcan
 1
 10 5
 2
-0 28 13 5
 0 21 0 3
+0 28 13 5
 1
 end_operator
 begin_operator
@@ -27298,8 +27298,8 @@ succumb boils achievement hamburger neptune venus
 1
 10 5
 2
-0 28 13 5
 0 21 1 2
+0 28 13 5
 1
 end_operator
 begin_operator
@@ -27307,8 +27307,8 @@ succumb boils achievement hamburger vulcan neptune
 1
 10 5
 2
-0 28 13 5
 0 21 3 1
+0 28 13 5
 1
 end_operator
 begin_operator
@@ -27316,8 +27316,8 @@ succumb boils achievement hotdog mars vulcan
 1
 10 6
 2
-0 28 13 6
 0 21 0 3
+0 28 13 6
 1
 end_operator
 begin_operator
@@ -27325,8 +27325,8 @@ succumb boils achievement hotdog neptune venus
 1
 10 6
 2
-0 28 13 6
 0 21 1 2
+0 28 13 6
 1
 end_operator
 begin_operator
@@ -27334,8 +27334,8 @@ succumb boils achievement hotdog vulcan neptune
 1
 10 6
 2
-0 28 13 6
 0 21 3 1
+0 28 13 6
 1
 end_operator
 begin_operator
@@ -27343,8 +27343,8 @@ succumb boils achievement muffin mars vulcan
 1
 10 7
 2
-0 28 13 7
 0 21 0 3
+0 28 13 7
 1
 end_operator
 begin_operator
@@ -27352,8 +27352,8 @@ succumb boils achievement muffin neptune venus
 1
 10 7
 2
-0 28 13 7
 0 21 1 2
+0 28 13 7
 1
 end_operator
 begin_operator
@@ -27361,8 +27361,8 @@ succumb boils achievement muffin vulcan neptune
 1
 10 7
 2
-0 28 13 7
 0 21 3 1
+0 28 13 7
 1
 end_operator
 begin_operator
@@ -27370,8 +27370,8 @@ succumb boils achievement mutton mars vulcan
 1
 10 8
 2
-0 28 13 8
 0 21 0 3
+0 28 13 8
 1
 end_operator
 begin_operator
@@ -27379,8 +27379,8 @@ succumb boils achievement mutton neptune venus
 1
 10 8
 2
-0 28 13 8
 0 21 1 2
+0 28 13 8
 1
 end_operator
 begin_operator
@@ -27388,8 +27388,8 @@ succumb boils achievement mutton vulcan neptune
 1
 10 8
 2
-0 28 13 8
 0 21 3 1
+0 28 13 8
 1
 end_operator
 begin_operator
@@ -27397,8 +27397,8 @@ succumb boils achievement rice mars vulcan
 1
 10 9
 2
-0 28 13 9
 0 21 0 3
+0 28 13 9
 1
 end_operator
 begin_operator
@@ -27406,8 +27406,8 @@ succumb boils achievement rice neptune venus
 1
 10 9
 2
-0 28 13 9
 0 21 1 2
+0 28 13 9
 1
 end_operator
 begin_operator
@@ -27415,8 +27415,8 @@ succumb boils achievement rice vulcan neptune
 1
 10 9
 2
-0 28 13 9
 0 21 3 1
+0 28 13 9
 1
 end_operator
 begin_operator
@@ -27424,8 +27424,8 @@ succumb boils achievement scallop mars vulcan
 1
 10 10
 2
-0 28 13 10
 0 21 0 3
+0 28 13 10
 1
 end_operator
 begin_operator
@@ -27433,8 +27433,8 @@ succumb boils achievement scallop neptune venus
 1
 10 10
 2
-0 28 13 10
 0 21 1 2
+0 28 13 10
 1
 end_operator
 begin_operator
@@ -27442,8 +27442,8 @@ succumb boils achievement scallop vulcan neptune
 1
 10 10
 2
-0 28 13 10
 0 21 3 1
+0 28 13 10
 1
 end_operator
 begin_operator
@@ -27451,8 +27451,8 @@ succumb boils achievement turkey mars vulcan
 1
 10 11
 2
-0 28 13 11
 0 21 0 3
+0 28 13 11
 1
 end_operator
 begin_operator
@@ -27460,8 +27460,8 @@ succumb boils achievement turkey neptune venus
 1
 10 11
 2
-0 28 13 11
 0 21 1 2
+0 28 13 11
 1
 end_operator
 begin_operator
@@ -27469,8 +27469,8 @@ succumb boils achievement turkey vulcan neptune
 1
 10 11
 2
-0 28 13 11
 0 21 3 1
+0 28 13 11
 1
 end_operator
 begin_operator
@@ -27478,8 +27478,8 @@ succumb boils achievement yogurt mars vulcan
 1
 10 12
 2
-0 28 13 12
 0 21 0 3
+0 28 13 12
 1
 end_operator
 begin_operator
@@ -27487,8 +27487,8 @@ succumb boils achievement yogurt neptune venus
 1
 10 12
 2
-0 28 13 12
 0 21 1 2
+0 28 13 12
 1
 end_operator
 begin_operator
@@ -27496,8 +27496,8 @@ succumb boils achievement yogurt vulcan neptune
 1
 10 12
 2
-0 28 13 12
 0 21 3 1
+0 28 13 12
 1
 end_operator
 begin_operator
@@ -27505,8 +27505,8 @@ succumb boils excitement baguette mars vulcan
 1
 11 0
 2
-0 28 14 0
 0 22 0 3
+0 28 14 0
 1
 end_operator
 begin_operator
@@ -27514,8 +27514,8 @@ succumb boils excitement baguette neptune venus
 1
 11 0
 2
-0 28 14 0
 0 22 1 2
+0 28 14 0
 1
 end_operator
 begin_operator
@@ -27523,8 +27523,8 @@ succumb boils excitement baguette vulcan neptune
 1
 11 0
 2
-0 28 14 0
 0 22 3 1
+0 28 14 0
 1
 end_operator
 begin_operator
@@ -27532,8 +27532,8 @@ succumb boils excitement beef mars vulcan
 1
 11 1
 2
-0 28 14 1
 0 22 0 3
+0 28 14 1
 1
 end_operator
 begin_operator
@@ -27541,8 +27541,8 @@ succumb boils excitement beef neptune venus
 1
 11 1
 2
-0 28 14 1
 0 22 1 2
+0 28 14 1
 1
 end_operator
 begin_operator
@@ -27550,8 +27550,8 @@ succumb boils excitement beef vulcan neptune
 1
 11 1
 2
-0 28 14 1
 0 22 3 1
+0 28 14 1
 1
 end_operator
 begin_operator
@@ -27559,8 +27559,8 @@ succumb boils excitement chicken mars vulcan
 1
 11 2
 2
-0 28 14 2
 0 22 0 3
+0 28 14 2
 1
 end_operator
 begin_operator
@@ -27568,8 +27568,8 @@ succumb boils excitement chicken neptune venus
 1
 11 2
 2
-0 28 14 2
 0 22 1 2
+0 28 14 2
 1
 end_operator
 begin_operator
@@ -27577,8 +27577,8 @@ succumb boils excitement chicken vulcan neptune
 1
 11 2
 2
-0 28 14 2
 0 22 3 1
+0 28 14 2
 1
 end_operator
 begin_operator
@@ -27586,8 +27586,8 @@ succumb boils excitement cucumber mars vulcan
 1
 11 3
 2
-0 28 14 3
 0 22 0 3
+0 28 14 3
 1
 end_operator
 begin_operator
@@ -27595,8 +27595,8 @@ succumb boils excitement cucumber neptune venus
 1
 11 3
 2
-0 28 14 3
 0 22 1 2
+0 28 14 3
 1
 end_operator
 begin_operator
@@ -27604,8 +27604,8 @@ succumb boils excitement cucumber vulcan neptune
 1
 11 3
 2
-0 28 14 3
 0 22 3 1
+0 28 14 3
 1
 end_operator
 begin_operator
@@ -27613,8 +27613,8 @@ succumb boils excitement guava mars vulcan
 1
 11 4
 2
-0 28 14 4
 0 22 0 3
+0 28 14 4
 1
 end_operator
 begin_operator
@@ -27622,8 +27622,8 @@ succumb boils excitement guava neptune venus
 1
 11 4
 2
-0 28 14 4
 0 22 1 2
+0 28 14 4
 1
 end_operator
 begin_operator
@@ -27631,8 +27631,8 @@ succumb boils excitement guava vulcan neptune
 1
 11 4
 2
-0 28 14 4
 0 22 3 1
+0 28 14 4
 1
 end_operator
 begin_operator
@@ -27640,8 +27640,8 @@ succumb boils excitement hamburger mars vulcan
 1
 11 5
 2
-0 28 14 5
 0 22 0 3
+0 28 14 5
 1
 end_operator
 begin_operator
@@ -27649,8 +27649,8 @@ succumb boils excitement hamburger neptune venus
 1
 11 5
 2
-0 28 14 5
 0 22 1 2
+0 28 14 5
 1
 end_operator
 begin_operator
@@ -27658,8 +27658,8 @@ succumb boils excitement hamburger vulcan neptune
 1
 11 5
 2
-0 28 14 5
 0 22 3 1
+0 28 14 5
 1
 end_operator
 begin_operator
@@ -27667,8 +27667,8 @@ succumb boils excitement hotdog mars vulcan
 1
 11 6
 2
-0 28 14 6
 0 22 0 3
+0 28 14 6
 1
 end_operator
 begin_operator
@@ -27676,8 +27676,8 @@ succumb boils excitement hotdog neptune venus
 1
 11 6
 2
-0 28 14 6
 0 22 1 2
+0 28 14 6
 1
 end_operator
 begin_operator
@@ -27685,8 +27685,8 @@ succumb boils excitement hotdog vulcan neptune
 1
 11 6
 2
-0 28 14 6
 0 22 3 1
+0 28 14 6
 1
 end_operator
 begin_operator
@@ -27694,8 +27694,8 @@ succumb boils excitement muffin mars vulcan
 1
 11 7
 2
-0 28 14 7
 0 22 0 3
+0 28 14 7
 1
 end_operator
 begin_operator
@@ -27703,8 +27703,8 @@ succumb boils excitement muffin neptune venus
 1
 11 7
 2
-0 28 14 7
 0 22 1 2
+0 28 14 7
 1
 end_operator
 begin_operator
@@ -27712,8 +27712,8 @@ succumb boils excitement muffin vulcan neptune
 1
 11 7
 2
-0 28 14 7
 0 22 3 1
+0 28 14 7
 1
 end_operator
 begin_operator
@@ -27721,8 +27721,8 @@ succumb boils excitement mutton mars vulcan
 1
 11 8
 2
-0 28 14 8
 0 22 0 3
+0 28 14 8
 1
 end_operator
 begin_operator
@@ -27730,8 +27730,8 @@ succumb boils excitement mutton neptune venus
 1
 11 8
 2
-0 28 14 8
 0 22 1 2
+0 28 14 8
 1
 end_operator
 begin_operator
@@ -27739,8 +27739,8 @@ succumb boils excitement mutton vulcan neptune
 1
 11 8
 2
-0 28 14 8
 0 22 3 1
+0 28 14 8
 1
 end_operator
 begin_operator
@@ -27748,8 +27748,8 @@ succumb boils excitement rice mars vulcan
 1
 11 9
 2
-0 28 14 9
 0 22 0 3
+0 28 14 9
 1
 end_operator
 begin_operator
@@ -27757,8 +27757,8 @@ succumb boils excitement rice neptune venus
 1
 11 9
 2
-0 28 14 9
 0 22 1 2
+0 28 14 9
 1
 end_operator
 begin_operator
@@ -27766,8 +27766,8 @@ succumb boils excitement rice vulcan neptune
 1
 11 9
 2
-0 28 14 9
 0 22 3 1
+0 28 14 9
 1
 end_operator
 begin_operator
@@ -27775,8 +27775,8 @@ succumb boils excitement scallop mars vulcan
 1
 11 10
 2
-0 28 14 10
 0 22 0 3
+0 28 14 10
 1
 end_operator
 begin_operator
@@ -27784,8 +27784,8 @@ succumb boils excitement scallop neptune venus
 1
 11 10
 2
-0 28 14 10
 0 22 1 2
+0 28 14 10
 1
 end_operator
 begin_operator
@@ -27793,8 +27793,8 @@ succumb boils excitement scallop vulcan neptune
 1
 11 10
 2
-0 28 14 10
 0 22 3 1
+0 28 14 10
 1
 end_operator
 begin_operator
@@ -27802,8 +27802,8 @@ succumb boils excitement turkey mars vulcan
 1
 11 11
 2
-0 28 14 11
 0 22 0 3
+0 28 14 11
 1
 end_operator
 begin_operator
@@ -27811,8 +27811,8 @@ succumb boils excitement turkey neptune venus
 1
 11 11
 2
-0 28 14 11
 0 22 1 2
+0 28 14 11
 1
 end_operator
 begin_operator
@@ -27820,8 +27820,8 @@ succumb boils excitement turkey vulcan neptune
 1
 11 11
 2
-0 28 14 11
 0 22 3 1
+0 28 14 11
 1
 end_operator
 begin_operator
@@ -27829,8 +27829,8 @@ succumb boils excitement yogurt mars vulcan
 1
 11 12
 2
-0 28 14 12
 0 22 0 3
+0 28 14 12
 1
 end_operator
 begin_operator
@@ -27838,8 +27838,8 @@ succumb boils excitement yogurt neptune venus
 1
 11 12
 2
-0 28 14 12
 0 22 1 2
+0 28 14 12
 1
 end_operator
 begin_operator
@@ -27847,8 +27847,8 @@ succumb boils excitement yogurt vulcan neptune
 1
 11 12
 2
-0 28 14 12
 0 22 3 1
+0 28 14 12
 1
 end_operator
 begin_operator
@@ -27856,8 +27856,8 @@ succumb boils expectation baguette mars vulcan
 1
 14 0
 2
-0 28 15 0
 0 24 0 3
+0 28 15 0
 1
 end_operator
 begin_operator
@@ -27865,8 +27865,8 @@ succumb boils expectation baguette neptune venus
 1
 14 0
 2
-0 28 15 0
 0 24 1 2
+0 28 15 0
 1
 end_operator
 begin_operator
@@ -27874,8 +27874,8 @@ succumb boils expectation baguette vulcan neptune
 1
 14 0
 2
-0 28 15 0
 0 24 3 1
+0 28 15 0
 1
 end_operator
 begin_operator
@@ -27883,8 +27883,8 @@ succumb boils expectation beef mars vulcan
 1
 14 1
 2
-0 28 15 1
 0 24 0 3
+0 28 15 1
 1
 end_operator
 begin_operator
@@ -27892,8 +27892,8 @@ succumb boils expectation beef neptune venus
 1
 14 1
 2
-0 28 15 1
 0 24 1 2
+0 28 15 1
 1
 end_operator
 begin_operator
@@ -27901,8 +27901,8 @@ succumb boils expectation beef vulcan neptune
 1
 14 1
 2
-0 28 15 1
 0 24 3 1
+0 28 15 1
 1
 end_operator
 begin_operator
@@ -27910,8 +27910,8 @@ succumb boils expectation chicken mars vulcan
 1
 14 2
 2
-0 28 15 2
 0 24 0 3
+0 28 15 2
 1
 end_operator
 begin_operator
@@ -27919,8 +27919,8 @@ succumb boils expectation chicken neptune venus
 1
 14 2
 2
-0 28 15 2
 0 24 1 2
+0 28 15 2
 1
 end_operator
 begin_operator
@@ -27928,8 +27928,8 @@ succumb boils expectation chicken vulcan neptune
 1
 14 2
 2
-0 28 15 2
 0 24 3 1
+0 28 15 2
 1
 end_operator
 begin_operator
@@ -27937,8 +27937,8 @@ succumb boils expectation cucumber mars vulcan
 1
 14 3
 2
-0 28 15 3
 0 24 0 3
+0 28 15 3
 1
 end_operator
 begin_operator
@@ -27946,8 +27946,8 @@ succumb boils expectation cucumber neptune venus
 1
 14 3
 2
-0 28 15 3
 0 24 1 2
+0 28 15 3
 1
 end_operator
 begin_operator
@@ -27955,8 +27955,8 @@ succumb boils expectation cucumber vulcan neptune
 1
 14 3
 2
-0 28 15 3
 0 24 3 1
+0 28 15 3
 1
 end_operator
 begin_operator
@@ -27964,8 +27964,8 @@ succumb boils expectation guava mars vulcan
 1
 14 4
 2
-0 28 15 4
 0 24 0 3
+0 28 15 4
 1
 end_operator
 begin_operator
@@ -27973,8 +27973,8 @@ succumb boils expectation guava neptune venus
 1
 14 4
 2
-0 28 15 4
 0 24 1 2
+0 28 15 4
 1
 end_operator
 begin_operator
@@ -27982,8 +27982,8 @@ succumb boils expectation guava vulcan neptune
 1
 14 4
 2
-0 28 15 4
 0 24 3 1
+0 28 15 4
 1
 end_operator
 begin_operator
@@ -27991,8 +27991,8 @@ succumb boils expectation hamburger mars vulcan
 1
 14 5
 2
-0 28 15 5
 0 24 0 3
+0 28 15 5
 1
 end_operator
 begin_operator
@@ -28000,8 +28000,8 @@ succumb boils expectation hamburger neptune venus
 1
 14 5
 2
-0 28 15 5
 0 24 1 2
+0 28 15 5
 1
 end_operator
 begin_operator
@@ -28009,8 +28009,8 @@ succumb boils expectation hamburger vulcan neptune
 1
 14 5
 2
-0 28 15 5
 0 24 3 1
+0 28 15 5
 1
 end_operator
 begin_operator
@@ -28018,8 +28018,8 @@ succumb boils expectation hotdog mars vulcan
 1
 14 6
 2
-0 28 15 6
 0 24 0 3
+0 28 15 6
 1
 end_operator
 begin_operator
@@ -28027,8 +28027,8 @@ succumb boils expectation hotdog neptune venus
 1
 14 6
 2
-0 28 15 6
 0 24 1 2
+0 28 15 6
 1
 end_operator
 begin_operator
@@ -28036,8 +28036,8 @@ succumb boils expectation hotdog vulcan neptune
 1
 14 6
 2
-0 28 15 6
 0 24 3 1
+0 28 15 6
 1
 end_operator
 begin_operator
@@ -28045,8 +28045,8 @@ succumb boils expectation muffin mars vulcan
 1
 14 7
 2
-0 28 15 7
 0 24 0 3
+0 28 15 7
 1
 end_operator
 begin_operator
@@ -28054,8 +28054,8 @@ succumb boils expectation muffin neptune venus
 1
 14 7
 2
-0 28 15 7
 0 24 1 2
+0 28 15 7
 1
 end_operator
 begin_operator
@@ -28063,8 +28063,8 @@ succumb boils expectation muffin vulcan neptune
 1
 14 7
 2
-0 28 15 7
 0 24 3 1
+0 28 15 7
 1
 end_operator
 begin_operator
@@ -28072,8 +28072,8 @@ succumb boils expectation mutton mars vulcan
 1
 14 8
 2
-0 28 15 8
 0 24 0 3
+0 28 15 8
 1
 end_operator
 begin_operator
@@ -28081,8 +28081,8 @@ succumb boils expectation mutton neptune venus
 1
 14 8
 2
-0 28 15 8
 0 24 1 2
+0 28 15 8
 1
 end_operator
 begin_operator
@@ -28090,8 +28090,8 @@ succumb boils expectation mutton vulcan neptune
 1
 14 8
 2
-0 28 15 8
 0 24 3 1
+0 28 15 8
 1
 end_operator
 begin_operator
@@ -28099,8 +28099,8 @@ succumb boils expectation rice mars vulcan
 1
 14 9
 2
-0 28 15 9
 0 24 0 3
+0 28 15 9
 1
 end_operator
 begin_operator
@@ -28108,8 +28108,8 @@ succumb boils expectation rice neptune venus
 1
 14 9
 2
-0 28 15 9
 0 24 1 2
+0 28 15 9
 1
 end_operator
 begin_operator
@@ -28117,8 +28117,8 @@ succumb boils expectation rice vulcan neptune
 1
 14 9
 2
-0 28 15 9
 0 24 3 1
+0 28 15 9
 1
 end_operator
 begin_operator
@@ -28126,8 +28126,8 @@ succumb boils expectation scallop mars vulcan
 1
 14 10
 2
-0 28 15 10
 0 24 0 3
+0 28 15 10
 1
 end_operator
 begin_operator
@@ -28135,8 +28135,8 @@ succumb boils expectation scallop neptune venus
 1
 14 10
 2
-0 28 15 10
 0 24 1 2
+0 28 15 10
 1
 end_operator
 begin_operator
@@ -28144,8 +28144,8 @@ succumb boils expectation scallop vulcan neptune
 1
 14 10
 2
-0 28 15 10
 0 24 3 1
+0 28 15 10
 1
 end_operator
 begin_operator
@@ -28153,8 +28153,8 @@ succumb boils expectation turkey mars vulcan
 1
 14 11
 2
-0 28 15 11
 0 24 0 3
+0 28 15 11
 1
 end_operator
 begin_operator
@@ -28162,8 +28162,8 @@ succumb boils expectation turkey neptune venus
 1
 14 11
 2
-0 28 15 11
 0 24 1 2
+0 28 15 11
 1
 end_operator
 begin_operator
@@ -28171,8 +28171,8 @@ succumb boils expectation turkey vulcan neptune
 1
 14 11
 2
-0 28 15 11
 0 24 3 1
+0 28 15 11
 1
 end_operator
 begin_operator
@@ -28180,8 +28180,8 @@ succumb boils expectation yogurt mars vulcan
 1
 14 12
 2
-0 28 15 12
 0 24 0 3
+0 28 15 12
 1
 end_operator
 begin_operator
@@ -28189,8 +28189,8 @@ succumb boils expectation yogurt neptune venus
 1
 14 12
 2
-0 28 15 12
 0 24 1 2
+0 28 15 12
 1
 end_operator
 begin_operator
@@ -28198,8 +28198,8 @@ succumb boils expectation yogurt vulcan neptune
 1
 14 12
 2
-0 28 15 12
 0 24 3 1
+0 28 15 12
 1
 end_operator
 begin_operator
@@ -28207,8 +28207,8 @@ succumb boils intoxication baguette mars vulcan
 1
 15 0
 2
-0 28 16 0
 0 25 0 3
+0 28 16 0
 1
 end_operator
 begin_operator
@@ -28216,8 +28216,8 @@ succumb boils intoxication baguette neptune venus
 1
 15 0
 2
-0 28 16 0
 0 25 1 2
+0 28 16 0
 1
 end_operator
 begin_operator
@@ -28225,8 +28225,8 @@ succumb boils intoxication baguette vulcan neptune
 1
 15 0
 2
-0 28 16 0
 0 25 3 1
+0 28 16 0
 1
 end_operator
 begin_operator
@@ -28234,8 +28234,8 @@ succumb boils intoxication beef mars vulcan
 1
 15 1
 2
-0 28 16 1
 0 25 0 3
+0 28 16 1
 1
 end_operator
 begin_operator
@@ -28243,8 +28243,8 @@ succumb boils intoxication beef neptune venus
 1
 15 1
 2
-0 28 16 1
 0 25 1 2
+0 28 16 1
 1
 end_operator
 begin_operator
@@ -28252,8 +28252,8 @@ succumb boils intoxication beef vulcan neptune
 1
 15 1
 2
-0 28 16 1
 0 25 3 1
+0 28 16 1
 1
 end_operator
 begin_operator
@@ -28261,8 +28261,8 @@ succumb boils intoxication chicken mars vulcan
 1
 15 2
 2
-0 28 16 2
 0 25 0 3
+0 28 16 2
 1
 end_operator
 begin_operator
@@ -28270,8 +28270,8 @@ succumb boils intoxication chicken neptune venus
 1
 15 2
 2
-0 28 16 2
 0 25 1 2
+0 28 16 2
 1
 end_operator
 begin_operator
@@ -28279,8 +28279,8 @@ succumb boils intoxication chicken vulcan neptune
 1
 15 2
 2
-0 28 16 2
 0 25 3 1
+0 28 16 2
 1
 end_operator
 begin_operator
@@ -28288,8 +28288,8 @@ succumb boils intoxication cucumber mars vulcan
 1
 15 3
 2
-0 28 16 3
 0 25 0 3
+0 28 16 3
 1
 end_operator
 begin_operator
@@ -28297,8 +28297,8 @@ succumb boils intoxication cucumber neptune venus
 1
 15 3
 2
-0 28 16 3
 0 25 1 2
+0 28 16 3
 1
 end_operator
 begin_operator
@@ -28306,8 +28306,8 @@ succumb boils intoxication cucumber vulcan neptune
 1
 15 3
 2
-0 28 16 3
 0 25 3 1
+0 28 16 3
 1
 end_operator
 begin_operator
@@ -28315,8 +28315,8 @@ succumb boils intoxication guava mars vulcan
 1
 15 4
 2
-0 28 16 4
 0 25 0 3
+0 28 16 4
 1
 end_operator
 begin_operator
@@ -28324,8 +28324,8 @@ succumb boils intoxication guava neptune venus
 1
 15 4
 2
-0 28 16 4
 0 25 1 2
+0 28 16 4
 1
 end_operator
 begin_operator
@@ -28333,8 +28333,8 @@ succumb boils intoxication guava vulcan neptune
 1
 15 4
 2
-0 28 16 4
 0 25 3 1
+0 28 16 4
 1
 end_operator
 begin_operator
@@ -28342,8 +28342,8 @@ succumb boils intoxication hamburger mars vulcan
 1
 15 5
 2
-0 28 16 5
 0 25 0 3
+0 28 16 5
 1
 end_operator
 begin_operator
@@ -28351,8 +28351,8 @@ succumb boils intoxication hamburger neptune venus
 1
 15 5
 2
-0 28 16 5
 0 25 1 2
+0 28 16 5
 1
 end_operator
 begin_operator
@@ -28360,8 +28360,8 @@ succumb boils intoxication hamburger vulcan neptune
 1
 15 5
 2
-0 28 16 5
 0 25 3 1
+0 28 16 5
 1
 end_operator
 begin_operator
@@ -28369,8 +28369,8 @@ succumb boils intoxication hotdog mars vulcan
 1
 15 6
 2
-0 28 16 6
 0 25 0 3
+0 28 16 6
 1
 end_operator
 begin_operator
@@ -28378,8 +28378,8 @@ succumb boils intoxication hotdog neptune venus
 1
 15 6
 2
-0 28 16 6
 0 25 1 2
+0 28 16 6
 1
 end_operator
 begin_operator
@@ -28387,8 +28387,8 @@ succumb boils intoxication hotdog vulcan neptune
 1
 15 6
 2
-0 28 16 6
 0 25 3 1
+0 28 16 6
 1
 end_operator
 begin_operator
@@ -28396,8 +28396,8 @@ succumb boils intoxication muffin mars vulcan
 1
 15 7
 2
-0 28 16 7
 0 25 0 3
+0 28 16 7
 1
 end_operator
 begin_operator
@@ -28405,8 +28405,8 @@ succumb boils intoxication muffin neptune venus
 1
 15 7
 2
-0 28 16 7
 0 25 1 2
+0 28 16 7
 1
 end_operator
 begin_operator
@@ -28414,8 +28414,8 @@ succumb boils intoxication muffin vulcan neptune
 1
 15 7
 2
-0 28 16 7
 0 25 3 1
+0 28 16 7
 1
 end_operator
 begin_operator
@@ -28423,8 +28423,8 @@ succumb boils intoxication mutton mars vulcan
 1
 15 8
 2
-0 28 16 8
 0 25 0 3
+0 28 16 8
 1
 end_operator
 begin_operator
@@ -28432,8 +28432,8 @@ succumb boils intoxication mutton neptune venus
 1
 15 8
 2
-0 28 16 8
 0 25 1 2
+0 28 16 8
 1
 end_operator
 begin_operator
@@ -28441,8 +28441,8 @@ succumb boils intoxication mutton vulcan neptune
 1
 15 8
 2
-0 28 16 8
 0 25 3 1
+0 28 16 8
 1
 end_operator
 begin_operator
@@ -28450,8 +28450,8 @@ succumb boils intoxication rice mars vulcan
 1
 15 9
 2
-0 28 16 9
 0 25 0 3
+0 28 16 9
 1
 end_operator
 begin_operator
@@ -28459,8 +28459,8 @@ succumb boils intoxication rice neptune venus
 1
 15 9
 2
-0 28 16 9
 0 25 1 2
+0 28 16 9
 1
 end_operator
 begin_operator
@@ -28468,8 +28468,8 @@ succumb boils intoxication rice vulcan neptune
 1
 15 9
 2
-0 28 16 9
 0 25 3 1
+0 28 16 9
 1
 end_operator
 begin_operator
@@ -28477,8 +28477,8 @@ succumb boils intoxication scallop mars vulcan
 1
 15 10
 2
-0 28 16 10
 0 25 0 3
+0 28 16 10
 1
 end_operator
 begin_operator
@@ -28486,8 +28486,8 @@ succumb boils intoxication scallop neptune venus
 1
 15 10
 2
-0 28 16 10
 0 25 1 2
+0 28 16 10
 1
 end_operator
 begin_operator
@@ -28495,8 +28495,8 @@ succumb boils intoxication scallop vulcan neptune
 1
 15 10
 2
-0 28 16 10
 0 25 3 1
+0 28 16 10
 1
 end_operator
 begin_operator
@@ -28504,8 +28504,8 @@ succumb boils intoxication turkey mars vulcan
 1
 15 11
 2
-0 28 16 11
 0 25 0 3
+0 28 16 11
 1
 end_operator
 begin_operator
@@ -28513,8 +28513,8 @@ succumb boils intoxication turkey neptune venus
 1
 15 11
 2
-0 28 16 11
 0 25 1 2
+0 28 16 11
 1
 end_operator
 begin_operator
@@ -28522,8 +28522,8 @@ succumb boils intoxication turkey vulcan neptune
 1
 15 11
 2
-0 28 16 11
 0 25 3 1
+0 28 16 11
 1
 end_operator
 begin_operator
@@ -28531,8 +28531,8 @@ succumb boils intoxication yogurt mars vulcan
 1
 15 12
 2
-0 28 16 12
 0 25 0 3
+0 28 16 12
 1
 end_operator
 begin_operator
@@ -28540,8 +28540,8 @@ succumb boils intoxication yogurt neptune venus
 1
 15 12
 2
-0 28 16 12
 0 25 1 2
+0 28 16 12
 1
 end_operator
 begin_operator
@@ -28549,8 +28549,8 @@ succumb boils intoxication yogurt vulcan neptune
 1
 15 12
 2
-0 28 16 12
 0 25 3 1
+0 28 16 12
 1
 end_operator
 begin_operator
@@ -28558,8 +28558,8 @@ succumb boils triumph baguette mars vulcan
 1
 16 0
 2
-0 28 17 0
 0 26 0 3
+0 28 17 0
 1
 end_operator
 begin_operator
@@ -28567,8 +28567,8 @@ succumb boils triumph baguette neptune venus
 1
 16 0
 2
-0 28 17 0
 0 26 1 2
+0 28 17 0
 1
 end_operator
 begin_operator
@@ -28576,8 +28576,8 @@ succumb boils triumph baguette vulcan neptune
 1
 16 0
 2
-0 28 17 0
 0 26 3 1
+0 28 17 0
 1
 end_operator
 begin_operator
@@ -28585,8 +28585,8 @@ succumb boils triumph beef mars vulcan
 1
 16 1
 2
-0 28 17 1
 0 26 0 3
+0 28 17 1
 1
 end_operator
 begin_operator
@@ -28594,8 +28594,8 @@ succumb boils triumph beef neptune venus
 1
 16 1
 2
-0 28 17 1
 0 26 1 2
+0 28 17 1
 1
 end_operator
 begin_operator
@@ -28603,8 +28603,8 @@ succumb boils triumph beef vulcan neptune
 1
 16 1
 2
-0 28 17 1
 0 26 3 1
+0 28 17 1
 1
 end_operator
 begin_operator
@@ -28612,8 +28612,8 @@ succumb boils triumph chicken mars vulcan
 1
 16 2
 2
-0 28 17 2
 0 26 0 3
+0 28 17 2
 1
 end_operator
 begin_operator
@@ -28621,8 +28621,8 @@ succumb boils triumph chicken neptune venus
 1
 16 2
 2
-0 28 17 2
 0 26 1 2
+0 28 17 2
 1
 end_operator
 begin_operator
@@ -28630,8 +28630,8 @@ succumb boils triumph chicken vulcan neptune
 1
 16 2
 2
-0 28 17 2
 0 26 3 1
+0 28 17 2
 1
 end_operator
 begin_operator
@@ -28639,8 +28639,8 @@ succumb boils triumph cucumber mars vulcan
 1
 16 3
 2
-0 28 17 3
 0 26 0 3
+0 28 17 3
 1
 end_operator
 begin_operator
@@ -28648,8 +28648,8 @@ succumb boils triumph cucumber neptune venus
 1
 16 3
 2
-0 28 17 3
 0 26 1 2
+0 28 17 3
 1
 end_operator
 begin_operator
@@ -28657,8 +28657,8 @@ succumb boils triumph cucumber vulcan neptune
 1
 16 3
 2
-0 28 17 3
 0 26 3 1
+0 28 17 3
 1
 end_operator
 begin_operator
@@ -28666,8 +28666,8 @@ succumb boils triumph guava mars vulcan
 1
 16 4
 2
-0 28 17 4
 0 26 0 3
+0 28 17 4
 1
 end_operator
 begin_operator
@@ -28675,8 +28675,8 @@ succumb boils triumph guava neptune venus
 1
 16 4
 2
-0 28 17 4
 0 26 1 2
+0 28 17 4
 1
 end_operator
 begin_operator
@@ -28684,8 +28684,8 @@ succumb boils triumph guava vulcan neptune
 1
 16 4
 2
-0 28 17 4
 0 26 3 1
+0 28 17 4
 1
 end_operator
 begin_operator
@@ -28693,8 +28693,8 @@ succumb boils triumph hamburger mars vulcan
 1
 16 5
 2
-0 28 17 5
 0 26 0 3
+0 28 17 5
 1
 end_operator
 begin_operator
@@ -28702,8 +28702,8 @@ succumb boils triumph hamburger neptune venus
 1
 16 5
 2
-0 28 17 5
 0 26 1 2
+0 28 17 5
 1
 end_operator
 begin_operator
@@ -28711,8 +28711,8 @@ succumb boils triumph hamburger vulcan neptune
 1
 16 5
 2
-0 28 17 5
 0 26 3 1
+0 28 17 5
 1
 end_operator
 begin_operator
@@ -28720,8 +28720,8 @@ succumb boils triumph hotdog mars vulcan
 1
 16 6
 2
-0 28 17 6
 0 26 0 3
+0 28 17 6
 1
 end_operator
 begin_operator
@@ -28729,8 +28729,8 @@ succumb boils triumph hotdog neptune venus
 1
 16 6
 2
-0 28 17 6
 0 26 1 2
+0 28 17 6
 1
 end_operator
 begin_operator
@@ -28738,8 +28738,8 @@ succumb boils triumph hotdog vulcan neptune
 1
 16 6
 2
-0 28 17 6
 0 26 3 1
+0 28 17 6
 1
 end_operator
 begin_operator
@@ -28747,8 +28747,8 @@ succumb boils triumph muffin mars vulcan
 1
 16 7
 2
-0 28 17 7
 0 26 0 3
+0 28 17 7
 1
 end_operator
 begin_operator
@@ -28756,8 +28756,8 @@ succumb boils triumph muffin neptune venus
 1
 16 7
 2
-0 28 17 7
 0 26 1 2
+0 28 17 7
 1
 end_operator
 begin_operator
@@ -28765,8 +28765,8 @@ succumb boils triumph muffin vulcan neptune
 1
 16 7
 2
-0 28 17 7
 0 26 3 1
+0 28 17 7
 1
 end_operator
 begin_operator
@@ -28774,8 +28774,8 @@ succumb boils triumph mutton mars vulcan
 1
 16 8
 2
-0 28 17 8
 0 26 0 3
+0 28 17 8
 1
 end_operator
 begin_operator
@@ -28783,8 +28783,8 @@ succumb boils triumph mutton neptune venus
 1
 16 8
 2
-0 28 17 8
 0 26 1 2
+0 28 17 8
 1
 end_operator
 begin_operator
@@ -28792,8 +28792,8 @@ succumb boils triumph mutton vulcan neptune
 1
 16 8
 2
-0 28 17 8
 0 26 3 1
+0 28 17 8
 1
 end_operator
 begin_operator
@@ -28801,8 +28801,8 @@ succumb boils triumph rice mars vulcan
 1
 16 9
 2
-0 28 17 9
 0 26 0 3
+0 28 17 9
 1
 end_operator
 begin_operator
@@ -28810,8 +28810,8 @@ succumb boils triumph rice neptune venus
 1
 16 9
 2
-0 28 17 9
 0 26 1 2
+0 28 17 9
 1
 end_operator
 begin_operator
@@ -28819,8 +28819,8 @@ succumb boils triumph rice vulcan neptune
 1
 16 9
 2
-0 28 17 9
 0 26 3 1
+0 28 17 9
 1
 end_operator
 begin_operator
@@ -28828,8 +28828,8 @@ succumb boils triumph scallop mars vulcan
 1
 16 10
 2
-0 28 17 10
 0 26 0 3
+0 28 17 10
 1
 end_operator
 begin_operator
@@ -28837,8 +28837,8 @@ succumb boils triumph scallop neptune venus
 1
 16 10
 2
-0 28 17 10
 0 26 1 2
+0 28 17 10
 1
 end_operator
 begin_operator
@@ -28846,8 +28846,8 @@ succumb boils triumph scallop vulcan neptune
 1
 16 10
 2
-0 28 17 10
 0 26 3 1
+0 28 17 10
 1
 end_operator
 begin_operator
@@ -28855,8 +28855,8 @@ succumb boils triumph turkey mars vulcan
 1
 16 11
 2
-0 28 17 11
 0 26 0 3
+0 28 17 11
 1
 end_operator
 begin_operator
@@ -28864,8 +28864,8 @@ succumb boils triumph turkey neptune venus
 1
 16 11
 2
-0 28 17 11
 0 26 1 2
+0 28 17 11
 1
 end_operator
 begin_operator
@@ -28873,8 +28873,8 @@ succumb boils triumph turkey vulcan neptune
 1
 16 11
 2
-0 28 17 11
 0 26 3 1
+0 28 17 11
 1
 end_operator
 begin_operator
@@ -28882,8 +28882,8 @@ succumb boils triumph yogurt mars vulcan
 1
 16 12
 2
-0 28 17 12
 0 26 0 3
+0 28 17 12
 1
 end_operator
 begin_operator
@@ -28891,8 +28891,8 @@ succumb boils triumph yogurt neptune venus
 1
 16 12
 2
-0 28 17 12
 0 26 1 2
+0 28 17 12
 1
 end_operator
 begin_operator
@@ -28900,8 +28900,8 @@ succumb boils triumph yogurt vulcan neptune
 1
 16 12
 2
-0 28 17 12
 0 26 3 1
+0 28 17 12
 1
 end_operator
 begin_operator
@@ -28909,8 +28909,8 @@ succumb dread achievement baguette mars vulcan
 1
 10 0
 2
-0 29 13 0
 0 21 0 3
+0 29 13 0
 1
 end_operator
 begin_operator
@@ -28918,8 +28918,8 @@ succumb dread achievement baguette neptune venus
 1
 10 0
 2
-0 29 13 0
 0 21 1 2
+0 29 13 0
 1
 end_operator
 begin_operator
@@ -28927,8 +28927,8 @@ succumb dread achievement baguette vulcan neptune
 1
 10 0
 2
-0 29 13 0
 0 21 3 1
+0 29 13 0
 1
 end_operator
 begin_operator
@@ -28936,8 +28936,8 @@ succumb dread achievement beef mars vulcan
 1
 10 1
 2
-0 29 13 1
 0 21 0 3
+0 29 13 1
 1
 end_operator
 begin_operator
@@ -28945,8 +28945,8 @@ succumb dread achievement beef neptune venus
 1
 10 1
 2
-0 29 13 1
 0 21 1 2
+0 29 13 1
 1
 end_operator
 begin_operator
@@ -28954,8 +28954,8 @@ succumb dread achievement beef vulcan neptune
 1
 10 1
 2
-0 29 13 1
 0 21 3 1
+0 29 13 1
 1
 end_operator
 begin_operator
@@ -28963,8 +28963,8 @@ succumb dread achievement chicken mars vulcan
 1
 10 2
 2
-0 29 13 2
 0 21 0 3
+0 29 13 2
 1
 end_operator
 begin_operator
@@ -28972,8 +28972,8 @@ succumb dread achievement chicken neptune venus
 1
 10 2
 2
-0 29 13 2
 0 21 1 2
+0 29 13 2
 1
 end_operator
 begin_operator
@@ -28981,8 +28981,8 @@ succumb dread achievement chicken vulcan neptune
 1
 10 2
 2
-0 29 13 2
 0 21 3 1
+0 29 13 2
 1
 end_operator
 begin_operator
@@ -28990,8 +28990,8 @@ succumb dread achievement cucumber mars vulcan
 1
 10 3
 2
-0 29 13 3
 0 21 0 3
+0 29 13 3
 1
 end_operator
 begin_operator
@@ -28999,8 +28999,8 @@ succumb dread achievement cucumber neptune venus
 1
 10 3
 2
-0 29 13 3
 0 21 1 2
+0 29 13 3
 1
 end_operator
 begin_operator
@@ -29008,8 +29008,8 @@ succumb dread achievement cucumber vulcan neptune
 1
 10 3
 2
-0 29 13 3
 0 21 3 1
+0 29 13 3
 1
 end_operator
 begin_operator
@@ -29017,8 +29017,8 @@ succumb dread achievement guava mars vulcan
 1
 10 4
 2
-0 29 13 4
 0 21 0 3
+0 29 13 4
 1
 end_operator
 begin_operator
@@ -29026,8 +29026,8 @@ succumb dread achievement guava neptune venus
 1
 10 4
 2
-0 29 13 4
 0 21 1 2
+0 29 13 4
 1
 end_operator
 begin_operator
@@ -29035,8 +29035,8 @@ succumb dread achievement guava vulcan neptune
 1
 10 4
 2
-0 29 13 4
 0 21 3 1
+0 29 13 4
 1
 end_operator
 begin_operator
@@ -29044,8 +29044,8 @@ succumb dread achievement hamburger mars vulcan
 1
 10 5
 2
-0 29 13 5
 0 21 0 3
+0 29 13 5
 1
 end_operator
 begin_operator
@@ -29053,8 +29053,8 @@ succumb dread achievement hamburger neptune venus
 1
 10 5
 2
-0 29 13 5
 0 21 1 2
+0 29 13 5
 1
 end_operator
 begin_operator
@@ -29062,8 +29062,8 @@ succumb dread achievement hamburger vulcan neptune
 1
 10 5
 2
-0 29 13 5
 0 21 3 1
+0 29 13 5
 1
 end_operator
 begin_operator
@@ -29071,8 +29071,8 @@ succumb dread achievement hotdog mars vulcan
 1
 10 6
 2
-0 29 13 6
 0 21 0 3
+0 29 13 6
 1
 end_operator
 begin_operator
@@ -29080,8 +29080,8 @@ succumb dread achievement hotdog neptune venus
 1
 10 6
 2
-0 29 13 6
 0 21 1 2
+0 29 13 6
 1
 end_operator
 begin_operator
@@ -29089,8 +29089,8 @@ succumb dread achievement hotdog vulcan neptune
 1
 10 6
 2
-0 29 13 6
 0 21 3 1
+0 29 13 6
 1
 end_operator
 begin_operator
@@ -29098,8 +29098,8 @@ succumb dread achievement muffin mars vulcan
 1
 10 7
 2
-0 29 13 7
 0 21 0 3
+0 29 13 7
 1
 end_operator
 begin_operator
@@ -29107,8 +29107,8 @@ succumb dread achievement muffin neptune venus
 1
 10 7
 2
-0 29 13 7
 0 21 1 2
+0 29 13 7
 1
 end_operator
 begin_operator
@@ -29116,8 +29116,8 @@ succumb dread achievement muffin vulcan neptune
 1
 10 7
 2
-0 29 13 7
 0 21 3 1
+0 29 13 7
 1
 end_operator
 begin_operator
@@ -29125,8 +29125,8 @@ succumb dread achievement mutton mars vulcan
 1
 10 8
 2
-0 29 13 8
 0 21 0 3
+0 29 13 8
 1
 end_operator
 begin_operator
@@ -29134,8 +29134,8 @@ succumb dread achievement mutton neptune venus
 1
 10 8
 2
-0 29 13 8
 0 21 1 2
+0 29 13 8
 1
 end_operator
 begin_operator
@@ -29143,8 +29143,8 @@ succumb dread achievement mutton vulcan neptune
 1
 10 8
 2
-0 29 13 8
 0 21 3 1
+0 29 13 8
 1
 end_operator
 begin_operator
@@ -29152,8 +29152,8 @@ succumb dread achievement rice mars vulcan
 1
 10 9
 2
-0 29 13 9
 0 21 0 3
+0 29 13 9
 1
 end_operator
 begin_operator
@@ -29161,8 +29161,8 @@ succumb dread achievement rice neptune venus
 1
 10 9
 2
-0 29 13 9
 0 21 1 2
+0 29 13 9
 1
 end_operator
 begin_operator
@@ -29170,8 +29170,8 @@ succumb dread achievement rice vulcan neptune
 1
 10 9
 2
-0 29 13 9
 0 21 3 1
+0 29 13 9
 1
 end_operator
 begin_operator
@@ -29179,8 +29179,8 @@ succumb dread achievement scallop mars vulcan
 1
 10 10
 2
-0 29 13 10
 0 21 0 3
+0 29 13 10
 1
 end_operator
 begin_operator
@@ -29188,8 +29188,8 @@ succumb dread achievement scallop neptune venus
 1
 10 10
 2
-0 29 13 10
 0 21 1 2
+0 29 13 10
 1
 end_operator
 begin_operator
@@ -29197,8 +29197,8 @@ succumb dread achievement scallop vulcan neptune
 1
 10 10
 2
-0 29 13 10
 0 21 3 1
+0 29 13 10
 1
 end_operator
 begin_operator
@@ -29206,8 +29206,8 @@ succumb dread achievement turkey mars vulcan
 1
 10 11
 2
-0 29 13 11
 0 21 0 3
+0 29 13 11
 1
 end_operator
 begin_operator
@@ -29215,8 +29215,8 @@ succumb dread achievement turkey neptune venus
 1
 10 11
 2
-0 29 13 11
 0 21 1 2
+0 29 13 11
 1
 end_operator
 begin_operator
@@ -29224,8 +29224,8 @@ succumb dread achievement turkey vulcan neptune
 1
 10 11
 2
-0 29 13 11
 0 21 3 1
+0 29 13 11
 1
 end_operator
 begin_operator
@@ -29233,8 +29233,8 @@ succumb dread achievement yogurt mars vulcan
 1
 10 12
 2
-0 29 13 12
 0 21 0 3
+0 29 13 12
 1
 end_operator
 begin_operator
@@ -29242,8 +29242,8 @@ succumb dread achievement yogurt neptune venus
 1
 10 12
 2
-0 29 13 12
 0 21 1 2
+0 29 13 12
 1
 end_operator
 begin_operator
@@ -29251,8 +29251,8 @@ succumb dread achievement yogurt vulcan neptune
 1
 10 12
 2
-0 29 13 12
 0 21 3 1
+0 29 13 12
 1
 end_operator
 begin_operator
@@ -29260,8 +29260,8 @@ succumb dread excitement baguette mars vulcan
 1
 11 0
 2
-0 29 14 0
 0 22 0 3
+0 29 14 0
 1
 end_operator
 begin_operator
@@ -29269,8 +29269,8 @@ succumb dread excitement baguette neptune venus
 1
 11 0
 2
-0 29 14 0
 0 22 1 2
+0 29 14 0
 1
 end_operator
 begin_operator
@@ -29278,8 +29278,8 @@ succumb dread excitement baguette vulcan neptune
 1
 11 0
 2
-0 29 14 0
 0 22 3 1
+0 29 14 0
 1
 end_operator
 begin_operator
@@ -29287,8 +29287,8 @@ succumb dread excitement beef mars vulcan
 1
 11 1
 2
-0 29 14 1
 0 22 0 3
+0 29 14 1
 1
 end_operator
 begin_operator
@@ -29296,8 +29296,8 @@ succumb dread excitement beef neptune venus
 1
 11 1
 2
-0 29 14 1
 0 22 1 2
+0 29 14 1
 1
 end_operator
 begin_operator
@@ -29305,8 +29305,8 @@ succumb dread excitement beef vulcan neptune
 1
 11 1
 2
-0 29 14 1
 0 22 3 1
+0 29 14 1
 1
 end_operator
 begin_operator
@@ -29314,8 +29314,8 @@ succumb dread excitement chicken mars vulcan
 1
 11 2
 2
-0 29 14 2
 0 22 0 3
+0 29 14 2
 1
 end_operator
 begin_operator
@@ -29323,8 +29323,8 @@ succumb dread excitement chicken neptune venus
 1
 11 2
 2
-0 29 14 2
 0 22 1 2
+0 29 14 2
 1
 end_operator
 begin_operator
@@ -29332,8 +29332,8 @@ succumb dread excitement chicken vulcan neptune
 1
 11 2
 2
-0 29 14 2
 0 22 3 1
+0 29 14 2
 1
 end_operator
 begin_operator
@@ -29341,8 +29341,8 @@ succumb dread excitement cucumber mars vulcan
 1
 11 3
 2
-0 29 14 3
 0 22 0 3
+0 29 14 3
 1
 end_operator
 begin_operator
@@ -29350,8 +29350,8 @@ succumb dread excitement cucumber neptune venus
 1
 11 3
 2
-0 29 14 3
 0 22 1 2
+0 29 14 3
 1
 end_operator
 begin_operator
@@ -29359,8 +29359,8 @@ succumb dread excitement cucumber vulcan neptune
 1
 11 3
 2
-0 29 14 3
 0 22 3 1
+0 29 14 3
 1
 end_operator
 begin_operator
@@ -29368,8 +29368,8 @@ succumb dread excitement guava mars vulcan
 1
 11 4
 2
-0 29 14 4
 0 22 0 3
+0 29 14 4
 1
 end_operator
 begin_operator
@@ -29377,8 +29377,8 @@ succumb dread excitement guava neptune venus
 1
 11 4
 2
-0 29 14 4
 0 22 1 2
+0 29 14 4
 1
 end_operator
 begin_operator
@@ -29386,8 +29386,8 @@ succumb dread excitement guava vulcan neptune
 1
 11 4
 2
-0 29 14 4
 0 22 3 1
+0 29 14 4
 1
 end_operator
 begin_operator
@@ -29395,8 +29395,8 @@ succumb dread excitement hamburger mars vulcan
 1
 11 5
 2
-0 29 14 5
 0 22 0 3
+0 29 14 5
 1
 end_operator
 begin_operator
@@ -29404,8 +29404,8 @@ succumb dread excitement hamburger neptune venus
 1
 11 5
 2
-0 29 14 5
 0 22 1 2
+0 29 14 5
 1
 end_operator
 begin_operator
@@ -29413,8 +29413,8 @@ succumb dread excitement hamburger vulcan neptune
 1
 11 5
 2
-0 29 14 5
 0 22 3 1
+0 29 14 5
 1
 end_operator
 begin_operator
@@ -29422,8 +29422,8 @@ succumb dread excitement hotdog mars vulcan
 1
 11 6
 2
-0 29 14 6
 0 22 0 3
+0 29 14 6
 1
 end_operator
 begin_operator
@@ -29431,8 +29431,8 @@ succumb dread excitement hotdog neptune venus
 1
 11 6
 2
-0 29 14 6
 0 22 1 2
+0 29 14 6
 1
 end_operator
 begin_operator
@@ -29440,8 +29440,8 @@ succumb dread excitement hotdog vulcan neptune
 1
 11 6
 2
-0 29 14 6
 0 22 3 1
+0 29 14 6
 1
 end_operator
 begin_operator
@@ -29449,8 +29449,8 @@ succumb dread excitement muffin mars vulcan
 1
 11 7
 2
-0 29 14 7
 0 22 0 3
+0 29 14 7
 1
 end_operator
 begin_operator
@@ -29458,8 +29458,8 @@ succumb dread excitement muffin neptune venus
 1
 11 7
 2
-0 29 14 7
 0 22 1 2
+0 29 14 7
 1
 end_operator
 begin_operator
@@ -29467,8 +29467,8 @@ succumb dread excitement muffin vulcan neptune
 1
 11 7
 2
-0 29 14 7
 0 22 3 1
+0 29 14 7
 1
 end_operator
 begin_operator
@@ -29476,8 +29476,8 @@ succumb dread excitement mutton mars vulcan
 1
 11 8
 2
-0 29 14 8
 0 22 0 3
+0 29 14 8
 1
 end_operator
 begin_operator
@@ -29485,8 +29485,8 @@ succumb dread excitement mutton neptune venus
 1
 11 8
 2
-0 29 14 8
 0 22 1 2
+0 29 14 8
 1
 end_operator
 begin_operator
@@ -29494,8 +29494,8 @@ succumb dread excitement mutton vulcan neptune
 1
 11 8
 2
-0 29 14 8
 0 22 3 1
+0 29 14 8
 1
 end_operator
 begin_operator
@@ -29503,8 +29503,8 @@ succumb dread excitement rice mars vulcan
 1
 11 9
 2
-0 29 14 9
 0 22 0 3
+0 29 14 9
 1
 end_operator
 begin_operator
@@ -29512,8 +29512,8 @@ succumb dread excitement rice neptune venus
 1
 11 9
 2
-0 29 14 9
 0 22 1 2
+0 29 14 9
 1
 end_operator
 begin_operator
@@ -29521,8 +29521,8 @@ succumb dread excitement rice vulcan neptune
 1
 11 9
 2
-0 29 14 9
 0 22 3 1
+0 29 14 9
 1
 end_operator
 begin_operator
@@ -29530,8 +29530,8 @@ succumb dread excitement scallop mars vulcan
 1
 11 10
 2
-0 29 14 10
 0 22 0 3
+0 29 14 10
 1
 end_operator
 begin_operator
@@ -29539,8 +29539,8 @@ succumb dread excitement scallop neptune venus
 1
 11 10
 2
-0 29 14 10
 0 22 1 2
+0 29 14 10
 1
 end_operator
 begin_operator
@@ -29548,8 +29548,8 @@ succumb dread excitement scallop vulcan neptune
 1
 11 10
 2
-0 29 14 10
 0 22 3 1
+0 29 14 10
 1
 end_operator
 begin_operator
@@ -29557,8 +29557,8 @@ succumb dread excitement turkey mars vulcan
 1
 11 11
 2
-0 29 14 11
 0 22 0 3
+0 29 14 11
 1
 end_operator
 begin_operator
@@ -29566,8 +29566,8 @@ succumb dread excitement turkey neptune venus
 1
 11 11
 2
-0 29 14 11
 0 22 1 2
+0 29 14 11
 1
 end_operator
 begin_operator
@@ -29575,8 +29575,8 @@ succumb dread excitement turkey vulcan neptune
 1
 11 11
 2
-0 29 14 11
 0 22 3 1
+0 29 14 11
 1
 end_operator
 begin_operator
@@ -29584,8 +29584,8 @@ succumb dread excitement yogurt mars vulcan
 1
 11 12
 2
-0 29 14 12
 0 22 0 3
+0 29 14 12
 1
 end_operator
 begin_operator
@@ -29593,8 +29593,8 @@ succumb dread excitement yogurt neptune venus
 1
 11 12
 2
-0 29 14 12
 0 22 1 2
+0 29 14 12
 1
 end_operator
 begin_operator
@@ -29602,8 +29602,8 @@ succumb dread excitement yogurt vulcan neptune
 1
 11 12
 2
-0 29 14 12
 0 22 3 1
+0 29 14 12
 1
 end_operator
 begin_operator
@@ -29611,8 +29611,8 @@ succumb dread expectation baguette mars vulcan
 1
 14 0
 2
-0 29 15 0
 0 24 0 3
+0 29 15 0
 1
 end_operator
 begin_operator
@@ -29620,8 +29620,8 @@ succumb dread expectation baguette neptune venus
 1
 14 0
 2
-0 29 15 0
 0 24 1 2
+0 29 15 0
 1
 end_operator
 begin_operator
@@ -29629,8 +29629,8 @@ succumb dread expectation baguette vulcan neptune
 1
 14 0
 2
-0 29 15 0
 0 24 3 1
+0 29 15 0
 1
 end_operator
 begin_operator
@@ -29638,8 +29638,8 @@ succumb dread expectation beef mars vulcan
 1
 14 1
 2
-0 29 15 1
 0 24 0 3
+0 29 15 1
 1
 end_operator
 begin_operator
@@ -29647,8 +29647,8 @@ succumb dread expectation beef neptune venus
 1
 14 1
 2
-0 29 15 1
 0 24 1 2
+0 29 15 1
 1
 end_operator
 begin_operator
@@ -29656,8 +29656,8 @@ succumb dread expectation beef vulcan neptune
 1
 14 1
 2
-0 29 15 1
 0 24 3 1
+0 29 15 1
 1
 end_operator
 begin_operator
@@ -29665,8 +29665,8 @@ succumb dread expectation chicken mars vulcan
 1
 14 2
 2
-0 29 15 2
 0 24 0 3
+0 29 15 2
 1
 end_operator
 begin_operator
@@ -29674,8 +29674,8 @@ succumb dread expectation chicken neptune venus
 1
 14 2
 2
-0 29 15 2
 0 24 1 2
+0 29 15 2
 1
 end_operator
 begin_operator
@@ -29683,8 +29683,8 @@ succumb dread expectation chicken vulcan neptune
 1
 14 2
 2
-0 29 15 2
 0 24 3 1
+0 29 15 2
 1
 end_operator
 begin_operator
@@ -29692,8 +29692,8 @@ succumb dread expectation cucumber mars vulcan
 1
 14 3
 2
-0 29 15 3
 0 24 0 3
+0 29 15 3
 1
 end_operator
 begin_operator
@@ -29701,8 +29701,8 @@ succumb dread expectation cucumber neptune venus
 1
 14 3
 2
-0 29 15 3
 0 24 1 2
+0 29 15 3
 1
 end_operator
 begin_operator
@@ -29710,8 +29710,8 @@ succumb dread expectation cucumber vulcan neptune
 1
 14 3
 2
-0 29 15 3
 0 24 3 1
+0 29 15 3
 1
 end_operator
 begin_operator
@@ -29719,8 +29719,8 @@ succumb dread expectation guava mars vulcan
 1
 14 4
 2
-0 29 15 4
 0 24 0 3
+0 29 15 4
 1
 end_operator
 begin_operator
@@ -29728,8 +29728,8 @@ succumb dread expectation guava neptune venus
 1
 14 4
 2
-0 29 15 4
 0 24 1 2
+0 29 15 4
 1
 end_operator
 begin_operator
@@ -29737,8 +29737,8 @@ succumb dread expectation guava vulcan neptune
 1
 14 4
 2
-0 29 15 4
 0 24 3 1
+0 29 15 4
 1
 end_operator
 begin_operator
@@ -29746,8 +29746,8 @@ succumb dread expectation hamburger mars vulcan
 1
 14 5
 2
-0 29 15 5
 0 24 0 3
+0 29 15 5
 1
 end_operator
 begin_operator
@@ -29755,8 +29755,8 @@ succumb dread expectation hamburger neptune venus
 1
 14 5
 2
-0 29 15 5
 0 24 1 2
+0 29 15 5
 1
 end_operator
 begin_operator
@@ -29764,8 +29764,8 @@ succumb dread expectation hamburger vulcan neptune
 1
 14 5
 2
-0 29 15 5
 0 24 3 1
+0 29 15 5
 1
 end_operator
 begin_operator
@@ -29773,8 +29773,8 @@ succumb dread expectation hotdog mars vulcan
 1
 14 6
 2
-0 29 15 6
 0 24 0 3
+0 29 15 6
 1
 end_operator
 begin_operator
@@ -29782,8 +29782,8 @@ succumb dread expectation hotdog neptune venus
 1
 14 6
 2
-0 29 15 6
 0 24 1 2
+0 29 15 6
 1
 end_operator
 begin_operator
@@ -29791,8 +29791,8 @@ succumb dread expectation hotdog vulcan neptune
 1
 14 6
 2
-0 29 15 6
 0 24 3 1
+0 29 15 6
 1
 end_operator
 begin_operator
@@ -29800,8 +29800,8 @@ succumb dread expectation muffin mars vulcan
 1
 14 7
 2
-0 29 15 7
 0 24 0 3
+0 29 15 7
 1
 end_operator
 begin_operator
@@ -29809,8 +29809,8 @@ succumb dread expectation muffin neptune venus
 1
 14 7
 2
-0 29 15 7
 0 24 1 2
+0 29 15 7
 1
 end_operator
 begin_operator
@@ -29818,8 +29818,8 @@ succumb dread expectation muffin vulcan neptune
 1
 14 7
 2
-0 29 15 7
 0 24 3 1
+0 29 15 7
 1
 end_operator
 begin_operator
@@ -29827,8 +29827,8 @@ succumb dread expectation mutton mars vulcan
 1
 14 8
 2
-0 29 15 8
 0 24 0 3
+0 29 15 8
 1
 end_operator
 begin_operator
@@ -29836,8 +29836,8 @@ succumb dread expectation mutton neptune venus
 1
 14 8
 2
-0 29 15 8
 0 24 1 2
+0 29 15 8
 1
 end_operator
 begin_operator
@@ -29845,8 +29845,8 @@ succumb dread expectation mutton vulcan neptune
 1
 14 8
 2
-0 29 15 8
 0 24 3 1
+0 29 15 8
 1
 end_operator
 begin_operator
@@ -29854,8 +29854,8 @@ succumb dread expectation rice mars vulcan
 1
 14 9
 2
-0 29 15 9
 0 24 0 3
+0 29 15 9
 1
 end_operator
 begin_operator
@@ -29863,8 +29863,8 @@ succumb dread expectation rice neptune venus
 1
 14 9
 2
-0 29 15 9
 0 24 1 2
+0 29 15 9
 1
 end_operator
 begin_operator
@@ -29872,8 +29872,8 @@ succumb dread expectation rice vulcan neptune
 1
 14 9
 2
-0 29 15 9
 0 24 3 1
+0 29 15 9
 1
 end_operator
 begin_operator
@@ -29881,8 +29881,8 @@ succumb dread expectation scallop mars vulcan
 1
 14 10
 2
-0 29 15 10
 0 24 0 3
+0 29 15 10
 1
 end_operator
 begin_operator
@@ -29890,8 +29890,8 @@ succumb dread expectation scallop neptune venus
 1
 14 10
 2
-0 29 15 10
 0 24 1 2
+0 29 15 10
 1
 end_operator
 begin_operator
@@ -29899,8 +29899,8 @@ succumb dread expectation scallop vulcan neptune
 1
 14 10
 2
-0 29 15 10
 0 24 3 1
+0 29 15 10
 1
 end_operator
 begin_operator
@@ -29908,8 +29908,8 @@ succumb dread expectation turkey mars vulcan
 1
 14 11
 2
-0 29 15 11
 0 24 0 3
+0 29 15 11
 1
 end_operator
 begin_operator
@@ -29917,8 +29917,8 @@ succumb dread expectation turkey neptune venus
 1
 14 11
 2
-0 29 15 11
 0 24 1 2
+0 29 15 11
 1
 end_operator
 begin_operator
@@ -29926,8 +29926,8 @@ succumb dread expectation turkey vulcan neptune
 1
 14 11
 2
-0 29 15 11
 0 24 3 1
+0 29 15 11
 1
 end_operator
 begin_operator
@@ -29935,8 +29935,8 @@ succumb dread expectation yogurt mars vulcan
 1
 14 12
 2
-0 29 15 12
 0 24 0 3
+0 29 15 12
 1
 end_operator
 begin_operator
@@ -29944,8 +29944,8 @@ succumb dread expectation yogurt neptune venus
 1
 14 12
 2
-0 29 15 12
 0 24 1 2
+0 29 15 12
 1
 end_operator
 begin_operator
@@ -29953,8 +29953,8 @@ succumb dread expectation yogurt vulcan neptune
 1
 14 12
 2
-0 29 15 12
 0 24 3 1
+0 29 15 12
 1
 end_operator
 begin_operator
@@ -29962,8 +29962,8 @@ succumb dread intoxication baguette mars vulcan
 1
 15 0
 2
-0 29 16 0
 0 25 0 3
+0 29 16 0
 1
 end_operator
 begin_operator
@@ -29971,8 +29971,8 @@ succumb dread intoxication baguette neptune venus
 1
 15 0
 2
-0 29 16 0
 0 25 1 2
+0 29 16 0
 1
 end_operator
 begin_operator
@@ -29980,8 +29980,8 @@ succumb dread intoxication baguette vulcan neptune
 1
 15 0
 2
-0 29 16 0
 0 25 3 1
+0 29 16 0
 1
 end_operator
 begin_operator
@@ -29989,8 +29989,8 @@ succumb dread intoxication beef mars vulcan
 1
 15 1
 2
-0 29 16 1
 0 25 0 3
+0 29 16 1
 1
 end_operator
 begin_operator
@@ -29998,8 +29998,8 @@ succumb dread intoxication beef neptune venus
 1
 15 1
 2
-0 29 16 1
 0 25 1 2
+0 29 16 1
 1
 end_operator
 begin_operator
@@ -30007,8 +30007,8 @@ succumb dread intoxication beef vulcan neptune
 1
 15 1
 2
-0 29 16 1
 0 25 3 1
+0 29 16 1
 1
 end_operator
 begin_operator
@@ -30016,8 +30016,8 @@ succumb dread intoxication chicken mars vulcan
 1
 15 2
 2
-0 29 16 2
 0 25 0 3
+0 29 16 2
 1
 end_operator
 begin_operator
@@ -30025,8 +30025,8 @@ succumb dread intoxication chicken neptune venus
 1
 15 2
 2
-0 29 16 2
 0 25 1 2
+0 29 16 2
 1
 end_operator
 begin_operator
@@ -30034,8 +30034,8 @@ succumb dread intoxication chicken vulcan neptune
 1
 15 2
 2
-0 29 16 2
 0 25 3 1
+0 29 16 2
 1
 end_operator
 begin_operator
@@ -30043,8 +30043,8 @@ succumb dread intoxication cucumber mars vulcan
 1
 15 3
 2
-0 29 16 3
 0 25 0 3
+0 29 16 3
 1
 end_operator
 begin_operator
@@ -30052,8 +30052,8 @@ succumb dread intoxication cucumber neptune venus
 1
 15 3
 2
-0 29 16 3
 0 25 1 2
+0 29 16 3
 1
 end_operator
 begin_operator
@@ -30061,8 +30061,8 @@ succumb dread intoxication cucumber vulcan neptune
 1
 15 3
 2
-0 29 16 3
 0 25 3 1
+0 29 16 3
 1
 end_operator
 begin_operator
@@ -30070,8 +30070,8 @@ succumb dread intoxication guava mars vulcan
 1
 15 4
 2
-0 29 16 4
 0 25 0 3
+0 29 16 4
 1
 end_operator
 begin_operator
@@ -30079,8 +30079,8 @@ succumb dread intoxication guava neptune venus
 1
 15 4
 2
-0 29 16 4
 0 25 1 2
+0 29 16 4
 1
 end_operator
 begin_operator
@@ -30088,8 +30088,8 @@ succumb dread intoxication guava vulcan neptune
 1
 15 4
 2
-0 29 16 4
 0 25 3 1
+0 29 16 4
 1
 end_operator
 begin_operator
@@ -30097,8 +30097,8 @@ succumb dread intoxication hamburger mars vulcan
 1
 15 5
 2
-0 29 16 5
 0 25 0 3
+0 29 16 5
 1
 end_operator
 begin_operator
@@ -30106,8 +30106,8 @@ succumb dread intoxication hamburger neptune venus
 1
 15 5
 2
-0 29 16 5
 0 25 1 2
+0 29 16 5
 1
 end_operator
 begin_operator
@@ -30115,8 +30115,8 @@ succumb dread intoxication hamburger vulcan neptune
 1
 15 5
 2
-0 29 16 5
 0 25 3 1
+0 29 16 5
 1
 end_operator
 begin_operator
@@ -30124,8 +30124,8 @@ succumb dread intoxication hotdog mars vulcan
 1
 15 6
 2
-0 29 16 6
 0 25 0 3
+0 29 16 6
 1
 end_operator
 begin_operator
@@ -30133,8 +30133,8 @@ succumb dread intoxication hotdog neptune venus
 1
 15 6
 2
-0 29 16 6
 0 25 1 2
+0 29 16 6
 1
 end_operator
 begin_operator
@@ -30142,8 +30142,8 @@ succumb dread intoxication hotdog vulcan neptune
 1
 15 6
 2
-0 29 16 6
 0 25 3 1
+0 29 16 6
 1
 end_operator
 begin_operator
@@ -30151,8 +30151,8 @@ succumb dread intoxication muffin mars vulcan
 1
 15 7
 2
-0 29 16 7
 0 25 0 3
+0 29 16 7
 1
 end_operator
 begin_operator
@@ -30160,8 +30160,8 @@ succumb dread intoxication muffin neptune venus
 1
 15 7
 2
-0 29 16 7
 0 25 1 2
+0 29 16 7
 1
 end_operator
 begin_operator
@@ -30169,8 +30169,8 @@ succumb dread intoxication muffin vulcan neptune
 1
 15 7
 2
-0 29 16 7
 0 25 3 1
+0 29 16 7
 1
 end_operator
 begin_operator
@@ -30178,8 +30178,8 @@ succumb dread intoxication mutton mars vulcan
 1
 15 8
 2
-0 29 16 8
 0 25 0 3
+0 29 16 8
 1
 end_operator
 begin_operator
@@ -30187,8 +30187,8 @@ succumb dread intoxication mutton neptune venus
 1
 15 8
 2
-0 29 16 8
 0 25 1 2
+0 29 16 8
 1
 end_operator
 begin_operator
@@ -30196,8 +30196,8 @@ succumb dread intoxication mutton vulcan neptune
 1
 15 8
 2
-0 29 16 8
 0 25 3 1
+0 29 16 8
 1
 end_operator
 begin_operator
@@ -30205,8 +30205,8 @@ succumb dread intoxication rice mars vulcan
 1
 15 9
 2
-0 29 16 9
 0 25 0 3
+0 29 16 9
 1
 end_operator
 begin_operator
@@ -30214,8 +30214,8 @@ succumb dread intoxication rice neptune venus
 1
 15 9
 2
-0 29 16 9
 0 25 1 2
+0 29 16 9
 1
 end_operator
 begin_operator
@@ -30223,8 +30223,8 @@ succumb dread intoxication rice vulcan neptune
 1
 15 9
 2
-0 29 16 9
 0 25 3 1
+0 29 16 9
 1
 end_operator
 begin_operator
@@ -30232,8 +30232,8 @@ succumb dread intoxication scallop mars vulcan
 1
 15 10
 2
-0 29 16 10
 0 25 0 3
+0 29 16 10
 1
 end_operator
 begin_operator
@@ -30241,8 +30241,8 @@ succumb dread intoxication scallop neptune venus
 1
 15 10
 2
-0 29 16 10
 0 25 1 2
+0 29 16 10
 1
 end_operator
 begin_operator
@@ -30250,8 +30250,8 @@ succumb dread intoxication scallop vulcan neptune
 1
 15 10
 2
-0 29 16 10
 0 25 3 1
+0 29 16 10
 1
 end_operator
 begin_operator
@@ -30259,8 +30259,8 @@ succumb dread intoxication turkey mars vulcan
 1
 15 11
 2
-0 29 16 11
 0 25 0 3
+0 29 16 11
 1
 end_operator
 begin_operator
@@ -30268,8 +30268,8 @@ succumb dread intoxication turkey neptune venus
 1
 15 11
 2
-0 29 16 11
 0 25 1 2
+0 29 16 11
 1
 end_operator
 begin_operator
@@ -30277,8 +30277,8 @@ succumb dread intoxication turkey vulcan neptune
 1
 15 11
 2
-0 29 16 11
 0 25 3 1
+0 29 16 11
 1
 end_operator
 begin_operator
@@ -30286,8 +30286,8 @@ succumb dread intoxication yogurt mars vulcan
 1
 15 12
 2
-0 29 16 12
 0 25 0 3
+0 29 16 12
 1
 end_operator
 begin_operator
@@ -30295,8 +30295,8 @@ succumb dread intoxication yogurt neptune venus
 1
 15 12
 2
-0 29 16 12
 0 25 1 2
+0 29 16 12
 1
 end_operator
 begin_operator
@@ -30304,8 +30304,8 @@ succumb dread intoxication yogurt vulcan neptune
 1
 15 12
 2
-0 29 16 12
 0 25 3 1
+0 29 16 12
 1
 end_operator
 begin_operator
@@ -30313,8 +30313,8 @@ succumb dread triumph baguette mars vulcan
 1
 16 0
 2
-0 29 17 0
 0 26 0 3
+0 29 17 0
 1
 end_operator
 begin_operator
@@ -30322,8 +30322,8 @@ succumb dread triumph baguette neptune venus
 1
 16 0
 2
-0 29 17 0
 0 26 1 2
+0 29 17 0
 1
 end_operator
 begin_operator
@@ -30331,8 +30331,8 @@ succumb dread triumph baguette vulcan neptune
 1
 16 0
 2
-0 29 17 0
 0 26 3 1
+0 29 17 0
 1
 end_operator
 begin_operator
@@ -30340,8 +30340,8 @@ succumb dread triumph beef mars vulcan
 1
 16 1
 2
-0 29 17 1
 0 26 0 3
+0 29 17 1
 1
 end_operator
 begin_operator
@@ -30349,8 +30349,8 @@ succumb dread triumph beef neptune venus
 1
 16 1
 2
-0 29 17 1
 0 26 1 2
+0 29 17 1
 1
 end_operator
 begin_operator
@@ -30358,8 +30358,8 @@ succumb dread triumph beef vulcan neptune
 1
 16 1
 2
-0 29 17 1
 0 26 3 1
+0 29 17 1
 1
 end_operator
 begin_operator
@@ -30367,8 +30367,8 @@ succumb dread triumph chicken mars vulcan
 1
 16 2
 2
-0 29 17 2
 0 26 0 3
+0 29 17 2
 1
 end_operator
 begin_operator
@@ -30376,8 +30376,8 @@ succumb dread triumph chicken neptune venus
 1
 16 2
 2
-0 29 17 2
 0 26 1 2
+0 29 17 2
 1
 end_operator
 begin_operator
@@ -30385,8 +30385,8 @@ succumb dread triumph chicken vulcan neptune
 1
 16 2
 2
-0 29 17 2
 0 26 3 1
+0 29 17 2
 1
 end_operator
 begin_operator
@@ -30394,8 +30394,8 @@ succumb dread triumph cucumber mars vulcan
 1
 16 3
 2
-0 29 17 3
 0 26 0 3
+0 29 17 3
 1
 end_operator
 begin_operator
@@ -30403,8 +30403,8 @@ succumb dread triumph cucumber neptune venus
 1
 16 3
 2
-0 29 17 3
 0 26 1 2
+0 29 17 3
 1
 end_operator
 begin_operator
@@ -30412,8 +30412,8 @@ succumb dread triumph cucumber vulcan neptune
 1
 16 3
 2
-0 29 17 3
 0 26 3 1
+0 29 17 3
 1
 end_operator
 begin_operator
@@ -30421,8 +30421,8 @@ succumb dread triumph guava mars vulcan
 1
 16 4
 2
-0 29 17 4
 0 26 0 3
+0 29 17 4
 1
 end_operator
 begin_operator
@@ -30430,8 +30430,8 @@ succumb dread triumph guava neptune venus
 1
 16 4
 2
-0 29 17 4
 0 26 1 2
+0 29 17 4
 1
 end_operator
 begin_operator
@@ -30439,8 +30439,8 @@ succumb dread triumph guava vulcan neptune
 1
 16 4
 2
-0 29 17 4
 0 26 3 1
+0 29 17 4
 1
 end_operator
 begin_operator
@@ -30448,8 +30448,8 @@ succumb dread triumph hamburger mars vulcan
 1
 16 5
 2
-0 29 17 5
 0 26 0 3
+0 29 17 5
 1
 end_operator
 begin_operator
@@ -30457,8 +30457,8 @@ succumb dread triumph hamburger neptune venus
 1
 16 5
 2
-0 29 17 5
 0 26 1 2
+0 29 17 5
 1
 end_operator
 begin_operator
@@ -30466,8 +30466,8 @@ succumb dread triumph hamburger vulcan neptune
 1
 16 5
 2
-0 29 17 5
 0 26 3 1
+0 29 17 5
 1
 end_operator
 begin_operator
@@ -30475,8 +30475,8 @@ succumb dread triumph hotdog mars vulcan
 1
 16 6
 2
-0 29 17 6
 0 26 0 3
+0 29 17 6
 1
 end_operator
 begin_operator
@@ -30484,8 +30484,8 @@ succumb dread triumph hotdog neptune venus
 1
 16 6
 2
-0 29 17 6
 0 26 1 2
+0 29 17 6
 1
 end_operator
 begin_operator
@@ -30493,8 +30493,8 @@ succumb dread triumph hotdog vulcan neptune
 1
 16 6
 2
-0 29 17 6
 0 26 3 1
+0 29 17 6
 1
 end_operator
 begin_operator
@@ -30502,8 +30502,8 @@ succumb dread triumph muffin mars vulcan
 1
 16 7
 2
-0 29 17 7
 0 26 0 3
+0 29 17 7
 1
 end_operator
 begin_operator
@@ -30511,8 +30511,8 @@ succumb dread triumph muffin neptune venus
 1
 16 7
 2
-0 29 17 7
 0 26 1 2
+0 29 17 7
 1
 end_operator
 begin_operator
@@ -30520,8 +30520,8 @@ succumb dread triumph muffin vulcan neptune
 1
 16 7
 2
-0 29 17 7
 0 26 3 1
+0 29 17 7
 1
 end_operator
 begin_operator
@@ -30529,8 +30529,8 @@ succumb dread triumph mutton mars vulcan
 1
 16 8
 2
-0 29 17 8
 0 26 0 3
+0 29 17 8
 1
 end_operator
 begin_operator
@@ -30538,8 +30538,8 @@ succumb dread triumph mutton neptune venus
 1
 16 8
 2
-0 29 17 8
 0 26 1 2
+0 29 17 8
 1
 end_operator
 begin_operator
@@ -30547,8 +30547,8 @@ succumb dread triumph mutton vulcan neptune
 1
 16 8
 2
-0 29 17 8
 0 26 3 1
+0 29 17 8
 1
 end_operator
 begin_operator
@@ -30556,8 +30556,8 @@ succumb dread triumph rice mars vulcan
 1
 16 9
 2
-0 29 17 9
 0 26 0 3
+0 29 17 9
 1
 end_operator
 begin_operator
@@ -30565,8 +30565,8 @@ succumb dread triumph rice neptune venus
 1
 16 9
 2
-0 29 17 9
 0 26 1 2
+0 29 17 9
 1
 end_operator
 begin_operator
@@ -30574,8 +30574,8 @@ succumb dread triumph rice vulcan neptune
 1
 16 9
 2
-0 29 17 9
 0 26 3 1
+0 29 17 9
 1
 end_operator
 begin_operator
@@ -30583,8 +30583,8 @@ succumb dread triumph scallop mars vulcan
 1
 16 10
 2
-0 29 17 10
 0 26 0 3
+0 29 17 10
 1
 end_operator
 begin_operator
@@ -30592,8 +30592,8 @@ succumb dread triumph scallop neptune venus
 1
 16 10
 2
-0 29 17 10
 0 26 1 2
+0 29 17 10
 1
 end_operator
 begin_operator
@@ -30601,8 +30601,8 @@ succumb dread triumph scallop vulcan neptune
 1
 16 10
 2
-0 29 17 10
 0 26 3 1
+0 29 17 10
 1
 end_operator
 begin_operator
@@ -30610,8 +30610,8 @@ succumb dread triumph turkey mars vulcan
 1
 16 11
 2
-0 29 17 11
 0 26 0 3
+0 29 17 11
 1
 end_operator
 begin_operator
@@ -30619,8 +30619,8 @@ succumb dread triumph turkey neptune venus
 1
 16 11
 2
-0 29 17 11
 0 26 1 2
+0 29 17 11
 1
 end_operator
 begin_operator
@@ -30628,8 +30628,8 @@ succumb dread triumph turkey vulcan neptune
 1
 16 11
 2
-0 29 17 11
 0 26 3 1
+0 29 17 11
 1
 end_operator
 begin_operator
@@ -30637,8 +30637,8 @@ succumb dread triumph yogurt mars vulcan
 1
 16 12
 2
-0 29 17 12
 0 26 0 3
+0 29 17 12
 1
 end_operator
 begin_operator
@@ -30646,8 +30646,8 @@ succumb dread triumph yogurt neptune venus
 1
 16 12
 2
-0 29 17 12
 0 26 1 2
+0 29 17 12
 1
 end_operator
 begin_operator
@@ -30655,8 +30655,8 @@ succumb dread triumph yogurt vulcan neptune
 1
 16 12
 2
-0 29 17 12
 0 26 3 1
+0 29 17 12
 1
 end_operator
 begin_operator
@@ -34174,8 +34174,8 @@ succumb sciatica achievement baguette mars vulcan
 1
 10 0
 2
-0 23 13 0
 0 21 0 3
+0 23 13 0
 1
 end_operator
 begin_operator
@@ -34183,8 +34183,8 @@ succumb sciatica achievement baguette neptune venus
 1
 10 0
 2
-0 23 13 0
 0 21 1 2
+0 23 13 0
 1
 end_operator
 begin_operator
@@ -34192,8 +34192,8 @@ succumb sciatica achievement baguette vulcan neptune
 1
 10 0
 2
-0 23 13 0
 0 21 3 1
+0 23 13 0
 1
 end_operator
 begin_operator
@@ -34201,8 +34201,8 @@ succumb sciatica achievement beef mars vulcan
 1
 10 1
 2
-0 23 13 1
 0 21 0 3
+0 23 13 1
 1
 end_operator
 begin_operator
@@ -34210,8 +34210,8 @@ succumb sciatica achievement beef neptune venus
 1
 10 1
 2
-0 23 13 1
 0 21 1 2
+0 23 13 1
 1
 end_operator
 begin_operator
@@ -34219,8 +34219,8 @@ succumb sciatica achievement beef vulcan neptune
 1
 10 1
 2
-0 23 13 1
 0 21 3 1
+0 23 13 1
 1
 end_operator
 begin_operator
@@ -34228,8 +34228,8 @@ succumb sciatica achievement chicken mars vulcan
 1
 10 2
 2
-0 23 13 2
 0 21 0 3
+0 23 13 2
 1
 end_operator
 begin_operator
@@ -34237,8 +34237,8 @@ succumb sciatica achievement chicken neptune venus
 1
 10 2
 2
-0 23 13 2
 0 21 1 2
+0 23 13 2
 1
 end_operator
 begin_operator
@@ -34246,8 +34246,8 @@ succumb sciatica achievement chicken vulcan neptune
 1
 10 2
 2
-0 23 13 2
 0 21 3 1
+0 23 13 2
 1
 end_operator
 begin_operator
@@ -34255,8 +34255,8 @@ succumb sciatica achievement cucumber mars vulcan
 1
 10 3
 2
-0 23 13 3
 0 21 0 3
+0 23 13 3
 1
 end_operator
 begin_operator
@@ -34264,8 +34264,8 @@ succumb sciatica achievement cucumber neptune venus
 1
 10 3
 2
-0 23 13 3
 0 21 1 2
+0 23 13 3
 1
 end_operator
 begin_operator
@@ -34273,8 +34273,8 @@ succumb sciatica achievement cucumber vulcan neptune
 1
 10 3
 2
-0 23 13 3
 0 21 3 1
+0 23 13 3
 1
 end_operator
 begin_operator
@@ -34282,8 +34282,8 @@ succumb sciatica achievement guava mars vulcan
 1
 10 4
 2
-0 23 13 4
 0 21 0 3
+0 23 13 4
 1
 end_operator
 begin_operator
@@ -34291,8 +34291,8 @@ succumb sciatica achievement guava neptune venus
 1
 10 4
 2
-0 23 13 4
 0 21 1 2
+0 23 13 4
 1
 end_operator
 begin_operator
@@ -34300,8 +34300,8 @@ succumb sciatica achievement guava vulcan neptune
 1
 10 4
 2
-0 23 13 4
 0 21 3 1
+0 23 13 4
 1
 end_operator
 begin_operator
@@ -34309,8 +34309,8 @@ succumb sciatica achievement hamburger mars vulcan
 1
 10 5
 2
-0 23 13 5
 0 21 0 3
+0 23 13 5
 1
 end_operator
 begin_operator
@@ -34318,8 +34318,8 @@ succumb sciatica achievement hamburger neptune venus
 1
 10 5
 2
-0 23 13 5
 0 21 1 2
+0 23 13 5
 1
 end_operator
 begin_operator
@@ -34327,8 +34327,8 @@ succumb sciatica achievement hamburger vulcan neptune
 1
 10 5
 2
-0 23 13 5
 0 21 3 1
+0 23 13 5
 1
 end_operator
 begin_operator
@@ -34336,8 +34336,8 @@ succumb sciatica achievement hotdog mars vulcan
 1
 10 6
 2
-0 23 13 6
 0 21 0 3
+0 23 13 6
 1
 end_operator
 begin_operator
@@ -34345,8 +34345,8 @@ succumb sciatica achievement hotdog neptune venus
 1
 10 6
 2
-0 23 13 6
 0 21 1 2
+0 23 13 6
 1
 end_operator
 begin_operator
@@ -34354,8 +34354,8 @@ succumb sciatica achievement hotdog vulcan neptune
 1
 10 6
 2
-0 23 13 6
 0 21 3 1
+0 23 13 6
 1
 end_operator
 begin_operator
@@ -34363,8 +34363,8 @@ succumb sciatica achievement muffin mars vulcan
 1
 10 7
 2
-0 23 13 7
 0 21 0 3
+0 23 13 7
 1
 end_operator
 begin_operator
@@ -34372,8 +34372,8 @@ succumb sciatica achievement muffin neptune venus
 1
 10 7
 2
-0 23 13 7
 0 21 1 2
+0 23 13 7
 1
 end_operator
 begin_operator
@@ -34381,8 +34381,8 @@ succumb sciatica achievement muffin vulcan neptune
 1
 10 7
 2
-0 23 13 7
 0 21 3 1
+0 23 13 7
 1
 end_operator
 begin_operator
@@ -34390,8 +34390,8 @@ succumb sciatica achievement mutton mars vulcan
 1
 10 8
 2
-0 23 13 8
 0 21 0 3
+0 23 13 8
 1
 end_operator
 begin_operator
@@ -34399,8 +34399,8 @@ succumb sciatica achievement mutton neptune venus
 1
 10 8
 2
-0 23 13 8
 0 21 1 2
+0 23 13 8
 1
 end_operator
 begin_operator
@@ -34408,8 +34408,8 @@ succumb sciatica achievement mutton vulcan neptune
 1
 10 8
 2
-0 23 13 8
 0 21 3 1
+0 23 13 8
 1
 end_operator
 begin_operator
@@ -34417,8 +34417,8 @@ succumb sciatica achievement rice mars vulcan
 1
 10 9
 2
-0 23 13 9
 0 21 0 3
+0 23 13 9
 1
 end_operator
 begin_operator
@@ -34426,8 +34426,8 @@ succumb sciatica achievement rice neptune venus
 1
 10 9
 2
-0 23 13 9
 0 21 1 2
+0 23 13 9
 1
 end_operator
 begin_operator
@@ -34435,8 +34435,8 @@ succumb sciatica achievement rice vulcan neptune
 1
 10 9
 2
-0 23 13 9
 0 21 3 1
+0 23 13 9
 1
 end_operator
 begin_operator
@@ -34444,8 +34444,8 @@ succumb sciatica achievement scallop mars vulcan
 1
 10 10
 2
-0 23 13 10
 0 21 0 3
+0 23 13 10
 1
 end_operator
 begin_operator
@@ -34453,8 +34453,8 @@ succumb sciatica achievement scallop neptune venus
 1
 10 10
 2
-0 23 13 10
 0 21 1 2
+0 23 13 10
 1
 end_operator
 begin_operator
@@ -34462,8 +34462,8 @@ succumb sciatica achievement scallop vulcan neptune
 1
 10 10
 2
-0 23 13 10
 0 21 3 1
+0 23 13 10
 1
 end_operator
 begin_operator
@@ -34471,8 +34471,8 @@ succumb sciatica achievement turkey mars vulcan
 1
 10 11
 2
-0 23 13 11
 0 21 0 3
+0 23 13 11
 1
 end_operator
 begin_operator
@@ -34480,8 +34480,8 @@ succumb sciatica achievement turkey neptune venus
 1
 10 11
 2
-0 23 13 11
 0 21 1 2
+0 23 13 11
 1
 end_operator
 begin_operator
@@ -34489,8 +34489,8 @@ succumb sciatica achievement turkey vulcan neptune
 1
 10 11
 2
-0 23 13 11
 0 21 3 1
+0 23 13 11
 1
 end_operator
 begin_operator
@@ -34498,8 +34498,8 @@ succumb sciatica achievement yogurt mars vulcan
 1
 10 12
 2
-0 23 13 12
 0 21 0 3
+0 23 13 12
 1
 end_operator
 begin_operator
@@ -34507,8 +34507,8 @@ succumb sciatica achievement yogurt neptune venus
 1
 10 12
 2
-0 23 13 12
 0 21 1 2
+0 23 13 12
 1
 end_operator
 begin_operator
@@ -34516,8 +34516,8 @@ succumb sciatica achievement yogurt vulcan neptune
 1
 10 12
 2
-0 23 13 12
 0 21 3 1
+0 23 13 12
 1
 end_operator
 begin_operator
@@ -34525,8 +34525,8 @@ succumb sciatica excitement baguette mars vulcan
 1
 11 0
 2
-0 23 14 0
 0 22 0 3
+0 23 14 0
 1
 end_operator
 begin_operator
@@ -34534,8 +34534,8 @@ succumb sciatica excitement baguette neptune venus
 1
 11 0
 2
-0 23 14 0
 0 22 1 2
+0 23 14 0
 1
 end_operator
 begin_operator
@@ -34543,8 +34543,8 @@ succumb sciatica excitement baguette vulcan neptune
 1
 11 0
 2
-0 23 14 0
 0 22 3 1
+0 23 14 0
 1
 end_operator
 begin_operator
@@ -34552,8 +34552,8 @@ succumb sciatica excitement beef mars vulcan
 1
 11 1
 2
-0 23 14 1
 0 22 0 3
+0 23 14 1
 1
 end_operator
 begin_operator
@@ -34561,8 +34561,8 @@ succumb sciatica excitement beef neptune venus
 1
 11 1
 2
-0 23 14 1
 0 22 1 2
+0 23 14 1
 1
 end_operator
 begin_operator
@@ -34570,8 +34570,8 @@ succumb sciatica excitement beef vulcan neptune
 1
 11 1
 2
-0 23 14 1
 0 22 3 1
+0 23 14 1
 1
 end_operator
 begin_operator
@@ -34579,8 +34579,8 @@ succumb sciatica excitement chicken mars vulcan
 1
 11 2
 2
-0 23 14 2
 0 22 0 3
+0 23 14 2
 1
 end_operator
 begin_operator
@@ -34588,8 +34588,8 @@ succumb sciatica excitement chicken neptune venus
 1
 11 2
 2
-0 23 14 2
 0 22 1 2
+0 23 14 2
 1
 end_operator
 begin_operator
@@ -34597,8 +34597,8 @@ succumb sciatica excitement chicken vulcan neptune
 1
 11 2
 2
-0 23 14 2
 0 22 3 1
+0 23 14 2
 1
 end_operator
 begin_operator
@@ -34606,8 +34606,8 @@ succumb sciatica excitement cucumber mars vulcan
 1
 11 3
 2
-0 23 14 3
 0 22 0 3
+0 23 14 3
 1
 end_operator
 begin_operator
@@ -34615,8 +34615,8 @@ succumb sciatica excitement cucumber neptune venus
 1
 11 3
 2
-0 23 14 3
 0 22 1 2
+0 23 14 3
 1
 end_operator
 begin_operator
@@ -34624,8 +34624,8 @@ succumb sciatica excitement cucumber vulcan neptune
 1
 11 3
 2
-0 23 14 3
 0 22 3 1
+0 23 14 3
 1
 end_operator
 begin_operator
@@ -34633,8 +34633,8 @@ succumb sciatica excitement guava mars vulcan
 1
 11 4
 2
-0 23 14 4
 0 22 0 3
+0 23 14 4
 1
 end_operator
 begin_operator
@@ -34642,8 +34642,8 @@ succumb sciatica excitement guava neptune venus
 1
 11 4
 2
-0 23 14 4
 0 22 1 2
+0 23 14 4
 1
 end_operator
 begin_operator
@@ -34651,8 +34651,8 @@ succumb sciatica excitement guava vulcan neptune
 1
 11 4
 2
-0 23 14 4
 0 22 3 1
+0 23 14 4
 1
 end_operator
 begin_operator
@@ -34660,8 +34660,8 @@ succumb sciatica excitement hamburger mars vulcan
 1
 11 5
 2
-0 23 14 5
 0 22 0 3
+0 23 14 5
 1
 end_operator
 begin_operator
@@ -34669,8 +34669,8 @@ succumb sciatica excitement hamburger neptune venus
 1
 11 5
 2
-0 23 14 5
 0 22 1 2
+0 23 14 5
 1
 end_operator
 begin_operator
@@ -34678,8 +34678,8 @@ succumb sciatica excitement hamburger vulcan neptune
 1
 11 5
 2
-0 23 14 5
 0 22 3 1
+0 23 14 5
 1
 end_operator
 begin_operator
@@ -34687,8 +34687,8 @@ succumb sciatica excitement hotdog mars vulcan
 1
 11 6
 2
-0 23 14 6
 0 22 0 3
+0 23 14 6
 1
 end_operator
 begin_operator
@@ -34696,8 +34696,8 @@ succumb sciatica excitement hotdog neptune venus
 1
 11 6
 2
-0 23 14 6
 0 22 1 2
+0 23 14 6
 1
 end_operator
 begin_operator
@@ -34705,8 +34705,8 @@ succumb sciatica excitement hotdog vulcan neptune
 1
 11 6
 2
-0 23 14 6
 0 22 3 1
+0 23 14 6
 1
 end_operator
 begin_operator
@@ -34714,8 +34714,8 @@ succumb sciatica excitement muffin mars vulcan
 1
 11 7
 2
-0 23 14 7
 0 22 0 3
+0 23 14 7
 1
 end_operator
 begin_operator
@@ -34723,8 +34723,8 @@ succumb sciatica excitement muffin neptune venus
 1
 11 7
 2
-0 23 14 7
 0 22 1 2
+0 23 14 7
 1
 end_operator
 begin_operator
@@ -34732,8 +34732,8 @@ succumb sciatica excitement muffin vulcan neptune
 1
 11 7
 2
-0 23 14 7
 0 22 3 1
+0 23 14 7
 1
 end_operator
 begin_operator
@@ -34741,8 +34741,8 @@ succumb sciatica excitement mutton mars vulcan
 1
 11 8
 2
-0 23 14 8
 0 22 0 3
+0 23 14 8
 1
 end_operator
 begin_operator
@@ -34750,8 +34750,8 @@ succumb sciatica excitement mutton neptune venus
 1
 11 8
 2
-0 23 14 8
 0 22 1 2
+0 23 14 8
 1
 end_operator
 begin_operator
@@ -34759,8 +34759,8 @@ succumb sciatica excitement mutton vulcan neptune
 1
 11 8
 2
-0 23 14 8
 0 22 3 1
+0 23 14 8
 1
 end_operator
 begin_operator
@@ -34768,8 +34768,8 @@ succumb sciatica excitement rice mars vulcan
 1
 11 9
 2
-0 23 14 9
 0 22 0 3
+0 23 14 9
 1
 end_operator
 begin_operator
@@ -34777,8 +34777,8 @@ succumb sciatica excitement rice neptune venus
 1
 11 9
 2
-0 23 14 9
 0 22 1 2
+0 23 14 9
 1
 end_operator
 begin_operator
@@ -34786,8 +34786,8 @@ succumb sciatica excitement rice vulcan neptune
 1
 11 9
 2
-0 23 14 9
 0 22 3 1
+0 23 14 9
 1
 end_operator
 begin_operator
@@ -34795,8 +34795,8 @@ succumb sciatica excitement scallop mars vulcan
 1
 11 10
 2
-0 23 14 10
 0 22 0 3
+0 23 14 10
 1
 end_operator
 begin_operator
@@ -34804,8 +34804,8 @@ succumb sciatica excitement scallop neptune venus
 1
 11 10
 2
-0 23 14 10
 0 22 1 2
+0 23 14 10
 1
 end_operator
 begin_operator
@@ -34813,8 +34813,8 @@ succumb sciatica excitement scallop vulcan neptune
 1
 11 10
 2
-0 23 14 10
 0 22 3 1
+0 23 14 10
 1
 end_operator
 begin_operator
@@ -34822,8 +34822,8 @@ succumb sciatica excitement turkey mars vulcan
 1
 11 11
 2
-0 23 14 11
 0 22 0 3
+0 23 14 11
 1
 end_operator
 begin_operator
@@ -34831,8 +34831,8 @@ succumb sciatica excitement turkey neptune venus
 1
 11 11
 2
-0 23 14 11
 0 22 1 2
+0 23 14 11
 1
 end_operator
 begin_operator
@@ -34840,8 +34840,8 @@ succumb sciatica excitement turkey vulcan neptune
 1
 11 11
 2
-0 23 14 11
 0 22 3 1
+0 23 14 11
 1
 end_operator
 begin_operator
@@ -34849,8 +34849,8 @@ succumb sciatica excitement yogurt mars vulcan
 1
 11 12
 2
-0 23 14 12
 0 22 0 3
+0 23 14 12
 1
 end_operator
 begin_operator
@@ -34858,8 +34858,8 @@ succumb sciatica excitement yogurt neptune venus
 1
 11 12
 2
-0 23 14 12
 0 22 1 2
+0 23 14 12
 1
 end_operator
 begin_operator
@@ -34867,8 +34867,8 @@ succumb sciatica excitement yogurt vulcan neptune
 1
 11 12
 2
-0 23 14 12
 0 22 3 1
+0 23 14 12
 1
 end_operator
 begin_operator

@@ -2867,17 +2867,17 @@ begin_operator
 associate ap2 ge-c ap2-ge-c
 0
 3
+0 95 0 1
 0 118 0 1
 0 349 -1 0
-0 95 0 1
 1
 end_operator
 begin_operator
 associate c-myc ap2 c-myc-ap2
 0
 3
-0 118 0 1
 0 76 0 1
+0 118 0 1
 0 348 -1 0
 1
 end_operator
@@ -2885,9 +2885,9 @@ begin_operator
 associate c-myc max c-myc-max
 0
 3
+0 56 0 1
 0 76 0 1
 0 347 -1 0
-0 56 0 1
 1
 end_operator
 begin_operator
@@ -2895,8 +2895,8 @@ associate cdk1p1p2 cks1 cdk1p1p2-cks1
 0
 3
 0 69 0 1
-0 332 -1 0
 0 134 0 1
+0 332 -1 0
 1
 end_operator
 begin_operator
@@ -2904,8 +2904,8 @@ associate cdk1p1p2 gadd45 cdk1p1p2-gadd45
 0
 3
 0 69 0 1
-0 331 -1 0
 0 86 0 1
+0 331 -1 0
 1
 end_operator
 begin_operator
@@ -2913,8 +2913,8 @@ associate cdk1p1p2p3 cks1 cdk1p1p2p3-cks1
 0
 3
 0 88 0 1
-0 337 -1 0
 0 134 0 1
+0 337 -1 0
 1
 end_operator
 begin_operator
@@ -2922,26 +2922,26 @@ associate cdk1p1p2p3 cyca cdk1p1p2p3-cyca
 0
 3
 0 88 0 1
-0 336 -1 0
 0 135 0 1
+0 336 -1 0
 1
 end_operator
 begin_operator
 associate cdk1p1p2p3 cycb cdk1p1p2p3-cycb
 0
 3
+0 67 0 1
 0 88 0 1
 0 335 -1 0
-0 67 0 1
 1
 end_operator
 begin_operator
 associate cdk1p1p2p3 gadd45 cdk1p1p2p3-gadd45
 0
 3
+0 86 0 1
 0 88 0 1
 0 333 -1 0
-0 86 0 1
 1
 end_operator
 begin_operator
@@ -2949,8 +2949,8 @@ associate cdk2 cks1 cdk2-cks1
 0
 3
 0 133 0 1
-0 321 -1 0
 0 134 0 1
+0 321 -1 0
 1
 end_operator
 begin_operator
@@ -2958,8 +2958,8 @@ associate cdk2 cyca cdk2-cyca
 0
 3
 0 133 0 1
-0 157 -1 0
 0 135 0 1
+0 157 -1 0
 1
 end_operator
 begin_operator
@@ -2967,8 +2967,8 @@ associate cdk2 cyce cdk2-cyce
 0
 3
 0 133 0 1
-0 142 -1 0
 0 139 0 1
+0 142 -1 0
 1
 end_operator
 begin_operator
@@ -2976,8 +2976,8 @@ associate cdk2 cycep1 cdk2-cycep1
 0
 3
 0 133 0 1
-0 144 -1 0
 0 140 0 1
+0 144 -1 0
 1
 end_operator
 begin_operator
@@ -2985,8 +2985,8 @@ associate cdk2-cyca e2f13 cdk2-cyca-e2f13
 0
 3
 0 157 0 1
-0 330 -1 0
 0 162 0 1
+0 330 -1 0
 1
 end_operator
 begin_operator
@@ -2994,26 +2994,26 @@ associate cdk2-cyca e2f13p1 cdk2-cyca-e2f13p1
 0
 3
 0 157 0 1
-0 328 -1 0
 0 163 0 1
+0 328 -1 0
 1
 end_operator
 begin_operator
 associate cdk2p1 cks1 cdk2p1-cks1
 0
 3
+0 134 0 1
 0 136 0 1
 0 320 -1 0
-0 134 0 1
 1
 end_operator
 begin_operator
 associate cdk2p1 cyca cdk2p1-cyca
 0
 3
+0 135 0 1
 0 136 0 1
 0 158 -1 0
-0 135 0 1
 1
 end_operator
 begin_operator
@@ -3021,8 +3021,8 @@ associate cdk2p1 cyce cdk2p1-cyce
 0
 3
 0 136 0 1
-0 143 -1 0
 0 139 0 1
+0 143 -1 0
 1
 end_operator
 begin_operator
@@ -3030,8 +3030,8 @@ associate cdk2p1 cycep1 cdk2p1-cycep1
 0
 3
 0 136 0 1
-0 145 -1 0
 0 140 0 1
+0 145 -1 0
 1
 end_operator
 begin_operator
@@ -3039,8 +3039,8 @@ associate cdk2p1-cyca e2f13 cdk2p1-cyca-e2f13
 0
 3
 0 158 0 1
-0 319 -1 0
 0 162 0 1
+0 319 -1 0
 1
 end_operator
 begin_operator
@@ -3048,26 +3048,26 @@ associate cdk2p1-cyca e2f13p1 cdk2p1-cyca-e2f13p1
 0
 3
 0 158 0 1
-0 317 -1 0
 0 163 0 1
+0 317 -1 0
 1
 end_operator
 begin_operator
 associate cdk2p1p2 cks1 cdk2p1p2-cks1
 0
 3
+0 134 0 1
 0 138 0 1
 0 211 -1 0
-0 134 0 1
 1
 end_operator
 begin_operator
 associate cdk2p1p2 cyca cdk2p1p2-cyca
 0
 3
+0 135 0 1
 0 138 0 1
 0 160 -1 0
-0 135 0 1
 1
 end_operator
 begin_operator
@@ -3075,8 +3075,8 @@ associate cdk2p1p2 cyce cdk2p1p2-cyce
 0
 3
 0 138 0 1
-0 149 -1 0
 0 139 0 1
+0 149 -1 0
 1
 end_operator
 begin_operator
@@ -3084,8 +3084,8 @@ associate cdk2p1p2 cycep1 cdk2p1p2-cycep1
 0
 3
 0 138 0 1
-0 151 -1 0
 0 140 0 1
+0 151 -1 0
 1
 end_operator
 begin_operator
@@ -3093,8 +3093,8 @@ associate cdk2p1p2-cyca e2f13 cdk2p1p2-cyca-e2f13
 0
 3
 0 160 0 1
-0 316 -1 0
 0 162 0 1
+0 316 -1 0
 1
 end_operator
 begin_operator
@@ -3102,26 +3102,26 @@ associate cdk2p1p2-cyca e2f13p1 cdk2p1p2-cyca-e2f13p1
 0
 3
 0 160 0 1
-0 314 -1 0
 0 163 0 1
+0 314 -1 0
 1
 end_operator
 begin_operator
 associate cdk2p2 cks1 cdk2p2-cks1
 0
 3
+0 134 0 1
 0 137 0 1
 0 210 -1 0
-0 134 0 1
 1
 end_operator
 begin_operator
 associate cdk2p2 cyca cdk2p2-cyca
 0
 3
+0 135 0 1
 0 137 0 1
 0 161 -1 0
-0 135 0 1
 1
 end_operator
 begin_operator
@@ -3129,8 +3129,8 @@ associate cdk2p2 cyce cdk2p2-cyce
 0
 3
 0 137 0 1
-0 148 -1 0
 0 139 0 1
+0 148 -1 0
 1
 end_operator
 begin_operator
@@ -3138,8 +3138,8 @@ associate cdk2p2 cycep1 cdk2p2-cycep1
 0
 3
 0 137 0 1
-0 150 -1 0
 0 140 0 1
+0 150 -1 0
 1
 end_operator
 begin_operator
@@ -3147,8 +3147,8 @@ associate cdk2p2-cyca e2f13 cdk2p2-cyca-e2f13
 0
 3
 0 161 0 1
-0 327 -1 0
 0 162 0 1
+0 327 -1 0
 1
 end_operator
 begin_operator
@@ -3156,8 +3156,8 @@ associate cdk2p2-cyca e2f13p1 cdk2p2-cyca-e2f13p1
 0
 3
 0 161 0 1
-0 325 -1 0
 0 163 0 1
+0 325 -1 0
 1
 end_operator
 begin_operator
@@ -3165,8 +3165,8 @@ associate cdk46p1 cycd cdk46p1-cycd
 0
 3
 0 72 0 1
-0 146 -1 0
 0 83 0 1
+0 146 -1 0
 1
 end_operator
 begin_operator
@@ -3174,8 +3174,8 @@ associate cdk46p1 cycdp1 cdk46p1-cycdp1
 0
 3
 0 72 0 1
-0 147 -1 0
 0 84 0 1
+0 147 -1 0
 1
 end_operator
 begin_operator
@@ -3183,8 +3183,8 @@ associate cdk46p1p2 cycd cdk46p1p2-cycd
 0
 3
 0 82 0 1
-0 152 -1 0
 0 83 0 1
+0 152 -1 0
 1
 end_operator
 begin_operator
@@ -3192,8 +3192,8 @@ associate cdk46p1p2 cycdp1 cdk46p1p2-cycdp1
 0
 3
 0 82 0 1
-0 153 -1 0
 0 84 0 1
+0 153 -1 0
 1
 end_operator
 begin_operator
@@ -3209,9 +3209,9 @@ begin_operator
 associate cdk7p1 cych cdk7p1-cych
 0
 3
+0 52 0 1
 0 53 0 1
 0 54 -1 0
-0 52 0 1
 1
 end_operator
 begin_operator
@@ -3219,8 +3219,8 @@ associate cebp prb cebp-prb
 0
 3
 0 119 0 1
-0 341 -1 0
 0 122 0 1
+0 341 -1 0
 1
 end_operator
 begin_operator
@@ -3228,8 +3228,8 @@ associate cebp prbp1 cebp-prbp1
 0
 3
 0 119 0 1
-0 340 -1 0
 0 131 0 1
+0 340 -1 0
 1
 end_operator
 begin_operator
@@ -3237,25 +3237,25 @@ associate cebp prbp1p2 cebp-prbp1p2
 0
 3
 0 119 0 1
-0 339 -1 0
 0 132 0 1
+0 339 -1 0
 1
 end_operator
 begin_operator
 associate cebp prbp2 cebp-prbp2
 0
 3
+0 109 0 1
 0 119 0 1
 0 338 -1 0
-0 109 0 1
 1
 end_operator
 begin_operator
 associate dmp1 cycd dmp1-cycd
 0
 3
-0 83 0 1
 0 74 0 1
+0 83 0 1
 0 249 -1 0
 1
 end_operator
@@ -3263,8 +3263,8 @@ begin_operator
 associate dmp1 cycdp1 dmp1-cycdp1
 0
 3
-0 84 0 1
 0 74 0 1
+0 84 0 1
 0 248 -1 0
 1
 end_operator
@@ -3290,26 +3290,26 @@ begin_operator
 associate e2f13-dp12 ge2 e2f13-dp12-ge2
 0
 3
-0 128 0 1
 0 68 -1 0
 0 127 0 1
+0 128 0 1
 1
 end_operator
 begin_operator
 associate e2f13p1-dp12 ge2 e2f13p1-dp12-ge2
 0
 3
-0 129 0 1
 0 71 -1 0
 0 127 0 1
+0 129 0 1
 1
 end_operator
 begin_operator
 associate e2f4 dp12 e2f4-dp12
 0
 3
-0 79 0 1
 0 64 0 1
+0 79 0 1
 0 120 -1 0
 1
 end_operator
@@ -3317,8 +3317,8 @@ begin_operator
 associate e2f4-dp12 ge2 e2f4-dp12-ge2
 0
 3
-0 120 0 1
 0 73 -1 0
+0 120 0 1
 0 127 0 1
 1
 end_operator
@@ -3326,8 +3326,8 @@ begin_operator
 associate e2f5 dp12 e2f5-dp12
 0
 3
-0 79 0 1
 0 65 0 1
+0 79 0 1
 0 87 -1 0
 1
 end_operator
@@ -3335,8 +3335,8 @@ begin_operator
 associate e2f5-dp12 ge2 e2f5-dp12-ge2
 0
 3
-0 87 0 1
 0 75 -1 0
+0 87 0 1
 0 127 0 1
 1
 end_operator
@@ -3344,8 +3344,8 @@ begin_operator
 associate e2f6 dp12 e2f6-dp12
 0
 3
-0 79 0 1
 0 66 0 1
+0 79 0 1
 0 81 -1 0
 1
 end_operator
@@ -3354,8 +3354,8 @@ associate e2f6-dp12 ge2 e2f6-dp12-ge2
 0
 3
 0 81 0 1
-0 189 -1 0
 0 127 0 1
+0 189 -1 0
 1
 end_operator
 begin_operator
@@ -3363,61 +3363,61 @@ associate hbp1 p130 hbp1-p130
 0
 3
 0 57 0 1
-0 220 -1 0
 0 89 0 1
+0 220 -1 0
 1
 end_operator
 begin_operator
 associate hdac1 p107-e2f4-dp12 hdac1-p107-e2f4-dp12
 0
 3
-0 124 0 1
 0 99 -1 0
 0 121 0 1
+0 124 0 1
 1
 end_operator
 begin_operator
 associate hdac1 p107-e2f4-dp12p1 hdac1-p107-e2f4-dp12p1
 0
 3
+0 113 0 1
 0 124 0 1
 0 241 -1 0
-0 113 0 1
 1
 end_operator
 begin_operator
 associate hdac1 p130-e2f4-dp12 hdac1-p130-e2f4-dp12
 0
 3
-0 124 0 1
 0 100 -1 0
 0 115 0 1
+0 124 0 1
 1
 end_operator
 begin_operator
 associate hdac1 p130-e2f4-dp12p1 hdac1-p130-e2f4-dp12p1
 0
 3
+0 114 0 1
 0 124 0 1
 0 239 -1 0
-0 114 0 1
 1
 end_operator
 begin_operator
 associate hdac1 p130-e2f5-dp12 hdac1-p130-e2f5-dp12
 0
 3
-0 124 0 1
-0 91 -1 0
 0 90 0 1
+0 91 -1 0
+0 124 0 1
 1
 end_operator
 begin_operator
 associate hdac1 prb-e2f13-dp12 hdac1-prb-e2f13-dp12
 0
 3
-0 124 0 1
 0 101 -1 0
+0 124 0 1
 0 125 0 1
 1
 end_operator
@@ -3425,17 +3425,17 @@ begin_operator
 associate hdac1 prb-e2f13-dp12p1 hdac1-prb-e2f13-dp12p1
 0
 3
+0 116 0 1
 0 124 0 1
 0 235 -1 0
-0 116 0 1
 1
 end_operator
 begin_operator
 associate hdac1 prb-e2f13p1-dp12 hdac1-prb-e2f13p1-dp12
 0
 3
-0 124 0 1
 0 102 -1 0
+0 124 0 1
 0 126 0 1
 1
 end_operator
@@ -3443,26 +3443,26 @@ begin_operator
 associate hdac1 prb-e2f13p1-dp12p1 hdac1-prb-e2f13p1-dp12p1
 0
 3
+0 117 0 1
 0 124 0 1
 0 233 -1 0
-0 117 0 1
 1
 end_operator
 begin_operator
 associate hdac1 prb-e2f4-dp12 hdac1-prb-e2f4-dp12
 0
 3
-0 124 0 1
 0 103 -1 0
 0 123 0 1
+0 124 0 1
 1
 end_operator
 begin_operator
 associate hdac1-p107-e2f4-dp12 ge2 hdac1-p107-e2f4-dp12-ge2
 0
 3
-0 127 0 1
 0 99 0 1
+0 127 0 1
 0 242 -1 0
 1
 end_operator
@@ -3470,8 +3470,8 @@ begin_operator
 associate hdac1-p107-e2f4p1-dp12 ge2 hdac1-p107-e2f4p1-dp12-ge2
 0
 3
-0 127 0 1
 0 58 0 1
+0 127 0 1
 0 188 -1 0
 1
 end_operator
@@ -3479,8 +3479,8 @@ begin_operator
 associate hdac1-p130-e2f4-dp12 ge2 hdac1-p130-e2f4-dp12-ge2
 0
 3
-0 127 0 1
 0 100 0 1
+0 127 0 1
 0 240 -1 0
 1
 end_operator
@@ -3488,8 +3488,8 @@ begin_operator
 associate hdac1-p130-e2f4p1-dp12 ge2 hdac1-p130-e2f4p1-dp12-ge2
 0
 3
-0 127 0 1
 0 59 0 1
+0 127 0 1
 0 187 -1 0
 1
 end_operator
@@ -3497,8 +3497,8 @@ begin_operator
 associate hdac1-p130-e2f5-dp12 ge2 hdac1-p130-e2f5-dp12-ge2
 0
 3
-0 127 0 1
 0 91 0 1
+0 127 0 1
 0 238 -1 0
 1
 end_operator
@@ -3506,8 +3506,8 @@ begin_operator
 associate hdac1-p130-e2f5p1-dp12 ge2 hdac1-p130-e2f5p1-dp12-ge2
 0
 3
-0 127 0 1
 0 60 0 1
+0 127 0 1
 0 186 -1 0
 1
 end_operator
@@ -3515,8 +3515,8 @@ begin_operator
 associate hdac1-prb-e2f13-dp12 ge2 hdac1-prb-e2f13-dp12-ge2
 0
 3
-0 127 0 1
 0 101 0 1
+0 127 0 1
 0 236 -1 0
 1
 end_operator
@@ -3524,8 +3524,8 @@ begin_operator
 associate hdac1-prb-e2f13p1-dp12 ge2 hdac1-prb-e2f13p1-dp12-ge2
 0
 3
-0 127 0 1
 0 102 0 1
+0 127 0 1
 0 234 -1 0
 1
 end_operator
@@ -3533,8 +3533,8 @@ begin_operator
 associate hdac1-prb-e2f4-dp12 ge2 hdac1-prb-e2f4-dp12-ge2
 0
 3
-0 127 0 1
 0 103 0 1
+0 127 0 1
 0 232 -1 0
 1
 end_operator
@@ -3542,8 +3542,8 @@ begin_operator
 associate hdac1-prbp1-e2f13p1-dp12 ge2 hdac1-prbp1-e2f13p1-dp12-ge2
 0
 3
-0 127 0 1
 0 61 0 1
+0 127 0 1
 0 185 -1 0
 1
 end_operator
@@ -3551,8 +3551,8 @@ begin_operator
 associate hdac1-prbp1-e2f4-dp12 ge2 hdac1-prbp1-e2f4-dp12-ge2
 0
 3
-0 127 0 1
 0 62 0 1
+0 127 0 1
 0 184 -1 0
 1
 end_operator
@@ -3596,9 +3596,9 @@ begin_operator
 associate mdm2 prb mdm2-prb
 0
 3
+0 122 0 1
 0 130 0 1
 0 176 -1 0
-0 122 0 1
 1
 end_operator
 begin_operator
@@ -3606,8 +3606,8 @@ associate mdm2 prbp1 mdm2-prbp1
 0
 3
 0 130 0 1
-0 175 -1 0
 0 131 0 1
+0 175 -1 0
 1
 end_operator
 begin_operator
@@ -3615,25 +3615,25 @@ associate mdm2 prbp1p2 mdm2-prbp1p2
 0
 3
 0 130 0 1
-0 203 -1 0
 0 132 0 1
+0 203 -1 0
 1
 end_operator
 begin_operator
 associate mdm2 prbp2 mdm2-prbp2
 0
 3
+0 109 0 1
 0 130 0 1
 0 174 -1 0
-0 109 0 1
 1
 end_operator
 begin_operator
 associate p107 e2f4-dp12 p107-e2f4-dp12
 0
 3
-0 120 0 1
 0 110 0 1
+0 120 0 1
 0 121 -1 0
 1
 end_operator
@@ -3641,8 +3641,8 @@ begin_operator
 associate p107 e2f4-dp12p1 p107-e2f4-dp12p1
 0
 3
-0 111 0 1
 0 110 0 1
+0 111 0 1
 0 113 -1 0
 1
 end_operator
@@ -3650,8 +3650,8 @@ begin_operator
 associate p107-e2f4-dp12 ge2 p107-e2f4-dp12-ge2
 0
 3
-0 127 0 1
 0 121 0 1
+0 127 0 1
 0 223 -1 0
 1
 end_operator
@@ -3659,8 +3659,8 @@ begin_operator
 associate p107-e2f4-dp12p1 ge2 p107-e2f4-dp12p1-ge2
 0
 3
-0 127 0 1
 0 113 0 1
+0 127 0 1
 0 231 -1 0
 1
 end_operator
@@ -3668,17 +3668,17 @@ begin_operator
 associate p130 e2f4-dp12 p130-e2f4-dp12
 0
 3
-0 120 0 1
 0 89 0 1
 0 115 -1 0
+0 120 0 1
 1
 end_operator
 begin_operator
 associate p130 e2f4-dp12p1 p130-e2f4-dp12p1
 0
 3
-0 111 0 1
 0 89 0 1
+0 111 0 1
 0 114 -1 0
 1
 end_operator
@@ -3695,8 +3695,8 @@ begin_operator
 associate p130-e2f4-dp12 ge2 p130-e2f4-dp12-ge2
 0
 3
-0 127 0 1
 0 115 0 1
+0 127 0 1
 0 230 -1 0
 1
 end_operator
@@ -3704,8 +3704,8 @@ begin_operator
 associate p130-e2f4-dp12p1 ge2 p130-e2f4-dp12p1-ge2
 0
 3
-0 127 0 1
 0 114 0 1
+0 127 0 1
 0 229 -1 0
 1
 end_operator
@@ -3713,8 +3713,8 @@ begin_operator
 associate p130-e2f5-dp12 ge2 p130-e2f5-dp12-ge2
 0
 3
-0 127 0 1
 0 90 0 1
+0 127 0 1
 0 228 -1 0
 1
 end_operator
@@ -3722,8 +3722,8 @@ begin_operator
 associate p21 cdk2-cyca p21-cdk2-cyca
 0
 3
-0 157 0 1
 0 154 0 1
+0 157 0 1
 0 165 -1 0
 1
 end_operator
@@ -3749,8 +3749,8 @@ begin_operator
 associate p21 cdk2p1-cyca p21-cdk2p1-cyca
 0
 3
-0 158 0 1
 0 154 0 1
+0 158 0 1
 0 213 -1 0
 1
 end_operator
@@ -3776,8 +3776,8 @@ begin_operator
 associate p21 cdk2p1p2-cyca p21-cdk2p1p2-cyca
 0
 3
-0 160 0 1
 0 154 0 1
+0 160 0 1
 0 215 -1 0
 1
 end_operator
@@ -3803,8 +3803,8 @@ begin_operator
 associate p21 cdk2p2-cyca p21-cdk2p2-cyca
 0
 3
-0 161 0 1
 0 154 0 1
+0 161 0 1
 0 168 -1 0
 1
 end_operator
@@ -3875,8 +3875,8 @@ begin_operator
 associate p27 cdk2-cyca p27-cdk2-cyca
 0
 3
-0 157 0 1
 0 155 0 1
+0 157 0 1
 0 196 -1 0
 1
 end_operator
@@ -3902,8 +3902,8 @@ begin_operator
 associate p27 cdk2p1-cyca p27-cdk2p1-cyca
 0
 3
-0 158 0 1
 0 155 0 1
+0 158 0 1
 0 212 -1 0
 1
 end_operator
@@ -3929,8 +3929,8 @@ begin_operator
 associate p27 cdk2p1p2-cyca p27-cdk2p1p2-cyca
 0
 3
-0 160 0 1
 0 155 0 1
+0 160 0 1
 0 214 -1 0
 1
 end_operator
@@ -3956,8 +3956,8 @@ begin_operator
 associate p27 cdk2p2-cyca p27-cdk2p2-cyca
 0
 3
-0 161 0 1
 0 155 0 1
+0 161 0 1
 0 195 -1 0
 1
 end_operator
@@ -4073,8 +4073,8 @@ begin_operator
 associate p27p1 cdk2p1p2-cyca p27p1-cdk2p1p2-cyca
 0
 3
-0 160 0 1
 0 159 0 1
+0 160 0 1
 0 270 -1 0
 1
 end_operator
@@ -4100,8 +4100,8 @@ begin_operator
 associate p27p1 cdk2p2-cyca p27p1-cdk2p2-cyca
 0
 3
-0 161 0 1
 0 159 0 1
+0 161 0 1
 0 268 -1 0
 1
 end_operator
@@ -4163,8 +4163,8 @@ begin_operator
 associate p53 dp12 p53-dp12
 0
 3
-0 79 0 1
 0 70 0 1
+0 79 0 1
 0 173 -1 0
 1
 end_operator
@@ -4172,8 +4172,8 @@ begin_operator
 associate p53 dp12p1 p53-dp12p1
 0
 3
-0 80 0 1
 0 70 0 1
+0 80 0 1
 0 171 -1 0
 1
 end_operator
@@ -4181,8 +4181,8 @@ begin_operator
 associate p53p1 dp12 p53p1-dp12
 0
 3
-0 79 0 1
 0 78 0 1
+0 79 0 1
 0 170 -1 0
 1
 end_operator
@@ -4190,8 +4190,8 @@ begin_operator
 associate p53p1 dp12p1 p53p1-dp12p1
 0
 3
-0 80 0 1
 0 78 0 1
+0 80 0 1
 0 169 -1 0
 1
 end_operator
@@ -4199,8 +4199,8 @@ begin_operator
 associate p57 cdk2-cyca p57-cdk2-cyca
 0
 3
-0 157 0 1
 0 156 0 1
+0 157 0 1
 0 296 -1 0
 1
 end_operator
@@ -4226,8 +4226,8 @@ begin_operator
 associate p57 cdk2p1-cyca p57-cdk2p1-cyca
 0
 3
-0 158 0 1
 0 156 0 1
+0 158 0 1
 0 293 -1 0
 1
 end_operator
@@ -4253,8 +4253,8 @@ begin_operator
 associate p57 cdk2p1p2-cyca p57-cdk2p1p2-cyca
 0
 3
-0 160 0 1
 0 156 0 1
+0 160 0 1
 0 290 -1 0
 1
 end_operator
@@ -4280,8 +4280,8 @@ begin_operator
 associate p57 cdk2p2-cyca p57-cdk2p2-cyca
 0
 3
-0 161 0 1
 0 156 0 1
+0 161 0 1
 0 287 -1 0
 1
 end_operator
@@ -4343,8 +4343,8 @@ begin_operator
 associate p57p1 cdk46p1-cycd p57p1-cdk46p1-cycd
 0
 3
-0 146 0 1
 0 141 0 1
+0 146 0 1
 0 257 -1 0
 1
 end_operator
@@ -4352,8 +4352,8 @@ begin_operator
 associate p57p1 cdk46p1-cycdp1 p57p1-cdk46p1-cycdp1
 0
 3
-0 147 0 1
 0 141 0 1
+0 147 0 1
 0 255 -1 0
 1
 end_operator
@@ -4361,8 +4361,8 @@ begin_operator
 associate p57p1 cdk46p1p2-cycd p57p1-cdk46p1p2-cycd
 0
 3
-0 152 0 1
 0 141 0 1
+0 152 0 1
 0 253 -1 0
 1
 end_operator
@@ -4370,8 +4370,8 @@ begin_operator
 associate p57p1 cdk46p1p2-cycdp1 p57p1-cdk46p1p2-cycdp1
 0
 3
-0 153 0 1
 0 141 0 1
+0 153 0 1
 0 252 -1 0
 1
 end_operator
@@ -4388,18 +4388,18 @@ begin_operator
 associate prb ap2 prb-ap2
 0
 3
+0 92 -1 0
 0 118 0 1
 0 122 0 1
-0 92 -1 0
 1
 end_operator
 begin_operator
 associate prb e2f13-dp12 prb-e2f13-dp12
 0
 3
-0 128 0 1
 0 122 0 1
 0 125 -1 0
+0 128 0 1
 1
 end_operator
 begin_operator
@@ -4407,17 +4407,17 @@ associate prb e2f13-dp12p1 prb-e2f13-dp12p1
 0
 3
 0 97 0 1
-0 122 0 1
 0 116 -1 0
+0 122 0 1
 1
 end_operator
 begin_operator
 associate prb e2f13p1-dp12 prb-e2f13p1-dp12
 0
 3
-0 129 0 1
 0 122 0 1
 0 126 -1 0
+0 129 0 1
 1
 end_operator
 begin_operator
@@ -4425,8 +4425,8 @@ associate prb e2f13p1-dp12p1 prb-e2f13p1-dp12p1
 0
 3
 0 108 0 1
-0 122 0 1
 0 117 -1 0
+0 122 0 1
 1
 end_operator
 begin_operator
@@ -4451,8 +4451,8 @@ begin_operator
 associate prb-ap2 ge-c prb-ap2-ge-c
 0
 3
-0 95 0 1
 0 92 0 1
+0 95 0 1
 0 346 -1 0
 1
 end_operator
@@ -4460,8 +4460,8 @@ begin_operator
 associate prb-e2f13-dp12 ge2 prb-e2f13-dp12-ge2
 0
 3
-0 127 0 1
 0 125 0 1
+0 127 0 1
 0 227 -1 0
 1
 end_operator
@@ -4469,8 +4469,8 @@ begin_operator
 associate prb-e2f13-dp12p1 ge2 prb-e2f13-dp12p1-ge2
 0
 3
-0 127 0 1
 0 116 0 1
+0 127 0 1
 0 183 -1 0
 1
 end_operator
@@ -4478,8 +4478,8 @@ begin_operator
 associate prb-e2f13p1-dp12 ge2 prb-e2f13p1-dp12-ge2
 0
 3
-0 127 0 1
 0 126 0 1
+0 127 0 1
 0 226 -1 0
 1
 end_operator
@@ -4487,8 +4487,8 @@ begin_operator
 associate prb-e2f13p1-dp12p1 ge2 prb-e2f13p1-dp12p1-ge2
 0
 3
-0 127 0 1
 0 117 0 1
+0 127 0 1
 0 225 -1 0
 1
 end_operator
@@ -4496,8 +4496,8 @@ begin_operator
 associate prb-e2f4-dp12 ge2 prb-e2f4-dp12-ge2
 0
 3
-0 127 0 1
 0 123 0 1
+0 127 0 1
 0 224 -1 0
 1
 end_operator
@@ -4505,18 +4505,18 @@ begin_operator
 associate prbp1 ap2 prbp1-ap2
 0
 3
+0 93 -1 0
 0 118 0 1
 0 131 0 1
-0 93 -1 0
 1
 end_operator
 begin_operator
 associate prbp1 e2f13-dp12 prbp1-e2f13-dp12
 0
 3
+0 106 -1 0
 0 128 0 1
 0 131 0 1
-0 106 -1 0
 1
 end_operator
 begin_operator
@@ -4524,35 +4524,35 @@ associate prbp1 e2f13-dp12p1 prbp1-e2f13-dp12p1
 0
 3
 0 97 0 1
-0 131 0 1
 0 98 -1 0
+0 131 0 1
 1
 end_operator
 begin_operator
 associate prbp1 e2f13p1-dp12 prbp1-e2f13p1-dp12
 0
 3
+0 105 -1 0
 0 129 0 1
 0 131 0 1
-0 105 -1 0
 1
 end_operator
 begin_operator
 associate prbp1 e2f13p1-dp12p1 prbp1-e2f13p1-dp12p1
 0
 3
+0 107 -1 0
 0 108 0 1
 0 131 0 1
-0 107 -1 0
 1
 end_operator
 begin_operator
 associate prbp1 e2f4-dp12 prbp1-e2f4-dp12
 0
 3
+0 104 -1 0
 0 120 0 1
 0 131 0 1
-0 104 -1 0
 1
 end_operator
 begin_operator
@@ -4568,8 +4568,8 @@ begin_operator
 associate prbp1-ap2 ge-c prbp1-ap2-ge-c
 0
 3
-0 95 0 1
 0 93 0 1
+0 95 0 1
 0 345 -1 0
 1
 end_operator
@@ -4577,8 +4577,8 @@ begin_operator
 associate prbp1-e2f13-dp12 ge2 prbp1-e2f13-dp12-ge2
 0
 3
-0 127 0 1
 0 106 0 1
+0 127 0 1
 0 182 -1 0
 1
 end_operator
@@ -4586,8 +4586,8 @@ begin_operator
 associate prbp1-e2f13-dp12p1 ge2 prbp1-e2f13-dp12p1-ge2
 0
 3
-0 127 0 1
 0 98 0 1
+0 127 0 1
 0 181 -1 0
 1
 end_operator
@@ -4595,8 +4595,8 @@ begin_operator
 associate prbp1-e2f13p1-dp12 ge2 prbp1-e2f13p1-dp12-ge2
 0
 3
-0 127 0 1
 0 105 0 1
+0 127 0 1
 0 190 -1 0
 1
 end_operator
@@ -4604,8 +4604,8 @@ begin_operator
 associate prbp1-e2f13p1-dp12p1 ge2 prbp1-e2f13p1-dp12p1-ge2
 0
 3
-0 127 0 1
 0 107 0 1
+0 127 0 1
 0 180 -1 0
 1
 end_operator
@@ -4613,8 +4613,8 @@ begin_operator
 associate prbp1-e2f4-dp12 ge2 prbp1-e2f4-dp12-ge2
 0
 3
-0 127 0 1
 0 104 0 1
+0 127 0 1
 0 219 -1 0
 1
 end_operator
@@ -4622,8 +4622,8 @@ begin_operator
 associate prbp1-e2f4p1-dp12 ge2 prbp1-e2f4p1-dp12-ge2
 0
 3
-0 127 0 1
 0 63 0 1
+0 127 0 1
 0 179 -1 0
 1
 end_operator
@@ -4631,17 +4631,17 @@ begin_operator
 associate prbp1p2 ap2 prbp1p2-ap2
 0
 3
+0 94 -1 0
 0 118 0 1
 0 132 0 1
-0 94 -1 0
 1
 end_operator
 begin_operator
 associate prbp1p2-ap2 ge-c prbp1p2-ap2-ge-c
 0
 3
-0 95 0 1
 0 94 0 1
+0 95 0 1
 0 343 -1 0
 1
 end_operator
@@ -4649,9 +4649,9 @@ begin_operator
 associate prbp2 ap2 prbp2-ap2
 0
 3
-0 118 0 1
-0 109 0 1
 0 96 -1 0
+0 109 0 1
+0 118 0 1
 1
 end_operator
 begin_operator
@@ -4667,8 +4667,8 @@ begin_operator
 associate sp1 e2f13 sp1-e2f13
 0
 3
-0 162 0 1
 0 112 0 1
+0 162 0 1
 0 217 -1 0
 1
 end_operator
@@ -4676,8 +4676,8 @@ begin_operator
 associate sp1 e2f13p1 sp1-e2f13p1
 0
 3
-0 163 0 1
 0 112 0 1
+0 163 0 1
 0 216 -1 0
 1
 end_operator
@@ -4928,8 +4928,8 @@ associate-with-catalyze p68p2 cdk2p2-cyce p68p1p2
 1
 148 0
 2
-0 207 -1 0
 0 205 0 1
+0 207 -1 0
 1
 end_operator
 begin_operator
@@ -4937,8 +4937,8 @@ associate-with-catalyze p68p2 cdk2p2-cycep1 p68p1p2
 1
 150 0
 2
-0 207 -1 0
 0 205 0 1
+0 207 -1 0
 1
 end_operator
 begin_operator
@@ -4973,8 +4973,8 @@ associate-with-catalyze prbp2 cdk46p3-cycdp1 prbp1p2
 1
 55 0
 2
-0 132 -1 0
 0 109 0 1
+0 132 -1 0
 1
 end_operator
 begin_operator
@@ -12365,7 +12365,7 @@ end_operator
 begin_operator
 dummy-action-10 
 1
-328 0
+298 0
 1
 0 329 -1 0
 1
@@ -12373,7 +12373,7 @@ end_operator
 begin_operator
 dummy-action-10 
 1
-298 0
+328 0
 1
 0 329 -1 0
 1
@@ -12381,7 +12381,7 @@ end_operator
 begin_operator
 dummy-action-11 
 1
-314 0
+236 0
 1
 0 315 -1 0
 1
@@ -12389,7 +12389,7 @@ end_operator
 begin_operator
 dummy-action-11 
 1
-236 0
+314 0
 1
 0 315 -1 0
 1
@@ -12445,7 +12445,7 @@ end_operator
 begin_operator
 dummy-action-15 
 1
-277 0
+207 0
 1
 0 278 -1 0
 1
@@ -12453,7 +12453,7 @@ end_operator
 begin_operator
 dummy-action-15 
 1
-207 0
+277 0
 1
 0 278 -1 0
 1
@@ -12461,7 +12461,7 @@ end_operator
 begin_operator
 dummy-action-16 
 1
-171 0
+167 0
 1
 0 172 -1 0
 1
@@ -12469,7 +12469,7 @@ end_operator
 begin_operator
 dummy-action-16 
 1
-167 0
+171 0
 1
 0 172 -1 0
 1
@@ -12509,7 +12509,7 @@ end_operator
 begin_operator
 dummy-action-19 
 1
-268 0
+258 0
 1
 0 269 -1 0
 1
@@ -12517,7 +12517,7 @@ end_operator
 begin_operator
 dummy-action-19 
 1
-258 0
+268 0
 1
 0 269 -1 0
 1
@@ -12525,7 +12525,7 @@ end_operator
 begin_operator
 dummy-action-2 
 1
-262 0
+261 0
 1
 0 263 -1 0
 1
@@ -12533,7 +12533,7 @@ end_operator
 begin_operator
 dummy-action-2 
 1
-261 0
+262 0
 1
 0 263 -1 0
 1
@@ -12557,7 +12557,7 @@ end_operator
 begin_operator
 dummy-action-21 
 1
-255 0
+206 0
 1
 0 256 -1 0
 1
@@ -12565,17 +12565,9 @@ end_operator
 begin_operator
 dummy-action-21 
 1
-206 0
+255 0
 1
 0 256 -1 0
-1
-end_operator
-begin_operator
-dummy-action-22 
-1
-335 0
-1
-0 344 -1 0
 1
 end_operator
 begin_operator
@@ -12587,9 +12579,17 @@ dummy-action-22
 1
 end_operator
 begin_operator
+dummy-action-22 
+1
+335 0
+1
+0 344 -1 0
+1
+end_operator
+begin_operator
 dummy-action-23 
 1
-270 0
+216 0
 1
 0 271 -1 0
 1
@@ -12597,7 +12597,7 @@ end_operator
 begin_operator
 dummy-action-23 
 1
-216 0
+270 0
 1
 0 271 -1 0
 1
@@ -12653,7 +12653,7 @@ end_operator
 begin_operator
 dummy-action-5 
 1
-308 0
+276 0
 1
 0 309 -1 0
 1
@@ -12661,17 +12661,9 @@ end_operator
 begin_operator
 dummy-action-5 
 1
-276 0
+308 0
 1
 0 309 -1 0
-1
-end_operator
-begin_operator
-dummy-action-6 
-1
-317 0
-1
-0 318 -1 0
 1
 end_operator
 begin_operator
@@ -12683,11 +12675,11 @@ dummy-action-6
 1
 end_operator
 begin_operator
-dummy-action-7 
+dummy-action-6 
 1
-333 0
+317 0
 1
-0 334 -1 0
+0 318 -1 0
 1
 end_operator
 begin_operator
@@ -12699,9 +12691,17 @@ dummy-action-7
 1
 end_operator
 begin_operator
+dummy-action-7 
+1
+333 0
+1
+0 334 -1 0
+1
+end_operator
+begin_operator
 dummy-action-8 
 1
-325 0
+202 0
 1
 0 326 -1 0
 1
@@ -12709,7 +12709,7 @@ end_operator
 begin_operator
 dummy-action-8 
 1
-202 0
+325 0
 1
 0 326 -1 0
 1

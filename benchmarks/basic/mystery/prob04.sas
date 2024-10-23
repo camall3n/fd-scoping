@@ -237,560 +237,560 @@ begin_operator
 feast aesthetics arugula bacon bosnia oregon
 0
 2
-0 8 0 1
 0 7 2 0
+0 8 0 1
 1
 end_operator
 begin_operator
 feast aesthetics arugula bacon oregon kentucky
 0
 2
-0 8 0 1
 0 7 1 2
+0 8 0 1
 1
 end_operator
 begin_operator
 feast aesthetics arugula bacon quebec bosnia
 0
 2
-0 8 0 1
 0 7 0 3
+0 8 0 1
 1
 end_operator
 begin_operator
 feast aesthetics arugula bacon surrey quebec
 0
 2
-0 8 0 1
 0 7 3 4
+0 8 0 1
 1
 end_operator
 begin_operator
 feast aesthetics arugula cherry bosnia oregon
 0
 2
-0 8 0 2
 0 7 2 0
+0 8 0 2
 1
 end_operator
 begin_operator
 feast aesthetics arugula cherry oregon kentucky
 0
 2
-0 8 0 2
 0 7 1 2
+0 8 0 2
 1
 end_operator
 begin_operator
 feast aesthetics arugula cherry quebec bosnia
 0
 2
-0 8 0 2
 0 7 0 3
+0 8 0 2
 1
 end_operator
 begin_operator
 feast aesthetics arugula cherry surrey quebec
 0
 2
-0 8 0 2
 0 7 3 4
+0 8 0 2
 1
 end_operator
 begin_operator
 feast aesthetics arugula muffin bosnia oregon
 0
 2
-0 8 0 5
 0 7 2 0
+0 8 0 5
 1
 end_operator
 begin_operator
 feast aesthetics arugula muffin oregon kentucky
 0
 2
-0 8 0 5
 0 7 1 2
+0 8 0 5
 1
 end_operator
 begin_operator
 feast aesthetics arugula muffin quebec bosnia
 0
 2
-0 8 0 5
 0 7 0 3
+0 8 0 5
 1
 end_operator
 begin_operator
 feast aesthetics arugula muffin surrey quebec
 0
 2
-0 8 0 5
 0 7 3 4
+0 8 0 5
 1
 end_operator
 begin_operator
 feast aesthetics arugula scallop bosnia oregon
 0
 2
-0 8 0 7
 0 7 2 0
+0 8 0 7
 1
 end_operator
 begin_operator
 feast aesthetics arugula scallop oregon kentucky
 0
 2
-0 8 0 7
 0 7 1 2
+0 8 0 7
 1
 end_operator
 begin_operator
 feast aesthetics arugula scallop quebec bosnia
 0
 2
-0 8 0 7
 0 7 0 3
+0 8 0 7
 1
 end_operator
 begin_operator
 feast aesthetics arugula scallop surrey quebec
 0
 2
-0 8 0 7
 0 7 3 4
+0 8 0 7
 1
 end_operator
 begin_operator
 feast aesthetics arugula wurst bosnia oregon
 0
 2
-0 8 0 9
 0 7 2 0
+0 8 0 9
 1
 end_operator
 begin_operator
 feast aesthetics arugula wurst oregon kentucky
 0
 2
-0 8 0 9
 0 7 1 2
+0 8 0 9
 1
 end_operator
 begin_operator
 feast aesthetics arugula wurst quebec bosnia
 0
 2
-0 8 0 9
 0 7 0 3
+0 8 0 9
 1
 end_operator
 begin_operator
 feast aesthetics arugula wurst surrey quebec
 0
 2
-0 8 0 9
 0 7 3 4
+0 8 0 9
 1
 end_operator
 begin_operator
 feast aesthetics bacon arugula surrey quebec
 0
 2
-0 8 1 0
 0 0 0 1
+0 8 1 0
 1
 end_operator
 begin_operator
 feast aesthetics bacon wurst surrey quebec
 0
 2
-0 8 1 9
 0 0 0 1
+0 8 1 9
 1
 end_operator
 begin_operator
 feast aesthetics cherry arugula bosnia oregon
 0
 2
-0 8 2 0
 0 5 2 0
+0 8 2 0
 1
 end_operator
 begin_operator
 feast aesthetics cherry arugula oregon kentucky
 0
 2
-0 8 2 0
 0 5 1 2
+0 8 2 0
 1
 end_operator
 begin_operator
 feast aesthetics cherry arugula quebec bosnia
 0
 2
-0 8 2 0
 0 5 0 3
+0 8 2 0
 1
 end_operator
 begin_operator
 feast aesthetics cherry arugula surrey quebec
 0
 2
-0 8 2 0
 0 5 3 4
+0 8 2 0
 1
 end_operator
 begin_operator
 feast aesthetics cherry ham bosnia oregon
 0
 2
-0 8 2 4
 0 5 2 0
+0 8 2 4
 1
 end_operator
 begin_operator
 feast aesthetics cherry ham oregon kentucky
 0
 2
-0 8 2 4
 0 5 1 2
+0 8 2 4
 1
 end_operator
 begin_operator
 feast aesthetics cherry ham quebec bosnia
 0
 2
-0 8 2 4
 0 5 0 3
+0 8 2 4
 1
 end_operator
 begin_operator
 feast aesthetics cherry ham surrey quebec
 0
 2
-0 8 2 4
 0 5 3 4
+0 8 2 4
 1
 end_operator
 begin_operator
 feast aesthetics cherry muffin bosnia oregon
 0
 2
-0 8 2 5
 0 5 2 0
+0 8 2 5
 1
 end_operator
 begin_operator
 feast aesthetics cherry muffin oregon kentucky
 0
 2
-0 8 2 5
 0 5 1 2
+0 8 2 5
 1
 end_operator
 begin_operator
 feast aesthetics cherry muffin quebec bosnia
 0
 2
-0 8 2 5
 0 5 0 3
+0 8 2 5
 1
 end_operator
 begin_operator
 feast aesthetics cherry muffin surrey quebec
 0
 2
-0 8 2 5
 0 5 3 4
+0 8 2 5
 1
 end_operator
 begin_operator
 feast aesthetics cherry shrimp bosnia oregon
 0
 2
-0 8 2 8
 0 5 2 0
+0 8 2 8
 1
 end_operator
 begin_operator
 feast aesthetics cherry shrimp oregon kentucky
 0
 2
-0 8 2 8
 0 5 1 2
+0 8 2 8
 1
 end_operator
 begin_operator
 feast aesthetics cherry shrimp quebec bosnia
 0
 2
-0 8 2 8
 0 5 0 3
+0 8 2 8
 1
 end_operator
 begin_operator
 feast aesthetics cherry shrimp surrey quebec
 0
 2
-0 8 2 8
 0 5 3 4
+0 8 2 8
 1
 end_operator
 begin_operator
 feast aesthetics ham cherry quebec bosnia
 0
 2
-0 8 4 2
 0 2 0 1
+0 8 4 2
 1
 end_operator
 begin_operator
 feast aesthetics ham cherry surrey quebec
 0
 2
-0 8 4 2
 0 2 1 2
+0 8 4 2
 1
 end_operator
 begin_operator
 feast aesthetics ham muffin quebec bosnia
 0
 2
-0 8 4 5
 0 2 0 1
+0 8 4 5
 1
 end_operator
 begin_operator
 feast aesthetics ham muffin surrey quebec
 0
 2
-0 8 4 5
 0 2 1 2
+0 8 4 5
 1
 end_operator
 begin_operator
 feast aesthetics muffin arugula bosnia oregon
 0
 2
-0 8 5 0
 0 6 2 0
+0 8 5 0
 1
 end_operator
 begin_operator
 feast aesthetics muffin arugula oregon kentucky
 0
 2
-0 8 5 0
 0 6 1 2
+0 8 5 0
 1
 end_operator
 begin_operator
 feast aesthetics muffin arugula quebec bosnia
 0
 2
-0 8 5 0
 0 6 0 3
+0 8 5 0
 1
 end_operator
 begin_operator
 feast aesthetics muffin arugula surrey quebec
 0
 2
-0 8 5 0
 0 6 3 4
+0 8 5 0
 1
 end_operator
 begin_operator
 feast aesthetics muffin cherry bosnia oregon
 0
 2
-0 8 5 2
 0 6 2 0
+0 8 5 2
 1
 end_operator
 begin_operator
 feast aesthetics muffin cherry oregon kentucky
 0
 2
-0 8 5 2
 0 6 1 2
+0 8 5 2
 1
 end_operator
 begin_operator
 feast aesthetics muffin cherry quebec bosnia
 0
 2
-0 8 5 2
 0 6 0 3
+0 8 5 2
 1
 end_operator
 begin_operator
 feast aesthetics muffin cherry surrey quebec
 0
 2
-0 8 5 2
 0 6 3 4
+0 8 5 2
 1
 end_operator
 begin_operator
 feast aesthetics muffin ham bosnia oregon
 0
 2
-0 8 5 4
 0 6 2 0
+0 8 5 4
 1
 end_operator
 begin_operator
 feast aesthetics muffin ham oregon kentucky
 0
 2
-0 8 5 4
 0 6 1 2
+0 8 5 4
 1
 end_operator
 begin_operator
 feast aesthetics muffin ham quebec bosnia
 0
 2
-0 8 5 4
 0 6 0 3
+0 8 5 4
 1
 end_operator
 begin_operator
 feast aesthetics muffin ham surrey quebec
 0
 2
-0 8 5 4
 0 6 3 4
+0 8 5 4
 1
 end_operator
 begin_operator
 feast aesthetics muffin scallion bosnia oregon
 0
 2
-0 8 5 6
 0 6 2 0
+0 8 5 6
 1
 end_operator
 begin_operator
 feast aesthetics muffin scallion oregon kentucky
 0
 2
-0 8 5 6
 0 6 1 2
+0 8 5 6
 1
 end_operator
 begin_operator
 feast aesthetics muffin scallion quebec bosnia
 0
 2
-0 8 5 6
 0 6 0 3
+0 8 5 6
 1
 end_operator
 begin_operator
 feast aesthetics muffin scallion surrey quebec
 0
 2
-0 8 5 6
 0 6 3 4
+0 8 5 6
 1
 end_operator
 begin_operator
 feast aesthetics scallion muffin surrey quebec
 0
 2
-0 8 6 5
 0 1 0 1
+0 8 6 5
 1
 end_operator
 begin_operator
 feast aesthetics scallion shrimp surrey quebec
 0
 2
-0 8 6 8
 0 1 0 1
+0 8 6 8
 1
 end_operator
 begin_operator
 feast aesthetics scallop arugula bosnia oregon
 0
 2
-0 8 7 0
 0 4 1 0
+0 8 7 0
 1
 end_operator
 begin_operator
 feast aesthetics scallop arugula quebec bosnia
 0
 2
-0 8 7 0
 0 4 0 2
+0 8 7 0
 1
 end_operator
 begin_operator
 feast aesthetics scallop arugula surrey quebec
 0
 2
-0 8 7 0
 0 4 2 3
+0 8 7 0
 1
 end_operator
 begin_operator
 feast aesthetics scallop grapefruit bosnia oregon
 0
 2
-0 8 7 3
 0 4 1 0
+0 8 7 3
 1
 end_operator
 begin_operator
 feast aesthetics scallop grapefruit quebec bosnia
 0
 2
-0 8 7 3
 0 4 0 2
+0 8 7 3
 1
 end_operator
 begin_operator
 feast aesthetics scallop grapefruit surrey quebec
 0
 2
-0 8 7 3
 0 4 2 3
+0 8 7 3
 1
 end_operator
 begin_operator
 feast aesthetics shrimp cherry quebec bosnia
 0
 2
-0 8 8 2
 0 3 0 1
+0 8 8 2
 1
 end_operator
 begin_operator
 feast aesthetics shrimp cherry surrey quebec
 0
 2
-0 8 8 2
 0 3 1 2
+0 8 8 2
 1
 end_operator
 begin_operator
 feast aesthetics shrimp scallion quebec bosnia
 0
 2
-0 8 8 6
 0 3 0 1
+0 8 8 6
 1
 end_operator
 begin_operator
 feast aesthetics shrimp scallion surrey quebec
 0
 2
-0 8 8 6
 0 3 1 2
+0 8 8 6
 1
 end_operator
 begin_operator
@@ -1338,8 +1338,8 @@ overcome sciatica aesthetics arugula mars vulcan
 1
 8 0
 2
-0 16 0 10
 0 15 1 0
+0 16 0 10
 1
 end_operator
 begin_operator
@@ -1347,8 +1347,8 @@ overcome sciatica aesthetics bacon mars vulcan
 1
 8 1
 2
-0 16 1 10
 0 15 1 0
+0 16 1 10
 1
 end_operator
 begin_operator
@@ -1356,8 +1356,8 @@ overcome sciatica aesthetics cherry mars vulcan
 1
 8 2
 2
-0 16 2 10
 0 15 1 0
+0 16 2 10
 1
 end_operator
 begin_operator
@@ -1365,8 +1365,8 @@ overcome sciatica aesthetics grapefruit mars vulcan
 1
 8 3
 2
-0 16 3 10
 0 15 1 0
+0 16 3 10
 1
 end_operator
 begin_operator
@@ -1374,8 +1374,8 @@ overcome sciatica aesthetics ham mars vulcan
 1
 8 4
 2
-0 16 4 10
 0 15 1 0
+0 16 4 10
 1
 end_operator
 begin_operator
@@ -1383,8 +1383,8 @@ overcome sciatica aesthetics muffin mars vulcan
 1
 8 5
 2
-0 16 5 10
 0 15 1 0
+0 16 5 10
 1
 end_operator
 begin_operator
@@ -1392,8 +1392,8 @@ overcome sciatica aesthetics scallion mars vulcan
 1
 8 6
 2
-0 16 6 10
 0 15 1 0
+0 16 6 10
 1
 end_operator
 begin_operator
@@ -1401,8 +1401,8 @@ overcome sciatica aesthetics scallop mars vulcan
 1
 8 7
 2
-0 16 7 10
 0 15 1 0
+0 16 7 10
 1
 end_operator
 begin_operator
@@ -1410,8 +1410,8 @@ overcome sciatica aesthetics shrimp mars vulcan
 1
 8 8
 2
-0 16 8 10
 0 15 1 0
+0 16 8 10
 1
 end_operator
 begin_operator
@@ -1419,8 +1419,8 @@ overcome sciatica aesthetics wurst mars vulcan
 1
 8 9
 2
-0 16 9 10
 0 15 1 0
+0 16 9 10
 1
 end_operator
 begin_operator
@@ -1968,8 +1968,8 @@ succumb sciatica aesthetics arugula mars vulcan
 1
 8 0
 2
-0 16 10 0
 0 15 0 1
+0 16 10 0
 1
 end_operator
 begin_operator
@@ -1977,8 +1977,8 @@ succumb sciatica aesthetics bacon mars vulcan
 1
 8 1
 2
-0 16 10 1
 0 15 0 1
+0 16 10 1
 1
 end_operator
 begin_operator
@@ -1986,8 +1986,8 @@ succumb sciatica aesthetics cherry mars vulcan
 1
 8 2
 2
-0 16 10 2
 0 15 0 1
+0 16 10 2
 1
 end_operator
 begin_operator
@@ -1995,8 +1995,8 @@ succumb sciatica aesthetics grapefruit mars vulcan
 1
 8 3
 2
-0 16 10 3
 0 15 0 1
+0 16 10 3
 1
 end_operator
 begin_operator
@@ -2004,8 +2004,8 @@ succumb sciatica aesthetics ham mars vulcan
 1
 8 4
 2
-0 16 10 4
 0 15 0 1
+0 16 10 4
 1
 end_operator
 begin_operator
@@ -2013,8 +2013,8 @@ succumb sciatica aesthetics muffin mars vulcan
 1
 8 5
 2
-0 16 10 5
 0 15 0 1
+0 16 10 5
 1
 end_operator
 begin_operator
@@ -2022,8 +2022,8 @@ succumb sciatica aesthetics scallion mars vulcan
 1
 8 6
 2
-0 16 10 6
 0 15 0 1
+0 16 10 6
 1
 end_operator
 begin_operator
@@ -2031,8 +2031,8 @@ succumb sciatica aesthetics scallop mars vulcan
 1
 8 7
 2
-0 16 10 7
 0 15 0 1
+0 16 10 7
 1
 end_operator
 begin_operator
@@ -2040,8 +2040,8 @@ succumb sciatica aesthetics shrimp mars vulcan
 1
 8 8
 2
-0 16 10 8
 0 15 0 1
+0 16 10 8
 1
 end_operator
 begin_operator
@@ -2049,8 +2049,8 @@ succumb sciatica aesthetics wurst mars vulcan
 1
 8 9
 2
-0 16 10 9
 0 15 0 1
+0 16 10 9
 1
 end_operator
 0

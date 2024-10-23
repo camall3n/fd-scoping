@@ -1059,80 +1059,80 @@ begin_operator
 feast achievement arugula potato alsace surrey
 0
 2
-0 9 0 9
 0 8 5 0
+0 9 0 9
 1
 end_operator
 begin_operator
 feast achievement arugula potato bavaria guanabara
 0
 2
-0 9 0 9
 0 8 4 1
+0 9 0 9
 1
 end_operator
 begin_operator
 feast achievement arugula potato bosnia alsace
 0
 2
-0 9 0 9
 0 8 0 2
+0 9 0 9
 1
 end_operator
 begin_operator
 feast achievement arugula potato goias bavaria
 0
 2
-0 9 0 9
 0 8 1 3
+0 9 0 9
 1
 end_operator
 begin_operator
 feast achievement arugula potato guanabara bosnia
 0
 2
-0 9 0 9
 0 8 2 4
+0 9 0 9
 1
 end_operator
 begin_operator
 feast achievement arugula wonderbread alsace surrey
 0
 2
-0 9 0 13
 0 8 5 0
+0 9 0 13
 1
 end_operator
 begin_operator
 feast achievement arugula wonderbread bavaria guanabara
 0
 2
-0 9 0 13
 0 8 4 1
+0 9 0 13
 1
 end_operator
 begin_operator
 feast achievement arugula wonderbread bosnia alsace
 0
 2
-0 9 0 13
 0 8 0 2
+0 9 0 13
 1
 end_operator
 begin_operator
 feast achievement arugula wonderbread goias bavaria
 0
 2
-0 9 0 13
 0 8 1 3
+0 9 0 13
 1
 end_operator
 begin_operator
 feast achievement arugula wonderbread guanabara bosnia
 0
 2
-0 9 0 13
 0 8 2 4
+0 9 0 13
 1
 end_operator
 begin_operator
@@ -1235,144 +1235,144 @@ begin_operator
 feast achievement endive cherry bavaria guanabara
 0
 2
-0 9 2 1
 0 5 4 1
+0 9 2 1
 1
 end_operator
 begin_operator
 feast achievement endive cherry bosnia alsace
 0
 2
-0 9 2 1
 0 5 0 2
+0 9 2 1
 1
 end_operator
 begin_operator
 feast achievement endive cherry goias bavaria
 0
 2
-0 9 2 1
 0 5 1 3
+0 9 2 1
 1
 end_operator
 begin_operator
 feast achievement endive cherry guanabara bosnia
 0
 2
-0 9 2 1
 0 5 2 4
+0 9 2 1
 1
 end_operator
 begin_operator
 feast achievement endive wurst bavaria guanabara
 0
 2
-0 9 2 14
 0 5 4 1
+0 9 2 14
 1
 end_operator
 begin_operator
 feast achievement endive wurst bosnia alsace
 0
 2
-0 9 2 14
 0 5 0 2
+0 9 2 14
 1
 end_operator
 begin_operator
 feast achievement endive wurst goias bavaria
 0
 2
-0 9 2 14
 0 5 1 3
+0 9 2 14
 1
 end_operator
 begin_operator
 feast achievement endive wurst guanabara bosnia
 0
 2
-0 9 2 14
 0 5 2 4
+0 9 2 14
 1
 end_operator
 begin_operator
 feast achievement ham mutton bavaria guanabara
 0
 2
-0 9 3 6
 0 3 2 0
+0 9 3 6
 1
 end_operator
 begin_operator
 feast achievement ham mutton goias bavaria
 0
 2
-0 9 3 6
 0 3 0 1
+0 9 3 6
 1
 end_operator
 begin_operator
 feast achievement ham onion bavaria guanabara
 0
 2
-0 9 3 7
 0 3 2 0
+0 9 3 7
 1
 end_operator
 begin_operator
 feast achievement ham onion goias bavaria
 0
 2
-0 9 3 7
 0 3 0 1
+0 9 3 7
 1
 end_operator
 begin_operator
 feast achievement ham wonderbread bavaria guanabara
 0
 2
-0 9 3 13
 0 3 2 0
+0 9 3 13
 1
 end_operator
 begin_operator
 feast achievement ham wonderbread goias bavaria
 0
 2
-0 9 3 13
 0 3 0 1
+0 9 3 13
 1
 end_operator
 begin_operator
 feast achievement haroset marzipan bavaria guanabara
 0
 2
-0 9 4 5
 0 1 2 0
+0 9 4 5
 1
 end_operator
 begin_operator
 feast achievement haroset marzipan goias bavaria
 0
 2
-0 9 4 5
 0 1 0 1
+0 9 4 5
 1
 end_operator
 begin_operator
 feast achievement haroset turkey bavaria guanabara
 0
 2
-0 9 4 12
 0 1 2 0
+0 9 4 12
 1
 end_operator
 begin_operator
 feast achievement haroset turkey goias bavaria
 0
 2
-0 9 4 12
 0 1 0 1
+0 9 4 12
 1
 end_operator
 begin_operator
@@ -1579,32 +1579,32 @@ begin_operator
 feast achievement mutton ham bavaria guanabara
 0
 2
-0 9 6 3
 0 2 2 0
+0 9 6 3
 1
 end_operator
 begin_operator
 feast achievement mutton ham goias bavaria
 0
 2
-0 9 6 3
 0 2 0 1
+0 9 6 3
 1
 end_operator
 begin_operator
 feast achievement mutton marzipan bavaria guanabara
 0
 2
-0 9 6 5
 0 2 2 0
+0 9 6 5
 1
 end_operator
 begin_operator
 feast achievement mutton marzipan goias bavaria
 0
 2
-0 9 6 5
 0 2 0 1
+0 9 6 5
 1
 end_operator
 begin_operator
@@ -1707,136 +1707,136 @@ begin_operator
 feast achievement papaya rice bavaria guanabara
 0
 2
-0 9 8 10
 0 6 4 1
+0 9 8 10
 1
 end_operator
 begin_operator
 feast achievement papaya rice bosnia alsace
 0
 2
-0 9 8 10
 0 6 0 2
+0 9 8 10
 1
 end_operator
 begin_operator
 feast achievement papaya rice goias bavaria
 0
 2
-0 9 8 10
 0 6 1 3
+0 9 8 10
 1
 end_operator
 begin_operator
 feast achievement papaya rice guanabara bosnia
 0
 2
-0 9 8 10
 0 6 2 4
+0 9 8 10
 1
 end_operator
 begin_operator
 feast achievement papaya wurst bavaria guanabara
 0
 2
-0 9 8 14
 0 6 4 1
+0 9 8 14
 1
 end_operator
 begin_operator
 feast achievement papaya wurst bosnia alsace
 0
 2
-0 9 8 14
 0 6 0 2
+0 9 8 14
 1
 end_operator
 begin_operator
 feast achievement papaya wurst goias bavaria
 0
 2
-0 9 8 14
 0 6 1 3
+0 9 8 14
 1
 end_operator
 begin_operator
 feast achievement papaya wurst guanabara bosnia
 0
 2
-0 9 8 14
 0 6 2 4
+0 9 8 14
 1
 end_operator
 begin_operator
 feast achievement potato arugula bavaria guanabara
 0
 2
-0 9 9 0
 0 7 3 0
+0 9 9 0
 1
 end_operator
 begin_operator
 feast achievement potato arugula goias bavaria
 0
 2
-0 9 9 0
 0 7 0 2
+0 9 9 0
 1
 end_operator
 begin_operator
 feast achievement potato arugula guanabara bosnia
 0
 2
-0 9 9 0
 0 7 1 3
+0 9 9 0
 1
 end_operator
 begin_operator
 feast achievement potato shrimp bavaria guanabara
 0
 2
-0 9 9 11
 0 7 3 0
+0 9 9 11
 1
 end_operator
 begin_operator
 feast achievement potato shrimp goias bavaria
 0
 2
-0 9 9 11
 0 7 0 2
+0 9 9 11
 1
 end_operator
 begin_operator
 feast achievement potato shrimp guanabara bosnia
 0
 2
-0 9 9 11
 0 7 1 3
+0 9 9 11
 1
 end_operator
 begin_operator
 feast achievement potato yogurt bavaria guanabara
 0
 2
-0 9 9 15
 0 7 3 0
+0 9 9 15
 1
 end_operator
 begin_operator
 feast achievement potato yogurt goias bavaria
 0
 2
-0 9 9 15
 0 7 0 2
+0 9 9 15
 1
 end_operator
 begin_operator
 feast achievement potato yogurt guanabara bosnia
 0
 2
-0 9 9 15
 0 7 1 3
+0 9 9 15
 1
 end_operator
 begin_operator
@@ -2035,16 +2035,16 @@ begin_operator
 feast achievement turkey haroset goias bavaria
 0
 2
-0 9 12 4
 0 0 0 1
+0 9 12 4
 1
 end_operator
 begin_operator
 feast achievement turkey shrimp goias bavaria
 0
 2
-0 9 12 11
 0 0 0 1
+0 9 12 11
 1
 end_operator
 begin_operator
@@ -2147,368 +2147,368 @@ begin_operator
 feast achievement yogurt potato bavaria guanabara
 0
 2
-0 9 15 9
 0 4 3 0
+0 9 15 9
 1
 end_operator
 begin_operator
 feast achievement yogurt potato goias bavaria
 0
 2
-0 9 15 9
 0 4 0 2
+0 9 15 9
 1
 end_operator
 begin_operator
 feast achievement yogurt potato guanabara bosnia
 0
 2
-0 9 15 9
 0 4 1 3
+0 9 15 9
 1
 end_operator
 begin_operator
 feast achievement yogurt wonderbread bavaria guanabara
 0
 2
-0 9 15 13
 0 4 3 0
+0 9 15 13
 1
 end_operator
 begin_operator
 feast achievement yogurt wonderbread goias bavaria
 0
 2
-0 9 15 13
 0 4 0 2
+0 9 15 13
 1
 end_operator
 begin_operator
 feast achievement yogurt wonderbread guanabara bosnia
 0
 2
-0 9 15 13
 0 4 1 3
+0 9 15 13
 1
 end_operator
 begin_operator
 feast excitement arugula potato alsace surrey
 0
 2
-0 11 0 9
 0 8 5 0
+0 11 0 9
 1
 end_operator
 begin_operator
 feast excitement arugula potato bavaria guanabara
 0
 2
-0 11 0 9
 0 8 4 1
+0 11 0 9
 1
 end_operator
 begin_operator
 feast excitement arugula potato bosnia alsace
 0
 2
-0 11 0 9
 0 8 0 2
+0 11 0 9
 1
 end_operator
 begin_operator
 feast excitement arugula potato goias bavaria
 0
 2
-0 11 0 9
 0 8 1 3
+0 11 0 9
 1
 end_operator
 begin_operator
 feast excitement arugula potato guanabara bosnia
 0
 2
-0 11 0 9
 0 8 2 4
+0 11 0 9
 1
 end_operator
 begin_operator
 feast excitement arugula wonderbread alsace surrey
 0
 2
-0 11 0 13
 0 8 5 0
+0 11 0 13
 1
 end_operator
 begin_operator
 feast excitement arugula wonderbread bavaria guanabara
 0
 2
-0 11 0 13
 0 8 4 1
+0 11 0 13
 1
 end_operator
 begin_operator
 feast excitement arugula wonderbread bosnia alsace
 0
 2
-0 11 0 13
 0 8 0 2
+0 11 0 13
 1
 end_operator
 begin_operator
 feast excitement arugula wonderbread goias bavaria
 0
 2
-0 11 0 13
 0 8 1 3
+0 11 0 13
 1
 end_operator
 begin_operator
 feast excitement arugula wonderbread guanabara bosnia
 0
 2
-0 11 0 13
 0 8 2 4
+0 11 0 13
 1
 end_operator
 begin_operator
 feast excitement cherry endive bavaria guanabara
 0
 2
-0 11 1 2
 0 10 4 1
+0 11 1 2
 1
 end_operator
 begin_operator
 feast excitement cherry endive bosnia alsace
 0
 2
-0 11 1 2
 0 10 0 2
+0 11 1 2
 1
 end_operator
 begin_operator
 feast excitement cherry endive goias bavaria
 0
 2
-0 11 1 2
 0 10 1 3
+0 11 1 2
 1
 end_operator
 begin_operator
 feast excitement cherry endive guanabara bosnia
 0
 2
-0 11 1 2
 0 10 2 4
+0 11 1 2
 1
 end_operator
 begin_operator
 feast excitement cherry marzipan bavaria guanabara
 0
 2
-0 11 1 5
 0 10 4 1
+0 11 1 5
 1
 end_operator
 begin_operator
 feast excitement cherry marzipan bosnia alsace
 0
 2
-0 11 1 5
 0 10 0 2
+0 11 1 5
 1
 end_operator
 begin_operator
 feast excitement cherry marzipan goias bavaria
 0
 2
-0 11 1 5
 0 10 1 3
+0 11 1 5
 1
 end_operator
 begin_operator
 feast excitement cherry marzipan guanabara bosnia
 0
 2
-0 11 1 5
 0 10 2 4
+0 11 1 5
 1
 end_operator
 begin_operator
 feast excitement cherry rice bavaria guanabara
 0
 2
-0 11 1 10
 0 10 4 1
+0 11 1 10
 1
 end_operator
 begin_operator
 feast excitement cherry rice bosnia alsace
 0
 2
-0 11 1 10
 0 10 0 2
+0 11 1 10
 1
 end_operator
 begin_operator
 feast excitement cherry rice goias bavaria
 0
 2
-0 11 1 10
 0 10 1 3
+0 11 1 10
 1
 end_operator
 begin_operator
 feast excitement cherry rice guanabara bosnia
 0
 2
-0 11 1 10
 0 10 2 4
+0 11 1 10
 1
 end_operator
 begin_operator
 feast excitement endive cherry bavaria guanabara
 0
 2
-0 11 2 1
 0 5 4 1
+0 11 2 1
 1
 end_operator
 begin_operator
 feast excitement endive cherry bosnia alsace
 0
 2
-0 11 2 1
 0 5 0 2
+0 11 2 1
 1
 end_operator
 begin_operator
 feast excitement endive cherry goias bavaria
 0
 2
-0 11 2 1
 0 5 1 3
+0 11 2 1
 1
 end_operator
 begin_operator
 feast excitement endive cherry guanabara bosnia
 0
 2
-0 11 2 1
 0 5 2 4
+0 11 2 1
 1
 end_operator
 begin_operator
 feast excitement endive wurst bavaria guanabara
 0
 2
-0 11 2 14
 0 5 4 1
+0 11 2 14
 1
 end_operator
 begin_operator
 feast excitement endive wurst bosnia alsace
 0
 2
-0 11 2 14
 0 5 0 2
+0 11 2 14
 1
 end_operator
 begin_operator
 feast excitement endive wurst goias bavaria
 0
 2
-0 11 2 14
 0 5 1 3
+0 11 2 14
 1
 end_operator
 begin_operator
 feast excitement endive wurst guanabara bosnia
 0
 2
-0 11 2 14
 0 5 2 4
+0 11 2 14
 1
 end_operator
 begin_operator
 feast excitement ham mutton bavaria guanabara
 0
 2
-0 11 3 6
 0 3 2 0
+0 11 3 6
 1
 end_operator
 begin_operator
 feast excitement ham mutton goias bavaria
 0
 2
-0 11 3 6
 0 3 0 1
+0 11 3 6
 1
 end_operator
 begin_operator
 feast excitement ham onion bavaria guanabara
 0
 2
-0 11 3 7
 0 3 2 0
+0 11 3 7
 1
 end_operator
 begin_operator
 feast excitement ham onion goias bavaria
 0
 2
-0 11 3 7
 0 3 0 1
+0 11 3 7
 1
 end_operator
 begin_operator
 feast excitement ham wonderbread bavaria guanabara
 0
 2
-0 11 3 13
 0 3 2 0
+0 11 3 13
 1
 end_operator
 begin_operator
 feast excitement ham wonderbread goias bavaria
 0
 2
-0 11 3 13
 0 3 0 1
+0 11 3 13
 1
 end_operator
 begin_operator
 feast excitement haroset marzipan bavaria guanabara
 0
 2
-0 11 4 5
 0 1 2 0
+0 11 4 5
 1
 end_operator
 begin_operator
 feast excitement haroset marzipan goias bavaria
 0
 2
-0 11 4 5
 0 1 0 1
+0 11 4 5
 1
 end_operator
 begin_operator
 feast excitement haroset turkey bavaria guanabara
 0
 2
-0 11 4 12
 0 1 2 0
+0 11 4 12
 1
 end_operator
 begin_operator
 feast excitement haroset turkey goias bavaria
 0
 2
-0 11 4 12
 0 1 0 1
+0 11 4 12
 1
 end_operator
 begin_operator
@@ -2715,32 +2715,32 @@ begin_operator
 feast excitement mutton ham bavaria guanabara
 0
 2
-0 11 6 3
 0 2 2 0
+0 11 6 3
 1
 end_operator
 begin_operator
 feast excitement mutton ham goias bavaria
 0
 2
-0 11 6 3
 0 2 0 1
+0 11 6 3
 1
 end_operator
 begin_operator
 feast excitement mutton marzipan bavaria guanabara
 0
 2
-0 11 6 5
 0 2 2 0
+0 11 6 5
 1
 end_operator
 begin_operator
 feast excitement mutton marzipan goias bavaria
 0
 2
-0 11 6 5
 0 2 0 1
+0 11 6 5
 1
 end_operator
 begin_operator
@@ -2843,136 +2843,136 @@ begin_operator
 feast excitement papaya rice bavaria guanabara
 0
 2
-0 11 8 10
 0 6 4 1
+0 11 8 10
 1
 end_operator
 begin_operator
 feast excitement papaya rice bosnia alsace
 0
 2
-0 11 8 10
 0 6 0 2
+0 11 8 10
 1
 end_operator
 begin_operator
 feast excitement papaya rice goias bavaria
 0
 2
-0 11 8 10
 0 6 1 3
+0 11 8 10
 1
 end_operator
 begin_operator
 feast excitement papaya rice guanabara bosnia
 0
 2
-0 11 8 10
 0 6 2 4
+0 11 8 10
 1
 end_operator
 begin_operator
 feast excitement papaya wurst bavaria guanabara
 0
 2
-0 11 8 14
 0 6 4 1
+0 11 8 14
 1
 end_operator
 begin_operator
 feast excitement papaya wurst bosnia alsace
 0
 2
-0 11 8 14
 0 6 0 2
+0 11 8 14
 1
 end_operator
 begin_operator
 feast excitement papaya wurst goias bavaria
 0
 2
-0 11 8 14
 0 6 1 3
+0 11 8 14
 1
 end_operator
 begin_operator
 feast excitement papaya wurst guanabara bosnia
 0
 2
-0 11 8 14
 0 6 2 4
+0 11 8 14
 1
 end_operator
 begin_operator
 feast excitement potato arugula bavaria guanabara
 0
 2
-0 11 9 0
 0 7 3 0
+0 11 9 0
 1
 end_operator
 begin_operator
 feast excitement potato arugula goias bavaria
 0
 2
-0 11 9 0
 0 7 0 2
+0 11 9 0
 1
 end_operator
 begin_operator
 feast excitement potato arugula guanabara bosnia
 0
 2
-0 11 9 0
 0 7 1 3
+0 11 9 0
 1
 end_operator
 begin_operator
 feast excitement potato shrimp bavaria guanabara
 0
 2
-0 11 9 11
 0 7 3 0
+0 11 9 11
 1
 end_operator
 begin_operator
 feast excitement potato shrimp goias bavaria
 0
 2
-0 11 9 11
 0 7 0 2
+0 11 9 11
 1
 end_operator
 begin_operator
 feast excitement potato shrimp guanabara bosnia
 0
 2
-0 11 9 11
 0 7 1 3
+0 11 9 11
 1
 end_operator
 begin_operator
 feast excitement potato yogurt bavaria guanabara
 0
 2
-0 11 9 15
 0 7 3 0
+0 11 9 15
 1
 end_operator
 begin_operator
 feast excitement potato yogurt goias bavaria
 0
 2
-0 11 9 15
 0 7 0 2
+0 11 9 15
 1
 end_operator
 begin_operator
 feast excitement potato yogurt guanabara bosnia
 0
 2
-0 11 9 15
 0 7 1 3
+0 11 9 15
 1
 end_operator
 begin_operator
@@ -3171,16 +3171,16 @@ begin_operator
 feast excitement turkey haroset goias bavaria
 0
 2
-0 11 12 4
 0 0 0 1
+0 11 12 4
 1
 end_operator
 begin_operator
 feast excitement turkey shrimp goias bavaria
 0
 2
-0 11 12 11
 0 0 0 1
+0 11 12 11
 1
 end_operator
 begin_operator
@@ -3283,368 +3283,368 @@ begin_operator
 feast excitement yogurt potato bavaria guanabara
 0
 2
-0 11 15 9
 0 4 3 0
+0 11 15 9
 1
 end_operator
 begin_operator
 feast excitement yogurt potato goias bavaria
 0
 2
-0 11 15 9
 0 4 0 2
+0 11 15 9
 1
 end_operator
 begin_operator
 feast excitement yogurt potato guanabara bosnia
 0
 2
-0 11 15 9
 0 4 1 3
+0 11 15 9
 1
 end_operator
 begin_operator
 feast excitement yogurt wonderbread bavaria guanabara
 0
 2
-0 11 15 13
 0 4 3 0
+0 11 15 13
 1
 end_operator
 begin_operator
 feast excitement yogurt wonderbread goias bavaria
 0
 2
-0 11 15 13
 0 4 0 2
+0 11 15 13
 1
 end_operator
 begin_operator
 feast excitement yogurt wonderbread guanabara bosnia
 0
 2
-0 11 15 13
 0 4 1 3
+0 11 15 13
 1
 end_operator
 begin_operator
 feast intoxication arugula potato alsace surrey
 0
 2
-0 13 0 9
 0 8 5 0
+0 13 0 9
 1
 end_operator
 begin_operator
 feast intoxication arugula potato bavaria guanabara
 0
 2
-0 13 0 9
 0 8 4 1
+0 13 0 9
 1
 end_operator
 begin_operator
 feast intoxication arugula potato bosnia alsace
 0
 2
-0 13 0 9
 0 8 0 2
+0 13 0 9
 1
 end_operator
 begin_operator
 feast intoxication arugula potato goias bavaria
 0
 2
-0 13 0 9
 0 8 1 3
+0 13 0 9
 1
 end_operator
 begin_operator
 feast intoxication arugula potato guanabara bosnia
 0
 2
-0 13 0 9
 0 8 2 4
+0 13 0 9
 1
 end_operator
 begin_operator
 feast intoxication arugula wonderbread alsace surrey
 0
 2
-0 13 0 13
 0 8 5 0
+0 13 0 13
 1
 end_operator
 begin_operator
 feast intoxication arugula wonderbread bavaria guanabara
 0
 2
-0 13 0 13
 0 8 4 1
+0 13 0 13
 1
 end_operator
 begin_operator
 feast intoxication arugula wonderbread bosnia alsace
 0
 2
-0 13 0 13
 0 8 0 2
+0 13 0 13
 1
 end_operator
 begin_operator
 feast intoxication arugula wonderbread goias bavaria
 0
 2
-0 13 0 13
 0 8 1 3
+0 13 0 13
 1
 end_operator
 begin_operator
 feast intoxication arugula wonderbread guanabara bosnia
 0
 2
-0 13 0 13
 0 8 2 4
+0 13 0 13
 1
 end_operator
 begin_operator
 feast intoxication cherry endive bavaria guanabara
 0
 2
-0 13 1 2
 0 10 4 1
+0 13 1 2
 1
 end_operator
 begin_operator
 feast intoxication cherry endive bosnia alsace
 0
 2
-0 13 1 2
 0 10 0 2
+0 13 1 2
 1
 end_operator
 begin_operator
 feast intoxication cherry endive goias bavaria
 0
 2
-0 13 1 2
 0 10 1 3
+0 13 1 2
 1
 end_operator
 begin_operator
 feast intoxication cherry endive guanabara bosnia
 0
 2
-0 13 1 2
 0 10 2 4
+0 13 1 2
 1
 end_operator
 begin_operator
 feast intoxication cherry marzipan bavaria guanabara
 0
 2
-0 13 1 5
 0 10 4 1
+0 13 1 5
 1
 end_operator
 begin_operator
 feast intoxication cherry marzipan bosnia alsace
 0
 2
-0 13 1 5
 0 10 0 2
+0 13 1 5
 1
 end_operator
 begin_operator
 feast intoxication cherry marzipan goias bavaria
 0
 2
-0 13 1 5
 0 10 1 3
+0 13 1 5
 1
 end_operator
 begin_operator
 feast intoxication cherry marzipan guanabara bosnia
 0
 2
-0 13 1 5
 0 10 2 4
+0 13 1 5
 1
 end_operator
 begin_operator
 feast intoxication cherry rice bavaria guanabara
 0
 2
-0 13 1 10
 0 10 4 1
+0 13 1 10
 1
 end_operator
 begin_operator
 feast intoxication cherry rice bosnia alsace
 0
 2
-0 13 1 10
 0 10 0 2
+0 13 1 10
 1
 end_operator
 begin_operator
 feast intoxication cherry rice goias bavaria
 0
 2
-0 13 1 10
 0 10 1 3
+0 13 1 10
 1
 end_operator
 begin_operator
 feast intoxication cherry rice guanabara bosnia
 0
 2
-0 13 1 10
 0 10 2 4
+0 13 1 10
 1
 end_operator
 begin_operator
 feast intoxication endive cherry bavaria guanabara
 0
 2
-0 13 2 1
 0 5 4 1
+0 13 2 1
 1
 end_operator
 begin_operator
 feast intoxication endive cherry bosnia alsace
 0
 2
-0 13 2 1
 0 5 0 2
+0 13 2 1
 1
 end_operator
 begin_operator
 feast intoxication endive cherry goias bavaria
 0
 2
-0 13 2 1
 0 5 1 3
+0 13 2 1
 1
 end_operator
 begin_operator
 feast intoxication endive cherry guanabara bosnia
 0
 2
-0 13 2 1
 0 5 2 4
+0 13 2 1
 1
 end_operator
 begin_operator
 feast intoxication endive wurst bavaria guanabara
 0
 2
-0 13 2 14
 0 5 4 1
+0 13 2 14
 1
 end_operator
 begin_operator
 feast intoxication endive wurst bosnia alsace
 0
 2
-0 13 2 14
 0 5 0 2
+0 13 2 14
 1
 end_operator
 begin_operator
 feast intoxication endive wurst goias bavaria
 0
 2
-0 13 2 14
 0 5 1 3
+0 13 2 14
 1
 end_operator
 begin_operator
 feast intoxication endive wurst guanabara bosnia
 0
 2
-0 13 2 14
 0 5 2 4
+0 13 2 14
 1
 end_operator
 begin_operator
 feast intoxication ham mutton bavaria guanabara
 0
 2
-0 13 3 6
 0 3 2 0
+0 13 3 6
 1
 end_operator
 begin_operator
 feast intoxication ham mutton goias bavaria
 0
 2
-0 13 3 6
 0 3 0 1
+0 13 3 6
 1
 end_operator
 begin_operator
 feast intoxication ham onion bavaria guanabara
 0
 2
-0 13 3 7
 0 3 2 0
+0 13 3 7
 1
 end_operator
 begin_operator
 feast intoxication ham onion goias bavaria
 0
 2
-0 13 3 7
 0 3 0 1
+0 13 3 7
 1
 end_operator
 begin_operator
 feast intoxication ham wonderbread bavaria guanabara
 0
 2
-0 13 3 13
 0 3 2 0
+0 13 3 13
 1
 end_operator
 begin_operator
 feast intoxication ham wonderbread goias bavaria
 0
 2
-0 13 3 13
 0 3 0 1
+0 13 3 13
 1
 end_operator
 begin_operator
 feast intoxication haroset marzipan bavaria guanabara
 0
 2
-0 13 4 5
 0 1 2 0
+0 13 4 5
 1
 end_operator
 begin_operator
 feast intoxication haroset marzipan goias bavaria
 0
 2
-0 13 4 5
 0 1 0 1
+0 13 4 5
 1
 end_operator
 begin_operator
 feast intoxication haroset turkey bavaria guanabara
 0
 2
-0 13 4 12
 0 1 2 0
+0 13 4 12
 1
 end_operator
 begin_operator
 feast intoxication haroset turkey goias bavaria
 0
 2
-0 13 4 12
 0 1 0 1
+0 13 4 12
 1
 end_operator
 begin_operator
@@ -3851,264 +3851,264 @@ begin_operator
 feast intoxication mutton ham bavaria guanabara
 0
 2
-0 13 6 3
 0 2 2 0
+0 13 6 3
 1
 end_operator
 begin_operator
 feast intoxication mutton ham goias bavaria
 0
 2
-0 13 6 3
 0 2 0 1
+0 13 6 3
 1
 end_operator
 begin_operator
 feast intoxication mutton marzipan bavaria guanabara
 0
 2
-0 13 6 5
 0 2 2 0
+0 13 6 5
 1
 end_operator
 begin_operator
 feast intoxication mutton marzipan goias bavaria
 0
 2
-0 13 6 5
 0 2 0 1
+0 13 6 5
 1
 end_operator
 begin_operator
 feast intoxication onion ham bavaria guanabara
 0
 2
-0 13 7 3
 0 12 4 1
+0 13 7 3
 1
 end_operator
 begin_operator
 feast intoxication onion ham bosnia alsace
 0
 2
-0 13 7 3
 0 12 0 2
+0 13 7 3
 1
 end_operator
 begin_operator
 feast intoxication onion ham goias bavaria
 0
 2
-0 13 7 3
 0 12 1 3
+0 13 7 3
 1
 end_operator
 begin_operator
 feast intoxication onion ham guanabara bosnia
 0
 2
-0 13 7 3
 0 12 2 4
+0 13 7 3
 1
 end_operator
 begin_operator
 feast intoxication onion marzipan bavaria guanabara
 0
 2
-0 13 7 5
 0 12 4 1
+0 13 7 5
 1
 end_operator
 begin_operator
 feast intoxication onion marzipan bosnia alsace
 0
 2
-0 13 7 5
 0 12 0 2
+0 13 7 5
 1
 end_operator
 begin_operator
 feast intoxication onion marzipan goias bavaria
 0
 2
-0 13 7 5
 0 12 1 3
+0 13 7 5
 1
 end_operator
 begin_operator
 feast intoxication onion marzipan guanabara bosnia
 0
 2
-0 13 7 5
 0 12 2 4
+0 13 7 5
 1
 end_operator
 begin_operator
 feast intoxication onion shrimp bavaria guanabara
 0
 2
-0 13 7 11
 0 12 4 1
+0 13 7 11
 1
 end_operator
 begin_operator
 feast intoxication onion shrimp bosnia alsace
 0
 2
-0 13 7 11
 0 12 0 2
+0 13 7 11
 1
 end_operator
 begin_operator
 feast intoxication onion shrimp goias bavaria
 0
 2
-0 13 7 11
 0 12 1 3
+0 13 7 11
 1
 end_operator
 begin_operator
 feast intoxication onion shrimp guanabara bosnia
 0
 2
-0 13 7 11
 0 12 2 4
+0 13 7 11
 1
 end_operator
 begin_operator
 feast intoxication papaya rice bavaria guanabara
 0
 2
-0 13 8 10
 0 6 4 1
+0 13 8 10
 1
 end_operator
 begin_operator
 feast intoxication papaya rice bosnia alsace
 0
 2
-0 13 8 10
 0 6 0 2
+0 13 8 10
 1
 end_operator
 begin_operator
 feast intoxication papaya rice goias bavaria
 0
 2
-0 13 8 10
 0 6 1 3
+0 13 8 10
 1
 end_operator
 begin_operator
 feast intoxication papaya rice guanabara bosnia
 0
 2
-0 13 8 10
 0 6 2 4
+0 13 8 10
 1
 end_operator
 begin_operator
 feast intoxication papaya wurst bavaria guanabara
 0
 2
-0 13 8 14
 0 6 4 1
+0 13 8 14
 1
 end_operator
 begin_operator
 feast intoxication papaya wurst bosnia alsace
 0
 2
-0 13 8 14
 0 6 0 2
+0 13 8 14
 1
 end_operator
 begin_operator
 feast intoxication papaya wurst goias bavaria
 0
 2
-0 13 8 14
 0 6 1 3
+0 13 8 14
 1
 end_operator
 begin_operator
 feast intoxication papaya wurst guanabara bosnia
 0
 2
-0 13 8 14
 0 6 2 4
+0 13 8 14
 1
 end_operator
 begin_operator
 feast intoxication potato arugula bavaria guanabara
 0
 2
-0 13 9 0
 0 7 3 0
+0 13 9 0
 1
 end_operator
 begin_operator
 feast intoxication potato arugula goias bavaria
 0
 2
-0 13 9 0
 0 7 0 2
+0 13 9 0
 1
 end_operator
 begin_operator
 feast intoxication potato arugula guanabara bosnia
 0
 2
-0 13 9 0
 0 7 1 3
+0 13 9 0
 1
 end_operator
 begin_operator
 feast intoxication potato shrimp bavaria guanabara
 0
 2
-0 13 9 11
 0 7 3 0
+0 13 9 11
 1
 end_operator
 begin_operator
 feast intoxication potato shrimp goias bavaria
 0
 2
-0 13 9 11
 0 7 0 2
+0 13 9 11
 1
 end_operator
 begin_operator
 feast intoxication potato shrimp guanabara bosnia
 0
 2
-0 13 9 11
 0 7 1 3
+0 13 9 11
 1
 end_operator
 begin_operator
 feast intoxication potato yogurt bavaria guanabara
 0
 2
-0 13 9 15
 0 7 3 0
+0 13 9 15
 1
 end_operator
 begin_operator
 feast intoxication potato yogurt goias bavaria
 0
 2
-0 13 9 15
 0 7 0 2
+0 13 9 15
 1
 end_operator
 begin_operator
 feast intoxication potato yogurt guanabara bosnia
 0
 2
-0 13 9 15
 0 7 1 3
+0 13 9 15
 1
 end_operator
 begin_operator
@@ -4307,16 +4307,16 @@ begin_operator
 feast intoxication turkey haroset goias bavaria
 0
 2
-0 13 12 4
 0 0 0 1
+0 13 12 4
 1
 end_operator
 begin_operator
 feast intoxication turkey shrimp goias bavaria
 0
 2
-0 13 12 11
 0 0 0 1
+0 13 12 11
 1
 end_operator
 begin_operator
@@ -4419,368 +4419,368 @@ begin_operator
 feast intoxication yogurt potato bavaria guanabara
 0
 2
-0 13 15 9
 0 4 3 0
+0 13 15 9
 1
 end_operator
 begin_operator
 feast intoxication yogurt potato goias bavaria
 0
 2
-0 13 15 9
 0 4 0 2
+0 13 15 9
 1
 end_operator
 begin_operator
 feast intoxication yogurt potato guanabara bosnia
 0
 2
-0 13 15 9
 0 4 1 3
+0 13 15 9
 1
 end_operator
 begin_operator
 feast intoxication yogurt wonderbread bavaria guanabara
 0
 2
-0 13 15 13
 0 4 3 0
+0 13 15 13
 1
 end_operator
 begin_operator
 feast intoxication yogurt wonderbread goias bavaria
 0
 2
-0 13 15 13
 0 4 0 2
+0 13 15 13
 1
 end_operator
 begin_operator
 feast intoxication yogurt wonderbread guanabara bosnia
 0
 2
-0 13 15 13
 0 4 1 3
+0 13 15 13
 1
 end_operator
 begin_operator
 feast love arugula potato alsace surrey
 0
 2
-0 15 0 9
 0 8 5 0
+0 15 0 9
 1
 end_operator
 begin_operator
 feast love arugula potato bavaria guanabara
 0
 2
-0 15 0 9
 0 8 4 1
+0 15 0 9
 1
 end_operator
 begin_operator
 feast love arugula potato bosnia alsace
 0
 2
-0 15 0 9
 0 8 0 2
+0 15 0 9
 1
 end_operator
 begin_operator
 feast love arugula potato goias bavaria
 0
 2
-0 15 0 9
 0 8 1 3
+0 15 0 9
 1
 end_operator
 begin_operator
 feast love arugula potato guanabara bosnia
 0
 2
-0 15 0 9
 0 8 2 4
+0 15 0 9
 1
 end_operator
 begin_operator
 feast love arugula wonderbread alsace surrey
 0
 2
-0 15 0 13
 0 8 5 0
+0 15 0 13
 1
 end_operator
 begin_operator
 feast love arugula wonderbread bavaria guanabara
 0
 2
-0 15 0 13
 0 8 4 1
+0 15 0 13
 1
 end_operator
 begin_operator
 feast love arugula wonderbread bosnia alsace
 0
 2
-0 15 0 13
 0 8 0 2
+0 15 0 13
 1
 end_operator
 begin_operator
 feast love arugula wonderbread goias bavaria
 0
 2
-0 15 0 13
 0 8 1 3
+0 15 0 13
 1
 end_operator
 begin_operator
 feast love arugula wonderbread guanabara bosnia
 0
 2
-0 15 0 13
 0 8 2 4
+0 15 0 13
 1
 end_operator
 begin_operator
 feast love cherry endive bavaria guanabara
 0
 2
-0 15 1 2
 0 10 4 1
+0 15 1 2
 1
 end_operator
 begin_operator
 feast love cherry endive bosnia alsace
 0
 2
-0 15 1 2
 0 10 0 2
+0 15 1 2
 1
 end_operator
 begin_operator
 feast love cherry endive goias bavaria
 0
 2
-0 15 1 2
 0 10 1 3
+0 15 1 2
 1
 end_operator
 begin_operator
 feast love cherry endive guanabara bosnia
 0
 2
-0 15 1 2
 0 10 2 4
+0 15 1 2
 1
 end_operator
 begin_operator
 feast love cherry marzipan bavaria guanabara
 0
 2
-0 15 1 5
 0 10 4 1
+0 15 1 5
 1
 end_operator
 begin_operator
 feast love cherry marzipan bosnia alsace
 0
 2
-0 15 1 5
 0 10 0 2
+0 15 1 5
 1
 end_operator
 begin_operator
 feast love cherry marzipan goias bavaria
 0
 2
-0 15 1 5
 0 10 1 3
+0 15 1 5
 1
 end_operator
 begin_operator
 feast love cherry marzipan guanabara bosnia
 0
 2
-0 15 1 5
 0 10 2 4
+0 15 1 5
 1
 end_operator
 begin_operator
 feast love cherry rice bavaria guanabara
 0
 2
-0 15 1 10
 0 10 4 1
+0 15 1 10
 1
 end_operator
 begin_operator
 feast love cherry rice bosnia alsace
 0
 2
-0 15 1 10
 0 10 0 2
+0 15 1 10
 1
 end_operator
 begin_operator
 feast love cherry rice goias bavaria
 0
 2
-0 15 1 10
 0 10 1 3
+0 15 1 10
 1
 end_operator
 begin_operator
 feast love cherry rice guanabara bosnia
 0
 2
-0 15 1 10
 0 10 2 4
+0 15 1 10
 1
 end_operator
 begin_operator
 feast love endive cherry bavaria guanabara
 0
 2
-0 15 2 1
 0 5 4 1
+0 15 2 1
 1
 end_operator
 begin_operator
 feast love endive cherry bosnia alsace
 0
 2
-0 15 2 1
 0 5 0 2
+0 15 2 1
 1
 end_operator
 begin_operator
 feast love endive cherry goias bavaria
 0
 2
-0 15 2 1
 0 5 1 3
+0 15 2 1
 1
 end_operator
 begin_operator
 feast love endive cherry guanabara bosnia
 0
 2
-0 15 2 1
 0 5 2 4
+0 15 2 1
 1
 end_operator
 begin_operator
 feast love endive wurst bavaria guanabara
 0
 2
-0 15 2 14
 0 5 4 1
+0 15 2 14
 1
 end_operator
 begin_operator
 feast love endive wurst bosnia alsace
 0
 2
-0 15 2 14
 0 5 0 2
+0 15 2 14
 1
 end_operator
 begin_operator
 feast love endive wurst goias bavaria
 0
 2
-0 15 2 14
 0 5 1 3
+0 15 2 14
 1
 end_operator
 begin_operator
 feast love endive wurst guanabara bosnia
 0
 2
-0 15 2 14
 0 5 2 4
+0 15 2 14
 1
 end_operator
 begin_operator
 feast love ham mutton bavaria guanabara
 0
 2
-0 15 3 6
 0 3 2 0
+0 15 3 6
 1
 end_operator
 begin_operator
 feast love ham mutton goias bavaria
 0
 2
-0 15 3 6
 0 3 0 1
+0 15 3 6
 1
 end_operator
 begin_operator
 feast love ham onion bavaria guanabara
 0
 2
-0 15 3 7
 0 3 2 0
+0 15 3 7
 1
 end_operator
 begin_operator
 feast love ham onion goias bavaria
 0
 2
-0 15 3 7
 0 3 0 1
+0 15 3 7
 1
 end_operator
 begin_operator
 feast love ham wonderbread bavaria guanabara
 0
 2
-0 15 3 13
 0 3 2 0
+0 15 3 13
 1
 end_operator
 begin_operator
 feast love ham wonderbread goias bavaria
 0
 2
-0 15 3 13
 0 3 0 1
+0 15 3 13
 1
 end_operator
 begin_operator
 feast love haroset marzipan bavaria guanabara
 0
 2
-0 15 4 5
 0 1 2 0
+0 15 4 5
 1
 end_operator
 begin_operator
 feast love haroset marzipan goias bavaria
 0
 2
-0 15 4 5
 0 1 0 1
+0 15 4 5
 1
 end_operator
 begin_operator
 feast love haroset turkey bavaria guanabara
 0
 2
-0 15 4 12
 0 1 2 0
+0 15 4 12
 1
 end_operator
 begin_operator
 feast love haroset turkey goias bavaria
 0
 2
-0 15 4 12
 0 1 0 1
+0 15 4 12
 1
 end_operator
 begin_operator
@@ -4987,360 +4987,360 @@ begin_operator
 feast love mutton ham bavaria guanabara
 0
 2
-0 15 6 3
 0 2 2 0
+0 15 6 3
 1
 end_operator
 begin_operator
 feast love mutton ham goias bavaria
 0
 2
-0 15 6 3
 0 2 0 1
+0 15 6 3
 1
 end_operator
 begin_operator
 feast love mutton marzipan bavaria guanabara
 0
 2
-0 15 6 5
 0 2 2 0
+0 15 6 5
 1
 end_operator
 begin_operator
 feast love mutton marzipan goias bavaria
 0
 2
-0 15 6 5
 0 2 0 1
+0 15 6 5
 1
 end_operator
 begin_operator
 feast love onion ham bavaria guanabara
 0
 2
-0 15 7 3
 0 12 4 1
+0 15 7 3
 1
 end_operator
 begin_operator
 feast love onion ham bosnia alsace
 0
 2
-0 15 7 3
 0 12 0 2
+0 15 7 3
 1
 end_operator
 begin_operator
 feast love onion ham goias bavaria
 0
 2
-0 15 7 3
 0 12 1 3
+0 15 7 3
 1
 end_operator
 begin_operator
 feast love onion ham guanabara bosnia
 0
 2
-0 15 7 3
 0 12 2 4
+0 15 7 3
 1
 end_operator
 begin_operator
 feast love onion marzipan bavaria guanabara
 0
 2
-0 15 7 5
 0 12 4 1
+0 15 7 5
 1
 end_operator
 begin_operator
 feast love onion marzipan bosnia alsace
 0
 2
-0 15 7 5
 0 12 0 2
+0 15 7 5
 1
 end_operator
 begin_operator
 feast love onion marzipan goias bavaria
 0
 2
-0 15 7 5
 0 12 1 3
+0 15 7 5
 1
 end_operator
 begin_operator
 feast love onion marzipan guanabara bosnia
 0
 2
-0 15 7 5
 0 12 2 4
+0 15 7 5
 1
 end_operator
 begin_operator
 feast love onion shrimp bavaria guanabara
 0
 2
-0 15 7 11
 0 12 4 1
+0 15 7 11
 1
 end_operator
 begin_operator
 feast love onion shrimp bosnia alsace
 0
 2
-0 15 7 11
 0 12 0 2
+0 15 7 11
 1
 end_operator
 begin_operator
 feast love onion shrimp goias bavaria
 0
 2
-0 15 7 11
 0 12 1 3
+0 15 7 11
 1
 end_operator
 begin_operator
 feast love onion shrimp guanabara bosnia
 0
 2
-0 15 7 11
 0 12 2 4
+0 15 7 11
 1
 end_operator
 begin_operator
 feast love papaya rice bavaria guanabara
 0
 2
-0 15 8 10
 0 6 4 1
+0 15 8 10
 1
 end_operator
 begin_operator
 feast love papaya rice bosnia alsace
 0
 2
-0 15 8 10
 0 6 0 2
+0 15 8 10
 1
 end_operator
 begin_operator
 feast love papaya rice goias bavaria
 0
 2
-0 15 8 10
 0 6 1 3
+0 15 8 10
 1
 end_operator
 begin_operator
 feast love papaya rice guanabara bosnia
 0
 2
-0 15 8 10
 0 6 2 4
+0 15 8 10
 1
 end_operator
 begin_operator
 feast love papaya wurst bavaria guanabara
 0
 2
-0 15 8 14
 0 6 4 1
+0 15 8 14
 1
 end_operator
 begin_operator
 feast love papaya wurst bosnia alsace
 0
 2
-0 15 8 14
 0 6 0 2
+0 15 8 14
 1
 end_operator
 begin_operator
 feast love papaya wurst goias bavaria
 0
 2
-0 15 8 14
 0 6 1 3
+0 15 8 14
 1
 end_operator
 begin_operator
 feast love papaya wurst guanabara bosnia
 0
 2
-0 15 8 14
 0 6 2 4
+0 15 8 14
 1
 end_operator
 begin_operator
 feast love potato arugula bavaria guanabara
 0
 2
-0 15 9 0
 0 7 3 0
+0 15 9 0
 1
 end_operator
 begin_operator
 feast love potato arugula goias bavaria
 0
 2
-0 15 9 0
 0 7 0 2
+0 15 9 0
 1
 end_operator
 begin_operator
 feast love potato arugula guanabara bosnia
 0
 2
-0 15 9 0
 0 7 1 3
+0 15 9 0
 1
 end_operator
 begin_operator
 feast love potato shrimp bavaria guanabara
 0
 2
-0 15 9 11
 0 7 3 0
+0 15 9 11
 1
 end_operator
 begin_operator
 feast love potato shrimp goias bavaria
 0
 2
-0 15 9 11
 0 7 0 2
+0 15 9 11
 1
 end_operator
 begin_operator
 feast love potato shrimp guanabara bosnia
 0
 2
-0 15 9 11
 0 7 1 3
+0 15 9 11
 1
 end_operator
 begin_operator
 feast love potato yogurt bavaria guanabara
 0
 2
-0 15 9 15
 0 7 3 0
+0 15 9 15
 1
 end_operator
 begin_operator
 feast love potato yogurt goias bavaria
 0
 2
-0 15 9 15
 0 7 0 2
+0 15 9 15
 1
 end_operator
 begin_operator
 feast love potato yogurt guanabara bosnia
 0
 2
-0 15 9 15
 0 7 1 3
+0 15 9 15
 1
 end_operator
 begin_operator
 feast love rice cherry bavaria guanabara
 0
 2
-0 15 10 1
 0 14 4 1
+0 15 10 1
 1
 end_operator
 begin_operator
 feast love rice cherry bosnia alsace
 0
 2
-0 15 10 1
 0 14 0 2
+0 15 10 1
 1
 end_operator
 begin_operator
 feast love rice cherry goias bavaria
 0
 2
-0 15 10 1
 0 14 1 3
+0 15 10 1
 1
 end_operator
 begin_operator
 feast love rice cherry guanabara bosnia
 0
 2
-0 15 10 1
 0 14 2 4
+0 15 10 1
 1
 end_operator
 begin_operator
 feast love rice marzipan bavaria guanabara
 0
 2
-0 15 10 5
 0 14 4 1
+0 15 10 5
 1
 end_operator
 begin_operator
 feast love rice marzipan bosnia alsace
 0
 2
-0 15 10 5
 0 14 0 2
+0 15 10 5
 1
 end_operator
 begin_operator
 feast love rice marzipan goias bavaria
 0
 2
-0 15 10 5
 0 14 1 3
+0 15 10 5
 1
 end_operator
 begin_operator
 feast love rice marzipan guanabara bosnia
 0
 2
-0 15 10 5
 0 14 2 4
+0 15 10 5
 1
 end_operator
 begin_operator
 feast love rice papaya bavaria guanabara
 0
 2
-0 15 10 8
 0 14 4 1
+0 15 10 8
 1
 end_operator
 begin_operator
 feast love rice papaya bosnia alsace
 0
 2
-0 15 10 8
 0 14 0 2
+0 15 10 8
 1
 end_operator
 begin_operator
 feast love rice papaya goias bavaria
 0
 2
-0 15 10 8
 0 14 1 3
+0 15 10 8
 1
 end_operator
 begin_operator
 feast love rice papaya guanabara bosnia
 0
 2
-0 15 10 8
 0 14 2 4
+0 15 10 8
 1
 end_operator
 begin_operator
@@ -5443,16 +5443,16 @@ begin_operator
 feast love turkey haroset goias bavaria
 0
 2
-0 15 12 4
 0 0 0 1
+0 15 12 4
 1
 end_operator
 begin_operator
 feast love turkey shrimp goias bavaria
 0
 2
-0 15 12 11
 0 0 0 1
+0 15 12 11
 1
 end_operator
 begin_operator
@@ -5555,368 +5555,368 @@ begin_operator
 feast love yogurt potato bavaria guanabara
 0
 2
-0 15 15 9
 0 4 3 0
+0 15 15 9
 1
 end_operator
 begin_operator
 feast love yogurt potato goias bavaria
 0
 2
-0 15 15 9
 0 4 0 2
+0 15 15 9
 1
 end_operator
 begin_operator
 feast love yogurt potato guanabara bosnia
 0
 2
-0 15 15 9
 0 4 1 3
+0 15 15 9
 1
 end_operator
 begin_operator
 feast love yogurt wonderbread bavaria guanabara
 0
 2
-0 15 15 13
 0 4 3 0
+0 15 15 13
 1
 end_operator
 begin_operator
 feast love yogurt wonderbread goias bavaria
 0
 2
-0 15 15 13
 0 4 0 2
+0 15 15 13
 1
 end_operator
 begin_operator
 feast love yogurt wonderbread guanabara bosnia
 0
 2
-0 15 15 13
 0 4 1 3
+0 15 15 13
 1
 end_operator
 begin_operator
 feast lubricity arugula potato alsace surrey
 0
 2
-0 17 0 9
 0 8 5 0
+0 17 0 9
 1
 end_operator
 begin_operator
 feast lubricity arugula potato bavaria guanabara
 0
 2
-0 17 0 9
 0 8 4 1
+0 17 0 9
 1
 end_operator
 begin_operator
 feast lubricity arugula potato bosnia alsace
 0
 2
-0 17 0 9
 0 8 0 2
+0 17 0 9
 1
 end_operator
 begin_operator
 feast lubricity arugula potato goias bavaria
 0
 2
-0 17 0 9
 0 8 1 3
+0 17 0 9
 1
 end_operator
 begin_operator
 feast lubricity arugula potato guanabara bosnia
 0
 2
-0 17 0 9
 0 8 2 4
+0 17 0 9
 1
 end_operator
 begin_operator
 feast lubricity arugula wonderbread alsace surrey
 0
 2
-0 17 0 13
 0 8 5 0
+0 17 0 13
 1
 end_operator
 begin_operator
 feast lubricity arugula wonderbread bavaria guanabara
 0
 2
-0 17 0 13
 0 8 4 1
+0 17 0 13
 1
 end_operator
 begin_operator
 feast lubricity arugula wonderbread bosnia alsace
 0
 2
-0 17 0 13
 0 8 0 2
+0 17 0 13
 1
 end_operator
 begin_operator
 feast lubricity arugula wonderbread goias bavaria
 0
 2
-0 17 0 13
 0 8 1 3
+0 17 0 13
 1
 end_operator
 begin_operator
 feast lubricity arugula wonderbread guanabara bosnia
 0
 2
-0 17 0 13
 0 8 2 4
+0 17 0 13
 1
 end_operator
 begin_operator
 feast lubricity cherry endive bavaria guanabara
 0
 2
-0 17 1 2
 0 10 4 1
+0 17 1 2
 1
 end_operator
 begin_operator
 feast lubricity cherry endive bosnia alsace
 0
 2
-0 17 1 2
 0 10 0 2
+0 17 1 2
 1
 end_operator
 begin_operator
 feast lubricity cherry endive goias bavaria
 0
 2
-0 17 1 2
 0 10 1 3
+0 17 1 2
 1
 end_operator
 begin_operator
 feast lubricity cherry endive guanabara bosnia
 0
 2
-0 17 1 2
 0 10 2 4
+0 17 1 2
 1
 end_operator
 begin_operator
 feast lubricity cherry marzipan bavaria guanabara
 0
 2
-0 17 1 5
 0 10 4 1
+0 17 1 5
 1
 end_operator
 begin_operator
 feast lubricity cherry marzipan bosnia alsace
 0
 2
-0 17 1 5
 0 10 0 2
+0 17 1 5
 1
 end_operator
 begin_operator
 feast lubricity cherry marzipan goias bavaria
 0
 2
-0 17 1 5
 0 10 1 3
+0 17 1 5
 1
 end_operator
 begin_operator
 feast lubricity cherry marzipan guanabara bosnia
 0
 2
-0 17 1 5
 0 10 2 4
+0 17 1 5
 1
 end_operator
 begin_operator
 feast lubricity cherry rice bavaria guanabara
 0
 2
-0 17 1 10
 0 10 4 1
+0 17 1 10
 1
 end_operator
 begin_operator
 feast lubricity cherry rice bosnia alsace
 0
 2
-0 17 1 10
 0 10 0 2
+0 17 1 10
 1
 end_operator
 begin_operator
 feast lubricity cherry rice goias bavaria
 0
 2
-0 17 1 10
 0 10 1 3
+0 17 1 10
 1
 end_operator
 begin_operator
 feast lubricity cherry rice guanabara bosnia
 0
 2
-0 17 1 10
 0 10 2 4
+0 17 1 10
 1
 end_operator
 begin_operator
 feast lubricity endive cherry bavaria guanabara
 0
 2
-0 17 2 1
 0 5 4 1
+0 17 2 1
 1
 end_operator
 begin_operator
 feast lubricity endive cherry bosnia alsace
 0
 2
-0 17 2 1
 0 5 0 2
+0 17 2 1
 1
 end_operator
 begin_operator
 feast lubricity endive cherry goias bavaria
 0
 2
-0 17 2 1
 0 5 1 3
+0 17 2 1
 1
 end_operator
 begin_operator
 feast lubricity endive cherry guanabara bosnia
 0
 2
-0 17 2 1
 0 5 2 4
+0 17 2 1
 1
 end_operator
 begin_operator
 feast lubricity endive wurst bavaria guanabara
 0
 2
-0 17 2 14
 0 5 4 1
+0 17 2 14
 1
 end_operator
 begin_operator
 feast lubricity endive wurst bosnia alsace
 0
 2
-0 17 2 14
 0 5 0 2
+0 17 2 14
 1
 end_operator
 begin_operator
 feast lubricity endive wurst goias bavaria
 0
 2
-0 17 2 14
 0 5 1 3
+0 17 2 14
 1
 end_operator
 begin_operator
 feast lubricity endive wurst guanabara bosnia
 0
 2
-0 17 2 14
 0 5 2 4
+0 17 2 14
 1
 end_operator
 begin_operator
 feast lubricity ham mutton bavaria guanabara
 0
 2
-0 17 3 6
 0 3 2 0
+0 17 3 6
 1
 end_operator
 begin_operator
 feast lubricity ham mutton goias bavaria
 0
 2
-0 17 3 6
 0 3 0 1
+0 17 3 6
 1
 end_operator
 begin_operator
 feast lubricity ham onion bavaria guanabara
 0
 2
-0 17 3 7
 0 3 2 0
+0 17 3 7
 1
 end_operator
 begin_operator
 feast lubricity ham onion goias bavaria
 0
 2
-0 17 3 7
 0 3 0 1
+0 17 3 7
 1
 end_operator
 begin_operator
 feast lubricity ham wonderbread bavaria guanabara
 0
 2
-0 17 3 13
 0 3 2 0
+0 17 3 13
 1
 end_operator
 begin_operator
 feast lubricity ham wonderbread goias bavaria
 0
 2
-0 17 3 13
 0 3 0 1
+0 17 3 13
 1
 end_operator
 begin_operator
 feast lubricity haroset marzipan bavaria guanabara
 0
 2
-0 17 4 5
 0 1 2 0
+0 17 4 5
 1
 end_operator
 begin_operator
 feast lubricity haroset marzipan goias bavaria
 0
 2
-0 17 4 5
 0 1 0 1
+0 17 4 5
 1
 end_operator
 begin_operator
 feast lubricity haroset turkey bavaria guanabara
 0
 2
-0 17 4 12
 0 1 2 0
+0 17 4 12
 1
 end_operator
 begin_operator
 feast lubricity haroset turkey goias bavaria
 0
 2
-0 17 4 12
 0 1 0 1
+0 17 4 12
 1
 end_operator
 begin_operator
@@ -6123,472 +6123,472 @@ begin_operator
 feast lubricity mutton ham bavaria guanabara
 0
 2
-0 17 6 3
 0 2 2 0
+0 17 6 3
 1
 end_operator
 begin_operator
 feast lubricity mutton ham goias bavaria
 0
 2
-0 17 6 3
 0 2 0 1
+0 17 6 3
 1
 end_operator
 begin_operator
 feast lubricity mutton marzipan bavaria guanabara
 0
 2
-0 17 6 5
 0 2 2 0
+0 17 6 5
 1
 end_operator
 begin_operator
 feast lubricity mutton marzipan goias bavaria
 0
 2
-0 17 6 5
 0 2 0 1
+0 17 6 5
 1
 end_operator
 begin_operator
 feast lubricity onion ham bavaria guanabara
 0
 2
-0 17 7 3
 0 12 4 1
+0 17 7 3
 1
 end_operator
 begin_operator
 feast lubricity onion ham bosnia alsace
 0
 2
-0 17 7 3
 0 12 0 2
+0 17 7 3
 1
 end_operator
 begin_operator
 feast lubricity onion ham goias bavaria
 0
 2
-0 17 7 3
 0 12 1 3
+0 17 7 3
 1
 end_operator
 begin_operator
 feast lubricity onion ham guanabara bosnia
 0
 2
-0 17 7 3
 0 12 2 4
+0 17 7 3
 1
 end_operator
 begin_operator
 feast lubricity onion marzipan bavaria guanabara
 0
 2
-0 17 7 5
 0 12 4 1
+0 17 7 5
 1
 end_operator
 begin_operator
 feast lubricity onion marzipan bosnia alsace
 0
 2
-0 17 7 5
 0 12 0 2
+0 17 7 5
 1
 end_operator
 begin_operator
 feast lubricity onion marzipan goias bavaria
 0
 2
-0 17 7 5
 0 12 1 3
+0 17 7 5
 1
 end_operator
 begin_operator
 feast lubricity onion marzipan guanabara bosnia
 0
 2
-0 17 7 5
 0 12 2 4
+0 17 7 5
 1
 end_operator
 begin_operator
 feast lubricity onion shrimp bavaria guanabara
 0
 2
-0 17 7 11
 0 12 4 1
+0 17 7 11
 1
 end_operator
 begin_operator
 feast lubricity onion shrimp bosnia alsace
 0
 2
-0 17 7 11
 0 12 0 2
+0 17 7 11
 1
 end_operator
 begin_operator
 feast lubricity onion shrimp goias bavaria
 0
 2
-0 17 7 11
 0 12 1 3
+0 17 7 11
 1
 end_operator
 begin_operator
 feast lubricity onion shrimp guanabara bosnia
 0
 2
-0 17 7 11
 0 12 2 4
+0 17 7 11
 1
 end_operator
 begin_operator
 feast lubricity papaya rice bavaria guanabara
 0
 2
-0 17 8 10
 0 6 4 1
+0 17 8 10
 1
 end_operator
 begin_operator
 feast lubricity papaya rice bosnia alsace
 0
 2
-0 17 8 10
 0 6 0 2
+0 17 8 10
 1
 end_operator
 begin_operator
 feast lubricity papaya rice goias bavaria
 0
 2
-0 17 8 10
 0 6 1 3
+0 17 8 10
 1
 end_operator
 begin_operator
 feast lubricity papaya rice guanabara bosnia
 0
 2
-0 17 8 10
 0 6 2 4
+0 17 8 10
 1
 end_operator
 begin_operator
 feast lubricity papaya wurst bavaria guanabara
 0
 2
-0 17 8 14
 0 6 4 1
+0 17 8 14
 1
 end_operator
 begin_operator
 feast lubricity papaya wurst bosnia alsace
 0
 2
-0 17 8 14
 0 6 0 2
+0 17 8 14
 1
 end_operator
 begin_operator
 feast lubricity papaya wurst goias bavaria
 0
 2
-0 17 8 14
 0 6 1 3
+0 17 8 14
 1
 end_operator
 begin_operator
 feast lubricity papaya wurst guanabara bosnia
 0
 2
-0 17 8 14
 0 6 2 4
+0 17 8 14
 1
 end_operator
 begin_operator
 feast lubricity potato arugula bavaria guanabara
 0
 2
-0 17 9 0
 0 7 3 0
+0 17 9 0
 1
 end_operator
 begin_operator
 feast lubricity potato arugula goias bavaria
 0
 2
-0 17 9 0
 0 7 0 2
+0 17 9 0
 1
 end_operator
 begin_operator
 feast lubricity potato arugula guanabara bosnia
 0
 2
-0 17 9 0
 0 7 1 3
+0 17 9 0
 1
 end_operator
 begin_operator
 feast lubricity potato shrimp bavaria guanabara
 0
 2
-0 17 9 11
 0 7 3 0
+0 17 9 11
 1
 end_operator
 begin_operator
 feast lubricity potato shrimp goias bavaria
 0
 2
-0 17 9 11
 0 7 0 2
+0 17 9 11
 1
 end_operator
 begin_operator
 feast lubricity potato shrimp guanabara bosnia
 0
 2
-0 17 9 11
 0 7 1 3
+0 17 9 11
 1
 end_operator
 begin_operator
 feast lubricity potato yogurt bavaria guanabara
 0
 2
-0 17 9 15
 0 7 3 0
+0 17 9 15
 1
 end_operator
 begin_operator
 feast lubricity potato yogurt goias bavaria
 0
 2
-0 17 9 15
 0 7 0 2
+0 17 9 15
 1
 end_operator
 begin_operator
 feast lubricity potato yogurt guanabara bosnia
 0
 2
-0 17 9 15
 0 7 1 3
+0 17 9 15
 1
 end_operator
 begin_operator
 feast lubricity rice cherry bavaria guanabara
 0
 2
-0 17 10 1
 0 14 4 1
+0 17 10 1
 1
 end_operator
 begin_operator
 feast lubricity rice cherry bosnia alsace
 0
 2
-0 17 10 1
 0 14 0 2
+0 17 10 1
 1
 end_operator
 begin_operator
 feast lubricity rice cherry goias bavaria
 0
 2
-0 17 10 1
 0 14 1 3
+0 17 10 1
 1
 end_operator
 begin_operator
 feast lubricity rice cherry guanabara bosnia
 0
 2
-0 17 10 1
 0 14 2 4
+0 17 10 1
 1
 end_operator
 begin_operator
 feast lubricity rice marzipan bavaria guanabara
 0
 2
-0 17 10 5
 0 14 4 1
+0 17 10 5
 1
 end_operator
 begin_operator
 feast lubricity rice marzipan bosnia alsace
 0
 2
-0 17 10 5
 0 14 0 2
+0 17 10 5
 1
 end_operator
 begin_operator
 feast lubricity rice marzipan goias bavaria
 0
 2
-0 17 10 5
 0 14 1 3
+0 17 10 5
 1
 end_operator
 begin_operator
 feast lubricity rice marzipan guanabara bosnia
 0
 2
-0 17 10 5
 0 14 2 4
+0 17 10 5
 1
 end_operator
 begin_operator
 feast lubricity rice papaya bavaria guanabara
 0
 2
-0 17 10 8
 0 14 4 1
+0 17 10 8
 1
 end_operator
 begin_operator
 feast lubricity rice papaya bosnia alsace
 0
 2
-0 17 10 8
 0 14 0 2
+0 17 10 8
 1
 end_operator
 begin_operator
 feast lubricity rice papaya goias bavaria
 0
 2
-0 17 10 8
 0 14 1 3
+0 17 10 8
 1
 end_operator
 begin_operator
 feast lubricity rice papaya guanabara bosnia
 0
 2
-0 17 10 8
 0 14 2 4
+0 17 10 8
 1
 end_operator
 begin_operator
 feast lubricity shrimp onion bavaria guanabara
 0
 2
-0 17 11 7
 0 16 4 1
+0 17 11 7
 1
 end_operator
 begin_operator
 feast lubricity shrimp onion bosnia alsace
 0
 2
-0 17 11 7
 0 16 0 2
+0 17 11 7
 1
 end_operator
 begin_operator
 feast lubricity shrimp onion goias bavaria
 0
 2
-0 17 11 7
 0 16 1 3
+0 17 11 7
 1
 end_operator
 begin_operator
 feast lubricity shrimp onion guanabara bosnia
 0
 2
-0 17 11 7
 0 16 2 4
+0 17 11 7
 1
 end_operator
 begin_operator
 feast lubricity shrimp potato bavaria guanabara
 0
 2
-0 17 11 9
 0 16 4 1
+0 17 11 9
 1
 end_operator
 begin_operator
 feast lubricity shrimp potato bosnia alsace
 0
 2
-0 17 11 9
 0 16 0 2
+0 17 11 9
 1
 end_operator
 begin_operator
 feast lubricity shrimp potato goias bavaria
 0
 2
-0 17 11 9
 0 16 1 3
+0 17 11 9
 1
 end_operator
 begin_operator
 feast lubricity shrimp potato guanabara bosnia
 0
 2
-0 17 11 9
 0 16 2 4
+0 17 11 9
 1
 end_operator
 begin_operator
 feast lubricity shrimp turkey bavaria guanabara
 0
 2
-0 17 11 12
 0 16 4 1
+0 17 11 12
 1
 end_operator
 begin_operator
 feast lubricity shrimp turkey bosnia alsace
 0
 2
-0 17 11 12
 0 16 0 2
+0 17 11 12
 1
 end_operator
 begin_operator
 feast lubricity shrimp turkey goias bavaria
 0
 2
-0 17 11 12
 0 16 1 3
+0 17 11 12
 1
 end_operator
 begin_operator
 feast lubricity shrimp turkey guanabara bosnia
 0
 2
-0 17 11 12
 0 16 2 4
+0 17 11 12
 1
 end_operator
 begin_operator
 feast lubricity turkey haroset goias bavaria
 0
 2
-0 17 12 4
 0 0 0 1
+0 17 12 4
 1
 end_operator
 begin_operator
 feast lubricity turkey shrimp goias bavaria
 0
 2
-0 17 12 11
 0 0 0 1
+0 17 12 11
 1
 end_operator
 begin_operator
@@ -6691,368 +6691,368 @@ begin_operator
 feast lubricity yogurt potato bavaria guanabara
 0
 2
-0 17 15 9
 0 4 3 0
+0 17 15 9
 1
 end_operator
 begin_operator
 feast lubricity yogurt potato goias bavaria
 0
 2
-0 17 15 9
 0 4 0 2
+0 17 15 9
 1
 end_operator
 begin_operator
 feast lubricity yogurt potato guanabara bosnia
 0
 2
-0 17 15 9
 0 4 1 3
+0 17 15 9
 1
 end_operator
 begin_operator
 feast lubricity yogurt wonderbread bavaria guanabara
 0
 2
-0 17 15 13
 0 4 3 0
+0 17 15 13
 1
 end_operator
 begin_operator
 feast lubricity yogurt wonderbread goias bavaria
 0
 2
-0 17 15 13
 0 4 0 2
+0 17 15 13
 1
 end_operator
 begin_operator
 feast lubricity yogurt wonderbread guanabara bosnia
 0
 2
-0 17 15 13
 0 4 1 3
+0 17 15 13
 1
 end_operator
 begin_operator
 feast rest arugula potato alsace surrey
 0
 2
-0 19 0 9
 0 8 5 0
+0 19 0 9
 1
 end_operator
 begin_operator
 feast rest arugula potato bavaria guanabara
 0
 2
-0 19 0 9
 0 8 4 1
+0 19 0 9
 1
 end_operator
 begin_operator
 feast rest arugula potato bosnia alsace
 0
 2
-0 19 0 9
 0 8 0 2
+0 19 0 9
 1
 end_operator
 begin_operator
 feast rest arugula potato goias bavaria
 0
 2
-0 19 0 9
 0 8 1 3
+0 19 0 9
 1
 end_operator
 begin_operator
 feast rest arugula potato guanabara bosnia
 0
 2
-0 19 0 9
 0 8 2 4
+0 19 0 9
 1
 end_operator
 begin_operator
 feast rest arugula wonderbread alsace surrey
 0
 2
-0 19 0 13
 0 8 5 0
+0 19 0 13
 1
 end_operator
 begin_operator
 feast rest arugula wonderbread bavaria guanabara
 0
 2
-0 19 0 13
 0 8 4 1
+0 19 0 13
 1
 end_operator
 begin_operator
 feast rest arugula wonderbread bosnia alsace
 0
 2
-0 19 0 13
 0 8 0 2
+0 19 0 13
 1
 end_operator
 begin_operator
 feast rest arugula wonderbread goias bavaria
 0
 2
-0 19 0 13
 0 8 1 3
+0 19 0 13
 1
 end_operator
 begin_operator
 feast rest arugula wonderbread guanabara bosnia
 0
 2
-0 19 0 13
 0 8 2 4
+0 19 0 13
 1
 end_operator
 begin_operator
 feast rest cherry endive bavaria guanabara
 0
 2
-0 19 1 2
 0 10 4 1
+0 19 1 2
 1
 end_operator
 begin_operator
 feast rest cherry endive bosnia alsace
 0
 2
-0 19 1 2
 0 10 0 2
+0 19 1 2
 1
 end_operator
 begin_operator
 feast rest cherry endive goias bavaria
 0
 2
-0 19 1 2
 0 10 1 3
+0 19 1 2
 1
 end_operator
 begin_operator
 feast rest cherry endive guanabara bosnia
 0
 2
-0 19 1 2
 0 10 2 4
+0 19 1 2
 1
 end_operator
 begin_operator
 feast rest cherry marzipan bavaria guanabara
 0
 2
-0 19 1 5
 0 10 4 1
+0 19 1 5
 1
 end_operator
 begin_operator
 feast rest cherry marzipan bosnia alsace
 0
 2
-0 19 1 5
 0 10 0 2
+0 19 1 5
 1
 end_operator
 begin_operator
 feast rest cherry marzipan goias bavaria
 0
 2
-0 19 1 5
 0 10 1 3
+0 19 1 5
 1
 end_operator
 begin_operator
 feast rest cherry marzipan guanabara bosnia
 0
 2
-0 19 1 5
 0 10 2 4
+0 19 1 5
 1
 end_operator
 begin_operator
 feast rest cherry rice bavaria guanabara
 0
 2
-0 19 1 10
 0 10 4 1
+0 19 1 10
 1
 end_operator
 begin_operator
 feast rest cherry rice bosnia alsace
 0
 2
-0 19 1 10
 0 10 0 2
+0 19 1 10
 1
 end_operator
 begin_operator
 feast rest cherry rice goias bavaria
 0
 2
-0 19 1 10
 0 10 1 3
+0 19 1 10
 1
 end_operator
 begin_operator
 feast rest cherry rice guanabara bosnia
 0
 2
-0 19 1 10
 0 10 2 4
+0 19 1 10
 1
 end_operator
 begin_operator
 feast rest endive cherry bavaria guanabara
 0
 2
-0 19 2 1
 0 5 4 1
+0 19 2 1
 1
 end_operator
 begin_operator
 feast rest endive cherry bosnia alsace
 0
 2
-0 19 2 1
 0 5 0 2
+0 19 2 1
 1
 end_operator
 begin_operator
 feast rest endive cherry goias bavaria
 0
 2
-0 19 2 1
 0 5 1 3
+0 19 2 1
 1
 end_operator
 begin_operator
 feast rest endive cherry guanabara bosnia
 0
 2
-0 19 2 1
 0 5 2 4
+0 19 2 1
 1
 end_operator
 begin_operator
 feast rest endive wurst bavaria guanabara
 0
 2
-0 19 2 14
 0 5 4 1
+0 19 2 14
 1
 end_operator
 begin_operator
 feast rest endive wurst bosnia alsace
 0
 2
-0 19 2 14
 0 5 0 2
+0 19 2 14
 1
 end_operator
 begin_operator
 feast rest endive wurst goias bavaria
 0
 2
-0 19 2 14
 0 5 1 3
+0 19 2 14
 1
 end_operator
 begin_operator
 feast rest endive wurst guanabara bosnia
 0
 2
-0 19 2 14
 0 5 2 4
+0 19 2 14
 1
 end_operator
 begin_operator
 feast rest ham mutton bavaria guanabara
 0
 2
-0 19 3 6
 0 3 2 0
+0 19 3 6
 1
 end_operator
 begin_operator
 feast rest ham mutton goias bavaria
 0
 2
-0 19 3 6
 0 3 0 1
+0 19 3 6
 1
 end_operator
 begin_operator
 feast rest ham onion bavaria guanabara
 0
 2
-0 19 3 7
 0 3 2 0
+0 19 3 7
 1
 end_operator
 begin_operator
 feast rest ham onion goias bavaria
 0
 2
-0 19 3 7
 0 3 0 1
+0 19 3 7
 1
 end_operator
 begin_operator
 feast rest ham wonderbread bavaria guanabara
 0
 2
-0 19 3 13
 0 3 2 0
+0 19 3 13
 1
 end_operator
 begin_operator
 feast rest ham wonderbread goias bavaria
 0
 2
-0 19 3 13
 0 3 0 1
+0 19 3 13
 1
 end_operator
 begin_operator
 feast rest haroset marzipan bavaria guanabara
 0
 2
-0 19 4 5
 0 1 2 0
+0 19 4 5
 1
 end_operator
 begin_operator
 feast rest haroset marzipan goias bavaria
 0
 2
-0 19 4 5
 0 1 0 1
+0 19 4 5
 1
 end_operator
 begin_operator
 feast rest haroset turkey bavaria guanabara
 0
 2
-0 19 4 12
 0 1 2 0
+0 19 4 12
 1
 end_operator
 begin_operator
 feast rest haroset turkey goias bavaria
 0
 2
-0 19 4 12
 0 1 0 1
+0 19 4 12
 1
 end_operator
 begin_operator
@@ -7259,936 +7259,936 @@ begin_operator
 feast rest mutton ham bavaria guanabara
 0
 2
-0 19 6 3
 0 2 2 0
+0 19 6 3
 1
 end_operator
 begin_operator
 feast rest mutton ham goias bavaria
 0
 2
-0 19 6 3
 0 2 0 1
+0 19 6 3
 1
 end_operator
 begin_operator
 feast rest mutton marzipan bavaria guanabara
 0
 2
-0 19 6 5
 0 2 2 0
+0 19 6 5
 1
 end_operator
 begin_operator
 feast rest mutton marzipan goias bavaria
 0
 2
-0 19 6 5
 0 2 0 1
+0 19 6 5
 1
 end_operator
 begin_operator
 feast rest onion ham bavaria guanabara
 0
 2
-0 19 7 3
 0 12 4 1
+0 19 7 3
 1
 end_operator
 begin_operator
 feast rest onion ham bosnia alsace
 0
 2
-0 19 7 3
 0 12 0 2
+0 19 7 3
 1
 end_operator
 begin_operator
 feast rest onion ham goias bavaria
 0
 2
-0 19 7 3
 0 12 1 3
+0 19 7 3
 1
 end_operator
 begin_operator
 feast rest onion ham guanabara bosnia
 0
 2
-0 19 7 3
 0 12 2 4
+0 19 7 3
 1
 end_operator
 begin_operator
 feast rest onion marzipan bavaria guanabara
 0
 2
-0 19 7 5
 0 12 4 1
+0 19 7 5
 1
 end_operator
 begin_operator
 feast rest onion marzipan bosnia alsace
 0
 2
-0 19 7 5
 0 12 0 2
+0 19 7 5
 1
 end_operator
 begin_operator
 feast rest onion marzipan goias bavaria
 0
 2
-0 19 7 5
 0 12 1 3
+0 19 7 5
 1
 end_operator
 begin_operator
 feast rest onion marzipan guanabara bosnia
 0
 2
-0 19 7 5
 0 12 2 4
+0 19 7 5
 1
 end_operator
 begin_operator
 feast rest onion shrimp bavaria guanabara
 0
 2
-0 19 7 11
 0 12 4 1
+0 19 7 11
 1
 end_operator
 begin_operator
 feast rest onion shrimp bosnia alsace
 0
 2
-0 19 7 11
 0 12 0 2
+0 19 7 11
 1
 end_operator
 begin_operator
 feast rest onion shrimp goias bavaria
 0
 2
-0 19 7 11
 0 12 1 3
+0 19 7 11
 1
 end_operator
 begin_operator
 feast rest onion shrimp guanabara bosnia
 0
 2
-0 19 7 11
 0 12 2 4
+0 19 7 11
 1
 end_operator
 begin_operator
 feast rest papaya rice bavaria guanabara
 0
 2
-0 19 8 10
 0 6 4 1
+0 19 8 10
 1
 end_operator
 begin_operator
 feast rest papaya rice bosnia alsace
 0
 2
-0 19 8 10
 0 6 0 2
+0 19 8 10
 1
 end_operator
 begin_operator
 feast rest papaya rice goias bavaria
 0
 2
-0 19 8 10
 0 6 1 3
+0 19 8 10
 1
 end_operator
 begin_operator
 feast rest papaya rice guanabara bosnia
 0
 2
-0 19 8 10
 0 6 2 4
+0 19 8 10
 1
 end_operator
 begin_operator
 feast rest papaya wurst bavaria guanabara
 0
 2
-0 19 8 14
 0 6 4 1
+0 19 8 14
 1
 end_operator
 begin_operator
 feast rest papaya wurst bosnia alsace
 0
 2
-0 19 8 14
 0 6 0 2
+0 19 8 14
 1
 end_operator
 begin_operator
 feast rest papaya wurst goias bavaria
 0
 2
-0 19 8 14
 0 6 1 3
+0 19 8 14
 1
 end_operator
 begin_operator
 feast rest papaya wurst guanabara bosnia
 0
 2
-0 19 8 14
 0 6 2 4
+0 19 8 14
 1
 end_operator
 begin_operator
 feast rest potato arugula bavaria guanabara
 0
 2
-0 19 9 0
 0 7 3 0
+0 19 9 0
 1
 end_operator
 begin_operator
 feast rest potato arugula goias bavaria
 0
 2
-0 19 9 0
 0 7 0 2
+0 19 9 0
 1
 end_operator
 begin_operator
 feast rest potato arugula guanabara bosnia
 0
 2
-0 19 9 0
 0 7 1 3
+0 19 9 0
 1
 end_operator
 begin_operator
 feast rest potato shrimp bavaria guanabara
 0
 2
-0 19 9 11
 0 7 3 0
+0 19 9 11
 1
 end_operator
 begin_operator
 feast rest potato shrimp goias bavaria
 0
 2
-0 19 9 11
 0 7 0 2
+0 19 9 11
 1
 end_operator
 begin_operator
 feast rest potato shrimp guanabara bosnia
 0
 2
-0 19 9 11
 0 7 1 3
+0 19 9 11
 1
 end_operator
 begin_operator
 feast rest potato yogurt bavaria guanabara
 0
 2
-0 19 9 15
 0 7 3 0
+0 19 9 15
 1
 end_operator
 begin_operator
 feast rest potato yogurt goias bavaria
 0
 2
-0 19 9 15
 0 7 0 2
+0 19 9 15
 1
 end_operator
 begin_operator
 feast rest potato yogurt guanabara bosnia
 0
 2
-0 19 9 15
 0 7 1 3
+0 19 9 15
 1
 end_operator
 begin_operator
 feast rest rice cherry bavaria guanabara
 0
 2
-0 19 10 1
 0 14 4 1
+0 19 10 1
 1
 end_operator
 begin_operator
 feast rest rice cherry bosnia alsace
 0
 2
-0 19 10 1
 0 14 0 2
+0 19 10 1
 1
 end_operator
 begin_operator
 feast rest rice cherry goias bavaria
 0
 2
-0 19 10 1
 0 14 1 3
+0 19 10 1
 1
 end_operator
 begin_operator
 feast rest rice cherry guanabara bosnia
 0
 2
-0 19 10 1
 0 14 2 4
+0 19 10 1
 1
 end_operator
 begin_operator
 feast rest rice marzipan bavaria guanabara
 0
 2
-0 19 10 5
 0 14 4 1
+0 19 10 5
 1
 end_operator
 begin_operator
 feast rest rice marzipan bosnia alsace
 0
 2
-0 19 10 5
 0 14 0 2
+0 19 10 5
 1
 end_operator
 begin_operator
 feast rest rice marzipan goias bavaria
 0
 2
-0 19 10 5
 0 14 1 3
+0 19 10 5
 1
 end_operator
 begin_operator
 feast rest rice marzipan guanabara bosnia
 0
 2
-0 19 10 5
 0 14 2 4
+0 19 10 5
 1
 end_operator
 begin_operator
 feast rest rice papaya bavaria guanabara
 0
 2
-0 19 10 8
 0 14 4 1
+0 19 10 8
 1
 end_operator
 begin_operator
 feast rest rice papaya bosnia alsace
 0
 2
-0 19 10 8
 0 14 0 2
+0 19 10 8
 1
 end_operator
 begin_operator
 feast rest rice papaya goias bavaria
 0
 2
-0 19 10 8
 0 14 1 3
+0 19 10 8
 1
 end_operator
 begin_operator
 feast rest rice papaya guanabara bosnia
 0
 2
-0 19 10 8
 0 14 2 4
+0 19 10 8
 1
 end_operator
 begin_operator
 feast rest shrimp onion bavaria guanabara
 0
 2
-0 19 11 7
 0 16 4 1
+0 19 11 7
 1
 end_operator
 begin_operator
 feast rest shrimp onion bosnia alsace
 0
 2
-0 19 11 7
 0 16 0 2
+0 19 11 7
 1
 end_operator
 begin_operator
 feast rest shrimp onion goias bavaria
 0
 2
-0 19 11 7
 0 16 1 3
+0 19 11 7
 1
 end_operator
 begin_operator
 feast rest shrimp onion guanabara bosnia
 0
 2
-0 19 11 7
 0 16 2 4
+0 19 11 7
 1
 end_operator
 begin_operator
 feast rest shrimp potato bavaria guanabara
 0
 2
-0 19 11 9
 0 16 4 1
+0 19 11 9
 1
 end_operator
 begin_operator
 feast rest shrimp potato bosnia alsace
 0
 2
-0 19 11 9
 0 16 0 2
+0 19 11 9
 1
 end_operator
 begin_operator
 feast rest shrimp potato goias bavaria
 0
 2
-0 19 11 9
 0 16 1 3
+0 19 11 9
 1
 end_operator
 begin_operator
 feast rest shrimp potato guanabara bosnia
 0
 2
-0 19 11 9
 0 16 2 4
+0 19 11 9
 1
 end_operator
 begin_operator
 feast rest shrimp turkey bavaria guanabara
 0
 2
-0 19 11 12
 0 16 4 1
+0 19 11 12
 1
 end_operator
 begin_operator
 feast rest shrimp turkey bosnia alsace
 0
 2
-0 19 11 12
 0 16 0 2
+0 19 11 12
 1
 end_operator
 begin_operator
 feast rest shrimp turkey goias bavaria
 0
 2
-0 19 11 12
 0 16 1 3
+0 19 11 12
 1
 end_operator
 begin_operator
 feast rest shrimp turkey guanabara bosnia
 0
 2
-0 19 11 12
 0 16 2 4
+0 19 11 12
 1
 end_operator
 begin_operator
 feast rest turkey haroset goias bavaria
 0
 2
-0 19 12 4
 0 0 0 1
+0 19 12 4
 1
 end_operator
 begin_operator
 feast rest turkey shrimp goias bavaria
 0
 2
-0 19 12 11
 0 0 0 1
+0 19 12 11
 1
 end_operator
 begin_operator
 feast rest wonderbread arugula bavaria guanabara
 0
 2
-0 19 13 0
 0 18 4 1
+0 19 13 0
 1
 end_operator
 begin_operator
 feast rest wonderbread arugula bosnia alsace
 0
 2
-0 19 13 0
 0 18 0 2
+0 19 13 0
 1
 end_operator
 begin_operator
 feast rest wonderbread arugula goias bavaria
 0
 2
-0 19 13 0
 0 18 1 3
+0 19 13 0
 1
 end_operator
 begin_operator
 feast rest wonderbread arugula guanabara bosnia
 0
 2
-0 19 13 0
 0 18 2 4
+0 19 13 0
 1
 end_operator
 begin_operator
 feast rest wonderbread ham bavaria guanabara
 0
 2
-0 19 13 3
 0 18 4 1
+0 19 13 3
 1
 end_operator
 begin_operator
 feast rest wonderbread ham bosnia alsace
 0
 2
-0 19 13 3
 0 18 0 2
+0 19 13 3
 1
 end_operator
 begin_operator
 feast rest wonderbread ham goias bavaria
 0
 2
-0 19 13 3
 0 18 1 3
+0 19 13 3
 1
 end_operator
 begin_operator
 feast rest wonderbread ham guanabara bosnia
 0
 2
-0 19 13 3
 0 18 2 4
+0 19 13 3
 1
 end_operator
 begin_operator
 feast rest wonderbread yogurt bavaria guanabara
 0
 2
-0 19 13 15
 0 18 4 1
+0 19 13 15
 1
 end_operator
 begin_operator
 feast rest wonderbread yogurt bosnia alsace
 0
 2
-0 19 13 15
 0 18 0 2
+0 19 13 15
 1
 end_operator
 begin_operator
 feast rest wonderbread yogurt goias bavaria
 0
 2
-0 19 13 15
 0 18 1 3
+0 19 13 15
 1
 end_operator
 begin_operator
 feast rest wonderbread yogurt guanabara bosnia
 0
 2
-0 19 13 15
 0 18 2 4
+0 19 13 15
 1
 end_operator
 begin_operator
 feast rest yogurt potato bavaria guanabara
 0
 2
-0 19 15 9
 0 4 3 0
+0 19 15 9
 1
 end_operator
 begin_operator
 feast rest yogurt potato goias bavaria
 0
 2
-0 19 15 9
 0 4 0 2
+0 19 15 9
 1
 end_operator
 begin_operator
 feast rest yogurt potato guanabara bosnia
 0
 2
-0 19 15 9
 0 4 1 3
+0 19 15 9
 1
 end_operator
 begin_operator
 feast rest yogurt wonderbread bavaria guanabara
 0
 2
-0 19 15 13
 0 4 3 0
+0 19 15 13
 1
 end_operator
 begin_operator
 feast rest yogurt wonderbread goias bavaria
 0
 2
-0 19 15 13
 0 4 0 2
+0 19 15 13
 1
 end_operator
 begin_operator
 feast rest yogurt wonderbread guanabara bosnia
 0
 2
-0 19 15 13
 0 4 1 3
+0 19 15 13
 1
 end_operator
 begin_operator
 feast satiety arugula potato alsace surrey
 0
 2
-0 20 0 9
 0 8 5 0
+0 20 0 9
 1
 end_operator
 begin_operator
 feast satiety arugula potato bavaria guanabara
 0
 2
-0 20 0 9
 0 8 4 1
+0 20 0 9
 1
 end_operator
 begin_operator
 feast satiety arugula potato bosnia alsace
 0
 2
-0 20 0 9
 0 8 0 2
+0 20 0 9
 1
 end_operator
 begin_operator
 feast satiety arugula potato goias bavaria
 0
 2
-0 20 0 9
 0 8 1 3
+0 20 0 9
 1
 end_operator
 begin_operator
 feast satiety arugula potato guanabara bosnia
 0
 2
-0 20 0 9
 0 8 2 4
+0 20 0 9
 1
 end_operator
 begin_operator
 feast satiety arugula wonderbread alsace surrey
 0
 2
-0 20 0 13
 0 8 5 0
+0 20 0 13
 1
 end_operator
 begin_operator
 feast satiety arugula wonderbread bavaria guanabara
 0
 2
-0 20 0 13
 0 8 4 1
+0 20 0 13
 1
 end_operator
 begin_operator
 feast satiety arugula wonderbread bosnia alsace
 0
 2
-0 20 0 13
 0 8 0 2
+0 20 0 13
 1
 end_operator
 begin_operator
 feast satiety arugula wonderbread goias bavaria
 0
 2
-0 20 0 13
 0 8 1 3
+0 20 0 13
 1
 end_operator
 begin_operator
 feast satiety arugula wonderbread guanabara bosnia
 0
 2
-0 20 0 13
 0 8 2 4
+0 20 0 13
 1
 end_operator
 begin_operator
 feast satiety cherry endive bavaria guanabara
 0
 2
-0 20 1 2
 0 10 4 1
+0 20 1 2
 1
 end_operator
 begin_operator
 feast satiety cherry endive bosnia alsace
 0
 2
-0 20 1 2
 0 10 0 2
+0 20 1 2
 1
 end_operator
 begin_operator
 feast satiety cherry endive goias bavaria
 0
 2
-0 20 1 2
 0 10 1 3
+0 20 1 2
 1
 end_operator
 begin_operator
 feast satiety cherry endive guanabara bosnia
 0
 2
-0 20 1 2
 0 10 2 4
+0 20 1 2
 1
 end_operator
 begin_operator
 feast satiety cherry marzipan bavaria guanabara
 0
 2
-0 20 1 5
 0 10 4 1
+0 20 1 5
 1
 end_operator
 begin_operator
 feast satiety cherry marzipan bosnia alsace
 0
 2
-0 20 1 5
 0 10 0 2
+0 20 1 5
 1
 end_operator
 begin_operator
 feast satiety cherry marzipan goias bavaria
 0
 2
-0 20 1 5
 0 10 1 3
+0 20 1 5
 1
 end_operator
 begin_operator
 feast satiety cherry marzipan guanabara bosnia
 0
 2
-0 20 1 5
 0 10 2 4
+0 20 1 5
 1
 end_operator
 begin_operator
 feast satiety cherry rice bavaria guanabara
 0
 2
-0 20 1 10
 0 10 4 1
+0 20 1 10
 1
 end_operator
 begin_operator
 feast satiety cherry rice bosnia alsace
 0
 2
-0 20 1 10
 0 10 0 2
+0 20 1 10
 1
 end_operator
 begin_operator
 feast satiety cherry rice goias bavaria
 0
 2
-0 20 1 10
 0 10 1 3
+0 20 1 10
 1
 end_operator
 begin_operator
 feast satiety cherry rice guanabara bosnia
 0
 2
-0 20 1 10
 0 10 2 4
+0 20 1 10
 1
 end_operator
 begin_operator
 feast satiety endive cherry bavaria guanabara
 0
 2
-0 20 2 1
 0 5 4 1
+0 20 2 1
 1
 end_operator
 begin_operator
 feast satiety endive cherry bosnia alsace
 0
 2
-0 20 2 1
 0 5 0 2
+0 20 2 1
 1
 end_operator
 begin_operator
 feast satiety endive cherry goias bavaria
 0
 2
-0 20 2 1
 0 5 1 3
+0 20 2 1
 1
 end_operator
 begin_operator
 feast satiety endive cherry guanabara bosnia
 0
 2
-0 20 2 1
 0 5 2 4
+0 20 2 1
 1
 end_operator
 begin_operator
 feast satiety endive wurst bavaria guanabara
 0
 2
-0 20 2 14
 0 5 4 1
+0 20 2 14
 1
 end_operator
 begin_operator
 feast satiety endive wurst bosnia alsace
 0
 2
-0 20 2 14
 0 5 0 2
+0 20 2 14
 1
 end_operator
 begin_operator
 feast satiety endive wurst goias bavaria
 0
 2
-0 20 2 14
 0 5 1 3
+0 20 2 14
 1
 end_operator
 begin_operator
 feast satiety endive wurst guanabara bosnia
 0
 2
-0 20 2 14
 0 5 2 4
+0 20 2 14
 1
 end_operator
 begin_operator
 feast satiety ham mutton bavaria guanabara
 0
 2
-0 20 3 6
 0 3 2 0
+0 20 3 6
 1
 end_operator
 begin_operator
 feast satiety ham mutton goias bavaria
 0
 2
-0 20 3 6
 0 3 0 1
+0 20 3 6
 1
 end_operator
 begin_operator
 feast satiety ham onion bavaria guanabara
 0
 2
-0 20 3 7
 0 3 2 0
+0 20 3 7
 1
 end_operator
 begin_operator
 feast satiety ham onion goias bavaria
 0
 2
-0 20 3 7
 0 3 0 1
+0 20 3 7
 1
 end_operator
 begin_operator
 feast satiety ham wonderbread bavaria guanabara
 0
 2
-0 20 3 13
 0 3 2 0
+0 20 3 13
 1
 end_operator
 begin_operator
 feast satiety ham wonderbread goias bavaria
 0
 2
-0 20 3 13
 0 3 0 1
+0 20 3 13
 1
 end_operator
 begin_operator
 feast satiety haroset marzipan bavaria guanabara
 0
 2
-0 20 4 5
 0 1 2 0
+0 20 4 5
 1
 end_operator
 begin_operator
 feast satiety haroset marzipan goias bavaria
 0
 2
-0 20 4 5
 0 1 0 1
+0 20 4 5
 1
 end_operator
 begin_operator
 feast satiety haroset turkey bavaria guanabara
 0
 2
-0 20 4 12
 0 1 2 0
+0 20 4 12
 1
 end_operator
 begin_operator
 feast satiety haroset turkey goias bavaria
 0
 2
-0 20 4 12
 0 1 0 1
+0 20 4 12
 1
 end_operator
 begin_operator
@@ -8395,936 +8395,936 @@ begin_operator
 feast satiety mutton ham bavaria guanabara
 0
 2
-0 20 6 3
 0 2 2 0
+0 20 6 3
 1
 end_operator
 begin_operator
 feast satiety mutton ham goias bavaria
 0
 2
-0 20 6 3
 0 2 0 1
+0 20 6 3
 1
 end_operator
 begin_operator
 feast satiety mutton marzipan bavaria guanabara
 0
 2
-0 20 6 5
 0 2 2 0
+0 20 6 5
 1
 end_operator
 begin_operator
 feast satiety mutton marzipan goias bavaria
 0
 2
-0 20 6 5
 0 2 0 1
+0 20 6 5
 1
 end_operator
 begin_operator
 feast satiety onion ham bavaria guanabara
 0
 2
-0 20 7 3
 0 12 4 1
+0 20 7 3
 1
 end_operator
 begin_operator
 feast satiety onion ham bosnia alsace
 0
 2
-0 20 7 3
 0 12 0 2
+0 20 7 3
 1
 end_operator
 begin_operator
 feast satiety onion ham goias bavaria
 0
 2
-0 20 7 3
 0 12 1 3
+0 20 7 3
 1
 end_operator
 begin_operator
 feast satiety onion ham guanabara bosnia
 0
 2
-0 20 7 3
 0 12 2 4
+0 20 7 3
 1
 end_operator
 begin_operator
 feast satiety onion marzipan bavaria guanabara
 0
 2
-0 20 7 5
 0 12 4 1
+0 20 7 5
 1
 end_operator
 begin_operator
 feast satiety onion marzipan bosnia alsace
 0
 2
-0 20 7 5
 0 12 0 2
+0 20 7 5
 1
 end_operator
 begin_operator
 feast satiety onion marzipan goias bavaria
 0
 2
-0 20 7 5
 0 12 1 3
+0 20 7 5
 1
 end_operator
 begin_operator
 feast satiety onion marzipan guanabara bosnia
 0
 2
-0 20 7 5
 0 12 2 4
+0 20 7 5
 1
 end_operator
 begin_operator
 feast satiety onion shrimp bavaria guanabara
 0
 2
-0 20 7 11
 0 12 4 1
+0 20 7 11
 1
 end_operator
 begin_operator
 feast satiety onion shrimp bosnia alsace
 0
 2
-0 20 7 11
 0 12 0 2
+0 20 7 11
 1
 end_operator
 begin_operator
 feast satiety onion shrimp goias bavaria
 0
 2
-0 20 7 11
 0 12 1 3
+0 20 7 11
 1
 end_operator
 begin_operator
 feast satiety onion shrimp guanabara bosnia
 0
 2
-0 20 7 11
 0 12 2 4
+0 20 7 11
 1
 end_operator
 begin_operator
 feast satiety papaya rice bavaria guanabara
 0
 2
-0 20 8 10
 0 6 4 1
+0 20 8 10
 1
 end_operator
 begin_operator
 feast satiety papaya rice bosnia alsace
 0
 2
-0 20 8 10
 0 6 0 2
+0 20 8 10
 1
 end_operator
 begin_operator
 feast satiety papaya rice goias bavaria
 0
 2
-0 20 8 10
 0 6 1 3
+0 20 8 10
 1
 end_operator
 begin_operator
 feast satiety papaya rice guanabara bosnia
 0
 2
-0 20 8 10
 0 6 2 4
+0 20 8 10
 1
 end_operator
 begin_operator
 feast satiety papaya wurst bavaria guanabara
 0
 2
-0 20 8 14
 0 6 4 1
+0 20 8 14
 1
 end_operator
 begin_operator
 feast satiety papaya wurst bosnia alsace
 0
 2
-0 20 8 14
 0 6 0 2
+0 20 8 14
 1
 end_operator
 begin_operator
 feast satiety papaya wurst goias bavaria
 0
 2
-0 20 8 14
 0 6 1 3
+0 20 8 14
 1
 end_operator
 begin_operator
 feast satiety papaya wurst guanabara bosnia
 0
 2
-0 20 8 14
 0 6 2 4
+0 20 8 14
 1
 end_operator
 begin_operator
 feast satiety potato arugula bavaria guanabara
 0
 2
-0 20 9 0
 0 7 3 0
+0 20 9 0
 1
 end_operator
 begin_operator
 feast satiety potato arugula goias bavaria
 0
 2
-0 20 9 0
 0 7 0 2
+0 20 9 0
 1
 end_operator
 begin_operator
 feast satiety potato arugula guanabara bosnia
 0
 2
-0 20 9 0
 0 7 1 3
+0 20 9 0
 1
 end_operator
 begin_operator
 feast satiety potato shrimp bavaria guanabara
 0
 2
-0 20 9 11
 0 7 3 0
+0 20 9 11
 1
 end_operator
 begin_operator
 feast satiety potato shrimp goias bavaria
 0
 2
-0 20 9 11
 0 7 0 2
+0 20 9 11
 1
 end_operator
 begin_operator
 feast satiety potato shrimp guanabara bosnia
 0
 2
-0 20 9 11
 0 7 1 3
+0 20 9 11
 1
 end_operator
 begin_operator
 feast satiety potato yogurt bavaria guanabara
 0
 2
-0 20 9 15
 0 7 3 0
+0 20 9 15
 1
 end_operator
 begin_operator
 feast satiety potato yogurt goias bavaria
 0
 2
-0 20 9 15
 0 7 0 2
+0 20 9 15
 1
 end_operator
 begin_operator
 feast satiety potato yogurt guanabara bosnia
 0
 2
-0 20 9 15
 0 7 1 3
+0 20 9 15
 1
 end_operator
 begin_operator
 feast satiety rice cherry bavaria guanabara
 0
 2
-0 20 10 1
 0 14 4 1
+0 20 10 1
 1
 end_operator
 begin_operator
 feast satiety rice cherry bosnia alsace
 0
 2
-0 20 10 1
 0 14 0 2
+0 20 10 1
 1
 end_operator
 begin_operator
 feast satiety rice cherry goias bavaria
 0
 2
-0 20 10 1
 0 14 1 3
+0 20 10 1
 1
 end_operator
 begin_operator
 feast satiety rice cherry guanabara bosnia
 0
 2
-0 20 10 1
 0 14 2 4
+0 20 10 1
 1
 end_operator
 begin_operator
 feast satiety rice marzipan bavaria guanabara
 0
 2
-0 20 10 5
 0 14 4 1
+0 20 10 5
 1
 end_operator
 begin_operator
 feast satiety rice marzipan bosnia alsace
 0
 2
-0 20 10 5
 0 14 0 2
+0 20 10 5
 1
 end_operator
 begin_operator
 feast satiety rice marzipan goias bavaria
 0
 2
-0 20 10 5
 0 14 1 3
+0 20 10 5
 1
 end_operator
 begin_operator
 feast satiety rice marzipan guanabara bosnia
 0
 2
-0 20 10 5
 0 14 2 4
+0 20 10 5
 1
 end_operator
 begin_operator
 feast satiety rice papaya bavaria guanabara
 0
 2
-0 20 10 8
 0 14 4 1
+0 20 10 8
 1
 end_operator
 begin_operator
 feast satiety rice papaya bosnia alsace
 0
 2
-0 20 10 8
 0 14 0 2
+0 20 10 8
 1
 end_operator
 begin_operator
 feast satiety rice papaya goias bavaria
 0
 2
-0 20 10 8
 0 14 1 3
+0 20 10 8
 1
 end_operator
 begin_operator
 feast satiety rice papaya guanabara bosnia
 0
 2
-0 20 10 8
 0 14 2 4
+0 20 10 8
 1
 end_operator
 begin_operator
 feast satiety shrimp onion bavaria guanabara
 0
 2
-0 20 11 7
 0 16 4 1
+0 20 11 7
 1
 end_operator
 begin_operator
 feast satiety shrimp onion bosnia alsace
 0
 2
-0 20 11 7
 0 16 0 2
+0 20 11 7
 1
 end_operator
 begin_operator
 feast satiety shrimp onion goias bavaria
 0
 2
-0 20 11 7
 0 16 1 3
+0 20 11 7
 1
 end_operator
 begin_operator
 feast satiety shrimp onion guanabara bosnia
 0
 2
-0 20 11 7
 0 16 2 4
+0 20 11 7
 1
 end_operator
 begin_operator
 feast satiety shrimp potato bavaria guanabara
 0
 2
-0 20 11 9
 0 16 4 1
+0 20 11 9
 1
 end_operator
 begin_operator
 feast satiety shrimp potato bosnia alsace
 0
 2
-0 20 11 9
 0 16 0 2
+0 20 11 9
 1
 end_operator
 begin_operator
 feast satiety shrimp potato goias bavaria
 0
 2
-0 20 11 9
 0 16 1 3
+0 20 11 9
 1
 end_operator
 begin_operator
 feast satiety shrimp potato guanabara bosnia
 0
 2
-0 20 11 9
 0 16 2 4
+0 20 11 9
 1
 end_operator
 begin_operator
 feast satiety shrimp turkey bavaria guanabara
 0
 2
-0 20 11 12
 0 16 4 1
+0 20 11 12
 1
 end_operator
 begin_operator
 feast satiety shrimp turkey bosnia alsace
 0
 2
-0 20 11 12
 0 16 0 2
+0 20 11 12
 1
 end_operator
 begin_operator
 feast satiety shrimp turkey goias bavaria
 0
 2
-0 20 11 12
 0 16 1 3
+0 20 11 12
 1
 end_operator
 begin_operator
 feast satiety shrimp turkey guanabara bosnia
 0
 2
-0 20 11 12
 0 16 2 4
+0 20 11 12
 1
 end_operator
 begin_operator
 feast satiety turkey haroset goias bavaria
 0
 2
-0 20 12 4
 0 0 0 1
+0 20 12 4
 1
 end_operator
 begin_operator
 feast satiety turkey shrimp goias bavaria
 0
 2
-0 20 12 11
 0 0 0 1
+0 20 12 11
 1
 end_operator
 begin_operator
 feast satiety wonderbread arugula bavaria guanabara
 0
 2
-0 20 13 0
 0 18 4 1
+0 20 13 0
 1
 end_operator
 begin_operator
 feast satiety wonderbread arugula bosnia alsace
 0
 2
-0 20 13 0
 0 18 0 2
+0 20 13 0
 1
 end_operator
 begin_operator
 feast satiety wonderbread arugula goias bavaria
 0
 2
-0 20 13 0
 0 18 1 3
+0 20 13 0
 1
 end_operator
 begin_operator
 feast satiety wonderbread arugula guanabara bosnia
 0
 2
-0 20 13 0
 0 18 2 4
+0 20 13 0
 1
 end_operator
 begin_operator
 feast satiety wonderbread ham bavaria guanabara
 0
 2
-0 20 13 3
 0 18 4 1
+0 20 13 3
 1
 end_operator
 begin_operator
 feast satiety wonderbread ham bosnia alsace
 0
 2
-0 20 13 3
 0 18 0 2
+0 20 13 3
 1
 end_operator
 begin_operator
 feast satiety wonderbread ham goias bavaria
 0
 2
-0 20 13 3
 0 18 1 3
+0 20 13 3
 1
 end_operator
 begin_operator
 feast satiety wonderbread ham guanabara bosnia
 0
 2
-0 20 13 3
 0 18 2 4
+0 20 13 3
 1
 end_operator
 begin_operator
 feast satiety wonderbread yogurt bavaria guanabara
 0
 2
-0 20 13 15
 0 18 4 1
+0 20 13 15
 1
 end_operator
 begin_operator
 feast satiety wonderbread yogurt bosnia alsace
 0
 2
-0 20 13 15
 0 18 0 2
+0 20 13 15
 1
 end_operator
 begin_operator
 feast satiety wonderbread yogurt goias bavaria
 0
 2
-0 20 13 15
 0 18 1 3
+0 20 13 15
 1
 end_operator
 begin_operator
 feast satiety wonderbread yogurt guanabara bosnia
 0
 2
-0 20 13 15
 0 18 2 4
+0 20 13 15
 1
 end_operator
 begin_operator
 feast satiety yogurt potato bavaria guanabara
 0
 2
-0 20 15 9
 0 4 3 0
+0 20 15 9
 1
 end_operator
 begin_operator
 feast satiety yogurt potato goias bavaria
 0
 2
-0 20 15 9
 0 4 0 2
+0 20 15 9
 1
 end_operator
 begin_operator
 feast satiety yogurt potato guanabara bosnia
 0
 2
-0 20 15 9
 0 4 1 3
+0 20 15 9
 1
 end_operator
 begin_operator
 feast satiety yogurt wonderbread bavaria guanabara
 0
 2
-0 20 15 13
 0 4 3 0
+0 20 15 13
 1
 end_operator
 begin_operator
 feast satiety yogurt wonderbread goias bavaria
 0
 2
-0 20 15 13
 0 4 0 2
+0 20 15 13
 1
 end_operator
 begin_operator
 feast satiety yogurt wonderbread guanabara bosnia
 0
 2
-0 20 15 13
 0 4 1 3
+0 20 15 13
 1
 end_operator
 begin_operator
 feast satisfaction arugula potato alsace surrey
 0
 2
-0 21 0 9
 0 8 5 0
+0 21 0 9
 1
 end_operator
 begin_operator
 feast satisfaction arugula potato bavaria guanabara
 0
 2
-0 21 0 9
 0 8 4 1
+0 21 0 9
 1
 end_operator
 begin_operator
 feast satisfaction arugula potato bosnia alsace
 0
 2
-0 21 0 9
 0 8 0 2
+0 21 0 9
 1
 end_operator
 begin_operator
 feast satisfaction arugula potato goias bavaria
 0
 2
-0 21 0 9
 0 8 1 3
+0 21 0 9
 1
 end_operator
 begin_operator
 feast satisfaction arugula potato guanabara bosnia
 0
 2
-0 21 0 9
 0 8 2 4
+0 21 0 9
 1
 end_operator
 begin_operator
 feast satisfaction arugula wonderbread alsace surrey
 0
 2
-0 21 0 13
 0 8 5 0
+0 21 0 13
 1
 end_operator
 begin_operator
 feast satisfaction arugula wonderbread bavaria guanabara
 0
 2
-0 21 0 13
 0 8 4 1
+0 21 0 13
 1
 end_operator
 begin_operator
 feast satisfaction arugula wonderbread bosnia alsace
 0
 2
-0 21 0 13
 0 8 0 2
+0 21 0 13
 1
 end_operator
 begin_operator
 feast satisfaction arugula wonderbread goias bavaria
 0
 2
-0 21 0 13
 0 8 1 3
+0 21 0 13
 1
 end_operator
 begin_operator
 feast satisfaction arugula wonderbread guanabara bosnia
 0
 2
-0 21 0 13
 0 8 2 4
+0 21 0 13
 1
 end_operator
 begin_operator
 feast satisfaction cherry endive bavaria guanabara
 0
 2
-0 21 1 2
 0 10 4 1
+0 21 1 2
 1
 end_operator
 begin_operator
 feast satisfaction cherry endive bosnia alsace
 0
 2
-0 21 1 2
 0 10 0 2
+0 21 1 2
 1
 end_operator
 begin_operator
 feast satisfaction cherry endive goias bavaria
 0
 2
-0 21 1 2
 0 10 1 3
+0 21 1 2
 1
 end_operator
 begin_operator
 feast satisfaction cherry endive guanabara bosnia
 0
 2
-0 21 1 2
 0 10 2 4
+0 21 1 2
 1
 end_operator
 begin_operator
 feast satisfaction cherry marzipan bavaria guanabara
 0
 2
-0 21 1 5
 0 10 4 1
+0 21 1 5
 1
 end_operator
 begin_operator
 feast satisfaction cherry marzipan bosnia alsace
 0
 2
-0 21 1 5
 0 10 0 2
+0 21 1 5
 1
 end_operator
 begin_operator
 feast satisfaction cherry marzipan goias bavaria
 0
 2
-0 21 1 5
 0 10 1 3
+0 21 1 5
 1
 end_operator
 begin_operator
 feast satisfaction cherry marzipan guanabara bosnia
 0
 2
-0 21 1 5
 0 10 2 4
+0 21 1 5
 1
 end_operator
 begin_operator
 feast satisfaction cherry rice bavaria guanabara
 0
 2
-0 21 1 10
 0 10 4 1
+0 21 1 10
 1
 end_operator
 begin_operator
 feast satisfaction cherry rice bosnia alsace
 0
 2
-0 21 1 10
 0 10 0 2
+0 21 1 10
 1
 end_operator
 begin_operator
 feast satisfaction cherry rice goias bavaria
 0
 2
-0 21 1 10
 0 10 1 3
+0 21 1 10
 1
 end_operator
 begin_operator
 feast satisfaction cherry rice guanabara bosnia
 0
 2
-0 21 1 10
 0 10 2 4
+0 21 1 10
 1
 end_operator
 begin_operator
 feast satisfaction endive cherry bavaria guanabara
 0
 2
-0 21 2 1
 0 5 4 1
+0 21 2 1
 1
 end_operator
 begin_operator
 feast satisfaction endive cherry bosnia alsace
 0
 2
-0 21 2 1
 0 5 0 2
+0 21 2 1
 1
 end_operator
 begin_operator
 feast satisfaction endive cherry goias bavaria
 0
 2
-0 21 2 1
 0 5 1 3
+0 21 2 1
 1
 end_operator
 begin_operator
 feast satisfaction endive cherry guanabara bosnia
 0
 2
-0 21 2 1
 0 5 2 4
+0 21 2 1
 1
 end_operator
 begin_operator
 feast satisfaction endive wurst bavaria guanabara
 0
 2
-0 21 2 14
 0 5 4 1
+0 21 2 14
 1
 end_operator
 begin_operator
 feast satisfaction endive wurst bosnia alsace
 0
 2
-0 21 2 14
 0 5 0 2
+0 21 2 14
 1
 end_operator
 begin_operator
 feast satisfaction endive wurst goias bavaria
 0
 2
-0 21 2 14
 0 5 1 3
+0 21 2 14
 1
 end_operator
 begin_operator
 feast satisfaction endive wurst guanabara bosnia
 0
 2
-0 21 2 14
 0 5 2 4
+0 21 2 14
 1
 end_operator
 begin_operator
 feast satisfaction ham mutton bavaria guanabara
 0
 2
-0 21 3 6
 0 3 2 0
+0 21 3 6
 1
 end_operator
 begin_operator
 feast satisfaction ham mutton goias bavaria
 0
 2
-0 21 3 6
 0 3 0 1
+0 21 3 6
 1
 end_operator
 begin_operator
 feast satisfaction ham onion bavaria guanabara
 0
 2
-0 21 3 7
 0 3 2 0
+0 21 3 7
 1
 end_operator
 begin_operator
 feast satisfaction ham onion goias bavaria
 0
 2
-0 21 3 7
 0 3 0 1
+0 21 3 7
 1
 end_operator
 begin_operator
 feast satisfaction ham wonderbread bavaria guanabara
 0
 2
-0 21 3 13
 0 3 2 0
+0 21 3 13
 1
 end_operator
 begin_operator
 feast satisfaction ham wonderbread goias bavaria
 0
 2
-0 21 3 13
 0 3 0 1
+0 21 3 13
 1
 end_operator
 begin_operator
 feast satisfaction haroset marzipan bavaria guanabara
 0
 2
-0 21 4 5
 0 1 2 0
+0 21 4 5
 1
 end_operator
 begin_operator
 feast satisfaction haroset marzipan goias bavaria
 0
 2
-0 21 4 5
 0 1 0 1
+0 21 4 5
 1
 end_operator
 begin_operator
 feast satisfaction haroset turkey bavaria guanabara
 0
 2
-0 21 4 12
 0 1 2 0
+0 21 4 12
 1
 end_operator
 begin_operator
 feast satisfaction haroset turkey goias bavaria
 0
 2
-0 21 4 12
 0 1 0 1
+0 21 4 12
 1
 end_operator
 begin_operator
@@ -9531,616 +9531,616 @@ begin_operator
 feast satisfaction mutton ham bavaria guanabara
 0
 2
-0 21 6 3
 0 2 2 0
+0 21 6 3
 1
 end_operator
 begin_operator
 feast satisfaction mutton ham goias bavaria
 0
 2
-0 21 6 3
 0 2 0 1
+0 21 6 3
 1
 end_operator
 begin_operator
 feast satisfaction mutton marzipan bavaria guanabara
 0
 2
-0 21 6 5
 0 2 2 0
+0 21 6 5
 1
 end_operator
 begin_operator
 feast satisfaction mutton marzipan goias bavaria
 0
 2
-0 21 6 5
 0 2 0 1
+0 21 6 5
 1
 end_operator
 begin_operator
 feast satisfaction onion ham bavaria guanabara
 0
 2
-0 21 7 3
 0 12 4 1
+0 21 7 3
 1
 end_operator
 begin_operator
 feast satisfaction onion ham bosnia alsace
 0
 2
-0 21 7 3
 0 12 0 2
+0 21 7 3
 1
 end_operator
 begin_operator
 feast satisfaction onion ham goias bavaria
 0
 2
-0 21 7 3
 0 12 1 3
+0 21 7 3
 1
 end_operator
 begin_operator
 feast satisfaction onion ham guanabara bosnia
 0
 2
-0 21 7 3
 0 12 2 4
+0 21 7 3
 1
 end_operator
 begin_operator
 feast satisfaction onion marzipan bavaria guanabara
 0
 2
-0 21 7 5
 0 12 4 1
+0 21 7 5
 1
 end_operator
 begin_operator
 feast satisfaction onion marzipan bosnia alsace
 0
 2
-0 21 7 5
 0 12 0 2
+0 21 7 5
 1
 end_operator
 begin_operator
 feast satisfaction onion marzipan goias bavaria
 0
 2
-0 21 7 5
 0 12 1 3
+0 21 7 5
 1
 end_operator
 begin_operator
 feast satisfaction onion marzipan guanabara bosnia
 0
 2
-0 21 7 5
 0 12 2 4
+0 21 7 5
 1
 end_operator
 begin_operator
 feast satisfaction onion shrimp bavaria guanabara
 0
 2
-0 21 7 11
 0 12 4 1
+0 21 7 11
 1
 end_operator
 begin_operator
 feast satisfaction onion shrimp bosnia alsace
 0
 2
-0 21 7 11
 0 12 0 2
+0 21 7 11
 1
 end_operator
 begin_operator
 feast satisfaction onion shrimp goias bavaria
 0
 2
-0 21 7 11
 0 12 1 3
+0 21 7 11
 1
 end_operator
 begin_operator
 feast satisfaction onion shrimp guanabara bosnia
 0
 2
-0 21 7 11
 0 12 2 4
+0 21 7 11
 1
 end_operator
 begin_operator
 feast satisfaction papaya rice bavaria guanabara
 0
 2
-0 21 8 10
 0 6 4 1
+0 21 8 10
 1
 end_operator
 begin_operator
 feast satisfaction papaya rice bosnia alsace
 0
 2
-0 21 8 10
 0 6 0 2
+0 21 8 10
 1
 end_operator
 begin_operator
 feast satisfaction papaya rice goias bavaria
 0
 2
-0 21 8 10
 0 6 1 3
+0 21 8 10
 1
 end_operator
 begin_operator
 feast satisfaction papaya rice guanabara bosnia
 0
 2
-0 21 8 10
 0 6 2 4
+0 21 8 10
 1
 end_operator
 begin_operator
 feast satisfaction papaya wurst bavaria guanabara
 0
 2
-0 21 8 14
 0 6 4 1
+0 21 8 14
 1
 end_operator
 begin_operator
 feast satisfaction papaya wurst bosnia alsace
 0
 2
-0 21 8 14
 0 6 0 2
+0 21 8 14
 1
 end_operator
 begin_operator
 feast satisfaction papaya wurst goias bavaria
 0
 2
-0 21 8 14
 0 6 1 3
+0 21 8 14
 1
 end_operator
 begin_operator
 feast satisfaction papaya wurst guanabara bosnia
 0
 2
-0 21 8 14
 0 6 2 4
+0 21 8 14
 1
 end_operator
 begin_operator
 feast satisfaction potato arugula bavaria guanabara
 0
 2
-0 21 9 0
 0 7 3 0
+0 21 9 0
 1
 end_operator
 begin_operator
 feast satisfaction potato arugula goias bavaria
 0
 2
-0 21 9 0
 0 7 0 2
+0 21 9 0
 1
 end_operator
 begin_operator
 feast satisfaction potato arugula guanabara bosnia
 0
 2
-0 21 9 0
 0 7 1 3
+0 21 9 0
 1
 end_operator
 begin_operator
 feast satisfaction potato shrimp bavaria guanabara
 0
 2
-0 21 9 11
 0 7 3 0
+0 21 9 11
 1
 end_operator
 begin_operator
 feast satisfaction potato shrimp goias bavaria
 0
 2
-0 21 9 11
 0 7 0 2
+0 21 9 11
 1
 end_operator
 begin_operator
 feast satisfaction potato shrimp guanabara bosnia
 0
 2
-0 21 9 11
 0 7 1 3
+0 21 9 11
 1
 end_operator
 begin_operator
 feast satisfaction potato yogurt bavaria guanabara
 0
 2
-0 21 9 15
 0 7 3 0
+0 21 9 15
 1
 end_operator
 begin_operator
 feast satisfaction potato yogurt goias bavaria
 0
 2
-0 21 9 15
 0 7 0 2
+0 21 9 15
 1
 end_operator
 begin_operator
 feast satisfaction potato yogurt guanabara bosnia
 0
 2
-0 21 9 15
 0 7 1 3
+0 21 9 15
 1
 end_operator
 begin_operator
 feast satisfaction rice cherry bavaria guanabara
 0
 2
-0 21 10 1
 0 14 4 1
+0 21 10 1
 1
 end_operator
 begin_operator
 feast satisfaction rice cherry bosnia alsace
 0
 2
-0 21 10 1
 0 14 0 2
+0 21 10 1
 1
 end_operator
 begin_operator
 feast satisfaction rice cherry goias bavaria
 0
 2
-0 21 10 1
 0 14 1 3
+0 21 10 1
 1
 end_operator
 begin_operator
 feast satisfaction rice cherry guanabara bosnia
 0
 2
-0 21 10 1
 0 14 2 4
+0 21 10 1
 1
 end_operator
 begin_operator
 feast satisfaction rice marzipan bavaria guanabara
 0
 2
-0 21 10 5
 0 14 4 1
+0 21 10 5
 1
 end_operator
 begin_operator
 feast satisfaction rice marzipan bosnia alsace
 0
 2
-0 21 10 5
 0 14 0 2
+0 21 10 5
 1
 end_operator
 begin_operator
 feast satisfaction rice marzipan goias bavaria
 0
 2
-0 21 10 5
 0 14 1 3
+0 21 10 5
 1
 end_operator
 begin_operator
 feast satisfaction rice marzipan guanabara bosnia
 0
 2
-0 21 10 5
 0 14 2 4
+0 21 10 5
 1
 end_operator
 begin_operator
 feast satisfaction rice papaya bavaria guanabara
 0
 2
-0 21 10 8
 0 14 4 1
+0 21 10 8
 1
 end_operator
 begin_operator
 feast satisfaction rice papaya bosnia alsace
 0
 2
-0 21 10 8
 0 14 0 2
+0 21 10 8
 1
 end_operator
 begin_operator
 feast satisfaction rice papaya goias bavaria
 0
 2
-0 21 10 8
 0 14 1 3
+0 21 10 8
 1
 end_operator
 begin_operator
 feast satisfaction rice papaya guanabara bosnia
 0
 2
-0 21 10 8
 0 14 2 4
+0 21 10 8
 1
 end_operator
 begin_operator
 feast satisfaction shrimp onion bavaria guanabara
 0
 2
-0 21 11 7
 0 16 4 1
+0 21 11 7
 1
 end_operator
 begin_operator
 feast satisfaction shrimp onion bosnia alsace
 0
 2
-0 21 11 7
 0 16 0 2
+0 21 11 7
 1
 end_operator
 begin_operator
 feast satisfaction shrimp onion goias bavaria
 0
 2
-0 21 11 7
 0 16 1 3
+0 21 11 7
 1
 end_operator
 begin_operator
 feast satisfaction shrimp onion guanabara bosnia
 0
 2
-0 21 11 7
 0 16 2 4
+0 21 11 7
 1
 end_operator
 begin_operator
 feast satisfaction shrimp potato bavaria guanabara
 0
 2
-0 21 11 9
 0 16 4 1
+0 21 11 9
 1
 end_operator
 begin_operator
 feast satisfaction shrimp potato bosnia alsace
 0
 2
-0 21 11 9
 0 16 0 2
+0 21 11 9
 1
 end_operator
 begin_operator
 feast satisfaction shrimp potato goias bavaria
 0
 2
-0 21 11 9
 0 16 1 3
+0 21 11 9
 1
 end_operator
 begin_operator
 feast satisfaction shrimp potato guanabara bosnia
 0
 2
-0 21 11 9
 0 16 2 4
+0 21 11 9
 1
 end_operator
 begin_operator
 feast satisfaction shrimp turkey bavaria guanabara
 0
 2
-0 21 11 12
 0 16 4 1
+0 21 11 12
 1
 end_operator
 begin_operator
 feast satisfaction shrimp turkey bosnia alsace
 0
 2
-0 21 11 12
 0 16 0 2
+0 21 11 12
 1
 end_operator
 begin_operator
 feast satisfaction shrimp turkey goias bavaria
 0
 2
-0 21 11 12
 0 16 1 3
+0 21 11 12
 1
 end_operator
 begin_operator
 feast satisfaction shrimp turkey guanabara bosnia
 0
 2
-0 21 11 12
 0 16 2 4
+0 21 11 12
 1
 end_operator
 begin_operator
 feast satisfaction turkey haroset goias bavaria
 0
 2
-0 21 12 4
 0 0 0 1
+0 21 12 4
 1
 end_operator
 begin_operator
 feast satisfaction turkey shrimp goias bavaria
 0
 2
-0 21 12 11
 0 0 0 1
+0 21 12 11
 1
 end_operator
 begin_operator
 feast satisfaction wonderbread arugula bavaria guanabara
 0
 2
-0 21 13 0
 0 18 4 1
+0 21 13 0
 1
 end_operator
 begin_operator
 feast satisfaction wonderbread arugula bosnia alsace
 0
 2
-0 21 13 0
 0 18 0 2
+0 21 13 0
 1
 end_operator
 begin_operator
 feast satisfaction wonderbread arugula goias bavaria
 0
 2
-0 21 13 0
 0 18 1 3
+0 21 13 0
 1
 end_operator
 begin_operator
 feast satisfaction wonderbread arugula guanabara bosnia
 0
 2
-0 21 13 0
 0 18 2 4
+0 21 13 0
 1
 end_operator
 begin_operator
 feast satisfaction wonderbread ham bavaria guanabara
 0
 2
-0 21 13 3
 0 18 4 1
+0 21 13 3
 1
 end_operator
 begin_operator
 feast satisfaction wonderbread ham bosnia alsace
 0
 2
-0 21 13 3
 0 18 0 2
+0 21 13 3
 1
 end_operator
 begin_operator
 feast satisfaction wonderbread ham goias bavaria
 0
 2
-0 21 13 3
 0 18 1 3
+0 21 13 3
 1
 end_operator
 begin_operator
 feast satisfaction wonderbread ham guanabara bosnia
 0
 2
-0 21 13 3
 0 18 2 4
+0 21 13 3
 1
 end_operator
 begin_operator
 feast satisfaction wonderbread yogurt bavaria guanabara
 0
 2
-0 21 13 15
 0 18 4 1
+0 21 13 15
 1
 end_operator
 begin_operator
 feast satisfaction wonderbread yogurt bosnia alsace
 0
 2
-0 21 13 15
 0 18 0 2
+0 21 13 15
 1
 end_operator
 begin_operator
 feast satisfaction wonderbread yogurt goias bavaria
 0
 2
-0 21 13 15
 0 18 1 3
+0 21 13 15
 1
 end_operator
 begin_operator
 feast satisfaction wonderbread yogurt guanabara bosnia
 0
 2
-0 21 13 15
 0 18 2 4
+0 21 13 15
 1
 end_operator
 begin_operator
 feast satisfaction yogurt potato bavaria guanabara
 0
 2
-0 21 15 9
 0 4 3 0
+0 21 15 9
 1
 end_operator
 begin_operator
 feast satisfaction yogurt potato goias bavaria
 0
 2
-0 21 15 9
 0 4 0 2
+0 21 15 9
 1
 end_operator
 begin_operator
 feast satisfaction yogurt potato guanabara bosnia
 0
 2
-0 21 15 9
 0 4 1 3
+0 21 15 9
 1
 end_operator
 begin_operator
 feast satisfaction yogurt wonderbread bavaria guanabara
 0
 2
-0 21 15 13
 0 4 3 0
+0 21 15 13
 1
 end_operator
 begin_operator
 feast satisfaction yogurt wonderbread goias bavaria
 0
 2
-0 21 15 13
 0 4 0 2
+0 21 15 13
 1
 end_operator
 begin_operator
 feast satisfaction yogurt wonderbread guanabara bosnia
 0
 2
-0 21 15 13
 0 4 1 3
+0 21 15 13
 1
 end_operator
 begin_operator
@@ -10148,8 +10148,8 @@ overcome abrasion achievement arugula earth uranus
 1
 9 0
 2
-0 51 0 16
 0 37 3 0
+0 51 0 16
 1
 end_operator
 begin_operator
@@ -10157,8 +10157,8 @@ overcome abrasion achievement arugula mercury saturn
 1
 9 0
 2
-0 51 0 16
 0 37 2 1
+0 51 0 16
 1
 end_operator
 begin_operator
@@ -10166,8 +10166,8 @@ overcome abrasion achievement arugula saturn earth
 1
 9 0
 2
-0 51 0 16
 0 37 0 2
+0 51 0 16
 1
 end_operator
 begin_operator
@@ -10175,8 +10175,8 @@ overcome abrasion achievement cherry earth uranus
 1
 9 1
 2
-0 51 1 16
 0 37 3 0
+0 51 1 16
 1
 end_operator
 begin_operator
@@ -10184,8 +10184,8 @@ overcome abrasion achievement cherry mercury saturn
 1
 9 1
 2
-0 51 1 16
 0 37 2 1
+0 51 1 16
 1
 end_operator
 begin_operator
@@ -10193,8 +10193,8 @@ overcome abrasion achievement cherry saturn earth
 1
 9 1
 2
-0 51 1 16
 0 37 0 2
+0 51 1 16
 1
 end_operator
 begin_operator
@@ -10202,8 +10202,8 @@ overcome abrasion achievement endive earth uranus
 1
 9 2
 2
-0 51 2 16
 0 37 3 0
+0 51 2 16
 1
 end_operator
 begin_operator
@@ -10211,8 +10211,8 @@ overcome abrasion achievement endive mercury saturn
 1
 9 2
 2
-0 51 2 16
 0 37 2 1
+0 51 2 16
 1
 end_operator
 begin_operator
@@ -10220,8 +10220,8 @@ overcome abrasion achievement endive saturn earth
 1
 9 2
 2
-0 51 2 16
 0 37 0 2
+0 51 2 16
 1
 end_operator
 begin_operator
@@ -10229,8 +10229,8 @@ overcome abrasion achievement ham earth uranus
 1
 9 3
 2
-0 51 3 16
 0 37 3 0
+0 51 3 16
 1
 end_operator
 begin_operator
@@ -10238,8 +10238,8 @@ overcome abrasion achievement ham mercury saturn
 1
 9 3
 2
-0 51 3 16
 0 37 2 1
+0 51 3 16
 1
 end_operator
 begin_operator
@@ -10247,8 +10247,8 @@ overcome abrasion achievement ham saturn earth
 1
 9 3
 2
-0 51 3 16
 0 37 0 2
+0 51 3 16
 1
 end_operator
 begin_operator
@@ -10256,8 +10256,8 @@ overcome abrasion achievement haroset earth uranus
 1
 9 4
 2
-0 51 4 16
 0 37 3 0
+0 51 4 16
 1
 end_operator
 begin_operator
@@ -10265,8 +10265,8 @@ overcome abrasion achievement haroset mercury saturn
 1
 9 4
 2
-0 51 4 16
 0 37 2 1
+0 51 4 16
 1
 end_operator
 begin_operator
@@ -10274,8 +10274,8 @@ overcome abrasion achievement haroset saturn earth
 1
 9 4
 2
-0 51 4 16
 0 37 0 2
+0 51 4 16
 1
 end_operator
 begin_operator
@@ -10283,8 +10283,8 @@ overcome abrasion achievement marzipan earth uranus
 1
 9 5
 2
-0 51 5 16
 0 37 3 0
+0 51 5 16
 1
 end_operator
 begin_operator
@@ -10292,8 +10292,8 @@ overcome abrasion achievement marzipan mercury saturn
 1
 9 5
 2
-0 51 5 16
 0 37 2 1
+0 51 5 16
 1
 end_operator
 begin_operator
@@ -10301,8 +10301,8 @@ overcome abrasion achievement marzipan saturn earth
 1
 9 5
 2
-0 51 5 16
 0 37 0 2
+0 51 5 16
 1
 end_operator
 begin_operator
@@ -10310,8 +10310,8 @@ overcome abrasion achievement mutton earth uranus
 1
 9 6
 2
-0 51 6 16
 0 37 3 0
+0 51 6 16
 1
 end_operator
 begin_operator
@@ -10319,8 +10319,8 @@ overcome abrasion achievement mutton mercury saturn
 1
 9 6
 2
-0 51 6 16
 0 37 2 1
+0 51 6 16
 1
 end_operator
 begin_operator
@@ -10328,8 +10328,8 @@ overcome abrasion achievement mutton saturn earth
 1
 9 6
 2
-0 51 6 16
 0 37 0 2
+0 51 6 16
 1
 end_operator
 begin_operator
@@ -10337,8 +10337,8 @@ overcome abrasion achievement onion earth uranus
 1
 9 7
 2
-0 51 7 16
 0 37 3 0
+0 51 7 16
 1
 end_operator
 begin_operator
@@ -10346,8 +10346,8 @@ overcome abrasion achievement onion mercury saturn
 1
 9 7
 2
-0 51 7 16
 0 37 2 1
+0 51 7 16
 1
 end_operator
 begin_operator
@@ -10355,8 +10355,8 @@ overcome abrasion achievement onion saturn earth
 1
 9 7
 2
-0 51 7 16
 0 37 0 2
+0 51 7 16
 1
 end_operator
 begin_operator
@@ -10364,8 +10364,8 @@ overcome abrasion achievement papaya earth uranus
 1
 9 8
 2
-0 51 8 16
 0 37 3 0
+0 51 8 16
 1
 end_operator
 begin_operator
@@ -10373,8 +10373,8 @@ overcome abrasion achievement papaya mercury saturn
 1
 9 8
 2
-0 51 8 16
 0 37 2 1
+0 51 8 16
 1
 end_operator
 begin_operator
@@ -10382,8 +10382,8 @@ overcome abrasion achievement papaya saturn earth
 1
 9 8
 2
-0 51 8 16
 0 37 0 2
+0 51 8 16
 1
 end_operator
 begin_operator
@@ -10391,8 +10391,8 @@ overcome abrasion achievement potato earth uranus
 1
 9 9
 2
-0 51 9 16
 0 37 3 0
+0 51 9 16
 1
 end_operator
 begin_operator
@@ -10400,8 +10400,8 @@ overcome abrasion achievement potato mercury saturn
 1
 9 9
 2
-0 51 9 16
 0 37 2 1
+0 51 9 16
 1
 end_operator
 begin_operator
@@ -10409,8 +10409,8 @@ overcome abrasion achievement potato saturn earth
 1
 9 9
 2
-0 51 9 16
 0 37 0 2
+0 51 9 16
 1
 end_operator
 begin_operator
@@ -10418,8 +10418,8 @@ overcome abrasion achievement rice earth uranus
 1
 9 10
 2
-0 51 10 16
 0 37 3 0
+0 51 10 16
 1
 end_operator
 begin_operator
@@ -10427,8 +10427,8 @@ overcome abrasion achievement rice mercury saturn
 1
 9 10
 2
-0 51 10 16
 0 37 2 1
+0 51 10 16
 1
 end_operator
 begin_operator
@@ -10436,8 +10436,8 @@ overcome abrasion achievement rice saturn earth
 1
 9 10
 2
-0 51 10 16
 0 37 0 2
+0 51 10 16
 1
 end_operator
 begin_operator
@@ -10445,8 +10445,8 @@ overcome abrasion achievement shrimp earth uranus
 1
 9 11
 2
-0 51 11 16
 0 37 3 0
+0 51 11 16
 1
 end_operator
 begin_operator
@@ -10454,8 +10454,8 @@ overcome abrasion achievement shrimp mercury saturn
 1
 9 11
 2
-0 51 11 16
 0 37 2 1
+0 51 11 16
 1
 end_operator
 begin_operator
@@ -10463,8 +10463,8 @@ overcome abrasion achievement shrimp saturn earth
 1
 9 11
 2
-0 51 11 16
 0 37 0 2
+0 51 11 16
 1
 end_operator
 begin_operator
@@ -10472,8 +10472,8 @@ overcome abrasion achievement turkey earth uranus
 1
 9 12
 2
-0 51 12 16
 0 37 3 0
+0 51 12 16
 1
 end_operator
 begin_operator
@@ -10481,8 +10481,8 @@ overcome abrasion achievement turkey mercury saturn
 1
 9 12
 2
-0 51 12 16
 0 37 2 1
+0 51 12 16
 1
 end_operator
 begin_operator
@@ -10490,8 +10490,8 @@ overcome abrasion achievement turkey saturn earth
 1
 9 12
 2
-0 51 12 16
 0 37 0 2
+0 51 12 16
 1
 end_operator
 begin_operator
@@ -10499,8 +10499,8 @@ overcome abrasion achievement wonderbread earth uranus
 1
 9 13
 2
-0 51 13 16
 0 37 3 0
+0 51 13 16
 1
 end_operator
 begin_operator
@@ -10508,8 +10508,8 @@ overcome abrasion achievement wonderbread mercury saturn
 1
 9 13
 2
-0 51 13 16
 0 37 2 1
+0 51 13 16
 1
 end_operator
 begin_operator
@@ -10517,8 +10517,8 @@ overcome abrasion achievement wonderbread saturn earth
 1
 9 13
 2
-0 51 13 16
 0 37 0 2
+0 51 13 16
 1
 end_operator
 begin_operator
@@ -10526,8 +10526,8 @@ overcome abrasion achievement wurst earth uranus
 1
 9 14
 2
-0 51 14 16
 0 37 3 0
+0 51 14 16
 1
 end_operator
 begin_operator
@@ -10535,8 +10535,8 @@ overcome abrasion achievement wurst mercury saturn
 1
 9 14
 2
-0 51 14 16
 0 37 2 1
+0 51 14 16
 1
 end_operator
 begin_operator
@@ -10544,8 +10544,8 @@ overcome abrasion achievement wurst saturn earth
 1
 9 14
 2
-0 51 14 16
 0 37 0 2
+0 51 14 16
 1
 end_operator
 begin_operator
@@ -10553,8 +10553,8 @@ overcome abrasion achievement yogurt earth uranus
 1
 9 15
 2
-0 51 15 16
 0 37 3 0
+0 51 15 16
 1
 end_operator
 begin_operator
@@ -10562,8 +10562,8 @@ overcome abrasion achievement yogurt mercury saturn
 1
 9 15
 2
-0 51 15 16
 0 37 2 1
+0 51 15 16
 1
 end_operator
 begin_operator
@@ -10571,32 +10571,32 @@ overcome abrasion achievement yogurt saturn earth
 1
 9 15
 2
-0 51 15 16
 0 37 0 2
+0 51 15 16
 1
 end_operator
 begin_operator
 overcome abrasion entertainment wurst earth uranus
 0
 2
-0 51 14 17
 0 23 3 0
+0 51 14 17
 1
 end_operator
 begin_operator
 overcome abrasion entertainment wurst mercury saturn
 0
 2
-0 51 14 17
 0 23 2 1
+0 51 14 17
 1
 end_operator
 begin_operator
 overcome abrasion entertainment wurst saturn earth
 0
 2
-0 51 14 17
 0 23 0 2
+0 51 14 17
 1
 end_operator
 begin_operator
@@ -10604,8 +10604,8 @@ overcome abrasion excitement arugula earth uranus
 1
 11 0
 2
-0 51 0 18
 0 38 3 0
+0 51 0 18
 1
 end_operator
 begin_operator
@@ -10613,8 +10613,8 @@ overcome abrasion excitement arugula mercury saturn
 1
 11 0
 2
-0 51 0 18
 0 38 2 1
+0 51 0 18
 1
 end_operator
 begin_operator
@@ -10622,8 +10622,8 @@ overcome abrasion excitement arugula saturn earth
 1
 11 0
 2
-0 51 0 18
 0 38 0 2
+0 51 0 18
 1
 end_operator
 begin_operator
@@ -10631,8 +10631,8 @@ overcome abrasion excitement cherry earth uranus
 1
 11 1
 2
-0 51 1 18
 0 38 3 0
+0 51 1 18
 1
 end_operator
 begin_operator
@@ -10640,8 +10640,8 @@ overcome abrasion excitement cherry mercury saturn
 1
 11 1
 2
-0 51 1 18
 0 38 2 1
+0 51 1 18
 1
 end_operator
 begin_operator
@@ -10649,8 +10649,8 @@ overcome abrasion excitement cherry saturn earth
 1
 11 1
 2
-0 51 1 18
 0 38 0 2
+0 51 1 18
 1
 end_operator
 begin_operator
@@ -10658,8 +10658,8 @@ overcome abrasion excitement endive earth uranus
 1
 11 2
 2
-0 51 2 18
 0 38 3 0
+0 51 2 18
 1
 end_operator
 begin_operator
@@ -10667,8 +10667,8 @@ overcome abrasion excitement endive mercury saturn
 1
 11 2
 2
-0 51 2 18
 0 38 2 1
+0 51 2 18
 1
 end_operator
 begin_operator
@@ -10676,8 +10676,8 @@ overcome abrasion excitement endive saturn earth
 1
 11 2
 2
-0 51 2 18
 0 38 0 2
+0 51 2 18
 1
 end_operator
 begin_operator
@@ -10685,8 +10685,8 @@ overcome abrasion excitement ham earth uranus
 1
 11 3
 2
-0 51 3 18
 0 38 3 0
+0 51 3 18
 1
 end_operator
 begin_operator
@@ -10694,8 +10694,8 @@ overcome abrasion excitement ham mercury saturn
 1
 11 3
 2
-0 51 3 18
 0 38 2 1
+0 51 3 18
 1
 end_operator
 begin_operator
@@ -10703,8 +10703,8 @@ overcome abrasion excitement ham saturn earth
 1
 11 3
 2
-0 51 3 18
 0 38 0 2
+0 51 3 18
 1
 end_operator
 begin_operator
@@ -10712,8 +10712,8 @@ overcome abrasion excitement haroset earth uranus
 1
 11 4
 2
-0 51 4 18
 0 38 3 0
+0 51 4 18
 1
 end_operator
 begin_operator
@@ -10721,8 +10721,8 @@ overcome abrasion excitement haroset mercury saturn
 1
 11 4
 2
-0 51 4 18
 0 38 2 1
+0 51 4 18
 1
 end_operator
 begin_operator
@@ -10730,8 +10730,8 @@ overcome abrasion excitement haroset saturn earth
 1
 11 4
 2
-0 51 4 18
 0 38 0 2
+0 51 4 18
 1
 end_operator
 begin_operator
@@ -10739,8 +10739,8 @@ overcome abrasion excitement marzipan earth uranus
 1
 11 5
 2
-0 51 5 18
 0 38 3 0
+0 51 5 18
 1
 end_operator
 begin_operator
@@ -10748,8 +10748,8 @@ overcome abrasion excitement marzipan mercury saturn
 1
 11 5
 2
-0 51 5 18
 0 38 2 1
+0 51 5 18
 1
 end_operator
 begin_operator
@@ -10757,8 +10757,8 @@ overcome abrasion excitement marzipan saturn earth
 1
 11 5
 2
-0 51 5 18
 0 38 0 2
+0 51 5 18
 1
 end_operator
 begin_operator
@@ -10766,8 +10766,8 @@ overcome abrasion excitement mutton earth uranus
 1
 11 6
 2
-0 51 6 18
 0 38 3 0
+0 51 6 18
 1
 end_operator
 begin_operator
@@ -10775,8 +10775,8 @@ overcome abrasion excitement mutton mercury saturn
 1
 11 6
 2
-0 51 6 18
 0 38 2 1
+0 51 6 18
 1
 end_operator
 begin_operator
@@ -10784,8 +10784,8 @@ overcome abrasion excitement mutton saturn earth
 1
 11 6
 2
-0 51 6 18
 0 38 0 2
+0 51 6 18
 1
 end_operator
 begin_operator
@@ -10793,8 +10793,8 @@ overcome abrasion excitement onion earth uranus
 1
 11 7
 2
-0 51 7 18
 0 38 3 0
+0 51 7 18
 1
 end_operator
 begin_operator
@@ -10802,8 +10802,8 @@ overcome abrasion excitement onion mercury saturn
 1
 11 7
 2
-0 51 7 18
 0 38 2 1
+0 51 7 18
 1
 end_operator
 begin_operator
@@ -10811,8 +10811,8 @@ overcome abrasion excitement onion saturn earth
 1
 11 7
 2
-0 51 7 18
 0 38 0 2
+0 51 7 18
 1
 end_operator
 begin_operator
@@ -10820,8 +10820,8 @@ overcome abrasion excitement papaya earth uranus
 1
 11 8
 2
-0 51 8 18
 0 38 3 0
+0 51 8 18
 1
 end_operator
 begin_operator
@@ -10829,8 +10829,8 @@ overcome abrasion excitement papaya mercury saturn
 1
 11 8
 2
-0 51 8 18
 0 38 2 1
+0 51 8 18
 1
 end_operator
 begin_operator
@@ -10838,8 +10838,8 @@ overcome abrasion excitement papaya saturn earth
 1
 11 8
 2
-0 51 8 18
 0 38 0 2
+0 51 8 18
 1
 end_operator
 begin_operator
@@ -10847,8 +10847,8 @@ overcome abrasion excitement potato earth uranus
 1
 11 9
 2
-0 51 9 18
 0 38 3 0
+0 51 9 18
 1
 end_operator
 begin_operator
@@ -10856,8 +10856,8 @@ overcome abrasion excitement potato mercury saturn
 1
 11 9
 2
-0 51 9 18
 0 38 2 1
+0 51 9 18
 1
 end_operator
 begin_operator
@@ -10865,8 +10865,8 @@ overcome abrasion excitement potato saturn earth
 1
 11 9
 2
-0 51 9 18
 0 38 0 2
+0 51 9 18
 1
 end_operator
 begin_operator
@@ -10874,8 +10874,8 @@ overcome abrasion excitement rice earth uranus
 1
 11 10
 2
-0 51 10 18
 0 38 3 0
+0 51 10 18
 1
 end_operator
 begin_operator
@@ -10883,8 +10883,8 @@ overcome abrasion excitement rice mercury saturn
 1
 11 10
 2
-0 51 10 18
 0 38 2 1
+0 51 10 18
 1
 end_operator
 begin_operator
@@ -10892,8 +10892,8 @@ overcome abrasion excitement rice saturn earth
 1
 11 10
 2
-0 51 10 18
 0 38 0 2
+0 51 10 18
 1
 end_operator
 begin_operator
@@ -10901,8 +10901,8 @@ overcome abrasion excitement shrimp earth uranus
 1
 11 11
 2
-0 51 11 18
 0 38 3 0
+0 51 11 18
 1
 end_operator
 begin_operator
@@ -10910,8 +10910,8 @@ overcome abrasion excitement shrimp mercury saturn
 1
 11 11
 2
-0 51 11 18
 0 38 2 1
+0 51 11 18
 1
 end_operator
 begin_operator
@@ -10919,8 +10919,8 @@ overcome abrasion excitement shrimp saturn earth
 1
 11 11
 2
-0 51 11 18
 0 38 0 2
+0 51 11 18
 1
 end_operator
 begin_operator
@@ -10928,8 +10928,8 @@ overcome abrasion excitement turkey earth uranus
 1
 11 12
 2
-0 51 12 18
 0 38 3 0
+0 51 12 18
 1
 end_operator
 begin_operator
@@ -10937,8 +10937,8 @@ overcome abrasion excitement turkey mercury saturn
 1
 11 12
 2
-0 51 12 18
 0 38 2 1
+0 51 12 18
 1
 end_operator
 begin_operator
@@ -10946,8 +10946,8 @@ overcome abrasion excitement turkey saturn earth
 1
 11 12
 2
-0 51 12 18
 0 38 0 2
+0 51 12 18
 1
 end_operator
 begin_operator
@@ -10955,8 +10955,8 @@ overcome abrasion excitement wonderbread earth uranus
 1
 11 13
 2
-0 51 13 18
 0 38 3 0
+0 51 13 18
 1
 end_operator
 begin_operator
@@ -10964,8 +10964,8 @@ overcome abrasion excitement wonderbread mercury saturn
 1
 11 13
 2
-0 51 13 18
 0 38 2 1
+0 51 13 18
 1
 end_operator
 begin_operator
@@ -10973,8 +10973,8 @@ overcome abrasion excitement wonderbread saturn earth
 1
 11 13
 2
-0 51 13 18
 0 38 0 2
+0 51 13 18
 1
 end_operator
 begin_operator
@@ -10982,8 +10982,8 @@ overcome abrasion excitement wurst earth uranus
 1
 11 14
 2
-0 51 14 18
 0 38 3 0
+0 51 14 18
 1
 end_operator
 begin_operator
@@ -10991,8 +10991,8 @@ overcome abrasion excitement wurst mercury saturn
 1
 11 14
 2
-0 51 14 18
 0 38 2 1
+0 51 14 18
 1
 end_operator
 begin_operator
@@ -11000,8 +11000,8 @@ overcome abrasion excitement wurst saturn earth
 1
 11 14
 2
-0 51 14 18
 0 38 0 2
+0 51 14 18
 1
 end_operator
 begin_operator
@@ -11009,8 +11009,8 @@ overcome abrasion excitement yogurt earth uranus
 1
 11 15
 2
-0 51 15 18
 0 38 3 0
+0 51 15 18
 1
 end_operator
 begin_operator
@@ -11018,8 +11018,8 @@ overcome abrasion excitement yogurt mercury saturn
 1
 11 15
 2
-0 51 15 18
 0 38 2 1
+0 51 15 18
 1
 end_operator
 begin_operator
@@ -11027,8 +11027,8 @@ overcome abrasion excitement yogurt saturn earth
 1
 11 15
 2
-0 51 15 18
 0 38 0 2
+0 51 15 18
 1
 end_operator
 begin_operator
@@ -11036,8 +11036,8 @@ overcome abrasion intoxication arugula earth uranus
 1
 13 0
 2
-0 51 0 19
 0 41 3 0
+0 51 0 19
 1
 end_operator
 begin_operator
@@ -11045,8 +11045,8 @@ overcome abrasion intoxication arugula mercury saturn
 1
 13 0
 2
-0 51 0 19
 0 41 2 1
+0 51 0 19
 1
 end_operator
 begin_operator
@@ -11054,8 +11054,8 @@ overcome abrasion intoxication arugula saturn earth
 1
 13 0
 2
-0 51 0 19
 0 41 0 2
+0 51 0 19
 1
 end_operator
 begin_operator
@@ -11063,8 +11063,8 @@ overcome abrasion intoxication cherry earth uranus
 1
 13 1
 2
-0 51 1 19
 0 41 3 0
+0 51 1 19
 1
 end_operator
 begin_operator
@@ -11072,8 +11072,8 @@ overcome abrasion intoxication cherry mercury saturn
 1
 13 1
 2
-0 51 1 19
 0 41 2 1
+0 51 1 19
 1
 end_operator
 begin_operator
@@ -11081,8 +11081,8 @@ overcome abrasion intoxication cherry saturn earth
 1
 13 1
 2
-0 51 1 19
 0 41 0 2
+0 51 1 19
 1
 end_operator
 begin_operator
@@ -11090,8 +11090,8 @@ overcome abrasion intoxication endive earth uranus
 1
 13 2
 2
-0 51 2 19
 0 41 3 0
+0 51 2 19
 1
 end_operator
 begin_operator
@@ -11099,8 +11099,8 @@ overcome abrasion intoxication endive mercury saturn
 1
 13 2
 2
-0 51 2 19
 0 41 2 1
+0 51 2 19
 1
 end_operator
 begin_operator
@@ -11108,8 +11108,8 @@ overcome abrasion intoxication endive saturn earth
 1
 13 2
 2
-0 51 2 19
 0 41 0 2
+0 51 2 19
 1
 end_operator
 begin_operator
@@ -11117,8 +11117,8 @@ overcome abrasion intoxication ham earth uranus
 1
 13 3
 2
-0 51 3 19
 0 41 3 0
+0 51 3 19
 1
 end_operator
 begin_operator
@@ -11126,8 +11126,8 @@ overcome abrasion intoxication ham mercury saturn
 1
 13 3
 2
-0 51 3 19
 0 41 2 1
+0 51 3 19
 1
 end_operator
 begin_operator
@@ -11135,8 +11135,8 @@ overcome abrasion intoxication ham saturn earth
 1
 13 3
 2
-0 51 3 19
 0 41 0 2
+0 51 3 19
 1
 end_operator
 begin_operator
@@ -11144,8 +11144,8 @@ overcome abrasion intoxication haroset earth uranus
 1
 13 4
 2
-0 51 4 19
 0 41 3 0
+0 51 4 19
 1
 end_operator
 begin_operator
@@ -11153,8 +11153,8 @@ overcome abrasion intoxication haroset mercury saturn
 1
 13 4
 2
-0 51 4 19
 0 41 2 1
+0 51 4 19
 1
 end_operator
 begin_operator
@@ -11162,8 +11162,8 @@ overcome abrasion intoxication haroset saturn earth
 1
 13 4
 2
-0 51 4 19
 0 41 0 2
+0 51 4 19
 1
 end_operator
 begin_operator
@@ -11171,8 +11171,8 @@ overcome abrasion intoxication marzipan earth uranus
 1
 13 5
 2
-0 51 5 19
 0 41 3 0
+0 51 5 19
 1
 end_operator
 begin_operator
@@ -11180,8 +11180,8 @@ overcome abrasion intoxication marzipan mercury saturn
 1
 13 5
 2
-0 51 5 19
 0 41 2 1
+0 51 5 19
 1
 end_operator
 begin_operator
@@ -11189,8 +11189,8 @@ overcome abrasion intoxication marzipan saturn earth
 1
 13 5
 2
-0 51 5 19
 0 41 0 2
+0 51 5 19
 1
 end_operator
 begin_operator
@@ -11198,8 +11198,8 @@ overcome abrasion intoxication mutton earth uranus
 1
 13 6
 2
-0 51 6 19
 0 41 3 0
+0 51 6 19
 1
 end_operator
 begin_operator
@@ -11207,8 +11207,8 @@ overcome abrasion intoxication mutton mercury saturn
 1
 13 6
 2
-0 51 6 19
 0 41 2 1
+0 51 6 19
 1
 end_operator
 begin_operator
@@ -11216,8 +11216,8 @@ overcome abrasion intoxication mutton saturn earth
 1
 13 6
 2
-0 51 6 19
 0 41 0 2
+0 51 6 19
 1
 end_operator
 begin_operator
@@ -11225,8 +11225,8 @@ overcome abrasion intoxication onion earth uranus
 1
 13 7
 2
-0 51 7 19
 0 41 3 0
+0 51 7 19
 1
 end_operator
 begin_operator
@@ -11234,8 +11234,8 @@ overcome abrasion intoxication onion mercury saturn
 1
 13 7
 2
-0 51 7 19
 0 41 2 1
+0 51 7 19
 1
 end_operator
 begin_operator
@@ -11243,8 +11243,8 @@ overcome abrasion intoxication onion saturn earth
 1
 13 7
 2
-0 51 7 19
 0 41 0 2
+0 51 7 19
 1
 end_operator
 begin_operator
@@ -11252,8 +11252,8 @@ overcome abrasion intoxication papaya earth uranus
 1
 13 8
 2
-0 51 8 19
 0 41 3 0
+0 51 8 19
 1
 end_operator
 begin_operator
@@ -11261,8 +11261,8 @@ overcome abrasion intoxication papaya mercury saturn
 1
 13 8
 2
-0 51 8 19
 0 41 2 1
+0 51 8 19
 1
 end_operator
 begin_operator
@@ -11270,8 +11270,8 @@ overcome abrasion intoxication papaya saturn earth
 1
 13 8
 2
-0 51 8 19
 0 41 0 2
+0 51 8 19
 1
 end_operator
 begin_operator
@@ -11279,8 +11279,8 @@ overcome abrasion intoxication potato earth uranus
 1
 13 9
 2
-0 51 9 19
 0 41 3 0
+0 51 9 19
 1
 end_operator
 begin_operator
@@ -11288,8 +11288,8 @@ overcome abrasion intoxication potato mercury saturn
 1
 13 9
 2
-0 51 9 19
 0 41 2 1
+0 51 9 19
 1
 end_operator
 begin_operator
@@ -11297,8 +11297,8 @@ overcome abrasion intoxication potato saturn earth
 1
 13 9
 2
-0 51 9 19
 0 41 0 2
+0 51 9 19
 1
 end_operator
 begin_operator
@@ -11306,8 +11306,8 @@ overcome abrasion intoxication rice earth uranus
 1
 13 10
 2
-0 51 10 19
 0 41 3 0
+0 51 10 19
 1
 end_operator
 begin_operator
@@ -11315,8 +11315,8 @@ overcome abrasion intoxication rice mercury saturn
 1
 13 10
 2
-0 51 10 19
 0 41 2 1
+0 51 10 19
 1
 end_operator
 begin_operator
@@ -11324,8 +11324,8 @@ overcome abrasion intoxication rice saturn earth
 1
 13 10
 2
-0 51 10 19
 0 41 0 2
+0 51 10 19
 1
 end_operator
 begin_operator
@@ -11333,8 +11333,8 @@ overcome abrasion intoxication shrimp earth uranus
 1
 13 11
 2
-0 51 11 19
 0 41 3 0
+0 51 11 19
 1
 end_operator
 begin_operator
@@ -11342,8 +11342,8 @@ overcome abrasion intoxication shrimp mercury saturn
 1
 13 11
 2
-0 51 11 19
 0 41 2 1
+0 51 11 19
 1
 end_operator
 begin_operator
@@ -11351,8 +11351,8 @@ overcome abrasion intoxication shrimp saturn earth
 1
 13 11
 2
-0 51 11 19
 0 41 0 2
+0 51 11 19
 1
 end_operator
 begin_operator
@@ -11360,8 +11360,8 @@ overcome abrasion intoxication turkey earth uranus
 1
 13 12
 2
-0 51 12 19
 0 41 3 0
+0 51 12 19
 1
 end_operator
 begin_operator
@@ -11369,8 +11369,8 @@ overcome abrasion intoxication turkey mercury saturn
 1
 13 12
 2
-0 51 12 19
 0 41 2 1
+0 51 12 19
 1
 end_operator
 begin_operator
@@ -11378,8 +11378,8 @@ overcome abrasion intoxication turkey saturn earth
 1
 13 12
 2
-0 51 12 19
 0 41 0 2
+0 51 12 19
 1
 end_operator
 begin_operator
@@ -11387,8 +11387,8 @@ overcome abrasion intoxication wonderbread earth uranus
 1
 13 13
 2
-0 51 13 19
 0 41 3 0
+0 51 13 19
 1
 end_operator
 begin_operator
@@ -11396,8 +11396,8 @@ overcome abrasion intoxication wonderbread mercury saturn
 1
 13 13
 2
-0 51 13 19
 0 41 2 1
+0 51 13 19
 1
 end_operator
 begin_operator
@@ -11405,8 +11405,8 @@ overcome abrasion intoxication wonderbread saturn earth
 1
 13 13
 2
-0 51 13 19
 0 41 0 2
+0 51 13 19
 1
 end_operator
 begin_operator
@@ -11414,8 +11414,8 @@ overcome abrasion intoxication wurst earth uranus
 1
 13 14
 2
-0 51 14 19
 0 41 3 0
+0 51 14 19
 1
 end_operator
 begin_operator
@@ -11423,8 +11423,8 @@ overcome abrasion intoxication wurst mercury saturn
 1
 13 14
 2
-0 51 14 19
 0 41 2 1
+0 51 14 19
 1
 end_operator
 begin_operator
@@ -11432,8 +11432,8 @@ overcome abrasion intoxication wurst saturn earth
 1
 13 14
 2
-0 51 14 19
 0 41 0 2
+0 51 14 19
 1
 end_operator
 begin_operator
@@ -11441,8 +11441,8 @@ overcome abrasion intoxication yogurt earth uranus
 1
 13 15
 2
-0 51 15 19
 0 41 3 0
+0 51 15 19
 1
 end_operator
 begin_operator
@@ -11450,8 +11450,8 @@ overcome abrasion intoxication yogurt mercury saturn
 1
 13 15
 2
-0 51 15 19
 0 41 2 1
+0 51 15 19
 1
 end_operator
 begin_operator
@@ -11459,8 +11459,8 @@ overcome abrasion intoxication yogurt saturn earth
 1
 13 15
 2
-0 51 15 19
 0 41 0 2
+0 51 15 19
 1
 end_operator
 begin_operator
@@ -11468,8 +11468,8 @@ overcome abrasion love arugula earth uranus
 1
 15 0
 2
-0 51 0 20
 0 42 3 0
+0 51 0 20
 1
 end_operator
 begin_operator
@@ -11477,8 +11477,8 @@ overcome abrasion love arugula mercury saturn
 1
 15 0
 2
-0 51 0 20
 0 42 2 1
+0 51 0 20
 1
 end_operator
 begin_operator
@@ -11486,8 +11486,8 @@ overcome abrasion love arugula saturn earth
 1
 15 0
 2
-0 51 0 20
 0 42 0 2
+0 51 0 20
 1
 end_operator
 begin_operator
@@ -11495,8 +11495,8 @@ overcome abrasion love cherry earth uranus
 1
 15 1
 2
-0 51 1 20
 0 42 3 0
+0 51 1 20
 1
 end_operator
 begin_operator
@@ -11504,8 +11504,8 @@ overcome abrasion love cherry mercury saturn
 1
 15 1
 2
-0 51 1 20
 0 42 2 1
+0 51 1 20
 1
 end_operator
 begin_operator
@@ -11513,8 +11513,8 @@ overcome abrasion love cherry saturn earth
 1
 15 1
 2
-0 51 1 20
 0 42 0 2
+0 51 1 20
 1
 end_operator
 begin_operator
@@ -11522,8 +11522,8 @@ overcome abrasion love endive earth uranus
 1
 15 2
 2
-0 51 2 20
 0 42 3 0
+0 51 2 20
 1
 end_operator
 begin_operator
@@ -11531,8 +11531,8 @@ overcome abrasion love endive mercury saturn
 1
 15 2
 2
-0 51 2 20
 0 42 2 1
+0 51 2 20
 1
 end_operator
 begin_operator
@@ -11540,8 +11540,8 @@ overcome abrasion love endive saturn earth
 1
 15 2
 2
-0 51 2 20
 0 42 0 2
+0 51 2 20
 1
 end_operator
 begin_operator
@@ -11549,8 +11549,8 @@ overcome abrasion love ham earth uranus
 1
 15 3
 2
-0 51 3 20
 0 42 3 0
+0 51 3 20
 1
 end_operator
 begin_operator
@@ -11558,8 +11558,8 @@ overcome abrasion love ham mercury saturn
 1
 15 3
 2
-0 51 3 20
 0 42 2 1
+0 51 3 20
 1
 end_operator
 begin_operator
@@ -11567,8 +11567,8 @@ overcome abrasion love ham saturn earth
 1
 15 3
 2
-0 51 3 20
 0 42 0 2
+0 51 3 20
 1
 end_operator
 begin_operator
@@ -11576,8 +11576,8 @@ overcome abrasion love haroset earth uranus
 1
 15 4
 2
-0 51 4 20
 0 42 3 0
+0 51 4 20
 1
 end_operator
 begin_operator
@@ -11585,8 +11585,8 @@ overcome abrasion love haroset mercury saturn
 1
 15 4
 2
-0 51 4 20
 0 42 2 1
+0 51 4 20
 1
 end_operator
 begin_operator
@@ -11594,8 +11594,8 @@ overcome abrasion love haroset saturn earth
 1
 15 4
 2
-0 51 4 20
 0 42 0 2
+0 51 4 20
 1
 end_operator
 begin_operator
@@ -11603,8 +11603,8 @@ overcome abrasion love marzipan earth uranus
 1
 15 5
 2
-0 51 5 20
 0 42 3 0
+0 51 5 20
 1
 end_operator
 begin_operator
@@ -11612,8 +11612,8 @@ overcome abrasion love marzipan mercury saturn
 1
 15 5
 2
-0 51 5 20
 0 42 2 1
+0 51 5 20
 1
 end_operator
 begin_operator
@@ -11621,8 +11621,8 @@ overcome abrasion love marzipan saturn earth
 1
 15 5
 2
-0 51 5 20
 0 42 0 2
+0 51 5 20
 1
 end_operator
 begin_operator
@@ -11630,8 +11630,8 @@ overcome abrasion love mutton earth uranus
 1
 15 6
 2
-0 51 6 20
 0 42 3 0
+0 51 6 20
 1
 end_operator
 begin_operator
@@ -11639,8 +11639,8 @@ overcome abrasion love mutton mercury saturn
 1
 15 6
 2
-0 51 6 20
 0 42 2 1
+0 51 6 20
 1
 end_operator
 begin_operator
@@ -11648,8 +11648,8 @@ overcome abrasion love mutton saturn earth
 1
 15 6
 2
-0 51 6 20
 0 42 0 2
+0 51 6 20
 1
 end_operator
 begin_operator
@@ -11657,8 +11657,8 @@ overcome abrasion love onion earth uranus
 1
 15 7
 2
-0 51 7 20
 0 42 3 0
+0 51 7 20
 1
 end_operator
 begin_operator
@@ -11666,8 +11666,8 @@ overcome abrasion love onion mercury saturn
 1
 15 7
 2
-0 51 7 20
 0 42 2 1
+0 51 7 20
 1
 end_operator
 begin_operator
@@ -11675,8 +11675,8 @@ overcome abrasion love onion saturn earth
 1
 15 7
 2
-0 51 7 20
 0 42 0 2
+0 51 7 20
 1
 end_operator
 begin_operator
@@ -11684,8 +11684,8 @@ overcome abrasion love papaya earth uranus
 1
 15 8
 2
-0 51 8 20
 0 42 3 0
+0 51 8 20
 1
 end_operator
 begin_operator
@@ -11693,8 +11693,8 @@ overcome abrasion love papaya mercury saturn
 1
 15 8
 2
-0 51 8 20
 0 42 2 1
+0 51 8 20
 1
 end_operator
 begin_operator
@@ -11702,8 +11702,8 @@ overcome abrasion love papaya saturn earth
 1
 15 8
 2
-0 51 8 20
 0 42 0 2
+0 51 8 20
 1
 end_operator
 begin_operator
@@ -11711,8 +11711,8 @@ overcome abrasion love potato earth uranus
 1
 15 9
 2
-0 51 9 20
 0 42 3 0
+0 51 9 20
 1
 end_operator
 begin_operator
@@ -11720,8 +11720,8 @@ overcome abrasion love potato mercury saturn
 1
 15 9
 2
-0 51 9 20
 0 42 2 1
+0 51 9 20
 1
 end_operator
 begin_operator
@@ -11729,8 +11729,8 @@ overcome abrasion love potato saturn earth
 1
 15 9
 2
-0 51 9 20
 0 42 0 2
+0 51 9 20
 1
 end_operator
 begin_operator
@@ -11738,8 +11738,8 @@ overcome abrasion love rice earth uranus
 1
 15 10
 2
-0 51 10 20
 0 42 3 0
+0 51 10 20
 1
 end_operator
 begin_operator
@@ -11747,8 +11747,8 @@ overcome abrasion love rice mercury saturn
 1
 15 10
 2
-0 51 10 20
 0 42 2 1
+0 51 10 20
 1
 end_operator
 begin_operator
@@ -11756,8 +11756,8 @@ overcome abrasion love rice saturn earth
 1
 15 10
 2
-0 51 10 20
 0 42 0 2
+0 51 10 20
 1
 end_operator
 begin_operator
@@ -11765,8 +11765,8 @@ overcome abrasion love shrimp earth uranus
 1
 15 11
 2
-0 51 11 20
 0 42 3 0
+0 51 11 20
 1
 end_operator
 begin_operator
@@ -11774,8 +11774,8 @@ overcome abrasion love shrimp mercury saturn
 1
 15 11
 2
-0 51 11 20
 0 42 2 1
+0 51 11 20
 1
 end_operator
 begin_operator
@@ -11783,8 +11783,8 @@ overcome abrasion love shrimp saturn earth
 1
 15 11
 2
-0 51 11 20
 0 42 0 2
+0 51 11 20
 1
 end_operator
 begin_operator
@@ -11792,8 +11792,8 @@ overcome abrasion love turkey earth uranus
 1
 15 12
 2
-0 51 12 20
 0 42 3 0
+0 51 12 20
 1
 end_operator
 begin_operator
@@ -11801,8 +11801,8 @@ overcome abrasion love turkey mercury saturn
 1
 15 12
 2
-0 51 12 20
 0 42 2 1
+0 51 12 20
 1
 end_operator
 begin_operator
@@ -11810,8 +11810,8 @@ overcome abrasion love turkey saturn earth
 1
 15 12
 2
-0 51 12 20
 0 42 0 2
+0 51 12 20
 1
 end_operator
 begin_operator
@@ -11819,8 +11819,8 @@ overcome abrasion love wonderbread earth uranus
 1
 15 13
 2
-0 51 13 20
 0 42 3 0
+0 51 13 20
 1
 end_operator
 begin_operator
@@ -11828,8 +11828,8 @@ overcome abrasion love wonderbread mercury saturn
 1
 15 13
 2
-0 51 13 20
 0 42 2 1
+0 51 13 20
 1
 end_operator
 begin_operator
@@ -11837,8 +11837,8 @@ overcome abrasion love wonderbread saturn earth
 1
 15 13
 2
-0 51 13 20
 0 42 0 2
+0 51 13 20
 1
 end_operator
 begin_operator
@@ -11846,8 +11846,8 @@ overcome abrasion love wurst earth uranus
 1
 15 14
 2
-0 51 14 20
 0 42 3 0
+0 51 14 20
 1
 end_operator
 begin_operator
@@ -11855,8 +11855,8 @@ overcome abrasion love wurst mercury saturn
 1
 15 14
 2
-0 51 14 20
 0 42 2 1
+0 51 14 20
 1
 end_operator
 begin_operator
@@ -11864,8 +11864,8 @@ overcome abrasion love wurst saturn earth
 1
 15 14
 2
-0 51 14 20
 0 42 0 2
+0 51 14 20
 1
 end_operator
 begin_operator
@@ -11873,8 +11873,8 @@ overcome abrasion love yogurt earth uranus
 1
 15 15
 2
-0 51 15 20
 0 42 3 0
+0 51 15 20
 1
 end_operator
 begin_operator
@@ -11882,8 +11882,8 @@ overcome abrasion love yogurt mercury saturn
 1
 15 15
 2
-0 51 15 20
 0 42 2 1
+0 51 15 20
 1
 end_operator
 begin_operator
@@ -11891,8 +11891,8 @@ overcome abrasion love yogurt saturn earth
 1
 15 15
 2
-0 51 15 20
 0 42 0 2
+0 51 15 20
 1
 end_operator
 begin_operator
@@ -11900,8 +11900,8 @@ overcome abrasion lubricity arugula earth uranus
 1
 17 0
 2
-0 51 0 21
 0 45 3 0
+0 51 0 21
 1
 end_operator
 begin_operator
@@ -11909,8 +11909,8 @@ overcome abrasion lubricity arugula mercury saturn
 1
 17 0
 2
-0 51 0 21
 0 45 2 1
+0 51 0 21
 1
 end_operator
 begin_operator
@@ -11918,8 +11918,8 @@ overcome abrasion lubricity arugula saturn earth
 1
 17 0
 2
-0 51 0 21
 0 45 0 2
+0 51 0 21
 1
 end_operator
 begin_operator
@@ -11927,8 +11927,8 @@ overcome abrasion lubricity cherry earth uranus
 1
 17 1
 2
-0 51 1 21
 0 45 3 0
+0 51 1 21
 1
 end_operator
 begin_operator
@@ -11936,8 +11936,8 @@ overcome abrasion lubricity cherry mercury saturn
 1
 17 1
 2
-0 51 1 21
 0 45 2 1
+0 51 1 21
 1
 end_operator
 begin_operator
@@ -11945,8 +11945,8 @@ overcome abrasion lubricity cherry saturn earth
 1
 17 1
 2
-0 51 1 21
 0 45 0 2
+0 51 1 21
 1
 end_operator
 begin_operator
@@ -11954,8 +11954,8 @@ overcome abrasion lubricity endive earth uranus
 1
 17 2
 2
-0 51 2 21
 0 45 3 0
+0 51 2 21
 1
 end_operator
 begin_operator
@@ -11963,8 +11963,8 @@ overcome abrasion lubricity endive mercury saturn
 1
 17 2
 2
-0 51 2 21
 0 45 2 1
+0 51 2 21
 1
 end_operator
 begin_operator
@@ -11972,8 +11972,8 @@ overcome abrasion lubricity endive saturn earth
 1
 17 2
 2
-0 51 2 21
 0 45 0 2
+0 51 2 21
 1
 end_operator
 begin_operator
@@ -11981,8 +11981,8 @@ overcome abrasion lubricity ham earth uranus
 1
 17 3
 2
-0 51 3 21
 0 45 3 0
+0 51 3 21
 1
 end_operator
 begin_operator
@@ -11990,8 +11990,8 @@ overcome abrasion lubricity ham mercury saturn
 1
 17 3
 2
-0 51 3 21
 0 45 2 1
+0 51 3 21
 1
 end_operator
 begin_operator
@@ -11999,8 +11999,8 @@ overcome abrasion lubricity ham saturn earth
 1
 17 3
 2
-0 51 3 21
 0 45 0 2
+0 51 3 21
 1
 end_operator
 begin_operator
@@ -12008,8 +12008,8 @@ overcome abrasion lubricity haroset earth uranus
 1
 17 4
 2
-0 51 4 21
 0 45 3 0
+0 51 4 21
 1
 end_operator
 begin_operator
@@ -12017,8 +12017,8 @@ overcome abrasion lubricity haroset mercury saturn
 1
 17 4
 2
-0 51 4 21
 0 45 2 1
+0 51 4 21
 1
 end_operator
 begin_operator
@@ -12026,8 +12026,8 @@ overcome abrasion lubricity haroset saturn earth
 1
 17 4
 2
-0 51 4 21
 0 45 0 2
+0 51 4 21
 1
 end_operator
 begin_operator
@@ -12035,8 +12035,8 @@ overcome abrasion lubricity marzipan earth uranus
 1
 17 5
 2
-0 51 5 21
 0 45 3 0
+0 51 5 21
 1
 end_operator
 begin_operator
@@ -12044,8 +12044,8 @@ overcome abrasion lubricity marzipan mercury saturn
 1
 17 5
 2
-0 51 5 21
 0 45 2 1
+0 51 5 21
 1
 end_operator
 begin_operator
@@ -12053,8 +12053,8 @@ overcome abrasion lubricity marzipan saturn earth
 1
 17 5
 2
-0 51 5 21
 0 45 0 2
+0 51 5 21
 1
 end_operator
 begin_operator
@@ -12062,8 +12062,8 @@ overcome abrasion lubricity mutton earth uranus
 1
 17 6
 2
-0 51 6 21
 0 45 3 0
+0 51 6 21
 1
 end_operator
 begin_operator
@@ -12071,8 +12071,8 @@ overcome abrasion lubricity mutton mercury saturn
 1
 17 6
 2
-0 51 6 21
 0 45 2 1
+0 51 6 21
 1
 end_operator
 begin_operator
@@ -12080,8 +12080,8 @@ overcome abrasion lubricity mutton saturn earth
 1
 17 6
 2
-0 51 6 21
 0 45 0 2
+0 51 6 21
 1
 end_operator
 begin_operator
@@ -12089,8 +12089,8 @@ overcome abrasion lubricity onion earth uranus
 1
 17 7
 2
-0 51 7 21
 0 45 3 0
+0 51 7 21
 1
 end_operator
 begin_operator
@@ -12098,8 +12098,8 @@ overcome abrasion lubricity onion mercury saturn
 1
 17 7
 2
-0 51 7 21
 0 45 2 1
+0 51 7 21
 1
 end_operator
 begin_operator
@@ -12107,8 +12107,8 @@ overcome abrasion lubricity onion saturn earth
 1
 17 7
 2
-0 51 7 21
 0 45 0 2
+0 51 7 21
 1
 end_operator
 begin_operator
@@ -12116,8 +12116,8 @@ overcome abrasion lubricity papaya earth uranus
 1
 17 8
 2
-0 51 8 21
 0 45 3 0
+0 51 8 21
 1
 end_operator
 begin_operator
@@ -12125,8 +12125,8 @@ overcome abrasion lubricity papaya mercury saturn
 1
 17 8
 2
-0 51 8 21
 0 45 2 1
+0 51 8 21
 1
 end_operator
 begin_operator
@@ -12134,8 +12134,8 @@ overcome abrasion lubricity papaya saturn earth
 1
 17 8
 2
-0 51 8 21
 0 45 0 2
+0 51 8 21
 1
 end_operator
 begin_operator
@@ -12143,8 +12143,8 @@ overcome abrasion lubricity potato earth uranus
 1
 17 9
 2
-0 51 9 21
 0 45 3 0
+0 51 9 21
 1
 end_operator
 begin_operator
@@ -12152,8 +12152,8 @@ overcome abrasion lubricity potato mercury saturn
 1
 17 9
 2
-0 51 9 21
 0 45 2 1
+0 51 9 21
 1
 end_operator
 begin_operator
@@ -12161,8 +12161,8 @@ overcome abrasion lubricity potato saturn earth
 1
 17 9
 2
-0 51 9 21
 0 45 0 2
+0 51 9 21
 1
 end_operator
 begin_operator
@@ -12170,8 +12170,8 @@ overcome abrasion lubricity rice earth uranus
 1
 17 10
 2
-0 51 10 21
 0 45 3 0
+0 51 10 21
 1
 end_operator
 begin_operator
@@ -12179,8 +12179,8 @@ overcome abrasion lubricity rice mercury saturn
 1
 17 10
 2
-0 51 10 21
 0 45 2 1
+0 51 10 21
 1
 end_operator
 begin_operator
@@ -12188,8 +12188,8 @@ overcome abrasion lubricity rice saturn earth
 1
 17 10
 2
-0 51 10 21
 0 45 0 2
+0 51 10 21
 1
 end_operator
 begin_operator
@@ -12197,8 +12197,8 @@ overcome abrasion lubricity shrimp earth uranus
 1
 17 11
 2
-0 51 11 21
 0 45 3 0
+0 51 11 21
 1
 end_operator
 begin_operator
@@ -12206,8 +12206,8 @@ overcome abrasion lubricity shrimp mercury saturn
 1
 17 11
 2
-0 51 11 21
 0 45 2 1
+0 51 11 21
 1
 end_operator
 begin_operator
@@ -12215,8 +12215,8 @@ overcome abrasion lubricity shrimp saturn earth
 1
 17 11
 2
-0 51 11 21
 0 45 0 2
+0 51 11 21
 1
 end_operator
 begin_operator
@@ -12224,8 +12224,8 @@ overcome abrasion lubricity turkey earth uranus
 1
 17 12
 2
-0 51 12 21
 0 45 3 0
+0 51 12 21
 1
 end_operator
 begin_operator
@@ -12233,8 +12233,8 @@ overcome abrasion lubricity turkey mercury saturn
 1
 17 12
 2
-0 51 12 21
 0 45 2 1
+0 51 12 21
 1
 end_operator
 begin_operator
@@ -12242,8 +12242,8 @@ overcome abrasion lubricity turkey saturn earth
 1
 17 12
 2
-0 51 12 21
 0 45 0 2
+0 51 12 21
 1
 end_operator
 begin_operator
@@ -12251,8 +12251,8 @@ overcome abrasion lubricity wonderbread earth uranus
 1
 17 13
 2
-0 51 13 21
 0 45 3 0
+0 51 13 21
 1
 end_operator
 begin_operator
@@ -12260,8 +12260,8 @@ overcome abrasion lubricity wonderbread mercury saturn
 1
 17 13
 2
-0 51 13 21
 0 45 2 1
+0 51 13 21
 1
 end_operator
 begin_operator
@@ -12269,8 +12269,8 @@ overcome abrasion lubricity wonderbread saturn earth
 1
 17 13
 2
-0 51 13 21
 0 45 0 2
+0 51 13 21
 1
 end_operator
 begin_operator
@@ -12278,8 +12278,8 @@ overcome abrasion lubricity wurst earth uranus
 1
 17 14
 2
-0 51 14 21
 0 45 3 0
+0 51 14 21
 1
 end_operator
 begin_operator
@@ -12287,8 +12287,8 @@ overcome abrasion lubricity wurst mercury saturn
 1
 17 14
 2
-0 51 14 21
 0 45 2 1
+0 51 14 21
 1
 end_operator
 begin_operator
@@ -12296,8 +12296,8 @@ overcome abrasion lubricity wurst saturn earth
 1
 17 14
 2
-0 51 14 21
 0 45 0 2
+0 51 14 21
 1
 end_operator
 begin_operator
@@ -12305,8 +12305,8 @@ overcome abrasion lubricity yogurt earth uranus
 1
 17 15
 2
-0 51 15 21
 0 45 3 0
+0 51 15 21
 1
 end_operator
 begin_operator
@@ -12314,8 +12314,8 @@ overcome abrasion lubricity yogurt mercury saturn
 1
 17 15
 2
-0 51 15 21
 0 45 2 1
+0 51 15 21
 1
 end_operator
 begin_operator
@@ -12323,8 +12323,8 @@ overcome abrasion lubricity yogurt saturn earth
 1
 17 15
 2
-0 51 15 21
 0 45 0 2
+0 51 15 21
 1
 end_operator
 begin_operator
@@ -12332,8 +12332,8 @@ overcome abrasion rest arugula earth uranus
 1
 19 0
 2
-0 51 0 22
 0 46 3 0
+0 51 0 22
 1
 end_operator
 begin_operator
@@ -12341,8 +12341,8 @@ overcome abrasion rest arugula mercury saturn
 1
 19 0
 2
-0 51 0 22
 0 46 2 1
+0 51 0 22
 1
 end_operator
 begin_operator
@@ -12350,8 +12350,8 @@ overcome abrasion rest arugula saturn earth
 1
 19 0
 2
-0 51 0 22
 0 46 0 2
+0 51 0 22
 1
 end_operator
 begin_operator
@@ -12359,8 +12359,8 @@ overcome abrasion rest cherry earth uranus
 1
 19 1
 2
-0 51 1 22
 0 46 3 0
+0 51 1 22
 1
 end_operator
 begin_operator
@@ -12368,8 +12368,8 @@ overcome abrasion rest cherry mercury saturn
 1
 19 1
 2
-0 51 1 22
 0 46 2 1
+0 51 1 22
 1
 end_operator
 begin_operator
@@ -12377,8 +12377,8 @@ overcome abrasion rest cherry saturn earth
 1
 19 1
 2
-0 51 1 22
 0 46 0 2
+0 51 1 22
 1
 end_operator
 begin_operator
@@ -12386,8 +12386,8 @@ overcome abrasion rest endive earth uranus
 1
 19 2
 2
-0 51 2 22
 0 46 3 0
+0 51 2 22
 1
 end_operator
 begin_operator
@@ -12395,8 +12395,8 @@ overcome abrasion rest endive mercury saturn
 1
 19 2
 2
-0 51 2 22
 0 46 2 1
+0 51 2 22
 1
 end_operator
 begin_operator
@@ -12404,8 +12404,8 @@ overcome abrasion rest endive saturn earth
 1
 19 2
 2
-0 51 2 22
 0 46 0 2
+0 51 2 22
 1
 end_operator
 begin_operator
@@ -12413,8 +12413,8 @@ overcome abrasion rest ham earth uranus
 1
 19 3
 2
-0 51 3 22
 0 46 3 0
+0 51 3 22
 1
 end_operator
 begin_operator
@@ -12422,8 +12422,8 @@ overcome abrasion rest ham mercury saturn
 1
 19 3
 2
-0 51 3 22
 0 46 2 1
+0 51 3 22
 1
 end_operator
 begin_operator
@@ -12431,8 +12431,8 @@ overcome abrasion rest ham saturn earth
 1
 19 3
 2
-0 51 3 22
 0 46 0 2
+0 51 3 22
 1
 end_operator
 begin_operator
@@ -12440,8 +12440,8 @@ overcome abrasion rest haroset earth uranus
 1
 19 4
 2
-0 51 4 22
 0 46 3 0
+0 51 4 22
 1
 end_operator
 begin_operator
@@ -12449,8 +12449,8 @@ overcome abrasion rest haroset mercury saturn
 1
 19 4
 2
-0 51 4 22
 0 46 2 1
+0 51 4 22
 1
 end_operator
 begin_operator
@@ -12458,8 +12458,8 @@ overcome abrasion rest haroset saturn earth
 1
 19 4
 2
-0 51 4 22
 0 46 0 2
+0 51 4 22
 1
 end_operator
 begin_operator
@@ -12467,8 +12467,8 @@ overcome abrasion rest marzipan earth uranus
 1
 19 5
 2
-0 51 5 22
 0 46 3 0
+0 51 5 22
 1
 end_operator
 begin_operator
@@ -12476,8 +12476,8 @@ overcome abrasion rest marzipan mercury saturn
 1
 19 5
 2
-0 51 5 22
 0 46 2 1
+0 51 5 22
 1
 end_operator
 begin_operator
@@ -12485,8 +12485,8 @@ overcome abrasion rest marzipan saturn earth
 1
 19 5
 2
-0 51 5 22
 0 46 0 2
+0 51 5 22
 1
 end_operator
 begin_operator
@@ -12494,8 +12494,8 @@ overcome abrasion rest mutton earth uranus
 1
 19 6
 2
-0 51 6 22
 0 46 3 0
+0 51 6 22
 1
 end_operator
 begin_operator
@@ -12503,8 +12503,8 @@ overcome abrasion rest mutton mercury saturn
 1
 19 6
 2
-0 51 6 22
 0 46 2 1
+0 51 6 22
 1
 end_operator
 begin_operator
@@ -12512,8 +12512,8 @@ overcome abrasion rest mutton saturn earth
 1
 19 6
 2
-0 51 6 22
 0 46 0 2
+0 51 6 22
 1
 end_operator
 begin_operator
@@ -12521,8 +12521,8 @@ overcome abrasion rest onion earth uranus
 1
 19 7
 2
-0 51 7 22
 0 46 3 0
+0 51 7 22
 1
 end_operator
 begin_operator
@@ -12530,8 +12530,8 @@ overcome abrasion rest onion mercury saturn
 1
 19 7
 2
-0 51 7 22
 0 46 2 1
+0 51 7 22
 1
 end_operator
 begin_operator
@@ -12539,8 +12539,8 @@ overcome abrasion rest onion saturn earth
 1
 19 7
 2
-0 51 7 22
 0 46 0 2
+0 51 7 22
 1
 end_operator
 begin_operator
@@ -12548,8 +12548,8 @@ overcome abrasion rest papaya earth uranus
 1
 19 8
 2
-0 51 8 22
 0 46 3 0
+0 51 8 22
 1
 end_operator
 begin_operator
@@ -12557,8 +12557,8 @@ overcome abrasion rest papaya mercury saturn
 1
 19 8
 2
-0 51 8 22
 0 46 2 1
+0 51 8 22
 1
 end_operator
 begin_operator
@@ -12566,8 +12566,8 @@ overcome abrasion rest papaya saturn earth
 1
 19 8
 2
-0 51 8 22
 0 46 0 2
+0 51 8 22
 1
 end_operator
 begin_operator
@@ -12575,8 +12575,8 @@ overcome abrasion rest potato earth uranus
 1
 19 9
 2
-0 51 9 22
 0 46 3 0
+0 51 9 22
 1
 end_operator
 begin_operator
@@ -12584,8 +12584,8 @@ overcome abrasion rest potato mercury saturn
 1
 19 9
 2
-0 51 9 22
 0 46 2 1
+0 51 9 22
 1
 end_operator
 begin_operator
@@ -12593,8 +12593,8 @@ overcome abrasion rest potato saturn earth
 1
 19 9
 2
-0 51 9 22
 0 46 0 2
+0 51 9 22
 1
 end_operator
 begin_operator
@@ -12602,8 +12602,8 @@ overcome abrasion rest rice earth uranus
 1
 19 10
 2
-0 51 10 22
 0 46 3 0
+0 51 10 22
 1
 end_operator
 begin_operator
@@ -12611,8 +12611,8 @@ overcome abrasion rest rice mercury saturn
 1
 19 10
 2
-0 51 10 22
 0 46 2 1
+0 51 10 22
 1
 end_operator
 begin_operator
@@ -12620,8 +12620,8 @@ overcome abrasion rest rice saturn earth
 1
 19 10
 2
-0 51 10 22
 0 46 0 2
+0 51 10 22
 1
 end_operator
 begin_operator
@@ -12629,8 +12629,8 @@ overcome abrasion rest shrimp earth uranus
 1
 19 11
 2
-0 51 11 22
 0 46 3 0
+0 51 11 22
 1
 end_operator
 begin_operator
@@ -12638,8 +12638,8 @@ overcome abrasion rest shrimp mercury saturn
 1
 19 11
 2
-0 51 11 22
 0 46 2 1
+0 51 11 22
 1
 end_operator
 begin_operator
@@ -12647,8 +12647,8 @@ overcome abrasion rest shrimp saturn earth
 1
 19 11
 2
-0 51 11 22
 0 46 0 2
+0 51 11 22
 1
 end_operator
 begin_operator
@@ -12656,8 +12656,8 @@ overcome abrasion rest turkey earth uranus
 1
 19 12
 2
-0 51 12 22
 0 46 3 0
+0 51 12 22
 1
 end_operator
 begin_operator
@@ -12665,8 +12665,8 @@ overcome abrasion rest turkey mercury saturn
 1
 19 12
 2
-0 51 12 22
 0 46 2 1
+0 51 12 22
 1
 end_operator
 begin_operator
@@ -12674,8 +12674,8 @@ overcome abrasion rest turkey saturn earth
 1
 19 12
 2
-0 51 12 22
 0 46 0 2
+0 51 12 22
 1
 end_operator
 begin_operator
@@ -12683,8 +12683,8 @@ overcome abrasion rest wonderbread earth uranus
 1
 19 13
 2
-0 51 13 22
 0 46 3 0
+0 51 13 22
 1
 end_operator
 begin_operator
@@ -12692,8 +12692,8 @@ overcome abrasion rest wonderbread mercury saturn
 1
 19 13
 2
-0 51 13 22
 0 46 2 1
+0 51 13 22
 1
 end_operator
 begin_operator
@@ -12701,8 +12701,8 @@ overcome abrasion rest wonderbread saturn earth
 1
 19 13
 2
-0 51 13 22
 0 46 0 2
+0 51 13 22
 1
 end_operator
 begin_operator
@@ -12710,8 +12710,8 @@ overcome abrasion rest wurst earth uranus
 1
 19 14
 2
-0 51 14 22
 0 46 3 0
+0 51 14 22
 1
 end_operator
 begin_operator
@@ -12719,8 +12719,8 @@ overcome abrasion rest wurst mercury saturn
 1
 19 14
 2
-0 51 14 22
 0 46 2 1
+0 51 14 22
 1
 end_operator
 begin_operator
@@ -12728,8 +12728,8 @@ overcome abrasion rest wurst saturn earth
 1
 19 14
 2
-0 51 14 22
 0 46 0 2
+0 51 14 22
 1
 end_operator
 begin_operator
@@ -12737,8 +12737,8 @@ overcome abrasion rest yogurt earth uranus
 1
 19 15
 2
-0 51 15 22
 0 46 3 0
+0 51 15 22
 1
 end_operator
 begin_operator
@@ -12746,8 +12746,8 @@ overcome abrasion rest yogurt mercury saturn
 1
 19 15
 2
-0 51 15 22
 0 46 2 1
+0 51 15 22
 1
 end_operator
 begin_operator
@@ -12755,8 +12755,8 @@ overcome abrasion rest yogurt saturn earth
 1
 19 15
 2
-0 51 15 22
 0 46 0 2
+0 51 15 22
 1
 end_operator
 begin_operator
@@ -12764,8 +12764,8 @@ overcome abrasion satiety arugula earth uranus
 1
 20 0
 2
-0 51 0 23
 0 49 3 0
+0 51 0 23
 1
 end_operator
 begin_operator
@@ -12773,8 +12773,8 @@ overcome abrasion satiety arugula mercury saturn
 1
 20 0
 2
-0 51 0 23
 0 49 2 1
+0 51 0 23
 1
 end_operator
 begin_operator
@@ -12782,8 +12782,8 @@ overcome abrasion satiety arugula saturn earth
 1
 20 0
 2
-0 51 0 23
 0 49 0 2
+0 51 0 23
 1
 end_operator
 begin_operator
@@ -12791,8 +12791,8 @@ overcome abrasion satiety cherry earth uranus
 1
 20 1
 2
-0 51 1 23
 0 49 3 0
+0 51 1 23
 1
 end_operator
 begin_operator
@@ -12800,8 +12800,8 @@ overcome abrasion satiety cherry mercury saturn
 1
 20 1
 2
-0 51 1 23
 0 49 2 1
+0 51 1 23
 1
 end_operator
 begin_operator
@@ -12809,8 +12809,8 @@ overcome abrasion satiety cherry saturn earth
 1
 20 1
 2
-0 51 1 23
 0 49 0 2
+0 51 1 23
 1
 end_operator
 begin_operator
@@ -12818,8 +12818,8 @@ overcome abrasion satiety endive earth uranus
 1
 20 2
 2
-0 51 2 23
 0 49 3 0
+0 51 2 23
 1
 end_operator
 begin_operator
@@ -12827,8 +12827,8 @@ overcome abrasion satiety endive mercury saturn
 1
 20 2
 2
-0 51 2 23
 0 49 2 1
+0 51 2 23
 1
 end_operator
 begin_operator
@@ -12836,8 +12836,8 @@ overcome abrasion satiety endive saturn earth
 1
 20 2
 2
-0 51 2 23
 0 49 0 2
+0 51 2 23
 1
 end_operator
 begin_operator
@@ -12845,8 +12845,8 @@ overcome abrasion satiety ham earth uranus
 1
 20 3
 2
-0 51 3 23
 0 49 3 0
+0 51 3 23
 1
 end_operator
 begin_operator
@@ -12854,8 +12854,8 @@ overcome abrasion satiety ham mercury saturn
 1
 20 3
 2
-0 51 3 23
 0 49 2 1
+0 51 3 23
 1
 end_operator
 begin_operator
@@ -12863,8 +12863,8 @@ overcome abrasion satiety ham saturn earth
 1
 20 3
 2
-0 51 3 23
 0 49 0 2
+0 51 3 23
 1
 end_operator
 begin_operator
@@ -12872,8 +12872,8 @@ overcome abrasion satiety haroset earth uranus
 1
 20 4
 2
-0 51 4 23
 0 49 3 0
+0 51 4 23
 1
 end_operator
 begin_operator
@@ -12881,8 +12881,8 @@ overcome abrasion satiety haroset mercury saturn
 1
 20 4
 2
-0 51 4 23
 0 49 2 1
+0 51 4 23
 1
 end_operator
 begin_operator
@@ -12890,8 +12890,8 @@ overcome abrasion satiety haroset saturn earth
 1
 20 4
 2
-0 51 4 23
 0 49 0 2
+0 51 4 23
 1
 end_operator
 begin_operator
@@ -12899,8 +12899,8 @@ overcome abrasion satiety marzipan earth uranus
 1
 20 5
 2
-0 51 5 23
 0 49 3 0
+0 51 5 23
 1
 end_operator
 begin_operator
@@ -12908,8 +12908,8 @@ overcome abrasion satiety marzipan mercury saturn
 1
 20 5
 2
-0 51 5 23
 0 49 2 1
+0 51 5 23
 1
 end_operator
 begin_operator
@@ -12917,8 +12917,8 @@ overcome abrasion satiety marzipan saturn earth
 1
 20 5
 2
-0 51 5 23
 0 49 0 2
+0 51 5 23
 1
 end_operator
 begin_operator
@@ -12926,8 +12926,8 @@ overcome abrasion satiety mutton earth uranus
 1
 20 6
 2
-0 51 6 23
 0 49 3 0
+0 51 6 23
 1
 end_operator
 begin_operator
@@ -12935,8 +12935,8 @@ overcome abrasion satiety mutton mercury saturn
 1
 20 6
 2
-0 51 6 23
 0 49 2 1
+0 51 6 23
 1
 end_operator
 begin_operator
@@ -12944,8 +12944,8 @@ overcome abrasion satiety mutton saturn earth
 1
 20 6
 2
-0 51 6 23
 0 49 0 2
+0 51 6 23
 1
 end_operator
 begin_operator
@@ -12953,8 +12953,8 @@ overcome abrasion satiety onion earth uranus
 1
 20 7
 2
-0 51 7 23
 0 49 3 0
+0 51 7 23
 1
 end_operator
 begin_operator
@@ -12962,8 +12962,8 @@ overcome abrasion satiety onion mercury saturn
 1
 20 7
 2
-0 51 7 23
 0 49 2 1
+0 51 7 23
 1
 end_operator
 begin_operator
@@ -12971,8 +12971,8 @@ overcome abrasion satiety onion saturn earth
 1
 20 7
 2
-0 51 7 23
 0 49 0 2
+0 51 7 23
 1
 end_operator
 begin_operator
@@ -12980,8 +12980,8 @@ overcome abrasion satiety papaya earth uranus
 1
 20 8
 2
-0 51 8 23
 0 49 3 0
+0 51 8 23
 1
 end_operator
 begin_operator
@@ -12989,8 +12989,8 @@ overcome abrasion satiety papaya mercury saturn
 1
 20 8
 2
-0 51 8 23
 0 49 2 1
+0 51 8 23
 1
 end_operator
 begin_operator
@@ -12998,8 +12998,8 @@ overcome abrasion satiety papaya saturn earth
 1
 20 8
 2
-0 51 8 23
 0 49 0 2
+0 51 8 23
 1
 end_operator
 begin_operator
@@ -13007,8 +13007,8 @@ overcome abrasion satiety potato earth uranus
 1
 20 9
 2
-0 51 9 23
 0 49 3 0
+0 51 9 23
 1
 end_operator
 begin_operator
@@ -13016,8 +13016,8 @@ overcome abrasion satiety potato mercury saturn
 1
 20 9
 2
-0 51 9 23
 0 49 2 1
+0 51 9 23
 1
 end_operator
 begin_operator
@@ -13025,8 +13025,8 @@ overcome abrasion satiety potato saturn earth
 1
 20 9
 2
-0 51 9 23
 0 49 0 2
+0 51 9 23
 1
 end_operator
 begin_operator
@@ -13034,8 +13034,8 @@ overcome abrasion satiety rice earth uranus
 1
 20 10
 2
-0 51 10 23
 0 49 3 0
+0 51 10 23
 1
 end_operator
 begin_operator
@@ -13043,8 +13043,8 @@ overcome abrasion satiety rice mercury saturn
 1
 20 10
 2
-0 51 10 23
 0 49 2 1
+0 51 10 23
 1
 end_operator
 begin_operator
@@ -13052,8 +13052,8 @@ overcome abrasion satiety rice saturn earth
 1
 20 10
 2
-0 51 10 23
 0 49 0 2
+0 51 10 23
 1
 end_operator
 begin_operator
@@ -13061,8 +13061,8 @@ overcome abrasion satiety shrimp earth uranus
 1
 20 11
 2
-0 51 11 23
 0 49 3 0
+0 51 11 23
 1
 end_operator
 begin_operator
@@ -13070,8 +13070,8 @@ overcome abrasion satiety shrimp mercury saturn
 1
 20 11
 2
-0 51 11 23
 0 49 2 1
+0 51 11 23
 1
 end_operator
 begin_operator
@@ -13079,8 +13079,8 @@ overcome abrasion satiety shrimp saturn earth
 1
 20 11
 2
-0 51 11 23
 0 49 0 2
+0 51 11 23
 1
 end_operator
 begin_operator
@@ -13088,8 +13088,8 @@ overcome abrasion satiety turkey earth uranus
 1
 20 12
 2
-0 51 12 23
 0 49 3 0
+0 51 12 23
 1
 end_operator
 begin_operator
@@ -13097,8 +13097,8 @@ overcome abrasion satiety turkey mercury saturn
 1
 20 12
 2
-0 51 12 23
 0 49 2 1
+0 51 12 23
 1
 end_operator
 begin_operator
@@ -13106,8 +13106,8 @@ overcome abrasion satiety turkey saturn earth
 1
 20 12
 2
-0 51 12 23
 0 49 0 2
+0 51 12 23
 1
 end_operator
 begin_operator
@@ -13115,8 +13115,8 @@ overcome abrasion satiety wonderbread earth uranus
 1
 20 13
 2
-0 51 13 23
 0 49 3 0
+0 51 13 23
 1
 end_operator
 begin_operator
@@ -13124,8 +13124,8 @@ overcome abrasion satiety wonderbread mercury saturn
 1
 20 13
 2
-0 51 13 23
 0 49 2 1
+0 51 13 23
 1
 end_operator
 begin_operator
@@ -13133,8 +13133,8 @@ overcome abrasion satiety wonderbread saturn earth
 1
 20 13
 2
-0 51 13 23
 0 49 0 2
+0 51 13 23
 1
 end_operator
 begin_operator
@@ -13142,8 +13142,8 @@ overcome abrasion satiety wurst earth uranus
 1
 20 14
 2
-0 51 14 23
 0 49 3 0
+0 51 14 23
 1
 end_operator
 begin_operator
@@ -13151,8 +13151,8 @@ overcome abrasion satiety wurst mercury saturn
 1
 20 14
 2
-0 51 14 23
 0 49 2 1
+0 51 14 23
 1
 end_operator
 begin_operator
@@ -13160,8 +13160,8 @@ overcome abrasion satiety wurst saturn earth
 1
 20 14
 2
-0 51 14 23
 0 49 0 2
+0 51 14 23
 1
 end_operator
 begin_operator
@@ -13169,8 +13169,8 @@ overcome abrasion satiety yogurt earth uranus
 1
 20 15
 2
-0 51 15 23
 0 49 3 0
+0 51 15 23
 1
 end_operator
 begin_operator
@@ -13178,8 +13178,8 @@ overcome abrasion satiety yogurt mercury saturn
 1
 20 15
 2
-0 51 15 23
 0 49 2 1
+0 51 15 23
 1
 end_operator
 begin_operator
@@ -13187,8 +13187,8 @@ overcome abrasion satiety yogurt saturn earth
 1
 20 15
 2
-0 51 15 23
 0 49 0 2
+0 51 15 23
 1
 end_operator
 begin_operator
@@ -13196,8 +13196,8 @@ overcome abrasion satisfaction arugula earth uranus
 1
 21 0
 2
-0 51 0 24
 0 50 3 0
+0 51 0 24
 1
 end_operator
 begin_operator
@@ -13205,8 +13205,8 @@ overcome abrasion satisfaction arugula mercury saturn
 1
 21 0
 2
-0 51 0 24
 0 50 2 1
+0 51 0 24
 1
 end_operator
 begin_operator
@@ -13214,8 +13214,8 @@ overcome abrasion satisfaction arugula saturn earth
 1
 21 0
 2
-0 51 0 24
 0 50 0 2
+0 51 0 24
 1
 end_operator
 begin_operator
@@ -13223,8 +13223,8 @@ overcome abrasion satisfaction cherry earth uranus
 1
 21 1
 2
-0 51 1 24
 0 50 3 0
+0 51 1 24
 1
 end_operator
 begin_operator
@@ -13232,8 +13232,8 @@ overcome abrasion satisfaction cherry mercury saturn
 1
 21 1
 2
-0 51 1 24
 0 50 2 1
+0 51 1 24
 1
 end_operator
 begin_operator
@@ -13241,8 +13241,8 @@ overcome abrasion satisfaction cherry saturn earth
 1
 21 1
 2
-0 51 1 24
 0 50 0 2
+0 51 1 24
 1
 end_operator
 begin_operator
@@ -13250,8 +13250,8 @@ overcome abrasion satisfaction endive earth uranus
 1
 21 2
 2
-0 51 2 24
 0 50 3 0
+0 51 2 24
 1
 end_operator
 begin_operator
@@ -13259,8 +13259,8 @@ overcome abrasion satisfaction endive mercury saturn
 1
 21 2
 2
-0 51 2 24
 0 50 2 1
+0 51 2 24
 1
 end_operator
 begin_operator
@@ -13268,8 +13268,8 @@ overcome abrasion satisfaction endive saturn earth
 1
 21 2
 2
-0 51 2 24
 0 50 0 2
+0 51 2 24
 1
 end_operator
 begin_operator
@@ -13277,8 +13277,8 @@ overcome abrasion satisfaction ham earth uranus
 1
 21 3
 2
-0 51 3 24
 0 50 3 0
+0 51 3 24
 1
 end_operator
 begin_operator
@@ -13286,8 +13286,8 @@ overcome abrasion satisfaction ham mercury saturn
 1
 21 3
 2
-0 51 3 24
 0 50 2 1
+0 51 3 24
 1
 end_operator
 begin_operator
@@ -13295,8 +13295,8 @@ overcome abrasion satisfaction ham saturn earth
 1
 21 3
 2
-0 51 3 24
 0 50 0 2
+0 51 3 24
 1
 end_operator
 begin_operator
@@ -13304,8 +13304,8 @@ overcome abrasion satisfaction haroset earth uranus
 1
 21 4
 2
-0 51 4 24
 0 50 3 0
+0 51 4 24
 1
 end_operator
 begin_operator
@@ -13313,8 +13313,8 @@ overcome abrasion satisfaction haroset mercury saturn
 1
 21 4
 2
-0 51 4 24
 0 50 2 1
+0 51 4 24
 1
 end_operator
 begin_operator
@@ -13322,8 +13322,8 @@ overcome abrasion satisfaction haroset saturn earth
 1
 21 4
 2
-0 51 4 24
 0 50 0 2
+0 51 4 24
 1
 end_operator
 begin_operator
@@ -13331,8 +13331,8 @@ overcome abrasion satisfaction marzipan earth uranus
 1
 21 5
 2
-0 51 5 24
 0 50 3 0
+0 51 5 24
 1
 end_operator
 begin_operator
@@ -13340,8 +13340,8 @@ overcome abrasion satisfaction marzipan mercury saturn
 1
 21 5
 2
-0 51 5 24
 0 50 2 1
+0 51 5 24
 1
 end_operator
 begin_operator
@@ -13349,8 +13349,8 @@ overcome abrasion satisfaction marzipan saturn earth
 1
 21 5
 2
-0 51 5 24
 0 50 0 2
+0 51 5 24
 1
 end_operator
 begin_operator
@@ -13358,8 +13358,8 @@ overcome abrasion satisfaction mutton earth uranus
 1
 21 6
 2
-0 51 6 24
 0 50 3 0
+0 51 6 24
 1
 end_operator
 begin_operator
@@ -13367,8 +13367,8 @@ overcome abrasion satisfaction mutton mercury saturn
 1
 21 6
 2
-0 51 6 24
 0 50 2 1
+0 51 6 24
 1
 end_operator
 begin_operator
@@ -13376,8 +13376,8 @@ overcome abrasion satisfaction mutton saturn earth
 1
 21 6
 2
-0 51 6 24
 0 50 0 2
+0 51 6 24
 1
 end_operator
 begin_operator
@@ -13385,8 +13385,8 @@ overcome abrasion satisfaction onion earth uranus
 1
 21 7
 2
-0 51 7 24
 0 50 3 0
+0 51 7 24
 1
 end_operator
 begin_operator
@@ -13394,8 +13394,8 @@ overcome abrasion satisfaction onion mercury saturn
 1
 21 7
 2
-0 51 7 24
 0 50 2 1
+0 51 7 24
 1
 end_operator
 begin_operator
@@ -13403,8 +13403,8 @@ overcome abrasion satisfaction onion saturn earth
 1
 21 7
 2
-0 51 7 24
 0 50 0 2
+0 51 7 24
 1
 end_operator
 begin_operator
@@ -13412,8 +13412,8 @@ overcome abrasion satisfaction papaya earth uranus
 1
 21 8
 2
-0 51 8 24
 0 50 3 0
+0 51 8 24
 1
 end_operator
 begin_operator
@@ -13421,8 +13421,8 @@ overcome abrasion satisfaction papaya mercury saturn
 1
 21 8
 2
-0 51 8 24
 0 50 2 1
+0 51 8 24
 1
 end_operator
 begin_operator
@@ -13430,8 +13430,8 @@ overcome abrasion satisfaction papaya saturn earth
 1
 21 8
 2
-0 51 8 24
 0 50 0 2
+0 51 8 24
 1
 end_operator
 begin_operator
@@ -13439,8 +13439,8 @@ overcome abrasion satisfaction potato earth uranus
 1
 21 9
 2
-0 51 9 24
 0 50 3 0
+0 51 9 24
 1
 end_operator
 begin_operator
@@ -13448,8 +13448,8 @@ overcome abrasion satisfaction potato mercury saturn
 1
 21 9
 2
-0 51 9 24
 0 50 2 1
+0 51 9 24
 1
 end_operator
 begin_operator
@@ -13457,8 +13457,8 @@ overcome abrasion satisfaction potato saturn earth
 1
 21 9
 2
-0 51 9 24
 0 50 0 2
+0 51 9 24
 1
 end_operator
 begin_operator
@@ -13466,8 +13466,8 @@ overcome abrasion satisfaction rice earth uranus
 1
 21 10
 2
-0 51 10 24
 0 50 3 0
+0 51 10 24
 1
 end_operator
 begin_operator
@@ -13475,8 +13475,8 @@ overcome abrasion satisfaction rice mercury saturn
 1
 21 10
 2
-0 51 10 24
 0 50 2 1
+0 51 10 24
 1
 end_operator
 begin_operator
@@ -13484,8 +13484,8 @@ overcome abrasion satisfaction rice saturn earth
 1
 21 10
 2
-0 51 10 24
 0 50 0 2
+0 51 10 24
 1
 end_operator
 begin_operator
@@ -13493,8 +13493,8 @@ overcome abrasion satisfaction shrimp earth uranus
 1
 21 11
 2
-0 51 11 24
 0 50 3 0
+0 51 11 24
 1
 end_operator
 begin_operator
@@ -13502,8 +13502,8 @@ overcome abrasion satisfaction shrimp mercury saturn
 1
 21 11
 2
-0 51 11 24
 0 50 2 1
+0 51 11 24
 1
 end_operator
 begin_operator
@@ -13511,8 +13511,8 @@ overcome abrasion satisfaction shrimp saturn earth
 1
 21 11
 2
-0 51 11 24
 0 50 0 2
+0 51 11 24
 1
 end_operator
 begin_operator
@@ -13520,8 +13520,8 @@ overcome abrasion satisfaction turkey earth uranus
 1
 21 12
 2
-0 51 12 24
 0 50 3 0
+0 51 12 24
 1
 end_operator
 begin_operator
@@ -13529,8 +13529,8 @@ overcome abrasion satisfaction turkey mercury saturn
 1
 21 12
 2
-0 51 12 24
 0 50 2 1
+0 51 12 24
 1
 end_operator
 begin_operator
@@ -13538,8 +13538,8 @@ overcome abrasion satisfaction turkey saturn earth
 1
 21 12
 2
-0 51 12 24
 0 50 0 2
+0 51 12 24
 1
 end_operator
 begin_operator
@@ -13547,8 +13547,8 @@ overcome abrasion satisfaction wonderbread earth uranus
 1
 21 13
 2
-0 51 13 24
 0 50 3 0
+0 51 13 24
 1
 end_operator
 begin_operator
@@ -13556,8 +13556,8 @@ overcome abrasion satisfaction wonderbread mercury saturn
 1
 21 13
 2
-0 51 13 24
 0 50 2 1
+0 51 13 24
 1
 end_operator
 begin_operator
@@ -13565,8 +13565,8 @@ overcome abrasion satisfaction wonderbread saturn earth
 1
 21 13
 2
-0 51 13 24
 0 50 0 2
+0 51 13 24
 1
 end_operator
 begin_operator
@@ -13574,8 +13574,8 @@ overcome abrasion satisfaction wurst earth uranus
 1
 21 14
 2
-0 51 14 24
 0 50 3 0
+0 51 14 24
 1
 end_operator
 begin_operator
@@ -13583,8 +13583,8 @@ overcome abrasion satisfaction wurst mercury saturn
 1
 21 14
 2
-0 51 14 24
 0 50 2 1
+0 51 14 24
 1
 end_operator
 begin_operator
@@ -13592,8 +13592,8 @@ overcome abrasion satisfaction wurst saturn earth
 1
 21 14
 2
-0 51 14 24
 0 50 0 2
+0 51 14 24
 1
 end_operator
 begin_operator
@@ -13601,8 +13601,8 @@ overcome abrasion satisfaction yogurt earth uranus
 1
 21 15
 2
-0 51 15 24
 0 50 3 0
+0 51 15 24
 1
 end_operator
 begin_operator
@@ -13610,8 +13610,8 @@ overcome abrasion satisfaction yogurt mercury saturn
 1
 21 15
 2
-0 51 15 24
 0 50 2 1
+0 51 15 24
 1
 end_operator
 begin_operator
@@ -13619,8 +13619,8 @@ overcome abrasion satisfaction yogurt saturn earth
 1
 21 15
 2
-0 51 15 24
 0 50 0 2
+0 51 15 24
 1
 end_operator
 begin_operator
@@ -14059,24 +14059,24 @@ begin_operator
 overcome abrasion-4 entertainment wurst earth uranus
 0
 2
-0 24 14 17
 0 23 3 0
+0 24 14 17
 1
 end_operator
 begin_operator
 overcome abrasion-4 entertainment wurst mercury saturn
 0
 2
-0 24 14 17
 0 23 2 1
+0 24 14 17
 1
 end_operator
 begin_operator
 overcome abrasion-4 entertainment wurst saturn earth
 0
 2
-0 24 14 17
 0 23 0 2
+0 24 14 17
 1
 end_operator
 begin_operator
@@ -17539,24 +17539,24 @@ begin_operator
 overcome anger entertainment wurst earth uranus
 0
 2
-0 25 14 17
 0 23 3 0
+0 25 14 17
 1
 end_operator
 begin_operator
 overcome anger entertainment wurst mercury saturn
 0
 2
-0 25 14 17
 0 23 2 1
+0 25 14 17
 1
 end_operator
 begin_operator
 overcome anger entertainment wurst saturn earth
 0
 2
-0 25 14 17
 0 23 0 2
+0 25 14 17
 1
 end_operator
 begin_operator
@@ -21019,24 +21019,24 @@ begin_operator
 overcome angina entertainment wurst earth uranus
 0
 2
-0 26 14 17
 0 23 3 0
+0 26 14 17
 1
 end_operator
 begin_operator
 overcome angina entertainment wurst mercury saturn
 0
 2
-0 26 14 17
 0 23 2 1
+0 26 14 17
 1
 end_operator
 begin_operator
 overcome angina entertainment wurst saturn earth
 0
 2
-0 26 14 17
 0 23 0 2
+0 26 14 17
 1
 end_operator
 begin_operator
@@ -24499,24 +24499,24 @@ begin_operator
 overcome anxiety entertainment wurst earth uranus
 0
 2
-0 27 14 17
 0 23 3 0
+0 27 14 17
 1
 end_operator
 begin_operator
 overcome anxiety entertainment wurst mercury saturn
 0
 2
-0 27 14 17
 0 23 2 1
+0 27 14 17
 1
 end_operator
 begin_operator
 overcome anxiety entertainment wurst saturn earth
 0
 2
-0 27 14 17
 0 23 0 2
+0 27 14 17
 1
 end_operator
 begin_operator
@@ -27979,24 +27979,24 @@ begin_operator
 overcome boils entertainment wurst earth uranus
 0
 2
-0 28 14 17
 0 23 3 0
+0 28 14 17
 1
 end_operator
 begin_operator
 overcome boils entertainment wurst mercury saturn
 0
 2
-0 28 14 17
 0 23 2 1
+0 28 14 17
 1
 end_operator
 begin_operator
 overcome boils entertainment wurst saturn earth
 0
 2
-0 28 14 17
 0 23 0 2
+0 28 14 17
 1
 end_operator
 begin_operator
@@ -31459,24 +31459,24 @@ begin_operator
 overcome boils-1 entertainment wurst earth uranus
 0
 2
-0 29 14 17
 0 23 3 0
+0 29 14 17
 1
 end_operator
 begin_operator
 overcome boils-1 entertainment wurst mercury saturn
 0
 2
-0 29 14 17
 0 23 2 1
+0 29 14 17
 1
 end_operator
 begin_operator
 overcome boils-1 entertainment wurst saturn earth
 0
 2
-0 29 14 17
 0 23 0 2
+0 29 14 17
 1
 end_operator
 begin_operator
@@ -34939,24 +34939,24 @@ begin_operator
 overcome depression entertainment wurst earth uranus
 0
 2
-0 30 14 17
 0 23 3 0
+0 30 14 17
 1
 end_operator
 begin_operator
 overcome depression entertainment wurst mercury saturn
 0
 2
-0 30 14 17
 0 23 2 1
+0 30 14 17
 1
 end_operator
 begin_operator
 overcome depression entertainment wurst saturn earth
 0
 2
-0 30 14 17
 0 23 0 2
+0 30 14 17
 1
 end_operator
 begin_operator
@@ -38419,24 +38419,24 @@ begin_operator
 overcome depression-7 entertainment wurst earth uranus
 0
 2
-0 31 14 17
 0 23 3 0
+0 31 14 17
 1
 end_operator
 begin_operator
 overcome depression-7 entertainment wurst mercury saturn
 0
 2
-0 31 14 17
 0 23 2 1
+0 31 14 17
 1
 end_operator
 begin_operator
 overcome depression-7 entertainment wurst saturn earth
 0
 2
-0 31 14 17
 0 23 0 2
+0 31 14 17
 1
 end_operator
 begin_operator
@@ -41899,24 +41899,24 @@ begin_operator
 overcome dread entertainment wurst earth uranus
 0
 2
-0 32 14 17
 0 23 3 0
+0 32 14 17
 1
 end_operator
 begin_operator
 overcome dread entertainment wurst mercury saturn
 0
 2
-0 32 14 17
 0 23 2 1
+0 32 14 17
 1
 end_operator
 begin_operator
 overcome dread entertainment wurst saturn earth
 0
 2
-0 32 14 17
 0 23 0 2
+0 32 14 17
 1
 end_operator
 begin_operator
@@ -45379,24 +45379,24 @@ begin_operator
 overcome grief entertainment wurst earth uranus
 0
 2
-0 33 14 17
 0 23 3 0
+0 33 14 17
 1
 end_operator
 begin_operator
 overcome grief entertainment wurst mercury saturn
 0
 2
-0 33 14 17
 0 23 2 1
+0 33 14 17
 1
 end_operator
 begin_operator
 overcome grief entertainment wurst saturn earth
 0
 2
-0 33 14 17
 0 23 0 2
+0 33 14 17
 1
 end_operator
 begin_operator
@@ -48859,24 +48859,24 @@ begin_operator
 overcome hangover entertainment wurst earth uranus
 0
 2
-0 34 14 17
 0 23 3 0
+0 34 14 17
 1
 end_operator
 begin_operator
 overcome hangover entertainment wurst mercury saturn
 0
 2
-0 34 14 17
 0 23 2 1
+0 34 14 17
 1
 end_operator
 begin_operator
 overcome hangover entertainment wurst saturn earth
 0
 2
-0 34 14 17
 0 23 0 2
+0 34 14 17
 1
 end_operator
 begin_operator
@@ -52339,24 +52339,24 @@ begin_operator
 overcome jealousy entertainment wurst earth uranus
 0
 2
-0 35 14 17
 0 23 3 0
+0 35 14 17
 1
 end_operator
 begin_operator
 overcome jealousy entertainment wurst mercury saturn
 0
 2
-0 35 14 17
 0 23 2 1
+0 35 14 17
 1
 end_operator
 begin_operator
 overcome jealousy entertainment wurst saturn earth
 0
 2
-0 35 14 17
 0 23 0 2
+0 35 14 17
 1
 end_operator
 begin_operator
@@ -55819,24 +55819,24 @@ begin_operator
 overcome jealousy-2 entertainment wurst earth uranus
 0
 2
-0 36 14 17
 0 23 3 0
+0 36 14 17
 1
 end_operator
 begin_operator
 overcome jealousy-2 entertainment wurst mercury saturn
 0
 2
-0 36 14 17
 0 23 2 1
+0 36 14 17
 1
 end_operator
 begin_operator
 overcome jealousy-2 entertainment wurst saturn earth
 0
 2
-0 36 14 17
 0 23 0 2
+0 36 14 17
 1
 end_operator
 begin_operator
@@ -58868,8 +58868,8 @@ overcome laceration achievement arugula earth uranus
 1
 9 0
 2
-0 39 0 16
 0 37 3 0
+0 39 0 16
 1
 end_operator
 begin_operator
@@ -58877,8 +58877,8 @@ overcome laceration achievement arugula mercury saturn
 1
 9 0
 2
-0 39 0 16
 0 37 2 1
+0 39 0 16
 1
 end_operator
 begin_operator
@@ -58886,8 +58886,8 @@ overcome laceration achievement arugula saturn earth
 1
 9 0
 2
-0 39 0 16
 0 37 0 2
+0 39 0 16
 1
 end_operator
 begin_operator
@@ -58895,8 +58895,8 @@ overcome laceration achievement cherry earth uranus
 1
 9 1
 2
-0 39 1 16
 0 37 3 0
+0 39 1 16
 1
 end_operator
 begin_operator
@@ -58904,8 +58904,8 @@ overcome laceration achievement cherry mercury saturn
 1
 9 1
 2
-0 39 1 16
 0 37 2 1
+0 39 1 16
 1
 end_operator
 begin_operator
@@ -58913,8 +58913,8 @@ overcome laceration achievement cherry saturn earth
 1
 9 1
 2
-0 39 1 16
 0 37 0 2
+0 39 1 16
 1
 end_operator
 begin_operator
@@ -58922,8 +58922,8 @@ overcome laceration achievement endive earth uranus
 1
 9 2
 2
-0 39 2 16
 0 37 3 0
+0 39 2 16
 1
 end_operator
 begin_operator
@@ -58931,8 +58931,8 @@ overcome laceration achievement endive mercury saturn
 1
 9 2
 2
-0 39 2 16
 0 37 2 1
+0 39 2 16
 1
 end_operator
 begin_operator
@@ -58940,8 +58940,8 @@ overcome laceration achievement endive saturn earth
 1
 9 2
 2
-0 39 2 16
 0 37 0 2
+0 39 2 16
 1
 end_operator
 begin_operator
@@ -58949,8 +58949,8 @@ overcome laceration achievement ham earth uranus
 1
 9 3
 2
-0 39 3 16
 0 37 3 0
+0 39 3 16
 1
 end_operator
 begin_operator
@@ -58958,8 +58958,8 @@ overcome laceration achievement ham mercury saturn
 1
 9 3
 2
-0 39 3 16
 0 37 2 1
+0 39 3 16
 1
 end_operator
 begin_operator
@@ -58967,8 +58967,8 @@ overcome laceration achievement ham saturn earth
 1
 9 3
 2
-0 39 3 16
 0 37 0 2
+0 39 3 16
 1
 end_operator
 begin_operator
@@ -58976,8 +58976,8 @@ overcome laceration achievement haroset earth uranus
 1
 9 4
 2
-0 39 4 16
 0 37 3 0
+0 39 4 16
 1
 end_operator
 begin_operator
@@ -58985,8 +58985,8 @@ overcome laceration achievement haroset mercury saturn
 1
 9 4
 2
-0 39 4 16
 0 37 2 1
+0 39 4 16
 1
 end_operator
 begin_operator
@@ -58994,8 +58994,8 @@ overcome laceration achievement haroset saturn earth
 1
 9 4
 2
-0 39 4 16
 0 37 0 2
+0 39 4 16
 1
 end_operator
 begin_operator
@@ -59003,8 +59003,8 @@ overcome laceration achievement marzipan earth uranus
 1
 9 5
 2
-0 39 5 16
 0 37 3 0
+0 39 5 16
 1
 end_operator
 begin_operator
@@ -59012,8 +59012,8 @@ overcome laceration achievement marzipan mercury saturn
 1
 9 5
 2
-0 39 5 16
 0 37 2 1
+0 39 5 16
 1
 end_operator
 begin_operator
@@ -59021,8 +59021,8 @@ overcome laceration achievement marzipan saturn earth
 1
 9 5
 2
-0 39 5 16
 0 37 0 2
+0 39 5 16
 1
 end_operator
 begin_operator
@@ -59030,8 +59030,8 @@ overcome laceration achievement mutton earth uranus
 1
 9 6
 2
-0 39 6 16
 0 37 3 0
+0 39 6 16
 1
 end_operator
 begin_operator
@@ -59039,8 +59039,8 @@ overcome laceration achievement mutton mercury saturn
 1
 9 6
 2
-0 39 6 16
 0 37 2 1
+0 39 6 16
 1
 end_operator
 begin_operator
@@ -59048,8 +59048,8 @@ overcome laceration achievement mutton saturn earth
 1
 9 6
 2
-0 39 6 16
 0 37 0 2
+0 39 6 16
 1
 end_operator
 begin_operator
@@ -59057,8 +59057,8 @@ overcome laceration achievement onion earth uranus
 1
 9 7
 2
-0 39 7 16
 0 37 3 0
+0 39 7 16
 1
 end_operator
 begin_operator
@@ -59066,8 +59066,8 @@ overcome laceration achievement onion mercury saturn
 1
 9 7
 2
-0 39 7 16
 0 37 2 1
+0 39 7 16
 1
 end_operator
 begin_operator
@@ -59075,8 +59075,8 @@ overcome laceration achievement onion saturn earth
 1
 9 7
 2
-0 39 7 16
 0 37 0 2
+0 39 7 16
 1
 end_operator
 begin_operator
@@ -59084,8 +59084,8 @@ overcome laceration achievement papaya earth uranus
 1
 9 8
 2
-0 39 8 16
 0 37 3 0
+0 39 8 16
 1
 end_operator
 begin_operator
@@ -59093,8 +59093,8 @@ overcome laceration achievement papaya mercury saturn
 1
 9 8
 2
-0 39 8 16
 0 37 2 1
+0 39 8 16
 1
 end_operator
 begin_operator
@@ -59102,8 +59102,8 @@ overcome laceration achievement papaya saturn earth
 1
 9 8
 2
-0 39 8 16
 0 37 0 2
+0 39 8 16
 1
 end_operator
 begin_operator
@@ -59111,8 +59111,8 @@ overcome laceration achievement potato earth uranus
 1
 9 9
 2
-0 39 9 16
 0 37 3 0
+0 39 9 16
 1
 end_operator
 begin_operator
@@ -59120,8 +59120,8 @@ overcome laceration achievement potato mercury saturn
 1
 9 9
 2
-0 39 9 16
 0 37 2 1
+0 39 9 16
 1
 end_operator
 begin_operator
@@ -59129,8 +59129,8 @@ overcome laceration achievement potato saturn earth
 1
 9 9
 2
-0 39 9 16
 0 37 0 2
+0 39 9 16
 1
 end_operator
 begin_operator
@@ -59138,8 +59138,8 @@ overcome laceration achievement rice earth uranus
 1
 9 10
 2
-0 39 10 16
 0 37 3 0
+0 39 10 16
 1
 end_operator
 begin_operator
@@ -59147,8 +59147,8 @@ overcome laceration achievement rice mercury saturn
 1
 9 10
 2
-0 39 10 16
 0 37 2 1
+0 39 10 16
 1
 end_operator
 begin_operator
@@ -59156,8 +59156,8 @@ overcome laceration achievement rice saturn earth
 1
 9 10
 2
-0 39 10 16
 0 37 0 2
+0 39 10 16
 1
 end_operator
 begin_operator
@@ -59165,8 +59165,8 @@ overcome laceration achievement shrimp earth uranus
 1
 9 11
 2
-0 39 11 16
 0 37 3 0
+0 39 11 16
 1
 end_operator
 begin_operator
@@ -59174,8 +59174,8 @@ overcome laceration achievement shrimp mercury saturn
 1
 9 11
 2
-0 39 11 16
 0 37 2 1
+0 39 11 16
 1
 end_operator
 begin_operator
@@ -59183,8 +59183,8 @@ overcome laceration achievement shrimp saturn earth
 1
 9 11
 2
-0 39 11 16
 0 37 0 2
+0 39 11 16
 1
 end_operator
 begin_operator
@@ -59192,8 +59192,8 @@ overcome laceration achievement turkey earth uranus
 1
 9 12
 2
-0 39 12 16
 0 37 3 0
+0 39 12 16
 1
 end_operator
 begin_operator
@@ -59201,8 +59201,8 @@ overcome laceration achievement turkey mercury saturn
 1
 9 12
 2
-0 39 12 16
 0 37 2 1
+0 39 12 16
 1
 end_operator
 begin_operator
@@ -59210,8 +59210,8 @@ overcome laceration achievement turkey saturn earth
 1
 9 12
 2
-0 39 12 16
 0 37 0 2
+0 39 12 16
 1
 end_operator
 begin_operator
@@ -59219,8 +59219,8 @@ overcome laceration achievement wonderbread earth uranus
 1
 9 13
 2
-0 39 13 16
 0 37 3 0
+0 39 13 16
 1
 end_operator
 begin_operator
@@ -59228,8 +59228,8 @@ overcome laceration achievement wonderbread mercury saturn
 1
 9 13
 2
-0 39 13 16
 0 37 2 1
+0 39 13 16
 1
 end_operator
 begin_operator
@@ -59237,8 +59237,8 @@ overcome laceration achievement wonderbread saturn earth
 1
 9 13
 2
-0 39 13 16
 0 37 0 2
+0 39 13 16
 1
 end_operator
 begin_operator
@@ -59246,8 +59246,8 @@ overcome laceration achievement wurst earth uranus
 1
 9 14
 2
-0 39 14 16
 0 37 3 0
+0 39 14 16
 1
 end_operator
 begin_operator
@@ -59255,8 +59255,8 @@ overcome laceration achievement wurst mercury saturn
 1
 9 14
 2
-0 39 14 16
 0 37 2 1
+0 39 14 16
 1
 end_operator
 begin_operator
@@ -59264,8 +59264,8 @@ overcome laceration achievement wurst saturn earth
 1
 9 14
 2
-0 39 14 16
 0 37 0 2
+0 39 14 16
 1
 end_operator
 begin_operator
@@ -59273,8 +59273,8 @@ overcome laceration achievement yogurt earth uranus
 1
 9 15
 2
-0 39 15 16
 0 37 3 0
+0 39 15 16
 1
 end_operator
 begin_operator
@@ -59282,8 +59282,8 @@ overcome laceration achievement yogurt mercury saturn
 1
 9 15
 2
-0 39 15 16
 0 37 2 1
+0 39 15 16
 1
 end_operator
 begin_operator
@@ -59291,32 +59291,32 @@ overcome laceration achievement yogurt saturn earth
 1
 9 15
 2
-0 39 15 16
 0 37 0 2
+0 39 15 16
 1
 end_operator
 begin_operator
 overcome laceration entertainment wurst earth uranus
 0
 2
-0 39 14 17
 0 23 3 0
+0 39 14 17
 1
 end_operator
 begin_operator
 overcome laceration entertainment wurst mercury saturn
 0
 2
-0 39 14 17
 0 23 2 1
+0 39 14 17
 1
 end_operator
 begin_operator
 overcome laceration entertainment wurst saturn earth
 0
 2
-0 39 14 17
 0 23 0 2
+0 39 14 17
 1
 end_operator
 begin_operator
@@ -59324,8 +59324,8 @@ overcome laceration excitement arugula earth uranus
 1
 11 0
 2
-0 39 0 18
 0 38 3 0
+0 39 0 18
 1
 end_operator
 begin_operator
@@ -59333,8 +59333,8 @@ overcome laceration excitement arugula mercury saturn
 1
 11 0
 2
-0 39 0 18
 0 38 2 1
+0 39 0 18
 1
 end_operator
 begin_operator
@@ -59342,8 +59342,8 @@ overcome laceration excitement arugula saturn earth
 1
 11 0
 2
-0 39 0 18
 0 38 0 2
+0 39 0 18
 1
 end_operator
 begin_operator
@@ -59351,8 +59351,8 @@ overcome laceration excitement cherry earth uranus
 1
 11 1
 2
-0 39 1 18
 0 38 3 0
+0 39 1 18
 1
 end_operator
 begin_operator
@@ -59360,8 +59360,8 @@ overcome laceration excitement cherry mercury saturn
 1
 11 1
 2
-0 39 1 18
 0 38 2 1
+0 39 1 18
 1
 end_operator
 begin_operator
@@ -59369,8 +59369,8 @@ overcome laceration excitement cherry saturn earth
 1
 11 1
 2
-0 39 1 18
 0 38 0 2
+0 39 1 18
 1
 end_operator
 begin_operator
@@ -59378,8 +59378,8 @@ overcome laceration excitement endive earth uranus
 1
 11 2
 2
-0 39 2 18
 0 38 3 0
+0 39 2 18
 1
 end_operator
 begin_operator
@@ -59387,8 +59387,8 @@ overcome laceration excitement endive mercury saturn
 1
 11 2
 2
-0 39 2 18
 0 38 2 1
+0 39 2 18
 1
 end_operator
 begin_operator
@@ -59396,8 +59396,8 @@ overcome laceration excitement endive saturn earth
 1
 11 2
 2
-0 39 2 18
 0 38 0 2
+0 39 2 18
 1
 end_operator
 begin_operator
@@ -59405,8 +59405,8 @@ overcome laceration excitement ham earth uranus
 1
 11 3
 2
-0 39 3 18
 0 38 3 0
+0 39 3 18
 1
 end_operator
 begin_operator
@@ -59414,8 +59414,8 @@ overcome laceration excitement ham mercury saturn
 1
 11 3
 2
-0 39 3 18
 0 38 2 1
+0 39 3 18
 1
 end_operator
 begin_operator
@@ -59423,8 +59423,8 @@ overcome laceration excitement ham saturn earth
 1
 11 3
 2
-0 39 3 18
 0 38 0 2
+0 39 3 18
 1
 end_operator
 begin_operator
@@ -59432,8 +59432,8 @@ overcome laceration excitement haroset earth uranus
 1
 11 4
 2
-0 39 4 18
 0 38 3 0
+0 39 4 18
 1
 end_operator
 begin_operator
@@ -59441,8 +59441,8 @@ overcome laceration excitement haroset mercury saturn
 1
 11 4
 2
-0 39 4 18
 0 38 2 1
+0 39 4 18
 1
 end_operator
 begin_operator
@@ -59450,8 +59450,8 @@ overcome laceration excitement haroset saturn earth
 1
 11 4
 2
-0 39 4 18
 0 38 0 2
+0 39 4 18
 1
 end_operator
 begin_operator
@@ -59459,8 +59459,8 @@ overcome laceration excitement marzipan earth uranus
 1
 11 5
 2
-0 39 5 18
 0 38 3 0
+0 39 5 18
 1
 end_operator
 begin_operator
@@ -59468,8 +59468,8 @@ overcome laceration excitement marzipan mercury saturn
 1
 11 5
 2
-0 39 5 18
 0 38 2 1
+0 39 5 18
 1
 end_operator
 begin_operator
@@ -59477,8 +59477,8 @@ overcome laceration excitement marzipan saturn earth
 1
 11 5
 2
-0 39 5 18
 0 38 0 2
+0 39 5 18
 1
 end_operator
 begin_operator
@@ -59486,8 +59486,8 @@ overcome laceration excitement mutton earth uranus
 1
 11 6
 2
-0 39 6 18
 0 38 3 0
+0 39 6 18
 1
 end_operator
 begin_operator
@@ -59495,8 +59495,8 @@ overcome laceration excitement mutton mercury saturn
 1
 11 6
 2
-0 39 6 18
 0 38 2 1
+0 39 6 18
 1
 end_operator
 begin_operator
@@ -59504,8 +59504,8 @@ overcome laceration excitement mutton saturn earth
 1
 11 6
 2
-0 39 6 18
 0 38 0 2
+0 39 6 18
 1
 end_operator
 begin_operator
@@ -59513,8 +59513,8 @@ overcome laceration excitement onion earth uranus
 1
 11 7
 2
-0 39 7 18
 0 38 3 0
+0 39 7 18
 1
 end_operator
 begin_operator
@@ -59522,8 +59522,8 @@ overcome laceration excitement onion mercury saturn
 1
 11 7
 2
-0 39 7 18
 0 38 2 1
+0 39 7 18
 1
 end_operator
 begin_operator
@@ -59531,8 +59531,8 @@ overcome laceration excitement onion saturn earth
 1
 11 7
 2
-0 39 7 18
 0 38 0 2
+0 39 7 18
 1
 end_operator
 begin_operator
@@ -59540,8 +59540,8 @@ overcome laceration excitement papaya earth uranus
 1
 11 8
 2
-0 39 8 18
 0 38 3 0
+0 39 8 18
 1
 end_operator
 begin_operator
@@ -59549,8 +59549,8 @@ overcome laceration excitement papaya mercury saturn
 1
 11 8
 2
-0 39 8 18
 0 38 2 1
+0 39 8 18
 1
 end_operator
 begin_operator
@@ -59558,8 +59558,8 @@ overcome laceration excitement papaya saturn earth
 1
 11 8
 2
-0 39 8 18
 0 38 0 2
+0 39 8 18
 1
 end_operator
 begin_operator
@@ -59567,8 +59567,8 @@ overcome laceration excitement potato earth uranus
 1
 11 9
 2
-0 39 9 18
 0 38 3 0
+0 39 9 18
 1
 end_operator
 begin_operator
@@ -59576,8 +59576,8 @@ overcome laceration excitement potato mercury saturn
 1
 11 9
 2
-0 39 9 18
 0 38 2 1
+0 39 9 18
 1
 end_operator
 begin_operator
@@ -59585,8 +59585,8 @@ overcome laceration excitement potato saturn earth
 1
 11 9
 2
-0 39 9 18
 0 38 0 2
+0 39 9 18
 1
 end_operator
 begin_operator
@@ -59594,8 +59594,8 @@ overcome laceration excitement rice earth uranus
 1
 11 10
 2
-0 39 10 18
 0 38 3 0
+0 39 10 18
 1
 end_operator
 begin_operator
@@ -59603,8 +59603,8 @@ overcome laceration excitement rice mercury saturn
 1
 11 10
 2
-0 39 10 18
 0 38 2 1
+0 39 10 18
 1
 end_operator
 begin_operator
@@ -59612,8 +59612,8 @@ overcome laceration excitement rice saturn earth
 1
 11 10
 2
-0 39 10 18
 0 38 0 2
+0 39 10 18
 1
 end_operator
 begin_operator
@@ -59621,8 +59621,8 @@ overcome laceration excitement shrimp earth uranus
 1
 11 11
 2
-0 39 11 18
 0 38 3 0
+0 39 11 18
 1
 end_operator
 begin_operator
@@ -59630,8 +59630,8 @@ overcome laceration excitement shrimp mercury saturn
 1
 11 11
 2
-0 39 11 18
 0 38 2 1
+0 39 11 18
 1
 end_operator
 begin_operator
@@ -59639,8 +59639,8 @@ overcome laceration excitement shrimp saturn earth
 1
 11 11
 2
-0 39 11 18
 0 38 0 2
+0 39 11 18
 1
 end_operator
 begin_operator
@@ -59648,8 +59648,8 @@ overcome laceration excitement turkey earth uranus
 1
 11 12
 2
-0 39 12 18
 0 38 3 0
+0 39 12 18
 1
 end_operator
 begin_operator
@@ -59657,8 +59657,8 @@ overcome laceration excitement turkey mercury saturn
 1
 11 12
 2
-0 39 12 18
 0 38 2 1
+0 39 12 18
 1
 end_operator
 begin_operator
@@ -59666,8 +59666,8 @@ overcome laceration excitement turkey saturn earth
 1
 11 12
 2
-0 39 12 18
 0 38 0 2
+0 39 12 18
 1
 end_operator
 begin_operator
@@ -59675,8 +59675,8 @@ overcome laceration excitement wonderbread earth uranus
 1
 11 13
 2
-0 39 13 18
 0 38 3 0
+0 39 13 18
 1
 end_operator
 begin_operator
@@ -59684,8 +59684,8 @@ overcome laceration excitement wonderbread mercury saturn
 1
 11 13
 2
-0 39 13 18
 0 38 2 1
+0 39 13 18
 1
 end_operator
 begin_operator
@@ -59693,8 +59693,8 @@ overcome laceration excitement wonderbread saturn earth
 1
 11 13
 2
-0 39 13 18
 0 38 0 2
+0 39 13 18
 1
 end_operator
 begin_operator
@@ -59702,8 +59702,8 @@ overcome laceration excitement wurst earth uranus
 1
 11 14
 2
-0 39 14 18
 0 38 3 0
+0 39 14 18
 1
 end_operator
 begin_operator
@@ -59711,8 +59711,8 @@ overcome laceration excitement wurst mercury saturn
 1
 11 14
 2
-0 39 14 18
 0 38 2 1
+0 39 14 18
 1
 end_operator
 begin_operator
@@ -59720,8 +59720,8 @@ overcome laceration excitement wurst saturn earth
 1
 11 14
 2
-0 39 14 18
 0 38 0 2
+0 39 14 18
 1
 end_operator
 begin_operator
@@ -59729,8 +59729,8 @@ overcome laceration excitement yogurt earth uranus
 1
 11 15
 2
-0 39 15 18
 0 38 3 0
+0 39 15 18
 1
 end_operator
 begin_operator
@@ -59738,8 +59738,8 @@ overcome laceration excitement yogurt mercury saturn
 1
 11 15
 2
-0 39 15 18
 0 38 2 1
+0 39 15 18
 1
 end_operator
 begin_operator
@@ -59747,8 +59747,8 @@ overcome laceration excitement yogurt saturn earth
 1
 11 15
 2
-0 39 15 18
 0 38 0 2
+0 39 15 18
 1
 end_operator
 begin_operator
@@ -62348,8 +62348,8 @@ overcome laceration-8 achievement arugula earth uranus
 1
 9 0
 2
-0 40 0 16
 0 37 3 0
+0 40 0 16
 1
 end_operator
 begin_operator
@@ -62357,8 +62357,8 @@ overcome laceration-8 achievement arugula mercury saturn
 1
 9 0
 2
-0 40 0 16
 0 37 2 1
+0 40 0 16
 1
 end_operator
 begin_operator
@@ -62366,8 +62366,8 @@ overcome laceration-8 achievement arugula saturn earth
 1
 9 0
 2
-0 40 0 16
 0 37 0 2
+0 40 0 16
 1
 end_operator
 begin_operator
@@ -62375,8 +62375,8 @@ overcome laceration-8 achievement cherry earth uranus
 1
 9 1
 2
-0 40 1 16
 0 37 3 0
+0 40 1 16
 1
 end_operator
 begin_operator
@@ -62384,8 +62384,8 @@ overcome laceration-8 achievement cherry mercury saturn
 1
 9 1
 2
-0 40 1 16
 0 37 2 1
+0 40 1 16
 1
 end_operator
 begin_operator
@@ -62393,8 +62393,8 @@ overcome laceration-8 achievement cherry saturn earth
 1
 9 1
 2
-0 40 1 16
 0 37 0 2
+0 40 1 16
 1
 end_operator
 begin_operator
@@ -62402,8 +62402,8 @@ overcome laceration-8 achievement endive earth uranus
 1
 9 2
 2
-0 40 2 16
 0 37 3 0
+0 40 2 16
 1
 end_operator
 begin_operator
@@ -62411,8 +62411,8 @@ overcome laceration-8 achievement endive mercury saturn
 1
 9 2
 2
-0 40 2 16
 0 37 2 1
+0 40 2 16
 1
 end_operator
 begin_operator
@@ -62420,8 +62420,8 @@ overcome laceration-8 achievement endive saturn earth
 1
 9 2
 2
-0 40 2 16
 0 37 0 2
+0 40 2 16
 1
 end_operator
 begin_operator
@@ -62429,8 +62429,8 @@ overcome laceration-8 achievement ham earth uranus
 1
 9 3
 2
-0 40 3 16
 0 37 3 0
+0 40 3 16
 1
 end_operator
 begin_operator
@@ -62438,8 +62438,8 @@ overcome laceration-8 achievement ham mercury saturn
 1
 9 3
 2
-0 40 3 16
 0 37 2 1
+0 40 3 16
 1
 end_operator
 begin_operator
@@ -62447,8 +62447,8 @@ overcome laceration-8 achievement ham saturn earth
 1
 9 3
 2
-0 40 3 16
 0 37 0 2
+0 40 3 16
 1
 end_operator
 begin_operator
@@ -62456,8 +62456,8 @@ overcome laceration-8 achievement haroset earth uranus
 1
 9 4
 2
-0 40 4 16
 0 37 3 0
+0 40 4 16
 1
 end_operator
 begin_operator
@@ -62465,8 +62465,8 @@ overcome laceration-8 achievement haroset mercury saturn
 1
 9 4
 2
-0 40 4 16
 0 37 2 1
+0 40 4 16
 1
 end_operator
 begin_operator
@@ -62474,8 +62474,8 @@ overcome laceration-8 achievement haroset saturn earth
 1
 9 4
 2
-0 40 4 16
 0 37 0 2
+0 40 4 16
 1
 end_operator
 begin_operator
@@ -62483,8 +62483,8 @@ overcome laceration-8 achievement marzipan earth uranus
 1
 9 5
 2
-0 40 5 16
 0 37 3 0
+0 40 5 16
 1
 end_operator
 begin_operator
@@ -62492,8 +62492,8 @@ overcome laceration-8 achievement marzipan mercury saturn
 1
 9 5
 2
-0 40 5 16
 0 37 2 1
+0 40 5 16
 1
 end_operator
 begin_operator
@@ -62501,8 +62501,8 @@ overcome laceration-8 achievement marzipan saturn earth
 1
 9 5
 2
-0 40 5 16
 0 37 0 2
+0 40 5 16
 1
 end_operator
 begin_operator
@@ -62510,8 +62510,8 @@ overcome laceration-8 achievement mutton earth uranus
 1
 9 6
 2
-0 40 6 16
 0 37 3 0
+0 40 6 16
 1
 end_operator
 begin_operator
@@ -62519,8 +62519,8 @@ overcome laceration-8 achievement mutton mercury saturn
 1
 9 6
 2
-0 40 6 16
 0 37 2 1
+0 40 6 16
 1
 end_operator
 begin_operator
@@ -62528,8 +62528,8 @@ overcome laceration-8 achievement mutton saturn earth
 1
 9 6
 2
-0 40 6 16
 0 37 0 2
+0 40 6 16
 1
 end_operator
 begin_operator
@@ -62537,8 +62537,8 @@ overcome laceration-8 achievement onion earth uranus
 1
 9 7
 2
-0 40 7 16
 0 37 3 0
+0 40 7 16
 1
 end_operator
 begin_operator
@@ -62546,8 +62546,8 @@ overcome laceration-8 achievement onion mercury saturn
 1
 9 7
 2
-0 40 7 16
 0 37 2 1
+0 40 7 16
 1
 end_operator
 begin_operator
@@ -62555,8 +62555,8 @@ overcome laceration-8 achievement onion saturn earth
 1
 9 7
 2
-0 40 7 16
 0 37 0 2
+0 40 7 16
 1
 end_operator
 begin_operator
@@ -62564,8 +62564,8 @@ overcome laceration-8 achievement papaya earth uranus
 1
 9 8
 2
-0 40 8 16
 0 37 3 0
+0 40 8 16
 1
 end_operator
 begin_operator
@@ -62573,8 +62573,8 @@ overcome laceration-8 achievement papaya mercury saturn
 1
 9 8
 2
-0 40 8 16
 0 37 2 1
+0 40 8 16
 1
 end_operator
 begin_operator
@@ -62582,8 +62582,8 @@ overcome laceration-8 achievement papaya saturn earth
 1
 9 8
 2
-0 40 8 16
 0 37 0 2
+0 40 8 16
 1
 end_operator
 begin_operator
@@ -62591,8 +62591,8 @@ overcome laceration-8 achievement potato earth uranus
 1
 9 9
 2
-0 40 9 16
 0 37 3 0
+0 40 9 16
 1
 end_operator
 begin_operator
@@ -62600,8 +62600,8 @@ overcome laceration-8 achievement potato mercury saturn
 1
 9 9
 2
-0 40 9 16
 0 37 2 1
+0 40 9 16
 1
 end_operator
 begin_operator
@@ -62609,8 +62609,8 @@ overcome laceration-8 achievement potato saturn earth
 1
 9 9
 2
-0 40 9 16
 0 37 0 2
+0 40 9 16
 1
 end_operator
 begin_operator
@@ -62618,8 +62618,8 @@ overcome laceration-8 achievement rice earth uranus
 1
 9 10
 2
-0 40 10 16
 0 37 3 0
+0 40 10 16
 1
 end_operator
 begin_operator
@@ -62627,8 +62627,8 @@ overcome laceration-8 achievement rice mercury saturn
 1
 9 10
 2
-0 40 10 16
 0 37 2 1
+0 40 10 16
 1
 end_operator
 begin_operator
@@ -62636,8 +62636,8 @@ overcome laceration-8 achievement rice saturn earth
 1
 9 10
 2
-0 40 10 16
 0 37 0 2
+0 40 10 16
 1
 end_operator
 begin_operator
@@ -62645,8 +62645,8 @@ overcome laceration-8 achievement shrimp earth uranus
 1
 9 11
 2
-0 40 11 16
 0 37 3 0
+0 40 11 16
 1
 end_operator
 begin_operator
@@ -62654,8 +62654,8 @@ overcome laceration-8 achievement shrimp mercury saturn
 1
 9 11
 2
-0 40 11 16
 0 37 2 1
+0 40 11 16
 1
 end_operator
 begin_operator
@@ -62663,8 +62663,8 @@ overcome laceration-8 achievement shrimp saturn earth
 1
 9 11
 2
-0 40 11 16
 0 37 0 2
+0 40 11 16
 1
 end_operator
 begin_operator
@@ -62672,8 +62672,8 @@ overcome laceration-8 achievement turkey earth uranus
 1
 9 12
 2
-0 40 12 16
 0 37 3 0
+0 40 12 16
 1
 end_operator
 begin_operator
@@ -62681,8 +62681,8 @@ overcome laceration-8 achievement turkey mercury saturn
 1
 9 12
 2
-0 40 12 16
 0 37 2 1
+0 40 12 16
 1
 end_operator
 begin_operator
@@ -62690,8 +62690,8 @@ overcome laceration-8 achievement turkey saturn earth
 1
 9 12
 2
-0 40 12 16
 0 37 0 2
+0 40 12 16
 1
 end_operator
 begin_operator
@@ -62699,8 +62699,8 @@ overcome laceration-8 achievement wonderbread earth uranus
 1
 9 13
 2
-0 40 13 16
 0 37 3 0
+0 40 13 16
 1
 end_operator
 begin_operator
@@ -62708,8 +62708,8 @@ overcome laceration-8 achievement wonderbread mercury saturn
 1
 9 13
 2
-0 40 13 16
 0 37 2 1
+0 40 13 16
 1
 end_operator
 begin_operator
@@ -62717,8 +62717,8 @@ overcome laceration-8 achievement wonderbread saturn earth
 1
 9 13
 2
-0 40 13 16
 0 37 0 2
+0 40 13 16
 1
 end_operator
 begin_operator
@@ -62726,8 +62726,8 @@ overcome laceration-8 achievement wurst earth uranus
 1
 9 14
 2
-0 40 14 16
 0 37 3 0
+0 40 14 16
 1
 end_operator
 begin_operator
@@ -62735,8 +62735,8 @@ overcome laceration-8 achievement wurst mercury saturn
 1
 9 14
 2
-0 40 14 16
 0 37 2 1
+0 40 14 16
 1
 end_operator
 begin_operator
@@ -62744,8 +62744,8 @@ overcome laceration-8 achievement wurst saturn earth
 1
 9 14
 2
-0 40 14 16
 0 37 0 2
+0 40 14 16
 1
 end_operator
 begin_operator
@@ -62753,8 +62753,8 @@ overcome laceration-8 achievement yogurt earth uranus
 1
 9 15
 2
-0 40 15 16
 0 37 3 0
+0 40 15 16
 1
 end_operator
 begin_operator
@@ -62762,8 +62762,8 @@ overcome laceration-8 achievement yogurt mercury saturn
 1
 9 15
 2
-0 40 15 16
 0 37 2 1
+0 40 15 16
 1
 end_operator
 begin_operator
@@ -62771,32 +62771,32 @@ overcome laceration-8 achievement yogurt saturn earth
 1
 9 15
 2
-0 40 15 16
 0 37 0 2
+0 40 15 16
 1
 end_operator
 begin_operator
 overcome laceration-8 entertainment wurst earth uranus
 0
 2
-0 40 14 17
 0 23 3 0
+0 40 14 17
 1
 end_operator
 begin_operator
 overcome laceration-8 entertainment wurst mercury saturn
 0
 2
-0 40 14 17
 0 23 2 1
+0 40 14 17
 1
 end_operator
 begin_operator
 overcome laceration-8 entertainment wurst saturn earth
 0
 2
-0 40 14 17
 0 23 0 2
+0 40 14 17
 1
 end_operator
 begin_operator
@@ -62804,8 +62804,8 @@ overcome laceration-8 excitement arugula earth uranus
 1
 11 0
 2
-0 40 0 18
 0 38 3 0
+0 40 0 18
 1
 end_operator
 begin_operator
@@ -62813,8 +62813,8 @@ overcome laceration-8 excitement arugula mercury saturn
 1
 11 0
 2
-0 40 0 18
 0 38 2 1
+0 40 0 18
 1
 end_operator
 begin_operator
@@ -62822,8 +62822,8 @@ overcome laceration-8 excitement arugula saturn earth
 1
 11 0
 2
-0 40 0 18
 0 38 0 2
+0 40 0 18
 1
 end_operator
 begin_operator
@@ -62831,8 +62831,8 @@ overcome laceration-8 excitement cherry earth uranus
 1
 11 1
 2
-0 40 1 18
 0 38 3 0
+0 40 1 18
 1
 end_operator
 begin_operator
@@ -62840,8 +62840,8 @@ overcome laceration-8 excitement cherry mercury saturn
 1
 11 1
 2
-0 40 1 18
 0 38 2 1
+0 40 1 18
 1
 end_operator
 begin_operator
@@ -62849,8 +62849,8 @@ overcome laceration-8 excitement cherry saturn earth
 1
 11 1
 2
-0 40 1 18
 0 38 0 2
+0 40 1 18
 1
 end_operator
 begin_operator
@@ -62858,8 +62858,8 @@ overcome laceration-8 excitement endive earth uranus
 1
 11 2
 2
-0 40 2 18
 0 38 3 0
+0 40 2 18
 1
 end_operator
 begin_operator
@@ -62867,8 +62867,8 @@ overcome laceration-8 excitement endive mercury saturn
 1
 11 2
 2
-0 40 2 18
 0 38 2 1
+0 40 2 18
 1
 end_operator
 begin_operator
@@ -62876,8 +62876,8 @@ overcome laceration-8 excitement endive saturn earth
 1
 11 2
 2
-0 40 2 18
 0 38 0 2
+0 40 2 18
 1
 end_operator
 begin_operator
@@ -62885,8 +62885,8 @@ overcome laceration-8 excitement ham earth uranus
 1
 11 3
 2
-0 40 3 18
 0 38 3 0
+0 40 3 18
 1
 end_operator
 begin_operator
@@ -62894,8 +62894,8 @@ overcome laceration-8 excitement ham mercury saturn
 1
 11 3
 2
-0 40 3 18
 0 38 2 1
+0 40 3 18
 1
 end_operator
 begin_operator
@@ -62903,8 +62903,8 @@ overcome laceration-8 excitement ham saturn earth
 1
 11 3
 2
-0 40 3 18
 0 38 0 2
+0 40 3 18
 1
 end_operator
 begin_operator
@@ -62912,8 +62912,8 @@ overcome laceration-8 excitement haroset earth uranus
 1
 11 4
 2
-0 40 4 18
 0 38 3 0
+0 40 4 18
 1
 end_operator
 begin_operator
@@ -62921,8 +62921,8 @@ overcome laceration-8 excitement haroset mercury saturn
 1
 11 4
 2
-0 40 4 18
 0 38 2 1
+0 40 4 18
 1
 end_operator
 begin_operator
@@ -62930,8 +62930,8 @@ overcome laceration-8 excitement haroset saturn earth
 1
 11 4
 2
-0 40 4 18
 0 38 0 2
+0 40 4 18
 1
 end_operator
 begin_operator
@@ -62939,8 +62939,8 @@ overcome laceration-8 excitement marzipan earth uranus
 1
 11 5
 2
-0 40 5 18
 0 38 3 0
+0 40 5 18
 1
 end_operator
 begin_operator
@@ -62948,8 +62948,8 @@ overcome laceration-8 excitement marzipan mercury saturn
 1
 11 5
 2
-0 40 5 18
 0 38 2 1
+0 40 5 18
 1
 end_operator
 begin_operator
@@ -62957,8 +62957,8 @@ overcome laceration-8 excitement marzipan saturn earth
 1
 11 5
 2
-0 40 5 18
 0 38 0 2
+0 40 5 18
 1
 end_operator
 begin_operator
@@ -62966,8 +62966,8 @@ overcome laceration-8 excitement mutton earth uranus
 1
 11 6
 2
-0 40 6 18
 0 38 3 0
+0 40 6 18
 1
 end_operator
 begin_operator
@@ -62975,8 +62975,8 @@ overcome laceration-8 excitement mutton mercury saturn
 1
 11 6
 2
-0 40 6 18
 0 38 2 1
+0 40 6 18
 1
 end_operator
 begin_operator
@@ -62984,8 +62984,8 @@ overcome laceration-8 excitement mutton saturn earth
 1
 11 6
 2
-0 40 6 18
 0 38 0 2
+0 40 6 18
 1
 end_operator
 begin_operator
@@ -62993,8 +62993,8 @@ overcome laceration-8 excitement onion earth uranus
 1
 11 7
 2
-0 40 7 18
 0 38 3 0
+0 40 7 18
 1
 end_operator
 begin_operator
@@ -63002,8 +63002,8 @@ overcome laceration-8 excitement onion mercury saturn
 1
 11 7
 2
-0 40 7 18
 0 38 2 1
+0 40 7 18
 1
 end_operator
 begin_operator
@@ -63011,8 +63011,8 @@ overcome laceration-8 excitement onion saturn earth
 1
 11 7
 2
-0 40 7 18
 0 38 0 2
+0 40 7 18
 1
 end_operator
 begin_operator
@@ -63020,8 +63020,8 @@ overcome laceration-8 excitement papaya earth uranus
 1
 11 8
 2
-0 40 8 18
 0 38 3 0
+0 40 8 18
 1
 end_operator
 begin_operator
@@ -63029,8 +63029,8 @@ overcome laceration-8 excitement papaya mercury saturn
 1
 11 8
 2
-0 40 8 18
 0 38 2 1
+0 40 8 18
 1
 end_operator
 begin_operator
@@ -63038,8 +63038,8 @@ overcome laceration-8 excitement papaya saturn earth
 1
 11 8
 2
-0 40 8 18
 0 38 0 2
+0 40 8 18
 1
 end_operator
 begin_operator
@@ -63047,8 +63047,8 @@ overcome laceration-8 excitement potato earth uranus
 1
 11 9
 2
-0 40 9 18
 0 38 3 0
+0 40 9 18
 1
 end_operator
 begin_operator
@@ -63056,8 +63056,8 @@ overcome laceration-8 excitement potato mercury saturn
 1
 11 9
 2
-0 40 9 18
 0 38 2 1
+0 40 9 18
 1
 end_operator
 begin_operator
@@ -63065,8 +63065,8 @@ overcome laceration-8 excitement potato saturn earth
 1
 11 9
 2
-0 40 9 18
 0 38 0 2
+0 40 9 18
 1
 end_operator
 begin_operator
@@ -63074,8 +63074,8 @@ overcome laceration-8 excitement rice earth uranus
 1
 11 10
 2
-0 40 10 18
 0 38 3 0
+0 40 10 18
 1
 end_operator
 begin_operator
@@ -63083,8 +63083,8 @@ overcome laceration-8 excitement rice mercury saturn
 1
 11 10
 2
-0 40 10 18
 0 38 2 1
+0 40 10 18
 1
 end_operator
 begin_operator
@@ -63092,8 +63092,8 @@ overcome laceration-8 excitement rice saturn earth
 1
 11 10
 2
-0 40 10 18
 0 38 0 2
+0 40 10 18
 1
 end_operator
 begin_operator
@@ -63101,8 +63101,8 @@ overcome laceration-8 excitement shrimp earth uranus
 1
 11 11
 2
-0 40 11 18
 0 38 3 0
+0 40 11 18
 1
 end_operator
 begin_operator
@@ -63110,8 +63110,8 @@ overcome laceration-8 excitement shrimp mercury saturn
 1
 11 11
 2
-0 40 11 18
 0 38 2 1
+0 40 11 18
 1
 end_operator
 begin_operator
@@ -63119,8 +63119,8 @@ overcome laceration-8 excitement shrimp saturn earth
 1
 11 11
 2
-0 40 11 18
 0 38 0 2
+0 40 11 18
 1
 end_operator
 begin_operator
@@ -63128,8 +63128,8 @@ overcome laceration-8 excitement turkey earth uranus
 1
 11 12
 2
-0 40 12 18
 0 38 3 0
+0 40 12 18
 1
 end_operator
 begin_operator
@@ -63137,8 +63137,8 @@ overcome laceration-8 excitement turkey mercury saturn
 1
 11 12
 2
-0 40 12 18
 0 38 2 1
+0 40 12 18
 1
 end_operator
 begin_operator
@@ -63146,8 +63146,8 @@ overcome laceration-8 excitement turkey saturn earth
 1
 11 12
 2
-0 40 12 18
 0 38 0 2
+0 40 12 18
 1
 end_operator
 begin_operator
@@ -63155,8 +63155,8 @@ overcome laceration-8 excitement wonderbread earth uranus
 1
 11 13
 2
-0 40 13 18
 0 38 3 0
+0 40 13 18
 1
 end_operator
 begin_operator
@@ -63164,8 +63164,8 @@ overcome laceration-8 excitement wonderbread mercury saturn
 1
 11 13
 2
-0 40 13 18
 0 38 2 1
+0 40 13 18
 1
 end_operator
 begin_operator
@@ -63173,8 +63173,8 @@ overcome laceration-8 excitement wonderbread saturn earth
 1
 11 13
 2
-0 40 13 18
 0 38 0 2
+0 40 13 18
 1
 end_operator
 begin_operator
@@ -63182,8 +63182,8 @@ overcome laceration-8 excitement wurst earth uranus
 1
 11 14
 2
-0 40 14 18
 0 38 3 0
+0 40 14 18
 1
 end_operator
 begin_operator
@@ -63191,8 +63191,8 @@ overcome laceration-8 excitement wurst mercury saturn
 1
 11 14
 2
-0 40 14 18
 0 38 2 1
+0 40 14 18
 1
 end_operator
 begin_operator
@@ -63200,8 +63200,8 @@ overcome laceration-8 excitement wurst saturn earth
 1
 11 14
 2
-0 40 14 18
 0 38 0 2
+0 40 14 18
 1
 end_operator
 begin_operator
@@ -63209,8 +63209,8 @@ overcome laceration-8 excitement yogurt earth uranus
 1
 11 15
 2
-0 40 15 18
 0 38 3 0
+0 40 15 18
 1
 end_operator
 begin_operator
@@ -63218,8 +63218,8 @@ overcome laceration-8 excitement yogurt mercury saturn
 1
 11 15
 2
-0 40 15 18
 0 38 2 1
+0 40 15 18
 1
 end_operator
 begin_operator
@@ -63227,8 +63227,8 @@ overcome laceration-8 excitement yogurt saturn earth
 1
 11 15
 2
-0 40 15 18
 0 38 0 2
+0 40 15 18
 1
 end_operator
 begin_operator
@@ -65828,8 +65828,8 @@ overcome loneliness achievement arugula earth uranus
 1
 9 0
 2
-0 43 0 16
 0 37 3 0
+0 43 0 16
 1
 end_operator
 begin_operator
@@ -65837,8 +65837,8 @@ overcome loneliness achievement arugula mercury saturn
 1
 9 0
 2
-0 43 0 16
 0 37 2 1
+0 43 0 16
 1
 end_operator
 begin_operator
@@ -65846,8 +65846,8 @@ overcome loneliness achievement arugula saturn earth
 1
 9 0
 2
-0 43 0 16
 0 37 0 2
+0 43 0 16
 1
 end_operator
 begin_operator
@@ -65855,8 +65855,8 @@ overcome loneliness achievement cherry earth uranus
 1
 9 1
 2
-0 43 1 16
 0 37 3 0
+0 43 1 16
 1
 end_operator
 begin_operator
@@ -65864,8 +65864,8 @@ overcome loneliness achievement cherry mercury saturn
 1
 9 1
 2
-0 43 1 16
 0 37 2 1
+0 43 1 16
 1
 end_operator
 begin_operator
@@ -65873,8 +65873,8 @@ overcome loneliness achievement cherry saturn earth
 1
 9 1
 2
-0 43 1 16
 0 37 0 2
+0 43 1 16
 1
 end_operator
 begin_operator
@@ -65882,8 +65882,8 @@ overcome loneliness achievement endive earth uranus
 1
 9 2
 2
-0 43 2 16
 0 37 3 0
+0 43 2 16
 1
 end_operator
 begin_operator
@@ -65891,8 +65891,8 @@ overcome loneliness achievement endive mercury saturn
 1
 9 2
 2
-0 43 2 16
 0 37 2 1
+0 43 2 16
 1
 end_operator
 begin_operator
@@ -65900,8 +65900,8 @@ overcome loneliness achievement endive saturn earth
 1
 9 2
 2
-0 43 2 16
 0 37 0 2
+0 43 2 16
 1
 end_operator
 begin_operator
@@ -65909,8 +65909,8 @@ overcome loneliness achievement ham earth uranus
 1
 9 3
 2
-0 43 3 16
 0 37 3 0
+0 43 3 16
 1
 end_operator
 begin_operator
@@ -65918,8 +65918,8 @@ overcome loneliness achievement ham mercury saturn
 1
 9 3
 2
-0 43 3 16
 0 37 2 1
+0 43 3 16
 1
 end_operator
 begin_operator
@@ -65927,8 +65927,8 @@ overcome loneliness achievement ham saturn earth
 1
 9 3
 2
-0 43 3 16
 0 37 0 2
+0 43 3 16
 1
 end_operator
 begin_operator
@@ -65936,8 +65936,8 @@ overcome loneliness achievement haroset earth uranus
 1
 9 4
 2
-0 43 4 16
 0 37 3 0
+0 43 4 16
 1
 end_operator
 begin_operator
@@ -65945,8 +65945,8 @@ overcome loneliness achievement haroset mercury saturn
 1
 9 4
 2
-0 43 4 16
 0 37 2 1
+0 43 4 16
 1
 end_operator
 begin_operator
@@ -65954,8 +65954,8 @@ overcome loneliness achievement haroset saturn earth
 1
 9 4
 2
-0 43 4 16
 0 37 0 2
+0 43 4 16
 1
 end_operator
 begin_operator
@@ -65963,8 +65963,8 @@ overcome loneliness achievement marzipan earth uranus
 1
 9 5
 2
-0 43 5 16
 0 37 3 0
+0 43 5 16
 1
 end_operator
 begin_operator
@@ -65972,8 +65972,8 @@ overcome loneliness achievement marzipan mercury saturn
 1
 9 5
 2
-0 43 5 16
 0 37 2 1
+0 43 5 16
 1
 end_operator
 begin_operator
@@ -65981,8 +65981,8 @@ overcome loneliness achievement marzipan saturn earth
 1
 9 5
 2
-0 43 5 16
 0 37 0 2
+0 43 5 16
 1
 end_operator
 begin_operator
@@ -65990,8 +65990,8 @@ overcome loneliness achievement mutton earth uranus
 1
 9 6
 2
-0 43 6 16
 0 37 3 0
+0 43 6 16
 1
 end_operator
 begin_operator
@@ -65999,8 +65999,8 @@ overcome loneliness achievement mutton mercury saturn
 1
 9 6
 2
-0 43 6 16
 0 37 2 1
+0 43 6 16
 1
 end_operator
 begin_operator
@@ -66008,8 +66008,8 @@ overcome loneliness achievement mutton saturn earth
 1
 9 6
 2
-0 43 6 16
 0 37 0 2
+0 43 6 16
 1
 end_operator
 begin_operator
@@ -66017,8 +66017,8 @@ overcome loneliness achievement onion earth uranus
 1
 9 7
 2
-0 43 7 16
 0 37 3 0
+0 43 7 16
 1
 end_operator
 begin_operator
@@ -66026,8 +66026,8 @@ overcome loneliness achievement onion mercury saturn
 1
 9 7
 2
-0 43 7 16
 0 37 2 1
+0 43 7 16
 1
 end_operator
 begin_operator
@@ -66035,8 +66035,8 @@ overcome loneliness achievement onion saturn earth
 1
 9 7
 2
-0 43 7 16
 0 37 0 2
+0 43 7 16
 1
 end_operator
 begin_operator
@@ -66044,8 +66044,8 @@ overcome loneliness achievement papaya earth uranus
 1
 9 8
 2
-0 43 8 16
 0 37 3 0
+0 43 8 16
 1
 end_operator
 begin_operator
@@ -66053,8 +66053,8 @@ overcome loneliness achievement papaya mercury saturn
 1
 9 8
 2
-0 43 8 16
 0 37 2 1
+0 43 8 16
 1
 end_operator
 begin_operator
@@ -66062,8 +66062,8 @@ overcome loneliness achievement papaya saturn earth
 1
 9 8
 2
-0 43 8 16
 0 37 0 2
+0 43 8 16
 1
 end_operator
 begin_operator
@@ -66071,8 +66071,8 @@ overcome loneliness achievement potato earth uranus
 1
 9 9
 2
-0 43 9 16
 0 37 3 0
+0 43 9 16
 1
 end_operator
 begin_operator
@@ -66080,8 +66080,8 @@ overcome loneliness achievement potato mercury saturn
 1
 9 9
 2
-0 43 9 16
 0 37 2 1
+0 43 9 16
 1
 end_operator
 begin_operator
@@ -66089,8 +66089,8 @@ overcome loneliness achievement potato saturn earth
 1
 9 9
 2
-0 43 9 16
 0 37 0 2
+0 43 9 16
 1
 end_operator
 begin_operator
@@ -66098,8 +66098,8 @@ overcome loneliness achievement rice earth uranus
 1
 9 10
 2
-0 43 10 16
 0 37 3 0
+0 43 10 16
 1
 end_operator
 begin_operator
@@ -66107,8 +66107,8 @@ overcome loneliness achievement rice mercury saturn
 1
 9 10
 2
-0 43 10 16
 0 37 2 1
+0 43 10 16
 1
 end_operator
 begin_operator
@@ -66116,8 +66116,8 @@ overcome loneliness achievement rice saturn earth
 1
 9 10
 2
-0 43 10 16
 0 37 0 2
+0 43 10 16
 1
 end_operator
 begin_operator
@@ -66125,8 +66125,8 @@ overcome loneliness achievement shrimp earth uranus
 1
 9 11
 2
-0 43 11 16
 0 37 3 0
+0 43 11 16
 1
 end_operator
 begin_operator
@@ -66134,8 +66134,8 @@ overcome loneliness achievement shrimp mercury saturn
 1
 9 11
 2
-0 43 11 16
 0 37 2 1
+0 43 11 16
 1
 end_operator
 begin_operator
@@ -66143,8 +66143,8 @@ overcome loneliness achievement shrimp saturn earth
 1
 9 11
 2
-0 43 11 16
 0 37 0 2
+0 43 11 16
 1
 end_operator
 begin_operator
@@ -66152,8 +66152,8 @@ overcome loneliness achievement turkey earth uranus
 1
 9 12
 2
-0 43 12 16
 0 37 3 0
+0 43 12 16
 1
 end_operator
 begin_operator
@@ -66161,8 +66161,8 @@ overcome loneliness achievement turkey mercury saturn
 1
 9 12
 2
-0 43 12 16
 0 37 2 1
+0 43 12 16
 1
 end_operator
 begin_operator
@@ -66170,8 +66170,8 @@ overcome loneliness achievement turkey saturn earth
 1
 9 12
 2
-0 43 12 16
 0 37 0 2
+0 43 12 16
 1
 end_operator
 begin_operator
@@ -66179,8 +66179,8 @@ overcome loneliness achievement wonderbread earth uranus
 1
 9 13
 2
-0 43 13 16
 0 37 3 0
+0 43 13 16
 1
 end_operator
 begin_operator
@@ -66188,8 +66188,8 @@ overcome loneliness achievement wonderbread mercury saturn
 1
 9 13
 2
-0 43 13 16
 0 37 2 1
+0 43 13 16
 1
 end_operator
 begin_operator
@@ -66197,8 +66197,8 @@ overcome loneliness achievement wonderbread saturn earth
 1
 9 13
 2
-0 43 13 16
 0 37 0 2
+0 43 13 16
 1
 end_operator
 begin_operator
@@ -66206,8 +66206,8 @@ overcome loneliness achievement wurst earth uranus
 1
 9 14
 2
-0 43 14 16
 0 37 3 0
+0 43 14 16
 1
 end_operator
 begin_operator
@@ -66215,8 +66215,8 @@ overcome loneliness achievement wurst mercury saturn
 1
 9 14
 2
-0 43 14 16
 0 37 2 1
+0 43 14 16
 1
 end_operator
 begin_operator
@@ -66224,8 +66224,8 @@ overcome loneliness achievement wurst saturn earth
 1
 9 14
 2
-0 43 14 16
 0 37 0 2
+0 43 14 16
 1
 end_operator
 begin_operator
@@ -66233,8 +66233,8 @@ overcome loneliness achievement yogurt earth uranus
 1
 9 15
 2
-0 43 15 16
 0 37 3 0
+0 43 15 16
 1
 end_operator
 begin_operator
@@ -66242,8 +66242,8 @@ overcome loneliness achievement yogurt mercury saturn
 1
 9 15
 2
-0 43 15 16
 0 37 2 1
+0 43 15 16
 1
 end_operator
 begin_operator
@@ -66251,32 +66251,32 @@ overcome loneliness achievement yogurt saturn earth
 1
 9 15
 2
-0 43 15 16
 0 37 0 2
+0 43 15 16
 1
 end_operator
 begin_operator
 overcome loneliness entertainment wurst earth uranus
 0
 2
-0 43 14 17
 0 23 3 0
+0 43 14 17
 1
 end_operator
 begin_operator
 overcome loneliness entertainment wurst mercury saturn
 0
 2
-0 43 14 17
 0 23 2 1
+0 43 14 17
 1
 end_operator
 begin_operator
 overcome loneliness entertainment wurst saturn earth
 0
 2
-0 43 14 17
 0 23 0 2
+0 43 14 17
 1
 end_operator
 begin_operator
@@ -66284,8 +66284,8 @@ overcome loneliness excitement arugula earth uranus
 1
 11 0
 2
-0 43 0 18
 0 38 3 0
+0 43 0 18
 1
 end_operator
 begin_operator
@@ -66293,8 +66293,8 @@ overcome loneliness excitement arugula mercury saturn
 1
 11 0
 2
-0 43 0 18
 0 38 2 1
+0 43 0 18
 1
 end_operator
 begin_operator
@@ -66302,8 +66302,8 @@ overcome loneliness excitement arugula saturn earth
 1
 11 0
 2
-0 43 0 18
 0 38 0 2
+0 43 0 18
 1
 end_operator
 begin_operator
@@ -66311,8 +66311,8 @@ overcome loneliness excitement cherry earth uranus
 1
 11 1
 2
-0 43 1 18
 0 38 3 0
+0 43 1 18
 1
 end_operator
 begin_operator
@@ -66320,8 +66320,8 @@ overcome loneliness excitement cherry mercury saturn
 1
 11 1
 2
-0 43 1 18
 0 38 2 1
+0 43 1 18
 1
 end_operator
 begin_operator
@@ -66329,8 +66329,8 @@ overcome loneliness excitement cherry saturn earth
 1
 11 1
 2
-0 43 1 18
 0 38 0 2
+0 43 1 18
 1
 end_operator
 begin_operator
@@ -66338,8 +66338,8 @@ overcome loneliness excitement endive earth uranus
 1
 11 2
 2
-0 43 2 18
 0 38 3 0
+0 43 2 18
 1
 end_operator
 begin_operator
@@ -66347,8 +66347,8 @@ overcome loneliness excitement endive mercury saturn
 1
 11 2
 2
-0 43 2 18
 0 38 2 1
+0 43 2 18
 1
 end_operator
 begin_operator
@@ -66356,8 +66356,8 @@ overcome loneliness excitement endive saturn earth
 1
 11 2
 2
-0 43 2 18
 0 38 0 2
+0 43 2 18
 1
 end_operator
 begin_operator
@@ -66365,8 +66365,8 @@ overcome loneliness excitement ham earth uranus
 1
 11 3
 2
-0 43 3 18
 0 38 3 0
+0 43 3 18
 1
 end_operator
 begin_operator
@@ -66374,8 +66374,8 @@ overcome loneliness excitement ham mercury saturn
 1
 11 3
 2
-0 43 3 18
 0 38 2 1
+0 43 3 18
 1
 end_operator
 begin_operator
@@ -66383,8 +66383,8 @@ overcome loneliness excitement ham saturn earth
 1
 11 3
 2
-0 43 3 18
 0 38 0 2
+0 43 3 18
 1
 end_operator
 begin_operator
@@ -66392,8 +66392,8 @@ overcome loneliness excitement haroset earth uranus
 1
 11 4
 2
-0 43 4 18
 0 38 3 0
+0 43 4 18
 1
 end_operator
 begin_operator
@@ -66401,8 +66401,8 @@ overcome loneliness excitement haroset mercury saturn
 1
 11 4
 2
-0 43 4 18
 0 38 2 1
+0 43 4 18
 1
 end_operator
 begin_operator
@@ -66410,8 +66410,8 @@ overcome loneliness excitement haroset saturn earth
 1
 11 4
 2
-0 43 4 18
 0 38 0 2
+0 43 4 18
 1
 end_operator
 begin_operator
@@ -66419,8 +66419,8 @@ overcome loneliness excitement marzipan earth uranus
 1
 11 5
 2
-0 43 5 18
 0 38 3 0
+0 43 5 18
 1
 end_operator
 begin_operator
@@ -66428,8 +66428,8 @@ overcome loneliness excitement marzipan mercury saturn
 1
 11 5
 2
-0 43 5 18
 0 38 2 1
+0 43 5 18
 1
 end_operator
 begin_operator
@@ -66437,8 +66437,8 @@ overcome loneliness excitement marzipan saturn earth
 1
 11 5
 2
-0 43 5 18
 0 38 0 2
+0 43 5 18
 1
 end_operator
 begin_operator
@@ -66446,8 +66446,8 @@ overcome loneliness excitement mutton earth uranus
 1
 11 6
 2
-0 43 6 18
 0 38 3 0
+0 43 6 18
 1
 end_operator
 begin_operator
@@ -66455,8 +66455,8 @@ overcome loneliness excitement mutton mercury saturn
 1
 11 6
 2
-0 43 6 18
 0 38 2 1
+0 43 6 18
 1
 end_operator
 begin_operator
@@ -66464,8 +66464,8 @@ overcome loneliness excitement mutton saturn earth
 1
 11 6
 2
-0 43 6 18
 0 38 0 2
+0 43 6 18
 1
 end_operator
 begin_operator
@@ -66473,8 +66473,8 @@ overcome loneliness excitement onion earth uranus
 1
 11 7
 2
-0 43 7 18
 0 38 3 0
+0 43 7 18
 1
 end_operator
 begin_operator
@@ -66482,8 +66482,8 @@ overcome loneliness excitement onion mercury saturn
 1
 11 7
 2
-0 43 7 18
 0 38 2 1
+0 43 7 18
 1
 end_operator
 begin_operator
@@ -66491,8 +66491,8 @@ overcome loneliness excitement onion saturn earth
 1
 11 7
 2
-0 43 7 18
 0 38 0 2
+0 43 7 18
 1
 end_operator
 begin_operator
@@ -66500,8 +66500,8 @@ overcome loneliness excitement papaya earth uranus
 1
 11 8
 2
-0 43 8 18
 0 38 3 0
+0 43 8 18
 1
 end_operator
 begin_operator
@@ -66509,8 +66509,8 @@ overcome loneliness excitement papaya mercury saturn
 1
 11 8
 2
-0 43 8 18
 0 38 2 1
+0 43 8 18
 1
 end_operator
 begin_operator
@@ -66518,8 +66518,8 @@ overcome loneliness excitement papaya saturn earth
 1
 11 8
 2
-0 43 8 18
 0 38 0 2
+0 43 8 18
 1
 end_operator
 begin_operator
@@ -66527,8 +66527,8 @@ overcome loneliness excitement potato earth uranus
 1
 11 9
 2
-0 43 9 18
 0 38 3 0
+0 43 9 18
 1
 end_operator
 begin_operator
@@ -66536,8 +66536,8 @@ overcome loneliness excitement potato mercury saturn
 1
 11 9
 2
-0 43 9 18
 0 38 2 1
+0 43 9 18
 1
 end_operator
 begin_operator
@@ -66545,8 +66545,8 @@ overcome loneliness excitement potato saturn earth
 1
 11 9
 2
-0 43 9 18
 0 38 0 2
+0 43 9 18
 1
 end_operator
 begin_operator
@@ -66554,8 +66554,8 @@ overcome loneliness excitement rice earth uranus
 1
 11 10
 2
-0 43 10 18
 0 38 3 0
+0 43 10 18
 1
 end_operator
 begin_operator
@@ -66563,8 +66563,8 @@ overcome loneliness excitement rice mercury saturn
 1
 11 10
 2
-0 43 10 18
 0 38 2 1
+0 43 10 18
 1
 end_operator
 begin_operator
@@ -66572,8 +66572,8 @@ overcome loneliness excitement rice saturn earth
 1
 11 10
 2
-0 43 10 18
 0 38 0 2
+0 43 10 18
 1
 end_operator
 begin_operator
@@ -66581,8 +66581,8 @@ overcome loneliness excitement shrimp earth uranus
 1
 11 11
 2
-0 43 11 18
 0 38 3 0
+0 43 11 18
 1
 end_operator
 begin_operator
@@ -66590,8 +66590,8 @@ overcome loneliness excitement shrimp mercury saturn
 1
 11 11
 2
-0 43 11 18
 0 38 2 1
+0 43 11 18
 1
 end_operator
 begin_operator
@@ -66599,8 +66599,8 @@ overcome loneliness excitement shrimp saturn earth
 1
 11 11
 2
-0 43 11 18
 0 38 0 2
+0 43 11 18
 1
 end_operator
 begin_operator
@@ -66608,8 +66608,8 @@ overcome loneliness excitement turkey earth uranus
 1
 11 12
 2
-0 43 12 18
 0 38 3 0
+0 43 12 18
 1
 end_operator
 begin_operator
@@ -66617,8 +66617,8 @@ overcome loneliness excitement turkey mercury saturn
 1
 11 12
 2
-0 43 12 18
 0 38 2 1
+0 43 12 18
 1
 end_operator
 begin_operator
@@ -66626,8 +66626,8 @@ overcome loneliness excitement turkey saturn earth
 1
 11 12
 2
-0 43 12 18
 0 38 0 2
+0 43 12 18
 1
 end_operator
 begin_operator
@@ -66635,8 +66635,8 @@ overcome loneliness excitement wonderbread earth uranus
 1
 11 13
 2
-0 43 13 18
 0 38 3 0
+0 43 13 18
 1
 end_operator
 begin_operator
@@ -66644,8 +66644,8 @@ overcome loneliness excitement wonderbread mercury saturn
 1
 11 13
 2
-0 43 13 18
 0 38 2 1
+0 43 13 18
 1
 end_operator
 begin_operator
@@ -66653,8 +66653,8 @@ overcome loneliness excitement wonderbread saturn earth
 1
 11 13
 2
-0 43 13 18
 0 38 0 2
+0 43 13 18
 1
 end_operator
 begin_operator
@@ -66662,8 +66662,8 @@ overcome loneliness excitement wurst earth uranus
 1
 11 14
 2
-0 43 14 18
 0 38 3 0
+0 43 14 18
 1
 end_operator
 begin_operator
@@ -66671,8 +66671,8 @@ overcome loneliness excitement wurst mercury saturn
 1
 11 14
 2
-0 43 14 18
 0 38 2 1
+0 43 14 18
 1
 end_operator
 begin_operator
@@ -66680,8 +66680,8 @@ overcome loneliness excitement wurst saturn earth
 1
 11 14
 2
-0 43 14 18
 0 38 0 2
+0 43 14 18
 1
 end_operator
 begin_operator
@@ -66689,8 +66689,8 @@ overcome loneliness excitement yogurt earth uranus
 1
 11 15
 2
-0 43 15 18
 0 38 3 0
+0 43 15 18
 1
 end_operator
 begin_operator
@@ -66698,8 +66698,8 @@ overcome loneliness excitement yogurt mercury saturn
 1
 11 15
 2
-0 43 15 18
 0 38 2 1
+0 43 15 18
 1
 end_operator
 begin_operator
@@ -66707,8 +66707,8 @@ overcome loneliness excitement yogurt saturn earth
 1
 11 15
 2
-0 43 15 18
 0 38 0 2
+0 43 15 18
 1
 end_operator
 begin_operator
@@ -66716,8 +66716,8 @@ overcome loneliness intoxication arugula earth uranus
 1
 13 0
 2
-0 43 0 19
 0 41 3 0
+0 43 0 19
 1
 end_operator
 begin_operator
@@ -66725,8 +66725,8 @@ overcome loneliness intoxication arugula mercury saturn
 1
 13 0
 2
-0 43 0 19
 0 41 2 1
+0 43 0 19
 1
 end_operator
 begin_operator
@@ -66734,8 +66734,8 @@ overcome loneliness intoxication arugula saturn earth
 1
 13 0
 2
-0 43 0 19
 0 41 0 2
+0 43 0 19
 1
 end_operator
 begin_operator
@@ -66743,8 +66743,8 @@ overcome loneliness intoxication cherry earth uranus
 1
 13 1
 2
-0 43 1 19
 0 41 3 0
+0 43 1 19
 1
 end_operator
 begin_operator
@@ -66752,8 +66752,8 @@ overcome loneliness intoxication cherry mercury saturn
 1
 13 1
 2
-0 43 1 19
 0 41 2 1
+0 43 1 19
 1
 end_operator
 begin_operator
@@ -66761,8 +66761,8 @@ overcome loneliness intoxication cherry saturn earth
 1
 13 1
 2
-0 43 1 19
 0 41 0 2
+0 43 1 19
 1
 end_operator
 begin_operator
@@ -66770,8 +66770,8 @@ overcome loneliness intoxication endive earth uranus
 1
 13 2
 2
-0 43 2 19
 0 41 3 0
+0 43 2 19
 1
 end_operator
 begin_operator
@@ -66779,8 +66779,8 @@ overcome loneliness intoxication endive mercury saturn
 1
 13 2
 2
-0 43 2 19
 0 41 2 1
+0 43 2 19
 1
 end_operator
 begin_operator
@@ -66788,8 +66788,8 @@ overcome loneliness intoxication endive saturn earth
 1
 13 2
 2
-0 43 2 19
 0 41 0 2
+0 43 2 19
 1
 end_operator
 begin_operator
@@ -66797,8 +66797,8 @@ overcome loneliness intoxication ham earth uranus
 1
 13 3
 2
-0 43 3 19
 0 41 3 0
+0 43 3 19
 1
 end_operator
 begin_operator
@@ -66806,8 +66806,8 @@ overcome loneliness intoxication ham mercury saturn
 1
 13 3
 2
-0 43 3 19
 0 41 2 1
+0 43 3 19
 1
 end_operator
 begin_operator
@@ -66815,8 +66815,8 @@ overcome loneliness intoxication ham saturn earth
 1
 13 3
 2
-0 43 3 19
 0 41 0 2
+0 43 3 19
 1
 end_operator
 begin_operator
@@ -66824,8 +66824,8 @@ overcome loneliness intoxication haroset earth uranus
 1
 13 4
 2
-0 43 4 19
 0 41 3 0
+0 43 4 19
 1
 end_operator
 begin_operator
@@ -66833,8 +66833,8 @@ overcome loneliness intoxication haroset mercury saturn
 1
 13 4
 2
-0 43 4 19
 0 41 2 1
+0 43 4 19
 1
 end_operator
 begin_operator
@@ -66842,8 +66842,8 @@ overcome loneliness intoxication haroset saturn earth
 1
 13 4
 2
-0 43 4 19
 0 41 0 2
+0 43 4 19
 1
 end_operator
 begin_operator
@@ -66851,8 +66851,8 @@ overcome loneliness intoxication marzipan earth uranus
 1
 13 5
 2
-0 43 5 19
 0 41 3 0
+0 43 5 19
 1
 end_operator
 begin_operator
@@ -66860,8 +66860,8 @@ overcome loneliness intoxication marzipan mercury saturn
 1
 13 5
 2
-0 43 5 19
 0 41 2 1
+0 43 5 19
 1
 end_operator
 begin_operator
@@ -66869,8 +66869,8 @@ overcome loneliness intoxication marzipan saturn earth
 1
 13 5
 2
-0 43 5 19
 0 41 0 2
+0 43 5 19
 1
 end_operator
 begin_operator
@@ -66878,8 +66878,8 @@ overcome loneliness intoxication mutton earth uranus
 1
 13 6
 2
-0 43 6 19
 0 41 3 0
+0 43 6 19
 1
 end_operator
 begin_operator
@@ -66887,8 +66887,8 @@ overcome loneliness intoxication mutton mercury saturn
 1
 13 6
 2
-0 43 6 19
 0 41 2 1
+0 43 6 19
 1
 end_operator
 begin_operator
@@ -66896,8 +66896,8 @@ overcome loneliness intoxication mutton saturn earth
 1
 13 6
 2
-0 43 6 19
 0 41 0 2
+0 43 6 19
 1
 end_operator
 begin_operator
@@ -66905,8 +66905,8 @@ overcome loneliness intoxication onion earth uranus
 1
 13 7
 2
-0 43 7 19
 0 41 3 0
+0 43 7 19
 1
 end_operator
 begin_operator
@@ -66914,8 +66914,8 @@ overcome loneliness intoxication onion mercury saturn
 1
 13 7
 2
-0 43 7 19
 0 41 2 1
+0 43 7 19
 1
 end_operator
 begin_operator
@@ -66923,8 +66923,8 @@ overcome loneliness intoxication onion saturn earth
 1
 13 7
 2
-0 43 7 19
 0 41 0 2
+0 43 7 19
 1
 end_operator
 begin_operator
@@ -66932,8 +66932,8 @@ overcome loneliness intoxication papaya earth uranus
 1
 13 8
 2
-0 43 8 19
 0 41 3 0
+0 43 8 19
 1
 end_operator
 begin_operator
@@ -66941,8 +66941,8 @@ overcome loneliness intoxication papaya mercury saturn
 1
 13 8
 2
-0 43 8 19
 0 41 2 1
+0 43 8 19
 1
 end_operator
 begin_operator
@@ -66950,8 +66950,8 @@ overcome loneliness intoxication papaya saturn earth
 1
 13 8
 2
-0 43 8 19
 0 41 0 2
+0 43 8 19
 1
 end_operator
 begin_operator
@@ -66959,8 +66959,8 @@ overcome loneliness intoxication potato earth uranus
 1
 13 9
 2
-0 43 9 19
 0 41 3 0
+0 43 9 19
 1
 end_operator
 begin_operator
@@ -66968,8 +66968,8 @@ overcome loneliness intoxication potato mercury saturn
 1
 13 9
 2
-0 43 9 19
 0 41 2 1
+0 43 9 19
 1
 end_operator
 begin_operator
@@ -66977,8 +66977,8 @@ overcome loneliness intoxication potato saturn earth
 1
 13 9
 2
-0 43 9 19
 0 41 0 2
+0 43 9 19
 1
 end_operator
 begin_operator
@@ -66986,8 +66986,8 @@ overcome loneliness intoxication rice earth uranus
 1
 13 10
 2
-0 43 10 19
 0 41 3 0
+0 43 10 19
 1
 end_operator
 begin_operator
@@ -66995,8 +66995,8 @@ overcome loneliness intoxication rice mercury saturn
 1
 13 10
 2
-0 43 10 19
 0 41 2 1
+0 43 10 19
 1
 end_operator
 begin_operator
@@ -67004,8 +67004,8 @@ overcome loneliness intoxication rice saturn earth
 1
 13 10
 2
-0 43 10 19
 0 41 0 2
+0 43 10 19
 1
 end_operator
 begin_operator
@@ -67013,8 +67013,8 @@ overcome loneliness intoxication shrimp earth uranus
 1
 13 11
 2
-0 43 11 19
 0 41 3 0
+0 43 11 19
 1
 end_operator
 begin_operator
@@ -67022,8 +67022,8 @@ overcome loneliness intoxication shrimp mercury saturn
 1
 13 11
 2
-0 43 11 19
 0 41 2 1
+0 43 11 19
 1
 end_operator
 begin_operator
@@ -67031,8 +67031,8 @@ overcome loneliness intoxication shrimp saturn earth
 1
 13 11
 2
-0 43 11 19
 0 41 0 2
+0 43 11 19
 1
 end_operator
 begin_operator
@@ -67040,8 +67040,8 @@ overcome loneliness intoxication turkey earth uranus
 1
 13 12
 2
-0 43 12 19
 0 41 3 0
+0 43 12 19
 1
 end_operator
 begin_operator
@@ -67049,8 +67049,8 @@ overcome loneliness intoxication turkey mercury saturn
 1
 13 12
 2
-0 43 12 19
 0 41 2 1
+0 43 12 19
 1
 end_operator
 begin_operator
@@ -67058,8 +67058,8 @@ overcome loneliness intoxication turkey saturn earth
 1
 13 12
 2
-0 43 12 19
 0 41 0 2
+0 43 12 19
 1
 end_operator
 begin_operator
@@ -67067,8 +67067,8 @@ overcome loneliness intoxication wonderbread earth uranus
 1
 13 13
 2
-0 43 13 19
 0 41 3 0
+0 43 13 19
 1
 end_operator
 begin_operator
@@ -67076,8 +67076,8 @@ overcome loneliness intoxication wonderbread mercury saturn
 1
 13 13
 2
-0 43 13 19
 0 41 2 1
+0 43 13 19
 1
 end_operator
 begin_operator
@@ -67085,8 +67085,8 @@ overcome loneliness intoxication wonderbread saturn earth
 1
 13 13
 2
-0 43 13 19
 0 41 0 2
+0 43 13 19
 1
 end_operator
 begin_operator
@@ -67094,8 +67094,8 @@ overcome loneliness intoxication wurst earth uranus
 1
 13 14
 2
-0 43 14 19
 0 41 3 0
+0 43 14 19
 1
 end_operator
 begin_operator
@@ -67103,8 +67103,8 @@ overcome loneliness intoxication wurst mercury saturn
 1
 13 14
 2
-0 43 14 19
 0 41 2 1
+0 43 14 19
 1
 end_operator
 begin_operator
@@ -67112,8 +67112,8 @@ overcome loneliness intoxication wurst saturn earth
 1
 13 14
 2
-0 43 14 19
 0 41 0 2
+0 43 14 19
 1
 end_operator
 begin_operator
@@ -67121,8 +67121,8 @@ overcome loneliness intoxication yogurt earth uranus
 1
 13 15
 2
-0 43 15 19
 0 41 3 0
+0 43 15 19
 1
 end_operator
 begin_operator
@@ -67130,8 +67130,8 @@ overcome loneliness intoxication yogurt mercury saturn
 1
 13 15
 2
-0 43 15 19
 0 41 2 1
+0 43 15 19
 1
 end_operator
 begin_operator
@@ -67139,8 +67139,8 @@ overcome loneliness intoxication yogurt saturn earth
 1
 13 15
 2
-0 43 15 19
 0 41 0 2
+0 43 15 19
 1
 end_operator
 begin_operator
@@ -67148,8 +67148,8 @@ overcome loneliness love arugula earth uranus
 1
 15 0
 2
-0 43 0 20
 0 42 3 0
+0 43 0 20
 1
 end_operator
 begin_operator
@@ -67157,8 +67157,8 @@ overcome loneliness love arugula mercury saturn
 1
 15 0
 2
-0 43 0 20
 0 42 2 1
+0 43 0 20
 1
 end_operator
 begin_operator
@@ -67166,8 +67166,8 @@ overcome loneliness love arugula saturn earth
 1
 15 0
 2
-0 43 0 20
 0 42 0 2
+0 43 0 20
 1
 end_operator
 begin_operator
@@ -67175,8 +67175,8 @@ overcome loneliness love cherry earth uranus
 1
 15 1
 2
-0 43 1 20
 0 42 3 0
+0 43 1 20
 1
 end_operator
 begin_operator
@@ -67184,8 +67184,8 @@ overcome loneliness love cherry mercury saturn
 1
 15 1
 2
-0 43 1 20
 0 42 2 1
+0 43 1 20
 1
 end_operator
 begin_operator
@@ -67193,8 +67193,8 @@ overcome loneliness love cherry saturn earth
 1
 15 1
 2
-0 43 1 20
 0 42 0 2
+0 43 1 20
 1
 end_operator
 begin_operator
@@ -67202,8 +67202,8 @@ overcome loneliness love endive earth uranus
 1
 15 2
 2
-0 43 2 20
 0 42 3 0
+0 43 2 20
 1
 end_operator
 begin_operator
@@ -67211,8 +67211,8 @@ overcome loneliness love endive mercury saturn
 1
 15 2
 2
-0 43 2 20
 0 42 2 1
+0 43 2 20
 1
 end_operator
 begin_operator
@@ -67220,8 +67220,8 @@ overcome loneliness love endive saturn earth
 1
 15 2
 2
-0 43 2 20
 0 42 0 2
+0 43 2 20
 1
 end_operator
 begin_operator
@@ -67229,8 +67229,8 @@ overcome loneliness love ham earth uranus
 1
 15 3
 2
-0 43 3 20
 0 42 3 0
+0 43 3 20
 1
 end_operator
 begin_operator
@@ -67238,8 +67238,8 @@ overcome loneliness love ham mercury saturn
 1
 15 3
 2
-0 43 3 20
 0 42 2 1
+0 43 3 20
 1
 end_operator
 begin_operator
@@ -67247,8 +67247,8 @@ overcome loneliness love ham saturn earth
 1
 15 3
 2
-0 43 3 20
 0 42 0 2
+0 43 3 20
 1
 end_operator
 begin_operator
@@ -67256,8 +67256,8 @@ overcome loneliness love haroset earth uranus
 1
 15 4
 2
-0 43 4 20
 0 42 3 0
+0 43 4 20
 1
 end_operator
 begin_operator
@@ -67265,8 +67265,8 @@ overcome loneliness love haroset mercury saturn
 1
 15 4
 2
-0 43 4 20
 0 42 2 1
+0 43 4 20
 1
 end_operator
 begin_operator
@@ -67274,8 +67274,8 @@ overcome loneliness love haroset saturn earth
 1
 15 4
 2
-0 43 4 20
 0 42 0 2
+0 43 4 20
 1
 end_operator
 begin_operator
@@ -67283,8 +67283,8 @@ overcome loneliness love marzipan earth uranus
 1
 15 5
 2
-0 43 5 20
 0 42 3 0
+0 43 5 20
 1
 end_operator
 begin_operator
@@ -67292,8 +67292,8 @@ overcome loneliness love marzipan mercury saturn
 1
 15 5
 2
-0 43 5 20
 0 42 2 1
+0 43 5 20
 1
 end_operator
 begin_operator
@@ -67301,8 +67301,8 @@ overcome loneliness love marzipan saturn earth
 1
 15 5
 2
-0 43 5 20
 0 42 0 2
+0 43 5 20
 1
 end_operator
 begin_operator
@@ -67310,8 +67310,8 @@ overcome loneliness love mutton earth uranus
 1
 15 6
 2
-0 43 6 20
 0 42 3 0
+0 43 6 20
 1
 end_operator
 begin_operator
@@ -67319,8 +67319,8 @@ overcome loneliness love mutton mercury saturn
 1
 15 6
 2
-0 43 6 20
 0 42 2 1
+0 43 6 20
 1
 end_operator
 begin_operator
@@ -67328,8 +67328,8 @@ overcome loneliness love mutton saturn earth
 1
 15 6
 2
-0 43 6 20
 0 42 0 2
+0 43 6 20
 1
 end_operator
 begin_operator
@@ -67337,8 +67337,8 @@ overcome loneliness love onion earth uranus
 1
 15 7
 2
-0 43 7 20
 0 42 3 0
+0 43 7 20
 1
 end_operator
 begin_operator
@@ -67346,8 +67346,8 @@ overcome loneliness love onion mercury saturn
 1
 15 7
 2
-0 43 7 20
 0 42 2 1
+0 43 7 20
 1
 end_operator
 begin_operator
@@ -67355,8 +67355,8 @@ overcome loneliness love onion saturn earth
 1
 15 7
 2
-0 43 7 20
 0 42 0 2
+0 43 7 20
 1
 end_operator
 begin_operator
@@ -67364,8 +67364,8 @@ overcome loneliness love papaya earth uranus
 1
 15 8
 2
-0 43 8 20
 0 42 3 0
+0 43 8 20
 1
 end_operator
 begin_operator
@@ -67373,8 +67373,8 @@ overcome loneliness love papaya mercury saturn
 1
 15 8
 2
-0 43 8 20
 0 42 2 1
+0 43 8 20
 1
 end_operator
 begin_operator
@@ -67382,8 +67382,8 @@ overcome loneliness love papaya saturn earth
 1
 15 8
 2
-0 43 8 20
 0 42 0 2
+0 43 8 20
 1
 end_operator
 begin_operator
@@ -67391,8 +67391,8 @@ overcome loneliness love potato earth uranus
 1
 15 9
 2
-0 43 9 20
 0 42 3 0
+0 43 9 20
 1
 end_operator
 begin_operator
@@ -67400,8 +67400,8 @@ overcome loneliness love potato mercury saturn
 1
 15 9
 2
-0 43 9 20
 0 42 2 1
+0 43 9 20
 1
 end_operator
 begin_operator
@@ -67409,8 +67409,8 @@ overcome loneliness love potato saturn earth
 1
 15 9
 2
-0 43 9 20
 0 42 0 2
+0 43 9 20
 1
 end_operator
 begin_operator
@@ -67418,8 +67418,8 @@ overcome loneliness love rice earth uranus
 1
 15 10
 2
-0 43 10 20
 0 42 3 0
+0 43 10 20
 1
 end_operator
 begin_operator
@@ -67427,8 +67427,8 @@ overcome loneliness love rice mercury saturn
 1
 15 10
 2
-0 43 10 20
 0 42 2 1
+0 43 10 20
 1
 end_operator
 begin_operator
@@ -67436,8 +67436,8 @@ overcome loneliness love rice saturn earth
 1
 15 10
 2
-0 43 10 20
 0 42 0 2
+0 43 10 20
 1
 end_operator
 begin_operator
@@ -67445,8 +67445,8 @@ overcome loneliness love shrimp earth uranus
 1
 15 11
 2
-0 43 11 20
 0 42 3 0
+0 43 11 20
 1
 end_operator
 begin_operator
@@ -67454,8 +67454,8 @@ overcome loneliness love shrimp mercury saturn
 1
 15 11
 2
-0 43 11 20
 0 42 2 1
+0 43 11 20
 1
 end_operator
 begin_operator
@@ -67463,8 +67463,8 @@ overcome loneliness love shrimp saturn earth
 1
 15 11
 2
-0 43 11 20
 0 42 0 2
+0 43 11 20
 1
 end_operator
 begin_operator
@@ -67472,8 +67472,8 @@ overcome loneliness love turkey earth uranus
 1
 15 12
 2
-0 43 12 20
 0 42 3 0
+0 43 12 20
 1
 end_operator
 begin_operator
@@ -67481,8 +67481,8 @@ overcome loneliness love turkey mercury saturn
 1
 15 12
 2
-0 43 12 20
 0 42 2 1
+0 43 12 20
 1
 end_operator
 begin_operator
@@ -67490,8 +67490,8 @@ overcome loneliness love turkey saturn earth
 1
 15 12
 2
-0 43 12 20
 0 42 0 2
+0 43 12 20
 1
 end_operator
 begin_operator
@@ -67499,8 +67499,8 @@ overcome loneliness love wonderbread earth uranus
 1
 15 13
 2
-0 43 13 20
 0 42 3 0
+0 43 13 20
 1
 end_operator
 begin_operator
@@ -67508,8 +67508,8 @@ overcome loneliness love wonderbread mercury saturn
 1
 15 13
 2
-0 43 13 20
 0 42 2 1
+0 43 13 20
 1
 end_operator
 begin_operator
@@ -67517,8 +67517,8 @@ overcome loneliness love wonderbread saturn earth
 1
 15 13
 2
-0 43 13 20
 0 42 0 2
+0 43 13 20
 1
 end_operator
 begin_operator
@@ -67526,8 +67526,8 @@ overcome loneliness love wurst earth uranus
 1
 15 14
 2
-0 43 14 20
 0 42 3 0
+0 43 14 20
 1
 end_operator
 begin_operator
@@ -67535,8 +67535,8 @@ overcome loneliness love wurst mercury saturn
 1
 15 14
 2
-0 43 14 20
 0 42 2 1
+0 43 14 20
 1
 end_operator
 begin_operator
@@ -67544,8 +67544,8 @@ overcome loneliness love wurst saturn earth
 1
 15 14
 2
-0 43 14 20
 0 42 0 2
+0 43 14 20
 1
 end_operator
 begin_operator
@@ -67553,8 +67553,8 @@ overcome loneliness love yogurt earth uranus
 1
 15 15
 2
-0 43 15 20
 0 42 3 0
+0 43 15 20
 1
 end_operator
 begin_operator
@@ -67562,8 +67562,8 @@ overcome loneliness love yogurt mercury saturn
 1
 15 15
 2
-0 43 15 20
 0 42 2 1
+0 43 15 20
 1
 end_operator
 begin_operator
@@ -67571,8 +67571,8 @@ overcome loneliness love yogurt saturn earth
 1
 15 15
 2
-0 43 15 20
 0 42 0 2
+0 43 15 20
 1
 end_operator
 begin_operator
@@ -69308,8 +69308,8 @@ overcome loneliness-3 achievement arugula earth uranus
 1
 9 0
 2
-0 44 0 16
 0 37 3 0
+0 44 0 16
 1
 end_operator
 begin_operator
@@ -69317,8 +69317,8 @@ overcome loneliness-3 achievement arugula mercury saturn
 1
 9 0
 2
-0 44 0 16
 0 37 2 1
+0 44 0 16
 1
 end_operator
 begin_operator
@@ -69326,8 +69326,8 @@ overcome loneliness-3 achievement arugula saturn earth
 1
 9 0
 2
-0 44 0 16
 0 37 0 2
+0 44 0 16
 1
 end_operator
 begin_operator
@@ -69335,8 +69335,8 @@ overcome loneliness-3 achievement cherry earth uranus
 1
 9 1
 2
-0 44 1 16
 0 37 3 0
+0 44 1 16
 1
 end_operator
 begin_operator
@@ -69344,8 +69344,8 @@ overcome loneliness-3 achievement cherry mercury saturn
 1
 9 1
 2
-0 44 1 16
 0 37 2 1
+0 44 1 16
 1
 end_operator
 begin_operator
@@ -69353,8 +69353,8 @@ overcome loneliness-3 achievement cherry saturn earth
 1
 9 1
 2
-0 44 1 16
 0 37 0 2
+0 44 1 16
 1
 end_operator
 begin_operator
@@ -69362,8 +69362,8 @@ overcome loneliness-3 achievement endive earth uranus
 1
 9 2
 2
-0 44 2 16
 0 37 3 0
+0 44 2 16
 1
 end_operator
 begin_operator
@@ -69371,8 +69371,8 @@ overcome loneliness-3 achievement endive mercury saturn
 1
 9 2
 2
-0 44 2 16
 0 37 2 1
+0 44 2 16
 1
 end_operator
 begin_operator
@@ -69380,8 +69380,8 @@ overcome loneliness-3 achievement endive saturn earth
 1
 9 2
 2
-0 44 2 16
 0 37 0 2
+0 44 2 16
 1
 end_operator
 begin_operator
@@ -69389,8 +69389,8 @@ overcome loneliness-3 achievement ham earth uranus
 1
 9 3
 2
-0 44 3 16
 0 37 3 0
+0 44 3 16
 1
 end_operator
 begin_operator
@@ -69398,8 +69398,8 @@ overcome loneliness-3 achievement ham mercury saturn
 1
 9 3
 2
-0 44 3 16
 0 37 2 1
+0 44 3 16
 1
 end_operator
 begin_operator
@@ -69407,8 +69407,8 @@ overcome loneliness-3 achievement ham saturn earth
 1
 9 3
 2
-0 44 3 16
 0 37 0 2
+0 44 3 16
 1
 end_operator
 begin_operator
@@ -69416,8 +69416,8 @@ overcome loneliness-3 achievement haroset earth uranus
 1
 9 4
 2
-0 44 4 16
 0 37 3 0
+0 44 4 16
 1
 end_operator
 begin_operator
@@ -69425,8 +69425,8 @@ overcome loneliness-3 achievement haroset mercury saturn
 1
 9 4
 2
-0 44 4 16
 0 37 2 1
+0 44 4 16
 1
 end_operator
 begin_operator
@@ -69434,8 +69434,8 @@ overcome loneliness-3 achievement haroset saturn earth
 1
 9 4
 2
-0 44 4 16
 0 37 0 2
+0 44 4 16
 1
 end_operator
 begin_operator
@@ -69443,8 +69443,8 @@ overcome loneliness-3 achievement marzipan earth uranus
 1
 9 5
 2
-0 44 5 16
 0 37 3 0
+0 44 5 16
 1
 end_operator
 begin_operator
@@ -69452,8 +69452,8 @@ overcome loneliness-3 achievement marzipan mercury saturn
 1
 9 5
 2
-0 44 5 16
 0 37 2 1
+0 44 5 16
 1
 end_operator
 begin_operator
@@ -69461,8 +69461,8 @@ overcome loneliness-3 achievement marzipan saturn earth
 1
 9 5
 2
-0 44 5 16
 0 37 0 2
+0 44 5 16
 1
 end_operator
 begin_operator
@@ -69470,8 +69470,8 @@ overcome loneliness-3 achievement mutton earth uranus
 1
 9 6
 2
-0 44 6 16
 0 37 3 0
+0 44 6 16
 1
 end_operator
 begin_operator
@@ -69479,8 +69479,8 @@ overcome loneliness-3 achievement mutton mercury saturn
 1
 9 6
 2
-0 44 6 16
 0 37 2 1
+0 44 6 16
 1
 end_operator
 begin_operator
@@ -69488,8 +69488,8 @@ overcome loneliness-3 achievement mutton saturn earth
 1
 9 6
 2
-0 44 6 16
 0 37 0 2
+0 44 6 16
 1
 end_operator
 begin_operator
@@ -69497,8 +69497,8 @@ overcome loneliness-3 achievement onion earth uranus
 1
 9 7
 2
-0 44 7 16
 0 37 3 0
+0 44 7 16
 1
 end_operator
 begin_operator
@@ -69506,8 +69506,8 @@ overcome loneliness-3 achievement onion mercury saturn
 1
 9 7
 2
-0 44 7 16
 0 37 2 1
+0 44 7 16
 1
 end_operator
 begin_operator
@@ -69515,8 +69515,8 @@ overcome loneliness-3 achievement onion saturn earth
 1
 9 7
 2
-0 44 7 16
 0 37 0 2
+0 44 7 16
 1
 end_operator
 begin_operator
@@ -69524,8 +69524,8 @@ overcome loneliness-3 achievement papaya earth uranus
 1
 9 8
 2
-0 44 8 16
 0 37 3 0
+0 44 8 16
 1
 end_operator
 begin_operator
@@ -69533,8 +69533,8 @@ overcome loneliness-3 achievement papaya mercury saturn
 1
 9 8
 2
-0 44 8 16
 0 37 2 1
+0 44 8 16
 1
 end_operator
 begin_operator
@@ -69542,8 +69542,8 @@ overcome loneliness-3 achievement papaya saturn earth
 1
 9 8
 2
-0 44 8 16
 0 37 0 2
+0 44 8 16
 1
 end_operator
 begin_operator
@@ -69551,8 +69551,8 @@ overcome loneliness-3 achievement potato earth uranus
 1
 9 9
 2
-0 44 9 16
 0 37 3 0
+0 44 9 16
 1
 end_operator
 begin_operator
@@ -69560,8 +69560,8 @@ overcome loneliness-3 achievement potato mercury saturn
 1
 9 9
 2
-0 44 9 16
 0 37 2 1
+0 44 9 16
 1
 end_operator
 begin_operator
@@ -69569,8 +69569,8 @@ overcome loneliness-3 achievement potato saturn earth
 1
 9 9
 2
-0 44 9 16
 0 37 0 2
+0 44 9 16
 1
 end_operator
 begin_operator
@@ -69578,8 +69578,8 @@ overcome loneliness-3 achievement rice earth uranus
 1
 9 10
 2
-0 44 10 16
 0 37 3 0
+0 44 10 16
 1
 end_operator
 begin_operator
@@ -69587,8 +69587,8 @@ overcome loneliness-3 achievement rice mercury saturn
 1
 9 10
 2
-0 44 10 16
 0 37 2 1
+0 44 10 16
 1
 end_operator
 begin_operator
@@ -69596,8 +69596,8 @@ overcome loneliness-3 achievement rice saturn earth
 1
 9 10
 2
-0 44 10 16
 0 37 0 2
+0 44 10 16
 1
 end_operator
 begin_operator
@@ -69605,8 +69605,8 @@ overcome loneliness-3 achievement shrimp earth uranus
 1
 9 11
 2
-0 44 11 16
 0 37 3 0
+0 44 11 16
 1
 end_operator
 begin_operator
@@ -69614,8 +69614,8 @@ overcome loneliness-3 achievement shrimp mercury saturn
 1
 9 11
 2
-0 44 11 16
 0 37 2 1
+0 44 11 16
 1
 end_operator
 begin_operator
@@ -69623,8 +69623,8 @@ overcome loneliness-3 achievement shrimp saturn earth
 1
 9 11
 2
-0 44 11 16
 0 37 0 2
+0 44 11 16
 1
 end_operator
 begin_operator
@@ -69632,8 +69632,8 @@ overcome loneliness-3 achievement turkey earth uranus
 1
 9 12
 2
-0 44 12 16
 0 37 3 0
+0 44 12 16
 1
 end_operator
 begin_operator
@@ -69641,8 +69641,8 @@ overcome loneliness-3 achievement turkey mercury saturn
 1
 9 12
 2
-0 44 12 16
 0 37 2 1
+0 44 12 16
 1
 end_operator
 begin_operator
@@ -69650,8 +69650,8 @@ overcome loneliness-3 achievement turkey saturn earth
 1
 9 12
 2
-0 44 12 16
 0 37 0 2
+0 44 12 16
 1
 end_operator
 begin_operator
@@ -69659,8 +69659,8 @@ overcome loneliness-3 achievement wonderbread earth uranus
 1
 9 13
 2
-0 44 13 16
 0 37 3 0
+0 44 13 16
 1
 end_operator
 begin_operator
@@ -69668,8 +69668,8 @@ overcome loneliness-3 achievement wonderbread mercury saturn
 1
 9 13
 2
-0 44 13 16
 0 37 2 1
+0 44 13 16
 1
 end_operator
 begin_operator
@@ -69677,8 +69677,8 @@ overcome loneliness-3 achievement wonderbread saturn earth
 1
 9 13
 2
-0 44 13 16
 0 37 0 2
+0 44 13 16
 1
 end_operator
 begin_operator
@@ -69686,8 +69686,8 @@ overcome loneliness-3 achievement wurst earth uranus
 1
 9 14
 2
-0 44 14 16
 0 37 3 0
+0 44 14 16
 1
 end_operator
 begin_operator
@@ -69695,8 +69695,8 @@ overcome loneliness-3 achievement wurst mercury saturn
 1
 9 14
 2
-0 44 14 16
 0 37 2 1
+0 44 14 16
 1
 end_operator
 begin_operator
@@ -69704,8 +69704,8 @@ overcome loneliness-3 achievement wurst saturn earth
 1
 9 14
 2
-0 44 14 16
 0 37 0 2
+0 44 14 16
 1
 end_operator
 begin_operator
@@ -69713,8 +69713,8 @@ overcome loneliness-3 achievement yogurt earth uranus
 1
 9 15
 2
-0 44 15 16
 0 37 3 0
+0 44 15 16
 1
 end_operator
 begin_operator
@@ -69722,8 +69722,8 @@ overcome loneliness-3 achievement yogurt mercury saturn
 1
 9 15
 2
-0 44 15 16
 0 37 2 1
+0 44 15 16
 1
 end_operator
 begin_operator
@@ -69731,32 +69731,32 @@ overcome loneliness-3 achievement yogurt saturn earth
 1
 9 15
 2
-0 44 15 16
 0 37 0 2
+0 44 15 16
 1
 end_operator
 begin_operator
 overcome loneliness-3 entertainment wurst earth uranus
 0
 2
-0 44 14 17
 0 23 3 0
+0 44 14 17
 1
 end_operator
 begin_operator
 overcome loneliness-3 entertainment wurst mercury saturn
 0
 2
-0 44 14 17
 0 23 2 1
+0 44 14 17
 1
 end_operator
 begin_operator
 overcome loneliness-3 entertainment wurst saturn earth
 0
 2
-0 44 14 17
 0 23 0 2
+0 44 14 17
 1
 end_operator
 begin_operator
@@ -69764,8 +69764,8 @@ overcome loneliness-3 excitement arugula earth uranus
 1
 11 0
 2
-0 44 0 18
 0 38 3 0
+0 44 0 18
 1
 end_operator
 begin_operator
@@ -69773,8 +69773,8 @@ overcome loneliness-3 excitement arugula mercury saturn
 1
 11 0
 2
-0 44 0 18
 0 38 2 1
+0 44 0 18
 1
 end_operator
 begin_operator
@@ -69782,8 +69782,8 @@ overcome loneliness-3 excitement arugula saturn earth
 1
 11 0
 2
-0 44 0 18
 0 38 0 2
+0 44 0 18
 1
 end_operator
 begin_operator
@@ -69791,8 +69791,8 @@ overcome loneliness-3 excitement cherry earth uranus
 1
 11 1
 2
-0 44 1 18
 0 38 3 0
+0 44 1 18
 1
 end_operator
 begin_operator
@@ -69800,8 +69800,8 @@ overcome loneliness-3 excitement cherry mercury saturn
 1
 11 1
 2
-0 44 1 18
 0 38 2 1
+0 44 1 18
 1
 end_operator
 begin_operator
@@ -69809,8 +69809,8 @@ overcome loneliness-3 excitement cherry saturn earth
 1
 11 1
 2
-0 44 1 18
 0 38 0 2
+0 44 1 18
 1
 end_operator
 begin_operator
@@ -69818,8 +69818,8 @@ overcome loneliness-3 excitement endive earth uranus
 1
 11 2
 2
-0 44 2 18
 0 38 3 0
+0 44 2 18
 1
 end_operator
 begin_operator
@@ -69827,8 +69827,8 @@ overcome loneliness-3 excitement endive mercury saturn
 1
 11 2
 2
-0 44 2 18
 0 38 2 1
+0 44 2 18
 1
 end_operator
 begin_operator
@@ -69836,8 +69836,8 @@ overcome loneliness-3 excitement endive saturn earth
 1
 11 2
 2
-0 44 2 18
 0 38 0 2
+0 44 2 18
 1
 end_operator
 begin_operator
@@ -69845,8 +69845,8 @@ overcome loneliness-3 excitement ham earth uranus
 1
 11 3
 2
-0 44 3 18
 0 38 3 0
+0 44 3 18
 1
 end_operator
 begin_operator
@@ -69854,8 +69854,8 @@ overcome loneliness-3 excitement ham mercury saturn
 1
 11 3
 2
-0 44 3 18
 0 38 2 1
+0 44 3 18
 1
 end_operator
 begin_operator
@@ -69863,8 +69863,8 @@ overcome loneliness-3 excitement ham saturn earth
 1
 11 3
 2
-0 44 3 18
 0 38 0 2
+0 44 3 18
 1
 end_operator
 begin_operator
@@ -69872,8 +69872,8 @@ overcome loneliness-3 excitement haroset earth uranus
 1
 11 4
 2
-0 44 4 18
 0 38 3 0
+0 44 4 18
 1
 end_operator
 begin_operator
@@ -69881,8 +69881,8 @@ overcome loneliness-3 excitement haroset mercury saturn
 1
 11 4
 2
-0 44 4 18
 0 38 2 1
+0 44 4 18
 1
 end_operator
 begin_operator
@@ -69890,8 +69890,8 @@ overcome loneliness-3 excitement haroset saturn earth
 1
 11 4
 2
-0 44 4 18
 0 38 0 2
+0 44 4 18
 1
 end_operator
 begin_operator
@@ -69899,8 +69899,8 @@ overcome loneliness-3 excitement marzipan earth uranus
 1
 11 5
 2
-0 44 5 18
 0 38 3 0
+0 44 5 18
 1
 end_operator
 begin_operator
@@ -69908,8 +69908,8 @@ overcome loneliness-3 excitement marzipan mercury saturn
 1
 11 5
 2
-0 44 5 18
 0 38 2 1
+0 44 5 18
 1
 end_operator
 begin_operator
@@ -69917,8 +69917,8 @@ overcome loneliness-3 excitement marzipan saturn earth
 1
 11 5
 2
-0 44 5 18
 0 38 0 2
+0 44 5 18
 1
 end_operator
 begin_operator
@@ -69926,8 +69926,8 @@ overcome loneliness-3 excitement mutton earth uranus
 1
 11 6
 2
-0 44 6 18
 0 38 3 0
+0 44 6 18
 1
 end_operator
 begin_operator
@@ -69935,8 +69935,8 @@ overcome loneliness-3 excitement mutton mercury saturn
 1
 11 6
 2
-0 44 6 18
 0 38 2 1
+0 44 6 18
 1
 end_operator
 begin_operator
@@ -69944,8 +69944,8 @@ overcome loneliness-3 excitement mutton saturn earth
 1
 11 6
 2
-0 44 6 18
 0 38 0 2
+0 44 6 18
 1
 end_operator
 begin_operator
@@ -69953,8 +69953,8 @@ overcome loneliness-3 excitement onion earth uranus
 1
 11 7
 2
-0 44 7 18
 0 38 3 0
+0 44 7 18
 1
 end_operator
 begin_operator
@@ -69962,8 +69962,8 @@ overcome loneliness-3 excitement onion mercury saturn
 1
 11 7
 2
-0 44 7 18
 0 38 2 1
+0 44 7 18
 1
 end_operator
 begin_operator
@@ -69971,8 +69971,8 @@ overcome loneliness-3 excitement onion saturn earth
 1
 11 7
 2
-0 44 7 18
 0 38 0 2
+0 44 7 18
 1
 end_operator
 begin_operator
@@ -69980,8 +69980,8 @@ overcome loneliness-3 excitement papaya earth uranus
 1
 11 8
 2
-0 44 8 18
 0 38 3 0
+0 44 8 18
 1
 end_operator
 begin_operator
@@ -69989,8 +69989,8 @@ overcome loneliness-3 excitement papaya mercury saturn
 1
 11 8
 2
-0 44 8 18
 0 38 2 1
+0 44 8 18
 1
 end_operator
 begin_operator
@@ -69998,8 +69998,8 @@ overcome loneliness-3 excitement papaya saturn earth
 1
 11 8
 2
-0 44 8 18
 0 38 0 2
+0 44 8 18
 1
 end_operator
 begin_operator
@@ -70007,8 +70007,8 @@ overcome loneliness-3 excitement potato earth uranus
 1
 11 9
 2
-0 44 9 18
 0 38 3 0
+0 44 9 18
 1
 end_operator
 begin_operator
@@ -70016,8 +70016,8 @@ overcome loneliness-3 excitement potato mercury saturn
 1
 11 9
 2
-0 44 9 18
 0 38 2 1
+0 44 9 18
 1
 end_operator
 begin_operator
@@ -70025,8 +70025,8 @@ overcome loneliness-3 excitement potato saturn earth
 1
 11 9
 2
-0 44 9 18
 0 38 0 2
+0 44 9 18
 1
 end_operator
 begin_operator
@@ -70034,8 +70034,8 @@ overcome loneliness-3 excitement rice earth uranus
 1
 11 10
 2
-0 44 10 18
 0 38 3 0
+0 44 10 18
 1
 end_operator
 begin_operator
@@ -70043,8 +70043,8 @@ overcome loneliness-3 excitement rice mercury saturn
 1
 11 10
 2
-0 44 10 18
 0 38 2 1
+0 44 10 18
 1
 end_operator
 begin_operator
@@ -70052,8 +70052,8 @@ overcome loneliness-3 excitement rice saturn earth
 1
 11 10
 2
-0 44 10 18
 0 38 0 2
+0 44 10 18
 1
 end_operator
 begin_operator
@@ -70061,8 +70061,8 @@ overcome loneliness-3 excitement shrimp earth uranus
 1
 11 11
 2
-0 44 11 18
 0 38 3 0
+0 44 11 18
 1
 end_operator
 begin_operator
@@ -70070,8 +70070,8 @@ overcome loneliness-3 excitement shrimp mercury saturn
 1
 11 11
 2
-0 44 11 18
 0 38 2 1
+0 44 11 18
 1
 end_operator
 begin_operator
@@ -70079,8 +70079,8 @@ overcome loneliness-3 excitement shrimp saturn earth
 1
 11 11
 2
-0 44 11 18
 0 38 0 2
+0 44 11 18
 1
 end_operator
 begin_operator
@@ -70088,8 +70088,8 @@ overcome loneliness-3 excitement turkey earth uranus
 1
 11 12
 2
-0 44 12 18
 0 38 3 0
+0 44 12 18
 1
 end_operator
 begin_operator
@@ -70097,8 +70097,8 @@ overcome loneliness-3 excitement turkey mercury saturn
 1
 11 12
 2
-0 44 12 18
 0 38 2 1
+0 44 12 18
 1
 end_operator
 begin_operator
@@ -70106,8 +70106,8 @@ overcome loneliness-3 excitement turkey saturn earth
 1
 11 12
 2
-0 44 12 18
 0 38 0 2
+0 44 12 18
 1
 end_operator
 begin_operator
@@ -70115,8 +70115,8 @@ overcome loneliness-3 excitement wonderbread earth uranus
 1
 11 13
 2
-0 44 13 18
 0 38 3 0
+0 44 13 18
 1
 end_operator
 begin_operator
@@ -70124,8 +70124,8 @@ overcome loneliness-3 excitement wonderbread mercury saturn
 1
 11 13
 2
-0 44 13 18
 0 38 2 1
+0 44 13 18
 1
 end_operator
 begin_operator
@@ -70133,8 +70133,8 @@ overcome loneliness-3 excitement wonderbread saturn earth
 1
 11 13
 2
-0 44 13 18
 0 38 0 2
+0 44 13 18
 1
 end_operator
 begin_operator
@@ -70142,8 +70142,8 @@ overcome loneliness-3 excitement wurst earth uranus
 1
 11 14
 2
-0 44 14 18
 0 38 3 0
+0 44 14 18
 1
 end_operator
 begin_operator
@@ -70151,8 +70151,8 @@ overcome loneliness-3 excitement wurst mercury saturn
 1
 11 14
 2
-0 44 14 18
 0 38 2 1
+0 44 14 18
 1
 end_operator
 begin_operator
@@ -70160,8 +70160,8 @@ overcome loneliness-3 excitement wurst saturn earth
 1
 11 14
 2
-0 44 14 18
 0 38 0 2
+0 44 14 18
 1
 end_operator
 begin_operator
@@ -70169,8 +70169,8 @@ overcome loneliness-3 excitement yogurt earth uranus
 1
 11 15
 2
-0 44 15 18
 0 38 3 0
+0 44 15 18
 1
 end_operator
 begin_operator
@@ -70178,8 +70178,8 @@ overcome loneliness-3 excitement yogurt mercury saturn
 1
 11 15
 2
-0 44 15 18
 0 38 2 1
+0 44 15 18
 1
 end_operator
 begin_operator
@@ -70187,8 +70187,8 @@ overcome loneliness-3 excitement yogurt saturn earth
 1
 11 15
 2
-0 44 15 18
 0 38 0 2
+0 44 15 18
 1
 end_operator
 begin_operator
@@ -70196,8 +70196,8 @@ overcome loneliness-3 intoxication arugula earth uranus
 1
 13 0
 2
-0 44 0 19
 0 41 3 0
+0 44 0 19
 1
 end_operator
 begin_operator
@@ -70205,8 +70205,8 @@ overcome loneliness-3 intoxication arugula mercury saturn
 1
 13 0
 2
-0 44 0 19
 0 41 2 1
+0 44 0 19
 1
 end_operator
 begin_operator
@@ -70214,8 +70214,8 @@ overcome loneliness-3 intoxication arugula saturn earth
 1
 13 0
 2
-0 44 0 19
 0 41 0 2
+0 44 0 19
 1
 end_operator
 begin_operator
@@ -70223,8 +70223,8 @@ overcome loneliness-3 intoxication cherry earth uranus
 1
 13 1
 2
-0 44 1 19
 0 41 3 0
+0 44 1 19
 1
 end_operator
 begin_operator
@@ -70232,8 +70232,8 @@ overcome loneliness-3 intoxication cherry mercury saturn
 1
 13 1
 2
-0 44 1 19
 0 41 2 1
+0 44 1 19
 1
 end_operator
 begin_operator
@@ -70241,8 +70241,8 @@ overcome loneliness-3 intoxication cherry saturn earth
 1
 13 1
 2
-0 44 1 19
 0 41 0 2
+0 44 1 19
 1
 end_operator
 begin_operator
@@ -70250,8 +70250,8 @@ overcome loneliness-3 intoxication endive earth uranus
 1
 13 2
 2
-0 44 2 19
 0 41 3 0
+0 44 2 19
 1
 end_operator
 begin_operator
@@ -70259,8 +70259,8 @@ overcome loneliness-3 intoxication endive mercury saturn
 1
 13 2
 2
-0 44 2 19
 0 41 2 1
+0 44 2 19
 1
 end_operator
 begin_operator
@@ -70268,8 +70268,8 @@ overcome loneliness-3 intoxication endive saturn earth
 1
 13 2
 2
-0 44 2 19
 0 41 0 2
+0 44 2 19
 1
 end_operator
 begin_operator
@@ -70277,8 +70277,8 @@ overcome loneliness-3 intoxication ham earth uranus
 1
 13 3
 2
-0 44 3 19
 0 41 3 0
+0 44 3 19
 1
 end_operator
 begin_operator
@@ -70286,8 +70286,8 @@ overcome loneliness-3 intoxication ham mercury saturn
 1
 13 3
 2
-0 44 3 19
 0 41 2 1
+0 44 3 19
 1
 end_operator
 begin_operator
@@ -70295,8 +70295,8 @@ overcome loneliness-3 intoxication ham saturn earth
 1
 13 3
 2
-0 44 3 19
 0 41 0 2
+0 44 3 19
 1
 end_operator
 begin_operator
@@ -70304,8 +70304,8 @@ overcome loneliness-3 intoxication haroset earth uranus
 1
 13 4
 2
-0 44 4 19
 0 41 3 0
+0 44 4 19
 1
 end_operator
 begin_operator
@@ -70313,8 +70313,8 @@ overcome loneliness-3 intoxication haroset mercury saturn
 1
 13 4
 2
-0 44 4 19
 0 41 2 1
+0 44 4 19
 1
 end_operator
 begin_operator
@@ -70322,8 +70322,8 @@ overcome loneliness-3 intoxication haroset saturn earth
 1
 13 4
 2
-0 44 4 19
 0 41 0 2
+0 44 4 19
 1
 end_operator
 begin_operator
@@ -70331,8 +70331,8 @@ overcome loneliness-3 intoxication marzipan earth uranus
 1
 13 5
 2
-0 44 5 19
 0 41 3 0
+0 44 5 19
 1
 end_operator
 begin_operator
@@ -70340,8 +70340,8 @@ overcome loneliness-3 intoxication marzipan mercury saturn
 1
 13 5
 2
-0 44 5 19
 0 41 2 1
+0 44 5 19
 1
 end_operator
 begin_operator
@@ -70349,8 +70349,8 @@ overcome loneliness-3 intoxication marzipan saturn earth
 1
 13 5
 2
-0 44 5 19
 0 41 0 2
+0 44 5 19
 1
 end_operator
 begin_operator
@@ -70358,8 +70358,8 @@ overcome loneliness-3 intoxication mutton earth uranus
 1
 13 6
 2
-0 44 6 19
 0 41 3 0
+0 44 6 19
 1
 end_operator
 begin_operator
@@ -70367,8 +70367,8 @@ overcome loneliness-3 intoxication mutton mercury saturn
 1
 13 6
 2
-0 44 6 19
 0 41 2 1
+0 44 6 19
 1
 end_operator
 begin_operator
@@ -70376,8 +70376,8 @@ overcome loneliness-3 intoxication mutton saturn earth
 1
 13 6
 2
-0 44 6 19
 0 41 0 2
+0 44 6 19
 1
 end_operator
 begin_operator
@@ -70385,8 +70385,8 @@ overcome loneliness-3 intoxication onion earth uranus
 1
 13 7
 2
-0 44 7 19
 0 41 3 0
+0 44 7 19
 1
 end_operator
 begin_operator
@@ -70394,8 +70394,8 @@ overcome loneliness-3 intoxication onion mercury saturn
 1
 13 7
 2
-0 44 7 19
 0 41 2 1
+0 44 7 19
 1
 end_operator
 begin_operator
@@ -70403,8 +70403,8 @@ overcome loneliness-3 intoxication onion saturn earth
 1
 13 7
 2
-0 44 7 19
 0 41 0 2
+0 44 7 19
 1
 end_operator
 begin_operator
@@ -70412,8 +70412,8 @@ overcome loneliness-3 intoxication papaya earth uranus
 1
 13 8
 2
-0 44 8 19
 0 41 3 0
+0 44 8 19
 1
 end_operator
 begin_operator
@@ -70421,8 +70421,8 @@ overcome loneliness-3 intoxication papaya mercury saturn
 1
 13 8
 2
-0 44 8 19
 0 41 2 1
+0 44 8 19
 1
 end_operator
 begin_operator
@@ -70430,8 +70430,8 @@ overcome loneliness-3 intoxication papaya saturn earth
 1
 13 8
 2
-0 44 8 19
 0 41 0 2
+0 44 8 19
 1
 end_operator
 begin_operator
@@ -70439,8 +70439,8 @@ overcome loneliness-3 intoxication potato earth uranus
 1
 13 9
 2
-0 44 9 19
 0 41 3 0
+0 44 9 19
 1
 end_operator
 begin_operator
@@ -70448,8 +70448,8 @@ overcome loneliness-3 intoxication potato mercury saturn
 1
 13 9
 2
-0 44 9 19
 0 41 2 1
+0 44 9 19
 1
 end_operator
 begin_operator
@@ -70457,8 +70457,8 @@ overcome loneliness-3 intoxication potato saturn earth
 1
 13 9
 2
-0 44 9 19
 0 41 0 2
+0 44 9 19
 1
 end_operator
 begin_operator
@@ -70466,8 +70466,8 @@ overcome loneliness-3 intoxication rice earth uranus
 1
 13 10
 2
-0 44 10 19
 0 41 3 0
+0 44 10 19
 1
 end_operator
 begin_operator
@@ -70475,8 +70475,8 @@ overcome loneliness-3 intoxication rice mercury saturn
 1
 13 10
 2
-0 44 10 19
 0 41 2 1
+0 44 10 19
 1
 end_operator
 begin_operator
@@ -70484,8 +70484,8 @@ overcome loneliness-3 intoxication rice saturn earth
 1
 13 10
 2
-0 44 10 19
 0 41 0 2
+0 44 10 19
 1
 end_operator
 begin_operator
@@ -70493,8 +70493,8 @@ overcome loneliness-3 intoxication shrimp earth uranus
 1
 13 11
 2
-0 44 11 19
 0 41 3 0
+0 44 11 19
 1
 end_operator
 begin_operator
@@ -70502,8 +70502,8 @@ overcome loneliness-3 intoxication shrimp mercury saturn
 1
 13 11
 2
-0 44 11 19
 0 41 2 1
+0 44 11 19
 1
 end_operator
 begin_operator
@@ -70511,8 +70511,8 @@ overcome loneliness-3 intoxication shrimp saturn earth
 1
 13 11
 2
-0 44 11 19
 0 41 0 2
+0 44 11 19
 1
 end_operator
 begin_operator
@@ -70520,8 +70520,8 @@ overcome loneliness-3 intoxication turkey earth uranus
 1
 13 12
 2
-0 44 12 19
 0 41 3 0
+0 44 12 19
 1
 end_operator
 begin_operator
@@ -70529,8 +70529,8 @@ overcome loneliness-3 intoxication turkey mercury saturn
 1
 13 12
 2
-0 44 12 19
 0 41 2 1
+0 44 12 19
 1
 end_operator
 begin_operator
@@ -70538,8 +70538,8 @@ overcome loneliness-3 intoxication turkey saturn earth
 1
 13 12
 2
-0 44 12 19
 0 41 0 2
+0 44 12 19
 1
 end_operator
 begin_operator
@@ -70547,8 +70547,8 @@ overcome loneliness-3 intoxication wonderbread earth uranus
 1
 13 13
 2
-0 44 13 19
 0 41 3 0
+0 44 13 19
 1
 end_operator
 begin_operator
@@ -70556,8 +70556,8 @@ overcome loneliness-3 intoxication wonderbread mercury saturn
 1
 13 13
 2
-0 44 13 19
 0 41 2 1
+0 44 13 19
 1
 end_operator
 begin_operator
@@ -70565,8 +70565,8 @@ overcome loneliness-3 intoxication wonderbread saturn earth
 1
 13 13
 2
-0 44 13 19
 0 41 0 2
+0 44 13 19
 1
 end_operator
 begin_operator
@@ -70574,8 +70574,8 @@ overcome loneliness-3 intoxication wurst earth uranus
 1
 13 14
 2
-0 44 14 19
 0 41 3 0
+0 44 14 19
 1
 end_operator
 begin_operator
@@ -70583,8 +70583,8 @@ overcome loneliness-3 intoxication wurst mercury saturn
 1
 13 14
 2
-0 44 14 19
 0 41 2 1
+0 44 14 19
 1
 end_operator
 begin_operator
@@ -70592,8 +70592,8 @@ overcome loneliness-3 intoxication wurst saturn earth
 1
 13 14
 2
-0 44 14 19
 0 41 0 2
+0 44 14 19
 1
 end_operator
 begin_operator
@@ -70601,8 +70601,8 @@ overcome loneliness-3 intoxication yogurt earth uranus
 1
 13 15
 2
-0 44 15 19
 0 41 3 0
+0 44 15 19
 1
 end_operator
 begin_operator
@@ -70610,8 +70610,8 @@ overcome loneliness-3 intoxication yogurt mercury saturn
 1
 13 15
 2
-0 44 15 19
 0 41 2 1
+0 44 15 19
 1
 end_operator
 begin_operator
@@ -70619,8 +70619,8 @@ overcome loneliness-3 intoxication yogurt saturn earth
 1
 13 15
 2
-0 44 15 19
 0 41 0 2
+0 44 15 19
 1
 end_operator
 begin_operator
@@ -70628,8 +70628,8 @@ overcome loneliness-3 love arugula earth uranus
 1
 15 0
 2
-0 44 0 20
 0 42 3 0
+0 44 0 20
 1
 end_operator
 begin_operator
@@ -70637,8 +70637,8 @@ overcome loneliness-3 love arugula mercury saturn
 1
 15 0
 2
-0 44 0 20
 0 42 2 1
+0 44 0 20
 1
 end_operator
 begin_operator
@@ -70646,8 +70646,8 @@ overcome loneliness-3 love arugula saturn earth
 1
 15 0
 2
-0 44 0 20
 0 42 0 2
+0 44 0 20
 1
 end_operator
 begin_operator
@@ -70655,8 +70655,8 @@ overcome loneliness-3 love cherry earth uranus
 1
 15 1
 2
-0 44 1 20
 0 42 3 0
+0 44 1 20
 1
 end_operator
 begin_operator
@@ -70664,8 +70664,8 @@ overcome loneliness-3 love cherry mercury saturn
 1
 15 1
 2
-0 44 1 20
 0 42 2 1
+0 44 1 20
 1
 end_operator
 begin_operator
@@ -70673,8 +70673,8 @@ overcome loneliness-3 love cherry saturn earth
 1
 15 1
 2
-0 44 1 20
 0 42 0 2
+0 44 1 20
 1
 end_operator
 begin_operator
@@ -70682,8 +70682,8 @@ overcome loneliness-3 love endive earth uranus
 1
 15 2
 2
-0 44 2 20
 0 42 3 0
+0 44 2 20
 1
 end_operator
 begin_operator
@@ -70691,8 +70691,8 @@ overcome loneliness-3 love endive mercury saturn
 1
 15 2
 2
-0 44 2 20
 0 42 2 1
+0 44 2 20
 1
 end_operator
 begin_operator
@@ -70700,8 +70700,8 @@ overcome loneliness-3 love endive saturn earth
 1
 15 2
 2
-0 44 2 20
 0 42 0 2
+0 44 2 20
 1
 end_operator
 begin_operator
@@ -70709,8 +70709,8 @@ overcome loneliness-3 love ham earth uranus
 1
 15 3
 2
-0 44 3 20
 0 42 3 0
+0 44 3 20
 1
 end_operator
 begin_operator
@@ -70718,8 +70718,8 @@ overcome loneliness-3 love ham mercury saturn
 1
 15 3
 2
-0 44 3 20
 0 42 2 1
+0 44 3 20
 1
 end_operator
 begin_operator
@@ -70727,8 +70727,8 @@ overcome loneliness-3 love ham saturn earth
 1
 15 3
 2
-0 44 3 20
 0 42 0 2
+0 44 3 20
 1
 end_operator
 begin_operator
@@ -70736,8 +70736,8 @@ overcome loneliness-3 love haroset earth uranus
 1
 15 4
 2
-0 44 4 20
 0 42 3 0
+0 44 4 20
 1
 end_operator
 begin_operator
@@ -70745,8 +70745,8 @@ overcome loneliness-3 love haroset mercury saturn
 1
 15 4
 2
-0 44 4 20
 0 42 2 1
+0 44 4 20
 1
 end_operator
 begin_operator
@@ -70754,8 +70754,8 @@ overcome loneliness-3 love haroset saturn earth
 1
 15 4
 2
-0 44 4 20
 0 42 0 2
+0 44 4 20
 1
 end_operator
 begin_operator
@@ -70763,8 +70763,8 @@ overcome loneliness-3 love marzipan earth uranus
 1
 15 5
 2
-0 44 5 20
 0 42 3 0
+0 44 5 20
 1
 end_operator
 begin_operator
@@ -70772,8 +70772,8 @@ overcome loneliness-3 love marzipan mercury saturn
 1
 15 5
 2
-0 44 5 20
 0 42 2 1
+0 44 5 20
 1
 end_operator
 begin_operator
@@ -70781,8 +70781,8 @@ overcome loneliness-3 love marzipan saturn earth
 1
 15 5
 2
-0 44 5 20
 0 42 0 2
+0 44 5 20
 1
 end_operator
 begin_operator
@@ -70790,8 +70790,8 @@ overcome loneliness-3 love mutton earth uranus
 1
 15 6
 2
-0 44 6 20
 0 42 3 0
+0 44 6 20
 1
 end_operator
 begin_operator
@@ -70799,8 +70799,8 @@ overcome loneliness-3 love mutton mercury saturn
 1
 15 6
 2
-0 44 6 20
 0 42 2 1
+0 44 6 20
 1
 end_operator
 begin_operator
@@ -70808,8 +70808,8 @@ overcome loneliness-3 love mutton saturn earth
 1
 15 6
 2
-0 44 6 20
 0 42 0 2
+0 44 6 20
 1
 end_operator
 begin_operator
@@ -70817,8 +70817,8 @@ overcome loneliness-3 love onion earth uranus
 1
 15 7
 2
-0 44 7 20
 0 42 3 0
+0 44 7 20
 1
 end_operator
 begin_operator
@@ -70826,8 +70826,8 @@ overcome loneliness-3 love onion mercury saturn
 1
 15 7
 2
-0 44 7 20
 0 42 2 1
+0 44 7 20
 1
 end_operator
 begin_operator
@@ -70835,8 +70835,8 @@ overcome loneliness-3 love onion saturn earth
 1
 15 7
 2
-0 44 7 20
 0 42 0 2
+0 44 7 20
 1
 end_operator
 begin_operator
@@ -70844,8 +70844,8 @@ overcome loneliness-3 love papaya earth uranus
 1
 15 8
 2
-0 44 8 20
 0 42 3 0
+0 44 8 20
 1
 end_operator
 begin_operator
@@ -70853,8 +70853,8 @@ overcome loneliness-3 love papaya mercury saturn
 1
 15 8
 2
-0 44 8 20
 0 42 2 1
+0 44 8 20
 1
 end_operator
 begin_operator
@@ -70862,8 +70862,8 @@ overcome loneliness-3 love papaya saturn earth
 1
 15 8
 2
-0 44 8 20
 0 42 0 2
+0 44 8 20
 1
 end_operator
 begin_operator
@@ -70871,8 +70871,8 @@ overcome loneliness-3 love potato earth uranus
 1
 15 9
 2
-0 44 9 20
 0 42 3 0
+0 44 9 20
 1
 end_operator
 begin_operator
@@ -70880,8 +70880,8 @@ overcome loneliness-3 love potato mercury saturn
 1
 15 9
 2
-0 44 9 20
 0 42 2 1
+0 44 9 20
 1
 end_operator
 begin_operator
@@ -70889,8 +70889,8 @@ overcome loneliness-3 love potato saturn earth
 1
 15 9
 2
-0 44 9 20
 0 42 0 2
+0 44 9 20
 1
 end_operator
 begin_operator
@@ -70898,8 +70898,8 @@ overcome loneliness-3 love rice earth uranus
 1
 15 10
 2
-0 44 10 20
 0 42 3 0
+0 44 10 20
 1
 end_operator
 begin_operator
@@ -70907,8 +70907,8 @@ overcome loneliness-3 love rice mercury saturn
 1
 15 10
 2
-0 44 10 20
 0 42 2 1
+0 44 10 20
 1
 end_operator
 begin_operator
@@ -70916,8 +70916,8 @@ overcome loneliness-3 love rice saturn earth
 1
 15 10
 2
-0 44 10 20
 0 42 0 2
+0 44 10 20
 1
 end_operator
 begin_operator
@@ -70925,8 +70925,8 @@ overcome loneliness-3 love shrimp earth uranus
 1
 15 11
 2
-0 44 11 20
 0 42 3 0
+0 44 11 20
 1
 end_operator
 begin_operator
@@ -70934,8 +70934,8 @@ overcome loneliness-3 love shrimp mercury saturn
 1
 15 11
 2
-0 44 11 20
 0 42 2 1
+0 44 11 20
 1
 end_operator
 begin_operator
@@ -70943,8 +70943,8 @@ overcome loneliness-3 love shrimp saturn earth
 1
 15 11
 2
-0 44 11 20
 0 42 0 2
+0 44 11 20
 1
 end_operator
 begin_operator
@@ -70952,8 +70952,8 @@ overcome loneliness-3 love turkey earth uranus
 1
 15 12
 2
-0 44 12 20
 0 42 3 0
+0 44 12 20
 1
 end_operator
 begin_operator
@@ -70961,8 +70961,8 @@ overcome loneliness-3 love turkey mercury saturn
 1
 15 12
 2
-0 44 12 20
 0 42 2 1
+0 44 12 20
 1
 end_operator
 begin_operator
@@ -70970,8 +70970,8 @@ overcome loneliness-3 love turkey saturn earth
 1
 15 12
 2
-0 44 12 20
 0 42 0 2
+0 44 12 20
 1
 end_operator
 begin_operator
@@ -70979,8 +70979,8 @@ overcome loneliness-3 love wonderbread earth uranus
 1
 15 13
 2
-0 44 13 20
 0 42 3 0
+0 44 13 20
 1
 end_operator
 begin_operator
@@ -70988,8 +70988,8 @@ overcome loneliness-3 love wonderbread mercury saturn
 1
 15 13
 2
-0 44 13 20
 0 42 2 1
+0 44 13 20
 1
 end_operator
 begin_operator
@@ -70997,8 +70997,8 @@ overcome loneliness-3 love wonderbread saturn earth
 1
 15 13
 2
-0 44 13 20
 0 42 0 2
+0 44 13 20
 1
 end_operator
 begin_operator
@@ -71006,8 +71006,8 @@ overcome loneliness-3 love wurst earth uranus
 1
 15 14
 2
-0 44 14 20
 0 42 3 0
+0 44 14 20
 1
 end_operator
 begin_operator
@@ -71015,8 +71015,8 @@ overcome loneliness-3 love wurst mercury saturn
 1
 15 14
 2
-0 44 14 20
 0 42 2 1
+0 44 14 20
 1
 end_operator
 begin_operator
@@ -71024,8 +71024,8 @@ overcome loneliness-3 love wurst saturn earth
 1
 15 14
 2
-0 44 14 20
 0 42 0 2
+0 44 14 20
 1
 end_operator
 begin_operator
@@ -71033,8 +71033,8 @@ overcome loneliness-3 love yogurt earth uranus
 1
 15 15
 2
-0 44 15 20
 0 42 3 0
+0 44 15 20
 1
 end_operator
 begin_operator
@@ -71042,8 +71042,8 @@ overcome loneliness-3 love yogurt mercury saturn
 1
 15 15
 2
-0 44 15 20
 0 42 2 1
+0 44 15 20
 1
 end_operator
 begin_operator
@@ -71051,8 +71051,8 @@ overcome loneliness-3 love yogurt saturn earth
 1
 15 15
 2
-0 44 15 20
 0 42 0 2
+0 44 15 20
 1
 end_operator
 begin_operator
@@ -72788,8 +72788,8 @@ overcome prostatitis achievement arugula earth uranus
 1
 9 0
 2
-0 47 0 16
 0 37 3 0
+0 47 0 16
 1
 end_operator
 begin_operator
@@ -72797,8 +72797,8 @@ overcome prostatitis achievement arugula mercury saturn
 1
 9 0
 2
-0 47 0 16
 0 37 2 1
+0 47 0 16
 1
 end_operator
 begin_operator
@@ -72806,8 +72806,8 @@ overcome prostatitis achievement arugula saturn earth
 1
 9 0
 2
-0 47 0 16
 0 37 0 2
+0 47 0 16
 1
 end_operator
 begin_operator
@@ -72815,8 +72815,8 @@ overcome prostatitis achievement cherry earth uranus
 1
 9 1
 2
-0 47 1 16
 0 37 3 0
+0 47 1 16
 1
 end_operator
 begin_operator
@@ -72824,8 +72824,8 @@ overcome prostatitis achievement cherry mercury saturn
 1
 9 1
 2
-0 47 1 16
 0 37 2 1
+0 47 1 16
 1
 end_operator
 begin_operator
@@ -72833,8 +72833,8 @@ overcome prostatitis achievement cherry saturn earth
 1
 9 1
 2
-0 47 1 16
 0 37 0 2
+0 47 1 16
 1
 end_operator
 begin_operator
@@ -72842,8 +72842,8 @@ overcome prostatitis achievement endive earth uranus
 1
 9 2
 2
-0 47 2 16
 0 37 3 0
+0 47 2 16
 1
 end_operator
 begin_operator
@@ -72851,8 +72851,8 @@ overcome prostatitis achievement endive mercury saturn
 1
 9 2
 2
-0 47 2 16
 0 37 2 1
+0 47 2 16
 1
 end_operator
 begin_operator
@@ -72860,8 +72860,8 @@ overcome prostatitis achievement endive saturn earth
 1
 9 2
 2
-0 47 2 16
 0 37 0 2
+0 47 2 16
 1
 end_operator
 begin_operator
@@ -72869,8 +72869,8 @@ overcome prostatitis achievement ham earth uranus
 1
 9 3
 2
-0 47 3 16
 0 37 3 0
+0 47 3 16
 1
 end_operator
 begin_operator
@@ -72878,8 +72878,8 @@ overcome prostatitis achievement ham mercury saturn
 1
 9 3
 2
-0 47 3 16
 0 37 2 1
+0 47 3 16
 1
 end_operator
 begin_operator
@@ -72887,8 +72887,8 @@ overcome prostatitis achievement ham saturn earth
 1
 9 3
 2
-0 47 3 16
 0 37 0 2
+0 47 3 16
 1
 end_operator
 begin_operator
@@ -72896,8 +72896,8 @@ overcome prostatitis achievement haroset earth uranus
 1
 9 4
 2
-0 47 4 16
 0 37 3 0
+0 47 4 16
 1
 end_operator
 begin_operator
@@ -72905,8 +72905,8 @@ overcome prostatitis achievement haroset mercury saturn
 1
 9 4
 2
-0 47 4 16
 0 37 2 1
+0 47 4 16
 1
 end_operator
 begin_operator
@@ -72914,8 +72914,8 @@ overcome prostatitis achievement haroset saturn earth
 1
 9 4
 2
-0 47 4 16
 0 37 0 2
+0 47 4 16
 1
 end_operator
 begin_operator
@@ -72923,8 +72923,8 @@ overcome prostatitis achievement marzipan earth uranus
 1
 9 5
 2
-0 47 5 16
 0 37 3 0
+0 47 5 16
 1
 end_operator
 begin_operator
@@ -72932,8 +72932,8 @@ overcome prostatitis achievement marzipan mercury saturn
 1
 9 5
 2
-0 47 5 16
 0 37 2 1
+0 47 5 16
 1
 end_operator
 begin_operator
@@ -72941,8 +72941,8 @@ overcome prostatitis achievement marzipan saturn earth
 1
 9 5
 2
-0 47 5 16
 0 37 0 2
+0 47 5 16
 1
 end_operator
 begin_operator
@@ -72950,8 +72950,8 @@ overcome prostatitis achievement mutton earth uranus
 1
 9 6
 2
-0 47 6 16
 0 37 3 0
+0 47 6 16
 1
 end_operator
 begin_operator
@@ -72959,8 +72959,8 @@ overcome prostatitis achievement mutton mercury saturn
 1
 9 6
 2
-0 47 6 16
 0 37 2 1
+0 47 6 16
 1
 end_operator
 begin_operator
@@ -72968,8 +72968,8 @@ overcome prostatitis achievement mutton saturn earth
 1
 9 6
 2
-0 47 6 16
 0 37 0 2
+0 47 6 16
 1
 end_operator
 begin_operator
@@ -72977,8 +72977,8 @@ overcome prostatitis achievement onion earth uranus
 1
 9 7
 2
-0 47 7 16
 0 37 3 0
+0 47 7 16
 1
 end_operator
 begin_operator
@@ -72986,8 +72986,8 @@ overcome prostatitis achievement onion mercury saturn
 1
 9 7
 2
-0 47 7 16
 0 37 2 1
+0 47 7 16
 1
 end_operator
 begin_operator
@@ -72995,8 +72995,8 @@ overcome prostatitis achievement onion saturn earth
 1
 9 7
 2
-0 47 7 16
 0 37 0 2
+0 47 7 16
 1
 end_operator
 begin_operator
@@ -73004,8 +73004,8 @@ overcome prostatitis achievement papaya earth uranus
 1
 9 8
 2
-0 47 8 16
 0 37 3 0
+0 47 8 16
 1
 end_operator
 begin_operator
@@ -73013,8 +73013,8 @@ overcome prostatitis achievement papaya mercury saturn
 1
 9 8
 2
-0 47 8 16
 0 37 2 1
+0 47 8 16
 1
 end_operator
 begin_operator
@@ -73022,8 +73022,8 @@ overcome prostatitis achievement papaya saturn earth
 1
 9 8
 2
-0 47 8 16
 0 37 0 2
+0 47 8 16
 1
 end_operator
 begin_operator
@@ -73031,8 +73031,8 @@ overcome prostatitis achievement potato earth uranus
 1
 9 9
 2
-0 47 9 16
 0 37 3 0
+0 47 9 16
 1
 end_operator
 begin_operator
@@ -73040,8 +73040,8 @@ overcome prostatitis achievement potato mercury saturn
 1
 9 9
 2
-0 47 9 16
 0 37 2 1
+0 47 9 16
 1
 end_operator
 begin_operator
@@ -73049,8 +73049,8 @@ overcome prostatitis achievement potato saturn earth
 1
 9 9
 2
-0 47 9 16
 0 37 0 2
+0 47 9 16
 1
 end_operator
 begin_operator
@@ -73058,8 +73058,8 @@ overcome prostatitis achievement rice earth uranus
 1
 9 10
 2
-0 47 10 16
 0 37 3 0
+0 47 10 16
 1
 end_operator
 begin_operator
@@ -73067,8 +73067,8 @@ overcome prostatitis achievement rice mercury saturn
 1
 9 10
 2
-0 47 10 16
 0 37 2 1
+0 47 10 16
 1
 end_operator
 begin_operator
@@ -73076,8 +73076,8 @@ overcome prostatitis achievement rice saturn earth
 1
 9 10
 2
-0 47 10 16
 0 37 0 2
+0 47 10 16
 1
 end_operator
 begin_operator
@@ -73085,8 +73085,8 @@ overcome prostatitis achievement shrimp earth uranus
 1
 9 11
 2
-0 47 11 16
 0 37 3 0
+0 47 11 16
 1
 end_operator
 begin_operator
@@ -73094,8 +73094,8 @@ overcome prostatitis achievement shrimp mercury saturn
 1
 9 11
 2
-0 47 11 16
 0 37 2 1
+0 47 11 16
 1
 end_operator
 begin_operator
@@ -73103,8 +73103,8 @@ overcome prostatitis achievement shrimp saturn earth
 1
 9 11
 2
-0 47 11 16
 0 37 0 2
+0 47 11 16
 1
 end_operator
 begin_operator
@@ -73112,8 +73112,8 @@ overcome prostatitis achievement turkey earth uranus
 1
 9 12
 2
-0 47 12 16
 0 37 3 0
+0 47 12 16
 1
 end_operator
 begin_operator
@@ -73121,8 +73121,8 @@ overcome prostatitis achievement turkey mercury saturn
 1
 9 12
 2
-0 47 12 16
 0 37 2 1
+0 47 12 16
 1
 end_operator
 begin_operator
@@ -73130,8 +73130,8 @@ overcome prostatitis achievement turkey saturn earth
 1
 9 12
 2
-0 47 12 16
 0 37 0 2
+0 47 12 16
 1
 end_operator
 begin_operator
@@ -73139,8 +73139,8 @@ overcome prostatitis achievement wonderbread earth uranus
 1
 9 13
 2
-0 47 13 16
 0 37 3 0
+0 47 13 16
 1
 end_operator
 begin_operator
@@ -73148,8 +73148,8 @@ overcome prostatitis achievement wonderbread mercury saturn
 1
 9 13
 2
-0 47 13 16
 0 37 2 1
+0 47 13 16
 1
 end_operator
 begin_operator
@@ -73157,8 +73157,8 @@ overcome prostatitis achievement wonderbread saturn earth
 1
 9 13
 2
-0 47 13 16
 0 37 0 2
+0 47 13 16
 1
 end_operator
 begin_operator
@@ -73166,8 +73166,8 @@ overcome prostatitis achievement wurst earth uranus
 1
 9 14
 2
-0 47 14 16
 0 37 3 0
+0 47 14 16
 1
 end_operator
 begin_operator
@@ -73175,8 +73175,8 @@ overcome prostatitis achievement wurst mercury saturn
 1
 9 14
 2
-0 47 14 16
 0 37 2 1
+0 47 14 16
 1
 end_operator
 begin_operator
@@ -73184,8 +73184,8 @@ overcome prostatitis achievement wurst saturn earth
 1
 9 14
 2
-0 47 14 16
 0 37 0 2
+0 47 14 16
 1
 end_operator
 begin_operator
@@ -73193,8 +73193,8 @@ overcome prostatitis achievement yogurt earth uranus
 1
 9 15
 2
-0 47 15 16
 0 37 3 0
+0 47 15 16
 1
 end_operator
 begin_operator
@@ -73202,8 +73202,8 @@ overcome prostatitis achievement yogurt mercury saturn
 1
 9 15
 2
-0 47 15 16
 0 37 2 1
+0 47 15 16
 1
 end_operator
 begin_operator
@@ -73211,32 +73211,32 @@ overcome prostatitis achievement yogurt saturn earth
 1
 9 15
 2
-0 47 15 16
 0 37 0 2
+0 47 15 16
 1
 end_operator
 begin_operator
 overcome prostatitis entertainment wurst earth uranus
 0
 2
-0 47 14 17
 0 23 3 0
+0 47 14 17
 1
 end_operator
 begin_operator
 overcome prostatitis entertainment wurst mercury saturn
 0
 2
-0 47 14 17
 0 23 2 1
+0 47 14 17
 1
 end_operator
 begin_operator
 overcome prostatitis entertainment wurst saturn earth
 0
 2
-0 47 14 17
 0 23 0 2
+0 47 14 17
 1
 end_operator
 begin_operator
@@ -73244,8 +73244,8 @@ overcome prostatitis excitement arugula earth uranus
 1
 11 0
 2
-0 47 0 18
 0 38 3 0
+0 47 0 18
 1
 end_operator
 begin_operator
@@ -73253,8 +73253,8 @@ overcome prostatitis excitement arugula mercury saturn
 1
 11 0
 2
-0 47 0 18
 0 38 2 1
+0 47 0 18
 1
 end_operator
 begin_operator
@@ -73262,8 +73262,8 @@ overcome prostatitis excitement arugula saturn earth
 1
 11 0
 2
-0 47 0 18
 0 38 0 2
+0 47 0 18
 1
 end_operator
 begin_operator
@@ -73271,8 +73271,8 @@ overcome prostatitis excitement cherry earth uranus
 1
 11 1
 2
-0 47 1 18
 0 38 3 0
+0 47 1 18
 1
 end_operator
 begin_operator
@@ -73280,8 +73280,8 @@ overcome prostatitis excitement cherry mercury saturn
 1
 11 1
 2
-0 47 1 18
 0 38 2 1
+0 47 1 18
 1
 end_operator
 begin_operator
@@ -73289,8 +73289,8 @@ overcome prostatitis excitement cherry saturn earth
 1
 11 1
 2
-0 47 1 18
 0 38 0 2
+0 47 1 18
 1
 end_operator
 begin_operator
@@ -73298,8 +73298,8 @@ overcome prostatitis excitement endive earth uranus
 1
 11 2
 2
-0 47 2 18
 0 38 3 0
+0 47 2 18
 1
 end_operator
 begin_operator
@@ -73307,8 +73307,8 @@ overcome prostatitis excitement endive mercury saturn
 1
 11 2
 2
-0 47 2 18
 0 38 2 1
+0 47 2 18
 1
 end_operator
 begin_operator
@@ -73316,8 +73316,8 @@ overcome prostatitis excitement endive saturn earth
 1
 11 2
 2
-0 47 2 18
 0 38 0 2
+0 47 2 18
 1
 end_operator
 begin_operator
@@ -73325,8 +73325,8 @@ overcome prostatitis excitement ham earth uranus
 1
 11 3
 2
-0 47 3 18
 0 38 3 0
+0 47 3 18
 1
 end_operator
 begin_operator
@@ -73334,8 +73334,8 @@ overcome prostatitis excitement ham mercury saturn
 1
 11 3
 2
-0 47 3 18
 0 38 2 1
+0 47 3 18
 1
 end_operator
 begin_operator
@@ -73343,8 +73343,8 @@ overcome prostatitis excitement ham saturn earth
 1
 11 3
 2
-0 47 3 18
 0 38 0 2
+0 47 3 18
 1
 end_operator
 begin_operator
@@ -73352,8 +73352,8 @@ overcome prostatitis excitement haroset earth uranus
 1
 11 4
 2
-0 47 4 18
 0 38 3 0
+0 47 4 18
 1
 end_operator
 begin_operator
@@ -73361,8 +73361,8 @@ overcome prostatitis excitement haroset mercury saturn
 1
 11 4
 2
-0 47 4 18
 0 38 2 1
+0 47 4 18
 1
 end_operator
 begin_operator
@@ -73370,8 +73370,8 @@ overcome prostatitis excitement haroset saturn earth
 1
 11 4
 2
-0 47 4 18
 0 38 0 2
+0 47 4 18
 1
 end_operator
 begin_operator
@@ -73379,8 +73379,8 @@ overcome prostatitis excitement marzipan earth uranus
 1
 11 5
 2
-0 47 5 18
 0 38 3 0
+0 47 5 18
 1
 end_operator
 begin_operator
@@ -73388,8 +73388,8 @@ overcome prostatitis excitement marzipan mercury saturn
 1
 11 5
 2
-0 47 5 18
 0 38 2 1
+0 47 5 18
 1
 end_operator
 begin_operator
@@ -73397,8 +73397,8 @@ overcome prostatitis excitement marzipan saturn earth
 1
 11 5
 2
-0 47 5 18
 0 38 0 2
+0 47 5 18
 1
 end_operator
 begin_operator
@@ -73406,8 +73406,8 @@ overcome prostatitis excitement mutton earth uranus
 1
 11 6
 2
-0 47 6 18
 0 38 3 0
+0 47 6 18
 1
 end_operator
 begin_operator
@@ -73415,8 +73415,8 @@ overcome prostatitis excitement mutton mercury saturn
 1
 11 6
 2
-0 47 6 18
 0 38 2 1
+0 47 6 18
 1
 end_operator
 begin_operator
@@ -73424,8 +73424,8 @@ overcome prostatitis excitement mutton saturn earth
 1
 11 6
 2
-0 47 6 18
 0 38 0 2
+0 47 6 18
 1
 end_operator
 begin_operator
@@ -73433,8 +73433,8 @@ overcome prostatitis excitement onion earth uranus
 1
 11 7
 2
-0 47 7 18
 0 38 3 0
+0 47 7 18
 1
 end_operator
 begin_operator
@@ -73442,8 +73442,8 @@ overcome prostatitis excitement onion mercury saturn
 1
 11 7
 2
-0 47 7 18
 0 38 2 1
+0 47 7 18
 1
 end_operator
 begin_operator
@@ -73451,8 +73451,8 @@ overcome prostatitis excitement onion saturn earth
 1
 11 7
 2
-0 47 7 18
 0 38 0 2
+0 47 7 18
 1
 end_operator
 begin_operator
@@ -73460,8 +73460,8 @@ overcome prostatitis excitement papaya earth uranus
 1
 11 8
 2
-0 47 8 18
 0 38 3 0
+0 47 8 18
 1
 end_operator
 begin_operator
@@ -73469,8 +73469,8 @@ overcome prostatitis excitement papaya mercury saturn
 1
 11 8
 2
-0 47 8 18
 0 38 2 1
+0 47 8 18
 1
 end_operator
 begin_operator
@@ -73478,8 +73478,8 @@ overcome prostatitis excitement papaya saturn earth
 1
 11 8
 2
-0 47 8 18
 0 38 0 2
+0 47 8 18
 1
 end_operator
 begin_operator
@@ -73487,8 +73487,8 @@ overcome prostatitis excitement potato earth uranus
 1
 11 9
 2
-0 47 9 18
 0 38 3 0
+0 47 9 18
 1
 end_operator
 begin_operator
@@ -73496,8 +73496,8 @@ overcome prostatitis excitement potato mercury saturn
 1
 11 9
 2
-0 47 9 18
 0 38 2 1
+0 47 9 18
 1
 end_operator
 begin_operator
@@ -73505,8 +73505,8 @@ overcome prostatitis excitement potato saturn earth
 1
 11 9
 2
-0 47 9 18
 0 38 0 2
+0 47 9 18
 1
 end_operator
 begin_operator
@@ -73514,8 +73514,8 @@ overcome prostatitis excitement rice earth uranus
 1
 11 10
 2
-0 47 10 18
 0 38 3 0
+0 47 10 18
 1
 end_operator
 begin_operator
@@ -73523,8 +73523,8 @@ overcome prostatitis excitement rice mercury saturn
 1
 11 10
 2
-0 47 10 18
 0 38 2 1
+0 47 10 18
 1
 end_operator
 begin_operator
@@ -73532,8 +73532,8 @@ overcome prostatitis excitement rice saturn earth
 1
 11 10
 2
-0 47 10 18
 0 38 0 2
+0 47 10 18
 1
 end_operator
 begin_operator
@@ -73541,8 +73541,8 @@ overcome prostatitis excitement shrimp earth uranus
 1
 11 11
 2
-0 47 11 18
 0 38 3 0
+0 47 11 18
 1
 end_operator
 begin_operator
@@ -73550,8 +73550,8 @@ overcome prostatitis excitement shrimp mercury saturn
 1
 11 11
 2
-0 47 11 18
 0 38 2 1
+0 47 11 18
 1
 end_operator
 begin_operator
@@ -73559,8 +73559,8 @@ overcome prostatitis excitement shrimp saturn earth
 1
 11 11
 2
-0 47 11 18
 0 38 0 2
+0 47 11 18
 1
 end_operator
 begin_operator
@@ -73568,8 +73568,8 @@ overcome prostatitis excitement turkey earth uranus
 1
 11 12
 2
-0 47 12 18
 0 38 3 0
+0 47 12 18
 1
 end_operator
 begin_operator
@@ -73577,8 +73577,8 @@ overcome prostatitis excitement turkey mercury saturn
 1
 11 12
 2
-0 47 12 18
 0 38 2 1
+0 47 12 18
 1
 end_operator
 begin_operator
@@ -73586,8 +73586,8 @@ overcome prostatitis excitement turkey saturn earth
 1
 11 12
 2
-0 47 12 18
 0 38 0 2
+0 47 12 18
 1
 end_operator
 begin_operator
@@ -73595,8 +73595,8 @@ overcome prostatitis excitement wonderbread earth uranus
 1
 11 13
 2
-0 47 13 18
 0 38 3 0
+0 47 13 18
 1
 end_operator
 begin_operator
@@ -73604,8 +73604,8 @@ overcome prostatitis excitement wonderbread mercury saturn
 1
 11 13
 2
-0 47 13 18
 0 38 2 1
+0 47 13 18
 1
 end_operator
 begin_operator
@@ -73613,8 +73613,8 @@ overcome prostatitis excitement wonderbread saturn earth
 1
 11 13
 2
-0 47 13 18
 0 38 0 2
+0 47 13 18
 1
 end_operator
 begin_operator
@@ -73622,8 +73622,8 @@ overcome prostatitis excitement wurst earth uranus
 1
 11 14
 2
-0 47 14 18
 0 38 3 0
+0 47 14 18
 1
 end_operator
 begin_operator
@@ -73631,8 +73631,8 @@ overcome prostatitis excitement wurst mercury saturn
 1
 11 14
 2
-0 47 14 18
 0 38 2 1
+0 47 14 18
 1
 end_operator
 begin_operator
@@ -73640,8 +73640,8 @@ overcome prostatitis excitement wurst saturn earth
 1
 11 14
 2
-0 47 14 18
 0 38 0 2
+0 47 14 18
 1
 end_operator
 begin_operator
@@ -73649,8 +73649,8 @@ overcome prostatitis excitement yogurt earth uranus
 1
 11 15
 2
-0 47 15 18
 0 38 3 0
+0 47 15 18
 1
 end_operator
 begin_operator
@@ -73658,8 +73658,8 @@ overcome prostatitis excitement yogurt mercury saturn
 1
 11 15
 2
-0 47 15 18
 0 38 2 1
+0 47 15 18
 1
 end_operator
 begin_operator
@@ -73667,8 +73667,8 @@ overcome prostatitis excitement yogurt saturn earth
 1
 11 15
 2
-0 47 15 18
 0 38 0 2
+0 47 15 18
 1
 end_operator
 begin_operator
@@ -73676,8 +73676,8 @@ overcome prostatitis intoxication arugula earth uranus
 1
 13 0
 2
-0 47 0 19
 0 41 3 0
+0 47 0 19
 1
 end_operator
 begin_operator
@@ -73685,8 +73685,8 @@ overcome prostatitis intoxication arugula mercury saturn
 1
 13 0
 2
-0 47 0 19
 0 41 2 1
+0 47 0 19
 1
 end_operator
 begin_operator
@@ -73694,8 +73694,8 @@ overcome prostatitis intoxication arugula saturn earth
 1
 13 0
 2
-0 47 0 19
 0 41 0 2
+0 47 0 19
 1
 end_operator
 begin_operator
@@ -73703,8 +73703,8 @@ overcome prostatitis intoxication cherry earth uranus
 1
 13 1
 2
-0 47 1 19
 0 41 3 0
+0 47 1 19
 1
 end_operator
 begin_operator
@@ -73712,8 +73712,8 @@ overcome prostatitis intoxication cherry mercury saturn
 1
 13 1
 2
-0 47 1 19
 0 41 2 1
+0 47 1 19
 1
 end_operator
 begin_operator
@@ -73721,8 +73721,8 @@ overcome prostatitis intoxication cherry saturn earth
 1
 13 1
 2
-0 47 1 19
 0 41 0 2
+0 47 1 19
 1
 end_operator
 begin_operator
@@ -73730,8 +73730,8 @@ overcome prostatitis intoxication endive earth uranus
 1
 13 2
 2
-0 47 2 19
 0 41 3 0
+0 47 2 19
 1
 end_operator
 begin_operator
@@ -73739,8 +73739,8 @@ overcome prostatitis intoxication endive mercury saturn
 1
 13 2
 2
-0 47 2 19
 0 41 2 1
+0 47 2 19
 1
 end_operator
 begin_operator
@@ -73748,8 +73748,8 @@ overcome prostatitis intoxication endive saturn earth
 1
 13 2
 2
-0 47 2 19
 0 41 0 2
+0 47 2 19
 1
 end_operator
 begin_operator
@@ -73757,8 +73757,8 @@ overcome prostatitis intoxication ham earth uranus
 1
 13 3
 2
-0 47 3 19
 0 41 3 0
+0 47 3 19
 1
 end_operator
 begin_operator
@@ -73766,8 +73766,8 @@ overcome prostatitis intoxication ham mercury saturn
 1
 13 3
 2
-0 47 3 19
 0 41 2 1
+0 47 3 19
 1
 end_operator
 begin_operator
@@ -73775,8 +73775,8 @@ overcome prostatitis intoxication ham saturn earth
 1
 13 3
 2
-0 47 3 19
 0 41 0 2
+0 47 3 19
 1
 end_operator
 begin_operator
@@ -73784,8 +73784,8 @@ overcome prostatitis intoxication haroset earth uranus
 1
 13 4
 2
-0 47 4 19
 0 41 3 0
+0 47 4 19
 1
 end_operator
 begin_operator
@@ -73793,8 +73793,8 @@ overcome prostatitis intoxication haroset mercury saturn
 1
 13 4
 2
-0 47 4 19
 0 41 2 1
+0 47 4 19
 1
 end_operator
 begin_operator
@@ -73802,8 +73802,8 @@ overcome prostatitis intoxication haroset saturn earth
 1
 13 4
 2
-0 47 4 19
 0 41 0 2
+0 47 4 19
 1
 end_operator
 begin_operator
@@ -73811,8 +73811,8 @@ overcome prostatitis intoxication marzipan earth uranus
 1
 13 5
 2
-0 47 5 19
 0 41 3 0
+0 47 5 19
 1
 end_operator
 begin_operator
@@ -73820,8 +73820,8 @@ overcome prostatitis intoxication marzipan mercury saturn
 1
 13 5
 2
-0 47 5 19
 0 41 2 1
+0 47 5 19
 1
 end_operator
 begin_operator
@@ -73829,8 +73829,8 @@ overcome prostatitis intoxication marzipan saturn earth
 1
 13 5
 2
-0 47 5 19
 0 41 0 2
+0 47 5 19
 1
 end_operator
 begin_operator
@@ -73838,8 +73838,8 @@ overcome prostatitis intoxication mutton earth uranus
 1
 13 6
 2
-0 47 6 19
 0 41 3 0
+0 47 6 19
 1
 end_operator
 begin_operator
@@ -73847,8 +73847,8 @@ overcome prostatitis intoxication mutton mercury saturn
 1
 13 6
 2
-0 47 6 19
 0 41 2 1
+0 47 6 19
 1
 end_operator
 begin_operator
@@ -73856,8 +73856,8 @@ overcome prostatitis intoxication mutton saturn earth
 1
 13 6
 2
-0 47 6 19
 0 41 0 2
+0 47 6 19
 1
 end_operator
 begin_operator
@@ -73865,8 +73865,8 @@ overcome prostatitis intoxication onion earth uranus
 1
 13 7
 2
-0 47 7 19
 0 41 3 0
+0 47 7 19
 1
 end_operator
 begin_operator
@@ -73874,8 +73874,8 @@ overcome prostatitis intoxication onion mercury saturn
 1
 13 7
 2
-0 47 7 19
 0 41 2 1
+0 47 7 19
 1
 end_operator
 begin_operator
@@ -73883,8 +73883,8 @@ overcome prostatitis intoxication onion saturn earth
 1
 13 7
 2
-0 47 7 19
 0 41 0 2
+0 47 7 19
 1
 end_operator
 begin_operator
@@ -73892,8 +73892,8 @@ overcome prostatitis intoxication papaya earth uranus
 1
 13 8
 2
-0 47 8 19
 0 41 3 0
+0 47 8 19
 1
 end_operator
 begin_operator
@@ -73901,8 +73901,8 @@ overcome prostatitis intoxication papaya mercury saturn
 1
 13 8
 2
-0 47 8 19
 0 41 2 1
+0 47 8 19
 1
 end_operator
 begin_operator
@@ -73910,8 +73910,8 @@ overcome prostatitis intoxication papaya saturn earth
 1
 13 8
 2
-0 47 8 19
 0 41 0 2
+0 47 8 19
 1
 end_operator
 begin_operator
@@ -73919,8 +73919,8 @@ overcome prostatitis intoxication potato earth uranus
 1
 13 9
 2
-0 47 9 19
 0 41 3 0
+0 47 9 19
 1
 end_operator
 begin_operator
@@ -73928,8 +73928,8 @@ overcome prostatitis intoxication potato mercury saturn
 1
 13 9
 2
-0 47 9 19
 0 41 2 1
+0 47 9 19
 1
 end_operator
 begin_operator
@@ -73937,8 +73937,8 @@ overcome prostatitis intoxication potato saturn earth
 1
 13 9
 2
-0 47 9 19
 0 41 0 2
+0 47 9 19
 1
 end_operator
 begin_operator
@@ -73946,8 +73946,8 @@ overcome prostatitis intoxication rice earth uranus
 1
 13 10
 2
-0 47 10 19
 0 41 3 0
+0 47 10 19
 1
 end_operator
 begin_operator
@@ -73955,8 +73955,8 @@ overcome prostatitis intoxication rice mercury saturn
 1
 13 10
 2
-0 47 10 19
 0 41 2 1
+0 47 10 19
 1
 end_operator
 begin_operator
@@ -73964,8 +73964,8 @@ overcome prostatitis intoxication rice saturn earth
 1
 13 10
 2
-0 47 10 19
 0 41 0 2
+0 47 10 19
 1
 end_operator
 begin_operator
@@ -73973,8 +73973,8 @@ overcome prostatitis intoxication shrimp earth uranus
 1
 13 11
 2
-0 47 11 19
 0 41 3 0
+0 47 11 19
 1
 end_operator
 begin_operator
@@ -73982,8 +73982,8 @@ overcome prostatitis intoxication shrimp mercury saturn
 1
 13 11
 2
-0 47 11 19
 0 41 2 1
+0 47 11 19
 1
 end_operator
 begin_operator
@@ -73991,8 +73991,8 @@ overcome prostatitis intoxication shrimp saturn earth
 1
 13 11
 2
-0 47 11 19
 0 41 0 2
+0 47 11 19
 1
 end_operator
 begin_operator
@@ -74000,8 +74000,8 @@ overcome prostatitis intoxication turkey earth uranus
 1
 13 12
 2
-0 47 12 19
 0 41 3 0
+0 47 12 19
 1
 end_operator
 begin_operator
@@ -74009,8 +74009,8 @@ overcome prostatitis intoxication turkey mercury saturn
 1
 13 12
 2
-0 47 12 19
 0 41 2 1
+0 47 12 19
 1
 end_operator
 begin_operator
@@ -74018,8 +74018,8 @@ overcome prostatitis intoxication turkey saturn earth
 1
 13 12
 2
-0 47 12 19
 0 41 0 2
+0 47 12 19
 1
 end_operator
 begin_operator
@@ -74027,8 +74027,8 @@ overcome prostatitis intoxication wonderbread earth uranus
 1
 13 13
 2
-0 47 13 19
 0 41 3 0
+0 47 13 19
 1
 end_operator
 begin_operator
@@ -74036,8 +74036,8 @@ overcome prostatitis intoxication wonderbread mercury saturn
 1
 13 13
 2
-0 47 13 19
 0 41 2 1
+0 47 13 19
 1
 end_operator
 begin_operator
@@ -74045,8 +74045,8 @@ overcome prostatitis intoxication wonderbread saturn earth
 1
 13 13
 2
-0 47 13 19
 0 41 0 2
+0 47 13 19
 1
 end_operator
 begin_operator
@@ -74054,8 +74054,8 @@ overcome prostatitis intoxication wurst earth uranus
 1
 13 14
 2
-0 47 14 19
 0 41 3 0
+0 47 14 19
 1
 end_operator
 begin_operator
@@ -74063,8 +74063,8 @@ overcome prostatitis intoxication wurst mercury saturn
 1
 13 14
 2
-0 47 14 19
 0 41 2 1
+0 47 14 19
 1
 end_operator
 begin_operator
@@ -74072,8 +74072,8 @@ overcome prostatitis intoxication wurst saturn earth
 1
 13 14
 2
-0 47 14 19
 0 41 0 2
+0 47 14 19
 1
 end_operator
 begin_operator
@@ -74081,8 +74081,8 @@ overcome prostatitis intoxication yogurt earth uranus
 1
 13 15
 2
-0 47 15 19
 0 41 3 0
+0 47 15 19
 1
 end_operator
 begin_operator
@@ -74090,8 +74090,8 @@ overcome prostatitis intoxication yogurt mercury saturn
 1
 13 15
 2
-0 47 15 19
 0 41 2 1
+0 47 15 19
 1
 end_operator
 begin_operator
@@ -74099,8 +74099,8 @@ overcome prostatitis intoxication yogurt saturn earth
 1
 13 15
 2
-0 47 15 19
 0 41 0 2
+0 47 15 19
 1
 end_operator
 begin_operator
@@ -74108,8 +74108,8 @@ overcome prostatitis love arugula earth uranus
 1
 15 0
 2
-0 47 0 20
 0 42 3 0
+0 47 0 20
 1
 end_operator
 begin_operator
@@ -74117,8 +74117,8 @@ overcome prostatitis love arugula mercury saturn
 1
 15 0
 2
-0 47 0 20
 0 42 2 1
+0 47 0 20
 1
 end_operator
 begin_operator
@@ -74126,8 +74126,8 @@ overcome prostatitis love arugula saturn earth
 1
 15 0
 2
-0 47 0 20
 0 42 0 2
+0 47 0 20
 1
 end_operator
 begin_operator
@@ -74135,8 +74135,8 @@ overcome prostatitis love cherry earth uranus
 1
 15 1
 2
-0 47 1 20
 0 42 3 0
+0 47 1 20
 1
 end_operator
 begin_operator
@@ -74144,8 +74144,8 @@ overcome prostatitis love cherry mercury saturn
 1
 15 1
 2
-0 47 1 20
 0 42 2 1
+0 47 1 20
 1
 end_operator
 begin_operator
@@ -74153,8 +74153,8 @@ overcome prostatitis love cherry saturn earth
 1
 15 1
 2
-0 47 1 20
 0 42 0 2
+0 47 1 20
 1
 end_operator
 begin_operator
@@ -74162,8 +74162,8 @@ overcome prostatitis love endive earth uranus
 1
 15 2
 2
-0 47 2 20
 0 42 3 0
+0 47 2 20
 1
 end_operator
 begin_operator
@@ -74171,8 +74171,8 @@ overcome prostatitis love endive mercury saturn
 1
 15 2
 2
-0 47 2 20
 0 42 2 1
+0 47 2 20
 1
 end_operator
 begin_operator
@@ -74180,8 +74180,8 @@ overcome prostatitis love endive saturn earth
 1
 15 2
 2
-0 47 2 20
 0 42 0 2
+0 47 2 20
 1
 end_operator
 begin_operator
@@ -74189,8 +74189,8 @@ overcome prostatitis love ham earth uranus
 1
 15 3
 2
-0 47 3 20
 0 42 3 0
+0 47 3 20
 1
 end_operator
 begin_operator
@@ -74198,8 +74198,8 @@ overcome prostatitis love ham mercury saturn
 1
 15 3
 2
-0 47 3 20
 0 42 2 1
+0 47 3 20
 1
 end_operator
 begin_operator
@@ -74207,8 +74207,8 @@ overcome prostatitis love ham saturn earth
 1
 15 3
 2
-0 47 3 20
 0 42 0 2
+0 47 3 20
 1
 end_operator
 begin_operator
@@ -74216,8 +74216,8 @@ overcome prostatitis love haroset earth uranus
 1
 15 4
 2
-0 47 4 20
 0 42 3 0
+0 47 4 20
 1
 end_operator
 begin_operator
@@ -74225,8 +74225,8 @@ overcome prostatitis love haroset mercury saturn
 1
 15 4
 2
-0 47 4 20
 0 42 2 1
+0 47 4 20
 1
 end_operator
 begin_operator
@@ -74234,8 +74234,8 @@ overcome prostatitis love haroset saturn earth
 1
 15 4
 2
-0 47 4 20
 0 42 0 2
+0 47 4 20
 1
 end_operator
 begin_operator
@@ -74243,8 +74243,8 @@ overcome prostatitis love marzipan earth uranus
 1
 15 5
 2
-0 47 5 20
 0 42 3 0
+0 47 5 20
 1
 end_operator
 begin_operator
@@ -74252,8 +74252,8 @@ overcome prostatitis love marzipan mercury saturn
 1
 15 5
 2
-0 47 5 20
 0 42 2 1
+0 47 5 20
 1
 end_operator
 begin_operator
@@ -74261,8 +74261,8 @@ overcome prostatitis love marzipan saturn earth
 1
 15 5
 2
-0 47 5 20
 0 42 0 2
+0 47 5 20
 1
 end_operator
 begin_operator
@@ -74270,8 +74270,8 @@ overcome prostatitis love mutton earth uranus
 1
 15 6
 2
-0 47 6 20
 0 42 3 0
+0 47 6 20
 1
 end_operator
 begin_operator
@@ -74279,8 +74279,8 @@ overcome prostatitis love mutton mercury saturn
 1
 15 6
 2
-0 47 6 20
 0 42 2 1
+0 47 6 20
 1
 end_operator
 begin_operator
@@ -74288,8 +74288,8 @@ overcome prostatitis love mutton saturn earth
 1
 15 6
 2
-0 47 6 20
 0 42 0 2
+0 47 6 20
 1
 end_operator
 begin_operator
@@ -74297,8 +74297,8 @@ overcome prostatitis love onion earth uranus
 1
 15 7
 2
-0 47 7 20
 0 42 3 0
+0 47 7 20
 1
 end_operator
 begin_operator
@@ -74306,8 +74306,8 @@ overcome prostatitis love onion mercury saturn
 1
 15 7
 2
-0 47 7 20
 0 42 2 1
+0 47 7 20
 1
 end_operator
 begin_operator
@@ -74315,8 +74315,8 @@ overcome prostatitis love onion saturn earth
 1
 15 7
 2
-0 47 7 20
 0 42 0 2
+0 47 7 20
 1
 end_operator
 begin_operator
@@ -74324,8 +74324,8 @@ overcome prostatitis love papaya earth uranus
 1
 15 8
 2
-0 47 8 20
 0 42 3 0
+0 47 8 20
 1
 end_operator
 begin_operator
@@ -74333,8 +74333,8 @@ overcome prostatitis love papaya mercury saturn
 1
 15 8
 2
-0 47 8 20
 0 42 2 1
+0 47 8 20
 1
 end_operator
 begin_operator
@@ -74342,8 +74342,8 @@ overcome prostatitis love papaya saturn earth
 1
 15 8
 2
-0 47 8 20
 0 42 0 2
+0 47 8 20
 1
 end_operator
 begin_operator
@@ -74351,8 +74351,8 @@ overcome prostatitis love potato earth uranus
 1
 15 9
 2
-0 47 9 20
 0 42 3 0
+0 47 9 20
 1
 end_operator
 begin_operator
@@ -74360,8 +74360,8 @@ overcome prostatitis love potato mercury saturn
 1
 15 9
 2
-0 47 9 20
 0 42 2 1
+0 47 9 20
 1
 end_operator
 begin_operator
@@ -74369,8 +74369,8 @@ overcome prostatitis love potato saturn earth
 1
 15 9
 2
-0 47 9 20
 0 42 0 2
+0 47 9 20
 1
 end_operator
 begin_operator
@@ -74378,8 +74378,8 @@ overcome prostatitis love rice earth uranus
 1
 15 10
 2
-0 47 10 20
 0 42 3 0
+0 47 10 20
 1
 end_operator
 begin_operator
@@ -74387,8 +74387,8 @@ overcome prostatitis love rice mercury saturn
 1
 15 10
 2
-0 47 10 20
 0 42 2 1
+0 47 10 20
 1
 end_operator
 begin_operator
@@ -74396,8 +74396,8 @@ overcome prostatitis love rice saturn earth
 1
 15 10
 2
-0 47 10 20
 0 42 0 2
+0 47 10 20
 1
 end_operator
 begin_operator
@@ -74405,8 +74405,8 @@ overcome prostatitis love shrimp earth uranus
 1
 15 11
 2
-0 47 11 20
 0 42 3 0
+0 47 11 20
 1
 end_operator
 begin_operator
@@ -74414,8 +74414,8 @@ overcome prostatitis love shrimp mercury saturn
 1
 15 11
 2
-0 47 11 20
 0 42 2 1
+0 47 11 20
 1
 end_operator
 begin_operator
@@ -74423,8 +74423,8 @@ overcome prostatitis love shrimp saturn earth
 1
 15 11
 2
-0 47 11 20
 0 42 0 2
+0 47 11 20
 1
 end_operator
 begin_operator
@@ -74432,8 +74432,8 @@ overcome prostatitis love turkey earth uranus
 1
 15 12
 2
-0 47 12 20
 0 42 3 0
+0 47 12 20
 1
 end_operator
 begin_operator
@@ -74441,8 +74441,8 @@ overcome prostatitis love turkey mercury saturn
 1
 15 12
 2
-0 47 12 20
 0 42 2 1
+0 47 12 20
 1
 end_operator
 begin_operator
@@ -74450,8 +74450,8 @@ overcome prostatitis love turkey saturn earth
 1
 15 12
 2
-0 47 12 20
 0 42 0 2
+0 47 12 20
 1
 end_operator
 begin_operator
@@ -74459,8 +74459,8 @@ overcome prostatitis love wonderbread earth uranus
 1
 15 13
 2
-0 47 13 20
 0 42 3 0
+0 47 13 20
 1
 end_operator
 begin_operator
@@ -74468,8 +74468,8 @@ overcome prostatitis love wonderbread mercury saturn
 1
 15 13
 2
-0 47 13 20
 0 42 2 1
+0 47 13 20
 1
 end_operator
 begin_operator
@@ -74477,8 +74477,8 @@ overcome prostatitis love wonderbread saturn earth
 1
 15 13
 2
-0 47 13 20
 0 42 0 2
+0 47 13 20
 1
 end_operator
 begin_operator
@@ -74486,8 +74486,8 @@ overcome prostatitis love wurst earth uranus
 1
 15 14
 2
-0 47 14 20
 0 42 3 0
+0 47 14 20
 1
 end_operator
 begin_operator
@@ -74495,8 +74495,8 @@ overcome prostatitis love wurst mercury saturn
 1
 15 14
 2
-0 47 14 20
 0 42 2 1
+0 47 14 20
 1
 end_operator
 begin_operator
@@ -74504,8 +74504,8 @@ overcome prostatitis love wurst saturn earth
 1
 15 14
 2
-0 47 14 20
 0 42 0 2
+0 47 14 20
 1
 end_operator
 begin_operator
@@ -74513,8 +74513,8 @@ overcome prostatitis love yogurt earth uranus
 1
 15 15
 2
-0 47 15 20
 0 42 3 0
+0 47 15 20
 1
 end_operator
 begin_operator
@@ -74522,8 +74522,8 @@ overcome prostatitis love yogurt mercury saturn
 1
 15 15
 2
-0 47 15 20
 0 42 2 1
+0 47 15 20
 1
 end_operator
 begin_operator
@@ -74531,8 +74531,8 @@ overcome prostatitis love yogurt saturn earth
 1
 15 15
 2
-0 47 15 20
 0 42 0 2
+0 47 15 20
 1
 end_operator
 begin_operator
@@ -74540,8 +74540,8 @@ overcome prostatitis lubricity arugula earth uranus
 1
 17 0
 2
-0 47 0 21
 0 45 3 0
+0 47 0 21
 1
 end_operator
 begin_operator
@@ -74549,8 +74549,8 @@ overcome prostatitis lubricity arugula mercury saturn
 1
 17 0
 2
-0 47 0 21
 0 45 2 1
+0 47 0 21
 1
 end_operator
 begin_operator
@@ -74558,8 +74558,8 @@ overcome prostatitis lubricity arugula saturn earth
 1
 17 0
 2
-0 47 0 21
 0 45 0 2
+0 47 0 21
 1
 end_operator
 begin_operator
@@ -74567,8 +74567,8 @@ overcome prostatitis lubricity cherry earth uranus
 1
 17 1
 2
-0 47 1 21
 0 45 3 0
+0 47 1 21
 1
 end_operator
 begin_operator
@@ -74576,8 +74576,8 @@ overcome prostatitis lubricity cherry mercury saturn
 1
 17 1
 2
-0 47 1 21
 0 45 2 1
+0 47 1 21
 1
 end_operator
 begin_operator
@@ -74585,8 +74585,8 @@ overcome prostatitis lubricity cherry saturn earth
 1
 17 1
 2
-0 47 1 21
 0 45 0 2
+0 47 1 21
 1
 end_operator
 begin_operator
@@ -74594,8 +74594,8 @@ overcome prostatitis lubricity endive earth uranus
 1
 17 2
 2
-0 47 2 21
 0 45 3 0
+0 47 2 21
 1
 end_operator
 begin_operator
@@ -74603,8 +74603,8 @@ overcome prostatitis lubricity endive mercury saturn
 1
 17 2
 2
-0 47 2 21
 0 45 2 1
+0 47 2 21
 1
 end_operator
 begin_operator
@@ -74612,8 +74612,8 @@ overcome prostatitis lubricity endive saturn earth
 1
 17 2
 2
-0 47 2 21
 0 45 0 2
+0 47 2 21
 1
 end_operator
 begin_operator
@@ -74621,8 +74621,8 @@ overcome prostatitis lubricity ham earth uranus
 1
 17 3
 2
-0 47 3 21
 0 45 3 0
+0 47 3 21
 1
 end_operator
 begin_operator
@@ -74630,8 +74630,8 @@ overcome prostatitis lubricity ham mercury saturn
 1
 17 3
 2
-0 47 3 21
 0 45 2 1
+0 47 3 21
 1
 end_operator
 begin_operator
@@ -74639,8 +74639,8 @@ overcome prostatitis lubricity ham saturn earth
 1
 17 3
 2
-0 47 3 21
 0 45 0 2
+0 47 3 21
 1
 end_operator
 begin_operator
@@ -74648,8 +74648,8 @@ overcome prostatitis lubricity haroset earth uranus
 1
 17 4
 2
-0 47 4 21
 0 45 3 0
+0 47 4 21
 1
 end_operator
 begin_operator
@@ -74657,8 +74657,8 @@ overcome prostatitis lubricity haroset mercury saturn
 1
 17 4
 2
-0 47 4 21
 0 45 2 1
+0 47 4 21
 1
 end_operator
 begin_operator
@@ -74666,8 +74666,8 @@ overcome prostatitis lubricity haroset saturn earth
 1
 17 4
 2
-0 47 4 21
 0 45 0 2
+0 47 4 21
 1
 end_operator
 begin_operator
@@ -74675,8 +74675,8 @@ overcome prostatitis lubricity marzipan earth uranus
 1
 17 5
 2
-0 47 5 21
 0 45 3 0
+0 47 5 21
 1
 end_operator
 begin_operator
@@ -74684,8 +74684,8 @@ overcome prostatitis lubricity marzipan mercury saturn
 1
 17 5
 2
-0 47 5 21
 0 45 2 1
+0 47 5 21
 1
 end_operator
 begin_operator
@@ -74693,8 +74693,8 @@ overcome prostatitis lubricity marzipan saturn earth
 1
 17 5
 2
-0 47 5 21
 0 45 0 2
+0 47 5 21
 1
 end_operator
 begin_operator
@@ -74702,8 +74702,8 @@ overcome prostatitis lubricity mutton earth uranus
 1
 17 6
 2
-0 47 6 21
 0 45 3 0
+0 47 6 21
 1
 end_operator
 begin_operator
@@ -74711,8 +74711,8 @@ overcome prostatitis lubricity mutton mercury saturn
 1
 17 6
 2
-0 47 6 21
 0 45 2 1
+0 47 6 21
 1
 end_operator
 begin_operator
@@ -74720,8 +74720,8 @@ overcome prostatitis lubricity mutton saturn earth
 1
 17 6
 2
-0 47 6 21
 0 45 0 2
+0 47 6 21
 1
 end_operator
 begin_operator
@@ -74729,8 +74729,8 @@ overcome prostatitis lubricity onion earth uranus
 1
 17 7
 2
-0 47 7 21
 0 45 3 0
+0 47 7 21
 1
 end_operator
 begin_operator
@@ -74738,8 +74738,8 @@ overcome prostatitis lubricity onion mercury saturn
 1
 17 7
 2
-0 47 7 21
 0 45 2 1
+0 47 7 21
 1
 end_operator
 begin_operator
@@ -74747,8 +74747,8 @@ overcome prostatitis lubricity onion saturn earth
 1
 17 7
 2
-0 47 7 21
 0 45 0 2
+0 47 7 21
 1
 end_operator
 begin_operator
@@ -74756,8 +74756,8 @@ overcome prostatitis lubricity papaya earth uranus
 1
 17 8
 2
-0 47 8 21
 0 45 3 0
+0 47 8 21
 1
 end_operator
 begin_operator
@@ -74765,8 +74765,8 @@ overcome prostatitis lubricity papaya mercury saturn
 1
 17 8
 2
-0 47 8 21
 0 45 2 1
+0 47 8 21
 1
 end_operator
 begin_operator
@@ -74774,8 +74774,8 @@ overcome prostatitis lubricity papaya saturn earth
 1
 17 8
 2
-0 47 8 21
 0 45 0 2
+0 47 8 21
 1
 end_operator
 begin_operator
@@ -74783,8 +74783,8 @@ overcome prostatitis lubricity potato earth uranus
 1
 17 9
 2
-0 47 9 21
 0 45 3 0
+0 47 9 21
 1
 end_operator
 begin_operator
@@ -74792,8 +74792,8 @@ overcome prostatitis lubricity potato mercury saturn
 1
 17 9
 2
-0 47 9 21
 0 45 2 1
+0 47 9 21
 1
 end_operator
 begin_operator
@@ -74801,8 +74801,8 @@ overcome prostatitis lubricity potato saturn earth
 1
 17 9
 2
-0 47 9 21
 0 45 0 2
+0 47 9 21
 1
 end_operator
 begin_operator
@@ -74810,8 +74810,8 @@ overcome prostatitis lubricity rice earth uranus
 1
 17 10
 2
-0 47 10 21
 0 45 3 0
+0 47 10 21
 1
 end_operator
 begin_operator
@@ -74819,8 +74819,8 @@ overcome prostatitis lubricity rice mercury saturn
 1
 17 10
 2
-0 47 10 21
 0 45 2 1
+0 47 10 21
 1
 end_operator
 begin_operator
@@ -74828,8 +74828,8 @@ overcome prostatitis lubricity rice saturn earth
 1
 17 10
 2
-0 47 10 21
 0 45 0 2
+0 47 10 21
 1
 end_operator
 begin_operator
@@ -74837,8 +74837,8 @@ overcome prostatitis lubricity shrimp earth uranus
 1
 17 11
 2
-0 47 11 21
 0 45 3 0
+0 47 11 21
 1
 end_operator
 begin_operator
@@ -74846,8 +74846,8 @@ overcome prostatitis lubricity shrimp mercury saturn
 1
 17 11
 2
-0 47 11 21
 0 45 2 1
+0 47 11 21
 1
 end_operator
 begin_operator
@@ -74855,8 +74855,8 @@ overcome prostatitis lubricity shrimp saturn earth
 1
 17 11
 2
-0 47 11 21
 0 45 0 2
+0 47 11 21
 1
 end_operator
 begin_operator
@@ -74864,8 +74864,8 @@ overcome prostatitis lubricity turkey earth uranus
 1
 17 12
 2
-0 47 12 21
 0 45 3 0
+0 47 12 21
 1
 end_operator
 begin_operator
@@ -74873,8 +74873,8 @@ overcome prostatitis lubricity turkey mercury saturn
 1
 17 12
 2
-0 47 12 21
 0 45 2 1
+0 47 12 21
 1
 end_operator
 begin_operator
@@ -74882,8 +74882,8 @@ overcome prostatitis lubricity turkey saturn earth
 1
 17 12
 2
-0 47 12 21
 0 45 0 2
+0 47 12 21
 1
 end_operator
 begin_operator
@@ -74891,8 +74891,8 @@ overcome prostatitis lubricity wonderbread earth uranus
 1
 17 13
 2
-0 47 13 21
 0 45 3 0
+0 47 13 21
 1
 end_operator
 begin_operator
@@ -74900,8 +74900,8 @@ overcome prostatitis lubricity wonderbread mercury saturn
 1
 17 13
 2
-0 47 13 21
 0 45 2 1
+0 47 13 21
 1
 end_operator
 begin_operator
@@ -74909,8 +74909,8 @@ overcome prostatitis lubricity wonderbread saturn earth
 1
 17 13
 2
-0 47 13 21
 0 45 0 2
+0 47 13 21
 1
 end_operator
 begin_operator
@@ -74918,8 +74918,8 @@ overcome prostatitis lubricity wurst earth uranus
 1
 17 14
 2
-0 47 14 21
 0 45 3 0
+0 47 14 21
 1
 end_operator
 begin_operator
@@ -74927,8 +74927,8 @@ overcome prostatitis lubricity wurst mercury saturn
 1
 17 14
 2
-0 47 14 21
 0 45 2 1
+0 47 14 21
 1
 end_operator
 begin_operator
@@ -74936,8 +74936,8 @@ overcome prostatitis lubricity wurst saturn earth
 1
 17 14
 2
-0 47 14 21
 0 45 0 2
+0 47 14 21
 1
 end_operator
 begin_operator
@@ -74945,8 +74945,8 @@ overcome prostatitis lubricity yogurt earth uranus
 1
 17 15
 2
-0 47 15 21
 0 45 3 0
+0 47 15 21
 1
 end_operator
 begin_operator
@@ -74954,8 +74954,8 @@ overcome prostatitis lubricity yogurt mercury saturn
 1
 17 15
 2
-0 47 15 21
 0 45 2 1
+0 47 15 21
 1
 end_operator
 begin_operator
@@ -74963,8 +74963,8 @@ overcome prostatitis lubricity yogurt saturn earth
 1
 17 15
 2
-0 47 15 21
 0 45 0 2
+0 47 15 21
 1
 end_operator
 begin_operator
@@ -74972,8 +74972,8 @@ overcome prostatitis rest arugula earth uranus
 1
 19 0
 2
-0 47 0 22
 0 46 3 0
+0 47 0 22
 1
 end_operator
 begin_operator
@@ -74981,8 +74981,8 @@ overcome prostatitis rest arugula mercury saturn
 1
 19 0
 2
-0 47 0 22
 0 46 2 1
+0 47 0 22
 1
 end_operator
 begin_operator
@@ -74990,8 +74990,8 @@ overcome prostatitis rest arugula saturn earth
 1
 19 0
 2
-0 47 0 22
 0 46 0 2
+0 47 0 22
 1
 end_operator
 begin_operator
@@ -74999,8 +74999,8 @@ overcome prostatitis rest cherry earth uranus
 1
 19 1
 2
-0 47 1 22
 0 46 3 0
+0 47 1 22
 1
 end_operator
 begin_operator
@@ -75008,8 +75008,8 @@ overcome prostatitis rest cherry mercury saturn
 1
 19 1
 2
-0 47 1 22
 0 46 2 1
+0 47 1 22
 1
 end_operator
 begin_operator
@@ -75017,8 +75017,8 @@ overcome prostatitis rest cherry saturn earth
 1
 19 1
 2
-0 47 1 22
 0 46 0 2
+0 47 1 22
 1
 end_operator
 begin_operator
@@ -75026,8 +75026,8 @@ overcome prostatitis rest endive earth uranus
 1
 19 2
 2
-0 47 2 22
 0 46 3 0
+0 47 2 22
 1
 end_operator
 begin_operator
@@ -75035,8 +75035,8 @@ overcome prostatitis rest endive mercury saturn
 1
 19 2
 2
-0 47 2 22
 0 46 2 1
+0 47 2 22
 1
 end_operator
 begin_operator
@@ -75044,8 +75044,8 @@ overcome prostatitis rest endive saturn earth
 1
 19 2
 2
-0 47 2 22
 0 46 0 2
+0 47 2 22
 1
 end_operator
 begin_operator
@@ -75053,8 +75053,8 @@ overcome prostatitis rest ham earth uranus
 1
 19 3
 2
-0 47 3 22
 0 46 3 0
+0 47 3 22
 1
 end_operator
 begin_operator
@@ -75062,8 +75062,8 @@ overcome prostatitis rest ham mercury saturn
 1
 19 3
 2
-0 47 3 22
 0 46 2 1
+0 47 3 22
 1
 end_operator
 begin_operator
@@ -75071,8 +75071,8 @@ overcome prostatitis rest ham saturn earth
 1
 19 3
 2
-0 47 3 22
 0 46 0 2
+0 47 3 22
 1
 end_operator
 begin_operator
@@ -75080,8 +75080,8 @@ overcome prostatitis rest haroset earth uranus
 1
 19 4
 2
-0 47 4 22
 0 46 3 0
+0 47 4 22
 1
 end_operator
 begin_operator
@@ -75089,8 +75089,8 @@ overcome prostatitis rest haroset mercury saturn
 1
 19 4
 2
-0 47 4 22
 0 46 2 1
+0 47 4 22
 1
 end_operator
 begin_operator
@@ -75098,8 +75098,8 @@ overcome prostatitis rest haroset saturn earth
 1
 19 4
 2
-0 47 4 22
 0 46 0 2
+0 47 4 22
 1
 end_operator
 begin_operator
@@ -75107,8 +75107,8 @@ overcome prostatitis rest marzipan earth uranus
 1
 19 5
 2
-0 47 5 22
 0 46 3 0
+0 47 5 22
 1
 end_operator
 begin_operator
@@ -75116,8 +75116,8 @@ overcome prostatitis rest marzipan mercury saturn
 1
 19 5
 2
-0 47 5 22
 0 46 2 1
+0 47 5 22
 1
 end_operator
 begin_operator
@@ -75125,8 +75125,8 @@ overcome prostatitis rest marzipan saturn earth
 1
 19 5
 2
-0 47 5 22
 0 46 0 2
+0 47 5 22
 1
 end_operator
 begin_operator
@@ -75134,8 +75134,8 @@ overcome prostatitis rest mutton earth uranus
 1
 19 6
 2
-0 47 6 22
 0 46 3 0
+0 47 6 22
 1
 end_operator
 begin_operator
@@ -75143,8 +75143,8 @@ overcome prostatitis rest mutton mercury saturn
 1
 19 6
 2
-0 47 6 22
 0 46 2 1
+0 47 6 22
 1
 end_operator
 begin_operator
@@ -75152,8 +75152,8 @@ overcome prostatitis rest mutton saturn earth
 1
 19 6
 2
-0 47 6 22
 0 46 0 2
+0 47 6 22
 1
 end_operator
 begin_operator
@@ -75161,8 +75161,8 @@ overcome prostatitis rest onion earth uranus
 1
 19 7
 2
-0 47 7 22
 0 46 3 0
+0 47 7 22
 1
 end_operator
 begin_operator
@@ -75170,8 +75170,8 @@ overcome prostatitis rest onion mercury saturn
 1
 19 7
 2
-0 47 7 22
 0 46 2 1
+0 47 7 22
 1
 end_operator
 begin_operator
@@ -75179,8 +75179,8 @@ overcome prostatitis rest onion saturn earth
 1
 19 7
 2
-0 47 7 22
 0 46 0 2
+0 47 7 22
 1
 end_operator
 begin_operator
@@ -75188,8 +75188,8 @@ overcome prostatitis rest papaya earth uranus
 1
 19 8
 2
-0 47 8 22
 0 46 3 0
+0 47 8 22
 1
 end_operator
 begin_operator
@@ -75197,8 +75197,8 @@ overcome prostatitis rest papaya mercury saturn
 1
 19 8
 2
-0 47 8 22
 0 46 2 1
+0 47 8 22
 1
 end_operator
 begin_operator
@@ -75206,8 +75206,8 @@ overcome prostatitis rest papaya saturn earth
 1
 19 8
 2
-0 47 8 22
 0 46 0 2
+0 47 8 22
 1
 end_operator
 begin_operator
@@ -75215,8 +75215,8 @@ overcome prostatitis rest potato earth uranus
 1
 19 9
 2
-0 47 9 22
 0 46 3 0
+0 47 9 22
 1
 end_operator
 begin_operator
@@ -75224,8 +75224,8 @@ overcome prostatitis rest potato mercury saturn
 1
 19 9
 2
-0 47 9 22
 0 46 2 1
+0 47 9 22
 1
 end_operator
 begin_operator
@@ -75233,8 +75233,8 @@ overcome prostatitis rest potato saturn earth
 1
 19 9
 2
-0 47 9 22
 0 46 0 2
+0 47 9 22
 1
 end_operator
 begin_operator
@@ -75242,8 +75242,8 @@ overcome prostatitis rest rice earth uranus
 1
 19 10
 2
-0 47 10 22
 0 46 3 0
+0 47 10 22
 1
 end_operator
 begin_operator
@@ -75251,8 +75251,8 @@ overcome prostatitis rest rice mercury saturn
 1
 19 10
 2
-0 47 10 22
 0 46 2 1
+0 47 10 22
 1
 end_operator
 begin_operator
@@ -75260,8 +75260,8 @@ overcome prostatitis rest rice saturn earth
 1
 19 10
 2
-0 47 10 22
 0 46 0 2
+0 47 10 22
 1
 end_operator
 begin_operator
@@ -75269,8 +75269,8 @@ overcome prostatitis rest shrimp earth uranus
 1
 19 11
 2
-0 47 11 22
 0 46 3 0
+0 47 11 22
 1
 end_operator
 begin_operator
@@ -75278,8 +75278,8 @@ overcome prostatitis rest shrimp mercury saturn
 1
 19 11
 2
-0 47 11 22
 0 46 2 1
+0 47 11 22
 1
 end_operator
 begin_operator
@@ -75287,8 +75287,8 @@ overcome prostatitis rest shrimp saturn earth
 1
 19 11
 2
-0 47 11 22
 0 46 0 2
+0 47 11 22
 1
 end_operator
 begin_operator
@@ -75296,8 +75296,8 @@ overcome prostatitis rest turkey earth uranus
 1
 19 12
 2
-0 47 12 22
 0 46 3 0
+0 47 12 22
 1
 end_operator
 begin_operator
@@ -75305,8 +75305,8 @@ overcome prostatitis rest turkey mercury saturn
 1
 19 12
 2
-0 47 12 22
 0 46 2 1
+0 47 12 22
 1
 end_operator
 begin_operator
@@ -75314,8 +75314,8 @@ overcome prostatitis rest turkey saturn earth
 1
 19 12
 2
-0 47 12 22
 0 46 0 2
+0 47 12 22
 1
 end_operator
 begin_operator
@@ -75323,8 +75323,8 @@ overcome prostatitis rest wonderbread earth uranus
 1
 19 13
 2
-0 47 13 22
 0 46 3 0
+0 47 13 22
 1
 end_operator
 begin_operator
@@ -75332,8 +75332,8 @@ overcome prostatitis rest wonderbread mercury saturn
 1
 19 13
 2
-0 47 13 22
 0 46 2 1
+0 47 13 22
 1
 end_operator
 begin_operator
@@ -75341,8 +75341,8 @@ overcome prostatitis rest wonderbread saturn earth
 1
 19 13
 2
-0 47 13 22
 0 46 0 2
+0 47 13 22
 1
 end_operator
 begin_operator
@@ -75350,8 +75350,8 @@ overcome prostatitis rest wurst earth uranus
 1
 19 14
 2
-0 47 14 22
 0 46 3 0
+0 47 14 22
 1
 end_operator
 begin_operator
@@ -75359,8 +75359,8 @@ overcome prostatitis rest wurst mercury saturn
 1
 19 14
 2
-0 47 14 22
 0 46 2 1
+0 47 14 22
 1
 end_operator
 begin_operator
@@ -75368,8 +75368,8 @@ overcome prostatitis rest wurst saturn earth
 1
 19 14
 2
-0 47 14 22
 0 46 0 2
+0 47 14 22
 1
 end_operator
 begin_operator
@@ -75377,8 +75377,8 @@ overcome prostatitis rest yogurt earth uranus
 1
 19 15
 2
-0 47 15 22
 0 46 3 0
+0 47 15 22
 1
 end_operator
 begin_operator
@@ -75386,8 +75386,8 @@ overcome prostatitis rest yogurt mercury saturn
 1
 19 15
 2
-0 47 15 22
 0 46 2 1
+0 47 15 22
 1
 end_operator
 begin_operator
@@ -75395,8 +75395,8 @@ overcome prostatitis rest yogurt saturn earth
 1
 19 15
 2
-0 47 15 22
 0 46 0 2
+0 47 15 22
 1
 end_operator
 begin_operator
@@ -76268,8 +76268,8 @@ overcome sciatica achievement arugula earth uranus
 1
 9 0
 2
-0 48 0 16
 0 37 3 0
+0 48 0 16
 1
 end_operator
 begin_operator
@@ -76277,8 +76277,8 @@ overcome sciatica achievement arugula mercury saturn
 1
 9 0
 2
-0 48 0 16
 0 37 2 1
+0 48 0 16
 1
 end_operator
 begin_operator
@@ -76286,8 +76286,8 @@ overcome sciatica achievement arugula saturn earth
 1
 9 0
 2
-0 48 0 16
 0 37 0 2
+0 48 0 16
 1
 end_operator
 begin_operator
@@ -76295,8 +76295,8 @@ overcome sciatica achievement cherry earth uranus
 1
 9 1
 2
-0 48 1 16
 0 37 3 0
+0 48 1 16
 1
 end_operator
 begin_operator
@@ -76304,8 +76304,8 @@ overcome sciatica achievement cherry mercury saturn
 1
 9 1
 2
-0 48 1 16
 0 37 2 1
+0 48 1 16
 1
 end_operator
 begin_operator
@@ -76313,8 +76313,8 @@ overcome sciatica achievement cherry saturn earth
 1
 9 1
 2
-0 48 1 16
 0 37 0 2
+0 48 1 16
 1
 end_operator
 begin_operator
@@ -76322,8 +76322,8 @@ overcome sciatica achievement endive earth uranus
 1
 9 2
 2
-0 48 2 16
 0 37 3 0
+0 48 2 16
 1
 end_operator
 begin_operator
@@ -76331,8 +76331,8 @@ overcome sciatica achievement endive mercury saturn
 1
 9 2
 2
-0 48 2 16
 0 37 2 1
+0 48 2 16
 1
 end_operator
 begin_operator
@@ -76340,8 +76340,8 @@ overcome sciatica achievement endive saturn earth
 1
 9 2
 2
-0 48 2 16
 0 37 0 2
+0 48 2 16
 1
 end_operator
 begin_operator
@@ -76349,8 +76349,8 @@ overcome sciatica achievement ham earth uranus
 1
 9 3
 2
-0 48 3 16
 0 37 3 0
+0 48 3 16
 1
 end_operator
 begin_operator
@@ -76358,8 +76358,8 @@ overcome sciatica achievement ham mercury saturn
 1
 9 3
 2
-0 48 3 16
 0 37 2 1
+0 48 3 16
 1
 end_operator
 begin_operator
@@ -76367,8 +76367,8 @@ overcome sciatica achievement ham saturn earth
 1
 9 3
 2
-0 48 3 16
 0 37 0 2
+0 48 3 16
 1
 end_operator
 begin_operator
@@ -76376,8 +76376,8 @@ overcome sciatica achievement haroset earth uranus
 1
 9 4
 2
-0 48 4 16
 0 37 3 0
+0 48 4 16
 1
 end_operator
 begin_operator
@@ -76385,8 +76385,8 @@ overcome sciatica achievement haroset mercury saturn
 1
 9 4
 2
-0 48 4 16
 0 37 2 1
+0 48 4 16
 1
 end_operator
 begin_operator
@@ -76394,8 +76394,8 @@ overcome sciatica achievement haroset saturn earth
 1
 9 4
 2
-0 48 4 16
 0 37 0 2
+0 48 4 16
 1
 end_operator
 begin_operator
@@ -76403,8 +76403,8 @@ overcome sciatica achievement marzipan earth uranus
 1
 9 5
 2
-0 48 5 16
 0 37 3 0
+0 48 5 16
 1
 end_operator
 begin_operator
@@ -76412,8 +76412,8 @@ overcome sciatica achievement marzipan mercury saturn
 1
 9 5
 2
-0 48 5 16
 0 37 2 1
+0 48 5 16
 1
 end_operator
 begin_operator
@@ -76421,8 +76421,8 @@ overcome sciatica achievement marzipan saturn earth
 1
 9 5
 2
-0 48 5 16
 0 37 0 2
+0 48 5 16
 1
 end_operator
 begin_operator
@@ -76430,8 +76430,8 @@ overcome sciatica achievement mutton earth uranus
 1
 9 6
 2
-0 48 6 16
 0 37 3 0
+0 48 6 16
 1
 end_operator
 begin_operator
@@ -76439,8 +76439,8 @@ overcome sciatica achievement mutton mercury saturn
 1
 9 6
 2
-0 48 6 16
 0 37 2 1
+0 48 6 16
 1
 end_operator
 begin_operator
@@ -76448,8 +76448,8 @@ overcome sciatica achievement mutton saturn earth
 1
 9 6
 2
-0 48 6 16
 0 37 0 2
+0 48 6 16
 1
 end_operator
 begin_operator
@@ -76457,8 +76457,8 @@ overcome sciatica achievement onion earth uranus
 1
 9 7
 2
-0 48 7 16
 0 37 3 0
+0 48 7 16
 1
 end_operator
 begin_operator
@@ -76466,8 +76466,8 @@ overcome sciatica achievement onion mercury saturn
 1
 9 7
 2
-0 48 7 16
 0 37 2 1
+0 48 7 16
 1
 end_operator
 begin_operator
@@ -76475,8 +76475,8 @@ overcome sciatica achievement onion saturn earth
 1
 9 7
 2
-0 48 7 16
 0 37 0 2
+0 48 7 16
 1
 end_operator
 begin_operator
@@ -76484,8 +76484,8 @@ overcome sciatica achievement papaya earth uranus
 1
 9 8
 2
-0 48 8 16
 0 37 3 0
+0 48 8 16
 1
 end_operator
 begin_operator
@@ -76493,8 +76493,8 @@ overcome sciatica achievement papaya mercury saturn
 1
 9 8
 2
-0 48 8 16
 0 37 2 1
+0 48 8 16
 1
 end_operator
 begin_operator
@@ -76502,8 +76502,8 @@ overcome sciatica achievement papaya saturn earth
 1
 9 8
 2
-0 48 8 16
 0 37 0 2
+0 48 8 16
 1
 end_operator
 begin_operator
@@ -76511,8 +76511,8 @@ overcome sciatica achievement potato earth uranus
 1
 9 9
 2
-0 48 9 16
 0 37 3 0
+0 48 9 16
 1
 end_operator
 begin_operator
@@ -76520,8 +76520,8 @@ overcome sciatica achievement potato mercury saturn
 1
 9 9
 2
-0 48 9 16
 0 37 2 1
+0 48 9 16
 1
 end_operator
 begin_operator
@@ -76529,8 +76529,8 @@ overcome sciatica achievement potato saturn earth
 1
 9 9
 2
-0 48 9 16
 0 37 0 2
+0 48 9 16
 1
 end_operator
 begin_operator
@@ -76538,8 +76538,8 @@ overcome sciatica achievement rice earth uranus
 1
 9 10
 2
-0 48 10 16
 0 37 3 0
+0 48 10 16
 1
 end_operator
 begin_operator
@@ -76547,8 +76547,8 @@ overcome sciatica achievement rice mercury saturn
 1
 9 10
 2
-0 48 10 16
 0 37 2 1
+0 48 10 16
 1
 end_operator
 begin_operator
@@ -76556,8 +76556,8 @@ overcome sciatica achievement rice saturn earth
 1
 9 10
 2
-0 48 10 16
 0 37 0 2
+0 48 10 16
 1
 end_operator
 begin_operator
@@ -76565,8 +76565,8 @@ overcome sciatica achievement shrimp earth uranus
 1
 9 11
 2
-0 48 11 16
 0 37 3 0
+0 48 11 16
 1
 end_operator
 begin_operator
@@ -76574,8 +76574,8 @@ overcome sciatica achievement shrimp mercury saturn
 1
 9 11
 2
-0 48 11 16
 0 37 2 1
+0 48 11 16
 1
 end_operator
 begin_operator
@@ -76583,8 +76583,8 @@ overcome sciatica achievement shrimp saturn earth
 1
 9 11
 2
-0 48 11 16
 0 37 0 2
+0 48 11 16
 1
 end_operator
 begin_operator
@@ -76592,8 +76592,8 @@ overcome sciatica achievement turkey earth uranus
 1
 9 12
 2
-0 48 12 16
 0 37 3 0
+0 48 12 16
 1
 end_operator
 begin_operator
@@ -76601,8 +76601,8 @@ overcome sciatica achievement turkey mercury saturn
 1
 9 12
 2
-0 48 12 16
 0 37 2 1
+0 48 12 16
 1
 end_operator
 begin_operator
@@ -76610,8 +76610,8 @@ overcome sciatica achievement turkey saturn earth
 1
 9 12
 2
-0 48 12 16
 0 37 0 2
+0 48 12 16
 1
 end_operator
 begin_operator
@@ -76619,8 +76619,8 @@ overcome sciatica achievement wonderbread earth uranus
 1
 9 13
 2
-0 48 13 16
 0 37 3 0
+0 48 13 16
 1
 end_operator
 begin_operator
@@ -76628,8 +76628,8 @@ overcome sciatica achievement wonderbread mercury saturn
 1
 9 13
 2
-0 48 13 16
 0 37 2 1
+0 48 13 16
 1
 end_operator
 begin_operator
@@ -76637,8 +76637,8 @@ overcome sciatica achievement wonderbread saturn earth
 1
 9 13
 2
-0 48 13 16
 0 37 0 2
+0 48 13 16
 1
 end_operator
 begin_operator
@@ -76646,8 +76646,8 @@ overcome sciatica achievement wurst earth uranus
 1
 9 14
 2
-0 48 14 16
 0 37 3 0
+0 48 14 16
 1
 end_operator
 begin_operator
@@ -76655,8 +76655,8 @@ overcome sciatica achievement wurst mercury saturn
 1
 9 14
 2
-0 48 14 16
 0 37 2 1
+0 48 14 16
 1
 end_operator
 begin_operator
@@ -76664,8 +76664,8 @@ overcome sciatica achievement wurst saturn earth
 1
 9 14
 2
-0 48 14 16
 0 37 0 2
+0 48 14 16
 1
 end_operator
 begin_operator
@@ -76673,8 +76673,8 @@ overcome sciatica achievement yogurt earth uranus
 1
 9 15
 2
-0 48 15 16
 0 37 3 0
+0 48 15 16
 1
 end_operator
 begin_operator
@@ -76682,8 +76682,8 @@ overcome sciatica achievement yogurt mercury saturn
 1
 9 15
 2
-0 48 15 16
 0 37 2 1
+0 48 15 16
 1
 end_operator
 begin_operator
@@ -76691,32 +76691,32 @@ overcome sciatica achievement yogurt saturn earth
 1
 9 15
 2
-0 48 15 16
 0 37 0 2
+0 48 15 16
 1
 end_operator
 begin_operator
 overcome sciatica entertainment wurst earth uranus
 0
 2
-0 48 14 17
 0 23 3 0
+0 48 14 17
 1
 end_operator
 begin_operator
 overcome sciatica entertainment wurst mercury saturn
 0
 2
-0 48 14 17
 0 23 2 1
+0 48 14 17
 1
 end_operator
 begin_operator
 overcome sciatica entertainment wurst saturn earth
 0
 2
-0 48 14 17
 0 23 0 2
+0 48 14 17
 1
 end_operator
 begin_operator
@@ -76724,8 +76724,8 @@ overcome sciatica excitement arugula earth uranus
 1
 11 0
 2
-0 48 0 18
 0 38 3 0
+0 48 0 18
 1
 end_operator
 begin_operator
@@ -76733,8 +76733,8 @@ overcome sciatica excitement arugula mercury saturn
 1
 11 0
 2
-0 48 0 18
 0 38 2 1
+0 48 0 18
 1
 end_operator
 begin_operator
@@ -76742,8 +76742,8 @@ overcome sciatica excitement arugula saturn earth
 1
 11 0
 2
-0 48 0 18
 0 38 0 2
+0 48 0 18
 1
 end_operator
 begin_operator
@@ -76751,8 +76751,8 @@ overcome sciatica excitement cherry earth uranus
 1
 11 1
 2
-0 48 1 18
 0 38 3 0
+0 48 1 18
 1
 end_operator
 begin_operator
@@ -76760,8 +76760,8 @@ overcome sciatica excitement cherry mercury saturn
 1
 11 1
 2
-0 48 1 18
 0 38 2 1
+0 48 1 18
 1
 end_operator
 begin_operator
@@ -76769,8 +76769,8 @@ overcome sciatica excitement cherry saturn earth
 1
 11 1
 2
-0 48 1 18
 0 38 0 2
+0 48 1 18
 1
 end_operator
 begin_operator
@@ -76778,8 +76778,8 @@ overcome sciatica excitement endive earth uranus
 1
 11 2
 2
-0 48 2 18
 0 38 3 0
+0 48 2 18
 1
 end_operator
 begin_operator
@@ -76787,8 +76787,8 @@ overcome sciatica excitement endive mercury saturn
 1
 11 2
 2
-0 48 2 18
 0 38 2 1
+0 48 2 18
 1
 end_operator
 begin_operator
@@ -76796,8 +76796,8 @@ overcome sciatica excitement endive saturn earth
 1
 11 2
 2
-0 48 2 18
 0 38 0 2
+0 48 2 18
 1
 end_operator
 begin_operator
@@ -76805,8 +76805,8 @@ overcome sciatica excitement ham earth uranus
 1
 11 3
 2
-0 48 3 18
 0 38 3 0
+0 48 3 18
 1
 end_operator
 begin_operator
@@ -76814,8 +76814,8 @@ overcome sciatica excitement ham mercury saturn
 1
 11 3
 2
-0 48 3 18
 0 38 2 1
+0 48 3 18
 1
 end_operator
 begin_operator
@@ -76823,8 +76823,8 @@ overcome sciatica excitement ham saturn earth
 1
 11 3
 2
-0 48 3 18
 0 38 0 2
+0 48 3 18
 1
 end_operator
 begin_operator
@@ -76832,8 +76832,8 @@ overcome sciatica excitement haroset earth uranus
 1
 11 4
 2
-0 48 4 18
 0 38 3 0
+0 48 4 18
 1
 end_operator
 begin_operator
@@ -76841,8 +76841,8 @@ overcome sciatica excitement haroset mercury saturn
 1
 11 4
 2
-0 48 4 18
 0 38 2 1
+0 48 4 18
 1
 end_operator
 begin_operator
@@ -76850,8 +76850,8 @@ overcome sciatica excitement haroset saturn earth
 1
 11 4
 2
-0 48 4 18
 0 38 0 2
+0 48 4 18
 1
 end_operator
 begin_operator
@@ -76859,8 +76859,8 @@ overcome sciatica excitement marzipan earth uranus
 1
 11 5
 2
-0 48 5 18
 0 38 3 0
+0 48 5 18
 1
 end_operator
 begin_operator
@@ -76868,8 +76868,8 @@ overcome sciatica excitement marzipan mercury saturn
 1
 11 5
 2
-0 48 5 18
 0 38 2 1
+0 48 5 18
 1
 end_operator
 begin_operator
@@ -76877,8 +76877,8 @@ overcome sciatica excitement marzipan saturn earth
 1
 11 5
 2
-0 48 5 18
 0 38 0 2
+0 48 5 18
 1
 end_operator
 begin_operator
@@ -76886,8 +76886,8 @@ overcome sciatica excitement mutton earth uranus
 1
 11 6
 2
-0 48 6 18
 0 38 3 0
+0 48 6 18
 1
 end_operator
 begin_operator
@@ -76895,8 +76895,8 @@ overcome sciatica excitement mutton mercury saturn
 1
 11 6
 2
-0 48 6 18
 0 38 2 1
+0 48 6 18
 1
 end_operator
 begin_operator
@@ -76904,8 +76904,8 @@ overcome sciatica excitement mutton saturn earth
 1
 11 6
 2
-0 48 6 18
 0 38 0 2
+0 48 6 18
 1
 end_operator
 begin_operator
@@ -76913,8 +76913,8 @@ overcome sciatica excitement onion earth uranus
 1
 11 7
 2
-0 48 7 18
 0 38 3 0
+0 48 7 18
 1
 end_operator
 begin_operator
@@ -76922,8 +76922,8 @@ overcome sciatica excitement onion mercury saturn
 1
 11 7
 2
-0 48 7 18
 0 38 2 1
+0 48 7 18
 1
 end_operator
 begin_operator
@@ -76931,8 +76931,8 @@ overcome sciatica excitement onion saturn earth
 1
 11 7
 2
-0 48 7 18
 0 38 0 2
+0 48 7 18
 1
 end_operator
 begin_operator
@@ -76940,8 +76940,8 @@ overcome sciatica excitement papaya earth uranus
 1
 11 8
 2
-0 48 8 18
 0 38 3 0
+0 48 8 18
 1
 end_operator
 begin_operator
@@ -76949,8 +76949,8 @@ overcome sciatica excitement papaya mercury saturn
 1
 11 8
 2
-0 48 8 18
 0 38 2 1
+0 48 8 18
 1
 end_operator
 begin_operator
@@ -76958,8 +76958,8 @@ overcome sciatica excitement papaya saturn earth
 1
 11 8
 2
-0 48 8 18
 0 38 0 2
+0 48 8 18
 1
 end_operator
 begin_operator
@@ -76967,8 +76967,8 @@ overcome sciatica excitement potato earth uranus
 1
 11 9
 2
-0 48 9 18
 0 38 3 0
+0 48 9 18
 1
 end_operator
 begin_operator
@@ -76976,8 +76976,8 @@ overcome sciatica excitement potato mercury saturn
 1
 11 9
 2
-0 48 9 18
 0 38 2 1
+0 48 9 18
 1
 end_operator
 begin_operator
@@ -76985,8 +76985,8 @@ overcome sciatica excitement potato saturn earth
 1
 11 9
 2
-0 48 9 18
 0 38 0 2
+0 48 9 18
 1
 end_operator
 begin_operator
@@ -76994,8 +76994,8 @@ overcome sciatica excitement rice earth uranus
 1
 11 10
 2
-0 48 10 18
 0 38 3 0
+0 48 10 18
 1
 end_operator
 begin_operator
@@ -77003,8 +77003,8 @@ overcome sciatica excitement rice mercury saturn
 1
 11 10
 2
-0 48 10 18
 0 38 2 1
+0 48 10 18
 1
 end_operator
 begin_operator
@@ -77012,8 +77012,8 @@ overcome sciatica excitement rice saturn earth
 1
 11 10
 2
-0 48 10 18
 0 38 0 2
+0 48 10 18
 1
 end_operator
 begin_operator
@@ -77021,8 +77021,8 @@ overcome sciatica excitement shrimp earth uranus
 1
 11 11
 2
-0 48 11 18
 0 38 3 0
+0 48 11 18
 1
 end_operator
 begin_operator
@@ -77030,8 +77030,8 @@ overcome sciatica excitement shrimp mercury saturn
 1
 11 11
 2
-0 48 11 18
 0 38 2 1
+0 48 11 18
 1
 end_operator
 begin_operator
@@ -77039,8 +77039,8 @@ overcome sciatica excitement shrimp saturn earth
 1
 11 11
 2
-0 48 11 18
 0 38 0 2
+0 48 11 18
 1
 end_operator
 begin_operator
@@ -77048,8 +77048,8 @@ overcome sciatica excitement turkey earth uranus
 1
 11 12
 2
-0 48 12 18
 0 38 3 0
+0 48 12 18
 1
 end_operator
 begin_operator
@@ -77057,8 +77057,8 @@ overcome sciatica excitement turkey mercury saturn
 1
 11 12
 2
-0 48 12 18
 0 38 2 1
+0 48 12 18
 1
 end_operator
 begin_operator
@@ -77066,8 +77066,8 @@ overcome sciatica excitement turkey saturn earth
 1
 11 12
 2
-0 48 12 18
 0 38 0 2
+0 48 12 18
 1
 end_operator
 begin_operator
@@ -77075,8 +77075,8 @@ overcome sciatica excitement wonderbread earth uranus
 1
 11 13
 2
-0 48 13 18
 0 38 3 0
+0 48 13 18
 1
 end_operator
 begin_operator
@@ -77084,8 +77084,8 @@ overcome sciatica excitement wonderbread mercury saturn
 1
 11 13
 2
-0 48 13 18
 0 38 2 1
+0 48 13 18
 1
 end_operator
 begin_operator
@@ -77093,8 +77093,8 @@ overcome sciatica excitement wonderbread saturn earth
 1
 11 13
 2
-0 48 13 18
 0 38 0 2
+0 48 13 18
 1
 end_operator
 begin_operator
@@ -77102,8 +77102,8 @@ overcome sciatica excitement wurst earth uranus
 1
 11 14
 2
-0 48 14 18
 0 38 3 0
+0 48 14 18
 1
 end_operator
 begin_operator
@@ -77111,8 +77111,8 @@ overcome sciatica excitement wurst mercury saturn
 1
 11 14
 2
-0 48 14 18
 0 38 2 1
+0 48 14 18
 1
 end_operator
 begin_operator
@@ -77120,8 +77120,8 @@ overcome sciatica excitement wurst saturn earth
 1
 11 14
 2
-0 48 14 18
 0 38 0 2
+0 48 14 18
 1
 end_operator
 begin_operator
@@ -77129,8 +77129,8 @@ overcome sciatica excitement yogurt earth uranus
 1
 11 15
 2
-0 48 15 18
 0 38 3 0
+0 48 15 18
 1
 end_operator
 begin_operator
@@ -77138,8 +77138,8 @@ overcome sciatica excitement yogurt mercury saturn
 1
 11 15
 2
-0 48 15 18
 0 38 2 1
+0 48 15 18
 1
 end_operator
 begin_operator
@@ -77147,8 +77147,8 @@ overcome sciatica excitement yogurt saturn earth
 1
 11 15
 2
-0 48 15 18
 0 38 0 2
+0 48 15 18
 1
 end_operator
 begin_operator
@@ -77156,8 +77156,8 @@ overcome sciatica intoxication arugula earth uranus
 1
 13 0
 2
-0 48 0 19
 0 41 3 0
+0 48 0 19
 1
 end_operator
 begin_operator
@@ -77165,8 +77165,8 @@ overcome sciatica intoxication arugula mercury saturn
 1
 13 0
 2
-0 48 0 19
 0 41 2 1
+0 48 0 19
 1
 end_operator
 begin_operator
@@ -77174,8 +77174,8 @@ overcome sciatica intoxication arugula saturn earth
 1
 13 0
 2
-0 48 0 19
 0 41 0 2
+0 48 0 19
 1
 end_operator
 begin_operator
@@ -77183,8 +77183,8 @@ overcome sciatica intoxication cherry earth uranus
 1
 13 1
 2
-0 48 1 19
 0 41 3 0
+0 48 1 19
 1
 end_operator
 begin_operator
@@ -77192,8 +77192,8 @@ overcome sciatica intoxication cherry mercury saturn
 1
 13 1
 2
-0 48 1 19
 0 41 2 1
+0 48 1 19
 1
 end_operator
 begin_operator
@@ -77201,8 +77201,8 @@ overcome sciatica intoxication cherry saturn earth
 1
 13 1
 2
-0 48 1 19
 0 41 0 2
+0 48 1 19
 1
 end_operator
 begin_operator
@@ -77210,8 +77210,8 @@ overcome sciatica intoxication endive earth uranus
 1
 13 2
 2
-0 48 2 19
 0 41 3 0
+0 48 2 19
 1
 end_operator
 begin_operator
@@ -77219,8 +77219,8 @@ overcome sciatica intoxication endive mercury saturn
 1
 13 2
 2
-0 48 2 19
 0 41 2 1
+0 48 2 19
 1
 end_operator
 begin_operator
@@ -77228,8 +77228,8 @@ overcome sciatica intoxication endive saturn earth
 1
 13 2
 2
-0 48 2 19
 0 41 0 2
+0 48 2 19
 1
 end_operator
 begin_operator
@@ -77237,8 +77237,8 @@ overcome sciatica intoxication ham earth uranus
 1
 13 3
 2
-0 48 3 19
 0 41 3 0
+0 48 3 19
 1
 end_operator
 begin_operator
@@ -77246,8 +77246,8 @@ overcome sciatica intoxication ham mercury saturn
 1
 13 3
 2
-0 48 3 19
 0 41 2 1
+0 48 3 19
 1
 end_operator
 begin_operator
@@ -77255,8 +77255,8 @@ overcome sciatica intoxication ham saturn earth
 1
 13 3
 2
-0 48 3 19
 0 41 0 2
+0 48 3 19
 1
 end_operator
 begin_operator
@@ -77264,8 +77264,8 @@ overcome sciatica intoxication haroset earth uranus
 1
 13 4
 2
-0 48 4 19
 0 41 3 0
+0 48 4 19
 1
 end_operator
 begin_operator
@@ -77273,8 +77273,8 @@ overcome sciatica intoxication haroset mercury saturn
 1
 13 4
 2
-0 48 4 19
 0 41 2 1
+0 48 4 19
 1
 end_operator
 begin_operator
@@ -77282,8 +77282,8 @@ overcome sciatica intoxication haroset saturn earth
 1
 13 4
 2
-0 48 4 19
 0 41 0 2
+0 48 4 19
 1
 end_operator
 begin_operator
@@ -77291,8 +77291,8 @@ overcome sciatica intoxication marzipan earth uranus
 1
 13 5
 2
-0 48 5 19
 0 41 3 0
+0 48 5 19
 1
 end_operator
 begin_operator
@@ -77300,8 +77300,8 @@ overcome sciatica intoxication marzipan mercury saturn
 1
 13 5
 2
-0 48 5 19
 0 41 2 1
+0 48 5 19
 1
 end_operator
 begin_operator
@@ -77309,8 +77309,8 @@ overcome sciatica intoxication marzipan saturn earth
 1
 13 5
 2
-0 48 5 19
 0 41 0 2
+0 48 5 19
 1
 end_operator
 begin_operator
@@ -77318,8 +77318,8 @@ overcome sciatica intoxication mutton earth uranus
 1
 13 6
 2
-0 48 6 19
 0 41 3 0
+0 48 6 19
 1
 end_operator
 begin_operator
@@ -77327,8 +77327,8 @@ overcome sciatica intoxication mutton mercury saturn
 1
 13 6
 2
-0 48 6 19
 0 41 2 1
+0 48 6 19
 1
 end_operator
 begin_operator
@@ -77336,8 +77336,8 @@ overcome sciatica intoxication mutton saturn earth
 1
 13 6
 2
-0 48 6 19
 0 41 0 2
+0 48 6 19
 1
 end_operator
 begin_operator
@@ -77345,8 +77345,8 @@ overcome sciatica intoxication onion earth uranus
 1
 13 7
 2
-0 48 7 19
 0 41 3 0
+0 48 7 19
 1
 end_operator
 begin_operator
@@ -77354,8 +77354,8 @@ overcome sciatica intoxication onion mercury saturn
 1
 13 7
 2
-0 48 7 19
 0 41 2 1
+0 48 7 19
 1
 end_operator
 begin_operator
@@ -77363,8 +77363,8 @@ overcome sciatica intoxication onion saturn earth
 1
 13 7
 2
-0 48 7 19
 0 41 0 2
+0 48 7 19
 1
 end_operator
 begin_operator
@@ -77372,8 +77372,8 @@ overcome sciatica intoxication papaya earth uranus
 1
 13 8
 2
-0 48 8 19
 0 41 3 0
+0 48 8 19
 1
 end_operator
 begin_operator
@@ -77381,8 +77381,8 @@ overcome sciatica intoxication papaya mercury saturn
 1
 13 8
 2
-0 48 8 19
 0 41 2 1
+0 48 8 19
 1
 end_operator
 begin_operator
@@ -77390,8 +77390,8 @@ overcome sciatica intoxication papaya saturn earth
 1
 13 8
 2
-0 48 8 19
 0 41 0 2
+0 48 8 19
 1
 end_operator
 begin_operator
@@ -77399,8 +77399,8 @@ overcome sciatica intoxication potato earth uranus
 1
 13 9
 2
-0 48 9 19
 0 41 3 0
+0 48 9 19
 1
 end_operator
 begin_operator
@@ -77408,8 +77408,8 @@ overcome sciatica intoxication potato mercury saturn
 1
 13 9
 2
-0 48 9 19
 0 41 2 1
+0 48 9 19
 1
 end_operator
 begin_operator
@@ -77417,8 +77417,8 @@ overcome sciatica intoxication potato saturn earth
 1
 13 9
 2
-0 48 9 19
 0 41 0 2
+0 48 9 19
 1
 end_operator
 begin_operator
@@ -77426,8 +77426,8 @@ overcome sciatica intoxication rice earth uranus
 1
 13 10
 2
-0 48 10 19
 0 41 3 0
+0 48 10 19
 1
 end_operator
 begin_operator
@@ -77435,8 +77435,8 @@ overcome sciatica intoxication rice mercury saturn
 1
 13 10
 2
-0 48 10 19
 0 41 2 1
+0 48 10 19
 1
 end_operator
 begin_operator
@@ -77444,8 +77444,8 @@ overcome sciatica intoxication rice saturn earth
 1
 13 10
 2
-0 48 10 19
 0 41 0 2
+0 48 10 19
 1
 end_operator
 begin_operator
@@ -77453,8 +77453,8 @@ overcome sciatica intoxication shrimp earth uranus
 1
 13 11
 2
-0 48 11 19
 0 41 3 0
+0 48 11 19
 1
 end_operator
 begin_operator
@@ -77462,8 +77462,8 @@ overcome sciatica intoxication shrimp mercury saturn
 1
 13 11
 2
-0 48 11 19
 0 41 2 1
+0 48 11 19
 1
 end_operator
 begin_operator
@@ -77471,8 +77471,8 @@ overcome sciatica intoxication shrimp saturn earth
 1
 13 11
 2
-0 48 11 19
 0 41 0 2
+0 48 11 19
 1
 end_operator
 begin_operator
@@ -77480,8 +77480,8 @@ overcome sciatica intoxication turkey earth uranus
 1
 13 12
 2
-0 48 12 19
 0 41 3 0
+0 48 12 19
 1
 end_operator
 begin_operator
@@ -77489,8 +77489,8 @@ overcome sciatica intoxication turkey mercury saturn
 1
 13 12
 2
-0 48 12 19
 0 41 2 1
+0 48 12 19
 1
 end_operator
 begin_operator
@@ -77498,8 +77498,8 @@ overcome sciatica intoxication turkey saturn earth
 1
 13 12
 2
-0 48 12 19
 0 41 0 2
+0 48 12 19
 1
 end_operator
 begin_operator
@@ -77507,8 +77507,8 @@ overcome sciatica intoxication wonderbread earth uranus
 1
 13 13
 2
-0 48 13 19
 0 41 3 0
+0 48 13 19
 1
 end_operator
 begin_operator
@@ -77516,8 +77516,8 @@ overcome sciatica intoxication wonderbread mercury saturn
 1
 13 13
 2
-0 48 13 19
 0 41 2 1
+0 48 13 19
 1
 end_operator
 begin_operator
@@ -77525,8 +77525,8 @@ overcome sciatica intoxication wonderbread saturn earth
 1
 13 13
 2
-0 48 13 19
 0 41 0 2
+0 48 13 19
 1
 end_operator
 begin_operator
@@ -77534,8 +77534,8 @@ overcome sciatica intoxication wurst earth uranus
 1
 13 14
 2
-0 48 14 19
 0 41 3 0
+0 48 14 19
 1
 end_operator
 begin_operator
@@ -77543,8 +77543,8 @@ overcome sciatica intoxication wurst mercury saturn
 1
 13 14
 2
-0 48 14 19
 0 41 2 1
+0 48 14 19
 1
 end_operator
 begin_operator
@@ -77552,8 +77552,8 @@ overcome sciatica intoxication wurst saturn earth
 1
 13 14
 2
-0 48 14 19
 0 41 0 2
+0 48 14 19
 1
 end_operator
 begin_operator
@@ -77561,8 +77561,8 @@ overcome sciatica intoxication yogurt earth uranus
 1
 13 15
 2
-0 48 15 19
 0 41 3 0
+0 48 15 19
 1
 end_operator
 begin_operator
@@ -77570,8 +77570,8 @@ overcome sciatica intoxication yogurt mercury saturn
 1
 13 15
 2
-0 48 15 19
 0 41 2 1
+0 48 15 19
 1
 end_operator
 begin_operator
@@ -77579,8 +77579,8 @@ overcome sciatica intoxication yogurt saturn earth
 1
 13 15
 2
-0 48 15 19
 0 41 0 2
+0 48 15 19
 1
 end_operator
 begin_operator
@@ -77588,8 +77588,8 @@ overcome sciatica love arugula earth uranus
 1
 15 0
 2
-0 48 0 20
 0 42 3 0
+0 48 0 20
 1
 end_operator
 begin_operator
@@ -77597,8 +77597,8 @@ overcome sciatica love arugula mercury saturn
 1
 15 0
 2
-0 48 0 20
 0 42 2 1
+0 48 0 20
 1
 end_operator
 begin_operator
@@ -77606,8 +77606,8 @@ overcome sciatica love arugula saturn earth
 1
 15 0
 2
-0 48 0 20
 0 42 0 2
+0 48 0 20
 1
 end_operator
 begin_operator
@@ -77615,8 +77615,8 @@ overcome sciatica love cherry earth uranus
 1
 15 1
 2
-0 48 1 20
 0 42 3 0
+0 48 1 20
 1
 end_operator
 begin_operator
@@ -77624,8 +77624,8 @@ overcome sciatica love cherry mercury saturn
 1
 15 1
 2
-0 48 1 20
 0 42 2 1
+0 48 1 20
 1
 end_operator
 begin_operator
@@ -77633,8 +77633,8 @@ overcome sciatica love cherry saturn earth
 1
 15 1
 2
-0 48 1 20
 0 42 0 2
+0 48 1 20
 1
 end_operator
 begin_operator
@@ -77642,8 +77642,8 @@ overcome sciatica love endive earth uranus
 1
 15 2
 2
-0 48 2 20
 0 42 3 0
+0 48 2 20
 1
 end_operator
 begin_operator
@@ -77651,8 +77651,8 @@ overcome sciatica love endive mercury saturn
 1
 15 2
 2
-0 48 2 20
 0 42 2 1
+0 48 2 20
 1
 end_operator
 begin_operator
@@ -77660,8 +77660,8 @@ overcome sciatica love endive saturn earth
 1
 15 2
 2
-0 48 2 20
 0 42 0 2
+0 48 2 20
 1
 end_operator
 begin_operator
@@ -77669,8 +77669,8 @@ overcome sciatica love ham earth uranus
 1
 15 3
 2
-0 48 3 20
 0 42 3 0
+0 48 3 20
 1
 end_operator
 begin_operator
@@ -77678,8 +77678,8 @@ overcome sciatica love ham mercury saturn
 1
 15 3
 2
-0 48 3 20
 0 42 2 1
+0 48 3 20
 1
 end_operator
 begin_operator
@@ -77687,8 +77687,8 @@ overcome sciatica love ham saturn earth
 1
 15 3
 2
-0 48 3 20
 0 42 0 2
+0 48 3 20
 1
 end_operator
 begin_operator
@@ -77696,8 +77696,8 @@ overcome sciatica love haroset earth uranus
 1
 15 4
 2
-0 48 4 20
 0 42 3 0
+0 48 4 20
 1
 end_operator
 begin_operator
@@ -77705,8 +77705,8 @@ overcome sciatica love haroset mercury saturn
 1
 15 4
 2
-0 48 4 20
 0 42 2 1
+0 48 4 20
 1
 end_operator
 begin_operator
@@ -77714,8 +77714,8 @@ overcome sciatica love haroset saturn earth
 1
 15 4
 2
-0 48 4 20
 0 42 0 2
+0 48 4 20
 1
 end_operator
 begin_operator
@@ -77723,8 +77723,8 @@ overcome sciatica love marzipan earth uranus
 1
 15 5
 2
-0 48 5 20
 0 42 3 0
+0 48 5 20
 1
 end_operator
 begin_operator
@@ -77732,8 +77732,8 @@ overcome sciatica love marzipan mercury saturn
 1
 15 5
 2
-0 48 5 20
 0 42 2 1
+0 48 5 20
 1
 end_operator
 begin_operator
@@ -77741,8 +77741,8 @@ overcome sciatica love marzipan saturn earth
 1
 15 5
 2
-0 48 5 20
 0 42 0 2
+0 48 5 20
 1
 end_operator
 begin_operator
@@ -77750,8 +77750,8 @@ overcome sciatica love mutton earth uranus
 1
 15 6
 2
-0 48 6 20
 0 42 3 0
+0 48 6 20
 1
 end_operator
 begin_operator
@@ -77759,8 +77759,8 @@ overcome sciatica love mutton mercury saturn
 1
 15 6
 2
-0 48 6 20
 0 42 2 1
+0 48 6 20
 1
 end_operator
 begin_operator
@@ -77768,8 +77768,8 @@ overcome sciatica love mutton saturn earth
 1
 15 6
 2
-0 48 6 20
 0 42 0 2
+0 48 6 20
 1
 end_operator
 begin_operator
@@ -77777,8 +77777,8 @@ overcome sciatica love onion earth uranus
 1
 15 7
 2
-0 48 7 20
 0 42 3 0
+0 48 7 20
 1
 end_operator
 begin_operator
@@ -77786,8 +77786,8 @@ overcome sciatica love onion mercury saturn
 1
 15 7
 2
-0 48 7 20
 0 42 2 1
+0 48 7 20
 1
 end_operator
 begin_operator
@@ -77795,8 +77795,8 @@ overcome sciatica love onion saturn earth
 1
 15 7
 2
-0 48 7 20
 0 42 0 2
+0 48 7 20
 1
 end_operator
 begin_operator
@@ -77804,8 +77804,8 @@ overcome sciatica love papaya earth uranus
 1
 15 8
 2
-0 48 8 20
 0 42 3 0
+0 48 8 20
 1
 end_operator
 begin_operator
@@ -77813,8 +77813,8 @@ overcome sciatica love papaya mercury saturn
 1
 15 8
 2
-0 48 8 20
 0 42 2 1
+0 48 8 20
 1
 end_operator
 begin_operator
@@ -77822,8 +77822,8 @@ overcome sciatica love papaya saturn earth
 1
 15 8
 2
-0 48 8 20
 0 42 0 2
+0 48 8 20
 1
 end_operator
 begin_operator
@@ -77831,8 +77831,8 @@ overcome sciatica love potato earth uranus
 1
 15 9
 2
-0 48 9 20
 0 42 3 0
+0 48 9 20
 1
 end_operator
 begin_operator
@@ -77840,8 +77840,8 @@ overcome sciatica love potato mercury saturn
 1
 15 9
 2
-0 48 9 20
 0 42 2 1
+0 48 9 20
 1
 end_operator
 begin_operator
@@ -77849,8 +77849,8 @@ overcome sciatica love potato saturn earth
 1
 15 9
 2
-0 48 9 20
 0 42 0 2
+0 48 9 20
 1
 end_operator
 begin_operator
@@ -77858,8 +77858,8 @@ overcome sciatica love rice earth uranus
 1
 15 10
 2
-0 48 10 20
 0 42 3 0
+0 48 10 20
 1
 end_operator
 begin_operator
@@ -77867,8 +77867,8 @@ overcome sciatica love rice mercury saturn
 1
 15 10
 2
-0 48 10 20
 0 42 2 1
+0 48 10 20
 1
 end_operator
 begin_operator
@@ -77876,8 +77876,8 @@ overcome sciatica love rice saturn earth
 1
 15 10
 2
-0 48 10 20
 0 42 0 2
+0 48 10 20
 1
 end_operator
 begin_operator
@@ -77885,8 +77885,8 @@ overcome sciatica love shrimp earth uranus
 1
 15 11
 2
-0 48 11 20
 0 42 3 0
+0 48 11 20
 1
 end_operator
 begin_operator
@@ -77894,8 +77894,8 @@ overcome sciatica love shrimp mercury saturn
 1
 15 11
 2
-0 48 11 20
 0 42 2 1
+0 48 11 20
 1
 end_operator
 begin_operator
@@ -77903,8 +77903,8 @@ overcome sciatica love shrimp saturn earth
 1
 15 11
 2
-0 48 11 20
 0 42 0 2
+0 48 11 20
 1
 end_operator
 begin_operator
@@ -77912,8 +77912,8 @@ overcome sciatica love turkey earth uranus
 1
 15 12
 2
-0 48 12 20
 0 42 3 0
+0 48 12 20
 1
 end_operator
 begin_operator
@@ -77921,8 +77921,8 @@ overcome sciatica love turkey mercury saturn
 1
 15 12
 2
-0 48 12 20
 0 42 2 1
+0 48 12 20
 1
 end_operator
 begin_operator
@@ -77930,8 +77930,8 @@ overcome sciatica love turkey saturn earth
 1
 15 12
 2
-0 48 12 20
 0 42 0 2
+0 48 12 20
 1
 end_operator
 begin_operator
@@ -77939,8 +77939,8 @@ overcome sciatica love wonderbread earth uranus
 1
 15 13
 2
-0 48 13 20
 0 42 3 0
+0 48 13 20
 1
 end_operator
 begin_operator
@@ -77948,8 +77948,8 @@ overcome sciatica love wonderbread mercury saturn
 1
 15 13
 2
-0 48 13 20
 0 42 2 1
+0 48 13 20
 1
 end_operator
 begin_operator
@@ -77957,8 +77957,8 @@ overcome sciatica love wonderbread saturn earth
 1
 15 13
 2
-0 48 13 20
 0 42 0 2
+0 48 13 20
 1
 end_operator
 begin_operator
@@ -77966,8 +77966,8 @@ overcome sciatica love wurst earth uranus
 1
 15 14
 2
-0 48 14 20
 0 42 3 0
+0 48 14 20
 1
 end_operator
 begin_operator
@@ -77975,8 +77975,8 @@ overcome sciatica love wurst mercury saturn
 1
 15 14
 2
-0 48 14 20
 0 42 2 1
+0 48 14 20
 1
 end_operator
 begin_operator
@@ -77984,8 +77984,8 @@ overcome sciatica love wurst saturn earth
 1
 15 14
 2
-0 48 14 20
 0 42 0 2
+0 48 14 20
 1
 end_operator
 begin_operator
@@ -77993,8 +77993,8 @@ overcome sciatica love yogurt earth uranus
 1
 15 15
 2
-0 48 15 20
 0 42 3 0
+0 48 15 20
 1
 end_operator
 begin_operator
@@ -78002,8 +78002,8 @@ overcome sciatica love yogurt mercury saturn
 1
 15 15
 2
-0 48 15 20
 0 42 2 1
+0 48 15 20
 1
 end_operator
 begin_operator
@@ -78011,8 +78011,8 @@ overcome sciatica love yogurt saturn earth
 1
 15 15
 2
-0 48 15 20
 0 42 0 2
+0 48 15 20
 1
 end_operator
 begin_operator
@@ -78020,8 +78020,8 @@ overcome sciatica lubricity arugula earth uranus
 1
 17 0
 2
-0 48 0 21
 0 45 3 0
+0 48 0 21
 1
 end_operator
 begin_operator
@@ -78029,8 +78029,8 @@ overcome sciatica lubricity arugula mercury saturn
 1
 17 0
 2
-0 48 0 21
 0 45 2 1
+0 48 0 21
 1
 end_operator
 begin_operator
@@ -78038,8 +78038,8 @@ overcome sciatica lubricity arugula saturn earth
 1
 17 0
 2
-0 48 0 21
 0 45 0 2
+0 48 0 21
 1
 end_operator
 begin_operator
@@ -78047,8 +78047,8 @@ overcome sciatica lubricity cherry earth uranus
 1
 17 1
 2
-0 48 1 21
 0 45 3 0
+0 48 1 21
 1
 end_operator
 begin_operator
@@ -78056,8 +78056,8 @@ overcome sciatica lubricity cherry mercury saturn
 1
 17 1
 2
-0 48 1 21
 0 45 2 1
+0 48 1 21
 1
 end_operator
 begin_operator
@@ -78065,8 +78065,8 @@ overcome sciatica lubricity cherry saturn earth
 1
 17 1
 2
-0 48 1 21
 0 45 0 2
+0 48 1 21
 1
 end_operator
 begin_operator
@@ -78074,8 +78074,8 @@ overcome sciatica lubricity endive earth uranus
 1
 17 2
 2
-0 48 2 21
 0 45 3 0
+0 48 2 21
 1
 end_operator
 begin_operator
@@ -78083,8 +78083,8 @@ overcome sciatica lubricity endive mercury saturn
 1
 17 2
 2
-0 48 2 21
 0 45 2 1
+0 48 2 21
 1
 end_operator
 begin_operator
@@ -78092,8 +78092,8 @@ overcome sciatica lubricity endive saturn earth
 1
 17 2
 2
-0 48 2 21
 0 45 0 2
+0 48 2 21
 1
 end_operator
 begin_operator
@@ -78101,8 +78101,8 @@ overcome sciatica lubricity ham earth uranus
 1
 17 3
 2
-0 48 3 21
 0 45 3 0
+0 48 3 21
 1
 end_operator
 begin_operator
@@ -78110,8 +78110,8 @@ overcome sciatica lubricity ham mercury saturn
 1
 17 3
 2
-0 48 3 21
 0 45 2 1
+0 48 3 21
 1
 end_operator
 begin_operator
@@ -78119,8 +78119,8 @@ overcome sciatica lubricity ham saturn earth
 1
 17 3
 2
-0 48 3 21
 0 45 0 2
+0 48 3 21
 1
 end_operator
 begin_operator
@@ -78128,8 +78128,8 @@ overcome sciatica lubricity haroset earth uranus
 1
 17 4
 2
-0 48 4 21
 0 45 3 0
+0 48 4 21
 1
 end_operator
 begin_operator
@@ -78137,8 +78137,8 @@ overcome sciatica lubricity haroset mercury saturn
 1
 17 4
 2
-0 48 4 21
 0 45 2 1
+0 48 4 21
 1
 end_operator
 begin_operator
@@ -78146,8 +78146,8 @@ overcome sciatica lubricity haroset saturn earth
 1
 17 4
 2
-0 48 4 21
 0 45 0 2
+0 48 4 21
 1
 end_operator
 begin_operator
@@ -78155,8 +78155,8 @@ overcome sciatica lubricity marzipan earth uranus
 1
 17 5
 2
-0 48 5 21
 0 45 3 0
+0 48 5 21
 1
 end_operator
 begin_operator
@@ -78164,8 +78164,8 @@ overcome sciatica lubricity marzipan mercury saturn
 1
 17 5
 2
-0 48 5 21
 0 45 2 1
+0 48 5 21
 1
 end_operator
 begin_operator
@@ -78173,8 +78173,8 @@ overcome sciatica lubricity marzipan saturn earth
 1
 17 5
 2
-0 48 5 21
 0 45 0 2
+0 48 5 21
 1
 end_operator
 begin_operator
@@ -78182,8 +78182,8 @@ overcome sciatica lubricity mutton earth uranus
 1
 17 6
 2
-0 48 6 21
 0 45 3 0
+0 48 6 21
 1
 end_operator
 begin_operator
@@ -78191,8 +78191,8 @@ overcome sciatica lubricity mutton mercury saturn
 1
 17 6
 2
-0 48 6 21
 0 45 2 1
+0 48 6 21
 1
 end_operator
 begin_operator
@@ -78200,8 +78200,8 @@ overcome sciatica lubricity mutton saturn earth
 1
 17 6
 2
-0 48 6 21
 0 45 0 2
+0 48 6 21
 1
 end_operator
 begin_operator
@@ -78209,8 +78209,8 @@ overcome sciatica lubricity onion earth uranus
 1
 17 7
 2
-0 48 7 21
 0 45 3 0
+0 48 7 21
 1
 end_operator
 begin_operator
@@ -78218,8 +78218,8 @@ overcome sciatica lubricity onion mercury saturn
 1
 17 7
 2
-0 48 7 21
 0 45 2 1
+0 48 7 21
 1
 end_operator
 begin_operator
@@ -78227,8 +78227,8 @@ overcome sciatica lubricity onion saturn earth
 1
 17 7
 2
-0 48 7 21
 0 45 0 2
+0 48 7 21
 1
 end_operator
 begin_operator
@@ -78236,8 +78236,8 @@ overcome sciatica lubricity papaya earth uranus
 1
 17 8
 2
-0 48 8 21
 0 45 3 0
+0 48 8 21
 1
 end_operator
 begin_operator
@@ -78245,8 +78245,8 @@ overcome sciatica lubricity papaya mercury saturn
 1
 17 8
 2
-0 48 8 21
 0 45 2 1
+0 48 8 21
 1
 end_operator
 begin_operator
@@ -78254,8 +78254,8 @@ overcome sciatica lubricity papaya saturn earth
 1
 17 8
 2
-0 48 8 21
 0 45 0 2
+0 48 8 21
 1
 end_operator
 begin_operator
@@ -78263,8 +78263,8 @@ overcome sciatica lubricity potato earth uranus
 1
 17 9
 2
-0 48 9 21
 0 45 3 0
+0 48 9 21
 1
 end_operator
 begin_operator
@@ -78272,8 +78272,8 @@ overcome sciatica lubricity potato mercury saturn
 1
 17 9
 2
-0 48 9 21
 0 45 2 1
+0 48 9 21
 1
 end_operator
 begin_operator
@@ -78281,8 +78281,8 @@ overcome sciatica lubricity potato saturn earth
 1
 17 9
 2
-0 48 9 21
 0 45 0 2
+0 48 9 21
 1
 end_operator
 begin_operator
@@ -78290,8 +78290,8 @@ overcome sciatica lubricity rice earth uranus
 1
 17 10
 2
-0 48 10 21
 0 45 3 0
+0 48 10 21
 1
 end_operator
 begin_operator
@@ -78299,8 +78299,8 @@ overcome sciatica lubricity rice mercury saturn
 1
 17 10
 2
-0 48 10 21
 0 45 2 1
+0 48 10 21
 1
 end_operator
 begin_operator
@@ -78308,8 +78308,8 @@ overcome sciatica lubricity rice saturn earth
 1
 17 10
 2
-0 48 10 21
 0 45 0 2
+0 48 10 21
 1
 end_operator
 begin_operator
@@ -78317,8 +78317,8 @@ overcome sciatica lubricity shrimp earth uranus
 1
 17 11
 2
-0 48 11 21
 0 45 3 0
+0 48 11 21
 1
 end_operator
 begin_operator
@@ -78326,8 +78326,8 @@ overcome sciatica lubricity shrimp mercury saturn
 1
 17 11
 2
-0 48 11 21
 0 45 2 1
+0 48 11 21
 1
 end_operator
 begin_operator
@@ -78335,8 +78335,8 @@ overcome sciatica lubricity shrimp saturn earth
 1
 17 11
 2
-0 48 11 21
 0 45 0 2
+0 48 11 21
 1
 end_operator
 begin_operator
@@ -78344,8 +78344,8 @@ overcome sciatica lubricity turkey earth uranus
 1
 17 12
 2
-0 48 12 21
 0 45 3 0
+0 48 12 21
 1
 end_operator
 begin_operator
@@ -78353,8 +78353,8 @@ overcome sciatica lubricity turkey mercury saturn
 1
 17 12
 2
-0 48 12 21
 0 45 2 1
+0 48 12 21
 1
 end_operator
 begin_operator
@@ -78362,8 +78362,8 @@ overcome sciatica lubricity turkey saturn earth
 1
 17 12
 2
-0 48 12 21
 0 45 0 2
+0 48 12 21
 1
 end_operator
 begin_operator
@@ -78371,8 +78371,8 @@ overcome sciatica lubricity wonderbread earth uranus
 1
 17 13
 2
-0 48 13 21
 0 45 3 0
+0 48 13 21
 1
 end_operator
 begin_operator
@@ -78380,8 +78380,8 @@ overcome sciatica lubricity wonderbread mercury saturn
 1
 17 13
 2
-0 48 13 21
 0 45 2 1
+0 48 13 21
 1
 end_operator
 begin_operator
@@ -78389,8 +78389,8 @@ overcome sciatica lubricity wonderbread saturn earth
 1
 17 13
 2
-0 48 13 21
 0 45 0 2
+0 48 13 21
 1
 end_operator
 begin_operator
@@ -78398,8 +78398,8 @@ overcome sciatica lubricity wurst earth uranus
 1
 17 14
 2
-0 48 14 21
 0 45 3 0
+0 48 14 21
 1
 end_operator
 begin_operator
@@ -78407,8 +78407,8 @@ overcome sciatica lubricity wurst mercury saturn
 1
 17 14
 2
-0 48 14 21
 0 45 2 1
+0 48 14 21
 1
 end_operator
 begin_operator
@@ -78416,8 +78416,8 @@ overcome sciatica lubricity wurst saturn earth
 1
 17 14
 2
-0 48 14 21
 0 45 0 2
+0 48 14 21
 1
 end_operator
 begin_operator
@@ -78425,8 +78425,8 @@ overcome sciatica lubricity yogurt earth uranus
 1
 17 15
 2
-0 48 15 21
 0 45 3 0
+0 48 15 21
 1
 end_operator
 begin_operator
@@ -78434,8 +78434,8 @@ overcome sciatica lubricity yogurt mercury saturn
 1
 17 15
 2
-0 48 15 21
 0 45 2 1
+0 48 15 21
 1
 end_operator
 begin_operator
@@ -78443,8 +78443,8 @@ overcome sciatica lubricity yogurt saturn earth
 1
 17 15
 2
-0 48 15 21
 0 45 0 2
+0 48 15 21
 1
 end_operator
 begin_operator
@@ -78452,8 +78452,8 @@ overcome sciatica rest arugula earth uranus
 1
 19 0
 2
-0 48 0 22
 0 46 3 0
+0 48 0 22
 1
 end_operator
 begin_operator
@@ -78461,8 +78461,8 @@ overcome sciatica rest arugula mercury saturn
 1
 19 0
 2
-0 48 0 22
 0 46 2 1
+0 48 0 22
 1
 end_operator
 begin_operator
@@ -78470,8 +78470,8 @@ overcome sciatica rest arugula saturn earth
 1
 19 0
 2
-0 48 0 22
 0 46 0 2
+0 48 0 22
 1
 end_operator
 begin_operator
@@ -78479,8 +78479,8 @@ overcome sciatica rest cherry earth uranus
 1
 19 1
 2
-0 48 1 22
 0 46 3 0
+0 48 1 22
 1
 end_operator
 begin_operator
@@ -78488,8 +78488,8 @@ overcome sciatica rest cherry mercury saturn
 1
 19 1
 2
-0 48 1 22
 0 46 2 1
+0 48 1 22
 1
 end_operator
 begin_operator
@@ -78497,8 +78497,8 @@ overcome sciatica rest cherry saturn earth
 1
 19 1
 2
-0 48 1 22
 0 46 0 2
+0 48 1 22
 1
 end_operator
 begin_operator
@@ -78506,8 +78506,8 @@ overcome sciatica rest endive earth uranus
 1
 19 2
 2
-0 48 2 22
 0 46 3 0
+0 48 2 22
 1
 end_operator
 begin_operator
@@ -78515,8 +78515,8 @@ overcome sciatica rest endive mercury saturn
 1
 19 2
 2
-0 48 2 22
 0 46 2 1
+0 48 2 22
 1
 end_operator
 begin_operator
@@ -78524,8 +78524,8 @@ overcome sciatica rest endive saturn earth
 1
 19 2
 2
-0 48 2 22
 0 46 0 2
+0 48 2 22
 1
 end_operator
 begin_operator
@@ -78533,8 +78533,8 @@ overcome sciatica rest ham earth uranus
 1
 19 3
 2
-0 48 3 22
 0 46 3 0
+0 48 3 22
 1
 end_operator
 begin_operator
@@ -78542,8 +78542,8 @@ overcome sciatica rest ham mercury saturn
 1
 19 3
 2
-0 48 3 22
 0 46 2 1
+0 48 3 22
 1
 end_operator
 begin_operator
@@ -78551,8 +78551,8 @@ overcome sciatica rest ham saturn earth
 1
 19 3
 2
-0 48 3 22
 0 46 0 2
+0 48 3 22
 1
 end_operator
 begin_operator
@@ -78560,8 +78560,8 @@ overcome sciatica rest haroset earth uranus
 1
 19 4
 2
-0 48 4 22
 0 46 3 0
+0 48 4 22
 1
 end_operator
 begin_operator
@@ -78569,8 +78569,8 @@ overcome sciatica rest haroset mercury saturn
 1
 19 4
 2
-0 48 4 22
 0 46 2 1
+0 48 4 22
 1
 end_operator
 begin_operator
@@ -78578,8 +78578,8 @@ overcome sciatica rest haroset saturn earth
 1
 19 4
 2
-0 48 4 22
 0 46 0 2
+0 48 4 22
 1
 end_operator
 begin_operator
@@ -78587,8 +78587,8 @@ overcome sciatica rest marzipan earth uranus
 1
 19 5
 2
-0 48 5 22
 0 46 3 0
+0 48 5 22
 1
 end_operator
 begin_operator
@@ -78596,8 +78596,8 @@ overcome sciatica rest marzipan mercury saturn
 1
 19 5
 2
-0 48 5 22
 0 46 2 1
+0 48 5 22
 1
 end_operator
 begin_operator
@@ -78605,8 +78605,8 @@ overcome sciatica rest marzipan saturn earth
 1
 19 5
 2
-0 48 5 22
 0 46 0 2
+0 48 5 22
 1
 end_operator
 begin_operator
@@ -78614,8 +78614,8 @@ overcome sciatica rest mutton earth uranus
 1
 19 6
 2
-0 48 6 22
 0 46 3 0
+0 48 6 22
 1
 end_operator
 begin_operator
@@ -78623,8 +78623,8 @@ overcome sciatica rest mutton mercury saturn
 1
 19 6
 2
-0 48 6 22
 0 46 2 1
+0 48 6 22
 1
 end_operator
 begin_operator
@@ -78632,8 +78632,8 @@ overcome sciatica rest mutton saturn earth
 1
 19 6
 2
-0 48 6 22
 0 46 0 2
+0 48 6 22
 1
 end_operator
 begin_operator
@@ -78641,8 +78641,8 @@ overcome sciatica rest onion earth uranus
 1
 19 7
 2
-0 48 7 22
 0 46 3 0
+0 48 7 22
 1
 end_operator
 begin_operator
@@ -78650,8 +78650,8 @@ overcome sciatica rest onion mercury saturn
 1
 19 7
 2
-0 48 7 22
 0 46 2 1
+0 48 7 22
 1
 end_operator
 begin_operator
@@ -78659,8 +78659,8 @@ overcome sciatica rest onion saturn earth
 1
 19 7
 2
-0 48 7 22
 0 46 0 2
+0 48 7 22
 1
 end_operator
 begin_operator
@@ -78668,8 +78668,8 @@ overcome sciatica rest papaya earth uranus
 1
 19 8
 2
-0 48 8 22
 0 46 3 0
+0 48 8 22
 1
 end_operator
 begin_operator
@@ -78677,8 +78677,8 @@ overcome sciatica rest papaya mercury saturn
 1
 19 8
 2
-0 48 8 22
 0 46 2 1
+0 48 8 22
 1
 end_operator
 begin_operator
@@ -78686,8 +78686,8 @@ overcome sciatica rest papaya saturn earth
 1
 19 8
 2
-0 48 8 22
 0 46 0 2
+0 48 8 22
 1
 end_operator
 begin_operator
@@ -78695,8 +78695,8 @@ overcome sciatica rest potato earth uranus
 1
 19 9
 2
-0 48 9 22
 0 46 3 0
+0 48 9 22
 1
 end_operator
 begin_operator
@@ -78704,8 +78704,8 @@ overcome sciatica rest potato mercury saturn
 1
 19 9
 2
-0 48 9 22
 0 46 2 1
+0 48 9 22
 1
 end_operator
 begin_operator
@@ -78713,8 +78713,8 @@ overcome sciatica rest potato saturn earth
 1
 19 9
 2
-0 48 9 22
 0 46 0 2
+0 48 9 22
 1
 end_operator
 begin_operator
@@ -78722,8 +78722,8 @@ overcome sciatica rest rice earth uranus
 1
 19 10
 2
-0 48 10 22
 0 46 3 0
+0 48 10 22
 1
 end_operator
 begin_operator
@@ -78731,8 +78731,8 @@ overcome sciatica rest rice mercury saturn
 1
 19 10
 2
-0 48 10 22
 0 46 2 1
+0 48 10 22
 1
 end_operator
 begin_operator
@@ -78740,8 +78740,8 @@ overcome sciatica rest rice saturn earth
 1
 19 10
 2
-0 48 10 22
 0 46 0 2
+0 48 10 22
 1
 end_operator
 begin_operator
@@ -78749,8 +78749,8 @@ overcome sciatica rest shrimp earth uranus
 1
 19 11
 2
-0 48 11 22
 0 46 3 0
+0 48 11 22
 1
 end_operator
 begin_operator
@@ -78758,8 +78758,8 @@ overcome sciatica rest shrimp mercury saturn
 1
 19 11
 2
-0 48 11 22
 0 46 2 1
+0 48 11 22
 1
 end_operator
 begin_operator
@@ -78767,8 +78767,8 @@ overcome sciatica rest shrimp saturn earth
 1
 19 11
 2
-0 48 11 22
 0 46 0 2
+0 48 11 22
 1
 end_operator
 begin_operator
@@ -78776,8 +78776,8 @@ overcome sciatica rest turkey earth uranus
 1
 19 12
 2
-0 48 12 22
 0 46 3 0
+0 48 12 22
 1
 end_operator
 begin_operator
@@ -78785,8 +78785,8 @@ overcome sciatica rest turkey mercury saturn
 1
 19 12
 2
-0 48 12 22
 0 46 2 1
+0 48 12 22
 1
 end_operator
 begin_operator
@@ -78794,8 +78794,8 @@ overcome sciatica rest turkey saturn earth
 1
 19 12
 2
-0 48 12 22
 0 46 0 2
+0 48 12 22
 1
 end_operator
 begin_operator
@@ -78803,8 +78803,8 @@ overcome sciatica rest wonderbread earth uranus
 1
 19 13
 2
-0 48 13 22
 0 46 3 0
+0 48 13 22
 1
 end_operator
 begin_operator
@@ -78812,8 +78812,8 @@ overcome sciatica rest wonderbread mercury saturn
 1
 19 13
 2
-0 48 13 22
 0 46 2 1
+0 48 13 22
 1
 end_operator
 begin_operator
@@ -78821,8 +78821,8 @@ overcome sciatica rest wonderbread saturn earth
 1
 19 13
 2
-0 48 13 22
 0 46 0 2
+0 48 13 22
 1
 end_operator
 begin_operator
@@ -78830,8 +78830,8 @@ overcome sciatica rest wurst earth uranus
 1
 19 14
 2
-0 48 14 22
 0 46 3 0
+0 48 14 22
 1
 end_operator
 begin_operator
@@ -78839,8 +78839,8 @@ overcome sciatica rest wurst mercury saturn
 1
 19 14
 2
-0 48 14 22
 0 46 2 1
+0 48 14 22
 1
 end_operator
 begin_operator
@@ -78848,8 +78848,8 @@ overcome sciatica rest wurst saturn earth
 1
 19 14
 2
-0 48 14 22
 0 46 0 2
+0 48 14 22
 1
 end_operator
 begin_operator
@@ -78857,8 +78857,8 @@ overcome sciatica rest yogurt earth uranus
 1
 19 15
 2
-0 48 15 22
 0 46 3 0
+0 48 15 22
 1
 end_operator
 begin_operator
@@ -78866,8 +78866,8 @@ overcome sciatica rest yogurt mercury saturn
 1
 19 15
 2
-0 48 15 22
 0 46 2 1
+0 48 15 22
 1
 end_operator
 begin_operator
@@ -78875,8 +78875,8 @@ overcome sciatica rest yogurt saturn earth
 1
 19 15
 2
-0 48 15 22
 0 46 0 2
+0 48 15 22
 1
 end_operator
 begin_operator
@@ -79748,8 +79748,8 @@ succumb abrasion achievement arugula earth uranus
 1
 9 0
 2
-0 51 16 0
 0 37 0 3
+0 51 16 0
 1
 end_operator
 begin_operator
@@ -79757,8 +79757,8 @@ succumb abrasion achievement arugula mercury saturn
 1
 9 0
 2
-0 51 16 0
 0 37 1 2
+0 51 16 0
 1
 end_operator
 begin_operator
@@ -79766,8 +79766,8 @@ succumb abrasion achievement arugula saturn earth
 1
 9 0
 2
-0 51 16 0
 0 37 2 0
+0 51 16 0
 1
 end_operator
 begin_operator
@@ -79775,8 +79775,8 @@ succumb abrasion achievement cherry earth uranus
 1
 9 1
 2
-0 51 16 1
 0 37 0 3
+0 51 16 1
 1
 end_operator
 begin_operator
@@ -79784,8 +79784,8 @@ succumb abrasion achievement cherry mercury saturn
 1
 9 1
 2
-0 51 16 1
 0 37 1 2
+0 51 16 1
 1
 end_operator
 begin_operator
@@ -79793,8 +79793,8 @@ succumb abrasion achievement cherry saturn earth
 1
 9 1
 2
-0 51 16 1
 0 37 2 0
+0 51 16 1
 1
 end_operator
 begin_operator
@@ -79802,8 +79802,8 @@ succumb abrasion achievement endive earth uranus
 1
 9 2
 2
-0 51 16 2
 0 37 0 3
+0 51 16 2
 1
 end_operator
 begin_operator
@@ -79811,8 +79811,8 @@ succumb abrasion achievement endive mercury saturn
 1
 9 2
 2
-0 51 16 2
 0 37 1 2
+0 51 16 2
 1
 end_operator
 begin_operator
@@ -79820,8 +79820,8 @@ succumb abrasion achievement endive saturn earth
 1
 9 2
 2
-0 51 16 2
 0 37 2 0
+0 51 16 2
 1
 end_operator
 begin_operator
@@ -79829,8 +79829,8 @@ succumb abrasion achievement ham earth uranus
 1
 9 3
 2
-0 51 16 3
 0 37 0 3
+0 51 16 3
 1
 end_operator
 begin_operator
@@ -79838,8 +79838,8 @@ succumb abrasion achievement ham mercury saturn
 1
 9 3
 2
-0 51 16 3
 0 37 1 2
+0 51 16 3
 1
 end_operator
 begin_operator
@@ -79847,8 +79847,8 @@ succumb abrasion achievement ham saturn earth
 1
 9 3
 2
-0 51 16 3
 0 37 2 0
+0 51 16 3
 1
 end_operator
 begin_operator
@@ -79856,8 +79856,8 @@ succumb abrasion achievement haroset earth uranus
 1
 9 4
 2
-0 51 16 4
 0 37 0 3
+0 51 16 4
 1
 end_operator
 begin_operator
@@ -79865,8 +79865,8 @@ succumb abrasion achievement haroset mercury saturn
 1
 9 4
 2
-0 51 16 4
 0 37 1 2
+0 51 16 4
 1
 end_operator
 begin_operator
@@ -79874,8 +79874,8 @@ succumb abrasion achievement haroset saturn earth
 1
 9 4
 2
-0 51 16 4
 0 37 2 0
+0 51 16 4
 1
 end_operator
 begin_operator
@@ -79883,8 +79883,8 @@ succumb abrasion achievement marzipan earth uranus
 1
 9 5
 2
-0 51 16 5
 0 37 0 3
+0 51 16 5
 1
 end_operator
 begin_operator
@@ -79892,8 +79892,8 @@ succumb abrasion achievement marzipan mercury saturn
 1
 9 5
 2
-0 51 16 5
 0 37 1 2
+0 51 16 5
 1
 end_operator
 begin_operator
@@ -79901,8 +79901,8 @@ succumb abrasion achievement marzipan saturn earth
 1
 9 5
 2
-0 51 16 5
 0 37 2 0
+0 51 16 5
 1
 end_operator
 begin_operator
@@ -79910,8 +79910,8 @@ succumb abrasion achievement mutton earth uranus
 1
 9 6
 2
-0 51 16 6
 0 37 0 3
+0 51 16 6
 1
 end_operator
 begin_operator
@@ -79919,8 +79919,8 @@ succumb abrasion achievement mutton mercury saturn
 1
 9 6
 2
-0 51 16 6
 0 37 1 2
+0 51 16 6
 1
 end_operator
 begin_operator
@@ -79928,8 +79928,8 @@ succumb abrasion achievement mutton saturn earth
 1
 9 6
 2
-0 51 16 6
 0 37 2 0
+0 51 16 6
 1
 end_operator
 begin_operator
@@ -79937,8 +79937,8 @@ succumb abrasion achievement onion earth uranus
 1
 9 7
 2
-0 51 16 7
 0 37 0 3
+0 51 16 7
 1
 end_operator
 begin_operator
@@ -79946,8 +79946,8 @@ succumb abrasion achievement onion mercury saturn
 1
 9 7
 2
-0 51 16 7
 0 37 1 2
+0 51 16 7
 1
 end_operator
 begin_operator
@@ -79955,8 +79955,8 @@ succumb abrasion achievement onion saturn earth
 1
 9 7
 2
-0 51 16 7
 0 37 2 0
+0 51 16 7
 1
 end_operator
 begin_operator
@@ -79964,8 +79964,8 @@ succumb abrasion achievement papaya earth uranus
 1
 9 8
 2
-0 51 16 8
 0 37 0 3
+0 51 16 8
 1
 end_operator
 begin_operator
@@ -79973,8 +79973,8 @@ succumb abrasion achievement papaya mercury saturn
 1
 9 8
 2
-0 51 16 8
 0 37 1 2
+0 51 16 8
 1
 end_operator
 begin_operator
@@ -79982,8 +79982,8 @@ succumb abrasion achievement papaya saturn earth
 1
 9 8
 2
-0 51 16 8
 0 37 2 0
+0 51 16 8
 1
 end_operator
 begin_operator
@@ -79991,8 +79991,8 @@ succumb abrasion achievement potato earth uranus
 1
 9 9
 2
-0 51 16 9
 0 37 0 3
+0 51 16 9
 1
 end_operator
 begin_operator
@@ -80000,8 +80000,8 @@ succumb abrasion achievement potato mercury saturn
 1
 9 9
 2
-0 51 16 9
 0 37 1 2
+0 51 16 9
 1
 end_operator
 begin_operator
@@ -80009,8 +80009,8 @@ succumb abrasion achievement potato saturn earth
 1
 9 9
 2
-0 51 16 9
 0 37 2 0
+0 51 16 9
 1
 end_operator
 begin_operator
@@ -80018,8 +80018,8 @@ succumb abrasion achievement rice earth uranus
 1
 9 10
 2
-0 51 16 10
 0 37 0 3
+0 51 16 10
 1
 end_operator
 begin_operator
@@ -80027,8 +80027,8 @@ succumb abrasion achievement rice mercury saturn
 1
 9 10
 2
-0 51 16 10
 0 37 1 2
+0 51 16 10
 1
 end_operator
 begin_operator
@@ -80036,8 +80036,8 @@ succumb abrasion achievement rice saturn earth
 1
 9 10
 2
-0 51 16 10
 0 37 2 0
+0 51 16 10
 1
 end_operator
 begin_operator
@@ -80045,8 +80045,8 @@ succumb abrasion achievement shrimp earth uranus
 1
 9 11
 2
-0 51 16 11
 0 37 0 3
+0 51 16 11
 1
 end_operator
 begin_operator
@@ -80054,8 +80054,8 @@ succumb abrasion achievement shrimp mercury saturn
 1
 9 11
 2
-0 51 16 11
 0 37 1 2
+0 51 16 11
 1
 end_operator
 begin_operator
@@ -80063,8 +80063,8 @@ succumb abrasion achievement shrimp saturn earth
 1
 9 11
 2
-0 51 16 11
 0 37 2 0
+0 51 16 11
 1
 end_operator
 begin_operator
@@ -80072,8 +80072,8 @@ succumb abrasion achievement turkey earth uranus
 1
 9 12
 2
-0 51 16 12
 0 37 0 3
+0 51 16 12
 1
 end_operator
 begin_operator
@@ -80081,8 +80081,8 @@ succumb abrasion achievement turkey mercury saturn
 1
 9 12
 2
-0 51 16 12
 0 37 1 2
+0 51 16 12
 1
 end_operator
 begin_operator
@@ -80090,8 +80090,8 @@ succumb abrasion achievement turkey saturn earth
 1
 9 12
 2
-0 51 16 12
 0 37 2 0
+0 51 16 12
 1
 end_operator
 begin_operator
@@ -80099,8 +80099,8 @@ succumb abrasion achievement wonderbread earth uranus
 1
 9 13
 2
-0 51 16 13
 0 37 0 3
+0 51 16 13
 1
 end_operator
 begin_operator
@@ -80108,8 +80108,8 @@ succumb abrasion achievement wonderbread mercury saturn
 1
 9 13
 2
-0 51 16 13
 0 37 1 2
+0 51 16 13
 1
 end_operator
 begin_operator
@@ -80117,8 +80117,8 @@ succumb abrasion achievement wonderbread saturn earth
 1
 9 13
 2
-0 51 16 13
 0 37 2 0
+0 51 16 13
 1
 end_operator
 begin_operator
@@ -80126,8 +80126,8 @@ succumb abrasion achievement wurst earth uranus
 1
 9 14
 2
-0 51 16 14
 0 37 0 3
+0 51 16 14
 1
 end_operator
 begin_operator
@@ -80135,8 +80135,8 @@ succumb abrasion achievement wurst mercury saturn
 1
 9 14
 2
-0 51 16 14
 0 37 1 2
+0 51 16 14
 1
 end_operator
 begin_operator
@@ -80144,8 +80144,8 @@ succumb abrasion achievement wurst saturn earth
 1
 9 14
 2
-0 51 16 14
 0 37 2 0
+0 51 16 14
 1
 end_operator
 begin_operator
@@ -80153,8 +80153,8 @@ succumb abrasion achievement yogurt earth uranus
 1
 9 15
 2
-0 51 16 15
 0 37 0 3
+0 51 16 15
 1
 end_operator
 begin_operator
@@ -80162,8 +80162,8 @@ succumb abrasion achievement yogurt mercury saturn
 1
 9 15
 2
-0 51 16 15
 0 37 1 2
+0 51 16 15
 1
 end_operator
 begin_operator
@@ -80171,32 +80171,32 @@ succumb abrasion achievement yogurt saturn earth
 1
 9 15
 2
-0 51 16 15
 0 37 2 0
+0 51 16 15
 1
 end_operator
 begin_operator
 succumb abrasion entertainment wurst earth uranus
 0
 2
-0 51 17 14
 0 23 0 3
+0 51 17 14
 1
 end_operator
 begin_operator
 succumb abrasion entertainment wurst mercury saturn
 0
 2
-0 51 17 14
 0 23 1 2
+0 51 17 14
 1
 end_operator
 begin_operator
 succumb abrasion entertainment wurst saturn earth
 0
 2
-0 51 17 14
 0 23 2 0
+0 51 17 14
 1
 end_operator
 begin_operator
@@ -80204,8 +80204,8 @@ succumb abrasion excitement arugula earth uranus
 1
 11 0
 2
-0 51 18 0
 0 38 0 3
+0 51 18 0
 1
 end_operator
 begin_operator
@@ -80213,8 +80213,8 @@ succumb abrasion excitement arugula mercury saturn
 1
 11 0
 2
-0 51 18 0
 0 38 1 2
+0 51 18 0
 1
 end_operator
 begin_operator
@@ -80222,8 +80222,8 @@ succumb abrasion excitement arugula saturn earth
 1
 11 0
 2
-0 51 18 0
 0 38 2 0
+0 51 18 0
 1
 end_operator
 begin_operator
@@ -80231,8 +80231,8 @@ succumb abrasion excitement cherry earth uranus
 1
 11 1
 2
-0 51 18 1
 0 38 0 3
+0 51 18 1
 1
 end_operator
 begin_operator
@@ -80240,8 +80240,8 @@ succumb abrasion excitement cherry mercury saturn
 1
 11 1
 2
-0 51 18 1
 0 38 1 2
+0 51 18 1
 1
 end_operator
 begin_operator
@@ -80249,8 +80249,8 @@ succumb abrasion excitement cherry saturn earth
 1
 11 1
 2
-0 51 18 1
 0 38 2 0
+0 51 18 1
 1
 end_operator
 begin_operator
@@ -80258,8 +80258,8 @@ succumb abrasion excitement endive earth uranus
 1
 11 2
 2
-0 51 18 2
 0 38 0 3
+0 51 18 2
 1
 end_operator
 begin_operator
@@ -80267,8 +80267,8 @@ succumb abrasion excitement endive mercury saturn
 1
 11 2
 2
-0 51 18 2
 0 38 1 2
+0 51 18 2
 1
 end_operator
 begin_operator
@@ -80276,8 +80276,8 @@ succumb abrasion excitement endive saturn earth
 1
 11 2
 2
-0 51 18 2
 0 38 2 0
+0 51 18 2
 1
 end_operator
 begin_operator
@@ -80285,8 +80285,8 @@ succumb abrasion excitement ham earth uranus
 1
 11 3
 2
-0 51 18 3
 0 38 0 3
+0 51 18 3
 1
 end_operator
 begin_operator
@@ -80294,8 +80294,8 @@ succumb abrasion excitement ham mercury saturn
 1
 11 3
 2
-0 51 18 3
 0 38 1 2
+0 51 18 3
 1
 end_operator
 begin_operator
@@ -80303,8 +80303,8 @@ succumb abrasion excitement ham saturn earth
 1
 11 3
 2
-0 51 18 3
 0 38 2 0
+0 51 18 3
 1
 end_operator
 begin_operator
@@ -80312,8 +80312,8 @@ succumb abrasion excitement haroset earth uranus
 1
 11 4
 2
-0 51 18 4
 0 38 0 3
+0 51 18 4
 1
 end_operator
 begin_operator
@@ -80321,8 +80321,8 @@ succumb abrasion excitement haroset mercury saturn
 1
 11 4
 2
-0 51 18 4
 0 38 1 2
+0 51 18 4
 1
 end_operator
 begin_operator
@@ -80330,8 +80330,8 @@ succumb abrasion excitement haroset saturn earth
 1
 11 4
 2
-0 51 18 4
 0 38 2 0
+0 51 18 4
 1
 end_operator
 begin_operator
@@ -80339,8 +80339,8 @@ succumb abrasion excitement marzipan earth uranus
 1
 11 5
 2
-0 51 18 5
 0 38 0 3
+0 51 18 5
 1
 end_operator
 begin_operator
@@ -80348,8 +80348,8 @@ succumb abrasion excitement marzipan mercury saturn
 1
 11 5
 2
-0 51 18 5
 0 38 1 2
+0 51 18 5
 1
 end_operator
 begin_operator
@@ -80357,8 +80357,8 @@ succumb abrasion excitement marzipan saturn earth
 1
 11 5
 2
-0 51 18 5
 0 38 2 0
+0 51 18 5
 1
 end_operator
 begin_operator
@@ -80366,8 +80366,8 @@ succumb abrasion excitement mutton earth uranus
 1
 11 6
 2
-0 51 18 6
 0 38 0 3
+0 51 18 6
 1
 end_operator
 begin_operator
@@ -80375,8 +80375,8 @@ succumb abrasion excitement mutton mercury saturn
 1
 11 6
 2
-0 51 18 6
 0 38 1 2
+0 51 18 6
 1
 end_operator
 begin_operator
@@ -80384,8 +80384,8 @@ succumb abrasion excitement mutton saturn earth
 1
 11 6
 2
-0 51 18 6
 0 38 2 0
+0 51 18 6
 1
 end_operator
 begin_operator
@@ -80393,8 +80393,8 @@ succumb abrasion excitement onion earth uranus
 1
 11 7
 2
-0 51 18 7
 0 38 0 3
+0 51 18 7
 1
 end_operator
 begin_operator
@@ -80402,8 +80402,8 @@ succumb abrasion excitement onion mercury saturn
 1
 11 7
 2
-0 51 18 7
 0 38 1 2
+0 51 18 7
 1
 end_operator
 begin_operator
@@ -80411,8 +80411,8 @@ succumb abrasion excitement onion saturn earth
 1
 11 7
 2
-0 51 18 7
 0 38 2 0
+0 51 18 7
 1
 end_operator
 begin_operator
@@ -80420,8 +80420,8 @@ succumb abrasion excitement papaya earth uranus
 1
 11 8
 2
-0 51 18 8
 0 38 0 3
+0 51 18 8
 1
 end_operator
 begin_operator
@@ -80429,8 +80429,8 @@ succumb abrasion excitement papaya mercury saturn
 1
 11 8
 2
-0 51 18 8
 0 38 1 2
+0 51 18 8
 1
 end_operator
 begin_operator
@@ -80438,8 +80438,8 @@ succumb abrasion excitement papaya saturn earth
 1
 11 8
 2
-0 51 18 8
 0 38 2 0
+0 51 18 8
 1
 end_operator
 begin_operator
@@ -80447,8 +80447,8 @@ succumb abrasion excitement potato earth uranus
 1
 11 9
 2
-0 51 18 9
 0 38 0 3
+0 51 18 9
 1
 end_operator
 begin_operator
@@ -80456,8 +80456,8 @@ succumb abrasion excitement potato mercury saturn
 1
 11 9
 2
-0 51 18 9
 0 38 1 2
+0 51 18 9
 1
 end_operator
 begin_operator
@@ -80465,8 +80465,8 @@ succumb abrasion excitement potato saturn earth
 1
 11 9
 2
-0 51 18 9
 0 38 2 0
+0 51 18 9
 1
 end_operator
 begin_operator
@@ -80474,8 +80474,8 @@ succumb abrasion excitement rice earth uranus
 1
 11 10
 2
-0 51 18 10
 0 38 0 3
+0 51 18 10
 1
 end_operator
 begin_operator
@@ -80483,8 +80483,8 @@ succumb abrasion excitement rice mercury saturn
 1
 11 10
 2
-0 51 18 10
 0 38 1 2
+0 51 18 10
 1
 end_operator
 begin_operator
@@ -80492,8 +80492,8 @@ succumb abrasion excitement rice saturn earth
 1
 11 10
 2
-0 51 18 10
 0 38 2 0
+0 51 18 10
 1
 end_operator
 begin_operator
@@ -80501,8 +80501,8 @@ succumb abrasion excitement shrimp earth uranus
 1
 11 11
 2
-0 51 18 11
 0 38 0 3
+0 51 18 11
 1
 end_operator
 begin_operator
@@ -80510,8 +80510,8 @@ succumb abrasion excitement shrimp mercury saturn
 1
 11 11
 2
-0 51 18 11
 0 38 1 2
+0 51 18 11
 1
 end_operator
 begin_operator
@@ -80519,8 +80519,8 @@ succumb abrasion excitement shrimp saturn earth
 1
 11 11
 2
-0 51 18 11
 0 38 2 0
+0 51 18 11
 1
 end_operator
 begin_operator
@@ -80528,8 +80528,8 @@ succumb abrasion excitement turkey earth uranus
 1
 11 12
 2
-0 51 18 12
 0 38 0 3
+0 51 18 12
 1
 end_operator
 begin_operator
@@ -80537,8 +80537,8 @@ succumb abrasion excitement turkey mercury saturn
 1
 11 12
 2
-0 51 18 12
 0 38 1 2
+0 51 18 12
 1
 end_operator
 begin_operator
@@ -80546,8 +80546,8 @@ succumb abrasion excitement turkey saturn earth
 1
 11 12
 2
-0 51 18 12
 0 38 2 0
+0 51 18 12
 1
 end_operator
 begin_operator
@@ -80555,8 +80555,8 @@ succumb abrasion excitement wonderbread earth uranus
 1
 11 13
 2
-0 51 18 13
 0 38 0 3
+0 51 18 13
 1
 end_operator
 begin_operator
@@ -80564,8 +80564,8 @@ succumb abrasion excitement wonderbread mercury saturn
 1
 11 13
 2
-0 51 18 13
 0 38 1 2
+0 51 18 13
 1
 end_operator
 begin_operator
@@ -80573,8 +80573,8 @@ succumb abrasion excitement wonderbread saturn earth
 1
 11 13
 2
-0 51 18 13
 0 38 2 0
+0 51 18 13
 1
 end_operator
 begin_operator
@@ -80582,8 +80582,8 @@ succumb abrasion excitement wurst earth uranus
 1
 11 14
 2
-0 51 18 14
 0 38 0 3
+0 51 18 14
 1
 end_operator
 begin_operator
@@ -80591,8 +80591,8 @@ succumb abrasion excitement wurst mercury saturn
 1
 11 14
 2
-0 51 18 14
 0 38 1 2
+0 51 18 14
 1
 end_operator
 begin_operator
@@ -80600,8 +80600,8 @@ succumb abrasion excitement wurst saturn earth
 1
 11 14
 2
-0 51 18 14
 0 38 2 0
+0 51 18 14
 1
 end_operator
 begin_operator
@@ -80609,8 +80609,8 @@ succumb abrasion excitement yogurt earth uranus
 1
 11 15
 2
-0 51 18 15
 0 38 0 3
+0 51 18 15
 1
 end_operator
 begin_operator
@@ -80618,8 +80618,8 @@ succumb abrasion excitement yogurt mercury saturn
 1
 11 15
 2
-0 51 18 15
 0 38 1 2
+0 51 18 15
 1
 end_operator
 begin_operator
@@ -80627,8 +80627,8 @@ succumb abrasion excitement yogurt saturn earth
 1
 11 15
 2
-0 51 18 15
 0 38 2 0
+0 51 18 15
 1
 end_operator
 begin_operator
@@ -80636,8 +80636,8 @@ succumb abrasion intoxication arugula earth uranus
 1
 13 0
 2
-0 51 19 0
 0 41 0 3
+0 51 19 0
 1
 end_operator
 begin_operator
@@ -80645,8 +80645,8 @@ succumb abrasion intoxication arugula mercury saturn
 1
 13 0
 2
-0 51 19 0
 0 41 1 2
+0 51 19 0
 1
 end_operator
 begin_operator
@@ -80654,8 +80654,8 @@ succumb abrasion intoxication arugula saturn earth
 1
 13 0
 2
-0 51 19 0
 0 41 2 0
+0 51 19 0
 1
 end_operator
 begin_operator
@@ -80663,8 +80663,8 @@ succumb abrasion intoxication cherry earth uranus
 1
 13 1
 2
-0 51 19 1
 0 41 0 3
+0 51 19 1
 1
 end_operator
 begin_operator
@@ -80672,8 +80672,8 @@ succumb abrasion intoxication cherry mercury saturn
 1
 13 1
 2
-0 51 19 1
 0 41 1 2
+0 51 19 1
 1
 end_operator
 begin_operator
@@ -80681,8 +80681,8 @@ succumb abrasion intoxication cherry saturn earth
 1
 13 1
 2
-0 51 19 1
 0 41 2 0
+0 51 19 1
 1
 end_operator
 begin_operator
@@ -80690,8 +80690,8 @@ succumb abrasion intoxication endive earth uranus
 1
 13 2
 2
-0 51 19 2
 0 41 0 3
+0 51 19 2
 1
 end_operator
 begin_operator
@@ -80699,8 +80699,8 @@ succumb abrasion intoxication endive mercury saturn
 1
 13 2
 2
-0 51 19 2
 0 41 1 2
+0 51 19 2
 1
 end_operator
 begin_operator
@@ -80708,8 +80708,8 @@ succumb abrasion intoxication endive saturn earth
 1
 13 2
 2
-0 51 19 2
 0 41 2 0
+0 51 19 2
 1
 end_operator
 begin_operator
@@ -80717,8 +80717,8 @@ succumb abrasion intoxication ham earth uranus
 1
 13 3
 2
-0 51 19 3
 0 41 0 3
+0 51 19 3
 1
 end_operator
 begin_operator
@@ -80726,8 +80726,8 @@ succumb abrasion intoxication ham mercury saturn
 1
 13 3
 2
-0 51 19 3
 0 41 1 2
+0 51 19 3
 1
 end_operator
 begin_operator
@@ -80735,8 +80735,8 @@ succumb abrasion intoxication ham saturn earth
 1
 13 3
 2
-0 51 19 3
 0 41 2 0
+0 51 19 3
 1
 end_operator
 begin_operator
@@ -80744,8 +80744,8 @@ succumb abrasion intoxication haroset earth uranus
 1
 13 4
 2
-0 51 19 4
 0 41 0 3
+0 51 19 4
 1
 end_operator
 begin_operator
@@ -80753,8 +80753,8 @@ succumb abrasion intoxication haroset mercury saturn
 1
 13 4
 2
-0 51 19 4
 0 41 1 2
+0 51 19 4
 1
 end_operator
 begin_operator
@@ -80762,8 +80762,8 @@ succumb abrasion intoxication haroset saturn earth
 1
 13 4
 2
-0 51 19 4
 0 41 2 0
+0 51 19 4
 1
 end_operator
 begin_operator
@@ -80771,8 +80771,8 @@ succumb abrasion intoxication marzipan earth uranus
 1
 13 5
 2
-0 51 19 5
 0 41 0 3
+0 51 19 5
 1
 end_operator
 begin_operator
@@ -80780,8 +80780,8 @@ succumb abrasion intoxication marzipan mercury saturn
 1
 13 5
 2
-0 51 19 5
 0 41 1 2
+0 51 19 5
 1
 end_operator
 begin_operator
@@ -80789,8 +80789,8 @@ succumb abrasion intoxication marzipan saturn earth
 1
 13 5
 2
-0 51 19 5
 0 41 2 0
+0 51 19 5
 1
 end_operator
 begin_operator
@@ -80798,8 +80798,8 @@ succumb abrasion intoxication mutton earth uranus
 1
 13 6
 2
-0 51 19 6
 0 41 0 3
+0 51 19 6
 1
 end_operator
 begin_operator
@@ -80807,8 +80807,8 @@ succumb abrasion intoxication mutton mercury saturn
 1
 13 6
 2
-0 51 19 6
 0 41 1 2
+0 51 19 6
 1
 end_operator
 begin_operator
@@ -80816,8 +80816,8 @@ succumb abrasion intoxication mutton saturn earth
 1
 13 6
 2
-0 51 19 6
 0 41 2 0
+0 51 19 6
 1
 end_operator
 begin_operator
@@ -80825,8 +80825,8 @@ succumb abrasion intoxication onion earth uranus
 1
 13 7
 2
-0 51 19 7
 0 41 0 3
+0 51 19 7
 1
 end_operator
 begin_operator
@@ -80834,8 +80834,8 @@ succumb abrasion intoxication onion mercury saturn
 1
 13 7
 2
-0 51 19 7
 0 41 1 2
+0 51 19 7
 1
 end_operator
 begin_operator
@@ -80843,8 +80843,8 @@ succumb abrasion intoxication onion saturn earth
 1
 13 7
 2
-0 51 19 7
 0 41 2 0
+0 51 19 7
 1
 end_operator
 begin_operator
@@ -80852,8 +80852,8 @@ succumb abrasion intoxication papaya earth uranus
 1
 13 8
 2
-0 51 19 8
 0 41 0 3
+0 51 19 8
 1
 end_operator
 begin_operator
@@ -80861,8 +80861,8 @@ succumb abrasion intoxication papaya mercury saturn
 1
 13 8
 2
-0 51 19 8
 0 41 1 2
+0 51 19 8
 1
 end_operator
 begin_operator
@@ -80870,8 +80870,8 @@ succumb abrasion intoxication papaya saturn earth
 1
 13 8
 2
-0 51 19 8
 0 41 2 0
+0 51 19 8
 1
 end_operator
 begin_operator
@@ -80879,8 +80879,8 @@ succumb abrasion intoxication potato earth uranus
 1
 13 9
 2
-0 51 19 9
 0 41 0 3
+0 51 19 9
 1
 end_operator
 begin_operator
@@ -80888,8 +80888,8 @@ succumb abrasion intoxication potato mercury saturn
 1
 13 9
 2
-0 51 19 9
 0 41 1 2
+0 51 19 9
 1
 end_operator
 begin_operator
@@ -80897,8 +80897,8 @@ succumb abrasion intoxication potato saturn earth
 1
 13 9
 2
-0 51 19 9
 0 41 2 0
+0 51 19 9
 1
 end_operator
 begin_operator
@@ -80906,8 +80906,8 @@ succumb abrasion intoxication rice earth uranus
 1
 13 10
 2
-0 51 19 10
 0 41 0 3
+0 51 19 10
 1
 end_operator
 begin_operator
@@ -80915,8 +80915,8 @@ succumb abrasion intoxication rice mercury saturn
 1
 13 10
 2
-0 51 19 10
 0 41 1 2
+0 51 19 10
 1
 end_operator
 begin_operator
@@ -80924,8 +80924,8 @@ succumb abrasion intoxication rice saturn earth
 1
 13 10
 2
-0 51 19 10
 0 41 2 0
+0 51 19 10
 1
 end_operator
 begin_operator
@@ -80933,8 +80933,8 @@ succumb abrasion intoxication shrimp earth uranus
 1
 13 11
 2
-0 51 19 11
 0 41 0 3
+0 51 19 11
 1
 end_operator
 begin_operator
@@ -80942,8 +80942,8 @@ succumb abrasion intoxication shrimp mercury saturn
 1
 13 11
 2
-0 51 19 11
 0 41 1 2
+0 51 19 11
 1
 end_operator
 begin_operator
@@ -80951,8 +80951,8 @@ succumb abrasion intoxication shrimp saturn earth
 1
 13 11
 2
-0 51 19 11
 0 41 2 0
+0 51 19 11
 1
 end_operator
 begin_operator
@@ -80960,8 +80960,8 @@ succumb abrasion intoxication turkey earth uranus
 1
 13 12
 2
-0 51 19 12
 0 41 0 3
+0 51 19 12
 1
 end_operator
 begin_operator
@@ -80969,8 +80969,8 @@ succumb abrasion intoxication turkey mercury saturn
 1
 13 12
 2
-0 51 19 12
 0 41 1 2
+0 51 19 12
 1
 end_operator
 begin_operator
@@ -80978,8 +80978,8 @@ succumb abrasion intoxication turkey saturn earth
 1
 13 12
 2
-0 51 19 12
 0 41 2 0
+0 51 19 12
 1
 end_operator
 begin_operator
@@ -80987,8 +80987,8 @@ succumb abrasion intoxication wonderbread earth uranus
 1
 13 13
 2
-0 51 19 13
 0 41 0 3
+0 51 19 13
 1
 end_operator
 begin_operator
@@ -80996,8 +80996,8 @@ succumb abrasion intoxication wonderbread mercury saturn
 1
 13 13
 2
-0 51 19 13
 0 41 1 2
+0 51 19 13
 1
 end_operator
 begin_operator
@@ -81005,8 +81005,8 @@ succumb abrasion intoxication wonderbread saturn earth
 1
 13 13
 2
-0 51 19 13
 0 41 2 0
+0 51 19 13
 1
 end_operator
 begin_operator
@@ -81014,8 +81014,8 @@ succumb abrasion intoxication wurst earth uranus
 1
 13 14
 2
-0 51 19 14
 0 41 0 3
+0 51 19 14
 1
 end_operator
 begin_operator
@@ -81023,8 +81023,8 @@ succumb abrasion intoxication wurst mercury saturn
 1
 13 14
 2
-0 51 19 14
 0 41 1 2
+0 51 19 14
 1
 end_operator
 begin_operator
@@ -81032,8 +81032,8 @@ succumb abrasion intoxication wurst saturn earth
 1
 13 14
 2
-0 51 19 14
 0 41 2 0
+0 51 19 14
 1
 end_operator
 begin_operator
@@ -81041,8 +81041,8 @@ succumb abrasion intoxication yogurt earth uranus
 1
 13 15
 2
-0 51 19 15
 0 41 0 3
+0 51 19 15
 1
 end_operator
 begin_operator
@@ -81050,8 +81050,8 @@ succumb abrasion intoxication yogurt mercury saturn
 1
 13 15
 2
-0 51 19 15
 0 41 1 2
+0 51 19 15
 1
 end_operator
 begin_operator
@@ -81059,8 +81059,8 @@ succumb abrasion intoxication yogurt saturn earth
 1
 13 15
 2
-0 51 19 15
 0 41 2 0
+0 51 19 15
 1
 end_operator
 begin_operator
@@ -81068,8 +81068,8 @@ succumb abrasion love arugula earth uranus
 1
 15 0
 2
-0 51 20 0
 0 42 0 3
+0 51 20 0
 1
 end_operator
 begin_operator
@@ -81077,8 +81077,8 @@ succumb abrasion love arugula mercury saturn
 1
 15 0
 2
-0 51 20 0
 0 42 1 2
+0 51 20 0
 1
 end_operator
 begin_operator
@@ -81086,8 +81086,8 @@ succumb abrasion love arugula saturn earth
 1
 15 0
 2
-0 51 20 0
 0 42 2 0
+0 51 20 0
 1
 end_operator
 begin_operator
@@ -81095,8 +81095,8 @@ succumb abrasion love cherry earth uranus
 1
 15 1
 2
-0 51 20 1
 0 42 0 3
+0 51 20 1
 1
 end_operator
 begin_operator
@@ -81104,8 +81104,8 @@ succumb abrasion love cherry mercury saturn
 1
 15 1
 2
-0 51 20 1
 0 42 1 2
+0 51 20 1
 1
 end_operator
 begin_operator
@@ -81113,8 +81113,8 @@ succumb abrasion love cherry saturn earth
 1
 15 1
 2
-0 51 20 1
 0 42 2 0
+0 51 20 1
 1
 end_operator
 begin_operator
@@ -81122,8 +81122,8 @@ succumb abrasion love endive earth uranus
 1
 15 2
 2
-0 51 20 2
 0 42 0 3
+0 51 20 2
 1
 end_operator
 begin_operator
@@ -81131,8 +81131,8 @@ succumb abrasion love endive mercury saturn
 1
 15 2
 2
-0 51 20 2
 0 42 1 2
+0 51 20 2
 1
 end_operator
 begin_operator
@@ -81140,8 +81140,8 @@ succumb abrasion love endive saturn earth
 1
 15 2
 2
-0 51 20 2
 0 42 2 0
+0 51 20 2
 1
 end_operator
 begin_operator
@@ -81149,8 +81149,8 @@ succumb abrasion love ham earth uranus
 1
 15 3
 2
-0 51 20 3
 0 42 0 3
+0 51 20 3
 1
 end_operator
 begin_operator
@@ -81158,8 +81158,8 @@ succumb abrasion love ham mercury saturn
 1
 15 3
 2
-0 51 20 3
 0 42 1 2
+0 51 20 3
 1
 end_operator
 begin_operator
@@ -81167,8 +81167,8 @@ succumb abrasion love ham saturn earth
 1
 15 3
 2
-0 51 20 3
 0 42 2 0
+0 51 20 3
 1
 end_operator
 begin_operator
@@ -81176,8 +81176,8 @@ succumb abrasion love haroset earth uranus
 1
 15 4
 2
-0 51 20 4
 0 42 0 3
+0 51 20 4
 1
 end_operator
 begin_operator
@@ -81185,8 +81185,8 @@ succumb abrasion love haroset mercury saturn
 1
 15 4
 2
-0 51 20 4
 0 42 1 2
+0 51 20 4
 1
 end_operator
 begin_operator
@@ -81194,8 +81194,8 @@ succumb abrasion love haroset saturn earth
 1
 15 4
 2
-0 51 20 4
 0 42 2 0
+0 51 20 4
 1
 end_operator
 begin_operator
@@ -81203,8 +81203,8 @@ succumb abrasion love marzipan earth uranus
 1
 15 5
 2
-0 51 20 5
 0 42 0 3
+0 51 20 5
 1
 end_operator
 begin_operator
@@ -81212,8 +81212,8 @@ succumb abrasion love marzipan mercury saturn
 1
 15 5
 2
-0 51 20 5
 0 42 1 2
+0 51 20 5
 1
 end_operator
 begin_operator
@@ -81221,8 +81221,8 @@ succumb abrasion love marzipan saturn earth
 1
 15 5
 2
-0 51 20 5
 0 42 2 0
+0 51 20 5
 1
 end_operator
 begin_operator
@@ -81230,8 +81230,8 @@ succumb abrasion love mutton earth uranus
 1
 15 6
 2
-0 51 20 6
 0 42 0 3
+0 51 20 6
 1
 end_operator
 begin_operator
@@ -81239,8 +81239,8 @@ succumb abrasion love mutton mercury saturn
 1
 15 6
 2
-0 51 20 6
 0 42 1 2
+0 51 20 6
 1
 end_operator
 begin_operator
@@ -81248,8 +81248,8 @@ succumb abrasion love mutton saturn earth
 1
 15 6
 2
-0 51 20 6
 0 42 2 0
+0 51 20 6
 1
 end_operator
 begin_operator
@@ -81257,8 +81257,8 @@ succumb abrasion love onion earth uranus
 1
 15 7
 2
-0 51 20 7
 0 42 0 3
+0 51 20 7
 1
 end_operator
 begin_operator
@@ -81266,8 +81266,8 @@ succumb abrasion love onion mercury saturn
 1
 15 7
 2
-0 51 20 7
 0 42 1 2
+0 51 20 7
 1
 end_operator
 begin_operator
@@ -81275,8 +81275,8 @@ succumb abrasion love onion saturn earth
 1
 15 7
 2
-0 51 20 7
 0 42 2 0
+0 51 20 7
 1
 end_operator
 begin_operator
@@ -81284,8 +81284,8 @@ succumb abrasion love papaya earth uranus
 1
 15 8
 2
-0 51 20 8
 0 42 0 3
+0 51 20 8
 1
 end_operator
 begin_operator
@@ -81293,8 +81293,8 @@ succumb abrasion love papaya mercury saturn
 1
 15 8
 2
-0 51 20 8
 0 42 1 2
+0 51 20 8
 1
 end_operator
 begin_operator
@@ -81302,8 +81302,8 @@ succumb abrasion love papaya saturn earth
 1
 15 8
 2
-0 51 20 8
 0 42 2 0
+0 51 20 8
 1
 end_operator
 begin_operator
@@ -81311,8 +81311,8 @@ succumb abrasion love potato earth uranus
 1
 15 9
 2
-0 51 20 9
 0 42 0 3
+0 51 20 9
 1
 end_operator
 begin_operator
@@ -81320,8 +81320,8 @@ succumb abrasion love potato mercury saturn
 1
 15 9
 2
-0 51 20 9
 0 42 1 2
+0 51 20 9
 1
 end_operator
 begin_operator
@@ -81329,8 +81329,8 @@ succumb abrasion love potato saturn earth
 1
 15 9
 2
-0 51 20 9
 0 42 2 0
+0 51 20 9
 1
 end_operator
 begin_operator
@@ -81338,8 +81338,8 @@ succumb abrasion love rice earth uranus
 1
 15 10
 2
-0 51 20 10
 0 42 0 3
+0 51 20 10
 1
 end_operator
 begin_operator
@@ -81347,8 +81347,8 @@ succumb abrasion love rice mercury saturn
 1
 15 10
 2
-0 51 20 10
 0 42 1 2
+0 51 20 10
 1
 end_operator
 begin_operator
@@ -81356,8 +81356,8 @@ succumb abrasion love rice saturn earth
 1
 15 10
 2
-0 51 20 10
 0 42 2 0
+0 51 20 10
 1
 end_operator
 begin_operator
@@ -81365,8 +81365,8 @@ succumb abrasion love shrimp earth uranus
 1
 15 11
 2
-0 51 20 11
 0 42 0 3
+0 51 20 11
 1
 end_operator
 begin_operator
@@ -81374,8 +81374,8 @@ succumb abrasion love shrimp mercury saturn
 1
 15 11
 2
-0 51 20 11
 0 42 1 2
+0 51 20 11
 1
 end_operator
 begin_operator
@@ -81383,8 +81383,8 @@ succumb abrasion love shrimp saturn earth
 1
 15 11
 2
-0 51 20 11
 0 42 2 0
+0 51 20 11
 1
 end_operator
 begin_operator
@@ -81392,8 +81392,8 @@ succumb abrasion love turkey earth uranus
 1
 15 12
 2
-0 51 20 12
 0 42 0 3
+0 51 20 12
 1
 end_operator
 begin_operator
@@ -81401,8 +81401,8 @@ succumb abrasion love turkey mercury saturn
 1
 15 12
 2
-0 51 20 12
 0 42 1 2
+0 51 20 12
 1
 end_operator
 begin_operator
@@ -81410,8 +81410,8 @@ succumb abrasion love turkey saturn earth
 1
 15 12
 2
-0 51 20 12
 0 42 2 0
+0 51 20 12
 1
 end_operator
 begin_operator
@@ -81419,8 +81419,8 @@ succumb abrasion love wonderbread earth uranus
 1
 15 13
 2
-0 51 20 13
 0 42 0 3
+0 51 20 13
 1
 end_operator
 begin_operator
@@ -81428,8 +81428,8 @@ succumb abrasion love wonderbread mercury saturn
 1
 15 13
 2
-0 51 20 13
 0 42 1 2
+0 51 20 13
 1
 end_operator
 begin_operator
@@ -81437,8 +81437,8 @@ succumb abrasion love wonderbread saturn earth
 1
 15 13
 2
-0 51 20 13
 0 42 2 0
+0 51 20 13
 1
 end_operator
 begin_operator
@@ -81446,8 +81446,8 @@ succumb abrasion love wurst earth uranus
 1
 15 14
 2
-0 51 20 14
 0 42 0 3
+0 51 20 14
 1
 end_operator
 begin_operator
@@ -81455,8 +81455,8 @@ succumb abrasion love wurst mercury saturn
 1
 15 14
 2
-0 51 20 14
 0 42 1 2
+0 51 20 14
 1
 end_operator
 begin_operator
@@ -81464,8 +81464,8 @@ succumb abrasion love wurst saturn earth
 1
 15 14
 2
-0 51 20 14
 0 42 2 0
+0 51 20 14
 1
 end_operator
 begin_operator
@@ -81473,8 +81473,8 @@ succumb abrasion love yogurt earth uranus
 1
 15 15
 2
-0 51 20 15
 0 42 0 3
+0 51 20 15
 1
 end_operator
 begin_operator
@@ -81482,8 +81482,8 @@ succumb abrasion love yogurt mercury saturn
 1
 15 15
 2
-0 51 20 15
 0 42 1 2
+0 51 20 15
 1
 end_operator
 begin_operator
@@ -81491,8 +81491,8 @@ succumb abrasion love yogurt saturn earth
 1
 15 15
 2
-0 51 20 15
 0 42 2 0
+0 51 20 15
 1
 end_operator
 begin_operator
@@ -81500,8 +81500,8 @@ succumb abrasion lubricity arugula earth uranus
 1
 17 0
 2
-0 51 21 0
 0 45 0 3
+0 51 21 0
 1
 end_operator
 begin_operator
@@ -81509,8 +81509,8 @@ succumb abrasion lubricity arugula mercury saturn
 1
 17 0
 2
-0 51 21 0
 0 45 1 2
+0 51 21 0
 1
 end_operator
 begin_operator
@@ -81518,8 +81518,8 @@ succumb abrasion lubricity arugula saturn earth
 1
 17 0
 2
-0 51 21 0
 0 45 2 0
+0 51 21 0
 1
 end_operator
 begin_operator
@@ -81527,8 +81527,8 @@ succumb abrasion lubricity cherry earth uranus
 1
 17 1
 2
-0 51 21 1
 0 45 0 3
+0 51 21 1
 1
 end_operator
 begin_operator
@@ -81536,8 +81536,8 @@ succumb abrasion lubricity cherry mercury saturn
 1
 17 1
 2
-0 51 21 1
 0 45 1 2
+0 51 21 1
 1
 end_operator
 begin_operator
@@ -81545,8 +81545,8 @@ succumb abrasion lubricity cherry saturn earth
 1
 17 1
 2
-0 51 21 1
 0 45 2 0
+0 51 21 1
 1
 end_operator
 begin_operator
@@ -81554,8 +81554,8 @@ succumb abrasion lubricity endive earth uranus
 1
 17 2
 2
-0 51 21 2
 0 45 0 3
+0 51 21 2
 1
 end_operator
 begin_operator
@@ -81563,8 +81563,8 @@ succumb abrasion lubricity endive mercury saturn
 1
 17 2
 2
-0 51 21 2
 0 45 1 2
+0 51 21 2
 1
 end_operator
 begin_operator
@@ -81572,8 +81572,8 @@ succumb abrasion lubricity endive saturn earth
 1
 17 2
 2
-0 51 21 2
 0 45 2 0
+0 51 21 2
 1
 end_operator
 begin_operator
@@ -81581,8 +81581,8 @@ succumb abrasion lubricity ham earth uranus
 1
 17 3
 2
-0 51 21 3
 0 45 0 3
+0 51 21 3
 1
 end_operator
 begin_operator
@@ -81590,8 +81590,8 @@ succumb abrasion lubricity ham mercury saturn
 1
 17 3
 2
-0 51 21 3
 0 45 1 2
+0 51 21 3
 1
 end_operator
 begin_operator
@@ -81599,8 +81599,8 @@ succumb abrasion lubricity ham saturn earth
 1
 17 3
 2
-0 51 21 3
 0 45 2 0
+0 51 21 3
 1
 end_operator
 begin_operator
@@ -81608,8 +81608,8 @@ succumb abrasion lubricity haroset earth uranus
 1
 17 4
 2
-0 51 21 4
 0 45 0 3
+0 51 21 4
 1
 end_operator
 begin_operator
@@ -81617,8 +81617,8 @@ succumb abrasion lubricity haroset mercury saturn
 1
 17 4
 2
-0 51 21 4
 0 45 1 2
+0 51 21 4
 1
 end_operator
 begin_operator
@@ -81626,8 +81626,8 @@ succumb abrasion lubricity haroset saturn earth
 1
 17 4
 2
-0 51 21 4
 0 45 2 0
+0 51 21 4
 1
 end_operator
 begin_operator
@@ -81635,8 +81635,8 @@ succumb abrasion lubricity marzipan earth uranus
 1
 17 5
 2
-0 51 21 5
 0 45 0 3
+0 51 21 5
 1
 end_operator
 begin_operator
@@ -81644,8 +81644,8 @@ succumb abrasion lubricity marzipan mercury saturn
 1
 17 5
 2
-0 51 21 5
 0 45 1 2
+0 51 21 5
 1
 end_operator
 begin_operator
@@ -81653,8 +81653,8 @@ succumb abrasion lubricity marzipan saturn earth
 1
 17 5
 2
-0 51 21 5
 0 45 2 0
+0 51 21 5
 1
 end_operator
 begin_operator
@@ -81662,8 +81662,8 @@ succumb abrasion lubricity mutton earth uranus
 1
 17 6
 2
-0 51 21 6
 0 45 0 3
+0 51 21 6
 1
 end_operator
 begin_operator
@@ -81671,8 +81671,8 @@ succumb abrasion lubricity mutton mercury saturn
 1
 17 6
 2
-0 51 21 6
 0 45 1 2
+0 51 21 6
 1
 end_operator
 begin_operator
@@ -81680,8 +81680,8 @@ succumb abrasion lubricity mutton saturn earth
 1
 17 6
 2
-0 51 21 6
 0 45 2 0
+0 51 21 6
 1
 end_operator
 begin_operator
@@ -81689,8 +81689,8 @@ succumb abrasion lubricity onion earth uranus
 1
 17 7
 2
-0 51 21 7
 0 45 0 3
+0 51 21 7
 1
 end_operator
 begin_operator
@@ -81698,8 +81698,8 @@ succumb abrasion lubricity onion mercury saturn
 1
 17 7
 2
-0 51 21 7
 0 45 1 2
+0 51 21 7
 1
 end_operator
 begin_operator
@@ -81707,8 +81707,8 @@ succumb abrasion lubricity onion saturn earth
 1
 17 7
 2
-0 51 21 7
 0 45 2 0
+0 51 21 7
 1
 end_operator
 begin_operator
@@ -81716,8 +81716,8 @@ succumb abrasion lubricity papaya earth uranus
 1
 17 8
 2
-0 51 21 8
 0 45 0 3
+0 51 21 8
 1
 end_operator
 begin_operator
@@ -81725,8 +81725,8 @@ succumb abrasion lubricity papaya mercury saturn
 1
 17 8
 2
-0 51 21 8
 0 45 1 2
+0 51 21 8
 1
 end_operator
 begin_operator
@@ -81734,8 +81734,8 @@ succumb abrasion lubricity papaya saturn earth
 1
 17 8
 2
-0 51 21 8
 0 45 2 0
+0 51 21 8
 1
 end_operator
 begin_operator
@@ -81743,8 +81743,8 @@ succumb abrasion lubricity potato earth uranus
 1
 17 9
 2
-0 51 21 9
 0 45 0 3
+0 51 21 9
 1
 end_operator
 begin_operator
@@ -81752,8 +81752,8 @@ succumb abrasion lubricity potato mercury saturn
 1
 17 9
 2
-0 51 21 9
 0 45 1 2
+0 51 21 9
 1
 end_operator
 begin_operator
@@ -81761,8 +81761,8 @@ succumb abrasion lubricity potato saturn earth
 1
 17 9
 2
-0 51 21 9
 0 45 2 0
+0 51 21 9
 1
 end_operator
 begin_operator
@@ -81770,8 +81770,8 @@ succumb abrasion lubricity rice earth uranus
 1
 17 10
 2
-0 51 21 10
 0 45 0 3
+0 51 21 10
 1
 end_operator
 begin_operator
@@ -81779,8 +81779,8 @@ succumb abrasion lubricity rice mercury saturn
 1
 17 10
 2
-0 51 21 10
 0 45 1 2
+0 51 21 10
 1
 end_operator
 begin_operator
@@ -81788,8 +81788,8 @@ succumb abrasion lubricity rice saturn earth
 1
 17 10
 2
-0 51 21 10
 0 45 2 0
+0 51 21 10
 1
 end_operator
 begin_operator
@@ -81797,8 +81797,8 @@ succumb abrasion lubricity shrimp earth uranus
 1
 17 11
 2
-0 51 21 11
 0 45 0 3
+0 51 21 11
 1
 end_operator
 begin_operator
@@ -81806,8 +81806,8 @@ succumb abrasion lubricity shrimp mercury saturn
 1
 17 11
 2
-0 51 21 11
 0 45 1 2
+0 51 21 11
 1
 end_operator
 begin_operator
@@ -81815,8 +81815,8 @@ succumb abrasion lubricity shrimp saturn earth
 1
 17 11
 2
-0 51 21 11
 0 45 2 0
+0 51 21 11
 1
 end_operator
 begin_operator
@@ -81824,8 +81824,8 @@ succumb abrasion lubricity turkey earth uranus
 1
 17 12
 2
-0 51 21 12
 0 45 0 3
+0 51 21 12
 1
 end_operator
 begin_operator
@@ -81833,8 +81833,8 @@ succumb abrasion lubricity turkey mercury saturn
 1
 17 12
 2
-0 51 21 12
 0 45 1 2
+0 51 21 12
 1
 end_operator
 begin_operator
@@ -81842,8 +81842,8 @@ succumb abrasion lubricity turkey saturn earth
 1
 17 12
 2
-0 51 21 12
 0 45 2 0
+0 51 21 12
 1
 end_operator
 begin_operator
@@ -81851,8 +81851,8 @@ succumb abrasion lubricity wonderbread earth uranus
 1
 17 13
 2
-0 51 21 13
 0 45 0 3
+0 51 21 13
 1
 end_operator
 begin_operator
@@ -81860,8 +81860,8 @@ succumb abrasion lubricity wonderbread mercury saturn
 1
 17 13
 2
-0 51 21 13
 0 45 1 2
+0 51 21 13
 1
 end_operator
 begin_operator
@@ -81869,8 +81869,8 @@ succumb abrasion lubricity wonderbread saturn earth
 1
 17 13
 2
-0 51 21 13
 0 45 2 0
+0 51 21 13
 1
 end_operator
 begin_operator
@@ -81878,8 +81878,8 @@ succumb abrasion lubricity wurst earth uranus
 1
 17 14
 2
-0 51 21 14
 0 45 0 3
+0 51 21 14
 1
 end_operator
 begin_operator
@@ -81887,8 +81887,8 @@ succumb abrasion lubricity wurst mercury saturn
 1
 17 14
 2
-0 51 21 14
 0 45 1 2
+0 51 21 14
 1
 end_operator
 begin_operator
@@ -81896,8 +81896,8 @@ succumb abrasion lubricity wurst saturn earth
 1
 17 14
 2
-0 51 21 14
 0 45 2 0
+0 51 21 14
 1
 end_operator
 begin_operator
@@ -81905,8 +81905,8 @@ succumb abrasion lubricity yogurt earth uranus
 1
 17 15
 2
-0 51 21 15
 0 45 0 3
+0 51 21 15
 1
 end_operator
 begin_operator
@@ -81914,8 +81914,8 @@ succumb abrasion lubricity yogurt mercury saturn
 1
 17 15
 2
-0 51 21 15
 0 45 1 2
+0 51 21 15
 1
 end_operator
 begin_operator
@@ -81923,8 +81923,8 @@ succumb abrasion lubricity yogurt saturn earth
 1
 17 15
 2
-0 51 21 15
 0 45 2 0
+0 51 21 15
 1
 end_operator
 begin_operator
@@ -81932,8 +81932,8 @@ succumb abrasion rest arugula earth uranus
 1
 19 0
 2
-0 51 22 0
 0 46 0 3
+0 51 22 0
 1
 end_operator
 begin_operator
@@ -81941,8 +81941,8 @@ succumb abrasion rest arugula mercury saturn
 1
 19 0
 2
-0 51 22 0
 0 46 1 2
+0 51 22 0
 1
 end_operator
 begin_operator
@@ -81950,8 +81950,8 @@ succumb abrasion rest arugula saturn earth
 1
 19 0
 2
-0 51 22 0
 0 46 2 0
+0 51 22 0
 1
 end_operator
 begin_operator
@@ -81959,8 +81959,8 @@ succumb abrasion rest cherry earth uranus
 1
 19 1
 2
-0 51 22 1
 0 46 0 3
+0 51 22 1
 1
 end_operator
 begin_operator
@@ -81968,8 +81968,8 @@ succumb abrasion rest cherry mercury saturn
 1
 19 1
 2
-0 51 22 1
 0 46 1 2
+0 51 22 1
 1
 end_operator
 begin_operator
@@ -81977,8 +81977,8 @@ succumb abrasion rest cherry saturn earth
 1
 19 1
 2
-0 51 22 1
 0 46 2 0
+0 51 22 1
 1
 end_operator
 begin_operator
@@ -81986,8 +81986,8 @@ succumb abrasion rest endive earth uranus
 1
 19 2
 2
-0 51 22 2
 0 46 0 3
+0 51 22 2
 1
 end_operator
 begin_operator
@@ -81995,8 +81995,8 @@ succumb abrasion rest endive mercury saturn
 1
 19 2
 2
-0 51 22 2
 0 46 1 2
+0 51 22 2
 1
 end_operator
 begin_operator
@@ -82004,8 +82004,8 @@ succumb abrasion rest endive saturn earth
 1
 19 2
 2
-0 51 22 2
 0 46 2 0
+0 51 22 2
 1
 end_operator
 begin_operator
@@ -82013,8 +82013,8 @@ succumb abrasion rest ham earth uranus
 1
 19 3
 2
-0 51 22 3
 0 46 0 3
+0 51 22 3
 1
 end_operator
 begin_operator
@@ -82022,8 +82022,8 @@ succumb abrasion rest ham mercury saturn
 1
 19 3
 2
-0 51 22 3
 0 46 1 2
+0 51 22 3
 1
 end_operator
 begin_operator
@@ -82031,8 +82031,8 @@ succumb abrasion rest ham saturn earth
 1
 19 3
 2
-0 51 22 3
 0 46 2 0
+0 51 22 3
 1
 end_operator
 begin_operator
@@ -82040,8 +82040,8 @@ succumb abrasion rest haroset earth uranus
 1
 19 4
 2
-0 51 22 4
 0 46 0 3
+0 51 22 4
 1
 end_operator
 begin_operator
@@ -82049,8 +82049,8 @@ succumb abrasion rest haroset mercury saturn
 1
 19 4
 2
-0 51 22 4
 0 46 1 2
+0 51 22 4
 1
 end_operator
 begin_operator
@@ -82058,8 +82058,8 @@ succumb abrasion rest haroset saturn earth
 1
 19 4
 2
-0 51 22 4
 0 46 2 0
+0 51 22 4
 1
 end_operator
 begin_operator
@@ -82067,8 +82067,8 @@ succumb abrasion rest marzipan earth uranus
 1
 19 5
 2
-0 51 22 5
 0 46 0 3
+0 51 22 5
 1
 end_operator
 begin_operator
@@ -82076,8 +82076,8 @@ succumb abrasion rest marzipan mercury saturn
 1
 19 5
 2
-0 51 22 5
 0 46 1 2
+0 51 22 5
 1
 end_operator
 begin_operator
@@ -82085,8 +82085,8 @@ succumb abrasion rest marzipan saturn earth
 1
 19 5
 2
-0 51 22 5
 0 46 2 0
+0 51 22 5
 1
 end_operator
 begin_operator
@@ -82094,8 +82094,8 @@ succumb abrasion rest mutton earth uranus
 1
 19 6
 2
-0 51 22 6
 0 46 0 3
+0 51 22 6
 1
 end_operator
 begin_operator
@@ -82103,8 +82103,8 @@ succumb abrasion rest mutton mercury saturn
 1
 19 6
 2
-0 51 22 6
 0 46 1 2
+0 51 22 6
 1
 end_operator
 begin_operator
@@ -82112,8 +82112,8 @@ succumb abrasion rest mutton saturn earth
 1
 19 6
 2
-0 51 22 6
 0 46 2 0
+0 51 22 6
 1
 end_operator
 begin_operator
@@ -82121,8 +82121,8 @@ succumb abrasion rest onion earth uranus
 1
 19 7
 2
-0 51 22 7
 0 46 0 3
+0 51 22 7
 1
 end_operator
 begin_operator
@@ -82130,8 +82130,8 @@ succumb abrasion rest onion mercury saturn
 1
 19 7
 2
-0 51 22 7
 0 46 1 2
+0 51 22 7
 1
 end_operator
 begin_operator
@@ -82139,8 +82139,8 @@ succumb abrasion rest onion saturn earth
 1
 19 7
 2
-0 51 22 7
 0 46 2 0
+0 51 22 7
 1
 end_operator
 begin_operator
@@ -82148,8 +82148,8 @@ succumb abrasion rest papaya earth uranus
 1
 19 8
 2
-0 51 22 8
 0 46 0 3
+0 51 22 8
 1
 end_operator
 begin_operator
@@ -82157,8 +82157,8 @@ succumb abrasion rest papaya mercury saturn
 1
 19 8
 2
-0 51 22 8
 0 46 1 2
+0 51 22 8
 1
 end_operator
 begin_operator
@@ -82166,8 +82166,8 @@ succumb abrasion rest papaya saturn earth
 1
 19 8
 2
-0 51 22 8
 0 46 2 0
+0 51 22 8
 1
 end_operator
 begin_operator
@@ -82175,8 +82175,8 @@ succumb abrasion rest potato earth uranus
 1
 19 9
 2
-0 51 22 9
 0 46 0 3
+0 51 22 9
 1
 end_operator
 begin_operator
@@ -82184,8 +82184,8 @@ succumb abrasion rest potato mercury saturn
 1
 19 9
 2
-0 51 22 9
 0 46 1 2
+0 51 22 9
 1
 end_operator
 begin_operator
@@ -82193,8 +82193,8 @@ succumb abrasion rest potato saturn earth
 1
 19 9
 2
-0 51 22 9
 0 46 2 0
+0 51 22 9
 1
 end_operator
 begin_operator
@@ -82202,8 +82202,8 @@ succumb abrasion rest rice earth uranus
 1
 19 10
 2
-0 51 22 10
 0 46 0 3
+0 51 22 10
 1
 end_operator
 begin_operator
@@ -82211,8 +82211,8 @@ succumb abrasion rest rice mercury saturn
 1
 19 10
 2
-0 51 22 10
 0 46 1 2
+0 51 22 10
 1
 end_operator
 begin_operator
@@ -82220,8 +82220,8 @@ succumb abrasion rest rice saturn earth
 1
 19 10
 2
-0 51 22 10
 0 46 2 0
+0 51 22 10
 1
 end_operator
 begin_operator
@@ -82229,8 +82229,8 @@ succumb abrasion rest shrimp earth uranus
 1
 19 11
 2
-0 51 22 11
 0 46 0 3
+0 51 22 11
 1
 end_operator
 begin_operator
@@ -82238,8 +82238,8 @@ succumb abrasion rest shrimp mercury saturn
 1
 19 11
 2
-0 51 22 11
 0 46 1 2
+0 51 22 11
 1
 end_operator
 begin_operator
@@ -82247,8 +82247,8 @@ succumb abrasion rest shrimp saturn earth
 1
 19 11
 2
-0 51 22 11
 0 46 2 0
+0 51 22 11
 1
 end_operator
 begin_operator
@@ -82256,8 +82256,8 @@ succumb abrasion rest turkey earth uranus
 1
 19 12
 2
-0 51 22 12
 0 46 0 3
+0 51 22 12
 1
 end_operator
 begin_operator
@@ -82265,8 +82265,8 @@ succumb abrasion rest turkey mercury saturn
 1
 19 12
 2
-0 51 22 12
 0 46 1 2
+0 51 22 12
 1
 end_operator
 begin_operator
@@ -82274,8 +82274,8 @@ succumb abrasion rest turkey saturn earth
 1
 19 12
 2
-0 51 22 12
 0 46 2 0
+0 51 22 12
 1
 end_operator
 begin_operator
@@ -82283,8 +82283,8 @@ succumb abrasion rest wonderbread earth uranus
 1
 19 13
 2
-0 51 22 13
 0 46 0 3
+0 51 22 13
 1
 end_operator
 begin_operator
@@ -82292,8 +82292,8 @@ succumb abrasion rest wonderbread mercury saturn
 1
 19 13
 2
-0 51 22 13
 0 46 1 2
+0 51 22 13
 1
 end_operator
 begin_operator
@@ -82301,8 +82301,8 @@ succumb abrasion rest wonderbread saturn earth
 1
 19 13
 2
-0 51 22 13
 0 46 2 0
+0 51 22 13
 1
 end_operator
 begin_operator
@@ -82310,8 +82310,8 @@ succumb abrasion rest wurst earth uranus
 1
 19 14
 2
-0 51 22 14
 0 46 0 3
+0 51 22 14
 1
 end_operator
 begin_operator
@@ -82319,8 +82319,8 @@ succumb abrasion rest wurst mercury saturn
 1
 19 14
 2
-0 51 22 14
 0 46 1 2
+0 51 22 14
 1
 end_operator
 begin_operator
@@ -82328,8 +82328,8 @@ succumb abrasion rest wurst saturn earth
 1
 19 14
 2
-0 51 22 14
 0 46 2 0
+0 51 22 14
 1
 end_operator
 begin_operator
@@ -82337,8 +82337,8 @@ succumb abrasion rest yogurt earth uranus
 1
 19 15
 2
-0 51 22 15
 0 46 0 3
+0 51 22 15
 1
 end_operator
 begin_operator
@@ -82346,8 +82346,8 @@ succumb abrasion rest yogurt mercury saturn
 1
 19 15
 2
-0 51 22 15
 0 46 1 2
+0 51 22 15
 1
 end_operator
 begin_operator
@@ -82355,8 +82355,8 @@ succumb abrasion rest yogurt saturn earth
 1
 19 15
 2
-0 51 22 15
 0 46 2 0
+0 51 22 15
 1
 end_operator
 begin_operator
@@ -82364,8 +82364,8 @@ succumb abrasion satiety arugula earth uranus
 1
 20 0
 2
-0 51 23 0
 0 49 0 3
+0 51 23 0
 1
 end_operator
 begin_operator
@@ -82373,8 +82373,8 @@ succumb abrasion satiety arugula mercury saturn
 1
 20 0
 2
-0 51 23 0
 0 49 1 2
+0 51 23 0
 1
 end_operator
 begin_operator
@@ -82382,8 +82382,8 @@ succumb abrasion satiety arugula saturn earth
 1
 20 0
 2
-0 51 23 0
 0 49 2 0
+0 51 23 0
 1
 end_operator
 begin_operator
@@ -82391,8 +82391,8 @@ succumb abrasion satiety cherry earth uranus
 1
 20 1
 2
-0 51 23 1
 0 49 0 3
+0 51 23 1
 1
 end_operator
 begin_operator
@@ -82400,8 +82400,8 @@ succumb abrasion satiety cherry mercury saturn
 1
 20 1
 2
-0 51 23 1
 0 49 1 2
+0 51 23 1
 1
 end_operator
 begin_operator
@@ -82409,8 +82409,8 @@ succumb abrasion satiety cherry saturn earth
 1
 20 1
 2
-0 51 23 1
 0 49 2 0
+0 51 23 1
 1
 end_operator
 begin_operator
@@ -82418,8 +82418,8 @@ succumb abrasion satiety endive earth uranus
 1
 20 2
 2
-0 51 23 2
 0 49 0 3
+0 51 23 2
 1
 end_operator
 begin_operator
@@ -82427,8 +82427,8 @@ succumb abrasion satiety endive mercury saturn
 1
 20 2
 2
-0 51 23 2
 0 49 1 2
+0 51 23 2
 1
 end_operator
 begin_operator
@@ -82436,8 +82436,8 @@ succumb abrasion satiety endive saturn earth
 1
 20 2
 2
-0 51 23 2
 0 49 2 0
+0 51 23 2
 1
 end_operator
 begin_operator
@@ -82445,8 +82445,8 @@ succumb abrasion satiety ham earth uranus
 1
 20 3
 2
-0 51 23 3
 0 49 0 3
+0 51 23 3
 1
 end_operator
 begin_operator
@@ -82454,8 +82454,8 @@ succumb abrasion satiety ham mercury saturn
 1
 20 3
 2
-0 51 23 3
 0 49 1 2
+0 51 23 3
 1
 end_operator
 begin_operator
@@ -82463,8 +82463,8 @@ succumb abrasion satiety ham saturn earth
 1
 20 3
 2
-0 51 23 3
 0 49 2 0
+0 51 23 3
 1
 end_operator
 begin_operator
@@ -82472,8 +82472,8 @@ succumb abrasion satiety haroset earth uranus
 1
 20 4
 2
-0 51 23 4
 0 49 0 3
+0 51 23 4
 1
 end_operator
 begin_operator
@@ -82481,8 +82481,8 @@ succumb abrasion satiety haroset mercury saturn
 1
 20 4
 2
-0 51 23 4
 0 49 1 2
+0 51 23 4
 1
 end_operator
 begin_operator
@@ -82490,8 +82490,8 @@ succumb abrasion satiety haroset saturn earth
 1
 20 4
 2
-0 51 23 4
 0 49 2 0
+0 51 23 4
 1
 end_operator
 begin_operator
@@ -82499,8 +82499,8 @@ succumb abrasion satiety marzipan earth uranus
 1
 20 5
 2
-0 51 23 5
 0 49 0 3
+0 51 23 5
 1
 end_operator
 begin_operator
@@ -82508,8 +82508,8 @@ succumb abrasion satiety marzipan mercury saturn
 1
 20 5
 2
-0 51 23 5
 0 49 1 2
+0 51 23 5
 1
 end_operator
 begin_operator
@@ -82517,8 +82517,8 @@ succumb abrasion satiety marzipan saturn earth
 1
 20 5
 2
-0 51 23 5
 0 49 2 0
+0 51 23 5
 1
 end_operator
 begin_operator
@@ -82526,8 +82526,8 @@ succumb abrasion satiety mutton earth uranus
 1
 20 6
 2
-0 51 23 6
 0 49 0 3
+0 51 23 6
 1
 end_operator
 begin_operator
@@ -82535,8 +82535,8 @@ succumb abrasion satiety mutton mercury saturn
 1
 20 6
 2
-0 51 23 6
 0 49 1 2
+0 51 23 6
 1
 end_operator
 begin_operator
@@ -82544,8 +82544,8 @@ succumb abrasion satiety mutton saturn earth
 1
 20 6
 2
-0 51 23 6
 0 49 2 0
+0 51 23 6
 1
 end_operator
 begin_operator
@@ -82553,8 +82553,8 @@ succumb abrasion satiety onion earth uranus
 1
 20 7
 2
-0 51 23 7
 0 49 0 3
+0 51 23 7
 1
 end_operator
 begin_operator
@@ -82562,8 +82562,8 @@ succumb abrasion satiety onion mercury saturn
 1
 20 7
 2
-0 51 23 7
 0 49 1 2
+0 51 23 7
 1
 end_operator
 begin_operator
@@ -82571,8 +82571,8 @@ succumb abrasion satiety onion saturn earth
 1
 20 7
 2
-0 51 23 7
 0 49 2 0
+0 51 23 7
 1
 end_operator
 begin_operator
@@ -82580,8 +82580,8 @@ succumb abrasion satiety papaya earth uranus
 1
 20 8
 2
-0 51 23 8
 0 49 0 3
+0 51 23 8
 1
 end_operator
 begin_operator
@@ -82589,8 +82589,8 @@ succumb abrasion satiety papaya mercury saturn
 1
 20 8
 2
-0 51 23 8
 0 49 1 2
+0 51 23 8
 1
 end_operator
 begin_operator
@@ -82598,8 +82598,8 @@ succumb abrasion satiety papaya saturn earth
 1
 20 8
 2
-0 51 23 8
 0 49 2 0
+0 51 23 8
 1
 end_operator
 begin_operator
@@ -82607,8 +82607,8 @@ succumb abrasion satiety potato earth uranus
 1
 20 9
 2
-0 51 23 9
 0 49 0 3
+0 51 23 9
 1
 end_operator
 begin_operator
@@ -82616,8 +82616,8 @@ succumb abrasion satiety potato mercury saturn
 1
 20 9
 2
-0 51 23 9
 0 49 1 2
+0 51 23 9
 1
 end_operator
 begin_operator
@@ -82625,8 +82625,8 @@ succumb abrasion satiety potato saturn earth
 1
 20 9
 2
-0 51 23 9
 0 49 2 0
+0 51 23 9
 1
 end_operator
 begin_operator
@@ -82634,8 +82634,8 @@ succumb abrasion satiety rice earth uranus
 1
 20 10
 2
-0 51 23 10
 0 49 0 3
+0 51 23 10
 1
 end_operator
 begin_operator
@@ -82643,8 +82643,8 @@ succumb abrasion satiety rice mercury saturn
 1
 20 10
 2
-0 51 23 10
 0 49 1 2
+0 51 23 10
 1
 end_operator
 begin_operator
@@ -82652,8 +82652,8 @@ succumb abrasion satiety rice saturn earth
 1
 20 10
 2
-0 51 23 10
 0 49 2 0
+0 51 23 10
 1
 end_operator
 begin_operator
@@ -82661,8 +82661,8 @@ succumb abrasion satiety shrimp earth uranus
 1
 20 11
 2
-0 51 23 11
 0 49 0 3
+0 51 23 11
 1
 end_operator
 begin_operator
@@ -82670,8 +82670,8 @@ succumb abrasion satiety shrimp mercury saturn
 1
 20 11
 2
-0 51 23 11
 0 49 1 2
+0 51 23 11
 1
 end_operator
 begin_operator
@@ -82679,8 +82679,8 @@ succumb abrasion satiety shrimp saturn earth
 1
 20 11
 2
-0 51 23 11
 0 49 2 0
+0 51 23 11
 1
 end_operator
 begin_operator
@@ -82688,8 +82688,8 @@ succumb abrasion satiety turkey earth uranus
 1
 20 12
 2
-0 51 23 12
 0 49 0 3
+0 51 23 12
 1
 end_operator
 begin_operator
@@ -82697,8 +82697,8 @@ succumb abrasion satiety turkey mercury saturn
 1
 20 12
 2
-0 51 23 12
 0 49 1 2
+0 51 23 12
 1
 end_operator
 begin_operator
@@ -82706,8 +82706,8 @@ succumb abrasion satiety turkey saturn earth
 1
 20 12
 2
-0 51 23 12
 0 49 2 0
+0 51 23 12
 1
 end_operator
 begin_operator
@@ -82715,8 +82715,8 @@ succumb abrasion satiety wonderbread earth uranus
 1
 20 13
 2
-0 51 23 13
 0 49 0 3
+0 51 23 13
 1
 end_operator
 begin_operator
@@ -82724,8 +82724,8 @@ succumb abrasion satiety wonderbread mercury saturn
 1
 20 13
 2
-0 51 23 13
 0 49 1 2
+0 51 23 13
 1
 end_operator
 begin_operator
@@ -82733,8 +82733,8 @@ succumb abrasion satiety wonderbread saturn earth
 1
 20 13
 2
-0 51 23 13
 0 49 2 0
+0 51 23 13
 1
 end_operator
 begin_operator
@@ -82742,8 +82742,8 @@ succumb abrasion satiety wurst earth uranus
 1
 20 14
 2
-0 51 23 14
 0 49 0 3
+0 51 23 14
 1
 end_operator
 begin_operator
@@ -82751,8 +82751,8 @@ succumb abrasion satiety wurst mercury saturn
 1
 20 14
 2
-0 51 23 14
 0 49 1 2
+0 51 23 14
 1
 end_operator
 begin_operator
@@ -82760,8 +82760,8 @@ succumb abrasion satiety wurst saturn earth
 1
 20 14
 2
-0 51 23 14
 0 49 2 0
+0 51 23 14
 1
 end_operator
 begin_operator
@@ -82769,8 +82769,8 @@ succumb abrasion satiety yogurt earth uranus
 1
 20 15
 2
-0 51 23 15
 0 49 0 3
+0 51 23 15
 1
 end_operator
 begin_operator
@@ -82778,8 +82778,8 @@ succumb abrasion satiety yogurt mercury saturn
 1
 20 15
 2
-0 51 23 15
 0 49 1 2
+0 51 23 15
 1
 end_operator
 begin_operator
@@ -82787,8 +82787,8 @@ succumb abrasion satiety yogurt saturn earth
 1
 20 15
 2
-0 51 23 15
 0 49 2 0
+0 51 23 15
 1
 end_operator
 begin_operator
@@ -82796,8 +82796,8 @@ succumb abrasion satisfaction arugula earth uranus
 1
 21 0
 2
-0 51 24 0
 0 50 0 3
+0 51 24 0
 1
 end_operator
 begin_operator
@@ -82805,8 +82805,8 @@ succumb abrasion satisfaction arugula mercury saturn
 1
 21 0
 2
-0 51 24 0
 0 50 1 2
+0 51 24 0
 1
 end_operator
 begin_operator
@@ -82814,8 +82814,8 @@ succumb abrasion satisfaction arugula saturn earth
 1
 21 0
 2
-0 51 24 0
 0 50 2 0
+0 51 24 0
 1
 end_operator
 begin_operator
@@ -82823,8 +82823,8 @@ succumb abrasion satisfaction cherry earth uranus
 1
 21 1
 2
-0 51 24 1
 0 50 0 3
+0 51 24 1
 1
 end_operator
 begin_operator
@@ -82832,8 +82832,8 @@ succumb abrasion satisfaction cherry mercury saturn
 1
 21 1
 2
-0 51 24 1
 0 50 1 2
+0 51 24 1
 1
 end_operator
 begin_operator
@@ -82841,8 +82841,8 @@ succumb abrasion satisfaction cherry saturn earth
 1
 21 1
 2
-0 51 24 1
 0 50 2 0
+0 51 24 1
 1
 end_operator
 begin_operator
@@ -82850,8 +82850,8 @@ succumb abrasion satisfaction endive earth uranus
 1
 21 2
 2
-0 51 24 2
 0 50 0 3
+0 51 24 2
 1
 end_operator
 begin_operator
@@ -82859,8 +82859,8 @@ succumb abrasion satisfaction endive mercury saturn
 1
 21 2
 2
-0 51 24 2
 0 50 1 2
+0 51 24 2
 1
 end_operator
 begin_operator
@@ -82868,8 +82868,8 @@ succumb abrasion satisfaction endive saturn earth
 1
 21 2
 2
-0 51 24 2
 0 50 2 0
+0 51 24 2
 1
 end_operator
 begin_operator
@@ -82877,8 +82877,8 @@ succumb abrasion satisfaction ham earth uranus
 1
 21 3
 2
-0 51 24 3
 0 50 0 3
+0 51 24 3
 1
 end_operator
 begin_operator
@@ -82886,8 +82886,8 @@ succumb abrasion satisfaction ham mercury saturn
 1
 21 3
 2
-0 51 24 3
 0 50 1 2
+0 51 24 3
 1
 end_operator
 begin_operator
@@ -82895,8 +82895,8 @@ succumb abrasion satisfaction ham saturn earth
 1
 21 3
 2
-0 51 24 3
 0 50 2 0
+0 51 24 3
 1
 end_operator
 begin_operator
@@ -82904,8 +82904,8 @@ succumb abrasion satisfaction haroset earth uranus
 1
 21 4
 2
-0 51 24 4
 0 50 0 3
+0 51 24 4
 1
 end_operator
 begin_operator
@@ -82913,8 +82913,8 @@ succumb abrasion satisfaction haroset mercury saturn
 1
 21 4
 2
-0 51 24 4
 0 50 1 2
+0 51 24 4
 1
 end_operator
 begin_operator
@@ -82922,8 +82922,8 @@ succumb abrasion satisfaction haroset saturn earth
 1
 21 4
 2
-0 51 24 4
 0 50 2 0
+0 51 24 4
 1
 end_operator
 begin_operator
@@ -82931,8 +82931,8 @@ succumb abrasion satisfaction marzipan earth uranus
 1
 21 5
 2
-0 51 24 5
 0 50 0 3
+0 51 24 5
 1
 end_operator
 begin_operator
@@ -82940,8 +82940,8 @@ succumb abrasion satisfaction marzipan mercury saturn
 1
 21 5
 2
-0 51 24 5
 0 50 1 2
+0 51 24 5
 1
 end_operator
 begin_operator
@@ -82949,8 +82949,8 @@ succumb abrasion satisfaction marzipan saturn earth
 1
 21 5
 2
-0 51 24 5
 0 50 2 0
+0 51 24 5
 1
 end_operator
 begin_operator
@@ -82958,8 +82958,8 @@ succumb abrasion satisfaction mutton earth uranus
 1
 21 6
 2
-0 51 24 6
 0 50 0 3
+0 51 24 6
 1
 end_operator
 begin_operator
@@ -82967,8 +82967,8 @@ succumb abrasion satisfaction mutton mercury saturn
 1
 21 6
 2
-0 51 24 6
 0 50 1 2
+0 51 24 6
 1
 end_operator
 begin_operator
@@ -82976,8 +82976,8 @@ succumb abrasion satisfaction mutton saturn earth
 1
 21 6
 2
-0 51 24 6
 0 50 2 0
+0 51 24 6
 1
 end_operator
 begin_operator
@@ -82985,8 +82985,8 @@ succumb abrasion satisfaction onion earth uranus
 1
 21 7
 2
-0 51 24 7
 0 50 0 3
+0 51 24 7
 1
 end_operator
 begin_operator
@@ -82994,8 +82994,8 @@ succumb abrasion satisfaction onion mercury saturn
 1
 21 7
 2
-0 51 24 7
 0 50 1 2
+0 51 24 7
 1
 end_operator
 begin_operator
@@ -83003,8 +83003,8 @@ succumb abrasion satisfaction onion saturn earth
 1
 21 7
 2
-0 51 24 7
 0 50 2 0
+0 51 24 7
 1
 end_operator
 begin_operator
@@ -83012,8 +83012,8 @@ succumb abrasion satisfaction papaya earth uranus
 1
 21 8
 2
-0 51 24 8
 0 50 0 3
+0 51 24 8
 1
 end_operator
 begin_operator
@@ -83021,8 +83021,8 @@ succumb abrasion satisfaction papaya mercury saturn
 1
 21 8
 2
-0 51 24 8
 0 50 1 2
+0 51 24 8
 1
 end_operator
 begin_operator
@@ -83030,8 +83030,8 @@ succumb abrasion satisfaction papaya saturn earth
 1
 21 8
 2
-0 51 24 8
 0 50 2 0
+0 51 24 8
 1
 end_operator
 begin_operator
@@ -83039,8 +83039,8 @@ succumb abrasion satisfaction potato earth uranus
 1
 21 9
 2
-0 51 24 9
 0 50 0 3
+0 51 24 9
 1
 end_operator
 begin_operator
@@ -83048,8 +83048,8 @@ succumb abrasion satisfaction potato mercury saturn
 1
 21 9
 2
-0 51 24 9
 0 50 1 2
+0 51 24 9
 1
 end_operator
 begin_operator
@@ -83057,8 +83057,8 @@ succumb abrasion satisfaction potato saturn earth
 1
 21 9
 2
-0 51 24 9
 0 50 2 0
+0 51 24 9
 1
 end_operator
 begin_operator
@@ -83066,8 +83066,8 @@ succumb abrasion satisfaction rice earth uranus
 1
 21 10
 2
-0 51 24 10
 0 50 0 3
+0 51 24 10
 1
 end_operator
 begin_operator
@@ -83075,8 +83075,8 @@ succumb abrasion satisfaction rice mercury saturn
 1
 21 10
 2
-0 51 24 10
 0 50 1 2
+0 51 24 10
 1
 end_operator
 begin_operator
@@ -83084,8 +83084,8 @@ succumb abrasion satisfaction rice saturn earth
 1
 21 10
 2
-0 51 24 10
 0 50 2 0
+0 51 24 10
 1
 end_operator
 begin_operator
@@ -83093,8 +83093,8 @@ succumb abrasion satisfaction shrimp earth uranus
 1
 21 11
 2
-0 51 24 11
 0 50 0 3
+0 51 24 11
 1
 end_operator
 begin_operator
@@ -83102,8 +83102,8 @@ succumb abrasion satisfaction shrimp mercury saturn
 1
 21 11
 2
-0 51 24 11
 0 50 1 2
+0 51 24 11
 1
 end_operator
 begin_operator
@@ -83111,8 +83111,8 @@ succumb abrasion satisfaction shrimp saturn earth
 1
 21 11
 2
-0 51 24 11
 0 50 2 0
+0 51 24 11
 1
 end_operator
 begin_operator
@@ -83120,8 +83120,8 @@ succumb abrasion satisfaction turkey earth uranus
 1
 21 12
 2
-0 51 24 12
 0 50 0 3
+0 51 24 12
 1
 end_operator
 begin_operator
@@ -83129,8 +83129,8 @@ succumb abrasion satisfaction turkey mercury saturn
 1
 21 12
 2
-0 51 24 12
 0 50 1 2
+0 51 24 12
 1
 end_operator
 begin_operator
@@ -83138,8 +83138,8 @@ succumb abrasion satisfaction turkey saturn earth
 1
 21 12
 2
-0 51 24 12
 0 50 2 0
+0 51 24 12
 1
 end_operator
 begin_operator
@@ -83147,8 +83147,8 @@ succumb abrasion satisfaction wonderbread earth uranus
 1
 21 13
 2
-0 51 24 13
 0 50 0 3
+0 51 24 13
 1
 end_operator
 begin_operator
@@ -83156,8 +83156,8 @@ succumb abrasion satisfaction wonderbread mercury saturn
 1
 21 13
 2
-0 51 24 13
 0 50 1 2
+0 51 24 13
 1
 end_operator
 begin_operator
@@ -83165,8 +83165,8 @@ succumb abrasion satisfaction wonderbread saturn earth
 1
 21 13
 2
-0 51 24 13
 0 50 2 0
+0 51 24 13
 1
 end_operator
 begin_operator
@@ -83174,8 +83174,8 @@ succumb abrasion satisfaction wurst earth uranus
 1
 21 14
 2
-0 51 24 14
 0 50 0 3
+0 51 24 14
 1
 end_operator
 begin_operator
@@ -83183,8 +83183,8 @@ succumb abrasion satisfaction wurst mercury saturn
 1
 21 14
 2
-0 51 24 14
 0 50 1 2
+0 51 24 14
 1
 end_operator
 begin_operator
@@ -83192,8 +83192,8 @@ succumb abrasion satisfaction wurst saturn earth
 1
 21 14
 2
-0 51 24 14
 0 50 2 0
+0 51 24 14
 1
 end_operator
 begin_operator
@@ -83201,8 +83201,8 @@ succumb abrasion satisfaction yogurt earth uranus
 1
 21 15
 2
-0 51 24 15
 0 50 0 3
+0 51 24 15
 1
 end_operator
 begin_operator
@@ -83210,8 +83210,8 @@ succumb abrasion satisfaction yogurt mercury saturn
 1
 21 15
 2
-0 51 24 15
 0 50 1 2
+0 51 24 15
 1
 end_operator
 begin_operator
@@ -83219,8 +83219,8 @@ succumb abrasion satisfaction yogurt saturn earth
 1
 21 15
 2
-0 51 24 15
 0 50 2 0
+0 51 24 15
 1
 end_operator
 begin_operator
@@ -83659,24 +83659,24 @@ begin_operator
 succumb abrasion-4 entertainment wurst earth uranus
 0
 2
-0 24 17 14
 0 23 0 3
+0 24 17 14
 1
 end_operator
 begin_operator
 succumb abrasion-4 entertainment wurst mercury saturn
 0
 2
-0 24 17 14
 0 23 1 2
+0 24 17 14
 1
 end_operator
 begin_operator
 succumb abrasion-4 entertainment wurst saturn earth
 0
 2
-0 24 17 14
 0 23 2 0
+0 24 17 14
 1
 end_operator
 begin_operator
@@ -87139,24 +87139,24 @@ begin_operator
 succumb anger entertainment wurst earth uranus
 0
 2
-0 25 17 14
 0 23 0 3
+0 25 17 14
 1
 end_operator
 begin_operator
 succumb anger entertainment wurst mercury saturn
 0
 2
-0 25 17 14
 0 23 1 2
+0 25 17 14
 1
 end_operator
 begin_operator
 succumb anger entertainment wurst saturn earth
 0
 2
-0 25 17 14
 0 23 2 0
+0 25 17 14
 1
 end_operator
 begin_operator
@@ -90619,24 +90619,24 @@ begin_operator
 succumb angina entertainment wurst earth uranus
 0
 2
-0 26 17 14
 0 23 0 3
+0 26 17 14
 1
 end_operator
 begin_operator
 succumb angina entertainment wurst mercury saturn
 0
 2
-0 26 17 14
 0 23 1 2
+0 26 17 14
 1
 end_operator
 begin_operator
 succumb angina entertainment wurst saturn earth
 0
 2
-0 26 17 14
 0 23 2 0
+0 26 17 14
 1
 end_operator
 begin_operator
@@ -94099,24 +94099,24 @@ begin_operator
 succumb anxiety entertainment wurst earth uranus
 0
 2
-0 27 17 14
 0 23 0 3
+0 27 17 14
 1
 end_operator
 begin_operator
 succumb anxiety entertainment wurst mercury saturn
 0
 2
-0 27 17 14
 0 23 1 2
+0 27 17 14
 1
 end_operator
 begin_operator
 succumb anxiety entertainment wurst saturn earth
 0
 2
-0 27 17 14
 0 23 2 0
+0 27 17 14
 1
 end_operator
 begin_operator
@@ -97579,24 +97579,24 @@ begin_operator
 succumb boils entertainment wurst earth uranus
 0
 2
-0 28 17 14
 0 23 0 3
+0 28 17 14
 1
 end_operator
 begin_operator
 succumb boils entertainment wurst mercury saturn
 0
 2
-0 28 17 14
 0 23 1 2
+0 28 17 14
 1
 end_operator
 begin_operator
 succumb boils entertainment wurst saturn earth
 0
 2
-0 28 17 14
 0 23 2 0
+0 28 17 14
 1
 end_operator
 begin_operator
@@ -101059,24 +101059,24 @@ begin_operator
 succumb boils-1 entertainment wurst earth uranus
 0
 2
-0 29 17 14
 0 23 0 3
+0 29 17 14
 1
 end_operator
 begin_operator
 succumb boils-1 entertainment wurst mercury saturn
 0
 2
-0 29 17 14
 0 23 1 2
+0 29 17 14
 1
 end_operator
 begin_operator
 succumb boils-1 entertainment wurst saturn earth
 0
 2
-0 29 17 14
 0 23 2 0
+0 29 17 14
 1
 end_operator
 begin_operator
@@ -104539,24 +104539,24 @@ begin_operator
 succumb depression entertainment wurst earth uranus
 0
 2
-0 30 17 14
 0 23 0 3
+0 30 17 14
 1
 end_operator
 begin_operator
 succumb depression entertainment wurst mercury saturn
 0
 2
-0 30 17 14
 0 23 1 2
+0 30 17 14
 1
 end_operator
 begin_operator
 succumb depression entertainment wurst saturn earth
 0
 2
-0 30 17 14
 0 23 2 0
+0 30 17 14
 1
 end_operator
 begin_operator
@@ -108019,24 +108019,24 @@ begin_operator
 succumb depression-7 entertainment wurst earth uranus
 0
 2
-0 31 17 14
 0 23 0 3
+0 31 17 14
 1
 end_operator
 begin_operator
 succumb depression-7 entertainment wurst mercury saturn
 0
 2
-0 31 17 14
 0 23 1 2
+0 31 17 14
 1
 end_operator
 begin_operator
 succumb depression-7 entertainment wurst saturn earth
 0
 2
-0 31 17 14
 0 23 2 0
+0 31 17 14
 1
 end_operator
 begin_operator
@@ -111499,24 +111499,24 @@ begin_operator
 succumb dread entertainment wurst earth uranus
 0
 2
-0 32 17 14
 0 23 0 3
+0 32 17 14
 1
 end_operator
 begin_operator
 succumb dread entertainment wurst mercury saturn
 0
 2
-0 32 17 14
 0 23 1 2
+0 32 17 14
 1
 end_operator
 begin_operator
 succumb dread entertainment wurst saturn earth
 0
 2
-0 32 17 14
 0 23 2 0
+0 32 17 14
 1
 end_operator
 begin_operator
@@ -114979,24 +114979,24 @@ begin_operator
 succumb grief entertainment wurst earth uranus
 0
 2
-0 33 17 14
 0 23 0 3
+0 33 17 14
 1
 end_operator
 begin_operator
 succumb grief entertainment wurst mercury saturn
 0
 2
-0 33 17 14
 0 23 1 2
+0 33 17 14
 1
 end_operator
 begin_operator
 succumb grief entertainment wurst saturn earth
 0
 2
-0 33 17 14
 0 23 2 0
+0 33 17 14
 1
 end_operator
 begin_operator
@@ -118459,24 +118459,24 @@ begin_operator
 succumb hangover entertainment wurst earth uranus
 0
 2
-0 34 17 14
 0 23 0 3
+0 34 17 14
 1
 end_operator
 begin_operator
 succumb hangover entertainment wurst mercury saturn
 0
 2
-0 34 17 14
 0 23 1 2
+0 34 17 14
 1
 end_operator
 begin_operator
 succumb hangover entertainment wurst saturn earth
 0
 2
-0 34 17 14
 0 23 2 0
+0 34 17 14
 1
 end_operator
 begin_operator
@@ -121939,24 +121939,24 @@ begin_operator
 succumb jealousy entertainment wurst earth uranus
 0
 2
-0 35 17 14
 0 23 0 3
+0 35 17 14
 1
 end_operator
 begin_operator
 succumb jealousy entertainment wurst mercury saturn
 0
 2
-0 35 17 14
 0 23 1 2
+0 35 17 14
 1
 end_operator
 begin_operator
 succumb jealousy entertainment wurst saturn earth
 0
 2
-0 35 17 14
 0 23 2 0
+0 35 17 14
 1
 end_operator
 begin_operator
@@ -125419,24 +125419,24 @@ begin_operator
 succumb jealousy-2 entertainment wurst earth uranus
 0
 2
-0 36 17 14
 0 23 0 3
+0 36 17 14
 1
 end_operator
 begin_operator
 succumb jealousy-2 entertainment wurst mercury saturn
 0
 2
-0 36 17 14
 0 23 1 2
+0 36 17 14
 1
 end_operator
 begin_operator
 succumb jealousy-2 entertainment wurst saturn earth
 0
 2
-0 36 17 14
 0 23 2 0
+0 36 17 14
 1
 end_operator
 begin_operator
@@ -128468,8 +128468,8 @@ succumb laceration achievement arugula earth uranus
 1
 9 0
 2
-0 39 16 0
 0 37 0 3
+0 39 16 0
 1
 end_operator
 begin_operator
@@ -128477,8 +128477,8 @@ succumb laceration achievement arugula mercury saturn
 1
 9 0
 2
-0 39 16 0
 0 37 1 2
+0 39 16 0
 1
 end_operator
 begin_operator
@@ -128486,8 +128486,8 @@ succumb laceration achievement arugula saturn earth
 1
 9 0
 2
-0 39 16 0
 0 37 2 0
+0 39 16 0
 1
 end_operator
 begin_operator
@@ -128495,8 +128495,8 @@ succumb laceration achievement cherry earth uranus
 1
 9 1
 2
-0 39 16 1
 0 37 0 3
+0 39 16 1
 1
 end_operator
 begin_operator
@@ -128504,8 +128504,8 @@ succumb laceration achievement cherry mercury saturn
 1
 9 1
 2
-0 39 16 1
 0 37 1 2
+0 39 16 1
 1
 end_operator
 begin_operator
@@ -128513,8 +128513,8 @@ succumb laceration achievement cherry saturn earth
 1
 9 1
 2
-0 39 16 1
 0 37 2 0
+0 39 16 1
 1
 end_operator
 begin_operator
@@ -128522,8 +128522,8 @@ succumb laceration achievement endive earth uranus
 1
 9 2
 2
-0 39 16 2
 0 37 0 3
+0 39 16 2
 1
 end_operator
 begin_operator
@@ -128531,8 +128531,8 @@ succumb laceration achievement endive mercury saturn
 1
 9 2
 2
-0 39 16 2
 0 37 1 2
+0 39 16 2
 1
 end_operator
 begin_operator
@@ -128540,8 +128540,8 @@ succumb laceration achievement endive saturn earth
 1
 9 2
 2
-0 39 16 2
 0 37 2 0
+0 39 16 2
 1
 end_operator
 begin_operator
@@ -128549,8 +128549,8 @@ succumb laceration achievement ham earth uranus
 1
 9 3
 2
-0 39 16 3
 0 37 0 3
+0 39 16 3
 1
 end_operator
 begin_operator
@@ -128558,8 +128558,8 @@ succumb laceration achievement ham mercury saturn
 1
 9 3
 2
-0 39 16 3
 0 37 1 2
+0 39 16 3
 1
 end_operator
 begin_operator
@@ -128567,8 +128567,8 @@ succumb laceration achievement ham saturn earth
 1
 9 3
 2
-0 39 16 3
 0 37 2 0
+0 39 16 3
 1
 end_operator
 begin_operator
@@ -128576,8 +128576,8 @@ succumb laceration achievement haroset earth uranus
 1
 9 4
 2
-0 39 16 4
 0 37 0 3
+0 39 16 4
 1
 end_operator
 begin_operator
@@ -128585,8 +128585,8 @@ succumb laceration achievement haroset mercury saturn
 1
 9 4
 2
-0 39 16 4
 0 37 1 2
+0 39 16 4
 1
 end_operator
 begin_operator
@@ -128594,8 +128594,8 @@ succumb laceration achievement haroset saturn earth
 1
 9 4
 2
-0 39 16 4
 0 37 2 0
+0 39 16 4
 1
 end_operator
 begin_operator
@@ -128603,8 +128603,8 @@ succumb laceration achievement marzipan earth uranus
 1
 9 5
 2
-0 39 16 5
 0 37 0 3
+0 39 16 5
 1
 end_operator
 begin_operator
@@ -128612,8 +128612,8 @@ succumb laceration achievement marzipan mercury saturn
 1
 9 5
 2
-0 39 16 5
 0 37 1 2
+0 39 16 5
 1
 end_operator
 begin_operator
@@ -128621,8 +128621,8 @@ succumb laceration achievement marzipan saturn earth
 1
 9 5
 2
-0 39 16 5
 0 37 2 0
+0 39 16 5
 1
 end_operator
 begin_operator
@@ -128630,8 +128630,8 @@ succumb laceration achievement mutton earth uranus
 1
 9 6
 2
-0 39 16 6
 0 37 0 3
+0 39 16 6
 1
 end_operator
 begin_operator
@@ -128639,8 +128639,8 @@ succumb laceration achievement mutton mercury saturn
 1
 9 6
 2
-0 39 16 6
 0 37 1 2
+0 39 16 6
 1
 end_operator
 begin_operator
@@ -128648,8 +128648,8 @@ succumb laceration achievement mutton saturn earth
 1
 9 6
 2
-0 39 16 6
 0 37 2 0
+0 39 16 6
 1
 end_operator
 begin_operator
@@ -128657,8 +128657,8 @@ succumb laceration achievement onion earth uranus
 1
 9 7
 2
-0 39 16 7
 0 37 0 3
+0 39 16 7
 1
 end_operator
 begin_operator
@@ -128666,8 +128666,8 @@ succumb laceration achievement onion mercury saturn
 1
 9 7
 2
-0 39 16 7
 0 37 1 2
+0 39 16 7
 1
 end_operator
 begin_operator
@@ -128675,8 +128675,8 @@ succumb laceration achievement onion saturn earth
 1
 9 7
 2
-0 39 16 7
 0 37 2 0
+0 39 16 7
 1
 end_operator
 begin_operator
@@ -128684,8 +128684,8 @@ succumb laceration achievement papaya earth uranus
 1
 9 8
 2
-0 39 16 8
 0 37 0 3
+0 39 16 8
 1
 end_operator
 begin_operator
@@ -128693,8 +128693,8 @@ succumb laceration achievement papaya mercury saturn
 1
 9 8
 2
-0 39 16 8
 0 37 1 2
+0 39 16 8
 1
 end_operator
 begin_operator
@@ -128702,8 +128702,8 @@ succumb laceration achievement papaya saturn earth
 1
 9 8
 2
-0 39 16 8
 0 37 2 0
+0 39 16 8
 1
 end_operator
 begin_operator
@@ -128711,8 +128711,8 @@ succumb laceration achievement potato earth uranus
 1
 9 9
 2
-0 39 16 9
 0 37 0 3
+0 39 16 9
 1
 end_operator
 begin_operator
@@ -128720,8 +128720,8 @@ succumb laceration achievement potato mercury saturn
 1
 9 9
 2
-0 39 16 9
 0 37 1 2
+0 39 16 9
 1
 end_operator
 begin_operator
@@ -128729,8 +128729,8 @@ succumb laceration achievement potato saturn earth
 1
 9 9
 2
-0 39 16 9
 0 37 2 0
+0 39 16 9
 1
 end_operator
 begin_operator
@@ -128738,8 +128738,8 @@ succumb laceration achievement rice earth uranus
 1
 9 10
 2
-0 39 16 10
 0 37 0 3
+0 39 16 10
 1
 end_operator
 begin_operator
@@ -128747,8 +128747,8 @@ succumb laceration achievement rice mercury saturn
 1
 9 10
 2
-0 39 16 10
 0 37 1 2
+0 39 16 10
 1
 end_operator
 begin_operator
@@ -128756,8 +128756,8 @@ succumb laceration achievement rice saturn earth
 1
 9 10
 2
-0 39 16 10
 0 37 2 0
+0 39 16 10
 1
 end_operator
 begin_operator
@@ -128765,8 +128765,8 @@ succumb laceration achievement shrimp earth uranus
 1
 9 11
 2
-0 39 16 11
 0 37 0 3
+0 39 16 11
 1
 end_operator
 begin_operator
@@ -128774,8 +128774,8 @@ succumb laceration achievement shrimp mercury saturn
 1
 9 11
 2
-0 39 16 11
 0 37 1 2
+0 39 16 11
 1
 end_operator
 begin_operator
@@ -128783,8 +128783,8 @@ succumb laceration achievement shrimp saturn earth
 1
 9 11
 2
-0 39 16 11
 0 37 2 0
+0 39 16 11
 1
 end_operator
 begin_operator
@@ -128792,8 +128792,8 @@ succumb laceration achievement turkey earth uranus
 1
 9 12
 2
-0 39 16 12
 0 37 0 3
+0 39 16 12
 1
 end_operator
 begin_operator
@@ -128801,8 +128801,8 @@ succumb laceration achievement turkey mercury saturn
 1
 9 12
 2
-0 39 16 12
 0 37 1 2
+0 39 16 12
 1
 end_operator
 begin_operator
@@ -128810,8 +128810,8 @@ succumb laceration achievement turkey saturn earth
 1
 9 12
 2
-0 39 16 12
 0 37 2 0
+0 39 16 12
 1
 end_operator
 begin_operator
@@ -128819,8 +128819,8 @@ succumb laceration achievement wonderbread earth uranus
 1
 9 13
 2
-0 39 16 13
 0 37 0 3
+0 39 16 13
 1
 end_operator
 begin_operator
@@ -128828,8 +128828,8 @@ succumb laceration achievement wonderbread mercury saturn
 1
 9 13
 2
-0 39 16 13
 0 37 1 2
+0 39 16 13
 1
 end_operator
 begin_operator
@@ -128837,8 +128837,8 @@ succumb laceration achievement wonderbread saturn earth
 1
 9 13
 2
-0 39 16 13
 0 37 2 0
+0 39 16 13
 1
 end_operator
 begin_operator
@@ -128846,8 +128846,8 @@ succumb laceration achievement wurst earth uranus
 1
 9 14
 2
-0 39 16 14
 0 37 0 3
+0 39 16 14
 1
 end_operator
 begin_operator
@@ -128855,8 +128855,8 @@ succumb laceration achievement wurst mercury saturn
 1
 9 14
 2
-0 39 16 14
 0 37 1 2
+0 39 16 14
 1
 end_operator
 begin_operator
@@ -128864,8 +128864,8 @@ succumb laceration achievement wurst saturn earth
 1
 9 14
 2
-0 39 16 14
 0 37 2 0
+0 39 16 14
 1
 end_operator
 begin_operator
@@ -128873,8 +128873,8 @@ succumb laceration achievement yogurt earth uranus
 1
 9 15
 2
-0 39 16 15
 0 37 0 3
+0 39 16 15
 1
 end_operator
 begin_operator
@@ -128882,8 +128882,8 @@ succumb laceration achievement yogurt mercury saturn
 1
 9 15
 2
-0 39 16 15
 0 37 1 2
+0 39 16 15
 1
 end_operator
 begin_operator
@@ -128891,32 +128891,32 @@ succumb laceration achievement yogurt saturn earth
 1
 9 15
 2
-0 39 16 15
 0 37 2 0
+0 39 16 15
 1
 end_operator
 begin_operator
 succumb laceration entertainment wurst earth uranus
 0
 2
-0 39 17 14
 0 23 0 3
+0 39 17 14
 1
 end_operator
 begin_operator
 succumb laceration entertainment wurst mercury saturn
 0
 2
-0 39 17 14
 0 23 1 2
+0 39 17 14
 1
 end_operator
 begin_operator
 succumb laceration entertainment wurst saturn earth
 0
 2
-0 39 17 14
 0 23 2 0
+0 39 17 14
 1
 end_operator
 begin_operator
@@ -128924,8 +128924,8 @@ succumb laceration excitement arugula earth uranus
 1
 11 0
 2
-0 39 18 0
 0 38 0 3
+0 39 18 0
 1
 end_operator
 begin_operator
@@ -128933,8 +128933,8 @@ succumb laceration excitement arugula mercury saturn
 1
 11 0
 2
-0 39 18 0
 0 38 1 2
+0 39 18 0
 1
 end_operator
 begin_operator
@@ -128942,8 +128942,8 @@ succumb laceration excitement arugula saturn earth
 1
 11 0
 2
-0 39 18 0
 0 38 2 0
+0 39 18 0
 1
 end_operator
 begin_operator
@@ -128951,8 +128951,8 @@ succumb laceration excitement cherry earth uranus
 1
 11 1
 2
-0 39 18 1
 0 38 0 3
+0 39 18 1
 1
 end_operator
 begin_operator
@@ -128960,8 +128960,8 @@ succumb laceration excitement cherry mercury saturn
 1
 11 1
 2
-0 39 18 1
 0 38 1 2
+0 39 18 1
 1
 end_operator
 begin_operator
@@ -128969,8 +128969,8 @@ succumb laceration excitement cherry saturn earth
 1
 11 1
 2
-0 39 18 1
 0 38 2 0
+0 39 18 1
 1
 end_operator
 begin_operator
@@ -128978,8 +128978,8 @@ succumb laceration excitement endive earth uranus
 1
 11 2
 2
-0 39 18 2
 0 38 0 3
+0 39 18 2
 1
 end_operator
 begin_operator
@@ -128987,8 +128987,8 @@ succumb laceration excitement endive mercury saturn
 1
 11 2
 2
-0 39 18 2
 0 38 1 2
+0 39 18 2
 1
 end_operator
 begin_operator
@@ -128996,8 +128996,8 @@ succumb laceration excitement endive saturn earth
 1
 11 2
 2
-0 39 18 2
 0 38 2 0
+0 39 18 2
 1
 end_operator
 begin_operator
@@ -129005,8 +129005,8 @@ succumb laceration excitement ham earth uranus
 1
 11 3
 2
-0 39 18 3
 0 38 0 3
+0 39 18 3
 1
 end_operator
 begin_operator
@@ -129014,8 +129014,8 @@ succumb laceration excitement ham mercury saturn
 1
 11 3
 2
-0 39 18 3
 0 38 1 2
+0 39 18 3
 1
 end_operator
 begin_operator
@@ -129023,8 +129023,8 @@ succumb laceration excitement ham saturn earth
 1
 11 3
 2
-0 39 18 3
 0 38 2 0
+0 39 18 3
 1
 end_operator
 begin_operator
@@ -129032,8 +129032,8 @@ succumb laceration excitement haroset earth uranus
 1
 11 4
 2
-0 39 18 4
 0 38 0 3
+0 39 18 4
 1
 end_operator
 begin_operator
@@ -129041,8 +129041,8 @@ succumb laceration excitement haroset mercury saturn
 1
 11 4
 2
-0 39 18 4
 0 38 1 2
+0 39 18 4
 1
 end_operator
 begin_operator
@@ -129050,8 +129050,8 @@ succumb laceration excitement haroset saturn earth
 1
 11 4
 2
-0 39 18 4
 0 38 2 0
+0 39 18 4
 1
 end_operator
 begin_operator
@@ -129059,8 +129059,8 @@ succumb laceration excitement marzipan earth uranus
 1
 11 5
 2
-0 39 18 5
 0 38 0 3
+0 39 18 5
 1
 end_operator
 begin_operator
@@ -129068,8 +129068,8 @@ succumb laceration excitement marzipan mercury saturn
 1
 11 5
 2
-0 39 18 5
 0 38 1 2
+0 39 18 5
 1
 end_operator
 begin_operator
@@ -129077,8 +129077,8 @@ succumb laceration excitement marzipan saturn earth
 1
 11 5
 2
-0 39 18 5
 0 38 2 0
+0 39 18 5
 1
 end_operator
 begin_operator
@@ -129086,8 +129086,8 @@ succumb laceration excitement mutton earth uranus
 1
 11 6
 2
-0 39 18 6
 0 38 0 3
+0 39 18 6
 1
 end_operator
 begin_operator
@@ -129095,8 +129095,8 @@ succumb laceration excitement mutton mercury saturn
 1
 11 6
 2
-0 39 18 6
 0 38 1 2
+0 39 18 6
 1
 end_operator
 begin_operator
@@ -129104,8 +129104,8 @@ succumb laceration excitement mutton saturn earth
 1
 11 6
 2
-0 39 18 6
 0 38 2 0
+0 39 18 6
 1
 end_operator
 begin_operator
@@ -129113,8 +129113,8 @@ succumb laceration excitement onion earth uranus
 1
 11 7
 2
-0 39 18 7
 0 38 0 3
+0 39 18 7
 1
 end_operator
 begin_operator
@@ -129122,8 +129122,8 @@ succumb laceration excitement onion mercury saturn
 1
 11 7
 2
-0 39 18 7
 0 38 1 2
+0 39 18 7
 1
 end_operator
 begin_operator
@@ -129131,8 +129131,8 @@ succumb laceration excitement onion saturn earth
 1
 11 7
 2
-0 39 18 7
 0 38 2 0
+0 39 18 7
 1
 end_operator
 begin_operator
@@ -129140,8 +129140,8 @@ succumb laceration excitement papaya earth uranus
 1
 11 8
 2
-0 39 18 8
 0 38 0 3
+0 39 18 8
 1
 end_operator
 begin_operator
@@ -129149,8 +129149,8 @@ succumb laceration excitement papaya mercury saturn
 1
 11 8
 2
-0 39 18 8
 0 38 1 2
+0 39 18 8
 1
 end_operator
 begin_operator
@@ -129158,8 +129158,8 @@ succumb laceration excitement papaya saturn earth
 1
 11 8
 2
-0 39 18 8
 0 38 2 0
+0 39 18 8
 1
 end_operator
 begin_operator
@@ -129167,8 +129167,8 @@ succumb laceration excitement potato earth uranus
 1
 11 9
 2
-0 39 18 9
 0 38 0 3
+0 39 18 9
 1
 end_operator
 begin_operator
@@ -129176,8 +129176,8 @@ succumb laceration excitement potato mercury saturn
 1
 11 9
 2
-0 39 18 9
 0 38 1 2
+0 39 18 9
 1
 end_operator
 begin_operator
@@ -129185,8 +129185,8 @@ succumb laceration excitement potato saturn earth
 1
 11 9
 2
-0 39 18 9
 0 38 2 0
+0 39 18 9
 1
 end_operator
 begin_operator
@@ -129194,8 +129194,8 @@ succumb laceration excitement rice earth uranus
 1
 11 10
 2
-0 39 18 10
 0 38 0 3
+0 39 18 10
 1
 end_operator
 begin_operator
@@ -129203,8 +129203,8 @@ succumb laceration excitement rice mercury saturn
 1
 11 10
 2
-0 39 18 10
 0 38 1 2
+0 39 18 10
 1
 end_operator
 begin_operator
@@ -129212,8 +129212,8 @@ succumb laceration excitement rice saturn earth
 1
 11 10
 2
-0 39 18 10
 0 38 2 0
+0 39 18 10
 1
 end_operator
 begin_operator
@@ -129221,8 +129221,8 @@ succumb laceration excitement shrimp earth uranus
 1
 11 11
 2
-0 39 18 11
 0 38 0 3
+0 39 18 11
 1
 end_operator
 begin_operator
@@ -129230,8 +129230,8 @@ succumb laceration excitement shrimp mercury saturn
 1
 11 11
 2
-0 39 18 11
 0 38 1 2
+0 39 18 11
 1
 end_operator
 begin_operator
@@ -129239,8 +129239,8 @@ succumb laceration excitement shrimp saturn earth
 1
 11 11
 2
-0 39 18 11
 0 38 2 0
+0 39 18 11
 1
 end_operator
 begin_operator
@@ -129248,8 +129248,8 @@ succumb laceration excitement turkey earth uranus
 1
 11 12
 2
-0 39 18 12
 0 38 0 3
+0 39 18 12
 1
 end_operator
 begin_operator
@@ -129257,8 +129257,8 @@ succumb laceration excitement turkey mercury saturn
 1
 11 12
 2
-0 39 18 12
 0 38 1 2
+0 39 18 12
 1
 end_operator
 begin_operator
@@ -129266,8 +129266,8 @@ succumb laceration excitement turkey saturn earth
 1
 11 12
 2
-0 39 18 12
 0 38 2 0
+0 39 18 12
 1
 end_operator
 begin_operator
@@ -129275,8 +129275,8 @@ succumb laceration excitement wonderbread earth uranus
 1
 11 13
 2
-0 39 18 13
 0 38 0 3
+0 39 18 13
 1
 end_operator
 begin_operator
@@ -129284,8 +129284,8 @@ succumb laceration excitement wonderbread mercury saturn
 1
 11 13
 2
-0 39 18 13
 0 38 1 2
+0 39 18 13
 1
 end_operator
 begin_operator
@@ -129293,8 +129293,8 @@ succumb laceration excitement wonderbread saturn earth
 1
 11 13
 2
-0 39 18 13
 0 38 2 0
+0 39 18 13
 1
 end_operator
 begin_operator
@@ -129302,8 +129302,8 @@ succumb laceration excitement wurst earth uranus
 1
 11 14
 2
-0 39 18 14
 0 38 0 3
+0 39 18 14
 1
 end_operator
 begin_operator
@@ -129311,8 +129311,8 @@ succumb laceration excitement wurst mercury saturn
 1
 11 14
 2
-0 39 18 14
 0 38 1 2
+0 39 18 14
 1
 end_operator
 begin_operator
@@ -129320,8 +129320,8 @@ succumb laceration excitement wurst saturn earth
 1
 11 14
 2
-0 39 18 14
 0 38 2 0
+0 39 18 14
 1
 end_operator
 begin_operator
@@ -129329,8 +129329,8 @@ succumb laceration excitement yogurt earth uranus
 1
 11 15
 2
-0 39 18 15
 0 38 0 3
+0 39 18 15
 1
 end_operator
 begin_operator
@@ -129338,8 +129338,8 @@ succumb laceration excitement yogurt mercury saturn
 1
 11 15
 2
-0 39 18 15
 0 38 1 2
+0 39 18 15
 1
 end_operator
 begin_operator
@@ -129347,8 +129347,8 @@ succumb laceration excitement yogurt saturn earth
 1
 11 15
 2
-0 39 18 15
 0 38 2 0
+0 39 18 15
 1
 end_operator
 begin_operator
@@ -131948,8 +131948,8 @@ succumb laceration-8 achievement arugula earth uranus
 1
 9 0
 2
-0 40 16 0
 0 37 0 3
+0 40 16 0
 1
 end_operator
 begin_operator
@@ -131957,8 +131957,8 @@ succumb laceration-8 achievement arugula mercury saturn
 1
 9 0
 2
-0 40 16 0
 0 37 1 2
+0 40 16 0
 1
 end_operator
 begin_operator
@@ -131966,8 +131966,8 @@ succumb laceration-8 achievement arugula saturn earth
 1
 9 0
 2
-0 40 16 0
 0 37 2 0
+0 40 16 0
 1
 end_operator
 begin_operator
@@ -131975,8 +131975,8 @@ succumb laceration-8 achievement cherry earth uranus
 1
 9 1
 2
-0 40 16 1
 0 37 0 3
+0 40 16 1
 1
 end_operator
 begin_operator
@@ -131984,8 +131984,8 @@ succumb laceration-8 achievement cherry mercury saturn
 1
 9 1
 2
-0 40 16 1
 0 37 1 2
+0 40 16 1
 1
 end_operator
 begin_operator
@@ -131993,8 +131993,8 @@ succumb laceration-8 achievement cherry saturn earth
 1
 9 1
 2
-0 40 16 1
 0 37 2 0
+0 40 16 1
 1
 end_operator
 begin_operator
@@ -132002,8 +132002,8 @@ succumb laceration-8 achievement endive earth uranus
 1
 9 2
 2
-0 40 16 2
 0 37 0 3
+0 40 16 2
 1
 end_operator
 begin_operator
@@ -132011,8 +132011,8 @@ succumb laceration-8 achievement endive mercury saturn
 1
 9 2
 2
-0 40 16 2
 0 37 1 2
+0 40 16 2
 1
 end_operator
 begin_operator
@@ -132020,8 +132020,8 @@ succumb laceration-8 achievement endive saturn earth
 1
 9 2
 2
-0 40 16 2
 0 37 2 0
+0 40 16 2
 1
 end_operator
 begin_operator
@@ -132029,8 +132029,8 @@ succumb laceration-8 achievement ham earth uranus
 1
 9 3
 2
-0 40 16 3
 0 37 0 3
+0 40 16 3
 1
 end_operator
 begin_operator
@@ -132038,8 +132038,8 @@ succumb laceration-8 achievement ham mercury saturn
 1
 9 3
 2
-0 40 16 3
 0 37 1 2
+0 40 16 3
 1
 end_operator
 begin_operator
@@ -132047,8 +132047,8 @@ succumb laceration-8 achievement ham saturn earth
 1
 9 3
 2
-0 40 16 3
 0 37 2 0
+0 40 16 3
 1
 end_operator
 begin_operator
@@ -132056,8 +132056,8 @@ succumb laceration-8 achievement haroset earth uranus
 1
 9 4
 2
-0 40 16 4
 0 37 0 3
+0 40 16 4
 1
 end_operator
 begin_operator
@@ -132065,8 +132065,8 @@ succumb laceration-8 achievement haroset mercury saturn
 1
 9 4
 2
-0 40 16 4
 0 37 1 2
+0 40 16 4
 1
 end_operator
 begin_operator
@@ -132074,8 +132074,8 @@ succumb laceration-8 achievement haroset saturn earth
 1
 9 4
 2
-0 40 16 4
 0 37 2 0
+0 40 16 4
 1
 end_operator
 begin_operator
@@ -132083,8 +132083,8 @@ succumb laceration-8 achievement marzipan earth uranus
 1
 9 5
 2
-0 40 16 5
 0 37 0 3
+0 40 16 5
 1
 end_operator
 begin_operator
@@ -132092,8 +132092,8 @@ succumb laceration-8 achievement marzipan mercury saturn
 1
 9 5
 2
-0 40 16 5
 0 37 1 2
+0 40 16 5
 1
 end_operator
 begin_operator
@@ -132101,8 +132101,8 @@ succumb laceration-8 achievement marzipan saturn earth
 1
 9 5
 2
-0 40 16 5
 0 37 2 0
+0 40 16 5
 1
 end_operator
 begin_operator
@@ -132110,8 +132110,8 @@ succumb laceration-8 achievement mutton earth uranus
 1
 9 6
 2
-0 40 16 6
 0 37 0 3
+0 40 16 6
 1
 end_operator
 begin_operator
@@ -132119,8 +132119,8 @@ succumb laceration-8 achievement mutton mercury saturn
 1
 9 6
 2
-0 40 16 6
 0 37 1 2
+0 40 16 6
 1
 end_operator
 begin_operator
@@ -132128,8 +132128,8 @@ succumb laceration-8 achievement mutton saturn earth
 1
 9 6
 2
-0 40 16 6
 0 37 2 0
+0 40 16 6
 1
 end_operator
 begin_operator
@@ -132137,8 +132137,8 @@ succumb laceration-8 achievement onion earth uranus
 1
 9 7
 2
-0 40 16 7
 0 37 0 3
+0 40 16 7
 1
 end_operator
 begin_operator
@@ -132146,8 +132146,8 @@ succumb laceration-8 achievement onion mercury saturn
 1
 9 7
 2
-0 40 16 7
 0 37 1 2
+0 40 16 7
 1
 end_operator
 begin_operator
@@ -132155,8 +132155,8 @@ succumb laceration-8 achievement onion saturn earth
 1
 9 7
 2
-0 40 16 7
 0 37 2 0
+0 40 16 7
 1
 end_operator
 begin_operator
@@ -132164,8 +132164,8 @@ succumb laceration-8 achievement papaya earth uranus
 1
 9 8
 2
-0 40 16 8
 0 37 0 3
+0 40 16 8
 1
 end_operator
 begin_operator
@@ -132173,8 +132173,8 @@ succumb laceration-8 achievement papaya mercury saturn
 1
 9 8
 2
-0 40 16 8
 0 37 1 2
+0 40 16 8
 1
 end_operator
 begin_operator
@@ -132182,8 +132182,8 @@ succumb laceration-8 achievement papaya saturn earth
 1
 9 8
 2
-0 40 16 8
 0 37 2 0
+0 40 16 8
 1
 end_operator
 begin_operator
@@ -132191,8 +132191,8 @@ succumb laceration-8 achievement potato earth uranus
 1
 9 9
 2
-0 40 16 9
 0 37 0 3
+0 40 16 9
 1
 end_operator
 begin_operator
@@ -132200,8 +132200,8 @@ succumb laceration-8 achievement potato mercury saturn
 1
 9 9
 2
-0 40 16 9
 0 37 1 2
+0 40 16 9
 1
 end_operator
 begin_operator
@@ -132209,8 +132209,8 @@ succumb laceration-8 achievement potato saturn earth
 1
 9 9
 2
-0 40 16 9
 0 37 2 0
+0 40 16 9
 1
 end_operator
 begin_operator
@@ -132218,8 +132218,8 @@ succumb laceration-8 achievement rice earth uranus
 1
 9 10
 2
-0 40 16 10
 0 37 0 3
+0 40 16 10
 1
 end_operator
 begin_operator
@@ -132227,8 +132227,8 @@ succumb laceration-8 achievement rice mercury saturn
 1
 9 10
 2
-0 40 16 10
 0 37 1 2
+0 40 16 10
 1
 end_operator
 begin_operator
@@ -132236,8 +132236,8 @@ succumb laceration-8 achievement rice saturn earth
 1
 9 10
 2
-0 40 16 10
 0 37 2 0
+0 40 16 10
 1
 end_operator
 begin_operator
@@ -132245,8 +132245,8 @@ succumb laceration-8 achievement shrimp earth uranus
 1
 9 11
 2
-0 40 16 11
 0 37 0 3
+0 40 16 11
 1
 end_operator
 begin_operator
@@ -132254,8 +132254,8 @@ succumb laceration-8 achievement shrimp mercury saturn
 1
 9 11
 2
-0 40 16 11
 0 37 1 2
+0 40 16 11
 1
 end_operator
 begin_operator
@@ -132263,8 +132263,8 @@ succumb laceration-8 achievement shrimp saturn earth
 1
 9 11
 2
-0 40 16 11
 0 37 2 0
+0 40 16 11
 1
 end_operator
 begin_operator
@@ -132272,8 +132272,8 @@ succumb laceration-8 achievement turkey earth uranus
 1
 9 12
 2
-0 40 16 12
 0 37 0 3
+0 40 16 12
 1
 end_operator
 begin_operator
@@ -132281,8 +132281,8 @@ succumb laceration-8 achievement turkey mercury saturn
 1
 9 12
 2
-0 40 16 12
 0 37 1 2
+0 40 16 12
 1
 end_operator
 begin_operator
@@ -132290,8 +132290,8 @@ succumb laceration-8 achievement turkey saturn earth
 1
 9 12
 2
-0 40 16 12
 0 37 2 0
+0 40 16 12
 1
 end_operator
 begin_operator
@@ -132299,8 +132299,8 @@ succumb laceration-8 achievement wonderbread earth uranus
 1
 9 13
 2
-0 40 16 13
 0 37 0 3
+0 40 16 13
 1
 end_operator
 begin_operator
@@ -132308,8 +132308,8 @@ succumb laceration-8 achievement wonderbread mercury saturn
 1
 9 13
 2
-0 40 16 13
 0 37 1 2
+0 40 16 13
 1
 end_operator
 begin_operator
@@ -132317,8 +132317,8 @@ succumb laceration-8 achievement wonderbread saturn earth
 1
 9 13
 2
-0 40 16 13
 0 37 2 0
+0 40 16 13
 1
 end_operator
 begin_operator
@@ -132326,8 +132326,8 @@ succumb laceration-8 achievement wurst earth uranus
 1
 9 14
 2
-0 40 16 14
 0 37 0 3
+0 40 16 14
 1
 end_operator
 begin_operator
@@ -132335,8 +132335,8 @@ succumb laceration-8 achievement wurst mercury saturn
 1
 9 14
 2
-0 40 16 14
 0 37 1 2
+0 40 16 14
 1
 end_operator
 begin_operator
@@ -132344,8 +132344,8 @@ succumb laceration-8 achievement wurst saturn earth
 1
 9 14
 2
-0 40 16 14
 0 37 2 0
+0 40 16 14
 1
 end_operator
 begin_operator
@@ -132353,8 +132353,8 @@ succumb laceration-8 achievement yogurt earth uranus
 1
 9 15
 2
-0 40 16 15
 0 37 0 3
+0 40 16 15
 1
 end_operator
 begin_operator
@@ -132362,8 +132362,8 @@ succumb laceration-8 achievement yogurt mercury saturn
 1
 9 15
 2
-0 40 16 15
 0 37 1 2
+0 40 16 15
 1
 end_operator
 begin_operator
@@ -132371,32 +132371,32 @@ succumb laceration-8 achievement yogurt saturn earth
 1
 9 15
 2
-0 40 16 15
 0 37 2 0
+0 40 16 15
 1
 end_operator
 begin_operator
 succumb laceration-8 entertainment wurst earth uranus
 0
 2
-0 40 17 14
 0 23 0 3
+0 40 17 14
 1
 end_operator
 begin_operator
 succumb laceration-8 entertainment wurst mercury saturn
 0
 2
-0 40 17 14
 0 23 1 2
+0 40 17 14
 1
 end_operator
 begin_operator
 succumb laceration-8 entertainment wurst saturn earth
 0
 2
-0 40 17 14
 0 23 2 0
+0 40 17 14
 1
 end_operator
 begin_operator
@@ -132404,8 +132404,8 @@ succumb laceration-8 excitement arugula earth uranus
 1
 11 0
 2
-0 40 18 0
 0 38 0 3
+0 40 18 0
 1
 end_operator
 begin_operator
@@ -132413,8 +132413,8 @@ succumb laceration-8 excitement arugula mercury saturn
 1
 11 0
 2
-0 40 18 0
 0 38 1 2
+0 40 18 0
 1
 end_operator
 begin_operator
@@ -132422,8 +132422,8 @@ succumb laceration-8 excitement arugula saturn earth
 1
 11 0
 2
-0 40 18 0
 0 38 2 0
+0 40 18 0
 1
 end_operator
 begin_operator
@@ -132431,8 +132431,8 @@ succumb laceration-8 excitement cherry earth uranus
 1
 11 1
 2
-0 40 18 1
 0 38 0 3
+0 40 18 1
 1
 end_operator
 begin_operator
@@ -132440,8 +132440,8 @@ succumb laceration-8 excitement cherry mercury saturn
 1
 11 1
 2
-0 40 18 1
 0 38 1 2
+0 40 18 1
 1
 end_operator
 begin_operator
@@ -132449,8 +132449,8 @@ succumb laceration-8 excitement cherry saturn earth
 1
 11 1
 2
-0 40 18 1
 0 38 2 0
+0 40 18 1
 1
 end_operator
 begin_operator
@@ -132458,8 +132458,8 @@ succumb laceration-8 excitement endive earth uranus
 1
 11 2
 2
-0 40 18 2
 0 38 0 3
+0 40 18 2
 1
 end_operator
 begin_operator
@@ -132467,8 +132467,8 @@ succumb laceration-8 excitement endive mercury saturn
 1
 11 2
 2
-0 40 18 2
 0 38 1 2
+0 40 18 2
 1
 end_operator
 begin_operator
@@ -132476,8 +132476,8 @@ succumb laceration-8 excitement endive saturn earth
 1
 11 2
 2
-0 40 18 2
 0 38 2 0
+0 40 18 2
 1
 end_operator
 begin_operator
@@ -132485,8 +132485,8 @@ succumb laceration-8 excitement ham earth uranus
 1
 11 3
 2
-0 40 18 3
 0 38 0 3
+0 40 18 3
 1
 end_operator
 begin_operator
@@ -132494,8 +132494,8 @@ succumb laceration-8 excitement ham mercury saturn
 1
 11 3
 2
-0 40 18 3
 0 38 1 2
+0 40 18 3
 1
 end_operator
 begin_operator
@@ -132503,8 +132503,8 @@ succumb laceration-8 excitement ham saturn earth
 1
 11 3
 2
-0 40 18 3
 0 38 2 0
+0 40 18 3
 1
 end_operator
 begin_operator
@@ -132512,8 +132512,8 @@ succumb laceration-8 excitement haroset earth uranus
 1
 11 4
 2
-0 40 18 4
 0 38 0 3
+0 40 18 4
 1
 end_operator
 begin_operator
@@ -132521,8 +132521,8 @@ succumb laceration-8 excitement haroset mercury saturn
 1
 11 4
 2
-0 40 18 4
 0 38 1 2
+0 40 18 4
 1
 end_operator
 begin_operator
@@ -132530,8 +132530,8 @@ succumb laceration-8 excitement haroset saturn earth
 1
 11 4
 2
-0 40 18 4
 0 38 2 0
+0 40 18 4
 1
 end_operator
 begin_operator
@@ -132539,8 +132539,8 @@ succumb laceration-8 excitement marzipan earth uranus
 1
 11 5
 2
-0 40 18 5
 0 38 0 3
+0 40 18 5
 1
 end_operator
 begin_operator
@@ -132548,8 +132548,8 @@ succumb laceration-8 excitement marzipan mercury saturn
 1
 11 5
 2
-0 40 18 5
 0 38 1 2
+0 40 18 5
 1
 end_operator
 begin_operator
@@ -132557,8 +132557,8 @@ succumb laceration-8 excitement marzipan saturn earth
 1
 11 5
 2
-0 40 18 5
 0 38 2 0
+0 40 18 5
 1
 end_operator
 begin_operator
@@ -132566,8 +132566,8 @@ succumb laceration-8 excitement mutton earth uranus
 1
 11 6
 2
-0 40 18 6
 0 38 0 3
+0 40 18 6
 1
 end_operator
 begin_operator
@@ -132575,8 +132575,8 @@ succumb laceration-8 excitement mutton mercury saturn
 1
 11 6
 2
-0 40 18 6
 0 38 1 2
+0 40 18 6
 1
 end_operator
 begin_operator
@@ -132584,8 +132584,8 @@ succumb laceration-8 excitement mutton saturn earth
 1
 11 6
 2
-0 40 18 6
 0 38 2 0
+0 40 18 6
 1
 end_operator
 begin_operator
@@ -132593,8 +132593,8 @@ succumb laceration-8 excitement onion earth uranus
 1
 11 7
 2
-0 40 18 7
 0 38 0 3
+0 40 18 7
 1
 end_operator
 begin_operator
@@ -132602,8 +132602,8 @@ succumb laceration-8 excitement onion mercury saturn
 1
 11 7
 2
-0 40 18 7
 0 38 1 2
+0 40 18 7
 1
 end_operator
 begin_operator
@@ -132611,8 +132611,8 @@ succumb laceration-8 excitement onion saturn earth
 1
 11 7
 2
-0 40 18 7
 0 38 2 0
+0 40 18 7
 1
 end_operator
 begin_operator
@@ -132620,8 +132620,8 @@ succumb laceration-8 excitement papaya earth uranus
 1
 11 8
 2
-0 40 18 8
 0 38 0 3
+0 40 18 8
 1
 end_operator
 begin_operator
@@ -132629,8 +132629,8 @@ succumb laceration-8 excitement papaya mercury saturn
 1
 11 8
 2
-0 40 18 8
 0 38 1 2
+0 40 18 8
 1
 end_operator
 begin_operator
@@ -132638,8 +132638,8 @@ succumb laceration-8 excitement papaya saturn earth
 1
 11 8
 2
-0 40 18 8
 0 38 2 0
+0 40 18 8
 1
 end_operator
 begin_operator
@@ -132647,8 +132647,8 @@ succumb laceration-8 excitement potato earth uranus
 1
 11 9
 2
-0 40 18 9
 0 38 0 3
+0 40 18 9
 1
 end_operator
 begin_operator
@@ -132656,8 +132656,8 @@ succumb laceration-8 excitement potato mercury saturn
 1
 11 9
 2
-0 40 18 9
 0 38 1 2
+0 40 18 9
 1
 end_operator
 begin_operator
@@ -132665,8 +132665,8 @@ succumb laceration-8 excitement potato saturn earth
 1
 11 9
 2
-0 40 18 9
 0 38 2 0
+0 40 18 9
 1
 end_operator
 begin_operator
@@ -132674,8 +132674,8 @@ succumb laceration-8 excitement rice earth uranus
 1
 11 10
 2
-0 40 18 10
 0 38 0 3
+0 40 18 10
 1
 end_operator
 begin_operator
@@ -132683,8 +132683,8 @@ succumb laceration-8 excitement rice mercury saturn
 1
 11 10
 2
-0 40 18 10
 0 38 1 2
+0 40 18 10
 1
 end_operator
 begin_operator
@@ -132692,8 +132692,8 @@ succumb laceration-8 excitement rice saturn earth
 1
 11 10
 2
-0 40 18 10
 0 38 2 0
+0 40 18 10
 1
 end_operator
 begin_operator
@@ -132701,8 +132701,8 @@ succumb laceration-8 excitement shrimp earth uranus
 1
 11 11
 2
-0 40 18 11
 0 38 0 3
+0 40 18 11
 1
 end_operator
 begin_operator
@@ -132710,8 +132710,8 @@ succumb laceration-8 excitement shrimp mercury saturn
 1
 11 11
 2
-0 40 18 11
 0 38 1 2
+0 40 18 11
 1
 end_operator
 begin_operator
@@ -132719,8 +132719,8 @@ succumb laceration-8 excitement shrimp saturn earth
 1
 11 11
 2
-0 40 18 11
 0 38 2 0
+0 40 18 11
 1
 end_operator
 begin_operator
@@ -132728,8 +132728,8 @@ succumb laceration-8 excitement turkey earth uranus
 1
 11 12
 2
-0 40 18 12
 0 38 0 3
+0 40 18 12
 1
 end_operator
 begin_operator
@@ -132737,8 +132737,8 @@ succumb laceration-8 excitement turkey mercury saturn
 1
 11 12
 2
-0 40 18 12
 0 38 1 2
+0 40 18 12
 1
 end_operator
 begin_operator
@@ -132746,8 +132746,8 @@ succumb laceration-8 excitement turkey saturn earth
 1
 11 12
 2
-0 40 18 12
 0 38 2 0
+0 40 18 12
 1
 end_operator
 begin_operator
@@ -132755,8 +132755,8 @@ succumb laceration-8 excitement wonderbread earth uranus
 1
 11 13
 2
-0 40 18 13
 0 38 0 3
+0 40 18 13
 1
 end_operator
 begin_operator
@@ -132764,8 +132764,8 @@ succumb laceration-8 excitement wonderbread mercury saturn
 1
 11 13
 2
-0 40 18 13
 0 38 1 2
+0 40 18 13
 1
 end_operator
 begin_operator
@@ -132773,8 +132773,8 @@ succumb laceration-8 excitement wonderbread saturn earth
 1
 11 13
 2
-0 40 18 13
 0 38 2 0
+0 40 18 13
 1
 end_operator
 begin_operator
@@ -132782,8 +132782,8 @@ succumb laceration-8 excitement wurst earth uranus
 1
 11 14
 2
-0 40 18 14
 0 38 0 3
+0 40 18 14
 1
 end_operator
 begin_operator
@@ -132791,8 +132791,8 @@ succumb laceration-8 excitement wurst mercury saturn
 1
 11 14
 2
-0 40 18 14
 0 38 1 2
+0 40 18 14
 1
 end_operator
 begin_operator
@@ -132800,8 +132800,8 @@ succumb laceration-8 excitement wurst saturn earth
 1
 11 14
 2
-0 40 18 14
 0 38 2 0
+0 40 18 14
 1
 end_operator
 begin_operator
@@ -132809,8 +132809,8 @@ succumb laceration-8 excitement yogurt earth uranus
 1
 11 15
 2
-0 40 18 15
 0 38 0 3
+0 40 18 15
 1
 end_operator
 begin_operator
@@ -132818,8 +132818,8 @@ succumb laceration-8 excitement yogurt mercury saturn
 1
 11 15
 2
-0 40 18 15
 0 38 1 2
+0 40 18 15
 1
 end_operator
 begin_operator
@@ -132827,8 +132827,8 @@ succumb laceration-8 excitement yogurt saturn earth
 1
 11 15
 2
-0 40 18 15
 0 38 2 0
+0 40 18 15
 1
 end_operator
 begin_operator
@@ -135428,8 +135428,8 @@ succumb loneliness achievement arugula earth uranus
 1
 9 0
 2
-0 43 16 0
 0 37 0 3
+0 43 16 0
 1
 end_operator
 begin_operator
@@ -135437,8 +135437,8 @@ succumb loneliness achievement arugula mercury saturn
 1
 9 0
 2
-0 43 16 0
 0 37 1 2
+0 43 16 0
 1
 end_operator
 begin_operator
@@ -135446,8 +135446,8 @@ succumb loneliness achievement arugula saturn earth
 1
 9 0
 2
-0 43 16 0
 0 37 2 0
+0 43 16 0
 1
 end_operator
 begin_operator
@@ -135455,8 +135455,8 @@ succumb loneliness achievement cherry earth uranus
 1
 9 1
 2
-0 43 16 1
 0 37 0 3
+0 43 16 1
 1
 end_operator
 begin_operator
@@ -135464,8 +135464,8 @@ succumb loneliness achievement cherry mercury saturn
 1
 9 1
 2
-0 43 16 1
 0 37 1 2
+0 43 16 1
 1
 end_operator
 begin_operator
@@ -135473,8 +135473,8 @@ succumb loneliness achievement cherry saturn earth
 1
 9 1
 2
-0 43 16 1
 0 37 2 0
+0 43 16 1
 1
 end_operator
 begin_operator
@@ -135482,8 +135482,8 @@ succumb loneliness achievement endive earth uranus
 1
 9 2
 2
-0 43 16 2
 0 37 0 3
+0 43 16 2
 1
 end_operator
 begin_operator
@@ -135491,8 +135491,8 @@ succumb loneliness achievement endive mercury saturn
 1
 9 2
 2
-0 43 16 2
 0 37 1 2
+0 43 16 2
 1
 end_operator
 begin_operator
@@ -135500,8 +135500,8 @@ succumb loneliness achievement endive saturn earth
 1
 9 2
 2
-0 43 16 2
 0 37 2 0
+0 43 16 2
 1
 end_operator
 begin_operator
@@ -135509,8 +135509,8 @@ succumb loneliness achievement ham earth uranus
 1
 9 3
 2
-0 43 16 3
 0 37 0 3
+0 43 16 3
 1
 end_operator
 begin_operator
@@ -135518,8 +135518,8 @@ succumb loneliness achievement ham mercury saturn
 1
 9 3
 2
-0 43 16 3
 0 37 1 2
+0 43 16 3
 1
 end_operator
 begin_operator
@@ -135527,8 +135527,8 @@ succumb loneliness achievement ham saturn earth
 1
 9 3
 2
-0 43 16 3
 0 37 2 0
+0 43 16 3
 1
 end_operator
 begin_operator
@@ -135536,8 +135536,8 @@ succumb loneliness achievement haroset earth uranus
 1
 9 4
 2
-0 43 16 4
 0 37 0 3
+0 43 16 4
 1
 end_operator
 begin_operator
@@ -135545,8 +135545,8 @@ succumb loneliness achievement haroset mercury saturn
 1
 9 4
 2
-0 43 16 4
 0 37 1 2
+0 43 16 4
 1
 end_operator
 begin_operator
@@ -135554,8 +135554,8 @@ succumb loneliness achievement haroset saturn earth
 1
 9 4
 2
-0 43 16 4
 0 37 2 0
+0 43 16 4
 1
 end_operator
 begin_operator
@@ -135563,8 +135563,8 @@ succumb loneliness achievement marzipan earth uranus
 1
 9 5
 2
-0 43 16 5
 0 37 0 3
+0 43 16 5
 1
 end_operator
 begin_operator
@@ -135572,8 +135572,8 @@ succumb loneliness achievement marzipan mercury saturn
 1
 9 5
 2
-0 43 16 5
 0 37 1 2
+0 43 16 5
 1
 end_operator
 begin_operator
@@ -135581,8 +135581,8 @@ succumb loneliness achievement marzipan saturn earth
 1
 9 5
 2
-0 43 16 5
 0 37 2 0
+0 43 16 5
 1
 end_operator
 begin_operator
@@ -135590,8 +135590,8 @@ succumb loneliness achievement mutton earth uranus
 1
 9 6
 2
-0 43 16 6
 0 37 0 3
+0 43 16 6
 1
 end_operator
 begin_operator
@@ -135599,8 +135599,8 @@ succumb loneliness achievement mutton mercury saturn
 1
 9 6
 2
-0 43 16 6
 0 37 1 2
+0 43 16 6
 1
 end_operator
 begin_operator
@@ -135608,8 +135608,8 @@ succumb loneliness achievement mutton saturn earth
 1
 9 6
 2
-0 43 16 6
 0 37 2 0
+0 43 16 6
 1
 end_operator
 begin_operator
@@ -135617,8 +135617,8 @@ succumb loneliness achievement onion earth uranus
 1
 9 7
 2
-0 43 16 7
 0 37 0 3
+0 43 16 7
 1
 end_operator
 begin_operator
@@ -135626,8 +135626,8 @@ succumb loneliness achievement onion mercury saturn
 1
 9 7
 2
-0 43 16 7
 0 37 1 2
+0 43 16 7
 1
 end_operator
 begin_operator
@@ -135635,8 +135635,8 @@ succumb loneliness achievement onion saturn earth
 1
 9 7
 2
-0 43 16 7
 0 37 2 0
+0 43 16 7
 1
 end_operator
 begin_operator
@@ -135644,8 +135644,8 @@ succumb loneliness achievement papaya earth uranus
 1
 9 8
 2
-0 43 16 8
 0 37 0 3
+0 43 16 8
 1
 end_operator
 begin_operator
@@ -135653,8 +135653,8 @@ succumb loneliness achievement papaya mercury saturn
 1
 9 8
 2
-0 43 16 8
 0 37 1 2
+0 43 16 8
 1
 end_operator
 begin_operator
@@ -135662,8 +135662,8 @@ succumb loneliness achievement papaya saturn earth
 1
 9 8
 2
-0 43 16 8
 0 37 2 0
+0 43 16 8
 1
 end_operator
 begin_operator
@@ -135671,8 +135671,8 @@ succumb loneliness achievement potato earth uranus
 1
 9 9
 2
-0 43 16 9
 0 37 0 3
+0 43 16 9
 1
 end_operator
 begin_operator
@@ -135680,8 +135680,8 @@ succumb loneliness achievement potato mercury saturn
 1
 9 9
 2
-0 43 16 9
 0 37 1 2
+0 43 16 9
 1
 end_operator
 begin_operator
@@ -135689,8 +135689,8 @@ succumb loneliness achievement potato saturn earth
 1
 9 9
 2
-0 43 16 9
 0 37 2 0
+0 43 16 9
 1
 end_operator
 begin_operator
@@ -135698,8 +135698,8 @@ succumb loneliness achievement rice earth uranus
 1
 9 10
 2
-0 43 16 10
 0 37 0 3
+0 43 16 10
 1
 end_operator
 begin_operator
@@ -135707,8 +135707,8 @@ succumb loneliness achievement rice mercury saturn
 1
 9 10
 2
-0 43 16 10
 0 37 1 2
+0 43 16 10
 1
 end_operator
 begin_operator
@@ -135716,8 +135716,8 @@ succumb loneliness achievement rice saturn earth
 1
 9 10
 2
-0 43 16 10
 0 37 2 0
+0 43 16 10
 1
 end_operator
 begin_operator
@@ -135725,8 +135725,8 @@ succumb loneliness achievement shrimp earth uranus
 1
 9 11
 2
-0 43 16 11
 0 37 0 3
+0 43 16 11
 1
 end_operator
 begin_operator
@@ -135734,8 +135734,8 @@ succumb loneliness achievement shrimp mercury saturn
 1
 9 11
 2
-0 43 16 11
 0 37 1 2
+0 43 16 11
 1
 end_operator
 begin_operator
@@ -135743,8 +135743,8 @@ succumb loneliness achievement shrimp saturn earth
 1
 9 11
 2
-0 43 16 11
 0 37 2 0
+0 43 16 11
 1
 end_operator
 begin_operator
@@ -135752,8 +135752,8 @@ succumb loneliness achievement turkey earth uranus
 1
 9 12
 2
-0 43 16 12
 0 37 0 3
+0 43 16 12
 1
 end_operator
 begin_operator
@@ -135761,8 +135761,8 @@ succumb loneliness achievement turkey mercury saturn
 1
 9 12
 2
-0 43 16 12
 0 37 1 2
+0 43 16 12
 1
 end_operator
 begin_operator
@@ -135770,8 +135770,8 @@ succumb loneliness achievement turkey saturn earth
 1
 9 12
 2
-0 43 16 12
 0 37 2 0
+0 43 16 12
 1
 end_operator
 begin_operator
@@ -135779,8 +135779,8 @@ succumb loneliness achievement wonderbread earth uranus
 1
 9 13
 2
-0 43 16 13
 0 37 0 3
+0 43 16 13
 1
 end_operator
 begin_operator
@@ -135788,8 +135788,8 @@ succumb loneliness achievement wonderbread mercury saturn
 1
 9 13
 2
-0 43 16 13
 0 37 1 2
+0 43 16 13
 1
 end_operator
 begin_operator
@@ -135797,8 +135797,8 @@ succumb loneliness achievement wonderbread saturn earth
 1
 9 13
 2
-0 43 16 13
 0 37 2 0
+0 43 16 13
 1
 end_operator
 begin_operator
@@ -135806,8 +135806,8 @@ succumb loneliness achievement wurst earth uranus
 1
 9 14
 2
-0 43 16 14
 0 37 0 3
+0 43 16 14
 1
 end_operator
 begin_operator
@@ -135815,8 +135815,8 @@ succumb loneliness achievement wurst mercury saturn
 1
 9 14
 2
-0 43 16 14
 0 37 1 2
+0 43 16 14
 1
 end_operator
 begin_operator
@@ -135824,8 +135824,8 @@ succumb loneliness achievement wurst saturn earth
 1
 9 14
 2
-0 43 16 14
 0 37 2 0
+0 43 16 14
 1
 end_operator
 begin_operator
@@ -135833,8 +135833,8 @@ succumb loneliness achievement yogurt earth uranus
 1
 9 15
 2
-0 43 16 15
 0 37 0 3
+0 43 16 15
 1
 end_operator
 begin_operator
@@ -135842,8 +135842,8 @@ succumb loneliness achievement yogurt mercury saturn
 1
 9 15
 2
-0 43 16 15
 0 37 1 2
+0 43 16 15
 1
 end_operator
 begin_operator
@@ -135851,32 +135851,32 @@ succumb loneliness achievement yogurt saturn earth
 1
 9 15
 2
-0 43 16 15
 0 37 2 0
+0 43 16 15
 1
 end_operator
 begin_operator
 succumb loneliness entertainment wurst earth uranus
 0
 2
-0 43 17 14
 0 23 0 3
+0 43 17 14
 1
 end_operator
 begin_operator
 succumb loneliness entertainment wurst mercury saturn
 0
 2
-0 43 17 14
 0 23 1 2
+0 43 17 14
 1
 end_operator
 begin_operator
 succumb loneliness entertainment wurst saturn earth
 0
 2
-0 43 17 14
 0 23 2 0
+0 43 17 14
 1
 end_operator
 begin_operator
@@ -135884,8 +135884,8 @@ succumb loneliness excitement arugula earth uranus
 1
 11 0
 2
-0 43 18 0
 0 38 0 3
+0 43 18 0
 1
 end_operator
 begin_operator
@@ -135893,8 +135893,8 @@ succumb loneliness excitement arugula mercury saturn
 1
 11 0
 2
-0 43 18 0
 0 38 1 2
+0 43 18 0
 1
 end_operator
 begin_operator
@@ -135902,8 +135902,8 @@ succumb loneliness excitement arugula saturn earth
 1
 11 0
 2
-0 43 18 0
 0 38 2 0
+0 43 18 0
 1
 end_operator
 begin_operator
@@ -135911,8 +135911,8 @@ succumb loneliness excitement cherry earth uranus
 1
 11 1
 2
-0 43 18 1
 0 38 0 3
+0 43 18 1
 1
 end_operator
 begin_operator
@@ -135920,8 +135920,8 @@ succumb loneliness excitement cherry mercury saturn
 1
 11 1
 2
-0 43 18 1
 0 38 1 2
+0 43 18 1
 1
 end_operator
 begin_operator
@@ -135929,8 +135929,8 @@ succumb loneliness excitement cherry saturn earth
 1
 11 1
 2
-0 43 18 1
 0 38 2 0
+0 43 18 1
 1
 end_operator
 begin_operator
@@ -135938,8 +135938,8 @@ succumb loneliness excitement endive earth uranus
 1
 11 2
 2
-0 43 18 2
 0 38 0 3
+0 43 18 2
 1
 end_operator
 begin_operator
@@ -135947,8 +135947,8 @@ succumb loneliness excitement endive mercury saturn
 1
 11 2
 2
-0 43 18 2
 0 38 1 2
+0 43 18 2
 1
 end_operator
 begin_operator
@@ -135956,8 +135956,8 @@ succumb loneliness excitement endive saturn earth
 1
 11 2
 2
-0 43 18 2
 0 38 2 0
+0 43 18 2
 1
 end_operator
 begin_operator
@@ -135965,8 +135965,8 @@ succumb loneliness excitement ham earth uranus
 1
 11 3
 2
-0 43 18 3
 0 38 0 3
+0 43 18 3
 1
 end_operator
 begin_operator
@@ -135974,8 +135974,8 @@ succumb loneliness excitement ham mercury saturn
 1
 11 3
 2
-0 43 18 3
 0 38 1 2
+0 43 18 3
 1
 end_operator
 begin_operator
@@ -135983,8 +135983,8 @@ succumb loneliness excitement ham saturn earth
 1
 11 3
 2
-0 43 18 3
 0 38 2 0
+0 43 18 3
 1
 end_operator
 begin_operator
@@ -135992,8 +135992,8 @@ succumb loneliness excitement haroset earth uranus
 1
 11 4
 2
-0 43 18 4
 0 38 0 3
+0 43 18 4
 1
 end_operator
 begin_operator
@@ -136001,8 +136001,8 @@ succumb loneliness excitement haroset mercury saturn
 1
 11 4
 2
-0 43 18 4
 0 38 1 2
+0 43 18 4
 1
 end_operator
 begin_operator
@@ -136010,8 +136010,8 @@ succumb loneliness excitement haroset saturn earth
 1
 11 4
 2
-0 43 18 4
 0 38 2 0
+0 43 18 4
 1
 end_operator
 begin_operator
@@ -136019,8 +136019,8 @@ succumb loneliness excitement marzipan earth uranus
 1
 11 5
 2
-0 43 18 5
 0 38 0 3
+0 43 18 5
 1
 end_operator
 begin_operator
@@ -136028,8 +136028,8 @@ succumb loneliness excitement marzipan mercury saturn
 1
 11 5
 2
-0 43 18 5
 0 38 1 2
+0 43 18 5
 1
 end_operator
 begin_operator
@@ -136037,8 +136037,8 @@ succumb loneliness excitement marzipan saturn earth
 1
 11 5
 2
-0 43 18 5
 0 38 2 0
+0 43 18 5
 1
 end_operator
 begin_operator
@@ -136046,8 +136046,8 @@ succumb loneliness excitement mutton earth uranus
 1
 11 6
 2
-0 43 18 6
 0 38 0 3
+0 43 18 6
 1
 end_operator
 begin_operator
@@ -136055,8 +136055,8 @@ succumb loneliness excitement mutton mercury saturn
 1
 11 6
 2
-0 43 18 6
 0 38 1 2
+0 43 18 6
 1
 end_operator
 begin_operator
@@ -136064,8 +136064,8 @@ succumb loneliness excitement mutton saturn earth
 1
 11 6
 2
-0 43 18 6
 0 38 2 0
+0 43 18 6
 1
 end_operator
 begin_operator
@@ -136073,8 +136073,8 @@ succumb loneliness excitement onion earth uranus
 1
 11 7
 2
-0 43 18 7
 0 38 0 3
+0 43 18 7
 1
 end_operator
 begin_operator
@@ -136082,8 +136082,8 @@ succumb loneliness excitement onion mercury saturn
 1
 11 7
 2
-0 43 18 7
 0 38 1 2
+0 43 18 7
 1
 end_operator
 begin_operator
@@ -136091,8 +136091,8 @@ succumb loneliness excitement onion saturn earth
 1
 11 7
 2
-0 43 18 7
 0 38 2 0
+0 43 18 7
 1
 end_operator
 begin_operator
@@ -136100,8 +136100,8 @@ succumb loneliness excitement papaya earth uranus
 1
 11 8
 2
-0 43 18 8
 0 38 0 3
+0 43 18 8
 1
 end_operator
 begin_operator
@@ -136109,8 +136109,8 @@ succumb loneliness excitement papaya mercury saturn
 1
 11 8
 2
-0 43 18 8
 0 38 1 2
+0 43 18 8
 1
 end_operator
 begin_operator
@@ -136118,8 +136118,8 @@ succumb loneliness excitement papaya saturn earth
 1
 11 8
 2
-0 43 18 8
 0 38 2 0
+0 43 18 8
 1
 end_operator
 begin_operator
@@ -136127,8 +136127,8 @@ succumb loneliness excitement potato earth uranus
 1
 11 9
 2
-0 43 18 9
 0 38 0 3
+0 43 18 9
 1
 end_operator
 begin_operator
@@ -136136,8 +136136,8 @@ succumb loneliness excitement potato mercury saturn
 1
 11 9
 2
-0 43 18 9
 0 38 1 2
+0 43 18 9
 1
 end_operator
 begin_operator
@@ -136145,8 +136145,8 @@ succumb loneliness excitement potato saturn earth
 1
 11 9
 2
-0 43 18 9
 0 38 2 0
+0 43 18 9
 1
 end_operator
 begin_operator
@@ -136154,8 +136154,8 @@ succumb loneliness excitement rice earth uranus
 1
 11 10
 2
-0 43 18 10
 0 38 0 3
+0 43 18 10
 1
 end_operator
 begin_operator
@@ -136163,8 +136163,8 @@ succumb loneliness excitement rice mercury saturn
 1
 11 10
 2
-0 43 18 10
 0 38 1 2
+0 43 18 10
 1
 end_operator
 begin_operator
@@ -136172,8 +136172,8 @@ succumb loneliness excitement rice saturn earth
 1
 11 10
 2
-0 43 18 10
 0 38 2 0
+0 43 18 10
 1
 end_operator
 begin_operator
@@ -136181,8 +136181,8 @@ succumb loneliness excitement shrimp earth uranus
 1
 11 11
 2
-0 43 18 11
 0 38 0 3
+0 43 18 11
 1
 end_operator
 begin_operator
@@ -136190,8 +136190,8 @@ succumb loneliness excitement shrimp mercury saturn
 1
 11 11
 2
-0 43 18 11
 0 38 1 2
+0 43 18 11
 1
 end_operator
 begin_operator
@@ -136199,8 +136199,8 @@ succumb loneliness excitement shrimp saturn earth
 1
 11 11
 2
-0 43 18 11
 0 38 2 0
+0 43 18 11
 1
 end_operator
 begin_operator
@@ -136208,8 +136208,8 @@ succumb loneliness excitement turkey earth uranus
 1
 11 12
 2
-0 43 18 12
 0 38 0 3
+0 43 18 12
 1
 end_operator
 begin_operator
@@ -136217,8 +136217,8 @@ succumb loneliness excitement turkey mercury saturn
 1
 11 12
 2
-0 43 18 12
 0 38 1 2
+0 43 18 12
 1
 end_operator
 begin_operator
@@ -136226,8 +136226,8 @@ succumb loneliness excitement turkey saturn earth
 1
 11 12
 2
-0 43 18 12
 0 38 2 0
+0 43 18 12
 1
 end_operator
 begin_operator
@@ -136235,8 +136235,8 @@ succumb loneliness excitement wonderbread earth uranus
 1
 11 13
 2
-0 43 18 13
 0 38 0 3
+0 43 18 13
 1
 end_operator
 begin_operator
@@ -136244,8 +136244,8 @@ succumb loneliness excitement wonderbread mercury saturn
 1
 11 13
 2
-0 43 18 13
 0 38 1 2
+0 43 18 13
 1
 end_operator
 begin_operator
@@ -136253,8 +136253,8 @@ succumb loneliness excitement wonderbread saturn earth
 1
 11 13
 2
-0 43 18 13
 0 38 2 0
+0 43 18 13
 1
 end_operator
 begin_operator
@@ -136262,8 +136262,8 @@ succumb loneliness excitement wurst earth uranus
 1
 11 14
 2
-0 43 18 14
 0 38 0 3
+0 43 18 14
 1
 end_operator
 begin_operator
@@ -136271,8 +136271,8 @@ succumb loneliness excitement wurst mercury saturn
 1
 11 14
 2
-0 43 18 14
 0 38 1 2
+0 43 18 14
 1
 end_operator
 begin_operator
@@ -136280,8 +136280,8 @@ succumb loneliness excitement wurst saturn earth
 1
 11 14
 2
-0 43 18 14
 0 38 2 0
+0 43 18 14
 1
 end_operator
 begin_operator
@@ -136289,8 +136289,8 @@ succumb loneliness excitement yogurt earth uranus
 1
 11 15
 2
-0 43 18 15
 0 38 0 3
+0 43 18 15
 1
 end_operator
 begin_operator
@@ -136298,8 +136298,8 @@ succumb loneliness excitement yogurt mercury saturn
 1
 11 15
 2
-0 43 18 15
 0 38 1 2
+0 43 18 15
 1
 end_operator
 begin_operator
@@ -136307,8 +136307,8 @@ succumb loneliness excitement yogurt saturn earth
 1
 11 15
 2
-0 43 18 15
 0 38 2 0
+0 43 18 15
 1
 end_operator
 begin_operator
@@ -136316,8 +136316,8 @@ succumb loneliness intoxication arugula earth uranus
 1
 13 0
 2
-0 43 19 0
 0 41 0 3
+0 43 19 0
 1
 end_operator
 begin_operator
@@ -136325,8 +136325,8 @@ succumb loneliness intoxication arugula mercury saturn
 1
 13 0
 2
-0 43 19 0
 0 41 1 2
+0 43 19 0
 1
 end_operator
 begin_operator
@@ -136334,8 +136334,8 @@ succumb loneliness intoxication arugula saturn earth
 1
 13 0
 2
-0 43 19 0
 0 41 2 0
+0 43 19 0
 1
 end_operator
 begin_operator
@@ -136343,8 +136343,8 @@ succumb loneliness intoxication cherry earth uranus
 1
 13 1
 2
-0 43 19 1
 0 41 0 3
+0 43 19 1
 1
 end_operator
 begin_operator
@@ -136352,8 +136352,8 @@ succumb loneliness intoxication cherry mercury saturn
 1
 13 1
 2
-0 43 19 1
 0 41 1 2
+0 43 19 1
 1
 end_operator
 begin_operator
@@ -136361,8 +136361,8 @@ succumb loneliness intoxication cherry saturn earth
 1
 13 1
 2
-0 43 19 1
 0 41 2 0
+0 43 19 1
 1
 end_operator
 begin_operator
@@ -136370,8 +136370,8 @@ succumb loneliness intoxication endive earth uranus
 1
 13 2
 2
-0 43 19 2
 0 41 0 3
+0 43 19 2
 1
 end_operator
 begin_operator
@@ -136379,8 +136379,8 @@ succumb loneliness intoxication endive mercury saturn
 1
 13 2
 2
-0 43 19 2
 0 41 1 2
+0 43 19 2
 1
 end_operator
 begin_operator
@@ -136388,8 +136388,8 @@ succumb loneliness intoxication endive saturn earth
 1
 13 2
 2
-0 43 19 2
 0 41 2 0
+0 43 19 2
 1
 end_operator
 begin_operator
@@ -136397,8 +136397,8 @@ succumb loneliness intoxication ham earth uranus
 1
 13 3
 2
-0 43 19 3
 0 41 0 3
+0 43 19 3
 1
 end_operator
 begin_operator
@@ -136406,8 +136406,8 @@ succumb loneliness intoxication ham mercury saturn
 1
 13 3
 2
-0 43 19 3
 0 41 1 2
+0 43 19 3
 1
 end_operator
 begin_operator
@@ -136415,8 +136415,8 @@ succumb loneliness intoxication ham saturn earth
 1
 13 3
 2
-0 43 19 3
 0 41 2 0
+0 43 19 3
 1
 end_operator
 begin_operator
@@ -136424,8 +136424,8 @@ succumb loneliness intoxication haroset earth uranus
 1
 13 4
 2
-0 43 19 4
 0 41 0 3
+0 43 19 4
 1
 end_operator
 begin_operator
@@ -136433,8 +136433,8 @@ succumb loneliness intoxication haroset mercury saturn
 1
 13 4
 2
-0 43 19 4
 0 41 1 2
+0 43 19 4
 1
 end_operator
 begin_operator
@@ -136442,8 +136442,8 @@ succumb loneliness intoxication haroset saturn earth
 1
 13 4
 2
-0 43 19 4
 0 41 2 0
+0 43 19 4
 1
 end_operator
 begin_operator
@@ -136451,8 +136451,8 @@ succumb loneliness intoxication marzipan earth uranus
 1
 13 5
 2
-0 43 19 5
 0 41 0 3
+0 43 19 5
 1
 end_operator
 begin_operator
@@ -136460,8 +136460,8 @@ succumb loneliness intoxication marzipan mercury saturn
 1
 13 5
 2
-0 43 19 5
 0 41 1 2
+0 43 19 5
 1
 end_operator
 begin_operator
@@ -136469,8 +136469,8 @@ succumb loneliness intoxication marzipan saturn earth
 1
 13 5
 2
-0 43 19 5
 0 41 2 0
+0 43 19 5
 1
 end_operator
 begin_operator
@@ -136478,8 +136478,8 @@ succumb loneliness intoxication mutton earth uranus
 1
 13 6
 2
-0 43 19 6
 0 41 0 3
+0 43 19 6
 1
 end_operator
 begin_operator
@@ -136487,8 +136487,8 @@ succumb loneliness intoxication mutton mercury saturn
 1
 13 6
 2
-0 43 19 6
 0 41 1 2
+0 43 19 6
 1
 end_operator
 begin_operator
@@ -136496,8 +136496,8 @@ succumb loneliness intoxication mutton saturn earth
 1
 13 6
 2
-0 43 19 6
 0 41 2 0
+0 43 19 6
 1
 end_operator
 begin_operator
@@ -136505,8 +136505,8 @@ succumb loneliness intoxication onion earth uranus
 1
 13 7
 2
-0 43 19 7
 0 41 0 3
+0 43 19 7
 1
 end_operator
 begin_operator
@@ -136514,8 +136514,8 @@ succumb loneliness intoxication onion mercury saturn
 1
 13 7
 2
-0 43 19 7
 0 41 1 2
+0 43 19 7
 1
 end_operator
 begin_operator
@@ -136523,8 +136523,8 @@ succumb loneliness intoxication onion saturn earth
 1
 13 7
 2
-0 43 19 7
 0 41 2 0
+0 43 19 7
 1
 end_operator
 begin_operator
@@ -136532,8 +136532,8 @@ succumb loneliness intoxication papaya earth uranus
 1
 13 8
 2
-0 43 19 8
 0 41 0 3
+0 43 19 8
 1
 end_operator
 begin_operator
@@ -136541,8 +136541,8 @@ succumb loneliness intoxication papaya mercury saturn
 1
 13 8
 2
-0 43 19 8
 0 41 1 2
+0 43 19 8
 1
 end_operator
 begin_operator
@@ -136550,8 +136550,8 @@ succumb loneliness intoxication papaya saturn earth
 1
 13 8
 2
-0 43 19 8
 0 41 2 0
+0 43 19 8
 1
 end_operator
 begin_operator
@@ -136559,8 +136559,8 @@ succumb loneliness intoxication potato earth uranus
 1
 13 9
 2
-0 43 19 9
 0 41 0 3
+0 43 19 9
 1
 end_operator
 begin_operator
@@ -136568,8 +136568,8 @@ succumb loneliness intoxication potato mercury saturn
 1
 13 9
 2
-0 43 19 9
 0 41 1 2
+0 43 19 9
 1
 end_operator
 begin_operator
@@ -136577,8 +136577,8 @@ succumb loneliness intoxication potato saturn earth
 1
 13 9
 2
-0 43 19 9
 0 41 2 0
+0 43 19 9
 1
 end_operator
 begin_operator
@@ -136586,8 +136586,8 @@ succumb loneliness intoxication rice earth uranus
 1
 13 10
 2
-0 43 19 10
 0 41 0 3
+0 43 19 10
 1
 end_operator
 begin_operator
@@ -136595,8 +136595,8 @@ succumb loneliness intoxication rice mercury saturn
 1
 13 10
 2
-0 43 19 10
 0 41 1 2
+0 43 19 10
 1
 end_operator
 begin_operator
@@ -136604,8 +136604,8 @@ succumb loneliness intoxication rice saturn earth
 1
 13 10
 2
-0 43 19 10
 0 41 2 0
+0 43 19 10
 1
 end_operator
 begin_operator
@@ -136613,8 +136613,8 @@ succumb loneliness intoxication shrimp earth uranus
 1
 13 11
 2
-0 43 19 11
 0 41 0 3
+0 43 19 11
 1
 end_operator
 begin_operator
@@ -136622,8 +136622,8 @@ succumb loneliness intoxication shrimp mercury saturn
 1
 13 11
 2
-0 43 19 11
 0 41 1 2
+0 43 19 11
 1
 end_operator
 begin_operator
@@ -136631,8 +136631,8 @@ succumb loneliness intoxication shrimp saturn earth
 1
 13 11
 2
-0 43 19 11
 0 41 2 0
+0 43 19 11
 1
 end_operator
 begin_operator
@@ -136640,8 +136640,8 @@ succumb loneliness intoxication turkey earth uranus
 1
 13 12
 2
-0 43 19 12
 0 41 0 3
+0 43 19 12
 1
 end_operator
 begin_operator
@@ -136649,8 +136649,8 @@ succumb loneliness intoxication turkey mercury saturn
 1
 13 12
 2
-0 43 19 12
 0 41 1 2
+0 43 19 12
 1
 end_operator
 begin_operator
@@ -136658,8 +136658,8 @@ succumb loneliness intoxication turkey saturn earth
 1
 13 12
 2
-0 43 19 12
 0 41 2 0
+0 43 19 12
 1
 end_operator
 begin_operator
@@ -136667,8 +136667,8 @@ succumb loneliness intoxication wonderbread earth uranus
 1
 13 13
 2
-0 43 19 13
 0 41 0 3
+0 43 19 13
 1
 end_operator
 begin_operator
@@ -136676,8 +136676,8 @@ succumb loneliness intoxication wonderbread mercury saturn
 1
 13 13
 2
-0 43 19 13
 0 41 1 2
+0 43 19 13
 1
 end_operator
 begin_operator
@@ -136685,8 +136685,8 @@ succumb loneliness intoxication wonderbread saturn earth
 1
 13 13
 2
-0 43 19 13
 0 41 2 0
+0 43 19 13
 1
 end_operator
 begin_operator
@@ -136694,8 +136694,8 @@ succumb loneliness intoxication wurst earth uranus
 1
 13 14
 2
-0 43 19 14
 0 41 0 3
+0 43 19 14
 1
 end_operator
 begin_operator
@@ -136703,8 +136703,8 @@ succumb loneliness intoxication wurst mercury saturn
 1
 13 14
 2
-0 43 19 14
 0 41 1 2
+0 43 19 14
 1
 end_operator
 begin_operator
@@ -136712,8 +136712,8 @@ succumb loneliness intoxication wurst saturn earth
 1
 13 14
 2
-0 43 19 14
 0 41 2 0
+0 43 19 14
 1
 end_operator
 begin_operator
@@ -136721,8 +136721,8 @@ succumb loneliness intoxication yogurt earth uranus
 1
 13 15
 2
-0 43 19 15
 0 41 0 3
+0 43 19 15
 1
 end_operator
 begin_operator
@@ -136730,8 +136730,8 @@ succumb loneliness intoxication yogurt mercury saturn
 1
 13 15
 2
-0 43 19 15
 0 41 1 2
+0 43 19 15
 1
 end_operator
 begin_operator
@@ -136739,8 +136739,8 @@ succumb loneliness intoxication yogurt saturn earth
 1
 13 15
 2
-0 43 19 15
 0 41 2 0
+0 43 19 15
 1
 end_operator
 begin_operator
@@ -136748,8 +136748,8 @@ succumb loneliness love arugula earth uranus
 1
 15 0
 2
-0 43 20 0
 0 42 0 3
+0 43 20 0
 1
 end_operator
 begin_operator
@@ -136757,8 +136757,8 @@ succumb loneliness love arugula mercury saturn
 1
 15 0
 2
-0 43 20 0
 0 42 1 2
+0 43 20 0
 1
 end_operator
 begin_operator
@@ -136766,8 +136766,8 @@ succumb loneliness love arugula saturn earth
 1
 15 0
 2
-0 43 20 0
 0 42 2 0
+0 43 20 0
 1
 end_operator
 begin_operator
@@ -136775,8 +136775,8 @@ succumb loneliness love cherry earth uranus
 1
 15 1
 2
-0 43 20 1
 0 42 0 3
+0 43 20 1
 1
 end_operator
 begin_operator
@@ -136784,8 +136784,8 @@ succumb loneliness love cherry mercury saturn
 1
 15 1
 2
-0 43 20 1
 0 42 1 2
+0 43 20 1
 1
 end_operator
 begin_operator
@@ -136793,8 +136793,8 @@ succumb loneliness love cherry saturn earth
 1
 15 1
 2
-0 43 20 1
 0 42 2 0
+0 43 20 1
 1
 end_operator
 begin_operator
@@ -136802,8 +136802,8 @@ succumb loneliness love endive earth uranus
 1
 15 2
 2
-0 43 20 2
 0 42 0 3
+0 43 20 2
 1
 end_operator
 begin_operator
@@ -136811,8 +136811,8 @@ succumb loneliness love endive mercury saturn
 1
 15 2
 2
-0 43 20 2
 0 42 1 2
+0 43 20 2
 1
 end_operator
 begin_operator
@@ -136820,8 +136820,8 @@ succumb loneliness love endive saturn earth
 1
 15 2
 2
-0 43 20 2
 0 42 2 0
+0 43 20 2
 1
 end_operator
 begin_operator
@@ -136829,8 +136829,8 @@ succumb loneliness love ham earth uranus
 1
 15 3
 2
-0 43 20 3
 0 42 0 3
+0 43 20 3
 1
 end_operator
 begin_operator
@@ -136838,8 +136838,8 @@ succumb loneliness love ham mercury saturn
 1
 15 3
 2
-0 43 20 3
 0 42 1 2
+0 43 20 3
 1
 end_operator
 begin_operator
@@ -136847,8 +136847,8 @@ succumb loneliness love ham saturn earth
 1
 15 3
 2
-0 43 20 3
 0 42 2 0
+0 43 20 3
 1
 end_operator
 begin_operator
@@ -136856,8 +136856,8 @@ succumb loneliness love haroset earth uranus
 1
 15 4
 2
-0 43 20 4
 0 42 0 3
+0 43 20 4
 1
 end_operator
 begin_operator
@@ -136865,8 +136865,8 @@ succumb loneliness love haroset mercury saturn
 1
 15 4
 2
-0 43 20 4
 0 42 1 2
+0 43 20 4
 1
 end_operator
 begin_operator
@@ -136874,8 +136874,8 @@ succumb loneliness love haroset saturn earth
 1
 15 4
 2
-0 43 20 4
 0 42 2 0
+0 43 20 4
 1
 end_operator
 begin_operator
@@ -136883,8 +136883,8 @@ succumb loneliness love marzipan earth uranus
 1
 15 5
 2
-0 43 20 5
 0 42 0 3
+0 43 20 5
 1
 end_operator
 begin_operator
@@ -136892,8 +136892,8 @@ succumb loneliness love marzipan mercury saturn
 1
 15 5
 2
-0 43 20 5
 0 42 1 2
+0 43 20 5
 1
 end_operator
 begin_operator
@@ -136901,8 +136901,8 @@ succumb loneliness love marzipan saturn earth
 1
 15 5
 2
-0 43 20 5
 0 42 2 0
+0 43 20 5
 1
 end_operator
 begin_operator
@@ -136910,8 +136910,8 @@ succumb loneliness love mutton earth uranus
 1
 15 6
 2
-0 43 20 6
 0 42 0 3
+0 43 20 6
 1
 end_operator
 begin_operator
@@ -136919,8 +136919,8 @@ succumb loneliness love mutton mercury saturn
 1
 15 6
 2
-0 43 20 6
 0 42 1 2
+0 43 20 6
 1
 end_operator
 begin_operator
@@ -136928,8 +136928,8 @@ succumb loneliness love mutton saturn earth
 1
 15 6
 2
-0 43 20 6
 0 42 2 0
+0 43 20 6
 1
 end_operator
 begin_operator
@@ -136937,8 +136937,8 @@ succumb loneliness love onion earth uranus
 1
 15 7
 2
-0 43 20 7
 0 42 0 3
+0 43 20 7
 1
 end_operator
 begin_operator
@@ -136946,8 +136946,8 @@ succumb loneliness love onion mercury saturn
 1
 15 7
 2
-0 43 20 7
 0 42 1 2
+0 43 20 7
 1
 end_operator
 begin_operator
@@ -136955,8 +136955,8 @@ succumb loneliness love onion saturn earth
 1
 15 7
 2
-0 43 20 7
 0 42 2 0
+0 43 20 7
 1
 end_operator
 begin_operator
@@ -136964,8 +136964,8 @@ succumb loneliness love papaya earth uranus
 1
 15 8
 2
-0 43 20 8
 0 42 0 3
+0 43 20 8
 1
 end_operator
 begin_operator
@@ -136973,8 +136973,8 @@ succumb loneliness love papaya mercury saturn
 1
 15 8
 2
-0 43 20 8
 0 42 1 2
+0 43 20 8
 1
 end_operator
 begin_operator
@@ -136982,8 +136982,8 @@ succumb loneliness love papaya saturn earth
 1
 15 8
 2
-0 43 20 8
 0 42 2 0
+0 43 20 8
 1
 end_operator
 begin_operator
@@ -136991,8 +136991,8 @@ succumb loneliness love potato earth uranus
 1
 15 9
 2
-0 43 20 9
 0 42 0 3
+0 43 20 9
 1
 end_operator
 begin_operator
@@ -137000,8 +137000,8 @@ succumb loneliness love potato mercury saturn
 1
 15 9
 2
-0 43 20 9
 0 42 1 2
+0 43 20 9
 1
 end_operator
 begin_operator
@@ -137009,8 +137009,8 @@ succumb loneliness love potato saturn earth
 1
 15 9
 2
-0 43 20 9
 0 42 2 0
+0 43 20 9
 1
 end_operator
 begin_operator
@@ -137018,8 +137018,8 @@ succumb loneliness love rice earth uranus
 1
 15 10
 2
-0 43 20 10
 0 42 0 3
+0 43 20 10
 1
 end_operator
 begin_operator
@@ -137027,8 +137027,8 @@ succumb loneliness love rice mercury saturn
 1
 15 10
 2
-0 43 20 10
 0 42 1 2
+0 43 20 10
 1
 end_operator
 begin_operator
@@ -137036,8 +137036,8 @@ succumb loneliness love rice saturn earth
 1
 15 10
 2
-0 43 20 10
 0 42 2 0
+0 43 20 10
 1
 end_operator
 begin_operator
@@ -137045,8 +137045,8 @@ succumb loneliness love shrimp earth uranus
 1
 15 11
 2
-0 43 20 11
 0 42 0 3
+0 43 20 11
 1
 end_operator
 begin_operator
@@ -137054,8 +137054,8 @@ succumb loneliness love shrimp mercury saturn
 1
 15 11
 2
-0 43 20 11
 0 42 1 2
+0 43 20 11
 1
 end_operator
 begin_operator
@@ -137063,8 +137063,8 @@ succumb loneliness love shrimp saturn earth
 1
 15 11
 2
-0 43 20 11
 0 42 2 0
+0 43 20 11
 1
 end_operator
 begin_operator
@@ -137072,8 +137072,8 @@ succumb loneliness love turkey earth uranus
 1
 15 12
 2
-0 43 20 12
 0 42 0 3
+0 43 20 12
 1
 end_operator
 begin_operator
@@ -137081,8 +137081,8 @@ succumb loneliness love turkey mercury saturn
 1
 15 12
 2
-0 43 20 12
 0 42 1 2
+0 43 20 12
 1
 end_operator
 begin_operator
@@ -137090,8 +137090,8 @@ succumb loneliness love turkey saturn earth
 1
 15 12
 2
-0 43 20 12
 0 42 2 0
+0 43 20 12
 1
 end_operator
 begin_operator
@@ -137099,8 +137099,8 @@ succumb loneliness love wonderbread earth uranus
 1
 15 13
 2
-0 43 20 13
 0 42 0 3
+0 43 20 13
 1
 end_operator
 begin_operator
@@ -137108,8 +137108,8 @@ succumb loneliness love wonderbread mercury saturn
 1
 15 13
 2
-0 43 20 13
 0 42 1 2
+0 43 20 13
 1
 end_operator
 begin_operator
@@ -137117,8 +137117,8 @@ succumb loneliness love wonderbread saturn earth
 1
 15 13
 2
-0 43 20 13
 0 42 2 0
+0 43 20 13
 1
 end_operator
 begin_operator
@@ -137126,8 +137126,8 @@ succumb loneliness love wurst earth uranus
 1
 15 14
 2
-0 43 20 14
 0 42 0 3
+0 43 20 14
 1
 end_operator
 begin_operator
@@ -137135,8 +137135,8 @@ succumb loneliness love wurst mercury saturn
 1
 15 14
 2
-0 43 20 14
 0 42 1 2
+0 43 20 14
 1
 end_operator
 begin_operator
@@ -137144,8 +137144,8 @@ succumb loneliness love wurst saturn earth
 1
 15 14
 2
-0 43 20 14
 0 42 2 0
+0 43 20 14
 1
 end_operator
 begin_operator
@@ -137153,8 +137153,8 @@ succumb loneliness love yogurt earth uranus
 1
 15 15
 2
-0 43 20 15
 0 42 0 3
+0 43 20 15
 1
 end_operator
 begin_operator
@@ -137162,8 +137162,8 @@ succumb loneliness love yogurt mercury saturn
 1
 15 15
 2
-0 43 20 15
 0 42 1 2
+0 43 20 15
 1
 end_operator
 begin_operator
@@ -137171,8 +137171,8 @@ succumb loneliness love yogurt saturn earth
 1
 15 15
 2
-0 43 20 15
 0 42 2 0
+0 43 20 15
 1
 end_operator
 begin_operator
@@ -138908,8 +138908,8 @@ succumb loneliness-3 achievement arugula earth uranus
 1
 9 0
 2
-0 44 16 0
 0 37 0 3
+0 44 16 0
 1
 end_operator
 begin_operator
@@ -138917,8 +138917,8 @@ succumb loneliness-3 achievement arugula mercury saturn
 1
 9 0
 2
-0 44 16 0
 0 37 1 2
+0 44 16 0
 1
 end_operator
 begin_operator
@@ -138926,8 +138926,8 @@ succumb loneliness-3 achievement arugula saturn earth
 1
 9 0
 2
-0 44 16 0
 0 37 2 0
+0 44 16 0
 1
 end_operator
 begin_operator
@@ -138935,8 +138935,8 @@ succumb loneliness-3 achievement cherry earth uranus
 1
 9 1
 2
-0 44 16 1
 0 37 0 3
+0 44 16 1
 1
 end_operator
 begin_operator
@@ -138944,8 +138944,8 @@ succumb loneliness-3 achievement cherry mercury saturn
 1
 9 1
 2
-0 44 16 1
 0 37 1 2
+0 44 16 1
 1
 end_operator
 begin_operator
@@ -138953,8 +138953,8 @@ succumb loneliness-3 achievement cherry saturn earth
 1
 9 1
 2
-0 44 16 1
 0 37 2 0
+0 44 16 1
 1
 end_operator
 begin_operator
@@ -138962,8 +138962,8 @@ succumb loneliness-3 achievement endive earth uranus
 1
 9 2
 2
-0 44 16 2
 0 37 0 3
+0 44 16 2
 1
 end_operator
 begin_operator
@@ -138971,8 +138971,8 @@ succumb loneliness-3 achievement endive mercury saturn
 1
 9 2
 2
-0 44 16 2
 0 37 1 2
+0 44 16 2
 1
 end_operator
 begin_operator
@@ -138980,8 +138980,8 @@ succumb loneliness-3 achievement endive saturn earth
 1
 9 2
 2
-0 44 16 2
 0 37 2 0
+0 44 16 2
 1
 end_operator
 begin_operator
@@ -138989,8 +138989,8 @@ succumb loneliness-3 achievement ham earth uranus
 1
 9 3
 2
-0 44 16 3
 0 37 0 3
+0 44 16 3
 1
 end_operator
 begin_operator
@@ -138998,8 +138998,8 @@ succumb loneliness-3 achievement ham mercury saturn
 1
 9 3
 2
-0 44 16 3
 0 37 1 2
+0 44 16 3
 1
 end_operator
 begin_operator
@@ -139007,8 +139007,8 @@ succumb loneliness-3 achievement ham saturn earth
 1
 9 3
 2
-0 44 16 3
 0 37 2 0
+0 44 16 3
 1
 end_operator
 begin_operator
@@ -139016,8 +139016,8 @@ succumb loneliness-3 achievement haroset earth uranus
 1
 9 4
 2
-0 44 16 4
 0 37 0 3
+0 44 16 4
 1
 end_operator
 begin_operator
@@ -139025,8 +139025,8 @@ succumb loneliness-3 achievement haroset mercury saturn
 1
 9 4
 2
-0 44 16 4
 0 37 1 2
+0 44 16 4
 1
 end_operator
 begin_operator
@@ -139034,8 +139034,8 @@ succumb loneliness-3 achievement haroset saturn earth
 1
 9 4
 2
-0 44 16 4
 0 37 2 0
+0 44 16 4
 1
 end_operator
 begin_operator
@@ -139043,8 +139043,8 @@ succumb loneliness-3 achievement marzipan earth uranus
 1
 9 5
 2
-0 44 16 5
 0 37 0 3
+0 44 16 5
 1
 end_operator
 begin_operator
@@ -139052,8 +139052,8 @@ succumb loneliness-3 achievement marzipan mercury saturn
 1
 9 5
 2
-0 44 16 5
 0 37 1 2
+0 44 16 5
 1
 end_operator
 begin_operator
@@ -139061,8 +139061,8 @@ succumb loneliness-3 achievement marzipan saturn earth
 1
 9 5
 2
-0 44 16 5
 0 37 2 0
+0 44 16 5
 1
 end_operator
 begin_operator
@@ -139070,8 +139070,8 @@ succumb loneliness-3 achievement mutton earth uranus
 1
 9 6
 2
-0 44 16 6
 0 37 0 3
+0 44 16 6
 1
 end_operator
 begin_operator
@@ -139079,8 +139079,8 @@ succumb loneliness-3 achievement mutton mercury saturn
 1
 9 6
 2
-0 44 16 6
 0 37 1 2
+0 44 16 6
 1
 end_operator
 begin_operator
@@ -139088,8 +139088,8 @@ succumb loneliness-3 achievement mutton saturn earth
 1
 9 6
 2
-0 44 16 6
 0 37 2 0
+0 44 16 6
 1
 end_operator
 begin_operator
@@ -139097,8 +139097,8 @@ succumb loneliness-3 achievement onion earth uranus
 1
 9 7
 2
-0 44 16 7
 0 37 0 3
+0 44 16 7
 1
 end_operator
 begin_operator
@@ -139106,8 +139106,8 @@ succumb loneliness-3 achievement onion mercury saturn
 1
 9 7
 2
-0 44 16 7
 0 37 1 2
+0 44 16 7
 1
 end_operator
 begin_operator
@@ -139115,8 +139115,8 @@ succumb loneliness-3 achievement onion saturn earth
 1
 9 7
 2
-0 44 16 7
 0 37 2 0
+0 44 16 7
 1
 end_operator
 begin_operator
@@ -139124,8 +139124,8 @@ succumb loneliness-3 achievement papaya earth uranus
 1
 9 8
 2
-0 44 16 8
 0 37 0 3
+0 44 16 8
 1
 end_operator
 begin_operator
@@ -139133,8 +139133,8 @@ succumb loneliness-3 achievement papaya mercury saturn
 1
 9 8
 2
-0 44 16 8
 0 37 1 2
+0 44 16 8
 1
 end_operator
 begin_operator
@@ -139142,8 +139142,8 @@ succumb loneliness-3 achievement papaya saturn earth
 1
 9 8
 2
-0 44 16 8
 0 37 2 0
+0 44 16 8
 1
 end_operator
 begin_operator
@@ -139151,8 +139151,8 @@ succumb loneliness-3 achievement potato earth uranus
 1
 9 9
 2
-0 44 16 9
 0 37 0 3
+0 44 16 9
 1
 end_operator
 begin_operator
@@ -139160,8 +139160,8 @@ succumb loneliness-3 achievement potato mercury saturn
 1
 9 9
 2
-0 44 16 9
 0 37 1 2
+0 44 16 9
 1
 end_operator
 begin_operator
@@ -139169,8 +139169,8 @@ succumb loneliness-3 achievement potato saturn earth
 1
 9 9
 2
-0 44 16 9
 0 37 2 0
+0 44 16 9
 1
 end_operator
 begin_operator
@@ -139178,8 +139178,8 @@ succumb loneliness-3 achievement rice earth uranus
 1
 9 10
 2
-0 44 16 10
 0 37 0 3
+0 44 16 10
 1
 end_operator
 begin_operator
@@ -139187,8 +139187,8 @@ succumb loneliness-3 achievement rice mercury saturn
 1
 9 10
 2
-0 44 16 10
 0 37 1 2
+0 44 16 10
 1
 end_operator
 begin_operator
@@ -139196,8 +139196,8 @@ succumb loneliness-3 achievement rice saturn earth
 1
 9 10
 2
-0 44 16 10
 0 37 2 0
+0 44 16 10
 1
 end_operator
 begin_operator
@@ -139205,8 +139205,8 @@ succumb loneliness-3 achievement shrimp earth uranus
 1
 9 11
 2
-0 44 16 11
 0 37 0 3
+0 44 16 11
 1
 end_operator
 begin_operator
@@ -139214,8 +139214,8 @@ succumb loneliness-3 achievement shrimp mercury saturn
 1
 9 11
 2
-0 44 16 11
 0 37 1 2
+0 44 16 11
 1
 end_operator
 begin_operator
@@ -139223,8 +139223,8 @@ succumb loneliness-3 achievement shrimp saturn earth
 1
 9 11
 2
-0 44 16 11
 0 37 2 0
+0 44 16 11
 1
 end_operator
 begin_operator
@@ -139232,8 +139232,8 @@ succumb loneliness-3 achievement turkey earth uranus
 1
 9 12
 2
-0 44 16 12
 0 37 0 3
+0 44 16 12
 1
 end_operator
 begin_operator
@@ -139241,8 +139241,8 @@ succumb loneliness-3 achievement turkey mercury saturn
 1
 9 12
 2
-0 44 16 12
 0 37 1 2
+0 44 16 12
 1
 end_operator
 begin_operator
@@ -139250,8 +139250,8 @@ succumb loneliness-3 achievement turkey saturn earth
 1
 9 12
 2
-0 44 16 12
 0 37 2 0
+0 44 16 12
 1
 end_operator
 begin_operator
@@ -139259,8 +139259,8 @@ succumb loneliness-3 achievement wonderbread earth uranus
 1
 9 13
 2
-0 44 16 13
 0 37 0 3
+0 44 16 13
 1
 end_operator
 begin_operator
@@ -139268,8 +139268,8 @@ succumb loneliness-3 achievement wonderbread mercury saturn
 1
 9 13
 2
-0 44 16 13
 0 37 1 2
+0 44 16 13
 1
 end_operator
 begin_operator
@@ -139277,8 +139277,8 @@ succumb loneliness-3 achievement wonderbread saturn earth
 1
 9 13
 2
-0 44 16 13
 0 37 2 0
+0 44 16 13
 1
 end_operator
 begin_operator
@@ -139286,8 +139286,8 @@ succumb loneliness-3 achievement wurst earth uranus
 1
 9 14
 2
-0 44 16 14
 0 37 0 3
+0 44 16 14
 1
 end_operator
 begin_operator
@@ -139295,8 +139295,8 @@ succumb loneliness-3 achievement wurst mercury saturn
 1
 9 14
 2
-0 44 16 14
 0 37 1 2
+0 44 16 14
 1
 end_operator
 begin_operator
@@ -139304,8 +139304,8 @@ succumb loneliness-3 achievement wurst saturn earth
 1
 9 14
 2
-0 44 16 14
 0 37 2 0
+0 44 16 14
 1
 end_operator
 begin_operator
@@ -139313,8 +139313,8 @@ succumb loneliness-3 achievement yogurt earth uranus
 1
 9 15
 2
-0 44 16 15
 0 37 0 3
+0 44 16 15
 1
 end_operator
 begin_operator
@@ -139322,8 +139322,8 @@ succumb loneliness-3 achievement yogurt mercury saturn
 1
 9 15
 2
-0 44 16 15
 0 37 1 2
+0 44 16 15
 1
 end_operator
 begin_operator
@@ -139331,32 +139331,32 @@ succumb loneliness-3 achievement yogurt saturn earth
 1
 9 15
 2
-0 44 16 15
 0 37 2 0
+0 44 16 15
 1
 end_operator
 begin_operator
 succumb loneliness-3 entertainment wurst earth uranus
 0
 2
-0 44 17 14
 0 23 0 3
+0 44 17 14
 1
 end_operator
 begin_operator
 succumb loneliness-3 entertainment wurst mercury saturn
 0
 2
-0 44 17 14
 0 23 1 2
+0 44 17 14
 1
 end_operator
 begin_operator
 succumb loneliness-3 entertainment wurst saturn earth
 0
 2
-0 44 17 14
 0 23 2 0
+0 44 17 14
 1
 end_operator
 begin_operator
@@ -139364,8 +139364,8 @@ succumb loneliness-3 excitement arugula earth uranus
 1
 11 0
 2
-0 44 18 0
 0 38 0 3
+0 44 18 0
 1
 end_operator
 begin_operator
@@ -139373,8 +139373,8 @@ succumb loneliness-3 excitement arugula mercury saturn
 1
 11 0
 2
-0 44 18 0
 0 38 1 2
+0 44 18 0
 1
 end_operator
 begin_operator
@@ -139382,8 +139382,8 @@ succumb loneliness-3 excitement arugula saturn earth
 1
 11 0
 2
-0 44 18 0
 0 38 2 0
+0 44 18 0
 1
 end_operator
 begin_operator
@@ -139391,8 +139391,8 @@ succumb loneliness-3 excitement cherry earth uranus
 1
 11 1
 2
-0 44 18 1
 0 38 0 3
+0 44 18 1
 1
 end_operator
 begin_operator
@@ -139400,8 +139400,8 @@ succumb loneliness-3 excitement cherry mercury saturn
 1
 11 1
 2
-0 44 18 1
 0 38 1 2
+0 44 18 1
 1
 end_operator
 begin_operator
@@ -139409,8 +139409,8 @@ succumb loneliness-3 excitement cherry saturn earth
 1
 11 1
 2
-0 44 18 1
 0 38 2 0
+0 44 18 1
 1
 end_operator
 begin_operator
@@ -139418,8 +139418,8 @@ succumb loneliness-3 excitement endive earth uranus
 1
 11 2
 2
-0 44 18 2
 0 38 0 3
+0 44 18 2
 1
 end_operator
 begin_operator
@@ -139427,8 +139427,8 @@ succumb loneliness-3 excitement endive mercury saturn
 1
 11 2
 2
-0 44 18 2
 0 38 1 2
+0 44 18 2
 1
 end_operator
 begin_operator
@@ -139436,8 +139436,8 @@ succumb loneliness-3 excitement endive saturn earth
 1
 11 2
 2
-0 44 18 2
 0 38 2 0
+0 44 18 2
 1
 end_operator
 begin_operator
@@ -139445,8 +139445,8 @@ succumb loneliness-3 excitement ham earth uranus
 1
 11 3
 2
-0 44 18 3
 0 38 0 3
+0 44 18 3
 1
 end_operator
 begin_operator
@@ -139454,8 +139454,8 @@ succumb loneliness-3 excitement ham mercury saturn
 1
 11 3
 2
-0 44 18 3
 0 38 1 2
+0 44 18 3
 1
 end_operator
 begin_operator
@@ -139463,8 +139463,8 @@ succumb loneliness-3 excitement ham saturn earth
 1
 11 3
 2
-0 44 18 3
 0 38 2 0
+0 44 18 3
 1
 end_operator
 begin_operator
@@ -139472,8 +139472,8 @@ succumb loneliness-3 excitement haroset earth uranus
 1
 11 4
 2
-0 44 18 4
 0 38 0 3
+0 44 18 4
 1
 end_operator
 begin_operator
@@ -139481,8 +139481,8 @@ succumb loneliness-3 excitement haroset mercury saturn
 1
 11 4
 2
-0 44 18 4
 0 38 1 2
+0 44 18 4
 1
 end_operator
 begin_operator
@@ -139490,8 +139490,8 @@ succumb loneliness-3 excitement haroset saturn earth
 1
 11 4
 2
-0 44 18 4
 0 38 2 0
+0 44 18 4
 1
 end_operator
 begin_operator
@@ -139499,8 +139499,8 @@ succumb loneliness-3 excitement marzipan earth uranus
 1
 11 5
 2
-0 44 18 5
 0 38 0 3
+0 44 18 5
 1
 end_operator
 begin_operator
@@ -139508,8 +139508,8 @@ succumb loneliness-3 excitement marzipan mercury saturn
 1
 11 5
 2
-0 44 18 5
 0 38 1 2
+0 44 18 5
 1
 end_operator
 begin_operator
@@ -139517,8 +139517,8 @@ succumb loneliness-3 excitement marzipan saturn earth
 1
 11 5
 2
-0 44 18 5
 0 38 2 0
+0 44 18 5
 1
 end_operator
 begin_operator
@@ -139526,8 +139526,8 @@ succumb loneliness-3 excitement mutton earth uranus
 1
 11 6
 2
-0 44 18 6
 0 38 0 3
+0 44 18 6
 1
 end_operator
 begin_operator
@@ -139535,8 +139535,8 @@ succumb loneliness-3 excitement mutton mercury saturn
 1
 11 6
 2
-0 44 18 6
 0 38 1 2
+0 44 18 6
 1
 end_operator
 begin_operator
@@ -139544,8 +139544,8 @@ succumb loneliness-3 excitement mutton saturn earth
 1
 11 6
 2
-0 44 18 6
 0 38 2 0
+0 44 18 6
 1
 end_operator
 begin_operator
@@ -139553,8 +139553,8 @@ succumb loneliness-3 excitement onion earth uranus
 1
 11 7
 2
-0 44 18 7
 0 38 0 3
+0 44 18 7
 1
 end_operator
 begin_operator
@@ -139562,8 +139562,8 @@ succumb loneliness-3 excitement onion mercury saturn
 1
 11 7
 2
-0 44 18 7
 0 38 1 2
+0 44 18 7
 1
 end_operator
 begin_operator
@@ -139571,8 +139571,8 @@ succumb loneliness-3 excitement onion saturn earth
 1
 11 7
 2
-0 44 18 7
 0 38 2 0
+0 44 18 7
 1
 end_operator
 begin_operator
@@ -139580,8 +139580,8 @@ succumb loneliness-3 excitement papaya earth uranus
 1
 11 8
 2
-0 44 18 8
 0 38 0 3
+0 44 18 8
 1
 end_operator
 begin_operator
@@ -139589,8 +139589,8 @@ succumb loneliness-3 excitement papaya mercury saturn
 1
 11 8
 2
-0 44 18 8
 0 38 1 2
+0 44 18 8
 1
 end_operator
 begin_operator
@@ -139598,8 +139598,8 @@ succumb loneliness-3 excitement papaya saturn earth
 1
 11 8
 2
-0 44 18 8
 0 38 2 0
+0 44 18 8
 1
 end_operator
 begin_operator
@@ -139607,8 +139607,8 @@ succumb loneliness-3 excitement potato earth uranus
 1
 11 9
 2
-0 44 18 9
 0 38 0 3
+0 44 18 9
 1
 end_operator
 begin_operator
@@ -139616,8 +139616,8 @@ succumb loneliness-3 excitement potato mercury saturn
 1
 11 9
 2
-0 44 18 9
 0 38 1 2
+0 44 18 9
 1
 end_operator
 begin_operator
@@ -139625,8 +139625,8 @@ succumb loneliness-3 excitement potato saturn earth
 1
 11 9
 2
-0 44 18 9
 0 38 2 0
+0 44 18 9
 1
 end_operator
 begin_operator
@@ -139634,8 +139634,8 @@ succumb loneliness-3 excitement rice earth uranus
 1
 11 10
 2
-0 44 18 10
 0 38 0 3
+0 44 18 10
 1
 end_operator
 begin_operator
@@ -139643,8 +139643,8 @@ succumb loneliness-3 excitement rice mercury saturn
 1
 11 10
 2
-0 44 18 10
 0 38 1 2
+0 44 18 10
 1
 end_operator
 begin_operator
@@ -139652,8 +139652,8 @@ succumb loneliness-3 excitement rice saturn earth
 1
 11 10
 2
-0 44 18 10
 0 38 2 0
+0 44 18 10
 1
 end_operator
 begin_operator
@@ -139661,8 +139661,8 @@ succumb loneliness-3 excitement shrimp earth uranus
 1
 11 11
 2
-0 44 18 11
 0 38 0 3
+0 44 18 11
 1
 end_operator
 begin_operator
@@ -139670,8 +139670,8 @@ succumb loneliness-3 excitement shrimp mercury saturn
 1
 11 11
 2
-0 44 18 11
 0 38 1 2
+0 44 18 11
 1
 end_operator
 begin_operator
@@ -139679,8 +139679,8 @@ succumb loneliness-3 excitement shrimp saturn earth
 1
 11 11
 2
-0 44 18 11
 0 38 2 0
+0 44 18 11
 1
 end_operator
 begin_operator
@@ -139688,8 +139688,8 @@ succumb loneliness-3 excitement turkey earth uranus
 1
 11 12
 2
-0 44 18 12
 0 38 0 3
+0 44 18 12
 1
 end_operator
 begin_operator
@@ -139697,8 +139697,8 @@ succumb loneliness-3 excitement turkey mercury saturn
 1
 11 12
 2
-0 44 18 12
 0 38 1 2
+0 44 18 12
 1
 end_operator
 begin_operator
@@ -139706,8 +139706,8 @@ succumb loneliness-3 excitement turkey saturn earth
 1
 11 12
 2
-0 44 18 12
 0 38 2 0
+0 44 18 12
 1
 end_operator
 begin_operator
@@ -139715,8 +139715,8 @@ succumb loneliness-3 excitement wonderbread earth uranus
 1
 11 13
 2
-0 44 18 13
 0 38 0 3
+0 44 18 13
 1
 end_operator
 begin_operator
@@ -139724,8 +139724,8 @@ succumb loneliness-3 excitement wonderbread mercury saturn
 1
 11 13
 2
-0 44 18 13
 0 38 1 2
+0 44 18 13
 1
 end_operator
 begin_operator
@@ -139733,8 +139733,8 @@ succumb loneliness-3 excitement wonderbread saturn earth
 1
 11 13
 2
-0 44 18 13
 0 38 2 0
+0 44 18 13
 1
 end_operator
 begin_operator
@@ -139742,8 +139742,8 @@ succumb loneliness-3 excitement wurst earth uranus
 1
 11 14
 2
-0 44 18 14
 0 38 0 3
+0 44 18 14
 1
 end_operator
 begin_operator
@@ -139751,8 +139751,8 @@ succumb loneliness-3 excitement wurst mercury saturn
 1
 11 14
 2
-0 44 18 14
 0 38 1 2
+0 44 18 14
 1
 end_operator
 begin_operator
@@ -139760,8 +139760,8 @@ succumb loneliness-3 excitement wurst saturn earth
 1
 11 14
 2
-0 44 18 14
 0 38 2 0
+0 44 18 14
 1
 end_operator
 begin_operator
@@ -139769,8 +139769,8 @@ succumb loneliness-3 excitement yogurt earth uranus
 1
 11 15
 2
-0 44 18 15
 0 38 0 3
+0 44 18 15
 1
 end_operator
 begin_operator
@@ -139778,8 +139778,8 @@ succumb loneliness-3 excitement yogurt mercury saturn
 1
 11 15
 2
-0 44 18 15
 0 38 1 2
+0 44 18 15
 1
 end_operator
 begin_operator
@@ -139787,8 +139787,8 @@ succumb loneliness-3 excitement yogurt saturn earth
 1
 11 15
 2
-0 44 18 15
 0 38 2 0
+0 44 18 15
 1
 end_operator
 begin_operator
@@ -139796,8 +139796,8 @@ succumb loneliness-3 intoxication arugula earth uranus
 1
 13 0
 2
-0 44 19 0
 0 41 0 3
+0 44 19 0
 1
 end_operator
 begin_operator
@@ -139805,8 +139805,8 @@ succumb loneliness-3 intoxication arugula mercury saturn
 1
 13 0
 2
-0 44 19 0
 0 41 1 2
+0 44 19 0
 1
 end_operator
 begin_operator
@@ -139814,8 +139814,8 @@ succumb loneliness-3 intoxication arugula saturn earth
 1
 13 0
 2
-0 44 19 0
 0 41 2 0
+0 44 19 0
 1
 end_operator
 begin_operator
@@ -139823,8 +139823,8 @@ succumb loneliness-3 intoxication cherry earth uranus
 1
 13 1
 2
-0 44 19 1
 0 41 0 3
+0 44 19 1
 1
 end_operator
 begin_operator
@@ -139832,8 +139832,8 @@ succumb loneliness-3 intoxication cherry mercury saturn
 1
 13 1
 2
-0 44 19 1
 0 41 1 2
+0 44 19 1
 1
 end_operator
 begin_operator
@@ -139841,8 +139841,8 @@ succumb loneliness-3 intoxication cherry saturn earth
 1
 13 1
 2
-0 44 19 1
 0 41 2 0
+0 44 19 1
 1
 end_operator
 begin_operator
@@ -139850,8 +139850,8 @@ succumb loneliness-3 intoxication endive earth uranus
 1
 13 2
 2
-0 44 19 2
 0 41 0 3
+0 44 19 2
 1
 end_operator
 begin_operator
@@ -139859,8 +139859,8 @@ succumb loneliness-3 intoxication endive mercury saturn
 1
 13 2
 2
-0 44 19 2
 0 41 1 2
+0 44 19 2
 1
 end_operator
 begin_operator
@@ -139868,8 +139868,8 @@ succumb loneliness-3 intoxication endive saturn earth
 1
 13 2
 2
-0 44 19 2
 0 41 2 0
+0 44 19 2
 1
 end_operator
 begin_operator
@@ -139877,8 +139877,8 @@ succumb loneliness-3 intoxication ham earth uranus
 1
 13 3
 2
-0 44 19 3
 0 41 0 3
+0 44 19 3
 1
 end_operator
 begin_operator
@@ -139886,8 +139886,8 @@ succumb loneliness-3 intoxication ham mercury saturn
 1
 13 3
 2
-0 44 19 3
 0 41 1 2
+0 44 19 3
 1
 end_operator
 begin_operator
@@ -139895,8 +139895,8 @@ succumb loneliness-3 intoxication ham saturn earth
 1
 13 3
 2
-0 44 19 3
 0 41 2 0
+0 44 19 3
 1
 end_operator
 begin_operator
@@ -139904,8 +139904,8 @@ succumb loneliness-3 intoxication haroset earth uranus
 1
 13 4
 2
-0 44 19 4
 0 41 0 3
+0 44 19 4
 1
 end_operator
 begin_operator
@@ -139913,8 +139913,8 @@ succumb loneliness-3 intoxication haroset mercury saturn
 1
 13 4
 2
-0 44 19 4
 0 41 1 2
+0 44 19 4
 1
 end_operator
 begin_operator
@@ -139922,8 +139922,8 @@ succumb loneliness-3 intoxication haroset saturn earth
 1
 13 4
 2
-0 44 19 4
 0 41 2 0
+0 44 19 4
 1
 end_operator
 begin_operator
@@ -139931,8 +139931,8 @@ succumb loneliness-3 intoxication marzipan earth uranus
 1
 13 5
 2
-0 44 19 5
 0 41 0 3
+0 44 19 5
 1
 end_operator
 begin_operator
@@ -139940,8 +139940,8 @@ succumb loneliness-3 intoxication marzipan mercury saturn
 1
 13 5
 2
-0 44 19 5
 0 41 1 2
+0 44 19 5
 1
 end_operator
 begin_operator
@@ -139949,8 +139949,8 @@ succumb loneliness-3 intoxication marzipan saturn earth
 1
 13 5
 2
-0 44 19 5
 0 41 2 0
+0 44 19 5
 1
 end_operator
 begin_operator
@@ -139958,8 +139958,8 @@ succumb loneliness-3 intoxication mutton earth uranus
 1
 13 6
 2
-0 44 19 6
 0 41 0 3
+0 44 19 6
 1
 end_operator
 begin_operator
@@ -139967,8 +139967,8 @@ succumb loneliness-3 intoxication mutton mercury saturn
 1
 13 6
 2
-0 44 19 6
 0 41 1 2
+0 44 19 6
 1
 end_operator
 begin_operator
@@ -139976,8 +139976,8 @@ succumb loneliness-3 intoxication mutton saturn earth
 1
 13 6
 2
-0 44 19 6
 0 41 2 0
+0 44 19 6
 1
 end_operator
 begin_operator
@@ -139985,8 +139985,8 @@ succumb loneliness-3 intoxication onion earth uranus
 1
 13 7
 2
-0 44 19 7
 0 41 0 3
+0 44 19 7
 1
 end_operator
 begin_operator
@@ -139994,8 +139994,8 @@ succumb loneliness-3 intoxication onion mercury saturn
 1
 13 7
 2
-0 44 19 7
 0 41 1 2
+0 44 19 7
 1
 end_operator
 begin_operator
@@ -140003,8 +140003,8 @@ succumb loneliness-3 intoxication onion saturn earth
 1
 13 7
 2
-0 44 19 7
 0 41 2 0
+0 44 19 7
 1
 end_operator
 begin_operator
@@ -140012,8 +140012,8 @@ succumb loneliness-3 intoxication papaya earth uranus
 1
 13 8
 2
-0 44 19 8
 0 41 0 3
+0 44 19 8
 1
 end_operator
 begin_operator
@@ -140021,8 +140021,8 @@ succumb loneliness-3 intoxication papaya mercury saturn
 1
 13 8
 2
-0 44 19 8
 0 41 1 2
+0 44 19 8
 1
 end_operator
 begin_operator
@@ -140030,8 +140030,8 @@ succumb loneliness-3 intoxication papaya saturn earth
 1
 13 8
 2
-0 44 19 8
 0 41 2 0
+0 44 19 8
 1
 end_operator
 begin_operator
@@ -140039,8 +140039,8 @@ succumb loneliness-3 intoxication potato earth uranus
 1
 13 9
 2
-0 44 19 9
 0 41 0 3
+0 44 19 9
 1
 end_operator
 begin_operator
@@ -140048,8 +140048,8 @@ succumb loneliness-3 intoxication potato mercury saturn
 1
 13 9
 2
-0 44 19 9
 0 41 1 2
+0 44 19 9
 1
 end_operator
 begin_operator
@@ -140057,8 +140057,8 @@ succumb loneliness-3 intoxication potato saturn earth
 1
 13 9
 2
-0 44 19 9
 0 41 2 0
+0 44 19 9
 1
 end_operator
 begin_operator
@@ -140066,8 +140066,8 @@ succumb loneliness-3 intoxication rice earth uranus
 1
 13 10
 2
-0 44 19 10
 0 41 0 3
+0 44 19 10
 1
 end_operator
 begin_operator
@@ -140075,8 +140075,8 @@ succumb loneliness-3 intoxication rice mercury saturn
 1
 13 10
 2
-0 44 19 10
 0 41 1 2
+0 44 19 10
 1
 end_operator
 begin_operator
@@ -140084,8 +140084,8 @@ succumb loneliness-3 intoxication rice saturn earth
 1
 13 10
 2
-0 44 19 10
 0 41 2 0
+0 44 19 10
 1
 end_operator
 begin_operator
@@ -140093,8 +140093,8 @@ succumb loneliness-3 intoxication shrimp earth uranus
 1
 13 11
 2
-0 44 19 11
 0 41 0 3
+0 44 19 11
 1
 end_operator
 begin_operator
@@ -140102,8 +140102,8 @@ succumb loneliness-3 intoxication shrimp mercury saturn
 1
 13 11
 2
-0 44 19 11
 0 41 1 2
+0 44 19 11
 1
 end_operator
 begin_operator
@@ -140111,8 +140111,8 @@ succumb loneliness-3 intoxication shrimp saturn earth
 1
 13 11
 2
-0 44 19 11
 0 41 2 0
+0 44 19 11
 1
 end_operator
 begin_operator
@@ -140120,8 +140120,8 @@ succumb loneliness-3 intoxication turkey earth uranus
 1
 13 12
 2
-0 44 19 12
 0 41 0 3
+0 44 19 12
 1
 end_operator
 begin_operator
@@ -140129,8 +140129,8 @@ succumb loneliness-3 intoxication turkey mercury saturn
 1
 13 12
 2
-0 44 19 12
 0 41 1 2
+0 44 19 12
 1
 end_operator
 begin_operator
@@ -140138,8 +140138,8 @@ succumb loneliness-3 intoxication turkey saturn earth
 1
 13 12
 2
-0 44 19 12
 0 41 2 0
+0 44 19 12
 1
 end_operator
 begin_operator
@@ -140147,8 +140147,8 @@ succumb loneliness-3 intoxication wonderbread earth uranus
 1
 13 13
 2
-0 44 19 13
 0 41 0 3
+0 44 19 13
 1
 end_operator
 begin_operator
@@ -140156,8 +140156,8 @@ succumb loneliness-3 intoxication wonderbread mercury saturn
 1
 13 13
 2
-0 44 19 13
 0 41 1 2
+0 44 19 13
 1
 end_operator
 begin_operator
@@ -140165,8 +140165,8 @@ succumb loneliness-3 intoxication wonderbread saturn earth
 1
 13 13
 2
-0 44 19 13
 0 41 2 0
+0 44 19 13
 1
 end_operator
 begin_operator
@@ -140174,8 +140174,8 @@ succumb loneliness-3 intoxication wurst earth uranus
 1
 13 14
 2
-0 44 19 14
 0 41 0 3
+0 44 19 14
 1
 end_operator
 begin_operator
@@ -140183,8 +140183,8 @@ succumb loneliness-3 intoxication wurst mercury saturn
 1
 13 14
 2
-0 44 19 14
 0 41 1 2
+0 44 19 14
 1
 end_operator
 begin_operator
@@ -140192,8 +140192,8 @@ succumb loneliness-3 intoxication wurst saturn earth
 1
 13 14
 2
-0 44 19 14
 0 41 2 0
+0 44 19 14
 1
 end_operator
 begin_operator
@@ -140201,8 +140201,8 @@ succumb loneliness-3 intoxication yogurt earth uranus
 1
 13 15
 2
-0 44 19 15
 0 41 0 3
+0 44 19 15
 1
 end_operator
 begin_operator
@@ -140210,8 +140210,8 @@ succumb loneliness-3 intoxication yogurt mercury saturn
 1
 13 15
 2
-0 44 19 15
 0 41 1 2
+0 44 19 15
 1
 end_operator
 begin_operator
@@ -140219,8 +140219,8 @@ succumb loneliness-3 intoxication yogurt saturn earth
 1
 13 15
 2
-0 44 19 15
 0 41 2 0
+0 44 19 15
 1
 end_operator
 begin_operator
@@ -140228,8 +140228,8 @@ succumb loneliness-3 love arugula earth uranus
 1
 15 0
 2
-0 44 20 0
 0 42 0 3
+0 44 20 0
 1
 end_operator
 begin_operator
@@ -140237,8 +140237,8 @@ succumb loneliness-3 love arugula mercury saturn
 1
 15 0
 2
-0 44 20 0
 0 42 1 2
+0 44 20 0
 1
 end_operator
 begin_operator
@@ -140246,8 +140246,8 @@ succumb loneliness-3 love arugula saturn earth
 1
 15 0
 2
-0 44 20 0
 0 42 2 0
+0 44 20 0
 1
 end_operator
 begin_operator
@@ -140255,8 +140255,8 @@ succumb loneliness-3 love cherry earth uranus
 1
 15 1
 2
-0 44 20 1
 0 42 0 3
+0 44 20 1
 1
 end_operator
 begin_operator
@@ -140264,8 +140264,8 @@ succumb loneliness-3 love cherry mercury saturn
 1
 15 1
 2
-0 44 20 1
 0 42 1 2
+0 44 20 1
 1
 end_operator
 begin_operator
@@ -140273,8 +140273,8 @@ succumb loneliness-3 love cherry saturn earth
 1
 15 1
 2
-0 44 20 1
 0 42 2 0
+0 44 20 1
 1
 end_operator
 begin_operator
@@ -140282,8 +140282,8 @@ succumb loneliness-3 love endive earth uranus
 1
 15 2
 2
-0 44 20 2
 0 42 0 3
+0 44 20 2
 1
 end_operator
 begin_operator
@@ -140291,8 +140291,8 @@ succumb loneliness-3 love endive mercury saturn
 1
 15 2
 2
-0 44 20 2
 0 42 1 2
+0 44 20 2
 1
 end_operator
 begin_operator
@@ -140300,8 +140300,8 @@ succumb loneliness-3 love endive saturn earth
 1
 15 2
 2
-0 44 20 2
 0 42 2 0
+0 44 20 2
 1
 end_operator
 begin_operator
@@ -140309,8 +140309,8 @@ succumb loneliness-3 love ham earth uranus
 1
 15 3
 2
-0 44 20 3
 0 42 0 3
+0 44 20 3
 1
 end_operator
 begin_operator
@@ -140318,8 +140318,8 @@ succumb loneliness-3 love ham mercury saturn
 1
 15 3
 2
-0 44 20 3
 0 42 1 2
+0 44 20 3
 1
 end_operator
 begin_operator
@@ -140327,8 +140327,8 @@ succumb loneliness-3 love ham saturn earth
 1
 15 3
 2
-0 44 20 3
 0 42 2 0
+0 44 20 3
 1
 end_operator
 begin_operator
@@ -140336,8 +140336,8 @@ succumb loneliness-3 love haroset earth uranus
 1
 15 4
 2
-0 44 20 4
 0 42 0 3
+0 44 20 4
 1
 end_operator
 begin_operator
@@ -140345,8 +140345,8 @@ succumb loneliness-3 love haroset mercury saturn
 1
 15 4
 2
-0 44 20 4
 0 42 1 2
+0 44 20 4
 1
 end_operator
 begin_operator
@@ -140354,8 +140354,8 @@ succumb loneliness-3 love haroset saturn earth
 1
 15 4
 2
-0 44 20 4
 0 42 2 0
+0 44 20 4
 1
 end_operator
 begin_operator
@@ -140363,8 +140363,8 @@ succumb loneliness-3 love marzipan earth uranus
 1
 15 5
 2
-0 44 20 5
 0 42 0 3
+0 44 20 5
 1
 end_operator
 begin_operator
@@ -140372,8 +140372,8 @@ succumb loneliness-3 love marzipan mercury saturn
 1
 15 5
 2
-0 44 20 5
 0 42 1 2
+0 44 20 5
 1
 end_operator
 begin_operator
@@ -140381,8 +140381,8 @@ succumb loneliness-3 love marzipan saturn earth
 1
 15 5
 2
-0 44 20 5
 0 42 2 0
+0 44 20 5
 1
 end_operator
 begin_operator
@@ -140390,8 +140390,8 @@ succumb loneliness-3 love mutton earth uranus
 1
 15 6
 2
-0 44 20 6
 0 42 0 3
+0 44 20 6
 1
 end_operator
 begin_operator
@@ -140399,8 +140399,8 @@ succumb loneliness-3 love mutton mercury saturn
 1
 15 6
 2
-0 44 20 6
 0 42 1 2
+0 44 20 6
 1
 end_operator
 begin_operator
@@ -140408,8 +140408,8 @@ succumb loneliness-3 love mutton saturn earth
 1
 15 6
 2
-0 44 20 6
 0 42 2 0
+0 44 20 6
 1
 end_operator
 begin_operator
@@ -140417,8 +140417,8 @@ succumb loneliness-3 love onion earth uranus
 1
 15 7
 2
-0 44 20 7
 0 42 0 3
+0 44 20 7
 1
 end_operator
 begin_operator
@@ -140426,8 +140426,8 @@ succumb loneliness-3 love onion mercury saturn
 1
 15 7
 2
-0 44 20 7
 0 42 1 2
+0 44 20 7
 1
 end_operator
 begin_operator
@@ -140435,8 +140435,8 @@ succumb loneliness-3 love onion saturn earth
 1
 15 7
 2
-0 44 20 7
 0 42 2 0
+0 44 20 7
 1
 end_operator
 begin_operator
@@ -140444,8 +140444,8 @@ succumb loneliness-3 love papaya earth uranus
 1
 15 8
 2
-0 44 20 8
 0 42 0 3
+0 44 20 8
 1
 end_operator
 begin_operator
@@ -140453,8 +140453,8 @@ succumb loneliness-3 love papaya mercury saturn
 1
 15 8
 2
-0 44 20 8
 0 42 1 2
+0 44 20 8
 1
 end_operator
 begin_operator
@@ -140462,8 +140462,8 @@ succumb loneliness-3 love papaya saturn earth
 1
 15 8
 2
-0 44 20 8
 0 42 2 0
+0 44 20 8
 1
 end_operator
 begin_operator
@@ -140471,8 +140471,8 @@ succumb loneliness-3 love potato earth uranus
 1
 15 9
 2
-0 44 20 9
 0 42 0 3
+0 44 20 9
 1
 end_operator
 begin_operator
@@ -140480,8 +140480,8 @@ succumb loneliness-3 love potato mercury saturn
 1
 15 9
 2
-0 44 20 9
 0 42 1 2
+0 44 20 9
 1
 end_operator
 begin_operator
@@ -140489,8 +140489,8 @@ succumb loneliness-3 love potato saturn earth
 1
 15 9
 2
-0 44 20 9
 0 42 2 0
+0 44 20 9
 1
 end_operator
 begin_operator
@@ -140498,8 +140498,8 @@ succumb loneliness-3 love rice earth uranus
 1
 15 10
 2
-0 44 20 10
 0 42 0 3
+0 44 20 10
 1
 end_operator
 begin_operator
@@ -140507,8 +140507,8 @@ succumb loneliness-3 love rice mercury saturn
 1
 15 10
 2
-0 44 20 10
 0 42 1 2
+0 44 20 10
 1
 end_operator
 begin_operator
@@ -140516,8 +140516,8 @@ succumb loneliness-3 love rice saturn earth
 1
 15 10
 2
-0 44 20 10
 0 42 2 0
+0 44 20 10
 1
 end_operator
 begin_operator
@@ -140525,8 +140525,8 @@ succumb loneliness-3 love shrimp earth uranus
 1
 15 11
 2
-0 44 20 11
 0 42 0 3
+0 44 20 11
 1
 end_operator
 begin_operator
@@ -140534,8 +140534,8 @@ succumb loneliness-3 love shrimp mercury saturn
 1
 15 11
 2
-0 44 20 11
 0 42 1 2
+0 44 20 11
 1
 end_operator
 begin_operator
@@ -140543,8 +140543,8 @@ succumb loneliness-3 love shrimp saturn earth
 1
 15 11
 2
-0 44 20 11
 0 42 2 0
+0 44 20 11
 1
 end_operator
 begin_operator
@@ -140552,8 +140552,8 @@ succumb loneliness-3 love turkey earth uranus
 1
 15 12
 2
-0 44 20 12
 0 42 0 3
+0 44 20 12
 1
 end_operator
 begin_operator
@@ -140561,8 +140561,8 @@ succumb loneliness-3 love turkey mercury saturn
 1
 15 12
 2
-0 44 20 12
 0 42 1 2
+0 44 20 12
 1
 end_operator
 begin_operator
@@ -140570,8 +140570,8 @@ succumb loneliness-3 love turkey saturn earth
 1
 15 12
 2
-0 44 20 12
 0 42 2 0
+0 44 20 12
 1
 end_operator
 begin_operator
@@ -140579,8 +140579,8 @@ succumb loneliness-3 love wonderbread earth uranus
 1
 15 13
 2
-0 44 20 13
 0 42 0 3
+0 44 20 13
 1
 end_operator
 begin_operator
@@ -140588,8 +140588,8 @@ succumb loneliness-3 love wonderbread mercury saturn
 1
 15 13
 2
-0 44 20 13
 0 42 1 2
+0 44 20 13
 1
 end_operator
 begin_operator
@@ -140597,8 +140597,8 @@ succumb loneliness-3 love wonderbread saturn earth
 1
 15 13
 2
-0 44 20 13
 0 42 2 0
+0 44 20 13
 1
 end_operator
 begin_operator
@@ -140606,8 +140606,8 @@ succumb loneliness-3 love wurst earth uranus
 1
 15 14
 2
-0 44 20 14
 0 42 0 3
+0 44 20 14
 1
 end_operator
 begin_operator
@@ -140615,8 +140615,8 @@ succumb loneliness-3 love wurst mercury saturn
 1
 15 14
 2
-0 44 20 14
 0 42 1 2
+0 44 20 14
 1
 end_operator
 begin_operator
@@ -140624,8 +140624,8 @@ succumb loneliness-3 love wurst saturn earth
 1
 15 14
 2
-0 44 20 14
 0 42 2 0
+0 44 20 14
 1
 end_operator
 begin_operator
@@ -140633,8 +140633,8 @@ succumb loneliness-3 love yogurt earth uranus
 1
 15 15
 2
-0 44 20 15
 0 42 0 3
+0 44 20 15
 1
 end_operator
 begin_operator
@@ -140642,8 +140642,8 @@ succumb loneliness-3 love yogurt mercury saturn
 1
 15 15
 2
-0 44 20 15
 0 42 1 2
+0 44 20 15
 1
 end_operator
 begin_operator
@@ -140651,8 +140651,8 @@ succumb loneliness-3 love yogurt saturn earth
 1
 15 15
 2
-0 44 20 15
 0 42 2 0
+0 44 20 15
 1
 end_operator
 begin_operator
@@ -142388,8 +142388,8 @@ succumb prostatitis achievement arugula earth uranus
 1
 9 0
 2
-0 47 16 0
 0 37 0 3
+0 47 16 0
 1
 end_operator
 begin_operator
@@ -142397,8 +142397,8 @@ succumb prostatitis achievement arugula mercury saturn
 1
 9 0
 2
-0 47 16 0
 0 37 1 2
+0 47 16 0
 1
 end_operator
 begin_operator
@@ -142406,8 +142406,8 @@ succumb prostatitis achievement arugula saturn earth
 1
 9 0
 2
-0 47 16 0
 0 37 2 0
+0 47 16 0
 1
 end_operator
 begin_operator
@@ -142415,8 +142415,8 @@ succumb prostatitis achievement cherry earth uranus
 1
 9 1
 2
-0 47 16 1
 0 37 0 3
+0 47 16 1
 1
 end_operator
 begin_operator
@@ -142424,8 +142424,8 @@ succumb prostatitis achievement cherry mercury saturn
 1
 9 1
 2
-0 47 16 1
 0 37 1 2
+0 47 16 1
 1
 end_operator
 begin_operator
@@ -142433,8 +142433,8 @@ succumb prostatitis achievement cherry saturn earth
 1
 9 1
 2
-0 47 16 1
 0 37 2 0
+0 47 16 1
 1
 end_operator
 begin_operator
@@ -142442,8 +142442,8 @@ succumb prostatitis achievement endive earth uranus
 1
 9 2
 2
-0 47 16 2
 0 37 0 3
+0 47 16 2
 1
 end_operator
 begin_operator
@@ -142451,8 +142451,8 @@ succumb prostatitis achievement endive mercury saturn
 1
 9 2
 2
-0 47 16 2
 0 37 1 2
+0 47 16 2
 1
 end_operator
 begin_operator
@@ -142460,8 +142460,8 @@ succumb prostatitis achievement endive saturn earth
 1
 9 2
 2
-0 47 16 2
 0 37 2 0
+0 47 16 2
 1
 end_operator
 begin_operator
@@ -142469,8 +142469,8 @@ succumb prostatitis achievement ham earth uranus
 1
 9 3
 2
-0 47 16 3
 0 37 0 3
+0 47 16 3
 1
 end_operator
 begin_operator
@@ -142478,8 +142478,8 @@ succumb prostatitis achievement ham mercury saturn
 1
 9 3
 2
-0 47 16 3
 0 37 1 2
+0 47 16 3
 1
 end_operator
 begin_operator
@@ -142487,8 +142487,8 @@ succumb prostatitis achievement ham saturn earth
 1
 9 3
 2
-0 47 16 3
 0 37 2 0
+0 47 16 3
 1
 end_operator
 begin_operator
@@ -142496,8 +142496,8 @@ succumb prostatitis achievement haroset earth uranus
 1
 9 4
 2
-0 47 16 4
 0 37 0 3
+0 47 16 4
 1
 end_operator
 begin_operator
@@ -142505,8 +142505,8 @@ succumb prostatitis achievement haroset mercury saturn
 1
 9 4
 2
-0 47 16 4
 0 37 1 2
+0 47 16 4
 1
 end_operator
 begin_operator
@@ -142514,8 +142514,8 @@ succumb prostatitis achievement haroset saturn earth
 1
 9 4
 2
-0 47 16 4
 0 37 2 0
+0 47 16 4
 1
 end_operator
 begin_operator
@@ -142523,8 +142523,8 @@ succumb prostatitis achievement marzipan earth uranus
 1
 9 5
 2
-0 47 16 5
 0 37 0 3
+0 47 16 5
 1
 end_operator
 begin_operator
@@ -142532,8 +142532,8 @@ succumb prostatitis achievement marzipan mercury saturn
 1
 9 5
 2
-0 47 16 5
 0 37 1 2
+0 47 16 5
 1
 end_operator
 begin_operator
@@ -142541,8 +142541,8 @@ succumb prostatitis achievement marzipan saturn earth
 1
 9 5
 2
-0 47 16 5
 0 37 2 0
+0 47 16 5
 1
 end_operator
 begin_operator
@@ -142550,8 +142550,8 @@ succumb prostatitis achievement mutton earth uranus
 1
 9 6
 2
-0 47 16 6
 0 37 0 3
+0 47 16 6
 1
 end_operator
 begin_operator
@@ -142559,8 +142559,8 @@ succumb prostatitis achievement mutton mercury saturn
 1
 9 6
 2
-0 47 16 6
 0 37 1 2
+0 47 16 6
 1
 end_operator
 begin_operator
@@ -142568,8 +142568,8 @@ succumb prostatitis achievement mutton saturn earth
 1
 9 6
 2
-0 47 16 6
 0 37 2 0
+0 47 16 6
 1
 end_operator
 begin_operator
@@ -142577,8 +142577,8 @@ succumb prostatitis achievement onion earth uranus
 1
 9 7
 2
-0 47 16 7
 0 37 0 3
+0 47 16 7
 1
 end_operator
 begin_operator
@@ -142586,8 +142586,8 @@ succumb prostatitis achievement onion mercury saturn
 1
 9 7
 2
-0 47 16 7
 0 37 1 2
+0 47 16 7
 1
 end_operator
 begin_operator
@@ -142595,8 +142595,8 @@ succumb prostatitis achievement onion saturn earth
 1
 9 7
 2
-0 47 16 7
 0 37 2 0
+0 47 16 7
 1
 end_operator
 begin_operator
@@ -142604,8 +142604,8 @@ succumb prostatitis achievement papaya earth uranus
 1
 9 8
 2
-0 47 16 8
 0 37 0 3
+0 47 16 8
 1
 end_operator
 begin_operator
@@ -142613,8 +142613,8 @@ succumb prostatitis achievement papaya mercury saturn
 1
 9 8
 2
-0 47 16 8
 0 37 1 2
+0 47 16 8
 1
 end_operator
 begin_operator
@@ -142622,8 +142622,8 @@ succumb prostatitis achievement papaya saturn earth
 1
 9 8
 2
-0 47 16 8
 0 37 2 0
+0 47 16 8
 1
 end_operator
 begin_operator
@@ -142631,8 +142631,8 @@ succumb prostatitis achievement potato earth uranus
 1
 9 9
 2
-0 47 16 9
 0 37 0 3
+0 47 16 9
 1
 end_operator
 begin_operator
@@ -142640,8 +142640,8 @@ succumb prostatitis achievement potato mercury saturn
 1
 9 9
 2
-0 47 16 9
 0 37 1 2
+0 47 16 9
 1
 end_operator
 begin_operator
@@ -142649,8 +142649,8 @@ succumb prostatitis achievement potato saturn earth
 1
 9 9
 2
-0 47 16 9
 0 37 2 0
+0 47 16 9
 1
 end_operator
 begin_operator
@@ -142658,8 +142658,8 @@ succumb prostatitis achievement rice earth uranus
 1
 9 10
 2
-0 47 16 10
 0 37 0 3
+0 47 16 10
 1
 end_operator
 begin_operator
@@ -142667,8 +142667,8 @@ succumb prostatitis achievement rice mercury saturn
 1
 9 10
 2
-0 47 16 10
 0 37 1 2
+0 47 16 10
 1
 end_operator
 begin_operator
@@ -142676,8 +142676,8 @@ succumb prostatitis achievement rice saturn earth
 1
 9 10
 2
-0 47 16 10
 0 37 2 0
+0 47 16 10
 1
 end_operator
 begin_operator
@@ -142685,8 +142685,8 @@ succumb prostatitis achievement shrimp earth uranus
 1
 9 11
 2
-0 47 16 11
 0 37 0 3
+0 47 16 11
 1
 end_operator
 begin_operator
@@ -142694,8 +142694,8 @@ succumb prostatitis achievement shrimp mercury saturn
 1
 9 11
 2
-0 47 16 11
 0 37 1 2
+0 47 16 11
 1
 end_operator
 begin_operator
@@ -142703,8 +142703,8 @@ succumb prostatitis achievement shrimp saturn earth
 1
 9 11
 2
-0 47 16 11
 0 37 2 0
+0 47 16 11
 1
 end_operator
 begin_operator
@@ -142712,8 +142712,8 @@ succumb prostatitis achievement turkey earth uranus
 1
 9 12
 2
-0 47 16 12
 0 37 0 3
+0 47 16 12
 1
 end_operator
 begin_operator
@@ -142721,8 +142721,8 @@ succumb prostatitis achievement turkey mercury saturn
 1
 9 12
 2
-0 47 16 12
 0 37 1 2
+0 47 16 12
 1
 end_operator
 begin_operator
@@ -142730,8 +142730,8 @@ succumb prostatitis achievement turkey saturn earth
 1
 9 12
 2
-0 47 16 12
 0 37 2 0
+0 47 16 12
 1
 end_operator
 begin_operator
@@ -142739,8 +142739,8 @@ succumb prostatitis achievement wonderbread earth uranus
 1
 9 13
 2
-0 47 16 13
 0 37 0 3
+0 47 16 13
 1
 end_operator
 begin_operator
@@ -142748,8 +142748,8 @@ succumb prostatitis achievement wonderbread mercury saturn
 1
 9 13
 2
-0 47 16 13
 0 37 1 2
+0 47 16 13
 1
 end_operator
 begin_operator
@@ -142757,8 +142757,8 @@ succumb prostatitis achievement wonderbread saturn earth
 1
 9 13
 2
-0 47 16 13
 0 37 2 0
+0 47 16 13
 1
 end_operator
 begin_operator
@@ -142766,8 +142766,8 @@ succumb prostatitis achievement wurst earth uranus
 1
 9 14
 2
-0 47 16 14
 0 37 0 3
+0 47 16 14
 1
 end_operator
 begin_operator
@@ -142775,8 +142775,8 @@ succumb prostatitis achievement wurst mercury saturn
 1
 9 14
 2
-0 47 16 14
 0 37 1 2
+0 47 16 14
 1
 end_operator
 begin_operator
@@ -142784,8 +142784,8 @@ succumb prostatitis achievement wurst saturn earth
 1
 9 14
 2
-0 47 16 14
 0 37 2 0
+0 47 16 14
 1
 end_operator
 begin_operator
@@ -142793,8 +142793,8 @@ succumb prostatitis achievement yogurt earth uranus
 1
 9 15
 2
-0 47 16 15
 0 37 0 3
+0 47 16 15
 1
 end_operator
 begin_operator
@@ -142802,8 +142802,8 @@ succumb prostatitis achievement yogurt mercury saturn
 1
 9 15
 2
-0 47 16 15
 0 37 1 2
+0 47 16 15
 1
 end_operator
 begin_operator
@@ -142811,32 +142811,32 @@ succumb prostatitis achievement yogurt saturn earth
 1
 9 15
 2
-0 47 16 15
 0 37 2 0
+0 47 16 15
 1
 end_operator
 begin_operator
 succumb prostatitis entertainment wurst earth uranus
 0
 2
-0 47 17 14
 0 23 0 3
+0 47 17 14
 1
 end_operator
 begin_operator
 succumb prostatitis entertainment wurst mercury saturn
 0
 2
-0 47 17 14
 0 23 1 2
+0 47 17 14
 1
 end_operator
 begin_operator
 succumb prostatitis entertainment wurst saturn earth
 0
 2
-0 47 17 14
 0 23 2 0
+0 47 17 14
 1
 end_operator
 begin_operator
@@ -142844,8 +142844,8 @@ succumb prostatitis excitement arugula earth uranus
 1
 11 0
 2
-0 47 18 0
 0 38 0 3
+0 47 18 0
 1
 end_operator
 begin_operator
@@ -142853,8 +142853,8 @@ succumb prostatitis excitement arugula mercury saturn
 1
 11 0
 2
-0 47 18 0
 0 38 1 2
+0 47 18 0
 1
 end_operator
 begin_operator
@@ -142862,8 +142862,8 @@ succumb prostatitis excitement arugula saturn earth
 1
 11 0
 2
-0 47 18 0
 0 38 2 0
+0 47 18 0
 1
 end_operator
 begin_operator
@@ -142871,8 +142871,8 @@ succumb prostatitis excitement cherry earth uranus
 1
 11 1
 2
-0 47 18 1
 0 38 0 3
+0 47 18 1
 1
 end_operator
 begin_operator
@@ -142880,8 +142880,8 @@ succumb prostatitis excitement cherry mercury saturn
 1
 11 1
 2
-0 47 18 1
 0 38 1 2
+0 47 18 1
 1
 end_operator
 begin_operator
@@ -142889,8 +142889,8 @@ succumb prostatitis excitement cherry saturn earth
 1
 11 1
 2
-0 47 18 1
 0 38 2 0
+0 47 18 1
 1
 end_operator
 begin_operator
@@ -142898,8 +142898,8 @@ succumb prostatitis excitement endive earth uranus
 1
 11 2
 2
-0 47 18 2
 0 38 0 3
+0 47 18 2
 1
 end_operator
 begin_operator
@@ -142907,8 +142907,8 @@ succumb prostatitis excitement endive mercury saturn
 1
 11 2
 2
-0 47 18 2
 0 38 1 2
+0 47 18 2
 1
 end_operator
 begin_operator
@@ -142916,8 +142916,8 @@ succumb prostatitis excitement endive saturn earth
 1
 11 2
 2
-0 47 18 2
 0 38 2 0
+0 47 18 2
 1
 end_operator
 begin_operator
@@ -142925,8 +142925,8 @@ succumb prostatitis excitement ham earth uranus
 1
 11 3
 2
-0 47 18 3
 0 38 0 3
+0 47 18 3
 1
 end_operator
 begin_operator
@@ -142934,8 +142934,8 @@ succumb prostatitis excitement ham mercury saturn
 1
 11 3
 2
-0 47 18 3
 0 38 1 2
+0 47 18 3
 1
 end_operator
 begin_operator
@@ -142943,8 +142943,8 @@ succumb prostatitis excitement ham saturn earth
 1
 11 3
 2
-0 47 18 3
 0 38 2 0
+0 47 18 3
 1
 end_operator
 begin_operator
@@ -142952,8 +142952,8 @@ succumb prostatitis excitement haroset earth uranus
 1
 11 4
 2
-0 47 18 4
 0 38 0 3
+0 47 18 4
 1
 end_operator
 begin_operator
@@ -142961,8 +142961,8 @@ succumb prostatitis excitement haroset mercury saturn
 1
 11 4
 2
-0 47 18 4
 0 38 1 2
+0 47 18 4
 1
 end_operator
 begin_operator
@@ -142970,8 +142970,8 @@ succumb prostatitis excitement haroset saturn earth
 1
 11 4
 2
-0 47 18 4
 0 38 2 0
+0 47 18 4
 1
 end_operator
 begin_operator
@@ -142979,8 +142979,8 @@ succumb prostatitis excitement marzipan earth uranus
 1
 11 5
 2
-0 47 18 5
 0 38 0 3
+0 47 18 5
 1
 end_operator
 begin_operator
@@ -142988,8 +142988,8 @@ succumb prostatitis excitement marzipan mercury saturn
 1
 11 5
 2
-0 47 18 5
 0 38 1 2
+0 47 18 5
 1
 end_operator
 begin_operator
@@ -142997,8 +142997,8 @@ succumb prostatitis excitement marzipan saturn earth
 1
 11 5
 2
-0 47 18 5
 0 38 2 0
+0 47 18 5
 1
 end_operator
 begin_operator
@@ -143006,8 +143006,8 @@ succumb prostatitis excitement mutton earth uranus
 1
 11 6
 2
-0 47 18 6
 0 38 0 3
+0 47 18 6
 1
 end_operator
 begin_operator
@@ -143015,8 +143015,8 @@ succumb prostatitis excitement mutton mercury saturn
 1
 11 6
 2
-0 47 18 6
 0 38 1 2
+0 47 18 6
 1
 end_operator
 begin_operator
@@ -143024,8 +143024,8 @@ succumb prostatitis excitement mutton saturn earth
 1
 11 6
 2
-0 47 18 6
 0 38 2 0
+0 47 18 6
 1
 end_operator
 begin_operator
@@ -143033,8 +143033,8 @@ succumb prostatitis excitement onion earth uranus
 1
 11 7
 2
-0 47 18 7
 0 38 0 3
+0 47 18 7
 1
 end_operator
 begin_operator
@@ -143042,8 +143042,8 @@ succumb prostatitis excitement onion mercury saturn
 1
 11 7
 2
-0 47 18 7
 0 38 1 2
+0 47 18 7
 1
 end_operator
 begin_operator
@@ -143051,8 +143051,8 @@ succumb prostatitis excitement onion saturn earth
 1
 11 7
 2
-0 47 18 7
 0 38 2 0
+0 47 18 7
 1
 end_operator
 begin_operator
@@ -143060,8 +143060,8 @@ succumb prostatitis excitement papaya earth uranus
 1
 11 8
 2
-0 47 18 8
 0 38 0 3
+0 47 18 8
 1
 end_operator
 begin_operator
@@ -143069,8 +143069,8 @@ succumb prostatitis excitement papaya mercury saturn
 1
 11 8
 2
-0 47 18 8
 0 38 1 2
+0 47 18 8
 1
 end_operator
 begin_operator
@@ -143078,8 +143078,8 @@ succumb prostatitis excitement papaya saturn earth
 1
 11 8
 2
-0 47 18 8
 0 38 2 0
+0 47 18 8
 1
 end_operator
 begin_operator
@@ -143087,8 +143087,8 @@ succumb prostatitis excitement potato earth uranus
 1
 11 9
 2
-0 47 18 9
 0 38 0 3
+0 47 18 9
 1
 end_operator
 begin_operator
@@ -143096,8 +143096,8 @@ succumb prostatitis excitement potato mercury saturn
 1
 11 9
 2
-0 47 18 9
 0 38 1 2
+0 47 18 9
 1
 end_operator
 begin_operator
@@ -143105,8 +143105,8 @@ succumb prostatitis excitement potato saturn earth
 1
 11 9
 2
-0 47 18 9
 0 38 2 0
+0 47 18 9
 1
 end_operator
 begin_operator
@@ -143114,8 +143114,8 @@ succumb prostatitis excitement rice earth uranus
 1
 11 10
 2
-0 47 18 10
 0 38 0 3
+0 47 18 10
 1
 end_operator
 begin_operator
@@ -143123,8 +143123,8 @@ succumb prostatitis excitement rice mercury saturn
 1
 11 10
 2
-0 47 18 10
 0 38 1 2
+0 47 18 10
 1
 end_operator
 begin_operator
@@ -143132,8 +143132,8 @@ succumb prostatitis excitement rice saturn earth
 1
 11 10
 2
-0 47 18 10
 0 38 2 0
+0 47 18 10
 1
 end_operator
 begin_operator
@@ -143141,8 +143141,8 @@ succumb prostatitis excitement shrimp earth uranus
 1
 11 11
 2
-0 47 18 11
 0 38 0 3
+0 47 18 11
 1
 end_operator
 begin_operator
@@ -143150,8 +143150,8 @@ succumb prostatitis excitement shrimp mercury saturn
 1
 11 11
 2
-0 47 18 11
 0 38 1 2
+0 47 18 11
 1
 end_operator
 begin_operator
@@ -143159,8 +143159,8 @@ succumb prostatitis excitement shrimp saturn earth
 1
 11 11
 2
-0 47 18 11
 0 38 2 0
+0 47 18 11
 1
 end_operator
 begin_operator
@@ -143168,8 +143168,8 @@ succumb prostatitis excitement turkey earth uranus
 1
 11 12
 2
-0 47 18 12
 0 38 0 3
+0 47 18 12
 1
 end_operator
 begin_operator
@@ -143177,8 +143177,8 @@ succumb prostatitis excitement turkey mercury saturn
 1
 11 12
 2
-0 47 18 12
 0 38 1 2
+0 47 18 12
 1
 end_operator
 begin_operator
@@ -143186,8 +143186,8 @@ succumb prostatitis excitement turkey saturn earth
 1
 11 12
 2
-0 47 18 12
 0 38 2 0
+0 47 18 12
 1
 end_operator
 begin_operator
@@ -143195,8 +143195,8 @@ succumb prostatitis excitement wonderbread earth uranus
 1
 11 13
 2
-0 47 18 13
 0 38 0 3
+0 47 18 13
 1
 end_operator
 begin_operator
@@ -143204,8 +143204,8 @@ succumb prostatitis excitement wonderbread mercury saturn
 1
 11 13
 2
-0 47 18 13
 0 38 1 2
+0 47 18 13
 1
 end_operator
 begin_operator
@@ -143213,8 +143213,8 @@ succumb prostatitis excitement wonderbread saturn earth
 1
 11 13
 2
-0 47 18 13
 0 38 2 0
+0 47 18 13
 1
 end_operator
 begin_operator
@@ -143222,8 +143222,8 @@ succumb prostatitis excitement wurst earth uranus
 1
 11 14
 2
-0 47 18 14
 0 38 0 3
+0 47 18 14
 1
 end_operator
 begin_operator
@@ -143231,8 +143231,8 @@ succumb prostatitis excitement wurst mercury saturn
 1
 11 14
 2
-0 47 18 14
 0 38 1 2
+0 47 18 14
 1
 end_operator
 begin_operator
@@ -143240,8 +143240,8 @@ succumb prostatitis excitement wurst saturn earth
 1
 11 14
 2
-0 47 18 14
 0 38 2 0
+0 47 18 14
 1
 end_operator
 begin_operator
@@ -143249,8 +143249,8 @@ succumb prostatitis excitement yogurt earth uranus
 1
 11 15
 2
-0 47 18 15
 0 38 0 3
+0 47 18 15
 1
 end_operator
 begin_operator
@@ -143258,8 +143258,8 @@ succumb prostatitis excitement yogurt mercury saturn
 1
 11 15
 2
-0 47 18 15
 0 38 1 2
+0 47 18 15
 1
 end_operator
 begin_operator
@@ -143267,8 +143267,8 @@ succumb prostatitis excitement yogurt saturn earth
 1
 11 15
 2
-0 47 18 15
 0 38 2 0
+0 47 18 15
 1
 end_operator
 begin_operator
@@ -143276,8 +143276,8 @@ succumb prostatitis intoxication arugula earth uranus
 1
 13 0
 2
-0 47 19 0
 0 41 0 3
+0 47 19 0
 1
 end_operator
 begin_operator
@@ -143285,8 +143285,8 @@ succumb prostatitis intoxication arugula mercury saturn
 1
 13 0
 2
-0 47 19 0
 0 41 1 2
+0 47 19 0
 1
 end_operator
 begin_operator
@@ -143294,8 +143294,8 @@ succumb prostatitis intoxication arugula saturn earth
 1
 13 0
 2
-0 47 19 0
 0 41 2 0
+0 47 19 0
 1
 end_operator
 begin_operator
@@ -143303,8 +143303,8 @@ succumb prostatitis intoxication cherry earth uranus
 1
 13 1
 2
-0 47 19 1
 0 41 0 3
+0 47 19 1
 1
 end_operator
 begin_operator
@@ -143312,8 +143312,8 @@ succumb prostatitis intoxication cherry mercury saturn
 1
 13 1
 2
-0 47 19 1
 0 41 1 2
+0 47 19 1
 1
 end_operator
 begin_operator
@@ -143321,8 +143321,8 @@ succumb prostatitis intoxication cherry saturn earth
 1
 13 1
 2
-0 47 19 1
 0 41 2 0
+0 47 19 1
 1
 end_operator
 begin_operator
@@ -143330,8 +143330,8 @@ succumb prostatitis intoxication endive earth uranus
 1
 13 2
 2
-0 47 19 2
 0 41 0 3
+0 47 19 2
 1
 end_operator
 begin_operator
@@ -143339,8 +143339,8 @@ succumb prostatitis intoxication endive mercury saturn
 1
 13 2
 2
-0 47 19 2
 0 41 1 2
+0 47 19 2
 1
 end_operator
 begin_operator
@@ -143348,8 +143348,8 @@ succumb prostatitis intoxication endive saturn earth
 1
 13 2
 2
-0 47 19 2
 0 41 2 0
+0 47 19 2
 1
 end_operator
 begin_operator
@@ -143357,8 +143357,8 @@ succumb prostatitis intoxication ham earth uranus
 1
 13 3
 2
-0 47 19 3
 0 41 0 3
+0 47 19 3
 1
 end_operator
 begin_operator
@@ -143366,8 +143366,8 @@ succumb prostatitis intoxication ham mercury saturn
 1
 13 3
 2
-0 47 19 3
 0 41 1 2
+0 47 19 3
 1
 end_operator
 begin_operator
@@ -143375,8 +143375,8 @@ succumb prostatitis intoxication ham saturn earth
 1
 13 3
 2
-0 47 19 3
 0 41 2 0
+0 47 19 3
 1
 end_operator
 begin_operator
@@ -143384,8 +143384,8 @@ succumb prostatitis intoxication haroset earth uranus
 1
 13 4
 2
-0 47 19 4
 0 41 0 3
+0 47 19 4
 1
 end_operator
 begin_operator
@@ -143393,8 +143393,8 @@ succumb prostatitis intoxication haroset mercury saturn
 1
 13 4
 2
-0 47 19 4
 0 41 1 2
+0 47 19 4
 1
 end_operator
 begin_operator
@@ -143402,8 +143402,8 @@ succumb prostatitis intoxication haroset saturn earth
 1
 13 4
 2
-0 47 19 4
 0 41 2 0
+0 47 19 4
 1
 end_operator
 begin_operator
@@ -143411,8 +143411,8 @@ succumb prostatitis intoxication marzipan earth uranus
 1
 13 5
 2
-0 47 19 5
 0 41 0 3
+0 47 19 5
 1
 end_operator
 begin_operator
@@ -143420,8 +143420,8 @@ succumb prostatitis intoxication marzipan mercury saturn
 1
 13 5
 2
-0 47 19 5
 0 41 1 2
+0 47 19 5
 1
 end_operator
 begin_operator
@@ -143429,8 +143429,8 @@ succumb prostatitis intoxication marzipan saturn earth
 1
 13 5
 2
-0 47 19 5
 0 41 2 0
+0 47 19 5
 1
 end_operator
 begin_operator
@@ -143438,8 +143438,8 @@ succumb prostatitis intoxication mutton earth uranus
 1
 13 6
 2
-0 47 19 6
 0 41 0 3
+0 47 19 6
 1
 end_operator
 begin_operator
@@ -143447,8 +143447,8 @@ succumb prostatitis intoxication mutton mercury saturn
 1
 13 6
 2
-0 47 19 6
 0 41 1 2
+0 47 19 6
 1
 end_operator
 begin_operator
@@ -143456,8 +143456,8 @@ succumb prostatitis intoxication mutton saturn earth
 1
 13 6
 2
-0 47 19 6
 0 41 2 0
+0 47 19 6
 1
 end_operator
 begin_operator
@@ -143465,8 +143465,8 @@ succumb prostatitis intoxication onion earth uranus
 1
 13 7
 2
-0 47 19 7
 0 41 0 3
+0 47 19 7
 1
 end_operator
 begin_operator
@@ -143474,8 +143474,8 @@ succumb prostatitis intoxication onion mercury saturn
 1
 13 7
 2
-0 47 19 7
 0 41 1 2
+0 47 19 7
 1
 end_operator
 begin_operator
@@ -143483,8 +143483,8 @@ succumb prostatitis intoxication onion saturn earth
 1
 13 7
 2
-0 47 19 7
 0 41 2 0
+0 47 19 7
 1
 end_operator
 begin_operator
@@ -143492,8 +143492,8 @@ succumb prostatitis intoxication papaya earth uranus
 1
 13 8
 2
-0 47 19 8
 0 41 0 3
+0 47 19 8
 1
 end_operator
 begin_operator
@@ -143501,8 +143501,8 @@ succumb prostatitis intoxication papaya mercury saturn
 1
 13 8
 2
-0 47 19 8
 0 41 1 2
+0 47 19 8
 1
 end_operator
 begin_operator
@@ -143510,8 +143510,8 @@ succumb prostatitis intoxication papaya saturn earth
 1
 13 8
 2
-0 47 19 8
 0 41 2 0
+0 47 19 8
 1
 end_operator
 begin_operator
@@ -143519,8 +143519,8 @@ succumb prostatitis intoxication potato earth uranus
 1
 13 9
 2
-0 47 19 9
 0 41 0 3
+0 47 19 9
 1
 end_operator
 begin_operator
@@ -143528,8 +143528,8 @@ succumb prostatitis intoxication potato mercury saturn
 1
 13 9
 2
-0 47 19 9
 0 41 1 2
+0 47 19 9
 1
 end_operator
 begin_operator
@@ -143537,8 +143537,8 @@ succumb prostatitis intoxication potato saturn earth
 1
 13 9
 2
-0 47 19 9
 0 41 2 0
+0 47 19 9
 1
 end_operator
 begin_operator
@@ -143546,8 +143546,8 @@ succumb prostatitis intoxication rice earth uranus
 1
 13 10
 2
-0 47 19 10
 0 41 0 3
+0 47 19 10
 1
 end_operator
 begin_operator
@@ -143555,8 +143555,8 @@ succumb prostatitis intoxication rice mercury saturn
 1
 13 10
 2
-0 47 19 10
 0 41 1 2
+0 47 19 10
 1
 end_operator
 begin_operator
@@ -143564,8 +143564,8 @@ succumb prostatitis intoxication rice saturn earth
 1
 13 10
 2
-0 47 19 10
 0 41 2 0
+0 47 19 10
 1
 end_operator
 begin_operator
@@ -143573,8 +143573,8 @@ succumb prostatitis intoxication shrimp earth uranus
 1
 13 11
 2
-0 47 19 11
 0 41 0 3
+0 47 19 11
 1
 end_operator
 begin_operator
@@ -143582,8 +143582,8 @@ succumb prostatitis intoxication shrimp mercury saturn
 1
 13 11
 2
-0 47 19 11
 0 41 1 2
+0 47 19 11
 1
 end_operator
 begin_operator
@@ -143591,8 +143591,8 @@ succumb prostatitis intoxication shrimp saturn earth
 1
 13 11
 2
-0 47 19 11
 0 41 2 0
+0 47 19 11
 1
 end_operator
 begin_operator
@@ -143600,8 +143600,8 @@ succumb prostatitis intoxication turkey earth uranus
 1
 13 12
 2
-0 47 19 12
 0 41 0 3
+0 47 19 12
 1
 end_operator
 begin_operator
@@ -143609,8 +143609,8 @@ succumb prostatitis intoxication turkey mercury saturn
 1
 13 12
 2
-0 47 19 12
 0 41 1 2
+0 47 19 12
 1
 end_operator
 begin_operator
@@ -143618,8 +143618,8 @@ succumb prostatitis intoxication turkey saturn earth
 1
 13 12
 2
-0 47 19 12
 0 41 2 0
+0 47 19 12
 1
 end_operator
 begin_operator
@@ -143627,8 +143627,8 @@ succumb prostatitis intoxication wonderbread earth uranus
 1
 13 13
 2
-0 47 19 13
 0 41 0 3
+0 47 19 13
 1
 end_operator
 begin_operator
@@ -143636,8 +143636,8 @@ succumb prostatitis intoxication wonderbread mercury saturn
 1
 13 13
 2
-0 47 19 13
 0 41 1 2
+0 47 19 13
 1
 end_operator
 begin_operator
@@ -143645,8 +143645,8 @@ succumb prostatitis intoxication wonderbread saturn earth
 1
 13 13
 2
-0 47 19 13
 0 41 2 0
+0 47 19 13
 1
 end_operator
 begin_operator
@@ -143654,8 +143654,8 @@ succumb prostatitis intoxication wurst earth uranus
 1
 13 14
 2
-0 47 19 14
 0 41 0 3
+0 47 19 14
 1
 end_operator
 begin_operator
@@ -143663,8 +143663,8 @@ succumb prostatitis intoxication wurst mercury saturn
 1
 13 14
 2
-0 47 19 14
 0 41 1 2
+0 47 19 14
 1
 end_operator
 begin_operator
@@ -143672,8 +143672,8 @@ succumb prostatitis intoxication wurst saturn earth
 1
 13 14
 2
-0 47 19 14
 0 41 2 0
+0 47 19 14
 1
 end_operator
 begin_operator
@@ -143681,8 +143681,8 @@ succumb prostatitis intoxication yogurt earth uranus
 1
 13 15
 2
-0 47 19 15
 0 41 0 3
+0 47 19 15
 1
 end_operator
 begin_operator
@@ -143690,8 +143690,8 @@ succumb prostatitis intoxication yogurt mercury saturn
 1
 13 15
 2
-0 47 19 15
 0 41 1 2
+0 47 19 15
 1
 end_operator
 begin_operator
@@ -143699,8 +143699,8 @@ succumb prostatitis intoxication yogurt saturn earth
 1
 13 15
 2
-0 47 19 15
 0 41 2 0
+0 47 19 15
 1
 end_operator
 begin_operator
@@ -143708,8 +143708,8 @@ succumb prostatitis love arugula earth uranus
 1
 15 0
 2
-0 47 20 0
 0 42 0 3
+0 47 20 0
 1
 end_operator
 begin_operator
@@ -143717,8 +143717,8 @@ succumb prostatitis love arugula mercury saturn
 1
 15 0
 2
-0 47 20 0
 0 42 1 2
+0 47 20 0
 1
 end_operator
 begin_operator
@@ -143726,8 +143726,8 @@ succumb prostatitis love arugula saturn earth
 1
 15 0
 2
-0 47 20 0
 0 42 2 0
+0 47 20 0
 1
 end_operator
 begin_operator
@@ -143735,8 +143735,8 @@ succumb prostatitis love cherry earth uranus
 1
 15 1
 2
-0 47 20 1
 0 42 0 3
+0 47 20 1
 1
 end_operator
 begin_operator
@@ -143744,8 +143744,8 @@ succumb prostatitis love cherry mercury saturn
 1
 15 1
 2
-0 47 20 1
 0 42 1 2
+0 47 20 1
 1
 end_operator
 begin_operator
@@ -143753,8 +143753,8 @@ succumb prostatitis love cherry saturn earth
 1
 15 1
 2
-0 47 20 1
 0 42 2 0
+0 47 20 1
 1
 end_operator
 begin_operator
@@ -143762,8 +143762,8 @@ succumb prostatitis love endive earth uranus
 1
 15 2
 2
-0 47 20 2
 0 42 0 3
+0 47 20 2
 1
 end_operator
 begin_operator
@@ -143771,8 +143771,8 @@ succumb prostatitis love endive mercury saturn
 1
 15 2
 2
-0 47 20 2
 0 42 1 2
+0 47 20 2
 1
 end_operator
 begin_operator
@@ -143780,8 +143780,8 @@ succumb prostatitis love endive saturn earth
 1
 15 2
 2
-0 47 20 2
 0 42 2 0
+0 47 20 2
 1
 end_operator
 begin_operator
@@ -143789,8 +143789,8 @@ succumb prostatitis love ham earth uranus
 1
 15 3
 2
-0 47 20 3
 0 42 0 3
+0 47 20 3
 1
 end_operator
 begin_operator
@@ -143798,8 +143798,8 @@ succumb prostatitis love ham mercury saturn
 1
 15 3
 2
-0 47 20 3
 0 42 1 2
+0 47 20 3
 1
 end_operator
 begin_operator
@@ -143807,8 +143807,8 @@ succumb prostatitis love ham saturn earth
 1
 15 3
 2
-0 47 20 3
 0 42 2 0
+0 47 20 3
 1
 end_operator
 begin_operator
@@ -143816,8 +143816,8 @@ succumb prostatitis love haroset earth uranus
 1
 15 4
 2
-0 47 20 4
 0 42 0 3
+0 47 20 4
 1
 end_operator
 begin_operator
@@ -143825,8 +143825,8 @@ succumb prostatitis love haroset mercury saturn
 1
 15 4
 2
-0 47 20 4
 0 42 1 2
+0 47 20 4
 1
 end_operator
 begin_operator
@@ -143834,8 +143834,8 @@ succumb prostatitis love haroset saturn earth
 1
 15 4
 2
-0 47 20 4
 0 42 2 0
+0 47 20 4
 1
 end_operator
 begin_operator
@@ -143843,8 +143843,8 @@ succumb prostatitis love marzipan earth uranus
 1
 15 5
 2
-0 47 20 5
 0 42 0 3
+0 47 20 5
 1
 end_operator
 begin_operator
@@ -143852,8 +143852,8 @@ succumb prostatitis love marzipan mercury saturn
 1
 15 5
 2
-0 47 20 5
 0 42 1 2
+0 47 20 5
 1
 end_operator
 begin_operator
@@ -143861,8 +143861,8 @@ succumb prostatitis love marzipan saturn earth
 1
 15 5
 2
-0 47 20 5
 0 42 2 0
+0 47 20 5
 1
 end_operator
 begin_operator
@@ -143870,8 +143870,8 @@ succumb prostatitis love mutton earth uranus
 1
 15 6
 2
-0 47 20 6
 0 42 0 3
+0 47 20 6
 1
 end_operator
 begin_operator
@@ -143879,8 +143879,8 @@ succumb prostatitis love mutton mercury saturn
 1
 15 6
 2
-0 47 20 6
 0 42 1 2
+0 47 20 6
 1
 end_operator
 begin_operator
@@ -143888,8 +143888,8 @@ succumb prostatitis love mutton saturn earth
 1
 15 6
 2
-0 47 20 6
 0 42 2 0
+0 47 20 6
 1
 end_operator
 begin_operator
@@ -143897,8 +143897,8 @@ succumb prostatitis love onion earth uranus
 1
 15 7
 2
-0 47 20 7
 0 42 0 3
+0 47 20 7
 1
 end_operator
 begin_operator
@@ -143906,8 +143906,8 @@ succumb prostatitis love onion mercury saturn
 1
 15 7
 2
-0 47 20 7
 0 42 1 2
+0 47 20 7
 1
 end_operator
 begin_operator
@@ -143915,8 +143915,8 @@ succumb prostatitis love onion saturn earth
 1
 15 7
 2
-0 47 20 7
 0 42 2 0
+0 47 20 7
 1
 end_operator
 begin_operator
@@ -143924,8 +143924,8 @@ succumb prostatitis love papaya earth uranus
 1
 15 8
 2
-0 47 20 8
 0 42 0 3
+0 47 20 8
 1
 end_operator
 begin_operator
@@ -143933,8 +143933,8 @@ succumb prostatitis love papaya mercury saturn
 1
 15 8
 2
-0 47 20 8
 0 42 1 2
+0 47 20 8
 1
 end_operator
 begin_operator
@@ -143942,8 +143942,8 @@ succumb prostatitis love papaya saturn earth
 1
 15 8
 2
-0 47 20 8
 0 42 2 0
+0 47 20 8
 1
 end_operator
 begin_operator
@@ -143951,8 +143951,8 @@ succumb prostatitis love potato earth uranus
 1
 15 9
 2
-0 47 20 9
 0 42 0 3
+0 47 20 9
 1
 end_operator
 begin_operator
@@ -143960,8 +143960,8 @@ succumb prostatitis love potato mercury saturn
 1
 15 9
 2
-0 47 20 9
 0 42 1 2
+0 47 20 9
 1
 end_operator
 begin_operator
@@ -143969,8 +143969,8 @@ succumb prostatitis love potato saturn earth
 1
 15 9
 2
-0 47 20 9
 0 42 2 0
+0 47 20 9
 1
 end_operator
 begin_operator
@@ -143978,8 +143978,8 @@ succumb prostatitis love rice earth uranus
 1
 15 10
 2
-0 47 20 10
 0 42 0 3
+0 47 20 10
 1
 end_operator
 begin_operator
@@ -143987,8 +143987,8 @@ succumb prostatitis love rice mercury saturn
 1
 15 10
 2
-0 47 20 10
 0 42 1 2
+0 47 20 10
 1
 end_operator
 begin_operator
@@ -143996,8 +143996,8 @@ succumb prostatitis love rice saturn earth
 1
 15 10
 2
-0 47 20 10
 0 42 2 0
+0 47 20 10
 1
 end_operator
 begin_operator
@@ -144005,8 +144005,8 @@ succumb prostatitis love shrimp earth uranus
 1
 15 11
 2
-0 47 20 11
 0 42 0 3
+0 47 20 11
 1
 end_operator
 begin_operator
@@ -144014,8 +144014,8 @@ succumb prostatitis love shrimp mercury saturn
 1
 15 11
 2
-0 47 20 11
 0 42 1 2
+0 47 20 11
 1
 end_operator
 begin_operator
@@ -144023,8 +144023,8 @@ succumb prostatitis love shrimp saturn earth
 1
 15 11
 2
-0 47 20 11
 0 42 2 0
+0 47 20 11
 1
 end_operator
 begin_operator
@@ -144032,8 +144032,8 @@ succumb prostatitis love turkey earth uranus
 1
 15 12
 2
-0 47 20 12
 0 42 0 3
+0 47 20 12
 1
 end_operator
 begin_operator
@@ -144041,8 +144041,8 @@ succumb prostatitis love turkey mercury saturn
 1
 15 12
 2
-0 47 20 12
 0 42 1 2
+0 47 20 12
 1
 end_operator
 begin_operator
@@ -144050,8 +144050,8 @@ succumb prostatitis love turkey saturn earth
 1
 15 12
 2
-0 47 20 12
 0 42 2 0
+0 47 20 12
 1
 end_operator
 begin_operator
@@ -144059,8 +144059,8 @@ succumb prostatitis love wonderbread earth uranus
 1
 15 13
 2
-0 47 20 13
 0 42 0 3
+0 47 20 13
 1
 end_operator
 begin_operator
@@ -144068,8 +144068,8 @@ succumb prostatitis love wonderbread mercury saturn
 1
 15 13
 2
-0 47 20 13
 0 42 1 2
+0 47 20 13
 1
 end_operator
 begin_operator
@@ -144077,8 +144077,8 @@ succumb prostatitis love wonderbread saturn earth
 1
 15 13
 2
-0 47 20 13
 0 42 2 0
+0 47 20 13
 1
 end_operator
 begin_operator
@@ -144086,8 +144086,8 @@ succumb prostatitis love wurst earth uranus
 1
 15 14
 2
-0 47 20 14
 0 42 0 3
+0 47 20 14
 1
 end_operator
 begin_operator
@@ -144095,8 +144095,8 @@ succumb prostatitis love wurst mercury saturn
 1
 15 14
 2
-0 47 20 14
 0 42 1 2
+0 47 20 14
 1
 end_operator
 begin_operator
@@ -144104,8 +144104,8 @@ succumb prostatitis love wurst saturn earth
 1
 15 14
 2
-0 47 20 14
 0 42 2 0
+0 47 20 14
 1
 end_operator
 begin_operator
@@ -144113,8 +144113,8 @@ succumb prostatitis love yogurt earth uranus
 1
 15 15
 2
-0 47 20 15
 0 42 0 3
+0 47 20 15
 1
 end_operator
 begin_operator
@@ -144122,8 +144122,8 @@ succumb prostatitis love yogurt mercury saturn
 1
 15 15
 2
-0 47 20 15
 0 42 1 2
+0 47 20 15
 1
 end_operator
 begin_operator
@@ -144131,8 +144131,8 @@ succumb prostatitis love yogurt saturn earth
 1
 15 15
 2
-0 47 20 15
 0 42 2 0
+0 47 20 15
 1
 end_operator
 begin_operator
@@ -144140,8 +144140,8 @@ succumb prostatitis lubricity arugula earth uranus
 1
 17 0
 2
-0 47 21 0
 0 45 0 3
+0 47 21 0
 1
 end_operator
 begin_operator
@@ -144149,8 +144149,8 @@ succumb prostatitis lubricity arugula mercury saturn
 1
 17 0
 2
-0 47 21 0
 0 45 1 2
+0 47 21 0
 1
 end_operator
 begin_operator
@@ -144158,8 +144158,8 @@ succumb prostatitis lubricity arugula saturn earth
 1
 17 0
 2
-0 47 21 0
 0 45 2 0
+0 47 21 0
 1
 end_operator
 begin_operator
@@ -144167,8 +144167,8 @@ succumb prostatitis lubricity cherry earth uranus
 1
 17 1
 2
-0 47 21 1
 0 45 0 3
+0 47 21 1
 1
 end_operator
 begin_operator
@@ -144176,8 +144176,8 @@ succumb prostatitis lubricity cherry mercury saturn
 1
 17 1
 2
-0 47 21 1
 0 45 1 2
+0 47 21 1
 1
 end_operator
 begin_operator
@@ -144185,8 +144185,8 @@ succumb prostatitis lubricity cherry saturn earth
 1
 17 1
 2
-0 47 21 1
 0 45 2 0
+0 47 21 1
 1
 end_operator
 begin_operator
@@ -144194,8 +144194,8 @@ succumb prostatitis lubricity endive earth uranus
 1
 17 2
 2
-0 47 21 2
 0 45 0 3
+0 47 21 2
 1
 end_operator
 begin_operator
@@ -144203,8 +144203,8 @@ succumb prostatitis lubricity endive mercury saturn
 1
 17 2
 2
-0 47 21 2
 0 45 1 2
+0 47 21 2
 1
 end_operator
 begin_operator
@@ -144212,8 +144212,8 @@ succumb prostatitis lubricity endive saturn earth
 1
 17 2
 2
-0 47 21 2
 0 45 2 0
+0 47 21 2
 1
 end_operator
 begin_operator
@@ -144221,8 +144221,8 @@ succumb prostatitis lubricity ham earth uranus
 1
 17 3
 2
-0 47 21 3
 0 45 0 3
+0 47 21 3
 1
 end_operator
 begin_operator
@@ -144230,8 +144230,8 @@ succumb prostatitis lubricity ham mercury saturn
 1
 17 3
 2
-0 47 21 3
 0 45 1 2
+0 47 21 3
 1
 end_operator
 begin_operator
@@ -144239,8 +144239,8 @@ succumb prostatitis lubricity ham saturn earth
 1
 17 3
 2
-0 47 21 3
 0 45 2 0
+0 47 21 3
 1
 end_operator
 begin_operator
@@ -144248,8 +144248,8 @@ succumb prostatitis lubricity haroset earth uranus
 1
 17 4
 2
-0 47 21 4
 0 45 0 3
+0 47 21 4
 1
 end_operator
 begin_operator
@@ -144257,8 +144257,8 @@ succumb prostatitis lubricity haroset mercury saturn
 1
 17 4
 2
-0 47 21 4
 0 45 1 2
+0 47 21 4
 1
 end_operator
 begin_operator
@@ -144266,8 +144266,8 @@ succumb prostatitis lubricity haroset saturn earth
 1
 17 4
 2
-0 47 21 4
 0 45 2 0
+0 47 21 4
 1
 end_operator
 begin_operator
@@ -144275,8 +144275,8 @@ succumb prostatitis lubricity marzipan earth uranus
 1
 17 5
 2
-0 47 21 5
 0 45 0 3
+0 47 21 5
 1
 end_operator
 begin_operator
@@ -144284,8 +144284,8 @@ succumb prostatitis lubricity marzipan mercury saturn
 1
 17 5
 2
-0 47 21 5
 0 45 1 2
+0 47 21 5
 1
 end_operator
 begin_operator
@@ -144293,8 +144293,8 @@ succumb prostatitis lubricity marzipan saturn earth
 1
 17 5
 2
-0 47 21 5
 0 45 2 0
+0 47 21 5
 1
 end_operator
 begin_operator
@@ -144302,8 +144302,8 @@ succumb prostatitis lubricity mutton earth uranus
 1
 17 6
 2
-0 47 21 6
 0 45 0 3
+0 47 21 6
 1
 end_operator
 begin_operator
@@ -144311,8 +144311,8 @@ succumb prostatitis lubricity mutton mercury saturn
 1
 17 6
 2
-0 47 21 6
 0 45 1 2
+0 47 21 6
 1
 end_operator
 begin_operator
@@ -144320,8 +144320,8 @@ succumb prostatitis lubricity mutton saturn earth
 1
 17 6
 2
-0 47 21 6
 0 45 2 0
+0 47 21 6
 1
 end_operator
 begin_operator
@@ -144329,8 +144329,8 @@ succumb prostatitis lubricity onion earth uranus
 1
 17 7
 2
-0 47 21 7
 0 45 0 3
+0 47 21 7
 1
 end_operator
 begin_operator
@@ -144338,8 +144338,8 @@ succumb prostatitis lubricity onion mercury saturn
 1
 17 7
 2
-0 47 21 7
 0 45 1 2
+0 47 21 7
 1
 end_operator
 begin_operator
@@ -144347,8 +144347,8 @@ succumb prostatitis lubricity onion saturn earth
 1
 17 7
 2
-0 47 21 7
 0 45 2 0
+0 47 21 7
 1
 end_operator
 begin_operator
@@ -144356,8 +144356,8 @@ succumb prostatitis lubricity papaya earth uranus
 1
 17 8
 2
-0 47 21 8
 0 45 0 3
+0 47 21 8
 1
 end_operator
 begin_operator
@@ -144365,8 +144365,8 @@ succumb prostatitis lubricity papaya mercury saturn
 1
 17 8
 2
-0 47 21 8
 0 45 1 2
+0 47 21 8
 1
 end_operator
 begin_operator
@@ -144374,8 +144374,8 @@ succumb prostatitis lubricity papaya saturn earth
 1
 17 8
 2
-0 47 21 8
 0 45 2 0
+0 47 21 8
 1
 end_operator
 begin_operator
@@ -144383,8 +144383,8 @@ succumb prostatitis lubricity potato earth uranus
 1
 17 9
 2
-0 47 21 9
 0 45 0 3
+0 47 21 9
 1
 end_operator
 begin_operator
@@ -144392,8 +144392,8 @@ succumb prostatitis lubricity potato mercury saturn
 1
 17 9
 2
-0 47 21 9
 0 45 1 2
+0 47 21 9
 1
 end_operator
 begin_operator
@@ -144401,8 +144401,8 @@ succumb prostatitis lubricity potato saturn earth
 1
 17 9
 2
-0 47 21 9
 0 45 2 0
+0 47 21 9
 1
 end_operator
 begin_operator
@@ -144410,8 +144410,8 @@ succumb prostatitis lubricity rice earth uranus
 1
 17 10
 2
-0 47 21 10
 0 45 0 3
+0 47 21 10
 1
 end_operator
 begin_operator
@@ -144419,8 +144419,8 @@ succumb prostatitis lubricity rice mercury saturn
 1
 17 10
 2
-0 47 21 10
 0 45 1 2
+0 47 21 10
 1
 end_operator
 begin_operator
@@ -144428,8 +144428,8 @@ succumb prostatitis lubricity rice saturn earth
 1
 17 10
 2
-0 47 21 10
 0 45 2 0
+0 47 21 10
 1
 end_operator
 begin_operator
@@ -144437,8 +144437,8 @@ succumb prostatitis lubricity shrimp earth uranus
 1
 17 11
 2
-0 47 21 11
 0 45 0 3
+0 47 21 11
 1
 end_operator
 begin_operator
@@ -144446,8 +144446,8 @@ succumb prostatitis lubricity shrimp mercury saturn
 1
 17 11
 2
-0 47 21 11
 0 45 1 2
+0 47 21 11
 1
 end_operator
 begin_operator
@@ -144455,8 +144455,8 @@ succumb prostatitis lubricity shrimp saturn earth
 1
 17 11
 2
-0 47 21 11
 0 45 2 0
+0 47 21 11
 1
 end_operator
 begin_operator
@@ -144464,8 +144464,8 @@ succumb prostatitis lubricity turkey earth uranus
 1
 17 12
 2
-0 47 21 12
 0 45 0 3
+0 47 21 12
 1
 end_operator
 begin_operator
@@ -144473,8 +144473,8 @@ succumb prostatitis lubricity turkey mercury saturn
 1
 17 12
 2
-0 47 21 12
 0 45 1 2
+0 47 21 12
 1
 end_operator
 begin_operator
@@ -144482,8 +144482,8 @@ succumb prostatitis lubricity turkey saturn earth
 1
 17 12
 2
-0 47 21 12
 0 45 2 0
+0 47 21 12
 1
 end_operator
 begin_operator
@@ -144491,8 +144491,8 @@ succumb prostatitis lubricity wonderbread earth uranus
 1
 17 13
 2
-0 47 21 13
 0 45 0 3
+0 47 21 13
 1
 end_operator
 begin_operator
@@ -144500,8 +144500,8 @@ succumb prostatitis lubricity wonderbread mercury saturn
 1
 17 13
 2
-0 47 21 13
 0 45 1 2
+0 47 21 13
 1
 end_operator
 begin_operator
@@ -144509,8 +144509,8 @@ succumb prostatitis lubricity wonderbread saturn earth
 1
 17 13
 2
-0 47 21 13
 0 45 2 0
+0 47 21 13
 1
 end_operator
 begin_operator
@@ -144518,8 +144518,8 @@ succumb prostatitis lubricity wurst earth uranus
 1
 17 14
 2
-0 47 21 14
 0 45 0 3
+0 47 21 14
 1
 end_operator
 begin_operator
@@ -144527,8 +144527,8 @@ succumb prostatitis lubricity wurst mercury saturn
 1
 17 14
 2
-0 47 21 14
 0 45 1 2
+0 47 21 14
 1
 end_operator
 begin_operator
@@ -144536,8 +144536,8 @@ succumb prostatitis lubricity wurst saturn earth
 1
 17 14
 2
-0 47 21 14
 0 45 2 0
+0 47 21 14
 1
 end_operator
 begin_operator
@@ -144545,8 +144545,8 @@ succumb prostatitis lubricity yogurt earth uranus
 1
 17 15
 2
-0 47 21 15
 0 45 0 3
+0 47 21 15
 1
 end_operator
 begin_operator
@@ -144554,8 +144554,8 @@ succumb prostatitis lubricity yogurt mercury saturn
 1
 17 15
 2
-0 47 21 15
 0 45 1 2
+0 47 21 15
 1
 end_operator
 begin_operator
@@ -144563,8 +144563,8 @@ succumb prostatitis lubricity yogurt saturn earth
 1
 17 15
 2
-0 47 21 15
 0 45 2 0
+0 47 21 15
 1
 end_operator
 begin_operator
@@ -144572,8 +144572,8 @@ succumb prostatitis rest arugula earth uranus
 1
 19 0
 2
-0 47 22 0
 0 46 0 3
+0 47 22 0
 1
 end_operator
 begin_operator
@@ -144581,8 +144581,8 @@ succumb prostatitis rest arugula mercury saturn
 1
 19 0
 2
-0 47 22 0
 0 46 1 2
+0 47 22 0
 1
 end_operator
 begin_operator
@@ -144590,8 +144590,8 @@ succumb prostatitis rest arugula saturn earth
 1
 19 0
 2
-0 47 22 0
 0 46 2 0
+0 47 22 0
 1
 end_operator
 begin_operator
@@ -144599,8 +144599,8 @@ succumb prostatitis rest cherry earth uranus
 1
 19 1
 2
-0 47 22 1
 0 46 0 3
+0 47 22 1
 1
 end_operator
 begin_operator
@@ -144608,8 +144608,8 @@ succumb prostatitis rest cherry mercury saturn
 1
 19 1
 2
-0 47 22 1
 0 46 1 2
+0 47 22 1
 1
 end_operator
 begin_operator
@@ -144617,8 +144617,8 @@ succumb prostatitis rest cherry saturn earth
 1
 19 1
 2
-0 47 22 1
 0 46 2 0
+0 47 22 1
 1
 end_operator
 begin_operator
@@ -144626,8 +144626,8 @@ succumb prostatitis rest endive earth uranus
 1
 19 2
 2
-0 47 22 2
 0 46 0 3
+0 47 22 2
 1
 end_operator
 begin_operator
@@ -144635,8 +144635,8 @@ succumb prostatitis rest endive mercury saturn
 1
 19 2
 2
-0 47 22 2
 0 46 1 2
+0 47 22 2
 1
 end_operator
 begin_operator
@@ -144644,8 +144644,8 @@ succumb prostatitis rest endive saturn earth
 1
 19 2
 2
-0 47 22 2
 0 46 2 0
+0 47 22 2
 1
 end_operator
 begin_operator
@@ -144653,8 +144653,8 @@ succumb prostatitis rest ham earth uranus
 1
 19 3
 2
-0 47 22 3
 0 46 0 3
+0 47 22 3
 1
 end_operator
 begin_operator
@@ -144662,8 +144662,8 @@ succumb prostatitis rest ham mercury saturn
 1
 19 3
 2
-0 47 22 3
 0 46 1 2
+0 47 22 3
 1
 end_operator
 begin_operator
@@ -144671,8 +144671,8 @@ succumb prostatitis rest ham saturn earth
 1
 19 3
 2
-0 47 22 3
 0 46 2 0
+0 47 22 3
 1
 end_operator
 begin_operator
@@ -144680,8 +144680,8 @@ succumb prostatitis rest haroset earth uranus
 1
 19 4
 2
-0 47 22 4
 0 46 0 3
+0 47 22 4
 1
 end_operator
 begin_operator
@@ -144689,8 +144689,8 @@ succumb prostatitis rest haroset mercury saturn
 1
 19 4
 2
-0 47 22 4
 0 46 1 2
+0 47 22 4
 1
 end_operator
 begin_operator
@@ -144698,8 +144698,8 @@ succumb prostatitis rest haroset saturn earth
 1
 19 4
 2
-0 47 22 4
 0 46 2 0
+0 47 22 4
 1
 end_operator
 begin_operator
@@ -144707,8 +144707,8 @@ succumb prostatitis rest marzipan earth uranus
 1
 19 5
 2
-0 47 22 5
 0 46 0 3
+0 47 22 5
 1
 end_operator
 begin_operator
@@ -144716,8 +144716,8 @@ succumb prostatitis rest marzipan mercury saturn
 1
 19 5
 2
-0 47 22 5
 0 46 1 2
+0 47 22 5
 1
 end_operator
 begin_operator
@@ -144725,8 +144725,8 @@ succumb prostatitis rest marzipan saturn earth
 1
 19 5
 2
-0 47 22 5
 0 46 2 0
+0 47 22 5
 1
 end_operator
 begin_operator
@@ -144734,8 +144734,8 @@ succumb prostatitis rest mutton earth uranus
 1
 19 6
 2
-0 47 22 6
 0 46 0 3
+0 47 22 6
 1
 end_operator
 begin_operator
@@ -144743,8 +144743,8 @@ succumb prostatitis rest mutton mercury saturn
 1
 19 6
 2
-0 47 22 6
 0 46 1 2
+0 47 22 6
 1
 end_operator
 begin_operator
@@ -144752,8 +144752,8 @@ succumb prostatitis rest mutton saturn earth
 1
 19 6
 2
-0 47 22 6
 0 46 2 0
+0 47 22 6
 1
 end_operator
 begin_operator
@@ -144761,8 +144761,8 @@ succumb prostatitis rest onion earth uranus
 1
 19 7
 2
-0 47 22 7
 0 46 0 3
+0 47 22 7
 1
 end_operator
 begin_operator
@@ -144770,8 +144770,8 @@ succumb prostatitis rest onion mercury saturn
 1
 19 7
 2
-0 47 22 7
 0 46 1 2
+0 47 22 7
 1
 end_operator
 begin_operator
@@ -144779,8 +144779,8 @@ succumb prostatitis rest onion saturn earth
 1
 19 7
 2
-0 47 22 7
 0 46 2 0
+0 47 22 7
 1
 end_operator
 begin_operator
@@ -144788,8 +144788,8 @@ succumb prostatitis rest papaya earth uranus
 1
 19 8
 2
-0 47 22 8
 0 46 0 3
+0 47 22 8
 1
 end_operator
 begin_operator
@@ -144797,8 +144797,8 @@ succumb prostatitis rest papaya mercury saturn
 1
 19 8
 2
-0 47 22 8
 0 46 1 2
+0 47 22 8
 1
 end_operator
 begin_operator
@@ -144806,8 +144806,8 @@ succumb prostatitis rest papaya saturn earth
 1
 19 8
 2
-0 47 22 8
 0 46 2 0
+0 47 22 8
 1
 end_operator
 begin_operator
@@ -144815,8 +144815,8 @@ succumb prostatitis rest potato earth uranus
 1
 19 9
 2
-0 47 22 9
 0 46 0 3
+0 47 22 9
 1
 end_operator
 begin_operator
@@ -144824,8 +144824,8 @@ succumb prostatitis rest potato mercury saturn
 1
 19 9
 2
-0 47 22 9
 0 46 1 2
+0 47 22 9
 1
 end_operator
 begin_operator
@@ -144833,8 +144833,8 @@ succumb prostatitis rest potato saturn earth
 1
 19 9
 2
-0 47 22 9
 0 46 2 0
+0 47 22 9
 1
 end_operator
 begin_operator
@@ -144842,8 +144842,8 @@ succumb prostatitis rest rice earth uranus
 1
 19 10
 2
-0 47 22 10
 0 46 0 3
+0 47 22 10
 1
 end_operator
 begin_operator
@@ -144851,8 +144851,8 @@ succumb prostatitis rest rice mercury saturn
 1
 19 10
 2
-0 47 22 10
 0 46 1 2
+0 47 22 10
 1
 end_operator
 begin_operator
@@ -144860,8 +144860,8 @@ succumb prostatitis rest rice saturn earth
 1
 19 10
 2
-0 47 22 10
 0 46 2 0
+0 47 22 10
 1
 end_operator
 begin_operator
@@ -144869,8 +144869,8 @@ succumb prostatitis rest shrimp earth uranus
 1
 19 11
 2
-0 47 22 11
 0 46 0 3
+0 47 22 11
 1
 end_operator
 begin_operator
@@ -144878,8 +144878,8 @@ succumb prostatitis rest shrimp mercury saturn
 1
 19 11
 2
-0 47 22 11
 0 46 1 2
+0 47 22 11
 1
 end_operator
 begin_operator
@@ -144887,8 +144887,8 @@ succumb prostatitis rest shrimp saturn earth
 1
 19 11
 2
-0 47 22 11
 0 46 2 0
+0 47 22 11
 1
 end_operator
 begin_operator
@@ -144896,8 +144896,8 @@ succumb prostatitis rest turkey earth uranus
 1
 19 12
 2
-0 47 22 12
 0 46 0 3
+0 47 22 12
 1
 end_operator
 begin_operator
@@ -144905,8 +144905,8 @@ succumb prostatitis rest turkey mercury saturn
 1
 19 12
 2
-0 47 22 12
 0 46 1 2
+0 47 22 12
 1
 end_operator
 begin_operator
@@ -144914,8 +144914,8 @@ succumb prostatitis rest turkey saturn earth
 1
 19 12
 2
-0 47 22 12
 0 46 2 0
+0 47 22 12
 1
 end_operator
 begin_operator
@@ -144923,8 +144923,8 @@ succumb prostatitis rest wonderbread earth uranus
 1
 19 13
 2
-0 47 22 13
 0 46 0 3
+0 47 22 13
 1
 end_operator
 begin_operator
@@ -144932,8 +144932,8 @@ succumb prostatitis rest wonderbread mercury saturn
 1
 19 13
 2
-0 47 22 13
 0 46 1 2
+0 47 22 13
 1
 end_operator
 begin_operator
@@ -144941,8 +144941,8 @@ succumb prostatitis rest wonderbread saturn earth
 1
 19 13
 2
-0 47 22 13
 0 46 2 0
+0 47 22 13
 1
 end_operator
 begin_operator
@@ -144950,8 +144950,8 @@ succumb prostatitis rest wurst earth uranus
 1
 19 14
 2
-0 47 22 14
 0 46 0 3
+0 47 22 14
 1
 end_operator
 begin_operator
@@ -144959,8 +144959,8 @@ succumb prostatitis rest wurst mercury saturn
 1
 19 14
 2
-0 47 22 14
 0 46 1 2
+0 47 22 14
 1
 end_operator
 begin_operator
@@ -144968,8 +144968,8 @@ succumb prostatitis rest wurst saturn earth
 1
 19 14
 2
-0 47 22 14
 0 46 2 0
+0 47 22 14
 1
 end_operator
 begin_operator
@@ -144977,8 +144977,8 @@ succumb prostatitis rest yogurt earth uranus
 1
 19 15
 2
-0 47 22 15
 0 46 0 3
+0 47 22 15
 1
 end_operator
 begin_operator
@@ -144986,8 +144986,8 @@ succumb prostatitis rest yogurt mercury saturn
 1
 19 15
 2
-0 47 22 15
 0 46 1 2
+0 47 22 15
 1
 end_operator
 begin_operator
@@ -144995,8 +144995,8 @@ succumb prostatitis rest yogurt saturn earth
 1
 19 15
 2
-0 47 22 15
 0 46 2 0
+0 47 22 15
 1
 end_operator
 begin_operator
@@ -145868,8 +145868,8 @@ succumb sciatica achievement arugula earth uranus
 1
 9 0
 2
-0 48 16 0
 0 37 0 3
+0 48 16 0
 1
 end_operator
 begin_operator
@@ -145877,8 +145877,8 @@ succumb sciatica achievement arugula mercury saturn
 1
 9 0
 2
-0 48 16 0
 0 37 1 2
+0 48 16 0
 1
 end_operator
 begin_operator
@@ -145886,8 +145886,8 @@ succumb sciatica achievement arugula saturn earth
 1
 9 0
 2
-0 48 16 0
 0 37 2 0
+0 48 16 0
 1
 end_operator
 begin_operator
@@ -145895,8 +145895,8 @@ succumb sciatica achievement cherry earth uranus
 1
 9 1
 2
-0 48 16 1
 0 37 0 3
+0 48 16 1
 1
 end_operator
 begin_operator
@@ -145904,8 +145904,8 @@ succumb sciatica achievement cherry mercury saturn
 1
 9 1
 2
-0 48 16 1
 0 37 1 2
+0 48 16 1
 1
 end_operator
 begin_operator
@@ -145913,8 +145913,8 @@ succumb sciatica achievement cherry saturn earth
 1
 9 1
 2
-0 48 16 1
 0 37 2 0
+0 48 16 1
 1
 end_operator
 begin_operator
@@ -145922,8 +145922,8 @@ succumb sciatica achievement endive earth uranus
 1
 9 2
 2
-0 48 16 2
 0 37 0 3
+0 48 16 2
 1
 end_operator
 begin_operator
@@ -145931,8 +145931,8 @@ succumb sciatica achievement endive mercury saturn
 1
 9 2
 2
-0 48 16 2
 0 37 1 2
+0 48 16 2
 1
 end_operator
 begin_operator
@@ -145940,8 +145940,8 @@ succumb sciatica achievement endive saturn earth
 1
 9 2
 2
-0 48 16 2
 0 37 2 0
+0 48 16 2
 1
 end_operator
 begin_operator
@@ -145949,8 +145949,8 @@ succumb sciatica achievement ham earth uranus
 1
 9 3
 2
-0 48 16 3
 0 37 0 3
+0 48 16 3
 1
 end_operator
 begin_operator
@@ -145958,8 +145958,8 @@ succumb sciatica achievement ham mercury saturn
 1
 9 3
 2
-0 48 16 3
 0 37 1 2
+0 48 16 3
 1
 end_operator
 begin_operator
@@ -145967,8 +145967,8 @@ succumb sciatica achievement ham saturn earth
 1
 9 3
 2
-0 48 16 3
 0 37 2 0
+0 48 16 3
 1
 end_operator
 begin_operator
@@ -145976,8 +145976,8 @@ succumb sciatica achievement haroset earth uranus
 1
 9 4
 2
-0 48 16 4
 0 37 0 3
+0 48 16 4
 1
 end_operator
 begin_operator
@@ -145985,8 +145985,8 @@ succumb sciatica achievement haroset mercury saturn
 1
 9 4
 2
-0 48 16 4
 0 37 1 2
+0 48 16 4
 1
 end_operator
 begin_operator
@@ -145994,8 +145994,8 @@ succumb sciatica achievement haroset saturn earth
 1
 9 4
 2
-0 48 16 4
 0 37 2 0
+0 48 16 4
 1
 end_operator
 begin_operator
@@ -146003,8 +146003,8 @@ succumb sciatica achievement marzipan earth uranus
 1
 9 5
 2
-0 48 16 5
 0 37 0 3
+0 48 16 5
 1
 end_operator
 begin_operator
@@ -146012,8 +146012,8 @@ succumb sciatica achievement marzipan mercury saturn
 1
 9 5
 2
-0 48 16 5
 0 37 1 2
+0 48 16 5
 1
 end_operator
 begin_operator
@@ -146021,8 +146021,8 @@ succumb sciatica achievement marzipan saturn earth
 1
 9 5
 2
-0 48 16 5
 0 37 2 0
+0 48 16 5
 1
 end_operator
 begin_operator
@@ -146030,8 +146030,8 @@ succumb sciatica achievement mutton earth uranus
 1
 9 6
 2
-0 48 16 6
 0 37 0 3
+0 48 16 6
 1
 end_operator
 begin_operator
@@ -146039,8 +146039,8 @@ succumb sciatica achievement mutton mercury saturn
 1
 9 6
 2
-0 48 16 6
 0 37 1 2
+0 48 16 6
 1
 end_operator
 begin_operator
@@ -146048,8 +146048,8 @@ succumb sciatica achievement mutton saturn earth
 1
 9 6
 2
-0 48 16 6
 0 37 2 0
+0 48 16 6
 1
 end_operator
 begin_operator
@@ -146057,8 +146057,8 @@ succumb sciatica achievement onion earth uranus
 1
 9 7
 2
-0 48 16 7
 0 37 0 3
+0 48 16 7
 1
 end_operator
 begin_operator
@@ -146066,8 +146066,8 @@ succumb sciatica achievement onion mercury saturn
 1
 9 7
 2
-0 48 16 7
 0 37 1 2
+0 48 16 7
 1
 end_operator
 begin_operator
@@ -146075,8 +146075,8 @@ succumb sciatica achievement onion saturn earth
 1
 9 7
 2
-0 48 16 7
 0 37 2 0
+0 48 16 7
 1
 end_operator
 begin_operator
@@ -146084,8 +146084,8 @@ succumb sciatica achievement papaya earth uranus
 1
 9 8
 2
-0 48 16 8
 0 37 0 3
+0 48 16 8
 1
 end_operator
 begin_operator
@@ -146093,8 +146093,8 @@ succumb sciatica achievement papaya mercury saturn
 1
 9 8
 2
-0 48 16 8
 0 37 1 2
+0 48 16 8
 1
 end_operator
 begin_operator
@@ -146102,8 +146102,8 @@ succumb sciatica achievement papaya saturn earth
 1
 9 8
 2
-0 48 16 8
 0 37 2 0
+0 48 16 8
 1
 end_operator
 begin_operator
@@ -146111,8 +146111,8 @@ succumb sciatica achievement potato earth uranus
 1
 9 9
 2
-0 48 16 9
 0 37 0 3
+0 48 16 9
 1
 end_operator
 begin_operator
@@ -146120,8 +146120,8 @@ succumb sciatica achievement potato mercury saturn
 1
 9 9
 2
-0 48 16 9
 0 37 1 2
+0 48 16 9
 1
 end_operator
 begin_operator
@@ -146129,8 +146129,8 @@ succumb sciatica achievement potato saturn earth
 1
 9 9
 2
-0 48 16 9
 0 37 2 0
+0 48 16 9
 1
 end_operator
 begin_operator
@@ -146138,8 +146138,8 @@ succumb sciatica achievement rice earth uranus
 1
 9 10
 2
-0 48 16 10
 0 37 0 3
+0 48 16 10
 1
 end_operator
 begin_operator
@@ -146147,8 +146147,8 @@ succumb sciatica achievement rice mercury saturn
 1
 9 10
 2
-0 48 16 10
 0 37 1 2
+0 48 16 10
 1
 end_operator
 begin_operator
@@ -146156,8 +146156,8 @@ succumb sciatica achievement rice saturn earth
 1
 9 10
 2
-0 48 16 10
 0 37 2 0
+0 48 16 10
 1
 end_operator
 begin_operator
@@ -146165,8 +146165,8 @@ succumb sciatica achievement shrimp earth uranus
 1
 9 11
 2
-0 48 16 11
 0 37 0 3
+0 48 16 11
 1
 end_operator
 begin_operator
@@ -146174,8 +146174,8 @@ succumb sciatica achievement shrimp mercury saturn
 1
 9 11
 2
-0 48 16 11
 0 37 1 2
+0 48 16 11
 1
 end_operator
 begin_operator
@@ -146183,8 +146183,8 @@ succumb sciatica achievement shrimp saturn earth
 1
 9 11
 2
-0 48 16 11
 0 37 2 0
+0 48 16 11
 1
 end_operator
 begin_operator
@@ -146192,8 +146192,8 @@ succumb sciatica achievement turkey earth uranus
 1
 9 12
 2
-0 48 16 12
 0 37 0 3
+0 48 16 12
 1
 end_operator
 begin_operator
@@ -146201,8 +146201,8 @@ succumb sciatica achievement turkey mercury saturn
 1
 9 12
 2
-0 48 16 12
 0 37 1 2
+0 48 16 12
 1
 end_operator
 begin_operator
@@ -146210,8 +146210,8 @@ succumb sciatica achievement turkey saturn earth
 1
 9 12
 2
-0 48 16 12
 0 37 2 0
+0 48 16 12
 1
 end_operator
 begin_operator
@@ -146219,8 +146219,8 @@ succumb sciatica achievement wonderbread earth uranus
 1
 9 13
 2
-0 48 16 13
 0 37 0 3
+0 48 16 13
 1
 end_operator
 begin_operator
@@ -146228,8 +146228,8 @@ succumb sciatica achievement wonderbread mercury saturn
 1
 9 13
 2
-0 48 16 13
 0 37 1 2
+0 48 16 13
 1
 end_operator
 begin_operator
@@ -146237,8 +146237,8 @@ succumb sciatica achievement wonderbread saturn earth
 1
 9 13
 2
-0 48 16 13
 0 37 2 0
+0 48 16 13
 1
 end_operator
 begin_operator
@@ -146246,8 +146246,8 @@ succumb sciatica achievement wurst earth uranus
 1
 9 14
 2
-0 48 16 14
 0 37 0 3
+0 48 16 14
 1
 end_operator
 begin_operator
@@ -146255,8 +146255,8 @@ succumb sciatica achievement wurst mercury saturn
 1
 9 14
 2
-0 48 16 14
 0 37 1 2
+0 48 16 14
 1
 end_operator
 begin_operator
@@ -146264,8 +146264,8 @@ succumb sciatica achievement wurst saturn earth
 1
 9 14
 2
-0 48 16 14
 0 37 2 0
+0 48 16 14
 1
 end_operator
 begin_operator
@@ -146273,8 +146273,8 @@ succumb sciatica achievement yogurt earth uranus
 1
 9 15
 2
-0 48 16 15
 0 37 0 3
+0 48 16 15
 1
 end_operator
 begin_operator
@@ -146282,8 +146282,8 @@ succumb sciatica achievement yogurt mercury saturn
 1
 9 15
 2
-0 48 16 15
 0 37 1 2
+0 48 16 15
 1
 end_operator
 begin_operator
@@ -146291,32 +146291,32 @@ succumb sciatica achievement yogurt saturn earth
 1
 9 15
 2
-0 48 16 15
 0 37 2 0
+0 48 16 15
 1
 end_operator
 begin_operator
 succumb sciatica entertainment wurst earth uranus
 0
 2
-0 48 17 14
 0 23 0 3
+0 48 17 14
 1
 end_operator
 begin_operator
 succumb sciatica entertainment wurst mercury saturn
 0
 2
-0 48 17 14
 0 23 1 2
+0 48 17 14
 1
 end_operator
 begin_operator
 succumb sciatica entertainment wurst saturn earth
 0
 2
-0 48 17 14
 0 23 2 0
+0 48 17 14
 1
 end_operator
 begin_operator
@@ -146324,8 +146324,8 @@ succumb sciatica excitement arugula earth uranus
 1
 11 0
 2
-0 48 18 0
 0 38 0 3
+0 48 18 0
 1
 end_operator
 begin_operator
@@ -146333,8 +146333,8 @@ succumb sciatica excitement arugula mercury saturn
 1
 11 0
 2
-0 48 18 0
 0 38 1 2
+0 48 18 0
 1
 end_operator
 begin_operator
@@ -146342,8 +146342,8 @@ succumb sciatica excitement arugula saturn earth
 1
 11 0
 2
-0 48 18 0
 0 38 2 0
+0 48 18 0
 1
 end_operator
 begin_operator
@@ -146351,8 +146351,8 @@ succumb sciatica excitement cherry earth uranus
 1
 11 1
 2
-0 48 18 1
 0 38 0 3
+0 48 18 1
 1
 end_operator
 begin_operator
@@ -146360,8 +146360,8 @@ succumb sciatica excitement cherry mercury saturn
 1
 11 1
 2
-0 48 18 1
 0 38 1 2
+0 48 18 1
 1
 end_operator
 begin_operator
@@ -146369,8 +146369,8 @@ succumb sciatica excitement cherry saturn earth
 1
 11 1
 2
-0 48 18 1
 0 38 2 0
+0 48 18 1
 1
 end_operator
 begin_operator
@@ -146378,8 +146378,8 @@ succumb sciatica excitement endive earth uranus
 1
 11 2
 2
-0 48 18 2
 0 38 0 3
+0 48 18 2
 1
 end_operator
 begin_operator
@@ -146387,8 +146387,8 @@ succumb sciatica excitement endive mercury saturn
 1
 11 2
 2
-0 48 18 2
 0 38 1 2
+0 48 18 2
 1
 end_operator
 begin_operator
@@ -146396,8 +146396,8 @@ succumb sciatica excitement endive saturn earth
 1
 11 2
 2
-0 48 18 2
 0 38 2 0
+0 48 18 2
 1
 end_operator
 begin_operator
@@ -146405,8 +146405,8 @@ succumb sciatica excitement ham earth uranus
 1
 11 3
 2
-0 48 18 3
 0 38 0 3
+0 48 18 3
 1
 end_operator
 begin_operator
@@ -146414,8 +146414,8 @@ succumb sciatica excitement ham mercury saturn
 1
 11 3
 2
-0 48 18 3
 0 38 1 2
+0 48 18 3
 1
 end_operator
 begin_operator
@@ -146423,8 +146423,8 @@ succumb sciatica excitement ham saturn earth
 1
 11 3
 2
-0 48 18 3
 0 38 2 0
+0 48 18 3
 1
 end_operator
 begin_operator
@@ -146432,8 +146432,8 @@ succumb sciatica excitement haroset earth uranus
 1
 11 4
 2
-0 48 18 4
 0 38 0 3
+0 48 18 4
 1
 end_operator
 begin_operator
@@ -146441,8 +146441,8 @@ succumb sciatica excitement haroset mercury saturn
 1
 11 4
 2
-0 48 18 4
 0 38 1 2
+0 48 18 4
 1
 end_operator
 begin_operator
@@ -146450,8 +146450,8 @@ succumb sciatica excitement haroset saturn earth
 1
 11 4
 2
-0 48 18 4
 0 38 2 0
+0 48 18 4
 1
 end_operator
 begin_operator
@@ -146459,8 +146459,8 @@ succumb sciatica excitement marzipan earth uranus
 1
 11 5
 2
-0 48 18 5
 0 38 0 3
+0 48 18 5
 1
 end_operator
 begin_operator
@@ -146468,8 +146468,8 @@ succumb sciatica excitement marzipan mercury saturn
 1
 11 5
 2
-0 48 18 5
 0 38 1 2
+0 48 18 5
 1
 end_operator
 begin_operator
@@ -146477,8 +146477,8 @@ succumb sciatica excitement marzipan saturn earth
 1
 11 5
 2
-0 48 18 5
 0 38 2 0
+0 48 18 5
 1
 end_operator
 begin_operator
@@ -146486,8 +146486,8 @@ succumb sciatica excitement mutton earth uranus
 1
 11 6
 2
-0 48 18 6
 0 38 0 3
+0 48 18 6
 1
 end_operator
 begin_operator
@@ -146495,8 +146495,8 @@ succumb sciatica excitement mutton mercury saturn
 1
 11 6
 2
-0 48 18 6
 0 38 1 2
+0 48 18 6
 1
 end_operator
 begin_operator
@@ -146504,8 +146504,8 @@ succumb sciatica excitement mutton saturn earth
 1
 11 6
 2
-0 48 18 6
 0 38 2 0
+0 48 18 6
 1
 end_operator
 begin_operator
@@ -146513,8 +146513,8 @@ succumb sciatica excitement onion earth uranus
 1
 11 7
 2
-0 48 18 7
 0 38 0 3
+0 48 18 7
 1
 end_operator
 begin_operator
@@ -146522,8 +146522,8 @@ succumb sciatica excitement onion mercury saturn
 1
 11 7
 2
-0 48 18 7
 0 38 1 2
+0 48 18 7
 1
 end_operator
 begin_operator
@@ -146531,8 +146531,8 @@ succumb sciatica excitement onion saturn earth
 1
 11 7
 2
-0 48 18 7
 0 38 2 0
+0 48 18 7
 1
 end_operator
 begin_operator
@@ -146540,8 +146540,8 @@ succumb sciatica excitement papaya earth uranus
 1
 11 8
 2
-0 48 18 8
 0 38 0 3
+0 48 18 8
 1
 end_operator
 begin_operator
@@ -146549,8 +146549,8 @@ succumb sciatica excitement papaya mercury saturn
 1
 11 8
 2
-0 48 18 8
 0 38 1 2
+0 48 18 8
 1
 end_operator
 begin_operator
@@ -146558,8 +146558,8 @@ succumb sciatica excitement papaya saturn earth
 1
 11 8
 2
-0 48 18 8
 0 38 2 0
+0 48 18 8
 1
 end_operator
 begin_operator
@@ -146567,8 +146567,8 @@ succumb sciatica excitement potato earth uranus
 1
 11 9
 2
-0 48 18 9
 0 38 0 3
+0 48 18 9
 1
 end_operator
 begin_operator
@@ -146576,8 +146576,8 @@ succumb sciatica excitement potato mercury saturn
 1
 11 9
 2
-0 48 18 9
 0 38 1 2
+0 48 18 9
 1
 end_operator
 begin_operator
@@ -146585,8 +146585,8 @@ succumb sciatica excitement potato saturn earth
 1
 11 9
 2
-0 48 18 9
 0 38 2 0
+0 48 18 9
 1
 end_operator
 begin_operator
@@ -146594,8 +146594,8 @@ succumb sciatica excitement rice earth uranus
 1
 11 10
 2
-0 48 18 10
 0 38 0 3
+0 48 18 10
 1
 end_operator
 begin_operator
@@ -146603,8 +146603,8 @@ succumb sciatica excitement rice mercury saturn
 1
 11 10
 2
-0 48 18 10
 0 38 1 2
+0 48 18 10
 1
 end_operator
 begin_operator
@@ -146612,8 +146612,8 @@ succumb sciatica excitement rice saturn earth
 1
 11 10
 2
-0 48 18 10
 0 38 2 0
+0 48 18 10
 1
 end_operator
 begin_operator
@@ -146621,8 +146621,8 @@ succumb sciatica excitement shrimp earth uranus
 1
 11 11
 2
-0 48 18 11
 0 38 0 3
+0 48 18 11
 1
 end_operator
 begin_operator
@@ -146630,8 +146630,8 @@ succumb sciatica excitement shrimp mercury saturn
 1
 11 11
 2
-0 48 18 11
 0 38 1 2
+0 48 18 11
 1
 end_operator
 begin_operator
@@ -146639,8 +146639,8 @@ succumb sciatica excitement shrimp saturn earth
 1
 11 11
 2
-0 48 18 11
 0 38 2 0
+0 48 18 11
 1
 end_operator
 begin_operator
@@ -146648,8 +146648,8 @@ succumb sciatica excitement turkey earth uranus
 1
 11 12
 2
-0 48 18 12
 0 38 0 3
+0 48 18 12
 1
 end_operator
 begin_operator
@@ -146657,8 +146657,8 @@ succumb sciatica excitement turkey mercury saturn
 1
 11 12
 2
-0 48 18 12
 0 38 1 2
+0 48 18 12
 1
 end_operator
 begin_operator
@@ -146666,8 +146666,8 @@ succumb sciatica excitement turkey saturn earth
 1
 11 12
 2
-0 48 18 12
 0 38 2 0
+0 48 18 12
 1
 end_operator
 begin_operator
@@ -146675,8 +146675,8 @@ succumb sciatica excitement wonderbread earth uranus
 1
 11 13
 2
-0 48 18 13
 0 38 0 3
+0 48 18 13
 1
 end_operator
 begin_operator
@@ -146684,8 +146684,8 @@ succumb sciatica excitement wonderbread mercury saturn
 1
 11 13
 2
-0 48 18 13
 0 38 1 2
+0 48 18 13
 1
 end_operator
 begin_operator
@@ -146693,8 +146693,8 @@ succumb sciatica excitement wonderbread saturn earth
 1
 11 13
 2
-0 48 18 13
 0 38 2 0
+0 48 18 13
 1
 end_operator
 begin_operator
@@ -146702,8 +146702,8 @@ succumb sciatica excitement wurst earth uranus
 1
 11 14
 2
-0 48 18 14
 0 38 0 3
+0 48 18 14
 1
 end_operator
 begin_operator
@@ -146711,8 +146711,8 @@ succumb sciatica excitement wurst mercury saturn
 1
 11 14
 2
-0 48 18 14
 0 38 1 2
+0 48 18 14
 1
 end_operator
 begin_operator
@@ -146720,8 +146720,8 @@ succumb sciatica excitement wurst saturn earth
 1
 11 14
 2
-0 48 18 14
 0 38 2 0
+0 48 18 14
 1
 end_operator
 begin_operator
@@ -146729,8 +146729,8 @@ succumb sciatica excitement yogurt earth uranus
 1
 11 15
 2
-0 48 18 15
 0 38 0 3
+0 48 18 15
 1
 end_operator
 begin_operator
@@ -146738,8 +146738,8 @@ succumb sciatica excitement yogurt mercury saturn
 1
 11 15
 2
-0 48 18 15
 0 38 1 2
+0 48 18 15
 1
 end_operator
 begin_operator
@@ -146747,8 +146747,8 @@ succumb sciatica excitement yogurt saturn earth
 1
 11 15
 2
-0 48 18 15
 0 38 2 0
+0 48 18 15
 1
 end_operator
 begin_operator
@@ -146756,8 +146756,8 @@ succumb sciatica intoxication arugula earth uranus
 1
 13 0
 2
-0 48 19 0
 0 41 0 3
+0 48 19 0
 1
 end_operator
 begin_operator
@@ -146765,8 +146765,8 @@ succumb sciatica intoxication arugula mercury saturn
 1
 13 0
 2
-0 48 19 0
 0 41 1 2
+0 48 19 0
 1
 end_operator
 begin_operator
@@ -146774,8 +146774,8 @@ succumb sciatica intoxication arugula saturn earth
 1
 13 0
 2
-0 48 19 0
 0 41 2 0
+0 48 19 0
 1
 end_operator
 begin_operator
@@ -146783,8 +146783,8 @@ succumb sciatica intoxication cherry earth uranus
 1
 13 1
 2
-0 48 19 1
 0 41 0 3
+0 48 19 1
 1
 end_operator
 begin_operator
@@ -146792,8 +146792,8 @@ succumb sciatica intoxication cherry mercury saturn
 1
 13 1
 2
-0 48 19 1
 0 41 1 2
+0 48 19 1
 1
 end_operator
 begin_operator
@@ -146801,8 +146801,8 @@ succumb sciatica intoxication cherry saturn earth
 1
 13 1
 2
-0 48 19 1
 0 41 2 0
+0 48 19 1
 1
 end_operator
 begin_operator
@@ -146810,8 +146810,8 @@ succumb sciatica intoxication endive earth uranus
 1
 13 2
 2
-0 48 19 2
 0 41 0 3
+0 48 19 2
 1
 end_operator
 begin_operator
@@ -146819,8 +146819,8 @@ succumb sciatica intoxication endive mercury saturn
 1
 13 2
 2
-0 48 19 2
 0 41 1 2
+0 48 19 2
 1
 end_operator
 begin_operator
@@ -146828,8 +146828,8 @@ succumb sciatica intoxication endive saturn earth
 1
 13 2
 2
-0 48 19 2
 0 41 2 0
+0 48 19 2
 1
 end_operator
 begin_operator
@@ -146837,8 +146837,8 @@ succumb sciatica intoxication ham earth uranus
 1
 13 3
 2
-0 48 19 3
 0 41 0 3
+0 48 19 3
 1
 end_operator
 begin_operator
@@ -146846,8 +146846,8 @@ succumb sciatica intoxication ham mercury saturn
 1
 13 3
 2
-0 48 19 3
 0 41 1 2
+0 48 19 3
 1
 end_operator
 begin_operator
@@ -146855,8 +146855,8 @@ succumb sciatica intoxication ham saturn earth
 1
 13 3
 2
-0 48 19 3
 0 41 2 0
+0 48 19 3
 1
 end_operator
 begin_operator
@@ -146864,8 +146864,8 @@ succumb sciatica intoxication haroset earth uranus
 1
 13 4
 2
-0 48 19 4
 0 41 0 3
+0 48 19 4
 1
 end_operator
 begin_operator
@@ -146873,8 +146873,8 @@ succumb sciatica intoxication haroset mercury saturn
 1
 13 4
 2
-0 48 19 4
 0 41 1 2
+0 48 19 4
 1
 end_operator
 begin_operator
@@ -146882,8 +146882,8 @@ succumb sciatica intoxication haroset saturn earth
 1
 13 4
 2
-0 48 19 4
 0 41 2 0
+0 48 19 4
 1
 end_operator
 begin_operator
@@ -146891,8 +146891,8 @@ succumb sciatica intoxication marzipan earth uranus
 1
 13 5
 2
-0 48 19 5
 0 41 0 3
+0 48 19 5
 1
 end_operator
 begin_operator
@@ -146900,8 +146900,8 @@ succumb sciatica intoxication marzipan mercury saturn
 1
 13 5
 2
-0 48 19 5
 0 41 1 2
+0 48 19 5
 1
 end_operator
 begin_operator
@@ -146909,8 +146909,8 @@ succumb sciatica intoxication marzipan saturn earth
 1
 13 5
 2
-0 48 19 5
 0 41 2 0
+0 48 19 5
 1
 end_operator
 begin_operator
@@ -146918,8 +146918,8 @@ succumb sciatica intoxication mutton earth uranus
 1
 13 6
 2
-0 48 19 6
 0 41 0 3
+0 48 19 6
 1
 end_operator
 begin_operator
@@ -146927,8 +146927,8 @@ succumb sciatica intoxication mutton mercury saturn
 1
 13 6
 2
-0 48 19 6
 0 41 1 2
+0 48 19 6
 1
 end_operator
 begin_operator
@@ -146936,8 +146936,8 @@ succumb sciatica intoxication mutton saturn earth
 1
 13 6
 2
-0 48 19 6
 0 41 2 0
+0 48 19 6
 1
 end_operator
 begin_operator
@@ -146945,8 +146945,8 @@ succumb sciatica intoxication onion earth uranus
 1
 13 7
 2
-0 48 19 7
 0 41 0 3
+0 48 19 7
 1
 end_operator
 begin_operator
@@ -146954,8 +146954,8 @@ succumb sciatica intoxication onion mercury saturn
 1
 13 7
 2
-0 48 19 7
 0 41 1 2
+0 48 19 7
 1
 end_operator
 begin_operator
@@ -146963,8 +146963,8 @@ succumb sciatica intoxication onion saturn earth
 1
 13 7
 2
-0 48 19 7
 0 41 2 0
+0 48 19 7
 1
 end_operator
 begin_operator
@@ -146972,8 +146972,8 @@ succumb sciatica intoxication papaya earth uranus
 1
 13 8
 2
-0 48 19 8
 0 41 0 3
+0 48 19 8
 1
 end_operator
 begin_operator
@@ -146981,8 +146981,8 @@ succumb sciatica intoxication papaya mercury saturn
 1
 13 8
 2
-0 48 19 8
 0 41 1 2
+0 48 19 8
 1
 end_operator
 begin_operator
@@ -146990,8 +146990,8 @@ succumb sciatica intoxication papaya saturn earth
 1
 13 8
 2
-0 48 19 8
 0 41 2 0
+0 48 19 8
 1
 end_operator
 begin_operator
@@ -146999,8 +146999,8 @@ succumb sciatica intoxication potato earth uranus
 1
 13 9
 2
-0 48 19 9
 0 41 0 3
+0 48 19 9
 1
 end_operator
 begin_operator
@@ -147008,8 +147008,8 @@ succumb sciatica intoxication potato mercury saturn
 1
 13 9
 2
-0 48 19 9
 0 41 1 2
+0 48 19 9
 1
 end_operator
 begin_operator
@@ -147017,8 +147017,8 @@ succumb sciatica intoxication potato saturn earth
 1
 13 9
 2
-0 48 19 9
 0 41 2 0
+0 48 19 9
 1
 end_operator
 begin_operator
@@ -147026,8 +147026,8 @@ succumb sciatica intoxication rice earth uranus
 1
 13 10
 2
-0 48 19 10
 0 41 0 3
+0 48 19 10
 1
 end_operator
 begin_operator
@@ -147035,8 +147035,8 @@ succumb sciatica intoxication rice mercury saturn
 1
 13 10
 2
-0 48 19 10
 0 41 1 2
+0 48 19 10
 1
 end_operator
 begin_operator
@@ -147044,8 +147044,8 @@ succumb sciatica intoxication rice saturn earth
 1
 13 10
 2
-0 48 19 10
 0 41 2 0
+0 48 19 10
 1
 end_operator
 begin_operator
@@ -147053,8 +147053,8 @@ succumb sciatica intoxication shrimp earth uranus
 1
 13 11
 2
-0 48 19 11
 0 41 0 3
+0 48 19 11
 1
 end_operator
 begin_operator
@@ -147062,8 +147062,8 @@ succumb sciatica intoxication shrimp mercury saturn
 1
 13 11
 2
-0 48 19 11
 0 41 1 2
+0 48 19 11
 1
 end_operator
 begin_operator
@@ -147071,8 +147071,8 @@ succumb sciatica intoxication shrimp saturn earth
 1
 13 11
 2
-0 48 19 11
 0 41 2 0
+0 48 19 11
 1
 end_operator
 begin_operator
@@ -147080,8 +147080,8 @@ succumb sciatica intoxication turkey earth uranus
 1
 13 12
 2
-0 48 19 12
 0 41 0 3
+0 48 19 12
 1
 end_operator
 begin_operator
@@ -147089,8 +147089,8 @@ succumb sciatica intoxication turkey mercury saturn
 1
 13 12
 2
-0 48 19 12
 0 41 1 2
+0 48 19 12
 1
 end_operator
 begin_operator
@@ -147098,8 +147098,8 @@ succumb sciatica intoxication turkey saturn earth
 1
 13 12
 2
-0 48 19 12
 0 41 2 0
+0 48 19 12
 1
 end_operator
 begin_operator
@@ -147107,8 +147107,8 @@ succumb sciatica intoxication wonderbread earth uranus
 1
 13 13
 2
-0 48 19 13
 0 41 0 3
+0 48 19 13
 1
 end_operator
 begin_operator
@@ -147116,8 +147116,8 @@ succumb sciatica intoxication wonderbread mercury saturn
 1
 13 13
 2
-0 48 19 13
 0 41 1 2
+0 48 19 13
 1
 end_operator
 begin_operator
@@ -147125,8 +147125,8 @@ succumb sciatica intoxication wonderbread saturn earth
 1
 13 13
 2
-0 48 19 13
 0 41 2 0
+0 48 19 13
 1
 end_operator
 begin_operator
@@ -147134,8 +147134,8 @@ succumb sciatica intoxication wurst earth uranus
 1
 13 14
 2
-0 48 19 14
 0 41 0 3
+0 48 19 14
 1
 end_operator
 begin_operator
@@ -147143,8 +147143,8 @@ succumb sciatica intoxication wurst mercury saturn
 1
 13 14
 2
-0 48 19 14
 0 41 1 2
+0 48 19 14
 1
 end_operator
 begin_operator
@@ -147152,8 +147152,8 @@ succumb sciatica intoxication wurst saturn earth
 1
 13 14
 2
-0 48 19 14
 0 41 2 0
+0 48 19 14
 1
 end_operator
 begin_operator
@@ -147161,8 +147161,8 @@ succumb sciatica intoxication yogurt earth uranus
 1
 13 15
 2
-0 48 19 15
 0 41 0 3
+0 48 19 15
 1
 end_operator
 begin_operator
@@ -147170,8 +147170,8 @@ succumb sciatica intoxication yogurt mercury saturn
 1
 13 15
 2
-0 48 19 15
 0 41 1 2
+0 48 19 15
 1
 end_operator
 begin_operator
@@ -147179,8 +147179,8 @@ succumb sciatica intoxication yogurt saturn earth
 1
 13 15
 2
-0 48 19 15
 0 41 2 0
+0 48 19 15
 1
 end_operator
 begin_operator
@@ -147188,8 +147188,8 @@ succumb sciatica love arugula earth uranus
 1
 15 0
 2
-0 48 20 0
 0 42 0 3
+0 48 20 0
 1
 end_operator
 begin_operator
@@ -147197,8 +147197,8 @@ succumb sciatica love arugula mercury saturn
 1
 15 0
 2
-0 48 20 0
 0 42 1 2
+0 48 20 0
 1
 end_operator
 begin_operator
@@ -147206,8 +147206,8 @@ succumb sciatica love arugula saturn earth
 1
 15 0
 2
-0 48 20 0
 0 42 2 0
+0 48 20 0
 1
 end_operator
 begin_operator
@@ -147215,8 +147215,8 @@ succumb sciatica love cherry earth uranus
 1
 15 1
 2
-0 48 20 1
 0 42 0 3
+0 48 20 1
 1
 end_operator
 begin_operator
@@ -147224,8 +147224,8 @@ succumb sciatica love cherry mercury saturn
 1
 15 1
 2
-0 48 20 1
 0 42 1 2
+0 48 20 1
 1
 end_operator
 begin_operator
@@ -147233,8 +147233,8 @@ succumb sciatica love cherry saturn earth
 1
 15 1
 2
-0 48 20 1
 0 42 2 0
+0 48 20 1
 1
 end_operator
 begin_operator
@@ -147242,8 +147242,8 @@ succumb sciatica love endive earth uranus
 1
 15 2
 2
-0 48 20 2
 0 42 0 3
+0 48 20 2
 1
 end_operator
 begin_operator
@@ -147251,8 +147251,8 @@ succumb sciatica love endive mercury saturn
 1
 15 2
 2
-0 48 20 2
 0 42 1 2
+0 48 20 2
 1
 end_operator
 begin_operator
@@ -147260,8 +147260,8 @@ succumb sciatica love endive saturn earth
 1
 15 2
 2
-0 48 20 2
 0 42 2 0
+0 48 20 2
 1
 end_operator
 begin_operator
@@ -147269,8 +147269,8 @@ succumb sciatica love ham earth uranus
 1
 15 3
 2
-0 48 20 3
 0 42 0 3
+0 48 20 3
 1
 end_operator
 begin_operator
@@ -147278,8 +147278,8 @@ succumb sciatica love ham mercury saturn
 1
 15 3
 2
-0 48 20 3
 0 42 1 2
+0 48 20 3
 1
 end_operator
 begin_operator
@@ -147287,8 +147287,8 @@ succumb sciatica love ham saturn earth
 1
 15 3
 2
-0 48 20 3
 0 42 2 0
+0 48 20 3
 1
 end_operator
 begin_operator
@@ -147296,8 +147296,8 @@ succumb sciatica love haroset earth uranus
 1
 15 4
 2
-0 48 20 4
 0 42 0 3
+0 48 20 4
 1
 end_operator
 begin_operator
@@ -147305,8 +147305,8 @@ succumb sciatica love haroset mercury saturn
 1
 15 4
 2
-0 48 20 4
 0 42 1 2
+0 48 20 4
 1
 end_operator
 begin_operator
@@ -147314,8 +147314,8 @@ succumb sciatica love haroset saturn earth
 1
 15 4
 2
-0 48 20 4
 0 42 2 0
+0 48 20 4
 1
 end_operator
 begin_operator
@@ -147323,8 +147323,8 @@ succumb sciatica love marzipan earth uranus
 1
 15 5
 2
-0 48 20 5
 0 42 0 3
+0 48 20 5
 1
 end_operator
 begin_operator
@@ -147332,8 +147332,8 @@ succumb sciatica love marzipan mercury saturn
 1
 15 5
 2
-0 48 20 5
 0 42 1 2
+0 48 20 5
 1
 end_operator
 begin_operator
@@ -147341,8 +147341,8 @@ succumb sciatica love marzipan saturn earth
 1
 15 5
 2
-0 48 20 5
 0 42 2 0
+0 48 20 5
 1
 end_operator
 begin_operator
@@ -147350,8 +147350,8 @@ succumb sciatica love mutton earth uranus
 1
 15 6
 2
-0 48 20 6
 0 42 0 3
+0 48 20 6
 1
 end_operator
 begin_operator
@@ -147359,8 +147359,8 @@ succumb sciatica love mutton mercury saturn
 1
 15 6
 2
-0 48 20 6
 0 42 1 2
+0 48 20 6
 1
 end_operator
 begin_operator
@@ -147368,8 +147368,8 @@ succumb sciatica love mutton saturn earth
 1
 15 6
 2
-0 48 20 6
 0 42 2 0
+0 48 20 6
 1
 end_operator
 begin_operator
@@ -147377,8 +147377,8 @@ succumb sciatica love onion earth uranus
 1
 15 7
 2
-0 48 20 7
 0 42 0 3
+0 48 20 7
 1
 end_operator
 begin_operator
@@ -147386,8 +147386,8 @@ succumb sciatica love onion mercury saturn
 1
 15 7
 2
-0 48 20 7
 0 42 1 2
+0 48 20 7
 1
 end_operator
 begin_operator
@@ -147395,8 +147395,8 @@ succumb sciatica love onion saturn earth
 1
 15 7
 2
-0 48 20 7
 0 42 2 0
+0 48 20 7
 1
 end_operator
 begin_operator
@@ -147404,8 +147404,8 @@ succumb sciatica love papaya earth uranus
 1
 15 8
 2
-0 48 20 8
 0 42 0 3
+0 48 20 8
 1
 end_operator
 begin_operator
@@ -147413,8 +147413,8 @@ succumb sciatica love papaya mercury saturn
 1
 15 8
 2
-0 48 20 8
 0 42 1 2
+0 48 20 8
 1
 end_operator
 begin_operator
@@ -147422,8 +147422,8 @@ succumb sciatica love papaya saturn earth
 1
 15 8
 2
-0 48 20 8
 0 42 2 0
+0 48 20 8
 1
 end_operator
 begin_operator
@@ -147431,8 +147431,8 @@ succumb sciatica love potato earth uranus
 1
 15 9
 2
-0 48 20 9
 0 42 0 3
+0 48 20 9
 1
 end_operator
 begin_operator
@@ -147440,8 +147440,8 @@ succumb sciatica love potato mercury saturn
 1
 15 9
 2
-0 48 20 9
 0 42 1 2
+0 48 20 9
 1
 end_operator
 begin_operator
@@ -147449,8 +147449,8 @@ succumb sciatica love potato saturn earth
 1
 15 9
 2
-0 48 20 9
 0 42 2 0
+0 48 20 9
 1
 end_operator
 begin_operator
@@ -147458,8 +147458,8 @@ succumb sciatica love rice earth uranus
 1
 15 10
 2
-0 48 20 10
 0 42 0 3
+0 48 20 10
 1
 end_operator
 begin_operator
@@ -147467,8 +147467,8 @@ succumb sciatica love rice mercury saturn
 1
 15 10
 2
-0 48 20 10
 0 42 1 2
+0 48 20 10
 1
 end_operator
 begin_operator
@@ -147476,8 +147476,8 @@ succumb sciatica love rice saturn earth
 1
 15 10
 2
-0 48 20 10
 0 42 2 0
+0 48 20 10
 1
 end_operator
 begin_operator
@@ -147485,8 +147485,8 @@ succumb sciatica love shrimp earth uranus
 1
 15 11
 2
-0 48 20 11
 0 42 0 3
+0 48 20 11
 1
 end_operator
 begin_operator
@@ -147494,8 +147494,8 @@ succumb sciatica love shrimp mercury saturn
 1
 15 11
 2
-0 48 20 11
 0 42 1 2
+0 48 20 11
 1
 end_operator
 begin_operator
@@ -147503,8 +147503,8 @@ succumb sciatica love shrimp saturn earth
 1
 15 11
 2
-0 48 20 11
 0 42 2 0
+0 48 20 11
 1
 end_operator
 begin_operator
@@ -147512,8 +147512,8 @@ succumb sciatica love turkey earth uranus
 1
 15 12
 2
-0 48 20 12
 0 42 0 3
+0 48 20 12
 1
 end_operator
 begin_operator
@@ -147521,8 +147521,8 @@ succumb sciatica love turkey mercury saturn
 1
 15 12
 2
-0 48 20 12
 0 42 1 2
+0 48 20 12
 1
 end_operator
 begin_operator
@@ -147530,8 +147530,8 @@ succumb sciatica love turkey saturn earth
 1
 15 12
 2
-0 48 20 12
 0 42 2 0
+0 48 20 12
 1
 end_operator
 begin_operator
@@ -147539,8 +147539,8 @@ succumb sciatica love wonderbread earth uranus
 1
 15 13
 2
-0 48 20 13
 0 42 0 3
+0 48 20 13
 1
 end_operator
 begin_operator
@@ -147548,8 +147548,8 @@ succumb sciatica love wonderbread mercury saturn
 1
 15 13
 2
-0 48 20 13
 0 42 1 2
+0 48 20 13
 1
 end_operator
 begin_operator
@@ -147557,8 +147557,8 @@ succumb sciatica love wonderbread saturn earth
 1
 15 13
 2
-0 48 20 13
 0 42 2 0
+0 48 20 13
 1
 end_operator
 begin_operator
@@ -147566,8 +147566,8 @@ succumb sciatica love wurst earth uranus
 1
 15 14
 2
-0 48 20 14
 0 42 0 3
+0 48 20 14
 1
 end_operator
 begin_operator
@@ -147575,8 +147575,8 @@ succumb sciatica love wurst mercury saturn
 1
 15 14
 2
-0 48 20 14
 0 42 1 2
+0 48 20 14
 1
 end_operator
 begin_operator
@@ -147584,8 +147584,8 @@ succumb sciatica love wurst saturn earth
 1
 15 14
 2
-0 48 20 14
 0 42 2 0
+0 48 20 14
 1
 end_operator
 begin_operator
@@ -147593,8 +147593,8 @@ succumb sciatica love yogurt earth uranus
 1
 15 15
 2
-0 48 20 15
 0 42 0 3
+0 48 20 15
 1
 end_operator
 begin_operator
@@ -147602,8 +147602,8 @@ succumb sciatica love yogurt mercury saturn
 1
 15 15
 2
-0 48 20 15
 0 42 1 2
+0 48 20 15
 1
 end_operator
 begin_operator
@@ -147611,8 +147611,8 @@ succumb sciatica love yogurt saturn earth
 1
 15 15
 2
-0 48 20 15
 0 42 2 0
+0 48 20 15
 1
 end_operator
 begin_operator
@@ -147620,8 +147620,8 @@ succumb sciatica lubricity arugula earth uranus
 1
 17 0
 2
-0 48 21 0
 0 45 0 3
+0 48 21 0
 1
 end_operator
 begin_operator
@@ -147629,8 +147629,8 @@ succumb sciatica lubricity arugula mercury saturn
 1
 17 0
 2
-0 48 21 0
 0 45 1 2
+0 48 21 0
 1
 end_operator
 begin_operator
@@ -147638,8 +147638,8 @@ succumb sciatica lubricity arugula saturn earth
 1
 17 0
 2
-0 48 21 0
 0 45 2 0
+0 48 21 0
 1
 end_operator
 begin_operator
@@ -147647,8 +147647,8 @@ succumb sciatica lubricity cherry earth uranus
 1
 17 1
 2
-0 48 21 1
 0 45 0 3
+0 48 21 1
 1
 end_operator
 begin_operator
@@ -147656,8 +147656,8 @@ succumb sciatica lubricity cherry mercury saturn
 1
 17 1
 2
-0 48 21 1
 0 45 1 2
+0 48 21 1
 1
 end_operator
 begin_operator
@@ -147665,8 +147665,8 @@ succumb sciatica lubricity cherry saturn earth
 1
 17 1
 2
-0 48 21 1
 0 45 2 0
+0 48 21 1
 1
 end_operator
 begin_operator
@@ -147674,8 +147674,8 @@ succumb sciatica lubricity endive earth uranus
 1
 17 2
 2
-0 48 21 2
 0 45 0 3
+0 48 21 2
 1
 end_operator
 begin_operator
@@ -147683,8 +147683,8 @@ succumb sciatica lubricity endive mercury saturn
 1
 17 2
 2
-0 48 21 2
 0 45 1 2
+0 48 21 2
 1
 end_operator
 begin_operator
@@ -147692,8 +147692,8 @@ succumb sciatica lubricity endive saturn earth
 1
 17 2
 2
-0 48 21 2
 0 45 2 0
+0 48 21 2
 1
 end_operator
 begin_operator
@@ -147701,8 +147701,8 @@ succumb sciatica lubricity ham earth uranus
 1
 17 3
 2
-0 48 21 3
 0 45 0 3
+0 48 21 3
 1
 end_operator
 begin_operator
@@ -147710,8 +147710,8 @@ succumb sciatica lubricity ham mercury saturn
 1
 17 3
 2
-0 48 21 3
 0 45 1 2
+0 48 21 3
 1
 end_operator
 begin_operator
@@ -147719,8 +147719,8 @@ succumb sciatica lubricity ham saturn earth
 1
 17 3
 2
-0 48 21 3
 0 45 2 0
+0 48 21 3
 1
 end_operator
 begin_operator
@@ -147728,8 +147728,8 @@ succumb sciatica lubricity haroset earth uranus
 1
 17 4
 2
-0 48 21 4
 0 45 0 3
+0 48 21 4
 1
 end_operator
 begin_operator
@@ -147737,8 +147737,8 @@ succumb sciatica lubricity haroset mercury saturn
 1
 17 4
 2
-0 48 21 4
 0 45 1 2
+0 48 21 4
 1
 end_operator
 begin_operator
@@ -147746,8 +147746,8 @@ succumb sciatica lubricity haroset saturn earth
 1
 17 4
 2
-0 48 21 4
 0 45 2 0
+0 48 21 4
 1
 end_operator
 begin_operator
@@ -147755,8 +147755,8 @@ succumb sciatica lubricity marzipan earth uranus
 1
 17 5
 2
-0 48 21 5
 0 45 0 3
+0 48 21 5
 1
 end_operator
 begin_operator
@@ -147764,8 +147764,8 @@ succumb sciatica lubricity marzipan mercury saturn
 1
 17 5
 2
-0 48 21 5
 0 45 1 2
+0 48 21 5
 1
 end_operator
 begin_operator
@@ -147773,8 +147773,8 @@ succumb sciatica lubricity marzipan saturn earth
 1
 17 5
 2
-0 48 21 5
 0 45 2 0
+0 48 21 5
 1
 end_operator
 begin_operator
@@ -147782,8 +147782,8 @@ succumb sciatica lubricity mutton earth uranus
 1
 17 6
 2
-0 48 21 6
 0 45 0 3
+0 48 21 6
 1
 end_operator
 begin_operator
@@ -147791,8 +147791,8 @@ succumb sciatica lubricity mutton mercury saturn
 1
 17 6
 2
-0 48 21 6
 0 45 1 2
+0 48 21 6
 1
 end_operator
 begin_operator
@@ -147800,8 +147800,8 @@ succumb sciatica lubricity mutton saturn earth
 1
 17 6
 2
-0 48 21 6
 0 45 2 0
+0 48 21 6
 1
 end_operator
 begin_operator
@@ -147809,8 +147809,8 @@ succumb sciatica lubricity onion earth uranus
 1
 17 7
 2
-0 48 21 7
 0 45 0 3
+0 48 21 7
 1
 end_operator
 begin_operator
@@ -147818,8 +147818,8 @@ succumb sciatica lubricity onion mercury saturn
 1
 17 7
 2
-0 48 21 7
 0 45 1 2
+0 48 21 7
 1
 end_operator
 begin_operator
@@ -147827,8 +147827,8 @@ succumb sciatica lubricity onion saturn earth
 1
 17 7
 2
-0 48 21 7
 0 45 2 0
+0 48 21 7
 1
 end_operator
 begin_operator
@@ -147836,8 +147836,8 @@ succumb sciatica lubricity papaya earth uranus
 1
 17 8
 2
-0 48 21 8
 0 45 0 3
+0 48 21 8
 1
 end_operator
 begin_operator
@@ -147845,8 +147845,8 @@ succumb sciatica lubricity papaya mercury saturn
 1
 17 8
 2
-0 48 21 8
 0 45 1 2
+0 48 21 8
 1
 end_operator
 begin_operator
@@ -147854,8 +147854,8 @@ succumb sciatica lubricity papaya saturn earth
 1
 17 8
 2
-0 48 21 8
 0 45 2 0
+0 48 21 8
 1
 end_operator
 begin_operator
@@ -147863,8 +147863,8 @@ succumb sciatica lubricity potato earth uranus
 1
 17 9
 2
-0 48 21 9
 0 45 0 3
+0 48 21 9
 1
 end_operator
 begin_operator
@@ -147872,8 +147872,8 @@ succumb sciatica lubricity potato mercury saturn
 1
 17 9
 2
-0 48 21 9
 0 45 1 2
+0 48 21 9
 1
 end_operator
 begin_operator
@@ -147881,8 +147881,8 @@ succumb sciatica lubricity potato saturn earth
 1
 17 9
 2
-0 48 21 9
 0 45 2 0
+0 48 21 9
 1
 end_operator
 begin_operator
@@ -147890,8 +147890,8 @@ succumb sciatica lubricity rice earth uranus
 1
 17 10
 2
-0 48 21 10
 0 45 0 3
+0 48 21 10
 1
 end_operator
 begin_operator
@@ -147899,8 +147899,8 @@ succumb sciatica lubricity rice mercury saturn
 1
 17 10
 2
-0 48 21 10
 0 45 1 2
+0 48 21 10
 1
 end_operator
 begin_operator
@@ -147908,8 +147908,8 @@ succumb sciatica lubricity rice saturn earth
 1
 17 10
 2
-0 48 21 10
 0 45 2 0
+0 48 21 10
 1
 end_operator
 begin_operator
@@ -147917,8 +147917,8 @@ succumb sciatica lubricity shrimp earth uranus
 1
 17 11
 2
-0 48 21 11
 0 45 0 3
+0 48 21 11
 1
 end_operator
 begin_operator
@@ -147926,8 +147926,8 @@ succumb sciatica lubricity shrimp mercury saturn
 1
 17 11
 2
-0 48 21 11
 0 45 1 2
+0 48 21 11
 1
 end_operator
 begin_operator
@@ -147935,8 +147935,8 @@ succumb sciatica lubricity shrimp saturn earth
 1
 17 11
 2
-0 48 21 11
 0 45 2 0
+0 48 21 11
 1
 end_operator
 begin_operator
@@ -147944,8 +147944,8 @@ succumb sciatica lubricity turkey earth uranus
 1
 17 12
 2
-0 48 21 12
 0 45 0 3
+0 48 21 12
 1
 end_operator
 begin_operator
@@ -147953,8 +147953,8 @@ succumb sciatica lubricity turkey mercury saturn
 1
 17 12
 2
-0 48 21 12
 0 45 1 2
+0 48 21 12
 1
 end_operator
 begin_operator
@@ -147962,8 +147962,8 @@ succumb sciatica lubricity turkey saturn earth
 1
 17 12
 2
-0 48 21 12
 0 45 2 0
+0 48 21 12
 1
 end_operator
 begin_operator
@@ -147971,8 +147971,8 @@ succumb sciatica lubricity wonderbread earth uranus
 1
 17 13
 2
-0 48 21 13
 0 45 0 3
+0 48 21 13
 1
 end_operator
 begin_operator
@@ -147980,8 +147980,8 @@ succumb sciatica lubricity wonderbread mercury saturn
 1
 17 13
 2
-0 48 21 13
 0 45 1 2
+0 48 21 13
 1
 end_operator
 begin_operator
@@ -147989,8 +147989,8 @@ succumb sciatica lubricity wonderbread saturn earth
 1
 17 13
 2
-0 48 21 13
 0 45 2 0
+0 48 21 13
 1
 end_operator
 begin_operator
@@ -147998,8 +147998,8 @@ succumb sciatica lubricity wurst earth uranus
 1
 17 14
 2
-0 48 21 14
 0 45 0 3
+0 48 21 14
 1
 end_operator
 begin_operator
@@ -148007,8 +148007,8 @@ succumb sciatica lubricity wurst mercury saturn
 1
 17 14
 2
-0 48 21 14
 0 45 1 2
+0 48 21 14
 1
 end_operator
 begin_operator
@@ -148016,8 +148016,8 @@ succumb sciatica lubricity wurst saturn earth
 1
 17 14
 2
-0 48 21 14
 0 45 2 0
+0 48 21 14
 1
 end_operator
 begin_operator
@@ -148025,8 +148025,8 @@ succumb sciatica lubricity yogurt earth uranus
 1
 17 15
 2
-0 48 21 15
 0 45 0 3
+0 48 21 15
 1
 end_operator
 begin_operator
@@ -148034,8 +148034,8 @@ succumb sciatica lubricity yogurt mercury saturn
 1
 17 15
 2
-0 48 21 15
 0 45 1 2
+0 48 21 15
 1
 end_operator
 begin_operator
@@ -148043,8 +148043,8 @@ succumb sciatica lubricity yogurt saturn earth
 1
 17 15
 2
-0 48 21 15
 0 45 2 0
+0 48 21 15
 1
 end_operator
 begin_operator
@@ -148052,8 +148052,8 @@ succumb sciatica rest arugula earth uranus
 1
 19 0
 2
-0 48 22 0
 0 46 0 3
+0 48 22 0
 1
 end_operator
 begin_operator
@@ -148061,8 +148061,8 @@ succumb sciatica rest arugula mercury saturn
 1
 19 0
 2
-0 48 22 0
 0 46 1 2
+0 48 22 0
 1
 end_operator
 begin_operator
@@ -148070,8 +148070,8 @@ succumb sciatica rest arugula saturn earth
 1
 19 0
 2
-0 48 22 0
 0 46 2 0
+0 48 22 0
 1
 end_operator
 begin_operator
@@ -148079,8 +148079,8 @@ succumb sciatica rest cherry earth uranus
 1
 19 1
 2
-0 48 22 1
 0 46 0 3
+0 48 22 1
 1
 end_operator
 begin_operator
@@ -148088,8 +148088,8 @@ succumb sciatica rest cherry mercury saturn
 1
 19 1
 2
-0 48 22 1
 0 46 1 2
+0 48 22 1
 1
 end_operator
 begin_operator
@@ -148097,8 +148097,8 @@ succumb sciatica rest cherry saturn earth
 1
 19 1
 2
-0 48 22 1
 0 46 2 0
+0 48 22 1
 1
 end_operator
 begin_operator
@@ -148106,8 +148106,8 @@ succumb sciatica rest endive earth uranus
 1
 19 2
 2
-0 48 22 2
 0 46 0 3
+0 48 22 2
 1
 end_operator
 begin_operator
@@ -148115,8 +148115,8 @@ succumb sciatica rest endive mercury saturn
 1
 19 2
 2
-0 48 22 2
 0 46 1 2
+0 48 22 2
 1
 end_operator
 begin_operator
@@ -148124,8 +148124,8 @@ succumb sciatica rest endive saturn earth
 1
 19 2
 2
-0 48 22 2
 0 46 2 0
+0 48 22 2
 1
 end_operator
 begin_operator
@@ -148133,8 +148133,8 @@ succumb sciatica rest ham earth uranus
 1
 19 3
 2
-0 48 22 3
 0 46 0 3
+0 48 22 3
 1
 end_operator
 begin_operator
@@ -148142,8 +148142,8 @@ succumb sciatica rest ham mercury saturn
 1
 19 3
 2
-0 48 22 3
 0 46 1 2
+0 48 22 3
 1
 end_operator
 begin_operator
@@ -148151,8 +148151,8 @@ succumb sciatica rest ham saturn earth
 1
 19 3
 2
-0 48 22 3
 0 46 2 0
+0 48 22 3
 1
 end_operator
 begin_operator
@@ -148160,8 +148160,8 @@ succumb sciatica rest haroset earth uranus
 1
 19 4
 2
-0 48 22 4
 0 46 0 3
+0 48 22 4
 1
 end_operator
 begin_operator
@@ -148169,8 +148169,8 @@ succumb sciatica rest haroset mercury saturn
 1
 19 4
 2
-0 48 22 4
 0 46 1 2
+0 48 22 4
 1
 end_operator
 begin_operator
@@ -148178,8 +148178,8 @@ succumb sciatica rest haroset saturn earth
 1
 19 4
 2
-0 48 22 4
 0 46 2 0
+0 48 22 4
 1
 end_operator
 begin_operator
@@ -148187,8 +148187,8 @@ succumb sciatica rest marzipan earth uranus
 1
 19 5
 2
-0 48 22 5
 0 46 0 3
+0 48 22 5
 1
 end_operator
 begin_operator
@@ -148196,8 +148196,8 @@ succumb sciatica rest marzipan mercury saturn
 1
 19 5
 2
-0 48 22 5
 0 46 1 2
+0 48 22 5
 1
 end_operator
 begin_operator
@@ -148205,8 +148205,8 @@ succumb sciatica rest marzipan saturn earth
 1
 19 5
 2
-0 48 22 5
 0 46 2 0
+0 48 22 5
 1
 end_operator
 begin_operator
@@ -148214,8 +148214,8 @@ succumb sciatica rest mutton earth uranus
 1
 19 6
 2
-0 48 22 6
 0 46 0 3
+0 48 22 6
 1
 end_operator
 begin_operator
@@ -148223,8 +148223,8 @@ succumb sciatica rest mutton mercury saturn
 1
 19 6
 2
-0 48 22 6
 0 46 1 2
+0 48 22 6
 1
 end_operator
 begin_operator
@@ -148232,8 +148232,8 @@ succumb sciatica rest mutton saturn earth
 1
 19 6
 2
-0 48 22 6
 0 46 2 0
+0 48 22 6
 1
 end_operator
 begin_operator
@@ -148241,8 +148241,8 @@ succumb sciatica rest onion earth uranus
 1
 19 7
 2
-0 48 22 7
 0 46 0 3
+0 48 22 7
 1
 end_operator
 begin_operator
@@ -148250,8 +148250,8 @@ succumb sciatica rest onion mercury saturn
 1
 19 7
 2
-0 48 22 7
 0 46 1 2
+0 48 22 7
 1
 end_operator
 begin_operator
@@ -148259,8 +148259,8 @@ succumb sciatica rest onion saturn earth
 1
 19 7
 2
-0 48 22 7
 0 46 2 0
+0 48 22 7
 1
 end_operator
 begin_operator
@@ -148268,8 +148268,8 @@ succumb sciatica rest papaya earth uranus
 1
 19 8
 2
-0 48 22 8
 0 46 0 3
+0 48 22 8
 1
 end_operator
 begin_operator
@@ -148277,8 +148277,8 @@ succumb sciatica rest papaya mercury saturn
 1
 19 8
 2
-0 48 22 8
 0 46 1 2
+0 48 22 8
 1
 end_operator
 begin_operator
@@ -148286,8 +148286,8 @@ succumb sciatica rest papaya saturn earth
 1
 19 8
 2
-0 48 22 8
 0 46 2 0
+0 48 22 8
 1
 end_operator
 begin_operator
@@ -148295,8 +148295,8 @@ succumb sciatica rest potato earth uranus
 1
 19 9
 2
-0 48 22 9
 0 46 0 3
+0 48 22 9
 1
 end_operator
 begin_operator
@@ -148304,8 +148304,8 @@ succumb sciatica rest potato mercury saturn
 1
 19 9
 2
-0 48 22 9
 0 46 1 2
+0 48 22 9
 1
 end_operator
 begin_operator
@@ -148313,8 +148313,8 @@ succumb sciatica rest potato saturn earth
 1
 19 9
 2
-0 48 22 9
 0 46 2 0
+0 48 22 9
 1
 end_operator
 begin_operator
@@ -148322,8 +148322,8 @@ succumb sciatica rest rice earth uranus
 1
 19 10
 2
-0 48 22 10
 0 46 0 3
+0 48 22 10
 1
 end_operator
 begin_operator
@@ -148331,8 +148331,8 @@ succumb sciatica rest rice mercury saturn
 1
 19 10
 2
-0 48 22 10
 0 46 1 2
+0 48 22 10
 1
 end_operator
 begin_operator
@@ -148340,8 +148340,8 @@ succumb sciatica rest rice saturn earth
 1
 19 10
 2
-0 48 22 10
 0 46 2 0
+0 48 22 10
 1
 end_operator
 begin_operator
@@ -148349,8 +148349,8 @@ succumb sciatica rest shrimp earth uranus
 1
 19 11
 2
-0 48 22 11
 0 46 0 3
+0 48 22 11
 1
 end_operator
 begin_operator
@@ -148358,8 +148358,8 @@ succumb sciatica rest shrimp mercury saturn
 1
 19 11
 2
-0 48 22 11
 0 46 1 2
+0 48 22 11
 1
 end_operator
 begin_operator
@@ -148367,8 +148367,8 @@ succumb sciatica rest shrimp saturn earth
 1
 19 11
 2
-0 48 22 11
 0 46 2 0
+0 48 22 11
 1
 end_operator
 begin_operator
@@ -148376,8 +148376,8 @@ succumb sciatica rest turkey earth uranus
 1
 19 12
 2
-0 48 22 12
 0 46 0 3
+0 48 22 12
 1
 end_operator
 begin_operator
@@ -148385,8 +148385,8 @@ succumb sciatica rest turkey mercury saturn
 1
 19 12
 2
-0 48 22 12
 0 46 1 2
+0 48 22 12
 1
 end_operator
 begin_operator
@@ -148394,8 +148394,8 @@ succumb sciatica rest turkey saturn earth
 1
 19 12
 2
-0 48 22 12
 0 46 2 0
+0 48 22 12
 1
 end_operator
 begin_operator
@@ -148403,8 +148403,8 @@ succumb sciatica rest wonderbread earth uranus
 1
 19 13
 2
-0 48 22 13
 0 46 0 3
+0 48 22 13
 1
 end_operator
 begin_operator
@@ -148412,8 +148412,8 @@ succumb sciatica rest wonderbread mercury saturn
 1
 19 13
 2
-0 48 22 13
 0 46 1 2
+0 48 22 13
 1
 end_operator
 begin_operator
@@ -148421,8 +148421,8 @@ succumb sciatica rest wonderbread saturn earth
 1
 19 13
 2
-0 48 22 13
 0 46 2 0
+0 48 22 13
 1
 end_operator
 begin_operator
@@ -148430,8 +148430,8 @@ succumb sciatica rest wurst earth uranus
 1
 19 14
 2
-0 48 22 14
 0 46 0 3
+0 48 22 14
 1
 end_operator
 begin_operator
@@ -148439,8 +148439,8 @@ succumb sciatica rest wurst mercury saturn
 1
 19 14
 2
-0 48 22 14
 0 46 1 2
+0 48 22 14
 1
 end_operator
 begin_operator
@@ -148448,8 +148448,8 @@ succumb sciatica rest wurst saturn earth
 1
 19 14
 2
-0 48 22 14
 0 46 2 0
+0 48 22 14
 1
 end_operator
 begin_operator
@@ -148457,8 +148457,8 @@ succumb sciatica rest yogurt earth uranus
 1
 19 15
 2
-0 48 22 15
 0 46 0 3
+0 48 22 15
 1
 end_operator
 begin_operator
@@ -148466,8 +148466,8 @@ succumb sciatica rest yogurt mercury saturn
 1
 19 15
 2
-0 48 22 15
 0 46 1 2
+0 48 22 15
 1
 end_operator
 begin_operator
@@ -148475,8 +148475,8 @@ succumb sciatica rest yogurt saturn earth
 1
 19 15
 2
-0 48 22 15
 0 46 2 0
+0 48 22 15
 1
 end_operator
 begin_operator

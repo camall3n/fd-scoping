@@ -105,55 +105,55 @@ end_variable
 6
 begin_mutex_group
 6
+0 1
 2 0
 7 0
 8 1
-0 1
 9 1
 10 1
 end_mutex_group
 begin_mutex_group
 6
+0 2
 3 0
 7 1
 8 0
-0 2
 9 2
 10 2
 end_mutex_group
 begin_mutex_group
 6
+0 0
 1 0
 7 2
 8 2
-0 0
 9 3
 10 3
 end_mutex_group
 begin_mutex_group
 6
+0 3
 4 0
 7 3
 8 3
-0 3
 9 0
 10 4
 end_mutex_group
 begin_mutex_group
 6
+0 4
 5 0
 7 4
 8 4
-0 4
 9 4
 10 0
 end_mutex_group
 begin_mutex_group
 6
+0 0
 6 0
 7 0
 8 0
-0 0
 9 0
 10 0
 end_mutex_group
@@ -200,9 +200,9 @@ begin_operator
 pick-up c
 0
 3
+0 0 5 0
 0 1 0 1
 0 6 0 1
-0 0 5 0
 1
 end_operator
 begin_operator
@@ -245,9 +245,9 @@ begin_operator
 put-down c
 0
 3
+0 0 0 5
 0 1 -1 0
 0 6 -1 0
-0 0 0 5
 1
 end_operator
 begin_operator
@@ -282,8 +282,8 @@ begin_operator
 stack a c
 0
 4
-0 2 -1 0
 0 1 0 1
+0 2 -1 0
 0 6 -1 0
 0 7 0 2
 1
@@ -322,8 +322,8 @@ begin_operator
 stack b c
 0
 4
-0 3 -1 0
 0 1 0 1
+0 3 -1 0
 0 6 -1 0
 0 8 0 2
 1
@@ -352,40 +352,40 @@ begin_operator
 stack c a
 0
 4
-0 2 0 1
-0 1 -1 0
-0 6 -1 0
 0 0 0 1
+0 1 -1 0
+0 2 0 1
+0 6 -1 0
 1
 end_operator
 begin_operator
 stack c b
 0
 4
-0 3 0 1
-0 1 -1 0
-0 6 -1 0
 0 0 0 2
+0 1 -1 0
+0 3 0 1
+0 6 -1 0
 1
 end_operator
 begin_operator
 stack c d
 0
 4
+0 0 0 3
 0 1 -1 0
 0 4 0 1
 0 6 -1 0
-0 0 0 3
 1
 end_operator
 begin_operator
 stack c e
 0
 4
+0 0 0 4
 0 1 -1 0
 0 5 0 1
 0 6 -1 0
-0 0 0 4
 1
 end_operator
 begin_operator
@@ -482,8 +482,8 @@ begin_operator
 unstack a c
 0
 4
-0 2 0 1
 0 1 -1 0
+0 2 0 1
 0 6 0 1
 0 7 2 0
 1
@@ -522,8 +522,8 @@ begin_operator
 unstack b c
 0
 4
-0 3 0 1
 0 1 -1 0
+0 3 0 1
 0 6 0 1
 0 8 2 0
 1
@@ -552,40 +552,40 @@ begin_operator
 unstack c a
 0
 4
-0 2 -1 0
-0 1 0 1
-0 6 0 1
 0 0 1 0
+0 1 0 1
+0 2 -1 0
+0 6 0 1
 1
 end_operator
 begin_operator
 unstack c b
 0
 4
-0 3 -1 0
-0 1 0 1
-0 6 0 1
 0 0 2 0
+0 1 0 1
+0 3 -1 0
+0 6 0 1
 1
 end_operator
 begin_operator
 unstack c d
 0
 4
+0 0 3 0
 0 1 0 1
 0 4 -1 0
 0 6 0 1
-0 0 3 0
 1
 end_operator
 begin_operator
 unstack c e
 0
 4
+0 0 4 0
 0 1 0 1
 0 5 -1 0
 0 6 0 1
-0 0 4 0
 1
 end_operator
 begin_operator

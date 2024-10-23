@@ -24876,8 +24876,8 @@ overcome abrasion achievement arugula mercury neptune
 1
 0 0
 2
-0 32 0 11
 0 21 2 1
+0 32 0 11
 1
 end_operator
 begin_operator
@@ -24885,8 +24885,8 @@ overcome abrasion achievement arugula neptune vulcan
 1
 0 0
 2
-0 32 0 11
 0 21 3 2
+0 32 0 11
 1
 end_operator
 begin_operator
@@ -24894,8 +24894,8 @@ overcome abrasion achievement arugula vulcan earth
 1
 0 0
 2
-0 32 0 11
 0 21 0 3
+0 32 0 11
 1
 end_operator
 begin_operator
@@ -24903,8 +24903,8 @@ overcome abrasion achievement bacon mercury neptune
 1
 0 1
 2
-0 32 1 11
 0 21 2 1
+0 32 1 11
 1
 end_operator
 begin_operator
@@ -24912,8 +24912,8 @@ overcome abrasion achievement bacon neptune vulcan
 1
 0 1
 2
-0 32 1 11
 0 21 3 2
+0 32 1 11
 1
 end_operator
 begin_operator
@@ -24921,8 +24921,8 @@ overcome abrasion achievement bacon vulcan earth
 1
 0 1
 2
-0 32 1 11
 0 21 0 3
+0 32 1 11
 1
 end_operator
 begin_operator
@@ -24930,8 +24930,8 @@ overcome abrasion achievement baguette mercury neptune
 1
 0 2
 2
-0 32 2 11
 0 21 2 1
+0 32 2 11
 1
 end_operator
 begin_operator
@@ -24939,8 +24939,8 @@ overcome abrasion achievement baguette neptune vulcan
 1
 0 2
 2
-0 32 2 11
 0 21 3 2
+0 32 2 11
 1
 end_operator
 begin_operator
@@ -24948,8 +24948,8 @@ overcome abrasion achievement baguette vulcan earth
 1
 0 2
 2
-0 32 2 11
 0 21 0 3
+0 32 2 11
 1
 end_operator
 begin_operator
@@ -24957,8 +24957,8 @@ overcome abrasion achievement chicken mercury neptune
 1
 0 3
 2
-0 32 3 11
 0 21 2 1
+0 32 3 11
 1
 end_operator
 begin_operator
@@ -24966,8 +24966,8 @@ overcome abrasion achievement chicken neptune vulcan
 1
 0 3
 2
-0 32 3 11
 0 21 3 2
+0 32 3 11
 1
 end_operator
 begin_operator
@@ -24975,8 +24975,8 @@ overcome abrasion achievement chicken vulcan earth
 1
 0 3
 2
-0 32 3 11
 0 21 0 3
+0 32 3 11
 1
 end_operator
 begin_operator
@@ -24984,8 +24984,8 @@ overcome abrasion achievement chocolate mercury neptune
 1
 0 4
 2
-0 32 4 11
 0 21 2 1
+0 32 4 11
 1
 end_operator
 begin_operator
@@ -24993,8 +24993,8 @@ overcome abrasion achievement chocolate neptune vulcan
 1
 0 4
 2
-0 32 4 11
 0 21 3 2
+0 32 4 11
 1
 end_operator
 begin_operator
@@ -25002,8 +25002,8 @@ overcome abrasion achievement chocolate vulcan earth
 1
 0 4
 2
-0 32 4 11
 0 21 0 3
+0 32 4 11
 1
 end_operator
 begin_operator
@@ -25011,8 +25011,8 @@ overcome abrasion achievement flounder mercury neptune
 1
 0 5
 2
-0 32 5 11
 0 21 2 1
+0 32 5 11
 1
 end_operator
 begin_operator
@@ -25020,8 +25020,8 @@ overcome abrasion achievement flounder neptune vulcan
 1
 0 5
 2
-0 32 5 11
 0 21 3 2
+0 32 5 11
 1
 end_operator
 begin_operator
@@ -25029,8 +25029,8 @@ overcome abrasion achievement flounder vulcan earth
 1
 0 5
 2
-0 32 5 11
 0 21 0 3
+0 32 5 11
 1
 end_operator
 begin_operator
@@ -25038,8 +25038,8 @@ overcome abrasion achievement guava mercury neptune
 1
 0 6
 2
-0 32 6 11
 0 21 2 1
+0 32 6 11
 1
 end_operator
 begin_operator
@@ -25047,8 +25047,8 @@ overcome abrasion achievement guava neptune vulcan
 1
 0 6
 2
-0 32 6 11
 0 21 3 2
+0 32 6 11
 1
 end_operator
 begin_operator
@@ -25056,8 +25056,8 @@ overcome abrasion achievement guava vulcan earth
 1
 0 6
 2
-0 32 6 11
 0 21 0 3
+0 32 6 11
 1
 end_operator
 begin_operator
@@ -25065,8 +25065,8 @@ overcome abrasion achievement marzipan mercury neptune
 1
 0 7
 2
-0 32 7 11
 0 21 2 1
+0 32 7 11
 1
 end_operator
 begin_operator
@@ -25074,8 +25074,8 @@ overcome abrasion achievement marzipan neptune vulcan
 1
 0 7
 2
-0 32 7 11
 0 21 3 2
+0 32 7 11
 1
 end_operator
 begin_operator
@@ -25083,8 +25083,8 @@ overcome abrasion achievement marzipan vulcan earth
 1
 0 7
 2
-0 32 7 11
 0 21 0 3
+0 32 7 11
 1
 end_operator
 begin_operator
@@ -25092,8 +25092,8 @@ overcome abrasion achievement pepper mercury neptune
 1
 0 8
 2
-0 32 8 11
 0 21 2 1
+0 32 8 11
 1
 end_operator
 begin_operator
@@ -25101,8 +25101,8 @@ overcome abrasion achievement pepper neptune vulcan
 1
 0 8
 2
-0 32 8 11
 0 21 3 2
+0 32 8 11
 1
 end_operator
 begin_operator
@@ -25110,8 +25110,8 @@ overcome abrasion achievement pepper vulcan earth
 1
 0 8
 2
-0 32 8 11
 0 21 0 3
+0 32 8 11
 1
 end_operator
 begin_operator
@@ -25119,8 +25119,8 @@ overcome abrasion achievement rice mercury neptune
 1
 0 9
 2
-0 32 9 11
 0 21 2 1
+0 32 9 11
 1
 end_operator
 begin_operator
@@ -25128,8 +25128,8 @@ overcome abrasion achievement rice neptune vulcan
 1
 0 9
 2
-0 32 9 11
 0 21 3 2
+0 32 9 11
 1
 end_operator
 begin_operator
@@ -25137,8 +25137,8 @@ overcome abrasion achievement rice vulcan earth
 1
 0 9
 2
-0 32 9 11
 0 21 0 3
+0 32 9 11
 1
 end_operator
 begin_operator
@@ -25146,8 +25146,8 @@ overcome abrasion achievement wonderbread mercury neptune
 1
 0 10
 2
-0 32 10 11
 0 21 2 1
+0 32 10 11
 1
 end_operator
 begin_operator
@@ -25155,8 +25155,8 @@ overcome abrasion achievement wonderbread neptune vulcan
 1
 0 10
 2
-0 32 10 11
 0 21 3 2
+0 32 10 11
 1
 end_operator
 begin_operator
@@ -25164,8 +25164,8 @@ overcome abrasion achievement wonderbread vulcan earth
 1
 0 10
 2
-0 32 10 11
 0 21 0 3
+0 32 10 11
 1
 end_operator
 begin_operator
@@ -25173,8 +25173,8 @@ overcome abrasion excitement arugula mercury neptune
 1
 1 0
 2
-0 32 0 12
 0 22 2 1
+0 32 0 12
 1
 end_operator
 begin_operator
@@ -25182,8 +25182,8 @@ overcome abrasion excitement arugula neptune vulcan
 1
 1 0
 2
-0 32 0 12
 0 22 3 2
+0 32 0 12
 1
 end_operator
 begin_operator
@@ -25191,8 +25191,8 @@ overcome abrasion excitement arugula vulcan earth
 1
 1 0
 2
-0 32 0 12
 0 22 0 3
+0 32 0 12
 1
 end_operator
 begin_operator
@@ -25200,8 +25200,8 @@ overcome abrasion excitement bacon mercury neptune
 1
 1 1
 2
-0 32 1 12
 0 22 2 1
+0 32 1 12
 1
 end_operator
 begin_operator
@@ -25209,8 +25209,8 @@ overcome abrasion excitement bacon neptune vulcan
 1
 1 1
 2
-0 32 1 12
 0 22 3 2
+0 32 1 12
 1
 end_operator
 begin_operator
@@ -25218,8 +25218,8 @@ overcome abrasion excitement bacon vulcan earth
 1
 1 1
 2
-0 32 1 12
 0 22 0 3
+0 32 1 12
 1
 end_operator
 begin_operator
@@ -25227,8 +25227,8 @@ overcome abrasion excitement baguette mercury neptune
 1
 1 2
 2
-0 32 2 12
 0 22 2 1
+0 32 2 12
 1
 end_operator
 begin_operator
@@ -25236,8 +25236,8 @@ overcome abrasion excitement baguette neptune vulcan
 1
 1 2
 2
-0 32 2 12
 0 22 3 2
+0 32 2 12
 1
 end_operator
 begin_operator
@@ -25245,8 +25245,8 @@ overcome abrasion excitement baguette vulcan earth
 1
 1 2
 2
-0 32 2 12
 0 22 0 3
+0 32 2 12
 1
 end_operator
 begin_operator
@@ -25254,8 +25254,8 @@ overcome abrasion excitement chicken mercury neptune
 1
 1 3
 2
-0 32 3 12
 0 22 2 1
+0 32 3 12
 1
 end_operator
 begin_operator
@@ -25263,8 +25263,8 @@ overcome abrasion excitement chicken neptune vulcan
 1
 1 3
 2
-0 32 3 12
 0 22 3 2
+0 32 3 12
 1
 end_operator
 begin_operator
@@ -25272,8 +25272,8 @@ overcome abrasion excitement chicken vulcan earth
 1
 1 3
 2
-0 32 3 12
 0 22 0 3
+0 32 3 12
 1
 end_operator
 begin_operator
@@ -25281,8 +25281,8 @@ overcome abrasion excitement chocolate mercury neptune
 1
 1 4
 2
-0 32 4 12
 0 22 2 1
+0 32 4 12
 1
 end_operator
 begin_operator
@@ -25290,8 +25290,8 @@ overcome abrasion excitement chocolate neptune vulcan
 1
 1 4
 2
-0 32 4 12
 0 22 3 2
+0 32 4 12
 1
 end_operator
 begin_operator
@@ -25299,8 +25299,8 @@ overcome abrasion excitement chocolate vulcan earth
 1
 1 4
 2
-0 32 4 12
 0 22 0 3
+0 32 4 12
 1
 end_operator
 begin_operator
@@ -25308,8 +25308,8 @@ overcome abrasion excitement flounder mercury neptune
 1
 1 5
 2
-0 32 5 12
 0 22 2 1
+0 32 5 12
 1
 end_operator
 begin_operator
@@ -25317,8 +25317,8 @@ overcome abrasion excitement flounder neptune vulcan
 1
 1 5
 2
-0 32 5 12
 0 22 3 2
+0 32 5 12
 1
 end_operator
 begin_operator
@@ -25326,8 +25326,8 @@ overcome abrasion excitement flounder vulcan earth
 1
 1 5
 2
-0 32 5 12
 0 22 0 3
+0 32 5 12
 1
 end_operator
 begin_operator
@@ -25335,8 +25335,8 @@ overcome abrasion excitement guava mercury neptune
 1
 1 6
 2
-0 32 6 12
 0 22 2 1
+0 32 6 12
 1
 end_operator
 begin_operator
@@ -25344,8 +25344,8 @@ overcome abrasion excitement guava neptune vulcan
 1
 1 6
 2
-0 32 6 12
 0 22 3 2
+0 32 6 12
 1
 end_operator
 begin_operator
@@ -25353,8 +25353,8 @@ overcome abrasion excitement guava vulcan earth
 1
 1 6
 2
-0 32 6 12
 0 22 0 3
+0 32 6 12
 1
 end_operator
 begin_operator
@@ -25362,8 +25362,8 @@ overcome abrasion excitement marzipan mercury neptune
 1
 1 7
 2
-0 32 7 12
 0 22 2 1
+0 32 7 12
 1
 end_operator
 begin_operator
@@ -25371,8 +25371,8 @@ overcome abrasion excitement marzipan neptune vulcan
 1
 1 7
 2
-0 32 7 12
 0 22 3 2
+0 32 7 12
 1
 end_operator
 begin_operator
@@ -25380,8 +25380,8 @@ overcome abrasion excitement marzipan vulcan earth
 1
 1 7
 2
-0 32 7 12
 0 22 0 3
+0 32 7 12
 1
 end_operator
 begin_operator
@@ -25389,8 +25389,8 @@ overcome abrasion excitement pepper mercury neptune
 1
 1 8
 2
-0 32 8 12
 0 22 2 1
+0 32 8 12
 1
 end_operator
 begin_operator
@@ -25398,8 +25398,8 @@ overcome abrasion excitement pepper neptune vulcan
 1
 1 8
 2
-0 32 8 12
 0 22 3 2
+0 32 8 12
 1
 end_operator
 begin_operator
@@ -25407,8 +25407,8 @@ overcome abrasion excitement pepper vulcan earth
 1
 1 8
 2
-0 32 8 12
 0 22 0 3
+0 32 8 12
 1
 end_operator
 begin_operator
@@ -25416,8 +25416,8 @@ overcome abrasion excitement rice mercury neptune
 1
 1 9
 2
-0 32 9 12
 0 22 2 1
+0 32 9 12
 1
 end_operator
 begin_operator
@@ -25425,8 +25425,8 @@ overcome abrasion excitement rice neptune vulcan
 1
 1 9
 2
-0 32 9 12
 0 22 3 2
+0 32 9 12
 1
 end_operator
 begin_operator
@@ -25434,8 +25434,8 @@ overcome abrasion excitement rice vulcan earth
 1
 1 9
 2
-0 32 9 12
 0 22 0 3
+0 32 9 12
 1
 end_operator
 begin_operator
@@ -25443,8 +25443,8 @@ overcome abrasion excitement wonderbread mercury neptune
 1
 1 10
 2
-0 32 10 12
 0 22 2 1
+0 32 10 12
 1
 end_operator
 begin_operator
@@ -25452,8 +25452,8 @@ overcome abrasion excitement wonderbread neptune vulcan
 1
 1 10
 2
-0 32 10 12
 0 22 3 2
+0 32 10 12
 1
 end_operator
 begin_operator
@@ -25461,8 +25461,8 @@ overcome abrasion excitement wonderbread vulcan earth
 1
 1 10
 2
-0 32 10 12
 0 22 0 3
+0 32 10 12
 1
 end_operator
 begin_operator
@@ -25470,8 +25470,8 @@ overcome abrasion learning arugula mercury neptune
 1
 2 0
 2
-0 32 0 13
 0 25 2 1
+0 32 0 13
 1
 end_operator
 begin_operator
@@ -25479,8 +25479,8 @@ overcome abrasion learning arugula neptune vulcan
 1
 2 0
 2
-0 32 0 13
 0 25 3 2
+0 32 0 13
 1
 end_operator
 begin_operator
@@ -25488,8 +25488,8 @@ overcome abrasion learning arugula vulcan earth
 1
 2 0
 2
-0 32 0 13
 0 25 0 3
+0 32 0 13
 1
 end_operator
 begin_operator
@@ -25497,8 +25497,8 @@ overcome abrasion learning bacon mercury neptune
 1
 2 1
 2
-0 32 1 13
 0 25 2 1
+0 32 1 13
 1
 end_operator
 begin_operator
@@ -25506,8 +25506,8 @@ overcome abrasion learning bacon neptune vulcan
 1
 2 1
 2
-0 32 1 13
 0 25 3 2
+0 32 1 13
 1
 end_operator
 begin_operator
@@ -25515,8 +25515,8 @@ overcome abrasion learning bacon vulcan earth
 1
 2 1
 2
-0 32 1 13
 0 25 0 3
+0 32 1 13
 1
 end_operator
 begin_operator
@@ -25524,8 +25524,8 @@ overcome abrasion learning baguette mercury neptune
 1
 2 2
 2
-0 32 2 13
 0 25 2 1
+0 32 2 13
 1
 end_operator
 begin_operator
@@ -25533,8 +25533,8 @@ overcome abrasion learning baguette neptune vulcan
 1
 2 2
 2
-0 32 2 13
 0 25 3 2
+0 32 2 13
 1
 end_operator
 begin_operator
@@ -25542,8 +25542,8 @@ overcome abrasion learning baguette vulcan earth
 1
 2 2
 2
-0 32 2 13
 0 25 0 3
+0 32 2 13
 1
 end_operator
 begin_operator
@@ -25551,8 +25551,8 @@ overcome abrasion learning chicken mercury neptune
 1
 2 3
 2
-0 32 3 13
 0 25 2 1
+0 32 3 13
 1
 end_operator
 begin_operator
@@ -25560,8 +25560,8 @@ overcome abrasion learning chicken neptune vulcan
 1
 2 3
 2
-0 32 3 13
 0 25 3 2
+0 32 3 13
 1
 end_operator
 begin_operator
@@ -25569,8 +25569,8 @@ overcome abrasion learning chicken vulcan earth
 1
 2 3
 2
-0 32 3 13
 0 25 0 3
+0 32 3 13
 1
 end_operator
 begin_operator
@@ -25578,8 +25578,8 @@ overcome abrasion learning chocolate mercury neptune
 1
 2 4
 2
-0 32 4 13
 0 25 2 1
+0 32 4 13
 1
 end_operator
 begin_operator
@@ -25587,8 +25587,8 @@ overcome abrasion learning chocolate neptune vulcan
 1
 2 4
 2
-0 32 4 13
 0 25 3 2
+0 32 4 13
 1
 end_operator
 begin_operator
@@ -25596,8 +25596,8 @@ overcome abrasion learning chocolate vulcan earth
 1
 2 4
 2
-0 32 4 13
 0 25 0 3
+0 32 4 13
 1
 end_operator
 begin_operator
@@ -25605,8 +25605,8 @@ overcome abrasion learning flounder mercury neptune
 1
 2 5
 2
-0 32 5 13
 0 25 2 1
+0 32 5 13
 1
 end_operator
 begin_operator
@@ -25614,8 +25614,8 @@ overcome abrasion learning flounder neptune vulcan
 1
 2 5
 2
-0 32 5 13
 0 25 3 2
+0 32 5 13
 1
 end_operator
 begin_operator
@@ -25623,8 +25623,8 @@ overcome abrasion learning flounder vulcan earth
 1
 2 5
 2
-0 32 5 13
 0 25 0 3
+0 32 5 13
 1
 end_operator
 begin_operator
@@ -25632,8 +25632,8 @@ overcome abrasion learning guava mercury neptune
 1
 2 6
 2
-0 32 6 13
 0 25 2 1
+0 32 6 13
 1
 end_operator
 begin_operator
@@ -25641,8 +25641,8 @@ overcome abrasion learning guava neptune vulcan
 1
 2 6
 2
-0 32 6 13
 0 25 3 2
+0 32 6 13
 1
 end_operator
 begin_operator
@@ -25650,8 +25650,8 @@ overcome abrasion learning guava vulcan earth
 1
 2 6
 2
-0 32 6 13
 0 25 0 3
+0 32 6 13
 1
 end_operator
 begin_operator
@@ -25659,8 +25659,8 @@ overcome abrasion learning marzipan mercury neptune
 1
 2 7
 2
-0 32 7 13
 0 25 2 1
+0 32 7 13
 1
 end_operator
 begin_operator
@@ -25668,8 +25668,8 @@ overcome abrasion learning marzipan neptune vulcan
 1
 2 7
 2
-0 32 7 13
 0 25 3 2
+0 32 7 13
 1
 end_operator
 begin_operator
@@ -25677,8 +25677,8 @@ overcome abrasion learning marzipan vulcan earth
 1
 2 7
 2
-0 32 7 13
 0 25 0 3
+0 32 7 13
 1
 end_operator
 begin_operator
@@ -25686,8 +25686,8 @@ overcome abrasion learning pepper mercury neptune
 1
 2 8
 2
-0 32 8 13
 0 25 2 1
+0 32 8 13
 1
 end_operator
 begin_operator
@@ -25695,8 +25695,8 @@ overcome abrasion learning pepper neptune vulcan
 1
 2 8
 2
-0 32 8 13
 0 25 3 2
+0 32 8 13
 1
 end_operator
 begin_operator
@@ -25704,8 +25704,8 @@ overcome abrasion learning pepper vulcan earth
 1
 2 8
 2
-0 32 8 13
 0 25 0 3
+0 32 8 13
 1
 end_operator
 begin_operator
@@ -25713,8 +25713,8 @@ overcome abrasion learning rice mercury neptune
 1
 2 9
 2
-0 32 9 13
 0 25 2 1
+0 32 9 13
 1
 end_operator
 begin_operator
@@ -25722,8 +25722,8 @@ overcome abrasion learning rice neptune vulcan
 1
 2 9
 2
-0 32 9 13
 0 25 3 2
+0 32 9 13
 1
 end_operator
 begin_operator
@@ -25731,8 +25731,8 @@ overcome abrasion learning rice vulcan earth
 1
 2 9
 2
-0 32 9 13
 0 25 0 3
+0 32 9 13
 1
 end_operator
 begin_operator
@@ -25740,8 +25740,8 @@ overcome abrasion learning wonderbread mercury neptune
 1
 2 10
 2
-0 32 10 13
 0 25 2 1
+0 32 10 13
 1
 end_operator
 begin_operator
@@ -25749,8 +25749,8 @@ overcome abrasion learning wonderbread neptune vulcan
 1
 2 10
 2
-0 32 10 13
 0 25 3 2
+0 32 10 13
 1
 end_operator
 begin_operator
@@ -25758,8 +25758,8 @@ overcome abrasion learning wonderbread vulcan earth
 1
 2 10
 2
-0 32 10 13
 0 25 0 3
+0 32 10 13
 1
 end_operator
 begin_operator
@@ -25767,8 +25767,8 @@ overcome abrasion rest arugula mercury neptune
 1
 3 0
 2
-0 32 0 14
 0 26 2 1
+0 32 0 14
 1
 end_operator
 begin_operator
@@ -25776,8 +25776,8 @@ overcome abrasion rest arugula neptune vulcan
 1
 3 0
 2
-0 32 0 14
 0 26 3 2
+0 32 0 14
 1
 end_operator
 begin_operator
@@ -25785,8 +25785,8 @@ overcome abrasion rest arugula vulcan earth
 1
 3 0
 2
-0 32 0 14
 0 26 0 3
+0 32 0 14
 1
 end_operator
 begin_operator
@@ -25794,8 +25794,8 @@ overcome abrasion rest bacon mercury neptune
 1
 3 1
 2
-0 32 1 14
 0 26 2 1
+0 32 1 14
 1
 end_operator
 begin_operator
@@ -25803,8 +25803,8 @@ overcome abrasion rest bacon neptune vulcan
 1
 3 1
 2
-0 32 1 14
 0 26 3 2
+0 32 1 14
 1
 end_operator
 begin_operator
@@ -25812,8 +25812,8 @@ overcome abrasion rest bacon vulcan earth
 1
 3 1
 2
-0 32 1 14
 0 26 0 3
+0 32 1 14
 1
 end_operator
 begin_operator
@@ -25821,8 +25821,8 @@ overcome abrasion rest baguette mercury neptune
 1
 3 2
 2
-0 32 2 14
 0 26 2 1
+0 32 2 14
 1
 end_operator
 begin_operator
@@ -25830,8 +25830,8 @@ overcome abrasion rest baguette neptune vulcan
 1
 3 2
 2
-0 32 2 14
 0 26 3 2
+0 32 2 14
 1
 end_operator
 begin_operator
@@ -25839,8 +25839,8 @@ overcome abrasion rest baguette vulcan earth
 1
 3 2
 2
-0 32 2 14
 0 26 0 3
+0 32 2 14
 1
 end_operator
 begin_operator
@@ -25848,8 +25848,8 @@ overcome abrasion rest chicken mercury neptune
 1
 3 3
 2
-0 32 3 14
 0 26 2 1
+0 32 3 14
 1
 end_operator
 begin_operator
@@ -25857,8 +25857,8 @@ overcome abrasion rest chicken neptune vulcan
 1
 3 3
 2
-0 32 3 14
 0 26 3 2
+0 32 3 14
 1
 end_operator
 begin_operator
@@ -25866,8 +25866,8 @@ overcome abrasion rest chicken vulcan earth
 1
 3 3
 2
-0 32 3 14
 0 26 0 3
+0 32 3 14
 1
 end_operator
 begin_operator
@@ -25875,8 +25875,8 @@ overcome abrasion rest chocolate mercury neptune
 1
 3 4
 2
-0 32 4 14
 0 26 2 1
+0 32 4 14
 1
 end_operator
 begin_operator
@@ -25884,8 +25884,8 @@ overcome abrasion rest chocolate neptune vulcan
 1
 3 4
 2
-0 32 4 14
 0 26 3 2
+0 32 4 14
 1
 end_operator
 begin_operator
@@ -25893,8 +25893,8 @@ overcome abrasion rest chocolate vulcan earth
 1
 3 4
 2
-0 32 4 14
 0 26 0 3
+0 32 4 14
 1
 end_operator
 begin_operator
@@ -25902,8 +25902,8 @@ overcome abrasion rest flounder mercury neptune
 1
 3 5
 2
-0 32 5 14
 0 26 2 1
+0 32 5 14
 1
 end_operator
 begin_operator
@@ -25911,8 +25911,8 @@ overcome abrasion rest flounder neptune vulcan
 1
 3 5
 2
-0 32 5 14
 0 26 3 2
+0 32 5 14
 1
 end_operator
 begin_operator
@@ -25920,8 +25920,8 @@ overcome abrasion rest flounder vulcan earth
 1
 3 5
 2
-0 32 5 14
 0 26 0 3
+0 32 5 14
 1
 end_operator
 begin_operator
@@ -25929,8 +25929,8 @@ overcome abrasion rest guava mercury neptune
 1
 3 6
 2
-0 32 6 14
 0 26 2 1
+0 32 6 14
 1
 end_operator
 begin_operator
@@ -25938,8 +25938,8 @@ overcome abrasion rest guava neptune vulcan
 1
 3 6
 2
-0 32 6 14
 0 26 3 2
+0 32 6 14
 1
 end_operator
 begin_operator
@@ -25947,8 +25947,8 @@ overcome abrasion rest guava vulcan earth
 1
 3 6
 2
-0 32 6 14
 0 26 0 3
+0 32 6 14
 1
 end_operator
 begin_operator
@@ -25956,8 +25956,8 @@ overcome abrasion rest marzipan mercury neptune
 1
 3 7
 2
-0 32 7 14
 0 26 2 1
+0 32 7 14
 1
 end_operator
 begin_operator
@@ -25965,8 +25965,8 @@ overcome abrasion rest marzipan neptune vulcan
 1
 3 7
 2
-0 32 7 14
 0 26 3 2
+0 32 7 14
 1
 end_operator
 begin_operator
@@ -25974,8 +25974,8 @@ overcome abrasion rest marzipan vulcan earth
 1
 3 7
 2
-0 32 7 14
 0 26 0 3
+0 32 7 14
 1
 end_operator
 begin_operator
@@ -25983,8 +25983,8 @@ overcome abrasion rest pepper mercury neptune
 1
 3 8
 2
-0 32 8 14
 0 26 2 1
+0 32 8 14
 1
 end_operator
 begin_operator
@@ -25992,8 +25992,8 @@ overcome abrasion rest pepper neptune vulcan
 1
 3 8
 2
-0 32 8 14
 0 26 3 2
+0 32 8 14
 1
 end_operator
 begin_operator
@@ -26001,8 +26001,8 @@ overcome abrasion rest pepper vulcan earth
 1
 3 8
 2
-0 32 8 14
 0 26 0 3
+0 32 8 14
 1
 end_operator
 begin_operator
@@ -26010,8 +26010,8 @@ overcome abrasion rest rice mercury neptune
 1
 3 9
 2
-0 32 9 14
 0 26 2 1
+0 32 9 14
 1
 end_operator
 begin_operator
@@ -26019,8 +26019,8 @@ overcome abrasion rest rice neptune vulcan
 1
 3 9
 2
-0 32 9 14
 0 26 3 2
+0 32 9 14
 1
 end_operator
 begin_operator
@@ -26028,8 +26028,8 @@ overcome abrasion rest rice vulcan earth
 1
 3 9
 2
-0 32 9 14
 0 26 0 3
+0 32 9 14
 1
 end_operator
 begin_operator
@@ -26037,8 +26037,8 @@ overcome abrasion rest wonderbread mercury neptune
 1
 3 10
 2
-0 32 10 14
 0 26 2 1
+0 32 10 14
 1
 end_operator
 begin_operator
@@ -26046,8 +26046,8 @@ overcome abrasion rest wonderbread neptune vulcan
 1
 3 10
 2
-0 32 10 14
 0 26 3 2
+0 32 10 14
 1
 end_operator
 begin_operator
@@ -26055,8 +26055,8 @@ overcome abrasion rest wonderbread vulcan earth
 1
 3 10
 2
-0 32 10 14
 0 26 0 3
+0 32 10 14
 1
 end_operator
 begin_operator
@@ -26064,8 +26064,8 @@ overcome abrasion satiety arugula mercury neptune
 1
 4 0
 2
-0 32 0 15
 0 29 2 1
+0 32 0 15
 1
 end_operator
 begin_operator
@@ -26073,8 +26073,8 @@ overcome abrasion satiety arugula neptune vulcan
 1
 4 0
 2
-0 32 0 15
 0 29 3 2
+0 32 0 15
 1
 end_operator
 begin_operator
@@ -26082,8 +26082,8 @@ overcome abrasion satiety arugula vulcan earth
 1
 4 0
 2
-0 32 0 15
 0 29 0 3
+0 32 0 15
 1
 end_operator
 begin_operator
@@ -26091,8 +26091,8 @@ overcome abrasion satiety bacon mercury neptune
 1
 4 1
 2
-0 32 1 15
 0 29 2 1
+0 32 1 15
 1
 end_operator
 begin_operator
@@ -26100,8 +26100,8 @@ overcome abrasion satiety bacon neptune vulcan
 1
 4 1
 2
-0 32 1 15
 0 29 3 2
+0 32 1 15
 1
 end_operator
 begin_operator
@@ -26109,8 +26109,8 @@ overcome abrasion satiety bacon vulcan earth
 1
 4 1
 2
-0 32 1 15
 0 29 0 3
+0 32 1 15
 1
 end_operator
 begin_operator
@@ -26118,8 +26118,8 @@ overcome abrasion satiety baguette mercury neptune
 1
 4 2
 2
-0 32 2 15
 0 29 2 1
+0 32 2 15
 1
 end_operator
 begin_operator
@@ -26127,8 +26127,8 @@ overcome abrasion satiety baguette neptune vulcan
 1
 4 2
 2
-0 32 2 15
 0 29 3 2
+0 32 2 15
 1
 end_operator
 begin_operator
@@ -26136,8 +26136,8 @@ overcome abrasion satiety baguette vulcan earth
 1
 4 2
 2
-0 32 2 15
 0 29 0 3
+0 32 2 15
 1
 end_operator
 begin_operator
@@ -26145,8 +26145,8 @@ overcome abrasion satiety chicken mercury neptune
 1
 4 3
 2
-0 32 3 15
 0 29 2 1
+0 32 3 15
 1
 end_operator
 begin_operator
@@ -26154,8 +26154,8 @@ overcome abrasion satiety chicken neptune vulcan
 1
 4 3
 2
-0 32 3 15
 0 29 3 2
+0 32 3 15
 1
 end_operator
 begin_operator
@@ -26163,8 +26163,8 @@ overcome abrasion satiety chicken vulcan earth
 1
 4 3
 2
-0 32 3 15
 0 29 0 3
+0 32 3 15
 1
 end_operator
 begin_operator
@@ -26172,8 +26172,8 @@ overcome abrasion satiety chocolate mercury neptune
 1
 4 4
 2
-0 32 4 15
 0 29 2 1
+0 32 4 15
 1
 end_operator
 begin_operator
@@ -26181,8 +26181,8 @@ overcome abrasion satiety chocolate neptune vulcan
 1
 4 4
 2
-0 32 4 15
 0 29 3 2
+0 32 4 15
 1
 end_operator
 begin_operator
@@ -26190,8 +26190,8 @@ overcome abrasion satiety chocolate vulcan earth
 1
 4 4
 2
-0 32 4 15
 0 29 0 3
+0 32 4 15
 1
 end_operator
 begin_operator
@@ -26199,8 +26199,8 @@ overcome abrasion satiety flounder mercury neptune
 1
 4 5
 2
-0 32 5 15
 0 29 2 1
+0 32 5 15
 1
 end_operator
 begin_operator
@@ -26208,8 +26208,8 @@ overcome abrasion satiety flounder neptune vulcan
 1
 4 5
 2
-0 32 5 15
 0 29 3 2
+0 32 5 15
 1
 end_operator
 begin_operator
@@ -26217,8 +26217,8 @@ overcome abrasion satiety flounder vulcan earth
 1
 4 5
 2
-0 32 5 15
 0 29 0 3
+0 32 5 15
 1
 end_operator
 begin_operator
@@ -26226,8 +26226,8 @@ overcome abrasion satiety guava mercury neptune
 1
 4 6
 2
-0 32 6 15
 0 29 2 1
+0 32 6 15
 1
 end_operator
 begin_operator
@@ -26235,8 +26235,8 @@ overcome abrasion satiety guava neptune vulcan
 1
 4 6
 2
-0 32 6 15
 0 29 3 2
+0 32 6 15
 1
 end_operator
 begin_operator
@@ -26244,8 +26244,8 @@ overcome abrasion satiety guava vulcan earth
 1
 4 6
 2
-0 32 6 15
 0 29 0 3
+0 32 6 15
 1
 end_operator
 begin_operator
@@ -26253,8 +26253,8 @@ overcome abrasion satiety marzipan mercury neptune
 1
 4 7
 2
-0 32 7 15
 0 29 2 1
+0 32 7 15
 1
 end_operator
 begin_operator
@@ -26262,8 +26262,8 @@ overcome abrasion satiety marzipan neptune vulcan
 1
 4 7
 2
-0 32 7 15
 0 29 3 2
+0 32 7 15
 1
 end_operator
 begin_operator
@@ -26271,8 +26271,8 @@ overcome abrasion satiety marzipan vulcan earth
 1
 4 7
 2
-0 32 7 15
 0 29 0 3
+0 32 7 15
 1
 end_operator
 begin_operator
@@ -26280,8 +26280,8 @@ overcome abrasion satiety pepper mercury neptune
 1
 4 8
 2
-0 32 8 15
 0 29 2 1
+0 32 8 15
 1
 end_operator
 begin_operator
@@ -26289,8 +26289,8 @@ overcome abrasion satiety pepper neptune vulcan
 1
 4 8
 2
-0 32 8 15
 0 29 3 2
+0 32 8 15
 1
 end_operator
 begin_operator
@@ -26298,8 +26298,8 @@ overcome abrasion satiety pepper vulcan earth
 1
 4 8
 2
-0 32 8 15
 0 29 0 3
+0 32 8 15
 1
 end_operator
 begin_operator
@@ -26307,8 +26307,8 @@ overcome abrasion satiety rice mercury neptune
 1
 4 9
 2
-0 32 9 15
 0 29 2 1
+0 32 9 15
 1
 end_operator
 begin_operator
@@ -26316,8 +26316,8 @@ overcome abrasion satiety rice neptune vulcan
 1
 4 9
 2
-0 32 9 15
 0 29 3 2
+0 32 9 15
 1
 end_operator
 begin_operator
@@ -26325,8 +26325,8 @@ overcome abrasion satiety rice vulcan earth
 1
 4 9
 2
-0 32 9 15
 0 29 0 3
+0 32 9 15
 1
 end_operator
 begin_operator
@@ -26334,8 +26334,8 @@ overcome abrasion satiety wonderbread mercury neptune
 1
 4 10
 2
-0 32 10 15
 0 29 2 1
+0 32 10 15
 1
 end_operator
 begin_operator
@@ -26343,8 +26343,8 @@ overcome abrasion satiety wonderbread neptune vulcan
 1
 4 10
 2
-0 32 10 15
 0 29 3 2
+0 32 10 15
 1
 end_operator
 begin_operator
@@ -26352,8 +26352,8 @@ overcome abrasion satiety wonderbread vulcan earth
 1
 4 10
 2
-0 32 10 15
 0 29 0 3
+0 32 10 15
 1
 end_operator
 begin_operator
@@ -26361,8 +26361,8 @@ overcome abrasion stimulation arugula mercury neptune
 1
 5 0
 2
-0 32 0 16
 0 30 2 1
+0 32 0 16
 1
 end_operator
 begin_operator
@@ -26370,8 +26370,8 @@ overcome abrasion stimulation arugula neptune vulcan
 1
 5 0
 2
-0 32 0 16
 0 30 3 2
+0 32 0 16
 1
 end_operator
 begin_operator
@@ -26379,8 +26379,8 @@ overcome abrasion stimulation arugula vulcan earth
 1
 5 0
 2
-0 32 0 16
 0 30 0 3
+0 32 0 16
 1
 end_operator
 begin_operator
@@ -26388,8 +26388,8 @@ overcome abrasion stimulation bacon mercury neptune
 1
 5 1
 2
-0 32 1 16
 0 30 2 1
+0 32 1 16
 1
 end_operator
 begin_operator
@@ -26397,8 +26397,8 @@ overcome abrasion stimulation bacon neptune vulcan
 1
 5 1
 2
-0 32 1 16
 0 30 3 2
+0 32 1 16
 1
 end_operator
 begin_operator
@@ -26406,8 +26406,8 @@ overcome abrasion stimulation bacon vulcan earth
 1
 5 1
 2
-0 32 1 16
 0 30 0 3
+0 32 1 16
 1
 end_operator
 begin_operator
@@ -26415,8 +26415,8 @@ overcome abrasion stimulation baguette mercury neptune
 1
 5 2
 2
-0 32 2 16
 0 30 2 1
+0 32 2 16
 1
 end_operator
 begin_operator
@@ -26424,8 +26424,8 @@ overcome abrasion stimulation baguette neptune vulcan
 1
 5 2
 2
-0 32 2 16
 0 30 3 2
+0 32 2 16
 1
 end_operator
 begin_operator
@@ -26433,8 +26433,8 @@ overcome abrasion stimulation baguette vulcan earth
 1
 5 2
 2
-0 32 2 16
 0 30 0 3
+0 32 2 16
 1
 end_operator
 begin_operator
@@ -26442,8 +26442,8 @@ overcome abrasion stimulation chicken mercury neptune
 1
 5 3
 2
-0 32 3 16
 0 30 2 1
+0 32 3 16
 1
 end_operator
 begin_operator
@@ -26451,8 +26451,8 @@ overcome abrasion stimulation chicken neptune vulcan
 1
 5 3
 2
-0 32 3 16
 0 30 3 2
+0 32 3 16
 1
 end_operator
 begin_operator
@@ -26460,8 +26460,8 @@ overcome abrasion stimulation chicken vulcan earth
 1
 5 3
 2
-0 32 3 16
 0 30 0 3
+0 32 3 16
 1
 end_operator
 begin_operator
@@ -26469,8 +26469,8 @@ overcome abrasion stimulation chocolate mercury neptune
 1
 5 4
 2
-0 32 4 16
 0 30 2 1
+0 32 4 16
 1
 end_operator
 begin_operator
@@ -26478,8 +26478,8 @@ overcome abrasion stimulation chocolate neptune vulcan
 1
 5 4
 2
-0 32 4 16
 0 30 3 2
+0 32 4 16
 1
 end_operator
 begin_operator
@@ -26487,8 +26487,8 @@ overcome abrasion stimulation chocolate vulcan earth
 1
 5 4
 2
-0 32 4 16
 0 30 0 3
+0 32 4 16
 1
 end_operator
 begin_operator
@@ -26496,8 +26496,8 @@ overcome abrasion stimulation flounder mercury neptune
 1
 5 5
 2
-0 32 5 16
 0 30 2 1
+0 32 5 16
 1
 end_operator
 begin_operator
@@ -26505,8 +26505,8 @@ overcome abrasion stimulation flounder neptune vulcan
 1
 5 5
 2
-0 32 5 16
 0 30 3 2
+0 32 5 16
 1
 end_operator
 begin_operator
@@ -26514,8 +26514,8 @@ overcome abrasion stimulation flounder vulcan earth
 1
 5 5
 2
-0 32 5 16
 0 30 0 3
+0 32 5 16
 1
 end_operator
 begin_operator
@@ -26523,8 +26523,8 @@ overcome abrasion stimulation guava mercury neptune
 1
 5 6
 2
-0 32 6 16
 0 30 2 1
+0 32 6 16
 1
 end_operator
 begin_operator
@@ -26532,8 +26532,8 @@ overcome abrasion stimulation guava neptune vulcan
 1
 5 6
 2
-0 32 6 16
 0 30 3 2
+0 32 6 16
 1
 end_operator
 begin_operator
@@ -26541,8 +26541,8 @@ overcome abrasion stimulation guava vulcan earth
 1
 5 6
 2
-0 32 6 16
 0 30 0 3
+0 32 6 16
 1
 end_operator
 begin_operator
@@ -26550,8 +26550,8 @@ overcome abrasion stimulation marzipan mercury neptune
 1
 5 7
 2
-0 32 7 16
 0 30 2 1
+0 32 7 16
 1
 end_operator
 begin_operator
@@ -26559,8 +26559,8 @@ overcome abrasion stimulation marzipan neptune vulcan
 1
 5 7
 2
-0 32 7 16
 0 30 3 2
+0 32 7 16
 1
 end_operator
 begin_operator
@@ -26568,8 +26568,8 @@ overcome abrasion stimulation marzipan vulcan earth
 1
 5 7
 2
-0 32 7 16
 0 30 0 3
+0 32 7 16
 1
 end_operator
 begin_operator
@@ -26577,8 +26577,8 @@ overcome abrasion stimulation pepper mercury neptune
 1
 5 8
 2
-0 32 8 16
 0 30 2 1
+0 32 8 16
 1
 end_operator
 begin_operator
@@ -26586,8 +26586,8 @@ overcome abrasion stimulation pepper neptune vulcan
 1
 5 8
 2
-0 32 8 16
 0 30 3 2
+0 32 8 16
 1
 end_operator
 begin_operator
@@ -26595,8 +26595,8 @@ overcome abrasion stimulation pepper vulcan earth
 1
 5 8
 2
-0 32 8 16
 0 30 0 3
+0 32 8 16
 1
 end_operator
 begin_operator
@@ -26604,8 +26604,8 @@ overcome abrasion stimulation rice mercury neptune
 1
 5 9
 2
-0 32 9 16
 0 30 2 1
+0 32 9 16
 1
 end_operator
 begin_operator
@@ -26613,8 +26613,8 @@ overcome abrasion stimulation rice neptune vulcan
 1
 5 9
 2
-0 32 9 16
 0 30 3 2
+0 32 9 16
 1
 end_operator
 begin_operator
@@ -26622,8 +26622,8 @@ overcome abrasion stimulation rice vulcan earth
 1
 5 9
 2
-0 32 9 16
 0 30 0 3
+0 32 9 16
 1
 end_operator
 begin_operator
@@ -26631,8 +26631,8 @@ overcome abrasion stimulation wonderbread mercury neptune
 1
 5 10
 2
-0 32 10 16
 0 30 2 1
+0 32 10 16
 1
 end_operator
 begin_operator
@@ -26640,8 +26640,8 @@ overcome abrasion stimulation wonderbread neptune vulcan
 1
 5 10
 2
-0 32 10 16
 0 30 3 2
+0 32 10 16
 1
 end_operator
 begin_operator
@@ -26649,8 +26649,8 @@ overcome abrasion stimulation wonderbread vulcan earth
 1
 5 10
 2
-0 32 10 16
 0 30 0 3
+0 32 10 16
 1
 end_operator
 begin_operator
@@ -26658,8 +26658,8 @@ overcome abrasion triumph arugula mercury neptune
 1
 6 0
 2
-0 32 0 17
 0 31 2 1
+0 32 0 17
 1
 end_operator
 begin_operator
@@ -26667,8 +26667,8 @@ overcome abrasion triumph arugula neptune vulcan
 1
 6 0
 2
-0 32 0 17
 0 31 3 2
+0 32 0 17
 1
 end_operator
 begin_operator
@@ -26676,8 +26676,8 @@ overcome abrasion triumph arugula vulcan earth
 1
 6 0
 2
-0 32 0 17
 0 31 0 3
+0 32 0 17
 1
 end_operator
 begin_operator
@@ -26685,8 +26685,8 @@ overcome abrasion triumph bacon mercury neptune
 1
 6 1
 2
-0 32 1 17
 0 31 2 1
+0 32 1 17
 1
 end_operator
 begin_operator
@@ -26694,8 +26694,8 @@ overcome abrasion triumph bacon neptune vulcan
 1
 6 1
 2
-0 32 1 17
 0 31 3 2
+0 32 1 17
 1
 end_operator
 begin_operator
@@ -26703,8 +26703,8 @@ overcome abrasion triumph bacon vulcan earth
 1
 6 1
 2
-0 32 1 17
 0 31 0 3
+0 32 1 17
 1
 end_operator
 begin_operator
@@ -26712,8 +26712,8 @@ overcome abrasion triumph baguette mercury neptune
 1
 6 2
 2
-0 32 2 17
 0 31 2 1
+0 32 2 17
 1
 end_operator
 begin_operator
@@ -26721,8 +26721,8 @@ overcome abrasion triumph baguette neptune vulcan
 1
 6 2
 2
-0 32 2 17
 0 31 3 2
+0 32 2 17
 1
 end_operator
 begin_operator
@@ -26730,8 +26730,8 @@ overcome abrasion triumph baguette vulcan earth
 1
 6 2
 2
-0 32 2 17
 0 31 0 3
+0 32 2 17
 1
 end_operator
 begin_operator
@@ -26739,8 +26739,8 @@ overcome abrasion triumph chicken mercury neptune
 1
 6 3
 2
-0 32 3 17
 0 31 2 1
+0 32 3 17
 1
 end_operator
 begin_operator
@@ -26748,8 +26748,8 @@ overcome abrasion triumph chicken neptune vulcan
 1
 6 3
 2
-0 32 3 17
 0 31 3 2
+0 32 3 17
 1
 end_operator
 begin_operator
@@ -26757,8 +26757,8 @@ overcome abrasion triumph chicken vulcan earth
 1
 6 3
 2
-0 32 3 17
 0 31 0 3
+0 32 3 17
 1
 end_operator
 begin_operator
@@ -26766,8 +26766,8 @@ overcome abrasion triumph chocolate mercury neptune
 1
 6 4
 2
-0 32 4 17
 0 31 2 1
+0 32 4 17
 1
 end_operator
 begin_operator
@@ -26775,8 +26775,8 @@ overcome abrasion triumph chocolate neptune vulcan
 1
 6 4
 2
-0 32 4 17
 0 31 3 2
+0 32 4 17
 1
 end_operator
 begin_operator
@@ -26784,8 +26784,8 @@ overcome abrasion triumph chocolate vulcan earth
 1
 6 4
 2
-0 32 4 17
 0 31 0 3
+0 32 4 17
 1
 end_operator
 begin_operator
@@ -26793,8 +26793,8 @@ overcome abrasion triumph flounder mercury neptune
 1
 6 5
 2
-0 32 5 17
 0 31 2 1
+0 32 5 17
 1
 end_operator
 begin_operator
@@ -26802,8 +26802,8 @@ overcome abrasion triumph flounder neptune vulcan
 1
 6 5
 2
-0 32 5 17
 0 31 3 2
+0 32 5 17
 1
 end_operator
 begin_operator
@@ -26811,8 +26811,8 @@ overcome abrasion triumph flounder vulcan earth
 1
 6 5
 2
-0 32 5 17
 0 31 0 3
+0 32 5 17
 1
 end_operator
 begin_operator
@@ -26820,8 +26820,8 @@ overcome abrasion triumph guava mercury neptune
 1
 6 6
 2
-0 32 6 17
 0 31 2 1
+0 32 6 17
 1
 end_operator
 begin_operator
@@ -26829,8 +26829,8 @@ overcome abrasion triumph guava neptune vulcan
 1
 6 6
 2
-0 32 6 17
 0 31 3 2
+0 32 6 17
 1
 end_operator
 begin_operator
@@ -26838,8 +26838,8 @@ overcome abrasion triumph guava vulcan earth
 1
 6 6
 2
-0 32 6 17
 0 31 0 3
+0 32 6 17
 1
 end_operator
 begin_operator
@@ -26847,8 +26847,8 @@ overcome abrasion triumph marzipan mercury neptune
 1
 6 7
 2
-0 32 7 17
 0 31 2 1
+0 32 7 17
 1
 end_operator
 begin_operator
@@ -26856,8 +26856,8 @@ overcome abrasion triumph marzipan neptune vulcan
 1
 6 7
 2
-0 32 7 17
 0 31 3 2
+0 32 7 17
 1
 end_operator
 begin_operator
@@ -26865,8 +26865,8 @@ overcome abrasion triumph marzipan vulcan earth
 1
 6 7
 2
-0 32 7 17
 0 31 0 3
+0 32 7 17
 1
 end_operator
 begin_operator
@@ -26874,8 +26874,8 @@ overcome abrasion triumph pepper mercury neptune
 1
 6 8
 2
-0 32 8 17
 0 31 2 1
+0 32 8 17
 1
 end_operator
 begin_operator
@@ -26883,8 +26883,8 @@ overcome abrasion triumph pepper neptune vulcan
 1
 6 8
 2
-0 32 8 17
 0 31 3 2
+0 32 8 17
 1
 end_operator
 begin_operator
@@ -26892,8 +26892,8 @@ overcome abrasion triumph pepper vulcan earth
 1
 6 8
 2
-0 32 8 17
 0 31 0 3
+0 32 8 17
 1
 end_operator
 begin_operator
@@ -26901,8 +26901,8 @@ overcome abrasion triumph rice mercury neptune
 1
 6 9
 2
-0 32 9 17
 0 31 2 1
+0 32 9 17
 1
 end_operator
 begin_operator
@@ -26910,8 +26910,8 @@ overcome abrasion triumph rice neptune vulcan
 1
 6 9
 2
-0 32 9 17
 0 31 3 2
+0 32 9 17
 1
 end_operator
 begin_operator
@@ -26919,8 +26919,8 @@ overcome abrasion triumph rice vulcan earth
 1
 6 9
 2
-0 32 9 17
 0 31 0 3
+0 32 9 17
 1
 end_operator
 begin_operator
@@ -26928,8 +26928,8 @@ overcome abrasion triumph wonderbread mercury neptune
 1
 6 10
 2
-0 32 10 17
 0 31 2 1
+0 32 10 17
 1
 end_operator
 begin_operator
@@ -26937,8 +26937,8 @@ overcome abrasion triumph wonderbread neptune vulcan
 1
 6 10
 2
-0 32 10 17
 0 31 3 2
+0 32 10 17
 1
 end_operator
 begin_operator
@@ -26946,8 +26946,8 @@ overcome abrasion triumph wonderbread vulcan earth
 1
 6 10
 2
-0 32 10 17
 0 31 0 3
+0 32 10 17
 1
 end_operator
 begin_operator
@@ -33192,8 +33192,8 @@ overcome grief achievement arugula mercury neptune
 1
 0 0
 2
-0 23 0 11
 0 21 2 1
+0 23 0 11
 1
 end_operator
 begin_operator
@@ -33201,8 +33201,8 @@ overcome grief achievement arugula neptune vulcan
 1
 0 0
 2
-0 23 0 11
 0 21 3 2
+0 23 0 11
 1
 end_operator
 begin_operator
@@ -33210,8 +33210,8 @@ overcome grief achievement arugula vulcan earth
 1
 0 0
 2
-0 23 0 11
 0 21 0 3
+0 23 0 11
 1
 end_operator
 begin_operator
@@ -33219,8 +33219,8 @@ overcome grief achievement bacon mercury neptune
 1
 0 1
 2
-0 23 1 11
 0 21 2 1
+0 23 1 11
 1
 end_operator
 begin_operator
@@ -33228,8 +33228,8 @@ overcome grief achievement bacon neptune vulcan
 1
 0 1
 2
-0 23 1 11
 0 21 3 2
+0 23 1 11
 1
 end_operator
 begin_operator
@@ -33237,8 +33237,8 @@ overcome grief achievement bacon vulcan earth
 1
 0 1
 2
-0 23 1 11
 0 21 0 3
+0 23 1 11
 1
 end_operator
 begin_operator
@@ -33246,8 +33246,8 @@ overcome grief achievement baguette mercury neptune
 1
 0 2
 2
-0 23 2 11
 0 21 2 1
+0 23 2 11
 1
 end_operator
 begin_operator
@@ -33255,8 +33255,8 @@ overcome grief achievement baguette neptune vulcan
 1
 0 2
 2
-0 23 2 11
 0 21 3 2
+0 23 2 11
 1
 end_operator
 begin_operator
@@ -33264,8 +33264,8 @@ overcome grief achievement baguette vulcan earth
 1
 0 2
 2
-0 23 2 11
 0 21 0 3
+0 23 2 11
 1
 end_operator
 begin_operator
@@ -33273,8 +33273,8 @@ overcome grief achievement chicken mercury neptune
 1
 0 3
 2
-0 23 3 11
 0 21 2 1
+0 23 3 11
 1
 end_operator
 begin_operator
@@ -33282,8 +33282,8 @@ overcome grief achievement chicken neptune vulcan
 1
 0 3
 2
-0 23 3 11
 0 21 3 2
+0 23 3 11
 1
 end_operator
 begin_operator
@@ -33291,8 +33291,8 @@ overcome grief achievement chicken vulcan earth
 1
 0 3
 2
-0 23 3 11
 0 21 0 3
+0 23 3 11
 1
 end_operator
 begin_operator
@@ -33300,8 +33300,8 @@ overcome grief achievement chocolate mercury neptune
 1
 0 4
 2
-0 23 4 11
 0 21 2 1
+0 23 4 11
 1
 end_operator
 begin_operator
@@ -33309,8 +33309,8 @@ overcome grief achievement chocolate neptune vulcan
 1
 0 4
 2
-0 23 4 11
 0 21 3 2
+0 23 4 11
 1
 end_operator
 begin_operator
@@ -33318,8 +33318,8 @@ overcome grief achievement chocolate vulcan earth
 1
 0 4
 2
-0 23 4 11
 0 21 0 3
+0 23 4 11
 1
 end_operator
 begin_operator
@@ -33327,8 +33327,8 @@ overcome grief achievement flounder mercury neptune
 1
 0 5
 2
-0 23 5 11
 0 21 2 1
+0 23 5 11
 1
 end_operator
 begin_operator
@@ -33336,8 +33336,8 @@ overcome grief achievement flounder neptune vulcan
 1
 0 5
 2
-0 23 5 11
 0 21 3 2
+0 23 5 11
 1
 end_operator
 begin_operator
@@ -33345,8 +33345,8 @@ overcome grief achievement flounder vulcan earth
 1
 0 5
 2
-0 23 5 11
 0 21 0 3
+0 23 5 11
 1
 end_operator
 begin_operator
@@ -33354,8 +33354,8 @@ overcome grief achievement guava mercury neptune
 1
 0 6
 2
-0 23 6 11
 0 21 2 1
+0 23 6 11
 1
 end_operator
 begin_operator
@@ -33363,8 +33363,8 @@ overcome grief achievement guava neptune vulcan
 1
 0 6
 2
-0 23 6 11
 0 21 3 2
+0 23 6 11
 1
 end_operator
 begin_operator
@@ -33372,8 +33372,8 @@ overcome grief achievement guava vulcan earth
 1
 0 6
 2
-0 23 6 11
 0 21 0 3
+0 23 6 11
 1
 end_operator
 begin_operator
@@ -33381,8 +33381,8 @@ overcome grief achievement marzipan mercury neptune
 1
 0 7
 2
-0 23 7 11
 0 21 2 1
+0 23 7 11
 1
 end_operator
 begin_operator
@@ -33390,8 +33390,8 @@ overcome grief achievement marzipan neptune vulcan
 1
 0 7
 2
-0 23 7 11
 0 21 3 2
+0 23 7 11
 1
 end_operator
 begin_operator
@@ -33399,8 +33399,8 @@ overcome grief achievement marzipan vulcan earth
 1
 0 7
 2
-0 23 7 11
 0 21 0 3
+0 23 7 11
 1
 end_operator
 begin_operator
@@ -33408,8 +33408,8 @@ overcome grief achievement pepper mercury neptune
 1
 0 8
 2
-0 23 8 11
 0 21 2 1
+0 23 8 11
 1
 end_operator
 begin_operator
@@ -33417,8 +33417,8 @@ overcome grief achievement pepper neptune vulcan
 1
 0 8
 2
-0 23 8 11
 0 21 3 2
+0 23 8 11
 1
 end_operator
 begin_operator
@@ -33426,8 +33426,8 @@ overcome grief achievement pepper vulcan earth
 1
 0 8
 2
-0 23 8 11
 0 21 0 3
+0 23 8 11
 1
 end_operator
 begin_operator
@@ -33435,8 +33435,8 @@ overcome grief achievement rice mercury neptune
 1
 0 9
 2
-0 23 9 11
 0 21 2 1
+0 23 9 11
 1
 end_operator
 begin_operator
@@ -33444,8 +33444,8 @@ overcome grief achievement rice neptune vulcan
 1
 0 9
 2
-0 23 9 11
 0 21 3 2
+0 23 9 11
 1
 end_operator
 begin_operator
@@ -33453,8 +33453,8 @@ overcome grief achievement rice vulcan earth
 1
 0 9
 2
-0 23 9 11
 0 21 0 3
+0 23 9 11
 1
 end_operator
 begin_operator
@@ -33462,8 +33462,8 @@ overcome grief achievement wonderbread mercury neptune
 1
 0 10
 2
-0 23 10 11
 0 21 2 1
+0 23 10 11
 1
 end_operator
 begin_operator
@@ -33471,8 +33471,8 @@ overcome grief achievement wonderbread neptune vulcan
 1
 0 10
 2
-0 23 10 11
 0 21 3 2
+0 23 10 11
 1
 end_operator
 begin_operator
@@ -33480,8 +33480,8 @@ overcome grief achievement wonderbread vulcan earth
 1
 0 10
 2
-0 23 10 11
 0 21 0 3
+0 23 10 11
 1
 end_operator
 begin_operator
@@ -33489,8 +33489,8 @@ overcome grief excitement arugula mercury neptune
 1
 1 0
 2
-0 23 0 12
 0 22 2 1
+0 23 0 12
 1
 end_operator
 begin_operator
@@ -33498,8 +33498,8 @@ overcome grief excitement arugula neptune vulcan
 1
 1 0
 2
-0 23 0 12
 0 22 3 2
+0 23 0 12
 1
 end_operator
 begin_operator
@@ -33507,8 +33507,8 @@ overcome grief excitement arugula vulcan earth
 1
 1 0
 2
-0 23 0 12
 0 22 0 3
+0 23 0 12
 1
 end_operator
 begin_operator
@@ -33516,8 +33516,8 @@ overcome grief excitement bacon mercury neptune
 1
 1 1
 2
-0 23 1 12
 0 22 2 1
+0 23 1 12
 1
 end_operator
 begin_operator
@@ -33525,8 +33525,8 @@ overcome grief excitement bacon neptune vulcan
 1
 1 1
 2
-0 23 1 12
 0 22 3 2
+0 23 1 12
 1
 end_operator
 begin_operator
@@ -33534,8 +33534,8 @@ overcome grief excitement bacon vulcan earth
 1
 1 1
 2
-0 23 1 12
 0 22 0 3
+0 23 1 12
 1
 end_operator
 begin_operator
@@ -33543,8 +33543,8 @@ overcome grief excitement baguette mercury neptune
 1
 1 2
 2
-0 23 2 12
 0 22 2 1
+0 23 2 12
 1
 end_operator
 begin_operator
@@ -33552,8 +33552,8 @@ overcome grief excitement baguette neptune vulcan
 1
 1 2
 2
-0 23 2 12
 0 22 3 2
+0 23 2 12
 1
 end_operator
 begin_operator
@@ -33561,8 +33561,8 @@ overcome grief excitement baguette vulcan earth
 1
 1 2
 2
-0 23 2 12
 0 22 0 3
+0 23 2 12
 1
 end_operator
 begin_operator
@@ -33570,8 +33570,8 @@ overcome grief excitement chicken mercury neptune
 1
 1 3
 2
-0 23 3 12
 0 22 2 1
+0 23 3 12
 1
 end_operator
 begin_operator
@@ -33579,8 +33579,8 @@ overcome grief excitement chicken neptune vulcan
 1
 1 3
 2
-0 23 3 12
 0 22 3 2
+0 23 3 12
 1
 end_operator
 begin_operator
@@ -33588,8 +33588,8 @@ overcome grief excitement chicken vulcan earth
 1
 1 3
 2
-0 23 3 12
 0 22 0 3
+0 23 3 12
 1
 end_operator
 begin_operator
@@ -33597,8 +33597,8 @@ overcome grief excitement chocolate mercury neptune
 1
 1 4
 2
-0 23 4 12
 0 22 2 1
+0 23 4 12
 1
 end_operator
 begin_operator
@@ -33606,8 +33606,8 @@ overcome grief excitement chocolate neptune vulcan
 1
 1 4
 2
-0 23 4 12
 0 22 3 2
+0 23 4 12
 1
 end_operator
 begin_operator
@@ -33615,8 +33615,8 @@ overcome grief excitement chocolate vulcan earth
 1
 1 4
 2
-0 23 4 12
 0 22 0 3
+0 23 4 12
 1
 end_operator
 begin_operator
@@ -33624,8 +33624,8 @@ overcome grief excitement flounder mercury neptune
 1
 1 5
 2
-0 23 5 12
 0 22 2 1
+0 23 5 12
 1
 end_operator
 begin_operator
@@ -33633,8 +33633,8 @@ overcome grief excitement flounder neptune vulcan
 1
 1 5
 2
-0 23 5 12
 0 22 3 2
+0 23 5 12
 1
 end_operator
 begin_operator
@@ -33642,8 +33642,8 @@ overcome grief excitement flounder vulcan earth
 1
 1 5
 2
-0 23 5 12
 0 22 0 3
+0 23 5 12
 1
 end_operator
 begin_operator
@@ -33651,8 +33651,8 @@ overcome grief excitement guava mercury neptune
 1
 1 6
 2
-0 23 6 12
 0 22 2 1
+0 23 6 12
 1
 end_operator
 begin_operator
@@ -33660,8 +33660,8 @@ overcome grief excitement guava neptune vulcan
 1
 1 6
 2
-0 23 6 12
 0 22 3 2
+0 23 6 12
 1
 end_operator
 begin_operator
@@ -33669,8 +33669,8 @@ overcome grief excitement guava vulcan earth
 1
 1 6
 2
-0 23 6 12
 0 22 0 3
+0 23 6 12
 1
 end_operator
 begin_operator
@@ -33678,8 +33678,8 @@ overcome grief excitement marzipan mercury neptune
 1
 1 7
 2
-0 23 7 12
 0 22 2 1
+0 23 7 12
 1
 end_operator
 begin_operator
@@ -33687,8 +33687,8 @@ overcome grief excitement marzipan neptune vulcan
 1
 1 7
 2
-0 23 7 12
 0 22 3 2
+0 23 7 12
 1
 end_operator
 begin_operator
@@ -33696,8 +33696,8 @@ overcome grief excitement marzipan vulcan earth
 1
 1 7
 2
-0 23 7 12
 0 22 0 3
+0 23 7 12
 1
 end_operator
 begin_operator
@@ -33705,8 +33705,8 @@ overcome grief excitement pepper mercury neptune
 1
 1 8
 2
-0 23 8 12
 0 22 2 1
+0 23 8 12
 1
 end_operator
 begin_operator
@@ -33714,8 +33714,8 @@ overcome grief excitement pepper neptune vulcan
 1
 1 8
 2
-0 23 8 12
 0 22 3 2
+0 23 8 12
 1
 end_operator
 begin_operator
@@ -33723,8 +33723,8 @@ overcome grief excitement pepper vulcan earth
 1
 1 8
 2
-0 23 8 12
 0 22 0 3
+0 23 8 12
 1
 end_operator
 begin_operator
@@ -33732,8 +33732,8 @@ overcome grief excitement rice mercury neptune
 1
 1 9
 2
-0 23 9 12
 0 22 2 1
+0 23 9 12
 1
 end_operator
 begin_operator
@@ -33741,8 +33741,8 @@ overcome grief excitement rice neptune vulcan
 1
 1 9
 2
-0 23 9 12
 0 22 3 2
+0 23 9 12
 1
 end_operator
 begin_operator
@@ -33750,8 +33750,8 @@ overcome grief excitement rice vulcan earth
 1
 1 9
 2
-0 23 9 12
 0 22 0 3
+0 23 9 12
 1
 end_operator
 begin_operator
@@ -33759,8 +33759,8 @@ overcome grief excitement wonderbread mercury neptune
 1
 1 10
 2
-0 23 10 12
 0 22 2 1
+0 23 10 12
 1
 end_operator
 begin_operator
@@ -33768,8 +33768,8 @@ overcome grief excitement wonderbread neptune vulcan
 1
 1 10
 2
-0 23 10 12
 0 22 3 2
+0 23 10 12
 1
 end_operator
 begin_operator
@@ -33777,8 +33777,8 @@ overcome grief excitement wonderbread vulcan earth
 1
 1 10
 2
-0 23 10 12
 0 22 0 3
+0 23 10 12
 1
 end_operator
 begin_operator
@@ -35271,8 +35271,8 @@ overcome jealousy achievement arugula mercury neptune
 1
 0 0
 2
-0 24 0 11
 0 21 2 1
+0 24 0 11
 1
 end_operator
 begin_operator
@@ -35280,8 +35280,8 @@ overcome jealousy achievement arugula neptune vulcan
 1
 0 0
 2
-0 24 0 11
 0 21 3 2
+0 24 0 11
 1
 end_operator
 begin_operator
@@ -35289,8 +35289,8 @@ overcome jealousy achievement arugula vulcan earth
 1
 0 0
 2
-0 24 0 11
 0 21 0 3
+0 24 0 11
 1
 end_operator
 begin_operator
@@ -35298,8 +35298,8 @@ overcome jealousy achievement bacon mercury neptune
 1
 0 1
 2
-0 24 1 11
 0 21 2 1
+0 24 1 11
 1
 end_operator
 begin_operator
@@ -35307,8 +35307,8 @@ overcome jealousy achievement bacon neptune vulcan
 1
 0 1
 2
-0 24 1 11
 0 21 3 2
+0 24 1 11
 1
 end_operator
 begin_operator
@@ -35316,8 +35316,8 @@ overcome jealousy achievement bacon vulcan earth
 1
 0 1
 2
-0 24 1 11
 0 21 0 3
+0 24 1 11
 1
 end_operator
 begin_operator
@@ -35325,8 +35325,8 @@ overcome jealousy achievement baguette mercury neptune
 1
 0 2
 2
-0 24 2 11
 0 21 2 1
+0 24 2 11
 1
 end_operator
 begin_operator
@@ -35334,8 +35334,8 @@ overcome jealousy achievement baguette neptune vulcan
 1
 0 2
 2
-0 24 2 11
 0 21 3 2
+0 24 2 11
 1
 end_operator
 begin_operator
@@ -35343,8 +35343,8 @@ overcome jealousy achievement baguette vulcan earth
 1
 0 2
 2
-0 24 2 11
 0 21 0 3
+0 24 2 11
 1
 end_operator
 begin_operator
@@ -35352,8 +35352,8 @@ overcome jealousy achievement chicken mercury neptune
 1
 0 3
 2
-0 24 3 11
 0 21 2 1
+0 24 3 11
 1
 end_operator
 begin_operator
@@ -35361,8 +35361,8 @@ overcome jealousy achievement chicken neptune vulcan
 1
 0 3
 2
-0 24 3 11
 0 21 3 2
+0 24 3 11
 1
 end_operator
 begin_operator
@@ -35370,8 +35370,8 @@ overcome jealousy achievement chicken vulcan earth
 1
 0 3
 2
-0 24 3 11
 0 21 0 3
+0 24 3 11
 1
 end_operator
 begin_operator
@@ -35379,8 +35379,8 @@ overcome jealousy achievement chocolate mercury neptune
 1
 0 4
 2
-0 24 4 11
 0 21 2 1
+0 24 4 11
 1
 end_operator
 begin_operator
@@ -35388,8 +35388,8 @@ overcome jealousy achievement chocolate neptune vulcan
 1
 0 4
 2
-0 24 4 11
 0 21 3 2
+0 24 4 11
 1
 end_operator
 begin_operator
@@ -35397,8 +35397,8 @@ overcome jealousy achievement chocolate vulcan earth
 1
 0 4
 2
-0 24 4 11
 0 21 0 3
+0 24 4 11
 1
 end_operator
 begin_operator
@@ -35406,8 +35406,8 @@ overcome jealousy achievement flounder mercury neptune
 1
 0 5
 2
-0 24 5 11
 0 21 2 1
+0 24 5 11
 1
 end_operator
 begin_operator
@@ -35415,8 +35415,8 @@ overcome jealousy achievement flounder neptune vulcan
 1
 0 5
 2
-0 24 5 11
 0 21 3 2
+0 24 5 11
 1
 end_operator
 begin_operator
@@ -35424,8 +35424,8 @@ overcome jealousy achievement flounder vulcan earth
 1
 0 5
 2
-0 24 5 11
 0 21 0 3
+0 24 5 11
 1
 end_operator
 begin_operator
@@ -35433,8 +35433,8 @@ overcome jealousy achievement guava mercury neptune
 1
 0 6
 2
-0 24 6 11
 0 21 2 1
+0 24 6 11
 1
 end_operator
 begin_operator
@@ -35442,8 +35442,8 @@ overcome jealousy achievement guava neptune vulcan
 1
 0 6
 2
-0 24 6 11
 0 21 3 2
+0 24 6 11
 1
 end_operator
 begin_operator
@@ -35451,8 +35451,8 @@ overcome jealousy achievement guava vulcan earth
 1
 0 6
 2
-0 24 6 11
 0 21 0 3
+0 24 6 11
 1
 end_operator
 begin_operator
@@ -35460,8 +35460,8 @@ overcome jealousy achievement marzipan mercury neptune
 1
 0 7
 2
-0 24 7 11
 0 21 2 1
+0 24 7 11
 1
 end_operator
 begin_operator
@@ -35469,8 +35469,8 @@ overcome jealousy achievement marzipan neptune vulcan
 1
 0 7
 2
-0 24 7 11
 0 21 3 2
+0 24 7 11
 1
 end_operator
 begin_operator
@@ -35478,8 +35478,8 @@ overcome jealousy achievement marzipan vulcan earth
 1
 0 7
 2
-0 24 7 11
 0 21 0 3
+0 24 7 11
 1
 end_operator
 begin_operator
@@ -35487,8 +35487,8 @@ overcome jealousy achievement pepper mercury neptune
 1
 0 8
 2
-0 24 8 11
 0 21 2 1
+0 24 8 11
 1
 end_operator
 begin_operator
@@ -35496,8 +35496,8 @@ overcome jealousy achievement pepper neptune vulcan
 1
 0 8
 2
-0 24 8 11
 0 21 3 2
+0 24 8 11
 1
 end_operator
 begin_operator
@@ -35505,8 +35505,8 @@ overcome jealousy achievement pepper vulcan earth
 1
 0 8
 2
-0 24 8 11
 0 21 0 3
+0 24 8 11
 1
 end_operator
 begin_operator
@@ -35514,8 +35514,8 @@ overcome jealousy achievement rice mercury neptune
 1
 0 9
 2
-0 24 9 11
 0 21 2 1
+0 24 9 11
 1
 end_operator
 begin_operator
@@ -35523,8 +35523,8 @@ overcome jealousy achievement rice neptune vulcan
 1
 0 9
 2
-0 24 9 11
 0 21 3 2
+0 24 9 11
 1
 end_operator
 begin_operator
@@ -35532,8 +35532,8 @@ overcome jealousy achievement rice vulcan earth
 1
 0 9
 2
-0 24 9 11
 0 21 0 3
+0 24 9 11
 1
 end_operator
 begin_operator
@@ -35541,8 +35541,8 @@ overcome jealousy achievement wonderbread mercury neptune
 1
 0 10
 2
-0 24 10 11
 0 21 2 1
+0 24 10 11
 1
 end_operator
 begin_operator
@@ -35550,8 +35550,8 @@ overcome jealousy achievement wonderbread neptune vulcan
 1
 0 10
 2
-0 24 10 11
 0 21 3 2
+0 24 10 11
 1
 end_operator
 begin_operator
@@ -35559,8 +35559,8 @@ overcome jealousy achievement wonderbread vulcan earth
 1
 0 10
 2
-0 24 10 11
 0 21 0 3
+0 24 10 11
 1
 end_operator
 begin_operator
@@ -35568,8 +35568,8 @@ overcome jealousy excitement arugula mercury neptune
 1
 1 0
 2
-0 24 0 12
 0 22 2 1
+0 24 0 12
 1
 end_operator
 begin_operator
@@ -35577,8 +35577,8 @@ overcome jealousy excitement arugula neptune vulcan
 1
 1 0
 2
-0 24 0 12
 0 22 3 2
+0 24 0 12
 1
 end_operator
 begin_operator
@@ -35586,8 +35586,8 @@ overcome jealousy excitement arugula vulcan earth
 1
 1 0
 2
-0 24 0 12
 0 22 0 3
+0 24 0 12
 1
 end_operator
 begin_operator
@@ -35595,8 +35595,8 @@ overcome jealousy excitement bacon mercury neptune
 1
 1 1
 2
-0 24 1 12
 0 22 2 1
+0 24 1 12
 1
 end_operator
 begin_operator
@@ -35604,8 +35604,8 @@ overcome jealousy excitement bacon neptune vulcan
 1
 1 1
 2
-0 24 1 12
 0 22 3 2
+0 24 1 12
 1
 end_operator
 begin_operator
@@ -35613,8 +35613,8 @@ overcome jealousy excitement bacon vulcan earth
 1
 1 1
 2
-0 24 1 12
 0 22 0 3
+0 24 1 12
 1
 end_operator
 begin_operator
@@ -35622,8 +35622,8 @@ overcome jealousy excitement baguette mercury neptune
 1
 1 2
 2
-0 24 2 12
 0 22 2 1
+0 24 2 12
 1
 end_operator
 begin_operator
@@ -35631,8 +35631,8 @@ overcome jealousy excitement baguette neptune vulcan
 1
 1 2
 2
-0 24 2 12
 0 22 3 2
+0 24 2 12
 1
 end_operator
 begin_operator
@@ -35640,8 +35640,8 @@ overcome jealousy excitement baguette vulcan earth
 1
 1 2
 2
-0 24 2 12
 0 22 0 3
+0 24 2 12
 1
 end_operator
 begin_operator
@@ -35649,8 +35649,8 @@ overcome jealousy excitement chicken mercury neptune
 1
 1 3
 2
-0 24 3 12
 0 22 2 1
+0 24 3 12
 1
 end_operator
 begin_operator
@@ -35658,8 +35658,8 @@ overcome jealousy excitement chicken neptune vulcan
 1
 1 3
 2
-0 24 3 12
 0 22 3 2
+0 24 3 12
 1
 end_operator
 begin_operator
@@ -35667,8 +35667,8 @@ overcome jealousy excitement chicken vulcan earth
 1
 1 3
 2
-0 24 3 12
 0 22 0 3
+0 24 3 12
 1
 end_operator
 begin_operator
@@ -35676,8 +35676,8 @@ overcome jealousy excitement chocolate mercury neptune
 1
 1 4
 2
-0 24 4 12
 0 22 2 1
+0 24 4 12
 1
 end_operator
 begin_operator
@@ -35685,8 +35685,8 @@ overcome jealousy excitement chocolate neptune vulcan
 1
 1 4
 2
-0 24 4 12
 0 22 3 2
+0 24 4 12
 1
 end_operator
 begin_operator
@@ -35694,8 +35694,8 @@ overcome jealousy excitement chocolate vulcan earth
 1
 1 4
 2
-0 24 4 12
 0 22 0 3
+0 24 4 12
 1
 end_operator
 begin_operator
@@ -35703,8 +35703,8 @@ overcome jealousy excitement flounder mercury neptune
 1
 1 5
 2
-0 24 5 12
 0 22 2 1
+0 24 5 12
 1
 end_operator
 begin_operator
@@ -35712,8 +35712,8 @@ overcome jealousy excitement flounder neptune vulcan
 1
 1 5
 2
-0 24 5 12
 0 22 3 2
+0 24 5 12
 1
 end_operator
 begin_operator
@@ -35721,8 +35721,8 @@ overcome jealousy excitement flounder vulcan earth
 1
 1 5
 2
-0 24 5 12
 0 22 0 3
+0 24 5 12
 1
 end_operator
 begin_operator
@@ -35730,8 +35730,8 @@ overcome jealousy excitement guava mercury neptune
 1
 1 6
 2
-0 24 6 12
 0 22 2 1
+0 24 6 12
 1
 end_operator
 begin_operator
@@ -35739,8 +35739,8 @@ overcome jealousy excitement guava neptune vulcan
 1
 1 6
 2
-0 24 6 12
 0 22 3 2
+0 24 6 12
 1
 end_operator
 begin_operator
@@ -35748,8 +35748,8 @@ overcome jealousy excitement guava vulcan earth
 1
 1 6
 2
-0 24 6 12
 0 22 0 3
+0 24 6 12
 1
 end_operator
 begin_operator
@@ -35757,8 +35757,8 @@ overcome jealousy excitement marzipan mercury neptune
 1
 1 7
 2
-0 24 7 12
 0 22 2 1
+0 24 7 12
 1
 end_operator
 begin_operator
@@ -35766,8 +35766,8 @@ overcome jealousy excitement marzipan neptune vulcan
 1
 1 7
 2
-0 24 7 12
 0 22 3 2
+0 24 7 12
 1
 end_operator
 begin_operator
@@ -35775,8 +35775,8 @@ overcome jealousy excitement marzipan vulcan earth
 1
 1 7
 2
-0 24 7 12
 0 22 0 3
+0 24 7 12
 1
 end_operator
 begin_operator
@@ -35784,8 +35784,8 @@ overcome jealousy excitement pepper mercury neptune
 1
 1 8
 2
-0 24 8 12
 0 22 2 1
+0 24 8 12
 1
 end_operator
 begin_operator
@@ -35793,8 +35793,8 @@ overcome jealousy excitement pepper neptune vulcan
 1
 1 8
 2
-0 24 8 12
 0 22 3 2
+0 24 8 12
 1
 end_operator
 begin_operator
@@ -35802,8 +35802,8 @@ overcome jealousy excitement pepper vulcan earth
 1
 1 8
 2
-0 24 8 12
 0 22 0 3
+0 24 8 12
 1
 end_operator
 begin_operator
@@ -35811,8 +35811,8 @@ overcome jealousy excitement rice mercury neptune
 1
 1 9
 2
-0 24 9 12
 0 22 2 1
+0 24 9 12
 1
 end_operator
 begin_operator
@@ -35820,8 +35820,8 @@ overcome jealousy excitement rice neptune vulcan
 1
 1 9
 2
-0 24 9 12
 0 22 3 2
+0 24 9 12
 1
 end_operator
 begin_operator
@@ -35829,8 +35829,8 @@ overcome jealousy excitement rice vulcan earth
 1
 1 9
 2
-0 24 9 12
 0 22 0 3
+0 24 9 12
 1
 end_operator
 begin_operator
@@ -35838,8 +35838,8 @@ overcome jealousy excitement wonderbread mercury neptune
 1
 1 10
 2
-0 24 10 12
 0 22 2 1
+0 24 10 12
 1
 end_operator
 begin_operator
@@ -35847,8 +35847,8 @@ overcome jealousy excitement wonderbread neptune vulcan
 1
 1 10
 2
-0 24 10 12
 0 22 3 2
+0 24 10 12
 1
 end_operator
 begin_operator
@@ -35856,8 +35856,8 @@ overcome jealousy excitement wonderbread vulcan earth
 1
 1 10
 2
-0 24 10 12
 0 22 0 3
+0 24 10 12
 1
 end_operator
 begin_operator
@@ -37350,8 +37350,8 @@ overcome loneliness achievement arugula mercury neptune
 1
 0 0
 2
-0 27 0 11
 0 21 2 1
+0 27 0 11
 1
 end_operator
 begin_operator
@@ -37359,8 +37359,8 @@ overcome loneliness achievement arugula neptune vulcan
 1
 0 0
 2
-0 27 0 11
 0 21 3 2
+0 27 0 11
 1
 end_operator
 begin_operator
@@ -37368,8 +37368,8 @@ overcome loneliness achievement arugula vulcan earth
 1
 0 0
 2
-0 27 0 11
 0 21 0 3
+0 27 0 11
 1
 end_operator
 begin_operator
@@ -37377,8 +37377,8 @@ overcome loneliness achievement bacon mercury neptune
 1
 0 1
 2
-0 27 1 11
 0 21 2 1
+0 27 1 11
 1
 end_operator
 begin_operator
@@ -37386,8 +37386,8 @@ overcome loneliness achievement bacon neptune vulcan
 1
 0 1
 2
-0 27 1 11
 0 21 3 2
+0 27 1 11
 1
 end_operator
 begin_operator
@@ -37395,8 +37395,8 @@ overcome loneliness achievement bacon vulcan earth
 1
 0 1
 2
-0 27 1 11
 0 21 0 3
+0 27 1 11
 1
 end_operator
 begin_operator
@@ -37404,8 +37404,8 @@ overcome loneliness achievement baguette mercury neptune
 1
 0 2
 2
-0 27 2 11
 0 21 2 1
+0 27 2 11
 1
 end_operator
 begin_operator
@@ -37413,8 +37413,8 @@ overcome loneliness achievement baguette neptune vulcan
 1
 0 2
 2
-0 27 2 11
 0 21 3 2
+0 27 2 11
 1
 end_operator
 begin_operator
@@ -37422,8 +37422,8 @@ overcome loneliness achievement baguette vulcan earth
 1
 0 2
 2
-0 27 2 11
 0 21 0 3
+0 27 2 11
 1
 end_operator
 begin_operator
@@ -37431,8 +37431,8 @@ overcome loneliness achievement chicken mercury neptune
 1
 0 3
 2
-0 27 3 11
 0 21 2 1
+0 27 3 11
 1
 end_operator
 begin_operator
@@ -37440,8 +37440,8 @@ overcome loneliness achievement chicken neptune vulcan
 1
 0 3
 2
-0 27 3 11
 0 21 3 2
+0 27 3 11
 1
 end_operator
 begin_operator
@@ -37449,8 +37449,8 @@ overcome loneliness achievement chicken vulcan earth
 1
 0 3
 2
-0 27 3 11
 0 21 0 3
+0 27 3 11
 1
 end_operator
 begin_operator
@@ -37458,8 +37458,8 @@ overcome loneliness achievement chocolate mercury neptune
 1
 0 4
 2
-0 27 4 11
 0 21 2 1
+0 27 4 11
 1
 end_operator
 begin_operator
@@ -37467,8 +37467,8 @@ overcome loneliness achievement chocolate neptune vulcan
 1
 0 4
 2
-0 27 4 11
 0 21 3 2
+0 27 4 11
 1
 end_operator
 begin_operator
@@ -37476,8 +37476,8 @@ overcome loneliness achievement chocolate vulcan earth
 1
 0 4
 2
-0 27 4 11
 0 21 0 3
+0 27 4 11
 1
 end_operator
 begin_operator
@@ -37485,8 +37485,8 @@ overcome loneliness achievement flounder mercury neptune
 1
 0 5
 2
-0 27 5 11
 0 21 2 1
+0 27 5 11
 1
 end_operator
 begin_operator
@@ -37494,8 +37494,8 @@ overcome loneliness achievement flounder neptune vulcan
 1
 0 5
 2
-0 27 5 11
 0 21 3 2
+0 27 5 11
 1
 end_operator
 begin_operator
@@ -37503,8 +37503,8 @@ overcome loneliness achievement flounder vulcan earth
 1
 0 5
 2
-0 27 5 11
 0 21 0 3
+0 27 5 11
 1
 end_operator
 begin_operator
@@ -37512,8 +37512,8 @@ overcome loneliness achievement guava mercury neptune
 1
 0 6
 2
-0 27 6 11
 0 21 2 1
+0 27 6 11
 1
 end_operator
 begin_operator
@@ -37521,8 +37521,8 @@ overcome loneliness achievement guava neptune vulcan
 1
 0 6
 2
-0 27 6 11
 0 21 3 2
+0 27 6 11
 1
 end_operator
 begin_operator
@@ -37530,8 +37530,8 @@ overcome loneliness achievement guava vulcan earth
 1
 0 6
 2
-0 27 6 11
 0 21 0 3
+0 27 6 11
 1
 end_operator
 begin_operator
@@ -37539,8 +37539,8 @@ overcome loneliness achievement marzipan mercury neptune
 1
 0 7
 2
-0 27 7 11
 0 21 2 1
+0 27 7 11
 1
 end_operator
 begin_operator
@@ -37548,8 +37548,8 @@ overcome loneliness achievement marzipan neptune vulcan
 1
 0 7
 2
-0 27 7 11
 0 21 3 2
+0 27 7 11
 1
 end_operator
 begin_operator
@@ -37557,8 +37557,8 @@ overcome loneliness achievement marzipan vulcan earth
 1
 0 7
 2
-0 27 7 11
 0 21 0 3
+0 27 7 11
 1
 end_operator
 begin_operator
@@ -37566,8 +37566,8 @@ overcome loneliness achievement pepper mercury neptune
 1
 0 8
 2
-0 27 8 11
 0 21 2 1
+0 27 8 11
 1
 end_operator
 begin_operator
@@ -37575,8 +37575,8 @@ overcome loneliness achievement pepper neptune vulcan
 1
 0 8
 2
-0 27 8 11
 0 21 3 2
+0 27 8 11
 1
 end_operator
 begin_operator
@@ -37584,8 +37584,8 @@ overcome loneliness achievement pepper vulcan earth
 1
 0 8
 2
-0 27 8 11
 0 21 0 3
+0 27 8 11
 1
 end_operator
 begin_operator
@@ -37593,8 +37593,8 @@ overcome loneliness achievement rice mercury neptune
 1
 0 9
 2
-0 27 9 11
 0 21 2 1
+0 27 9 11
 1
 end_operator
 begin_operator
@@ -37602,8 +37602,8 @@ overcome loneliness achievement rice neptune vulcan
 1
 0 9
 2
-0 27 9 11
 0 21 3 2
+0 27 9 11
 1
 end_operator
 begin_operator
@@ -37611,8 +37611,8 @@ overcome loneliness achievement rice vulcan earth
 1
 0 9
 2
-0 27 9 11
 0 21 0 3
+0 27 9 11
 1
 end_operator
 begin_operator
@@ -37620,8 +37620,8 @@ overcome loneliness achievement wonderbread mercury neptune
 1
 0 10
 2
-0 27 10 11
 0 21 2 1
+0 27 10 11
 1
 end_operator
 begin_operator
@@ -37629,8 +37629,8 @@ overcome loneliness achievement wonderbread neptune vulcan
 1
 0 10
 2
-0 27 10 11
 0 21 3 2
+0 27 10 11
 1
 end_operator
 begin_operator
@@ -37638,8 +37638,8 @@ overcome loneliness achievement wonderbread vulcan earth
 1
 0 10
 2
-0 27 10 11
 0 21 0 3
+0 27 10 11
 1
 end_operator
 begin_operator
@@ -37647,8 +37647,8 @@ overcome loneliness excitement arugula mercury neptune
 1
 1 0
 2
-0 27 0 12
 0 22 2 1
+0 27 0 12
 1
 end_operator
 begin_operator
@@ -37656,8 +37656,8 @@ overcome loneliness excitement arugula neptune vulcan
 1
 1 0
 2
-0 27 0 12
 0 22 3 2
+0 27 0 12
 1
 end_operator
 begin_operator
@@ -37665,8 +37665,8 @@ overcome loneliness excitement arugula vulcan earth
 1
 1 0
 2
-0 27 0 12
 0 22 0 3
+0 27 0 12
 1
 end_operator
 begin_operator
@@ -37674,8 +37674,8 @@ overcome loneliness excitement bacon mercury neptune
 1
 1 1
 2
-0 27 1 12
 0 22 2 1
+0 27 1 12
 1
 end_operator
 begin_operator
@@ -37683,8 +37683,8 @@ overcome loneliness excitement bacon neptune vulcan
 1
 1 1
 2
-0 27 1 12
 0 22 3 2
+0 27 1 12
 1
 end_operator
 begin_operator
@@ -37692,8 +37692,8 @@ overcome loneliness excitement bacon vulcan earth
 1
 1 1
 2
-0 27 1 12
 0 22 0 3
+0 27 1 12
 1
 end_operator
 begin_operator
@@ -37701,8 +37701,8 @@ overcome loneliness excitement baguette mercury neptune
 1
 1 2
 2
-0 27 2 12
 0 22 2 1
+0 27 2 12
 1
 end_operator
 begin_operator
@@ -37710,8 +37710,8 @@ overcome loneliness excitement baguette neptune vulcan
 1
 1 2
 2
-0 27 2 12
 0 22 3 2
+0 27 2 12
 1
 end_operator
 begin_operator
@@ -37719,8 +37719,8 @@ overcome loneliness excitement baguette vulcan earth
 1
 1 2
 2
-0 27 2 12
 0 22 0 3
+0 27 2 12
 1
 end_operator
 begin_operator
@@ -37728,8 +37728,8 @@ overcome loneliness excitement chicken mercury neptune
 1
 1 3
 2
-0 27 3 12
 0 22 2 1
+0 27 3 12
 1
 end_operator
 begin_operator
@@ -37737,8 +37737,8 @@ overcome loneliness excitement chicken neptune vulcan
 1
 1 3
 2
-0 27 3 12
 0 22 3 2
+0 27 3 12
 1
 end_operator
 begin_operator
@@ -37746,8 +37746,8 @@ overcome loneliness excitement chicken vulcan earth
 1
 1 3
 2
-0 27 3 12
 0 22 0 3
+0 27 3 12
 1
 end_operator
 begin_operator
@@ -37755,8 +37755,8 @@ overcome loneliness excitement chocolate mercury neptune
 1
 1 4
 2
-0 27 4 12
 0 22 2 1
+0 27 4 12
 1
 end_operator
 begin_operator
@@ -37764,8 +37764,8 @@ overcome loneliness excitement chocolate neptune vulcan
 1
 1 4
 2
-0 27 4 12
 0 22 3 2
+0 27 4 12
 1
 end_operator
 begin_operator
@@ -37773,8 +37773,8 @@ overcome loneliness excitement chocolate vulcan earth
 1
 1 4
 2
-0 27 4 12
 0 22 0 3
+0 27 4 12
 1
 end_operator
 begin_operator
@@ -37782,8 +37782,8 @@ overcome loneliness excitement flounder mercury neptune
 1
 1 5
 2
-0 27 5 12
 0 22 2 1
+0 27 5 12
 1
 end_operator
 begin_operator
@@ -37791,8 +37791,8 @@ overcome loneliness excitement flounder neptune vulcan
 1
 1 5
 2
-0 27 5 12
 0 22 3 2
+0 27 5 12
 1
 end_operator
 begin_operator
@@ -37800,8 +37800,8 @@ overcome loneliness excitement flounder vulcan earth
 1
 1 5
 2
-0 27 5 12
 0 22 0 3
+0 27 5 12
 1
 end_operator
 begin_operator
@@ -37809,8 +37809,8 @@ overcome loneliness excitement guava mercury neptune
 1
 1 6
 2
-0 27 6 12
 0 22 2 1
+0 27 6 12
 1
 end_operator
 begin_operator
@@ -37818,8 +37818,8 @@ overcome loneliness excitement guava neptune vulcan
 1
 1 6
 2
-0 27 6 12
 0 22 3 2
+0 27 6 12
 1
 end_operator
 begin_operator
@@ -37827,8 +37827,8 @@ overcome loneliness excitement guava vulcan earth
 1
 1 6
 2
-0 27 6 12
 0 22 0 3
+0 27 6 12
 1
 end_operator
 begin_operator
@@ -37836,8 +37836,8 @@ overcome loneliness excitement marzipan mercury neptune
 1
 1 7
 2
-0 27 7 12
 0 22 2 1
+0 27 7 12
 1
 end_operator
 begin_operator
@@ -37845,8 +37845,8 @@ overcome loneliness excitement marzipan neptune vulcan
 1
 1 7
 2
-0 27 7 12
 0 22 3 2
+0 27 7 12
 1
 end_operator
 begin_operator
@@ -37854,8 +37854,8 @@ overcome loneliness excitement marzipan vulcan earth
 1
 1 7
 2
-0 27 7 12
 0 22 0 3
+0 27 7 12
 1
 end_operator
 begin_operator
@@ -37863,8 +37863,8 @@ overcome loneliness excitement pepper mercury neptune
 1
 1 8
 2
-0 27 8 12
 0 22 2 1
+0 27 8 12
 1
 end_operator
 begin_operator
@@ -37872,8 +37872,8 @@ overcome loneliness excitement pepper neptune vulcan
 1
 1 8
 2
-0 27 8 12
 0 22 3 2
+0 27 8 12
 1
 end_operator
 begin_operator
@@ -37881,8 +37881,8 @@ overcome loneliness excitement pepper vulcan earth
 1
 1 8
 2
-0 27 8 12
 0 22 0 3
+0 27 8 12
 1
 end_operator
 begin_operator
@@ -37890,8 +37890,8 @@ overcome loneliness excitement rice mercury neptune
 1
 1 9
 2
-0 27 9 12
 0 22 2 1
+0 27 9 12
 1
 end_operator
 begin_operator
@@ -37899,8 +37899,8 @@ overcome loneliness excitement rice neptune vulcan
 1
 1 9
 2
-0 27 9 12
 0 22 3 2
+0 27 9 12
 1
 end_operator
 begin_operator
@@ -37908,8 +37908,8 @@ overcome loneliness excitement rice vulcan earth
 1
 1 9
 2
-0 27 9 12
 0 22 0 3
+0 27 9 12
 1
 end_operator
 begin_operator
@@ -37917,8 +37917,8 @@ overcome loneliness excitement wonderbread mercury neptune
 1
 1 10
 2
-0 27 10 12
 0 22 2 1
+0 27 10 12
 1
 end_operator
 begin_operator
@@ -37926,8 +37926,8 @@ overcome loneliness excitement wonderbread neptune vulcan
 1
 1 10
 2
-0 27 10 12
 0 22 3 2
+0 27 10 12
 1
 end_operator
 begin_operator
@@ -37935,8 +37935,8 @@ overcome loneliness excitement wonderbread vulcan earth
 1
 1 10
 2
-0 27 10 12
 0 22 0 3
+0 27 10 12
 1
 end_operator
 begin_operator
@@ -37944,8 +37944,8 @@ overcome loneliness learning arugula mercury neptune
 1
 2 0
 2
-0 27 0 13
 0 25 2 1
+0 27 0 13
 1
 end_operator
 begin_operator
@@ -37953,8 +37953,8 @@ overcome loneliness learning arugula neptune vulcan
 1
 2 0
 2
-0 27 0 13
 0 25 3 2
+0 27 0 13
 1
 end_operator
 begin_operator
@@ -37962,8 +37962,8 @@ overcome loneliness learning arugula vulcan earth
 1
 2 0
 2
-0 27 0 13
 0 25 0 3
+0 27 0 13
 1
 end_operator
 begin_operator
@@ -37971,8 +37971,8 @@ overcome loneliness learning bacon mercury neptune
 1
 2 1
 2
-0 27 1 13
 0 25 2 1
+0 27 1 13
 1
 end_operator
 begin_operator
@@ -37980,8 +37980,8 @@ overcome loneliness learning bacon neptune vulcan
 1
 2 1
 2
-0 27 1 13
 0 25 3 2
+0 27 1 13
 1
 end_operator
 begin_operator
@@ -37989,8 +37989,8 @@ overcome loneliness learning bacon vulcan earth
 1
 2 1
 2
-0 27 1 13
 0 25 0 3
+0 27 1 13
 1
 end_operator
 begin_operator
@@ -37998,8 +37998,8 @@ overcome loneliness learning baguette mercury neptune
 1
 2 2
 2
-0 27 2 13
 0 25 2 1
+0 27 2 13
 1
 end_operator
 begin_operator
@@ -38007,8 +38007,8 @@ overcome loneliness learning baguette neptune vulcan
 1
 2 2
 2
-0 27 2 13
 0 25 3 2
+0 27 2 13
 1
 end_operator
 begin_operator
@@ -38016,8 +38016,8 @@ overcome loneliness learning baguette vulcan earth
 1
 2 2
 2
-0 27 2 13
 0 25 0 3
+0 27 2 13
 1
 end_operator
 begin_operator
@@ -38025,8 +38025,8 @@ overcome loneliness learning chicken mercury neptune
 1
 2 3
 2
-0 27 3 13
 0 25 2 1
+0 27 3 13
 1
 end_operator
 begin_operator
@@ -38034,8 +38034,8 @@ overcome loneliness learning chicken neptune vulcan
 1
 2 3
 2
-0 27 3 13
 0 25 3 2
+0 27 3 13
 1
 end_operator
 begin_operator
@@ -38043,8 +38043,8 @@ overcome loneliness learning chicken vulcan earth
 1
 2 3
 2
-0 27 3 13
 0 25 0 3
+0 27 3 13
 1
 end_operator
 begin_operator
@@ -38052,8 +38052,8 @@ overcome loneliness learning chocolate mercury neptune
 1
 2 4
 2
-0 27 4 13
 0 25 2 1
+0 27 4 13
 1
 end_operator
 begin_operator
@@ -38061,8 +38061,8 @@ overcome loneliness learning chocolate neptune vulcan
 1
 2 4
 2
-0 27 4 13
 0 25 3 2
+0 27 4 13
 1
 end_operator
 begin_operator
@@ -38070,8 +38070,8 @@ overcome loneliness learning chocolate vulcan earth
 1
 2 4
 2
-0 27 4 13
 0 25 0 3
+0 27 4 13
 1
 end_operator
 begin_operator
@@ -38079,8 +38079,8 @@ overcome loneliness learning flounder mercury neptune
 1
 2 5
 2
-0 27 5 13
 0 25 2 1
+0 27 5 13
 1
 end_operator
 begin_operator
@@ -38088,8 +38088,8 @@ overcome loneliness learning flounder neptune vulcan
 1
 2 5
 2
-0 27 5 13
 0 25 3 2
+0 27 5 13
 1
 end_operator
 begin_operator
@@ -38097,8 +38097,8 @@ overcome loneliness learning flounder vulcan earth
 1
 2 5
 2
-0 27 5 13
 0 25 0 3
+0 27 5 13
 1
 end_operator
 begin_operator
@@ -38106,8 +38106,8 @@ overcome loneliness learning guava mercury neptune
 1
 2 6
 2
-0 27 6 13
 0 25 2 1
+0 27 6 13
 1
 end_operator
 begin_operator
@@ -38115,8 +38115,8 @@ overcome loneliness learning guava neptune vulcan
 1
 2 6
 2
-0 27 6 13
 0 25 3 2
+0 27 6 13
 1
 end_operator
 begin_operator
@@ -38124,8 +38124,8 @@ overcome loneliness learning guava vulcan earth
 1
 2 6
 2
-0 27 6 13
 0 25 0 3
+0 27 6 13
 1
 end_operator
 begin_operator
@@ -38133,8 +38133,8 @@ overcome loneliness learning marzipan mercury neptune
 1
 2 7
 2
-0 27 7 13
 0 25 2 1
+0 27 7 13
 1
 end_operator
 begin_operator
@@ -38142,8 +38142,8 @@ overcome loneliness learning marzipan neptune vulcan
 1
 2 7
 2
-0 27 7 13
 0 25 3 2
+0 27 7 13
 1
 end_operator
 begin_operator
@@ -38151,8 +38151,8 @@ overcome loneliness learning marzipan vulcan earth
 1
 2 7
 2
-0 27 7 13
 0 25 0 3
+0 27 7 13
 1
 end_operator
 begin_operator
@@ -38160,8 +38160,8 @@ overcome loneliness learning pepper mercury neptune
 1
 2 8
 2
-0 27 8 13
 0 25 2 1
+0 27 8 13
 1
 end_operator
 begin_operator
@@ -38169,8 +38169,8 @@ overcome loneliness learning pepper neptune vulcan
 1
 2 8
 2
-0 27 8 13
 0 25 3 2
+0 27 8 13
 1
 end_operator
 begin_operator
@@ -38178,8 +38178,8 @@ overcome loneliness learning pepper vulcan earth
 1
 2 8
 2
-0 27 8 13
 0 25 0 3
+0 27 8 13
 1
 end_operator
 begin_operator
@@ -38187,8 +38187,8 @@ overcome loneliness learning rice mercury neptune
 1
 2 9
 2
-0 27 9 13
 0 25 2 1
+0 27 9 13
 1
 end_operator
 begin_operator
@@ -38196,8 +38196,8 @@ overcome loneliness learning rice neptune vulcan
 1
 2 9
 2
-0 27 9 13
 0 25 3 2
+0 27 9 13
 1
 end_operator
 begin_operator
@@ -38205,8 +38205,8 @@ overcome loneliness learning rice vulcan earth
 1
 2 9
 2
-0 27 9 13
 0 25 0 3
+0 27 9 13
 1
 end_operator
 begin_operator
@@ -38214,8 +38214,8 @@ overcome loneliness learning wonderbread mercury neptune
 1
 2 10
 2
-0 27 10 13
 0 25 2 1
+0 27 10 13
 1
 end_operator
 begin_operator
@@ -38223,8 +38223,8 @@ overcome loneliness learning wonderbread neptune vulcan
 1
 2 10
 2
-0 27 10 13
 0 25 3 2
+0 27 10 13
 1
 end_operator
 begin_operator
@@ -38232,8 +38232,8 @@ overcome loneliness learning wonderbread vulcan earth
 1
 2 10
 2
-0 27 10 13
 0 25 0 3
+0 27 10 13
 1
 end_operator
 begin_operator
@@ -38241,8 +38241,8 @@ overcome loneliness rest arugula mercury neptune
 1
 3 0
 2
-0 27 0 14
 0 26 2 1
+0 27 0 14
 1
 end_operator
 begin_operator
@@ -38250,8 +38250,8 @@ overcome loneliness rest arugula neptune vulcan
 1
 3 0
 2
-0 27 0 14
 0 26 3 2
+0 27 0 14
 1
 end_operator
 begin_operator
@@ -38259,8 +38259,8 @@ overcome loneliness rest arugula vulcan earth
 1
 3 0
 2
-0 27 0 14
 0 26 0 3
+0 27 0 14
 1
 end_operator
 begin_operator
@@ -38268,8 +38268,8 @@ overcome loneliness rest bacon mercury neptune
 1
 3 1
 2
-0 27 1 14
 0 26 2 1
+0 27 1 14
 1
 end_operator
 begin_operator
@@ -38277,8 +38277,8 @@ overcome loneliness rest bacon neptune vulcan
 1
 3 1
 2
-0 27 1 14
 0 26 3 2
+0 27 1 14
 1
 end_operator
 begin_operator
@@ -38286,8 +38286,8 @@ overcome loneliness rest bacon vulcan earth
 1
 3 1
 2
-0 27 1 14
 0 26 0 3
+0 27 1 14
 1
 end_operator
 begin_operator
@@ -38295,8 +38295,8 @@ overcome loneliness rest baguette mercury neptune
 1
 3 2
 2
-0 27 2 14
 0 26 2 1
+0 27 2 14
 1
 end_operator
 begin_operator
@@ -38304,8 +38304,8 @@ overcome loneliness rest baguette neptune vulcan
 1
 3 2
 2
-0 27 2 14
 0 26 3 2
+0 27 2 14
 1
 end_operator
 begin_operator
@@ -38313,8 +38313,8 @@ overcome loneliness rest baguette vulcan earth
 1
 3 2
 2
-0 27 2 14
 0 26 0 3
+0 27 2 14
 1
 end_operator
 begin_operator
@@ -38322,8 +38322,8 @@ overcome loneliness rest chicken mercury neptune
 1
 3 3
 2
-0 27 3 14
 0 26 2 1
+0 27 3 14
 1
 end_operator
 begin_operator
@@ -38331,8 +38331,8 @@ overcome loneliness rest chicken neptune vulcan
 1
 3 3
 2
-0 27 3 14
 0 26 3 2
+0 27 3 14
 1
 end_operator
 begin_operator
@@ -38340,8 +38340,8 @@ overcome loneliness rest chicken vulcan earth
 1
 3 3
 2
-0 27 3 14
 0 26 0 3
+0 27 3 14
 1
 end_operator
 begin_operator
@@ -38349,8 +38349,8 @@ overcome loneliness rest chocolate mercury neptune
 1
 3 4
 2
-0 27 4 14
 0 26 2 1
+0 27 4 14
 1
 end_operator
 begin_operator
@@ -38358,8 +38358,8 @@ overcome loneliness rest chocolate neptune vulcan
 1
 3 4
 2
-0 27 4 14
 0 26 3 2
+0 27 4 14
 1
 end_operator
 begin_operator
@@ -38367,8 +38367,8 @@ overcome loneliness rest chocolate vulcan earth
 1
 3 4
 2
-0 27 4 14
 0 26 0 3
+0 27 4 14
 1
 end_operator
 begin_operator
@@ -38376,8 +38376,8 @@ overcome loneliness rest flounder mercury neptune
 1
 3 5
 2
-0 27 5 14
 0 26 2 1
+0 27 5 14
 1
 end_operator
 begin_operator
@@ -38385,8 +38385,8 @@ overcome loneliness rest flounder neptune vulcan
 1
 3 5
 2
-0 27 5 14
 0 26 3 2
+0 27 5 14
 1
 end_operator
 begin_operator
@@ -38394,8 +38394,8 @@ overcome loneliness rest flounder vulcan earth
 1
 3 5
 2
-0 27 5 14
 0 26 0 3
+0 27 5 14
 1
 end_operator
 begin_operator
@@ -38403,8 +38403,8 @@ overcome loneliness rest guava mercury neptune
 1
 3 6
 2
-0 27 6 14
 0 26 2 1
+0 27 6 14
 1
 end_operator
 begin_operator
@@ -38412,8 +38412,8 @@ overcome loneliness rest guava neptune vulcan
 1
 3 6
 2
-0 27 6 14
 0 26 3 2
+0 27 6 14
 1
 end_operator
 begin_operator
@@ -38421,8 +38421,8 @@ overcome loneliness rest guava vulcan earth
 1
 3 6
 2
-0 27 6 14
 0 26 0 3
+0 27 6 14
 1
 end_operator
 begin_operator
@@ -38430,8 +38430,8 @@ overcome loneliness rest marzipan mercury neptune
 1
 3 7
 2
-0 27 7 14
 0 26 2 1
+0 27 7 14
 1
 end_operator
 begin_operator
@@ -38439,8 +38439,8 @@ overcome loneliness rest marzipan neptune vulcan
 1
 3 7
 2
-0 27 7 14
 0 26 3 2
+0 27 7 14
 1
 end_operator
 begin_operator
@@ -38448,8 +38448,8 @@ overcome loneliness rest marzipan vulcan earth
 1
 3 7
 2
-0 27 7 14
 0 26 0 3
+0 27 7 14
 1
 end_operator
 begin_operator
@@ -38457,8 +38457,8 @@ overcome loneliness rest pepper mercury neptune
 1
 3 8
 2
-0 27 8 14
 0 26 2 1
+0 27 8 14
 1
 end_operator
 begin_operator
@@ -38466,8 +38466,8 @@ overcome loneliness rest pepper neptune vulcan
 1
 3 8
 2
-0 27 8 14
 0 26 3 2
+0 27 8 14
 1
 end_operator
 begin_operator
@@ -38475,8 +38475,8 @@ overcome loneliness rest pepper vulcan earth
 1
 3 8
 2
-0 27 8 14
 0 26 0 3
+0 27 8 14
 1
 end_operator
 begin_operator
@@ -38484,8 +38484,8 @@ overcome loneliness rest rice mercury neptune
 1
 3 9
 2
-0 27 9 14
 0 26 2 1
+0 27 9 14
 1
 end_operator
 begin_operator
@@ -38493,8 +38493,8 @@ overcome loneliness rest rice neptune vulcan
 1
 3 9
 2
-0 27 9 14
 0 26 3 2
+0 27 9 14
 1
 end_operator
 begin_operator
@@ -38502,8 +38502,8 @@ overcome loneliness rest rice vulcan earth
 1
 3 9
 2
-0 27 9 14
 0 26 0 3
+0 27 9 14
 1
 end_operator
 begin_operator
@@ -38511,8 +38511,8 @@ overcome loneliness rest wonderbread mercury neptune
 1
 3 10
 2
-0 27 10 14
 0 26 2 1
+0 27 10 14
 1
 end_operator
 begin_operator
@@ -38520,8 +38520,8 @@ overcome loneliness rest wonderbread neptune vulcan
 1
 3 10
 2
-0 27 10 14
 0 26 3 2
+0 27 10 14
 1
 end_operator
 begin_operator
@@ -38529,8 +38529,8 @@ overcome loneliness rest wonderbread vulcan earth
 1
 3 10
 2
-0 27 10 14
 0 26 0 3
+0 27 10 14
 1
 end_operator
 begin_operator
@@ -39429,8 +39429,8 @@ overcome prostatitis achievement arugula mercury neptune
 1
 0 0
 2
-0 28 0 11
 0 21 2 1
+0 28 0 11
 1
 end_operator
 begin_operator
@@ -39438,8 +39438,8 @@ overcome prostatitis achievement arugula neptune vulcan
 1
 0 0
 2
-0 28 0 11
 0 21 3 2
+0 28 0 11
 1
 end_operator
 begin_operator
@@ -39447,8 +39447,8 @@ overcome prostatitis achievement arugula vulcan earth
 1
 0 0
 2
-0 28 0 11
 0 21 0 3
+0 28 0 11
 1
 end_operator
 begin_operator
@@ -39456,8 +39456,8 @@ overcome prostatitis achievement bacon mercury neptune
 1
 0 1
 2
-0 28 1 11
 0 21 2 1
+0 28 1 11
 1
 end_operator
 begin_operator
@@ -39465,8 +39465,8 @@ overcome prostatitis achievement bacon neptune vulcan
 1
 0 1
 2
-0 28 1 11
 0 21 3 2
+0 28 1 11
 1
 end_operator
 begin_operator
@@ -39474,8 +39474,8 @@ overcome prostatitis achievement bacon vulcan earth
 1
 0 1
 2
-0 28 1 11
 0 21 0 3
+0 28 1 11
 1
 end_operator
 begin_operator
@@ -39483,8 +39483,8 @@ overcome prostatitis achievement baguette mercury neptune
 1
 0 2
 2
-0 28 2 11
 0 21 2 1
+0 28 2 11
 1
 end_operator
 begin_operator
@@ -39492,8 +39492,8 @@ overcome prostatitis achievement baguette neptune vulcan
 1
 0 2
 2
-0 28 2 11
 0 21 3 2
+0 28 2 11
 1
 end_operator
 begin_operator
@@ -39501,8 +39501,8 @@ overcome prostatitis achievement baguette vulcan earth
 1
 0 2
 2
-0 28 2 11
 0 21 0 3
+0 28 2 11
 1
 end_operator
 begin_operator
@@ -39510,8 +39510,8 @@ overcome prostatitis achievement chicken mercury neptune
 1
 0 3
 2
-0 28 3 11
 0 21 2 1
+0 28 3 11
 1
 end_operator
 begin_operator
@@ -39519,8 +39519,8 @@ overcome prostatitis achievement chicken neptune vulcan
 1
 0 3
 2
-0 28 3 11
 0 21 3 2
+0 28 3 11
 1
 end_operator
 begin_operator
@@ -39528,8 +39528,8 @@ overcome prostatitis achievement chicken vulcan earth
 1
 0 3
 2
-0 28 3 11
 0 21 0 3
+0 28 3 11
 1
 end_operator
 begin_operator
@@ -39537,8 +39537,8 @@ overcome prostatitis achievement chocolate mercury neptune
 1
 0 4
 2
-0 28 4 11
 0 21 2 1
+0 28 4 11
 1
 end_operator
 begin_operator
@@ -39546,8 +39546,8 @@ overcome prostatitis achievement chocolate neptune vulcan
 1
 0 4
 2
-0 28 4 11
 0 21 3 2
+0 28 4 11
 1
 end_operator
 begin_operator
@@ -39555,8 +39555,8 @@ overcome prostatitis achievement chocolate vulcan earth
 1
 0 4
 2
-0 28 4 11
 0 21 0 3
+0 28 4 11
 1
 end_operator
 begin_operator
@@ -39564,8 +39564,8 @@ overcome prostatitis achievement flounder mercury neptune
 1
 0 5
 2
-0 28 5 11
 0 21 2 1
+0 28 5 11
 1
 end_operator
 begin_operator
@@ -39573,8 +39573,8 @@ overcome prostatitis achievement flounder neptune vulcan
 1
 0 5
 2
-0 28 5 11
 0 21 3 2
+0 28 5 11
 1
 end_operator
 begin_operator
@@ -39582,8 +39582,8 @@ overcome prostatitis achievement flounder vulcan earth
 1
 0 5
 2
-0 28 5 11
 0 21 0 3
+0 28 5 11
 1
 end_operator
 begin_operator
@@ -39591,8 +39591,8 @@ overcome prostatitis achievement guava mercury neptune
 1
 0 6
 2
-0 28 6 11
 0 21 2 1
+0 28 6 11
 1
 end_operator
 begin_operator
@@ -39600,8 +39600,8 @@ overcome prostatitis achievement guava neptune vulcan
 1
 0 6
 2
-0 28 6 11
 0 21 3 2
+0 28 6 11
 1
 end_operator
 begin_operator
@@ -39609,8 +39609,8 @@ overcome prostatitis achievement guava vulcan earth
 1
 0 6
 2
-0 28 6 11
 0 21 0 3
+0 28 6 11
 1
 end_operator
 begin_operator
@@ -39618,8 +39618,8 @@ overcome prostatitis achievement marzipan mercury neptune
 1
 0 7
 2
-0 28 7 11
 0 21 2 1
+0 28 7 11
 1
 end_operator
 begin_operator
@@ -39627,8 +39627,8 @@ overcome prostatitis achievement marzipan neptune vulcan
 1
 0 7
 2
-0 28 7 11
 0 21 3 2
+0 28 7 11
 1
 end_operator
 begin_operator
@@ -39636,8 +39636,8 @@ overcome prostatitis achievement marzipan vulcan earth
 1
 0 7
 2
-0 28 7 11
 0 21 0 3
+0 28 7 11
 1
 end_operator
 begin_operator
@@ -39645,8 +39645,8 @@ overcome prostatitis achievement pepper mercury neptune
 1
 0 8
 2
-0 28 8 11
 0 21 2 1
+0 28 8 11
 1
 end_operator
 begin_operator
@@ -39654,8 +39654,8 @@ overcome prostatitis achievement pepper neptune vulcan
 1
 0 8
 2
-0 28 8 11
 0 21 3 2
+0 28 8 11
 1
 end_operator
 begin_operator
@@ -39663,8 +39663,8 @@ overcome prostatitis achievement pepper vulcan earth
 1
 0 8
 2
-0 28 8 11
 0 21 0 3
+0 28 8 11
 1
 end_operator
 begin_operator
@@ -39672,8 +39672,8 @@ overcome prostatitis achievement rice mercury neptune
 1
 0 9
 2
-0 28 9 11
 0 21 2 1
+0 28 9 11
 1
 end_operator
 begin_operator
@@ -39681,8 +39681,8 @@ overcome prostatitis achievement rice neptune vulcan
 1
 0 9
 2
-0 28 9 11
 0 21 3 2
+0 28 9 11
 1
 end_operator
 begin_operator
@@ -39690,8 +39690,8 @@ overcome prostatitis achievement rice vulcan earth
 1
 0 9
 2
-0 28 9 11
 0 21 0 3
+0 28 9 11
 1
 end_operator
 begin_operator
@@ -39699,8 +39699,8 @@ overcome prostatitis achievement wonderbread mercury neptune
 1
 0 10
 2
-0 28 10 11
 0 21 2 1
+0 28 10 11
 1
 end_operator
 begin_operator
@@ -39708,8 +39708,8 @@ overcome prostatitis achievement wonderbread neptune vulcan
 1
 0 10
 2
-0 28 10 11
 0 21 3 2
+0 28 10 11
 1
 end_operator
 begin_operator
@@ -39717,8 +39717,8 @@ overcome prostatitis achievement wonderbread vulcan earth
 1
 0 10
 2
-0 28 10 11
 0 21 0 3
+0 28 10 11
 1
 end_operator
 begin_operator
@@ -39726,8 +39726,8 @@ overcome prostatitis excitement arugula mercury neptune
 1
 1 0
 2
-0 28 0 12
 0 22 2 1
+0 28 0 12
 1
 end_operator
 begin_operator
@@ -39735,8 +39735,8 @@ overcome prostatitis excitement arugula neptune vulcan
 1
 1 0
 2
-0 28 0 12
 0 22 3 2
+0 28 0 12
 1
 end_operator
 begin_operator
@@ -39744,8 +39744,8 @@ overcome prostatitis excitement arugula vulcan earth
 1
 1 0
 2
-0 28 0 12
 0 22 0 3
+0 28 0 12
 1
 end_operator
 begin_operator
@@ -39753,8 +39753,8 @@ overcome prostatitis excitement bacon mercury neptune
 1
 1 1
 2
-0 28 1 12
 0 22 2 1
+0 28 1 12
 1
 end_operator
 begin_operator
@@ -39762,8 +39762,8 @@ overcome prostatitis excitement bacon neptune vulcan
 1
 1 1
 2
-0 28 1 12
 0 22 3 2
+0 28 1 12
 1
 end_operator
 begin_operator
@@ -39771,8 +39771,8 @@ overcome prostatitis excitement bacon vulcan earth
 1
 1 1
 2
-0 28 1 12
 0 22 0 3
+0 28 1 12
 1
 end_operator
 begin_operator
@@ -39780,8 +39780,8 @@ overcome prostatitis excitement baguette mercury neptune
 1
 1 2
 2
-0 28 2 12
 0 22 2 1
+0 28 2 12
 1
 end_operator
 begin_operator
@@ -39789,8 +39789,8 @@ overcome prostatitis excitement baguette neptune vulcan
 1
 1 2
 2
-0 28 2 12
 0 22 3 2
+0 28 2 12
 1
 end_operator
 begin_operator
@@ -39798,8 +39798,8 @@ overcome prostatitis excitement baguette vulcan earth
 1
 1 2
 2
-0 28 2 12
 0 22 0 3
+0 28 2 12
 1
 end_operator
 begin_operator
@@ -39807,8 +39807,8 @@ overcome prostatitis excitement chicken mercury neptune
 1
 1 3
 2
-0 28 3 12
 0 22 2 1
+0 28 3 12
 1
 end_operator
 begin_operator
@@ -39816,8 +39816,8 @@ overcome prostatitis excitement chicken neptune vulcan
 1
 1 3
 2
-0 28 3 12
 0 22 3 2
+0 28 3 12
 1
 end_operator
 begin_operator
@@ -39825,8 +39825,8 @@ overcome prostatitis excitement chicken vulcan earth
 1
 1 3
 2
-0 28 3 12
 0 22 0 3
+0 28 3 12
 1
 end_operator
 begin_operator
@@ -39834,8 +39834,8 @@ overcome prostatitis excitement chocolate mercury neptune
 1
 1 4
 2
-0 28 4 12
 0 22 2 1
+0 28 4 12
 1
 end_operator
 begin_operator
@@ -39843,8 +39843,8 @@ overcome prostatitis excitement chocolate neptune vulcan
 1
 1 4
 2
-0 28 4 12
 0 22 3 2
+0 28 4 12
 1
 end_operator
 begin_operator
@@ -39852,8 +39852,8 @@ overcome prostatitis excitement chocolate vulcan earth
 1
 1 4
 2
-0 28 4 12
 0 22 0 3
+0 28 4 12
 1
 end_operator
 begin_operator
@@ -39861,8 +39861,8 @@ overcome prostatitis excitement flounder mercury neptune
 1
 1 5
 2
-0 28 5 12
 0 22 2 1
+0 28 5 12
 1
 end_operator
 begin_operator
@@ -39870,8 +39870,8 @@ overcome prostatitis excitement flounder neptune vulcan
 1
 1 5
 2
-0 28 5 12
 0 22 3 2
+0 28 5 12
 1
 end_operator
 begin_operator
@@ -39879,8 +39879,8 @@ overcome prostatitis excitement flounder vulcan earth
 1
 1 5
 2
-0 28 5 12
 0 22 0 3
+0 28 5 12
 1
 end_operator
 begin_operator
@@ -39888,8 +39888,8 @@ overcome prostatitis excitement guava mercury neptune
 1
 1 6
 2
-0 28 6 12
 0 22 2 1
+0 28 6 12
 1
 end_operator
 begin_operator
@@ -39897,8 +39897,8 @@ overcome prostatitis excitement guava neptune vulcan
 1
 1 6
 2
-0 28 6 12
 0 22 3 2
+0 28 6 12
 1
 end_operator
 begin_operator
@@ -39906,8 +39906,8 @@ overcome prostatitis excitement guava vulcan earth
 1
 1 6
 2
-0 28 6 12
 0 22 0 3
+0 28 6 12
 1
 end_operator
 begin_operator
@@ -39915,8 +39915,8 @@ overcome prostatitis excitement marzipan mercury neptune
 1
 1 7
 2
-0 28 7 12
 0 22 2 1
+0 28 7 12
 1
 end_operator
 begin_operator
@@ -39924,8 +39924,8 @@ overcome prostatitis excitement marzipan neptune vulcan
 1
 1 7
 2
-0 28 7 12
 0 22 3 2
+0 28 7 12
 1
 end_operator
 begin_operator
@@ -39933,8 +39933,8 @@ overcome prostatitis excitement marzipan vulcan earth
 1
 1 7
 2
-0 28 7 12
 0 22 0 3
+0 28 7 12
 1
 end_operator
 begin_operator
@@ -39942,8 +39942,8 @@ overcome prostatitis excitement pepper mercury neptune
 1
 1 8
 2
-0 28 8 12
 0 22 2 1
+0 28 8 12
 1
 end_operator
 begin_operator
@@ -39951,8 +39951,8 @@ overcome prostatitis excitement pepper neptune vulcan
 1
 1 8
 2
-0 28 8 12
 0 22 3 2
+0 28 8 12
 1
 end_operator
 begin_operator
@@ -39960,8 +39960,8 @@ overcome prostatitis excitement pepper vulcan earth
 1
 1 8
 2
-0 28 8 12
 0 22 0 3
+0 28 8 12
 1
 end_operator
 begin_operator
@@ -39969,8 +39969,8 @@ overcome prostatitis excitement rice mercury neptune
 1
 1 9
 2
-0 28 9 12
 0 22 2 1
+0 28 9 12
 1
 end_operator
 begin_operator
@@ -39978,8 +39978,8 @@ overcome prostatitis excitement rice neptune vulcan
 1
 1 9
 2
-0 28 9 12
 0 22 3 2
+0 28 9 12
 1
 end_operator
 begin_operator
@@ -39987,8 +39987,8 @@ overcome prostatitis excitement rice vulcan earth
 1
 1 9
 2
-0 28 9 12
 0 22 0 3
+0 28 9 12
 1
 end_operator
 begin_operator
@@ -39996,8 +39996,8 @@ overcome prostatitis excitement wonderbread mercury neptune
 1
 1 10
 2
-0 28 10 12
 0 22 2 1
+0 28 10 12
 1
 end_operator
 begin_operator
@@ -40005,8 +40005,8 @@ overcome prostatitis excitement wonderbread neptune vulcan
 1
 1 10
 2
-0 28 10 12
 0 22 3 2
+0 28 10 12
 1
 end_operator
 begin_operator
@@ -40014,8 +40014,8 @@ overcome prostatitis excitement wonderbread vulcan earth
 1
 1 10
 2
-0 28 10 12
 0 22 0 3
+0 28 10 12
 1
 end_operator
 begin_operator
@@ -40023,8 +40023,8 @@ overcome prostatitis learning arugula mercury neptune
 1
 2 0
 2
-0 28 0 13
 0 25 2 1
+0 28 0 13
 1
 end_operator
 begin_operator
@@ -40032,8 +40032,8 @@ overcome prostatitis learning arugula neptune vulcan
 1
 2 0
 2
-0 28 0 13
 0 25 3 2
+0 28 0 13
 1
 end_operator
 begin_operator
@@ -40041,8 +40041,8 @@ overcome prostatitis learning arugula vulcan earth
 1
 2 0
 2
-0 28 0 13
 0 25 0 3
+0 28 0 13
 1
 end_operator
 begin_operator
@@ -40050,8 +40050,8 @@ overcome prostatitis learning bacon mercury neptune
 1
 2 1
 2
-0 28 1 13
 0 25 2 1
+0 28 1 13
 1
 end_operator
 begin_operator
@@ -40059,8 +40059,8 @@ overcome prostatitis learning bacon neptune vulcan
 1
 2 1
 2
-0 28 1 13
 0 25 3 2
+0 28 1 13
 1
 end_operator
 begin_operator
@@ -40068,8 +40068,8 @@ overcome prostatitis learning bacon vulcan earth
 1
 2 1
 2
-0 28 1 13
 0 25 0 3
+0 28 1 13
 1
 end_operator
 begin_operator
@@ -40077,8 +40077,8 @@ overcome prostatitis learning baguette mercury neptune
 1
 2 2
 2
-0 28 2 13
 0 25 2 1
+0 28 2 13
 1
 end_operator
 begin_operator
@@ -40086,8 +40086,8 @@ overcome prostatitis learning baguette neptune vulcan
 1
 2 2
 2
-0 28 2 13
 0 25 3 2
+0 28 2 13
 1
 end_operator
 begin_operator
@@ -40095,8 +40095,8 @@ overcome prostatitis learning baguette vulcan earth
 1
 2 2
 2
-0 28 2 13
 0 25 0 3
+0 28 2 13
 1
 end_operator
 begin_operator
@@ -40104,8 +40104,8 @@ overcome prostatitis learning chicken mercury neptune
 1
 2 3
 2
-0 28 3 13
 0 25 2 1
+0 28 3 13
 1
 end_operator
 begin_operator
@@ -40113,8 +40113,8 @@ overcome prostatitis learning chicken neptune vulcan
 1
 2 3
 2
-0 28 3 13
 0 25 3 2
+0 28 3 13
 1
 end_operator
 begin_operator
@@ -40122,8 +40122,8 @@ overcome prostatitis learning chicken vulcan earth
 1
 2 3
 2
-0 28 3 13
 0 25 0 3
+0 28 3 13
 1
 end_operator
 begin_operator
@@ -40131,8 +40131,8 @@ overcome prostatitis learning chocolate mercury neptune
 1
 2 4
 2
-0 28 4 13
 0 25 2 1
+0 28 4 13
 1
 end_operator
 begin_operator
@@ -40140,8 +40140,8 @@ overcome prostatitis learning chocolate neptune vulcan
 1
 2 4
 2
-0 28 4 13
 0 25 3 2
+0 28 4 13
 1
 end_operator
 begin_operator
@@ -40149,8 +40149,8 @@ overcome prostatitis learning chocolate vulcan earth
 1
 2 4
 2
-0 28 4 13
 0 25 0 3
+0 28 4 13
 1
 end_operator
 begin_operator
@@ -40158,8 +40158,8 @@ overcome prostatitis learning flounder mercury neptune
 1
 2 5
 2
-0 28 5 13
 0 25 2 1
+0 28 5 13
 1
 end_operator
 begin_operator
@@ -40167,8 +40167,8 @@ overcome prostatitis learning flounder neptune vulcan
 1
 2 5
 2
-0 28 5 13
 0 25 3 2
+0 28 5 13
 1
 end_operator
 begin_operator
@@ -40176,8 +40176,8 @@ overcome prostatitis learning flounder vulcan earth
 1
 2 5
 2
-0 28 5 13
 0 25 0 3
+0 28 5 13
 1
 end_operator
 begin_operator
@@ -40185,8 +40185,8 @@ overcome prostatitis learning guava mercury neptune
 1
 2 6
 2
-0 28 6 13
 0 25 2 1
+0 28 6 13
 1
 end_operator
 begin_operator
@@ -40194,8 +40194,8 @@ overcome prostatitis learning guava neptune vulcan
 1
 2 6
 2
-0 28 6 13
 0 25 3 2
+0 28 6 13
 1
 end_operator
 begin_operator
@@ -40203,8 +40203,8 @@ overcome prostatitis learning guava vulcan earth
 1
 2 6
 2
-0 28 6 13
 0 25 0 3
+0 28 6 13
 1
 end_operator
 begin_operator
@@ -40212,8 +40212,8 @@ overcome prostatitis learning marzipan mercury neptune
 1
 2 7
 2
-0 28 7 13
 0 25 2 1
+0 28 7 13
 1
 end_operator
 begin_operator
@@ -40221,8 +40221,8 @@ overcome prostatitis learning marzipan neptune vulcan
 1
 2 7
 2
-0 28 7 13
 0 25 3 2
+0 28 7 13
 1
 end_operator
 begin_operator
@@ -40230,8 +40230,8 @@ overcome prostatitis learning marzipan vulcan earth
 1
 2 7
 2
-0 28 7 13
 0 25 0 3
+0 28 7 13
 1
 end_operator
 begin_operator
@@ -40239,8 +40239,8 @@ overcome prostatitis learning pepper mercury neptune
 1
 2 8
 2
-0 28 8 13
 0 25 2 1
+0 28 8 13
 1
 end_operator
 begin_operator
@@ -40248,8 +40248,8 @@ overcome prostatitis learning pepper neptune vulcan
 1
 2 8
 2
-0 28 8 13
 0 25 3 2
+0 28 8 13
 1
 end_operator
 begin_operator
@@ -40257,8 +40257,8 @@ overcome prostatitis learning pepper vulcan earth
 1
 2 8
 2
-0 28 8 13
 0 25 0 3
+0 28 8 13
 1
 end_operator
 begin_operator
@@ -40266,8 +40266,8 @@ overcome prostatitis learning rice mercury neptune
 1
 2 9
 2
-0 28 9 13
 0 25 2 1
+0 28 9 13
 1
 end_operator
 begin_operator
@@ -40275,8 +40275,8 @@ overcome prostatitis learning rice neptune vulcan
 1
 2 9
 2
-0 28 9 13
 0 25 3 2
+0 28 9 13
 1
 end_operator
 begin_operator
@@ -40284,8 +40284,8 @@ overcome prostatitis learning rice vulcan earth
 1
 2 9
 2
-0 28 9 13
 0 25 0 3
+0 28 9 13
 1
 end_operator
 begin_operator
@@ -40293,8 +40293,8 @@ overcome prostatitis learning wonderbread mercury neptune
 1
 2 10
 2
-0 28 10 13
 0 25 2 1
+0 28 10 13
 1
 end_operator
 begin_operator
@@ -40302,8 +40302,8 @@ overcome prostatitis learning wonderbread neptune vulcan
 1
 2 10
 2
-0 28 10 13
 0 25 3 2
+0 28 10 13
 1
 end_operator
 begin_operator
@@ -40311,8 +40311,8 @@ overcome prostatitis learning wonderbread vulcan earth
 1
 2 10
 2
-0 28 10 13
 0 25 0 3
+0 28 10 13
 1
 end_operator
 begin_operator
@@ -40320,8 +40320,8 @@ overcome prostatitis rest arugula mercury neptune
 1
 3 0
 2
-0 28 0 14
 0 26 2 1
+0 28 0 14
 1
 end_operator
 begin_operator
@@ -40329,8 +40329,8 @@ overcome prostatitis rest arugula neptune vulcan
 1
 3 0
 2
-0 28 0 14
 0 26 3 2
+0 28 0 14
 1
 end_operator
 begin_operator
@@ -40338,8 +40338,8 @@ overcome prostatitis rest arugula vulcan earth
 1
 3 0
 2
-0 28 0 14
 0 26 0 3
+0 28 0 14
 1
 end_operator
 begin_operator
@@ -40347,8 +40347,8 @@ overcome prostatitis rest bacon mercury neptune
 1
 3 1
 2
-0 28 1 14
 0 26 2 1
+0 28 1 14
 1
 end_operator
 begin_operator
@@ -40356,8 +40356,8 @@ overcome prostatitis rest bacon neptune vulcan
 1
 3 1
 2
-0 28 1 14
 0 26 3 2
+0 28 1 14
 1
 end_operator
 begin_operator
@@ -40365,8 +40365,8 @@ overcome prostatitis rest bacon vulcan earth
 1
 3 1
 2
-0 28 1 14
 0 26 0 3
+0 28 1 14
 1
 end_operator
 begin_operator
@@ -40374,8 +40374,8 @@ overcome prostatitis rest baguette mercury neptune
 1
 3 2
 2
-0 28 2 14
 0 26 2 1
+0 28 2 14
 1
 end_operator
 begin_operator
@@ -40383,8 +40383,8 @@ overcome prostatitis rest baguette neptune vulcan
 1
 3 2
 2
-0 28 2 14
 0 26 3 2
+0 28 2 14
 1
 end_operator
 begin_operator
@@ -40392,8 +40392,8 @@ overcome prostatitis rest baguette vulcan earth
 1
 3 2
 2
-0 28 2 14
 0 26 0 3
+0 28 2 14
 1
 end_operator
 begin_operator
@@ -40401,8 +40401,8 @@ overcome prostatitis rest chicken mercury neptune
 1
 3 3
 2
-0 28 3 14
 0 26 2 1
+0 28 3 14
 1
 end_operator
 begin_operator
@@ -40410,8 +40410,8 @@ overcome prostatitis rest chicken neptune vulcan
 1
 3 3
 2
-0 28 3 14
 0 26 3 2
+0 28 3 14
 1
 end_operator
 begin_operator
@@ -40419,8 +40419,8 @@ overcome prostatitis rest chicken vulcan earth
 1
 3 3
 2
-0 28 3 14
 0 26 0 3
+0 28 3 14
 1
 end_operator
 begin_operator
@@ -40428,8 +40428,8 @@ overcome prostatitis rest chocolate mercury neptune
 1
 3 4
 2
-0 28 4 14
 0 26 2 1
+0 28 4 14
 1
 end_operator
 begin_operator
@@ -40437,8 +40437,8 @@ overcome prostatitis rest chocolate neptune vulcan
 1
 3 4
 2
-0 28 4 14
 0 26 3 2
+0 28 4 14
 1
 end_operator
 begin_operator
@@ -40446,8 +40446,8 @@ overcome prostatitis rest chocolate vulcan earth
 1
 3 4
 2
-0 28 4 14
 0 26 0 3
+0 28 4 14
 1
 end_operator
 begin_operator
@@ -40455,8 +40455,8 @@ overcome prostatitis rest flounder mercury neptune
 1
 3 5
 2
-0 28 5 14
 0 26 2 1
+0 28 5 14
 1
 end_operator
 begin_operator
@@ -40464,8 +40464,8 @@ overcome prostatitis rest flounder neptune vulcan
 1
 3 5
 2
-0 28 5 14
 0 26 3 2
+0 28 5 14
 1
 end_operator
 begin_operator
@@ -40473,8 +40473,8 @@ overcome prostatitis rest flounder vulcan earth
 1
 3 5
 2
-0 28 5 14
 0 26 0 3
+0 28 5 14
 1
 end_operator
 begin_operator
@@ -40482,8 +40482,8 @@ overcome prostatitis rest guava mercury neptune
 1
 3 6
 2
-0 28 6 14
 0 26 2 1
+0 28 6 14
 1
 end_operator
 begin_operator
@@ -40491,8 +40491,8 @@ overcome prostatitis rest guava neptune vulcan
 1
 3 6
 2
-0 28 6 14
 0 26 3 2
+0 28 6 14
 1
 end_operator
 begin_operator
@@ -40500,8 +40500,8 @@ overcome prostatitis rest guava vulcan earth
 1
 3 6
 2
-0 28 6 14
 0 26 0 3
+0 28 6 14
 1
 end_operator
 begin_operator
@@ -40509,8 +40509,8 @@ overcome prostatitis rest marzipan mercury neptune
 1
 3 7
 2
-0 28 7 14
 0 26 2 1
+0 28 7 14
 1
 end_operator
 begin_operator
@@ -40518,8 +40518,8 @@ overcome prostatitis rest marzipan neptune vulcan
 1
 3 7
 2
-0 28 7 14
 0 26 3 2
+0 28 7 14
 1
 end_operator
 begin_operator
@@ -40527,8 +40527,8 @@ overcome prostatitis rest marzipan vulcan earth
 1
 3 7
 2
-0 28 7 14
 0 26 0 3
+0 28 7 14
 1
 end_operator
 begin_operator
@@ -40536,8 +40536,8 @@ overcome prostatitis rest pepper mercury neptune
 1
 3 8
 2
-0 28 8 14
 0 26 2 1
+0 28 8 14
 1
 end_operator
 begin_operator
@@ -40545,8 +40545,8 @@ overcome prostatitis rest pepper neptune vulcan
 1
 3 8
 2
-0 28 8 14
 0 26 3 2
+0 28 8 14
 1
 end_operator
 begin_operator
@@ -40554,8 +40554,8 @@ overcome prostatitis rest pepper vulcan earth
 1
 3 8
 2
-0 28 8 14
 0 26 0 3
+0 28 8 14
 1
 end_operator
 begin_operator
@@ -40563,8 +40563,8 @@ overcome prostatitis rest rice mercury neptune
 1
 3 9
 2
-0 28 9 14
 0 26 2 1
+0 28 9 14
 1
 end_operator
 begin_operator
@@ -40572,8 +40572,8 @@ overcome prostatitis rest rice neptune vulcan
 1
 3 9
 2
-0 28 9 14
 0 26 3 2
+0 28 9 14
 1
 end_operator
 begin_operator
@@ -40581,8 +40581,8 @@ overcome prostatitis rest rice vulcan earth
 1
 3 9
 2
-0 28 9 14
 0 26 0 3
+0 28 9 14
 1
 end_operator
 begin_operator
@@ -40590,8 +40590,8 @@ overcome prostatitis rest wonderbread mercury neptune
 1
 3 10
 2
-0 28 10 14
 0 26 2 1
+0 28 10 14
 1
 end_operator
 begin_operator
@@ -40599,8 +40599,8 @@ overcome prostatitis rest wonderbread neptune vulcan
 1
 3 10
 2
-0 28 10 14
 0 26 3 2
+0 28 10 14
 1
 end_operator
 begin_operator
@@ -40608,8 +40608,8 @@ overcome prostatitis rest wonderbread vulcan earth
 1
 3 10
 2
-0 28 10 14
 0 26 0 3
+0 28 10 14
 1
 end_operator
 begin_operator
@@ -41508,8 +41508,8 @@ overcome sciatica achievement arugula mercury neptune
 1
 0 0
 2
-0 33 0 11
 0 21 2 1
+0 33 0 11
 1
 end_operator
 begin_operator
@@ -41517,8 +41517,8 @@ overcome sciatica achievement arugula neptune vulcan
 1
 0 0
 2
-0 33 0 11
 0 21 3 2
+0 33 0 11
 1
 end_operator
 begin_operator
@@ -41526,8 +41526,8 @@ overcome sciatica achievement arugula vulcan earth
 1
 0 0
 2
-0 33 0 11
 0 21 0 3
+0 33 0 11
 1
 end_operator
 begin_operator
@@ -41535,8 +41535,8 @@ overcome sciatica achievement bacon mercury neptune
 1
 0 1
 2
-0 33 1 11
 0 21 2 1
+0 33 1 11
 1
 end_operator
 begin_operator
@@ -41544,8 +41544,8 @@ overcome sciatica achievement bacon neptune vulcan
 1
 0 1
 2
-0 33 1 11
 0 21 3 2
+0 33 1 11
 1
 end_operator
 begin_operator
@@ -41553,8 +41553,8 @@ overcome sciatica achievement bacon vulcan earth
 1
 0 1
 2
-0 33 1 11
 0 21 0 3
+0 33 1 11
 1
 end_operator
 begin_operator
@@ -41562,8 +41562,8 @@ overcome sciatica achievement baguette mercury neptune
 1
 0 2
 2
-0 33 2 11
 0 21 2 1
+0 33 2 11
 1
 end_operator
 begin_operator
@@ -41571,8 +41571,8 @@ overcome sciatica achievement baguette neptune vulcan
 1
 0 2
 2
-0 33 2 11
 0 21 3 2
+0 33 2 11
 1
 end_operator
 begin_operator
@@ -41580,8 +41580,8 @@ overcome sciatica achievement baguette vulcan earth
 1
 0 2
 2
-0 33 2 11
 0 21 0 3
+0 33 2 11
 1
 end_operator
 begin_operator
@@ -41589,8 +41589,8 @@ overcome sciatica achievement chicken mercury neptune
 1
 0 3
 2
-0 33 3 11
 0 21 2 1
+0 33 3 11
 1
 end_operator
 begin_operator
@@ -41598,8 +41598,8 @@ overcome sciatica achievement chicken neptune vulcan
 1
 0 3
 2
-0 33 3 11
 0 21 3 2
+0 33 3 11
 1
 end_operator
 begin_operator
@@ -41607,8 +41607,8 @@ overcome sciatica achievement chicken vulcan earth
 1
 0 3
 2
-0 33 3 11
 0 21 0 3
+0 33 3 11
 1
 end_operator
 begin_operator
@@ -41616,8 +41616,8 @@ overcome sciatica achievement chocolate mercury neptune
 1
 0 4
 2
-0 33 4 11
 0 21 2 1
+0 33 4 11
 1
 end_operator
 begin_operator
@@ -41625,8 +41625,8 @@ overcome sciatica achievement chocolate neptune vulcan
 1
 0 4
 2
-0 33 4 11
 0 21 3 2
+0 33 4 11
 1
 end_operator
 begin_operator
@@ -41634,8 +41634,8 @@ overcome sciatica achievement chocolate vulcan earth
 1
 0 4
 2
-0 33 4 11
 0 21 0 3
+0 33 4 11
 1
 end_operator
 begin_operator
@@ -41643,8 +41643,8 @@ overcome sciatica achievement flounder mercury neptune
 1
 0 5
 2
-0 33 5 11
 0 21 2 1
+0 33 5 11
 1
 end_operator
 begin_operator
@@ -41652,8 +41652,8 @@ overcome sciatica achievement flounder neptune vulcan
 1
 0 5
 2
-0 33 5 11
 0 21 3 2
+0 33 5 11
 1
 end_operator
 begin_operator
@@ -41661,8 +41661,8 @@ overcome sciatica achievement flounder vulcan earth
 1
 0 5
 2
-0 33 5 11
 0 21 0 3
+0 33 5 11
 1
 end_operator
 begin_operator
@@ -41670,8 +41670,8 @@ overcome sciatica achievement guava mercury neptune
 1
 0 6
 2
-0 33 6 11
 0 21 2 1
+0 33 6 11
 1
 end_operator
 begin_operator
@@ -41679,8 +41679,8 @@ overcome sciatica achievement guava neptune vulcan
 1
 0 6
 2
-0 33 6 11
 0 21 3 2
+0 33 6 11
 1
 end_operator
 begin_operator
@@ -41688,8 +41688,8 @@ overcome sciatica achievement guava vulcan earth
 1
 0 6
 2
-0 33 6 11
 0 21 0 3
+0 33 6 11
 1
 end_operator
 begin_operator
@@ -41697,8 +41697,8 @@ overcome sciatica achievement marzipan mercury neptune
 1
 0 7
 2
-0 33 7 11
 0 21 2 1
+0 33 7 11
 1
 end_operator
 begin_operator
@@ -41706,8 +41706,8 @@ overcome sciatica achievement marzipan neptune vulcan
 1
 0 7
 2
-0 33 7 11
 0 21 3 2
+0 33 7 11
 1
 end_operator
 begin_operator
@@ -41715,8 +41715,8 @@ overcome sciatica achievement marzipan vulcan earth
 1
 0 7
 2
-0 33 7 11
 0 21 0 3
+0 33 7 11
 1
 end_operator
 begin_operator
@@ -41724,8 +41724,8 @@ overcome sciatica achievement pepper mercury neptune
 1
 0 8
 2
-0 33 8 11
 0 21 2 1
+0 33 8 11
 1
 end_operator
 begin_operator
@@ -41733,8 +41733,8 @@ overcome sciatica achievement pepper neptune vulcan
 1
 0 8
 2
-0 33 8 11
 0 21 3 2
+0 33 8 11
 1
 end_operator
 begin_operator
@@ -41742,8 +41742,8 @@ overcome sciatica achievement pepper vulcan earth
 1
 0 8
 2
-0 33 8 11
 0 21 0 3
+0 33 8 11
 1
 end_operator
 begin_operator
@@ -41751,8 +41751,8 @@ overcome sciatica achievement rice mercury neptune
 1
 0 9
 2
-0 33 9 11
 0 21 2 1
+0 33 9 11
 1
 end_operator
 begin_operator
@@ -41760,8 +41760,8 @@ overcome sciatica achievement rice neptune vulcan
 1
 0 9
 2
-0 33 9 11
 0 21 3 2
+0 33 9 11
 1
 end_operator
 begin_operator
@@ -41769,8 +41769,8 @@ overcome sciatica achievement rice vulcan earth
 1
 0 9
 2
-0 33 9 11
 0 21 0 3
+0 33 9 11
 1
 end_operator
 begin_operator
@@ -41778,8 +41778,8 @@ overcome sciatica achievement wonderbread mercury neptune
 1
 0 10
 2
-0 33 10 11
 0 21 2 1
+0 33 10 11
 1
 end_operator
 begin_operator
@@ -41787,8 +41787,8 @@ overcome sciatica achievement wonderbread neptune vulcan
 1
 0 10
 2
-0 33 10 11
 0 21 3 2
+0 33 10 11
 1
 end_operator
 begin_operator
@@ -41796,8 +41796,8 @@ overcome sciatica achievement wonderbread vulcan earth
 1
 0 10
 2
-0 33 10 11
 0 21 0 3
+0 33 10 11
 1
 end_operator
 begin_operator
@@ -41805,8 +41805,8 @@ overcome sciatica excitement arugula mercury neptune
 1
 1 0
 2
-0 33 0 12
 0 22 2 1
+0 33 0 12
 1
 end_operator
 begin_operator
@@ -41814,8 +41814,8 @@ overcome sciatica excitement arugula neptune vulcan
 1
 1 0
 2
-0 33 0 12
 0 22 3 2
+0 33 0 12
 1
 end_operator
 begin_operator
@@ -41823,8 +41823,8 @@ overcome sciatica excitement arugula vulcan earth
 1
 1 0
 2
-0 33 0 12
 0 22 0 3
+0 33 0 12
 1
 end_operator
 begin_operator
@@ -41832,8 +41832,8 @@ overcome sciatica excitement bacon mercury neptune
 1
 1 1
 2
-0 33 1 12
 0 22 2 1
+0 33 1 12
 1
 end_operator
 begin_operator
@@ -41841,8 +41841,8 @@ overcome sciatica excitement bacon neptune vulcan
 1
 1 1
 2
-0 33 1 12
 0 22 3 2
+0 33 1 12
 1
 end_operator
 begin_operator
@@ -41850,8 +41850,8 @@ overcome sciatica excitement bacon vulcan earth
 1
 1 1
 2
-0 33 1 12
 0 22 0 3
+0 33 1 12
 1
 end_operator
 begin_operator
@@ -41859,8 +41859,8 @@ overcome sciatica excitement baguette mercury neptune
 1
 1 2
 2
-0 33 2 12
 0 22 2 1
+0 33 2 12
 1
 end_operator
 begin_operator
@@ -41868,8 +41868,8 @@ overcome sciatica excitement baguette neptune vulcan
 1
 1 2
 2
-0 33 2 12
 0 22 3 2
+0 33 2 12
 1
 end_operator
 begin_operator
@@ -41877,8 +41877,8 @@ overcome sciatica excitement baguette vulcan earth
 1
 1 2
 2
-0 33 2 12
 0 22 0 3
+0 33 2 12
 1
 end_operator
 begin_operator
@@ -41886,8 +41886,8 @@ overcome sciatica excitement chicken mercury neptune
 1
 1 3
 2
-0 33 3 12
 0 22 2 1
+0 33 3 12
 1
 end_operator
 begin_operator
@@ -41895,8 +41895,8 @@ overcome sciatica excitement chicken neptune vulcan
 1
 1 3
 2
-0 33 3 12
 0 22 3 2
+0 33 3 12
 1
 end_operator
 begin_operator
@@ -41904,8 +41904,8 @@ overcome sciatica excitement chicken vulcan earth
 1
 1 3
 2
-0 33 3 12
 0 22 0 3
+0 33 3 12
 1
 end_operator
 begin_operator
@@ -41913,8 +41913,8 @@ overcome sciatica excitement chocolate mercury neptune
 1
 1 4
 2
-0 33 4 12
 0 22 2 1
+0 33 4 12
 1
 end_operator
 begin_operator
@@ -41922,8 +41922,8 @@ overcome sciatica excitement chocolate neptune vulcan
 1
 1 4
 2
-0 33 4 12
 0 22 3 2
+0 33 4 12
 1
 end_operator
 begin_operator
@@ -41931,8 +41931,8 @@ overcome sciatica excitement chocolate vulcan earth
 1
 1 4
 2
-0 33 4 12
 0 22 0 3
+0 33 4 12
 1
 end_operator
 begin_operator
@@ -41940,8 +41940,8 @@ overcome sciatica excitement flounder mercury neptune
 1
 1 5
 2
-0 33 5 12
 0 22 2 1
+0 33 5 12
 1
 end_operator
 begin_operator
@@ -41949,8 +41949,8 @@ overcome sciatica excitement flounder neptune vulcan
 1
 1 5
 2
-0 33 5 12
 0 22 3 2
+0 33 5 12
 1
 end_operator
 begin_operator
@@ -41958,8 +41958,8 @@ overcome sciatica excitement flounder vulcan earth
 1
 1 5
 2
-0 33 5 12
 0 22 0 3
+0 33 5 12
 1
 end_operator
 begin_operator
@@ -41967,8 +41967,8 @@ overcome sciatica excitement guava mercury neptune
 1
 1 6
 2
-0 33 6 12
 0 22 2 1
+0 33 6 12
 1
 end_operator
 begin_operator
@@ -41976,8 +41976,8 @@ overcome sciatica excitement guava neptune vulcan
 1
 1 6
 2
-0 33 6 12
 0 22 3 2
+0 33 6 12
 1
 end_operator
 begin_operator
@@ -41985,8 +41985,8 @@ overcome sciatica excitement guava vulcan earth
 1
 1 6
 2
-0 33 6 12
 0 22 0 3
+0 33 6 12
 1
 end_operator
 begin_operator
@@ -41994,8 +41994,8 @@ overcome sciatica excitement marzipan mercury neptune
 1
 1 7
 2
-0 33 7 12
 0 22 2 1
+0 33 7 12
 1
 end_operator
 begin_operator
@@ -42003,8 +42003,8 @@ overcome sciatica excitement marzipan neptune vulcan
 1
 1 7
 2
-0 33 7 12
 0 22 3 2
+0 33 7 12
 1
 end_operator
 begin_operator
@@ -42012,8 +42012,8 @@ overcome sciatica excitement marzipan vulcan earth
 1
 1 7
 2
-0 33 7 12
 0 22 0 3
+0 33 7 12
 1
 end_operator
 begin_operator
@@ -42021,8 +42021,8 @@ overcome sciatica excitement pepper mercury neptune
 1
 1 8
 2
-0 33 8 12
 0 22 2 1
+0 33 8 12
 1
 end_operator
 begin_operator
@@ -42030,8 +42030,8 @@ overcome sciatica excitement pepper neptune vulcan
 1
 1 8
 2
-0 33 8 12
 0 22 3 2
+0 33 8 12
 1
 end_operator
 begin_operator
@@ -42039,8 +42039,8 @@ overcome sciatica excitement pepper vulcan earth
 1
 1 8
 2
-0 33 8 12
 0 22 0 3
+0 33 8 12
 1
 end_operator
 begin_operator
@@ -42048,8 +42048,8 @@ overcome sciatica excitement rice mercury neptune
 1
 1 9
 2
-0 33 9 12
 0 22 2 1
+0 33 9 12
 1
 end_operator
 begin_operator
@@ -42057,8 +42057,8 @@ overcome sciatica excitement rice neptune vulcan
 1
 1 9
 2
-0 33 9 12
 0 22 3 2
+0 33 9 12
 1
 end_operator
 begin_operator
@@ -42066,8 +42066,8 @@ overcome sciatica excitement rice vulcan earth
 1
 1 9
 2
-0 33 9 12
 0 22 0 3
+0 33 9 12
 1
 end_operator
 begin_operator
@@ -42075,8 +42075,8 @@ overcome sciatica excitement wonderbread mercury neptune
 1
 1 10
 2
-0 33 10 12
 0 22 2 1
+0 33 10 12
 1
 end_operator
 begin_operator
@@ -42084,8 +42084,8 @@ overcome sciatica excitement wonderbread neptune vulcan
 1
 1 10
 2
-0 33 10 12
 0 22 3 2
+0 33 10 12
 1
 end_operator
 begin_operator
@@ -42093,8 +42093,8 @@ overcome sciatica excitement wonderbread vulcan earth
 1
 1 10
 2
-0 33 10 12
 0 22 0 3
+0 33 10 12
 1
 end_operator
 begin_operator
@@ -42102,8 +42102,8 @@ overcome sciatica learning arugula mercury neptune
 1
 2 0
 2
-0 33 0 13
 0 25 2 1
+0 33 0 13
 1
 end_operator
 begin_operator
@@ -42111,8 +42111,8 @@ overcome sciatica learning arugula neptune vulcan
 1
 2 0
 2
-0 33 0 13
 0 25 3 2
+0 33 0 13
 1
 end_operator
 begin_operator
@@ -42120,8 +42120,8 @@ overcome sciatica learning arugula vulcan earth
 1
 2 0
 2
-0 33 0 13
 0 25 0 3
+0 33 0 13
 1
 end_operator
 begin_operator
@@ -42129,8 +42129,8 @@ overcome sciatica learning bacon mercury neptune
 1
 2 1
 2
-0 33 1 13
 0 25 2 1
+0 33 1 13
 1
 end_operator
 begin_operator
@@ -42138,8 +42138,8 @@ overcome sciatica learning bacon neptune vulcan
 1
 2 1
 2
-0 33 1 13
 0 25 3 2
+0 33 1 13
 1
 end_operator
 begin_operator
@@ -42147,8 +42147,8 @@ overcome sciatica learning bacon vulcan earth
 1
 2 1
 2
-0 33 1 13
 0 25 0 3
+0 33 1 13
 1
 end_operator
 begin_operator
@@ -42156,8 +42156,8 @@ overcome sciatica learning baguette mercury neptune
 1
 2 2
 2
-0 33 2 13
 0 25 2 1
+0 33 2 13
 1
 end_operator
 begin_operator
@@ -42165,8 +42165,8 @@ overcome sciatica learning baguette neptune vulcan
 1
 2 2
 2
-0 33 2 13
 0 25 3 2
+0 33 2 13
 1
 end_operator
 begin_operator
@@ -42174,8 +42174,8 @@ overcome sciatica learning baguette vulcan earth
 1
 2 2
 2
-0 33 2 13
 0 25 0 3
+0 33 2 13
 1
 end_operator
 begin_operator
@@ -42183,8 +42183,8 @@ overcome sciatica learning chicken mercury neptune
 1
 2 3
 2
-0 33 3 13
 0 25 2 1
+0 33 3 13
 1
 end_operator
 begin_operator
@@ -42192,8 +42192,8 @@ overcome sciatica learning chicken neptune vulcan
 1
 2 3
 2
-0 33 3 13
 0 25 3 2
+0 33 3 13
 1
 end_operator
 begin_operator
@@ -42201,8 +42201,8 @@ overcome sciatica learning chicken vulcan earth
 1
 2 3
 2
-0 33 3 13
 0 25 0 3
+0 33 3 13
 1
 end_operator
 begin_operator
@@ -42210,8 +42210,8 @@ overcome sciatica learning chocolate mercury neptune
 1
 2 4
 2
-0 33 4 13
 0 25 2 1
+0 33 4 13
 1
 end_operator
 begin_operator
@@ -42219,8 +42219,8 @@ overcome sciatica learning chocolate neptune vulcan
 1
 2 4
 2
-0 33 4 13
 0 25 3 2
+0 33 4 13
 1
 end_operator
 begin_operator
@@ -42228,8 +42228,8 @@ overcome sciatica learning chocolate vulcan earth
 1
 2 4
 2
-0 33 4 13
 0 25 0 3
+0 33 4 13
 1
 end_operator
 begin_operator
@@ -42237,8 +42237,8 @@ overcome sciatica learning flounder mercury neptune
 1
 2 5
 2
-0 33 5 13
 0 25 2 1
+0 33 5 13
 1
 end_operator
 begin_operator
@@ -42246,8 +42246,8 @@ overcome sciatica learning flounder neptune vulcan
 1
 2 5
 2
-0 33 5 13
 0 25 3 2
+0 33 5 13
 1
 end_operator
 begin_operator
@@ -42255,8 +42255,8 @@ overcome sciatica learning flounder vulcan earth
 1
 2 5
 2
-0 33 5 13
 0 25 0 3
+0 33 5 13
 1
 end_operator
 begin_operator
@@ -42264,8 +42264,8 @@ overcome sciatica learning guava mercury neptune
 1
 2 6
 2
-0 33 6 13
 0 25 2 1
+0 33 6 13
 1
 end_operator
 begin_operator
@@ -42273,8 +42273,8 @@ overcome sciatica learning guava neptune vulcan
 1
 2 6
 2
-0 33 6 13
 0 25 3 2
+0 33 6 13
 1
 end_operator
 begin_operator
@@ -42282,8 +42282,8 @@ overcome sciatica learning guava vulcan earth
 1
 2 6
 2
-0 33 6 13
 0 25 0 3
+0 33 6 13
 1
 end_operator
 begin_operator
@@ -42291,8 +42291,8 @@ overcome sciatica learning marzipan mercury neptune
 1
 2 7
 2
-0 33 7 13
 0 25 2 1
+0 33 7 13
 1
 end_operator
 begin_operator
@@ -42300,8 +42300,8 @@ overcome sciatica learning marzipan neptune vulcan
 1
 2 7
 2
-0 33 7 13
 0 25 3 2
+0 33 7 13
 1
 end_operator
 begin_operator
@@ -42309,8 +42309,8 @@ overcome sciatica learning marzipan vulcan earth
 1
 2 7
 2
-0 33 7 13
 0 25 0 3
+0 33 7 13
 1
 end_operator
 begin_operator
@@ -42318,8 +42318,8 @@ overcome sciatica learning pepper mercury neptune
 1
 2 8
 2
-0 33 8 13
 0 25 2 1
+0 33 8 13
 1
 end_operator
 begin_operator
@@ -42327,8 +42327,8 @@ overcome sciatica learning pepper neptune vulcan
 1
 2 8
 2
-0 33 8 13
 0 25 3 2
+0 33 8 13
 1
 end_operator
 begin_operator
@@ -42336,8 +42336,8 @@ overcome sciatica learning pepper vulcan earth
 1
 2 8
 2
-0 33 8 13
 0 25 0 3
+0 33 8 13
 1
 end_operator
 begin_operator
@@ -42345,8 +42345,8 @@ overcome sciatica learning rice mercury neptune
 1
 2 9
 2
-0 33 9 13
 0 25 2 1
+0 33 9 13
 1
 end_operator
 begin_operator
@@ -42354,8 +42354,8 @@ overcome sciatica learning rice neptune vulcan
 1
 2 9
 2
-0 33 9 13
 0 25 3 2
+0 33 9 13
 1
 end_operator
 begin_operator
@@ -42363,8 +42363,8 @@ overcome sciatica learning rice vulcan earth
 1
 2 9
 2
-0 33 9 13
 0 25 0 3
+0 33 9 13
 1
 end_operator
 begin_operator
@@ -42372,8 +42372,8 @@ overcome sciatica learning wonderbread mercury neptune
 1
 2 10
 2
-0 33 10 13
 0 25 2 1
+0 33 10 13
 1
 end_operator
 begin_operator
@@ -42381,8 +42381,8 @@ overcome sciatica learning wonderbread neptune vulcan
 1
 2 10
 2
-0 33 10 13
 0 25 3 2
+0 33 10 13
 1
 end_operator
 begin_operator
@@ -42390,8 +42390,8 @@ overcome sciatica learning wonderbread vulcan earth
 1
 2 10
 2
-0 33 10 13
 0 25 0 3
+0 33 10 13
 1
 end_operator
 begin_operator
@@ -42399,8 +42399,8 @@ overcome sciatica rest arugula mercury neptune
 1
 3 0
 2
-0 33 0 14
 0 26 2 1
+0 33 0 14
 1
 end_operator
 begin_operator
@@ -42408,8 +42408,8 @@ overcome sciatica rest arugula neptune vulcan
 1
 3 0
 2
-0 33 0 14
 0 26 3 2
+0 33 0 14
 1
 end_operator
 begin_operator
@@ -42417,8 +42417,8 @@ overcome sciatica rest arugula vulcan earth
 1
 3 0
 2
-0 33 0 14
 0 26 0 3
+0 33 0 14
 1
 end_operator
 begin_operator
@@ -42426,8 +42426,8 @@ overcome sciatica rest bacon mercury neptune
 1
 3 1
 2
-0 33 1 14
 0 26 2 1
+0 33 1 14
 1
 end_operator
 begin_operator
@@ -42435,8 +42435,8 @@ overcome sciatica rest bacon neptune vulcan
 1
 3 1
 2
-0 33 1 14
 0 26 3 2
+0 33 1 14
 1
 end_operator
 begin_operator
@@ -42444,8 +42444,8 @@ overcome sciatica rest bacon vulcan earth
 1
 3 1
 2
-0 33 1 14
 0 26 0 3
+0 33 1 14
 1
 end_operator
 begin_operator
@@ -42453,8 +42453,8 @@ overcome sciatica rest baguette mercury neptune
 1
 3 2
 2
-0 33 2 14
 0 26 2 1
+0 33 2 14
 1
 end_operator
 begin_operator
@@ -42462,8 +42462,8 @@ overcome sciatica rest baguette neptune vulcan
 1
 3 2
 2
-0 33 2 14
 0 26 3 2
+0 33 2 14
 1
 end_operator
 begin_operator
@@ -42471,8 +42471,8 @@ overcome sciatica rest baguette vulcan earth
 1
 3 2
 2
-0 33 2 14
 0 26 0 3
+0 33 2 14
 1
 end_operator
 begin_operator
@@ -42480,8 +42480,8 @@ overcome sciatica rest chicken mercury neptune
 1
 3 3
 2
-0 33 3 14
 0 26 2 1
+0 33 3 14
 1
 end_operator
 begin_operator
@@ -42489,8 +42489,8 @@ overcome sciatica rest chicken neptune vulcan
 1
 3 3
 2
-0 33 3 14
 0 26 3 2
+0 33 3 14
 1
 end_operator
 begin_operator
@@ -42498,8 +42498,8 @@ overcome sciatica rest chicken vulcan earth
 1
 3 3
 2
-0 33 3 14
 0 26 0 3
+0 33 3 14
 1
 end_operator
 begin_operator
@@ -42507,8 +42507,8 @@ overcome sciatica rest chocolate mercury neptune
 1
 3 4
 2
-0 33 4 14
 0 26 2 1
+0 33 4 14
 1
 end_operator
 begin_operator
@@ -42516,8 +42516,8 @@ overcome sciatica rest chocolate neptune vulcan
 1
 3 4
 2
-0 33 4 14
 0 26 3 2
+0 33 4 14
 1
 end_operator
 begin_operator
@@ -42525,8 +42525,8 @@ overcome sciatica rest chocolate vulcan earth
 1
 3 4
 2
-0 33 4 14
 0 26 0 3
+0 33 4 14
 1
 end_operator
 begin_operator
@@ -42534,8 +42534,8 @@ overcome sciatica rest flounder mercury neptune
 1
 3 5
 2
-0 33 5 14
 0 26 2 1
+0 33 5 14
 1
 end_operator
 begin_operator
@@ -42543,8 +42543,8 @@ overcome sciatica rest flounder neptune vulcan
 1
 3 5
 2
-0 33 5 14
 0 26 3 2
+0 33 5 14
 1
 end_operator
 begin_operator
@@ -42552,8 +42552,8 @@ overcome sciatica rest flounder vulcan earth
 1
 3 5
 2
-0 33 5 14
 0 26 0 3
+0 33 5 14
 1
 end_operator
 begin_operator
@@ -42561,8 +42561,8 @@ overcome sciatica rest guava mercury neptune
 1
 3 6
 2
-0 33 6 14
 0 26 2 1
+0 33 6 14
 1
 end_operator
 begin_operator
@@ -42570,8 +42570,8 @@ overcome sciatica rest guava neptune vulcan
 1
 3 6
 2
-0 33 6 14
 0 26 3 2
+0 33 6 14
 1
 end_operator
 begin_operator
@@ -42579,8 +42579,8 @@ overcome sciatica rest guava vulcan earth
 1
 3 6
 2
-0 33 6 14
 0 26 0 3
+0 33 6 14
 1
 end_operator
 begin_operator
@@ -42588,8 +42588,8 @@ overcome sciatica rest marzipan mercury neptune
 1
 3 7
 2
-0 33 7 14
 0 26 2 1
+0 33 7 14
 1
 end_operator
 begin_operator
@@ -42597,8 +42597,8 @@ overcome sciatica rest marzipan neptune vulcan
 1
 3 7
 2
-0 33 7 14
 0 26 3 2
+0 33 7 14
 1
 end_operator
 begin_operator
@@ -42606,8 +42606,8 @@ overcome sciatica rest marzipan vulcan earth
 1
 3 7
 2
-0 33 7 14
 0 26 0 3
+0 33 7 14
 1
 end_operator
 begin_operator
@@ -42615,8 +42615,8 @@ overcome sciatica rest pepper mercury neptune
 1
 3 8
 2
-0 33 8 14
 0 26 2 1
+0 33 8 14
 1
 end_operator
 begin_operator
@@ -42624,8 +42624,8 @@ overcome sciatica rest pepper neptune vulcan
 1
 3 8
 2
-0 33 8 14
 0 26 3 2
+0 33 8 14
 1
 end_operator
 begin_operator
@@ -42633,8 +42633,8 @@ overcome sciatica rest pepper vulcan earth
 1
 3 8
 2
-0 33 8 14
 0 26 0 3
+0 33 8 14
 1
 end_operator
 begin_operator
@@ -42642,8 +42642,8 @@ overcome sciatica rest rice mercury neptune
 1
 3 9
 2
-0 33 9 14
 0 26 2 1
+0 33 9 14
 1
 end_operator
 begin_operator
@@ -42651,8 +42651,8 @@ overcome sciatica rest rice neptune vulcan
 1
 3 9
 2
-0 33 9 14
 0 26 3 2
+0 33 9 14
 1
 end_operator
 begin_operator
@@ -42660,8 +42660,8 @@ overcome sciatica rest rice vulcan earth
 1
 3 9
 2
-0 33 9 14
 0 26 0 3
+0 33 9 14
 1
 end_operator
 begin_operator
@@ -42669,8 +42669,8 @@ overcome sciatica rest wonderbread mercury neptune
 1
 3 10
 2
-0 33 10 14
 0 26 2 1
+0 33 10 14
 1
 end_operator
 begin_operator
@@ -42678,8 +42678,8 @@ overcome sciatica rest wonderbread neptune vulcan
 1
 3 10
 2
-0 33 10 14
 0 26 3 2
+0 33 10 14
 1
 end_operator
 begin_operator
@@ -42687,8 +42687,8 @@ overcome sciatica rest wonderbread vulcan earth
 1
 3 10
 2
-0 33 10 14
 0 26 0 3
+0 33 10 14
 1
 end_operator
 begin_operator
@@ -42696,8 +42696,8 @@ overcome sciatica satiety arugula mercury neptune
 1
 4 0
 2
-0 33 0 15
 0 29 2 1
+0 33 0 15
 1
 end_operator
 begin_operator
@@ -42705,8 +42705,8 @@ overcome sciatica satiety arugula neptune vulcan
 1
 4 0
 2
-0 33 0 15
 0 29 3 2
+0 33 0 15
 1
 end_operator
 begin_operator
@@ -42714,8 +42714,8 @@ overcome sciatica satiety arugula vulcan earth
 1
 4 0
 2
-0 33 0 15
 0 29 0 3
+0 33 0 15
 1
 end_operator
 begin_operator
@@ -42723,8 +42723,8 @@ overcome sciatica satiety bacon mercury neptune
 1
 4 1
 2
-0 33 1 15
 0 29 2 1
+0 33 1 15
 1
 end_operator
 begin_operator
@@ -42732,8 +42732,8 @@ overcome sciatica satiety bacon neptune vulcan
 1
 4 1
 2
-0 33 1 15
 0 29 3 2
+0 33 1 15
 1
 end_operator
 begin_operator
@@ -42741,8 +42741,8 @@ overcome sciatica satiety bacon vulcan earth
 1
 4 1
 2
-0 33 1 15
 0 29 0 3
+0 33 1 15
 1
 end_operator
 begin_operator
@@ -42750,8 +42750,8 @@ overcome sciatica satiety baguette mercury neptune
 1
 4 2
 2
-0 33 2 15
 0 29 2 1
+0 33 2 15
 1
 end_operator
 begin_operator
@@ -42759,8 +42759,8 @@ overcome sciatica satiety baguette neptune vulcan
 1
 4 2
 2
-0 33 2 15
 0 29 3 2
+0 33 2 15
 1
 end_operator
 begin_operator
@@ -42768,8 +42768,8 @@ overcome sciatica satiety baguette vulcan earth
 1
 4 2
 2
-0 33 2 15
 0 29 0 3
+0 33 2 15
 1
 end_operator
 begin_operator
@@ -42777,8 +42777,8 @@ overcome sciatica satiety chicken mercury neptune
 1
 4 3
 2
-0 33 3 15
 0 29 2 1
+0 33 3 15
 1
 end_operator
 begin_operator
@@ -42786,8 +42786,8 @@ overcome sciatica satiety chicken neptune vulcan
 1
 4 3
 2
-0 33 3 15
 0 29 3 2
+0 33 3 15
 1
 end_operator
 begin_operator
@@ -42795,8 +42795,8 @@ overcome sciatica satiety chicken vulcan earth
 1
 4 3
 2
-0 33 3 15
 0 29 0 3
+0 33 3 15
 1
 end_operator
 begin_operator
@@ -42804,8 +42804,8 @@ overcome sciatica satiety chocolate mercury neptune
 1
 4 4
 2
-0 33 4 15
 0 29 2 1
+0 33 4 15
 1
 end_operator
 begin_operator
@@ -42813,8 +42813,8 @@ overcome sciatica satiety chocolate neptune vulcan
 1
 4 4
 2
-0 33 4 15
 0 29 3 2
+0 33 4 15
 1
 end_operator
 begin_operator
@@ -42822,8 +42822,8 @@ overcome sciatica satiety chocolate vulcan earth
 1
 4 4
 2
-0 33 4 15
 0 29 0 3
+0 33 4 15
 1
 end_operator
 begin_operator
@@ -42831,8 +42831,8 @@ overcome sciatica satiety flounder mercury neptune
 1
 4 5
 2
-0 33 5 15
 0 29 2 1
+0 33 5 15
 1
 end_operator
 begin_operator
@@ -42840,8 +42840,8 @@ overcome sciatica satiety flounder neptune vulcan
 1
 4 5
 2
-0 33 5 15
 0 29 3 2
+0 33 5 15
 1
 end_operator
 begin_operator
@@ -42849,8 +42849,8 @@ overcome sciatica satiety flounder vulcan earth
 1
 4 5
 2
-0 33 5 15
 0 29 0 3
+0 33 5 15
 1
 end_operator
 begin_operator
@@ -42858,8 +42858,8 @@ overcome sciatica satiety guava mercury neptune
 1
 4 6
 2
-0 33 6 15
 0 29 2 1
+0 33 6 15
 1
 end_operator
 begin_operator
@@ -42867,8 +42867,8 @@ overcome sciatica satiety guava neptune vulcan
 1
 4 6
 2
-0 33 6 15
 0 29 3 2
+0 33 6 15
 1
 end_operator
 begin_operator
@@ -42876,8 +42876,8 @@ overcome sciatica satiety guava vulcan earth
 1
 4 6
 2
-0 33 6 15
 0 29 0 3
+0 33 6 15
 1
 end_operator
 begin_operator
@@ -42885,8 +42885,8 @@ overcome sciatica satiety marzipan mercury neptune
 1
 4 7
 2
-0 33 7 15
 0 29 2 1
+0 33 7 15
 1
 end_operator
 begin_operator
@@ -42894,8 +42894,8 @@ overcome sciatica satiety marzipan neptune vulcan
 1
 4 7
 2
-0 33 7 15
 0 29 3 2
+0 33 7 15
 1
 end_operator
 begin_operator
@@ -42903,8 +42903,8 @@ overcome sciatica satiety marzipan vulcan earth
 1
 4 7
 2
-0 33 7 15
 0 29 0 3
+0 33 7 15
 1
 end_operator
 begin_operator
@@ -42912,8 +42912,8 @@ overcome sciatica satiety pepper mercury neptune
 1
 4 8
 2
-0 33 8 15
 0 29 2 1
+0 33 8 15
 1
 end_operator
 begin_operator
@@ -42921,8 +42921,8 @@ overcome sciatica satiety pepper neptune vulcan
 1
 4 8
 2
-0 33 8 15
 0 29 3 2
+0 33 8 15
 1
 end_operator
 begin_operator
@@ -42930,8 +42930,8 @@ overcome sciatica satiety pepper vulcan earth
 1
 4 8
 2
-0 33 8 15
 0 29 0 3
+0 33 8 15
 1
 end_operator
 begin_operator
@@ -42939,8 +42939,8 @@ overcome sciatica satiety rice mercury neptune
 1
 4 9
 2
-0 33 9 15
 0 29 2 1
+0 33 9 15
 1
 end_operator
 begin_operator
@@ -42948,8 +42948,8 @@ overcome sciatica satiety rice neptune vulcan
 1
 4 9
 2
-0 33 9 15
 0 29 3 2
+0 33 9 15
 1
 end_operator
 begin_operator
@@ -42957,8 +42957,8 @@ overcome sciatica satiety rice vulcan earth
 1
 4 9
 2
-0 33 9 15
 0 29 0 3
+0 33 9 15
 1
 end_operator
 begin_operator
@@ -42966,8 +42966,8 @@ overcome sciatica satiety wonderbread mercury neptune
 1
 4 10
 2
-0 33 10 15
 0 29 2 1
+0 33 10 15
 1
 end_operator
 begin_operator
@@ -42975,8 +42975,8 @@ overcome sciatica satiety wonderbread neptune vulcan
 1
 4 10
 2
-0 33 10 15
 0 29 3 2
+0 33 10 15
 1
 end_operator
 begin_operator
@@ -42984,8 +42984,8 @@ overcome sciatica satiety wonderbread vulcan earth
 1
 4 10
 2
-0 33 10 15
 0 29 0 3
+0 33 10 15
 1
 end_operator
 begin_operator
@@ -42993,8 +42993,8 @@ overcome sciatica stimulation arugula mercury neptune
 1
 5 0
 2
-0 33 0 16
 0 30 2 1
+0 33 0 16
 1
 end_operator
 begin_operator
@@ -43002,8 +43002,8 @@ overcome sciatica stimulation arugula neptune vulcan
 1
 5 0
 2
-0 33 0 16
 0 30 3 2
+0 33 0 16
 1
 end_operator
 begin_operator
@@ -43011,8 +43011,8 @@ overcome sciatica stimulation arugula vulcan earth
 1
 5 0
 2
-0 33 0 16
 0 30 0 3
+0 33 0 16
 1
 end_operator
 begin_operator
@@ -43020,8 +43020,8 @@ overcome sciatica stimulation bacon mercury neptune
 1
 5 1
 2
-0 33 1 16
 0 30 2 1
+0 33 1 16
 1
 end_operator
 begin_operator
@@ -43029,8 +43029,8 @@ overcome sciatica stimulation bacon neptune vulcan
 1
 5 1
 2
-0 33 1 16
 0 30 3 2
+0 33 1 16
 1
 end_operator
 begin_operator
@@ -43038,8 +43038,8 @@ overcome sciatica stimulation bacon vulcan earth
 1
 5 1
 2
-0 33 1 16
 0 30 0 3
+0 33 1 16
 1
 end_operator
 begin_operator
@@ -43047,8 +43047,8 @@ overcome sciatica stimulation baguette mercury neptune
 1
 5 2
 2
-0 33 2 16
 0 30 2 1
+0 33 2 16
 1
 end_operator
 begin_operator
@@ -43056,8 +43056,8 @@ overcome sciatica stimulation baguette neptune vulcan
 1
 5 2
 2
-0 33 2 16
 0 30 3 2
+0 33 2 16
 1
 end_operator
 begin_operator
@@ -43065,8 +43065,8 @@ overcome sciatica stimulation baguette vulcan earth
 1
 5 2
 2
-0 33 2 16
 0 30 0 3
+0 33 2 16
 1
 end_operator
 begin_operator
@@ -43074,8 +43074,8 @@ overcome sciatica stimulation chicken mercury neptune
 1
 5 3
 2
-0 33 3 16
 0 30 2 1
+0 33 3 16
 1
 end_operator
 begin_operator
@@ -43083,8 +43083,8 @@ overcome sciatica stimulation chicken neptune vulcan
 1
 5 3
 2
-0 33 3 16
 0 30 3 2
+0 33 3 16
 1
 end_operator
 begin_operator
@@ -43092,8 +43092,8 @@ overcome sciatica stimulation chicken vulcan earth
 1
 5 3
 2
-0 33 3 16
 0 30 0 3
+0 33 3 16
 1
 end_operator
 begin_operator
@@ -43101,8 +43101,8 @@ overcome sciatica stimulation chocolate mercury neptune
 1
 5 4
 2
-0 33 4 16
 0 30 2 1
+0 33 4 16
 1
 end_operator
 begin_operator
@@ -43110,8 +43110,8 @@ overcome sciatica stimulation chocolate neptune vulcan
 1
 5 4
 2
-0 33 4 16
 0 30 3 2
+0 33 4 16
 1
 end_operator
 begin_operator
@@ -43119,8 +43119,8 @@ overcome sciatica stimulation chocolate vulcan earth
 1
 5 4
 2
-0 33 4 16
 0 30 0 3
+0 33 4 16
 1
 end_operator
 begin_operator
@@ -43128,8 +43128,8 @@ overcome sciatica stimulation flounder mercury neptune
 1
 5 5
 2
-0 33 5 16
 0 30 2 1
+0 33 5 16
 1
 end_operator
 begin_operator
@@ -43137,8 +43137,8 @@ overcome sciatica stimulation flounder neptune vulcan
 1
 5 5
 2
-0 33 5 16
 0 30 3 2
+0 33 5 16
 1
 end_operator
 begin_operator
@@ -43146,8 +43146,8 @@ overcome sciatica stimulation flounder vulcan earth
 1
 5 5
 2
-0 33 5 16
 0 30 0 3
+0 33 5 16
 1
 end_operator
 begin_operator
@@ -43155,8 +43155,8 @@ overcome sciatica stimulation guava mercury neptune
 1
 5 6
 2
-0 33 6 16
 0 30 2 1
+0 33 6 16
 1
 end_operator
 begin_operator
@@ -43164,8 +43164,8 @@ overcome sciatica stimulation guava neptune vulcan
 1
 5 6
 2
-0 33 6 16
 0 30 3 2
+0 33 6 16
 1
 end_operator
 begin_operator
@@ -43173,8 +43173,8 @@ overcome sciatica stimulation guava vulcan earth
 1
 5 6
 2
-0 33 6 16
 0 30 0 3
+0 33 6 16
 1
 end_operator
 begin_operator
@@ -43182,8 +43182,8 @@ overcome sciatica stimulation marzipan mercury neptune
 1
 5 7
 2
-0 33 7 16
 0 30 2 1
+0 33 7 16
 1
 end_operator
 begin_operator
@@ -43191,8 +43191,8 @@ overcome sciatica stimulation marzipan neptune vulcan
 1
 5 7
 2
-0 33 7 16
 0 30 3 2
+0 33 7 16
 1
 end_operator
 begin_operator
@@ -43200,8 +43200,8 @@ overcome sciatica stimulation marzipan vulcan earth
 1
 5 7
 2
-0 33 7 16
 0 30 0 3
+0 33 7 16
 1
 end_operator
 begin_operator
@@ -43209,8 +43209,8 @@ overcome sciatica stimulation pepper mercury neptune
 1
 5 8
 2
-0 33 8 16
 0 30 2 1
+0 33 8 16
 1
 end_operator
 begin_operator
@@ -43218,8 +43218,8 @@ overcome sciatica stimulation pepper neptune vulcan
 1
 5 8
 2
-0 33 8 16
 0 30 3 2
+0 33 8 16
 1
 end_operator
 begin_operator
@@ -43227,8 +43227,8 @@ overcome sciatica stimulation pepper vulcan earth
 1
 5 8
 2
-0 33 8 16
 0 30 0 3
+0 33 8 16
 1
 end_operator
 begin_operator
@@ -43236,8 +43236,8 @@ overcome sciatica stimulation rice mercury neptune
 1
 5 9
 2
-0 33 9 16
 0 30 2 1
+0 33 9 16
 1
 end_operator
 begin_operator
@@ -43245,8 +43245,8 @@ overcome sciatica stimulation rice neptune vulcan
 1
 5 9
 2
-0 33 9 16
 0 30 3 2
+0 33 9 16
 1
 end_operator
 begin_operator
@@ -43254,8 +43254,8 @@ overcome sciatica stimulation rice vulcan earth
 1
 5 9
 2
-0 33 9 16
 0 30 0 3
+0 33 9 16
 1
 end_operator
 begin_operator
@@ -43263,8 +43263,8 @@ overcome sciatica stimulation wonderbread mercury neptune
 1
 5 10
 2
-0 33 10 16
 0 30 2 1
+0 33 10 16
 1
 end_operator
 begin_operator
@@ -43272,8 +43272,8 @@ overcome sciatica stimulation wonderbread neptune vulcan
 1
 5 10
 2
-0 33 10 16
 0 30 3 2
+0 33 10 16
 1
 end_operator
 begin_operator
@@ -43281,8 +43281,8 @@ overcome sciatica stimulation wonderbread vulcan earth
 1
 5 10
 2
-0 33 10 16
 0 30 0 3
+0 33 10 16
 1
 end_operator
 begin_operator
@@ -43290,8 +43290,8 @@ overcome sciatica triumph arugula mercury neptune
 1
 6 0
 2
-0 33 0 17
 0 31 2 1
+0 33 0 17
 1
 end_operator
 begin_operator
@@ -43299,8 +43299,8 @@ overcome sciatica triumph arugula neptune vulcan
 1
 6 0
 2
-0 33 0 17
 0 31 3 2
+0 33 0 17
 1
 end_operator
 begin_operator
@@ -43308,8 +43308,8 @@ overcome sciatica triumph arugula vulcan earth
 1
 6 0
 2
-0 33 0 17
 0 31 0 3
+0 33 0 17
 1
 end_operator
 begin_operator
@@ -43317,8 +43317,8 @@ overcome sciatica triumph bacon mercury neptune
 1
 6 1
 2
-0 33 1 17
 0 31 2 1
+0 33 1 17
 1
 end_operator
 begin_operator
@@ -43326,8 +43326,8 @@ overcome sciatica triumph bacon neptune vulcan
 1
 6 1
 2
-0 33 1 17
 0 31 3 2
+0 33 1 17
 1
 end_operator
 begin_operator
@@ -43335,8 +43335,8 @@ overcome sciatica triumph bacon vulcan earth
 1
 6 1
 2
-0 33 1 17
 0 31 0 3
+0 33 1 17
 1
 end_operator
 begin_operator
@@ -43344,8 +43344,8 @@ overcome sciatica triumph baguette mercury neptune
 1
 6 2
 2
-0 33 2 17
 0 31 2 1
+0 33 2 17
 1
 end_operator
 begin_operator
@@ -43353,8 +43353,8 @@ overcome sciatica triumph baguette neptune vulcan
 1
 6 2
 2
-0 33 2 17
 0 31 3 2
+0 33 2 17
 1
 end_operator
 begin_operator
@@ -43362,8 +43362,8 @@ overcome sciatica triumph baguette vulcan earth
 1
 6 2
 2
-0 33 2 17
 0 31 0 3
+0 33 2 17
 1
 end_operator
 begin_operator
@@ -43371,8 +43371,8 @@ overcome sciatica triumph chicken mercury neptune
 1
 6 3
 2
-0 33 3 17
 0 31 2 1
+0 33 3 17
 1
 end_operator
 begin_operator
@@ -43380,8 +43380,8 @@ overcome sciatica triumph chicken neptune vulcan
 1
 6 3
 2
-0 33 3 17
 0 31 3 2
+0 33 3 17
 1
 end_operator
 begin_operator
@@ -43389,8 +43389,8 @@ overcome sciatica triumph chicken vulcan earth
 1
 6 3
 2
-0 33 3 17
 0 31 0 3
+0 33 3 17
 1
 end_operator
 begin_operator
@@ -43398,8 +43398,8 @@ overcome sciatica triumph chocolate mercury neptune
 1
 6 4
 2
-0 33 4 17
 0 31 2 1
+0 33 4 17
 1
 end_operator
 begin_operator
@@ -43407,8 +43407,8 @@ overcome sciatica triumph chocolate neptune vulcan
 1
 6 4
 2
-0 33 4 17
 0 31 3 2
+0 33 4 17
 1
 end_operator
 begin_operator
@@ -43416,8 +43416,8 @@ overcome sciatica triumph chocolate vulcan earth
 1
 6 4
 2
-0 33 4 17
 0 31 0 3
+0 33 4 17
 1
 end_operator
 begin_operator
@@ -43425,8 +43425,8 @@ overcome sciatica triumph flounder mercury neptune
 1
 6 5
 2
-0 33 5 17
 0 31 2 1
+0 33 5 17
 1
 end_operator
 begin_operator
@@ -43434,8 +43434,8 @@ overcome sciatica triumph flounder neptune vulcan
 1
 6 5
 2
-0 33 5 17
 0 31 3 2
+0 33 5 17
 1
 end_operator
 begin_operator
@@ -43443,8 +43443,8 @@ overcome sciatica triumph flounder vulcan earth
 1
 6 5
 2
-0 33 5 17
 0 31 0 3
+0 33 5 17
 1
 end_operator
 begin_operator
@@ -43452,8 +43452,8 @@ overcome sciatica triumph guava mercury neptune
 1
 6 6
 2
-0 33 6 17
 0 31 2 1
+0 33 6 17
 1
 end_operator
 begin_operator
@@ -43461,8 +43461,8 @@ overcome sciatica triumph guava neptune vulcan
 1
 6 6
 2
-0 33 6 17
 0 31 3 2
+0 33 6 17
 1
 end_operator
 begin_operator
@@ -43470,8 +43470,8 @@ overcome sciatica triumph guava vulcan earth
 1
 6 6
 2
-0 33 6 17
 0 31 0 3
+0 33 6 17
 1
 end_operator
 begin_operator
@@ -43479,8 +43479,8 @@ overcome sciatica triumph marzipan mercury neptune
 1
 6 7
 2
-0 33 7 17
 0 31 2 1
+0 33 7 17
 1
 end_operator
 begin_operator
@@ -43488,8 +43488,8 @@ overcome sciatica triumph marzipan neptune vulcan
 1
 6 7
 2
-0 33 7 17
 0 31 3 2
+0 33 7 17
 1
 end_operator
 begin_operator
@@ -43497,8 +43497,8 @@ overcome sciatica triumph marzipan vulcan earth
 1
 6 7
 2
-0 33 7 17
 0 31 0 3
+0 33 7 17
 1
 end_operator
 begin_operator
@@ -43506,8 +43506,8 @@ overcome sciatica triumph pepper mercury neptune
 1
 6 8
 2
-0 33 8 17
 0 31 2 1
+0 33 8 17
 1
 end_operator
 begin_operator
@@ -43515,8 +43515,8 @@ overcome sciatica triumph pepper neptune vulcan
 1
 6 8
 2
-0 33 8 17
 0 31 3 2
+0 33 8 17
 1
 end_operator
 begin_operator
@@ -43524,8 +43524,8 @@ overcome sciatica triumph pepper vulcan earth
 1
 6 8
 2
-0 33 8 17
 0 31 0 3
+0 33 8 17
 1
 end_operator
 begin_operator
@@ -43533,8 +43533,8 @@ overcome sciatica triumph rice mercury neptune
 1
 6 9
 2
-0 33 9 17
 0 31 2 1
+0 33 9 17
 1
 end_operator
 begin_operator
@@ -43542,8 +43542,8 @@ overcome sciatica triumph rice neptune vulcan
 1
 6 9
 2
-0 33 9 17
 0 31 3 2
+0 33 9 17
 1
 end_operator
 begin_operator
@@ -43551,8 +43551,8 @@ overcome sciatica triumph rice vulcan earth
 1
 6 9
 2
-0 33 9 17
 0 31 0 3
+0 33 9 17
 1
 end_operator
 begin_operator
@@ -43560,8 +43560,8 @@ overcome sciatica triumph wonderbread mercury neptune
 1
 6 10
 2
-0 33 10 17
 0 31 2 1
+0 33 10 17
 1
 end_operator
 begin_operator
@@ -43569,8 +43569,8 @@ overcome sciatica triumph wonderbread neptune vulcan
 1
 6 10
 2
-0 33 10 17
 0 31 3 2
+0 33 10 17
 1
 end_operator
 begin_operator
@@ -43578,8 +43578,8 @@ overcome sciatica triumph wonderbread vulcan earth
 1
 6 10
 2
-0 33 10 17
 0 31 0 3
+0 33 10 17
 1
 end_operator
 begin_operator
@@ -43587,8 +43587,8 @@ succumb abrasion achievement arugula mercury neptune
 1
 0 0
 2
-0 32 11 0
 0 21 1 2
+0 32 11 0
 1
 end_operator
 begin_operator
@@ -43596,8 +43596,8 @@ succumb abrasion achievement arugula neptune vulcan
 1
 0 0
 2
-0 32 11 0
 0 21 2 3
+0 32 11 0
 1
 end_operator
 begin_operator
@@ -43605,8 +43605,8 @@ succumb abrasion achievement arugula vulcan earth
 1
 0 0
 2
-0 32 11 0
 0 21 3 0
+0 32 11 0
 1
 end_operator
 begin_operator
@@ -43614,8 +43614,8 @@ succumb abrasion achievement bacon mercury neptune
 1
 0 1
 2
-0 32 11 1
 0 21 1 2
+0 32 11 1
 1
 end_operator
 begin_operator
@@ -43623,8 +43623,8 @@ succumb abrasion achievement bacon neptune vulcan
 1
 0 1
 2
-0 32 11 1
 0 21 2 3
+0 32 11 1
 1
 end_operator
 begin_operator
@@ -43632,8 +43632,8 @@ succumb abrasion achievement bacon vulcan earth
 1
 0 1
 2
-0 32 11 1
 0 21 3 0
+0 32 11 1
 1
 end_operator
 begin_operator
@@ -43641,8 +43641,8 @@ succumb abrasion achievement baguette mercury neptune
 1
 0 2
 2
-0 32 11 2
 0 21 1 2
+0 32 11 2
 1
 end_operator
 begin_operator
@@ -43650,8 +43650,8 @@ succumb abrasion achievement baguette neptune vulcan
 1
 0 2
 2
-0 32 11 2
 0 21 2 3
+0 32 11 2
 1
 end_operator
 begin_operator
@@ -43659,8 +43659,8 @@ succumb abrasion achievement baguette vulcan earth
 1
 0 2
 2
-0 32 11 2
 0 21 3 0
+0 32 11 2
 1
 end_operator
 begin_operator
@@ -43668,8 +43668,8 @@ succumb abrasion achievement chicken mercury neptune
 1
 0 3
 2
-0 32 11 3
 0 21 1 2
+0 32 11 3
 1
 end_operator
 begin_operator
@@ -43677,8 +43677,8 @@ succumb abrasion achievement chicken neptune vulcan
 1
 0 3
 2
-0 32 11 3
 0 21 2 3
+0 32 11 3
 1
 end_operator
 begin_operator
@@ -43686,8 +43686,8 @@ succumb abrasion achievement chicken vulcan earth
 1
 0 3
 2
-0 32 11 3
 0 21 3 0
+0 32 11 3
 1
 end_operator
 begin_operator
@@ -43695,8 +43695,8 @@ succumb abrasion achievement chocolate mercury neptune
 1
 0 4
 2
-0 32 11 4
 0 21 1 2
+0 32 11 4
 1
 end_operator
 begin_operator
@@ -43704,8 +43704,8 @@ succumb abrasion achievement chocolate neptune vulcan
 1
 0 4
 2
-0 32 11 4
 0 21 2 3
+0 32 11 4
 1
 end_operator
 begin_operator
@@ -43713,8 +43713,8 @@ succumb abrasion achievement chocolate vulcan earth
 1
 0 4
 2
-0 32 11 4
 0 21 3 0
+0 32 11 4
 1
 end_operator
 begin_operator
@@ -43722,8 +43722,8 @@ succumb abrasion achievement flounder mercury neptune
 1
 0 5
 2
-0 32 11 5
 0 21 1 2
+0 32 11 5
 1
 end_operator
 begin_operator
@@ -43731,8 +43731,8 @@ succumb abrasion achievement flounder neptune vulcan
 1
 0 5
 2
-0 32 11 5
 0 21 2 3
+0 32 11 5
 1
 end_operator
 begin_operator
@@ -43740,8 +43740,8 @@ succumb abrasion achievement flounder vulcan earth
 1
 0 5
 2
-0 32 11 5
 0 21 3 0
+0 32 11 5
 1
 end_operator
 begin_operator
@@ -43749,8 +43749,8 @@ succumb abrasion achievement guava mercury neptune
 1
 0 6
 2
-0 32 11 6
 0 21 1 2
+0 32 11 6
 1
 end_operator
 begin_operator
@@ -43758,8 +43758,8 @@ succumb abrasion achievement guava neptune vulcan
 1
 0 6
 2
-0 32 11 6
 0 21 2 3
+0 32 11 6
 1
 end_operator
 begin_operator
@@ -43767,8 +43767,8 @@ succumb abrasion achievement guava vulcan earth
 1
 0 6
 2
-0 32 11 6
 0 21 3 0
+0 32 11 6
 1
 end_operator
 begin_operator
@@ -43776,8 +43776,8 @@ succumb abrasion achievement marzipan mercury neptune
 1
 0 7
 2
-0 32 11 7
 0 21 1 2
+0 32 11 7
 1
 end_operator
 begin_operator
@@ -43785,8 +43785,8 @@ succumb abrasion achievement marzipan neptune vulcan
 1
 0 7
 2
-0 32 11 7
 0 21 2 3
+0 32 11 7
 1
 end_operator
 begin_operator
@@ -43794,8 +43794,8 @@ succumb abrasion achievement marzipan vulcan earth
 1
 0 7
 2
-0 32 11 7
 0 21 3 0
+0 32 11 7
 1
 end_operator
 begin_operator
@@ -43803,8 +43803,8 @@ succumb abrasion achievement pepper mercury neptune
 1
 0 8
 2
-0 32 11 8
 0 21 1 2
+0 32 11 8
 1
 end_operator
 begin_operator
@@ -43812,8 +43812,8 @@ succumb abrasion achievement pepper neptune vulcan
 1
 0 8
 2
-0 32 11 8
 0 21 2 3
+0 32 11 8
 1
 end_operator
 begin_operator
@@ -43821,8 +43821,8 @@ succumb abrasion achievement pepper vulcan earth
 1
 0 8
 2
-0 32 11 8
 0 21 3 0
+0 32 11 8
 1
 end_operator
 begin_operator
@@ -43830,8 +43830,8 @@ succumb abrasion achievement rice mercury neptune
 1
 0 9
 2
-0 32 11 9
 0 21 1 2
+0 32 11 9
 1
 end_operator
 begin_operator
@@ -43839,8 +43839,8 @@ succumb abrasion achievement rice neptune vulcan
 1
 0 9
 2
-0 32 11 9
 0 21 2 3
+0 32 11 9
 1
 end_operator
 begin_operator
@@ -43848,8 +43848,8 @@ succumb abrasion achievement rice vulcan earth
 1
 0 9
 2
-0 32 11 9
 0 21 3 0
+0 32 11 9
 1
 end_operator
 begin_operator
@@ -43857,8 +43857,8 @@ succumb abrasion achievement wonderbread mercury neptune
 1
 0 10
 2
-0 32 11 10
 0 21 1 2
+0 32 11 10
 1
 end_operator
 begin_operator
@@ -43866,8 +43866,8 @@ succumb abrasion achievement wonderbread neptune vulcan
 1
 0 10
 2
-0 32 11 10
 0 21 2 3
+0 32 11 10
 1
 end_operator
 begin_operator
@@ -43875,8 +43875,8 @@ succumb abrasion achievement wonderbread vulcan earth
 1
 0 10
 2
-0 32 11 10
 0 21 3 0
+0 32 11 10
 1
 end_operator
 begin_operator
@@ -43884,8 +43884,8 @@ succumb abrasion excitement arugula mercury neptune
 1
 1 0
 2
-0 32 12 0
 0 22 1 2
+0 32 12 0
 1
 end_operator
 begin_operator
@@ -43893,8 +43893,8 @@ succumb abrasion excitement arugula neptune vulcan
 1
 1 0
 2
-0 32 12 0
 0 22 2 3
+0 32 12 0
 1
 end_operator
 begin_operator
@@ -43902,8 +43902,8 @@ succumb abrasion excitement arugula vulcan earth
 1
 1 0
 2
-0 32 12 0
 0 22 3 0
+0 32 12 0
 1
 end_operator
 begin_operator
@@ -43911,8 +43911,8 @@ succumb abrasion excitement bacon mercury neptune
 1
 1 1
 2
-0 32 12 1
 0 22 1 2
+0 32 12 1
 1
 end_operator
 begin_operator
@@ -43920,8 +43920,8 @@ succumb abrasion excitement bacon neptune vulcan
 1
 1 1
 2
-0 32 12 1
 0 22 2 3
+0 32 12 1
 1
 end_operator
 begin_operator
@@ -43929,8 +43929,8 @@ succumb abrasion excitement bacon vulcan earth
 1
 1 1
 2
-0 32 12 1
 0 22 3 0
+0 32 12 1
 1
 end_operator
 begin_operator
@@ -43938,8 +43938,8 @@ succumb abrasion excitement baguette mercury neptune
 1
 1 2
 2
-0 32 12 2
 0 22 1 2
+0 32 12 2
 1
 end_operator
 begin_operator
@@ -43947,8 +43947,8 @@ succumb abrasion excitement baguette neptune vulcan
 1
 1 2
 2
-0 32 12 2
 0 22 2 3
+0 32 12 2
 1
 end_operator
 begin_operator
@@ -43956,8 +43956,8 @@ succumb abrasion excitement baguette vulcan earth
 1
 1 2
 2
-0 32 12 2
 0 22 3 0
+0 32 12 2
 1
 end_operator
 begin_operator
@@ -43965,8 +43965,8 @@ succumb abrasion excitement chicken mercury neptune
 1
 1 3
 2
-0 32 12 3
 0 22 1 2
+0 32 12 3
 1
 end_operator
 begin_operator
@@ -43974,8 +43974,8 @@ succumb abrasion excitement chicken neptune vulcan
 1
 1 3
 2
-0 32 12 3
 0 22 2 3
+0 32 12 3
 1
 end_operator
 begin_operator
@@ -43983,8 +43983,8 @@ succumb abrasion excitement chicken vulcan earth
 1
 1 3
 2
-0 32 12 3
 0 22 3 0
+0 32 12 3
 1
 end_operator
 begin_operator
@@ -43992,8 +43992,8 @@ succumb abrasion excitement chocolate mercury neptune
 1
 1 4
 2
-0 32 12 4
 0 22 1 2
+0 32 12 4
 1
 end_operator
 begin_operator
@@ -44001,8 +44001,8 @@ succumb abrasion excitement chocolate neptune vulcan
 1
 1 4
 2
-0 32 12 4
 0 22 2 3
+0 32 12 4
 1
 end_operator
 begin_operator
@@ -44010,8 +44010,8 @@ succumb abrasion excitement chocolate vulcan earth
 1
 1 4
 2
-0 32 12 4
 0 22 3 0
+0 32 12 4
 1
 end_operator
 begin_operator
@@ -44019,8 +44019,8 @@ succumb abrasion excitement flounder mercury neptune
 1
 1 5
 2
-0 32 12 5
 0 22 1 2
+0 32 12 5
 1
 end_operator
 begin_operator
@@ -44028,8 +44028,8 @@ succumb abrasion excitement flounder neptune vulcan
 1
 1 5
 2
-0 32 12 5
 0 22 2 3
+0 32 12 5
 1
 end_operator
 begin_operator
@@ -44037,8 +44037,8 @@ succumb abrasion excitement flounder vulcan earth
 1
 1 5
 2
-0 32 12 5
 0 22 3 0
+0 32 12 5
 1
 end_operator
 begin_operator
@@ -44046,8 +44046,8 @@ succumb abrasion excitement guava mercury neptune
 1
 1 6
 2
-0 32 12 6
 0 22 1 2
+0 32 12 6
 1
 end_operator
 begin_operator
@@ -44055,8 +44055,8 @@ succumb abrasion excitement guava neptune vulcan
 1
 1 6
 2
-0 32 12 6
 0 22 2 3
+0 32 12 6
 1
 end_operator
 begin_operator
@@ -44064,8 +44064,8 @@ succumb abrasion excitement guava vulcan earth
 1
 1 6
 2
-0 32 12 6
 0 22 3 0
+0 32 12 6
 1
 end_operator
 begin_operator
@@ -44073,8 +44073,8 @@ succumb abrasion excitement marzipan mercury neptune
 1
 1 7
 2
-0 32 12 7
 0 22 1 2
+0 32 12 7
 1
 end_operator
 begin_operator
@@ -44082,8 +44082,8 @@ succumb abrasion excitement marzipan neptune vulcan
 1
 1 7
 2
-0 32 12 7
 0 22 2 3
+0 32 12 7
 1
 end_operator
 begin_operator
@@ -44091,8 +44091,8 @@ succumb abrasion excitement marzipan vulcan earth
 1
 1 7
 2
-0 32 12 7
 0 22 3 0
+0 32 12 7
 1
 end_operator
 begin_operator
@@ -44100,8 +44100,8 @@ succumb abrasion excitement pepper mercury neptune
 1
 1 8
 2
-0 32 12 8
 0 22 1 2
+0 32 12 8
 1
 end_operator
 begin_operator
@@ -44109,8 +44109,8 @@ succumb abrasion excitement pepper neptune vulcan
 1
 1 8
 2
-0 32 12 8
 0 22 2 3
+0 32 12 8
 1
 end_operator
 begin_operator
@@ -44118,8 +44118,8 @@ succumb abrasion excitement pepper vulcan earth
 1
 1 8
 2
-0 32 12 8
 0 22 3 0
+0 32 12 8
 1
 end_operator
 begin_operator
@@ -44127,8 +44127,8 @@ succumb abrasion excitement rice mercury neptune
 1
 1 9
 2
-0 32 12 9
 0 22 1 2
+0 32 12 9
 1
 end_operator
 begin_operator
@@ -44136,8 +44136,8 @@ succumb abrasion excitement rice neptune vulcan
 1
 1 9
 2
-0 32 12 9
 0 22 2 3
+0 32 12 9
 1
 end_operator
 begin_operator
@@ -44145,8 +44145,8 @@ succumb abrasion excitement rice vulcan earth
 1
 1 9
 2
-0 32 12 9
 0 22 3 0
+0 32 12 9
 1
 end_operator
 begin_operator
@@ -44154,8 +44154,8 @@ succumb abrasion excitement wonderbread mercury neptune
 1
 1 10
 2
-0 32 12 10
 0 22 1 2
+0 32 12 10
 1
 end_operator
 begin_operator
@@ -44163,8 +44163,8 @@ succumb abrasion excitement wonderbread neptune vulcan
 1
 1 10
 2
-0 32 12 10
 0 22 2 3
+0 32 12 10
 1
 end_operator
 begin_operator
@@ -44172,8 +44172,8 @@ succumb abrasion excitement wonderbread vulcan earth
 1
 1 10
 2
-0 32 12 10
 0 22 3 0
+0 32 12 10
 1
 end_operator
 begin_operator
@@ -44181,8 +44181,8 @@ succumb abrasion learning arugula mercury neptune
 1
 2 0
 2
-0 32 13 0
 0 25 1 2
+0 32 13 0
 1
 end_operator
 begin_operator
@@ -44190,8 +44190,8 @@ succumb abrasion learning arugula neptune vulcan
 1
 2 0
 2
-0 32 13 0
 0 25 2 3
+0 32 13 0
 1
 end_operator
 begin_operator
@@ -44199,8 +44199,8 @@ succumb abrasion learning arugula vulcan earth
 1
 2 0
 2
-0 32 13 0
 0 25 3 0
+0 32 13 0
 1
 end_operator
 begin_operator
@@ -44208,8 +44208,8 @@ succumb abrasion learning bacon mercury neptune
 1
 2 1
 2
-0 32 13 1
 0 25 1 2
+0 32 13 1
 1
 end_operator
 begin_operator
@@ -44217,8 +44217,8 @@ succumb abrasion learning bacon neptune vulcan
 1
 2 1
 2
-0 32 13 1
 0 25 2 3
+0 32 13 1
 1
 end_operator
 begin_operator
@@ -44226,8 +44226,8 @@ succumb abrasion learning bacon vulcan earth
 1
 2 1
 2
-0 32 13 1
 0 25 3 0
+0 32 13 1
 1
 end_operator
 begin_operator
@@ -44235,8 +44235,8 @@ succumb abrasion learning baguette mercury neptune
 1
 2 2
 2
-0 32 13 2
 0 25 1 2
+0 32 13 2
 1
 end_operator
 begin_operator
@@ -44244,8 +44244,8 @@ succumb abrasion learning baguette neptune vulcan
 1
 2 2
 2
-0 32 13 2
 0 25 2 3
+0 32 13 2
 1
 end_operator
 begin_operator
@@ -44253,8 +44253,8 @@ succumb abrasion learning baguette vulcan earth
 1
 2 2
 2
-0 32 13 2
 0 25 3 0
+0 32 13 2
 1
 end_operator
 begin_operator
@@ -44262,8 +44262,8 @@ succumb abrasion learning chicken mercury neptune
 1
 2 3
 2
-0 32 13 3
 0 25 1 2
+0 32 13 3
 1
 end_operator
 begin_operator
@@ -44271,8 +44271,8 @@ succumb abrasion learning chicken neptune vulcan
 1
 2 3
 2
-0 32 13 3
 0 25 2 3
+0 32 13 3
 1
 end_operator
 begin_operator
@@ -44280,8 +44280,8 @@ succumb abrasion learning chicken vulcan earth
 1
 2 3
 2
-0 32 13 3
 0 25 3 0
+0 32 13 3
 1
 end_operator
 begin_operator
@@ -44289,8 +44289,8 @@ succumb abrasion learning chocolate mercury neptune
 1
 2 4
 2
-0 32 13 4
 0 25 1 2
+0 32 13 4
 1
 end_operator
 begin_operator
@@ -44298,8 +44298,8 @@ succumb abrasion learning chocolate neptune vulcan
 1
 2 4
 2
-0 32 13 4
 0 25 2 3
+0 32 13 4
 1
 end_operator
 begin_operator
@@ -44307,8 +44307,8 @@ succumb abrasion learning chocolate vulcan earth
 1
 2 4
 2
-0 32 13 4
 0 25 3 0
+0 32 13 4
 1
 end_operator
 begin_operator
@@ -44316,8 +44316,8 @@ succumb abrasion learning flounder mercury neptune
 1
 2 5
 2
-0 32 13 5
 0 25 1 2
+0 32 13 5
 1
 end_operator
 begin_operator
@@ -44325,8 +44325,8 @@ succumb abrasion learning flounder neptune vulcan
 1
 2 5
 2
-0 32 13 5
 0 25 2 3
+0 32 13 5
 1
 end_operator
 begin_operator
@@ -44334,8 +44334,8 @@ succumb abrasion learning flounder vulcan earth
 1
 2 5
 2
-0 32 13 5
 0 25 3 0
+0 32 13 5
 1
 end_operator
 begin_operator
@@ -44343,8 +44343,8 @@ succumb abrasion learning guava mercury neptune
 1
 2 6
 2
-0 32 13 6
 0 25 1 2
+0 32 13 6
 1
 end_operator
 begin_operator
@@ -44352,8 +44352,8 @@ succumb abrasion learning guava neptune vulcan
 1
 2 6
 2
-0 32 13 6
 0 25 2 3
+0 32 13 6
 1
 end_operator
 begin_operator
@@ -44361,8 +44361,8 @@ succumb abrasion learning guava vulcan earth
 1
 2 6
 2
-0 32 13 6
 0 25 3 0
+0 32 13 6
 1
 end_operator
 begin_operator
@@ -44370,8 +44370,8 @@ succumb abrasion learning marzipan mercury neptune
 1
 2 7
 2
-0 32 13 7
 0 25 1 2
+0 32 13 7
 1
 end_operator
 begin_operator
@@ -44379,8 +44379,8 @@ succumb abrasion learning marzipan neptune vulcan
 1
 2 7
 2
-0 32 13 7
 0 25 2 3
+0 32 13 7
 1
 end_operator
 begin_operator
@@ -44388,8 +44388,8 @@ succumb abrasion learning marzipan vulcan earth
 1
 2 7
 2
-0 32 13 7
 0 25 3 0
+0 32 13 7
 1
 end_operator
 begin_operator
@@ -44397,8 +44397,8 @@ succumb abrasion learning pepper mercury neptune
 1
 2 8
 2
-0 32 13 8
 0 25 1 2
+0 32 13 8
 1
 end_operator
 begin_operator
@@ -44406,8 +44406,8 @@ succumb abrasion learning pepper neptune vulcan
 1
 2 8
 2
-0 32 13 8
 0 25 2 3
+0 32 13 8
 1
 end_operator
 begin_operator
@@ -44415,8 +44415,8 @@ succumb abrasion learning pepper vulcan earth
 1
 2 8
 2
-0 32 13 8
 0 25 3 0
+0 32 13 8
 1
 end_operator
 begin_operator
@@ -44424,8 +44424,8 @@ succumb abrasion learning rice mercury neptune
 1
 2 9
 2
-0 32 13 9
 0 25 1 2
+0 32 13 9
 1
 end_operator
 begin_operator
@@ -44433,8 +44433,8 @@ succumb abrasion learning rice neptune vulcan
 1
 2 9
 2
-0 32 13 9
 0 25 2 3
+0 32 13 9
 1
 end_operator
 begin_operator
@@ -44442,8 +44442,8 @@ succumb abrasion learning rice vulcan earth
 1
 2 9
 2
-0 32 13 9
 0 25 3 0
+0 32 13 9
 1
 end_operator
 begin_operator
@@ -44451,8 +44451,8 @@ succumb abrasion learning wonderbread mercury neptune
 1
 2 10
 2
-0 32 13 10
 0 25 1 2
+0 32 13 10
 1
 end_operator
 begin_operator
@@ -44460,8 +44460,8 @@ succumb abrasion learning wonderbread neptune vulcan
 1
 2 10
 2
-0 32 13 10
 0 25 2 3
+0 32 13 10
 1
 end_operator
 begin_operator
@@ -44469,8 +44469,8 @@ succumb abrasion learning wonderbread vulcan earth
 1
 2 10
 2
-0 32 13 10
 0 25 3 0
+0 32 13 10
 1
 end_operator
 begin_operator
@@ -44478,8 +44478,8 @@ succumb abrasion rest arugula mercury neptune
 1
 3 0
 2
-0 32 14 0
 0 26 1 2
+0 32 14 0
 1
 end_operator
 begin_operator
@@ -44487,8 +44487,8 @@ succumb abrasion rest arugula neptune vulcan
 1
 3 0
 2
-0 32 14 0
 0 26 2 3
+0 32 14 0
 1
 end_operator
 begin_operator
@@ -44496,8 +44496,8 @@ succumb abrasion rest arugula vulcan earth
 1
 3 0
 2
-0 32 14 0
 0 26 3 0
+0 32 14 0
 1
 end_operator
 begin_operator
@@ -44505,8 +44505,8 @@ succumb abrasion rest bacon mercury neptune
 1
 3 1
 2
-0 32 14 1
 0 26 1 2
+0 32 14 1
 1
 end_operator
 begin_operator
@@ -44514,8 +44514,8 @@ succumb abrasion rest bacon neptune vulcan
 1
 3 1
 2
-0 32 14 1
 0 26 2 3
+0 32 14 1
 1
 end_operator
 begin_operator
@@ -44523,8 +44523,8 @@ succumb abrasion rest bacon vulcan earth
 1
 3 1
 2
-0 32 14 1
 0 26 3 0
+0 32 14 1
 1
 end_operator
 begin_operator
@@ -44532,8 +44532,8 @@ succumb abrasion rest baguette mercury neptune
 1
 3 2
 2
-0 32 14 2
 0 26 1 2
+0 32 14 2
 1
 end_operator
 begin_operator
@@ -44541,8 +44541,8 @@ succumb abrasion rest baguette neptune vulcan
 1
 3 2
 2
-0 32 14 2
 0 26 2 3
+0 32 14 2
 1
 end_operator
 begin_operator
@@ -44550,8 +44550,8 @@ succumb abrasion rest baguette vulcan earth
 1
 3 2
 2
-0 32 14 2
 0 26 3 0
+0 32 14 2
 1
 end_operator
 begin_operator
@@ -44559,8 +44559,8 @@ succumb abrasion rest chicken mercury neptune
 1
 3 3
 2
-0 32 14 3
 0 26 1 2
+0 32 14 3
 1
 end_operator
 begin_operator
@@ -44568,8 +44568,8 @@ succumb abrasion rest chicken neptune vulcan
 1
 3 3
 2
-0 32 14 3
 0 26 2 3
+0 32 14 3
 1
 end_operator
 begin_operator
@@ -44577,8 +44577,8 @@ succumb abrasion rest chicken vulcan earth
 1
 3 3
 2
-0 32 14 3
 0 26 3 0
+0 32 14 3
 1
 end_operator
 begin_operator
@@ -44586,8 +44586,8 @@ succumb abrasion rest chocolate mercury neptune
 1
 3 4
 2
-0 32 14 4
 0 26 1 2
+0 32 14 4
 1
 end_operator
 begin_operator
@@ -44595,8 +44595,8 @@ succumb abrasion rest chocolate neptune vulcan
 1
 3 4
 2
-0 32 14 4
 0 26 2 3
+0 32 14 4
 1
 end_operator
 begin_operator
@@ -44604,8 +44604,8 @@ succumb abrasion rest chocolate vulcan earth
 1
 3 4
 2
-0 32 14 4
 0 26 3 0
+0 32 14 4
 1
 end_operator
 begin_operator
@@ -44613,8 +44613,8 @@ succumb abrasion rest flounder mercury neptune
 1
 3 5
 2
-0 32 14 5
 0 26 1 2
+0 32 14 5
 1
 end_operator
 begin_operator
@@ -44622,8 +44622,8 @@ succumb abrasion rest flounder neptune vulcan
 1
 3 5
 2
-0 32 14 5
 0 26 2 3
+0 32 14 5
 1
 end_operator
 begin_operator
@@ -44631,8 +44631,8 @@ succumb abrasion rest flounder vulcan earth
 1
 3 5
 2
-0 32 14 5
 0 26 3 0
+0 32 14 5
 1
 end_operator
 begin_operator
@@ -44640,8 +44640,8 @@ succumb abrasion rest guava mercury neptune
 1
 3 6
 2
-0 32 14 6
 0 26 1 2
+0 32 14 6
 1
 end_operator
 begin_operator
@@ -44649,8 +44649,8 @@ succumb abrasion rest guava neptune vulcan
 1
 3 6
 2
-0 32 14 6
 0 26 2 3
+0 32 14 6
 1
 end_operator
 begin_operator
@@ -44658,8 +44658,8 @@ succumb abrasion rest guava vulcan earth
 1
 3 6
 2
-0 32 14 6
 0 26 3 0
+0 32 14 6
 1
 end_operator
 begin_operator
@@ -44667,8 +44667,8 @@ succumb abrasion rest marzipan mercury neptune
 1
 3 7
 2
-0 32 14 7
 0 26 1 2
+0 32 14 7
 1
 end_operator
 begin_operator
@@ -44676,8 +44676,8 @@ succumb abrasion rest marzipan neptune vulcan
 1
 3 7
 2
-0 32 14 7
 0 26 2 3
+0 32 14 7
 1
 end_operator
 begin_operator
@@ -44685,8 +44685,8 @@ succumb abrasion rest marzipan vulcan earth
 1
 3 7
 2
-0 32 14 7
 0 26 3 0
+0 32 14 7
 1
 end_operator
 begin_operator
@@ -44694,8 +44694,8 @@ succumb abrasion rest pepper mercury neptune
 1
 3 8
 2
-0 32 14 8
 0 26 1 2
+0 32 14 8
 1
 end_operator
 begin_operator
@@ -44703,8 +44703,8 @@ succumb abrasion rest pepper neptune vulcan
 1
 3 8
 2
-0 32 14 8
 0 26 2 3
+0 32 14 8
 1
 end_operator
 begin_operator
@@ -44712,8 +44712,8 @@ succumb abrasion rest pepper vulcan earth
 1
 3 8
 2
-0 32 14 8
 0 26 3 0
+0 32 14 8
 1
 end_operator
 begin_operator
@@ -44721,8 +44721,8 @@ succumb abrasion rest rice mercury neptune
 1
 3 9
 2
-0 32 14 9
 0 26 1 2
+0 32 14 9
 1
 end_operator
 begin_operator
@@ -44730,8 +44730,8 @@ succumb abrasion rest rice neptune vulcan
 1
 3 9
 2
-0 32 14 9
 0 26 2 3
+0 32 14 9
 1
 end_operator
 begin_operator
@@ -44739,8 +44739,8 @@ succumb abrasion rest rice vulcan earth
 1
 3 9
 2
-0 32 14 9
 0 26 3 0
+0 32 14 9
 1
 end_operator
 begin_operator
@@ -44748,8 +44748,8 @@ succumb abrasion rest wonderbread mercury neptune
 1
 3 10
 2
-0 32 14 10
 0 26 1 2
+0 32 14 10
 1
 end_operator
 begin_operator
@@ -44757,8 +44757,8 @@ succumb abrasion rest wonderbread neptune vulcan
 1
 3 10
 2
-0 32 14 10
 0 26 2 3
+0 32 14 10
 1
 end_operator
 begin_operator
@@ -44766,8 +44766,8 @@ succumb abrasion rest wonderbread vulcan earth
 1
 3 10
 2
-0 32 14 10
 0 26 3 0
+0 32 14 10
 1
 end_operator
 begin_operator
@@ -44775,8 +44775,8 @@ succumb abrasion satiety arugula mercury neptune
 1
 4 0
 2
-0 32 15 0
 0 29 1 2
+0 32 15 0
 1
 end_operator
 begin_operator
@@ -44784,8 +44784,8 @@ succumb abrasion satiety arugula neptune vulcan
 1
 4 0
 2
-0 32 15 0
 0 29 2 3
+0 32 15 0
 1
 end_operator
 begin_operator
@@ -44793,8 +44793,8 @@ succumb abrasion satiety arugula vulcan earth
 1
 4 0
 2
-0 32 15 0
 0 29 3 0
+0 32 15 0
 1
 end_operator
 begin_operator
@@ -44802,8 +44802,8 @@ succumb abrasion satiety bacon mercury neptune
 1
 4 1
 2
-0 32 15 1
 0 29 1 2
+0 32 15 1
 1
 end_operator
 begin_operator
@@ -44811,8 +44811,8 @@ succumb abrasion satiety bacon neptune vulcan
 1
 4 1
 2
-0 32 15 1
 0 29 2 3
+0 32 15 1
 1
 end_operator
 begin_operator
@@ -44820,8 +44820,8 @@ succumb abrasion satiety bacon vulcan earth
 1
 4 1
 2
-0 32 15 1
 0 29 3 0
+0 32 15 1
 1
 end_operator
 begin_operator
@@ -44829,8 +44829,8 @@ succumb abrasion satiety baguette mercury neptune
 1
 4 2
 2
-0 32 15 2
 0 29 1 2
+0 32 15 2
 1
 end_operator
 begin_operator
@@ -44838,8 +44838,8 @@ succumb abrasion satiety baguette neptune vulcan
 1
 4 2
 2
-0 32 15 2
 0 29 2 3
+0 32 15 2
 1
 end_operator
 begin_operator
@@ -44847,8 +44847,8 @@ succumb abrasion satiety baguette vulcan earth
 1
 4 2
 2
-0 32 15 2
 0 29 3 0
+0 32 15 2
 1
 end_operator
 begin_operator
@@ -44856,8 +44856,8 @@ succumb abrasion satiety chicken mercury neptune
 1
 4 3
 2
-0 32 15 3
 0 29 1 2
+0 32 15 3
 1
 end_operator
 begin_operator
@@ -44865,8 +44865,8 @@ succumb abrasion satiety chicken neptune vulcan
 1
 4 3
 2
-0 32 15 3
 0 29 2 3
+0 32 15 3
 1
 end_operator
 begin_operator
@@ -44874,8 +44874,8 @@ succumb abrasion satiety chicken vulcan earth
 1
 4 3
 2
-0 32 15 3
 0 29 3 0
+0 32 15 3
 1
 end_operator
 begin_operator
@@ -44883,8 +44883,8 @@ succumb abrasion satiety chocolate mercury neptune
 1
 4 4
 2
-0 32 15 4
 0 29 1 2
+0 32 15 4
 1
 end_operator
 begin_operator
@@ -44892,8 +44892,8 @@ succumb abrasion satiety chocolate neptune vulcan
 1
 4 4
 2
-0 32 15 4
 0 29 2 3
+0 32 15 4
 1
 end_operator
 begin_operator
@@ -44901,8 +44901,8 @@ succumb abrasion satiety chocolate vulcan earth
 1
 4 4
 2
-0 32 15 4
 0 29 3 0
+0 32 15 4
 1
 end_operator
 begin_operator
@@ -44910,8 +44910,8 @@ succumb abrasion satiety flounder mercury neptune
 1
 4 5
 2
-0 32 15 5
 0 29 1 2
+0 32 15 5
 1
 end_operator
 begin_operator
@@ -44919,8 +44919,8 @@ succumb abrasion satiety flounder neptune vulcan
 1
 4 5
 2
-0 32 15 5
 0 29 2 3
+0 32 15 5
 1
 end_operator
 begin_operator
@@ -44928,8 +44928,8 @@ succumb abrasion satiety flounder vulcan earth
 1
 4 5
 2
-0 32 15 5
 0 29 3 0
+0 32 15 5
 1
 end_operator
 begin_operator
@@ -44937,8 +44937,8 @@ succumb abrasion satiety guava mercury neptune
 1
 4 6
 2
-0 32 15 6
 0 29 1 2
+0 32 15 6
 1
 end_operator
 begin_operator
@@ -44946,8 +44946,8 @@ succumb abrasion satiety guava neptune vulcan
 1
 4 6
 2
-0 32 15 6
 0 29 2 3
+0 32 15 6
 1
 end_operator
 begin_operator
@@ -44955,8 +44955,8 @@ succumb abrasion satiety guava vulcan earth
 1
 4 6
 2
-0 32 15 6
 0 29 3 0
+0 32 15 6
 1
 end_operator
 begin_operator
@@ -44964,8 +44964,8 @@ succumb abrasion satiety marzipan mercury neptune
 1
 4 7
 2
-0 32 15 7
 0 29 1 2
+0 32 15 7
 1
 end_operator
 begin_operator
@@ -44973,8 +44973,8 @@ succumb abrasion satiety marzipan neptune vulcan
 1
 4 7
 2
-0 32 15 7
 0 29 2 3
+0 32 15 7
 1
 end_operator
 begin_operator
@@ -44982,8 +44982,8 @@ succumb abrasion satiety marzipan vulcan earth
 1
 4 7
 2
-0 32 15 7
 0 29 3 0
+0 32 15 7
 1
 end_operator
 begin_operator
@@ -44991,8 +44991,8 @@ succumb abrasion satiety pepper mercury neptune
 1
 4 8
 2
-0 32 15 8
 0 29 1 2
+0 32 15 8
 1
 end_operator
 begin_operator
@@ -45000,8 +45000,8 @@ succumb abrasion satiety pepper neptune vulcan
 1
 4 8
 2
-0 32 15 8
 0 29 2 3
+0 32 15 8
 1
 end_operator
 begin_operator
@@ -45009,8 +45009,8 @@ succumb abrasion satiety pepper vulcan earth
 1
 4 8
 2
-0 32 15 8
 0 29 3 0
+0 32 15 8
 1
 end_operator
 begin_operator
@@ -45018,8 +45018,8 @@ succumb abrasion satiety rice mercury neptune
 1
 4 9
 2
-0 32 15 9
 0 29 1 2
+0 32 15 9
 1
 end_operator
 begin_operator
@@ -45027,8 +45027,8 @@ succumb abrasion satiety rice neptune vulcan
 1
 4 9
 2
-0 32 15 9
 0 29 2 3
+0 32 15 9
 1
 end_operator
 begin_operator
@@ -45036,8 +45036,8 @@ succumb abrasion satiety rice vulcan earth
 1
 4 9
 2
-0 32 15 9
 0 29 3 0
+0 32 15 9
 1
 end_operator
 begin_operator
@@ -45045,8 +45045,8 @@ succumb abrasion satiety wonderbread mercury neptune
 1
 4 10
 2
-0 32 15 10
 0 29 1 2
+0 32 15 10
 1
 end_operator
 begin_operator
@@ -45054,8 +45054,8 @@ succumb abrasion satiety wonderbread neptune vulcan
 1
 4 10
 2
-0 32 15 10
 0 29 2 3
+0 32 15 10
 1
 end_operator
 begin_operator
@@ -45063,8 +45063,8 @@ succumb abrasion satiety wonderbread vulcan earth
 1
 4 10
 2
-0 32 15 10
 0 29 3 0
+0 32 15 10
 1
 end_operator
 begin_operator
@@ -45072,8 +45072,8 @@ succumb abrasion stimulation arugula mercury neptune
 1
 5 0
 2
-0 32 16 0
 0 30 1 2
+0 32 16 0
 1
 end_operator
 begin_operator
@@ -45081,8 +45081,8 @@ succumb abrasion stimulation arugula neptune vulcan
 1
 5 0
 2
-0 32 16 0
 0 30 2 3
+0 32 16 0
 1
 end_operator
 begin_operator
@@ -45090,8 +45090,8 @@ succumb abrasion stimulation arugula vulcan earth
 1
 5 0
 2
-0 32 16 0
 0 30 3 0
+0 32 16 0
 1
 end_operator
 begin_operator
@@ -45099,8 +45099,8 @@ succumb abrasion stimulation bacon mercury neptune
 1
 5 1
 2
-0 32 16 1
 0 30 1 2
+0 32 16 1
 1
 end_operator
 begin_operator
@@ -45108,8 +45108,8 @@ succumb abrasion stimulation bacon neptune vulcan
 1
 5 1
 2
-0 32 16 1
 0 30 2 3
+0 32 16 1
 1
 end_operator
 begin_operator
@@ -45117,8 +45117,8 @@ succumb abrasion stimulation bacon vulcan earth
 1
 5 1
 2
-0 32 16 1
 0 30 3 0
+0 32 16 1
 1
 end_operator
 begin_operator
@@ -45126,8 +45126,8 @@ succumb abrasion stimulation baguette mercury neptune
 1
 5 2
 2
-0 32 16 2
 0 30 1 2
+0 32 16 2
 1
 end_operator
 begin_operator
@@ -45135,8 +45135,8 @@ succumb abrasion stimulation baguette neptune vulcan
 1
 5 2
 2
-0 32 16 2
 0 30 2 3
+0 32 16 2
 1
 end_operator
 begin_operator
@@ -45144,8 +45144,8 @@ succumb abrasion stimulation baguette vulcan earth
 1
 5 2
 2
-0 32 16 2
 0 30 3 0
+0 32 16 2
 1
 end_operator
 begin_operator
@@ -45153,8 +45153,8 @@ succumb abrasion stimulation chicken mercury neptune
 1
 5 3
 2
-0 32 16 3
 0 30 1 2
+0 32 16 3
 1
 end_operator
 begin_operator
@@ -45162,8 +45162,8 @@ succumb abrasion stimulation chicken neptune vulcan
 1
 5 3
 2
-0 32 16 3
 0 30 2 3
+0 32 16 3
 1
 end_operator
 begin_operator
@@ -45171,8 +45171,8 @@ succumb abrasion stimulation chicken vulcan earth
 1
 5 3
 2
-0 32 16 3
 0 30 3 0
+0 32 16 3
 1
 end_operator
 begin_operator
@@ -45180,8 +45180,8 @@ succumb abrasion stimulation chocolate mercury neptune
 1
 5 4
 2
-0 32 16 4
 0 30 1 2
+0 32 16 4
 1
 end_operator
 begin_operator
@@ -45189,8 +45189,8 @@ succumb abrasion stimulation chocolate neptune vulcan
 1
 5 4
 2
-0 32 16 4
 0 30 2 3
+0 32 16 4
 1
 end_operator
 begin_operator
@@ -45198,8 +45198,8 @@ succumb abrasion stimulation chocolate vulcan earth
 1
 5 4
 2
-0 32 16 4
 0 30 3 0
+0 32 16 4
 1
 end_operator
 begin_operator
@@ -45207,8 +45207,8 @@ succumb abrasion stimulation flounder mercury neptune
 1
 5 5
 2
-0 32 16 5
 0 30 1 2
+0 32 16 5
 1
 end_operator
 begin_operator
@@ -45216,8 +45216,8 @@ succumb abrasion stimulation flounder neptune vulcan
 1
 5 5
 2
-0 32 16 5
 0 30 2 3
+0 32 16 5
 1
 end_operator
 begin_operator
@@ -45225,8 +45225,8 @@ succumb abrasion stimulation flounder vulcan earth
 1
 5 5
 2
-0 32 16 5
 0 30 3 0
+0 32 16 5
 1
 end_operator
 begin_operator
@@ -45234,8 +45234,8 @@ succumb abrasion stimulation guava mercury neptune
 1
 5 6
 2
-0 32 16 6
 0 30 1 2
+0 32 16 6
 1
 end_operator
 begin_operator
@@ -45243,8 +45243,8 @@ succumb abrasion stimulation guava neptune vulcan
 1
 5 6
 2
-0 32 16 6
 0 30 2 3
+0 32 16 6
 1
 end_operator
 begin_operator
@@ -45252,8 +45252,8 @@ succumb abrasion stimulation guava vulcan earth
 1
 5 6
 2
-0 32 16 6
 0 30 3 0
+0 32 16 6
 1
 end_operator
 begin_operator
@@ -45261,8 +45261,8 @@ succumb abrasion stimulation marzipan mercury neptune
 1
 5 7
 2
-0 32 16 7
 0 30 1 2
+0 32 16 7
 1
 end_operator
 begin_operator
@@ -45270,8 +45270,8 @@ succumb abrasion stimulation marzipan neptune vulcan
 1
 5 7
 2
-0 32 16 7
 0 30 2 3
+0 32 16 7
 1
 end_operator
 begin_operator
@@ -45279,8 +45279,8 @@ succumb abrasion stimulation marzipan vulcan earth
 1
 5 7
 2
-0 32 16 7
 0 30 3 0
+0 32 16 7
 1
 end_operator
 begin_operator
@@ -45288,8 +45288,8 @@ succumb abrasion stimulation pepper mercury neptune
 1
 5 8
 2
-0 32 16 8
 0 30 1 2
+0 32 16 8
 1
 end_operator
 begin_operator
@@ -45297,8 +45297,8 @@ succumb abrasion stimulation pepper neptune vulcan
 1
 5 8
 2
-0 32 16 8
 0 30 2 3
+0 32 16 8
 1
 end_operator
 begin_operator
@@ -45306,8 +45306,8 @@ succumb abrasion stimulation pepper vulcan earth
 1
 5 8
 2
-0 32 16 8
 0 30 3 0
+0 32 16 8
 1
 end_operator
 begin_operator
@@ -45315,8 +45315,8 @@ succumb abrasion stimulation rice mercury neptune
 1
 5 9
 2
-0 32 16 9
 0 30 1 2
+0 32 16 9
 1
 end_operator
 begin_operator
@@ -45324,8 +45324,8 @@ succumb abrasion stimulation rice neptune vulcan
 1
 5 9
 2
-0 32 16 9
 0 30 2 3
+0 32 16 9
 1
 end_operator
 begin_operator
@@ -45333,8 +45333,8 @@ succumb abrasion stimulation rice vulcan earth
 1
 5 9
 2
-0 32 16 9
 0 30 3 0
+0 32 16 9
 1
 end_operator
 begin_operator
@@ -45342,8 +45342,8 @@ succumb abrasion stimulation wonderbread mercury neptune
 1
 5 10
 2
-0 32 16 10
 0 30 1 2
+0 32 16 10
 1
 end_operator
 begin_operator
@@ -45351,8 +45351,8 @@ succumb abrasion stimulation wonderbread neptune vulcan
 1
 5 10
 2
-0 32 16 10
 0 30 2 3
+0 32 16 10
 1
 end_operator
 begin_operator
@@ -45360,8 +45360,8 @@ succumb abrasion stimulation wonderbread vulcan earth
 1
 5 10
 2
-0 32 16 10
 0 30 3 0
+0 32 16 10
 1
 end_operator
 begin_operator
@@ -45369,8 +45369,8 @@ succumb abrasion triumph arugula mercury neptune
 1
 6 0
 2
-0 32 17 0
 0 31 1 2
+0 32 17 0
 1
 end_operator
 begin_operator
@@ -45378,8 +45378,8 @@ succumb abrasion triumph arugula neptune vulcan
 1
 6 0
 2
-0 32 17 0
 0 31 2 3
+0 32 17 0
 1
 end_operator
 begin_operator
@@ -45387,8 +45387,8 @@ succumb abrasion triumph arugula vulcan earth
 1
 6 0
 2
-0 32 17 0
 0 31 3 0
+0 32 17 0
 1
 end_operator
 begin_operator
@@ -45396,8 +45396,8 @@ succumb abrasion triumph bacon mercury neptune
 1
 6 1
 2
-0 32 17 1
 0 31 1 2
+0 32 17 1
 1
 end_operator
 begin_operator
@@ -45405,8 +45405,8 @@ succumb abrasion triumph bacon neptune vulcan
 1
 6 1
 2
-0 32 17 1
 0 31 2 3
+0 32 17 1
 1
 end_operator
 begin_operator
@@ -45414,8 +45414,8 @@ succumb abrasion triumph bacon vulcan earth
 1
 6 1
 2
-0 32 17 1
 0 31 3 0
+0 32 17 1
 1
 end_operator
 begin_operator
@@ -45423,8 +45423,8 @@ succumb abrasion triumph baguette mercury neptune
 1
 6 2
 2
-0 32 17 2
 0 31 1 2
+0 32 17 2
 1
 end_operator
 begin_operator
@@ -45432,8 +45432,8 @@ succumb abrasion triumph baguette neptune vulcan
 1
 6 2
 2
-0 32 17 2
 0 31 2 3
+0 32 17 2
 1
 end_operator
 begin_operator
@@ -45441,8 +45441,8 @@ succumb abrasion triumph baguette vulcan earth
 1
 6 2
 2
-0 32 17 2
 0 31 3 0
+0 32 17 2
 1
 end_operator
 begin_operator
@@ -45450,8 +45450,8 @@ succumb abrasion triumph chicken mercury neptune
 1
 6 3
 2
-0 32 17 3
 0 31 1 2
+0 32 17 3
 1
 end_operator
 begin_operator
@@ -45459,8 +45459,8 @@ succumb abrasion triumph chicken neptune vulcan
 1
 6 3
 2
-0 32 17 3
 0 31 2 3
+0 32 17 3
 1
 end_operator
 begin_operator
@@ -45468,8 +45468,8 @@ succumb abrasion triumph chicken vulcan earth
 1
 6 3
 2
-0 32 17 3
 0 31 3 0
+0 32 17 3
 1
 end_operator
 begin_operator
@@ -45477,8 +45477,8 @@ succumb abrasion triumph chocolate mercury neptune
 1
 6 4
 2
-0 32 17 4
 0 31 1 2
+0 32 17 4
 1
 end_operator
 begin_operator
@@ -45486,8 +45486,8 @@ succumb abrasion triumph chocolate neptune vulcan
 1
 6 4
 2
-0 32 17 4
 0 31 2 3
+0 32 17 4
 1
 end_operator
 begin_operator
@@ -45495,8 +45495,8 @@ succumb abrasion triumph chocolate vulcan earth
 1
 6 4
 2
-0 32 17 4
 0 31 3 0
+0 32 17 4
 1
 end_operator
 begin_operator
@@ -45504,8 +45504,8 @@ succumb abrasion triumph flounder mercury neptune
 1
 6 5
 2
-0 32 17 5
 0 31 1 2
+0 32 17 5
 1
 end_operator
 begin_operator
@@ -45513,8 +45513,8 @@ succumb abrasion triumph flounder neptune vulcan
 1
 6 5
 2
-0 32 17 5
 0 31 2 3
+0 32 17 5
 1
 end_operator
 begin_operator
@@ -45522,8 +45522,8 @@ succumb abrasion triumph flounder vulcan earth
 1
 6 5
 2
-0 32 17 5
 0 31 3 0
+0 32 17 5
 1
 end_operator
 begin_operator
@@ -45531,8 +45531,8 @@ succumb abrasion triumph guava mercury neptune
 1
 6 6
 2
-0 32 17 6
 0 31 1 2
+0 32 17 6
 1
 end_operator
 begin_operator
@@ -45540,8 +45540,8 @@ succumb abrasion triumph guava neptune vulcan
 1
 6 6
 2
-0 32 17 6
 0 31 2 3
+0 32 17 6
 1
 end_operator
 begin_operator
@@ -45549,8 +45549,8 @@ succumb abrasion triumph guava vulcan earth
 1
 6 6
 2
-0 32 17 6
 0 31 3 0
+0 32 17 6
 1
 end_operator
 begin_operator
@@ -45558,8 +45558,8 @@ succumb abrasion triumph marzipan mercury neptune
 1
 6 7
 2
-0 32 17 7
 0 31 1 2
+0 32 17 7
 1
 end_operator
 begin_operator
@@ -45567,8 +45567,8 @@ succumb abrasion triumph marzipan neptune vulcan
 1
 6 7
 2
-0 32 17 7
 0 31 2 3
+0 32 17 7
 1
 end_operator
 begin_operator
@@ -45576,8 +45576,8 @@ succumb abrasion triumph marzipan vulcan earth
 1
 6 7
 2
-0 32 17 7
 0 31 3 0
+0 32 17 7
 1
 end_operator
 begin_operator
@@ -45585,8 +45585,8 @@ succumb abrasion triumph pepper mercury neptune
 1
 6 8
 2
-0 32 17 8
 0 31 1 2
+0 32 17 8
 1
 end_operator
 begin_operator
@@ -45594,8 +45594,8 @@ succumb abrasion triumph pepper neptune vulcan
 1
 6 8
 2
-0 32 17 8
 0 31 2 3
+0 32 17 8
 1
 end_operator
 begin_operator
@@ -45603,8 +45603,8 @@ succumb abrasion triumph pepper vulcan earth
 1
 6 8
 2
-0 32 17 8
 0 31 3 0
+0 32 17 8
 1
 end_operator
 begin_operator
@@ -45612,8 +45612,8 @@ succumb abrasion triumph rice mercury neptune
 1
 6 9
 2
-0 32 17 9
 0 31 1 2
+0 32 17 9
 1
 end_operator
 begin_operator
@@ -45621,8 +45621,8 @@ succumb abrasion triumph rice neptune vulcan
 1
 6 9
 2
-0 32 17 9
 0 31 2 3
+0 32 17 9
 1
 end_operator
 begin_operator
@@ -45630,8 +45630,8 @@ succumb abrasion triumph rice vulcan earth
 1
 6 9
 2
-0 32 17 9
 0 31 3 0
+0 32 17 9
 1
 end_operator
 begin_operator
@@ -45639,8 +45639,8 @@ succumb abrasion triumph wonderbread mercury neptune
 1
 6 10
 2
-0 32 17 10
 0 31 1 2
+0 32 17 10
 1
 end_operator
 begin_operator
@@ -45648,8 +45648,8 @@ succumb abrasion triumph wonderbread neptune vulcan
 1
 6 10
 2
-0 32 17 10
 0 31 2 3
+0 32 17 10
 1
 end_operator
 begin_operator
@@ -45657,8 +45657,8 @@ succumb abrasion triumph wonderbread vulcan earth
 1
 6 10
 2
-0 32 17 10
 0 31 3 0
+0 32 17 10
 1
 end_operator
 begin_operator
@@ -51903,8 +51903,8 @@ succumb grief achievement arugula mercury neptune
 1
 0 0
 2
-0 23 11 0
 0 21 1 2
+0 23 11 0
 1
 end_operator
 begin_operator
@@ -51912,8 +51912,8 @@ succumb grief achievement arugula neptune vulcan
 1
 0 0
 2
-0 23 11 0
 0 21 2 3
+0 23 11 0
 1
 end_operator
 begin_operator
@@ -51921,8 +51921,8 @@ succumb grief achievement arugula vulcan earth
 1
 0 0
 2
-0 23 11 0
 0 21 3 0
+0 23 11 0
 1
 end_operator
 begin_operator
@@ -51930,8 +51930,8 @@ succumb grief achievement bacon mercury neptune
 1
 0 1
 2
-0 23 11 1
 0 21 1 2
+0 23 11 1
 1
 end_operator
 begin_operator
@@ -51939,8 +51939,8 @@ succumb grief achievement bacon neptune vulcan
 1
 0 1
 2
-0 23 11 1
 0 21 2 3
+0 23 11 1
 1
 end_operator
 begin_operator
@@ -51948,8 +51948,8 @@ succumb grief achievement bacon vulcan earth
 1
 0 1
 2
-0 23 11 1
 0 21 3 0
+0 23 11 1
 1
 end_operator
 begin_operator
@@ -51957,8 +51957,8 @@ succumb grief achievement baguette mercury neptune
 1
 0 2
 2
-0 23 11 2
 0 21 1 2
+0 23 11 2
 1
 end_operator
 begin_operator
@@ -51966,8 +51966,8 @@ succumb grief achievement baguette neptune vulcan
 1
 0 2
 2
-0 23 11 2
 0 21 2 3
+0 23 11 2
 1
 end_operator
 begin_operator
@@ -51975,8 +51975,8 @@ succumb grief achievement baguette vulcan earth
 1
 0 2
 2
-0 23 11 2
 0 21 3 0
+0 23 11 2
 1
 end_operator
 begin_operator
@@ -51984,8 +51984,8 @@ succumb grief achievement chicken mercury neptune
 1
 0 3
 2
-0 23 11 3
 0 21 1 2
+0 23 11 3
 1
 end_operator
 begin_operator
@@ -51993,8 +51993,8 @@ succumb grief achievement chicken neptune vulcan
 1
 0 3
 2
-0 23 11 3
 0 21 2 3
+0 23 11 3
 1
 end_operator
 begin_operator
@@ -52002,8 +52002,8 @@ succumb grief achievement chicken vulcan earth
 1
 0 3
 2
-0 23 11 3
 0 21 3 0
+0 23 11 3
 1
 end_operator
 begin_operator
@@ -52011,8 +52011,8 @@ succumb grief achievement chocolate mercury neptune
 1
 0 4
 2
-0 23 11 4
 0 21 1 2
+0 23 11 4
 1
 end_operator
 begin_operator
@@ -52020,8 +52020,8 @@ succumb grief achievement chocolate neptune vulcan
 1
 0 4
 2
-0 23 11 4
 0 21 2 3
+0 23 11 4
 1
 end_operator
 begin_operator
@@ -52029,8 +52029,8 @@ succumb grief achievement chocolate vulcan earth
 1
 0 4
 2
-0 23 11 4
 0 21 3 0
+0 23 11 4
 1
 end_operator
 begin_operator
@@ -52038,8 +52038,8 @@ succumb grief achievement flounder mercury neptune
 1
 0 5
 2
-0 23 11 5
 0 21 1 2
+0 23 11 5
 1
 end_operator
 begin_operator
@@ -52047,8 +52047,8 @@ succumb grief achievement flounder neptune vulcan
 1
 0 5
 2
-0 23 11 5
 0 21 2 3
+0 23 11 5
 1
 end_operator
 begin_operator
@@ -52056,8 +52056,8 @@ succumb grief achievement flounder vulcan earth
 1
 0 5
 2
-0 23 11 5
 0 21 3 0
+0 23 11 5
 1
 end_operator
 begin_operator
@@ -52065,8 +52065,8 @@ succumb grief achievement guava mercury neptune
 1
 0 6
 2
-0 23 11 6
 0 21 1 2
+0 23 11 6
 1
 end_operator
 begin_operator
@@ -52074,8 +52074,8 @@ succumb grief achievement guava neptune vulcan
 1
 0 6
 2
-0 23 11 6
 0 21 2 3
+0 23 11 6
 1
 end_operator
 begin_operator
@@ -52083,8 +52083,8 @@ succumb grief achievement guava vulcan earth
 1
 0 6
 2
-0 23 11 6
 0 21 3 0
+0 23 11 6
 1
 end_operator
 begin_operator
@@ -52092,8 +52092,8 @@ succumb grief achievement marzipan mercury neptune
 1
 0 7
 2
-0 23 11 7
 0 21 1 2
+0 23 11 7
 1
 end_operator
 begin_operator
@@ -52101,8 +52101,8 @@ succumb grief achievement marzipan neptune vulcan
 1
 0 7
 2
-0 23 11 7
 0 21 2 3
+0 23 11 7
 1
 end_operator
 begin_operator
@@ -52110,8 +52110,8 @@ succumb grief achievement marzipan vulcan earth
 1
 0 7
 2
-0 23 11 7
 0 21 3 0
+0 23 11 7
 1
 end_operator
 begin_operator
@@ -52119,8 +52119,8 @@ succumb grief achievement pepper mercury neptune
 1
 0 8
 2
-0 23 11 8
 0 21 1 2
+0 23 11 8
 1
 end_operator
 begin_operator
@@ -52128,8 +52128,8 @@ succumb grief achievement pepper neptune vulcan
 1
 0 8
 2
-0 23 11 8
 0 21 2 3
+0 23 11 8
 1
 end_operator
 begin_operator
@@ -52137,8 +52137,8 @@ succumb grief achievement pepper vulcan earth
 1
 0 8
 2
-0 23 11 8
 0 21 3 0
+0 23 11 8
 1
 end_operator
 begin_operator
@@ -52146,8 +52146,8 @@ succumb grief achievement rice mercury neptune
 1
 0 9
 2
-0 23 11 9
 0 21 1 2
+0 23 11 9
 1
 end_operator
 begin_operator
@@ -52155,8 +52155,8 @@ succumb grief achievement rice neptune vulcan
 1
 0 9
 2
-0 23 11 9
 0 21 2 3
+0 23 11 9
 1
 end_operator
 begin_operator
@@ -52164,8 +52164,8 @@ succumb grief achievement rice vulcan earth
 1
 0 9
 2
-0 23 11 9
 0 21 3 0
+0 23 11 9
 1
 end_operator
 begin_operator
@@ -52173,8 +52173,8 @@ succumb grief achievement wonderbread mercury neptune
 1
 0 10
 2
-0 23 11 10
 0 21 1 2
+0 23 11 10
 1
 end_operator
 begin_operator
@@ -52182,8 +52182,8 @@ succumb grief achievement wonderbread neptune vulcan
 1
 0 10
 2
-0 23 11 10
 0 21 2 3
+0 23 11 10
 1
 end_operator
 begin_operator
@@ -52191,8 +52191,8 @@ succumb grief achievement wonderbread vulcan earth
 1
 0 10
 2
-0 23 11 10
 0 21 3 0
+0 23 11 10
 1
 end_operator
 begin_operator
@@ -52200,8 +52200,8 @@ succumb grief excitement arugula mercury neptune
 1
 1 0
 2
-0 23 12 0
 0 22 1 2
+0 23 12 0
 1
 end_operator
 begin_operator
@@ -52209,8 +52209,8 @@ succumb grief excitement arugula neptune vulcan
 1
 1 0
 2
-0 23 12 0
 0 22 2 3
+0 23 12 0
 1
 end_operator
 begin_operator
@@ -52218,8 +52218,8 @@ succumb grief excitement arugula vulcan earth
 1
 1 0
 2
-0 23 12 0
 0 22 3 0
+0 23 12 0
 1
 end_operator
 begin_operator
@@ -52227,8 +52227,8 @@ succumb grief excitement bacon mercury neptune
 1
 1 1
 2
-0 23 12 1
 0 22 1 2
+0 23 12 1
 1
 end_operator
 begin_operator
@@ -52236,8 +52236,8 @@ succumb grief excitement bacon neptune vulcan
 1
 1 1
 2
-0 23 12 1
 0 22 2 3
+0 23 12 1
 1
 end_operator
 begin_operator
@@ -52245,8 +52245,8 @@ succumb grief excitement bacon vulcan earth
 1
 1 1
 2
-0 23 12 1
 0 22 3 0
+0 23 12 1
 1
 end_operator
 begin_operator
@@ -52254,8 +52254,8 @@ succumb grief excitement baguette mercury neptune
 1
 1 2
 2
-0 23 12 2
 0 22 1 2
+0 23 12 2
 1
 end_operator
 begin_operator
@@ -52263,8 +52263,8 @@ succumb grief excitement baguette neptune vulcan
 1
 1 2
 2
-0 23 12 2
 0 22 2 3
+0 23 12 2
 1
 end_operator
 begin_operator
@@ -52272,8 +52272,8 @@ succumb grief excitement baguette vulcan earth
 1
 1 2
 2
-0 23 12 2
 0 22 3 0
+0 23 12 2
 1
 end_operator
 begin_operator
@@ -52281,8 +52281,8 @@ succumb grief excitement chicken mercury neptune
 1
 1 3
 2
-0 23 12 3
 0 22 1 2
+0 23 12 3
 1
 end_operator
 begin_operator
@@ -52290,8 +52290,8 @@ succumb grief excitement chicken neptune vulcan
 1
 1 3
 2
-0 23 12 3
 0 22 2 3
+0 23 12 3
 1
 end_operator
 begin_operator
@@ -52299,8 +52299,8 @@ succumb grief excitement chicken vulcan earth
 1
 1 3
 2
-0 23 12 3
 0 22 3 0
+0 23 12 3
 1
 end_operator
 begin_operator
@@ -52308,8 +52308,8 @@ succumb grief excitement chocolate mercury neptune
 1
 1 4
 2
-0 23 12 4
 0 22 1 2
+0 23 12 4
 1
 end_operator
 begin_operator
@@ -52317,8 +52317,8 @@ succumb grief excitement chocolate neptune vulcan
 1
 1 4
 2
-0 23 12 4
 0 22 2 3
+0 23 12 4
 1
 end_operator
 begin_operator
@@ -52326,8 +52326,8 @@ succumb grief excitement chocolate vulcan earth
 1
 1 4
 2
-0 23 12 4
 0 22 3 0
+0 23 12 4
 1
 end_operator
 begin_operator
@@ -52335,8 +52335,8 @@ succumb grief excitement flounder mercury neptune
 1
 1 5
 2
-0 23 12 5
 0 22 1 2
+0 23 12 5
 1
 end_operator
 begin_operator
@@ -52344,8 +52344,8 @@ succumb grief excitement flounder neptune vulcan
 1
 1 5
 2
-0 23 12 5
 0 22 2 3
+0 23 12 5
 1
 end_operator
 begin_operator
@@ -52353,8 +52353,8 @@ succumb grief excitement flounder vulcan earth
 1
 1 5
 2
-0 23 12 5
 0 22 3 0
+0 23 12 5
 1
 end_operator
 begin_operator
@@ -52362,8 +52362,8 @@ succumb grief excitement guava mercury neptune
 1
 1 6
 2
-0 23 12 6
 0 22 1 2
+0 23 12 6
 1
 end_operator
 begin_operator
@@ -52371,8 +52371,8 @@ succumb grief excitement guava neptune vulcan
 1
 1 6
 2
-0 23 12 6
 0 22 2 3
+0 23 12 6
 1
 end_operator
 begin_operator
@@ -52380,8 +52380,8 @@ succumb grief excitement guava vulcan earth
 1
 1 6
 2
-0 23 12 6
 0 22 3 0
+0 23 12 6
 1
 end_operator
 begin_operator
@@ -52389,8 +52389,8 @@ succumb grief excitement marzipan mercury neptune
 1
 1 7
 2
-0 23 12 7
 0 22 1 2
+0 23 12 7
 1
 end_operator
 begin_operator
@@ -52398,8 +52398,8 @@ succumb grief excitement marzipan neptune vulcan
 1
 1 7
 2
-0 23 12 7
 0 22 2 3
+0 23 12 7
 1
 end_operator
 begin_operator
@@ -52407,8 +52407,8 @@ succumb grief excitement marzipan vulcan earth
 1
 1 7
 2
-0 23 12 7
 0 22 3 0
+0 23 12 7
 1
 end_operator
 begin_operator
@@ -52416,8 +52416,8 @@ succumb grief excitement pepper mercury neptune
 1
 1 8
 2
-0 23 12 8
 0 22 1 2
+0 23 12 8
 1
 end_operator
 begin_operator
@@ -52425,8 +52425,8 @@ succumb grief excitement pepper neptune vulcan
 1
 1 8
 2
-0 23 12 8
 0 22 2 3
+0 23 12 8
 1
 end_operator
 begin_operator
@@ -52434,8 +52434,8 @@ succumb grief excitement pepper vulcan earth
 1
 1 8
 2
-0 23 12 8
 0 22 3 0
+0 23 12 8
 1
 end_operator
 begin_operator
@@ -52443,8 +52443,8 @@ succumb grief excitement rice mercury neptune
 1
 1 9
 2
-0 23 12 9
 0 22 1 2
+0 23 12 9
 1
 end_operator
 begin_operator
@@ -52452,8 +52452,8 @@ succumb grief excitement rice neptune vulcan
 1
 1 9
 2
-0 23 12 9
 0 22 2 3
+0 23 12 9
 1
 end_operator
 begin_operator
@@ -52461,8 +52461,8 @@ succumb grief excitement rice vulcan earth
 1
 1 9
 2
-0 23 12 9
 0 22 3 0
+0 23 12 9
 1
 end_operator
 begin_operator
@@ -52470,8 +52470,8 @@ succumb grief excitement wonderbread mercury neptune
 1
 1 10
 2
-0 23 12 10
 0 22 1 2
+0 23 12 10
 1
 end_operator
 begin_operator
@@ -52479,8 +52479,8 @@ succumb grief excitement wonderbread neptune vulcan
 1
 1 10
 2
-0 23 12 10
 0 22 2 3
+0 23 12 10
 1
 end_operator
 begin_operator
@@ -52488,8 +52488,8 @@ succumb grief excitement wonderbread vulcan earth
 1
 1 10
 2
-0 23 12 10
 0 22 3 0
+0 23 12 10
 1
 end_operator
 begin_operator
@@ -53982,8 +53982,8 @@ succumb jealousy achievement arugula mercury neptune
 1
 0 0
 2
-0 24 11 0
 0 21 1 2
+0 24 11 0
 1
 end_operator
 begin_operator
@@ -53991,8 +53991,8 @@ succumb jealousy achievement arugula neptune vulcan
 1
 0 0
 2
-0 24 11 0
 0 21 2 3
+0 24 11 0
 1
 end_operator
 begin_operator
@@ -54000,8 +54000,8 @@ succumb jealousy achievement arugula vulcan earth
 1
 0 0
 2
-0 24 11 0
 0 21 3 0
+0 24 11 0
 1
 end_operator
 begin_operator
@@ -54009,8 +54009,8 @@ succumb jealousy achievement bacon mercury neptune
 1
 0 1
 2
-0 24 11 1
 0 21 1 2
+0 24 11 1
 1
 end_operator
 begin_operator
@@ -54018,8 +54018,8 @@ succumb jealousy achievement bacon neptune vulcan
 1
 0 1
 2
-0 24 11 1
 0 21 2 3
+0 24 11 1
 1
 end_operator
 begin_operator
@@ -54027,8 +54027,8 @@ succumb jealousy achievement bacon vulcan earth
 1
 0 1
 2
-0 24 11 1
 0 21 3 0
+0 24 11 1
 1
 end_operator
 begin_operator
@@ -54036,8 +54036,8 @@ succumb jealousy achievement baguette mercury neptune
 1
 0 2
 2
-0 24 11 2
 0 21 1 2
+0 24 11 2
 1
 end_operator
 begin_operator
@@ -54045,8 +54045,8 @@ succumb jealousy achievement baguette neptune vulcan
 1
 0 2
 2
-0 24 11 2
 0 21 2 3
+0 24 11 2
 1
 end_operator
 begin_operator
@@ -54054,8 +54054,8 @@ succumb jealousy achievement baguette vulcan earth
 1
 0 2
 2
-0 24 11 2
 0 21 3 0
+0 24 11 2
 1
 end_operator
 begin_operator
@@ -54063,8 +54063,8 @@ succumb jealousy achievement chicken mercury neptune
 1
 0 3
 2
-0 24 11 3
 0 21 1 2
+0 24 11 3
 1
 end_operator
 begin_operator
@@ -54072,8 +54072,8 @@ succumb jealousy achievement chicken neptune vulcan
 1
 0 3
 2
-0 24 11 3
 0 21 2 3
+0 24 11 3
 1
 end_operator
 begin_operator
@@ -54081,8 +54081,8 @@ succumb jealousy achievement chicken vulcan earth
 1
 0 3
 2
-0 24 11 3
 0 21 3 0
+0 24 11 3
 1
 end_operator
 begin_operator
@@ -54090,8 +54090,8 @@ succumb jealousy achievement chocolate mercury neptune
 1
 0 4
 2
-0 24 11 4
 0 21 1 2
+0 24 11 4
 1
 end_operator
 begin_operator
@@ -54099,8 +54099,8 @@ succumb jealousy achievement chocolate neptune vulcan
 1
 0 4
 2
-0 24 11 4
 0 21 2 3
+0 24 11 4
 1
 end_operator
 begin_operator
@@ -54108,8 +54108,8 @@ succumb jealousy achievement chocolate vulcan earth
 1
 0 4
 2
-0 24 11 4
 0 21 3 0
+0 24 11 4
 1
 end_operator
 begin_operator
@@ -54117,8 +54117,8 @@ succumb jealousy achievement flounder mercury neptune
 1
 0 5
 2
-0 24 11 5
 0 21 1 2
+0 24 11 5
 1
 end_operator
 begin_operator
@@ -54126,8 +54126,8 @@ succumb jealousy achievement flounder neptune vulcan
 1
 0 5
 2
-0 24 11 5
 0 21 2 3
+0 24 11 5
 1
 end_operator
 begin_operator
@@ -54135,8 +54135,8 @@ succumb jealousy achievement flounder vulcan earth
 1
 0 5
 2
-0 24 11 5
 0 21 3 0
+0 24 11 5
 1
 end_operator
 begin_operator
@@ -54144,8 +54144,8 @@ succumb jealousy achievement guava mercury neptune
 1
 0 6
 2
-0 24 11 6
 0 21 1 2
+0 24 11 6
 1
 end_operator
 begin_operator
@@ -54153,8 +54153,8 @@ succumb jealousy achievement guava neptune vulcan
 1
 0 6
 2
-0 24 11 6
 0 21 2 3
+0 24 11 6
 1
 end_operator
 begin_operator
@@ -54162,8 +54162,8 @@ succumb jealousy achievement guava vulcan earth
 1
 0 6
 2
-0 24 11 6
 0 21 3 0
+0 24 11 6
 1
 end_operator
 begin_operator
@@ -54171,8 +54171,8 @@ succumb jealousy achievement marzipan mercury neptune
 1
 0 7
 2
-0 24 11 7
 0 21 1 2
+0 24 11 7
 1
 end_operator
 begin_operator
@@ -54180,8 +54180,8 @@ succumb jealousy achievement marzipan neptune vulcan
 1
 0 7
 2
-0 24 11 7
 0 21 2 3
+0 24 11 7
 1
 end_operator
 begin_operator
@@ -54189,8 +54189,8 @@ succumb jealousy achievement marzipan vulcan earth
 1
 0 7
 2
-0 24 11 7
 0 21 3 0
+0 24 11 7
 1
 end_operator
 begin_operator
@@ -54198,8 +54198,8 @@ succumb jealousy achievement pepper mercury neptune
 1
 0 8
 2
-0 24 11 8
 0 21 1 2
+0 24 11 8
 1
 end_operator
 begin_operator
@@ -54207,8 +54207,8 @@ succumb jealousy achievement pepper neptune vulcan
 1
 0 8
 2
-0 24 11 8
 0 21 2 3
+0 24 11 8
 1
 end_operator
 begin_operator
@@ -54216,8 +54216,8 @@ succumb jealousy achievement pepper vulcan earth
 1
 0 8
 2
-0 24 11 8
 0 21 3 0
+0 24 11 8
 1
 end_operator
 begin_operator
@@ -54225,8 +54225,8 @@ succumb jealousy achievement rice mercury neptune
 1
 0 9
 2
-0 24 11 9
 0 21 1 2
+0 24 11 9
 1
 end_operator
 begin_operator
@@ -54234,8 +54234,8 @@ succumb jealousy achievement rice neptune vulcan
 1
 0 9
 2
-0 24 11 9
 0 21 2 3
+0 24 11 9
 1
 end_operator
 begin_operator
@@ -54243,8 +54243,8 @@ succumb jealousy achievement rice vulcan earth
 1
 0 9
 2
-0 24 11 9
 0 21 3 0
+0 24 11 9
 1
 end_operator
 begin_operator
@@ -54252,8 +54252,8 @@ succumb jealousy achievement wonderbread mercury neptune
 1
 0 10
 2
-0 24 11 10
 0 21 1 2
+0 24 11 10
 1
 end_operator
 begin_operator
@@ -54261,8 +54261,8 @@ succumb jealousy achievement wonderbread neptune vulcan
 1
 0 10
 2
-0 24 11 10
 0 21 2 3
+0 24 11 10
 1
 end_operator
 begin_operator
@@ -54270,8 +54270,8 @@ succumb jealousy achievement wonderbread vulcan earth
 1
 0 10
 2
-0 24 11 10
 0 21 3 0
+0 24 11 10
 1
 end_operator
 begin_operator
@@ -54279,8 +54279,8 @@ succumb jealousy excitement arugula mercury neptune
 1
 1 0
 2
-0 24 12 0
 0 22 1 2
+0 24 12 0
 1
 end_operator
 begin_operator
@@ -54288,8 +54288,8 @@ succumb jealousy excitement arugula neptune vulcan
 1
 1 0
 2
-0 24 12 0
 0 22 2 3
+0 24 12 0
 1
 end_operator
 begin_operator
@@ -54297,8 +54297,8 @@ succumb jealousy excitement arugula vulcan earth
 1
 1 0
 2
-0 24 12 0
 0 22 3 0
+0 24 12 0
 1
 end_operator
 begin_operator
@@ -54306,8 +54306,8 @@ succumb jealousy excitement bacon mercury neptune
 1
 1 1
 2
-0 24 12 1
 0 22 1 2
+0 24 12 1
 1
 end_operator
 begin_operator
@@ -54315,8 +54315,8 @@ succumb jealousy excitement bacon neptune vulcan
 1
 1 1
 2
-0 24 12 1
 0 22 2 3
+0 24 12 1
 1
 end_operator
 begin_operator
@@ -54324,8 +54324,8 @@ succumb jealousy excitement bacon vulcan earth
 1
 1 1
 2
-0 24 12 1
 0 22 3 0
+0 24 12 1
 1
 end_operator
 begin_operator
@@ -54333,8 +54333,8 @@ succumb jealousy excitement baguette mercury neptune
 1
 1 2
 2
-0 24 12 2
 0 22 1 2
+0 24 12 2
 1
 end_operator
 begin_operator
@@ -54342,8 +54342,8 @@ succumb jealousy excitement baguette neptune vulcan
 1
 1 2
 2
-0 24 12 2
 0 22 2 3
+0 24 12 2
 1
 end_operator
 begin_operator
@@ -54351,8 +54351,8 @@ succumb jealousy excitement baguette vulcan earth
 1
 1 2
 2
-0 24 12 2
 0 22 3 0
+0 24 12 2
 1
 end_operator
 begin_operator
@@ -54360,8 +54360,8 @@ succumb jealousy excitement chicken mercury neptune
 1
 1 3
 2
-0 24 12 3
 0 22 1 2
+0 24 12 3
 1
 end_operator
 begin_operator
@@ -54369,8 +54369,8 @@ succumb jealousy excitement chicken neptune vulcan
 1
 1 3
 2
-0 24 12 3
 0 22 2 3
+0 24 12 3
 1
 end_operator
 begin_operator
@@ -54378,8 +54378,8 @@ succumb jealousy excitement chicken vulcan earth
 1
 1 3
 2
-0 24 12 3
 0 22 3 0
+0 24 12 3
 1
 end_operator
 begin_operator
@@ -54387,8 +54387,8 @@ succumb jealousy excitement chocolate mercury neptune
 1
 1 4
 2
-0 24 12 4
 0 22 1 2
+0 24 12 4
 1
 end_operator
 begin_operator
@@ -54396,8 +54396,8 @@ succumb jealousy excitement chocolate neptune vulcan
 1
 1 4
 2
-0 24 12 4
 0 22 2 3
+0 24 12 4
 1
 end_operator
 begin_operator
@@ -54405,8 +54405,8 @@ succumb jealousy excitement chocolate vulcan earth
 1
 1 4
 2
-0 24 12 4
 0 22 3 0
+0 24 12 4
 1
 end_operator
 begin_operator
@@ -54414,8 +54414,8 @@ succumb jealousy excitement flounder mercury neptune
 1
 1 5
 2
-0 24 12 5
 0 22 1 2
+0 24 12 5
 1
 end_operator
 begin_operator
@@ -54423,8 +54423,8 @@ succumb jealousy excitement flounder neptune vulcan
 1
 1 5
 2
-0 24 12 5
 0 22 2 3
+0 24 12 5
 1
 end_operator
 begin_operator
@@ -54432,8 +54432,8 @@ succumb jealousy excitement flounder vulcan earth
 1
 1 5
 2
-0 24 12 5
 0 22 3 0
+0 24 12 5
 1
 end_operator
 begin_operator
@@ -54441,8 +54441,8 @@ succumb jealousy excitement guava mercury neptune
 1
 1 6
 2
-0 24 12 6
 0 22 1 2
+0 24 12 6
 1
 end_operator
 begin_operator
@@ -54450,8 +54450,8 @@ succumb jealousy excitement guava neptune vulcan
 1
 1 6
 2
-0 24 12 6
 0 22 2 3
+0 24 12 6
 1
 end_operator
 begin_operator
@@ -54459,8 +54459,8 @@ succumb jealousy excitement guava vulcan earth
 1
 1 6
 2
-0 24 12 6
 0 22 3 0
+0 24 12 6
 1
 end_operator
 begin_operator
@@ -54468,8 +54468,8 @@ succumb jealousy excitement marzipan mercury neptune
 1
 1 7
 2
-0 24 12 7
 0 22 1 2
+0 24 12 7
 1
 end_operator
 begin_operator
@@ -54477,8 +54477,8 @@ succumb jealousy excitement marzipan neptune vulcan
 1
 1 7
 2
-0 24 12 7
 0 22 2 3
+0 24 12 7
 1
 end_operator
 begin_operator
@@ -54486,8 +54486,8 @@ succumb jealousy excitement marzipan vulcan earth
 1
 1 7
 2
-0 24 12 7
 0 22 3 0
+0 24 12 7
 1
 end_operator
 begin_operator
@@ -54495,8 +54495,8 @@ succumb jealousy excitement pepper mercury neptune
 1
 1 8
 2
-0 24 12 8
 0 22 1 2
+0 24 12 8
 1
 end_operator
 begin_operator
@@ -54504,8 +54504,8 @@ succumb jealousy excitement pepper neptune vulcan
 1
 1 8
 2
-0 24 12 8
 0 22 2 3
+0 24 12 8
 1
 end_operator
 begin_operator
@@ -54513,8 +54513,8 @@ succumb jealousy excitement pepper vulcan earth
 1
 1 8
 2
-0 24 12 8
 0 22 3 0
+0 24 12 8
 1
 end_operator
 begin_operator
@@ -54522,8 +54522,8 @@ succumb jealousy excitement rice mercury neptune
 1
 1 9
 2
-0 24 12 9
 0 22 1 2
+0 24 12 9
 1
 end_operator
 begin_operator
@@ -54531,8 +54531,8 @@ succumb jealousy excitement rice neptune vulcan
 1
 1 9
 2
-0 24 12 9
 0 22 2 3
+0 24 12 9
 1
 end_operator
 begin_operator
@@ -54540,8 +54540,8 @@ succumb jealousy excitement rice vulcan earth
 1
 1 9
 2
-0 24 12 9
 0 22 3 0
+0 24 12 9
 1
 end_operator
 begin_operator
@@ -54549,8 +54549,8 @@ succumb jealousy excitement wonderbread mercury neptune
 1
 1 10
 2
-0 24 12 10
 0 22 1 2
+0 24 12 10
 1
 end_operator
 begin_operator
@@ -54558,8 +54558,8 @@ succumb jealousy excitement wonderbread neptune vulcan
 1
 1 10
 2
-0 24 12 10
 0 22 2 3
+0 24 12 10
 1
 end_operator
 begin_operator
@@ -54567,8 +54567,8 @@ succumb jealousy excitement wonderbread vulcan earth
 1
 1 10
 2
-0 24 12 10
 0 22 3 0
+0 24 12 10
 1
 end_operator
 begin_operator
@@ -56061,8 +56061,8 @@ succumb loneliness achievement arugula mercury neptune
 1
 0 0
 2
-0 27 11 0
 0 21 1 2
+0 27 11 0
 1
 end_operator
 begin_operator
@@ -56070,8 +56070,8 @@ succumb loneliness achievement arugula neptune vulcan
 1
 0 0
 2
-0 27 11 0
 0 21 2 3
+0 27 11 0
 1
 end_operator
 begin_operator
@@ -56079,8 +56079,8 @@ succumb loneliness achievement arugula vulcan earth
 1
 0 0
 2
-0 27 11 0
 0 21 3 0
+0 27 11 0
 1
 end_operator
 begin_operator
@@ -56088,8 +56088,8 @@ succumb loneliness achievement bacon mercury neptune
 1
 0 1
 2
-0 27 11 1
 0 21 1 2
+0 27 11 1
 1
 end_operator
 begin_operator
@@ -56097,8 +56097,8 @@ succumb loneliness achievement bacon neptune vulcan
 1
 0 1
 2
-0 27 11 1
 0 21 2 3
+0 27 11 1
 1
 end_operator
 begin_operator
@@ -56106,8 +56106,8 @@ succumb loneliness achievement bacon vulcan earth
 1
 0 1
 2
-0 27 11 1
 0 21 3 0
+0 27 11 1
 1
 end_operator
 begin_operator
@@ -56115,8 +56115,8 @@ succumb loneliness achievement baguette mercury neptune
 1
 0 2
 2
-0 27 11 2
 0 21 1 2
+0 27 11 2
 1
 end_operator
 begin_operator
@@ -56124,8 +56124,8 @@ succumb loneliness achievement baguette neptune vulcan
 1
 0 2
 2
-0 27 11 2
 0 21 2 3
+0 27 11 2
 1
 end_operator
 begin_operator
@@ -56133,8 +56133,8 @@ succumb loneliness achievement baguette vulcan earth
 1
 0 2
 2
-0 27 11 2
 0 21 3 0
+0 27 11 2
 1
 end_operator
 begin_operator
@@ -56142,8 +56142,8 @@ succumb loneliness achievement chicken mercury neptune
 1
 0 3
 2
-0 27 11 3
 0 21 1 2
+0 27 11 3
 1
 end_operator
 begin_operator
@@ -56151,8 +56151,8 @@ succumb loneliness achievement chicken neptune vulcan
 1
 0 3
 2
-0 27 11 3
 0 21 2 3
+0 27 11 3
 1
 end_operator
 begin_operator
@@ -56160,8 +56160,8 @@ succumb loneliness achievement chicken vulcan earth
 1
 0 3
 2
-0 27 11 3
 0 21 3 0
+0 27 11 3
 1
 end_operator
 begin_operator
@@ -56169,8 +56169,8 @@ succumb loneliness achievement chocolate mercury neptune
 1
 0 4
 2
-0 27 11 4
 0 21 1 2
+0 27 11 4
 1
 end_operator
 begin_operator
@@ -56178,8 +56178,8 @@ succumb loneliness achievement chocolate neptune vulcan
 1
 0 4
 2
-0 27 11 4
 0 21 2 3
+0 27 11 4
 1
 end_operator
 begin_operator
@@ -56187,8 +56187,8 @@ succumb loneliness achievement chocolate vulcan earth
 1
 0 4
 2
-0 27 11 4
 0 21 3 0
+0 27 11 4
 1
 end_operator
 begin_operator
@@ -56196,8 +56196,8 @@ succumb loneliness achievement flounder mercury neptune
 1
 0 5
 2
-0 27 11 5
 0 21 1 2
+0 27 11 5
 1
 end_operator
 begin_operator
@@ -56205,8 +56205,8 @@ succumb loneliness achievement flounder neptune vulcan
 1
 0 5
 2
-0 27 11 5
 0 21 2 3
+0 27 11 5
 1
 end_operator
 begin_operator
@@ -56214,8 +56214,8 @@ succumb loneliness achievement flounder vulcan earth
 1
 0 5
 2
-0 27 11 5
 0 21 3 0
+0 27 11 5
 1
 end_operator
 begin_operator
@@ -56223,8 +56223,8 @@ succumb loneliness achievement guava mercury neptune
 1
 0 6
 2
-0 27 11 6
 0 21 1 2
+0 27 11 6
 1
 end_operator
 begin_operator
@@ -56232,8 +56232,8 @@ succumb loneliness achievement guava neptune vulcan
 1
 0 6
 2
-0 27 11 6
 0 21 2 3
+0 27 11 6
 1
 end_operator
 begin_operator
@@ -56241,8 +56241,8 @@ succumb loneliness achievement guava vulcan earth
 1
 0 6
 2
-0 27 11 6
 0 21 3 0
+0 27 11 6
 1
 end_operator
 begin_operator
@@ -56250,8 +56250,8 @@ succumb loneliness achievement marzipan mercury neptune
 1
 0 7
 2
-0 27 11 7
 0 21 1 2
+0 27 11 7
 1
 end_operator
 begin_operator
@@ -56259,8 +56259,8 @@ succumb loneliness achievement marzipan neptune vulcan
 1
 0 7
 2
-0 27 11 7
 0 21 2 3
+0 27 11 7
 1
 end_operator
 begin_operator
@@ -56268,8 +56268,8 @@ succumb loneliness achievement marzipan vulcan earth
 1
 0 7
 2
-0 27 11 7
 0 21 3 0
+0 27 11 7
 1
 end_operator
 begin_operator
@@ -56277,8 +56277,8 @@ succumb loneliness achievement pepper mercury neptune
 1
 0 8
 2
-0 27 11 8
 0 21 1 2
+0 27 11 8
 1
 end_operator
 begin_operator
@@ -56286,8 +56286,8 @@ succumb loneliness achievement pepper neptune vulcan
 1
 0 8
 2
-0 27 11 8
 0 21 2 3
+0 27 11 8
 1
 end_operator
 begin_operator
@@ -56295,8 +56295,8 @@ succumb loneliness achievement pepper vulcan earth
 1
 0 8
 2
-0 27 11 8
 0 21 3 0
+0 27 11 8
 1
 end_operator
 begin_operator
@@ -56304,8 +56304,8 @@ succumb loneliness achievement rice mercury neptune
 1
 0 9
 2
-0 27 11 9
 0 21 1 2
+0 27 11 9
 1
 end_operator
 begin_operator
@@ -56313,8 +56313,8 @@ succumb loneliness achievement rice neptune vulcan
 1
 0 9
 2
-0 27 11 9
 0 21 2 3
+0 27 11 9
 1
 end_operator
 begin_operator
@@ -56322,8 +56322,8 @@ succumb loneliness achievement rice vulcan earth
 1
 0 9
 2
-0 27 11 9
 0 21 3 0
+0 27 11 9
 1
 end_operator
 begin_operator
@@ -56331,8 +56331,8 @@ succumb loneliness achievement wonderbread mercury neptune
 1
 0 10
 2
-0 27 11 10
 0 21 1 2
+0 27 11 10
 1
 end_operator
 begin_operator
@@ -56340,8 +56340,8 @@ succumb loneliness achievement wonderbread neptune vulcan
 1
 0 10
 2
-0 27 11 10
 0 21 2 3
+0 27 11 10
 1
 end_operator
 begin_operator
@@ -56349,8 +56349,8 @@ succumb loneliness achievement wonderbread vulcan earth
 1
 0 10
 2
-0 27 11 10
 0 21 3 0
+0 27 11 10
 1
 end_operator
 begin_operator
@@ -56358,8 +56358,8 @@ succumb loneliness excitement arugula mercury neptune
 1
 1 0
 2
-0 27 12 0
 0 22 1 2
+0 27 12 0
 1
 end_operator
 begin_operator
@@ -56367,8 +56367,8 @@ succumb loneliness excitement arugula neptune vulcan
 1
 1 0
 2
-0 27 12 0
 0 22 2 3
+0 27 12 0
 1
 end_operator
 begin_operator
@@ -56376,8 +56376,8 @@ succumb loneliness excitement arugula vulcan earth
 1
 1 0
 2
-0 27 12 0
 0 22 3 0
+0 27 12 0
 1
 end_operator
 begin_operator
@@ -56385,8 +56385,8 @@ succumb loneliness excitement bacon mercury neptune
 1
 1 1
 2
-0 27 12 1
 0 22 1 2
+0 27 12 1
 1
 end_operator
 begin_operator
@@ -56394,8 +56394,8 @@ succumb loneliness excitement bacon neptune vulcan
 1
 1 1
 2
-0 27 12 1
 0 22 2 3
+0 27 12 1
 1
 end_operator
 begin_operator
@@ -56403,8 +56403,8 @@ succumb loneliness excitement bacon vulcan earth
 1
 1 1
 2
-0 27 12 1
 0 22 3 0
+0 27 12 1
 1
 end_operator
 begin_operator
@@ -56412,8 +56412,8 @@ succumb loneliness excitement baguette mercury neptune
 1
 1 2
 2
-0 27 12 2
 0 22 1 2
+0 27 12 2
 1
 end_operator
 begin_operator
@@ -56421,8 +56421,8 @@ succumb loneliness excitement baguette neptune vulcan
 1
 1 2
 2
-0 27 12 2
 0 22 2 3
+0 27 12 2
 1
 end_operator
 begin_operator
@@ -56430,8 +56430,8 @@ succumb loneliness excitement baguette vulcan earth
 1
 1 2
 2
-0 27 12 2
 0 22 3 0
+0 27 12 2
 1
 end_operator
 begin_operator
@@ -56439,8 +56439,8 @@ succumb loneliness excitement chicken mercury neptune
 1
 1 3
 2
-0 27 12 3
 0 22 1 2
+0 27 12 3
 1
 end_operator
 begin_operator
@@ -56448,8 +56448,8 @@ succumb loneliness excitement chicken neptune vulcan
 1
 1 3
 2
-0 27 12 3
 0 22 2 3
+0 27 12 3
 1
 end_operator
 begin_operator
@@ -56457,8 +56457,8 @@ succumb loneliness excitement chicken vulcan earth
 1
 1 3
 2
-0 27 12 3
 0 22 3 0
+0 27 12 3
 1
 end_operator
 begin_operator
@@ -56466,8 +56466,8 @@ succumb loneliness excitement chocolate mercury neptune
 1
 1 4
 2
-0 27 12 4
 0 22 1 2
+0 27 12 4
 1
 end_operator
 begin_operator
@@ -56475,8 +56475,8 @@ succumb loneliness excitement chocolate neptune vulcan
 1
 1 4
 2
-0 27 12 4
 0 22 2 3
+0 27 12 4
 1
 end_operator
 begin_operator
@@ -56484,8 +56484,8 @@ succumb loneliness excitement chocolate vulcan earth
 1
 1 4
 2
-0 27 12 4
 0 22 3 0
+0 27 12 4
 1
 end_operator
 begin_operator
@@ -56493,8 +56493,8 @@ succumb loneliness excitement flounder mercury neptune
 1
 1 5
 2
-0 27 12 5
 0 22 1 2
+0 27 12 5
 1
 end_operator
 begin_operator
@@ -56502,8 +56502,8 @@ succumb loneliness excitement flounder neptune vulcan
 1
 1 5
 2
-0 27 12 5
 0 22 2 3
+0 27 12 5
 1
 end_operator
 begin_operator
@@ -56511,8 +56511,8 @@ succumb loneliness excitement flounder vulcan earth
 1
 1 5
 2
-0 27 12 5
 0 22 3 0
+0 27 12 5
 1
 end_operator
 begin_operator
@@ -56520,8 +56520,8 @@ succumb loneliness excitement guava mercury neptune
 1
 1 6
 2
-0 27 12 6
 0 22 1 2
+0 27 12 6
 1
 end_operator
 begin_operator
@@ -56529,8 +56529,8 @@ succumb loneliness excitement guava neptune vulcan
 1
 1 6
 2
-0 27 12 6
 0 22 2 3
+0 27 12 6
 1
 end_operator
 begin_operator
@@ -56538,8 +56538,8 @@ succumb loneliness excitement guava vulcan earth
 1
 1 6
 2
-0 27 12 6
 0 22 3 0
+0 27 12 6
 1
 end_operator
 begin_operator
@@ -56547,8 +56547,8 @@ succumb loneliness excitement marzipan mercury neptune
 1
 1 7
 2
-0 27 12 7
 0 22 1 2
+0 27 12 7
 1
 end_operator
 begin_operator
@@ -56556,8 +56556,8 @@ succumb loneliness excitement marzipan neptune vulcan
 1
 1 7
 2
-0 27 12 7
 0 22 2 3
+0 27 12 7
 1
 end_operator
 begin_operator
@@ -56565,8 +56565,8 @@ succumb loneliness excitement marzipan vulcan earth
 1
 1 7
 2
-0 27 12 7
 0 22 3 0
+0 27 12 7
 1
 end_operator
 begin_operator
@@ -56574,8 +56574,8 @@ succumb loneliness excitement pepper mercury neptune
 1
 1 8
 2
-0 27 12 8
 0 22 1 2
+0 27 12 8
 1
 end_operator
 begin_operator
@@ -56583,8 +56583,8 @@ succumb loneliness excitement pepper neptune vulcan
 1
 1 8
 2
-0 27 12 8
 0 22 2 3
+0 27 12 8
 1
 end_operator
 begin_operator
@@ -56592,8 +56592,8 @@ succumb loneliness excitement pepper vulcan earth
 1
 1 8
 2
-0 27 12 8
 0 22 3 0
+0 27 12 8
 1
 end_operator
 begin_operator
@@ -56601,8 +56601,8 @@ succumb loneliness excitement rice mercury neptune
 1
 1 9
 2
-0 27 12 9
 0 22 1 2
+0 27 12 9
 1
 end_operator
 begin_operator
@@ -56610,8 +56610,8 @@ succumb loneliness excitement rice neptune vulcan
 1
 1 9
 2
-0 27 12 9
 0 22 2 3
+0 27 12 9
 1
 end_operator
 begin_operator
@@ -56619,8 +56619,8 @@ succumb loneliness excitement rice vulcan earth
 1
 1 9
 2
-0 27 12 9
 0 22 3 0
+0 27 12 9
 1
 end_operator
 begin_operator
@@ -56628,8 +56628,8 @@ succumb loneliness excitement wonderbread mercury neptune
 1
 1 10
 2
-0 27 12 10
 0 22 1 2
+0 27 12 10
 1
 end_operator
 begin_operator
@@ -56637,8 +56637,8 @@ succumb loneliness excitement wonderbread neptune vulcan
 1
 1 10
 2
-0 27 12 10
 0 22 2 3
+0 27 12 10
 1
 end_operator
 begin_operator
@@ -56646,8 +56646,8 @@ succumb loneliness excitement wonderbread vulcan earth
 1
 1 10
 2
-0 27 12 10
 0 22 3 0
+0 27 12 10
 1
 end_operator
 begin_operator
@@ -56655,8 +56655,8 @@ succumb loneliness learning arugula mercury neptune
 1
 2 0
 2
-0 27 13 0
 0 25 1 2
+0 27 13 0
 1
 end_operator
 begin_operator
@@ -56664,8 +56664,8 @@ succumb loneliness learning arugula neptune vulcan
 1
 2 0
 2
-0 27 13 0
 0 25 2 3
+0 27 13 0
 1
 end_operator
 begin_operator
@@ -56673,8 +56673,8 @@ succumb loneliness learning arugula vulcan earth
 1
 2 0
 2
-0 27 13 0
 0 25 3 0
+0 27 13 0
 1
 end_operator
 begin_operator
@@ -56682,8 +56682,8 @@ succumb loneliness learning bacon mercury neptune
 1
 2 1
 2
-0 27 13 1
 0 25 1 2
+0 27 13 1
 1
 end_operator
 begin_operator
@@ -56691,8 +56691,8 @@ succumb loneliness learning bacon neptune vulcan
 1
 2 1
 2
-0 27 13 1
 0 25 2 3
+0 27 13 1
 1
 end_operator
 begin_operator
@@ -56700,8 +56700,8 @@ succumb loneliness learning bacon vulcan earth
 1
 2 1
 2
-0 27 13 1
 0 25 3 0
+0 27 13 1
 1
 end_operator
 begin_operator
@@ -56709,8 +56709,8 @@ succumb loneliness learning baguette mercury neptune
 1
 2 2
 2
-0 27 13 2
 0 25 1 2
+0 27 13 2
 1
 end_operator
 begin_operator
@@ -56718,8 +56718,8 @@ succumb loneliness learning baguette neptune vulcan
 1
 2 2
 2
-0 27 13 2
 0 25 2 3
+0 27 13 2
 1
 end_operator
 begin_operator
@@ -56727,8 +56727,8 @@ succumb loneliness learning baguette vulcan earth
 1
 2 2
 2
-0 27 13 2
 0 25 3 0
+0 27 13 2
 1
 end_operator
 begin_operator
@@ -56736,8 +56736,8 @@ succumb loneliness learning chicken mercury neptune
 1
 2 3
 2
-0 27 13 3
 0 25 1 2
+0 27 13 3
 1
 end_operator
 begin_operator
@@ -56745,8 +56745,8 @@ succumb loneliness learning chicken neptune vulcan
 1
 2 3
 2
-0 27 13 3
 0 25 2 3
+0 27 13 3
 1
 end_operator
 begin_operator
@@ -56754,8 +56754,8 @@ succumb loneliness learning chicken vulcan earth
 1
 2 3
 2
-0 27 13 3
 0 25 3 0
+0 27 13 3
 1
 end_operator
 begin_operator
@@ -56763,8 +56763,8 @@ succumb loneliness learning chocolate mercury neptune
 1
 2 4
 2
-0 27 13 4
 0 25 1 2
+0 27 13 4
 1
 end_operator
 begin_operator
@@ -56772,8 +56772,8 @@ succumb loneliness learning chocolate neptune vulcan
 1
 2 4
 2
-0 27 13 4
 0 25 2 3
+0 27 13 4
 1
 end_operator
 begin_operator
@@ -56781,8 +56781,8 @@ succumb loneliness learning chocolate vulcan earth
 1
 2 4
 2
-0 27 13 4
 0 25 3 0
+0 27 13 4
 1
 end_operator
 begin_operator
@@ -56790,8 +56790,8 @@ succumb loneliness learning flounder mercury neptune
 1
 2 5
 2
-0 27 13 5
 0 25 1 2
+0 27 13 5
 1
 end_operator
 begin_operator
@@ -56799,8 +56799,8 @@ succumb loneliness learning flounder neptune vulcan
 1
 2 5
 2
-0 27 13 5
 0 25 2 3
+0 27 13 5
 1
 end_operator
 begin_operator
@@ -56808,8 +56808,8 @@ succumb loneliness learning flounder vulcan earth
 1
 2 5
 2
-0 27 13 5
 0 25 3 0
+0 27 13 5
 1
 end_operator
 begin_operator
@@ -56817,8 +56817,8 @@ succumb loneliness learning guava mercury neptune
 1
 2 6
 2
-0 27 13 6
 0 25 1 2
+0 27 13 6
 1
 end_operator
 begin_operator
@@ -56826,8 +56826,8 @@ succumb loneliness learning guava neptune vulcan
 1
 2 6
 2
-0 27 13 6
 0 25 2 3
+0 27 13 6
 1
 end_operator
 begin_operator
@@ -56835,8 +56835,8 @@ succumb loneliness learning guava vulcan earth
 1
 2 6
 2
-0 27 13 6
 0 25 3 0
+0 27 13 6
 1
 end_operator
 begin_operator
@@ -56844,8 +56844,8 @@ succumb loneliness learning marzipan mercury neptune
 1
 2 7
 2
-0 27 13 7
 0 25 1 2
+0 27 13 7
 1
 end_operator
 begin_operator
@@ -56853,8 +56853,8 @@ succumb loneliness learning marzipan neptune vulcan
 1
 2 7
 2
-0 27 13 7
 0 25 2 3
+0 27 13 7
 1
 end_operator
 begin_operator
@@ -56862,8 +56862,8 @@ succumb loneliness learning marzipan vulcan earth
 1
 2 7
 2
-0 27 13 7
 0 25 3 0
+0 27 13 7
 1
 end_operator
 begin_operator
@@ -56871,8 +56871,8 @@ succumb loneliness learning pepper mercury neptune
 1
 2 8
 2
-0 27 13 8
 0 25 1 2
+0 27 13 8
 1
 end_operator
 begin_operator
@@ -56880,8 +56880,8 @@ succumb loneliness learning pepper neptune vulcan
 1
 2 8
 2
-0 27 13 8
 0 25 2 3
+0 27 13 8
 1
 end_operator
 begin_operator
@@ -56889,8 +56889,8 @@ succumb loneliness learning pepper vulcan earth
 1
 2 8
 2
-0 27 13 8
 0 25 3 0
+0 27 13 8
 1
 end_operator
 begin_operator
@@ -56898,8 +56898,8 @@ succumb loneliness learning rice mercury neptune
 1
 2 9
 2
-0 27 13 9
 0 25 1 2
+0 27 13 9
 1
 end_operator
 begin_operator
@@ -56907,8 +56907,8 @@ succumb loneliness learning rice neptune vulcan
 1
 2 9
 2
-0 27 13 9
 0 25 2 3
+0 27 13 9
 1
 end_operator
 begin_operator
@@ -56916,8 +56916,8 @@ succumb loneliness learning rice vulcan earth
 1
 2 9
 2
-0 27 13 9
 0 25 3 0
+0 27 13 9
 1
 end_operator
 begin_operator
@@ -56925,8 +56925,8 @@ succumb loneliness learning wonderbread mercury neptune
 1
 2 10
 2
-0 27 13 10
 0 25 1 2
+0 27 13 10
 1
 end_operator
 begin_operator
@@ -56934,8 +56934,8 @@ succumb loneliness learning wonderbread neptune vulcan
 1
 2 10
 2
-0 27 13 10
 0 25 2 3
+0 27 13 10
 1
 end_operator
 begin_operator
@@ -56943,8 +56943,8 @@ succumb loneliness learning wonderbread vulcan earth
 1
 2 10
 2
-0 27 13 10
 0 25 3 0
+0 27 13 10
 1
 end_operator
 begin_operator
@@ -56952,8 +56952,8 @@ succumb loneliness rest arugula mercury neptune
 1
 3 0
 2
-0 27 14 0
 0 26 1 2
+0 27 14 0
 1
 end_operator
 begin_operator
@@ -56961,8 +56961,8 @@ succumb loneliness rest arugula neptune vulcan
 1
 3 0
 2
-0 27 14 0
 0 26 2 3
+0 27 14 0
 1
 end_operator
 begin_operator
@@ -56970,8 +56970,8 @@ succumb loneliness rest arugula vulcan earth
 1
 3 0
 2
-0 27 14 0
 0 26 3 0
+0 27 14 0
 1
 end_operator
 begin_operator
@@ -56979,8 +56979,8 @@ succumb loneliness rest bacon mercury neptune
 1
 3 1
 2
-0 27 14 1
 0 26 1 2
+0 27 14 1
 1
 end_operator
 begin_operator
@@ -56988,8 +56988,8 @@ succumb loneliness rest bacon neptune vulcan
 1
 3 1
 2
-0 27 14 1
 0 26 2 3
+0 27 14 1
 1
 end_operator
 begin_operator
@@ -56997,8 +56997,8 @@ succumb loneliness rest bacon vulcan earth
 1
 3 1
 2
-0 27 14 1
 0 26 3 0
+0 27 14 1
 1
 end_operator
 begin_operator
@@ -57006,8 +57006,8 @@ succumb loneliness rest baguette mercury neptune
 1
 3 2
 2
-0 27 14 2
 0 26 1 2
+0 27 14 2
 1
 end_operator
 begin_operator
@@ -57015,8 +57015,8 @@ succumb loneliness rest baguette neptune vulcan
 1
 3 2
 2
-0 27 14 2
 0 26 2 3
+0 27 14 2
 1
 end_operator
 begin_operator
@@ -57024,8 +57024,8 @@ succumb loneliness rest baguette vulcan earth
 1
 3 2
 2
-0 27 14 2
 0 26 3 0
+0 27 14 2
 1
 end_operator
 begin_operator
@@ -57033,8 +57033,8 @@ succumb loneliness rest chicken mercury neptune
 1
 3 3
 2
-0 27 14 3
 0 26 1 2
+0 27 14 3
 1
 end_operator
 begin_operator
@@ -57042,8 +57042,8 @@ succumb loneliness rest chicken neptune vulcan
 1
 3 3
 2
-0 27 14 3
 0 26 2 3
+0 27 14 3
 1
 end_operator
 begin_operator
@@ -57051,8 +57051,8 @@ succumb loneliness rest chicken vulcan earth
 1
 3 3
 2
-0 27 14 3
 0 26 3 0
+0 27 14 3
 1
 end_operator
 begin_operator
@@ -57060,8 +57060,8 @@ succumb loneliness rest chocolate mercury neptune
 1
 3 4
 2
-0 27 14 4
 0 26 1 2
+0 27 14 4
 1
 end_operator
 begin_operator
@@ -57069,8 +57069,8 @@ succumb loneliness rest chocolate neptune vulcan
 1
 3 4
 2
-0 27 14 4
 0 26 2 3
+0 27 14 4
 1
 end_operator
 begin_operator
@@ -57078,8 +57078,8 @@ succumb loneliness rest chocolate vulcan earth
 1
 3 4
 2
-0 27 14 4
 0 26 3 0
+0 27 14 4
 1
 end_operator
 begin_operator
@@ -57087,8 +57087,8 @@ succumb loneliness rest flounder mercury neptune
 1
 3 5
 2
-0 27 14 5
 0 26 1 2
+0 27 14 5
 1
 end_operator
 begin_operator
@@ -57096,8 +57096,8 @@ succumb loneliness rest flounder neptune vulcan
 1
 3 5
 2
-0 27 14 5
 0 26 2 3
+0 27 14 5
 1
 end_operator
 begin_operator
@@ -57105,8 +57105,8 @@ succumb loneliness rest flounder vulcan earth
 1
 3 5
 2
-0 27 14 5
 0 26 3 0
+0 27 14 5
 1
 end_operator
 begin_operator
@@ -57114,8 +57114,8 @@ succumb loneliness rest guava mercury neptune
 1
 3 6
 2
-0 27 14 6
 0 26 1 2
+0 27 14 6
 1
 end_operator
 begin_operator
@@ -57123,8 +57123,8 @@ succumb loneliness rest guava neptune vulcan
 1
 3 6
 2
-0 27 14 6
 0 26 2 3
+0 27 14 6
 1
 end_operator
 begin_operator
@@ -57132,8 +57132,8 @@ succumb loneliness rest guava vulcan earth
 1
 3 6
 2
-0 27 14 6
 0 26 3 0
+0 27 14 6
 1
 end_operator
 begin_operator
@@ -57141,8 +57141,8 @@ succumb loneliness rest marzipan mercury neptune
 1
 3 7
 2
-0 27 14 7
 0 26 1 2
+0 27 14 7
 1
 end_operator
 begin_operator
@@ -57150,8 +57150,8 @@ succumb loneliness rest marzipan neptune vulcan
 1
 3 7
 2
-0 27 14 7
 0 26 2 3
+0 27 14 7
 1
 end_operator
 begin_operator
@@ -57159,8 +57159,8 @@ succumb loneliness rest marzipan vulcan earth
 1
 3 7
 2
-0 27 14 7
 0 26 3 0
+0 27 14 7
 1
 end_operator
 begin_operator
@@ -57168,8 +57168,8 @@ succumb loneliness rest pepper mercury neptune
 1
 3 8
 2
-0 27 14 8
 0 26 1 2
+0 27 14 8
 1
 end_operator
 begin_operator
@@ -57177,8 +57177,8 @@ succumb loneliness rest pepper neptune vulcan
 1
 3 8
 2
-0 27 14 8
 0 26 2 3
+0 27 14 8
 1
 end_operator
 begin_operator
@@ -57186,8 +57186,8 @@ succumb loneliness rest pepper vulcan earth
 1
 3 8
 2
-0 27 14 8
 0 26 3 0
+0 27 14 8
 1
 end_operator
 begin_operator
@@ -57195,8 +57195,8 @@ succumb loneliness rest rice mercury neptune
 1
 3 9
 2
-0 27 14 9
 0 26 1 2
+0 27 14 9
 1
 end_operator
 begin_operator
@@ -57204,8 +57204,8 @@ succumb loneliness rest rice neptune vulcan
 1
 3 9
 2
-0 27 14 9
 0 26 2 3
+0 27 14 9
 1
 end_operator
 begin_operator
@@ -57213,8 +57213,8 @@ succumb loneliness rest rice vulcan earth
 1
 3 9
 2
-0 27 14 9
 0 26 3 0
+0 27 14 9
 1
 end_operator
 begin_operator
@@ -57222,8 +57222,8 @@ succumb loneliness rest wonderbread mercury neptune
 1
 3 10
 2
-0 27 14 10
 0 26 1 2
+0 27 14 10
 1
 end_operator
 begin_operator
@@ -57231,8 +57231,8 @@ succumb loneliness rest wonderbread neptune vulcan
 1
 3 10
 2
-0 27 14 10
 0 26 2 3
+0 27 14 10
 1
 end_operator
 begin_operator
@@ -57240,8 +57240,8 @@ succumb loneliness rest wonderbread vulcan earth
 1
 3 10
 2
-0 27 14 10
 0 26 3 0
+0 27 14 10
 1
 end_operator
 begin_operator
@@ -58140,8 +58140,8 @@ succumb prostatitis achievement arugula mercury neptune
 1
 0 0
 2
-0 28 11 0
 0 21 1 2
+0 28 11 0
 1
 end_operator
 begin_operator
@@ -58149,8 +58149,8 @@ succumb prostatitis achievement arugula neptune vulcan
 1
 0 0
 2
-0 28 11 0
 0 21 2 3
+0 28 11 0
 1
 end_operator
 begin_operator
@@ -58158,8 +58158,8 @@ succumb prostatitis achievement arugula vulcan earth
 1
 0 0
 2
-0 28 11 0
 0 21 3 0
+0 28 11 0
 1
 end_operator
 begin_operator
@@ -58167,8 +58167,8 @@ succumb prostatitis achievement bacon mercury neptune
 1
 0 1
 2
-0 28 11 1
 0 21 1 2
+0 28 11 1
 1
 end_operator
 begin_operator
@@ -58176,8 +58176,8 @@ succumb prostatitis achievement bacon neptune vulcan
 1
 0 1
 2
-0 28 11 1
 0 21 2 3
+0 28 11 1
 1
 end_operator
 begin_operator
@@ -58185,8 +58185,8 @@ succumb prostatitis achievement bacon vulcan earth
 1
 0 1
 2
-0 28 11 1
 0 21 3 0
+0 28 11 1
 1
 end_operator
 begin_operator
@@ -58194,8 +58194,8 @@ succumb prostatitis achievement baguette mercury neptune
 1
 0 2
 2
-0 28 11 2
 0 21 1 2
+0 28 11 2
 1
 end_operator
 begin_operator
@@ -58203,8 +58203,8 @@ succumb prostatitis achievement baguette neptune vulcan
 1
 0 2
 2
-0 28 11 2
 0 21 2 3
+0 28 11 2
 1
 end_operator
 begin_operator
@@ -58212,8 +58212,8 @@ succumb prostatitis achievement baguette vulcan earth
 1
 0 2
 2
-0 28 11 2
 0 21 3 0
+0 28 11 2
 1
 end_operator
 begin_operator
@@ -58221,8 +58221,8 @@ succumb prostatitis achievement chicken mercury neptune
 1
 0 3
 2
-0 28 11 3
 0 21 1 2
+0 28 11 3
 1
 end_operator
 begin_operator
@@ -58230,8 +58230,8 @@ succumb prostatitis achievement chicken neptune vulcan
 1
 0 3
 2
-0 28 11 3
 0 21 2 3
+0 28 11 3
 1
 end_operator
 begin_operator
@@ -58239,8 +58239,8 @@ succumb prostatitis achievement chicken vulcan earth
 1
 0 3
 2
-0 28 11 3
 0 21 3 0
+0 28 11 3
 1
 end_operator
 begin_operator
@@ -58248,8 +58248,8 @@ succumb prostatitis achievement chocolate mercury neptune
 1
 0 4
 2
-0 28 11 4
 0 21 1 2
+0 28 11 4
 1
 end_operator
 begin_operator
@@ -58257,8 +58257,8 @@ succumb prostatitis achievement chocolate neptune vulcan
 1
 0 4
 2
-0 28 11 4
 0 21 2 3
+0 28 11 4
 1
 end_operator
 begin_operator
@@ -58266,8 +58266,8 @@ succumb prostatitis achievement chocolate vulcan earth
 1
 0 4
 2
-0 28 11 4
 0 21 3 0
+0 28 11 4
 1
 end_operator
 begin_operator
@@ -58275,8 +58275,8 @@ succumb prostatitis achievement flounder mercury neptune
 1
 0 5
 2
-0 28 11 5
 0 21 1 2
+0 28 11 5
 1
 end_operator
 begin_operator
@@ -58284,8 +58284,8 @@ succumb prostatitis achievement flounder neptune vulcan
 1
 0 5
 2
-0 28 11 5
 0 21 2 3
+0 28 11 5
 1
 end_operator
 begin_operator
@@ -58293,8 +58293,8 @@ succumb prostatitis achievement flounder vulcan earth
 1
 0 5
 2
-0 28 11 5
 0 21 3 0
+0 28 11 5
 1
 end_operator
 begin_operator
@@ -58302,8 +58302,8 @@ succumb prostatitis achievement guava mercury neptune
 1
 0 6
 2
-0 28 11 6
 0 21 1 2
+0 28 11 6
 1
 end_operator
 begin_operator
@@ -58311,8 +58311,8 @@ succumb prostatitis achievement guava neptune vulcan
 1
 0 6
 2
-0 28 11 6
 0 21 2 3
+0 28 11 6
 1
 end_operator
 begin_operator
@@ -58320,8 +58320,8 @@ succumb prostatitis achievement guava vulcan earth
 1
 0 6
 2
-0 28 11 6
 0 21 3 0
+0 28 11 6
 1
 end_operator
 begin_operator
@@ -58329,8 +58329,8 @@ succumb prostatitis achievement marzipan mercury neptune
 1
 0 7
 2
-0 28 11 7
 0 21 1 2
+0 28 11 7
 1
 end_operator
 begin_operator
@@ -58338,8 +58338,8 @@ succumb prostatitis achievement marzipan neptune vulcan
 1
 0 7
 2
-0 28 11 7
 0 21 2 3
+0 28 11 7
 1
 end_operator
 begin_operator
@@ -58347,8 +58347,8 @@ succumb prostatitis achievement marzipan vulcan earth
 1
 0 7
 2
-0 28 11 7
 0 21 3 0
+0 28 11 7
 1
 end_operator
 begin_operator
@@ -58356,8 +58356,8 @@ succumb prostatitis achievement pepper mercury neptune
 1
 0 8
 2
-0 28 11 8
 0 21 1 2
+0 28 11 8
 1
 end_operator
 begin_operator
@@ -58365,8 +58365,8 @@ succumb prostatitis achievement pepper neptune vulcan
 1
 0 8
 2
-0 28 11 8
 0 21 2 3
+0 28 11 8
 1
 end_operator
 begin_operator
@@ -58374,8 +58374,8 @@ succumb prostatitis achievement pepper vulcan earth
 1
 0 8
 2
-0 28 11 8
 0 21 3 0
+0 28 11 8
 1
 end_operator
 begin_operator
@@ -58383,8 +58383,8 @@ succumb prostatitis achievement rice mercury neptune
 1
 0 9
 2
-0 28 11 9
 0 21 1 2
+0 28 11 9
 1
 end_operator
 begin_operator
@@ -58392,8 +58392,8 @@ succumb prostatitis achievement rice neptune vulcan
 1
 0 9
 2
-0 28 11 9
 0 21 2 3
+0 28 11 9
 1
 end_operator
 begin_operator
@@ -58401,8 +58401,8 @@ succumb prostatitis achievement rice vulcan earth
 1
 0 9
 2
-0 28 11 9
 0 21 3 0
+0 28 11 9
 1
 end_operator
 begin_operator
@@ -58410,8 +58410,8 @@ succumb prostatitis achievement wonderbread mercury neptune
 1
 0 10
 2
-0 28 11 10
 0 21 1 2
+0 28 11 10
 1
 end_operator
 begin_operator
@@ -58419,8 +58419,8 @@ succumb prostatitis achievement wonderbread neptune vulcan
 1
 0 10
 2
-0 28 11 10
 0 21 2 3
+0 28 11 10
 1
 end_operator
 begin_operator
@@ -58428,8 +58428,8 @@ succumb prostatitis achievement wonderbread vulcan earth
 1
 0 10
 2
-0 28 11 10
 0 21 3 0
+0 28 11 10
 1
 end_operator
 begin_operator
@@ -58437,8 +58437,8 @@ succumb prostatitis excitement arugula mercury neptune
 1
 1 0
 2
-0 28 12 0
 0 22 1 2
+0 28 12 0
 1
 end_operator
 begin_operator
@@ -58446,8 +58446,8 @@ succumb prostatitis excitement arugula neptune vulcan
 1
 1 0
 2
-0 28 12 0
 0 22 2 3
+0 28 12 0
 1
 end_operator
 begin_operator
@@ -58455,8 +58455,8 @@ succumb prostatitis excitement arugula vulcan earth
 1
 1 0
 2
-0 28 12 0
 0 22 3 0
+0 28 12 0
 1
 end_operator
 begin_operator
@@ -58464,8 +58464,8 @@ succumb prostatitis excitement bacon mercury neptune
 1
 1 1
 2
-0 28 12 1
 0 22 1 2
+0 28 12 1
 1
 end_operator
 begin_operator
@@ -58473,8 +58473,8 @@ succumb prostatitis excitement bacon neptune vulcan
 1
 1 1
 2
-0 28 12 1
 0 22 2 3
+0 28 12 1
 1
 end_operator
 begin_operator
@@ -58482,8 +58482,8 @@ succumb prostatitis excitement bacon vulcan earth
 1
 1 1
 2
-0 28 12 1
 0 22 3 0
+0 28 12 1
 1
 end_operator
 begin_operator
@@ -58491,8 +58491,8 @@ succumb prostatitis excitement baguette mercury neptune
 1
 1 2
 2
-0 28 12 2
 0 22 1 2
+0 28 12 2
 1
 end_operator
 begin_operator
@@ -58500,8 +58500,8 @@ succumb prostatitis excitement baguette neptune vulcan
 1
 1 2
 2
-0 28 12 2
 0 22 2 3
+0 28 12 2
 1
 end_operator
 begin_operator
@@ -58509,8 +58509,8 @@ succumb prostatitis excitement baguette vulcan earth
 1
 1 2
 2
-0 28 12 2
 0 22 3 0
+0 28 12 2
 1
 end_operator
 begin_operator
@@ -58518,8 +58518,8 @@ succumb prostatitis excitement chicken mercury neptune
 1
 1 3
 2
-0 28 12 3
 0 22 1 2
+0 28 12 3
 1
 end_operator
 begin_operator
@@ -58527,8 +58527,8 @@ succumb prostatitis excitement chicken neptune vulcan
 1
 1 3
 2
-0 28 12 3
 0 22 2 3
+0 28 12 3
 1
 end_operator
 begin_operator
@@ -58536,8 +58536,8 @@ succumb prostatitis excitement chicken vulcan earth
 1
 1 3
 2
-0 28 12 3
 0 22 3 0
+0 28 12 3
 1
 end_operator
 begin_operator
@@ -58545,8 +58545,8 @@ succumb prostatitis excitement chocolate mercury neptune
 1
 1 4
 2
-0 28 12 4
 0 22 1 2
+0 28 12 4
 1
 end_operator
 begin_operator
@@ -58554,8 +58554,8 @@ succumb prostatitis excitement chocolate neptune vulcan
 1
 1 4
 2
-0 28 12 4
 0 22 2 3
+0 28 12 4
 1
 end_operator
 begin_operator
@@ -58563,8 +58563,8 @@ succumb prostatitis excitement chocolate vulcan earth
 1
 1 4
 2
-0 28 12 4
 0 22 3 0
+0 28 12 4
 1
 end_operator
 begin_operator
@@ -58572,8 +58572,8 @@ succumb prostatitis excitement flounder mercury neptune
 1
 1 5
 2
-0 28 12 5
 0 22 1 2
+0 28 12 5
 1
 end_operator
 begin_operator
@@ -58581,8 +58581,8 @@ succumb prostatitis excitement flounder neptune vulcan
 1
 1 5
 2
-0 28 12 5
 0 22 2 3
+0 28 12 5
 1
 end_operator
 begin_operator
@@ -58590,8 +58590,8 @@ succumb prostatitis excitement flounder vulcan earth
 1
 1 5
 2
-0 28 12 5
 0 22 3 0
+0 28 12 5
 1
 end_operator
 begin_operator
@@ -58599,8 +58599,8 @@ succumb prostatitis excitement guava mercury neptune
 1
 1 6
 2
-0 28 12 6
 0 22 1 2
+0 28 12 6
 1
 end_operator
 begin_operator
@@ -58608,8 +58608,8 @@ succumb prostatitis excitement guava neptune vulcan
 1
 1 6
 2
-0 28 12 6
 0 22 2 3
+0 28 12 6
 1
 end_operator
 begin_operator
@@ -58617,8 +58617,8 @@ succumb prostatitis excitement guava vulcan earth
 1
 1 6
 2
-0 28 12 6
 0 22 3 0
+0 28 12 6
 1
 end_operator
 begin_operator
@@ -58626,8 +58626,8 @@ succumb prostatitis excitement marzipan mercury neptune
 1
 1 7
 2
-0 28 12 7
 0 22 1 2
+0 28 12 7
 1
 end_operator
 begin_operator
@@ -58635,8 +58635,8 @@ succumb prostatitis excitement marzipan neptune vulcan
 1
 1 7
 2
-0 28 12 7
 0 22 2 3
+0 28 12 7
 1
 end_operator
 begin_operator
@@ -58644,8 +58644,8 @@ succumb prostatitis excitement marzipan vulcan earth
 1
 1 7
 2
-0 28 12 7
 0 22 3 0
+0 28 12 7
 1
 end_operator
 begin_operator
@@ -58653,8 +58653,8 @@ succumb prostatitis excitement pepper mercury neptune
 1
 1 8
 2
-0 28 12 8
 0 22 1 2
+0 28 12 8
 1
 end_operator
 begin_operator
@@ -58662,8 +58662,8 @@ succumb prostatitis excitement pepper neptune vulcan
 1
 1 8
 2
-0 28 12 8
 0 22 2 3
+0 28 12 8
 1
 end_operator
 begin_operator
@@ -58671,8 +58671,8 @@ succumb prostatitis excitement pepper vulcan earth
 1
 1 8
 2
-0 28 12 8
 0 22 3 0
+0 28 12 8
 1
 end_operator
 begin_operator
@@ -58680,8 +58680,8 @@ succumb prostatitis excitement rice mercury neptune
 1
 1 9
 2
-0 28 12 9
 0 22 1 2
+0 28 12 9
 1
 end_operator
 begin_operator
@@ -58689,8 +58689,8 @@ succumb prostatitis excitement rice neptune vulcan
 1
 1 9
 2
-0 28 12 9
 0 22 2 3
+0 28 12 9
 1
 end_operator
 begin_operator
@@ -58698,8 +58698,8 @@ succumb prostatitis excitement rice vulcan earth
 1
 1 9
 2
-0 28 12 9
 0 22 3 0
+0 28 12 9
 1
 end_operator
 begin_operator
@@ -58707,8 +58707,8 @@ succumb prostatitis excitement wonderbread mercury neptune
 1
 1 10
 2
-0 28 12 10
 0 22 1 2
+0 28 12 10
 1
 end_operator
 begin_operator
@@ -58716,8 +58716,8 @@ succumb prostatitis excitement wonderbread neptune vulcan
 1
 1 10
 2
-0 28 12 10
 0 22 2 3
+0 28 12 10
 1
 end_operator
 begin_operator
@@ -58725,8 +58725,8 @@ succumb prostatitis excitement wonderbread vulcan earth
 1
 1 10
 2
-0 28 12 10
 0 22 3 0
+0 28 12 10
 1
 end_operator
 begin_operator
@@ -58734,8 +58734,8 @@ succumb prostatitis learning arugula mercury neptune
 1
 2 0
 2
-0 28 13 0
 0 25 1 2
+0 28 13 0
 1
 end_operator
 begin_operator
@@ -58743,8 +58743,8 @@ succumb prostatitis learning arugula neptune vulcan
 1
 2 0
 2
-0 28 13 0
 0 25 2 3
+0 28 13 0
 1
 end_operator
 begin_operator
@@ -58752,8 +58752,8 @@ succumb prostatitis learning arugula vulcan earth
 1
 2 0
 2
-0 28 13 0
 0 25 3 0
+0 28 13 0
 1
 end_operator
 begin_operator
@@ -58761,8 +58761,8 @@ succumb prostatitis learning bacon mercury neptune
 1
 2 1
 2
-0 28 13 1
 0 25 1 2
+0 28 13 1
 1
 end_operator
 begin_operator
@@ -58770,8 +58770,8 @@ succumb prostatitis learning bacon neptune vulcan
 1
 2 1
 2
-0 28 13 1
 0 25 2 3
+0 28 13 1
 1
 end_operator
 begin_operator
@@ -58779,8 +58779,8 @@ succumb prostatitis learning bacon vulcan earth
 1
 2 1
 2
-0 28 13 1
 0 25 3 0
+0 28 13 1
 1
 end_operator
 begin_operator
@@ -58788,8 +58788,8 @@ succumb prostatitis learning baguette mercury neptune
 1
 2 2
 2
-0 28 13 2
 0 25 1 2
+0 28 13 2
 1
 end_operator
 begin_operator
@@ -58797,8 +58797,8 @@ succumb prostatitis learning baguette neptune vulcan
 1
 2 2
 2
-0 28 13 2
 0 25 2 3
+0 28 13 2
 1
 end_operator
 begin_operator
@@ -58806,8 +58806,8 @@ succumb prostatitis learning baguette vulcan earth
 1
 2 2
 2
-0 28 13 2
 0 25 3 0
+0 28 13 2
 1
 end_operator
 begin_operator
@@ -58815,8 +58815,8 @@ succumb prostatitis learning chicken mercury neptune
 1
 2 3
 2
-0 28 13 3
 0 25 1 2
+0 28 13 3
 1
 end_operator
 begin_operator
@@ -58824,8 +58824,8 @@ succumb prostatitis learning chicken neptune vulcan
 1
 2 3
 2
-0 28 13 3
 0 25 2 3
+0 28 13 3
 1
 end_operator
 begin_operator
@@ -58833,8 +58833,8 @@ succumb prostatitis learning chicken vulcan earth
 1
 2 3
 2
-0 28 13 3
 0 25 3 0
+0 28 13 3
 1
 end_operator
 begin_operator
@@ -58842,8 +58842,8 @@ succumb prostatitis learning chocolate mercury neptune
 1
 2 4
 2
-0 28 13 4
 0 25 1 2
+0 28 13 4
 1
 end_operator
 begin_operator
@@ -58851,8 +58851,8 @@ succumb prostatitis learning chocolate neptune vulcan
 1
 2 4
 2
-0 28 13 4
 0 25 2 3
+0 28 13 4
 1
 end_operator
 begin_operator
@@ -58860,8 +58860,8 @@ succumb prostatitis learning chocolate vulcan earth
 1
 2 4
 2
-0 28 13 4
 0 25 3 0
+0 28 13 4
 1
 end_operator
 begin_operator
@@ -58869,8 +58869,8 @@ succumb prostatitis learning flounder mercury neptune
 1
 2 5
 2
-0 28 13 5
 0 25 1 2
+0 28 13 5
 1
 end_operator
 begin_operator
@@ -58878,8 +58878,8 @@ succumb prostatitis learning flounder neptune vulcan
 1
 2 5
 2
-0 28 13 5
 0 25 2 3
+0 28 13 5
 1
 end_operator
 begin_operator
@@ -58887,8 +58887,8 @@ succumb prostatitis learning flounder vulcan earth
 1
 2 5
 2
-0 28 13 5
 0 25 3 0
+0 28 13 5
 1
 end_operator
 begin_operator
@@ -58896,8 +58896,8 @@ succumb prostatitis learning guava mercury neptune
 1
 2 6
 2
-0 28 13 6
 0 25 1 2
+0 28 13 6
 1
 end_operator
 begin_operator
@@ -58905,8 +58905,8 @@ succumb prostatitis learning guava neptune vulcan
 1
 2 6
 2
-0 28 13 6
 0 25 2 3
+0 28 13 6
 1
 end_operator
 begin_operator
@@ -58914,8 +58914,8 @@ succumb prostatitis learning guava vulcan earth
 1
 2 6
 2
-0 28 13 6
 0 25 3 0
+0 28 13 6
 1
 end_operator
 begin_operator
@@ -58923,8 +58923,8 @@ succumb prostatitis learning marzipan mercury neptune
 1
 2 7
 2
-0 28 13 7
 0 25 1 2
+0 28 13 7
 1
 end_operator
 begin_operator
@@ -58932,8 +58932,8 @@ succumb prostatitis learning marzipan neptune vulcan
 1
 2 7
 2
-0 28 13 7
 0 25 2 3
+0 28 13 7
 1
 end_operator
 begin_operator
@@ -58941,8 +58941,8 @@ succumb prostatitis learning marzipan vulcan earth
 1
 2 7
 2
-0 28 13 7
 0 25 3 0
+0 28 13 7
 1
 end_operator
 begin_operator
@@ -58950,8 +58950,8 @@ succumb prostatitis learning pepper mercury neptune
 1
 2 8
 2
-0 28 13 8
 0 25 1 2
+0 28 13 8
 1
 end_operator
 begin_operator
@@ -58959,8 +58959,8 @@ succumb prostatitis learning pepper neptune vulcan
 1
 2 8
 2
-0 28 13 8
 0 25 2 3
+0 28 13 8
 1
 end_operator
 begin_operator
@@ -58968,8 +58968,8 @@ succumb prostatitis learning pepper vulcan earth
 1
 2 8
 2
-0 28 13 8
 0 25 3 0
+0 28 13 8
 1
 end_operator
 begin_operator
@@ -58977,8 +58977,8 @@ succumb prostatitis learning rice mercury neptune
 1
 2 9
 2
-0 28 13 9
 0 25 1 2
+0 28 13 9
 1
 end_operator
 begin_operator
@@ -58986,8 +58986,8 @@ succumb prostatitis learning rice neptune vulcan
 1
 2 9
 2
-0 28 13 9
 0 25 2 3
+0 28 13 9
 1
 end_operator
 begin_operator
@@ -58995,8 +58995,8 @@ succumb prostatitis learning rice vulcan earth
 1
 2 9
 2
-0 28 13 9
 0 25 3 0
+0 28 13 9
 1
 end_operator
 begin_operator
@@ -59004,8 +59004,8 @@ succumb prostatitis learning wonderbread mercury neptune
 1
 2 10
 2
-0 28 13 10
 0 25 1 2
+0 28 13 10
 1
 end_operator
 begin_operator
@@ -59013,8 +59013,8 @@ succumb prostatitis learning wonderbread neptune vulcan
 1
 2 10
 2
-0 28 13 10
 0 25 2 3
+0 28 13 10
 1
 end_operator
 begin_operator
@@ -59022,8 +59022,8 @@ succumb prostatitis learning wonderbread vulcan earth
 1
 2 10
 2
-0 28 13 10
 0 25 3 0
+0 28 13 10
 1
 end_operator
 begin_operator
@@ -59031,8 +59031,8 @@ succumb prostatitis rest arugula mercury neptune
 1
 3 0
 2
-0 28 14 0
 0 26 1 2
+0 28 14 0
 1
 end_operator
 begin_operator
@@ -59040,8 +59040,8 @@ succumb prostatitis rest arugula neptune vulcan
 1
 3 0
 2
-0 28 14 0
 0 26 2 3
+0 28 14 0
 1
 end_operator
 begin_operator
@@ -59049,8 +59049,8 @@ succumb prostatitis rest arugula vulcan earth
 1
 3 0
 2
-0 28 14 0
 0 26 3 0
+0 28 14 0
 1
 end_operator
 begin_operator
@@ -59058,8 +59058,8 @@ succumb prostatitis rest bacon mercury neptune
 1
 3 1
 2
-0 28 14 1
 0 26 1 2
+0 28 14 1
 1
 end_operator
 begin_operator
@@ -59067,8 +59067,8 @@ succumb prostatitis rest bacon neptune vulcan
 1
 3 1
 2
-0 28 14 1
 0 26 2 3
+0 28 14 1
 1
 end_operator
 begin_operator
@@ -59076,8 +59076,8 @@ succumb prostatitis rest bacon vulcan earth
 1
 3 1
 2
-0 28 14 1
 0 26 3 0
+0 28 14 1
 1
 end_operator
 begin_operator
@@ -59085,8 +59085,8 @@ succumb prostatitis rest baguette mercury neptune
 1
 3 2
 2
-0 28 14 2
 0 26 1 2
+0 28 14 2
 1
 end_operator
 begin_operator
@@ -59094,8 +59094,8 @@ succumb prostatitis rest baguette neptune vulcan
 1
 3 2
 2
-0 28 14 2
 0 26 2 3
+0 28 14 2
 1
 end_operator
 begin_operator
@@ -59103,8 +59103,8 @@ succumb prostatitis rest baguette vulcan earth
 1
 3 2
 2
-0 28 14 2
 0 26 3 0
+0 28 14 2
 1
 end_operator
 begin_operator
@@ -59112,8 +59112,8 @@ succumb prostatitis rest chicken mercury neptune
 1
 3 3
 2
-0 28 14 3
 0 26 1 2
+0 28 14 3
 1
 end_operator
 begin_operator
@@ -59121,8 +59121,8 @@ succumb prostatitis rest chicken neptune vulcan
 1
 3 3
 2
-0 28 14 3
 0 26 2 3
+0 28 14 3
 1
 end_operator
 begin_operator
@@ -59130,8 +59130,8 @@ succumb prostatitis rest chicken vulcan earth
 1
 3 3
 2
-0 28 14 3
 0 26 3 0
+0 28 14 3
 1
 end_operator
 begin_operator
@@ -59139,8 +59139,8 @@ succumb prostatitis rest chocolate mercury neptune
 1
 3 4
 2
-0 28 14 4
 0 26 1 2
+0 28 14 4
 1
 end_operator
 begin_operator
@@ -59148,8 +59148,8 @@ succumb prostatitis rest chocolate neptune vulcan
 1
 3 4
 2
-0 28 14 4
 0 26 2 3
+0 28 14 4
 1
 end_operator
 begin_operator
@@ -59157,8 +59157,8 @@ succumb prostatitis rest chocolate vulcan earth
 1
 3 4
 2
-0 28 14 4
 0 26 3 0
+0 28 14 4
 1
 end_operator
 begin_operator
@@ -59166,8 +59166,8 @@ succumb prostatitis rest flounder mercury neptune
 1
 3 5
 2
-0 28 14 5
 0 26 1 2
+0 28 14 5
 1
 end_operator
 begin_operator
@@ -59175,8 +59175,8 @@ succumb prostatitis rest flounder neptune vulcan
 1
 3 5
 2
-0 28 14 5
 0 26 2 3
+0 28 14 5
 1
 end_operator
 begin_operator
@@ -59184,8 +59184,8 @@ succumb prostatitis rest flounder vulcan earth
 1
 3 5
 2
-0 28 14 5
 0 26 3 0
+0 28 14 5
 1
 end_operator
 begin_operator
@@ -59193,8 +59193,8 @@ succumb prostatitis rest guava mercury neptune
 1
 3 6
 2
-0 28 14 6
 0 26 1 2
+0 28 14 6
 1
 end_operator
 begin_operator
@@ -59202,8 +59202,8 @@ succumb prostatitis rest guava neptune vulcan
 1
 3 6
 2
-0 28 14 6
 0 26 2 3
+0 28 14 6
 1
 end_operator
 begin_operator
@@ -59211,8 +59211,8 @@ succumb prostatitis rest guava vulcan earth
 1
 3 6
 2
-0 28 14 6
 0 26 3 0
+0 28 14 6
 1
 end_operator
 begin_operator
@@ -59220,8 +59220,8 @@ succumb prostatitis rest marzipan mercury neptune
 1
 3 7
 2
-0 28 14 7
 0 26 1 2
+0 28 14 7
 1
 end_operator
 begin_operator
@@ -59229,8 +59229,8 @@ succumb prostatitis rest marzipan neptune vulcan
 1
 3 7
 2
-0 28 14 7
 0 26 2 3
+0 28 14 7
 1
 end_operator
 begin_operator
@@ -59238,8 +59238,8 @@ succumb prostatitis rest marzipan vulcan earth
 1
 3 7
 2
-0 28 14 7
 0 26 3 0
+0 28 14 7
 1
 end_operator
 begin_operator
@@ -59247,8 +59247,8 @@ succumb prostatitis rest pepper mercury neptune
 1
 3 8
 2
-0 28 14 8
 0 26 1 2
+0 28 14 8
 1
 end_operator
 begin_operator
@@ -59256,8 +59256,8 @@ succumb prostatitis rest pepper neptune vulcan
 1
 3 8
 2
-0 28 14 8
 0 26 2 3
+0 28 14 8
 1
 end_operator
 begin_operator
@@ -59265,8 +59265,8 @@ succumb prostatitis rest pepper vulcan earth
 1
 3 8
 2
-0 28 14 8
 0 26 3 0
+0 28 14 8
 1
 end_operator
 begin_operator
@@ -59274,8 +59274,8 @@ succumb prostatitis rest rice mercury neptune
 1
 3 9
 2
-0 28 14 9
 0 26 1 2
+0 28 14 9
 1
 end_operator
 begin_operator
@@ -59283,8 +59283,8 @@ succumb prostatitis rest rice neptune vulcan
 1
 3 9
 2
-0 28 14 9
 0 26 2 3
+0 28 14 9
 1
 end_operator
 begin_operator
@@ -59292,8 +59292,8 @@ succumb prostatitis rest rice vulcan earth
 1
 3 9
 2
-0 28 14 9
 0 26 3 0
+0 28 14 9
 1
 end_operator
 begin_operator
@@ -59301,8 +59301,8 @@ succumb prostatitis rest wonderbread mercury neptune
 1
 3 10
 2
-0 28 14 10
 0 26 1 2
+0 28 14 10
 1
 end_operator
 begin_operator
@@ -59310,8 +59310,8 @@ succumb prostatitis rest wonderbread neptune vulcan
 1
 3 10
 2
-0 28 14 10
 0 26 2 3
+0 28 14 10
 1
 end_operator
 begin_operator
@@ -59319,8 +59319,8 @@ succumb prostatitis rest wonderbread vulcan earth
 1
 3 10
 2
-0 28 14 10
 0 26 3 0
+0 28 14 10
 1
 end_operator
 begin_operator
@@ -60219,8 +60219,8 @@ succumb sciatica achievement arugula mercury neptune
 1
 0 0
 2
-0 33 11 0
 0 21 1 2
+0 33 11 0
 1
 end_operator
 begin_operator
@@ -60228,8 +60228,8 @@ succumb sciatica achievement arugula neptune vulcan
 1
 0 0
 2
-0 33 11 0
 0 21 2 3
+0 33 11 0
 1
 end_operator
 begin_operator
@@ -60237,8 +60237,8 @@ succumb sciatica achievement arugula vulcan earth
 1
 0 0
 2
-0 33 11 0
 0 21 3 0
+0 33 11 0
 1
 end_operator
 begin_operator
@@ -60246,8 +60246,8 @@ succumb sciatica achievement bacon mercury neptune
 1
 0 1
 2
-0 33 11 1
 0 21 1 2
+0 33 11 1
 1
 end_operator
 begin_operator
@@ -60255,8 +60255,8 @@ succumb sciatica achievement bacon neptune vulcan
 1
 0 1
 2
-0 33 11 1
 0 21 2 3
+0 33 11 1
 1
 end_operator
 begin_operator
@@ -60264,8 +60264,8 @@ succumb sciatica achievement bacon vulcan earth
 1
 0 1
 2
-0 33 11 1
 0 21 3 0
+0 33 11 1
 1
 end_operator
 begin_operator
@@ -60273,8 +60273,8 @@ succumb sciatica achievement baguette mercury neptune
 1
 0 2
 2
-0 33 11 2
 0 21 1 2
+0 33 11 2
 1
 end_operator
 begin_operator
@@ -60282,8 +60282,8 @@ succumb sciatica achievement baguette neptune vulcan
 1
 0 2
 2
-0 33 11 2
 0 21 2 3
+0 33 11 2
 1
 end_operator
 begin_operator
@@ -60291,8 +60291,8 @@ succumb sciatica achievement baguette vulcan earth
 1
 0 2
 2
-0 33 11 2
 0 21 3 0
+0 33 11 2
 1
 end_operator
 begin_operator
@@ -60300,8 +60300,8 @@ succumb sciatica achievement chicken mercury neptune
 1
 0 3
 2
-0 33 11 3
 0 21 1 2
+0 33 11 3
 1
 end_operator
 begin_operator
@@ -60309,8 +60309,8 @@ succumb sciatica achievement chicken neptune vulcan
 1
 0 3
 2
-0 33 11 3
 0 21 2 3
+0 33 11 3
 1
 end_operator
 begin_operator
@@ -60318,8 +60318,8 @@ succumb sciatica achievement chicken vulcan earth
 1
 0 3
 2
-0 33 11 3
 0 21 3 0
+0 33 11 3
 1
 end_operator
 begin_operator
@@ -60327,8 +60327,8 @@ succumb sciatica achievement chocolate mercury neptune
 1
 0 4
 2
-0 33 11 4
 0 21 1 2
+0 33 11 4
 1
 end_operator
 begin_operator
@@ -60336,8 +60336,8 @@ succumb sciatica achievement chocolate neptune vulcan
 1
 0 4
 2
-0 33 11 4
 0 21 2 3
+0 33 11 4
 1
 end_operator
 begin_operator
@@ -60345,8 +60345,8 @@ succumb sciatica achievement chocolate vulcan earth
 1
 0 4
 2
-0 33 11 4
 0 21 3 0
+0 33 11 4
 1
 end_operator
 begin_operator
@@ -60354,8 +60354,8 @@ succumb sciatica achievement flounder mercury neptune
 1
 0 5
 2
-0 33 11 5
 0 21 1 2
+0 33 11 5
 1
 end_operator
 begin_operator
@@ -60363,8 +60363,8 @@ succumb sciatica achievement flounder neptune vulcan
 1
 0 5
 2
-0 33 11 5
 0 21 2 3
+0 33 11 5
 1
 end_operator
 begin_operator
@@ -60372,8 +60372,8 @@ succumb sciatica achievement flounder vulcan earth
 1
 0 5
 2
-0 33 11 5
 0 21 3 0
+0 33 11 5
 1
 end_operator
 begin_operator
@@ -60381,8 +60381,8 @@ succumb sciatica achievement guava mercury neptune
 1
 0 6
 2
-0 33 11 6
 0 21 1 2
+0 33 11 6
 1
 end_operator
 begin_operator
@@ -60390,8 +60390,8 @@ succumb sciatica achievement guava neptune vulcan
 1
 0 6
 2
-0 33 11 6
 0 21 2 3
+0 33 11 6
 1
 end_operator
 begin_operator
@@ -60399,8 +60399,8 @@ succumb sciatica achievement guava vulcan earth
 1
 0 6
 2
-0 33 11 6
 0 21 3 0
+0 33 11 6
 1
 end_operator
 begin_operator
@@ -60408,8 +60408,8 @@ succumb sciatica achievement marzipan mercury neptune
 1
 0 7
 2
-0 33 11 7
 0 21 1 2
+0 33 11 7
 1
 end_operator
 begin_operator
@@ -60417,8 +60417,8 @@ succumb sciatica achievement marzipan neptune vulcan
 1
 0 7
 2
-0 33 11 7
 0 21 2 3
+0 33 11 7
 1
 end_operator
 begin_operator
@@ -60426,8 +60426,8 @@ succumb sciatica achievement marzipan vulcan earth
 1
 0 7
 2
-0 33 11 7
 0 21 3 0
+0 33 11 7
 1
 end_operator
 begin_operator
@@ -60435,8 +60435,8 @@ succumb sciatica achievement pepper mercury neptune
 1
 0 8
 2
-0 33 11 8
 0 21 1 2
+0 33 11 8
 1
 end_operator
 begin_operator
@@ -60444,8 +60444,8 @@ succumb sciatica achievement pepper neptune vulcan
 1
 0 8
 2
-0 33 11 8
 0 21 2 3
+0 33 11 8
 1
 end_operator
 begin_operator
@@ -60453,8 +60453,8 @@ succumb sciatica achievement pepper vulcan earth
 1
 0 8
 2
-0 33 11 8
 0 21 3 0
+0 33 11 8
 1
 end_operator
 begin_operator
@@ -60462,8 +60462,8 @@ succumb sciatica achievement rice mercury neptune
 1
 0 9
 2
-0 33 11 9
 0 21 1 2
+0 33 11 9
 1
 end_operator
 begin_operator
@@ -60471,8 +60471,8 @@ succumb sciatica achievement rice neptune vulcan
 1
 0 9
 2
-0 33 11 9
 0 21 2 3
+0 33 11 9
 1
 end_operator
 begin_operator
@@ -60480,8 +60480,8 @@ succumb sciatica achievement rice vulcan earth
 1
 0 9
 2
-0 33 11 9
 0 21 3 0
+0 33 11 9
 1
 end_operator
 begin_operator
@@ -60489,8 +60489,8 @@ succumb sciatica achievement wonderbread mercury neptune
 1
 0 10
 2
-0 33 11 10
 0 21 1 2
+0 33 11 10
 1
 end_operator
 begin_operator
@@ -60498,8 +60498,8 @@ succumb sciatica achievement wonderbread neptune vulcan
 1
 0 10
 2
-0 33 11 10
 0 21 2 3
+0 33 11 10
 1
 end_operator
 begin_operator
@@ -60507,8 +60507,8 @@ succumb sciatica achievement wonderbread vulcan earth
 1
 0 10
 2
-0 33 11 10
 0 21 3 0
+0 33 11 10
 1
 end_operator
 begin_operator
@@ -60516,8 +60516,8 @@ succumb sciatica excitement arugula mercury neptune
 1
 1 0
 2
-0 33 12 0
 0 22 1 2
+0 33 12 0
 1
 end_operator
 begin_operator
@@ -60525,8 +60525,8 @@ succumb sciatica excitement arugula neptune vulcan
 1
 1 0
 2
-0 33 12 0
 0 22 2 3
+0 33 12 0
 1
 end_operator
 begin_operator
@@ -60534,8 +60534,8 @@ succumb sciatica excitement arugula vulcan earth
 1
 1 0
 2
-0 33 12 0
 0 22 3 0
+0 33 12 0
 1
 end_operator
 begin_operator
@@ -60543,8 +60543,8 @@ succumb sciatica excitement bacon mercury neptune
 1
 1 1
 2
-0 33 12 1
 0 22 1 2
+0 33 12 1
 1
 end_operator
 begin_operator
@@ -60552,8 +60552,8 @@ succumb sciatica excitement bacon neptune vulcan
 1
 1 1
 2
-0 33 12 1
 0 22 2 3
+0 33 12 1
 1
 end_operator
 begin_operator
@@ -60561,8 +60561,8 @@ succumb sciatica excitement bacon vulcan earth
 1
 1 1
 2
-0 33 12 1
 0 22 3 0
+0 33 12 1
 1
 end_operator
 begin_operator
@@ -60570,8 +60570,8 @@ succumb sciatica excitement baguette mercury neptune
 1
 1 2
 2
-0 33 12 2
 0 22 1 2
+0 33 12 2
 1
 end_operator
 begin_operator
@@ -60579,8 +60579,8 @@ succumb sciatica excitement baguette neptune vulcan
 1
 1 2
 2
-0 33 12 2
 0 22 2 3
+0 33 12 2
 1
 end_operator
 begin_operator
@@ -60588,8 +60588,8 @@ succumb sciatica excitement baguette vulcan earth
 1
 1 2
 2
-0 33 12 2
 0 22 3 0
+0 33 12 2
 1
 end_operator
 begin_operator
@@ -60597,8 +60597,8 @@ succumb sciatica excitement chicken mercury neptune
 1
 1 3
 2
-0 33 12 3
 0 22 1 2
+0 33 12 3
 1
 end_operator
 begin_operator
@@ -60606,8 +60606,8 @@ succumb sciatica excitement chicken neptune vulcan
 1
 1 3
 2
-0 33 12 3
 0 22 2 3
+0 33 12 3
 1
 end_operator
 begin_operator
@@ -60615,8 +60615,8 @@ succumb sciatica excitement chicken vulcan earth
 1
 1 3
 2
-0 33 12 3
 0 22 3 0
+0 33 12 3
 1
 end_operator
 begin_operator
@@ -60624,8 +60624,8 @@ succumb sciatica excitement chocolate mercury neptune
 1
 1 4
 2
-0 33 12 4
 0 22 1 2
+0 33 12 4
 1
 end_operator
 begin_operator
@@ -60633,8 +60633,8 @@ succumb sciatica excitement chocolate neptune vulcan
 1
 1 4
 2
-0 33 12 4
 0 22 2 3
+0 33 12 4
 1
 end_operator
 begin_operator
@@ -60642,8 +60642,8 @@ succumb sciatica excitement chocolate vulcan earth
 1
 1 4
 2
-0 33 12 4
 0 22 3 0
+0 33 12 4
 1
 end_operator
 begin_operator
@@ -60651,8 +60651,8 @@ succumb sciatica excitement flounder mercury neptune
 1
 1 5
 2
-0 33 12 5
 0 22 1 2
+0 33 12 5
 1
 end_operator
 begin_operator
@@ -60660,8 +60660,8 @@ succumb sciatica excitement flounder neptune vulcan
 1
 1 5
 2
-0 33 12 5
 0 22 2 3
+0 33 12 5
 1
 end_operator
 begin_operator
@@ -60669,8 +60669,8 @@ succumb sciatica excitement flounder vulcan earth
 1
 1 5
 2
-0 33 12 5
 0 22 3 0
+0 33 12 5
 1
 end_operator
 begin_operator
@@ -60678,8 +60678,8 @@ succumb sciatica excitement guava mercury neptune
 1
 1 6
 2
-0 33 12 6
 0 22 1 2
+0 33 12 6
 1
 end_operator
 begin_operator
@@ -60687,8 +60687,8 @@ succumb sciatica excitement guava neptune vulcan
 1
 1 6
 2
-0 33 12 6
 0 22 2 3
+0 33 12 6
 1
 end_operator
 begin_operator
@@ -60696,8 +60696,8 @@ succumb sciatica excitement guava vulcan earth
 1
 1 6
 2
-0 33 12 6
 0 22 3 0
+0 33 12 6
 1
 end_operator
 begin_operator
@@ -60705,8 +60705,8 @@ succumb sciatica excitement marzipan mercury neptune
 1
 1 7
 2
-0 33 12 7
 0 22 1 2
+0 33 12 7
 1
 end_operator
 begin_operator
@@ -60714,8 +60714,8 @@ succumb sciatica excitement marzipan neptune vulcan
 1
 1 7
 2
-0 33 12 7
 0 22 2 3
+0 33 12 7
 1
 end_operator
 begin_operator
@@ -60723,8 +60723,8 @@ succumb sciatica excitement marzipan vulcan earth
 1
 1 7
 2
-0 33 12 7
 0 22 3 0
+0 33 12 7
 1
 end_operator
 begin_operator
@@ -60732,8 +60732,8 @@ succumb sciatica excitement pepper mercury neptune
 1
 1 8
 2
-0 33 12 8
 0 22 1 2
+0 33 12 8
 1
 end_operator
 begin_operator
@@ -60741,8 +60741,8 @@ succumb sciatica excitement pepper neptune vulcan
 1
 1 8
 2
-0 33 12 8
 0 22 2 3
+0 33 12 8
 1
 end_operator
 begin_operator
@@ -60750,8 +60750,8 @@ succumb sciatica excitement pepper vulcan earth
 1
 1 8
 2
-0 33 12 8
 0 22 3 0
+0 33 12 8
 1
 end_operator
 begin_operator
@@ -60759,8 +60759,8 @@ succumb sciatica excitement rice mercury neptune
 1
 1 9
 2
-0 33 12 9
 0 22 1 2
+0 33 12 9
 1
 end_operator
 begin_operator
@@ -60768,8 +60768,8 @@ succumb sciatica excitement rice neptune vulcan
 1
 1 9
 2
-0 33 12 9
 0 22 2 3
+0 33 12 9
 1
 end_operator
 begin_operator
@@ -60777,8 +60777,8 @@ succumb sciatica excitement rice vulcan earth
 1
 1 9
 2
-0 33 12 9
 0 22 3 0
+0 33 12 9
 1
 end_operator
 begin_operator
@@ -60786,8 +60786,8 @@ succumb sciatica excitement wonderbread mercury neptune
 1
 1 10
 2
-0 33 12 10
 0 22 1 2
+0 33 12 10
 1
 end_operator
 begin_operator
@@ -60795,8 +60795,8 @@ succumb sciatica excitement wonderbread neptune vulcan
 1
 1 10
 2
-0 33 12 10
 0 22 2 3
+0 33 12 10
 1
 end_operator
 begin_operator
@@ -60804,8 +60804,8 @@ succumb sciatica excitement wonderbread vulcan earth
 1
 1 10
 2
-0 33 12 10
 0 22 3 0
+0 33 12 10
 1
 end_operator
 begin_operator
@@ -60813,8 +60813,8 @@ succumb sciatica learning arugula mercury neptune
 1
 2 0
 2
-0 33 13 0
 0 25 1 2
+0 33 13 0
 1
 end_operator
 begin_operator
@@ -60822,8 +60822,8 @@ succumb sciatica learning arugula neptune vulcan
 1
 2 0
 2
-0 33 13 0
 0 25 2 3
+0 33 13 0
 1
 end_operator
 begin_operator
@@ -60831,8 +60831,8 @@ succumb sciatica learning arugula vulcan earth
 1
 2 0
 2
-0 33 13 0
 0 25 3 0
+0 33 13 0
 1
 end_operator
 begin_operator
@@ -60840,8 +60840,8 @@ succumb sciatica learning bacon mercury neptune
 1
 2 1
 2
-0 33 13 1
 0 25 1 2
+0 33 13 1
 1
 end_operator
 begin_operator
@@ -60849,8 +60849,8 @@ succumb sciatica learning bacon neptune vulcan
 1
 2 1
 2
-0 33 13 1
 0 25 2 3
+0 33 13 1
 1
 end_operator
 begin_operator
@@ -60858,8 +60858,8 @@ succumb sciatica learning bacon vulcan earth
 1
 2 1
 2
-0 33 13 1
 0 25 3 0
+0 33 13 1
 1
 end_operator
 begin_operator
@@ -60867,8 +60867,8 @@ succumb sciatica learning baguette mercury neptune
 1
 2 2
 2
-0 33 13 2
 0 25 1 2
+0 33 13 2
 1
 end_operator
 begin_operator
@@ -60876,8 +60876,8 @@ succumb sciatica learning baguette neptune vulcan
 1
 2 2
 2
-0 33 13 2
 0 25 2 3
+0 33 13 2
 1
 end_operator
 begin_operator
@@ -60885,8 +60885,8 @@ succumb sciatica learning baguette vulcan earth
 1
 2 2
 2
-0 33 13 2
 0 25 3 0
+0 33 13 2
 1
 end_operator
 begin_operator
@@ -60894,8 +60894,8 @@ succumb sciatica learning chicken mercury neptune
 1
 2 3
 2
-0 33 13 3
 0 25 1 2
+0 33 13 3
 1
 end_operator
 begin_operator
@@ -60903,8 +60903,8 @@ succumb sciatica learning chicken neptune vulcan
 1
 2 3
 2
-0 33 13 3
 0 25 2 3
+0 33 13 3
 1
 end_operator
 begin_operator
@@ -60912,8 +60912,8 @@ succumb sciatica learning chicken vulcan earth
 1
 2 3
 2
-0 33 13 3
 0 25 3 0
+0 33 13 3
 1
 end_operator
 begin_operator
@@ -60921,8 +60921,8 @@ succumb sciatica learning chocolate mercury neptune
 1
 2 4
 2
-0 33 13 4
 0 25 1 2
+0 33 13 4
 1
 end_operator
 begin_operator
@@ -60930,8 +60930,8 @@ succumb sciatica learning chocolate neptune vulcan
 1
 2 4
 2
-0 33 13 4
 0 25 2 3
+0 33 13 4
 1
 end_operator
 begin_operator
@@ -60939,8 +60939,8 @@ succumb sciatica learning chocolate vulcan earth
 1
 2 4
 2
-0 33 13 4
 0 25 3 0
+0 33 13 4
 1
 end_operator
 begin_operator
@@ -60948,8 +60948,8 @@ succumb sciatica learning flounder mercury neptune
 1
 2 5
 2
-0 33 13 5
 0 25 1 2
+0 33 13 5
 1
 end_operator
 begin_operator
@@ -60957,8 +60957,8 @@ succumb sciatica learning flounder neptune vulcan
 1
 2 5
 2
-0 33 13 5
 0 25 2 3
+0 33 13 5
 1
 end_operator
 begin_operator
@@ -60966,8 +60966,8 @@ succumb sciatica learning flounder vulcan earth
 1
 2 5
 2
-0 33 13 5
 0 25 3 0
+0 33 13 5
 1
 end_operator
 begin_operator
@@ -60975,8 +60975,8 @@ succumb sciatica learning guava mercury neptune
 1
 2 6
 2
-0 33 13 6
 0 25 1 2
+0 33 13 6
 1
 end_operator
 begin_operator
@@ -60984,8 +60984,8 @@ succumb sciatica learning guava neptune vulcan
 1
 2 6
 2
-0 33 13 6
 0 25 2 3
+0 33 13 6
 1
 end_operator
 begin_operator
@@ -60993,8 +60993,8 @@ succumb sciatica learning guava vulcan earth
 1
 2 6
 2
-0 33 13 6
 0 25 3 0
+0 33 13 6
 1
 end_operator
 begin_operator
@@ -61002,8 +61002,8 @@ succumb sciatica learning marzipan mercury neptune
 1
 2 7
 2
-0 33 13 7
 0 25 1 2
+0 33 13 7
 1
 end_operator
 begin_operator
@@ -61011,8 +61011,8 @@ succumb sciatica learning marzipan neptune vulcan
 1
 2 7
 2
-0 33 13 7
 0 25 2 3
+0 33 13 7
 1
 end_operator
 begin_operator
@@ -61020,8 +61020,8 @@ succumb sciatica learning marzipan vulcan earth
 1
 2 7
 2
-0 33 13 7
 0 25 3 0
+0 33 13 7
 1
 end_operator
 begin_operator
@@ -61029,8 +61029,8 @@ succumb sciatica learning pepper mercury neptune
 1
 2 8
 2
-0 33 13 8
 0 25 1 2
+0 33 13 8
 1
 end_operator
 begin_operator
@@ -61038,8 +61038,8 @@ succumb sciatica learning pepper neptune vulcan
 1
 2 8
 2
-0 33 13 8
 0 25 2 3
+0 33 13 8
 1
 end_operator
 begin_operator
@@ -61047,8 +61047,8 @@ succumb sciatica learning pepper vulcan earth
 1
 2 8
 2
-0 33 13 8
 0 25 3 0
+0 33 13 8
 1
 end_operator
 begin_operator
@@ -61056,8 +61056,8 @@ succumb sciatica learning rice mercury neptune
 1
 2 9
 2
-0 33 13 9
 0 25 1 2
+0 33 13 9
 1
 end_operator
 begin_operator
@@ -61065,8 +61065,8 @@ succumb sciatica learning rice neptune vulcan
 1
 2 9
 2
-0 33 13 9
 0 25 2 3
+0 33 13 9
 1
 end_operator
 begin_operator
@@ -61074,8 +61074,8 @@ succumb sciatica learning rice vulcan earth
 1
 2 9
 2
-0 33 13 9
 0 25 3 0
+0 33 13 9
 1
 end_operator
 begin_operator
@@ -61083,8 +61083,8 @@ succumb sciatica learning wonderbread mercury neptune
 1
 2 10
 2
-0 33 13 10
 0 25 1 2
+0 33 13 10
 1
 end_operator
 begin_operator
@@ -61092,8 +61092,8 @@ succumb sciatica learning wonderbread neptune vulcan
 1
 2 10
 2
-0 33 13 10
 0 25 2 3
+0 33 13 10
 1
 end_operator
 begin_operator
@@ -61101,8 +61101,8 @@ succumb sciatica learning wonderbread vulcan earth
 1
 2 10
 2
-0 33 13 10
 0 25 3 0
+0 33 13 10
 1
 end_operator
 begin_operator
@@ -61110,8 +61110,8 @@ succumb sciatica rest arugula mercury neptune
 1
 3 0
 2
-0 33 14 0
 0 26 1 2
+0 33 14 0
 1
 end_operator
 begin_operator
@@ -61119,8 +61119,8 @@ succumb sciatica rest arugula neptune vulcan
 1
 3 0
 2
-0 33 14 0
 0 26 2 3
+0 33 14 0
 1
 end_operator
 begin_operator
@@ -61128,8 +61128,8 @@ succumb sciatica rest arugula vulcan earth
 1
 3 0
 2
-0 33 14 0
 0 26 3 0
+0 33 14 0
 1
 end_operator
 begin_operator
@@ -61137,8 +61137,8 @@ succumb sciatica rest bacon mercury neptune
 1
 3 1
 2
-0 33 14 1
 0 26 1 2
+0 33 14 1
 1
 end_operator
 begin_operator
@@ -61146,8 +61146,8 @@ succumb sciatica rest bacon neptune vulcan
 1
 3 1
 2
-0 33 14 1
 0 26 2 3
+0 33 14 1
 1
 end_operator
 begin_operator
@@ -61155,8 +61155,8 @@ succumb sciatica rest bacon vulcan earth
 1
 3 1
 2
-0 33 14 1
 0 26 3 0
+0 33 14 1
 1
 end_operator
 begin_operator
@@ -61164,8 +61164,8 @@ succumb sciatica rest baguette mercury neptune
 1
 3 2
 2
-0 33 14 2
 0 26 1 2
+0 33 14 2
 1
 end_operator
 begin_operator
@@ -61173,8 +61173,8 @@ succumb sciatica rest baguette neptune vulcan
 1
 3 2
 2
-0 33 14 2
 0 26 2 3
+0 33 14 2
 1
 end_operator
 begin_operator
@@ -61182,8 +61182,8 @@ succumb sciatica rest baguette vulcan earth
 1
 3 2
 2
-0 33 14 2
 0 26 3 0
+0 33 14 2
 1
 end_operator
 begin_operator
@@ -61191,8 +61191,8 @@ succumb sciatica rest chicken mercury neptune
 1
 3 3
 2
-0 33 14 3
 0 26 1 2
+0 33 14 3
 1
 end_operator
 begin_operator
@@ -61200,8 +61200,8 @@ succumb sciatica rest chicken neptune vulcan
 1
 3 3
 2
-0 33 14 3
 0 26 2 3
+0 33 14 3
 1
 end_operator
 begin_operator
@@ -61209,8 +61209,8 @@ succumb sciatica rest chicken vulcan earth
 1
 3 3
 2
-0 33 14 3
 0 26 3 0
+0 33 14 3
 1
 end_operator
 begin_operator
@@ -61218,8 +61218,8 @@ succumb sciatica rest chocolate mercury neptune
 1
 3 4
 2
-0 33 14 4
 0 26 1 2
+0 33 14 4
 1
 end_operator
 begin_operator
@@ -61227,8 +61227,8 @@ succumb sciatica rest chocolate neptune vulcan
 1
 3 4
 2
-0 33 14 4
 0 26 2 3
+0 33 14 4
 1
 end_operator
 begin_operator
@@ -61236,8 +61236,8 @@ succumb sciatica rest chocolate vulcan earth
 1
 3 4
 2
-0 33 14 4
 0 26 3 0
+0 33 14 4
 1
 end_operator
 begin_operator
@@ -61245,8 +61245,8 @@ succumb sciatica rest flounder mercury neptune
 1
 3 5
 2
-0 33 14 5
 0 26 1 2
+0 33 14 5
 1
 end_operator
 begin_operator
@@ -61254,8 +61254,8 @@ succumb sciatica rest flounder neptune vulcan
 1
 3 5
 2
-0 33 14 5
 0 26 2 3
+0 33 14 5
 1
 end_operator
 begin_operator
@@ -61263,8 +61263,8 @@ succumb sciatica rest flounder vulcan earth
 1
 3 5
 2
-0 33 14 5
 0 26 3 0
+0 33 14 5
 1
 end_operator
 begin_operator
@@ -61272,8 +61272,8 @@ succumb sciatica rest guava mercury neptune
 1
 3 6
 2
-0 33 14 6
 0 26 1 2
+0 33 14 6
 1
 end_operator
 begin_operator
@@ -61281,8 +61281,8 @@ succumb sciatica rest guava neptune vulcan
 1
 3 6
 2
-0 33 14 6
 0 26 2 3
+0 33 14 6
 1
 end_operator
 begin_operator
@@ -61290,8 +61290,8 @@ succumb sciatica rest guava vulcan earth
 1
 3 6
 2
-0 33 14 6
 0 26 3 0
+0 33 14 6
 1
 end_operator
 begin_operator
@@ -61299,8 +61299,8 @@ succumb sciatica rest marzipan mercury neptune
 1
 3 7
 2
-0 33 14 7
 0 26 1 2
+0 33 14 7
 1
 end_operator
 begin_operator
@@ -61308,8 +61308,8 @@ succumb sciatica rest marzipan neptune vulcan
 1
 3 7
 2
-0 33 14 7
 0 26 2 3
+0 33 14 7
 1
 end_operator
 begin_operator
@@ -61317,8 +61317,8 @@ succumb sciatica rest marzipan vulcan earth
 1
 3 7
 2
-0 33 14 7
 0 26 3 0
+0 33 14 7
 1
 end_operator
 begin_operator
@@ -61326,8 +61326,8 @@ succumb sciatica rest pepper mercury neptune
 1
 3 8
 2
-0 33 14 8
 0 26 1 2
+0 33 14 8
 1
 end_operator
 begin_operator
@@ -61335,8 +61335,8 @@ succumb sciatica rest pepper neptune vulcan
 1
 3 8
 2
-0 33 14 8
 0 26 2 3
+0 33 14 8
 1
 end_operator
 begin_operator
@@ -61344,8 +61344,8 @@ succumb sciatica rest pepper vulcan earth
 1
 3 8
 2
-0 33 14 8
 0 26 3 0
+0 33 14 8
 1
 end_operator
 begin_operator
@@ -61353,8 +61353,8 @@ succumb sciatica rest rice mercury neptune
 1
 3 9
 2
-0 33 14 9
 0 26 1 2
+0 33 14 9
 1
 end_operator
 begin_operator
@@ -61362,8 +61362,8 @@ succumb sciatica rest rice neptune vulcan
 1
 3 9
 2
-0 33 14 9
 0 26 2 3
+0 33 14 9
 1
 end_operator
 begin_operator
@@ -61371,8 +61371,8 @@ succumb sciatica rest rice vulcan earth
 1
 3 9
 2
-0 33 14 9
 0 26 3 0
+0 33 14 9
 1
 end_operator
 begin_operator
@@ -61380,8 +61380,8 @@ succumb sciatica rest wonderbread mercury neptune
 1
 3 10
 2
-0 33 14 10
 0 26 1 2
+0 33 14 10
 1
 end_operator
 begin_operator
@@ -61389,8 +61389,8 @@ succumb sciatica rest wonderbread neptune vulcan
 1
 3 10
 2
-0 33 14 10
 0 26 2 3
+0 33 14 10
 1
 end_operator
 begin_operator
@@ -61398,8 +61398,8 @@ succumb sciatica rest wonderbread vulcan earth
 1
 3 10
 2
-0 33 14 10
 0 26 3 0
+0 33 14 10
 1
 end_operator
 begin_operator
@@ -61407,8 +61407,8 @@ succumb sciatica satiety arugula mercury neptune
 1
 4 0
 2
-0 33 15 0
 0 29 1 2
+0 33 15 0
 1
 end_operator
 begin_operator
@@ -61416,8 +61416,8 @@ succumb sciatica satiety arugula neptune vulcan
 1
 4 0
 2
-0 33 15 0
 0 29 2 3
+0 33 15 0
 1
 end_operator
 begin_operator
@@ -61425,8 +61425,8 @@ succumb sciatica satiety arugula vulcan earth
 1
 4 0
 2
-0 33 15 0
 0 29 3 0
+0 33 15 0
 1
 end_operator
 begin_operator
@@ -61434,8 +61434,8 @@ succumb sciatica satiety bacon mercury neptune
 1
 4 1
 2
-0 33 15 1
 0 29 1 2
+0 33 15 1
 1
 end_operator
 begin_operator
@@ -61443,8 +61443,8 @@ succumb sciatica satiety bacon neptune vulcan
 1
 4 1
 2
-0 33 15 1
 0 29 2 3
+0 33 15 1
 1
 end_operator
 begin_operator
@@ -61452,8 +61452,8 @@ succumb sciatica satiety bacon vulcan earth
 1
 4 1
 2
-0 33 15 1
 0 29 3 0
+0 33 15 1
 1
 end_operator
 begin_operator
@@ -61461,8 +61461,8 @@ succumb sciatica satiety baguette mercury neptune
 1
 4 2
 2
-0 33 15 2
 0 29 1 2
+0 33 15 2
 1
 end_operator
 begin_operator
@@ -61470,8 +61470,8 @@ succumb sciatica satiety baguette neptune vulcan
 1
 4 2
 2
-0 33 15 2
 0 29 2 3
+0 33 15 2
 1
 end_operator
 begin_operator
@@ -61479,8 +61479,8 @@ succumb sciatica satiety baguette vulcan earth
 1
 4 2
 2
-0 33 15 2
 0 29 3 0
+0 33 15 2
 1
 end_operator
 begin_operator
@@ -61488,8 +61488,8 @@ succumb sciatica satiety chicken mercury neptune
 1
 4 3
 2
-0 33 15 3
 0 29 1 2
+0 33 15 3
 1
 end_operator
 begin_operator
@@ -61497,8 +61497,8 @@ succumb sciatica satiety chicken neptune vulcan
 1
 4 3
 2
-0 33 15 3
 0 29 2 3
+0 33 15 3
 1
 end_operator
 begin_operator
@@ -61506,8 +61506,8 @@ succumb sciatica satiety chicken vulcan earth
 1
 4 3
 2
-0 33 15 3
 0 29 3 0
+0 33 15 3
 1
 end_operator
 begin_operator
@@ -61515,8 +61515,8 @@ succumb sciatica satiety chocolate mercury neptune
 1
 4 4
 2
-0 33 15 4
 0 29 1 2
+0 33 15 4
 1
 end_operator
 begin_operator
@@ -61524,8 +61524,8 @@ succumb sciatica satiety chocolate neptune vulcan
 1
 4 4
 2
-0 33 15 4
 0 29 2 3
+0 33 15 4
 1
 end_operator
 begin_operator
@@ -61533,8 +61533,8 @@ succumb sciatica satiety chocolate vulcan earth
 1
 4 4
 2
-0 33 15 4
 0 29 3 0
+0 33 15 4
 1
 end_operator
 begin_operator
@@ -61542,8 +61542,8 @@ succumb sciatica satiety flounder mercury neptune
 1
 4 5
 2
-0 33 15 5
 0 29 1 2
+0 33 15 5
 1
 end_operator
 begin_operator
@@ -61551,8 +61551,8 @@ succumb sciatica satiety flounder neptune vulcan
 1
 4 5
 2
-0 33 15 5
 0 29 2 3
+0 33 15 5
 1
 end_operator
 begin_operator
@@ -61560,8 +61560,8 @@ succumb sciatica satiety flounder vulcan earth
 1
 4 5
 2
-0 33 15 5
 0 29 3 0
+0 33 15 5
 1
 end_operator
 begin_operator
@@ -61569,8 +61569,8 @@ succumb sciatica satiety guava mercury neptune
 1
 4 6
 2
-0 33 15 6
 0 29 1 2
+0 33 15 6
 1
 end_operator
 begin_operator
@@ -61578,8 +61578,8 @@ succumb sciatica satiety guava neptune vulcan
 1
 4 6
 2
-0 33 15 6
 0 29 2 3
+0 33 15 6
 1
 end_operator
 begin_operator
@@ -61587,8 +61587,8 @@ succumb sciatica satiety guava vulcan earth
 1
 4 6
 2
-0 33 15 6
 0 29 3 0
+0 33 15 6
 1
 end_operator
 begin_operator
@@ -61596,8 +61596,8 @@ succumb sciatica satiety marzipan mercury neptune
 1
 4 7
 2
-0 33 15 7
 0 29 1 2
+0 33 15 7
 1
 end_operator
 begin_operator
@@ -61605,8 +61605,8 @@ succumb sciatica satiety marzipan neptune vulcan
 1
 4 7
 2
-0 33 15 7
 0 29 2 3
+0 33 15 7
 1
 end_operator
 begin_operator
@@ -61614,8 +61614,8 @@ succumb sciatica satiety marzipan vulcan earth
 1
 4 7
 2
-0 33 15 7
 0 29 3 0
+0 33 15 7
 1
 end_operator
 begin_operator
@@ -61623,8 +61623,8 @@ succumb sciatica satiety pepper mercury neptune
 1
 4 8
 2
-0 33 15 8
 0 29 1 2
+0 33 15 8
 1
 end_operator
 begin_operator
@@ -61632,8 +61632,8 @@ succumb sciatica satiety pepper neptune vulcan
 1
 4 8
 2
-0 33 15 8
 0 29 2 3
+0 33 15 8
 1
 end_operator
 begin_operator
@@ -61641,8 +61641,8 @@ succumb sciatica satiety pepper vulcan earth
 1
 4 8
 2
-0 33 15 8
 0 29 3 0
+0 33 15 8
 1
 end_operator
 begin_operator
@@ -61650,8 +61650,8 @@ succumb sciatica satiety rice mercury neptune
 1
 4 9
 2
-0 33 15 9
 0 29 1 2
+0 33 15 9
 1
 end_operator
 begin_operator
@@ -61659,8 +61659,8 @@ succumb sciatica satiety rice neptune vulcan
 1
 4 9
 2
-0 33 15 9
 0 29 2 3
+0 33 15 9
 1
 end_operator
 begin_operator
@@ -61668,8 +61668,8 @@ succumb sciatica satiety rice vulcan earth
 1
 4 9
 2
-0 33 15 9
 0 29 3 0
+0 33 15 9
 1
 end_operator
 begin_operator
@@ -61677,8 +61677,8 @@ succumb sciatica satiety wonderbread mercury neptune
 1
 4 10
 2
-0 33 15 10
 0 29 1 2
+0 33 15 10
 1
 end_operator
 begin_operator
@@ -61686,8 +61686,8 @@ succumb sciatica satiety wonderbread neptune vulcan
 1
 4 10
 2
-0 33 15 10
 0 29 2 3
+0 33 15 10
 1
 end_operator
 begin_operator
@@ -61695,8 +61695,8 @@ succumb sciatica satiety wonderbread vulcan earth
 1
 4 10
 2
-0 33 15 10
 0 29 3 0
+0 33 15 10
 1
 end_operator
 begin_operator
@@ -61704,8 +61704,8 @@ succumb sciatica stimulation arugula mercury neptune
 1
 5 0
 2
-0 33 16 0
 0 30 1 2
+0 33 16 0
 1
 end_operator
 begin_operator
@@ -61713,8 +61713,8 @@ succumb sciatica stimulation arugula neptune vulcan
 1
 5 0
 2
-0 33 16 0
 0 30 2 3
+0 33 16 0
 1
 end_operator
 begin_operator
@@ -61722,8 +61722,8 @@ succumb sciatica stimulation arugula vulcan earth
 1
 5 0
 2
-0 33 16 0
 0 30 3 0
+0 33 16 0
 1
 end_operator
 begin_operator
@@ -61731,8 +61731,8 @@ succumb sciatica stimulation bacon mercury neptune
 1
 5 1
 2
-0 33 16 1
 0 30 1 2
+0 33 16 1
 1
 end_operator
 begin_operator
@@ -61740,8 +61740,8 @@ succumb sciatica stimulation bacon neptune vulcan
 1
 5 1
 2
-0 33 16 1
 0 30 2 3
+0 33 16 1
 1
 end_operator
 begin_operator
@@ -61749,8 +61749,8 @@ succumb sciatica stimulation bacon vulcan earth
 1
 5 1
 2
-0 33 16 1
 0 30 3 0
+0 33 16 1
 1
 end_operator
 begin_operator
@@ -61758,8 +61758,8 @@ succumb sciatica stimulation baguette mercury neptune
 1
 5 2
 2
-0 33 16 2
 0 30 1 2
+0 33 16 2
 1
 end_operator
 begin_operator
@@ -61767,8 +61767,8 @@ succumb sciatica stimulation baguette neptune vulcan
 1
 5 2
 2
-0 33 16 2
 0 30 2 3
+0 33 16 2
 1
 end_operator
 begin_operator
@@ -61776,8 +61776,8 @@ succumb sciatica stimulation baguette vulcan earth
 1
 5 2
 2
-0 33 16 2
 0 30 3 0
+0 33 16 2
 1
 end_operator
 begin_operator
@@ -61785,8 +61785,8 @@ succumb sciatica stimulation chicken mercury neptune
 1
 5 3
 2
-0 33 16 3
 0 30 1 2
+0 33 16 3
 1
 end_operator
 begin_operator
@@ -61794,8 +61794,8 @@ succumb sciatica stimulation chicken neptune vulcan
 1
 5 3
 2
-0 33 16 3
 0 30 2 3
+0 33 16 3
 1
 end_operator
 begin_operator
@@ -61803,8 +61803,8 @@ succumb sciatica stimulation chicken vulcan earth
 1
 5 3
 2
-0 33 16 3
 0 30 3 0
+0 33 16 3
 1
 end_operator
 begin_operator
@@ -61812,8 +61812,8 @@ succumb sciatica stimulation chocolate mercury neptune
 1
 5 4
 2
-0 33 16 4
 0 30 1 2
+0 33 16 4
 1
 end_operator
 begin_operator
@@ -61821,8 +61821,8 @@ succumb sciatica stimulation chocolate neptune vulcan
 1
 5 4
 2
-0 33 16 4
 0 30 2 3
+0 33 16 4
 1
 end_operator
 begin_operator
@@ -61830,8 +61830,8 @@ succumb sciatica stimulation chocolate vulcan earth
 1
 5 4
 2
-0 33 16 4
 0 30 3 0
+0 33 16 4
 1
 end_operator
 begin_operator
@@ -61839,8 +61839,8 @@ succumb sciatica stimulation flounder mercury neptune
 1
 5 5
 2
-0 33 16 5
 0 30 1 2
+0 33 16 5
 1
 end_operator
 begin_operator
@@ -61848,8 +61848,8 @@ succumb sciatica stimulation flounder neptune vulcan
 1
 5 5
 2
-0 33 16 5
 0 30 2 3
+0 33 16 5
 1
 end_operator
 begin_operator
@@ -61857,8 +61857,8 @@ succumb sciatica stimulation flounder vulcan earth
 1
 5 5
 2
-0 33 16 5
 0 30 3 0
+0 33 16 5
 1
 end_operator
 begin_operator
@@ -61866,8 +61866,8 @@ succumb sciatica stimulation guava mercury neptune
 1
 5 6
 2
-0 33 16 6
 0 30 1 2
+0 33 16 6
 1
 end_operator
 begin_operator
@@ -61875,8 +61875,8 @@ succumb sciatica stimulation guava neptune vulcan
 1
 5 6
 2
-0 33 16 6
 0 30 2 3
+0 33 16 6
 1
 end_operator
 begin_operator
@@ -61884,8 +61884,8 @@ succumb sciatica stimulation guava vulcan earth
 1
 5 6
 2
-0 33 16 6
 0 30 3 0
+0 33 16 6
 1
 end_operator
 begin_operator
@@ -61893,8 +61893,8 @@ succumb sciatica stimulation marzipan mercury neptune
 1
 5 7
 2
-0 33 16 7
 0 30 1 2
+0 33 16 7
 1
 end_operator
 begin_operator
@@ -61902,8 +61902,8 @@ succumb sciatica stimulation marzipan neptune vulcan
 1
 5 7
 2
-0 33 16 7
 0 30 2 3
+0 33 16 7
 1
 end_operator
 begin_operator
@@ -61911,8 +61911,8 @@ succumb sciatica stimulation marzipan vulcan earth
 1
 5 7
 2
-0 33 16 7
 0 30 3 0
+0 33 16 7
 1
 end_operator
 begin_operator
@@ -61920,8 +61920,8 @@ succumb sciatica stimulation pepper mercury neptune
 1
 5 8
 2
-0 33 16 8
 0 30 1 2
+0 33 16 8
 1
 end_operator
 begin_operator
@@ -61929,8 +61929,8 @@ succumb sciatica stimulation pepper neptune vulcan
 1
 5 8
 2
-0 33 16 8
 0 30 2 3
+0 33 16 8
 1
 end_operator
 begin_operator
@@ -61938,8 +61938,8 @@ succumb sciatica stimulation pepper vulcan earth
 1
 5 8
 2
-0 33 16 8
 0 30 3 0
+0 33 16 8
 1
 end_operator
 begin_operator
@@ -61947,8 +61947,8 @@ succumb sciatica stimulation rice mercury neptune
 1
 5 9
 2
-0 33 16 9
 0 30 1 2
+0 33 16 9
 1
 end_operator
 begin_operator
@@ -61956,8 +61956,8 @@ succumb sciatica stimulation rice neptune vulcan
 1
 5 9
 2
-0 33 16 9
 0 30 2 3
+0 33 16 9
 1
 end_operator
 begin_operator
@@ -61965,8 +61965,8 @@ succumb sciatica stimulation rice vulcan earth
 1
 5 9
 2
-0 33 16 9
 0 30 3 0
+0 33 16 9
 1
 end_operator
 begin_operator
@@ -61974,8 +61974,8 @@ succumb sciatica stimulation wonderbread mercury neptune
 1
 5 10
 2
-0 33 16 10
 0 30 1 2
+0 33 16 10
 1
 end_operator
 begin_operator
@@ -61983,8 +61983,8 @@ succumb sciatica stimulation wonderbread neptune vulcan
 1
 5 10
 2
-0 33 16 10
 0 30 2 3
+0 33 16 10
 1
 end_operator
 begin_operator
@@ -61992,8 +61992,8 @@ succumb sciatica stimulation wonderbread vulcan earth
 1
 5 10
 2
-0 33 16 10
 0 30 3 0
+0 33 16 10
 1
 end_operator
 begin_operator
@@ -62001,8 +62001,8 @@ succumb sciatica triumph arugula mercury neptune
 1
 6 0
 2
-0 33 17 0
 0 31 1 2
+0 33 17 0
 1
 end_operator
 begin_operator
@@ -62010,8 +62010,8 @@ succumb sciatica triumph arugula neptune vulcan
 1
 6 0
 2
-0 33 17 0
 0 31 2 3
+0 33 17 0
 1
 end_operator
 begin_operator
@@ -62019,8 +62019,8 @@ succumb sciatica triumph arugula vulcan earth
 1
 6 0
 2
-0 33 17 0
 0 31 3 0
+0 33 17 0
 1
 end_operator
 begin_operator
@@ -62028,8 +62028,8 @@ succumb sciatica triumph bacon mercury neptune
 1
 6 1
 2
-0 33 17 1
 0 31 1 2
+0 33 17 1
 1
 end_operator
 begin_operator
@@ -62037,8 +62037,8 @@ succumb sciatica triumph bacon neptune vulcan
 1
 6 1
 2
-0 33 17 1
 0 31 2 3
+0 33 17 1
 1
 end_operator
 begin_operator
@@ -62046,8 +62046,8 @@ succumb sciatica triumph bacon vulcan earth
 1
 6 1
 2
-0 33 17 1
 0 31 3 0
+0 33 17 1
 1
 end_operator
 begin_operator
@@ -62055,8 +62055,8 @@ succumb sciatica triumph baguette mercury neptune
 1
 6 2
 2
-0 33 17 2
 0 31 1 2
+0 33 17 2
 1
 end_operator
 begin_operator
@@ -62064,8 +62064,8 @@ succumb sciatica triumph baguette neptune vulcan
 1
 6 2
 2
-0 33 17 2
 0 31 2 3
+0 33 17 2
 1
 end_operator
 begin_operator
@@ -62073,8 +62073,8 @@ succumb sciatica triumph baguette vulcan earth
 1
 6 2
 2
-0 33 17 2
 0 31 3 0
+0 33 17 2
 1
 end_operator
 begin_operator
@@ -62082,8 +62082,8 @@ succumb sciatica triumph chicken mercury neptune
 1
 6 3
 2
-0 33 17 3
 0 31 1 2
+0 33 17 3
 1
 end_operator
 begin_operator
@@ -62091,8 +62091,8 @@ succumb sciatica triumph chicken neptune vulcan
 1
 6 3
 2
-0 33 17 3
 0 31 2 3
+0 33 17 3
 1
 end_operator
 begin_operator
@@ -62100,8 +62100,8 @@ succumb sciatica triumph chicken vulcan earth
 1
 6 3
 2
-0 33 17 3
 0 31 3 0
+0 33 17 3
 1
 end_operator
 begin_operator
@@ -62109,8 +62109,8 @@ succumb sciatica triumph chocolate mercury neptune
 1
 6 4
 2
-0 33 17 4
 0 31 1 2
+0 33 17 4
 1
 end_operator
 begin_operator
@@ -62118,8 +62118,8 @@ succumb sciatica triumph chocolate neptune vulcan
 1
 6 4
 2
-0 33 17 4
 0 31 2 3
+0 33 17 4
 1
 end_operator
 begin_operator
@@ -62127,8 +62127,8 @@ succumb sciatica triumph chocolate vulcan earth
 1
 6 4
 2
-0 33 17 4
 0 31 3 0
+0 33 17 4
 1
 end_operator
 begin_operator
@@ -62136,8 +62136,8 @@ succumb sciatica triumph flounder mercury neptune
 1
 6 5
 2
-0 33 17 5
 0 31 1 2
+0 33 17 5
 1
 end_operator
 begin_operator
@@ -62145,8 +62145,8 @@ succumb sciatica triumph flounder neptune vulcan
 1
 6 5
 2
-0 33 17 5
 0 31 2 3
+0 33 17 5
 1
 end_operator
 begin_operator
@@ -62154,8 +62154,8 @@ succumb sciatica triumph flounder vulcan earth
 1
 6 5
 2
-0 33 17 5
 0 31 3 0
+0 33 17 5
 1
 end_operator
 begin_operator
@@ -62163,8 +62163,8 @@ succumb sciatica triumph guava mercury neptune
 1
 6 6
 2
-0 33 17 6
 0 31 1 2
+0 33 17 6
 1
 end_operator
 begin_operator
@@ -62172,8 +62172,8 @@ succumb sciatica triumph guava neptune vulcan
 1
 6 6
 2
-0 33 17 6
 0 31 2 3
+0 33 17 6
 1
 end_operator
 begin_operator
@@ -62181,8 +62181,8 @@ succumb sciatica triumph guava vulcan earth
 1
 6 6
 2
-0 33 17 6
 0 31 3 0
+0 33 17 6
 1
 end_operator
 begin_operator
@@ -62190,8 +62190,8 @@ succumb sciatica triumph marzipan mercury neptune
 1
 6 7
 2
-0 33 17 7
 0 31 1 2
+0 33 17 7
 1
 end_operator
 begin_operator
@@ -62199,8 +62199,8 @@ succumb sciatica triumph marzipan neptune vulcan
 1
 6 7
 2
-0 33 17 7
 0 31 2 3
+0 33 17 7
 1
 end_operator
 begin_operator
@@ -62208,8 +62208,8 @@ succumb sciatica triumph marzipan vulcan earth
 1
 6 7
 2
-0 33 17 7
 0 31 3 0
+0 33 17 7
 1
 end_operator
 begin_operator
@@ -62217,8 +62217,8 @@ succumb sciatica triumph pepper mercury neptune
 1
 6 8
 2
-0 33 17 8
 0 31 1 2
+0 33 17 8
 1
 end_operator
 begin_operator
@@ -62226,8 +62226,8 @@ succumb sciatica triumph pepper neptune vulcan
 1
 6 8
 2
-0 33 17 8
 0 31 2 3
+0 33 17 8
 1
 end_operator
 begin_operator
@@ -62235,8 +62235,8 @@ succumb sciatica triumph pepper vulcan earth
 1
 6 8
 2
-0 33 17 8
 0 31 3 0
+0 33 17 8
 1
 end_operator
 begin_operator
@@ -62244,8 +62244,8 @@ succumb sciatica triumph rice mercury neptune
 1
 6 9
 2
-0 33 17 9
 0 31 1 2
+0 33 17 9
 1
 end_operator
 begin_operator
@@ -62253,8 +62253,8 @@ succumb sciatica triumph rice neptune vulcan
 1
 6 9
 2
-0 33 17 9
 0 31 2 3
+0 33 17 9
 1
 end_operator
 begin_operator
@@ -62262,8 +62262,8 @@ succumb sciatica triumph rice vulcan earth
 1
 6 9
 2
-0 33 17 9
 0 31 3 0
+0 33 17 9
 1
 end_operator
 begin_operator
@@ -62271,8 +62271,8 @@ succumb sciatica triumph wonderbread mercury neptune
 1
 6 10
 2
-0 33 17 10
 0 31 1 2
+0 33 17 10
 1
 end_operator
 begin_operator
@@ -62280,8 +62280,8 @@ succumb sciatica triumph wonderbread neptune vulcan
 1
 6 10
 2
-0 33 17 10
 0 31 2 3
+0 33 17 10
 1
 end_operator
 begin_operator
@@ -62289,8 +62289,8 @@ succumb sciatica triumph wonderbread vulcan earth
 1
 6 10
 2
-0 33 17 10
 0 31 3 0
+0 33 17 10
 1
 end_operator
 0

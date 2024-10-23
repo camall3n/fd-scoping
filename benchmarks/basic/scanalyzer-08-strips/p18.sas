@@ -832,2160 +832,2160 @@ begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-1 car-in-2
 0
 3
-0 31 -1 0
 0 0 0 8
 0 1 8 0
+0 31 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-1 car-in-3
 0
 3
-0 31 -1 0
 0 0 0 8
 0 2 8 0
+0 31 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-1 car-in-4
 0
 3
-0 31 -1 0
 0 0 0 8
 0 3 8 0
+0 31 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-1 car-in-5
 0
 3
-0 31 -1 0
 0 0 0 8
 0 4 8 0
+0 31 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-1 car-in-6
 0
 3
-0 31 -1 0
 0 0 0 8
 0 5 8 0
+0 31 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-1 car-in-7
 0
 3
-0 31 -1 0
 0 0 0 8
 0 6 8 0
+0 31 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-1 car-in-8
 0
 3
-0 31 -1 0
 0 0 0 8
 0 7 8 0
+0 31 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-1 car-out-1
 0
 3
-0 31 -1 0
 0 0 0 8
 0 8 8 0
+0 31 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-1 car-out-2
 0
 3
-0 31 -1 0
 0 0 0 8
 0 9 8 0
+0 31 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-1 car-out-3
 0
 3
-0 31 -1 0
 0 0 0 8
 0 10 8 0
+0 31 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-1 car-out-4
 0
 3
-0 31 -1 0
 0 0 0 8
 0 11 8 0
+0 31 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-1 car-out-5
 0
 3
-0 31 -1 0
 0 0 0 8
 0 12 8 0
+0 31 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-1 car-out-6
 0
 3
-0 31 -1 0
 0 0 0 8
 0 13 8 0
+0 31 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-1 car-out-7
 0
 3
-0 31 -1 0
 0 0 0 8
 0 14 8 0
+0 31 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-1 car-out-8
 0
 3
-0 31 -1 0
 0 0 0 8
 0 15 8 0
+0 31 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-2 car-in-1
 0
 3
-0 30 -1 0
 0 0 8 0
 0 1 0 8
+0 30 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-2 car-in-3
 0
 3
-0 30 -1 0
 0 1 0 8
 0 2 8 0
+0 30 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-2 car-in-4
 0
 3
-0 30 -1 0
 0 1 0 8
 0 3 8 0
+0 30 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-2 car-in-5
 0
 3
-0 30 -1 0
 0 1 0 8
 0 4 8 0
+0 30 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-2 car-in-6
 0
 3
-0 30 -1 0
 0 1 0 8
 0 5 8 0
+0 30 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-2 car-in-7
 0
 3
-0 30 -1 0
 0 1 0 8
 0 6 8 0
+0 30 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-2 car-in-8
 0
 3
-0 30 -1 0
 0 1 0 8
 0 7 8 0
+0 30 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-2 car-out-1
 0
 3
-0 30 -1 0
 0 1 0 8
 0 8 8 0
+0 30 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-2 car-out-2
 0
 3
-0 30 -1 0
 0 1 0 8
 0 9 8 0
+0 30 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-2 car-out-3
 0
 3
-0 30 -1 0
 0 1 0 8
 0 10 8 0
+0 30 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-2 car-out-4
 0
 3
-0 30 -1 0
 0 1 0 8
 0 11 8 0
+0 30 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-2 car-out-5
 0
 3
-0 30 -1 0
 0 1 0 8
 0 12 8 0
+0 30 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-2 car-out-6
 0
 3
-0 30 -1 0
 0 1 0 8
 0 13 8 0
+0 30 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-2 car-out-7
 0
 3
-0 30 -1 0
 0 1 0 8
 0 14 8 0
+0 30 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-2 car-out-8
 0
 3
-0 30 -1 0
 0 1 0 8
 0 15 8 0
+0 30 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-3 car-in-1
 0
 3
-0 29 -1 0
 0 0 8 0
 0 2 0 8
+0 29 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-3 car-in-2
 0
 3
-0 29 -1 0
 0 1 8 0
 0 2 0 8
+0 29 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-3 car-in-4
 0
 3
-0 29 -1 0
 0 2 0 8
 0 3 8 0
+0 29 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-3 car-in-5
 0
 3
-0 29 -1 0
 0 2 0 8
 0 4 8 0
+0 29 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-3 car-in-6
 0
 3
-0 29 -1 0
 0 2 0 8
 0 5 8 0
+0 29 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-3 car-in-7
 0
 3
-0 29 -1 0
 0 2 0 8
 0 6 8 0
+0 29 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-3 car-in-8
 0
 3
-0 29 -1 0
 0 2 0 8
 0 7 8 0
+0 29 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-3 car-out-1
 0
 3
-0 29 -1 0
 0 2 0 8
 0 8 8 0
+0 29 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-3 car-out-2
 0
 3
-0 29 -1 0
 0 2 0 8
 0 9 8 0
+0 29 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-3 car-out-3
 0
 3
-0 29 -1 0
 0 2 0 8
 0 10 8 0
+0 29 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-3 car-out-4
 0
 3
-0 29 -1 0
 0 2 0 8
 0 11 8 0
+0 29 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-3 car-out-5
 0
 3
-0 29 -1 0
 0 2 0 8
 0 12 8 0
+0 29 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-3 car-out-6
 0
 3
-0 29 -1 0
 0 2 0 8
 0 13 8 0
+0 29 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-3 car-out-7
 0
 3
-0 29 -1 0
 0 2 0 8
 0 14 8 0
+0 29 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-3 car-out-8
 0
 3
-0 29 -1 0
 0 2 0 8
 0 15 8 0
+0 29 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-4 car-in-1
 0
 3
-0 28 -1 0
 0 0 8 0
 0 3 0 8
+0 28 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-4 car-in-2
 0
 3
-0 28 -1 0
 0 1 8 0
 0 3 0 8
+0 28 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-4 car-in-3
 0
 3
-0 28 -1 0
 0 2 8 0
 0 3 0 8
+0 28 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-4 car-in-5
 0
 3
-0 28 -1 0
 0 3 0 8
 0 4 8 0
+0 28 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-4 car-in-6
 0
 3
-0 28 -1 0
 0 3 0 8
 0 5 8 0
+0 28 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-4 car-in-7
 0
 3
-0 28 -1 0
 0 3 0 8
 0 6 8 0
+0 28 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-4 car-in-8
 0
 3
-0 28 -1 0
 0 3 0 8
 0 7 8 0
+0 28 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-4 car-out-1
 0
 3
-0 28 -1 0
 0 3 0 8
 0 8 8 0
+0 28 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-4 car-out-2
 0
 3
-0 28 -1 0
 0 3 0 8
 0 9 8 0
+0 28 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-4 car-out-3
 0
 3
-0 28 -1 0
 0 3 0 8
 0 10 8 0
+0 28 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-4 car-out-4
 0
 3
-0 28 -1 0
 0 3 0 8
 0 11 8 0
+0 28 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-4 car-out-5
 0
 3
-0 28 -1 0
 0 3 0 8
 0 12 8 0
+0 28 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-4 car-out-6
 0
 3
-0 28 -1 0
 0 3 0 8
 0 13 8 0
+0 28 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-4 car-out-7
 0
 3
-0 28 -1 0
 0 3 0 8
 0 14 8 0
+0 28 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-4 car-out-8
 0
 3
-0 28 -1 0
 0 3 0 8
 0 15 8 0
+0 28 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-5 car-in-1
 0
 3
-0 27 -1 0
 0 0 8 0
 0 4 0 8
+0 27 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-5 car-in-2
 0
 3
-0 27 -1 0
 0 1 8 0
 0 4 0 8
+0 27 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-5 car-in-3
 0
 3
-0 27 -1 0
 0 2 8 0
 0 4 0 8
+0 27 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-5 car-in-4
 0
 3
-0 27 -1 0
 0 3 8 0
 0 4 0 8
+0 27 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-5 car-in-6
 0
 3
-0 27 -1 0
 0 4 0 8
 0 5 8 0
+0 27 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-5 car-in-7
 0
 3
-0 27 -1 0
 0 4 0 8
 0 6 8 0
+0 27 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-5 car-in-8
 0
 3
-0 27 -1 0
 0 4 0 8
 0 7 8 0
+0 27 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-5 car-out-1
 0
 3
-0 27 -1 0
 0 4 0 8
 0 8 8 0
+0 27 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-5 car-out-2
 0
 3
-0 27 -1 0
 0 4 0 8
 0 9 8 0
+0 27 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-5 car-out-3
 0
 3
-0 27 -1 0
 0 4 0 8
 0 10 8 0
+0 27 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-5 car-out-4
 0
 3
-0 27 -1 0
 0 4 0 8
 0 11 8 0
+0 27 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-5 car-out-5
 0
 3
-0 27 -1 0
 0 4 0 8
 0 12 8 0
+0 27 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-5 car-out-6
 0
 3
-0 27 -1 0
 0 4 0 8
 0 13 8 0
+0 27 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-5 car-out-7
 0
 3
-0 27 -1 0
 0 4 0 8
 0 14 8 0
+0 27 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-5 car-out-8
 0
 3
-0 27 -1 0
 0 4 0 8
 0 15 8 0
+0 27 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-6 car-in-1
 0
 3
-0 26 -1 0
 0 0 8 0
 0 5 0 8
+0 26 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-6 car-in-2
 0
 3
-0 26 -1 0
 0 1 8 0
 0 5 0 8
+0 26 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-6 car-in-3
 0
 3
-0 26 -1 0
 0 2 8 0
 0 5 0 8
+0 26 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-6 car-in-4
 0
 3
-0 26 -1 0
 0 3 8 0
 0 5 0 8
+0 26 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-6 car-in-5
 0
 3
-0 26 -1 0
 0 4 8 0
 0 5 0 8
+0 26 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-6 car-in-7
 0
 3
-0 26 -1 0
 0 5 0 8
 0 6 8 0
+0 26 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-6 car-in-8
 0
 3
-0 26 -1 0
 0 5 0 8
 0 7 8 0
+0 26 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-6 car-out-1
 0
 3
-0 26 -1 0
 0 5 0 8
 0 8 8 0
+0 26 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-6 car-out-2
 0
 3
-0 26 -1 0
 0 5 0 8
 0 9 8 0
+0 26 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-6 car-out-3
 0
 3
-0 26 -1 0
 0 5 0 8
 0 10 8 0
+0 26 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-6 car-out-4
 0
 3
-0 26 -1 0
 0 5 0 8
 0 11 8 0
+0 26 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-6 car-out-5
 0
 3
-0 26 -1 0
 0 5 0 8
 0 12 8 0
+0 26 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-6 car-out-6
 0
 3
-0 26 -1 0
 0 5 0 8
 0 13 8 0
+0 26 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-6 car-out-7
 0
 3
-0 26 -1 0
 0 5 0 8
 0 14 8 0
+0 26 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-6 car-out-8
 0
 3
-0 26 -1 0
 0 5 0 8
 0 15 8 0
+0 26 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-7 car-in-1
 0
 3
-0 25 -1 0
 0 0 8 0
 0 6 0 8
+0 25 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-7 car-in-2
 0
 3
-0 25 -1 0
 0 1 8 0
 0 6 0 8
+0 25 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-7 car-in-3
 0
 3
-0 25 -1 0
 0 2 8 0
 0 6 0 8
+0 25 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-7 car-in-4
 0
 3
-0 25 -1 0
 0 3 8 0
 0 6 0 8
+0 25 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-7 car-in-5
 0
 3
-0 25 -1 0
 0 4 8 0
 0 6 0 8
+0 25 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-7 car-in-6
 0
 3
-0 25 -1 0
 0 5 8 0
 0 6 0 8
+0 25 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-7 car-in-8
 0
 3
-0 25 -1 0
 0 6 0 8
 0 7 8 0
+0 25 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-7 car-out-1
 0
 3
-0 25 -1 0
 0 6 0 8
 0 8 8 0
+0 25 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-7 car-out-2
 0
 3
-0 25 -1 0
 0 6 0 8
 0 9 8 0
+0 25 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-7 car-out-3
 0
 3
-0 25 -1 0
 0 6 0 8
 0 10 8 0
+0 25 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-7 car-out-4
 0
 3
-0 25 -1 0
 0 6 0 8
 0 11 8 0
+0 25 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-7 car-out-5
 0
 3
-0 25 -1 0
 0 6 0 8
 0 12 8 0
+0 25 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-7 car-out-6
 0
 3
-0 25 -1 0
 0 6 0 8
 0 13 8 0
+0 25 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-7 car-out-7
 0
 3
-0 25 -1 0
 0 6 0 8
 0 14 8 0
+0 25 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-7 car-out-8
 0
 3
-0 25 -1 0
 0 6 0 8
 0 15 8 0
+0 25 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-8 car-in-1
 0
 3
-0 24 -1 0
 0 0 8 0
 0 7 0 8
+0 24 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-8 car-in-2
 0
 3
-0 24 -1 0
 0 1 8 0
 0 7 0 8
+0 24 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-8 car-in-3
 0
 3
-0 24 -1 0
 0 2 8 0
 0 7 0 8
+0 24 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-8 car-in-4
 0
 3
-0 24 -1 0
 0 3 8 0
 0 7 0 8
+0 24 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-8 car-in-5
 0
 3
-0 24 -1 0
 0 4 8 0
 0 7 0 8
+0 24 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-8 car-in-6
 0
 3
-0 24 -1 0
 0 5 8 0
 0 7 0 8
+0 24 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-8 car-in-7
 0
 3
-0 24 -1 0
 0 6 8 0
 0 7 0 8
+0 24 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-8 car-out-1
 0
 3
-0 24 -1 0
 0 7 0 8
 0 8 8 0
+0 24 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-8 car-out-2
 0
 3
-0 24 -1 0
 0 7 0 8
 0 9 8 0
+0 24 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-8 car-out-3
 0
 3
-0 24 -1 0
 0 7 0 8
 0 10 8 0
+0 24 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-8 car-out-4
 0
 3
-0 24 -1 0
 0 7 0 8
 0 11 8 0
+0 24 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-8 car-out-5
 0
 3
-0 24 -1 0
 0 7 0 8
 0 12 8 0
+0 24 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-8 car-out-6
 0
 3
-0 24 -1 0
 0 7 0 8
 0 13 8 0
+0 24 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-8 car-out-7
 0
 3
-0 24 -1 0
 0 7 0 8
 0 14 8 0
+0 24 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-in-8 car-out-8
 0
 3
-0 24 -1 0
 0 7 0 8
 0 15 8 0
+0 24 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-1 car-in-1
 0
 3
-0 23 -1 0
 0 0 8 0
 0 8 0 8
+0 23 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-1 car-in-2
 0
 3
-0 23 -1 0
 0 1 8 0
 0 8 0 8
+0 23 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-1 car-in-3
 0
 3
-0 23 -1 0
 0 2 8 0
 0 8 0 8
+0 23 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-1 car-in-4
 0
 3
-0 23 -1 0
 0 3 8 0
 0 8 0 8
+0 23 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-1 car-in-5
 0
 3
-0 23 -1 0
 0 4 8 0
 0 8 0 8
+0 23 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-1 car-in-6
 0
 3
-0 23 -1 0
 0 5 8 0
 0 8 0 8
+0 23 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-1 car-in-7
 0
 3
-0 23 -1 0
 0 6 8 0
 0 8 0 8
+0 23 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-1 car-in-8
 0
 3
-0 23 -1 0
 0 7 8 0
 0 8 0 8
+0 23 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-1 car-out-2
 0
 3
-0 23 -1 0
 0 8 0 8
 0 9 8 0
+0 23 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-1 car-out-3
 0
 3
-0 23 -1 0
 0 8 0 8
 0 10 8 0
+0 23 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-1 car-out-4
 0
 3
-0 23 -1 0
 0 8 0 8
 0 11 8 0
+0 23 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-1 car-out-5
 0
 3
-0 23 -1 0
 0 8 0 8
 0 12 8 0
+0 23 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-1 car-out-6
 0
 3
-0 23 -1 0
 0 8 0 8
 0 13 8 0
+0 23 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-1 car-out-7
 0
 3
-0 23 -1 0
 0 8 0 8
 0 14 8 0
+0 23 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-1 car-out-8
 0
 3
-0 23 -1 0
 0 8 0 8
 0 15 8 0
+0 23 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-2 car-in-1
 0
 3
-0 22 -1 0
 0 0 8 0
 0 9 0 8
+0 22 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-2 car-in-2
 0
 3
-0 22 -1 0
 0 1 8 0
 0 9 0 8
+0 22 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-2 car-in-3
 0
 3
-0 22 -1 0
 0 2 8 0
 0 9 0 8
+0 22 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-2 car-in-4
 0
 3
-0 22 -1 0
 0 3 8 0
 0 9 0 8
+0 22 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-2 car-in-5
 0
 3
-0 22 -1 0
 0 4 8 0
 0 9 0 8
+0 22 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-2 car-in-6
 0
 3
-0 22 -1 0
 0 5 8 0
 0 9 0 8
+0 22 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-2 car-in-7
 0
 3
-0 22 -1 0
 0 6 8 0
 0 9 0 8
+0 22 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-2 car-in-8
 0
 3
-0 22 -1 0
 0 7 8 0
 0 9 0 8
+0 22 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-2 car-out-1
 0
 3
-0 22 -1 0
 0 8 8 0
 0 9 0 8
+0 22 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-2 car-out-3
 0
 3
-0 22 -1 0
 0 9 0 8
 0 10 8 0
+0 22 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-2 car-out-4
 0
 3
-0 22 -1 0
 0 9 0 8
 0 11 8 0
+0 22 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-2 car-out-5
 0
 3
-0 22 -1 0
 0 9 0 8
 0 12 8 0
+0 22 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-2 car-out-6
 0
 3
-0 22 -1 0
 0 9 0 8
 0 13 8 0
+0 22 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-2 car-out-7
 0
 3
-0 22 -1 0
 0 9 0 8
 0 14 8 0
+0 22 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-2 car-out-8
 0
 3
-0 22 -1 0
 0 9 0 8
 0 15 8 0
+0 22 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-3 car-in-1
 0
 3
-0 21 -1 0
 0 0 8 0
 0 10 0 8
+0 21 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-3 car-in-2
 0
 3
-0 21 -1 0
 0 1 8 0
 0 10 0 8
+0 21 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-3 car-in-3
 0
 3
-0 21 -1 0
 0 2 8 0
 0 10 0 8
+0 21 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-3 car-in-4
 0
 3
-0 21 -1 0
 0 3 8 0
 0 10 0 8
+0 21 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-3 car-in-5
 0
 3
-0 21 -1 0
 0 4 8 0
 0 10 0 8
+0 21 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-3 car-in-6
 0
 3
-0 21 -1 0
 0 5 8 0
 0 10 0 8
+0 21 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-3 car-in-7
 0
 3
-0 21 -1 0
 0 6 8 0
 0 10 0 8
+0 21 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-3 car-in-8
 0
 3
-0 21 -1 0
 0 7 8 0
 0 10 0 8
+0 21 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-3 car-out-1
 0
 3
-0 21 -1 0
 0 8 8 0
 0 10 0 8
+0 21 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-3 car-out-2
 0
 3
-0 21 -1 0
 0 9 8 0
 0 10 0 8
+0 21 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-3 car-out-4
 0
 3
-0 21 -1 0
 0 10 0 8
 0 11 8 0
+0 21 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-3 car-out-5
 0
 3
-0 21 -1 0
 0 10 0 8
 0 12 8 0
+0 21 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-3 car-out-6
 0
 3
-0 21 -1 0
 0 10 0 8
 0 13 8 0
+0 21 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-3 car-out-7
 0
 3
-0 21 -1 0
 0 10 0 8
 0 14 8 0
+0 21 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-3 car-out-8
 0
 3
-0 21 -1 0
 0 10 0 8
 0 15 8 0
+0 21 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-4 car-in-1
 0
 3
-0 20 -1 0
 0 0 8 0
 0 11 0 8
+0 20 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-4 car-in-2
 0
 3
-0 20 -1 0
 0 1 8 0
 0 11 0 8
+0 20 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-4 car-in-3
 0
 3
-0 20 -1 0
 0 2 8 0
 0 11 0 8
+0 20 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-4 car-in-4
 0
 3
-0 20 -1 0
 0 3 8 0
 0 11 0 8
+0 20 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-4 car-in-5
 0
 3
-0 20 -1 0
 0 4 8 0
 0 11 0 8
+0 20 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-4 car-in-6
 0
 3
-0 20 -1 0
 0 5 8 0
 0 11 0 8
+0 20 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-4 car-in-7
 0
 3
-0 20 -1 0
 0 6 8 0
 0 11 0 8
+0 20 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-4 car-in-8
 0
 3
-0 20 -1 0
 0 7 8 0
 0 11 0 8
+0 20 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-4 car-out-1
 0
 3
-0 20 -1 0
 0 8 8 0
 0 11 0 8
+0 20 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-4 car-out-2
 0
 3
-0 20 -1 0
 0 9 8 0
 0 11 0 8
+0 20 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-4 car-out-3
 0
 3
-0 20 -1 0
 0 10 8 0
 0 11 0 8
+0 20 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-4 car-out-5
 0
 3
-0 20 -1 0
 0 11 0 8
 0 12 8 0
+0 20 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-4 car-out-6
 0
 3
-0 20 -1 0
 0 11 0 8
 0 13 8 0
+0 20 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-4 car-out-7
 0
 3
-0 20 -1 0
 0 11 0 8
 0 14 8 0
+0 20 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-4 car-out-8
 0
 3
-0 20 -1 0
 0 11 0 8
 0 15 8 0
+0 20 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-5 car-in-1
 0
 3
-0 19 -1 0
 0 0 8 0
 0 12 0 8
+0 19 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-5 car-in-2
 0
 3
-0 19 -1 0
 0 1 8 0
 0 12 0 8
+0 19 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-5 car-in-3
 0
 3
-0 19 -1 0
 0 2 8 0
 0 12 0 8
+0 19 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-5 car-in-4
 0
 3
-0 19 -1 0
 0 3 8 0
 0 12 0 8
+0 19 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-5 car-in-5
 0
 3
-0 19 -1 0
 0 4 8 0
 0 12 0 8
+0 19 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-5 car-in-6
 0
 3
-0 19 -1 0
 0 5 8 0
 0 12 0 8
+0 19 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-5 car-in-7
 0
 3
-0 19 -1 0
 0 6 8 0
 0 12 0 8
+0 19 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-5 car-in-8
 0
 3
-0 19 -1 0
 0 7 8 0
 0 12 0 8
+0 19 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-5 car-out-1
 0
 3
-0 19 -1 0
 0 8 8 0
 0 12 0 8
+0 19 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-5 car-out-2
 0
 3
-0 19 -1 0
 0 9 8 0
 0 12 0 8
+0 19 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-5 car-out-3
 0
 3
-0 19 -1 0
 0 10 8 0
 0 12 0 8
+0 19 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-5 car-out-4
 0
 3
-0 19 -1 0
 0 11 8 0
 0 12 0 8
+0 19 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-5 car-out-6
 0
 3
-0 19 -1 0
 0 12 0 8
 0 13 8 0
+0 19 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-5 car-out-7
 0
 3
-0 19 -1 0
 0 12 0 8
 0 14 8 0
+0 19 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-5 car-out-8
 0
 3
-0 19 -1 0
 0 12 0 8
 0 15 8 0
+0 19 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-6 car-in-1
 0
 3
-0 18 -1 0
 0 0 8 0
 0 13 0 8
+0 18 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-6 car-in-2
 0
 3
-0 18 -1 0
 0 1 8 0
 0 13 0 8
+0 18 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-6 car-in-3
 0
 3
-0 18 -1 0
 0 2 8 0
 0 13 0 8
+0 18 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-6 car-in-4
 0
 3
-0 18 -1 0
 0 3 8 0
 0 13 0 8
+0 18 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-6 car-in-5
 0
 3
-0 18 -1 0
 0 4 8 0
 0 13 0 8
+0 18 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-6 car-in-6
 0
 3
-0 18 -1 0
 0 5 8 0
 0 13 0 8
+0 18 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-6 car-in-7
 0
 3
-0 18 -1 0
 0 6 8 0
 0 13 0 8
+0 18 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-6 car-in-8
 0
 3
-0 18 -1 0
 0 7 8 0
 0 13 0 8
+0 18 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-6 car-out-1
 0
 3
-0 18 -1 0
 0 8 8 0
 0 13 0 8
+0 18 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-6 car-out-2
 0
 3
-0 18 -1 0
 0 9 8 0
 0 13 0 8
+0 18 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-6 car-out-3
 0
 3
-0 18 -1 0
 0 10 8 0
 0 13 0 8
+0 18 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-6 car-out-4
 0
 3
-0 18 -1 0
 0 11 8 0
 0 13 0 8
+0 18 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-6 car-out-5
 0
 3
-0 18 -1 0
 0 12 8 0
 0 13 0 8
+0 18 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-6 car-out-7
 0
 3
-0 18 -1 0
 0 13 0 8
 0 14 8 0
+0 18 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-6 car-out-8
 0
 3
-0 18 -1 0
 0 13 0 8
 0 15 8 0
+0 18 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-7 car-in-1
 0
 3
-0 17 -1 0
 0 0 8 0
 0 14 0 8
+0 17 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-7 car-in-2
 0
 3
-0 17 -1 0
 0 1 8 0
 0 14 0 8
+0 17 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-7 car-in-3
 0
 3
-0 17 -1 0
 0 2 8 0
 0 14 0 8
+0 17 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-7 car-in-4
 0
 3
-0 17 -1 0
 0 3 8 0
 0 14 0 8
+0 17 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-7 car-in-5
 0
 3
-0 17 -1 0
 0 4 8 0
 0 14 0 8
+0 17 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-7 car-in-6
 0
 3
-0 17 -1 0
 0 5 8 0
 0 14 0 8
+0 17 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-7 car-in-7
 0
 3
-0 17 -1 0
 0 6 8 0
 0 14 0 8
+0 17 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-7 car-in-8
 0
 3
-0 17 -1 0
 0 7 8 0
 0 14 0 8
+0 17 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-7 car-out-1
 0
 3
-0 17 -1 0
 0 8 8 0
 0 14 0 8
+0 17 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-7 car-out-2
 0
 3
-0 17 -1 0
 0 9 8 0
 0 14 0 8
+0 17 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-7 car-out-3
 0
 3
-0 17 -1 0
 0 10 8 0
 0 14 0 8
+0 17 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-7 car-out-4
 0
 3
-0 17 -1 0
 0 11 8 0
 0 14 0 8
+0 17 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-7 car-out-5
 0
 3
-0 17 -1 0
 0 12 8 0
 0 14 0 8
+0 17 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-7 car-out-6
 0
 3
-0 17 -1 0
 0 13 8 0
 0 14 0 8
+0 17 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-7 car-out-8
 0
 3
-0 17 -1 0
 0 14 0 8
 0 15 8 0
+0 17 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-8 car-in-1
 0
 3
-0 16 -1 0
 0 0 8 0
 0 15 0 8
+0 16 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-8 car-in-2
 0
 3
-0 16 -1 0
 0 1 8 0
 0 15 0 8
+0 16 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-8 car-in-3
 0
 3
-0 16 -1 0
 0 2 8 0
 0 15 0 8
+0 16 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-8 car-in-4
 0
 3
-0 16 -1 0
 0 3 8 0
 0 15 0 8
+0 16 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-8 car-in-5
 0
 3
-0 16 -1 0
 0 4 8 0
 0 15 0 8
+0 16 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-8 car-in-6
 0
 3
-0 16 -1 0
 0 5 8 0
 0 15 0 8
+0 16 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-8 car-in-7
 0
 3
-0 16 -1 0
 0 6 8 0
 0 15 0 8
+0 16 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-8 car-in-8
 0
 3
-0 16 -1 0
 0 7 8 0
 0 15 0 8
+0 16 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-8 car-out-1
 0
 3
-0 16 -1 0
 0 8 8 0
 0 15 0 8
+0 16 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-8 car-out-2
 0
 3
-0 16 -1 0
 0 9 8 0
 0 15 0 8
+0 16 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-8 car-out-3
 0
 3
-0 16 -1 0
 0 10 8 0
 0 15 0 8
+0 16 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-8 car-out-4
 0
 3
-0 16 -1 0
 0 11 8 0
 0 15 0 8
+0 16 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-8 car-out-5
 0
 3
-0 16 -1 0
 0 12 8 0
 0 15 0 8
+0 16 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-8 car-out-6
 0
 3
-0 16 -1 0
 0 13 8 0
 0 15 0 8
+0 16 -1 0
 3
 end_operator
 begin_operator
 analyze-2 seg-in-1 seg-out-1 car-out-8 car-out-7
 0
 3
-0 16 -1 0
 0 14 8 0
 0 15 0 8
+0 16 -1 0
 3
 end_operator
 begin_operator

@@ -30779,8 +30779,8 @@ overcome jealousy achievement broccoli earth pluto
 1
 0 0
 2
-0 21 0 8
 0 19 2 0
+0 21 0 8
 1
 end_operator
 begin_operator
@@ -30788,8 +30788,8 @@ overcome jealousy achievement broccoli neptune uranus
 1
 0 0
 2
-0 21 0 8
 0 19 3 1
+0 21 0 8
 1
 end_operator
 begin_operator
@@ -30797,8 +30797,8 @@ overcome jealousy achievement broccoli pluto neptune
 1
 0 0
 2
-0 21 0 8
 0 19 1 2
+0 21 0 8
 1
 end_operator
 begin_operator
@@ -30806,8 +30806,8 @@ overcome jealousy achievement melon earth pluto
 1
 0 1
 2
-0 21 1 8
 0 19 2 0
+0 21 1 8
 1
 end_operator
 begin_operator
@@ -30815,8 +30815,8 @@ overcome jealousy achievement melon neptune uranus
 1
 0 1
 2
-0 21 1 8
 0 19 3 1
+0 21 1 8
 1
 end_operator
 begin_operator
@@ -30824,8 +30824,8 @@ overcome jealousy achievement melon pluto neptune
 1
 0 1
 2
-0 21 1 8
 0 19 1 2
+0 21 1 8
 1
 end_operator
 begin_operator
@@ -30833,8 +30833,8 @@ overcome jealousy achievement papaya earth pluto
 1
 0 2
 2
-0 21 2 8
 0 19 2 0
+0 21 2 8
 1
 end_operator
 begin_operator
@@ -30842,8 +30842,8 @@ overcome jealousy achievement papaya neptune uranus
 1
 0 2
 2
-0 21 2 8
 0 19 3 1
+0 21 2 8
 1
 end_operator
 begin_operator
@@ -30851,8 +30851,8 @@ overcome jealousy achievement papaya pluto neptune
 1
 0 2
 2
-0 21 2 8
 0 19 1 2
+0 21 2 8
 1
 end_operator
 begin_operator
@@ -30860,8 +30860,8 @@ overcome jealousy achievement pear earth pluto
 1
 0 3
 2
-0 21 3 8
 0 19 2 0
+0 21 3 8
 1
 end_operator
 begin_operator
@@ -30869,8 +30869,8 @@ overcome jealousy achievement pear neptune uranus
 1
 0 3
 2
-0 21 3 8
 0 19 3 1
+0 21 3 8
 1
 end_operator
 begin_operator
@@ -30878,8 +30878,8 @@ overcome jealousy achievement pear pluto neptune
 1
 0 3
 2
-0 21 3 8
 0 19 1 2
+0 21 3 8
 1
 end_operator
 begin_operator
@@ -30887,8 +30887,8 @@ overcome jealousy achievement popover earth pluto
 1
 0 4
 2
-0 21 4 8
 0 19 2 0
+0 21 4 8
 1
 end_operator
 begin_operator
@@ -30896,8 +30896,8 @@ overcome jealousy achievement popover neptune uranus
 1
 0 4
 2
-0 21 4 8
 0 19 3 1
+0 21 4 8
 1
 end_operator
 begin_operator
@@ -30905,8 +30905,8 @@ overcome jealousy achievement popover pluto neptune
 1
 0 4
 2
-0 21 4 8
 0 19 1 2
+0 21 4 8
 1
 end_operator
 begin_operator
@@ -30914,8 +30914,8 @@ overcome jealousy achievement pork earth pluto
 1
 0 5
 2
-0 21 5 8
 0 19 2 0
+0 21 5 8
 1
 end_operator
 begin_operator
@@ -30923,8 +30923,8 @@ overcome jealousy achievement pork neptune uranus
 1
 0 5
 2
-0 21 5 8
 0 19 3 1
+0 21 5 8
 1
 end_operator
 begin_operator
@@ -30932,8 +30932,8 @@ overcome jealousy achievement pork pluto neptune
 1
 0 5
 2
-0 21 5 8
 0 19 1 2
+0 21 5 8
 1
 end_operator
 begin_operator
@@ -30941,8 +30941,8 @@ overcome jealousy achievement scallop earth pluto
 1
 0 6
 2
-0 21 6 8
 0 19 2 0
+0 21 6 8
 1
 end_operator
 begin_operator
@@ -30950,8 +30950,8 @@ overcome jealousy achievement scallop neptune uranus
 1
 0 6
 2
-0 21 6 8
 0 19 3 1
+0 21 6 8
 1
 end_operator
 begin_operator
@@ -30959,8 +30959,8 @@ overcome jealousy achievement scallop pluto neptune
 1
 0 6
 2
-0 21 6 8
 0 19 1 2
+0 21 6 8
 1
 end_operator
 begin_operator
@@ -30968,8 +30968,8 @@ overcome jealousy achievement shrimp earth pluto
 1
 0 7
 2
-0 21 7 8
 0 19 2 0
+0 21 7 8
 1
 end_operator
 begin_operator
@@ -30977,8 +30977,8 @@ overcome jealousy achievement shrimp neptune uranus
 1
 0 7
 2
-0 21 7 8
 0 19 3 1
+0 21 7 8
 1
 end_operator
 begin_operator
@@ -30986,8 +30986,8 @@ overcome jealousy achievement shrimp pluto neptune
 1
 0 7
 2
-0 21 7 8
 0 19 1 2
+0 21 7 8
 1
 end_operator
 begin_operator
@@ -30995,8 +30995,8 @@ overcome jealousy excitement broccoli earth pluto
 1
 1 0
 2
-0 21 0 9
 0 20 2 0
+0 21 0 9
 1
 end_operator
 begin_operator
@@ -31004,8 +31004,8 @@ overcome jealousy excitement broccoli neptune uranus
 1
 1 0
 2
-0 21 0 9
 0 20 3 1
+0 21 0 9
 1
 end_operator
 begin_operator
@@ -31013,8 +31013,8 @@ overcome jealousy excitement broccoli pluto neptune
 1
 1 0
 2
-0 21 0 9
 0 20 1 2
+0 21 0 9
 1
 end_operator
 begin_operator
@@ -31022,8 +31022,8 @@ overcome jealousy excitement melon earth pluto
 1
 1 1
 2
-0 21 1 9
 0 20 2 0
+0 21 1 9
 1
 end_operator
 begin_operator
@@ -31031,8 +31031,8 @@ overcome jealousy excitement melon neptune uranus
 1
 1 1
 2
-0 21 1 9
 0 20 3 1
+0 21 1 9
 1
 end_operator
 begin_operator
@@ -31040,8 +31040,8 @@ overcome jealousy excitement melon pluto neptune
 1
 1 1
 2
-0 21 1 9
 0 20 1 2
+0 21 1 9
 1
 end_operator
 begin_operator
@@ -31049,8 +31049,8 @@ overcome jealousy excitement papaya earth pluto
 1
 1 2
 2
-0 21 2 9
 0 20 2 0
+0 21 2 9
 1
 end_operator
 begin_operator
@@ -31058,8 +31058,8 @@ overcome jealousy excitement papaya neptune uranus
 1
 1 2
 2
-0 21 2 9
 0 20 3 1
+0 21 2 9
 1
 end_operator
 begin_operator
@@ -31067,8 +31067,8 @@ overcome jealousy excitement papaya pluto neptune
 1
 1 2
 2
-0 21 2 9
 0 20 1 2
+0 21 2 9
 1
 end_operator
 begin_operator
@@ -31076,8 +31076,8 @@ overcome jealousy excitement pear earth pluto
 1
 1 3
 2
-0 21 3 9
 0 20 2 0
+0 21 3 9
 1
 end_operator
 begin_operator
@@ -31085,8 +31085,8 @@ overcome jealousy excitement pear neptune uranus
 1
 1 3
 2
-0 21 3 9
 0 20 3 1
+0 21 3 9
 1
 end_operator
 begin_operator
@@ -31094,8 +31094,8 @@ overcome jealousy excitement pear pluto neptune
 1
 1 3
 2
-0 21 3 9
 0 20 1 2
+0 21 3 9
 1
 end_operator
 begin_operator
@@ -31103,8 +31103,8 @@ overcome jealousy excitement popover earth pluto
 1
 1 4
 2
-0 21 4 9
 0 20 2 0
+0 21 4 9
 1
 end_operator
 begin_operator
@@ -31112,8 +31112,8 @@ overcome jealousy excitement popover neptune uranus
 1
 1 4
 2
-0 21 4 9
 0 20 3 1
+0 21 4 9
 1
 end_operator
 begin_operator
@@ -31121,8 +31121,8 @@ overcome jealousy excitement popover pluto neptune
 1
 1 4
 2
-0 21 4 9
 0 20 1 2
+0 21 4 9
 1
 end_operator
 begin_operator
@@ -31130,8 +31130,8 @@ overcome jealousy excitement pork earth pluto
 1
 1 5
 2
-0 21 5 9
 0 20 2 0
+0 21 5 9
 1
 end_operator
 begin_operator
@@ -31139,8 +31139,8 @@ overcome jealousy excitement pork neptune uranus
 1
 1 5
 2
-0 21 5 9
 0 20 3 1
+0 21 5 9
 1
 end_operator
 begin_operator
@@ -31148,8 +31148,8 @@ overcome jealousy excitement pork pluto neptune
 1
 1 5
 2
-0 21 5 9
 0 20 1 2
+0 21 5 9
 1
 end_operator
 begin_operator
@@ -31157,8 +31157,8 @@ overcome jealousy excitement scallop earth pluto
 1
 1 6
 2
-0 21 6 9
 0 20 2 0
+0 21 6 9
 1
 end_operator
 begin_operator
@@ -31166,8 +31166,8 @@ overcome jealousy excitement scallop neptune uranus
 1
 1 6
 2
-0 21 6 9
 0 20 3 1
+0 21 6 9
 1
 end_operator
 begin_operator
@@ -31175,8 +31175,8 @@ overcome jealousy excitement scallop pluto neptune
 1
 1 6
 2
-0 21 6 9
 0 20 1 2
+0 21 6 9
 1
 end_operator
 begin_operator
@@ -31184,8 +31184,8 @@ overcome jealousy excitement shrimp earth pluto
 1
 1 7
 2
-0 21 7 9
 0 20 2 0
+0 21 7 9
 1
 end_operator
 begin_operator
@@ -31193,8 +31193,8 @@ overcome jealousy excitement shrimp neptune uranus
 1
 1 7
 2
-0 21 7 9
 0 20 3 1
+0 21 7 9
 1
 end_operator
 begin_operator
@@ -31202,8 +31202,8 @@ overcome jealousy excitement shrimp pluto neptune
 1
 1 7
 2
-0 21 7 9
 0 20 1 2
+0 21 7 9
 1
 end_operator
 begin_operator
@@ -31643,8 +31643,8 @@ overcome prostatitis achievement broccoli earth pluto
 1
 0 0
 2
-0 22 0 8
 0 19 2 0
+0 22 0 8
 1
 end_operator
 begin_operator
@@ -31652,8 +31652,8 @@ overcome prostatitis achievement broccoli neptune uranus
 1
 0 0
 2
-0 22 0 8
 0 19 3 1
+0 22 0 8
 1
 end_operator
 begin_operator
@@ -31661,8 +31661,8 @@ overcome prostatitis achievement broccoli pluto neptune
 1
 0 0
 2
-0 22 0 8
 0 19 1 2
+0 22 0 8
 1
 end_operator
 begin_operator
@@ -31670,8 +31670,8 @@ overcome prostatitis achievement melon earth pluto
 1
 0 1
 2
-0 22 1 8
 0 19 2 0
+0 22 1 8
 1
 end_operator
 begin_operator
@@ -31679,8 +31679,8 @@ overcome prostatitis achievement melon neptune uranus
 1
 0 1
 2
-0 22 1 8
 0 19 3 1
+0 22 1 8
 1
 end_operator
 begin_operator
@@ -31688,8 +31688,8 @@ overcome prostatitis achievement melon pluto neptune
 1
 0 1
 2
-0 22 1 8
 0 19 1 2
+0 22 1 8
 1
 end_operator
 begin_operator
@@ -31697,8 +31697,8 @@ overcome prostatitis achievement papaya earth pluto
 1
 0 2
 2
-0 22 2 8
 0 19 2 0
+0 22 2 8
 1
 end_operator
 begin_operator
@@ -31706,8 +31706,8 @@ overcome prostatitis achievement papaya neptune uranus
 1
 0 2
 2
-0 22 2 8
 0 19 3 1
+0 22 2 8
 1
 end_operator
 begin_operator
@@ -31715,8 +31715,8 @@ overcome prostatitis achievement papaya pluto neptune
 1
 0 2
 2
-0 22 2 8
 0 19 1 2
+0 22 2 8
 1
 end_operator
 begin_operator
@@ -31724,8 +31724,8 @@ overcome prostatitis achievement pear earth pluto
 1
 0 3
 2
-0 22 3 8
 0 19 2 0
+0 22 3 8
 1
 end_operator
 begin_operator
@@ -31733,8 +31733,8 @@ overcome prostatitis achievement pear neptune uranus
 1
 0 3
 2
-0 22 3 8
 0 19 3 1
+0 22 3 8
 1
 end_operator
 begin_operator
@@ -31742,8 +31742,8 @@ overcome prostatitis achievement pear pluto neptune
 1
 0 3
 2
-0 22 3 8
 0 19 1 2
+0 22 3 8
 1
 end_operator
 begin_operator
@@ -31751,8 +31751,8 @@ overcome prostatitis achievement popover earth pluto
 1
 0 4
 2
-0 22 4 8
 0 19 2 0
+0 22 4 8
 1
 end_operator
 begin_operator
@@ -31760,8 +31760,8 @@ overcome prostatitis achievement popover neptune uranus
 1
 0 4
 2
-0 22 4 8
 0 19 3 1
+0 22 4 8
 1
 end_operator
 begin_operator
@@ -31769,8 +31769,8 @@ overcome prostatitis achievement popover pluto neptune
 1
 0 4
 2
-0 22 4 8
 0 19 1 2
+0 22 4 8
 1
 end_operator
 begin_operator
@@ -31778,8 +31778,8 @@ overcome prostatitis achievement pork earth pluto
 1
 0 5
 2
-0 22 5 8
 0 19 2 0
+0 22 5 8
 1
 end_operator
 begin_operator
@@ -31787,8 +31787,8 @@ overcome prostatitis achievement pork neptune uranus
 1
 0 5
 2
-0 22 5 8
 0 19 3 1
+0 22 5 8
 1
 end_operator
 begin_operator
@@ -31796,8 +31796,8 @@ overcome prostatitis achievement pork pluto neptune
 1
 0 5
 2
-0 22 5 8
 0 19 1 2
+0 22 5 8
 1
 end_operator
 begin_operator
@@ -31805,8 +31805,8 @@ overcome prostatitis achievement scallop earth pluto
 1
 0 6
 2
-0 22 6 8
 0 19 2 0
+0 22 6 8
 1
 end_operator
 begin_operator
@@ -31814,8 +31814,8 @@ overcome prostatitis achievement scallop neptune uranus
 1
 0 6
 2
-0 22 6 8
 0 19 3 1
+0 22 6 8
 1
 end_operator
 begin_operator
@@ -31823,8 +31823,8 @@ overcome prostatitis achievement scallop pluto neptune
 1
 0 6
 2
-0 22 6 8
 0 19 1 2
+0 22 6 8
 1
 end_operator
 begin_operator
@@ -31832,8 +31832,8 @@ overcome prostatitis achievement shrimp earth pluto
 1
 0 7
 2
-0 22 7 8
 0 19 2 0
+0 22 7 8
 1
 end_operator
 begin_operator
@@ -31841,8 +31841,8 @@ overcome prostatitis achievement shrimp neptune uranus
 1
 0 7
 2
-0 22 7 8
 0 19 3 1
+0 22 7 8
 1
 end_operator
 begin_operator
@@ -31850,8 +31850,8 @@ overcome prostatitis achievement shrimp pluto neptune
 1
 0 7
 2
-0 22 7 8
 0 19 1 2
+0 22 7 8
 1
 end_operator
 begin_operator
@@ -31859,8 +31859,8 @@ overcome prostatitis excitement broccoli earth pluto
 1
 1 0
 2
-0 22 0 9
 0 20 2 0
+0 22 0 9
 1
 end_operator
 begin_operator
@@ -31868,8 +31868,8 @@ overcome prostatitis excitement broccoli neptune uranus
 1
 1 0
 2
-0 22 0 9
 0 20 3 1
+0 22 0 9
 1
 end_operator
 begin_operator
@@ -31877,8 +31877,8 @@ overcome prostatitis excitement broccoli pluto neptune
 1
 1 0
 2
-0 22 0 9
 0 20 1 2
+0 22 0 9
 1
 end_operator
 begin_operator
@@ -31886,8 +31886,8 @@ overcome prostatitis excitement melon earth pluto
 1
 1 1
 2
-0 22 1 9
 0 20 2 0
+0 22 1 9
 1
 end_operator
 begin_operator
@@ -31895,8 +31895,8 @@ overcome prostatitis excitement melon neptune uranus
 1
 1 1
 2
-0 22 1 9
 0 20 3 1
+0 22 1 9
 1
 end_operator
 begin_operator
@@ -31904,8 +31904,8 @@ overcome prostatitis excitement melon pluto neptune
 1
 1 1
 2
-0 22 1 9
 0 20 1 2
+0 22 1 9
 1
 end_operator
 begin_operator
@@ -31913,8 +31913,8 @@ overcome prostatitis excitement papaya earth pluto
 1
 1 2
 2
-0 22 2 9
 0 20 2 0
+0 22 2 9
 1
 end_operator
 begin_operator
@@ -31922,8 +31922,8 @@ overcome prostatitis excitement papaya neptune uranus
 1
 1 2
 2
-0 22 2 9
 0 20 3 1
+0 22 2 9
 1
 end_operator
 begin_operator
@@ -31931,8 +31931,8 @@ overcome prostatitis excitement papaya pluto neptune
 1
 1 2
 2
-0 22 2 9
 0 20 1 2
+0 22 2 9
 1
 end_operator
 begin_operator
@@ -31940,8 +31940,8 @@ overcome prostatitis excitement pear earth pluto
 1
 1 3
 2
-0 22 3 9
 0 20 2 0
+0 22 3 9
 1
 end_operator
 begin_operator
@@ -31949,8 +31949,8 @@ overcome prostatitis excitement pear neptune uranus
 1
 1 3
 2
-0 22 3 9
 0 20 3 1
+0 22 3 9
 1
 end_operator
 begin_operator
@@ -31958,8 +31958,8 @@ overcome prostatitis excitement pear pluto neptune
 1
 1 3
 2
-0 22 3 9
 0 20 1 2
+0 22 3 9
 1
 end_operator
 begin_operator
@@ -31967,8 +31967,8 @@ overcome prostatitis excitement popover earth pluto
 1
 1 4
 2
-0 22 4 9
 0 20 2 0
+0 22 4 9
 1
 end_operator
 begin_operator
@@ -31976,8 +31976,8 @@ overcome prostatitis excitement popover neptune uranus
 1
 1 4
 2
-0 22 4 9
 0 20 3 1
+0 22 4 9
 1
 end_operator
 begin_operator
@@ -31985,8 +31985,8 @@ overcome prostatitis excitement popover pluto neptune
 1
 1 4
 2
-0 22 4 9
 0 20 1 2
+0 22 4 9
 1
 end_operator
 begin_operator
@@ -31994,8 +31994,8 @@ overcome prostatitis excitement pork earth pluto
 1
 1 5
 2
-0 22 5 9
 0 20 2 0
+0 22 5 9
 1
 end_operator
 begin_operator
@@ -32003,8 +32003,8 @@ overcome prostatitis excitement pork neptune uranus
 1
 1 5
 2
-0 22 5 9
 0 20 3 1
+0 22 5 9
 1
 end_operator
 begin_operator
@@ -32012,8 +32012,8 @@ overcome prostatitis excitement pork pluto neptune
 1
 1 5
 2
-0 22 5 9
 0 20 1 2
+0 22 5 9
 1
 end_operator
 begin_operator
@@ -32021,8 +32021,8 @@ overcome prostatitis excitement scallop earth pluto
 1
 1 6
 2
-0 22 6 9
 0 20 2 0
+0 22 6 9
 1
 end_operator
 begin_operator
@@ -32030,8 +32030,8 @@ overcome prostatitis excitement scallop neptune uranus
 1
 1 6
 2
-0 22 6 9
 0 20 3 1
+0 22 6 9
 1
 end_operator
 begin_operator
@@ -32039,8 +32039,8 @@ overcome prostatitis excitement scallop pluto neptune
 1
 1 6
 2
-0 22 6 9
 0 20 1 2
+0 22 6 9
 1
 end_operator
 begin_operator
@@ -32048,8 +32048,8 @@ overcome prostatitis excitement shrimp earth pluto
 1
 1 7
 2
-0 22 7 9
 0 20 2 0
+0 22 7 9
 1
 end_operator
 begin_operator
@@ -32057,8 +32057,8 @@ overcome prostatitis excitement shrimp neptune uranus
 1
 1 7
 2
-0 22 7 9
 0 20 3 1
+0 22 7 9
 1
 end_operator
 begin_operator
@@ -32066,8 +32066,8 @@ overcome prostatitis excitement shrimp pluto neptune
 1
 1 7
 2
-0 22 7 9
 0 20 1 2
+0 22 7 9
 1
 end_operator
 begin_operator
@@ -35531,8 +35531,8 @@ succumb jealousy achievement broccoli earth pluto
 1
 0 0
 2
-0 21 8 0
 0 19 0 2
+0 21 8 0
 1
 end_operator
 begin_operator
@@ -35540,8 +35540,8 @@ succumb jealousy achievement broccoli neptune uranus
 1
 0 0
 2
-0 21 8 0
 0 19 1 3
+0 21 8 0
 1
 end_operator
 begin_operator
@@ -35549,8 +35549,8 @@ succumb jealousy achievement broccoli pluto neptune
 1
 0 0
 2
-0 21 8 0
 0 19 2 1
+0 21 8 0
 1
 end_operator
 begin_operator
@@ -35558,8 +35558,8 @@ succumb jealousy achievement melon earth pluto
 1
 0 1
 2
-0 21 8 1
 0 19 0 2
+0 21 8 1
 1
 end_operator
 begin_operator
@@ -35567,8 +35567,8 @@ succumb jealousy achievement melon neptune uranus
 1
 0 1
 2
-0 21 8 1
 0 19 1 3
+0 21 8 1
 1
 end_operator
 begin_operator
@@ -35576,8 +35576,8 @@ succumb jealousy achievement melon pluto neptune
 1
 0 1
 2
-0 21 8 1
 0 19 2 1
+0 21 8 1
 1
 end_operator
 begin_operator
@@ -35585,8 +35585,8 @@ succumb jealousy achievement papaya earth pluto
 1
 0 2
 2
-0 21 8 2
 0 19 0 2
+0 21 8 2
 1
 end_operator
 begin_operator
@@ -35594,8 +35594,8 @@ succumb jealousy achievement papaya neptune uranus
 1
 0 2
 2
-0 21 8 2
 0 19 1 3
+0 21 8 2
 1
 end_operator
 begin_operator
@@ -35603,8 +35603,8 @@ succumb jealousy achievement papaya pluto neptune
 1
 0 2
 2
-0 21 8 2
 0 19 2 1
+0 21 8 2
 1
 end_operator
 begin_operator
@@ -35612,8 +35612,8 @@ succumb jealousy achievement pear earth pluto
 1
 0 3
 2
-0 21 8 3
 0 19 0 2
+0 21 8 3
 1
 end_operator
 begin_operator
@@ -35621,8 +35621,8 @@ succumb jealousy achievement pear neptune uranus
 1
 0 3
 2
-0 21 8 3
 0 19 1 3
+0 21 8 3
 1
 end_operator
 begin_operator
@@ -35630,8 +35630,8 @@ succumb jealousy achievement pear pluto neptune
 1
 0 3
 2
-0 21 8 3
 0 19 2 1
+0 21 8 3
 1
 end_operator
 begin_operator
@@ -35639,8 +35639,8 @@ succumb jealousy achievement popover earth pluto
 1
 0 4
 2
-0 21 8 4
 0 19 0 2
+0 21 8 4
 1
 end_operator
 begin_operator
@@ -35648,8 +35648,8 @@ succumb jealousy achievement popover neptune uranus
 1
 0 4
 2
-0 21 8 4
 0 19 1 3
+0 21 8 4
 1
 end_operator
 begin_operator
@@ -35657,8 +35657,8 @@ succumb jealousy achievement popover pluto neptune
 1
 0 4
 2
-0 21 8 4
 0 19 2 1
+0 21 8 4
 1
 end_operator
 begin_operator
@@ -35666,8 +35666,8 @@ succumb jealousy achievement pork earth pluto
 1
 0 5
 2
-0 21 8 5
 0 19 0 2
+0 21 8 5
 1
 end_operator
 begin_operator
@@ -35675,8 +35675,8 @@ succumb jealousy achievement pork neptune uranus
 1
 0 5
 2
-0 21 8 5
 0 19 1 3
+0 21 8 5
 1
 end_operator
 begin_operator
@@ -35684,8 +35684,8 @@ succumb jealousy achievement pork pluto neptune
 1
 0 5
 2
-0 21 8 5
 0 19 2 1
+0 21 8 5
 1
 end_operator
 begin_operator
@@ -35693,8 +35693,8 @@ succumb jealousy achievement scallop earth pluto
 1
 0 6
 2
-0 21 8 6
 0 19 0 2
+0 21 8 6
 1
 end_operator
 begin_operator
@@ -35702,8 +35702,8 @@ succumb jealousy achievement scallop neptune uranus
 1
 0 6
 2
-0 21 8 6
 0 19 1 3
+0 21 8 6
 1
 end_operator
 begin_operator
@@ -35711,8 +35711,8 @@ succumb jealousy achievement scallop pluto neptune
 1
 0 6
 2
-0 21 8 6
 0 19 2 1
+0 21 8 6
 1
 end_operator
 begin_operator
@@ -35720,8 +35720,8 @@ succumb jealousy achievement shrimp earth pluto
 1
 0 7
 2
-0 21 8 7
 0 19 0 2
+0 21 8 7
 1
 end_operator
 begin_operator
@@ -35729,8 +35729,8 @@ succumb jealousy achievement shrimp neptune uranus
 1
 0 7
 2
-0 21 8 7
 0 19 1 3
+0 21 8 7
 1
 end_operator
 begin_operator
@@ -35738,8 +35738,8 @@ succumb jealousy achievement shrimp pluto neptune
 1
 0 7
 2
-0 21 8 7
 0 19 2 1
+0 21 8 7
 1
 end_operator
 begin_operator
@@ -35747,8 +35747,8 @@ succumb jealousy excitement broccoli earth pluto
 1
 1 0
 2
-0 21 9 0
 0 20 0 2
+0 21 9 0
 1
 end_operator
 begin_operator
@@ -35756,8 +35756,8 @@ succumb jealousy excitement broccoli neptune uranus
 1
 1 0
 2
-0 21 9 0
 0 20 1 3
+0 21 9 0
 1
 end_operator
 begin_operator
@@ -35765,8 +35765,8 @@ succumb jealousy excitement broccoli pluto neptune
 1
 1 0
 2
-0 21 9 0
 0 20 2 1
+0 21 9 0
 1
 end_operator
 begin_operator
@@ -35774,8 +35774,8 @@ succumb jealousy excitement melon earth pluto
 1
 1 1
 2
-0 21 9 1
 0 20 0 2
+0 21 9 1
 1
 end_operator
 begin_operator
@@ -35783,8 +35783,8 @@ succumb jealousy excitement melon neptune uranus
 1
 1 1
 2
-0 21 9 1
 0 20 1 3
+0 21 9 1
 1
 end_operator
 begin_operator
@@ -35792,8 +35792,8 @@ succumb jealousy excitement melon pluto neptune
 1
 1 1
 2
-0 21 9 1
 0 20 2 1
+0 21 9 1
 1
 end_operator
 begin_operator
@@ -35801,8 +35801,8 @@ succumb jealousy excitement papaya earth pluto
 1
 1 2
 2
-0 21 9 2
 0 20 0 2
+0 21 9 2
 1
 end_operator
 begin_operator
@@ -35810,8 +35810,8 @@ succumb jealousy excitement papaya neptune uranus
 1
 1 2
 2
-0 21 9 2
 0 20 1 3
+0 21 9 2
 1
 end_operator
 begin_operator
@@ -35819,8 +35819,8 @@ succumb jealousy excitement papaya pluto neptune
 1
 1 2
 2
-0 21 9 2
 0 20 2 1
+0 21 9 2
 1
 end_operator
 begin_operator
@@ -35828,8 +35828,8 @@ succumb jealousy excitement pear earth pluto
 1
 1 3
 2
-0 21 9 3
 0 20 0 2
+0 21 9 3
 1
 end_operator
 begin_operator
@@ -35837,8 +35837,8 @@ succumb jealousy excitement pear neptune uranus
 1
 1 3
 2
-0 21 9 3
 0 20 1 3
+0 21 9 3
 1
 end_operator
 begin_operator
@@ -35846,8 +35846,8 @@ succumb jealousy excitement pear pluto neptune
 1
 1 3
 2
-0 21 9 3
 0 20 2 1
+0 21 9 3
 1
 end_operator
 begin_operator
@@ -35855,8 +35855,8 @@ succumb jealousy excitement popover earth pluto
 1
 1 4
 2
-0 21 9 4
 0 20 0 2
+0 21 9 4
 1
 end_operator
 begin_operator
@@ -35864,8 +35864,8 @@ succumb jealousy excitement popover neptune uranus
 1
 1 4
 2
-0 21 9 4
 0 20 1 3
+0 21 9 4
 1
 end_operator
 begin_operator
@@ -35873,8 +35873,8 @@ succumb jealousy excitement popover pluto neptune
 1
 1 4
 2
-0 21 9 4
 0 20 2 1
+0 21 9 4
 1
 end_operator
 begin_operator
@@ -35882,8 +35882,8 @@ succumb jealousy excitement pork earth pluto
 1
 1 5
 2
-0 21 9 5
 0 20 0 2
+0 21 9 5
 1
 end_operator
 begin_operator
@@ -35891,8 +35891,8 @@ succumb jealousy excitement pork neptune uranus
 1
 1 5
 2
-0 21 9 5
 0 20 1 3
+0 21 9 5
 1
 end_operator
 begin_operator
@@ -35900,8 +35900,8 @@ succumb jealousy excitement pork pluto neptune
 1
 1 5
 2
-0 21 9 5
 0 20 2 1
+0 21 9 5
 1
 end_operator
 begin_operator
@@ -35909,8 +35909,8 @@ succumb jealousy excitement scallop earth pluto
 1
 1 6
 2
-0 21 9 6
 0 20 0 2
+0 21 9 6
 1
 end_operator
 begin_operator
@@ -35918,8 +35918,8 @@ succumb jealousy excitement scallop neptune uranus
 1
 1 6
 2
-0 21 9 6
 0 20 1 3
+0 21 9 6
 1
 end_operator
 begin_operator
@@ -35927,8 +35927,8 @@ succumb jealousy excitement scallop pluto neptune
 1
 1 6
 2
-0 21 9 6
 0 20 2 1
+0 21 9 6
 1
 end_operator
 begin_operator
@@ -35936,8 +35936,8 @@ succumb jealousy excitement shrimp earth pluto
 1
 1 7
 2
-0 21 9 7
 0 20 0 2
+0 21 9 7
 1
 end_operator
 begin_operator
@@ -35945,8 +35945,8 @@ succumb jealousy excitement shrimp neptune uranus
 1
 1 7
 2
-0 21 9 7
 0 20 1 3
+0 21 9 7
 1
 end_operator
 begin_operator
@@ -35954,8 +35954,8 @@ succumb jealousy excitement shrimp pluto neptune
 1
 1 7
 2
-0 21 9 7
 0 20 2 1
+0 21 9 7
 1
 end_operator
 begin_operator
@@ -36395,8 +36395,8 @@ succumb prostatitis achievement broccoli earth pluto
 1
 0 0
 2
-0 22 8 0
 0 19 0 2
+0 22 8 0
 1
 end_operator
 begin_operator
@@ -36404,8 +36404,8 @@ succumb prostatitis achievement broccoli neptune uranus
 1
 0 0
 2
-0 22 8 0
 0 19 1 3
+0 22 8 0
 1
 end_operator
 begin_operator
@@ -36413,8 +36413,8 @@ succumb prostatitis achievement broccoli pluto neptune
 1
 0 0
 2
-0 22 8 0
 0 19 2 1
+0 22 8 0
 1
 end_operator
 begin_operator
@@ -36422,8 +36422,8 @@ succumb prostatitis achievement melon earth pluto
 1
 0 1
 2
-0 22 8 1
 0 19 0 2
+0 22 8 1
 1
 end_operator
 begin_operator
@@ -36431,8 +36431,8 @@ succumb prostatitis achievement melon neptune uranus
 1
 0 1
 2
-0 22 8 1
 0 19 1 3
+0 22 8 1
 1
 end_operator
 begin_operator
@@ -36440,8 +36440,8 @@ succumb prostatitis achievement melon pluto neptune
 1
 0 1
 2
-0 22 8 1
 0 19 2 1
+0 22 8 1
 1
 end_operator
 begin_operator
@@ -36449,8 +36449,8 @@ succumb prostatitis achievement papaya earth pluto
 1
 0 2
 2
-0 22 8 2
 0 19 0 2
+0 22 8 2
 1
 end_operator
 begin_operator
@@ -36458,8 +36458,8 @@ succumb prostatitis achievement papaya neptune uranus
 1
 0 2
 2
-0 22 8 2
 0 19 1 3
+0 22 8 2
 1
 end_operator
 begin_operator
@@ -36467,8 +36467,8 @@ succumb prostatitis achievement papaya pluto neptune
 1
 0 2
 2
-0 22 8 2
 0 19 2 1
+0 22 8 2
 1
 end_operator
 begin_operator
@@ -36476,8 +36476,8 @@ succumb prostatitis achievement pear earth pluto
 1
 0 3
 2
-0 22 8 3
 0 19 0 2
+0 22 8 3
 1
 end_operator
 begin_operator
@@ -36485,8 +36485,8 @@ succumb prostatitis achievement pear neptune uranus
 1
 0 3
 2
-0 22 8 3
 0 19 1 3
+0 22 8 3
 1
 end_operator
 begin_operator
@@ -36494,8 +36494,8 @@ succumb prostatitis achievement pear pluto neptune
 1
 0 3
 2
-0 22 8 3
 0 19 2 1
+0 22 8 3
 1
 end_operator
 begin_operator
@@ -36503,8 +36503,8 @@ succumb prostatitis achievement popover earth pluto
 1
 0 4
 2
-0 22 8 4
 0 19 0 2
+0 22 8 4
 1
 end_operator
 begin_operator
@@ -36512,8 +36512,8 @@ succumb prostatitis achievement popover neptune uranus
 1
 0 4
 2
-0 22 8 4
 0 19 1 3
+0 22 8 4
 1
 end_operator
 begin_operator
@@ -36521,8 +36521,8 @@ succumb prostatitis achievement popover pluto neptune
 1
 0 4
 2
-0 22 8 4
 0 19 2 1
+0 22 8 4
 1
 end_operator
 begin_operator
@@ -36530,8 +36530,8 @@ succumb prostatitis achievement pork earth pluto
 1
 0 5
 2
-0 22 8 5
 0 19 0 2
+0 22 8 5
 1
 end_operator
 begin_operator
@@ -36539,8 +36539,8 @@ succumb prostatitis achievement pork neptune uranus
 1
 0 5
 2
-0 22 8 5
 0 19 1 3
+0 22 8 5
 1
 end_operator
 begin_operator
@@ -36548,8 +36548,8 @@ succumb prostatitis achievement pork pluto neptune
 1
 0 5
 2
-0 22 8 5
 0 19 2 1
+0 22 8 5
 1
 end_operator
 begin_operator
@@ -36557,8 +36557,8 @@ succumb prostatitis achievement scallop earth pluto
 1
 0 6
 2
-0 22 8 6
 0 19 0 2
+0 22 8 6
 1
 end_operator
 begin_operator
@@ -36566,8 +36566,8 @@ succumb prostatitis achievement scallop neptune uranus
 1
 0 6
 2
-0 22 8 6
 0 19 1 3
+0 22 8 6
 1
 end_operator
 begin_operator
@@ -36575,8 +36575,8 @@ succumb prostatitis achievement scallop pluto neptune
 1
 0 6
 2
-0 22 8 6
 0 19 2 1
+0 22 8 6
 1
 end_operator
 begin_operator
@@ -36584,8 +36584,8 @@ succumb prostatitis achievement shrimp earth pluto
 1
 0 7
 2
-0 22 8 7
 0 19 0 2
+0 22 8 7
 1
 end_operator
 begin_operator
@@ -36593,8 +36593,8 @@ succumb prostatitis achievement shrimp neptune uranus
 1
 0 7
 2
-0 22 8 7
 0 19 1 3
+0 22 8 7
 1
 end_operator
 begin_operator
@@ -36602,8 +36602,8 @@ succumb prostatitis achievement shrimp pluto neptune
 1
 0 7
 2
-0 22 8 7
 0 19 2 1
+0 22 8 7
 1
 end_operator
 begin_operator
@@ -36611,8 +36611,8 @@ succumb prostatitis excitement broccoli earth pluto
 1
 1 0
 2
-0 22 9 0
 0 20 0 2
+0 22 9 0
 1
 end_operator
 begin_operator
@@ -36620,8 +36620,8 @@ succumb prostatitis excitement broccoli neptune uranus
 1
 1 0
 2
-0 22 9 0
 0 20 1 3
+0 22 9 0
 1
 end_operator
 begin_operator
@@ -36629,8 +36629,8 @@ succumb prostatitis excitement broccoli pluto neptune
 1
 1 0
 2
-0 22 9 0
 0 20 2 1
+0 22 9 0
 1
 end_operator
 begin_operator
@@ -36638,8 +36638,8 @@ succumb prostatitis excitement melon earth pluto
 1
 1 1
 2
-0 22 9 1
 0 20 0 2
+0 22 9 1
 1
 end_operator
 begin_operator
@@ -36647,8 +36647,8 @@ succumb prostatitis excitement melon neptune uranus
 1
 1 1
 2
-0 22 9 1
 0 20 1 3
+0 22 9 1
 1
 end_operator
 begin_operator
@@ -36656,8 +36656,8 @@ succumb prostatitis excitement melon pluto neptune
 1
 1 1
 2
-0 22 9 1
 0 20 2 1
+0 22 9 1
 1
 end_operator
 begin_operator
@@ -36665,8 +36665,8 @@ succumb prostatitis excitement papaya earth pluto
 1
 1 2
 2
-0 22 9 2
 0 20 0 2
+0 22 9 2
 1
 end_operator
 begin_operator
@@ -36674,8 +36674,8 @@ succumb prostatitis excitement papaya neptune uranus
 1
 1 2
 2
-0 22 9 2
 0 20 1 3
+0 22 9 2
 1
 end_operator
 begin_operator
@@ -36683,8 +36683,8 @@ succumb prostatitis excitement papaya pluto neptune
 1
 1 2
 2
-0 22 9 2
 0 20 2 1
+0 22 9 2
 1
 end_operator
 begin_operator
@@ -36692,8 +36692,8 @@ succumb prostatitis excitement pear earth pluto
 1
 1 3
 2
-0 22 9 3
 0 20 0 2
+0 22 9 3
 1
 end_operator
 begin_operator
@@ -36701,8 +36701,8 @@ succumb prostatitis excitement pear neptune uranus
 1
 1 3
 2
-0 22 9 3
 0 20 1 3
+0 22 9 3
 1
 end_operator
 begin_operator
@@ -36710,8 +36710,8 @@ succumb prostatitis excitement pear pluto neptune
 1
 1 3
 2
-0 22 9 3
 0 20 2 1
+0 22 9 3
 1
 end_operator
 begin_operator
@@ -36719,8 +36719,8 @@ succumb prostatitis excitement popover earth pluto
 1
 1 4
 2
-0 22 9 4
 0 20 0 2
+0 22 9 4
 1
 end_operator
 begin_operator
@@ -36728,8 +36728,8 @@ succumb prostatitis excitement popover neptune uranus
 1
 1 4
 2
-0 22 9 4
 0 20 1 3
+0 22 9 4
 1
 end_operator
 begin_operator
@@ -36737,8 +36737,8 @@ succumb prostatitis excitement popover pluto neptune
 1
 1 4
 2
-0 22 9 4
 0 20 2 1
+0 22 9 4
 1
 end_operator
 begin_operator
@@ -36746,8 +36746,8 @@ succumb prostatitis excitement pork earth pluto
 1
 1 5
 2
-0 22 9 5
 0 20 0 2
+0 22 9 5
 1
 end_operator
 begin_operator
@@ -36755,8 +36755,8 @@ succumb prostatitis excitement pork neptune uranus
 1
 1 5
 2
-0 22 9 5
 0 20 1 3
+0 22 9 5
 1
 end_operator
 begin_operator
@@ -36764,8 +36764,8 @@ succumb prostatitis excitement pork pluto neptune
 1
 1 5
 2
-0 22 9 5
 0 20 2 1
+0 22 9 5
 1
 end_operator
 begin_operator
@@ -36773,8 +36773,8 @@ succumb prostatitis excitement scallop earth pluto
 1
 1 6
 2
-0 22 9 6
 0 20 0 2
+0 22 9 6
 1
 end_operator
 begin_operator
@@ -36782,8 +36782,8 @@ succumb prostatitis excitement scallop neptune uranus
 1
 1 6
 2
-0 22 9 6
 0 20 1 3
+0 22 9 6
 1
 end_operator
 begin_operator
@@ -36791,8 +36791,8 @@ succumb prostatitis excitement scallop pluto neptune
 1
 1 6
 2
-0 22 9 6
 0 20 2 1
+0 22 9 6
 1
 end_operator
 begin_operator
@@ -36800,8 +36800,8 @@ succumb prostatitis excitement shrimp earth pluto
 1
 1 7
 2
-0 22 9 7
 0 20 0 2
+0 22 9 7
 1
 end_operator
 begin_operator
@@ -36809,8 +36809,8 @@ succumb prostatitis excitement shrimp neptune uranus
 1
 1 7
 2
-0 22 9 7
 0 20 1 3
+0 22 9 7
 1
 end_operator
 begin_operator
@@ -36818,8 +36818,8 @@ succumb prostatitis excitement shrimp pluto neptune
 1
 1 7
 2
-0 22 9 7
 0 20 2 1
+0 22 9 7
 1
 end_operator
 begin_operator

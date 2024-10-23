@@ -123,8 +123,8 @@ load goods1 truck1 market1 level0 level1 level0 level1
 1
 0 1
 2
-0 7 0 1
 0 6 1 0
+0 7 0 1
 1
 end_operator
 begin_operator
@@ -132,8 +132,8 @@ load goods2 truck1 market1 level0 level1 level0 level1
 1
 0 1
 2
-0 3 0 1
 0 2 1 0
+0 3 0 1
 1
 end_operator
 begin_operator

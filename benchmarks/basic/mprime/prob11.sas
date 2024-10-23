@@ -10594,8 +10594,8 @@ overcome laceration lubricity bacon neptune uranus
 1
 0 0
 2
-0 16 0 8
 0 15 2 0
+0 16 0 8
 1
 end_operator
 begin_operator
@@ -10603,8 +10603,8 @@ overcome laceration lubricity bacon uranus saturn
 1
 0 0
 2
-0 16 0 8
 0 15 1 2
+0 16 0 8
 1
 end_operator
 begin_operator
@@ -10612,8 +10612,8 @@ overcome laceration lubricity cherry neptune uranus
 1
 0 1
 2
-0 16 1 8
 0 15 2 0
+0 16 1 8
 1
 end_operator
 begin_operator
@@ -10621,8 +10621,8 @@ overcome laceration lubricity cherry uranus saturn
 1
 0 1
 2
-0 16 1 8
 0 15 1 2
+0 16 1 8
 1
 end_operator
 begin_operator
@@ -10630,8 +10630,8 @@ overcome laceration lubricity chicken neptune uranus
 1
 0 2
 2
-0 16 2 8
 0 15 2 0
+0 16 2 8
 1
 end_operator
 begin_operator
@@ -10639,8 +10639,8 @@ overcome laceration lubricity chicken uranus saturn
 1
 0 2
 2
-0 16 2 8
 0 15 1 2
+0 16 2 8
 1
 end_operator
 begin_operator
@@ -10648,8 +10648,8 @@ overcome laceration lubricity pear neptune uranus
 1
 0 3
 2
-0 16 3 8
 0 15 2 0
+0 16 3 8
 1
 end_operator
 begin_operator
@@ -10657,8 +10657,8 @@ overcome laceration lubricity pear uranus saturn
 1
 0 3
 2
-0 16 3 8
 0 15 1 2
+0 16 3 8
 1
 end_operator
 begin_operator
@@ -10666,8 +10666,8 @@ overcome laceration lubricity pistachio neptune uranus
 1
 0 4
 2
-0 16 4 8
 0 15 2 0
+0 16 4 8
 1
 end_operator
 begin_operator
@@ -10675,8 +10675,8 @@ overcome laceration lubricity pistachio uranus saturn
 1
 0 4
 2
-0 16 4 8
 0 15 1 2
+0 16 4 8
 1
 end_operator
 begin_operator
@@ -10684,8 +10684,8 @@ overcome laceration lubricity shrimp neptune uranus
 1
 0 5
 2
-0 16 5 8
 0 15 2 0
+0 16 5 8
 1
 end_operator
 begin_operator
@@ -10693,8 +10693,8 @@ overcome laceration lubricity shrimp uranus saturn
 1
 0 5
 2
-0 16 5 8
 0 15 1 2
+0 16 5 8
 1
 end_operator
 begin_operator
@@ -10702,8 +10702,8 @@ overcome laceration lubricity sweetroll neptune uranus
 1
 0 6
 2
-0 16 6 8
 0 15 2 0
+0 16 6 8
 1
 end_operator
 begin_operator
@@ -10711,8 +10711,8 @@ overcome laceration lubricity sweetroll uranus saturn
 1
 0 6
 2
-0 16 6 8
 0 15 1 2
+0 16 6 8
 1
 end_operator
 begin_operator
@@ -10720,8 +10720,8 @@ overcome laceration lubricity tomato neptune uranus
 1
 0 7
 2
-0 16 7 8
 0 15 2 0
+0 16 7 8
 1
 end_operator
 begin_operator
@@ -10729,8 +10729,8 @@ overcome laceration lubricity tomato uranus saturn
 1
 0 7
 2
-0 16 7 8
 0 15 1 2
+0 16 7 8
 1
 end_operator
 begin_operator
@@ -10738,8 +10738,8 @@ overcome loneliness lubricity bacon neptune uranus
 1
 0 0
 2
-0 17 0 8
 0 15 2 0
+0 17 0 8
 1
 end_operator
 begin_operator
@@ -10747,8 +10747,8 @@ overcome loneliness lubricity bacon uranus saturn
 1
 0 0
 2
-0 17 0 8
 0 15 1 2
+0 17 0 8
 1
 end_operator
 begin_operator
@@ -10756,8 +10756,8 @@ overcome loneliness lubricity cherry neptune uranus
 1
 0 1
 2
-0 17 1 8
 0 15 2 0
+0 17 1 8
 1
 end_operator
 begin_operator
@@ -10765,8 +10765,8 @@ overcome loneliness lubricity cherry uranus saturn
 1
 0 1
 2
-0 17 1 8
 0 15 1 2
+0 17 1 8
 1
 end_operator
 begin_operator
@@ -10774,8 +10774,8 @@ overcome loneliness lubricity chicken neptune uranus
 1
 0 2
 2
-0 17 2 8
 0 15 2 0
+0 17 2 8
 1
 end_operator
 begin_operator
@@ -10783,8 +10783,8 @@ overcome loneliness lubricity chicken uranus saturn
 1
 0 2
 2
-0 17 2 8
 0 15 1 2
+0 17 2 8
 1
 end_operator
 begin_operator
@@ -10792,8 +10792,8 @@ overcome loneliness lubricity pear neptune uranus
 1
 0 3
 2
-0 17 3 8
 0 15 2 0
+0 17 3 8
 1
 end_operator
 begin_operator
@@ -10801,8 +10801,8 @@ overcome loneliness lubricity pear uranus saturn
 1
 0 3
 2
-0 17 3 8
 0 15 1 2
+0 17 3 8
 1
 end_operator
 begin_operator
@@ -10810,8 +10810,8 @@ overcome loneliness lubricity pistachio neptune uranus
 1
 0 4
 2
-0 17 4 8
 0 15 2 0
+0 17 4 8
 1
 end_operator
 begin_operator
@@ -10819,8 +10819,8 @@ overcome loneliness lubricity pistachio uranus saturn
 1
 0 4
 2
-0 17 4 8
 0 15 1 2
+0 17 4 8
 1
 end_operator
 begin_operator
@@ -10828,8 +10828,8 @@ overcome loneliness lubricity shrimp neptune uranus
 1
 0 5
 2
-0 17 5 8
 0 15 2 0
+0 17 5 8
 1
 end_operator
 begin_operator
@@ -10837,8 +10837,8 @@ overcome loneliness lubricity shrimp uranus saturn
 1
 0 5
 2
-0 17 5 8
 0 15 1 2
+0 17 5 8
 1
 end_operator
 begin_operator
@@ -10846,8 +10846,8 @@ overcome loneliness lubricity sweetroll neptune uranus
 1
 0 6
 2
-0 17 6 8
 0 15 2 0
+0 17 6 8
 1
 end_operator
 begin_operator
@@ -10855,8 +10855,8 @@ overcome loneliness lubricity sweetroll uranus saturn
 1
 0 6
 2
-0 17 6 8
 0 15 1 2
+0 17 6 8
 1
 end_operator
 begin_operator
@@ -10864,8 +10864,8 @@ overcome loneliness lubricity tomato neptune uranus
 1
 0 7
 2
-0 17 7 8
 0 15 2 0
+0 17 7 8
 1
 end_operator
 begin_operator
@@ -10873,8 +10873,8 @@ overcome loneliness lubricity tomato uranus saturn
 1
 0 7
 2
-0 17 7 8
 0 15 1 2
+0 17 7 8
 1
 end_operator
 begin_operator
@@ -11746,8 +11746,8 @@ succumb laceration lubricity bacon neptune uranus
 1
 0 0
 2
-0 16 8 0
 0 15 0 2
+0 16 8 0
 1
 end_operator
 begin_operator
@@ -11755,8 +11755,8 @@ succumb laceration lubricity bacon uranus saturn
 1
 0 0
 2
-0 16 8 0
 0 15 2 1
+0 16 8 0
 1
 end_operator
 begin_operator
@@ -11764,8 +11764,8 @@ succumb laceration lubricity cherry neptune uranus
 1
 0 1
 2
-0 16 8 1
 0 15 0 2
+0 16 8 1
 1
 end_operator
 begin_operator
@@ -11773,8 +11773,8 @@ succumb laceration lubricity cherry uranus saturn
 1
 0 1
 2
-0 16 8 1
 0 15 2 1
+0 16 8 1
 1
 end_operator
 begin_operator
@@ -11782,8 +11782,8 @@ succumb laceration lubricity chicken neptune uranus
 1
 0 2
 2
-0 16 8 2
 0 15 0 2
+0 16 8 2
 1
 end_operator
 begin_operator
@@ -11791,8 +11791,8 @@ succumb laceration lubricity chicken uranus saturn
 1
 0 2
 2
-0 16 8 2
 0 15 2 1
+0 16 8 2
 1
 end_operator
 begin_operator
@@ -11800,8 +11800,8 @@ succumb laceration lubricity pear neptune uranus
 1
 0 3
 2
-0 16 8 3
 0 15 0 2
+0 16 8 3
 1
 end_operator
 begin_operator
@@ -11809,8 +11809,8 @@ succumb laceration lubricity pear uranus saturn
 1
 0 3
 2
-0 16 8 3
 0 15 2 1
+0 16 8 3
 1
 end_operator
 begin_operator
@@ -11818,8 +11818,8 @@ succumb laceration lubricity pistachio neptune uranus
 1
 0 4
 2
-0 16 8 4
 0 15 0 2
+0 16 8 4
 1
 end_operator
 begin_operator
@@ -11827,8 +11827,8 @@ succumb laceration lubricity pistachio uranus saturn
 1
 0 4
 2
-0 16 8 4
 0 15 2 1
+0 16 8 4
 1
 end_operator
 begin_operator
@@ -11836,8 +11836,8 @@ succumb laceration lubricity shrimp neptune uranus
 1
 0 5
 2
-0 16 8 5
 0 15 0 2
+0 16 8 5
 1
 end_operator
 begin_operator
@@ -11845,8 +11845,8 @@ succumb laceration lubricity shrimp uranus saturn
 1
 0 5
 2
-0 16 8 5
 0 15 2 1
+0 16 8 5
 1
 end_operator
 begin_operator
@@ -11854,8 +11854,8 @@ succumb laceration lubricity sweetroll neptune uranus
 1
 0 6
 2
-0 16 8 6
 0 15 0 2
+0 16 8 6
 1
 end_operator
 begin_operator
@@ -11863,8 +11863,8 @@ succumb laceration lubricity sweetroll uranus saturn
 1
 0 6
 2
-0 16 8 6
 0 15 2 1
+0 16 8 6
 1
 end_operator
 begin_operator
@@ -11872,8 +11872,8 @@ succumb laceration lubricity tomato neptune uranus
 1
 0 7
 2
-0 16 8 7
 0 15 0 2
+0 16 8 7
 1
 end_operator
 begin_operator
@@ -11881,8 +11881,8 @@ succumb laceration lubricity tomato uranus saturn
 1
 0 7
 2
-0 16 8 7
 0 15 2 1
+0 16 8 7
 1
 end_operator
 begin_operator
@@ -11890,8 +11890,8 @@ succumb loneliness lubricity bacon neptune uranus
 1
 0 0
 2
-0 17 8 0
 0 15 0 2
+0 17 8 0
 1
 end_operator
 begin_operator
@@ -11899,8 +11899,8 @@ succumb loneliness lubricity bacon uranus saturn
 1
 0 0
 2
-0 17 8 0
 0 15 2 1
+0 17 8 0
 1
 end_operator
 begin_operator
@@ -11908,8 +11908,8 @@ succumb loneliness lubricity cherry neptune uranus
 1
 0 1
 2
-0 17 8 1
 0 15 0 2
+0 17 8 1
 1
 end_operator
 begin_operator
@@ -11917,8 +11917,8 @@ succumb loneliness lubricity cherry uranus saturn
 1
 0 1
 2
-0 17 8 1
 0 15 2 1
+0 17 8 1
 1
 end_operator
 begin_operator
@@ -11926,8 +11926,8 @@ succumb loneliness lubricity chicken neptune uranus
 1
 0 2
 2
-0 17 8 2
 0 15 0 2
+0 17 8 2
 1
 end_operator
 begin_operator
@@ -11935,8 +11935,8 @@ succumb loneliness lubricity chicken uranus saturn
 1
 0 2
 2
-0 17 8 2
 0 15 2 1
+0 17 8 2
 1
 end_operator
 begin_operator
@@ -11944,8 +11944,8 @@ succumb loneliness lubricity pear neptune uranus
 1
 0 3
 2
-0 17 8 3
 0 15 0 2
+0 17 8 3
 1
 end_operator
 begin_operator
@@ -11953,8 +11953,8 @@ succumb loneliness lubricity pear uranus saturn
 1
 0 3
 2
-0 17 8 3
 0 15 2 1
+0 17 8 3
 1
 end_operator
 begin_operator
@@ -11962,8 +11962,8 @@ succumb loneliness lubricity pistachio neptune uranus
 1
 0 4
 2
-0 17 8 4
 0 15 0 2
+0 17 8 4
 1
 end_operator
 begin_operator
@@ -11971,8 +11971,8 @@ succumb loneliness lubricity pistachio uranus saturn
 1
 0 4
 2
-0 17 8 4
 0 15 2 1
+0 17 8 4
 1
 end_operator
 begin_operator
@@ -11980,8 +11980,8 @@ succumb loneliness lubricity shrimp neptune uranus
 1
 0 5
 2
-0 17 8 5
 0 15 0 2
+0 17 8 5
 1
 end_operator
 begin_operator
@@ -11989,8 +11989,8 @@ succumb loneliness lubricity shrimp uranus saturn
 1
 0 5
 2
-0 17 8 5
 0 15 2 1
+0 17 8 5
 1
 end_operator
 begin_operator
@@ -11998,8 +11998,8 @@ succumb loneliness lubricity sweetroll neptune uranus
 1
 0 6
 2
-0 17 8 6
 0 15 0 2
+0 17 8 6
 1
 end_operator
 begin_operator
@@ -12007,8 +12007,8 @@ succumb loneliness lubricity sweetroll uranus saturn
 1
 0 6
 2
-0 17 8 6
 0 15 2 1
+0 17 8 6
 1
 end_operator
 begin_operator
@@ -12016,8 +12016,8 @@ succumb loneliness lubricity tomato neptune uranus
 1
 0 7
 2
-0 17 8 7
 0 15 0 2
+0 17 8 7
 1
 end_operator
 begin_operator
@@ -12025,8 +12025,8 @@ succumb loneliness lubricity tomato uranus saturn
 1
 0 7
 2
-0 17 8 7
 0 15 2 1
+0 17 8 7
 1
 end_operator
 begin_operator

@@ -1745,8 +1745,8 @@ fe1-feed-letter sheet1
 1
 7 0
 2
-0 10 7 0
 0 9 -1 0
+0 10 7 0
 224
 end_operator
 begin_operator
@@ -1754,8 +1754,8 @@ fe1-feed-letter sheet2
 1
 7 0
 2
-0 18 7 0
 0 17 -1 0
+0 18 7 0
 224
 end_operator
 begin_operator
@@ -1763,8 +1763,8 @@ fe1-feed-letter sheet3
 1
 7 0
 2
-0 26 7 0
 0 25 -1 0
+0 26 7 0
 224
 end_operator
 begin_operator
@@ -1772,8 +1772,8 @@ fe1-feed-letter sheet4
 1
 7 0
 2
-0 34 7 0
 0 33 -1 0
+0 34 7 0
 224
 end_operator
 begin_operator
@@ -1781,8 +1781,8 @@ fe1-feed-letter sheet5
 1
 7 0
 2
-0 42 7 0
 0 41 -1 0
+0 42 7 0
 224
 end_operator
 begin_operator
@@ -1790,8 +1790,8 @@ fe1-feed-letter sheet6
 1
 7 0
 2
-0 50 7 0
 0 49 -1 0
+0 50 7 0
 224
 end_operator
 begin_operator
@@ -1799,8 +1799,8 @@ fe1-feed-letter sheet7
 1
 7 0
 2
-0 58 7 0
 0 57 -1 0
+0 58 7 0
 224
 end_operator
 begin_operator
@@ -1808,8 +1808,8 @@ fe1-feed-letter sheet8
 1
 7 0
 2
-0 66 7 0
 0 65 -1 0
+0 66 7 0
 224
 end_operator
 begin_operator
@@ -1817,8 +1817,8 @@ fe1-feedmsi-letter sheet1
 1
 7 0
 2
-0 10 7 0
 0 9 -1 0
+0 10 7 0
 125
 end_operator
 begin_operator
@@ -1826,8 +1826,8 @@ fe1-feedmsi-letter sheet2
 1
 7 0
 2
-0 18 7 0
 0 17 -1 0
+0 18 7 0
 125
 end_operator
 begin_operator
@@ -1835,8 +1835,8 @@ fe1-feedmsi-letter sheet3
 1
 7 0
 2
-0 26 7 0
 0 25 -1 0
+0 26 7 0
 125
 end_operator
 begin_operator
@@ -1844,8 +1844,8 @@ fe1-feedmsi-letter sheet4
 1
 7 0
 2
-0 34 7 0
 0 33 -1 0
+0 34 7 0
 125
 end_operator
 begin_operator
@@ -1853,8 +1853,8 @@ fe1-feedmsi-letter sheet5
 1
 7 0
 2
-0 42 7 0
 0 41 -1 0
+0 42 7 0
 125
 end_operator
 begin_operator
@@ -1862,8 +1862,8 @@ fe1-feedmsi-letter sheet6
 1
 7 0
 2
-0 50 7 0
 0 49 -1 0
+0 50 7 0
 125
 end_operator
 begin_operator
@@ -1871,8 +1871,8 @@ fe1-feedmsi-letter sheet7
 1
 7 0
 2
-0 58 7 0
 0 57 -1 0
+0 58 7 0
 125
 end_operator
 begin_operator
@@ -1880,8 +1880,8 @@ fe1-feedmsi-letter sheet8
 1
 7 0
 2
-0 66 7 0
 0 65 -1 0
+0 66 7 0
 125
 end_operator
 begin_operator
@@ -2400,14 +2400,14 @@ begin_operator
 initialize 
 0
 8
-0 7 -1 0
-0 6 -1 0
-0 5 -1 0
-0 4 -1 0
-0 3 -1 0
-0 2 -1 0
-0 1 -1 0
 0 0 0 1
+0 1 -1 0
+0 2 -1 0
+0 3 -1 0
+0 4 -1 0
+0 5 -1 0
+0 6 -1 0
+0 7 -1 0
 0
 end_operator
 begin_operator
@@ -2479,8 +2479,8 @@ lc1-invertfromime-letter sheet1 back front
 1
 5 0
 3
-0 10 4 5
 0 9 0 1
+0 10 4 5
 0 13 -1 0
 9999
 end_operator
@@ -2489,8 +2489,8 @@ lc1-invertfromime-letter sheet1 front back
 1
 5 0
 3
-0 10 4 5
 0 9 -1 0
+0 10 4 5
 0 13 0 1
 9999
 end_operator
@@ -2499,8 +2499,8 @@ lc1-invertfromime-letter sheet2 back front
 1
 5 0
 3
-0 18 4 5
 0 17 0 1
+0 18 4 5
 0 21 -1 0
 9999
 end_operator
@@ -2509,8 +2509,8 @@ lc1-invertfromime-letter sheet2 front back
 1
 5 0
 3
-0 18 4 5
 0 17 -1 0
+0 18 4 5
 0 21 0 1
 9999
 end_operator
@@ -2519,8 +2519,8 @@ lc1-invertfromime-letter sheet3 back front
 1
 5 0
 3
-0 26 4 5
 0 25 0 1
+0 26 4 5
 0 29 -1 0
 9999
 end_operator
@@ -2529,8 +2529,8 @@ lc1-invertfromime-letter sheet3 front back
 1
 5 0
 3
-0 26 4 5
 0 25 -1 0
+0 26 4 5
 0 29 0 1
 9999
 end_operator
@@ -2539,8 +2539,8 @@ lc1-invertfromime-letter sheet4 back front
 1
 5 0
 3
-0 34 4 5
 0 33 0 1
+0 34 4 5
 0 37 -1 0
 9999
 end_operator
@@ -2549,8 +2549,8 @@ lc1-invertfromime-letter sheet4 front back
 1
 5 0
 3
-0 34 4 5
 0 33 -1 0
+0 34 4 5
 0 37 0 1
 9999
 end_operator
@@ -2559,8 +2559,8 @@ lc1-invertfromime-letter sheet5 back front
 1
 5 0
 3
-0 42 4 5
 0 41 0 1
+0 42 4 5
 0 45 -1 0
 9999
 end_operator
@@ -2569,8 +2569,8 @@ lc1-invertfromime-letter sheet5 front back
 1
 5 0
 3
-0 42 4 5
 0 41 -1 0
+0 42 4 5
 0 45 0 1
 9999
 end_operator
@@ -2579,8 +2579,8 @@ lc1-invertfromime-letter sheet6 back front
 1
 5 0
 3
-0 50 4 5
 0 49 0 1
+0 50 4 5
 0 53 -1 0
 9999
 end_operator
@@ -2589,8 +2589,8 @@ lc1-invertfromime-letter sheet6 front back
 1
 5 0
 3
-0 50 4 5
 0 49 -1 0
+0 50 4 5
 0 53 0 1
 9999
 end_operator
@@ -2599,8 +2599,8 @@ lc1-invertfromime-letter sheet7 back front
 1
 5 0
 3
-0 58 4 5
 0 57 0 1
+0 58 4 5
 0 61 -1 0
 9999
 end_operator
@@ -2609,8 +2609,8 @@ lc1-invertfromime-letter sheet7 front back
 1
 5 0
 3
-0 58 4 5
 0 57 -1 0
+0 58 4 5
 0 61 0 1
 9999
 end_operator
@@ -2619,8 +2619,8 @@ lc1-invertfromime-letter sheet8 back front
 1
 5 0
 3
-0 66 4 5
 0 65 0 1
+0 66 4 5
 0 69 -1 0
 9999
 end_operator
@@ -2629,8 +2629,8 @@ lc1-invertfromime-letter sheet8 front back
 1
 5 0
 3
-0 66 4 5
 0 65 -1 0
+0 66 4 5
 0 69 0 1
 9999
 end_operator
@@ -2639,8 +2639,8 @@ lc1-inverttoime-letter sheet1 back front
 1
 5 0
 3
-0 10 3 6
 0 9 0 1
+0 10 3 6
 0 13 -1 0
 9999
 end_operator
@@ -2649,8 +2649,8 @@ lc1-inverttoime-letter sheet1 front back
 1
 5 0
 3
-0 10 3 6
 0 9 -1 0
+0 10 3 6
 0 13 0 1
 9999
 end_operator
@@ -2659,8 +2659,8 @@ lc1-inverttoime-letter sheet2 back front
 1
 5 0
 3
-0 18 3 6
 0 17 0 1
+0 18 3 6
 0 21 -1 0
 9999
 end_operator
@@ -2669,8 +2669,8 @@ lc1-inverttoime-letter sheet2 front back
 1
 5 0
 3
-0 18 3 6
 0 17 -1 0
+0 18 3 6
 0 21 0 1
 9999
 end_operator
@@ -2679,8 +2679,8 @@ lc1-inverttoime-letter sheet3 back front
 1
 5 0
 3
-0 26 3 6
 0 25 0 1
+0 26 3 6
 0 29 -1 0
 9999
 end_operator
@@ -2689,8 +2689,8 @@ lc1-inverttoime-letter sheet3 front back
 1
 5 0
 3
-0 26 3 6
 0 25 -1 0
+0 26 3 6
 0 29 0 1
 9999
 end_operator
@@ -2699,8 +2699,8 @@ lc1-inverttoime-letter sheet4 back front
 1
 5 0
 3
-0 34 3 6
 0 33 0 1
+0 34 3 6
 0 37 -1 0
 9999
 end_operator
@@ -2709,8 +2709,8 @@ lc1-inverttoime-letter sheet4 front back
 1
 5 0
 3
-0 34 3 6
 0 33 -1 0
+0 34 3 6
 0 37 0 1
 9999
 end_operator
@@ -2719,8 +2719,8 @@ lc1-inverttoime-letter sheet5 back front
 1
 5 0
 3
-0 42 3 6
 0 41 0 1
+0 42 3 6
 0 45 -1 0
 9999
 end_operator
@@ -2729,8 +2729,8 @@ lc1-inverttoime-letter sheet5 front back
 1
 5 0
 3
-0 42 3 6
 0 41 -1 0
+0 42 3 6
 0 45 0 1
 9999
 end_operator
@@ -2739,8 +2739,8 @@ lc1-inverttoime-letter sheet6 back front
 1
 5 0
 3
-0 50 3 6
 0 49 0 1
+0 50 3 6
 0 53 -1 0
 9999
 end_operator
@@ -2749,8 +2749,8 @@ lc1-inverttoime-letter sheet6 front back
 1
 5 0
 3
-0 50 3 6
 0 49 -1 0
+0 50 3 6
 0 53 0 1
 9999
 end_operator
@@ -2759,8 +2759,8 @@ lc1-inverttoime-letter sheet7 back front
 1
 5 0
 3
-0 58 3 6
 0 57 0 1
+0 58 3 6
 0 61 -1 0
 9999
 end_operator
@@ -2769,8 +2769,8 @@ lc1-inverttoime-letter sheet7 front back
 1
 5 0
 3
-0 58 3 6
 0 57 -1 0
+0 58 3 6
 0 61 0 1
 9999
 end_operator
@@ -2779,8 +2779,8 @@ lc1-inverttoime-letter sheet8 back front
 1
 5 0
 3
-0 66 3 6
 0 65 0 1
+0 66 3 6
 0 69 -1 0
 9999
 end_operator
@@ -2789,8 +2789,8 @@ lc1-inverttoime-letter sheet8 front back
 1
 5 0
 3
-0 66 3 6
 0 65 -1 0
+0 66 3 6
 0 69 0 1
 9999
 end_operator
@@ -2864,9 +2864,9 @@ lime-simplex-letter sheet1 back image-1
 4 0
 9 0
 3
-0 199 -1 0
 0 10 6 4
 0 12 0 1
+0 199 -1 0
 212790
 end_operator
 begin_operator
@@ -2875,9 +2875,9 @@ lime-simplex-letter sheet1 back image-3
 4 0
 9 0
 3
-0 197 -1 0
 0 10 6 4
 0 12 0 1
+0 197 -1 0
 212790
 end_operator
 begin_operator
@@ -2886,9 +2886,9 @@ lime-simplex-letter sheet1 back image-4
 4 0
 9 0
 3
-0 196 -1 0
 0 10 6 4
 0 12 0 1
+0 196 -1 0
 212790
 end_operator
 begin_operator
@@ -2897,9 +2897,9 @@ lime-simplex-letter sheet1 back image-5
 4 0
 9 0
 3
-0 195 -1 0
 0 10 6 4
 0 12 0 1
+0 195 -1 0
 212790
 end_operator
 begin_operator
@@ -2908,9 +2908,9 @@ lime-simplex-letter sheet1 back image-6
 4 0
 9 0
 3
-0 194 -1 0
 0 10 6 4
 0 12 0 1
+0 194 -1 0
 212790
 end_operator
 begin_operator
@@ -2919,9 +2919,9 @@ lime-simplex-letter sheet1 back image-8
 4 0
 9 0
 3
-0 192 -1 0
 0 10 6 4
 0 12 0 1
+0 192 -1 0
 212790
 end_operator
 begin_operator
@@ -2930,9 +2930,9 @@ lime-simplex-letter sheet1 front image-1
 4 0
 13 0
 3
-0 191 -1 0
-0 10 6 4
 0 8 0 1
+0 10 6 4
+0 191 -1 0
 212790
 end_operator
 begin_operator
@@ -2941,9 +2941,9 @@ lime-simplex-letter sheet1 front image-3
 4 0
 13 0
 3
-0 189 -1 0
-0 10 6 4
 0 8 0 1
+0 10 6 4
+0 189 -1 0
 212790
 end_operator
 begin_operator
@@ -2952,9 +2952,9 @@ lime-simplex-letter sheet1 front image-4
 4 0
 13 0
 3
-0 188 -1 0
-0 10 6 4
 0 8 0 1
+0 10 6 4
+0 188 -1 0
 212790
 end_operator
 begin_operator
@@ -2963,9 +2963,9 @@ lime-simplex-letter sheet1 front image-5
 4 0
 13 0
 3
-0 187 -1 0
-0 10 6 4
 0 8 0 1
+0 10 6 4
+0 187 -1 0
 212790
 end_operator
 begin_operator
@@ -2974,9 +2974,9 @@ lime-simplex-letter sheet1 front image-6
 4 0
 13 0
 3
-0 186 -1 0
-0 10 6 4
 0 8 0 1
+0 10 6 4
+0 186 -1 0
 212790
 end_operator
 begin_operator
@@ -2985,9 +2985,9 @@ lime-simplex-letter sheet1 front image-8
 4 0
 13 0
 3
-0 184 -1 0
-0 10 6 4
 0 8 0 1
+0 10 6 4
+0 184 -1 0
 212790
 end_operator
 begin_operator
@@ -2996,9 +2996,9 @@ lime-simplex-letter sheet2 back image-1
 4 0
 17 0
 3
-0 183 -1 0
 0 18 6 4
 0 20 0 1
+0 183 -1 0
 212790
 end_operator
 begin_operator
@@ -3007,9 +3007,9 @@ lime-simplex-letter sheet2 back image-3
 4 0
 17 0
 3
-0 181 -1 0
 0 18 6 4
 0 20 0 1
+0 181 -1 0
 212790
 end_operator
 begin_operator
@@ -3018,9 +3018,9 @@ lime-simplex-letter sheet2 back image-4
 4 0
 17 0
 3
-0 180 -1 0
 0 18 6 4
 0 20 0 1
+0 180 -1 0
 212790
 end_operator
 begin_operator
@@ -3029,9 +3029,9 @@ lime-simplex-letter sheet2 back image-5
 4 0
 17 0
 3
-0 179 -1 0
 0 18 6 4
 0 20 0 1
+0 179 -1 0
 212790
 end_operator
 begin_operator
@@ -3040,9 +3040,9 @@ lime-simplex-letter sheet2 back image-6
 4 0
 17 0
 3
-0 178 -1 0
 0 18 6 4
 0 20 0 1
+0 178 -1 0
 212790
 end_operator
 begin_operator
@@ -3051,9 +3051,9 @@ lime-simplex-letter sheet2 back image-8
 4 0
 17 0
 3
-0 176 -1 0
 0 18 6 4
 0 20 0 1
+0 176 -1 0
 212790
 end_operator
 begin_operator
@@ -3062,9 +3062,9 @@ lime-simplex-letter sheet2 front image-1
 4 0
 21 0
 3
-0 175 -1 0
 0 18 6 4
 0 22 0 1
+0 175 -1 0
 212790
 end_operator
 begin_operator
@@ -3073,9 +3073,9 @@ lime-simplex-letter sheet2 front image-3
 4 0
 21 0
 3
-0 173 -1 0
 0 18 6 4
 0 22 0 1
+0 173 -1 0
 212790
 end_operator
 begin_operator
@@ -3084,9 +3084,9 @@ lime-simplex-letter sheet2 front image-4
 4 0
 21 0
 3
-0 172 -1 0
 0 18 6 4
 0 22 0 1
+0 172 -1 0
 212790
 end_operator
 begin_operator
@@ -3095,9 +3095,9 @@ lime-simplex-letter sheet2 front image-5
 4 0
 21 0
 3
-0 171 -1 0
 0 18 6 4
 0 22 0 1
+0 171 -1 0
 212790
 end_operator
 begin_operator
@@ -3106,9 +3106,9 @@ lime-simplex-letter sheet2 front image-6
 4 0
 21 0
 3
-0 170 -1 0
 0 18 6 4
 0 22 0 1
+0 170 -1 0
 212790
 end_operator
 begin_operator
@@ -3117,9 +3117,9 @@ lime-simplex-letter sheet2 front image-8
 4 0
 21 0
 3
-0 168 -1 0
 0 18 6 4
 0 22 0 1
+0 168 -1 0
 212790
 end_operator
 begin_operator
@@ -3128,9 +3128,9 @@ lime-simplex-letter sheet3 back image-1
 4 0
 25 0
 3
-0 167 -1 0
 0 26 6 4
 0 28 0 1
+0 167 -1 0
 212790
 end_operator
 begin_operator
@@ -3139,9 +3139,9 @@ lime-simplex-letter sheet3 back image-3
 4 0
 25 0
 3
-0 165 -1 0
 0 26 6 4
 0 28 0 1
+0 165 -1 0
 212790
 end_operator
 begin_operator
@@ -3150,9 +3150,9 @@ lime-simplex-letter sheet3 back image-4
 4 0
 25 0
 3
-0 164 -1 0
 0 26 6 4
 0 28 0 1
+0 164 -1 0
 212790
 end_operator
 begin_operator
@@ -3161,9 +3161,9 @@ lime-simplex-letter sheet3 back image-5
 4 0
 25 0
 3
-0 163 -1 0
 0 26 6 4
 0 28 0 1
+0 163 -1 0
 212790
 end_operator
 begin_operator
@@ -3172,9 +3172,9 @@ lime-simplex-letter sheet3 back image-6
 4 0
 25 0
 3
-0 162 -1 0
 0 26 6 4
 0 28 0 1
+0 162 -1 0
 212790
 end_operator
 begin_operator
@@ -3183,9 +3183,9 @@ lime-simplex-letter sheet3 back image-8
 4 0
 25 0
 3
-0 160 -1 0
 0 26 6 4
 0 28 0 1
+0 160 -1 0
 212790
 end_operator
 begin_operator
@@ -3194,9 +3194,9 @@ lime-simplex-letter sheet3 front image-1
 4 0
 29 0
 3
-0 159 -1 0
-0 26 6 4
 0 24 0 1
+0 26 6 4
+0 159 -1 0
 212790
 end_operator
 begin_operator
@@ -3205,9 +3205,9 @@ lime-simplex-letter sheet3 front image-3
 4 0
 29 0
 3
-0 157 -1 0
-0 26 6 4
 0 24 0 1
+0 26 6 4
+0 157 -1 0
 212790
 end_operator
 begin_operator
@@ -3216,9 +3216,9 @@ lime-simplex-letter sheet3 front image-4
 4 0
 29 0
 3
-0 156 -1 0
-0 26 6 4
 0 24 0 1
+0 26 6 4
+0 156 -1 0
 212790
 end_operator
 begin_operator
@@ -3227,9 +3227,9 @@ lime-simplex-letter sheet3 front image-5
 4 0
 29 0
 3
-0 155 -1 0
-0 26 6 4
 0 24 0 1
+0 26 6 4
+0 155 -1 0
 212790
 end_operator
 begin_operator
@@ -3238,9 +3238,9 @@ lime-simplex-letter sheet3 front image-6
 4 0
 29 0
 3
-0 154 -1 0
-0 26 6 4
 0 24 0 1
+0 26 6 4
+0 154 -1 0
 212790
 end_operator
 begin_operator
@@ -3249,9 +3249,9 @@ lime-simplex-letter sheet3 front image-8
 4 0
 29 0
 3
-0 152 -1 0
-0 26 6 4
 0 24 0 1
+0 26 6 4
+0 152 -1 0
 212790
 end_operator
 begin_operator
@@ -3260,9 +3260,9 @@ lime-simplex-letter sheet4 back image-1
 4 0
 33 0
 3
-0 151 -1 0
 0 34 6 4
 0 36 0 1
+0 151 -1 0
 212790
 end_operator
 begin_operator
@@ -3271,9 +3271,9 @@ lime-simplex-letter sheet4 back image-3
 4 0
 33 0
 3
-0 149 -1 0
 0 34 6 4
 0 36 0 1
+0 149 -1 0
 212790
 end_operator
 begin_operator
@@ -3282,9 +3282,9 @@ lime-simplex-letter sheet4 back image-4
 4 0
 33 0
 3
-0 148 -1 0
 0 34 6 4
 0 36 0 1
+0 148 -1 0
 212790
 end_operator
 begin_operator
@@ -3293,9 +3293,9 @@ lime-simplex-letter sheet4 back image-5
 4 0
 33 0
 3
-0 147 -1 0
 0 34 6 4
 0 36 0 1
+0 147 -1 0
 212790
 end_operator
 begin_operator
@@ -3304,9 +3304,9 @@ lime-simplex-letter sheet4 back image-6
 4 0
 33 0
 3
-0 146 -1 0
 0 34 6 4
 0 36 0 1
+0 146 -1 0
 212790
 end_operator
 begin_operator
@@ -3315,9 +3315,9 @@ lime-simplex-letter sheet4 back image-8
 4 0
 33 0
 3
-0 144 -1 0
 0 34 6 4
 0 36 0 1
+0 144 -1 0
 212790
 end_operator
 begin_operator
@@ -3326,9 +3326,9 @@ lime-simplex-letter sheet4 front image-1
 4 0
 37 0
 3
-0 143 -1 0
-0 34 6 4
 0 32 0 1
+0 34 6 4
+0 143 -1 0
 212790
 end_operator
 begin_operator
@@ -3337,9 +3337,9 @@ lime-simplex-letter sheet4 front image-3
 4 0
 37 0
 3
-0 141 -1 0
-0 34 6 4
 0 32 0 1
+0 34 6 4
+0 141 -1 0
 212790
 end_operator
 begin_operator
@@ -3348,9 +3348,9 @@ lime-simplex-letter sheet4 front image-4
 4 0
 37 0
 3
-0 140 -1 0
-0 34 6 4
 0 32 0 1
+0 34 6 4
+0 140 -1 0
 212790
 end_operator
 begin_operator
@@ -3359,9 +3359,9 @@ lime-simplex-letter sheet4 front image-5
 4 0
 37 0
 3
-0 139 -1 0
-0 34 6 4
 0 32 0 1
+0 34 6 4
+0 139 -1 0
 212790
 end_operator
 begin_operator
@@ -3370,9 +3370,9 @@ lime-simplex-letter sheet4 front image-6
 4 0
 37 0
 3
-0 138 -1 0
-0 34 6 4
 0 32 0 1
+0 34 6 4
+0 138 -1 0
 212790
 end_operator
 begin_operator
@@ -3381,9 +3381,9 @@ lime-simplex-letter sheet4 front image-8
 4 0
 37 0
 3
-0 136 -1 0
-0 34 6 4
 0 32 0 1
+0 34 6 4
+0 136 -1 0
 212790
 end_operator
 begin_operator
@@ -3392,9 +3392,9 @@ lime-simplex-letter sheet5 back image-1
 4 0
 41 0
 3
-0 135 -1 0
 0 42 6 4
 0 44 0 1
+0 135 -1 0
 212790
 end_operator
 begin_operator
@@ -3403,9 +3403,9 @@ lime-simplex-letter sheet5 back image-3
 4 0
 41 0
 3
-0 133 -1 0
 0 42 6 4
 0 44 0 1
+0 133 -1 0
 212790
 end_operator
 begin_operator
@@ -3414,9 +3414,9 @@ lime-simplex-letter sheet5 back image-4
 4 0
 41 0
 3
-0 132 -1 0
 0 42 6 4
 0 44 0 1
+0 132 -1 0
 212790
 end_operator
 begin_operator
@@ -3425,9 +3425,9 @@ lime-simplex-letter sheet5 back image-5
 4 0
 41 0
 3
-0 131 -1 0
 0 42 6 4
 0 44 0 1
+0 131 -1 0
 212790
 end_operator
 begin_operator
@@ -3436,9 +3436,9 @@ lime-simplex-letter sheet5 back image-6
 4 0
 41 0
 3
-0 130 -1 0
 0 42 6 4
 0 44 0 1
+0 130 -1 0
 212790
 end_operator
 begin_operator
@@ -3447,9 +3447,9 @@ lime-simplex-letter sheet5 back image-8
 4 0
 41 0
 3
-0 128 -1 0
 0 42 6 4
 0 44 0 1
+0 128 -1 0
 212790
 end_operator
 begin_operator
@@ -3458,9 +3458,9 @@ lime-simplex-letter sheet5 front image-1
 4 0
 45 0
 3
-0 127 -1 0
-0 42 6 4
 0 40 0 1
+0 42 6 4
+0 127 -1 0
 212790
 end_operator
 begin_operator
@@ -3469,9 +3469,9 @@ lime-simplex-letter sheet5 front image-3
 4 0
 45 0
 3
-0 125 -1 0
-0 42 6 4
 0 40 0 1
+0 42 6 4
+0 125 -1 0
 212790
 end_operator
 begin_operator
@@ -3480,9 +3480,9 @@ lime-simplex-letter sheet5 front image-4
 4 0
 45 0
 3
-0 124 -1 0
-0 42 6 4
 0 40 0 1
+0 42 6 4
+0 124 -1 0
 212790
 end_operator
 begin_operator
@@ -3491,9 +3491,9 @@ lime-simplex-letter sheet5 front image-5
 4 0
 45 0
 3
-0 123 -1 0
-0 42 6 4
 0 40 0 1
+0 42 6 4
+0 123 -1 0
 212790
 end_operator
 begin_operator
@@ -3502,9 +3502,9 @@ lime-simplex-letter sheet5 front image-6
 4 0
 45 0
 3
-0 122 -1 0
-0 42 6 4
 0 40 0 1
+0 42 6 4
+0 122 -1 0
 212790
 end_operator
 begin_operator
@@ -3513,9 +3513,9 @@ lime-simplex-letter sheet5 front image-8
 4 0
 45 0
 3
-0 120 -1 0
-0 42 6 4
 0 40 0 1
+0 42 6 4
+0 120 -1 0
 212790
 end_operator
 begin_operator
@@ -3524,9 +3524,9 @@ lime-simplex-letter sheet6 back image-1
 4 0
 49 0
 3
-0 119 -1 0
 0 50 6 4
 0 52 0 1
+0 119 -1 0
 212790
 end_operator
 begin_operator
@@ -3535,9 +3535,9 @@ lime-simplex-letter sheet6 back image-3
 4 0
 49 0
 3
-0 117 -1 0
 0 50 6 4
 0 52 0 1
+0 117 -1 0
 212790
 end_operator
 begin_operator
@@ -3546,9 +3546,9 @@ lime-simplex-letter sheet6 back image-4
 4 0
 49 0
 3
-0 116 -1 0
 0 50 6 4
 0 52 0 1
+0 116 -1 0
 212790
 end_operator
 begin_operator
@@ -3557,9 +3557,9 @@ lime-simplex-letter sheet6 back image-5
 4 0
 49 0
 3
-0 115 -1 0
 0 50 6 4
 0 52 0 1
+0 115 -1 0
 212790
 end_operator
 begin_operator
@@ -3568,9 +3568,9 @@ lime-simplex-letter sheet6 back image-6
 4 0
 49 0
 3
-0 114 -1 0
 0 50 6 4
 0 52 0 1
+0 114 -1 0
 212790
 end_operator
 begin_operator
@@ -3579,9 +3579,9 @@ lime-simplex-letter sheet6 back image-8
 4 0
 49 0
 3
-0 112 -1 0
 0 50 6 4
 0 52 0 1
+0 112 -1 0
 212790
 end_operator
 begin_operator
@@ -3590,9 +3590,9 @@ lime-simplex-letter sheet6 front image-1
 4 0
 53 0
 3
-0 111 -1 0
-0 50 6 4
 0 48 0 1
+0 50 6 4
+0 111 -1 0
 212790
 end_operator
 begin_operator
@@ -3601,9 +3601,9 @@ lime-simplex-letter sheet6 front image-3
 4 0
 53 0
 3
-0 109 -1 0
-0 50 6 4
 0 48 0 1
+0 50 6 4
+0 109 -1 0
 212790
 end_operator
 begin_operator
@@ -3612,9 +3612,9 @@ lime-simplex-letter sheet6 front image-4
 4 0
 53 0
 3
-0 108 -1 0
-0 50 6 4
 0 48 0 1
+0 50 6 4
+0 108 -1 0
 212790
 end_operator
 begin_operator
@@ -3623,9 +3623,9 @@ lime-simplex-letter sheet6 front image-5
 4 0
 53 0
 3
-0 107 -1 0
-0 50 6 4
 0 48 0 1
+0 50 6 4
+0 107 -1 0
 212790
 end_operator
 begin_operator
@@ -3634,9 +3634,9 @@ lime-simplex-letter sheet6 front image-6
 4 0
 53 0
 3
-0 106 -1 0
-0 50 6 4
 0 48 0 1
+0 50 6 4
+0 106 -1 0
 212790
 end_operator
 begin_operator
@@ -3645,9 +3645,9 @@ lime-simplex-letter sheet6 front image-8
 4 0
 53 0
 3
-0 104 -1 0
-0 50 6 4
 0 48 0 1
+0 50 6 4
+0 104 -1 0
 212790
 end_operator
 begin_operator
@@ -3656,9 +3656,9 @@ lime-simplex-letter sheet7 back image-1
 4 0
 57 0
 3
-0 103 -1 0
 0 58 6 4
 0 60 0 1
+0 103 -1 0
 212790
 end_operator
 begin_operator
@@ -3667,9 +3667,9 @@ lime-simplex-letter sheet7 back image-3
 4 0
 57 0
 3
-0 101 -1 0
 0 58 6 4
 0 60 0 1
+0 101 -1 0
 212790
 end_operator
 begin_operator
@@ -3678,9 +3678,9 @@ lime-simplex-letter sheet7 back image-4
 4 0
 57 0
 3
-0 100 -1 0
 0 58 6 4
 0 60 0 1
+0 100 -1 0
 212790
 end_operator
 begin_operator
@@ -3689,9 +3689,9 @@ lime-simplex-letter sheet7 back image-5
 4 0
 57 0
 3
-0 99 -1 0
 0 58 6 4
 0 60 0 1
+0 99 -1 0
 212790
 end_operator
 begin_operator
@@ -3700,9 +3700,9 @@ lime-simplex-letter sheet7 back image-6
 4 0
 57 0
 3
-0 98 -1 0
 0 58 6 4
 0 60 0 1
+0 98 -1 0
 212790
 end_operator
 begin_operator
@@ -3711,9 +3711,9 @@ lime-simplex-letter sheet7 back image-8
 4 0
 57 0
 3
-0 96 -1 0
 0 58 6 4
 0 60 0 1
+0 96 -1 0
 212790
 end_operator
 begin_operator
@@ -3722,9 +3722,9 @@ lime-simplex-letter sheet7 front image-1
 4 0
 61 0
 3
-0 95 -1 0
 0 58 6 4
 0 62 0 1
+0 95 -1 0
 212790
 end_operator
 begin_operator
@@ -3733,9 +3733,9 @@ lime-simplex-letter sheet7 front image-3
 4 0
 61 0
 3
-0 93 -1 0
 0 58 6 4
 0 62 0 1
+0 93 -1 0
 212790
 end_operator
 begin_operator
@@ -3744,9 +3744,9 @@ lime-simplex-letter sheet7 front image-4
 4 0
 61 0
 3
-0 92 -1 0
 0 58 6 4
 0 62 0 1
+0 92 -1 0
 212790
 end_operator
 begin_operator
@@ -3755,9 +3755,9 @@ lime-simplex-letter sheet7 front image-5
 4 0
 61 0
 3
-0 91 -1 0
 0 58 6 4
 0 62 0 1
+0 91 -1 0
 212790
 end_operator
 begin_operator
@@ -3766,9 +3766,9 @@ lime-simplex-letter sheet7 front image-6
 4 0
 61 0
 3
-0 90 -1 0
 0 58 6 4
 0 62 0 1
+0 90 -1 0
 212790
 end_operator
 begin_operator
@@ -3777,9 +3777,9 @@ lime-simplex-letter sheet7 front image-8
 4 0
 61 0
 3
-0 88 -1 0
 0 58 6 4
 0 62 0 1
+0 88 -1 0
 212790
 end_operator
 begin_operator
@@ -3788,9 +3788,9 @@ lime-simplex-letter sheet8 back image-1
 4 0
 65 0
 3
-0 87 -1 0
 0 66 6 4
 0 68 0 1
+0 87 -1 0
 212790
 end_operator
 begin_operator
@@ -3799,9 +3799,9 @@ lime-simplex-letter sheet8 back image-3
 4 0
 65 0
 3
-0 85 -1 0
 0 66 6 4
 0 68 0 1
+0 85 -1 0
 212790
 end_operator
 begin_operator
@@ -3810,9 +3810,9 @@ lime-simplex-letter sheet8 back image-4
 4 0
 65 0
 3
-0 84 -1 0
 0 66 6 4
 0 68 0 1
+0 84 -1 0
 212790
 end_operator
 begin_operator
@@ -3821,9 +3821,9 @@ lime-simplex-letter sheet8 back image-5
 4 0
 65 0
 3
-0 83 -1 0
 0 66 6 4
 0 68 0 1
+0 83 -1 0
 212790
 end_operator
 begin_operator
@@ -3832,9 +3832,9 @@ lime-simplex-letter sheet8 back image-6
 4 0
 65 0
 3
-0 82 -1 0
 0 66 6 4
 0 68 0 1
+0 82 -1 0
 212790
 end_operator
 begin_operator
@@ -3843,9 +3843,9 @@ lime-simplex-letter sheet8 back image-8
 4 0
 65 0
 3
-0 80 -1 0
 0 66 6 4
 0 68 0 1
+0 80 -1 0
 212790
 end_operator
 begin_operator
@@ -3854,9 +3854,9 @@ lime-simplex-letter sheet8 front image-1
 4 0
 69 0
 3
-0 79 -1 0
-0 66 6 4
 0 64 0 1
+0 66 6 4
+0 79 -1 0
 212790
 end_operator
 begin_operator
@@ -3865,9 +3865,9 @@ lime-simplex-letter sheet8 front image-3
 4 0
 69 0
 3
-0 77 -1 0
-0 66 6 4
 0 64 0 1
+0 66 6 4
+0 77 -1 0
 212790
 end_operator
 begin_operator
@@ -3876,9 +3876,9 @@ lime-simplex-letter sheet8 front image-4
 4 0
 69 0
 3
-0 76 -1 0
-0 66 6 4
 0 64 0 1
+0 66 6 4
+0 76 -1 0
 212790
 end_operator
 begin_operator
@@ -3887,9 +3887,9 @@ lime-simplex-letter sheet8 front image-5
 4 0
 69 0
 3
-0 75 -1 0
-0 66 6 4
 0 64 0 1
+0 66 6 4
+0 75 -1 0
 212790
 end_operator
 begin_operator
@@ -3898,9 +3898,9 @@ lime-simplex-letter sheet8 front image-6
 4 0
 69 0
 3
-0 74 -1 0
-0 66 6 4
 0 64 0 1
+0 66 6 4
+0 74 -1 0
 212790
 end_operator
 begin_operator
@@ -3909,9 +3909,9 @@ lime-simplex-letter sheet8 front image-8
 4 0
 69 0
 3
-0 72 -1 0
-0 66 6 4
 0 64 0 1
+0 66 6 4
+0 72 -1 0
 212790
 end_operator
 begin_operator
@@ -3920,9 +3920,9 @@ lime-simplexmono-letter sheet1 back image-2
 4 0
 9 0
 3
-0 198 -1 0
 0 10 6 4
 0 11 0 1
+0 198 -1 0
 212790
 end_operator
 begin_operator
@@ -3931,9 +3931,9 @@ lime-simplexmono-letter sheet1 back image-7
 4 0
 9 0
 3
-0 193 -1 0
 0 10 6 4
 0 11 0 1
+0 193 -1 0
 212790
 end_operator
 begin_operator
@@ -3942,9 +3942,9 @@ lime-simplexmono-letter sheet1 front image-2
 4 0
 13 0
 3
-0 190 -1 0
 0 10 6 4
 0 14 0 1
+0 190 -1 0
 212790
 end_operator
 begin_operator
@@ -3953,9 +3953,9 @@ lime-simplexmono-letter sheet1 front image-7
 4 0
 13 0
 3
-0 185 -1 0
 0 10 6 4
 0 14 0 1
+0 185 -1 0
 212790
 end_operator
 begin_operator
@@ -3964,9 +3964,9 @@ lime-simplexmono-letter sheet2 back image-2
 4 0
 17 0
 3
-0 182 -1 0
 0 18 6 4
 0 19 0 1
+0 182 -1 0
 212790
 end_operator
 begin_operator
@@ -3975,9 +3975,9 @@ lime-simplexmono-letter sheet2 back image-7
 4 0
 17 0
 3
-0 177 -1 0
 0 18 6 4
 0 19 0 1
+0 177 -1 0
 212790
 end_operator
 begin_operator
@@ -3986,9 +3986,9 @@ lime-simplexmono-letter sheet2 front image-2
 4 0
 21 0
 3
-0 174 -1 0
-0 18 6 4
 0 16 0 1
+0 18 6 4
+0 174 -1 0
 212790
 end_operator
 begin_operator
@@ -3997,9 +3997,9 @@ lime-simplexmono-letter sheet2 front image-7
 4 0
 21 0
 3
-0 169 -1 0
-0 18 6 4
 0 16 0 1
+0 18 6 4
+0 169 -1 0
 212790
 end_operator
 begin_operator
@@ -4008,9 +4008,9 @@ lime-simplexmono-letter sheet3 back image-2
 4 0
 25 0
 3
-0 166 -1 0
 0 26 6 4
 0 27 0 1
+0 166 -1 0
 212790
 end_operator
 begin_operator
@@ -4019,9 +4019,9 @@ lime-simplexmono-letter sheet3 back image-7
 4 0
 25 0
 3
-0 161 -1 0
 0 26 6 4
 0 27 0 1
+0 161 -1 0
 212790
 end_operator
 begin_operator
@@ -4030,9 +4030,9 @@ lime-simplexmono-letter sheet3 front image-2
 4 0
 29 0
 3
-0 158 -1 0
 0 26 6 4
 0 30 0 1
+0 158 -1 0
 212790
 end_operator
 begin_operator
@@ -4041,9 +4041,9 @@ lime-simplexmono-letter sheet3 front image-7
 4 0
 29 0
 3
-0 153 -1 0
 0 26 6 4
 0 30 0 1
+0 153 -1 0
 212790
 end_operator
 begin_operator
@@ -4052,9 +4052,9 @@ lime-simplexmono-letter sheet4 back image-2
 4 0
 33 0
 3
-0 150 -1 0
 0 34 6 4
 0 35 0 1
+0 150 -1 0
 212790
 end_operator
 begin_operator
@@ -4063,9 +4063,9 @@ lime-simplexmono-letter sheet4 back image-7
 4 0
 33 0
 3
-0 145 -1 0
 0 34 6 4
 0 35 0 1
+0 145 -1 0
 212790
 end_operator
 begin_operator
@@ -4074,9 +4074,9 @@ lime-simplexmono-letter sheet4 front image-2
 4 0
 37 0
 3
-0 142 -1 0
 0 34 6 4
 0 38 0 1
+0 142 -1 0
 212790
 end_operator
 begin_operator
@@ -4085,9 +4085,9 @@ lime-simplexmono-letter sheet4 front image-7
 4 0
 37 0
 3
-0 137 -1 0
 0 34 6 4
 0 38 0 1
+0 137 -1 0
 212790
 end_operator
 begin_operator
@@ -4096,9 +4096,9 @@ lime-simplexmono-letter sheet5 back image-2
 4 0
 41 0
 3
-0 134 -1 0
 0 42 6 4
 0 43 0 1
+0 134 -1 0
 212790
 end_operator
 begin_operator
@@ -4107,9 +4107,9 @@ lime-simplexmono-letter sheet5 back image-7
 4 0
 41 0
 3
-0 129 -1 0
 0 42 6 4
 0 43 0 1
+0 129 -1 0
 212790
 end_operator
 begin_operator
@@ -4118,9 +4118,9 @@ lime-simplexmono-letter sheet5 front image-2
 4 0
 45 0
 3
-0 126 -1 0
 0 42 6 4
 0 46 0 1
+0 126 -1 0
 212790
 end_operator
 begin_operator
@@ -4129,9 +4129,9 @@ lime-simplexmono-letter sheet5 front image-7
 4 0
 45 0
 3
-0 121 -1 0
 0 42 6 4
 0 46 0 1
+0 121 -1 0
 212790
 end_operator
 begin_operator
@@ -4140,9 +4140,9 @@ lime-simplexmono-letter sheet6 back image-2
 4 0
 49 0
 3
-0 118 -1 0
 0 50 6 4
 0 51 0 1
+0 118 -1 0
 212790
 end_operator
 begin_operator
@@ -4151,9 +4151,9 @@ lime-simplexmono-letter sheet6 back image-7
 4 0
 49 0
 3
-0 113 -1 0
 0 50 6 4
 0 51 0 1
+0 113 -1 0
 212790
 end_operator
 begin_operator
@@ -4162,9 +4162,9 @@ lime-simplexmono-letter sheet6 front image-2
 4 0
 53 0
 3
-0 110 -1 0
 0 50 6 4
 0 54 0 1
+0 110 -1 0
 212790
 end_operator
 begin_operator
@@ -4173,9 +4173,9 @@ lime-simplexmono-letter sheet6 front image-7
 4 0
 53 0
 3
-0 105 -1 0
 0 50 6 4
 0 54 0 1
+0 105 -1 0
 212790
 end_operator
 begin_operator
@@ -4184,9 +4184,9 @@ lime-simplexmono-letter sheet7 back image-2
 4 0
 57 0
 3
-0 102 -1 0
 0 58 6 4
 0 59 0 1
+0 102 -1 0
 212790
 end_operator
 begin_operator
@@ -4195,9 +4195,9 @@ lime-simplexmono-letter sheet7 back image-7
 4 0
 57 0
 3
-0 97 -1 0
 0 58 6 4
 0 59 0 1
+0 97 -1 0
 212790
 end_operator
 begin_operator
@@ -4206,9 +4206,9 @@ lime-simplexmono-letter sheet7 front image-2
 4 0
 61 0
 3
-0 94 -1 0
-0 58 6 4
 0 56 0 1
+0 58 6 4
+0 94 -1 0
 212790
 end_operator
 begin_operator
@@ -4217,9 +4217,9 @@ lime-simplexmono-letter sheet7 front image-7
 4 0
 61 0
 3
-0 89 -1 0
-0 58 6 4
 0 56 0 1
+0 58 6 4
+0 89 -1 0
 212790
 end_operator
 begin_operator
@@ -4228,9 +4228,9 @@ lime-simplexmono-letter sheet8 back image-2
 4 0
 65 0
 3
-0 86 -1 0
 0 66 6 4
 0 67 0 1
+0 86 -1 0
 212790
 end_operator
 begin_operator
@@ -4239,9 +4239,9 @@ lime-simplexmono-letter sheet8 back image-7
 4 0
 65 0
 3
-0 81 -1 0
 0 66 6 4
 0 67 0 1
+0 81 -1 0
 212790
 end_operator
 begin_operator
@@ -4250,9 +4250,9 @@ lime-simplexmono-letter sheet8 front image-2
 4 0
 69 0
 3
-0 78 -1 0
 0 66 6 4
 0 70 0 1
+0 78 -1 0
 212790
 end_operator
 begin_operator
@@ -4261,9 +4261,9 @@ lime-simplexmono-letter sheet8 front image-7
 4 0
 69 0
 3
-0 73 -1 0
 0 66 6 4
 0 70 0 1
+0 73 -1 0
 212790
 end_operator
 begin_operator
@@ -4414,8 +4414,8 @@ uc1-invertfromime-letter sheet1 back front
 1
 2 0
 3
-0 10 11 2
 0 9 0 1
+0 10 11 2
 0 13 -1 0
 8000
 end_operator
@@ -4424,8 +4424,8 @@ uc1-invertfromime-letter sheet1 front back
 1
 2 0
 3
-0 10 11 2
 0 9 -1 0
+0 10 11 2
 0 13 0 1
 8000
 end_operator
@@ -4434,8 +4434,8 @@ uc1-invertfromime-letter sheet2 back front
 1
 2 0
 3
-0 18 11 2
 0 17 0 1
+0 18 11 2
 0 21 -1 0
 8000
 end_operator
@@ -4444,8 +4444,8 @@ uc1-invertfromime-letter sheet2 front back
 1
 2 0
 3
-0 18 11 2
 0 17 -1 0
+0 18 11 2
 0 21 0 1
 8000
 end_operator
@@ -4454,8 +4454,8 @@ uc1-invertfromime-letter sheet3 back front
 1
 2 0
 3
-0 26 11 2
 0 25 0 1
+0 26 11 2
 0 29 -1 0
 8000
 end_operator
@@ -4464,8 +4464,8 @@ uc1-invertfromime-letter sheet3 front back
 1
 2 0
 3
-0 26 11 2
 0 25 -1 0
+0 26 11 2
 0 29 0 1
 8000
 end_operator
@@ -4474,8 +4474,8 @@ uc1-invertfromime-letter sheet4 back front
 1
 2 0
 3
-0 34 11 2
 0 33 0 1
+0 34 11 2
 0 37 -1 0
 8000
 end_operator
@@ -4484,8 +4484,8 @@ uc1-invertfromime-letter sheet4 front back
 1
 2 0
 3
-0 34 11 2
 0 33 -1 0
+0 34 11 2
 0 37 0 1
 8000
 end_operator
@@ -4494,8 +4494,8 @@ uc1-invertfromime-letter sheet5 back front
 1
 2 0
 3
-0 42 11 2
 0 41 0 1
+0 42 11 2
 0 45 -1 0
 8000
 end_operator
@@ -4504,8 +4504,8 @@ uc1-invertfromime-letter sheet5 front back
 1
 2 0
 3
-0 42 11 2
 0 41 -1 0
+0 42 11 2
 0 45 0 1
 8000
 end_operator
@@ -4514,8 +4514,8 @@ uc1-invertfromime-letter sheet6 back front
 1
 2 0
 3
-0 50 11 2
 0 49 0 1
+0 50 11 2
 0 53 -1 0
 8000
 end_operator
@@ -4524,8 +4524,8 @@ uc1-invertfromime-letter sheet6 front back
 1
 2 0
 3
-0 50 11 2
 0 49 -1 0
+0 50 11 2
 0 53 0 1
 8000
 end_operator
@@ -4534,8 +4534,8 @@ uc1-invertfromime-letter sheet7 back front
 1
 2 0
 3
-0 58 11 2
 0 57 0 1
+0 58 11 2
 0 61 -1 0
 8000
 end_operator
@@ -4544,8 +4544,8 @@ uc1-invertfromime-letter sheet7 front back
 1
 2 0
 3
-0 58 11 2
 0 57 -1 0
+0 58 11 2
 0 61 0 1
 8000
 end_operator
@@ -4554,8 +4554,8 @@ uc1-invertfromime-letter sheet8 back front
 1
 2 0
 3
-0 66 11 2
 0 65 0 1
+0 66 11 2
 0 69 -1 0
 8000
 end_operator
@@ -4564,8 +4564,8 @@ uc1-invertfromime-letter sheet8 front back
 1
 2 0
 3
-0 66 11 2
 0 65 -1 0
+0 66 11 2
 0 69 0 1
 8000
 end_operator
@@ -4574,8 +4574,8 @@ uc1-inverttoime-letter sheet1 back front
 1
 2 0
 3
-0 10 9 10
 0 9 0 1
+0 10 9 10
 0 13 -1 0
 8000
 end_operator
@@ -4584,8 +4584,8 @@ uc1-inverttoime-letter sheet1 front back
 1
 2 0
 3
-0 10 9 10
 0 9 -1 0
+0 10 9 10
 0 13 0 1
 8000
 end_operator
@@ -4594,8 +4594,8 @@ uc1-inverttoime-letter sheet2 back front
 1
 2 0
 3
-0 18 9 10
 0 17 0 1
+0 18 9 10
 0 21 -1 0
 8000
 end_operator
@@ -4604,8 +4604,8 @@ uc1-inverttoime-letter sheet2 front back
 1
 2 0
 3
-0 18 9 10
 0 17 -1 0
+0 18 9 10
 0 21 0 1
 8000
 end_operator
@@ -4614,8 +4614,8 @@ uc1-inverttoime-letter sheet3 back front
 1
 2 0
 3
-0 26 9 10
 0 25 0 1
+0 26 9 10
 0 29 -1 0
 8000
 end_operator
@@ -4624,8 +4624,8 @@ uc1-inverttoime-letter sheet3 front back
 1
 2 0
 3
-0 26 9 10
 0 25 -1 0
+0 26 9 10
 0 29 0 1
 8000
 end_operator
@@ -4634,8 +4634,8 @@ uc1-inverttoime-letter sheet4 back front
 1
 2 0
 3
-0 34 9 10
 0 33 0 1
+0 34 9 10
 0 37 -1 0
 8000
 end_operator
@@ -4644,8 +4644,8 @@ uc1-inverttoime-letter sheet4 front back
 1
 2 0
 3
-0 34 9 10
 0 33 -1 0
+0 34 9 10
 0 37 0 1
 8000
 end_operator
@@ -4654,8 +4654,8 @@ uc1-inverttoime-letter sheet5 back front
 1
 2 0
 3
-0 42 9 10
 0 41 0 1
+0 42 9 10
 0 45 -1 0
 8000
 end_operator
@@ -4664,8 +4664,8 @@ uc1-inverttoime-letter sheet5 front back
 1
 2 0
 3
-0 42 9 10
 0 41 -1 0
+0 42 9 10
 0 45 0 1
 8000
 end_operator
@@ -4674,8 +4674,8 @@ uc1-inverttoime-letter sheet6 back front
 1
 2 0
 3
-0 50 9 10
 0 49 0 1
+0 50 9 10
 0 53 -1 0
 8000
 end_operator
@@ -4684,8 +4684,8 @@ uc1-inverttoime-letter sheet6 front back
 1
 2 0
 3
-0 50 9 10
 0 49 -1 0
+0 50 9 10
 0 53 0 1
 8000
 end_operator
@@ -4694,8 +4694,8 @@ uc1-inverttoime-letter sheet7 back front
 1
 2 0
 3
-0 58 9 10
 0 57 0 1
+0 58 9 10
 0 61 -1 0
 8000
 end_operator
@@ -4704,8 +4704,8 @@ uc1-inverttoime-letter sheet7 front back
 1
 2 0
 3
-0 58 9 10
 0 57 -1 0
+0 58 9 10
 0 61 0 1
 8000
 end_operator
@@ -4714,8 +4714,8 @@ uc1-inverttoime-letter sheet8 back front
 1
 2 0
 3
-0 66 9 10
 0 65 0 1
+0 66 9 10
 0 69 -1 0
 8000
 end_operator
@@ -4724,8 +4724,8 @@ uc1-inverttoime-letter sheet8 front back
 1
 2 0
 3
-0 66 9 10
 0 65 -1 0
+0 66 9 10
 0 69 0 1
 8000
 end_operator
@@ -4799,9 +4799,9 @@ uime-simplex-letter sheet1 back image-2
 1 0
 9 0
 3
-0 198 -1 0
 0 10 10 11
 0 11 0 1
+0 198 -1 0
 127790
 end_operator
 begin_operator
@@ -4810,9 +4810,9 @@ uime-simplex-letter sheet1 back image-7
 1 0
 9 0
 3
-0 193 -1 0
 0 10 10 11
 0 11 0 1
+0 193 -1 0
 127790
 end_operator
 begin_operator
@@ -4821,9 +4821,9 @@ uime-simplex-letter sheet1 front image-2
 1 0
 13 0
 3
-0 190 -1 0
 0 10 10 11
 0 14 0 1
+0 190 -1 0
 127790
 end_operator
 begin_operator
@@ -4832,9 +4832,9 @@ uime-simplex-letter sheet1 front image-7
 1 0
 13 0
 3
-0 185 -1 0
 0 10 10 11
 0 14 0 1
+0 185 -1 0
 127790
 end_operator
 begin_operator
@@ -4843,9 +4843,9 @@ uime-simplex-letter sheet2 back image-2
 1 0
 17 0
 3
-0 182 -1 0
 0 18 10 11
 0 19 0 1
+0 182 -1 0
 127790
 end_operator
 begin_operator
@@ -4854,9 +4854,9 @@ uime-simplex-letter sheet2 back image-7
 1 0
 17 0
 3
-0 177 -1 0
 0 18 10 11
 0 19 0 1
+0 177 -1 0
 127790
 end_operator
 begin_operator
@@ -4865,9 +4865,9 @@ uime-simplex-letter sheet2 front image-2
 1 0
 21 0
 3
-0 174 -1 0
-0 18 10 11
 0 16 0 1
+0 18 10 11
+0 174 -1 0
 127790
 end_operator
 begin_operator
@@ -4876,9 +4876,9 @@ uime-simplex-letter sheet2 front image-7
 1 0
 21 0
 3
-0 169 -1 0
-0 18 10 11
 0 16 0 1
+0 18 10 11
+0 169 -1 0
 127790
 end_operator
 begin_operator
@@ -4887,9 +4887,9 @@ uime-simplex-letter sheet3 back image-2
 1 0
 25 0
 3
-0 166 -1 0
 0 26 10 11
 0 27 0 1
+0 166 -1 0
 127790
 end_operator
 begin_operator
@@ -4898,9 +4898,9 @@ uime-simplex-letter sheet3 back image-7
 1 0
 25 0
 3
-0 161 -1 0
 0 26 10 11
 0 27 0 1
+0 161 -1 0
 127790
 end_operator
 begin_operator
@@ -4909,9 +4909,9 @@ uime-simplex-letter sheet3 front image-2
 1 0
 29 0
 3
-0 158 -1 0
 0 26 10 11
 0 30 0 1
+0 158 -1 0
 127790
 end_operator
 begin_operator
@@ -4920,9 +4920,9 @@ uime-simplex-letter sheet3 front image-7
 1 0
 29 0
 3
-0 153 -1 0
 0 26 10 11
 0 30 0 1
+0 153 -1 0
 127790
 end_operator
 begin_operator
@@ -4931,9 +4931,9 @@ uime-simplex-letter sheet4 back image-2
 1 0
 33 0
 3
-0 150 -1 0
 0 34 10 11
 0 35 0 1
+0 150 -1 0
 127790
 end_operator
 begin_operator
@@ -4942,9 +4942,9 @@ uime-simplex-letter sheet4 back image-7
 1 0
 33 0
 3
-0 145 -1 0
 0 34 10 11
 0 35 0 1
+0 145 -1 0
 127790
 end_operator
 begin_operator
@@ -4953,9 +4953,9 @@ uime-simplex-letter sheet4 front image-2
 1 0
 37 0
 3
-0 142 -1 0
 0 34 10 11
 0 38 0 1
+0 142 -1 0
 127790
 end_operator
 begin_operator
@@ -4964,9 +4964,9 @@ uime-simplex-letter sheet4 front image-7
 1 0
 37 0
 3
-0 137 -1 0
 0 34 10 11
 0 38 0 1
+0 137 -1 0
 127790
 end_operator
 begin_operator
@@ -4975,9 +4975,9 @@ uime-simplex-letter sheet5 back image-2
 1 0
 41 0
 3
-0 134 -1 0
 0 42 10 11
 0 43 0 1
+0 134 -1 0
 127790
 end_operator
 begin_operator
@@ -4986,9 +4986,9 @@ uime-simplex-letter sheet5 back image-7
 1 0
 41 0
 3
-0 129 -1 0
 0 42 10 11
 0 43 0 1
+0 129 -1 0
 127790
 end_operator
 begin_operator
@@ -4997,9 +4997,9 @@ uime-simplex-letter sheet5 front image-2
 1 0
 45 0
 3
-0 126 -1 0
 0 42 10 11
 0 46 0 1
+0 126 -1 0
 127790
 end_operator
 begin_operator
@@ -5008,9 +5008,9 @@ uime-simplex-letter sheet5 front image-7
 1 0
 45 0
 3
-0 121 -1 0
 0 42 10 11
 0 46 0 1
+0 121 -1 0
 127790
 end_operator
 begin_operator
@@ -5019,9 +5019,9 @@ uime-simplex-letter sheet6 back image-2
 1 0
 49 0
 3
-0 118 -1 0
 0 50 10 11
 0 51 0 1
+0 118 -1 0
 127790
 end_operator
 begin_operator
@@ -5030,9 +5030,9 @@ uime-simplex-letter sheet6 back image-7
 1 0
 49 0
 3
-0 113 -1 0
 0 50 10 11
 0 51 0 1
+0 113 -1 0
 127790
 end_operator
 begin_operator
@@ -5041,9 +5041,9 @@ uime-simplex-letter sheet6 front image-2
 1 0
 53 0
 3
-0 110 -1 0
 0 50 10 11
 0 54 0 1
+0 110 -1 0
 127790
 end_operator
 begin_operator
@@ -5052,9 +5052,9 @@ uime-simplex-letter sheet6 front image-7
 1 0
 53 0
 3
-0 105 -1 0
 0 50 10 11
 0 54 0 1
+0 105 -1 0
 127790
 end_operator
 begin_operator
@@ -5063,9 +5063,9 @@ uime-simplex-letter sheet7 back image-2
 1 0
 57 0
 3
-0 102 -1 0
 0 58 10 11
 0 59 0 1
+0 102 -1 0
 127790
 end_operator
 begin_operator
@@ -5074,9 +5074,9 @@ uime-simplex-letter sheet7 back image-7
 1 0
 57 0
 3
-0 97 -1 0
 0 58 10 11
 0 59 0 1
+0 97 -1 0
 127790
 end_operator
 begin_operator
@@ -5085,9 +5085,9 @@ uime-simplex-letter sheet7 front image-2
 1 0
 61 0
 3
-0 94 -1 0
-0 58 10 11
 0 56 0 1
+0 58 10 11
+0 94 -1 0
 127790
 end_operator
 begin_operator
@@ -5096,9 +5096,9 @@ uime-simplex-letter sheet7 front image-7
 1 0
 61 0
 3
-0 89 -1 0
-0 58 10 11
 0 56 0 1
+0 58 10 11
+0 89 -1 0
 127790
 end_operator
 begin_operator
@@ -5107,9 +5107,9 @@ uime-simplex-letter sheet8 back image-2
 1 0
 65 0
 3
-0 86 -1 0
 0 66 10 11
 0 67 0 1
+0 86 -1 0
 127790
 end_operator
 begin_operator
@@ -5118,9 +5118,9 @@ uime-simplex-letter sheet8 back image-7
 1 0
 65 0
 3
-0 81 -1 0
 0 66 10 11
 0 67 0 1
+0 81 -1 0
 127790
 end_operator
 begin_operator
@@ -5129,9 +5129,9 @@ uime-simplex-letter sheet8 front image-2
 1 0
 69 0
 3
-0 78 -1 0
 0 66 10 11
 0 70 0 1
+0 78 -1 0
 127790
 end_operator
 begin_operator
@@ -5140,9 +5140,9 @@ uime-simplex-letter sheet8 front image-7
 1 0
 69 0
 3
-0 73 -1 0
 0 66 10 11
 0 70 0 1
+0 73 -1 0
 127790
 end_operator
 0

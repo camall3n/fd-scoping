@@ -103,8 +103,8 @@ end_goal
 begin_operator
 calibrate satellite0 instrument0 groundstation2
 2
-1 1
 0 1
+1 1
 1
 0 2 -1 0
 1
@@ -120,16 +120,16 @@ begin_operator
 switch_on instrument0 satellite0
 0
 2
-0 2 -1 1
 0 0 0 1
+0 2 -1 1
 1
 end_operator
 begin_operator
 take_image satellite0 groundstation1 instrument0 thermograph0
 3
-2 0
-1 0
 0 1
+1 0
+2 0
 1
 0 9 -1 0
 1
@@ -137,9 +137,9 @@ end_operator
 begin_operator
 take_image satellite0 groundstation2 instrument0 thermograph0
 3
-2 0
-1 1
 0 1
+1 1
+2 0
 1
 0 8 -1 0
 1
@@ -147,9 +147,9 @@ end_operator
 begin_operator
 take_image satellite0 phenomenon3 instrument0 thermograph0
 3
-2 0
-1 2
 0 1
+1 2
+2 0
 1
 0 7 -1 0
 1
@@ -157,9 +157,9 @@ end_operator
 begin_operator
 take_image satellite0 phenomenon4 instrument0 thermograph0
 3
-2 0
-1 3
 0 1
+1 3
+2 0
 1
 0 6 -1 0
 1
@@ -167,9 +167,9 @@ end_operator
 begin_operator
 take_image satellite0 phenomenon6 instrument0 thermograph0
 3
-2 0
-1 4
 0 1
+1 4
+2 0
 1
 0 5 -1 0
 1
@@ -177,9 +177,9 @@ end_operator
 begin_operator
 take_image satellite0 star0 instrument0 thermograph0
 3
-2 0
-1 5
 0 1
+1 5
+2 0
 1
 0 4 -1 0
 1
@@ -187,9 +187,9 @@ end_operator
 begin_operator
 take_image satellite0 star5 instrument0 thermograph0
 3
-2 0
-1 6
 0 1
+1 6
+2 0
 1
 0 3 -1 0
 1

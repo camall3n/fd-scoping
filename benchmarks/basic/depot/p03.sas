@@ -606,9 +606,9 @@ drop hoist0 crate0 crate1 depot0
 6 0
 5
 0 5 -1 0
-0 17 -1 0
 0 11 -1 0
 0 12 0 1
+0 17 -1 0
 0 20 2 5
 1
 end_operator
@@ -618,9 +618,9 @@ drop hoist0 crate0 crate2 depot0
 7 0
 5
 0 5 -1 0
-0 17 -1 0
 0 11 -1 0
 0 13 0 1
+0 17 -1 0
 0 20 2 6
 1
 end_operator
@@ -630,9 +630,9 @@ drop hoist0 crate0 crate3 depot0
 8 0
 5
 0 5 -1 0
-0 17 -1 0
 0 11 -1 0
 0 14 0 1
+0 17 -1 0
 0 20 2 7
 1
 end_operator
@@ -642,9 +642,9 @@ drop hoist0 crate0 crate4 depot0
 9 0
 5
 0 5 -1 0
-0 17 -1 0
 0 11 -1 0
 0 15 0 1
+0 17 -1 0
 0 20 2 8
 1
 end_operator
@@ -654,9 +654,9 @@ drop hoist0 crate0 crate5 depot0
 10 0
 5
 0 5 -1 0
-0 17 -1 0
 0 11 -1 0
 0 16 0 1
+0 17 -1 0
 0 20 2 9
 1
 end_operator
@@ -664,10 +664,10 @@ begin_operator
 drop hoist0 crate0 pallet0 depot0
 0
 5
-0 5 -1 0
-0 17 -1 0
-0 11 -1 0
 0 2 0 1
+0 5 -1 0
+0 11 -1 0
+0 17 -1 0
 0 20 2 10
 1
 end_operator
@@ -677,9 +677,9 @@ drop hoist0 crate1 crate0 depot0
 5 0
 5
 0 6 -1 0
-0 17 -1 0
 0 11 0 1
 0 12 -1 0
+0 17 -1 0
 0 21 2 5
 1
 end_operator
@@ -689,9 +689,9 @@ drop hoist0 crate1 crate2 depot0
 7 0
 5
 0 6 -1 0
-0 17 -1 0
 0 12 -1 0
 0 13 0 1
+0 17 -1 0
 0 21 2 6
 1
 end_operator
@@ -701,9 +701,9 @@ drop hoist0 crate1 crate3 depot0
 8 0
 5
 0 6 -1 0
-0 17 -1 0
 0 12 -1 0
 0 14 0 1
+0 17 -1 0
 0 21 2 7
 1
 end_operator
@@ -713,9 +713,9 @@ drop hoist0 crate1 crate4 depot0
 9 0
 5
 0 6 -1 0
-0 17 -1 0
 0 12 -1 0
 0 15 0 1
+0 17 -1 0
 0 21 2 8
 1
 end_operator
@@ -725,9 +725,9 @@ drop hoist0 crate1 crate5 depot0
 10 0
 5
 0 6 -1 0
-0 17 -1 0
 0 12 -1 0
 0 16 0 1
+0 17 -1 0
 0 21 2 9
 1
 end_operator
@@ -735,10 +735,10 @@ begin_operator
 drop hoist0 crate1 pallet0 depot0
 0
 5
-0 6 -1 0
-0 17 -1 0
-0 12 -1 0
 0 2 0 1
+0 6 -1 0
+0 12 -1 0
+0 17 -1 0
 0 21 2 10
 1
 end_operator
@@ -748,9 +748,9 @@ drop hoist0 crate2 crate0 depot0
 5 0
 5
 0 7 -1 0
-0 17 -1 0
 0 11 0 1
 0 13 -1 0
+0 17 -1 0
 0 22 2 5
 1
 end_operator
@@ -760,9 +760,9 @@ drop hoist0 crate2 crate1 depot0
 6 0
 5
 0 7 -1 0
-0 17 -1 0
 0 12 0 1
 0 13 -1 0
+0 17 -1 0
 0 22 2 6
 1
 end_operator
@@ -772,9 +772,9 @@ drop hoist0 crate2 crate3 depot0
 8 0
 5
 0 7 -1 0
-0 17 -1 0
 0 13 -1 0
 0 14 0 1
+0 17 -1 0
 0 22 2 7
 1
 end_operator
@@ -784,9 +784,9 @@ drop hoist0 crate2 crate4 depot0
 9 0
 5
 0 7 -1 0
-0 17 -1 0
 0 13 -1 0
 0 15 0 1
+0 17 -1 0
 0 22 2 8
 1
 end_operator
@@ -796,9 +796,9 @@ drop hoist0 crate2 crate5 depot0
 10 0
 5
 0 7 -1 0
-0 17 -1 0
 0 13 -1 0
 0 16 0 1
+0 17 -1 0
 0 22 2 9
 1
 end_operator
@@ -806,10 +806,10 @@ begin_operator
 drop hoist0 crate2 pallet0 depot0
 0
 5
-0 7 -1 0
-0 17 -1 0
-0 13 -1 0
 0 2 0 1
+0 7 -1 0
+0 13 -1 0
+0 17 -1 0
 0 22 2 10
 1
 end_operator
@@ -819,9 +819,9 @@ drop hoist0 crate3 crate0 depot0
 5 0
 5
 0 8 -1 0
-0 17 -1 0
 0 11 0 1
 0 14 -1 0
+0 17 -1 0
 0 23 2 5
 1
 end_operator
@@ -831,9 +831,9 @@ drop hoist0 crate3 crate1 depot0
 6 0
 5
 0 8 -1 0
-0 17 -1 0
 0 12 0 1
 0 14 -1 0
+0 17 -1 0
 0 23 2 6
 1
 end_operator
@@ -843,9 +843,9 @@ drop hoist0 crate3 crate2 depot0
 7 0
 5
 0 8 -1 0
-0 17 -1 0
 0 13 0 1
 0 14 -1 0
+0 17 -1 0
 0 23 2 7
 1
 end_operator
@@ -855,9 +855,9 @@ drop hoist0 crate3 crate4 depot0
 9 0
 5
 0 8 -1 0
-0 17 -1 0
 0 14 -1 0
 0 15 0 1
+0 17 -1 0
 0 23 2 8
 1
 end_operator
@@ -867,9 +867,9 @@ drop hoist0 crate3 crate5 depot0
 10 0
 5
 0 8 -1 0
-0 17 -1 0
 0 14 -1 0
 0 16 0 1
+0 17 -1 0
 0 23 2 9
 1
 end_operator
@@ -877,10 +877,10 @@ begin_operator
 drop hoist0 crate3 pallet0 depot0
 0
 5
-0 8 -1 0
-0 17 -1 0
-0 14 -1 0
 0 2 0 1
+0 8 -1 0
+0 14 -1 0
+0 17 -1 0
 0 23 2 10
 1
 end_operator
@@ -890,9 +890,9 @@ drop hoist0 crate4 crate0 depot0
 5 0
 5
 0 9 -1 0
-0 17 -1 0
 0 11 0 1
 0 15 -1 0
+0 17 -1 0
 0 24 2 5
 1
 end_operator
@@ -902,9 +902,9 @@ drop hoist0 crate4 crate1 depot0
 6 0
 5
 0 9 -1 0
-0 17 -1 0
 0 12 0 1
 0 15 -1 0
+0 17 -1 0
 0 24 2 6
 1
 end_operator
@@ -914,9 +914,9 @@ drop hoist0 crate4 crate2 depot0
 7 0
 5
 0 9 -1 0
-0 17 -1 0
 0 13 0 1
 0 15 -1 0
+0 17 -1 0
 0 24 2 7
 1
 end_operator
@@ -926,9 +926,9 @@ drop hoist0 crate4 crate3 depot0
 8 0
 5
 0 9 -1 0
-0 17 -1 0
 0 14 0 1
 0 15 -1 0
+0 17 -1 0
 0 24 2 8
 1
 end_operator
@@ -938,9 +938,9 @@ drop hoist0 crate4 crate5 depot0
 10 0
 5
 0 9 -1 0
-0 17 -1 0
 0 15 -1 0
 0 16 0 1
+0 17 -1 0
 0 24 2 9
 1
 end_operator
@@ -948,10 +948,10 @@ begin_operator
 drop hoist0 crate4 pallet0 depot0
 0
 5
-0 9 -1 0
-0 17 -1 0
-0 15 -1 0
 0 2 0 1
+0 9 -1 0
+0 15 -1 0
+0 17 -1 0
 0 24 2 10
 1
 end_operator
@@ -961,9 +961,9 @@ drop hoist0 crate5 crate0 depot0
 5 0
 5
 0 10 -1 0
-0 17 -1 0
 0 11 0 1
 0 16 -1 0
+0 17 -1 0
 0 25 2 5
 1
 end_operator
@@ -973,9 +973,9 @@ drop hoist0 crate5 crate1 depot0
 6 0
 5
 0 10 -1 0
-0 17 -1 0
 0 12 0 1
 0 16 -1 0
+0 17 -1 0
 0 25 2 6
 1
 end_operator
@@ -985,9 +985,9 @@ drop hoist0 crate5 crate2 depot0
 7 0
 5
 0 10 -1 0
-0 17 -1 0
 0 13 0 1
 0 16 -1 0
+0 17 -1 0
 0 25 2 7
 1
 end_operator
@@ -997,9 +997,9 @@ drop hoist0 crate5 crate3 depot0
 8 0
 5
 0 10 -1 0
-0 17 -1 0
 0 14 0 1
 0 16 -1 0
+0 17 -1 0
 0 25 2 8
 1
 end_operator
@@ -1009,9 +1009,9 @@ drop hoist0 crate5 crate4 depot0
 9 0
 5
 0 10 -1 0
-0 17 -1 0
 0 15 0 1
 0 16 -1 0
+0 17 -1 0
 0 25 2 9
 1
 end_operator
@@ -1019,10 +1019,10 @@ begin_operator
 drop hoist0 crate5 pallet0 depot0
 0
 5
-0 10 -1 0
-0 17 -1 0
-0 16 -1 0
 0 2 0 1
+0 10 -1 0
+0 16 -1 0
+0 17 -1 0
 0 25 2 10
 1
 end_operator
@@ -1032,9 +1032,9 @@ drop hoist1 crate0 crate1 distributor0
 6 1
 5
 0 5 -1 1
-0 18 -1 0
 0 11 -1 0
 0 12 0 1
+0 18 -1 0
 0 20 3 5
 1
 end_operator
@@ -1044,9 +1044,9 @@ drop hoist1 crate0 crate2 distributor0
 7 1
 5
 0 5 -1 1
-0 18 -1 0
 0 11 -1 0
 0 13 0 1
+0 18 -1 0
 0 20 3 6
 1
 end_operator
@@ -1056,9 +1056,9 @@ drop hoist1 crate0 crate3 distributor0
 8 1
 5
 0 5 -1 1
-0 18 -1 0
 0 11 -1 0
 0 14 0 1
+0 18 -1 0
 0 20 3 7
 1
 end_operator
@@ -1068,9 +1068,9 @@ drop hoist1 crate0 crate4 distributor0
 9 1
 5
 0 5 -1 1
-0 18 -1 0
 0 11 -1 0
 0 15 0 1
+0 18 -1 0
 0 20 3 8
 1
 end_operator
@@ -1080,9 +1080,9 @@ drop hoist1 crate0 crate5 distributor0
 10 1
 5
 0 5 -1 1
-0 18 -1 0
 0 11 -1 0
 0 16 0 1
+0 18 -1 0
 0 20 3 9
 1
 end_operator
@@ -1090,10 +1090,10 @@ begin_operator
 drop hoist1 crate0 pallet1 distributor0
 0
 5
-0 5 -1 1
-0 18 -1 0
-0 11 -1 0
 0 3 0 1
+0 5 -1 1
+0 11 -1 0
+0 18 -1 0
 0 20 3 11
 1
 end_operator
@@ -1103,9 +1103,9 @@ drop hoist1 crate1 crate0 distributor0
 5 1
 5
 0 6 -1 1
-0 18 -1 0
 0 11 0 1
 0 12 -1 0
+0 18 -1 0
 0 21 3 5
 1
 end_operator
@@ -1115,9 +1115,9 @@ drop hoist1 crate1 crate2 distributor0
 7 1
 5
 0 6 -1 1
-0 18 -1 0
 0 12 -1 0
 0 13 0 1
+0 18 -1 0
 0 21 3 6
 1
 end_operator
@@ -1127,9 +1127,9 @@ drop hoist1 crate1 crate3 distributor0
 8 1
 5
 0 6 -1 1
-0 18 -1 0
 0 12 -1 0
 0 14 0 1
+0 18 -1 0
 0 21 3 7
 1
 end_operator
@@ -1139,9 +1139,9 @@ drop hoist1 crate1 crate4 distributor0
 9 1
 5
 0 6 -1 1
-0 18 -1 0
 0 12 -1 0
 0 15 0 1
+0 18 -1 0
 0 21 3 8
 1
 end_operator
@@ -1151,9 +1151,9 @@ drop hoist1 crate1 crate5 distributor0
 10 1
 5
 0 6 -1 1
-0 18 -1 0
 0 12 -1 0
 0 16 0 1
+0 18 -1 0
 0 21 3 9
 1
 end_operator
@@ -1161,10 +1161,10 @@ begin_operator
 drop hoist1 crate1 pallet1 distributor0
 0
 5
-0 6 -1 1
-0 18 -1 0
-0 12 -1 0
 0 3 0 1
+0 6 -1 1
+0 12 -1 0
+0 18 -1 0
 0 21 3 11
 1
 end_operator
@@ -1174,9 +1174,9 @@ drop hoist1 crate2 crate0 distributor0
 5 1
 5
 0 7 -1 1
-0 18 -1 0
 0 11 0 1
 0 13 -1 0
+0 18 -1 0
 0 22 3 5
 1
 end_operator
@@ -1186,9 +1186,9 @@ drop hoist1 crate2 crate1 distributor0
 6 1
 5
 0 7 -1 1
-0 18 -1 0
 0 12 0 1
 0 13 -1 0
+0 18 -1 0
 0 22 3 6
 1
 end_operator
@@ -1198,9 +1198,9 @@ drop hoist1 crate2 crate3 distributor0
 8 1
 5
 0 7 -1 1
-0 18 -1 0
 0 13 -1 0
 0 14 0 1
+0 18 -1 0
 0 22 3 7
 1
 end_operator
@@ -1210,9 +1210,9 @@ drop hoist1 crate2 crate4 distributor0
 9 1
 5
 0 7 -1 1
-0 18 -1 0
 0 13 -1 0
 0 15 0 1
+0 18 -1 0
 0 22 3 8
 1
 end_operator
@@ -1222,9 +1222,9 @@ drop hoist1 crate2 crate5 distributor0
 10 1
 5
 0 7 -1 1
-0 18 -1 0
 0 13 -1 0
 0 16 0 1
+0 18 -1 0
 0 22 3 9
 1
 end_operator
@@ -1232,10 +1232,10 @@ begin_operator
 drop hoist1 crate2 pallet1 distributor0
 0
 5
-0 7 -1 1
-0 18 -1 0
-0 13 -1 0
 0 3 0 1
+0 7 -1 1
+0 13 -1 0
+0 18 -1 0
 0 22 3 11
 1
 end_operator
@@ -1245,9 +1245,9 @@ drop hoist1 crate3 crate0 distributor0
 5 1
 5
 0 8 -1 1
-0 18 -1 0
 0 11 0 1
 0 14 -1 0
+0 18 -1 0
 0 23 3 5
 1
 end_operator
@@ -1257,9 +1257,9 @@ drop hoist1 crate3 crate1 distributor0
 6 1
 5
 0 8 -1 1
-0 18 -1 0
 0 12 0 1
 0 14 -1 0
+0 18 -1 0
 0 23 3 6
 1
 end_operator
@@ -1269,9 +1269,9 @@ drop hoist1 crate3 crate2 distributor0
 7 1
 5
 0 8 -1 1
-0 18 -1 0
 0 13 0 1
 0 14 -1 0
+0 18 -1 0
 0 23 3 7
 1
 end_operator
@@ -1281,9 +1281,9 @@ drop hoist1 crate3 crate4 distributor0
 9 1
 5
 0 8 -1 1
-0 18 -1 0
 0 14 -1 0
 0 15 0 1
+0 18 -1 0
 0 23 3 8
 1
 end_operator
@@ -1293,9 +1293,9 @@ drop hoist1 crate3 crate5 distributor0
 10 1
 5
 0 8 -1 1
-0 18 -1 0
 0 14 -1 0
 0 16 0 1
+0 18 -1 0
 0 23 3 9
 1
 end_operator
@@ -1303,10 +1303,10 @@ begin_operator
 drop hoist1 crate3 pallet1 distributor0
 0
 5
-0 8 -1 1
-0 18 -1 0
-0 14 -1 0
 0 3 0 1
+0 8 -1 1
+0 14 -1 0
+0 18 -1 0
 0 23 3 11
 1
 end_operator
@@ -1316,9 +1316,9 @@ drop hoist1 crate4 crate0 distributor0
 5 1
 5
 0 9 -1 1
-0 18 -1 0
 0 11 0 1
 0 15 -1 0
+0 18 -1 0
 0 24 3 5
 1
 end_operator
@@ -1328,9 +1328,9 @@ drop hoist1 crate4 crate1 distributor0
 6 1
 5
 0 9 -1 1
-0 18 -1 0
 0 12 0 1
 0 15 -1 0
+0 18 -1 0
 0 24 3 6
 1
 end_operator
@@ -1340,9 +1340,9 @@ drop hoist1 crate4 crate2 distributor0
 7 1
 5
 0 9 -1 1
-0 18 -1 0
 0 13 0 1
 0 15 -1 0
+0 18 -1 0
 0 24 3 7
 1
 end_operator
@@ -1352,9 +1352,9 @@ drop hoist1 crate4 crate3 distributor0
 8 1
 5
 0 9 -1 1
-0 18 -1 0
 0 14 0 1
 0 15 -1 0
+0 18 -1 0
 0 24 3 8
 1
 end_operator
@@ -1364,9 +1364,9 @@ drop hoist1 crate4 crate5 distributor0
 10 1
 5
 0 9 -1 1
-0 18 -1 0
 0 15 -1 0
 0 16 0 1
+0 18 -1 0
 0 24 3 9
 1
 end_operator
@@ -1374,10 +1374,10 @@ begin_operator
 drop hoist1 crate4 pallet1 distributor0
 0
 5
-0 9 -1 1
-0 18 -1 0
-0 15 -1 0
 0 3 0 1
+0 9 -1 1
+0 15 -1 0
+0 18 -1 0
 0 24 3 11
 1
 end_operator
@@ -1387,9 +1387,9 @@ drop hoist1 crate5 crate0 distributor0
 5 1
 5
 0 10 -1 1
-0 18 -1 0
 0 11 0 1
 0 16 -1 0
+0 18 -1 0
 0 25 3 5
 1
 end_operator
@@ -1399,9 +1399,9 @@ drop hoist1 crate5 crate1 distributor0
 6 1
 5
 0 10 -1 1
-0 18 -1 0
 0 12 0 1
 0 16 -1 0
+0 18 -1 0
 0 25 3 6
 1
 end_operator
@@ -1411,9 +1411,9 @@ drop hoist1 crate5 crate2 distributor0
 7 1
 5
 0 10 -1 1
-0 18 -1 0
 0 13 0 1
 0 16 -1 0
+0 18 -1 0
 0 25 3 7
 1
 end_operator
@@ -1423,9 +1423,9 @@ drop hoist1 crate5 crate3 distributor0
 8 1
 5
 0 10 -1 1
-0 18 -1 0
 0 14 0 1
 0 16 -1 0
+0 18 -1 0
 0 25 3 8
 1
 end_operator
@@ -1435,9 +1435,9 @@ drop hoist1 crate5 crate4 distributor0
 9 1
 5
 0 10 -1 1
-0 18 -1 0
 0 15 0 1
 0 16 -1 0
+0 18 -1 0
 0 25 3 9
 1
 end_operator
@@ -1445,10 +1445,10 @@ begin_operator
 drop hoist1 crate5 pallet1 distributor0
 0
 5
-0 10 -1 1
-0 18 -1 0
-0 16 -1 0
 0 3 0 1
+0 10 -1 1
+0 16 -1 0
+0 18 -1 0
 0 25 3 11
 1
 end_operator
@@ -1458,9 +1458,9 @@ drop hoist2 crate0 crate1 distributor1
 6 2
 5
 0 5 -1 2
-0 19 -1 0
 0 11 -1 0
 0 12 0 1
+0 19 -1 0
 0 20 4 5
 1
 end_operator
@@ -1470,9 +1470,9 @@ drop hoist2 crate0 crate2 distributor1
 7 2
 5
 0 5 -1 2
-0 19 -1 0
 0 11 -1 0
 0 13 0 1
+0 19 -1 0
 0 20 4 6
 1
 end_operator
@@ -1482,9 +1482,9 @@ drop hoist2 crate0 crate3 distributor1
 8 2
 5
 0 5 -1 2
-0 19 -1 0
 0 11 -1 0
 0 14 0 1
+0 19 -1 0
 0 20 4 7
 1
 end_operator
@@ -1494,9 +1494,9 @@ drop hoist2 crate0 crate4 distributor1
 9 2
 5
 0 5 -1 2
-0 19 -1 0
 0 11 -1 0
 0 15 0 1
+0 19 -1 0
 0 20 4 8
 1
 end_operator
@@ -1506,9 +1506,9 @@ drop hoist2 crate0 crate5 distributor1
 10 2
 5
 0 5 -1 2
-0 19 -1 0
 0 11 -1 0
 0 16 0 1
+0 19 -1 0
 0 20 4 9
 1
 end_operator
@@ -1516,10 +1516,10 @@ begin_operator
 drop hoist2 crate0 pallet2 distributor1
 0
 5
-0 5 -1 2
-0 19 -1 0
-0 11 -1 0
 0 4 0 1
+0 5 -1 2
+0 11 -1 0
+0 19 -1 0
 0 20 4 12
 1
 end_operator
@@ -1529,9 +1529,9 @@ drop hoist2 crate1 crate0 distributor1
 5 2
 5
 0 6 -1 2
-0 19 -1 0
 0 11 0 1
 0 12 -1 0
+0 19 -1 0
 0 21 4 5
 1
 end_operator
@@ -1541,9 +1541,9 @@ drop hoist2 crate1 crate2 distributor1
 7 2
 5
 0 6 -1 2
-0 19 -1 0
 0 12 -1 0
 0 13 0 1
+0 19 -1 0
 0 21 4 6
 1
 end_operator
@@ -1553,9 +1553,9 @@ drop hoist2 crate1 crate3 distributor1
 8 2
 5
 0 6 -1 2
-0 19 -1 0
 0 12 -1 0
 0 14 0 1
+0 19 -1 0
 0 21 4 7
 1
 end_operator
@@ -1565,9 +1565,9 @@ drop hoist2 crate1 crate4 distributor1
 9 2
 5
 0 6 -1 2
-0 19 -1 0
 0 12 -1 0
 0 15 0 1
+0 19 -1 0
 0 21 4 8
 1
 end_operator
@@ -1577,9 +1577,9 @@ drop hoist2 crate1 crate5 distributor1
 10 2
 5
 0 6 -1 2
-0 19 -1 0
 0 12 -1 0
 0 16 0 1
+0 19 -1 0
 0 21 4 9
 1
 end_operator
@@ -1587,10 +1587,10 @@ begin_operator
 drop hoist2 crate1 pallet2 distributor1
 0
 5
-0 6 -1 2
-0 19 -1 0
-0 12 -1 0
 0 4 0 1
+0 6 -1 2
+0 12 -1 0
+0 19 -1 0
 0 21 4 12
 1
 end_operator
@@ -1600,9 +1600,9 @@ drop hoist2 crate2 crate0 distributor1
 5 2
 5
 0 7 -1 2
-0 19 -1 0
 0 11 0 1
 0 13 -1 0
+0 19 -1 0
 0 22 4 5
 1
 end_operator
@@ -1612,9 +1612,9 @@ drop hoist2 crate2 crate1 distributor1
 6 2
 5
 0 7 -1 2
-0 19 -1 0
 0 12 0 1
 0 13 -1 0
+0 19 -1 0
 0 22 4 6
 1
 end_operator
@@ -1624,9 +1624,9 @@ drop hoist2 crate2 crate3 distributor1
 8 2
 5
 0 7 -1 2
-0 19 -1 0
 0 13 -1 0
 0 14 0 1
+0 19 -1 0
 0 22 4 7
 1
 end_operator
@@ -1636,9 +1636,9 @@ drop hoist2 crate2 crate4 distributor1
 9 2
 5
 0 7 -1 2
-0 19 -1 0
 0 13 -1 0
 0 15 0 1
+0 19 -1 0
 0 22 4 8
 1
 end_operator
@@ -1648,9 +1648,9 @@ drop hoist2 crate2 crate5 distributor1
 10 2
 5
 0 7 -1 2
-0 19 -1 0
 0 13 -1 0
 0 16 0 1
+0 19 -1 0
 0 22 4 9
 1
 end_operator
@@ -1658,10 +1658,10 @@ begin_operator
 drop hoist2 crate2 pallet2 distributor1
 0
 5
-0 7 -1 2
-0 19 -1 0
-0 13 -1 0
 0 4 0 1
+0 7 -1 2
+0 13 -1 0
+0 19 -1 0
 0 22 4 12
 1
 end_operator
@@ -1671,9 +1671,9 @@ drop hoist2 crate3 crate0 distributor1
 5 2
 5
 0 8 -1 2
-0 19 -1 0
 0 11 0 1
 0 14 -1 0
+0 19 -1 0
 0 23 4 5
 1
 end_operator
@@ -1683,9 +1683,9 @@ drop hoist2 crate3 crate1 distributor1
 6 2
 5
 0 8 -1 2
-0 19 -1 0
 0 12 0 1
 0 14 -1 0
+0 19 -1 0
 0 23 4 6
 1
 end_operator
@@ -1695,9 +1695,9 @@ drop hoist2 crate3 crate2 distributor1
 7 2
 5
 0 8 -1 2
-0 19 -1 0
 0 13 0 1
 0 14 -1 0
+0 19 -1 0
 0 23 4 7
 1
 end_operator
@@ -1707,9 +1707,9 @@ drop hoist2 crate3 crate4 distributor1
 9 2
 5
 0 8 -1 2
-0 19 -1 0
 0 14 -1 0
 0 15 0 1
+0 19 -1 0
 0 23 4 8
 1
 end_operator
@@ -1719,9 +1719,9 @@ drop hoist2 crate3 crate5 distributor1
 10 2
 5
 0 8 -1 2
-0 19 -1 0
 0 14 -1 0
 0 16 0 1
+0 19 -1 0
 0 23 4 9
 1
 end_operator
@@ -1729,10 +1729,10 @@ begin_operator
 drop hoist2 crate3 pallet2 distributor1
 0
 5
-0 8 -1 2
-0 19 -1 0
-0 14 -1 0
 0 4 0 1
+0 8 -1 2
+0 14 -1 0
+0 19 -1 0
 0 23 4 12
 1
 end_operator
@@ -1742,9 +1742,9 @@ drop hoist2 crate4 crate0 distributor1
 5 2
 5
 0 9 -1 2
-0 19 -1 0
 0 11 0 1
 0 15 -1 0
+0 19 -1 0
 0 24 4 5
 1
 end_operator
@@ -1754,9 +1754,9 @@ drop hoist2 crate4 crate1 distributor1
 6 2
 5
 0 9 -1 2
-0 19 -1 0
 0 12 0 1
 0 15 -1 0
+0 19 -1 0
 0 24 4 6
 1
 end_operator
@@ -1766,9 +1766,9 @@ drop hoist2 crate4 crate2 distributor1
 7 2
 5
 0 9 -1 2
-0 19 -1 0
 0 13 0 1
 0 15 -1 0
+0 19 -1 0
 0 24 4 7
 1
 end_operator
@@ -1778,9 +1778,9 @@ drop hoist2 crate4 crate3 distributor1
 8 2
 5
 0 9 -1 2
-0 19 -1 0
 0 14 0 1
 0 15 -1 0
+0 19 -1 0
 0 24 4 8
 1
 end_operator
@@ -1790,9 +1790,9 @@ drop hoist2 crate4 crate5 distributor1
 10 2
 5
 0 9 -1 2
-0 19 -1 0
 0 15 -1 0
 0 16 0 1
+0 19 -1 0
 0 24 4 9
 1
 end_operator
@@ -1800,10 +1800,10 @@ begin_operator
 drop hoist2 crate4 pallet2 distributor1
 0
 5
-0 9 -1 2
-0 19 -1 0
-0 15 -1 0
 0 4 0 1
+0 9 -1 2
+0 15 -1 0
+0 19 -1 0
 0 24 4 12
 1
 end_operator
@@ -1813,9 +1813,9 @@ drop hoist2 crate5 crate0 distributor1
 5 2
 5
 0 10 -1 2
-0 19 -1 0
 0 11 0 1
 0 16 -1 0
+0 19 -1 0
 0 25 4 5
 1
 end_operator
@@ -1825,9 +1825,9 @@ drop hoist2 crate5 crate1 distributor1
 6 2
 5
 0 10 -1 2
-0 19 -1 0
 0 12 0 1
 0 16 -1 0
+0 19 -1 0
 0 25 4 6
 1
 end_operator
@@ -1837,9 +1837,9 @@ drop hoist2 crate5 crate2 distributor1
 7 2
 5
 0 10 -1 2
-0 19 -1 0
 0 13 0 1
 0 16 -1 0
+0 19 -1 0
 0 25 4 7
 1
 end_operator
@@ -1849,9 +1849,9 @@ drop hoist2 crate5 crate3 distributor1
 8 2
 5
 0 10 -1 2
-0 19 -1 0
 0 14 0 1
 0 16 -1 0
+0 19 -1 0
 0 25 4 8
 1
 end_operator
@@ -1861,9 +1861,9 @@ drop hoist2 crate5 crate4 distributor1
 9 2
 5
 0 10 -1 2
-0 19 -1 0
 0 15 0 1
 0 16 -1 0
+0 19 -1 0
 0 25 4 9
 1
 end_operator
@@ -1871,10 +1871,10 @@ begin_operator
 drop hoist2 crate5 pallet2 distributor1
 0
 5
-0 10 -1 2
-0 19 -1 0
-0 16 -1 0
 0 4 0 1
+0 10 -1 2
+0 16 -1 0
+0 19 -1 0
 0 25 4 12
 1
 end_operator
@@ -1883,9 +1883,9 @@ lift hoist0 crate0 crate1 depot0
 0
 5
 0 5 0 3
-0 17 0 1
 0 11 0 1
 0 12 -1 0
+0 17 0 1
 0 20 5 2
 1
 end_operator
@@ -1894,9 +1894,9 @@ lift hoist0 crate0 crate2 depot0
 0
 5
 0 5 0 3
-0 17 0 1
 0 11 0 1
 0 13 -1 0
+0 17 0 1
 0 20 6 2
 1
 end_operator
@@ -1905,9 +1905,9 @@ lift hoist0 crate0 crate3 depot0
 0
 5
 0 5 0 3
-0 17 0 1
 0 11 0 1
 0 14 -1 0
+0 17 0 1
 0 20 7 2
 1
 end_operator
@@ -1916,9 +1916,9 @@ lift hoist0 crate0 crate4 depot0
 0
 5
 0 5 0 3
-0 17 0 1
 0 11 0 1
 0 15 -1 0
+0 17 0 1
 0 20 8 2
 1
 end_operator
@@ -1927,9 +1927,9 @@ lift hoist0 crate0 crate5 depot0
 0
 5
 0 5 0 3
-0 17 0 1
 0 11 0 1
 0 16 -1 0
+0 17 0 1
 0 20 9 2
 1
 end_operator
@@ -1937,10 +1937,10 @@ begin_operator
 lift hoist0 crate0 pallet0 depot0
 0
 5
-0 5 0 3
-0 17 0 1
-0 11 0 1
 0 2 -1 0
+0 5 0 3
+0 11 0 1
+0 17 0 1
 0 20 10 2
 1
 end_operator
@@ -1948,10 +1948,10 @@ begin_operator
 lift hoist0 crate0 pallet1 depot0
 0
 5
-0 5 0 3
-0 17 0 1
-0 11 0 1
 0 3 -1 0
+0 5 0 3
+0 11 0 1
+0 17 0 1
 0 20 11 2
 1
 end_operator
@@ -1959,10 +1959,10 @@ begin_operator
 lift hoist0 crate0 pallet2 depot0
 0
 5
-0 5 0 3
-0 17 0 1
-0 11 0 1
 0 4 -1 0
+0 5 0 3
+0 11 0 1
+0 17 0 1
 0 20 12 2
 1
 end_operator
@@ -1971,9 +1971,9 @@ lift hoist0 crate1 crate0 depot0
 0
 5
 0 6 0 3
-0 17 0 1
 0 11 -1 0
 0 12 0 1
+0 17 0 1
 0 21 5 2
 1
 end_operator
@@ -1982,9 +1982,9 @@ lift hoist0 crate1 crate2 depot0
 0
 5
 0 6 0 3
-0 17 0 1
 0 12 0 1
 0 13 -1 0
+0 17 0 1
 0 21 6 2
 1
 end_operator
@@ -1993,9 +1993,9 @@ lift hoist0 crate1 crate3 depot0
 0
 5
 0 6 0 3
-0 17 0 1
 0 12 0 1
 0 14 -1 0
+0 17 0 1
 0 21 7 2
 1
 end_operator
@@ -2004,9 +2004,9 @@ lift hoist0 crate1 crate4 depot0
 0
 5
 0 6 0 3
-0 17 0 1
 0 12 0 1
 0 15 -1 0
+0 17 0 1
 0 21 8 2
 1
 end_operator
@@ -2015,9 +2015,9 @@ lift hoist0 crate1 crate5 depot0
 0
 5
 0 6 0 3
-0 17 0 1
 0 12 0 1
 0 16 -1 0
+0 17 0 1
 0 21 9 2
 1
 end_operator
@@ -2025,10 +2025,10 @@ begin_operator
 lift hoist0 crate1 pallet0 depot0
 0
 5
-0 6 0 3
-0 17 0 1
-0 12 0 1
 0 2 -1 0
+0 6 0 3
+0 12 0 1
+0 17 0 1
 0 21 10 2
 1
 end_operator
@@ -2036,10 +2036,10 @@ begin_operator
 lift hoist0 crate1 pallet1 depot0
 0
 5
-0 6 0 3
-0 17 0 1
-0 12 0 1
 0 3 -1 0
+0 6 0 3
+0 12 0 1
+0 17 0 1
 0 21 11 2
 1
 end_operator
@@ -2047,10 +2047,10 @@ begin_operator
 lift hoist0 crate1 pallet2 depot0
 0
 5
-0 6 0 3
-0 17 0 1
-0 12 0 1
 0 4 -1 0
+0 6 0 3
+0 12 0 1
+0 17 0 1
 0 21 12 2
 1
 end_operator
@@ -2059,9 +2059,9 @@ lift hoist0 crate2 crate0 depot0
 0
 5
 0 7 0 3
-0 17 0 1
 0 11 -1 0
 0 13 0 1
+0 17 0 1
 0 22 5 2
 1
 end_operator
@@ -2070,9 +2070,9 @@ lift hoist0 crate2 crate1 depot0
 0
 5
 0 7 0 3
-0 17 0 1
 0 12 -1 0
 0 13 0 1
+0 17 0 1
 0 22 6 2
 1
 end_operator
@@ -2081,9 +2081,9 @@ lift hoist0 crate2 crate3 depot0
 0
 5
 0 7 0 3
-0 17 0 1
 0 13 0 1
 0 14 -1 0
+0 17 0 1
 0 22 7 2
 1
 end_operator
@@ -2092,9 +2092,9 @@ lift hoist0 crate2 crate4 depot0
 0
 5
 0 7 0 3
-0 17 0 1
 0 13 0 1
 0 15 -1 0
+0 17 0 1
 0 22 8 2
 1
 end_operator
@@ -2103,9 +2103,9 @@ lift hoist0 crate2 crate5 depot0
 0
 5
 0 7 0 3
-0 17 0 1
 0 13 0 1
 0 16 -1 0
+0 17 0 1
 0 22 9 2
 1
 end_operator
@@ -2113,10 +2113,10 @@ begin_operator
 lift hoist0 crate2 pallet0 depot0
 0
 5
-0 7 0 3
-0 17 0 1
-0 13 0 1
 0 2 -1 0
+0 7 0 3
+0 13 0 1
+0 17 0 1
 0 22 10 2
 1
 end_operator
@@ -2124,10 +2124,10 @@ begin_operator
 lift hoist0 crate2 pallet1 depot0
 0
 5
-0 7 0 3
-0 17 0 1
-0 13 0 1
 0 3 -1 0
+0 7 0 3
+0 13 0 1
+0 17 0 1
 0 22 11 2
 1
 end_operator
@@ -2135,10 +2135,10 @@ begin_operator
 lift hoist0 crate2 pallet2 depot0
 0
 5
-0 7 0 3
-0 17 0 1
-0 13 0 1
 0 4 -1 0
+0 7 0 3
+0 13 0 1
+0 17 0 1
 0 22 12 2
 1
 end_operator
@@ -2147,9 +2147,9 @@ lift hoist0 crate3 crate0 depot0
 0
 5
 0 8 0 3
-0 17 0 1
 0 11 -1 0
 0 14 0 1
+0 17 0 1
 0 23 5 2
 1
 end_operator
@@ -2158,9 +2158,9 @@ lift hoist0 crate3 crate1 depot0
 0
 5
 0 8 0 3
-0 17 0 1
 0 12 -1 0
 0 14 0 1
+0 17 0 1
 0 23 6 2
 1
 end_operator
@@ -2169,9 +2169,9 @@ lift hoist0 crate3 crate2 depot0
 0
 5
 0 8 0 3
-0 17 0 1
 0 13 -1 0
 0 14 0 1
+0 17 0 1
 0 23 7 2
 1
 end_operator
@@ -2180,9 +2180,9 @@ lift hoist0 crate3 crate4 depot0
 0
 5
 0 8 0 3
-0 17 0 1
 0 14 0 1
 0 15 -1 0
+0 17 0 1
 0 23 8 2
 1
 end_operator
@@ -2191,9 +2191,9 @@ lift hoist0 crate3 crate5 depot0
 0
 5
 0 8 0 3
-0 17 0 1
 0 14 0 1
 0 16 -1 0
+0 17 0 1
 0 23 9 2
 1
 end_operator
@@ -2201,10 +2201,10 @@ begin_operator
 lift hoist0 crate3 pallet0 depot0
 0
 5
-0 8 0 3
-0 17 0 1
-0 14 0 1
 0 2 -1 0
+0 8 0 3
+0 14 0 1
+0 17 0 1
 0 23 10 2
 1
 end_operator
@@ -2212,10 +2212,10 @@ begin_operator
 lift hoist0 crate3 pallet1 depot0
 0
 5
-0 8 0 3
-0 17 0 1
-0 14 0 1
 0 3 -1 0
+0 8 0 3
+0 14 0 1
+0 17 0 1
 0 23 11 2
 1
 end_operator
@@ -2223,10 +2223,10 @@ begin_operator
 lift hoist0 crate3 pallet2 depot0
 0
 5
-0 8 0 3
-0 17 0 1
-0 14 0 1
 0 4 -1 0
+0 8 0 3
+0 14 0 1
+0 17 0 1
 0 23 12 2
 1
 end_operator
@@ -2235,9 +2235,9 @@ lift hoist0 crate4 crate0 depot0
 0
 5
 0 9 0 3
-0 17 0 1
 0 11 -1 0
 0 15 0 1
+0 17 0 1
 0 24 5 2
 1
 end_operator
@@ -2246,9 +2246,9 @@ lift hoist0 crate4 crate1 depot0
 0
 5
 0 9 0 3
-0 17 0 1
 0 12 -1 0
 0 15 0 1
+0 17 0 1
 0 24 6 2
 1
 end_operator
@@ -2257,9 +2257,9 @@ lift hoist0 crate4 crate2 depot0
 0
 5
 0 9 0 3
-0 17 0 1
 0 13 -1 0
 0 15 0 1
+0 17 0 1
 0 24 7 2
 1
 end_operator
@@ -2268,9 +2268,9 @@ lift hoist0 crate4 crate3 depot0
 0
 5
 0 9 0 3
-0 17 0 1
 0 14 -1 0
 0 15 0 1
+0 17 0 1
 0 24 8 2
 1
 end_operator
@@ -2279,9 +2279,9 @@ lift hoist0 crate4 crate5 depot0
 0
 5
 0 9 0 3
-0 17 0 1
 0 15 0 1
 0 16 -1 0
+0 17 0 1
 0 24 9 2
 1
 end_operator
@@ -2289,10 +2289,10 @@ begin_operator
 lift hoist0 crate4 pallet0 depot0
 0
 5
-0 9 0 3
-0 17 0 1
-0 15 0 1
 0 2 -1 0
+0 9 0 3
+0 15 0 1
+0 17 0 1
 0 24 10 2
 1
 end_operator
@@ -2300,10 +2300,10 @@ begin_operator
 lift hoist0 crate4 pallet1 depot0
 0
 5
-0 9 0 3
-0 17 0 1
-0 15 0 1
 0 3 -1 0
+0 9 0 3
+0 15 0 1
+0 17 0 1
 0 24 11 2
 1
 end_operator
@@ -2311,10 +2311,10 @@ begin_operator
 lift hoist0 crate4 pallet2 depot0
 0
 5
-0 9 0 3
-0 17 0 1
-0 15 0 1
 0 4 -1 0
+0 9 0 3
+0 15 0 1
+0 17 0 1
 0 24 12 2
 1
 end_operator
@@ -2323,9 +2323,9 @@ lift hoist0 crate5 crate0 depot0
 0
 5
 0 10 0 3
-0 17 0 1
 0 11 -1 0
 0 16 0 1
+0 17 0 1
 0 25 5 2
 1
 end_operator
@@ -2334,9 +2334,9 @@ lift hoist0 crate5 crate1 depot0
 0
 5
 0 10 0 3
-0 17 0 1
 0 12 -1 0
 0 16 0 1
+0 17 0 1
 0 25 6 2
 1
 end_operator
@@ -2345,9 +2345,9 @@ lift hoist0 crate5 crate2 depot0
 0
 5
 0 10 0 3
-0 17 0 1
 0 13 -1 0
 0 16 0 1
+0 17 0 1
 0 25 7 2
 1
 end_operator
@@ -2356,9 +2356,9 @@ lift hoist0 crate5 crate3 depot0
 0
 5
 0 10 0 3
-0 17 0 1
 0 14 -1 0
 0 16 0 1
+0 17 0 1
 0 25 8 2
 1
 end_operator
@@ -2367,9 +2367,9 @@ lift hoist0 crate5 crate4 depot0
 0
 5
 0 10 0 3
-0 17 0 1
 0 15 -1 0
 0 16 0 1
+0 17 0 1
 0 25 9 2
 1
 end_operator
@@ -2377,10 +2377,10 @@ begin_operator
 lift hoist0 crate5 pallet0 depot0
 0
 5
-0 10 0 3
-0 17 0 1
-0 16 0 1
 0 2 -1 0
+0 10 0 3
+0 16 0 1
+0 17 0 1
 0 25 10 2
 1
 end_operator
@@ -2388,10 +2388,10 @@ begin_operator
 lift hoist0 crate5 pallet1 depot0
 0
 5
-0 10 0 3
-0 17 0 1
-0 16 0 1
 0 3 -1 0
+0 10 0 3
+0 16 0 1
+0 17 0 1
 0 25 11 2
 1
 end_operator
@@ -2399,10 +2399,10 @@ begin_operator
 lift hoist0 crate5 pallet2 depot0
 0
 5
-0 10 0 3
-0 17 0 1
-0 16 0 1
 0 4 -1 0
+0 10 0 3
+0 16 0 1
+0 17 0 1
 0 25 12 2
 1
 end_operator
@@ -2411,9 +2411,9 @@ lift hoist1 crate0 crate1 distributor0
 0
 5
 0 5 1 3
-0 18 0 1
 0 11 0 1
 0 12 -1 0
+0 18 0 1
 0 20 5 3
 1
 end_operator
@@ -2422,9 +2422,9 @@ lift hoist1 crate0 crate2 distributor0
 0
 5
 0 5 1 3
-0 18 0 1
 0 11 0 1
 0 13 -1 0
+0 18 0 1
 0 20 6 3
 1
 end_operator
@@ -2433,9 +2433,9 @@ lift hoist1 crate0 crate3 distributor0
 0
 5
 0 5 1 3
-0 18 0 1
 0 11 0 1
 0 14 -1 0
+0 18 0 1
 0 20 7 3
 1
 end_operator
@@ -2444,9 +2444,9 @@ lift hoist1 crate0 crate4 distributor0
 0
 5
 0 5 1 3
-0 18 0 1
 0 11 0 1
 0 15 -1 0
+0 18 0 1
 0 20 8 3
 1
 end_operator
@@ -2455,9 +2455,9 @@ lift hoist1 crate0 crate5 distributor0
 0
 5
 0 5 1 3
-0 18 0 1
 0 11 0 1
 0 16 -1 0
+0 18 0 1
 0 20 9 3
 1
 end_operator
@@ -2465,10 +2465,10 @@ begin_operator
 lift hoist1 crate0 pallet0 distributor0
 0
 5
-0 5 1 3
-0 18 0 1
-0 11 0 1
 0 2 -1 0
+0 5 1 3
+0 11 0 1
+0 18 0 1
 0 20 10 3
 1
 end_operator
@@ -2476,10 +2476,10 @@ begin_operator
 lift hoist1 crate0 pallet1 distributor0
 0
 5
-0 5 1 3
-0 18 0 1
-0 11 0 1
 0 3 -1 0
+0 5 1 3
+0 11 0 1
+0 18 0 1
 0 20 11 3
 1
 end_operator
@@ -2487,10 +2487,10 @@ begin_operator
 lift hoist1 crate0 pallet2 distributor0
 0
 5
-0 5 1 3
-0 18 0 1
-0 11 0 1
 0 4 -1 0
+0 5 1 3
+0 11 0 1
+0 18 0 1
 0 20 12 3
 1
 end_operator
@@ -2499,9 +2499,9 @@ lift hoist1 crate1 crate0 distributor0
 0
 5
 0 6 1 3
-0 18 0 1
 0 11 -1 0
 0 12 0 1
+0 18 0 1
 0 21 5 3
 1
 end_operator
@@ -2510,9 +2510,9 @@ lift hoist1 crate1 crate2 distributor0
 0
 5
 0 6 1 3
-0 18 0 1
 0 12 0 1
 0 13 -1 0
+0 18 0 1
 0 21 6 3
 1
 end_operator
@@ -2521,9 +2521,9 @@ lift hoist1 crate1 crate3 distributor0
 0
 5
 0 6 1 3
-0 18 0 1
 0 12 0 1
 0 14 -1 0
+0 18 0 1
 0 21 7 3
 1
 end_operator
@@ -2532,9 +2532,9 @@ lift hoist1 crate1 crate4 distributor0
 0
 5
 0 6 1 3
-0 18 0 1
 0 12 0 1
 0 15 -1 0
+0 18 0 1
 0 21 8 3
 1
 end_operator
@@ -2543,9 +2543,9 @@ lift hoist1 crate1 crate5 distributor0
 0
 5
 0 6 1 3
-0 18 0 1
 0 12 0 1
 0 16 -1 0
+0 18 0 1
 0 21 9 3
 1
 end_operator
@@ -2553,10 +2553,10 @@ begin_operator
 lift hoist1 crate1 pallet0 distributor0
 0
 5
-0 6 1 3
-0 18 0 1
-0 12 0 1
 0 2 -1 0
+0 6 1 3
+0 12 0 1
+0 18 0 1
 0 21 10 3
 1
 end_operator
@@ -2564,10 +2564,10 @@ begin_operator
 lift hoist1 crate1 pallet1 distributor0
 0
 5
-0 6 1 3
-0 18 0 1
-0 12 0 1
 0 3 -1 0
+0 6 1 3
+0 12 0 1
+0 18 0 1
 0 21 11 3
 1
 end_operator
@@ -2575,10 +2575,10 @@ begin_operator
 lift hoist1 crate1 pallet2 distributor0
 0
 5
-0 6 1 3
-0 18 0 1
-0 12 0 1
 0 4 -1 0
+0 6 1 3
+0 12 0 1
+0 18 0 1
 0 21 12 3
 1
 end_operator
@@ -2587,9 +2587,9 @@ lift hoist1 crate2 crate0 distributor0
 0
 5
 0 7 1 3
-0 18 0 1
 0 11 -1 0
 0 13 0 1
+0 18 0 1
 0 22 5 3
 1
 end_operator
@@ -2598,9 +2598,9 @@ lift hoist1 crate2 crate1 distributor0
 0
 5
 0 7 1 3
-0 18 0 1
 0 12 -1 0
 0 13 0 1
+0 18 0 1
 0 22 6 3
 1
 end_operator
@@ -2609,9 +2609,9 @@ lift hoist1 crate2 crate3 distributor0
 0
 5
 0 7 1 3
-0 18 0 1
 0 13 0 1
 0 14 -1 0
+0 18 0 1
 0 22 7 3
 1
 end_operator
@@ -2620,9 +2620,9 @@ lift hoist1 crate2 crate4 distributor0
 0
 5
 0 7 1 3
-0 18 0 1
 0 13 0 1
 0 15 -1 0
+0 18 0 1
 0 22 8 3
 1
 end_operator
@@ -2631,9 +2631,9 @@ lift hoist1 crate2 crate5 distributor0
 0
 5
 0 7 1 3
-0 18 0 1
 0 13 0 1
 0 16 -1 0
+0 18 0 1
 0 22 9 3
 1
 end_operator
@@ -2641,10 +2641,10 @@ begin_operator
 lift hoist1 crate2 pallet0 distributor0
 0
 5
-0 7 1 3
-0 18 0 1
-0 13 0 1
 0 2 -1 0
+0 7 1 3
+0 13 0 1
+0 18 0 1
 0 22 10 3
 1
 end_operator
@@ -2652,10 +2652,10 @@ begin_operator
 lift hoist1 crate2 pallet1 distributor0
 0
 5
-0 7 1 3
-0 18 0 1
-0 13 0 1
 0 3 -1 0
+0 7 1 3
+0 13 0 1
+0 18 0 1
 0 22 11 3
 1
 end_operator
@@ -2663,10 +2663,10 @@ begin_operator
 lift hoist1 crate2 pallet2 distributor0
 0
 5
-0 7 1 3
-0 18 0 1
-0 13 0 1
 0 4 -1 0
+0 7 1 3
+0 13 0 1
+0 18 0 1
 0 22 12 3
 1
 end_operator
@@ -2675,9 +2675,9 @@ lift hoist1 crate3 crate0 distributor0
 0
 5
 0 8 1 3
-0 18 0 1
 0 11 -1 0
 0 14 0 1
+0 18 0 1
 0 23 5 3
 1
 end_operator
@@ -2686,9 +2686,9 @@ lift hoist1 crate3 crate1 distributor0
 0
 5
 0 8 1 3
-0 18 0 1
 0 12 -1 0
 0 14 0 1
+0 18 0 1
 0 23 6 3
 1
 end_operator
@@ -2697,9 +2697,9 @@ lift hoist1 crate3 crate2 distributor0
 0
 5
 0 8 1 3
-0 18 0 1
 0 13 -1 0
 0 14 0 1
+0 18 0 1
 0 23 7 3
 1
 end_operator
@@ -2708,9 +2708,9 @@ lift hoist1 crate3 crate4 distributor0
 0
 5
 0 8 1 3
-0 18 0 1
 0 14 0 1
 0 15 -1 0
+0 18 0 1
 0 23 8 3
 1
 end_operator
@@ -2719,9 +2719,9 @@ lift hoist1 crate3 crate5 distributor0
 0
 5
 0 8 1 3
-0 18 0 1
 0 14 0 1
 0 16 -1 0
+0 18 0 1
 0 23 9 3
 1
 end_operator
@@ -2729,10 +2729,10 @@ begin_operator
 lift hoist1 crate3 pallet0 distributor0
 0
 5
-0 8 1 3
-0 18 0 1
-0 14 0 1
 0 2 -1 0
+0 8 1 3
+0 14 0 1
+0 18 0 1
 0 23 10 3
 1
 end_operator
@@ -2740,10 +2740,10 @@ begin_operator
 lift hoist1 crate3 pallet1 distributor0
 0
 5
-0 8 1 3
-0 18 0 1
-0 14 0 1
 0 3 -1 0
+0 8 1 3
+0 14 0 1
+0 18 0 1
 0 23 11 3
 1
 end_operator
@@ -2751,10 +2751,10 @@ begin_operator
 lift hoist1 crate3 pallet2 distributor0
 0
 5
-0 8 1 3
-0 18 0 1
-0 14 0 1
 0 4 -1 0
+0 8 1 3
+0 14 0 1
+0 18 0 1
 0 23 12 3
 1
 end_operator
@@ -2763,9 +2763,9 @@ lift hoist1 crate4 crate0 distributor0
 0
 5
 0 9 1 3
-0 18 0 1
 0 11 -1 0
 0 15 0 1
+0 18 0 1
 0 24 5 3
 1
 end_operator
@@ -2774,9 +2774,9 @@ lift hoist1 crate4 crate1 distributor0
 0
 5
 0 9 1 3
-0 18 0 1
 0 12 -1 0
 0 15 0 1
+0 18 0 1
 0 24 6 3
 1
 end_operator
@@ -2785,9 +2785,9 @@ lift hoist1 crate4 crate2 distributor0
 0
 5
 0 9 1 3
-0 18 0 1
 0 13 -1 0
 0 15 0 1
+0 18 0 1
 0 24 7 3
 1
 end_operator
@@ -2796,9 +2796,9 @@ lift hoist1 crate4 crate3 distributor0
 0
 5
 0 9 1 3
-0 18 0 1
 0 14 -1 0
 0 15 0 1
+0 18 0 1
 0 24 8 3
 1
 end_operator
@@ -2807,9 +2807,9 @@ lift hoist1 crate4 crate5 distributor0
 0
 5
 0 9 1 3
-0 18 0 1
 0 15 0 1
 0 16 -1 0
+0 18 0 1
 0 24 9 3
 1
 end_operator
@@ -2817,10 +2817,10 @@ begin_operator
 lift hoist1 crate4 pallet0 distributor0
 0
 5
-0 9 1 3
-0 18 0 1
-0 15 0 1
 0 2 -1 0
+0 9 1 3
+0 15 0 1
+0 18 0 1
 0 24 10 3
 1
 end_operator
@@ -2828,10 +2828,10 @@ begin_operator
 lift hoist1 crate4 pallet1 distributor0
 0
 5
-0 9 1 3
-0 18 0 1
-0 15 0 1
 0 3 -1 0
+0 9 1 3
+0 15 0 1
+0 18 0 1
 0 24 11 3
 1
 end_operator
@@ -2839,10 +2839,10 @@ begin_operator
 lift hoist1 crate4 pallet2 distributor0
 0
 5
-0 9 1 3
-0 18 0 1
-0 15 0 1
 0 4 -1 0
+0 9 1 3
+0 15 0 1
+0 18 0 1
 0 24 12 3
 1
 end_operator
@@ -2851,9 +2851,9 @@ lift hoist1 crate5 crate0 distributor0
 0
 5
 0 10 1 3
-0 18 0 1
 0 11 -1 0
 0 16 0 1
+0 18 0 1
 0 25 5 3
 1
 end_operator
@@ -2862,9 +2862,9 @@ lift hoist1 crate5 crate1 distributor0
 0
 5
 0 10 1 3
-0 18 0 1
 0 12 -1 0
 0 16 0 1
+0 18 0 1
 0 25 6 3
 1
 end_operator
@@ -2873,9 +2873,9 @@ lift hoist1 crate5 crate2 distributor0
 0
 5
 0 10 1 3
-0 18 0 1
 0 13 -1 0
 0 16 0 1
+0 18 0 1
 0 25 7 3
 1
 end_operator
@@ -2884,9 +2884,9 @@ lift hoist1 crate5 crate3 distributor0
 0
 5
 0 10 1 3
-0 18 0 1
 0 14 -1 0
 0 16 0 1
+0 18 0 1
 0 25 8 3
 1
 end_operator
@@ -2895,9 +2895,9 @@ lift hoist1 crate5 crate4 distributor0
 0
 5
 0 10 1 3
-0 18 0 1
 0 15 -1 0
 0 16 0 1
+0 18 0 1
 0 25 9 3
 1
 end_operator
@@ -2905,10 +2905,10 @@ begin_operator
 lift hoist1 crate5 pallet0 distributor0
 0
 5
-0 10 1 3
-0 18 0 1
-0 16 0 1
 0 2 -1 0
+0 10 1 3
+0 16 0 1
+0 18 0 1
 0 25 10 3
 1
 end_operator
@@ -2916,10 +2916,10 @@ begin_operator
 lift hoist1 crate5 pallet1 distributor0
 0
 5
-0 10 1 3
-0 18 0 1
-0 16 0 1
 0 3 -1 0
+0 10 1 3
+0 16 0 1
+0 18 0 1
 0 25 11 3
 1
 end_operator
@@ -2927,10 +2927,10 @@ begin_operator
 lift hoist1 crate5 pallet2 distributor0
 0
 5
-0 10 1 3
-0 18 0 1
-0 16 0 1
 0 4 -1 0
+0 10 1 3
+0 16 0 1
+0 18 0 1
 0 25 12 3
 1
 end_operator
@@ -2939,9 +2939,9 @@ lift hoist2 crate0 crate1 distributor1
 0
 5
 0 5 2 3
-0 19 0 1
 0 11 0 1
 0 12 -1 0
+0 19 0 1
 0 20 5 4
 1
 end_operator
@@ -2950,9 +2950,9 @@ lift hoist2 crate0 crate2 distributor1
 0
 5
 0 5 2 3
-0 19 0 1
 0 11 0 1
 0 13 -1 0
+0 19 0 1
 0 20 6 4
 1
 end_operator
@@ -2961,9 +2961,9 @@ lift hoist2 crate0 crate3 distributor1
 0
 5
 0 5 2 3
-0 19 0 1
 0 11 0 1
 0 14 -1 0
+0 19 0 1
 0 20 7 4
 1
 end_operator
@@ -2972,9 +2972,9 @@ lift hoist2 crate0 crate4 distributor1
 0
 5
 0 5 2 3
-0 19 0 1
 0 11 0 1
 0 15 -1 0
+0 19 0 1
 0 20 8 4
 1
 end_operator
@@ -2983,9 +2983,9 @@ lift hoist2 crate0 crate5 distributor1
 0
 5
 0 5 2 3
-0 19 0 1
 0 11 0 1
 0 16 -1 0
+0 19 0 1
 0 20 9 4
 1
 end_operator
@@ -2993,10 +2993,10 @@ begin_operator
 lift hoist2 crate0 pallet0 distributor1
 0
 5
-0 5 2 3
-0 19 0 1
-0 11 0 1
 0 2 -1 0
+0 5 2 3
+0 11 0 1
+0 19 0 1
 0 20 10 4
 1
 end_operator
@@ -3004,10 +3004,10 @@ begin_operator
 lift hoist2 crate0 pallet1 distributor1
 0
 5
-0 5 2 3
-0 19 0 1
-0 11 0 1
 0 3 -1 0
+0 5 2 3
+0 11 0 1
+0 19 0 1
 0 20 11 4
 1
 end_operator
@@ -3015,10 +3015,10 @@ begin_operator
 lift hoist2 crate0 pallet2 distributor1
 0
 5
-0 5 2 3
-0 19 0 1
-0 11 0 1
 0 4 -1 0
+0 5 2 3
+0 11 0 1
+0 19 0 1
 0 20 12 4
 1
 end_operator
@@ -3027,9 +3027,9 @@ lift hoist2 crate1 crate0 distributor1
 0
 5
 0 6 2 3
-0 19 0 1
 0 11 -1 0
 0 12 0 1
+0 19 0 1
 0 21 5 4
 1
 end_operator
@@ -3038,9 +3038,9 @@ lift hoist2 crate1 crate2 distributor1
 0
 5
 0 6 2 3
-0 19 0 1
 0 12 0 1
 0 13 -1 0
+0 19 0 1
 0 21 6 4
 1
 end_operator
@@ -3049,9 +3049,9 @@ lift hoist2 crate1 crate3 distributor1
 0
 5
 0 6 2 3
-0 19 0 1
 0 12 0 1
 0 14 -1 0
+0 19 0 1
 0 21 7 4
 1
 end_operator
@@ -3060,9 +3060,9 @@ lift hoist2 crate1 crate4 distributor1
 0
 5
 0 6 2 3
-0 19 0 1
 0 12 0 1
 0 15 -1 0
+0 19 0 1
 0 21 8 4
 1
 end_operator
@@ -3071,9 +3071,9 @@ lift hoist2 crate1 crate5 distributor1
 0
 5
 0 6 2 3
-0 19 0 1
 0 12 0 1
 0 16 -1 0
+0 19 0 1
 0 21 9 4
 1
 end_operator
@@ -3081,10 +3081,10 @@ begin_operator
 lift hoist2 crate1 pallet0 distributor1
 0
 5
-0 6 2 3
-0 19 0 1
-0 12 0 1
 0 2 -1 0
+0 6 2 3
+0 12 0 1
+0 19 0 1
 0 21 10 4
 1
 end_operator
@@ -3092,10 +3092,10 @@ begin_operator
 lift hoist2 crate1 pallet1 distributor1
 0
 5
-0 6 2 3
-0 19 0 1
-0 12 0 1
 0 3 -1 0
+0 6 2 3
+0 12 0 1
+0 19 0 1
 0 21 11 4
 1
 end_operator
@@ -3103,10 +3103,10 @@ begin_operator
 lift hoist2 crate1 pallet2 distributor1
 0
 5
-0 6 2 3
-0 19 0 1
-0 12 0 1
 0 4 -1 0
+0 6 2 3
+0 12 0 1
+0 19 0 1
 0 21 12 4
 1
 end_operator
@@ -3115,9 +3115,9 @@ lift hoist2 crate2 crate0 distributor1
 0
 5
 0 7 2 3
-0 19 0 1
 0 11 -1 0
 0 13 0 1
+0 19 0 1
 0 22 5 4
 1
 end_operator
@@ -3126,9 +3126,9 @@ lift hoist2 crate2 crate1 distributor1
 0
 5
 0 7 2 3
-0 19 0 1
 0 12 -1 0
 0 13 0 1
+0 19 0 1
 0 22 6 4
 1
 end_operator
@@ -3137,9 +3137,9 @@ lift hoist2 crate2 crate3 distributor1
 0
 5
 0 7 2 3
-0 19 0 1
 0 13 0 1
 0 14 -1 0
+0 19 0 1
 0 22 7 4
 1
 end_operator
@@ -3148,9 +3148,9 @@ lift hoist2 crate2 crate4 distributor1
 0
 5
 0 7 2 3
-0 19 0 1
 0 13 0 1
 0 15 -1 0
+0 19 0 1
 0 22 8 4
 1
 end_operator
@@ -3159,9 +3159,9 @@ lift hoist2 crate2 crate5 distributor1
 0
 5
 0 7 2 3
-0 19 0 1
 0 13 0 1
 0 16 -1 0
+0 19 0 1
 0 22 9 4
 1
 end_operator
@@ -3169,10 +3169,10 @@ begin_operator
 lift hoist2 crate2 pallet0 distributor1
 0
 5
-0 7 2 3
-0 19 0 1
-0 13 0 1
 0 2 -1 0
+0 7 2 3
+0 13 0 1
+0 19 0 1
 0 22 10 4
 1
 end_operator
@@ -3180,10 +3180,10 @@ begin_operator
 lift hoist2 crate2 pallet1 distributor1
 0
 5
-0 7 2 3
-0 19 0 1
-0 13 0 1
 0 3 -1 0
+0 7 2 3
+0 13 0 1
+0 19 0 1
 0 22 11 4
 1
 end_operator
@@ -3191,10 +3191,10 @@ begin_operator
 lift hoist2 crate2 pallet2 distributor1
 0
 5
-0 7 2 3
-0 19 0 1
-0 13 0 1
 0 4 -1 0
+0 7 2 3
+0 13 0 1
+0 19 0 1
 0 22 12 4
 1
 end_operator
@@ -3203,9 +3203,9 @@ lift hoist2 crate3 crate0 distributor1
 0
 5
 0 8 2 3
-0 19 0 1
 0 11 -1 0
 0 14 0 1
+0 19 0 1
 0 23 5 4
 1
 end_operator
@@ -3214,9 +3214,9 @@ lift hoist2 crate3 crate1 distributor1
 0
 5
 0 8 2 3
-0 19 0 1
 0 12 -1 0
 0 14 0 1
+0 19 0 1
 0 23 6 4
 1
 end_operator
@@ -3225,9 +3225,9 @@ lift hoist2 crate3 crate2 distributor1
 0
 5
 0 8 2 3
-0 19 0 1
 0 13 -1 0
 0 14 0 1
+0 19 0 1
 0 23 7 4
 1
 end_operator
@@ -3236,9 +3236,9 @@ lift hoist2 crate3 crate4 distributor1
 0
 5
 0 8 2 3
-0 19 0 1
 0 14 0 1
 0 15 -1 0
+0 19 0 1
 0 23 8 4
 1
 end_operator
@@ -3247,9 +3247,9 @@ lift hoist2 crate3 crate5 distributor1
 0
 5
 0 8 2 3
-0 19 0 1
 0 14 0 1
 0 16 -1 0
+0 19 0 1
 0 23 9 4
 1
 end_operator
@@ -3257,10 +3257,10 @@ begin_operator
 lift hoist2 crate3 pallet0 distributor1
 0
 5
-0 8 2 3
-0 19 0 1
-0 14 0 1
 0 2 -1 0
+0 8 2 3
+0 14 0 1
+0 19 0 1
 0 23 10 4
 1
 end_operator
@@ -3268,10 +3268,10 @@ begin_operator
 lift hoist2 crate3 pallet1 distributor1
 0
 5
-0 8 2 3
-0 19 0 1
-0 14 0 1
 0 3 -1 0
+0 8 2 3
+0 14 0 1
+0 19 0 1
 0 23 11 4
 1
 end_operator
@@ -3279,10 +3279,10 @@ begin_operator
 lift hoist2 crate3 pallet2 distributor1
 0
 5
-0 8 2 3
-0 19 0 1
-0 14 0 1
 0 4 -1 0
+0 8 2 3
+0 14 0 1
+0 19 0 1
 0 23 12 4
 1
 end_operator
@@ -3291,9 +3291,9 @@ lift hoist2 crate4 crate0 distributor1
 0
 5
 0 9 2 3
-0 19 0 1
 0 11 -1 0
 0 15 0 1
+0 19 0 1
 0 24 5 4
 1
 end_operator
@@ -3302,9 +3302,9 @@ lift hoist2 crate4 crate1 distributor1
 0
 5
 0 9 2 3
-0 19 0 1
 0 12 -1 0
 0 15 0 1
+0 19 0 1
 0 24 6 4
 1
 end_operator
@@ -3313,9 +3313,9 @@ lift hoist2 crate4 crate2 distributor1
 0
 5
 0 9 2 3
-0 19 0 1
 0 13 -1 0
 0 15 0 1
+0 19 0 1
 0 24 7 4
 1
 end_operator
@@ -3324,9 +3324,9 @@ lift hoist2 crate4 crate3 distributor1
 0
 5
 0 9 2 3
-0 19 0 1
 0 14 -1 0
 0 15 0 1
+0 19 0 1
 0 24 8 4
 1
 end_operator
@@ -3335,9 +3335,9 @@ lift hoist2 crate4 crate5 distributor1
 0
 5
 0 9 2 3
-0 19 0 1
 0 15 0 1
 0 16 -1 0
+0 19 0 1
 0 24 9 4
 1
 end_operator
@@ -3345,10 +3345,10 @@ begin_operator
 lift hoist2 crate4 pallet0 distributor1
 0
 5
-0 9 2 3
-0 19 0 1
-0 15 0 1
 0 2 -1 0
+0 9 2 3
+0 15 0 1
+0 19 0 1
 0 24 10 4
 1
 end_operator
@@ -3356,10 +3356,10 @@ begin_operator
 lift hoist2 crate4 pallet1 distributor1
 0
 5
-0 9 2 3
-0 19 0 1
-0 15 0 1
 0 3 -1 0
+0 9 2 3
+0 15 0 1
+0 19 0 1
 0 24 11 4
 1
 end_operator
@@ -3367,10 +3367,10 @@ begin_operator
 lift hoist2 crate4 pallet2 distributor1
 0
 5
-0 9 2 3
-0 19 0 1
-0 15 0 1
 0 4 -1 0
+0 9 2 3
+0 15 0 1
+0 19 0 1
 0 24 12 4
 1
 end_operator
@@ -3379,9 +3379,9 @@ lift hoist2 crate5 crate0 distributor1
 0
 5
 0 10 2 3
-0 19 0 1
 0 11 -1 0
 0 16 0 1
+0 19 0 1
 0 25 5 4
 1
 end_operator
@@ -3390,9 +3390,9 @@ lift hoist2 crate5 crate1 distributor1
 0
 5
 0 10 2 3
-0 19 0 1
 0 12 -1 0
 0 16 0 1
+0 19 0 1
 0 25 6 4
 1
 end_operator
@@ -3401,9 +3401,9 @@ lift hoist2 crate5 crate2 distributor1
 0
 5
 0 10 2 3
-0 19 0 1
 0 13 -1 0
 0 16 0 1
+0 19 0 1
 0 25 7 4
 1
 end_operator
@@ -3412,9 +3412,9 @@ lift hoist2 crate5 crate3 distributor1
 0
 5
 0 10 2 3
-0 19 0 1
 0 14 -1 0
 0 16 0 1
+0 19 0 1
 0 25 8 4
 1
 end_operator
@@ -3423,9 +3423,9 @@ lift hoist2 crate5 crate4 distributor1
 0
 5
 0 10 2 3
-0 19 0 1
 0 15 -1 0
 0 16 0 1
+0 19 0 1
 0 25 9 4
 1
 end_operator
@@ -3433,10 +3433,10 @@ begin_operator
 lift hoist2 crate5 pallet0 distributor1
 0
 5
-0 10 2 3
-0 19 0 1
-0 16 0 1
 0 2 -1 0
+0 10 2 3
+0 16 0 1
+0 19 0 1
 0 25 10 4
 1
 end_operator
@@ -3444,10 +3444,10 @@ begin_operator
 lift hoist2 crate5 pallet1 distributor1
 0
 5
-0 10 2 3
-0 19 0 1
-0 16 0 1
 0 3 -1 0
+0 10 2 3
+0 16 0 1
+0 19 0 1
 0 25 11 4
 1
 end_operator
@@ -3455,10 +3455,10 @@ begin_operator
 lift hoist2 crate5 pallet2 distributor1
 0
 5
-0 10 2 3
-0 19 0 1
-0 16 0 1
 0 4 -1 0
+0 10 2 3
+0 16 0 1
+0 19 0 1
 0 25 12 4
 1
 end_operator

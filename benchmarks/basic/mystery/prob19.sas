@@ -728,16 +728,16 @@ begin_operator
 feast aesthetics bacon lobster bavaria manitoba
 0
 2
-0 10 0 8
 0 4 1 0
+0 10 0 8
 1
 end_operator
 begin_operator
 feast aesthetics bacon wonderbread bavaria manitoba
 0
 2
-0 10 0 12
 0 4 1 0
+0 10 0 12
 1
 end_operator
 begin_operator
@@ -816,48 +816,48 @@ begin_operator
 feast aesthetics flounder ham bavaria manitoba
 0
 2
-0 10 3 4
 0 9 1 0
+0 10 3 4
 1
 end_operator
 begin_operator
 feast aesthetics flounder ham manitoba pennsylvania
 0
 2
-0 10 3 4
 0 9 3 1
+0 10 3 4
 1
 end_operator
 begin_operator
 feast aesthetics flounder ham pennsylvania oregon
 0
 2
-0 10 3 4
 0 9 2 3
+0 10 3 4
 1
 end_operator
 begin_operator
 feast aesthetics flounder haroset bavaria manitoba
 0
 2
-0 10 3 5
 0 9 1 0
+0 10 3 5
 1
 end_operator
 begin_operator
 feast aesthetics flounder haroset manitoba pennsylvania
 0
 2
-0 10 3 5
 0 9 3 1
+0 10 3 5
 1
 end_operator
 begin_operator
 feast aesthetics flounder haroset pennsylvania oregon
 0
 2
-0 10 3 5
 0 9 2 3
+0 10 3 5
 1
 end_operator
 begin_operator
@@ -944,24 +944,24 @@ begin_operator
 feast aesthetics haroset flounder bavaria manitoba
 0
 2
-0 10 5 3
 0 7 1 0
+0 10 5 3
 1
 end_operator
 begin_operator
 feast aesthetics haroset lamb bavaria manitoba
 0
 2
-0 10 5 6
 0 7 1 0
+0 10 5 6
 1
 end_operator
 begin_operator
 feast aesthetics haroset lobster bavaria manitoba
 0
 2
-0 10 5 8
 0 7 1 0
+0 10 5 8
 1
 end_operator
 begin_operator
@@ -1048,40 +1048,40 @@ begin_operator
 feast aesthetics lemon beef bavaria manitoba
 0
 2
-0 10 7 1
 0 8 1 0
+0 10 7 1
 1
 end_operator
 begin_operator
 feast aesthetics lemon cantelope bavaria manitoba
 0
 2
-0 10 7 2
 0 8 1 0
+0 10 7 2
 1
 end_operator
 begin_operator
 feast aesthetics lemon ham bavaria manitoba
 0
 2
-0 10 7 4
 0 8 1 0
+0 10 7 4
 1
 end_operator
 begin_operator
 feast aesthetics lobster bacon bavaria manitoba
 0
 2
-0 10 8 0
 0 5 1 0
+0 10 8 0
 1
 end_operator
 begin_operator
 feast aesthetics lobster haroset bavaria manitoba
 0
 2
-0 10 8 5
 0 5 1 0
+0 10 8 5
 1
 end_operator
 begin_operator
@@ -1184,152 +1184,152 @@ begin_operator
 feast aesthetics tofu marzipan bavaria manitoba
 0
 2
-0 10 11 9
 0 6 1 0
+0 10 11 9
 1
 end_operator
 begin_operator
 feast aesthetics tofu onion bavaria manitoba
 0
 2
-0 10 11 10
 0 6 1 0
+0 10 11 10
 1
 end_operator
 begin_operator
 feast entertainment bacon lobster bavaria manitoba
 0
 2
-0 12 0 8
 0 4 1 0
+0 12 0 8
 1
 end_operator
 begin_operator
 feast entertainment bacon wonderbread bavaria manitoba
 0
 2
-0 12 0 12
 0 4 1 0
+0 12 0 12
 1
 end_operator
 begin_operator
 feast entertainment beef lamb bavaria manitoba
 0
 2
-0 12 1 6
 0 11 1 0
+0 12 1 6
 1
 end_operator
 begin_operator
 feast entertainment beef lamb manitoba pennsylvania
 0
 2
-0 12 1 6
 0 11 3 1
+0 12 1 6
 1
 end_operator
 begin_operator
 feast entertainment beef lamb pennsylvania oregon
 0
 2
-0 12 1 6
 0 11 2 3
+0 12 1 6
 1
 end_operator
 begin_operator
 feast entertainment beef lemon bavaria manitoba
 0
 2
-0 12 1 7
 0 11 1 0
+0 12 1 7
 1
 end_operator
 begin_operator
 feast entertainment beef lemon manitoba pennsylvania
 0
 2
-0 12 1 7
 0 11 3 1
+0 12 1 7
 1
 end_operator
 begin_operator
 feast entertainment beef lemon pennsylvania oregon
 0
 2
-0 12 1 7
 0 11 2 3
+0 12 1 7
 1
 end_operator
 begin_operator
 feast entertainment beef marzipan bavaria manitoba
 0
 2
-0 12 1 9
 0 11 1 0
+0 12 1 9
 1
 end_operator
 begin_operator
 feast entertainment beef marzipan manitoba pennsylvania
 0
 2
-0 12 1 9
 0 11 3 1
+0 12 1 9
 1
 end_operator
 begin_operator
 feast entertainment beef marzipan pennsylvania oregon
 0
 2
-0 12 1 9
 0 11 2 3
+0 12 1 9
 1
 end_operator
 begin_operator
 feast entertainment flounder ham bavaria manitoba
 0
 2
-0 12 3 4
 0 9 1 0
+0 12 3 4
 1
 end_operator
 begin_operator
 feast entertainment flounder ham manitoba pennsylvania
 0
 2
-0 12 3 4
 0 9 3 1
+0 12 3 4
 1
 end_operator
 begin_operator
 feast entertainment flounder ham pennsylvania oregon
 0
 2
-0 12 3 4
 0 9 2 3
+0 12 3 4
 1
 end_operator
 begin_operator
 feast entertainment flounder haroset bavaria manitoba
 0
 2
-0 12 3 5
 0 9 1 0
+0 12 3 5
 1
 end_operator
 begin_operator
 feast entertainment flounder haroset manitoba pennsylvania
 0
 2
-0 12 3 5
 0 9 3 1
+0 12 3 5
 1
 end_operator
 begin_operator
 feast entertainment flounder haroset pennsylvania oregon
 0
 2
-0 12 3 5
 0 9 2 3
+0 12 3 5
 1
 end_operator
 begin_operator
@@ -1416,24 +1416,24 @@ begin_operator
 feast entertainment haroset flounder bavaria manitoba
 0
 2
-0 12 5 3
 0 7 1 0
+0 12 5 3
 1
 end_operator
 begin_operator
 feast entertainment haroset lamb bavaria manitoba
 0
 2
-0 12 5 6
 0 7 1 0
+0 12 5 6
 1
 end_operator
 begin_operator
 feast entertainment haroset lobster bavaria manitoba
 0
 2
-0 12 5 8
 0 7 1 0
+0 12 5 8
 1
 end_operator
 begin_operator
@@ -1520,40 +1520,40 @@ begin_operator
 feast entertainment lemon beef bavaria manitoba
 0
 2
-0 12 7 1
 0 8 1 0
+0 12 7 1
 1
 end_operator
 begin_operator
 feast entertainment lemon cantelope bavaria manitoba
 0
 2
-0 12 7 2
 0 8 1 0
+0 12 7 2
 1
 end_operator
 begin_operator
 feast entertainment lemon ham bavaria manitoba
 0
 2
-0 12 7 4
 0 8 1 0
+0 12 7 4
 1
 end_operator
 begin_operator
 feast entertainment lobster bacon bavaria manitoba
 0
 2
-0 12 8 0
 0 5 1 0
+0 12 8 0
 1
 end_operator
 begin_operator
 feast entertainment lobster haroset bavaria manitoba
 0
 2
-0 12 8 5
 0 5 1 0
+0 12 8 5
 1
 end_operator
 begin_operator
@@ -1656,32 +1656,32 @@ begin_operator
 feast entertainment tofu marzipan bavaria manitoba
 0
 2
-0 12 11 9
 0 6 1 0
+0 12 11 9
 1
 end_operator
 begin_operator
 feast entertainment tofu onion bavaria manitoba
 0
 2
-0 12 11 10
 0 6 1 0
+0 12 11 10
 1
 end_operator
 begin_operator
 feast expectation okra snickers bavaria manitoba
 0
 2
-0 1 0 2
 0 0 1 0
+0 1 0 2
 1
 end_operator
 begin_operator
 feast expectation okra wonderbread bavaria manitoba
 0
 2
-0 1 0 3
 0 0 1 0
+0 1 0 3
 1
 end_operator
 begin_operator
@@ -1712,16 +1712,16 @@ begin_operator
 feast learning okra snickers bavaria manitoba
 0
 2
-0 2 0 2
 0 0 1 0
+0 2 0 2
 1
 end_operator
 begin_operator
 feast learning okra wonderbread bavaria manitoba
 0
 2
-0 2 0 3
 0 0 1 0
+0 2 0 3
 1
 end_operator
 begin_operator
@@ -1752,240 +1752,240 @@ begin_operator
 feast love bacon lobster bavaria manitoba
 0
 2
-0 14 0 8
 0 4 1 0
+0 14 0 8
 1
 end_operator
 begin_operator
 feast love bacon wonderbread bavaria manitoba
 0
 2
-0 14 0 12
 0 4 1 0
+0 14 0 12
 1
 end_operator
 begin_operator
 feast love beef lamb bavaria manitoba
 0
 2
-0 14 1 6
 0 11 1 0
+0 14 1 6
 1
 end_operator
 begin_operator
 feast love beef lamb manitoba pennsylvania
 0
 2
-0 14 1 6
 0 11 3 1
+0 14 1 6
 1
 end_operator
 begin_operator
 feast love beef lamb pennsylvania oregon
 0
 2
-0 14 1 6
 0 11 2 3
+0 14 1 6
 1
 end_operator
 begin_operator
 feast love beef lemon bavaria manitoba
 0
 2
-0 14 1 7
 0 11 1 0
+0 14 1 7
 1
 end_operator
 begin_operator
 feast love beef lemon manitoba pennsylvania
 0
 2
-0 14 1 7
 0 11 3 1
+0 14 1 7
 1
 end_operator
 begin_operator
 feast love beef lemon pennsylvania oregon
 0
 2
-0 14 1 7
 0 11 2 3
+0 14 1 7
 1
 end_operator
 begin_operator
 feast love beef marzipan bavaria manitoba
 0
 2
-0 14 1 9
 0 11 1 0
+0 14 1 9
 1
 end_operator
 begin_operator
 feast love beef marzipan manitoba pennsylvania
 0
 2
-0 14 1 9
 0 11 3 1
+0 14 1 9
 1
 end_operator
 begin_operator
 feast love beef marzipan pennsylvania oregon
 0
 2
-0 14 1 9
 0 11 2 3
+0 14 1 9
 1
 end_operator
 begin_operator
 feast love flounder ham bavaria manitoba
 0
 2
-0 14 3 4
 0 9 1 0
+0 14 3 4
 1
 end_operator
 begin_operator
 feast love flounder ham manitoba pennsylvania
 0
 2
-0 14 3 4
 0 9 3 1
+0 14 3 4
 1
 end_operator
 begin_operator
 feast love flounder ham pennsylvania oregon
 0
 2
-0 14 3 4
 0 9 2 3
+0 14 3 4
 1
 end_operator
 begin_operator
 feast love flounder haroset bavaria manitoba
 0
 2
-0 14 3 5
 0 9 1 0
+0 14 3 5
 1
 end_operator
 begin_operator
 feast love flounder haroset manitoba pennsylvania
 0
 2
-0 14 3 5
 0 9 3 1
+0 14 3 5
 1
 end_operator
 begin_operator
 feast love flounder haroset pennsylvania oregon
 0
 2
-0 14 3 5
 0 9 2 3
+0 14 3 5
 1
 end_operator
 begin_operator
 feast love ham flounder bavaria manitoba
 0
 2
-0 14 4 3
 0 13 3 0
+0 14 4 3
 1
 end_operator
 begin_operator
 feast love ham flounder goias bosnia
 0
 2
-0 14 4 3
 0 13 1 2
+0 14 4 3
 1
 end_operator
 begin_operator
 feast love ham flounder manitoba pennsylvania
 0
 2
-0 14 4 3
 0 13 5 3
+0 14 4 3
 1
 end_operator
 begin_operator
 feast love ham flounder oregon goias
 0
 2
-0 14 4 3
 0 13 2 4
+0 14 4 3
 1
 end_operator
 begin_operator
 feast love ham flounder pennsylvania oregon
 0
 2
-0 14 4 3
 0 13 4 5
+0 14 4 3
 1
 end_operator
 begin_operator
 feast love ham lemon bavaria manitoba
 0
 2
-0 14 4 7
 0 13 3 0
+0 14 4 7
 1
 end_operator
 begin_operator
 feast love ham lemon goias bosnia
 0
 2
-0 14 4 7
 0 13 1 2
+0 14 4 7
 1
 end_operator
 begin_operator
 feast love ham lemon manitoba pennsylvania
 0
 2
-0 14 4 7
 0 13 5 3
+0 14 4 7
 1
 end_operator
 begin_operator
 feast love ham lemon oregon goias
 0
 2
-0 14 4 7
 0 13 2 4
+0 14 4 7
 1
 end_operator
 begin_operator
 feast love ham lemon pennsylvania oregon
 0
 2
-0 14 4 7
 0 13 4 5
+0 14 4 7
 1
 end_operator
 begin_operator
 feast love haroset flounder bavaria manitoba
 0
 2
-0 14 5 3
 0 7 1 0
+0 14 5 3
 1
 end_operator
 begin_operator
 feast love haroset lamb bavaria manitoba
 0
 2
-0 14 5 6
 0 7 1 0
+0 14 5 6
 1
 end_operator
 begin_operator
 feast love haroset lobster bavaria manitoba
 0
 2
-0 14 5 8
 0 7 1 0
+0 14 5 8
 1
 end_operator
 begin_operator
@@ -2072,40 +2072,40 @@ begin_operator
 feast love lemon beef bavaria manitoba
 0
 2
-0 14 7 1
 0 8 1 0
+0 14 7 1
 1
 end_operator
 begin_operator
 feast love lemon cantelope bavaria manitoba
 0
 2
-0 14 7 2
 0 8 1 0
+0 14 7 2
 1
 end_operator
 begin_operator
 feast love lemon ham bavaria manitoba
 0
 2
-0 14 7 4
 0 8 1 0
+0 14 7 4
 1
 end_operator
 begin_operator
 feast love lobster bacon bavaria manitoba
 0
 2
-0 14 8 0
 0 5 1 0
+0 14 8 0
 1
 end_operator
 begin_operator
 feast love lobster haroset bavaria manitoba
 0
 2
-0 14 8 5
 0 5 1 0
+0 14 8 5
 1
 end_operator
 begin_operator
@@ -2208,376 +2208,376 @@ begin_operator
 feast love tofu marzipan bavaria manitoba
 0
 2
-0 14 11 9
 0 6 1 0
+0 14 11 9
 1
 end_operator
 begin_operator
 feast love tofu onion bavaria manitoba
 0
 2
-0 14 11 10
 0 6 1 0
+0 14 11 10
 1
 end_operator
 begin_operator
 feast lubricity bacon lobster bavaria manitoba
 0
 2
-0 16 0 8
 0 4 1 0
+0 16 0 8
 1
 end_operator
 begin_operator
 feast lubricity bacon wonderbread bavaria manitoba
 0
 2
-0 16 0 12
 0 4 1 0
+0 16 0 12
 1
 end_operator
 begin_operator
 feast lubricity beef lamb bavaria manitoba
 0
 2
-0 16 1 6
 0 11 1 0
+0 16 1 6
 1
 end_operator
 begin_operator
 feast lubricity beef lamb manitoba pennsylvania
 0
 2
-0 16 1 6
 0 11 3 1
+0 16 1 6
 1
 end_operator
 begin_operator
 feast lubricity beef lamb pennsylvania oregon
 0
 2
-0 16 1 6
 0 11 2 3
+0 16 1 6
 1
 end_operator
 begin_operator
 feast lubricity beef lemon bavaria manitoba
 0
 2
-0 16 1 7
 0 11 1 0
+0 16 1 7
 1
 end_operator
 begin_operator
 feast lubricity beef lemon manitoba pennsylvania
 0
 2
-0 16 1 7
 0 11 3 1
+0 16 1 7
 1
 end_operator
 begin_operator
 feast lubricity beef lemon pennsylvania oregon
 0
 2
-0 16 1 7
 0 11 2 3
+0 16 1 7
 1
 end_operator
 begin_operator
 feast lubricity beef marzipan bavaria manitoba
 0
 2
-0 16 1 9
 0 11 1 0
+0 16 1 9
 1
 end_operator
 begin_operator
 feast lubricity beef marzipan manitoba pennsylvania
 0
 2
-0 16 1 9
 0 11 3 1
+0 16 1 9
 1
 end_operator
 begin_operator
 feast lubricity beef marzipan pennsylvania oregon
 0
 2
-0 16 1 9
 0 11 2 3
+0 16 1 9
 1
 end_operator
 begin_operator
 feast lubricity flounder ham bavaria manitoba
 0
 2
-0 16 3 4
 0 9 1 0
+0 16 3 4
 1
 end_operator
 begin_operator
 feast lubricity flounder ham manitoba pennsylvania
 0
 2
-0 16 3 4
 0 9 3 1
+0 16 3 4
 1
 end_operator
 begin_operator
 feast lubricity flounder ham pennsylvania oregon
 0
 2
-0 16 3 4
 0 9 2 3
+0 16 3 4
 1
 end_operator
 begin_operator
 feast lubricity flounder haroset bavaria manitoba
 0
 2
-0 16 3 5
 0 9 1 0
+0 16 3 5
 1
 end_operator
 begin_operator
 feast lubricity flounder haroset manitoba pennsylvania
 0
 2
-0 16 3 5
 0 9 3 1
+0 16 3 5
 1
 end_operator
 begin_operator
 feast lubricity flounder haroset pennsylvania oregon
 0
 2
-0 16 3 5
 0 9 2 3
+0 16 3 5
 1
 end_operator
 begin_operator
 feast lubricity ham flounder bavaria manitoba
 0
 2
-0 16 4 3
 0 13 3 0
+0 16 4 3
 1
 end_operator
 begin_operator
 feast lubricity ham flounder goias bosnia
 0
 2
-0 16 4 3
 0 13 1 2
+0 16 4 3
 1
 end_operator
 begin_operator
 feast lubricity ham flounder manitoba pennsylvania
 0
 2
-0 16 4 3
 0 13 5 3
+0 16 4 3
 1
 end_operator
 begin_operator
 feast lubricity ham flounder oregon goias
 0
 2
-0 16 4 3
 0 13 2 4
+0 16 4 3
 1
 end_operator
 begin_operator
 feast lubricity ham flounder pennsylvania oregon
 0
 2
-0 16 4 3
 0 13 4 5
+0 16 4 3
 1
 end_operator
 begin_operator
 feast lubricity ham lemon bavaria manitoba
 0
 2
-0 16 4 7
 0 13 3 0
+0 16 4 7
 1
 end_operator
 begin_operator
 feast lubricity ham lemon goias bosnia
 0
 2
-0 16 4 7
 0 13 1 2
+0 16 4 7
 1
 end_operator
 begin_operator
 feast lubricity ham lemon manitoba pennsylvania
 0
 2
-0 16 4 7
 0 13 5 3
+0 16 4 7
 1
 end_operator
 begin_operator
 feast lubricity ham lemon oregon goias
 0
 2
-0 16 4 7
 0 13 2 4
+0 16 4 7
 1
 end_operator
 begin_operator
 feast lubricity ham lemon pennsylvania oregon
 0
 2
-0 16 4 7
 0 13 4 5
+0 16 4 7
 1
 end_operator
 begin_operator
 feast lubricity haroset flounder bavaria manitoba
 0
 2
-0 16 5 3
 0 7 1 0
+0 16 5 3
 1
 end_operator
 begin_operator
 feast lubricity haroset lamb bavaria manitoba
 0
 2
-0 16 5 6
 0 7 1 0
+0 16 5 6
 1
 end_operator
 begin_operator
 feast lubricity haroset lobster bavaria manitoba
 0
 2
-0 16 5 8
 0 7 1 0
+0 16 5 8
 1
 end_operator
 begin_operator
 feast lubricity lamb beef bavaria manitoba
 0
 2
-0 16 6 1
 0 15 3 0
+0 16 6 1
 1
 end_operator
 begin_operator
 feast lubricity lamb beef goias bosnia
 0
 2
-0 16 6 1
 0 15 1 2
+0 16 6 1
 1
 end_operator
 begin_operator
 feast lubricity lamb beef manitoba pennsylvania
 0
 2
-0 16 6 1
 0 15 5 3
+0 16 6 1
 1
 end_operator
 begin_operator
 feast lubricity lamb beef oregon goias
 0
 2
-0 16 6 1
 0 15 2 4
+0 16 6 1
 1
 end_operator
 begin_operator
 feast lubricity lamb beef pennsylvania oregon
 0
 2
-0 16 6 1
 0 15 4 5
+0 16 6 1
 1
 end_operator
 begin_operator
 feast lubricity lamb haroset bavaria manitoba
 0
 2
-0 16 6 5
 0 15 3 0
+0 16 6 5
 1
 end_operator
 begin_operator
 feast lubricity lamb haroset goias bosnia
 0
 2
-0 16 6 5
 0 15 1 2
+0 16 6 5
 1
 end_operator
 begin_operator
 feast lubricity lamb haroset manitoba pennsylvania
 0
 2
-0 16 6 5
 0 15 5 3
+0 16 6 5
 1
 end_operator
 begin_operator
 feast lubricity lamb haroset oregon goias
 0
 2
-0 16 6 5
 0 15 2 4
+0 16 6 5
 1
 end_operator
 begin_operator
 feast lubricity lamb haroset pennsylvania oregon
 0
 2
-0 16 6 5
 0 15 4 5
+0 16 6 5
 1
 end_operator
 begin_operator
 feast lubricity lemon beef bavaria manitoba
 0
 2
-0 16 7 1
 0 8 1 0
+0 16 7 1
 1
 end_operator
 begin_operator
 feast lubricity lemon cantelope bavaria manitoba
 0
 2
-0 16 7 2
 0 8 1 0
+0 16 7 2
 1
 end_operator
 begin_operator
 feast lubricity lemon ham bavaria manitoba
 0
 2
-0 16 7 4
 0 8 1 0
+0 16 7 4
 1
 end_operator
 begin_operator
 feast lubricity lobster bacon bavaria manitoba
 0
 2
-0 16 8 0
 0 5 1 0
+0 16 8 0
 1
 end_operator
 begin_operator
 feast lubricity lobster haroset bavaria manitoba
 0
 2
-0 16 8 5
 0 5 1 0
+0 16 8 5
 1
 end_operator
 begin_operator
@@ -2680,376 +2680,376 @@ begin_operator
 feast lubricity tofu marzipan bavaria manitoba
 0
 2
-0 16 11 9
 0 6 1 0
+0 16 11 9
 1
 end_operator
 begin_operator
 feast lubricity tofu onion bavaria manitoba
 0
 2
-0 16 11 10
 0 6 1 0
+0 16 11 10
 1
 end_operator
 begin_operator
 feast stimulation bacon lobster bavaria manitoba
 0
 2
-0 17 0 8
 0 4 1 0
+0 17 0 8
 1
 end_operator
 begin_operator
 feast stimulation bacon wonderbread bavaria manitoba
 0
 2
-0 17 0 12
 0 4 1 0
+0 17 0 12
 1
 end_operator
 begin_operator
 feast stimulation beef lamb bavaria manitoba
 0
 2
-0 17 1 6
 0 11 1 0
+0 17 1 6
 1
 end_operator
 begin_operator
 feast stimulation beef lamb manitoba pennsylvania
 0
 2
-0 17 1 6
 0 11 3 1
+0 17 1 6
 1
 end_operator
 begin_operator
 feast stimulation beef lamb pennsylvania oregon
 0
 2
-0 17 1 6
 0 11 2 3
+0 17 1 6
 1
 end_operator
 begin_operator
 feast stimulation beef lemon bavaria manitoba
 0
 2
-0 17 1 7
 0 11 1 0
+0 17 1 7
 1
 end_operator
 begin_operator
 feast stimulation beef lemon manitoba pennsylvania
 0
 2
-0 17 1 7
 0 11 3 1
+0 17 1 7
 1
 end_operator
 begin_operator
 feast stimulation beef lemon pennsylvania oregon
 0
 2
-0 17 1 7
 0 11 2 3
+0 17 1 7
 1
 end_operator
 begin_operator
 feast stimulation beef marzipan bavaria manitoba
 0
 2
-0 17 1 9
 0 11 1 0
+0 17 1 9
 1
 end_operator
 begin_operator
 feast stimulation beef marzipan manitoba pennsylvania
 0
 2
-0 17 1 9
 0 11 3 1
+0 17 1 9
 1
 end_operator
 begin_operator
 feast stimulation beef marzipan pennsylvania oregon
 0
 2
-0 17 1 9
 0 11 2 3
+0 17 1 9
 1
 end_operator
 begin_operator
 feast stimulation flounder ham bavaria manitoba
 0
 2
-0 17 3 4
 0 9 1 0
+0 17 3 4
 1
 end_operator
 begin_operator
 feast stimulation flounder ham manitoba pennsylvania
 0
 2
-0 17 3 4
 0 9 3 1
+0 17 3 4
 1
 end_operator
 begin_operator
 feast stimulation flounder ham pennsylvania oregon
 0
 2
-0 17 3 4
 0 9 2 3
+0 17 3 4
 1
 end_operator
 begin_operator
 feast stimulation flounder haroset bavaria manitoba
 0
 2
-0 17 3 5
 0 9 1 0
+0 17 3 5
 1
 end_operator
 begin_operator
 feast stimulation flounder haroset manitoba pennsylvania
 0
 2
-0 17 3 5
 0 9 3 1
+0 17 3 5
 1
 end_operator
 begin_operator
 feast stimulation flounder haroset pennsylvania oregon
 0
 2
-0 17 3 5
 0 9 2 3
+0 17 3 5
 1
 end_operator
 begin_operator
 feast stimulation ham flounder bavaria manitoba
 0
 2
-0 17 4 3
 0 13 3 0
+0 17 4 3
 1
 end_operator
 begin_operator
 feast stimulation ham flounder goias bosnia
 0
 2
-0 17 4 3
 0 13 1 2
+0 17 4 3
 1
 end_operator
 begin_operator
 feast stimulation ham flounder manitoba pennsylvania
 0
 2
-0 17 4 3
 0 13 5 3
+0 17 4 3
 1
 end_operator
 begin_operator
 feast stimulation ham flounder oregon goias
 0
 2
-0 17 4 3
 0 13 2 4
+0 17 4 3
 1
 end_operator
 begin_operator
 feast stimulation ham flounder pennsylvania oregon
 0
 2
-0 17 4 3
 0 13 4 5
+0 17 4 3
 1
 end_operator
 begin_operator
 feast stimulation ham lemon bavaria manitoba
 0
 2
-0 17 4 7
 0 13 3 0
+0 17 4 7
 1
 end_operator
 begin_operator
 feast stimulation ham lemon goias bosnia
 0
 2
-0 17 4 7
 0 13 1 2
+0 17 4 7
 1
 end_operator
 begin_operator
 feast stimulation ham lemon manitoba pennsylvania
 0
 2
-0 17 4 7
 0 13 5 3
+0 17 4 7
 1
 end_operator
 begin_operator
 feast stimulation ham lemon oregon goias
 0
 2
-0 17 4 7
 0 13 2 4
+0 17 4 7
 1
 end_operator
 begin_operator
 feast stimulation ham lemon pennsylvania oregon
 0
 2
-0 17 4 7
 0 13 4 5
+0 17 4 7
 1
 end_operator
 begin_operator
 feast stimulation haroset flounder bavaria manitoba
 0
 2
-0 17 5 3
 0 7 1 0
+0 17 5 3
 1
 end_operator
 begin_operator
 feast stimulation haroset lamb bavaria manitoba
 0
 2
-0 17 5 6
 0 7 1 0
+0 17 5 6
 1
 end_operator
 begin_operator
 feast stimulation haroset lobster bavaria manitoba
 0
 2
-0 17 5 8
 0 7 1 0
+0 17 5 8
 1
 end_operator
 begin_operator
 feast stimulation lamb beef bavaria manitoba
 0
 2
-0 17 6 1
 0 15 3 0
+0 17 6 1
 1
 end_operator
 begin_operator
 feast stimulation lamb beef goias bosnia
 0
 2
-0 17 6 1
 0 15 1 2
+0 17 6 1
 1
 end_operator
 begin_operator
 feast stimulation lamb beef manitoba pennsylvania
 0
 2
-0 17 6 1
 0 15 5 3
+0 17 6 1
 1
 end_operator
 begin_operator
 feast stimulation lamb beef oregon goias
 0
 2
-0 17 6 1
 0 15 2 4
+0 17 6 1
 1
 end_operator
 begin_operator
 feast stimulation lamb beef pennsylvania oregon
 0
 2
-0 17 6 1
 0 15 4 5
+0 17 6 1
 1
 end_operator
 begin_operator
 feast stimulation lamb haroset bavaria manitoba
 0
 2
-0 17 6 5
 0 15 3 0
+0 17 6 5
 1
 end_operator
 begin_operator
 feast stimulation lamb haroset goias bosnia
 0
 2
-0 17 6 5
 0 15 1 2
+0 17 6 5
 1
 end_operator
 begin_operator
 feast stimulation lamb haroset manitoba pennsylvania
 0
 2
-0 17 6 5
 0 15 5 3
+0 17 6 5
 1
 end_operator
 begin_operator
 feast stimulation lamb haroset oregon goias
 0
 2
-0 17 6 5
 0 15 2 4
+0 17 6 5
 1
 end_operator
 begin_operator
 feast stimulation lamb haroset pennsylvania oregon
 0
 2
-0 17 6 5
 0 15 4 5
+0 17 6 5
 1
 end_operator
 begin_operator
 feast stimulation lemon beef bavaria manitoba
 0
 2
-0 17 7 1
 0 8 1 0
+0 17 7 1
 1
 end_operator
 begin_operator
 feast stimulation lemon cantelope bavaria manitoba
 0
 2
-0 17 7 2
 0 8 1 0
+0 17 7 2
 1
 end_operator
 begin_operator
 feast stimulation lemon ham bavaria manitoba
 0
 2
-0 17 7 4
 0 8 1 0
+0 17 7 4
 1
 end_operator
 begin_operator
 feast stimulation lobster bacon bavaria manitoba
 0
 2
-0 17 8 0
 0 5 1 0
+0 17 8 0
 1
 end_operator
 begin_operator
 feast stimulation lobster haroset bavaria manitoba
 0
 2
-0 17 8 5
 0 5 1 0
+0 17 8 5
 1
 end_operator
 begin_operator
@@ -3152,40 +3152,40 @@ begin_operator
 feast stimulation tofu marzipan bavaria manitoba
 0
 2
-0 17 11 9
 0 6 1 0
+0 17 11 9
 1
 end_operator
 begin_operator
 feast stimulation tofu onion bavaria manitoba
 0
 2
-0 17 11 10
 0 6 1 0
+0 17 11 10
 1
 end_operator
 begin_operator
 overcome abrasion achievement wonderbread saturn earth
 0
 2
-0 40 14 15
 0 19 0 1
+0 40 14 15
 1
 end_operator
 begin_operator
 overcome abrasion achievement wonderbread uranus saturn
 0
 2
-0 40 14 15
 0 19 1 2
+0 40 14 15
 1
 end_operator
 begin_operator
 overcome abrasion achievement wonderbread vulcan uranus
 0
 2
-0 40 14 15
 0 19 2 3
+0 40 14 15
 1
 end_operator
 begin_operator
@@ -3193,8 +3193,8 @@ overcome abrasion aesthetics bacon saturn earth
 1
 10 0
 2
-0 40 0 16
 0 32 0 1
+0 40 0 16
 1
 end_operator
 begin_operator
@@ -3202,8 +3202,8 @@ overcome abrasion aesthetics bacon uranus saturn
 1
 10 0
 2
-0 40 0 16
 0 32 1 2
+0 40 0 16
 1
 end_operator
 begin_operator
@@ -3211,8 +3211,8 @@ overcome abrasion aesthetics bacon vulcan uranus
 1
 10 0
 2
-0 40 0 16
 0 32 2 3
+0 40 0 16
 1
 end_operator
 begin_operator
@@ -3220,8 +3220,8 @@ overcome abrasion aesthetics beef saturn earth
 1
 10 1
 2
-0 40 1 16
 0 32 0 1
+0 40 1 16
 1
 end_operator
 begin_operator
@@ -3229,8 +3229,8 @@ overcome abrasion aesthetics beef uranus saturn
 1
 10 1
 2
-0 40 1 16
 0 32 1 2
+0 40 1 16
 1
 end_operator
 begin_operator
@@ -3238,8 +3238,8 @@ overcome abrasion aesthetics beef vulcan uranus
 1
 10 1
 2
-0 40 1 16
 0 32 2 3
+0 40 1 16
 1
 end_operator
 begin_operator
@@ -3247,8 +3247,8 @@ overcome abrasion aesthetics cantelope saturn earth
 1
 10 2
 2
-0 40 2 16
 0 32 0 1
+0 40 2 16
 1
 end_operator
 begin_operator
@@ -3256,8 +3256,8 @@ overcome abrasion aesthetics cantelope uranus saturn
 1
 10 2
 2
-0 40 2 16
 0 32 1 2
+0 40 2 16
 1
 end_operator
 begin_operator
@@ -3265,8 +3265,8 @@ overcome abrasion aesthetics cantelope vulcan uranus
 1
 10 2
 2
-0 40 2 16
 0 32 2 3
+0 40 2 16
 1
 end_operator
 begin_operator
@@ -3274,8 +3274,8 @@ overcome abrasion aesthetics flounder saturn earth
 1
 10 3
 2
-0 40 3 16
 0 32 0 1
+0 40 3 16
 1
 end_operator
 begin_operator
@@ -3283,8 +3283,8 @@ overcome abrasion aesthetics flounder uranus saturn
 1
 10 3
 2
-0 40 3 16
 0 32 1 2
+0 40 3 16
 1
 end_operator
 begin_operator
@@ -3292,8 +3292,8 @@ overcome abrasion aesthetics flounder vulcan uranus
 1
 10 3
 2
-0 40 3 16
 0 32 2 3
+0 40 3 16
 1
 end_operator
 begin_operator
@@ -3301,8 +3301,8 @@ overcome abrasion aesthetics ham saturn earth
 1
 10 4
 2
-0 40 4 16
 0 32 0 1
+0 40 4 16
 1
 end_operator
 begin_operator
@@ -3310,8 +3310,8 @@ overcome abrasion aesthetics ham uranus saturn
 1
 10 4
 2
-0 40 4 16
 0 32 1 2
+0 40 4 16
 1
 end_operator
 begin_operator
@@ -3319,8 +3319,8 @@ overcome abrasion aesthetics ham vulcan uranus
 1
 10 4
 2
-0 40 4 16
 0 32 2 3
+0 40 4 16
 1
 end_operator
 begin_operator
@@ -3328,8 +3328,8 @@ overcome abrasion aesthetics haroset saturn earth
 1
 10 5
 2
-0 40 5 16
 0 32 0 1
+0 40 5 16
 1
 end_operator
 begin_operator
@@ -3337,8 +3337,8 @@ overcome abrasion aesthetics haroset uranus saturn
 1
 10 5
 2
-0 40 5 16
 0 32 1 2
+0 40 5 16
 1
 end_operator
 begin_operator
@@ -3346,8 +3346,8 @@ overcome abrasion aesthetics haroset vulcan uranus
 1
 10 5
 2
-0 40 5 16
 0 32 2 3
+0 40 5 16
 1
 end_operator
 begin_operator
@@ -3355,8 +3355,8 @@ overcome abrasion aesthetics lamb saturn earth
 1
 10 6
 2
-0 40 6 16
 0 32 0 1
+0 40 6 16
 1
 end_operator
 begin_operator
@@ -3364,8 +3364,8 @@ overcome abrasion aesthetics lamb uranus saturn
 1
 10 6
 2
-0 40 6 16
 0 32 1 2
+0 40 6 16
 1
 end_operator
 begin_operator
@@ -3373,8 +3373,8 @@ overcome abrasion aesthetics lamb vulcan uranus
 1
 10 6
 2
-0 40 6 16
 0 32 2 3
+0 40 6 16
 1
 end_operator
 begin_operator
@@ -3382,8 +3382,8 @@ overcome abrasion aesthetics lemon saturn earth
 1
 10 7
 2
-0 40 7 16
 0 32 0 1
+0 40 7 16
 1
 end_operator
 begin_operator
@@ -3391,8 +3391,8 @@ overcome abrasion aesthetics lemon uranus saturn
 1
 10 7
 2
-0 40 7 16
 0 32 1 2
+0 40 7 16
 1
 end_operator
 begin_operator
@@ -3400,8 +3400,8 @@ overcome abrasion aesthetics lemon vulcan uranus
 1
 10 7
 2
-0 40 7 16
 0 32 2 3
+0 40 7 16
 1
 end_operator
 begin_operator
@@ -3409,8 +3409,8 @@ overcome abrasion aesthetics lobster saturn earth
 1
 10 8
 2
-0 40 8 16
 0 32 0 1
+0 40 8 16
 1
 end_operator
 begin_operator
@@ -3418,8 +3418,8 @@ overcome abrasion aesthetics lobster uranus saturn
 1
 10 8
 2
-0 40 8 16
 0 32 1 2
+0 40 8 16
 1
 end_operator
 begin_operator
@@ -3427,8 +3427,8 @@ overcome abrasion aesthetics lobster vulcan uranus
 1
 10 8
 2
-0 40 8 16
 0 32 2 3
+0 40 8 16
 1
 end_operator
 begin_operator
@@ -3436,8 +3436,8 @@ overcome abrasion aesthetics marzipan saturn earth
 1
 10 9
 2
-0 40 9 16
 0 32 0 1
+0 40 9 16
 1
 end_operator
 begin_operator
@@ -3445,8 +3445,8 @@ overcome abrasion aesthetics marzipan uranus saturn
 1
 10 9
 2
-0 40 9 16
 0 32 1 2
+0 40 9 16
 1
 end_operator
 begin_operator
@@ -3454,8 +3454,8 @@ overcome abrasion aesthetics marzipan vulcan uranus
 1
 10 9
 2
-0 40 9 16
 0 32 2 3
+0 40 9 16
 1
 end_operator
 begin_operator
@@ -3463,8 +3463,8 @@ overcome abrasion aesthetics onion saturn earth
 1
 10 10
 2
-0 40 11 16
 0 32 0 1
+0 40 11 16
 1
 end_operator
 begin_operator
@@ -3472,8 +3472,8 @@ overcome abrasion aesthetics onion uranus saturn
 1
 10 10
 2
-0 40 11 16
 0 32 1 2
+0 40 11 16
 1
 end_operator
 begin_operator
@@ -3481,8 +3481,8 @@ overcome abrasion aesthetics onion vulcan uranus
 1
 10 10
 2
-0 40 11 16
 0 32 2 3
+0 40 11 16
 1
 end_operator
 begin_operator
@@ -3490,8 +3490,8 @@ overcome abrasion aesthetics tofu saturn earth
 1
 10 11
 2
-0 40 13 16
 0 32 0 1
+0 40 13 16
 1
 end_operator
 begin_operator
@@ -3499,8 +3499,8 @@ overcome abrasion aesthetics tofu uranus saturn
 1
 10 11
 2
-0 40 13 16
 0 32 1 2
+0 40 13 16
 1
 end_operator
 begin_operator
@@ -3508,8 +3508,8 @@ overcome abrasion aesthetics tofu vulcan uranus
 1
 10 11
 2
-0 40 13 16
 0 32 2 3
+0 40 13 16
 1
 end_operator
 begin_operator
@@ -3517,8 +3517,8 @@ overcome abrasion aesthetics wonderbread saturn earth
 1
 10 12
 2
-0 40 14 16
 0 32 0 1
+0 40 14 16
 1
 end_operator
 begin_operator
@@ -3526,8 +3526,8 @@ overcome abrasion aesthetics wonderbread uranus saturn
 1
 10 12
 2
-0 40 14 16
 0 32 1 2
+0 40 14 16
 1
 end_operator
 begin_operator
@@ -3535,8 +3535,8 @@ overcome abrasion aesthetics wonderbread vulcan uranus
 1
 10 12
 2
-0 40 14 16
 0 32 2 3
+0 40 14 16
 1
 end_operator
 begin_operator
@@ -3544,8 +3544,8 @@ overcome abrasion entertainment bacon saturn earth
 1
 12 0
 2
-0 40 0 17
 0 33 0 1
+0 40 0 17
 1
 end_operator
 begin_operator
@@ -3553,8 +3553,8 @@ overcome abrasion entertainment bacon uranus saturn
 1
 12 0
 2
-0 40 0 17
 0 33 1 2
+0 40 0 17
 1
 end_operator
 begin_operator
@@ -3562,8 +3562,8 @@ overcome abrasion entertainment bacon vulcan uranus
 1
 12 0
 2
-0 40 0 17
 0 33 2 3
+0 40 0 17
 1
 end_operator
 begin_operator
@@ -3571,8 +3571,8 @@ overcome abrasion entertainment beef saturn earth
 1
 12 1
 2
-0 40 1 17
 0 33 0 1
+0 40 1 17
 1
 end_operator
 begin_operator
@@ -3580,8 +3580,8 @@ overcome abrasion entertainment beef uranus saturn
 1
 12 1
 2
-0 40 1 17
 0 33 1 2
+0 40 1 17
 1
 end_operator
 begin_operator
@@ -3589,8 +3589,8 @@ overcome abrasion entertainment beef vulcan uranus
 1
 12 1
 2
-0 40 1 17
 0 33 2 3
+0 40 1 17
 1
 end_operator
 begin_operator
@@ -3598,8 +3598,8 @@ overcome abrasion entertainment cantelope saturn earth
 1
 12 2
 2
-0 40 2 17
 0 33 0 1
+0 40 2 17
 1
 end_operator
 begin_operator
@@ -3607,8 +3607,8 @@ overcome abrasion entertainment cantelope uranus saturn
 1
 12 2
 2
-0 40 2 17
 0 33 1 2
+0 40 2 17
 1
 end_operator
 begin_operator
@@ -3616,8 +3616,8 @@ overcome abrasion entertainment cantelope vulcan uranus
 1
 12 2
 2
-0 40 2 17
 0 33 2 3
+0 40 2 17
 1
 end_operator
 begin_operator
@@ -3625,8 +3625,8 @@ overcome abrasion entertainment flounder saturn earth
 1
 12 3
 2
-0 40 3 17
 0 33 0 1
+0 40 3 17
 1
 end_operator
 begin_operator
@@ -3634,8 +3634,8 @@ overcome abrasion entertainment flounder uranus saturn
 1
 12 3
 2
-0 40 3 17
 0 33 1 2
+0 40 3 17
 1
 end_operator
 begin_operator
@@ -3643,8 +3643,8 @@ overcome abrasion entertainment flounder vulcan uranus
 1
 12 3
 2
-0 40 3 17
 0 33 2 3
+0 40 3 17
 1
 end_operator
 begin_operator
@@ -3652,8 +3652,8 @@ overcome abrasion entertainment ham saturn earth
 1
 12 4
 2
-0 40 4 17
 0 33 0 1
+0 40 4 17
 1
 end_operator
 begin_operator
@@ -3661,8 +3661,8 @@ overcome abrasion entertainment ham uranus saturn
 1
 12 4
 2
-0 40 4 17
 0 33 1 2
+0 40 4 17
 1
 end_operator
 begin_operator
@@ -3670,8 +3670,8 @@ overcome abrasion entertainment ham vulcan uranus
 1
 12 4
 2
-0 40 4 17
 0 33 2 3
+0 40 4 17
 1
 end_operator
 begin_operator
@@ -3679,8 +3679,8 @@ overcome abrasion entertainment haroset saturn earth
 1
 12 5
 2
-0 40 5 17
 0 33 0 1
+0 40 5 17
 1
 end_operator
 begin_operator
@@ -3688,8 +3688,8 @@ overcome abrasion entertainment haroset uranus saturn
 1
 12 5
 2
-0 40 5 17
 0 33 1 2
+0 40 5 17
 1
 end_operator
 begin_operator
@@ -3697,8 +3697,8 @@ overcome abrasion entertainment haroset vulcan uranus
 1
 12 5
 2
-0 40 5 17
 0 33 2 3
+0 40 5 17
 1
 end_operator
 begin_operator
@@ -3706,8 +3706,8 @@ overcome abrasion entertainment lamb saturn earth
 1
 12 6
 2
-0 40 6 17
 0 33 0 1
+0 40 6 17
 1
 end_operator
 begin_operator
@@ -3715,8 +3715,8 @@ overcome abrasion entertainment lamb uranus saturn
 1
 12 6
 2
-0 40 6 17
 0 33 1 2
+0 40 6 17
 1
 end_operator
 begin_operator
@@ -3724,8 +3724,8 @@ overcome abrasion entertainment lamb vulcan uranus
 1
 12 6
 2
-0 40 6 17
 0 33 2 3
+0 40 6 17
 1
 end_operator
 begin_operator
@@ -3733,8 +3733,8 @@ overcome abrasion entertainment lemon saturn earth
 1
 12 7
 2
-0 40 7 17
 0 33 0 1
+0 40 7 17
 1
 end_operator
 begin_operator
@@ -3742,8 +3742,8 @@ overcome abrasion entertainment lemon uranus saturn
 1
 12 7
 2
-0 40 7 17
 0 33 1 2
+0 40 7 17
 1
 end_operator
 begin_operator
@@ -3751,8 +3751,8 @@ overcome abrasion entertainment lemon vulcan uranus
 1
 12 7
 2
-0 40 7 17
 0 33 2 3
+0 40 7 17
 1
 end_operator
 begin_operator
@@ -3760,8 +3760,8 @@ overcome abrasion entertainment lobster saturn earth
 1
 12 8
 2
-0 40 8 17
 0 33 0 1
+0 40 8 17
 1
 end_operator
 begin_operator
@@ -3769,8 +3769,8 @@ overcome abrasion entertainment lobster uranus saturn
 1
 12 8
 2
-0 40 8 17
 0 33 1 2
+0 40 8 17
 1
 end_operator
 begin_operator
@@ -3778,8 +3778,8 @@ overcome abrasion entertainment lobster vulcan uranus
 1
 12 8
 2
-0 40 8 17
 0 33 2 3
+0 40 8 17
 1
 end_operator
 begin_operator
@@ -3787,8 +3787,8 @@ overcome abrasion entertainment marzipan saturn earth
 1
 12 9
 2
-0 40 9 17
 0 33 0 1
+0 40 9 17
 1
 end_operator
 begin_operator
@@ -3796,8 +3796,8 @@ overcome abrasion entertainment marzipan uranus saturn
 1
 12 9
 2
-0 40 9 17
 0 33 1 2
+0 40 9 17
 1
 end_operator
 begin_operator
@@ -3805,8 +3805,8 @@ overcome abrasion entertainment marzipan vulcan uranus
 1
 12 9
 2
-0 40 9 17
 0 33 2 3
+0 40 9 17
 1
 end_operator
 begin_operator
@@ -3814,8 +3814,8 @@ overcome abrasion entertainment onion saturn earth
 1
 12 10
 2
-0 40 11 17
 0 33 0 1
+0 40 11 17
 1
 end_operator
 begin_operator
@@ -3823,8 +3823,8 @@ overcome abrasion entertainment onion uranus saturn
 1
 12 10
 2
-0 40 11 17
 0 33 1 2
+0 40 11 17
 1
 end_operator
 begin_operator
@@ -3832,8 +3832,8 @@ overcome abrasion entertainment onion vulcan uranus
 1
 12 10
 2
-0 40 11 17
 0 33 2 3
+0 40 11 17
 1
 end_operator
 begin_operator
@@ -3841,8 +3841,8 @@ overcome abrasion entertainment tofu saturn earth
 1
 12 11
 2
-0 40 13 17
 0 33 0 1
+0 40 13 17
 1
 end_operator
 begin_operator
@@ -3850,8 +3850,8 @@ overcome abrasion entertainment tofu uranus saturn
 1
 12 11
 2
-0 40 13 17
 0 33 1 2
+0 40 13 17
 1
 end_operator
 begin_operator
@@ -3859,8 +3859,8 @@ overcome abrasion entertainment tofu vulcan uranus
 1
 12 11
 2
-0 40 13 17
 0 33 2 3
+0 40 13 17
 1
 end_operator
 begin_operator
@@ -3868,8 +3868,8 @@ overcome abrasion entertainment wonderbread saturn earth
 1
 12 12
 2
-0 40 14 17
 0 33 0 1
+0 40 14 17
 1
 end_operator
 begin_operator
@@ -3877,8 +3877,8 @@ overcome abrasion entertainment wonderbread uranus saturn
 1
 12 12
 2
-0 40 14 17
 0 33 1 2
+0 40 14 17
 1
 end_operator
 begin_operator
@@ -3886,8 +3886,8 @@ overcome abrasion entertainment wonderbread vulcan uranus
 1
 12 12
 2
-0 40 14 17
 0 33 2 3
+0 40 14 17
 1
 end_operator
 begin_operator
@@ -3895,8 +3895,8 @@ overcome abrasion expectation okra saturn earth
 1
 1 0
 2
-0 40 10 18
 0 20 0 1
+0 40 10 18
 1
 end_operator
 begin_operator
@@ -3904,8 +3904,8 @@ overcome abrasion expectation okra uranus saturn
 1
 1 0
 2
-0 40 10 18
 0 20 1 2
+0 40 10 18
 1
 end_operator
 begin_operator
@@ -3913,8 +3913,8 @@ overcome abrasion expectation okra vulcan uranus
 1
 1 0
 2
-0 40 10 18
 0 20 2 3
+0 40 10 18
 1
 end_operator
 begin_operator
@@ -3922,8 +3922,8 @@ overcome abrasion expectation onion saturn earth
 1
 1 1
 2
-0 40 11 18
 0 20 0 1
+0 40 11 18
 1
 end_operator
 begin_operator
@@ -3931,8 +3931,8 @@ overcome abrasion expectation onion uranus saturn
 1
 1 1
 2
-0 40 11 18
 0 20 1 2
+0 40 11 18
 1
 end_operator
 begin_operator
@@ -3940,8 +3940,8 @@ overcome abrasion expectation onion vulcan uranus
 1
 1 1
 2
-0 40 11 18
 0 20 2 3
+0 40 11 18
 1
 end_operator
 begin_operator
@@ -3949,8 +3949,8 @@ overcome abrasion expectation snickers saturn earth
 1
 1 2
 2
-0 40 12 18
 0 20 0 1
+0 40 12 18
 1
 end_operator
 begin_operator
@@ -3958,8 +3958,8 @@ overcome abrasion expectation snickers uranus saturn
 1
 1 2
 2
-0 40 12 18
 0 20 1 2
+0 40 12 18
 1
 end_operator
 begin_operator
@@ -3967,8 +3967,8 @@ overcome abrasion expectation snickers vulcan uranus
 1
 1 2
 2
-0 40 12 18
 0 20 2 3
+0 40 12 18
 1
 end_operator
 begin_operator
@@ -3976,8 +3976,8 @@ overcome abrasion expectation wonderbread saturn earth
 1
 1 3
 2
-0 40 14 18
 0 20 0 1
+0 40 14 18
 1
 end_operator
 begin_operator
@@ -3985,8 +3985,8 @@ overcome abrasion expectation wonderbread uranus saturn
 1
 1 3
 2
-0 40 14 18
 0 20 1 2
+0 40 14 18
 1
 end_operator
 begin_operator
@@ -3994,8 +3994,8 @@ overcome abrasion expectation wonderbread vulcan uranus
 1
 1 3
 2
-0 40 14 18
 0 20 2 3
+0 40 14 18
 1
 end_operator
 begin_operator
@@ -4003,8 +4003,8 @@ overcome abrasion learning okra saturn earth
 1
 2 0
 2
-0 40 10 19
 0 21 0 1
+0 40 10 19
 1
 end_operator
 begin_operator
@@ -4012,8 +4012,8 @@ overcome abrasion learning okra uranus saturn
 1
 2 0
 2
-0 40 10 19
 0 21 1 2
+0 40 10 19
 1
 end_operator
 begin_operator
@@ -4021,8 +4021,8 @@ overcome abrasion learning okra vulcan uranus
 1
 2 0
 2
-0 40 10 19
 0 21 2 3
+0 40 10 19
 1
 end_operator
 begin_operator
@@ -4030,8 +4030,8 @@ overcome abrasion learning onion saturn earth
 1
 2 1
 2
-0 40 11 19
 0 21 0 1
+0 40 11 19
 1
 end_operator
 begin_operator
@@ -4039,8 +4039,8 @@ overcome abrasion learning onion uranus saturn
 1
 2 1
 2
-0 40 11 19
 0 21 1 2
+0 40 11 19
 1
 end_operator
 begin_operator
@@ -4048,8 +4048,8 @@ overcome abrasion learning onion vulcan uranus
 1
 2 1
 2
-0 40 11 19
 0 21 2 3
+0 40 11 19
 1
 end_operator
 begin_operator
@@ -4057,8 +4057,8 @@ overcome abrasion learning snickers saturn earth
 1
 2 2
 2
-0 40 12 19
 0 21 0 1
+0 40 12 19
 1
 end_operator
 begin_operator
@@ -4066,8 +4066,8 @@ overcome abrasion learning snickers uranus saturn
 1
 2 2
 2
-0 40 12 19
 0 21 1 2
+0 40 12 19
 1
 end_operator
 begin_operator
@@ -4075,8 +4075,8 @@ overcome abrasion learning snickers vulcan uranus
 1
 2 2
 2
-0 40 12 19
 0 21 2 3
+0 40 12 19
 1
 end_operator
 begin_operator
@@ -4084,8 +4084,8 @@ overcome abrasion learning wonderbread saturn earth
 1
 2 3
 2
-0 40 14 19
 0 21 0 1
+0 40 14 19
 1
 end_operator
 begin_operator
@@ -4093,8 +4093,8 @@ overcome abrasion learning wonderbread uranus saturn
 1
 2 3
 2
-0 40 14 19
 0 21 1 2
+0 40 14 19
 1
 end_operator
 begin_operator
@@ -4102,8 +4102,8 @@ overcome abrasion learning wonderbread vulcan uranus
 1
 2 3
 2
-0 40 14 19
 0 21 2 3
+0 40 14 19
 1
 end_operator
 begin_operator
@@ -4111,8 +4111,8 @@ overcome abrasion love bacon saturn earth
 1
 14 0
 2
-0 40 0 20
 0 36 0 1
+0 40 0 20
 1
 end_operator
 begin_operator
@@ -4120,8 +4120,8 @@ overcome abrasion love bacon uranus saturn
 1
 14 0
 2
-0 40 0 20
 0 36 1 2
+0 40 0 20
 1
 end_operator
 begin_operator
@@ -4129,8 +4129,8 @@ overcome abrasion love bacon vulcan uranus
 1
 14 0
 2
-0 40 0 20
 0 36 2 3
+0 40 0 20
 1
 end_operator
 begin_operator
@@ -4138,8 +4138,8 @@ overcome abrasion love beef saturn earth
 1
 14 1
 2
-0 40 1 20
 0 36 0 1
+0 40 1 20
 1
 end_operator
 begin_operator
@@ -4147,8 +4147,8 @@ overcome abrasion love beef uranus saturn
 1
 14 1
 2
-0 40 1 20
 0 36 1 2
+0 40 1 20
 1
 end_operator
 begin_operator
@@ -4156,8 +4156,8 @@ overcome abrasion love beef vulcan uranus
 1
 14 1
 2
-0 40 1 20
 0 36 2 3
+0 40 1 20
 1
 end_operator
 begin_operator
@@ -4165,8 +4165,8 @@ overcome abrasion love cantelope saturn earth
 1
 14 2
 2
-0 40 2 20
 0 36 0 1
+0 40 2 20
 1
 end_operator
 begin_operator
@@ -4174,8 +4174,8 @@ overcome abrasion love cantelope uranus saturn
 1
 14 2
 2
-0 40 2 20
 0 36 1 2
+0 40 2 20
 1
 end_operator
 begin_operator
@@ -4183,8 +4183,8 @@ overcome abrasion love cantelope vulcan uranus
 1
 14 2
 2
-0 40 2 20
 0 36 2 3
+0 40 2 20
 1
 end_operator
 begin_operator
@@ -4192,8 +4192,8 @@ overcome abrasion love flounder saturn earth
 1
 14 3
 2
-0 40 3 20
 0 36 0 1
+0 40 3 20
 1
 end_operator
 begin_operator
@@ -4201,8 +4201,8 @@ overcome abrasion love flounder uranus saturn
 1
 14 3
 2
-0 40 3 20
 0 36 1 2
+0 40 3 20
 1
 end_operator
 begin_operator
@@ -4210,8 +4210,8 @@ overcome abrasion love flounder vulcan uranus
 1
 14 3
 2
-0 40 3 20
 0 36 2 3
+0 40 3 20
 1
 end_operator
 begin_operator
@@ -4219,8 +4219,8 @@ overcome abrasion love ham saturn earth
 1
 14 4
 2
-0 40 4 20
 0 36 0 1
+0 40 4 20
 1
 end_operator
 begin_operator
@@ -4228,8 +4228,8 @@ overcome abrasion love ham uranus saturn
 1
 14 4
 2
-0 40 4 20
 0 36 1 2
+0 40 4 20
 1
 end_operator
 begin_operator
@@ -4237,8 +4237,8 @@ overcome abrasion love ham vulcan uranus
 1
 14 4
 2
-0 40 4 20
 0 36 2 3
+0 40 4 20
 1
 end_operator
 begin_operator
@@ -4246,8 +4246,8 @@ overcome abrasion love haroset saturn earth
 1
 14 5
 2
-0 40 5 20
 0 36 0 1
+0 40 5 20
 1
 end_operator
 begin_operator
@@ -4255,8 +4255,8 @@ overcome abrasion love haroset uranus saturn
 1
 14 5
 2
-0 40 5 20
 0 36 1 2
+0 40 5 20
 1
 end_operator
 begin_operator
@@ -4264,8 +4264,8 @@ overcome abrasion love haroset vulcan uranus
 1
 14 5
 2
-0 40 5 20
 0 36 2 3
+0 40 5 20
 1
 end_operator
 begin_operator
@@ -4273,8 +4273,8 @@ overcome abrasion love lamb saturn earth
 1
 14 6
 2
-0 40 6 20
 0 36 0 1
+0 40 6 20
 1
 end_operator
 begin_operator
@@ -4282,8 +4282,8 @@ overcome abrasion love lamb uranus saturn
 1
 14 6
 2
-0 40 6 20
 0 36 1 2
+0 40 6 20
 1
 end_operator
 begin_operator
@@ -4291,8 +4291,8 @@ overcome abrasion love lamb vulcan uranus
 1
 14 6
 2
-0 40 6 20
 0 36 2 3
+0 40 6 20
 1
 end_operator
 begin_operator
@@ -4300,8 +4300,8 @@ overcome abrasion love lemon saturn earth
 1
 14 7
 2
-0 40 7 20
 0 36 0 1
+0 40 7 20
 1
 end_operator
 begin_operator
@@ -4309,8 +4309,8 @@ overcome abrasion love lemon uranus saturn
 1
 14 7
 2
-0 40 7 20
 0 36 1 2
+0 40 7 20
 1
 end_operator
 begin_operator
@@ -4318,8 +4318,8 @@ overcome abrasion love lemon vulcan uranus
 1
 14 7
 2
-0 40 7 20
 0 36 2 3
+0 40 7 20
 1
 end_operator
 begin_operator
@@ -4327,8 +4327,8 @@ overcome abrasion love lobster saturn earth
 1
 14 8
 2
-0 40 8 20
 0 36 0 1
+0 40 8 20
 1
 end_operator
 begin_operator
@@ -4336,8 +4336,8 @@ overcome abrasion love lobster uranus saturn
 1
 14 8
 2
-0 40 8 20
 0 36 1 2
+0 40 8 20
 1
 end_operator
 begin_operator
@@ -4345,8 +4345,8 @@ overcome abrasion love lobster vulcan uranus
 1
 14 8
 2
-0 40 8 20
 0 36 2 3
+0 40 8 20
 1
 end_operator
 begin_operator
@@ -4354,8 +4354,8 @@ overcome abrasion love marzipan saturn earth
 1
 14 9
 2
-0 40 9 20
 0 36 0 1
+0 40 9 20
 1
 end_operator
 begin_operator
@@ -4363,8 +4363,8 @@ overcome abrasion love marzipan uranus saturn
 1
 14 9
 2
-0 40 9 20
 0 36 1 2
+0 40 9 20
 1
 end_operator
 begin_operator
@@ -4372,8 +4372,8 @@ overcome abrasion love marzipan vulcan uranus
 1
 14 9
 2
-0 40 9 20
 0 36 2 3
+0 40 9 20
 1
 end_operator
 begin_operator
@@ -4381,8 +4381,8 @@ overcome abrasion love onion saturn earth
 1
 14 10
 2
-0 40 11 20
 0 36 0 1
+0 40 11 20
 1
 end_operator
 begin_operator
@@ -4390,8 +4390,8 @@ overcome abrasion love onion uranus saturn
 1
 14 10
 2
-0 40 11 20
 0 36 1 2
+0 40 11 20
 1
 end_operator
 begin_operator
@@ -4399,8 +4399,8 @@ overcome abrasion love onion vulcan uranus
 1
 14 10
 2
-0 40 11 20
 0 36 2 3
+0 40 11 20
 1
 end_operator
 begin_operator
@@ -4408,8 +4408,8 @@ overcome abrasion love tofu saturn earth
 1
 14 11
 2
-0 40 13 20
 0 36 0 1
+0 40 13 20
 1
 end_operator
 begin_operator
@@ -4417,8 +4417,8 @@ overcome abrasion love tofu uranus saturn
 1
 14 11
 2
-0 40 13 20
 0 36 1 2
+0 40 13 20
 1
 end_operator
 begin_operator
@@ -4426,8 +4426,8 @@ overcome abrasion love tofu vulcan uranus
 1
 14 11
 2
-0 40 13 20
 0 36 2 3
+0 40 13 20
 1
 end_operator
 begin_operator
@@ -4435,8 +4435,8 @@ overcome abrasion love wonderbread saturn earth
 1
 14 12
 2
-0 40 14 20
 0 36 0 1
+0 40 14 20
 1
 end_operator
 begin_operator
@@ -4444,8 +4444,8 @@ overcome abrasion love wonderbread uranus saturn
 1
 14 12
 2
-0 40 14 20
 0 36 1 2
+0 40 14 20
 1
 end_operator
 begin_operator
@@ -4453,8 +4453,8 @@ overcome abrasion love wonderbread vulcan uranus
 1
 14 12
 2
-0 40 14 20
 0 36 2 3
+0 40 14 20
 1
 end_operator
 begin_operator
@@ -4462,8 +4462,8 @@ overcome abrasion lubricity bacon saturn earth
 1
 16 0
 2
-0 40 0 21
 0 37 0 1
+0 40 0 21
 1
 end_operator
 begin_operator
@@ -4471,8 +4471,8 @@ overcome abrasion lubricity bacon uranus saturn
 1
 16 0
 2
-0 40 0 21
 0 37 1 2
+0 40 0 21
 1
 end_operator
 begin_operator
@@ -4480,8 +4480,8 @@ overcome abrasion lubricity bacon vulcan uranus
 1
 16 0
 2
-0 40 0 21
 0 37 2 3
+0 40 0 21
 1
 end_operator
 begin_operator
@@ -4489,8 +4489,8 @@ overcome abrasion lubricity beef saturn earth
 1
 16 1
 2
-0 40 1 21
 0 37 0 1
+0 40 1 21
 1
 end_operator
 begin_operator
@@ -4498,8 +4498,8 @@ overcome abrasion lubricity beef uranus saturn
 1
 16 1
 2
-0 40 1 21
 0 37 1 2
+0 40 1 21
 1
 end_operator
 begin_operator
@@ -4507,8 +4507,8 @@ overcome abrasion lubricity beef vulcan uranus
 1
 16 1
 2
-0 40 1 21
 0 37 2 3
+0 40 1 21
 1
 end_operator
 begin_operator
@@ -4516,8 +4516,8 @@ overcome abrasion lubricity cantelope saturn earth
 1
 16 2
 2
-0 40 2 21
 0 37 0 1
+0 40 2 21
 1
 end_operator
 begin_operator
@@ -4525,8 +4525,8 @@ overcome abrasion lubricity cantelope uranus saturn
 1
 16 2
 2
-0 40 2 21
 0 37 1 2
+0 40 2 21
 1
 end_operator
 begin_operator
@@ -4534,8 +4534,8 @@ overcome abrasion lubricity cantelope vulcan uranus
 1
 16 2
 2
-0 40 2 21
 0 37 2 3
+0 40 2 21
 1
 end_operator
 begin_operator
@@ -4543,8 +4543,8 @@ overcome abrasion lubricity flounder saturn earth
 1
 16 3
 2
-0 40 3 21
 0 37 0 1
+0 40 3 21
 1
 end_operator
 begin_operator
@@ -4552,8 +4552,8 @@ overcome abrasion lubricity flounder uranus saturn
 1
 16 3
 2
-0 40 3 21
 0 37 1 2
+0 40 3 21
 1
 end_operator
 begin_operator
@@ -4561,8 +4561,8 @@ overcome abrasion lubricity flounder vulcan uranus
 1
 16 3
 2
-0 40 3 21
 0 37 2 3
+0 40 3 21
 1
 end_operator
 begin_operator
@@ -4570,8 +4570,8 @@ overcome abrasion lubricity ham saturn earth
 1
 16 4
 2
-0 40 4 21
 0 37 0 1
+0 40 4 21
 1
 end_operator
 begin_operator
@@ -4579,8 +4579,8 @@ overcome abrasion lubricity ham uranus saturn
 1
 16 4
 2
-0 40 4 21
 0 37 1 2
+0 40 4 21
 1
 end_operator
 begin_operator
@@ -4588,8 +4588,8 @@ overcome abrasion lubricity ham vulcan uranus
 1
 16 4
 2
-0 40 4 21
 0 37 2 3
+0 40 4 21
 1
 end_operator
 begin_operator
@@ -4597,8 +4597,8 @@ overcome abrasion lubricity haroset saturn earth
 1
 16 5
 2
-0 40 5 21
 0 37 0 1
+0 40 5 21
 1
 end_operator
 begin_operator
@@ -4606,8 +4606,8 @@ overcome abrasion lubricity haroset uranus saturn
 1
 16 5
 2
-0 40 5 21
 0 37 1 2
+0 40 5 21
 1
 end_operator
 begin_operator
@@ -4615,8 +4615,8 @@ overcome abrasion lubricity haroset vulcan uranus
 1
 16 5
 2
-0 40 5 21
 0 37 2 3
+0 40 5 21
 1
 end_operator
 begin_operator
@@ -4624,8 +4624,8 @@ overcome abrasion lubricity lamb saturn earth
 1
 16 6
 2
-0 40 6 21
 0 37 0 1
+0 40 6 21
 1
 end_operator
 begin_operator
@@ -4633,8 +4633,8 @@ overcome abrasion lubricity lamb uranus saturn
 1
 16 6
 2
-0 40 6 21
 0 37 1 2
+0 40 6 21
 1
 end_operator
 begin_operator
@@ -4642,8 +4642,8 @@ overcome abrasion lubricity lamb vulcan uranus
 1
 16 6
 2
-0 40 6 21
 0 37 2 3
+0 40 6 21
 1
 end_operator
 begin_operator
@@ -4651,8 +4651,8 @@ overcome abrasion lubricity lemon saturn earth
 1
 16 7
 2
-0 40 7 21
 0 37 0 1
+0 40 7 21
 1
 end_operator
 begin_operator
@@ -4660,8 +4660,8 @@ overcome abrasion lubricity lemon uranus saturn
 1
 16 7
 2
-0 40 7 21
 0 37 1 2
+0 40 7 21
 1
 end_operator
 begin_operator
@@ -4669,8 +4669,8 @@ overcome abrasion lubricity lemon vulcan uranus
 1
 16 7
 2
-0 40 7 21
 0 37 2 3
+0 40 7 21
 1
 end_operator
 begin_operator
@@ -4678,8 +4678,8 @@ overcome abrasion lubricity lobster saturn earth
 1
 16 8
 2
-0 40 8 21
 0 37 0 1
+0 40 8 21
 1
 end_operator
 begin_operator
@@ -4687,8 +4687,8 @@ overcome abrasion lubricity lobster uranus saturn
 1
 16 8
 2
-0 40 8 21
 0 37 1 2
+0 40 8 21
 1
 end_operator
 begin_operator
@@ -4696,8 +4696,8 @@ overcome abrasion lubricity lobster vulcan uranus
 1
 16 8
 2
-0 40 8 21
 0 37 2 3
+0 40 8 21
 1
 end_operator
 begin_operator
@@ -4705,8 +4705,8 @@ overcome abrasion lubricity marzipan saturn earth
 1
 16 9
 2
-0 40 9 21
 0 37 0 1
+0 40 9 21
 1
 end_operator
 begin_operator
@@ -4714,8 +4714,8 @@ overcome abrasion lubricity marzipan uranus saturn
 1
 16 9
 2
-0 40 9 21
 0 37 1 2
+0 40 9 21
 1
 end_operator
 begin_operator
@@ -4723,8 +4723,8 @@ overcome abrasion lubricity marzipan vulcan uranus
 1
 16 9
 2
-0 40 9 21
 0 37 2 3
+0 40 9 21
 1
 end_operator
 begin_operator
@@ -4732,8 +4732,8 @@ overcome abrasion lubricity onion saturn earth
 1
 16 10
 2
-0 40 11 21
 0 37 0 1
+0 40 11 21
 1
 end_operator
 begin_operator
@@ -4741,8 +4741,8 @@ overcome abrasion lubricity onion uranus saturn
 1
 16 10
 2
-0 40 11 21
 0 37 1 2
+0 40 11 21
 1
 end_operator
 begin_operator
@@ -4750,8 +4750,8 @@ overcome abrasion lubricity onion vulcan uranus
 1
 16 10
 2
-0 40 11 21
 0 37 2 3
+0 40 11 21
 1
 end_operator
 begin_operator
@@ -4759,8 +4759,8 @@ overcome abrasion lubricity tofu saturn earth
 1
 16 11
 2
-0 40 13 21
 0 37 0 1
+0 40 13 21
 1
 end_operator
 begin_operator
@@ -4768,8 +4768,8 @@ overcome abrasion lubricity tofu uranus saturn
 1
 16 11
 2
-0 40 13 21
 0 37 1 2
+0 40 13 21
 1
 end_operator
 begin_operator
@@ -4777,8 +4777,8 @@ overcome abrasion lubricity tofu vulcan uranus
 1
 16 11
 2
-0 40 13 21
 0 37 2 3
+0 40 13 21
 1
 end_operator
 begin_operator
@@ -4786,8 +4786,8 @@ overcome abrasion lubricity wonderbread saturn earth
 1
 16 12
 2
-0 40 14 21
 0 37 0 1
+0 40 14 21
 1
 end_operator
 begin_operator
@@ -4795,8 +4795,8 @@ overcome abrasion lubricity wonderbread uranus saturn
 1
 16 12
 2
-0 40 14 21
 0 37 1 2
+0 40 14 21
 1
 end_operator
 begin_operator
@@ -4804,8 +4804,8 @@ overcome abrasion lubricity wonderbread vulcan uranus
 1
 16 12
 2
-0 40 14 21
 0 37 2 3
+0 40 14 21
 1
 end_operator
 begin_operator
@@ -4813,8 +4813,8 @@ overcome abrasion stimulation bacon saturn earth
 1
 17 0
 2
-0 40 0 22
 0 39 0 1
+0 40 0 22
 1
 end_operator
 begin_operator
@@ -4822,8 +4822,8 @@ overcome abrasion stimulation bacon uranus saturn
 1
 17 0
 2
-0 40 0 22
 0 39 1 2
+0 40 0 22
 1
 end_operator
 begin_operator
@@ -4831,8 +4831,8 @@ overcome abrasion stimulation bacon vulcan uranus
 1
 17 0
 2
-0 40 0 22
 0 39 2 3
+0 40 0 22
 1
 end_operator
 begin_operator
@@ -4840,8 +4840,8 @@ overcome abrasion stimulation beef saturn earth
 1
 17 1
 2
-0 40 1 22
 0 39 0 1
+0 40 1 22
 1
 end_operator
 begin_operator
@@ -4849,8 +4849,8 @@ overcome abrasion stimulation beef uranus saturn
 1
 17 1
 2
-0 40 1 22
 0 39 1 2
+0 40 1 22
 1
 end_operator
 begin_operator
@@ -4858,8 +4858,8 @@ overcome abrasion stimulation beef vulcan uranus
 1
 17 1
 2
-0 40 1 22
 0 39 2 3
+0 40 1 22
 1
 end_operator
 begin_operator
@@ -4867,8 +4867,8 @@ overcome abrasion stimulation cantelope saturn earth
 1
 17 2
 2
-0 40 2 22
 0 39 0 1
+0 40 2 22
 1
 end_operator
 begin_operator
@@ -4876,8 +4876,8 @@ overcome abrasion stimulation cantelope uranus saturn
 1
 17 2
 2
-0 40 2 22
 0 39 1 2
+0 40 2 22
 1
 end_operator
 begin_operator
@@ -4885,8 +4885,8 @@ overcome abrasion stimulation cantelope vulcan uranus
 1
 17 2
 2
-0 40 2 22
 0 39 2 3
+0 40 2 22
 1
 end_operator
 begin_operator
@@ -4894,8 +4894,8 @@ overcome abrasion stimulation flounder saturn earth
 1
 17 3
 2
-0 40 3 22
 0 39 0 1
+0 40 3 22
 1
 end_operator
 begin_operator
@@ -4903,8 +4903,8 @@ overcome abrasion stimulation flounder uranus saturn
 1
 17 3
 2
-0 40 3 22
 0 39 1 2
+0 40 3 22
 1
 end_operator
 begin_operator
@@ -4912,8 +4912,8 @@ overcome abrasion stimulation flounder vulcan uranus
 1
 17 3
 2
-0 40 3 22
 0 39 2 3
+0 40 3 22
 1
 end_operator
 begin_operator
@@ -4921,8 +4921,8 @@ overcome abrasion stimulation ham saturn earth
 1
 17 4
 2
-0 40 4 22
 0 39 0 1
+0 40 4 22
 1
 end_operator
 begin_operator
@@ -4930,8 +4930,8 @@ overcome abrasion stimulation ham uranus saturn
 1
 17 4
 2
-0 40 4 22
 0 39 1 2
+0 40 4 22
 1
 end_operator
 begin_operator
@@ -4939,8 +4939,8 @@ overcome abrasion stimulation ham vulcan uranus
 1
 17 4
 2
-0 40 4 22
 0 39 2 3
+0 40 4 22
 1
 end_operator
 begin_operator
@@ -4948,8 +4948,8 @@ overcome abrasion stimulation haroset saturn earth
 1
 17 5
 2
-0 40 5 22
 0 39 0 1
+0 40 5 22
 1
 end_operator
 begin_operator
@@ -4957,8 +4957,8 @@ overcome abrasion stimulation haroset uranus saturn
 1
 17 5
 2
-0 40 5 22
 0 39 1 2
+0 40 5 22
 1
 end_operator
 begin_operator
@@ -4966,8 +4966,8 @@ overcome abrasion stimulation haroset vulcan uranus
 1
 17 5
 2
-0 40 5 22
 0 39 2 3
+0 40 5 22
 1
 end_operator
 begin_operator
@@ -4975,8 +4975,8 @@ overcome abrasion stimulation lamb saturn earth
 1
 17 6
 2
-0 40 6 22
 0 39 0 1
+0 40 6 22
 1
 end_operator
 begin_operator
@@ -4984,8 +4984,8 @@ overcome abrasion stimulation lamb uranus saturn
 1
 17 6
 2
-0 40 6 22
 0 39 1 2
+0 40 6 22
 1
 end_operator
 begin_operator
@@ -4993,8 +4993,8 @@ overcome abrasion stimulation lamb vulcan uranus
 1
 17 6
 2
-0 40 6 22
 0 39 2 3
+0 40 6 22
 1
 end_operator
 begin_operator
@@ -5002,8 +5002,8 @@ overcome abrasion stimulation lemon saturn earth
 1
 17 7
 2
-0 40 7 22
 0 39 0 1
+0 40 7 22
 1
 end_operator
 begin_operator
@@ -5011,8 +5011,8 @@ overcome abrasion stimulation lemon uranus saturn
 1
 17 7
 2
-0 40 7 22
 0 39 1 2
+0 40 7 22
 1
 end_operator
 begin_operator
@@ -5020,8 +5020,8 @@ overcome abrasion stimulation lemon vulcan uranus
 1
 17 7
 2
-0 40 7 22
 0 39 2 3
+0 40 7 22
 1
 end_operator
 begin_operator
@@ -5029,8 +5029,8 @@ overcome abrasion stimulation lobster saturn earth
 1
 17 8
 2
-0 40 8 22
 0 39 0 1
+0 40 8 22
 1
 end_operator
 begin_operator
@@ -5038,8 +5038,8 @@ overcome abrasion stimulation lobster uranus saturn
 1
 17 8
 2
-0 40 8 22
 0 39 1 2
+0 40 8 22
 1
 end_operator
 begin_operator
@@ -5047,8 +5047,8 @@ overcome abrasion stimulation lobster vulcan uranus
 1
 17 8
 2
-0 40 8 22
 0 39 2 3
+0 40 8 22
 1
 end_operator
 begin_operator
@@ -5056,8 +5056,8 @@ overcome abrasion stimulation marzipan saturn earth
 1
 17 9
 2
-0 40 9 22
 0 39 0 1
+0 40 9 22
 1
 end_operator
 begin_operator
@@ -5065,8 +5065,8 @@ overcome abrasion stimulation marzipan uranus saturn
 1
 17 9
 2
-0 40 9 22
 0 39 1 2
+0 40 9 22
 1
 end_operator
 begin_operator
@@ -5074,8 +5074,8 @@ overcome abrasion stimulation marzipan vulcan uranus
 1
 17 9
 2
-0 40 9 22
 0 39 2 3
+0 40 9 22
 1
 end_operator
 begin_operator
@@ -5083,8 +5083,8 @@ overcome abrasion stimulation onion saturn earth
 1
 17 10
 2
-0 40 11 22
 0 39 0 1
+0 40 11 22
 1
 end_operator
 begin_operator
@@ -5092,8 +5092,8 @@ overcome abrasion stimulation onion uranus saturn
 1
 17 10
 2
-0 40 11 22
 0 39 1 2
+0 40 11 22
 1
 end_operator
 begin_operator
@@ -5101,8 +5101,8 @@ overcome abrasion stimulation onion vulcan uranus
 1
 17 10
 2
-0 40 11 22
 0 39 2 3
+0 40 11 22
 1
 end_operator
 begin_operator
@@ -5110,8 +5110,8 @@ overcome abrasion stimulation tofu saturn earth
 1
 17 11
 2
-0 40 13 22
 0 39 0 1
+0 40 13 22
 1
 end_operator
 begin_operator
@@ -5119,8 +5119,8 @@ overcome abrasion stimulation tofu uranus saturn
 1
 17 11
 2
-0 40 13 22
 0 39 1 2
+0 40 13 22
 1
 end_operator
 begin_operator
@@ -5128,8 +5128,8 @@ overcome abrasion stimulation tofu vulcan uranus
 1
 17 11
 2
-0 40 13 22
 0 39 2 3
+0 40 13 22
 1
 end_operator
 begin_operator
@@ -5137,8 +5137,8 @@ overcome abrasion stimulation wonderbread saturn earth
 1
 17 12
 2
-0 40 14 22
 0 39 0 1
+0 40 14 22
 1
 end_operator
 begin_operator
@@ -5146,8 +5146,8 @@ overcome abrasion stimulation wonderbread uranus saturn
 1
 17 12
 2
-0 40 14 22
 0 39 1 2
+0 40 14 22
 1
 end_operator
 begin_operator
@@ -5155,32 +5155,32 @@ overcome abrasion stimulation wonderbread vulcan uranus
 1
 17 12
 2
-0 40 14 22
 0 39 2 3
+0 40 14 22
 1
 end_operator
 begin_operator
 overcome anger achievement wonderbread saturn earth
 0
 2
-0 22 14 15
 0 19 0 1
+0 22 14 15
 1
 end_operator
 begin_operator
 overcome anger achievement wonderbread uranus saturn
 0
 2
-0 22 14 15
 0 19 1 2
+0 22 14 15
 1
 end_operator
 begin_operator
 overcome anger achievement wonderbread vulcan uranus
 0
 2
-0 22 14 15
 0 19 2 3
+0 22 14 15
 1
 end_operator
 begin_operator
@@ -5890,8 +5890,8 @@ overcome anger expectation okra saturn earth
 1
 1 0
 2
-0 22 10 18
 0 20 0 1
+0 22 10 18
 1
 end_operator
 begin_operator
@@ -5899,8 +5899,8 @@ overcome anger expectation okra uranus saturn
 1
 1 0
 2
-0 22 10 18
 0 20 1 2
+0 22 10 18
 1
 end_operator
 begin_operator
@@ -5908,8 +5908,8 @@ overcome anger expectation okra vulcan uranus
 1
 1 0
 2
-0 22 10 18
 0 20 2 3
+0 22 10 18
 1
 end_operator
 begin_operator
@@ -5917,8 +5917,8 @@ overcome anger expectation onion saturn earth
 1
 1 1
 2
-0 22 11 18
 0 20 0 1
+0 22 11 18
 1
 end_operator
 begin_operator
@@ -5926,8 +5926,8 @@ overcome anger expectation onion uranus saturn
 1
 1 1
 2
-0 22 11 18
 0 20 1 2
+0 22 11 18
 1
 end_operator
 begin_operator
@@ -5935,8 +5935,8 @@ overcome anger expectation onion vulcan uranus
 1
 1 1
 2
-0 22 11 18
 0 20 2 3
+0 22 11 18
 1
 end_operator
 begin_operator
@@ -5944,8 +5944,8 @@ overcome anger expectation snickers saturn earth
 1
 1 2
 2
-0 22 12 18
 0 20 0 1
+0 22 12 18
 1
 end_operator
 begin_operator
@@ -5953,8 +5953,8 @@ overcome anger expectation snickers uranus saturn
 1
 1 2
 2
-0 22 12 18
 0 20 1 2
+0 22 12 18
 1
 end_operator
 begin_operator
@@ -5962,8 +5962,8 @@ overcome anger expectation snickers vulcan uranus
 1
 1 2
 2
-0 22 12 18
 0 20 2 3
+0 22 12 18
 1
 end_operator
 begin_operator
@@ -5971,8 +5971,8 @@ overcome anger expectation wonderbread saturn earth
 1
 1 3
 2
-0 22 14 18
 0 20 0 1
+0 22 14 18
 1
 end_operator
 begin_operator
@@ -5980,8 +5980,8 @@ overcome anger expectation wonderbread uranus saturn
 1
 1 3
 2
-0 22 14 18
 0 20 1 2
+0 22 14 18
 1
 end_operator
 begin_operator
@@ -5989,8 +5989,8 @@ overcome anger expectation wonderbread vulcan uranus
 1
 1 3
 2
-0 22 14 18
 0 20 2 3
+0 22 14 18
 1
 end_operator
 begin_operator
@@ -5998,8 +5998,8 @@ overcome anger learning okra saturn earth
 1
 2 0
 2
-0 22 10 19
 0 21 0 1
+0 22 10 19
 1
 end_operator
 begin_operator
@@ -6007,8 +6007,8 @@ overcome anger learning okra uranus saturn
 1
 2 0
 2
-0 22 10 19
 0 21 1 2
+0 22 10 19
 1
 end_operator
 begin_operator
@@ -6016,8 +6016,8 @@ overcome anger learning okra vulcan uranus
 1
 2 0
 2
-0 22 10 19
 0 21 2 3
+0 22 10 19
 1
 end_operator
 begin_operator
@@ -6025,8 +6025,8 @@ overcome anger learning onion saturn earth
 1
 2 1
 2
-0 22 11 19
 0 21 0 1
+0 22 11 19
 1
 end_operator
 begin_operator
@@ -6034,8 +6034,8 @@ overcome anger learning onion uranus saturn
 1
 2 1
 2
-0 22 11 19
 0 21 1 2
+0 22 11 19
 1
 end_operator
 begin_operator
@@ -6043,8 +6043,8 @@ overcome anger learning onion vulcan uranus
 1
 2 1
 2
-0 22 11 19
 0 21 2 3
+0 22 11 19
 1
 end_operator
 begin_operator
@@ -6052,8 +6052,8 @@ overcome anger learning snickers saturn earth
 1
 2 2
 2
-0 22 12 19
 0 21 0 1
+0 22 12 19
 1
 end_operator
 begin_operator
@@ -6061,8 +6061,8 @@ overcome anger learning snickers uranus saturn
 1
 2 2
 2
-0 22 12 19
 0 21 1 2
+0 22 12 19
 1
 end_operator
 begin_operator
@@ -6070,8 +6070,8 @@ overcome anger learning snickers vulcan uranus
 1
 2 2
 2
-0 22 12 19
 0 21 2 3
+0 22 12 19
 1
 end_operator
 begin_operator
@@ -6079,8 +6079,8 @@ overcome anger learning wonderbread saturn earth
 1
 2 3
 2
-0 22 14 19
 0 21 0 1
+0 22 14 19
 1
 end_operator
 begin_operator
@@ -6088,8 +6088,8 @@ overcome anger learning wonderbread uranus saturn
 1
 2 3
 2
-0 22 14 19
 0 21 1 2
+0 22 14 19
 1
 end_operator
 begin_operator
@@ -6097,8 +6097,8 @@ overcome anger learning wonderbread vulcan uranus
 1
 2 3
 2
-0 22 14 19
 0 21 2 3
+0 22 14 19
 1
 end_operator
 begin_operator
@@ -7158,24 +7158,24 @@ begin_operator
 overcome angina achievement wonderbread saturn earth
 0
 2
-0 23 14 15
 0 19 0 1
+0 23 14 15
 1
 end_operator
 begin_operator
 overcome angina achievement wonderbread uranus saturn
 0
 2
-0 23 14 15
 0 19 1 2
+0 23 14 15
 1
 end_operator
 begin_operator
 overcome angina achievement wonderbread vulcan uranus
 0
 2
-0 23 14 15
 0 19 2 3
+0 23 14 15
 1
 end_operator
 begin_operator
@@ -7885,8 +7885,8 @@ overcome angina expectation okra saturn earth
 1
 1 0
 2
-0 23 10 18
 0 20 0 1
+0 23 10 18
 1
 end_operator
 begin_operator
@@ -7894,8 +7894,8 @@ overcome angina expectation okra uranus saturn
 1
 1 0
 2
-0 23 10 18
 0 20 1 2
+0 23 10 18
 1
 end_operator
 begin_operator
@@ -7903,8 +7903,8 @@ overcome angina expectation okra vulcan uranus
 1
 1 0
 2
-0 23 10 18
 0 20 2 3
+0 23 10 18
 1
 end_operator
 begin_operator
@@ -7912,8 +7912,8 @@ overcome angina expectation onion saturn earth
 1
 1 1
 2
-0 23 11 18
 0 20 0 1
+0 23 11 18
 1
 end_operator
 begin_operator
@@ -7921,8 +7921,8 @@ overcome angina expectation onion uranus saturn
 1
 1 1
 2
-0 23 11 18
 0 20 1 2
+0 23 11 18
 1
 end_operator
 begin_operator
@@ -7930,8 +7930,8 @@ overcome angina expectation onion vulcan uranus
 1
 1 1
 2
-0 23 11 18
 0 20 2 3
+0 23 11 18
 1
 end_operator
 begin_operator
@@ -7939,8 +7939,8 @@ overcome angina expectation snickers saturn earth
 1
 1 2
 2
-0 23 12 18
 0 20 0 1
+0 23 12 18
 1
 end_operator
 begin_operator
@@ -7948,8 +7948,8 @@ overcome angina expectation snickers uranus saturn
 1
 1 2
 2
-0 23 12 18
 0 20 1 2
+0 23 12 18
 1
 end_operator
 begin_operator
@@ -7957,8 +7957,8 @@ overcome angina expectation snickers vulcan uranus
 1
 1 2
 2
-0 23 12 18
 0 20 2 3
+0 23 12 18
 1
 end_operator
 begin_operator
@@ -7966,8 +7966,8 @@ overcome angina expectation wonderbread saturn earth
 1
 1 3
 2
-0 23 14 18
 0 20 0 1
+0 23 14 18
 1
 end_operator
 begin_operator
@@ -7975,8 +7975,8 @@ overcome angina expectation wonderbread uranus saturn
 1
 1 3
 2
-0 23 14 18
 0 20 1 2
+0 23 14 18
 1
 end_operator
 begin_operator
@@ -7984,8 +7984,8 @@ overcome angina expectation wonderbread vulcan uranus
 1
 1 3
 2
-0 23 14 18
 0 20 2 3
+0 23 14 18
 1
 end_operator
 begin_operator
@@ -7993,8 +7993,8 @@ overcome angina learning okra saturn earth
 1
 2 0
 2
-0 23 10 19
 0 21 0 1
+0 23 10 19
 1
 end_operator
 begin_operator
@@ -8002,8 +8002,8 @@ overcome angina learning okra uranus saturn
 1
 2 0
 2
-0 23 10 19
 0 21 1 2
+0 23 10 19
 1
 end_operator
 begin_operator
@@ -8011,8 +8011,8 @@ overcome angina learning okra vulcan uranus
 1
 2 0
 2
-0 23 10 19
 0 21 2 3
+0 23 10 19
 1
 end_operator
 begin_operator
@@ -8020,8 +8020,8 @@ overcome angina learning onion saturn earth
 1
 2 1
 2
-0 23 11 19
 0 21 0 1
+0 23 11 19
 1
 end_operator
 begin_operator
@@ -8029,8 +8029,8 @@ overcome angina learning onion uranus saturn
 1
 2 1
 2
-0 23 11 19
 0 21 1 2
+0 23 11 19
 1
 end_operator
 begin_operator
@@ -8038,8 +8038,8 @@ overcome angina learning onion vulcan uranus
 1
 2 1
 2
-0 23 11 19
 0 21 2 3
+0 23 11 19
 1
 end_operator
 begin_operator
@@ -8047,8 +8047,8 @@ overcome angina learning snickers saturn earth
 1
 2 2
 2
-0 23 12 19
 0 21 0 1
+0 23 12 19
 1
 end_operator
 begin_operator
@@ -8056,8 +8056,8 @@ overcome angina learning snickers uranus saturn
 1
 2 2
 2
-0 23 12 19
 0 21 1 2
+0 23 12 19
 1
 end_operator
 begin_operator
@@ -8065,8 +8065,8 @@ overcome angina learning snickers vulcan uranus
 1
 2 2
 2
-0 23 12 19
 0 21 2 3
+0 23 12 19
 1
 end_operator
 begin_operator
@@ -8074,8 +8074,8 @@ overcome angina learning wonderbread saturn earth
 1
 2 3
 2
-0 23 14 19
 0 21 0 1
+0 23 14 19
 1
 end_operator
 begin_operator
@@ -8083,8 +8083,8 @@ overcome angina learning wonderbread uranus saturn
 1
 2 3
 2
-0 23 14 19
 0 21 1 2
+0 23 14 19
 1
 end_operator
 begin_operator
@@ -8092,8 +8092,8 @@ overcome angina learning wonderbread vulcan uranus
 1
 2 3
 2
-0 23 14 19
 0 21 2 3
+0 23 14 19
 1
 end_operator
 begin_operator
@@ -9153,24 +9153,24 @@ begin_operator
 overcome anxiety achievement wonderbread saturn earth
 0
 2
-0 24 14 15
 0 19 0 1
+0 24 14 15
 1
 end_operator
 begin_operator
 overcome anxiety achievement wonderbread uranus saturn
 0
 2
-0 24 14 15
 0 19 1 2
+0 24 14 15
 1
 end_operator
 begin_operator
 overcome anxiety achievement wonderbread vulcan uranus
 0
 2
-0 24 14 15
 0 19 2 3
+0 24 14 15
 1
 end_operator
 begin_operator
@@ -9880,8 +9880,8 @@ overcome anxiety expectation okra saturn earth
 1
 1 0
 2
-0 24 10 18
 0 20 0 1
+0 24 10 18
 1
 end_operator
 begin_operator
@@ -9889,8 +9889,8 @@ overcome anxiety expectation okra uranus saturn
 1
 1 0
 2
-0 24 10 18
 0 20 1 2
+0 24 10 18
 1
 end_operator
 begin_operator
@@ -9898,8 +9898,8 @@ overcome anxiety expectation okra vulcan uranus
 1
 1 0
 2
-0 24 10 18
 0 20 2 3
+0 24 10 18
 1
 end_operator
 begin_operator
@@ -9907,8 +9907,8 @@ overcome anxiety expectation onion saturn earth
 1
 1 1
 2
-0 24 11 18
 0 20 0 1
+0 24 11 18
 1
 end_operator
 begin_operator
@@ -9916,8 +9916,8 @@ overcome anxiety expectation onion uranus saturn
 1
 1 1
 2
-0 24 11 18
 0 20 1 2
+0 24 11 18
 1
 end_operator
 begin_operator
@@ -9925,8 +9925,8 @@ overcome anxiety expectation onion vulcan uranus
 1
 1 1
 2
-0 24 11 18
 0 20 2 3
+0 24 11 18
 1
 end_operator
 begin_operator
@@ -9934,8 +9934,8 @@ overcome anxiety expectation snickers saturn earth
 1
 1 2
 2
-0 24 12 18
 0 20 0 1
+0 24 12 18
 1
 end_operator
 begin_operator
@@ -9943,8 +9943,8 @@ overcome anxiety expectation snickers uranus saturn
 1
 1 2
 2
-0 24 12 18
 0 20 1 2
+0 24 12 18
 1
 end_operator
 begin_operator
@@ -9952,8 +9952,8 @@ overcome anxiety expectation snickers vulcan uranus
 1
 1 2
 2
-0 24 12 18
 0 20 2 3
+0 24 12 18
 1
 end_operator
 begin_operator
@@ -9961,8 +9961,8 @@ overcome anxiety expectation wonderbread saturn earth
 1
 1 3
 2
-0 24 14 18
 0 20 0 1
+0 24 14 18
 1
 end_operator
 begin_operator
@@ -9970,8 +9970,8 @@ overcome anxiety expectation wonderbread uranus saturn
 1
 1 3
 2
-0 24 14 18
 0 20 1 2
+0 24 14 18
 1
 end_operator
 begin_operator
@@ -9979,8 +9979,8 @@ overcome anxiety expectation wonderbread vulcan uranus
 1
 1 3
 2
-0 24 14 18
 0 20 2 3
+0 24 14 18
 1
 end_operator
 begin_operator
@@ -9988,8 +9988,8 @@ overcome anxiety learning okra saturn earth
 1
 2 0
 2
-0 24 10 19
 0 21 0 1
+0 24 10 19
 1
 end_operator
 begin_operator
@@ -9997,8 +9997,8 @@ overcome anxiety learning okra uranus saturn
 1
 2 0
 2
-0 24 10 19
 0 21 1 2
+0 24 10 19
 1
 end_operator
 begin_operator
@@ -10006,8 +10006,8 @@ overcome anxiety learning okra vulcan uranus
 1
 2 0
 2
-0 24 10 19
 0 21 2 3
+0 24 10 19
 1
 end_operator
 begin_operator
@@ -10015,8 +10015,8 @@ overcome anxiety learning onion saturn earth
 1
 2 1
 2
-0 24 11 19
 0 21 0 1
+0 24 11 19
 1
 end_operator
 begin_operator
@@ -10024,8 +10024,8 @@ overcome anxiety learning onion uranus saturn
 1
 2 1
 2
-0 24 11 19
 0 21 1 2
+0 24 11 19
 1
 end_operator
 begin_operator
@@ -10033,8 +10033,8 @@ overcome anxiety learning onion vulcan uranus
 1
 2 1
 2
-0 24 11 19
 0 21 2 3
+0 24 11 19
 1
 end_operator
 begin_operator
@@ -10042,8 +10042,8 @@ overcome anxiety learning snickers saturn earth
 1
 2 2
 2
-0 24 12 19
 0 21 0 1
+0 24 12 19
 1
 end_operator
 begin_operator
@@ -10051,8 +10051,8 @@ overcome anxiety learning snickers uranus saturn
 1
 2 2
 2
-0 24 12 19
 0 21 1 2
+0 24 12 19
 1
 end_operator
 begin_operator
@@ -10060,8 +10060,8 @@ overcome anxiety learning snickers vulcan uranus
 1
 2 2
 2
-0 24 12 19
 0 21 2 3
+0 24 12 19
 1
 end_operator
 begin_operator
@@ -10069,8 +10069,8 @@ overcome anxiety learning wonderbread saturn earth
 1
 2 3
 2
-0 24 14 19
 0 21 0 1
+0 24 14 19
 1
 end_operator
 begin_operator
@@ -10078,8 +10078,8 @@ overcome anxiety learning wonderbread uranus saturn
 1
 2 3
 2
-0 24 14 19
 0 21 1 2
+0 24 14 19
 1
 end_operator
 begin_operator
@@ -10087,8 +10087,8 @@ overcome anxiety learning wonderbread vulcan uranus
 1
 2 3
 2
-0 24 14 19
 0 21 2 3
+0 24 14 19
 1
 end_operator
 begin_operator
@@ -11148,24 +11148,24 @@ begin_operator
 overcome boils achievement wonderbread saturn earth
 0
 2
-0 25 14 15
 0 19 0 1
+0 25 14 15
 1
 end_operator
 begin_operator
 overcome boils achievement wonderbread uranus saturn
 0
 2
-0 25 14 15
 0 19 1 2
+0 25 14 15
 1
 end_operator
 begin_operator
 overcome boils achievement wonderbread vulcan uranus
 0
 2
-0 25 14 15
 0 19 2 3
+0 25 14 15
 1
 end_operator
 begin_operator
@@ -11875,8 +11875,8 @@ overcome boils expectation okra saturn earth
 1
 1 0
 2
-0 25 10 18
 0 20 0 1
+0 25 10 18
 1
 end_operator
 begin_operator
@@ -11884,8 +11884,8 @@ overcome boils expectation okra uranus saturn
 1
 1 0
 2
-0 25 10 18
 0 20 1 2
+0 25 10 18
 1
 end_operator
 begin_operator
@@ -11893,8 +11893,8 @@ overcome boils expectation okra vulcan uranus
 1
 1 0
 2
-0 25 10 18
 0 20 2 3
+0 25 10 18
 1
 end_operator
 begin_operator
@@ -11902,8 +11902,8 @@ overcome boils expectation onion saturn earth
 1
 1 1
 2
-0 25 11 18
 0 20 0 1
+0 25 11 18
 1
 end_operator
 begin_operator
@@ -11911,8 +11911,8 @@ overcome boils expectation onion uranus saturn
 1
 1 1
 2
-0 25 11 18
 0 20 1 2
+0 25 11 18
 1
 end_operator
 begin_operator
@@ -11920,8 +11920,8 @@ overcome boils expectation onion vulcan uranus
 1
 1 1
 2
-0 25 11 18
 0 20 2 3
+0 25 11 18
 1
 end_operator
 begin_operator
@@ -11929,8 +11929,8 @@ overcome boils expectation snickers saturn earth
 1
 1 2
 2
-0 25 12 18
 0 20 0 1
+0 25 12 18
 1
 end_operator
 begin_operator
@@ -11938,8 +11938,8 @@ overcome boils expectation snickers uranus saturn
 1
 1 2
 2
-0 25 12 18
 0 20 1 2
+0 25 12 18
 1
 end_operator
 begin_operator
@@ -11947,8 +11947,8 @@ overcome boils expectation snickers vulcan uranus
 1
 1 2
 2
-0 25 12 18
 0 20 2 3
+0 25 12 18
 1
 end_operator
 begin_operator
@@ -11956,8 +11956,8 @@ overcome boils expectation wonderbread saturn earth
 1
 1 3
 2
-0 25 14 18
 0 20 0 1
+0 25 14 18
 1
 end_operator
 begin_operator
@@ -11965,8 +11965,8 @@ overcome boils expectation wonderbread uranus saturn
 1
 1 3
 2
-0 25 14 18
 0 20 1 2
+0 25 14 18
 1
 end_operator
 begin_operator
@@ -11974,8 +11974,8 @@ overcome boils expectation wonderbread vulcan uranus
 1
 1 3
 2
-0 25 14 18
 0 20 2 3
+0 25 14 18
 1
 end_operator
 begin_operator
@@ -11983,8 +11983,8 @@ overcome boils learning okra saturn earth
 1
 2 0
 2
-0 25 10 19
 0 21 0 1
+0 25 10 19
 1
 end_operator
 begin_operator
@@ -11992,8 +11992,8 @@ overcome boils learning okra uranus saturn
 1
 2 0
 2
-0 25 10 19
 0 21 1 2
+0 25 10 19
 1
 end_operator
 begin_operator
@@ -12001,8 +12001,8 @@ overcome boils learning okra vulcan uranus
 1
 2 0
 2
-0 25 10 19
 0 21 2 3
+0 25 10 19
 1
 end_operator
 begin_operator
@@ -12010,8 +12010,8 @@ overcome boils learning onion saturn earth
 1
 2 1
 2
-0 25 11 19
 0 21 0 1
+0 25 11 19
 1
 end_operator
 begin_operator
@@ -12019,8 +12019,8 @@ overcome boils learning onion uranus saturn
 1
 2 1
 2
-0 25 11 19
 0 21 1 2
+0 25 11 19
 1
 end_operator
 begin_operator
@@ -12028,8 +12028,8 @@ overcome boils learning onion vulcan uranus
 1
 2 1
 2
-0 25 11 19
 0 21 2 3
+0 25 11 19
 1
 end_operator
 begin_operator
@@ -12037,8 +12037,8 @@ overcome boils learning snickers saturn earth
 1
 2 2
 2
-0 25 12 19
 0 21 0 1
+0 25 12 19
 1
 end_operator
 begin_operator
@@ -12046,8 +12046,8 @@ overcome boils learning snickers uranus saturn
 1
 2 2
 2
-0 25 12 19
 0 21 1 2
+0 25 12 19
 1
 end_operator
 begin_operator
@@ -12055,8 +12055,8 @@ overcome boils learning snickers vulcan uranus
 1
 2 2
 2
-0 25 12 19
 0 21 2 3
+0 25 12 19
 1
 end_operator
 begin_operator
@@ -12064,8 +12064,8 @@ overcome boils learning wonderbread saturn earth
 1
 2 3
 2
-0 25 14 19
 0 21 0 1
+0 25 14 19
 1
 end_operator
 begin_operator
@@ -12073,8 +12073,8 @@ overcome boils learning wonderbread uranus saturn
 1
 2 3
 2
-0 25 14 19
 0 21 1 2
+0 25 14 19
 1
 end_operator
 begin_operator
@@ -12082,8 +12082,8 @@ overcome boils learning wonderbread vulcan uranus
 1
 2 3
 2
-0 25 14 19
 0 21 2 3
+0 25 14 19
 1
 end_operator
 begin_operator
@@ -13143,24 +13143,24 @@ begin_operator
 overcome depression achievement wonderbread saturn earth
 0
 2
-0 26 14 15
 0 19 0 1
+0 26 14 15
 1
 end_operator
 begin_operator
 overcome depression achievement wonderbread uranus saturn
 0
 2
-0 26 14 15
 0 19 1 2
+0 26 14 15
 1
 end_operator
 begin_operator
 overcome depression achievement wonderbread vulcan uranus
 0
 2
-0 26 14 15
 0 19 2 3
+0 26 14 15
 1
 end_operator
 begin_operator
@@ -13870,8 +13870,8 @@ overcome depression expectation okra saturn earth
 1
 1 0
 2
-0 26 10 18
 0 20 0 1
+0 26 10 18
 1
 end_operator
 begin_operator
@@ -13879,8 +13879,8 @@ overcome depression expectation okra uranus saturn
 1
 1 0
 2
-0 26 10 18
 0 20 1 2
+0 26 10 18
 1
 end_operator
 begin_operator
@@ -13888,8 +13888,8 @@ overcome depression expectation okra vulcan uranus
 1
 1 0
 2
-0 26 10 18
 0 20 2 3
+0 26 10 18
 1
 end_operator
 begin_operator
@@ -13897,8 +13897,8 @@ overcome depression expectation onion saturn earth
 1
 1 1
 2
-0 26 11 18
 0 20 0 1
+0 26 11 18
 1
 end_operator
 begin_operator
@@ -13906,8 +13906,8 @@ overcome depression expectation onion uranus saturn
 1
 1 1
 2
-0 26 11 18
 0 20 1 2
+0 26 11 18
 1
 end_operator
 begin_operator
@@ -13915,8 +13915,8 @@ overcome depression expectation onion vulcan uranus
 1
 1 1
 2
-0 26 11 18
 0 20 2 3
+0 26 11 18
 1
 end_operator
 begin_operator
@@ -13924,8 +13924,8 @@ overcome depression expectation snickers saturn earth
 1
 1 2
 2
-0 26 12 18
 0 20 0 1
+0 26 12 18
 1
 end_operator
 begin_operator
@@ -13933,8 +13933,8 @@ overcome depression expectation snickers uranus saturn
 1
 1 2
 2
-0 26 12 18
 0 20 1 2
+0 26 12 18
 1
 end_operator
 begin_operator
@@ -13942,8 +13942,8 @@ overcome depression expectation snickers vulcan uranus
 1
 1 2
 2
-0 26 12 18
 0 20 2 3
+0 26 12 18
 1
 end_operator
 begin_operator
@@ -13951,8 +13951,8 @@ overcome depression expectation wonderbread saturn earth
 1
 1 3
 2
-0 26 14 18
 0 20 0 1
+0 26 14 18
 1
 end_operator
 begin_operator
@@ -13960,8 +13960,8 @@ overcome depression expectation wonderbread uranus saturn
 1
 1 3
 2
-0 26 14 18
 0 20 1 2
+0 26 14 18
 1
 end_operator
 begin_operator
@@ -13969,8 +13969,8 @@ overcome depression expectation wonderbread vulcan uranus
 1
 1 3
 2
-0 26 14 18
 0 20 2 3
+0 26 14 18
 1
 end_operator
 begin_operator
@@ -13978,8 +13978,8 @@ overcome depression learning okra saturn earth
 1
 2 0
 2
-0 26 10 19
 0 21 0 1
+0 26 10 19
 1
 end_operator
 begin_operator
@@ -13987,8 +13987,8 @@ overcome depression learning okra uranus saturn
 1
 2 0
 2
-0 26 10 19
 0 21 1 2
+0 26 10 19
 1
 end_operator
 begin_operator
@@ -13996,8 +13996,8 @@ overcome depression learning okra vulcan uranus
 1
 2 0
 2
-0 26 10 19
 0 21 2 3
+0 26 10 19
 1
 end_operator
 begin_operator
@@ -14005,8 +14005,8 @@ overcome depression learning onion saturn earth
 1
 2 1
 2
-0 26 11 19
 0 21 0 1
+0 26 11 19
 1
 end_operator
 begin_operator
@@ -14014,8 +14014,8 @@ overcome depression learning onion uranus saturn
 1
 2 1
 2
-0 26 11 19
 0 21 1 2
+0 26 11 19
 1
 end_operator
 begin_operator
@@ -14023,8 +14023,8 @@ overcome depression learning onion vulcan uranus
 1
 2 1
 2
-0 26 11 19
 0 21 2 3
+0 26 11 19
 1
 end_operator
 begin_operator
@@ -14032,8 +14032,8 @@ overcome depression learning snickers saturn earth
 1
 2 2
 2
-0 26 12 19
 0 21 0 1
+0 26 12 19
 1
 end_operator
 begin_operator
@@ -14041,8 +14041,8 @@ overcome depression learning snickers uranus saturn
 1
 2 2
 2
-0 26 12 19
 0 21 1 2
+0 26 12 19
 1
 end_operator
 begin_operator
@@ -14050,8 +14050,8 @@ overcome depression learning snickers vulcan uranus
 1
 2 2
 2
-0 26 12 19
 0 21 2 3
+0 26 12 19
 1
 end_operator
 begin_operator
@@ -14059,8 +14059,8 @@ overcome depression learning wonderbread saturn earth
 1
 2 3
 2
-0 26 14 19
 0 21 0 1
+0 26 14 19
 1
 end_operator
 begin_operator
@@ -14068,8 +14068,8 @@ overcome depression learning wonderbread uranus saturn
 1
 2 3
 2
-0 26 14 19
 0 21 1 2
+0 26 14 19
 1
 end_operator
 begin_operator
@@ -14077,8 +14077,8 @@ overcome depression learning wonderbread vulcan uranus
 1
 2 3
 2
-0 26 14 19
 0 21 2 3
+0 26 14 19
 1
 end_operator
 begin_operator
@@ -15138,24 +15138,24 @@ begin_operator
 overcome dread achievement wonderbread saturn earth
 0
 2
-0 27 14 15
 0 19 0 1
+0 27 14 15
 1
 end_operator
 begin_operator
 overcome dread achievement wonderbread uranus saturn
 0
 2
-0 27 14 15
 0 19 1 2
+0 27 14 15
 1
 end_operator
 begin_operator
 overcome dread achievement wonderbread vulcan uranus
 0
 2
-0 27 14 15
 0 19 2 3
+0 27 14 15
 1
 end_operator
 begin_operator
@@ -15865,8 +15865,8 @@ overcome dread expectation okra saturn earth
 1
 1 0
 2
-0 27 10 18
 0 20 0 1
+0 27 10 18
 1
 end_operator
 begin_operator
@@ -15874,8 +15874,8 @@ overcome dread expectation okra uranus saturn
 1
 1 0
 2
-0 27 10 18
 0 20 1 2
+0 27 10 18
 1
 end_operator
 begin_operator
@@ -15883,8 +15883,8 @@ overcome dread expectation okra vulcan uranus
 1
 1 0
 2
-0 27 10 18
 0 20 2 3
+0 27 10 18
 1
 end_operator
 begin_operator
@@ -15892,8 +15892,8 @@ overcome dread expectation onion saturn earth
 1
 1 1
 2
-0 27 11 18
 0 20 0 1
+0 27 11 18
 1
 end_operator
 begin_operator
@@ -15901,8 +15901,8 @@ overcome dread expectation onion uranus saturn
 1
 1 1
 2
-0 27 11 18
 0 20 1 2
+0 27 11 18
 1
 end_operator
 begin_operator
@@ -15910,8 +15910,8 @@ overcome dread expectation onion vulcan uranus
 1
 1 1
 2
-0 27 11 18
 0 20 2 3
+0 27 11 18
 1
 end_operator
 begin_operator
@@ -15919,8 +15919,8 @@ overcome dread expectation snickers saturn earth
 1
 1 2
 2
-0 27 12 18
 0 20 0 1
+0 27 12 18
 1
 end_operator
 begin_operator
@@ -15928,8 +15928,8 @@ overcome dread expectation snickers uranus saturn
 1
 1 2
 2
-0 27 12 18
 0 20 1 2
+0 27 12 18
 1
 end_operator
 begin_operator
@@ -15937,8 +15937,8 @@ overcome dread expectation snickers vulcan uranus
 1
 1 2
 2
-0 27 12 18
 0 20 2 3
+0 27 12 18
 1
 end_operator
 begin_operator
@@ -15946,8 +15946,8 @@ overcome dread expectation wonderbread saturn earth
 1
 1 3
 2
-0 27 14 18
 0 20 0 1
+0 27 14 18
 1
 end_operator
 begin_operator
@@ -15955,8 +15955,8 @@ overcome dread expectation wonderbread uranus saturn
 1
 1 3
 2
-0 27 14 18
 0 20 1 2
+0 27 14 18
 1
 end_operator
 begin_operator
@@ -15964,8 +15964,8 @@ overcome dread expectation wonderbread vulcan uranus
 1
 1 3
 2
-0 27 14 18
 0 20 2 3
+0 27 14 18
 1
 end_operator
 begin_operator
@@ -15973,8 +15973,8 @@ overcome dread learning okra saturn earth
 1
 2 0
 2
-0 27 10 19
 0 21 0 1
+0 27 10 19
 1
 end_operator
 begin_operator
@@ -15982,8 +15982,8 @@ overcome dread learning okra uranus saturn
 1
 2 0
 2
-0 27 10 19
 0 21 1 2
+0 27 10 19
 1
 end_operator
 begin_operator
@@ -15991,8 +15991,8 @@ overcome dread learning okra vulcan uranus
 1
 2 0
 2
-0 27 10 19
 0 21 2 3
+0 27 10 19
 1
 end_operator
 begin_operator
@@ -16000,8 +16000,8 @@ overcome dread learning onion saturn earth
 1
 2 1
 2
-0 27 11 19
 0 21 0 1
+0 27 11 19
 1
 end_operator
 begin_operator
@@ -16009,8 +16009,8 @@ overcome dread learning onion uranus saturn
 1
 2 1
 2
-0 27 11 19
 0 21 1 2
+0 27 11 19
 1
 end_operator
 begin_operator
@@ -16018,8 +16018,8 @@ overcome dread learning onion vulcan uranus
 1
 2 1
 2
-0 27 11 19
 0 21 2 3
+0 27 11 19
 1
 end_operator
 begin_operator
@@ -16027,8 +16027,8 @@ overcome dread learning snickers saturn earth
 1
 2 2
 2
-0 27 12 19
 0 21 0 1
+0 27 12 19
 1
 end_operator
 begin_operator
@@ -16036,8 +16036,8 @@ overcome dread learning snickers uranus saturn
 1
 2 2
 2
-0 27 12 19
 0 21 1 2
+0 27 12 19
 1
 end_operator
 begin_operator
@@ -16045,8 +16045,8 @@ overcome dread learning snickers vulcan uranus
 1
 2 2
 2
-0 27 12 19
 0 21 2 3
+0 27 12 19
 1
 end_operator
 begin_operator
@@ -16054,8 +16054,8 @@ overcome dread learning wonderbread saturn earth
 1
 2 3
 2
-0 27 14 19
 0 21 0 1
+0 27 14 19
 1
 end_operator
 begin_operator
@@ -16063,8 +16063,8 @@ overcome dread learning wonderbread uranus saturn
 1
 2 3
 2
-0 27 14 19
 0 21 1 2
+0 27 14 19
 1
 end_operator
 begin_operator
@@ -16072,8 +16072,8 @@ overcome dread learning wonderbread vulcan uranus
 1
 2 3
 2
-0 27 14 19
 0 21 2 3
+0 27 14 19
 1
 end_operator
 begin_operator
@@ -17133,24 +17133,24 @@ begin_operator
 overcome grief achievement wonderbread saturn earth
 0
 2
-0 28 14 15
 0 19 0 1
+0 28 14 15
 1
 end_operator
 begin_operator
 overcome grief achievement wonderbread uranus saturn
 0
 2
-0 28 14 15
 0 19 1 2
+0 28 14 15
 1
 end_operator
 begin_operator
 overcome grief achievement wonderbread vulcan uranus
 0
 2
-0 28 14 15
 0 19 2 3
+0 28 14 15
 1
 end_operator
 begin_operator
@@ -17860,8 +17860,8 @@ overcome grief expectation okra saturn earth
 1
 1 0
 2
-0 28 10 18
 0 20 0 1
+0 28 10 18
 1
 end_operator
 begin_operator
@@ -17869,8 +17869,8 @@ overcome grief expectation okra uranus saturn
 1
 1 0
 2
-0 28 10 18
 0 20 1 2
+0 28 10 18
 1
 end_operator
 begin_operator
@@ -17878,8 +17878,8 @@ overcome grief expectation okra vulcan uranus
 1
 1 0
 2
-0 28 10 18
 0 20 2 3
+0 28 10 18
 1
 end_operator
 begin_operator
@@ -17887,8 +17887,8 @@ overcome grief expectation onion saturn earth
 1
 1 1
 2
-0 28 11 18
 0 20 0 1
+0 28 11 18
 1
 end_operator
 begin_operator
@@ -17896,8 +17896,8 @@ overcome grief expectation onion uranus saturn
 1
 1 1
 2
-0 28 11 18
 0 20 1 2
+0 28 11 18
 1
 end_operator
 begin_operator
@@ -17905,8 +17905,8 @@ overcome grief expectation onion vulcan uranus
 1
 1 1
 2
-0 28 11 18
 0 20 2 3
+0 28 11 18
 1
 end_operator
 begin_operator
@@ -17914,8 +17914,8 @@ overcome grief expectation snickers saturn earth
 1
 1 2
 2
-0 28 12 18
 0 20 0 1
+0 28 12 18
 1
 end_operator
 begin_operator
@@ -17923,8 +17923,8 @@ overcome grief expectation snickers uranus saturn
 1
 1 2
 2
-0 28 12 18
 0 20 1 2
+0 28 12 18
 1
 end_operator
 begin_operator
@@ -17932,8 +17932,8 @@ overcome grief expectation snickers vulcan uranus
 1
 1 2
 2
-0 28 12 18
 0 20 2 3
+0 28 12 18
 1
 end_operator
 begin_operator
@@ -17941,8 +17941,8 @@ overcome grief expectation wonderbread saturn earth
 1
 1 3
 2
-0 28 14 18
 0 20 0 1
+0 28 14 18
 1
 end_operator
 begin_operator
@@ -17950,8 +17950,8 @@ overcome grief expectation wonderbread uranus saturn
 1
 1 3
 2
-0 28 14 18
 0 20 1 2
+0 28 14 18
 1
 end_operator
 begin_operator
@@ -17959,8 +17959,8 @@ overcome grief expectation wonderbread vulcan uranus
 1
 1 3
 2
-0 28 14 18
 0 20 2 3
+0 28 14 18
 1
 end_operator
 begin_operator
@@ -17968,8 +17968,8 @@ overcome grief learning okra saturn earth
 1
 2 0
 2
-0 28 10 19
 0 21 0 1
+0 28 10 19
 1
 end_operator
 begin_operator
@@ -17977,8 +17977,8 @@ overcome grief learning okra uranus saturn
 1
 2 0
 2
-0 28 10 19
 0 21 1 2
+0 28 10 19
 1
 end_operator
 begin_operator
@@ -17986,8 +17986,8 @@ overcome grief learning okra vulcan uranus
 1
 2 0
 2
-0 28 10 19
 0 21 2 3
+0 28 10 19
 1
 end_operator
 begin_operator
@@ -17995,8 +17995,8 @@ overcome grief learning onion saturn earth
 1
 2 1
 2
-0 28 11 19
 0 21 0 1
+0 28 11 19
 1
 end_operator
 begin_operator
@@ -18004,8 +18004,8 @@ overcome grief learning onion uranus saturn
 1
 2 1
 2
-0 28 11 19
 0 21 1 2
+0 28 11 19
 1
 end_operator
 begin_operator
@@ -18013,8 +18013,8 @@ overcome grief learning onion vulcan uranus
 1
 2 1
 2
-0 28 11 19
 0 21 2 3
+0 28 11 19
 1
 end_operator
 begin_operator
@@ -18022,8 +18022,8 @@ overcome grief learning snickers saturn earth
 1
 2 2
 2
-0 28 12 19
 0 21 0 1
+0 28 12 19
 1
 end_operator
 begin_operator
@@ -18031,8 +18031,8 @@ overcome grief learning snickers uranus saturn
 1
 2 2
 2
-0 28 12 19
 0 21 1 2
+0 28 12 19
 1
 end_operator
 begin_operator
@@ -18040,8 +18040,8 @@ overcome grief learning snickers vulcan uranus
 1
 2 2
 2
-0 28 12 19
 0 21 2 3
+0 28 12 19
 1
 end_operator
 begin_operator
@@ -18049,8 +18049,8 @@ overcome grief learning wonderbread saturn earth
 1
 2 3
 2
-0 28 14 19
 0 21 0 1
+0 28 14 19
 1
 end_operator
 begin_operator
@@ -18058,8 +18058,8 @@ overcome grief learning wonderbread uranus saturn
 1
 2 3
 2
-0 28 14 19
 0 21 1 2
+0 28 14 19
 1
 end_operator
 begin_operator
@@ -18067,8 +18067,8 @@ overcome grief learning wonderbread vulcan uranus
 1
 2 3
 2
-0 28 14 19
 0 21 2 3
+0 28 14 19
 1
 end_operator
 begin_operator
@@ -19128,24 +19128,24 @@ begin_operator
 overcome hangover achievement wonderbread saturn earth
 0
 2
-0 29 14 15
 0 19 0 1
+0 29 14 15
 1
 end_operator
 begin_operator
 overcome hangover achievement wonderbread uranus saturn
 0
 2
-0 29 14 15
 0 19 1 2
+0 29 14 15
 1
 end_operator
 begin_operator
 overcome hangover achievement wonderbread vulcan uranus
 0
 2
-0 29 14 15
 0 19 2 3
+0 29 14 15
 1
 end_operator
 begin_operator
@@ -19855,8 +19855,8 @@ overcome hangover expectation okra saturn earth
 1
 1 0
 2
-0 29 10 18
 0 20 0 1
+0 29 10 18
 1
 end_operator
 begin_operator
@@ -19864,8 +19864,8 @@ overcome hangover expectation okra uranus saturn
 1
 1 0
 2
-0 29 10 18
 0 20 1 2
+0 29 10 18
 1
 end_operator
 begin_operator
@@ -19873,8 +19873,8 @@ overcome hangover expectation okra vulcan uranus
 1
 1 0
 2
-0 29 10 18
 0 20 2 3
+0 29 10 18
 1
 end_operator
 begin_operator
@@ -19882,8 +19882,8 @@ overcome hangover expectation onion saturn earth
 1
 1 1
 2
-0 29 11 18
 0 20 0 1
+0 29 11 18
 1
 end_operator
 begin_operator
@@ -19891,8 +19891,8 @@ overcome hangover expectation onion uranus saturn
 1
 1 1
 2
-0 29 11 18
 0 20 1 2
+0 29 11 18
 1
 end_operator
 begin_operator
@@ -19900,8 +19900,8 @@ overcome hangover expectation onion vulcan uranus
 1
 1 1
 2
-0 29 11 18
 0 20 2 3
+0 29 11 18
 1
 end_operator
 begin_operator
@@ -19909,8 +19909,8 @@ overcome hangover expectation snickers saturn earth
 1
 1 2
 2
-0 29 12 18
 0 20 0 1
+0 29 12 18
 1
 end_operator
 begin_operator
@@ -19918,8 +19918,8 @@ overcome hangover expectation snickers uranus saturn
 1
 1 2
 2
-0 29 12 18
 0 20 1 2
+0 29 12 18
 1
 end_operator
 begin_operator
@@ -19927,8 +19927,8 @@ overcome hangover expectation snickers vulcan uranus
 1
 1 2
 2
-0 29 12 18
 0 20 2 3
+0 29 12 18
 1
 end_operator
 begin_operator
@@ -19936,8 +19936,8 @@ overcome hangover expectation wonderbread saturn earth
 1
 1 3
 2
-0 29 14 18
 0 20 0 1
+0 29 14 18
 1
 end_operator
 begin_operator
@@ -19945,8 +19945,8 @@ overcome hangover expectation wonderbread uranus saturn
 1
 1 3
 2
-0 29 14 18
 0 20 1 2
+0 29 14 18
 1
 end_operator
 begin_operator
@@ -19954,8 +19954,8 @@ overcome hangover expectation wonderbread vulcan uranus
 1
 1 3
 2
-0 29 14 18
 0 20 2 3
+0 29 14 18
 1
 end_operator
 begin_operator
@@ -19963,8 +19963,8 @@ overcome hangover learning okra saturn earth
 1
 2 0
 2
-0 29 10 19
 0 21 0 1
+0 29 10 19
 1
 end_operator
 begin_operator
@@ -19972,8 +19972,8 @@ overcome hangover learning okra uranus saturn
 1
 2 0
 2
-0 29 10 19
 0 21 1 2
+0 29 10 19
 1
 end_operator
 begin_operator
@@ -19981,8 +19981,8 @@ overcome hangover learning okra vulcan uranus
 1
 2 0
 2
-0 29 10 19
 0 21 2 3
+0 29 10 19
 1
 end_operator
 begin_operator
@@ -19990,8 +19990,8 @@ overcome hangover learning onion saturn earth
 1
 2 1
 2
-0 29 11 19
 0 21 0 1
+0 29 11 19
 1
 end_operator
 begin_operator
@@ -19999,8 +19999,8 @@ overcome hangover learning onion uranus saturn
 1
 2 1
 2
-0 29 11 19
 0 21 1 2
+0 29 11 19
 1
 end_operator
 begin_operator
@@ -20008,8 +20008,8 @@ overcome hangover learning onion vulcan uranus
 1
 2 1
 2
-0 29 11 19
 0 21 2 3
+0 29 11 19
 1
 end_operator
 begin_operator
@@ -20017,8 +20017,8 @@ overcome hangover learning snickers saturn earth
 1
 2 2
 2
-0 29 12 19
 0 21 0 1
+0 29 12 19
 1
 end_operator
 begin_operator
@@ -20026,8 +20026,8 @@ overcome hangover learning snickers uranus saturn
 1
 2 2
 2
-0 29 12 19
 0 21 1 2
+0 29 12 19
 1
 end_operator
 begin_operator
@@ -20035,8 +20035,8 @@ overcome hangover learning snickers vulcan uranus
 1
 2 2
 2
-0 29 12 19
 0 21 2 3
+0 29 12 19
 1
 end_operator
 begin_operator
@@ -20044,8 +20044,8 @@ overcome hangover learning wonderbread saturn earth
 1
 2 3
 2
-0 29 14 19
 0 21 0 1
+0 29 14 19
 1
 end_operator
 begin_operator
@@ -20053,8 +20053,8 @@ overcome hangover learning wonderbread uranus saturn
 1
 2 3
 2
-0 29 14 19
 0 21 1 2
+0 29 14 19
 1
 end_operator
 begin_operator
@@ -20062,8 +20062,8 @@ overcome hangover learning wonderbread vulcan uranus
 1
 2 3
 2
-0 29 14 19
 0 21 2 3
+0 29 14 19
 1
 end_operator
 begin_operator
@@ -21123,24 +21123,24 @@ begin_operator
 overcome jealousy achievement wonderbread saturn earth
 0
 2
-0 30 14 15
 0 19 0 1
+0 30 14 15
 1
 end_operator
 begin_operator
 overcome jealousy achievement wonderbread uranus saturn
 0
 2
-0 30 14 15
 0 19 1 2
+0 30 14 15
 1
 end_operator
 begin_operator
 overcome jealousy achievement wonderbread vulcan uranus
 0
 2
-0 30 14 15
 0 19 2 3
+0 30 14 15
 1
 end_operator
 begin_operator
@@ -21850,8 +21850,8 @@ overcome jealousy expectation okra saturn earth
 1
 1 0
 2
-0 30 10 18
 0 20 0 1
+0 30 10 18
 1
 end_operator
 begin_operator
@@ -21859,8 +21859,8 @@ overcome jealousy expectation okra uranus saturn
 1
 1 0
 2
-0 30 10 18
 0 20 1 2
+0 30 10 18
 1
 end_operator
 begin_operator
@@ -21868,8 +21868,8 @@ overcome jealousy expectation okra vulcan uranus
 1
 1 0
 2
-0 30 10 18
 0 20 2 3
+0 30 10 18
 1
 end_operator
 begin_operator
@@ -21877,8 +21877,8 @@ overcome jealousy expectation onion saturn earth
 1
 1 1
 2
-0 30 11 18
 0 20 0 1
+0 30 11 18
 1
 end_operator
 begin_operator
@@ -21886,8 +21886,8 @@ overcome jealousy expectation onion uranus saturn
 1
 1 1
 2
-0 30 11 18
 0 20 1 2
+0 30 11 18
 1
 end_operator
 begin_operator
@@ -21895,8 +21895,8 @@ overcome jealousy expectation onion vulcan uranus
 1
 1 1
 2
-0 30 11 18
 0 20 2 3
+0 30 11 18
 1
 end_operator
 begin_operator
@@ -21904,8 +21904,8 @@ overcome jealousy expectation snickers saturn earth
 1
 1 2
 2
-0 30 12 18
 0 20 0 1
+0 30 12 18
 1
 end_operator
 begin_operator
@@ -21913,8 +21913,8 @@ overcome jealousy expectation snickers uranus saturn
 1
 1 2
 2
-0 30 12 18
 0 20 1 2
+0 30 12 18
 1
 end_operator
 begin_operator
@@ -21922,8 +21922,8 @@ overcome jealousy expectation snickers vulcan uranus
 1
 1 2
 2
-0 30 12 18
 0 20 2 3
+0 30 12 18
 1
 end_operator
 begin_operator
@@ -21931,8 +21931,8 @@ overcome jealousy expectation wonderbread saturn earth
 1
 1 3
 2
-0 30 14 18
 0 20 0 1
+0 30 14 18
 1
 end_operator
 begin_operator
@@ -21940,8 +21940,8 @@ overcome jealousy expectation wonderbread uranus saturn
 1
 1 3
 2
-0 30 14 18
 0 20 1 2
+0 30 14 18
 1
 end_operator
 begin_operator
@@ -21949,8 +21949,8 @@ overcome jealousy expectation wonderbread vulcan uranus
 1
 1 3
 2
-0 30 14 18
 0 20 2 3
+0 30 14 18
 1
 end_operator
 begin_operator
@@ -21958,8 +21958,8 @@ overcome jealousy learning okra saturn earth
 1
 2 0
 2
-0 30 10 19
 0 21 0 1
+0 30 10 19
 1
 end_operator
 begin_operator
@@ -21967,8 +21967,8 @@ overcome jealousy learning okra uranus saturn
 1
 2 0
 2
-0 30 10 19
 0 21 1 2
+0 30 10 19
 1
 end_operator
 begin_operator
@@ -21976,8 +21976,8 @@ overcome jealousy learning okra vulcan uranus
 1
 2 0
 2
-0 30 10 19
 0 21 2 3
+0 30 10 19
 1
 end_operator
 begin_operator
@@ -21985,8 +21985,8 @@ overcome jealousy learning onion saturn earth
 1
 2 1
 2
-0 30 11 19
 0 21 0 1
+0 30 11 19
 1
 end_operator
 begin_operator
@@ -21994,8 +21994,8 @@ overcome jealousy learning onion uranus saturn
 1
 2 1
 2
-0 30 11 19
 0 21 1 2
+0 30 11 19
 1
 end_operator
 begin_operator
@@ -22003,8 +22003,8 @@ overcome jealousy learning onion vulcan uranus
 1
 2 1
 2
-0 30 11 19
 0 21 2 3
+0 30 11 19
 1
 end_operator
 begin_operator
@@ -22012,8 +22012,8 @@ overcome jealousy learning snickers saturn earth
 1
 2 2
 2
-0 30 12 19
 0 21 0 1
+0 30 12 19
 1
 end_operator
 begin_operator
@@ -22021,8 +22021,8 @@ overcome jealousy learning snickers uranus saturn
 1
 2 2
 2
-0 30 12 19
 0 21 1 2
+0 30 12 19
 1
 end_operator
 begin_operator
@@ -22030,8 +22030,8 @@ overcome jealousy learning snickers vulcan uranus
 1
 2 2
 2
-0 30 12 19
 0 21 2 3
+0 30 12 19
 1
 end_operator
 begin_operator
@@ -22039,8 +22039,8 @@ overcome jealousy learning wonderbread saturn earth
 1
 2 3
 2
-0 30 14 19
 0 21 0 1
+0 30 14 19
 1
 end_operator
 begin_operator
@@ -22048,8 +22048,8 @@ overcome jealousy learning wonderbread uranus saturn
 1
 2 3
 2
-0 30 14 19
 0 21 1 2
+0 30 14 19
 1
 end_operator
 begin_operator
@@ -22057,8 +22057,8 @@ overcome jealousy learning wonderbread vulcan uranus
 1
 2 3
 2
-0 30 14 19
 0 21 2 3
+0 30 14 19
 1
 end_operator
 begin_operator
@@ -23118,24 +23118,24 @@ begin_operator
 overcome laceration achievement wonderbread saturn earth
 0
 2
-0 31 14 15
 0 19 0 1
+0 31 14 15
 1
 end_operator
 begin_operator
 overcome laceration achievement wonderbread uranus saturn
 0
 2
-0 31 14 15
 0 19 1 2
+0 31 14 15
 1
 end_operator
 begin_operator
 overcome laceration achievement wonderbread vulcan uranus
 0
 2
-0 31 14 15
 0 19 2 3
+0 31 14 15
 1
 end_operator
 begin_operator
@@ -23845,8 +23845,8 @@ overcome laceration expectation okra saturn earth
 1
 1 0
 2
-0 31 10 18
 0 20 0 1
+0 31 10 18
 1
 end_operator
 begin_operator
@@ -23854,8 +23854,8 @@ overcome laceration expectation okra uranus saturn
 1
 1 0
 2
-0 31 10 18
 0 20 1 2
+0 31 10 18
 1
 end_operator
 begin_operator
@@ -23863,8 +23863,8 @@ overcome laceration expectation okra vulcan uranus
 1
 1 0
 2
-0 31 10 18
 0 20 2 3
+0 31 10 18
 1
 end_operator
 begin_operator
@@ -23872,8 +23872,8 @@ overcome laceration expectation onion saturn earth
 1
 1 1
 2
-0 31 11 18
 0 20 0 1
+0 31 11 18
 1
 end_operator
 begin_operator
@@ -23881,8 +23881,8 @@ overcome laceration expectation onion uranus saturn
 1
 1 1
 2
-0 31 11 18
 0 20 1 2
+0 31 11 18
 1
 end_operator
 begin_operator
@@ -23890,8 +23890,8 @@ overcome laceration expectation onion vulcan uranus
 1
 1 1
 2
-0 31 11 18
 0 20 2 3
+0 31 11 18
 1
 end_operator
 begin_operator
@@ -23899,8 +23899,8 @@ overcome laceration expectation snickers saturn earth
 1
 1 2
 2
-0 31 12 18
 0 20 0 1
+0 31 12 18
 1
 end_operator
 begin_operator
@@ -23908,8 +23908,8 @@ overcome laceration expectation snickers uranus saturn
 1
 1 2
 2
-0 31 12 18
 0 20 1 2
+0 31 12 18
 1
 end_operator
 begin_operator
@@ -23917,8 +23917,8 @@ overcome laceration expectation snickers vulcan uranus
 1
 1 2
 2
-0 31 12 18
 0 20 2 3
+0 31 12 18
 1
 end_operator
 begin_operator
@@ -23926,8 +23926,8 @@ overcome laceration expectation wonderbread saturn earth
 1
 1 3
 2
-0 31 14 18
 0 20 0 1
+0 31 14 18
 1
 end_operator
 begin_operator
@@ -23935,8 +23935,8 @@ overcome laceration expectation wonderbread uranus saturn
 1
 1 3
 2
-0 31 14 18
 0 20 1 2
+0 31 14 18
 1
 end_operator
 begin_operator
@@ -23944,8 +23944,8 @@ overcome laceration expectation wonderbread vulcan uranus
 1
 1 3
 2
-0 31 14 18
 0 20 2 3
+0 31 14 18
 1
 end_operator
 begin_operator
@@ -23953,8 +23953,8 @@ overcome laceration learning okra saturn earth
 1
 2 0
 2
-0 31 10 19
 0 21 0 1
+0 31 10 19
 1
 end_operator
 begin_operator
@@ -23962,8 +23962,8 @@ overcome laceration learning okra uranus saturn
 1
 2 0
 2
-0 31 10 19
 0 21 1 2
+0 31 10 19
 1
 end_operator
 begin_operator
@@ -23971,8 +23971,8 @@ overcome laceration learning okra vulcan uranus
 1
 2 0
 2
-0 31 10 19
 0 21 2 3
+0 31 10 19
 1
 end_operator
 begin_operator
@@ -23980,8 +23980,8 @@ overcome laceration learning onion saturn earth
 1
 2 1
 2
-0 31 11 19
 0 21 0 1
+0 31 11 19
 1
 end_operator
 begin_operator
@@ -23989,8 +23989,8 @@ overcome laceration learning onion uranus saturn
 1
 2 1
 2
-0 31 11 19
 0 21 1 2
+0 31 11 19
 1
 end_operator
 begin_operator
@@ -23998,8 +23998,8 @@ overcome laceration learning onion vulcan uranus
 1
 2 1
 2
-0 31 11 19
 0 21 2 3
+0 31 11 19
 1
 end_operator
 begin_operator
@@ -24007,8 +24007,8 @@ overcome laceration learning snickers saturn earth
 1
 2 2
 2
-0 31 12 19
 0 21 0 1
+0 31 12 19
 1
 end_operator
 begin_operator
@@ -24016,8 +24016,8 @@ overcome laceration learning snickers uranus saturn
 1
 2 2
 2
-0 31 12 19
 0 21 1 2
+0 31 12 19
 1
 end_operator
 begin_operator
@@ -24025,8 +24025,8 @@ overcome laceration learning snickers vulcan uranus
 1
 2 2
 2
-0 31 12 19
 0 21 2 3
+0 31 12 19
 1
 end_operator
 begin_operator
@@ -24034,8 +24034,8 @@ overcome laceration learning wonderbread saturn earth
 1
 2 3
 2
-0 31 14 19
 0 21 0 1
+0 31 14 19
 1
 end_operator
 begin_operator
@@ -24043,8 +24043,8 @@ overcome laceration learning wonderbread uranus saturn
 1
 2 3
 2
-0 31 14 19
 0 21 1 2
+0 31 14 19
 1
 end_operator
 begin_operator
@@ -24052,8 +24052,8 @@ overcome laceration learning wonderbread vulcan uranus
 1
 2 3
 2
-0 31 14 19
 0 21 2 3
+0 31 14 19
 1
 end_operator
 begin_operator
@@ -25113,24 +25113,24 @@ begin_operator
 overcome loneliness achievement wonderbread saturn earth
 0
 2
-0 34 14 15
 0 19 0 1
+0 34 14 15
 1
 end_operator
 begin_operator
 overcome loneliness achievement wonderbread uranus saturn
 0
 2
-0 34 14 15
 0 19 1 2
+0 34 14 15
 1
 end_operator
 begin_operator
 overcome loneliness achievement wonderbread vulcan uranus
 0
 2
-0 34 14 15
 0 19 2 3
+0 34 14 15
 1
 end_operator
 begin_operator
@@ -25138,8 +25138,8 @@ overcome loneliness aesthetics bacon saturn earth
 1
 10 0
 2
-0 34 0 16
 0 32 0 1
+0 34 0 16
 1
 end_operator
 begin_operator
@@ -25147,8 +25147,8 @@ overcome loneliness aesthetics bacon uranus saturn
 1
 10 0
 2
-0 34 0 16
 0 32 1 2
+0 34 0 16
 1
 end_operator
 begin_operator
@@ -25156,8 +25156,8 @@ overcome loneliness aesthetics bacon vulcan uranus
 1
 10 0
 2
-0 34 0 16
 0 32 2 3
+0 34 0 16
 1
 end_operator
 begin_operator
@@ -25165,8 +25165,8 @@ overcome loneliness aesthetics beef saturn earth
 1
 10 1
 2
-0 34 1 16
 0 32 0 1
+0 34 1 16
 1
 end_operator
 begin_operator
@@ -25174,8 +25174,8 @@ overcome loneliness aesthetics beef uranus saturn
 1
 10 1
 2
-0 34 1 16
 0 32 1 2
+0 34 1 16
 1
 end_operator
 begin_operator
@@ -25183,8 +25183,8 @@ overcome loneliness aesthetics beef vulcan uranus
 1
 10 1
 2
-0 34 1 16
 0 32 2 3
+0 34 1 16
 1
 end_operator
 begin_operator
@@ -25192,8 +25192,8 @@ overcome loneliness aesthetics cantelope saturn earth
 1
 10 2
 2
-0 34 2 16
 0 32 0 1
+0 34 2 16
 1
 end_operator
 begin_operator
@@ -25201,8 +25201,8 @@ overcome loneliness aesthetics cantelope uranus saturn
 1
 10 2
 2
-0 34 2 16
 0 32 1 2
+0 34 2 16
 1
 end_operator
 begin_operator
@@ -25210,8 +25210,8 @@ overcome loneliness aesthetics cantelope vulcan uranus
 1
 10 2
 2
-0 34 2 16
 0 32 2 3
+0 34 2 16
 1
 end_operator
 begin_operator
@@ -25219,8 +25219,8 @@ overcome loneliness aesthetics flounder saturn earth
 1
 10 3
 2
-0 34 3 16
 0 32 0 1
+0 34 3 16
 1
 end_operator
 begin_operator
@@ -25228,8 +25228,8 @@ overcome loneliness aesthetics flounder uranus saturn
 1
 10 3
 2
-0 34 3 16
 0 32 1 2
+0 34 3 16
 1
 end_operator
 begin_operator
@@ -25237,8 +25237,8 @@ overcome loneliness aesthetics flounder vulcan uranus
 1
 10 3
 2
-0 34 3 16
 0 32 2 3
+0 34 3 16
 1
 end_operator
 begin_operator
@@ -25246,8 +25246,8 @@ overcome loneliness aesthetics ham saturn earth
 1
 10 4
 2
-0 34 4 16
 0 32 0 1
+0 34 4 16
 1
 end_operator
 begin_operator
@@ -25255,8 +25255,8 @@ overcome loneliness aesthetics ham uranus saturn
 1
 10 4
 2
-0 34 4 16
 0 32 1 2
+0 34 4 16
 1
 end_operator
 begin_operator
@@ -25264,8 +25264,8 @@ overcome loneliness aesthetics ham vulcan uranus
 1
 10 4
 2
-0 34 4 16
 0 32 2 3
+0 34 4 16
 1
 end_operator
 begin_operator
@@ -25273,8 +25273,8 @@ overcome loneliness aesthetics haroset saturn earth
 1
 10 5
 2
-0 34 5 16
 0 32 0 1
+0 34 5 16
 1
 end_operator
 begin_operator
@@ -25282,8 +25282,8 @@ overcome loneliness aesthetics haroset uranus saturn
 1
 10 5
 2
-0 34 5 16
 0 32 1 2
+0 34 5 16
 1
 end_operator
 begin_operator
@@ -25291,8 +25291,8 @@ overcome loneliness aesthetics haroset vulcan uranus
 1
 10 5
 2
-0 34 5 16
 0 32 2 3
+0 34 5 16
 1
 end_operator
 begin_operator
@@ -25300,8 +25300,8 @@ overcome loneliness aesthetics lamb saturn earth
 1
 10 6
 2
-0 34 6 16
 0 32 0 1
+0 34 6 16
 1
 end_operator
 begin_operator
@@ -25309,8 +25309,8 @@ overcome loneliness aesthetics lamb uranus saturn
 1
 10 6
 2
-0 34 6 16
 0 32 1 2
+0 34 6 16
 1
 end_operator
 begin_operator
@@ -25318,8 +25318,8 @@ overcome loneliness aesthetics lamb vulcan uranus
 1
 10 6
 2
-0 34 6 16
 0 32 2 3
+0 34 6 16
 1
 end_operator
 begin_operator
@@ -25327,8 +25327,8 @@ overcome loneliness aesthetics lemon saturn earth
 1
 10 7
 2
-0 34 7 16
 0 32 0 1
+0 34 7 16
 1
 end_operator
 begin_operator
@@ -25336,8 +25336,8 @@ overcome loneliness aesthetics lemon uranus saturn
 1
 10 7
 2
-0 34 7 16
 0 32 1 2
+0 34 7 16
 1
 end_operator
 begin_operator
@@ -25345,8 +25345,8 @@ overcome loneliness aesthetics lemon vulcan uranus
 1
 10 7
 2
-0 34 7 16
 0 32 2 3
+0 34 7 16
 1
 end_operator
 begin_operator
@@ -25354,8 +25354,8 @@ overcome loneliness aesthetics lobster saturn earth
 1
 10 8
 2
-0 34 8 16
 0 32 0 1
+0 34 8 16
 1
 end_operator
 begin_operator
@@ -25363,8 +25363,8 @@ overcome loneliness aesthetics lobster uranus saturn
 1
 10 8
 2
-0 34 8 16
 0 32 1 2
+0 34 8 16
 1
 end_operator
 begin_operator
@@ -25372,8 +25372,8 @@ overcome loneliness aesthetics lobster vulcan uranus
 1
 10 8
 2
-0 34 8 16
 0 32 2 3
+0 34 8 16
 1
 end_operator
 begin_operator
@@ -25381,8 +25381,8 @@ overcome loneliness aesthetics marzipan saturn earth
 1
 10 9
 2
-0 34 9 16
 0 32 0 1
+0 34 9 16
 1
 end_operator
 begin_operator
@@ -25390,8 +25390,8 @@ overcome loneliness aesthetics marzipan uranus saturn
 1
 10 9
 2
-0 34 9 16
 0 32 1 2
+0 34 9 16
 1
 end_operator
 begin_operator
@@ -25399,8 +25399,8 @@ overcome loneliness aesthetics marzipan vulcan uranus
 1
 10 9
 2
-0 34 9 16
 0 32 2 3
+0 34 9 16
 1
 end_operator
 begin_operator
@@ -25408,8 +25408,8 @@ overcome loneliness aesthetics onion saturn earth
 1
 10 10
 2
-0 34 11 16
 0 32 0 1
+0 34 11 16
 1
 end_operator
 begin_operator
@@ -25417,8 +25417,8 @@ overcome loneliness aesthetics onion uranus saturn
 1
 10 10
 2
-0 34 11 16
 0 32 1 2
+0 34 11 16
 1
 end_operator
 begin_operator
@@ -25426,8 +25426,8 @@ overcome loneliness aesthetics onion vulcan uranus
 1
 10 10
 2
-0 34 11 16
 0 32 2 3
+0 34 11 16
 1
 end_operator
 begin_operator
@@ -25435,8 +25435,8 @@ overcome loneliness aesthetics tofu saturn earth
 1
 10 11
 2
-0 34 13 16
 0 32 0 1
+0 34 13 16
 1
 end_operator
 begin_operator
@@ -25444,8 +25444,8 @@ overcome loneliness aesthetics tofu uranus saturn
 1
 10 11
 2
-0 34 13 16
 0 32 1 2
+0 34 13 16
 1
 end_operator
 begin_operator
@@ -25453,8 +25453,8 @@ overcome loneliness aesthetics tofu vulcan uranus
 1
 10 11
 2
-0 34 13 16
 0 32 2 3
+0 34 13 16
 1
 end_operator
 begin_operator
@@ -25462,8 +25462,8 @@ overcome loneliness aesthetics wonderbread saturn earth
 1
 10 12
 2
-0 34 14 16
 0 32 0 1
+0 34 14 16
 1
 end_operator
 begin_operator
@@ -25471,8 +25471,8 @@ overcome loneliness aesthetics wonderbread uranus saturn
 1
 10 12
 2
-0 34 14 16
 0 32 1 2
+0 34 14 16
 1
 end_operator
 begin_operator
@@ -25480,8 +25480,8 @@ overcome loneliness aesthetics wonderbread vulcan uranus
 1
 10 12
 2
-0 34 14 16
 0 32 2 3
+0 34 14 16
 1
 end_operator
 begin_operator
@@ -25489,8 +25489,8 @@ overcome loneliness entertainment bacon saturn earth
 1
 12 0
 2
-0 34 0 17
 0 33 0 1
+0 34 0 17
 1
 end_operator
 begin_operator
@@ -25498,8 +25498,8 @@ overcome loneliness entertainment bacon uranus saturn
 1
 12 0
 2
-0 34 0 17
 0 33 1 2
+0 34 0 17
 1
 end_operator
 begin_operator
@@ -25507,8 +25507,8 @@ overcome loneliness entertainment bacon vulcan uranus
 1
 12 0
 2
-0 34 0 17
 0 33 2 3
+0 34 0 17
 1
 end_operator
 begin_operator
@@ -25516,8 +25516,8 @@ overcome loneliness entertainment beef saturn earth
 1
 12 1
 2
-0 34 1 17
 0 33 0 1
+0 34 1 17
 1
 end_operator
 begin_operator
@@ -25525,8 +25525,8 @@ overcome loneliness entertainment beef uranus saturn
 1
 12 1
 2
-0 34 1 17
 0 33 1 2
+0 34 1 17
 1
 end_operator
 begin_operator
@@ -25534,8 +25534,8 @@ overcome loneliness entertainment beef vulcan uranus
 1
 12 1
 2
-0 34 1 17
 0 33 2 3
+0 34 1 17
 1
 end_operator
 begin_operator
@@ -25543,8 +25543,8 @@ overcome loneliness entertainment cantelope saturn earth
 1
 12 2
 2
-0 34 2 17
 0 33 0 1
+0 34 2 17
 1
 end_operator
 begin_operator
@@ -25552,8 +25552,8 @@ overcome loneliness entertainment cantelope uranus saturn
 1
 12 2
 2
-0 34 2 17
 0 33 1 2
+0 34 2 17
 1
 end_operator
 begin_operator
@@ -25561,8 +25561,8 @@ overcome loneliness entertainment cantelope vulcan uranus
 1
 12 2
 2
-0 34 2 17
 0 33 2 3
+0 34 2 17
 1
 end_operator
 begin_operator
@@ -25570,8 +25570,8 @@ overcome loneliness entertainment flounder saturn earth
 1
 12 3
 2
-0 34 3 17
 0 33 0 1
+0 34 3 17
 1
 end_operator
 begin_operator
@@ -25579,8 +25579,8 @@ overcome loneliness entertainment flounder uranus saturn
 1
 12 3
 2
-0 34 3 17
 0 33 1 2
+0 34 3 17
 1
 end_operator
 begin_operator
@@ -25588,8 +25588,8 @@ overcome loneliness entertainment flounder vulcan uranus
 1
 12 3
 2
-0 34 3 17
 0 33 2 3
+0 34 3 17
 1
 end_operator
 begin_operator
@@ -25597,8 +25597,8 @@ overcome loneliness entertainment ham saturn earth
 1
 12 4
 2
-0 34 4 17
 0 33 0 1
+0 34 4 17
 1
 end_operator
 begin_operator
@@ -25606,8 +25606,8 @@ overcome loneliness entertainment ham uranus saturn
 1
 12 4
 2
-0 34 4 17
 0 33 1 2
+0 34 4 17
 1
 end_operator
 begin_operator
@@ -25615,8 +25615,8 @@ overcome loneliness entertainment ham vulcan uranus
 1
 12 4
 2
-0 34 4 17
 0 33 2 3
+0 34 4 17
 1
 end_operator
 begin_operator
@@ -25624,8 +25624,8 @@ overcome loneliness entertainment haroset saturn earth
 1
 12 5
 2
-0 34 5 17
 0 33 0 1
+0 34 5 17
 1
 end_operator
 begin_operator
@@ -25633,8 +25633,8 @@ overcome loneliness entertainment haroset uranus saturn
 1
 12 5
 2
-0 34 5 17
 0 33 1 2
+0 34 5 17
 1
 end_operator
 begin_operator
@@ -25642,8 +25642,8 @@ overcome loneliness entertainment haroset vulcan uranus
 1
 12 5
 2
-0 34 5 17
 0 33 2 3
+0 34 5 17
 1
 end_operator
 begin_operator
@@ -25651,8 +25651,8 @@ overcome loneliness entertainment lamb saturn earth
 1
 12 6
 2
-0 34 6 17
 0 33 0 1
+0 34 6 17
 1
 end_operator
 begin_operator
@@ -25660,8 +25660,8 @@ overcome loneliness entertainment lamb uranus saturn
 1
 12 6
 2
-0 34 6 17
 0 33 1 2
+0 34 6 17
 1
 end_operator
 begin_operator
@@ -25669,8 +25669,8 @@ overcome loneliness entertainment lamb vulcan uranus
 1
 12 6
 2
-0 34 6 17
 0 33 2 3
+0 34 6 17
 1
 end_operator
 begin_operator
@@ -25678,8 +25678,8 @@ overcome loneliness entertainment lemon saturn earth
 1
 12 7
 2
-0 34 7 17
 0 33 0 1
+0 34 7 17
 1
 end_operator
 begin_operator
@@ -25687,8 +25687,8 @@ overcome loneliness entertainment lemon uranus saturn
 1
 12 7
 2
-0 34 7 17
 0 33 1 2
+0 34 7 17
 1
 end_operator
 begin_operator
@@ -25696,8 +25696,8 @@ overcome loneliness entertainment lemon vulcan uranus
 1
 12 7
 2
-0 34 7 17
 0 33 2 3
+0 34 7 17
 1
 end_operator
 begin_operator
@@ -25705,8 +25705,8 @@ overcome loneliness entertainment lobster saturn earth
 1
 12 8
 2
-0 34 8 17
 0 33 0 1
+0 34 8 17
 1
 end_operator
 begin_operator
@@ -25714,8 +25714,8 @@ overcome loneliness entertainment lobster uranus saturn
 1
 12 8
 2
-0 34 8 17
 0 33 1 2
+0 34 8 17
 1
 end_operator
 begin_operator
@@ -25723,8 +25723,8 @@ overcome loneliness entertainment lobster vulcan uranus
 1
 12 8
 2
-0 34 8 17
 0 33 2 3
+0 34 8 17
 1
 end_operator
 begin_operator
@@ -25732,8 +25732,8 @@ overcome loneliness entertainment marzipan saturn earth
 1
 12 9
 2
-0 34 9 17
 0 33 0 1
+0 34 9 17
 1
 end_operator
 begin_operator
@@ -25741,8 +25741,8 @@ overcome loneliness entertainment marzipan uranus saturn
 1
 12 9
 2
-0 34 9 17
 0 33 1 2
+0 34 9 17
 1
 end_operator
 begin_operator
@@ -25750,8 +25750,8 @@ overcome loneliness entertainment marzipan vulcan uranus
 1
 12 9
 2
-0 34 9 17
 0 33 2 3
+0 34 9 17
 1
 end_operator
 begin_operator
@@ -25759,8 +25759,8 @@ overcome loneliness entertainment onion saturn earth
 1
 12 10
 2
-0 34 11 17
 0 33 0 1
+0 34 11 17
 1
 end_operator
 begin_operator
@@ -25768,8 +25768,8 @@ overcome loneliness entertainment onion uranus saturn
 1
 12 10
 2
-0 34 11 17
 0 33 1 2
+0 34 11 17
 1
 end_operator
 begin_operator
@@ -25777,8 +25777,8 @@ overcome loneliness entertainment onion vulcan uranus
 1
 12 10
 2
-0 34 11 17
 0 33 2 3
+0 34 11 17
 1
 end_operator
 begin_operator
@@ -25786,8 +25786,8 @@ overcome loneliness entertainment tofu saturn earth
 1
 12 11
 2
-0 34 13 17
 0 33 0 1
+0 34 13 17
 1
 end_operator
 begin_operator
@@ -25795,8 +25795,8 @@ overcome loneliness entertainment tofu uranus saturn
 1
 12 11
 2
-0 34 13 17
 0 33 1 2
+0 34 13 17
 1
 end_operator
 begin_operator
@@ -25804,8 +25804,8 @@ overcome loneliness entertainment tofu vulcan uranus
 1
 12 11
 2
-0 34 13 17
 0 33 2 3
+0 34 13 17
 1
 end_operator
 begin_operator
@@ -25813,8 +25813,8 @@ overcome loneliness entertainment wonderbread saturn earth
 1
 12 12
 2
-0 34 14 17
 0 33 0 1
+0 34 14 17
 1
 end_operator
 begin_operator
@@ -25822,8 +25822,8 @@ overcome loneliness entertainment wonderbread uranus saturn
 1
 12 12
 2
-0 34 14 17
 0 33 1 2
+0 34 14 17
 1
 end_operator
 begin_operator
@@ -25831,8 +25831,8 @@ overcome loneliness entertainment wonderbread vulcan uranus
 1
 12 12
 2
-0 34 14 17
 0 33 2 3
+0 34 14 17
 1
 end_operator
 begin_operator
@@ -25840,8 +25840,8 @@ overcome loneliness expectation okra saturn earth
 1
 1 0
 2
-0 34 10 18
 0 20 0 1
+0 34 10 18
 1
 end_operator
 begin_operator
@@ -25849,8 +25849,8 @@ overcome loneliness expectation okra uranus saturn
 1
 1 0
 2
-0 34 10 18
 0 20 1 2
+0 34 10 18
 1
 end_operator
 begin_operator
@@ -25858,8 +25858,8 @@ overcome loneliness expectation okra vulcan uranus
 1
 1 0
 2
-0 34 10 18
 0 20 2 3
+0 34 10 18
 1
 end_operator
 begin_operator
@@ -25867,8 +25867,8 @@ overcome loneliness expectation onion saturn earth
 1
 1 1
 2
-0 34 11 18
 0 20 0 1
+0 34 11 18
 1
 end_operator
 begin_operator
@@ -25876,8 +25876,8 @@ overcome loneliness expectation onion uranus saturn
 1
 1 1
 2
-0 34 11 18
 0 20 1 2
+0 34 11 18
 1
 end_operator
 begin_operator
@@ -25885,8 +25885,8 @@ overcome loneliness expectation onion vulcan uranus
 1
 1 1
 2
-0 34 11 18
 0 20 2 3
+0 34 11 18
 1
 end_operator
 begin_operator
@@ -25894,8 +25894,8 @@ overcome loneliness expectation snickers saturn earth
 1
 1 2
 2
-0 34 12 18
 0 20 0 1
+0 34 12 18
 1
 end_operator
 begin_operator
@@ -25903,8 +25903,8 @@ overcome loneliness expectation snickers uranus saturn
 1
 1 2
 2
-0 34 12 18
 0 20 1 2
+0 34 12 18
 1
 end_operator
 begin_operator
@@ -25912,8 +25912,8 @@ overcome loneliness expectation snickers vulcan uranus
 1
 1 2
 2
-0 34 12 18
 0 20 2 3
+0 34 12 18
 1
 end_operator
 begin_operator
@@ -25921,8 +25921,8 @@ overcome loneliness expectation wonderbread saturn earth
 1
 1 3
 2
-0 34 14 18
 0 20 0 1
+0 34 14 18
 1
 end_operator
 begin_operator
@@ -25930,8 +25930,8 @@ overcome loneliness expectation wonderbread uranus saturn
 1
 1 3
 2
-0 34 14 18
 0 20 1 2
+0 34 14 18
 1
 end_operator
 begin_operator
@@ -25939,8 +25939,8 @@ overcome loneliness expectation wonderbread vulcan uranus
 1
 1 3
 2
-0 34 14 18
 0 20 2 3
+0 34 14 18
 1
 end_operator
 begin_operator
@@ -25948,8 +25948,8 @@ overcome loneliness learning okra saturn earth
 1
 2 0
 2
-0 34 10 19
 0 21 0 1
+0 34 10 19
 1
 end_operator
 begin_operator
@@ -25957,8 +25957,8 @@ overcome loneliness learning okra uranus saturn
 1
 2 0
 2
-0 34 10 19
 0 21 1 2
+0 34 10 19
 1
 end_operator
 begin_operator
@@ -25966,8 +25966,8 @@ overcome loneliness learning okra vulcan uranus
 1
 2 0
 2
-0 34 10 19
 0 21 2 3
+0 34 10 19
 1
 end_operator
 begin_operator
@@ -25975,8 +25975,8 @@ overcome loneliness learning onion saturn earth
 1
 2 1
 2
-0 34 11 19
 0 21 0 1
+0 34 11 19
 1
 end_operator
 begin_operator
@@ -25984,8 +25984,8 @@ overcome loneliness learning onion uranus saturn
 1
 2 1
 2
-0 34 11 19
 0 21 1 2
+0 34 11 19
 1
 end_operator
 begin_operator
@@ -25993,8 +25993,8 @@ overcome loneliness learning onion vulcan uranus
 1
 2 1
 2
-0 34 11 19
 0 21 2 3
+0 34 11 19
 1
 end_operator
 begin_operator
@@ -26002,8 +26002,8 @@ overcome loneliness learning snickers saturn earth
 1
 2 2
 2
-0 34 12 19
 0 21 0 1
+0 34 12 19
 1
 end_operator
 begin_operator
@@ -26011,8 +26011,8 @@ overcome loneliness learning snickers uranus saturn
 1
 2 2
 2
-0 34 12 19
 0 21 1 2
+0 34 12 19
 1
 end_operator
 begin_operator
@@ -26020,8 +26020,8 @@ overcome loneliness learning snickers vulcan uranus
 1
 2 2
 2
-0 34 12 19
 0 21 2 3
+0 34 12 19
 1
 end_operator
 begin_operator
@@ -26029,8 +26029,8 @@ overcome loneliness learning wonderbread saturn earth
 1
 2 3
 2
-0 34 14 19
 0 21 0 1
+0 34 14 19
 1
 end_operator
 begin_operator
@@ -26038,8 +26038,8 @@ overcome loneliness learning wonderbread uranus saturn
 1
 2 3
 2
-0 34 14 19
 0 21 1 2
+0 34 14 19
 1
 end_operator
 begin_operator
@@ -26047,8 +26047,8 @@ overcome loneliness learning wonderbread vulcan uranus
 1
 2 3
 2
-0 34 14 19
 0 21 2 3
+0 34 14 19
 1
 end_operator
 begin_operator
@@ -27108,24 +27108,24 @@ begin_operator
 overcome prostatitis achievement wonderbread saturn earth
 0
 2
-0 35 14 15
 0 19 0 1
+0 35 14 15
 1
 end_operator
 begin_operator
 overcome prostatitis achievement wonderbread uranus saturn
 0
 2
-0 35 14 15
 0 19 1 2
+0 35 14 15
 1
 end_operator
 begin_operator
 overcome prostatitis achievement wonderbread vulcan uranus
 0
 2
-0 35 14 15
 0 19 2 3
+0 35 14 15
 1
 end_operator
 begin_operator
@@ -27133,8 +27133,8 @@ overcome prostatitis aesthetics bacon saturn earth
 1
 10 0
 2
-0 35 0 16
 0 32 0 1
+0 35 0 16
 1
 end_operator
 begin_operator
@@ -27142,8 +27142,8 @@ overcome prostatitis aesthetics bacon uranus saturn
 1
 10 0
 2
-0 35 0 16
 0 32 1 2
+0 35 0 16
 1
 end_operator
 begin_operator
@@ -27151,8 +27151,8 @@ overcome prostatitis aesthetics bacon vulcan uranus
 1
 10 0
 2
-0 35 0 16
 0 32 2 3
+0 35 0 16
 1
 end_operator
 begin_operator
@@ -27160,8 +27160,8 @@ overcome prostatitis aesthetics beef saturn earth
 1
 10 1
 2
-0 35 1 16
 0 32 0 1
+0 35 1 16
 1
 end_operator
 begin_operator
@@ -27169,8 +27169,8 @@ overcome prostatitis aesthetics beef uranus saturn
 1
 10 1
 2
-0 35 1 16
 0 32 1 2
+0 35 1 16
 1
 end_operator
 begin_operator
@@ -27178,8 +27178,8 @@ overcome prostatitis aesthetics beef vulcan uranus
 1
 10 1
 2
-0 35 1 16
 0 32 2 3
+0 35 1 16
 1
 end_operator
 begin_operator
@@ -27187,8 +27187,8 @@ overcome prostatitis aesthetics cantelope saturn earth
 1
 10 2
 2
-0 35 2 16
 0 32 0 1
+0 35 2 16
 1
 end_operator
 begin_operator
@@ -27196,8 +27196,8 @@ overcome prostatitis aesthetics cantelope uranus saturn
 1
 10 2
 2
-0 35 2 16
 0 32 1 2
+0 35 2 16
 1
 end_operator
 begin_operator
@@ -27205,8 +27205,8 @@ overcome prostatitis aesthetics cantelope vulcan uranus
 1
 10 2
 2
-0 35 2 16
 0 32 2 3
+0 35 2 16
 1
 end_operator
 begin_operator
@@ -27214,8 +27214,8 @@ overcome prostatitis aesthetics flounder saturn earth
 1
 10 3
 2
-0 35 3 16
 0 32 0 1
+0 35 3 16
 1
 end_operator
 begin_operator
@@ -27223,8 +27223,8 @@ overcome prostatitis aesthetics flounder uranus saturn
 1
 10 3
 2
-0 35 3 16
 0 32 1 2
+0 35 3 16
 1
 end_operator
 begin_operator
@@ -27232,8 +27232,8 @@ overcome prostatitis aesthetics flounder vulcan uranus
 1
 10 3
 2
-0 35 3 16
 0 32 2 3
+0 35 3 16
 1
 end_operator
 begin_operator
@@ -27241,8 +27241,8 @@ overcome prostatitis aesthetics ham saturn earth
 1
 10 4
 2
-0 35 4 16
 0 32 0 1
+0 35 4 16
 1
 end_operator
 begin_operator
@@ -27250,8 +27250,8 @@ overcome prostatitis aesthetics ham uranus saturn
 1
 10 4
 2
-0 35 4 16
 0 32 1 2
+0 35 4 16
 1
 end_operator
 begin_operator
@@ -27259,8 +27259,8 @@ overcome prostatitis aesthetics ham vulcan uranus
 1
 10 4
 2
-0 35 4 16
 0 32 2 3
+0 35 4 16
 1
 end_operator
 begin_operator
@@ -27268,8 +27268,8 @@ overcome prostatitis aesthetics haroset saturn earth
 1
 10 5
 2
-0 35 5 16
 0 32 0 1
+0 35 5 16
 1
 end_operator
 begin_operator
@@ -27277,8 +27277,8 @@ overcome prostatitis aesthetics haroset uranus saturn
 1
 10 5
 2
-0 35 5 16
 0 32 1 2
+0 35 5 16
 1
 end_operator
 begin_operator
@@ -27286,8 +27286,8 @@ overcome prostatitis aesthetics haroset vulcan uranus
 1
 10 5
 2
-0 35 5 16
 0 32 2 3
+0 35 5 16
 1
 end_operator
 begin_operator
@@ -27295,8 +27295,8 @@ overcome prostatitis aesthetics lamb saturn earth
 1
 10 6
 2
-0 35 6 16
 0 32 0 1
+0 35 6 16
 1
 end_operator
 begin_operator
@@ -27304,8 +27304,8 @@ overcome prostatitis aesthetics lamb uranus saturn
 1
 10 6
 2
-0 35 6 16
 0 32 1 2
+0 35 6 16
 1
 end_operator
 begin_operator
@@ -27313,8 +27313,8 @@ overcome prostatitis aesthetics lamb vulcan uranus
 1
 10 6
 2
-0 35 6 16
 0 32 2 3
+0 35 6 16
 1
 end_operator
 begin_operator
@@ -27322,8 +27322,8 @@ overcome prostatitis aesthetics lemon saturn earth
 1
 10 7
 2
-0 35 7 16
 0 32 0 1
+0 35 7 16
 1
 end_operator
 begin_operator
@@ -27331,8 +27331,8 @@ overcome prostatitis aesthetics lemon uranus saturn
 1
 10 7
 2
-0 35 7 16
 0 32 1 2
+0 35 7 16
 1
 end_operator
 begin_operator
@@ -27340,8 +27340,8 @@ overcome prostatitis aesthetics lemon vulcan uranus
 1
 10 7
 2
-0 35 7 16
 0 32 2 3
+0 35 7 16
 1
 end_operator
 begin_operator
@@ -27349,8 +27349,8 @@ overcome prostatitis aesthetics lobster saturn earth
 1
 10 8
 2
-0 35 8 16
 0 32 0 1
+0 35 8 16
 1
 end_operator
 begin_operator
@@ -27358,8 +27358,8 @@ overcome prostatitis aesthetics lobster uranus saturn
 1
 10 8
 2
-0 35 8 16
 0 32 1 2
+0 35 8 16
 1
 end_operator
 begin_operator
@@ -27367,8 +27367,8 @@ overcome prostatitis aesthetics lobster vulcan uranus
 1
 10 8
 2
-0 35 8 16
 0 32 2 3
+0 35 8 16
 1
 end_operator
 begin_operator
@@ -27376,8 +27376,8 @@ overcome prostatitis aesthetics marzipan saturn earth
 1
 10 9
 2
-0 35 9 16
 0 32 0 1
+0 35 9 16
 1
 end_operator
 begin_operator
@@ -27385,8 +27385,8 @@ overcome prostatitis aesthetics marzipan uranus saturn
 1
 10 9
 2
-0 35 9 16
 0 32 1 2
+0 35 9 16
 1
 end_operator
 begin_operator
@@ -27394,8 +27394,8 @@ overcome prostatitis aesthetics marzipan vulcan uranus
 1
 10 9
 2
-0 35 9 16
 0 32 2 3
+0 35 9 16
 1
 end_operator
 begin_operator
@@ -27403,8 +27403,8 @@ overcome prostatitis aesthetics onion saturn earth
 1
 10 10
 2
-0 35 11 16
 0 32 0 1
+0 35 11 16
 1
 end_operator
 begin_operator
@@ -27412,8 +27412,8 @@ overcome prostatitis aesthetics onion uranus saturn
 1
 10 10
 2
-0 35 11 16
 0 32 1 2
+0 35 11 16
 1
 end_operator
 begin_operator
@@ -27421,8 +27421,8 @@ overcome prostatitis aesthetics onion vulcan uranus
 1
 10 10
 2
-0 35 11 16
 0 32 2 3
+0 35 11 16
 1
 end_operator
 begin_operator
@@ -27430,8 +27430,8 @@ overcome prostatitis aesthetics tofu saturn earth
 1
 10 11
 2
-0 35 13 16
 0 32 0 1
+0 35 13 16
 1
 end_operator
 begin_operator
@@ -27439,8 +27439,8 @@ overcome prostatitis aesthetics tofu uranus saturn
 1
 10 11
 2
-0 35 13 16
 0 32 1 2
+0 35 13 16
 1
 end_operator
 begin_operator
@@ -27448,8 +27448,8 @@ overcome prostatitis aesthetics tofu vulcan uranus
 1
 10 11
 2
-0 35 13 16
 0 32 2 3
+0 35 13 16
 1
 end_operator
 begin_operator
@@ -27457,8 +27457,8 @@ overcome prostatitis aesthetics wonderbread saturn earth
 1
 10 12
 2
-0 35 14 16
 0 32 0 1
+0 35 14 16
 1
 end_operator
 begin_operator
@@ -27466,8 +27466,8 @@ overcome prostatitis aesthetics wonderbread uranus saturn
 1
 10 12
 2
-0 35 14 16
 0 32 1 2
+0 35 14 16
 1
 end_operator
 begin_operator
@@ -27475,8 +27475,8 @@ overcome prostatitis aesthetics wonderbread vulcan uranus
 1
 10 12
 2
-0 35 14 16
 0 32 2 3
+0 35 14 16
 1
 end_operator
 begin_operator
@@ -27484,8 +27484,8 @@ overcome prostatitis entertainment bacon saturn earth
 1
 12 0
 2
-0 35 0 17
 0 33 0 1
+0 35 0 17
 1
 end_operator
 begin_operator
@@ -27493,8 +27493,8 @@ overcome prostatitis entertainment bacon uranus saturn
 1
 12 0
 2
-0 35 0 17
 0 33 1 2
+0 35 0 17
 1
 end_operator
 begin_operator
@@ -27502,8 +27502,8 @@ overcome prostatitis entertainment bacon vulcan uranus
 1
 12 0
 2
-0 35 0 17
 0 33 2 3
+0 35 0 17
 1
 end_operator
 begin_operator
@@ -27511,8 +27511,8 @@ overcome prostatitis entertainment beef saturn earth
 1
 12 1
 2
-0 35 1 17
 0 33 0 1
+0 35 1 17
 1
 end_operator
 begin_operator
@@ -27520,8 +27520,8 @@ overcome prostatitis entertainment beef uranus saturn
 1
 12 1
 2
-0 35 1 17
 0 33 1 2
+0 35 1 17
 1
 end_operator
 begin_operator
@@ -27529,8 +27529,8 @@ overcome prostatitis entertainment beef vulcan uranus
 1
 12 1
 2
-0 35 1 17
 0 33 2 3
+0 35 1 17
 1
 end_operator
 begin_operator
@@ -27538,8 +27538,8 @@ overcome prostatitis entertainment cantelope saturn earth
 1
 12 2
 2
-0 35 2 17
 0 33 0 1
+0 35 2 17
 1
 end_operator
 begin_operator
@@ -27547,8 +27547,8 @@ overcome prostatitis entertainment cantelope uranus saturn
 1
 12 2
 2
-0 35 2 17
 0 33 1 2
+0 35 2 17
 1
 end_operator
 begin_operator
@@ -27556,8 +27556,8 @@ overcome prostatitis entertainment cantelope vulcan uranus
 1
 12 2
 2
-0 35 2 17
 0 33 2 3
+0 35 2 17
 1
 end_operator
 begin_operator
@@ -27565,8 +27565,8 @@ overcome prostatitis entertainment flounder saturn earth
 1
 12 3
 2
-0 35 3 17
 0 33 0 1
+0 35 3 17
 1
 end_operator
 begin_operator
@@ -27574,8 +27574,8 @@ overcome prostatitis entertainment flounder uranus saturn
 1
 12 3
 2
-0 35 3 17
 0 33 1 2
+0 35 3 17
 1
 end_operator
 begin_operator
@@ -27583,8 +27583,8 @@ overcome prostatitis entertainment flounder vulcan uranus
 1
 12 3
 2
-0 35 3 17
 0 33 2 3
+0 35 3 17
 1
 end_operator
 begin_operator
@@ -27592,8 +27592,8 @@ overcome prostatitis entertainment ham saturn earth
 1
 12 4
 2
-0 35 4 17
 0 33 0 1
+0 35 4 17
 1
 end_operator
 begin_operator
@@ -27601,8 +27601,8 @@ overcome prostatitis entertainment ham uranus saturn
 1
 12 4
 2
-0 35 4 17
 0 33 1 2
+0 35 4 17
 1
 end_operator
 begin_operator
@@ -27610,8 +27610,8 @@ overcome prostatitis entertainment ham vulcan uranus
 1
 12 4
 2
-0 35 4 17
 0 33 2 3
+0 35 4 17
 1
 end_operator
 begin_operator
@@ -27619,8 +27619,8 @@ overcome prostatitis entertainment haroset saturn earth
 1
 12 5
 2
-0 35 5 17
 0 33 0 1
+0 35 5 17
 1
 end_operator
 begin_operator
@@ -27628,8 +27628,8 @@ overcome prostatitis entertainment haroset uranus saturn
 1
 12 5
 2
-0 35 5 17
 0 33 1 2
+0 35 5 17
 1
 end_operator
 begin_operator
@@ -27637,8 +27637,8 @@ overcome prostatitis entertainment haroset vulcan uranus
 1
 12 5
 2
-0 35 5 17
 0 33 2 3
+0 35 5 17
 1
 end_operator
 begin_operator
@@ -27646,8 +27646,8 @@ overcome prostatitis entertainment lamb saturn earth
 1
 12 6
 2
-0 35 6 17
 0 33 0 1
+0 35 6 17
 1
 end_operator
 begin_operator
@@ -27655,8 +27655,8 @@ overcome prostatitis entertainment lamb uranus saturn
 1
 12 6
 2
-0 35 6 17
 0 33 1 2
+0 35 6 17
 1
 end_operator
 begin_operator
@@ -27664,8 +27664,8 @@ overcome prostatitis entertainment lamb vulcan uranus
 1
 12 6
 2
-0 35 6 17
 0 33 2 3
+0 35 6 17
 1
 end_operator
 begin_operator
@@ -27673,8 +27673,8 @@ overcome prostatitis entertainment lemon saturn earth
 1
 12 7
 2
-0 35 7 17
 0 33 0 1
+0 35 7 17
 1
 end_operator
 begin_operator
@@ -27682,8 +27682,8 @@ overcome prostatitis entertainment lemon uranus saturn
 1
 12 7
 2
-0 35 7 17
 0 33 1 2
+0 35 7 17
 1
 end_operator
 begin_operator
@@ -27691,8 +27691,8 @@ overcome prostatitis entertainment lemon vulcan uranus
 1
 12 7
 2
-0 35 7 17
 0 33 2 3
+0 35 7 17
 1
 end_operator
 begin_operator
@@ -27700,8 +27700,8 @@ overcome prostatitis entertainment lobster saturn earth
 1
 12 8
 2
-0 35 8 17
 0 33 0 1
+0 35 8 17
 1
 end_operator
 begin_operator
@@ -27709,8 +27709,8 @@ overcome prostatitis entertainment lobster uranus saturn
 1
 12 8
 2
-0 35 8 17
 0 33 1 2
+0 35 8 17
 1
 end_operator
 begin_operator
@@ -27718,8 +27718,8 @@ overcome prostatitis entertainment lobster vulcan uranus
 1
 12 8
 2
-0 35 8 17
 0 33 2 3
+0 35 8 17
 1
 end_operator
 begin_operator
@@ -27727,8 +27727,8 @@ overcome prostatitis entertainment marzipan saturn earth
 1
 12 9
 2
-0 35 9 17
 0 33 0 1
+0 35 9 17
 1
 end_operator
 begin_operator
@@ -27736,8 +27736,8 @@ overcome prostatitis entertainment marzipan uranus saturn
 1
 12 9
 2
-0 35 9 17
 0 33 1 2
+0 35 9 17
 1
 end_operator
 begin_operator
@@ -27745,8 +27745,8 @@ overcome prostatitis entertainment marzipan vulcan uranus
 1
 12 9
 2
-0 35 9 17
 0 33 2 3
+0 35 9 17
 1
 end_operator
 begin_operator
@@ -27754,8 +27754,8 @@ overcome prostatitis entertainment onion saturn earth
 1
 12 10
 2
-0 35 11 17
 0 33 0 1
+0 35 11 17
 1
 end_operator
 begin_operator
@@ -27763,8 +27763,8 @@ overcome prostatitis entertainment onion uranus saturn
 1
 12 10
 2
-0 35 11 17
 0 33 1 2
+0 35 11 17
 1
 end_operator
 begin_operator
@@ -27772,8 +27772,8 @@ overcome prostatitis entertainment onion vulcan uranus
 1
 12 10
 2
-0 35 11 17
 0 33 2 3
+0 35 11 17
 1
 end_operator
 begin_operator
@@ -27781,8 +27781,8 @@ overcome prostatitis entertainment tofu saturn earth
 1
 12 11
 2
-0 35 13 17
 0 33 0 1
+0 35 13 17
 1
 end_operator
 begin_operator
@@ -27790,8 +27790,8 @@ overcome prostatitis entertainment tofu uranus saturn
 1
 12 11
 2
-0 35 13 17
 0 33 1 2
+0 35 13 17
 1
 end_operator
 begin_operator
@@ -27799,8 +27799,8 @@ overcome prostatitis entertainment tofu vulcan uranus
 1
 12 11
 2
-0 35 13 17
 0 33 2 3
+0 35 13 17
 1
 end_operator
 begin_operator
@@ -27808,8 +27808,8 @@ overcome prostatitis entertainment wonderbread saturn earth
 1
 12 12
 2
-0 35 14 17
 0 33 0 1
+0 35 14 17
 1
 end_operator
 begin_operator
@@ -27817,8 +27817,8 @@ overcome prostatitis entertainment wonderbread uranus saturn
 1
 12 12
 2
-0 35 14 17
 0 33 1 2
+0 35 14 17
 1
 end_operator
 begin_operator
@@ -27826,8 +27826,8 @@ overcome prostatitis entertainment wonderbread vulcan uranus
 1
 12 12
 2
-0 35 14 17
 0 33 2 3
+0 35 14 17
 1
 end_operator
 begin_operator
@@ -27835,8 +27835,8 @@ overcome prostatitis expectation okra saturn earth
 1
 1 0
 2
-0 35 10 18
 0 20 0 1
+0 35 10 18
 1
 end_operator
 begin_operator
@@ -27844,8 +27844,8 @@ overcome prostatitis expectation okra uranus saturn
 1
 1 0
 2
-0 35 10 18
 0 20 1 2
+0 35 10 18
 1
 end_operator
 begin_operator
@@ -27853,8 +27853,8 @@ overcome prostatitis expectation okra vulcan uranus
 1
 1 0
 2
-0 35 10 18
 0 20 2 3
+0 35 10 18
 1
 end_operator
 begin_operator
@@ -27862,8 +27862,8 @@ overcome prostatitis expectation onion saturn earth
 1
 1 1
 2
-0 35 11 18
 0 20 0 1
+0 35 11 18
 1
 end_operator
 begin_operator
@@ -27871,8 +27871,8 @@ overcome prostatitis expectation onion uranus saturn
 1
 1 1
 2
-0 35 11 18
 0 20 1 2
+0 35 11 18
 1
 end_operator
 begin_operator
@@ -27880,8 +27880,8 @@ overcome prostatitis expectation onion vulcan uranus
 1
 1 1
 2
-0 35 11 18
 0 20 2 3
+0 35 11 18
 1
 end_operator
 begin_operator
@@ -27889,8 +27889,8 @@ overcome prostatitis expectation snickers saturn earth
 1
 1 2
 2
-0 35 12 18
 0 20 0 1
+0 35 12 18
 1
 end_operator
 begin_operator
@@ -27898,8 +27898,8 @@ overcome prostatitis expectation snickers uranus saturn
 1
 1 2
 2
-0 35 12 18
 0 20 1 2
+0 35 12 18
 1
 end_operator
 begin_operator
@@ -27907,8 +27907,8 @@ overcome prostatitis expectation snickers vulcan uranus
 1
 1 2
 2
-0 35 12 18
 0 20 2 3
+0 35 12 18
 1
 end_operator
 begin_operator
@@ -27916,8 +27916,8 @@ overcome prostatitis expectation wonderbread saturn earth
 1
 1 3
 2
-0 35 14 18
 0 20 0 1
+0 35 14 18
 1
 end_operator
 begin_operator
@@ -27925,8 +27925,8 @@ overcome prostatitis expectation wonderbread uranus saturn
 1
 1 3
 2
-0 35 14 18
 0 20 1 2
+0 35 14 18
 1
 end_operator
 begin_operator
@@ -27934,8 +27934,8 @@ overcome prostatitis expectation wonderbread vulcan uranus
 1
 1 3
 2
-0 35 14 18
 0 20 2 3
+0 35 14 18
 1
 end_operator
 begin_operator
@@ -27943,8 +27943,8 @@ overcome prostatitis learning okra saturn earth
 1
 2 0
 2
-0 35 10 19
 0 21 0 1
+0 35 10 19
 1
 end_operator
 begin_operator
@@ -27952,8 +27952,8 @@ overcome prostatitis learning okra uranus saturn
 1
 2 0
 2
-0 35 10 19
 0 21 1 2
+0 35 10 19
 1
 end_operator
 begin_operator
@@ -27961,8 +27961,8 @@ overcome prostatitis learning okra vulcan uranus
 1
 2 0
 2
-0 35 10 19
 0 21 2 3
+0 35 10 19
 1
 end_operator
 begin_operator
@@ -27970,8 +27970,8 @@ overcome prostatitis learning onion saturn earth
 1
 2 1
 2
-0 35 11 19
 0 21 0 1
+0 35 11 19
 1
 end_operator
 begin_operator
@@ -27979,8 +27979,8 @@ overcome prostatitis learning onion uranus saturn
 1
 2 1
 2
-0 35 11 19
 0 21 1 2
+0 35 11 19
 1
 end_operator
 begin_operator
@@ -27988,8 +27988,8 @@ overcome prostatitis learning onion vulcan uranus
 1
 2 1
 2
-0 35 11 19
 0 21 2 3
+0 35 11 19
 1
 end_operator
 begin_operator
@@ -27997,8 +27997,8 @@ overcome prostatitis learning snickers saturn earth
 1
 2 2
 2
-0 35 12 19
 0 21 0 1
+0 35 12 19
 1
 end_operator
 begin_operator
@@ -28006,8 +28006,8 @@ overcome prostatitis learning snickers uranus saturn
 1
 2 2
 2
-0 35 12 19
 0 21 1 2
+0 35 12 19
 1
 end_operator
 begin_operator
@@ -28015,8 +28015,8 @@ overcome prostatitis learning snickers vulcan uranus
 1
 2 2
 2
-0 35 12 19
 0 21 2 3
+0 35 12 19
 1
 end_operator
 begin_operator
@@ -28024,8 +28024,8 @@ overcome prostatitis learning wonderbread saturn earth
 1
 2 3
 2
-0 35 14 19
 0 21 0 1
+0 35 14 19
 1
 end_operator
 begin_operator
@@ -28033,8 +28033,8 @@ overcome prostatitis learning wonderbread uranus saturn
 1
 2 3
 2
-0 35 14 19
 0 21 1 2
+0 35 14 19
 1
 end_operator
 begin_operator
@@ -28042,8 +28042,8 @@ overcome prostatitis learning wonderbread vulcan uranus
 1
 2 3
 2
-0 35 14 19
 0 21 2 3
+0 35 14 19
 1
 end_operator
 begin_operator
@@ -29103,24 +29103,24 @@ begin_operator
 overcome sciatica achievement wonderbread saturn earth
 0
 2
-0 38 14 15
 0 19 0 1
+0 38 14 15
 1
 end_operator
 begin_operator
 overcome sciatica achievement wonderbread uranus saturn
 0
 2
-0 38 14 15
 0 19 1 2
+0 38 14 15
 1
 end_operator
 begin_operator
 overcome sciatica achievement wonderbread vulcan uranus
 0
 2
-0 38 14 15
 0 19 2 3
+0 38 14 15
 1
 end_operator
 begin_operator
@@ -29128,8 +29128,8 @@ overcome sciatica aesthetics bacon saturn earth
 1
 10 0
 2
-0 38 0 16
 0 32 0 1
+0 38 0 16
 1
 end_operator
 begin_operator
@@ -29137,8 +29137,8 @@ overcome sciatica aesthetics bacon uranus saturn
 1
 10 0
 2
-0 38 0 16
 0 32 1 2
+0 38 0 16
 1
 end_operator
 begin_operator
@@ -29146,8 +29146,8 @@ overcome sciatica aesthetics bacon vulcan uranus
 1
 10 0
 2
-0 38 0 16
 0 32 2 3
+0 38 0 16
 1
 end_operator
 begin_operator
@@ -29155,8 +29155,8 @@ overcome sciatica aesthetics beef saturn earth
 1
 10 1
 2
-0 38 1 16
 0 32 0 1
+0 38 1 16
 1
 end_operator
 begin_operator
@@ -29164,8 +29164,8 @@ overcome sciatica aesthetics beef uranus saturn
 1
 10 1
 2
-0 38 1 16
 0 32 1 2
+0 38 1 16
 1
 end_operator
 begin_operator
@@ -29173,8 +29173,8 @@ overcome sciatica aesthetics beef vulcan uranus
 1
 10 1
 2
-0 38 1 16
 0 32 2 3
+0 38 1 16
 1
 end_operator
 begin_operator
@@ -29182,8 +29182,8 @@ overcome sciatica aesthetics cantelope saturn earth
 1
 10 2
 2
-0 38 2 16
 0 32 0 1
+0 38 2 16
 1
 end_operator
 begin_operator
@@ -29191,8 +29191,8 @@ overcome sciatica aesthetics cantelope uranus saturn
 1
 10 2
 2
-0 38 2 16
 0 32 1 2
+0 38 2 16
 1
 end_operator
 begin_operator
@@ -29200,8 +29200,8 @@ overcome sciatica aesthetics cantelope vulcan uranus
 1
 10 2
 2
-0 38 2 16
 0 32 2 3
+0 38 2 16
 1
 end_operator
 begin_operator
@@ -29209,8 +29209,8 @@ overcome sciatica aesthetics flounder saturn earth
 1
 10 3
 2
-0 38 3 16
 0 32 0 1
+0 38 3 16
 1
 end_operator
 begin_operator
@@ -29218,8 +29218,8 @@ overcome sciatica aesthetics flounder uranus saturn
 1
 10 3
 2
-0 38 3 16
 0 32 1 2
+0 38 3 16
 1
 end_operator
 begin_operator
@@ -29227,8 +29227,8 @@ overcome sciatica aesthetics flounder vulcan uranus
 1
 10 3
 2
-0 38 3 16
 0 32 2 3
+0 38 3 16
 1
 end_operator
 begin_operator
@@ -29236,8 +29236,8 @@ overcome sciatica aesthetics ham saturn earth
 1
 10 4
 2
-0 38 4 16
 0 32 0 1
+0 38 4 16
 1
 end_operator
 begin_operator
@@ -29245,8 +29245,8 @@ overcome sciatica aesthetics ham uranus saturn
 1
 10 4
 2
-0 38 4 16
 0 32 1 2
+0 38 4 16
 1
 end_operator
 begin_operator
@@ -29254,8 +29254,8 @@ overcome sciatica aesthetics ham vulcan uranus
 1
 10 4
 2
-0 38 4 16
 0 32 2 3
+0 38 4 16
 1
 end_operator
 begin_operator
@@ -29263,8 +29263,8 @@ overcome sciatica aesthetics haroset saturn earth
 1
 10 5
 2
-0 38 5 16
 0 32 0 1
+0 38 5 16
 1
 end_operator
 begin_operator
@@ -29272,8 +29272,8 @@ overcome sciatica aesthetics haroset uranus saturn
 1
 10 5
 2
-0 38 5 16
 0 32 1 2
+0 38 5 16
 1
 end_operator
 begin_operator
@@ -29281,8 +29281,8 @@ overcome sciatica aesthetics haroset vulcan uranus
 1
 10 5
 2
-0 38 5 16
 0 32 2 3
+0 38 5 16
 1
 end_operator
 begin_operator
@@ -29290,8 +29290,8 @@ overcome sciatica aesthetics lamb saturn earth
 1
 10 6
 2
-0 38 6 16
 0 32 0 1
+0 38 6 16
 1
 end_operator
 begin_operator
@@ -29299,8 +29299,8 @@ overcome sciatica aesthetics lamb uranus saturn
 1
 10 6
 2
-0 38 6 16
 0 32 1 2
+0 38 6 16
 1
 end_operator
 begin_operator
@@ -29308,8 +29308,8 @@ overcome sciatica aesthetics lamb vulcan uranus
 1
 10 6
 2
-0 38 6 16
 0 32 2 3
+0 38 6 16
 1
 end_operator
 begin_operator
@@ -29317,8 +29317,8 @@ overcome sciatica aesthetics lemon saturn earth
 1
 10 7
 2
-0 38 7 16
 0 32 0 1
+0 38 7 16
 1
 end_operator
 begin_operator
@@ -29326,8 +29326,8 @@ overcome sciatica aesthetics lemon uranus saturn
 1
 10 7
 2
-0 38 7 16
 0 32 1 2
+0 38 7 16
 1
 end_operator
 begin_operator
@@ -29335,8 +29335,8 @@ overcome sciatica aesthetics lemon vulcan uranus
 1
 10 7
 2
-0 38 7 16
 0 32 2 3
+0 38 7 16
 1
 end_operator
 begin_operator
@@ -29344,8 +29344,8 @@ overcome sciatica aesthetics lobster saturn earth
 1
 10 8
 2
-0 38 8 16
 0 32 0 1
+0 38 8 16
 1
 end_operator
 begin_operator
@@ -29353,8 +29353,8 @@ overcome sciatica aesthetics lobster uranus saturn
 1
 10 8
 2
-0 38 8 16
 0 32 1 2
+0 38 8 16
 1
 end_operator
 begin_operator
@@ -29362,8 +29362,8 @@ overcome sciatica aesthetics lobster vulcan uranus
 1
 10 8
 2
-0 38 8 16
 0 32 2 3
+0 38 8 16
 1
 end_operator
 begin_operator
@@ -29371,8 +29371,8 @@ overcome sciatica aesthetics marzipan saturn earth
 1
 10 9
 2
-0 38 9 16
 0 32 0 1
+0 38 9 16
 1
 end_operator
 begin_operator
@@ -29380,8 +29380,8 @@ overcome sciatica aesthetics marzipan uranus saturn
 1
 10 9
 2
-0 38 9 16
 0 32 1 2
+0 38 9 16
 1
 end_operator
 begin_operator
@@ -29389,8 +29389,8 @@ overcome sciatica aesthetics marzipan vulcan uranus
 1
 10 9
 2
-0 38 9 16
 0 32 2 3
+0 38 9 16
 1
 end_operator
 begin_operator
@@ -29398,8 +29398,8 @@ overcome sciatica aesthetics onion saturn earth
 1
 10 10
 2
-0 38 11 16
 0 32 0 1
+0 38 11 16
 1
 end_operator
 begin_operator
@@ -29407,8 +29407,8 @@ overcome sciatica aesthetics onion uranus saturn
 1
 10 10
 2
-0 38 11 16
 0 32 1 2
+0 38 11 16
 1
 end_operator
 begin_operator
@@ -29416,8 +29416,8 @@ overcome sciatica aesthetics onion vulcan uranus
 1
 10 10
 2
-0 38 11 16
 0 32 2 3
+0 38 11 16
 1
 end_operator
 begin_operator
@@ -29425,8 +29425,8 @@ overcome sciatica aesthetics tofu saturn earth
 1
 10 11
 2
-0 38 13 16
 0 32 0 1
+0 38 13 16
 1
 end_operator
 begin_operator
@@ -29434,8 +29434,8 @@ overcome sciatica aesthetics tofu uranus saturn
 1
 10 11
 2
-0 38 13 16
 0 32 1 2
+0 38 13 16
 1
 end_operator
 begin_operator
@@ -29443,8 +29443,8 @@ overcome sciatica aesthetics tofu vulcan uranus
 1
 10 11
 2
-0 38 13 16
 0 32 2 3
+0 38 13 16
 1
 end_operator
 begin_operator
@@ -29452,8 +29452,8 @@ overcome sciatica aesthetics wonderbread saturn earth
 1
 10 12
 2
-0 38 14 16
 0 32 0 1
+0 38 14 16
 1
 end_operator
 begin_operator
@@ -29461,8 +29461,8 @@ overcome sciatica aesthetics wonderbread uranus saturn
 1
 10 12
 2
-0 38 14 16
 0 32 1 2
+0 38 14 16
 1
 end_operator
 begin_operator
@@ -29470,8 +29470,8 @@ overcome sciatica aesthetics wonderbread vulcan uranus
 1
 10 12
 2
-0 38 14 16
 0 32 2 3
+0 38 14 16
 1
 end_operator
 begin_operator
@@ -29479,8 +29479,8 @@ overcome sciatica entertainment bacon saturn earth
 1
 12 0
 2
-0 38 0 17
 0 33 0 1
+0 38 0 17
 1
 end_operator
 begin_operator
@@ -29488,8 +29488,8 @@ overcome sciatica entertainment bacon uranus saturn
 1
 12 0
 2
-0 38 0 17
 0 33 1 2
+0 38 0 17
 1
 end_operator
 begin_operator
@@ -29497,8 +29497,8 @@ overcome sciatica entertainment bacon vulcan uranus
 1
 12 0
 2
-0 38 0 17
 0 33 2 3
+0 38 0 17
 1
 end_operator
 begin_operator
@@ -29506,8 +29506,8 @@ overcome sciatica entertainment beef saturn earth
 1
 12 1
 2
-0 38 1 17
 0 33 0 1
+0 38 1 17
 1
 end_operator
 begin_operator
@@ -29515,8 +29515,8 @@ overcome sciatica entertainment beef uranus saturn
 1
 12 1
 2
-0 38 1 17
 0 33 1 2
+0 38 1 17
 1
 end_operator
 begin_operator
@@ -29524,8 +29524,8 @@ overcome sciatica entertainment beef vulcan uranus
 1
 12 1
 2
-0 38 1 17
 0 33 2 3
+0 38 1 17
 1
 end_operator
 begin_operator
@@ -29533,8 +29533,8 @@ overcome sciatica entertainment cantelope saturn earth
 1
 12 2
 2
-0 38 2 17
 0 33 0 1
+0 38 2 17
 1
 end_operator
 begin_operator
@@ -29542,8 +29542,8 @@ overcome sciatica entertainment cantelope uranus saturn
 1
 12 2
 2
-0 38 2 17
 0 33 1 2
+0 38 2 17
 1
 end_operator
 begin_operator
@@ -29551,8 +29551,8 @@ overcome sciatica entertainment cantelope vulcan uranus
 1
 12 2
 2
-0 38 2 17
 0 33 2 3
+0 38 2 17
 1
 end_operator
 begin_operator
@@ -29560,8 +29560,8 @@ overcome sciatica entertainment flounder saturn earth
 1
 12 3
 2
-0 38 3 17
 0 33 0 1
+0 38 3 17
 1
 end_operator
 begin_operator
@@ -29569,8 +29569,8 @@ overcome sciatica entertainment flounder uranus saturn
 1
 12 3
 2
-0 38 3 17
 0 33 1 2
+0 38 3 17
 1
 end_operator
 begin_operator
@@ -29578,8 +29578,8 @@ overcome sciatica entertainment flounder vulcan uranus
 1
 12 3
 2
-0 38 3 17
 0 33 2 3
+0 38 3 17
 1
 end_operator
 begin_operator
@@ -29587,8 +29587,8 @@ overcome sciatica entertainment ham saturn earth
 1
 12 4
 2
-0 38 4 17
 0 33 0 1
+0 38 4 17
 1
 end_operator
 begin_operator
@@ -29596,8 +29596,8 @@ overcome sciatica entertainment ham uranus saturn
 1
 12 4
 2
-0 38 4 17
 0 33 1 2
+0 38 4 17
 1
 end_operator
 begin_operator
@@ -29605,8 +29605,8 @@ overcome sciatica entertainment ham vulcan uranus
 1
 12 4
 2
-0 38 4 17
 0 33 2 3
+0 38 4 17
 1
 end_operator
 begin_operator
@@ -29614,8 +29614,8 @@ overcome sciatica entertainment haroset saturn earth
 1
 12 5
 2
-0 38 5 17
 0 33 0 1
+0 38 5 17
 1
 end_operator
 begin_operator
@@ -29623,8 +29623,8 @@ overcome sciatica entertainment haroset uranus saturn
 1
 12 5
 2
-0 38 5 17
 0 33 1 2
+0 38 5 17
 1
 end_operator
 begin_operator
@@ -29632,8 +29632,8 @@ overcome sciatica entertainment haroset vulcan uranus
 1
 12 5
 2
-0 38 5 17
 0 33 2 3
+0 38 5 17
 1
 end_operator
 begin_operator
@@ -29641,8 +29641,8 @@ overcome sciatica entertainment lamb saturn earth
 1
 12 6
 2
-0 38 6 17
 0 33 0 1
+0 38 6 17
 1
 end_operator
 begin_operator
@@ -29650,8 +29650,8 @@ overcome sciatica entertainment lamb uranus saturn
 1
 12 6
 2
-0 38 6 17
 0 33 1 2
+0 38 6 17
 1
 end_operator
 begin_operator
@@ -29659,8 +29659,8 @@ overcome sciatica entertainment lamb vulcan uranus
 1
 12 6
 2
-0 38 6 17
 0 33 2 3
+0 38 6 17
 1
 end_operator
 begin_operator
@@ -29668,8 +29668,8 @@ overcome sciatica entertainment lemon saturn earth
 1
 12 7
 2
-0 38 7 17
 0 33 0 1
+0 38 7 17
 1
 end_operator
 begin_operator
@@ -29677,8 +29677,8 @@ overcome sciatica entertainment lemon uranus saturn
 1
 12 7
 2
-0 38 7 17
 0 33 1 2
+0 38 7 17
 1
 end_operator
 begin_operator
@@ -29686,8 +29686,8 @@ overcome sciatica entertainment lemon vulcan uranus
 1
 12 7
 2
-0 38 7 17
 0 33 2 3
+0 38 7 17
 1
 end_operator
 begin_operator
@@ -29695,8 +29695,8 @@ overcome sciatica entertainment lobster saturn earth
 1
 12 8
 2
-0 38 8 17
 0 33 0 1
+0 38 8 17
 1
 end_operator
 begin_operator
@@ -29704,8 +29704,8 @@ overcome sciatica entertainment lobster uranus saturn
 1
 12 8
 2
-0 38 8 17
 0 33 1 2
+0 38 8 17
 1
 end_operator
 begin_operator
@@ -29713,8 +29713,8 @@ overcome sciatica entertainment lobster vulcan uranus
 1
 12 8
 2
-0 38 8 17
 0 33 2 3
+0 38 8 17
 1
 end_operator
 begin_operator
@@ -29722,8 +29722,8 @@ overcome sciatica entertainment marzipan saturn earth
 1
 12 9
 2
-0 38 9 17
 0 33 0 1
+0 38 9 17
 1
 end_operator
 begin_operator
@@ -29731,8 +29731,8 @@ overcome sciatica entertainment marzipan uranus saturn
 1
 12 9
 2
-0 38 9 17
 0 33 1 2
+0 38 9 17
 1
 end_operator
 begin_operator
@@ -29740,8 +29740,8 @@ overcome sciatica entertainment marzipan vulcan uranus
 1
 12 9
 2
-0 38 9 17
 0 33 2 3
+0 38 9 17
 1
 end_operator
 begin_operator
@@ -29749,8 +29749,8 @@ overcome sciatica entertainment onion saturn earth
 1
 12 10
 2
-0 38 11 17
 0 33 0 1
+0 38 11 17
 1
 end_operator
 begin_operator
@@ -29758,8 +29758,8 @@ overcome sciatica entertainment onion uranus saturn
 1
 12 10
 2
-0 38 11 17
 0 33 1 2
+0 38 11 17
 1
 end_operator
 begin_operator
@@ -29767,8 +29767,8 @@ overcome sciatica entertainment onion vulcan uranus
 1
 12 10
 2
-0 38 11 17
 0 33 2 3
+0 38 11 17
 1
 end_operator
 begin_operator
@@ -29776,8 +29776,8 @@ overcome sciatica entertainment tofu saturn earth
 1
 12 11
 2
-0 38 13 17
 0 33 0 1
+0 38 13 17
 1
 end_operator
 begin_operator
@@ -29785,8 +29785,8 @@ overcome sciatica entertainment tofu uranus saturn
 1
 12 11
 2
-0 38 13 17
 0 33 1 2
+0 38 13 17
 1
 end_operator
 begin_operator
@@ -29794,8 +29794,8 @@ overcome sciatica entertainment tofu vulcan uranus
 1
 12 11
 2
-0 38 13 17
 0 33 2 3
+0 38 13 17
 1
 end_operator
 begin_operator
@@ -29803,8 +29803,8 @@ overcome sciatica entertainment wonderbread saturn earth
 1
 12 12
 2
-0 38 14 17
 0 33 0 1
+0 38 14 17
 1
 end_operator
 begin_operator
@@ -29812,8 +29812,8 @@ overcome sciatica entertainment wonderbread uranus saturn
 1
 12 12
 2
-0 38 14 17
 0 33 1 2
+0 38 14 17
 1
 end_operator
 begin_operator
@@ -29821,8 +29821,8 @@ overcome sciatica entertainment wonderbread vulcan uranus
 1
 12 12
 2
-0 38 14 17
 0 33 2 3
+0 38 14 17
 1
 end_operator
 begin_operator
@@ -29830,8 +29830,8 @@ overcome sciatica expectation okra saturn earth
 1
 1 0
 2
-0 38 10 18
 0 20 0 1
+0 38 10 18
 1
 end_operator
 begin_operator
@@ -29839,8 +29839,8 @@ overcome sciatica expectation okra uranus saturn
 1
 1 0
 2
-0 38 10 18
 0 20 1 2
+0 38 10 18
 1
 end_operator
 begin_operator
@@ -29848,8 +29848,8 @@ overcome sciatica expectation okra vulcan uranus
 1
 1 0
 2
-0 38 10 18
 0 20 2 3
+0 38 10 18
 1
 end_operator
 begin_operator
@@ -29857,8 +29857,8 @@ overcome sciatica expectation onion saturn earth
 1
 1 1
 2
-0 38 11 18
 0 20 0 1
+0 38 11 18
 1
 end_operator
 begin_operator
@@ -29866,8 +29866,8 @@ overcome sciatica expectation onion uranus saturn
 1
 1 1
 2
-0 38 11 18
 0 20 1 2
+0 38 11 18
 1
 end_operator
 begin_operator
@@ -29875,8 +29875,8 @@ overcome sciatica expectation onion vulcan uranus
 1
 1 1
 2
-0 38 11 18
 0 20 2 3
+0 38 11 18
 1
 end_operator
 begin_operator
@@ -29884,8 +29884,8 @@ overcome sciatica expectation snickers saturn earth
 1
 1 2
 2
-0 38 12 18
 0 20 0 1
+0 38 12 18
 1
 end_operator
 begin_operator
@@ -29893,8 +29893,8 @@ overcome sciatica expectation snickers uranus saturn
 1
 1 2
 2
-0 38 12 18
 0 20 1 2
+0 38 12 18
 1
 end_operator
 begin_operator
@@ -29902,8 +29902,8 @@ overcome sciatica expectation snickers vulcan uranus
 1
 1 2
 2
-0 38 12 18
 0 20 2 3
+0 38 12 18
 1
 end_operator
 begin_operator
@@ -29911,8 +29911,8 @@ overcome sciatica expectation wonderbread saturn earth
 1
 1 3
 2
-0 38 14 18
 0 20 0 1
+0 38 14 18
 1
 end_operator
 begin_operator
@@ -29920,8 +29920,8 @@ overcome sciatica expectation wonderbread uranus saturn
 1
 1 3
 2
-0 38 14 18
 0 20 1 2
+0 38 14 18
 1
 end_operator
 begin_operator
@@ -29929,8 +29929,8 @@ overcome sciatica expectation wonderbread vulcan uranus
 1
 1 3
 2
-0 38 14 18
 0 20 2 3
+0 38 14 18
 1
 end_operator
 begin_operator
@@ -29938,8 +29938,8 @@ overcome sciatica learning okra saturn earth
 1
 2 0
 2
-0 38 10 19
 0 21 0 1
+0 38 10 19
 1
 end_operator
 begin_operator
@@ -29947,8 +29947,8 @@ overcome sciatica learning okra uranus saturn
 1
 2 0
 2
-0 38 10 19
 0 21 1 2
+0 38 10 19
 1
 end_operator
 begin_operator
@@ -29956,8 +29956,8 @@ overcome sciatica learning okra vulcan uranus
 1
 2 0
 2
-0 38 10 19
 0 21 2 3
+0 38 10 19
 1
 end_operator
 begin_operator
@@ -29965,8 +29965,8 @@ overcome sciatica learning onion saturn earth
 1
 2 1
 2
-0 38 11 19
 0 21 0 1
+0 38 11 19
 1
 end_operator
 begin_operator
@@ -29974,8 +29974,8 @@ overcome sciatica learning onion uranus saturn
 1
 2 1
 2
-0 38 11 19
 0 21 1 2
+0 38 11 19
 1
 end_operator
 begin_operator
@@ -29983,8 +29983,8 @@ overcome sciatica learning onion vulcan uranus
 1
 2 1
 2
-0 38 11 19
 0 21 2 3
+0 38 11 19
 1
 end_operator
 begin_operator
@@ -29992,8 +29992,8 @@ overcome sciatica learning snickers saturn earth
 1
 2 2
 2
-0 38 12 19
 0 21 0 1
+0 38 12 19
 1
 end_operator
 begin_operator
@@ -30001,8 +30001,8 @@ overcome sciatica learning snickers uranus saturn
 1
 2 2
 2
-0 38 12 19
 0 21 1 2
+0 38 12 19
 1
 end_operator
 begin_operator
@@ -30010,8 +30010,8 @@ overcome sciatica learning snickers vulcan uranus
 1
 2 2
 2
-0 38 12 19
 0 21 2 3
+0 38 12 19
 1
 end_operator
 begin_operator
@@ -30019,8 +30019,8 @@ overcome sciatica learning wonderbread saturn earth
 1
 2 3
 2
-0 38 14 19
 0 21 0 1
+0 38 14 19
 1
 end_operator
 begin_operator
@@ -30028,8 +30028,8 @@ overcome sciatica learning wonderbread uranus saturn
 1
 2 3
 2
-0 38 14 19
 0 21 1 2
+0 38 14 19
 1
 end_operator
 begin_operator
@@ -30037,8 +30037,8 @@ overcome sciatica learning wonderbread vulcan uranus
 1
 2 3
 2
-0 38 14 19
 0 21 2 3
+0 38 14 19
 1
 end_operator
 begin_operator
@@ -30046,8 +30046,8 @@ overcome sciatica love bacon saturn earth
 1
 14 0
 2
-0 38 0 20
 0 36 0 1
+0 38 0 20
 1
 end_operator
 begin_operator
@@ -30055,8 +30055,8 @@ overcome sciatica love bacon uranus saturn
 1
 14 0
 2
-0 38 0 20
 0 36 1 2
+0 38 0 20
 1
 end_operator
 begin_operator
@@ -30064,8 +30064,8 @@ overcome sciatica love bacon vulcan uranus
 1
 14 0
 2
-0 38 0 20
 0 36 2 3
+0 38 0 20
 1
 end_operator
 begin_operator
@@ -30073,8 +30073,8 @@ overcome sciatica love beef saturn earth
 1
 14 1
 2
-0 38 1 20
 0 36 0 1
+0 38 1 20
 1
 end_operator
 begin_operator
@@ -30082,8 +30082,8 @@ overcome sciatica love beef uranus saturn
 1
 14 1
 2
-0 38 1 20
 0 36 1 2
+0 38 1 20
 1
 end_operator
 begin_operator
@@ -30091,8 +30091,8 @@ overcome sciatica love beef vulcan uranus
 1
 14 1
 2
-0 38 1 20
 0 36 2 3
+0 38 1 20
 1
 end_operator
 begin_operator
@@ -30100,8 +30100,8 @@ overcome sciatica love cantelope saturn earth
 1
 14 2
 2
-0 38 2 20
 0 36 0 1
+0 38 2 20
 1
 end_operator
 begin_operator
@@ -30109,8 +30109,8 @@ overcome sciatica love cantelope uranus saturn
 1
 14 2
 2
-0 38 2 20
 0 36 1 2
+0 38 2 20
 1
 end_operator
 begin_operator
@@ -30118,8 +30118,8 @@ overcome sciatica love cantelope vulcan uranus
 1
 14 2
 2
-0 38 2 20
 0 36 2 3
+0 38 2 20
 1
 end_operator
 begin_operator
@@ -30127,8 +30127,8 @@ overcome sciatica love flounder saturn earth
 1
 14 3
 2
-0 38 3 20
 0 36 0 1
+0 38 3 20
 1
 end_operator
 begin_operator
@@ -30136,8 +30136,8 @@ overcome sciatica love flounder uranus saturn
 1
 14 3
 2
-0 38 3 20
 0 36 1 2
+0 38 3 20
 1
 end_operator
 begin_operator
@@ -30145,8 +30145,8 @@ overcome sciatica love flounder vulcan uranus
 1
 14 3
 2
-0 38 3 20
 0 36 2 3
+0 38 3 20
 1
 end_operator
 begin_operator
@@ -30154,8 +30154,8 @@ overcome sciatica love ham saturn earth
 1
 14 4
 2
-0 38 4 20
 0 36 0 1
+0 38 4 20
 1
 end_operator
 begin_operator
@@ -30163,8 +30163,8 @@ overcome sciatica love ham uranus saturn
 1
 14 4
 2
-0 38 4 20
 0 36 1 2
+0 38 4 20
 1
 end_operator
 begin_operator
@@ -30172,8 +30172,8 @@ overcome sciatica love ham vulcan uranus
 1
 14 4
 2
-0 38 4 20
 0 36 2 3
+0 38 4 20
 1
 end_operator
 begin_operator
@@ -30181,8 +30181,8 @@ overcome sciatica love haroset saturn earth
 1
 14 5
 2
-0 38 5 20
 0 36 0 1
+0 38 5 20
 1
 end_operator
 begin_operator
@@ -30190,8 +30190,8 @@ overcome sciatica love haroset uranus saturn
 1
 14 5
 2
-0 38 5 20
 0 36 1 2
+0 38 5 20
 1
 end_operator
 begin_operator
@@ -30199,8 +30199,8 @@ overcome sciatica love haroset vulcan uranus
 1
 14 5
 2
-0 38 5 20
 0 36 2 3
+0 38 5 20
 1
 end_operator
 begin_operator
@@ -30208,8 +30208,8 @@ overcome sciatica love lamb saturn earth
 1
 14 6
 2
-0 38 6 20
 0 36 0 1
+0 38 6 20
 1
 end_operator
 begin_operator
@@ -30217,8 +30217,8 @@ overcome sciatica love lamb uranus saturn
 1
 14 6
 2
-0 38 6 20
 0 36 1 2
+0 38 6 20
 1
 end_operator
 begin_operator
@@ -30226,8 +30226,8 @@ overcome sciatica love lamb vulcan uranus
 1
 14 6
 2
-0 38 6 20
 0 36 2 3
+0 38 6 20
 1
 end_operator
 begin_operator
@@ -30235,8 +30235,8 @@ overcome sciatica love lemon saturn earth
 1
 14 7
 2
-0 38 7 20
 0 36 0 1
+0 38 7 20
 1
 end_operator
 begin_operator
@@ -30244,8 +30244,8 @@ overcome sciatica love lemon uranus saturn
 1
 14 7
 2
-0 38 7 20
 0 36 1 2
+0 38 7 20
 1
 end_operator
 begin_operator
@@ -30253,8 +30253,8 @@ overcome sciatica love lemon vulcan uranus
 1
 14 7
 2
-0 38 7 20
 0 36 2 3
+0 38 7 20
 1
 end_operator
 begin_operator
@@ -30262,8 +30262,8 @@ overcome sciatica love lobster saturn earth
 1
 14 8
 2
-0 38 8 20
 0 36 0 1
+0 38 8 20
 1
 end_operator
 begin_operator
@@ -30271,8 +30271,8 @@ overcome sciatica love lobster uranus saturn
 1
 14 8
 2
-0 38 8 20
 0 36 1 2
+0 38 8 20
 1
 end_operator
 begin_operator
@@ -30280,8 +30280,8 @@ overcome sciatica love lobster vulcan uranus
 1
 14 8
 2
-0 38 8 20
 0 36 2 3
+0 38 8 20
 1
 end_operator
 begin_operator
@@ -30289,8 +30289,8 @@ overcome sciatica love marzipan saturn earth
 1
 14 9
 2
-0 38 9 20
 0 36 0 1
+0 38 9 20
 1
 end_operator
 begin_operator
@@ -30298,8 +30298,8 @@ overcome sciatica love marzipan uranus saturn
 1
 14 9
 2
-0 38 9 20
 0 36 1 2
+0 38 9 20
 1
 end_operator
 begin_operator
@@ -30307,8 +30307,8 @@ overcome sciatica love marzipan vulcan uranus
 1
 14 9
 2
-0 38 9 20
 0 36 2 3
+0 38 9 20
 1
 end_operator
 begin_operator
@@ -30316,8 +30316,8 @@ overcome sciatica love onion saturn earth
 1
 14 10
 2
-0 38 11 20
 0 36 0 1
+0 38 11 20
 1
 end_operator
 begin_operator
@@ -30325,8 +30325,8 @@ overcome sciatica love onion uranus saturn
 1
 14 10
 2
-0 38 11 20
 0 36 1 2
+0 38 11 20
 1
 end_operator
 begin_operator
@@ -30334,8 +30334,8 @@ overcome sciatica love onion vulcan uranus
 1
 14 10
 2
-0 38 11 20
 0 36 2 3
+0 38 11 20
 1
 end_operator
 begin_operator
@@ -30343,8 +30343,8 @@ overcome sciatica love tofu saturn earth
 1
 14 11
 2
-0 38 13 20
 0 36 0 1
+0 38 13 20
 1
 end_operator
 begin_operator
@@ -30352,8 +30352,8 @@ overcome sciatica love tofu uranus saturn
 1
 14 11
 2
-0 38 13 20
 0 36 1 2
+0 38 13 20
 1
 end_operator
 begin_operator
@@ -30361,8 +30361,8 @@ overcome sciatica love tofu vulcan uranus
 1
 14 11
 2
-0 38 13 20
 0 36 2 3
+0 38 13 20
 1
 end_operator
 begin_operator
@@ -30370,8 +30370,8 @@ overcome sciatica love wonderbread saturn earth
 1
 14 12
 2
-0 38 14 20
 0 36 0 1
+0 38 14 20
 1
 end_operator
 begin_operator
@@ -30379,8 +30379,8 @@ overcome sciatica love wonderbread uranus saturn
 1
 14 12
 2
-0 38 14 20
 0 36 1 2
+0 38 14 20
 1
 end_operator
 begin_operator
@@ -30388,8 +30388,8 @@ overcome sciatica love wonderbread vulcan uranus
 1
 14 12
 2
-0 38 14 20
 0 36 2 3
+0 38 14 20
 1
 end_operator
 begin_operator
@@ -30397,8 +30397,8 @@ overcome sciatica lubricity bacon saturn earth
 1
 16 0
 2
-0 38 0 21
 0 37 0 1
+0 38 0 21
 1
 end_operator
 begin_operator
@@ -30406,8 +30406,8 @@ overcome sciatica lubricity bacon uranus saturn
 1
 16 0
 2
-0 38 0 21
 0 37 1 2
+0 38 0 21
 1
 end_operator
 begin_operator
@@ -30415,8 +30415,8 @@ overcome sciatica lubricity bacon vulcan uranus
 1
 16 0
 2
-0 38 0 21
 0 37 2 3
+0 38 0 21
 1
 end_operator
 begin_operator
@@ -30424,8 +30424,8 @@ overcome sciatica lubricity beef saturn earth
 1
 16 1
 2
-0 38 1 21
 0 37 0 1
+0 38 1 21
 1
 end_operator
 begin_operator
@@ -30433,8 +30433,8 @@ overcome sciatica lubricity beef uranus saturn
 1
 16 1
 2
-0 38 1 21
 0 37 1 2
+0 38 1 21
 1
 end_operator
 begin_operator
@@ -30442,8 +30442,8 @@ overcome sciatica lubricity beef vulcan uranus
 1
 16 1
 2
-0 38 1 21
 0 37 2 3
+0 38 1 21
 1
 end_operator
 begin_operator
@@ -30451,8 +30451,8 @@ overcome sciatica lubricity cantelope saturn earth
 1
 16 2
 2
-0 38 2 21
 0 37 0 1
+0 38 2 21
 1
 end_operator
 begin_operator
@@ -30460,8 +30460,8 @@ overcome sciatica lubricity cantelope uranus saturn
 1
 16 2
 2
-0 38 2 21
 0 37 1 2
+0 38 2 21
 1
 end_operator
 begin_operator
@@ -30469,8 +30469,8 @@ overcome sciatica lubricity cantelope vulcan uranus
 1
 16 2
 2
-0 38 2 21
 0 37 2 3
+0 38 2 21
 1
 end_operator
 begin_operator
@@ -30478,8 +30478,8 @@ overcome sciatica lubricity flounder saturn earth
 1
 16 3
 2
-0 38 3 21
 0 37 0 1
+0 38 3 21
 1
 end_operator
 begin_operator
@@ -30487,8 +30487,8 @@ overcome sciatica lubricity flounder uranus saturn
 1
 16 3
 2
-0 38 3 21
 0 37 1 2
+0 38 3 21
 1
 end_operator
 begin_operator
@@ -30496,8 +30496,8 @@ overcome sciatica lubricity flounder vulcan uranus
 1
 16 3
 2
-0 38 3 21
 0 37 2 3
+0 38 3 21
 1
 end_operator
 begin_operator
@@ -30505,8 +30505,8 @@ overcome sciatica lubricity ham saturn earth
 1
 16 4
 2
-0 38 4 21
 0 37 0 1
+0 38 4 21
 1
 end_operator
 begin_operator
@@ -30514,8 +30514,8 @@ overcome sciatica lubricity ham uranus saturn
 1
 16 4
 2
-0 38 4 21
 0 37 1 2
+0 38 4 21
 1
 end_operator
 begin_operator
@@ -30523,8 +30523,8 @@ overcome sciatica lubricity ham vulcan uranus
 1
 16 4
 2
-0 38 4 21
 0 37 2 3
+0 38 4 21
 1
 end_operator
 begin_operator
@@ -30532,8 +30532,8 @@ overcome sciatica lubricity haroset saturn earth
 1
 16 5
 2
-0 38 5 21
 0 37 0 1
+0 38 5 21
 1
 end_operator
 begin_operator
@@ -30541,8 +30541,8 @@ overcome sciatica lubricity haroset uranus saturn
 1
 16 5
 2
-0 38 5 21
 0 37 1 2
+0 38 5 21
 1
 end_operator
 begin_operator
@@ -30550,8 +30550,8 @@ overcome sciatica lubricity haroset vulcan uranus
 1
 16 5
 2
-0 38 5 21
 0 37 2 3
+0 38 5 21
 1
 end_operator
 begin_operator
@@ -30559,8 +30559,8 @@ overcome sciatica lubricity lamb saturn earth
 1
 16 6
 2
-0 38 6 21
 0 37 0 1
+0 38 6 21
 1
 end_operator
 begin_operator
@@ -30568,8 +30568,8 @@ overcome sciatica lubricity lamb uranus saturn
 1
 16 6
 2
-0 38 6 21
 0 37 1 2
+0 38 6 21
 1
 end_operator
 begin_operator
@@ -30577,8 +30577,8 @@ overcome sciatica lubricity lamb vulcan uranus
 1
 16 6
 2
-0 38 6 21
 0 37 2 3
+0 38 6 21
 1
 end_operator
 begin_operator
@@ -30586,8 +30586,8 @@ overcome sciatica lubricity lemon saturn earth
 1
 16 7
 2
-0 38 7 21
 0 37 0 1
+0 38 7 21
 1
 end_operator
 begin_operator
@@ -30595,8 +30595,8 @@ overcome sciatica lubricity lemon uranus saturn
 1
 16 7
 2
-0 38 7 21
 0 37 1 2
+0 38 7 21
 1
 end_operator
 begin_operator
@@ -30604,8 +30604,8 @@ overcome sciatica lubricity lemon vulcan uranus
 1
 16 7
 2
-0 38 7 21
 0 37 2 3
+0 38 7 21
 1
 end_operator
 begin_operator
@@ -30613,8 +30613,8 @@ overcome sciatica lubricity lobster saturn earth
 1
 16 8
 2
-0 38 8 21
 0 37 0 1
+0 38 8 21
 1
 end_operator
 begin_operator
@@ -30622,8 +30622,8 @@ overcome sciatica lubricity lobster uranus saturn
 1
 16 8
 2
-0 38 8 21
 0 37 1 2
+0 38 8 21
 1
 end_operator
 begin_operator
@@ -30631,8 +30631,8 @@ overcome sciatica lubricity lobster vulcan uranus
 1
 16 8
 2
-0 38 8 21
 0 37 2 3
+0 38 8 21
 1
 end_operator
 begin_operator
@@ -30640,8 +30640,8 @@ overcome sciatica lubricity marzipan saturn earth
 1
 16 9
 2
-0 38 9 21
 0 37 0 1
+0 38 9 21
 1
 end_operator
 begin_operator
@@ -30649,8 +30649,8 @@ overcome sciatica lubricity marzipan uranus saturn
 1
 16 9
 2
-0 38 9 21
 0 37 1 2
+0 38 9 21
 1
 end_operator
 begin_operator
@@ -30658,8 +30658,8 @@ overcome sciatica lubricity marzipan vulcan uranus
 1
 16 9
 2
-0 38 9 21
 0 37 2 3
+0 38 9 21
 1
 end_operator
 begin_operator
@@ -30667,8 +30667,8 @@ overcome sciatica lubricity onion saturn earth
 1
 16 10
 2
-0 38 11 21
 0 37 0 1
+0 38 11 21
 1
 end_operator
 begin_operator
@@ -30676,8 +30676,8 @@ overcome sciatica lubricity onion uranus saturn
 1
 16 10
 2
-0 38 11 21
 0 37 1 2
+0 38 11 21
 1
 end_operator
 begin_operator
@@ -30685,8 +30685,8 @@ overcome sciatica lubricity onion vulcan uranus
 1
 16 10
 2
-0 38 11 21
 0 37 2 3
+0 38 11 21
 1
 end_operator
 begin_operator
@@ -30694,8 +30694,8 @@ overcome sciatica lubricity tofu saturn earth
 1
 16 11
 2
-0 38 13 21
 0 37 0 1
+0 38 13 21
 1
 end_operator
 begin_operator
@@ -30703,8 +30703,8 @@ overcome sciatica lubricity tofu uranus saturn
 1
 16 11
 2
-0 38 13 21
 0 37 1 2
+0 38 13 21
 1
 end_operator
 begin_operator
@@ -30712,8 +30712,8 @@ overcome sciatica lubricity tofu vulcan uranus
 1
 16 11
 2
-0 38 13 21
 0 37 2 3
+0 38 13 21
 1
 end_operator
 begin_operator
@@ -30721,8 +30721,8 @@ overcome sciatica lubricity wonderbread saturn earth
 1
 16 12
 2
-0 38 14 21
 0 37 0 1
+0 38 14 21
 1
 end_operator
 begin_operator
@@ -30730,8 +30730,8 @@ overcome sciatica lubricity wonderbread uranus saturn
 1
 16 12
 2
-0 38 14 21
 0 37 1 2
+0 38 14 21
 1
 end_operator
 begin_operator
@@ -30739,8 +30739,8 @@ overcome sciatica lubricity wonderbread vulcan uranus
 1
 16 12
 2
-0 38 14 21
 0 37 2 3
+0 38 14 21
 1
 end_operator
 begin_operator
@@ -31098,24 +31098,24 @@ begin_operator
 succumb abrasion achievement wonderbread saturn earth
 0
 2
-0 40 15 14
 0 19 1 0
+0 40 15 14
 1
 end_operator
 begin_operator
 succumb abrasion achievement wonderbread uranus saturn
 0
 2
-0 40 15 14
 0 19 2 1
+0 40 15 14
 1
 end_operator
 begin_operator
 succumb abrasion achievement wonderbread vulcan uranus
 0
 2
-0 40 15 14
 0 19 3 2
+0 40 15 14
 1
 end_operator
 begin_operator
@@ -31123,8 +31123,8 @@ succumb abrasion aesthetics bacon saturn earth
 1
 10 0
 2
-0 40 16 0
 0 32 1 0
+0 40 16 0
 1
 end_operator
 begin_operator
@@ -31132,8 +31132,8 @@ succumb abrasion aesthetics bacon uranus saturn
 1
 10 0
 2
-0 40 16 0
 0 32 2 1
+0 40 16 0
 1
 end_operator
 begin_operator
@@ -31141,8 +31141,8 @@ succumb abrasion aesthetics bacon vulcan uranus
 1
 10 0
 2
-0 40 16 0
 0 32 3 2
+0 40 16 0
 1
 end_operator
 begin_operator
@@ -31150,8 +31150,8 @@ succumb abrasion aesthetics beef saturn earth
 1
 10 1
 2
-0 40 16 1
 0 32 1 0
+0 40 16 1
 1
 end_operator
 begin_operator
@@ -31159,8 +31159,8 @@ succumb abrasion aesthetics beef uranus saturn
 1
 10 1
 2
-0 40 16 1
 0 32 2 1
+0 40 16 1
 1
 end_operator
 begin_operator
@@ -31168,8 +31168,8 @@ succumb abrasion aesthetics beef vulcan uranus
 1
 10 1
 2
-0 40 16 1
 0 32 3 2
+0 40 16 1
 1
 end_operator
 begin_operator
@@ -31177,8 +31177,8 @@ succumb abrasion aesthetics cantelope saturn earth
 1
 10 2
 2
-0 40 16 2
 0 32 1 0
+0 40 16 2
 1
 end_operator
 begin_operator
@@ -31186,8 +31186,8 @@ succumb abrasion aesthetics cantelope uranus saturn
 1
 10 2
 2
-0 40 16 2
 0 32 2 1
+0 40 16 2
 1
 end_operator
 begin_operator
@@ -31195,8 +31195,8 @@ succumb abrasion aesthetics cantelope vulcan uranus
 1
 10 2
 2
-0 40 16 2
 0 32 3 2
+0 40 16 2
 1
 end_operator
 begin_operator
@@ -31204,8 +31204,8 @@ succumb abrasion aesthetics flounder saturn earth
 1
 10 3
 2
-0 40 16 3
 0 32 1 0
+0 40 16 3
 1
 end_operator
 begin_operator
@@ -31213,8 +31213,8 @@ succumb abrasion aesthetics flounder uranus saturn
 1
 10 3
 2
-0 40 16 3
 0 32 2 1
+0 40 16 3
 1
 end_operator
 begin_operator
@@ -31222,8 +31222,8 @@ succumb abrasion aesthetics flounder vulcan uranus
 1
 10 3
 2
-0 40 16 3
 0 32 3 2
+0 40 16 3
 1
 end_operator
 begin_operator
@@ -31231,8 +31231,8 @@ succumb abrasion aesthetics ham saturn earth
 1
 10 4
 2
-0 40 16 4
 0 32 1 0
+0 40 16 4
 1
 end_operator
 begin_operator
@@ -31240,8 +31240,8 @@ succumb abrasion aesthetics ham uranus saturn
 1
 10 4
 2
-0 40 16 4
 0 32 2 1
+0 40 16 4
 1
 end_operator
 begin_operator
@@ -31249,8 +31249,8 @@ succumb abrasion aesthetics ham vulcan uranus
 1
 10 4
 2
-0 40 16 4
 0 32 3 2
+0 40 16 4
 1
 end_operator
 begin_operator
@@ -31258,8 +31258,8 @@ succumb abrasion aesthetics haroset saturn earth
 1
 10 5
 2
-0 40 16 5
 0 32 1 0
+0 40 16 5
 1
 end_operator
 begin_operator
@@ -31267,8 +31267,8 @@ succumb abrasion aesthetics haroset uranus saturn
 1
 10 5
 2
-0 40 16 5
 0 32 2 1
+0 40 16 5
 1
 end_operator
 begin_operator
@@ -31276,8 +31276,8 @@ succumb abrasion aesthetics haroset vulcan uranus
 1
 10 5
 2
-0 40 16 5
 0 32 3 2
+0 40 16 5
 1
 end_operator
 begin_operator
@@ -31285,8 +31285,8 @@ succumb abrasion aesthetics lamb saturn earth
 1
 10 6
 2
-0 40 16 6
 0 32 1 0
+0 40 16 6
 1
 end_operator
 begin_operator
@@ -31294,8 +31294,8 @@ succumb abrasion aesthetics lamb uranus saturn
 1
 10 6
 2
-0 40 16 6
 0 32 2 1
+0 40 16 6
 1
 end_operator
 begin_operator
@@ -31303,8 +31303,8 @@ succumb abrasion aesthetics lamb vulcan uranus
 1
 10 6
 2
-0 40 16 6
 0 32 3 2
+0 40 16 6
 1
 end_operator
 begin_operator
@@ -31312,8 +31312,8 @@ succumb abrasion aesthetics lemon saturn earth
 1
 10 7
 2
-0 40 16 7
 0 32 1 0
+0 40 16 7
 1
 end_operator
 begin_operator
@@ -31321,8 +31321,8 @@ succumb abrasion aesthetics lemon uranus saturn
 1
 10 7
 2
-0 40 16 7
 0 32 2 1
+0 40 16 7
 1
 end_operator
 begin_operator
@@ -31330,8 +31330,8 @@ succumb abrasion aesthetics lemon vulcan uranus
 1
 10 7
 2
-0 40 16 7
 0 32 3 2
+0 40 16 7
 1
 end_operator
 begin_operator
@@ -31339,8 +31339,8 @@ succumb abrasion aesthetics lobster saturn earth
 1
 10 8
 2
-0 40 16 8
 0 32 1 0
+0 40 16 8
 1
 end_operator
 begin_operator
@@ -31348,8 +31348,8 @@ succumb abrasion aesthetics lobster uranus saturn
 1
 10 8
 2
-0 40 16 8
 0 32 2 1
+0 40 16 8
 1
 end_operator
 begin_operator
@@ -31357,8 +31357,8 @@ succumb abrasion aesthetics lobster vulcan uranus
 1
 10 8
 2
-0 40 16 8
 0 32 3 2
+0 40 16 8
 1
 end_operator
 begin_operator
@@ -31366,8 +31366,8 @@ succumb abrasion aesthetics marzipan saturn earth
 1
 10 9
 2
-0 40 16 9
 0 32 1 0
+0 40 16 9
 1
 end_operator
 begin_operator
@@ -31375,8 +31375,8 @@ succumb abrasion aesthetics marzipan uranus saturn
 1
 10 9
 2
-0 40 16 9
 0 32 2 1
+0 40 16 9
 1
 end_operator
 begin_operator
@@ -31384,8 +31384,8 @@ succumb abrasion aesthetics marzipan vulcan uranus
 1
 10 9
 2
-0 40 16 9
 0 32 3 2
+0 40 16 9
 1
 end_operator
 begin_operator
@@ -31393,8 +31393,8 @@ succumb abrasion aesthetics onion saturn earth
 1
 10 10
 2
-0 40 16 11
 0 32 1 0
+0 40 16 11
 1
 end_operator
 begin_operator
@@ -31402,8 +31402,8 @@ succumb abrasion aesthetics onion uranus saturn
 1
 10 10
 2
-0 40 16 11
 0 32 2 1
+0 40 16 11
 1
 end_operator
 begin_operator
@@ -31411,8 +31411,8 @@ succumb abrasion aesthetics onion vulcan uranus
 1
 10 10
 2
-0 40 16 11
 0 32 3 2
+0 40 16 11
 1
 end_operator
 begin_operator
@@ -31420,8 +31420,8 @@ succumb abrasion aesthetics tofu saturn earth
 1
 10 11
 2
-0 40 16 13
 0 32 1 0
+0 40 16 13
 1
 end_operator
 begin_operator
@@ -31429,8 +31429,8 @@ succumb abrasion aesthetics tofu uranus saturn
 1
 10 11
 2
-0 40 16 13
 0 32 2 1
+0 40 16 13
 1
 end_operator
 begin_operator
@@ -31438,8 +31438,8 @@ succumb abrasion aesthetics tofu vulcan uranus
 1
 10 11
 2
-0 40 16 13
 0 32 3 2
+0 40 16 13
 1
 end_operator
 begin_operator
@@ -31447,8 +31447,8 @@ succumb abrasion aesthetics wonderbread saturn earth
 1
 10 12
 2
-0 40 16 14
 0 32 1 0
+0 40 16 14
 1
 end_operator
 begin_operator
@@ -31456,8 +31456,8 @@ succumb abrasion aesthetics wonderbread uranus saturn
 1
 10 12
 2
-0 40 16 14
 0 32 2 1
+0 40 16 14
 1
 end_operator
 begin_operator
@@ -31465,8 +31465,8 @@ succumb abrasion aesthetics wonderbread vulcan uranus
 1
 10 12
 2
-0 40 16 14
 0 32 3 2
+0 40 16 14
 1
 end_operator
 begin_operator
@@ -31474,8 +31474,8 @@ succumb abrasion entertainment bacon saturn earth
 1
 12 0
 2
-0 40 17 0
 0 33 1 0
+0 40 17 0
 1
 end_operator
 begin_operator
@@ -31483,8 +31483,8 @@ succumb abrasion entertainment bacon uranus saturn
 1
 12 0
 2
-0 40 17 0
 0 33 2 1
+0 40 17 0
 1
 end_operator
 begin_operator
@@ -31492,8 +31492,8 @@ succumb abrasion entertainment bacon vulcan uranus
 1
 12 0
 2
-0 40 17 0
 0 33 3 2
+0 40 17 0
 1
 end_operator
 begin_operator
@@ -31501,8 +31501,8 @@ succumb abrasion entertainment beef saturn earth
 1
 12 1
 2
-0 40 17 1
 0 33 1 0
+0 40 17 1
 1
 end_operator
 begin_operator
@@ -31510,8 +31510,8 @@ succumb abrasion entertainment beef uranus saturn
 1
 12 1
 2
-0 40 17 1
 0 33 2 1
+0 40 17 1
 1
 end_operator
 begin_operator
@@ -31519,8 +31519,8 @@ succumb abrasion entertainment beef vulcan uranus
 1
 12 1
 2
-0 40 17 1
 0 33 3 2
+0 40 17 1
 1
 end_operator
 begin_operator
@@ -31528,8 +31528,8 @@ succumb abrasion entertainment cantelope saturn earth
 1
 12 2
 2
-0 40 17 2
 0 33 1 0
+0 40 17 2
 1
 end_operator
 begin_operator
@@ -31537,8 +31537,8 @@ succumb abrasion entertainment cantelope uranus saturn
 1
 12 2
 2
-0 40 17 2
 0 33 2 1
+0 40 17 2
 1
 end_operator
 begin_operator
@@ -31546,8 +31546,8 @@ succumb abrasion entertainment cantelope vulcan uranus
 1
 12 2
 2
-0 40 17 2
 0 33 3 2
+0 40 17 2
 1
 end_operator
 begin_operator
@@ -31555,8 +31555,8 @@ succumb abrasion entertainment flounder saturn earth
 1
 12 3
 2
-0 40 17 3
 0 33 1 0
+0 40 17 3
 1
 end_operator
 begin_operator
@@ -31564,8 +31564,8 @@ succumb abrasion entertainment flounder uranus saturn
 1
 12 3
 2
-0 40 17 3
 0 33 2 1
+0 40 17 3
 1
 end_operator
 begin_operator
@@ -31573,8 +31573,8 @@ succumb abrasion entertainment flounder vulcan uranus
 1
 12 3
 2
-0 40 17 3
 0 33 3 2
+0 40 17 3
 1
 end_operator
 begin_operator
@@ -31582,8 +31582,8 @@ succumb abrasion entertainment ham saturn earth
 1
 12 4
 2
-0 40 17 4
 0 33 1 0
+0 40 17 4
 1
 end_operator
 begin_operator
@@ -31591,8 +31591,8 @@ succumb abrasion entertainment ham uranus saturn
 1
 12 4
 2
-0 40 17 4
 0 33 2 1
+0 40 17 4
 1
 end_operator
 begin_operator
@@ -31600,8 +31600,8 @@ succumb abrasion entertainment ham vulcan uranus
 1
 12 4
 2
-0 40 17 4
 0 33 3 2
+0 40 17 4
 1
 end_operator
 begin_operator
@@ -31609,8 +31609,8 @@ succumb abrasion entertainment haroset saturn earth
 1
 12 5
 2
-0 40 17 5
 0 33 1 0
+0 40 17 5
 1
 end_operator
 begin_operator
@@ -31618,8 +31618,8 @@ succumb abrasion entertainment haroset uranus saturn
 1
 12 5
 2
-0 40 17 5
 0 33 2 1
+0 40 17 5
 1
 end_operator
 begin_operator
@@ -31627,8 +31627,8 @@ succumb abrasion entertainment haroset vulcan uranus
 1
 12 5
 2
-0 40 17 5
 0 33 3 2
+0 40 17 5
 1
 end_operator
 begin_operator
@@ -31636,8 +31636,8 @@ succumb abrasion entertainment lamb saturn earth
 1
 12 6
 2
-0 40 17 6
 0 33 1 0
+0 40 17 6
 1
 end_operator
 begin_operator
@@ -31645,8 +31645,8 @@ succumb abrasion entertainment lamb uranus saturn
 1
 12 6
 2
-0 40 17 6
 0 33 2 1
+0 40 17 6
 1
 end_operator
 begin_operator
@@ -31654,8 +31654,8 @@ succumb abrasion entertainment lamb vulcan uranus
 1
 12 6
 2
-0 40 17 6
 0 33 3 2
+0 40 17 6
 1
 end_operator
 begin_operator
@@ -31663,8 +31663,8 @@ succumb abrasion entertainment lemon saturn earth
 1
 12 7
 2
-0 40 17 7
 0 33 1 0
+0 40 17 7
 1
 end_operator
 begin_operator
@@ -31672,8 +31672,8 @@ succumb abrasion entertainment lemon uranus saturn
 1
 12 7
 2
-0 40 17 7
 0 33 2 1
+0 40 17 7
 1
 end_operator
 begin_operator
@@ -31681,8 +31681,8 @@ succumb abrasion entertainment lemon vulcan uranus
 1
 12 7
 2
-0 40 17 7
 0 33 3 2
+0 40 17 7
 1
 end_operator
 begin_operator
@@ -31690,8 +31690,8 @@ succumb abrasion entertainment lobster saturn earth
 1
 12 8
 2
-0 40 17 8
 0 33 1 0
+0 40 17 8
 1
 end_operator
 begin_operator
@@ -31699,8 +31699,8 @@ succumb abrasion entertainment lobster uranus saturn
 1
 12 8
 2
-0 40 17 8
 0 33 2 1
+0 40 17 8
 1
 end_operator
 begin_operator
@@ -31708,8 +31708,8 @@ succumb abrasion entertainment lobster vulcan uranus
 1
 12 8
 2
-0 40 17 8
 0 33 3 2
+0 40 17 8
 1
 end_operator
 begin_operator
@@ -31717,8 +31717,8 @@ succumb abrasion entertainment marzipan saturn earth
 1
 12 9
 2
-0 40 17 9
 0 33 1 0
+0 40 17 9
 1
 end_operator
 begin_operator
@@ -31726,8 +31726,8 @@ succumb abrasion entertainment marzipan uranus saturn
 1
 12 9
 2
-0 40 17 9
 0 33 2 1
+0 40 17 9
 1
 end_operator
 begin_operator
@@ -31735,8 +31735,8 @@ succumb abrasion entertainment marzipan vulcan uranus
 1
 12 9
 2
-0 40 17 9
 0 33 3 2
+0 40 17 9
 1
 end_operator
 begin_operator
@@ -31744,8 +31744,8 @@ succumb abrasion entertainment onion saturn earth
 1
 12 10
 2
-0 40 17 11
 0 33 1 0
+0 40 17 11
 1
 end_operator
 begin_operator
@@ -31753,8 +31753,8 @@ succumb abrasion entertainment onion uranus saturn
 1
 12 10
 2
-0 40 17 11
 0 33 2 1
+0 40 17 11
 1
 end_operator
 begin_operator
@@ -31762,8 +31762,8 @@ succumb abrasion entertainment onion vulcan uranus
 1
 12 10
 2
-0 40 17 11
 0 33 3 2
+0 40 17 11
 1
 end_operator
 begin_operator
@@ -31771,8 +31771,8 @@ succumb abrasion entertainment tofu saturn earth
 1
 12 11
 2
-0 40 17 13
 0 33 1 0
+0 40 17 13
 1
 end_operator
 begin_operator
@@ -31780,8 +31780,8 @@ succumb abrasion entertainment tofu uranus saturn
 1
 12 11
 2
-0 40 17 13
 0 33 2 1
+0 40 17 13
 1
 end_operator
 begin_operator
@@ -31789,8 +31789,8 @@ succumb abrasion entertainment tofu vulcan uranus
 1
 12 11
 2
-0 40 17 13
 0 33 3 2
+0 40 17 13
 1
 end_operator
 begin_operator
@@ -31798,8 +31798,8 @@ succumb abrasion entertainment wonderbread saturn earth
 1
 12 12
 2
-0 40 17 14
 0 33 1 0
+0 40 17 14
 1
 end_operator
 begin_operator
@@ -31807,8 +31807,8 @@ succumb abrasion entertainment wonderbread uranus saturn
 1
 12 12
 2
-0 40 17 14
 0 33 2 1
+0 40 17 14
 1
 end_operator
 begin_operator
@@ -31816,8 +31816,8 @@ succumb abrasion entertainment wonderbread vulcan uranus
 1
 12 12
 2
-0 40 17 14
 0 33 3 2
+0 40 17 14
 1
 end_operator
 begin_operator
@@ -31825,8 +31825,8 @@ succumb abrasion expectation okra saturn earth
 1
 1 0
 2
-0 40 18 10
 0 20 1 0
+0 40 18 10
 1
 end_operator
 begin_operator
@@ -31834,8 +31834,8 @@ succumb abrasion expectation okra uranus saturn
 1
 1 0
 2
-0 40 18 10
 0 20 2 1
+0 40 18 10
 1
 end_operator
 begin_operator
@@ -31843,8 +31843,8 @@ succumb abrasion expectation okra vulcan uranus
 1
 1 0
 2
-0 40 18 10
 0 20 3 2
+0 40 18 10
 1
 end_operator
 begin_operator
@@ -31852,8 +31852,8 @@ succumb abrasion expectation onion saturn earth
 1
 1 1
 2
-0 40 18 11
 0 20 1 0
+0 40 18 11
 1
 end_operator
 begin_operator
@@ -31861,8 +31861,8 @@ succumb abrasion expectation onion uranus saturn
 1
 1 1
 2
-0 40 18 11
 0 20 2 1
+0 40 18 11
 1
 end_operator
 begin_operator
@@ -31870,8 +31870,8 @@ succumb abrasion expectation onion vulcan uranus
 1
 1 1
 2
-0 40 18 11
 0 20 3 2
+0 40 18 11
 1
 end_operator
 begin_operator
@@ -31879,8 +31879,8 @@ succumb abrasion expectation snickers saturn earth
 1
 1 2
 2
-0 40 18 12
 0 20 1 0
+0 40 18 12
 1
 end_operator
 begin_operator
@@ -31888,8 +31888,8 @@ succumb abrasion expectation snickers uranus saturn
 1
 1 2
 2
-0 40 18 12
 0 20 2 1
+0 40 18 12
 1
 end_operator
 begin_operator
@@ -31897,8 +31897,8 @@ succumb abrasion expectation snickers vulcan uranus
 1
 1 2
 2
-0 40 18 12
 0 20 3 2
+0 40 18 12
 1
 end_operator
 begin_operator
@@ -31906,8 +31906,8 @@ succumb abrasion expectation wonderbread saturn earth
 1
 1 3
 2
-0 40 18 14
 0 20 1 0
+0 40 18 14
 1
 end_operator
 begin_operator
@@ -31915,8 +31915,8 @@ succumb abrasion expectation wonderbread uranus saturn
 1
 1 3
 2
-0 40 18 14
 0 20 2 1
+0 40 18 14
 1
 end_operator
 begin_operator
@@ -31924,8 +31924,8 @@ succumb abrasion expectation wonderbread vulcan uranus
 1
 1 3
 2
-0 40 18 14
 0 20 3 2
+0 40 18 14
 1
 end_operator
 begin_operator
@@ -31933,8 +31933,8 @@ succumb abrasion learning okra saturn earth
 1
 2 0
 2
-0 40 19 10
 0 21 1 0
+0 40 19 10
 1
 end_operator
 begin_operator
@@ -31942,8 +31942,8 @@ succumb abrasion learning okra uranus saturn
 1
 2 0
 2
-0 40 19 10
 0 21 2 1
+0 40 19 10
 1
 end_operator
 begin_operator
@@ -31951,8 +31951,8 @@ succumb abrasion learning okra vulcan uranus
 1
 2 0
 2
-0 40 19 10
 0 21 3 2
+0 40 19 10
 1
 end_operator
 begin_operator
@@ -31960,8 +31960,8 @@ succumb abrasion learning onion saturn earth
 1
 2 1
 2
-0 40 19 11
 0 21 1 0
+0 40 19 11
 1
 end_operator
 begin_operator
@@ -31969,8 +31969,8 @@ succumb abrasion learning onion uranus saturn
 1
 2 1
 2
-0 40 19 11
 0 21 2 1
+0 40 19 11
 1
 end_operator
 begin_operator
@@ -31978,8 +31978,8 @@ succumb abrasion learning onion vulcan uranus
 1
 2 1
 2
-0 40 19 11
 0 21 3 2
+0 40 19 11
 1
 end_operator
 begin_operator
@@ -31987,8 +31987,8 @@ succumb abrasion learning snickers saturn earth
 1
 2 2
 2
-0 40 19 12
 0 21 1 0
+0 40 19 12
 1
 end_operator
 begin_operator
@@ -31996,8 +31996,8 @@ succumb abrasion learning snickers uranus saturn
 1
 2 2
 2
-0 40 19 12
 0 21 2 1
+0 40 19 12
 1
 end_operator
 begin_operator
@@ -32005,8 +32005,8 @@ succumb abrasion learning snickers vulcan uranus
 1
 2 2
 2
-0 40 19 12
 0 21 3 2
+0 40 19 12
 1
 end_operator
 begin_operator
@@ -32014,8 +32014,8 @@ succumb abrasion learning wonderbread saturn earth
 1
 2 3
 2
-0 40 19 14
 0 21 1 0
+0 40 19 14
 1
 end_operator
 begin_operator
@@ -32023,8 +32023,8 @@ succumb abrasion learning wonderbread uranus saturn
 1
 2 3
 2
-0 40 19 14
 0 21 2 1
+0 40 19 14
 1
 end_operator
 begin_operator
@@ -32032,8 +32032,8 @@ succumb abrasion learning wonderbread vulcan uranus
 1
 2 3
 2
-0 40 19 14
 0 21 3 2
+0 40 19 14
 1
 end_operator
 begin_operator
@@ -32041,8 +32041,8 @@ succumb abrasion love bacon saturn earth
 1
 14 0
 2
-0 40 20 0
 0 36 1 0
+0 40 20 0
 1
 end_operator
 begin_operator
@@ -32050,8 +32050,8 @@ succumb abrasion love bacon uranus saturn
 1
 14 0
 2
-0 40 20 0
 0 36 2 1
+0 40 20 0
 1
 end_operator
 begin_operator
@@ -32059,8 +32059,8 @@ succumb abrasion love bacon vulcan uranus
 1
 14 0
 2
-0 40 20 0
 0 36 3 2
+0 40 20 0
 1
 end_operator
 begin_operator
@@ -32068,8 +32068,8 @@ succumb abrasion love beef saturn earth
 1
 14 1
 2
-0 40 20 1
 0 36 1 0
+0 40 20 1
 1
 end_operator
 begin_operator
@@ -32077,8 +32077,8 @@ succumb abrasion love beef uranus saturn
 1
 14 1
 2
-0 40 20 1
 0 36 2 1
+0 40 20 1
 1
 end_operator
 begin_operator
@@ -32086,8 +32086,8 @@ succumb abrasion love beef vulcan uranus
 1
 14 1
 2
-0 40 20 1
 0 36 3 2
+0 40 20 1
 1
 end_operator
 begin_operator
@@ -32095,8 +32095,8 @@ succumb abrasion love cantelope saturn earth
 1
 14 2
 2
-0 40 20 2
 0 36 1 0
+0 40 20 2
 1
 end_operator
 begin_operator
@@ -32104,8 +32104,8 @@ succumb abrasion love cantelope uranus saturn
 1
 14 2
 2
-0 40 20 2
 0 36 2 1
+0 40 20 2
 1
 end_operator
 begin_operator
@@ -32113,8 +32113,8 @@ succumb abrasion love cantelope vulcan uranus
 1
 14 2
 2
-0 40 20 2
 0 36 3 2
+0 40 20 2
 1
 end_operator
 begin_operator
@@ -32122,8 +32122,8 @@ succumb abrasion love flounder saturn earth
 1
 14 3
 2
-0 40 20 3
 0 36 1 0
+0 40 20 3
 1
 end_operator
 begin_operator
@@ -32131,8 +32131,8 @@ succumb abrasion love flounder uranus saturn
 1
 14 3
 2
-0 40 20 3
 0 36 2 1
+0 40 20 3
 1
 end_operator
 begin_operator
@@ -32140,8 +32140,8 @@ succumb abrasion love flounder vulcan uranus
 1
 14 3
 2
-0 40 20 3
 0 36 3 2
+0 40 20 3
 1
 end_operator
 begin_operator
@@ -32149,8 +32149,8 @@ succumb abrasion love ham saturn earth
 1
 14 4
 2
-0 40 20 4
 0 36 1 0
+0 40 20 4
 1
 end_operator
 begin_operator
@@ -32158,8 +32158,8 @@ succumb abrasion love ham uranus saturn
 1
 14 4
 2
-0 40 20 4
 0 36 2 1
+0 40 20 4
 1
 end_operator
 begin_operator
@@ -32167,8 +32167,8 @@ succumb abrasion love ham vulcan uranus
 1
 14 4
 2
-0 40 20 4
 0 36 3 2
+0 40 20 4
 1
 end_operator
 begin_operator
@@ -32176,8 +32176,8 @@ succumb abrasion love haroset saturn earth
 1
 14 5
 2
-0 40 20 5
 0 36 1 0
+0 40 20 5
 1
 end_operator
 begin_operator
@@ -32185,8 +32185,8 @@ succumb abrasion love haroset uranus saturn
 1
 14 5
 2
-0 40 20 5
 0 36 2 1
+0 40 20 5
 1
 end_operator
 begin_operator
@@ -32194,8 +32194,8 @@ succumb abrasion love haroset vulcan uranus
 1
 14 5
 2
-0 40 20 5
 0 36 3 2
+0 40 20 5
 1
 end_operator
 begin_operator
@@ -32203,8 +32203,8 @@ succumb abrasion love lamb saturn earth
 1
 14 6
 2
-0 40 20 6
 0 36 1 0
+0 40 20 6
 1
 end_operator
 begin_operator
@@ -32212,8 +32212,8 @@ succumb abrasion love lamb uranus saturn
 1
 14 6
 2
-0 40 20 6
 0 36 2 1
+0 40 20 6
 1
 end_operator
 begin_operator
@@ -32221,8 +32221,8 @@ succumb abrasion love lamb vulcan uranus
 1
 14 6
 2
-0 40 20 6
 0 36 3 2
+0 40 20 6
 1
 end_operator
 begin_operator
@@ -32230,8 +32230,8 @@ succumb abrasion love lemon saturn earth
 1
 14 7
 2
-0 40 20 7
 0 36 1 0
+0 40 20 7
 1
 end_operator
 begin_operator
@@ -32239,8 +32239,8 @@ succumb abrasion love lemon uranus saturn
 1
 14 7
 2
-0 40 20 7
 0 36 2 1
+0 40 20 7
 1
 end_operator
 begin_operator
@@ -32248,8 +32248,8 @@ succumb abrasion love lemon vulcan uranus
 1
 14 7
 2
-0 40 20 7
 0 36 3 2
+0 40 20 7
 1
 end_operator
 begin_operator
@@ -32257,8 +32257,8 @@ succumb abrasion love lobster saturn earth
 1
 14 8
 2
-0 40 20 8
 0 36 1 0
+0 40 20 8
 1
 end_operator
 begin_operator
@@ -32266,8 +32266,8 @@ succumb abrasion love lobster uranus saturn
 1
 14 8
 2
-0 40 20 8
 0 36 2 1
+0 40 20 8
 1
 end_operator
 begin_operator
@@ -32275,8 +32275,8 @@ succumb abrasion love lobster vulcan uranus
 1
 14 8
 2
-0 40 20 8
 0 36 3 2
+0 40 20 8
 1
 end_operator
 begin_operator
@@ -32284,8 +32284,8 @@ succumb abrasion love marzipan saturn earth
 1
 14 9
 2
-0 40 20 9
 0 36 1 0
+0 40 20 9
 1
 end_operator
 begin_operator
@@ -32293,8 +32293,8 @@ succumb abrasion love marzipan uranus saturn
 1
 14 9
 2
-0 40 20 9
 0 36 2 1
+0 40 20 9
 1
 end_operator
 begin_operator
@@ -32302,8 +32302,8 @@ succumb abrasion love marzipan vulcan uranus
 1
 14 9
 2
-0 40 20 9
 0 36 3 2
+0 40 20 9
 1
 end_operator
 begin_operator
@@ -32311,8 +32311,8 @@ succumb abrasion love onion saturn earth
 1
 14 10
 2
-0 40 20 11
 0 36 1 0
+0 40 20 11
 1
 end_operator
 begin_operator
@@ -32320,8 +32320,8 @@ succumb abrasion love onion uranus saturn
 1
 14 10
 2
-0 40 20 11
 0 36 2 1
+0 40 20 11
 1
 end_operator
 begin_operator
@@ -32329,8 +32329,8 @@ succumb abrasion love onion vulcan uranus
 1
 14 10
 2
-0 40 20 11
 0 36 3 2
+0 40 20 11
 1
 end_operator
 begin_operator
@@ -32338,8 +32338,8 @@ succumb abrasion love tofu saturn earth
 1
 14 11
 2
-0 40 20 13
 0 36 1 0
+0 40 20 13
 1
 end_operator
 begin_operator
@@ -32347,8 +32347,8 @@ succumb abrasion love tofu uranus saturn
 1
 14 11
 2
-0 40 20 13
 0 36 2 1
+0 40 20 13
 1
 end_operator
 begin_operator
@@ -32356,8 +32356,8 @@ succumb abrasion love tofu vulcan uranus
 1
 14 11
 2
-0 40 20 13
 0 36 3 2
+0 40 20 13
 1
 end_operator
 begin_operator
@@ -32365,8 +32365,8 @@ succumb abrasion love wonderbread saturn earth
 1
 14 12
 2
-0 40 20 14
 0 36 1 0
+0 40 20 14
 1
 end_operator
 begin_operator
@@ -32374,8 +32374,8 @@ succumb abrasion love wonderbread uranus saturn
 1
 14 12
 2
-0 40 20 14
 0 36 2 1
+0 40 20 14
 1
 end_operator
 begin_operator
@@ -32383,8 +32383,8 @@ succumb abrasion love wonderbread vulcan uranus
 1
 14 12
 2
-0 40 20 14
 0 36 3 2
+0 40 20 14
 1
 end_operator
 begin_operator
@@ -32392,8 +32392,8 @@ succumb abrasion lubricity bacon saturn earth
 1
 16 0
 2
-0 40 21 0
 0 37 1 0
+0 40 21 0
 1
 end_operator
 begin_operator
@@ -32401,8 +32401,8 @@ succumb abrasion lubricity bacon uranus saturn
 1
 16 0
 2
-0 40 21 0
 0 37 2 1
+0 40 21 0
 1
 end_operator
 begin_operator
@@ -32410,8 +32410,8 @@ succumb abrasion lubricity bacon vulcan uranus
 1
 16 0
 2
-0 40 21 0
 0 37 3 2
+0 40 21 0
 1
 end_operator
 begin_operator
@@ -32419,8 +32419,8 @@ succumb abrasion lubricity beef saturn earth
 1
 16 1
 2
-0 40 21 1
 0 37 1 0
+0 40 21 1
 1
 end_operator
 begin_operator
@@ -32428,8 +32428,8 @@ succumb abrasion lubricity beef uranus saturn
 1
 16 1
 2
-0 40 21 1
 0 37 2 1
+0 40 21 1
 1
 end_operator
 begin_operator
@@ -32437,8 +32437,8 @@ succumb abrasion lubricity beef vulcan uranus
 1
 16 1
 2
-0 40 21 1
 0 37 3 2
+0 40 21 1
 1
 end_operator
 begin_operator
@@ -32446,8 +32446,8 @@ succumb abrasion lubricity cantelope saturn earth
 1
 16 2
 2
-0 40 21 2
 0 37 1 0
+0 40 21 2
 1
 end_operator
 begin_operator
@@ -32455,8 +32455,8 @@ succumb abrasion lubricity cantelope uranus saturn
 1
 16 2
 2
-0 40 21 2
 0 37 2 1
+0 40 21 2
 1
 end_operator
 begin_operator
@@ -32464,8 +32464,8 @@ succumb abrasion lubricity cantelope vulcan uranus
 1
 16 2
 2
-0 40 21 2
 0 37 3 2
+0 40 21 2
 1
 end_operator
 begin_operator
@@ -32473,8 +32473,8 @@ succumb abrasion lubricity flounder saturn earth
 1
 16 3
 2
-0 40 21 3
 0 37 1 0
+0 40 21 3
 1
 end_operator
 begin_operator
@@ -32482,8 +32482,8 @@ succumb abrasion lubricity flounder uranus saturn
 1
 16 3
 2
-0 40 21 3
 0 37 2 1
+0 40 21 3
 1
 end_operator
 begin_operator
@@ -32491,8 +32491,8 @@ succumb abrasion lubricity flounder vulcan uranus
 1
 16 3
 2
-0 40 21 3
 0 37 3 2
+0 40 21 3
 1
 end_operator
 begin_operator
@@ -32500,8 +32500,8 @@ succumb abrasion lubricity ham saturn earth
 1
 16 4
 2
-0 40 21 4
 0 37 1 0
+0 40 21 4
 1
 end_operator
 begin_operator
@@ -32509,8 +32509,8 @@ succumb abrasion lubricity ham uranus saturn
 1
 16 4
 2
-0 40 21 4
 0 37 2 1
+0 40 21 4
 1
 end_operator
 begin_operator
@@ -32518,8 +32518,8 @@ succumb abrasion lubricity ham vulcan uranus
 1
 16 4
 2
-0 40 21 4
 0 37 3 2
+0 40 21 4
 1
 end_operator
 begin_operator
@@ -32527,8 +32527,8 @@ succumb abrasion lubricity haroset saturn earth
 1
 16 5
 2
-0 40 21 5
 0 37 1 0
+0 40 21 5
 1
 end_operator
 begin_operator
@@ -32536,8 +32536,8 @@ succumb abrasion lubricity haroset uranus saturn
 1
 16 5
 2
-0 40 21 5
 0 37 2 1
+0 40 21 5
 1
 end_operator
 begin_operator
@@ -32545,8 +32545,8 @@ succumb abrasion lubricity haroset vulcan uranus
 1
 16 5
 2
-0 40 21 5
 0 37 3 2
+0 40 21 5
 1
 end_operator
 begin_operator
@@ -32554,8 +32554,8 @@ succumb abrasion lubricity lamb saturn earth
 1
 16 6
 2
-0 40 21 6
 0 37 1 0
+0 40 21 6
 1
 end_operator
 begin_operator
@@ -32563,8 +32563,8 @@ succumb abrasion lubricity lamb uranus saturn
 1
 16 6
 2
-0 40 21 6
 0 37 2 1
+0 40 21 6
 1
 end_operator
 begin_operator
@@ -32572,8 +32572,8 @@ succumb abrasion lubricity lamb vulcan uranus
 1
 16 6
 2
-0 40 21 6
 0 37 3 2
+0 40 21 6
 1
 end_operator
 begin_operator
@@ -32581,8 +32581,8 @@ succumb abrasion lubricity lemon saturn earth
 1
 16 7
 2
-0 40 21 7
 0 37 1 0
+0 40 21 7
 1
 end_operator
 begin_operator
@@ -32590,8 +32590,8 @@ succumb abrasion lubricity lemon uranus saturn
 1
 16 7
 2
-0 40 21 7
 0 37 2 1
+0 40 21 7
 1
 end_operator
 begin_operator
@@ -32599,8 +32599,8 @@ succumb abrasion lubricity lemon vulcan uranus
 1
 16 7
 2
-0 40 21 7
 0 37 3 2
+0 40 21 7
 1
 end_operator
 begin_operator
@@ -32608,8 +32608,8 @@ succumb abrasion lubricity lobster saturn earth
 1
 16 8
 2
-0 40 21 8
 0 37 1 0
+0 40 21 8
 1
 end_operator
 begin_operator
@@ -32617,8 +32617,8 @@ succumb abrasion lubricity lobster uranus saturn
 1
 16 8
 2
-0 40 21 8
 0 37 2 1
+0 40 21 8
 1
 end_operator
 begin_operator
@@ -32626,8 +32626,8 @@ succumb abrasion lubricity lobster vulcan uranus
 1
 16 8
 2
-0 40 21 8
 0 37 3 2
+0 40 21 8
 1
 end_operator
 begin_operator
@@ -32635,8 +32635,8 @@ succumb abrasion lubricity marzipan saturn earth
 1
 16 9
 2
-0 40 21 9
 0 37 1 0
+0 40 21 9
 1
 end_operator
 begin_operator
@@ -32644,8 +32644,8 @@ succumb abrasion lubricity marzipan uranus saturn
 1
 16 9
 2
-0 40 21 9
 0 37 2 1
+0 40 21 9
 1
 end_operator
 begin_operator
@@ -32653,8 +32653,8 @@ succumb abrasion lubricity marzipan vulcan uranus
 1
 16 9
 2
-0 40 21 9
 0 37 3 2
+0 40 21 9
 1
 end_operator
 begin_operator
@@ -32662,8 +32662,8 @@ succumb abrasion lubricity onion saturn earth
 1
 16 10
 2
-0 40 21 11
 0 37 1 0
+0 40 21 11
 1
 end_operator
 begin_operator
@@ -32671,8 +32671,8 @@ succumb abrasion lubricity onion uranus saturn
 1
 16 10
 2
-0 40 21 11
 0 37 2 1
+0 40 21 11
 1
 end_operator
 begin_operator
@@ -32680,8 +32680,8 @@ succumb abrasion lubricity onion vulcan uranus
 1
 16 10
 2
-0 40 21 11
 0 37 3 2
+0 40 21 11
 1
 end_operator
 begin_operator
@@ -32689,8 +32689,8 @@ succumb abrasion lubricity tofu saturn earth
 1
 16 11
 2
-0 40 21 13
 0 37 1 0
+0 40 21 13
 1
 end_operator
 begin_operator
@@ -32698,8 +32698,8 @@ succumb abrasion lubricity tofu uranus saturn
 1
 16 11
 2
-0 40 21 13
 0 37 2 1
+0 40 21 13
 1
 end_operator
 begin_operator
@@ -32707,8 +32707,8 @@ succumb abrasion lubricity tofu vulcan uranus
 1
 16 11
 2
-0 40 21 13
 0 37 3 2
+0 40 21 13
 1
 end_operator
 begin_operator
@@ -32716,8 +32716,8 @@ succumb abrasion lubricity wonderbread saturn earth
 1
 16 12
 2
-0 40 21 14
 0 37 1 0
+0 40 21 14
 1
 end_operator
 begin_operator
@@ -32725,8 +32725,8 @@ succumb abrasion lubricity wonderbread uranus saturn
 1
 16 12
 2
-0 40 21 14
 0 37 2 1
+0 40 21 14
 1
 end_operator
 begin_operator
@@ -32734,8 +32734,8 @@ succumb abrasion lubricity wonderbread vulcan uranus
 1
 16 12
 2
-0 40 21 14
 0 37 3 2
+0 40 21 14
 1
 end_operator
 begin_operator
@@ -32743,8 +32743,8 @@ succumb abrasion stimulation bacon saturn earth
 1
 17 0
 2
-0 40 22 0
 0 39 1 0
+0 40 22 0
 1
 end_operator
 begin_operator
@@ -32752,8 +32752,8 @@ succumb abrasion stimulation bacon uranus saturn
 1
 17 0
 2
-0 40 22 0
 0 39 2 1
+0 40 22 0
 1
 end_operator
 begin_operator
@@ -32761,8 +32761,8 @@ succumb abrasion stimulation bacon vulcan uranus
 1
 17 0
 2
-0 40 22 0
 0 39 3 2
+0 40 22 0
 1
 end_operator
 begin_operator
@@ -32770,8 +32770,8 @@ succumb abrasion stimulation beef saturn earth
 1
 17 1
 2
-0 40 22 1
 0 39 1 0
+0 40 22 1
 1
 end_operator
 begin_operator
@@ -32779,8 +32779,8 @@ succumb abrasion stimulation beef uranus saturn
 1
 17 1
 2
-0 40 22 1
 0 39 2 1
+0 40 22 1
 1
 end_operator
 begin_operator
@@ -32788,8 +32788,8 @@ succumb abrasion stimulation beef vulcan uranus
 1
 17 1
 2
-0 40 22 1
 0 39 3 2
+0 40 22 1
 1
 end_operator
 begin_operator
@@ -32797,8 +32797,8 @@ succumb abrasion stimulation cantelope saturn earth
 1
 17 2
 2
-0 40 22 2
 0 39 1 0
+0 40 22 2
 1
 end_operator
 begin_operator
@@ -32806,8 +32806,8 @@ succumb abrasion stimulation cantelope uranus saturn
 1
 17 2
 2
-0 40 22 2
 0 39 2 1
+0 40 22 2
 1
 end_operator
 begin_operator
@@ -32815,8 +32815,8 @@ succumb abrasion stimulation cantelope vulcan uranus
 1
 17 2
 2
-0 40 22 2
 0 39 3 2
+0 40 22 2
 1
 end_operator
 begin_operator
@@ -32824,8 +32824,8 @@ succumb abrasion stimulation flounder saturn earth
 1
 17 3
 2
-0 40 22 3
 0 39 1 0
+0 40 22 3
 1
 end_operator
 begin_operator
@@ -32833,8 +32833,8 @@ succumb abrasion stimulation flounder uranus saturn
 1
 17 3
 2
-0 40 22 3
 0 39 2 1
+0 40 22 3
 1
 end_operator
 begin_operator
@@ -32842,8 +32842,8 @@ succumb abrasion stimulation flounder vulcan uranus
 1
 17 3
 2
-0 40 22 3
 0 39 3 2
+0 40 22 3
 1
 end_operator
 begin_operator
@@ -32851,8 +32851,8 @@ succumb abrasion stimulation ham saturn earth
 1
 17 4
 2
-0 40 22 4
 0 39 1 0
+0 40 22 4
 1
 end_operator
 begin_operator
@@ -32860,8 +32860,8 @@ succumb abrasion stimulation ham uranus saturn
 1
 17 4
 2
-0 40 22 4
 0 39 2 1
+0 40 22 4
 1
 end_operator
 begin_operator
@@ -32869,8 +32869,8 @@ succumb abrasion stimulation ham vulcan uranus
 1
 17 4
 2
-0 40 22 4
 0 39 3 2
+0 40 22 4
 1
 end_operator
 begin_operator
@@ -32878,8 +32878,8 @@ succumb abrasion stimulation haroset saturn earth
 1
 17 5
 2
-0 40 22 5
 0 39 1 0
+0 40 22 5
 1
 end_operator
 begin_operator
@@ -32887,8 +32887,8 @@ succumb abrasion stimulation haroset uranus saturn
 1
 17 5
 2
-0 40 22 5
 0 39 2 1
+0 40 22 5
 1
 end_operator
 begin_operator
@@ -32896,8 +32896,8 @@ succumb abrasion stimulation haroset vulcan uranus
 1
 17 5
 2
-0 40 22 5
 0 39 3 2
+0 40 22 5
 1
 end_operator
 begin_operator
@@ -32905,8 +32905,8 @@ succumb abrasion stimulation lamb saturn earth
 1
 17 6
 2
-0 40 22 6
 0 39 1 0
+0 40 22 6
 1
 end_operator
 begin_operator
@@ -32914,8 +32914,8 @@ succumb abrasion stimulation lamb uranus saturn
 1
 17 6
 2
-0 40 22 6
 0 39 2 1
+0 40 22 6
 1
 end_operator
 begin_operator
@@ -32923,8 +32923,8 @@ succumb abrasion stimulation lamb vulcan uranus
 1
 17 6
 2
-0 40 22 6
 0 39 3 2
+0 40 22 6
 1
 end_operator
 begin_operator
@@ -32932,8 +32932,8 @@ succumb abrasion stimulation lemon saturn earth
 1
 17 7
 2
-0 40 22 7
 0 39 1 0
+0 40 22 7
 1
 end_operator
 begin_operator
@@ -32941,8 +32941,8 @@ succumb abrasion stimulation lemon uranus saturn
 1
 17 7
 2
-0 40 22 7
 0 39 2 1
+0 40 22 7
 1
 end_operator
 begin_operator
@@ -32950,8 +32950,8 @@ succumb abrasion stimulation lemon vulcan uranus
 1
 17 7
 2
-0 40 22 7
 0 39 3 2
+0 40 22 7
 1
 end_operator
 begin_operator
@@ -32959,8 +32959,8 @@ succumb abrasion stimulation lobster saturn earth
 1
 17 8
 2
-0 40 22 8
 0 39 1 0
+0 40 22 8
 1
 end_operator
 begin_operator
@@ -32968,8 +32968,8 @@ succumb abrasion stimulation lobster uranus saturn
 1
 17 8
 2
-0 40 22 8
 0 39 2 1
+0 40 22 8
 1
 end_operator
 begin_operator
@@ -32977,8 +32977,8 @@ succumb abrasion stimulation lobster vulcan uranus
 1
 17 8
 2
-0 40 22 8
 0 39 3 2
+0 40 22 8
 1
 end_operator
 begin_operator
@@ -32986,8 +32986,8 @@ succumb abrasion stimulation marzipan saturn earth
 1
 17 9
 2
-0 40 22 9
 0 39 1 0
+0 40 22 9
 1
 end_operator
 begin_operator
@@ -32995,8 +32995,8 @@ succumb abrasion stimulation marzipan uranus saturn
 1
 17 9
 2
-0 40 22 9
 0 39 2 1
+0 40 22 9
 1
 end_operator
 begin_operator
@@ -33004,8 +33004,8 @@ succumb abrasion stimulation marzipan vulcan uranus
 1
 17 9
 2
-0 40 22 9
 0 39 3 2
+0 40 22 9
 1
 end_operator
 begin_operator
@@ -33013,8 +33013,8 @@ succumb abrasion stimulation onion saturn earth
 1
 17 10
 2
-0 40 22 11
 0 39 1 0
+0 40 22 11
 1
 end_operator
 begin_operator
@@ -33022,8 +33022,8 @@ succumb abrasion stimulation onion uranus saturn
 1
 17 10
 2
-0 40 22 11
 0 39 2 1
+0 40 22 11
 1
 end_operator
 begin_operator
@@ -33031,8 +33031,8 @@ succumb abrasion stimulation onion vulcan uranus
 1
 17 10
 2
-0 40 22 11
 0 39 3 2
+0 40 22 11
 1
 end_operator
 begin_operator
@@ -33040,8 +33040,8 @@ succumb abrasion stimulation tofu saturn earth
 1
 17 11
 2
-0 40 22 13
 0 39 1 0
+0 40 22 13
 1
 end_operator
 begin_operator
@@ -33049,8 +33049,8 @@ succumb abrasion stimulation tofu uranus saturn
 1
 17 11
 2
-0 40 22 13
 0 39 2 1
+0 40 22 13
 1
 end_operator
 begin_operator
@@ -33058,8 +33058,8 @@ succumb abrasion stimulation tofu vulcan uranus
 1
 17 11
 2
-0 40 22 13
 0 39 3 2
+0 40 22 13
 1
 end_operator
 begin_operator
@@ -33067,8 +33067,8 @@ succumb abrasion stimulation wonderbread saturn earth
 1
 17 12
 2
-0 40 22 14
 0 39 1 0
+0 40 22 14
 1
 end_operator
 begin_operator
@@ -33076,8 +33076,8 @@ succumb abrasion stimulation wonderbread uranus saturn
 1
 17 12
 2
-0 40 22 14
 0 39 2 1
+0 40 22 14
 1
 end_operator
 begin_operator
@@ -33085,32 +33085,32 @@ succumb abrasion stimulation wonderbread vulcan uranus
 1
 17 12
 2
-0 40 22 14
 0 39 3 2
+0 40 22 14
 1
 end_operator
 begin_operator
 succumb anger achievement wonderbread saturn earth
 0
 2
-0 22 15 14
 0 19 1 0
+0 22 15 14
 1
 end_operator
 begin_operator
 succumb anger achievement wonderbread uranus saturn
 0
 2
-0 22 15 14
 0 19 2 1
+0 22 15 14
 1
 end_operator
 begin_operator
 succumb anger achievement wonderbread vulcan uranus
 0
 2
-0 22 15 14
 0 19 3 2
+0 22 15 14
 1
 end_operator
 begin_operator
@@ -33820,8 +33820,8 @@ succumb anger expectation okra saturn earth
 1
 1 0
 2
-0 22 18 10
 0 20 1 0
+0 22 18 10
 1
 end_operator
 begin_operator
@@ -33829,8 +33829,8 @@ succumb anger expectation okra uranus saturn
 1
 1 0
 2
-0 22 18 10
 0 20 2 1
+0 22 18 10
 1
 end_operator
 begin_operator
@@ -33838,8 +33838,8 @@ succumb anger expectation okra vulcan uranus
 1
 1 0
 2
-0 22 18 10
 0 20 3 2
+0 22 18 10
 1
 end_operator
 begin_operator
@@ -33847,8 +33847,8 @@ succumb anger expectation onion saturn earth
 1
 1 1
 2
-0 22 18 11
 0 20 1 0
+0 22 18 11
 1
 end_operator
 begin_operator
@@ -33856,8 +33856,8 @@ succumb anger expectation onion uranus saturn
 1
 1 1
 2
-0 22 18 11
 0 20 2 1
+0 22 18 11
 1
 end_operator
 begin_operator
@@ -33865,8 +33865,8 @@ succumb anger expectation onion vulcan uranus
 1
 1 1
 2
-0 22 18 11
 0 20 3 2
+0 22 18 11
 1
 end_operator
 begin_operator
@@ -33874,8 +33874,8 @@ succumb anger expectation snickers saturn earth
 1
 1 2
 2
-0 22 18 12
 0 20 1 0
+0 22 18 12
 1
 end_operator
 begin_operator
@@ -33883,8 +33883,8 @@ succumb anger expectation snickers uranus saturn
 1
 1 2
 2
-0 22 18 12
 0 20 2 1
+0 22 18 12
 1
 end_operator
 begin_operator
@@ -33892,8 +33892,8 @@ succumb anger expectation snickers vulcan uranus
 1
 1 2
 2
-0 22 18 12
 0 20 3 2
+0 22 18 12
 1
 end_operator
 begin_operator
@@ -33901,8 +33901,8 @@ succumb anger expectation wonderbread saturn earth
 1
 1 3
 2
-0 22 18 14
 0 20 1 0
+0 22 18 14
 1
 end_operator
 begin_operator
@@ -33910,8 +33910,8 @@ succumb anger expectation wonderbread uranus saturn
 1
 1 3
 2
-0 22 18 14
 0 20 2 1
+0 22 18 14
 1
 end_operator
 begin_operator
@@ -33919,8 +33919,8 @@ succumb anger expectation wonderbread vulcan uranus
 1
 1 3
 2
-0 22 18 14
 0 20 3 2
+0 22 18 14
 1
 end_operator
 begin_operator
@@ -33928,8 +33928,8 @@ succumb anger learning okra saturn earth
 1
 2 0
 2
-0 22 19 10
 0 21 1 0
+0 22 19 10
 1
 end_operator
 begin_operator
@@ -33937,8 +33937,8 @@ succumb anger learning okra uranus saturn
 1
 2 0
 2
-0 22 19 10
 0 21 2 1
+0 22 19 10
 1
 end_operator
 begin_operator
@@ -33946,8 +33946,8 @@ succumb anger learning okra vulcan uranus
 1
 2 0
 2
-0 22 19 10
 0 21 3 2
+0 22 19 10
 1
 end_operator
 begin_operator
@@ -33955,8 +33955,8 @@ succumb anger learning onion saturn earth
 1
 2 1
 2
-0 22 19 11
 0 21 1 0
+0 22 19 11
 1
 end_operator
 begin_operator
@@ -33964,8 +33964,8 @@ succumb anger learning onion uranus saturn
 1
 2 1
 2
-0 22 19 11
 0 21 2 1
+0 22 19 11
 1
 end_operator
 begin_operator
@@ -33973,8 +33973,8 @@ succumb anger learning onion vulcan uranus
 1
 2 1
 2
-0 22 19 11
 0 21 3 2
+0 22 19 11
 1
 end_operator
 begin_operator
@@ -33982,8 +33982,8 @@ succumb anger learning snickers saturn earth
 1
 2 2
 2
-0 22 19 12
 0 21 1 0
+0 22 19 12
 1
 end_operator
 begin_operator
@@ -33991,8 +33991,8 @@ succumb anger learning snickers uranus saturn
 1
 2 2
 2
-0 22 19 12
 0 21 2 1
+0 22 19 12
 1
 end_operator
 begin_operator
@@ -34000,8 +34000,8 @@ succumb anger learning snickers vulcan uranus
 1
 2 2
 2
-0 22 19 12
 0 21 3 2
+0 22 19 12
 1
 end_operator
 begin_operator
@@ -34009,8 +34009,8 @@ succumb anger learning wonderbread saturn earth
 1
 2 3
 2
-0 22 19 14
 0 21 1 0
+0 22 19 14
 1
 end_operator
 begin_operator
@@ -34018,8 +34018,8 @@ succumb anger learning wonderbread uranus saturn
 1
 2 3
 2
-0 22 19 14
 0 21 2 1
+0 22 19 14
 1
 end_operator
 begin_operator
@@ -34027,8 +34027,8 @@ succumb anger learning wonderbread vulcan uranus
 1
 2 3
 2
-0 22 19 14
 0 21 3 2
+0 22 19 14
 1
 end_operator
 begin_operator
@@ -35088,24 +35088,24 @@ begin_operator
 succumb angina achievement wonderbread saturn earth
 0
 2
-0 23 15 14
 0 19 1 0
+0 23 15 14
 1
 end_operator
 begin_operator
 succumb angina achievement wonderbread uranus saturn
 0
 2
-0 23 15 14
 0 19 2 1
+0 23 15 14
 1
 end_operator
 begin_operator
 succumb angina achievement wonderbread vulcan uranus
 0
 2
-0 23 15 14
 0 19 3 2
+0 23 15 14
 1
 end_operator
 begin_operator
@@ -35815,8 +35815,8 @@ succumb angina expectation okra saturn earth
 1
 1 0
 2
-0 23 18 10
 0 20 1 0
+0 23 18 10
 1
 end_operator
 begin_operator
@@ -35824,8 +35824,8 @@ succumb angina expectation okra uranus saturn
 1
 1 0
 2
-0 23 18 10
 0 20 2 1
+0 23 18 10
 1
 end_operator
 begin_operator
@@ -35833,8 +35833,8 @@ succumb angina expectation okra vulcan uranus
 1
 1 0
 2
-0 23 18 10
 0 20 3 2
+0 23 18 10
 1
 end_operator
 begin_operator
@@ -35842,8 +35842,8 @@ succumb angina expectation onion saturn earth
 1
 1 1
 2
-0 23 18 11
 0 20 1 0
+0 23 18 11
 1
 end_operator
 begin_operator
@@ -35851,8 +35851,8 @@ succumb angina expectation onion uranus saturn
 1
 1 1
 2
-0 23 18 11
 0 20 2 1
+0 23 18 11
 1
 end_operator
 begin_operator
@@ -35860,8 +35860,8 @@ succumb angina expectation onion vulcan uranus
 1
 1 1
 2
-0 23 18 11
 0 20 3 2
+0 23 18 11
 1
 end_operator
 begin_operator
@@ -35869,8 +35869,8 @@ succumb angina expectation snickers saturn earth
 1
 1 2
 2
-0 23 18 12
 0 20 1 0
+0 23 18 12
 1
 end_operator
 begin_operator
@@ -35878,8 +35878,8 @@ succumb angina expectation snickers uranus saturn
 1
 1 2
 2
-0 23 18 12
 0 20 2 1
+0 23 18 12
 1
 end_operator
 begin_operator
@@ -35887,8 +35887,8 @@ succumb angina expectation snickers vulcan uranus
 1
 1 2
 2
-0 23 18 12
 0 20 3 2
+0 23 18 12
 1
 end_operator
 begin_operator
@@ -35896,8 +35896,8 @@ succumb angina expectation wonderbread saturn earth
 1
 1 3
 2
-0 23 18 14
 0 20 1 0
+0 23 18 14
 1
 end_operator
 begin_operator
@@ -35905,8 +35905,8 @@ succumb angina expectation wonderbread uranus saturn
 1
 1 3
 2
-0 23 18 14
 0 20 2 1
+0 23 18 14
 1
 end_operator
 begin_operator
@@ -35914,8 +35914,8 @@ succumb angina expectation wonderbread vulcan uranus
 1
 1 3
 2
-0 23 18 14
 0 20 3 2
+0 23 18 14
 1
 end_operator
 begin_operator
@@ -35923,8 +35923,8 @@ succumb angina learning okra saturn earth
 1
 2 0
 2
-0 23 19 10
 0 21 1 0
+0 23 19 10
 1
 end_operator
 begin_operator
@@ -35932,8 +35932,8 @@ succumb angina learning okra uranus saturn
 1
 2 0
 2
-0 23 19 10
 0 21 2 1
+0 23 19 10
 1
 end_operator
 begin_operator
@@ -35941,8 +35941,8 @@ succumb angina learning okra vulcan uranus
 1
 2 0
 2
-0 23 19 10
 0 21 3 2
+0 23 19 10
 1
 end_operator
 begin_operator
@@ -35950,8 +35950,8 @@ succumb angina learning onion saturn earth
 1
 2 1
 2
-0 23 19 11
 0 21 1 0
+0 23 19 11
 1
 end_operator
 begin_operator
@@ -35959,8 +35959,8 @@ succumb angina learning onion uranus saturn
 1
 2 1
 2
-0 23 19 11
 0 21 2 1
+0 23 19 11
 1
 end_operator
 begin_operator
@@ -35968,8 +35968,8 @@ succumb angina learning onion vulcan uranus
 1
 2 1
 2
-0 23 19 11
 0 21 3 2
+0 23 19 11
 1
 end_operator
 begin_operator
@@ -35977,8 +35977,8 @@ succumb angina learning snickers saturn earth
 1
 2 2
 2
-0 23 19 12
 0 21 1 0
+0 23 19 12
 1
 end_operator
 begin_operator
@@ -35986,8 +35986,8 @@ succumb angina learning snickers uranus saturn
 1
 2 2
 2
-0 23 19 12
 0 21 2 1
+0 23 19 12
 1
 end_operator
 begin_operator
@@ -35995,8 +35995,8 @@ succumb angina learning snickers vulcan uranus
 1
 2 2
 2
-0 23 19 12
 0 21 3 2
+0 23 19 12
 1
 end_operator
 begin_operator
@@ -36004,8 +36004,8 @@ succumb angina learning wonderbread saturn earth
 1
 2 3
 2
-0 23 19 14
 0 21 1 0
+0 23 19 14
 1
 end_operator
 begin_operator
@@ -36013,8 +36013,8 @@ succumb angina learning wonderbread uranus saturn
 1
 2 3
 2
-0 23 19 14
 0 21 2 1
+0 23 19 14
 1
 end_operator
 begin_operator
@@ -36022,8 +36022,8 @@ succumb angina learning wonderbread vulcan uranus
 1
 2 3
 2
-0 23 19 14
 0 21 3 2
+0 23 19 14
 1
 end_operator
 begin_operator
@@ -37083,24 +37083,24 @@ begin_operator
 succumb anxiety achievement wonderbread saturn earth
 0
 2
-0 24 15 14
 0 19 1 0
+0 24 15 14
 1
 end_operator
 begin_operator
 succumb anxiety achievement wonderbread uranus saturn
 0
 2
-0 24 15 14
 0 19 2 1
+0 24 15 14
 1
 end_operator
 begin_operator
 succumb anxiety achievement wonderbread vulcan uranus
 0
 2
-0 24 15 14
 0 19 3 2
+0 24 15 14
 1
 end_operator
 begin_operator
@@ -37810,8 +37810,8 @@ succumb anxiety expectation okra saturn earth
 1
 1 0
 2
-0 24 18 10
 0 20 1 0
+0 24 18 10
 1
 end_operator
 begin_operator
@@ -37819,8 +37819,8 @@ succumb anxiety expectation okra uranus saturn
 1
 1 0
 2
-0 24 18 10
 0 20 2 1
+0 24 18 10
 1
 end_operator
 begin_operator
@@ -37828,8 +37828,8 @@ succumb anxiety expectation okra vulcan uranus
 1
 1 0
 2
-0 24 18 10
 0 20 3 2
+0 24 18 10
 1
 end_operator
 begin_operator
@@ -37837,8 +37837,8 @@ succumb anxiety expectation onion saturn earth
 1
 1 1
 2
-0 24 18 11
 0 20 1 0
+0 24 18 11
 1
 end_operator
 begin_operator
@@ -37846,8 +37846,8 @@ succumb anxiety expectation onion uranus saturn
 1
 1 1
 2
-0 24 18 11
 0 20 2 1
+0 24 18 11
 1
 end_operator
 begin_operator
@@ -37855,8 +37855,8 @@ succumb anxiety expectation onion vulcan uranus
 1
 1 1
 2
-0 24 18 11
 0 20 3 2
+0 24 18 11
 1
 end_operator
 begin_operator
@@ -37864,8 +37864,8 @@ succumb anxiety expectation snickers saturn earth
 1
 1 2
 2
-0 24 18 12
 0 20 1 0
+0 24 18 12
 1
 end_operator
 begin_operator
@@ -37873,8 +37873,8 @@ succumb anxiety expectation snickers uranus saturn
 1
 1 2
 2
-0 24 18 12
 0 20 2 1
+0 24 18 12
 1
 end_operator
 begin_operator
@@ -37882,8 +37882,8 @@ succumb anxiety expectation snickers vulcan uranus
 1
 1 2
 2
-0 24 18 12
 0 20 3 2
+0 24 18 12
 1
 end_operator
 begin_operator
@@ -37891,8 +37891,8 @@ succumb anxiety expectation wonderbread saturn earth
 1
 1 3
 2
-0 24 18 14
 0 20 1 0
+0 24 18 14
 1
 end_operator
 begin_operator
@@ -37900,8 +37900,8 @@ succumb anxiety expectation wonderbread uranus saturn
 1
 1 3
 2
-0 24 18 14
 0 20 2 1
+0 24 18 14
 1
 end_operator
 begin_operator
@@ -37909,8 +37909,8 @@ succumb anxiety expectation wonderbread vulcan uranus
 1
 1 3
 2
-0 24 18 14
 0 20 3 2
+0 24 18 14
 1
 end_operator
 begin_operator
@@ -37918,8 +37918,8 @@ succumb anxiety learning okra saturn earth
 1
 2 0
 2
-0 24 19 10
 0 21 1 0
+0 24 19 10
 1
 end_operator
 begin_operator
@@ -37927,8 +37927,8 @@ succumb anxiety learning okra uranus saturn
 1
 2 0
 2
-0 24 19 10
 0 21 2 1
+0 24 19 10
 1
 end_operator
 begin_operator
@@ -37936,8 +37936,8 @@ succumb anxiety learning okra vulcan uranus
 1
 2 0
 2
-0 24 19 10
 0 21 3 2
+0 24 19 10
 1
 end_operator
 begin_operator
@@ -37945,8 +37945,8 @@ succumb anxiety learning onion saturn earth
 1
 2 1
 2
-0 24 19 11
 0 21 1 0
+0 24 19 11
 1
 end_operator
 begin_operator
@@ -37954,8 +37954,8 @@ succumb anxiety learning onion uranus saturn
 1
 2 1
 2
-0 24 19 11
 0 21 2 1
+0 24 19 11
 1
 end_operator
 begin_operator
@@ -37963,8 +37963,8 @@ succumb anxiety learning onion vulcan uranus
 1
 2 1
 2
-0 24 19 11
 0 21 3 2
+0 24 19 11
 1
 end_operator
 begin_operator
@@ -37972,8 +37972,8 @@ succumb anxiety learning snickers saturn earth
 1
 2 2
 2
-0 24 19 12
 0 21 1 0
+0 24 19 12
 1
 end_operator
 begin_operator
@@ -37981,8 +37981,8 @@ succumb anxiety learning snickers uranus saturn
 1
 2 2
 2
-0 24 19 12
 0 21 2 1
+0 24 19 12
 1
 end_operator
 begin_operator
@@ -37990,8 +37990,8 @@ succumb anxiety learning snickers vulcan uranus
 1
 2 2
 2
-0 24 19 12
 0 21 3 2
+0 24 19 12
 1
 end_operator
 begin_operator
@@ -37999,8 +37999,8 @@ succumb anxiety learning wonderbread saturn earth
 1
 2 3
 2
-0 24 19 14
 0 21 1 0
+0 24 19 14
 1
 end_operator
 begin_operator
@@ -38008,8 +38008,8 @@ succumb anxiety learning wonderbread uranus saturn
 1
 2 3
 2
-0 24 19 14
 0 21 2 1
+0 24 19 14
 1
 end_operator
 begin_operator
@@ -38017,8 +38017,8 @@ succumb anxiety learning wonderbread vulcan uranus
 1
 2 3
 2
-0 24 19 14
 0 21 3 2
+0 24 19 14
 1
 end_operator
 begin_operator
@@ -39078,24 +39078,24 @@ begin_operator
 succumb boils achievement wonderbread saturn earth
 0
 2
-0 25 15 14
 0 19 1 0
+0 25 15 14
 1
 end_operator
 begin_operator
 succumb boils achievement wonderbread uranus saturn
 0
 2
-0 25 15 14
 0 19 2 1
+0 25 15 14
 1
 end_operator
 begin_operator
 succumb boils achievement wonderbread vulcan uranus
 0
 2
-0 25 15 14
 0 19 3 2
+0 25 15 14
 1
 end_operator
 begin_operator
@@ -39805,8 +39805,8 @@ succumb boils expectation okra saturn earth
 1
 1 0
 2
-0 25 18 10
 0 20 1 0
+0 25 18 10
 1
 end_operator
 begin_operator
@@ -39814,8 +39814,8 @@ succumb boils expectation okra uranus saturn
 1
 1 0
 2
-0 25 18 10
 0 20 2 1
+0 25 18 10
 1
 end_operator
 begin_operator
@@ -39823,8 +39823,8 @@ succumb boils expectation okra vulcan uranus
 1
 1 0
 2
-0 25 18 10
 0 20 3 2
+0 25 18 10
 1
 end_operator
 begin_operator
@@ -39832,8 +39832,8 @@ succumb boils expectation onion saturn earth
 1
 1 1
 2
-0 25 18 11
 0 20 1 0
+0 25 18 11
 1
 end_operator
 begin_operator
@@ -39841,8 +39841,8 @@ succumb boils expectation onion uranus saturn
 1
 1 1
 2
-0 25 18 11
 0 20 2 1
+0 25 18 11
 1
 end_operator
 begin_operator
@@ -39850,8 +39850,8 @@ succumb boils expectation onion vulcan uranus
 1
 1 1
 2
-0 25 18 11
 0 20 3 2
+0 25 18 11
 1
 end_operator
 begin_operator
@@ -39859,8 +39859,8 @@ succumb boils expectation snickers saturn earth
 1
 1 2
 2
-0 25 18 12
 0 20 1 0
+0 25 18 12
 1
 end_operator
 begin_operator
@@ -39868,8 +39868,8 @@ succumb boils expectation snickers uranus saturn
 1
 1 2
 2
-0 25 18 12
 0 20 2 1
+0 25 18 12
 1
 end_operator
 begin_operator
@@ -39877,8 +39877,8 @@ succumb boils expectation snickers vulcan uranus
 1
 1 2
 2
-0 25 18 12
 0 20 3 2
+0 25 18 12
 1
 end_operator
 begin_operator
@@ -39886,8 +39886,8 @@ succumb boils expectation wonderbread saturn earth
 1
 1 3
 2
-0 25 18 14
 0 20 1 0
+0 25 18 14
 1
 end_operator
 begin_operator
@@ -39895,8 +39895,8 @@ succumb boils expectation wonderbread uranus saturn
 1
 1 3
 2
-0 25 18 14
 0 20 2 1
+0 25 18 14
 1
 end_operator
 begin_operator
@@ -39904,8 +39904,8 @@ succumb boils expectation wonderbread vulcan uranus
 1
 1 3
 2
-0 25 18 14
 0 20 3 2
+0 25 18 14
 1
 end_operator
 begin_operator
@@ -39913,8 +39913,8 @@ succumb boils learning okra saturn earth
 1
 2 0
 2
-0 25 19 10
 0 21 1 0
+0 25 19 10
 1
 end_operator
 begin_operator
@@ -39922,8 +39922,8 @@ succumb boils learning okra uranus saturn
 1
 2 0
 2
-0 25 19 10
 0 21 2 1
+0 25 19 10
 1
 end_operator
 begin_operator
@@ -39931,8 +39931,8 @@ succumb boils learning okra vulcan uranus
 1
 2 0
 2
-0 25 19 10
 0 21 3 2
+0 25 19 10
 1
 end_operator
 begin_operator
@@ -39940,8 +39940,8 @@ succumb boils learning onion saturn earth
 1
 2 1
 2
-0 25 19 11
 0 21 1 0
+0 25 19 11
 1
 end_operator
 begin_operator
@@ -39949,8 +39949,8 @@ succumb boils learning onion uranus saturn
 1
 2 1
 2
-0 25 19 11
 0 21 2 1
+0 25 19 11
 1
 end_operator
 begin_operator
@@ -39958,8 +39958,8 @@ succumb boils learning onion vulcan uranus
 1
 2 1
 2
-0 25 19 11
 0 21 3 2
+0 25 19 11
 1
 end_operator
 begin_operator
@@ -39967,8 +39967,8 @@ succumb boils learning snickers saturn earth
 1
 2 2
 2
-0 25 19 12
 0 21 1 0
+0 25 19 12
 1
 end_operator
 begin_operator
@@ -39976,8 +39976,8 @@ succumb boils learning snickers uranus saturn
 1
 2 2
 2
-0 25 19 12
 0 21 2 1
+0 25 19 12
 1
 end_operator
 begin_operator
@@ -39985,8 +39985,8 @@ succumb boils learning snickers vulcan uranus
 1
 2 2
 2
-0 25 19 12
 0 21 3 2
+0 25 19 12
 1
 end_operator
 begin_operator
@@ -39994,8 +39994,8 @@ succumb boils learning wonderbread saturn earth
 1
 2 3
 2
-0 25 19 14
 0 21 1 0
+0 25 19 14
 1
 end_operator
 begin_operator
@@ -40003,8 +40003,8 @@ succumb boils learning wonderbread uranus saturn
 1
 2 3
 2
-0 25 19 14
 0 21 2 1
+0 25 19 14
 1
 end_operator
 begin_operator
@@ -40012,8 +40012,8 @@ succumb boils learning wonderbread vulcan uranus
 1
 2 3
 2
-0 25 19 14
 0 21 3 2
+0 25 19 14
 1
 end_operator
 begin_operator
@@ -41073,24 +41073,24 @@ begin_operator
 succumb depression achievement wonderbread saturn earth
 0
 2
-0 26 15 14
 0 19 1 0
+0 26 15 14
 1
 end_operator
 begin_operator
 succumb depression achievement wonderbread uranus saturn
 0
 2
-0 26 15 14
 0 19 2 1
+0 26 15 14
 1
 end_operator
 begin_operator
 succumb depression achievement wonderbread vulcan uranus
 0
 2
-0 26 15 14
 0 19 3 2
+0 26 15 14
 1
 end_operator
 begin_operator
@@ -41800,8 +41800,8 @@ succumb depression expectation okra saturn earth
 1
 1 0
 2
-0 26 18 10
 0 20 1 0
+0 26 18 10
 1
 end_operator
 begin_operator
@@ -41809,8 +41809,8 @@ succumb depression expectation okra uranus saturn
 1
 1 0
 2
-0 26 18 10
 0 20 2 1
+0 26 18 10
 1
 end_operator
 begin_operator
@@ -41818,8 +41818,8 @@ succumb depression expectation okra vulcan uranus
 1
 1 0
 2
-0 26 18 10
 0 20 3 2
+0 26 18 10
 1
 end_operator
 begin_operator
@@ -41827,8 +41827,8 @@ succumb depression expectation onion saturn earth
 1
 1 1
 2
-0 26 18 11
 0 20 1 0
+0 26 18 11
 1
 end_operator
 begin_operator
@@ -41836,8 +41836,8 @@ succumb depression expectation onion uranus saturn
 1
 1 1
 2
-0 26 18 11
 0 20 2 1
+0 26 18 11
 1
 end_operator
 begin_operator
@@ -41845,8 +41845,8 @@ succumb depression expectation onion vulcan uranus
 1
 1 1
 2
-0 26 18 11
 0 20 3 2
+0 26 18 11
 1
 end_operator
 begin_operator
@@ -41854,8 +41854,8 @@ succumb depression expectation snickers saturn earth
 1
 1 2
 2
-0 26 18 12
 0 20 1 0
+0 26 18 12
 1
 end_operator
 begin_operator
@@ -41863,8 +41863,8 @@ succumb depression expectation snickers uranus saturn
 1
 1 2
 2
-0 26 18 12
 0 20 2 1
+0 26 18 12
 1
 end_operator
 begin_operator
@@ -41872,8 +41872,8 @@ succumb depression expectation snickers vulcan uranus
 1
 1 2
 2
-0 26 18 12
 0 20 3 2
+0 26 18 12
 1
 end_operator
 begin_operator
@@ -41881,8 +41881,8 @@ succumb depression expectation wonderbread saturn earth
 1
 1 3
 2
-0 26 18 14
 0 20 1 0
+0 26 18 14
 1
 end_operator
 begin_operator
@@ -41890,8 +41890,8 @@ succumb depression expectation wonderbread uranus saturn
 1
 1 3
 2
-0 26 18 14
 0 20 2 1
+0 26 18 14
 1
 end_operator
 begin_operator
@@ -41899,8 +41899,8 @@ succumb depression expectation wonderbread vulcan uranus
 1
 1 3
 2
-0 26 18 14
 0 20 3 2
+0 26 18 14
 1
 end_operator
 begin_operator
@@ -41908,8 +41908,8 @@ succumb depression learning okra saturn earth
 1
 2 0
 2
-0 26 19 10
 0 21 1 0
+0 26 19 10
 1
 end_operator
 begin_operator
@@ -41917,8 +41917,8 @@ succumb depression learning okra uranus saturn
 1
 2 0
 2
-0 26 19 10
 0 21 2 1
+0 26 19 10
 1
 end_operator
 begin_operator
@@ -41926,8 +41926,8 @@ succumb depression learning okra vulcan uranus
 1
 2 0
 2
-0 26 19 10
 0 21 3 2
+0 26 19 10
 1
 end_operator
 begin_operator
@@ -41935,8 +41935,8 @@ succumb depression learning onion saturn earth
 1
 2 1
 2
-0 26 19 11
 0 21 1 0
+0 26 19 11
 1
 end_operator
 begin_operator
@@ -41944,8 +41944,8 @@ succumb depression learning onion uranus saturn
 1
 2 1
 2
-0 26 19 11
 0 21 2 1
+0 26 19 11
 1
 end_operator
 begin_operator
@@ -41953,8 +41953,8 @@ succumb depression learning onion vulcan uranus
 1
 2 1
 2
-0 26 19 11
 0 21 3 2
+0 26 19 11
 1
 end_operator
 begin_operator
@@ -41962,8 +41962,8 @@ succumb depression learning snickers saturn earth
 1
 2 2
 2
-0 26 19 12
 0 21 1 0
+0 26 19 12
 1
 end_operator
 begin_operator
@@ -41971,8 +41971,8 @@ succumb depression learning snickers uranus saturn
 1
 2 2
 2
-0 26 19 12
 0 21 2 1
+0 26 19 12
 1
 end_operator
 begin_operator
@@ -41980,8 +41980,8 @@ succumb depression learning snickers vulcan uranus
 1
 2 2
 2
-0 26 19 12
 0 21 3 2
+0 26 19 12
 1
 end_operator
 begin_operator
@@ -41989,8 +41989,8 @@ succumb depression learning wonderbread saturn earth
 1
 2 3
 2
-0 26 19 14
 0 21 1 0
+0 26 19 14
 1
 end_operator
 begin_operator
@@ -41998,8 +41998,8 @@ succumb depression learning wonderbread uranus saturn
 1
 2 3
 2
-0 26 19 14
 0 21 2 1
+0 26 19 14
 1
 end_operator
 begin_operator
@@ -42007,8 +42007,8 @@ succumb depression learning wonderbread vulcan uranus
 1
 2 3
 2
-0 26 19 14
 0 21 3 2
+0 26 19 14
 1
 end_operator
 begin_operator
@@ -43068,24 +43068,24 @@ begin_operator
 succumb dread achievement wonderbread saturn earth
 0
 2
-0 27 15 14
 0 19 1 0
+0 27 15 14
 1
 end_operator
 begin_operator
 succumb dread achievement wonderbread uranus saturn
 0
 2
-0 27 15 14
 0 19 2 1
+0 27 15 14
 1
 end_operator
 begin_operator
 succumb dread achievement wonderbread vulcan uranus
 0
 2
-0 27 15 14
 0 19 3 2
+0 27 15 14
 1
 end_operator
 begin_operator
@@ -43795,8 +43795,8 @@ succumb dread expectation okra saturn earth
 1
 1 0
 2
-0 27 18 10
 0 20 1 0
+0 27 18 10
 1
 end_operator
 begin_operator
@@ -43804,8 +43804,8 @@ succumb dread expectation okra uranus saturn
 1
 1 0
 2
-0 27 18 10
 0 20 2 1
+0 27 18 10
 1
 end_operator
 begin_operator
@@ -43813,8 +43813,8 @@ succumb dread expectation okra vulcan uranus
 1
 1 0
 2
-0 27 18 10
 0 20 3 2
+0 27 18 10
 1
 end_operator
 begin_operator
@@ -43822,8 +43822,8 @@ succumb dread expectation onion saturn earth
 1
 1 1
 2
-0 27 18 11
 0 20 1 0
+0 27 18 11
 1
 end_operator
 begin_operator
@@ -43831,8 +43831,8 @@ succumb dread expectation onion uranus saturn
 1
 1 1
 2
-0 27 18 11
 0 20 2 1
+0 27 18 11
 1
 end_operator
 begin_operator
@@ -43840,8 +43840,8 @@ succumb dread expectation onion vulcan uranus
 1
 1 1
 2
-0 27 18 11
 0 20 3 2
+0 27 18 11
 1
 end_operator
 begin_operator
@@ -43849,8 +43849,8 @@ succumb dread expectation snickers saturn earth
 1
 1 2
 2
-0 27 18 12
 0 20 1 0
+0 27 18 12
 1
 end_operator
 begin_operator
@@ -43858,8 +43858,8 @@ succumb dread expectation snickers uranus saturn
 1
 1 2
 2
-0 27 18 12
 0 20 2 1
+0 27 18 12
 1
 end_operator
 begin_operator
@@ -43867,8 +43867,8 @@ succumb dread expectation snickers vulcan uranus
 1
 1 2
 2
-0 27 18 12
 0 20 3 2
+0 27 18 12
 1
 end_operator
 begin_operator
@@ -43876,8 +43876,8 @@ succumb dread expectation wonderbread saturn earth
 1
 1 3
 2
-0 27 18 14
 0 20 1 0
+0 27 18 14
 1
 end_operator
 begin_operator
@@ -43885,8 +43885,8 @@ succumb dread expectation wonderbread uranus saturn
 1
 1 3
 2
-0 27 18 14
 0 20 2 1
+0 27 18 14
 1
 end_operator
 begin_operator
@@ -43894,8 +43894,8 @@ succumb dread expectation wonderbread vulcan uranus
 1
 1 3
 2
-0 27 18 14
 0 20 3 2
+0 27 18 14
 1
 end_operator
 begin_operator
@@ -43903,8 +43903,8 @@ succumb dread learning okra saturn earth
 1
 2 0
 2
-0 27 19 10
 0 21 1 0
+0 27 19 10
 1
 end_operator
 begin_operator
@@ -43912,8 +43912,8 @@ succumb dread learning okra uranus saturn
 1
 2 0
 2
-0 27 19 10
 0 21 2 1
+0 27 19 10
 1
 end_operator
 begin_operator
@@ -43921,8 +43921,8 @@ succumb dread learning okra vulcan uranus
 1
 2 0
 2
-0 27 19 10
 0 21 3 2
+0 27 19 10
 1
 end_operator
 begin_operator
@@ -43930,8 +43930,8 @@ succumb dread learning onion saturn earth
 1
 2 1
 2
-0 27 19 11
 0 21 1 0
+0 27 19 11
 1
 end_operator
 begin_operator
@@ -43939,8 +43939,8 @@ succumb dread learning onion uranus saturn
 1
 2 1
 2
-0 27 19 11
 0 21 2 1
+0 27 19 11
 1
 end_operator
 begin_operator
@@ -43948,8 +43948,8 @@ succumb dread learning onion vulcan uranus
 1
 2 1
 2
-0 27 19 11
 0 21 3 2
+0 27 19 11
 1
 end_operator
 begin_operator
@@ -43957,8 +43957,8 @@ succumb dread learning snickers saturn earth
 1
 2 2
 2
-0 27 19 12
 0 21 1 0
+0 27 19 12
 1
 end_operator
 begin_operator
@@ -43966,8 +43966,8 @@ succumb dread learning snickers uranus saturn
 1
 2 2
 2
-0 27 19 12
 0 21 2 1
+0 27 19 12
 1
 end_operator
 begin_operator
@@ -43975,8 +43975,8 @@ succumb dread learning snickers vulcan uranus
 1
 2 2
 2
-0 27 19 12
 0 21 3 2
+0 27 19 12
 1
 end_operator
 begin_operator
@@ -43984,8 +43984,8 @@ succumb dread learning wonderbread saturn earth
 1
 2 3
 2
-0 27 19 14
 0 21 1 0
+0 27 19 14
 1
 end_operator
 begin_operator
@@ -43993,8 +43993,8 @@ succumb dread learning wonderbread uranus saturn
 1
 2 3
 2
-0 27 19 14
 0 21 2 1
+0 27 19 14
 1
 end_operator
 begin_operator
@@ -44002,8 +44002,8 @@ succumb dread learning wonderbread vulcan uranus
 1
 2 3
 2
-0 27 19 14
 0 21 3 2
+0 27 19 14
 1
 end_operator
 begin_operator
@@ -45063,24 +45063,24 @@ begin_operator
 succumb grief achievement wonderbread saturn earth
 0
 2
-0 28 15 14
 0 19 1 0
+0 28 15 14
 1
 end_operator
 begin_operator
 succumb grief achievement wonderbread uranus saturn
 0
 2
-0 28 15 14
 0 19 2 1
+0 28 15 14
 1
 end_operator
 begin_operator
 succumb grief achievement wonderbread vulcan uranus
 0
 2
-0 28 15 14
 0 19 3 2
+0 28 15 14
 1
 end_operator
 begin_operator
@@ -45790,8 +45790,8 @@ succumb grief expectation okra saturn earth
 1
 1 0
 2
-0 28 18 10
 0 20 1 0
+0 28 18 10
 1
 end_operator
 begin_operator
@@ -45799,8 +45799,8 @@ succumb grief expectation okra uranus saturn
 1
 1 0
 2
-0 28 18 10
 0 20 2 1
+0 28 18 10
 1
 end_operator
 begin_operator
@@ -45808,8 +45808,8 @@ succumb grief expectation okra vulcan uranus
 1
 1 0
 2
-0 28 18 10
 0 20 3 2
+0 28 18 10
 1
 end_operator
 begin_operator
@@ -45817,8 +45817,8 @@ succumb grief expectation onion saturn earth
 1
 1 1
 2
-0 28 18 11
 0 20 1 0
+0 28 18 11
 1
 end_operator
 begin_operator
@@ -45826,8 +45826,8 @@ succumb grief expectation onion uranus saturn
 1
 1 1
 2
-0 28 18 11
 0 20 2 1
+0 28 18 11
 1
 end_operator
 begin_operator
@@ -45835,8 +45835,8 @@ succumb grief expectation onion vulcan uranus
 1
 1 1
 2
-0 28 18 11
 0 20 3 2
+0 28 18 11
 1
 end_operator
 begin_operator
@@ -45844,8 +45844,8 @@ succumb grief expectation snickers saturn earth
 1
 1 2
 2
-0 28 18 12
 0 20 1 0
+0 28 18 12
 1
 end_operator
 begin_operator
@@ -45853,8 +45853,8 @@ succumb grief expectation snickers uranus saturn
 1
 1 2
 2
-0 28 18 12
 0 20 2 1
+0 28 18 12
 1
 end_operator
 begin_operator
@@ -45862,8 +45862,8 @@ succumb grief expectation snickers vulcan uranus
 1
 1 2
 2
-0 28 18 12
 0 20 3 2
+0 28 18 12
 1
 end_operator
 begin_operator
@@ -45871,8 +45871,8 @@ succumb grief expectation wonderbread saturn earth
 1
 1 3
 2
-0 28 18 14
 0 20 1 0
+0 28 18 14
 1
 end_operator
 begin_operator
@@ -45880,8 +45880,8 @@ succumb grief expectation wonderbread uranus saturn
 1
 1 3
 2
-0 28 18 14
 0 20 2 1
+0 28 18 14
 1
 end_operator
 begin_operator
@@ -45889,8 +45889,8 @@ succumb grief expectation wonderbread vulcan uranus
 1
 1 3
 2
-0 28 18 14
 0 20 3 2
+0 28 18 14
 1
 end_operator
 begin_operator
@@ -45898,8 +45898,8 @@ succumb grief learning okra saturn earth
 1
 2 0
 2
-0 28 19 10
 0 21 1 0
+0 28 19 10
 1
 end_operator
 begin_operator
@@ -45907,8 +45907,8 @@ succumb grief learning okra uranus saturn
 1
 2 0
 2
-0 28 19 10
 0 21 2 1
+0 28 19 10
 1
 end_operator
 begin_operator
@@ -45916,8 +45916,8 @@ succumb grief learning okra vulcan uranus
 1
 2 0
 2
-0 28 19 10
 0 21 3 2
+0 28 19 10
 1
 end_operator
 begin_operator
@@ -45925,8 +45925,8 @@ succumb grief learning onion saturn earth
 1
 2 1
 2
-0 28 19 11
 0 21 1 0
+0 28 19 11
 1
 end_operator
 begin_operator
@@ -45934,8 +45934,8 @@ succumb grief learning onion uranus saturn
 1
 2 1
 2
-0 28 19 11
 0 21 2 1
+0 28 19 11
 1
 end_operator
 begin_operator
@@ -45943,8 +45943,8 @@ succumb grief learning onion vulcan uranus
 1
 2 1
 2
-0 28 19 11
 0 21 3 2
+0 28 19 11
 1
 end_operator
 begin_operator
@@ -45952,8 +45952,8 @@ succumb grief learning snickers saturn earth
 1
 2 2
 2
-0 28 19 12
 0 21 1 0
+0 28 19 12
 1
 end_operator
 begin_operator
@@ -45961,8 +45961,8 @@ succumb grief learning snickers uranus saturn
 1
 2 2
 2
-0 28 19 12
 0 21 2 1
+0 28 19 12
 1
 end_operator
 begin_operator
@@ -45970,8 +45970,8 @@ succumb grief learning snickers vulcan uranus
 1
 2 2
 2
-0 28 19 12
 0 21 3 2
+0 28 19 12
 1
 end_operator
 begin_operator
@@ -45979,8 +45979,8 @@ succumb grief learning wonderbread saturn earth
 1
 2 3
 2
-0 28 19 14
 0 21 1 0
+0 28 19 14
 1
 end_operator
 begin_operator
@@ -45988,8 +45988,8 @@ succumb grief learning wonderbread uranus saturn
 1
 2 3
 2
-0 28 19 14
 0 21 2 1
+0 28 19 14
 1
 end_operator
 begin_operator
@@ -45997,8 +45997,8 @@ succumb grief learning wonderbread vulcan uranus
 1
 2 3
 2
-0 28 19 14
 0 21 3 2
+0 28 19 14
 1
 end_operator
 begin_operator
@@ -47058,24 +47058,24 @@ begin_operator
 succumb hangover achievement wonderbread saturn earth
 0
 2
-0 29 15 14
 0 19 1 0
+0 29 15 14
 1
 end_operator
 begin_operator
 succumb hangover achievement wonderbread uranus saturn
 0
 2
-0 29 15 14
 0 19 2 1
+0 29 15 14
 1
 end_operator
 begin_operator
 succumb hangover achievement wonderbread vulcan uranus
 0
 2
-0 29 15 14
 0 19 3 2
+0 29 15 14
 1
 end_operator
 begin_operator
@@ -47785,8 +47785,8 @@ succumb hangover expectation okra saturn earth
 1
 1 0
 2
-0 29 18 10
 0 20 1 0
+0 29 18 10
 1
 end_operator
 begin_operator
@@ -47794,8 +47794,8 @@ succumb hangover expectation okra uranus saturn
 1
 1 0
 2
-0 29 18 10
 0 20 2 1
+0 29 18 10
 1
 end_operator
 begin_operator
@@ -47803,8 +47803,8 @@ succumb hangover expectation okra vulcan uranus
 1
 1 0
 2
-0 29 18 10
 0 20 3 2
+0 29 18 10
 1
 end_operator
 begin_operator
@@ -47812,8 +47812,8 @@ succumb hangover expectation onion saturn earth
 1
 1 1
 2
-0 29 18 11
 0 20 1 0
+0 29 18 11
 1
 end_operator
 begin_operator
@@ -47821,8 +47821,8 @@ succumb hangover expectation onion uranus saturn
 1
 1 1
 2
-0 29 18 11
 0 20 2 1
+0 29 18 11
 1
 end_operator
 begin_operator
@@ -47830,8 +47830,8 @@ succumb hangover expectation onion vulcan uranus
 1
 1 1
 2
-0 29 18 11
 0 20 3 2
+0 29 18 11
 1
 end_operator
 begin_operator
@@ -47839,8 +47839,8 @@ succumb hangover expectation snickers saturn earth
 1
 1 2
 2
-0 29 18 12
 0 20 1 0
+0 29 18 12
 1
 end_operator
 begin_operator
@@ -47848,8 +47848,8 @@ succumb hangover expectation snickers uranus saturn
 1
 1 2
 2
-0 29 18 12
 0 20 2 1
+0 29 18 12
 1
 end_operator
 begin_operator
@@ -47857,8 +47857,8 @@ succumb hangover expectation snickers vulcan uranus
 1
 1 2
 2
-0 29 18 12
 0 20 3 2
+0 29 18 12
 1
 end_operator
 begin_operator
@@ -47866,8 +47866,8 @@ succumb hangover expectation wonderbread saturn earth
 1
 1 3
 2
-0 29 18 14
 0 20 1 0
+0 29 18 14
 1
 end_operator
 begin_operator
@@ -47875,8 +47875,8 @@ succumb hangover expectation wonderbread uranus saturn
 1
 1 3
 2
-0 29 18 14
 0 20 2 1
+0 29 18 14
 1
 end_operator
 begin_operator
@@ -47884,8 +47884,8 @@ succumb hangover expectation wonderbread vulcan uranus
 1
 1 3
 2
-0 29 18 14
 0 20 3 2
+0 29 18 14
 1
 end_operator
 begin_operator
@@ -47893,8 +47893,8 @@ succumb hangover learning okra saturn earth
 1
 2 0
 2
-0 29 19 10
 0 21 1 0
+0 29 19 10
 1
 end_operator
 begin_operator
@@ -47902,8 +47902,8 @@ succumb hangover learning okra uranus saturn
 1
 2 0
 2
-0 29 19 10
 0 21 2 1
+0 29 19 10
 1
 end_operator
 begin_operator
@@ -47911,8 +47911,8 @@ succumb hangover learning okra vulcan uranus
 1
 2 0
 2
-0 29 19 10
 0 21 3 2
+0 29 19 10
 1
 end_operator
 begin_operator
@@ -47920,8 +47920,8 @@ succumb hangover learning onion saturn earth
 1
 2 1
 2
-0 29 19 11
 0 21 1 0
+0 29 19 11
 1
 end_operator
 begin_operator
@@ -47929,8 +47929,8 @@ succumb hangover learning onion uranus saturn
 1
 2 1
 2
-0 29 19 11
 0 21 2 1
+0 29 19 11
 1
 end_operator
 begin_operator
@@ -47938,8 +47938,8 @@ succumb hangover learning onion vulcan uranus
 1
 2 1
 2
-0 29 19 11
 0 21 3 2
+0 29 19 11
 1
 end_operator
 begin_operator
@@ -47947,8 +47947,8 @@ succumb hangover learning snickers saturn earth
 1
 2 2
 2
-0 29 19 12
 0 21 1 0
+0 29 19 12
 1
 end_operator
 begin_operator
@@ -47956,8 +47956,8 @@ succumb hangover learning snickers uranus saturn
 1
 2 2
 2
-0 29 19 12
 0 21 2 1
+0 29 19 12
 1
 end_operator
 begin_operator
@@ -47965,8 +47965,8 @@ succumb hangover learning snickers vulcan uranus
 1
 2 2
 2
-0 29 19 12
 0 21 3 2
+0 29 19 12
 1
 end_operator
 begin_operator
@@ -47974,8 +47974,8 @@ succumb hangover learning wonderbread saturn earth
 1
 2 3
 2
-0 29 19 14
 0 21 1 0
+0 29 19 14
 1
 end_operator
 begin_operator
@@ -47983,8 +47983,8 @@ succumb hangover learning wonderbread uranus saturn
 1
 2 3
 2
-0 29 19 14
 0 21 2 1
+0 29 19 14
 1
 end_operator
 begin_operator
@@ -47992,8 +47992,8 @@ succumb hangover learning wonderbread vulcan uranus
 1
 2 3
 2
-0 29 19 14
 0 21 3 2
+0 29 19 14
 1
 end_operator
 begin_operator
@@ -49053,24 +49053,24 @@ begin_operator
 succumb jealousy achievement wonderbread saturn earth
 0
 2
-0 30 15 14
 0 19 1 0
+0 30 15 14
 1
 end_operator
 begin_operator
 succumb jealousy achievement wonderbread uranus saturn
 0
 2
-0 30 15 14
 0 19 2 1
+0 30 15 14
 1
 end_operator
 begin_operator
 succumb jealousy achievement wonderbread vulcan uranus
 0
 2
-0 30 15 14
 0 19 3 2
+0 30 15 14
 1
 end_operator
 begin_operator
@@ -49780,8 +49780,8 @@ succumb jealousy expectation okra saturn earth
 1
 1 0
 2
-0 30 18 10
 0 20 1 0
+0 30 18 10
 1
 end_operator
 begin_operator
@@ -49789,8 +49789,8 @@ succumb jealousy expectation okra uranus saturn
 1
 1 0
 2
-0 30 18 10
 0 20 2 1
+0 30 18 10
 1
 end_operator
 begin_operator
@@ -49798,8 +49798,8 @@ succumb jealousy expectation okra vulcan uranus
 1
 1 0
 2
-0 30 18 10
 0 20 3 2
+0 30 18 10
 1
 end_operator
 begin_operator
@@ -49807,8 +49807,8 @@ succumb jealousy expectation onion saturn earth
 1
 1 1
 2
-0 30 18 11
 0 20 1 0
+0 30 18 11
 1
 end_operator
 begin_operator
@@ -49816,8 +49816,8 @@ succumb jealousy expectation onion uranus saturn
 1
 1 1
 2
-0 30 18 11
 0 20 2 1
+0 30 18 11
 1
 end_operator
 begin_operator
@@ -49825,8 +49825,8 @@ succumb jealousy expectation onion vulcan uranus
 1
 1 1
 2
-0 30 18 11
 0 20 3 2
+0 30 18 11
 1
 end_operator
 begin_operator
@@ -49834,8 +49834,8 @@ succumb jealousy expectation snickers saturn earth
 1
 1 2
 2
-0 30 18 12
 0 20 1 0
+0 30 18 12
 1
 end_operator
 begin_operator
@@ -49843,8 +49843,8 @@ succumb jealousy expectation snickers uranus saturn
 1
 1 2
 2
-0 30 18 12
 0 20 2 1
+0 30 18 12
 1
 end_operator
 begin_operator
@@ -49852,8 +49852,8 @@ succumb jealousy expectation snickers vulcan uranus
 1
 1 2
 2
-0 30 18 12
 0 20 3 2
+0 30 18 12
 1
 end_operator
 begin_operator
@@ -49861,8 +49861,8 @@ succumb jealousy expectation wonderbread saturn earth
 1
 1 3
 2
-0 30 18 14
 0 20 1 0
+0 30 18 14
 1
 end_operator
 begin_operator
@@ -49870,8 +49870,8 @@ succumb jealousy expectation wonderbread uranus saturn
 1
 1 3
 2
-0 30 18 14
 0 20 2 1
+0 30 18 14
 1
 end_operator
 begin_operator
@@ -49879,8 +49879,8 @@ succumb jealousy expectation wonderbread vulcan uranus
 1
 1 3
 2
-0 30 18 14
 0 20 3 2
+0 30 18 14
 1
 end_operator
 begin_operator
@@ -49888,8 +49888,8 @@ succumb jealousy learning okra saturn earth
 1
 2 0
 2
-0 30 19 10
 0 21 1 0
+0 30 19 10
 1
 end_operator
 begin_operator
@@ -49897,8 +49897,8 @@ succumb jealousy learning okra uranus saturn
 1
 2 0
 2
-0 30 19 10
 0 21 2 1
+0 30 19 10
 1
 end_operator
 begin_operator
@@ -49906,8 +49906,8 @@ succumb jealousy learning okra vulcan uranus
 1
 2 0
 2
-0 30 19 10
 0 21 3 2
+0 30 19 10
 1
 end_operator
 begin_operator
@@ -49915,8 +49915,8 @@ succumb jealousy learning onion saturn earth
 1
 2 1
 2
-0 30 19 11
 0 21 1 0
+0 30 19 11
 1
 end_operator
 begin_operator
@@ -49924,8 +49924,8 @@ succumb jealousy learning onion uranus saturn
 1
 2 1
 2
-0 30 19 11
 0 21 2 1
+0 30 19 11
 1
 end_operator
 begin_operator
@@ -49933,8 +49933,8 @@ succumb jealousy learning onion vulcan uranus
 1
 2 1
 2
-0 30 19 11
 0 21 3 2
+0 30 19 11
 1
 end_operator
 begin_operator
@@ -49942,8 +49942,8 @@ succumb jealousy learning snickers saturn earth
 1
 2 2
 2
-0 30 19 12
 0 21 1 0
+0 30 19 12
 1
 end_operator
 begin_operator
@@ -49951,8 +49951,8 @@ succumb jealousy learning snickers uranus saturn
 1
 2 2
 2
-0 30 19 12
 0 21 2 1
+0 30 19 12
 1
 end_operator
 begin_operator
@@ -49960,8 +49960,8 @@ succumb jealousy learning snickers vulcan uranus
 1
 2 2
 2
-0 30 19 12
 0 21 3 2
+0 30 19 12
 1
 end_operator
 begin_operator
@@ -49969,8 +49969,8 @@ succumb jealousy learning wonderbread saturn earth
 1
 2 3
 2
-0 30 19 14
 0 21 1 0
+0 30 19 14
 1
 end_operator
 begin_operator
@@ -49978,8 +49978,8 @@ succumb jealousy learning wonderbread uranus saturn
 1
 2 3
 2
-0 30 19 14
 0 21 2 1
+0 30 19 14
 1
 end_operator
 begin_operator
@@ -49987,8 +49987,8 @@ succumb jealousy learning wonderbread vulcan uranus
 1
 2 3
 2
-0 30 19 14
 0 21 3 2
+0 30 19 14
 1
 end_operator
 begin_operator
@@ -51048,24 +51048,24 @@ begin_operator
 succumb laceration achievement wonderbread saturn earth
 0
 2
-0 31 15 14
 0 19 1 0
+0 31 15 14
 1
 end_operator
 begin_operator
 succumb laceration achievement wonderbread uranus saturn
 0
 2
-0 31 15 14
 0 19 2 1
+0 31 15 14
 1
 end_operator
 begin_operator
 succumb laceration achievement wonderbread vulcan uranus
 0
 2
-0 31 15 14
 0 19 3 2
+0 31 15 14
 1
 end_operator
 begin_operator
@@ -51775,8 +51775,8 @@ succumb laceration expectation okra saturn earth
 1
 1 0
 2
-0 31 18 10
 0 20 1 0
+0 31 18 10
 1
 end_operator
 begin_operator
@@ -51784,8 +51784,8 @@ succumb laceration expectation okra uranus saturn
 1
 1 0
 2
-0 31 18 10
 0 20 2 1
+0 31 18 10
 1
 end_operator
 begin_operator
@@ -51793,8 +51793,8 @@ succumb laceration expectation okra vulcan uranus
 1
 1 0
 2
-0 31 18 10
 0 20 3 2
+0 31 18 10
 1
 end_operator
 begin_operator
@@ -51802,8 +51802,8 @@ succumb laceration expectation onion saturn earth
 1
 1 1
 2
-0 31 18 11
 0 20 1 0
+0 31 18 11
 1
 end_operator
 begin_operator
@@ -51811,8 +51811,8 @@ succumb laceration expectation onion uranus saturn
 1
 1 1
 2
-0 31 18 11
 0 20 2 1
+0 31 18 11
 1
 end_operator
 begin_operator
@@ -51820,8 +51820,8 @@ succumb laceration expectation onion vulcan uranus
 1
 1 1
 2
-0 31 18 11
 0 20 3 2
+0 31 18 11
 1
 end_operator
 begin_operator
@@ -51829,8 +51829,8 @@ succumb laceration expectation snickers saturn earth
 1
 1 2
 2
-0 31 18 12
 0 20 1 0
+0 31 18 12
 1
 end_operator
 begin_operator
@@ -51838,8 +51838,8 @@ succumb laceration expectation snickers uranus saturn
 1
 1 2
 2
-0 31 18 12
 0 20 2 1
+0 31 18 12
 1
 end_operator
 begin_operator
@@ -51847,8 +51847,8 @@ succumb laceration expectation snickers vulcan uranus
 1
 1 2
 2
-0 31 18 12
 0 20 3 2
+0 31 18 12
 1
 end_operator
 begin_operator
@@ -51856,8 +51856,8 @@ succumb laceration expectation wonderbread saturn earth
 1
 1 3
 2
-0 31 18 14
 0 20 1 0
+0 31 18 14
 1
 end_operator
 begin_operator
@@ -51865,8 +51865,8 @@ succumb laceration expectation wonderbread uranus saturn
 1
 1 3
 2
-0 31 18 14
 0 20 2 1
+0 31 18 14
 1
 end_operator
 begin_operator
@@ -51874,8 +51874,8 @@ succumb laceration expectation wonderbread vulcan uranus
 1
 1 3
 2
-0 31 18 14
 0 20 3 2
+0 31 18 14
 1
 end_operator
 begin_operator
@@ -51883,8 +51883,8 @@ succumb laceration learning okra saturn earth
 1
 2 0
 2
-0 31 19 10
 0 21 1 0
+0 31 19 10
 1
 end_operator
 begin_operator
@@ -51892,8 +51892,8 @@ succumb laceration learning okra uranus saturn
 1
 2 0
 2
-0 31 19 10
 0 21 2 1
+0 31 19 10
 1
 end_operator
 begin_operator
@@ -51901,8 +51901,8 @@ succumb laceration learning okra vulcan uranus
 1
 2 0
 2
-0 31 19 10
 0 21 3 2
+0 31 19 10
 1
 end_operator
 begin_operator
@@ -51910,8 +51910,8 @@ succumb laceration learning onion saturn earth
 1
 2 1
 2
-0 31 19 11
 0 21 1 0
+0 31 19 11
 1
 end_operator
 begin_operator
@@ -51919,8 +51919,8 @@ succumb laceration learning onion uranus saturn
 1
 2 1
 2
-0 31 19 11
 0 21 2 1
+0 31 19 11
 1
 end_operator
 begin_operator
@@ -51928,8 +51928,8 @@ succumb laceration learning onion vulcan uranus
 1
 2 1
 2
-0 31 19 11
 0 21 3 2
+0 31 19 11
 1
 end_operator
 begin_operator
@@ -51937,8 +51937,8 @@ succumb laceration learning snickers saturn earth
 1
 2 2
 2
-0 31 19 12
 0 21 1 0
+0 31 19 12
 1
 end_operator
 begin_operator
@@ -51946,8 +51946,8 @@ succumb laceration learning snickers uranus saturn
 1
 2 2
 2
-0 31 19 12
 0 21 2 1
+0 31 19 12
 1
 end_operator
 begin_operator
@@ -51955,8 +51955,8 @@ succumb laceration learning snickers vulcan uranus
 1
 2 2
 2
-0 31 19 12
 0 21 3 2
+0 31 19 12
 1
 end_operator
 begin_operator
@@ -51964,8 +51964,8 @@ succumb laceration learning wonderbread saturn earth
 1
 2 3
 2
-0 31 19 14
 0 21 1 0
+0 31 19 14
 1
 end_operator
 begin_operator
@@ -51973,8 +51973,8 @@ succumb laceration learning wonderbread uranus saturn
 1
 2 3
 2
-0 31 19 14
 0 21 2 1
+0 31 19 14
 1
 end_operator
 begin_operator
@@ -51982,8 +51982,8 @@ succumb laceration learning wonderbread vulcan uranus
 1
 2 3
 2
-0 31 19 14
 0 21 3 2
+0 31 19 14
 1
 end_operator
 begin_operator
@@ -53043,24 +53043,24 @@ begin_operator
 succumb loneliness achievement wonderbread saturn earth
 0
 2
-0 34 15 14
 0 19 1 0
+0 34 15 14
 1
 end_operator
 begin_operator
 succumb loneliness achievement wonderbread uranus saturn
 0
 2
-0 34 15 14
 0 19 2 1
+0 34 15 14
 1
 end_operator
 begin_operator
 succumb loneliness achievement wonderbread vulcan uranus
 0
 2
-0 34 15 14
 0 19 3 2
+0 34 15 14
 1
 end_operator
 begin_operator
@@ -53068,8 +53068,8 @@ succumb loneliness aesthetics bacon saturn earth
 1
 10 0
 2
-0 34 16 0
 0 32 1 0
+0 34 16 0
 1
 end_operator
 begin_operator
@@ -53077,8 +53077,8 @@ succumb loneliness aesthetics bacon uranus saturn
 1
 10 0
 2
-0 34 16 0
 0 32 2 1
+0 34 16 0
 1
 end_operator
 begin_operator
@@ -53086,8 +53086,8 @@ succumb loneliness aesthetics bacon vulcan uranus
 1
 10 0
 2
-0 34 16 0
 0 32 3 2
+0 34 16 0
 1
 end_operator
 begin_operator
@@ -53095,8 +53095,8 @@ succumb loneliness aesthetics beef saturn earth
 1
 10 1
 2
-0 34 16 1
 0 32 1 0
+0 34 16 1
 1
 end_operator
 begin_operator
@@ -53104,8 +53104,8 @@ succumb loneliness aesthetics beef uranus saturn
 1
 10 1
 2
-0 34 16 1
 0 32 2 1
+0 34 16 1
 1
 end_operator
 begin_operator
@@ -53113,8 +53113,8 @@ succumb loneliness aesthetics beef vulcan uranus
 1
 10 1
 2
-0 34 16 1
 0 32 3 2
+0 34 16 1
 1
 end_operator
 begin_operator
@@ -53122,8 +53122,8 @@ succumb loneliness aesthetics cantelope saturn earth
 1
 10 2
 2
-0 34 16 2
 0 32 1 0
+0 34 16 2
 1
 end_operator
 begin_operator
@@ -53131,8 +53131,8 @@ succumb loneliness aesthetics cantelope uranus saturn
 1
 10 2
 2
-0 34 16 2
 0 32 2 1
+0 34 16 2
 1
 end_operator
 begin_operator
@@ -53140,8 +53140,8 @@ succumb loneliness aesthetics cantelope vulcan uranus
 1
 10 2
 2
-0 34 16 2
 0 32 3 2
+0 34 16 2
 1
 end_operator
 begin_operator
@@ -53149,8 +53149,8 @@ succumb loneliness aesthetics flounder saturn earth
 1
 10 3
 2
-0 34 16 3
 0 32 1 0
+0 34 16 3
 1
 end_operator
 begin_operator
@@ -53158,8 +53158,8 @@ succumb loneliness aesthetics flounder uranus saturn
 1
 10 3
 2
-0 34 16 3
 0 32 2 1
+0 34 16 3
 1
 end_operator
 begin_operator
@@ -53167,8 +53167,8 @@ succumb loneliness aesthetics flounder vulcan uranus
 1
 10 3
 2
-0 34 16 3
 0 32 3 2
+0 34 16 3
 1
 end_operator
 begin_operator
@@ -53176,8 +53176,8 @@ succumb loneliness aesthetics ham saturn earth
 1
 10 4
 2
-0 34 16 4
 0 32 1 0
+0 34 16 4
 1
 end_operator
 begin_operator
@@ -53185,8 +53185,8 @@ succumb loneliness aesthetics ham uranus saturn
 1
 10 4
 2
-0 34 16 4
 0 32 2 1
+0 34 16 4
 1
 end_operator
 begin_operator
@@ -53194,8 +53194,8 @@ succumb loneliness aesthetics ham vulcan uranus
 1
 10 4
 2
-0 34 16 4
 0 32 3 2
+0 34 16 4
 1
 end_operator
 begin_operator
@@ -53203,8 +53203,8 @@ succumb loneliness aesthetics haroset saturn earth
 1
 10 5
 2
-0 34 16 5
 0 32 1 0
+0 34 16 5
 1
 end_operator
 begin_operator
@@ -53212,8 +53212,8 @@ succumb loneliness aesthetics haroset uranus saturn
 1
 10 5
 2
-0 34 16 5
 0 32 2 1
+0 34 16 5
 1
 end_operator
 begin_operator
@@ -53221,8 +53221,8 @@ succumb loneliness aesthetics haroset vulcan uranus
 1
 10 5
 2
-0 34 16 5
 0 32 3 2
+0 34 16 5
 1
 end_operator
 begin_operator
@@ -53230,8 +53230,8 @@ succumb loneliness aesthetics lamb saturn earth
 1
 10 6
 2
-0 34 16 6
 0 32 1 0
+0 34 16 6
 1
 end_operator
 begin_operator
@@ -53239,8 +53239,8 @@ succumb loneliness aesthetics lamb uranus saturn
 1
 10 6
 2
-0 34 16 6
 0 32 2 1
+0 34 16 6
 1
 end_operator
 begin_operator
@@ -53248,8 +53248,8 @@ succumb loneliness aesthetics lamb vulcan uranus
 1
 10 6
 2
-0 34 16 6
 0 32 3 2
+0 34 16 6
 1
 end_operator
 begin_operator
@@ -53257,8 +53257,8 @@ succumb loneliness aesthetics lemon saturn earth
 1
 10 7
 2
-0 34 16 7
 0 32 1 0
+0 34 16 7
 1
 end_operator
 begin_operator
@@ -53266,8 +53266,8 @@ succumb loneliness aesthetics lemon uranus saturn
 1
 10 7
 2
-0 34 16 7
 0 32 2 1
+0 34 16 7
 1
 end_operator
 begin_operator
@@ -53275,8 +53275,8 @@ succumb loneliness aesthetics lemon vulcan uranus
 1
 10 7
 2
-0 34 16 7
 0 32 3 2
+0 34 16 7
 1
 end_operator
 begin_operator
@@ -53284,8 +53284,8 @@ succumb loneliness aesthetics lobster saturn earth
 1
 10 8
 2
-0 34 16 8
 0 32 1 0
+0 34 16 8
 1
 end_operator
 begin_operator
@@ -53293,8 +53293,8 @@ succumb loneliness aesthetics lobster uranus saturn
 1
 10 8
 2
-0 34 16 8
 0 32 2 1
+0 34 16 8
 1
 end_operator
 begin_operator
@@ -53302,8 +53302,8 @@ succumb loneliness aesthetics lobster vulcan uranus
 1
 10 8
 2
-0 34 16 8
 0 32 3 2
+0 34 16 8
 1
 end_operator
 begin_operator
@@ -53311,8 +53311,8 @@ succumb loneliness aesthetics marzipan saturn earth
 1
 10 9
 2
-0 34 16 9
 0 32 1 0
+0 34 16 9
 1
 end_operator
 begin_operator
@@ -53320,8 +53320,8 @@ succumb loneliness aesthetics marzipan uranus saturn
 1
 10 9
 2
-0 34 16 9
 0 32 2 1
+0 34 16 9
 1
 end_operator
 begin_operator
@@ -53329,8 +53329,8 @@ succumb loneliness aesthetics marzipan vulcan uranus
 1
 10 9
 2
-0 34 16 9
 0 32 3 2
+0 34 16 9
 1
 end_operator
 begin_operator
@@ -53338,8 +53338,8 @@ succumb loneliness aesthetics onion saturn earth
 1
 10 10
 2
-0 34 16 11
 0 32 1 0
+0 34 16 11
 1
 end_operator
 begin_operator
@@ -53347,8 +53347,8 @@ succumb loneliness aesthetics onion uranus saturn
 1
 10 10
 2
-0 34 16 11
 0 32 2 1
+0 34 16 11
 1
 end_operator
 begin_operator
@@ -53356,8 +53356,8 @@ succumb loneliness aesthetics onion vulcan uranus
 1
 10 10
 2
-0 34 16 11
 0 32 3 2
+0 34 16 11
 1
 end_operator
 begin_operator
@@ -53365,8 +53365,8 @@ succumb loneliness aesthetics tofu saturn earth
 1
 10 11
 2
-0 34 16 13
 0 32 1 0
+0 34 16 13
 1
 end_operator
 begin_operator
@@ -53374,8 +53374,8 @@ succumb loneliness aesthetics tofu uranus saturn
 1
 10 11
 2
-0 34 16 13
 0 32 2 1
+0 34 16 13
 1
 end_operator
 begin_operator
@@ -53383,8 +53383,8 @@ succumb loneliness aesthetics tofu vulcan uranus
 1
 10 11
 2
-0 34 16 13
 0 32 3 2
+0 34 16 13
 1
 end_operator
 begin_operator
@@ -53392,8 +53392,8 @@ succumb loneliness aesthetics wonderbread saturn earth
 1
 10 12
 2
-0 34 16 14
 0 32 1 0
+0 34 16 14
 1
 end_operator
 begin_operator
@@ -53401,8 +53401,8 @@ succumb loneliness aesthetics wonderbread uranus saturn
 1
 10 12
 2
-0 34 16 14
 0 32 2 1
+0 34 16 14
 1
 end_operator
 begin_operator
@@ -53410,8 +53410,8 @@ succumb loneliness aesthetics wonderbread vulcan uranus
 1
 10 12
 2
-0 34 16 14
 0 32 3 2
+0 34 16 14
 1
 end_operator
 begin_operator
@@ -53419,8 +53419,8 @@ succumb loneliness entertainment bacon saturn earth
 1
 12 0
 2
-0 34 17 0
 0 33 1 0
+0 34 17 0
 1
 end_operator
 begin_operator
@@ -53428,8 +53428,8 @@ succumb loneliness entertainment bacon uranus saturn
 1
 12 0
 2
-0 34 17 0
 0 33 2 1
+0 34 17 0
 1
 end_operator
 begin_operator
@@ -53437,8 +53437,8 @@ succumb loneliness entertainment bacon vulcan uranus
 1
 12 0
 2
-0 34 17 0
 0 33 3 2
+0 34 17 0
 1
 end_operator
 begin_operator
@@ -53446,8 +53446,8 @@ succumb loneliness entertainment beef saturn earth
 1
 12 1
 2
-0 34 17 1
 0 33 1 0
+0 34 17 1
 1
 end_operator
 begin_operator
@@ -53455,8 +53455,8 @@ succumb loneliness entertainment beef uranus saturn
 1
 12 1
 2
-0 34 17 1
 0 33 2 1
+0 34 17 1
 1
 end_operator
 begin_operator
@@ -53464,8 +53464,8 @@ succumb loneliness entertainment beef vulcan uranus
 1
 12 1
 2
-0 34 17 1
 0 33 3 2
+0 34 17 1
 1
 end_operator
 begin_operator
@@ -53473,8 +53473,8 @@ succumb loneliness entertainment cantelope saturn earth
 1
 12 2
 2
-0 34 17 2
 0 33 1 0
+0 34 17 2
 1
 end_operator
 begin_operator
@@ -53482,8 +53482,8 @@ succumb loneliness entertainment cantelope uranus saturn
 1
 12 2
 2
-0 34 17 2
 0 33 2 1
+0 34 17 2
 1
 end_operator
 begin_operator
@@ -53491,8 +53491,8 @@ succumb loneliness entertainment cantelope vulcan uranus
 1
 12 2
 2
-0 34 17 2
 0 33 3 2
+0 34 17 2
 1
 end_operator
 begin_operator
@@ -53500,8 +53500,8 @@ succumb loneliness entertainment flounder saturn earth
 1
 12 3
 2
-0 34 17 3
 0 33 1 0
+0 34 17 3
 1
 end_operator
 begin_operator
@@ -53509,8 +53509,8 @@ succumb loneliness entertainment flounder uranus saturn
 1
 12 3
 2
-0 34 17 3
 0 33 2 1
+0 34 17 3
 1
 end_operator
 begin_operator
@@ -53518,8 +53518,8 @@ succumb loneliness entertainment flounder vulcan uranus
 1
 12 3
 2
-0 34 17 3
 0 33 3 2
+0 34 17 3
 1
 end_operator
 begin_operator
@@ -53527,8 +53527,8 @@ succumb loneliness entertainment ham saturn earth
 1
 12 4
 2
-0 34 17 4
 0 33 1 0
+0 34 17 4
 1
 end_operator
 begin_operator
@@ -53536,8 +53536,8 @@ succumb loneliness entertainment ham uranus saturn
 1
 12 4
 2
-0 34 17 4
 0 33 2 1
+0 34 17 4
 1
 end_operator
 begin_operator
@@ -53545,8 +53545,8 @@ succumb loneliness entertainment ham vulcan uranus
 1
 12 4
 2
-0 34 17 4
 0 33 3 2
+0 34 17 4
 1
 end_operator
 begin_operator
@@ -53554,8 +53554,8 @@ succumb loneliness entertainment haroset saturn earth
 1
 12 5
 2
-0 34 17 5
 0 33 1 0
+0 34 17 5
 1
 end_operator
 begin_operator
@@ -53563,8 +53563,8 @@ succumb loneliness entertainment haroset uranus saturn
 1
 12 5
 2
-0 34 17 5
 0 33 2 1
+0 34 17 5
 1
 end_operator
 begin_operator
@@ -53572,8 +53572,8 @@ succumb loneliness entertainment haroset vulcan uranus
 1
 12 5
 2
-0 34 17 5
 0 33 3 2
+0 34 17 5
 1
 end_operator
 begin_operator
@@ -53581,8 +53581,8 @@ succumb loneliness entertainment lamb saturn earth
 1
 12 6
 2
-0 34 17 6
 0 33 1 0
+0 34 17 6
 1
 end_operator
 begin_operator
@@ -53590,8 +53590,8 @@ succumb loneliness entertainment lamb uranus saturn
 1
 12 6
 2
-0 34 17 6
 0 33 2 1
+0 34 17 6
 1
 end_operator
 begin_operator
@@ -53599,8 +53599,8 @@ succumb loneliness entertainment lamb vulcan uranus
 1
 12 6
 2
-0 34 17 6
 0 33 3 2
+0 34 17 6
 1
 end_operator
 begin_operator
@@ -53608,8 +53608,8 @@ succumb loneliness entertainment lemon saturn earth
 1
 12 7
 2
-0 34 17 7
 0 33 1 0
+0 34 17 7
 1
 end_operator
 begin_operator
@@ -53617,8 +53617,8 @@ succumb loneliness entertainment lemon uranus saturn
 1
 12 7
 2
-0 34 17 7
 0 33 2 1
+0 34 17 7
 1
 end_operator
 begin_operator
@@ -53626,8 +53626,8 @@ succumb loneliness entertainment lemon vulcan uranus
 1
 12 7
 2
-0 34 17 7
 0 33 3 2
+0 34 17 7
 1
 end_operator
 begin_operator
@@ -53635,8 +53635,8 @@ succumb loneliness entertainment lobster saturn earth
 1
 12 8
 2
-0 34 17 8
 0 33 1 0
+0 34 17 8
 1
 end_operator
 begin_operator
@@ -53644,8 +53644,8 @@ succumb loneliness entertainment lobster uranus saturn
 1
 12 8
 2
-0 34 17 8
 0 33 2 1
+0 34 17 8
 1
 end_operator
 begin_operator
@@ -53653,8 +53653,8 @@ succumb loneliness entertainment lobster vulcan uranus
 1
 12 8
 2
-0 34 17 8
 0 33 3 2
+0 34 17 8
 1
 end_operator
 begin_operator
@@ -53662,8 +53662,8 @@ succumb loneliness entertainment marzipan saturn earth
 1
 12 9
 2
-0 34 17 9
 0 33 1 0
+0 34 17 9
 1
 end_operator
 begin_operator
@@ -53671,8 +53671,8 @@ succumb loneliness entertainment marzipan uranus saturn
 1
 12 9
 2
-0 34 17 9
 0 33 2 1
+0 34 17 9
 1
 end_operator
 begin_operator
@@ -53680,8 +53680,8 @@ succumb loneliness entertainment marzipan vulcan uranus
 1
 12 9
 2
-0 34 17 9
 0 33 3 2
+0 34 17 9
 1
 end_operator
 begin_operator
@@ -53689,8 +53689,8 @@ succumb loneliness entertainment onion saturn earth
 1
 12 10
 2
-0 34 17 11
 0 33 1 0
+0 34 17 11
 1
 end_operator
 begin_operator
@@ -53698,8 +53698,8 @@ succumb loneliness entertainment onion uranus saturn
 1
 12 10
 2
-0 34 17 11
 0 33 2 1
+0 34 17 11
 1
 end_operator
 begin_operator
@@ -53707,8 +53707,8 @@ succumb loneliness entertainment onion vulcan uranus
 1
 12 10
 2
-0 34 17 11
 0 33 3 2
+0 34 17 11
 1
 end_operator
 begin_operator
@@ -53716,8 +53716,8 @@ succumb loneliness entertainment tofu saturn earth
 1
 12 11
 2
-0 34 17 13
 0 33 1 0
+0 34 17 13
 1
 end_operator
 begin_operator
@@ -53725,8 +53725,8 @@ succumb loneliness entertainment tofu uranus saturn
 1
 12 11
 2
-0 34 17 13
 0 33 2 1
+0 34 17 13
 1
 end_operator
 begin_operator
@@ -53734,8 +53734,8 @@ succumb loneliness entertainment tofu vulcan uranus
 1
 12 11
 2
-0 34 17 13
 0 33 3 2
+0 34 17 13
 1
 end_operator
 begin_operator
@@ -53743,8 +53743,8 @@ succumb loneliness entertainment wonderbread saturn earth
 1
 12 12
 2
-0 34 17 14
 0 33 1 0
+0 34 17 14
 1
 end_operator
 begin_operator
@@ -53752,8 +53752,8 @@ succumb loneliness entertainment wonderbread uranus saturn
 1
 12 12
 2
-0 34 17 14
 0 33 2 1
+0 34 17 14
 1
 end_operator
 begin_operator
@@ -53761,8 +53761,8 @@ succumb loneliness entertainment wonderbread vulcan uranus
 1
 12 12
 2
-0 34 17 14
 0 33 3 2
+0 34 17 14
 1
 end_operator
 begin_operator
@@ -53770,8 +53770,8 @@ succumb loneliness expectation okra saturn earth
 1
 1 0
 2
-0 34 18 10
 0 20 1 0
+0 34 18 10
 1
 end_operator
 begin_operator
@@ -53779,8 +53779,8 @@ succumb loneliness expectation okra uranus saturn
 1
 1 0
 2
-0 34 18 10
 0 20 2 1
+0 34 18 10
 1
 end_operator
 begin_operator
@@ -53788,8 +53788,8 @@ succumb loneliness expectation okra vulcan uranus
 1
 1 0
 2
-0 34 18 10
 0 20 3 2
+0 34 18 10
 1
 end_operator
 begin_operator
@@ -53797,8 +53797,8 @@ succumb loneliness expectation onion saturn earth
 1
 1 1
 2
-0 34 18 11
 0 20 1 0
+0 34 18 11
 1
 end_operator
 begin_operator
@@ -53806,8 +53806,8 @@ succumb loneliness expectation onion uranus saturn
 1
 1 1
 2
-0 34 18 11
 0 20 2 1
+0 34 18 11
 1
 end_operator
 begin_operator
@@ -53815,8 +53815,8 @@ succumb loneliness expectation onion vulcan uranus
 1
 1 1
 2
-0 34 18 11
 0 20 3 2
+0 34 18 11
 1
 end_operator
 begin_operator
@@ -53824,8 +53824,8 @@ succumb loneliness expectation snickers saturn earth
 1
 1 2
 2
-0 34 18 12
 0 20 1 0
+0 34 18 12
 1
 end_operator
 begin_operator
@@ -53833,8 +53833,8 @@ succumb loneliness expectation snickers uranus saturn
 1
 1 2
 2
-0 34 18 12
 0 20 2 1
+0 34 18 12
 1
 end_operator
 begin_operator
@@ -53842,8 +53842,8 @@ succumb loneliness expectation snickers vulcan uranus
 1
 1 2
 2
-0 34 18 12
 0 20 3 2
+0 34 18 12
 1
 end_operator
 begin_operator
@@ -53851,8 +53851,8 @@ succumb loneliness expectation wonderbread saturn earth
 1
 1 3
 2
-0 34 18 14
 0 20 1 0
+0 34 18 14
 1
 end_operator
 begin_operator
@@ -53860,8 +53860,8 @@ succumb loneliness expectation wonderbread uranus saturn
 1
 1 3
 2
-0 34 18 14
 0 20 2 1
+0 34 18 14
 1
 end_operator
 begin_operator
@@ -53869,8 +53869,8 @@ succumb loneliness expectation wonderbread vulcan uranus
 1
 1 3
 2
-0 34 18 14
 0 20 3 2
+0 34 18 14
 1
 end_operator
 begin_operator
@@ -53878,8 +53878,8 @@ succumb loneliness learning okra saturn earth
 1
 2 0
 2
-0 34 19 10
 0 21 1 0
+0 34 19 10
 1
 end_operator
 begin_operator
@@ -53887,8 +53887,8 @@ succumb loneliness learning okra uranus saturn
 1
 2 0
 2
-0 34 19 10
 0 21 2 1
+0 34 19 10
 1
 end_operator
 begin_operator
@@ -53896,8 +53896,8 @@ succumb loneliness learning okra vulcan uranus
 1
 2 0
 2
-0 34 19 10
 0 21 3 2
+0 34 19 10
 1
 end_operator
 begin_operator
@@ -53905,8 +53905,8 @@ succumb loneliness learning onion saturn earth
 1
 2 1
 2
-0 34 19 11
 0 21 1 0
+0 34 19 11
 1
 end_operator
 begin_operator
@@ -53914,8 +53914,8 @@ succumb loneliness learning onion uranus saturn
 1
 2 1
 2
-0 34 19 11
 0 21 2 1
+0 34 19 11
 1
 end_operator
 begin_operator
@@ -53923,8 +53923,8 @@ succumb loneliness learning onion vulcan uranus
 1
 2 1
 2
-0 34 19 11
 0 21 3 2
+0 34 19 11
 1
 end_operator
 begin_operator
@@ -53932,8 +53932,8 @@ succumb loneliness learning snickers saturn earth
 1
 2 2
 2
-0 34 19 12
 0 21 1 0
+0 34 19 12
 1
 end_operator
 begin_operator
@@ -53941,8 +53941,8 @@ succumb loneliness learning snickers uranus saturn
 1
 2 2
 2
-0 34 19 12
 0 21 2 1
+0 34 19 12
 1
 end_operator
 begin_operator
@@ -53950,8 +53950,8 @@ succumb loneliness learning snickers vulcan uranus
 1
 2 2
 2
-0 34 19 12
 0 21 3 2
+0 34 19 12
 1
 end_operator
 begin_operator
@@ -53959,8 +53959,8 @@ succumb loneliness learning wonderbread saturn earth
 1
 2 3
 2
-0 34 19 14
 0 21 1 0
+0 34 19 14
 1
 end_operator
 begin_operator
@@ -53968,8 +53968,8 @@ succumb loneliness learning wonderbread uranus saturn
 1
 2 3
 2
-0 34 19 14
 0 21 2 1
+0 34 19 14
 1
 end_operator
 begin_operator
@@ -53977,8 +53977,8 @@ succumb loneliness learning wonderbread vulcan uranus
 1
 2 3
 2
-0 34 19 14
 0 21 3 2
+0 34 19 14
 1
 end_operator
 begin_operator
@@ -55038,24 +55038,24 @@ begin_operator
 succumb prostatitis achievement wonderbread saturn earth
 0
 2
-0 35 15 14
 0 19 1 0
+0 35 15 14
 1
 end_operator
 begin_operator
 succumb prostatitis achievement wonderbread uranus saturn
 0
 2
-0 35 15 14
 0 19 2 1
+0 35 15 14
 1
 end_operator
 begin_operator
 succumb prostatitis achievement wonderbread vulcan uranus
 0
 2
-0 35 15 14
 0 19 3 2
+0 35 15 14
 1
 end_operator
 begin_operator
@@ -55063,8 +55063,8 @@ succumb prostatitis aesthetics bacon saturn earth
 1
 10 0
 2
-0 35 16 0
 0 32 1 0
+0 35 16 0
 1
 end_operator
 begin_operator
@@ -55072,8 +55072,8 @@ succumb prostatitis aesthetics bacon uranus saturn
 1
 10 0
 2
-0 35 16 0
 0 32 2 1
+0 35 16 0
 1
 end_operator
 begin_operator
@@ -55081,8 +55081,8 @@ succumb prostatitis aesthetics bacon vulcan uranus
 1
 10 0
 2
-0 35 16 0
 0 32 3 2
+0 35 16 0
 1
 end_operator
 begin_operator
@@ -55090,8 +55090,8 @@ succumb prostatitis aesthetics beef saturn earth
 1
 10 1
 2
-0 35 16 1
 0 32 1 0
+0 35 16 1
 1
 end_operator
 begin_operator
@@ -55099,8 +55099,8 @@ succumb prostatitis aesthetics beef uranus saturn
 1
 10 1
 2
-0 35 16 1
 0 32 2 1
+0 35 16 1
 1
 end_operator
 begin_operator
@@ -55108,8 +55108,8 @@ succumb prostatitis aesthetics beef vulcan uranus
 1
 10 1
 2
-0 35 16 1
 0 32 3 2
+0 35 16 1
 1
 end_operator
 begin_operator
@@ -55117,8 +55117,8 @@ succumb prostatitis aesthetics cantelope saturn earth
 1
 10 2
 2
-0 35 16 2
 0 32 1 0
+0 35 16 2
 1
 end_operator
 begin_operator
@@ -55126,8 +55126,8 @@ succumb prostatitis aesthetics cantelope uranus saturn
 1
 10 2
 2
-0 35 16 2
 0 32 2 1
+0 35 16 2
 1
 end_operator
 begin_operator
@@ -55135,8 +55135,8 @@ succumb prostatitis aesthetics cantelope vulcan uranus
 1
 10 2
 2
-0 35 16 2
 0 32 3 2
+0 35 16 2
 1
 end_operator
 begin_operator
@@ -55144,8 +55144,8 @@ succumb prostatitis aesthetics flounder saturn earth
 1
 10 3
 2
-0 35 16 3
 0 32 1 0
+0 35 16 3
 1
 end_operator
 begin_operator
@@ -55153,8 +55153,8 @@ succumb prostatitis aesthetics flounder uranus saturn
 1
 10 3
 2
-0 35 16 3
 0 32 2 1
+0 35 16 3
 1
 end_operator
 begin_operator
@@ -55162,8 +55162,8 @@ succumb prostatitis aesthetics flounder vulcan uranus
 1
 10 3
 2
-0 35 16 3
 0 32 3 2
+0 35 16 3
 1
 end_operator
 begin_operator
@@ -55171,8 +55171,8 @@ succumb prostatitis aesthetics ham saturn earth
 1
 10 4
 2
-0 35 16 4
 0 32 1 0
+0 35 16 4
 1
 end_operator
 begin_operator
@@ -55180,8 +55180,8 @@ succumb prostatitis aesthetics ham uranus saturn
 1
 10 4
 2
-0 35 16 4
 0 32 2 1
+0 35 16 4
 1
 end_operator
 begin_operator
@@ -55189,8 +55189,8 @@ succumb prostatitis aesthetics ham vulcan uranus
 1
 10 4
 2
-0 35 16 4
 0 32 3 2
+0 35 16 4
 1
 end_operator
 begin_operator
@@ -55198,8 +55198,8 @@ succumb prostatitis aesthetics haroset saturn earth
 1
 10 5
 2
-0 35 16 5
 0 32 1 0
+0 35 16 5
 1
 end_operator
 begin_operator
@@ -55207,8 +55207,8 @@ succumb prostatitis aesthetics haroset uranus saturn
 1
 10 5
 2
-0 35 16 5
 0 32 2 1
+0 35 16 5
 1
 end_operator
 begin_operator
@@ -55216,8 +55216,8 @@ succumb prostatitis aesthetics haroset vulcan uranus
 1
 10 5
 2
-0 35 16 5
 0 32 3 2
+0 35 16 5
 1
 end_operator
 begin_operator
@@ -55225,8 +55225,8 @@ succumb prostatitis aesthetics lamb saturn earth
 1
 10 6
 2
-0 35 16 6
 0 32 1 0
+0 35 16 6
 1
 end_operator
 begin_operator
@@ -55234,8 +55234,8 @@ succumb prostatitis aesthetics lamb uranus saturn
 1
 10 6
 2
-0 35 16 6
 0 32 2 1
+0 35 16 6
 1
 end_operator
 begin_operator
@@ -55243,8 +55243,8 @@ succumb prostatitis aesthetics lamb vulcan uranus
 1
 10 6
 2
-0 35 16 6
 0 32 3 2
+0 35 16 6
 1
 end_operator
 begin_operator
@@ -55252,8 +55252,8 @@ succumb prostatitis aesthetics lemon saturn earth
 1
 10 7
 2
-0 35 16 7
 0 32 1 0
+0 35 16 7
 1
 end_operator
 begin_operator
@@ -55261,8 +55261,8 @@ succumb prostatitis aesthetics lemon uranus saturn
 1
 10 7
 2
-0 35 16 7
 0 32 2 1
+0 35 16 7
 1
 end_operator
 begin_operator
@@ -55270,8 +55270,8 @@ succumb prostatitis aesthetics lemon vulcan uranus
 1
 10 7
 2
-0 35 16 7
 0 32 3 2
+0 35 16 7
 1
 end_operator
 begin_operator
@@ -55279,8 +55279,8 @@ succumb prostatitis aesthetics lobster saturn earth
 1
 10 8
 2
-0 35 16 8
 0 32 1 0
+0 35 16 8
 1
 end_operator
 begin_operator
@@ -55288,8 +55288,8 @@ succumb prostatitis aesthetics lobster uranus saturn
 1
 10 8
 2
-0 35 16 8
 0 32 2 1
+0 35 16 8
 1
 end_operator
 begin_operator
@@ -55297,8 +55297,8 @@ succumb prostatitis aesthetics lobster vulcan uranus
 1
 10 8
 2
-0 35 16 8
 0 32 3 2
+0 35 16 8
 1
 end_operator
 begin_operator
@@ -55306,8 +55306,8 @@ succumb prostatitis aesthetics marzipan saturn earth
 1
 10 9
 2
-0 35 16 9
 0 32 1 0
+0 35 16 9
 1
 end_operator
 begin_operator
@@ -55315,8 +55315,8 @@ succumb prostatitis aesthetics marzipan uranus saturn
 1
 10 9
 2
-0 35 16 9
 0 32 2 1
+0 35 16 9
 1
 end_operator
 begin_operator
@@ -55324,8 +55324,8 @@ succumb prostatitis aesthetics marzipan vulcan uranus
 1
 10 9
 2
-0 35 16 9
 0 32 3 2
+0 35 16 9
 1
 end_operator
 begin_operator
@@ -55333,8 +55333,8 @@ succumb prostatitis aesthetics onion saturn earth
 1
 10 10
 2
-0 35 16 11
 0 32 1 0
+0 35 16 11
 1
 end_operator
 begin_operator
@@ -55342,8 +55342,8 @@ succumb prostatitis aesthetics onion uranus saturn
 1
 10 10
 2
-0 35 16 11
 0 32 2 1
+0 35 16 11
 1
 end_operator
 begin_operator
@@ -55351,8 +55351,8 @@ succumb prostatitis aesthetics onion vulcan uranus
 1
 10 10
 2
-0 35 16 11
 0 32 3 2
+0 35 16 11
 1
 end_operator
 begin_operator
@@ -55360,8 +55360,8 @@ succumb prostatitis aesthetics tofu saturn earth
 1
 10 11
 2
-0 35 16 13
 0 32 1 0
+0 35 16 13
 1
 end_operator
 begin_operator
@@ -55369,8 +55369,8 @@ succumb prostatitis aesthetics tofu uranus saturn
 1
 10 11
 2
-0 35 16 13
 0 32 2 1
+0 35 16 13
 1
 end_operator
 begin_operator
@@ -55378,8 +55378,8 @@ succumb prostatitis aesthetics tofu vulcan uranus
 1
 10 11
 2
-0 35 16 13
 0 32 3 2
+0 35 16 13
 1
 end_operator
 begin_operator
@@ -55387,8 +55387,8 @@ succumb prostatitis aesthetics wonderbread saturn earth
 1
 10 12
 2
-0 35 16 14
 0 32 1 0
+0 35 16 14
 1
 end_operator
 begin_operator
@@ -55396,8 +55396,8 @@ succumb prostatitis aesthetics wonderbread uranus saturn
 1
 10 12
 2
-0 35 16 14
 0 32 2 1
+0 35 16 14
 1
 end_operator
 begin_operator
@@ -55405,8 +55405,8 @@ succumb prostatitis aesthetics wonderbread vulcan uranus
 1
 10 12
 2
-0 35 16 14
 0 32 3 2
+0 35 16 14
 1
 end_operator
 begin_operator
@@ -55414,8 +55414,8 @@ succumb prostatitis entertainment bacon saturn earth
 1
 12 0
 2
-0 35 17 0
 0 33 1 0
+0 35 17 0
 1
 end_operator
 begin_operator
@@ -55423,8 +55423,8 @@ succumb prostatitis entertainment bacon uranus saturn
 1
 12 0
 2
-0 35 17 0
 0 33 2 1
+0 35 17 0
 1
 end_operator
 begin_operator
@@ -55432,8 +55432,8 @@ succumb prostatitis entertainment bacon vulcan uranus
 1
 12 0
 2
-0 35 17 0
 0 33 3 2
+0 35 17 0
 1
 end_operator
 begin_operator
@@ -55441,8 +55441,8 @@ succumb prostatitis entertainment beef saturn earth
 1
 12 1
 2
-0 35 17 1
 0 33 1 0
+0 35 17 1
 1
 end_operator
 begin_operator
@@ -55450,8 +55450,8 @@ succumb prostatitis entertainment beef uranus saturn
 1
 12 1
 2
-0 35 17 1
 0 33 2 1
+0 35 17 1
 1
 end_operator
 begin_operator
@@ -55459,8 +55459,8 @@ succumb prostatitis entertainment beef vulcan uranus
 1
 12 1
 2
-0 35 17 1
 0 33 3 2
+0 35 17 1
 1
 end_operator
 begin_operator
@@ -55468,8 +55468,8 @@ succumb prostatitis entertainment cantelope saturn earth
 1
 12 2
 2
-0 35 17 2
 0 33 1 0
+0 35 17 2
 1
 end_operator
 begin_operator
@@ -55477,8 +55477,8 @@ succumb prostatitis entertainment cantelope uranus saturn
 1
 12 2
 2
-0 35 17 2
 0 33 2 1
+0 35 17 2
 1
 end_operator
 begin_operator
@@ -55486,8 +55486,8 @@ succumb prostatitis entertainment cantelope vulcan uranus
 1
 12 2
 2
-0 35 17 2
 0 33 3 2
+0 35 17 2
 1
 end_operator
 begin_operator
@@ -55495,8 +55495,8 @@ succumb prostatitis entertainment flounder saturn earth
 1
 12 3
 2
-0 35 17 3
 0 33 1 0
+0 35 17 3
 1
 end_operator
 begin_operator
@@ -55504,8 +55504,8 @@ succumb prostatitis entertainment flounder uranus saturn
 1
 12 3
 2
-0 35 17 3
 0 33 2 1
+0 35 17 3
 1
 end_operator
 begin_operator
@@ -55513,8 +55513,8 @@ succumb prostatitis entertainment flounder vulcan uranus
 1
 12 3
 2
-0 35 17 3
 0 33 3 2
+0 35 17 3
 1
 end_operator
 begin_operator
@@ -55522,8 +55522,8 @@ succumb prostatitis entertainment ham saturn earth
 1
 12 4
 2
-0 35 17 4
 0 33 1 0
+0 35 17 4
 1
 end_operator
 begin_operator
@@ -55531,8 +55531,8 @@ succumb prostatitis entertainment ham uranus saturn
 1
 12 4
 2
-0 35 17 4
 0 33 2 1
+0 35 17 4
 1
 end_operator
 begin_operator
@@ -55540,8 +55540,8 @@ succumb prostatitis entertainment ham vulcan uranus
 1
 12 4
 2
-0 35 17 4
 0 33 3 2
+0 35 17 4
 1
 end_operator
 begin_operator
@@ -55549,8 +55549,8 @@ succumb prostatitis entertainment haroset saturn earth
 1
 12 5
 2
-0 35 17 5
 0 33 1 0
+0 35 17 5
 1
 end_operator
 begin_operator
@@ -55558,8 +55558,8 @@ succumb prostatitis entertainment haroset uranus saturn
 1
 12 5
 2
-0 35 17 5
 0 33 2 1
+0 35 17 5
 1
 end_operator
 begin_operator
@@ -55567,8 +55567,8 @@ succumb prostatitis entertainment haroset vulcan uranus
 1
 12 5
 2
-0 35 17 5
 0 33 3 2
+0 35 17 5
 1
 end_operator
 begin_operator
@@ -55576,8 +55576,8 @@ succumb prostatitis entertainment lamb saturn earth
 1
 12 6
 2
-0 35 17 6
 0 33 1 0
+0 35 17 6
 1
 end_operator
 begin_operator
@@ -55585,8 +55585,8 @@ succumb prostatitis entertainment lamb uranus saturn
 1
 12 6
 2
-0 35 17 6
 0 33 2 1
+0 35 17 6
 1
 end_operator
 begin_operator
@@ -55594,8 +55594,8 @@ succumb prostatitis entertainment lamb vulcan uranus
 1
 12 6
 2
-0 35 17 6
 0 33 3 2
+0 35 17 6
 1
 end_operator
 begin_operator
@@ -55603,8 +55603,8 @@ succumb prostatitis entertainment lemon saturn earth
 1
 12 7
 2
-0 35 17 7
 0 33 1 0
+0 35 17 7
 1
 end_operator
 begin_operator
@@ -55612,8 +55612,8 @@ succumb prostatitis entertainment lemon uranus saturn
 1
 12 7
 2
-0 35 17 7
 0 33 2 1
+0 35 17 7
 1
 end_operator
 begin_operator
@@ -55621,8 +55621,8 @@ succumb prostatitis entertainment lemon vulcan uranus
 1
 12 7
 2
-0 35 17 7
 0 33 3 2
+0 35 17 7
 1
 end_operator
 begin_operator
@@ -55630,8 +55630,8 @@ succumb prostatitis entertainment lobster saturn earth
 1
 12 8
 2
-0 35 17 8
 0 33 1 0
+0 35 17 8
 1
 end_operator
 begin_operator
@@ -55639,8 +55639,8 @@ succumb prostatitis entertainment lobster uranus saturn
 1
 12 8
 2
-0 35 17 8
 0 33 2 1
+0 35 17 8
 1
 end_operator
 begin_operator
@@ -55648,8 +55648,8 @@ succumb prostatitis entertainment lobster vulcan uranus
 1
 12 8
 2
-0 35 17 8
 0 33 3 2
+0 35 17 8
 1
 end_operator
 begin_operator
@@ -55657,8 +55657,8 @@ succumb prostatitis entertainment marzipan saturn earth
 1
 12 9
 2
-0 35 17 9
 0 33 1 0
+0 35 17 9
 1
 end_operator
 begin_operator
@@ -55666,8 +55666,8 @@ succumb prostatitis entertainment marzipan uranus saturn
 1
 12 9
 2
-0 35 17 9
 0 33 2 1
+0 35 17 9
 1
 end_operator
 begin_operator
@@ -55675,8 +55675,8 @@ succumb prostatitis entertainment marzipan vulcan uranus
 1
 12 9
 2
-0 35 17 9
 0 33 3 2
+0 35 17 9
 1
 end_operator
 begin_operator
@@ -55684,8 +55684,8 @@ succumb prostatitis entertainment onion saturn earth
 1
 12 10
 2
-0 35 17 11
 0 33 1 0
+0 35 17 11
 1
 end_operator
 begin_operator
@@ -55693,8 +55693,8 @@ succumb prostatitis entertainment onion uranus saturn
 1
 12 10
 2
-0 35 17 11
 0 33 2 1
+0 35 17 11
 1
 end_operator
 begin_operator
@@ -55702,8 +55702,8 @@ succumb prostatitis entertainment onion vulcan uranus
 1
 12 10
 2
-0 35 17 11
 0 33 3 2
+0 35 17 11
 1
 end_operator
 begin_operator
@@ -55711,8 +55711,8 @@ succumb prostatitis entertainment tofu saturn earth
 1
 12 11
 2
-0 35 17 13
 0 33 1 0
+0 35 17 13
 1
 end_operator
 begin_operator
@@ -55720,8 +55720,8 @@ succumb prostatitis entertainment tofu uranus saturn
 1
 12 11
 2
-0 35 17 13
 0 33 2 1
+0 35 17 13
 1
 end_operator
 begin_operator
@@ -55729,8 +55729,8 @@ succumb prostatitis entertainment tofu vulcan uranus
 1
 12 11
 2
-0 35 17 13
 0 33 3 2
+0 35 17 13
 1
 end_operator
 begin_operator
@@ -55738,8 +55738,8 @@ succumb prostatitis entertainment wonderbread saturn earth
 1
 12 12
 2
-0 35 17 14
 0 33 1 0
+0 35 17 14
 1
 end_operator
 begin_operator
@@ -55747,8 +55747,8 @@ succumb prostatitis entertainment wonderbread uranus saturn
 1
 12 12
 2
-0 35 17 14
 0 33 2 1
+0 35 17 14
 1
 end_operator
 begin_operator
@@ -55756,8 +55756,8 @@ succumb prostatitis entertainment wonderbread vulcan uranus
 1
 12 12
 2
-0 35 17 14
 0 33 3 2
+0 35 17 14
 1
 end_operator
 begin_operator
@@ -55765,8 +55765,8 @@ succumb prostatitis expectation okra saturn earth
 1
 1 0
 2
-0 35 18 10
 0 20 1 0
+0 35 18 10
 1
 end_operator
 begin_operator
@@ -55774,8 +55774,8 @@ succumb prostatitis expectation okra uranus saturn
 1
 1 0
 2
-0 35 18 10
 0 20 2 1
+0 35 18 10
 1
 end_operator
 begin_operator
@@ -55783,8 +55783,8 @@ succumb prostatitis expectation okra vulcan uranus
 1
 1 0
 2
-0 35 18 10
 0 20 3 2
+0 35 18 10
 1
 end_operator
 begin_operator
@@ -55792,8 +55792,8 @@ succumb prostatitis expectation onion saturn earth
 1
 1 1
 2
-0 35 18 11
 0 20 1 0
+0 35 18 11
 1
 end_operator
 begin_operator
@@ -55801,8 +55801,8 @@ succumb prostatitis expectation onion uranus saturn
 1
 1 1
 2
-0 35 18 11
 0 20 2 1
+0 35 18 11
 1
 end_operator
 begin_operator
@@ -55810,8 +55810,8 @@ succumb prostatitis expectation onion vulcan uranus
 1
 1 1
 2
-0 35 18 11
 0 20 3 2
+0 35 18 11
 1
 end_operator
 begin_operator
@@ -55819,8 +55819,8 @@ succumb prostatitis expectation snickers saturn earth
 1
 1 2
 2
-0 35 18 12
 0 20 1 0
+0 35 18 12
 1
 end_operator
 begin_operator
@@ -55828,8 +55828,8 @@ succumb prostatitis expectation snickers uranus saturn
 1
 1 2
 2
-0 35 18 12
 0 20 2 1
+0 35 18 12
 1
 end_operator
 begin_operator
@@ -55837,8 +55837,8 @@ succumb prostatitis expectation snickers vulcan uranus
 1
 1 2
 2
-0 35 18 12
 0 20 3 2
+0 35 18 12
 1
 end_operator
 begin_operator
@@ -55846,8 +55846,8 @@ succumb prostatitis expectation wonderbread saturn earth
 1
 1 3
 2
-0 35 18 14
 0 20 1 0
+0 35 18 14
 1
 end_operator
 begin_operator
@@ -55855,8 +55855,8 @@ succumb prostatitis expectation wonderbread uranus saturn
 1
 1 3
 2
-0 35 18 14
 0 20 2 1
+0 35 18 14
 1
 end_operator
 begin_operator
@@ -55864,8 +55864,8 @@ succumb prostatitis expectation wonderbread vulcan uranus
 1
 1 3
 2
-0 35 18 14
 0 20 3 2
+0 35 18 14
 1
 end_operator
 begin_operator
@@ -55873,8 +55873,8 @@ succumb prostatitis learning okra saturn earth
 1
 2 0
 2
-0 35 19 10
 0 21 1 0
+0 35 19 10
 1
 end_operator
 begin_operator
@@ -55882,8 +55882,8 @@ succumb prostatitis learning okra uranus saturn
 1
 2 0
 2
-0 35 19 10
 0 21 2 1
+0 35 19 10
 1
 end_operator
 begin_operator
@@ -55891,8 +55891,8 @@ succumb prostatitis learning okra vulcan uranus
 1
 2 0
 2
-0 35 19 10
 0 21 3 2
+0 35 19 10
 1
 end_operator
 begin_operator
@@ -55900,8 +55900,8 @@ succumb prostatitis learning onion saturn earth
 1
 2 1
 2
-0 35 19 11
 0 21 1 0
+0 35 19 11
 1
 end_operator
 begin_operator
@@ -55909,8 +55909,8 @@ succumb prostatitis learning onion uranus saturn
 1
 2 1
 2
-0 35 19 11
 0 21 2 1
+0 35 19 11
 1
 end_operator
 begin_operator
@@ -55918,8 +55918,8 @@ succumb prostatitis learning onion vulcan uranus
 1
 2 1
 2
-0 35 19 11
 0 21 3 2
+0 35 19 11
 1
 end_operator
 begin_operator
@@ -55927,8 +55927,8 @@ succumb prostatitis learning snickers saturn earth
 1
 2 2
 2
-0 35 19 12
 0 21 1 0
+0 35 19 12
 1
 end_operator
 begin_operator
@@ -55936,8 +55936,8 @@ succumb prostatitis learning snickers uranus saturn
 1
 2 2
 2
-0 35 19 12
 0 21 2 1
+0 35 19 12
 1
 end_operator
 begin_operator
@@ -55945,8 +55945,8 @@ succumb prostatitis learning snickers vulcan uranus
 1
 2 2
 2
-0 35 19 12
 0 21 3 2
+0 35 19 12
 1
 end_operator
 begin_operator
@@ -55954,8 +55954,8 @@ succumb prostatitis learning wonderbread saturn earth
 1
 2 3
 2
-0 35 19 14
 0 21 1 0
+0 35 19 14
 1
 end_operator
 begin_operator
@@ -55963,8 +55963,8 @@ succumb prostatitis learning wonderbread uranus saturn
 1
 2 3
 2
-0 35 19 14
 0 21 2 1
+0 35 19 14
 1
 end_operator
 begin_operator
@@ -55972,8 +55972,8 @@ succumb prostatitis learning wonderbread vulcan uranus
 1
 2 3
 2
-0 35 19 14
 0 21 3 2
+0 35 19 14
 1
 end_operator
 begin_operator
@@ -57033,24 +57033,24 @@ begin_operator
 succumb sciatica achievement wonderbread saturn earth
 0
 2
-0 38 15 14
 0 19 1 0
+0 38 15 14
 1
 end_operator
 begin_operator
 succumb sciatica achievement wonderbread uranus saturn
 0
 2
-0 38 15 14
 0 19 2 1
+0 38 15 14
 1
 end_operator
 begin_operator
 succumb sciatica achievement wonderbread vulcan uranus
 0
 2
-0 38 15 14
 0 19 3 2
+0 38 15 14
 1
 end_operator
 begin_operator
@@ -57058,8 +57058,8 @@ succumb sciatica aesthetics bacon saturn earth
 1
 10 0
 2
-0 38 16 0
 0 32 1 0
+0 38 16 0
 1
 end_operator
 begin_operator
@@ -57067,8 +57067,8 @@ succumb sciatica aesthetics bacon uranus saturn
 1
 10 0
 2
-0 38 16 0
 0 32 2 1
+0 38 16 0
 1
 end_operator
 begin_operator
@@ -57076,8 +57076,8 @@ succumb sciatica aesthetics bacon vulcan uranus
 1
 10 0
 2
-0 38 16 0
 0 32 3 2
+0 38 16 0
 1
 end_operator
 begin_operator
@@ -57085,8 +57085,8 @@ succumb sciatica aesthetics beef saturn earth
 1
 10 1
 2
-0 38 16 1
 0 32 1 0
+0 38 16 1
 1
 end_operator
 begin_operator
@@ -57094,8 +57094,8 @@ succumb sciatica aesthetics beef uranus saturn
 1
 10 1
 2
-0 38 16 1
 0 32 2 1
+0 38 16 1
 1
 end_operator
 begin_operator
@@ -57103,8 +57103,8 @@ succumb sciatica aesthetics beef vulcan uranus
 1
 10 1
 2
-0 38 16 1
 0 32 3 2
+0 38 16 1
 1
 end_operator
 begin_operator
@@ -57112,8 +57112,8 @@ succumb sciatica aesthetics cantelope saturn earth
 1
 10 2
 2
-0 38 16 2
 0 32 1 0
+0 38 16 2
 1
 end_operator
 begin_operator
@@ -57121,8 +57121,8 @@ succumb sciatica aesthetics cantelope uranus saturn
 1
 10 2
 2
-0 38 16 2
 0 32 2 1
+0 38 16 2
 1
 end_operator
 begin_operator
@@ -57130,8 +57130,8 @@ succumb sciatica aesthetics cantelope vulcan uranus
 1
 10 2
 2
-0 38 16 2
 0 32 3 2
+0 38 16 2
 1
 end_operator
 begin_operator
@@ -57139,8 +57139,8 @@ succumb sciatica aesthetics flounder saturn earth
 1
 10 3
 2
-0 38 16 3
 0 32 1 0
+0 38 16 3
 1
 end_operator
 begin_operator
@@ -57148,8 +57148,8 @@ succumb sciatica aesthetics flounder uranus saturn
 1
 10 3
 2
-0 38 16 3
 0 32 2 1
+0 38 16 3
 1
 end_operator
 begin_operator
@@ -57157,8 +57157,8 @@ succumb sciatica aesthetics flounder vulcan uranus
 1
 10 3
 2
-0 38 16 3
 0 32 3 2
+0 38 16 3
 1
 end_operator
 begin_operator
@@ -57166,8 +57166,8 @@ succumb sciatica aesthetics ham saturn earth
 1
 10 4
 2
-0 38 16 4
 0 32 1 0
+0 38 16 4
 1
 end_operator
 begin_operator
@@ -57175,8 +57175,8 @@ succumb sciatica aesthetics ham uranus saturn
 1
 10 4
 2
-0 38 16 4
 0 32 2 1
+0 38 16 4
 1
 end_operator
 begin_operator
@@ -57184,8 +57184,8 @@ succumb sciatica aesthetics ham vulcan uranus
 1
 10 4
 2
-0 38 16 4
 0 32 3 2
+0 38 16 4
 1
 end_operator
 begin_operator
@@ -57193,8 +57193,8 @@ succumb sciatica aesthetics haroset saturn earth
 1
 10 5
 2
-0 38 16 5
 0 32 1 0
+0 38 16 5
 1
 end_operator
 begin_operator
@@ -57202,8 +57202,8 @@ succumb sciatica aesthetics haroset uranus saturn
 1
 10 5
 2
-0 38 16 5
 0 32 2 1
+0 38 16 5
 1
 end_operator
 begin_operator
@@ -57211,8 +57211,8 @@ succumb sciatica aesthetics haroset vulcan uranus
 1
 10 5
 2
-0 38 16 5
 0 32 3 2
+0 38 16 5
 1
 end_operator
 begin_operator
@@ -57220,8 +57220,8 @@ succumb sciatica aesthetics lamb saturn earth
 1
 10 6
 2
-0 38 16 6
 0 32 1 0
+0 38 16 6
 1
 end_operator
 begin_operator
@@ -57229,8 +57229,8 @@ succumb sciatica aesthetics lamb uranus saturn
 1
 10 6
 2
-0 38 16 6
 0 32 2 1
+0 38 16 6
 1
 end_operator
 begin_operator
@@ -57238,8 +57238,8 @@ succumb sciatica aesthetics lamb vulcan uranus
 1
 10 6
 2
-0 38 16 6
 0 32 3 2
+0 38 16 6
 1
 end_operator
 begin_operator
@@ -57247,8 +57247,8 @@ succumb sciatica aesthetics lemon saturn earth
 1
 10 7
 2
-0 38 16 7
 0 32 1 0
+0 38 16 7
 1
 end_operator
 begin_operator
@@ -57256,8 +57256,8 @@ succumb sciatica aesthetics lemon uranus saturn
 1
 10 7
 2
-0 38 16 7
 0 32 2 1
+0 38 16 7
 1
 end_operator
 begin_operator
@@ -57265,8 +57265,8 @@ succumb sciatica aesthetics lemon vulcan uranus
 1
 10 7
 2
-0 38 16 7
 0 32 3 2
+0 38 16 7
 1
 end_operator
 begin_operator
@@ -57274,8 +57274,8 @@ succumb sciatica aesthetics lobster saturn earth
 1
 10 8
 2
-0 38 16 8
 0 32 1 0
+0 38 16 8
 1
 end_operator
 begin_operator
@@ -57283,8 +57283,8 @@ succumb sciatica aesthetics lobster uranus saturn
 1
 10 8
 2
-0 38 16 8
 0 32 2 1
+0 38 16 8
 1
 end_operator
 begin_operator
@@ -57292,8 +57292,8 @@ succumb sciatica aesthetics lobster vulcan uranus
 1
 10 8
 2
-0 38 16 8
 0 32 3 2
+0 38 16 8
 1
 end_operator
 begin_operator
@@ -57301,8 +57301,8 @@ succumb sciatica aesthetics marzipan saturn earth
 1
 10 9
 2
-0 38 16 9
 0 32 1 0
+0 38 16 9
 1
 end_operator
 begin_operator
@@ -57310,8 +57310,8 @@ succumb sciatica aesthetics marzipan uranus saturn
 1
 10 9
 2
-0 38 16 9
 0 32 2 1
+0 38 16 9
 1
 end_operator
 begin_operator
@@ -57319,8 +57319,8 @@ succumb sciatica aesthetics marzipan vulcan uranus
 1
 10 9
 2
-0 38 16 9
 0 32 3 2
+0 38 16 9
 1
 end_operator
 begin_operator
@@ -57328,8 +57328,8 @@ succumb sciatica aesthetics onion saturn earth
 1
 10 10
 2
-0 38 16 11
 0 32 1 0
+0 38 16 11
 1
 end_operator
 begin_operator
@@ -57337,8 +57337,8 @@ succumb sciatica aesthetics onion uranus saturn
 1
 10 10
 2
-0 38 16 11
 0 32 2 1
+0 38 16 11
 1
 end_operator
 begin_operator
@@ -57346,8 +57346,8 @@ succumb sciatica aesthetics onion vulcan uranus
 1
 10 10
 2
-0 38 16 11
 0 32 3 2
+0 38 16 11
 1
 end_operator
 begin_operator
@@ -57355,8 +57355,8 @@ succumb sciatica aesthetics tofu saturn earth
 1
 10 11
 2
-0 38 16 13
 0 32 1 0
+0 38 16 13
 1
 end_operator
 begin_operator
@@ -57364,8 +57364,8 @@ succumb sciatica aesthetics tofu uranus saturn
 1
 10 11
 2
-0 38 16 13
 0 32 2 1
+0 38 16 13
 1
 end_operator
 begin_operator
@@ -57373,8 +57373,8 @@ succumb sciatica aesthetics tofu vulcan uranus
 1
 10 11
 2
-0 38 16 13
 0 32 3 2
+0 38 16 13
 1
 end_operator
 begin_operator
@@ -57382,8 +57382,8 @@ succumb sciatica aesthetics wonderbread saturn earth
 1
 10 12
 2
-0 38 16 14
 0 32 1 0
+0 38 16 14
 1
 end_operator
 begin_operator
@@ -57391,8 +57391,8 @@ succumb sciatica aesthetics wonderbread uranus saturn
 1
 10 12
 2
-0 38 16 14
 0 32 2 1
+0 38 16 14
 1
 end_operator
 begin_operator
@@ -57400,8 +57400,8 @@ succumb sciatica aesthetics wonderbread vulcan uranus
 1
 10 12
 2
-0 38 16 14
 0 32 3 2
+0 38 16 14
 1
 end_operator
 begin_operator
@@ -57409,8 +57409,8 @@ succumb sciatica entertainment bacon saturn earth
 1
 12 0
 2
-0 38 17 0
 0 33 1 0
+0 38 17 0
 1
 end_operator
 begin_operator
@@ -57418,8 +57418,8 @@ succumb sciatica entertainment bacon uranus saturn
 1
 12 0
 2
-0 38 17 0
 0 33 2 1
+0 38 17 0
 1
 end_operator
 begin_operator
@@ -57427,8 +57427,8 @@ succumb sciatica entertainment bacon vulcan uranus
 1
 12 0
 2
-0 38 17 0
 0 33 3 2
+0 38 17 0
 1
 end_operator
 begin_operator
@@ -57436,8 +57436,8 @@ succumb sciatica entertainment beef saturn earth
 1
 12 1
 2
-0 38 17 1
 0 33 1 0
+0 38 17 1
 1
 end_operator
 begin_operator
@@ -57445,8 +57445,8 @@ succumb sciatica entertainment beef uranus saturn
 1
 12 1
 2
-0 38 17 1
 0 33 2 1
+0 38 17 1
 1
 end_operator
 begin_operator
@@ -57454,8 +57454,8 @@ succumb sciatica entertainment beef vulcan uranus
 1
 12 1
 2
-0 38 17 1
 0 33 3 2
+0 38 17 1
 1
 end_operator
 begin_operator
@@ -57463,8 +57463,8 @@ succumb sciatica entertainment cantelope saturn earth
 1
 12 2
 2
-0 38 17 2
 0 33 1 0
+0 38 17 2
 1
 end_operator
 begin_operator
@@ -57472,8 +57472,8 @@ succumb sciatica entertainment cantelope uranus saturn
 1
 12 2
 2
-0 38 17 2
 0 33 2 1
+0 38 17 2
 1
 end_operator
 begin_operator
@@ -57481,8 +57481,8 @@ succumb sciatica entertainment cantelope vulcan uranus
 1
 12 2
 2
-0 38 17 2
 0 33 3 2
+0 38 17 2
 1
 end_operator
 begin_operator
@@ -57490,8 +57490,8 @@ succumb sciatica entertainment flounder saturn earth
 1
 12 3
 2
-0 38 17 3
 0 33 1 0
+0 38 17 3
 1
 end_operator
 begin_operator
@@ -57499,8 +57499,8 @@ succumb sciatica entertainment flounder uranus saturn
 1
 12 3
 2
-0 38 17 3
 0 33 2 1
+0 38 17 3
 1
 end_operator
 begin_operator
@@ -57508,8 +57508,8 @@ succumb sciatica entertainment flounder vulcan uranus
 1
 12 3
 2
-0 38 17 3
 0 33 3 2
+0 38 17 3
 1
 end_operator
 begin_operator
@@ -57517,8 +57517,8 @@ succumb sciatica entertainment ham saturn earth
 1
 12 4
 2
-0 38 17 4
 0 33 1 0
+0 38 17 4
 1
 end_operator
 begin_operator
@@ -57526,8 +57526,8 @@ succumb sciatica entertainment ham uranus saturn
 1
 12 4
 2
-0 38 17 4
 0 33 2 1
+0 38 17 4
 1
 end_operator
 begin_operator
@@ -57535,8 +57535,8 @@ succumb sciatica entertainment ham vulcan uranus
 1
 12 4
 2
-0 38 17 4
 0 33 3 2
+0 38 17 4
 1
 end_operator
 begin_operator
@@ -57544,8 +57544,8 @@ succumb sciatica entertainment haroset saturn earth
 1
 12 5
 2
-0 38 17 5
 0 33 1 0
+0 38 17 5
 1
 end_operator
 begin_operator
@@ -57553,8 +57553,8 @@ succumb sciatica entertainment haroset uranus saturn
 1
 12 5
 2
-0 38 17 5
 0 33 2 1
+0 38 17 5
 1
 end_operator
 begin_operator
@@ -57562,8 +57562,8 @@ succumb sciatica entertainment haroset vulcan uranus
 1
 12 5
 2
-0 38 17 5
 0 33 3 2
+0 38 17 5
 1
 end_operator
 begin_operator
@@ -57571,8 +57571,8 @@ succumb sciatica entertainment lamb saturn earth
 1
 12 6
 2
-0 38 17 6
 0 33 1 0
+0 38 17 6
 1
 end_operator
 begin_operator
@@ -57580,8 +57580,8 @@ succumb sciatica entertainment lamb uranus saturn
 1
 12 6
 2
-0 38 17 6
 0 33 2 1
+0 38 17 6
 1
 end_operator
 begin_operator
@@ -57589,8 +57589,8 @@ succumb sciatica entertainment lamb vulcan uranus
 1
 12 6
 2
-0 38 17 6
 0 33 3 2
+0 38 17 6
 1
 end_operator
 begin_operator
@@ -57598,8 +57598,8 @@ succumb sciatica entertainment lemon saturn earth
 1
 12 7
 2
-0 38 17 7
 0 33 1 0
+0 38 17 7
 1
 end_operator
 begin_operator
@@ -57607,8 +57607,8 @@ succumb sciatica entertainment lemon uranus saturn
 1
 12 7
 2
-0 38 17 7
 0 33 2 1
+0 38 17 7
 1
 end_operator
 begin_operator
@@ -57616,8 +57616,8 @@ succumb sciatica entertainment lemon vulcan uranus
 1
 12 7
 2
-0 38 17 7
 0 33 3 2
+0 38 17 7
 1
 end_operator
 begin_operator
@@ -57625,8 +57625,8 @@ succumb sciatica entertainment lobster saturn earth
 1
 12 8
 2
-0 38 17 8
 0 33 1 0
+0 38 17 8
 1
 end_operator
 begin_operator
@@ -57634,8 +57634,8 @@ succumb sciatica entertainment lobster uranus saturn
 1
 12 8
 2
-0 38 17 8
 0 33 2 1
+0 38 17 8
 1
 end_operator
 begin_operator
@@ -57643,8 +57643,8 @@ succumb sciatica entertainment lobster vulcan uranus
 1
 12 8
 2
-0 38 17 8
 0 33 3 2
+0 38 17 8
 1
 end_operator
 begin_operator
@@ -57652,8 +57652,8 @@ succumb sciatica entertainment marzipan saturn earth
 1
 12 9
 2
-0 38 17 9
 0 33 1 0
+0 38 17 9
 1
 end_operator
 begin_operator
@@ -57661,8 +57661,8 @@ succumb sciatica entertainment marzipan uranus saturn
 1
 12 9
 2
-0 38 17 9
 0 33 2 1
+0 38 17 9
 1
 end_operator
 begin_operator
@@ -57670,8 +57670,8 @@ succumb sciatica entertainment marzipan vulcan uranus
 1
 12 9
 2
-0 38 17 9
 0 33 3 2
+0 38 17 9
 1
 end_operator
 begin_operator
@@ -57679,8 +57679,8 @@ succumb sciatica entertainment onion saturn earth
 1
 12 10
 2
-0 38 17 11
 0 33 1 0
+0 38 17 11
 1
 end_operator
 begin_operator
@@ -57688,8 +57688,8 @@ succumb sciatica entertainment onion uranus saturn
 1
 12 10
 2
-0 38 17 11
 0 33 2 1
+0 38 17 11
 1
 end_operator
 begin_operator
@@ -57697,8 +57697,8 @@ succumb sciatica entertainment onion vulcan uranus
 1
 12 10
 2
-0 38 17 11
 0 33 3 2
+0 38 17 11
 1
 end_operator
 begin_operator
@@ -57706,8 +57706,8 @@ succumb sciatica entertainment tofu saturn earth
 1
 12 11
 2
-0 38 17 13
 0 33 1 0
+0 38 17 13
 1
 end_operator
 begin_operator
@@ -57715,8 +57715,8 @@ succumb sciatica entertainment tofu uranus saturn
 1
 12 11
 2
-0 38 17 13
 0 33 2 1
+0 38 17 13
 1
 end_operator
 begin_operator
@@ -57724,8 +57724,8 @@ succumb sciatica entertainment tofu vulcan uranus
 1
 12 11
 2
-0 38 17 13
 0 33 3 2
+0 38 17 13
 1
 end_operator
 begin_operator
@@ -57733,8 +57733,8 @@ succumb sciatica entertainment wonderbread saturn earth
 1
 12 12
 2
-0 38 17 14
 0 33 1 0
+0 38 17 14
 1
 end_operator
 begin_operator
@@ -57742,8 +57742,8 @@ succumb sciatica entertainment wonderbread uranus saturn
 1
 12 12
 2
-0 38 17 14
 0 33 2 1
+0 38 17 14
 1
 end_operator
 begin_operator
@@ -57751,8 +57751,8 @@ succumb sciatica entertainment wonderbread vulcan uranus
 1
 12 12
 2
-0 38 17 14
 0 33 3 2
+0 38 17 14
 1
 end_operator
 begin_operator
@@ -57760,8 +57760,8 @@ succumb sciatica expectation okra saturn earth
 1
 1 0
 2
-0 38 18 10
 0 20 1 0
+0 38 18 10
 1
 end_operator
 begin_operator
@@ -57769,8 +57769,8 @@ succumb sciatica expectation okra uranus saturn
 1
 1 0
 2
-0 38 18 10
 0 20 2 1
+0 38 18 10
 1
 end_operator
 begin_operator
@@ -57778,8 +57778,8 @@ succumb sciatica expectation okra vulcan uranus
 1
 1 0
 2
-0 38 18 10
 0 20 3 2
+0 38 18 10
 1
 end_operator
 begin_operator
@@ -57787,8 +57787,8 @@ succumb sciatica expectation onion saturn earth
 1
 1 1
 2
-0 38 18 11
 0 20 1 0
+0 38 18 11
 1
 end_operator
 begin_operator
@@ -57796,8 +57796,8 @@ succumb sciatica expectation onion uranus saturn
 1
 1 1
 2
-0 38 18 11
 0 20 2 1
+0 38 18 11
 1
 end_operator
 begin_operator
@@ -57805,8 +57805,8 @@ succumb sciatica expectation onion vulcan uranus
 1
 1 1
 2
-0 38 18 11
 0 20 3 2
+0 38 18 11
 1
 end_operator
 begin_operator
@@ -57814,8 +57814,8 @@ succumb sciatica expectation snickers saturn earth
 1
 1 2
 2
-0 38 18 12
 0 20 1 0
+0 38 18 12
 1
 end_operator
 begin_operator
@@ -57823,8 +57823,8 @@ succumb sciatica expectation snickers uranus saturn
 1
 1 2
 2
-0 38 18 12
 0 20 2 1
+0 38 18 12
 1
 end_operator
 begin_operator
@@ -57832,8 +57832,8 @@ succumb sciatica expectation snickers vulcan uranus
 1
 1 2
 2
-0 38 18 12
 0 20 3 2
+0 38 18 12
 1
 end_operator
 begin_operator
@@ -57841,8 +57841,8 @@ succumb sciatica expectation wonderbread saturn earth
 1
 1 3
 2
-0 38 18 14
 0 20 1 0
+0 38 18 14
 1
 end_operator
 begin_operator
@@ -57850,8 +57850,8 @@ succumb sciatica expectation wonderbread uranus saturn
 1
 1 3
 2
-0 38 18 14
 0 20 2 1
+0 38 18 14
 1
 end_operator
 begin_operator
@@ -57859,8 +57859,8 @@ succumb sciatica expectation wonderbread vulcan uranus
 1
 1 3
 2
-0 38 18 14
 0 20 3 2
+0 38 18 14
 1
 end_operator
 begin_operator
@@ -57868,8 +57868,8 @@ succumb sciatica learning okra saturn earth
 1
 2 0
 2
-0 38 19 10
 0 21 1 0
+0 38 19 10
 1
 end_operator
 begin_operator
@@ -57877,8 +57877,8 @@ succumb sciatica learning okra uranus saturn
 1
 2 0
 2
-0 38 19 10
 0 21 2 1
+0 38 19 10
 1
 end_operator
 begin_operator
@@ -57886,8 +57886,8 @@ succumb sciatica learning okra vulcan uranus
 1
 2 0
 2
-0 38 19 10
 0 21 3 2
+0 38 19 10
 1
 end_operator
 begin_operator
@@ -57895,8 +57895,8 @@ succumb sciatica learning onion saturn earth
 1
 2 1
 2
-0 38 19 11
 0 21 1 0
+0 38 19 11
 1
 end_operator
 begin_operator
@@ -57904,8 +57904,8 @@ succumb sciatica learning onion uranus saturn
 1
 2 1
 2
-0 38 19 11
 0 21 2 1
+0 38 19 11
 1
 end_operator
 begin_operator
@@ -57913,8 +57913,8 @@ succumb sciatica learning onion vulcan uranus
 1
 2 1
 2
-0 38 19 11
 0 21 3 2
+0 38 19 11
 1
 end_operator
 begin_operator
@@ -57922,8 +57922,8 @@ succumb sciatica learning snickers saturn earth
 1
 2 2
 2
-0 38 19 12
 0 21 1 0
+0 38 19 12
 1
 end_operator
 begin_operator
@@ -57931,8 +57931,8 @@ succumb sciatica learning snickers uranus saturn
 1
 2 2
 2
-0 38 19 12
 0 21 2 1
+0 38 19 12
 1
 end_operator
 begin_operator
@@ -57940,8 +57940,8 @@ succumb sciatica learning snickers vulcan uranus
 1
 2 2
 2
-0 38 19 12
 0 21 3 2
+0 38 19 12
 1
 end_operator
 begin_operator
@@ -57949,8 +57949,8 @@ succumb sciatica learning wonderbread saturn earth
 1
 2 3
 2
-0 38 19 14
 0 21 1 0
+0 38 19 14
 1
 end_operator
 begin_operator
@@ -57958,8 +57958,8 @@ succumb sciatica learning wonderbread uranus saturn
 1
 2 3
 2
-0 38 19 14
 0 21 2 1
+0 38 19 14
 1
 end_operator
 begin_operator
@@ -57967,8 +57967,8 @@ succumb sciatica learning wonderbread vulcan uranus
 1
 2 3
 2
-0 38 19 14
 0 21 3 2
+0 38 19 14
 1
 end_operator
 begin_operator
@@ -57976,8 +57976,8 @@ succumb sciatica love bacon saturn earth
 1
 14 0
 2
-0 38 20 0
 0 36 1 0
+0 38 20 0
 1
 end_operator
 begin_operator
@@ -57985,8 +57985,8 @@ succumb sciatica love bacon uranus saturn
 1
 14 0
 2
-0 38 20 0
 0 36 2 1
+0 38 20 0
 1
 end_operator
 begin_operator
@@ -57994,8 +57994,8 @@ succumb sciatica love bacon vulcan uranus
 1
 14 0
 2
-0 38 20 0
 0 36 3 2
+0 38 20 0
 1
 end_operator
 begin_operator
@@ -58003,8 +58003,8 @@ succumb sciatica love beef saturn earth
 1
 14 1
 2
-0 38 20 1
 0 36 1 0
+0 38 20 1
 1
 end_operator
 begin_operator
@@ -58012,8 +58012,8 @@ succumb sciatica love beef uranus saturn
 1
 14 1
 2
-0 38 20 1
 0 36 2 1
+0 38 20 1
 1
 end_operator
 begin_operator
@@ -58021,8 +58021,8 @@ succumb sciatica love beef vulcan uranus
 1
 14 1
 2
-0 38 20 1
 0 36 3 2
+0 38 20 1
 1
 end_operator
 begin_operator
@@ -58030,8 +58030,8 @@ succumb sciatica love cantelope saturn earth
 1
 14 2
 2
-0 38 20 2
 0 36 1 0
+0 38 20 2
 1
 end_operator
 begin_operator
@@ -58039,8 +58039,8 @@ succumb sciatica love cantelope uranus saturn
 1
 14 2
 2
-0 38 20 2
 0 36 2 1
+0 38 20 2
 1
 end_operator
 begin_operator
@@ -58048,8 +58048,8 @@ succumb sciatica love cantelope vulcan uranus
 1
 14 2
 2
-0 38 20 2
 0 36 3 2
+0 38 20 2
 1
 end_operator
 begin_operator
@@ -58057,8 +58057,8 @@ succumb sciatica love flounder saturn earth
 1
 14 3
 2
-0 38 20 3
 0 36 1 0
+0 38 20 3
 1
 end_operator
 begin_operator
@@ -58066,8 +58066,8 @@ succumb sciatica love flounder uranus saturn
 1
 14 3
 2
-0 38 20 3
 0 36 2 1
+0 38 20 3
 1
 end_operator
 begin_operator
@@ -58075,8 +58075,8 @@ succumb sciatica love flounder vulcan uranus
 1
 14 3
 2
-0 38 20 3
 0 36 3 2
+0 38 20 3
 1
 end_operator
 begin_operator
@@ -58084,8 +58084,8 @@ succumb sciatica love ham saturn earth
 1
 14 4
 2
-0 38 20 4
 0 36 1 0
+0 38 20 4
 1
 end_operator
 begin_operator
@@ -58093,8 +58093,8 @@ succumb sciatica love ham uranus saturn
 1
 14 4
 2
-0 38 20 4
 0 36 2 1
+0 38 20 4
 1
 end_operator
 begin_operator
@@ -58102,8 +58102,8 @@ succumb sciatica love ham vulcan uranus
 1
 14 4
 2
-0 38 20 4
 0 36 3 2
+0 38 20 4
 1
 end_operator
 begin_operator
@@ -58111,8 +58111,8 @@ succumb sciatica love haroset saturn earth
 1
 14 5
 2
-0 38 20 5
 0 36 1 0
+0 38 20 5
 1
 end_operator
 begin_operator
@@ -58120,8 +58120,8 @@ succumb sciatica love haroset uranus saturn
 1
 14 5
 2
-0 38 20 5
 0 36 2 1
+0 38 20 5
 1
 end_operator
 begin_operator
@@ -58129,8 +58129,8 @@ succumb sciatica love haroset vulcan uranus
 1
 14 5
 2
-0 38 20 5
 0 36 3 2
+0 38 20 5
 1
 end_operator
 begin_operator
@@ -58138,8 +58138,8 @@ succumb sciatica love lamb saturn earth
 1
 14 6
 2
-0 38 20 6
 0 36 1 0
+0 38 20 6
 1
 end_operator
 begin_operator
@@ -58147,8 +58147,8 @@ succumb sciatica love lamb uranus saturn
 1
 14 6
 2
-0 38 20 6
 0 36 2 1
+0 38 20 6
 1
 end_operator
 begin_operator
@@ -58156,8 +58156,8 @@ succumb sciatica love lamb vulcan uranus
 1
 14 6
 2
-0 38 20 6
 0 36 3 2
+0 38 20 6
 1
 end_operator
 begin_operator
@@ -58165,8 +58165,8 @@ succumb sciatica love lemon saturn earth
 1
 14 7
 2
-0 38 20 7
 0 36 1 0
+0 38 20 7
 1
 end_operator
 begin_operator
@@ -58174,8 +58174,8 @@ succumb sciatica love lemon uranus saturn
 1
 14 7
 2
-0 38 20 7
 0 36 2 1
+0 38 20 7
 1
 end_operator
 begin_operator
@@ -58183,8 +58183,8 @@ succumb sciatica love lemon vulcan uranus
 1
 14 7
 2
-0 38 20 7
 0 36 3 2
+0 38 20 7
 1
 end_operator
 begin_operator
@@ -58192,8 +58192,8 @@ succumb sciatica love lobster saturn earth
 1
 14 8
 2
-0 38 20 8
 0 36 1 0
+0 38 20 8
 1
 end_operator
 begin_operator
@@ -58201,8 +58201,8 @@ succumb sciatica love lobster uranus saturn
 1
 14 8
 2
-0 38 20 8
 0 36 2 1
+0 38 20 8
 1
 end_operator
 begin_operator
@@ -58210,8 +58210,8 @@ succumb sciatica love lobster vulcan uranus
 1
 14 8
 2
-0 38 20 8
 0 36 3 2
+0 38 20 8
 1
 end_operator
 begin_operator
@@ -58219,8 +58219,8 @@ succumb sciatica love marzipan saturn earth
 1
 14 9
 2
-0 38 20 9
 0 36 1 0
+0 38 20 9
 1
 end_operator
 begin_operator
@@ -58228,8 +58228,8 @@ succumb sciatica love marzipan uranus saturn
 1
 14 9
 2
-0 38 20 9
 0 36 2 1
+0 38 20 9
 1
 end_operator
 begin_operator
@@ -58237,8 +58237,8 @@ succumb sciatica love marzipan vulcan uranus
 1
 14 9
 2
-0 38 20 9
 0 36 3 2
+0 38 20 9
 1
 end_operator
 begin_operator
@@ -58246,8 +58246,8 @@ succumb sciatica love onion saturn earth
 1
 14 10
 2
-0 38 20 11
 0 36 1 0
+0 38 20 11
 1
 end_operator
 begin_operator
@@ -58255,8 +58255,8 @@ succumb sciatica love onion uranus saturn
 1
 14 10
 2
-0 38 20 11
 0 36 2 1
+0 38 20 11
 1
 end_operator
 begin_operator
@@ -58264,8 +58264,8 @@ succumb sciatica love onion vulcan uranus
 1
 14 10
 2
-0 38 20 11
 0 36 3 2
+0 38 20 11
 1
 end_operator
 begin_operator
@@ -58273,8 +58273,8 @@ succumb sciatica love tofu saturn earth
 1
 14 11
 2
-0 38 20 13
 0 36 1 0
+0 38 20 13
 1
 end_operator
 begin_operator
@@ -58282,8 +58282,8 @@ succumb sciatica love tofu uranus saturn
 1
 14 11
 2
-0 38 20 13
 0 36 2 1
+0 38 20 13
 1
 end_operator
 begin_operator
@@ -58291,8 +58291,8 @@ succumb sciatica love tofu vulcan uranus
 1
 14 11
 2
-0 38 20 13
 0 36 3 2
+0 38 20 13
 1
 end_operator
 begin_operator
@@ -58300,8 +58300,8 @@ succumb sciatica love wonderbread saturn earth
 1
 14 12
 2
-0 38 20 14
 0 36 1 0
+0 38 20 14
 1
 end_operator
 begin_operator
@@ -58309,8 +58309,8 @@ succumb sciatica love wonderbread uranus saturn
 1
 14 12
 2
-0 38 20 14
 0 36 2 1
+0 38 20 14
 1
 end_operator
 begin_operator
@@ -58318,8 +58318,8 @@ succumb sciatica love wonderbread vulcan uranus
 1
 14 12
 2
-0 38 20 14
 0 36 3 2
+0 38 20 14
 1
 end_operator
 begin_operator
@@ -58327,8 +58327,8 @@ succumb sciatica lubricity bacon saturn earth
 1
 16 0
 2
-0 38 21 0
 0 37 1 0
+0 38 21 0
 1
 end_operator
 begin_operator
@@ -58336,8 +58336,8 @@ succumb sciatica lubricity bacon uranus saturn
 1
 16 0
 2
-0 38 21 0
 0 37 2 1
+0 38 21 0
 1
 end_operator
 begin_operator
@@ -58345,8 +58345,8 @@ succumb sciatica lubricity bacon vulcan uranus
 1
 16 0
 2
-0 38 21 0
 0 37 3 2
+0 38 21 0
 1
 end_operator
 begin_operator
@@ -58354,8 +58354,8 @@ succumb sciatica lubricity beef saturn earth
 1
 16 1
 2
-0 38 21 1
 0 37 1 0
+0 38 21 1
 1
 end_operator
 begin_operator
@@ -58363,8 +58363,8 @@ succumb sciatica lubricity beef uranus saturn
 1
 16 1
 2
-0 38 21 1
 0 37 2 1
+0 38 21 1
 1
 end_operator
 begin_operator
@@ -58372,8 +58372,8 @@ succumb sciatica lubricity beef vulcan uranus
 1
 16 1
 2
-0 38 21 1
 0 37 3 2
+0 38 21 1
 1
 end_operator
 begin_operator
@@ -58381,8 +58381,8 @@ succumb sciatica lubricity cantelope saturn earth
 1
 16 2
 2
-0 38 21 2
 0 37 1 0
+0 38 21 2
 1
 end_operator
 begin_operator
@@ -58390,8 +58390,8 @@ succumb sciatica lubricity cantelope uranus saturn
 1
 16 2
 2
-0 38 21 2
 0 37 2 1
+0 38 21 2
 1
 end_operator
 begin_operator
@@ -58399,8 +58399,8 @@ succumb sciatica lubricity cantelope vulcan uranus
 1
 16 2
 2
-0 38 21 2
 0 37 3 2
+0 38 21 2
 1
 end_operator
 begin_operator
@@ -58408,8 +58408,8 @@ succumb sciatica lubricity flounder saturn earth
 1
 16 3
 2
-0 38 21 3
 0 37 1 0
+0 38 21 3
 1
 end_operator
 begin_operator
@@ -58417,8 +58417,8 @@ succumb sciatica lubricity flounder uranus saturn
 1
 16 3
 2
-0 38 21 3
 0 37 2 1
+0 38 21 3
 1
 end_operator
 begin_operator
@@ -58426,8 +58426,8 @@ succumb sciatica lubricity flounder vulcan uranus
 1
 16 3
 2
-0 38 21 3
 0 37 3 2
+0 38 21 3
 1
 end_operator
 begin_operator
@@ -58435,8 +58435,8 @@ succumb sciatica lubricity ham saturn earth
 1
 16 4
 2
-0 38 21 4
 0 37 1 0
+0 38 21 4
 1
 end_operator
 begin_operator
@@ -58444,8 +58444,8 @@ succumb sciatica lubricity ham uranus saturn
 1
 16 4
 2
-0 38 21 4
 0 37 2 1
+0 38 21 4
 1
 end_operator
 begin_operator
@@ -58453,8 +58453,8 @@ succumb sciatica lubricity ham vulcan uranus
 1
 16 4
 2
-0 38 21 4
 0 37 3 2
+0 38 21 4
 1
 end_operator
 begin_operator
@@ -58462,8 +58462,8 @@ succumb sciatica lubricity haroset saturn earth
 1
 16 5
 2
-0 38 21 5
 0 37 1 0
+0 38 21 5
 1
 end_operator
 begin_operator
@@ -58471,8 +58471,8 @@ succumb sciatica lubricity haroset uranus saturn
 1
 16 5
 2
-0 38 21 5
 0 37 2 1
+0 38 21 5
 1
 end_operator
 begin_operator
@@ -58480,8 +58480,8 @@ succumb sciatica lubricity haroset vulcan uranus
 1
 16 5
 2
-0 38 21 5
 0 37 3 2
+0 38 21 5
 1
 end_operator
 begin_operator
@@ -58489,8 +58489,8 @@ succumb sciatica lubricity lamb saturn earth
 1
 16 6
 2
-0 38 21 6
 0 37 1 0
+0 38 21 6
 1
 end_operator
 begin_operator
@@ -58498,8 +58498,8 @@ succumb sciatica lubricity lamb uranus saturn
 1
 16 6
 2
-0 38 21 6
 0 37 2 1
+0 38 21 6
 1
 end_operator
 begin_operator
@@ -58507,8 +58507,8 @@ succumb sciatica lubricity lamb vulcan uranus
 1
 16 6
 2
-0 38 21 6
 0 37 3 2
+0 38 21 6
 1
 end_operator
 begin_operator
@@ -58516,8 +58516,8 @@ succumb sciatica lubricity lemon saturn earth
 1
 16 7
 2
-0 38 21 7
 0 37 1 0
+0 38 21 7
 1
 end_operator
 begin_operator
@@ -58525,8 +58525,8 @@ succumb sciatica lubricity lemon uranus saturn
 1
 16 7
 2
-0 38 21 7
 0 37 2 1
+0 38 21 7
 1
 end_operator
 begin_operator
@@ -58534,8 +58534,8 @@ succumb sciatica lubricity lemon vulcan uranus
 1
 16 7
 2
-0 38 21 7
 0 37 3 2
+0 38 21 7
 1
 end_operator
 begin_operator
@@ -58543,8 +58543,8 @@ succumb sciatica lubricity lobster saturn earth
 1
 16 8
 2
-0 38 21 8
 0 37 1 0
+0 38 21 8
 1
 end_operator
 begin_operator
@@ -58552,8 +58552,8 @@ succumb sciatica lubricity lobster uranus saturn
 1
 16 8
 2
-0 38 21 8
 0 37 2 1
+0 38 21 8
 1
 end_operator
 begin_operator
@@ -58561,8 +58561,8 @@ succumb sciatica lubricity lobster vulcan uranus
 1
 16 8
 2
-0 38 21 8
 0 37 3 2
+0 38 21 8
 1
 end_operator
 begin_operator
@@ -58570,8 +58570,8 @@ succumb sciatica lubricity marzipan saturn earth
 1
 16 9
 2
-0 38 21 9
 0 37 1 0
+0 38 21 9
 1
 end_operator
 begin_operator
@@ -58579,8 +58579,8 @@ succumb sciatica lubricity marzipan uranus saturn
 1
 16 9
 2
-0 38 21 9
 0 37 2 1
+0 38 21 9
 1
 end_operator
 begin_operator
@@ -58588,8 +58588,8 @@ succumb sciatica lubricity marzipan vulcan uranus
 1
 16 9
 2
-0 38 21 9
 0 37 3 2
+0 38 21 9
 1
 end_operator
 begin_operator
@@ -58597,8 +58597,8 @@ succumb sciatica lubricity onion saturn earth
 1
 16 10
 2
-0 38 21 11
 0 37 1 0
+0 38 21 11
 1
 end_operator
 begin_operator
@@ -58606,8 +58606,8 @@ succumb sciatica lubricity onion uranus saturn
 1
 16 10
 2
-0 38 21 11
 0 37 2 1
+0 38 21 11
 1
 end_operator
 begin_operator
@@ -58615,8 +58615,8 @@ succumb sciatica lubricity onion vulcan uranus
 1
 16 10
 2
-0 38 21 11
 0 37 3 2
+0 38 21 11
 1
 end_operator
 begin_operator
@@ -58624,8 +58624,8 @@ succumb sciatica lubricity tofu saturn earth
 1
 16 11
 2
-0 38 21 13
 0 37 1 0
+0 38 21 13
 1
 end_operator
 begin_operator
@@ -58633,8 +58633,8 @@ succumb sciatica lubricity tofu uranus saturn
 1
 16 11
 2
-0 38 21 13
 0 37 2 1
+0 38 21 13
 1
 end_operator
 begin_operator
@@ -58642,8 +58642,8 @@ succumb sciatica lubricity tofu vulcan uranus
 1
 16 11
 2
-0 38 21 13
 0 37 3 2
+0 38 21 13
 1
 end_operator
 begin_operator
@@ -58651,8 +58651,8 @@ succumb sciatica lubricity wonderbread saturn earth
 1
 16 12
 2
-0 38 21 14
 0 37 1 0
+0 38 21 14
 1
 end_operator
 begin_operator
@@ -58660,8 +58660,8 @@ succumb sciatica lubricity wonderbread uranus saturn
 1
 16 12
 2
-0 38 21 14
 0 37 2 1
+0 38 21 14
 1
 end_operator
 begin_operator
@@ -58669,8 +58669,8 @@ succumb sciatica lubricity wonderbread vulcan uranus
 1
 16 12
 2
-0 38 21 14
 0 37 3 2
+0 38 21 14
 1
 end_operator
 begin_operator

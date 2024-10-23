@@ -1200,8 +1200,8 @@ sample_rock rover0 rover0store waypoint4
 1
 5 4
 2
-0 21 0 1
 0 19 0 1
+0 21 0 1
 1
 end_operator
 begin_operator
@@ -1209,8 +1209,8 @@ sample_rock rover0 rover0store waypoint5
 1
 5 5
 2
-0 22 0 1
 0 19 0 1
+0 22 0 1
 1
 end_operator
 begin_operator
@@ -1236,8 +1236,8 @@ sample_rock rover1 rover1store waypoint4
 1
 4 4
 2
-0 21 0 2
 0 20 0 1
+0 21 0 2
 1
 end_operator
 begin_operator
@@ -1245,8 +1245,8 @@ sample_rock rover1 rover1store waypoint5
 1
 4 5
 2
-0 22 0 2
 0 20 0 1
+0 22 0 2
 1
 end_operator
 begin_operator

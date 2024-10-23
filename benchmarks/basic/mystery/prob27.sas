@@ -284,192 +284,192 @@ begin_operator
 feast love guava scallion alsace quebec
 0
 2
-0 6 0 5
 0 3 8 0
+0 6 0 5
 1
 end_operator
 begin_operator
 feast love guava scallion arizona pennsylvania
 0
 2
-0 6 0 5
 0 3 7 1
+0 6 0 5
 1
 end_operator
 begin_operator
 feast love guava scallion guanabara manitoba
 0
 2
-0 6 0 5
 0 3 4 2
+0 6 0 5
 1
 end_operator
 begin_operator
 feast love guava scallion kentucky oregon
 0
 2
-0 6 0 5
 0 3 6 3
+0 6 0 5
 1
 end_operator
 begin_operator
 feast love guava scallion manitoba arizona
 0
 2
-0 6 0 5
 0 3 1 4
+0 6 0 5
 1
 end_operator
 begin_operator
 feast love guava scallion moravia surrey
 0
 2
-0 6 0 5
 0 3 9 5
+0 6 0 5
 1
 end_operator
 begin_operator
 feast love guava scallion pennsylvania alsace
 0
 2
-0 6 0 5
 0 3 0 7
+0 6 0 5
 1
 end_operator
 begin_operator
 feast love guava scallion quebec kentucky
 0
 2
-0 6 0 5
 0 3 3 8
+0 6 0 5
 1
 end_operator
 begin_operator
 feast love guava scallion surrey guanabara
 0
 2
-0 6 0 5
 0 3 2 9
+0 6 0 5
 1
 end_operator
 begin_operator
 feast love guava wurst alsace quebec
 0
 2
-0 6 0 6
 0 3 8 0
+0 6 0 6
 1
 end_operator
 begin_operator
 feast love guava wurst arizona pennsylvania
 0
 2
-0 6 0 6
 0 3 7 1
+0 6 0 6
 1
 end_operator
 begin_operator
 feast love guava wurst guanabara manitoba
 0
 2
-0 6 0 6
 0 3 4 2
+0 6 0 6
 1
 end_operator
 begin_operator
 feast love guava wurst kentucky oregon
 0
 2
-0 6 0 6
 0 3 6 3
+0 6 0 6
 1
 end_operator
 begin_operator
 feast love guava wurst manitoba arizona
 0
 2
-0 6 0 6
 0 3 1 4
+0 6 0 6
 1
 end_operator
 begin_operator
 feast love guava wurst moravia surrey
 0
 2
-0 6 0 6
 0 3 9 5
+0 6 0 6
 1
 end_operator
 begin_operator
 feast love guava wurst pennsylvania alsace
 0
 2
-0 6 0 6
 0 3 0 7
+0 6 0 6
 1
 end_operator
 begin_operator
 feast love guava wurst quebec kentucky
 0
 2
-0 6 0 6
 0 3 3 8
+0 6 0 6
 1
 end_operator
 begin_operator
 feast love guava wurst surrey guanabara
 0
 2
-0 6 0 6
 0 3 2 9
+0 6 0 6
 1
 end_operator
 begin_operator
 feast love muffin onion moravia surrey
 0
 2
-0 6 1 2
 0 0 2 1
+0 6 1 2
 1
 end_operator
 begin_operator
 feast love muffin onion surrey guanabara
 0
 2
-0 6 1 2
 0 0 0 2
+0 6 1 2
 1
 end_operator
 begin_operator
 feast love muffin pork moravia surrey
 0
 2
-0 6 1 4
 0 0 2 1
+0 6 1 4
 1
 end_operator
 begin_operator
 feast love muffin pork surrey guanabara
 0
 2
-0 6 1 4
 0 0 0 2
+0 6 1 4
 1
 end_operator
 begin_operator
 feast love muffin scallion moravia surrey
 0
 2
-0 6 1 5
 0 0 2 1
+0 6 1 5
 1
 end_operator
 begin_operator
 feast love muffin scallion surrey guanabara
 0
 2
-0 6 1 5
 0 0 0 2
+0 6 1 5
 1
 end_operator
 begin_operator
@@ -860,696 +860,696 @@ begin_operator
 feast love popover onion alsace quebec
 0
 2
-0 6 3 2
 0 4 8 0
+0 6 3 2
 1
 end_operator
 begin_operator
 feast love popover onion arizona pennsylvania
 0
 2
-0 6 3 2
 0 4 7 1
+0 6 3 2
 1
 end_operator
 begin_operator
 feast love popover onion guanabara manitoba
 0
 2
-0 6 3 2
 0 4 4 2
+0 6 3 2
 1
 end_operator
 begin_operator
 feast love popover onion kentucky oregon
 0
 2
-0 6 3 2
 0 4 6 3
+0 6 3 2
 1
 end_operator
 begin_operator
 feast love popover onion manitoba arizona
 0
 2
-0 6 3 2
 0 4 1 4
+0 6 3 2
 1
 end_operator
 begin_operator
 feast love popover onion moravia surrey
 0
 2
-0 6 3 2
 0 4 9 5
+0 6 3 2
 1
 end_operator
 begin_operator
 feast love popover onion pennsylvania alsace
 0
 2
-0 6 3 2
 0 4 0 7
+0 6 3 2
 1
 end_operator
 begin_operator
 feast love popover onion quebec kentucky
 0
 2
-0 6 3 2
 0 4 3 8
+0 6 3 2
 1
 end_operator
 begin_operator
 feast love popover onion surrey guanabara
 0
 2
-0 6 3 2
 0 4 2 9
+0 6 3 2
 1
 end_operator
 begin_operator
 feast love popover scallion alsace quebec
 0
 2
-0 6 3 5
 0 4 8 0
+0 6 3 5
 1
 end_operator
 begin_operator
 feast love popover scallion arizona pennsylvania
 0
 2
-0 6 3 5
 0 4 7 1
+0 6 3 5
 1
 end_operator
 begin_operator
 feast love popover scallion guanabara manitoba
 0
 2
-0 6 3 5
 0 4 4 2
+0 6 3 5
 1
 end_operator
 begin_operator
 feast love popover scallion kentucky oregon
 0
 2
-0 6 3 5
 0 4 6 3
+0 6 3 5
 1
 end_operator
 begin_operator
 feast love popover scallion manitoba arizona
 0
 2
-0 6 3 5
 0 4 1 4
+0 6 3 5
 1
 end_operator
 begin_operator
 feast love popover scallion moravia surrey
 0
 2
-0 6 3 5
 0 4 9 5
+0 6 3 5
 1
 end_operator
 begin_operator
 feast love popover scallion pennsylvania alsace
 0
 2
-0 6 3 5
 0 4 0 7
+0 6 3 5
 1
 end_operator
 begin_operator
 feast love popover scallion quebec kentucky
 0
 2
-0 6 3 5
 0 4 3 8
+0 6 3 5
 1
 end_operator
 begin_operator
 feast love popover scallion surrey guanabara
 0
 2
-0 6 3 5
 0 4 2 9
+0 6 3 5
 1
 end_operator
 begin_operator
 feast love pork muffin arizona pennsylvania
 0
 2
-0 6 4 1
 0 1 4 0
+0 6 4 1
 1
 end_operator
 begin_operator
 feast love pork muffin guanabara manitoba
 0
 2
-0 6 4 1
 0 1 2 1
+0 6 4 1
 1
 end_operator
 begin_operator
 feast love pork muffin manitoba arizona
 0
 2
-0 6 4 1
 0 1 0 2
+0 6 4 1
 1
 end_operator
 begin_operator
 feast love pork muffin moravia surrey
 0
 2
-0 6 4 1
 0 1 5 3
+0 6 4 1
 1
 end_operator
 begin_operator
 feast love pork muffin surrey guanabara
 0
 2
-0 6 4 1
 0 1 1 5
+0 6 4 1
 1
 end_operator
 begin_operator
 feast love pork onion arizona pennsylvania
 0
 2
-0 6 4 2
 0 1 4 0
+0 6 4 2
 1
 end_operator
 begin_operator
 feast love pork onion guanabara manitoba
 0
 2
-0 6 4 2
 0 1 2 1
+0 6 4 2
 1
 end_operator
 begin_operator
 feast love pork onion manitoba arizona
 0
 2
-0 6 4 2
 0 1 0 2
+0 6 4 2
 1
 end_operator
 begin_operator
 feast love pork onion moravia surrey
 0
 2
-0 6 4 2
 0 1 5 3
+0 6 4 2
 1
 end_operator
 begin_operator
 feast love pork onion surrey guanabara
 0
 2
-0 6 4 2
 0 1 1 5
+0 6 4 2
 1
 end_operator
 begin_operator
 feast love scallion guava arizona pennsylvania
 0
 2
-0 6 5 0
 0 2 4 0
+0 6 5 0
 1
 end_operator
 begin_operator
 feast love scallion guava guanabara manitoba
 0
 2
-0 6 5 0
 0 2 2 1
+0 6 5 0
 1
 end_operator
 begin_operator
 feast love scallion guava manitoba arizona
 0
 2
-0 6 5 0
 0 2 0 2
+0 6 5 0
 1
 end_operator
 begin_operator
 feast love scallion guava moravia surrey
 0
 2
-0 6 5 0
 0 2 5 3
+0 6 5 0
 1
 end_operator
 begin_operator
 feast love scallion guava surrey guanabara
 0
 2
-0 6 5 0
 0 2 1 5
+0 6 5 0
 1
 end_operator
 begin_operator
 feast love scallion muffin arizona pennsylvania
 0
 2
-0 6 5 1
 0 2 4 0
+0 6 5 1
 1
 end_operator
 begin_operator
 feast love scallion muffin guanabara manitoba
 0
 2
-0 6 5 1
 0 2 2 1
+0 6 5 1
 1
 end_operator
 begin_operator
 feast love scallion muffin manitoba arizona
 0
 2
-0 6 5 1
 0 2 0 2
+0 6 5 1
 1
 end_operator
 begin_operator
 feast love scallion muffin moravia surrey
 0
 2
-0 6 5 1
 0 2 5 3
+0 6 5 1
 1
 end_operator
 begin_operator
 feast love scallion muffin surrey guanabara
 0
 2
-0 6 5 1
 0 2 1 5
+0 6 5 1
 1
 end_operator
 begin_operator
 feast love scallion popover arizona pennsylvania
 0
 2
-0 6 5 3
 0 2 4 0
+0 6 5 3
 1
 end_operator
 begin_operator
 feast love scallion popover guanabara manitoba
 0
 2
-0 6 5 3
 0 2 2 1
+0 6 5 3
 1
 end_operator
 begin_operator
 feast love scallion popover manitoba arizona
 0
 2
-0 6 5 3
 0 2 0 2
+0 6 5 3
 1
 end_operator
 begin_operator
 feast love scallion popover moravia surrey
 0
 2
-0 6 5 3
 0 2 5 3
+0 6 5 3
 1
 end_operator
 begin_operator
 feast love scallion popover surrey guanabara
 0
 2
-0 6 5 3
 0 2 1 5
+0 6 5 3
 1
 end_operator
 begin_operator
 feast love wurst guava alsace quebec
 0
 2
-0 6 6 0
 0 5 9 0
+0 6 6 0
 1
 end_operator
 begin_operator
 feast love wurst guava arizona pennsylvania
 0
 2
-0 6 6 0
 0 5 8 1
+0 6 6 0
 1
 end_operator
 begin_operator
 feast love wurst guava guanabara manitoba
 0
 2
-0 6 6 0
 0 5 5 3
+0 6 6 0
 1
 end_operator
 begin_operator
 feast love wurst guava kentucky oregon
 0
 2
-0 6 6 0
 0 5 7 4
+0 6 6 0
 1
 end_operator
 begin_operator
 feast love wurst guava manitoba arizona
 0
 2
-0 6 6 0
 0 5 1 5
+0 6 6 0
 1
 end_operator
 begin_operator
 feast love wurst guava moravia surrey
 0
 2
-0 6 6 0
 0 5 10 6
+0 6 6 0
 1
 end_operator
 begin_operator
 feast love wurst guava oregon bavaria
 0
 2
-0 6 6 0
 0 5 2 7
+0 6 6 0
 1
 end_operator
 begin_operator
 feast love wurst guava pennsylvania alsace
 0
 2
-0 6 6 0
 0 5 0 8
+0 6 6 0
 1
 end_operator
 begin_operator
 feast love wurst guava quebec kentucky
 0
 2
-0 6 6 0
 0 5 4 9
+0 6 6 0
 1
 end_operator
 begin_operator
 feast love wurst guava surrey guanabara
 0
 2
-0 6 6 0
 0 5 3 10
+0 6 6 0
 1
 end_operator
 begin_operator
 feast love wurst onion alsace quebec
 0
 2
-0 6 6 2
 0 5 9 0
+0 6 6 2
 1
 end_operator
 begin_operator
 feast love wurst onion arizona pennsylvania
 0
 2
-0 6 6 2
 0 5 8 1
+0 6 6 2
 1
 end_operator
 begin_operator
 feast love wurst onion guanabara manitoba
 0
 2
-0 6 6 2
 0 5 5 3
+0 6 6 2
 1
 end_operator
 begin_operator
 feast love wurst onion kentucky oregon
 0
 2
-0 6 6 2
 0 5 7 4
+0 6 6 2
 1
 end_operator
 begin_operator
 feast love wurst onion manitoba arizona
 0
 2
-0 6 6 2
 0 5 1 5
+0 6 6 2
 1
 end_operator
 begin_operator
 feast love wurst onion moravia surrey
 0
 2
-0 6 6 2
 0 5 10 6
+0 6 6 2
 1
 end_operator
 begin_operator
 feast love wurst onion oregon bavaria
 0
 2
-0 6 6 2
 0 5 2 7
+0 6 6 2
 1
 end_operator
 begin_operator
 feast love wurst onion pennsylvania alsace
 0
 2
-0 6 6 2
 0 5 0 8
+0 6 6 2
 1
 end_operator
 begin_operator
 feast love wurst onion quebec kentucky
 0
 2
-0 6 6 2
 0 5 4 9
+0 6 6 2
 1
 end_operator
 begin_operator
 feast love wurst onion surrey guanabara
 0
 2
-0 6 6 2
 0 5 3 10
+0 6 6 2
 1
 end_operator
 begin_operator
 feast satisfaction guava scallion alsace quebec
 0
 2
-0 7 0 5
 0 3 8 0
+0 7 0 5
 1
 end_operator
 begin_operator
 feast satisfaction guava scallion arizona pennsylvania
 0
 2
-0 7 0 5
 0 3 7 1
+0 7 0 5
 1
 end_operator
 begin_operator
 feast satisfaction guava scallion guanabara manitoba
 0
 2
-0 7 0 5
 0 3 4 2
+0 7 0 5
 1
 end_operator
 begin_operator
 feast satisfaction guava scallion kentucky oregon
 0
 2
-0 7 0 5
 0 3 6 3
+0 7 0 5
 1
 end_operator
 begin_operator
 feast satisfaction guava scallion manitoba arizona
 0
 2
-0 7 0 5
 0 3 1 4
+0 7 0 5
 1
 end_operator
 begin_operator
 feast satisfaction guava scallion moravia surrey
 0
 2
-0 7 0 5
 0 3 9 5
+0 7 0 5
 1
 end_operator
 begin_operator
 feast satisfaction guava scallion pennsylvania alsace
 0
 2
-0 7 0 5
 0 3 0 7
+0 7 0 5
 1
 end_operator
 begin_operator
 feast satisfaction guava scallion quebec kentucky
 0
 2
-0 7 0 5
 0 3 3 8
+0 7 0 5
 1
 end_operator
 begin_operator
 feast satisfaction guava scallion surrey guanabara
 0
 2
-0 7 0 5
 0 3 2 9
+0 7 0 5
 1
 end_operator
 begin_operator
 feast satisfaction guava wurst alsace quebec
 0
 2
-0 7 0 6
 0 3 8 0
+0 7 0 6
 1
 end_operator
 begin_operator
 feast satisfaction guava wurst arizona pennsylvania
 0
 2
-0 7 0 6
 0 3 7 1
+0 7 0 6
 1
 end_operator
 begin_operator
 feast satisfaction guava wurst guanabara manitoba
 0
 2
-0 7 0 6
 0 3 4 2
+0 7 0 6
 1
 end_operator
 begin_operator
 feast satisfaction guava wurst kentucky oregon
 0
 2
-0 7 0 6
 0 3 6 3
+0 7 0 6
 1
 end_operator
 begin_operator
 feast satisfaction guava wurst manitoba arizona
 0
 2
-0 7 0 6
 0 3 1 4
+0 7 0 6
 1
 end_operator
 begin_operator
 feast satisfaction guava wurst moravia surrey
 0
 2
-0 7 0 6
 0 3 9 5
+0 7 0 6
 1
 end_operator
 begin_operator
 feast satisfaction guava wurst pennsylvania alsace
 0
 2
-0 7 0 6
 0 3 0 7
+0 7 0 6
 1
 end_operator
 begin_operator
 feast satisfaction guava wurst quebec kentucky
 0
 2
-0 7 0 6
 0 3 3 8
+0 7 0 6
 1
 end_operator
 begin_operator
 feast satisfaction guava wurst surrey guanabara
 0
 2
-0 7 0 6
 0 3 2 9
+0 7 0 6
 1
 end_operator
 begin_operator
 feast satisfaction muffin onion moravia surrey
 0
 2
-0 7 1 2
 0 0 2 1
+0 7 1 2
 1
 end_operator
 begin_operator
 feast satisfaction muffin onion surrey guanabara
 0
 2
-0 7 1 2
 0 0 0 2
+0 7 1 2
 1
 end_operator
 begin_operator
 feast satisfaction muffin pork moravia surrey
 0
 2
-0 7 1 4
 0 0 2 1
+0 7 1 4
 1
 end_operator
 begin_operator
 feast satisfaction muffin pork surrey guanabara
 0
 2
-0 7 1 4
 0 0 0 2
+0 7 1 4
 1
 end_operator
 begin_operator
 feast satisfaction muffin scallion moravia surrey
 0
 2
-0 7 1 5
 0 0 2 1
+0 7 1 5
 1
 end_operator
 begin_operator
 feast satisfaction muffin scallion surrey guanabara
 0
 2
-0 7 1 5
 0 0 0 2
+0 7 1 5
 1
 end_operator
 begin_operator
@@ -1940,696 +1940,696 @@ begin_operator
 feast satisfaction popover onion alsace quebec
 0
 2
-0 7 3 2
 0 4 8 0
+0 7 3 2
 1
 end_operator
 begin_operator
 feast satisfaction popover onion arizona pennsylvania
 0
 2
-0 7 3 2
 0 4 7 1
+0 7 3 2
 1
 end_operator
 begin_operator
 feast satisfaction popover onion guanabara manitoba
 0
 2
-0 7 3 2
 0 4 4 2
+0 7 3 2
 1
 end_operator
 begin_operator
 feast satisfaction popover onion kentucky oregon
 0
 2
-0 7 3 2
 0 4 6 3
+0 7 3 2
 1
 end_operator
 begin_operator
 feast satisfaction popover onion manitoba arizona
 0
 2
-0 7 3 2
 0 4 1 4
+0 7 3 2
 1
 end_operator
 begin_operator
 feast satisfaction popover onion moravia surrey
 0
 2
-0 7 3 2
 0 4 9 5
+0 7 3 2
 1
 end_operator
 begin_operator
 feast satisfaction popover onion pennsylvania alsace
 0
 2
-0 7 3 2
 0 4 0 7
+0 7 3 2
 1
 end_operator
 begin_operator
 feast satisfaction popover onion quebec kentucky
 0
 2
-0 7 3 2
 0 4 3 8
+0 7 3 2
 1
 end_operator
 begin_operator
 feast satisfaction popover onion surrey guanabara
 0
 2
-0 7 3 2
 0 4 2 9
+0 7 3 2
 1
 end_operator
 begin_operator
 feast satisfaction popover scallion alsace quebec
 0
 2
-0 7 3 5
 0 4 8 0
+0 7 3 5
 1
 end_operator
 begin_operator
 feast satisfaction popover scallion arizona pennsylvania
 0
 2
-0 7 3 5
 0 4 7 1
+0 7 3 5
 1
 end_operator
 begin_operator
 feast satisfaction popover scallion guanabara manitoba
 0
 2
-0 7 3 5
 0 4 4 2
+0 7 3 5
 1
 end_operator
 begin_operator
 feast satisfaction popover scallion kentucky oregon
 0
 2
-0 7 3 5
 0 4 6 3
+0 7 3 5
 1
 end_operator
 begin_operator
 feast satisfaction popover scallion manitoba arizona
 0
 2
-0 7 3 5
 0 4 1 4
+0 7 3 5
 1
 end_operator
 begin_operator
 feast satisfaction popover scallion moravia surrey
 0
 2
-0 7 3 5
 0 4 9 5
+0 7 3 5
 1
 end_operator
 begin_operator
 feast satisfaction popover scallion pennsylvania alsace
 0
 2
-0 7 3 5
 0 4 0 7
+0 7 3 5
 1
 end_operator
 begin_operator
 feast satisfaction popover scallion quebec kentucky
 0
 2
-0 7 3 5
 0 4 3 8
+0 7 3 5
 1
 end_operator
 begin_operator
 feast satisfaction popover scallion surrey guanabara
 0
 2
-0 7 3 5
 0 4 2 9
+0 7 3 5
 1
 end_operator
 begin_operator
 feast satisfaction pork muffin arizona pennsylvania
 0
 2
-0 7 4 1
 0 1 4 0
+0 7 4 1
 1
 end_operator
 begin_operator
 feast satisfaction pork muffin guanabara manitoba
 0
 2
-0 7 4 1
 0 1 2 1
+0 7 4 1
 1
 end_operator
 begin_operator
 feast satisfaction pork muffin manitoba arizona
 0
 2
-0 7 4 1
 0 1 0 2
+0 7 4 1
 1
 end_operator
 begin_operator
 feast satisfaction pork muffin moravia surrey
 0
 2
-0 7 4 1
 0 1 5 3
+0 7 4 1
 1
 end_operator
 begin_operator
 feast satisfaction pork muffin surrey guanabara
 0
 2
-0 7 4 1
 0 1 1 5
+0 7 4 1
 1
 end_operator
 begin_operator
 feast satisfaction pork onion arizona pennsylvania
 0
 2
-0 7 4 2
 0 1 4 0
+0 7 4 2
 1
 end_operator
 begin_operator
 feast satisfaction pork onion guanabara manitoba
 0
 2
-0 7 4 2
 0 1 2 1
+0 7 4 2
 1
 end_operator
 begin_operator
 feast satisfaction pork onion manitoba arizona
 0
 2
-0 7 4 2
 0 1 0 2
+0 7 4 2
 1
 end_operator
 begin_operator
 feast satisfaction pork onion moravia surrey
 0
 2
-0 7 4 2
 0 1 5 3
+0 7 4 2
 1
 end_operator
 begin_operator
 feast satisfaction pork onion surrey guanabara
 0
 2
-0 7 4 2
 0 1 1 5
+0 7 4 2
 1
 end_operator
 begin_operator
 feast satisfaction scallion guava arizona pennsylvania
 0
 2
-0 7 5 0
 0 2 4 0
+0 7 5 0
 1
 end_operator
 begin_operator
 feast satisfaction scallion guava guanabara manitoba
 0
 2
-0 7 5 0
 0 2 2 1
+0 7 5 0
 1
 end_operator
 begin_operator
 feast satisfaction scallion guava manitoba arizona
 0
 2
-0 7 5 0
 0 2 0 2
+0 7 5 0
 1
 end_operator
 begin_operator
 feast satisfaction scallion guava moravia surrey
 0
 2
-0 7 5 0
 0 2 5 3
+0 7 5 0
 1
 end_operator
 begin_operator
 feast satisfaction scallion guava surrey guanabara
 0
 2
-0 7 5 0
 0 2 1 5
+0 7 5 0
 1
 end_operator
 begin_operator
 feast satisfaction scallion muffin arizona pennsylvania
 0
 2
-0 7 5 1
 0 2 4 0
+0 7 5 1
 1
 end_operator
 begin_operator
 feast satisfaction scallion muffin guanabara manitoba
 0
 2
-0 7 5 1
 0 2 2 1
+0 7 5 1
 1
 end_operator
 begin_operator
 feast satisfaction scallion muffin manitoba arizona
 0
 2
-0 7 5 1
 0 2 0 2
+0 7 5 1
 1
 end_operator
 begin_operator
 feast satisfaction scallion muffin moravia surrey
 0
 2
-0 7 5 1
 0 2 5 3
+0 7 5 1
 1
 end_operator
 begin_operator
 feast satisfaction scallion muffin surrey guanabara
 0
 2
-0 7 5 1
 0 2 1 5
+0 7 5 1
 1
 end_operator
 begin_operator
 feast satisfaction scallion popover arizona pennsylvania
 0
 2
-0 7 5 3
 0 2 4 0
+0 7 5 3
 1
 end_operator
 begin_operator
 feast satisfaction scallion popover guanabara manitoba
 0
 2
-0 7 5 3
 0 2 2 1
+0 7 5 3
 1
 end_operator
 begin_operator
 feast satisfaction scallion popover manitoba arizona
 0
 2
-0 7 5 3
 0 2 0 2
+0 7 5 3
 1
 end_operator
 begin_operator
 feast satisfaction scallion popover moravia surrey
 0
 2
-0 7 5 3
 0 2 5 3
+0 7 5 3
 1
 end_operator
 begin_operator
 feast satisfaction scallion popover surrey guanabara
 0
 2
-0 7 5 3
 0 2 1 5
+0 7 5 3
 1
 end_operator
 begin_operator
 feast satisfaction wurst guava alsace quebec
 0
 2
-0 7 6 0
 0 5 9 0
+0 7 6 0
 1
 end_operator
 begin_operator
 feast satisfaction wurst guava arizona pennsylvania
 0
 2
-0 7 6 0
 0 5 8 1
+0 7 6 0
 1
 end_operator
 begin_operator
 feast satisfaction wurst guava guanabara manitoba
 0
 2
-0 7 6 0
 0 5 5 3
+0 7 6 0
 1
 end_operator
 begin_operator
 feast satisfaction wurst guava kentucky oregon
 0
 2
-0 7 6 0
 0 5 7 4
+0 7 6 0
 1
 end_operator
 begin_operator
 feast satisfaction wurst guava manitoba arizona
 0
 2
-0 7 6 0
 0 5 1 5
+0 7 6 0
 1
 end_operator
 begin_operator
 feast satisfaction wurst guava moravia surrey
 0
 2
-0 7 6 0
 0 5 10 6
+0 7 6 0
 1
 end_operator
 begin_operator
 feast satisfaction wurst guava oregon bavaria
 0
 2
-0 7 6 0
 0 5 2 7
+0 7 6 0
 1
 end_operator
 begin_operator
 feast satisfaction wurst guava pennsylvania alsace
 0
 2
-0 7 6 0
 0 5 0 8
+0 7 6 0
 1
 end_operator
 begin_operator
 feast satisfaction wurst guava quebec kentucky
 0
 2
-0 7 6 0
 0 5 4 9
+0 7 6 0
 1
 end_operator
 begin_operator
 feast satisfaction wurst guava surrey guanabara
 0
 2
-0 7 6 0
 0 5 3 10
+0 7 6 0
 1
 end_operator
 begin_operator
 feast satisfaction wurst onion alsace quebec
 0
 2
-0 7 6 2
 0 5 9 0
+0 7 6 2
 1
 end_operator
 begin_operator
 feast satisfaction wurst onion arizona pennsylvania
 0
 2
-0 7 6 2
 0 5 8 1
+0 7 6 2
 1
 end_operator
 begin_operator
 feast satisfaction wurst onion guanabara manitoba
 0
 2
-0 7 6 2
 0 5 5 3
+0 7 6 2
 1
 end_operator
 begin_operator
 feast satisfaction wurst onion kentucky oregon
 0
 2
-0 7 6 2
 0 5 7 4
+0 7 6 2
 1
 end_operator
 begin_operator
 feast satisfaction wurst onion manitoba arizona
 0
 2
-0 7 6 2
 0 5 1 5
+0 7 6 2
 1
 end_operator
 begin_operator
 feast satisfaction wurst onion moravia surrey
 0
 2
-0 7 6 2
 0 5 10 6
+0 7 6 2
 1
 end_operator
 begin_operator
 feast satisfaction wurst onion oregon bavaria
 0
 2
-0 7 6 2
 0 5 2 7
+0 7 6 2
 1
 end_operator
 begin_operator
 feast satisfaction wurst onion pennsylvania alsace
 0
 2
-0 7 6 2
 0 5 0 8
+0 7 6 2
 1
 end_operator
 begin_operator
 feast satisfaction wurst onion quebec kentucky
 0
 2
-0 7 6 2
 0 5 4 9
+0 7 6 2
 1
 end_operator
 begin_operator
 feast satisfaction wurst onion surrey guanabara
 0
 2
-0 7 6 2
 0 5 3 10
+0 7 6 2
 1
 end_operator
 begin_operator
 feast triumph guava scallion alsace quebec
 0
 2
-0 8 0 5
 0 3 8 0
+0 8 0 5
 1
 end_operator
 begin_operator
 feast triumph guava scallion arizona pennsylvania
 0
 2
-0 8 0 5
 0 3 7 1
+0 8 0 5
 1
 end_operator
 begin_operator
 feast triumph guava scallion guanabara manitoba
 0
 2
-0 8 0 5
 0 3 4 2
+0 8 0 5
 1
 end_operator
 begin_operator
 feast triumph guava scallion kentucky oregon
 0
 2
-0 8 0 5
 0 3 6 3
+0 8 0 5
 1
 end_operator
 begin_operator
 feast triumph guava scallion manitoba arizona
 0
 2
-0 8 0 5
 0 3 1 4
+0 8 0 5
 1
 end_operator
 begin_operator
 feast triumph guava scallion moravia surrey
 0
 2
-0 8 0 5
 0 3 9 5
+0 8 0 5
 1
 end_operator
 begin_operator
 feast triumph guava scallion pennsylvania alsace
 0
 2
-0 8 0 5
 0 3 0 7
+0 8 0 5
 1
 end_operator
 begin_operator
 feast triumph guava scallion quebec kentucky
 0
 2
-0 8 0 5
 0 3 3 8
+0 8 0 5
 1
 end_operator
 begin_operator
 feast triumph guava scallion surrey guanabara
 0
 2
-0 8 0 5
 0 3 2 9
+0 8 0 5
 1
 end_operator
 begin_operator
 feast triumph guava wurst alsace quebec
 0
 2
-0 8 0 6
 0 3 8 0
+0 8 0 6
 1
 end_operator
 begin_operator
 feast triumph guava wurst arizona pennsylvania
 0
 2
-0 8 0 6
 0 3 7 1
+0 8 0 6
 1
 end_operator
 begin_operator
 feast triumph guava wurst guanabara manitoba
 0
 2
-0 8 0 6
 0 3 4 2
+0 8 0 6
 1
 end_operator
 begin_operator
 feast triumph guava wurst kentucky oregon
 0
 2
-0 8 0 6
 0 3 6 3
+0 8 0 6
 1
 end_operator
 begin_operator
 feast triumph guava wurst manitoba arizona
 0
 2
-0 8 0 6
 0 3 1 4
+0 8 0 6
 1
 end_operator
 begin_operator
 feast triumph guava wurst moravia surrey
 0
 2
-0 8 0 6
 0 3 9 5
+0 8 0 6
 1
 end_operator
 begin_operator
 feast triumph guava wurst pennsylvania alsace
 0
 2
-0 8 0 6
 0 3 0 7
+0 8 0 6
 1
 end_operator
 begin_operator
 feast triumph guava wurst quebec kentucky
 0
 2
-0 8 0 6
 0 3 3 8
+0 8 0 6
 1
 end_operator
 begin_operator
 feast triumph guava wurst surrey guanabara
 0
 2
-0 8 0 6
 0 3 2 9
+0 8 0 6
 1
 end_operator
 begin_operator
 feast triumph muffin onion moravia surrey
 0
 2
-0 8 1 2
 0 0 2 1
+0 8 1 2
 1
 end_operator
 begin_operator
 feast triumph muffin onion surrey guanabara
 0
 2
-0 8 1 2
 0 0 0 2
+0 8 1 2
 1
 end_operator
 begin_operator
 feast triumph muffin pork moravia surrey
 0
 2
-0 8 1 4
 0 0 2 1
+0 8 1 4
 1
 end_operator
 begin_operator
 feast triumph muffin pork surrey guanabara
 0
 2
-0 8 1 4
 0 0 0 2
+0 8 1 4
 1
 end_operator
 begin_operator
 feast triumph muffin scallion moravia surrey
 0
 2
-0 8 1 5
 0 0 2 1
+0 8 1 5
 1
 end_operator
 begin_operator
 feast triumph muffin scallion surrey guanabara
 0
 2
-0 8 1 5
 0 0 0 2
+0 8 1 5
 1
 end_operator
 begin_operator
@@ -3020,504 +3020,504 @@ begin_operator
 feast triumph popover onion alsace quebec
 0
 2
-0 8 3 2
 0 4 8 0
+0 8 3 2
 1
 end_operator
 begin_operator
 feast triumph popover onion arizona pennsylvania
 0
 2
-0 8 3 2
 0 4 7 1
+0 8 3 2
 1
 end_operator
 begin_operator
 feast triumph popover onion guanabara manitoba
 0
 2
-0 8 3 2
 0 4 4 2
+0 8 3 2
 1
 end_operator
 begin_operator
 feast triumph popover onion kentucky oregon
 0
 2
-0 8 3 2
 0 4 6 3
+0 8 3 2
 1
 end_operator
 begin_operator
 feast triumph popover onion manitoba arizona
 0
 2
-0 8 3 2
 0 4 1 4
+0 8 3 2
 1
 end_operator
 begin_operator
 feast triumph popover onion moravia surrey
 0
 2
-0 8 3 2
 0 4 9 5
+0 8 3 2
 1
 end_operator
 begin_operator
 feast triumph popover onion pennsylvania alsace
 0
 2
-0 8 3 2
 0 4 0 7
+0 8 3 2
 1
 end_operator
 begin_operator
 feast triumph popover onion quebec kentucky
 0
 2
-0 8 3 2
 0 4 3 8
+0 8 3 2
 1
 end_operator
 begin_operator
 feast triumph popover onion surrey guanabara
 0
 2
-0 8 3 2
 0 4 2 9
+0 8 3 2
 1
 end_operator
 begin_operator
 feast triumph popover scallion alsace quebec
 0
 2
-0 8 3 5
 0 4 8 0
+0 8 3 5
 1
 end_operator
 begin_operator
 feast triumph popover scallion arizona pennsylvania
 0
 2
-0 8 3 5
 0 4 7 1
+0 8 3 5
 1
 end_operator
 begin_operator
 feast triumph popover scallion guanabara manitoba
 0
 2
-0 8 3 5
 0 4 4 2
+0 8 3 5
 1
 end_operator
 begin_operator
 feast triumph popover scallion kentucky oregon
 0
 2
-0 8 3 5
 0 4 6 3
+0 8 3 5
 1
 end_operator
 begin_operator
 feast triumph popover scallion manitoba arizona
 0
 2
-0 8 3 5
 0 4 1 4
+0 8 3 5
 1
 end_operator
 begin_operator
 feast triumph popover scallion moravia surrey
 0
 2
-0 8 3 5
 0 4 9 5
+0 8 3 5
 1
 end_operator
 begin_operator
 feast triumph popover scallion pennsylvania alsace
 0
 2
-0 8 3 5
 0 4 0 7
+0 8 3 5
 1
 end_operator
 begin_operator
 feast triumph popover scallion quebec kentucky
 0
 2
-0 8 3 5
 0 4 3 8
+0 8 3 5
 1
 end_operator
 begin_operator
 feast triumph popover scallion surrey guanabara
 0
 2
-0 8 3 5
 0 4 2 9
+0 8 3 5
 1
 end_operator
 begin_operator
 feast triumph pork muffin arizona pennsylvania
 0
 2
-0 8 4 1
 0 1 4 0
+0 8 4 1
 1
 end_operator
 begin_operator
 feast triumph pork muffin guanabara manitoba
 0
 2
-0 8 4 1
 0 1 2 1
+0 8 4 1
 1
 end_operator
 begin_operator
 feast triumph pork muffin manitoba arizona
 0
 2
-0 8 4 1
 0 1 0 2
+0 8 4 1
 1
 end_operator
 begin_operator
 feast triumph pork muffin moravia surrey
 0
 2
-0 8 4 1
 0 1 5 3
+0 8 4 1
 1
 end_operator
 begin_operator
 feast triumph pork muffin surrey guanabara
 0
 2
-0 8 4 1
 0 1 1 5
+0 8 4 1
 1
 end_operator
 begin_operator
 feast triumph pork onion arizona pennsylvania
 0
 2
-0 8 4 2
 0 1 4 0
+0 8 4 2
 1
 end_operator
 begin_operator
 feast triumph pork onion guanabara manitoba
 0
 2
-0 8 4 2
 0 1 2 1
+0 8 4 2
 1
 end_operator
 begin_operator
 feast triumph pork onion manitoba arizona
 0
 2
-0 8 4 2
 0 1 0 2
+0 8 4 2
 1
 end_operator
 begin_operator
 feast triumph pork onion moravia surrey
 0
 2
-0 8 4 2
 0 1 5 3
+0 8 4 2
 1
 end_operator
 begin_operator
 feast triumph pork onion surrey guanabara
 0
 2
-0 8 4 2
 0 1 1 5
+0 8 4 2
 1
 end_operator
 begin_operator
 feast triumph scallion guava arizona pennsylvania
 0
 2
-0 8 5 0
 0 2 4 0
+0 8 5 0
 1
 end_operator
 begin_operator
 feast triumph scallion guava guanabara manitoba
 0
 2
-0 8 5 0
 0 2 2 1
+0 8 5 0
 1
 end_operator
 begin_operator
 feast triumph scallion guava manitoba arizona
 0
 2
-0 8 5 0
 0 2 0 2
+0 8 5 0
 1
 end_operator
 begin_operator
 feast triumph scallion guava moravia surrey
 0
 2
-0 8 5 0
 0 2 5 3
+0 8 5 0
 1
 end_operator
 begin_operator
 feast triumph scallion guava surrey guanabara
 0
 2
-0 8 5 0
 0 2 1 5
+0 8 5 0
 1
 end_operator
 begin_operator
 feast triumph scallion muffin arizona pennsylvania
 0
 2
-0 8 5 1
 0 2 4 0
+0 8 5 1
 1
 end_operator
 begin_operator
 feast triumph scallion muffin guanabara manitoba
 0
 2
-0 8 5 1
 0 2 2 1
+0 8 5 1
 1
 end_operator
 begin_operator
 feast triumph scallion muffin manitoba arizona
 0
 2
-0 8 5 1
 0 2 0 2
+0 8 5 1
 1
 end_operator
 begin_operator
 feast triumph scallion muffin moravia surrey
 0
 2
-0 8 5 1
 0 2 5 3
+0 8 5 1
 1
 end_operator
 begin_operator
 feast triumph scallion muffin surrey guanabara
 0
 2
-0 8 5 1
 0 2 1 5
+0 8 5 1
 1
 end_operator
 begin_operator
 feast triumph scallion popover arizona pennsylvania
 0
 2
-0 8 5 3
 0 2 4 0
+0 8 5 3
 1
 end_operator
 begin_operator
 feast triumph scallion popover guanabara manitoba
 0
 2
-0 8 5 3
 0 2 2 1
+0 8 5 3
 1
 end_operator
 begin_operator
 feast triumph scallion popover manitoba arizona
 0
 2
-0 8 5 3
 0 2 0 2
+0 8 5 3
 1
 end_operator
 begin_operator
 feast triumph scallion popover moravia surrey
 0
 2
-0 8 5 3
 0 2 5 3
+0 8 5 3
 1
 end_operator
 begin_operator
 feast triumph scallion popover surrey guanabara
 0
 2
-0 8 5 3
 0 2 1 5
+0 8 5 3
 1
 end_operator
 begin_operator
 feast triumph wurst guava alsace quebec
 0
 2
-0 8 6 0
 0 5 9 0
+0 8 6 0
 1
 end_operator
 begin_operator
 feast triumph wurst guava arizona pennsylvania
 0
 2
-0 8 6 0
 0 5 8 1
+0 8 6 0
 1
 end_operator
 begin_operator
 feast triumph wurst guava guanabara manitoba
 0
 2
-0 8 6 0
 0 5 5 3
+0 8 6 0
 1
 end_operator
 begin_operator
 feast triumph wurst guava kentucky oregon
 0
 2
-0 8 6 0
 0 5 7 4
+0 8 6 0
 1
 end_operator
 begin_operator
 feast triumph wurst guava manitoba arizona
 0
 2
-0 8 6 0
 0 5 1 5
+0 8 6 0
 1
 end_operator
 begin_operator
 feast triumph wurst guava moravia surrey
 0
 2
-0 8 6 0
 0 5 10 6
+0 8 6 0
 1
 end_operator
 begin_operator
 feast triumph wurst guava oregon bavaria
 0
 2
-0 8 6 0
 0 5 2 7
+0 8 6 0
 1
 end_operator
 begin_operator
 feast triumph wurst guava pennsylvania alsace
 0
 2
-0 8 6 0
 0 5 0 8
+0 8 6 0
 1
 end_operator
 begin_operator
 feast triumph wurst guava quebec kentucky
 0
 2
-0 8 6 0
 0 5 4 9
+0 8 6 0
 1
 end_operator
 begin_operator
 feast triumph wurst guava surrey guanabara
 0
 2
-0 8 6 0
 0 5 3 10
+0 8 6 0
 1
 end_operator
 begin_operator
 feast triumph wurst onion alsace quebec
 0
 2
-0 8 6 2
 0 5 9 0
+0 8 6 2
 1
 end_operator
 begin_operator
 feast triumph wurst onion arizona pennsylvania
 0
 2
-0 8 6 2
 0 5 8 1
+0 8 6 2
 1
 end_operator
 begin_operator
 feast triumph wurst onion guanabara manitoba
 0
 2
-0 8 6 2
 0 5 5 3
+0 8 6 2
 1
 end_operator
 begin_operator
 feast triumph wurst onion kentucky oregon
 0
 2
-0 8 6 2
 0 5 7 4
+0 8 6 2
 1
 end_operator
 begin_operator
 feast triumph wurst onion manitoba arizona
 0
 2
-0 8 6 2
 0 5 1 5
+0 8 6 2
 1
 end_operator
 begin_operator
 feast triumph wurst onion moravia surrey
 0
 2
-0 8 6 2
 0 5 10 6
+0 8 6 2
 1
 end_operator
 begin_operator
 feast triumph wurst onion oregon bavaria
 0
 2
-0 8 6 2
 0 5 2 7
+0 8 6 2
 1
 end_operator
 begin_operator
 feast triumph wurst onion pennsylvania alsace
 0
 2
-0 8 6 2
 0 5 0 8
+0 8 6 2
 1
 end_operator
 begin_operator
 feast triumph wurst onion quebec kentucky
 0
 2
-0 8 6 2
 0 5 4 9
+0 8 6 2
 1
 end_operator
 begin_operator
 feast triumph wurst onion surrey guanabara
 0
 2
-0 8 6 2
 0 5 3 10
+0 8 6 2
 1
 end_operator
 begin_operator
@@ -4659,8 +4659,8 @@ overcome boils love guava mars uranus
 1
 6 0
 2
-0 17 0 7
 0 14 3 1
+0 17 0 7
 1
 end_operator
 begin_operator
@@ -4668,8 +4668,8 @@ overcome boils love guava mercury mars
 1
 6 0
 2
-0 17 0 7
 0 14 1 2
+0 17 0 7
 1
 end_operator
 begin_operator
@@ -4677,8 +4677,8 @@ overcome boils love guava uranus earth
 1
 6 0
 2
-0 17 0 7
 0 14 0 3
+0 17 0 7
 1
 end_operator
 begin_operator
@@ -4686,8 +4686,8 @@ overcome boils love muffin mars uranus
 1
 6 1
 2
-0 17 1 7
 0 14 3 1
+0 17 1 7
 1
 end_operator
 begin_operator
@@ -4695,8 +4695,8 @@ overcome boils love muffin mercury mars
 1
 6 1
 2
-0 17 1 7
 0 14 1 2
+0 17 1 7
 1
 end_operator
 begin_operator
@@ -4704,8 +4704,8 @@ overcome boils love muffin uranus earth
 1
 6 1
 2
-0 17 1 7
 0 14 0 3
+0 17 1 7
 1
 end_operator
 begin_operator
@@ -4713,8 +4713,8 @@ overcome boils love onion mars uranus
 1
 6 2
 2
-0 17 2 7
 0 14 3 1
+0 17 2 7
 1
 end_operator
 begin_operator
@@ -4722,8 +4722,8 @@ overcome boils love onion mercury mars
 1
 6 2
 2
-0 17 2 7
 0 14 1 2
+0 17 2 7
 1
 end_operator
 begin_operator
@@ -4731,8 +4731,8 @@ overcome boils love onion uranus earth
 1
 6 2
 2
-0 17 2 7
 0 14 0 3
+0 17 2 7
 1
 end_operator
 begin_operator
@@ -4740,8 +4740,8 @@ overcome boils love popover mars uranus
 1
 6 3
 2
-0 17 3 7
 0 14 3 1
+0 17 3 7
 1
 end_operator
 begin_operator
@@ -4749,8 +4749,8 @@ overcome boils love popover mercury mars
 1
 6 3
 2
-0 17 3 7
 0 14 1 2
+0 17 3 7
 1
 end_operator
 begin_operator
@@ -4758,8 +4758,8 @@ overcome boils love popover uranus earth
 1
 6 3
 2
-0 17 3 7
 0 14 0 3
+0 17 3 7
 1
 end_operator
 begin_operator
@@ -4767,8 +4767,8 @@ overcome boils love pork mars uranus
 1
 6 4
 2
-0 17 4 7
 0 14 3 1
+0 17 4 7
 1
 end_operator
 begin_operator
@@ -4776,8 +4776,8 @@ overcome boils love pork mercury mars
 1
 6 4
 2
-0 17 4 7
 0 14 1 2
+0 17 4 7
 1
 end_operator
 begin_operator
@@ -4785,8 +4785,8 @@ overcome boils love pork uranus earth
 1
 6 4
 2
-0 17 4 7
 0 14 0 3
+0 17 4 7
 1
 end_operator
 begin_operator
@@ -4794,8 +4794,8 @@ overcome boils love scallion mars uranus
 1
 6 5
 2
-0 17 5 7
 0 14 3 1
+0 17 5 7
 1
 end_operator
 begin_operator
@@ -4803,8 +4803,8 @@ overcome boils love scallion mercury mars
 1
 6 5
 2
-0 17 5 7
 0 14 1 2
+0 17 5 7
 1
 end_operator
 begin_operator
@@ -4812,8 +4812,8 @@ overcome boils love scallion uranus earth
 1
 6 5
 2
-0 17 5 7
 0 14 0 3
+0 17 5 7
 1
 end_operator
 begin_operator
@@ -4821,8 +4821,8 @@ overcome boils love wurst mars uranus
 1
 6 6
 2
-0 17 6 7
 0 14 3 1
+0 17 6 7
 1
 end_operator
 begin_operator
@@ -4830,8 +4830,8 @@ overcome boils love wurst mercury mars
 1
 6 6
 2
-0 17 6 7
 0 14 1 2
+0 17 6 7
 1
 end_operator
 begin_operator
@@ -4839,8 +4839,8 @@ overcome boils love wurst uranus earth
 1
 6 6
 2
-0 17 6 7
 0 14 0 3
+0 17 6 7
 1
 end_operator
 begin_operator
@@ -4848,8 +4848,8 @@ overcome boils satisfaction guava mars uranus
 1
 7 0
 2
-0 17 0 8
 0 15 3 1
+0 17 0 8
 1
 end_operator
 begin_operator
@@ -4857,8 +4857,8 @@ overcome boils satisfaction guava mercury mars
 1
 7 0
 2
-0 17 0 8
 0 15 1 2
+0 17 0 8
 1
 end_operator
 begin_operator
@@ -4866,8 +4866,8 @@ overcome boils satisfaction guava uranus earth
 1
 7 0
 2
-0 17 0 8
 0 15 0 3
+0 17 0 8
 1
 end_operator
 begin_operator
@@ -4875,8 +4875,8 @@ overcome boils satisfaction muffin mars uranus
 1
 7 1
 2
-0 17 1 8
 0 15 3 1
+0 17 1 8
 1
 end_operator
 begin_operator
@@ -4884,8 +4884,8 @@ overcome boils satisfaction muffin mercury mars
 1
 7 1
 2
-0 17 1 8
 0 15 1 2
+0 17 1 8
 1
 end_operator
 begin_operator
@@ -4893,8 +4893,8 @@ overcome boils satisfaction muffin uranus earth
 1
 7 1
 2
-0 17 1 8
 0 15 0 3
+0 17 1 8
 1
 end_operator
 begin_operator
@@ -4902,8 +4902,8 @@ overcome boils satisfaction onion mars uranus
 1
 7 2
 2
-0 17 2 8
 0 15 3 1
+0 17 2 8
 1
 end_operator
 begin_operator
@@ -4911,8 +4911,8 @@ overcome boils satisfaction onion mercury mars
 1
 7 2
 2
-0 17 2 8
 0 15 1 2
+0 17 2 8
 1
 end_operator
 begin_operator
@@ -4920,8 +4920,8 @@ overcome boils satisfaction onion uranus earth
 1
 7 2
 2
-0 17 2 8
 0 15 0 3
+0 17 2 8
 1
 end_operator
 begin_operator
@@ -4929,8 +4929,8 @@ overcome boils satisfaction popover mars uranus
 1
 7 3
 2
-0 17 3 8
 0 15 3 1
+0 17 3 8
 1
 end_operator
 begin_operator
@@ -4938,8 +4938,8 @@ overcome boils satisfaction popover mercury mars
 1
 7 3
 2
-0 17 3 8
 0 15 1 2
+0 17 3 8
 1
 end_operator
 begin_operator
@@ -4947,8 +4947,8 @@ overcome boils satisfaction popover uranus earth
 1
 7 3
 2
-0 17 3 8
 0 15 0 3
+0 17 3 8
 1
 end_operator
 begin_operator
@@ -4956,8 +4956,8 @@ overcome boils satisfaction pork mars uranus
 1
 7 4
 2
-0 17 4 8
 0 15 3 1
+0 17 4 8
 1
 end_operator
 begin_operator
@@ -4965,8 +4965,8 @@ overcome boils satisfaction pork mercury mars
 1
 7 4
 2
-0 17 4 8
 0 15 1 2
+0 17 4 8
 1
 end_operator
 begin_operator
@@ -4974,8 +4974,8 @@ overcome boils satisfaction pork uranus earth
 1
 7 4
 2
-0 17 4 8
 0 15 0 3
+0 17 4 8
 1
 end_operator
 begin_operator
@@ -4983,8 +4983,8 @@ overcome boils satisfaction scallion mars uranus
 1
 7 5
 2
-0 17 5 8
 0 15 3 1
+0 17 5 8
 1
 end_operator
 begin_operator
@@ -4992,8 +4992,8 @@ overcome boils satisfaction scallion mercury mars
 1
 7 5
 2
-0 17 5 8
 0 15 1 2
+0 17 5 8
 1
 end_operator
 begin_operator
@@ -5001,8 +5001,8 @@ overcome boils satisfaction scallion uranus earth
 1
 7 5
 2
-0 17 5 8
 0 15 0 3
+0 17 5 8
 1
 end_operator
 begin_operator
@@ -5010,8 +5010,8 @@ overcome boils satisfaction wurst mars uranus
 1
 7 6
 2
-0 17 6 8
 0 15 3 1
+0 17 6 8
 1
 end_operator
 begin_operator
@@ -5019,8 +5019,8 @@ overcome boils satisfaction wurst mercury mars
 1
 7 6
 2
-0 17 6 8
 0 15 1 2
+0 17 6 8
 1
 end_operator
 begin_operator
@@ -5028,8 +5028,8 @@ overcome boils satisfaction wurst uranus earth
 1
 7 6
 2
-0 17 6 8
 0 15 0 3
+0 17 6 8
 1
 end_operator
 begin_operator
@@ -5037,8 +5037,8 @@ overcome boils triumph guava mars uranus
 1
 8 0
 2
-0 17 0 9
 0 16 3 1
+0 17 0 9
 1
 end_operator
 begin_operator
@@ -5046,8 +5046,8 @@ overcome boils triumph guava mercury mars
 1
 8 0
 2
-0 17 0 9
 0 16 1 2
+0 17 0 9
 1
 end_operator
 begin_operator
@@ -5055,8 +5055,8 @@ overcome boils triumph guava uranus earth
 1
 8 0
 2
-0 17 0 9
 0 16 0 3
+0 17 0 9
 1
 end_operator
 begin_operator
@@ -5064,8 +5064,8 @@ overcome boils triumph muffin mars uranus
 1
 8 1
 2
-0 17 1 9
 0 16 3 1
+0 17 1 9
 1
 end_operator
 begin_operator
@@ -5073,8 +5073,8 @@ overcome boils triumph muffin mercury mars
 1
 8 1
 2
-0 17 1 9
 0 16 1 2
+0 17 1 9
 1
 end_operator
 begin_operator
@@ -5082,8 +5082,8 @@ overcome boils triumph muffin uranus earth
 1
 8 1
 2
-0 17 1 9
 0 16 0 3
+0 17 1 9
 1
 end_operator
 begin_operator
@@ -5091,8 +5091,8 @@ overcome boils triumph onion mars uranus
 1
 8 2
 2
-0 17 2 9
 0 16 3 1
+0 17 2 9
 1
 end_operator
 begin_operator
@@ -5100,8 +5100,8 @@ overcome boils triumph onion mercury mars
 1
 8 2
 2
-0 17 2 9
 0 16 1 2
+0 17 2 9
 1
 end_operator
 begin_operator
@@ -5109,8 +5109,8 @@ overcome boils triumph onion uranus earth
 1
 8 2
 2
-0 17 2 9
 0 16 0 3
+0 17 2 9
 1
 end_operator
 begin_operator
@@ -5118,8 +5118,8 @@ overcome boils triumph popover mars uranus
 1
 8 3
 2
-0 17 3 9
 0 16 3 1
+0 17 3 9
 1
 end_operator
 begin_operator
@@ -5127,8 +5127,8 @@ overcome boils triumph popover mercury mars
 1
 8 3
 2
-0 17 3 9
 0 16 1 2
+0 17 3 9
 1
 end_operator
 begin_operator
@@ -5136,8 +5136,8 @@ overcome boils triumph popover uranus earth
 1
 8 3
 2
-0 17 3 9
 0 16 0 3
+0 17 3 9
 1
 end_operator
 begin_operator
@@ -5145,8 +5145,8 @@ overcome boils triumph pork mars uranus
 1
 8 4
 2
-0 17 4 9
 0 16 3 1
+0 17 4 9
 1
 end_operator
 begin_operator
@@ -5154,8 +5154,8 @@ overcome boils triumph pork mercury mars
 1
 8 4
 2
-0 17 4 9
 0 16 1 2
+0 17 4 9
 1
 end_operator
 begin_operator
@@ -5163,8 +5163,8 @@ overcome boils triumph pork uranus earth
 1
 8 4
 2
-0 17 4 9
 0 16 0 3
+0 17 4 9
 1
 end_operator
 begin_operator
@@ -5172,8 +5172,8 @@ overcome boils triumph scallion mars uranus
 1
 8 5
 2
-0 17 5 9
 0 16 3 1
+0 17 5 9
 1
 end_operator
 begin_operator
@@ -5181,8 +5181,8 @@ overcome boils triumph scallion mercury mars
 1
 8 5
 2
-0 17 5 9
 0 16 1 2
+0 17 5 9
 1
 end_operator
 begin_operator
@@ -5190,8 +5190,8 @@ overcome boils triumph scallion uranus earth
 1
 8 5
 2
-0 17 5 9
 0 16 0 3
+0 17 5 9
 1
 end_operator
 begin_operator
@@ -5199,8 +5199,8 @@ overcome boils triumph wurst mars uranus
 1
 8 6
 2
-0 17 6 9
 0 16 3 1
+0 17 6 9
 1
 end_operator
 begin_operator
@@ -5208,8 +5208,8 @@ overcome boils triumph wurst mercury mars
 1
 8 6
 2
-0 17 6 9
 0 16 1 2
+0 17 6 9
 1
 end_operator
 begin_operator
@@ -5217,8 +5217,8 @@ overcome boils triumph wurst uranus earth
 1
 8 6
 2
-0 17 6 9
 0 16 0 3
+0 17 6 9
 1
 end_operator
 begin_operator
@@ -5793,8 +5793,8 @@ overcome grief love guava mars uranus
 1
 6 0
 2
-0 18 0 7
 0 14 3 1
+0 18 0 7
 1
 end_operator
 begin_operator
@@ -5802,8 +5802,8 @@ overcome grief love guava mercury mars
 1
 6 0
 2
-0 18 0 7
 0 14 1 2
+0 18 0 7
 1
 end_operator
 begin_operator
@@ -5811,8 +5811,8 @@ overcome grief love guava uranus earth
 1
 6 0
 2
-0 18 0 7
 0 14 0 3
+0 18 0 7
 1
 end_operator
 begin_operator
@@ -5820,8 +5820,8 @@ overcome grief love muffin mars uranus
 1
 6 1
 2
-0 18 1 7
 0 14 3 1
+0 18 1 7
 1
 end_operator
 begin_operator
@@ -5829,8 +5829,8 @@ overcome grief love muffin mercury mars
 1
 6 1
 2
-0 18 1 7
 0 14 1 2
+0 18 1 7
 1
 end_operator
 begin_operator
@@ -5838,8 +5838,8 @@ overcome grief love muffin uranus earth
 1
 6 1
 2
-0 18 1 7
 0 14 0 3
+0 18 1 7
 1
 end_operator
 begin_operator
@@ -5847,8 +5847,8 @@ overcome grief love onion mars uranus
 1
 6 2
 2
-0 18 2 7
 0 14 3 1
+0 18 2 7
 1
 end_operator
 begin_operator
@@ -5856,8 +5856,8 @@ overcome grief love onion mercury mars
 1
 6 2
 2
-0 18 2 7
 0 14 1 2
+0 18 2 7
 1
 end_operator
 begin_operator
@@ -5865,8 +5865,8 @@ overcome grief love onion uranus earth
 1
 6 2
 2
-0 18 2 7
 0 14 0 3
+0 18 2 7
 1
 end_operator
 begin_operator
@@ -5874,8 +5874,8 @@ overcome grief love popover mars uranus
 1
 6 3
 2
-0 18 3 7
 0 14 3 1
+0 18 3 7
 1
 end_operator
 begin_operator
@@ -5883,8 +5883,8 @@ overcome grief love popover mercury mars
 1
 6 3
 2
-0 18 3 7
 0 14 1 2
+0 18 3 7
 1
 end_operator
 begin_operator
@@ -5892,8 +5892,8 @@ overcome grief love popover uranus earth
 1
 6 3
 2
-0 18 3 7
 0 14 0 3
+0 18 3 7
 1
 end_operator
 begin_operator
@@ -5901,8 +5901,8 @@ overcome grief love pork mars uranus
 1
 6 4
 2
-0 18 4 7
 0 14 3 1
+0 18 4 7
 1
 end_operator
 begin_operator
@@ -5910,8 +5910,8 @@ overcome grief love pork mercury mars
 1
 6 4
 2
-0 18 4 7
 0 14 1 2
+0 18 4 7
 1
 end_operator
 begin_operator
@@ -5919,8 +5919,8 @@ overcome grief love pork uranus earth
 1
 6 4
 2
-0 18 4 7
 0 14 0 3
+0 18 4 7
 1
 end_operator
 begin_operator
@@ -5928,8 +5928,8 @@ overcome grief love scallion mars uranus
 1
 6 5
 2
-0 18 5 7
 0 14 3 1
+0 18 5 7
 1
 end_operator
 begin_operator
@@ -5937,8 +5937,8 @@ overcome grief love scallion mercury mars
 1
 6 5
 2
-0 18 5 7
 0 14 1 2
+0 18 5 7
 1
 end_operator
 begin_operator
@@ -5946,8 +5946,8 @@ overcome grief love scallion uranus earth
 1
 6 5
 2
-0 18 5 7
 0 14 0 3
+0 18 5 7
 1
 end_operator
 begin_operator
@@ -5955,8 +5955,8 @@ overcome grief love wurst mars uranus
 1
 6 6
 2
-0 18 6 7
 0 14 3 1
+0 18 6 7
 1
 end_operator
 begin_operator
@@ -5964,8 +5964,8 @@ overcome grief love wurst mercury mars
 1
 6 6
 2
-0 18 6 7
 0 14 1 2
+0 18 6 7
 1
 end_operator
 begin_operator
@@ -5973,8 +5973,8 @@ overcome grief love wurst uranus earth
 1
 6 6
 2
-0 18 6 7
 0 14 0 3
+0 18 6 7
 1
 end_operator
 begin_operator
@@ -5982,8 +5982,8 @@ overcome grief satisfaction guava mars uranus
 1
 7 0
 2
-0 18 0 8
 0 15 3 1
+0 18 0 8
 1
 end_operator
 begin_operator
@@ -5991,8 +5991,8 @@ overcome grief satisfaction guava mercury mars
 1
 7 0
 2
-0 18 0 8
 0 15 1 2
+0 18 0 8
 1
 end_operator
 begin_operator
@@ -6000,8 +6000,8 @@ overcome grief satisfaction guava uranus earth
 1
 7 0
 2
-0 18 0 8
 0 15 0 3
+0 18 0 8
 1
 end_operator
 begin_operator
@@ -6009,8 +6009,8 @@ overcome grief satisfaction muffin mars uranus
 1
 7 1
 2
-0 18 1 8
 0 15 3 1
+0 18 1 8
 1
 end_operator
 begin_operator
@@ -6018,8 +6018,8 @@ overcome grief satisfaction muffin mercury mars
 1
 7 1
 2
-0 18 1 8
 0 15 1 2
+0 18 1 8
 1
 end_operator
 begin_operator
@@ -6027,8 +6027,8 @@ overcome grief satisfaction muffin uranus earth
 1
 7 1
 2
-0 18 1 8
 0 15 0 3
+0 18 1 8
 1
 end_operator
 begin_operator
@@ -6036,8 +6036,8 @@ overcome grief satisfaction onion mars uranus
 1
 7 2
 2
-0 18 2 8
 0 15 3 1
+0 18 2 8
 1
 end_operator
 begin_operator
@@ -6045,8 +6045,8 @@ overcome grief satisfaction onion mercury mars
 1
 7 2
 2
-0 18 2 8
 0 15 1 2
+0 18 2 8
 1
 end_operator
 begin_operator
@@ -6054,8 +6054,8 @@ overcome grief satisfaction onion uranus earth
 1
 7 2
 2
-0 18 2 8
 0 15 0 3
+0 18 2 8
 1
 end_operator
 begin_operator
@@ -6063,8 +6063,8 @@ overcome grief satisfaction popover mars uranus
 1
 7 3
 2
-0 18 3 8
 0 15 3 1
+0 18 3 8
 1
 end_operator
 begin_operator
@@ -6072,8 +6072,8 @@ overcome grief satisfaction popover mercury mars
 1
 7 3
 2
-0 18 3 8
 0 15 1 2
+0 18 3 8
 1
 end_operator
 begin_operator
@@ -6081,8 +6081,8 @@ overcome grief satisfaction popover uranus earth
 1
 7 3
 2
-0 18 3 8
 0 15 0 3
+0 18 3 8
 1
 end_operator
 begin_operator
@@ -6090,8 +6090,8 @@ overcome grief satisfaction pork mars uranus
 1
 7 4
 2
-0 18 4 8
 0 15 3 1
+0 18 4 8
 1
 end_operator
 begin_operator
@@ -6099,8 +6099,8 @@ overcome grief satisfaction pork mercury mars
 1
 7 4
 2
-0 18 4 8
 0 15 1 2
+0 18 4 8
 1
 end_operator
 begin_operator
@@ -6108,8 +6108,8 @@ overcome grief satisfaction pork uranus earth
 1
 7 4
 2
-0 18 4 8
 0 15 0 3
+0 18 4 8
 1
 end_operator
 begin_operator
@@ -6117,8 +6117,8 @@ overcome grief satisfaction scallion mars uranus
 1
 7 5
 2
-0 18 5 8
 0 15 3 1
+0 18 5 8
 1
 end_operator
 begin_operator
@@ -6126,8 +6126,8 @@ overcome grief satisfaction scallion mercury mars
 1
 7 5
 2
-0 18 5 8
 0 15 1 2
+0 18 5 8
 1
 end_operator
 begin_operator
@@ -6135,8 +6135,8 @@ overcome grief satisfaction scallion uranus earth
 1
 7 5
 2
-0 18 5 8
 0 15 0 3
+0 18 5 8
 1
 end_operator
 begin_operator
@@ -6144,8 +6144,8 @@ overcome grief satisfaction wurst mars uranus
 1
 7 6
 2
-0 18 6 8
 0 15 3 1
+0 18 6 8
 1
 end_operator
 begin_operator
@@ -6153,8 +6153,8 @@ overcome grief satisfaction wurst mercury mars
 1
 7 6
 2
-0 18 6 8
 0 15 1 2
+0 18 6 8
 1
 end_operator
 begin_operator
@@ -6162,8 +6162,8 @@ overcome grief satisfaction wurst uranus earth
 1
 7 6
 2
-0 18 6 8
 0 15 0 3
+0 18 6 8
 1
 end_operator
 begin_operator
@@ -6171,8 +6171,8 @@ overcome grief triumph guava mars uranus
 1
 8 0
 2
-0 18 0 9
 0 16 3 1
+0 18 0 9
 1
 end_operator
 begin_operator
@@ -6180,8 +6180,8 @@ overcome grief triumph guava mercury mars
 1
 8 0
 2
-0 18 0 9
 0 16 1 2
+0 18 0 9
 1
 end_operator
 begin_operator
@@ -6189,8 +6189,8 @@ overcome grief triumph guava uranus earth
 1
 8 0
 2
-0 18 0 9
 0 16 0 3
+0 18 0 9
 1
 end_operator
 begin_operator
@@ -6198,8 +6198,8 @@ overcome grief triumph muffin mars uranus
 1
 8 1
 2
-0 18 1 9
 0 16 3 1
+0 18 1 9
 1
 end_operator
 begin_operator
@@ -6207,8 +6207,8 @@ overcome grief triumph muffin mercury mars
 1
 8 1
 2
-0 18 1 9
 0 16 1 2
+0 18 1 9
 1
 end_operator
 begin_operator
@@ -6216,8 +6216,8 @@ overcome grief triumph muffin uranus earth
 1
 8 1
 2
-0 18 1 9
 0 16 0 3
+0 18 1 9
 1
 end_operator
 begin_operator
@@ -6225,8 +6225,8 @@ overcome grief triumph onion mars uranus
 1
 8 2
 2
-0 18 2 9
 0 16 3 1
+0 18 2 9
 1
 end_operator
 begin_operator
@@ -6234,8 +6234,8 @@ overcome grief triumph onion mercury mars
 1
 8 2
 2
-0 18 2 9
 0 16 1 2
+0 18 2 9
 1
 end_operator
 begin_operator
@@ -6243,8 +6243,8 @@ overcome grief triumph onion uranus earth
 1
 8 2
 2
-0 18 2 9
 0 16 0 3
+0 18 2 9
 1
 end_operator
 begin_operator
@@ -6252,8 +6252,8 @@ overcome grief triumph popover mars uranus
 1
 8 3
 2
-0 18 3 9
 0 16 3 1
+0 18 3 9
 1
 end_operator
 begin_operator
@@ -6261,8 +6261,8 @@ overcome grief triumph popover mercury mars
 1
 8 3
 2
-0 18 3 9
 0 16 1 2
+0 18 3 9
 1
 end_operator
 begin_operator
@@ -6270,8 +6270,8 @@ overcome grief triumph popover uranus earth
 1
 8 3
 2
-0 18 3 9
 0 16 0 3
+0 18 3 9
 1
 end_operator
 begin_operator
@@ -6279,8 +6279,8 @@ overcome grief triumph pork mars uranus
 1
 8 4
 2
-0 18 4 9
 0 16 3 1
+0 18 4 9
 1
 end_operator
 begin_operator
@@ -6288,8 +6288,8 @@ overcome grief triumph pork mercury mars
 1
 8 4
 2
-0 18 4 9
 0 16 1 2
+0 18 4 9
 1
 end_operator
 begin_operator
@@ -6297,8 +6297,8 @@ overcome grief triumph pork uranus earth
 1
 8 4
 2
-0 18 4 9
 0 16 0 3
+0 18 4 9
 1
 end_operator
 begin_operator
@@ -6306,8 +6306,8 @@ overcome grief triumph scallion mars uranus
 1
 8 5
 2
-0 18 5 9
 0 16 3 1
+0 18 5 9
 1
 end_operator
 begin_operator
@@ -6315,8 +6315,8 @@ overcome grief triumph scallion mercury mars
 1
 8 5
 2
-0 18 5 9
 0 16 1 2
+0 18 5 9
 1
 end_operator
 begin_operator
@@ -6324,8 +6324,8 @@ overcome grief triumph scallion uranus earth
 1
 8 5
 2
-0 18 5 9
 0 16 0 3
+0 18 5 9
 1
 end_operator
 begin_operator
@@ -6333,8 +6333,8 @@ overcome grief triumph wurst mars uranus
 1
 8 6
 2
-0 18 6 9
 0 16 3 1
+0 18 6 9
 1
 end_operator
 begin_operator
@@ -6342,8 +6342,8 @@ overcome grief triumph wurst mercury mars
 1
 8 6
 2
-0 18 6 9
 0 16 1 2
+0 18 6 9
 1
 end_operator
 begin_operator
@@ -6351,8 +6351,8 @@ overcome grief triumph wurst uranus earth
 1
 8 6
 2
-0 18 6 9
 0 16 0 3
+0 18 6 9
 1
 end_operator
 begin_operator
@@ -8061,8 +8061,8 @@ succumb boils love guava mars uranus
 1
 6 0
 2
-0 17 7 0
 0 14 1 3
+0 17 7 0
 1
 end_operator
 begin_operator
@@ -8070,8 +8070,8 @@ succumb boils love guava mercury mars
 1
 6 0
 2
-0 17 7 0
 0 14 2 1
+0 17 7 0
 1
 end_operator
 begin_operator
@@ -8079,8 +8079,8 @@ succumb boils love guava uranus earth
 1
 6 0
 2
-0 17 7 0
 0 14 3 0
+0 17 7 0
 1
 end_operator
 begin_operator
@@ -8088,8 +8088,8 @@ succumb boils love muffin mars uranus
 1
 6 1
 2
-0 17 7 1
 0 14 1 3
+0 17 7 1
 1
 end_operator
 begin_operator
@@ -8097,8 +8097,8 @@ succumb boils love muffin mercury mars
 1
 6 1
 2
-0 17 7 1
 0 14 2 1
+0 17 7 1
 1
 end_operator
 begin_operator
@@ -8106,8 +8106,8 @@ succumb boils love muffin uranus earth
 1
 6 1
 2
-0 17 7 1
 0 14 3 0
+0 17 7 1
 1
 end_operator
 begin_operator
@@ -8115,8 +8115,8 @@ succumb boils love onion mars uranus
 1
 6 2
 2
-0 17 7 2
 0 14 1 3
+0 17 7 2
 1
 end_operator
 begin_operator
@@ -8124,8 +8124,8 @@ succumb boils love onion mercury mars
 1
 6 2
 2
-0 17 7 2
 0 14 2 1
+0 17 7 2
 1
 end_operator
 begin_operator
@@ -8133,8 +8133,8 @@ succumb boils love onion uranus earth
 1
 6 2
 2
-0 17 7 2
 0 14 3 0
+0 17 7 2
 1
 end_operator
 begin_operator
@@ -8142,8 +8142,8 @@ succumb boils love popover mars uranus
 1
 6 3
 2
-0 17 7 3
 0 14 1 3
+0 17 7 3
 1
 end_operator
 begin_operator
@@ -8151,8 +8151,8 @@ succumb boils love popover mercury mars
 1
 6 3
 2
-0 17 7 3
 0 14 2 1
+0 17 7 3
 1
 end_operator
 begin_operator
@@ -8160,8 +8160,8 @@ succumb boils love popover uranus earth
 1
 6 3
 2
-0 17 7 3
 0 14 3 0
+0 17 7 3
 1
 end_operator
 begin_operator
@@ -8169,8 +8169,8 @@ succumb boils love pork mars uranus
 1
 6 4
 2
-0 17 7 4
 0 14 1 3
+0 17 7 4
 1
 end_operator
 begin_operator
@@ -8178,8 +8178,8 @@ succumb boils love pork mercury mars
 1
 6 4
 2
-0 17 7 4
 0 14 2 1
+0 17 7 4
 1
 end_operator
 begin_operator
@@ -8187,8 +8187,8 @@ succumb boils love pork uranus earth
 1
 6 4
 2
-0 17 7 4
 0 14 3 0
+0 17 7 4
 1
 end_operator
 begin_operator
@@ -8196,8 +8196,8 @@ succumb boils love scallion mars uranus
 1
 6 5
 2
-0 17 7 5
 0 14 1 3
+0 17 7 5
 1
 end_operator
 begin_operator
@@ -8205,8 +8205,8 @@ succumb boils love scallion mercury mars
 1
 6 5
 2
-0 17 7 5
 0 14 2 1
+0 17 7 5
 1
 end_operator
 begin_operator
@@ -8214,8 +8214,8 @@ succumb boils love scallion uranus earth
 1
 6 5
 2
-0 17 7 5
 0 14 3 0
+0 17 7 5
 1
 end_operator
 begin_operator
@@ -8223,8 +8223,8 @@ succumb boils love wurst mars uranus
 1
 6 6
 2
-0 17 7 6
 0 14 1 3
+0 17 7 6
 1
 end_operator
 begin_operator
@@ -8232,8 +8232,8 @@ succumb boils love wurst mercury mars
 1
 6 6
 2
-0 17 7 6
 0 14 2 1
+0 17 7 6
 1
 end_operator
 begin_operator
@@ -8241,8 +8241,8 @@ succumb boils love wurst uranus earth
 1
 6 6
 2
-0 17 7 6
 0 14 3 0
+0 17 7 6
 1
 end_operator
 begin_operator
@@ -8250,8 +8250,8 @@ succumb boils satisfaction guava mars uranus
 1
 7 0
 2
-0 17 8 0
 0 15 1 3
+0 17 8 0
 1
 end_operator
 begin_operator
@@ -8259,8 +8259,8 @@ succumb boils satisfaction guava mercury mars
 1
 7 0
 2
-0 17 8 0
 0 15 2 1
+0 17 8 0
 1
 end_operator
 begin_operator
@@ -8268,8 +8268,8 @@ succumb boils satisfaction guava uranus earth
 1
 7 0
 2
-0 17 8 0
 0 15 3 0
+0 17 8 0
 1
 end_operator
 begin_operator
@@ -8277,8 +8277,8 @@ succumb boils satisfaction muffin mars uranus
 1
 7 1
 2
-0 17 8 1
 0 15 1 3
+0 17 8 1
 1
 end_operator
 begin_operator
@@ -8286,8 +8286,8 @@ succumb boils satisfaction muffin mercury mars
 1
 7 1
 2
-0 17 8 1
 0 15 2 1
+0 17 8 1
 1
 end_operator
 begin_operator
@@ -8295,8 +8295,8 @@ succumb boils satisfaction muffin uranus earth
 1
 7 1
 2
-0 17 8 1
 0 15 3 0
+0 17 8 1
 1
 end_operator
 begin_operator
@@ -8304,8 +8304,8 @@ succumb boils satisfaction onion mars uranus
 1
 7 2
 2
-0 17 8 2
 0 15 1 3
+0 17 8 2
 1
 end_operator
 begin_operator
@@ -8313,8 +8313,8 @@ succumb boils satisfaction onion mercury mars
 1
 7 2
 2
-0 17 8 2
 0 15 2 1
+0 17 8 2
 1
 end_operator
 begin_operator
@@ -8322,8 +8322,8 @@ succumb boils satisfaction onion uranus earth
 1
 7 2
 2
-0 17 8 2
 0 15 3 0
+0 17 8 2
 1
 end_operator
 begin_operator
@@ -8331,8 +8331,8 @@ succumb boils satisfaction popover mars uranus
 1
 7 3
 2
-0 17 8 3
 0 15 1 3
+0 17 8 3
 1
 end_operator
 begin_operator
@@ -8340,8 +8340,8 @@ succumb boils satisfaction popover mercury mars
 1
 7 3
 2
-0 17 8 3
 0 15 2 1
+0 17 8 3
 1
 end_operator
 begin_operator
@@ -8349,8 +8349,8 @@ succumb boils satisfaction popover uranus earth
 1
 7 3
 2
-0 17 8 3
 0 15 3 0
+0 17 8 3
 1
 end_operator
 begin_operator
@@ -8358,8 +8358,8 @@ succumb boils satisfaction pork mars uranus
 1
 7 4
 2
-0 17 8 4
 0 15 1 3
+0 17 8 4
 1
 end_operator
 begin_operator
@@ -8367,8 +8367,8 @@ succumb boils satisfaction pork mercury mars
 1
 7 4
 2
-0 17 8 4
 0 15 2 1
+0 17 8 4
 1
 end_operator
 begin_operator
@@ -8376,8 +8376,8 @@ succumb boils satisfaction pork uranus earth
 1
 7 4
 2
-0 17 8 4
 0 15 3 0
+0 17 8 4
 1
 end_operator
 begin_operator
@@ -8385,8 +8385,8 @@ succumb boils satisfaction scallion mars uranus
 1
 7 5
 2
-0 17 8 5
 0 15 1 3
+0 17 8 5
 1
 end_operator
 begin_operator
@@ -8394,8 +8394,8 @@ succumb boils satisfaction scallion mercury mars
 1
 7 5
 2
-0 17 8 5
 0 15 2 1
+0 17 8 5
 1
 end_operator
 begin_operator
@@ -8403,8 +8403,8 @@ succumb boils satisfaction scallion uranus earth
 1
 7 5
 2
-0 17 8 5
 0 15 3 0
+0 17 8 5
 1
 end_operator
 begin_operator
@@ -8412,8 +8412,8 @@ succumb boils satisfaction wurst mars uranus
 1
 7 6
 2
-0 17 8 6
 0 15 1 3
+0 17 8 6
 1
 end_operator
 begin_operator
@@ -8421,8 +8421,8 @@ succumb boils satisfaction wurst mercury mars
 1
 7 6
 2
-0 17 8 6
 0 15 2 1
+0 17 8 6
 1
 end_operator
 begin_operator
@@ -8430,8 +8430,8 @@ succumb boils satisfaction wurst uranus earth
 1
 7 6
 2
-0 17 8 6
 0 15 3 0
+0 17 8 6
 1
 end_operator
 begin_operator
@@ -8439,8 +8439,8 @@ succumb boils triumph guava mars uranus
 1
 8 0
 2
-0 17 9 0
 0 16 1 3
+0 17 9 0
 1
 end_operator
 begin_operator
@@ -8448,8 +8448,8 @@ succumb boils triumph guava mercury mars
 1
 8 0
 2
-0 17 9 0
 0 16 2 1
+0 17 9 0
 1
 end_operator
 begin_operator
@@ -8457,8 +8457,8 @@ succumb boils triumph guava uranus earth
 1
 8 0
 2
-0 17 9 0
 0 16 3 0
+0 17 9 0
 1
 end_operator
 begin_operator
@@ -8466,8 +8466,8 @@ succumb boils triumph muffin mars uranus
 1
 8 1
 2
-0 17 9 1
 0 16 1 3
+0 17 9 1
 1
 end_operator
 begin_operator
@@ -8475,8 +8475,8 @@ succumb boils triumph muffin mercury mars
 1
 8 1
 2
-0 17 9 1
 0 16 2 1
+0 17 9 1
 1
 end_operator
 begin_operator
@@ -8484,8 +8484,8 @@ succumb boils triumph muffin uranus earth
 1
 8 1
 2
-0 17 9 1
 0 16 3 0
+0 17 9 1
 1
 end_operator
 begin_operator
@@ -8493,8 +8493,8 @@ succumb boils triumph onion mars uranus
 1
 8 2
 2
-0 17 9 2
 0 16 1 3
+0 17 9 2
 1
 end_operator
 begin_operator
@@ -8502,8 +8502,8 @@ succumb boils triumph onion mercury mars
 1
 8 2
 2
-0 17 9 2
 0 16 2 1
+0 17 9 2
 1
 end_operator
 begin_operator
@@ -8511,8 +8511,8 @@ succumb boils triumph onion uranus earth
 1
 8 2
 2
-0 17 9 2
 0 16 3 0
+0 17 9 2
 1
 end_operator
 begin_operator
@@ -8520,8 +8520,8 @@ succumb boils triumph popover mars uranus
 1
 8 3
 2
-0 17 9 3
 0 16 1 3
+0 17 9 3
 1
 end_operator
 begin_operator
@@ -8529,8 +8529,8 @@ succumb boils triumph popover mercury mars
 1
 8 3
 2
-0 17 9 3
 0 16 2 1
+0 17 9 3
 1
 end_operator
 begin_operator
@@ -8538,8 +8538,8 @@ succumb boils triumph popover uranus earth
 1
 8 3
 2
-0 17 9 3
 0 16 3 0
+0 17 9 3
 1
 end_operator
 begin_operator
@@ -8547,8 +8547,8 @@ succumb boils triumph pork mars uranus
 1
 8 4
 2
-0 17 9 4
 0 16 1 3
+0 17 9 4
 1
 end_operator
 begin_operator
@@ -8556,8 +8556,8 @@ succumb boils triumph pork mercury mars
 1
 8 4
 2
-0 17 9 4
 0 16 2 1
+0 17 9 4
 1
 end_operator
 begin_operator
@@ -8565,8 +8565,8 @@ succumb boils triumph pork uranus earth
 1
 8 4
 2
-0 17 9 4
 0 16 3 0
+0 17 9 4
 1
 end_operator
 begin_operator
@@ -8574,8 +8574,8 @@ succumb boils triumph scallion mars uranus
 1
 8 5
 2
-0 17 9 5
 0 16 1 3
+0 17 9 5
 1
 end_operator
 begin_operator
@@ -8583,8 +8583,8 @@ succumb boils triumph scallion mercury mars
 1
 8 5
 2
-0 17 9 5
 0 16 2 1
+0 17 9 5
 1
 end_operator
 begin_operator
@@ -8592,8 +8592,8 @@ succumb boils triumph scallion uranus earth
 1
 8 5
 2
-0 17 9 5
 0 16 3 0
+0 17 9 5
 1
 end_operator
 begin_operator
@@ -8601,8 +8601,8 @@ succumb boils triumph wurst mars uranus
 1
 8 6
 2
-0 17 9 6
 0 16 1 3
+0 17 9 6
 1
 end_operator
 begin_operator
@@ -8610,8 +8610,8 @@ succumb boils triumph wurst mercury mars
 1
 8 6
 2
-0 17 9 6
 0 16 2 1
+0 17 9 6
 1
 end_operator
 begin_operator
@@ -8619,8 +8619,8 @@ succumb boils triumph wurst uranus earth
 1
 8 6
 2
-0 17 9 6
 0 16 3 0
+0 17 9 6
 1
 end_operator
 begin_operator
@@ -9195,8 +9195,8 @@ succumb grief love guava mars uranus
 1
 6 0
 2
-0 18 7 0
 0 14 1 3
+0 18 7 0
 1
 end_operator
 begin_operator
@@ -9204,8 +9204,8 @@ succumb grief love guava mercury mars
 1
 6 0
 2
-0 18 7 0
 0 14 2 1
+0 18 7 0
 1
 end_operator
 begin_operator
@@ -9213,8 +9213,8 @@ succumb grief love guava uranus earth
 1
 6 0
 2
-0 18 7 0
 0 14 3 0
+0 18 7 0
 1
 end_operator
 begin_operator
@@ -9222,8 +9222,8 @@ succumb grief love muffin mars uranus
 1
 6 1
 2
-0 18 7 1
 0 14 1 3
+0 18 7 1
 1
 end_operator
 begin_operator
@@ -9231,8 +9231,8 @@ succumb grief love muffin mercury mars
 1
 6 1
 2
-0 18 7 1
 0 14 2 1
+0 18 7 1
 1
 end_operator
 begin_operator
@@ -9240,8 +9240,8 @@ succumb grief love muffin uranus earth
 1
 6 1
 2
-0 18 7 1
 0 14 3 0
+0 18 7 1
 1
 end_operator
 begin_operator
@@ -9249,8 +9249,8 @@ succumb grief love onion mars uranus
 1
 6 2
 2
-0 18 7 2
 0 14 1 3
+0 18 7 2
 1
 end_operator
 begin_operator
@@ -9258,8 +9258,8 @@ succumb grief love onion mercury mars
 1
 6 2
 2
-0 18 7 2
 0 14 2 1
+0 18 7 2
 1
 end_operator
 begin_operator
@@ -9267,8 +9267,8 @@ succumb grief love onion uranus earth
 1
 6 2
 2
-0 18 7 2
 0 14 3 0
+0 18 7 2
 1
 end_operator
 begin_operator
@@ -9276,8 +9276,8 @@ succumb grief love popover mars uranus
 1
 6 3
 2
-0 18 7 3
 0 14 1 3
+0 18 7 3
 1
 end_operator
 begin_operator
@@ -9285,8 +9285,8 @@ succumb grief love popover mercury mars
 1
 6 3
 2
-0 18 7 3
 0 14 2 1
+0 18 7 3
 1
 end_operator
 begin_operator
@@ -9294,8 +9294,8 @@ succumb grief love popover uranus earth
 1
 6 3
 2
-0 18 7 3
 0 14 3 0
+0 18 7 3
 1
 end_operator
 begin_operator
@@ -9303,8 +9303,8 @@ succumb grief love pork mars uranus
 1
 6 4
 2
-0 18 7 4
 0 14 1 3
+0 18 7 4
 1
 end_operator
 begin_operator
@@ -9312,8 +9312,8 @@ succumb grief love pork mercury mars
 1
 6 4
 2
-0 18 7 4
 0 14 2 1
+0 18 7 4
 1
 end_operator
 begin_operator
@@ -9321,8 +9321,8 @@ succumb grief love pork uranus earth
 1
 6 4
 2
-0 18 7 4
 0 14 3 0
+0 18 7 4
 1
 end_operator
 begin_operator
@@ -9330,8 +9330,8 @@ succumb grief love scallion mars uranus
 1
 6 5
 2
-0 18 7 5
 0 14 1 3
+0 18 7 5
 1
 end_operator
 begin_operator
@@ -9339,8 +9339,8 @@ succumb grief love scallion mercury mars
 1
 6 5
 2
-0 18 7 5
 0 14 2 1
+0 18 7 5
 1
 end_operator
 begin_operator
@@ -9348,8 +9348,8 @@ succumb grief love scallion uranus earth
 1
 6 5
 2
-0 18 7 5
 0 14 3 0
+0 18 7 5
 1
 end_operator
 begin_operator
@@ -9357,8 +9357,8 @@ succumb grief love wurst mars uranus
 1
 6 6
 2
-0 18 7 6
 0 14 1 3
+0 18 7 6
 1
 end_operator
 begin_operator
@@ -9366,8 +9366,8 @@ succumb grief love wurst mercury mars
 1
 6 6
 2
-0 18 7 6
 0 14 2 1
+0 18 7 6
 1
 end_operator
 begin_operator
@@ -9375,8 +9375,8 @@ succumb grief love wurst uranus earth
 1
 6 6
 2
-0 18 7 6
 0 14 3 0
+0 18 7 6
 1
 end_operator
 begin_operator
@@ -9384,8 +9384,8 @@ succumb grief satisfaction guava mars uranus
 1
 7 0
 2
-0 18 8 0
 0 15 1 3
+0 18 8 0
 1
 end_operator
 begin_operator
@@ -9393,8 +9393,8 @@ succumb grief satisfaction guava mercury mars
 1
 7 0
 2
-0 18 8 0
 0 15 2 1
+0 18 8 0
 1
 end_operator
 begin_operator
@@ -9402,8 +9402,8 @@ succumb grief satisfaction guava uranus earth
 1
 7 0
 2
-0 18 8 0
 0 15 3 0
+0 18 8 0
 1
 end_operator
 begin_operator
@@ -9411,8 +9411,8 @@ succumb grief satisfaction muffin mars uranus
 1
 7 1
 2
-0 18 8 1
 0 15 1 3
+0 18 8 1
 1
 end_operator
 begin_operator
@@ -9420,8 +9420,8 @@ succumb grief satisfaction muffin mercury mars
 1
 7 1
 2
-0 18 8 1
 0 15 2 1
+0 18 8 1
 1
 end_operator
 begin_operator
@@ -9429,8 +9429,8 @@ succumb grief satisfaction muffin uranus earth
 1
 7 1
 2
-0 18 8 1
 0 15 3 0
+0 18 8 1
 1
 end_operator
 begin_operator
@@ -9438,8 +9438,8 @@ succumb grief satisfaction onion mars uranus
 1
 7 2
 2
-0 18 8 2
 0 15 1 3
+0 18 8 2
 1
 end_operator
 begin_operator
@@ -9447,8 +9447,8 @@ succumb grief satisfaction onion mercury mars
 1
 7 2
 2
-0 18 8 2
 0 15 2 1
+0 18 8 2
 1
 end_operator
 begin_operator
@@ -9456,8 +9456,8 @@ succumb grief satisfaction onion uranus earth
 1
 7 2
 2
-0 18 8 2
 0 15 3 0
+0 18 8 2
 1
 end_operator
 begin_operator
@@ -9465,8 +9465,8 @@ succumb grief satisfaction popover mars uranus
 1
 7 3
 2
-0 18 8 3
 0 15 1 3
+0 18 8 3
 1
 end_operator
 begin_operator
@@ -9474,8 +9474,8 @@ succumb grief satisfaction popover mercury mars
 1
 7 3
 2
-0 18 8 3
 0 15 2 1
+0 18 8 3
 1
 end_operator
 begin_operator
@@ -9483,8 +9483,8 @@ succumb grief satisfaction popover uranus earth
 1
 7 3
 2
-0 18 8 3
 0 15 3 0
+0 18 8 3
 1
 end_operator
 begin_operator
@@ -9492,8 +9492,8 @@ succumb grief satisfaction pork mars uranus
 1
 7 4
 2
-0 18 8 4
 0 15 1 3
+0 18 8 4
 1
 end_operator
 begin_operator
@@ -9501,8 +9501,8 @@ succumb grief satisfaction pork mercury mars
 1
 7 4
 2
-0 18 8 4
 0 15 2 1
+0 18 8 4
 1
 end_operator
 begin_operator
@@ -9510,8 +9510,8 @@ succumb grief satisfaction pork uranus earth
 1
 7 4
 2
-0 18 8 4
 0 15 3 0
+0 18 8 4
 1
 end_operator
 begin_operator
@@ -9519,8 +9519,8 @@ succumb grief satisfaction scallion mars uranus
 1
 7 5
 2
-0 18 8 5
 0 15 1 3
+0 18 8 5
 1
 end_operator
 begin_operator
@@ -9528,8 +9528,8 @@ succumb grief satisfaction scallion mercury mars
 1
 7 5
 2
-0 18 8 5
 0 15 2 1
+0 18 8 5
 1
 end_operator
 begin_operator
@@ -9537,8 +9537,8 @@ succumb grief satisfaction scallion uranus earth
 1
 7 5
 2
-0 18 8 5
 0 15 3 0
+0 18 8 5
 1
 end_operator
 begin_operator
@@ -9546,8 +9546,8 @@ succumb grief satisfaction wurst mars uranus
 1
 7 6
 2
-0 18 8 6
 0 15 1 3
+0 18 8 6
 1
 end_operator
 begin_operator
@@ -9555,8 +9555,8 @@ succumb grief satisfaction wurst mercury mars
 1
 7 6
 2
-0 18 8 6
 0 15 2 1
+0 18 8 6
 1
 end_operator
 begin_operator
@@ -9564,8 +9564,8 @@ succumb grief satisfaction wurst uranus earth
 1
 7 6
 2
-0 18 8 6
 0 15 3 0
+0 18 8 6
 1
 end_operator
 begin_operator
@@ -9573,8 +9573,8 @@ succumb grief triumph guava mars uranus
 1
 8 0
 2
-0 18 9 0
 0 16 1 3
+0 18 9 0
 1
 end_operator
 begin_operator
@@ -9582,8 +9582,8 @@ succumb grief triumph guava mercury mars
 1
 8 0
 2
-0 18 9 0
 0 16 2 1
+0 18 9 0
 1
 end_operator
 begin_operator
@@ -9591,8 +9591,8 @@ succumb grief triumph guava uranus earth
 1
 8 0
 2
-0 18 9 0
 0 16 3 0
+0 18 9 0
 1
 end_operator
 begin_operator
@@ -9600,8 +9600,8 @@ succumb grief triumph muffin mars uranus
 1
 8 1
 2
-0 18 9 1
 0 16 1 3
+0 18 9 1
 1
 end_operator
 begin_operator
@@ -9609,8 +9609,8 @@ succumb grief triumph muffin mercury mars
 1
 8 1
 2
-0 18 9 1
 0 16 2 1
+0 18 9 1
 1
 end_operator
 begin_operator
@@ -9618,8 +9618,8 @@ succumb grief triumph muffin uranus earth
 1
 8 1
 2
-0 18 9 1
 0 16 3 0
+0 18 9 1
 1
 end_operator
 begin_operator
@@ -9627,8 +9627,8 @@ succumb grief triumph onion mars uranus
 1
 8 2
 2
-0 18 9 2
 0 16 1 3
+0 18 9 2
 1
 end_operator
 begin_operator
@@ -9636,8 +9636,8 @@ succumb grief triumph onion mercury mars
 1
 8 2
 2
-0 18 9 2
 0 16 2 1
+0 18 9 2
 1
 end_operator
 begin_operator
@@ -9645,8 +9645,8 @@ succumb grief triumph onion uranus earth
 1
 8 2
 2
-0 18 9 2
 0 16 3 0
+0 18 9 2
 1
 end_operator
 begin_operator
@@ -9654,8 +9654,8 @@ succumb grief triumph popover mars uranus
 1
 8 3
 2
-0 18 9 3
 0 16 1 3
+0 18 9 3
 1
 end_operator
 begin_operator
@@ -9663,8 +9663,8 @@ succumb grief triumph popover mercury mars
 1
 8 3
 2
-0 18 9 3
 0 16 2 1
+0 18 9 3
 1
 end_operator
 begin_operator
@@ -9672,8 +9672,8 @@ succumb grief triumph popover uranus earth
 1
 8 3
 2
-0 18 9 3
 0 16 3 0
+0 18 9 3
 1
 end_operator
 begin_operator
@@ -9681,8 +9681,8 @@ succumb grief triumph pork mars uranus
 1
 8 4
 2
-0 18 9 4
 0 16 1 3
+0 18 9 4
 1
 end_operator
 begin_operator
@@ -9690,8 +9690,8 @@ succumb grief triumph pork mercury mars
 1
 8 4
 2
-0 18 9 4
 0 16 2 1
+0 18 9 4
 1
 end_operator
 begin_operator
@@ -9699,8 +9699,8 @@ succumb grief triumph pork uranus earth
 1
 8 4
 2
-0 18 9 4
 0 16 3 0
+0 18 9 4
 1
 end_operator
 begin_operator
@@ -9708,8 +9708,8 @@ succumb grief triumph scallion mars uranus
 1
 8 5
 2
-0 18 9 5
 0 16 1 3
+0 18 9 5
 1
 end_operator
 begin_operator
@@ -9717,8 +9717,8 @@ succumb grief triumph scallion mercury mars
 1
 8 5
 2
-0 18 9 5
 0 16 2 1
+0 18 9 5
 1
 end_operator
 begin_operator
@@ -9726,8 +9726,8 @@ succumb grief triumph scallion uranus earth
 1
 8 5
 2
-0 18 9 5
 0 16 3 0
+0 18 9 5
 1
 end_operator
 begin_operator
@@ -9735,8 +9735,8 @@ succumb grief triumph wurst mars uranus
 1
 8 6
 2
-0 18 9 6
 0 16 1 3
+0 18 9 6
 1
 end_operator
 begin_operator
@@ -9744,8 +9744,8 @@ succumb grief triumph wurst mercury mars
 1
 8 6
 2
-0 18 9 6
 0 16 2 1
+0 18 9 6
 1
 end_operator
 begin_operator
@@ -9753,8 +9753,8 @@ succumb grief triumph wurst uranus earth
 1
 8 6
 2
-0 18 9 6
 0 16 3 0
+0 18 9 6
 1
 end_operator
 begin_operator

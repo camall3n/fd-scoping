@@ -7981,8 +7981,8 @@ overcome abrasion rest flounder earth uranus
 1
 0 0
 2
-0 10 0 6
 0 9 2 0
+0 10 0 6
 1
 end_operator
 begin_operator
@@ -7990,8 +7990,8 @@ overcome abrasion rest flounder mars earth
 1
 0 0
 2
-0 10 0 6
 0 9 0 1
+0 10 0 6
 1
 end_operator
 begin_operator
@@ -7999,8 +7999,8 @@ overcome abrasion rest flounder uranus venus
 1
 0 0
 2
-0 10 0 6
 0 9 3 2
+0 10 0 6
 1
 end_operator
 begin_operator
@@ -8008,8 +8008,8 @@ overcome abrasion rest lamb earth uranus
 1
 0 1
 2
-0 10 1 6
 0 9 2 0
+0 10 1 6
 1
 end_operator
 begin_operator
@@ -8017,8 +8017,8 @@ overcome abrasion rest lamb mars earth
 1
 0 1
 2
-0 10 1 6
 0 9 0 1
+0 10 1 6
 1
 end_operator
 begin_operator
@@ -8026,8 +8026,8 @@ overcome abrasion rest lamb uranus venus
 1
 0 1
 2
-0 10 1 6
 0 9 3 2
+0 10 1 6
 1
 end_operator
 begin_operator
@@ -8035,8 +8035,8 @@ overcome abrasion rest okra earth uranus
 1
 0 2
 2
-0 10 2 6
 0 9 2 0
+0 10 2 6
 1
 end_operator
 begin_operator
@@ -8044,8 +8044,8 @@ overcome abrasion rest okra mars earth
 1
 0 2
 2
-0 10 2 6
 0 9 0 1
+0 10 2 6
 1
 end_operator
 begin_operator
@@ -8053,8 +8053,8 @@ overcome abrasion rest okra uranus venus
 1
 0 2
 2
-0 10 2 6
 0 9 3 2
+0 10 2 6
 1
 end_operator
 begin_operator
@@ -8062,8 +8062,8 @@ overcome abrasion rest pear earth uranus
 1
 0 3
 2
-0 10 3 6
 0 9 2 0
+0 10 3 6
 1
 end_operator
 begin_operator
@@ -8071,8 +8071,8 @@ overcome abrasion rest pear mars earth
 1
 0 3
 2
-0 10 3 6
 0 9 0 1
+0 10 3 6
 1
 end_operator
 begin_operator
@@ -8080,8 +8080,8 @@ overcome abrasion rest pear uranus venus
 1
 0 3
 2
-0 10 3 6
 0 9 3 2
+0 10 3 6
 1
 end_operator
 begin_operator
@@ -8089,8 +8089,8 @@ overcome abrasion rest pork earth uranus
 1
 0 4
 2
-0 10 4 6
 0 9 2 0
+0 10 4 6
 1
 end_operator
 begin_operator
@@ -8098,8 +8098,8 @@ overcome abrasion rest pork mars earth
 1
 0 4
 2
-0 10 4 6
 0 9 0 1
+0 10 4 6
 1
 end_operator
 begin_operator
@@ -8107,8 +8107,8 @@ overcome abrasion rest pork uranus venus
 1
 0 4
 2
-0 10 4 6
 0 9 3 2
+0 10 4 6
 1
 end_operator
 begin_operator
@@ -8116,8 +8116,8 @@ overcome abrasion rest rice earth uranus
 1
 0 5
 2
-0 10 5 6
 0 9 2 0
+0 10 5 6
 1
 end_operator
 begin_operator
@@ -8125,8 +8125,8 @@ overcome abrasion rest rice mars earth
 1
 0 5
 2
-0 10 5 6
 0 9 0 1
+0 10 5 6
 1
 end_operator
 begin_operator
@@ -8134,8 +8134,8 @@ overcome abrasion rest rice uranus venus
 1
 0 5
 2
-0 10 5 6
 0 9 3 2
+0 10 5 6
 1
 end_operator
 begin_operator
@@ -8467,8 +8467,8 @@ succumb abrasion rest flounder earth uranus
 1
 0 0
 2
-0 10 6 0
 0 9 0 2
+0 10 6 0
 1
 end_operator
 begin_operator
@@ -8476,8 +8476,8 @@ succumb abrasion rest flounder mars earth
 1
 0 0
 2
-0 10 6 0
 0 9 1 0
+0 10 6 0
 1
 end_operator
 begin_operator
@@ -8485,8 +8485,8 @@ succumb abrasion rest flounder uranus venus
 1
 0 0
 2
-0 10 6 0
 0 9 2 3
+0 10 6 0
 1
 end_operator
 begin_operator
@@ -8494,8 +8494,8 @@ succumb abrasion rest lamb earth uranus
 1
 0 1
 2
-0 10 6 1
 0 9 0 2
+0 10 6 1
 1
 end_operator
 begin_operator
@@ -8503,8 +8503,8 @@ succumb abrasion rest lamb mars earth
 1
 0 1
 2
-0 10 6 1
 0 9 1 0
+0 10 6 1
 1
 end_operator
 begin_operator
@@ -8512,8 +8512,8 @@ succumb abrasion rest lamb uranus venus
 1
 0 1
 2
-0 10 6 1
 0 9 2 3
+0 10 6 1
 1
 end_operator
 begin_operator
@@ -8521,8 +8521,8 @@ succumb abrasion rest okra earth uranus
 1
 0 2
 2
-0 10 6 2
 0 9 0 2
+0 10 6 2
 1
 end_operator
 begin_operator
@@ -8530,8 +8530,8 @@ succumb abrasion rest okra mars earth
 1
 0 2
 2
-0 10 6 2
 0 9 1 0
+0 10 6 2
 1
 end_operator
 begin_operator
@@ -8539,8 +8539,8 @@ succumb abrasion rest okra uranus venus
 1
 0 2
 2
-0 10 6 2
 0 9 2 3
+0 10 6 2
 1
 end_operator
 begin_operator
@@ -8548,8 +8548,8 @@ succumb abrasion rest pear earth uranus
 1
 0 3
 2
-0 10 6 3
 0 9 0 2
+0 10 6 3
 1
 end_operator
 begin_operator
@@ -8557,8 +8557,8 @@ succumb abrasion rest pear mars earth
 1
 0 3
 2
-0 10 6 3
 0 9 1 0
+0 10 6 3
 1
 end_operator
 begin_operator
@@ -8566,8 +8566,8 @@ succumb abrasion rest pear uranus venus
 1
 0 3
 2
-0 10 6 3
 0 9 2 3
+0 10 6 3
 1
 end_operator
 begin_operator
@@ -8575,8 +8575,8 @@ succumb abrasion rest pork earth uranus
 1
 0 4
 2
-0 10 6 4
 0 9 0 2
+0 10 6 4
 1
 end_operator
 begin_operator
@@ -8584,8 +8584,8 @@ succumb abrasion rest pork mars earth
 1
 0 4
 2
-0 10 6 4
 0 9 1 0
+0 10 6 4
 1
 end_operator
 begin_operator
@@ -8593,8 +8593,8 @@ succumb abrasion rest pork uranus venus
 1
 0 4
 2
-0 10 6 4
 0 9 2 3
+0 10 6 4
 1
 end_operator
 begin_operator
@@ -8602,8 +8602,8 @@ succumb abrasion rest rice earth uranus
 1
 0 5
 2
-0 10 6 5
 0 9 0 2
+0 10 6 5
 1
 end_operator
 begin_operator
@@ -8611,8 +8611,8 @@ succumb abrasion rest rice mars earth
 1
 0 5
 2
-0 10 6 5
 0 9 1 0
+0 10 6 5
 1
 end_operator
 begin_operator
@@ -8620,8 +8620,8 @@ succumb abrasion rest rice uranus venus
 1
 0 5
 2
-0 10 6 5
 0 9 2 3
+0 10 6 5
 1
 end_operator
 begin_operator

@@ -105,9 +105,9 @@ close_cb1
 1
 6 3
 3
-0 7 -1 0
 0 1 0 1
 0 3 1 0
+0 7 -1 0
 1
 end_operator
 begin_operator
@@ -140,8 +140,8 @@ end_operator
 begin_operator
 close_sd1-condeff0-no-2 
 2
-6 0
 1 0
+6 0
 1
 0 2 -1 0
 1
@@ -149,21 +149,21 @@ end_operator
 begin_operator
 close_sd1-condeff0-yes 
 3
-5 0
 0 0
+5 0
 6 0
 3
-0 7 0 1
-0 2 -1 0
 0 1 -1 0
+0 2 -1 0
+0 7 0 1
 1
 end_operator
 begin_operator
 close_sd1-endof-condeffs 
 0
 2
-0 6 0 3
 0 2 0 1
+0 6 0 3
 1
 end_operator
 begin_operator
@@ -196,8 +196,8 @@ end_operator
 begin_operator
 close_sd2-condeff0-no-2 
 2
-6 1
 1 0
+6 1
 1
 0 2 -1 0
 1
@@ -205,21 +205,21 @@ end_operator
 begin_operator
 close_sd2-condeff0-yes 
 3
-4 0
 0 0
+4 0
 6 1
 3
-0 7 0 1
-0 2 -1 0
 0 1 -1 0
+0 2 -1 0
+0 7 0 1
 1
 end_operator
 begin_operator
 close_sd2-endof-condeffs 
 0
 2
-0 6 1 3
 0 2 0 1
+0 6 1 3
 1
 end_operator
 begin_operator
@@ -252,8 +252,8 @@ end_operator
 begin_operator
 close_sd3-condeff0-no-2 
 2
-6 2
 1 0
+6 2
 1
 0 2 -1 0
 1
@@ -265,24 +265,24 @@ close_sd3-condeff0-yes
 5 0
 6 2
 3
-0 7 0 1
-0 2 -1 0
 0 1 -1 0
+0 2 -1 0
+0 7 0 1
 1
 end_operator
 begin_operator
 close_sd3-endof-condeffs 
 0
 2
-0 6 2 3
 0 2 0 1
+0 6 2 3
 1
 end_operator
 begin_operator
 close_sd4 
 2
-6 3
 3 1
+6 3
 1
 0 9 1 0
 1
@@ -290,8 +290,8 @@ end_operator
 begin_operator
 close_sd5 
 2
-6 3
 3 1
+6 3
 1
 0 8 1 0
 1
@@ -299,18 +299,18 @@ end_operator
 begin_operator
 open-cb1 
 2
-6 3
 3 1
+6 3
 2
-0 7 0 1
 0 1 -1 0
+0 7 0 1
 1
 end_operator
 begin_operator
 open-sd1 
 2
-6 3
 3 1
+6 3
 1
 0 4 0 1
 1
@@ -318,8 +318,8 @@ end_operator
 begin_operator
 open-sd2 
 2
-6 3
 3 1
+6 3
 1
 0 5 0 1
 1
@@ -327,8 +327,8 @@ end_operator
 begin_operator
 open-sd3 
 2
-6 3
 3 1
+6 3
 1
 0 0 0 1
 1
@@ -336,8 +336,8 @@ end_operator
 begin_operator
 open-sd4 
 2
-6 3
 3 1
+6 3
 1
 0 9 0 1
 1
@@ -345,8 +345,8 @@ end_operator
 begin_operator
 open-sd5 
 2
-6 3
 3 1
+6 3
 1
 0 8 0 1
 1
@@ -355,8 +355,8 @@ begin_operator
 wait_cb1 
 0
 2
-0 6 3 4
 0 3 0 1
+0 6 3 4
 1
 end_operator
 begin_operator
@@ -389,22 +389,22 @@ end_operator
 begin_operator
 wait_cb1-condeff0-yes 
 4
+0 0
 4 0
 5 0
-0 0
 6 4
 3
-0 7 -1 1
-0 2 -1 0
 0 1 -1 0
+0 2 -1 0
+0 7 -1 1
 1
 end_operator
 begin_operator
 wait_cb1-endof-condeffs 
 0
 2
-0 6 4 3
 0 2 0 1
+0 6 4 3
 1
 end_operator
 0

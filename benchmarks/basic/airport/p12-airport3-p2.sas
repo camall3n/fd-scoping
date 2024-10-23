@@ -1867,250 +1867,250 @@ begin_mutex_group
 end_mutex_group
 begin_mutex_group
 4
-125 0
-125 1
 123 0
 123 5
+125 0
+125 1
 end_mutex_group
 begin_mutex_group
 3
+78 0
 122 2
 125 2
-78 0
 end_mutex_group
 begin_mutex_group
 3
+80 0
 122 3
 125 3
-80 0
 end_mutex_group
 begin_mutex_group
 3
+75 0
 122 4
 125 4
-75 0
 end_mutex_group
 begin_mutex_group
 3
+77 0
 122 5
 125 5
-77 0
 end_mutex_group
 begin_mutex_group
 3
+51 0
 122 6
 125 6
-51 0
 end_mutex_group
 begin_mutex_group
 3
+76 0
 122 7
 125 7
-76 0
 end_mutex_group
 begin_mutex_group
 3
+90 0
 122 8
 125 8
-90 0
 end_mutex_group
 begin_mutex_group
 3
+62 0
 122 9
 125 9
-62 0
 end_mutex_group
 begin_mutex_group
 3
+117 0
 122 10
 125 10
-117 0
 end_mutex_group
 begin_mutex_group
 3
+118 0
 122 11
 125 11
-118 0
 end_mutex_group
 begin_mutex_group
 3
+100 0
 122 12
 125 12
-100 0
 end_mutex_group
 begin_mutex_group
 3
+101 0
 122 13
 125 13
-101 0
 end_mutex_group
 begin_mutex_group
 3
+109 0
 122 14
 125 14
-109 0
 end_mutex_group
 begin_mutex_group
 3
+111 0
 122 15
 125 15
-111 0
 end_mutex_group
 begin_mutex_group
 3
+104 0
 122 16
 125 16
-104 0
 end_mutex_group
 begin_mutex_group
 3
+108 0
 122 17
 125 17
-108 0
 end_mutex_group
 begin_mutex_group
 3
+87 0
 122 18
 125 18
-87 0
 end_mutex_group
 begin_mutex_group
 3
+95 0
 122 19
 125 19
-95 0
 end_mutex_group
 begin_mutex_group
 3
+52 0
 122 20
 125 20
-52 0
 end_mutex_group
 begin_mutex_group
 3
+53 0
 122 21
 125 21
-53 0
 end_mutex_group
 begin_mutex_group
 3
+44 0
 122 22
 125 22
-44 0
 end_mutex_group
 begin_mutex_group
 3
+36 0
 122 23
 125 23
-36 0
 end_mutex_group
 begin_mutex_group
 3
+37 0
 122 24
 125 24
-37 0
 end_mutex_group
 begin_mutex_group
 3
+38 0
 122 25
 125 25
-38 0
 end_mutex_group
 begin_mutex_group
 3
+39 0
 122 26
 125 26
-39 0
 end_mutex_group
 begin_mutex_group
 3
+41 0
 122 27
 125 27
-41 0
 end_mutex_group
 begin_mutex_group
 3
+42 0
 122 28
 125 28
-42 0
 end_mutex_group
 begin_mutex_group
 3
+74 0
 122 29
 125 29
-74 0
 end_mutex_group
 begin_mutex_group
 3
+58 0
 122 30
 125 30
-58 0
 end_mutex_group
 begin_mutex_group
 3
+79 0
 122 31
 125 31
-79 0
 end_mutex_group
 begin_mutex_group
 3
+72 0
 122 32
 125 32
-72 0
 end_mutex_group
 begin_mutex_group
 3
+70 0
 122 33
 125 33
-70 0
 end_mutex_group
 begin_mutex_group
 3
+65 0
 122 34
 125 34
-65 0
 end_mutex_group
 begin_mutex_group
 3
+56 0
 122 35
 125 35
-56 0
 end_mutex_group
 begin_mutex_group
 3
+57 0
 122 36
 125 36
-57 0
 end_mutex_group
 begin_mutex_group
 3
+59 0
 122 37
 125 37
-59 0
 end_mutex_group
 begin_mutex_group
 3
+61 0
 122 38
 125 38
-61 0
 end_mutex_group
 begin_mutex_group
 3
+92 0
 122 39
 125 39
-92 0
 end_mutex_group
 begin_mutex_group
 3
+85 0
 122 40
 125 40
-85 0
 end_mutex_group
 begin_mutex_group
 3
+71 0
 122 41
 125 41
-71 0
 end_mutex_group
 begin_state
 0
@@ -2375,2122 +2375,2122 @@ end_goal
 begin_operator
 move_seg_09_0_150_seg_rwy_0_1300_south_south_medium airplane_cfbeg
 3
+10 0
 93 1
 124 0
-10 0
 9
-0 122 2 41
-0 246 -1 1
-0 211 -1 0
-0 20 -1 0
 0 9 0 1
-0 78 -1 0
+0 20 -1 0
 0 71 0 1
-0 155 -1 1
+0 78 -1 0
+0 122 2 41
 0 153 -1 0
+0 155 -1 1
+0 211 -1 0
+0 246 -1 1
 1
 end_operator
 begin_operator
 move_seg_09_0_150_seg_rwy_0_1300_south_south_medium airplane_dfboy
 3
+9 0
 99 1
 123 0
-9 0
 9
-0 125 2 41
-0 204 -1 1
-0 169 -1 0
-0 29 -1 0
 0 10 0 1
-0 78 -1 0
+0 29 -1 0
 0 71 0 1
-0 155 -1 1
+0 78 -1 0
+0 125 2 41
 0 153 -1 0
+0 155 -1 1
+0 169 -1 0
+0 204 -1 1
 1
 end_operator
 begin_operator
 move_seg_27_0_150_seg_b_27_0_100_south_north_medium airplane_cfbeg
 2
-124 0
 48 0
+124 0
 14
-0 122 3 9
-0 251 -1 1
-0 249 -1 0
-0 243 -1 0
-0 211 -1 1
-0 93 1 0
-0 27 -1 0
-0 168 -1 1
-0 26 0 1
 0 9 -1 0
-0 80 -1 0
+0 26 0 1
+0 27 -1 0
 0 62 0 1
-0 154 -1 1
+0 80 -1 0
+0 93 1 0
+0 122 3 9
 0 152 -1 0
+0 154 -1 1
+0 168 -1 1
+0 211 -1 1
+0 243 -1 0
+0 249 -1 0
+0 251 -1 1
 1
 end_operator
 begin_operator
 move_seg_27_0_150_seg_b_27_0_100_south_north_medium airplane_dfboy
 2
-123 0
 26 0
+123 0
 14
-0 125 3 9
-0 210 -1 1
-0 207 -1 0
-0 201 -1 0
-0 169 -1 1
-0 99 1 0
-0 49 -1 0
-0 167 -1 1
-0 48 0 1
 0 10 -1 0
-0 80 -1 0
+0 48 0 1
+0 49 -1 0
 0 62 0 1
-0 154 -1 1
+0 80 -1 0
+0 99 1 0
+0 125 3 9
 0 152 -1 0
+0 154 -1 1
+0 167 -1 1
+0 169 -1 1
+0 201 -1 0
+0 207 -1 0
+0 210 -1 1
 1
 end_operator
 begin_operator
 move_seg_a01_0_100_seg_c3_c_a01_0_100_north_north_medium airplane_cfbeg
 3
 93 0
-124 0
 119 0
+124 0
 7
-0 122 4 12
-0 240 -1 0
-0 102 0 1
 0 75 -1 0
 0 100 0 1
-0 138 -1 1
+0 102 0 1
+0 122 4 12
 0 137 -1 0
+0 138 -1 1
+0 240 -1 0
 1
 end_operator
 begin_operator
 move_seg_a01_0_100_seg_c3_c_a01_0_100_north_north_medium airplane_dfboy
 3
 99 0
-123 0
 102 0
+123 0
 7
-0 125 4 12
-0 198 -1 0
-0 119 0 1
 0 75 -1 0
 0 100 0 1
-0 138 -1 1
+0 119 0 1
+0 125 4 12
 0 137 -1 0
+0 138 -1 1
+0 198 -1 0
 1
 end_operator
 begin_operator
 move_seg_a02_0_100_seg_c5_c_a02_0_100_north_north_medium airplane_cfbeg
 3
 93 0
-124 0
 112 0
+124 0
 7
-0 122 5 16
-0 236 -1 0
-0 106 0 1
 0 77 -1 0
 0 104 0 1
-0 131 -1 1
+0 106 0 1
+0 122 5 16
 0 130 -1 0
+0 131 -1 1
+0 236 -1 0
 1
 end_operator
 begin_operator
 move_seg_a02_0_100_seg_c5_c_a02_0_100_north_north_medium airplane_dfboy
 3
 99 0
-123 0
 106 0
+123 0
 7
-0 125 5 16
-0 194 -1 0
-0 112 0 1
 0 77 -1 0
 0 104 0 1
-0 131 -1 1
+0 112 0 1
+0 125 5 16
 0 130 -1 0
+0 131 -1 1
+0 194 -1 0
 1
 end_operator
 begin_operator
 move_seg_a_09_0_100_seg_09_0_150_south_south_medium airplane_cfbeg
 3
+49 0
 93 1
 124 0
-49 0
 9
-0 122 6 2
-0 251 -1 0
-0 232 -1 1
-0 27 0 1
 0 0 -1 0
-0 78 0 1
+0 27 0 1
 0 51 -1 0
+0 78 0 1
+0 122 6 2
 0 155 -1 0
 0 156 -1 1
+0 232 -1 1
+0 251 -1 0
 1
 end_operator
 begin_operator
 move_seg_a_09_0_100_seg_09_0_150_south_south_medium airplane_dfboy
 3
+27 0
 99 1
 123 0
-27 0
 9
-0 125 6 2
-0 210 -1 0
-0 190 -1 1
 0 49 0 1
 0 50 -1 0
-0 78 0 1
 0 51 -1 0
+0 78 0 1
+0 125 6 2
 0 155 -1 0
 0 156 -1 1
+0 190 -1 1
+0 210 -1 0
 1
 end_operator
 begin_operator
 move_seg_b01_0_100_seg_c3_c_b01_0_100_north_north_medium airplane_cfbeg
 3
 93 0
-124 0
 120 0
+124 0
 7
-0 122 7 13
-0 239 -1 0
-0 103 0 1
 0 76 -1 0
 0 101 0 1
-0 136 -1 1
+0 103 0 1
+0 122 7 13
 0 135 -1 0
+0 136 -1 1
+0 239 -1 0
 1
 end_operator
 begin_operator
 move_seg_b01_0_100_seg_c3_c_b01_0_100_north_north_medium airplane_dfboy
 3
 99 0
-123 0
 103 0
+123 0
 7
-0 125 7 13
-0 197 -1 0
-0 120 0 1
 0 76 -1 0
 0 101 0 1
-0 136 -1 1
+0 120 0 1
+0 125 7 13
 0 135 -1 0
+0 136 -1 1
+0 197 -1 0
 1
 end_operator
 begin_operator
 move_seg_b02_0_100_seg_c5_c_b02_0_100_north_north_medium airplane_cfbeg
 3
 93 0
-124 0
 114 0
+124 0
 7
-0 122 8 17
-0 235 -1 0
-0 107 0 1
 0 90 -1 0
+0 107 0 1
 0 108 0 1
+0 122 8 17
 0 126 -1 1
 0 128 -1 0
+0 235 -1 0
 1
 end_operator
 begin_operator
 move_seg_b02_0_100_seg_c5_c_b02_0_100_north_north_medium airplane_dfboy
 3
 99 0
-123 0
 107 0
+123 0
 7
-0 125 8 17
-0 193 -1 0
-0 114 0 1
 0 90 -1 0
 0 108 0 1
+0 114 0 1
+0 125 8 17
 0 126 -1 1
 0 128 -1 0
+0 193 -1 0
 1
 end_operator
 begin_operator
 move_seg_b_27_0_100_seg_n6_b_0_100_north_north_medium airplane_cfbeg
 3
+60 0
 93 0
 124 0
-60 0
 11
-0 122 9 38
-0 250 -1 1
-0 249 -1 1
-0 214 -1 0
-0 28 -1 0
-0 168 -1 0
 0 18 0 1
-0 62 -1 0
+0 28 -1 0
 0 61 0 1
-0 152 -1 1
+0 62 -1 0
+0 122 9 38
 0 151 -1 0
+0 152 -1 1
+0 168 -1 0
+0 214 -1 0
+0 249 -1 1
+0 250 -1 1
 1
 end_operator
 begin_operator
 move_seg_b_27_0_100_seg_n6_b_0_100_north_north_medium airplane_dfboy
 3
+18 0
 99 0
 123 0
-18 0
 11
-0 125 9 38
-0 208 -1 1
-0 207 -1 1
-0 172 -1 0
-0 63 -1 0
-0 167 -1 0
 0 60 0 1
-0 62 -1 0
 0 61 0 1
-0 152 -1 1
+0 62 -1 0
+0 63 -1 0
+0 125 9 38
 0 151 -1 0
+0 152 -1 1
+0 167 -1 0
+0 172 -1 0
+0 207 -1 1
+0 208 -1 1
 1
 end_operator
 begin_operator
 move_seg_c2_c3_0_100_seg_c3_c4_0_50_south_south_medium airplane_cfbeg
 5
 93 1
-124 0
-121 0
 100 0
 101 0
+121 0
+124 0
 13
-0 122 10 11
-0 241 -1 0
-0 240 -1 0
-0 239 -1 0
-0 233 -1 1
-0 115 0 1
+0 94 -1 0
 0 102 -1 1
 0 103 -1 1
-0 94 -1 0
+0 115 0 1
 0 117 -1 0
 0 118 0 1
-0 134 -1 1
+0 122 10 11
 0 133 -1 0
+0 134 -1 1
+0 233 -1 1
+0 239 -1 0
+0 240 -1 0
+0 241 -1 0
 1
 end_operator
 begin_operator
 move_seg_c2_c3_0_100_seg_c3_c4_0_50_south_south_medium airplane_dfboy
 5
 99 1
-123 0
-115 0
 100 0
 101 0
+115 0
+123 0
 13
-0 125 10 11
-0 199 -1 0
-0 198 -1 0
-0 197 -1 0
-0 191 -1 1
-0 121 0 1
-0 119 -1 1
-0 120 -1 1
 0 98 -1 0
 0 117 -1 0
 0 118 0 1
-0 134 -1 1
+0 119 -1 1
+0 120 -1 1
+0 121 0 1
+0 125 10 11
 0 133 -1 0
+0 134 -1 1
+0 191 -1 1
+0 197 -1 0
+0 198 -1 0
+0 199 -1 0
 1
 end_operator
 begin_operator
 move_seg_c2_c3_0_100_seg_c3_c_a01_0_100_south_south_medium airplane_cfbeg
 5
 93 1
-124 0
-119 0
-118 0
 101 0
+118 0
+119 0
+124 0
 13
-0 122 10 12
-0 241 -1 0
-0 240 -1 0
-0 239 -1 0
-0 233 -1 1
-0 115 -1 1
+0 94 -1 0
+0 100 0 1
 0 102 0 1
 0 103 -1 1
-0 94 -1 0
+0 115 -1 1
 0 117 -1 0
-0 100 0 1
+0 122 10 12
 0 134 -1 1
 0 137 -1 0
+0 233 -1 1
+0 239 -1 0
+0 240 -1 0
+0 241 -1 0
 1
 end_operator
 begin_operator
 move_seg_c2_c3_0_100_seg_c3_c_a01_0_100_south_south_medium airplane_dfboy
 5
 99 1
-123 0
+101 0
 102 0
 118 0
-101 0
+123 0
 13
-0 125 10 12
-0 199 -1 0
-0 198 -1 0
-0 197 -1 0
-0 191 -1 1
-0 121 -1 1
+0 98 -1 0
+0 100 0 1
+0 117 -1 0
 0 119 0 1
 0 120 -1 1
-0 98 -1 0
-0 117 -1 0
-0 100 0 1
+0 121 -1 1
+0 125 10 12
 0 134 -1 1
 0 137 -1 0
+0 191 -1 1
+0 197 -1 0
+0 198 -1 0
+0 199 -1 0
 1
 end_operator
 begin_operator
 move_seg_c2_c3_0_100_seg_c3_c_b01_0_100_south_south_medium airplane_cfbeg
 5
 93 1
-124 0
-120 0
-118 0
 100 0
+118 0
+120 0
+124 0
 13
-0 122 10 13
-0 241 -1 0
-0 240 -1 0
-0 239 -1 0
-0 233 -1 1
-0 115 -1 1
+0 94 -1 0
+0 101 0 1
 0 102 -1 1
 0 103 0 1
-0 94 -1 0
+0 115 -1 1
 0 117 -1 0
-0 101 0 1
+0 122 10 13
 0 134 -1 1
 0 135 -1 0
+0 233 -1 1
+0 239 -1 0
+0 240 -1 0
+0 241 -1 0
 1
 end_operator
 begin_operator
 move_seg_c2_c3_0_100_seg_c3_c_b01_0_100_south_south_medium airplane_dfboy
 5
 99 1
-123 0
+100 0
 103 0
 118 0
-100 0
+123 0
 13
-0 125 10 13
-0 199 -1 0
-0 198 -1 0
-0 197 -1 0
-0 191 -1 1
-0 121 -1 1
+0 98 -1 0
+0 101 0 1
+0 117 -1 0
 0 119 -1 1
 0 120 0 1
-0 98 -1 0
-0 117 -1 0
-0 101 0 1
+0 121 -1 1
+0 125 10 13
 0 134 -1 1
 0 135 -1 0
+0 191 -1 1
+0 197 -1 0
+0 198 -1 0
+0 199 -1 0
 1
 end_operator
 begin_operator
 move_seg_c2_c3_0_100_seg_c_c2_0_100_north_north_medium airplane_cfbeg
 3
 93 0
-124 0
 98 0
+124 0
 13
-0 122 10 19
-0 241 -1 1
-0 240 -1 1
-0 239 -1 1
-0 233 -1 0
-0 115 -1 0
+0 94 0 1
+0 95 0 1
 0 102 -1 0
 0 103 -1 0
-0 94 0 1
+0 115 -1 0
 0 117 -1 0
-0 95 0 1
+0 122 10 19
 0 134 -1 1
 0 142 -1 0
+0 233 -1 0
+0 239 -1 1
+0 240 -1 1
+0 241 -1 1
 1
 end_operator
 begin_operator
 move_seg_c2_c3_0_100_seg_c_c2_0_100_north_north_medium airplane_dfboy
 3
+94 0
 99 0
 123 0
-94 0
 13
-0 125 10 19
-0 199 -1 1
-0 198 -1 1
-0 197 -1 1
-0 191 -1 0
-0 121 -1 0
-0 119 -1 0
-0 120 -1 0
+0 95 0 1
 0 98 0 1
 0 117 -1 0
-0 95 0 1
+0 119 -1 0
+0 120 -1 0
+0 121 -1 0
+0 125 10 19
 0 134 -1 1
 0 142 -1 0
+0 191 -1 0
+0 197 -1 1
+0 198 -1 1
+0 199 -1 1
 1
 end_operator
 begin_operator
 move_seg_c3_c4_0_50_seg_c2_c3_0_100_north_north_medium airplane_cfbeg
 5
 93 0
-124 0
-116 0
 100 0
 101 0
+116 0
+124 0
 13
-0 122 11 10
-0 242 -1 0
-0 240 -1 0
-0 239 -1 0
-0 238 -1 1
 0 96 0 1
+0 97 -1 0
 0 102 -1 1
 0 103 -1 1
-0 97 -1 0
 0 117 0 1
 0 118 -1 0
-0 134 -1 0
+0 122 11 10
 0 133 -1 1
+0 134 -1 0
+0 238 -1 1
+0 239 -1 0
+0 240 -1 0
+0 242 -1 0
 1
 end_operator
 begin_operator
 move_seg_c3_c4_0_50_seg_c2_c3_0_100_north_north_medium airplane_dfboy
 5
-99 0
-123 0
 96 0
+99 0
 100 0
 101 0
+123 0
 13
-0 125 11 10
-0 200 -1 0
-0 198 -1 0
-0 197 -1 0
-0 196 -1 1
-0 116 0 1
-0 119 -1 1
-0 120 -1 1
 0 110 -1 0
+0 116 0 1
 0 117 0 1
 0 118 -1 0
-0 134 -1 0
+0 119 -1 1
+0 120 -1 1
+0 125 11 10
 0 133 -1 1
+0 134 -1 0
+0 196 -1 1
+0 197 -1 0
+0 198 -1 0
+0 200 -1 0
 1
 end_operator
 begin_operator
 move_seg_c3_c4_0_50_seg_c4_c5_0_50_south_south_medium airplane_cfbeg
 3
 93 1
-124 0
 110 0
+124 0
 13
-0 122 11 14
-0 242 -1 1
-0 240 -1 1
-0 239 -1 1
-0 238 -1 0
 0 96 -1 0
+0 97 0 1
 0 102 -1 0
 0 103 -1 0
-0 97 0 1
-0 118 -1 0
 0 109 0 1
-0 133 -1 1
+0 118 -1 0
+0 122 11 14
 0 132 -1 0
+0 133 -1 1
+0 238 -1 0
+0 239 -1 1
+0 240 -1 1
+0 242 -1 1
 1
 end_operator
 begin_operator
 move_seg_c3_c4_0_50_seg_c4_c5_0_50_south_south_medium airplane_dfboy
 3
+97 0
 99 1
 123 0
-97 0
 13
-0 125 11 14
-0 200 -1 1
-0 198 -1 1
-0 197 -1 1
-0 196 -1 0
+0 109 0 1
+0 110 0 1
 0 116 -1 0
+0 118 -1 0
 0 119 -1 0
 0 120 -1 0
-0 110 0 1
-0 118 -1 0
-0 109 0 1
-0 133 -1 1
+0 125 11 14
 0 132 -1 0
+0 133 -1 1
+0 196 -1 0
+0 197 -1 1
+0 198 -1 1
+0 200 -1 1
 1
 end_operator
 begin_operator
 move_seg_c3_c_a01_0_100_seg_a01_0_100_south_south_medium airplane_cfbeg
 3
+66 0
 93 1
 124 0
-66 0
 13
-0 122 12 4
-0 248 -1 0
-0 242 -1 1
-0 241 -1 1
-0 239 -1 1
 0 21 0 1
-0 96 -1 0
-0 115 -1 0
-0 103 -1 0
 0 75 0 1
+0 96 -1 0
 0 100 -1 0
-0 138 -1 0
+0 103 -1 0
+0 115 -1 0
+0 122 12 4
 0 137 -1 1
+0 138 -1 0
+0 239 -1 1
+0 241 -1 1
+0 242 -1 1
+0 248 -1 0
 1
 end_operator
 begin_operator
 move_seg_c3_c_a01_0_100_seg_a01_0_100_south_south_medium airplane_dfboy
 3
+21 0
 99 1
 123 0
-21 0
 13
-0 125 12 4
-0 206 -1 0
-0 200 -1 1
-0 199 -1 1
-0 197 -1 1
 0 66 0 1
-0 116 -1 0
-0 121 -1 0
-0 120 -1 0
 0 75 0 1
 0 100 -1 0
-0 138 -1 0
+0 116 -1 0
+0 120 -1 0
+0 121 -1 0
+0 125 12 4
 0 137 -1 1
+0 138 -1 0
+0 197 -1 1
+0 199 -1 1
+0 200 -1 1
+0 206 -1 0
 1
 end_operator
 begin_operator
 move_seg_c3_c_a01_0_100_seg_c3_c4_0_50_north_south_medium airplane_cfbeg
 4
-124 0
-121 0
-117 0
 101 0
+117 0
+121 0
+124 0
 14
-0 122 12 11
-0 248 -1 1
-0 242 -1 0
-0 241 -1 0
-0 239 -1 0
-0 93 0 1
 0 21 -1 0
+0 93 0 1
 0 96 -1 1
-0 115 0 1
-0 103 -1 1
-0 118 0 1
 0 100 -1 0
+0 103 -1 1
+0 115 0 1
+0 118 0 1
+0 122 12 11
 0 133 -1 0
 0 137 -1 1
+0 239 -1 0
+0 241 -1 0
+0 242 -1 0
+0 248 -1 1
 1
 end_operator
 begin_operator
 move_seg_c3_c_a01_0_100_seg_c3_c4_0_50_north_south_medium airplane_dfboy
 4
-123 0
+101 0
 115 0
 117 0
-101 0
+123 0
 14
-0 125 12 11
-0 206 -1 1
-0 200 -1 0
-0 199 -1 0
-0 197 -1 0
-0 99 0 1
 0 66 -1 0
-0 116 -1 1
-0 121 0 1
-0 120 -1 1
-0 118 0 1
+0 99 0 1
 0 100 -1 0
+0 116 -1 1
+0 118 0 1
+0 120 -1 1
+0 121 0 1
+0 125 12 11
 0 133 -1 0
 0 137 -1 1
+0 197 -1 0
+0 199 -1 0
+0 200 -1 0
+0 206 -1 1
 1
 end_operator
 begin_operator
 move_seg_c3_c_b01_0_100_seg_b01_0_100_south_south_medium airplane_cfbeg
 3
+67 0
 93 1
 124 0
-67 0
 13
-0 122 13 7
-0 245 -1 0
-0 242 -1 1
-0 241 -1 1
-0 240 -1 1
 0 22 0 1
-0 96 -1 0
-0 115 -1 0
-0 102 -1 0
 0 76 0 1
+0 96 -1 0
 0 101 -1 0
-0 136 -1 0
+0 102 -1 0
+0 115 -1 0
+0 122 13 7
 0 135 -1 1
+0 136 -1 0
+0 240 -1 1
+0 241 -1 1
+0 242 -1 1
+0 245 -1 0
 1
 end_operator
 begin_operator
 move_seg_c3_c_b01_0_100_seg_b01_0_100_south_south_medium airplane_dfboy
 3
+22 0
 99 1
 123 0
-22 0
 13
-0 125 13 7
-0 203 -1 0
-0 200 -1 1
-0 199 -1 1
-0 198 -1 1
 0 67 0 1
-0 116 -1 0
-0 121 -1 0
-0 119 -1 0
 0 76 0 1
 0 101 -1 0
-0 136 -1 0
+0 116 -1 0
+0 119 -1 0
+0 121 -1 0
+0 125 13 7
 0 135 -1 1
+0 136 -1 0
+0 198 -1 1
+0 199 -1 1
+0 200 -1 1
+0 203 -1 0
 1
 end_operator
 begin_operator
 move_seg_c3_c_b01_0_100_seg_c3_c4_0_50_north_south_medium airplane_cfbeg
 4
-124 0
-121 0
-117 0
 100 0
+117 0
+121 0
+124 0
 14
-0 122 13 11
-0 245 -1 1
-0 242 -1 0
-0 241 -1 0
-0 240 -1 0
-0 93 0 1
 0 22 -1 0
+0 93 0 1
 0 96 -1 1
-0 115 0 1
-0 102 -1 1
-0 118 0 1
 0 101 -1 0
+0 102 -1 1
+0 115 0 1
+0 118 0 1
+0 122 13 11
 0 133 -1 0
 0 135 -1 1
+0 240 -1 0
+0 241 -1 0
+0 242 -1 0
+0 245 -1 1
 1
 end_operator
 begin_operator
 move_seg_c3_c_b01_0_100_seg_c3_c4_0_50_north_south_medium airplane_dfboy
 4
-123 0
+100 0
 115 0
 117 0
-100 0
+123 0
 14
-0 125 13 11
-0 203 -1 1
-0 200 -1 0
-0 199 -1 0
-0 198 -1 0
-0 99 0 1
 0 67 -1 0
-0 116 -1 1
-0 121 0 1
-0 119 -1 1
-0 118 0 1
+0 99 0 1
 0 101 -1 0
+0 116 -1 1
+0 118 0 1
+0 119 -1 1
+0 121 0 1
+0 125 13 11
 0 133 -1 0
 0 135 -1 1
+0 198 -1 0
+0 199 -1 0
+0 200 -1 0
+0 203 -1 1
 1
 end_operator
 begin_operator
 move_seg_c4_c5_0_50_seg_c3_c4_0_50_north_north_medium airplane_cfbeg
 3
 93 0
-124 0
 121 0
+124 0
 13
-0 122 14 11
-0 241 -1 0
-0 237 -1 1
-0 236 -1 1
-0 235 -1 1
-0 115 0 1
 0 105 -1 0
 0 106 -1 0
 0 107 -1 0
-0 118 0 1
 0 109 -1 0
-0 133 -1 0
+0 115 0 1
+0 118 0 1
+0 122 14 11
 0 132 -1 1
+0 133 -1 0
+0 235 -1 1
+0 236 -1 1
+0 237 -1 1
+0 241 -1 0
 1
 end_operator
 begin_operator
 move_seg_c4_c5_0_50_seg_c3_c4_0_50_north_north_medium airplane_dfboy
 3
 99 0
-123 0
 115 0
+123 0
 13
-0 125 14 11
-0 199 -1 0
-0 195 -1 1
-0 194 -1 1
-0 193 -1 1
-0 121 0 1
-0 113 -1 0
+0 109 -1 0
 0 112 -1 0
+0 113 -1 0
 0 114 -1 0
 0 118 0 1
-0 109 -1 0
-0 133 -1 0
+0 121 0 1
+0 125 14 11
 0 132 -1 1
+0 133 -1 0
+0 193 -1 1
+0 194 -1 1
+0 195 -1 1
+0 199 -1 0
 1
 end_operator
 begin_operator
 move_seg_c4_c5_0_50_seg_c5_c_a02_0_100_south_south_medium airplane_cfbeg
 5
 93 1
-124 0
-112 0
-111 0
 108 0
+111 0
+112 0
+124 0
 13
-0 122 14 16
-0 241 -1 1
-0 237 -1 0
-0 236 -1 0
-0 235 -1 0
-0 115 -1 0
+0 104 0 1
 0 105 -1 1
 0 106 0 1
 0 107 -1 1
 0 109 -1 0
-0 104 0 1
-0 132 -1 1
+0 115 -1 0
+0 122 14 16
 0 130 -1 0
+0 132 -1 1
+0 235 -1 0
+0 236 -1 0
+0 237 -1 0
+0 241 -1 1
 1
 end_operator
 begin_operator
 move_seg_c4_c5_0_50_seg_c5_c_a02_0_100_south_south_medium airplane_dfboy
 5
 99 1
-123 0
 106 0
-111 0
 108 0
+111 0
+123 0
 13
-0 125 14 16
-0 199 -1 1
-0 195 -1 0
-0 194 -1 0
-0 193 -1 0
-0 121 -1 0
-0 113 -1 1
-0 112 0 1
-0 114 -1 1
-0 109 -1 0
 0 104 0 1
-0 132 -1 1
+0 109 -1 0
+0 112 0 1
+0 113 -1 1
+0 114 -1 1
+0 121 -1 0
+0 125 14 16
 0 130 -1 0
+0 132 -1 1
+0 193 -1 0
+0 194 -1 0
+0 195 -1 0
+0 199 -1 1
 1
 end_operator
 begin_operator
 move_seg_c4_c5_0_50_seg_c5_c_b02_0_100_south_south_medium airplane_cfbeg
 5
 93 1
-124 0
-114 0
-111 0
 104 0
+111 0
+114 0
+124 0
 13
-0 122 14 17
-0 241 -1 1
-0 237 -1 0
-0 236 -1 0
-0 235 -1 0
-0 115 -1 0
 0 105 -1 1
 0 106 -1 1
 0 107 0 1
-0 109 -1 0
 0 108 0 1
-0 132 -1 1
+0 109 -1 0
+0 115 -1 0
+0 122 14 17
 0 128 -1 0
+0 132 -1 1
+0 235 -1 0
+0 236 -1 0
+0 237 -1 0
+0 241 -1 1
 1
 end_operator
 begin_operator
 move_seg_c4_c5_0_50_seg_c5_c_b02_0_100_south_south_medium airplane_dfboy
 5
 99 1
-123 0
+104 0
 107 0
 111 0
-104 0
+123 0
 13
-0 125 14 17
-0 199 -1 1
-0 195 -1 0
-0 194 -1 0
-0 193 -1 0
-0 121 -1 0
-0 113 -1 1
-0 112 -1 1
-0 114 0 1
-0 109 -1 0
 0 108 0 1
-0 132 -1 1
+0 109 -1 0
+0 112 -1 1
+0 113 -1 1
+0 114 0 1
+0 121 -1 0
+0 125 14 17
 0 128 -1 0
+0 132 -1 1
+0 193 -1 0
+0 194 -1 0
+0 195 -1 0
+0 199 -1 1
 1
 end_operator
 begin_operator
 move_seg_c5_c6_0_50_seg_c4_c5_0_50_north_north_medium airplane_cfbeg
 5
 93 0
-124 0
-110 0
 104 0
 108 0
+110 0
+124 0
 13
-0 122 15 14
-0 238 -1 0
-0 236 -1 0
-0 235 -1 0
-0 234 -1 1
+0 25 -1 0
 0 97 0 1
 0 106 -1 1
 0 107 -1 1
-0 25 -1 0
 0 109 0 1
 0 111 -1 0
-0 132 -1 0
+0 122 15 14
 0 129 -1 1
+0 132 -1 0
+0 234 -1 1
+0 235 -1 0
+0 236 -1 0
+0 238 -1 0
 1
 end_operator
 begin_operator
 move_seg_c5_c6_0_50_seg_c4_c5_0_50_north_north_medium airplane_dfboy
 5
-99 0
-123 0
 97 0
+99 0
 104 0
 108 0
+123 0
 13
-0 125 15 14
-0 196 -1 0
-0 194 -1 0
-0 193 -1 0
-0 192 -1 1
-0 110 0 1
-0 112 -1 1
-0 114 -1 1
 0 81 -1 0
 0 109 0 1
+0 110 0 1
 0 111 -1 0
-0 132 -1 0
+0 112 -1 1
+0 114 -1 1
+0 125 15 14
 0 129 -1 1
+0 132 -1 0
+0 192 -1 1
+0 193 -1 0
+0 194 -1 0
+0 196 -1 0
 1
 end_operator
 begin_operator
 move_seg_c5_c6_0_50_seg_c6_c7_0_100_south_south_medium airplane_cfbeg
 3
+81 0
 93 1
 124 0
-81 0
 13
-0 122 15 18
-0 238 -1 1
-0 236 -1 1
-0 235 -1 1
-0 234 -1 0
+0 25 0 1
+0 87 0 1
 0 97 -1 0
 0 106 -1 0
 0 107 -1 0
-0 25 0 1
 0 111 -1 0
-0 87 0 1
-0 129 -1 1
+0 122 15 18
 0 127 -1 0
+0 129 -1 1
+0 234 -1 0
+0 235 -1 1
+0 236 -1 1
+0 238 -1 1
 1
 end_operator
 begin_operator
 move_seg_c5_c6_0_50_seg_c6_c7_0_100_south_south_medium airplane_dfboy
 3
+25 0
 99 1
 123 0
-25 0
 13
-0 125 15 18
-0 196 -1 1
-0 194 -1 1
-0 193 -1 1
-0 192 -1 0
+0 81 0 1
+0 87 0 1
 0 110 -1 0
+0 111 -1 0
 0 112 -1 0
 0 114 -1 0
-0 81 0 1
-0 111 -1 0
-0 87 0 1
-0 129 -1 1
+0 125 15 18
 0 127 -1 0
+0 129 -1 1
+0 192 -1 0
+0 193 -1 1
+0 194 -1 1
+0 196 -1 1
 1
 end_operator
 begin_operator
 move_seg_c5_c_a02_0_100_seg_a02_0_100_south_south_medium airplane_cfbeg
 3
+68 0
 93 1
 124 0
-68 0
 13
-0 122 16 5
-0 247 -1 0
-0 238 -1 1
-0 237 -1 1
-0 235 -1 1
 0 23 0 1
+0 77 0 1
 0 97 -1 0
+0 104 -1 0
 0 105 -1 0
 0 107 -1 0
-0 77 0 1
-0 104 -1 0
-0 131 -1 0
+0 122 16 5
 0 130 -1 1
+0 131 -1 0
+0 235 -1 1
+0 237 -1 1
+0 238 -1 1
+0 247 -1 0
 1
 end_operator
 begin_operator
 move_seg_c5_c_a02_0_100_seg_a02_0_100_south_south_medium airplane_dfboy
 3
+23 0
 99 1
 123 0
-23 0
 13
-0 125 16 5
-0 205 -1 0
-0 196 -1 1
-0 195 -1 1
-0 193 -1 1
 0 68 0 1
+0 77 0 1
+0 104 -1 0
 0 110 -1 0
 0 113 -1 0
 0 114 -1 0
-0 77 0 1
-0 104 -1 0
-0 131 -1 0
+0 125 16 5
 0 130 -1 1
+0 131 -1 0
+0 193 -1 1
+0 195 -1 1
+0 196 -1 1
+0 205 -1 0
 1
 end_operator
 begin_operator
 move_seg_c5_c_a02_0_100_seg_c5_c6_0_50_north_south_medium airplane_cfbeg
 4
-124 0
-113 0
-109 0
 108 0
+109 0
+113 0
+124 0
 14
-0 122 16 15
-0 247 -1 1
-0 238 -1 0
-0 237 -1 0
-0 235 -1 0
-0 93 0 1
 0 23 -1 0
+0 93 0 1
 0 97 -1 1
+0 104 -1 0
 0 105 0 1
 0 107 -1 1
 0 111 0 1
-0 104 -1 0
+0 122 16 15
 0 129 -1 0
 0 130 -1 1
+0 235 -1 0
+0 237 -1 0
+0 238 -1 0
+0 247 -1 1
 1
 end_operator
 begin_operator
 move_seg_c5_c_a02_0_100_seg_c5_c6_0_50_north_south_medium airplane_dfboy
 4
-123 0
 105 0
-109 0
 108 0
+109 0
+123 0
 14
-0 125 16 15
-0 205 -1 1
-0 196 -1 0
-0 195 -1 0
-0 193 -1 0
-0 99 0 1
 0 68 -1 0
+0 99 0 1
+0 104 -1 0
 0 110 -1 1
+0 111 0 1
 0 113 0 1
 0 114 -1 1
-0 111 0 1
-0 104 -1 0
+0 125 16 15
 0 129 -1 0
 0 130 -1 1
+0 193 -1 0
+0 195 -1 0
+0 196 -1 0
+0 205 -1 1
 1
 end_operator
 begin_operator
 move_seg_c5_c_b02_0_100_seg_b02_0_100_south_south_medium airplane_cfbeg
 3
+86 0
 93 1
 124 0
-86 0
 13
-0 122 17 8
-0 244 -1 0
-0 238 -1 1
-0 237 -1 1
-0 236 -1 1
 0 24 0 1
+0 90 0 1
 0 97 -1 0
 0 105 -1 0
 0 106 -1 0
-0 90 0 1
 0 108 -1 0
+0 122 17 8
 0 126 -1 0
 0 128 -1 1
+0 236 -1 1
+0 237 -1 1
+0 238 -1 1
+0 244 -1 0
 1
 end_operator
 begin_operator
 move_seg_c5_c_b02_0_100_seg_b02_0_100_south_south_medium airplane_dfboy
 3
+24 0
 99 1
 123 0
-24 0
 13
-0 125 17 8
-0 202 -1 0
-0 196 -1 1
-0 195 -1 1
-0 194 -1 1
 0 86 0 1
-0 110 -1 0
-0 113 -1 0
-0 112 -1 0
 0 90 0 1
 0 108 -1 0
+0 110 -1 0
+0 112 -1 0
+0 113 -1 0
+0 125 17 8
 0 126 -1 0
 0 128 -1 1
+0 194 -1 1
+0 195 -1 1
+0 196 -1 1
+0 202 -1 0
 1
 end_operator
 begin_operator
 move_seg_c5_c_b02_0_100_seg_c5_c6_0_50_north_south_medium airplane_cfbeg
 4
-124 0
-113 0
-109 0
 104 0
+109 0
+113 0
+124 0
 14
-0 122 17 15
-0 244 -1 1
-0 238 -1 0
-0 237 -1 0
-0 236 -1 0
-0 93 0 1
 0 24 -1 0
+0 93 0 1
 0 97 -1 1
 0 105 0 1
 0 106 -1 1
-0 111 0 1
 0 108 -1 0
-0 129 -1 0
+0 111 0 1
+0 122 17 15
 0 128 -1 1
+0 129 -1 0
+0 236 -1 0
+0 237 -1 0
+0 238 -1 0
+0 244 -1 1
 1
 end_operator
 begin_operator
 move_seg_c5_c_b02_0_100_seg_c5_c6_0_50_north_south_medium airplane_dfboy
 4
-123 0
+104 0
 105 0
 109 0
-104 0
+123 0
 14
-0 125 17 15
-0 202 -1 1
-0 196 -1 0
-0 195 -1 0
-0 194 -1 0
-0 99 0 1
 0 86 -1 0
-0 110 -1 1
-0 113 0 1
-0 112 -1 1
-0 111 0 1
+0 99 0 1
 0 108 -1 0
-0 129 -1 0
+0 110 -1 1
+0 111 0 1
+0 112 -1 1
+0 113 0 1
+0 125 17 15
 0 128 -1 1
+0 129 -1 0
+0 194 -1 0
+0 195 -1 0
+0 196 -1 0
+0 202 -1 1
 1
 end_operator
 begin_operator
 move_seg_c6_c7_0_100_seg_c5_c6_0_50_north_north_medium airplane_cfbeg
 3
 93 0
-124 0
 113 0
+124 0
 7
-0 122 18 15
-0 237 -1 0
+0 87 -1 0
 0 105 0 1
 0 111 0 1
-0 87 -1 0
-0 129 -1 0
+0 122 18 15
 0 127 -1 1
+0 129 -1 0
+0 237 -1 0
 1
 end_operator
 begin_operator
 move_seg_c6_c7_0_100_seg_c5_c6_0_50_north_north_medium airplane_dfboy
 3
 99 0
-123 0
 105 0
+123 0
 7
-0 125 18 15
-0 195 -1 0
-0 113 0 1
-0 111 0 1
 0 87 -1 0
-0 129 -1 0
+0 111 0 1
+0 113 0 1
+0 125 18 15
 0 127 -1 1
+0 129 -1 0
+0 195 -1 0
 1
 end_operator
 begin_operator
 move_seg_c_c2_0_100_seg_c2_c3_0_100_south_south_medium airplane_cfbeg
 3
 93 1
-124 0
 116 0
+124 0
 9
-0 122 19 10
-0 242 -1 0
-0 213 -1 1
-0 96 0 1
 0 82 -1 0
-0 117 0 1
 0 95 -1 0
+0 96 0 1
+0 117 0 1
+0 122 19 10
 0 134 -1 0
 0 142 -1 1
+0 213 -1 1
+0 242 -1 0
 1
 end_operator
 begin_operator
 move_seg_c_c2_0_100_seg_c2_c3_0_100_south_south_medium airplane_dfboy
 3
+96 0
 99 1
 123 0
-96 0
 9
-0 125 19 10
-0 200 -1 0
-0 171 -1 1
-0 116 0 1
 0 91 -1 0
-0 117 0 1
 0 95 -1 0
+0 116 0 1
+0 117 0 1
+0 125 19 10
 0 134 -1 0
 0 142 -1 1
+0 171 -1 1
+0 200 -1 0
 1
 end_operator
 begin_operator
 move_seg_c_c2_0_100_seg_n_c_0_100_north_north_medium airplane_cfbeg
 3
+91 0
 93 0
 124 0
-91 0
 9
-0 122 19 39
-0 242 -1 1
-0 213 -1 0
-0 96 -1 0
 0 82 0 1
-0 95 -1 0
 0 92 0 1
-0 142 -1 1
+0 95 -1 0
+0 96 -1 0
+0 122 19 39
 0 141 -1 0
+0 142 -1 1
+0 213 -1 0
+0 242 -1 1
 1
 end_operator
 begin_operator
 move_seg_c_c2_0_100_seg_n_c_0_100_north_north_medium airplane_dfboy
 3
+82 0
 99 0
 123 0
-82 0
 9
-0 125 19 39
-0 200 -1 1
-0 171 -1 0
-0 116 -1 0
 0 91 0 1
-0 95 -1 0
 0 92 0 1
-0 142 -1 1
+0 95 -1 0
+0 116 -1 0
+0 125 19 39
 0 141 -1 0
+0 142 -1 1
+0 171 -1 0
+0 200 -1 1
 1
 end_operator
 begin_operator
 move_seg_n1_a_0_100_seg_a_09_0_100_south_south_medium airplane_cfbeg
 3
+29 0
 93 1
 124 0
-29 0
 9
-0 122 20 6
-0 246 -1 0
-0 231 -1 1
-0 20 0 1
 0 11 -1 0
+0 20 0 1
 0 51 0 1
 0 52 -1 0
+0 122 20 6
 0 156 -1 0
 0 157 -1 1
+0 231 -1 1
+0 246 -1 0
 1
 end_operator
 begin_operator
 move_seg_n1_a_0_100_seg_a_09_0_100_south_south_medium airplane_dfboy
 3
+20 0
 99 1
 123 0
-20 0
 9
-0 125 20 6
-0 204 -1 0
-0 189 -1 1
 0 29 0 1
 0 30 -1 0
 0 51 0 1
 0 52 -1 0
+0 125 20 6
 0 156 -1 0
 0 157 -1 1
+0 189 -1 1
+0 204 -1 0
 1
 end_operator
 begin_operator
 move_seg_n1_n2_0_100_seg_n1_a_0_100_north_south_medium airplane_cfbeg
 2
-124 0
 50 0
+124 0
 10
-0 122 21 20
-0 232 -1 0
-0 229 -1 1
-0 93 0 1
 0 0 0 1
 0 1 -1 0
 0 52 0 1
 0 53 -1 0
+0 93 0 1
+0 122 21 20
 0 157 -1 0
 0 158 -1 1
+0 229 -1 1
+0 232 -1 0
 1
 end_operator
 begin_operator
 move_seg_n1_n2_0_100_seg_n1_a_0_100_north_south_medium airplane_dfboy
 2
-123 0
 0 0
+123 0
 10
-0 125 21 20
-0 190 -1 0
-0 187 -1 1
-0 99 0 1
-0 50 0 1
 0 34 -1 0
+0 50 0 1
 0 52 0 1
 0 53 -1 0
+0 99 0 1
+0 125 21 20
 0 157 -1 0
 0 158 -1 1
+0 187 -1 1
+0 190 -1 0
 1
 end_operator
 begin_operator
 move_seg_n2_n3_0_85_seg_n2_n3_6_0_86_north_north_medium airplane_cfbeg
 3
+33 0
 93 0
 124 0
-33 0
 9
-0 122 22 28
-0 224 -1 0
-0 223 -1 1
 0 14 0 1
-0 83 -1 0
-0 44 -1 0
 0 42 0 1
-0 165 -1 1
+0 44 -1 0
+0 83 -1 0
+0 122 22 28
 0 164 -1 0
+0 165 -1 1
+0 223 -1 1
+0 224 -1 0
 1
 end_operator
 begin_operator
 move_seg_n2_n3_0_85_seg_n2_n3_6_0_86_north_north_medium airplane_dfboy
 3
+14 0
 99 0
 123 0
-14 0
 9
-0 125 22 28
-0 182 -1 0
-0 181 -1 1
 0 33 0 1
-0 89 -1 0
-0 44 -1 0
 0 42 0 1
-0 165 -1 1
+0 44 -1 0
+0 89 -1 0
+0 125 22 28
 0 164 -1 0
+0 165 -1 1
+0 181 -1 1
+0 182 -1 0
 1
 end_operator
 begin_operator
 move_seg_n2_n3_1_0_86_seg_n1_n2_0_100_north_north_medium airplane_cfbeg
 3
+30 0
 93 0
 124 0
-30 0
 9
-0 122 23 21
-0 231 -1 0
-0 228 -1 1
 0 11 0 1
 0 12 -1 0
-0 53 0 1
 0 36 -1 0
+0 53 0 1
+0 122 23 21
 0 158 -1 0
 0 159 -1 1
+0 228 -1 1
+0 231 -1 0
 1
 end_operator
 begin_operator
 move_seg_n2_n3_1_0_86_seg_n1_n2_0_100_north_north_medium airplane_dfboy
 3
+11 0
 99 0
 123 0
-11 0
 9
-0 125 23 21
-0 189 -1 0
-0 186 -1 1
 0 30 0 1
 0 31 -1 0
-0 53 0 1
 0 36 -1 0
+0 53 0 1
+0 125 23 21
 0 158 -1 0
 0 159 -1 1
+0 186 -1 1
+0 189 -1 0
 1
 end_operator
 begin_operator
 move_seg_n2_n3_2_0_86_seg_n2_n3_1_0_86_north_north_medium airplane_cfbeg
 3
+34 0
 93 0
 124 0
-34 0
 9
-0 122 24 23
-0 229 -1 0
-0 227 -1 1
 0 1 0 1
 0 2 -1 0
 0 36 0 1
 0 37 -1 0
+0 122 24 23
 0 159 -1 0
 0 160 -1 1
+0 227 -1 1
+0 229 -1 0
 1
 end_operator
 begin_operator
 move_seg_n2_n3_2_0_86_seg_n2_n3_1_0_86_north_north_medium airplane_dfboy
 3
+1 0
 99 0
 123 0
-1 0
 9
-0 125 24 23
-0 187 -1 0
-0 185 -1 1
 0 34 0 1
 0 35 -1 0
 0 36 0 1
 0 37 -1 0
+0 125 24 23
 0 159 -1 0
 0 160 -1 1
+0 185 -1 1
+0 187 -1 0
 1
 end_operator
 begin_operator
 move_seg_n2_n3_3_0_86_seg_n2_n3_2_0_86_north_north_medium airplane_cfbeg
 3
+31 0
 93 0
 124 0
-31 0
 9
-0 122 25 24
-0 228 -1 0
-0 226 -1 1
 0 12 0 1
 0 13 -1 0
 0 37 0 1
 0 38 -1 0
+0 122 25 24
 0 160 -1 0
 0 161 -1 1
+0 226 -1 1
+0 228 -1 0
 1
 end_operator
 begin_operator
 move_seg_n2_n3_3_0_86_seg_n2_n3_2_0_86_north_north_medium airplane_dfboy
 3
+12 0
 99 0
 123 0
-12 0
 9
-0 125 25 24
-0 186 -1 0
-0 184 -1 1
 0 31 0 1
 0 32 -1 0
 0 37 0 1
 0 38 -1 0
+0 125 25 24
 0 160 -1 0
 0 161 -1 1
+0 184 -1 1
+0 186 -1 0
 1
 end_operator
 begin_operator
 move_seg_n2_n3_4_0_85_seg_n2_n3_3_0_86_north_north_medium airplane_cfbeg
 3
+35 0
 93 0
 124 0
-35 0
 9
-0 122 26 25
-0 227 -1 0
-0 225 -1 1
 0 2 0 1
 0 3 -1 0
 0 38 0 1
 0 39 -1 0
+0 122 26 25
 0 161 -1 0
 0 162 -1 1
+0 225 -1 1
+0 227 -1 0
 1
 end_operator
 begin_operator
 move_seg_n2_n3_4_0_85_seg_n2_n3_3_0_86_north_north_medium airplane_dfboy
 3
+2 0
 99 0
 123 0
-2 0
 9
-0 125 26 25
-0 185 -1 0
-0 183 -1 1
 0 35 0 1
-0 40 -1 0
 0 38 0 1
 0 39 -1 0
+0 40 -1 0
+0 125 26 25
 0 161 -1 0
 0 162 -1 1
+0 183 -1 1
+0 185 -1 0
 1
 end_operator
 begin_operator
 move_seg_n2_n3_5_0_86_seg_n2_n3_4_0_85_north_north_medium airplane_cfbeg
 3
+32 0
 93 0
 124 0
-32 0
 9
-0 122 27 26
-0 226 -1 0
-0 224 -1 1
 0 13 0 1
 0 14 -1 0
 0 39 0 1
 0 41 -1 0
+0 122 27 26
 0 162 -1 0
 0 163 -1 1
+0 224 -1 1
+0 226 -1 0
 1
 end_operator
 begin_operator
 move_seg_n2_n3_5_0_86_seg_n2_n3_4_0_85_north_north_medium airplane_dfboy
 3
+13 0
 99 0
 123 0
-13 0
 9
-0 125 27 26
-0 184 -1 0
-0 182 -1 1
 0 32 0 1
 0 33 -1 0
 0 39 0 1
 0 41 -1 0
+0 125 27 26
 0 162 -1 0
 0 163 -1 1
+0 182 -1 1
+0 184 -1 0
 1
 end_operator
 begin_operator
 move_seg_n2_n3_6_0_86_seg_n2_n3_5_0_86_north_north_medium airplane_cfbeg
 3
+40 0
 93 0
 124 0
-40 0
 9
-0 122 28 27
-0 230 -1 1
-0 225 -1 0
-0 4 -1 0
 0 3 0 1
+0 4 -1 0
 0 41 0 1
 0 42 -1 0
+0 122 28 27
 0 163 -1 0
 0 164 -1 1
+0 225 -1 0
+0 230 -1 1
 1
 end_operator
 begin_operator
 move_seg_n2_n3_6_0_86_seg_n2_n3_5_0_86_north_north_medium airplane_dfboy
 3
+3 0
 99 0
 123 0
-3 0
 9
-0 125 28 27
-0 188 -1 1
-0 183 -1 0
-0 43 -1 0
 0 40 0 1
 0 41 0 1
 0 42 -1 0
+0 43 -1 0
+0 125 28 27
 0 163 -1 0
 0 164 -1 1
+0 183 -1 0
+0 188 -1 1
 1
 end_operator
 begin_operator
 move_seg_n3_n_0_100_seg_n2_n3_0_85_north_north_medium airplane_cfbeg
 3
+43 0
 93 0
 124 0
-43 0
 11
-0 122 29 22
-0 230 -1 0
-0 213 -1 1
-0 212 -1 1
 0 4 0 1
-0 82 -1 0
-0 84 -1 0
 0 44 0 1
 0 74 -1 0
-0 165 -1 0
+0 82 -1 0
+0 84 -1 0
+0 122 29 22
 0 139 -1 1
+0 165 -1 0
+0 212 -1 1
+0 213 -1 1
+0 230 -1 0
 1
 end_operator
 begin_operator
 move_seg_n3_n_0_100_seg_n2_n3_0_85_north_north_medium airplane_dfboy
 3
+4 0
 99 0
 123 0
-4 0
 11
-0 125 29 22
-0 188 -1 0
-0 171 -1 1
-0 170 -1 1
 0 43 0 1
-0 91 -1 0
-0 88 -1 0
 0 44 0 1
 0 74 -1 0
-0 165 -1 0
+0 88 -1 0
+0 91 -1 0
+0 125 29 22
 0 139 -1 1
+0 165 -1 0
+0 170 -1 1
+0 171 -1 1
+0 188 -1 0
 1
 end_operator
 begin_operator
 move_seg_n4_n5_0_86_seg_n4_n5_6_0_86_north_north_medium airplane_cfbeg
 3
+46 0
 93 0
 124 0
-46 0
 9
-0 122 30 36
-0 216 -1 0
-0 215 -1 1
 0 7 0 1
 0 8 -1 0
-0 58 -1 0
 0 57 0 1
-0 149 -1 1
+0 58 -1 0
+0 122 30 36
 0 148 -1 0
+0 149 -1 1
+0 215 -1 1
+0 216 -1 0
 1
 end_operator
 begin_operator
 move_seg_n4_n5_0_86_seg_n4_n5_6_0_86_north_north_medium airplane_dfboy
 3
+7 0
 99 0
 123 0
-7 0
 9
-0 125 30 36
-0 174 -1 0
-0 173 -1 1
 0 46 0 1
 0 47 -1 0
-0 58 -1 0
 0 57 0 1
-0 149 -1 1
+0 58 -1 0
+0 125 30 36
 0 148 -1 0
+0 149 -1 1
+0 173 -1 1
+0 174 -1 0
 1
 end_operator
 begin_operator
 move_seg_n4_n5_1_0_85_seg_n_n4_0_100_north_north_medium airplane_cfbeg
 3
+88 0
 93 0
 124 0
-88 0
 9
-0 122 31 40
-0 220 -1 1
-0 212 -1 0
 0 5 -1 0
-0 84 0 1
 0 79 -1 0
+0 84 0 1
 0 85 0 1
-0 143 -1 1
+0 122 31 40
 0 140 -1 0
+0 143 -1 1
+0 212 -1 0
+0 220 -1 1
 1
 end_operator
 begin_operator
 move_seg_n4_n5_1_0_85_seg_n_n4_0_100_north_north_medium airplane_dfboy
 3
+84 0
 99 0
 123 0
-84 0
 9
-0 125 31 40
-0 178 -1 1
-0 170 -1 0
 0 69 -1 0
-0 88 0 1
 0 79 -1 0
 0 85 0 1
-0 143 -1 1
+0 88 0 1
+0 125 31 40
 0 140 -1 0
+0 143 -1 1
+0 170 -1 0
+0 178 -1 1
 1
 end_operator
 begin_operator
 move_seg_n4_n5_2_0_86_seg_n4_n5_1_0_85_north_north_medium airplane_cfbeg
 3
+73 0
 93 0
 124 0
-73 0
 9
-0 122 32 31
-0 221 -1 0
-0 219 -1 1
-0 19 0 1
 0 15 -1 0
-0 79 0 1
+0 19 0 1
 0 72 -1 0
+0 79 0 1
+0 122 32 31
 0 143 -1 0
 0 144 -1 1
+0 219 -1 1
+0 221 -1 0
 1
 end_operator
 begin_operator
 move_seg_n4_n5_2_0_86_seg_n4_n5_1_0_85_north_north_medium airplane_dfboy
 3
+19 0
 99 0
 123 0
-19 0
 9
-0 125 32 31
-0 179 -1 0
-0 177 -1 1
-0 73 0 1
 0 64 -1 0
-0 79 0 1
 0 72 -1 0
+0 73 0 1
+0 79 0 1
+0 125 32 31
 0 143 -1 0
 0 144 -1 1
+0 177 -1 1
+0 179 -1 0
 1
 end_operator
 begin_operator
 move_seg_n4_n5_3_0_86_seg_n4_n5_2_0_86_north_north_medium airplane_cfbeg
 3
+69 0
 93 0
 124 0
-69 0
 9
-0 122 33 32
-0 220 -1 0
-0 218 -1 1
 0 5 0 1
 0 6 -1 0
-0 72 0 1
 0 70 -1 0
+0 72 0 1
+0 122 33 32
 0 144 -1 0
 0 145 -1 1
+0 218 -1 1
+0 220 -1 0
 1
 end_operator
 begin_operator
 move_seg_n4_n5_3_0_86_seg_n4_n5_2_0_86_north_north_medium airplane_dfboy
 3
+5 0
 99 0
 123 0
-5 0
 9
-0 125 33 32
-0 178 -1 0
-0 176 -1 1
-0 69 0 1
 0 45 -1 0
-0 72 0 1
+0 69 0 1
 0 70 -1 0
+0 72 0 1
+0 125 33 32
 0 144 -1 0
 0 145 -1 1
+0 176 -1 1
+0 178 -1 0
 1
 end_operator
 begin_operator
 move_seg_n4_n5_4_0_85_seg_n4_n5_3_0_86_north_north_medium airplane_cfbeg
 3
+64 0
 93 0
 124 0
-64 0
 9
-0 122 34 33
-0 219 -1 0
-0 217 -1 1
 0 15 0 1
 0 16 -1 0
-0 70 0 1
 0 65 -1 0
+0 70 0 1
+0 122 34 33
 0 145 -1 0
 0 146 -1 1
+0 217 -1 1
+0 219 -1 0
 1
 end_operator
 begin_operator
 move_seg_n4_n5_4_0_85_seg_n4_n5_3_0_86_north_north_medium airplane_dfboy
 3
+15 0
 99 0
 123 0
-15 0
 9
-0 125 34 33
-0 177 -1 0
-0 175 -1 1
-0 64 0 1
 0 54 -1 0
-0 70 0 1
+0 64 0 1
 0 65 -1 0
+0 70 0 1
+0 125 34 33
 0 145 -1 0
 0 146 -1 1
+0 175 -1 1
+0 177 -1 0
 1
 end_operator
 begin_operator
 move_seg_n4_n5_5_0_86_seg_n4_n5_4_0_85_north_north_medium airplane_cfbeg
 3
+45 0
 93 0
 124 0
-45 0
 9
-0 122 35 34
-0 218 -1 0
-0 216 -1 1
 0 6 0 1
 0 7 -1 0
-0 65 0 1
 0 56 -1 0
+0 65 0 1
+0 122 35 34
 0 146 -1 0
 0 147 -1 1
+0 216 -1 1
+0 218 -1 0
 1
 end_operator
 begin_operator
 move_seg_n4_n5_5_0_86_seg_n4_n5_4_0_85_north_north_medium airplane_dfboy
 3
+6 0
 99 0
 123 0
-6 0
 9
-0 125 35 34
-0 176 -1 0
-0 174 -1 1
 0 45 0 1
 0 46 -1 0
-0 65 0 1
 0 56 -1 0
+0 65 0 1
+0 125 35 34
 0 146 -1 0
 0 147 -1 1
+0 174 -1 1
+0 176 -1 0
 1
 end_operator
 begin_operator
 move_seg_n4_n5_6_0_86_seg_n4_n5_5_0_86_north_north_medium airplane_cfbeg
 3
+54 0
 93 0
 124 0
-54 0
 9
-0 122 36 35
-0 222 -1 1
-0 217 -1 0
-0 17 -1 0
 0 16 0 1
+0 17 -1 0
 0 56 0 1
 0 57 -1 0
+0 122 36 35
 0 147 -1 0
 0 148 -1 1
+0 217 -1 0
+0 222 -1 1
 1
 end_operator
 begin_operator
 move_seg_n4_n5_6_0_86_seg_n4_n5_5_0_86_north_north_medium airplane_dfboy
 3
+16 0
 99 0
 123 0
-16 0
 9
-0 125 36 35
-0 180 -1 1
-0 175 -1 0
-0 55 -1 0
 0 54 0 1
+0 55 -1 0
 0 56 0 1
 0 57 -1 0
+0 125 36 35
 0 147 -1 0
 0 148 -1 1
+0 175 -1 0
+0 180 -1 1
 1
 end_operator
 begin_operator
 move_seg_n5_n6_0_100_seg_n4_n5_0_86_north_north_medium airplane_cfbeg
 3
+55 0
 93 0
 124 0
-55 0
 9
-0 122 37 30
-0 222 -1 0
-0 214 -1 1
 0 17 0 1
 0 18 -1 0
 0 58 0 1
 0 59 -1 0
+0 122 37 30
 0 149 -1 0
 0 150 -1 1
+0 214 -1 1
+0 222 -1 0
 1
 end_operator
 begin_operator
 move_seg_n5_n6_0_100_seg_n4_n5_0_86_north_north_medium airplane_dfboy
 3
+17 0
 99 0
 123 0
-17 0
 9
-0 125 37 30
-0 180 -1 0
-0 172 -1 1
 0 55 0 1
-0 60 -1 0
 0 58 0 1
 0 59 -1 0
+0 60 -1 0
+0 125 37 30
 0 149 -1 0
 0 150 -1 1
+0 172 -1 1
+0 180 -1 0
 1
 end_operator
 begin_operator
 move_seg_n6_b_0_100_seg_n5_n6_0_100_north_north_medium airplane_cfbeg
 3
+47 0
 93 0
 124 0
-47 0
 9
-0 122 38 37
-0 243 -1 1
-0 215 -1 0
-0 26 -1 0
 0 8 0 1
+0 26 -1 0
 0 59 0 1
 0 61 -1 0
+0 122 38 37
 0 150 -1 0
 0 151 -1 1
+0 215 -1 0
+0 243 -1 1
 1
 end_operator
 begin_operator
 move_seg_n6_b_0_100_seg_n5_n6_0_100_north_north_medium airplane_dfboy
 3
+8 0
 99 0
 123 0
-8 0
 9
-0 125 38 37
-0 201 -1 1
-0 173 -1 0
-0 48 -1 0
 0 47 0 1
+0 48 -1 0
 0 59 0 1
 0 61 -1 0
+0 125 38 37
 0 150 -1 0
 0 151 -1 1
+0 173 -1 0
+0 201 -1 1
 1
 end_operator
 begin_operator
 move_seg_n_c_0_100_seg_c_c2_0_100_south_south_medium airplane_cfbeg
 3
 93 1
-124 0
 98 0
+124 0
 11
-0 122 39 19
-0 233 -1 0
-0 223 -1 1
-0 212 -1 1
-0 94 0 1
 0 83 -1 0
 0 84 -1 0
-0 95 0 1
 0 92 -1 0
-0 142 -1 0
+0 94 0 1
+0 95 0 1
+0 122 39 19
 0 141 -1 1
+0 142 -1 0
+0 212 -1 1
+0 223 -1 1
+0 233 -1 0
 1
 end_operator
 begin_operator
 move_seg_n_c_0_100_seg_c_c2_0_100_south_south_medium airplane_dfboy
 3
+94 0
 99 1
 123 0
-94 0
 11
-0 125 39 19
-0 191 -1 0
-0 181 -1 1
-0 170 -1 1
-0 98 0 1
-0 89 -1 0
 0 88 -1 0
-0 95 0 1
+0 89 -1 0
 0 92 -1 0
-0 142 -1 0
+0 95 0 1
+0 98 0 1
+0 125 39 19
 0 141 -1 1
+0 142 -1 0
+0 170 -1 1
+0 181 -1 1
+0 191 -1 0
 1
 end_operator
 begin_operator
 move_seg_n_c_0_100_seg_n3_n_0_100_north_north_medium airplane_cfbeg
 4
+85 0
+89 0
 93 0
 124 0
-89 0
-85 0
 11
-0 122 39 29
-0 233 -1 1
-0 223 -1 0
-0 212 -1 0
-0 94 -1 0
+0 74 0 1
 0 83 0 1
 0 84 -1 1
-0 74 0 1
 0 92 -1 0
+0 94 -1 0
+0 122 39 29
 0 139 -1 0
 0 141 -1 1
+0 212 -1 0
+0 223 -1 0
+0 233 -1 1
 1
 end_operator
 begin_operator
 move_seg_n_c_0_100_seg_n3_n_0_100_north_north_medium airplane_dfboy
 4
-99 0
-123 0
 83 0
 85 0
+99 0
+123 0
 11
-0 125 39 29
-0 191 -1 1
-0 181 -1 0
-0 170 -1 0
-0 98 -1 0
-0 89 0 1
-0 88 -1 1
 0 74 0 1
+0 88 -1 1
+0 89 0 1
 0 92 -1 0
+0 98 -1 0
+0 125 39 29
 0 139 -1 0
 0 141 -1 1
+0 170 -1 0
+0 181 -1 0
+0 191 -1 1
 1
 end_operator
 begin_operator
 move_seg_n_n4_0_100_seg_n_c_0_100_north_south_medium airplane_cfbeg
 3
-124 0
-91 0
 74 0
+91 0
+124 0
 12
-0 122 40 39
-0 223 -1 0
-0 221 -1 1
-0 213 -1 0
-0 93 0 1
-0 83 -1 1
 0 19 -1 0
 0 82 0 1
-0 92 0 1
+0 83 -1 1
 0 85 -1 0
-0 141 -1 0
+0 92 0 1
+0 93 0 1
+0 122 40 39
 0 140 -1 1
+0 141 -1 0
+0 213 -1 0
+0 221 -1 1
+0 223 -1 0
 1
 end_operator
 begin_operator
 move_seg_n_n4_0_100_seg_n_c_0_100_north_south_medium airplane_dfboy
 3
-123 0
-82 0
 74 0
+82 0
+123 0
 12
-0 125 40 39
-0 181 -1 0
-0 179 -1 1
-0 171 -1 0
-0 99 0 1
-0 89 -1 1
 0 73 -1 0
+0 85 -1 0
+0 89 -1 1
 0 91 0 1
 0 92 0 1
-0 85 -1 0
-0 141 -1 0
+0 99 0 1
+0 125 40 39
 0 140 -1 1
+0 141 -1 0
+0 171 -1 0
+0 179 -1 1
+0 181 -1 0
 1
 end_operator
 begin_operator
 move_seg_rwy_0_1300_seg_27_0_150_south_south_medium airplane_cfbeg
 4
-93 1
-124 0
 63 0
 78 0
+93 1
+124 0
 7
-0 122 41 3
-0 250 -1 0
 0 28 0 1
-0 80 0 1
 0 71 -1 0
-0 154 -1 0
+0 80 0 1
+0 122 41 3
 0 153 -1 1
+0 154 -1 0
+0 250 -1 0
 1
 end_operator
 begin_operator
 move_seg_rwy_0_1300_seg_27_0_150_south_south_medium airplane_dfboy
 4
-99 1
-123 0
 28 0
 78 0
+99 1
+123 0
 7
-0 125 41 3
-0 208 -1 0
 0 63 0 1
-0 80 0 1
 0 71 -1 0
-0 154 -1 0
+0 80 0 1
+0 125 41 3
 0 153 -1 1
+0 154 -1 0
+0 208 -1 0
 1
 end_operator
 begin_operator
 park_seg_a01_0_100_north airplane_cfbeg
 2
-122 4
 93 0
+122 4
 1
 0 124 0 1
 1
@@ -4498,8 +4498,8 @@ end_operator
 begin_operator
 park_seg_a01_0_100_north airplane_dfboy
 2
-125 4
 99 0
+125 4
 1
 0 123 0 1
 1
@@ -4507,30 +4507,30 @@ end_operator
 begin_operator
 park_seg_a01_0_100_south airplane_cfbeg
 2
-122 4
 93 1
+122 4
 3
-0 240 -1 1
-0 124 0 1
 0 102 -1 0
+0 124 0 1
+0 240 -1 1
 1
 end_operator
 begin_operator
 park_seg_a01_0_100_south airplane_dfboy
 2
-125 4
 99 1
+125 4
 3
-0 198 -1 1
-0 123 0 1
 0 119 -1 0
+0 123 0 1
+0 198 -1 1
 1
 end_operator
 begin_operator
 park_seg_a02_0_100_north airplane_cfbeg
 2
-122 5
 93 0
+122 5
 1
 0 124 0 2
 1
@@ -4538,8 +4538,8 @@ end_operator
 begin_operator
 park_seg_a02_0_100_north airplane_dfboy
 2
-125 5
 99 0
+125 5
 1
 0 123 0 2
 1
@@ -4547,30 +4547,30 @@ end_operator
 begin_operator
 park_seg_a02_0_100_south airplane_cfbeg
 2
-122 5
 93 1
+122 5
 3
-0 236 -1 1
-0 124 0 2
 0 106 -1 0
+0 124 0 2
+0 236 -1 1
 1
 end_operator
 begin_operator
 park_seg_a02_0_100_south airplane_dfboy
 2
-125 5
 99 1
+125 5
 3
-0 194 -1 1
-0 123 0 2
 0 112 -1 0
+0 123 0 2
+0 194 -1 1
 1
 end_operator
 begin_operator
 park_seg_b01_0_100_north airplane_cfbeg
 2
-122 7
 93 0
+122 7
 1
 0 124 0 3
 1
@@ -4578,8 +4578,8 @@ end_operator
 begin_operator
 park_seg_b01_0_100_north airplane_dfboy
 2
-125 7
 99 0
+125 7
 1
 0 123 0 3
 1
@@ -4587,30 +4587,30 @@ end_operator
 begin_operator
 park_seg_b01_0_100_south airplane_cfbeg
 2
-122 7
 93 1
+122 7
 3
-0 239 -1 1
-0 124 0 3
 0 103 -1 0
+0 124 0 3
+0 239 -1 1
 1
 end_operator
 begin_operator
 park_seg_b01_0_100_south airplane_dfboy
 2
-125 7
 99 1
+125 7
 3
-0 197 -1 1
-0 123 0 3
 0 120 -1 0
+0 123 0 3
+0 197 -1 1
 1
 end_operator
 begin_operator
 park_seg_b02_0_100_north airplane_cfbeg
 2
-122 8
 93 0
+122 8
 1
 0 124 0 4
 1
@@ -4618,8 +4618,8 @@ end_operator
 begin_operator
 park_seg_b02_0_100_north airplane_dfboy
 2
-125 8
 99 0
+125 8
 1
 0 123 0 4
 1
@@ -4627,77 +4627,77 @@ end_operator
 begin_operator
 park_seg_b02_0_100_south airplane_cfbeg
 2
-122 8
 93 1
+122 8
 3
-0 235 -1 1
-0 124 0 4
 0 107 -1 0
+0 124 0 4
+0 235 -1 1
 1
 end_operator
 begin_operator
 park_seg_b02_0_100_south airplane_dfboy
 2
-125 8
 99 1
+125 8
 3
-0 193 -1 1
-0 123 0 4
 0 114 -1 0
+0 123 0 4
+0 193 -1 1
 1
 end_operator
 begin_operator
 pushback_seg_b02_0_100_seg_c5_c_b02_0_100_south_south_medium airplane_dfboy
 3
 99 1
-123 5
 107 0
+123 5
 9
-0 125 8 17
-0 202 -1 1
-0 193 -1 0
 0 86 -1 0
-0 114 0 1
 0 90 -1 0
 0 108 0 1
+0 114 0 1
+0 125 8 17
 0 126 -1 1
 0 128 -1 0
+0 193 -1 0
+0 202 -1 1
 1
 end_operator
 begin_operator
 pushback_seg_c5_c6_0_50_seg_c6_c7_0_100_north_north_medium airplane_dfboy
 3
+25 0
 99 0
 123 5
-25 0
 9
-0 125 15 18
-0 195 -1 1
-0 192 -1 0
-0 113 -1 0
 0 81 0 1
-0 111 -1 0
 0 87 0 1
-0 129 -1 1
+0 111 -1 0
+0 113 -1 0
+0 125 15 18
 0 127 -1 0
+0 129 -1 1
+0 192 -1 0
+0 195 -1 1
 1
 end_operator
 begin_operator
 pushback_seg_c5_c_b02_0_100_seg_c5_c6_0_50_south_north_medium airplane_dfboy
 2
-123 5
 105 0
+123 5
 10
-0 125 17 15
-0 195 -1 0
-0 193 -1 1
 0 99 1 0
+0 108 -1 0
+0 111 0 1
 0 113 0 1
 0 114 -1 0
-0 111 0 1
-0 108 -1 0
-0 129 -1 0
+0 125 17 15
 0 128 -1 1
+0 129 -1 0
+0 193 -1 1
+0 195 -1 0
 1
 end_operator
 begin_operator
@@ -4711,12 +4711,12 @@ end_operator
 begin_operator
 startup_seg_a01_0_100_south_medium airplane_dfboy
 2
-125 4
 100 0
+125 4
 3
-0 198 -1 0
-0 123 5 0
 0 119 -1 1
+0 123 5 0
+0 198 -1 0
 1
 end_operator
 begin_operator
@@ -4730,36 +4730,36 @@ end_operator
 begin_operator
 startup_seg_a02_0_100_south_medium airplane_dfboy
 2
-125 5
 104 0
+125 5
 3
-0 194 -1 0
-0 123 5 0
 0 112 -1 1
+0 123 5 0
+0 194 -1 0
 1
 end_operator
 begin_operator
 startup_seg_a_09_0_100_north_medium airplane_dfboy
 2
-125 6
 78 0
+125 6
 5
-0 210 -1 0
-0 209 -1 0
-0 123 5 0
 0 49 -1 1
+0 123 5 0
 0 166 -1 1
+0 209 -1 0
+0 210 -1 0
 1
 end_operator
 begin_operator
 startup_seg_a_09_0_100_south_medium airplane_dfboy
 2
-125 6
 52 0
+125 6
 3
-0 190 -1 0
-0 123 5 0
 0 50 -1 1
+0 123 5 0
+0 190 -1 0
 1
 end_operator
 begin_operator
@@ -4773,12 +4773,12 @@ end_operator
 begin_operator
 startup_seg_b01_0_100_south_medium airplane_dfboy
 2
-125 7
 101 0
+125 7
 3
-0 197 -1 0
-0 123 5 0
 0 120 -1 1
+0 123 5 0
+0 197 -1 0
 1
 end_operator
 begin_operator
@@ -4792,260 +4792,260 @@ end_operator
 begin_operator
 startup_seg_b02_0_100_south_medium airplane_dfboy
 2
-125 8
 108 0
+125 8
 3
-0 193 -1 0
-0 123 5 0
 0 114 -1 1
+0 123 5 0
+0 193 -1 0
 1
 end_operator
 begin_operator
 startup_seg_b_27_0_100_north_medium airplane_dfboy
 2
-125 9
 80 0
+125 9
 5
-0 208 -1 0
-0 207 -1 0
-0 123 5 0
 0 63 -1 1
+0 123 5 0
 0 167 -1 1
+0 207 -1 0
+0 208 -1 0
 1
 end_operator
 begin_operator
 startup_seg_b_27_0_100_south_medium airplane_dfboy
 2
-125 9
 61 0
+125 9
 3
-0 172 -1 0
-0 123 5 0
 0 60 -1 1
+0 123 5 0
+0 172 -1 0
 1
 end_operator
 begin_operator
 startup_seg_c2_c3_0_100_north_medium airplane_dfboy
 4
-125 10
-118 0
 100 0
 101 0
+118 0
+125 10
 7
-0 199 -1 0
-0 198 -1 0
-0 197 -1 0
-0 123 5 0
-0 121 -1 1
 0 119 -1 1
 0 120 -1 1
+0 121 -1 1
+0 123 5 0
+0 197 -1 0
+0 198 -1 0
+0 199 -1 0
 1
 end_operator
 begin_operator
 startup_seg_c2_c3_0_100_south_medium airplane_dfboy
 2
-125 10
 95 0
+125 10
 3
-0 191 -1 0
-0 123 5 0
 0 98 -1 1
+0 123 5 0
+0 191 -1 0
 1
 end_operator
 begin_operator
 startup_seg_c3_c4_0_50_north_medium airplane_dfboy
 2
-125 11
 109 0
+125 11
 3
-0 196 -1 0
-0 123 5 0
 0 110 -1 1
+0 123 5 0
+0 196 -1 0
 1
 end_operator
 begin_operator
 startup_seg_c3_c4_0_50_south_medium airplane_dfboy
 4
-125 11
-117 0
 100 0
 101 0
+117 0
+125 11
 7
-0 200 -1 0
-0 198 -1 0
-0 197 -1 0
-0 123 5 0
 0 116 -1 1
 0 119 -1 1
 0 120 -1 1
+0 123 5 0
+0 197 -1 0
+0 198 -1 0
+0 200 -1 0
 1
 end_operator
 begin_operator
 startup_seg_c3_c_a01_0_100_north_medium airplane_dfboy
 2
-125 12
 75 0
+125 12
 3
-0 206 -1 0
-0 123 5 0
 0 66 -1 1
+0 123 5 0
+0 206 -1 0
 1
 end_operator
 begin_operator
 startup_seg_c3_c_a01_0_100_south_medium airplane_dfboy
 4
-125 12
+101 0
 117 0
 118 0
-101 0
+125 12
 7
-0 200 -1 0
-0 199 -1 0
-0 197 -1 0
-0 123 5 0
 0 116 -1 1
-0 121 -1 1
 0 120 -1 1
+0 121 -1 1
+0 123 5 0
+0 197 -1 0
+0 199 -1 0
+0 200 -1 0
 1
 end_operator
 begin_operator
 startup_seg_c3_c_b01_0_100_north_medium airplane_dfboy
 2
-125 13
 76 0
+125 13
 3
-0 203 -1 0
-0 123 5 0
 0 67 -1 1
+0 123 5 0
+0 203 -1 0
 1
 end_operator
 begin_operator
 startup_seg_c3_c_b01_0_100_south_medium airplane_dfboy
 4
-125 13
+100 0
 117 0
 118 0
-100 0
+125 13
 7
-0 200 -1 0
-0 199 -1 0
-0 198 -1 0
-0 123 5 0
 0 116 -1 1
-0 121 -1 1
 0 119 -1 1
+0 121 -1 1
+0 123 5 0
+0 198 -1 0
+0 199 -1 0
+0 200 -1 0
 1
 end_operator
 begin_operator
 startup_seg_c4_c5_0_50_north_medium airplane_dfboy
 4
-125 14
-111 0
 104 0
 108 0
+111 0
+125 14
 7
-0 195 -1 0
-0 194 -1 0
-0 193 -1 0
-0 123 5 0
-0 113 -1 1
 0 112 -1 1
+0 113 -1 1
 0 114 -1 1
+0 123 5 0
+0 193 -1 0
+0 194 -1 0
+0 195 -1 0
 1
 end_operator
 begin_operator
 startup_seg_c4_c5_0_50_south_medium airplane_dfboy
 2
-125 14
 118 0
+125 14
 3
-0 199 -1 0
-0 123 5 0
 0 121 -1 1
+0 123 5 0
+0 199 -1 0
 1
 end_operator
 begin_operator
 startup_seg_c5_c6_0_50_north_medium airplane_dfboy
 2
-125 15
 87 0
+125 15
 3
-0 192 -1 0
-0 123 5 0
 0 81 -1 1
+0 123 5 0
+0 192 -1 0
 1
 end_operator
 begin_operator
 startup_seg_c5_c6_0_50_south_medium airplane_dfboy
 4
-125 15
-109 0
 104 0
 108 0
+109 0
+125 15
 7
-0 196 -1 0
-0 194 -1 0
-0 193 -1 0
-0 123 5 0
 0 110 -1 1
 0 112 -1 1
 0 114 -1 1
+0 123 5 0
+0 193 -1 0
+0 194 -1 0
+0 196 -1 0
 1
 end_operator
 begin_operator
 startup_seg_c5_c_a02_0_100_north_medium airplane_dfboy
 2
-125 16
 77 0
+125 16
 3
-0 205 -1 0
-0 123 5 0
 0 68 -1 1
+0 123 5 0
+0 205 -1 0
 1
 end_operator
 begin_operator
 startup_seg_c5_c_a02_0_100_south_medium airplane_dfboy
 4
-125 16
+108 0
 109 0
 111 0
-108 0
+125 16
 7
-0 196 -1 0
-0 195 -1 0
-0 193 -1 0
-0 123 5 0
 0 110 -1 1
 0 113 -1 1
 0 114 -1 1
+0 123 5 0
+0 193 -1 0
+0 195 -1 0
+0 196 -1 0
 1
 end_operator
 begin_operator
 startup_seg_c5_c_b02_0_100_north_medium airplane_dfboy
 2
-125 17
 90 0
+125 17
 3
-0 202 -1 0
-0 123 5 0
 0 86 -1 1
+0 123 5 0
+0 202 -1 0
 1
 end_operator
 begin_operator
 startup_seg_c5_c_b02_0_100_south_medium airplane_dfboy
 4
-125 17
+104 0
 109 0
 111 0
-104 0
+125 17
 7
-0 196 -1 0
-0 195 -1 0
-0 194 -1 0
-0 123 5 0
 0 110 -1 1
-0 113 -1 1
 0 112 -1 1
+0 113 -1 1
+0 123 5 0
+0 194 -1 0
+0 195 -1 0
+0 196 -1 0
 1
 end_operator
 begin_operator
@@ -5059,505 +5059,505 @@ end_operator
 begin_operator
 startup_seg_c6_c7_0_100_south_medium airplane_dfboy
 2
-125 18
 111 0
+125 18
 3
-0 195 -1 0
-0 123 5 0
 0 113 -1 1
+0 123 5 0
+0 195 -1 0
 1
 end_operator
 begin_operator
 startup_seg_c_c2_0_100_north_medium airplane_dfboy
 2
-125 19
 117 0
+125 19
 3
-0 200 -1 0
-0 123 5 0
 0 116 -1 1
+0 123 5 0
+0 200 -1 0
 1
 end_operator
 begin_operator
 startup_seg_c_c2_0_100_south_medium airplane_dfboy
 2
-125 19
 92 0
+125 19
 3
-0 171 -1 0
-0 123 5 0
 0 91 -1 1
+0 123 5 0
+0 171 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n1_a_0_100_north_medium airplane_dfboy
 2
-125 20
 51 0
+125 20
 3
-0 204 -1 0
-0 123 5 0
 0 29 -1 1
+0 123 5 0
+0 204 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n1_a_0_100_south_medium airplane_dfboy
 2
-125 20
 53 0
+125 20
 3
-0 189 -1 0
-0 123 5 0
 0 30 -1 1
+0 123 5 0
+0 189 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n1_n2_0_100_north_medium airplane_dfboy
 2
-125 21
 36 0
+125 21
 3
-0 187 -1 0
-0 123 5 0
 0 34 -1 1
+0 123 5 0
+0 187 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n1_n2_0_100_south_medium airplane_dfboy
 2
-125 21
 52 0
+125 21
 3
-0 190 -1 0
-0 123 5 0
 0 50 -1 1
+0 123 5 0
+0 190 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n2_n3_0_85_north_medium airplane_dfboy
 2
-125 22
 74 0
+125 22
 3
-0 181 -1 0
-0 123 5 0
 0 89 -1 1
+0 123 5 0
+0 181 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n2_n3_0_85_south_medium airplane_dfboy
 2
-125 22
 42 0
+125 22
 3
-0 182 -1 0
-0 123 5 0
 0 33 -1 1
+0 123 5 0
+0 182 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n2_n3_1_0_86_north_medium airplane_dfboy
 2
-125 23
 37 0
+125 23
 3
-0 186 -1 0
-0 123 5 0
 0 31 -1 1
+0 123 5 0
+0 186 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n2_n3_1_0_86_south_medium airplane_dfboy
 2
-125 23
 53 0
+125 23
 3
-0 189 -1 0
-0 123 5 0
 0 30 -1 1
+0 123 5 0
+0 189 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n2_n3_2_0_86_north_medium airplane_dfboy
 2
-125 24
 38 0
+125 24
 3
-0 185 -1 0
-0 123 5 0
 0 35 -1 1
+0 123 5 0
+0 185 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n2_n3_2_0_86_south_medium airplane_dfboy
 2
-125 24
 36 0
+125 24
 3
-0 187 -1 0
-0 123 5 0
 0 34 -1 1
+0 123 5 0
+0 187 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n2_n3_3_0_86_north_medium airplane_dfboy
 2
-125 25
 39 0
+125 25
 3
-0 184 -1 0
-0 123 5 0
 0 32 -1 1
+0 123 5 0
+0 184 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n2_n3_3_0_86_south_medium airplane_dfboy
 2
-125 25
 37 0
+125 25
 3
-0 186 -1 0
-0 123 5 0
 0 31 -1 1
+0 123 5 0
+0 186 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n2_n3_4_0_85_north_medium airplane_dfboy
 2
-125 26
 41 0
+125 26
 3
-0 183 -1 0
-0 123 5 0
 0 40 -1 1
+0 123 5 0
+0 183 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n2_n3_4_0_85_south_medium airplane_dfboy
 2
-125 26
 38 0
+125 26
 3
-0 185 -1 0
-0 123 5 0
 0 35 -1 1
+0 123 5 0
+0 185 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n2_n3_5_0_86_north_medium airplane_dfboy
 2
-125 27
 42 0
+125 27
 3
-0 182 -1 0
-0 123 5 0
 0 33 -1 1
+0 123 5 0
+0 182 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n2_n3_5_0_86_south_medium airplane_dfboy
 2
-125 27
 39 0
+125 27
 3
-0 184 -1 0
-0 123 5 0
 0 32 -1 1
+0 123 5 0
+0 184 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n2_n3_6_0_86_north_medium airplane_dfboy
 2
-125 28
 44 0
+125 28
 3
-0 188 -1 0
-0 123 5 0
 0 43 -1 1
+0 123 5 0
+0 188 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n2_n3_6_0_86_south_medium airplane_dfboy
 2
-125 28
 41 0
+125 28
 3
-0 183 -1 0
-0 123 5 0
 0 40 -1 1
+0 123 5 0
+0 183 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n3_n_0_100_north_medium airplane_dfboy
 3
-125 29
-92 0
 85 0
+92 0
+125 29
 5
-0 171 -1 0
-0 170 -1 0
-0 123 5 0
-0 91 -1 1
 0 88 -1 1
+0 91 -1 1
+0 123 5 0
+0 170 -1 0
+0 171 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n3_n_0_100_south_medium airplane_dfboy
 2
-125 29
 44 0
+125 29
 3
-0 188 -1 0
-0 123 5 0
 0 43 -1 1
+0 123 5 0
+0 188 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n4_n5_0_86_north_medium airplane_dfboy
 2
-125 30
 59 0
+125 30
 3
-0 173 -1 0
-0 123 5 0
 0 47 -1 1
+0 123 5 0
+0 173 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n4_n5_0_86_south_medium airplane_dfboy
 2
-125 30
 57 0
+125 30
 3
-0 174 -1 0
-0 123 5 0
 0 46 -1 1
+0 123 5 0
+0 174 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n4_n5_1_0_85_north_medium airplane_dfboy
 2
-125 31
 72 0
+125 31
 3
-0 178 -1 0
-0 123 5 0
 0 69 -1 1
+0 123 5 0
+0 178 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n4_n5_1_0_85_south_medium airplane_dfboy
 2
-125 31
 85 0
+125 31
 3
-0 170 -1 0
-0 123 5 0
 0 88 -1 1
+0 123 5 0
+0 170 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n4_n5_2_0_86_north_medium airplane_dfboy
 2
-125 32
 70 0
+125 32
 3
-0 177 -1 0
-0 123 5 0
 0 64 -1 1
+0 123 5 0
+0 177 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n4_n5_2_0_86_south_medium airplane_dfboy
 2
-125 32
 79 0
+125 32
 3
-0 179 -1 0
-0 123 5 0
 0 73 -1 1
+0 123 5 0
+0 179 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n4_n5_3_0_86_north_medium airplane_dfboy
 2
-125 33
 65 0
+125 33
 3
-0 176 -1 0
-0 123 5 0
 0 45 -1 1
+0 123 5 0
+0 176 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n4_n5_3_0_86_south_medium airplane_dfboy
 2
-125 33
 72 0
+125 33
 3
-0 178 -1 0
-0 123 5 0
 0 69 -1 1
+0 123 5 0
+0 178 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n4_n5_4_0_85_north_medium airplane_dfboy
 2
-125 34
 56 0
+125 34
 3
-0 175 -1 0
-0 123 5 0
 0 54 -1 1
+0 123 5 0
+0 175 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n4_n5_4_0_85_south_medium airplane_dfboy
 2
-125 34
 70 0
+125 34
 3
-0 177 -1 0
-0 123 5 0
 0 64 -1 1
+0 123 5 0
+0 177 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n4_n5_5_0_86_north_medium airplane_dfboy
 2
-125 35
 57 0
+125 35
 3
-0 174 -1 0
-0 123 5 0
 0 46 -1 1
+0 123 5 0
+0 174 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n4_n5_5_0_86_south_medium airplane_dfboy
 2
-125 35
 65 0
+125 35
 3
-0 176 -1 0
-0 123 5 0
 0 45 -1 1
+0 123 5 0
+0 176 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n4_n5_6_0_86_north_medium airplane_dfboy
 2
-125 36
 58 0
+125 36
 3
-0 180 -1 0
-0 123 5 0
 0 55 -1 1
+0 123 5 0
+0 180 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n4_n5_6_0_86_south_medium airplane_dfboy
 2
-125 36
 56 0
+125 36
 3
-0 175 -1 0
-0 123 5 0
 0 54 -1 1
+0 123 5 0
+0 175 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n5_n6_0_100_north_medium airplane_dfboy
 2
-125 37
 61 0
+125 37
 3
-0 172 -1 0
-0 123 5 0
 0 60 -1 1
+0 123 5 0
+0 172 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n5_n6_0_100_south_medium airplane_dfboy
 2
-125 37
 58 0
+125 37
 3
-0 180 -1 0
-0 123 5 0
 0 55 -1 1
+0 123 5 0
+0 180 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n6_b_0_100_north_medium airplane_dfboy
 2
-125 38
 62 0
+125 38
 3
-0 201 -1 0
-0 123 5 0
 0 48 -1 1
+0 123 5 0
+0 201 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n6_b_0_100_south_medium airplane_dfboy
 2
-125 38
 59 0
+125 38
 3
-0 173 -1 0
-0 123 5 0
 0 47 -1 1
+0 123 5 0
+0 173 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n_c_0_100_north_medium airplane_dfboy
 2
-125 39
 95 0
+125 39
 3
-0 191 -1 0
-0 123 5 0
 0 98 -1 1
+0 123 5 0
+0 191 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n_c_0_100_south_medium airplane_dfboy
 3
-125 39
 74 0
 85 0
+125 39
 5
-0 181 -1 0
-0 170 -1 0
-0 123 5 0
-0 89 -1 1
 0 88 -1 1
+0 89 -1 1
+0 123 5 0
+0 170 -1 0
+0 181 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n_n4_0_100_north_medium airplane_dfboy
 2
-125 40
 79 0
+125 40
 3
-0 179 -1 0
-0 123 5 0
 0 73 -1 1
+0 123 5 0
+0 179 -1 0
 1
 end_operator
 begin_operator
 startup_seg_n_n4_0_100_south_medium airplane_dfboy
 3
-125 40
 74 0
 92 0
+125 40
 5
-0 181 -1 0
-0 171 -1 0
-0 123 5 0
 0 89 -1 1
 0 91 -1 1
+0 123 5 0
+0 171 -1 0
+0 181 -1 0
 1
 end_operator
 begin_operator
@@ -5565,14 +5565,14 @@ takeoff_seg_09_0_150_south airplane_cfbeg
 1
 93 1
 8
-0 122 2 0
-0 251 -1 1
-0 246 -1 1
-0 124 0 5
-0 27 -1 0
 0 20 -1 0
+0 27 -1 0
 0 78 -1 0
+0 122 2 0
+0 124 0 5
 0 155 -1 1
+0 246 -1 1
+0 251 -1 1
 1
 end_operator
 begin_operator
@@ -5580,14 +5580,14 @@ takeoff_seg_09_0_150_south airplane_dfboy
 1
 99 1
 8
-0 125 2 0
-0 210 -1 1
-0 204 -1 1
-0 123 0 6
-0 49 -1 0
 0 29 -1 0
+0 49 -1 0
 0 78 -1 0
+0 123 0 6
+0 125 2 0
 0 155 -1 1
+0 204 -1 1
+0 210 -1 1
 1
 end_operator
 begin_operator
@@ -5595,14 +5595,14 @@ takeoff_seg_27_0_150_north airplane_cfbeg
 1
 93 0
 8
-0 122 3 1
-0 250 -1 1
-0 243 -1 1
-0 124 0 5
-0 28 -1 0
 0 26 -1 0
+0 28 -1 0
 0 80 -1 0
+0 122 3 1
+0 124 0 5
 0 154 -1 1
+0 243 -1 1
+0 250 -1 1
 1
 end_operator
 begin_operator
@@ -5610,14 +5610,14 @@ takeoff_seg_27_0_150_north airplane_dfboy
 1
 99 0
 8
-0 125 3 1
-0 208 -1 1
-0 201 -1 1
-0 123 0 6
-0 63 -1 0
 0 48 -1 0
+0 63 -1 0
 0 80 -1 0
+0 123 0 6
+0 125 3 1
 0 154 -1 1
+0 201 -1 1
+0 208 -1 1
 1
 end_operator
 0

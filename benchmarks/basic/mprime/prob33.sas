@@ -48034,8 +48034,8 @@ overcome anxiety achievement apple mars mercury
 1
 0 0
 2
-0 62 0 13
 0 54 1 0
+0 62 0 13
 1
 end_operator
 begin_operator
@@ -48043,8 +48043,8 @@ overcome anxiety achievement apple mercury neptune
 1
 0 0
 2
-0 62 0 13
 0 54 2 1
+0 62 0 13
 1
 end_operator
 begin_operator
@@ -48052,8 +48052,8 @@ overcome anxiety achievement apple uranus mars
 1
 0 0
 2
-0 62 0 13
 0 54 0 3
+0 62 0 13
 1
 end_operator
 begin_operator
@@ -48061,8 +48061,8 @@ overcome anxiety achievement chicken mars mercury
 1
 0 1
 2
-0 62 1 13
 0 54 1 0
+0 62 1 13
 1
 end_operator
 begin_operator
@@ -48070,8 +48070,8 @@ overcome anxiety achievement chicken mercury neptune
 1
 0 1
 2
-0 62 1 13
 0 54 2 1
+0 62 1 13
 1
 end_operator
 begin_operator
@@ -48079,8 +48079,8 @@ overcome anxiety achievement chicken uranus mars
 1
 0 1
 2
-0 62 1 13
 0 54 0 3
+0 62 1 13
 1
 end_operator
 begin_operator
@@ -48088,8 +48088,8 @@ overcome anxiety achievement hamburger mars mercury
 1
 0 2
 2
-0 62 2 13
 0 54 1 0
+0 62 2 13
 1
 end_operator
 begin_operator
@@ -48097,8 +48097,8 @@ overcome anxiety achievement hamburger mercury neptune
 1
 0 2
 2
-0 62 2 13
 0 54 2 1
+0 62 2 13
 1
 end_operator
 begin_operator
@@ -48106,8 +48106,8 @@ overcome anxiety achievement hamburger uranus mars
 1
 0 2
 2
-0 62 2 13
 0 54 0 3
+0 62 2 13
 1
 end_operator
 begin_operator
@@ -48115,8 +48115,8 @@ overcome anxiety achievement haroset mars mercury
 1
 0 3
 2
-0 62 3 13
 0 54 1 0
+0 62 3 13
 1
 end_operator
 begin_operator
@@ -48124,8 +48124,8 @@ overcome anxiety achievement haroset mercury neptune
 1
 0 3
 2
-0 62 3 13
 0 54 2 1
+0 62 3 13
 1
 end_operator
 begin_operator
@@ -48133,8 +48133,8 @@ overcome anxiety achievement haroset uranus mars
 1
 0 3
 2
-0 62 3 13
 0 54 0 3
+0 62 3 13
 1
 end_operator
 begin_operator
@@ -48142,8 +48142,8 @@ overcome anxiety achievement muffin mars mercury
 1
 0 4
 2
-0 62 4 13
 0 54 1 0
+0 62 4 13
 1
 end_operator
 begin_operator
@@ -48151,8 +48151,8 @@ overcome anxiety achievement muffin mercury neptune
 1
 0 4
 2
-0 62 4 13
 0 54 2 1
+0 62 4 13
 1
 end_operator
 begin_operator
@@ -48160,8 +48160,8 @@ overcome anxiety achievement muffin uranus mars
 1
 0 4
 2
-0 62 4 13
 0 54 0 3
+0 62 4 13
 1
 end_operator
 begin_operator
@@ -48169,8 +48169,8 @@ overcome anxiety achievement onion mars mercury
 1
 0 5
 2
-0 62 5 13
 0 54 1 0
+0 62 5 13
 1
 end_operator
 begin_operator
@@ -48178,8 +48178,8 @@ overcome anxiety achievement onion mercury neptune
 1
 0 5
 2
-0 62 5 13
 0 54 2 1
+0 62 5 13
 1
 end_operator
 begin_operator
@@ -48187,8 +48187,8 @@ overcome anxiety achievement onion uranus mars
 1
 0 5
 2
-0 62 5 13
 0 54 0 3
+0 62 5 13
 1
 end_operator
 begin_operator
@@ -48196,8 +48196,8 @@ overcome anxiety achievement popover mars mercury
 1
 0 6
 2
-0 62 6 13
 0 54 1 0
+0 62 6 13
 1
 end_operator
 begin_operator
@@ -48205,8 +48205,8 @@ overcome anxiety achievement popover mercury neptune
 1
 0 6
 2
-0 62 6 13
 0 54 2 1
+0 62 6 13
 1
 end_operator
 begin_operator
@@ -48214,8 +48214,8 @@ overcome anxiety achievement popover uranus mars
 1
 0 6
 2
-0 62 6 13
 0 54 0 3
+0 62 6 13
 1
 end_operator
 begin_operator
@@ -48223,8 +48223,8 @@ overcome anxiety achievement potato mars mercury
 1
 0 7
 2
-0 62 7 13
 0 54 1 0
+0 62 7 13
 1
 end_operator
 begin_operator
@@ -48232,8 +48232,8 @@ overcome anxiety achievement potato mercury neptune
 1
 0 7
 2
-0 62 7 13
 0 54 2 1
+0 62 7 13
 1
 end_operator
 begin_operator
@@ -48241,8 +48241,8 @@ overcome anxiety achievement potato uranus mars
 1
 0 7
 2
-0 62 7 13
 0 54 0 3
+0 62 7 13
 1
 end_operator
 begin_operator
@@ -48250,8 +48250,8 @@ overcome anxiety achievement shrimp mars mercury
 1
 0 8
 2
-0 62 8 13
 0 54 1 0
+0 62 8 13
 1
 end_operator
 begin_operator
@@ -48259,8 +48259,8 @@ overcome anxiety achievement shrimp mercury neptune
 1
 0 8
 2
-0 62 8 13
 0 54 2 1
+0 62 8 13
 1
 end_operator
 begin_operator
@@ -48268,8 +48268,8 @@ overcome anxiety achievement shrimp uranus mars
 1
 0 8
 2
-0 62 8 13
 0 54 0 3
+0 62 8 13
 1
 end_operator
 begin_operator
@@ -48277,8 +48277,8 @@ overcome anxiety achievement sweetroll mars mercury
 1
 0 9
 2
-0 62 9 13
 0 54 1 0
+0 62 9 13
 1
 end_operator
 begin_operator
@@ -48286,8 +48286,8 @@ overcome anxiety achievement sweetroll mercury neptune
 1
 0 9
 2
-0 62 9 13
 0 54 2 1
+0 62 9 13
 1
 end_operator
 begin_operator
@@ -48295,8 +48295,8 @@ overcome anxiety achievement sweetroll uranus mars
 1
 0 9
 2
-0 62 9 13
 0 54 0 3
+0 62 9 13
 1
 end_operator
 begin_operator
@@ -48304,8 +48304,8 @@ overcome anxiety achievement tofu mars mercury
 1
 0 10
 2
-0 62 10 13
 0 54 1 0
+0 62 10 13
 1
 end_operator
 begin_operator
@@ -48313,8 +48313,8 @@ overcome anxiety achievement tofu mercury neptune
 1
 0 10
 2
-0 62 10 13
 0 54 2 1
+0 62 10 13
 1
 end_operator
 begin_operator
@@ -48322,8 +48322,8 @@ overcome anxiety achievement tofu uranus mars
 1
 0 10
 2
-0 62 10 13
 0 54 0 3
+0 62 10 13
 1
 end_operator
 begin_operator
@@ -48331,8 +48331,8 @@ overcome anxiety achievement turkey mars mercury
 1
 0 11
 2
-0 62 11 13
 0 54 1 0
+0 62 11 13
 1
 end_operator
 begin_operator
@@ -48340,8 +48340,8 @@ overcome anxiety achievement turkey mercury neptune
 1
 0 11
 2
-0 62 11 13
 0 54 2 1
+0 62 11 13
 1
 end_operator
 begin_operator
@@ -48349,8 +48349,8 @@ overcome anxiety achievement turkey uranus mars
 1
 0 11
 2
-0 62 11 13
 0 54 0 3
+0 62 11 13
 1
 end_operator
 begin_operator
@@ -48358,8 +48358,8 @@ overcome anxiety achievement yogurt mars mercury
 1
 0 12
 2
-0 62 12 13
 0 54 1 0
+0 62 12 13
 1
 end_operator
 begin_operator
@@ -48367,8 +48367,8 @@ overcome anxiety achievement yogurt mercury neptune
 1
 0 12
 2
-0 62 12 13
 0 54 2 1
+0 62 12 13
 1
 end_operator
 begin_operator
@@ -48376,8 +48376,8 @@ overcome anxiety achievement yogurt uranus mars
 1
 0 12
 2
-0 62 12 13
 0 54 0 3
+0 62 12 13
 1
 end_operator
 begin_operator
@@ -48385,8 +48385,8 @@ overcome anxiety aesthetics apple mars mercury
 1
 1 0
 2
-0 62 0 14
 0 55 1 0
+0 62 0 14
 1
 end_operator
 begin_operator
@@ -48394,8 +48394,8 @@ overcome anxiety aesthetics apple mercury neptune
 1
 1 0
 2
-0 62 0 14
 0 55 2 1
+0 62 0 14
 1
 end_operator
 begin_operator
@@ -48403,8 +48403,8 @@ overcome anxiety aesthetics apple uranus mars
 1
 1 0
 2
-0 62 0 14
 0 55 0 3
+0 62 0 14
 1
 end_operator
 begin_operator
@@ -48412,8 +48412,8 @@ overcome anxiety aesthetics chicken mars mercury
 1
 1 1
 2
-0 62 1 14
 0 55 1 0
+0 62 1 14
 1
 end_operator
 begin_operator
@@ -48421,8 +48421,8 @@ overcome anxiety aesthetics chicken mercury neptune
 1
 1 1
 2
-0 62 1 14
 0 55 2 1
+0 62 1 14
 1
 end_operator
 begin_operator
@@ -48430,8 +48430,8 @@ overcome anxiety aesthetics chicken uranus mars
 1
 1 1
 2
-0 62 1 14
 0 55 0 3
+0 62 1 14
 1
 end_operator
 begin_operator
@@ -48439,8 +48439,8 @@ overcome anxiety aesthetics hamburger mars mercury
 1
 1 2
 2
-0 62 2 14
 0 55 1 0
+0 62 2 14
 1
 end_operator
 begin_operator
@@ -48448,8 +48448,8 @@ overcome anxiety aesthetics hamburger mercury neptune
 1
 1 2
 2
-0 62 2 14
 0 55 2 1
+0 62 2 14
 1
 end_operator
 begin_operator
@@ -48457,8 +48457,8 @@ overcome anxiety aesthetics hamburger uranus mars
 1
 1 2
 2
-0 62 2 14
 0 55 0 3
+0 62 2 14
 1
 end_operator
 begin_operator
@@ -48466,8 +48466,8 @@ overcome anxiety aesthetics haroset mars mercury
 1
 1 3
 2
-0 62 3 14
 0 55 1 0
+0 62 3 14
 1
 end_operator
 begin_operator
@@ -48475,8 +48475,8 @@ overcome anxiety aesthetics haroset mercury neptune
 1
 1 3
 2
-0 62 3 14
 0 55 2 1
+0 62 3 14
 1
 end_operator
 begin_operator
@@ -48484,8 +48484,8 @@ overcome anxiety aesthetics haroset uranus mars
 1
 1 3
 2
-0 62 3 14
 0 55 0 3
+0 62 3 14
 1
 end_operator
 begin_operator
@@ -48493,8 +48493,8 @@ overcome anxiety aesthetics muffin mars mercury
 1
 1 4
 2
-0 62 4 14
 0 55 1 0
+0 62 4 14
 1
 end_operator
 begin_operator
@@ -48502,8 +48502,8 @@ overcome anxiety aesthetics muffin mercury neptune
 1
 1 4
 2
-0 62 4 14
 0 55 2 1
+0 62 4 14
 1
 end_operator
 begin_operator
@@ -48511,8 +48511,8 @@ overcome anxiety aesthetics muffin uranus mars
 1
 1 4
 2
-0 62 4 14
 0 55 0 3
+0 62 4 14
 1
 end_operator
 begin_operator
@@ -48520,8 +48520,8 @@ overcome anxiety aesthetics onion mars mercury
 1
 1 5
 2
-0 62 5 14
 0 55 1 0
+0 62 5 14
 1
 end_operator
 begin_operator
@@ -48529,8 +48529,8 @@ overcome anxiety aesthetics onion mercury neptune
 1
 1 5
 2
-0 62 5 14
 0 55 2 1
+0 62 5 14
 1
 end_operator
 begin_operator
@@ -48538,8 +48538,8 @@ overcome anxiety aesthetics onion uranus mars
 1
 1 5
 2
-0 62 5 14
 0 55 0 3
+0 62 5 14
 1
 end_operator
 begin_operator
@@ -48547,8 +48547,8 @@ overcome anxiety aesthetics popover mars mercury
 1
 1 6
 2
-0 62 6 14
 0 55 1 0
+0 62 6 14
 1
 end_operator
 begin_operator
@@ -48556,8 +48556,8 @@ overcome anxiety aesthetics popover mercury neptune
 1
 1 6
 2
-0 62 6 14
 0 55 2 1
+0 62 6 14
 1
 end_operator
 begin_operator
@@ -48565,8 +48565,8 @@ overcome anxiety aesthetics popover uranus mars
 1
 1 6
 2
-0 62 6 14
 0 55 0 3
+0 62 6 14
 1
 end_operator
 begin_operator
@@ -48574,8 +48574,8 @@ overcome anxiety aesthetics potato mars mercury
 1
 1 7
 2
-0 62 7 14
 0 55 1 0
+0 62 7 14
 1
 end_operator
 begin_operator
@@ -48583,8 +48583,8 @@ overcome anxiety aesthetics potato mercury neptune
 1
 1 7
 2
-0 62 7 14
 0 55 2 1
+0 62 7 14
 1
 end_operator
 begin_operator
@@ -48592,8 +48592,8 @@ overcome anxiety aesthetics potato uranus mars
 1
 1 7
 2
-0 62 7 14
 0 55 0 3
+0 62 7 14
 1
 end_operator
 begin_operator
@@ -48601,8 +48601,8 @@ overcome anxiety aesthetics shrimp mars mercury
 1
 1 8
 2
-0 62 8 14
 0 55 1 0
+0 62 8 14
 1
 end_operator
 begin_operator
@@ -48610,8 +48610,8 @@ overcome anxiety aesthetics shrimp mercury neptune
 1
 1 8
 2
-0 62 8 14
 0 55 2 1
+0 62 8 14
 1
 end_operator
 begin_operator
@@ -48619,8 +48619,8 @@ overcome anxiety aesthetics shrimp uranus mars
 1
 1 8
 2
-0 62 8 14
 0 55 0 3
+0 62 8 14
 1
 end_operator
 begin_operator
@@ -48628,8 +48628,8 @@ overcome anxiety aesthetics sweetroll mars mercury
 1
 1 9
 2
-0 62 9 14
 0 55 1 0
+0 62 9 14
 1
 end_operator
 begin_operator
@@ -48637,8 +48637,8 @@ overcome anxiety aesthetics sweetroll mercury neptune
 1
 1 9
 2
-0 62 9 14
 0 55 2 1
+0 62 9 14
 1
 end_operator
 begin_operator
@@ -48646,8 +48646,8 @@ overcome anxiety aesthetics sweetroll uranus mars
 1
 1 9
 2
-0 62 9 14
 0 55 0 3
+0 62 9 14
 1
 end_operator
 begin_operator
@@ -48655,8 +48655,8 @@ overcome anxiety aesthetics tofu mars mercury
 1
 1 10
 2
-0 62 10 14
 0 55 1 0
+0 62 10 14
 1
 end_operator
 begin_operator
@@ -48664,8 +48664,8 @@ overcome anxiety aesthetics tofu mercury neptune
 1
 1 10
 2
-0 62 10 14
 0 55 2 1
+0 62 10 14
 1
 end_operator
 begin_operator
@@ -48673,8 +48673,8 @@ overcome anxiety aesthetics tofu uranus mars
 1
 1 10
 2
-0 62 10 14
 0 55 0 3
+0 62 10 14
 1
 end_operator
 begin_operator
@@ -48682,8 +48682,8 @@ overcome anxiety aesthetics turkey mars mercury
 1
 1 11
 2
-0 62 11 14
 0 55 1 0
+0 62 11 14
 1
 end_operator
 begin_operator
@@ -48691,8 +48691,8 @@ overcome anxiety aesthetics turkey mercury neptune
 1
 1 11
 2
-0 62 11 14
 0 55 2 1
+0 62 11 14
 1
 end_operator
 begin_operator
@@ -48700,8 +48700,8 @@ overcome anxiety aesthetics turkey uranus mars
 1
 1 11
 2
-0 62 11 14
 0 55 0 3
+0 62 11 14
 1
 end_operator
 begin_operator
@@ -48709,8 +48709,8 @@ overcome anxiety aesthetics yogurt mars mercury
 1
 1 12
 2
-0 62 12 14
 0 55 1 0
+0 62 12 14
 1
 end_operator
 begin_operator
@@ -48718,8 +48718,8 @@ overcome anxiety aesthetics yogurt mercury neptune
 1
 1 12
 2
-0 62 12 14
 0 55 2 1
+0 62 12 14
 1
 end_operator
 begin_operator
@@ -48727,8 +48727,8 @@ overcome anxiety aesthetics yogurt uranus mars
 1
 1 12
 2
-0 62 12 14
 0 55 0 3
+0 62 12 14
 1
 end_operator
 begin_operator
@@ -48736,8 +48736,8 @@ overcome anxiety excitement apple mars mercury
 1
 2 0
 2
-0 62 0 15
 0 58 1 0
+0 62 0 15
 1
 end_operator
 begin_operator
@@ -48745,8 +48745,8 @@ overcome anxiety excitement apple mercury neptune
 1
 2 0
 2
-0 62 0 15
 0 58 2 1
+0 62 0 15
 1
 end_operator
 begin_operator
@@ -48754,8 +48754,8 @@ overcome anxiety excitement apple uranus mars
 1
 2 0
 2
-0 62 0 15
 0 58 0 3
+0 62 0 15
 1
 end_operator
 begin_operator
@@ -48763,8 +48763,8 @@ overcome anxiety excitement chicken mars mercury
 1
 2 1
 2
-0 62 1 15
 0 58 1 0
+0 62 1 15
 1
 end_operator
 begin_operator
@@ -48772,8 +48772,8 @@ overcome anxiety excitement chicken mercury neptune
 1
 2 1
 2
-0 62 1 15
 0 58 2 1
+0 62 1 15
 1
 end_operator
 begin_operator
@@ -48781,8 +48781,8 @@ overcome anxiety excitement chicken uranus mars
 1
 2 1
 2
-0 62 1 15
 0 58 0 3
+0 62 1 15
 1
 end_operator
 begin_operator
@@ -48790,8 +48790,8 @@ overcome anxiety excitement hamburger mars mercury
 1
 2 2
 2
-0 62 2 15
 0 58 1 0
+0 62 2 15
 1
 end_operator
 begin_operator
@@ -48799,8 +48799,8 @@ overcome anxiety excitement hamburger mercury neptune
 1
 2 2
 2
-0 62 2 15
 0 58 2 1
+0 62 2 15
 1
 end_operator
 begin_operator
@@ -48808,8 +48808,8 @@ overcome anxiety excitement hamburger uranus mars
 1
 2 2
 2
-0 62 2 15
 0 58 0 3
+0 62 2 15
 1
 end_operator
 begin_operator
@@ -48817,8 +48817,8 @@ overcome anxiety excitement haroset mars mercury
 1
 2 3
 2
-0 62 3 15
 0 58 1 0
+0 62 3 15
 1
 end_operator
 begin_operator
@@ -48826,8 +48826,8 @@ overcome anxiety excitement haroset mercury neptune
 1
 2 3
 2
-0 62 3 15
 0 58 2 1
+0 62 3 15
 1
 end_operator
 begin_operator
@@ -48835,8 +48835,8 @@ overcome anxiety excitement haroset uranus mars
 1
 2 3
 2
-0 62 3 15
 0 58 0 3
+0 62 3 15
 1
 end_operator
 begin_operator
@@ -48844,8 +48844,8 @@ overcome anxiety excitement muffin mars mercury
 1
 2 4
 2
-0 62 4 15
 0 58 1 0
+0 62 4 15
 1
 end_operator
 begin_operator
@@ -48853,8 +48853,8 @@ overcome anxiety excitement muffin mercury neptune
 1
 2 4
 2
-0 62 4 15
 0 58 2 1
+0 62 4 15
 1
 end_operator
 begin_operator
@@ -48862,8 +48862,8 @@ overcome anxiety excitement muffin uranus mars
 1
 2 4
 2
-0 62 4 15
 0 58 0 3
+0 62 4 15
 1
 end_operator
 begin_operator
@@ -48871,8 +48871,8 @@ overcome anxiety excitement onion mars mercury
 1
 2 5
 2
-0 62 5 15
 0 58 1 0
+0 62 5 15
 1
 end_operator
 begin_operator
@@ -48880,8 +48880,8 @@ overcome anxiety excitement onion mercury neptune
 1
 2 5
 2
-0 62 5 15
 0 58 2 1
+0 62 5 15
 1
 end_operator
 begin_operator
@@ -48889,8 +48889,8 @@ overcome anxiety excitement onion uranus mars
 1
 2 5
 2
-0 62 5 15
 0 58 0 3
+0 62 5 15
 1
 end_operator
 begin_operator
@@ -48898,8 +48898,8 @@ overcome anxiety excitement popover mars mercury
 1
 2 6
 2
-0 62 6 15
 0 58 1 0
+0 62 6 15
 1
 end_operator
 begin_operator
@@ -48907,8 +48907,8 @@ overcome anxiety excitement popover mercury neptune
 1
 2 6
 2
-0 62 6 15
 0 58 2 1
+0 62 6 15
 1
 end_operator
 begin_operator
@@ -48916,8 +48916,8 @@ overcome anxiety excitement popover uranus mars
 1
 2 6
 2
-0 62 6 15
 0 58 0 3
+0 62 6 15
 1
 end_operator
 begin_operator
@@ -48925,8 +48925,8 @@ overcome anxiety excitement potato mars mercury
 1
 2 7
 2
-0 62 7 15
 0 58 1 0
+0 62 7 15
 1
 end_operator
 begin_operator
@@ -48934,8 +48934,8 @@ overcome anxiety excitement potato mercury neptune
 1
 2 7
 2
-0 62 7 15
 0 58 2 1
+0 62 7 15
 1
 end_operator
 begin_operator
@@ -48943,8 +48943,8 @@ overcome anxiety excitement potato uranus mars
 1
 2 7
 2
-0 62 7 15
 0 58 0 3
+0 62 7 15
 1
 end_operator
 begin_operator
@@ -48952,8 +48952,8 @@ overcome anxiety excitement shrimp mars mercury
 1
 2 8
 2
-0 62 8 15
 0 58 1 0
+0 62 8 15
 1
 end_operator
 begin_operator
@@ -48961,8 +48961,8 @@ overcome anxiety excitement shrimp mercury neptune
 1
 2 8
 2
-0 62 8 15
 0 58 2 1
+0 62 8 15
 1
 end_operator
 begin_operator
@@ -48970,8 +48970,8 @@ overcome anxiety excitement shrimp uranus mars
 1
 2 8
 2
-0 62 8 15
 0 58 0 3
+0 62 8 15
 1
 end_operator
 begin_operator
@@ -48979,8 +48979,8 @@ overcome anxiety excitement sweetroll mars mercury
 1
 2 9
 2
-0 62 9 15
 0 58 1 0
+0 62 9 15
 1
 end_operator
 begin_operator
@@ -48988,8 +48988,8 @@ overcome anxiety excitement sweetroll mercury neptune
 1
 2 9
 2
-0 62 9 15
 0 58 2 1
+0 62 9 15
 1
 end_operator
 begin_operator
@@ -48997,8 +48997,8 @@ overcome anxiety excitement sweetroll uranus mars
 1
 2 9
 2
-0 62 9 15
 0 58 0 3
+0 62 9 15
 1
 end_operator
 begin_operator
@@ -49006,8 +49006,8 @@ overcome anxiety excitement tofu mars mercury
 1
 2 10
 2
-0 62 10 15
 0 58 1 0
+0 62 10 15
 1
 end_operator
 begin_operator
@@ -49015,8 +49015,8 @@ overcome anxiety excitement tofu mercury neptune
 1
 2 10
 2
-0 62 10 15
 0 58 2 1
+0 62 10 15
 1
 end_operator
 begin_operator
@@ -49024,8 +49024,8 @@ overcome anxiety excitement tofu uranus mars
 1
 2 10
 2
-0 62 10 15
 0 58 0 3
+0 62 10 15
 1
 end_operator
 begin_operator
@@ -49033,8 +49033,8 @@ overcome anxiety excitement turkey mars mercury
 1
 2 11
 2
-0 62 11 15
 0 58 1 0
+0 62 11 15
 1
 end_operator
 begin_operator
@@ -49042,8 +49042,8 @@ overcome anxiety excitement turkey mercury neptune
 1
 2 11
 2
-0 62 11 15
 0 58 2 1
+0 62 11 15
 1
 end_operator
 begin_operator
@@ -49051,8 +49051,8 @@ overcome anxiety excitement turkey uranus mars
 1
 2 11
 2
-0 62 11 15
 0 58 0 3
+0 62 11 15
 1
 end_operator
 begin_operator
@@ -49060,8 +49060,8 @@ overcome anxiety excitement yogurt mars mercury
 1
 2 12
 2
-0 62 12 15
 0 58 1 0
+0 62 12 15
 1
 end_operator
 begin_operator
@@ -49069,8 +49069,8 @@ overcome anxiety excitement yogurt mercury neptune
 1
 2 12
 2
-0 62 12 15
 0 58 2 1
+0 62 12 15
 1
 end_operator
 begin_operator
@@ -49078,8 +49078,8 @@ overcome anxiety excitement yogurt uranus mars
 1
 2 12
 2
-0 62 12 15
 0 58 0 3
+0 62 12 15
 1
 end_operator
 begin_operator
@@ -49087,8 +49087,8 @@ overcome anxiety intoxication apple mars mercury
 1
 3 0
 2
-0 62 0 16
 0 59 1 0
+0 62 0 16
 1
 end_operator
 begin_operator
@@ -49096,8 +49096,8 @@ overcome anxiety intoxication apple mercury neptune
 1
 3 0
 2
-0 62 0 16
 0 59 2 1
+0 62 0 16
 1
 end_operator
 begin_operator
@@ -49105,8 +49105,8 @@ overcome anxiety intoxication apple uranus mars
 1
 3 0
 2
-0 62 0 16
 0 59 0 3
+0 62 0 16
 1
 end_operator
 begin_operator
@@ -49114,8 +49114,8 @@ overcome anxiety intoxication chicken mars mercury
 1
 3 1
 2
-0 62 1 16
 0 59 1 0
+0 62 1 16
 1
 end_operator
 begin_operator
@@ -49123,8 +49123,8 @@ overcome anxiety intoxication chicken mercury neptune
 1
 3 1
 2
-0 62 1 16
 0 59 2 1
+0 62 1 16
 1
 end_operator
 begin_operator
@@ -49132,8 +49132,8 @@ overcome anxiety intoxication chicken uranus mars
 1
 3 1
 2
-0 62 1 16
 0 59 0 3
+0 62 1 16
 1
 end_operator
 begin_operator
@@ -49141,8 +49141,8 @@ overcome anxiety intoxication hamburger mars mercury
 1
 3 2
 2
-0 62 2 16
 0 59 1 0
+0 62 2 16
 1
 end_operator
 begin_operator
@@ -49150,8 +49150,8 @@ overcome anxiety intoxication hamburger mercury neptune
 1
 3 2
 2
-0 62 2 16
 0 59 2 1
+0 62 2 16
 1
 end_operator
 begin_operator
@@ -49159,8 +49159,8 @@ overcome anxiety intoxication hamburger uranus mars
 1
 3 2
 2
-0 62 2 16
 0 59 0 3
+0 62 2 16
 1
 end_operator
 begin_operator
@@ -49168,8 +49168,8 @@ overcome anxiety intoxication haroset mars mercury
 1
 3 3
 2
-0 62 3 16
 0 59 1 0
+0 62 3 16
 1
 end_operator
 begin_operator
@@ -49177,8 +49177,8 @@ overcome anxiety intoxication haroset mercury neptune
 1
 3 3
 2
-0 62 3 16
 0 59 2 1
+0 62 3 16
 1
 end_operator
 begin_operator
@@ -49186,8 +49186,8 @@ overcome anxiety intoxication haroset uranus mars
 1
 3 3
 2
-0 62 3 16
 0 59 0 3
+0 62 3 16
 1
 end_operator
 begin_operator
@@ -49195,8 +49195,8 @@ overcome anxiety intoxication muffin mars mercury
 1
 3 4
 2
-0 62 4 16
 0 59 1 0
+0 62 4 16
 1
 end_operator
 begin_operator
@@ -49204,8 +49204,8 @@ overcome anxiety intoxication muffin mercury neptune
 1
 3 4
 2
-0 62 4 16
 0 59 2 1
+0 62 4 16
 1
 end_operator
 begin_operator
@@ -49213,8 +49213,8 @@ overcome anxiety intoxication muffin uranus mars
 1
 3 4
 2
-0 62 4 16
 0 59 0 3
+0 62 4 16
 1
 end_operator
 begin_operator
@@ -49222,8 +49222,8 @@ overcome anxiety intoxication onion mars mercury
 1
 3 5
 2
-0 62 5 16
 0 59 1 0
+0 62 5 16
 1
 end_operator
 begin_operator
@@ -49231,8 +49231,8 @@ overcome anxiety intoxication onion mercury neptune
 1
 3 5
 2
-0 62 5 16
 0 59 2 1
+0 62 5 16
 1
 end_operator
 begin_operator
@@ -49240,8 +49240,8 @@ overcome anxiety intoxication onion uranus mars
 1
 3 5
 2
-0 62 5 16
 0 59 0 3
+0 62 5 16
 1
 end_operator
 begin_operator
@@ -49249,8 +49249,8 @@ overcome anxiety intoxication popover mars mercury
 1
 3 6
 2
-0 62 6 16
 0 59 1 0
+0 62 6 16
 1
 end_operator
 begin_operator
@@ -49258,8 +49258,8 @@ overcome anxiety intoxication popover mercury neptune
 1
 3 6
 2
-0 62 6 16
 0 59 2 1
+0 62 6 16
 1
 end_operator
 begin_operator
@@ -49267,8 +49267,8 @@ overcome anxiety intoxication popover uranus mars
 1
 3 6
 2
-0 62 6 16
 0 59 0 3
+0 62 6 16
 1
 end_operator
 begin_operator
@@ -49276,8 +49276,8 @@ overcome anxiety intoxication potato mars mercury
 1
 3 7
 2
-0 62 7 16
 0 59 1 0
+0 62 7 16
 1
 end_operator
 begin_operator
@@ -49285,8 +49285,8 @@ overcome anxiety intoxication potato mercury neptune
 1
 3 7
 2
-0 62 7 16
 0 59 2 1
+0 62 7 16
 1
 end_operator
 begin_operator
@@ -49294,8 +49294,8 @@ overcome anxiety intoxication potato uranus mars
 1
 3 7
 2
-0 62 7 16
 0 59 0 3
+0 62 7 16
 1
 end_operator
 begin_operator
@@ -49303,8 +49303,8 @@ overcome anxiety intoxication shrimp mars mercury
 1
 3 8
 2
-0 62 8 16
 0 59 1 0
+0 62 8 16
 1
 end_operator
 begin_operator
@@ -49312,8 +49312,8 @@ overcome anxiety intoxication shrimp mercury neptune
 1
 3 8
 2
-0 62 8 16
 0 59 2 1
+0 62 8 16
 1
 end_operator
 begin_operator
@@ -49321,8 +49321,8 @@ overcome anxiety intoxication shrimp uranus mars
 1
 3 8
 2
-0 62 8 16
 0 59 0 3
+0 62 8 16
 1
 end_operator
 begin_operator
@@ -49330,8 +49330,8 @@ overcome anxiety intoxication sweetroll mars mercury
 1
 3 9
 2
-0 62 9 16
 0 59 1 0
+0 62 9 16
 1
 end_operator
 begin_operator
@@ -49339,8 +49339,8 @@ overcome anxiety intoxication sweetroll mercury neptune
 1
 3 9
 2
-0 62 9 16
 0 59 2 1
+0 62 9 16
 1
 end_operator
 begin_operator
@@ -49348,8 +49348,8 @@ overcome anxiety intoxication sweetroll uranus mars
 1
 3 9
 2
-0 62 9 16
 0 59 0 3
+0 62 9 16
 1
 end_operator
 begin_operator
@@ -49357,8 +49357,8 @@ overcome anxiety intoxication tofu mars mercury
 1
 3 10
 2
-0 62 10 16
 0 59 1 0
+0 62 10 16
 1
 end_operator
 begin_operator
@@ -49366,8 +49366,8 @@ overcome anxiety intoxication tofu mercury neptune
 1
 3 10
 2
-0 62 10 16
 0 59 2 1
+0 62 10 16
 1
 end_operator
 begin_operator
@@ -49375,8 +49375,8 @@ overcome anxiety intoxication tofu uranus mars
 1
 3 10
 2
-0 62 10 16
 0 59 0 3
+0 62 10 16
 1
 end_operator
 begin_operator
@@ -49384,8 +49384,8 @@ overcome anxiety intoxication turkey mars mercury
 1
 3 11
 2
-0 62 11 16
 0 59 1 0
+0 62 11 16
 1
 end_operator
 begin_operator
@@ -49393,8 +49393,8 @@ overcome anxiety intoxication turkey mercury neptune
 1
 3 11
 2
-0 62 11 16
 0 59 2 1
+0 62 11 16
 1
 end_operator
 begin_operator
@@ -49402,8 +49402,8 @@ overcome anxiety intoxication turkey uranus mars
 1
 3 11
 2
-0 62 11 16
 0 59 0 3
+0 62 11 16
 1
 end_operator
 begin_operator
@@ -49411,8 +49411,8 @@ overcome anxiety intoxication yogurt mars mercury
 1
 3 12
 2
-0 62 12 16
 0 59 1 0
+0 62 12 16
 1
 end_operator
 begin_operator
@@ -49420,8 +49420,8 @@ overcome anxiety intoxication yogurt mercury neptune
 1
 3 12
 2
-0 62 12 16
 0 59 2 1
+0 62 12 16
 1
 end_operator
 begin_operator
@@ -49429,8 +49429,8 @@ overcome anxiety intoxication yogurt uranus mars
 1
 3 12
 2
-0 62 12 16
 0 59 0 3
+0 62 12 16
 1
 end_operator
 begin_operator
@@ -49438,8 +49438,8 @@ overcome anxiety satisfaction apple mars mercury
 1
 4 0
 2
-0 62 0 17
 0 61 1 0
+0 62 0 17
 1
 end_operator
 begin_operator
@@ -49447,8 +49447,8 @@ overcome anxiety satisfaction apple mercury neptune
 1
 4 0
 2
-0 62 0 17
 0 61 2 1
+0 62 0 17
 1
 end_operator
 begin_operator
@@ -49456,8 +49456,8 @@ overcome anxiety satisfaction apple uranus mars
 1
 4 0
 2
-0 62 0 17
 0 61 0 3
+0 62 0 17
 1
 end_operator
 begin_operator
@@ -49465,8 +49465,8 @@ overcome anxiety satisfaction chicken mars mercury
 1
 4 1
 2
-0 62 1 17
 0 61 1 0
+0 62 1 17
 1
 end_operator
 begin_operator
@@ -49474,8 +49474,8 @@ overcome anxiety satisfaction chicken mercury neptune
 1
 4 1
 2
-0 62 1 17
 0 61 2 1
+0 62 1 17
 1
 end_operator
 begin_operator
@@ -49483,8 +49483,8 @@ overcome anxiety satisfaction chicken uranus mars
 1
 4 1
 2
-0 62 1 17
 0 61 0 3
+0 62 1 17
 1
 end_operator
 begin_operator
@@ -49492,8 +49492,8 @@ overcome anxiety satisfaction hamburger mars mercury
 1
 4 2
 2
-0 62 2 17
 0 61 1 0
+0 62 2 17
 1
 end_operator
 begin_operator
@@ -49501,8 +49501,8 @@ overcome anxiety satisfaction hamburger mercury neptune
 1
 4 2
 2
-0 62 2 17
 0 61 2 1
+0 62 2 17
 1
 end_operator
 begin_operator
@@ -49510,8 +49510,8 @@ overcome anxiety satisfaction hamburger uranus mars
 1
 4 2
 2
-0 62 2 17
 0 61 0 3
+0 62 2 17
 1
 end_operator
 begin_operator
@@ -49519,8 +49519,8 @@ overcome anxiety satisfaction haroset mars mercury
 1
 4 3
 2
-0 62 3 17
 0 61 1 0
+0 62 3 17
 1
 end_operator
 begin_operator
@@ -49528,8 +49528,8 @@ overcome anxiety satisfaction haroset mercury neptune
 1
 4 3
 2
-0 62 3 17
 0 61 2 1
+0 62 3 17
 1
 end_operator
 begin_operator
@@ -49537,8 +49537,8 @@ overcome anxiety satisfaction haroset uranus mars
 1
 4 3
 2
-0 62 3 17
 0 61 0 3
+0 62 3 17
 1
 end_operator
 begin_operator
@@ -49546,8 +49546,8 @@ overcome anxiety satisfaction muffin mars mercury
 1
 4 4
 2
-0 62 4 17
 0 61 1 0
+0 62 4 17
 1
 end_operator
 begin_operator
@@ -49555,8 +49555,8 @@ overcome anxiety satisfaction muffin mercury neptune
 1
 4 4
 2
-0 62 4 17
 0 61 2 1
+0 62 4 17
 1
 end_operator
 begin_operator
@@ -49564,8 +49564,8 @@ overcome anxiety satisfaction muffin uranus mars
 1
 4 4
 2
-0 62 4 17
 0 61 0 3
+0 62 4 17
 1
 end_operator
 begin_operator
@@ -49573,8 +49573,8 @@ overcome anxiety satisfaction onion mars mercury
 1
 4 5
 2
-0 62 5 17
 0 61 1 0
+0 62 5 17
 1
 end_operator
 begin_operator
@@ -49582,8 +49582,8 @@ overcome anxiety satisfaction onion mercury neptune
 1
 4 5
 2
-0 62 5 17
 0 61 2 1
+0 62 5 17
 1
 end_operator
 begin_operator
@@ -49591,8 +49591,8 @@ overcome anxiety satisfaction onion uranus mars
 1
 4 5
 2
-0 62 5 17
 0 61 0 3
+0 62 5 17
 1
 end_operator
 begin_operator
@@ -49600,8 +49600,8 @@ overcome anxiety satisfaction popover mars mercury
 1
 4 6
 2
-0 62 6 17
 0 61 1 0
+0 62 6 17
 1
 end_operator
 begin_operator
@@ -49609,8 +49609,8 @@ overcome anxiety satisfaction popover mercury neptune
 1
 4 6
 2
-0 62 6 17
 0 61 2 1
+0 62 6 17
 1
 end_operator
 begin_operator
@@ -49618,8 +49618,8 @@ overcome anxiety satisfaction popover uranus mars
 1
 4 6
 2
-0 62 6 17
 0 61 0 3
+0 62 6 17
 1
 end_operator
 begin_operator
@@ -49627,8 +49627,8 @@ overcome anxiety satisfaction potato mars mercury
 1
 4 7
 2
-0 62 7 17
 0 61 1 0
+0 62 7 17
 1
 end_operator
 begin_operator
@@ -49636,8 +49636,8 @@ overcome anxiety satisfaction potato mercury neptune
 1
 4 7
 2
-0 62 7 17
 0 61 2 1
+0 62 7 17
 1
 end_operator
 begin_operator
@@ -49645,8 +49645,8 @@ overcome anxiety satisfaction potato uranus mars
 1
 4 7
 2
-0 62 7 17
 0 61 0 3
+0 62 7 17
 1
 end_operator
 begin_operator
@@ -49654,8 +49654,8 @@ overcome anxiety satisfaction shrimp mars mercury
 1
 4 8
 2
-0 62 8 17
 0 61 1 0
+0 62 8 17
 1
 end_operator
 begin_operator
@@ -49663,8 +49663,8 @@ overcome anxiety satisfaction shrimp mercury neptune
 1
 4 8
 2
-0 62 8 17
 0 61 2 1
+0 62 8 17
 1
 end_operator
 begin_operator
@@ -49672,8 +49672,8 @@ overcome anxiety satisfaction shrimp uranus mars
 1
 4 8
 2
-0 62 8 17
 0 61 0 3
+0 62 8 17
 1
 end_operator
 begin_operator
@@ -49681,8 +49681,8 @@ overcome anxiety satisfaction sweetroll mars mercury
 1
 4 9
 2
-0 62 9 17
 0 61 1 0
+0 62 9 17
 1
 end_operator
 begin_operator
@@ -49690,8 +49690,8 @@ overcome anxiety satisfaction sweetroll mercury neptune
 1
 4 9
 2
-0 62 9 17
 0 61 2 1
+0 62 9 17
 1
 end_operator
 begin_operator
@@ -49699,8 +49699,8 @@ overcome anxiety satisfaction sweetroll uranus mars
 1
 4 9
 2
-0 62 9 17
 0 61 0 3
+0 62 9 17
 1
 end_operator
 begin_operator
@@ -49708,8 +49708,8 @@ overcome anxiety satisfaction tofu mars mercury
 1
 4 10
 2
-0 62 10 17
 0 61 1 0
+0 62 10 17
 1
 end_operator
 begin_operator
@@ -49717,8 +49717,8 @@ overcome anxiety satisfaction tofu mercury neptune
 1
 4 10
 2
-0 62 10 17
 0 61 2 1
+0 62 10 17
 1
 end_operator
 begin_operator
@@ -49726,8 +49726,8 @@ overcome anxiety satisfaction tofu uranus mars
 1
 4 10
 2
-0 62 10 17
 0 61 0 3
+0 62 10 17
 1
 end_operator
 begin_operator
@@ -49735,8 +49735,8 @@ overcome anxiety satisfaction turkey mars mercury
 1
 4 11
 2
-0 62 11 17
 0 61 1 0
+0 62 11 17
 1
 end_operator
 begin_operator
@@ -49744,8 +49744,8 @@ overcome anxiety satisfaction turkey mercury neptune
 1
 4 11
 2
-0 62 11 17
 0 61 2 1
+0 62 11 17
 1
 end_operator
 begin_operator
@@ -49753,8 +49753,8 @@ overcome anxiety satisfaction turkey uranus mars
 1
 4 11
 2
-0 62 11 17
 0 61 0 3
+0 62 11 17
 1
 end_operator
 begin_operator
@@ -49762,8 +49762,8 @@ overcome anxiety satisfaction yogurt mars mercury
 1
 4 12
 2
-0 62 12 17
 0 61 1 0
+0 62 12 17
 1
 end_operator
 begin_operator
@@ -49771,8 +49771,8 @@ overcome anxiety satisfaction yogurt mercury neptune
 1
 4 12
 2
-0 62 12 17
 0 61 2 1
+0 62 12 17
 1
 end_operator
 begin_operator
@@ -49780,8 +49780,8 @@ overcome anxiety satisfaction yogurt uranus mars
 1
 4 12
 2
-0 62 12 17
 0 61 0 3
+0 62 12 17
 1
 end_operator
 begin_operator
@@ -97174,8 +97174,8 @@ overcome sciatica achievement apple mars mercury
 1
 0 0
 2
-0 56 0 13
 0 54 1 0
+0 56 0 13
 1
 end_operator
 begin_operator
@@ -97183,8 +97183,8 @@ overcome sciatica achievement apple mercury neptune
 1
 0 0
 2
-0 56 0 13
 0 54 2 1
+0 56 0 13
 1
 end_operator
 begin_operator
@@ -97192,8 +97192,8 @@ overcome sciatica achievement apple uranus mars
 1
 0 0
 2
-0 56 0 13
 0 54 0 3
+0 56 0 13
 1
 end_operator
 begin_operator
@@ -97201,8 +97201,8 @@ overcome sciatica achievement chicken mars mercury
 1
 0 1
 2
-0 56 1 13
 0 54 1 0
+0 56 1 13
 1
 end_operator
 begin_operator
@@ -97210,8 +97210,8 @@ overcome sciatica achievement chicken mercury neptune
 1
 0 1
 2
-0 56 1 13
 0 54 2 1
+0 56 1 13
 1
 end_operator
 begin_operator
@@ -97219,8 +97219,8 @@ overcome sciatica achievement chicken uranus mars
 1
 0 1
 2
-0 56 1 13
 0 54 0 3
+0 56 1 13
 1
 end_operator
 begin_operator
@@ -97228,8 +97228,8 @@ overcome sciatica achievement hamburger mars mercury
 1
 0 2
 2
-0 56 2 13
 0 54 1 0
+0 56 2 13
 1
 end_operator
 begin_operator
@@ -97237,8 +97237,8 @@ overcome sciatica achievement hamburger mercury neptune
 1
 0 2
 2
-0 56 2 13
 0 54 2 1
+0 56 2 13
 1
 end_operator
 begin_operator
@@ -97246,8 +97246,8 @@ overcome sciatica achievement hamburger uranus mars
 1
 0 2
 2
-0 56 2 13
 0 54 0 3
+0 56 2 13
 1
 end_operator
 begin_operator
@@ -97255,8 +97255,8 @@ overcome sciatica achievement haroset mars mercury
 1
 0 3
 2
-0 56 3 13
 0 54 1 0
+0 56 3 13
 1
 end_operator
 begin_operator
@@ -97264,8 +97264,8 @@ overcome sciatica achievement haroset mercury neptune
 1
 0 3
 2
-0 56 3 13
 0 54 2 1
+0 56 3 13
 1
 end_operator
 begin_operator
@@ -97273,8 +97273,8 @@ overcome sciatica achievement haroset uranus mars
 1
 0 3
 2
-0 56 3 13
 0 54 0 3
+0 56 3 13
 1
 end_operator
 begin_operator
@@ -97282,8 +97282,8 @@ overcome sciatica achievement muffin mars mercury
 1
 0 4
 2
-0 56 4 13
 0 54 1 0
+0 56 4 13
 1
 end_operator
 begin_operator
@@ -97291,8 +97291,8 @@ overcome sciatica achievement muffin mercury neptune
 1
 0 4
 2
-0 56 4 13
 0 54 2 1
+0 56 4 13
 1
 end_operator
 begin_operator
@@ -97300,8 +97300,8 @@ overcome sciatica achievement muffin uranus mars
 1
 0 4
 2
-0 56 4 13
 0 54 0 3
+0 56 4 13
 1
 end_operator
 begin_operator
@@ -97309,8 +97309,8 @@ overcome sciatica achievement onion mars mercury
 1
 0 5
 2
-0 56 5 13
 0 54 1 0
+0 56 5 13
 1
 end_operator
 begin_operator
@@ -97318,8 +97318,8 @@ overcome sciatica achievement onion mercury neptune
 1
 0 5
 2
-0 56 5 13
 0 54 2 1
+0 56 5 13
 1
 end_operator
 begin_operator
@@ -97327,8 +97327,8 @@ overcome sciatica achievement onion uranus mars
 1
 0 5
 2
-0 56 5 13
 0 54 0 3
+0 56 5 13
 1
 end_operator
 begin_operator
@@ -97336,8 +97336,8 @@ overcome sciatica achievement popover mars mercury
 1
 0 6
 2
-0 56 6 13
 0 54 1 0
+0 56 6 13
 1
 end_operator
 begin_operator
@@ -97345,8 +97345,8 @@ overcome sciatica achievement popover mercury neptune
 1
 0 6
 2
-0 56 6 13
 0 54 2 1
+0 56 6 13
 1
 end_operator
 begin_operator
@@ -97354,8 +97354,8 @@ overcome sciatica achievement popover uranus mars
 1
 0 6
 2
-0 56 6 13
 0 54 0 3
+0 56 6 13
 1
 end_operator
 begin_operator
@@ -97363,8 +97363,8 @@ overcome sciatica achievement potato mars mercury
 1
 0 7
 2
-0 56 7 13
 0 54 1 0
+0 56 7 13
 1
 end_operator
 begin_operator
@@ -97372,8 +97372,8 @@ overcome sciatica achievement potato mercury neptune
 1
 0 7
 2
-0 56 7 13
 0 54 2 1
+0 56 7 13
 1
 end_operator
 begin_operator
@@ -97381,8 +97381,8 @@ overcome sciatica achievement potato uranus mars
 1
 0 7
 2
-0 56 7 13
 0 54 0 3
+0 56 7 13
 1
 end_operator
 begin_operator
@@ -97390,8 +97390,8 @@ overcome sciatica achievement shrimp mars mercury
 1
 0 8
 2
-0 56 8 13
 0 54 1 0
+0 56 8 13
 1
 end_operator
 begin_operator
@@ -97399,8 +97399,8 @@ overcome sciatica achievement shrimp mercury neptune
 1
 0 8
 2
-0 56 8 13
 0 54 2 1
+0 56 8 13
 1
 end_operator
 begin_operator
@@ -97408,8 +97408,8 @@ overcome sciatica achievement shrimp uranus mars
 1
 0 8
 2
-0 56 8 13
 0 54 0 3
+0 56 8 13
 1
 end_operator
 begin_operator
@@ -97417,8 +97417,8 @@ overcome sciatica achievement sweetroll mars mercury
 1
 0 9
 2
-0 56 9 13
 0 54 1 0
+0 56 9 13
 1
 end_operator
 begin_operator
@@ -97426,8 +97426,8 @@ overcome sciatica achievement sweetroll mercury neptune
 1
 0 9
 2
-0 56 9 13
 0 54 2 1
+0 56 9 13
 1
 end_operator
 begin_operator
@@ -97435,8 +97435,8 @@ overcome sciatica achievement sweetroll uranus mars
 1
 0 9
 2
-0 56 9 13
 0 54 0 3
+0 56 9 13
 1
 end_operator
 begin_operator
@@ -97444,8 +97444,8 @@ overcome sciatica achievement tofu mars mercury
 1
 0 10
 2
-0 56 10 13
 0 54 1 0
+0 56 10 13
 1
 end_operator
 begin_operator
@@ -97453,8 +97453,8 @@ overcome sciatica achievement tofu mercury neptune
 1
 0 10
 2
-0 56 10 13
 0 54 2 1
+0 56 10 13
 1
 end_operator
 begin_operator
@@ -97462,8 +97462,8 @@ overcome sciatica achievement tofu uranus mars
 1
 0 10
 2
-0 56 10 13
 0 54 0 3
+0 56 10 13
 1
 end_operator
 begin_operator
@@ -97471,8 +97471,8 @@ overcome sciatica achievement turkey mars mercury
 1
 0 11
 2
-0 56 11 13
 0 54 1 0
+0 56 11 13
 1
 end_operator
 begin_operator
@@ -97480,8 +97480,8 @@ overcome sciatica achievement turkey mercury neptune
 1
 0 11
 2
-0 56 11 13
 0 54 2 1
+0 56 11 13
 1
 end_operator
 begin_operator
@@ -97489,8 +97489,8 @@ overcome sciatica achievement turkey uranus mars
 1
 0 11
 2
-0 56 11 13
 0 54 0 3
+0 56 11 13
 1
 end_operator
 begin_operator
@@ -97498,8 +97498,8 @@ overcome sciatica achievement yogurt mars mercury
 1
 0 12
 2
-0 56 12 13
 0 54 1 0
+0 56 12 13
 1
 end_operator
 begin_operator
@@ -97507,8 +97507,8 @@ overcome sciatica achievement yogurt mercury neptune
 1
 0 12
 2
-0 56 12 13
 0 54 2 1
+0 56 12 13
 1
 end_operator
 begin_operator
@@ -97516,8 +97516,8 @@ overcome sciatica achievement yogurt uranus mars
 1
 0 12
 2
-0 56 12 13
 0 54 0 3
+0 56 12 13
 1
 end_operator
 begin_operator
@@ -97525,8 +97525,8 @@ overcome sciatica aesthetics apple mars mercury
 1
 1 0
 2
-0 56 0 14
 0 55 1 0
+0 56 0 14
 1
 end_operator
 begin_operator
@@ -97534,8 +97534,8 @@ overcome sciatica aesthetics apple mercury neptune
 1
 1 0
 2
-0 56 0 14
 0 55 2 1
+0 56 0 14
 1
 end_operator
 begin_operator
@@ -97543,8 +97543,8 @@ overcome sciatica aesthetics apple uranus mars
 1
 1 0
 2
-0 56 0 14
 0 55 0 3
+0 56 0 14
 1
 end_operator
 begin_operator
@@ -97552,8 +97552,8 @@ overcome sciatica aesthetics chicken mars mercury
 1
 1 1
 2
-0 56 1 14
 0 55 1 0
+0 56 1 14
 1
 end_operator
 begin_operator
@@ -97561,8 +97561,8 @@ overcome sciatica aesthetics chicken mercury neptune
 1
 1 1
 2
-0 56 1 14
 0 55 2 1
+0 56 1 14
 1
 end_operator
 begin_operator
@@ -97570,8 +97570,8 @@ overcome sciatica aesthetics chicken uranus mars
 1
 1 1
 2
-0 56 1 14
 0 55 0 3
+0 56 1 14
 1
 end_operator
 begin_operator
@@ -97579,8 +97579,8 @@ overcome sciatica aesthetics hamburger mars mercury
 1
 1 2
 2
-0 56 2 14
 0 55 1 0
+0 56 2 14
 1
 end_operator
 begin_operator
@@ -97588,8 +97588,8 @@ overcome sciatica aesthetics hamburger mercury neptune
 1
 1 2
 2
-0 56 2 14
 0 55 2 1
+0 56 2 14
 1
 end_operator
 begin_operator
@@ -97597,8 +97597,8 @@ overcome sciatica aesthetics hamburger uranus mars
 1
 1 2
 2
-0 56 2 14
 0 55 0 3
+0 56 2 14
 1
 end_operator
 begin_operator
@@ -97606,8 +97606,8 @@ overcome sciatica aesthetics haroset mars mercury
 1
 1 3
 2
-0 56 3 14
 0 55 1 0
+0 56 3 14
 1
 end_operator
 begin_operator
@@ -97615,8 +97615,8 @@ overcome sciatica aesthetics haroset mercury neptune
 1
 1 3
 2
-0 56 3 14
 0 55 2 1
+0 56 3 14
 1
 end_operator
 begin_operator
@@ -97624,8 +97624,8 @@ overcome sciatica aesthetics haroset uranus mars
 1
 1 3
 2
-0 56 3 14
 0 55 0 3
+0 56 3 14
 1
 end_operator
 begin_operator
@@ -97633,8 +97633,8 @@ overcome sciatica aesthetics muffin mars mercury
 1
 1 4
 2
-0 56 4 14
 0 55 1 0
+0 56 4 14
 1
 end_operator
 begin_operator
@@ -97642,8 +97642,8 @@ overcome sciatica aesthetics muffin mercury neptune
 1
 1 4
 2
-0 56 4 14
 0 55 2 1
+0 56 4 14
 1
 end_operator
 begin_operator
@@ -97651,8 +97651,8 @@ overcome sciatica aesthetics muffin uranus mars
 1
 1 4
 2
-0 56 4 14
 0 55 0 3
+0 56 4 14
 1
 end_operator
 begin_operator
@@ -97660,8 +97660,8 @@ overcome sciatica aesthetics onion mars mercury
 1
 1 5
 2
-0 56 5 14
 0 55 1 0
+0 56 5 14
 1
 end_operator
 begin_operator
@@ -97669,8 +97669,8 @@ overcome sciatica aesthetics onion mercury neptune
 1
 1 5
 2
-0 56 5 14
 0 55 2 1
+0 56 5 14
 1
 end_operator
 begin_operator
@@ -97678,8 +97678,8 @@ overcome sciatica aesthetics onion uranus mars
 1
 1 5
 2
-0 56 5 14
 0 55 0 3
+0 56 5 14
 1
 end_operator
 begin_operator
@@ -97687,8 +97687,8 @@ overcome sciatica aesthetics popover mars mercury
 1
 1 6
 2
-0 56 6 14
 0 55 1 0
+0 56 6 14
 1
 end_operator
 begin_operator
@@ -97696,8 +97696,8 @@ overcome sciatica aesthetics popover mercury neptune
 1
 1 6
 2
-0 56 6 14
 0 55 2 1
+0 56 6 14
 1
 end_operator
 begin_operator
@@ -97705,8 +97705,8 @@ overcome sciatica aesthetics popover uranus mars
 1
 1 6
 2
-0 56 6 14
 0 55 0 3
+0 56 6 14
 1
 end_operator
 begin_operator
@@ -97714,8 +97714,8 @@ overcome sciatica aesthetics potato mars mercury
 1
 1 7
 2
-0 56 7 14
 0 55 1 0
+0 56 7 14
 1
 end_operator
 begin_operator
@@ -97723,8 +97723,8 @@ overcome sciatica aesthetics potato mercury neptune
 1
 1 7
 2
-0 56 7 14
 0 55 2 1
+0 56 7 14
 1
 end_operator
 begin_operator
@@ -97732,8 +97732,8 @@ overcome sciatica aesthetics potato uranus mars
 1
 1 7
 2
-0 56 7 14
 0 55 0 3
+0 56 7 14
 1
 end_operator
 begin_operator
@@ -97741,8 +97741,8 @@ overcome sciatica aesthetics shrimp mars mercury
 1
 1 8
 2
-0 56 8 14
 0 55 1 0
+0 56 8 14
 1
 end_operator
 begin_operator
@@ -97750,8 +97750,8 @@ overcome sciatica aesthetics shrimp mercury neptune
 1
 1 8
 2
-0 56 8 14
 0 55 2 1
+0 56 8 14
 1
 end_operator
 begin_operator
@@ -97759,8 +97759,8 @@ overcome sciatica aesthetics shrimp uranus mars
 1
 1 8
 2
-0 56 8 14
 0 55 0 3
+0 56 8 14
 1
 end_operator
 begin_operator
@@ -97768,8 +97768,8 @@ overcome sciatica aesthetics sweetroll mars mercury
 1
 1 9
 2
-0 56 9 14
 0 55 1 0
+0 56 9 14
 1
 end_operator
 begin_operator
@@ -97777,8 +97777,8 @@ overcome sciatica aesthetics sweetroll mercury neptune
 1
 1 9
 2
-0 56 9 14
 0 55 2 1
+0 56 9 14
 1
 end_operator
 begin_operator
@@ -97786,8 +97786,8 @@ overcome sciatica aesthetics sweetroll uranus mars
 1
 1 9
 2
-0 56 9 14
 0 55 0 3
+0 56 9 14
 1
 end_operator
 begin_operator
@@ -97795,8 +97795,8 @@ overcome sciatica aesthetics tofu mars mercury
 1
 1 10
 2
-0 56 10 14
 0 55 1 0
+0 56 10 14
 1
 end_operator
 begin_operator
@@ -97804,8 +97804,8 @@ overcome sciatica aesthetics tofu mercury neptune
 1
 1 10
 2
-0 56 10 14
 0 55 2 1
+0 56 10 14
 1
 end_operator
 begin_operator
@@ -97813,8 +97813,8 @@ overcome sciatica aesthetics tofu uranus mars
 1
 1 10
 2
-0 56 10 14
 0 55 0 3
+0 56 10 14
 1
 end_operator
 begin_operator
@@ -97822,8 +97822,8 @@ overcome sciatica aesthetics turkey mars mercury
 1
 1 11
 2
-0 56 11 14
 0 55 1 0
+0 56 11 14
 1
 end_operator
 begin_operator
@@ -97831,8 +97831,8 @@ overcome sciatica aesthetics turkey mercury neptune
 1
 1 11
 2
-0 56 11 14
 0 55 2 1
+0 56 11 14
 1
 end_operator
 begin_operator
@@ -97840,8 +97840,8 @@ overcome sciatica aesthetics turkey uranus mars
 1
 1 11
 2
-0 56 11 14
 0 55 0 3
+0 56 11 14
 1
 end_operator
 begin_operator
@@ -97849,8 +97849,8 @@ overcome sciatica aesthetics yogurt mars mercury
 1
 1 12
 2
-0 56 12 14
 0 55 1 0
+0 56 12 14
 1
 end_operator
 begin_operator
@@ -97858,8 +97858,8 @@ overcome sciatica aesthetics yogurt mercury neptune
 1
 1 12
 2
-0 56 12 14
 0 55 2 1
+0 56 12 14
 1
 end_operator
 begin_operator
@@ -97867,8 +97867,8 @@ overcome sciatica aesthetics yogurt uranus mars
 1
 1 12
 2
-0 56 12 14
 0 55 0 3
+0 56 12 14
 1
 end_operator
 begin_operator
@@ -98929,8 +98929,8 @@ overcome sciatica-13 achievement apple mars mercury
 1
 0 0
 2
-0 57 0 13
 0 54 1 0
+0 57 0 13
 1
 end_operator
 begin_operator
@@ -98938,8 +98938,8 @@ overcome sciatica-13 achievement apple mercury neptune
 1
 0 0
 2
-0 57 0 13
 0 54 2 1
+0 57 0 13
 1
 end_operator
 begin_operator
@@ -98947,8 +98947,8 @@ overcome sciatica-13 achievement apple uranus mars
 1
 0 0
 2
-0 57 0 13
 0 54 0 3
+0 57 0 13
 1
 end_operator
 begin_operator
@@ -98956,8 +98956,8 @@ overcome sciatica-13 achievement chicken mars mercury
 1
 0 1
 2
-0 57 1 13
 0 54 1 0
+0 57 1 13
 1
 end_operator
 begin_operator
@@ -98965,8 +98965,8 @@ overcome sciatica-13 achievement chicken mercury neptune
 1
 0 1
 2
-0 57 1 13
 0 54 2 1
+0 57 1 13
 1
 end_operator
 begin_operator
@@ -98974,8 +98974,8 @@ overcome sciatica-13 achievement chicken uranus mars
 1
 0 1
 2
-0 57 1 13
 0 54 0 3
+0 57 1 13
 1
 end_operator
 begin_operator
@@ -98983,8 +98983,8 @@ overcome sciatica-13 achievement hamburger mars mercury
 1
 0 2
 2
-0 57 2 13
 0 54 1 0
+0 57 2 13
 1
 end_operator
 begin_operator
@@ -98992,8 +98992,8 @@ overcome sciatica-13 achievement hamburger mercury neptune
 1
 0 2
 2
-0 57 2 13
 0 54 2 1
+0 57 2 13
 1
 end_operator
 begin_operator
@@ -99001,8 +99001,8 @@ overcome sciatica-13 achievement hamburger uranus mars
 1
 0 2
 2
-0 57 2 13
 0 54 0 3
+0 57 2 13
 1
 end_operator
 begin_operator
@@ -99010,8 +99010,8 @@ overcome sciatica-13 achievement haroset mars mercury
 1
 0 3
 2
-0 57 3 13
 0 54 1 0
+0 57 3 13
 1
 end_operator
 begin_operator
@@ -99019,8 +99019,8 @@ overcome sciatica-13 achievement haroset mercury neptune
 1
 0 3
 2
-0 57 3 13
 0 54 2 1
+0 57 3 13
 1
 end_operator
 begin_operator
@@ -99028,8 +99028,8 @@ overcome sciatica-13 achievement haroset uranus mars
 1
 0 3
 2
-0 57 3 13
 0 54 0 3
+0 57 3 13
 1
 end_operator
 begin_operator
@@ -99037,8 +99037,8 @@ overcome sciatica-13 achievement muffin mars mercury
 1
 0 4
 2
-0 57 4 13
 0 54 1 0
+0 57 4 13
 1
 end_operator
 begin_operator
@@ -99046,8 +99046,8 @@ overcome sciatica-13 achievement muffin mercury neptune
 1
 0 4
 2
-0 57 4 13
 0 54 2 1
+0 57 4 13
 1
 end_operator
 begin_operator
@@ -99055,8 +99055,8 @@ overcome sciatica-13 achievement muffin uranus mars
 1
 0 4
 2
-0 57 4 13
 0 54 0 3
+0 57 4 13
 1
 end_operator
 begin_operator
@@ -99064,8 +99064,8 @@ overcome sciatica-13 achievement onion mars mercury
 1
 0 5
 2
-0 57 5 13
 0 54 1 0
+0 57 5 13
 1
 end_operator
 begin_operator
@@ -99073,8 +99073,8 @@ overcome sciatica-13 achievement onion mercury neptune
 1
 0 5
 2
-0 57 5 13
 0 54 2 1
+0 57 5 13
 1
 end_operator
 begin_operator
@@ -99082,8 +99082,8 @@ overcome sciatica-13 achievement onion uranus mars
 1
 0 5
 2
-0 57 5 13
 0 54 0 3
+0 57 5 13
 1
 end_operator
 begin_operator
@@ -99091,8 +99091,8 @@ overcome sciatica-13 achievement popover mars mercury
 1
 0 6
 2
-0 57 6 13
 0 54 1 0
+0 57 6 13
 1
 end_operator
 begin_operator
@@ -99100,8 +99100,8 @@ overcome sciatica-13 achievement popover mercury neptune
 1
 0 6
 2
-0 57 6 13
 0 54 2 1
+0 57 6 13
 1
 end_operator
 begin_operator
@@ -99109,8 +99109,8 @@ overcome sciatica-13 achievement popover uranus mars
 1
 0 6
 2
-0 57 6 13
 0 54 0 3
+0 57 6 13
 1
 end_operator
 begin_operator
@@ -99118,8 +99118,8 @@ overcome sciatica-13 achievement potato mars mercury
 1
 0 7
 2
-0 57 7 13
 0 54 1 0
+0 57 7 13
 1
 end_operator
 begin_operator
@@ -99127,8 +99127,8 @@ overcome sciatica-13 achievement potato mercury neptune
 1
 0 7
 2
-0 57 7 13
 0 54 2 1
+0 57 7 13
 1
 end_operator
 begin_operator
@@ -99136,8 +99136,8 @@ overcome sciatica-13 achievement potato uranus mars
 1
 0 7
 2
-0 57 7 13
 0 54 0 3
+0 57 7 13
 1
 end_operator
 begin_operator
@@ -99145,8 +99145,8 @@ overcome sciatica-13 achievement shrimp mars mercury
 1
 0 8
 2
-0 57 8 13
 0 54 1 0
+0 57 8 13
 1
 end_operator
 begin_operator
@@ -99154,8 +99154,8 @@ overcome sciatica-13 achievement shrimp mercury neptune
 1
 0 8
 2
-0 57 8 13
 0 54 2 1
+0 57 8 13
 1
 end_operator
 begin_operator
@@ -99163,8 +99163,8 @@ overcome sciatica-13 achievement shrimp uranus mars
 1
 0 8
 2
-0 57 8 13
 0 54 0 3
+0 57 8 13
 1
 end_operator
 begin_operator
@@ -99172,8 +99172,8 @@ overcome sciatica-13 achievement sweetroll mars mercury
 1
 0 9
 2
-0 57 9 13
 0 54 1 0
+0 57 9 13
 1
 end_operator
 begin_operator
@@ -99181,8 +99181,8 @@ overcome sciatica-13 achievement sweetroll mercury neptune
 1
 0 9
 2
-0 57 9 13
 0 54 2 1
+0 57 9 13
 1
 end_operator
 begin_operator
@@ -99190,8 +99190,8 @@ overcome sciatica-13 achievement sweetroll uranus mars
 1
 0 9
 2
-0 57 9 13
 0 54 0 3
+0 57 9 13
 1
 end_operator
 begin_operator
@@ -99199,8 +99199,8 @@ overcome sciatica-13 achievement tofu mars mercury
 1
 0 10
 2
-0 57 10 13
 0 54 1 0
+0 57 10 13
 1
 end_operator
 begin_operator
@@ -99208,8 +99208,8 @@ overcome sciatica-13 achievement tofu mercury neptune
 1
 0 10
 2
-0 57 10 13
 0 54 2 1
+0 57 10 13
 1
 end_operator
 begin_operator
@@ -99217,8 +99217,8 @@ overcome sciatica-13 achievement tofu uranus mars
 1
 0 10
 2
-0 57 10 13
 0 54 0 3
+0 57 10 13
 1
 end_operator
 begin_operator
@@ -99226,8 +99226,8 @@ overcome sciatica-13 achievement turkey mars mercury
 1
 0 11
 2
-0 57 11 13
 0 54 1 0
+0 57 11 13
 1
 end_operator
 begin_operator
@@ -99235,8 +99235,8 @@ overcome sciatica-13 achievement turkey mercury neptune
 1
 0 11
 2
-0 57 11 13
 0 54 2 1
+0 57 11 13
 1
 end_operator
 begin_operator
@@ -99244,8 +99244,8 @@ overcome sciatica-13 achievement turkey uranus mars
 1
 0 11
 2
-0 57 11 13
 0 54 0 3
+0 57 11 13
 1
 end_operator
 begin_operator
@@ -99253,8 +99253,8 @@ overcome sciatica-13 achievement yogurt mars mercury
 1
 0 12
 2
-0 57 12 13
 0 54 1 0
+0 57 12 13
 1
 end_operator
 begin_operator
@@ -99262,8 +99262,8 @@ overcome sciatica-13 achievement yogurt mercury neptune
 1
 0 12
 2
-0 57 12 13
 0 54 2 1
+0 57 12 13
 1
 end_operator
 begin_operator
@@ -99271,8 +99271,8 @@ overcome sciatica-13 achievement yogurt uranus mars
 1
 0 12
 2
-0 57 12 13
 0 54 0 3
+0 57 12 13
 1
 end_operator
 begin_operator
@@ -99280,8 +99280,8 @@ overcome sciatica-13 aesthetics apple mars mercury
 1
 1 0
 2
-0 57 0 14
 0 55 1 0
+0 57 0 14
 1
 end_operator
 begin_operator
@@ -99289,8 +99289,8 @@ overcome sciatica-13 aesthetics apple mercury neptune
 1
 1 0
 2
-0 57 0 14
 0 55 2 1
+0 57 0 14
 1
 end_operator
 begin_operator
@@ -99298,8 +99298,8 @@ overcome sciatica-13 aesthetics apple uranus mars
 1
 1 0
 2
-0 57 0 14
 0 55 0 3
+0 57 0 14
 1
 end_operator
 begin_operator
@@ -99307,8 +99307,8 @@ overcome sciatica-13 aesthetics chicken mars mercury
 1
 1 1
 2
-0 57 1 14
 0 55 1 0
+0 57 1 14
 1
 end_operator
 begin_operator
@@ -99316,8 +99316,8 @@ overcome sciatica-13 aesthetics chicken mercury neptune
 1
 1 1
 2
-0 57 1 14
 0 55 2 1
+0 57 1 14
 1
 end_operator
 begin_operator
@@ -99325,8 +99325,8 @@ overcome sciatica-13 aesthetics chicken uranus mars
 1
 1 1
 2
-0 57 1 14
 0 55 0 3
+0 57 1 14
 1
 end_operator
 begin_operator
@@ -99334,8 +99334,8 @@ overcome sciatica-13 aesthetics hamburger mars mercury
 1
 1 2
 2
-0 57 2 14
 0 55 1 0
+0 57 2 14
 1
 end_operator
 begin_operator
@@ -99343,8 +99343,8 @@ overcome sciatica-13 aesthetics hamburger mercury neptune
 1
 1 2
 2
-0 57 2 14
 0 55 2 1
+0 57 2 14
 1
 end_operator
 begin_operator
@@ -99352,8 +99352,8 @@ overcome sciatica-13 aesthetics hamburger uranus mars
 1
 1 2
 2
-0 57 2 14
 0 55 0 3
+0 57 2 14
 1
 end_operator
 begin_operator
@@ -99361,8 +99361,8 @@ overcome sciatica-13 aesthetics haroset mars mercury
 1
 1 3
 2
-0 57 3 14
 0 55 1 0
+0 57 3 14
 1
 end_operator
 begin_operator
@@ -99370,8 +99370,8 @@ overcome sciatica-13 aesthetics haroset mercury neptune
 1
 1 3
 2
-0 57 3 14
 0 55 2 1
+0 57 3 14
 1
 end_operator
 begin_operator
@@ -99379,8 +99379,8 @@ overcome sciatica-13 aesthetics haroset uranus mars
 1
 1 3
 2
-0 57 3 14
 0 55 0 3
+0 57 3 14
 1
 end_operator
 begin_operator
@@ -99388,8 +99388,8 @@ overcome sciatica-13 aesthetics muffin mars mercury
 1
 1 4
 2
-0 57 4 14
 0 55 1 0
+0 57 4 14
 1
 end_operator
 begin_operator
@@ -99397,8 +99397,8 @@ overcome sciatica-13 aesthetics muffin mercury neptune
 1
 1 4
 2
-0 57 4 14
 0 55 2 1
+0 57 4 14
 1
 end_operator
 begin_operator
@@ -99406,8 +99406,8 @@ overcome sciatica-13 aesthetics muffin uranus mars
 1
 1 4
 2
-0 57 4 14
 0 55 0 3
+0 57 4 14
 1
 end_operator
 begin_operator
@@ -99415,8 +99415,8 @@ overcome sciatica-13 aesthetics onion mars mercury
 1
 1 5
 2
-0 57 5 14
 0 55 1 0
+0 57 5 14
 1
 end_operator
 begin_operator
@@ -99424,8 +99424,8 @@ overcome sciatica-13 aesthetics onion mercury neptune
 1
 1 5
 2
-0 57 5 14
 0 55 2 1
+0 57 5 14
 1
 end_operator
 begin_operator
@@ -99433,8 +99433,8 @@ overcome sciatica-13 aesthetics onion uranus mars
 1
 1 5
 2
-0 57 5 14
 0 55 0 3
+0 57 5 14
 1
 end_operator
 begin_operator
@@ -99442,8 +99442,8 @@ overcome sciatica-13 aesthetics popover mars mercury
 1
 1 6
 2
-0 57 6 14
 0 55 1 0
+0 57 6 14
 1
 end_operator
 begin_operator
@@ -99451,8 +99451,8 @@ overcome sciatica-13 aesthetics popover mercury neptune
 1
 1 6
 2
-0 57 6 14
 0 55 2 1
+0 57 6 14
 1
 end_operator
 begin_operator
@@ -99460,8 +99460,8 @@ overcome sciatica-13 aesthetics popover uranus mars
 1
 1 6
 2
-0 57 6 14
 0 55 0 3
+0 57 6 14
 1
 end_operator
 begin_operator
@@ -99469,8 +99469,8 @@ overcome sciatica-13 aesthetics potato mars mercury
 1
 1 7
 2
-0 57 7 14
 0 55 1 0
+0 57 7 14
 1
 end_operator
 begin_operator
@@ -99478,8 +99478,8 @@ overcome sciatica-13 aesthetics potato mercury neptune
 1
 1 7
 2
-0 57 7 14
 0 55 2 1
+0 57 7 14
 1
 end_operator
 begin_operator
@@ -99487,8 +99487,8 @@ overcome sciatica-13 aesthetics potato uranus mars
 1
 1 7
 2
-0 57 7 14
 0 55 0 3
+0 57 7 14
 1
 end_operator
 begin_operator
@@ -99496,8 +99496,8 @@ overcome sciatica-13 aesthetics shrimp mars mercury
 1
 1 8
 2
-0 57 8 14
 0 55 1 0
+0 57 8 14
 1
 end_operator
 begin_operator
@@ -99505,8 +99505,8 @@ overcome sciatica-13 aesthetics shrimp mercury neptune
 1
 1 8
 2
-0 57 8 14
 0 55 2 1
+0 57 8 14
 1
 end_operator
 begin_operator
@@ -99514,8 +99514,8 @@ overcome sciatica-13 aesthetics shrimp uranus mars
 1
 1 8
 2
-0 57 8 14
 0 55 0 3
+0 57 8 14
 1
 end_operator
 begin_operator
@@ -99523,8 +99523,8 @@ overcome sciatica-13 aesthetics sweetroll mars mercury
 1
 1 9
 2
-0 57 9 14
 0 55 1 0
+0 57 9 14
 1
 end_operator
 begin_operator
@@ -99532,8 +99532,8 @@ overcome sciatica-13 aesthetics sweetroll mercury neptune
 1
 1 9
 2
-0 57 9 14
 0 55 2 1
+0 57 9 14
 1
 end_operator
 begin_operator
@@ -99541,8 +99541,8 @@ overcome sciatica-13 aesthetics sweetroll uranus mars
 1
 1 9
 2
-0 57 9 14
 0 55 0 3
+0 57 9 14
 1
 end_operator
 begin_operator
@@ -99550,8 +99550,8 @@ overcome sciatica-13 aesthetics tofu mars mercury
 1
 1 10
 2
-0 57 10 14
 0 55 1 0
+0 57 10 14
 1
 end_operator
 begin_operator
@@ -99559,8 +99559,8 @@ overcome sciatica-13 aesthetics tofu mercury neptune
 1
 1 10
 2
-0 57 10 14
 0 55 2 1
+0 57 10 14
 1
 end_operator
 begin_operator
@@ -99568,8 +99568,8 @@ overcome sciatica-13 aesthetics tofu uranus mars
 1
 1 10
 2
-0 57 10 14
 0 55 0 3
+0 57 10 14
 1
 end_operator
 begin_operator
@@ -99577,8 +99577,8 @@ overcome sciatica-13 aesthetics turkey mars mercury
 1
 1 11
 2
-0 57 11 14
 0 55 1 0
+0 57 11 14
 1
 end_operator
 begin_operator
@@ -99586,8 +99586,8 @@ overcome sciatica-13 aesthetics turkey mercury neptune
 1
 1 11
 2
-0 57 11 14
 0 55 2 1
+0 57 11 14
 1
 end_operator
 begin_operator
@@ -99595,8 +99595,8 @@ overcome sciatica-13 aesthetics turkey uranus mars
 1
 1 11
 2
-0 57 11 14
 0 55 0 3
+0 57 11 14
 1
 end_operator
 begin_operator
@@ -99604,8 +99604,8 @@ overcome sciatica-13 aesthetics yogurt mars mercury
 1
 1 12
 2
-0 57 12 14
 0 55 1 0
+0 57 12 14
 1
 end_operator
 begin_operator
@@ -99613,8 +99613,8 @@ overcome sciatica-13 aesthetics yogurt mercury neptune
 1
 1 12
 2
-0 57 12 14
 0 55 2 1
+0 57 12 14
 1
 end_operator
 begin_operator
@@ -99622,8 +99622,8 @@ overcome sciatica-13 aesthetics yogurt uranus mars
 1
 1 12
 2
-0 57 12 14
 0 55 0 3
+0 57 12 14
 1
 end_operator
 begin_operator
@@ -100684,8 +100684,8 @@ overcome sciatica-9 achievement apple mars mercury
 1
 0 0
 2
-0 60 0 13
 0 54 1 0
+0 60 0 13
 1
 end_operator
 begin_operator
@@ -100693,8 +100693,8 @@ overcome sciatica-9 achievement apple mercury neptune
 1
 0 0
 2
-0 60 0 13
 0 54 2 1
+0 60 0 13
 1
 end_operator
 begin_operator
@@ -100702,8 +100702,8 @@ overcome sciatica-9 achievement apple uranus mars
 1
 0 0
 2
-0 60 0 13
 0 54 0 3
+0 60 0 13
 1
 end_operator
 begin_operator
@@ -100711,8 +100711,8 @@ overcome sciatica-9 achievement chicken mars mercury
 1
 0 1
 2
-0 60 1 13
 0 54 1 0
+0 60 1 13
 1
 end_operator
 begin_operator
@@ -100720,8 +100720,8 @@ overcome sciatica-9 achievement chicken mercury neptune
 1
 0 1
 2
-0 60 1 13
 0 54 2 1
+0 60 1 13
 1
 end_operator
 begin_operator
@@ -100729,8 +100729,8 @@ overcome sciatica-9 achievement chicken uranus mars
 1
 0 1
 2
-0 60 1 13
 0 54 0 3
+0 60 1 13
 1
 end_operator
 begin_operator
@@ -100738,8 +100738,8 @@ overcome sciatica-9 achievement hamburger mars mercury
 1
 0 2
 2
-0 60 2 13
 0 54 1 0
+0 60 2 13
 1
 end_operator
 begin_operator
@@ -100747,8 +100747,8 @@ overcome sciatica-9 achievement hamburger mercury neptune
 1
 0 2
 2
-0 60 2 13
 0 54 2 1
+0 60 2 13
 1
 end_operator
 begin_operator
@@ -100756,8 +100756,8 @@ overcome sciatica-9 achievement hamburger uranus mars
 1
 0 2
 2
-0 60 2 13
 0 54 0 3
+0 60 2 13
 1
 end_operator
 begin_operator
@@ -100765,8 +100765,8 @@ overcome sciatica-9 achievement haroset mars mercury
 1
 0 3
 2
-0 60 3 13
 0 54 1 0
+0 60 3 13
 1
 end_operator
 begin_operator
@@ -100774,8 +100774,8 @@ overcome sciatica-9 achievement haroset mercury neptune
 1
 0 3
 2
-0 60 3 13
 0 54 2 1
+0 60 3 13
 1
 end_operator
 begin_operator
@@ -100783,8 +100783,8 @@ overcome sciatica-9 achievement haroset uranus mars
 1
 0 3
 2
-0 60 3 13
 0 54 0 3
+0 60 3 13
 1
 end_operator
 begin_operator
@@ -100792,8 +100792,8 @@ overcome sciatica-9 achievement muffin mars mercury
 1
 0 4
 2
-0 60 4 13
 0 54 1 0
+0 60 4 13
 1
 end_operator
 begin_operator
@@ -100801,8 +100801,8 @@ overcome sciatica-9 achievement muffin mercury neptune
 1
 0 4
 2
-0 60 4 13
 0 54 2 1
+0 60 4 13
 1
 end_operator
 begin_operator
@@ -100810,8 +100810,8 @@ overcome sciatica-9 achievement muffin uranus mars
 1
 0 4
 2
-0 60 4 13
 0 54 0 3
+0 60 4 13
 1
 end_operator
 begin_operator
@@ -100819,8 +100819,8 @@ overcome sciatica-9 achievement onion mars mercury
 1
 0 5
 2
-0 60 5 13
 0 54 1 0
+0 60 5 13
 1
 end_operator
 begin_operator
@@ -100828,8 +100828,8 @@ overcome sciatica-9 achievement onion mercury neptune
 1
 0 5
 2
-0 60 5 13
 0 54 2 1
+0 60 5 13
 1
 end_operator
 begin_operator
@@ -100837,8 +100837,8 @@ overcome sciatica-9 achievement onion uranus mars
 1
 0 5
 2
-0 60 5 13
 0 54 0 3
+0 60 5 13
 1
 end_operator
 begin_operator
@@ -100846,8 +100846,8 @@ overcome sciatica-9 achievement popover mars mercury
 1
 0 6
 2
-0 60 6 13
 0 54 1 0
+0 60 6 13
 1
 end_operator
 begin_operator
@@ -100855,8 +100855,8 @@ overcome sciatica-9 achievement popover mercury neptune
 1
 0 6
 2
-0 60 6 13
 0 54 2 1
+0 60 6 13
 1
 end_operator
 begin_operator
@@ -100864,8 +100864,8 @@ overcome sciatica-9 achievement popover uranus mars
 1
 0 6
 2
-0 60 6 13
 0 54 0 3
+0 60 6 13
 1
 end_operator
 begin_operator
@@ -100873,8 +100873,8 @@ overcome sciatica-9 achievement potato mars mercury
 1
 0 7
 2
-0 60 7 13
 0 54 1 0
+0 60 7 13
 1
 end_operator
 begin_operator
@@ -100882,8 +100882,8 @@ overcome sciatica-9 achievement potato mercury neptune
 1
 0 7
 2
-0 60 7 13
 0 54 2 1
+0 60 7 13
 1
 end_operator
 begin_operator
@@ -100891,8 +100891,8 @@ overcome sciatica-9 achievement potato uranus mars
 1
 0 7
 2
-0 60 7 13
 0 54 0 3
+0 60 7 13
 1
 end_operator
 begin_operator
@@ -100900,8 +100900,8 @@ overcome sciatica-9 achievement shrimp mars mercury
 1
 0 8
 2
-0 60 8 13
 0 54 1 0
+0 60 8 13
 1
 end_operator
 begin_operator
@@ -100909,8 +100909,8 @@ overcome sciatica-9 achievement shrimp mercury neptune
 1
 0 8
 2
-0 60 8 13
 0 54 2 1
+0 60 8 13
 1
 end_operator
 begin_operator
@@ -100918,8 +100918,8 @@ overcome sciatica-9 achievement shrimp uranus mars
 1
 0 8
 2
-0 60 8 13
 0 54 0 3
+0 60 8 13
 1
 end_operator
 begin_operator
@@ -100927,8 +100927,8 @@ overcome sciatica-9 achievement sweetroll mars mercury
 1
 0 9
 2
-0 60 9 13
 0 54 1 0
+0 60 9 13
 1
 end_operator
 begin_operator
@@ -100936,8 +100936,8 @@ overcome sciatica-9 achievement sweetroll mercury neptune
 1
 0 9
 2
-0 60 9 13
 0 54 2 1
+0 60 9 13
 1
 end_operator
 begin_operator
@@ -100945,8 +100945,8 @@ overcome sciatica-9 achievement sweetroll uranus mars
 1
 0 9
 2
-0 60 9 13
 0 54 0 3
+0 60 9 13
 1
 end_operator
 begin_operator
@@ -100954,8 +100954,8 @@ overcome sciatica-9 achievement tofu mars mercury
 1
 0 10
 2
-0 60 10 13
 0 54 1 0
+0 60 10 13
 1
 end_operator
 begin_operator
@@ -100963,8 +100963,8 @@ overcome sciatica-9 achievement tofu mercury neptune
 1
 0 10
 2
-0 60 10 13
 0 54 2 1
+0 60 10 13
 1
 end_operator
 begin_operator
@@ -100972,8 +100972,8 @@ overcome sciatica-9 achievement tofu uranus mars
 1
 0 10
 2
-0 60 10 13
 0 54 0 3
+0 60 10 13
 1
 end_operator
 begin_operator
@@ -100981,8 +100981,8 @@ overcome sciatica-9 achievement turkey mars mercury
 1
 0 11
 2
-0 60 11 13
 0 54 1 0
+0 60 11 13
 1
 end_operator
 begin_operator
@@ -100990,8 +100990,8 @@ overcome sciatica-9 achievement turkey mercury neptune
 1
 0 11
 2
-0 60 11 13
 0 54 2 1
+0 60 11 13
 1
 end_operator
 begin_operator
@@ -100999,8 +100999,8 @@ overcome sciatica-9 achievement turkey uranus mars
 1
 0 11
 2
-0 60 11 13
 0 54 0 3
+0 60 11 13
 1
 end_operator
 begin_operator
@@ -101008,8 +101008,8 @@ overcome sciatica-9 achievement yogurt mars mercury
 1
 0 12
 2
-0 60 12 13
 0 54 1 0
+0 60 12 13
 1
 end_operator
 begin_operator
@@ -101017,8 +101017,8 @@ overcome sciatica-9 achievement yogurt mercury neptune
 1
 0 12
 2
-0 60 12 13
 0 54 2 1
+0 60 12 13
 1
 end_operator
 begin_operator
@@ -101026,8 +101026,8 @@ overcome sciatica-9 achievement yogurt uranus mars
 1
 0 12
 2
-0 60 12 13
 0 54 0 3
+0 60 12 13
 1
 end_operator
 begin_operator
@@ -101035,8 +101035,8 @@ overcome sciatica-9 aesthetics apple mars mercury
 1
 1 0
 2
-0 60 0 14
 0 55 1 0
+0 60 0 14
 1
 end_operator
 begin_operator
@@ -101044,8 +101044,8 @@ overcome sciatica-9 aesthetics apple mercury neptune
 1
 1 0
 2
-0 60 0 14
 0 55 2 1
+0 60 0 14
 1
 end_operator
 begin_operator
@@ -101053,8 +101053,8 @@ overcome sciatica-9 aesthetics apple uranus mars
 1
 1 0
 2
-0 60 0 14
 0 55 0 3
+0 60 0 14
 1
 end_operator
 begin_operator
@@ -101062,8 +101062,8 @@ overcome sciatica-9 aesthetics chicken mars mercury
 1
 1 1
 2
-0 60 1 14
 0 55 1 0
+0 60 1 14
 1
 end_operator
 begin_operator
@@ -101071,8 +101071,8 @@ overcome sciatica-9 aesthetics chicken mercury neptune
 1
 1 1
 2
-0 60 1 14
 0 55 2 1
+0 60 1 14
 1
 end_operator
 begin_operator
@@ -101080,8 +101080,8 @@ overcome sciatica-9 aesthetics chicken uranus mars
 1
 1 1
 2
-0 60 1 14
 0 55 0 3
+0 60 1 14
 1
 end_operator
 begin_operator
@@ -101089,8 +101089,8 @@ overcome sciatica-9 aesthetics hamburger mars mercury
 1
 1 2
 2
-0 60 2 14
 0 55 1 0
+0 60 2 14
 1
 end_operator
 begin_operator
@@ -101098,8 +101098,8 @@ overcome sciatica-9 aesthetics hamburger mercury neptune
 1
 1 2
 2
-0 60 2 14
 0 55 2 1
+0 60 2 14
 1
 end_operator
 begin_operator
@@ -101107,8 +101107,8 @@ overcome sciatica-9 aesthetics hamburger uranus mars
 1
 1 2
 2
-0 60 2 14
 0 55 0 3
+0 60 2 14
 1
 end_operator
 begin_operator
@@ -101116,8 +101116,8 @@ overcome sciatica-9 aesthetics haroset mars mercury
 1
 1 3
 2
-0 60 3 14
 0 55 1 0
+0 60 3 14
 1
 end_operator
 begin_operator
@@ -101125,8 +101125,8 @@ overcome sciatica-9 aesthetics haroset mercury neptune
 1
 1 3
 2
-0 60 3 14
 0 55 2 1
+0 60 3 14
 1
 end_operator
 begin_operator
@@ -101134,8 +101134,8 @@ overcome sciatica-9 aesthetics haroset uranus mars
 1
 1 3
 2
-0 60 3 14
 0 55 0 3
+0 60 3 14
 1
 end_operator
 begin_operator
@@ -101143,8 +101143,8 @@ overcome sciatica-9 aesthetics muffin mars mercury
 1
 1 4
 2
-0 60 4 14
 0 55 1 0
+0 60 4 14
 1
 end_operator
 begin_operator
@@ -101152,8 +101152,8 @@ overcome sciatica-9 aesthetics muffin mercury neptune
 1
 1 4
 2
-0 60 4 14
 0 55 2 1
+0 60 4 14
 1
 end_operator
 begin_operator
@@ -101161,8 +101161,8 @@ overcome sciatica-9 aesthetics muffin uranus mars
 1
 1 4
 2
-0 60 4 14
 0 55 0 3
+0 60 4 14
 1
 end_operator
 begin_operator
@@ -101170,8 +101170,8 @@ overcome sciatica-9 aesthetics onion mars mercury
 1
 1 5
 2
-0 60 5 14
 0 55 1 0
+0 60 5 14
 1
 end_operator
 begin_operator
@@ -101179,8 +101179,8 @@ overcome sciatica-9 aesthetics onion mercury neptune
 1
 1 5
 2
-0 60 5 14
 0 55 2 1
+0 60 5 14
 1
 end_operator
 begin_operator
@@ -101188,8 +101188,8 @@ overcome sciatica-9 aesthetics onion uranus mars
 1
 1 5
 2
-0 60 5 14
 0 55 0 3
+0 60 5 14
 1
 end_operator
 begin_operator
@@ -101197,8 +101197,8 @@ overcome sciatica-9 aesthetics popover mars mercury
 1
 1 6
 2
-0 60 6 14
 0 55 1 0
+0 60 6 14
 1
 end_operator
 begin_operator
@@ -101206,8 +101206,8 @@ overcome sciatica-9 aesthetics popover mercury neptune
 1
 1 6
 2
-0 60 6 14
 0 55 2 1
+0 60 6 14
 1
 end_operator
 begin_operator
@@ -101215,8 +101215,8 @@ overcome sciatica-9 aesthetics popover uranus mars
 1
 1 6
 2
-0 60 6 14
 0 55 0 3
+0 60 6 14
 1
 end_operator
 begin_operator
@@ -101224,8 +101224,8 @@ overcome sciatica-9 aesthetics potato mars mercury
 1
 1 7
 2
-0 60 7 14
 0 55 1 0
+0 60 7 14
 1
 end_operator
 begin_operator
@@ -101233,8 +101233,8 @@ overcome sciatica-9 aesthetics potato mercury neptune
 1
 1 7
 2
-0 60 7 14
 0 55 2 1
+0 60 7 14
 1
 end_operator
 begin_operator
@@ -101242,8 +101242,8 @@ overcome sciatica-9 aesthetics potato uranus mars
 1
 1 7
 2
-0 60 7 14
 0 55 0 3
+0 60 7 14
 1
 end_operator
 begin_operator
@@ -101251,8 +101251,8 @@ overcome sciatica-9 aesthetics shrimp mars mercury
 1
 1 8
 2
-0 60 8 14
 0 55 1 0
+0 60 8 14
 1
 end_operator
 begin_operator
@@ -101260,8 +101260,8 @@ overcome sciatica-9 aesthetics shrimp mercury neptune
 1
 1 8
 2
-0 60 8 14
 0 55 2 1
+0 60 8 14
 1
 end_operator
 begin_operator
@@ -101269,8 +101269,8 @@ overcome sciatica-9 aesthetics shrimp uranus mars
 1
 1 8
 2
-0 60 8 14
 0 55 0 3
+0 60 8 14
 1
 end_operator
 begin_operator
@@ -101278,8 +101278,8 @@ overcome sciatica-9 aesthetics sweetroll mars mercury
 1
 1 9
 2
-0 60 9 14
 0 55 1 0
+0 60 9 14
 1
 end_operator
 begin_operator
@@ -101287,8 +101287,8 @@ overcome sciatica-9 aesthetics sweetroll mercury neptune
 1
 1 9
 2
-0 60 9 14
 0 55 2 1
+0 60 9 14
 1
 end_operator
 begin_operator
@@ -101296,8 +101296,8 @@ overcome sciatica-9 aesthetics sweetroll uranus mars
 1
 1 9
 2
-0 60 9 14
 0 55 0 3
+0 60 9 14
 1
 end_operator
 begin_operator
@@ -101305,8 +101305,8 @@ overcome sciatica-9 aesthetics tofu mars mercury
 1
 1 10
 2
-0 60 10 14
 0 55 1 0
+0 60 10 14
 1
 end_operator
 begin_operator
@@ -101314,8 +101314,8 @@ overcome sciatica-9 aesthetics tofu mercury neptune
 1
 1 10
 2
-0 60 10 14
 0 55 2 1
+0 60 10 14
 1
 end_operator
 begin_operator
@@ -101323,8 +101323,8 @@ overcome sciatica-9 aesthetics tofu uranus mars
 1
 1 10
 2
-0 60 10 14
 0 55 0 3
+0 60 10 14
 1
 end_operator
 begin_operator
@@ -101332,8 +101332,8 @@ overcome sciatica-9 aesthetics turkey mars mercury
 1
 1 11
 2
-0 60 11 14
 0 55 1 0
+0 60 11 14
 1
 end_operator
 begin_operator
@@ -101341,8 +101341,8 @@ overcome sciatica-9 aesthetics turkey mercury neptune
 1
 1 11
 2
-0 60 11 14
 0 55 2 1
+0 60 11 14
 1
 end_operator
 begin_operator
@@ -101350,8 +101350,8 @@ overcome sciatica-9 aesthetics turkey uranus mars
 1
 1 11
 2
-0 60 11 14
 0 55 0 3
+0 60 11 14
 1
 end_operator
 begin_operator
@@ -101359,8 +101359,8 @@ overcome sciatica-9 aesthetics yogurt mars mercury
 1
 1 12
 2
-0 60 12 14
 0 55 1 0
+0 60 12 14
 1
 end_operator
 begin_operator
@@ -101368,8 +101368,8 @@ overcome sciatica-9 aesthetics yogurt mercury neptune
 1
 1 12
 2
-0 60 12 14
 0 55 2 1
+0 60 12 14
 1
 end_operator
 begin_operator
@@ -101377,8 +101377,8 @@ overcome sciatica-9 aesthetics yogurt uranus mars
 1
 1 12
 2
-0 60 12 14
 0 55 0 3
+0 60 12 14
 1
 end_operator
 begin_operator
@@ -101386,8 +101386,8 @@ overcome sciatica-9 excitement apple mars mercury
 1
 2 0
 2
-0 60 0 15
 0 58 1 0
+0 60 0 15
 1
 end_operator
 begin_operator
@@ -101395,8 +101395,8 @@ overcome sciatica-9 excitement apple mercury neptune
 1
 2 0
 2
-0 60 0 15
 0 58 2 1
+0 60 0 15
 1
 end_operator
 begin_operator
@@ -101404,8 +101404,8 @@ overcome sciatica-9 excitement apple uranus mars
 1
 2 0
 2
-0 60 0 15
 0 58 0 3
+0 60 0 15
 1
 end_operator
 begin_operator
@@ -101413,8 +101413,8 @@ overcome sciatica-9 excitement chicken mars mercury
 1
 2 1
 2
-0 60 1 15
 0 58 1 0
+0 60 1 15
 1
 end_operator
 begin_operator
@@ -101422,8 +101422,8 @@ overcome sciatica-9 excitement chicken mercury neptune
 1
 2 1
 2
-0 60 1 15
 0 58 2 1
+0 60 1 15
 1
 end_operator
 begin_operator
@@ -101431,8 +101431,8 @@ overcome sciatica-9 excitement chicken uranus mars
 1
 2 1
 2
-0 60 1 15
 0 58 0 3
+0 60 1 15
 1
 end_operator
 begin_operator
@@ -101440,8 +101440,8 @@ overcome sciatica-9 excitement hamburger mars mercury
 1
 2 2
 2
-0 60 2 15
 0 58 1 0
+0 60 2 15
 1
 end_operator
 begin_operator
@@ -101449,8 +101449,8 @@ overcome sciatica-9 excitement hamburger mercury neptune
 1
 2 2
 2
-0 60 2 15
 0 58 2 1
+0 60 2 15
 1
 end_operator
 begin_operator
@@ -101458,8 +101458,8 @@ overcome sciatica-9 excitement hamburger uranus mars
 1
 2 2
 2
-0 60 2 15
 0 58 0 3
+0 60 2 15
 1
 end_operator
 begin_operator
@@ -101467,8 +101467,8 @@ overcome sciatica-9 excitement haroset mars mercury
 1
 2 3
 2
-0 60 3 15
 0 58 1 0
+0 60 3 15
 1
 end_operator
 begin_operator
@@ -101476,8 +101476,8 @@ overcome sciatica-9 excitement haroset mercury neptune
 1
 2 3
 2
-0 60 3 15
 0 58 2 1
+0 60 3 15
 1
 end_operator
 begin_operator
@@ -101485,8 +101485,8 @@ overcome sciatica-9 excitement haroset uranus mars
 1
 2 3
 2
-0 60 3 15
 0 58 0 3
+0 60 3 15
 1
 end_operator
 begin_operator
@@ -101494,8 +101494,8 @@ overcome sciatica-9 excitement muffin mars mercury
 1
 2 4
 2
-0 60 4 15
 0 58 1 0
+0 60 4 15
 1
 end_operator
 begin_operator
@@ -101503,8 +101503,8 @@ overcome sciatica-9 excitement muffin mercury neptune
 1
 2 4
 2
-0 60 4 15
 0 58 2 1
+0 60 4 15
 1
 end_operator
 begin_operator
@@ -101512,8 +101512,8 @@ overcome sciatica-9 excitement muffin uranus mars
 1
 2 4
 2
-0 60 4 15
 0 58 0 3
+0 60 4 15
 1
 end_operator
 begin_operator
@@ -101521,8 +101521,8 @@ overcome sciatica-9 excitement onion mars mercury
 1
 2 5
 2
-0 60 5 15
 0 58 1 0
+0 60 5 15
 1
 end_operator
 begin_operator
@@ -101530,8 +101530,8 @@ overcome sciatica-9 excitement onion mercury neptune
 1
 2 5
 2
-0 60 5 15
 0 58 2 1
+0 60 5 15
 1
 end_operator
 begin_operator
@@ -101539,8 +101539,8 @@ overcome sciatica-9 excitement onion uranus mars
 1
 2 5
 2
-0 60 5 15
 0 58 0 3
+0 60 5 15
 1
 end_operator
 begin_operator
@@ -101548,8 +101548,8 @@ overcome sciatica-9 excitement popover mars mercury
 1
 2 6
 2
-0 60 6 15
 0 58 1 0
+0 60 6 15
 1
 end_operator
 begin_operator
@@ -101557,8 +101557,8 @@ overcome sciatica-9 excitement popover mercury neptune
 1
 2 6
 2
-0 60 6 15
 0 58 2 1
+0 60 6 15
 1
 end_operator
 begin_operator
@@ -101566,8 +101566,8 @@ overcome sciatica-9 excitement popover uranus mars
 1
 2 6
 2
-0 60 6 15
 0 58 0 3
+0 60 6 15
 1
 end_operator
 begin_operator
@@ -101575,8 +101575,8 @@ overcome sciatica-9 excitement potato mars mercury
 1
 2 7
 2
-0 60 7 15
 0 58 1 0
+0 60 7 15
 1
 end_operator
 begin_operator
@@ -101584,8 +101584,8 @@ overcome sciatica-9 excitement potato mercury neptune
 1
 2 7
 2
-0 60 7 15
 0 58 2 1
+0 60 7 15
 1
 end_operator
 begin_operator
@@ -101593,8 +101593,8 @@ overcome sciatica-9 excitement potato uranus mars
 1
 2 7
 2
-0 60 7 15
 0 58 0 3
+0 60 7 15
 1
 end_operator
 begin_operator
@@ -101602,8 +101602,8 @@ overcome sciatica-9 excitement shrimp mars mercury
 1
 2 8
 2
-0 60 8 15
 0 58 1 0
+0 60 8 15
 1
 end_operator
 begin_operator
@@ -101611,8 +101611,8 @@ overcome sciatica-9 excitement shrimp mercury neptune
 1
 2 8
 2
-0 60 8 15
 0 58 2 1
+0 60 8 15
 1
 end_operator
 begin_operator
@@ -101620,8 +101620,8 @@ overcome sciatica-9 excitement shrimp uranus mars
 1
 2 8
 2
-0 60 8 15
 0 58 0 3
+0 60 8 15
 1
 end_operator
 begin_operator
@@ -101629,8 +101629,8 @@ overcome sciatica-9 excitement sweetroll mars mercury
 1
 2 9
 2
-0 60 9 15
 0 58 1 0
+0 60 9 15
 1
 end_operator
 begin_operator
@@ -101638,8 +101638,8 @@ overcome sciatica-9 excitement sweetroll mercury neptune
 1
 2 9
 2
-0 60 9 15
 0 58 2 1
+0 60 9 15
 1
 end_operator
 begin_operator
@@ -101647,8 +101647,8 @@ overcome sciatica-9 excitement sweetroll uranus mars
 1
 2 9
 2
-0 60 9 15
 0 58 0 3
+0 60 9 15
 1
 end_operator
 begin_operator
@@ -101656,8 +101656,8 @@ overcome sciatica-9 excitement tofu mars mercury
 1
 2 10
 2
-0 60 10 15
 0 58 1 0
+0 60 10 15
 1
 end_operator
 begin_operator
@@ -101665,8 +101665,8 @@ overcome sciatica-9 excitement tofu mercury neptune
 1
 2 10
 2
-0 60 10 15
 0 58 2 1
+0 60 10 15
 1
 end_operator
 begin_operator
@@ -101674,8 +101674,8 @@ overcome sciatica-9 excitement tofu uranus mars
 1
 2 10
 2
-0 60 10 15
 0 58 0 3
+0 60 10 15
 1
 end_operator
 begin_operator
@@ -101683,8 +101683,8 @@ overcome sciatica-9 excitement turkey mars mercury
 1
 2 11
 2
-0 60 11 15
 0 58 1 0
+0 60 11 15
 1
 end_operator
 begin_operator
@@ -101692,8 +101692,8 @@ overcome sciatica-9 excitement turkey mercury neptune
 1
 2 11
 2
-0 60 11 15
 0 58 2 1
+0 60 11 15
 1
 end_operator
 begin_operator
@@ -101701,8 +101701,8 @@ overcome sciatica-9 excitement turkey uranus mars
 1
 2 11
 2
-0 60 11 15
 0 58 0 3
+0 60 11 15
 1
 end_operator
 begin_operator
@@ -101710,8 +101710,8 @@ overcome sciatica-9 excitement yogurt mars mercury
 1
 2 12
 2
-0 60 12 15
 0 58 1 0
+0 60 12 15
 1
 end_operator
 begin_operator
@@ -101719,8 +101719,8 @@ overcome sciatica-9 excitement yogurt mercury neptune
 1
 2 12
 2
-0 60 12 15
 0 58 2 1
+0 60 12 15
 1
 end_operator
 begin_operator
@@ -101728,8 +101728,8 @@ overcome sciatica-9 excitement yogurt uranus mars
 1
 2 12
 2
-0 60 12 15
 0 58 0 3
+0 60 12 15
 1
 end_operator
 begin_operator
@@ -101737,8 +101737,8 @@ overcome sciatica-9 intoxication apple mars mercury
 1
 3 0
 2
-0 60 0 16
 0 59 1 0
+0 60 0 16
 1
 end_operator
 begin_operator
@@ -101746,8 +101746,8 @@ overcome sciatica-9 intoxication apple mercury neptune
 1
 3 0
 2
-0 60 0 16
 0 59 2 1
+0 60 0 16
 1
 end_operator
 begin_operator
@@ -101755,8 +101755,8 @@ overcome sciatica-9 intoxication apple uranus mars
 1
 3 0
 2
-0 60 0 16
 0 59 0 3
+0 60 0 16
 1
 end_operator
 begin_operator
@@ -101764,8 +101764,8 @@ overcome sciatica-9 intoxication chicken mars mercury
 1
 3 1
 2
-0 60 1 16
 0 59 1 0
+0 60 1 16
 1
 end_operator
 begin_operator
@@ -101773,8 +101773,8 @@ overcome sciatica-9 intoxication chicken mercury neptune
 1
 3 1
 2
-0 60 1 16
 0 59 2 1
+0 60 1 16
 1
 end_operator
 begin_operator
@@ -101782,8 +101782,8 @@ overcome sciatica-9 intoxication chicken uranus mars
 1
 3 1
 2
-0 60 1 16
 0 59 0 3
+0 60 1 16
 1
 end_operator
 begin_operator
@@ -101791,8 +101791,8 @@ overcome sciatica-9 intoxication hamburger mars mercury
 1
 3 2
 2
-0 60 2 16
 0 59 1 0
+0 60 2 16
 1
 end_operator
 begin_operator
@@ -101800,8 +101800,8 @@ overcome sciatica-9 intoxication hamburger mercury neptune
 1
 3 2
 2
-0 60 2 16
 0 59 2 1
+0 60 2 16
 1
 end_operator
 begin_operator
@@ -101809,8 +101809,8 @@ overcome sciatica-9 intoxication hamburger uranus mars
 1
 3 2
 2
-0 60 2 16
 0 59 0 3
+0 60 2 16
 1
 end_operator
 begin_operator
@@ -101818,8 +101818,8 @@ overcome sciatica-9 intoxication haroset mars mercury
 1
 3 3
 2
-0 60 3 16
 0 59 1 0
+0 60 3 16
 1
 end_operator
 begin_operator
@@ -101827,8 +101827,8 @@ overcome sciatica-9 intoxication haroset mercury neptune
 1
 3 3
 2
-0 60 3 16
 0 59 2 1
+0 60 3 16
 1
 end_operator
 begin_operator
@@ -101836,8 +101836,8 @@ overcome sciatica-9 intoxication haroset uranus mars
 1
 3 3
 2
-0 60 3 16
 0 59 0 3
+0 60 3 16
 1
 end_operator
 begin_operator
@@ -101845,8 +101845,8 @@ overcome sciatica-9 intoxication muffin mars mercury
 1
 3 4
 2
-0 60 4 16
 0 59 1 0
+0 60 4 16
 1
 end_operator
 begin_operator
@@ -101854,8 +101854,8 @@ overcome sciatica-9 intoxication muffin mercury neptune
 1
 3 4
 2
-0 60 4 16
 0 59 2 1
+0 60 4 16
 1
 end_operator
 begin_operator
@@ -101863,8 +101863,8 @@ overcome sciatica-9 intoxication muffin uranus mars
 1
 3 4
 2
-0 60 4 16
 0 59 0 3
+0 60 4 16
 1
 end_operator
 begin_operator
@@ -101872,8 +101872,8 @@ overcome sciatica-9 intoxication onion mars mercury
 1
 3 5
 2
-0 60 5 16
 0 59 1 0
+0 60 5 16
 1
 end_operator
 begin_operator
@@ -101881,8 +101881,8 @@ overcome sciatica-9 intoxication onion mercury neptune
 1
 3 5
 2
-0 60 5 16
 0 59 2 1
+0 60 5 16
 1
 end_operator
 begin_operator
@@ -101890,8 +101890,8 @@ overcome sciatica-9 intoxication onion uranus mars
 1
 3 5
 2
-0 60 5 16
 0 59 0 3
+0 60 5 16
 1
 end_operator
 begin_operator
@@ -101899,8 +101899,8 @@ overcome sciatica-9 intoxication popover mars mercury
 1
 3 6
 2
-0 60 6 16
 0 59 1 0
+0 60 6 16
 1
 end_operator
 begin_operator
@@ -101908,8 +101908,8 @@ overcome sciatica-9 intoxication popover mercury neptune
 1
 3 6
 2
-0 60 6 16
 0 59 2 1
+0 60 6 16
 1
 end_operator
 begin_operator
@@ -101917,8 +101917,8 @@ overcome sciatica-9 intoxication popover uranus mars
 1
 3 6
 2
-0 60 6 16
 0 59 0 3
+0 60 6 16
 1
 end_operator
 begin_operator
@@ -101926,8 +101926,8 @@ overcome sciatica-9 intoxication potato mars mercury
 1
 3 7
 2
-0 60 7 16
 0 59 1 0
+0 60 7 16
 1
 end_operator
 begin_operator
@@ -101935,8 +101935,8 @@ overcome sciatica-9 intoxication potato mercury neptune
 1
 3 7
 2
-0 60 7 16
 0 59 2 1
+0 60 7 16
 1
 end_operator
 begin_operator
@@ -101944,8 +101944,8 @@ overcome sciatica-9 intoxication potato uranus mars
 1
 3 7
 2
-0 60 7 16
 0 59 0 3
+0 60 7 16
 1
 end_operator
 begin_operator
@@ -101953,8 +101953,8 @@ overcome sciatica-9 intoxication shrimp mars mercury
 1
 3 8
 2
-0 60 8 16
 0 59 1 0
+0 60 8 16
 1
 end_operator
 begin_operator
@@ -101962,8 +101962,8 @@ overcome sciatica-9 intoxication shrimp mercury neptune
 1
 3 8
 2
-0 60 8 16
 0 59 2 1
+0 60 8 16
 1
 end_operator
 begin_operator
@@ -101971,8 +101971,8 @@ overcome sciatica-9 intoxication shrimp uranus mars
 1
 3 8
 2
-0 60 8 16
 0 59 0 3
+0 60 8 16
 1
 end_operator
 begin_operator
@@ -101980,8 +101980,8 @@ overcome sciatica-9 intoxication sweetroll mars mercury
 1
 3 9
 2
-0 60 9 16
 0 59 1 0
+0 60 9 16
 1
 end_operator
 begin_operator
@@ -101989,8 +101989,8 @@ overcome sciatica-9 intoxication sweetroll mercury neptune
 1
 3 9
 2
-0 60 9 16
 0 59 2 1
+0 60 9 16
 1
 end_operator
 begin_operator
@@ -101998,8 +101998,8 @@ overcome sciatica-9 intoxication sweetroll uranus mars
 1
 3 9
 2
-0 60 9 16
 0 59 0 3
+0 60 9 16
 1
 end_operator
 begin_operator
@@ -102007,8 +102007,8 @@ overcome sciatica-9 intoxication tofu mars mercury
 1
 3 10
 2
-0 60 10 16
 0 59 1 0
+0 60 10 16
 1
 end_operator
 begin_operator
@@ -102016,8 +102016,8 @@ overcome sciatica-9 intoxication tofu mercury neptune
 1
 3 10
 2
-0 60 10 16
 0 59 2 1
+0 60 10 16
 1
 end_operator
 begin_operator
@@ -102025,8 +102025,8 @@ overcome sciatica-9 intoxication tofu uranus mars
 1
 3 10
 2
-0 60 10 16
 0 59 0 3
+0 60 10 16
 1
 end_operator
 begin_operator
@@ -102034,8 +102034,8 @@ overcome sciatica-9 intoxication turkey mars mercury
 1
 3 11
 2
-0 60 11 16
 0 59 1 0
+0 60 11 16
 1
 end_operator
 begin_operator
@@ -102043,8 +102043,8 @@ overcome sciatica-9 intoxication turkey mercury neptune
 1
 3 11
 2
-0 60 11 16
 0 59 2 1
+0 60 11 16
 1
 end_operator
 begin_operator
@@ -102052,8 +102052,8 @@ overcome sciatica-9 intoxication turkey uranus mars
 1
 3 11
 2
-0 60 11 16
 0 59 0 3
+0 60 11 16
 1
 end_operator
 begin_operator
@@ -102061,8 +102061,8 @@ overcome sciatica-9 intoxication yogurt mars mercury
 1
 3 12
 2
-0 60 12 16
 0 59 1 0
+0 60 12 16
 1
 end_operator
 begin_operator
@@ -102070,8 +102070,8 @@ overcome sciatica-9 intoxication yogurt mercury neptune
 1
 3 12
 2
-0 60 12 16
 0 59 2 1
+0 60 12 16
 1
 end_operator
 begin_operator
@@ -102079,8 +102079,8 @@ overcome sciatica-9 intoxication yogurt uranus mars
 1
 3 12
 2
-0 60 12 16
 0 59 0 3
+0 60 12 16
 1
 end_operator
 begin_operator
@@ -118234,8 +118234,8 @@ succumb anxiety achievement apple mars mercury
 1
 0 0
 2
-0 62 13 0
 0 54 0 1
+0 62 13 0
 1
 end_operator
 begin_operator
@@ -118243,8 +118243,8 @@ succumb anxiety achievement apple mercury neptune
 1
 0 0
 2
-0 62 13 0
 0 54 1 2
+0 62 13 0
 1
 end_operator
 begin_operator
@@ -118252,8 +118252,8 @@ succumb anxiety achievement apple uranus mars
 1
 0 0
 2
-0 62 13 0
 0 54 3 0
+0 62 13 0
 1
 end_operator
 begin_operator
@@ -118261,8 +118261,8 @@ succumb anxiety achievement chicken mars mercury
 1
 0 1
 2
-0 62 13 1
 0 54 0 1
+0 62 13 1
 1
 end_operator
 begin_operator
@@ -118270,8 +118270,8 @@ succumb anxiety achievement chicken mercury neptune
 1
 0 1
 2
-0 62 13 1
 0 54 1 2
+0 62 13 1
 1
 end_operator
 begin_operator
@@ -118279,8 +118279,8 @@ succumb anxiety achievement chicken uranus mars
 1
 0 1
 2
-0 62 13 1
 0 54 3 0
+0 62 13 1
 1
 end_operator
 begin_operator
@@ -118288,8 +118288,8 @@ succumb anxiety achievement hamburger mars mercury
 1
 0 2
 2
-0 62 13 2
 0 54 0 1
+0 62 13 2
 1
 end_operator
 begin_operator
@@ -118297,8 +118297,8 @@ succumb anxiety achievement hamburger mercury neptune
 1
 0 2
 2
-0 62 13 2
 0 54 1 2
+0 62 13 2
 1
 end_operator
 begin_operator
@@ -118306,8 +118306,8 @@ succumb anxiety achievement hamburger uranus mars
 1
 0 2
 2
-0 62 13 2
 0 54 3 0
+0 62 13 2
 1
 end_operator
 begin_operator
@@ -118315,8 +118315,8 @@ succumb anxiety achievement haroset mars mercury
 1
 0 3
 2
-0 62 13 3
 0 54 0 1
+0 62 13 3
 1
 end_operator
 begin_operator
@@ -118324,8 +118324,8 @@ succumb anxiety achievement haroset mercury neptune
 1
 0 3
 2
-0 62 13 3
 0 54 1 2
+0 62 13 3
 1
 end_operator
 begin_operator
@@ -118333,8 +118333,8 @@ succumb anxiety achievement haroset uranus mars
 1
 0 3
 2
-0 62 13 3
 0 54 3 0
+0 62 13 3
 1
 end_operator
 begin_operator
@@ -118342,8 +118342,8 @@ succumb anxiety achievement muffin mars mercury
 1
 0 4
 2
-0 62 13 4
 0 54 0 1
+0 62 13 4
 1
 end_operator
 begin_operator
@@ -118351,8 +118351,8 @@ succumb anxiety achievement muffin mercury neptune
 1
 0 4
 2
-0 62 13 4
 0 54 1 2
+0 62 13 4
 1
 end_operator
 begin_operator
@@ -118360,8 +118360,8 @@ succumb anxiety achievement muffin uranus mars
 1
 0 4
 2
-0 62 13 4
 0 54 3 0
+0 62 13 4
 1
 end_operator
 begin_operator
@@ -118369,8 +118369,8 @@ succumb anxiety achievement onion mars mercury
 1
 0 5
 2
-0 62 13 5
 0 54 0 1
+0 62 13 5
 1
 end_operator
 begin_operator
@@ -118378,8 +118378,8 @@ succumb anxiety achievement onion mercury neptune
 1
 0 5
 2
-0 62 13 5
 0 54 1 2
+0 62 13 5
 1
 end_operator
 begin_operator
@@ -118387,8 +118387,8 @@ succumb anxiety achievement onion uranus mars
 1
 0 5
 2
-0 62 13 5
 0 54 3 0
+0 62 13 5
 1
 end_operator
 begin_operator
@@ -118396,8 +118396,8 @@ succumb anxiety achievement popover mars mercury
 1
 0 6
 2
-0 62 13 6
 0 54 0 1
+0 62 13 6
 1
 end_operator
 begin_operator
@@ -118405,8 +118405,8 @@ succumb anxiety achievement popover mercury neptune
 1
 0 6
 2
-0 62 13 6
 0 54 1 2
+0 62 13 6
 1
 end_operator
 begin_operator
@@ -118414,8 +118414,8 @@ succumb anxiety achievement popover uranus mars
 1
 0 6
 2
-0 62 13 6
 0 54 3 0
+0 62 13 6
 1
 end_operator
 begin_operator
@@ -118423,8 +118423,8 @@ succumb anxiety achievement potato mars mercury
 1
 0 7
 2
-0 62 13 7
 0 54 0 1
+0 62 13 7
 1
 end_operator
 begin_operator
@@ -118432,8 +118432,8 @@ succumb anxiety achievement potato mercury neptune
 1
 0 7
 2
-0 62 13 7
 0 54 1 2
+0 62 13 7
 1
 end_operator
 begin_operator
@@ -118441,8 +118441,8 @@ succumb anxiety achievement potato uranus mars
 1
 0 7
 2
-0 62 13 7
 0 54 3 0
+0 62 13 7
 1
 end_operator
 begin_operator
@@ -118450,8 +118450,8 @@ succumb anxiety achievement shrimp mars mercury
 1
 0 8
 2
-0 62 13 8
 0 54 0 1
+0 62 13 8
 1
 end_operator
 begin_operator
@@ -118459,8 +118459,8 @@ succumb anxiety achievement shrimp mercury neptune
 1
 0 8
 2
-0 62 13 8
 0 54 1 2
+0 62 13 8
 1
 end_operator
 begin_operator
@@ -118468,8 +118468,8 @@ succumb anxiety achievement shrimp uranus mars
 1
 0 8
 2
-0 62 13 8
 0 54 3 0
+0 62 13 8
 1
 end_operator
 begin_operator
@@ -118477,8 +118477,8 @@ succumb anxiety achievement sweetroll mars mercury
 1
 0 9
 2
-0 62 13 9
 0 54 0 1
+0 62 13 9
 1
 end_operator
 begin_operator
@@ -118486,8 +118486,8 @@ succumb anxiety achievement sweetroll mercury neptune
 1
 0 9
 2
-0 62 13 9
 0 54 1 2
+0 62 13 9
 1
 end_operator
 begin_operator
@@ -118495,8 +118495,8 @@ succumb anxiety achievement sweetroll uranus mars
 1
 0 9
 2
-0 62 13 9
 0 54 3 0
+0 62 13 9
 1
 end_operator
 begin_operator
@@ -118504,8 +118504,8 @@ succumb anxiety achievement tofu mars mercury
 1
 0 10
 2
-0 62 13 10
 0 54 0 1
+0 62 13 10
 1
 end_operator
 begin_operator
@@ -118513,8 +118513,8 @@ succumb anxiety achievement tofu mercury neptune
 1
 0 10
 2
-0 62 13 10
 0 54 1 2
+0 62 13 10
 1
 end_operator
 begin_operator
@@ -118522,8 +118522,8 @@ succumb anxiety achievement tofu uranus mars
 1
 0 10
 2
-0 62 13 10
 0 54 3 0
+0 62 13 10
 1
 end_operator
 begin_operator
@@ -118531,8 +118531,8 @@ succumb anxiety achievement turkey mars mercury
 1
 0 11
 2
-0 62 13 11
 0 54 0 1
+0 62 13 11
 1
 end_operator
 begin_operator
@@ -118540,8 +118540,8 @@ succumb anxiety achievement turkey mercury neptune
 1
 0 11
 2
-0 62 13 11
 0 54 1 2
+0 62 13 11
 1
 end_operator
 begin_operator
@@ -118549,8 +118549,8 @@ succumb anxiety achievement turkey uranus mars
 1
 0 11
 2
-0 62 13 11
 0 54 3 0
+0 62 13 11
 1
 end_operator
 begin_operator
@@ -118558,8 +118558,8 @@ succumb anxiety achievement yogurt mars mercury
 1
 0 12
 2
-0 62 13 12
 0 54 0 1
+0 62 13 12
 1
 end_operator
 begin_operator
@@ -118567,8 +118567,8 @@ succumb anxiety achievement yogurt mercury neptune
 1
 0 12
 2
-0 62 13 12
 0 54 1 2
+0 62 13 12
 1
 end_operator
 begin_operator
@@ -118576,8 +118576,8 @@ succumb anxiety achievement yogurt uranus mars
 1
 0 12
 2
-0 62 13 12
 0 54 3 0
+0 62 13 12
 1
 end_operator
 begin_operator
@@ -118585,8 +118585,8 @@ succumb anxiety aesthetics apple mars mercury
 1
 1 0
 2
-0 62 14 0
 0 55 0 1
+0 62 14 0
 1
 end_operator
 begin_operator
@@ -118594,8 +118594,8 @@ succumb anxiety aesthetics apple mercury neptune
 1
 1 0
 2
-0 62 14 0
 0 55 1 2
+0 62 14 0
 1
 end_operator
 begin_operator
@@ -118603,8 +118603,8 @@ succumb anxiety aesthetics apple uranus mars
 1
 1 0
 2
-0 62 14 0
 0 55 3 0
+0 62 14 0
 1
 end_operator
 begin_operator
@@ -118612,8 +118612,8 @@ succumb anxiety aesthetics chicken mars mercury
 1
 1 1
 2
-0 62 14 1
 0 55 0 1
+0 62 14 1
 1
 end_operator
 begin_operator
@@ -118621,8 +118621,8 @@ succumb anxiety aesthetics chicken mercury neptune
 1
 1 1
 2
-0 62 14 1
 0 55 1 2
+0 62 14 1
 1
 end_operator
 begin_operator
@@ -118630,8 +118630,8 @@ succumb anxiety aesthetics chicken uranus mars
 1
 1 1
 2
-0 62 14 1
 0 55 3 0
+0 62 14 1
 1
 end_operator
 begin_operator
@@ -118639,8 +118639,8 @@ succumb anxiety aesthetics hamburger mars mercury
 1
 1 2
 2
-0 62 14 2
 0 55 0 1
+0 62 14 2
 1
 end_operator
 begin_operator
@@ -118648,8 +118648,8 @@ succumb anxiety aesthetics hamburger mercury neptune
 1
 1 2
 2
-0 62 14 2
 0 55 1 2
+0 62 14 2
 1
 end_operator
 begin_operator
@@ -118657,8 +118657,8 @@ succumb anxiety aesthetics hamburger uranus mars
 1
 1 2
 2
-0 62 14 2
 0 55 3 0
+0 62 14 2
 1
 end_operator
 begin_operator
@@ -118666,8 +118666,8 @@ succumb anxiety aesthetics haroset mars mercury
 1
 1 3
 2
-0 62 14 3
 0 55 0 1
+0 62 14 3
 1
 end_operator
 begin_operator
@@ -118675,8 +118675,8 @@ succumb anxiety aesthetics haroset mercury neptune
 1
 1 3
 2
-0 62 14 3
 0 55 1 2
+0 62 14 3
 1
 end_operator
 begin_operator
@@ -118684,8 +118684,8 @@ succumb anxiety aesthetics haroset uranus mars
 1
 1 3
 2
-0 62 14 3
 0 55 3 0
+0 62 14 3
 1
 end_operator
 begin_operator
@@ -118693,8 +118693,8 @@ succumb anxiety aesthetics muffin mars mercury
 1
 1 4
 2
-0 62 14 4
 0 55 0 1
+0 62 14 4
 1
 end_operator
 begin_operator
@@ -118702,8 +118702,8 @@ succumb anxiety aesthetics muffin mercury neptune
 1
 1 4
 2
-0 62 14 4
 0 55 1 2
+0 62 14 4
 1
 end_operator
 begin_operator
@@ -118711,8 +118711,8 @@ succumb anxiety aesthetics muffin uranus mars
 1
 1 4
 2
-0 62 14 4
 0 55 3 0
+0 62 14 4
 1
 end_operator
 begin_operator
@@ -118720,8 +118720,8 @@ succumb anxiety aesthetics onion mars mercury
 1
 1 5
 2
-0 62 14 5
 0 55 0 1
+0 62 14 5
 1
 end_operator
 begin_operator
@@ -118729,8 +118729,8 @@ succumb anxiety aesthetics onion mercury neptune
 1
 1 5
 2
-0 62 14 5
 0 55 1 2
+0 62 14 5
 1
 end_operator
 begin_operator
@@ -118738,8 +118738,8 @@ succumb anxiety aesthetics onion uranus mars
 1
 1 5
 2
-0 62 14 5
 0 55 3 0
+0 62 14 5
 1
 end_operator
 begin_operator
@@ -118747,8 +118747,8 @@ succumb anxiety aesthetics popover mars mercury
 1
 1 6
 2
-0 62 14 6
 0 55 0 1
+0 62 14 6
 1
 end_operator
 begin_operator
@@ -118756,8 +118756,8 @@ succumb anxiety aesthetics popover mercury neptune
 1
 1 6
 2
-0 62 14 6
 0 55 1 2
+0 62 14 6
 1
 end_operator
 begin_operator
@@ -118765,8 +118765,8 @@ succumb anxiety aesthetics popover uranus mars
 1
 1 6
 2
-0 62 14 6
 0 55 3 0
+0 62 14 6
 1
 end_operator
 begin_operator
@@ -118774,8 +118774,8 @@ succumb anxiety aesthetics potato mars mercury
 1
 1 7
 2
-0 62 14 7
 0 55 0 1
+0 62 14 7
 1
 end_operator
 begin_operator
@@ -118783,8 +118783,8 @@ succumb anxiety aesthetics potato mercury neptune
 1
 1 7
 2
-0 62 14 7
 0 55 1 2
+0 62 14 7
 1
 end_operator
 begin_operator
@@ -118792,8 +118792,8 @@ succumb anxiety aesthetics potato uranus mars
 1
 1 7
 2
-0 62 14 7
 0 55 3 0
+0 62 14 7
 1
 end_operator
 begin_operator
@@ -118801,8 +118801,8 @@ succumb anxiety aesthetics shrimp mars mercury
 1
 1 8
 2
-0 62 14 8
 0 55 0 1
+0 62 14 8
 1
 end_operator
 begin_operator
@@ -118810,8 +118810,8 @@ succumb anxiety aesthetics shrimp mercury neptune
 1
 1 8
 2
-0 62 14 8
 0 55 1 2
+0 62 14 8
 1
 end_operator
 begin_operator
@@ -118819,8 +118819,8 @@ succumb anxiety aesthetics shrimp uranus mars
 1
 1 8
 2
-0 62 14 8
 0 55 3 0
+0 62 14 8
 1
 end_operator
 begin_operator
@@ -118828,8 +118828,8 @@ succumb anxiety aesthetics sweetroll mars mercury
 1
 1 9
 2
-0 62 14 9
 0 55 0 1
+0 62 14 9
 1
 end_operator
 begin_operator
@@ -118837,8 +118837,8 @@ succumb anxiety aesthetics sweetroll mercury neptune
 1
 1 9
 2
-0 62 14 9
 0 55 1 2
+0 62 14 9
 1
 end_operator
 begin_operator
@@ -118846,8 +118846,8 @@ succumb anxiety aesthetics sweetroll uranus mars
 1
 1 9
 2
-0 62 14 9
 0 55 3 0
+0 62 14 9
 1
 end_operator
 begin_operator
@@ -118855,8 +118855,8 @@ succumb anxiety aesthetics tofu mars mercury
 1
 1 10
 2
-0 62 14 10
 0 55 0 1
+0 62 14 10
 1
 end_operator
 begin_operator
@@ -118864,8 +118864,8 @@ succumb anxiety aesthetics tofu mercury neptune
 1
 1 10
 2
-0 62 14 10
 0 55 1 2
+0 62 14 10
 1
 end_operator
 begin_operator
@@ -118873,8 +118873,8 @@ succumb anxiety aesthetics tofu uranus mars
 1
 1 10
 2
-0 62 14 10
 0 55 3 0
+0 62 14 10
 1
 end_operator
 begin_operator
@@ -118882,8 +118882,8 @@ succumb anxiety aesthetics turkey mars mercury
 1
 1 11
 2
-0 62 14 11
 0 55 0 1
+0 62 14 11
 1
 end_operator
 begin_operator
@@ -118891,8 +118891,8 @@ succumb anxiety aesthetics turkey mercury neptune
 1
 1 11
 2
-0 62 14 11
 0 55 1 2
+0 62 14 11
 1
 end_operator
 begin_operator
@@ -118900,8 +118900,8 @@ succumb anxiety aesthetics turkey uranus mars
 1
 1 11
 2
-0 62 14 11
 0 55 3 0
+0 62 14 11
 1
 end_operator
 begin_operator
@@ -118909,8 +118909,8 @@ succumb anxiety aesthetics yogurt mars mercury
 1
 1 12
 2
-0 62 14 12
 0 55 0 1
+0 62 14 12
 1
 end_operator
 begin_operator
@@ -118918,8 +118918,8 @@ succumb anxiety aesthetics yogurt mercury neptune
 1
 1 12
 2
-0 62 14 12
 0 55 1 2
+0 62 14 12
 1
 end_operator
 begin_operator
@@ -118927,8 +118927,8 @@ succumb anxiety aesthetics yogurt uranus mars
 1
 1 12
 2
-0 62 14 12
 0 55 3 0
+0 62 14 12
 1
 end_operator
 begin_operator
@@ -118936,8 +118936,8 @@ succumb anxiety excitement apple mars mercury
 1
 2 0
 2
-0 62 15 0
 0 58 0 1
+0 62 15 0
 1
 end_operator
 begin_operator
@@ -118945,8 +118945,8 @@ succumb anxiety excitement apple mercury neptune
 1
 2 0
 2
-0 62 15 0
 0 58 1 2
+0 62 15 0
 1
 end_operator
 begin_operator
@@ -118954,8 +118954,8 @@ succumb anxiety excitement apple uranus mars
 1
 2 0
 2
-0 62 15 0
 0 58 3 0
+0 62 15 0
 1
 end_operator
 begin_operator
@@ -118963,8 +118963,8 @@ succumb anxiety excitement chicken mars mercury
 1
 2 1
 2
-0 62 15 1
 0 58 0 1
+0 62 15 1
 1
 end_operator
 begin_operator
@@ -118972,8 +118972,8 @@ succumb anxiety excitement chicken mercury neptune
 1
 2 1
 2
-0 62 15 1
 0 58 1 2
+0 62 15 1
 1
 end_operator
 begin_operator
@@ -118981,8 +118981,8 @@ succumb anxiety excitement chicken uranus mars
 1
 2 1
 2
-0 62 15 1
 0 58 3 0
+0 62 15 1
 1
 end_operator
 begin_operator
@@ -118990,8 +118990,8 @@ succumb anxiety excitement hamburger mars mercury
 1
 2 2
 2
-0 62 15 2
 0 58 0 1
+0 62 15 2
 1
 end_operator
 begin_operator
@@ -118999,8 +118999,8 @@ succumb anxiety excitement hamburger mercury neptune
 1
 2 2
 2
-0 62 15 2
 0 58 1 2
+0 62 15 2
 1
 end_operator
 begin_operator
@@ -119008,8 +119008,8 @@ succumb anxiety excitement hamburger uranus mars
 1
 2 2
 2
-0 62 15 2
 0 58 3 0
+0 62 15 2
 1
 end_operator
 begin_operator
@@ -119017,8 +119017,8 @@ succumb anxiety excitement haroset mars mercury
 1
 2 3
 2
-0 62 15 3
 0 58 0 1
+0 62 15 3
 1
 end_operator
 begin_operator
@@ -119026,8 +119026,8 @@ succumb anxiety excitement haroset mercury neptune
 1
 2 3
 2
-0 62 15 3
 0 58 1 2
+0 62 15 3
 1
 end_operator
 begin_operator
@@ -119035,8 +119035,8 @@ succumb anxiety excitement haroset uranus mars
 1
 2 3
 2
-0 62 15 3
 0 58 3 0
+0 62 15 3
 1
 end_operator
 begin_operator
@@ -119044,8 +119044,8 @@ succumb anxiety excitement muffin mars mercury
 1
 2 4
 2
-0 62 15 4
 0 58 0 1
+0 62 15 4
 1
 end_operator
 begin_operator
@@ -119053,8 +119053,8 @@ succumb anxiety excitement muffin mercury neptune
 1
 2 4
 2
-0 62 15 4
 0 58 1 2
+0 62 15 4
 1
 end_operator
 begin_operator
@@ -119062,8 +119062,8 @@ succumb anxiety excitement muffin uranus mars
 1
 2 4
 2
-0 62 15 4
 0 58 3 0
+0 62 15 4
 1
 end_operator
 begin_operator
@@ -119071,8 +119071,8 @@ succumb anxiety excitement onion mars mercury
 1
 2 5
 2
-0 62 15 5
 0 58 0 1
+0 62 15 5
 1
 end_operator
 begin_operator
@@ -119080,8 +119080,8 @@ succumb anxiety excitement onion mercury neptune
 1
 2 5
 2
-0 62 15 5
 0 58 1 2
+0 62 15 5
 1
 end_operator
 begin_operator
@@ -119089,8 +119089,8 @@ succumb anxiety excitement onion uranus mars
 1
 2 5
 2
-0 62 15 5
 0 58 3 0
+0 62 15 5
 1
 end_operator
 begin_operator
@@ -119098,8 +119098,8 @@ succumb anxiety excitement popover mars mercury
 1
 2 6
 2
-0 62 15 6
 0 58 0 1
+0 62 15 6
 1
 end_operator
 begin_operator
@@ -119107,8 +119107,8 @@ succumb anxiety excitement popover mercury neptune
 1
 2 6
 2
-0 62 15 6
 0 58 1 2
+0 62 15 6
 1
 end_operator
 begin_operator
@@ -119116,8 +119116,8 @@ succumb anxiety excitement popover uranus mars
 1
 2 6
 2
-0 62 15 6
 0 58 3 0
+0 62 15 6
 1
 end_operator
 begin_operator
@@ -119125,8 +119125,8 @@ succumb anxiety excitement potato mars mercury
 1
 2 7
 2
-0 62 15 7
 0 58 0 1
+0 62 15 7
 1
 end_operator
 begin_operator
@@ -119134,8 +119134,8 @@ succumb anxiety excitement potato mercury neptune
 1
 2 7
 2
-0 62 15 7
 0 58 1 2
+0 62 15 7
 1
 end_operator
 begin_operator
@@ -119143,8 +119143,8 @@ succumb anxiety excitement potato uranus mars
 1
 2 7
 2
-0 62 15 7
 0 58 3 0
+0 62 15 7
 1
 end_operator
 begin_operator
@@ -119152,8 +119152,8 @@ succumb anxiety excitement shrimp mars mercury
 1
 2 8
 2
-0 62 15 8
 0 58 0 1
+0 62 15 8
 1
 end_operator
 begin_operator
@@ -119161,8 +119161,8 @@ succumb anxiety excitement shrimp mercury neptune
 1
 2 8
 2
-0 62 15 8
 0 58 1 2
+0 62 15 8
 1
 end_operator
 begin_operator
@@ -119170,8 +119170,8 @@ succumb anxiety excitement shrimp uranus mars
 1
 2 8
 2
-0 62 15 8
 0 58 3 0
+0 62 15 8
 1
 end_operator
 begin_operator
@@ -119179,8 +119179,8 @@ succumb anxiety excitement sweetroll mars mercury
 1
 2 9
 2
-0 62 15 9
 0 58 0 1
+0 62 15 9
 1
 end_operator
 begin_operator
@@ -119188,8 +119188,8 @@ succumb anxiety excitement sweetroll mercury neptune
 1
 2 9
 2
-0 62 15 9
 0 58 1 2
+0 62 15 9
 1
 end_operator
 begin_operator
@@ -119197,8 +119197,8 @@ succumb anxiety excitement sweetroll uranus mars
 1
 2 9
 2
-0 62 15 9
 0 58 3 0
+0 62 15 9
 1
 end_operator
 begin_operator
@@ -119206,8 +119206,8 @@ succumb anxiety excitement tofu mars mercury
 1
 2 10
 2
-0 62 15 10
 0 58 0 1
+0 62 15 10
 1
 end_operator
 begin_operator
@@ -119215,8 +119215,8 @@ succumb anxiety excitement tofu mercury neptune
 1
 2 10
 2
-0 62 15 10
 0 58 1 2
+0 62 15 10
 1
 end_operator
 begin_operator
@@ -119224,8 +119224,8 @@ succumb anxiety excitement tofu uranus mars
 1
 2 10
 2
-0 62 15 10
 0 58 3 0
+0 62 15 10
 1
 end_operator
 begin_operator
@@ -119233,8 +119233,8 @@ succumb anxiety excitement turkey mars mercury
 1
 2 11
 2
-0 62 15 11
 0 58 0 1
+0 62 15 11
 1
 end_operator
 begin_operator
@@ -119242,8 +119242,8 @@ succumb anxiety excitement turkey mercury neptune
 1
 2 11
 2
-0 62 15 11
 0 58 1 2
+0 62 15 11
 1
 end_operator
 begin_operator
@@ -119251,8 +119251,8 @@ succumb anxiety excitement turkey uranus mars
 1
 2 11
 2
-0 62 15 11
 0 58 3 0
+0 62 15 11
 1
 end_operator
 begin_operator
@@ -119260,8 +119260,8 @@ succumb anxiety excitement yogurt mars mercury
 1
 2 12
 2
-0 62 15 12
 0 58 0 1
+0 62 15 12
 1
 end_operator
 begin_operator
@@ -119269,8 +119269,8 @@ succumb anxiety excitement yogurt mercury neptune
 1
 2 12
 2
-0 62 15 12
 0 58 1 2
+0 62 15 12
 1
 end_operator
 begin_operator
@@ -119278,8 +119278,8 @@ succumb anxiety excitement yogurt uranus mars
 1
 2 12
 2
-0 62 15 12
 0 58 3 0
+0 62 15 12
 1
 end_operator
 begin_operator
@@ -119287,8 +119287,8 @@ succumb anxiety intoxication apple mars mercury
 1
 3 0
 2
-0 62 16 0
 0 59 0 1
+0 62 16 0
 1
 end_operator
 begin_operator
@@ -119296,8 +119296,8 @@ succumb anxiety intoxication apple mercury neptune
 1
 3 0
 2
-0 62 16 0
 0 59 1 2
+0 62 16 0
 1
 end_operator
 begin_operator
@@ -119305,8 +119305,8 @@ succumb anxiety intoxication apple uranus mars
 1
 3 0
 2
-0 62 16 0
 0 59 3 0
+0 62 16 0
 1
 end_operator
 begin_operator
@@ -119314,8 +119314,8 @@ succumb anxiety intoxication chicken mars mercury
 1
 3 1
 2
-0 62 16 1
 0 59 0 1
+0 62 16 1
 1
 end_operator
 begin_operator
@@ -119323,8 +119323,8 @@ succumb anxiety intoxication chicken mercury neptune
 1
 3 1
 2
-0 62 16 1
 0 59 1 2
+0 62 16 1
 1
 end_operator
 begin_operator
@@ -119332,8 +119332,8 @@ succumb anxiety intoxication chicken uranus mars
 1
 3 1
 2
-0 62 16 1
 0 59 3 0
+0 62 16 1
 1
 end_operator
 begin_operator
@@ -119341,8 +119341,8 @@ succumb anxiety intoxication hamburger mars mercury
 1
 3 2
 2
-0 62 16 2
 0 59 0 1
+0 62 16 2
 1
 end_operator
 begin_operator
@@ -119350,8 +119350,8 @@ succumb anxiety intoxication hamburger mercury neptune
 1
 3 2
 2
-0 62 16 2
 0 59 1 2
+0 62 16 2
 1
 end_operator
 begin_operator
@@ -119359,8 +119359,8 @@ succumb anxiety intoxication hamburger uranus mars
 1
 3 2
 2
-0 62 16 2
 0 59 3 0
+0 62 16 2
 1
 end_operator
 begin_operator
@@ -119368,8 +119368,8 @@ succumb anxiety intoxication haroset mars mercury
 1
 3 3
 2
-0 62 16 3
 0 59 0 1
+0 62 16 3
 1
 end_operator
 begin_operator
@@ -119377,8 +119377,8 @@ succumb anxiety intoxication haroset mercury neptune
 1
 3 3
 2
-0 62 16 3
 0 59 1 2
+0 62 16 3
 1
 end_operator
 begin_operator
@@ -119386,8 +119386,8 @@ succumb anxiety intoxication haroset uranus mars
 1
 3 3
 2
-0 62 16 3
 0 59 3 0
+0 62 16 3
 1
 end_operator
 begin_operator
@@ -119395,8 +119395,8 @@ succumb anxiety intoxication muffin mars mercury
 1
 3 4
 2
-0 62 16 4
 0 59 0 1
+0 62 16 4
 1
 end_operator
 begin_operator
@@ -119404,8 +119404,8 @@ succumb anxiety intoxication muffin mercury neptune
 1
 3 4
 2
-0 62 16 4
 0 59 1 2
+0 62 16 4
 1
 end_operator
 begin_operator
@@ -119413,8 +119413,8 @@ succumb anxiety intoxication muffin uranus mars
 1
 3 4
 2
-0 62 16 4
 0 59 3 0
+0 62 16 4
 1
 end_operator
 begin_operator
@@ -119422,8 +119422,8 @@ succumb anxiety intoxication onion mars mercury
 1
 3 5
 2
-0 62 16 5
 0 59 0 1
+0 62 16 5
 1
 end_operator
 begin_operator
@@ -119431,8 +119431,8 @@ succumb anxiety intoxication onion mercury neptune
 1
 3 5
 2
-0 62 16 5
 0 59 1 2
+0 62 16 5
 1
 end_operator
 begin_operator
@@ -119440,8 +119440,8 @@ succumb anxiety intoxication onion uranus mars
 1
 3 5
 2
-0 62 16 5
 0 59 3 0
+0 62 16 5
 1
 end_operator
 begin_operator
@@ -119449,8 +119449,8 @@ succumb anxiety intoxication popover mars mercury
 1
 3 6
 2
-0 62 16 6
 0 59 0 1
+0 62 16 6
 1
 end_operator
 begin_operator
@@ -119458,8 +119458,8 @@ succumb anxiety intoxication popover mercury neptune
 1
 3 6
 2
-0 62 16 6
 0 59 1 2
+0 62 16 6
 1
 end_operator
 begin_operator
@@ -119467,8 +119467,8 @@ succumb anxiety intoxication popover uranus mars
 1
 3 6
 2
-0 62 16 6
 0 59 3 0
+0 62 16 6
 1
 end_operator
 begin_operator
@@ -119476,8 +119476,8 @@ succumb anxiety intoxication potato mars mercury
 1
 3 7
 2
-0 62 16 7
 0 59 0 1
+0 62 16 7
 1
 end_operator
 begin_operator
@@ -119485,8 +119485,8 @@ succumb anxiety intoxication potato mercury neptune
 1
 3 7
 2
-0 62 16 7
 0 59 1 2
+0 62 16 7
 1
 end_operator
 begin_operator
@@ -119494,8 +119494,8 @@ succumb anxiety intoxication potato uranus mars
 1
 3 7
 2
-0 62 16 7
 0 59 3 0
+0 62 16 7
 1
 end_operator
 begin_operator
@@ -119503,8 +119503,8 @@ succumb anxiety intoxication shrimp mars mercury
 1
 3 8
 2
-0 62 16 8
 0 59 0 1
+0 62 16 8
 1
 end_operator
 begin_operator
@@ -119512,8 +119512,8 @@ succumb anxiety intoxication shrimp mercury neptune
 1
 3 8
 2
-0 62 16 8
 0 59 1 2
+0 62 16 8
 1
 end_operator
 begin_operator
@@ -119521,8 +119521,8 @@ succumb anxiety intoxication shrimp uranus mars
 1
 3 8
 2
-0 62 16 8
 0 59 3 0
+0 62 16 8
 1
 end_operator
 begin_operator
@@ -119530,8 +119530,8 @@ succumb anxiety intoxication sweetroll mars mercury
 1
 3 9
 2
-0 62 16 9
 0 59 0 1
+0 62 16 9
 1
 end_operator
 begin_operator
@@ -119539,8 +119539,8 @@ succumb anxiety intoxication sweetroll mercury neptune
 1
 3 9
 2
-0 62 16 9
 0 59 1 2
+0 62 16 9
 1
 end_operator
 begin_operator
@@ -119548,8 +119548,8 @@ succumb anxiety intoxication sweetroll uranus mars
 1
 3 9
 2
-0 62 16 9
 0 59 3 0
+0 62 16 9
 1
 end_operator
 begin_operator
@@ -119557,8 +119557,8 @@ succumb anxiety intoxication tofu mars mercury
 1
 3 10
 2
-0 62 16 10
 0 59 0 1
+0 62 16 10
 1
 end_operator
 begin_operator
@@ -119566,8 +119566,8 @@ succumb anxiety intoxication tofu mercury neptune
 1
 3 10
 2
-0 62 16 10
 0 59 1 2
+0 62 16 10
 1
 end_operator
 begin_operator
@@ -119575,8 +119575,8 @@ succumb anxiety intoxication tofu uranus mars
 1
 3 10
 2
-0 62 16 10
 0 59 3 0
+0 62 16 10
 1
 end_operator
 begin_operator
@@ -119584,8 +119584,8 @@ succumb anxiety intoxication turkey mars mercury
 1
 3 11
 2
-0 62 16 11
 0 59 0 1
+0 62 16 11
 1
 end_operator
 begin_operator
@@ -119593,8 +119593,8 @@ succumb anxiety intoxication turkey mercury neptune
 1
 3 11
 2
-0 62 16 11
 0 59 1 2
+0 62 16 11
 1
 end_operator
 begin_operator
@@ -119602,8 +119602,8 @@ succumb anxiety intoxication turkey uranus mars
 1
 3 11
 2
-0 62 16 11
 0 59 3 0
+0 62 16 11
 1
 end_operator
 begin_operator
@@ -119611,8 +119611,8 @@ succumb anxiety intoxication yogurt mars mercury
 1
 3 12
 2
-0 62 16 12
 0 59 0 1
+0 62 16 12
 1
 end_operator
 begin_operator
@@ -119620,8 +119620,8 @@ succumb anxiety intoxication yogurt mercury neptune
 1
 3 12
 2
-0 62 16 12
 0 59 1 2
+0 62 16 12
 1
 end_operator
 begin_operator
@@ -119629,8 +119629,8 @@ succumb anxiety intoxication yogurt uranus mars
 1
 3 12
 2
-0 62 16 12
 0 59 3 0
+0 62 16 12
 1
 end_operator
 begin_operator
@@ -119638,8 +119638,8 @@ succumb anxiety satisfaction apple mars mercury
 1
 4 0
 2
-0 62 17 0
 0 61 0 1
+0 62 17 0
 1
 end_operator
 begin_operator
@@ -119647,8 +119647,8 @@ succumb anxiety satisfaction apple mercury neptune
 1
 4 0
 2
-0 62 17 0
 0 61 1 2
+0 62 17 0
 1
 end_operator
 begin_operator
@@ -119656,8 +119656,8 @@ succumb anxiety satisfaction apple uranus mars
 1
 4 0
 2
-0 62 17 0
 0 61 3 0
+0 62 17 0
 1
 end_operator
 begin_operator
@@ -119665,8 +119665,8 @@ succumb anxiety satisfaction chicken mars mercury
 1
 4 1
 2
-0 62 17 1
 0 61 0 1
+0 62 17 1
 1
 end_operator
 begin_operator
@@ -119674,8 +119674,8 @@ succumb anxiety satisfaction chicken mercury neptune
 1
 4 1
 2
-0 62 17 1
 0 61 1 2
+0 62 17 1
 1
 end_operator
 begin_operator
@@ -119683,8 +119683,8 @@ succumb anxiety satisfaction chicken uranus mars
 1
 4 1
 2
-0 62 17 1
 0 61 3 0
+0 62 17 1
 1
 end_operator
 begin_operator
@@ -119692,8 +119692,8 @@ succumb anxiety satisfaction hamburger mars mercury
 1
 4 2
 2
-0 62 17 2
 0 61 0 1
+0 62 17 2
 1
 end_operator
 begin_operator
@@ -119701,8 +119701,8 @@ succumb anxiety satisfaction hamburger mercury neptune
 1
 4 2
 2
-0 62 17 2
 0 61 1 2
+0 62 17 2
 1
 end_operator
 begin_operator
@@ -119710,8 +119710,8 @@ succumb anxiety satisfaction hamburger uranus mars
 1
 4 2
 2
-0 62 17 2
 0 61 3 0
+0 62 17 2
 1
 end_operator
 begin_operator
@@ -119719,8 +119719,8 @@ succumb anxiety satisfaction haroset mars mercury
 1
 4 3
 2
-0 62 17 3
 0 61 0 1
+0 62 17 3
 1
 end_operator
 begin_operator
@@ -119728,8 +119728,8 @@ succumb anxiety satisfaction haroset mercury neptune
 1
 4 3
 2
-0 62 17 3
 0 61 1 2
+0 62 17 3
 1
 end_operator
 begin_operator
@@ -119737,8 +119737,8 @@ succumb anxiety satisfaction haroset uranus mars
 1
 4 3
 2
-0 62 17 3
 0 61 3 0
+0 62 17 3
 1
 end_operator
 begin_operator
@@ -119746,8 +119746,8 @@ succumb anxiety satisfaction muffin mars mercury
 1
 4 4
 2
-0 62 17 4
 0 61 0 1
+0 62 17 4
 1
 end_operator
 begin_operator
@@ -119755,8 +119755,8 @@ succumb anxiety satisfaction muffin mercury neptune
 1
 4 4
 2
-0 62 17 4
 0 61 1 2
+0 62 17 4
 1
 end_operator
 begin_operator
@@ -119764,8 +119764,8 @@ succumb anxiety satisfaction muffin uranus mars
 1
 4 4
 2
-0 62 17 4
 0 61 3 0
+0 62 17 4
 1
 end_operator
 begin_operator
@@ -119773,8 +119773,8 @@ succumb anxiety satisfaction onion mars mercury
 1
 4 5
 2
-0 62 17 5
 0 61 0 1
+0 62 17 5
 1
 end_operator
 begin_operator
@@ -119782,8 +119782,8 @@ succumb anxiety satisfaction onion mercury neptune
 1
 4 5
 2
-0 62 17 5
 0 61 1 2
+0 62 17 5
 1
 end_operator
 begin_operator
@@ -119791,8 +119791,8 @@ succumb anxiety satisfaction onion uranus mars
 1
 4 5
 2
-0 62 17 5
 0 61 3 0
+0 62 17 5
 1
 end_operator
 begin_operator
@@ -119800,8 +119800,8 @@ succumb anxiety satisfaction popover mars mercury
 1
 4 6
 2
-0 62 17 6
 0 61 0 1
+0 62 17 6
 1
 end_operator
 begin_operator
@@ -119809,8 +119809,8 @@ succumb anxiety satisfaction popover mercury neptune
 1
 4 6
 2
-0 62 17 6
 0 61 1 2
+0 62 17 6
 1
 end_operator
 begin_operator
@@ -119818,8 +119818,8 @@ succumb anxiety satisfaction popover uranus mars
 1
 4 6
 2
-0 62 17 6
 0 61 3 0
+0 62 17 6
 1
 end_operator
 begin_operator
@@ -119827,8 +119827,8 @@ succumb anxiety satisfaction potato mars mercury
 1
 4 7
 2
-0 62 17 7
 0 61 0 1
+0 62 17 7
 1
 end_operator
 begin_operator
@@ -119836,8 +119836,8 @@ succumb anxiety satisfaction potato mercury neptune
 1
 4 7
 2
-0 62 17 7
 0 61 1 2
+0 62 17 7
 1
 end_operator
 begin_operator
@@ -119845,8 +119845,8 @@ succumb anxiety satisfaction potato uranus mars
 1
 4 7
 2
-0 62 17 7
 0 61 3 0
+0 62 17 7
 1
 end_operator
 begin_operator
@@ -119854,8 +119854,8 @@ succumb anxiety satisfaction shrimp mars mercury
 1
 4 8
 2
-0 62 17 8
 0 61 0 1
+0 62 17 8
 1
 end_operator
 begin_operator
@@ -119863,8 +119863,8 @@ succumb anxiety satisfaction shrimp mercury neptune
 1
 4 8
 2
-0 62 17 8
 0 61 1 2
+0 62 17 8
 1
 end_operator
 begin_operator
@@ -119872,8 +119872,8 @@ succumb anxiety satisfaction shrimp uranus mars
 1
 4 8
 2
-0 62 17 8
 0 61 3 0
+0 62 17 8
 1
 end_operator
 begin_operator
@@ -119881,8 +119881,8 @@ succumb anxiety satisfaction sweetroll mars mercury
 1
 4 9
 2
-0 62 17 9
 0 61 0 1
+0 62 17 9
 1
 end_operator
 begin_operator
@@ -119890,8 +119890,8 @@ succumb anxiety satisfaction sweetroll mercury neptune
 1
 4 9
 2
-0 62 17 9
 0 61 1 2
+0 62 17 9
 1
 end_operator
 begin_operator
@@ -119899,8 +119899,8 @@ succumb anxiety satisfaction sweetroll uranus mars
 1
 4 9
 2
-0 62 17 9
 0 61 3 0
+0 62 17 9
 1
 end_operator
 begin_operator
@@ -119908,8 +119908,8 @@ succumb anxiety satisfaction tofu mars mercury
 1
 4 10
 2
-0 62 17 10
 0 61 0 1
+0 62 17 10
 1
 end_operator
 begin_operator
@@ -119917,8 +119917,8 @@ succumb anxiety satisfaction tofu mercury neptune
 1
 4 10
 2
-0 62 17 10
 0 61 1 2
+0 62 17 10
 1
 end_operator
 begin_operator
@@ -119926,8 +119926,8 @@ succumb anxiety satisfaction tofu uranus mars
 1
 4 10
 2
-0 62 17 10
 0 61 3 0
+0 62 17 10
 1
 end_operator
 begin_operator
@@ -119935,8 +119935,8 @@ succumb anxiety satisfaction turkey mars mercury
 1
 4 11
 2
-0 62 17 11
 0 61 0 1
+0 62 17 11
 1
 end_operator
 begin_operator
@@ -119944,8 +119944,8 @@ succumb anxiety satisfaction turkey mercury neptune
 1
 4 11
 2
-0 62 17 11
 0 61 1 2
+0 62 17 11
 1
 end_operator
 begin_operator
@@ -119953,8 +119953,8 @@ succumb anxiety satisfaction turkey uranus mars
 1
 4 11
 2
-0 62 17 11
 0 61 3 0
+0 62 17 11
 1
 end_operator
 begin_operator
@@ -119962,8 +119962,8 @@ succumb anxiety satisfaction yogurt mars mercury
 1
 4 12
 2
-0 62 17 12
 0 61 0 1
+0 62 17 12
 1
 end_operator
 begin_operator
@@ -119971,8 +119971,8 @@ succumb anxiety satisfaction yogurt mercury neptune
 1
 4 12
 2
-0 62 17 12
 0 61 1 2
+0 62 17 12
 1
 end_operator
 begin_operator
@@ -119980,8 +119980,8 @@ succumb anxiety satisfaction yogurt uranus mars
 1
 4 12
 2
-0 62 17 12
 0 61 3 0
+0 62 17 12
 1
 end_operator
 begin_operator
@@ -167374,8 +167374,8 @@ succumb sciatica achievement apple mars mercury
 1
 0 0
 2
-0 56 13 0
 0 54 0 1
+0 56 13 0
 1
 end_operator
 begin_operator
@@ -167383,8 +167383,8 @@ succumb sciatica achievement apple mercury neptune
 1
 0 0
 2
-0 56 13 0
 0 54 1 2
+0 56 13 0
 1
 end_operator
 begin_operator
@@ -167392,8 +167392,8 @@ succumb sciatica achievement apple uranus mars
 1
 0 0
 2
-0 56 13 0
 0 54 3 0
+0 56 13 0
 1
 end_operator
 begin_operator
@@ -167401,8 +167401,8 @@ succumb sciatica achievement chicken mars mercury
 1
 0 1
 2
-0 56 13 1
 0 54 0 1
+0 56 13 1
 1
 end_operator
 begin_operator
@@ -167410,8 +167410,8 @@ succumb sciatica achievement chicken mercury neptune
 1
 0 1
 2
-0 56 13 1
 0 54 1 2
+0 56 13 1
 1
 end_operator
 begin_operator
@@ -167419,8 +167419,8 @@ succumb sciatica achievement chicken uranus mars
 1
 0 1
 2
-0 56 13 1
 0 54 3 0
+0 56 13 1
 1
 end_operator
 begin_operator
@@ -167428,8 +167428,8 @@ succumb sciatica achievement hamburger mars mercury
 1
 0 2
 2
-0 56 13 2
 0 54 0 1
+0 56 13 2
 1
 end_operator
 begin_operator
@@ -167437,8 +167437,8 @@ succumb sciatica achievement hamburger mercury neptune
 1
 0 2
 2
-0 56 13 2
 0 54 1 2
+0 56 13 2
 1
 end_operator
 begin_operator
@@ -167446,8 +167446,8 @@ succumb sciatica achievement hamburger uranus mars
 1
 0 2
 2
-0 56 13 2
 0 54 3 0
+0 56 13 2
 1
 end_operator
 begin_operator
@@ -167455,8 +167455,8 @@ succumb sciatica achievement haroset mars mercury
 1
 0 3
 2
-0 56 13 3
 0 54 0 1
+0 56 13 3
 1
 end_operator
 begin_operator
@@ -167464,8 +167464,8 @@ succumb sciatica achievement haroset mercury neptune
 1
 0 3
 2
-0 56 13 3
 0 54 1 2
+0 56 13 3
 1
 end_operator
 begin_operator
@@ -167473,8 +167473,8 @@ succumb sciatica achievement haroset uranus mars
 1
 0 3
 2
-0 56 13 3
 0 54 3 0
+0 56 13 3
 1
 end_operator
 begin_operator
@@ -167482,8 +167482,8 @@ succumb sciatica achievement muffin mars mercury
 1
 0 4
 2
-0 56 13 4
 0 54 0 1
+0 56 13 4
 1
 end_operator
 begin_operator
@@ -167491,8 +167491,8 @@ succumb sciatica achievement muffin mercury neptune
 1
 0 4
 2
-0 56 13 4
 0 54 1 2
+0 56 13 4
 1
 end_operator
 begin_operator
@@ -167500,8 +167500,8 @@ succumb sciatica achievement muffin uranus mars
 1
 0 4
 2
-0 56 13 4
 0 54 3 0
+0 56 13 4
 1
 end_operator
 begin_operator
@@ -167509,8 +167509,8 @@ succumb sciatica achievement onion mars mercury
 1
 0 5
 2
-0 56 13 5
 0 54 0 1
+0 56 13 5
 1
 end_operator
 begin_operator
@@ -167518,8 +167518,8 @@ succumb sciatica achievement onion mercury neptune
 1
 0 5
 2
-0 56 13 5
 0 54 1 2
+0 56 13 5
 1
 end_operator
 begin_operator
@@ -167527,8 +167527,8 @@ succumb sciatica achievement onion uranus mars
 1
 0 5
 2
-0 56 13 5
 0 54 3 0
+0 56 13 5
 1
 end_operator
 begin_operator
@@ -167536,8 +167536,8 @@ succumb sciatica achievement popover mars mercury
 1
 0 6
 2
-0 56 13 6
 0 54 0 1
+0 56 13 6
 1
 end_operator
 begin_operator
@@ -167545,8 +167545,8 @@ succumb sciatica achievement popover mercury neptune
 1
 0 6
 2
-0 56 13 6
 0 54 1 2
+0 56 13 6
 1
 end_operator
 begin_operator
@@ -167554,8 +167554,8 @@ succumb sciatica achievement popover uranus mars
 1
 0 6
 2
-0 56 13 6
 0 54 3 0
+0 56 13 6
 1
 end_operator
 begin_operator
@@ -167563,8 +167563,8 @@ succumb sciatica achievement potato mars mercury
 1
 0 7
 2
-0 56 13 7
 0 54 0 1
+0 56 13 7
 1
 end_operator
 begin_operator
@@ -167572,8 +167572,8 @@ succumb sciatica achievement potato mercury neptune
 1
 0 7
 2
-0 56 13 7
 0 54 1 2
+0 56 13 7
 1
 end_operator
 begin_operator
@@ -167581,8 +167581,8 @@ succumb sciatica achievement potato uranus mars
 1
 0 7
 2
-0 56 13 7
 0 54 3 0
+0 56 13 7
 1
 end_operator
 begin_operator
@@ -167590,8 +167590,8 @@ succumb sciatica achievement shrimp mars mercury
 1
 0 8
 2
-0 56 13 8
 0 54 0 1
+0 56 13 8
 1
 end_operator
 begin_operator
@@ -167599,8 +167599,8 @@ succumb sciatica achievement shrimp mercury neptune
 1
 0 8
 2
-0 56 13 8
 0 54 1 2
+0 56 13 8
 1
 end_operator
 begin_operator
@@ -167608,8 +167608,8 @@ succumb sciatica achievement shrimp uranus mars
 1
 0 8
 2
-0 56 13 8
 0 54 3 0
+0 56 13 8
 1
 end_operator
 begin_operator
@@ -167617,8 +167617,8 @@ succumb sciatica achievement sweetroll mars mercury
 1
 0 9
 2
-0 56 13 9
 0 54 0 1
+0 56 13 9
 1
 end_operator
 begin_operator
@@ -167626,8 +167626,8 @@ succumb sciatica achievement sweetroll mercury neptune
 1
 0 9
 2
-0 56 13 9
 0 54 1 2
+0 56 13 9
 1
 end_operator
 begin_operator
@@ -167635,8 +167635,8 @@ succumb sciatica achievement sweetroll uranus mars
 1
 0 9
 2
-0 56 13 9
 0 54 3 0
+0 56 13 9
 1
 end_operator
 begin_operator
@@ -167644,8 +167644,8 @@ succumb sciatica achievement tofu mars mercury
 1
 0 10
 2
-0 56 13 10
 0 54 0 1
+0 56 13 10
 1
 end_operator
 begin_operator
@@ -167653,8 +167653,8 @@ succumb sciatica achievement tofu mercury neptune
 1
 0 10
 2
-0 56 13 10
 0 54 1 2
+0 56 13 10
 1
 end_operator
 begin_operator
@@ -167662,8 +167662,8 @@ succumb sciatica achievement tofu uranus mars
 1
 0 10
 2
-0 56 13 10
 0 54 3 0
+0 56 13 10
 1
 end_operator
 begin_operator
@@ -167671,8 +167671,8 @@ succumb sciatica achievement turkey mars mercury
 1
 0 11
 2
-0 56 13 11
 0 54 0 1
+0 56 13 11
 1
 end_operator
 begin_operator
@@ -167680,8 +167680,8 @@ succumb sciatica achievement turkey mercury neptune
 1
 0 11
 2
-0 56 13 11
 0 54 1 2
+0 56 13 11
 1
 end_operator
 begin_operator
@@ -167689,8 +167689,8 @@ succumb sciatica achievement turkey uranus mars
 1
 0 11
 2
-0 56 13 11
 0 54 3 0
+0 56 13 11
 1
 end_operator
 begin_operator
@@ -167698,8 +167698,8 @@ succumb sciatica achievement yogurt mars mercury
 1
 0 12
 2
-0 56 13 12
 0 54 0 1
+0 56 13 12
 1
 end_operator
 begin_operator
@@ -167707,8 +167707,8 @@ succumb sciatica achievement yogurt mercury neptune
 1
 0 12
 2
-0 56 13 12
 0 54 1 2
+0 56 13 12
 1
 end_operator
 begin_operator
@@ -167716,8 +167716,8 @@ succumb sciatica achievement yogurt uranus mars
 1
 0 12
 2
-0 56 13 12
 0 54 3 0
+0 56 13 12
 1
 end_operator
 begin_operator
@@ -167725,8 +167725,8 @@ succumb sciatica aesthetics apple mars mercury
 1
 1 0
 2
-0 56 14 0
 0 55 0 1
+0 56 14 0
 1
 end_operator
 begin_operator
@@ -167734,8 +167734,8 @@ succumb sciatica aesthetics apple mercury neptune
 1
 1 0
 2
-0 56 14 0
 0 55 1 2
+0 56 14 0
 1
 end_operator
 begin_operator
@@ -167743,8 +167743,8 @@ succumb sciatica aesthetics apple uranus mars
 1
 1 0
 2
-0 56 14 0
 0 55 3 0
+0 56 14 0
 1
 end_operator
 begin_operator
@@ -167752,8 +167752,8 @@ succumb sciatica aesthetics chicken mars mercury
 1
 1 1
 2
-0 56 14 1
 0 55 0 1
+0 56 14 1
 1
 end_operator
 begin_operator
@@ -167761,8 +167761,8 @@ succumb sciatica aesthetics chicken mercury neptune
 1
 1 1
 2
-0 56 14 1
 0 55 1 2
+0 56 14 1
 1
 end_operator
 begin_operator
@@ -167770,8 +167770,8 @@ succumb sciatica aesthetics chicken uranus mars
 1
 1 1
 2
-0 56 14 1
 0 55 3 0
+0 56 14 1
 1
 end_operator
 begin_operator
@@ -167779,8 +167779,8 @@ succumb sciatica aesthetics hamburger mars mercury
 1
 1 2
 2
-0 56 14 2
 0 55 0 1
+0 56 14 2
 1
 end_operator
 begin_operator
@@ -167788,8 +167788,8 @@ succumb sciatica aesthetics hamburger mercury neptune
 1
 1 2
 2
-0 56 14 2
 0 55 1 2
+0 56 14 2
 1
 end_operator
 begin_operator
@@ -167797,8 +167797,8 @@ succumb sciatica aesthetics hamburger uranus mars
 1
 1 2
 2
-0 56 14 2
 0 55 3 0
+0 56 14 2
 1
 end_operator
 begin_operator
@@ -167806,8 +167806,8 @@ succumb sciatica aesthetics haroset mars mercury
 1
 1 3
 2
-0 56 14 3
 0 55 0 1
+0 56 14 3
 1
 end_operator
 begin_operator
@@ -167815,8 +167815,8 @@ succumb sciatica aesthetics haroset mercury neptune
 1
 1 3
 2
-0 56 14 3
 0 55 1 2
+0 56 14 3
 1
 end_operator
 begin_operator
@@ -167824,8 +167824,8 @@ succumb sciatica aesthetics haroset uranus mars
 1
 1 3
 2
-0 56 14 3
 0 55 3 0
+0 56 14 3
 1
 end_operator
 begin_operator
@@ -167833,8 +167833,8 @@ succumb sciatica aesthetics muffin mars mercury
 1
 1 4
 2
-0 56 14 4
 0 55 0 1
+0 56 14 4
 1
 end_operator
 begin_operator
@@ -167842,8 +167842,8 @@ succumb sciatica aesthetics muffin mercury neptune
 1
 1 4
 2
-0 56 14 4
 0 55 1 2
+0 56 14 4
 1
 end_operator
 begin_operator
@@ -167851,8 +167851,8 @@ succumb sciatica aesthetics muffin uranus mars
 1
 1 4
 2
-0 56 14 4
 0 55 3 0
+0 56 14 4
 1
 end_operator
 begin_operator
@@ -167860,8 +167860,8 @@ succumb sciatica aesthetics onion mars mercury
 1
 1 5
 2
-0 56 14 5
 0 55 0 1
+0 56 14 5
 1
 end_operator
 begin_operator
@@ -167869,8 +167869,8 @@ succumb sciatica aesthetics onion mercury neptune
 1
 1 5
 2
-0 56 14 5
 0 55 1 2
+0 56 14 5
 1
 end_operator
 begin_operator
@@ -167878,8 +167878,8 @@ succumb sciatica aesthetics onion uranus mars
 1
 1 5
 2
-0 56 14 5
 0 55 3 0
+0 56 14 5
 1
 end_operator
 begin_operator
@@ -167887,8 +167887,8 @@ succumb sciatica aesthetics popover mars mercury
 1
 1 6
 2
-0 56 14 6
 0 55 0 1
+0 56 14 6
 1
 end_operator
 begin_operator
@@ -167896,8 +167896,8 @@ succumb sciatica aesthetics popover mercury neptune
 1
 1 6
 2
-0 56 14 6
 0 55 1 2
+0 56 14 6
 1
 end_operator
 begin_operator
@@ -167905,8 +167905,8 @@ succumb sciatica aesthetics popover uranus mars
 1
 1 6
 2
-0 56 14 6
 0 55 3 0
+0 56 14 6
 1
 end_operator
 begin_operator
@@ -167914,8 +167914,8 @@ succumb sciatica aesthetics potato mars mercury
 1
 1 7
 2
-0 56 14 7
 0 55 0 1
+0 56 14 7
 1
 end_operator
 begin_operator
@@ -167923,8 +167923,8 @@ succumb sciatica aesthetics potato mercury neptune
 1
 1 7
 2
-0 56 14 7
 0 55 1 2
+0 56 14 7
 1
 end_operator
 begin_operator
@@ -167932,8 +167932,8 @@ succumb sciatica aesthetics potato uranus mars
 1
 1 7
 2
-0 56 14 7
 0 55 3 0
+0 56 14 7
 1
 end_operator
 begin_operator
@@ -167941,8 +167941,8 @@ succumb sciatica aesthetics shrimp mars mercury
 1
 1 8
 2
-0 56 14 8
 0 55 0 1
+0 56 14 8
 1
 end_operator
 begin_operator
@@ -167950,8 +167950,8 @@ succumb sciatica aesthetics shrimp mercury neptune
 1
 1 8
 2
-0 56 14 8
 0 55 1 2
+0 56 14 8
 1
 end_operator
 begin_operator
@@ -167959,8 +167959,8 @@ succumb sciatica aesthetics shrimp uranus mars
 1
 1 8
 2
-0 56 14 8
 0 55 3 0
+0 56 14 8
 1
 end_operator
 begin_operator
@@ -167968,8 +167968,8 @@ succumb sciatica aesthetics sweetroll mars mercury
 1
 1 9
 2
-0 56 14 9
 0 55 0 1
+0 56 14 9
 1
 end_operator
 begin_operator
@@ -167977,8 +167977,8 @@ succumb sciatica aesthetics sweetroll mercury neptune
 1
 1 9
 2
-0 56 14 9
 0 55 1 2
+0 56 14 9
 1
 end_operator
 begin_operator
@@ -167986,8 +167986,8 @@ succumb sciatica aesthetics sweetroll uranus mars
 1
 1 9
 2
-0 56 14 9
 0 55 3 0
+0 56 14 9
 1
 end_operator
 begin_operator
@@ -167995,8 +167995,8 @@ succumb sciatica aesthetics tofu mars mercury
 1
 1 10
 2
-0 56 14 10
 0 55 0 1
+0 56 14 10
 1
 end_operator
 begin_operator
@@ -168004,8 +168004,8 @@ succumb sciatica aesthetics tofu mercury neptune
 1
 1 10
 2
-0 56 14 10
 0 55 1 2
+0 56 14 10
 1
 end_operator
 begin_operator
@@ -168013,8 +168013,8 @@ succumb sciatica aesthetics tofu uranus mars
 1
 1 10
 2
-0 56 14 10
 0 55 3 0
+0 56 14 10
 1
 end_operator
 begin_operator
@@ -168022,8 +168022,8 @@ succumb sciatica aesthetics turkey mars mercury
 1
 1 11
 2
-0 56 14 11
 0 55 0 1
+0 56 14 11
 1
 end_operator
 begin_operator
@@ -168031,8 +168031,8 @@ succumb sciatica aesthetics turkey mercury neptune
 1
 1 11
 2
-0 56 14 11
 0 55 1 2
+0 56 14 11
 1
 end_operator
 begin_operator
@@ -168040,8 +168040,8 @@ succumb sciatica aesthetics turkey uranus mars
 1
 1 11
 2
-0 56 14 11
 0 55 3 0
+0 56 14 11
 1
 end_operator
 begin_operator
@@ -168049,8 +168049,8 @@ succumb sciatica aesthetics yogurt mars mercury
 1
 1 12
 2
-0 56 14 12
 0 55 0 1
+0 56 14 12
 1
 end_operator
 begin_operator
@@ -168058,8 +168058,8 @@ succumb sciatica aesthetics yogurt mercury neptune
 1
 1 12
 2
-0 56 14 12
 0 55 1 2
+0 56 14 12
 1
 end_operator
 begin_operator
@@ -168067,8 +168067,8 @@ succumb sciatica aesthetics yogurt uranus mars
 1
 1 12
 2
-0 56 14 12
 0 55 3 0
+0 56 14 12
 1
 end_operator
 begin_operator
@@ -169129,8 +169129,8 @@ succumb sciatica-13 achievement apple mars mercury
 1
 0 0
 2
-0 57 13 0
 0 54 0 1
+0 57 13 0
 1
 end_operator
 begin_operator
@@ -169138,8 +169138,8 @@ succumb sciatica-13 achievement apple mercury neptune
 1
 0 0
 2
-0 57 13 0
 0 54 1 2
+0 57 13 0
 1
 end_operator
 begin_operator
@@ -169147,8 +169147,8 @@ succumb sciatica-13 achievement apple uranus mars
 1
 0 0
 2
-0 57 13 0
 0 54 3 0
+0 57 13 0
 1
 end_operator
 begin_operator
@@ -169156,8 +169156,8 @@ succumb sciatica-13 achievement chicken mars mercury
 1
 0 1
 2
-0 57 13 1
 0 54 0 1
+0 57 13 1
 1
 end_operator
 begin_operator
@@ -169165,8 +169165,8 @@ succumb sciatica-13 achievement chicken mercury neptune
 1
 0 1
 2
-0 57 13 1
 0 54 1 2
+0 57 13 1
 1
 end_operator
 begin_operator
@@ -169174,8 +169174,8 @@ succumb sciatica-13 achievement chicken uranus mars
 1
 0 1
 2
-0 57 13 1
 0 54 3 0
+0 57 13 1
 1
 end_operator
 begin_operator
@@ -169183,8 +169183,8 @@ succumb sciatica-13 achievement hamburger mars mercury
 1
 0 2
 2
-0 57 13 2
 0 54 0 1
+0 57 13 2
 1
 end_operator
 begin_operator
@@ -169192,8 +169192,8 @@ succumb sciatica-13 achievement hamburger mercury neptune
 1
 0 2
 2
-0 57 13 2
 0 54 1 2
+0 57 13 2
 1
 end_operator
 begin_operator
@@ -169201,8 +169201,8 @@ succumb sciatica-13 achievement hamburger uranus mars
 1
 0 2
 2
-0 57 13 2
 0 54 3 0
+0 57 13 2
 1
 end_operator
 begin_operator
@@ -169210,8 +169210,8 @@ succumb sciatica-13 achievement haroset mars mercury
 1
 0 3
 2
-0 57 13 3
 0 54 0 1
+0 57 13 3
 1
 end_operator
 begin_operator
@@ -169219,8 +169219,8 @@ succumb sciatica-13 achievement haroset mercury neptune
 1
 0 3
 2
-0 57 13 3
 0 54 1 2
+0 57 13 3
 1
 end_operator
 begin_operator
@@ -169228,8 +169228,8 @@ succumb sciatica-13 achievement haroset uranus mars
 1
 0 3
 2
-0 57 13 3
 0 54 3 0
+0 57 13 3
 1
 end_operator
 begin_operator
@@ -169237,8 +169237,8 @@ succumb sciatica-13 achievement muffin mars mercury
 1
 0 4
 2
-0 57 13 4
 0 54 0 1
+0 57 13 4
 1
 end_operator
 begin_operator
@@ -169246,8 +169246,8 @@ succumb sciatica-13 achievement muffin mercury neptune
 1
 0 4
 2
-0 57 13 4
 0 54 1 2
+0 57 13 4
 1
 end_operator
 begin_operator
@@ -169255,8 +169255,8 @@ succumb sciatica-13 achievement muffin uranus mars
 1
 0 4
 2
-0 57 13 4
 0 54 3 0
+0 57 13 4
 1
 end_operator
 begin_operator
@@ -169264,8 +169264,8 @@ succumb sciatica-13 achievement onion mars mercury
 1
 0 5
 2
-0 57 13 5
 0 54 0 1
+0 57 13 5
 1
 end_operator
 begin_operator
@@ -169273,8 +169273,8 @@ succumb sciatica-13 achievement onion mercury neptune
 1
 0 5
 2
-0 57 13 5
 0 54 1 2
+0 57 13 5
 1
 end_operator
 begin_operator
@@ -169282,8 +169282,8 @@ succumb sciatica-13 achievement onion uranus mars
 1
 0 5
 2
-0 57 13 5
 0 54 3 0
+0 57 13 5
 1
 end_operator
 begin_operator
@@ -169291,8 +169291,8 @@ succumb sciatica-13 achievement popover mars mercury
 1
 0 6
 2
-0 57 13 6
 0 54 0 1
+0 57 13 6
 1
 end_operator
 begin_operator
@@ -169300,8 +169300,8 @@ succumb sciatica-13 achievement popover mercury neptune
 1
 0 6
 2
-0 57 13 6
 0 54 1 2
+0 57 13 6
 1
 end_operator
 begin_operator
@@ -169309,8 +169309,8 @@ succumb sciatica-13 achievement popover uranus mars
 1
 0 6
 2
-0 57 13 6
 0 54 3 0
+0 57 13 6
 1
 end_operator
 begin_operator
@@ -169318,8 +169318,8 @@ succumb sciatica-13 achievement potato mars mercury
 1
 0 7
 2
-0 57 13 7
 0 54 0 1
+0 57 13 7
 1
 end_operator
 begin_operator
@@ -169327,8 +169327,8 @@ succumb sciatica-13 achievement potato mercury neptune
 1
 0 7
 2
-0 57 13 7
 0 54 1 2
+0 57 13 7
 1
 end_operator
 begin_operator
@@ -169336,8 +169336,8 @@ succumb sciatica-13 achievement potato uranus mars
 1
 0 7
 2
-0 57 13 7
 0 54 3 0
+0 57 13 7
 1
 end_operator
 begin_operator
@@ -169345,8 +169345,8 @@ succumb sciatica-13 achievement shrimp mars mercury
 1
 0 8
 2
-0 57 13 8
 0 54 0 1
+0 57 13 8
 1
 end_operator
 begin_operator
@@ -169354,8 +169354,8 @@ succumb sciatica-13 achievement shrimp mercury neptune
 1
 0 8
 2
-0 57 13 8
 0 54 1 2
+0 57 13 8
 1
 end_operator
 begin_operator
@@ -169363,8 +169363,8 @@ succumb sciatica-13 achievement shrimp uranus mars
 1
 0 8
 2
-0 57 13 8
 0 54 3 0
+0 57 13 8
 1
 end_operator
 begin_operator
@@ -169372,8 +169372,8 @@ succumb sciatica-13 achievement sweetroll mars mercury
 1
 0 9
 2
-0 57 13 9
 0 54 0 1
+0 57 13 9
 1
 end_operator
 begin_operator
@@ -169381,8 +169381,8 @@ succumb sciatica-13 achievement sweetroll mercury neptune
 1
 0 9
 2
-0 57 13 9
 0 54 1 2
+0 57 13 9
 1
 end_operator
 begin_operator
@@ -169390,8 +169390,8 @@ succumb sciatica-13 achievement sweetroll uranus mars
 1
 0 9
 2
-0 57 13 9
 0 54 3 0
+0 57 13 9
 1
 end_operator
 begin_operator
@@ -169399,8 +169399,8 @@ succumb sciatica-13 achievement tofu mars mercury
 1
 0 10
 2
-0 57 13 10
 0 54 0 1
+0 57 13 10
 1
 end_operator
 begin_operator
@@ -169408,8 +169408,8 @@ succumb sciatica-13 achievement tofu mercury neptune
 1
 0 10
 2
-0 57 13 10
 0 54 1 2
+0 57 13 10
 1
 end_operator
 begin_operator
@@ -169417,8 +169417,8 @@ succumb sciatica-13 achievement tofu uranus mars
 1
 0 10
 2
-0 57 13 10
 0 54 3 0
+0 57 13 10
 1
 end_operator
 begin_operator
@@ -169426,8 +169426,8 @@ succumb sciatica-13 achievement turkey mars mercury
 1
 0 11
 2
-0 57 13 11
 0 54 0 1
+0 57 13 11
 1
 end_operator
 begin_operator
@@ -169435,8 +169435,8 @@ succumb sciatica-13 achievement turkey mercury neptune
 1
 0 11
 2
-0 57 13 11
 0 54 1 2
+0 57 13 11
 1
 end_operator
 begin_operator
@@ -169444,8 +169444,8 @@ succumb sciatica-13 achievement turkey uranus mars
 1
 0 11
 2
-0 57 13 11
 0 54 3 0
+0 57 13 11
 1
 end_operator
 begin_operator
@@ -169453,8 +169453,8 @@ succumb sciatica-13 achievement yogurt mars mercury
 1
 0 12
 2
-0 57 13 12
 0 54 0 1
+0 57 13 12
 1
 end_operator
 begin_operator
@@ -169462,8 +169462,8 @@ succumb sciatica-13 achievement yogurt mercury neptune
 1
 0 12
 2
-0 57 13 12
 0 54 1 2
+0 57 13 12
 1
 end_operator
 begin_operator
@@ -169471,8 +169471,8 @@ succumb sciatica-13 achievement yogurt uranus mars
 1
 0 12
 2
-0 57 13 12
 0 54 3 0
+0 57 13 12
 1
 end_operator
 begin_operator
@@ -169480,8 +169480,8 @@ succumb sciatica-13 aesthetics apple mars mercury
 1
 1 0
 2
-0 57 14 0
 0 55 0 1
+0 57 14 0
 1
 end_operator
 begin_operator
@@ -169489,8 +169489,8 @@ succumb sciatica-13 aesthetics apple mercury neptune
 1
 1 0
 2
-0 57 14 0
 0 55 1 2
+0 57 14 0
 1
 end_operator
 begin_operator
@@ -169498,8 +169498,8 @@ succumb sciatica-13 aesthetics apple uranus mars
 1
 1 0
 2
-0 57 14 0
 0 55 3 0
+0 57 14 0
 1
 end_operator
 begin_operator
@@ -169507,8 +169507,8 @@ succumb sciatica-13 aesthetics chicken mars mercury
 1
 1 1
 2
-0 57 14 1
 0 55 0 1
+0 57 14 1
 1
 end_operator
 begin_operator
@@ -169516,8 +169516,8 @@ succumb sciatica-13 aesthetics chicken mercury neptune
 1
 1 1
 2
-0 57 14 1
 0 55 1 2
+0 57 14 1
 1
 end_operator
 begin_operator
@@ -169525,8 +169525,8 @@ succumb sciatica-13 aesthetics chicken uranus mars
 1
 1 1
 2
-0 57 14 1
 0 55 3 0
+0 57 14 1
 1
 end_operator
 begin_operator
@@ -169534,8 +169534,8 @@ succumb sciatica-13 aesthetics hamburger mars mercury
 1
 1 2
 2
-0 57 14 2
 0 55 0 1
+0 57 14 2
 1
 end_operator
 begin_operator
@@ -169543,8 +169543,8 @@ succumb sciatica-13 aesthetics hamburger mercury neptune
 1
 1 2
 2
-0 57 14 2
 0 55 1 2
+0 57 14 2
 1
 end_operator
 begin_operator
@@ -169552,8 +169552,8 @@ succumb sciatica-13 aesthetics hamburger uranus mars
 1
 1 2
 2
-0 57 14 2
 0 55 3 0
+0 57 14 2
 1
 end_operator
 begin_operator
@@ -169561,8 +169561,8 @@ succumb sciatica-13 aesthetics haroset mars mercury
 1
 1 3
 2
-0 57 14 3
 0 55 0 1
+0 57 14 3
 1
 end_operator
 begin_operator
@@ -169570,8 +169570,8 @@ succumb sciatica-13 aesthetics haroset mercury neptune
 1
 1 3
 2
-0 57 14 3
 0 55 1 2
+0 57 14 3
 1
 end_operator
 begin_operator
@@ -169579,8 +169579,8 @@ succumb sciatica-13 aesthetics haroset uranus mars
 1
 1 3
 2
-0 57 14 3
 0 55 3 0
+0 57 14 3
 1
 end_operator
 begin_operator
@@ -169588,8 +169588,8 @@ succumb sciatica-13 aesthetics muffin mars mercury
 1
 1 4
 2
-0 57 14 4
 0 55 0 1
+0 57 14 4
 1
 end_operator
 begin_operator
@@ -169597,8 +169597,8 @@ succumb sciatica-13 aesthetics muffin mercury neptune
 1
 1 4
 2
-0 57 14 4
 0 55 1 2
+0 57 14 4
 1
 end_operator
 begin_operator
@@ -169606,8 +169606,8 @@ succumb sciatica-13 aesthetics muffin uranus mars
 1
 1 4
 2
-0 57 14 4
 0 55 3 0
+0 57 14 4
 1
 end_operator
 begin_operator
@@ -169615,8 +169615,8 @@ succumb sciatica-13 aesthetics onion mars mercury
 1
 1 5
 2
-0 57 14 5
 0 55 0 1
+0 57 14 5
 1
 end_operator
 begin_operator
@@ -169624,8 +169624,8 @@ succumb sciatica-13 aesthetics onion mercury neptune
 1
 1 5
 2
-0 57 14 5
 0 55 1 2
+0 57 14 5
 1
 end_operator
 begin_operator
@@ -169633,8 +169633,8 @@ succumb sciatica-13 aesthetics onion uranus mars
 1
 1 5
 2
-0 57 14 5
 0 55 3 0
+0 57 14 5
 1
 end_operator
 begin_operator
@@ -169642,8 +169642,8 @@ succumb sciatica-13 aesthetics popover mars mercury
 1
 1 6
 2
-0 57 14 6
 0 55 0 1
+0 57 14 6
 1
 end_operator
 begin_operator
@@ -169651,8 +169651,8 @@ succumb sciatica-13 aesthetics popover mercury neptune
 1
 1 6
 2
-0 57 14 6
 0 55 1 2
+0 57 14 6
 1
 end_operator
 begin_operator
@@ -169660,8 +169660,8 @@ succumb sciatica-13 aesthetics popover uranus mars
 1
 1 6
 2
-0 57 14 6
 0 55 3 0
+0 57 14 6
 1
 end_operator
 begin_operator
@@ -169669,8 +169669,8 @@ succumb sciatica-13 aesthetics potato mars mercury
 1
 1 7
 2
-0 57 14 7
 0 55 0 1
+0 57 14 7
 1
 end_operator
 begin_operator
@@ -169678,8 +169678,8 @@ succumb sciatica-13 aesthetics potato mercury neptune
 1
 1 7
 2
-0 57 14 7
 0 55 1 2
+0 57 14 7
 1
 end_operator
 begin_operator
@@ -169687,8 +169687,8 @@ succumb sciatica-13 aesthetics potato uranus mars
 1
 1 7
 2
-0 57 14 7
 0 55 3 0
+0 57 14 7
 1
 end_operator
 begin_operator
@@ -169696,8 +169696,8 @@ succumb sciatica-13 aesthetics shrimp mars mercury
 1
 1 8
 2
-0 57 14 8
 0 55 0 1
+0 57 14 8
 1
 end_operator
 begin_operator
@@ -169705,8 +169705,8 @@ succumb sciatica-13 aesthetics shrimp mercury neptune
 1
 1 8
 2
-0 57 14 8
 0 55 1 2
+0 57 14 8
 1
 end_operator
 begin_operator
@@ -169714,8 +169714,8 @@ succumb sciatica-13 aesthetics shrimp uranus mars
 1
 1 8
 2
-0 57 14 8
 0 55 3 0
+0 57 14 8
 1
 end_operator
 begin_operator
@@ -169723,8 +169723,8 @@ succumb sciatica-13 aesthetics sweetroll mars mercury
 1
 1 9
 2
-0 57 14 9
 0 55 0 1
+0 57 14 9
 1
 end_operator
 begin_operator
@@ -169732,8 +169732,8 @@ succumb sciatica-13 aesthetics sweetroll mercury neptune
 1
 1 9
 2
-0 57 14 9
 0 55 1 2
+0 57 14 9
 1
 end_operator
 begin_operator
@@ -169741,8 +169741,8 @@ succumb sciatica-13 aesthetics sweetroll uranus mars
 1
 1 9
 2
-0 57 14 9
 0 55 3 0
+0 57 14 9
 1
 end_operator
 begin_operator
@@ -169750,8 +169750,8 @@ succumb sciatica-13 aesthetics tofu mars mercury
 1
 1 10
 2
-0 57 14 10
 0 55 0 1
+0 57 14 10
 1
 end_operator
 begin_operator
@@ -169759,8 +169759,8 @@ succumb sciatica-13 aesthetics tofu mercury neptune
 1
 1 10
 2
-0 57 14 10
 0 55 1 2
+0 57 14 10
 1
 end_operator
 begin_operator
@@ -169768,8 +169768,8 @@ succumb sciatica-13 aesthetics tofu uranus mars
 1
 1 10
 2
-0 57 14 10
 0 55 3 0
+0 57 14 10
 1
 end_operator
 begin_operator
@@ -169777,8 +169777,8 @@ succumb sciatica-13 aesthetics turkey mars mercury
 1
 1 11
 2
-0 57 14 11
 0 55 0 1
+0 57 14 11
 1
 end_operator
 begin_operator
@@ -169786,8 +169786,8 @@ succumb sciatica-13 aesthetics turkey mercury neptune
 1
 1 11
 2
-0 57 14 11
 0 55 1 2
+0 57 14 11
 1
 end_operator
 begin_operator
@@ -169795,8 +169795,8 @@ succumb sciatica-13 aesthetics turkey uranus mars
 1
 1 11
 2
-0 57 14 11
 0 55 3 0
+0 57 14 11
 1
 end_operator
 begin_operator
@@ -169804,8 +169804,8 @@ succumb sciatica-13 aesthetics yogurt mars mercury
 1
 1 12
 2
-0 57 14 12
 0 55 0 1
+0 57 14 12
 1
 end_operator
 begin_operator
@@ -169813,8 +169813,8 @@ succumb sciatica-13 aesthetics yogurt mercury neptune
 1
 1 12
 2
-0 57 14 12
 0 55 1 2
+0 57 14 12
 1
 end_operator
 begin_operator
@@ -169822,8 +169822,8 @@ succumb sciatica-13 aesthetics yogurt uranus mars
 1
 1 12
 2
-0 57 14 12
 0 55 3 0
+0 57 14 12
 1
 end_operator
 begin_operator
@@ -170884,8 +170884,8 @@ succumb sciatica-9 achievement apple mars mercury
 1
 0 0
 2
-0 60 13 0
 0 54 0 1
+0 60 13 0
 1
 end_operator
 begin_operator
@@ -170893,8 +170893,8 @@ succumb sciatica-9 achievement apple mercury neptune
 1
 0 0
 2
-0 60 13 0
 0 54 1 2
+0 60 13 0
 1
 end_operator
 begin_operator
@@ -170902,8 +170902,8 @@ succumb sciatica-9 achievement apple uranus mars
 1
 0 0
 2
-0 60 13 0
 0 54 3 0
+0 60 13 0
 1
 end_operator
 begin_operator
@@ -170911,8 +170911,8 @@ succumb sciatica-9 achievement chicken mars mercury
 1
 0 1
 2
-0 60 13 1
 0 54 0 1
+0 60 13 1
 1
 end_operator
 begin_operator
@@ -170920,8 +170920,8 @@ succumb sciatica-9 achievement chicken mercury neptune
 1
 0 1
 2
-0 60 13 1
 0 54 1 2
+0 60 13 1
 1
 end_operator
 begin_operator
@@ -170929,8 +170929,8 @@ succumb sciatica-9 achievement chicken uranus mars
 1
 0 1
 2
-0 60 13 1
 0 54 3 0
+0 60 13 1
 1
 end_operator
 begin_operator
@@ -170938,8 +170938,8 @@ succumb sciatica-9 achievement hamburger mars mercury
 1
 0 2
 2
-0 60 13 2
 0 54 0 1
+0 60 13 2
 1
 end_operator
 begin_operator
@@ -170947,8 +170947,8 @@ succumb sciatica-9 achievement hamburger mercury neptune
 1
 0 2
 2
-0 60 13 2
 0 54 1 2
+0 60 13 2
 1
 end_operator
 begin_operator
@@ -170956,8 +170956,8 @@ succumb sciatica-9 achievement hamburger uranus mars
 1
 0 2
 2
-0 60 13 2
 0 54 3 0
+0 60 13 2
 1
 end_operator
 begin_operator
@@ -170965,8 +170965,8 @@ succumb sciatica-9 achievement haroset mars mercury
 1
 0 3
 2
-0 60 13 3
 0 54 0 1
+0 60 13 3
 1
 end_operator
 begin_operator
@@ -170974,8 +170974,8 @@ succumb sciatica-9 achievement haroset mercury neptune
 1
 0 3
 2
-0 60 13 3
 0 54 1 2
+0 60 13 3
 1
 end_operator
 begin_operator
@@ -170983,8 +170983,8 @@ succumb sciatica-9 achievement haroset uranus mars
 1
 0 3
 2
-0 60 13 3
 0 54 3 0
+0 60 13 3
 1
 end_operator
 begin_operator
@@ -170992,8 +170992,8 @@ succumb sciatica-9 achievement muffin mars mercury
 1
 0 4
 2
-0 60 13 4
 0 54 0 1
+0 60 13 4
 1
 end_operator
 begin_operator
@@ -171001,8 +171001,8 @@ succumb sciatica-9 achievement muffin mercury neptune
 1
 0 4
 2
-0 60 13 4
 0 54 1 2
+0 60 13 4
 1
 end_operator
 begin_operator
@@ -171010,8 +171010,8 @@ succumb sciatica-9 achievement muffin uranus mars
 1
 0 4
 2
-0 60 13 4
 0 54 3 0
+0 60 13 4
 1
 end_operator
 begin_operator
@@ -171019,8 +171019,8 @@ succumb sciatica-9 achievement onion mars mercury
 1
 0 5
 2
-0 60 13 5
 0 54 0 1
+0 60 13 5
 1
 end_operator
 begin_operator
@@ -171028,8 +171028,8 @@ succumb sciatica-9 achievement onion mercury neptune
 1
 0 5
 2
-0 60 13 5
 0 54 1 2
+0 60 13 5
 1
 end_operator
 begin_operator
@@ -171037,8 +171037,8 @@ succumb sciatica-9 achievement onion uranus mars
 1
 0 5
 2
-0 60 13 5
 0 54 3 0
+0 60 13 5
 1
 end_operator
 begin_operator
@@ -171046,8 +171046,8 @@ succumb sciatica-9 achievement popover mars mercury
 1
 0 6
 2
-0 60 13 6
 0 54 0 1
+0 60 13 6
 1
 end_operator
 begin_operator
@@ -171055,8 +171055,8 @@ succumb sciatica-9 achievement popover mercury neptune
 1
 0 6
 2
-0 60 13 6
 0 54 1 2
+0 60 13 6
 1
 end_operator
 begin_operator
@@ -171064,8 +171064,8 @@ succumb sciatica-9 achievement popover uranus mars
 1
 0 6
 2
-0 60 13 6
 0 54 3 0
+0 60 13 6
 1
 end_operator
 begin_operator
@@ -171073,8 +171073,8 @@ succumb sciatica-9 achievement potato mars mercury
 1
 0 7
 2
-0 60 13 7
 0 54 0 1
+0 60 13 7
 1
 end_operator
 begin_operator
@@ -171082,8 +171082,8 @@ succumb sciatica-9 achievement potato mercury neptune
 1
 0 7
 2
-0 60 13 7
 0 54 1 2
+0 60 13 7
 1
 end_operator
 begin_operator
@@ -171091,8 +171091,8 @@ succumb sciatica-9 achievement potato uranus mars
 1
 0 7
 2
-0 60 13 7
 0 54 3 0
+0 60 13 7
 1
 end_operator
 begin_operator
@@ -171100,8 +171100,8 @@ succumb sciatica-9 achievement shrimp mars mercury
 1
 0 8
 2
-0 60 13 8
 0 54 0 1
+0 60 13 8
 1
 end_operator
 begin_operator
@@ -171109,8 +171109,8 @@ succumb sciatica-9 achievement shrimp mercury neptune
 1
 0 8
 2
-0 60 13 8
 0 54 1 2
+0 60 13 8
 1
 end_operator
 begin_operator
@@ -171118,8 +171118,8 @@ succumb sciatica-9 achievement shrimp uranus mars
 1
 0 8
 2
-0 60 13 8
 0 54 3 0
+0 60 13 8
 1
 end_operator
 begin_operator
@@ -171127,8 +171127,8 @@ succumb sciatica-9 achievement sweetroll mars mercury
 1
 0 9
 2
-0 60 13 9
 0 54 0 1
+0 60 13 9
 1
 end_operator
 begin_operator
@@ -171136,8 +171136,8 @@ succumb sciatica-9 achievement sweetroll mercury neptune
 1
 0 9
 2
-0 60 13 9
 0 54 1 2
+0 60 13 9
 1
 end_operator
 begin_operator
@@ -171145,8 +171145,8 @@ succumb sciatica-9 achievement sweetroll uranus mars
 1
 0 9
 2
-0 60 13 9
 0 54 3 0
+0 60 13 9
 1
 end_operator
 begin_operator
@@ -171154,8 +171154,8 @@ succumb sciatica-9 achievement tofu mars mercury
 1
 0 10
 2
-0 60 13 10
 0 54 0 1
+0 60 13 10
 1
 end_operator
 begin_operator
@@ -171163,8 +171163,8 @@ succumb sciatica-9 achievement tofu mercury neptune
 1
 0 10
 2
-0 60 13 10
 0 54 1 2
+0 60 13 10
 1
 end_operator
 begin_operator
@@ -171172,8 +171172,8 @@ succumb sciatica-9 achievement tofu uranus mars
 1
 0 10
 2
-0 60 13 10
 0 54 3 0
+0 60 13 10
 1
 end_operator
 begin_operator
@@ -171181,8 +171181,8 @@ succumb sciatica-9 achievement turkey mars mercury
 1
 0 11
 2
-0 60 13 11
 0 54 0 1
+0 60 13 11
 1
 end_operator
 begin_operator
@@ -171190,8 +171190,8 @@ succumb sciatica-9 achievement turkey mercury neptune
 1
 0 11
 2
-0 60 13 11
 0 54 1 2
+0 60 13 11
 1
 end_operator
 begin_operator
@@ -171199,8 +171199,8 @@ succumb sciatica-9 achievement turkey uranus mars
 1
 0 11
 2
-0 60 13 11
 0 54 3 0
+0 60 13 11
 1
 end_operator
 begin_operator
@@ -171208,8 +171208,8 @@ succumb sciatica-9 achievement yogurt mars mercury
 1
 0 12
 2
-0 60 13 12
 0 54 0 1
+0 60 13 12
 1
 end_operator
 begin_operator
@@ -171217,8 +171217,8 @@ succumb sciatica-9 achievement yogurt mercury neptune
 1
 0 12
 2
-0 60 13 12
 0 54 1 2
+0 60 13 12
 1
 end_operator
 begin_operator
@@ -171226,8 +171226,8 @@ succumb sciatica-9 achievement yogurt uranus mars
 1
 0 12
 2
-0 60 13 12
 0 54 3 0
+0 60 13 12
 1
 end_operator
 begin_operator
@@ -171235,8 +171235,8 @@ succumb sciatica-9 aesthetics apple mars mercury
 1
 1 0
 2
-0 60 14 0
 0 55 0 1
+0 60 14 0
 1
 end_operator
 begin_operator
@@ -171244,8 +171244,8 @@ succumb sciatica-9 aesthetics apple mercury neptune
 1
 1 0
 2
-0 60 14 0
 0 55 1 2
+0 60 14 0
 1
 end_operator
 begin_operator
@@ -171253,8 +171253,8 @@ succumb sciatica-9 aesthetics apple uranus mars
 1
 1 0
 2
-0 60 14 0
 0 55 3 0
+0 60 14 0
 1
 end_operator
 begin_operator
@@ -171262,8 +171262,8 @@ succumb sciatica-9 aesthetics chicken mars mercury
 1
 1 1
 2
-0 60 14 1
 0 55 0 1
+0 60 14 1
 1
 end_operator
 begin_operator
@@ -171271,8 +171271,8 @@ succumb sciatica-9 aesthetics chicken mercury neptune
 1
 1 1
 2
-0 60 14 1
 0 55 1 2
+0 60 14 1
 1
 end_operator
 begin_operator
@@ -171280,8 +171280,8 @@ succumb sciatica-9 aesthetics chicken uranus mars
 1
 1 1
 2
-0 60 14 1
 0 55 3 0
+0 60 14 1
 1
 end_operator
 begin_operator
@@ -171289,8 +171289,8 @@ succumb sciatica-9 aesthetics hamburger mars mercury
 1
 1 2
 2
-0 60 14 2
 0 55 0 1
+0 60 14 2
 1
 end_operator
 begin_operator
@@ -171298,8 +171298,8 @@ succumb sciatica-9 aesthetics hamburger mercury neptune
 1
 1 2
 2
-0 60 14 2
 0 55 1 2
+0 60 14 2
 1
 end_operator
 begin_operator
@@ -171307,8 +171307,8 @@ succumb sciatica-9 aesthetics hamburger uranus mars
 1
 1 2
 2
-0 60 14 2
 0 55 3 0
+0 60 14 2
 1
 end_operator
 begin_operator
@@ -171316,8 +171316,8 @@ succumb sciatica-9 aesthetics haroset mars mercury
 1
 1 3
 2
-0 60 14 3
 0 55 0 1
+0 60 14 3
 1
 end_operator
 begin_operator
@@ -171325,8 +171325,8 @@ succumb sciatica-9 aesthetics haroset mercury neptune
 1
 1 3
 2
-0 60 14 3
 0 55 1 2
+0 60 14 3
 1
 end_operator
 begin_operator
@@ -171334,8 +171334,8 @@ succumb sciatica-9 aesthetics haroset uranus mars
 1
 1 3
 2
-0 60 14 3
 0 55 3 0
+0 60 14 3
 1
 end_operator
 begin_operator
@@ -171343,8 +171343,8 @@ succumb sciatica-9 aesthetics muffin mars mercury
 1
 1 4
 2
-0 60 14 4
 0 55 0 1
+0 60 14 4
 1
 end_operator
 begin_operator
@@ -171352,8 +171352,8 @@ succumb sciatica-9 aesthetics muffin mercury neptune
 1
 1 4
 2
-0 60 14 4
 0 55 1 2
+0 60 14 4
 1
 end_operator
 begin_operator
@@ -171361,8 +171361,8 @@ succumb sciatica-9 aesthetics muffin uranus mars
 1
 1 4
 2
-0 60 14 4
 0 55 3 0
+0 60 14 4
 1
 end_operator
 begin_operator
@@ -171370,8 +171370,8 @@ succumb sciatica-9 aesthetics onion mars mercury
 1
 1 5
 2
-0 60 14 5
 0 55 0 1
+0 60 14 5
 1
 end_operator
 begin_operator
@@ -171379,8 +171379,8 @@ succumb sciatica-9 aesthetics onion mercury neptune
 1
 1 5
 2
-0 60 14 5
 0 55 1 2
+0 60 14 5
 1
 end_operator
 begin_operator
@@ -171388,8 +171388,8 @@ succumb sciatica-9 aesthetics onion uranus mars
 1
 1 5
 2
-0 60 14 5
 0 55 3 0
+0 60 14 5
 1
 end_operator
 begin_operator
@@ -171397,8 +171397,8 @@ succumb sciatica-9 aesthetics popover mars mercury
 1
 1 6
 2
-0 60 14 6
 0 55 0 1
+0 60 14 6
 1
 end_operator
 begin_operator
@@ -171406,8 +171406,8 @@ succumb sciatica-9 aesthetics popover mercury neptune
 1
 1 6
 2
-0 60 14 6
 0 55 1 2
+0 60 14 6
 1
 end_operator
 begin_operator
@@ -171415,8 +171415,8 @@ succumb sciatica-9 aesthetics popover uranus mars
 1
 1 6
 2
-0 60 14 6
 0 55 3 0
+0 60 14 6
 1
 end_operator
 begin_operator
@@ -171424,8 +171424,8 @@ succumb sciatica-9 aesthetics potato mars mercury
 1
 1 7
 2
-0 60 14 7
 0 55 0 1
+0 60 14 7
 1
 end_operator
 begin_operator
@@ -171433,8 +171433,8 @@ succumb sciatica-9 aesthetics potato mercury neptune
 1
 1 7
 2
-0 60 14 7
 0 55 1 2
+0 60 14 7
 1
 end_operator
 begin_operator
@@ -171442,8 +171442,8 @@ succumb sciatica-9 aesthetics potato uranus mars
 1
 1 7
 2
-0 60 14 7
 0 55 3 0
+0 60 14 7
 1
 end_operator
 begin_operator
@@ -171451,8 +171451,8 @@ succumb sciatica-9 aesthetics shrimp mars mercury
 1
 1 8
 2
-0 60 14 8
 0 55 0 1
+0 60 14 8
 1
 end_operator
 begin_operator
@@ -171460,8 +171460,8 @@ succumb sciatica-9 aesthetics shrimp mercury neptune
 1
 1 8
 2
-0 60 14 8
 0 55 1 2
+0 60 14 8
 1
 end_operator
 begin_operator
@@ -171469,8 +171469,8 @@ succumb sciatica-9 aesthetics shrimp uranus mars
 1
 1 8
 2
-0 60 14 8
 0 55 3 0
+0 60 14 8
 1
 end_operator
 begin_operator
@@ -171478,8 +171478,8 @@ succumb sciatica-9 aesthetics sweetroll mars mercury
 1
 1 9
 2
-0 60 14 9
 0 55 0 1
+0 60 14 9
 1
 end_operator
 begin_operator
@@ -171487,8 +171487,8 @@ succumb sciatica-9 aesthetics sweetroll mercury neptune
 1
 1 9
 2
-0 60 14 9
 0 55 1 2
+0 60 14 9
 1
 end_operator
 begin_operator
@@ -171496,8 +171496,8 @@ succumb sciatica-9 aesthetics sweetroll uranus mars
 1
 1 9
 2
-0 60 14 9
 0 55 3 0
+0 60 14 9
 1
 end_operator
 begin_operator
@@ -171505,8 +171505,8 @@ succumb sciatica-9 aesthetics tofu mars mercury
 1
 1 10
 2
-0 60 14 10
 0 55 0 1
+0 60 14 10
 1
 end_operator
 begin_operator
@@ -171514,8 +171514,8 @@ succumb sciatica-9 aesthetics tofu mercury neptune
 1
 1 10
 2
-0 60 14 10
 0 55 1 2
+0 60 14 10
 1
 end_operator
 begin_operator
@@ -171523,8 +171523,8 @@ succumb sciatica-9 aesthetics tofu uranus mars
 1
 1 10
 2
-0 60 14 10
 0 55 3 0
+0 60 14 10
 1
 end_operator
 begin_operator
@@ -171532,8 +171532,8 @@ succumb sciatica-9 aesthetics turkey mars mercury
 1
 1 11
 2
-0 60 14 11
 0 55 0 1
+0 60 14 11
 1
 end_operator
 begin_operator
@@ -171541,8 +171541,8 @@ succumb sciatica-9 aesthetics turkey mercury neptune
 1
 1 11
 2
-0 60 14 11
 0 55 1 2
+0 60 14 11
 1
 end_operator
 begin_operator
@@ -171550,8 +171550,8 @@ succumb sciatica-9 aesthetics turkey uranus mars
 1
 1 11
 2
-0 60 14 11
 0 55 3 0
+0 60 14 11
 1
 end_operator
 begin_operator
@@ -171559,8 +171559,8 @@ succumb sciatica-9 aesthetics yogurt mars mercury
 1
 1 12
 2
-0 60 14 12
 0 55 0 1
+0 60 14 12
 1
 end_operator
 begin_operator
@@ -171568,8 +171568,8 @@ succumb sciatica-9 aesthetics yogurt mercury neptune
 1
 1 12
 2
-0 60 14 12
 0 55 1 2
+0 60 14 12
 1
 end_operator
 begin_operator
@@ -171577,8 +171577,8 @@ succumb sciatica-9 aesthetics yogurt uranus mars
 1
 1 12
 2
-0 60 14 12
 0 55 3 0
+0 60 14 12
 1
 end_operator
 begin_operator
@@ -171586,8 +171586,8 @@ succumb sciatica-9 excitement apple mars mercury
 1
 2 0
 2
-0 60 15 0
 0 58 0 1
+0 60 15 0
 1
 end_operator
 begin_operator
@@ -171595,8 +171595,8 @@ succumb sciatica-9 excitement apple mercury neptune
 1
 2 0
 2
-0 60 15 0
 0 58 1 2
+0 60 15 0
 1
 end_operator
 begin_operator
@@ -171604,8 +171604,8 @@ succumb sciatica-9 excitement apple uranus mars
 1
 2 0
 2
-0 60 15 0
 0 58 3 0
+0 60 15 0
 1
 end_operator
 begin_operator
@@ -171613,8 +171613,8 @@ succumb sciatica-9 excitement chicken mars mercury
 1
 2 1
 2
-0 60 15 1
 0 58 0 1
+0 60 15 1
 1
 end_operator
 begin_operator
@@ -171622,8 +171622,8 @@ succumb sciatica-9 excitement chicken mercury neptune
 1
 2 1
 2
-0 60 15 1
 0 58 1 2
+0 60 15 1
 1
 end_operator
 begin_operator
@@ -171631,8 +171631,8 @@ succumb sciatica-9 excitement chicken uranus mars
 1
 2 1
 2
-0 60 15 1
 0 58 3 0
+0 60 15 1
 1
 end_operator
 begin_operator
@@ -171640,8 +171640,8 @@ succumb sciatica-9 excitement hamburger mars mercury
 1
 2 2
 2
-0 60 15 2
 0 58 0 1
+0 60 15 2
 1
 end_operator
 begin_operator
@@ -171649,8 +171649,8 @@ succumb sciatica-9 excitement hamburger mercury neptune
 1
 2 2
 2
-0 60 15 2
 0 58 1 2
+0 60 15 2
 1
 end_operator
 begin_operator
@@ -171658,8 +171658,8 @@ succumb sciatica-9 excitement hamburger uranus mars
 1
 2 2
 2
-0 60 15 2
 0 58 3 0
+0 60 15 2
 1
 end_operator
 begin_operator
@@ -171667,8 +171667,8 @@ succumb sciatica-9 excitement haroset mars mercury
 1
 2 3
 2
-0 60 15 3
 0 58 0 1
+0 60 15 3
 1
 end_operator
 begin_operator
@@ -171676,8 +171676,8 @@ succumb sciatica-9 excitement haroset mercury neptune
 1
 2 3
 2
-0 60 15 3
 0 58 1 2
+0 60 15 3
 1
 end_operator
 begin_operator
@@ -171685,8 +171685,8 @@ succumb sciatica-9 excitement haroset uranus mars
 1
 2 3
 2
-0 60 15 3
 0 58 3 0
+0 60 15 3
 1
 end_operator
 begin_operator
@@ -171694,8 +171694,8 @@ succumb sciatica-9 excitement muffin mars mercury
 1
 2 4
 2
-0 60 15 4
 0 58 0 1
+0 60 15 4
 1
 end_operator
 begin_operator
@@ -171703,8 +171703,8 @@ succumb sciatica-9 excitement muffin mercury neptune
 1
 2 4
 2
-0 60 15 4
 0 58 1 2
+0 60 15 4
 1
 end_operator
 begin_operator
@@ -171712,8 +171712,8 @@ succumb sciatica-9 excitement muffin uranus mars
 1
 2 4
 2
-0 60 15 4
 0 58 3 0
+0 60 15 4
 1
 end_operator
 begin_operator
@@ -171721,8 +171721,8 @@ succumb sciatica-9 excitement onion mars mercury
 1
 2 5
 2
-0 60 15 5
 0 58 0 1
+0 60 15 5
 1
 end_operator
 begin_operator
@@ -171730,8 +171730,8 @@ succumb sciatica-9 excitement onion mercury neptune
 1
 2 5
 2
-0 60 15 5
 0 58 1 2
+0 60 15 5
 1
 end_operator
 begin_operator
@@ -171739,8 +171739,8 @@ succumb sciatica-9 excitement onion uranus mars
 1
 2 5
 2
-0 60 15 5
 0 58 3 0
+0 60 15 5
 1
 end_operator
 begin_operator
@@ -171748,8 +171748,8 @@ succumb sciatica-9 excitement popover mars mercury
 1
 2 6
 2
-0 60 15 6
 0 58 0 1
+0 60 15 6
 1
 end_operator
 begin_operator
@@ -171757,8 +171757,8 @@ succumb sciatica-9 excitement popover mercury neptune
 1
 2 6
 2
-0 60 15 6
 0 58 1 2
+0 60 15 6
 1
 end_operator
 begin_operator
@@ -171766,8 +171766,8 @@ succumb sciatica-9 excitement popover uranus mars
 1
 2 6
 2
-0 60 15 6
 0 58 3 0
+0 60 15 6
 1
 end_operator
 begin_operator
@@ -171775,8 +171775,8 @@ succumb sciatica-9 excitement potato mars mercury
 1
 2 7
 2
-0 60 15 7
 0 58 0 1
+0 60 15 7
 1
 end_operator
 begin_operator
@@ -171784,8 +171784,8 @@ succumb sciatica-9 excitement potato mercury neptune
 1
 2 7
 2
-0 60 15 7
 0 58 1 2
+0 60 15 7
 1
 end_operator
 begin_operator
@@ -171793,8 +171793,8 @@ succumb sciatica-9 excitement potato uranus mars
 1
 2 7
 2
-0 60 15 7
 0 58 3 0
+0 60 15 7
 1
 end_operator
 begin_operator
@@ -171802,8 +171802,8 @@ succumb sciatica-9 excitement shrimp mars mercury
 1
 2 8
 2
-0 60 15 8
 0 58 0 1
+0 60 15 8
 1
 end_operator
 begin_operator
@@ -171811,8 +171811,8 @@ succumb sciatica-9 excitement shrimp mercury neptune
 1
 2 8
 2
-0 60 15 8
 0 58 1 2
+0 60 15 8
 1
 end_operator
 begin_operator
@@ -171820,8 +171820,8 @@ succumb sciatica-9 excitement shrimp uranus mars
 1
 2 8
 2
-0 60 15 8
 0 58 3 0
+0 60 15 8
 1
 end_operator
 begin_operator
@@ -171829,8 +171829,8 @@ succumb sciatica-9 excitement sweetroll mars mercury
 1
 2 9
 2
-0 60 15 9
 0 58 0 1
+0 60 15 9
 1
 end_operator
 begin_operator
@@ -171838,8 +171838,8 @@ succumb sciatica-9 excitement sweetroll mercury neptune
 1
 2 9
 2
-0 60 15 9
 0 58 1 2
+0 60 15 9
 1
 end_operator
 begin_operator
@@ -171847,8 +171847,8 @@ succumb sciatica-9 excitement sweetroll uranus mars
 1
 2 9
 2
-0 60 15 9
 0 58 3 0
+0 60 15 9
 1
 end_operator
 begin_operator
@@ -171856,8 +171856,8 @@ succumb sciatica-9 excitement tofu mars mercury
 1
 2 10
 2
-0 60 15 10
 0 58 0 1
+0 60 15 10
 1
 end_operator
 begin_operator
@@ -171865,8 +171865,8 @@ succumb sciatica-9 excitement tofu mercury neptune
 1
 2 10
 2
-0 60 15 10
 0 58 1 2
+0 60 15 10
 1
 end_operator
 begin_operator
@@ -171874,8 +171874,8 @@ succumb sciatica-9 excitement tofu uranus mars
 1
 2 10
 2
-0 60 15 10
 0 58 3 0
+0 60 15 10
 1
 end_operator
 begin_operator
@@ -171883,8 +171883,8 @@ succumb sciatica-9 excitement turkey mars mercury
 1
 2 11
 2
-0 60 15 11
 0 58 0 1
+0 60 15 11
 1
 end_operator
 begin_operator
@@ -171892,8 +171892,8 @@ succumb sciatica-9 excitement turkey mercury neptune
 1
 2 11
 2
-0 60 15 11
 0 58 1 2
+0 60 15 11
 1
 end_operator
 begin_operator
@@ -171901,8 +171901,8 @@ succumb sciatica-9 excitement turkey uranus mars
 1
 2 11
 2
-0 60 15 11
 0 58 3 0
+0 60 15 11
 1
 end_operator
 begin_operator
@@ -171910,8 +171910,8 @@ succumb sciatica-9 excitement yogurt mars mercury
 1
 2 12
 2
-0 60 15 12
 0 58 0 1
+0 60 15 12
 1
 end_operator
 begin_operator
@@ -171919,8 +171919,8 @@ succumb sciatica-9 excitement yogurt mercury neptune
 1
 2 12
 2
-0 60 15 12
 0 58 1 2
+0 60 15 12
 1
 end_operator
 begin_operator
@@ -171928,8 +171928,8 @@ succumb sciatica-9 excitement yogurt uranus mars
 1
 2 12
 2
-0 60 15 12
 0 58 3 0
+0 60 15 12
 1
 end_operator
 begin_operator
@@ -171937,8 +171937,8 @@ succumb sciatica-9 intoxication apple mars mercury
 1
 3 0
 2
-0 60 16 0
 0 59 0 1
+0 60 16 0
 1
 end_operator
 begin_operator
@@ -171946,8 +171946,8 @@ succumb sciatica-9 intoxication apple mercury neptune
 1
 3 0
 2
-0 60 16 0
 0 59 1 2
+0 60 16 0
 1
 end_operator
 begin_operator
@@ -171955,8 +171955,8 @@ succumb sciatica-9 intoxication apple uranus mars
 1
 3 0
 2
-0 60 16 0
 0 59 3 0
+0 60 16 0
 1
 end_operator
 begin_operator
@@ -171964,8 +171964,8 @@ succumb sciatica-9 intoxication chicken mars mercury
 1
 3 1
 2
-0 60 16 1
 0 59 0 1
+0 60 16 1
 1
 end_operator
 begin_operator
@@ -171973,8 +171973,8 @@ succumb sciatica-9 intoxication chicken mercury neptune
 1
 3 1
 2
-0 60 16 1
 0 59 1 2
+0 60 16 1
 1
 end_operator
 begin_operator
@@ -171982,8 +171982,8 @@ succumb sciatica-9 intoxication chicken uranus mars
 1
 3 1
 2
-0 60 16 1
 0 59 3 0
+0 60 16 1
 1
 end_operator
 begin_operator
@@ -171991,8 +171991,8 @@ succumb sciatica-9 intoxication hamburger mars mercury
 1
 3 2
 2
-0 60 16 2
 0 59 0 1
+0 60 16 2
 1
 end_operator
 begin_operator
@@ -172000,8 +172000,8 @@ succumb sciatica-9 intoxication hamburger mercury neptune
 1
 3 2
 2
-0 60 16 2
 0 59 1 2
+0 60 16 2
 1
 end_operator
 begin_operator
@@ -172009,8 +172009,8 @@ succumb sciatica-9 intoxication hamburger uranus mars
 1
 3 2
 2
-0 60 16 2
 0 59 3 0
+0 60 16 2
 1
 end_operator
 begin_operator
@@ -172018,8 +172018,8 @@ succumb sciatica-9 intoxication haroset mars mercury
 1
 3 3
 2
-0 60 16 3
 0 59 0 1
+0 60 16 3
 1
 end_operator
 begin_operator
@@ -172027,8 +172027,8 @@ succumb sciatica-9 intoxication haroset mercury neptune
 1
 3 3
 2
-0 60 16 3
 0 59 1 2
+0 60 16 3
 1
 end_operator
 begin_operator
@@ -172036,8 +172036,8 @@ succumb sciatica-9 intoxication haroset uranus mars
 1
 3 3
 2
-0 60 16 3
 0 59 3 0
+0 60 16 3
 1
 end_operator
 begin_operator
@@ -172045,8 +172045,8 @@ succumb sciatica-9 intoxication muffin mars mercury
 1
 3 4
 2
-0 60 16 4
 0 59 0 1
+0 60 16 4
 1
 end_operator
 begin_operator
@@ -172054,8 +172054,8 @@ succumb sciatica-9 intoxication muffin mercury neptune
 1
 3 4
 2
-0 60 16 4
 0 59 1 2
+0 60 16 4
 1
 end_operator
 begin_operator
@@ -172063,8 +172063,8 @@ succumb sciatica-9 intoxication muffin uranus mars
 1
 3 4
 2
-0 60 16 4
 0 59 3 0
+0 60 16 4
 1
 end_operator
 begin_operator
@@ -172072,8 +172072,8 @@ succumb sciatica-9 intoxication onion mars mercury
 1
 3 5
 2
-0 60 16 5
 0 59 0 1
+0 60 16 5
 1
 end_operator
 begin_operator
@@ -172081,8 +172081,8 @@ succumb sciatica-9 intoxication onion mercury neptune
 1
 3 5
 2
-0 60 16 5
 0 59 1 2
+0 60 16 5
 1
 end_operator
 begin_operator
@@ -172090,8 +172090,8 @@ succumb sciatica-9 intoxication onion uranus mars
 1
 3 5
 2
-0 60 16 5
 0 59 3 0
+0 60 16 5
 1
 end_operator
 begin_operator
@@ -172099,8 +172099,8 @@ succumb sciatica-9 intoxication popover mars mercury
 1
 3 6
 2
-0 60 16 6
 0 59 0 1
+0 60 16 6
 1
 end_operator
 begin_operator
@@ -172108,8 +172108,8 @@ succumb sciatica-9 intoxication popover mercury neptune
 1
 3 6
 2
-0 60 16 6
 0 59 1 2
+0 60 16 6
 1
 end_operator
 begin_operator
@@ -172117,8 +172117,8 @@ succumb sciatica-9 intoxication popover uranus mars
 1
 3 6
 2
-0 60 16 6
 0 59 3 0
+0 60 16 6
 1
 end_operator
 begin_operator
@@ -172126,8 +172126,8 @@ succumb sciatica-9 intoxication potato mars mercury
 1
 3 7
 2
-0 60 16 7
 0 59 0 1
+0 60 16 7
 1
 end_operator
 begin_operator
@@ -172135,8 +172135,8 @@ succumb sciatica-9 intoxication potato mercury neptune
 1
 3 7
 2
-0 60 16 7
 0 59 1 2
+0 60 16 7
 1
 end_operator
 begin_operator
@@ -172144,8 +172144,8 @@ succumb sciatica-9 intoxication potato uranus mars
 1
 3 7
 2
-0 60 16 7
 0 59 3 0
+0 60 16 7
 1
 end_operator
 begin_operator
@@ -172153,8 +172153,8 @@ succumb sciatica-9 intoxication shrimp mars mercury
 1
 3 8
 2
-0 60 16 8
 0 59 0 1
+0 60 16 8
 1
 end_operator
 begin_operator
@@ -172162,8 +172162,8 @@ succumb sciatica-9 intoxication shrimp mercury neptune
 1
 3 8
 2
-0 60 16 8
 0 59 1 2
+0 60 16 8
 1
 end_operator
 begin_operator
@@ -172171,8 +172171,8 @@ succumb sciatica-9 intoxication shrimp uranus mars
 1
 3 8
 2
-0 60 16 8
 0 59 3 0
+0 60 16 8
 1
 end_operator
 begin_operator
@@ -172180,8 +172180,8 @@ succumb sciatica-9 intoxication sweetroll mars mercury
 1
 3 9
 2
-0 60 16 9
 0 59 0 1
+0 60 16 9
 1
 end_operator
 begin_operator
@@ -172189,8 +172189,8 @@ succumb sciatica-9 intoxication sweetroll mercury neptune
 1
 3 9
 2
-0 60 16 9
 0 59 1 2
+0 60 16 9
 1
 end_operator
 begin_operator
@@ -172198,8 +172198,8 @@ succumb sciatica-9 intoxication sweetroll uranus mars
 1
 3 9
 2
-0 60 16 9
 0 59 3 0
+0 60 16 9
 1
 end_operator
 begin_operator
@@ -172207,8 +172207,8 @@ succumb sciatica-9 intoxication tofu mars mercury
 1
 3 10
 2
-0 60 16 10
 0 59 0 1
+0 60 16 10
 1
 end_operator
 begin_operator
@@ -172216,8 +172216,8 @@ succumb sciatica-9 intoxication tofu mercury neptune
 1
 3 10
 2
-0 60 16 10
 0 59 1 2
+0 60 16 10
 1
 end_operator
 begin_operator
@@ -172225,8 +172225,8 @@ succumb sciatica-9 intoxication tofu uranus mars
 1
 3 10
 2
-0 60 16 10
 0 59 3 0
+0 60 16 10
 1
 end_operator
 begin_operator
@@ -172234,8 +172234,8 @@ succumb sciatica-9 intoxication turkey mars mercury
 1
 3 11
 2
-0 60 16 11
 0 59 0 1
+0 60 16 11
 1
 end_operator
 begin_operator
@@ -172243,8 +172243,8 @@ succumb sciatica-9 intoxication turkey mercury neptune
 1
 3 11
 2
-0 60 16 11
 0 59 1 2
+0 60 16 11
 1
 end_operator
 begin_operator
@@ -172252,8 +172252,8 @@ succumb sciatica-9 intoxication turkey uranus mars
 1
 3 11
 2
-0 60 16 11
 0 59 3 0
+0 60 16 11
 1
 end_operator
 begin_operator
@@ -172261,8 +172261,8 @@ succumb sciatica-9 intoxication yogurt mars mercury
 1
 3 12
 2
-0 60 16 12
 0 59 0 1
+0 60 16 12
 1
 end_operator
 begin_operator
@@ -172270,8 +172270,8 @@ succumb sciatica-9 intoxication yogurt mercury neptune
 1
 3 12
 2
-0 60 16 12
 0 59 1 2
+0 60 16 12
 1
 end_operator
 begin_operator
@@ -172279,8 +172279,8 @@ succumb sciatica-9 intoxication yogurt uranus mars
 1
 3 12
 2
-0 60 16 12
 0 59 3 0
+0 60 16 12
 1
 end_operator
 begin_operator

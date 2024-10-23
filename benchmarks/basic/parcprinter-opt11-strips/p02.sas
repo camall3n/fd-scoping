@@ -432,9 +432,9 @@ blackprinter-simplex-letter sheet1 back image-1
 11 0
 14 0
 3
-0 39 -1 0
 0 16 1 2
 0 17 0 1
+0 39 -1 0
 113013
 end_operator
 begin_operator
@@ -443,9 +443,9 @@ blackprinter-simplex-letter sheet1 front image-1
 11 0
 20 0
 3
-0 37 -1 0
-0 16 1 2
 0 15 0 1
+0 16 1 2
+0 37 -1 0
 113013
 end_operator
 begin_operator
@@ -454,9 +454,9 @@ blackprinter-simplex-letter sheet2 back image-1
 11 0
 24 0
 3
-0 35 -1 0
 0 25 1 2
 0 26 0 1
+0 35 -1 0
 113013
 end_operator
 begin_operator
@@ -465,9 +465,9 @@ blackprinter-simplex-letter sheet2 front image-1
 11 0
 29 0
 3
-0 33 -1 0
 0 25 1 2
 0 28 0 1
+0 33 -1 0
 113013
 end_operator
 begin_operator
@@ -475,11 +475,11 @@ blackprinter-simplexandinvert-letter sheet1 back front image-1
 1
 11 0
 5
-0 39 -1 0
+0 14 0 1
 0 16 1 2
 0 17 0 1
-0 14 0 1
 0 20 -1 0
+0 39 -1 0
 123013
 end_operator
 begin_operator
@@ -487,11 +487,11 @@ blackprinter-simplexandinvert-letter sheet1 front back image-1
 1
 11 0
 5
-0 37 -1 0
-0 16 1 2
-0 15 0 1
 0 14 -1 0
+0 15 0 1
+0 16 1 2
 0 20 0 1
+0 37 -1 0
 123013
 end_operator
 begin_operator
@@ -499,11 +499,11 @@ blackprinter-simplexandinvert-letter sheet2 back front image-1
 1
 11 0
 5
-0 35 -1 0
+0 24 0 1
 0 25 1 2
 0 26 0 1
-0 24 0 1
 0 29 -1 0
+0 35 -1 0
 123013
 end_operator
 begin_operator
@@ -511,11 +511,11 @@ blackprinter-simplexandinvert-letter sheet2 front back image-1
 1
 11 0
 5
-0 33 -1 0
+0 24 -1 0
 0 25 1 2
 0 28 0 1
-0 24 -1 0
 0 29 0 1
+0 33 -1 0
 123013
 end_operator
 begin_operator
@@ -574,9 +574,9 @@ colorprinter-simplex-letter sheet1 back image-2
 8 0
 14 0
 3
-0 38 -1 0
 0 16 5 6
 0 18 0 1
+0 38 -1 0
 224040
 end_operator
 begin_operator
@@ -585,9 +585,9 @@ colorprinter-simplex-letter sheet1 front image-2
 8 0
 20 0
 3
-0 36 -1 0
 0 16 5 6
 0 19 0 1
+0 36 -1 0
 224040
 end_operator
 begin_operator
@@ -596,9 +596,9 @@ colorprinter-simplex-letter sheet2 back image-2
 8 0
 24 0
 3
-0 34 -1 0
 0 25 5 6
 0 27 0 1
+0 34 -1 0
 224040
 end_operator
 begin_operator
@@ -607,9 +607,9 @@ colorprinter-simplex-letter sheet2 front image-2
 8 0
 29 0
 3
-0 32 -1 0
-0 25 5 6
 0 23 0 1
+0 25 5 6
+0 32 -1 0
 224040
 end_operator
 begin_operator
@@ -618,9 +618,9 @@ colorprinter-simplexmono-letter sheet1 back image-1
 8 0
 14 0
 3
-0 39 -1 0
 0 16 5 6
 0 17 0 1
+0 39 -1 0
 224040
 end_operator
 begin_operator
@@ -629,9 +629,9 @@ colorprinter-simplexmono-letter sheet1 front image-1
 8 0
 20 0
 3
-0 37 -1 0
-0 16 5 6
 0 15 0 1
+0 16 5 6
+0 37 -1 0
 224040
 end_operator
 begin_operator
@@ -640,9 +640,9 @@ colorprinter-simplexmono-letter sheet2 back image-1
 8 0
 24 0
 3
-0 35 -1 0
 0 25 5 6
 0 26 0 1
+0 35 -1 0
 224040
 end_operator
 begin_operator
@@ -651,9 +651,9 @@ colorprinter-simplexmono-letter sheet2 front image-1
 8 0
 29 0
 3
-0 33 -1 0
 0 25 5 6
 0 28 0 1
+0 33 -1 0
 224040
 end_operator
 begin_operator
@@ -826,20 +826,20 @@ begin_operator
 initialize 
 0
 14
-0 13 -1 0
-0 12 -1 0
-0 11 -1 0
-0 10 -1 0
-0 9 -1 0
-0 8 -1 0
-0 7 -1 0
-0 6 -1 0
-0 5 -1 0
-0 4 -1 0
-0 3 -1 0
-0 2 -1 0
-0 1 -1 0
 0 0 0 1
+0 1 -1 0
+0 2 -1 0
+0 3 -1 0
+0 4 -1 0
+0 5 -1 0
+0 6 -1 0
+0 7 -1 0
+0 8 -1 0
+0 9 -1 0
+0 10 -1 0
+0 11 -1 0
+0 12 -1 0
+0 13 -1 0
 0
 end_operator
 begin_operator

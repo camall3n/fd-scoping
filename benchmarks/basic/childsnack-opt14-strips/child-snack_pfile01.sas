@@ -288,43 +288,43 @@ end_variable
 8
 begin_mutex_group
 2
-15 1
 9 0
+15 1
 end_mutex_group
 begin_mutex_group
 2
-10 1
 2 0
+10 1
 end_mutex_group
 begin_mutex_group
 2
-11 1
 3 0
+11 1
 end_mutex_group
 begin_mutex_group
 2
-12 1
 4 0
+12 1
 end_mutex_group
 begin_mutex_group
 2
-20 1
 5 0
+20 1
 end_mutex_group
 begin_mutex_group
 2
-23 1
 6 0
+23 1
 end_mutex_group
 begin_mutex_group
 2
-24 1
 7 0
+24 1
 end_mutex_group
 begin_mutex_group
 2
-25 1
 8 0
+25 1
 end_mutex_group
 begin_state
 0
@@ -378,54 +378,54 @@ begin_operator
 make_sandwich sandw1 bread1 content1
 0
 3
-0 26 0 1
 0 14 0 1
 0 15 1 0
+0 26 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw1 bread1 content2
 0
 3
-0 26 0 1
-0 17 0 1
 0 15 1 0
+0 17 0 1
+0 26 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw1 bread1 content3
 0
 3
-0 26 0 1
-0 18 0 1
 0 15 1 0
+0 18 0 1
+0 26 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw1 bread1 content4
 0
 3
-0 26 0 1
-0 22 0 1
 0 15 1 0
+0 22 0 1
+0 26 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw1 bread1 content5
 0
 3
+0 15 1 0
 0 26 0 1
 0 27 0 1
-0 15 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw1 bread1 content6
 0
 3
+0 15 1 0
 0 26 0 1
 0 28 0 1
-0 15 1 0
 1
 end_operator
 begin_operator
@@ -442,8 +442,8 @@ make_sandwich sandw1 bread2 content2
 0
 3
 0 13 0 1
-0 17 0 1
 0 15 1 0
+0 17 0 1
 1
 end_operator
 begin_operator
@@ -451,8 +451,8 @@ make_sandwich sandw1 bread2 content3
 0
 3
 0 13 0 1
-0 18 0 1
 0 15 1 0
+0 18 0 1
 1
 end_operator
 begin_operator
@@ -460,8 +460,8 @@ make_sandwich sandw1 bread2 content4
 0
 3
 0 13 0 1
-0 22 0 1
 0 15 1 0
+0 22 0 1
 1
 end_operator
 begin_operator
@@ -469,8 +469,8 @@ make_sandwich sandw1 bread2 content5
 0
 3
 0 13 0 1
-0 27 0 1
 0 15 1 0
+0 27 0 1
 1
 end_operator
 begin_operator
@@ -478,1250 +478,1250 @@ make_sandwich sandw1 bread2 content6
 0
 3
 0 13 0 1
-0 28 0 1
 0 15 1 0
+0 28 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw1 bread3 content1
 0
 3
-0 16 0 1
 0 14 0 1
 0 15 1 0
+0 16 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw1 bread3 content2
 0
 3
+0 15 1 0
 0 16 0 1
 0 17 0 1
-0 15 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw1 bread3 content3
 0
 3
+0 15 1 0
 0 16 0 1
 0 18 0 1
-0 15 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw1 bread3 content4
 0
 3
+0 15 1 0
 0 16 0 1
 0 22 0 1
-0 15 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw1 bread3 content5
 0
 3
+0 15 1 0
 0 16 0 1
 0 27 0 1
-0 15 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw1 bread3 content6
 0
 3
+0 15 1 0
 0 16 0 1
 0 28 0 1
-0 15 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw1 bread4 content1
 0
 3
-0 29 0 1
 0 14 0 1
 0 15 1 0
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw1 bread4 content2
 0
 3
-0 29 0 1
-0 17 0 1
 0 15 1 0
+0 17 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw1 bread4 content3
 0
 3
-0 29 0 1
-0 18 0 1
 0 15 1 0
+0 18 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw1 bread4 content4
 0
 3
-0 29 0 1
-0 22 0 1
 0 15 1 0
+0 22 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw1 bread4 content5
 0
 3
-0 29 0 1
-0 27 0 1
 0 15 1 0
+0 27 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw1 bread4 content6
 0
 3
-0 29 0 1
-0 28 0 1
 0 15 1 0
+0 28 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw1 bread5 content1
 0
 3
-0 19 0 1
 0 14 0 1
 0 15 1 0
+0 19 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw1 bread5 content2
 0
 3
-0 19 0 1
-0 17 0 1
 0 15 1 0
+0 17 0 1
+0 19 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw1 bread5 content3
 0
 3
-0 19 0 1
-0 18 0 1
 0 15 1 0
+0 18 0 1
+0 19 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw1 bread5 content4
 0
 3
+0 15 1 0
 0 19 0 1
 0 22 0 1
-0 15 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw1 bread5 content5
 0
 3
+0 15 1 0
 0 19 0 1
 0 27 0 1
-0 15 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw1 bread5 content6
 0
 3
+0 15 1 0
 0 19 0 1
 0 28 0 1
-0 15 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw1 bread6 content1
 0
 3
-0 21 0 1
 0 14 0 1
 0 15 1 0
+0 21 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw1 bread6 content2
 0
 3
-0 21 0 1
-0 17 0 1
 0 15 1 0
+0 17 0 1
+0 21 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw1 bread6 content3
 0
 3
-0 21 0 1
-0 18 0 1
 0 15 1 0
+0 18 0 1
+0 21 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw1 bread6 content4
 0
 3
+0 15 1 0
 0 21 0 1
 0 22 0 1
-0 15 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw1 bread6 content5
 0
 3
+0 15 1 0
 0 21 0 1
 0 27 0 1
-0 15 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw1 bread6 content6
 0
 3
+0 15 1 0
 0 21 0 1
 0 28 0 1
-0 15 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread1 content1
 0
 3
-0 26 0 1
-0 14 0 1
 0 10 1 0
+0 14 0 1
+0 26 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread1 content2
 0
 3
-0 26 0 1
-0 17 0 1
 0 10 1 0
+0 17 0 1
+0 26 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread1 content3
 0
 3
-0 26 0 1
-0 18 0 1
 0 10 1 0
+0 18 0 1
+0 26 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread1 content4
 0
 3
-0 26 0 1
-0 22 0 1
 0 10 1 0
+0 22 0 1
+0 26 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread1 content5
 0
 3
+0 10 1 0
 0 26 0 1
 0 27 0 1
-0 10 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread1 content6
 0
 3
+0 10 1 0
 0 26 0 1
 0 28 0 1
-0 10 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread2 content1
 0
 3
+0 10 1 0
 0 13 0 1
 0 14 0 1
-0 10 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread2 content2
 0
 3
+0 10 1 0
 0 13 0 1
 0 17 0 1
-0 10 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread2 content3
 0
 3
+0 10 1 0
 0 13 0 1
 0 18 0 1
-0 10 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread2 content4
 0
 3
+0 10 1 0
 0 13 0 1
 0 22 0 1
-0 10 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread2 content5
 0
 3
+0 10 1 0
 0 13 0 1
 0 27 0 1
-0 10 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread2 content6
 0
 3
+0 10 1 0
 0 13 0 1
 0 28 0 1
-0 10 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread3 content1
 0
 3
-0 16 0 1
-0 14 0 1
 0 10 1 0
+0 14 0 1
+0 16 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread3 content2
 0
 3
+0 10 1 0
 0 16 0 1
 0 17 0 1
-0 10 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread3 content3
 0
 3
+0 10 1 0
 0 16 0 1
 0 18 0 1
-0 10 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread3 content4
 0
 3
+0 10 1 0
 0 16 0 1
 0 22 0 1
-0 10 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread3 content5
 0
 3
+0 10 1 0
 0 16 0 1
 0 27 0 1
-0 10 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread3 content6
 0
 3
+0 10 1 0
 0 16 0 1
 0 28 0 1
-0 10 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread4 content1
 0
 3
-0 29 0 1
-0 14 0 1
 0 10 1 0
+0 14 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread4 content2
 0
 3
-0 29 0 1
-0 17 0 1
 0 10 1 0
+0 17 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread4 content3
 0
 3
-0 29 0 1
-0 18 0 1
 0 10 1 0
+0 18 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread4 content4
 0
 3
-0 29 0 1
-0 22 0 1
 0 10 1 0
+0 22 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread4 content5
 0
 3
-0 29 0 1
-0 27 0 1
 0 10 1 0
+0 27 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread4 content6
 0
 3
-0 29 0 1
-0 28 0 1
 0 10 1 0
+0 28 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread5 content1
 0
 3
-0 19 0 1
-0 14 0 1
 0 10 1 0
+0 14 0 1
+0 19 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread5 content2
 0
 3
-0 19 0 1
-0 17 0 1
 0 10 1 0
+0 17 0 1
+0 19 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread5 content3
 0
 3
-0 19 0 1
-0 18 0 1
 0 10 1 0
+0 18 0 1
+0 19 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread5 content4
 0
 3
+0 10 1 0
 0 19 0 1
 0 22 0 1
-0 10 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread5 content5
 0
 3
+0 10 1 0
 0 19 0 1
 0 27 0 1
-0 10 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread5 content6
 0
 3
+0 10 1 0
 0 19 0 1
 0 28 0 1
-0 10 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread6 content1
 0
 3
-0 21 0 1
-0 14 0 1
 0 10 1 0
+0 14 0 1
+0 21 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread6 content2
 0
 3
-0 21 0 1
-0 17 0 1
 0 10 1 0
+0 17 0 1
+0 21 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread6 content3
 0
 3
-0 21 0 1
-0 18 0 1
 0 10 1 0
+0 18 0 1
+0 21 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread6 content4
 0
 3
+0 10 1 0
 0 21 0 1
 0 22 0 1
-0 10 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread6 content5
 0
 3
+0 10 1 0
 0 21 0 1
 0 27 0 1
-0 10 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw2 bread6 content6
 0
 3
+0 10 1 0
 0 21 0 1
 0 28 0 1
-0 10 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread1 content1
 0
 3
-0 26 0 1
-0 14 0 1
 0 11 1 0
+0 14 0 1
+0 26 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread1 content2
 0
 3
-0 26 0 1
-0 17 0 1
 0 11 1 0
+0 17 0 1
+0 26 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread1 content3
 0
 3
-0 26 0 1
-0 18 0 1
 0 11 1 0
+0 18 0 1
+0 26 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread1 content4
 0
 3
-0 26 0 1
-0 22 0 1
 0 11 1 0
+0 22 0 1
+0 26 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread1 content5
 0
 3
+0 11 1 0
 0 26 0 1
 0 27 0 1
-0 11 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread1 content6
 0
 3
+0 11 1 0
 0 26 0 1
 0 28 0 1
-0 11 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread2 content1
 0
 3
+0 11 1 0
 0 13 0 1
 0 14 0 1
-0 11 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread2 content2
 0
 3
+0 11 1 0
 0 13 0 1
 0 17 0 1
-0 11 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread2 content3
 0
 3
+0 11 1 0
 0 13 0 1
 0 18 0 1
-0 11 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread2 content4
 0
 3
+0 11 1 0
 0 13 0 1
 0 22 0 1
-0 11 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread2 content5
 0
 3
+0 11 1 0
 0 13 0 1
 0 27 0 1
-0 11 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread2 content6
 0
 3
+0 11 1 0
 0 13 0 1
 0 28 0 1
-0 11 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread3 content1
 0
 3
-0 16 0 1
-0 14 0 1
 0 11 1 0
+0 14 0 1
+0 16 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread3 content2
 0
 3
+0 11 1 0
 0 16 0 1
 0 17 0 1
-0 11 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread3 content3
 0
 3
+0 11 1 0
 0 16 0 1
 0 18 0 1
-0 11 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread3 content4
 0
 3
+0 11 1 0
 0 16 0 1
 0 22 0 1
-0 11 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread3 content5
 0
 3
+0 11 1 0
 0 16 0 1
 0 27 0 1
-0 11 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread3 content6
 0
 3
+0 11 1 0
 0 16 0 1
 0 28 0 1
-0 11 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread4 content1
 0
 3
-0 29 0 1
-0 14 0 1
 0 11 1 0
+0 14 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread4 content2
 0
 3
-0 29 0 1
-0 17 0 1
 0 11 1 0
+0 17 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread4 content3
 0
 3
-0 29 0 1
-0 18 0 1
 0 11 1 0
+0 18 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread4 content4
 0
 3
-0 29 0 1
-0 22 0 1
 0 11 1 0
+0 22 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread4 content5
 0
 3
-0 29 0 1
-0 27 0 1
 0 11 1 0
+0 27 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread4 content6
 0
 3
-0 29 0 1
-0 28 0 1
 0 11 1 0
+0 28 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread5 content1
 0
 3
-0 19 0 1
-0 14 0 1
 0 11 1 0
+0 14 0 1
+0 19 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread5 content2
 0
 3
-0 19 0 1
-0 17 0 1
 0 11 1 0
+0 17 0 1
+0 19 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread5 content3
 0
 3
-0 19 0 1
-0 18 0 1
 0 11 1 0
+0 18 0 1
+0 19 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread5 content4
 0
 3
+0 11 1 0
 0 19 0 1
 0 22 0 1
-0 11 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread5 content5
 0
 3
+0 11 1 0
 0 19 0 1
 0 27 0 1
-0 11 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread5 content6
 0
 3
+0 11 1 0
 0 19 0 1
 0 28 0 1
-0 11 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread6 content1
 0
 3
-0 21 0 1
-0 14 0 1
 0 11 1 0
+0 14 0 1
+0 21 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread6 content2
 0
 3
-0 21 0 1
-0 17 0 1
 0 11 1 0
+0 17 0 1
+0 21 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread6 content3
 0
 3
-0 21 0 1
-0 18 0 1
 0 11 1 0
+0 18 0 1
+0 21 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread6 content4
 0
 3
+0 11 1 0
 0 21 0 1
 0 22 0 1
-0 11 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread6 content5
 0
 3
+0 11 1 0
 0 21 0 1
 0 27 0 1
-0 11 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw3 bread6 content6
 0
 3
+0 11 1 0
 0 21 0 1
 0 28 0 1
-0 11 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread1 content1
 0
 3
-0 26 0 1
-0 14 0 1
 0 12 1 0
+0 14 0 1
+0 26 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread1 content2
 0
 3
-0 26 0 1
-0 17 0 1
 0 12 1 0
+0 17 0 1
+0 26 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread1 content3
 0
 3
-0 26 0 1
-0 18 0 1
 0 12 1 0
+0 18 0 1
+0 26 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread1 content4
 0
 3
-0 26 0 1
-0 22 0 1
 0 12 1 0
+0 22 0 1
+0 26 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread1 content5
 0
 3
+0 12 1 0
 0 26 0 1
 0 27 0 1
-0 12 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread1 content6
 0
 3
+0 12 1 0
 0 26 0 1
 0 28 0 1
-0 12 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread2 content1
 0
 3
+0 12 1 0
 0 13 0 1
 0 14 0 1
-0 12 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread2 content2
 0
 3
+0 12 1 0
 0 13 0 1
 0 17 0 1
-0 12 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread2 content3
 0
 3
+0 12 1 0
 0 13 0 1
 0 18 0 1
-0 12 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread2 content4
 0
 3
+0 12 1 0
 0 13 0 1
 0 22 0 1
-0 12 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread2 content5
 0
 3
+0 12 1 0
 0 13 0 1
 0 27 0 1
-0 12 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread2 content6
 0
 3
+0 12 1 0
 0 13 0 1
 0 28 0 1
-0 12 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread3 content1
 0
 3
-0 16 0 1
-0 14 0 1
 0 12 1 0
+0 14 0 1
+0 16 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread3 content2
 0
 3
+0 12 1 0
 0 16 0 1
 0 17 0 1
-0 12 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread3 content3
 0
 3
+0 12 1 0
 0 16 0 1
 0 18 0 1
-0 12 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread3 content4
 0
 3
+0 12 1 0
 0 16 0 1
 0 22 0 1
-0 12 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread3 content5
 0
 3
+0 12 1 0
 0 16 0 1
 0 27 0 1
-0 12 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread3 content6
 0
 3
+0 12 1 0
 0 16 0 1
 0 28 0 1
-0 12 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread4 content1
 0
 3
-0 29 0 1
-0 14 0 1
 0 12 1 0
+0 14 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread4 content2
 0
 3
-0 29 0 1
-0 17 0 1
 0 12 1 0
+0 17 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread4 content3
 0
 3
-0 29 0 1
-0 18 0 1
 0 12 1 0
+0 18 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread4 content4
 0
 3
-0 29 0 1
-0 22 0 1
 0 12 1 0
+0 22 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread4 content5
 0
 3
-0 29 0 1
-0 27 0 1
 0 12 1 0
+0 27 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread4 content6
 0
 3
-0 29 0 1
-0 28 0 1
 0 12 1 0
+0 28 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread5 content1
 0
 3
-0 19 0 1
-0 14 0 1
 0 12 1 0
+0 14 0 1
+0 19 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread5 content2
 0
 3
-0 19 0 1
-0 17 0 1
 0 12 1 0
+0 17 0 1
+0 19 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread5 content3
 0
 3
-0 19 0 1
-0 18 0 1
 0 12 1 0
+0 18 0 1
+0 19 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread5 content4
 0
 3
+0 12 1 0
 0 19 0 1
 0 22 0 1
-0 12 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread5 content5
 0
 3
+0 12 1 0
 0 19 0 1
 0 27 0 1
-0 12 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread5 content6
 0
 3
+0 12 1 0
 0 19 0 1
 0 28 0 1
-0 12 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread6 content1
 0
 3
-0 21 0 1
-0 14 0 1
 0 12 1 0
+0 14 0 1
+0 21 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread6 content2
 0
 3
-0 21 0 1
-0 17 0 1
 0 12 1 0
+0 17 0 1
+0 21 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread6 content3
 0
 3
-0 21 0 1
-0 18 0 1
 0 12 1 0
+0 18 0 1
+0 21 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread6 content4
 0
 3
+0 12 1 0
 0 21 0 1
 0 22 0 1
-0 12 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread6 content5
 0
 3
+0 12 1 0
 0 21 0 1
 0 27 0 1
-0 12 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw4 bread6 content6
 0
 3
+0 12 1 0
 0 21 0 1
 0 28 0 1
-0 12 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw5 bread1 content1
 0
 3
-0 26 0 1
 0 14 0 1
 0 20 1 0
+0 26 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw5 bread1 content2
 0
 3
-0 26 0 1
 0 17 0 1
 0 20 1 0
+0 26 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw5 bread1 content3
 0
 3
-0 26 0 1
 0 18 0 1
 0 20 1 0
+0 26 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw5 bread1 content4
 0
 3
-0 26 0 1
-0 22 0 1
 0 20 1 0
+0 22 0 1
+0 26 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw5 bread1 content5
 0
 3
+0 20 1 0
 0 26 0 1
 0 27 0 1
-0 20 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw5 bread1 content6
 0
 3
+0 20 1 0
 0 26 0 1
 0 28 0 1
-0 20 1 0
 1
 end_operator
 begin_operator
@@ -1756,8 +1756,8 @@ make_sandwich sandw5 bread2 content4
 0
 3
 0 13 0 1
-0 22 0 1
 0 20 1 0
+0 22 0 1
 1
 end_operator
 begin_operator
@@ -1765,8 +1765,8 @@ make_sandwich sandw5 bread2 content5
 0
 3
 0 13 0 1
-0 27 0 1
 0 20 1 0
+0 27 0 1
 1
 end_operator
 begin_operator
@@ -1774,16 +1774,16 @@ make_sandwich sandw5 bread2 content6
 0
 3
 0 13 0 1
-0 28 0 1
 0 20 1 0
+0 28 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw5 bread3 content1
 0
 3
-0 16 0 1
 0 14 0 1
+0 16 0 1
 0 20 1 0
 1
 end_operator
@@ -1810,8 +1810,8 @@ make_sandwich sandw5 bread3 content4
 0
 3
 0 16 0 1
-0 22 0 1
 0 20 1 0
+0 22 0 1
 1
 end_operator
 begin_operator
@@ -1819,8 +1819,8 @@ make_sandwich sandw5 bread3 content5
 0
 3
 0 16 0 1
-0 27 0 1
 0 20 1 0
+0 27 0 1
 1
 end_operator
 begin_operator
@@ -1828,70 +1828,70 @@ make_sandwich sandw5 bread3 content6
 0
 3
 0 16 0 1
-0 28 0 1
 0 20 1 0
+0 28 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw5 bread4 content1
 0
 3
-0 29 0 1
 0 14 0 1
 0 20 1 0
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw5 bread4 content2
 0
 3
-0 29 0 1
 0 17 0 1
 0 20 1 0
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw5 bread4 content3
 0
 3
-0 29 0 1
 0 18 0 1
 0 20 1 0
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw5 bread4 content4
 0
 3
-0 29 0 1
-0 22 0 1
 0 20 1 0
+0 22 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw5 bread4 content5
 0
 3
-0 29 0 1
-0 27 0 1
 0 20 1 0
+0 27 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw5 bread4 content6
 0
 3
-0 29 0 1
-0 28 0 1
 0 20 1 0
+0 28 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw5 bread5 content1
 0
 3
-0 19 0 1
 0 14 0 1
+0 19 0 1
 0 20 1 0
 1
 end_operator
@@ -1899,8 +1899,8 @@ begin_operator
 make_sandwich sandw5 bread5 content2
 0
 3
-0 19 0 1
 0 17 0 1
+0 19 0 1
 0 20 1 0
 1
 end_operator
@@ -1908,8 +1908,8 @@ begin_operator
 make_sandwich sandw5 bread5 content3
 0
 3
-0 19 0 1
 0 18 0 1
+0 19 0 1
 0 20 1 0
 1
 end_operator
@@ -1918,8 +1918,8 @@ make_sandwich sandw5 bread5 content4
 0
 3
 0 19 0 1
-0 22 0 1
 0 20 1 0
+0 22 0 1
 1
 end_operator
 begin_operator
@@ -1927,8 +1927,8 @@ make_sandwich sandw5 bread5 content5
 0
 3
 0 19 0 1
-0 27 0 1
 0 20 1 0
+0 27 0 1
 1
 end_operator
 begin_operator
@@ -1936,116 +1936,116 @@ make_sandwich sandw5 bread5 content6
 0
 3
 0 19 0 1
-0 28 0 1
 0 20 1 0
+0 28 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw5 bread6 content1
 0
 3
-0 21 0 1
 0 14 0 1
 0 20 1 0
+0 21 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw5 bread6 content2
 0
 3
-0 21 0 1
 0 17 0 1
 0 20 1 0
+0 21 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw5 bread6 content3
 0
 3
-0 21 0 1
 0 18 0 1
 0 20 1 0
+0 21 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw5 bread6 content4
 0
 3
+0 20 1 0
 0 21 0 1
 0 22 0 1
-0 20 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw5 bread6 content5
 0
 3
+0 20 1 0
 0 21 0 1
 0 27 0 1
-0 20 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw5 bread6 content6
 0
 3
+0 20 1 0
 0 21 0 1
 0 28 0 1
-0 20 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw6 bread1 content1
 0
 3
-0 26 0 1
 0 14 0 1
 0 23 1 0
+0 26 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw6 bread1 content2
 0
 3
-0 26 0 1
 0 17 0 1
 0 23 1 0
+0 26 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw6 bread1 content3
 0
 3
-0 26 0 1
 0 18 0 1
 0 23 1 0
+0 26 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw6 bread1 content4
 0
 3
-0 26 0 1
 0 22 0 1
 0 23 1 0
+0 26 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw6 bread1 content5
 0
 3
+0 23 1 0
 0 26 0 1
 0 27 0 1
-0 23 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw6 bread1 content6
 0
 3
+0 23 1 0
 0 26 0 1
 0 28 0 1
-0 23 1 0
 1
 end_operator
 begin_operator
@@ -2089,8 +2089,8 @@ make_sandwich sandw6 bread2 content5
 0
 3
 0 13 0 1
-0 27 0 1
 0 23 1 0
+0 27 0 1
 1
 end_operator
 begin_operator
@@ -2098,16 +2098,16 @@ make_sandwich sandw6 bread2 content6
 0
 3
 0 13 0 1
-0 28 0 1
 0 23 1 0
+0 28 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw6 bread3 content1
 0
 3
-0 16 0 1
 0 14 0 1
+0 16 0 1
 0 23 1 0
 1
 end_operator
@@ -2143,8 +2143,8 @@ make_sandwich sandw6 bread3 content5
 0
 3
 0 16 0 1
-0 27 0 1
 0 23 1 0
+0 27 0 1
 1
 end_operator
 begin_operator
@@ -2152,70 +2152,70 @@ make_sandwich sandw6 bread3 content6
 0
 3
 0 16 0 1
-0 28 0 1
 0 23 1 0
+0 28 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw6 bread4 content1
 0
 3
-0 29 0 1
 0 14 0 1
 0 23 1 0
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw6 bread4 content2
 0
 3
-0 29 0 1
 0 17 0 1
 0 23 1 0
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw6 bread4 content3
 0
 3
-0 29 0 1
 0 18 0 1
 0 23 1 0
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw6 bread4 content4
 0
 3
-0 29 0 1
 0 22 0 1
 0 23 1 0
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw6 bread4 content5
 0
 3
-0 29 0 1
-0 27 0 1
 0 23 1 0
+0 27 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw6 bread4 content6
 0
 3
-0 29 0 1
-0 28 0 1
 0 23 1 0
+0 28 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw6 bread5 content1
 0
 3
-0 19 0 1
 0 14 0 1
+0 19 0 1
 0 23 1 0
 1
 end_operator
@@ -2223,8 +2223,8 @@ begin_operator
 make_sandwich sandw6 bread5 content2
 0
 3
-0 19 0 1
 0 17 0 1
+0 19 0 1
 0 23 1 0
 1
 end_operator
@@ -2232,8 +2232,8 @@ begin_operator
 make_sandwich sandw6 bread5 content3
 0
 3
-0 19 0 1
 0 18 0 1
+0 19 0 1
 0 23 1 0
 1
 end_operator
@@ -2251,8 +2251,8 @@ make_sandwich sandw6 bread5 content5
 0
 3
 0 19 0 1
-0 27 0 1
 0 23 1 0
+0 27 0 1
 1
 end_operator
 begin_operator
@@ -2260,16 +2260,16 @@ make_sandwich sandw6 bread5 content6
 0
 3
 0 19 0 1
-0 28 0 1
 0 23 1 0
+0 28 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw6 bread6 content1
 0
 3
-0 21 0 1
 0 14 0 1
+0 21 0 1
 0 23 1 0
 1
 end_operator
@@ -2277,8 +2277,8 @@ begin_operator
 make_sandwich sandw6 bread6 content2
 0
 3
-0 21 0 1
 0 17 0 1
+0 21 0 1
 0 23 1 0
 1
 end_operator
@@ -2286,8 +2286,8 @@ begin_operator
 make_sandwich sandw6 bread6 content3
 0
 3
-0 21 0 1
 0 18 0 1
+0 21 0 1
 0 23 1 0
 1
 end_operator
@@ -2305,8 +2305,8 @@ make_sandwich sandw6 bread6 content5
 0
 3
 0 21 0 1
-0 27 0 1
 0 23 1 0
+0 27 0 1
 1
 end_operator
 begin_operator
@@ -2314,62 +2314,62 @@ make_sandwich sandw6 bread6 content6
 0
 3
 0 21 0 1
-0 28 0 1
 0 23 1 0
+0 28 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw7 bread1 content1
 0
 3
-0 26 0 1
 0 14 0 1
 0 24 1 0
+0 26 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw7 bread1 content2
 0
 3
-0 26 0 1
 0 17 0 1
 0 24 1 0
+0 26 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw7 bread1 content3
 0
 3
-0 26 0 1
 0 18 0 1
 0 24 1 0
+0 26 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw7 bread1 content4
 0
 3
-0 26 0 1
 0 22 0 1
 0 24 1 0
+0 26 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw7 bread1 content5
 0
 3
+0 24 1 0
 0 26 0 1
 0 27 0 1
-0 24 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw7 bread1 content6
 0
 3
+0 24 1 0
 0 26 0 1
 0 28 0 1
-0 24 1 0
 1
 end_operator
 begin_operator
@@ -2413,8 +2413,8 @@ make_sandwich sandw7 bread2 content5
 0
 3
 0 13 0 1
-0 27 0 1
 0 24 1 0
+0 27 0 1
 1
 end_operator
 begin_operator
@@ -2422,16 +2422,16 @@ make_sandwich sandw7 bread2 content6
 0
 3
 0 13 0 1
-0 28 0 1
 0 24 1 0
+0 28 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw7 bread3 content1
 0
 3
-0 16 0 1
 0 14 0 1
+0 16 0 1
 0 24 1 0
 1
 end_operator
@@ -2467,8 +2467,8 @@ make_sandwich sandw7 bread3 content5
 0
 3
 0 16 0 1
-0 27 0 1
 0 24 1 0
+0 27 0 1
 1
 end_operator
 begin_operator
@@ -2476,70 +2476,70 @@ make_sandwich sandw7 bread3 content6
 0
 3
 0 16 0 1
-0 28 0 1
 0 24 1 0
+0 28 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw7 bread4 content1
 0
 3
-0 29 0 1
 0 14 0 1
 0 24 1 0
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw7 bread4 content2
 0
 3
-0 29 0 1
 0 17 0 1
 0 24 1 0
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw7 bread4 content3
 0
 3
-0 29 0 1
 0 18 0 1
 0 24 1 0
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw7 bread4 content4
 0
 3
-0 29 0 1
 0 22 0 1
 0 24 1 0
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw7 bread4 content5
 0
 3
-0 29 0 1
-0 27 0 1
 0 24 1 0
+0 27 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw7 bread4 content6
 0
 3
-0 29 0 1
-0 28 0 1
 0 24 1 0
+0 28 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw7 bread5 content1
 0
 3
-0 19 0 1
 0 14 0 1
+0 19 0 1
 0 24 1 0
 1
 end_operator
@@ -2547,8 +2547,8 @@ begin_operator
 make_sandwich sandw7 bread5 content2
 0
 3
-0 19 0 1
 0 17 0 1
+0 19 0 1
 0 24 1 0
 1
 end_operator
@@ -2556,8 +2556,8 @@ begin_operator
 make_sandwich sandw7 bread5 content3
 0
 3
-0 19 0 1
 0 18 0 1
+0 19 0 1
 0 24 1 0
 1
 end_operator
@@ -2575,8 +2575,8 @@ make_sandwich sandw7 bread5 content5
 0
 3
 0 19 0 1
-0 27 0 1
 0 24 1 0
+0 27 0 1
 1
 end_operator
 begin_operator
@@ -2584,16 +2584,16 @@ make_sandwich sandw7 bread5 content6
 0
 3
 0 19 0 1
-0 28 0 1
 0 24 1 0
+0 28 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw7 bread6 content1
 0
 3
-0 21 0 1
 0 14 0 1
+0 21 0 1
 0 24 1 0
 1
 end_operator
@@ -2601,8 +2601,8 @@ begin_operator
 make_sandwich sandw7 bread6 content2
 0
 3
-0 21 0 1
 0 17 0 1
+0 21 0 1
 0 24 1 0
 1
 end_operator
@@ -2610,8 +2610,8 @@ begin_operator
 make_sandwich sandw7 bread6 content3
 0
 3
-0 21 0 1
 0 18 0 1
+0 21 0 1
 0 24 1 0
 1
 end_operator
@@ -2629,8 +2629,8 @@ make_sandwich sandw7 bread6 content5
 0
 3
 0 21 0 1
-0 27 0 1
 0 24 1 0
+0 27 0 1
 1
 end_operator
 begin_operator
@@ -2638,62 +2638,62 @@ make_sandwich sandw7 bread6 content6
 0
 3
 0 21 0 1
-0 28 0 1
 0 24 1 0
+0 28 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw8 bread1 content1
 0
 3
-0 26 0 1
 0 14 0 1
 0 25 1 0
+0 26 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw8 bread1 content2
 0
 3
-0 26 0 1
 0 17 0 1
 0 25 1 0
+0 26 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw8 bread1 content3
 0
 3
-0 26 0 1
 0 18 0 1
 0 25 1 0
+0 26 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw8 bread1 content4
 0
 3
-0 26 0 1
 0 22 0 1
 0 25 1 0
+0 26 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw8 bread1 content5
 0
 3
+0 25 1 0
 0 26 0 1
 0 27 0 1
-0 25 1 0
 1
 end_operator
 begin_operator
 make_sandwich sandw8 bread1 content6
 0
 3
+0 25 1 0
 0 26 0 1
 0 28 0 1
-0 25 1 0
 1
 end_operator
 begin_operator
@@ -2737,8 +2737,8 @@ make_sandwich sandw8 bread2 content5
 0
 3
 0 13 0 1
-0 27 0 1
 0 25 1 0
+0 27 0 1
 1
 end_operator
 begin_operator
@@ -2746,16 +2746,16 @@ make_sandwich sandw8 bread2 content6
 0
 3
 0 13 0 1
-0 28 0 1
 0 25 1 0
+0 28 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw8 bread3 content1
 0
 3
-0 16 0 1
 0 14 0 1
+0 16 0 1
 0 25 1 0
 1
 end_operator
@@ -2791,8 +2791,8 @@ make_sandwich sandw8 bread3 content5
 0
 3
 0 16 0 1
-0 27 0 1
 0 25 1 0
+0 27 0 1
 1
 end_operator
 begin_operator
@@ -2800,70 +2800,70 @@ make_sandwich sandw8 bread3 content6
 0
 3
 0 16 0 1
-0 28 0 1
 0 25 1 0
+0 28 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw8 bread4 content1
 0
 3
-0 29 0 1
 0 14 0 1
 0 25 1 0
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw8 bread4 content2
 0
 3
-0 29 0 1
 0 17 0 1
 0 25 1 0
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw8 bread4 content3
 0
 3
-0 29 0 1
 0 18 0 1
 0 25 1 0
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw8 bread4 content4
 0
 3
-0 29 0 1
 0 22 0 1
 0 25 1 0
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw8 bread4 content5
 0
 3
-0 29 0 1
-0 27 0 1
 0 25 1 0
+0 27 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw8 bread4 content6
 0
 3
-0 29 0 1
-0 28 0 1
 0 25 1 0
+0 28 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw8 bread5 content1
 0
 3
-0 19 0 1
 0 14 0 1
+0 19 0 1
 0 25 1 0
 1
 end_operator
@@ -2871,8 +2871,8 @@ begin_operator
 make_sandwich sandw8 bread5 content2
 0
 3
-0 19 0 1
 0 17 0 1
+0 19 0 1
 0 25 1 0
 1
 end_operator
@@ -2880,8 +2880,8 @@ begin_operator
 make_sandwich sandw8 bread5 content3
 0
 3
-0 19 0 1
 0 18 0 1
+0 19 0 1
 0 25 1 0
 1
 end_operator
@@ -2899,8 +2899,8 @@ make_sandwich sandw8 bread5 content5
 0
 3
 0 19 0 1
-0 27 0 1
 0 25 1 0
+0 27 0 1
 1
 end_operator
 begin_operator
@@ -2908,16 +2908,16 @@ make_sandwich sandw8 bread5 content6
 0
 3
 0 19 0 1
-0 28 0 1
 0 25 1 0
+0 28 0 1
 1
 end_operator
 begin_operator
 make_sandwich sandw8 bread6 content1
 0
 3
-0 21 0 1
 0 14 0 1
+0 21 0 1
 0 25 1 0
 1
 end_operator
@@ -2925,8 +2925,8 @@ begin_operator
 make_sandwich sandw8 bread6 content2
 0
 3
-0 21 0 1
 0 17 0 1
+0 21 0 1
 0 25 1 0
 1
 end_operator
@@ -2934,8 +2934,8 @@ begin_operator
 make_sandwich sandw8 bread6 content3
 0
 3
-0 21 0 1
 0 18 0 1
+0 21 0 1
 0 25 1 0
 1
 end_operator
@@ -2953,8 +2953,8 @@ make_sandwich sandw8 bread6 content5
 0
 3
 0 21 0 1
-0 27 0 1
 0 25 1 0
+0 27 0 1
 1
 end_operator
 begin_operator
@@ -2962,328 +2962,328 @@ make_sandwich sandw8 bread6 content6
 0
 3
 0 21 0 1
-0 28 0 1
 0 25 1 0
+0 28 0 1
 1
 end_operator
 begin_operator
 make_sandwich_no_gluten sandw1 bread1 content5
 0
 4
+0 9 -1 0
+0 15 1 0
 0 26 0 1
 0 27 0 1
-0 15 1 0
-0 9 -1 0
 1
 end_operator
 begin_operator
 make_sandwich_no_gluten sandw1 bread1 content6
 0
 4
+0 9 -1 0
+0 15 1 0
 0 26 0 1
 0 28 0 1
-0 15 1 0
-0 9 -1 0
 1
 end_operator
 begin_operator
 make_sandwich_no_gluten sandw1 bread4 content5
 0
 4
-0 29 0 1
-0 27 0 1
-0 15 1 0
 0 9 -1 0
+0 15 1 0
+0 27 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich_no_gluten sandw1 bread4 content6
 0
 4
-0 29 0 1
-0 28 0 1
-0 15 1 0
 0 9 -1 0
+0 15 1 0
+0 28 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich_no_gluten sandw2 bread1 content5
 0
 4
+0 2 -1 0
+0 10 1 0
 0 26 0 1
 0 27 0 1
-0 10 1 0
-0 2 -1 0
 1
 end_operator
 begin_operator
 make_sandwich_no_gluten sandw2 bread1 content6
 0
 4
+0 2 -1 0
+0 10 1 0
 0 26 0 1
 0 28 0 1
-0 10 1 0
-0 2 -1 0
 1
 end_operator
 begin_operator
 make_sandwich_no_gluten sandw2 bread4 content5
 0
 4
-0 29 0 1
-0 27 0 1
-0 10 1 0
 0 2 -1 0
+0 10 1 0
+0 27 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich_no_gluten sandw2 bread4 content6
 0
 4
-0 29 0 1
-0 28 0 1
-0 10 1 0
 0 2 -1 0
+0 10 1 0
+0 28 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich_no_gluten sandw3 bread1 content5
 0
 4
+0 3 -1 0
+0 11 1 0
 0 26 0 1
 0 27 0 1
-0 11 1 0
-0 3 -1 0
 1
 end_operator
 begin_operator
 make_sandwich_no_gluten sandw3 bread1 content6
 0
 4
+0 3 -1 0
+0 11 1 0
 0 26 0 1
 0 28 0 1
-0 11 1 0
-0 3 -1 0
 1
 end_operator
 begin_operator
 make_sandwich_no_gluten sandw3 bread4 content5
 0
 4
-0 29 0 1
-0 27 0 1
-0 11 1 0
 0 3 -1 0
+0 11 1 0
+0 27 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich_no_gluten sandw3 bread4 content6
 0
 4
-0 29 0 1
-0 28 0 1
-0 11 1 0
 0 3 -1 0
+0 11 1 0
+0 28 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich_no_gluten sandw4 bread1 content5
 0
 4
+0 4 -1 0
+0 12 1 0
 0 26 0 1
 0 27 0 1
-0 12 1 0
-0 4 -1 0
 1
 end_operator
 begin_operator
 make_sandwich_no_gluten sandw4 bread1 content6
 0
 4
+0 4 -1 0
+0 12 1 0
 0 26 0 1
 0 28 0 1
-0 12 1 0
-0 4 -1 0
 1
 end_operator
 begin_operator
 make_sandwich_no_gluten sandw4 bread4 content5
 0
 4
-0 29 0 1
-0 27 0 1
-0 12 1 0
 0 4 -1 0
+0 12 1 0
+0 27 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich_no_gluten sandw4 bread4 content6
 0
 4
-0 29 0 1
-0 28 0 1
-0 12 1 0
 0 4 -1 0
+0 12 1 0
+0 28 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich_no_gluten sandw5 bread1 content5
 0
 4
+0 5 -1 0
+0 20 1 0
 0 26 0 1
 0 27 0 1
-0 20 1 0
-0 5 -1 0
 1
 end_operator
 begin_operator
 make_sandwich_no_gluten sandw5 bread1 content6
 0
 4
+0 5 -1 0
+0 20 1 0
 0 26 0 1
 0 28 0 1
-0 20 1 0
-0 5 -1 0
 1
 end_operator
 begin_operator
 make_sandwich_no_gluten sandw5 bread4 content5
 0
 4
-0 29 0 1
-0 27 0 1
-0 20 1 0
 0 5 -1 0
+0 20 1 0
+0 27 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich_no_gluten sandw5 bread4 content6
 0
 4
-0 29 0 1
-0 28 0 1
-0 20 1 0
 0 5 -1 0
+0 20 1 0
+0 28 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich_no_gluten sandw6 bread1 content5
 0
 4
+0 6 -1 0
+0 23 1 0
 0 26 0 1
 0 27 0 1
-0 23 1 0
-0 6 -1 0
 1
 end_operator
 begin_operator
 make_sandwich_no_gluten sandw6 bread1 content6
 0
 4
+0 6 -1 0
+0 23 1 0
 0 26 0 1
 0 28 0 1
-0 23 1 0
-0 6 -1 0
 1
 end_operator
 begin_operator
 make_sandwich_no_gluten sandw6 bread4 content5
 0
 4
-0 29 0 1
-0 27 0 1
-0 23 1 0
 0 6 -1 0
+0 23 1 0
+0 27 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich_no_gluten sandw6 bread4 content6
 0
 4
-0 29 0 1
-0 28 0 1
-0 23 1 0
 0 6 -1 0
+0 23 1 0
+0 28 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich_no_gluten sandw7 bread1 content5
 0
 4
+0 7 -1 0
+0 24 1 0
 0 26 0 1
 0 27 0 1
-0 24 1 0
-0 7 -1 0
 1
 end_operator
 begin_operator
 make_sandwich_no_gluten sandw7 bread1 content6
 0
 4
+0 7 -1 0
+0 24 1 0
 0 26 0 1
 0 28 0 1
-0 24 1 0
-0 7 -1 0
 1
 end_operator
 begin_operator
 make_sandwich_no_gluten sandw7 bread4 content5
 0
 4
-0 29 0 1
-0 27 0 1
-0 24 1 0
 0 7 -1 0
+0 24 1 0
+0 27 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich_no_gluten sandw7 bread4 content6
 0
 4
-0 29 0 1
-0 28 0 1
-0 24 1 0
 0 7 -1 0
+0 24 1 0
+0 28 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich_no_gluten sandw8 bread1 content5
 0
 4
+0 8 -1 0
+0 25 1 0
 0 26 0 1
 0 27 0 1
-0 25 1 0
-0 8 -1 0
 1
 end_operator
 begin_operator
 make_sandwich_no_gluten sandw8 bread1 content6
 0
 4
+0 8 -1 0
+0 25 1 0
 0 26 0 1
 0 28 0 1
-0 25 1 0
-0 8 -1 0
 1
 end_operator
 begin_operator
 make_sandwich_no_gluten sandw8 bread4 content5
 0
 4
-0 29 0 1
-0 27 0 1
-0 25 1 0
 0 8 -1 0
+0 25 1 0
+0 27 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
 make_sandwich_no_gluten sandw8 bread4 content6
 0
 4
-0 29 0 1
-0 28 0 1
-0 25 1 0
 0 8 -1 0
+0 25 1 0
+0 28 0 1
+0 29 0 1
 1
 end_operator
 begin_operator
