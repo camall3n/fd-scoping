@@ -9,71 +9,71 @@ begin_variable
 var0
 -1
 16
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
+Atom at-robot(loc-x0-y0)
+Atom at-robot(loc-x0-y1)
+Atom at-robot(loc-x0-y2)
+Atom at-robot(loc-x0-y3)
+Atom at-robot(loc-x1-y0)
+Atom at-robot(loc-x1-y1)
+Atom at-robot(loc-x1-y2)
+Atom at-robot(loc-x1-y3)
+Atom at-robot(loc-x2-y0)
+Atom at-robot(loc-x2-y1)
+Atom at-robot(loc-x2-y2)
+Atom at-robot(loc-x2-y3)
+Atom at-robot(loc-x3-y0)
+Atom at-robot(loc-x3-y1)
+Atom at-robot(loc-x3-y2)
+Atom at-robot(loc-x3-y3)
 end_variable
 begin_variable
 var1
 -1
 2
-0
-1
+Atom visited(loc-x3-y3)
+NegatedAtom visited(loc-x3-y3)
 end_variable
 begin_variable
 var2
 -1
 2
-0
-1
+Atom visited(loc-x3-y2)
+NegatedAtom visited(loc-x3-y2)
 end_variable
 begin_variable
 var3
 -1
 2
-0
-1
+Atom visited(loc-x3-y0)
+NegatedAtom visited(loc-x3-y0)
 end_variable
 begin_variable
 var4
 -1
 2
-0
-1
+Atom visited(loc-x1-y0)
+NegatedAtom visited(loc-x1-y0)
 end_variable
 begin_variable
 var5
 -1
 2
-0
-1
+Atom visited(loc-x0-y3)
+NegatedAtom visited(loc-x0-y3)
 end_variable
 begin_variable
 var6
 -1
 2
-0
-1
+Atom visited(loc-x0-y1)
+NegatedAtom visited(loc-x0-y1)
 end_variable
 begin_variable
 var7
 -1
 2
-0
-1
+Atom visited(loc-x0-y0)
+NegatedAtom visited(loc-x0-y0)
 end_variable
 0
 begin_state

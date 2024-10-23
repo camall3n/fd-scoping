@@ -9,45 +9,45 @@ begin_variable
 var0
 -1
 3
-0
-1
-2
+Atom at(hoist0, container-0-0)
+Atom at(hoist0, depot0-1-1)
+Atom at(hoist0, loadarea)
 end_variable
 begin_variable
 var1
 -1
 2
-0
-1
+Atom clear(container-0-0)
+NegatedAtom clear(container-0-0)
 end_variable
 begin_variable
 var2
 -1
 2
-0
-1
+Atom clear(depot0-1-1)
+NegatedAtom clear(depot0-1-1)
 end_variable
 begin_variable
 var3
 -1
 3
-0
-1
-2
+Atom lifting(hoist0, crate0)
+Atom on(crate0, container-0-0)
+Atom on(crate0, depot0-1-1)
 end_variable
 begin_variable
 var4
 -1
 2
-0
-1
+Atom available(hoist0)
+NegatedAtom available(hoist0)
 end_variable
 begin_variable
 var5
 -1
 2
-0
-1
+Atom in(crate0, depot0)
+NegatedAtom in(crate0, depot0)
 end_variable
 1
 begin_mutex_group

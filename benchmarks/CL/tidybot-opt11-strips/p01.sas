@@ -9,29 +9,29 @@ begin_variable
 var0
 -1
 2
-0
-1
+Atom object-done(object3)
+NegatedAtom object-done(object3)
 end_variable
 begin_variable
 var1
 -1
 2
-0
-1
+Atom object-done(object1)
+NegatedAtom object-done(object1)
 end_variable
 begin_variable
 var2
 -1
 2
-0
-1
+Atom object-done(object2)
+NegatedAtom object-done(object2)
 end_variable
 begin_variable
 var3
 -1
 2
-0
-1
+Atom object-done(object0)
+NegatedAtom object-done(object0)
 end_variable
 0
 begin_state

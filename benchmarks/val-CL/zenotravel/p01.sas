@@ -9,21 +9,21 @@ begin_variable
 var0
 -1
 7
-0
-1
-2
-3
-4
-5
-6
+Atom fuel-level(plane1, fl0)
+Atom fuel-level(plane1, fl1)
+Atom fuel-level(plane1, fl2)
+Atom fuel-level(plane1, fl3)
+Atom fuel-level(plane1, fl4)
+Atom fuel-level(plane1, fl5)
+Atom fuel-level(plane1, fl6)
 end_variable
 begin_variable
 var1
 -1
 3
-0
-1
-2
+Atom at(plane1, city0)
+Atom at(plane1, city1)
+Atom at(plane1, city2)
 end_variable
 0
 begin_state

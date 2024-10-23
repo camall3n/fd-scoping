@@ -2,168 +2,168 @@ begin_version
 3
 end_version
 begin_metric
-0
+1
 end_metric
 16
 begin_variable
 var0
 -1
 8
-0
-1
-2
-3
-4
-5
-6
-7
+Atom on(car-in-1a, seg-in-2a)
+Atom on(car-in-1b, seg-in-2a)
+Atom on(car-in-2a, seg-in-2a)
+Atom on(car-in-2b, seg-in-2a)
+Atom on(car-out-1a, seg-in-2a)
+Atom on(car-out-1b, seg-in-2a)
+Atom on(car-out-2a, seg-in-2a)
+Atom on(car-out-2b, seg-in-2a)
 end_variable
 begin_variable
 var1
 -1
 8
-0
-1
-2
-3
-4
-5
-6
-7
+Atom on(car-in-1a, seg-in-2b)
+Atom on(car-in-1b, seg-in-2b)
+Atom on(car-in-2a, seg-in-2b)
+Atom on(car-in-2b, seg-in-2b)
+Atom on(car-out-1a, seg-in-2b)
+Atom on(car-out-1b, seg-in-2b)
+Atom on(car-out-2a, seg-in-2b)
+Atom on(car-out-2b, seg-in-2b)
 end_variable
 begin_variable
 var2
 -1
 8
-0
-1
-2
-3
-4
-5
-6
-7
+Atom on(car-in-1a, seg-out-2a)
+Atom on(car-in-1b, seg-out-2a)
+Atom on(car-in-2a, seg-out-2a)
+Atom on(car-in-2b, seg-out-2a)
+Atom on(car-out-1a, seg-out-2a)
+Atom on(car-out-1b, seg-out-2a)
+Atom on(car-out-2a, seg-out-2a)
+Atom on(car-out-2b, seg-out-2a)
 end_variable
 begin_variable
 var3
 -1
 8
-0
-1
-2
-3
-4
-5
-6
-7
+Atom on(car-in-1a, seg-out-2b)
+Atom on(car-in-1b, seg-out-2b)
+Atom on(car-in-2a, seg-out-2b)
+Atom on(car-in-2b, seg-out-2b)
+Atom on(car-out-1a, seg-out-2b)
+Atom on(car-out-1b, seg-out-2b)
+Atom on(car-out-2a, seg-out-2b)
+Atom on(car-out-2b, seg-out-2b)
 end_variable
 begin_variable
 var4
 -1
 8
-0
-1
-2
-3
-4
-5
-6
-7
+Atom on(car-in-1a, seg-out-1a)
+Atom on(car-in-1b, seg-out-1a)
+Atom on(car-in-2a, seg-out-1a)
+Atom on(car-in-2b, seg-out-1a)
+Atom on(car-out-1a, seg-out-1a)
+Atom on(car-out-1b, seg-out-1a)
+Atom on(car-out-2a, seg-out-1a)
+Atom on(car-out-2b, seg-out-1a)
 end_variable
 begin_variable
 var5
 -1
 8
-0
-1
-2
-3
-4
-5
-6
-7
+Atom on(car-in-1a, seg-out-1b)
+Atom on(car-in-1b, seg-out-1b)
+Atom on(car-in-2a, seg-out-1b)
+Atom on(car-in-2b, seg-out-1b)
+Atom on(car-out-1a, seg-out-1b)
+Atom on(car-out-1b, seg-out-1b)
+Atom on(car-out-2a, seg-out-1b)
+Atom on(car-out-2b, seg-out-1b)
 end_variable
 begin_variable
 var6
 -1
 8
-0
-1
-2
-3
-4
-5
-6
-7
+Atom on(car-in-1a, seg-in-1a)
+Atom on(car-in-1b, seg-in-1a)
+Atom on(car-in-2a, seg-in-1a)
+Atom on(car-in-2b, seg-in-1a)
+Atom on(car-out-1a, seg-in-1a)
+Atom on(car-out-1b, seg-in-1a)
+Atom on(car-out-2a, seg-in-1a)
+Atom on(car-out-2b, seg-in-1a)
 end_variable
 begin_variable
 var7
 -1
 8
-0
-1
-2
-3
-4
-5
-6
-7
+Atom on(car-in-1a, seg-in-1b)
+Atom on(car-in-1b, seg-in-1b)
+Atom on(car-in-2a, seg-in-1b)
+Atom on(car-in-2b, seg-in-1b)
+Atom on(car-out-1a, seg-in-1b)
+Atom on(car-out-1b, seg-in-1b)
+Atom on(car-out-2a, seg-in-1b)
+Atom on(car-out-2b, seg-in-1b)
 end_variable
 begin_variable
 var8
 -1
 2
-0
-1
+Atom analyzed(car-out-2b)
+NegatedAtom analyzed(car-out-2b)
 end_variable
 begin_variable
 var9
 -1
 2
-0
-1
+Atom analyzed(car-out-2a)
+NegatedAtom analyzed(car-out-2a)
 end_variable
 begin_variable
 var10
 -1
 2
-0
-1
+Atom analyzed(car-out-1b)
+NegatedAtom analyzed(car-out-1b)
 end_variable
 begin_variable
 var11
 -1
 2
-0
-1
+Atom analyzed(car-out-1a)
+NegatedAtom analyzed(car-out-1a)
 end_variable
 begin_variable
 var12
 -1
 2
-0
-1
+Atom analyzed(car-in-2b)
+NegatedAtom analyzed(car-in-2b)
 end_variable
 begin_variable
 var13
 -1
 2
-0
-1
+Atom analyzed(car-in-2a)
+NegatedAtom analyzed(car-in-2a)
 end_variable
 begin_variable
 var14
 -1
 2
-0
-1
+Atom analyzed(car-in-1b)
+NegatedAtom analyzed(car-in-1b)
 end_variable
 begin_variable
 var15
 -1
 2
-0
-1
+Atom analyzed(car-in-1a)
+NegatedAtom analyzed(car-in-1a)
 end_variable
 0
 begin_state

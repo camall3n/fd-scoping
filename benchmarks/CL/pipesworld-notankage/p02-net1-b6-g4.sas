@@ -9,295 +9,295 @@ begin_variable
 var0
 -1
 2
-0
-1
+Atom on(b3, a2)
+NegatedAtom on(b3, a2)
 end_variable
 begin_variable
 var1
 -1
 2
-0
-1
+Atom on(b3, a3)
+NegatedAtom on(b3, a3)
 end_variable
 begin_variable
 var2
 -1
 2
-0
-1
+Atom on(b0, a3)
+NegatedAtom on(b0, a3)
 end_variable
 begin_variable
 var3
 -1
 2
-0
-1
+Atom on(b5, a3)
+NegatedAtom on(b5, a3)
 end_variable
 begin_variable
 var4
 -1
 2
-0
-1
+Atom on(b1, a2)
+NegatedAtom on(b1, a2)
 end_variable
 begin_variable
 var5
 -1
 2
-0
-1
+Atom on(b1, a3)
+NegatedAtom on(b1, a3)
 end_variable
 begin_variable
 var6
 -1
 2
-0
-1
+Atom on(b2, a2)
+NegatedAtom on(b2, a2)
 end_variable
 begin_variable
 var7
 -1
 2
-0
-1
+Atom first(b3, s12)
+NegatedAtom first(b3, s12)
 end_variable
 begin_variable
 var8
 -1
 2
-0
-1
+Atom last(b3, s12)
+NegatedAtom last(b3, s12)
 end_variable
 begin_variable
 var9
 -1
 2
-0
-1
+Atom on(b3, a1)
+NegatedAtom on(b3, a1)
 end_variable
 begin_variable
 var10
 -1
 2
-0
-1
+Atom first(b3, s13)
+NegatedAtom first(b3, s13)
 end_variable
 begin_variable
 var11
 -1
 2
-0
-1
+Atom last(b3, s13)
+NegatedAtom last(b3, s13)
 end_variable
 begin_variable
 var12
 -1
 2
-0
-1
+Atom on(b4, a2)
+NegatedAtom on(b4, a2)
 end_variable
 begin_variable
 var13
 -1
 2
-0
-1
+Atom on(b4, a3)
+NegatedAtom on(b4, a3)
 end_variable
 begin_variable
 var14
 -1
 2
-0
-1
+Atom first(b0, s13)
+NegatedAtom first(b0, s13)
 end_variable
 begin_variable
 var15
 -1
 2
-0
-1
+Atom last(b0, s13)
+NegatedAtom last(b0, s13)
 end_variable
 begin_variable
 var16
 -1
 2
-0
-1
+Atom on(b0, a1)
+NegatedAtom on(b0, a1)
 end_variable
 begin_variable
 var17
 -1
 2
-0
-1
+Atom first(b5, s13)
+NegatedAtom first(b5, s13)
 end_variable
 begin_variable
 var18
 -1
 2
-0
-1
+Atom last(b5, s13)
+NegatedAtom last(b5, s13)
 end_variable
 begin_variable
 var19
 -1
 2
-0
-1
+Atom on(b5, a1)
+NegatedAtom on(b5, a1)
 end_variable
 begin_variable
 var20
 -1
 2
-0
-1
+Atom first(b1, s13)
+NegatedAtom first(b1, s13)
 end_variable
 begin_variable
 var21
 -1
 2
-0
-1
+Atom last(b1, s13)
+NegatedAtom last(b1, s13)
 end_variable
 begin_variable
 var22
 -1
 2
-0
-1
+Atom first(b4, s13)
+NegatedAtom first(b4, s13)
 end_variable
 begin_variable
 var23
 -1
 2
-0
-1
+Atom last(b4, s13)
+NegatedAtom last(b4, s13)
 end_variable
 begin_variable
 var24
 -1
 2
-0
-1
+Atom on(b1, a1)
+NegatedAtom on(b1, a1)
 end_variable
 begin_variable
 var25
 -1
 2
-0
-1
+Atom first(b1, s12)
+NegatedAtom first(b1, s12)
 end_variable
 begin_variable
 var26
 -1
 2
-0
-1
+Atom last(b1, s12)
+NegatedAtom last(b1, s12)
 end_variable
 begin_variable
 var27
 -1
 2
-0
-1
+Atom first(b2, s13)
+NegatedAtom first(b2, s13)
 end_variable
 begin_variable
 var28
 -1
 2
-0
-1
+Atom last(b2, s13)
+NegatedAtom last(b2, s13)
 end_variable
 begin_variable
 var29
 -1
 2
-0
-1
+Atom on(b2, a1)
+NegatedAtom on(b2, a1)
 end_variable
 begin_variable
 var30
 -1
 2
-0
-1
+Atom first(b2, s12)
+NegatedAtom first(b2, s12)
 end_variable
 begin_variable
 var31
 -1
 2
-0
-1
+Atom last(b2, s12)
+NegatedAtom last(b2, s12)
 end_variable
 begin_variable
 var32
 -1
 2
-0
-1
+Atom last(b0, s12)
+NegatedAtom last(b0, s12)
 end_variable
 begin_variable
 var33
 -1
 2
-0
-1
+Atom first(b0, s12)
+NegatedAtom first(b0, s12)
 end_variable
 begin_variable
 var34
 -1
 2
-0
-1
+Atom last(b5, s12)
+NegatedAtom last(b5, s12)
 end_variable
 begin_variable
 var35
 -1
 2
-0
-1
+Atom first(b5, s12)
+NegatedAtom first(b5, s12)
 end_variable
 begin_variable
 var36
 -1
 2
-0
-1
+Atom first(b4, s12)
+NegatedAtom first(b4, s12)
 end_variable
 begin_variable
 var37
 -1
 2
-0
-1
+Atom last(b4, s12)
+NegatedAtom last(b4, s12)
 end_variable
 begin_variable
 var38
 -1
 2
-0
-1
+Atom on(b0, a2)
+NegatedAtom on(b0, a2)
 end_variable
 begin_variable
 var39
 -1
 2
-0
-1
+Atom on(b5, a2)
+NegatedAtom on(b5, a2)
 end_variable
 begin_variable
 var40
 -1
 2
-0
-1
+Atom on(b2, a3)
+NegatedAtom on(b2, a3)
 end_variable
 begin_variable
 var41
 -1
 2
-0
-1
+Atom on(b4, a1)
+NegatedAtom on(b4, a1)
 end_variable
 0
 begin_state

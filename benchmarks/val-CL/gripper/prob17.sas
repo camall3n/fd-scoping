@@ -9,344 +9,380 @@ begin_variable
 var0
 -1
 2
-0
-1
+Atom at-robby(rooma)
+Atom at-robby(roomb)
 end_variable
 begin_variable
 var1
 -1
 37
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-32
-33
-34
-35
-36
+Atom carry(ball1, left)
+Atom carry(ball10, left)
+Atom carry(ball11, left)
+Atom carry(ball12, left)
+Atom carry(ball13, left)
+Atom carry(ball14, left)
+Atom carry(ball15, left)
+Atom carry(ball16, left)
+Atom carry(ball17, left)
+Atom carry(ball18, left)
+Atom carry(ball19, left)
+Atom carry(ball2, left)
+Atom carry(ball20, left)
+Atom carry(ball21, left)
+Atom carry(ball22, left)
+Atom carry(ball23, left)
+Atom carry(ball24, left)
+Atom carry(ball25, left)
+Atom carry(ball26, left)
+Atom carry(ball27, left)
+Atom carry(ball28, left)
+Atom carry(ball29, left)
+Atom carry(ball3, left)
+Atom carry(ball30, left)
+Atom carry(ball31, left)
+Atom carry(ball32, left)
+Atom carry(ball33, left)
+Atom carry(ball34, left)
+Atom carry(ball35, left)
+Atom carry(ball36, left)
+Atom carry(ball4, left)
+Atom carry(ball5, left)
+Atom carry(ball6, left)
+Atom carry(ball7, left)
+Atom carry(ball8, left)
+Atom carry(ball9, left)
+Atom free(left)
 end_variable
 begin_variable
 var2
 -1
 37
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-32
-33
-34
-35
-36
+Atom carry(ball1, right)
+Atom carry(ball10, right)
+Atom carry(ball11, right)
+Atom carry(ball12, right)
+Atom carry(ball13, right)
+Atom carry(ball14, right)
+Atom carry(ball15, right)
+Atom carry(ball16, right)
+Atom carry(ball17, right)
+Atom carry(ball18, right)
+Atom carry(ball19, right)
+Atom carry(ball2, right)
+Atom carry(ball20, right)
+Atom carry(ball21, right)
+Atom carry(ball22, right)
+Atom carry(ball23, right)
+Atom carry(ball24, right)
+Atom carry(ball25, right)
+Atom carry(ball26, right)
+Atom carry(ball27, right)
+Atom carry(ball28, right)
+Atom carry(ball29, right)
+Atom carry(ball3, right)
+Atom carry(ball30, right)
+Atom carry(ball31, right)
+Atom carry(ball32, right)
+Atom carry(ball33, right)
+Atom carry(ball34, right)
+Atom carry(ball35, right)
+Atom carry(ball36, right)
+Atom carry(ball4, right)
+Atom carry(ball5, right)
+Atom carry(ball6, right)
+Atom carry(ball7, right)
+Atom carry(ball8, right)
+Atom carry(ball9, right)
+Atom free(right)
 end_variable
 begin_variable
 var3
 -1
-2
-0
-1
+3
+Atom at(ball1, rooma)
+Atom at(ball1, roomb)
+<none of those>
 end_variable
 begin_variable
 var4
 -1
-2
-0
-1
+3
+Atom at(ball10, rooma)
+Atom at(ball10, roomb)
+<none of those>
 end_variable
 begin_variable
 var5
 -1
-2
-0
-1
+3
+Atom at(ball11, rooma)
+Atom at(ball11, roomb)
+<none of those>
 end_variable
 begin_variable
 var6
 -1
-2
-0
-1
+3
+Atom at(ball12, rooma)
+Atom at(ball12, roomb)
+<none of those>
 end_variable
 begin_variable
 var7
 -1
-2
-0
-1
+3
+Atom at(ball13, rooma)
+Atom at(ball13, roomb)
+<none of those>
 end_variable
 begin_variable
 var8
 -1
-2
-0
-1
+3
+Atom at(ball14, rooma)
+Atom at(ball14, roomb)
+<none of those>
 end_variable
 begin_variable
 var9
 -1
-2
-0
-1
+3
+Atom at(ball15, rooma)
+Atom at(ball15, roomb)
+<none of those>
 end_variable
 begin_variable
 var10
 -1
-2
-0
-1
+3
+Atom at(ball16, rooma)
+Atom at(ball16, roomb)
+<none of those>
 end_variable
 begin_variable
 var11
 -1
-2
-0
-1
+3
+Atom at(ball17, rooma)
+Atom at(ball17, roomb)
+<none of those>
 end_variable
 begin_variable
 var12
 -1
-2
-0
-1
+3
+Atom at(ball18, rooma)
+Atom at(ball18, roomb)
+<none of those>
 end_variable
 begin_variable
 var13
 -1
-2
-0
-1
+3
+Atom at(ball19, rooma)
+Atom at(ball19, roomb)
+<none of those>
 end_variable
 begin_variable
 var14
 -1
-2
-0
-1
+3
+Atom at(ball2, rooma)
+Atom at(ball2, roomb)
+<none of those>
 end_variable
 begin_variable
 var15
 -1
-2
-0
-1
+3
+Atom at(ball20, rooma)
+Atom at(ball20, roomb)
+<none of those>
 end_variable
 begin_variable
 var16
 -1
-2
-0
-1
+3
+Atom at(ball21, rooma)
+Atom at(ball21, roomb)
+<none of those>
 end_variable
 begin_variable
 var17
 -1
-2
-0
-1
+3
+Atom at(ball22, rooma)
+Atom at(ball22, roomb)
+<none of those>
 end_variable
 begin_variable
 var18
 -1
-2
-0
-1
+3
+Atom at(ball23, rooma)
+Atom at(ball23, roomb)
+<none of those>
 end_variable
 begin_variable
 var19
 -1
-2
-0
-1
+3
+Atom at(ball24, rooma)
+Atom at(ball24, roomb)
+<none of those>
 end_variable
 begin_variable
 var20
 -1
-2
-0
-1
+3
+Atom at(ball25, rooma)
+Atom at(ball25, roomb)
+<none of those>
 end_variable
 begin_variable
 var21
 -1
-2
-0
-1
+3
+Atom at(ball26, rooma)
+Atom at(ball26, roomb)
+<none of those>
 end_variable
 begin_variable
 var22
 -1
-2
-0
-1
+3
+Atom at(ball27, rooma)
+Atom at(ball27, roomb)
+<none of those>
 end_variable
 begin_variable
 var23
 -1
-2
-0
-1
+3
+Atom at(ball28, rooma)
+Atom at(ball28, roomb)
+<none of those>
 end_variable
 begin_variable
 var24
 -1
-2
-0
-1
+3
+Atom at(ball29, rooma)
+Atom at(ball29, roomb)
+<none of those>
 end_variable
 begin_variable
 var25
 -1
-2
-0
-1
+3
+Atom at(ball3, rooma)
+Atom at(ball3, roomb)
+<none of those>
 end_variable
 begin_variable
 var26
 -1
-2
-0
-1
+3
+Atom at(ball30, rooma)
+Atom at(ball30, roomb)
+<none of those>
 end_variable
 begin_variable
 var27
 -1
-2
-0
-1
+3
+Atom at(ball31, rooma)
+Atom at(ball31, roomb)
+<none of those>
 end_variable
 begin_variable
 var28
 -1
-2
-0
-1
+3
+Atom at(ball32, rooma)
+Atom at(ball32, roomb)
+<none of those>
 end_variable
 begin_variable
 var29
 -1
-2
-0
-1
+3
+Atom at(ball33, rooma)
+Atom at(ball33, roomb)
+<none of those>
 end_variable
 begin_variable
 var30
 -1
-2
-0
-1
+3
+Atom at(ball34, rooma)
+Atom at(ball34, roomb)
+<none of those>
 end_variable
 begin_variable
 var31
 -1
-2
-0
-1
+3
+Atom at(ball35, rooma)
+Atom at(ball35, roomb)
+<none of those>
 end_variable
 begin_variable
 var32
 -1
-2
-0
-1
+3
+Atom at(ball36, rooma)
+Atom at(ball36, roomb)
+<none of those>
 end_variable
 begin_variable
 var33
 -1
-2
-0
-1
+3
+Atom at(ball4, rooma)
+Atom at(ball4, roomb)
+<none of those>
 end_variable
 begin_variable
 var34
 -1
-2
-0
-1
+3
+Atom at(ball5, rooma)
+Atom at(ball5, roomb)
+<none of those>
 end_variable
 begin_variable
 var35
 -1
-2
-0
-1
+3
+Atom at(ball6, rooma)
+Atom at(ball6, roomb)
+<none of those>
 end_variable
 begin_variable
 var36
 -1
-2
-0
-1
+3
+Atom at(ball7, rooma)
+Atom at(ball7, roomb)
+<none of those>
 end_variable
 begin_variable
 var37
 -1
-2
-0
-1
+3
+Atom at(ball8, rooma)
+Atom at(ball8, roomb)
+<none of those>
 end_variable
 begin_variable
 var38
 -1
-2
-0
-1
+3
+Atom at(ball9, rooma)
+Atom at(ball9, roomb)
+<none of those>
 end_variable
 36
 begin_mutex_group
@@ -1994,1298 +2030,1298 @@ move roomb rooma
 end_operator
 begin_operator
 pick ball1 rooma left
-2
-0 0
-3 0
 1
+0 0
+2
 0 1 36 0
+0 3 0 2
 1
 end_operator
 begin_operator
 pick ball1 rooma right
-2
-0 0
-3 0
 1
+0 0
+2
 0 2 36 0
+0 3 0 2
 1
 end_operator
 begin_operator
 pick ball1 roomb left
-2
-0 1
-3 1
 1
+0 1
+2
 0 1 36 0
+0 3 1 2
 1
 end_operator
 begin_operator
 pick ball1 roomb right
-2
-0 1
-3 1
 1
+0 1
+2
 0 2 36 0
+0 3 1 2
 1
 end_operator
 begin_operator
 pick ball10 rooma left
-2
-0 0
-4 0
 1
+0 0
+2
 0 1 36 1
+0 4 0 2
 1
 end_operator
 begin_operator
 pick ball10 rooma right
-2
-0 0
-4 0
 1
+0 0
+2
 0 2 36 1
+0 4 0 2
 1
 end_operator
 begin_operator
 pick ball10 roomb left
-2
-0 1
-4 1
 1
+0 1
+2
 0 1 36 1
+0 4 1 2
 1
 end_operator
 begin_operator
 pick ball10 roomb right
-2
-0 1
-4 1
 1
+0 1
+2
 0 2 36 1
+0 4 1 2
 1
 end_operator
 begin_operator
 pick ball11 rooma left
-2
-0 0
-5 0
 1
+0 0
+2
 0 1 36 2
+0 5 0 2
 1
 end_operator
 begin_operator
 pick ball11 rooma right
-2
-0 0
-5 0
 1
+0 0
+2
 0 2 36 2
+0 5 0 2
 1
 end_operator
 begin_operator
 pick ball11 roomb left
-2
-0 1
-5 1
 1
+0 1
+2
 0 1 36 2
+0 5 1 2
 1
 end_operator
 begin_operator
 pick ball11 roomb right
-2
-0 1
-5 1
 1
+0 1
+2
 0 2 36 2
+0 5 1 2
 1
 end_operator
 begin_operator
 pick ball12 rooma left
-2
-0 0
-6 0
 1
+0 0
+2
 0 1 36 3
+0 6 0 2
 1
 end_operator
 begin_operator
 pick ball12 rooma right
-2
-0 0
-6 0
 1
+0 0
+2
 0 2 36 3
+0 6 0 2
 1
 end_operator
 begin_operator
 pick ball12 roomb left
-2
-0 1
-6 1
 1
+0 1
+2
 0 1 36 3
+0 6 1 2
 1
 end_operator
 begin_operator
 pick ball12 roomb right
-2
-0 1
-6 1
 1
+0 1
+2
 0 2 36 3
+0 6 1 2
 1
 end_operator
 begin_operator
 pick ball13 rooma left
-2
-0 0
-7 0
 1
+0 0
+2
 0 1 36 4
+0 7 0 2
 1
 end_operator
 begin_operator
 pick ball13 rooma right
-2
-0 0
-7 0
 1
+0 0
+2
 0 2 36 4
+0 7 0 2
 1
 end_operator
 begin_operator
 pick ball13 roomb left
-2
-0 1
-7 1
 1
+0 1
+2
 0 1 36 4
+0 7 1 2
 1
 end_operator
 begin_operator
 pick ball13 roomb right
-2
-0 1
-7 1
 1
+0 1
+2
 0 2 36 4
+0 7 1 2
 1
 end_operator
 begin_operator
 pick ball14 rooma left
-2
-0 0
-8 0
 1
+0 0
+2
 0 1 36 5
+0 8 0 2
 1
 end_operator
 begin_operator
 pick ball14 rooma right
-2
-0 0
-8 0
 1
+0 0
+2
 0 2 36 5
+0 8 0 2
 1
 end_operator
 begin_operator
 pick ball14 roomb left
-2
-0 1
-8 1
 1
+0 1
+2
 0 1 36 5
+0 8 1 2
 1
 end_operator
 begin_operator
 pick ball14 roomb right
-2
-0 1
-8 1
 1
+0 1
+2
 0 2 36 5
+0 8 1 2
 1
 end_operator
 begin_operator
 pick ball15 rooma left
-2
-0 0
-9 0
 1
+0 0
+2
 0 1 36 6
+0 9 0 2
 1
 end_operator
 begin_operator
 pick ball15 rooma right
-2
-0 0
-9 0
 1
+0 0
+2
 0 2 36 6
+0 9 0 2
 1
 end_operator
 begin_operator
 pick ball15 roomb left
-2
-0 1
-9 1
 1
+0 1
+2
 0 1 36 6
+0 9 1 2
 1
 end_operator
 begin_operator
 pick ball15 roomb right
-2
-0 1
-9 1
 1
+0 1
+2
 0 2 36 6
+0 9 1 2
 1
 end_operator
 begin_operator
 pick ball16 rooma left
-2
-0 0
-10 0
 1
+0 0
+2
 0 1 36 7
+0 10 0 2
 1
 end_operator
 begin_operator
 pick ball16 rooma right
-2
-0 0
-10 0
 1
+0 0
+2
 0 2 36 7
+0 10 0 2
 1
 end_operator
 begin_operator
 pick ball16 roomb left
-2
-0 1
-10 1
 1
+0 1
+2
 0 1 36 7
+0 10 1 2
 1
 end_operator
 begin_operator
 pick ball16 roomb right
-2
-0 1
-10 1
 1
+0 1
+2
 0 2 36 7
+0 10 1 2
 1
 end_operator
 begin_operator
 pick ball17 rooma left
-2
-0 0
-11 0
 1
+0 0
+2
 0 1 36 8
+0 11 0 2
 1
 end_operator
 begin_operator
 pick ball17 rooma right
-2
-0 0
-11 0
 1
+0 0
+2
 0 2 36 8
+0 11 0 2
 1
 end_operator
 begin_operator
 pick ball17 roomb left
-2
-0 1
-11 1
 1
+0 1
+2
 0 1 36 8
+0 11 1 2
 1
 end_operator
 begin_operator
 pick ball17 roomb right
-2
-0 1
-11 1
 1
+0 1
+2
 0 2 36 8
+0 11 1 2
 1
 end_operator
 begin_operator
 pick ball18 rooma left
-2
-0 0
-12 0
 1
+0 0
+2
 0 1 36 9
+0 12 0 2
 1
 end_operator
 begin_operator
 pick ball18 rooma right
-2
-0 0
-12 0
 1
+0 0
+2
 0 2 36 9
+0 12 0 2
 1
 end_operator
 begin_operator
 pick ball18 roomb left
-2
-0 1
-12 1
 1
+0 1
+2
 0 1 36 9
+0 12 1 2
 1
 end_operator
 begin_operator
 pick ball18 roomb right
-2
-0 1
-12 1
 1
+0 1
+2
 0 2 36 9
+0 12 1 2
 1
 end_operator
 begin_operator
 pick ball19 rooma left
-2
-0 0
-13 0
 1
+0 0
+2
 0 1 36 10
+0 13 0 2
 1
 end_operator
 begin_operator
 pick ball19 rooma right
-2
-0 0
-13 0
 1
+0 0
+2
 0 2 36 10
+0 13 0 2
 1
 end_operator
 begin_operator
 pick ball19 roomb left
-2
-0 1
-13 1
 1
+0 1
+2
 0 1 36 10
+0 13 1 2
 1
 end_operator
 begin_operator
 pick ball19 roomb right
-2
-0 1
-13 1
 1
+0 1
+2
 0 2 36 10
+0 13 1 2
 1
 end_operator
 begin_operator
 pick ball2 rooma left
-2
-0 0
-14 0
 1
+0 0
+2
 0 1 36 11
+0 14 0 2
 1
 end_operator
 begin_operator
 pick ball2 rooma right
-2
-0 0
-14 0
 1
+0 0
+2
 0 2 36 11
+0 14 0 2
 1
 end_operator
 begin_operator
 pick ball2 roomb left
-2
-0 1
-14 1
 1
+0 1
+2
 0 1 36 11
+0 14 1 2
 1
 end_operator
 begin_operator
 pick ball2 roomb right
-2
-0 1
-14 1
 1
+0 1
+2
 0 2 36 11
+0 14 1 2
 1
 end_operator
 begin_operator
 pick ball20 rooma left
-2
-0 0
-15 0
 1
+0 0
+2
 0 1 36 12
+0 15 0 2
 1
 end_operator
 begin_operator
 pick ball20 rooma right
-2
-0 0
-15 0
 1
+0 0
+2
 0 2 36 12
+0 15 0 2
 1
 end_operator
 begin_operator
 pick ball20 roomb left
-2
-0 1
-15 1
 1
+0 1
+2
 0 1 36 12
+0 15 1 2
 1
 end_operator
 begin_operator
 pick ball20 roomb right
-2
-0 1
-15 1
 1
+0 1
+2
 0 2 36 12
+0 15 1 2
 1
 end_operator
 begin_operator
 pick ball21 rooma left
-2
-0 0
-16 0
 1
+0 0
+2
 0 1 36 13
+0 16 0 2
 1
 end_operator
 begin_operator
 pick ball21 rooma right
-2
-0 0
-16 0
 1
+0 0
+2
 0 2 36 13
+0 16 0 2
 1
 end_operator
 begin_operator
 pick ball21 roomb left
-2
-0 1
-16 1
 1
+0 1
+2
 0 1 36 13
+0 16 1 2
 1
 end_operator
 begin_operator
 pick ball21 roomb right
-2
-0 1
-16 1
 1
+0 1
+2
 0 2 36 13
+0 16 1 2
 1
 end_operator
 begin_operator
 pick ball22 rooma left
-2
-0 0
-17 0
 1
+0 0
+2
 0 1 36 14
+0 17 0 2
 1
 end_operator
 begin_operator
 pick ball22 rooma right
-2
-0 0
-17 0
 1
+0 0
+2
 0 2 36 14
+0 17 0 2
 1
 end_operator
 begin_operator
 pick ball22 roomb left
-2
-0 1
-17 1
 1
+0 1
+2
 0 1 36 14
+0 17 1 2
 1
 end_operator
 begin_operator
 pick ball22 roomb right
-2
-0 1
-17 1
 1
+0 1
+2
 0 2 36 14
+0 17 1 2
 1
 end_operator
 begin_operator
 pick ball23 rooma left
-2
-0 0
-18 0
 1
+0 0
+2
 0 1 36 15
+0 18 0 2
 1
 end_operator
 begin_operator
 pick ball23 rooma right
-2
-0 0
-18 0
 1
+0 0
+2
 0 2 36 15
+0 18 0 2
 1
 end_operator
 begin_operator
 pick ball23 roomb left
-2
-0 1
-18 1
 1
+0 1
+2
 0 1 36 15
+0 18 1 2
 1
 end_operator
 begin_operator
 pick ball23 roomb right
-2
-0 1
-18 1
 1
+0 1
+2
 0 2 36 15
+0 18 1 2
 1
 end_operator
 begin_operator
 pick ball24 rooma left
-2
-0 0
-19 0
 1
+0 0
+2
 0 1 36 16
+0 19 0 2
 1
 end_operator
 begin_operator
 pick ball24 rooma right
-2
-0 0
-19 0
 1
+0 0
+2
 0 2 36 16
+0 19 0 2
 1
 end_operator
 begin_operator
 pick ball24 roomb left
-2
-0 1
-19 1
 1
+0 1
+2
 0 1 36 16
+0 19 1 2
 1
 end_operator
 begin_operator
 pick ball24 roomb right
-2
-0 1
-19 1
 1
+0 1
+2
 0 2 36 16
+0 19 1 2
 1
 end_operator
 begin_operator
 pick ball25 rooma left
-2
-0 0
-20 0
 1
+0 0
+2
 0 1 36 17
+0 20 0 2
 1
 end_operator
 begin_operator
 pick ball25 rooma right
-2
-0 0
-20 0
 1
+0 0
+2
 0 2 36 17
+0 20 0 2
 1
 end_operator
 begin_operator
 pick ball25 roomb left
-2
-0 1
-20 1
 1
+0 1
+2
 0 1 36 17
+0 20 1 2
 1
 end_operator
 begin_operator
 pick ball25 roomb right
-2
-0 1
-20 1
 1
+0 1
+2
 0 2 36 17
+0 20 1 2
 1
 end_operator
 begin_operator
 pick ball26 rooma left
-2
-0 0
-21 0
 1
+0 0
+2
 0 1 36 18
+0 21 0 2
 1
 end_operator
 begin_operator
 pick ball26 rooma right
-2
-0 0
-21 0
 1
+0 0
+2
 0 2 36 18
+0 21 0 2
 1
 end_operator
 begin_operator
 pick ball26 roomb left
-2
-0 1
-21 1
 1
+0 1
+2
 0 1 36 18
+0 21 1 2
 1
 end_operator
 begin_operator
 pick ball26 roomb right
-2
-0 1
-21 1
 1
+0 1
+2
 0 2 36 18
+0 21 1 2
 1
 end_operator
 begin_operator
 pick ball27 rooma left
-2
-0 0
-22 0
 1
+0 0
+2
 0 1 36 19
+0 22 0 2
 1
 end_operator
 begin_operator
 pick ball27 rooma right
-2
-0 0
-22 0
 1
+0 0
+2
 0 2 36 19
+0 22 0 2
 1
 end_operator
 begin_operator
 pick ball27 roomb left
-2
-0 1
-22 1
 1
+0 1
+2
 0 1 36 19
+0 22 1 2
 1
 end_operator
 begin_operator
 pick ball27 roomb right
-2
-0 1
-22 1
 1
+0 1
+2
 0 2 36 19
+0 22 1 2
 1
 end_operator
 begin_operator
 pick ball28 rooma left
-2
-0 0
-23 0
 1
+0 0
+2
 0 1 36 20
+0 23 0 2
 1
 end_operator
 begin_operator
 pick ball28 rooma right
-2
-0 0
-23 0
 1
+0 0
+2
 0 2 36 20
+0 23 0 2
 1
 end_operator
 begin_operator
 pick ball28 roomb left
-2
-0 1
-23 1
 1
+0 1
+2
 0 1 36 20
+0 23 1 2
 1
 end_operator
 begin_operator
 pick ball28 roomb right
-2
-0 1
-23 1
 1
+0 1
+2
 0 2 36 20
+0 23 1 2
 1
 end_operator
 begin_operator
 pick ball29 rooma left
-2
-0 0
-24 0
 1
+0 0
+2
 0 1 36 21
+0 24 0 2
 1
 end_operator
 begin_operator
 pick ball29 rooma right
-2
-0 0
-24 0
 1
+0 0
+2
 0 2 36 21
+0 24 0 2
 1
 end_operator
 begin_operator
 pick ball29 roomb left
-2
-0 1
-24 1
 1
+0 1
+2
 0 1 36 21
+0 24 1 2
 1
 end_operator
 begin_operator
 pick ball29 roomb right
-2
-0 1
-24 1
 1
+0 1
+2
 0 2 36 21
+0 24 1 2
 1
 end_operator
 begin_operator
 pick ball3 rooma left
-2
-0 0
-25 0
 1
+0 0
+2
 0 1 36 22
+0 25 0 2
 1
 end_operator
 begin_operator
 pick ball3 rooma right
-2
-0 0
-25 0
 1
+0 0
+2
 0 2 36 22
+0 25 0 2
 1
 end_operator
 begin_operator
 pick ball3 roomb left
-2
-0 1
-25 1
 1
+0 1
+2
 0 1 36 22
+0 25 1 2
 1
 end_operator
 begin_operator
 pick ball3 roomb right
-2
-0 1
-25 1
 1
+0 1
+2
 0 2 36 22
+0 25 1 2
 1
 end_operator
 begin_operator
 pick ball30 rooma left
-2
-0 0
-26 0
 1
+0 0
+2
 0 1 36 23
+0 26 0 2
 1
 end_operator
 begin_operator
 pick ball30 rooma right
-2
-0 0
-26 0
 1
+0 0
+2
 0 2 36 23
+0 26 0 2
 1
 end_operator
 begin_operator
 pick ball30 roomb left
-2
-0 1
-26 1
 1
+0 1
+2
 0 1 36 23
+0 26 1 2
 1
 end_operator
 begin_operator
 pick ball30 roomb right
-2
-0 1
-26 1
 1
+0 1
+2
 0 2 36 23
+0 26 1 2
 1
 end_operator
 begin_operator
 pick ball31 rooma left
-2
-0 0
-27 0
 1
+0 0
+2
 0 1 36 24
+0 27 0 2
 1
 end_operator
 begin_operator
 pick ball31 rooma right
-2
-0 0
-27 0
 1
+0 0
+2
 0 2 36 24
+0 27 0 2
 1
 end_operator
 begin_operator
 pick ball31 roomb left
-2
-0 1
-27 1
 1
+0 1
+2
 0 1 36 24
+0 27 1 2
 1
 end_operator
 begin_operator
 pick ball31 roomb right
-2
-0 1
-27 1
 1
+0 1
+2
 0 2 36 24
+0 27 1 2
 1
 end_operator
 begin_operator
 pick ball32 rooma left
-2
-0 0
-28 0
 1
+0 0
+2
 0 1 36 25
+0 28 0 2
 1
 end_operator
 begin_operator
 pick ball32 rooma right
-2
-0 0
-28 0
 1
+0 0
+2
 0 2 36 25
+0 28 0 2
 1
 end_operator
 begin_operator
 pick ball32 roomb left
-2
-0 1
-28 1
 1
+0 1
+2
 0 1 36 25
+0 28 1 2
 1
 end_operator
 begin_operator
 pick ball32 roomb right
-2
-0 1
-28 1
 1
+0 1
+2
 0 2 36 25
+0 28 1 2
 1
 end_operator
 begin_operator
 pick ball33 rooma left
-2
-0 0
-29 0
 1
+0 0
+2
 0 1 36 26
+0 29 0 2
 1
 end_operator
 begin_operator
 pick ball33 rooma right
-2
-0 0
-29 0
 1
+0 0
+2
 0 2 36 26
+0 29 0 2
 1
 end_operator
 begin_operator
 pick ball33 roomb left
-2
-0 1
-29 1
 1
+0 1
+2
 0 1 36 26
+0 29 1 2
 1
 end_operator
 begin_operator
 pick ball33 roomb right
-2
-0 1
-29 1
 1
+0 1
+2
 0 2 36 26
+0 29 1 2
 1
 end_operator
 begin_operator
 pick ball34 rooma left
-2
-0 0
-30 0
 1
+0 0
+2
 0 1 36 27
+0 30 0 2
 1
 end_operator
 begin_operator
 pick ball34 rooma right
-2
-0 0
-30 0
 1
+0 0
+2
 0 2 36 27
+0 30 0 2
 1
 end_operator
 begin_operator
 pick ball34 roomb left
-2
-0 1
-30 1
 1
+0 1
+2
 0 1 36 27
+0 30 1 2
 1
 end_operator
 begin_operator
 pick ball34 roomb right
-2
-0 1
-30 1
 1
+0 1
+2
 0 2 36 27
+0 30 1 2
 1
 end_operator
 begin_operator
 pick ball35 rooma left
-2
-0 0
-31 0
 1
+0 0
+2
 0 1 36 28
+0 31 0 2
 1
 end_operator
 begin_operator
 pick ball35 rooma right
-2
-0 0
-31 0
 1
+0 0
+2
 0 2 36 28
+0 31 0 2
 1
 end_operator
 begin_operator
 pick ball35 roomb left
-2
-0 1
-31 1
 1
+0 1
+2
 0 1 36 28
+0 31 1 2
 1
 end_operator
 begin_operator
 pick ball35 roomb right
-2
-0 1
-31 1
 1
+0 1
+2
 0 2 36 28
+0 31 1 2
 1
 end_operator
 begin_operator
 pick ball36 rooma left
-2
-0 0
-32 0
 1
+0 0
+2
 0 1 36 29
+0 32 0 2
 1
 end_operator
 begin_operator
 pick ball36 rooma right
-2
-0 0
-32 0
 1
+0 0
+2
 0 2 36 29
+0 32 0 2
 1
 end_operator
 begin_operator
 pick ball36 roomb left
-2
-0 1
-32 1
 1
+0 1
+2
 0 1 36 29
+0 32 1 2
 1
 end_operator
 begin_operator
 pick ball36 roomb right
-2
-0 1
-32 1
 1
+0 1
+2
 0 2 36 29
+0 32 1 2
 1
 end_operator
 begin_operator
 pick ball4 rooma left
-2
-0 0
-33 0
 1
+0 0
+2
 0 1 36 30
+0 33 0 2
 1
 end_operator
 begin_operator
 pick ball4 rooma right
-2
-0 0
-33 0
 1
+0 0
+2
 0 2 36 30
+0 33 0 2
 1
 end_operator
 begin_operator
 pick ball4 roomb left
-2
-0 1
-33 1
 1
+0 1
+2
 0 1 36 30
+0 33 1 2
 1
 end_operator
 begin_operator
 pick ball4 roomb right
-2
-0 1
-33 1
 1
+0 1
+2
 0 2 36 30
+0 33 1 2
 1
 end_operator
 begin_operator
 pick ball5 rooma left
-2
-0 0
-34 0
 1
+0 0
+2
 0 1 36 31
+0 34 0 2
 1
 end_operator
 begin_operator
 pick ball5 rooma right
-2
-0 0
-34 0
 1
+0 0
+2
 0 2 36 31
+0 34 0 2
 1
 end_operator
 begin_operator
 pick ball5 roomb left
-2
-0 1
-34 1
 1
+0 1
+2
 0 1 36 31
+0 34 1 2
 1
 end_operator
 begin_operator
 pick ball5 roomb right
-2
-0 1
-34 1
 1
+0 1
+2
 0 2 36 31
+0 34 1 2
 1
 end_operator
 begin_operator
 pick ball6 rooma left
-2
-0 0
-35 0
 1
+0 0
+2
 0 1 36 32
+0 35 0 2
 1
 end_operator
 begin_operator
 pick ball6 rooma right
-2
-0 0
-35 0
 1
+0 0
+2
 0 2 36 32
+0 35 0 2
 1
 end_operator
 begin_operator
 pick ball6 roomb left
-2
-0 1
-35 1
 1
+0 1
+2
 0 1 36 32
+0 35 1 2
 1
 end_operator
 begin_operator
 pick ball6 roomb right
-2
-0 1
-35 1
 1
+0 1
+2
 0 2 36 32
+0 35 1 2
 1
 end_operator
 begin_operator
 pick ball7 rooma left
-2
-0 0
-36 0
 1
+0 0
+2
 0 1 36 33
+0 36 0 2
 1
 end_operator
 begin_operator
 pick ball7 rooma right
-2
-0 0
-36 0
 1
+0 0
+2
 0 2 36 33
+0 36 0 2
 1
 end_operator
 begin_operator
 pick ball7 roomb left
-2
-0 1
-36 1
 1
+0 1
+2
 0 1 36 33
+0 36 1 2
 1
 end_operator
 begin_operator
 pick ball7 roomb right
-2
-0 1
-36 1
 1
+0 1
+2
 0 2 36 33
+0 36 1 2
 1
 end_operator
 begin_operator
 pick ball8 rooma left
-2
-0 0
-37 0
 1
+0 0
+2
 0 1 36 34
+0 37 0 2
 1
 end_operator
 begin_operator
 pick ball8 rooma right
-2
-0 0
-37 0
 1
+0 0
+2
 0 2 36 34
+0 37 0 2
 1
 end_operator
 begin_operator
 pick ball8 roomb left
-2
-0 1
-37 1
 1
+0 1
+2
 0 1 36 34
+0 37 1 2
 1
 end_operator
 begin_operator
 pick ball8 roomb right
-2
-0 1
-37 1
 1
+0 1
+2
 0 2 36 34
+0 37 1 2
 1
 end_operator
 begin_operator
 pick ball9 rooma left
-2
-0 0
-38 0
 1
+0 0
+2
 0 1 36 35
+0 38 0 2
 1
 end_operator
 begin_operator
 pick ball9 rooma right
-2
-0 0
-38 0
 1
+0 0
+2
 0 2 36 35
+0 38 0 2
 1
 end_operator
 begin_operator
 pick ball9 roomb left
-2
-0 1
-38 1
 1
+0 1
+2
 0 1 36 35
+0 38 1 2
 1
 end_operator
 begin_operator
 pick ball9 roomb right
-2
-0 1
-38 1
 1
+0 1
+2
 0 2 36 35
+0 38 1 2
 1
 end_operator
 0

@@ -2,13476 +2,13476 @@ begin_version
 3
 end_version
 begin_metric
-0
+1
 end_metric
 1924
 begin_variable
 var0
 -1
 2
-0
-1
+Atom at_two(straight0, f0-3f, f0-2f)
+NegatedAtom at_two(straight0, f0-3f, f0-2f)
 end_variable
 begin_variable
 var1
 -1
 2
-0
-1
+Atom at_two(straight0, f0-0f, f0-1f)
+NegatedAtom at_two(straight0, f0-0f, f0-1f)
 end_variable
 begin_variable
 var2
 -1
 2
-0
-1
+Atom at_two(straight0, f0-3f, f1-3f)
+NegatedAtom at_two(straight0, f0-3f, f1-3f)
 end_variable
 begin_variable
 var3
 -1
 2
-0
-1
+Atom at_two(straight0, f0-0f, f1-0f)
+NegatedAtom at_two(straight0, f0-0f, f1-0f)
 end_variable
 begin_variable
 var4
 -1
 2
-0
-1
+Atom at_two(straight1, f0-3f, f0-2f)
+NegatedAtom at_two(straight1, f0-3f, f0-2f)
 end_variable
 begin_variable
 var5
 -1
 2
-0
-1
+Atom at_two(straight1, f0-0f, f0-1f)
+NegatedAtom at_two(straight1, f0-0f, f0-1f)
 end_variable
 begin_variable
 var6
 -1
 2
-0
-1
+Atom at_two(straight1, f0-3f, f1-3f)
+NegatedAtom at_two(straight1, f0-3f, f1-3f)
 end_variable
 begin_variable
 var7
 -1
 2
-0
-1
+Atom at_two(straight1, f0-0f, f1-0f)
+NegatedAtom at_two(straight1, f0-0f, f1-0f)
 end_variable
 begin_variable
 var8
 -1
 2
-0
-1
+Atom at_two(straight2, f0-3f, f0-2f)
+NegatedAtom at_two(straight2, f0-3f, f0-2f)
 end_variable
 begin_variable
 var9
 -1
 2
-0
-1
+Atom at_two(straight2, f0-0f, f0-1f)
+NegatedAtom at_two(straight2, f0-0f, f0-1f)
 end_variable
 begin_variable
 var10
 -1
 2
-0
-1
+Atom at_two(straight2, f0-3f, f1-3f)
+NegatedAtom at_two(straight2, f0-3f, f1-3f)
 end_variable
 begin_variable
 var11
 -1
 2
-0
-1
+Atom at_two(straight2, f0-0f, f1-0f)
+NegatedAtom at_two(straight2, f0-0f, f1-0f)
 end_variable
 begin_variable
 var12
 -1
 2
-0
-1
+Atom at_two(straight3, f0-0f, f0-1f)
+NegatedAtom at_two(straight3, f0-0f, f0-1f)
 end_variable
 begin_variable
 var13
 -1
 2
-0
-1
+Atom at_two(straight3, f0-0f, f1-0f)
+NegatedAtom at_two(straight3, f0-0f, f1-0f)
 end_variable
 begin_variable
 var14
 -1
 2
-0
-1
+Atom at_two(straight3, f0-3f, f0-2f)
+NegatedAtom at_two(straight3, f0-3f, f0-2f)
 end_variable
 begin_variable
 var15
 -1
 2
-0
-1
+Atom at_two(straight3, f0-3f, f1-3f)
+NegatedAtom at_two(straight3, f0-3f, f1-3f)
 end_variable
 begin_variable
 var16
 -1
 2
-0
-1
+Atom at_two(straight0, f9-0f, f8-0f)
+NegatedAtom at_two(straight0, f9-0f, f8-0f)
 end_variable
 begin_variable
 var17
 -1
 2
-0
-1
+Atom at_two(straight0, f9-0f, f9-1f)
+NegatedAtom at_two(straight0, f9-0f, f9-1f)
 end_variable
 begin_variable
 var18
 -1
 2
-0
-1
+Atom at_two(straight0, f9-3f, f8-3f)
+NegatedAtom at_two(straight0, f9-3f, f8-3f)
 end_variable
 begin_variable
 var19
 -1
 2
-0
-1
+Atom at_two(straight0, f9-3f, f9-2f)
+NegatedAtom at_two(straight0, f9-3f, f9-2f)
 end_variable
 begin_variable
 var20
 -1
 2
-0
-1
+Atom at_two(straight1, f9-0f, f8-0f)
+NegatedAtom at_two(straight1, f9-0f, f8-0f)
 end_variable
 begin_variable
 var21
 -1
 2
-0
-1
+Atom at_two(straight1, f9-0f, f9-1f)
+NegatedAtom at_two(straight1, f9-0f, f9-1f)
 end_variable
 begin_variable
 var22
 -1
 2
-0
-1
+Atom at_two(straight1, f9-3f, f8-3f)
+NegatedAtom at_two(straight1, f9-3f, f8-3f)
 end_variable
 begin_variable
 var23
 -1
 2
-0
-1
+Atom at_two(straight1, f9-3f, f9-2f)
+NegatedAtom at_two(straight1, f9-3f, f9-2f)
 end_variable
 begin_variable
 var24
 -1
 2
-0
-1
+Atom at_two(straight2, f9-0f, f8-0f)
+NegatedAtom at_two(straight2, f9-0f, f8-0f)
 end_variable
 begin_variable
 var25
 -1
 2
-0
-1
+Atom at_two(straight2, f9-0f, f9-1f)
+NegatedAtom at_two(straight2, f9-0f, f9-1f)
 end_variable
 begin_variable
 var26
 -1
 2
-0
-1
+Atom at_two(straight2, f9-3f, f8-3f)
+NegatedAtom at_two(straight2, f9-3f, f8-3f)
 end_variable
 begin_variable
 var27
 -1
 2
-0
-1
+Atom at_two(straight2, f9-3f, f9-2f)
+NegatedAtom at_two(straight2, f9-3f, f9-2f)
 end_variable
 begin_variable
 var28
 -1
 2
-0
-1
+Atom at_two(straight3, f9-0f, f8-0f)
+NegatedAtom at_two(straight3, f9-0f, f8-0f)
 end_variable
 begin_variable
 var29
 -1
 2
-0
-1
+Atom at_two(straight3, f9-0f, f9-1f)
+NegatedAtom at_two(straight3, f9-0f, f9-1f)
 end_variable
 begin_variable
 var30
 -1
 2
-0
-1
+Atom at_two(straight3, f9-3f, f8-3f)
+NegatedAtom at_two(straight3, f9-3f, f8-3f)
 end_variable
 begin_variable
 var31
 -1
 2
-0
-1
+Atom at_two(straight3, f9-3f, f9-2f)
+NegatedAtom at_two(straight3, f9-3f, f9-2f)
 end_variable
 begin_variable
 var32
 -1
 2
-0
-1
+Atom at_two(straight0, f0-2f, f0-3f)
+NegatedAtom at_two(straight0, f0-2f, f0-3f)
 end_variable
 begin_variable
 var33
 -1
 2
-0
-1
+Atom at_two(straight0, f0-1f, f0-0f)
+NegatedAtom at_two(straight0, f0-1f, f0-0f)
 end_variable
 begin_variable
 var34
 -1
 2
-0
-1
+Atom at_two(straight0, f1-3f, f0-3f)
+NegatedAtom at_two(straight0, f1-3f, f0-3f)
 end_variable
 begin_variable
 var35
 -1
 2
-0
-1
+Atom at_two(straight0, f1-0f, f0-0f)
+NegatedAtom at_two(straight0, f1-0f, f0-0f)
 end_variable
 begin_variable
 var36
 -1
 2
-0
-1
+Atom at_two(straight1, f0-2f, f0-3f)
+NegatedAtom at_two(straight1, f0-2f, f0-3f)
 end_variable
 begin_variable
 var37
 -1
 2
-0
-1
+Atom at_two(straight1, f0-1f, f0-0f)
+NegatedAtom at_two(straight1, f0-1f, f0-0f)
 end_variable
 begin_variable
 var38
 -1
 2
-0
-1
+Atom at_two(straight1, f1-3f, f0-3f)
+NegatedAtom at_two(straight1, f1-3f, f0-3f)
 end_variable
 begin_variable
 var39
 -1
 2
-0
-1
+Atom at_two(straight1, f1-0f, f0-0f)
+NegatedAtom at_two(straight1, f1-0f, f0-0f)
 end_variable
 begin_variable
 var40
 -1
 2
-0
-1
+Atom at_two(straight2, f0-2f, f0-3f)
+NegatedAtom at_two(straight2, f0-2f, f0-3f)
 end_variable
 begin_variable
 var41
 -1
 2
-0
-1
+Atom at_two(straight2, f0-1f, f0-0f)
+NegatedAtom at_two(straight2, f0-1f, f0-0f)
 end_variable
 begin_variable
 var42
 -1
 2
-0
-1
+Atom at_two(straight2, f1-3f, f0-3f)
+NegatedAtom at_two(straight2, f1-3f, f0-3f)
 end_variable
 begin_variable
 var43
 -1
 2
-0
-1
+Atom at_two(straight2, f1-0f, f0-0f)
+NegatedAtom at_two(straight2, f1-0f, f0-0f)
 end_variable
 begin_variable
 var44
 -1
 2
-0
-1
+Atom at_two(straight3, f0-1f, f0-0f)
+NegatedAtom at_two(straight3, f0-1f, f0-0f)
 end_variable
 begin_variable
 var45
 -1
 2
-0
-1
+Atom at_two(straight3, f1-0f, f0-0f)
+NegatedAtom at_two(straight3, f1-0f, f0-0f)
 end_variable
 begin_variable
 var46
 -1
 2
-0
-1
+Atom at_two(straight3, f0-2f, f0-3f)
+NegatedAtom at_two(straight3, f0-2f, f0-3f)
 end_variable
 begin_variable
 var47
 -1
 2
-0
-1
+Atom at_two(straight3, f1-3f, f0-3f)
+NegatedAtom at_two(straight3, f1-3f, f0-3f)
 end_variable
 begin_variable
 var48
 -1
 2
-0
-1
+Atom at_two(straight0, f8-0f, f9-0f)
+NegatedAtom at_two(straight0, f8-0f, f9-0f)
 end_variable
 begin_variable
 var49
 -1
 2
-0
-1
+Atom at_two(straight0, f9-1f, f9-0f)
+NegatedAtom at_two(straight0, f9-1f, f9-0f)
 end_variable
 begin_variable
 var50
 -1
 2
-0
-1
+Atom at_two(straight0, f8-3f, f9-3f)
+NegatedAtom at_two(straight0, f8-3f, f9-3f)
 end_variable
 begin_variable
 var51
 -1
 2
-0
-1
+Atom at_two(straight0, f9-2f, f9-3f)
+NegatedAtom at_two(straight0, f9-2f, f9-3f)
 end_variable
 begin_variable
 var52
 -1
 2
-0
-1
+Atom at_two(straight1, f8-0f, f9-0f)
+NegatedAtom at_two(straight1, f8-0f, f9-0f)
 end_variable
 begin_variable
 var53
 -1
 2
-0
-1
+Atom at_two(straight1, f9-1f, f9-0f)
+NegatedAtom at_two(straight1, f9-1f, f9-0f)
 end_variable
 begin_variable
 var54
 -1
 2
-0
-1
+Atom at_two(straight1, f8-3f, f9-3f)
+NegatedAtom at_two(straight1, f8-3f, f9-3f)
 end_variable
 begin_variable
 var55
 -1
 2
-0
-1
+Atom at_two(straight1, f9-2f, f9-3f)
+NegatedAtom at_two(straight1, f9-2f, f9-3f)
 end_variable
 begin_variable
 var56
 -1
 2
-0
-1
+Atom at_two(straight2, f8-0f, f9-0f)
+NegatedAtom at_two(straight2, f8-0f, f9-0f)
 end_variable
 begin_variable
 var57
 -1
 2
-0
-1
+Atom at_two(straight2, f9-1f, f9-0f)
+NegatedAtom at_two(straight2, f9-1f, f9-0f)
 end_variable
 begin_variable
 var58
 -1
 2
-0
-1
+Atom at_two(straight2, f8-3f, f9-3f)
+NegatedAtom at_two(straight2, f8-3f, f9-3f)
 end_variable
 begin_variable
 var59
 -1
 2
-0
-1
+Atom at_two(straight2, f9-2f, f9-3f)
+NegatedAtom at_two(straight2, f9-2f, f9-3f)
 end_variable
 begin_variable
 var60
 -1
 2
-0
-1
+Atom at_two(straight3, f8-0f, f9-0f)
+NegatedAtom at_two(straight3, f8-0f, f9-0f)
 end_variable
 begin_variable
 var61
 -1
 2
-0
-1
+Atom at_two(straight3, f9-1f, f9-0f)
+NegatedAtom at_two(straight3, f9-1f, f9-0f)
 end_variable
 begin_variable
 var62
 -1
 2
-0
-1
+Atom at_two(straight3, f8-3f, f9-3f)
+NegatedAtom at_two(straight3, f8-3f, f9-3f)
 end_variable
 begin_variable
 var63
 -1
 2
-0
-1
+Atom at_two(straight3, f9-2f, f9-3f)
+NegatedAtom at_two(straight3, f9-2f, f9-3f)
 end_variable
 begin_variable
 var64
 -1
 2
-0
-1
+Atom at_two(straight0, f0-2f, f0-1f)
+NegatedAtom at_two(straight0, f0-2f, f0-1f)
 end_variable
 begin_variable
 var65
 -1
 2
-0
-1
+Atom at_two(straight0, f0-1f, f0-2f)
+NegatedAtom at_two(straight0, f0-1f, f0-2f)
 end_variable
 begin_variable
 var66
 -1
 2
-0
-1
+Atom at_two(straight0, f1-3f, f2-3f)
+NegatedAtom at_two(straight0, f1-3f, f2-3f)
 end_variable
 begin_variable
 var67
 -1
 2
-0
-1
+Atom at_two(straight0, f1-0f, f2-0f)
+NegatedAtom at_two(straight0, f1-0f, f2-0f)
 end_variable
 begin_variable
 var68
 -1
 2
-0
-1
+Atom at_two(straight1, f0-2f, f0-1f)
+NegatedAtom at_two(straight1, f0-2f, f0-1f)
 end_variable
 begin_variable
 var69
 -1
 2
-0
-1
+Atom at_two(straight1, f0-1f, f0-2f)
+NegatedAtom at_two(straight1, f0-1f, f0-2f)
 end_variable
 begin_variable
 var70
 -1
 2
-0
-1
+Atom at_two(straight1, f1-3f, f2-3f)
+NegatedAtom at_two(straight1, f1-3f, f2-3f)
 end_variable
 begin_variable
 var71
 -1
 2
-0
-1
+Atom at_two(straight1, f1-0f, f2-0f)
+NegatedAtom at_two(straight1, f1-0f, f2-0f)
 end_variable
 begin_variable
 var72
 -1
 2
-0
-1
+Atom at_two(straight2, f0-2f, f0-1f)
+NegatedAtom at_two(straight2, f0-2f, f0-1f)
 end_variable
 begin_variable
 var73
 -1
 2
-0
-1
+Atom at_two(straight2, f0-1f, f0-2f)
+NegatedAtom at_two(straight2, f0-1f, f0-2f)
 end_variable
 begin_variable
 var74
 -1
 2
-0
-1
+Atom at_two(straight2, f1-3f, f2-3f)
+NegatedAtom at_two(straight2, f1-3f, f2-3f)
 end_variable
 begin_variable
 var75
 -1
 2
-0
-1
+Atom at_two(straight2, f1-0f, f2-0f)
+NegatedAtom at_two(straight2, f1-0f, f2-0f)
 end_variable
 begin_variable
 var76
 -1
 2
-0
-1
+Atom at_two(straight3, f0-1f, f0-2f)
+NegatedAtom at_two(straight3, f0-1f, f0-2f)
 end_variable
 begin_variable
 var77
 -1
 2
-0
-1
+Atom at_two(straight3, f0-2f, f0-1f)
+NegatedAtom at_two(straight3, f0-2f, f0-1f)
 end_variable
 begin_variable
 var78
 -1
 2
-0
-1
+Atom at_two(straight3, f1-0f, f2-0f)
+NegatedAtom at_two(straight3, f1-0f, f2-0f)
 end_variable
 begin_variable
 var79
 -1
 2
-0
-1
+Atom at_two(straight3, f1-3f, f2-3f)
+NegatedAtom at_two(straight3, f1-3f, f2-3f)
 end_variable
 begin_variable
 var80
 -1
 2
-0
-1
+Atom at_two(straight0, f8-0f, f7-0f)
+NegatedAtom at_two(straight0, f8-0f, f7-0f)
 end_variable
 begin_variable
 var81
 -1
 2
-0
-1
+Atom at_two(straight0, f9-1f, f9-2f)
+NegatedAtom at_two(straight0, f9-1f, f9-2f)
 end_variable
 begin_variable
 var82
 -1
 2
-0
-1
+Atom at_two(straight0, f9-2f, f9-1f)
+NegatedAtom at_two(straight0, f9-2f, f9-1f)
 end_variable
 begin_variable
 var83
 -1
 2
-0
-1
+Atom at_two(straight0, f8-3f, f7-3f)
+NegatedAtom at_two(straight0, f8-3f, f7-3f)
 end_variable
 begin_variable
 var84
 -1
 2
-0
-1
+Atom at_two(straight1, f8-0f, f7-0f)
+NegatedAtom at_two(straight1, f8-0f, f7-0f)
 end_variable
 begin_variable
 var85
 -1
 2
-0
-1
+Atom at_two(straight1, f9-1f, f9-2f)
+NegatedAtom at_two(straight1, f9-1f, f9-2f)
 end_variable
 begin_variable
 var86
 -1
 2
-0
-1
+Atom at_two(straight1, f9-2f, f9-1f)
+NegatedAtom at_two(straight1, f9-2f, f9-1f)
 end_variable
 begin_variable
 var87
 -1
 2
-0
-1
+Atom at_two(straight1, f8-3f, f7-3f)
+NegatedAtom at_two(straight1, f8-3f, f7-3f)
 end_variable
 begin_variable
 var88
 -1
 2
-0
-1
+Atom at_two(straight2, f8-0f, f7-0f)
+NegatedAtom at_two(straight2, f8-0f, f7-0f)
 end_variable
 begin_variable
 var89
 -1
 2
-0
-1
+Atom at_two(straight2, f9-1f, f9-2f)
+NegatedAtom at_two(straight2, f9-1f, f9-2f)
 end_variable
 begin_variable
 var90
 -1
 2
-0
-1
+Atom at_two(straight2, f9-2f, f9-1f)
+NegatedAtom at_two(straight2, f9-2f, f9-1f)
 end_variable
 begin_variable
 var91
 -1
 2
-0
-1
+Atom at_two(straight2, f8-3f, f7-3f)
+NegatedAtom at_two(straight2, f8-3f, f7-3f)
 end_variable
 begin_variable
 var92
 -1
 2
-0
-1
+Atom at_two(straight3, f8-0f, f7-0f)
+NegatedAtom at_two(straight3, f8-0f, f7-0f)
 end_variable
 begin_variable
 var93
 -1
 2
-0
-1
+Atom at_two(straight3, f9-1f, f9-2f)
+NegatedAtom at_two(straight3, f9-1f, f9-2f)
 end_variable
 begin_variable
 var94
 -1
 2
-0
-1
+Atom at_two(straight3, f9-2f, f9-1f)
+NegatedAtom at_two(straight3, f9-2f, f9-1f)
 end_variable
 begin_variable
 var95
 -1
 2
-0
-1
+Atom at_two(straight3, f8-3f, f7-3f)
+NegatedAtom at_two(straight3, f8-3f, f7-3f)
 end_variable
 begin_variable
 var96
 -1
 2
-0
-1
+Atom at_two(straight0, f0-1f, f1-1f)
+NegatedAtom at_two(straight0, f0-1f, f1-1f)
 end_variable
 begin_variable
 var97
 -1
 2
-0
-1
+Atom at_two(straight0, f0-2f, f1-2f)
+NegatedAtom at_two(straight0, f0-2f, f1-2f)
 end_variable
 begin_variable
 var98
 -1
 2
-0
-1
+Atom at_two(straight0, f2-3f, f1-3f)
+NegatedAtom at_two(straight0, f2-3f, f1-3f)
 end_variable
 begin_variable
 var99
 -1
 2
-0
-1
+Atom at_two(straight0, f2-3f, f3-3f)
+NegatedAtom at_two(straight0, f2-3f, f3-3f)
 end_variable
 begin_variable
 var100
 -1
 2
-0
-1
+Atom at_two(straight0, f2-0f, f1-0f)
+NegatedAtom at_two(straight0, f2-0f, f1-0f)
 end_variable
 begin_variable
 var101
 -1
 2
-0
-1
+Atom at_two(straight0, f2-0f, f3-0f)
+NegatedAtom at_two(straight0, f2-0f, f3-0f)
 end_variable
 begin_variable
 var102
 -1
 2
-0
-1
+Atom at_two(straight1, f0-1f, f1-1f)
+NegatedAtom at_two(straight1, f0-1f, f1-1f)
 end_variable
 begin_variable
 var103
 -1
 2
-0
-1
+Atom at_two(straight1, f0-2f, f1-2f)
+NegatedAtom at_two(straight1, f0-2f, f1-2f)
 end_variable
 begin_variable
 var104
 -1
 2
-0
-1
+Atom at_two(straight1, f2-3f, f1-3f)
+NegatedAtom at_two(straight1, f2-3f, f1-3f)
 end_variable
 begin_variable
 var105
 -1
 2
-0
-1
+Atom at_two(straight1, f2-3f, f3-3f)
+NegatedAtom at_two(straight1, f2-3f, f3-3f)
 end_variable
 begin_variable
 var106
 -1
 2
-0
-1
+Atom at_two(straight1, f2-0f, f1-0f)
+NegatedAtom at_two(straight1, f2-0f, f1-0f)
 end_variable
 begin_variable
 var107
 -1
 2
-0
-1
+Atom at_two(straight1, f2-0f, f3-0f)
+NegatedAtom at_two(straight1, f2-0f, f3-0f)
 end_variable
 begin_variable
 var108
 -1
 2
-0
-1
+Atom at_two(straight2, f0-1f, f1-1f)
+NegatedAtom at_two(straight2, f0-1f, f1-1f)
 end_variable
 begin_variable
 var109
 -1
 2
-0
-1
+Atom at_two(straight2, f0-2f, f1-2f)
+NegatedAtom at_two(straight2, f0-2f, f1-2f)
 end_variable
 begin_variable
 var110
 -1
 2
-0
-1
+Atom at_two(straight2, f2-3f, f1-3f)
+NegatedAtom at_two(straight2, f2-3f, f1-3f)
 end_variable
 begin_variable
 var111
 -1
 2
-0
-1
+Atom at_two(straight2, f2-3f, f3-3f)
+NegatedAtom at_two(straight2, f2-3f, f3-3f)
 end_variable
 begin_variable
 var112
 -1
 2
-0
-1
+Atom at_two(straight2, f2-0f, f1-0f)
+NegatedAtom at_two(straight2, f2-0f, f1-0f)
 end_variable
 begin_variable
 var113
 -1
 2
-0
-1
+Atom at_two(straight2, f2-0f, f3-0f)
+NegatedAtom at_two(straight2, f2-0f, f3-0f)
 end_variable
 begin_variable
 var114
 -1
 2
-0
-1
+Atom at_two(straight3, f0-2f, f1-2f)
+NegatedAtom at_two(straight3, f0-2f, f1-2f)
 end_variable
 begin_variable
 var115
 -1
 2
-0
-1
+Atom at_two(straight3, f0-1f, f1-1f)
+NegatedAtom at_two(straight3, f0-1f, f1-1f)
 end_variable
 begin_variable
 var116
 -1
 2
-0
-1
+Atom at_two(straight3, f2-0f, f1-0f)
+NegatedAtom at_two(straight3, f2-0f, f1-0f)
 end_variable
 begin_variable
 var117
 -1
 2
-0
-1
+Atom at_two(straight3, f2-0f, f3-0f)
+NegatedAtom at_two(straight3, f2-0f, f3-0f)
 end_variable
 begin_variable
 var118
 -1
 2
-0
-1
+Atom at_two(straight3, f2-3f, f1-3f)
+NegatedAtom at_two(straight3, f2-3f, f1-3f)
 end_variable
 begin_variable
 var119
 -1
 2
-0
-1
+Atom at_two(straight3, f2-3f, f3-3f)
+NegatedAtom at_two(straight3, f2-3f, f3-3f)
 end_variable
 begin_variable
 var120
 -1
 2
-0
-1
+Atom at_two(straight0, f7-0f, f6-0f)
+NegatedAtom at_two(straight0, f7-0f, f6-0f)
 end_variable
 begin_variable
 var121
 -1
 2
-0
-1
+Atom at_two(straight0, f7-0f, f8-0f)
+NegatedAtom at_two(straight0, f7-0f, f8-0f)
 end_variable
 begin_variable
 var122
 -1
 2
-0
-1
+Atom at_two(straight0, f9-2f, f8-2f)
+NegatedAtom at_two(straight0, f9-2f, f8-2f)
 end_variable
 begin_variable
 var123
 -1
 2
-0
-1
+Atom at_two(straight0, f9-1f, f8-1f)
+NegatedAtom at_two(straight0, f9-1f, f8-1f)
 end_variable
 begin_variable
 var124
 -1
 2
-0
-1
+Atom at_two(straight0, f7-3f, f6-3f)
+NegatedAtom at_two(straight0, f7-3f, f6-3f)
 end_variable
 begin_variable
 var125
 -1
 2
-0
-1
+Atom at_two(straight0, f7-3f, f8-3f)
+NegatedAtom at_two(straight0, f7-3f, f8-3f)
 end_variable
 begin_variable
 var126
 -1
 2
-0
-1
+Atom at_two(straight1, f7-0f, f6-0f)
+NegatedAtom at_two(straight1, f7-0f, f6-0f)
 end_variable
 begin_variable
 var127
 -1
 2
-0
-1
+Atom at_two(straight1, f7-0f, f8-0f)
+NegatedAtom at_two(straight1, f7-0f, f8-0f)
 end_variable
 begin_variable
 var128
 -1
 2
-0
-1
+Atom at_two(straight1, f9-2f, f8-2f)
+NegatedAtom at_two(straight1, f9-2f, f8-2f)
 end_variable
 begin_variable
 var129
 -1
 2
-0
-1
+Atom at_two(straight1, f9-1f, f8-1f)
+NegatedAtom at_two(straight1, f9-1f, f8-1f)
 end_variable
 begin_variable
 var130
 -1
 2
-0
-1
+Atom at_two(straight1, f7-3f, f6-3f)
+NegatedAtom at_two(straight1, f7-3f, f6-3f)
 end_variable
 begin_variable
 var131
 -1
 2
-0
-1
+Atom at_two(straight1, f7-3f, f8-3f)
+NegatedAtom at_two(straight1, f7-3f, f8-3f)
 end_variable
 begin_variable
 var132
 -1
 2
-0
-1
+Atom at_two(straight2, f7-0f, f6-0f)
+NegatedAtom at_two(straight2, f7-0f, f6-0f)
 end_variable
 begin_variable
 var133
 -1
 2
-0
-1
+Atom at_two(straight2, f7-0f, f8-0f)
+NegatedAtom at_two(straight2, f7-0f, f8-0f)
 end_variable
 begin_variable
 var134
 -1
 2
-0
-1
+Atom at_two(straight2, f9-2f, f8-2f)
+NegatedAtom at_two(straight2, f9-2f, f8-2f)
 end_variable
 begin_variable
 var135
 -1
 2
-0
-1
+Atom at_two(straight2, f9-1f, f8-1f)
+NegatedAtom at_two(straight2, f9-1f, f8-1f)
 end_variable
 begin_variable
 var136
 -1
 2
-0
-1
+Atom at_two(straight2, f7-3f, f6-3f)
+NegatedAtom at_two(straight2, f7-3f, f6-3f)
 end_variable
 begin_variable
 var137
 -1
 2
-0
-1
+Atom at_two(straight2, f7-3f, f8-3f)
+NegatedAtom at_two(straight2, f7-3f, f8-3f)
 end_variable
 begin_variable
 var138
 -1
 2
-0
-1
+Atom at_two(straight3, f7-0f, f6-0f)
+NegatedAtom at_two(straight3, f7-0f, f6-0f)
 end_variable
 begin_variable
 var139
 -1
 2
-0
-1
+Atom at_two(straight3, f7-0f, f8-0f)
+NegatedAtom at_two(straight3, f7-0f, f8-0f)
 end_variable
 begin_variable
 var140
 -1
 2
-0
-1
+Atom at_two(straight3, f9-2f, f8-2f)
+NegatedAtom at_two(straight3, f9-2f, f8-2f)
 end_variable
 begin_variable
 var141
 -1
 2
-0
-1
+Atom at_two(straight3, f9-1f, f8-1f)
+NegatedAtom at_two(straight3, f9-1f, f8-1f)
 end_variable
 begin_variable
 var142
 -1
 2
-0
-1
+Atom at_two(straight3, f7-3f, f6-3f)
+NegatedAtom at_two(straight3, f7-3f, f6-3f)
 end_variable
 begin_variable
 var143
 -1
 2
-0
-1
+Atom at_two(straight3, f7-3f, f8-3f)
+NegatedAtom at_two(straight3, f7-3f, f8-3f)
 end_variable
 begin_variable
 var144
 -1
 2
-0
-1
+Atom at_two(straight0, f1-3f, f1-2f)
+NegatedAtom at_two(straight0, f1-3f, f1-2f)
 end_variable
 begin_variable
 var145
 -1
 2
-0
-1
+Atom at_two(straight0, f3-3f, f2-3f)
+NegatedAtom at_two(straight0, f3-3f, f2-3f)
 end_variable
 begin_variable
 var146
 -1
 2
-0
-1
+Atom at_two(straight0, f3-3f, f4-3f)
+NegatedAtom at_two(straight0, f3-3f, f4-3f)
 end_variable
 begin_variable
 var147
 -1
 2
-0
-1
+Atom at_two(straight0, f1-0f, f1-1f)
+NegatedAtom at_two(straight0, f1-0f, f1-1f)
 end_variable
 begin_variable
 var148
 -1
 2
-0
-1
+Atom at_two(straight0, f3-0f, f2-0f)
+NegatedAtom at_two(straight0, f3-0f, f2-0f)
 end_variable
 begin_variable
 var149
 -1
 2
-0
-1
+Atom at_two(straight0, f3-0f, f4-0f)
+NegatedAtom at_two(straight0, f3-0f, f4-0f)
 end_variable
 begin_variable
 var150
 -1
 2
-0
-1
+Atom at_two(straight1, f1-3f, f1-2f)
+NegatedAtom at_two(straight1, f1-3f, f1-2f)
 end_variable
 begin_variable
 var151
 -1
 2
-0
-1
+Atom at_two(straight1, f3-3f, f2-3f)
+NegatedAtom at_two(straight1, f3-3f, f2-3f)
 end_variable
 begin_variable
 var152
 -1
 2
-0
-1
+Atom at_two(straight1, f3-3f, f4-3f)
+NegatedAtom at_two(straight1, f3-3f, f4-3f)
 end_variable
 begin_variable
 var153
 -1
 2
-0
-1
+Atom at_two(straight1, f1-0f, f1-1f)
+NegatedAtom at_two(straight1, f1-0f, f1-1f)
 end_variable
 begin_variable
 var154
 -1
 2
-0
-1
+Atom at_two(straight1, f3-0f, f2-0f)
+NegatedAtom at_two(straight1, f3-0f, f2-0f)
 end_variable
 begin_variable
 var155
 -1
 2
-0
-1
+Atom at_two(straight1, f3-0f, f4-0f)
+NegatedAtom at_two(straight1, f3-0f, f4-0f)
 end_variable
 begin_variable
 var156
 -1
 2
-0
-1
+Atom at_two(straight2, f1-3f, f1-2f)
+NegatedAtom at_two(straight2, f1-3f, f1-2f)
 end_variable
 begin_variable
 var157
 -1
 2
-0
-1
+Atom at_two(straight2, f3-3f, f2-3f)
+NegatedAtom at_two(straight2, f3-3f, f2-3f)
 end_variable
 begin_variable
 var158
 -1
 2
-0
-1
+Atom at_two(straight2, f3-3f, f4-3f)
+NegatedAtom at_two(straight2, f3-3f, f4-3f)
 end_variable
 begin_variable
 var159
 -1
 2
-0
-1
+Atom at_two(straight2, f1-0f, f1-1f)
+NegatedAtom at_two(straight2, f1-0f, f1-1f)
 end_variable
 begin_variable
 var160
 -1
 2
-0
-1
+Atom at_two(straight2, f3-0f, f2-0f)
+NegatedAtom at_two(straight2, f3-0f, f2-0f)
 end_variable
 begin_variable
 var161
 -1
 2
-0
-1
+Atom at_two(straight2, f3-0f, f4-0f)
+NegatedAtom at_two(straight2, f3-0f, f4-0f)
 end_variable
 begin_variable
 var162
 -1
 2
-0
-1
+Atom at_two(straight3, f1-0f, f1-1f)
+NegatedAtom at_two(straight3, f1-0f, f1-1f)
 end_variable
 begin_variable
 var163
 -1
 2
-0
-1
+Atom at_two(straight3, f3-0f, f2-0f)
+NegatedAtom at_two(straight3, f3-0f, f2-0f)
 end_variable
 begin_variable
 var164
 -1
 2
-0
-1
+Atom at_two(straight3, f3-0f, f4-0f)
+NegatedAtom at_two(straight3, f3-0f, f4-0f)
 end_variable
 begin_variable
 var165
 -1
 2
-0
-1
+Atom at_two(straight3, f1-3f, f1-2f)
+NegatedAtom at_two(straight3, f1-3f, f1-2f)
 end_variable
 begin_variable
 var166
 -1
 2
-0
-1
+Atom at_two(straight3, f3-3f, f2-3f)
+NegatedAtom at_two(straight3, f3-3f, f2-3f)
 end_variable
 begin_variable
 var167
 -1
 2
-0
-1
+Atom at_two(straight3, f3-3f, f4-3f)
+NegatedAtom at_two(straight3, f3-3f, f4-3f)
 end_variable
 begin_variable
 var168
 -1
 2
-0
-1
+Atom at_two(straight0, f6-0f, f5-0f)
+NegatedAtom at_two(straight0, f6-0f, f5-0f)
 end_variable
 begin_variable
 var169
 -1
 2
-0
-1
+Atom at_two(straight0, f6-0f, f7-0f)
+NegatedAtom at_two(straight0, f6-0f, f7-0f)
 end_variable
 begin_variable
 var170
 -1
 2
-0
-1
+Atom at_two(straight0, f8-0f, f8-1f)
+NegatedAtom at_two(straight0, f8-0f, f8-1f)
 end_variable
 begin_variable
 var171
 -1
 2
-0
-1
+Atom at_two(straight0, f6-3f, f5-3f)
+NegatedAtom at_two(straight0, f6-3f, f5-3f)
 end_variable
 begin_variable
 var172
 -1
 2
-0
-1
+Atom at_two(straight0, f6-3f, f7-3f)
+NegatedAtom at_two(straight0, f6-3f, f7-3f)
 end_variable
 begin_variable
 var173
 -1
 2
-0
-1
+Atom at_two(straight0, f8-3f, f8-2f)
+NegatedAtom at_two(straight0, f8-3f, f8-2f)
 end_variable
 begin_variable
 var174
 -1
 2
-0
-1
+Atom at_two(straight1, f6-0f, f5-0f)
+NegatedAtom at_two(straight1, f6-0f, f5-0f)
 end_variable
 begin_variable
 var175
 -1
 2
-0
-1
+Atom at_two(straight1, f6-0f, f7-0f)
+NegatedAtom at_two(straight1, f6-0f, f7-0f)
 end_variable
 begin_variable
 var176
 -1
 2
-0
-1
+Atom at_two(straight1, f8-0f, f8-1f)
+NegatedAtom at_two(straight1, f8-0f, f8-1f)
 end_variable
 begin_variable
 var177
 -1
 2
-0
-1
+Atom at_two(straight1, f6-3f, f5-3f)
+NegatedAtom at_two(straight1, f6-3f, f5-3f)
 end_variable
 begin_variable
 var178
 -1
 2
-0
-1
+Atom at_two(straight1, f6-3f, f7-3f)
+NegatedAtom at_two(straight1, f6-3f, f7-3f)
 end_variable
 begin_variable
 var179
 -1
 2
-0
-1
+Atom at_two(straight1, f8-3f, f8-2f)
+NegatedAtom at_two(straight1, f8-3f, f8-2f)
 end_variable
 begin_variable
 var180
 -1
 2
-0
-1
+Atom at_two(straight2, f6-0f, f5-0f)
+NegatedAtom at_two(straight2, f6-0f, f5-0f)
 end_variable
 begin_variable
 var181
 -1
 2
-0
-1
+Atom at_two(straight2, f6-0f, f7-0f)
+NegatedAtom at_two(straight2, f6-0f, f7-0f)
 end_variable
 begin_variable
 var182
 -1
 2
-0
-1
+Atom at_two(straight2, f8-0f, f8-1f)
+NegatedAtom at_two(straight2, f8-0f, f8-1f)
 end_variable
 begin_variable
 var183
 -1
 2
-0
-1
+Atom at_two(straight2, f6-3f, f5-3f)
+NegatedAtom at_two(straight2, f6-3f, f5-3f)
 end_variable
 begin_variable
 var184
 -1
 2
-0
-1
+Atom at_two(straight2, f6-3f, f7-3f)
+NegatedAtom at_two(straight2, f6-3f, f7-3f)
 end_variable
 begin_variable
 var185
 -1
 2
-0
-1
+Atom at_two(straight2, f8-3f, f8-2f)
+NegatedAtom at_two(straight2, f8-3f, f8-2f)
 end_variable
 begin_variable
 var186
 -1
 2
-0
-1
+Atom at_two(straight3, f6-0f, f5-0f)
+NegatedAtom at_two(straight3, f6-0f, f5-0f)
 end_variable
 begin_variable
 var187
 -1
 2
-0
-1
+Atom at_two(straight3, f6-0f, f7-0f)
+NegatedAtom at_two(straight3, f6-0f, f7-0f)
 end_variable
 begin_variable
 var188
 -1
 2
-0
-1
+Atom at_two(straight3, f8-0f, f8-1f)
+NegatedAtom at_two(straight3, f8-0f, f8-1f)
 end_variable
 begin_variable
 var189
 -1
 2
-0
-1
+Atom at_two(straight3, f6-3f, f5-3f)
+NegatedAtom at_two(straight3, f6-3f, f5-3f)
 end_variable
 begin_variable
 var190
 -1
 2
-0
-1
+Atom at_two(straight3, f6-3f, f7-3f)
+NegatedAtom at_two(straight3, f6-3f, f7-3f)
 end_variable
 begin_variable
 var191
 -1
 2
-0
-1
+Atom at_two(straight3, f8-3f, f8-2f)
+NegatedAtom at_two(straight3, f8-3f, f8-2f)
 end_variable
 begin_variable
 var192
 -1
 2
-0
-1
+Atom at_two(straight0, f2-3f, f2-2f)
+NegatedAtom at_two(straight0, f2-3f, f2-2f)
 end_variable
 begin_variable
 var193
 -1
 2
-0
-1
+Atom at_two(straight0, f4-3f, f3-3f)
+NegatedAtom at_two(straight0, f4-3f, f3-3f)
 end_variable
 begin_variable
 var194
 -1
 2
-0
-1
+Atom at_two(straight0, f4-3f, f5-3f)
+NegatedAtom at_two(straight0, f4-3f, f5-3f)
 end_variable
 begin_variable
 var195
 -1
 2
-0
-1
+Atom at_two(straight0, f5-3f, f4-3f)
+NegatedAtom at_two(straight0, f5-3f, f4-3f)
 end_variable
 begin_variable
 var196
 -1
 2
-0
-1
+Atom at_two(straight0, f5-3f, f6-3f)
+NegatedAtom at_two(straight0, f5-3f, f6-3f)
 end_variable
 begin_variable
 var197
 -1
 2
-0
-1
+Atom at_two(straight0, f2-0f, f2-1f)
+NegatedAtom at_two(straight0, f2-0f, f2-1f)
 end_variable
 begin_variable
 var198
 -1
 2
-0
-1
+Atom at_two(straight0, f4-0f, f3-0f)
+NegatedAtom at_two(straight0, f4-0f, f3-0f)
 end_variable
 begin_variable
 var199
 -1
 2
-0
-1
+Atom at_two(straight0, f4-0f, f5-0f)
+NegatedAtom at_two(straight0, f4-0f, f5-0f)
 end_variable
 begin_variable
 var200
 -1
 2
-0
-1
+Atom at_two(straight0, f5-0f, f4-0f)
+NegatedAtom at_two(straight0, f5-0f, f4-0f)
 end_variable
 begin_variable
 var201
 -1
 2
-0
-1
+Atom at_two(straight0, f5-0f, f6-0f)
+NegatedAtom at_two(straight0, f5-0f, f6-0f)
 end_variable
 begin_variable
 var202
 -1
 2
-0
-1
+Atom at_two(straight1, f2-3f, f2-2f)
+NegatedAtom at_two(straight1, f2-3f, f2-2f)
 end_variable
 begin_variable
 var203
 -1
 2
-0
-1
+Atom at_two(straight1, f4-3f, f3-3f)
+NegatedAtom at_two(straight1, f4-3f, f3-3f)
 end_variable
 begin_variable
 var204
 -1
 2
-0
-1
+Atom at_two(straight1, f4-3f, f5-3f)
+NegatedAtom at_two(straight1, f4-3f, f5-3f)
 end_variable
 begin_variable
 var205
 -1
 2
-0
-1
+Atom at_two(straight1, f5-3f, f4-3f)
+NegatedAtom at_two(straight1, f5-3f, f4-3f)
 end_variable
 begin_variable
 var206
 -1
 2
-0
-1
+Atom at_two(straight1, f5-3f, f6-3f)
+NegatedAtom at_two(straight1, f5-3f, f6-3f)
 end_variable
 begin_variable
 var207
 -1
 2
-0
-1
+Atom at_two(straight1, f2-0f, f2-1f)
+NegatedAtom at_two(straight1, f2-0f, f2-1f)
 end_variable
 begin_variable
 var208
 -1
 2
-0
-1
+Atom at_two(straight1, f4-0f, f3-0f)
+NegatedAtom at_two(straight1, f4-0f, f3-0f)
 end_variable
 begin_variable
 var209
 -1
 2
-0
-1
+Atom at_two(straight1, f4-0f, f5-0f)
+NegatedAtom at_two(straight1, f4-0f, f5-0f)
 end_variable
 begin_variable
 var210
 -1
 2
-0
-1
+Atom at_two(straight1, f5-0f, f4-0f)
+NegatedAtom at_two(straight1, f5-0f, f4-0f)
 end_variable
 begin_variable
 var211
 -1
 2
-0
-1
+Atom at_two(straight1, f5-0f, f6-0f)
+NegatedAtom at_two(straight1, f5-0f, f6-0f)
 end_variable
 begin_variable
 var212
 -1
 2
-0
-1
+Atom at_two(straight2, f2-3f, f2-2f)
+NegatedAtom at_two(straight2, f2-3f, f2-2f)
 end_variable
 begin_variable
 var213
 -1
 2
-0
-1
+Atom at_two(straight2, f4-3f, f3-3f)
+NegatedAtom at_two(straight2, f4-3f, f3-3f)
 end_variable
 begin_variable
 var214
 -1
 2
-0
-1
+Atom at_two(straight2, f4-3f, f5-3f)
+NegatedAtom at_two(straight2, f4-3f, f5-3f)
 end_variable
 begin_variable
 var215
 -1
 2
-0
-1
+Atom at_two(straight2, f5-3f, f4-3f)
+NegatedAtom at_two(straight2, f5-3f, f4-3f)
 end_variable
 begin_variable
 var216
 -1
 2
-0
-1
+Atom at_two(straight2, f5-3f, f6-3f)
+NegatedAtom at_two(straight2, f5-3f, f6-3f)
 end_variable
 begin_variable
 var217
 -1
 2
-0
-1
+Atom at_two(straight2, f2-0f, f2-1f)
+NegatedAtom at_two(straight2, f2-0f, f2-1f)
 end_variable
 begin_variable
 var218
 -1
 2
-0
-1
+Atom at_two(straight2, f4-0f, f3-0f)
+NegatedAtom at_two(straight2, f4-0f, f3-0f)
 end_variable
 begin_variable
 var219
 -1
 2
-0
-1
+Atom at_two(straight2, f4-0f, f5-0f)
+NegatedAtom at_two(straight2, f4-0f, f5-0f)
 end_variable
 begin_variable
 var220
 -1
 2
-0
-1
+Atom at_two(straight2, f5-0f, f4-0f)
+NegatedAtom at_two(straight2, f5-0f, f4-0f)
 end_variable
 begin_variable
 var221
 -1
 2
-0
-1
+Atom at_two(straight2, f5-0f, f6-0f)
+NegatedAtom at_two(straight2, f5-0f, f6-0f)
 end_variable
 begin_variable
 var222
 -1
 2
-0
-1
+Atom at_two(straight3, f2-0f, f2-1f)
+NegatedAtom at_two(straight3, f2-0f, f2-1f)
 end_variable
 begin_variable
 var223
 -1
 2
-0
-1
+Atom at_two(straight3, f4-0f, f3-0f)
+NegatedAtom at_two(straight3, f4-0f, f3-0f)
 end_variable
 begin_variable
 var224
 -1
 2
-0
-1
+Atom at_two(straight3, f4-0f, f5-0f)
+NegatedAtom at_two(straight3, f4-0f, f5-0f)
 end_variable
 begin_variable
 var225
 -1
 2
-0
-1
+Atom at_two(straight3, f5-0f, f4-0f)
+NegatedAtom at_two(straight3, f5-0f, f4-0f)
 end_variable
 begin_variable
 var226
 -1
 2
-0
-1
+Atom at_two(straight3, f5-0f, f6-0f)
+NegatedAtom at_two(straight3, f5-0f, f6-0f)
 end_variable
 begin_variable
 var227
 -1
 2
-0
-1
+Atom at_two(straight3, f2-3f, f2-2f)
+NegatedAtom at_two(straight3, f2-3f, f2-2f)
 end_variable
 begin_variable
 var228
 -1
 2
-0
-1
+Atom at_two(straight3, f4-3f, f3-3f)
+NegatedAtom at_two(straight3, f4-3f, f3-3f)
 end_variable
 begin_variable
 var229
 -1
 2
-0
-1
+Atom at_two(straight3, f4-3f, f5-3f)
+NegatedAtom at_two(straight3, f4-3f, f5-3f)
 end_variable
 begin_variable
 var230
 -1
 2
-0
-1
+Atom at_two(straight3, f5-3f, f4-3f)
+NegatedAtom at_two(straight3, f5-3f, f4-3f)
 end_variable
 begin_variable
 var231
 -1
 2
-0
-1
+Atom at_two(straight3, f5-3f, f6-3f)
+NegatedAtom at_two(straight3, f5-3f, f6-3f)
 end_variable
 begin_variable
 var232
 -1
 2
-0
-1
+Atom at_two(straight0, f7-0f, f7-1f)
+NegatedAtom at_two(straight0, f7-0f, f7-1f)
 end_variable
 begin_variable
 var233
 -1
 2
-0
-1
+Atom at_two(straight0, f7-3f, f7-2f)
+NegatedAtom at_two(straight0, f7-3f, f7-2f)
 end_variable
 begin_variable
 var234
 -1
 2
-0
-1
+Atom at_two(straight1, f7-0f, f7-1f)
+NegatedAtom at_two(straight1, f7-0f, f7-1f)
 end_variable
 begin_variable
 var235
 -1
 2
-0
-1
+Atom at_two(straight1, f7-3f, f7-2f)
+NegatedAtom at_two(straight1, f7-3f, f7-2f)
 end_variable
 begin_variable
 var236
 -1
 2
-0
-1
+Atom at_two(straight2, f7-0f, f7-1f)
+NegatedAtom at_two(straight2, f7-0f, f7-1f)
 end_variable
 begin_variable
 var237
 -1
 2
-0
-1
+Atom at_two(straight2, f7-3f, f7-2f)
+NegatedAtom at_two(straight2, f7-3f, f7-2f)
 end_variable
 begin_variable
 var238
 -1
 2
-0
-1
+Atom at_two(straight3, f7-0f, f7-1f)
+NegatedAtom at_two(straight3, f7-0f, f7-1f)
 end_variable
 begin_variable
 var239
 -1
 2
-0
-1
+Atom at_two(straight3, f7-3f, f7-2f)
+NegatedAtom at_two(straight3, f7-3f, f7-2f)
 end_variable
 begin_variable
 var240
 -1
 2
-0
-1
+Atom at_two(straight0, f3-3f, f3-2f)
+NegatedAtom at_two(straight0, f3-3f, f3-2f)
 end_variable
 begin_variable
 var241
 -1
 2
-0
-1
+Atom at_two(straight0, f5-3f, f5-2f)
+NegatedAtom at_two(straight0, f5-3f, f5-2f)
 end_variable
 begin_variable
 var242
 -1
 2
-0
-1
+Atom at_two(straight0, f4-3f, f4-2f)
+NegatedAtom at_two(straight0, f4-3f, f4-2f)
 end_variable
 begin_variable
 var243
 -1
 2
-0
-1
+Atom at_two(straight0, f6-3f, f6-2f)
+NegatedAtom at_two(straight0, f6-3f, f6-2f)
 end_variable
 begin_variable
 var244
 -1
 2
-0
-1
+Atom at_two(straight0, f3-0f, f3-1f)
+NegatedAtom at_two(straight0, f3-0f, f3-1f)
 end_variable
 begin_variable
 var245
 -1
 2
-0
-1
+Atom at_two(straight0, f5-0f, f5-1f)
+NegatedAtom at_two(straight0, f5-0f, f5-1f)
 end_variable
 begin_variable
 var246
 -1
 2
-0
-1
+Atom at_two(straight0, f4-0f, f4-1f)
+NegatedAtom at_two(straight0, f4-0f, f4-1f)
 end_variable
 begin_variable
 var247
 -1
 2
-0
-1
+Atom at_two(straight0, f6-0f, f6-1f)
+NegatedAtom at_two(straight0, f6-0f, f6-1f)
 end_variable
 begin_variable
 var248
 -1
 2
-0
-1
+Atom at_two(straight1, f3-3f, f3-2f)
+NegatedAtom at_two(straight1, f3-3f, f3-2f)
 end_variable
 begin_variable
 var249
 -1
 2
-0
-1
+Atom at_two(straight1, f5-3f, f5-2f)
+NegatedAtom at_two(straight1, f5-3f, f5-2f)
 end_variable
 begin_variable
 var250
 -1
 2
-0
-1
+Atom at_two(straight1, f4-3f, f4-2f)
+NegatedAtom at_two(straight1, f4-3f, f4-2f)
 end_variable
 begin_variable
 var251
 -1
 2
-0
-1
+Atom at_two(straight1, f6-3f, f6-2f)
+NegatedAtom at_two(straight1, f6-3f, f6-2f)
 end_variable
 begin_variable
 var252
 -1
 2
-0
-1
+Atom at_two(straight1, f3-0f, f3-1f)
+NegatedAtom at_two(straight1, f3-0f, f3-1f)
 end_variable
 begin_variable
 var253
 -1
 2
-0
-1
+Atom at_two(straight1, f5-0f, f5-1f)
+NegatedAtom at_two(straight1, f5-0f, f5-1f)
 end_variable
 begin_variable
 var254
 -1
 2
-0
-1
+Atom at_two(straight1, f4-0f, f4-1f)
+NegatedAtom at_two(straight1, f4-0f, f4-1f)
 end_variable
 begin_variable
 var255
 -1
 2
-0
-1
+Atom at_two(straight1, f6-0f, f6-1f)
+NegatedAtom at_two(straight1, f6-0f, f6-1f)
 end_variable
 begin_variable
 var256
 -1
 2
-0
-1
+Atom at_two(straight2, f3-3f, f3-2f)
+NegatedAtom at_two(straight2, f3-3f, f3-2f)
 end_variable
 begin_variable
 var257
 -1
 2
-0
-1
+Atom at_two(straight2, f5-3f, f5-2f)
+NegatedAtom at_two(straight2, f5-3f, f5-2f)
 end_variable
 begin_variable
 var258
 -1
 2
-0
-1
+Atom at_two(straight2, f4-3f, f4-2f)
+NegatedAtom at_two(straight2, f4-3f, f4-2f)
 end_variable
 begin_variable
 var259
 -1
 2
-0
-1
+Atom at_two(straight2, f6-3f, f6-2f)
+NegatedAtom at_two(straight2, f6-3f, f6-2f)
 end_variable
 begin_variable
 var260
 -1
 2
-0
-1
+Atom at_two(straight2, f3-0f, f3-1f)
+NegatedAtom at_two(straight2, f3-0f, f3-1f)
 end_variable
 begin_variable
 var261
 -1
 2
-0
-1
+Atom at_two(straight2, f5-0f, f5-1f)
+NegatedAtom at_two(straight2, f5-0f, f5-1f)
 end_variable
 begin_variable
 var262
 -1
 2
-0
-1
+Atom at_two(straight2, f4-0f, f4-1f)
+NegatedAtom at_two(straight2, f4-0f, f4-1f)
 end_variable
 begin_variable
 var263
 -1
 2
-0
-1
+Atom at_two(straight2, f6-0f, f6-1f)
+NegatedAtom at_two(straight2, f6-0f, f6-1f)
 end_variable
 begin_variable
 var264
 -1
 2
-0
-1
+Atom at_two(straight3, f3-0f, f3-1f)
+NegatedAtom at_two(straight3, f3-0f, f3-1f)
 end_variable
 begin_variable
 var265
 -1
 2
-0
-1
+Atom at_two(straight3, f5-0f, f5-1f)
+NegatedAtom at_two(straight3, f5-0f, f5-1f)
 end_variable
 begin_variable
 var266
 -1
 2
-0
-1
+Atom at_two(straight3, f4-0f, f4-1f)
+NegatedAtom at_two(straight3, f4-0f, f4-1f)
 end_variable
 begin_variable
 var267
 -1
 2
-0
-1
+Atom at_two(straight3, f6-0f, f6-1f)
+NegatedAtom at_two(straight3, f6-0f, f6-1f)
 end_variable
 begin_variable
 var268
 -1
 2
-0
-1
+Atom at_two(straight3, f3-3f, f3-2f)
+NegatedAtom at_two(straight3, f3-3f, f3-2f)
 end_variable
 begin_variable
 var269
 -1
 2
-0
-1
+Atom at_two(straight3, f5-3f, f5-2f)
+NegatedAtom at_two(straight3, f5-3f, f5-2f)
 end_variable
 begin_variable
 var270
 -1
 2
-0
-1
+Atom at_two(straight3, f4-3f, f4-2f)
+NegatedAtom at_two(straight3, f4-3f, f4-2f)
 end_variable
 begin_variable
 var271
 -1
 2
-0
-1
+Atom at_two(straight3, f6-3f, f6-2f)
+NegatedAtom at_two(straight3, f6-3f, f6-2f)
 end_variable
 begin_variable
 var272
 -1
 2
-0
-1
+Atom at_two(straight0, f1-2f, f0-2f)
+NegatedAtom at_two(straight0, f1-2f, f0-2f)
 end_variable
 begin_variable
 var273
 -1
 2
-0
-1
+Atom at_two(straight0, f1-2f, f1-3f)
+NegatedAtom at_two(straight0, f1-2f, f1-3f)
 end_variable
 begin_variable
 var274
 -1
 2
-0
-1
+Atom at_two(straight0, f1-1f, f0-1f)
+NegatedAtom at_two(straight0, f1-1f, f0-1f)
 end_variable
 begin_variable
 var275
 -1
 2
-0
-1
+Atom at_two(straight0, f1-1f, f1-0f)
+NegatedAtom at_two(straight0, f1-1f, f1-0f)
 end_variable
 begin_variable
 var276
 -1
 2
-0
-1
+Atom at_two(straight1, f1-2f, f0-2f)
+NegatedAtom at_two(straight1, f1-2f, f0-2f)
 end_variable
 begin_variable
 var277
 -1
 2
-0
-1
+Atom at_two(straight1, f1-2f, f1-3f)
+NegatedAtom at_two(straight1, f1-2f, f1-3f)
 end_variable
 begin_variable
 var278
 -1
 2
-0
-1
+Atom at_two(straight1, f1-1f, f0-1f)
+NegatedAtom at_two(straight1, f1-1f, f0-1f)
 end_variable
 begin_variable
 var279
 -1
 2
-0
-1
+Atom at_two(straight1, f1-1f, f1-0f)
+NegatedAtom at_two(straight1, f1-1f, f1-0f)
 end_variable
 begin_variable
 var280
 -1
 2
-0
-1
+Atom at_two(straight2, f1-2f, f0-2f)
+NegatedAtom at_two(straight2, f1-2f, f0-2f)
 end_variable
 begin_variable
 var281
 -1
 2
-0
-1
+Atom at_two(straight2, f1-2f, f1-3f)
+NegatedAtom at_two(straight2, f1-2f, f1-3f)
 end_variable
 begin_variable
 var282
 -1
 2
-0
-1
+Atom at_two(straight2, f1-1f, f0-1f)
+NegatedAtom at_two(straight2, f1-1f, f0-1f)
 end_variable
 begin_variable
 var283
 -1
 2
-0
-1
+Atom at_two(straight2, f1-1f, f1-0f)
+NegatedAtom at_two(straight2, f1-1f, f1-0f)
 end_variable
 begin_variable
 var284
 -1
 2
-0
-1
+Atom at_two(straight3, f1-1f, f0-1f)
+NegatedAtom at_two(straight3, f1-1f, f0-1f)
 end_variable
 begin_variable
 var285
 -1
 2
-0
-1
+Atom at_two(straight3, f1-1f, f1-0f)
+NegatedAtom at_two(straight3, f1-1f, f1-0f)
 end_variable
 begin_variable
 var286
 -1
 2
-0
-1
+Atom at_two(straight3, f1-2f, f0-2f)
+NegatedAtom at_two(straight3, f1-2f, f0-2f)
 end_variable
 begin_variable
 var287
 -1
 2
-0
-1
+Atom at_two(straight3, f1-2f, f1-3f)
+NegatedAtom at_two(straight3, f1-2f, f1-3f)
 end_variable
 begin_variable
 var288
 -1
 2
-0
-1
+Atom at_two(straight0, f8-1f, f8-0f)
+NegatedAtom at_two(straight0, f8-1f, f8-0f)
 end_variable
 begin_variable
 var289
 -1
 2
-0
-1
+Atom at_two(straight0, f8-1f, f9-1f)
+NegatedAtom at_two(straight0, f8-1f, f9-1f)
 end_variable
 begin_variable
 var290
 -1
 2
-0
-1
+Atom at_two(straight0, f8-2f, f8-3f)
+NegatedAtom at_two(straight0, f8-2f, f8-3f)
 end_variable
 begin_variable
 var291
 -1
 2
-0
-1
+Atom at_two(straight0, f8-2f, f9-2f)
+NegatedAtom at_two(straight0, f8-2f, f9-2f)
 end_variable
 begin_variable
 var292
 -1
 2
-0
-1
+Atom at_two(straight1, f8-1f, f8-0f)
+NegatedAtom at_two(straight1, f8-1f, f8-0f)
 end_variable
 begin_variable
 var293
 -1
 2
-0
-1
+Atom at_two(straight1, f8-1f, f9-1f)
+NegatedAtom at_two(straight1, f8-1f, f9-1f)
 end_variable
 begin_variable
 var294
 -1
 2
-0
-1
+Atom at_two(straight1, f8-2f, f8-3f)
+NegatedAtom at_two(straight1, f8-2f, f8-3f)
 end_variable
 begin_variable
 var295
 -1
 2
-0
-1
+Atom at_two(straight1, f8-2f, f9-2f)
+NegatedAtom at_two(straight1, f8-2f, f9-2f)
 end_variable
 begin_variable
 var296
 -1
 2
-0
-1
+Atom at_two(straight2, f8-1f, f8-0f)
+NegatedAtom at_two(straight2, f8-1f, f8-0f)
 end_variable
 begin_variable
 var297
 -1
 2
-0
-1
+Atom at_two(straight2, f8-1f, f9-1f)
+NegatedAtom at_two(straight2, f8-1f, f9-1f)
 end_variable
 begin_variable
 var298
 -1
 2
-0
-1
+Atom at_two(straight2, f8-2f, f8-3f)
+NegatedAtom at_two(straight2, f8-2f, f8-3f)
 end_variable
 begin_variable
 var299
 -1
 2
-0
-1
+Atom at_two(straight2, f8-2f, f9-2f)
+NegatedAtom at_two(straight2, f8-2f, f9-2f)
 end_variable
 begin_variable
 var300
 -1
 2
-0
-1
+Atom at_two(straight3, f8-1f, f8-0f)
+NegatedAtom at_two(straight3, f8-1f, f8-0f)
 end_variable
 begin_variable
 var301
 -1
 2
-0
-1
+Atom at_two(straight3, f8-1f, f9-1f)
+NegatedAtom at_two(straight3, f8-1f, f9-1f)
 end_variable
 begin_variable
 var302
 -1
 2
-0
-1
+Atom at_two(straight3, f8-2f, f8-3f)
+NegatedAtom at_two(straight3, f8-2f, f8-3f)
 end_variable
 begin_variable
 var303
 -1
 2
-0
-1
+Atom at_two(straight3, f8-2f, f9-2f)
+NegatedAtom at_two(straight3, f8-2f, f9-2f)
 end_variable
 begin_variable
 var304
 -1
 2
-0
-1
+Atom at_two(straight0, f1-2f, f1-1f)
+NegatedAtom at_two(straight0, f1-2f, f1-1f)
 end_variable
 begin_variable
 var305
 -1
 2
-0
-1
+Atom at_two(straight0, f1-1f, f1-2f)
+NegatedAtom at_two(straight0, f1-1f, f1-2f)
 end_variable
 begin_variable
 var306
 -1
 2
-0
-1
+Atom at_two(straight0, f1-1f, f2-1f)
+NegatedAtom at_two(straight0, f1-1f, f2-1f)
 end_variable
 begin_variable
 var307
 -1
 2
-0
-1
+Atom at_two(straight0, f1-2f, f2-2f)
+NegatedAtom at_two(straight0, f1-2f, f2-2f)
 end_variable
 begin_variable
 var308
 -1
 2
-0
-1
+Atom at_two(straight0, f2-1f, f2-0f)
+NegatedAtom at_two(straight0, f2-1f, f2-0f)
 end_variable
 begin_variable
 var309
 -1
 2
-0
-1
+Atom at_two(straight0, f2-2f, f2-3f)
+NegatedAtom at_two(straight0, f2-2f, f2-3f)
 end_variable
 begin_variable
 var310
 -1
 2
-0
-1
+Atom at_two(straight1, f1-2f, f1-1f)
+NegatedAtom at_two(straight1, f1-2f, f1-1f)
 end_variable
 begin_variable
 var311
 -1
 2
-0
-1
+Atom at_two(straight1, f1-1f, f1-2f)
+NegatedAtom at_two(straight1, f1-1f, f1-2f)
 end_variable
 begin_variable
 var312
 -1
 2
-0
-1
+Atom at_two(straight1, f1-1f, f2-1f)
+NegatedAtom at_two(straight1, f1-1f, f2-1f)
 end_variable
 begin_variable
 var313
 -1
 2
-0
-1
+Atom at_two(straight1, f1-2f, f2-2f)
+NegatedAtom at_two(straight1, f1-2f, f2-2f)
 end_variable
 begin_variable
 var314
 -1
 2
-0
-1
+Atom at_two(straight1, f2-1f, f2-0f)
+NegatedAtom at_two(straight1, f2-1f, f2-0f)
 end_variable
 begin_variable
 var315
 -1
 2
-0
-1
+Atom at_two(straight1, f2-2f, f2-3f)
+NegatedAtom at_two(straight1, f2-2f, f2-3f)
 end_variable
 begin_variable
 var316
 -1
 2
-0
-1
+Atom at_two(straight2, f1-2f, f1-1f)
+NegatedAtom at_two(straight2, f1-2f, f1-1f)
 end_variable
 begin_variable
 var317
 -1
 2
-0
-1
+Atom at_two(straight2, f1-1f, f1-2f)
+NegatedAtom at_two(straight2, f1-1f, f1-2f)
 end_variable
 begin_variable
 var318
 -1
 2
-0
-1
+Atom at_two(straight2, f1-1f, f2-1f)
+NegatedAtom at_two(straight2, f1-1f, f2-1f)
 end_variable
 begin_variable
 var319
 -1
 2
-0
-1
+Atom at_two(straight2, f1-2f, f2-2f)
+NegatedAtom at_two(straight2, f1-2f, f2-2f)
 end_variable
 begin_variable
 var320
 -1
 2
-0
-1
+Atom at_two(straight2, f2-1f, f2-0f)
+NegatedAtom at_two(straight2, f2-1f, f2-0f)
 end_variable
 begin_variable
 var321
 -1
 2
-0
-1
+Atom at_two(straight2, f2-2f, f2-3f)
+NegatedAtom at_two(straight2, f2-2f, f2-3f)
 end_variable
 begin_variable
 var322
 -1
 2
-0
-1
+Atom at_two(straight3, f1-1f, f1-2f)
+NegatedAtom at_two(straight3, f1-1f, f1-2f)
 end_variable
 begin_variable
 var323
 -1
 2
-0
-1
+Atom at_two(straight3, f1-2f, f1-1f)
+NegatedAtom at_two(straight3, f1-2f, f1-1f)
 end_variable
 begin_variable
 var324
 -1
 2
-0
-1
+Atom at_two(straight3, f1-2f, f2-2f)
+NegatedAtom at_two(straight3, f1-2f, f2-2f)
 end_variable
 begin_variable
 var325
 -1
 2
-0
-1
+Atom at_two(straight3, f1-1f, f2-1f)
+NegatedAtom at_two(straight3, f1-1f, f2-1f)
 end_variable
 begin_variable
 var326
 -1
 2
-0
-1
+Atom at_two(straight3, f2-2f, f2-3f)
+NegatedAtom at_two(straight3, f2-2f, f2-3f)
 end_variable
 begin_variable
 var327
 -1
 2
-0
-1
+Atom at_two(straight3, f2-1f, f2-0f)
+NegatedAtom at_two(straight3, f2-1f, f2-0f)
 end_variable
 begin_variable
 var328
 -1
 2
-0
-1
+Atom at_two(straight0, f8-1f, f7-1f)
+NegatedAtom at_two(straight0, f8-1f, f7-1f)
 end_variable
 begin_variable
 var329
 -1
 2
-0
-1
+Atom at_two(straight0, f7-1f, f7-0f)
+NegatedAtom at_two(straight0, f7-1f, f7-0f)
 end_variable
 begin_variable
 var330
 -1
 2
-0
-1
+Atom at_two(straight0, f8-1f, f8-2f)
+NegatedAtom at_two(straight0, f8-1f, f8-2f)
 end_variable
 begin_variable
 var331
 -1
 2
-0
-1
+Atom at_two(straight0, f8-2f, f7-2f)
+NegatedAtom at_two(straight0, f8-2f, f7-2f)
 end_variable
 begin_variable
 var332
 -1
 2
-0
-1
+Atom at_two(straight0, f8-2f, f8-1f)
+NegatedAtom at_two(straight0, f8-2f, f8-1f)
 end_variable
 begin_variable
 var333
 -1
 2
-0
-1
+Atom at_two(straight0, f7-2f, f7-3f)
+NegatedAtom at_two(straight0, f7-2f, f7-3f)
 end_variable
 begin_variable
 var334
 -1
 2
-0
-1
+Atom at_two(straight1, f8-1f, f7-1f)
+NegatedAtom at_two(straight1, f8-1f, f7-1f)
 end_variable
 begin_variable
 var335
 -1
 2
-0
-1
+Atom at_two(straight1, f7-1f, f7-0f)
+NegatedAtom at_two(straight1, f7-1f, f7-0f)
 end_variable
 begin_variable
 var336
 -1
 2
-0
-1
+Atom at_two(straight1, f8-1f, f8-2f)
+NegatedAtom at_two(straight1, f8-1f, f8-2f)
 end_variable
 begin_variable
 var337
 -1
 2
-0
-1
+Atom at_two(straight1, f8-2f, f7-2f)
+NegatedAtom at_two(straight1, f8-2f, f7-2f)
 end_variable
 begin_variable
 var338
 -1
 2
-0
-1
+Atom at_two(straight1, f8-2f, f8-1f)
+NegatedAtom at_two(straight1, f8-2f, f8-1f)
 end_variable
 begin_variable
 var339
 -1
 2
-0
-1
+Atom at_two(straight1, f7-2f, f7-3f)
+NegatedAtom at_two(straight1, f7-2f, f7-3f)
 end_variable
 begin_variable
 var340
 -1
 2
-0
-1
+Atom at_two(straight2, f8-1f, f7-1f)
+NegatedAtom at_two(straight2, f8-1f, f7-1f)
 end_variable
 begin_variable
 var341
 -1
 2
-0
-1
+Atom at_two(straight2, f7-1f, f7-0f)
+NegatedAtom at_two(straight2, f7-1f, f7-0f)
 end_variable
 begin_variable
 var342
 -1
 2
-0
-1
+Atom at_two(straight2, f8-1f, f8-2f)
+NegatedAtom at_two(straight2, f8-1f, f8-2f)
 end_variable
 begin_variable
 var343
 -1
 2
-0
-1
+Atom at_two(straight2, f8-2f, f7-2f)
+NegatedAtom at_two(straight2, f8-2f, f7-2f)
 end_variable
 begin_variable
 var344
 -1
 2
-0
-1
+Atom at_two(straight2, f8-2f, f8-1f)
+NegatedAtom at_two(straight2, f8-2f, f8-1f)
 end_variable
 begin_variable
 var345
 -1
 2
-0
-1
+Atom at_two(straight2, f7-2f, f7-3f)
+NegatedAtom at_two(straight2, f7-2f, f7-3f)
 end_variable
 begin_variable
 var346
 -1
 2
-0
-1
+Atom at_two(straight3, f8-1f, f7-1f)
+NegatedAtom at_two(straight3, f8-1f, f7-1f)
 end_variable
 begin_variable
 var347
 -1
 2
-0
-1
+Atom at_two(straight3, f7-1f, f7-0f)
+NegatedAtom at_two(straight3, f7-1f, f7-0f)
 end_variable
 begin_variable
 var348
 -1
 2
-0
-1
+Atom at_two(straight3, f8-1f, f8-2f)
+NegatedAtom at_two(straight3, f8-1f, f8-2f)
 end_variable
 begin_variable
 var349
 -1
 2
-0
-1
+Atom at_two(straight3, f8-2f, f7-2f)
+NegatedAtom at_two(straight3, f8-2f, f7-2f)
 end_variable
 begin_variable
 var350
 -1
 2
-0
-1
+Atom at_two(straight3, f8-2f, f8-1f)
+NegatedAtom at_two(straight3, f8-2f, f8-1f)
 end_variable
 begin_variable
 var351
 -1
 2
-0
-1
+Atom at_two(straight3, f7-2f, f7-3f)
+NegatedAtom at_two(straight3, f7-2f, f7-3f)
 end_variable
 begin_variable
 var352
 -1
 2
-0
-1
+Atom at_two(straight0, f3-2f, f3-3f)
+NegatedAtom at_two(straight0, f3-2f, f3-3f)
 end_variable
 begin_variable
 var353
 -1
 2
-0
-1
+Atom at_two(straight0, f5-2f, f5-3f)
+NegatedAtom at_two(straight0, f5-2f, f5-3f)
 end_variable
 begin_variable
 var354
 -1
 2
-0
-1
+Atom at_two(straight0, f4-2f, f4-3f)
+NegatedAtom at_two(straight0, f4-2f, f4-3f)
 end_variable
 begin_variable
 var355
 -1
 2
-0
-1
+Atom at_two(straight0, f6-2f, f6-3f)
+NegatedAtom at_two(straight0, f6-2f, f6-3f)
 end_variable
 begin_variable
 var356
 -1
 2
-0
-1
+Atom at_two(straight0, f3-1f, f3-0f)
+NegatedAtom at_two(straight0, f3-1f, f3-0f)
 end_variable
 begin_variable
 var357
 -1
 2
-0
-1
+Atom at_two(straight0, f5-1f, f5-0f)
+NegatedAtom at_two(straight0, f5-1f, f5-0f)
 end_variable
 begin_variable
 var358
 -1
 2
-0
-1
+Atom at_two(straight0, f4-1f, f4-0f)
+NegatedAtom at_two(straight0, f4-1f, f4-0f)
 end_variable
 begin_variable
 var359
 -1
 2
-0
-1
+Atom at_two(straight0, f6-1f, f6-0f)
+NegatedAtom at_two(straight0, f6-1f, f6-0f)
 end_variable
 begin_variable
 var360
 -1
 2
-0
-1
+Atom at_two(straight1, f3-2f, f3-3f)
+NegatedAtom at_two(straight1, f3-2f, f3-3f)
 end_variable
 begin_variable
 var361
 -1
 2
-0
-1
+Atom at_two(straight1, f5-2f, f5-3f)
+NegatedAtom at_two(straight1, f5-2f, f5-3f)
 end_variable
 begin_variable
 var362
 -1
 2
-0
-1
+Atom at_two(straight1, f4-2f, f4-3f)
+NegatedAtom at_two(straight1, f4-2f, f4-3f)
 end_variable
 begin_variable
 var363
 -1
 2
-0
-1
+Atom at_two(straight1, f6-2f, f6-3f)
+NegatedAtom at_two(straight1, f6-2f, f6-3f)
 end_variable
 begin_variable
 var364
 -1
 2
-0
-1
+Atom at_two(straight1, f3-1f, f3-0f)
+NegatedAtom at_two(straight1, f3-1f, f3-0f)
 end_variable
 begin_variable
 var365
 -1
 2
-0
-1
+Atom at_two(straight1, f5-1f, f5-0f)
+NegatedAtom at_two(straight1, f5-1f, f5-0f)
 end_variable
 begin_variable
 var366
 -1
 2
-0
-1
+Atom at_two(straight1, f4-1f, f4-0f)
+NegatedAtom at_two(straight1, f4-1f, f4-0f)
 end_variable
 begin_variable
 var367
 -1
 2
-0
-1
+Atom at_two(straight1, f6-1f, f6-0f)
+NegatedAtom at_two(straight1, f6-1f, f6-0f)
 end_variable
 begin_variable
 var368
 -1
 2
-0
-1
+Atom at_two(straight2, f3-2f, f3-3f)
+NegatedAtom at_two(straight2, f3-2f, f3-3f)
 end_variable
 begin_variable
 var369
 -1
 2
-0
-1
+Atom at_two(straight2, f5-2f, f5-3f)
+NegatedAtom at_two(straight2, f5-2f, f5-3f)
 end_variable
 begin_variable
 var370
 -1
 2
-0
-1
+Atom at_two(straight2, f4-2f, f4-3f)
+NegatedAtom at_two(straight2, f4-2f, f4-3f)
 end_variable
 begin_variable
 var371
 -1
 2
-0
-1
+Atom at_two(straight2, f6-2f, f6-3f)
+NegatedAtom at_two(straight2, f6-2f, f6-3f)
 end_variable
 begin_variable
 var372
 -1
 2
-0
-1
+Atom at_two(straight2, f3-1f, f3-0f)
+NegatedAtom at_two(straight2, f3-1f, f3-0f)
 end_variable
 begin_variable
 var373
 -1
 2
-0
-1
+Atom at_two(straight2, f5-1f, f5-0f)
+NegatedAtom at_two(straight2, f5-1f, f5-0f)
 end_variable
 begin_variable
 var374
 -1
 2
-0
-1
+Atom at_two(straight2, f4-1f, f4-0f)
+NegatedAtom at_two(straight2, f4-1f, f4-0f)
 end_variable
 begin_variable
 var375
 -1
 2
-0
-1
+Atom at_two(straight2, f6-1f, f6-0f)
+NegatedAtom at_two(straight2, f6-1f, f6-0f)
 end_variable
 begin_variable
 var376
 -1
 2
-0
-1
+Atom at_two(straight3, f3-1f, f3-0f)
+NegatedAtom at_two(straight3, f3-1f, f3-0f)
 end_variable
 begin_variable
 var377
 -1
 2
-0
-1
+Atom at_two(straight3, f5-1f, f5-0f)
+NegatedAtom at_two(straight3, f5-1f, f5-0f)
 end_variable
 begin_variable
 var378
 -1
 2
-0
-1
+Atom at_two(straight3, f4-1f, f4-0f)
+NegatedAtom at_two(straight3, f4-1f, f4-0f)
 end_variable
 begin_variable
 var379
 -1
 2
-0
-1
+Atom at_two(straight3, f6-1f, f6-0f)
+NegatedAtom at_two(straight3, f6-1f, f6-0f)
 end_variable
 begin_variable
 var380
 -1
 2
-0
-1
+Atom at_two(straight3, f3-2f, f3-3f)
+NegatedAtom at_two(straight3, f3-2f, f3-3f)
 end_variable
 begin_variable
 var381
 -1
 2
-0
-1
+Atom at_two(straight3, f5-2f, f5-3f)
+NegatedAtom at_two(straight3, f5-2f, f5-3f)
 end_variable
 begin_variable
 var382
 -1
 2
-0
-1
+Atom at_two(straight3, f4-2f, f4-3f)
+NegatedAtom at_two(straight3, f4-2f, f4-3f)
 end_variable
 begin_variable
 var383
 -1
 2
-0
-1
+Atom at_two(straight3, f6-2f, f6-3f)
+NegatedAtom at_two(straight3, f6-2f, f6-3f)
 end_variable
 begin_variable
 var384
 -1
 2
-0
-1
+Atom at_two(straight0, f2-1f, f1-1f)
+NegatedAtom at_two(straight0, f2-1f, f1-1f)
 end_variable
 begin_variable
 var385
 -1
 2
-0
-1
+Atom at_two(straight0, f2-1f, f2-2f)
+NegatedAtom at_two(straight0, f2-1f, f2-2f)
 end_variable
 begin_variable
 var386
 -1
 2
-0
-1
+Atom at_two(straight0, f2-2f, f1-2f)
+NegatedAtom at_two(straight0, f2-2f, f1-2f)
 end_variable
 begin_variable
 var387
 -1
 2
-0
-1
+Atom at_two(straight0, f2-2f, f2-1f)
+NegatedAtom at_two(straight0, f2-2f, f2-1f)
 end_variable
 begin_variable
 var388
 -1
 2
-0
-1
+Atom at_two(straight0, f2-2f, f3-2f)
+NegatedAtom at_two(straight0, f2-2f, f3-2f)
 end_variable
 begin_variable
 var389
 -1
 2
-0
-1
+Atom at_two(straight0, f2-1f, f3-1f)
+NegatedAtom at_two(straight0, f2-1f, f3-1f)
 end_variable
 begin_variable
 var390
 -1
 2
-0
-1
+Atom at_two(straight1, f2-1f, f1-1f)
+NegatedAtom at_two(straight1, f2-1f, f1-1f)
 end_variable
 begin_variable
 var391
 -1
 2
-0
-1
+Atom at_two(straight1, f2-1f, f2-2f)
+NegatedAtom at_two(straight1, f2-1f, f2-2f)
 end_variable
 begin_variable
 var392
 -1
 2
-0
-1
+Atom at_two(straight1, f2-2f, f1-2f)
+NegatedAtom at_two(straight1, f2-2f, f1-2f)
 end_variable
 begin_variable
 var393
 -1
 2
-0
-1
+Atom at_two(straight1, f2-2f, f2-1f)
+NegatedAtom at_two(straight1, f2-2f, f2-1f)
 end_variable
 begin_variable
 var394
 -1
 2
-0
-1
+Atom at_two(straight1, f2-2f, f3-2f)
+NegatedAtom at_two(straight1, f2-2f, f3-2f)
 end_variable
 begin_variable
 var395
 -1
 2
-0
-1
+Atom at_two(straight1, f2-1f, f3-1f)
+NegatedAtom at_two(straight1, f2-1f, f3-1f)
 end_variable
 begin_variable
 var396
 -1
 2
-0
-1
+Atom at_two(straight2, f2-1f, f1-1f)
+NegatedAtom at_two(straight2, f2-1f, f1-1f)
 end_variable
 begin_variable
 var397
 -1
 2
-0
-1
+Atom at_two(straight2, f2-1f, f2-2f)
+NegatedAtom at_two(straight2, f2-1f, f2-2f)
 end_variable
 begin_variable
 var398
 -1
 2
-0
-1
+Atom at_two(straight2, f2-2f, f1-2f)
+NegatedAtom at_two(straight2, f2-2f, f1-2f)
 end_variable
 begin_variable
 var399
 -1
 2
-0
-1
+Atom at_two(straight2, f2-2f, f2-1f)
+NegatedAtom at_two(straight2, f2-2f, f2-1f)
 end_variable
 begin_variable
 var400
 -1
 2
-0
-1
+Atom at_two(straight2, f2-2f, f3-2f)
+NegatedAtom at_two(straight2, f2-2f, f3-2f)
 end_variable
 begin_variable
 var401
 -1
 2
-0
-1
+Atom at_two(straight2, f2-1f, f3-1f)
+NegatedAtom at_two(straight2, f2-1f, f3-1f)
 end_variable
 begin_variable
 var402
 -1
 2
-0
-1
+Atom at_two(straight3, f2-2f, f1-2f)
+NegatedAtom at_two(straight3, f2-2f, f1-2f)
 end_variable
 begin_variable
 var403
 -1
 2
-0
-1
+Atom at_two(straight3, f2-2f, f2-1f)
+NegatedAtom at_two(straight3, f2-2f, f2-1f)
 end_variable
 begin_variable
 var404
 -1
 2
-0
-1
+Atom at_two(straight3, f2-1f, f1-1f)
+NegatedAtom at_two(straight3, f2-1f, f1-1f)
 end_variable
 begin_variable
 var405
 -1
 2
-0
-1
+Atom at_two(straight3, f2-1f, f2-2f)
+NegatedAtom at_two(straight3, f2-1f, f2-2f)
 end_variable
 begin_variable
 var406
 -1
 2
-0
-1
+Atom at_two(straight3, f2-1f, f3-1f)
+NegatedAtom at_two(straight3, f2-1f, f3-1f)
 end_variable
 begin_variable
 var407
 -1
 2
-0
-1
+Atom at_two(straight3, f2-2f, f3-2f)
+NegatedAtom at_two(straight3, f2-2f, f3-2f)
 end_variable
 begin_variable
 var408
 -1
 2
-0
-1
+Atom at_two(straight0, f7-1f, f6-1f)
+NegatedAtom at_two(straight0, f7-1f, f6-1f)
 end_variable
 begin_variable
 var409
 -1
 2
-0
-1
+Atom at_two(straight0, f7-1f, f7-2f)
+NegatedAtom at_two(straight0, f7-1f, f7-2f)
 end_variable
 begin_variable
 var410
 -1
 2
-0
-1
+Atom at_two(straight0, f7-2f, f6-2f)
+NegatedAtom at_two(straight0, f7-2f, f6-2f)
 end_variable
 begin_variable
 var411
 -1
 2
-0
-1
+Atom at_two(straight0, f7-2f, f7-1f)
+NegatedAtom at_two(straight0, f7-2f, f7-1f)
 end_variable
 begin_variable
 var412
 -1
 2
-0
-1
+Atom at_two(straight0, f7-2f, f8-2f)
+NegatedAtom at_two(straight0, f7-2f, f8-2f)
 end_variable
 begin_variable
 var413
 -1
 2
-0
-1
+Atom at_two(straight0, f7-1f, f8-1f)
+NegatedAtom at_two(straight0, f7-1f, f8-1f)
 end_variable
 begin_variable
 var414
 -1
 2
-0
-1
+Atom at_two(straight1, f7-1f, f6-1f)
+NegatedAtom at_two(straight1, f7-1f, f6-1f)
 end_variable
 begin_variable
 var415
 -1
 2
-0
-1
+Atom at_two(straight1, f7-1f, f7-2f)
+NegatedAtom at_two(straight1, f7-1f, f7-2f)
 end_variable
 begin_variable
 var416
 -1
 2
-0
-1
+Atom at_two(straight1, f7-2f, f6-2f)
+NegatedAtom at_two(straight1, f7-2f, f6-2f)
 end_variable
 begin_variable
 var417
 -1
 2
-0
-1
+Atom at_two(straight1, f7-2f, f7-1f)
+NegatedAtom at_two(straight1, f7-2f, f7-1f)
 end_variable
 begin_variable
 var418
 -1
 2
-0
-1
+Atom at_two(straight1, f7-2f, f8-2f)
+NegatedAtom at_two(straight1, f7-2f, f8-2f)
 end_variable
 begin_variable
 var419
 -1
 2
-0
-1
+Atom at_two(straight1, f7-1f, f8-1f)
+NegatedAtom at_two(straight1, f7-1f, f8-1f)
 end_variable
 begin_variable
 var420
 -1
 2
-0
-1
+Atom at_two(straight2, f7-1f, f6-1f)
+NegatedAtom at_two(straight2, f7-1f, f6-1f)
 end_variable
 begin_variable
 var421
 -1
 2
-0
-1
+Atom at_two(straight2, f7-1f, f7-2f)
+NegatedAtom at_two(straight2, f7-1f, f7-2f)
 end_variable
 begin_variable
 var422
 -1
 2
-0
-1
+Atom at_two(straight2, f7-2f, f6-2f)
+NegatedAtom at_two(straight2, f7-2f, f6-2f)
 end_variable
 begin_variable
 var423
 -1
 2
-0
-1
+Atom at_two(straight2, f7-2f, f7-1f)
+NegatedAtom at_two(straight2, f7-2f, f7-1f)
 end_variable
 begin_variable
 var424
 -1
 2
-0
-1
+Atom at_two(straight2, f7-2f, f8-2f)
+NegatedAtom at_two(straight2, f7-2f, f8-2f)
 end_variable
 begin_variable
 var425
 -1
 2
-0
-1
+Atom at_two(straight2, f7-1f, f8-1f)
+NegatedAtom at_two(straight2, f7-1f, f8-1f)
 end_variable
 begin_variable
 var426
 -1
 2
-0
-1
+Atom at_two(straight3, f7-1f, f6-1f)
+NegatedAtom at_two(straight3, f7-1f, f6-1f)
 end_variable
 begin_variable
 var427
 -1
 2
-0
-1
+Atom at_two(straight3, f7-1f, f7-2f)
+NegatedAtom at_two(straight3, f7-1f, f7-2f)
 end_variable
 begin_variable
 var428
 -1
 2
-0
-1
+Atom at_two(straight3, f7-2f, f6-2f)
+NegatedAtom at_two(straight3, f7-2f, f6-2f)
 end_variable
 begin_variable
 var429
 -1
 2
-0
-1
+Atom at_two(straight3, f7-2f, f7-1f)
+NegatedAtom at_two(straight3, f7-2f, f7-1f)
 end_variable
 begin_variable
 var430
 -1
 2
-0
-1
+Atom at_two(straight3, f7-2f, f8-2f)
+NegatedAtom at_two(straight3, f7-2f, f8-2f)
 end_variable
 begin_variable
 var431
 -1
 2
-0
-1
+Atom at_two(straight3, f7-1f, f8-1f)
+NegatedAtom at_two(straight3, f7-1f, f8-1f)
 end_variable
 begin_variable
 var432
 -1
 2
-0
-1
+Atom at_two(straight0, f3-2f, f2-2f)
+NegatedAtom at_two(straight0, f3-2f, f2-2f)
 end_variable
 begin_variable
 var433
 -1
 2
-0
-1
+Atom at_two(straight0, f3-2f, f3-1f)
+NegatedAtom at_two(straight0, f3-2f, f3-1f)
 end_variable
 begin_variable
 var434
 -1
 2
-0
-1
+Atom at_two(straight0, f3-1f, f2-1f)
+NegatedAtom at_two(straight0, f3-1f, f2-1f)
 end_variable
 begin_variable
 var435
 -1
 2
-0
-1
+Atom at_two(straight0, f3-1f, f3-2f)
+NegatedAtom at_two(straight0, f3-1f, f3-2f)
 end_variable
 begin_variable
 var436
 -1
 2
-0
-1
+Atom at_two(straight0, f3-1f, f4-1f)
+NegatedAtom at_two(straight0, f3-1f, f4-1f)
 end_variable
 begin_variable
 var437
 -1
 2
-0
-1
+Atom at_two(straight0, f3-2f, f4-2f)
+NegatedAtom at_two(straight0, f3-2f, f4-2f)
 end_variable
 begin_variable
 var438
 -1
 2
-0
-1
+Atom at_two(straight1, f3-2f, f2-2f)
+NegatedAtom at_two(straight1, f3-2f, f2-2f)
 end_variable
 begin_variable
 var439
 -1
 2
-0
-1
+Atom at_two(straight1, f3-2f, f3-1f)
+NegatedAtom at_two(straight1, f3-2f, f3-1f)
 end_variable
 begin_variable
 var440
 -1
 2
-0
-1
+Atom at_two(straight1, f3-1f, f2-1f)
+NegatedAtom at_two(straight1, f3-1f, f2-1f)
 end_variable
 begin_variable
 var441
 -1
 2
-0
-1
+Atom at_two(straight1, f3-1f, f3-2f)
+NegatedAtom at_two(straight1, f3-1f, f3-2f)
 end_variable
 begin_variable
 var442
 -1
 2
-0
-1
+Atom at_two(straight1, f3-1f, f4-1f)
+NegatedAtom at_two(straight1, f3-1f, f4-1f)
 end_variable
 begin_variable
 var443
 -1
 2
-0
-1
+Atom at_two(straight1, f3-2f, f4-2f)
+NegatedAtom at_two(straight1, f3-2f, f4-2f)
 end_variable
 begin_variable
 var444
 -1
 2
-0
-1
+Atom at_two(straight2, f3-2f, f2-2f)
+NegatedAtom at_two(straight2, f3-2f, f2-2f)
 end_variable
 begin_variable
 var445
 -1
 2
-0
-1
+Atom at_two(straight2, f3-2f, f3-1f)
+NegatedAtom at_two(straight2, f3-2f, f3-1f)
 end_variable
 begin_variable
 var446
 -1
 2
-0
-1
+Atom at_two(straight2, f3-1f, f2-1f)
+NegatedAtom at_two(straight2, f3-1f, f2-1f)
 end_variable
 begin_variable
 var447
 -1
 2
-0
-1
+Atom at_two(straight2, f3-1f, f3-2f)
+NegatedAtom at_two(straight2, f3-1f, f3-2f)
 end_variable
 begin_variable
 var448
 -1
 2
-0
-1
+Atom at_two(straight2, f3-1f, f4-1f)
+NegatedAtom at_two(straight2, f3-1f, f4-1f)
 end_variable
 begin_variable
 var449
 -1
 2
-0
-1
+Atom at_two(straight2, f3-2f, f4-2f)
+NegatedAtom at_two(straight2, f3-2f, f4-2f)
 end_variable
 begin_variable
 var450
 -1
 2
-0
-1
+Atom at_two(straight3, f3-1f, f2-1f)
+NegatedAtom at_two(straight3, f3-1f, f2-1f)
 end_variable
 begin_variable
 var451
 -1
 2
-0
-1
+Atom at_two(straight3, f3-1f, f3-2f)
+NegatedAtom at_two(straight3, f3-1f, f3-2f)
 end_variable
 begin_variable
 var452
 -1
 2
-0
-1
+Atom at_two(straight3, f3-2f, f2-2f)
+NegatedAtom at_two(straight3, f3-2f, f2-2f)
 end_variable
 begin_variable
 var453
 -1
 2
-0
-1
+Atom at_two(straight3, f3-2f, f3-1f)
+NegatedAtom at_two(straight3, f3-2f, f3-1f)
 end_variable
 begin_variable
 var454
 -1
 2
-0
-1
+Atom at_two(straight3, f3-2f, f4-2f)
+NegatedAtom at_two(straight3, f3-2f, f4-2f)
 end_variable
 begin_variable
 var455
 -1
 2
-0
-1
+Atom at_two(straight3, f3-1f, f4-1f)
+NegatedAtom at_two(straight3, f3-1f, f4-1f)
 end_variable
 begin_variable
 var456
 -1
 2
-0
-1
+Atom at_two(straight0, f6-1f, f5-1f)
+NegatedAtom at_two(straight0, f6-1f, f5-1f)
 end_variable
 begin_variable
 var457
 -1
 2
-0
-1
+Atom at_two(straight0, f6-1f, f6-2f)
+NegatedAtom at_two(straight0, f6-1f, f6-2f)
 end_variable
 begin_variable
 var458
 -1
 2
-0
-1
+Atom at_two(straight0, f6-2f, f5-2f)
+NegatedAtom at_two(straight0, f6-2f, f5-2f)
 end_variable
 begin_variable
 var459
 -1
 2
-0
-1
+Atom at_two(straight0, f6-2f, f6-1f)
+NegatedAtom at_two(straight0, f6-2f, f6-1f)
 end_variable
 begin_variable
 var460
 -1
 2
-0
-1
+Atom at_two(straight0, f6-2f, f7-2f)
+NegatedAtom at_two(straight0, f6-2f, f7-2f)
 end_variable
 begin_variable
 var461
 -1
 2
-0
-1
+Atom at_two(straight0, f6-1f, f7-1f)
+NegatedAtom at_two(straight0, f6-1f, f7-1f)
 end_variable
 begin_variable
 var462
 -1
 2
-0
-1
+Atom at_two(straight1, f6-1f, f5-1f)
+NegatedAtom at_two(straight1, f6-1f, f5-1f)
 end_variable
 begin_variable
 var463
 -1
 2
-0
-1
+Atom at_two(straight1, f6-1f, f6-2f)
+NegatedAtom at_two(straight1, f6-1f, f6-2f)
 end_variable
 begin_variable
 var464
 -1
 2
-0
-1
+Atom at_two(straight1, f6-2f, f5-2f)
+NegatedAtom at_two(straight1, f6-2f, f5-2f)
 end_variable
 begin_variable
 var465
 -1
 2
-0
-1
+Atom at_two(straight1, f6-2f, f6-1f)
+NegatedAtom at_two(straight1, f6-2f, f6-1f)
 end_variable
 begin_variable
 var466
 -1
 2
-0
-1
+Atom at_two(straight1, f6-2f, f7-2f)
+NegatedAtom at_two(straight1, f6-2f, f7-2f)
 end_variable
 begin_variable
 var467
 -1
 2
-0
-1
+Atom at_two(straight1, f6-1f, f7-1f)
+NegatedAtom at_two(straight1, f6-1f, f7-1f)
 end_variable
 begin_variable
 var468
 -1
 2
-0
-1
+Atom at_two(straight2, f6-1f, f5-1f)
+NegatedAtom at_two(straight2, f6-1f, f5-1f)
 end_variable
 begin_variable
 var469
 -1
 2
-0
-1
+Atom at_two(straight2, f6-1f, f6-2f)
+NegatedAtom at_two(straight2, f6-1f, f6-2f)
 end_variable
 begin_variable
 var470
 -1
 2
-0
-1
+Atom at_two(straight2, f6-2f, f5-2f)
+NegatedAtom at_two(straight2, f6-2f, f5-2f)
 end_variable
 begin_variable
 var471
 -1
 2
-0
-1
+Atom at_two(straight2, f6-2f, f6-1f)
+NegatedAtom at_two(straight2, f6-2f, f6-1f)
 end_variable
 begin_variable
 var472
 -1
 2
-0
-1
+Atom at_two(straight2, f6-2f, f7-2f)
+NegatedAtom at_two(straight2, f6-2f, f7-2f)
 end_variable
 begin_variable
 var473
 -1
 2
-0
-1
+Atom at_two(straight2, f6-1f, f7-1f)
+NegatedAtom at_two(straight2, f6-1f, f7-1f)
 end_variable
 begin_variable
 var474
 -1
 2
-0
-1
+Atom at_two(straight3, f6-1f, f5-1f)
+NegatedAtom at_two(straight3, f6-1f, f5-1f)
 end_variable
 begin_variable
 var475
 -1
 2
-0
-1
+Atom at_two(straight3, f6-1f, f6-2f)
+NegatedAtom at_two(straight3, f6-1f, f6-2f)
 end_variable
 begin_variable
 var476
 -1
 2
-0
-1
+Atom at_two(straight3, f6-2f, f5-2f)
+NegatedAtom at_two(straight3, f6-2f, f5-2f)
 end_variable
 begin_variable
 var477
 -1
 2
-0
-1
+Atom at_two(straight3, f6-2f, f6-1f)
+NegatedAtom at_two(straight3, f6-2f, f6-1f)
 end_variable
 begin_variable
 var478
 -1
 2
-0
-1
+Atom at_two(straight3, f6-2f, f7-2f)
+NegatedAtom at_two(straight3, f6-2f, f7-2f)
 end_variable
 begin_variable
 var479
 -1
 2
-0
-1
+Atom at_two(straight3, f6-1f, f7-1f)
+NegatedAtom at_two(straight3, f6-1f, f7-1f)
 end_variable
 begin_variable
 var480
 -1
 2
-0
-1
+Atom at_two(straight0, f4-1f, f3-1f)
+NegatedAtom at_two(straight0, f4-1f, f3-1f)
 end_variable
 begin_variable
 var481
 -1
 2
-0
-1
+Atom at_two(straight0, f4-1f, f4-2f)
+NegatedAtom at_two(straight0, f4-1f, f4-2f)
 end_variable
 begin_variable
 var482
 -1
 2
-0
-1
+Atom at_two(straight0, f4-2f, f3-2f)
+NegatedAtom at_two(straight0, f4-2f, f3-2f)
 end_variable
 begin_variable
 var483
 -1
 2
-0
-1
+Atom at_two(straight0, f4-2f, f4-1f)
+NegatedAtom at_two(straight0, f4-2f, f4-1f)
 end_variable
 begin_variable
 var484
 -1
 2
-0
-1
+Atom at_two(straight0, f4-2f, f5-2f)
+NegatedAtom at_two(straight0, f4-2f, f5-2f)
 end_variable
 begin_variable
 var485
 -1
 2
-0
-1
+Atom at_two(straight0, f4-1f, f5-1f)
+NegatedAtom at_two(straight0, f4-1f, f5-1f)
 end_variable
 begin_variable
 var486
 -1
 2
-0
-1
+Atom at_two(straight0, f5-2f, f4-2f)
+NegatedAtom at_two(straight0, f5-2f, f4-2f)
 end_variable
 begin_variable
 var487
 -1
 2
-0
-1
+Atom at_two(straight0, f5-2f, f5-1f)
+NegatedAtom at_two(straight0, f5-2f, f5-1f)
 end_variable
 begin_variable
 var488
 -1
 2
-0
-1
+Atom at_two(straight0, f5-1f, f4-1f)
+NegatedAtom at_two(straight0, f5-1f, f4-1f)
 end_variable
 begin_variable
 var489
 -1
 2
-0
-1
+Atom at_two(straight0, f5-1f, f5-2f)
+NegatedAtom at_two(straight0, f5-1f, f5-2f)
 end_variable
 begin_variable
 var490
 -1
 2
-0
-1
+Atom at_two(straight0, f5-1f, f6-1f)
+NegatedAtom at_two(straight0, f5-1f, f6-1f)
 end_variable
 begin_variable
 var491
 -1
 2
-0
-1
+Atom at_two(straight0, f5-2f, f6-2f)
+NegatedAtom at_two(straight0, f5-2f, f6-2f)
 end_variable
 begin_variable
 var492
 -1
 2
-0
-1
+Atom at_two(straight1, f4-1f, f3-1f)
+NegatedAtom at_two(straight1, f4-1f, f3-1f)
 end_variable
 begin_variable
 var493
 -1
 2
-0
-1
+Atom at_two(straight1, f4-1f, f4-2f)
+NegatedAtom at_two(straight1, f4-1f, f4-2f)
 end_variable
 begin_variable
 var494
 -1
 2
-0
-1
+Atom at_two(straight1, f4-2f, f3-2f)
+NegatedAtom at_two(straight1, f4-2f, f3-2f)
 end_variable
 begin_variable
 var495
 -1
 2
-0
-1
+Atom at_two(straight1, f4-2f, f4-1f)
+NegatedAtom at_two(straight1, f4-2f, f4-1f)
 end_variable
 begin_variable
 var496
 -1
 2
-0
-1
+Atom at_two(straight1, f4-2f, f5-2f)
+NegatedAtom at_two(straight1, f4-2f, f5-2f)
 end_variable
 begin_variable
 var497
 -1
 2
-0
-1
+Atom at_two(straight1, f4-1f, f5-1f)
+NegatedAtom at_two(straight1, f4-1f, f5-1f)
 end_variable
 begin_variable
 var498
 -1
 2
-0
-1
+Atom at_two(straight1, f5-2f, f4-2f)
+NegatedAtom at_two(straight1, f5-2f, f4-2f)
 end_variable
 begin_variable
 var499
 -1
 2
-0
-1
+Atom at_two(straight1, f5-2f, f5-1f)
+NegatedAtom at_two(straight1, f5-2f, f5-1f)
 end_variable
 begin_variable
 var500
 -1
 2
-0
-1
+Atom at_two(straight1, f5-1f, f4-1f)
+NegatedAtom at_two(straight1, f5-1f, f4-1f)
 end_variable
 begin_variable
 var501
 -1
 2
-0
-1
+Atom at_two(straight1, f5-1f, f5-2f)
+NegatedAtom at_two(straight1, f5-1f, f5-2f)
 end_variable
 begin_variable
 var502
 -1
 2
-0
-1
+Atom at_two(straight1, f5-1f, f6-1f)
+NegatedAtom at_two(straight1, f5-1f, f6-1f)
 end_variable
 begin_variable
 var503
 -1
 2
-0
-1
+Atom at_two(straight1, f5-2f, f6-2f)
+NegatedAtom at_two(straight1, f5-2f, f6-2f)
 end_variable
 begin_variable
 var504
 -1
 2
-0
-1
+Atom at_two(straight2, f4-1f, f3-1f)
+NegatedAtom at_two(straight2, f4-1f, f3-1f)
 end_variable
 begin_variable
 var505
 -1
 2
-0
-1
+Atom at_two(straight2, f4-1f, f4-2f)
+NegatedAtom at_two(straight2, f4-1f, f4-2f)
 end_variable
 begin_variable
 var506
 -1
 2
-0
-1
+Atom at_two(straight2, f4-2f, f3-2f)
+NegatedAtom at_two(straight2, f4-2f, f3-2f)
 end_variable
 begin_variable
 var507
 -1
 2
-0
-1
+Atom at_two(straight2, f4-2f, f4-1f)
+NegatedAtom at_two(straight2, f4-2f, f4-1f)
 end_variable
 begin_variable
 var508
 -1
 2
-0
-1
+Atom at_two(straight2, f4-2f, f5-2f)
+NegatedAtom at_two(straight2, f4-2f, f5-2f)
 end_variable
 begin_variable
 var509
 -1
 2
-0
-1
+Atom at_two(straight2, f4-1f, f5-1f)
+NegatedAtom at_two(straight2, f4-1f, f5-1f)
 end_variable
 begin_variable
 var510
 -1
 2
-0
-1
+Atom at_two(straight2, f5-2f, f4-2f)
+NegatedAtom at_two(straight2, f5-2f, f4-2f)
 end_variable
 begin_variable
 var511
 -1
 2
-0
-1
+Atom at_two(straight2, f5-2f, f5-1f)
+NegatedAtom at_two(straight2, f5-2f, f5-1f)
 end_variable
 begin_variable
 var512
 -1
 2
-0
-1
+Atom at_two(straight2, f5-1f, f4-1f)
+NegatedAtom at_two(straight2, f5-1f, f4-1f)
 end_variable
 begin_variable
 var513
 -1
 2
-0
-1
+Atom at_two(straight2, f5-1f, f5-2f)
+NegatedAtom at_two(straight2, f5-1f, f5-2f)
 end_variable
 begin_variable
 var514
 -1
 2
-0
-1
+Atom at_two(straight2, f5-1f, f6-1f)
+NegatedAtom at_two(straight2, f5-1f, f6-1f)
 end_variable
 begin_variable
 var515
 -1
 2
-0
-1
+Atom at_two(straight2, f5-2f, f6-2f)
+NegatedAtom at_two(straight2, f5-2f, f6-2f)
 end_variable
 begin_variable
 var516
 -1
 2
-0
-1
+Atom at_two(straight3, f4-2f, f3-2f)
+NegatedAtom at_two(straight3, f4-2f, f3-2f)
 end_variable
 begin_variable
 var517
 -1
 2
-0
-1
+Atom at_two(straight3, f4-2f, f4-1f)
+NegatedAtom at_two(straight3, f4-2f, f4-1f)
 end_variable
 begin_variable
 var518
 -1
 2
-0
-1
+Atom at_two(straight3, f4-1f, f3-1f)
+NegatedAtom at_two(straight3, f4-1f, f3-1f)
 end_variable
 begin_variable
 var519
 -1
 2
-0
-1
+Atom at_two(straight3, f4-1f, f4-2f)
+NegatedAtom at_two(straight3, f4-1f, f4-2f)
 end_variable
 begin_variable
 var520
 -1
 2
-0
-1
+Atom at_two(straight3, f4-1f, f5-1f)
+NegatedAtom at_two(straight3, f4-1f, f5-1f)
 end_variable
 begin_variable
 var521
 -1
 2
-0
-1
+Atom at_two(straight3, f4-2f, f5-2f)
+NegatedAtom at_two(straight3, f4-2f, f5-2f)
 end_variable
 begin_variable
 var522
 -1
 2
-0
-1
+Atom at_two(straight3, f5-1f, f4-1f)
+NegatedAtom at_two(straight3, f5-1f, f4-1f)
 end_variable
 begin_variable
 var523
 -1
 2
-0
-1
+Atom at_two(straight3, f5-1f, f5-2f)
+NegatedAtom at_two(straight3, f5-1f, f5-2f)
 end_variable
 begin_variable
 var524
 -1
 2
-0
-1
+Atom at_two(straight3, f5-2f, f4-2f)
+NegatedAtom at_two(straight3, f5-2f, f4-2f)
 end_variable
 begin_variable
 var525
 -1
 2
-0
-1
+Atom at_two(straight3, f5-2f, f5-1f)
+NegatedAtom at_two(straight3, f5-2f, f5-1f)
 end_variable
 begin_variable
 var526
 -1
 2
-0
-1
+Atom at_two(straight3, f5-2f, f6-2f)
+NegatedAtom at_two(straight3, f5-2f, f6-2f)
 end_variable
 begin_variable
 var527
 -1
 2
-0
-1
+Atom at_two(straight3, f5-1f, f6-1f)
+NegatedAtom at_two(straight3, f5-1f, f6-1f)
 end_variable
 begin_variable
 var528
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f0-0f, f0-1f, f0-2f)
+NegatedAtom at_right_l(rightl0, f0-0f, f0-1f, f0-2f)
 end_variable
 begin_variable
 var529
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f0-1f, f0-2f, f0-3f)
+NegatedAtom at_right_l(rightl0, f0-1f, f0-2f, f0-3f)
 end_variable
 begin_variable
 var530
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f0-2f, f0-1f, f0-0f)
+NegatedAtom at_right_l(rightl0, f0-2f, f0-1f, f0-0f)
 end_variable
 begin_variable
 var531
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f0-3f, f0-2f, f0-1f)
+NegatedAtom at_right_l(rightl0, f0-3f, f0-2f, f0-1f)
 end_variable
 begin_variable
 var532
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f0-3f, f1-3f, f2-3f)
+NegatedAtom at_right_l(rightl0, f0-3f, f1-3f, f2-3f)
 end_variable
 begin_variable
 var533
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f0-0f, f1-0f, f2-0f)
+NegatedAtom at_right_l(rightl0, f0-0f, f1-0f, f2-0f)
 end_variable
 begin_variable
 var534
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-0f, f1-0f, f0-0f)
+NegatedAtom at_right_l(rightl0, f2-0f, f1-0f, f0-0f)
 end_variable
 begin_variable
 var535
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-3f, f1-3f, f0-3f)
+NegatedAtom at_right_l(rightl0, f2-3f, f1-3f, f0-3f)
 end_variable
 begin_variable
 var536
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-0f, f8-0f, f9-0f)
+NegatedAtom at_right_l(rightl0, f7-0f, f8-0f, f9-0f)
 end_variable
 begin_variable
 var537
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f9-0f, f8-0f, f7-0f)
+NegatedAtom at_right_l(rightl0, f9-0f, f8-0f, f7-0f)
 end_variable
 begin_variable
 var538
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-3f, f8-3f, f9-3f)
+NegatedAtom at_right_l(rightl0, f7-3f, f8-3f, f9-3f)
 end_variable
 begin_variable
 var539
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f0-0f, f0-1f, f0-2f)
+NegatedAtom at_right_l(rightl1, f0-0f, f0-1f, f0-2f)
 end_variable
 begin_variable
 var540
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f0-1f, f0-2f, f0-3f)
+NegatedAtom at_right_l(rightl1, f0-1f, f0-2f, f0-3f)
 end_variable
 begin_variable
 var541
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f0-3f, f0-2f, f0-1f)
+NegatedAtom at_right_l(rightl1, f0-3f, f0-2f, f0-1f)
 end_variable
 begin_variable
 var542
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f0-2f, f0-1f, f0-0f)
+NegatedAtom at_right_l(rightl1, f0-2f, f0-1f, f0-0f)
 end_variable
 begin_variable
 var543
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f0-0f, f1-0f, f2-0f)
+NegatedAtom at_right_l(rightl1, f0-0f, f1-0f, f2-0f)
 end_variable
 begin_variable
 var544
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f0-3f, f1-3f, f2-3f)
+NegatedAtom at_right_l(rightl1, f0-3f, f1-3f, f2-3f)
 end_variable
 begin_variable
 var545
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-3f, f1-3f, f0-3f)
+NegatedAtom at_right_l(rightl1, f2-3f, f1-3f, f0-3f)
 end_variable
 begin_variable
 var546
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-0f, f1-0f, f0-0f)
+NegatedAtom at_right_l(rightl1, f2-0f, f1-0f, f0-0f)
 end_variable
 begin_variable
 var547
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-0f, f8-0f, f9-0f)
+NegatedAtom at_right_l(rightl1, f7-0f, f8-0f, f9-0f)
 end_variable
 begin_variable
 var548
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f9-0f, f8-0f, f7-0f)
+NegatedAtom at_right_l(rightl1, f9-0f, f8-0f, f7-0f)
 end_variable
 begin_variable
 var549
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f9-3f, f8-3f, f7-3f)
+NegatedAtom at_right_l(rightl1, f9-3f, f8-3f, f7-3f)
 end_variable
 begin_variable
 var550
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-3f, f8-3f, f9-3f)
+NegatedAtom at_right_l(rightl1, f7-3f, f8-3f, f9-3f)
 end_variable
 begin_variable
 var551
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f9-0f, f9-1f, f9-2f)
+NegatedAtom at_right_l(rightl1, f9-0f, f9-1f, f9-2f)
 end_variable
 begin_variable
 var552
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f9-1f, f9-2f, f9-3f)
+NegatedAtom at_right_l(rightl1, f9-1f, f9-2f, f9-3f)
 end_variable
 begin_variable
 var553
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f9-0f, f9-1f, f9-2f)
+NegatedAtom at_right_l(rightl0, f9-0f, f9-1f, f9-2f)
 end_variable
 begin_variable
 var554
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f9-1f, f9-2f, f9-3f)
+NegatedAtom at_right_l(rightl0, f9-1f, f9-2f, f9-3f)
 end_variable
 begin_variable
 var555
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f9-3f, f8-3f, f7-3f)
+NegatedAtom at_right_l(rightl0, f9-3f, f8-3f, f7-3f)
 end_variable
 begin_variable
 var556
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f9-2f, f9-1f, f9-0f)
+NegatedAtom at_right_l(rightl0, f9-2f, f9-1f, f9-0f)
 end_variable
 begin_variable
 var557
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f9-3f, f9-2f, f9-1f)
+NegatedAtom at_right_l(rightl0, f9-3f, f9-2f, f9-1f)
 end_variable
 begin_variable
 var558
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f9-2f, f9-1f, f9-0f)
+NegatedAtom at_right_l(rightl1, f9-2f, f9-1f, f9-0f)
 end_variable
 begin_variable
 var559
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f9-3f, f9-2f, f9-1f)
+NegatedAtom at_right_l(rightl1, f9-3f, f9-2f, f9-1f)
 end_variable
 begin_variable
 var560
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f0-0f, f0-1f, f0-2f)
+NegatedAtom at_right_l(rightl2, f0-0f, f0-1f, f0-2f)
 end_variable
 begin_variable
 var561
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f0-1f, f0-2f, f0-3f)
+NegatedAtom at_right_l(rightl2, f0-1f, f0-2f, f0-3f)
 end_variable
 begin_variable
 var562
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f0-3f, f0-2f, f0-1f)
+NegatedAtom at_right_l(rightl2, f0-3f, f0-2f, f0-1f)
 end_variable
 begin_variable
 var563
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f0-2f, f0-1f, f0-0f)
+NegatedAtom at_right_l(rightl2, f0-2f, f0-1f, f0-0f)
 end_variable
 begin_variable
 var564
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f0-0f, f1-0f, f2-0f)
+NegatedAtom at_right_l(rightl2, f0-0f, f1-0f, f2-0f)
 end_variable
 begin_variable
 var565
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f0-3f, f1-3f, f2-3f)
+NegatedAtom at_right_l(rightl2, f0-3f, f1-3f, f2-3f)
 end_variable
 begin_variable
 var566
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-3f, f1-3f, f0-3f)
+NegatedAtom at_right_l(rightl2, f2-3f, f1-3f, f0-3f)
 end_variable
 begin_variable
 var567
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-0f, f1-0f, f0-0f)
+NegatedAtom at_right_l(rightl2, f2-0f, f1-0f, f0-0f)
 end_variable
 begin_variable
 var568
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-0f, f8-0f, f9-0f)
+NegatedAtom at_right_l(rightl2, f7-0f, f8-0f, f9-0f)
 end_variable
 begin_variable
 var569
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f9-0f, f8-0f, f7-0f)
+NegatedAtom at_right_l(rightl2, f9-0f, f8-0f, f7-0f)
 end_variable
 begin_variable
 var570
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-3f, f8-3f, f9-3f)
+NegatedAtom at_right_l(rightl2, f7-3f, f8-3f, f9-3f)
 end_variable
 begin_variable
 var571
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f9-3f, f8-3f, f7-3f)
+NegatedAtom at_right_l(rightl2, f9-3f, f8-3f, f7-3f)
 end_variable
 begin_variable
 var572
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f9-0f, f9-1f, f9-2f)
+NegatedAtom at_right_l(rightl2, f9-0f, f9-1f, f9-2f)
 end_variable
 begin_variable
 var573
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f9-1f, f9-2f, f9-3f)
+NegatedAtom at_right_l(rightl2, f9-1f, f9-2f, f9-3f)
 end_variable
 begin_variable
 var574
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f9-2f, f9-1f, f9-0f)
+NegatedAtom at_right_l(rightl2, f9-2f, f9-1f, f9-0f)
 end_variable
 begin_variable
 var575
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f9-3f, f9-2f, f9-1f)
+NegatedAtom at_right_l(rightl2, f9-3f, f9-2f, f9-1f)
 end_variable
 begin_variable
 var576
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f0-0f, f0-1f, f0-0f)
+NegatedAtom at_right_l(rightl0, f0-0f, f0-1f, f0-0f)
 end_variable
 begin_variable
 var577
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f0-3f, f0-2f, f0-3f)
+NegatedAtom at_right_l(rightl0, f0-3f, f0-2f, f0-3f)
 end_variable
 begin_variable
 var578
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f0-3f, f1-3f, f0-3f)
+NegatedAtom at_right_l(rightl0, f0-3f, f1-3f, f0-3f)
 end_variable
 begin_variable
 var579
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f0-0f, f1-0f, f0-0f)
+NegatedAtom at_right_l(rightl0, f0-0f, f1-0f, f0-0f)
 end_variable
 begin_variable
 var580
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f0-0f, f0-1f, f0-0f)
+NegatedAtom at_right_l(rightl1, f0-0f, f0-1f, f0-0f)
 end_variable
 begin_variable
 var581
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f0-0f, f1-0f, f0-0f)
+NegatedAtom at_right_l(rightl1, f0-0f, f1-0f, f0-0f)
 end_variable
 begin_variable
 var582
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f0-3f, f0-2f, f0-3f)
+NegatedAtom at_right_l(rightl1, f0-3f, f0-2f, f0-3f)
 end_variable
 begin_variable
 var583
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f0-3f, f1-3f, f0-3f)
+NegatedAtom at_right_l(rightl1, f0-3f, f1-3f, f0-3f)
 end_variable
 begin_variable
 var584
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f9-3f, f8-3f, f9-3f)
+NegatedAtom at_right_l(rightl1, f9-3f, f8-3f, f9-3f)
 end_variable
 begin_variable
 var585
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f9-0f, f8-0f, f9-0f)
+NegatedAtom at_right_l(rightl1, f9-0f, f8-0f, f9-0f)
 end_variable
 begin_variable
 var586
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f9-0f, f8-0f, f9-0f)
+NegatedAtom at_right_l(rightl0, f9-0f, f8-0f, f9-0f)
 end_variable
 begin_variable
 var587
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f9-0f, f9-1f, f9-0f)
+NegatedAtom at_right_l(rightl0, f9-0f, f9-1f, f9-0f)
 end_variable
 begin_variable
 var588
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f9-3f, f8-3f, f9-3f)
+NegatedAtom at_right_l(rightl0, f9-3f, f8-3f, f9-3f)
 end_variable
 begin_variable
 var589
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f9-3f, f9-2f, f9-3f)
+NegatedAtom at_right_l(rightl0, f9-3f, f9-2f, f9-3f)
 end_variable
 begin_variable
 var590
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f9-0f, f9-1f, f9-0f)
+NegatedAtom at_right_l(rightl1, f9-0f, f9-1f, f9-0f)
 end_variable
 begin_variable
 var591
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f0-0f, f0-1f, f0-0f)
+NegatedAtom at_right_l(rightl2, f0-0f, f0-1f, f0-0f)
 end_variable
 begin_variable
 var592
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f0-0f, f1-0f, f0-0f)
+NegatedAtom at_right_l(rightl2, f0-0f, f1-0f, f0-0f)
 end_variable
 begin_variable
 var593
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f0-3f, f0-2f, f0-3f)
+NegatedAtom at_right_l(rightl2, f0-3f, f0-2f, f0-3f)
 end_variable
 begin_variable
 var594
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f0-3f, f1-3f, f0-3f)
+NegatedAtom at_right_l(rightl2, f0-3f, f1-3f, f0-3f)
 end_variable
 begin_variable
 var595
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f9-0f, f8-0f, f9-0f)
+NegatedAtom at_right_l(rightl2, f9-0f, f8-0f, f9-0f)
 end_variable
 begin_variable
 var596
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f9-0f, f9-1f, f9-0f)
+NegatedAtom at_right_l(rightl2, f9-0f, f9-1f, f9-0f)
 end_variable
 begin_variable
 var597
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f9-3f, f9-2f, f9-3f)
+NegatedAtom at_right_l(rightl1, f9-3f, f9-2f, f9-3f)
 end_variable
 begin_variable
 var598
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f9-3f, f8-3f, f9-3f)
+NegatedAtom at_right_l(rightl2, f9-3f, f8-3f, f9-3f)
 end_variable
 begin_variable
 var599
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f9-3f, f9-2f, f9-3f)
+NegatedAtom at_right_l(rightl2, f9-3f, f9-2f, f9-3f)
 end_variable
 begin_variable
 var600
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-3f, f2-3f, f3-3f)
+NegatedAtom at_right_l(rightl0, f1-3f, f2-3f, f3-3f)
 end_variable
 begin_variable
 var601
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-0f, f2-0f, f3-0f)
+NegatedAtom at_right_l(rightl0, f1-0f, f2-0f, f3-0f)
 end_variable
 begin_variable
 var602
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-0f, f2-0f, f1-0f)
+NegatedAtom at_right_l(rightl0, f3-0f, f2-0f, f1-0f)
 end_variable
 begin_variable
 var603
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-3f, f2-3f, f1-3f)
+NegatedAtom at_right_l(rightl0, f3-3f, f2-3f, f1-3f)
 end_variable
 begin_variable
 var604
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-0f, f7-0f, f8-0f)
+NegatedAtom at_right_l(rightl0, f6-0f, f7-0f, f8-0f)
 end_variable
 begin_variable
 var605
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-0f, f7-0f, f6-0f)
+NegatedAtom at_right_l(rightl0, f8-0f, f7-0f, f6-0f)
 end_variable
 begin_variable
 var606
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-3f, f7-3f, f8-3f)
+NegatedAtom at_right_l(rightl0, f6-3f, f7-3f, f8-3f)
 end_variable
 begin_variable
 var607
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-0f, f2-0f, f3-0f)
+NegatedAtom at_right_l(rightl1, f1-0f, f2-0f, f3-0f)
 end_variable
 begin_variable
 var608
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-3f, f2-3f, f3-3f)
+NegatedAtom at_right_l(rightl1, f1-3f, f2-3f, f3-3f)
 end_variable
 begin_variable
 var609
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-3f, f2-3f, f1-3f)
+NegatedAtom at_right_l(rightl1, f3-3f, f2-3f, f1-3f)
 end_variable
 begin_variable
 var610
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-0f, f2-0f, f1-0f)
+NegatedAtom at_right_l(rightl1, f3-0f, f2-0f, f1-0f)
 end_variable
 begin_variable
 var611
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-0f, f7-0f, f8-0f)
+NegatedAtom at_right_l(rightl1, f6-0f, f7-0f, f8-0f)
 end_variable
 begin_variable
 var612
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-0f, f7-0f, f6-0f)
+NegatedAtom at_right_l(rightl1, f8-0f, f7-0f, f6-0f)
 end_variable
 begin_variable
 var613
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-3f, f7-3f, f6-3f)
+NegatedAtom at_right_l(rightl1, f8-3f, f7-3f, f6-3f)
 end_variable
 begin_variable
 var614
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-3f, f7-3f, f8-3f)
+NegatedAtom at_right_l(rightl1, f6-3f, f7-3f, f8-3f)
 end_variable
 begin_variable
 var615
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-3f, f7-3f, f6-3f)
+NegatedAtom at_right_l(rightl0, f8-3f, f7-3f, f6-3f)
 end_variable
 begin_variable
 var616
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-0f, f2-0f, f3-0f)
+NegatedAtom at_right_l(rightl2, f1-0f, f2-0f, f3-0f)
 end_variable
 begin_variable
 var617
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-3f, f2-3f, f3-3f)
+NegatedAtom at_right_l(rightl2, f1-3f, f2-3f, f3-3f)
 end_variable
 begin_variable
 var618
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-3f, f2-3f, f1-3f)
+NegatedAtom at_right_l(rightl2, f3-3f, f2-3f, f1-3f)
 end_variable
 begin_variable
 var619
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-0f, f2-0f, f1-0f)
+NegatedAtom at_right_l(rightl2, f3-0f, f2-0f, f1-0f)
 end_variable
 begin_variable
 var620
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-0f, f7-0f, f8-0f)
+NegatedAtom at_right_l(rightl2, f6-0f, f7-0f, f8-0f)
 end_variable
 begin_variable
 var621
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-0f, f7-0f, f6-0f)
+NegatedAtom at_right_l(rightl2, f8-0f, f7-0f, f6-0f)
 end_variable
 begin_variable
 var622
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-3f, f7-3f, f8-3f)
+NegatedAtom at_right_l(rightl2, f6-3f, f7-3f, f8-3f)
 end_variable
 begin_variable
 var623
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-3f, f7-3f, f6-3f)
+NegatedAtom at_right_l(rightl2, f8-3f, f7-3f, f6-3f)
 end_variable
 begin_variable
 var624
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-3f, f3-3f, f4-3f)
+NegatedAtom at_right_l(rightl0, f2-3f, f3-3f, f4-3f)
 end_variable
 begin_variable
 var625
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-0f, f3-0f, f4-0f)
+NegatedAtom at_right_l(rightl0, f2-0f, f3-0f, f4-0f)
 end_variable
 begin_variable
 var626
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-0f, f3-0f, f2-0f)
+NegatedAtom at_right_l(rightl0, f4-0f, f3-0f, f2-0f)
 end_variable
 begin_variable
 var627
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-3f, f3-3f, f2-3f)
+NegatedAtom at_right_l(rightl0, f4-3f, f3-3f, f2-3f)
 end_variable
 begin_variable
 var628
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-0f, f6-0f, f7-0f)
+NegatedAtom at_right_l(rightl0, f5-0f, f6-0f, f7-0f)
 end_variable
 begin_variable
 var629
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-0f, f6-0f, f5-0f)
+NegatedAtom at_right_l(rightl0, f7-0f, f6-0f, f5-0f)
 end_variable
 begin_variable
 var630
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-3f, f6-3f, f7-3f)
+NegatedAtom at_right_l(rightl0, f5-3f, f6-3f, f7-3f)
 end_variable
 begin_variable
 var631
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-0f, f3-0f, f4-0f)
+NegatedAtom at_right_l(rightl1, f2-0f, f3-0f, f4-0f)
 end_variable
 begin_variable
 var632
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-3f, f3-3f, f4-3f)
+NegatedAtom at_right_l(rightl1, f2-3f, f3-3f, f4-3f)
 end_variable
 begin_variable
 var633
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-3f, f3-3f, f2-3f)
+NegatedAtom at_right_l(rightl1, f4-3f, f3-3f, f2-3f)
 end_variable
 begin_variable
 var634
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-0f, f3-0f, f2-0f)
+NegatedAtom at_right_l(rightl1, f4-0f, f3-0f, f2-0f)
 end_variable
 begin_variable
 var635
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-0f, f6-0f, f7-0f)
+NegatedAtom at_right_l(rightl1, f5-0f, f6-0f, f7-0f)
 end_variable
 begin_variable
 var636
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-0f, f6-0f, f5-0f)
+NegatedAtom at_right_l(rightl1, f7-0f, f6-0f, f5-0f)
 end_variable
 begin_variable
 var637
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-3f, f6-3f, f5-3f)
+NegatedAtom at_right_l(rightl1, f7-3f, f6-3f, f5-3f)
 end_variable
 begin_variable
 var638
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-3f, f6-3f, f7-3f)
+NegatedAtom at_right_l(rightl1, f5-3f, f6-3f, f7-3f)
 end_variable
 begin_variable
 var639
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-3f, f6-3f, f5-3f)
+NegatedAtom at_right_l(rightl0, f7-3f, f6-3f, f5-3f)
 end_variable
 begin_variable
 var640
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-0f, f3-0f, f4-0f)
+NegatedAtom at_right_l(rightl2, f2-0f, f3-0f, f4-0f)
 end_variable
 begin_variable
 var641
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-3f, f3-3f, f4-3f)
+NegatedAtom at_right_l(rightl2, f2-3f, f3-3f, f4-3f)
 end_variable
 begin_variable
 var642
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-3f, f3-3f, f2-3f)
+NegatedAtom at_right_l(rightl2, f4-3f, f3-3f, f2-3f)
 end_variable
 begin_variable
 var643
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-0f, f3-0f, f2-0f)
+NegatedAtom at_right_l(rightl2, f4-0f, f3-0f, f2-0f)
 end_variable
 begin_variable
 var644
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-0f, f6-0f, f7-0f)
+NegatedAtom at_right_l(rightl2, f5-0f, f6-0f, f7-0f)
 end_variable
 begin_variable
 var645
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-0f, f6-0f, f5-0f)
+NegatedAtom at_right_l(rightl2, f7-0f, f6-0f, f5-0f)
 end_variable
 begin_variable
 var646
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-3f, f6-3f, f7-3f)
+NegatedAtom at_right_l(rightl2, f5-3f, f6-3f, f7-3f)
 end_variable
 begin_variable
 var647
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-3f, f6-3f, f5-3f)
+NegatedAtom at_right_l(rightl2, f7-3f, f6-3f, f5-3f)
 end_variable
 begin_variable
 var648
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-3f, f4-3f, f5-3f)
+NegatedAtom at_right_l(rightl0, f3-3f, f4-3f, f5-3f)
 end_variable
 begin_variable
 var649
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-3f, f5-3f, f6-3f)
+NegatedAtom at_right_l(rightl0, f4-3f, f5-3f, f6-3f)
 end_variable
 begin_variable
 var650
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-0f, f4-0f, f5-0f)
+NegatedAtom at_right_l(rightl0, f3-0f, f4-0f, f5-0f)
 end_variable
 begin_variable
 var651
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-0f, f5-0f, f6-0f)
+NegatedAtom at_right_l(rightl0, f4-0f, f5-0f, f6-0f)
 end_variable
 begin_variable
 var652
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-0f, f4-0f, f3-0f)
+NegatedAtom at_right_l(rightl0, f5-0f, f4-0f, f3-0f)
 end_variable
 begin_variable
 var653
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-0f, f5-0f, f4-0f)
+NegatedAtom at_right_l(rightl0, f6-0f, f5-0f, f4-0f)
 end_variable
 begin_variable
 var654
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-3f, f4-3f, f3-3f)
+NegatedAtom at_right_l(rightl0, f5-3f, f4-3f, f3-3f)
 end_variable
 begin_variable
 var655
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-3f, f5-3f, f4-3f)
+NegatedAtom at_right_l(rightl0, f6-3f, f5-3f, f4-3f)
 end_variable
 begin_variable
 var656
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-0f, f4-0f, f5-0f)
+NegatedAtom at_right_l(rightl1, f3-0f, f4-0f, f5-0f)
 end_variable
 begin_variable
 var657
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-0f, f5-0f, f6-0f)
+NegatedAtom at_right_l(rightl1, f4-0f, f5-0f, f6-0f)
 end_variable
 begin_variable
 var658
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-3f, f4-3f, f5-3f)
+NegatedAtom at_right_l(rightl1, f3-3f, f4-3f, f5-3f)
 end_variable
 begin_variable
 var659
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-3f, f5-3f, f6-3f)
+NegatedAtom at_right_l(rightl1, f4-3f, f5-3f, f6-3f)
 end_variable
 begin_variable
 var660
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-3f, f4-3f, f3-3f)
+NegatedAtom at_right_l(rightl1, f5-3f, f4-3f, f3-3f)
 end_variable
 begin_variable
 var661
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-3f, f5-3f, f4-3f)
+NegatedAtom at_right_l(rightl1, f6-3f, f5-3f, f4-3f)
 end_variable
 begin_variable
 var662
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-0f, f4-0f, f3-0f)
+NegatedAtom at_right_l(rightl1, f5-0f, f4-0f, f3-0f)
 end_variable
 begin_variable
 var663
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-0f, f5-0f, f4-0f)
+NegatedAtom at_right_l(rightl1, f6-0f, f5-0f, f4-0f)
 end_variable
 begin_variable
 var664
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-0f, f4-0f, f5-0f)
+NegatedAtom at_right_l(rightl2, f3-0f, f4-0f, f5-0f)
 end_variable
 begin_variable
 var665
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-0f, f5-0f, f6-0f)
+NegatedAtom at_right_l(rightl2, f4-0f, f5-0f, f6-0f)
 end_variable
 begin_variable
 var666
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-3f, f4-3f, f5-3f)
+NegatedAtom at_right_l(rightl2, f3-3f, f4-3f, f5-3f)
 end_variable
 begin_variable
 var667
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-3f, f5-3f, f6-3f)
+NegatedAtom at_right_l(rightl2, f4-3f, f5-3f, f6-3f)
 end_variable
 begin_variable
 var668
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-3f, f4-3f, f3-3f)
+NegatedAtom at_right_l(rightl2, f5-3f, f4-3f, f3-3f)
 end_variable
 begin_variable
 var669
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-3f, f5-3f, f4-3f)
+NegatedAtom at_right_l(rightl2, f6-3f, f5-3f, f4-3f)
 end_variable
 begin_variable
 var670
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-0f, f4-0f, f3-0f)
+NegatedAtom at_right_l(rightl2, f5-0f, f4-0f, f3-0f)
 end_variable
 begin_variable
 var671
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-0f, f5-0f, f4-0f)
+NegatedAtom at_right_l(rightl2, f6-0f, f5-0f, f4-0f)
 end_variable
 begin_variable
 var672
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f0-2f, f0-3f, f1-3f)
+NegatedAtom at_right_l(rightl0, f0-2f, f0-3f, f1-3f)
 end_variable
 begin_variable
 var673
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-3f, f0-3f, f0-2f)
+NegatedAtom at_right_l(rightl0, f1-3f, f0-3f, f0-2f)
 end_variable
 begin_variable
 var674
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f0-1f, f0-0f, f1-0f)
+NegatedAtom at_right_l(rightl0, f0-1f, f0-0f, f1-0f)
 end_variable
 begin_variable
 var675
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-0f, f0-0f, f0-1f)
+NegatedAtom at_right_l(rightl0, f1-0f, f0-0f, f0-1f)
 end_variable
 begin_variable
 var676
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f0-1f, f0-0f, f1-0f)
+NegatedAtom at_right_l(rightl1, f0-1f, f0-0f, f1-0f)
 end_variable
 begin_variable
 var677
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-0f, f0-0f, f0-1f)
+NegatedAtom at_right_l(rightl1, f1-0f, f0-0f, f0-1f)
 end_variable
 begin_variable
 var678
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f0-2f, f0-3f, f1-3f)
+NegatedAtom at_right_l(rightl1, f0-2f, f0-3f, f1-3f)
 end_variable
 begin_variable
 var679
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-3f, f0-3f, f0-2f)
+NegatedAtom at_right_l(rightl1, f1-3f, f0-3f, f0-2f)
 end_variable
 begin_variable
 var680
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-0f, f9-0f, f9-1f)
+NegatedAtom at_right_l(rightl0, f8-0f, f9-0f, f9-1f)
 end_variable
 begin_variable
 var681
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f9-1f, f9-0f, f8-0f)
+NegatedAtom at_right_l(rightl0, f9-1f, f9-0f, f8-0f)
 end_variable
 begin_variable
 var682
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-3f, f9-3f, f9-2f)
+NegatedAtom at_right_l(rightl0, f8-3f, f9-3f, f9-2f)
 end_variable
 begin_variable
 var683
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f9-2f, f9-3f, f8-3f)
+NegatedAtom at_right_l(rightl0, f9-2f, f9-3f, f8-3f)
 end_variable
 begin_variable
 var684
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-0f, f9-0f, f9-1f)
+NegatedAtom at_right_l(rightl1, f8-0f, f9-0f, f9-1f)
 end_variable
 begin_variable
 var685
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f9-1f, f9-0f, f8-0f)
+NegatedAtom at_right_l(rightl1, f9-1f, f9-0f, f8-0f)
 end_variable
 begin_variable
 var686
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f0-1f, f0-0f, f1-0f)
+NegatedAtom at_right_l(rightl2, f0-1f, f0-0f, f1-0f)
 end_variable
 begin_variable
 var687
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-0f, f0-0f, f0-1f)
+NegatedAtom at_right_l(rightl2, f1-0f, f0-0f, f0-1f)
 end_variable
 begin_variable
 var688
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f0-2f, f0-3f, f1-3f)
+NegatedAtom at_right_l(rightl2, f0-2f, f0-3f, f1-3f)
 end_variable
 begin_variable
 var689
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-3f, f0-3f, f0-2f)
+NegatedAtom at_right_l(rightl2, f1-3f, f0-3f, f0-2f)
 end_variable
 begin_variable
 var690
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-0f, f9-0f, f9-1f)
+NegatedAtom at_right_l(rightl2, f8-0f, f9-0f, f9-1f)
 end_variable
 begin_variable
 var691
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f9-1f, f9-0f, f8-0f)
+NegatedAtom at_right_l(rightl2, f9-1f, f9-0f, f8-0f)
 end_variable
 begin_variable
 var692
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-3f, f9-3f, f9-2f)
+NegatedAtom at_right_l(rightl1, f8-3f, f9-3f, f9-2f)
 end_variable
 begin_variable
 var693
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f9-2f, f9-3f, f8-3f)
+NegatedAtom at_right_l(rightl1, f9-2f, f9-3f, f8-3f)
 end_variable
 begin_variable
 var694
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-3f, f9-3f, f9-2f)
+NegatedAtom at_right_l(rightl2, f8-3f, f9-3f, f9-2f)
 end_variable
 begin_variable
 var695
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f9-2f, f9-3f, f8-3f)
+NegatedAtom at_right_l(rightl2, f9-2f, f9-3f, f8-3f)
 end_variable
 begin_variable
 var696
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f0-1f, f1-1f, f2-1f)
+NegatedAtom at_right_l(rightl0, f0-1f, f1-1f, f2-1f)
 end_variable
 begin_variable
 var697
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-0f, f1-1f, f1-2f)
+NegatedAtom at_right_l(rightl0, f1-0f, f1-1f, f1-2f)
 end_variable
 begin_variable
 var698
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-1f, f1-2f, f1-3f)
+NegatedAtom at_right_l(rightl0, f1-1f, f1-2f, f1-3f)
 end_variable
 begin_variable
 var699
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f0-2f, f1-2f, f2-2f)
+NegatedAtom at_right_l(rightl0, f0-2f, f1-2f, f2-2f)
 end_variable
 begin_variable
 var700
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-3f, f1-2f, f1-1f)
+NegatedAtom at_right_l(rightl0, f1-3f, f1-2f, f1-1f)
 end_variable
 begin_variable
 var701
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-2f, f1-1f, f1-0f)
+NegatedAtom at_right_l(rightl0, f1-2f, f1-1f, f1-0f)
 end_variable
 begin_variable
 var702
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-2f, f1-2f, f0-2f)
+NegatedAtom at_right_l(rightl0, f2-2f, f1-2f, f0-2f)
 end_variable
 begin_variable
 var703
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-1f, f1-1f, f0-1f)
+NegatedAtom at_right_l(rightl0, f2-1f, f1-1f, f0-1f)
 end_variable
 begin_variable
 var704
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-0f, f2-1f, f2-2f)
+NegatedAtom at_right_l(rightl0, f2-0f, f2-1f, f2-2f)
 end_variable
 begin_variable
 var705
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-1f, f2-2f, f2-3f)
+NegatedAtom at_right_l(rightl0, f2-1f, f2-2f, f2-3f)
 end_variable
 begin_variable
 var706
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-3f, f2-2f, f2-1f)
+NegatedAtom at_right_l(rightl0, f2-3f, f2-2f, f2-1f)
 end_variable
 begin_variable
 var707
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-2f, f2-1f, f2-0f)
+NegatedAtom at_right_l(rightl0, f2-2f, f2-1f, f2-0f)
 end_variable
 begin_variable
 var708
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-0f, f3-1f, f3-2f)
+NegatedAtom at_right_l(rightl0, f3-0f, f3-1f, f3-2f)
 end_variable
 begin_variable
 var709
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-1f, f3-2f, f3-3f)
+NegatedAtom at_right_l(rightl0, f3-1f, f3-2f, f3-3f)
 end_variable
 begin_variable
 var710
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-2f, f3-1f, f3-0f)
+NegatedAtom at_right_l(rightl0, f3-2f, f3-1f, f3-0f)
 end_variable
 begin_variable
 var711
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-3f, f3-2f, f3-1f)
+NegatedAtom at_right_l(rightl0, f3-3f, f3-2f, f3-1f)
 end_variable
 begin_variable
 var712
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-0f, f4-1f, f4-2f)
+NegatedAtom at_right_l(rightl0, f4-0f, f4-1f, f4-2f)
 end_variable
 begin_variable
 var713
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-1f, f4-2f, f4-3f)
+NegatedAtom at_right_l(rightl0, f4-1f, f4-2f, f4-3f)
 end_variable
 begin_variable
 var714
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-3f, f4-2f, f4-1f)
+NegatedAtom at_right_l(rightl0, f4-3f, f4-2f, f4-1f)
 end_variable
 begin_variable
 var715
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-2f, f4-1f, f4-0f)
+NegatedAtom at_right_l(rightl0, f4-2f, f4-1f, f4-0f)
 end_variable
 begin_variable
 var716
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-0f, f5-1f, f5-2f)
+NegatedAtom at_right_l(rightl0, f5-0f, f5-1f, f5-2f)
 end_variable
 begin_variable
 var717
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-1f, f5-2f, f5-3f)
+NegatedAtom at_right_l(rightl0, f5-1f, f5-2f, f5-3f)
 end_variable
 begin_variable
 var718
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-3f, f5-2f, f5-1f)
+NegatedAtom at_right_l(rightl0, f5-3f, f5-2f, f5-1f)
 end_variable
 begin_variable
 var719
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-2f, f5-1f, f5-0f)
+NegatedAtom at_right_l(rightl0, f5-2f, f5-1f, f5-0f)
 end_variable
 begin_variable
 var720
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-0f, f6-1f, f6-2f)
+NegatedAtom at_right_l(rightl0, f6-0f, f6-1f, f6-2f)
 end_variable
 begin_variable
 var721
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-1f, f6-2f, f6-3f)
+NegatedAtom at_right_l(rightl0, f6-1f, f6-2f, f6-3f)
 end_variable
 begin_variable
 var722
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-2f, f6-1f, f6-0f)
+NegatedAtom at_right_l(rightl0, f6-2f, f6-1f, f6-0f)
 end_variable
 begin_variable
 var723
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-3f, f6-2f, f6-1f)
+NegatedAtom at_right_l(rightl0, f6-3f, f6-2f, f6-1f)
 end_variable
 begin_variable
 var724
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-0f, f7-1f, f7-2f)
+NegatedAtom at_right_l(rightl0, f7-0f, f7-1f, f7-2f)
 end_variable
 begin_variable
 var725
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-1f, f7-2f, f7-3f)
+NegatedAtom at_right_l(rightl0, f7-1f, f7-2f, f7-3f)
 end_variable
 begin_variable
 var726
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-2f, f7-1f, f7-0f)
+NegatedAtom at_right_l(rightl0, f7-2f, f7-1f, f7-0f)
 end_variable
 begin_variable
 var727
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-3f, f7-2f, f7-1f)
+NegatedAtom at_right_l(rightl0, f7-3f, f7-2f, f7-1f)
 end_variable
 begin_variable
 var728
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-0f, f8-1f, f8-2f)
+NegatedAtom at_right_l(rightl0, f8-0f, f8-1f, f8-2f)
 end_variable
 begin_variable
 var729
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-1f, f8-2f, f8-3f)
+NegatedAtom at_right_l(rightl0, f8-1f, f8-2f, f8-3f)
 end_variable
 begin_variable
 var730
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-1f, f8-1f, f9-1f)
+NegatedAtom at_right_l(rightl0, f7-1f, f8-1f, f9-1f)
 end_variable
 begin_variable
 var731
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-2f, f8-2f, f9-2f)
+NegatedAtom at_right_l(rightl0, f7-2f, f8-2f, f9-2f)
 end_variable
 begin_variable
 var732
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f9-2f, f8-2f, f7-2f)
+NegatedAtom at_right_l(rightl0, f9-2f, f8-2f, f7-2f)
 end_variable
 begin_variable
 var733
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-3f, f8-2f, f8-1f)
+NegatedAtom at_right_l(rightl0, f8-3f, f8-2f, f8-1f)
 end_variable
 begin_variable
 var734
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-2f, f8-1f, f8-0f)
+NegatedAtom at_right_l(rightl0, f8-2f, f8-1f, f8-0f)
 end_variable
 begin_variable
 var735
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f9-1f, f8-1f, f7-1f)
+NegatedAtom at_right_l(rightl0, f9-1f, f8-1f, f7-1f)
 end_variable
 begin_variable
 var736
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f0-1f, f1-1f, f2-1f)
+NegatedAtom at_right_l(rightl1, f0-1f, f1-1f, f2-1f)
 end_variable
 begin_variable
 var737
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-0f, f1-1f, f1-2f)
+NegatedAtom at_right_l(rightl1, f1-0f, f1-1f, f1-2f)
 end_variable
 begin_variable
 var738
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-1f, f1-2f, f1-3f)
+NegatedAtom at_right_l(rightl1, f1-1f, f1-2f, f1-3f)
 end_variable
 begin_variable
 var739
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f0-2f, f1-2f, f2-2f)
+NegatedAtom at_right_l(rightl1, f0-2f, f1-2f, f2-2f)
 end_variable
 begin_variable
 var740
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-1f, f1-1f, f0-1f)
+NegatedAtom at_right_l(rightl1, f2-1f, f1-1f, f0-1f)
 end_variable
 begin_variable
 var741
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-2f, f1-1f, f1-0f)
+NegatedAtom at_right_l(rightl1, f1-2f, f1-1f, f1-0f)
 end_variable
 begin_variable
 var742
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-3f, f1-2f, f1-1f)
+NegatedAtom at_right_l(rightl1, f1-3f, f1-2f, f1-1f)
 end_variable
 begin_variable
 var743
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-0f, f2-1f, f2-2f)
+NegatedAtom at_right_l(rightl1, f2-0f, f2-1f, f2-2f)
 end_variable
 begin_variable
 var744
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-1f, f2-2f, f2-3f)
+NegatedAtom at_right_l(rightl1, f2-1f, f2-2f, f2-3f)
 end_variable
 begin_variable
 var745
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-2f, f2-1f, f2-0f)
+NegatedAtom at_right_l(rightl1, f2-2f, f2-1f, f2-0f)
 end_variable
 begin_variable
 var746
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-3f, f2-2f, f2-1f)
+NegatedAtom at_right_l(rightl1, f2-3f, f2-2f, f2-1f)
 end_variable
 begin_variable
 var747
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-2f, f1-2f, f0-2f)
+NegatedAtom at_right_l(rightl1, f2-2f, f1-2f, f0-2f)
 end_variable
 begin_variable
 var748
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-0f, f3-1f, f3-2f)
+NegatedAtom at_right_l(rightl1, f3-0f, f3-1f, f3-2f)
 end_variable
 begin_variable
 var749
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-1f, f3-2f, f3-3f)
+NegatedAtom at_right_l(rightl1, f3-1f, f3-2f, f3-3f)
 end_variable
 begin_variable
 var750
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-2f, f3-1f, f3-0f)
+NegatedAtom at_right_l(rightl1, f3-2f, f3-1f, f3-0f)
 end_variable
 begin_variable
 var751
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-3f, f3-2f, f3-1f)
+NegatedAtom at_right_l(rightl1, f3-3f, f3-2f, f3-1f)
 end_variable
 begin_variable
 var752
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-0f, f4-1f, f4-2f)
+NegatedAtom at_right_l(rightl1, f4-0f, f4-1f, f4-2f)
 end_variable
 begin_variable
 var753
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-1f, f4-2f, f4-3f)
+NegatedAtom at_right_l(rightl1, f4-1f, f4-2f, f4-3f)
 end_variable
 begin_variable
 var754
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-2f, f4-1f, f4-0f)
+NegatedAtom at_right_l(rightl1, f4-2f, f4-1f, f4-0f)
 end_variable
 begin_variable
 var755
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-3f, f4-2f, f4-1f)
+NegatedAtom at_right_l(rightl1, f4-3f, f4-2f, f4-1f)
 end_variable
 begin_variable
 var756
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-0f, f5-1f, f5-2f)
+NegatedAtom at_right_l(rightl1, f5-0f, f5-1f, f5-2f)
 end_variable
 begin_variable
 var757
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-1f, f5-2f, f5-3f)
+NegatedAtom at_right_l(rightl1, f5-1f, f5-2f, f5-3f)
 end_variable
 begin_variable
 var758
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-2f, f5-1f, f5-0f)
+NegatedAtom at_right_l(rightl1, f5-2f, f5-1f, f5-0f)
 end_variable
 begin_variable
 var759
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-3f, f5-2f, f5-1f)
+NegatedAtom at_right_l(rightl1, f5-3f, f5-2f, f5-1f)
 end_variable
 begin_variable
 var760
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-0f, f6-1f, f6-2f)
+NegatedAtom at_right_l(rightl1, f6-0f, f6-1f, f6-2f)
 end_variable
 begin_variable
 var761
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-1f, f6-2f, f6-3f)
+NegatedAtom at_right_l(rightl1, f6-1f, f6-2f, f6-3f)
 end_variable
 begin_variable
 var762
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-3f, f6-2f, f6-1f)
+NegatedAtom at_right_l(rightl1, f6-3f, f6-2f, f6-1f)
 end_variable
 begin_variable
 var763
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-2f, f6-1f, f6-0f)
+NegatedAtom at_right_l(rightl1, f6-2f, f6-1f, f6-0f)
 end_variable
 begin_variable
 var764
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-0f, f7-1f, f7-2f)
+NegatedAtom at_right_l(rightl1, f7-0f, f7-1f, f7-2f)
 end_variable
 begin_variable
 var765
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-1f, f7-2f, f7-3f)
+NegatedAtom at_right_l(rightl1, f7-1f, f7-2f, f7-3f)
 end_variable
 begin_variable
 var766
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-3f, f7-2f, f7-1f)
+NegatedAtom at_right_l(rightl1, f7-3f, f7-2f, f7-1f)
 end_variable
 begin_variable
 var767
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-2f, f7-1f, f7-0f)
+NegatedAtom at_right_l(rightl1, f7-2f, f7-1f, f7-0f)
 end_variable
 begin_variable
 var768
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-0f, f8-1f, f8-2f)
+NegatedAtom at_right_l(rightl1, f8-0f, f8-1f, f8-2f)
 end_variable
 begin_variable
 var769
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-1f, f8-2f, f8-3f)
+NegatedAtom at_right_l(rightl1, f8-1f, f8-2f, f8-3f)
 end_variable
 begin_variable
 var770
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-1f, f8-1f, f9-1f)
+NegatedAtom at_right_l(rightl1, f7-1f, f8-1f, f9-1f)
 end_variable
 begin_variable
 var771
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-2f, f8-2f, f9-2f)
+NegatedAtom at_right_l(rightl1, f7-2f, f8-2f, f9-2f)
 end_variable
 begin_variable
 var772
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f9-2f, f8-2f, f7-2f)
+NegatedAtom at_right_l(rightl1, f9-2f, f8-2f, f7-2f)
 end_variable
 begin_variable
 var773
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f9-1f, f8-1f, f7-1f)
+NegatedAtom at_right_l(rightl1, f9-1f, f8-1f, f7-1f)
 end_variable
 begin_variable
 var774
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-2f, f8-1f, f8-0f)
+NegatedAtom at_right_l(rightl1, f8-2f, f8-1f, f8-0f)
 end_variable
 begin_variable
 var775
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-3f, f8-2f, f8-1f)
+NegatedAtom at_right_l(rightl1, f8-3f, f8-2f, f8-1f)
 end_variable
 begin_variable
 var776
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f0-1f, f1-1f, f2-1f)
+NegatedAtom at_right_l(rightl2, f0-1f, f1-1f, f2-1f)
 end_variable
 begin_variable
 var777
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-0f, f1-1f, f1-2f)
+NegatedAtom at_right_l(rightl2, f1-0f, f1-1f, f1-2f)
 end_variable
 begin_variable
 var778
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-1f, f1-2f, f1-3f)
+NegatedAtom at_right_l(rightl2, f1-1f, f1-2f, f1-3f)
 end_variable
 begin_variable
 var779
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f0-2f, f1-2f, f2-2f)
+NegatedAtom at_right_l(rightl2, f0-2f, f1-2f, f2-2f)
 end_variable
 begin_variable
 var780
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-1f, f1-1f, f0-1f)
+NegatedAtom at_right_l(rightl2, f2-1f, f1-1f, f0-1f)
 end_variable
 begin_variable
 var781
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-2f, f1-1f, f1-0f)
+NegatedAtom at_right_l(rightl2, f1-2f, f1-1f, f1-0f)
 end_variable
 begin_variable
 var782
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-3f, f1-2f, f1-1f)
+NegatedAtom at_right_l(rightl2, f1-3f, f1-2f, f1-1f)
 end_variable
 begin_variable
 var783
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-0f, f2-1f, f2-2f)
+NegatedAtom at_right_l(rightl2, f2-0f, f2-1f, f2-2f)
 end_variable
 begin_variable
 var784
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-1f, f2-2f, f2-3f)
+NegatedAtom at_right_l(rightl2, f2-1f, f2-2f, f2-3f)
 end_variable
 begin_variable
 var785
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-2f, f2-1f, f2-0f)
+NegatedAtom at_right_l(rightl2, f2-2f, f2-1f, f2-0f)
 end_variable
 begin_variable
 var786
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-3f, f2-2f, f2-1f)
+NegatedAtom at_right_l(rightl2, f2-3f, f2-2f, f2-1f)
 end_variable
 begin_variable
 var787
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-2f, f1-2f, f0-2f)
+NegatedAtom at_right_l(rightl2, f2-2f, f1-2f, f0-2f)
 end_variable
 begin_variable
 var788
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-0f, f3-1f, f3-2f)
+NegatedAtom at_right_l(rightl2, f3-0f, f3-1f, f3-2f)
 end_variable
 begin_variable
 var789
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-1f, f3-2f, f3-3f)
+NegatedAtom at_right_l(rightl2, f3-1f, f3-2f, f3-3f)
 end_variable
 begin_variable
 var790
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-2f, f3-1f, f3-0f)
+NegatedAtom at_right_l(rightl2, f3-2f, f3-1f, f3-0f)
 end_variable
 begin_variable
 var791
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-3f, f3-2f, f3-1f)
+NegatedAtom at_right_l(rightl2, f3-3f, f3-2f, f3-1f)
 end_variable
 begin_variable
 var792
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-0f, f4-1f, f4-2f)
+NegatedAtom at_right_l(rightl2, f4-0f, f4-1f, f4-2f)
 end_variable
 begin_variable
 var793
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-1f, f4-2f, f4-3f)
+NegatedAtom at_right_l(rightl2, f4-1f, f4-2f, f4-3f)
 end_variable
 begin_variable
 var794
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-2f, f4-1f, f4-0f)
+NegatedAtom at_right_l(rightl2, f4-2f, f4-1f, f4-0f)
 end_variable
 begin_variable
 var795
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-3f, f4-2f, f4-1f)
+NegatedAtom at_right_l(rightl2, f4-3f, f4-2f, f4-1f)
 end_variable
 begin_variable
 var796
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-0f, f5-1f, f5-2f)
+NegatedAtom at_right_l(rightl2, f5-0f, f5-1f, f5-2f)
 end_variable
 begin_variable
 var797
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-1f, f5-2f, f5-3f)
+NegatedAtom at_right_l(rightl2, f5-1f, f5-2f, f5-3f)
 end_variable
 begin_variable
 var798
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-2f, f5-1f, f5-0f)
+NegatedAtom at_right_l(rightl2, f5-2f, f5-1f, f5-0f)
 end_variable
 begin_variable
 var799
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-3f, f5-2f, f5-1f)
+NegatedAtom at_right_l(rightl2, f5-3f, f5-2f, f5-1f)
 end_variable
 begin_variable
 var800
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-0f, f6-1f, f6-2f)
+NegatedAtom at_right_l(rightl2, f6-0f, f6-1f, f6-2f)
 end_variable
 begin_variable
 var801
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-1f, f6-2f, f6-3f)
+NegatedAtom at_right_l(rightl2, f6-1f, f6-2f, f6-3f)
 end_variable
 begin_variable
 var802
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-0f, f7-1f, f7-2f)
+NegatedAtom at_right_l(rightl2, f7-0f, f7-1f, f7-2f)
 end_variable
 begin_variable
 var803
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-1f, f7-2f, f7-3f)
+NegatedAtom at_right_l(rightl2, f7-1f, f7-2f, f7-3f)
 end_variable
 begin_variable
 var804
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-3f, f6-2f, f6-1f)
+NegatedAtom at_right_l(rightl2, f6-3f, f6-2f, f6-1f)
 end_variable
 begin_variable
 var805
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-2f, f6-1f, f6-0f)
+NegatedAtom at_right_l(rightl2, f6-2f, f6-1f, f6-0f)
 end_variable
 begin_variable
 var806
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-3f, f7-2f, f7-1f)
+NegatedAtom at_right_l(rightl2, f7-3f, f7-2f, f7-1f)
 end_variable
 begin_variable
 var807
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-2f, f7-1f, f7-0f)
+NegatedAtom at_right_l(rightl2, f7-2f, f7-1f, f7-0f)
 end_variable
 begin_variable
 var808
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-1f, f8-1f, f9-1f)
+NegatedAtom at_right_l(rightl2, f7-1f, f8-1f, f9-1f)
 end_variable
 begin_variable
 var809
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-0f, f8-1f, f8-2f)
+NegatedAtom at_right_l(rightl2, f8-0f, f8-1f, f8-2f)
 end_variable
 begin_variable
 var810
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-1f, f8-2f, f8-3f)
+NegatedAtom at_right_l(rightl2, f8-1f, f8-2f, f8-3f)
 end_variable
 begin_variable
 var811
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-2f, f8-2f, f9-2f)
+NegatedAtom at_right_l(rightl2, f7-2f, f8-2f, f9-2f)
 end_variable
 begin_variable
 var812
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-3f, f8-2f, f8-1f)
+NegatedAtom at_right_l(rightl2, f8-3f, f8-2f, f8-1f)
 end_variable
 begin_variable
 var813
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-2f, f8-1f, f8-0f)
+NegatedAtom at_right_l(rightl2, f8-2f, f8-1f, f8-0f)
 end_variable
 begin_variable
 var814
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f9-1f, f8-1f, f7-1f)
+NegatedAtom at_right_l(rightl2, f9-1f, f8-1f, f7-1f)
 end_variable
 begin_variable
 var815
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f9-2f, f8-2f, f7-2f)
+NegatedAtom at_right_l(rightl2, f9-2f, f8-2f, f7-2f)
 end_variable
 begin_variable
 var816
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-1f, f2-1f, f3-1f)
+NegatedAtom at_right_l(rightl0, f1-1f, f2-1f, f3-1f)
 end_variable
 begin_variable
 var817
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-2f, f2-2f, f3-2f)
+NegatedAtom at_right_l(rightl0, f1-2f, f2-2f, f3-2f)
 end_variable
 begin_variable
 var818
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-2f, f2-2f, f1-2f)
+NegatedAtom at_right_l(rightl0, f3-2f, f2-2f, f1-2f)
 end_variable
 begin_variable
 var819
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-1f, f2-1f, f1-1f)
+NegatedAtom at_right_l(rightl0, f3-1f, f2-1f, f1-1f)
 end_variable
 begin_variable
 var820
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-1f, f7-1f, f8-1f)
+NegatedAtom at_right_l(rightl0, f6-1f, f7-1f, f8-1f)
 end_variable
 begin_variable
 var821
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-2f, f7-2f, f8-2f)
+NegatedAtom at_right_l(rightl0, f6-2f, f7-2f, f8-2f)
 end_variable
 begin_variable
 var822
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-2f, f7-2f, f6-2f)
+NegatedAtom at_right_l(rightl0, f8-2f, f7-2f, f6-2f)
 end_variable
 begin_variable
 var823
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-1f, f7-1f, f6-1f)
+NegatedAtom at_right_l(rightl0, f8-1f, f7-1f, f6-1f)
 end_variable
 begin_variable
 var824
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-1f, f2-1f, f3-1f)
+NegatedAtom at_right_l(rightl1, f1-1f, f2-1f, f3-1f)
 end_variable
 begin_variable
 var825
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-2f, f2-2f, f3-2f)
+NegatedAtom at_right_l(rightl1, f1-2f, f2-2f, f3-2f)
 end_variable
 begin_variable
 var826
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-1f, f2-1f, f1-1f)
+NegatedAtom at_right_l(rightl1, f3-1f, f2-1f, f1-1f)
 end_variable
 begin_variable
 var827
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-2f, f2-2f, f1-2f)
+NegatedAtom at_right_l(rightl1, f3-2f, f2-2f, f1-2f)
 end_variable
 begin_variable
 var828
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-1f, f7-1f, f8-1f)
+NegatedAtom at_right_l(rightl1, f6-1f, f7-1f, f8-1f)
 end_variable
 begin_variable
 var829
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-2f, f7-2f, f8-2f)
+NegatedAtom at_right_l(rightl1, f6-2f, f7-2f, f8-2f)
 end_variable
 begin_variable
 var830
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-2f, f7-2f, f6-2f)
+NegatedAtom at_right_l(rightl1, f8-2f, f7-2f, f6-2f)
 end_variable
 begin_variable
 var831
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-1f, f7-1f, f6-1f)
+NegatedAtom at_right_l(rightl1, f8-1f, f7-1f, f6-1f)
 end_variable
 begin_variable
 var832
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-1f, f2-1f, f3-1f)
+NegatedAtom at_right_l(rightl2, f1-1f, f2-1f, f3-1f)
 end_variable
 begin_variable
 var833
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-2f, f2-2f, f3-2f)
+NegatedAtom at_right_l(rightl2, f1-2f, f2-2f, f3-2f)
 end_variable
 begin_variable
 var834
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-1f, f2-1f, f1-1f)
+NegatedAtom at_right_l(rightl2, f3-1f, f2-1f, f1-1f)
 end_variable
 begin_variable
 var835
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-2f, f2-2f, f1-2f)
+NegatedAtom at_right_l(rightl2, f3-2f, f2-2f, f1-2f)
 end_variable
 begin_variable
 var836
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-1f, f7-1f, f8-1f)
+NegatedAtom at_right_l(rightl2, f6-1f, f7-1f, f8-1f)
 end_variable
 begin_variable
 var837
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-2f, f7-2f, f8-2f)
+NegatedAtom at_right_l(rightl2, f6-2f, f7-2f, f8-2f)
 end_variable
 begin_variable
 var838
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-1f, f7-1f, f6-1f)
+NegatedAtom at_right_l(rightl2, f8-1f, f7-1f, f6-1f)
 end_variable
 begin_variable
 var839
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-2f, f7-2f, f6-2f)
+NegatedAtom at_right_l(rightl2, f8-2f, f7-2f, f6-2f)
 end_variable
 begin_variable
 var840
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-1f, f3-1f, f4-1f)
+NegatedAtom at_right_l(rightl0, f2-1f, f3-1f, f4-1f)
 end_variable
 begin_variable
 var841
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-2f, f3-2f, f4-2f)
+NegatedAtom at_right_l(rightl0, f2-2f, f3-2f, f4-2f)
 end_variable
 begin_variable
 var842
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-2f, f3-2f, f2-2f)
+NegatedAtom at_right_l(rightl0, f4-2f, f3-2f, f2-2f)
 end_variable
 begin_variable
 var843
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-1f, f3-1f, f2-1f)
+NegatedAtom at_right_l(rightl0, f4-1f, f3-1f, f2-1f)
 end_variable
 begin_variable
 var844
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-1f, f6-1f, f7-1f)
+NegatedAtom at_right_l(rightl0, f5-1f, f6-1f, f7-1f)
 end_variable
 begin_variable
 var845
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-2f, f6-2f, f7-2f)
+NegatedAtom at_right_l(rightl0, f5-2f, f6-2f, f7-2f)
 end_variable
 begin_variable
 var846
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-2f, f6-2f, f5-2f)
+NegatedAtom at_right_l(rightl0, f7-2f, f6-2f, f5-2f)
 end_variable
 begin_variable
 var847
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-1f, f6-1f, f5-1f)
+NegatedAtom at_right_l(rightl0, f7-1f, f6-1f, f5-1f)
 end_variable
 begin_variable
 var848
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-1f, f3-1f, f4-1f)
+NegatedAtom at_right_l(rightl1, f2-1f, f3-1f, f4-1f)
 end_variable
 begin_variable
 var849
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-2f, f3-2f, f4-2f)
+NegatedAtom at_right_l(rightl1, f2-2f, f3-2f, f4-2f)
 end_variable
 begin_variable
 var850
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-1f, f3-1f, f2-1f)
+NegatedAtom at_right_l(rightl1, f4-1f, f3-1f, f2-1f)
 end_variable
 begin_variable
 var851
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-2f, f3-2f, f2-2f)
+NegatedAtom at_right_l(rightl1, f4-2f, f3-2f, f2-2f)
 end_variable
 begin_variable
 var852
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-1f, f6-1f, f7-1f)
+NegatedAtom at_right_l(rightl1, f5-1f, f6-1f, f7-1f)
 end_variable
 begin_variable
 var853
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-2f, f6-2f, f7-2f)
+NegatedAtom at_right_l(rightl1, f5-2f, f6-2f, f7-2f)
 end_variable
 begin_variable
 var854
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-2f, f6-2f, f5-2f)
+NegatedAtom at_right_l(rightl1, f7-2f, f6-2f, f5-2f)
 end_variable
 begin_variable
 var855
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-1f, f6-1f, f5-1f)
+NegatedAtom at_right_l(rightl1, f7-1f, f6-1f, f5-1f)
 end_variable
 begin_variable
 var856
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-1f, f3-1f, f4-1f)
+NegatedAtom at_right_l(rightl2, f2-1f, f3-1f, f4-1f)
 end_variable
 begin_variable
 var857
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-2f, f3-2f, f4-2f)
+NegatedAtom at_right_l(rightl2, f2-2f, f3-2f, f4-2f)
 end_variable
 begin_variable
 var858
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-1f, f3-1f, f2-1f)
+NegatedAtom at_right_l(rightl2, f4-1f, f3-1f, f2-1f)
 end_variable
 begin_variable
 var859
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-2f, f3-2f, f2-2f)
+NegatedAtom at_right_l(rightl2, f4-2f, f3-2f, f2-2f)
 end_variable
 begin_variable
 var860
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-1f, f6-1f, f7-1f)
+NegatedAtom at_right_l(rightl2, f5-1f, f6-1f, f7-1f)
 end_variable
 begin_variable
 var861
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-2f, f6-2f, f7-2f)
+NegatedAtom at_right_l(rightl2, f5-2f, f6-2f, f7-2f)
 end_variable
 begin_variable
 var862
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-1f, f6-1f, f5-1f)
+NegatedAtom at_right_l(rightl2, f7-1f, f6-1f, f5-1f)
 end_variable
 begin_variable
 var863
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-2f, f6-2f, f5-2f)
+NegatedAtom at_right_l(rightl2, f7-2f, f6-2f, f5-2f)
 end_variable
 begin_variable
 var864
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-1f, f4-1f, f5-1f)
+NegatedAtom at_right_l(rightl0, f3-1f, f4-1f, f5-1f)
 end_variable
 begin_variable
 var865
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-1f, f5-1f, f6-1f)
+NegatedAtom at_right_l(rightl0, f4-1f, f5-1f, f6-1f)
 end_variable
 begin_variable
 var866
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-2f, f4-2f, f5-2f)
+NegatedAtom at_right_l(rightl0, f3-2f, f4-2f, f5-2f)
 end_variable
 begin_variable
 var867
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-2f, f5-2f, f6-2f)
+NegatedAtom at_right_l(rightl0, f4-2f, f5-2f, f6-2f)
 end_variable
 begin_variable
 var868
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-2f, f4-2f, f3-2f)
+NegatedAtom at_right_l(rightl0, f5-2f, f4-2f, f3-2f)
 end_variable
 begin_variable
 var869
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-2f, f5-2f, f4-2f)
+NegatedAtom at_right_l(rightl0, f6-2f, f5-2f, f4-2f)
 end_variable
 begin_variable
 var870
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-1f, f4-1f, f3-1f)
+NegatedAtom at_right_l(rightl0, f5-1f, f4-1f, f3-1f)
 end_variable
 begin_variable
 var871
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-1f, f5-1f, f4-1f)
+NegatedAtom at_right_l(rightl0, f6-1f, f5-1f, f4-1f)
 end_variable
 begin_variable
 var872
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-1f, f4-1f, f5-1f)
+NegatedAtom at_right_l(rightl1, f3-1f, f4-1f, f5-1f)
 end_variable
 begin_variable
 var873
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-1f, f5-1f, f6-1f)
+NegatedAtom at_right_l(rightl1, f4-1f, f5-1f, f6-1f)
 end_variable
 begin_variable
 var874
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-2f, f4-2f, f5-2f)
+NegatedAtom at_right_l(rightl1, f3-2f, f4-2f, f5-2f)
 end_variable
 begin_variable
 var875
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-2f, f5-2f, f6-2f)
+NegatedAtom at_right_l(rightl1, f4-2f, f5-2f, f6-2f)
 end_variable
 begin_variable
 var876
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-1f, f4-1f, f3-1f)
+NegatedAtom at_right_l(rightl1, f5-1f, f4-1f, f3-1f)
 end_variable
 begin_variable
 var877
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-1f, f5-1f, f4-1f)
+NegatedAtom at_right_l(rightl1, f6-1f, f5-1f, f4-1f)
 end_variable
 begin_variable
 var878
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-2f, f4-2f, f3-2f)
+NegatedAtom at_right_l(rightl1, f5-2f, f4-2f, f3-2f)
 end_variable
 begin_variable
 var879
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-2f, f5-2f, f4-2f)
+NegatedAtom at_right_l(rightl1, f6-2f, f5-2f, f4-2f)
 end_variable
 begin_variable
 var880
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-1f, f4-1f, f5-1f)
+NegatedAtom at_right_l(rightl2, f3-1f, f4-1f, f5-1f)
 end_variable
 begin_variable
 var881
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-1f, f5-1f, f6-1f)
+NegatedAtom at_right_l(rightl2, f4-1f, f5-1f, f6-1f)
 end_variable
 begin_variable
 var882
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-2f, f4-2f, f5-2f)
+NegatedAtom at_right_l(rightl2, f3-2f, f4-2f, f5-2f)
 end_variable
 begin_variable
 var883
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-2f, f5-2f, f6-2f)
+NegatedAtom at_right_l(rightl2, f4-2f, f5-2f, f6-2f)
 end_variable
 begin_variable
 var884
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-1f, f4-1f, f3-1f)
+NegatedAtom at_right_l(rightl2, f5-1f, f4-1f, f3-1f)
 end_variable
 begin_variable
 var885
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-1f, f5-1f, f4-1f)
+NegatedAtom at_right_l(rightl2, f6-1f, f5-1f, f4-1f)
 end_variable
 begin_variable
 var886
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-2f, f4-2f, f3-2f)
+NegatedAtom at_right_l(rightl2, f5-2f, f4-2f, f3-2f)
 end_variable
 begin_variable
 var887
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-2f, f5-2f, f4-2f)
+NegatedAtom at_right_l(rightl2, f6-2f, f5-2f, f4-2f)
 end_variable
 begin_variable
 var888
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f0-1f, f0-0f, f0-1f)
+NegatedAtom at_right_l(rightl0, f0-1f, f0-0f, f0-1f)
 end_variable
 begin_variable
 var889
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f0-2f, f0-3f, f0-2f)
+NegatedAtom at_right_l(rightl0, f0-2f, f0-3f, f0-2f)
 end_variable
 begin_variable
 var890
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-3f, f0-3f, f1-3f)
+NegatedAtom at_right_l(rightl0, f1-3f, f0-3f, f1-3f)
 end_variable
 begin_variable
 var891
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-0f, f0-0f, f1-0f)
+NegatedAtom at_right_l(rightl0, f1-0f, f0-0f, f1-0f)
 end_variable
 begin_variable
 var892
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f0-1f, f0-0f, f0-1f)
+NegatedAtom at_right_l(rightl1, f0-1f, f0-0f, f0-1f)
 end_variable
 begin_variable
 var893
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-0f, f0-0f, f1-0f)
+NegatedAtom at_right_l(rightl1, f1-0f, f0-0f, f1-0f)
 end_variable
 begin_variable
 var894
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f0-2f, f0-3f, f0-2f)
+NegatedAtom at_right_l(rightl1, f0-2f, f0-3f, f0-2f)
 end_variable
 begin_variable
 var895
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-3f, f0-3f, f1-3f)
+NegatedAtom at_right_l(rightl1, f1-3f, f0-3f, f1-3f)
 end_variable
 begin_variable
 var896
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-3f, f9-3f, f8-3f)
+NegatedAtom at_right_l(rightl1, f8-3f, f9-3f, f8-3f)
 end_variable
 begin_variable
 var897
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-0f, f9-0f, f8-0f)
+NegatedAtom at_right_l(rightl1, f8-0f, f9-0f, f8-0f)
 end_variable
 begin_variable
 var898
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-0f, f9-0f, f8-0f)
+NegatedAtom at_right_l(rightl0, f8-0f, f9-0f, f8-0f)
 end_variable
 begin_variable
 var899
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f9-1f, f9-0f, f9-1f)
+NegatedAtom at_right_l(rightl0, f9-1f, f9-0f, f9-1f)
 end_variable
 begin_variable
 var900
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-3f, f9-3f, f8-3f)
+NegatedAtom at_right_l(rightl0, f8-3f, f9-3f, f8-3f)
 end_variable
 begin_variable
 var901
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f9-2f, f9-3f, f9-2f)
+NegatedAtom at_right_l(rightl0, f9-2f, f9-3f, f9-2f)
 end_variable
 begin_variable
 var902
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f9-1f, f9-0f, f9-1f)
+NegatedAtom at_right_l(rightl1, f9-1f, f9-0f, f9-1f)
 end_variable
 begin_variable
 var903
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f0-1f, f0-0f, f0-1f)
+NegatedAtom at_right_l(rightl2, f0-1f, f0-0f, f0-1f)
 end_variable
 begin_variable
 var904
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-0f, f0-0f, f1-0f)
+NegatedAtom at_right_l(rightl2, f1-0f, f0-0f, f1-0f)
 end_variable
 begin_variable
 var905
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f0-2f, f0-3f, f0-2f)
+NegatedAtom at_right_l(rightl2, f0-2f, f0-3f, f0-2f)
 end_variable
 begin_variable
 var906
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-3f, f0-3f, f1-3f)
+NegatedAtom at_right_l(rightl2, f1-3f, f0-3f, f1-3f)
 end_variable
 begin_variable
 var907
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-0f, f9-0f, f8-0f)
+NegatedAtom at_right_l(rightl2, f8-0f, f9-0f, f8-0f)
 end_variable
 begin_variable
 var908
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f9-1f, f9-0f, f9-1f)
+NegatedAtom at_right_l(rightl2, f9-1f, f9-0f, f9-1f)
 end_variable
 begin_variable
 var909
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f9-2f, f9-3f, f9-2f)
+NegatedAtom at_right_l(rightl1, f9-2f, f9-3f, f9-2f)
 end_variable
 begin_variable
 var910
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-3f, f9-3f, f8-3f)
+NegatedAtom at_right_l(rightl2, f8-3f, f9-3f, f8-3f)
 end_variable
 begin_variable
 var911
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f9-2f, f9-3f, f9-2f)
+NegatedAtom at_right_l(rightl2, f9-2f, f9-3f, f9-2f)
 end_variable
 begin_variable
 var912
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f0-3f, f0-2f, f1-2f)
+NegatedAtom at_right_l(rightl0, f0-3f, f0-2f, f1-2f)
 end_variable
 begin_variable
 var913
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f0-3f, f1-3f, f1-2f)
+NegatedAtom at_right_l(rightl0, f0-3f, f1-3f, f1-2f)
 end_variable
 begin_variable
 var914
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-2f, f0-2f, f0-3f)
+NegatedAtom at_right_l(rightl0, f1-2f, f0-2f, f0-3f)
 end_variable
 begin_variable
 var915
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-2f, f1-3f, f0-3f)
+NegatedAtom at_right_l(rightl0, f1-2f, f1-3f, f0-3f)
 end_variable
 begin_variable
 var916
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f0-0f, f0-1f, f1-1f)
+NegatedAtom at_right_l(rightl0, f0-0f, f0-1f, f1-1f)
 end_variable
 begin_variable
 var917
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f0-0f, f1-0f, f1-1f)
+NegatedAtom at_right_l(rightl0, f0-0f, f1-0f, f1-1f)
 end_variable
 begin_variable
 var918
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-1f, f0-1f, f0-0f)
+NegatedAtom at_right_l(rightl0, f1-1f, f0-1f, f0-0f)
 end_variable
 begin_variable
 var919
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-1f, f1-0f, f0-0f)
+NegatedAtom at_right_l(rightl0, f1-1f, f1-0f, f0-0f)
 end_variable
 begin_variable
 var920
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f0-0f, f0-1f, f1-1f)
+NegatedAtom at_right_l(rightl1, f0-0f, f0-1f, f1-1f)
 end_variable
 begin_variable
 var921
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f0-0f, f1-0f, f1-1f)
+NegatedAtom at_right_l(rightl1, f0-0f, f1-0f, f1-1f)
 end_variable
 begin_variable
 var922
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-1f, f0-1f, f0-0f)
+NegatedAtom at_right_l(rightl1, f1-1f, f0-1f, f0-0f)
 end_variable
 begin_variable
 var923
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-1f, f1-0f, f0-0f)
+NegatedAtom at_right_l(rightl1, f1-1f, f1-0f, f0-0f)
 end_variable
 begin_variable
 var924
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f0-3f, f0-2f, f1-2f)
+NegatedAtom at_right_l(rightl1, f0-3f, f0-2f, f1-2f)
 end_variable
 begin_variable
 var925
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f0-3f, f1-3f, f1-2f)
+NegatedAtom at_right_l(rightl1, f0-3f, f1-3f, f1-2f)
 end_variable
 begin_variable
 var926
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-2f, f0-2f, f0-3f)
+NegatedAtom at_right_l(rightl1, f1-2f, f0-2f, f0-3f)
 end_variable
 begin_variable
 var927
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-2f, f1-3f, f0-3f)
+NegatedAtom at_right_l(rightl1, f1-2f, f1-3f, f0-3f)
 end_variable
 begin_variable
 var928
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-1f, f8-0f, f9-0f)
+NegatedAtom at_right_l(rightl0, f8-1f, f8-0f, f9-0f)
 end_variable
 begin_variable
 var929
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-1f, f9-1f, f9-0f)
+NegatedAtom at_right_l(rightl0, f8-1f, f9-1f, f9-0f)
 end_variable
 begin_variable
 var930
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f9-0f, f8-0f, f8-1f)
+NegatedAtom at_right_l(rightl0, f9-0f, f8-0f, f8-1f)
 end_variable
 begin_variable
 var931
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f9-0f, f9-1f, f8-1f)
+NegatedAtom at_right_l(rightl0, f9-0f, f9-1f, f8-1f)
 end_variable
 begin_variable
 var932
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-2f, f8-3f, f9-3f)
+NegatedAtom at_right_l(rightl0, f8-2f, f8-3f, f9-3f)
 end_variable
 begin_variable
 var933
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-2f, f9-2f, f9-3f)
+NegatedAtom at_right_l(rightl0, f8-2f, f9-2f, f9-3f)
 end_variable
 begin_variable
 var934
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f9-3f, f8-3f, f8-2f)
+NegatedAtom at_right_l(rightl0, f9-3f, f8-3f, f8-2f)
 end_variable
 begin_variable
 var935
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f9-3f, f9-2f, f8-2f)
+NegatedAtom at_right_l(rightl0, f9-3f, f9-2f, f8-2f)
 end_variable
 begin_variable
 var936
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-1f, f8-0f, f9-0f)
+NegatedAtom at_right_l(rightl1, f8-1f, f8-0f, f9-0f)
 end_variable
 begin_variable
 var937
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-1f, f9-1f, f9-0f)
+NegatedAtom at_right_l(rightl1, f8-1f, f9-1f, f9-0f)
 end_variable
 begin_variable
 var938
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f9-0f, f8-0f, f8-1f)
+NegatedAtom at_right_l(rightl1, f9-0f, f8-0f, f8-1f)
 end_variable
 begin_variable
 var939
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f9-0f, f9-1f, f8-1f)
+NegatedAtom at_right_l(rightl1, f9-0f, f9-1f, f8-1f)
 end_variable
 begin_variable
 var940
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f0-0f, f0-1f, f1-1f)
+NegatedAtom at_right_l(rightl2, f0-0f, f0-1f, f1-1f)
 end_variable
 begin_variable
 var941
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f0-0f, f1-0f, f1-1f)
+NegatedAtom at_right_l(rightl2, f0-0f, f1-0f, f1-1f)
 end_variable
 begin_variable
 var942
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-1f, f0-1f, f0-0f)
+NegatedAtom at_right_l(rightl2, f1-1f, f0-1f, f0-0f)
 end_variable
 begin_variable
 var943
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-1f, f1-0f, f0-0f)
+NegatedAtom at_right_l(rightl2, f1-1f, f1-0f, f0-0f)
 end_variable
 begin_variable
 var944
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f0-3f, f0-2f, f1-2f)
+NegatedAtom at_right_l(rightl2, f0-3f, f0-2f, f1-2f)
 end_variable
 begin_variable
 var945
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f0-3f, f1-3f, f1-2f)
+NegatedAtom at_right_l(rightl2, f0-3f, f1-3f, f1-2f)
 end_variable
 begin_variable
 var946
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-2f, f0-2f, f0-3f)
+NegatedAtom at_right_l(rightl2, f1-2f, f0-2f, f0-3f)
 end_variable
 begin_variable
 var947
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-2f, f1-3f, f0-3f)
+NegatedAtom at_right_l(rightl2, f1-2f, f1-3f, f0-3f)
 end_variable
 begin_variable
 var948
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-1f, f8-0f, f9-0f)
+NegatedAtom at_right_l(rightl2, f8-1f, f8-0f, f9-0f)
 end_variable
 begin_variable
 var949
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-1f, f9-1f, f9-0f)
+NegatedAtom at_right_l(rightl2, f8-1f, f9-1f, f9-0f)
 end_variable
 begin_variable
 var950
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f9-0f, f8-0f, f8-1f)
+NegatedAtom at_right_l(rightl2, f9-0f, f8-0f, f8-1f)
 end_variable
 begin_variable
 var951
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f9-0f, f9-1f, f8-1f)
+NegatedAtom at_right_l(rightl2, f9-0f, f9-1f, f8-1f)
 end_variable
 begin_variable
 var952
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-2f, f8-3f, f9-3f)
+NegatedAtom at_right_l(rightl1, f8-2f, f8-3f, f9-3f)
 end_variable
 begin_variable
 var953
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-2f, f9-2f, f9-3f)
+NegatedAtom at_right_l(rightl1, f8-2f, f9-2f, f9-3f)
 end_variable
 begin_variable
 var954
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f9-3f, f8-3f, f8-2f)
+NegatedAtom at_right_l(rightl1, f9-3f, f8-3f, f8-2f)
 end_variable
 begin_variable
 var955
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f9-3f, f9-2f, f8-2f)
+NegatedAtom at_right_l(rightl1, f9-3f, f9-2f, f8-2f)
 end_variable
 begin_variable
 var956
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-2f, f8-3f, f9-3f)
+NegatedAtom at_right_l(rightl2, f8-2f, f8-3f, f9-3f)
 end_variable
 begin_variable
 var957
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-2f, f9-2f, f9-3f)
+NegatedAtom at_right_l(rightl2, f8-2f, f9-2f, f9-3f)
 end_variable
 begin_variable
 var958
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f9-3f, f8-3f, f8-2f)
+NegatedAtom at_right_l(rightl2, f9-3f, f8-3f, f8-2f)
 end_variable
 begin_variable
 var959
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f9-3f, f9-2f, f8-2f)
+NegatedAtom at_right_l(rightl2, f9-3f, f9-2f, f8-2f)
 end_variable
 begin_variable
 var960
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f0-2f, f0-1f, f0-2f)
+NegatedAtom at_right_l(rightl0, f0-2f, f0-1f, f0-2f)
 end_variable
 begin_variable
 var961
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f0-1f, f0-2f, f0-1f)
+NegatedAtom at_right_l(rightl0, f0-1f, f0-2f, f0-1f)
 end_variable
 begin_variable
 var962
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-3f, f2-3f, f1-3f)
+NegatedAtom at_right_l(rightl0, f1-3f, f2-3f, f1-3f)
 end_variable
 begin_variable
 var963
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-0f, f2-0f, f1-0f)
+NegatedAtom at_right_l(rightl0, f1-0f, f2-0f, f1-0f)
 end_variable
 begin_variable
 var964
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f0-1f, f0-2f, f0-1f)
+NegatedAtom at_right_l(rightl1, f0-1f, f0-2f, f0-1f)
 end_variable
 begin_variable
 var965
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f0-2f, f0-1f, f0-2f)
+NegatedAtom at_right_l(rightl1, f0-2f, f0-1f, f0-2f)
 end_variable
 begin_variable
 var966
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-0f, f2-0f, f1-0f)
+NegatedAtom at_right_l(rightl1, f1-0f, f2-0f, f1-0f)
 end_variable
 begin_variable
 var967
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-3f, f2-3f, f1-3f)
+NegatedAtom at_right_l(rightl1, f1-3f, f2-3f, f1-3f)
 end_variable
 begin_variable
 var968
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-0f, f7-0f, f8-0f)
+NegatedAtom at_right_l(rightl0, f8-0f, f7-0f, f8-0f)
 end_variable
 begin_variable
 var969
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f9-1f, f9-2f, f9-1f)
+NegatedAtom at_right_l(rightl0, f9-1f, f9-2f, f9-1f)
 end_variable
 begin_variable
 var970
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f9-2f, f9-1f, f9-2f)
+NegatedAtom at_right_l(rightl0, f9-2f, f9-1f, f9-2f)
 end_variable
 begin_variable
 var971
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-3f, f7-3f, f8-3f)
+NegatedAtom at_right_l(rightl0, f8-3f, f7-3f, f8-3f)
 end_variable
 begin_variable
 var972
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-0f, f7-0f, f8-0f)
+NegatedAtom at_right_l(rightl1, f8-0f, f7-0f, f8-0f)
 end_variable
 begin_variable
 var973
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f9-1f, f9-2f, f9-1f)
+NegatedAtom at_right_l(rightl1, f9-1f, f9-2f, f9-1f)
 end_variable
 begin_variable
 var974
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f9-2f, f9-1f, f9-2f)
+NegatedAtom at_right_l(rightl1, f9-2f, f9-1f, f9-2f)
 end_variable
 begin_variable
 var975
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f0-1f, f0-2f, f0-1f)
+NegatedAtom at_right_l(rightl2, f0-1f, f0-2f, f0-1f)
 end_variable
 begin_variable
 var976
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f0-2f, f0-1f, f0-2f)
+NegatedAtom at_right_l(rightl2, f0-2f, f0-1f, f0-2f)
 end_variable
 begin_variable
 var977
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-0f, f2-0f, f1-0f)
+NegatedAtom at_right_l(rightl2, f1-0f, f2-0f, f1-0f)
 end_variable
 begin_variable
 var978
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-3f, f2-3f, f1-3f)
+NegatedAtom at_right_l(rightl2, f1-3f, f2-3f, f1-3f)
 end_variable
 begin_variable
 var979
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-0f, f7-0f, f8-0f)
+NegatedAtom at_right_l(rightl2, f8-0f, f7-0f, f8-0f)
 end_variable
 begin_variable
 var980
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f9-1f, f9-2f, f9-1f)
+NegatedAtom at_right_l(rightl2, f9-1f, f9-2f, f9-1f)
 end_variable
 begin_variable
 var981
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f9-2f, f9-1f, f9-2f)
+NegatedAtom at_right_l(rightl2, f9-2f, f9-1f, f9-2f)
 end_variable
 begin_variable
 var982
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-3f, f7-3f, f8-3f)
+NegatedAtom at_right_l(rightl1, f8-3f, f7-3f, f8-3f)
 end_variable
 begin_variable
 var983
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-3f, f7-3f, f8-3f)
+NegatedAtom at_right_l(rightl2, f8-3f, f7-3f, f8-3f)
 end_variable
 begin_variable
 var984
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-3f, f1-3f, f2-3f)
+NegatedAtom at_right_l(rightl0, f2-3f, f1-3f, f2-3f)
 end_variable
 begin_variable
 var985
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-3f, f3-3f, f2-3f)
+NegatedAtom at_right_l(rightl0, f2-3f, f3-3f, f2-3f)
 end_variable
 begin_variable
 var986
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-0f, f1-0f, f2-0f)
+NegatedAtom at_right_l(rightl0, f2-0f, f1-0f, f2-0f)
 end_variable
 begin_variable
 var987
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-0f, f3-0f, f2-0f)
+NegatedAtom at_right_l(rightl0, f2-0f, f3-0f, f2-0f)
 end_variable
 begin_variable
 var988
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-0f, f1-0f, f2-0f)
+NegatedAtom at_right_l(rightl1, f2-0f, f1-0f, f2-0f)
 end_variable
 begin_variable
 var989
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-0f, f3-0f, f2-0f)
+NegatedAtom at_right_l(rightl1, f2-0f, f3-0f, f2-0f)
 end_variable
 begin_variable
 var990
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-3f, f1-3f, f2-3f)
+NegatedAtom at_right_l(rightl1, f2-3f, f1-3f, f2-3f)
 end_variable
 begin_variable
 var991
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-3f, f3-3f, f2-3f)
+NegatedAtom at_right_l(rightl1, f2-3f, f3-3f, f2-3f)
 end_variable
 begin_variable
 var992
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-0f, f6-0f, f7-0f)
+NegatedAtom at_right_l(rightl0, f7-0f, f6-0f, f7-0f)
 end_variable
 begin_variable
 var993
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-0f, f8-0f, f7-0f)
+NegatedAtom at_right_l(rightl0, f7-0f, f8-0f, f7-0f)
 end_variable
 begin_variable
 var994
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-3f, f6-3f, f7-3f)
+NegatedAtom at_right_l(rightl0, f7-3f, f6-3f, f7-3f)
 end_variable
 begin_variable
 var995
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-3f, f8-3f, f7-3f)
+NegatedAtom at_right_l(rightl0, f7-3f, f8-3f, f7-3f)
 end_variable
 begin_variable
 var996
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-0f, f6-0f, f7-0f)
+NegatedAtom at_right_l(rightl1, f7-0f, f6-0f, f7-0f)
 end_variable
 begin_variable
 var997
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-0f, f8-0f, f7-0f)
+NegatedAtom at_right_l(rightl1, f7-0f, f8-0f, f7-0f)
 end_variable
 begin_variable
 var998
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-0f, f1-0f, f2-0f)
+NegatedAtom at_right_l(rightl2, f2-0f, f1-0f, f2-0f)
 end_variable
 begin_variable
 var999
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-0f, f3-0f, f2-0f)
+NegatedAtom at_right_l(rightl2, f2-0f, f3-0f, f2-0f)
 end_variable
 begin_variable
 var1000
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-3f, f1-3f, f2-3f)
+NegatedAtom at_right_l(rightl2, f2-3f, f1-3f, f2-3f)
 end_variable
 begin_variable
 var1001
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-3f, f3-3f, f2-3f)
+NegatedAtom at_right_l(rightl2, f2-3f, f3-3f, f2-3f)
 end_variable
 begin_variable
 var1002
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-0f, f6-0f, f7-0f)
+NegatedAtom at_right_l(rightl2, f7-0f, f6-0f, f7-0f)
 end_variable
 begin_variable
 var1003
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-0f, f8-0f, f7-0f)
+NegatedAtom at_right_l(rightl2, f7-0f, f8-0f, f7-0f)
 end_variable
 begin_variable
 var1004
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-3f, f6-3f, f7-3f)
+NegatedAtom at_right_l(rightl1, f7-3f, f6-3f, f7-3f)
 end_variable
 begin_variable
 var1005
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-3f, f8-3f, f7-3f)
+NegatedAtom at_right_l(rightl1, f7-3f, f8-3f, f7-3f)
 end_variable
 begin_variable
 var1006
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-3f, f6-3f, f7-3f)
+NegatedAtom at_right_l(rightl2, f7-3f, f6-3f, f7-3f)
 end_variable
 begin_variable
 var1007
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-3f, f8-3f, f7-3f)
+NegatedAtom at_right_l(rightl2, f7-3f, f8-3f, f7-3f)
 end_variable
 begin_variable
 var1008
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-3f, f2-3f, f3-3f)
+NegatedAtom at_right_l(rightl0, f3-3f, f2-3f, f3-3f)
 end_variable
 begin_variable
 var1009
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-3f, f4-3f, f3-3f)
+NegatedAtom at_right_l(rightl0, f3-3f, f4-3f, f3-3f)
 end_variable
 begin_variable
 var1010
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-0f, f2-0f, f3-0f)
+NegatedAtom at_right_l(rightl0, f3-0f, f2-0f, f3-0f)
 end_variable
 begin_variable
 var1011
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-0f, f4-0f, f3-0f)
+NegatedAtom at_right_l(rightl0, f3-0f, f4-0f, f3-0f)
 end_variable
 begin_variable
 var1012
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-0f, f2-0f, f3-0f)
+NegatedAtom at_right_l(rightl1, f3-0f, f2-0f, f3-0f)
 end_variable
 begin_variable
 var1013
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-0f, f4-0f, f3-0f)
+NegatedAtom at_right_l(rightl1, f3-0f, f4-0f, f3-0f)
 end_variable
 begin_variable
 var1014
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-3f, f2-3f, f3-3f)
+NegatedAtom at_right_l(rightl1, f3-3f, f2-3f, f3-3f)
 end_variable
 begin_variable
 var1015
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-3f, f4-3f, f3-3f)
+NegatedAtom at_right_l(rightl1, f3-3f, f4-3f, f3-3f)
 end_variable
 begin_variable
 var1016
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-0f, f5-0f, f6-0f)
+NegatedAtom at_right_l(rightl0, f6-0f, f5-0f, f6-0f)
 end_variable
 begin_variable
 var1017
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-0f, f7-0f, f6-0f)
+NegatedAtom at_right_l(rightl0, f6-0f, f7-0f, f6-0f)
 end_variable
 begin_variable
 var1018
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-3f, f5-3f, f6-3f)
+NegatedAtom at_right_l(rightl0, f6-3f, f5-3f, f6-3f)
 end_variable
 begin_variable
 var1019
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-3f, f7-3f, f6-3f)
+NegatedAtom at_right_l(rightl0, f6-3f, f7-3f, f6-3f)
 end_variable
 begin_variable
 var1020
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-0f, f5-0f, f6-0f)
+NegatedAtom at_right_l(rightl1, f6-0f, f5-0f, f6-0f)
 end_variable
 begin_variable
 var1021
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-0f, f7-0f, f6-0f)
+NegatedAtom at_right_l(rightl1, f6-0f, f7-0f, f6-0f)
 end_variable
 begin_variable
 var1022
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-0f, f2-0f, f3-0f)
+NegatedAtom at_right_l(rightl2, f3-0f, f2-0f, f3-0f)
 end_variable
 begin_variable
 var1023
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-0f, f4-0f, f3-0f)
+NegatedAtom at_right_l(rightl2, f3-0f, f4-0f, f3-0f)
 end_variable
 begin_variable
 var1024
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-3f, f2-3f, f3-3f)
+NegatedAtom at_right_l(rightl2, f3-3f, f2-3f, f3-3f)
 end_variable
 begin_variable
 var1025
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-3f, f4-3f, f3-3f)
+NegatedAtom at_right_l(rightl2, f3-3f, f4-3f, f3-3f)
 end_variable
 begin_variable
 var1026
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-0f, f5-0f, f6-0f)
+NegatedAtom at_right_l(rightl2, f6-0f, f5-0f, f6-0f)
 end_variable
 begin_variable
 var1027
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-0f, f7-0f, f6-0f)
+NegatedAtom at_right_l(rightl2, f6-0f, f7-0f, f6-0f)
 end_variable
 begin_variable
 var1028
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-3f, f5-3f, f6-3f)
+NegatedAtom at_right_l(rightl1, f6-3f, f5-3f, f6-3f)
 end_variable
 begin_variable
 var1029
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-3f, f7-3f, f6-3f)
+NegatedAtom at_right_l(rightl1, f6-3f, f7-3f, f6-3f)
 end_variable
 begin_variable
 var1030
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-3f, f5-3f, f6-3f)
+NegatedAtom at_right_l(rightl2, f6-3f, f5-3f, f6-3f)
 end_variable
 begin_variable
 var1031
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-3f, f7-3f, f6-3f)
+NegatedAtom at_right_l(rightl2, f6-3f, f7-3f, f6-3f)
 end_variable
 begin_variable
 var1032
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-3f, f3-3f, f4-3f)
+NegatedAtom at_right_l(rightl0, f4-3f, f3-3f, f4-3f)
 end_variable
 begin_variable
 var1033
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-3f, f5-3f, f4-3f)
+NegatedAtom at_right_l(rightl0, f4-3f, f5-3f, f4-3f)
 end_variable
 begin_variable
 var1034
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-3f, f4-3f, f5-3f)
+NegatedAtom at_right_l(rightl0, f5-3f, f4-3f, f5-3f)
 end_variable
 begin_variable
 var1035
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-3f, f6-3f, f5-3f)
+NegatedAtom at_right_l(rightl0, f5-3f, f6-3f, f5-3f)
 end_variable
 begin_variable
 var1036
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-0f, f3-0f, f4-0f)
+NegatedAtom at_right_l(rightl0, f4-0f, f3-0f, f4-0f)
 end_variable
 begin_variable
 var1037
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-0f, f5-0f, f4-0f)
+NegatedAtom at_right_l(rightl0, f4-0f, f5-0f, f4-0f)
 end_variable
 begin_variable
 var1038
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-0f, f4-0f, f5-0f)
+NegatedAtom at_right_l(rightl0, f5-0f, f4-0f, f5-0f)
 end_variable
 begin_variable
 var1039
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-0f, f6-0f, f5-0f)
+NegatedAtom at_right_l(rightl0, f5-0f, f6-0f, f5-0f)
 end_variable
 begin_variable
 var1040
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-0f, f3-0f, f4-0f)
+NegatedAtom at_right_l(rightl1, f4-0f, f3-0f, f4-0f)
 end_variable
 begin_variable
 var1041
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-0f, f5-0f, f4-0f)
+NegatedAtom at_right_l(rightl1, f4-0f, f5-0f, f4-0f)
 end_variable
 begin_variable
 var1042
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-0f, f4-0f, f5-0f)
+NegatedAtom at_right_l(rightl1, f5-0f, f4-0f, f5-0f)
 end_variable
 begin_variable
 var1043
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-0f, f6-0f, f5-0f)
+NegatedAtom at_right_l(rightl1, f5-0f, f6-0f, f5-0f)
 end_variable
 begin_variable
 var1044
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-3f, f3-3f, f4-3f)
+NegatedAtom at_right_l(rightl1, f4-3f, f3-3f, f4-3f)
 end_variable
 begin_variable
 var1045
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-3f, f5-3f, f4-3f)
+NegatedAtom at_right_l(rightl1, f4-3f, f5-3f, f4-3f)
 end_variable
 begin_variable
 var1046
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-3f, f4-3f, f5-3f)
+NegatedAtom at_right_l(rightl1, f5-3f, f4-3f, f5-3f)
 end_variable
 begin_variable
 var1047
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-3f, f6-3f, f5-3f)
+NegatedAtom at_right_l(rightl1, f5-3f, f6-3f, f5-3f)
 end_variable
 begin_variable
 var1048
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-0f, f3-0f, f4-0f)
+NegatedAtom at_right_l(rightl2, f4-0f, f3-0f, f4-0f)
 end_variable
 begin_variable
 var1049
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-0f, f5-0f, f4-0f)
+NegatedAtom at_right_l(rightl2, f4-0f, f5-0f, f4-0f)
 end_variable
 begin_variable
 var1050
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-0f, f4-0f, f5-0f)
+NegatedAtom at_right_l(rightl2, f5-0f, f4-0f, f5-0f)
 end_variable
 begin_variable
 var1051
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-0f, f6-0f, f5-0f)
+NegatedAtom at_right_l(rightl2, f5-0f, f6-0f, f5-0f)
 end_variable
 begin_variable
 var1052
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-3f, f3-3f, f4-3f)
+NegatedAtom at_right_l(rightl2, f4-3f, f3-3f, f4-3f)
 end_variable
 begin_variable
 var1053
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-3f, f5-3f, f4-3f)
+NegatedAtom at_right_l(rightl2, f4-3f, f5-3f, f4-3f)
 end_variable
 begin_variable
 var1054
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-3f, f4-3f, f5-3f)
+NegatedAtom at_right_l(rightl2, f5-3f, f4-3f, f5-3f)
 end_variable
 begin_variable
 var1055
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-3f, f6-3f, f5-3f)
+NegatedAtom at_right_l(rightl2, f5-3f, f6-3f, f5-3f)
 end_variable
 begin_variable
 var1056
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f0-1f, f1-1f, f0-1f)
+NegatedAtom at_right_l(rightl0, f0-1f, f1-1f, f0-1f)
 end_variable
 begin_variable
 var1057
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f0-2f, f1-2f, f0-2f)
+NegatedAtom at_right_l(rightl0, f0-2f, f1-2f, f0-2f)
 end_variable
 begin_variable
 var1058
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f0-2f, f1-2f, f0-2f)
+NegatedAtom at_right_l(rightl1, f0-2f, f1-2f, f0-2f)
 end_variable
 begin_variable
 var1059
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f0-1f, f1-1f, f0-1f)
+NegatedAtom at_right_l(rightl1, f0-1f, f1-1f, f0-1f)
 end_variable
 begin_variable
 var1060
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f9-2f, f8-2f, f9-2f)
+NegatedAtom at_right_l(rightl0, f9-2f, f8-2f, f9-2f)
 end_variable
 begin_variable
 var1061
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f9-1f, f8-1f, f9-1f)
+NegatedAtom at_right_l(rightl0, f9-1f, f8-1f, f9-1f)
 end_variable
 begin_variable
 var1062
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f9-2f, f8-2f, f9-2f)
+NegatedAtom at_right_l(rightl1, f9-2f, f8-2f, f9-2f)
 end_variable
 begin_variable
 var1063
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f9-1f, f8-1f, f9-1f)
+NegatedAtom at_right_l(rightl1, f9-1f, f8-1f, f9-1f)
 end_variable
 begin_variable
 var1064
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f0-2f, f1-2f, f0-2f)
+NegatedAtom at_right_l(rightl2, f0-2f, f1-2f, f0-2f)
 end_variable
 begin_variable
 var1065
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f0-1f, f1-1f, f0-1f)
+NegatedAtom at_right_l(rightl2, f0-1f, f1-1f, f0-1f)
 end_variable
 begin_variable
 var1066
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f9-2f, f8-2f, f9-2f)
+NegatedAtom at_right_l(rightl2, f9-2f, f8-2f, f9-2f)
 end_variable
 begin_variable
 var1067
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f9-1f, f8-1f, f9-1f)
+NegatedAtom at_right_l(rightl2, f9-1f, f8-1f, f9-1f)
 end_variable
 begin_variable
 var1068
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-3f, f1-2f, f1-3f)
+NegatedAtom at_right_l(rightl0, f1-3f, f1-2f, f1-3f)
 end_variable
 begin_variable
 var1069
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-0f, f1-1f, f1-0f)
+NegatedAtom at_right_l(rightl0, f1-0f, f1-1f, f1-0f)
 end_variable
 begin_variable
 var1070
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-0f, f1-1f, f1-0f)
+NegatedAtom at_right_l(rightl1, f1-0f, f1-1f, f1-0f)
 end_variable
 begin_variable
 var1071
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-3f, f1-2f, f1-3f)
+NegatedAtom at_right_l(rightl1, f1-3f, f1-2f, f1-3f)
 end_variable
 begin_variable
 var1072
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-0f, f8-1f, f8-0f)
+NegatedAtom at_right_l(rightl0, f8-0f, f8-1f, f8-0f)
 end_variable
 begin_variable
 var1073
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-3f, f8-2f, f8-3f)
+NegatedAtom at_right_l(rightl0, f8-3f, f8-2f, f8-3f)
 end_variable
 begin_variable
 var1074
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-0f, f8-1f, f8-0f)
+NegatedAtom at_right_l(rightl1, f8-0f, f8-1f, f8-0f)
 end_variable
 begin_variable
 var1075
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-0f, f1-1f, f1-0f)
+NegatedAtom at_right_l(rightl2, f1-0f, f1-1f, f1-0f)
 end_variable
 begin_variable
 var1076
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-3f, f1-2f, f1-3f)
+NegatedAtom at_right_l(rightl2, f1-3f, f1-2f, f1-3f)
 end_variable
 begin_variable
 var1077
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-0f, f8-1f, f8-0f)
+NegatedAtom at_right_l(rightl2, f8-0f, f8-1f, f8-0f)
 end_variable
 begin_variable
 var1078
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-3f, f8-2f, f8-3f)
+NegatedAtom at_right_l(rightl1, f8-3f, f8-2f, f8-3f)
 end_variable
 begin_variable
 var1079
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-3f, f8-2f, f8-3f)
+NegatedAtom at_right_l(rightl2, f8-3f, f8-2f, f8-3f)
 end_variable
 begin_variable
 var1080
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f0-2f, f1-2f, f1-3f)
+NegatedAtom at_right_l(rightl0, f0-2f, f1-2f, f1-3f)
 end_variable
 begin_variable
 var1081
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-3f, f1-2f, f0-2f)
+NegatedAtom at_right_l(rightl0, f1-3f, f1-2f, f0-2f)
 end_variable
 begin_variable
 var1082
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f0-1f, f1-1f, f1-0f)
+NegatedAtom at_right_l(rightl0, f0-1f, f1-1f, f1-0f)
 end_variable
 begin_variable
 var1083
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-0f, f1-1f, f0-1f)
+NegatedAtom at_right_l(rightl0, f1-0f, f1-1f, f0-1f)
 end_variable
 begin_variable
 var1084
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f0-1f, f1-1f, f1-0f)
+NegatedAtom at_right_l(rightl1, f0-1f, f1-1f, f1-0f)
 end_variable
 begin_variable
 var1085
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-0f, f1-1f, f0-1f)
+NegatedAtom at_right_l(rightl1, f1-0f, f1-1f, f0-1f)
 end_variable
 begin_variable
 var1086
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f0-2f, f1-2f, f1-3f)
+NegatedAtom at_right_l(rightl1, f0-2f, f1-2f, f1-3f)
 end_variable
 begin_variable
 var1087
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-3f, f1-2f, f0-2f)
+NegatedAtom at_right_l(rightl1, f1-3f, f1-2f, f0-2f)
 end_variable
 begin_variable
 var1088
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-0f, f8-1f, f9-1f)
+NegatedAtom at_right_l(rightl0, f8-0f, f8-1f, f9-1f)
 end_variable
 begin_variable
 var1089
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f9-1f, f8-1f, f8-0f)
+NegatedAtom at_right_l(rightl0, f9-1f, f8-1f, f8-0f)
 end_variable
 begin_variable
 var1090
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-3f, f8-2f, f9-2f)
+NegatedAtom at_right_l(rightl0, f8-3f, f8-2f, f9-2f)
 end_variable
 begin_variable
 var1091
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f9-2f, f8-2f, f8-3f)
+NegatedAtom at_right_l(rightl0, f9-2f, f8-2f, f8-3f)
 end_variable
 begin_variable
 var1092
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-0f, f8-1f, f9-1f)
+NegatedAtom at_right_l(rightl1, f8-0f, f8-1f, f9-1f)
 end_variable
 begin_variable
 var1093
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f9-1f, f8-1f, f8-0f)
+NegatedAtom at_right_l(rightl1, f9-1f, f8-1f, f8-0f)
 end_variable
 begin_variable
 var1094
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f0-1f, f1-1f, f1-0f)
+NegatedAtom at_right_l(rightl2, f0-1f, f1-1f, f1-0f)
 end_variable
 begin_variable
 var1095
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-0f, f1-1f, f0-1f)
+NegatedAtom at_right_l(rightl2, f1-0f, f1-1f, f0-1f)
 end_variable
 begin_variable
 var1096
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f0-2f, f1-2f, f1-3f)
+NegatedAtom at_right_l(rightl2, f0-2f, f1-2f, f1-3f)
 end_variable
 begin_variable
 var1097
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-3f, f1-2f, f0-2f)
+NegatedAtom at_right_l(rightl2, f1-3f, f1-2f, f0-2f)
 end_variable
 begin_variable
 var1098
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-0f, f8-1f, f9-1f)
+NegatedAtom at_right_l(rightl2, f8-0f, f8-1f, f9-1f)
 end_variable
 begin_variable
 var1099
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f9-1f, f8-1f, f8-0f)
+NegatedAtom at_right_l(rightl2, f9-1f, f8-1f, f8-0f)
 end_variable
 begin_variable
 var1100
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-3f, f8-2f, f9-2f)
+NegatedAtom at_right_l(rightl1, f8-3f, f8-2f, f9-2f)
 end_variable
 begin_variable
 var1101
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f9-2f, f8-2f, f8-3f)
+NegatedAtom at_right_l(rightl1, f9-2f, f8-2f, f8-3f)
 end_variable
 begin_variable
 var1102
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-3f, f8-2f, f9-2f)
+NegatedAtom at_right_l(rightl2, f8-3f, f8-2f, f9-2f)
 end_variable
 begin_variable
 var1103
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f9-2f, f8-2f, f8-3f)
+NegatedAtom at_right_l(rightl2, f9-2f, f8-2f, f8-3f)
 end_variable
 begin_variable
 var1104
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f0-1f, f0-2f, f1-2f)
+NegatedAtom at_right_l(rightl0, f0-1f, f0-2f, f1-2f)
 end_variable
 begin_variable
 var1105
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f0-2f, f0-1f, f1-1f)
+NegatedAtom at_right_l(rightl0, f0-2f, f0-1f, f1-1f)
 end_variable
 begin_variable
 var1106
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-1f, f0-1f, f0-2f)
+NegatedAtom at_right_l(rightl0, f1-1f, f0-1f, f0-2f)
 end_variable
 begin_variable
 var1107
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-2f, f0-2f, f0-1f)
+NegatedAtom at_right_l(rightl0, f1-2f, f0-2f, f0-1f)
 end_variable
 begin_variable
 var1108
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f0-2f, f0-1f, f1-1f)
+NegatedAtom at_right_l(rightl1, f0-2f, f0-1f, f1-1f)
 end_variable
 begin_variable
 var1109
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f0-1f, f0-2f, f1-2f)
+NegatedAtom at_right_l(rightl1, f0-1f, f0-2f, f1-2f)
 end_variable
 begin_variable
 var1110
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-2f, f0-2f, f0-1f)
+NegatedAtom at_right_l(rightl1, f1-2f, f0-2f, f0-1f)
 end_variable
 begin_variable
 var1111
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-1f, f0-1f, f0-2f)
+NegatedAtom at_right_l(rightl1, f1-1f, f0-1f, f0-2f)
 end_variable
 begin_variable
 var1112
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-1f, f9-1f, f9-2f)
+NegatedAtom at_right_l(rightl0, f8-1f, f9-1f, f9-2f)
 end_variable
 begin_variable
 var1113
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-2f, f9-2f, f9-1f)
+NegatedAtom at_right_l(rightl0, f8-2f, f9-2f, f9-1f)
 end_variable
 begin_variable
 var1114
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f9-1f, f9-2f, f8-2f)
+NegatedAtom at_right_l(rightl0, f9-1f, f9-2f, f8-2f)
 end_variable
 begin_variable
 var1115
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f9-2f, f9-1f, f8-1f)
+NegatedAtom at_right_l(rightl0, f9-2f, f9-1f, f8-1f)
 end_variable
 begin_variable
 var1116
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-1f, f9-1f, f9-2f)
+NegatedAtom at_right_l(rightl1, f8-1f, f9-1f, f9-2f)
 end_variable
 begin_variable
 var1117
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-2f, f9-2f, f9-1f)
+NegatedAtom at_right_l(rightl1, f8-2f, f9-2f, f9-1f)
 end_variable
 begin_variable
 var1118
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f9-1f, f9-2f, f8-2f)
+NegatedAtom at_right_l(rightl1, f9-1f, f9-2f, f8-2f)
 end_variable
 begin_variable
 var1119
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f9-2f, f9-1f, f8-1f)
+NegatedAtom at_right_l(rightl1, f9-2f, f9-1f, f8-1f)
 end_variable
 begin_variable
 var1120
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f0-2f, f0-1f, f1-1f)
+NegatedAtom at_right_l(rightl2, f0-2f, f0-1f, f1-1f)
 end_variable
 begin_variable
 var1121
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f0-1f, f0-2f, f1-2f)
+NegatedAtom at_right_l(rightl2, f0-1f, f0-2f, f1-2f)
 end_variable
 begin_variable
 var1122
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-2f, f0-2f, f0-1f)
+NegatedAtom at_right_l(rightl2, f1-2f, f0-2f, f0-1f)
 end_variable
 begin_variable
 var1123
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-1f, f0-1f, f0-2f)
+NegatedAtom at_right_l(rightl2, f1-1f, f0-1f, f0-2f)
 end_variable
 begin_variable
 var1124
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-1f, f9-1f, f9-2f)
+NegatedAtom at_right_l(rightl2, f8-1f, f9-1f, f9-2f)
 end_variable
 begin_variable
 var1125
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-2f, f9-2f, f9-1f)
+NegatedAtom at_right_l(rightl2, f8-2f, f9-2f, f9-1f)
 end_variable
 begin_variable
 var1126
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f9-1f, f9-2f, f8-2f)
+NegatedAtom at_right_l(rightl2, f9-1f, f9-2f, f8-2f)
 end_variable
 begin_variable
 var1127
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f9-2f, f9-1f, f8-1f)
+NegatedAtom at_right_l(rightl2, f9-2f, f9-1f, f8-1f)
 end_variable
 begin_variable
 var1128
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-3f, f2-2f, f2-3f)
+NegatedAtom at_right_l(rightl0, f2-3f, f2-2f, f2-3f)
 end_variable
 begin_variable
 var1129
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-0f, f2-1f, f2-0f)
+NegatedAtom at_right_l(rightl0, f2-0f, f2-1f, f2-0f)
 end_variable
 begin_variable
 var1130
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-0f, f2-1f, f2-0f)
+NegatedAtom at_right_l(rightl1, f2-0f, f2-1f, f2-0f)
 end_variable
 begin_variable
 var1131
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-3f, f2-2f, f2-3f)
+NegatedAtom at_right_l(rightl1, f2-3f, f2-2f, f2-3f)
 end_variable
 begin_variable
 var1132
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-0f, f7-1f, f7-0f)
+NegatedAtom at_right_l(rightl0, f7-0f, f7-1f, f7-0f)
 end_variable
 begin_variable
 var1133
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-3f, f7-2f, f7-3f)
+NegatedAtom at_right_l(rightl0, f7-3f, f7-2f, f7-3f)
 end_variable
 begin_variable
 var1134
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-0f, f7-1f, f7-0f)
+NegatedAtom at_right_l(rightl1, f7-0f, f7-1f, f7-0f)
 end_variable
 begin_variable
 var1135
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-0f, f2-1f, f2-0f)
+NegatedAtom at_right_l(rightl2, f2-0f, f2-1f, f2-0f)
 end_variable
 begin_variable
 var1136
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-3f, f2-2f, f2-3f)
+NegatedAtom at_right_l(rightl2, f2-3f, f2-2f, f2-3f)
 end_variable
 begin_variable
 var1137
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-0f, f7-1f, f7-0f)
+NegatedAtom at_right_l(rightl2, f7-0f, f7-1f, f7-0f)
 end_variable
 begin_variable
 var1138
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-3f, f7-2f, f7-3f)
+NegatedAtom at_right_l(rightl1, f7-3f, f7-2f, f7-3f)
 end_variable
 begin_variable
 var1139
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-3f, f7-2f, f7-3f)
+NegatedAtom at_right_l(rightl2, f7-3f, f7-2f, f7-3f)
 end_variable
 begin_variable
 var1140
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-3f, f3-2f, f3-3f)
+NegatedAtom at_right_l(rightl0, f3-3f, f3-2f, f3-3f)
 end_variable
 begin_variable
 var1141
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-3f, f5-2f, f5-3f)
+NegatedAtom at_right_l(rightl0, f5-3f, f5-2f, f5-3f)
 end_variable
 begin_variable
 var1142
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-3f, f4-2f, f4-3f)
+NegatedAtom at_right_l(rightl0, f4-3f, f4-2f, f4-3f)
 end_variable
 begin_variable
 var1143
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-3f, f6-2f, f6-3f)
+NegatedAtom at_right_l(rightl0, f6-3f, f6-2f, f6-3f)
 end_variable
 begin_variable
 var1144
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-0f, f3-1f, f3-0f)
+NegatedAtom at_right_l(rightl0, f3-0f, f3-1f, f3-0f)
 end_variable
 begin_variable
 var1145
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-0f, f5-1f, f5-0f)
+NegatedAtom at_right_l(rightl0, f5-0f, f5-1f, f5-0f)
 end_variable
 begin_variable
 var1146
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-0f, f4-1f, f4-0f)
+NegatedAtom at_right_l(rightl0, f4-0f, f4-1f, f4-0f)
 end_variable
 begin_variable
 var1147
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-0f, f6-1f, f6-0f)
+NegatedAtom at_right_l(rightl0, f6-0f, f6-1f, f6-0f)
 end_variable
 begin_variable
 var1148
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-0f, f3-1f, f3-0f)
+NegatedAtom at_right_l(rightl1, f3-0f, f3-1f, f3-0f)
 end_variable
 begin_variable
 var1149
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-0f, f5-1f, f5-0f)
+NegatedAtom at_right_l(rightl1, f5-0f, f5-1f, f5-0f)
 end_variable
 begin_variable
 var1150
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-0f, f4-1f, f4-0f)
+NegatedAtom at_right_l(rightl1, f4-0f, f4-1f, f4-0f)
 end_variable
 begin_variable
 var1151
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-0f, f6-1f, f6-0f)
+NegatedAtom at_right_l(rightl1, f6-0f, f6-1f, f6-0f)
 end_variable
 begin_variable
 var1152
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-3f, f3-2f, f3-3f)
+NegatedAtom at_right_l(rightl1, f3-3f, f3-2f, f3-3f)
 end_variable
 begin_variable
 var1153
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-3f, f5-2f, f5-3f)
+NegatedAtom at_right_l(rightl1, f5-3f, f5-2f, f5-3f)
 end_variable
 begin_variable
 var1154
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-3f, f4-2f, f4-3f)
+NegatedAtom at_right_l(rightl1, f4-3f, f4-2f, f4-3f)
 end_variable
 begin_variable
 var1155
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-3f, f6-2f, f6-3f)
+NegatedAtom at_right_l(rightl1, f6-3f, f6-2f, f6-3f)
 end_variable
 begin_variable
 var1156
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-0f, f3-1f, f3-0f)
+NegatedAtom at_right_l(rightl2, f3-0f, f3-1f, f3-0f)
 end_variable
 begin_variable
 var1157
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-0f, f5-1f, f5-0f)
+NegatedAtom at_right_l(rightl2, f5-0f, f5-1f, f5-0f)
 end_variable
 begin_variable
 var1158
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-0f, f4-1f, f4-0f)
+NegatedAtom at_right_l(rightl2, f4-0f, f4-1f, f4-0f)
 end_variable
 begin_variable
 var1159
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-0f, f6-1f, f6-0f)
+NegatedAtom at_right_l(rightl2, f6-0f, f6-1f, f6-0f)
 end_variable
 begin_variable
 var1160
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-3f, f3-2f, f3-3f)
+NegatedAtom at_right_l(rightl2, f3-3f, f3-2f, f3-3f)
 end_variable
 begin_variable
 var1161
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-3f, f5-2f, f5-3f)
+NegatedAtom at_right_l(rightl2, f5-3f, f5-2f, f5-3f)
 end_variable
 begin_variable
 var1162
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-3f, f4-2f, f4-3f)
+NegatedAtom at_right_l(rightl2, f4-3f, f4-2f, f4-3f)
 end_variable
 begin_variable
 var1163
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-3f, f6-2f, f6-3f)
+NegatedAtom at_right_l(rightl2, f6-3f, f6-2f, f6-3f)
 end_variable
 begin_variable
 var1164
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-2f, f1-3f, f2-3f)
+NegatedAtom at_right_l(rightl0, f1-2f, f1-3f, f2-3f)
 end_variable
 begin_variable
 var1165
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-3f, f1-3f, f1-2f)
+NegatedAtom at_right_l(rightl0, f2-3f, f1-3f, f1-2f)
 end_variable
 begin_variable
 var1166
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-1f, f1-0f, f2-0f)
+NegatedAtom at_right_l(rightl0, f1-1f, f1-0f, f2-0f)
 end_variable
 begin_variable
 var1167
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-0f, f1-0f, f1-1f)
+NegatedAtom at_right_l(rightl0, f2-0f, f1-0f, f1-1f)
 end_variable
 begin_variable
 var1168
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-1f, f1-0f, f2-0f)
+NegatedAtom at_right_l(rightl1, f1-1f, f1-0f, f2-0f)
 end_variable
 begin_variable
 var1169
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-0f, f1-0f, f1-1f)
+NegatedAtom at_right_l(rightl1, f2-0f, f1-0f, f1-1f)
 end_variable
 begin_variable
 var1170
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-2f, f1-3f, f2-3f)
+NegatedAtom at_right_l(rightl1, f1-2f, f1-3f, f2-3f)
 end_variable
 begin_variable
 var1171
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-3f, f1-3f, f1-2f)
+NegatedAtom at_right_l(rightl1, f2-3f, f1-3f, f1-2f)
 end_variable
 begin_variable
 var1172
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-0f, f8-0f, f8-1f)
+NegatedAtom at_right_l(rightl0, f7-0f, f8-0f, f8-1f)
 end_variable
 begin_variable
 var1173
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-1f, f8-0f, f7-0f)
+NegatedAtom at_right_l(rightl0, f8-1f, f8-0f, f7-0f)
 end_variable
 begin_variable
 var1174
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-3f, f8-3f, f8-2f)
+NegatedAtom at_right_l(rightl0, f7-3f, f8-3f, f8-2f)
 end_variable
 begin_variable
 var1175
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-2f, f8-3f, f7-3f)
+NegatedAtom at_right_l(rightl0, f8-2f, f8-3f, f7-3f)
 end_variable
 begin_variable
 var1176
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-0f, f8-0f, f8-1f)
+NegatedAtom at_right_l(rightl1, f7-0f, f8-0f, f8-1f)
 end_variable
 begin_variable
 var1177
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-1f, f8-0f, f7-0f)
+NegatedAtom at_right_l(rightl1, f8-1f, f8-0f, f7-0f)
 end_variable
 begin_variable
 var1178
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-1f, f1-0f, f2-0f)
+NegatedAtom at_right_l(rightl2, f1-1f, f1-0f, f2-0f)
 end_variable
 begin_variable
 var1179
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-0f, f1-0f, f1-1f)
+NegatedAtom at_right_l(rightl2, f2-0f, f1-0f, f1-1f)
 end_variable
 begin_variable
 var1180
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-2f, f1-3f, f2-3f)
+NegatedAtom at_right_l(rightl2, f1-2f, f1-3f, f2-3f)
 end_variable
 begin_variable
 var1181
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-3f, f1-3f, f1-2f)
+NegatedAtom at_right_l(rightl2, f2-3f, f1-3f, f1-2f)
 end_variable
 begin_variable
 var1182
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-0f, f8-0f, f8-1f)
+NegatedAtom at_right_l(rightl2, f7-0f, f8-0f, f8-1f)
 end_variable
 begin_variable
 var1183
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-1f, f8-0f, f7-0f)
+NegatedAtom at_right_l(rightl2, f8-1f, f8-0f, f7-0f)
 end_variable
 begin_variable
 var1184
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-3f, f8-3f, f8-2f)
+NegatedAtom at_right_l(rightl1, f7-3f, f8-3f, f8-2f)
 end_variable
 begin_variable
 var1185
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-2f, f8-3f, f7-3f)
+NegatedAtom at_right_l(rightl1, f8-2f, f8-3f, f7-3f)
 end_variable
 begin_variable
 var1186
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-3f, f8-3f, f8-2f)
+NegatedAtom at_right_l(rightl2, f7-3f, f8-3f, f8-2f)
 end_variable
 begin_variable
 var1187
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-2f, f8-3f, f7-3f)
+NegatedAtom at_right_l(rightl2, f8-2f, f8-3f, f7-3f)
 end_variable
 begin_variable
 var1188
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-3f, f2-3f, f2-2f)
+NegatedAtom at_right_l(rightl0, f1-3f, f2-3f, f2-2f)
 end_variable
 begin_variable
 var1189
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-2f, f2-3f, f1-3f)
+NegatedAtom at_right_l(rightl0, f2-2f, f2-3f, f1-3f)
 end_variable
 begin_variable
 var1190
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-0f, f2-0f, f2-1f)
+NegatedAtom at_right_l(rightl0, f1-0f, f2-0f, f2-1f)
 end_variable
 begin_variable
 var1191
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-1f, f2-0f, f1-0f)
+NegatedAtom at_right_l(rightl0, f2-1f, f2-0f, f1-0f)
 end_variable
 begin_variable
 var1192
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-0f, f2-0f, f2-1f)
+NegatedAtom at_right_l(rightl1, f1-0f, f2-0f, f2-1f)
 end_variable
 begin_variable
 var1193
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-1f, f2-0f, f1-0f)
+NegatedAtom at_right_l(rightl1, f2-1f, f2-0f, f1-0f)
 end_variable
 begin_variable
 var1194
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-3f, f2-3f, f2-2f)
+NegatedAtom at_right_l(rightl1, f1-3f, f2-3f, f2-2f)
 end_variable
 begin_variable
 var1195
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-2f, f2-3f, f1-3f)
+NegatedAtom at_right_l(rightl1, f2-2f, f2-3f, f1-3f)
 end_variable
 begin_variable
 var1196
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-1f, f7-0f, f8-0f)
+NegatedAtom at_right_l(rightl0, f7-1f, f7-0f, f8-0f)
 end_variable
 begin_variable
 var1197
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-0f, f7-0f, f7-1f)
+NegatedAtom at_right_l(rightl0, f8-0f, f7-0f, f7-1f)
 end_variable
 begin_variable
 var1198
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-2f, f7-3f, f8-3f)
+NegatedAtom at_right_l(rightl0, f7-2f, f7-3f, f8-3f)
 end_variable
 begin_variable
 var1199
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-3f, f7-3f, f7-2f)
+NegatedAtom at_right_l(rightl0, f8-3f, f7-3f, f7-2f)
 end_variable
 begin_variable
 var1200
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-1f, f7-0f, f8-0f)
+NegatedAtom at_right_l(rightl1, f7-1f, f7-0f, f8-0f)
 end_variable
 begin_variable
 var1201
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-0f, f7-0f, f7-1f)
+NegatedAtom at_right_l(rightl1, f8-0f, f7-0f, f7-1f)
 end_variable
 begin_variable
 var1202
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-0f, f2-0f, f2-1f)
+NegatedAtom at_right_l(rightl2, f1-0f, f2-0f, f2-1f)
 end_variable
 begin_variable
 var1203
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-1f, f2-0f, f1-0f)
+NegatedAtom at_right_l(rightl2, f2-1f, f2-0f, f1-0f)
 end_variable
 begin_variable
 var1204
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-3f, f2-3f, f2-2f)
+NegatedAtom at_right_l(rightl2, f1-3f, f2-3f, f2-2f)
 end_variable
 begin_variable
 var1205
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-2f, f2-3f, f1-3f)
+NegatedAtom at_right_l(rightl2, f2-2f, f2-3f, f1-3f)
 end_variable
 begin_variable
 var1206
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-1f, f7-0f, f8-0f)
+NegatedAtom at_right_l(rightl2, f7-1f, f7-0f, f8-0f)
 end_variable
 begin_variable
 var1207
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-0f, f7-0f, f7-1f)
+NegatedAtom at_right_l(rightl2, f8-0f, f7-0f, f7-1f)
 end_variable
 begin_variable
 var1208
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-2f, f7-3f, f8-3f)
+NegatedAtom at_right_l(rightl1, f7-2f, f7-3f, f8-3f)
 end_variable
 begin_variable
 var1209
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-3f, f7-3f, f7-2f)
+NegatedAtom at_right_l(rightl1, f8-3f, f7-3f, f7-2f)
 end_variable
 begin_variable
 var1210
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-2f, f7-3f, f8-3f)
+NegatedAtom at_right_l(rightl2, f7-2f, f7-3f, f8-3f)
 end_variable
 begin_variable
 var1211
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-3f, f7-3f, f7-2f)
+NegatedAtom at_right_l(rightl2, f8-3f, f7-3f, f7-2f)
 end_variable
 begin_variable
 var1212
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-2f, f2-3f, f3-3f)
+NegatedAtom at_right_l(rightl0, f2-2f, f2-3f, f3-3f)
 end_variable
 begin_variable
 var1213
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-3f, f3-3f, f3-2f)
+NegatedAtom at_right_l(rightl0, f2-3f, f3-3f, f3-2f)
 end_variable
 begin_variable
 var1214
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-2f, f3-3f, f2-3f)
+NegatedAtom at_right_l(rightl0, f3-2f, f3-3f, f2-3f)
 end_variable
 begin_variable
 var1215
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-3f, f2-3f, f2-2f)
+NegatedAtom at_right_l(rightl0, f3-3f, f2-3f, f2-2f)
 end_variable
 begin_variable
 var1216
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-1f, f2-0f, f3-0f)
+NegatedAtom at_right_l(rightl0, f2-1f, f2-0f, f3-0f)
 end_variable
 begin_variable
 var1217
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-0f, f3-0f, f3-1f)
+NegatedAtom at_right_l(rightl0, f2-0f, f3-0f, f3-1f)
 end_variable
 begin_variable
 var1218
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-1f, f3-0f, f2-0f)
+NegatedAtom at_right_l(rightl0, f3-1f, f3-0f, f2-0f)
 end_variable
 begin_variable
 var1219
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-0f, f2-0f, f2-1f)
+NegatedAtom at_right_l(rightl0, f3-0f, f2-0f, f2-1f)
 end_variable
 begin_variable
 var1220
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-1f, f2-0f, f3-0f)
+NegatedAtom at_right_l(rightl1, f2-1f, f2-0f, f3-0f)
 end_variable
 begin_variable
 var1221
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-0f, f3-0f, f3-1f)
+NegatedAtom at_right_l(rightl1, f2-0f, f3-0f, f3-1f)
 end_variable
 begin_variable
 var1222
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-1f, f3-0f, f2-0f)
+NegatedAtom at_right_l(rightl1, f3-1f, f3-0f, f2-0f)
 end_variable
 begin_variable
 var1223
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-0f, f2-0f, f2-1f)
+NegatedAtom at_right_l(rightl1, f3-0f, f2-0f, f2-1f)
 end_variable
 begin_variable
 var1224
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-2f, f2-3f, f3-3f)
+NegatedAtom at_right_l(rightl1, f2-2f, f2-3f, f3-3f)
 end_variable
 begin_variable
 var1225
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-3f, f3-3f, f3-2f)
+NegatedAtom at_right_l(rightl1, f2-3f, f3-3f, f3-2f)
 end_variable
 begin_variable
 var1226
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-2f, f3-3f, f2-3f)
+NegatedAtom at_right_l(rightl1, f3-2f, f3-3f, f2-3f)
 end_variable
 begin_variable
 var1227
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-3f, f2-3f, f2-2f)
+NegatedAtom at_right_l(rightl1, f3-3f, f2-3f, f2-2f)
 end_variable
 begin_variable
 var1228
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-0f, f7-0f, f7-1f)
+NegatedAtom at_right_l(rightl0, f6-0f, f7-0f, f7-1f)
 end_variable
 begin_variable
 var1229
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-1f, f6-0f, f7-0f)
+NegatedAtom at_right_l(rightl0, f6-1f, f6-0f, f7-0f)
 end_variable
 begin_variable
 var1230
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-0f, f6-0f, f6-1f)
+NegatedAtom at_right_l(rightl0, f7-0f, f6-0f, f6-1f)
 end_variable
 begin_variable
 var1231
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-1f, f7-0f, f6-0f)
+NegatedAtom at_right_l(rightl0, f7-1f, f7-0f, f6-0f)
 end_variable
 begin_variable
 var1232
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-3f, f7-3f, f7-2f)
+NegatedAtom at_right_l(rightl0, f6-3f, f7-3f, f7-2f)
 end_variable
 begin_variable
 var1233
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-2f, f6-3f, f7-3f)
+NegatedAtom at_right_l(rightl0, f6-2f, f6-3f, f7-3f)
 end_variable
 begin_variable
 var1234
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-3f, f6-3f, f6-2f)
+NegatedAtom at_right_l(rightl0, f7-3f, f6-3f, f6-2f)
 end_variable
 begin_variable
 var1235
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-2f, f7-3f, f6-3f)
+NegatedAtom at_right_l(rightl0, f7-2f, f7-3f, f6-3f)
 end_variable
 begin_variable
 var1236
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-0f, f7-0f, f7-1f)
+NegatedAtom at_right_l(rightl1, f6-0f, f7-0f, f7-1f)
 end_variable
 begin_variable
 var1237
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-1f, f6-0f, f7-0f)
+NegatedAtom at_right_l(rightl1, f6-1f, f6-0f, f7-0f)
 end_variable
 begin_variable
 var1238
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-0f, f6-0f, f6-1f)
+NegatedAtom at_right_l(rightl1, f7-0f, f6-0f, f6-1f)
 end_variable
 begin_variable
 var1239
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-1f, f7-0f, f6-0f)
+NegatedAtom at_right_l(rightl1, f7-1f, f7-0f, f6-0f)
 end_variable
 begin_variable
 var1240
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-1f, f2-0f, f3-0f)
+NegatedAtom at_right_l(rightl2, f2-1f, f2-0f, f3-0f)
 end_variable
 begin_variable
 var1241
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-0f, f3-0f, f3-1f)
+NegatedAtom at_right_l(rightl2, f2-0f, f3-0f, f3-1f)
 end_variable
 begin_variable
 var1242
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-1f, f3-0f, f2-0f)
+NegatedAtom at_right_l(rightl2, f3-1f, f3-0f, f2-0f)
 end_variable
 begin_variable
 var1243
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-0f, f2-0f, f2-1f)
+NegatedAtom at_right_l(rightl2, f3-0f, f2-0f, f2-1f)
 end_variable
 begin_variable
 var1244
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-2f, f2-3f, f3-3f)
+NegatedAtom at_right_l(rightl2, f2-2f, f2-3f, f3-3f)
 end_variable
 begin_variable
 var1245
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-3f, f3-3f, f3-2f)
+NegatedAtom at_right_l(rightl2, f2-3f, f3-3f, f3-2f)
 end_variable
 begin_variable
 var1246
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-2f, f3-3f, f2-3f)
+NegatedAtom at_right_l(rightl2, f3-2f, f3-3f, f2-3f)
 end_variable
 begin_variable
 var1247
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-3f, f2-3f, f2-2f)
+NegatedAtom at_right_l(rightl2, f3-3f, f2-3f, f2-2f)
 end_variable
 begin_variable
 var1248
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-0f, f7-0f, f7-1f)
+NegatedAtom at_right_l(rightl2, f6-0f, f7-0f, f7-1f)
 end_variable
 begin_variable
 var1249
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-1f, f6-0f, f7-0f)
+NegatedAtom at_right_l(rightl2, f6-1f, f6-0f, f7-0f)
 end_variable
 begin_variable
 var1250
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-0f, f6-0f, f6-1f)
+NegatedAtom at_right_l(rightl2, f7-0f, f6-0f, f6-1f)
 end_variable
 begin_variable
 var1251
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-1f, f7-0f, f6-0f)
+NegatedAtom at_right_l(rightl2, f7-1f, f7-0f, f6-0f)
 end_variable
 begin_variable
 var1252
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-3f, f7-3f, f7-2f)
+NegatedAtom at_right_l(rightl1, f6-3f, f7-3f, f7-2f)
 end_variable
 begin_variable
 var1253
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-2f, f6-3f, f7-3f)
+NegatedAtom at_right_l(rightl1, f6-2f, f6-3f, f7-3f)
 end_variable
 begin_variable
 var1254
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-3f, f6-3f, f6-2f)
+NegatedAtom at_right_l(rightl1, f7-3f, f6-3f, f6-2f)
 end_variable
 begin_variable
 var1255
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-2f, f7-3f, f6-3f)
+NegatedAtom at_right_l(rightl1, f7-2f, f7-3f, f6-3f)
 end_variable
 begin_variable
 var1256
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-3f, f7-3f, f7-2f)
+NegatedAtom at_right_l(rightl2, f6-3f, f7-3f, f7-2f)
 end_variable
 begin_variable
 var1257
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-2f, f6-3f, f7-3f)
+NegatedAtom at_right_l(rightl2, f6-2f, f6-3f, f7-3f)
 end_variable
 begin_variable
 var1258
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-3f, f6-3f, f6-2f)
+NegatedAtom at_right_l(rightl2, f7-3f, f6-3f, f6-2f)
 end_variable
 begin_variable
 var1259
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-2f, f7-3f, f6-3f)
+NegatedAtom at_right_l(rightl2, f7-2f, f7-3f, f6-3f)
 end_variable
 begin_variable
 var1260
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-2f, f3-3f, f4-3f)
+NegatedAtom at_right_l(rightl0, f3-2f, f3-3f, f4-3f)
 end_variable
 begin_variable
 var1261
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-3f, f4-3f, f4-2f)
+NegatedAtom at_right_l(rightl0, f3-3f, f4-3f, f4-2f)
 end_variable
 begin_variable
 var1262
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-2f, f4-3f, f3-3f)
+NegatedAtom at_right_l(rightl0, f4-2f, f4-3f, f3-3f)
 end_variable
 begin_variable
 var1263
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-3f, f3-3f, f3-2f)
+NegatedAtom at_right_l(rightl0, f4-3f, f3-3f, f3-2f)
 end_variable
 begin_variable
 var1264
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-1f, f3-0f, f4-0f)
+NegatedAtom at_right_l(rightl0, f3-1f, f3-0f, f4-0f)
 end_variable
 begin_variable
 var1265
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-0f, f4-0f, f4-1f)
+NegatedAtom at_right_l(rightl0, f3-0f, f4-0f, f4-1f)
 end_variable
 begin_variable
 var1266
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-1f, f4-0f, f3-0f)
+NegatedAtom at_right_l(rightl0, f4-1f, f4-0f, f3-0f)
 end_variable
 begin_variable
 var1267
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-0f, f3-0f, f3-1f)
+NegatedAtom at_right_l(rightl0, f4-0f, f3-0f, f3-1f)
 end_variable
 begin_variable
 var1268
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-1f, f3-0f, f4-0f)
+NegatedAtom at_right_l(rightl1, f3-1f, f3-0f, f4-0f)
 end_variable
 begin_variable
 var1269
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-0f, f4-0f, f4-1f)
+NegatedAtom at_right_l(rightl1, f3-0f, f4-0f, f4-1f)
 end_variable
 begin_variable
 var1270
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-1f, f4-0f, f3-0f)
+NegatedAtom at_right_l(rightl1, f4-1f, f4-0f, f3-0f)
 end_variable
 begin_variable
 var1271
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-0f, f3-0f, f3-1f)
+NegatedAtom at_right_l(rightl1, f4-0f, f3-0f, f3-1f)
 end_variable
 begin_variable
 var1272
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-2f, f3-3f, f4-3f)
+NegatedAtom at_right_l(rightl1, f3-2f, f3-3f, f4-3f)
 end_variable
 begin_variable
 var1273
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-3f, f4-3f, f4-2f)
+NegatedAtom at_right_l(rightl1, f3-3f, f4-3f, f4-2f)
 end_variable
 begin_variable
 var1274
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-2f, f4-3f, f3-3f)
+NegatedAtom at_right_l(rightl1, f4-2f, f4-3f, f3-3f)
 end_variable
 begin_variable
 var1275
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-3f, f3-3f, f3-2f)
+NegatedAtom at_right_l(rightl1, f4-3f, f3-3f, f3-2f)
 end_variable
 begin_variable
 var1276
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-0f, f6-0f, f6-1f)
+NegatedAtom at_right_l(rightl0, f5-0f, f6-0f, f6-1f)
 end_variable
 begin_variable
 var1277
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-0f, f5-0f, f5-1f)
+NegatedAtom at_right_l(rightl0, f4-0f, f5-0f, f5-1f)
 end_variable
 begin_variable
 var1278
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-1f, f5-0f, f6-0f)
+NegatedAtom at_right_l(rightl0, f5-1f, f5-0f, f6-0f)
 end_variable
 begin_variable
 var1279
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-1f, f4-0f, f5-0f)
+NegatedAtom at_right_l(rightl0, f4-1f, f4-0f, f5-0f)
 end_variable
 begin_variable
 var1280
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-0f, f5-0f, f5-1f)
+NegatedAtom at_right_l(rightl0, f6-0f, f5-0f, f5-1f)
 end_variable
 begin_variable
 var1281
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-0f, f4-0f, f4-1f)
+NegatedAtom at_right_l(rightl0, f5-0f, f4-0f, f4-1f)
 end_variable
 begin_variable
 var1282
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-1f, f6-0f, f5-0f)
+NegatedAtom at_right_l(rightl0, f6-1f, f6-0f, f5-0f)
 end_variable
 begin_variable
 var1283
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-1f, f5-0f, f4-0f)
+NegatedAtom at_right_l(rightl0, f5-1f, f5-0f, f4-0f)
 end_variable
 begin_variable
 var1284
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-3f, f6-3f, f6-2f)
+NegatedAtom at_right_l(rightl0, f5-3f, f6-3f, f6-2f)
 end_variable
 begin_variable
 var1285
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-3f, f5-3f, f5-2f)
+NegatedAtom at_right_l(rightl0, f4-3f, f5-3f, f5-2f)
 end_variable
 begin_variable
 var1286
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-2f, f5-3f, f6-3f)
+NegatedAtom at_right_l(rightl0, f5-2f, f5-3f, f6-3f)
 end_variable
 begin_variable
 var1287
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-2f, f4-3f, f5-3f)
+NegatedAtom at_right_l(rightl0, f4-2f, f4-3f, f5-3f)
 end_variable
 begin_variable
 var1288
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-3f, f5-3f, f5-2f)
+NegatedAtom at_right_l(rightl0, f6-3f, f5-3f, f5-2f)
 end_variable
 begin_variable
 var1289
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-3f, f4-3f, f4-2f)
+NegatedAtom at_right_l(rightl0, f5-3f, f4-3f, f4-2f)
 end_variable
 begin_variable
 var1290
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-2f, f6-3f, f5-3f)
+NegatedAtom at_right_l(rightl0, f6-2f, f6-3f, f5-3f)
 end_variable
 begin_variable
 var1291
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-2f, f5-3f, f4-3f)
+NegatedAtom at_right_l(rightl0, f5-2f, f5-3f, f4-3f)
 end_variable
 begin_variable
 var1292
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-0f, f6-0f, f6-1f)
+NegatedAtom at_right_l(rightl1, f5-0f, f6-0f, f6-1f)
 end_variable
 begin_variable
 var1293
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-0f, f5-0f, f5-1f)
+NegatedAtom at_right_l(rightl1, f4-0f, f5-0f, f5-1f)
 end_variable
 begin_variable
 var1294
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-1f, f5-0f, f6-0f)
+NegatedAtom at_right_l(rightl1, f5-1f, f5-0f, f6-0f)
 end_variable
 begin_variable
 var1295
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-1f, f4-0f, f5-0f)
+NegatedAtom at_right_l(rightl1, f4-1f, f4-0f, f5-0f)
 end_variable
 begin_variable
 var1296
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-0f, f5-0f, f5-1f)
+NegatedAtom at_right_l(rightl1, f6-0f, f5-0f, f5-1f)
 end_variable
 begin_variable
 var1297
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-0f, f4-0f, f4-1f)
+NegatedAtom at_right_l(rightl1, f5-0f, f4-0f, f4-1f)
 end_variable
 begin_variable
 var1298
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-1f, f6-0f, f5-0f)
+NegatedAtom at_right_l(rightl1, f6-1f, f6-0f, f5-0f)
 end_variable
 begin_variable
 var1299
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-1f, f5-0f, f4-0f)
+NegatedAtom at_right_l(rightl1, f5-1f, f5-0f, f4-0f)
 end_variable
 begin_variable
 var1300
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-1f, f3-0f, f4-0f)
+NegatedAtom at_right_l(rightl2, f3-1f, f3-0f, f4-0f)
 end_variable
 begin_variable
 var1301
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-0f, f4-0f, f4-1f)
+NegatedAtom at_right_l(rightl2, f3-0f, f4-0f, f4-1f)
 end_variable
 begin_variable
 var1302
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-1f, f4-0f, f3-0f)
+NegatedAtom at_right_l(rightl2, f4-1f, f4-0f, f3-0f)
 end_variable
 begin_variable
 var1303
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-0f, f3-0f, f3-1f)
+NegatedAtom at_right_l(rightl2, f4-0f, f3-0f, f3-1f)
 end_variable
 begin_variable
 var1304
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-2f, f3-3f, f4-3f)
+NegatedAtom at_right_l(rightl2, f3-2f, f3-3f, f4-3f)
 end_variable
 begin_variable
 var1305
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-3f, f4-3f, f4-2f)
+NegatedAtom at_right_l(rightl2, f3-3f, f4-3f, f4-2f)
 end_variable
 begin_variable
 var1306
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-2f, f4-3f, f3-3f)
+NegatedAtom at_right_l(rightl2, f4-2f, f4-3f, f3-3f)
 end_variable
 begin_variable
 var1307
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-3f, f3-3f, f3-2f)
+NegatedAtom at_right_l(rightl2, f4-3f, f3-3f, f3-2f)
 end_variable
 begin_variable
 var1308
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-0f, f6-0f, f6-1f)
+NegatedAtom at_right_l(rightl2, f5-0f, f6-0f, f6-1f)
 end_variable
 begin_variable
 var1309
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-0f, f5-0f, f5-1f)
+NegatedAtom at_right_l(rightl2, f4-0f, f5-0f, f5-1f)
 end_variable
 begin_variable
 var1310
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-1f, f5-0f, f6-0f)
+NegatedAtom at_right_l(rightl2, f5-1f, f5-0f, f6-0f)
 end_variable
 begin_variable
 var1311
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-1f, f4-0f, f5-0f)
+NegatedAtom at_right_l(rightl2, f4-1f, f4-0f, f5-0f)
 end_variable
 begin_variable
 var1312
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-0f, f5-0f, f5-1f)
+NegatedAtom at_right_l(rightl2, f6-0f, f5-0f, f5-1f)
 end_variable
 begin_variable
 var1313
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-0f, f4-0f, f4-1f)
+NegatedAtom at_right_l(rightl2, f5-0f, f4-0f, f4-1f)
 end_variable
 begin_variable
 var1314
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-1f, f6-0f, f5-0f)
+NegatedAtom at_right_l(rightl2, f6-1f, f6-0f, f5-0f)
 end_variable
 begin_variable
 var1315
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-1f, f5-0f, f4-0f)
+NegatedAtom at_right_l(rightl2, f5-1f, f5-0f, f4-0f)
 end_variable
 begin_variable
 var1316
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-3f, f6-3f, f6-2f)
+NegatedAtom at_right_l(rightl1, f5-3f, f6-3f, f6-2f)
 end_variable
 begin_variable
 var1317
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-3f, f5-3f, f5-2f)
+NegatedAtom at_right_l(rightl1, f4-3f, f5-3f, f5-2f)
 end_variable
 begin_variable
 var1318
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-2f, f5-3f, f6-3f)
+NegatedAtom at_right_l(rightl1, f5-2f, f5-3f, f6-3f)
 end_variable
 begin_variable
 var1319
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-2f, f4-3f, f5-3f)
+NegatedAtom at_right_l(rightl1, f4-2f, f4-3f, f5-3f)
 end_variable
 begin_variable
 var1320
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-3f, f5-3f, f5-2f)
+NegatedAtom at_right_l(rightl1, f6-3f, f5-3f, f5-2f)
 end_variable
 begin_variable
 var1321
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-3f, f4-3f, f4-2f)
+NegatedAtom at_right_l(rightl1, f5-3f, f4-3f, f4-2f)
 end_variable
 begin_variable
 var1322
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-2f, f6-3f, f5-3f)
+NegatedAtom at_right_l(rightl1, f6-2f, f6-3f, f5-3f)
 end_variable
 begin_variable
 var1323
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-2f, f5-3f, f4-3f)
+NegatedAtom at_right_l(rightl1, f5-2f, f5-3f, f4-3f)
 end_variable
 begin_variable
 var1324
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-3f, f6-3f, f6-2f)
+NegatedAtom at_right_l(rightl2, f5-3f, f6-3f, f6-2f)
 end_variable
 begin_variable
 var1325
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-3f, f5-3f, f5-2f)
+NegatedAtom at_right_l(rightl2, f4-3f, f5-3f, f5-2f)
 end_variable
 begin_variable
 var1326
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-2f, f5-3f, f6-3f)
+NegatedAtom at_right_l(rightl2, f5-2f, f5-3f, f6-3f)
 end_variable
 begin_variable
 var1327
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-2f, f4-3f, f5-3f)
+NegatedAtom at_right_l(rightl2, f4-2f, f4-3f, f5-3f)
 end_variable
 begin_variable
 var1328
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-3f, f5-3f, f5-2f)
+NegatedAtom at_right_l(rightl2, f6-3f, f5-3f, f5-2f)
 end_variable
 begin_variable
 var1329
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-3f, f4-3f, f4-2f)
+NegatedAtom at_right_l(rightl2, f5-3f, f4-3f, f4-2f)
 end_variable
 begin_variable
 var1330
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-2f, f6-3f, f5-3f)
+NegatedAtom at_right_l(rightl2, f6-2f, f6-3f, f5-3f)
 end_variable
 begin_variable
 var1331
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-2f, f5-3f, f4-3f)
+NegatedAtom at_right_l(rightl2, f5-2f, f5-3f, f4-3f)
 end_variable
 begin_variable
 var1332
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f0-1f, f1-1f, f1-2f)
+NegatedAtom at_right_l(rightl0, f0-1f, f1-1f, f1-2f)
 end_variable
 begin_variable
 var1333
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f0-2f, f1-2f, f1-1f)
+NegatedAtom at_right_l(rightl0, f0-2f, f1-2f, f1-1f)
 end_variable
 begin_variable
 var1334
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-1f, f1-2f, f0-2f)
+NegatedAtom at_right_l(rightl0, f1-1f, f1-2f, f0-2f)
 end_variable
 begin_variable
 var1335
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-2f, f1-1f, f0-1f)
+NegatedAtom at_right_l(rightl0, f1-2f, f1-1f, f0-1f)
 end_variable
 begin_variable
 var1336
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f0-2f, f1-2f, f1-1f)
+NegatedAtom at_right_l(rightl1, f0-2f, f1-2f, f1-1f)
 end_variable
 begin_variable
 var1337
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f0-1f, f1-1f, f1-2f)
+NegatedAtom at_right_l(rightl1, f0-1f, f1-1f, f1-2f)
 end_variable
 begin_variable
 var1338
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-2f, f1-1f, f0-1f)
+NegatedAtom at_right_l(rightl1, f1-2f, f1-1f, f0-1f)
 end_variable
 begin_variable
 var1339
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-1f, f1-2f, f0-2f)
+NegatedAtom at_right_l(rightl1, f1-1f, f1-2f, f0-2f)
 end_variable
 begin_variable
 var1340
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-1f, f8-2f, f9-2f)
+NegatedAtom at_right_l(rightl0, f8-1f, f8-2f, f9-2f)
 end_variable
 begin_variable
 var1341
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-2f, f8-1f, f9-1f)
+NegatedAtom at_right_l(rightl0, f8-2f, f8-1f, f9-1f)
 end_variable
 begin_variable
 var1342
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f9-1f, f8-1f, f8-2f)
+NegatedAtom at_right_l(rightl0, f9-1f, f8-1f, f8-2f)
 end_variable
 begin_variable
 var1343
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f9-2f, f8-2f, f8-1f)
+NegatedAtom at_right_l(rightl0, f9-2f, f8-2f, f8-1f)
 end_variable
 begin_variable
 var1344
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-1f, f8-2f, f9-2f)
+NegatedAtom at_right_l(rightl1, f8-1f, f8-2f, f9-2f)
 end_variable
 begin_variable
 var1345
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-2f, f8-1f, f9-1f)
+NegatedAtom at_right_l(rightl1, f8-2f, f8-1f, f9-1f)
 end_variable
 begin_variable
 var1346
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f9-1f, f8-1f, f8-2f)
+NegatedAtom at_right_l(rightl1, f9-1f, f8-1f, f8-2f)
 end_variable
 begin_variable
 var1347
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f9-2f, f8-2f, f8-1f)
+NegatedAtom at_right_l(rightl1, f9-2f, f8-2f, f8-1f)
 end_variable
 begin_variable
 var1348
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f0-2f, f1-2f, f1-1f)
+NegatedAtom at_right_l(rightl2, f0-2f, f1-2f, f1-1f)
 end_variable
 begin_variable
 var1349
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f0-1f, f1-1f, f1-2f)
+NegatedAtom at_right_l(rightl2, f0-1f, f1-1f, f1-2f)
 end_variable
 begin_variable
 var1350
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-2f, f1-1f, f0-1f)
+NegatedAtom at_right_l(rightl2, f1-2f, f1-1f, f0-1f)
 end_variable
 begin_variable
 var1351
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-1f, f1-2f, f0-2f)
+NegatedAtom at_right_l(rightl2, f1-1f, f1-2f, f0-2f)
 end_variable
 begin_variable
 var1352
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-1f, f8-2f, f9-2f)
+NegatedAtom at_right_l(rightl2, f8-1f, f8-2f, f9-2f)
 end_variable
 begin_variable
 var1353
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-2f, f8-1f, f9-1f)
+NegatedAtom at_right_l(rightl2, f8-2f, f8-1f, f9-1f)
 end_variable
 begin_variable
 var1354
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f9-1f, f8-1f, f8-2f)
+NegatedAtom at_right_l(rightl2, f9-1f, f8-1f, f8-2f)
 end_variable
 begin_variable
 var1355
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f9-2f, f8-2f, f8-1f)
+NegatedAtom at_right_l(rightl2, f9-2f, f8-2f, f8-1f)
 end_variable
 begin_variable
 var1356
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-3f, f1-2f, f2-2f)
+NegatedAtom at_right_l(rightl0, f1-3f, f1-2f, f2-2f)
 end_variable
 begin_variable
 var1357
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-2f, f2-2f, f2-3f)
+NegatedAtom at_right_l(rightl0, f1-2f, f2-2f, f2-3f)
 end_variable
 begin_variable
 var1358
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-3f, f2-2f, f1-2f)
+NegatedAtom at_right_l(rightl0, f2-3f, f2-2f, f1-2f)
 end_variable
 begin_variable
 var1359
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-2f, f1-2f, f1-3f)
+NegatedAtom at_right_l(rightl0, f2-2f, f1-2f, f1-3f)
 end_variable
 begin_variable
 var1360
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-0f, f1-1f, f2-1f)
+NegatedAtom at_right_l(rightl0, f1-0f, f1-1f, f2-1f)
 end_variable
 begin_variable
 var1361
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-1f, f2-1f, f2-0f)
+NegatedAtom at_right_l(rightl0, f1-1f, f2-1f, f2-0f)
 end_variable
 begin_variable
 var1362
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-0f, f2-1f, f1-1f)
+NegatedAtom at_right_l(rightl0, f2-0f, f2-1f, f1-1f)
 end_variable
 begin_variable
 var1363
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-1f, f1-1f, f1-0f)
+NegatedAtom at_right_l(rightl0, f2-1f, f1-1f, f1-0f)
 end_variable
 begin_variable
 var1364
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-0f, f1-1f, f2-1f)
+NegatedAtom at_right_l(rightl1, f1-0f, f1-1f, f2-1f)
 end_variable
 begin_variable
 var1365
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-1f, f2-1f, f2-0f)
+NegatedAtom at_right_l(rightl1, f1-1f, f2-1f, f2-0f)
 end_variable
 begin_variable
 var1366
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-0f, f2-1f, f1-1f)
+NegatedAtom at_right_l(rightl1, f2-0f, f2-1f, f1-1f)
 end_variable
 begin_variable
 var1367
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-1f, f1-1f, f1-0f)
+NegatedAtom at_right_l(rightl1, f2-1f, f1-1f, f1-0f)
 end_variable
 begin_variable
 var1368
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-3f, f1-2f, f2-2f)
+NegatedAtom at_right_l(rightl1, f1-3f, f1-2f, f2-2f)
 end_variable
 begin_variable
 var1369
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-2f, f2-2f, f2-3f)
+NegatedAtom at_right_l(rightl1, f1-2f, f2-2f, f2-3f)
 end_variable
 begin_variable
 var1370
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-3f, f2-2f, f1-2f)
+NegatedAtom at_right_l(rightl1, f2-3f, f2-2f, f1-2f)
 end_variable
 begin_variable
 var1371
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-2f, f1-2f, f1-3f)
+NegatedAtom at_right_l(rightl1, f2-2f, f1-2f, f1-3f)
 end_variable
 begin_variable
 var1372
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-1f, f8-1f, f8-0f)
+NegatedAtom at_right_l(rightl0, f7-1f, f8-1f, f8-0f)
 end_variable
 begin_variable
 var1373
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-0f, f7-1f, f8-1f)
+NegatedAtom at_right_l(rightl0, f7-0f, f7-1f, f8-1f)
 end_variable
 begin_variable
 var1374
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-1f, f7-1f, f7-0f)
+NegatedAtom at_right_l(rightl0, f8-1f, f7-1f, f7-0f)
 end_variable
 begin_variable
 var1375
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-0f, f8-1f, f7-1f)
+NegatedAtom at_right_l(rightl0, f8-0f, f8-1f, f7-1f)
 end_variable
 begin_variable
 var1376
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-2f, f8-2f, f8-3f)
+NegatedAtom at_right_l(rightl0, f7-2f, f8-2f, f8-3f)
 end_variable
 begin_variable
 var1377
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-3f, f7-2f, f8-2f)
+NegatedAtom at_right_l(rightl0, f7-3f, f7-2f, f8-2f)
 end_variable
 begin_variable
 var1378
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-2f, f7-2f, f7-3f)
+NegatedAtom at_right_l(rightl0, f8-2f, f7-2f, f7-3f)
 end_variable
 begin_variable
 var1379
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-3f, f8-2f, f7-2f)
+NegatedAtom at_right_l(rightl0, f8-3f, f8-2f, f7-2f)
 end_variable
 begin_variable
 var1380
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-1f, f8-1f, f8-0f)
+NegatedAtom at_right_l(rightl1, f7-1f, f8-1f, f8-0f)
 end_variable
 begin_variable
 var1381
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-0f, f7-1f, f8-1f)
+NegatedAtom at_right_l(rightl1, f7-0f, f7-1f, f8-1f)
 end_variable
 begin_variable
 var1382
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-1f, f7-1f, f7-0f)
+NegatedAtom at_right_l(rightl1, f8-1f, f7-1f, f7-0f)
 end_variable
 begin_variable
 var1383
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-0f, f8-1f, f7-1f)
+NegatedAtom at_right_l(rightl1, f8-0f, f8-1f, f7-1f)
 end_variable
 begin_variable
 var1384
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-0f, f1-1f, f2-1f)
+NegatedAtom at_right_l(rightl2, f1-0f, f1-1f, f2-1f)
 end_variable
 begin_variable
 var1385
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-1f, f2-1f, f2-0f)
+NegatedAtom at_right_l(rightl2, f1-1f, f2-1f, f2-0f)
 end_variable
 begin_variable
 var1386
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-0f, f2-1f, f1-1f)
+NegatedAtom at_right_l(rightl2, f2-0f, f2-1f, f1-1f)
 end_variable
 begin_variable
 var1387
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-1f, f1-1f, f1-0f)
+NegatedAtom at_right_l(rightl2, f2-1f, f1-1f, f1-0f)
 end_variable
 begin_variable
 var1388
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-3f, f1-2f, f2-2f)
+NegatedAtom at_right_l(rightl2, f1-3f, f1-2f, f2-2f)
 end_variable
 begin_variable
 var1389
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-2f, f2-2f, f2-3f)
+NegatedAtom at_right_l(rightl2, f1-2f, f2-2f, f2-3f)
 end_variable
 begin_variable
 var1390
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-3f, f2-2f, f1-2f)
+NegatedAtom at_right_l(rightl2, f2-3f, f2-2f, f1-2f)
 end_variable
 begin_variable
 var1391
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-2f, f1-2f, f1-3f)
+NegatedAtom at_right_l(rightl2, f2-2f, f1-2f, f1-3f)
 end_variable
 begin_variable
 var1392
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-1f, f8-1f, f8-0f)
+NegatedAtom at_right_l(rightl2, f7-1f, f8-1f, f8-0f)
 end_variable
 begin_variable
 var1393
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-0f, f7-1f, f8-1f)
+NegatedAtom at_right_l(rightl2, f7-0f, f7-1f, f8-1f)
 end_variable
 begin_variable
 var1394
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-1f, f7-1f, f7-0f)
+NegatedAtom at_right_l(rightl2, f8-1f, f7-1f, f7-0f)
 end_variable
 begin_variable
 var1395
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-0f, f8-1f, f7-1f)
+NegatedAtom at_right_l(rightl2, f8-0f, f8-1f, f7-1f)
 end_variable
 begin_variable
 var1396
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-2f, f8-2f, f8-3f)
+NegatedAtom at_right_l(rightl1, f7-2f, f8-2f, f8-3f)
 end_variable
 begin_variable
 var1397
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-3f, f7-2f, f8-2f)
+NegatedAtom at_right_l(rightl1, f7-3f, f7-2f, f8-2f)
 end_variable
 begin_variable
 var1398
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-2f, f7-2f, f7-3f)
+NegatedAtom at_right_l(rightl1, f8-2f, f7-2f, f7-3f)
 end_variable
 begin_variable
 var1399
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-3f, f8-2f, f7-2f)
+NegatedAtom at_right_l(rightl1, f8-3f, f8-2f, f7-2f)
 end_variable
 begin_variable
 var1400
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-2f, f8-2f, f8-3f)
+NegatedAtom at_right_l(rightl2, f7-2f, f8-2f, f8-3f)
 end_variable
 begin_variable
 var1401
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-3f, f7-2f, f8-2f)
+NegatedAtom at_right_l(rightl2, f7-3f, f7-2f, f8-2f)
 end_variable
 begin_variable
 var1402
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-2f, f7-2f, f7-3f)
+NegatedAtom at_right_l(rightl2, f8-2f, f7-2f, f7-3f)
 end_variable
 begin_variable
 var1403
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-3f, f8-2f, f7-2f)
+NegatedAtom at_right_l(rightl2, f8-3f, f8-2f, f7-2f)
 end_variable
 begin_variable
 var1404
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-3f, f2-2f, f3-2f)
+NegatedAtom at_right_l(rightl0, f2-3f, f2-2f, f3-2f)
 end_variable
 begin_variable
 var1405
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-2f, f3-2f, f3-3f)
+NegatedAtom at_right_l(rightl0, f2-2f, f3-2f, f3-3f)
 end_variable
 begin_variable
 var1406
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-3f, f3-2f, f2-2f)
+NegatedAtom at_right_l(rightl0, f3-3f, f3-2f, f2-2f)
 end_variable
 begin_variable
 var1407
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-2f, f2-2f, f2-3f)
+NegatedAtom at_right_l(rightl0, f3-2f, f2-2f, f2-3f)
 end_variable
 begin_variable
 var1408
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-0f, f2-1f, f3-1f)
+NegatedAtom at_right_l(rightl0, f2-0f, f2-1f, f3-1f)
 end_variable
 begin_variable
 var1409
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-1f, f3-1f, f3-0f)
+NegatedAtom at_right_l(rightl0, f2-1f, f3-1f, f3-0f)
 end_variable
 begin_variable
 var1410
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-0f, f3-1f, f2-1f)
+NegatedAtom at_right_l(rightl0, f3-0f, f3-1f, f2-1f)
 end_variable
 begin_variable
 var1411
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-1f, f2-1f, f2-0f)
+NegatedAtom at_right_l(rightl0, f3-1f, f2-1f, f2-0f)
 end_variable
 begin_variable
 var1412
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-0f, f2-1f, f3-1f)
+NegatedAtom at_right_l(rightl1, f2-0f, f2-1f, f3-1f)
 end_variable
 begin_variable
 var1413
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-1f, f3-1f, f3-0f)
+NegatedAtom at_right_l(rightl1, f2-1f, f3-1f, f3-0f)
 end_variable
 begin_variable
 var1414
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-0f, f3-1f, f2-1f)
+NegatedAtom at_right_l(rightl1, f3-0f, f3-1f, f2-1f)
 end_variable
 begin_variable
 var1415
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-1f, f2-1f, f2-0f)
+NegatedAtom at_right_l(rightl1, f3-1f, f2-1f, f2-0f)
 end_variable
 begin_variable
 var1416
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-3f, f2-2f, f3-2f)
+NegatedAtom at_right_l(rightl1, f2-3f, f2-2f, f3-2f)
 end_variable
 begin_variable
 var1417
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-2f, f3-2f, f3-3f)
+NegatedAtom at_right_l(rightl1, f2-2f, f3-2f, f3-3f)
 end_variable
 begin_variable
 var1418
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-3f, f3-2f, f2-2f)
+NegatedAtom at_right_l(rightl1, f3-3f, f3-2f, f2-2f)
 end_variable
 begin_variable
 var1419
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-2f, f2-2f, f2-3f)
+NegatedAtom at_right_l(rightl1, f3-2f, f2-2f, f2-3f)
 end_variable
 begin_variable
 var1420
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-1f, f7-1f, f7-0f)
+NegatedAtom at_right_l(rightl0, f6-1f, f7-1f, f7-0f)
 end_variable
 begin_variable
 var1421
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-0f, f6-1f, f7-1f)
+NegatedAtom at_right_l(rightl0, f6-0f, f6-1f, f7-1f)
 end_variable
 begin_variable
 var1422
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-1f, f6-1f, f6-0f)
+NegatedAtom at_right_l(rightl0, f7-1f, f6-1f, f6-0f)
 end_variable
 begin_variable
 var1423
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-0f, f7-1f, f6-1f)
+NegatedAtom at_right_l(rightl0, f7-0f, f7-1f, f6-1f)
 end_variable
 begin_variable
 var1424
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-2f, f7-2f, f7-3f)
+NegatedAtom at_right_l(rightl0, f6-2f, f7-2f, f7-3f)
 end_variable
 begin_variable
 var1425
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-3f, f6-2f, f7-2f)
+NegatedAtom at_right_l(rightl0, f6-3f, f6-2f, f7-2f)
 end_variable
 begin_variable
 var1426
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-2f, f6-2f, f6-3f)
+NegatedAtom at_right_l(rightl0, f7-2f, f6-2f, f6-3f)
 end_variable
 begin_variable
 var1427
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-3f, f7-2f, f6-2f)
+NegatedAtom at_right_l(rightl0, f7-3f, f7-2f, f6-2f)
 end_variable
 begin_variable
 var1428
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-1f, f7-1f, f7-0f)
+NegatedAtom at_right_l(rightl1, f6-1f, f7-1f, f7-0f)
 end_variable
 begin_variable
 var1429
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-0f, f6-1f, f7-1f)
+NegatedAtom at_right_l(rightl1, f6-0f, f6-1f, f7-1f)
 end_variable
 begin_variable
 var1430
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-1f, f6-1f, f6-0f)
+NegatedAtom at_right_l(rightl1, f7-1f, f6-1f, f6-0f)
 end_variable
 begin_variable
 var1431
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-0f, f7-1f, f6-1f)
+NegatedAtom at_right_l(rightl1, f7-0f, f7-1f, f6-1f)
 end_variable
 begin_variable
 var1432
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-0f, f2-1f, f3-1f)
+NegatedAtom at_right_l(rightl2, f2-0f, f2-1f, f3-1f)
 end_variable
 begin_variable
 var1433
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-1f, f3-1f, f3-0f)
+NegatedAtom at_right_l(rightl2, f2-1f, f3-1f, f3-0f)
 end_variable
 begin_variable
 var1434
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-0f, f3-1f, f2-1f)
+NegatedAtom at_right_l(rightl2, f3-0f, f3-1f, f2-1f)
 end_variable
 begin_variable
 var1435
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-1f, f2-1f, f2-0f)
+NegatedAtom at_right_l(rightl2, f3-1f, f2-1f, f2-0f)
 end_variable
 begin_variable
 var1436
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-3f, f2-2f, f3-2f)
+NegatedAtom at_right_l(rightl2, f2-3f, f2-2f, f3-2f)
 end_variable
 begin_variable
 var1437
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-2f, f3-2f, f3-3f)
+NegatedAtom at_right_l(rightl2, f2-2f, f3-2f, f3-3f)
 end_variable
 begin_variable
 var1438
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-3f, f3-2f, f2-2f)
+NegatedAtom at_right_l(rightl2, f3-3f, f3-2f, f2-2f)
 end_variable
 begin_variable
 var1439
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-2f, f2-2f, f2-3f)
+NegatedAtom at_right_l(rightl2, f3-2f, f2-2f, f2-3f)
 end_variable
 begin_variable
 var1440
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-1f, f7-1f, f7-0f)
+NegatedAtom at_right_l(rightl2, f6-1f, f7-1f, f7-0f)
 end_variable
 begin_variable
 var1441
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-0f, f6-1f, f7-1f)
+NegatedAtom at_right_l(rightl2, f6-0f, f6-1f, f7-1f)
 end_variable
 begin_variable
 var1442
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-1f, f6-1f, f6-0f)
+NegatedAtom at_right_l(rightl2, f7-1f, f6-1f, f6-0f)
 end_variable
 begin_variable
 var1443
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-0f, f7-1f, f6-1f)
+NegatedAtom at_right_l(rightl2, f7-0f, f7-1f, f6-1f)
 end_variable
 begin_variable
 var1444
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-2f, f7-2f, f7-3f)
+NegatedAtom at_right_l(rightl1, f6-2f, f7-2f, f7-3f)
 end_variable
 begin_variable
 var1445
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-3f, f6-2f, f7-2f)
+NegatedAtom at_right_l(rightl1, f6-3f, f6-2f, f7-2f)
 end_variable
 begin_variable
 var1446
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-2f, f6-2f, f6-3f)
+NegatedAtom at_right_l(rightl1, f7-2f, f6-2f, f6-3f)
 end_variable
 begin_variable
 var1447
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-3f, f7-2f, f6-2f)
+NegatedAtom at_right_l(rightl1, f7-3f, f7-2f, f6-2f)
 end_variable
 begin_variable
 var1448
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-2f, f7-2f, f7-3f)
+NegatedAtom at_right_l(rightl2, f6-2f, f7-2f, f7-3f)
 end_variable
 begin_variable
 var1449
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-3f, f6-2f, f7-2f)
+NegatedAtom at_right_l(rightl2, f6-3f, f6-2f, f7-2f)
 end_variable
 begin_variable
 var1450
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-2f, f6-2f, f6-3f)
+NegatedAtom at_right_l(rightl2, f7-2f, f6-2f, f6-3f)
 end_variable
 begin_variable
 var1451
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-3f, f7-2f, f6-2f)
+NegatedAtom at_right_l(rightl2, f7-3f, f7-2f, f6-2f)
 end_variable
 begin_variable
 var1452
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-3f, f3-2f, f4-2f)
+NegatedAtom at_right_l(rightl0, f3-3f, f3-2f, f4-2f)
 end_variable
 begin_variable
 var1453
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-2f, f4-2f, f4-3f)
+NegatedAtom at_right_l(rightl0, f3-2f, f4-2f, f4-3f)
 end_variable
 begin_variable
 var1454
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-3f, f4-2f, f3-2f)
+NegatedAtom at_right_l(rightl0, f4-3f, f4-2f, f3-2f)
 end_variable
 begin_variable
 var1455
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-2f, f3-2f, f3-3f)
+NegatedAtom at_right_l(rightl0, f4-2f, f3-2f, f3-3f)
 end_variable
 begin_variable
 var1456
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-0f, f3-1f, f4-1f)
+NegatedAtom at_right_l(rightl0, f3-0f, f3-1f, f4-1f)
 end_variable
 begin_variable
 var1457
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-1f, f4-1f, f4-0f)
+NegatedAtom at_right_l(rightl0, f3-1f, f4-1f, f4-0f)
 end_variable
 begin_variable
 var1458
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-0f, f4-1f, f3-1f)
+NegatedAtom at_right_l(rightl0, f4-0f, f4-1f, f3-1f)
 end_variable
 begin_variable
 var1459
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-1f, f3-1f, f3-0f)
+NegatedAtom at_right_l(rightl0, f4-1f, f3-1f, f3-0f)
 end_variable
 begin_variable
 var1460
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-0f, f3-1f, f4-1f)
+NegatedAtom at_right_l(rightl1, f3-0f, f3-1f, f4-1f)
 end_variable
 begin_variable
 var1461
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-1f, f4-1f, f4-0f)
+NegatedAtom at_right_l(rightl1, f3-1f, f4-1f, f4-0f)
 end_variable
 begin_variable
 var1462
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-0f, f4-1f, f3-1f)
+NegatedAtom at_right_l(rightl1, f4-0f, f4-1f, f3-1f)
 end_variable
 begin_variable
 var1463
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-1f, f3-1f, f3-0f)
+NegatedAtom at_right_l(rightl1, f4-1f, f3-1f, f3-0f)
 end_variable
 begin_variable
 var1464
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-3f, f3-2f, f4-2f)
+NegatedAtom at_right_l(rightl1, f3-3f, f3-2f, f4-2f)
 end_variable
 begin_variable
 var1465
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-2f, f4-2f, f4-3f)
+NegatedAtom at_right_l(rightl1, f3-2f, f4-2f, f4-3f)
 end_variable
 begin_variable
 var1466
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-3f, f4-2f, f3-2f)
+NegatedAtom at_right_l(rightl1, f4-3f, f4-2f, f3-2f)
 end_variable
 begin_variable
 var1467
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-2f, f3-2f, f3-3f)
+NegatedAtom at_right_l(rightl1, f4-2f, f3-2f, f3-3f)
 end_variable
 begin_variable
 var1468
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-1f, f6-1f, f6-0f)
+NegatedAtom at_right_l(rightl0, f5-1f, f6-1f, f6-0f)
 end_variable
 begin_variable
 var1469
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-1f, f5-1f, f5-0f)
+NegatedAtom at_right_l(rightl0, f4-1f, f5-1f, f5-0f)
 end_variable
 begin_variable
 var1470
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-0f, f5-1f, f6-1f)
+NegatedAtom at_right_l(rightl0, f5-0f, f5-1f, f6-1f)
 end_variable
 begin_variable
 var1471
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-0f, f4-1f, f5-1f)
+NegatedAtom at_right_l(rightl0, f4-0f, f4-1f, f5-1f)
 end_variable
 begin_variable
 var1472
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-1f, f5-1f, f5-0f)
+NegatedAtom at_right_l(rightl0, f6-1f, f5-1f, f5-0f)
 end_variable
 begin_variable
 var1473
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-1f, f4-1f, f4-0f)
+NegatedAtom at_right_l(rightl0, f5-1f, f4-1f, f4-0f)
 end_variable
 begin_variable
 var1474
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-0f, f6-1f, f5-1f)
+NegatedAtom at_right_l(rightl0, f6-0f, f6-1f, f5-1f)
 end_variable
 begin_variable
 var1475
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-0f, f5-1f, f4-1f)
+NegatedAtom at_right_l(rightl0, f5-0f, f5-1f, f4-1f)
 end_variable
 begin_variable
 var1476
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-2f, f6-2f, f6-3f)
+NegatedAtom at_right_l(rightl0, f5-2f, f6-2f, f6-3f)
 end_variable
 begin_variable
 var1477
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-2f, f5-2f, f5-3f)
+NegatedAtom at_right_l(rightl0, f4-2f, f5-2f, f5-3f)
 end_variable
 begin_variable
 var1478
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-3f, f5-2f, f6-2f)
+NegatedAtom at_right_l(rightl0, f5-3f, f5-2f, f6-2f)
 end_variable
 begin_variable
 var1479
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-3f, f4-2f, f5-2f)
+NegatedAtom at_right_l(rightl0, f4-3f, f4-2f, f5-2f)
 end_variable
 begin_variable
 var1480
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-2f, f5-2f, f5-3f)
+NegatedAtom at_right_l(rightl0, f6-2f, f5-2f, f5-3f)
 end_variable
 begin_variable
 var1481
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-2f, f4-2f, f4-3f)
+NegatedAtom at_right_l(rightl0, f5-2f, f4-2f, f4-3f)
 end_variable
 begin_variable
 var1482
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-3f, f6-2f, f5-2f)
+NegatedAtom at_right_l(rightl0, f6-3f, f6-2f, f5-2f)
 end_variable
 begin_variable
 var1483
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-3f, f5-2f, f4-2f)
+NegatedAtom at_right_l(rightl0, f5-3f, f5-2f, f4-2f)
 end_variable
 begin_variable
 var1484
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-1f, f6-1f, f6-0f)
+NegatedAtom at_right_l(rightl1, f5-1f, f6-1f, f6-0f)
 end_variable
 begin_variable
 var1485
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-1f, f5-1f, f5-0f)
+NegatedAtom at_right_l(rightl1, f4-1f, f5-1f, f5-0f)
 end_variable
 begin_variable
 var1486
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-0f, f5-1f, f6-1f)
+NegatedAtom at_right_l(rightl1, f5-0f, f5-1f, f6-1f)
 end_variable
 begin_variable
 var1487
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-0f, f4-1f, f5-1f)
+NegatedAtom at_right_l(rightl1, f4-0f, f4-1f, f5-1f)
 end_variable
 begin_variable
 var1488
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-1f, f5-1f, f5-0f)
+NegatedAtom at_right_l(rightl1, f6-1f, f5-1f, f5-0f)
 end_variable
 begin_variable
 var1489
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-1f, f4-1f, f4-0f)
+NegatedAtom at_right_l(rightl1, f5-1f, f4-1f, f4-0f)
 end_variable
 begin_variable
 var1490
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-0f, f6-1f, f5-1f)
+NegatedAtom at_right_l(rightl1, f6-0f, f6-1f, f5-1f)
 end_variable
 begin_variable
 var1491
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-0f, f5-1f, f4-1f)
+NegatedAtom at_right_l(rightl1, f5-0f, f5-1f, f4-1f)
 end_variable
 begin_variable
 var1492
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-0f, f3-1f, f4-1f)
+NegatedAtom at_right_l(rightl2, f3-0f, f3-1f, f4-1f)
 end_variable
 begin_variable
 var1493
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-1f, f4-1f, f4-0f)
+NegatedAtom at_right_l(rightl2, f3-1f, f4-1f, f4-0f)
 end_variable
 begin_variable
 var1494
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-0f, f4-1f, f3-1f)
+NegatedAtom at_right_l(rightl2, f4-0f, f4-1f, f3-1f)
 end_variable
 begin_variable
 var1495
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-1f, f3-1f, f3-0f)
+NegatedAtom at_right_l(rightl2, f4-1f, f3-1f, f3-0f)
 end_variable
 begin_variable
 var1496
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-3f, f3-2f, f4-2f)
+NegatedAtom at_right_l(rightl2, f3-3f, f3-2f, f4-2f)
 end_variable
 begin_variable
 var1497
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-2f, f4-2f, f4-3f)
+NegatedAtom at_right_l(rightl2, f3-2f, f4-2f, f4-3f)
 end_variable
 begin_variable
 var1498
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-3f, f4-2f, f3-2f)
+NegatedAtom at_right_l(rightl2, f4-3f, f4-2f, f3-2f)
 end_variable
 begin_variable
 var1499
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-2f, f3-2f, f3-3f)
+NegatedAtom at_right_l(rightl2, f4-2f, f3-2f, f3-3f)
 end_variable
 begin_variable
 var1500
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-1f, f6-1f, f6-0f)
+NegatedAtom at_right_l(rightl2, f5-1f, f6-1f, f6-0f)
 end_variable
 begin_variable
 var1501
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-1f, f5-1f, f5-0f)
+NegatedAtom at_right_l(rightl2, f4-1f, f5-1f, f5-0f)
 end_variable
 begin_variable
 var1502
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-0f, f5-1f, f6-1f)
+NegatedAtom at_right_l(rightl2, f5-0f, f5-1f, f6-1f)
 end_variable
 begin_variable
 var1503
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-0f, f4-1f, f5-1f)
+NegatedAtom at_right_l(rightl2, f4-0f, f4-1f, f5-1f)
 end_variable
 begin_variable
 var1504
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-1f, f5-1f, f5-0f)
+NegatedAtom at_right_l(rightl2, f6-1f, f5-1f, f5-0f)
 end_variable
 begin_variable
 var1505
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-1f, f4-1f, f4-0f)
+NegatedAtom at_right_l(rightl2, f5-1f, f4-1f, f4-0f)
 end_variable
 begin_variable
 var1506
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-0f, f6-1f, f5-1f)
+NegatedAtom at_right_l(rightl2, f6-0f, f6-1f, f5-1f)
 end_variable
 begin_variable
 var1507
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-0f, f5-1f, f4-1f)
+NegatedAtom at_right_l(rightl2, f5-0f, f5-1f, f4-1f)
 end_variable
 begin_variable
 var1508
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-2f, f6-2f, f6-3f)
+NegatedAtom at_right_l(rightl1, f5-2f, f6-2f, f6-3f)
 end_variable
 begin_variable
 var1509
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-2f, f5-2f, f5-3f)
+NegatedAtom at_right_l(rightl1, f4-2f, f5-2f, f5-3f)
 end_variable
 begin_variable
 var1510
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-3f, f5-2f, f6-2f)
+NegatedAtom at_right_l(rightl1, f5-3f, f5-2f, f6-2f)
 end_variable
 begin_variable
 var1511
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-3f, f4-2f, f5-2f)
+NegatedAtom at_right_l(rightl1, f4-3f, f4-2f, f5-2f)
 end_variable
 begin_variable
 var1512
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-2f, f5-2f, f5-3f)
+NegatedAtom at_right_l(rightl1, f6-2f, f5-2f, f5-3f)
 end_variable
 begin_variable
 var1513
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-2f, f4-2f, f4-3f)
+NegatedAtom at_right_l(rightl1, f5-2f, f4-2f, f4-3f)
 end_variable
 begin_variable
 var1514
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-3f, f6-2f, f5-2f)
+NegatedAtom at_right_l(rightl1, f6-3f, f6-2f, f5-2f)
 end_variable
 begin_variable
 var1515
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-3f, f5-2f, f4-2f)
+NegatedAtom at_right_l(rightl1, f5-3f, f5-2f, f4-2f)
 end_variable
 begin_variable
 var1516
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-2f, f6-2f, f6-3f)
+NegatedAtom at_right_l(rightl2, f5-2f, f6-2f, f6-3f)
 end_variable
 begin_variable
 var1517
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-2f, f5-2f, f5-3f)
+NegatedAtom at_right_l(rightl2, f4-2f, f5-2f, f5-3f)
 end_variable
 begin_variable
 var1518
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-3f, f5-2f, f6-2f)
+NegatedAtom at_right_l(rightl2, f5-3f, f5-2f, f6-2f)
 end_variable
 begin_variable
 var1519
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-3f, f4-2f, f5-2f)
+NegatedAtom at_right_l(rightl2, f4-3f, f4-2f, f5-2f)
 end_variable
 begin_variable
 var1520
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-2f, f5-2f, f5-3f)
+NegatedAtom at_right_l(rightl2, f6-2f, f5-2f, f5-3f)
 end_variable
 begin_variable
 var1521
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-2f, f4-2f, f4-3f)
+NegatedAtom at_right_l(rightl2, f5-2f, f4-2f, f4-3f)
 end_variable
 begin_variable
 var1522
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-3f, f6-2f, f5-2f)
+NegatedAtom at_right_l(rightl2, f6-3f, f6-2f, f5-2f)
 end_variable
 begin_variable
 var1523
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-3f, f5-2f, f4-2f)
+NegatedAtom at_right_l(rightl2, f5-3f, f5-2f, f4-2f)
 end_variable
 begin_variable
 var1524
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-1f, f1-2f, f2-2f)
+NegatedAtom at_right_l(rightl0, f1-1f, f1-2f, f2-2f)
 end_variable
 begin_variable
 var1525
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-2f, f1-1f, f2-1f)
+NegatedAtom at_right_l(rightl0, f1-2f, f1-1f, f2-1f)
 end_variable
 begin_variable
 var1526
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-1f, f1-1f, f1-2f)
+NegatedAtom at_right_l(rightl0, f2-1f, f1-1f, f1-2f)
 end_variable
 begin_variable
 var1527
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-2f, f1-2f, f1-1f)
+NegatedAtom at_right_l(rightl0, f2-2f, f1-2f, f1-1f)
 end_variable
 begin_variable
 var1528
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-2f, f1-1f, f2-1f)
+NegatedAtom at_right_l(rightl1, f1-2f, f1-1f, f2-1f)
 end_variable
 begin_variable
 var1529
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-1f, f1-2f, f2-2f)
+NegatedAtom at_right_l(rightl1, f1-1f, f1-2f, f2-2f)
 end_variable
 begin_variable
 var1530
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-2f, f1-2f, f1-1f)
+NegatedAtom at_right_l(rightl1, f2-2f, f1-2f, f1-1f)
 end_variable
 begin_variable
 var1531
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-1f, f1-1f, f1-2f)
+NegatedAtom at_right_l(rightl1, f2-1f, f1-1f, f1-2f)
 end_variable
 begin_variable
 var1532
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-1f, f8-1f, f8-2f)
+NegatedAtom at_right_l(rightl0, f7-1f, f8-1f, f8-2f)
 end_variable
 begin_variable
 var1533
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-2f, f8-2f, f8-1f)
+NegatedAtom at_right_l(rightl0, f7-2f, f8-2f, f8-1f)
 end_variable
 begin_variable
 var1534
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-1f, f8-2f, f7-2f)
+NegatedAtom at_right_l(rightl0, f8-1f, f8-2f, f7-2f)
 end_variable
 begin_variable
 var1535
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-2f, f8-1f, f7-1f)
+NegatedAtom at_right_l(rightl0, f8-2f, f8-1f, f7-1f)
 end_variable
 begin_variable
 var1536
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-2f, f1-1f, f2-1f)
+NegatedAtom at_right_l(rightl2, f1-2f, f1-1f, f2-1f)
 end_variable
 begin_variable
 var1537
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-1f, f1-2f, f2-2f)
+NegatedAtom at_right_l(rightl2, f1-1f, f1-2f, f2-2f)
 end_variable
 begin_variable
 var1538
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-2f, f1-2f, f1-1f)
+NegatedAtom at_right_l(rightl2, f2-2f, f1-2f, f1-1f)
 end_variable
 begin_variable
 var1539
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-1f, f1-1f, f1-2f)
+NegatedAtom at_right_l(rightl2, f2-1f, f1-1f, f1-2f)
 end_variable
 begin_variable
 var1540
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-1f, f8-1f, f8-2f)
+NegatedAtom at_right_l(rightl1, f7-1f, f8-1f, f8-2f)
 end_variable
 begin_variable
 var1541
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-2f, f8-2f, f8-1f)
+NegatedAtom at_right_l(rightl1, f7-2f, f8-2f, f8-1f)
 end_variable
 begin_variable
 var1542
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-1f, f8-2f, f7-2f)
+NegatedAtom at_right_l(rightl1, f8-1f, f8-2f, f7-2f)
 end_variable
 begin_variable
 var1543
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-2f, f8-1f, f7-1f)
+NegatedAtom at_right_l(rightl1, f8-2f, f8-1f, f7-1f)
 end_variable
 begin_variable
 var1544
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-1f, f8-1f, f8-2f)
+NegatedAtom at_right_l(rightl2, f7-1f, f8-1f, f8-2f)
 end_variable
 begin_variable
 var1545
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-2f, f8-2f, f8-1f)
+NegatedAtom at_right_l(rightl2, f7-2f, f8-2f, f8-1f)
 end_variable
 begin_variable
 var1546
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-1f, f8-2f, f7-2f)
+NegatedAtom at_right_l(rightl2, f8-1f, f8-2f, f7-2f)
 end_variable
 begin_variable
 var1547
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-2f, f8-1f, f7-1f)
+NegatedAtom at_right_l(rightl2, f8-2f, f8-1f, f7-1f)
 end_variable
 begin_variable
 var1548
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-1f, f2-1f, f2-2f)
+NegatedAtom at_right_l(rightl0, f1-1f, f2-1f, f2-2f)
 end_variable
 begin_variable
 var1549
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-2f, f2-2f, f2-1f)
+NegatedAtom at_right_l(rightl0, f1-2f, f2-2f, f2-1f)
 end_variable
 begin_variable
 var1550
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-1f, f2-2f, f1-2f)
+NegatedAtom at_right_l(rightl0, f2-1f, f2-2f, f1-2f)
 end_variable
 begin_variable
 var1551
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-2f, f2-1f, f1-1f)
+NegatedAtom at_right_l(rightl0, f2-2f, f2-1f, f1-1f)
 end_variable
 begin_variable
 var1552
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-2f, f2-2f, f2-1f)
+NegatedAtom at_right_l(rightl1, f1-2f, f2-2f, f2-1f)
 end_variable
 begin_variable
 var1553
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-1f, f2-1f, f2-2f)
+NegatedAtom at_right_l(rightl1, f1-1f, f2-1f, f2-2f)
 end_variable
 begin_variable
 var1554
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-2f, f2-1f, f1-1f)
+NegatedAtom at_right_l(rightl1, f2-2f, f2-1f, f1-1f)
 end_variable
 begin_variable
 var1555
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-1f, f2-2f, f1-2f)
+NegatedAtom at_right_l(rightl1, f2-1f, f2-2f, f1-2f)
 end_variable
 begin_variable
 var1556
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-1f, f7-2f, f8-2f)
+NegatedAtom at_right_l(rightl0, f7-1f, f7-2f, f8-2f)
 end_variable
 begin_variable
 var1557
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-2f, f7-1f, f8-1f)
+NegatedAtom at_right_l(rightl0, f7-2f, f7-1f, f8-1f)
 end_variable
 begin_variable
 var1558
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-1f, f7-1f, f7-2f)
+NegatedAtom at_right_l(rightl0, f8-1f, f7-1f, f7-2f)
 end_variable
 begin_variable
 var1559
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-2f, f7-2f, f7-1f)
+NegatedAtom at_right_l(rightl0, f8-2f, f7-2f, f7-1f)
 end_variable
 begin_variable
 var1560
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-2f, f2-2f, f2-1f)
+NegatedAtom at_right_l(rightl2, f1-2f, f2-2f, f2-1f)
 end_variable
 begin_variable
 var1561
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-1f, f2-1f, f2-2f)
+NegatedAtom at_right_l(rightl2, f1-1f, f2-1f, f2-2f)
 end_variable
 begin_variable
 var1562
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-2f, f2-1f, f1-1f)
+NegatedAtom at_right_l(rightl2, f2-2f, f2-1f, f1-1f)
 end_variable
 begin_variable
 var1563
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-1f, f2-2f, f1-2f)
+NegatedAtom at_right_l(rightl2, f2-1f, f2-2f, f1-2f)
 end_variable
 begin_variable
 var1564
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-1f, f7-2f, f8-2f)
+NegatedAtom at_right_l(rightl1, f7-1f, f7-2f, f8-2f)
 end_variable
 begin_variable
 var1565
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-2f, f7-1f, f8-1f)
+NegatedAtom at_right_l(rightl1, f7-2f, f7-1f, f8-1f)
 end_variable
 begin_variable
 var1566
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-1f, f7-1f, f7-2f)
+NegatedAtom at_right_l(rightl1, f8-1f, f7-1f, f7-2f)
 end_variable
 begin_variable
 var1567
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-2f, f7-2f, f7-1f)
+NegatedAtom at_right_l(rightl1, f8-2f, f7-2f, f7-1f)
 end_variable
 begin_variable
 var1568
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-1f, f7-2f, f8-2f)
+NegatedAtom at_right_l(rightl2, f7-1f, f7-2f, f8-2f)
 end_variable
 begin_variable
 var1569
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-2f, f7-1f, f8-1f)
+NegatedAtom at_right_l(rightl2, f7-2f, f7-1f, f8-1f)
 end_variable
 begin_variable
 var1570
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-1f, f7-1f, f7-2f)
+NegatedAtom at_right_l(rightl2, f8-1f, f7-1f, f7-2f)
 end_variable
 begin_variable
 var1571
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-2f, f7-2f, f7-1f)
+NegatedAtom at_right_l(rightl2, f8-2f, f7-2f, f7-1f)
 end_variable
 begin_variable
 var1572
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-1f, f2-2f, f3-2f)
+NegatedAtom at_right_l(rightl0, f2-1f, f2-2f, f3-2f)
 end_variable
 begin_variable
 var1573
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-2f, f2-1f, f3-1f)
+NegatedAtom at_right_l(rightl0, f2-2f, f2-1f, f3-1f)
 end_variable
 begin_variable
 var1574
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-1f, f2-1f, f2-2f)
+NegatedAtom at_right_l(rightl0, f3-1f, f2-1f, f2-2f)
 end_variable
 begin_variable
 var1575
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-2f, f2-2f, f2-1f)
+NegatedAtom at_right_l(rightl0, f3-2f, f2-2f, f2-1f)
 end_variable
 begin_variable
 var1576
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-2f, f2-1f, f3-1f)
+NegatedAtom at_right_l(rightl1, f2-2f, f2-1f, f3-1f)
 end_variable
 begin_variable
 var1577
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-1f, f2-2f, f3-2f)
+NegatedAtom at_right_l(rightl1, f2-1f, f2-2f, f3-2f)
 end_variable
 begin_variable
 var1578
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-2f, f2-2f, f2-1f)
+NegatedAtom at_right_l(rightl1, f3-2f, f2-2f, f2-1f)
 end_variable
 begin_variable
 var1579
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-1f, f2-1f, f2-2f)
+NegatedAtom at_right_l(rightl1, f3-1f, f2-1f, f2-2f)
 end_variable
 begin_variable
 var1580
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-1f, f7-1f, f7-2f)
+NegatedAtom at_right_l(rightl0, f6-1f, f7-1f, f7-2f)
 end_variable
 begin_variable
 var1581
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-2f, f7-2f, f7-1f)
+NegatedAtom at_right_l(rightl0, f6-2f, f7-2f, f7-1f)
 end_variable
 begin_variable
 var1582
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-1f, f7-2f, f6-2f)
+NegatedAtom at_right_l(rightl0, f7-1f, f7-2f, f6-2f)
 end_variable
 begin_variable
 var1583
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-2f, f7-1f, f6-1f)
+NegatedAtom at_right_l(rightl0, f7-2f, f7-1f, f6-1f)
 end_variable
 begin_variable
 var1584
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-2f, f2-1f, f3-1f)
+NegatedAtom at_right_l(rightl2, f2-2f, f2-1f, f3-1f)
 end_variable
 begin_variable
 var1585
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-1f, f2-2f, f3-2f)
+NegatedAtom at_right_l(rightl2, f2-1f, f2-2f, f3-2f)
 end_variable
 begin_variable
 var1586
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-2f, f2-2f, f2-1f)
+NegatedAtom at_right_l(rightl2, f3-2f, f2-2f, f2-1f)
 end_variable
 begin_variable
 var1587
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-1f, f2-1f, f2-2f)
+NegatedAtom at_right_l(rightl2, f3-1f, f2-1f, f2-2f)
 end_variable
 begin_variable
 var1588
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-1f, f7-1f, f7-2f)
+NegatedAtom at_right_l(rightl1, f6-1f, f7-1f, f7-2f)
 end_variable
 begin_variable
 var1589
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-2f, f7-2f, f7-1f)
+NegatedAtom at_right_l(rightl1, f6-2f, f7-2f, f7-1f)
 end_variable
 begin_variable
 var1590
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-1f, f7-2f, f6-2f)
+NegatedAtom at_right_l(rightl1, f7-1f, f7-2f, f6-2f)
 end_variable
 begin_variable
 var1591
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-2f, f7-1f, f6-1f)
+NegatedAtom at_right_l(rightl1, f7-2f, f7-1f, f6-1f)
 end_variable
 begin_variable
 var1592
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-1f, f7-1f, f7-2f)
+NegatedAtom at_right_l(rightl2, f6-1f, f7-1f, f7-2f)
 end_variable
 begin_variable
 var1593
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-2f, f7-2f, f7-1f)
+NegatedAtom at_right_l(rightl2, f6-2f, f7-2f, f7-1f)
 end_variable
 begin_variable
 var1594
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-1f, f7-2f, f6-2f)
+NegatedAtom at_right_l(rightl2, f7-1f, f7-2f, f6-2f)
 end_variable
 begin_variable
 var1595
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-2f, f7-1f, f6-1f)
+NegatedAtom at_right_l(rightl2, f7-2f, f7-1f, f6-1f)
 end_variable
 begin_variable
 var1596
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-1f, f3-1f, f3-2f)
+NegatedAtom at_right_l(rightl0, f2-1f, f3-1f, f3-2f)
 end_variable
 begin_variable
 var1597
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-2f, f3-2f, f3-1f)
+NegatedAtom at_right_l(rightl0, f2-2f, f3-2f, f3-1f)
 end_variable
 begin_variable
 var1598
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-1f, f3-2f, f2-2f)
+NegatedAtom at_right_l(rightl0, f3-1f, f3-2f, f2-2f)
 end_variable
 begin_variable
 var1599
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-2f, f3-1f, f2-1f)
+NegatedAtom at_right_l(rightl0, f3-2f, f3-1f, f2-1f)
 end_variable
 begin_variable
 var1600
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-2f, f3-2f, f3-1f)
+NegatedAtom at_right_l(rightl1, f2-2f, f3-2f, f3-1f)
 end_variable
 begin_variable
 var1601
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-1f, f3-1f, f3-2f)
+NegatedAtom at_right_l(rightl1, f2-1f, f3-1f, f3-2f)
 end_variable
 begin_variable
 var1602
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-2f, f3-1f, f2-1f)
+NegatedAtom at_right_l(rightl1, f3-2f, f3-1f, f2-1f)
 end_variable
 begin_variable
 var1603
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-1f, f3-2f, f2-2f)
+NegatedAtom at_right_l(rightl1, f3-1f, f3-2f, f2-2f)
 end_variable
 begin_variable
 var1604
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-1f, f6-2f, f7-2f)
+NegatedAtom at_right_l(rightl0, f6-1f, f6-2f, f7-2f)
 end_variable
 begin_variable
 var1605
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-2f, f6-1f, f7-1f)
+NegatedAtom at_right_l(rightl0, f6-2f, f6-1f, f7-1f)
 end_variable
 begin_variable
 var1606
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-1f, f6-1f, f6-2f)
+NegatedAtom at_right_l(rightl0, f7-1f, f6-1f, f6-2f)
 end_variable
 begin_variable
 var1607
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-2f, f6-2f, f6-1f)
+NegatedAtom at_right_l(rightl0, f7-2f, f6-2f, f6-1f)
 end_variable
 begin_variable
 var1608
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-2f, f3-2f, f3-1f)
+NegatedAtom at_right_l(rightl2, f2-2f, f3-2f, f3-1f)
 end_variable
 begin_variable
 var1609
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-1f, f3-1f, f3-2f)
+NegatedAtom at_right_l(rightl2, f2-1f, f3-1f, f3-2f)
 end_variable
 begin_variable
 var1610
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-2f, f3-1f, f2-1f)
+NegatedAtom at_right_l(rightl2, f3-2f, f3-1f, f2-1f)
 end_variable
 begin_variable
 var1611
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-1f, f3-2f, f2-2f)
+NegatedAtom at_right_l(rightl2, f3-1f, f3-2f, f2-2f)
 end_variable
 begin_variable
 var1612
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-1f, f6-2f, f7-2f)
+NegatedAtom at_right_l(rightl1, f6-1f, f6-2f, f7-2f)
 end_variable
 begin_variable
 var1613
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-2f, f6-1f, f7-1f)
+NegatedAtom at_right_l(rightl1, f6-2f, f6-1f, f7-1f)
 end_variable
 begin_variable
 var1614
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-1f, f6-1f, f6-2f)
+NegatedAtom at_right_l(rightl1, f7-1f, f6-1f, f6-2f)
 end_variable
 begin_variable
 var1615
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-2f, f6-2f, f6-1f)
+NegatedAtom at_right_l(rightl1, f7-2f, f6-2f, f6-1f)
 end_variable
 begin_variable
 var1616
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-1f, f6-2f, f7-2f)
+NegatedAtom at_right_l(rightl2, f6-1f, f6-2f, f7-2f)
 end_variable
 begin_variable
 var1617
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-2f, f6-1f, f7-1f)
+NegatedAtom at_right_l(rightl2, f6-2f, f6-1f, f7-1f)
 end_variable
 begin_variable
 var1618
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-1f, f6-1f, f6-2f)
+NegatedAtom at_right_l(rightl2, f7-1f, f6-1f, f6-2f)
 end_variable
 begin_variable
 var1619
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-2f, f6-2f, f6-1f)
+NegatedAtom at_right_l(rightl2, f7-2f, f6-2f, f6-1f)
 end_variable
 begin_variable
 var1620
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-1f, f3-2f, f4-2f)
+NegatedAtom at_right_l(rightl0, f3-1f, f3-2f, f4-2f)
 end_variable
 begin_variable
 var1621
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-2f, f3-1f, f4-1f)
+NegatedAtom at_right_l(rightl0, f3-2f, f3-1f, f4-1f)
 end_variable
 begin_variable
 var1622
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-1f, f3-1f, f3-2f)
+NegatedAtom at_right_l(rightl0, f4-1f, f3-1f, f3-2f)
 end_variable
 begin_variable
 var1623
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-2f, f3-2f, f3-1f)
+NegatedAtom at_right_l(rightl0, f4-2f, f3-2f, f3-1f)
 end_variable
 begin_variable
 var1624
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-2f, f3-1f, f4-1f)
+NegatedAtom at_right_l(rightl1, f3-2f, f3-1f, f4-1f)
 end_variable
 begin_variable
 var1625
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-1f, f3-2f, f4-2f)
+NegatedAtom at_right_l(rightl1, f3-1f, f3-2f, f4-2f)
 end_variable
 begin_variable
 var1626
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-2f, f3-2f, f3-1f)
+NegatedAtom at_right_l(rightl1, f4-2f, f3-2f, f3-1f)
 end_variable
 begin_variable
 var1627
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-1f, f3-1f, f3-2f)
+NegatedAtom at_right_l(rightl1, f4-1f, f3-1f, f3-2f)
 end_variable
 begin_variable
 var1628
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-1f, f6-1f, f6-2f)
+NegatedAtom at_right_l(rightl0, f5-1f, f6-1f, f6-2f)
 end_variable
 begin_variable
 var1629
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-2f, f6-2f, f6-1f)
+NegatedAtom at_right_l(rightl0, f5-2f, f6-2f, f6-1f)
 end_variable
 begin_variable
 var1630
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-1f, f6-2f, f5-2f)
+NegatedAtom at_right_l(rightl0, f6-1f, f6-2f, f5-2f)
 end_variable
 begin_variable
 var1631
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-2f, f6-1f, f5-1f)
+NegatedAtom at_right_l(rightl0, f6-2f, f6-1f, f5-1f)
 end_variable
 begin_variable
 var1632
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-2f, f3-1f, f4-1f)
+NegatedAtom at_right_l(rightl2, f3-2f, f3-1f, f4-1f)
 end_variable
 begin_variable
 var1633
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-1f, f3-2f, f4-2f)
+NegatedAtom at_right_l(rightl2, f3-1f, f3-2f, f4-2f)
 end_variable
 begin_variable
 var1634
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-2f, f3-2f, f3-1f)
+NegatedAtom at_right_l(rightl2, f4-2f, f3-2f, f3-1f)
 end_variable
 begin_variable
 var1635
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-1f, f3-1f, f3-2f)
+NegatedAtom at_right_l(rightl2, f4-1f, f3-1f, f3-2f)
 end_variable
 begin_variable
 var1636
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-1f, f6-1f, f6-2f)
+NegatedAtom at_right_l(rightl1, f5-1f, f6-1f, f6-2f)
 end_variable
 begin_variable
 var1637
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-2f, f6-2f, f6-1f)
+NegatedAtom at_right_l(rightl1, f5-2f, f6-2f, f6-1f)
 end_variable
 begin_variable
 var1638
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-1f, f6-2f, f5-2f)
+NegatedAtom at_right_l(rightl1, f6-1f, f6-2f, f5-2f)
 end_variable
 begin_variable
 var1639
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-2f, f6-1f, f5-1f)
+NegatedAtom at_right_l(rightl1, f6-2f, f6-1f, f5-1f)
 end_variable
 begin_variable
 var1640
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-1f, f6-1f, f6-2f)
+NegatedAtom at_right_l(rightl2, f5-1f, f6-1f, f6-2f)
 end_variable
 begin_variable
 var1641
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-2f, f6-2f, f6-1f)
+NegatedAtom at_right_l(rightl2, f5-2f, f6-2f, f6-1f)
 end_variable
 begin_variable
 var1642
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-1f, f6-2f, f5-2f)
+NegatedAtom at_right_l(rightl2, f6-1f, f6-2f, f5-2f)
 end_variable
 begin_variable
 var1643
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-2f, f6-1f, f5-1f)
+NegatedAtom at_right_l(rightl2, f6-2f, f6-1f, f5-1f)
 end_variable
 begin_variable
 var1644
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-1f, f4-1f, f4-2f)
+NegatedAtom at_right_l(rightl0, f3-1f, f4-1f, f4-2f)
 end_variable
 begin_variable
 var1645
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-2f, f4-2f, f4-1f)
+NegatedAtom at_right_l(rightl0, f3-2f, f4-2f, f4-1f)
 end_variable
 begin_variable
 var1646
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-1f, f4-2f, f3-2f)
+NegatedAtom at_right_l(rightl0, f4-1f, f4-2f, f3-2f)
 end_variable
 begin_variable
 var1647
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-2f, f4-1f, f3-1f)
+NegatedAtom at_right_l(rightl0, f4-2f, f4-1f, f3-1f)
 end_variable
 begin_variable
 var1648
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-2f, f4-2f, f4-1f)
+NegatedAtom at_right_l(rightl1, f3-2f, f4-2f, f4-1f)
 end_variable
 begin_variable
 var1649
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-1f, f4-1f, f4-2f)
+NegatedAtom at_right_l(rightl1, f3-1f, f4-1f, f4-2f)
 end_variable
 begin_variable
 var1650
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-2f, f4-1f, f3-1f)
+NegatedAtom at_right_l(rightl1, f4-2f, f4-1f, f3-1f)
 end_variable
 begin_variable
 var1651
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-1f, f4-2f, f3-2f)
+NegatedAtom at_right_l(rightl1, f4-1f, f4-2f, f3-2f)
 end_variable
 begin_variable
 var1652
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-1f, f5-2f, f6-2f)
+NegatedAtom at_right_l(rightl0, f5-1f, f5-2f, f6-2f)
 end_variable
 begin_variable
 var1653
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-1f, f4-2f, f5-2f)
+NegatedAtom at_right_l(rightl0, f4-1f, f4-2f, f5-2f)
 end_variable
 begin_variable
 var1654
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-1f, f5-1f, f5-2f)
+NegatedAtom at_right_l(rightl0, f4-1f, f5-1f, f5-2f)
 end_variable
 begin_variable
 var1655
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-2f, f4-1f, f5-1f)
+NegatedAtom at_right_l(rightl0, f4-2f, f4-1f, f5-1f)
 end_variable
 begin_variable
 var1656
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-1f, f4-1f, f4-2f)
+NegatedAtom at_right_l(rightl0, f5-1f, f4-1f, f4-2f)
 end_variable
 begin_variable
 var1657
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-2f, f5-1f, f6-1f)
+NegatedAtom at_right_l(rightl0, f5-2f, f5-1f, f6-1f)
 end_variable
 begin_variable
 var1658
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-2f, f5-2f, f5-1f)
+NegatedAtom at_right_l(rightl0, f4-2f, f5-2f, f5-1f)
 end_variable
 begin_variable
 var1659
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-2f, f4-2f, f4-1f)
+NegatedAtom at_right_l(rightl0, f5-2f, f4-2f, f4-1f)
 end_variable
 begin_variable
 var1660
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-1f, f5-1f, f5-2f)
+NegatedAtom at_right_l(rightl0, f6-1f, f5-1f, f5-2f)
 end_variable
 begin_variable
 var1661
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-1f, f5-2f, f4-2f)
+NegatedAtom at_right_l(rightl0, f5-1f, f5-2f, f4-2f)
 end_variable
 begin_variable
 var1662
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-2f, f5-2f, f5-1f)
+NegatedAtom at_right_l(rightl0, f6-2f, f5-2f, f5-1f)
 end_variable
 begin_variable
 var1663
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-2f, f5-1f, f4-1f)
+NegatedAtom at_right_l(rightl0, f5-2f, f5-1f, f4-1f)
 end_variable
 begin_variable
 var1664
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-2f, f4-2f, f4-1f)
+NegatedAtom at_right_l(rightl2, f3-2f, f4-2f, f4-1f)
 end_variable
 begin_variable
 var1665
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-1f, f4-1f, f4-2f)
+NegatedAtom at_right_l(rightl2, f3-1f, f4-1f, f4-2f)
 end_variable
 begin_variable
 var1666
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-2f, f4-1f, f3-1f)
+NegatedAtom at_right_l(rightl2, f4-2f, f4-1f, f3-1f)
 end_variable
 begin_variable
 var1667
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-1f, f4-2f, f3-2f)
+NegatedAtom at_right_l(rightl2, f4-1f, f4-2f, f3-2f)
 end_variable
 begin_variable
 var1668
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-1f, f5-2f, f6-2f)
+NegatedAtom at_right_l(rightl1, f5-1f, f5-2f, f6-2f)
 end_variable
 begin_variable
 var1669
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-1f, f4-2f, f5-2f)
+NegatedAtom at_right_l(rightl1, f4-1f, f4-2f, f5-2f)
 end_variable
 begin_variable
 var1670
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-1f, f5-1f, f5-2f)
+NegatedAtom at_right_l(rightl1, f4-1f, f5-1f, f5-2f)
 end_variable
 begin_variable
 var1671
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-2f, f4-1f, f5-1f)
+NegatedAtom at_right_l(rightl1, f4-2f, f4-1f, f5-1f)
 end_variable
 begin_variable
 var1672
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-1f, f4-1f, f4-2f)
+NegatedAtom at_right_l(rightl1, f5-1f, f4-1f, f4-2f)
 end_variable
 begin_variable
 var1673
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-2f, f5-1f, f6-1f)
+NegatedAtom at_right_l(rightl1, f5-2f, f5-1f, f6-1f)
 end_variable
 begin_variable
 var1674
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-2f, f5-2f, f5-1f)
+NegatedAtom at_right_l(rightl1, f4-2f, f5-2f, f5-1f)
 end_variable
 begin_variable
 var1675
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-2f, f4-2f, f4-1f)
+NegatedAtom at_right_l(rightl1, f5-2f, f4-2f, f4-1f)
 end_variable
 begin_variable
 var1676
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-1f, f5-1f, f5-2f)
+NegatedAtom at_right_l(rightl1, f6-1f, f5-1f, f5-2f)
 end_variable
 begin_variable
 var1677
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-1f, f5-2f, f4-2f)
+NegatedAtom at_right_l(rightl1, f5-1f, f5-2f, f4-2f)
 end_variable
 begin_variable
 var1678
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-2f, f5-2f, f5-1f)
+NegatedAtom at_right_l(rightl1, f6-2f, f5-2f, f5-1f)
 end_variable
 begin_variable
 var1679
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-2f, f5-1f, f4-1f)
+NegatedAtom at_right_l(rightl1, f5-2f, f5-1f, f4-1f)
 end_variable
 begin_variable
 var1680
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-1f, f5-2f, f6-2f)
+NegatedAtom at_right_l(rightl2, f5-1f, f5-2f, f6-2f)
 end_variable
 begin_variable
 var1681
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-1f, f4-2f, f5-2f)
+NegatedAtom at_right_l(rightl2, f4-1f, f4-2f, f5-2f)
 end_variable
 begin_variable
 var1682
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-1f, f5-1f, f5-2f)
+NegatedAtom at_right_l(rightl2, f4-1f, f5-1f, f5-2f)
 end_variable
 begin_variable
 var1683
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-2f, f4-1f, f5-1f)
+NegatedAtom at_right_l(rightl2, f4-2f, f4-1f, f5-1f)
 end_variable
 begin_variable
 var1684
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-1f, f4-1f, f4-2f)
+NegatedAtom at_right_l(rightl2, f5-1f, f4-1f, f4-2f)
 end_variable
 begin_variable
 var1685
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-2f, f5-1f, f6-1f)
+NegatedAtom at_right_l(rightl2, f5-2f, f5-1f, f6-1f)
 end_variable
 begin_variable
 var1686
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-2f, f5-2f, f5-1f)
+NegatedAtom at_right_l(rightl2, f4-2f, f5-2f, f5-1f)
 end_variable
 begin_variable
 var1687
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-2f, f4-2f, f4-1f)
+NegatedAtom at_right_l(rightl2, f5-2f, f4-2f, f4-1f)
 end_variable
 begin_variable
 var1688
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-1f, f5-1f, f5-2f)
+NegatedAtom at_right_l(rightl2, f6-1f, f5-1f, f5-2f)
 end_variable
 begin_variable
 var1689
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-1f, f5-2f, f4-2f)
+NegatedAtom at_right_l(rightl2, f5-1f, f5-2f, f4-2f)
 end_variable
 begin_variable
 var1690
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-2f, f5-2f, f5-1f)
+NegatedAtom at_right_l(rightl2, f6-2f, f5-2f, f5-1f)
 end_variable
 begin_variable
 var1691
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-2f, f5-1f, f4-1f)
+NegatedAtom at_right_l(rightl2, f5-2f, f5-1f, f4-1f)
 end_variable
 begin_variable
 var1692
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-1f, f0-1f, f1-1f)
+NegatedAtom at_right_l(rightl0, f1-1f, f0-1f, f1-1f)
 end_variable
 begin_variable
 var1693
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-1f, f1-0f, f1-1f)
+NegatedAtom at_right_l(rightl0, f1-1f, f1-0f, f1-1f)
 end_variable
 begin_variable
 var1694
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-2f, f0-2f, f1-2f)
+NegatedAtom at_right_l(rightl0, f1-2f, f0-2f, f1-2f)
 end_variable
 begin_variable
 var1695
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-2f, f1-3f, f1-2f)
+NegatedAtom at_right_l(rightl0, f1-2f, f1-3f, f1-2f)
 end_variable
 begin_variable
 var1696
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-2f, f0-2f, f1-2f)
+NegatedAtom at_right_l(rightl1, f1-2f, f0-2f, f1-2f)
 end_variable
 begin_variable
 var1697
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-2f, f1-3f, f1-2f)
+NegatedAtom at_right_l(rightl1, f1-2f, f1-3f, f1-2f)
 end_variable
 begin_variable
 var1698
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-1f, f0-1f, f1-1f)
+NegatedAtom at_right_l(rightl1, f1-1f, f0-1f, f1-1f)
 end_variable
 begin_variable
 var1699
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-1f, f1-0f, f1-1f)
+NegatedAtom at_right_l(rightl1, f1-1f, f1-0f, f1-1f)
 end_variable
 begin_variable
 var1700
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-2f, f8-3f, f8-2f)
+NegatedAtom at_right_l(rightl0, f8-2f, f8-3f, f8-2f)
 end_variable
 begin_variable
 var1701
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-2f, f9-2f, f8-2f)
+NegatedAtom at_right_l(rightl0, f8-2f, f9-2f, f8-2f)
 end_variable
 begin_variable
 var1702
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-1f, f8-0f, f8-1f)
+NegatedAtom at_right_l(rightl0, f8-1f, f8-0f, f8-1f)
 end_variable
 begin_variable
 var1703
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-1f, f9-1f, f8-1f)
+NegatedAtom at_right_l(rightl0, f8-1f, f9-1f, f8-1f)
 end_variable
 begin_variable
 var1704
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-2f, f0-2f, f1-2f)
+NegatedAtom at_right_l(rightl2, f1-2f, f0-2f, f1-2f)
 end_variable
 begin_variable
 var1705
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-2f, f1-3f, f1-2f)
+NegatedAtom at_right_l(rightl2, f1-2f, f1-3f, f1-2f)
 end_variable
 begin_variable
 var1706
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-1f, f0-1f, f1-1f)
+NegatedAtom at_right_l(rightl2, f1-1f, f0-1f, f1-1f)
 end_variable
 begin_variable
 var1707
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-1f, f1-0f, f1-1f)
+NegatedAtom at_right_l(rightl2, f1-1f, f1-0f, f1-1f)
 end_variable
 begin_variable
 var1708
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-2f, f8-3f, f8-2f)
+NegatedAtom at_right_l(rightl1, f8-2f, f8-3f, f8-2f)
 end_variable
 begin_variable
 var1709
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-2f, f9-2f, f8-2f)
+NegatedAtom at_right_l(rightl1, f8-2f, f9-2f, f8-2f)
 end_variable
 begin_variable
 var1710
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-1f, f8-0f, f8-1f)
+NegatedAtom at_right_l(rightl1, f8-1f, f8-0f, f8-1f)
 end_variable
 begin_variable
 var1711
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-1f, f9-1f, f8-1f)
+NegatedAtom at_right_l(rightl1, f8-1f, f9-1f, f8-1f)
 end_variable
 begin_variable
 var1712
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-2f, f8-3f, f8-2f)
+NegatedAtom at_right_l(rightl2, f8-2f, f8-3f, f8-2f)
 end_variable
 begin_variable
 var1713
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-2f, f9-2f, f8-2f)
+NegatedAtom at_right_l(rightl2, f8-2f, f9-2f, f8-2f)
 end_variable
 begin_variable
 var1714
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-1f, f8-0f, f8-1f)
+NegatedAtom at_right_l(rightl2, f8-1f, f8-0f, f8-1f)
 end_variable
 begin_variable
 var1715
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-1f, f9-1f, f8-1f)
+NegatedAtom at_right_l(rightl2, f8-1f, f9-1f, f8-1f)
 end_variable
 begin_variable
 var1716
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-1f, f2-0f, f2-1f)
+NegatedAtom at_right_l(rightl0, f2-1f, f2-0f, f2-1f)
 end_variable
 begin_variable
 var1717
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-2f, f2-3f, f2-2f)
+NegatedAtom at_right_l(rightl0, f2-2f, f2-3f, f2-2f)
 end_variable
 begin_variable
 var1718
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-2f, f2-3f, f2-2f)
+NegatedAtom at_right_l(rightl1, f2-2f, f2-3f, f2-2f)
 end_variable
 begin_variable
 var1719
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-1f, f2-0f, f2-1f)
+NegatedAtom at_right_l(rightl1, f2-1f, f2-0f, f2-1f)
 end_variable
 begin_variable
 var1720
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-2f, f7-3f, f7-2f)
+NegatedAtom at_right_l(rightl0, f7-2f, f7-3f, f7-2f)
 end_variable
 begin_variable
 var1721
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-1f, f7-0f, f7-1f)
+NegatedAtom at_right_l(rightl0, f7-1f, f7-0f, f7-1f)
 end_variable
 begin_variable
 var1722
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-2f, f2-3f, f2-2f)
+NegatedAtom at_right_l(rightl2, f2-2f, f2-3f, f2-2f)
 end_variable
 begin_variable
 var1723
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-1f, f2-0f, f2-1f)
+NegatedAtom at_right_l(rightl2, f2-1f, f2-0f, f2-1f)
 end_variable
 begin_variable
 var1724
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-2f, f7-3f, f7-2f)
+NegatedAtom at_right_l(rightl1, f7-2f, f7-3f, f7-2f)
 end_variable
 begin_variable
 var1725
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-1f, f7-0f, f7-1f)
+NegatedAtom at_right_l(rightl1, f7-1f, f7-0f, f7-1f)
 end_variable
 begin_variable
 var1726
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-2f, f7-3f, f7-2f)
+NegatedAtom at_right_l(rightl2, f7-2f, f7-3f, f7-2f)
 end_variable
 begin_variable
 var1727
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-1f, f7-0f, f7-1f)
+NegatedAtom at_right_l(rightl2, f7-1f, f7-0f, f7-1f)
 end_variable
 begin_variable
 var1728
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-1f, f3-0f, f3-1f)
+NegatedAtom at_right_l(rightl0, f3-1f, f3-0f, f3-1f)
 end_variable
 begin_variable
 var1729
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-2f, f3-3f, f3-2f)
+NegatedAtom at_right_l(rightl0, f3-2f, f3-3f, f3-2f)
 end_variable
 begin_variable
 var1730
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-2f, f3-3f, f3-2f)
+NegatedAtom at_right_l(rightl1, f3-2f, f3-3f, f3-2f)
 end_variable
 begin_variable
 var1731
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-1f, f3-0f, f3-1f)
+NegatedAtom at_right_l(rightl1, f3-1f, f3-0f, f3-1f)
 end_variable
 begin_variable
 var1732
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-2f, f6-3f, f6-2f)
+NegatedAtom at_right_l(rightl0, f6-2f, f6-3f, f6-2f)
 end_variable
 begin_variable
 var1733
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-1f, f6-0f, f6-1f)
+NegatedAtom at_right_l(rightl0, f6-1f, f6-0f, f6-1f)
 end_variable
 begin_variable
 var1734
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-2f, f3-3f, f3-2f)
+NegatedAtom at_right_l(rightl2, f3-2f, f3-3f, f3-2f)
 end_variable
 begin_variable
 var1735
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-1f, f3-0f, f3-1f)
+NegatedAtom at_right_l(rightl2, f3-1f, f3-0f, f3-1f)
 end_variable
 begin_variable
 var1736
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-2f, f6-3f, f6-2f)
+NegatedAtom at_right_l(rightl1, f6-2f, f6-3f, f6-2f)
 end_variable
 begin_variable
 var1737
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-1f, f6-0f, f6-1f)
+NegatedAtom at_right_l(rightl1, f6-1f, f6-0f, f6-1f)
 end_variable
 begin_variable
 var1738
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-2f, f6-3f, f6-2f)
+NegatedAtom at_right_l(rightl2, f6-2f, f6-3f, f6-2f)
 end_variable
 begin_variable
 var1739
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-1f, f6-0f, f6-1f)
+NegatedAtom at_right_l(rightl2, f6-1f, f6-0f, f6-1f)
 end_variable
 begin_variable
 var1740
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-1f, f4-0f, f4-1f)
+NegatedAtom at_right_l(rightl0, f4-1f, f4-0f, f4-1f)
 end_variable
 begin_variable
 var1741
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-2f, f4-3f, f4-2f)
+NegatedAtom at_right_l(rightl0, f4-2f, f4-3f, f4-2f)
 end_variable
 begin_variable
 var1742
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-2f, f5-3f, f5-2f)
+NegatedAtom at_right_l(rightl0, f5-2f, f5-3f, f5-2f)
 end_variable
 begin_variable
 var1743
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-1f, f5-0f, f5-1f)
+NegatedAtom at_right_l(rightl0, f5-1f, f5-0f, f5-1f)
 end_variable
 begin_variable
 var1744
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-1f, f4-0f, f4-1f)
+NegatedAtom at_right_l(rightl1, f4-1f, f4-0f, f4-1f)
 end_variable
 begin_variable
 var1745
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-2f, f4-3f, f4-2f)
+NegatedAtom at_right_l(rightl1, f4-2f, f4-3f, f4-2f)
 end_variable
 begin_variable
 var1746
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-2f, f5-3f, f5-2f)
+NegatedAtom at_right_l(rightl1, f5-2f, f5-3f, f5-2f)
 end_variable
 begin_variable
 var1747
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-1f, f5-0f, f5-1f)
+NegatedAtom at_right_l(rightl1, f5-1f, f5-0f, f5-1f)
 end_variable
 begin_variable
 var1748
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-1f, f4-0f, f4-1f)
+NegatedAtom at_right_l(rightl2, f4-1f, f4-0f, f4-1f)
 end_variable
 begin_variable
 var1749
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-2f, f4-3f, f4-2f)
+NegatedAtom at_right_l(rightl2, f4-2f, f4-3f, f4-2f)
 end_variable
 begin_variable
 var1750
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-2f, f5-3f, f5-2f)
+NegatedAtom at_right_l(rightl2, f5-2f, f5-3f, f5-2f)
 end_variable
 begin_variable
 var1751
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-1f, f5-0f, f5-1f)
+NegatedAtom at_right_l(rightl2, f5-1f, f5-0f, f5-1f)
 end_variable
 begin_variable
 var1752
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-1f, f1-2f, f1-1f)
+NegatedAtom at_right_l(rightl0, f1-1f, f1-2f, f1-1f)
 end_variable
 begin_variable
 var1753
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-2f, f1-1f, f1-2f)
+NegatedAtom at_right_l(rightl0, f1-2f, f1-1f, f1-2f)
 end_variable
 begin_variable
 var1754
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-2f, f2-2f, f1-2f)
+NegatedAtom at_right_l(rightl0, f1-2f, f2-2f, f1-2f)
 end_variable
 begin_variable
 var1755
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f1-1f, f2-1f, f1-1f)
+NegatedAtom at_right_l(rightl0, f1-1f, f2-1f, f1-1f)
 end_variable
 begin_variable
 var1756
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-2f, f1-1f, f1-2f)
+NegatedAtom at_right_l(rightl1, f1-2f, f1-1f, f1-2f)
 end_variable
 begin_variable
 var1757
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-1f, f1-2f, f1-1f)
+NegatedAtom at_right_l(rightl1, f1-1f, f1-2f, f1-1f)
 end_variable
 begin_variable
 var1758
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-1f, f2-1f, f1-1f)
+NegatedAtom at_right_l(rightl1, f1-1f, f2-1f, f1-1f)
 end_variable
 begin_variable
 var1759
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f1-2f, f2-2f, f1-2f)
+NegatedAtom at_right_l(rightl1, f1-2f, f2-2f, f1-2f)
 end_variable
 begin_variable
 var1760
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-2f, f7-2f, f8-2f)
+NegatedAtom at_right_l(rightl0, f8-2f, f7-2f, f8-2f)
 end_variable
 begin_variable
 var1761
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-2f, f8-1f, f8-2f)
+NegatedAtom at_right_l(rightl0, f8-2f, f8-1f, f8-2f)
 end_variable
 begin_variable
 var1762
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-1f, f7-1f, f8-1f)
+NegatedAtom at_right_l(rightl0, f8-1f, f7-1f, f8-1f)
 end_variable
 begin_variable
 var1763
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f8-1f, f8-2f, f8-1f)
+NegatedAtom at_right_l(rightl0, f8-1f, f8-2f, f8-1f)
 end_variable
 begin_variable
 var1764
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-2f, f1-1f, f1-2f)
+NegatedAtom at_right_l(rightl2, f1-2f, f1-1f, f1-2f)
 end_variable
 begin_variable
 var1765
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-1f, f1-2f, f1-1f)
+NegatedAtom at_right_l(rightl2, f1-1f, f1-2f, f1-1f)
 end_variable
 begin_variable
 var1766
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-1f, f2-1f, f1-1f)
+NegatedAtom at_right_l(rightl2, f1-1f, f2-1f, f1-1f)
 end_variable
 begin_variable
 var1767
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f1-2f, f2-2f, f1-2f)
+NegatedAtom at_right_l(rightl2, f1-2f, f2-2f, f1-2f)
 end_variable
 begin_variable
 var1768
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-2f, f7-2f, f8-2f)
+NegatedAtom at_right_l(rightl1, f8-2f, f7-2f, f8-2f)
 end_variable
 begin_variable
 var1769
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-2f, f8-1f, f8-2f)
+NegatedAtom at_right_l(rightl1, f8-2f, f8-1f, f8-2f)
 end_variable
 begin_variable
 var1770
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-1f, f7-1f, f8-1f)
+NegatedAtom at_right_l(rightl1, f8-1f, f7-1f, f8-1f)
 end_variable
 begin_variable
 var1771
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f8-1f, f8-2f, f8-1f)
+NegatedAtom at_right_l(rightl1, f8-1f, f8-2f, f8-1f)
 end_variable
 begin_variable
 var1772
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-2f, f7-2f, f8-2f)
+NegatedAtom at_right_l(rightl2, f8-2f, f7-2f, f8-2f)
 end_variable
 begin_variable
 var1773
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-2f, f8-1f, f8-2f)
+NegatedAtom at_right_l(rightl2, f8-2f, f8-1f, f8-2f)
 end_variable
 begin_variable
 var1774
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-1f, f7-1f, f8-1f)
+NegatedAtom at_right_l(rightl2, f8-1f, f7-1f, f8-1f)
 end_variable
 begin_variable
 var1775
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f8-1f, f8-2f, f8-1f)
+NegatedAtom at_right_l(rightl2, f8-1f, f8-2f, f8-1f)
 end_variable
 begin_variable
 var1776
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-2f, f1-2f, f2-2f)
+NegatedAtom at_right_l(rightl0, f2-2f, f1-2f, f2-2f)
 end_variable
 begin_variable
 var1777
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-2f, f2-1f, f2-2f)
+NegatedAtom at_right_l(rightl0, f2-2f, f2-1f, f2-2f)
 end_variable
 begin_variable
 var1778
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-1f, f1-1f, f2-1f)
+NegatedAtom at_right_l(rightl0, f2-1f, f1-1f, f2-1f)
 end_variable
 begin_variable
 var1779
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-1f, f2-2f, f2-1f)
+NegatedAtom at_right_l(rightl0, f2-1f, f2-2f, f2-1f)
 end_variable
 begin_variable
 var1780
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-1f, f3-1f, f2-1f)
+NegatedAtom at_right_l(rightl0, f2-1f, f3-1f, f2-1f)
 end_variable
 begin_variable
 var1781
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f2-2f, f3-2f, f2-2f)
+NegatedAtom at_right_l(rightl0, f2-2f, f3-2f, f2-2f)
 end_variable
 begin_variable
 var1782
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-1f, f1-1f, f2-1f)
+NegatedAtom at_right_l(rightl1, f2-1f, f1-1f, f2-1f)
 end_variable
 begin_variable
 var1783
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-1f, f2-2f, f2-1f)
+NegatedAtom at_right_l(rightl1, f2-1f, f2-2f, f2-1f)
 end_variable
 begin_variable
 var1784
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-2f, f1-2f, f2-2f)
+NegatedAtom at_right_l(rightl1, f2-2f, f1-2f, f2-2f)
 end_variable
 begin_variable
 var1785
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-2f, f2-1f, f2-2f)
+NegatedAtom at_right_l(rightl1, f2-2f, f2-1f, f2-2f)
 end_variable
 begin_variable
 var1786
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-2f, f3-2f, f2-2f)
+NegatedAtom at_right_l(rightl1, f2-2f, f3-2f, f2-2f)
 end_variable
 begin_variable
 var1787
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f2-1f, f3-1f, f2-1f)
+NegatedAtom at_right_l(rightl1, f2-1f, f3-1f, f2-1f)
 end_variable
 begin_variable
 var1788
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-2f, f6-2f, f7-2f)
+NegatedAtom at_right_l(rightl0, f7-2f, f6-2f, f7-2f)
 end_variable
 begin_variable
 var1789
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-2f, f7-1f, f7-2f)
+NegatedAtom at_right_l(rightl0, f7-2f, f7-1f, f7-2f)
 end_variable
 begin_variable
 var1790
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-1f, f6-1f, f7-1f)
+NegatedAtom at_right_l(rightl0, f7-1f, f6-1f, f7-1f)
 end_variable
 begin_variable
 var1791
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-1f, f7-2f, f7-1f)
+NegatedAtom at_right_l(rightl0, f7-1f, f7-2f, f7-1f)
 end_variable
 begin_variable
 var1792
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-1f, f8-1f, f7-1f)
+NegatedAtom at_right_l(rightl0, f7-1f, f8-1f, f7-1f)
 end_variable
 begin_variable
 var1793
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f7-2f, f8-2f, f7-2f)
+NegatedAtom at_right_l(rightl0, f7-2f, f8-2f, f7-2f)
 end_variable
 begin_variable
 var1794
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-1f, f1-1f, f2-1f)
+NegatedAtom at_right_l(rightl2, f2-1f, f1-1f, f2-1f)
 end_variable
 begin_variable
 var1795
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-1f, f2-2f, f2-1f)
+NegatedAtom at_right_l(rightl2, f2-1f, f2-2f, f2-1f)
 end_variable
 begin_variable
 var1796
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-2f, f1-2f, f2-2f)
+NegatedAtom at_right_l(rightl2, f2-2f, f1-2f, f2-2f)
 end_variable
 begin_variable
 var1797
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-2f, f2-1f, f2-2f)
+NegatedAtom at_right_l(rightl2, f2-2f, f2-1f, f2-2f)
 end_variable
 begin_variable
 var1798
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-2f, f3-2f, f2-2f)
+NegatedAtom at_right_l(rightl2, f2-2f, f3-2f, f2-2f)
 end_variable
 begin_variable
 var1799
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f2-1f, f3-1f, f2-1f)
+NegatedAtom at_right_l(rightl2, f2-1f, f3-1f, f2-1f)
 end_variable
 begin_variable
 var1800
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-2f, f6-2f, f7-2f)
+NegatedAtom at_right_l(rightl1, f7-2f, f6-2f, f7-2f)
 end_variable
 begin_variable
 var1801
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-2f, f7-1f, f7-2f)
+NegatedAtom at_right_l(rightl1, f7-2f, f7-1f, f7-2f)
 end_variable
 begin_variable
 var1802
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-1f, f6-1f, f7-1f)
+NegatedAtom at_right_l(rightl1, f7-1f, f6-1f, f7-1f)
 end_variable
 begin_variable
 var1803
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-1f, f7-2f, f7-1f)
+NegatedAtom at_right_l(rightl1, f7-1f, f7-2f, f7-1f)
 end_variable
 begin_variable
 var1804
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-1f, f8-1f, f7-1f)
+NegatedAtom at_right_l(rightl1, f7-1f, f8-1f, f7-1f)
 end_variable
 begin_variable
 var1805
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f7-2f, f8-2f, f7-2f)
+NegatedAtom at_right_l(rightl1, f7-2f, f8-2f, f7-2f)
 end_variable
 begin_variable
 var1806
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-2f, f6-2f, f7-2f)
+NegatedAtom at_right_l(rightl2, f7-2f, f6-2f, f7-2f)
 end_variable
 begin_variable
 var1807
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-2f, f7-1f, f7-2f)
+NegatedAtom at_right_l(rightl2, f7-2f, f7-1f, f7-2f)
 end_variable
 begin_variable
 var1808
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-1f, f6-1f, f7-1f)
+NegatedAtom at_right_l(rightl2, f7-1f, f6-1f, f7-1f)
 end_variable
 begin_variable
 var1809
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-1f, f7-2f, f7-1f)
+NegatedAtom at_right_l(rightl2, f7-1f, f7-2f, f7-1f)
 end_variable
 begin_variable
 var1810
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-1f, f8-1f, f7-1f)
+NegatedAtom at_right_l(rightl2, f7-1f, f8-1f, f7-1f)
 end_variable
 begin_variable
 var1811
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f7-2f, f8-2f, f7-2f)
+NegatedAtom at_right_l(rightl2, f7-2f, f8-2f, f7-2f)
 end_variable
 begin_variable
 var1812
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-1f, f2-1f, f3-1f)
+NegatedAtom at_right_l(rightl0, f3-1f, f2-1f, f3-1f)
 end_variable
 begin_variable
 var1813
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-1f, f3-2f, f3-1f)
+NegatedAtom at_right_l(rightl0, f3-1f, f3-2f, f3-1f)
 end_variable
 begin_variable
 var1814
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-2f, f2-2f, f3-2f)
+NegatedAtom at_right_l(rightl0, f3-2f, f2-2f, f3-2f)
 end_variable
 begin_variable
 var1815
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-2f, f3-1f, f3-2f)
+NegatedAtom at_right_l(rightl0, f3-2f, f3-1f, f3-2f)
 end_variable
 begin_variable
 var1816
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-2f, f4-2f, f3-2f)
+NegatedAtom at_right_l(rightl0, f3-2f, f4-2f, f3-2f)
 end_variable
 begin_variable
 var1817
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f3-1f, f4-1f, f3-1f)
+NegatedAtom at_right_l(rightl0, f3-1f, f4-1f, f3-1f)
 end_variable
 begin_variable
 var1818
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-2f, f2-2f, f3-2f)
+NegatedAtom at_right_l(rightl1, f3-2f, f2-2f, f3-2f)
 end_variable
 begin_variable
 var1819
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-2f, f3-1f, f3-2f)
+NegatedAtom at_right_l(rightl1, f3-2f, f3-1f, f3-2f)
 end_variable
 begin_variable
 var1820
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-1f, f2-1f, f3-1f)
+NegatedAtom at_right_l(rightl1, f3-1f, f2-1f, f3-1f)
 end_variable
 begin_variable
 var1821
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-1f, f3-2f, f3-1f)
+NegatedAtom at_right_l(rightl1, f3-1f, f3-2f, f3-1f)
 end_variable
 begin_variable
 var1822
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-1f, f4-1f, f3-1f)
+NegatedAtom at_right_l(rightl1, f3-1f, f4-1f, f3-1f)
 end_variable
 begin_variable
 var1823
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f3-2f, f4-2f, f3-2f)
+NegatedAtom at_right_l(rightl1, f3-2f, f4-2f, f3-2f)
 end_variable
 begin_variable
 var1824
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-2f, f5-2f, f6-2f)
+NegatedAtom at_right_l(rightl0, f6-2f, f5-2f, f6-2f)
 end_variable
 begin_variable
 var1825
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-2f, f6-1f, f6-2f)
+NegatedAtom at_right_l(rightl0, f6-2f, f6-1f, f6-2f)
 end_variable
 begin_variable
 var1826
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-1f, f5-1f, f6-1f)
+NegatedAtom at_right_l(rightl0, f6-1f, f5-1f, f6-1f)
 end_variable
 begin_variable
 var1827
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-1f, f6-2f, f6-1f)
+NegatedAtom at_right_l(rightl0, f6-1f, f6-2f, f6-1f)
 end_variable
 begin_variable
 var1828
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-1f, f7-1f, f6-1f)
+NegatedAtom at_right_l(rightl0, f6-1f, f7-1f, f6-1f)
 end_variable
 begin_variable
 var1829
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f6-2f, f7-2f, f6-2f)
+NegatedAtom at_right_l(rightl0, f6-2f, f7-2f, f6-2f)
 end_variable
 begin_variable
 var1830
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-2f, f2-2f, f3-2f)
+NegatedAtom at_right_l(rightl2, f3-2f, f2-2f, f3-2f)
 end_variable
 begin_variable
 var1831
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-2f, f3-1f, f3-2f)
+NegatedAtom at_right_l(rightl2, f3-2f, f3-1f, f3-2f)
 end_variable
 begin_variable
 var1832
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-1f, f2-1f, f3-1f)
+NegatedAtom at_right_l(rightl2, f3-1f, f2-1f, f3-1f)
 end_variable
 begin_variable
 var1833
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-1f, f3-2f, f3-1f)
+NegatedAtom at_right_l(rightl2, f3-1f, f3-2f, f3-1f)
 end_variable
 begin_variable
 var1834
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-1f, f4-1f, f3-1f)
+NegatedAtom at_right_l(rightl2, f3-1f, f4-1f, f3-1f)
 end_variable
 begin_variable
 var1835
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f3-2f, f4-2f, f3-2f)
+NegatedAtom at_right_l(rightl2, f3-2f, f4-2f, f3-2f)
 end_variable
 begin_variable
 var1836
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-2f, f5-2f, f6-2f)
+NegatedAtom at_right_l(rightl1, f6-2f, f5-2f, f6-2f)
 end_variable
 begin_variable
 var1837
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-2f, f6-1f, f6-2f)
+NegatedAtom at_right_l(rightl1, f6-2f, f6-1f, f6-2f)
 end_variable
 begin_variable
 var1838
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-1f, f5-1f, f6-1f)
+NegatedAtom at_right_l(rightl1, f6-1f, f5-1f, f6-1f)
 end_variable
 begin_variable
 var1839
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-1f, f6-2f, f6-1f)
+NegatedAtom at_right_l(rightl1, f6-1f, f6-2f, f6-1f)
 end_variable
 begin_variable
 var1840
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-1f, f7-1f, f6-1f)
+NegatedAtom at_right_l(rightl1, f6-1f, f7-1f, f6-1f)
 end_variable
 begin_variable
 var1841
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f6-2f, f7-2f, f6-2f)
+NegatedAtom at_right_l(rightl1, f6-2f, f7-2f, f6-2f)
 end_variable
 begin_variable
 var1842
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-2f, f5-2f, f6-2f)
+NegatedAtom at_right_l(rightl2, f6-2f, f5-2f, f6-2f)
 end_variable
 begin_variable
 var1843
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-2f, f6-1f, f6-2f)
+NegatedAtom at_right_l(rightl2, f6-2f, f6-1f, f6-2f)
 end_variable
 begin_variable
 var1844
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-1f, f5-1f, f6-1f)
+NegatedAtom at_right_l(rightl2, f6-1f, f5-1f, f6-1f)
 end_variable
 begin_variable
 var1845
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-1f, f6-2f, f6-1f)
+NegatedAtom at_right_l(rightl2, f6-1f, f6-2f, f6-1f)
 end_variable
 begin_variable
 var1846
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-1f, f7-1f, f6-1f)
+NegatedAtom at_right_l(rightl2, f6-1f, f7-1f, f6-1f)
 end_variable
 begin_variable
 var1847
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f6-2f, f7-2f, f6-2f)
+NegatedAtom at_right_l(rightl2, f6-2f, f7-2f, f6-2f)
 end_variable
 begin_variable
 var1848
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-2f, f3-2f, f4-2f)
+NegatedAtom at_right_l(rightl0, f4-2f, f3-2f, f4-2f)
 end_variable
 begin_variable
 var1849
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-2f, f4-1f, f4-2f)
+NegatedAtom at_right_l(rightl0, f4-2f, f4-1f, f4-2f)
 end_variable
 begin_variable
 var1850
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-1f, f3-1f, f4-1f)
+NegatedAtom at_right_l(rightl0, f4-1f, f3-1f, f4-1f)
 end_variable
 begin_variable
 var1851
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-1f, f4-2f, f4-1f)
+NegatedAtom at_right_l(rightl0, f4-1f, f4-2f, f4-1f)
 end_variable
 begin_variable
 var1852
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-1f, f5-1f, f4-1f)
+NegatedAtom at_right_l(rightl0, f4-1f, f5-1f, f4-1f)
 end_variable
 begin_variable
 var1853
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f4-2f, f5-2f, f4-2f)
+NegatedAtom at_right_l(rightl0, f4-2f, f5-2f, f4-2f)
 end_variable
 begin_variable
 var1854
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-1f, f4-1f, f5-1f)
+NegatedAtom at_right_l(rightl0, f5-1f, f4-1f, f5-1f)
 end_variable
 begin_variable
 var1855
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-1f, f5-2f, f5-1f)
+NegatedAtom at_right_l(rightl0, f5-1f, f5-2f, f5-1f)
 end_variable
 begin_variable
 var1856
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-2f, f4-2f, f5-2f)
+NegatedAtom at_right_l(rightl0, f5-2f, f4-2f, f5-2f)
 end_variable
 begin_variable
 var1857
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-2f, f5-1f, f5-2f)
+NegatedAtom at_right_l(rightl0, f5-2f, f5-1f, f5-2f)
 end_variable
 begin_variable
 var1858
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-2f, f6-2f, f5-2f)
+NegatedAtom at_right_l(rightl0, f5-2f, f6-2f, f5-2f)
 end_variable
 begin_variable
 var1859
 -1
 2
-0
-1
+Atom at_right_l(rightl0, f5-1f, f6-1f, f5-1f)
+NegatedAtom at_right_l(rightl0, f5-1f, f6-1f, f5-1f)
 end_variable
 begin_variable
 var1860
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-1f, f3-1f, f4-1f)
+NegatedAtom at_right_l(rightl1, f4-1f, f3-1f, f4-1f)
 end_variable
 begin_variable
 var1861
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-1f, f4-2f, f4-1f)
+NegatedAtom at_right_l(rightl1, f4-1f, f4-2f, f4-1f)
 end_variable
 begin_variable
 var1862
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-2f, f3-2f, f4-2f)
+NegatedAtom at_right_l(rightl1, f4-2f, f3-2f, f4-2f)
 end_variable
 begin_variable
 var1863
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-2f, f4-1f, f4-2f)
+NegatedAtom at_right_l(rightl1, f4-2f, f4-1f, f4-2f)
 end_variable
 begin_variable
 var1864
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-2f, f5-2f, f4-2f)
+NegatedAtom at_right_l(rightl1, f4-2f, f5-2f, f4-2f)
 end_variable
 begin_variable
 var1865
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f4-1f, f5-1f, f4-1f)
+NegatedAtom at_right_l(rightl1, f4-1f, f5-1f, f4-1f)
 end_variable
 begin_variable
 var1866
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-2f, f4-2f, f5-2f)
+NegatedAtom at_right_l(rightl1, f5-2f, f4-2f, f5-2f)
 end_variable
 begin_variable
 var1867
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-2f, f5-1f, f5-2f)
+NegatedAtom at_right_l(rightl1, f5-2f, f5-1f, f5-2f)
 end_variable
 begin_variable
 var1868
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-1f, f4-1f, f5-1f)
+NegatedAtom at_right_l(rightl1, f5-1f, f4-1f, f5-1f)
 end_variable
 begin_variable
 var1869
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-1f, f5-2f, f5-1f)
+NegatedAtom at_right_l(rightl1, f5-1f, f5-2f, f5-1f)
 end_variable
 begin_variable
 var1870
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-1f, f6-1f, f5-1f)
+NegatedAtom at_right_l(rightl1, f5-1f, f6-1f, f5-1f)
 end_variable
 begin_variable
 var1871
 -1
 2
-0
-1
+Atom at_right_l(rightl1, f5-2f, f6-2f, f5-2f)
+NegatedAtom at_right_l(rightl1, f5-2f, f6-2f, f5-2f)
 end_variable
 begin_variable
 var1872
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-1f, f3-1f, f4-1f)
+NegatedAtom at_right_l(rightl2, f4-1f, f3-1f, f4-1f)
 end_variable
 begin_variable
 var1873
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-1f, f4-2f, f4-1f)
+NegatedAtom at_right_l(rightl2, f4-1f, f4-2f, f4-1f)
 end_variable
 begin_variable
 var1874
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-2f, f3-2f, f4-2f)
+NegatedAtom at_right_l(rightl2, f4-2f, f3-2f, f4-2f)
 end_variable
 begin_variable
 var1875
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-2f, f4-1f, f4-2f)
+NegatedAtom at_right_l(rightl2, f4-2f, f4-1f, f4-2f)
 end_variable
 begin_variable
 var1876
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-2f, f5-2f, f4-2f)
+NegatedAtom at_right_l(rightl2, f4-2f, f5-2f, f4-2f)
 end_variable
 begin_variable
 var1877
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f4-1f, f5-1f, f4-1f)
+NegatedAtom at_right_l(rightl2, f4-1f, f5-1f, f4-1f)
 end_variable
 begin_variable
 var1878
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-2f, f4-2f, f5-2f)
+NegatedAtom at_right_l(rightl2, f5-2f, f4-2f, f5-2f)
 end_variable
 begin_variable
 var1879
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-2f, f5-1f, f5-2f)
+NegatedAtom at_right_l(rightl2, f5-2f, f5-1f, f5-2f)
 end_variable
 begin_variable
 var1880
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-1f, f4-1f, f5-1f)
+NegatedAtom at_right_l(rightl2, f5-1f, f4-1f, f5-1f)
 end_variable
 begin_variable
 var1881
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-1f, f5-2f, f5-1f)
+NegatedAtom at_right_l(rightl2, f5-1f, f5-2f, f5-1f)
 end_variable
 begin_variable
 var1882
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-1f, f6-1f, f5-1f)
+NegatedAtom at_right_l(rightl2, f5-1f, f6-1f, f5-1f)
 end_variable
 begin_variable
 var1883
 -1
 2
-0
-1
+Atom at_right_l(rightl2, f5-2f, f6-2f, f5-2f)
+NegatedAtom at_right_l(rightl2, f5-2f, f6-2f, f5-2f)
 end_variable
 begin_variable
 var1884
 -1
 2
-0
-1
+Atom clear(f9-3f)
+NegatedAtom clear(f9-3f)
 end_variable
 begin_variable
 var1885
 -1
 2
-0
-1
+Atom clear(f9-0f)
+NegatedAtom clear(f9-0f)
 end_variable
 begin_variable
 var1886
 -1
 2
-0
-1
+Atom clear(f9-1f)
+NegatedAtom clear(f9-1f)
 end_variable
 begin_variable
 var1887
 -1
 2
-0
-1
+Atom clear(f9-2f)
+NegatedAtom clear(f9-2f)
 end_variable
 begin_variable
 var1888
 -1
 2
-0
-1
+Atom clear(f8-0f)
+NegatedAtom clear(f8-0f)
 end_variable
 begin_variable
 var1889
 -1
 2
-0
-1
+Atom clear(f8-3f)
+NegatedAtom clear(f8-3f)
 end_variable
 begin_variable
 var1890
 -1
 2
-0
-1
+Atom clear(f7-0f)
+NegatedAtom clear(f7-0f)
 end_variable
 begin_variable
 var1891
 -1
 2
-0
-1
+Atom clear(f7-3f)
+NegatedAtom clear(f7-3f)
 end_variable
 begin_variable
 var1892
 -1
 2
-0
-1
+Atom clear(f8-1f)
+NegatedAtom clear(f8-1f)
 end_variable
 begin_variable
 var1893
 -1
 2
-0
-1
+Atom clear(f8-2f)
+NegatedAtom clear(f8-2f)
 end_variable
 begin_variable
 var1894
 -1
 2
-0
-1
+Atom clear(f6-0f)
+NegatedAtom clear(f6-0f)
 end_variable
 begin_variable
 var1895
 -1
 2
-0
-1
+Atom clear(f6-3f)
+NegatedAtom clear(f6-3f)
 end_variable
 begin_variable
 var1896
 -1
 2
-0
-1
+Atom clear(f7-1f)
+NegatedAtom clear(f7-1f)
 end_variable
 begin_variable
 var1897
 -1
 2
-0
-1
+Atom clear(f7-2f)
+NegatedAtom clear(f7-2f)
 end_variable
 begin_variable
 var1898
 -1
 2
-0
-1
+Atom clear(f5-0f)
+NegatedAtom clear(f5-0f)
 end_variable
 begin_variable
 var1899
 -1
 2
-0
-1
+Atom clear(f5-3f)
+NegatedAtom clear(f5-3f)
 end_variable
 begin_variable
 var1900
 -1
 2
-0
-1
+Atom clear(f6-1f)
+NegatedAtom clear(f6-1f)
 end_variable
 begin_variable
 var1901
 -1
 2
-0
-1
+Atom clear(f6-2f)
+NegatedAtom clear(f6-2f)
 end_variable
 begin_variable
 var1902
 -1
 2
-0
-1
+Atom clear(f5-1f)
+NegatedAtom clear(f5-1f)
 end_variable
 begin_variable
 var1903
 -1
 2
-0
-1
+Atom clear(f5-2f)
+NegatedAtom clear(f5-2f)
 end_variable
 begin_variable
 var1904
 -1
 2
-0
-1
+Atom clear(f0-3f)
+NegatedAtom clear(f0-3f)
 end_variable
 begin_variable
 var1905
 -1
 2
-0
-1
+Atom clear(f0-0f)
+NegatedAtom clear(f0-0f)
 end_variable
 begin_variable
 var1906
 -1
 2
-0
-1
+Atom clear(f0-1f)
+NegatedAtom clear(f0-1f)
 end_variable
 begin_variable
 var1907
 -1
 2
-0
-1
+Atom clear(f0-2f)
+NegatedAtom clear(f0-2f)
 end_variable
 begin_variable
 var1908
 -1
 2
-0
-1
+Atom clear(f1-0f)
+NegatedAtom clear(f1-0f)
 end_variable
 begin_variable
 var1909
 -1
 2
-0
-1
+Atom clear(f1-3f)
+NegatedAtom clear(f1-3f)
 end_variable
 begin_variable
 var1910
 -1
 2
-0
-1
+Atom clear(f2-0f)
+NegatedAtom clear(f2-0f)
 end_variable
 begin_variable
 var1911
 -1
 2
-0
-1
+Atom clear(f2-3f)
+NegatedAtom clear(f2-3f)
 end_variable
 begin_variable
 var1912
 -1
 2
-0
-1
+Atom clear(f4-0f)
+NegatedAtom clear(f4-0f)
 end_variable
 begin_variable
 var1913
 -1
 2
-0
-1
+Atom clear(f4-3f)
+NegatedAtom clear(f4-3f)
 end_variable
 begin_variable
 var1914
 -1
 2
-0
-1
+Atom clear(f3-0f)
+NegatedAtom clear(f3-0f)
 end_variable
 begin_variable
 var1915
 -1
 2
-0
-1
+Atom clear(f3-3f)
+NegatedAtom clear(f3-3f)
 end_variable
 begin_variable
 var1916
 -1
 2
-0
-1
+Atom clear(f1-1f)
+NegatedAtom clear(f1-1f)
 end_variable
 begin_variable
 var1917
 -1
 2
-0
-1
+Atom clear(f1-2f)
+NegatedAtom clear(f1-2f)
 end_variable
 begin_variable
 var1918
 -1
 2
-0
-1
+Atom clear(f2-1f)
+NegatedAtom clear(f2-1f)
 end_variable
 begin_variable
 var1919
 -1
 2
-0
-1
+Atom clear(f2-2f)
+NegatedAtom clear(f2-2f)
 end_variable
 begin_variable
 var1920
 -1
 2
-0
-1
+Atom clear(f3-1f)
+NegatedAtom clear(f3-1f)
 end_variable
 begin_variable
 var1921
 -1
 2
-0
-1
+Atom clear(f3-2f)
+NegatedAtom clear(f3-2f)
 end_variable
 begin_variable
 var1922
 -1
 2
-0
-1
+Atom clear(f4-1f)
+NegatedAtom clear(f4-1f)
 end_variable
 begin_variable
 var1923
 -1
 2
-0
-1
+Atom clear(f4-2f)
+NegatedAtom clear(f4-2f)
 end_variable
 0
 begin_state

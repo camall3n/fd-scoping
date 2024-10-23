@@ -9,1351 +9,1351 @@ begin_variable
 var0
 -1
 169
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-32
-33
-34
-35
-36
-37
-38
-39
-40
-41
-42
-43
-44
-45
-46
-47
-48
-49
-50
-51
-52
-53
-54
-55
-56
-57
-58
-59
-60
-61
-62
-63
-64
-65
-66
-67
-68
-69
-70
-71
-72
-73
-74
-75
-76
-77
-78
-79
-80
-81
-82
-83
-84
-85
-86
-87
-88
-89
-90
-91
-92
-93
-94
-95
-96
-97
-98
-99
-100
-101
-102
-103
-104
-105
-106
-107
-108
-109
-110
-111
-112
-113
-114
-115
-116
-117
-118
-119
-120
-121
-122
-123
-124
-125
-126
-127
-128
-129
-130
-131
-132
-133
-134
-135
-136
-137
-138
-139
-140
-141
-142
-143
-144
-145
-146
-147
-148
-149
-150
-151
-152
-153
-154
-155
-156
-157
-158
-159
-160
-161
-162
-163
-164
-165
-166
-167
-168
+Atom at-robot(loc-x0-y0)
+Atom at-robot(loc-x0-y1)
+Atom at-robot(loc-x0-y10)
+Atom at-robot(loc-x0-y11)
+Atom at-robot(loc-x0-y12)
+Atom at-robot(loc-x0-y2)
+Atom at-robot(loc-x0-y3)
+Atom at-robot(loc-x0-y4)
+Atom at-robot(loc-x0-y5)
+Atom at-robot(loc-x0-y6)
+Atom at-robot(loc-x0-y7)
+Atom at-robot(loc-x0-y8)
+Atom at-robot(loc-x0-y9)
+Atom at-robot(loc-x1-y0)
+Atom at-robot(loc-x1-y1)
+Atom at-robot(loc-x1-y10)
+Atom at-robot(loc-x1-y11)
+Atom at-robot(loc-x1-y12)
+Atom at-robot(loc-x1-y2)
+Atom at-robot(loc-x1-y3)
+Atom at-robot(loc-x1-y4)
+Atom at-robot(loc-x1-y5)
+Atom at-robot(loc-x1-y6)
+Atom at-robot(loc-x1-y7)
+Atom at-robot(loc-x1-y8)
+Atom at-robot(loc-x1-y9)
+Atom at-robot(loc-x10-y0)
+Atom at-robot(loc-x10-y1)
+Atom at-robot(loc-x10-y10)
+Atom at-robot(loc-x10-y11)
+Atom at-robot(loc-x10-y12)
+Atom at-robot(loc-x10-y2)
+Atom at-robot(loc-x10-y3)
+Atom at-robot(loc-x10-y4)
+Atom at-robot(loc-x10-y5)
+Atom at-robot(loc-x10-y6)
+Atom at-robot(loc-x10-y7)
+Atom at-robot(loc-x10-y8)
+Atom at-robot(loc-x10-y9)
+Atom at-robot(loc-x11-y0)
+Atom at-robot(loc-x11-y1)
+Atom at-robot(loc-x11-y10)
+Atom at-robot(loc-x11-y11)
+Atom at-robot(loc-x11-y12)
+Atom at-robot(loc-x11-y2)
+Atom at-robot(loc-x11-y3)
+Atom at-robot(loc-x11-y4)
+Atom at-robot(loc-x11-y5)
+Atom at-robot(loc-x11-y6)
+Atom at-robot(loc-x11-y7)
+Atom at-robot(loc-x11-y8)
+Atom at-robot(loc-x11-y9)
+Atom at-robot(loc-x12-y0)
+Atom at-robot(loc-x12-y1)
+Atom at-robot(loc-x12-y10)
+Atom at-robot(loc-x12-y11)
+Atom at-robot(loc-x12-y12)
+Atom at-robot(loc-x12-y2)
+Atom at-robot(loc-x12-y3)
+Atom at-robot(loc-x12-y4)
+Atom at-robot(loc-x12-y5)
+Atom at-robot(loc-x12-y6)
+Atom at-robot(loc-x12-y7)
+Atom at-robot(loc-x12-y8)
+Atom at-robot(loc-x12-y9)
+Atom at-robot(loc-x2-y0)
+Atom at-robot(loc-x2-y1)
+Atom at-robot(loc-x2-y10)
+Atom at-robot(loc-x2-y11)
+Atom at-robot(loc-x2-y12)
+Atom at-robot(loc-x2-y2)
+Atom at-robot(loc-x2-y3)
+Atom at-robot(loc-x2-y4)
+Atom at-robot(loc-x2-y5)
+Atom at-robot(loc-x2-y6)
+Atom at-robot(loc-x2-y7)
+Atom at-robot(loc-x2-y8)
+Atom at-robot(loc-x2-y9)
+Atom at-robot(loc-x3-y0)
+Atom at-robot(loc-x3-y1)
+Atom at-robot(loc-x3-y10)
+Atom at-robot(loc-x3-y11)
+Atom at-robot(loc-x3-y12)
+Atom at-robot(loc-x3-y2)
+Atom at-robot(loc-x3-y3)
+Atom at-robot(loc-x3-y4)
+Atom at-robot(loc-x3-y5)
+Atom at-robot(loc-x3-y6)
+Atom at-robot(loc-x3-y7)
+Atom at-robot(loc-x3-y8)
+Atom at-robot(loc-x3-y9)
+Atom at-robot(loc-x4-y0)
+Atom at-robot(loc-x4-y1)
+Atom at-robot(loc-x4-y10)
+Atom at-robot(loc-x4-y11)
+Atom at-robot(loc-x4-y12)
+Atom at-robot(loc-x4-y2)
+Atom at-robot(loc-x4-y3)
+Atom at-robot(loc-x4-y4)
+Atom at-robot(loc-x4-y5)
+Atom at-robot(loc-x4-y6)
+Atom at-robot(loc-x4-y7)
+Atom at-robot(loc-x4-y8)
+Atom at-robot(loc-x4-y9)
+Atom at-robot(loc-x5-y0)
+Atom at-robot(loc-x5-y1)
+Atom at-robot(loc-x5-y10)
+Atom at-robot(loc-x5-y11)
+Atom at-robot(loc-x5-y12)
+Atom at-robot(loc-x5-y2)
+Atom at-robot(loc-x5-y3)
+Atom at-robot(loc-x5-y4)
+Atom at-robot(loc-x5-y5)
+Atom at-robot(loc-x5-y6)
+Atom at-robot(loc-x5-y7)
+Atom at-robot(loc-x5-y8)
+Atom at-robot(loc-x5-y9)
+Atom at-robot(loc-x6-y0)
+Atom at-robot(loc-x6-y1)
+Atom at-robot(loc-x6-y10)
+Atom at-robot(loc-x6-y11)
+Atom at-robot(loc-x6-y12)
+Atom at-robot(loc-x6-y2)
+Atom at-robot(loc-x6-y3)
+Atom at-robot(loc-x6-y4)
+Atom at-robot(loc-x6-y5)
+Atom at-robot(loc-x6-y6)
+Atom at-robot(loc-x6-y7)
+Atom at-robot(loc-x6-y8)
+Atom at-robot(loc-x6-y9)
+Atom at-robot(loc-x7-y0)
+Atom at-robot(loc-x7-y1)
+Atom at-robot(loc-x7-y10)
+Atom at-robot(loc-x7-y11)
+Atom at-robot(loc-x7-y12)
+Atom at-robot(loc-x7-y2)
+Atom at-robot(loc-x7-y3)
+Atom at-robot(loc-x7-y4)
+Atom at-robot(loc-x7-y5)
+Atom at-robot(loc-x7-y6)
+Atom at-robot(loc-x7-y7)
+Atom at-robot(loc-x7-y8)
+Atom at-robot(loc-x7-y9)
+Atom at-robot(loc-x8-y0)
+Atom at-robot(loc-x8-y1)
+Atom at-robot(loc-x8-y10)
+Atom at-robot(loc-x8-y11)
+Atom at-robot(loc-x8-y12)
+Atom at-robot(loc-x8-y2)
+Atom at-robot(loc-x8-y3)
+Atom at-robot(loc-x8-y4)
+Atom at-robot(loc-x8-y5)
+Atom at-robot(loc-x8-y6)
+Atom at-robot(loc-x8-y7)
+Atom at-robot(loc-x8-y8)
+Atom at-robot(loc-x8-y9)
+Atom at-robot(loc-x9-y0)
+Atom at-robot(loc-x9-y1)
+Atom at-robot(loc-x9-y10)
+Atom at-robot(loc-x9-y11)
+Atom at-robot(loc-x9-y12)
+Atom at-robot(loc-x9-y2)
+Atom at-robot(loc-x9-y3)
+Atom at-robot(loc-x9-y4)
+Atom at-robot(loc-x9-y5)
+Atom at-robot(loc-x9-y6)
+Atom at-robot(loc-x9-y7)
+Atom at-robot(loc-x9-y8)
+Atom at-robot(loc-x9-y9)
 end_variable
 begin_variable
 var1
 -1
 2
-0
-1
+Atom visited(loc-x9-y9)
+NegatedAtom visited(loc-x9-y9)
 end_variable
 begin_variable
 var2
 -1
 2
-0
-1
+Atom visited(loc-x9-y8)
+NegatedAtom visited(loc-x9-y8)
 end_variable
 begin_variable
 var3
 -1
 2
-0
-1
+Atom visited(loc-x9-y7)
+NegatedAtom visited(loc-x9-y7)
 end_variable
 begin_variable
 var4
 -1
 2
-0
-1
+Atom visited(loc-x9-y6)
+NegatedAtom visited(loc-x9-y6)
 end_variable
 begin_variable
 var5
 -1
 2
-0
-1
+Atom visited(loc-x9-y5)
+NegatedAtom visited(loc-x9-y5)
 end_variable
 begin_variable
 var6
 -1
 2
-0
-1
+Atom visited(loc-x9-y4)
+NegatedAtom visited(loc-x9-y4)
 end_variable
 begin_variable
 var7
 -1
 2
-0
-1
+Atom visited(loc-x9-y3)
+NegatedAtom visited(loc-x9-y3)
 end_variable
 begin_variable
 var8
 -1
 2
-0
-1
+Atom visited(loc-x9-y2)
+NegatedAtom visited(loc-x9-y2)
 end_variable
 begin_variable
 var9
 -1
 2
-0
-1
+Atom visited(loc-x9-y12)
+NegatedAtom visited(loc-x9-y12)
 end_variable
 begin_variable
 var10
 -1
 2
-0
-1
+Atom visited(loc-x9-y11)
+NegatedAtom visited(loc-x9-y11)
 end_variable
 begin_variable
 var11
 -1
 2
-0
-1
+Atom visited(loc-x9-y10)
+NegatedAtom visited(loc-x9-y10)
 end_variable
 begin_variable
 var12
 -1
 2
-0
-1
+Atom visited(loc-x9-y1)
+NegatedAtom visited(loc-x9-y1)
 end_variable
 begin_variable
 var13
 -1
 2
-0
-1
+Atom visited(loc-x9-y0)
+NegatedAtom visited(loc-x9-y0)
 end_variable
 begin_variable
 var14
 -1
 2
-0
-1
+Atom visited(loc-x8-y9)
+NegatedAtom visited(loc-x8-y9)
 end_variable
 begin_variable
 var15
 -1
 2
-0
-1
+Atom visited(loc-x8-y8)
+NegatedAtom visited(loc-x8-y8)
 end_variable
 begin_variable
 var16
 -1
 2
-0
-1
+Atom visited(loc-x8-y7)
+NegatedAtom visited(loc-x8-y7)
 end_variable
 begin_variable
 var17
 -1
 2
-0
-1
+Atom visited(loc-x8-y6)
+NegatedAtom visited(loc-x8-y6)
 end_variable
 begin_variable
 var18
 -1
 2
-0
-1
+Atom visited(loc-x8-y5)
+NegatedAtom visited(loc-x8-y5)
 end_variable
 begin_variable
 var19
 -1
 2
-0
-1
+Atom visited(loc-x8-y4)
+NegatedAtom visited(loc-x8-y4)
 end_variable
 begin_variable
 var20
 -1
 2
-0
-1
+Atom visited(loc-x8-y3)
+NegatedAtom visited(loc-x8-y3)
 end_variable
 begin_variable
 var21
 -1
 2
-0
-1
+Atom visited(loc-x8-y2)
+NegatedAtom visited(loc-x8-y2)
 end_variable
 begin_variable
 var22
 -1
 2
-0
-1
+Atom visited(loc-x8-y12)
+NegatedAtom visited(loc-x8-y12)
 end_variable
 begin_variable
 var23
 -1
 2
-0
-1
+Atom visited(loc-x8-y11)
+NegatedAtom visited(loc-x8-y11)
 end_variable
 begin_variable
 var24
 -1
 2
-0
-1
+Atom visited(loc-x8-y10)
+NegatedAtom visited(loc-x8-y10)
 end_variable
 begin_variable
 var25
 -1
 2
-0
-1
+Atom visited(loc-x8-y1)
+NegatedAtom visited(loc-x8-y1)
 end_variable
 begin_variable
 var26
 -1
 2
-0
-1
+Atom visited(loc-x8-y0)
+NegatedAtom visited(loc-x8-y0)
 end_variable
 begin_variable
 var27
 -1
 2
-0
-1
+Atom visited(loc-x7-y9)
+NegatedAtom visited(loc-x7-y9)
 end_variable
 begin_variable
 var28
 -1
 2
-0
-1
+Atom visited(loc-x7-y8)
+NegatedAtom visited(loc-x7-y8)
 end_variable
 begin_variable
 var29
 -1
 2
-0
-1
+Atom visited(loc-x7-y7)
+NegatedAtom visited(loc-x7-y7)
 end_variable
 begin_variable
 var30
 -1
 2
-0
-1
+Atom visited(loc-x7-y6)
+NegatedAtom visited(loc-x7-y6)
 end_variable
 begin_variable
 var31
 -1
 2
-0
-1
+Atom visited(loc-x7-y5)
+NegatedAtom visited(loc-x7-y5)
 end_variable
 begin_variable
 var32
 -1
 2
-0
-1
+Atom visited(loc-x7-y4)
+NegatedAtom visited(loc-x7-y4)
 end_variable
 begin_variable
 var33
 -1
 2
-0
-1
+Atom visited(loc-x7-y3)
+NegatedAtom visited(loc-x7-y3)
 end_variable
 begin_variable
 var34
 -1
 2
-0
-1
+Atom visited(loc-x7-y2)
+NegatedAtom visited(loc-x7-y2)
 end_variable
 begin_variable
 var35
 -1
 2
-0
-1
+Atom visited(loc-x7-y12)
+NegatedAtom visited(loc-x7-y12)
 end_variable
 begin_variable
 var36
 -1
 2
-0
-1
+Atom visited(loc-x7-y11)
+NegatedAtom visited(loc-x7-y11)
 end_variable
 begin_variable
 var37
 -1
 2
-0
-1
+Atom visited(loc-x7-y10)
+NegatedAtom visited(loc-x7-y10)
 end_variable
 begin_variable
 var38
 -1
 2
-0
-1
+Atom visited(loc-x7-y1)
+NegatedAtom visited(loc-x7-y1)
 end_variable
 begin_variable
 var39
 -1
 2
-0
-1
+Atom visited(loc-x7-y0)
+NegatedAtom visited(loc-x7-y0)
 end_variable
 begin_variable
 var40
 -1
 2
-0
-1
+Atom visited(loc-x6-y9)
+NegatedAtom visited(loc-x6-y9)
 end_variable
 begin_variable
 var41
 -1
 2
-0
-1
+Atom visited(loc-x6-y8)
+NegatedAtom visited(loc-x6-y8)
 end_variable
 begin_variable
 var42
 -1
 2
-0
-1
+Atom visited(loc-x6-y7)
+NegatedAtom visited(loc-x6-y7)
 end_variable
 begin_variable
 var43
 -1
 2
-0
-1
+Atom visited(loc-x6-y5)
+NegatedAtom visited(loc-x6-y5)
 end_variable
 begin_variable
 var44
 -1
 2
-0
-1
+Atom visited(loc-x6-y4)
+NegatedAtom visited(loc-x6-y4)
 end_variable
 begin_variable
 var45
 -1
 2
-0
-1
+Atom visited(loc-x6-y3)
+NegatedAtom visited(loc-x6-y3)
 end_variable
 begin_variable
 var46
 -1
 2
-0
-1
+Atom visited(loc-x6-y2)
+NegatedAtom visited(loc-x6-y2)
 end_variable
 begin_variable
 var47
 -1
 2
-0
-1
+Atom visited(loc-x6-y12)
+NegatedAtom visited(loc-x6-y12)
 end_variable
 begin_variable
 var48
 -1
 2
-0
-1
+Atom visited(loc-x6-y11)
+NegatedAtom visited(loc-x6-y11)
 end_variable
 begin_variable
 var49
 -1
 2
-0
-1
+Atom visited(loc-x6-y10)
+NegatedAtom visited(loc-x6-y10)
 end_variable
 begin_variable
 var50
 -1
 2
-0
-1
+Atom visited(loc-x6-y1)
+NegatedAtom visited(loc-x6-y1)
 end_variable
 begin_variable
 var51
 -1
 2
-0
-1
+Atom visited(loc-x6-y0)
+NegatedAtom visited(loc-x6-y0)
 end_variable
 begin_variable
 var52
 -1
 2
-0
-1
+Atom visited(loc-x5-y9)
+NegatedAtom visited(loc-x5-y9)
 end_variable
 begin_variable
 var53
 -1
 2
-0
-1
+Atom visited(loc-x5-y8)
+NegatedAtom visited(loc-x5-y8)
 end_variable
 begin_variable
 var54
 -1
 2
-0
-1
+Atom visited(loc-x5-y7)
+NegatedAtom visited(loc-x5-y7)
 end_variable
 begin_variable
 var55
 -1
 2
-0
-1
+Atom visited(loc-x5-y6)
+NegatedAtom visited(loc-x5-y6)
 end_variable
 begin_variable
 var56
 -1
 2
-0
-1
+Atom visited(loc-x5-y5)
+NegatedAtom visited(loc-x5-y5)
 end_variable
 begin_variable
 var57
 -1
 2
-0
-1
+Atom visited(loc-x5-y4)
+NegatedAtom visited(loc-x5-y4)
 end_variable
 begin_variable
 var58
 -1
 2
-0
-1
+Atom visited(loc-x5-y3)
+NegatedAtom visited(loc-x5-y3)
 end_variable
 begin_variable
 var59
 -1
 2
-0
-1
+Atom visited(loc-x5-y2)
+NegatedAtom visited(loc-x5-y2)
 end_variable
 begin_variable
 var60
 -1
 2
-0
-1
+Atom visited(loc-x5-y12)
+NegatedAtom visited(loc-x5-y12)
 end_variable
 begin_variable
 var61
 -1
 2
-0
-1
+Atom visited(loc-x5-y11)
+NegatedAtom visited(loc-x5-y11)
 end_variable
 begin_variable
 var62
 -1
 2
-0
-1
+Atom visited(loc-x5-y10)
+NegatedAtom visited(loc-x5-y10)
 end_variable
 begin_variable
 var63
 -1
 2
-0
-1
+Atom visited(loc-x5-y1)
+NegatedAtom visited(loc-x5-y1)
 end_variable
 begin_variable
 var64
 -1
 2
-0
-1
+Atom visited(loc-x5-y0)
+NegatedAtom visited(loc-x5-y0)
 end_variable
 begin_variable
 var65
 -1
 2
-0
-1
+Atom visited(loc-x4-y9)
+NegatedAtom visited(loc-x4-y9)
 end_variable
 begin_variable
 var66
 -1
 2
-0
-1
+Atom visited(loc-x4-y8)
+NegatedAtom visited(loc-x4-y8)
 end_variable
 begin_variable
 var67
 -1
 2
-0
-1
+Atom visited(loc-x4-y7)
+NegatedAtom visited(loc-x4-y7)
 end_variable
 begin_variable
 var68
 -1
 2
-0
-1
+Atom visited(loc-x4-y6)
+NegatedAtom visited(loc-x4-y6)
 end_variable
 begin_variable
 var69
 -1
 2
-0
-1
+Atom visited(loc-x4-y5)
+NegatedAtom visited(loc-x4-y5)
 end_variable
 begin_variable
 var70
 -1
 2
-0
-1
+Atom visited(loc-x4-y4)
+NegatedAtom visited(loc-x4-y4)
 end_variable
 begin_variable
 var71
 -1
 2
-0
-1
+Atom visited(loc-x4-y3)
+NegatedAtom visited(loc-x4-y3)
 end_variable
 begin_variable
 var72
 -1
 2
-0
-1
+Atom visited(loc-x4-y2)
+NegatedAtom visited(loc-x4-y2)
 end_variable
 begin_variable
 var73
 -1
 2
-0
-1
+Atom visited(loc-x4-y12)
+NegatedAtom visited(loc-x4-y12)
 end_variable
 begin_variable
 var74
 -1
 2
-0
-1
+Atom visited(loc-x4-y11)
+NegatedAtom visited(loc-x4-y11)
 end_variable
 begin_variable
 var75
 -1
 2
-0
-1
+Atom visited(loc-x4-y10)
+NegatedAtom visited(loc-x4-y10)
 end_variable
 begin_variable
 var76
 -1
 2
-0
-1
+Atom visited(loc-x4-y1)
+NegatedAtom visited(loc-x4-y1)
 end_variable
 begin_variable
 var77
 -1
 2
-0
-1
+Atom visited(loc-x4-y0)
+NegatedAtom visited(loc-x4-y0)
 end_variable
 begin_variable
 var78
 -1
 2
-0
-1
+Atom visited(loc-x3-y9)
+NegatedAtom visited(loc-x3-y9)
 end_variable
 begin_variable
 var79
 -1
 2
-0
-1
+Atom visited(loc-x3-y8)
+NegatedAtom visited(loc-x3-y8)
 end_variable
 begin_variable
 var80
 -1
 2
-0
-1
+Atom visited(loc-x3-y7)
+NegatedAtom visited(loc-x3-y7)
 end_variable
 begin_variable
 var81
 -1
 2
-0
-1
+Atom visited(loc-x3-y6)
+NegatedAtom visited(loc-x3-y6)
 end_variable
 begin_variable
 var82
 -1
 2
-0
-1
+Atom visited(loc-x3-y5)
+NegatedAtom visited(loc-x3-y5)
 end_variable
 begin_variable
 var83
 -1
 2
-0
-1
+Atom visited(loc-x3-y4)
+NegatedAtom visited(loc-x3-y4)
 end_variable
 begin_variable
 var84
 -1
 2
-0
-1
+Atom visited(loc-x3-y3)
+NegatedAtom visited(loc-x3-y3)
 end_variable
 begin_variable
 var85
 -1
 2
-0
-1
+Atom visited(loc-x3-y2)
+NegatedAtom visited(loc-x3-y2)
 end_variable
 begin_variable
 var86
 -1
 2
-0
-1
+Atom visited(loc-x3-y12)
+NegatedAtom visited(loc-x3-y12)
 end_variable
 begin_variable
 var87
 -1
 2
-0
-1
+Atom visited(loc-x3-y11)
+NegatedAtom visited(loc-x3-y11)
 end_variable
 begin_variable
 var88
 -1
 2
-0
-1
+Atom visited(loc-x3-y10)
+NegatedAtom visited(loc-x3-y10)
 end_variable
 begin_variable
 var89
 -1
 2
-0
-1
+Atom visited(loc-x3-y1)
+NegatedAtom visited(loc-x3-y1)
 end_variable
 begin_variable
 var90
 -1
 2
-0
-1
+Atom visited(loc-x3-y0)
+NegatedAtom visited(loc-x3-y0)
 end_variable
 begin_variable
 var91
 -1
 2
-0
-1
+Atom visited(loc-x2-y9)
+NegatedAtom visited(loc-x2-y9)
 end_variable
 begin_variable
 var92
 -1
 2
-0
-1
+Atom visited(loc-x2-y8)
+NegatedAtom visited(loc-x2-y8)
 end_variable
 begin_variable
 var93
 -1
 2
-0
-1
+Atom visited(loc-x2-y7)
+NegatedAtom visited(loc-x2-y7)
 end_variable
 begin_variable
 var94
 -1
 2
-0
-1
+Atom visited(loc-x2-y6)
+NegatedAtom visited(loc-x2-y6)
 end_variable
 begin_variable
 var95
 -1
 2
-0
-1
+Atom visited(loc-x2-y5)
+NegatedAtom visited(loc-x2-y5)
 end_variable
 begin_variable
 var96
 -1
 2
-0
-1
+Atom visited(loc-x2-y4)
+NegatedAtom visited(loc-x2-y4)
 end_variable
 begin_variable
 var97
 -1
 2
-0
-1
+Atom visited(loc-x2-y3)
+NegatedAtom visited(loc-x2-y3)
 end_variable
 begin_variable
 var98
 -1
 2
-0
-1
+Atom visited(loc-x2-y2)
+NegatedAtom visited(loc-x2-y2)
 end_variable
 begin_variable
 var99
 -1
 2
-0
-1
+Atom visited(loc-x2-y12)
+NegatedAtom visited(loc-x2-y12)
 end_variable
 begin_variable
 var100
 -1
 2
-0
-1
+Atom visited(loc-x2-y11)
+NegatedAtom visited(loc-x2-y11)
 end_variable
 begin_variable
 var101
 -1
 2
-0
-1
+Atom visited(loc-x2-y10)
+NegatedAtom visited(loc-x2-y10)
 end_variable
 begin_variable
 var102
 -1
 2
-0
-1
+Atom visited(loc-x2-y1)
+NegatedAtom visited(loc-x2-y1)
 end_variable
 begin_variable
 var103
 -1
 2
-0
-1
+Atom visited(loc-x2-y0)
+NegatedAtom visited(loc-x2-y0)
 end_variable
 begin_variable
 var104
 -1
 2
-0
-1
+Atom visited(loc-x12-y9)
+NegatedAtom visited(loc-x12-y9)
 end_variable
 begin_variable
 var105
 -1
 2
-0
-1
+Atom visited(loc-x12-y8)
+NegatedAtom visited(loc-x12-y8)
 end_variable
 begin_variable
 var106
 -1
 2
-0
-1
+Atom visited(loc-x12-y7)
+NegatedAtom visited(loc-x12-y7)
 end_variable
 begin_variable
 var107
 -1
 2
-0
-1
+Atom visited(loc-x12-y6)
+NegatedAtom visited(loc-x12-y6)
 end_variable
 begin_variable
 var108
 -1
 2
-0
-1
+Atom visited(loc-x12-y5)
+NegatedAtom visited(loc-x12-y5)
 end_variable
 begin_variable
 var109
 -1
 2
-0
-1
+Atom visited(loc-x12-y4)
+NegatedAtom visited(loc-x12-y4)
 end_variable
 begin_variable
 var110
 -1
 2
-0
-1
+Atom visited(loc-x12-y3)
+NegatedAtom visited(loc-x12-y3)
 end_variable
 begin_variable
 var111
 -1
 2
-0
-1
+Atom visited(loc-x12-y2)
+NegatedAtom visited(loc-x12-y2)
 end_variable
 begin_variable
 var112
 -1
 2
-0
-1
+Atom visited(loc-x12-y12)
+NegatedAtom visited(loc-x12-y12)
 end_variable
 begin_variable
 var113
 -1
 2
-0
-1
+Atom visited(loc-x12-y11)
+NegatedAtom visited(loc-x12-y11)
 end_variable
 begin_variable
 var114
 -1
 2
-0
-1
+Atom visited(loc-x12-y10)
+NegatedAtom visited(loc-x12-y10)
 end_variable
 begin_variable
 var115
 -1
 2
-0
-1
+Atom visited(loc-x12-y1)
+NegatedAtom visited(loc-x12-y1)
 end_variable
 begin_variable
 var116
 -1
 2
-0
-1
+Atom visited(loc-x12-y0)
+NegatedAtom visited(loc-x12-y0)
 end_variable
 begin_variable
 var117
 -1
 2
-0
-1
+Atom visited(loc-x11-y9)
+NegatedAtom visited(loc-x11-y9)
 end_variable
 begin_variable
 var118
 -1
 2
-0
-1
+Atom visited(loc-x11-y8)
+NegatedAtom visited(loc-x11-y8)
 end_variable
 begin_variable
 var119
 -1
 2
-0
-1
+Atom visited(loc-x11-y7)
+NegatedAtom visited(loc-x11-y7)
 end_variable
 begin_variable
 var120
 -1
 2
-0
-1
+Atom visited(loc-x11-y6)
+NegatedAtom visited(loc-x11-y6)
 end_variable
 begin_variable
 var121
 -1
 2
-0
-1
+Atom visited(loc-x11-y5)
+NegatedAtom visited(loc-x11-y5)
 end_variable
 begin_variable
 var122
 -1
 2
-0
-1
+Atom visited(loc-x11-y4)
+NegatedAtom visited(loc-x11-y4)
 end_variable
 begin_variable
 var123
 -1
 2
-0
-1
+Atom visited(loc-x11-y3)
+NegatedAtom visited(loc-x11-y3)
 end_variable
 begin_variable
 var124
 -1
 2
-0
-1
+Atom visited(loc-x11-y2)
+NegatedAtom visited(loc-x11-y2)
 end_variable
 begin_variable
 var125
 -1
 2
-0
-1
+Atom visited(loc-x11-y12)
+NegatedAtom visited(loc-x11-y12)
 end_variable
 begin_variable
 var126
 -1
 2
-0
-1
+Atom visited(loc-x11-y11)
+NegatedAtom visited(loc-x11-y11)
 end_variable
 begin_variable
 var127
 -1
 2
-0
-1
+Atom visited(loc-x11-y10)
+NegatedAtom visited(loc-x11-y10)
 end_variable
 begin_variable
 var128
 -1
 2
-0
-1
+Atom visited(loc-x11-y1)
+NegatedAtom visited(loc-x11-y1)
 end_variable
 begin_variable
 var129
 -1
 2
-0
-1
+Atom visited(loc-x11-y0)
+NegatedAtom visited(loc-x11-y0)
 end_variable
 begin_variable
 var130
 -1
 2
-0
-1
+Atom visited(loc-x10-y9)
+NegatedAtom visited(loc-x10-y9)
 end_variable
 begin_variable
 var131
 -1
 2
-0
-1
+Atom visited(loc-x10-y8)
+NegatedAtom visited(loc-x10-y8)
 end_variable
 begin_variable
 var132
 -1
 2
-0
-1
+Atom visited(loc-x10-y7)
+NegatedAtom visited(loc-x10-y7)
 end_variable
 begin_variable
 var133
 -1
 2
-0
-1
+Atom visited(loc-x10-y6)
+NegatedAtom visited(loc-x10-y6)
 end_variable
 begin_variable
 var134
 -1
 2
-0
-1
+Atom visited(loc-x10-y5)
+NegatedAtom visited(loc-x10-y5)
 end_variable
 begin_variable
 var135
 -1
 2
-0
-1
+Atom visited(loc-x10-y4)
+NegatedAtom visited(loc-x10-y4)
 end_variable
 begin_variable
 var136
 -1
 2
-0
-1
+Atom visited(loc-x10-y3)
+NegatedAtom visited(loc-x10-y3)
 end_variable
 begin_variable
 var137
 -1
 2
-0
-1
+Atom visited(loc-x10-y2)
+NegatedAtom visited(loc-x10-y2)
 end_variable
 begin_variable
 var138
 -1
 2
-0
-1
+Atom visited(loc-x10-y12)
+NegatedAtom visited(loc-x10-y12)
 end_variable
 begin_variable
 var139
 -1
 2
-0
-1
+Atom visited(loc-x10-y11)
+NegatedAtom visited(loc-x10-y11)
 end_variable
 begin_variable
 var140
 -1
 2
-0
-1
+Atom visited(loc-x10-y10)
+NegatedAtom visited(loc-x10-y10)
 end_variable
 begin_variable
 var141
 -1
 2
-0
-1
+Atom visited(loc-x10-y1)
+NegatedAtom visited(loc-x10-y1)
 end_variable
 begin_variable
 var142
 -1
 2
-0
-1
+Atom visited(loc-x10-y0)
+NegatedAtom visited(loc-x10-y0)
 end_variable
 begin_variable
 var143
 -1
 2
-0
-1
+Atom visited(loc-x1-y9)
+NegatedAtom visited(loc-x1-y9)
 end_variable
 begin_variable
 var144
 -1
 2
-0
-1
+Atom visited(loc-x1-y8)
+NegatedAtom visited(loc-x1-y8)
 end_variable
 begin_variable
 var145
 -1
 2
-0
-1
+Atom visited(loc-x1-y7)
+NegatedAtom visited(loc-x1-y7)
 end_variable
 begin_variable
 var146
 -1
 2
-0
-1
+Atom visited(loc-x1-y6)
+NegatedAtom visited(loc-x1-y6)
 end_variable
 begin_variable
 var147
 -1
 2
-0
-1
+Atom visited(loc-x1-y5)
+NegatedAtom visited(loc-x1-y5)
 end_variable
 begin_variable
 var148
 -1
 2
-0
-1
+Atom visited(loc-x1-y4)
+NegatedAtom visited(loc-x1-y4)
 end_variable
 begin_variable
 var149
 -1
 2
-0
-1
+Atom visited(loc-x1-y3)
+NegatedAtom visited(loc-x1-y3)
 end_variable
 begin_variable
 var150
 -1
 2
-0
-1
+Atom visited(loc-x1-y2)
+NegatedAtom visited(loc-x1-y2)
 end_variable
 begin_variable
 var151
 -1
 2
-0
-1
+Atom visited(loc-x1-y12)
+NegatedAtom visited(loc-x1-y12)
 end_variable
 begin_variable
 var152
 -1
 2
-0
-1
+Atom visited(loc-x1-y11)
+NegatedAtom visited(loc-x1-y11)
 end_variable
 begin_variable
 var153
 -1
 2
-0
-1
+Atom visited(loc-x1-y10)
+NegatedAtom visited(loc-x1-y10)
 end_variable
 begin_variable
 var154
 -1
 2
-0
-1
+Atom visited(loc-x1-y1)
+NegatedAtom visited(loc-x1-y1)
 end_variable
 begin_variable
 var155
 -1
 2
-0
-1
+Atom visited(loc-x1-y0)
+NegatedAtom visited(loc-x1-y0)
 end_variable
 begin_variable
 var156
 -1
 2
-0
-1
+Atom visited(loc-x0-y9)
+NegatedAtom visited(loc-x0-y9)
 end_variable
 begin_variable
 var157
 -1
 2
-0
-1
+Atom visited(loc-x0-y8)
+NegatedAtom visited(loc-x0-y8)
 end_variable
 begin_variable
 var158
 -1
 2
-0
-1
+Atom visited(loc-x0-y7)
+NegatedAtom visited(loc-x0-y7)
 end_variable
 begin_variable
 var159
 -1
 2
-0
-1
+Atom visited(loc-x0-y6)
+NegatedAtom visited(loc-x0-y6)
 end_variable
 begin_variable
 var160
 -1
 2
-0
-1
+Atom visited(loc-x0-y5)
+NegatedAtom visited(loc-x0-y5)
 end_variable
 begin_variable
 var161
 -1
 2
-0
-1
+Atom visited(loc-x0-y4)
+NegatedAtom visited(loc-x0-y4)
 end_variable
 begin_variable
 var162
 -1
 2
-0
-1
+Atom visited(loc-x0-y3)
+NegatedAtom visited(loc-x0-y3)
 end_variable
 begin_variable
 var163
 -1
 2
-0
-1
+Atom visited(loc-x0-y2)
+NegatedAtom visited(loc-x0-y2)
 end_variable
 begin_variable
 var164
 -1
 2
-0
-1
+Atom visited(loc-x0-y12)
+NegatedAtom visited(loc-x0-y12)
 end_variable
 begin_variable
 var165
 -1
 2
-0
-1
+Atom visited(loc-x0-y11)
+NegatedAtom visited(loc-x0-y11)
 end_variable
 begin_variable
 var166
 -1
 2
-0
-1
+Atom visited(loc-x0-y10)
+NegatedAtom visited(loc-x0-y10)
 end_variable
 begin_variable
 var167
 -1
 2
-0
-1
+Atom visited(loc-x0-y1)
+NegatedAtom visited(loc-x0-y1)
 end_variable
 begin_variable
 var168
 -1
 2
-0
-1
+Atom visited(loc-x0-y0)
+NegatedAtom visited(loc-x0-y0)
 end_variable
 0
 begin_state

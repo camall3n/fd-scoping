@@ -9,66 +9,66 @@ begin_variable
 var0
 -1
 4
-0
-1
-2
-3
+Atom at(rover0, waypoint0)
+Atom at(rover0, waypoint1)
+Atom at(rover0, waypoint2)
+Atom at(rover0, waypoint3)
 end_variable
 begin_variable
 var1
 -1
 2
-0
-1
+Atom calibrated(camera0, rover0)
+NegatedAtom calibrated(camera0, rover0)
 end_variable
 begin_variable
 var2
 -1
 2
-0
-1
+Atom have_image(rover0, objective1, low_res)
+NegatedAtom have_image(rover0, objective1, low_res)
 end_variable
 begin_variable
 var3
 -1
 2
-0
-1
+Atom communicated_image_data(objective1, low_res)
+NegatedAtom communicated_image_data(objective1, low_res)
 end_variable
 begin_variable
 var4
 -1
 2
-0
-1
+Atom at_rock_sample(waypoint0)
+Atom have_rock_analysis(rover0, waypoint0)
 end_variable
 begin_variable
 var5
 -1
 2
-0
-1
+Atom at_soil_sample(waypoint0)
+Atom have_soil_analysis(rover0, waypoint0)
 end_variable
 begin_variable
 var6
 -1
 2
-0
-1
+Atom empty(rover0store)
+Atom full(rover0store)
 end_variable
 begin_variable
 var7
 -1
 2
-0
-1
+Atom communicated_soil_data(waypoint0)
+NegatedAtom communicated_soil_data(waypoint0)
 end_variable
 begin_variable
 var8
 -1
 2
-0
-1
+Atom communicated_rock_data(waypoint0)
+NegatedAtom communicated_rock_data(waypoint0)
 end_variable
 0
 begin_state

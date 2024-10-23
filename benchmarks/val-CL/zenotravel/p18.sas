@@ -9,680 +9,680 @@ begin_variable
 var0
 -1
 18
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
+Atom at(plane5, city0)
+Atom at(plane5, city1)
+Atom at(plane5, city10)
+Atom at(plane5, city11)
+Atom at(plane5, city12)
+Atom at(plane5, city13)
+Atom at(plane5, city14)
+Atom at(plane5, city15)
+Atom at(plane5, city16)
+Atom at(plane5, city17)
+Atom at(plane5, city2)
+Atom at(plane5, city3)
+Atom at(plane5, city4)
+Atom at(plane5, city5)
+Atom at(plane5, city6)
+Atom at(plane5, city7)
+Atom at(plane5, city8)
+Atom at(plane5, city9)
 end_variable
 begin_variable
 var1
 -1
 7
-0
-1
-2
-3
-4
-5
-6
+Atom fuel-level(plane5, fl0)
+Atom fuel-level(plane5, fl1)
+Atom fuel-level(plane5, fl2)
+Atom fuel-level(plane5, fl3)
+Atom fuel-level(plane5, fl4)
+Atom fuel-level(plane5, fl5)
+Atom fuel-level(plane5, fl6)
 end_variable
 begin_variable
 var2
 -1
 18
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
+Atom at(plane4, city0)
+Atom at(plane4, city1)
+Atom at(plane4, city10)
+Atom at(plane4, city11)
+Atom at(plane4, city12)
+Atom at(plane4, city13)
+Atom at(plane4, city14)
+Atom at(plane4, city15)
+Atom at(plane4, city16)
+Atom at(plane4, city17)
+Atom at(plane4, city2)
+Atom at(plane4, city3)
+Atom at(plane4, city4)
+Atom at(plane4, city5)
+Atom at(plane4, city6)
+Atom at(plane4, city7)
+Atom at(plane4, city8)
+Atom at(plane4, city9)
 end_variable
 begin_variable
 var3
 -1
 7
-0
-1
-2
-3
-4
-5
-6
+Atom fuel-level(plane4, fl0)
+Atom fuel-level(plane4, fl1)
+Atom fuel-level(plane4, fl2)
+Atom fuel-level(plane4, fl3)
+Atom fuel-level(plane4, fl4)
+Atom fuel-level(plane4, fl5)
+Atom fuel-level(plane4, fl6)
 end_variable
 begin_variable
 var4
 -1
 18
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
+Atom at(plane3, city0)
+Atom at(plane3, city1)
+Atom at(plane3, city10)
+Atom at(plane3, city11)
+Atom at(plane3, city12)
+Atom at(plane3, city13)
+Atom at(plane3, city14)
+Atom at(plane3, city15)
+Atom at(plane3, city16)
+Atom at(plane3, city17)
+Atom at(plane3, city2)
+Atom at(plane3, city3)
+Atom at(plane3, city4)
+Atom at(plane3, city5)
+Atom at(plane3, city6)
+Atom at(plane3, city7)
+Atom at(plane3, city8)
+Atom at(plane3, city9)
 end_variable
 begin_variable
 var5
 -1
 7
-0
-1
-2
-3
-4
-5
-6
+Atom fuel-level(plane3, fl0)
+Atom fuel-level(plane3, fl1)
+Atom fuel-level(plane3, fl2)
+Atom fuel-level(plane3, fl3)
+Atom fuel-level(plane3, fl4)
+Atom fuel-level(plane3, fl5)
+Atom fuel-level(plane3, fl6)
 end_variable
 begin_variable
 var6
 -1
 7
-0
-1
-2
-3
-4
-5
-6
+Atom fuel-level(plane2, fl0)
+Atom fuel-level(plane2, fl1)
+Atom fuel-level(plane2, fl2)
+Atom fuel-level(plane2, fl3)
+Atom fuel-level(plane2, fl4)
+Atom fuel-level(plane2, fl5)
+Atom fuel-level(plane2, fl6)
 end_variable
 begin_variable
 var7
 -1
 18
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
+Atom at(plane2, city0)
+Atom at(plane2, city1)
+Atom at(plane2, city10)
+Atom at(plane2, city11)
+Atom at(plane2, city12)
+Atom at(plane2, city13)
+Atom at(plane2, city14)
+Atom at(plane2, city15)
+Atom at(plane2, city16)
+Atom at(plane2, city17)
+Atom at(plane2, city2)
+Atom at(plane2, city3)
+Atom at(plane2, city4)
+Atom at(plane2, city5)
+Atom at(plane2, city6)
+Atom at(plane2, city7)
+Atom at(plane2, city8)
+Atom at(plane2, city9)
 end_variable
 begin_variable
 var8
 -1
 18
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
+Atom at(plane1, city0)
+Atom at(plane1, city1)
+Atom at(plane1, city10)
+Atom at(plane1, city11)
+Atom at(plane1, city12)
+Atom at(plane1, city13)
+Atom at(plane1, city14)
+Atom at(plane1, city15)
+Atom at(plane1, city16)
+Atom at(plane1, city17)
+Atom at(plane1, city2)
+Atom at(plane1, city3)
+Atom at(plane1, city4)
+Atom at(plane1, city5)
+Atom at(plane1, city6)
+Atom at(plane1, city7)
+Atom at(plane1, city8)
+Atom at(plane1, city9)
 end_variable
 begin_variable
 var9
 -1
 7
-0
-1
-2
-3
-4
-5
-6
+Atom fuel-level(plane1, fl0)
+Atom fuel-level(plane1, fl1)
+Atom fuel-level(plane1, fl2)
+Atom fuel-level(plane1, fl3)
+Atom fuel-level(plane1, fl4)
+Atom fuel-level(plane1, fl5)
+Atom fuel-level(plane1, fl6)
 end_variable
 begin_variable
 var10
 -1
 23
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
+Atom at(person9, city0)
+Atom at(person9, city1)
+Atom at(person9, city10)
+Atom at(person9, city11)
+Atom at(person9, city12)
+Atom at(person9, city13)
+Atom at(person9, city14)
+Atom at(person9, city15)
+Atom at(person9, city16)
+Atom at(person9, city17)
+Atom at(person9, city2)
+Atom at(person9, city3)
+Atom at(person9, city4)
+Atom at(person9, city5)
+Atom at(person9, city6)
+Atom at(person9, city7)
+Atom at(person9, city8)
+Atom at(person9, city9)
+Atom in(person9, plane1)
+Atom in(person9, plane2)
+Atom in(person9, plane3)
+Atom in(person9, plane4)
+Atom in(person9, plane5)
 end_variable
 begin_variable
 var11
 -1
 23
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
+Atom at(person6, city0)
+Atom at(person6, city1)
+Atom at(person6, city10)
+Atom at(person6, city11)
+Atom at(person6, city12)
+Atom at(person6, city13)
+Atom at(person6, city14)
+Atom at(person6, city15)
+Atom at(person6, city16)
+Atom at(person6, city17)
+Atom at(person6, city2)
+Atom at(person6, city3)
+Atom at(person6, city4)
+Atom at(person6, city5)
+Atom at(person6, city6)
+Atom at(person6, city7)
+Atom at(person6, city8)
+Atom at(person6, city9)
+Atom in(person6, plane1)
+Atom in(person6, plane2)
+Atom in(person6, plane3)
+Atom in(person6, plane4)
+Atom in(person6, plane5)
 end_variable
 begin_variable
 var12
 -1
 23
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
+Atom at(person5, city0)
+Atom at(person5, city1)
+Atom at(person5, city10)
+Atom at(person5, city11)
+Atom at(person5, city12)
+Atom at(person5, city13)
+Atom at(person5, city14)
+Atom at(person5, city15)
+Atom at(person5, city16)
+Atom at(person5, city17)
+Atom at(person5, city2)
+Atom at(person5, city3)
+Atom at(person5, city4)
+Atom at(person5, city5)
+Atom at(person5, city6)
+Atom at(person5, city7)
+Atom at(person5, city8)
+Atom at(person5, city9)
+Atom in(person5, plane1)
+Atom in(person5, plane2)
+Atom in(person5, plane3)
+Atom in(person5, plane4)
+Atom in(person5, plane5)
 end_variable
 begin_variable
 var13
 -1
 23
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
+Atom at(person4, city0)
+Atom at(person4, city1)
+Atom at(person4, city10)
+Atom at(person4, city11)
+Atom at(person4, city12)
+Atom at(person4, city13)
+Atom at(person4, city14)
+Atom at(person4, city15)
+Atom at(person4, city16)
+Atom at(person4, city17)
+Atom at(person4, city2)
+Atom at(person4, city3)
+Atom at(person4, city4)
+Atom at(person4, city5)
+Atom at(person4, city6)
+Atom at(person4, city7)
+Atom at(person4, city8)
+Atom at(person4, city9)
+Atom in(person4, plane1)
+Atom in(person4, plane2)
+Atom in(person4, plane3)
+Atom in(person4, plane4)
+Atom in(person4, plane5)
 end_variable
 begin_variable
 var14
 -1
 23
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
+Atom at(person3, city0)
+Atom at(person3, city1)
+Atom at(person3, city10)
+Atom at(person3, city11)
+Atom at(person3, city12)
+Atom at(person3, city13)
+Atom at(person3, city14)
+Atom at(person3, city15)
+Atom at(person3, city16)
+Atom at(person3, city17)
+Atom at(person3, city2)
+Atom at(person3, city3)
+Atom at(person3, city4)
+Atom at(person3, city5)
+Atom at(person3, city6)
+Atom at(person3, city7)
+Atom at(person3, city8)
+Atom at(person3, city9)
+Atom in(person3, plane1)
+Atom in(person3, plane2)
+Atom in(person3, plane3)
+Atom in(person3, plane4)
+Atom in(person3, plane5)
 end_variable
 begin_variable
 var15
 -1
 23
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
+Atom at(person20, city0)
+Atom at(person20, city1)
+Atom at(person20, city10)
+Atom at(person20, city11)
+Atom at(person20, city12)
+Atom at(person20, city13)
+Atom at(person20, city14)
+Atom at(person20, city15)
+Atom at(person20, city16)
+Atom at(person20, city17)
+Atom at(person20, city2)
+Atom at(person20, city3)
+Atom at(person20, city4)
+Atom at(person20, city5)
+Atom at(person20, city6)
+Atom at(person20, city7)
+Atom at(person20, city8)
+Atom at(person20, city9)
+Atom in(person20, plane1)
+Atom in(person20, plane2)
+Atom in(person20, plane3)
+Atom in(person20, plane4)
+Atom in(person20, plane5)
 end_variable
 begin_variable
 var16
 -1
 23
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
+Atom at(person2, city0)
+Atom at(person2, city1)
+Atom at(person2, city10)
+Atom at(person2, city11)
+Atom at(person2, city12)
+Atom at(person2, city13)
+Atom at(person2, city14)
+Atom at(person2, city15)
+Atom at(person2, city16)
+Atom at(person2, city17)
+Atom at(person2, city2)
+Atom at(person2, city3)
+Atom at(person2, city4)
+Atom at(person2, city5)
+Atom at(person2, city6)
+Atom at(person2, city7)
+Atom at(person2, city8)
+Atom at(person2, city9)
+Atom in(person2, plane1)
+Atom in(person2, plane2)
+Atom in(person2, plane3)
+Atom in(person2, plane4)
+Atom in(person2, plane5)
 end_variable
 begin_variable
 var17
 -1
 23
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
+Atom at(person19, city0)
+Atom at(person19, city1)
+Atom at(person19, city10)
+Atom at(person19, city11)
+Atom at(person19, city12)
+Atom at(person19, city13)
+Atom at(person19, city14)
+Atom at(person19, city15)
+Atom at(person19, city16)
+Atom at(person19, city17)
+Atom at(person19, city2)
+Atom at(person19, city3)
+Atom at(person19, city4)
+Atom at(person19, city5)
+Atom at(person19, city6)
+Atom at(person19, city7)
+Atom at(person19, city8)
+Atom at(person19, city9)
+Atom in(person19, plane1)
+Atom in(person19, plane2)
+Atom in(person19, plane3)
+Atom in(person19, plane4)
+Atom in(person19, plane5)
 end_variable
 begin_variable
 var18
 -1
 23
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
+Atom at(person18, city0)
+Atom at(person18, city1)
+Atom at(person18, city10)
+Atom at(person18, city11)
+Atom at(person18, city12)
+Atom at(person18, city13)
+Atom at(person18, city14)
+Atom at(person18, city15)
+Atom at(person18, city16)
+Atom at(person18, city17)
+Atom at(person18, city2)
+Atom at(person18, city3)
+Atom at(person18, city4)
+Atom at(person18, city5)
+Atom at(person18, city6)
+Atom at(person18, city7)
+Atom at(person18, city8)
+Atom at(person18, city9)
+Atom in(person18, plane1)
+Atom in(person18, plane2)
+Atom in(person18, plane3)
+Atom in(person18, plane4)
+Atom in(person18, plane5)
 end_variable
 begin_variable
 var19
 -1
 23
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
+Atom at(person17, city0)
+Atom at(person17, city1)
+Atom at(person17, city10)
+Atom at(person17, city11)
+Atom at(person17, city12)
+Atom at(person17, city13)
+Atom at(person17, city14)
+Atom at(person17, city15)
+Atom at(person17, city16)
+Atom at(person17, city17)
+Atom at(person17, city2)
+Atom at(person17, city3)
+Atom at(person17, city4)
+Atom at(person17, city5)
+Atom at(person17, city6)
+Atom at(person17, city7)
+Atom at(person17, city8)
+Atom at(person17, city9)
+Atom in(person17, plane1)
+Atom in(person17, plane2)
+Atom in(person17, plane3)
+Atom in(person17, plane4)
+Atom in(person17, plane5)
 end_variable
 begin_variable
 var20
 -1
 23
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
+Atom at(person16, city0)
+Atom at(person16, city1)
+Atom at(person16, city10)
+Atom at(person16, city11)
+Atom at(person16, city12)
+Atom at(person16, city13)
+Atom at(person16, city14)
+Atom at(person16, city15)
+Atom at(person16, city16)
+Atom at(person16, city17)
+Atom at(person16, city2)
+Atom at(person16, city3)
+Atom at(person16, city4)
+Atom at(person16, city5)
+Atom at(person16, city6)
+Atom at(person16, city7)
+Atom at(person16, city8)
+Atom at(person16, city9)
+Atom in(person16, plane1)
+Atom in(person16, plane2)
+Atom in(person16, plane3)
+Atom in(person16, plane4)
+Atom in(person16, plane5)
 end_variable
 begin_variable
 var21
 -1
 23
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
+Atom at(person15, city0)
+Atom at(person15, city1)
+Atom at(person15, city10)
+Atom at(person15, city11)
+Atom at(person15, city12)
+Atom at(person15, city13)
+Atom at(person15, city14)
+Atom at(person15, city15)
+Atom at(person15, city16)
+Atom at(person15, city17)
+Atom at(person15, city2)
+Atom at(person15, city3)
+Atom at(person15, city4)
+Atom at(person15, city5)
+Atom at(person15, city6)
+Atom at(person15, city7)
+Atom at(person15, city8)
+Atom at(person15, city9)
+Atom in(person15, plane1)
+Atom in(person15, plane2)
+Atom in(person15, plane3)
+Atom in(person15, plane4)
+Atom in(person15, plane5)
 end_variable
 begin_variable
 var22
 -1
 23
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
+Atom at(person14, city0)
+Atom at(person14, city1)
+Atom at(person14, city10)
+Atom at(person14, city11)
+Atom at(person14, city12)
+Atom at(person14, city13)
+Atom at(person14, city14)
+Atom at(person14, city15)
+Atom at(person14, city16)
+Atom at(person14, city17)
+Atom at(person14, city2)
+Atom at(person14, city3)
+Atom at(person14, city4)
+Atom at(person14, city5)
+Atom at(person14, city6)
+Atom at(person14, city7)
+Atom at(person14, city8)
+Atom at(person14, city9)
+Atom in(person14, plane1)
+Atom in(person14, plane2)
+Atom in(person14, plane3)
+Atom in(person14, plane4)
+Atom in(person14, plane5)
 end_variable
 begin_variable
 var23
 -1
 23
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
+Atom at(person13, city0)
+Atom at(person13, city1)
+Atom at(person13, city10)
+Atom at(person13, city11)
+Atom at(person13, city12)
+Atom at(person13, city13)
+Atom at(person13, city14)
+Atom at(person13, city15)
+Atom at(person13, city16)
+Atom at(person13, city17)
+Atom at(person13, city2)
+Atom at(person13, city3)
+Atom at(person13, city4)
+Atom at(person13, city5)
+Atom at(person13, city6)
+Atom at(person13, city7)
+Atom at(person13, city8)
+Atom at(person13, city9)
+Atom in(person13, plane1)
+Atom in(person13, plane2)
+Atom in(person13, plane3)
+Atom in(person13, plane4)
+Atom in(person13, plane5)
 end_variable
 begin_variable
 var24
 -1
 23
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
+Atom at(person12, city0)
+Atom at(person12, city1)
+Atom at(person12, city10)
+Atom at(person12, city11)
+Atom at(person12, city12)
+Atom at(person12, city13)
+Atom at(person12, city14)
+Atom at(person12, city15)
+Atom at(person12, city16)
+Atom at(person12, city17)
+Atom at(person12, city2)
+Atom at(person12, city3)
+Atom at(person12, city4)
+Atom at(person12, city5)
+Atom at(person12, city6)
+Atom at(person12, city7)
+Atom at(person12, city8)
+Atom at(person12, city9)
+Atom in(person12, plane1)
+Atom in(person12, plane2)
+Atom in(person12, plane3)
+Atom in(person12, plane4)
+Atom in(person12, plane5)
 end_variable
 begin_variable
 var25
 -1
 23
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
+Atom at(person11, city0)
+Atom at(person11, city1)
+Atom at(person11, city10)
+Atom at(person11, city11)
+Atom at(person11, city12)
+Atom at(person11, city13)
+Atom at(person11, city14)
+Atom at(person11, city15)
+Atom at(person11, city16)
+Atom at(person11, city17)
+Atom at(person11, city2)
+Atom at(person11, city3)
+Atom at(person11, city4)
+Atom at(person11, city5)
+Atom at(person11, city6)
+Atom at(person11, city7)
+Atom at(person11, city8)
+Atom at(person11, city9)
+Atom in(person11, plane1)
+Atom in(person11, plane2)
+Atom in(person11, plane3)
+Atom in(person11, plane4)
+Atom in(person11, plane5)
 end_variable
 begin_variable
 var26
 -1
 23
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
+Atom at(person10, city0)
+Atom at(person10, city1)
+Atom at(person10, city10)
+Atom at(person10, city11)
+Atom at(person10, city12)
+Atom at(person10, city13)
+Atom at(person10, city14)
+Atom at(person10, city15)
+Atom at(person10, city16)
+Atom at(person10, city17)
+Atom at(person10, city2)
+Atom at(person10, city3)
+Atom at(person10, city4)
+Atom at(person10, city5)
+Atom at(person10, city6)
+Atom at(person10, city7)
+Atom at(person10, city8)
+Atom at(person10, city9)
+Atom in(person10, plane1)
+Atom in(person10, plane2)
+Atom in(person10, plane3)
+Atom in(person10, plane4)
+Atom in(person10, plane5)
 end_variable
 begin_variable
 var27
 -1
 23
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
+Atom at(person1, city0)
+Atom at(person1, city1)
+Atom at(person1, city10)
+Atom at(person1, city11)
+Atom at(person1, city12)
+Atom at(person1, city13)
+Atom at(person1, city14)
+Atom at(person1, city15)
+Atom at(person1, city16)
+Atom at(person1, city17)
+Atom at(person1, city2)
+Atom at(person1, city3)
+Atom at(person1, city4)
+Atom at(person1, city5)
+Atom at(person1, city6)
+Atom at(person1, city7)
+Atom at(person1, city8)
+Atom at(person1, city9)
+Atom in(person1, plane1)
+Atom in(person1, plane2)
+Atom in(person1, plane3)
+Atom in(person1, plane4)
+Atom in(person1, plane5)
 end_variable
 0
 begin_state
