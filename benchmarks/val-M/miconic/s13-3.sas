@@ -9,214 +9,214 @@ begin_variable
 var0
 -1
 26
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
+Atom lift-at(f0)
+Atom lift-at(f1)
+Atom lift-at(f10)
+Atom lift-at(f11)
+Atom lift-at(f12)
+Atom lift-at(f13)
+Atom lift-at(f14)
+Atom lift-at(f15)
+Atom lift-at(f16)
+Atom lift-at(f17)
+Atom lift-at(f18)
+Atom lift-at(f19)
+Atom lift-at(f2)
+Atom lift-at(f20)
+Atom lift-at(f21)
+Atom lift-at(f22)
+Atom lift-at(f23)
+Atom lift-at(f24)
+Atom lift-at(f25)
+Atom lift-at(f3)
+Atom lift-at(f4)
+Atom lift-at(f5)
+Atom lift-at(f6)
+Atom lift-at(f7)
+Atom lift-at(f8)
+Atom lift-at(f9)
 end_variable
 begin_variable
 var1
 -1
 2
-0
-1
+Atom boarded(p9)
+NegatedAtom boarded(p9)
 end_variable
 begin_variable
 var2
 -1
 2
-0
-1
+Atom served(p9)
+NegatedAtom served(p9)
 end_variable
 begin_variable
 var3
 -1
 2
-0
-1
+Atom boarded(p8)
+NegatedAtom boarded(p8)
 end_variable
 begin_variable
 var4
 -1
 2
-0
-1
+Atom served(p8)
+NegatedAtom served(p8)
 end_variable
 begin_variable
 var5
 -1
 2
-0
-1
+Atom boarded(p7)
+NegatedAtom boarded(p7)
 end_variable
 begin_variable
 var6
 -1
 2
-0
-1
+Atom served(p7)
+NegatedAtom served(p7)
 end_variable
 begin_variable
 var7
 -1
 2
-0
-1
+Atom boarded(p6)
+NegatedAtom boarded(p6)
 end_variable
 begin_variable
 var8
 -1
 2
-0
-1
+Atom served(p6)
+NegatedAtom served(p6)
 end_variable
 begin_variable
 var9
 -1
 2
-0
-1
+Atom boarded(p5)
+NegatedAtom boarded(p5)
 end_variable
 begin_variable
 var10
 -1
 2
-0
-1
+Atom served(p5)
+NegatedAtom served(p5)
 end_variable
 begin_variable
 var11
 -1
 2
-0
-1
+Atom boarded(p4)
+NegatedAtom boarded(p4)
 end_variable
 begin_variable
 var12
 -1
 2
-0
-1
+Atom served(p4)
+NegatedAtom served(p4)
 end_variable
 begin_variable
 var13
 -1
 2
-0
-1
+Atom boarded(p3)
+NegatedAtom boarded(p3)
 end_variable
 begin_variable
 var14
 -1
 2
-0
-1
+Atom served(p3)
+NegatedAtom served(p3)
 end_variable
 begin_variable
 var15
 -1
 2
-0
-1
+Atom boarded(p2)
+NegatedAtom boarded(p2)
 end_variable
 begin_variable
 var16
 -1
 2
-0
-1
+Atom served(p2)
+NegatedAtom served(p2)
 end_variable
 begin_variable
 var17
 -1
 2
-0
-1
+Atom boarded(p12)
+NegatedAtom boarded(p12)
 end_variable
 begin_variable
 var18
 -1
 2
-0
-1
+Atom served(p12)
+NegatedAtom served(p12)
 end_variable
 begin_variable
 var19
 -1
 2
-0
-1
+Atom boarded(p11)
+NegatedAtom boarded(p11)
 end_variable
 begin_variable
 var20
 -1
 2
-0
-1
+Atom served(p11)
+NegatedAtom served(p11)
 end_variable
 begin_variable
 var21
 -1
 2
-0
-1
+Atom boarded(p10)
+NegatedAtom boarded(p10)
 end_variable
 begin_variable
 var22
 -1
 2
-0
-1
+Atom served(p10)
+NegatedAtom served(p10)
 end_variable
 begin_variable
 var23
 -1
 2
-0
-1
+Atom boarded(p1)
+NegatedAtom boarded(p1)
 end_variable
 begin_variable
 var24
 -1
 2
-0
-1
+Atom served(p1)
+NegatedAtom served(p1)
 end_variable
 begin_variable
 var25
 -1
 2
-0
-1
+Atom boarded(p0)
+NegatedAtom boarded(p0)
 end_variable
 begin_variable
 var26
 -1
 2
-0
-1
+Atom served(p0)
+NegatedAtom served(p0)
 end_variable
 0
 begin_state

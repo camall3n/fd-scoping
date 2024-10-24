@@ -9,98 +9,98 @@ begin_variable
 var0
 -1
 4
-0
-1
-2
-3
+Atom at(plane2, city0)
+Atom at(plane2, city1)
+Atom at(plane2, city2)
+Atom at(plane2, city3)
 end_variable
 begin_variable
 var1
 -1
 7
-0
-1
-2
-3
-4
-5
-6
+Atom fuel-level(plane2, fl0)
+Atom fuel-level(plane2, fl1)
+Atom fuel-level(plane2, fl2)
+Atom fuel-level(plane2, fl3)
+Atom fuel-level(plane2, fl4)
+Atom fuel-level(plane2, fl5)
+Atom fuel-level(plane2, fl6)
 end_variable
 begin_variable
 var2
 -1
 4
-0
-1
-2
-3
+Atom at(plane1, city0)
+Atom at(plane1, city1)
+Atom at(plane1, city2)
+Atom at(plane1, city3)
 end_variable
 begin_variable
 var3
 -1
 7
-0
-1
-2
-3
-4
-5
-6
+Atom fuel-level(plane1, fl0)
+Atom fuel-level(plane1, fl1)
+Atom fuel-level(plane1, fl2)
+Atom fuel-level(plane1, fl3)
+Atom fuel-level(plane1, fl4)
+Atom fuel-level(plane1, fl5)
+Atom fuel-level(plane1, fl6)
 end_variable
 begin_variable
 var4
 -1
 6
-0
-1
-2
-3
-4
-5
+Atom at(person5, city0)
+Atom at(person5, city1)
+Atom at(person5, city2)
+Atom at(person5, city3)
+Atom in(person5, plane1)
+Atom in(person5, plane2)
 end_variable
 begin_variable
 var5
 -1
 6
-0
-1
-2
-3
-4
-5
+Atom at(person4, city0)
+Atom at(person4, city1)
+Atom at(person4, city2)
+Atom at(person4, city3)
+Atom in(person4, plane1)
+Atom in(person4, plane2)
 end_variable
 begin_variable
 var6
 -1
 6
-0
-1
-2
-3
-4
-5
+Atom at(person3, city0)
+Atom at(person3, city1)
+Atom at(person3, city2)
+Atom at(person3, city3)
+Atom in(person3, plane1)
+Atom in(person3, plane2)
 end_variable
 begin_variable
 var7
 -1
 6
-0
-1
-2
-3
-4
-5
+Atom at(person2, city0)
+Atom at(person2, city1)
+Atom at(person2, city2)
+Atom at(person2, city3)
+Atom in(person2, plane1)
+Atom in(person2, plane2)
 end_variable
 begin_variable
 var8
 -1
 6
-0
-1
-2
-3
-4
-5
+Atom at(person1, city0)
+Atom at(person1, city1)
+Atom at(person1, city2)
+Atom at(person1, city3)
+Atom in(person1, plane1)
+Atom in(person1, plane2)
 end_variable
 0
 begin_state

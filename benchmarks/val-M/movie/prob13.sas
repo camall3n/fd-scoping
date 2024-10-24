@@ -9,50 +9,50 @@ begin_variable
 var0
 -1
 2
-0
-1
+Atom movie-rewound()
+NegatedAtom movie-rewound()
 end_variable
 begin_variable
 var1
 -1
 2
-0
-1
+Atom have-pop()
+NegatedAtom have-pop()
 end_variable
 begin_variable
 var2
 -1
 2
-0
-1
+Atom have-dip()
+NegatedAtom have-dip()
 end_variable
 begin_variable
 var3
 -1
 2
-0
-1
+Atom have-crackers()
+NegatedAtom have-crackers()
 end_variable
 begin_variable
 var4
 -1
 2
-0
-1
+Atom have-chips()
+NegatedAtom have-chips()
 end_variable
 begin_variable
 var5
 -1
 2
-0
-1
+Atom have-cheese()
+NegatedAtom have-cheese()
 end_variable
 begin_variable
 var6
 -1
 2
-0
-1
+Atom counter-at-zero()
+NegatedAtom counter-at-zero()
 end_variable
 0
 begin_state

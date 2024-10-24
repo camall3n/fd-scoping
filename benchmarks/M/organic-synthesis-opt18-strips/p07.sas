@@ -9,99 +9,99 @@ begin_variable
 var0
 -1
 2
-0
-1
+Atom bond(br1, cu1)
+NegatedAtom bond(br1, cu1)
 end_variable
 begin_variable
 var1
 -1
 2
-0
-1
+Atom bond(br2, cu2)
+NegatedAtom bond(br2, cu2)
 end_variable
 begin_variable
 var2
 -1
 2
-0
-1
+Atom bond(cl1, cu1)
+NegatedAtom bond(cl1, cu1)
 end_variable
 begin_variable
 var3
 -1
 2
-0
-1
+Atom bond(cl2, cu1)
+NegatedAtom bond(cl2, cu1)
 end_variable
 begin_variable
 var4
 -1
 2
-0
-1
+Atom bond(cl1, cu2)
+NegatedAtom bond(cl1, cu2)
 end_variable
 begin_variable
 var5
 -1
 2
-0
-1
+Atom bond(cl2, cu2)
+NegatedAtom bond(cl2, cu2)
 end_variable
 begin_variable
 var6
 -1
 2
-0
-1
+Atom bond(cl1, n2)
+NegatedAtom bond(cl1, n2)
 end_variable
 begin_variable
 var7
 -1
 2
-0
-1
+Atom bond(n, c1)
+NegatedAtom bond(n, c1)
 end_variable
 begin_variable
 var8
 -1
 2
-0
-1
+Atom bond(cl2, n4)
+NegatedAtom bond(cl2, n4)
 end_variable
 begin_variable
 var9
 -1
 2
-0
-1
+Atom bond(n3, c3)
+NegatedAtom bond(n3, c3)
 end_variable
 begin_variable
 var10
 -1
 2
-0
-1
+Atom bond(c3, br2)
+NegatedAtom bond(c3, br2)
 end_variable
 begin_variable
 var11
 -1
 2
-0
-1
+Atom bond(br2, c3)
+NegatedAtom bond(br2, c3)
 end_variable
 begin_variable
 var12
 -1
 2
-0
-1
+Atom bond(c1, br1)
+NegatedAtom bond(c1, br1)
 end_variable
 begin_variable
 var13
 -1
 2
-0
-1
+Atom bond(br1, c1)
+NegatedAtom bond(br1, c1)
 end_variable
 0
 begin_state

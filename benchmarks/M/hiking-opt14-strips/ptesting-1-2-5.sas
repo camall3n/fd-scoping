@@ -9,68 +9,68 @@ begin_variable
 var0
 -1
 2
-0
-1
+Atom down(tent0)
+Atom up(tent0)
 end_variable
 begin_variable
 var1
 -1
 5
-0
-1
-2
-3
-4
+Atom at_car(car0, place0)
+Atom at_car(car0, place1)
+Atom at_car(car0, place2)
+Atom at_car(car0, place3)
+Atom at_car(car0, place4)
 end_variable
 begin_variable
 var2
 -1
 5
-0
-1
-2
-3
-4
+Atom at_car(car1, place0)
+Atom at_car(car1, place1)
+Atom at_car(car1, place2)
+Atom at_car(car1, place3)
+Atom at_car(car1, place4)
 end_variable
 begin_variable
 var3
 -1
 5
-0
-1
-2
-3
-4
+Atom at_tent(tent0, place0)
+Atom at_tent(tent0, place1)
+Atom at_tent(tent0, place2)
+Atom at_tent(tent0, place3)
+Atom at_tent(tent0, place4)
 end_variable
 begin_variable
 var4
 -1
 5
-0
-1
-2
-3
-4
+Atom at_person(girl0, place0)
+Atom at_person(girl0, place1)
+Atom at_person(girl0, place2)
+Atom at_person(girl0, place3)
+Atom at_person(girl0, place4)
 end_variable
 begin_variable
 var5
 -1
 5
-0
-1
-2
-3
-4
+Atom at_person(guy0, place0)
+Atom at_person(guy0, place1)
+Atom at_person(guy0, place2)
+Atom at_person(guy0, place3)
+Atom at_person(guy0, place4)
 end_variable
 begin_variable
 var6
 -1
 5
-0
-1
-2
-3
-4
+Atom walked(couple0, place0)
+Atom walked(couple0, place1)
+Atom walked(couple0, place2)
+Atom walked(couple0, place3)
+Atom walked(couple0, place4)
 end_variable
 0
 begin_state
